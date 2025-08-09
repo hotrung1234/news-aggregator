@@ -1,6 +1,6 @@
 window.newsData_2025_08_10 = {
   "date": "2025-08-10",
-  "lastUpdated": "2025-08-10T01:23:56.465190+07:00",
+  "lastUpdated": "2025-08-10T03:18:14.954033+07:00",
   "articles": [
     {
       "id": "4ee8e9a80284ef46a6dd2727df59ad96",
@@ -151,6 +151,36 @@ window.newsData_2025_08_10 = {
       "category": "Tổng hợp",
       "published": "2025-08-10T01:23:49.691747+07:00",
       "fetched": "2025-08-10T01:23:49.691953+07:00"
+    },
+    {
+      "id": "7d166d0d4de2a382c7258feeec1504ee",
+      "title": "Gyokeres ghi bàn, Arsenal đoạt Emirates Cup",
+      "link": "https://vnexpress.net/gyokeres-ghi-ban-arsenal-doat-emirates-cup-4924961.html",
+      "summary": "Tiền đạo 86 triệu USD Viktor Gyokeres ghi bàn đầu tiên, giúp Arsenal thắng Bilbao 3-0 trong trận tranh Emirates Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T19:15:30+07:00",
+      "fetched": "2025-08-10T03:18:04.002585+07:00"
+    },
+    {
+      "id": "7d166d0d4de2a382c7258feeec1504ee",
+      "title": "Gyokeres ghi bàn, Arsenal đoạt Emirates Cup",
+      "link": "https://vnexpress.net/gyokeres-ghi-ban-arsenal-doat-emirates-cup-4924961.html",
+      "summary": "Tiền đạo 86 triệu USD Viktor Gyokeres ghi bàn đầu tiên, giúp Arsenal thắng Bilbao 3-0 trong trận tranh Emirates Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T19:15:30+07:00",
+      "fetched": "2025-08-10T03:18:14.949297+07:00"
+    },
+    {
+      "id": "b0a2a8c73ee4ef9356e549c372929d59",
+      "title": "Vé bán kết ấn tượng của đội tuyển nữ Việt Nam: Phải đánh bại Thái Lan, giành ngôi đầu bảng",
+      "link": "https://thanhnien.vn/ve-ban-ket-an-tuong-cua-doi-tuyen-nu-viet-nam-phai-danh-bai-thai-lan-gianh-ngoi-dau-bang-185250809221340647.htm",
+      "summary": "Dù chưa bung hết sức, nhưng đội tuyển nữ VN vẫn dễ dàng đánh bại Campuchia (6-0) và Indonesia (7-0) để vào bán kết sớm một lượt đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T19:12:00+07:00",
+      "fetched": "2025-08-10T03:18:07.042122+07:00"
     },
     {
       "id": "72dd13815ab4f308f500df2f997717ee",
