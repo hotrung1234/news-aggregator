@@ -578,4 +578,100 @@ footer {
         align-items: stretch;
     }
     
-    .source-
+    .source-actions {
+       align-self: flex-end;
+   }
+   
+   .footer-content {
+       flex-direction: column;
+       text-align: center;
+   }
+}
+
+@media (max-width: 480px) {
+   header h1 {
+       font-size: 1.8em;
+   }
+   
+   .news-item:hover {
+       margin: 0 -10px;
+       padding-left: 10px;
+       padding-right: 10px;
+   }
+   
+   .news-list {
+       padding: 20px;
+   }
+   
+   .modal-header {
+       padding: 15px 20px;
+   }
+   
+   .modal-body {
+       padding: 15px;
+   }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+   .news-item:hover {
+       background: #f1f3f4;
+   }
+}
+
+/* Print styles */
+@media print {
+   body {
+       background: white;
+   }
+   
+   .controls,
+   .modal,
+   footer {
+       display: none;
+   }
+   
+   .container {
+       max-width: none;
+       padding: 0;
+   }
+   
+   .news-item {
+       break-inside: avoid;
+   }
+}
+
+/* Animation for loading */
+@keyframes fadeIn {
+   from {
+       opacity: 0;
+       transform: translateY(20px);
+   }
+   to {
+       opacity: 1;
+       transform: translateY(0);
+   }
+}
+
+.news-item {
+   animation: fadeIn 0.5s ease-out;
+}
+
+/* Scrollbar styling */
+.modal-body::-webkit-scrollbar {
+   width: 6px;
+}
+
+.modal-body::-webkit-scrollbar-track {
+   background: #f1f1f1;
+   border-radius: 3px;
+}
+
+.modal-body::-webkit-scrollbar-thumb {
+   background: #c1c1c1;
+   border-radius: 3px;
+}
+
+.modal-body::-webkit-scrollbar-thumb:hover {
+   background: #a8a8a8;
+}
