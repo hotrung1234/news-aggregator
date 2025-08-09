@@ -1,6 +1,6 @@
 window.newsData_2025_08_09 = {
   "date": "2025-08-09",
-  "lastUpdated": "2025-08-09T17:17:02.751726+07:00",
+  "lastUpdated": "2025-08-09T19:33:43.825529+07:00",
   "articles": [
     {
       "id": "9b6496ed3de80c68ba280fb57908e4d7",
@@ -453,6 +453,216 @@ window.newsData_2025_08_09 = {
       "fetched": "2025-08-09T13:24:50.313544+07:00"
     },
     {
+      "id": "ef6ecfefafd8ee5225f1fe4225dfdc84",
+      "title": "Lâm Khánh Chi: Thời mới vào nghề, cát sê 200.000 đồng tôi đã đi xe hơi",
+      "link": "https://thanhnien.vn/lam-khanh-chi-thoi-moi-vao-nghe-cat-se-200000-dong-toi-da-di-xe-hoi-185250809180843349.htm",
+      "summary": "Vì gia đình có điều kiện nên những ngày đầu hoạt động nghệ thuật, Lâm Khánh Chi không gặp nhiều khó khăn. Sau 3 năm đi hát, giọng ca 7X tổ chức liveshow và được khán giả chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:28:00+07:00",
+      "fetched": "2025-08-09T19:33:33.735969+07:00"
+    },
+    {
+      "id": "092738ddb97e2b824440a2c00a8cf538",
+      "title": "Cầu Phong Châu mới sẽ thông xe vào đầu tháng 10",
+      "link": "https://thanhnien.vn/cau-phong-chau-moi-se-thong-xe-vao-dau-thang-10-185250809162347849.htm",
+      "summary": "Dự kiến ngày 28.8 sẽ hợp long cầu Phong Châu mới (Phú Thọ) để cuối tháng 9 hoàn thành và thông xe cầu đầu tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:21:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736136+07:00"
+    },
+    {
+      "id": "c7094772e4097d5c07ef1d4364d392c5",
+      "title": "Thủ tướng 'chốt' ngày đưa đường dây 500 kV Lào Cai - Vĩnh Yên về đích",
+      "link": "https://thanhnien.vn/thu-tuong-chot-ngay-dua-duong-day-500-kv-lao-cai-vinh-yen-ve-dich-185250809154258302.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính yêu cầu lập tổ chỉ huy tiền phương, huy động tối đa nhân lực từ các lực lượng: công an, quân đội, thanh niên..., quyết tâm đưa Dự án đường dây 500 kV Lào Cai - Vĩnh Yên về đích trong ngày 19.8",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:21:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736315+07:00"
+    },
+    {
+      "id": "0f9c69c7dbfce5b8f4106965092ddfc1",
+      "title": "Ấn Độ tuyên bố S-400 đã hạ loạt máy bay Pakistan trong xung đột 4 ngày",
+      "link": "https://vnexpress.net/an-do-tuyen-bo-s-400-da-ha-loat-may-bay-pakistan-trong-xung-dot-4-ngay-4924885.html",
+      "summary": "Tư lệnh không quân Ấn Độ nói rằng nước này bắn rơi 6 máy bay các loại của Pakistan trong xung đột tháng 5, phần lớn nhờ hệ thống S-400.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-09T12:06:59+07:00",
+      "fetched": "2025-08-09T19:33:36.605104+07:00"
+    },
+    {
+      "id": "67fa5abb6004dd90ad280155f5cca65d",
+      "title": "Tân khoa đi trên đường hoa trạng nguyên nhận bằng tốt nghiệp",
+      "link": "https://thanhnien.vn/tan-khoa-di-tren-duong-hoa-trang-nguyen-nhan-bang-tot-nghiep-185250809173654085.htm",
+      "summary": "Hơn 600 tân cử nhân, kiến trúc sư và dược sĩ Trường ĐH Yersin Đà Lạt bước đi trên con đường hoa trạng nguyên để nhận bằng tốt nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:05:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736471+07:00"
+    },
+    {
+      "id": "cbebfbe4e0c4cbc14583d8fb7952fea1",
+      "title": "Cà Mau: Rà soát toàn diện đảng viên vi phạm",
+      "link": "https://thanhnien.vn/ca-mau-ra-soat-toan-dien-dang-vien-vi-pham-185250809173002553.htm",
+      "summary": "Từ vụ một cán bộ bị khởi tố vẫn được bố trí việc làm sau sáp nhập, Ủy ban kiểm tra Tỉnh ủy Cà Mau yêu cầu các đơn vị rà soát toàn diện đảng viên vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:03:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736622+07:00"
+    },
+    {
+      "id": "deac9724acb7799415ef59ee956eb6f8",
+      "title": "Đừng nhầm với cảm cúm: những triệu chứng cảnh báo bệnh não mô cầu nguy hiểm",
+      "link": "https://thanhnien.vn/dung-nham-voi-cam-cum-nhung-trieu-chung-canh-bao-benh-nao-mo-cau-nguy-hiem-185250809173102854.htm",
+      "summary": "Viêm màng não do não mô cầu được xem là 'bệnh tử 24 giờ' vì có thể đe dọa tính mạng người bệnh trong vòng chưa đầy một ngày khởi phát cơn sốt. Tổ chức Y tế Thế giới khuyến cáo tiêm chủng là giải pháp hữu hiệu để phòng ngừa viêm màng não mô cầu trong cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:00:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736771+07:00"
+    },
+    {
+      "id": "bdf1974530c451d449552947caa4a1f4",
+      "title": "Trăng tròn nhất rơi vào 16 âm lịch hôm nay, không phải rằm tháng 6 nhuận",
+      "link": "https://thanhnien.vn/trang-tron-nhat-roi-vao-16-am-lich-hom-nay-khong-phai-ram-thang-6-nhuan-185250809104814987.htm",
+      "summary": "Tại Việt Nam, mặt trăng tròn nhất trong tháng không diễn ra vào ngày 8.8.2025, tức rằm tháng 6 nhuận mà là ngày 9.8, ngày 16 theo lịch âm hôm nay. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:00:00+07:00",
+      "fetched": "2025-08-09T19:33:33.736920+07:00"
+    },
+    {
+      "id": "7cb68fa64a69ce9a68f69ebbb847980d",
+      "title": "Biến tấu năng động cùng phong cách athleisure",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bien-tau-nang-dong-cung-phong-cach-athleisure-18525080818033046.htm",
+      "summary": "Phong cách athleisure là sự kết hợp hoàn hảo của yếu tố thể thao và thời trang đời thường, cho phép người mặc dễ dàng di chuyển, vận động mà vẫn giữ được thần thái sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T12:00:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737076+07:00"
+    },
+    {
+      "id": "49edba9e5b31741c39d8ebd23fb9b53d",
+      "title": "Hành trình tìm lại gương mặt cho các thương binh Ukraine",
+      "link": "https://vnexpress.net/hanh-trinh-tim-lai-guong-mat-cho-cac-thuong-binh-ukraine-4923701.html",
+      "summary": "Nhiều thương binh Ukraine bị biến dạng gương mặt trong giao tranh, việc tái tạo chúng giúp họ bớt mặc cảm và tự ti để sống cuộc đời mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-09T12:00:00+07:00",
+      "fetched": "2025-08-09T19:33:36.605302+07:00"
+    },
+    {
+      "id": "0322e97da57dadd50c84a7bc2c71b151",
+      "title": "Sam Altman nói không còn quan tâm nhiều về Elon Musk",
+      "link": "https://vnexpress.net/sam-altman-noi-khong-con-quan-tam-nhieu-ve-elon-musk-4924665.html",
+      "summary": "\"Ông chủ\" OpenAI Sam Altman nói không còn quan tâm nhiều đến Elon Musk khi được yêu cầu bình luận về cảnh báo mới nhất của CEO Tesla.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-09T12:00:00+07:00",
+      "fetched": "2025-08-09T19:33:41.980446+07:00"
+    },
+    {
+      "id": "f585cef0dc72366269a029ed2b05ed6f",
+      "title": "Cụ bà 76 tuổi suýt mất 100 triệu đồng vì nhóm lừa đảo giả danh công an",
+      "link": "https://thanhnien.vn/cu-ba-76-tuoi-suyt-mat-100-trieu-dong-vi-nhom-lua-dao-gia-danh-cong-an-185250809180808591.htm",
+      "summary": "Ngày 9.8, Công an tỉnh Đồng Nai cho biết đã kịp thời ngăn chặn cụ bà 76 tuổi bị nhóm người giả danh công an yêu cầu chuyển 100 triệu đồng khi đang giao dịch tại ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:57:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737247+07:00"
+    },
+    {
+      "id": "b699e6d0816853bff305dceceb80264e",
+      "title": "AFF Cup nữ 2025, đội tuyển nữ Việt Nam 0-0 Indonesia: Thêm một cơn mưa bàn thắng?",
+      "link": "https://thanhnien.vn/aff-cup-nu-2025-doi-tuyen-nu-viet-nam-0-0-indonesia-them-mot-con-mua-ban-thang-185250809184812532.htm",
+      "summary": "Ở lượt trận thứ 2 bảng A giải bóng đá nữ vô địch Đông Nam Á 2025, đội tuyển nữ Việt Nam cần phải giành một chiến thắng đậm trước Indonesia để cạnh tranh ngôi đầu bảng. Trận đấu này sẽ diễn ra lúc 19 giờ 30 ngày 9.8 trên sân Lạch Tray.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:48:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737403+07:00"
+    },
+    {
+      "id": "eb3f8a75484eec7c83a558e868cd9731",
+      "title": "Mang còng số 8 xông vào sới bạc cướp tiền của 4 phụ nữ",
+      "link": "https://vnexpress.net/mang-cong-so-8-xong-vao-soi-bac-cuop-tien-cua-4-phu-nu-4924903.html",
+      "summary": "Huỳnh Duy Tuấn, 34 tuổi, và đồng phạm giả danh công an, mang theo còng số 8 xông vào nơi nhóm phụ nữ đánh bạc, cướp 170.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:46:18+07:00",
+      "fetched": "2025-08-09T19:33:23.321562+07:00"
+    },
+    {
+      "id": "b504f5f2f874437e48216ed1ad9e00dd",
+      "title": "Xổ số miền Nam ngày 9 tháng 8: Người đàn ông Cà Mau trúng 4 tờ, nhận 200 triệu",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-8-nguoi-dan-ong-ca-mau-trung-4-to-nhan-200-trieu-185250809181636243.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 9 tháng 8, người đàn ông ở Cà Mau cùng người quen đến đại lý đổi thưởng 4 tờ vé số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:42:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737556+07:00"
+    },
+    {
+      "id": "ae337ef1305498f60e21a3674bda82d0",
+      "title": "3 mẫu SUV lớn hơn Ford Everest, giá dưới 2 tỉ đồng",
+      "link": "https://thanhnien.vn/3-mau-suv-lon-hon-ford-everest-gia-duoi-2-ti-dong-185250808103454249.htm",
+      "summary": "Thay vì lựa chọn những mẫu SUV hạng D như Ford Everest, Hyundai Santa Fe... người tiêu dùng có thể chi thêm một khoản tiền để \"tậu\" xe phân khúc hạng E rộng thoáng hơn, giá dưới 2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:42:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737709+07:00"
+    },
+    {
+      "id": "4f1825eedc51cf21681750a74162996b",
+      "title": "Sân Pleiku đẹp long lanh, VPF khen nức nở: HAGL khoe ‘áo mới’, sẵn sàng chinh chiến V-League",
+      "link": "https://thanhnien.vn/san-pleiku-dep-long-lanh-vpf-khen-nuc-no-hagl-khoe-ao-moi-san-sang-chinh-chien-v-league-185250809183649136.htm",
+      "summary": "Chiều 9.8, đại diện BTC V-League 2025 - 2026 đã khen ngợi khi kiểm tra mặt cỏ sân Pleiku, đề nghị CLB HAGL tích cực chăm sóc sẵn sàng cho trận khai mạc ngày 17.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:40:00+07:00",
+      "fetched": "2025-08-09T19:33:33.737857+07:00"
+    },
+    {
+      "id": "2260f98b03f51994d541c020c5acae90",
+      "title": "GPT-5 bị chê, OpenAI đưa GPT-4o trở lại ChatGPT",
+      "link": "https://vnexpress.net/gpt-5-bi-che-openai-dua-gpt-4o-tro-lai-chatgpt-4924904.html",
+      "summary": "Trước việc người dùng phản ứng tiêu cực với bản cập nhật GPT-5 cho ChatGPT, CEO OpenAI Sam Altman cho biết đang đưa mô hình GPT-4o trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:37:03+07:00",
+      "fetched": "2025-08-09T19:33:23.321739+07:00"
+    },
+    {
+      "id": "2260f98b03f51994d541c020c5acae90",
+      "title": "GPT-5 bị chê, OpenAI đưa GPT-4o trở lại ChatGPT",
+      "link": "https://vnexpress.net/gpt-5-bi-che-openai-dua-gpt-4o-tro-lai-chatgpt-4924904.html",
+      "summary": "Trước việc người dùng phản ứng tiêu cực với bản cập nhật GPT-5 cho ChatGPT, CEO OpenAI Sam Altman cho biết đang đưa mô hình GPT-4o trở lại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-09T11:37:03+07:00",
+      "fetched": "2025-08-09T19:33:41.979611+07:00"
+    },
+    {
+      "id": "68808470097ef5434be3850d95da4ba2",
+      "title": "AFF Cup nữ: Thái Lan thắng cực đậm Campuchia, dẫn đầu bảng A",
+      "link": "https://thanhnien.vn/aff-cup-nu-thai-lan-thang-cuc-dam-campuchia-dan-dau-bang-a-185250809183623411.htm",
+      "summary": "Đội tuyển nữ Thái Lan đã thể hiện sức mạnh vượt trội và giành chiến thắng hủy diệt với tỷ số đậm 7-0 trước đội tuyển",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:37:00+07:00",
+      "fetched": "2025-08-09T19:33:33.738001+07:00"
+    },
+    {
+      "id": "07e024668b06ac9654d284f69e6264bb",
+      "title": "SUV 'xịn' nhất của Volkswagen tại Việt Nam bổ sung bản mới, giá từ 3,1 tỉ đồng",
+      "link": "https://thanhnien.vn/suv-xin-nhat-cua-volkswagen-tai-viet-nam-bo-sung-ban-moi-gia-tu-31-ti-dong-185250809171833497.htm",
+      "summary": "Hai phiên bản mới bổ sung của mẫu SUV - Volkswagen Touareg gồm Highline và R-nine thay đổi về diện mạo, thêm trang bị cao cấp, giá từ 3,099 - 3,399 tỉ đồng tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:30:00+07:00",
+      "fetched": "2025-08-09T19:33:33.738152+07:00"
+    },
+    {
       "id": "b6c2ea6356785459d5e5b9439feeb2e6",
       "title": "Đề xuất hơn 3.300 tỉ xây 16 trường học vùng biên giới",
       "link": "https://tuoitre.vn/de-xuat-hon-3-300-ti-xay-16-truong-hoc-vung-bien-gioi-20250809102242706.htm",
@@ -603,6 +813,106 @@ window.newsData_2025_08_09 = {
       "fetched": "2025-08-09T11:26:51.237820+07:00"
     },
     {
+      "id": "7004f1599c7e075e6e8c0e59c67163e3",
+      "title": "12 năm chưa đón con về, chị chồng định gửi chúng tôi đến hết lớp 12",
+      "link": "https://vnexpress.net/12-nam-chua-don-con-ve-chi-chong-dinh-gui-chung-toi-den-het-lop-12-4924714.html",
+      "summary": "Thực sự tôi cảm thấy stress vì ở tuổi này cháu lớn rất bướng, ông bà nói đều không nghe lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.321903+07:00"
+    },
+    {
+      "id": "ac69ae4a823fb40c4a2f8ec63407acde",
+      "title": "VPBank ra mắt chi nhánh Flagship đầu tiên tại miền Bắc",
+      "link": "https://vnexpress.net/vpbank-ra-mat-chi-nhanh-flagship-dau-tien-tai-mien-bac-4924898.html",
+      "summary": "Nhân 32 năm thành lập, VPBank ra mắt chi nhánh Flagship đầu tiên tại Hà Nội, với thiết kế hiện đại, không gian mở, tích hợp nhiều dịch vụ tài chính trong một điểm giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.322064+07:00"
+    },
+    {
+      "id": "443851851225ed34570c7a380053b28e",
+      "title": "Đang chữa nám có nên trẻ hóa da?",
+      "link": "https://vnexpress.net/dang-chua-nam-co-nen-tre-hoa-da-4924819.html",
+      "summary": "Tôi đang điều trị nám bằng thuốc bôi và laser, gần đây da chùng nhão ở vùng hàm, khóe miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.322240+07:00"
+    },
+    {
+      "id": "6560c98e3d90f1d13527559f8aaebb7c",
+      "title": "Mẹo kiểm soát trầm cảm không cần thuốc",
+      "link": "https://vnexpress.net/meo-kiem-soat-tram-cam-khong-can-thuoc-4924161.html",
+      "summary": "Ăn thực phẩm có lợi cho não, thiền, tập yoga, xoa bóp góp phần kiểm soát triệu chứng trầm cảm, tăng cường sức khỏe tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.322445+07:00"
+    },
+    {
+      "id": "07e4cf7081e0d7807925a3d4e791a73d",
+      "title": "Dấu hiệu trên da, móng cảnh báo viêm gan C",
+      "link": "https://vnexpress.net/dau-hieu-tren-da-mong-canh-bao-viem-gan-c-4924128.html",
+      "summary": "Virus viêm gan C gây tổn thương gan, tích tụ chất bilirubin khiến da vàng, ảnh hưởng đến quá trình đông máu, dễ hình thành vết bầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.322630+07:00"
+    },
+    {
+      "id": "38297e3fe15b61f645c34d41385ff7a2",
+      "title": "Nam Định 0-0 Công an Hà Nội (H1): HLV Calisto dự khán",
+      "link": "https://vnexpress.net/truc-tiep-nam-dinh-vs-cong-an-ha-noi-4924853.html",
+      "summary": "Nam Định và Công an Hà Nội ăn miếng trả miếng ở hiệp một trận tranh Siêu cup Quốc gia trên sân Thiên Trường hôm nay 9/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:47:09+07:00",
+      "fetched": "2025-08-09T19:33:23.322788+07:00"
+    },
+    {
+      "id": "38297e3fe15b61f645c34d41385ff7a2",
+      "title": "Nam Định 0-1 Công an Hà Nội (hết H1): Xử lý đẳng cấp",
+      "link": "https://vnexpress.net/truc-tiep-nam-dinh-vs-cong-an-ha-noi-4924853.html",
+      "summary": "Công an Hà Nội dẫn trước, nhờ pha tỏa sáng của tiền đạo Alan ở hiệp một trận tranh Siêu cup Quốc gia trên sân Thiên Trường hôm nay 9/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T10:47:09+07:00",
+      "fetched": "2025-08-09T19:33:43.816214+07:00"
+    },
+    {
+      "id": "2addb6982913208ca45710c7359c5bcd",
+      "title": "Robot lễ tân lần đầu phục vụ tại metro TP HCM",
+      "link": "https://vnexpress.net/robot-le-tan-lan-dau-phuc-vu-tai-metro-tp-hcm-4924865.html",
+      "summary": "Khi đến nhà ga metro Thủ Đức, hành khách được robot lễ tân cung cấp thông tin về chuyến tàu hoặc dẫn đến quầy vé phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:45:18+07:00",
+      "fetched": "2025-08-09T19:33:23.322955+07:00"
+    },
+    {
+      "id": "2addb6982913208ca45710c7359c5bcd",
+      "title": "Robot lễ tân lần đầu phục vụ tại metro TP HCM",
+      "link": "https://vnexpress.net/robot-le-tan-lan-dau-phuc-vu-tai-metro-tp-hcm-4924865.html",
+      "summary": "Khi đến nhà ga metro Thủ Đức, hành khách được robot lễ tân cung cấp thông tin về chuyến tàu hoặc dẫn đến quầy vé phù hợp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-09T10:45:18+07:00",
+      "fetched": "2025-08-09T19:33:41.979789+07:00"
+    },
+    {
+      "id": "c13e5923509d0f7df2c4c10c2c284b03",
+      "title": "Ôtô 16 chỗ cháy ngùn ngụt ở trung tâm TP HCM",
+      "link": "https://vnexpress.net/oto-16-cho-chay-ngun-ngut-o-trung-tam-tp-hcm-4924899.html",
+      "summary": "Xe 16 chỗ chở 7 người bốc cháy dữ dội, sau khi tông liên hoàn với ôtô tải và xe máy tại giao lộ Nguyễn Công Hoan – Phan Đăng Lưu, trưa 9/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:33:12+07:00",
+      "fetched": "2025-08-09T19:33:23.323133+07:00"
+    },
+    {
       "id": "1e63496b107290b87e92a7e1b3e8baf9",
       "title": "Hai du khách người Việt thiệt mạng ở biển Hy Lạp",
       "link": "https://thanhnien.vn/hai-du-khach-nguoi-viet-thiet-mang-o-bien-hy-lap-18525080917013221.htm",
@@ -611,6 +921,26 @@ window.newsData_2025_08_09 = {
       "category": "Tổng hợp",
       "published": "2025-08-09T10:15:00+07:00",
       "fetched": "2025-08-09T17:16:55.196593+07:00"
+    },
+    {
+      "id": "c0054a9ed115902959b9febbc43041bd",
+      "title": "Man Utd công bố Sesko",
+      "link": "https://vnexpress.net/man-utd-cong-bo-sesko-4924887.html",
+      "summary": "Man Utd ký hợp đồng 5 năm với tiền đạo cao 1,95 m Benjamin Sesko, với phí chuyển nhượng cơ bản 89 triệu USD từ Leipzig.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:14:54+07:00",
+      "fetched": "2025-08-09T19:33:23.323339+07:00"
+    },
+    {
+      "id": "c0054a9ed115902959b9febbc43041bd",
+      "title": "Man Utd công bố Sesko",
+      "link": "https://vnexpress.net/man-utd-cong-bo-sesko-4924887.html",
+      "summary": "Man Utd ký hợp đồng 5 năm với tiền đạo cao 1,95 m Benjamin Sesko, với phí chuyển nhượng cơ bản 89 triệu USD từ Leipzig.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T10:14:54+07:00",
+      "fetched": "2025-08-09T19:33:43.816408+07:00"
     },
     {
       "id": "4633b5bd6dac845d230bdb2ae1db12f3",
@@ -673,6 +1003,16 @@ window.newsData_2025_08_09 = {
       "fetched": "2025-08-09T17:16:55.197477+07:00"
     },
     {
+      "id": "b84373568677c80b9e5f8d9ce8841b26",
+      "title": "Điểm tin 17h: Người dân có thể nhận thuốc tại nhà qua VNeID từ tháng 9 | Xe chở gia đình 7 người bốc cháy sau tai nạn ở TP HCM",
+      "link": "https://vnexpress.net/diem-tin-17h-nguoi-dan-co-the-nhan-thuoc-tai-nha-qua-vneid-tu-thang-9-xe-cho-gia-dinh-7-nguoi-boc-chay-sau-tai-nan-o-tp-hcm-4924892.html",
+      "summary": "Yêu cầu hoàn thành đường dây 500 kV Lào Cai - Vĩnh Yên trước 19/8; Việt Nam miễn thị thực cho nhà khoa học, tổng công trình sư...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:02:37+07:00",
+      "fetched": "2025-08-09T19:33:23.323668+07:00"
+    },
+    {
       "id": "ae5177d679f0654ec9ebb80576b15e8c",
       "title": "Hành trình 98 ngày giành giật sự sống trong ca nứt tử cung hy hữu tại TP.HCM",
       "link": "https://thanhnien.vn/hanh-trinh-98-ngay-gianh-giat-su-song-trong-ca-nut-tu-cung-hy-huu-tai-tphcm-185250809151428387.htm",
@@ -691,6 +1031,26 @@ window.newsData_2025_08_09 = {
       "category": "Tổng hợp",
       "published": "2025-08-09T10:00:00+07:00",
       "fetched": "2025-08-09T17:16:55.197786+07:00"
+    },
+    {
+      "id": "ba86c48759e855adea6c81e4c24b6324",
+      "title": "Chàng trai bất ngờ hồi sinh trên đường 'về nhà lo hậu sự'",
+      "link": "https://vnexpress.net/chang-trai-bat-ngo-hoi-sinh-tren-duong-ve-nha-lo-hau-su-4924843.html",
+      "summary": "Thanh niên 19 tuổi bị tai nạn giao thông đa chấn thương tiên lượng tử vong, trên đường gia đình đưa về nhà lo hậu sự thì bất ngờ tỉnh lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.323822+07:00"
+    },
+    {
+      "id": "ba4c4f623853643976cfecc87a82257c",
+      "title": "Viêm niệu đạo sau quan hệ không an toàn",
+      "link": "https://vnexpress.net/viem-nieu-dao-sau-quan-he-khong-an-toan-4924818.html",
+      "summary": "Một tuần sau quan hệ không an toàn khi đi massage, anh Toàn, 30 tuổi, bị tiểu buốt, dương vật sưng và tiết dịch, bác sĩ chẩn đoán viêm niệu đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T10:00:00+07:00",
+      "fetched": "2025-08-09T19:33:23.323977+07:00"
     },
     {
       "id": "ac9a8a6e6f1f2a943b1684813a85f4e7",
@@ -1153,6 +1513,16 @@ window.newsData_2025_08_09 = {
       "fetched": "2025-08-09T17:17:02.743617+07:00"
     },
     {
+      "id": "40eb17dcaea4e3b4bc1448bc5ac6960d",
+      "title": "Việt Nam hạ Canada ở giải bóng chuyền U21 nữ thế giới",
+      "link": "https://vnexpress.net/viet-nam-ha-canada-o-giai-bong-chuyen-u21-nu-the-gioi-4924848.html",
+      "summary": "Các cô gái Việt Nam đánh bại Canada 3-1 ở lượt thứ ba bảng A giải bóng chuyền U21 thế giới, chiều 9/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T08:08:54+07:00",
+      "fetched": "2025-08-09T19:33:43.817174+07:00"
+    },
+    {
       "id": "6d75f51d803e4676c29536ea4fbf980d",
       "title": "4 người lao vào ẩu đả, 2 ô tô làm 'chốt chặn' gây ùn ứ",
       "link": "https://thanhnien.vn/4-nguoi-lao-vao-au-da-2-o-to-lam-chot-chan-gay-un-u-185250809150830104.htm",
@@ -1281,6 +1651,16 @@ window.newsData_2025_08_09 = {
       "category": "Thể thao",
       "published": "2025-08-09T07:45:08+07:00",
       "fetched": "2025-08-09T15:21:17.133466+07:00"
+    },
+    {
+      "id": "259cde8a8962321c423d3401cb28ac1b",
+      "title": "10 ngôi sao bóng đá bị tước băng đội trưởng",
+      "link": "https://vnexpress.net/10-ngoi-sao-bong-da-bi-tuoc-bang-doi-truong-4924757.html",
+      "summary": "Marc-Andre ter Stegen là tên tuổi lớn mới nhất bị CLB chủ quản tước băng đội trưởng vì vấn đề kỷ luật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T07:45:08+07:00",
+      "fetched": "2025-08-09T19:33:43.816566+07:00"
     },
     {
       "id": "63d875862210a697950f622d3b2ccd95",
@@ -2053,6 +2433,16 @@ window.newsData_2025_08_09 = {
       "fetched": "2025-08-09T11:26:58.422773+07:00"
     },
     {
+      "id": "d86849bb2e80acc4a120ceaa18834f33",
+      "title": "Rodri vắng mặt những trận đầu Ngoại hạng Anh",
+      "link": "https://vnexpress.net/rodri-vang-mat-nhung-tran-dau-ngoai-hang-anh-4924753.html",
+      "summary": "HLV Pep Guardiola cho biết tiền vệ Rodri lại chấn thương, sẽ không thể thi đấu cho đến trước trận derby Manchester gặp Man Utd ngày 14/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T03:45:29+07:00",
+      "fetched": "2025-08-09T19:33:43.817670+07:00"
+    },
+    {
       "id": "1a09d2ee7bfcefba9be34160a218150d",
       "title": "Nỗi lo 200 công nhân uống nước ngọt mỗi ngày để 'nạp năng lượng'",
       "link": "https://vnexpress.net/noi-lo-200-cong-nhan-uong-nuoc-ngot-moi-ngay-de-nap-nang-luong-4924735.html",
@@ -2171,6 +2561,16 @@ window.newsData_2025_08_09 = {
       "category": "Thể thao",
       "published": "2025-08-09T02:24:17+07:00",
       "fetched": "2025-08-09T11:26:58.422930+07:00"
+    },
+    {
+      "id": "3a7c7c87210647e73df84e2202af57ca",
+      "title": "Vì sao Man Utd mua được Sesko giữa lúc thắt chặt chi tiêu?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-mua-duoc-sesko-giua-luc-that-chat-chi-tieu-4924136.html",
+      "summary": "Dù sa thải hàng loạt nhân viên và cắt giảm nhiều chi phí hoạt động, Man Utd vẫn có thể tuyển mộ tiền đạo Benjamin Sesko với tổng phí 99 triệu USD nhờ các giải pháp hiệu quả.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T02:24:17+07:00",
+      "fetched": "2025-08-09T19:33:43.817823+07:00"
     },
     {
       "id": "5f74c4829f7bbeb6597e654d14137349",
