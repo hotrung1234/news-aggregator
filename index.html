@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin Tức Tự Động</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🗞️ Tin Tức Tự Động</h1>
+            <p>Cập nhật mỗi 2 tiếng từ các báo lớn</p>
+        </header>
+
+        <nav class="controls">
+            <div class="date-selector">
+                <label for="dateSelect">Chọn ngày:</label>
+                <select id="dateSelect">
+                    <option value="">Đang tải...</option>
+                </select>
+            </div>
+            
+            <div class="source-filter">
+                <label for="sourceFilter">Lọc theo nguồn:</label>
+                <select id="sourceFilter">
+                    <option value="">Tất cả nguồn</option>
+                </select>
+            </div>
+            
+            <button id="refreshBtn" class="btn btn-primary">🔄 Làm mới</button>
+            <button id="manageSourcesBtn" class="btn btn-secondary">⚙️ Quản lý nguồn</button>
+        </nav>
+
+        <main>
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <p>Đang tải tin tức...</p>
+            </div>
+            
+            <div id="newsContainer" class="news-container" style="display: none;">
+                <div id="newsList" class="news-list"></div>
+            </div>
+            
+            <div id="noNews" class="no-news" style="display: none;">
+                <p>📭 Chưa có tin tức nào cho ngày này</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal quản lý nguồn -->
+    <div id="sourceModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Quản lý nguồn RSS</h2>
+                <button id="closeModal" class="close">&times;</button>
+            </div>
+            
+            <div class="modal-body">
+                <div class="add-source-form">
+                    <h3>Thêm nguồn mới</h3>
+                    <form id="addSourceForm">
+                        <div class="form-group">
+                            <label for="sourceName">Tên nguồn:</label>
+                            <input type="text" id="sourceName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="sourceUrl">URL RSS:</label>
+                            <input type="url" id="sourceUrl" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="sourceCategory">Danh mục:</label>
+                            <input type="text" id="sourceCategory" value="Tổng hợp">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Thêm nguồn</button>
+                    </form>
+                </div>
+                
+                <div class="source-list">
+                    <h3>Danh sách nguồn hiện tại</h3>
+                    <div id="sourceListContainer"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Cập nhật lần cuối: <span id="lastUpdate">Đang tải...</span></p>
+        <p>Dữ liệu được lưu trữ trong 7 ngày</p>
+    </footer>
+
+    <script src="static/js/main.js"></script>
+</body>
+</html>

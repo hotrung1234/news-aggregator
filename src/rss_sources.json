@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "name": "VnExpress",
+      "url": "https://vnexpress.net/rss/tin-moi-nhat.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Dân Trí", 
+      "url": "https://dantri.com.vn/rss.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Thanh Niên",
+      "url": "https://thanhnien.vn/rss/home.rss", 
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
+      "category": "Tổng hợp"
+    }
+  ]
+}
