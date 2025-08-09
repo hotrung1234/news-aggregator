@@ -1,61 +1,102 @@
-name: Fetch News and Deploy
-
-on:
-  schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-jobs:
-  fetch-and-deploy:
-    runs-on: ubuntu-latest
+def save_articles_as_js(self, articles, date_str):
+    """Lưu tin tức vào file JavaScript thay vì JSON"""
+    if not articles:
+        return
+        
+    # Tạo thư mục js nếu chưa có
+    js_dir = "static/js/data"
+    os.makedirs(js_dir, exist_ok=True)
     
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    # Load existing articles từ file JS
+    js_file = os.path.join(js_dir, f"{date_str}.js")
+    existing_articles = []
     
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.9'
+    if os.path.exists(js_file):
+        # Đọc file JS và parse data
+        try:
+            with open(js_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Extract JSON từ "window.newsData = {...}"
+                start = content.find('{')
+                end = content.rfind('}') + 1
+                if start >= 0 and end > start:
+                    json_str = content[start:end]
+                    data = json.loads(json_str)
+                    existing_articles = data.get('articles', [])
+        except:
+            existing_articles = []
+    
+    # Tạo set các ID đã có để tránh trùng lặp
+    existing_ids = {article['id'] for article in existing_articles}
+    
+    # Thêm các bài viết mới
+    new_articles = []
+    for article in articles:
+        if article['id'] not in existing_ids:
+            new_articles.append(article)
+            existing_articles.append(article)
+    
+    if new_articles or not existing_articles:
+        # Sắp xếp theo thời gian đăng (mới nhất trước)
+        existing_articles.sort(key=lambda x: x['published'], reverse=True)
         
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        # Tạo object JavaScript
+        js_data = {
+            'date': date_str,
+            'lastUpdated': datetime.now(self.timezone).isoformat(),
+            'articles': existing_articles
+        }
         
-    - name: Fetch news
-      run: python src/fetch_news.py
-      
-    - name: Clean old news
-      run: python src/clean_old_news.py
-      
-    - name: Commit changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        if ! git diff --staged --quiet; then
-          git commit -m "Update news - $(date)"
-          git push
-        fi
+        # Lưu file JavaScript
+        with open(js_file, 'w', encoding='utf-8') as f:
+            f.write(f"window.newsData_{date_str.replace('-', '_')} = ")
+            f.write(json.dumps(js_data, ensure_ascii=False, indent=2))
+            f.write(';')
         
-    - name: Setup Pages
-      uses: actions/configure-pages@v4
-      
-    - name: Upload to Pages
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: '.'
+        print(f"Đã lưu {len(new_articles)} bài viết mới vào {js_file}")
+    else:
+        print("Không có bài viết mới")
+
+# Cập nhật method run()
+def run(self):
+    """Chạy thu thập tin tức"""
+    sources = self.load_sources()
+    all_articles = []
+    
+    for source in sources['sources']:
+        articles = self.fetch_rss(source)
+        all_articles.extend(articles)
+    
+    today = datetime.now(self.timezone).strftime('%Y-%m-%d')
+    
+    # Lưu cả JSON (backup) và JS (cho web)
+    self.save_articles(all_articles)
+    self.save_articles_as_js(all_articles, today)
+    
+    # Tạo index file cho các ngày có data
+    self.create_date_index()
+    
+    print(f"Hoàn thành! Đã thu thập tổng cộng {len(all_articles)} bài viết")
+
+def create_date_index(self):
+    """Tạo file index các ngày có data"""
+    js_dir = "static/js/data"
+    
+    if not os.path.exists(js_dir):
+        return
         
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+    # Lấy danh sách các file JS
+    available_dates = []
+    for filename in os.listdir(js_dir):
+        if filename.endswith('.js') and filename != 'index.js':
+            date_str = filename.replace('.js', '')
+            available_dates.append(date_str)
+    
+    available_dates.sort(reverse=True)  # Mới nhất trước
+    
+    # Tạo file index
+    index_file = os.path.join(js_dir, 'index.js')
+    with open(index_file, 'w', encoding='utf-8') as f:
+        f.write("window.availableDates = ")
+        f.write(json.dumps(available_dates, ensure_ascii=False, indent=2))
+        f.write(';')
