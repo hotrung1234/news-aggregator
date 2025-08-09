@@ -1,9 +1,88 @@
-async loadSources() {
+class NewsApp {
+    constructor() {
+        this.currentDate = new Date().toISOString().split('T')[0];
+        this.currentSource = '';
+        this.sources = [];
+        this.availableDates = [];
+        this.init();
+    }
+
+    async init() {
+        this.setupEventListeners();
+        await this.loadSources();
+        await this.loadAvailableDates();
+        await this.loadNews();
+        this.updateLastUpdateTime();
+    }
+
+    setupEventListeners() {
+        // Date selector
+        document.getElementById('dateSelect').addEventListener('change', (e) => {
+            this.currentDate = e.target.value;
+            this.loadNews();
+        });
+
+        // Source filter
+        document.getElementById('sourceFilter').addEventListener('change', (e) => {
+            this.currentSource = e.target.value;
+            this.filterNews();
+        });
+
+        // Refresh button
+        document.getElementById('refreshBtn').addEventListener('click', () => {
+            location.reload();
+        });
+
+        // Manage sources button
+        document.getElementById('manageSourcesBtn').addEventListener('click', () => {
+            this.showSourceModal();
+        });
+
+        // Modal close
+        document.getElementById('closeModal').addEventListener('click', () => {
+            this.hideSourceModal();
+        });
+
+        // Add source form
+        document.getElementById('addSourceForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            this.addSource();
+        });
+
+        // Click outside modal to close
+        window.addEventListener('click', (e) => {
+            const modal = document.getElementById('sourceModal');
+            if (e.target === modal) {
+                this.hideSourceModal();
+            }
+        });
+    }
+
+    async loadSources() {
         try {
-            const response = await fetch('src/rss_sources.json');
-            const data = await response.json();
-            this.sources = data.sources;
-            this.updateSourceFilter();
+            // Load sources bằng cách tạo script tag
+            const script = document.createElement('script');
+            script.src = 'src/rss_sources.json?' + Date.now();
+            script.onload = () => {
+                // Fallback: parse manually
+                fetch('src/rss_sources.json')
+                    .then(r => r.json())
+                    .then(data => {
+                        this.sources = data.sources;
+                        this.updateSourceFilter();
+                    })
+                    .catch(() => {
+                        // Default sources
+                        this.sources = [
+                            { name: "VnExpress", url: "https://vnexpress.net/rss/tin-moi-nhat.rss", category: "Tổng hợp" },
+                            { name: "Dân Trí", url: "https://dantri.com.vn/rss.rss", category: "Tổng hợp" },
+                            { name: "Thanh Niên", url: "https://thanhnien.vn/rss/home.rss", category: "Tổng hợp" },
+                            { name: "Tuổi Trẻ", url: "https://tuoitre.vn/rss/tin-moi-nhat.rss", category: "Tổng hợp" }
+                        ];
+                        this.updateSourceFilter();
+                    });
+            };
+            document.head.appendChild(script);
         } catch (error) {
             console.error('Lỗi khi tải danh sách nguồn:', error);
         }
@@ -11,35 +90,44 @@ async loadSources() {
 
     async loadAvailableDates() {
         try {
-            const response = await fetch('data/news/');
-            if (response.ok) {
-                // Tạo danh sách ngày từ 7 ngày gần đây
-                const dates = [];
+            // Load available dates
+            const script = document.createElement('script');
+            script.src = 'static/js/data/index.js?' + Date.now();
+            script.onload = () => {
+                if (window.availableDates) {
+                    this.availableDates = window.availableDates;
+                } else {
+                    // Fallback: tạo 7 ngày gần đây
+                    this.availableDates = [];
+                    for (let i = 0; i < 7; i++) {
+                        const date = new Date();
+                        date.setDate(date.getDate() - i);
+                        this.availableDates.push(date.toISOString().split('T')[0]);
+                    }
+                }
+                this.updateDateSelector();
+            };
+            script.onerror = () => {
+                // Fallback
+                this.availableDates = [];
                 for (let i = 0; i < 7; i++) {
                     const date = new Date();
                     date.setDate(date.getDate() - i);
-                    dates.push(date.toISOString().split('T')[0]);
+                    this.availableDates.push(date.toISOString().split('T')[0]);
                 }
-                this.updateDateSelector(dates);
-            }
+                this.updateDateSelector();
+            };
+            document.head.appendChild(script);
         } catch (error) {
             console.error('Lỗi khi tải ngày:', error);
-            // Fallback: tạo danh sách 7 ngày gần đây
-            const dates = [];
-            for (let i = 0; i < 7; i++) {
-                const date = new Date();
-                date.setDate(date.getDate() - i);
-                dates.push(date.toISOString().split('T')[0]);
-            }
-            this.updateDateSelector(dates);
         }
     }
 
-    updateDateSelector(dates) {
+    updateDateSelector() {
         const select = document.getElementById('dateSelect');
         select.innerHTML = '';
         
-        dates.forEach(date => {
+        this.availableDates.forEach(date => {
             const option = document.createElement('option');
             option.value = date;
             option.textContent = this.formatDate(date);
@@ -71,13 +159,25 @@ async loadSources() {
         this.showLoading();
         
         try {
-            const response = await fetch(`data/news/${this.currentDate}.json`);
-            if (response.ok) {
-                const articles = await response.json();
-                this.displayNews(articles);
-            } else {
+            // Load news data bằng script tag
+            const dateKey = this.currentDate.replace(/-/g, '_');
+            const script = document.createElement('script');
+            script.src = `static/js/data/${this.currentDate}.js?` + Date.now();
+            
+            script.onload = () => {
+                const newsData = window[`newsData_${dateKey}`];
+                if (newsData && newsData.articles) {
+                    this.displayNews(newsData.articles);
+                } else {
+                    this.showNoNews();
+                }
+            };
+            
+            script.onerror = () => {
                 this.showNoNews();
-            }
+            };
+            
+            document.head.appendChild(script);
         } catch (error) {
             console.error('Lỗi khi tải tin tức:', error);
             this.showNoNews();
@@ -198,15 +298,13 @@ async loadSources() {
         const newSource = { name, url, category };
         this.sources.push(newSource);
         
-        // In thực tế, bạn cần gửi request để cập nhật file JSON
-        // Ở đây chỉ cập nhật local
         this.updateSourceFilter();
         this.loadSourceList();
         
         // Reset form
         document.getElementById('addSourceForm').reset();
         
-        alert('Đã thêm nguồn mới! Lưu ý: Thay đổi chỉ có hiệu lực local, cần cập nhật file trên server.');
+        alert('Đã thêm nguồn mới! Lưu ý: Thay đổi chỉ có hiệu lực local.');
     }
 
     removeSource(index) {
@@ -214,7 +312,7 @@ async loadSources() {
             this.sources.splice(index, 1);
             this.updateSourceFilter();
             this.loadSourceList();
-            alert('Đã xóa nguồn! Lưu ý: Thay đổi chỉ có hiệu lực local, cần cập nhật file trên server.');
+            alert('Đã xóa nguồn!');
         }
     }
 
