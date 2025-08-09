@@ -1,7 +1,157 @@
 window.newsData_2025_08_09 = {
   "date": "2025-08-09",
-  "lastUpdated": "2025-08-09T09:26:55.408583+07:00",
+  "lastUpdated": "2025-08-09T11:26:58.427832+07:00",
   "articles": [
+    {
+      "id": "b6c2ea6356785459d5e5b9439feeb2e6",
+      "title": "Đề xuất hơn 3.300 tỉ xây 16 trường học vùng biên giới",
+      "link": "https://tuoitre.vn/de-xuat-hon-3-300-ti-xay-16-truong-hoc-vung-bien-gioi-20250809102242706.htm",
+      "summary": "UBND tỉnh Quảng Trị vừa có báo cáo đề xuất xây mới 10 trường, cải tạo 6 trường ở 15 xã biên giới, với số vốn 3.338 tỉ đồng, đáp ứng nhu cầu học cho hơn 21.000 học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.239590+07:00",
+      "fetched": "2025-08-09T11:26:51.239701+07:00"
+    },
+    {
+      "id": "4bbe6982afc562c296f1236d8b6d5461",
+      "title": "Vụ tài xế rút chìa khóa xe máy của cô gái: Ra đường cần giữ bình tĩnh trước mọi tình huống",
+      "link": "https://tuoitre.vn/vu-tai-xe-rut-chia-khoa-xe-may-cua-co-gai-ra-duong-can-giu-binh-tinh-truoc-moi-tinh-huong-20250809101938049.htm",
+      "summary": "Liên quan vụ tài xế rút chìa khóa xe máy của cô gái rồi bỏ đi, nhiều bạn đọc Tuổi Trẻ Online cho rằng hành động này là \"quá ngang ngược, cần xử lý nghiêm\" và khuyên mọi người ra đường giữ bình tĩnh trước những tình huống tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.239442+07:00",
+      "fetched": "2025-08-09T11:26:51.239578+07:00"
+    },
+    {
+      "id": "d2d3316fbd8df832514ea77bbc425210",
+      "title": "Yêu cầu đại hội đảng bộ cấp xã không văn nghệ chào mừng, không quá 5 lẵng hoa",
+      "link": "https://tuoitre.vn/yeu-cau-dai-hoi-dang-bo-cap-xa-khong-van-nghe-chao-mung-khong-qua-5-lang-hoa-20250809104247589.htm",
+      "summary": "Tỉnh ủy Quảng Trị yêu cầu đại hội đảng bộ cấp xã sắp tới không tổ chức văn nghệ chào mừng, không quá 5 lẵng hoa chúc mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.239284+07:00",
+      "fetched": "2025-08-09T11:26:51.239429+07:00"
+    },
+    {
+      "id": "22d53e9e741ea800cd6f6204f4fa4ea4",
+      "title": "Cà Ná hướng đến tương lai đầy kỳ vọng",
+      "link": "https://tuoitre.vn/ca-na-huong-den-tuong-lai-day-ky-vong-20250809101555074.htm",
+      "summary": "Cà Ná – một địa danh gắn liền với bao thế hệ người dân địa phương, nơi tìm đến và lưu giữ những ký ức vấn vương của du khách phương xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.239157+07:00",
+      "fetched": "2025-08-09T11:26:51.239273+07:00"
+    },
+    {
+      "id": "0401e8ca8fb52fdcf4324b4b523d87b2",
+      "title": "Giả danh công an, mang còng số 8 xông vào cướp bạc... 170.000 đồng",
+      "link": "https://tuoitre.vn/gia-danh-cong-an-mang-cong-so-8-xong-vao-cuop-bac-170-000-dong-20250809104710808.htm",
+      "summary": "Trong vòng 3 ngày sau khi xảy ra vụ việc giả danh công an, cướp tài sản, các trinh sát đã lần ra tung tích, bắt 2 nghi phạm và thu giữ toàn bộ tang vật liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.239028+07:00",
+      "fetched": "2025-08-09T11:26:51.239145+07:00"
+    },
+    {
+      "id": "d0f644780f6809ce68a4cd1d0668b9f6",
+      "title": "Ông Trump phạt Đại học California 1 tỉ USD",
+      "link": "https://tuoitre.vn/ong-trump-phat-dai-hoc-california-1-ti-usd-20250809103054384.htm",
+      "summary": "Đại học California bị phạt 1 tỉ USD cùng 172 triệu USD nộp quỹ bồi thường cho những sinh viên bị ảnh hưởng của phân biệt đối xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238900+07:00",
+      "fetched": "2025-08-09T11:26:51.239016+07:00"
+    },
+    {
+      "id": "d2f1df05c3f32edb358001babf54d998",
+      "title": "TS Trương Minh Huy Vũ: Kinh tế TP.HCM cải thiện nhờ tháo gỡ các dự án tồn đọng, khơi thông dòng vốn",
+      "link": "https://tuoitre.vn/ts-truong-minh-huy-vu-kinh-te-tp-hcm-cai-thien-nho-thao-go-cac-du-an-ton-dong-khoi-thong-dong-von-20250809103421819.htm",
+      "summary": "Trong bối cảnh hiện tại, nhiều nhà đầu tư đến TPHCM để tìm hiểu và đề xuất dự án, dòng vốn sẽ đến, nhưng không duy trì lâu nếu thành phố không kịp thời hấp thụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238778+07:00",
+      "fetched": "2025-08-09T11:26:51.238889+07:00"
+    },
+    {
+      "id": "42e7f2a7e867766b5f46ea7a31703eef",
+      "title": "Tuyển nữ Việt Nam - Indonesia: Hướng về vị trí đầu bảng",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-indonesia-huong-ve-vi-tri-dau-bang-20250809104950319.htm",
+      "summary": "Tuyển nữ Việt Nam phải tận dụng các cơ hội ghi bàn để có trận thắng đậm làm bản lề cho trận chiến quyết định ngôi đầu với Thái Lan ở bảng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238653+07:00",
+      "fetched": "2025-08-09T11:26:51.238767+07:00"
+    },
+    {
+      "id": "78f43a6300fd261d4ea580417df7fa65",
+      "title": "Bộ Nội vụ: Khuyến khích cán bộ, công chức nghỉ theo nghị định 178, 67 kết thúc trước 31-8",
+      "link": "https://tuoitre.vn/bo-noi-vu-khuyen-khich-can-bo-cong-chuc-nghi-theo-nghi-dinh-178-67-ket-thuc-truoc-31-8-20250809105058039.htm",
+      "summary": "Bộ trưởng Bộ Nội vụ nhắc lại kết luận 183 của Bộ Chính trị, Ban Bí thư về thực hiện chế độ, chính sách với cán bộ, công chức theo nghị định 178, nghị định 67 với yêu cầu cố gắng kết thúc trước ngày 31-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238523+07:00",
+      "fetched": "2025-08-09T11:26:51.238641+07:00"
+    },
+    {
+      "id": "38b37d875bfff501b288769896ad0848",
+      "title": "Phi hành gia huyền thoại Mỹ Jim Lovell qua đời ở tuổi 97",
+      "link": "https://tuoitre.vn/phi-hanh-gia-huyen-thoai-my-jim-lovell-qua-doi-o-tuoi-97-20250809101255596.htm",
+      "summary": "Phi hành gia nổ tiếng người Mỹ Jim Lovell - dẫn dắt sứ mệnh Apollo 13 (1970) vượt qua sự cố và trở về Trái đất an toàn - qua đời ở tuổi 97.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238384+07:00",
+      "fetched": "2025-08-09T11:26:51.238511+07:00"
+    },
+    {
+      "id": "9b15f461fc308b06056d5acc8786db39",
+      "title": "Quỹ từ Trung Quốc rút vốn khỏi Sacombank",
+      "link": "https://tuoitre.vn/quy-tu-trung-quoc-rut-von-khoi-sacombank-20250809105539557.htm",
+      "summary": "Trong báo cáo cập nhật cổ động sở hữu từ 1% vốn tại Sacombank, đã không còn sự xuất hiện của Tianhong Vietnam. Đây là một quỹ có trụ sở tại Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238240+07:00",
+      "fetched": "2025-08-09T11:26:51.238371+07:00"
+    },
+    {
+      "id": "c803bb72deec9898461a65690d6c2751",
+      "title": "Campuchia và Thái Lan đồng ý kiểm soát tin giả để giảm căng thẳng",
+      "link": "https://tuoitre.vn/campuchia-va-thai-lan-dong-y-kiem-soat-tin-gia-de-giam-cang-thang-2025080811492401.htm",
+      "summary": "Campuchia và Thái Lan thống nhất kiềm chế tin giả để hạ nhiệt căng thẳng và thúc đẩy đối thoại hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.238110+07:00",
+      "fetched": "2025-08-09T11:26:51.238228+07:00"
+    },
+    {
+      "id": "6a27c1b4b0f6a74073abf1e0fc23f11f",
+      "title": "99,9% hành khách hài lòng khi đi metro Nhổn - ga Hà Nội",
+      "link": "https://tuoitre.vn/so-xay-dung-noi-99-9-hanh-khach-hai-long-khi-di-metro-nhon-ga-ha-noi-20250809101050699.htm",
+      "summary": "Theo Sở Xây dựng Hà Nội, sau 1 năm vận hành thương mại, 99,9% hành khách hài lòng với chất lượng, dịch vụ của tuyến metro Nhổn - ga Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.237977+07:00",
+      "fetched": "2025-08-09T11:26:51.238099+07:00"
+    },
+    {
+      "id": "7ee468a1ca13196da72dd9e7d3f6e53c",
+      "title": "Cụ già bán rau bên vỉa hè và wifi tốc độ cao",
+      "link": "https://tuoitre.vn/cu-gia-ban-rau-ben-via-he-va-wifi-toc-do-cao-20250714153031353.htm",
+      "summary": "Tôi từng thấy một cụ già ngồi lặng lẽ bên vỉa hè, trước rổ rau chỉ có vài bó mồng tơi, mấy nắm rau dền đỏ; lặng im giữa chợ đời ồn ào, vội vã...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.237835+07:00",
+      "fetched": "2025-08-09T11:26:51.237964+07:00"
+    },
+    {
+      "id": "68c03cd8553b2151f97ab3f0bd2aaa7f",
+      "title": "Tuổi Trẻ Startup Award: Website AI giảm tình trạng làm web rồi... bỏ hoang",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-website-ai-giam-tinh-trang-lam-web-roi-bo-hoang-20250809094013134.htm",
+      "summary": "Hoàn chỉnh thiết kế và nội dung website chỉ cần 20 phút? Chuyện nghe có vẻ khó tin nhưng website trí tuệ nhân tạo (AI) sẽ là giải pháp dành cho doanh nghiệp nhỏ cần thực hiện website.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T11:26:51.237605+07:00",
+      "fetched": "2025-08-09T11:26:51.237820+07:00"
+    },
     {
       "id": "82fbb2334a9317e2639f234fe2a0115d",
       "title": "Nhiều tuyến đường tại Đà Nẵng biến thành 'bãi đậu xe'",
@@ -151,6 +301,376 @@ window.newsData_2025_08_09 = {
       "category": "Tổng hợp",
       "published": "2025-08-09T09:26:47.199176+07:00",
       "fetched": "2025-08-09T09:26:47.199382+07:00"
+    },
+    {
+      "id": "c24d4fa2b0de90292608fbb33f67ee40",
+      "title": "Mexico tố Adidas 'chiếm đoạt văn hóa' trong mẫu sandal mới",
+      "link": "https://vnexpress.net/mexico-to-adidas-chiem-doat-van-hoa-trong-mau-sandal-moi-4924748.html",
+      "summary": "Mexico cáo buộc công ty Adidas đạo nhái sản phẩm của các nghệ nhân miền nam nước này vì mẫu sandal mới rất giống dép của người bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:20:22+07:00",
+      "fetched": "2025-08-09T11:26:44.367095+07:00"
+    },
+    {
+      "id": "c12e71c103e4f45203ca302676ef101d",
+      "title": "Trung Nam Group đề xuất làm cầu Cần Giờ theo hình thức BT, không làm BOT",
+      "link": "https://thanhnien.vn/trung-nam-group-de-xuat-lam-cau-can-gio-theo-hinh-thuc-bt-khong-lam-bot-185250809111249588.htm",
+      "summary": "Tập đoàn Trung Nam vừa gửi văn bản đến UBND TP.HCM đề xuất được tham gia lập hồ sơ báo cáo nghiên cứu tiền khả thi dự án xây dựng cầu Cần Giờ. Đây là lần thứ hai doanh nghiệp này bày tỏ mong muốn được thực hiện dự án trọng điểm nối trung tâm TP.HCM với đặc khu Cần Giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:20:00+07:00",
+      "fetched": "2025-08-09T11:26:50.241395+07:00"
+    },
+    {
+      "id": "b6bfa0f0ebdc99c970557bf3bd364f87",
+      "title": "Quách Thiện Ni xuất hiện bên chồng, dập tắt tin đồn ly hôn",
+      "link": "https://thanhnien.vn/quach-thien-ni-xuat-hien-ben-chong-dap-tat-tin-don-ly-hon-185250809102245975.htm",
+      "summary": "Trên trang cá nhân, Quách Thiện Ni khoe loạt khoảnh khắc tình cảm bên chồng trong chuyến du lịch mới nhất. Trước đó, Hoa hậu Hồng Kông 1999 vướng tin đồn ly hôn khi chỉ đăng ảnh cùng con gái trong kỳ nghỉ ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:18:00+07:00",
+      "fetched": "2025-08-09T11:26:50.241571+07:00"
+    },
+    {
+      "id": "1d62b8ea13798cf446c0aeeab1b8246c",
+      "title": "Doanh nghiệp đề xuất xây cầu Cần Giờ hơn 10.500 tỷ đồng",
+      "link": "https://vnexpress.net/doanh-nghiep-de-xuat-xay-cau-can-gio-hon-10-500-ty-dong-4924775.html",
+      "summary": "Trung Nam Group muốn đầu tư cầu Cần Giờ dài 7,3 km, tổng vốn hơn 10.500 tỷ đồng, theo hình thức BT, kết nối huyện đảo với nội đô TP HCM, thay thế phà Bình Khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:17:55+07:00",
+      "fetched": "2025-08-09T11:26:44.367273+07:00"
+    },
+    {
+      "id": "f333e3c71777faf85f166051b76417cc",
+      "title": "Nhạc sĩ 'Cho vừa lòng em' - Mặc Thế Nhân qua đời",
+      "link": "https://thanhnien.vn/nhac-si-cho-vua-long-em-mac-the-nhan-qua-doi-185250809105846348.htm",
+      "summary": "Trao đổi với chúng tôi, người thân của nhạc sĩ Mặc Thế Nhân cho biết ông qua đời hôm 8.8 tại phường An Phú Đông, TP.HCM, thọ 86 tuổi. Trước đó, vào năm 2020, nam nhạc sĩ từng nhập viện cấp cứu vì tai biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:09:00+07:00",
+      "fetched": "2025-08-09T11:26:50.241729+07:00"
+    },
+    {
+      "id": "a13e8afd57ce1a3dd411a0c811c90210",
+      "title": "Mỹ bắt cựu binh 'cực kỳ nguy hiểm' sau một tuần săn lùng",
+      "link": "https://thanhnien.vn/my-bat-cuu-binh-cuc-ky-nguy-hiem-sau-mot-tuan-san-lung-185250809104214449.htm",
+      "summary": "Một cựu binh bị tình nghi bắn chết 4 người tại một quán bar ở bang Montana (Mỹ) đã bị bắt sau cuộc săn lùng kéo dài một tuần, theo Đài NBC News dẫn lời nhà chức trách hôm 8.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:08:00+07:00",
+      "fetched": "2025-08-09T11:26:50.241883+07:00"
+    },
+    {
+      "id": "825e433e8bcfef9082d743dc20be9043",
+      "title": "CLB Công an TP.HCM: Màn tái ngộ cực hay của HLV Lê Huỳnh Đức và Tiến Linh",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-man-tai-ngo-cuc-hay-cua-hlv-le-huynh-duc-va-tien-linh-185250809103319201.htm",
+      "summary": "Với chân sút hay nhất thập niên 90 trên băng ghế chỉ đạo và chân sút hay nhất hiện tại trên hàng công, CLB Công an TP.HCM có đủ hỏa lực để bứt phá ở V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:06:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242036+07:00"
+    },
+    {
+      "id": "d329e7bb92fc88171e53c6dba0047458",
+      "title": "Cách ông Putin né áp lực tối hậu thư từ ông Trump",
+      "link": "https://vnexpress.net/cach-ong-putin-ne-ap-luc-toi-hau-thu-tu-ong-trump-4924152.html",
+      "summary": "Hai ngày trước khi tối hậu thư của ông Trump hết hạn, ông Putin nhất trí gặp Tổng thống Mỹ, giúp tránh né lệnh trừng phạt mà vẫn theo đuổi mục tiêu ở Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:00:00+07:00",
+      "fetched": "2025-08-09T11:26:44.367457+07:00"
+    },
+    {
+      "id": "badfbcedea7fdc93a4742bb7f418ae49",
+      "title": "Chụp CT có phát hiện sớm nguy cơ nhồi máu cơ tim không?",
+      "link": "https://vnexpress.net/chup-ct-co-phat-hien-som-nguy-co-nhoi-mau-co-tim-khong-4924741.html",
+      "summary": "Tôi bị tiểu đường, hay mệt và hồi hộp, thỉnh thoảng đau ngực nhưng kết quả đo điện tim bình thường. Chụp CT tim có phát hiện sớm nguy cơ nhồi máu cơ tim không? (Vũ Văn Lâm, 45 tuổi, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T04:00:00+07:00",
+      "fetched": "2025-08-09T11:26:44.367621+07:00"
+    },
+    {
+      "id": "8d06ee9022931a5093734b8bf95bbecf",
+      "title": "6 dự án cao tốc được khởi công vào dịp 19/8",
+      "link": "https://vnexpress.net/6-du-an-cao-toc-duoc-khoi-cong-vao-dip-19-8-4924732.html",
+      "summary": "Ngày 19/8 tới, dự án Gia Nghĩa - Chơn Thành, vành đai 4 Hà Nội sẽ được khởi công xây mới; cao tốc TP HCM - Long Thành, Đồng Đăng - Trà Lĩnh được đầu tư mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:59:59+07:00",
+      "fetched": "2025-08-09T11:26:44.367786+07:00"
+    },
+    {
+      "id": "8b8fab5ad5d3c3a9aa05d6aee81c02e6",
+      "title": "24.000 xe máy bị CSGT TP.HCM phạt nguội: Nhiều lỗi vi phạm vẫn diễn ra hằng ngày",
+      "link": "https://thanhnien.vn/24000-xe-may-bi-csgt-tphcm-phat-nguoi-nhieu-loi-vi-pham-van-dien-ra-hang-ngay-185250809102924212.htm",
+      "summary": "7 tháng đầu năm 2025, CSGT TP.HCM phạt nguội 24.000 xe máy với nhiều lỗi như quá tốc độ, đi ngược chiều, dừng đỗ sai quy định…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:59:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242186+07:00"
+    },
+    {
+      "id": "5af7bb13a0f8b9816f89d698d6fcfb54",
+      "title": "Báo Mỹ nói ông Putin tặng huân chương cho con trai quan chức CIA",
+      "link": "https://vnexpress.net/bao-my-noi-ong-putin-tang-huan-chuong-cho-con-trai-quan-chuc-cia-4924742.html",
+      "summary": "Tổng thống Putin tặng Huân chương Lenin cho Michael Gloss, con trai một quan chức CIA, người thiệt mạng ở Ukraine khi chiến đấu cho Nga, theo CBS News.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:58:28+07:00",
+      "fetched": "2025-08-09T11:26:44.367941+07:00"
+    },
+    {
+      "id": "996bfe1d2105932ef954dddb5ec688e3",
+      "title": "Son Heung-min nhận tin cực vui trước trận ra mắt, tạo hiệu ứng như Messi",
+      "link": "https://thanhnien.vn/son-heung-min-nhan-tin-cuc-vui-truoc-tran-ra-mat-tao-hieu-ung-nhu-messi-185250809104429954.htm",
+      "summary": "Theo nhà báo Tom Bogert, chuyên gia tin chuyển nhượng và kênh CBS Sports Golazo (Mỹ), Son Heung-min đã nhận được thị thực và chính thức đủ điều kiện thi đấu trận ra mắt với Los Angeles FC gặp Chicago Fire FC ngày 10.8 tại MLS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:51:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242337+07:00"
+    },
+    {
+      "id": "3a5b6f9f47f7207c2ac570b2a0d517e6",
+      "title": "Các đại gia dược phẩm phương Tây sẽ dựa vào AI Trung Quốc?",
+      "link": "https://thanhnien.vn/cac-dai-gia-duoc-pham-phuong-tay-se-dua-vao-ai-trung-quoc-185250809101328629.htm",
+      "summary": "Các hãng công nghệ sinh học Trung Quốc ứng dụng AI cho việc phát triển thuốc đang thu hút sự chú ý từ những đối tác dược phẩm phương Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:51:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242526+07:00"
+    },
+    {
+      "id": "47f18e25dd7055a5d73c053789a82300",
+      "title": "Người dùng chỉ trích bản nâng cấp của ChatGPT",
+      "link": "https://vnexpress.net/nguoi-dung-chi-trich-ban-nang-cap-cua-chatgpt-4924677.html",
+      "summary": "Chưa đầy 24 giờ sau khi ra mắt, các trang mạng xã hội như Reddit đã tràn ngập chỉ trích về mô hình GPT-5 được trang bị trên ChatGPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:50:34+07:00",
+      "fetched": "2025-08-09T11:26:44.368100+07:00"
+    },
+    {
+      "id": "47f18e25dd7055a5d73c053789a82300",
+      "title": "Người dùng chỉ trích bản nâng cấp của ChatGPT",
+      "link": "https://vnexpress.net/nguoi-dung-chi-trich-ban-nang-cap-cua-chatgpt-4924677.html",
+      "summary": "Chưa đầy 24 giờ sau khi ra mắt, các trang mạng xã hội như Reddit đã tràn ngập chỉ trích về mô hình GPT-5 được trang bị trên ChatGPT.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-09T03:50:34+07:00",
+      "fetched": "2025-08-09T11:26:57.535965+07:00"
+    },
+    {
+      "id": "9b1c4c50eb64eb3f3e537eb2ce4ed559",
+      "title": "TP HCM cân nhắc hai phương án áp dụng bảng giá đất 2026",
+      "link": "https://vnexpress.net/tp-hcm-can-nhac-hai-phuong-an-ap-dung-bang-gia-dat-2026-4924746.html",
+      "summary": "Sở Nông nghiệp và Môi trường TP HCM đề xuất hai phương án áp dụng bảng giá đất từ 2026, gồm chỉ định thầu rút gọn hoặc giữ nguyên mức giá hiện hành ba địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:49:02+07:00",
+      "fetched": "2025-08-09T11:26:44.368262+07:00"
+    },
+    {
+      "id": "c1d98a63b1f92e631edc862ef624be46",
+      "title": "Khánh thành Trường Hy Vọng mới cho trẻ mồ côi sau Covid-19",
+      "link": "https://vnexpress.net/khanh-thanh-truong-hy-vong-moi-cho-tre-mo-coi-sau-covid-19-4924692.html",
+      "summary": "Hơn 300 học sinh mồ côi do Covid-19 đã được chuyển về sống trong ngôi nhà mới với đủ công năng để học tập và phát triển bản thân toàn diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:48:59+07:00",
+      "fetched": "2025-08-09T11:26:44.368451+07:00"
+    },
+    {
+      "id": "f799e041f87f41f302a433099de9e4b8",
+      "title": "Mỹ treo thưởng đến 50 triệu USD để bắt Tổng thống Venezuela",
+      "link": "https://thanhnien.vn/my-treo-thuong-den-50-trieu-usd-de-bat-tong-thong-venezuela-18525080910471483.htm",
+      "summary": "Chính quyền Mỹ vừa nâng mức thưởng lên đến 50 triệu USD cho người cung cấp thông tin có thể giúp bắt giữ Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:48:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242682+07:00"
+    },
+    {
+      "id": "62b79e73faa0e6dccda40de0669edc6b",
+      "title": "Billiards: Cơ thủ Việt Nam ngược dòng ngoạn mục, đánh bại cựu vô địch thế giới",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-nguoc-dong-ngoan-muc-danh-bai-cuu-vo-dich-the-gioi-18525080910433711.htm",
+      "summary": "Mã Minh Cẩm có màn ngược dòng ngoạn mục trước cựu vô địch thế giới Choi Sung-won tại giải billiards chuyên nghiệp Hàn Quốc (PBA) mùa giải 2025 - 2026. Lúc này, Minh Cẩm là cơ thủ Việt Nam duy nhất góp mặt ở vòng 16.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:48:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242832+07:00"
+    },
+    {
+      "id": "b3837dc88e232ecae5cf4d89a02914f6",
+      "title": "Bác yêu cầu của 1 Việt kiều Mỹ đòi bồi thường do làm răng sứ bị hư",
+      "link": "https://thanhnien.vn/bac-yeu-cau-cua-1-viet-kieu-my-doi-boi-thuong-do-lam-rang-su-bi-hu-185250809085127181.htm",
+      "summary": "Theo tòa sơ thẩm, nguyên đơn không chứng minh được lỗi nhiễm trùng nướu do bị đơn gây ra, nên bác yêu cầu đòi bồi thường 344 triệu đồng sau khi làm răng sứ bị hư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:47:00+07:00",
+      "fetched": "2025-08-09T11:26:50.242983+07:00"
+    },
+    {
+      "id": "e1220933eec23855c732dd36cb91b369",
+      "title": "Ông Trump cảnh báo suy thoái nếu tòa án chặn thuế nhập khẩu",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-suy-thoai-neu-toa-an-chan-thue-nhap-khau-4924727.html",
+      "summary": "Tổng thống Mỹ cho rằng Đại suy thoái năm 1929 có thể tái diễn nếu tòa án không cho ông dùng Đạo luật Quyền Kinh tế Khẩn cấp (IEEPA) để áp thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:46:39+07:00",
+      "fetched": "2025-08-09T11:26:44.368619+07:00"
+    },
+    {
+      "id": "e1220933eec23855c732dd36cb91b369",
+      "title": "Ông Trump cảnh báo suy thoái nếu tòa án chặn thuế nhập khẩu",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-suy-thoai-neu-toa-an-chan-thue-nhap-khau-4924727.html",
+      "summary": "Tổng thống Mỹ cho rằng Đại suy thoái năm 1929 có thể tái diễn nếu tòa án không cho ông dùng Đạo luật Quyền Kinh tế Khẩn cấp (IEEPA) để áp thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-09T03:46:39+07:00",
+      "fetched": "2025-08-09T11:26:53.773817+07:00"
+    },
+    {
+      "id": "71982b2bb5bd31daef0733dbe12e6b14",
+      "title": "Rodri nguy cơ vắng mặt một tháng",
+      "link": "https://vnexpress.net/rodri-nguy-co-vang-mat-mot-thang-4924753.html",
+      "summary": "HLV Pep Guardiola cho biết tiền vệ Rodri sẽ không thể thi đấu cho đến trận derby Manchester gặp Man Utd ngày 14/9, vì chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:45:29+07:00",
+      "fetched": "2025-08-09T11:26:44.368770+07:00"
+    },
+    {
+      "id": "71982b2bb5bd31daef0733dbe12e6b14",
+      "title": "Rodri nguy cơ vắng mặt một tháng",
+      "link": "https://vnexpress.net/rodri-nguy-co-vang-mat-mot-thang-4924753.html",
+      "summary": "HLV Pep Guardiola cho biết tiền vệ Rodri sẽ không thể thi đấu cho đến trận derby Manchester gặp Man Utd ngày 14/9, vì chấn thương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T03:45:29+07:00",
+      "fetched": "2025-08-09T11:26:58.422773+07:00"
+    },
+    {
+      "id": "1a09d2ee7bfcefba9be34160a218150d",
+      "title": "Nỗi lo 200 công nhân uống nước ngọt mỗi ngày để 'nạp năng lượng'",
+      "link": "https://vnexpress.net/noi-lo-200-cong-nhan-uong-nuoc-ngot-moi-ngay-de-nap-nang-luong-4924735.html",
+      "summary": "Công nhân ở xưởng sản xuất - nơi làm việc của tôi ngày nào cũng uống nước ngọt để 'nạp năng lượng giữa ca'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:42:54+07:00",
+      "fetched": "2025-08-09T11:26:44.368925+07:00"
+    },
+    {
+      "id": "809a402fb2cc92500302c96d2ed11ca7",
+      "title": "Dự án phim ngắn CJ 2025 công bố top 5, nhận hỗ trợ 1,5 tỉ đồng",
+      "link": "https://thanhnien.vn/du-an-phim-ngan-cj-2025-cong-bo-top-5-nhan-ho-tro-15-ti-dong-185250809103138132.htm",
+      "summary": "Dự án phim ngắn CJ mùa 6 chính thức công bố top 5 dự án xuất sắc nhất sau vòng thuyết trình gay cấn diễn ra vào ngày 6.8. Vượt qua hơn 400 hồ sơ đăng ký, 5 đạo diễn trẻ sẽ nhận được tổng kinh phí sản xuất lên đến 1,5 tỉ đồng để hiện thực hóa giấc mơ điện ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:40:00+07:00",
+      "fetched": "2025-08-09T11:26:50.243138+07:00"
+    },
+    {
+      "id": "1a1497701e6c8f0657570968cae00efc",
+      "title": "Di chúc không rõ ràng, chia tài sản chung của cha mẹ thế nào?",
+      "link": "https://thanhnien.vn/di-chuc-khong-ro-rang-chia-tai-san-chung-cua-cha-me-the-nao-185250808232214109.htm",
+      "summary": "Nếu chỉ có người mẹ có di chúc để lại căn nhà cho các con, mà các hàng thừa kế không thỏa thuận được, thì tài sản của cha mẹ để lại vẫn phải chia đều cho các con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:40:00+07:00",
+      "fetched": "2025-08-09T11:26:50.243283+07:00"
+    },
+    {
+      "id": "137eb584df5b56776223802bb083a076",
+      "title": "TP.HCM bác yêu cầu bồi thường đất gần 9.000 m2 của Trường đại học Văn Lang",
+      "link": "https://thanhnien.vn/tphcm-bac-yeu-cau-boi-thuong-dat-gan-9000-m2-cua-truong-dai-hoc-van-lang-18525080822173749.htm",
+      "summary": "Trường đại học Văn Lang yêu cầu bồi thường 8.909 m2 bị ảnh hưởng bởi dự án cải tạo rạch Xuyên Tâm nhưng Sở Nông nghiệp và Môi trường TP.HCM khẳng định không có cơ sở giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:37:00+07:00",
+      "fetched": "2025-08-09T11:26:50.243454+07:00"
+    },
+    {
+      "id": "45c0bc3100e11c1881815f39d4387fd8",
+      "title": "'Những hệ lụy khi cấm hoàn toàn xe giường nằm chạy ban đêm'",
+      "link": "https://vnexpress.net/nhung-he-luy-khi-cam-hoan-toan-xe-giuong-nam-chay-ban-dem-4924456.html",
+      "summary": "Cấm xe giường nằm chạy vào ban đêm sẽ gây ra nhiều hệ lụy đối với ngành giao thông vận tải nói riêng và đời sống người dân nói chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:36:47+07:00",
+      "fetched": "2025-08-09T11:26:44.369076+07:00"
+    },
+    {
+      "id": "1de6b306015db8d5dac44f5e32018019",
+      "title": "Đà Nẵng đang thiếu gì để phát triển kinh tế đêm?",
+      "link": "https://thanhnien.vn/da-nang-dang-thieu-gi-de-phat-trien-kinh-te-dem-185250809102044264.htm",
+      "summary": "Mặc dù được xem là một trong những địa phương 'mạnh' du lịch nhất Việt Nam, Đà Nẵng vẫn thiếu một mắt xích quan trọng để phát triển kinh tế đêm - đó là những tổ hợp giải trí không ngủ - mô hình thành công ở các điểm du lịch nổi tiếng trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:30:00+07:00",
+      "fetched": "2025-08-09T11:26:50.243612+07:00"
+    },
+    {
+      "id": "ef49c020155c8c4461a7e2a71842bfe1",
+      "title": "Các trạm thu phát sóng di động đều phải tuân thủ các giới hạn phát xạ",
+      "link": "https://vnexpress.net/cac-tram-thu-phat-song-di-dong-deu-phai-tuan-thu-cac-gioi-han-phat-xa-4924754.html",
+      "summary": "Đề nghị các cấp lãnh đạo phân tích, để cho người dân hiểu, hiện tại các trạm BTS tồn rất nhiều không triển khai kịp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:28:38+07:00",
+      "fetched": "2025-08-09T11:26:44.369185+07:00"
+    },
+    {
+      "id": "a75ede440dc8e443bc710586cb59e495",
+      "title": "Thép Sata phân phối đa dạng dòng tôn Zacs",
+      "link": "https://vnexpress.net/thep-sata-phan-phoi-da-dang-dong-ton-zacs-4924725.html",
+      "summary": "Dòng tôn Zacs do Tập đoàn BlueScope sản xuất theo tiêu chuẩn quốc tế, tích hợp các công nghệ giúp nâng cao độ bền và tính bền vững tối ưu cho mái nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-09T03:25:00+07:00",
+      "fetched": "2025-08-09T11:26:44.369343+07:00"
+    },
+    {
+      "id": "8b6ff020109ac2bd21be6705d0a1144b",
+      "title": "Ba công cụ giúp nhà đầu tư xác định thời điểm chốt lời",
+      "link": "https://vnexpress.net/ba-cong-cu-giup-nha-dau-tu-xac-dinh-thoi-diem-chot-loi-4924726.html",
+      "summary": "Trong bối cảnh thị trường chứng khoán tăng nóng, chuyên gia khuyến nghị nhà đầu tư nên sử dụng các công cụ Price Action, chỉ báo kỹ thuật và vùng kháng cự để xác định điểm chốt lời hợp lý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-09T03:00:00+07:00",
+      "fetched": "2025-08-09T11:26:53.774488+07:00"
+    },
+    {
+      "id": "18edcd376d76e9394957aa436b63e0ab",
+      "title": "Chính sách mới có thể giúp Mỹ thu hồi vũ khí sắp chuyển cho Ukraine",
+      "link": "https://vnexpress.net/chinh-sach-moi-co-the-giup-my-thu-hoi-vu-khi-sap-chuyen-cho-ukraine-4924736.html",
+      "summary": "Bản ghi nhớ của Lầu Năm Góc cho phép cơ quan này chuyển hướng một số vật tư quân sự dự định dành cho Ukraine về kho vũ khí của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-09T02:57:02+07:00",
+      "fetched": "2025-08-09T11:26:52.685564+07:00"
+    },
+    {
+      "id": "2893484565b0f6f73b4f4071111cbfb5",
+      "title": "Hơn một triệu người nhập cư trái phép tự rời Mỹ",
+      "link": "https://vnexpress.net/hon-mot-trieu-nguoi-nhap-cu-trai-phep-tu-roi-my-4924724.html",
+      "summary": "Chính quyền Trump cho biết hơn một triệu người nhập cư không giấy tờ đã tự nguyện rời Mỹ kể từ khi nước này siết chặt kiểm soát biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-09T02:33:43+07:00",
+      "fetched": "2025-08-09T11:26:52.685737+07:00"
+    },
+    {
+      "id": "519d0ad79cecb6415e2c2acc5a6b8524",
+      "title": "Man Utd mua Sesko thế nào giữa lúc thắt chặt chi tiêu?",
+      "link": "https://vnexpress.net/man-utd-mua-sesko-the-nao-giua-luc-that-chat-chi-tieu-4924136.html",
+      "summary": "Dù sa thải hàng loạt nhân viên và cắt giảm nhiều chi phí hoạt động, Man Utd vẫn có thể tuyển mộ tiền đạo Benjamin Sesko với tổng phí 99 triệu USD nhờ các giải pháp hiệu quả.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-09T02:24:17+07:00",
+      "fetched": "2025-08-09T11:26:58.422930+07:00"
     },
     {
       "id": "5f74c4829f7bbeb6597e654d14137349",
@@ -761,6 +1281,16 @@ window.newsData_2025_08_09 = {
       "category": "Thế giới",
       "published": "2025-08-08T14:18:49+07:00",
       "fetched": "2025-08-09T09:26:49.151814+07:00"
+    },
+    {
+      "id": "3b32adf921d9796bcf58609efb30f120",
+      "title": "Việt Nam miễn thị thực cho nhà khoa học, tổng công trình sư",
+      "link": "https://vnexpress.net/viet-nam-mien-thi-thuc-cho-nha-khoa-hoc-tong-cong-trinh-su-4924648.html",
+      "summary": "Chính phủ miễn thị thực nhập cảnh Việt Nam cho tỷ phú, học giả, chuyên gia, nhà khoa học, giáo sư đại học, tổng công trình sư và nhân lực công nghệ số chất lượng cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-08T13:35:33+07:00",
+      "fetched": "2025-08-09T11:26:57.537106+07:00"
     },
     {
       "id": "3fe8b702ee277e0089f1dbe6281946c5",
