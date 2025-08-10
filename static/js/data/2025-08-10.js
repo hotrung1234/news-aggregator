@@ -1,7 +1,147 @@
 window.newsData_2025_08_10 = {
   "date": "2025-08-10",
-  "lastUpdated": "2025-08-10T21:15:30.398559+07:00",
+  "lastUpdated": "2025-08-10T23:20:15.784730+07:00",
   "articles": [
+    {
+      "id": "a4359a5f5e3950cbcda18b06bf89020c",
+      "title": "Tổng Bí thư Tô Lâm xúc động trước tình cảm những người Hàn Quốc dành cho Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-xuc-dong-truoc-tinh-cam-nhung-nguoi-han-quoc-danh-cho-viet-nam-20250810203107282.htm",
+      "summary": "Gặp Tổng Bí thư Tô Lâm, nhiều người Hàn Quốc đã bày tỏ tình cảm và sự gắn bó cùng những kỷ niệm không thể nào quên tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302864+07:00",
+      "fetched": "2025-08-10T23:20:06.302973+07:00"
+    },
+    {
+      "id": "226c391099c73fcaf704d7bc9dd756ee",
+      "title": "'Hot girl điền kinh' Huỳnh Thị Mỹ Tiên thắng kịch tính ở Giải vô địch quốc gia",
+      "link": "https://tuoitre.vn/hot-girl-dien-kinh-huynh-thi-my-tien-thang-kich-tinh-o-giai-vo-dich-quoc-gia-20250810204619207.htm",
+      "summary": "Đường chạy chung kết 100m rào nữ Giải điền kinh vô địch quốc gia đã chứng kiến màn nước rút hấp dẫn, kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302744+07:00",
+      "fetched": "2025-08-10T23:20:06.302853+07:00"
+    },
+    {
+      "id": "b5a6b1524a760b0f4c5797d45bec8ba1",
+      "title": "Đà Nẵng bắt đầu 3 cuộc thanh tra dự án chậm tiến độ, nguy cơ gây lãng phí",
+      "link": "https://tuoitre.vn/da-nang-bat-dau-3-cuoc-thanh-tra-du-an-cham-tien-do-nguy-co-gay-lang-phi-20250810195413317.htm",
+      "summary": "Thanh tra Đà Nẵng vừa ban hành 3 quyết định thanh tra các dự án trọng điểm trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302622+07:00",
+      "fetched": "2025-08-10T23:20:06.302732+07:00"
+    },
+    {
+      "id": "065c9a1ad8d919980d84465f37d84b2d",
+      "title": "U20 nữ Việt Nam chính thức giành vé dự giải châu Á",
+      "link": "https://tuoitre.vn/u20-nu-viet-nam-chinh-thuc-gianh-ve-du-giai-chau-a-20250810203009625.htm",
+      "summary": "Chiến thắng 3-0 trước U20 nữ Kyrgyzstan tối 10-8 giúp đội tuyển U20 nữ Việt Nam giành vé vào thẳng vòng bảng Giải U20 nữ châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302500+07:00",
+      "fetched": "2025-08-10T23:20:06.302611+07:00"
+    },
+    {
+      "id": "9c12f0c71c2fe10ffbff486dec768476",
+      "title": "Sáp nhập tỉnh thành là cơ hội cho Hoa hậu Du lịch Việt Nam",
+      "link": "https://tuoitre.vn/sap-nhap-tinh-thanh-la-co-hoi-cho-hoa-hau-du-lich-viet-nam-2025081020271568.htm",
+      "summary": "Nếu như trước đây tân Hoa hậu Du lịch Việt Nam chỉ đại diện cho một tỉnh, thành thì nay cô ấy là đại sứ của nhiều tỉnh cũ sau khi sáp nhập thành một đơn vị hành chính mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302375+07:00",
+      "fetched": "2025-08-10T23:20:06.302488+07:00"
+    },
+    {
+      "id": "937dd30abd0988b25cb5f9aebeaf394c",
+      "title": "Hai ca sinh rớt, trẻ đã ngưng tim, ngưng thở được cứu sống ngoạn mục",
+      "link": "https://tuoitre.vn/hai-ca-sinh-rot-tre-da-ngung-tim-ngung-tho-duoc-cuu-song-ngoan-muc-20250810210323753.htm",
+      "summary": "Hai ca sinh rớt bị ngưng tim, ngưng thở được các y bác sĩ Trung tâm Cấp cứu 115 TP.HCM cứu sống ngoạn mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302250+07:00",
+      "fetched": "2025-08-10T23:20:06.302364+07:00"
+    },
+    {
+      "id": "648a1e16f36402e63e84e0ed1e9ea228",
+      "title": "Thủ tướng: Gỡ điểm nghẽn để phát triển kinh tế tư nhân như 'khoán 10'",
+      "link": "https://tuoitre.vn/thu-tuong-go-diem-nghen-de-phat-trien-kinh-te-tu-nhan-nhu-khoan-10-20250810212115196.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh việc triển khai hiệu quả Nghị quyết 68 của Bộ Chính trị, tạo đột phá thực sự để phát triển kinh tế tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.302102+07:00",
+      "fetched": "2025-08-10T23:20:06.302238+07:00"
+    },
+    {
+      "id": "38fdb96f248c00f2c7d0e0b7f81fd049",
+      "title": "Ngược dòng không tưởng, bóng chuyền nữ Việt Nam lật đổ Thái Lan",
+      "link": "https://tuoitre.vn/nguoc-dong-khong-tuong-bong-chuyen-nu-viet-nam-lat-do-thai-lan-20250810213237562.htm",
+      "summary": "Tối 10-8, tuyển bóng chuyền nữ Việt Nam có được chiến thắng lịch sử trước Thái Lan để lần đầu lên ngôi tại SEA V.League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301967+07:00",
+      "fetched": "2025-08-10T23:20:06.302091+07:00"
+    },
+    {
+      "id": "a514742d7a4cd60c54e2f4dc3526e533",
+      "title": "Phớt lờ lệnh cấm, 3 người Odessa thiệt mạng do tắm biển",
+      "link": "https://tuoitre.vn/phot-lo-lenh-cam-3-nguoi-odessa-thiet-mang-do-tam-bien-20250810213822338.htm",
+      "summary": "Thương vong dân thường trong cuộc chiến Nga - Ukraine tiếp tục gia tăng do các cuộc tấn công và tàn dư nổ do chiến tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301832+07:00",
+      "fetched": "2025-08-10T23:20:06.301945+07:00"
+    },
+    {
+      "id": "a2651f610afbeca78deec918121d337c",
+      "title": "Một đội U20 nữ ghi 36 bàn sau 3 trận ở vòng loại giải châu Á",
+      "link": "https://tuoitre.vn/mot-doi-u20-nu-ghi-36-ban-sau-3-tran-o-vong-loai-giai-chau-a-20250810214743847.htm",
+      "summary": "Sự chênh lệch về đẳng cấp thể hiện rõ rệt ở vòng loại Giải U20 nữ châu Á 2026 khi nhiều đội bóng có chiến thắng cực đậm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301705+07:00",
+      "fetched": "2025-08-10T23:20:06.301820+07:00"
+    },
+    {
+      "id": "4ab2c831caeba5a67dc9e6227b5d17bd",
+      "title": "Tuyển nữ Philippines thua sốc khi Úc thay 10 trên 11 cầu thủ",
+      "link": "https://tuoitre.vn/tuyen-nu-philippines-thua-soc-khi-uc-thay-10-tren-11-cau-thu-20250810215907345.htm",
+      "summary": "Đội tuyển nữ Úc tạo bất ngờ khi đổi hoàn toàn đội hình trong chiến thắng 1-0 trước tuyển nữ Philippines ở loạt trận thứ 2 bảng B giải vô địch Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301574+07:00",
+      "fetched": "2025-08-10T23:20:06.301693+07:00"
+    },
+    {
+      "id": "f3420e1bf4a3899bbeb21e3e2ad934e9",
+      "title": "Video thủ môn Kyrgyzstan 'choáng váng' trước pha dứt điểm bất ngờ của hậu vệ Việt Nam",
+      "link": "https://tuoitre.vn/video-thu-mon-kyrgyzstan-choang-vang-truoc-pha-dut-diem-bat-ngo-cua-hau-ve-viet-nam-20250810220632635.htm",
+      "summary": "Thủ môn của U20 nữ Kyrgyzstan bất lực trước pha dứt điểm hiểm hóc của hậu vệ Đào Khánh Vy từ góc hẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301431+07:00",
+      "fetched": "2025-08-10T23:20:06.301562+07:00"
+    },
+    {
+      "id": "582b46f830d38b83916ff55c2b7535e2",
+      "title": "HLV Nguyễn Tuấn Kiệt: 'Bóng chuyền nữ Việt Nam vẫn tin vào chiến thắng dù thua 2 set'",
+      "link": "https://tuoitre.vn/hlv-nguyen-tuan-kiet-bong-chuyen-nu-viet-nam-van-tin-vao-chien-thang-du-thua-2-set-2025081022224143.htm",
+      "summary": "Sau chiến thắng lịch sử trước Thái Lan, HLV tuyển bóng chuyền nữ Việt Nam Nguyễn Tuấn Kiệt cho biết ông cảm thấy tự hào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301288+07:00",
+      "fetched": "2025-08-10T23:20:06.301418+07:00"
+    },
+    {
+      "id": "27e06dfd68494e7da38ddc49a581b038",
+      "title": "Video: Cú 'cứa lòng' đẳng cắp giúp tuyển Úc đánh bại Philippines",
+      "link": "https://tuoitre.vn/video-cu-cua-long-dang-cap-giup-tuyen-uc-danh-bai-philippines-20250810223046662.htm",
+      "summary": "Pha lập công đẹp mắt duy nhất của Jancevsk đã giúp tuyển U23 nữ Úc giành chiến thắng 1-0 trước Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:06.301038+07:00",
+      "fetched": "2025-08-10T23:20:06.301272+07:00"
+    },
     {
       "id": "c42dd713fcc123a31b300899f0ccb017",
       "title": "Thủ tướng Phạm Minh Chính động viên ê kíp 'concert quốc gia' giữa cơn mưa lớn",
@@ -383,6 +523,66 @@ window.newsData_2025_08_10 = {
       "fetched": "2025-08-10T17:17:42.341456+07:00"
     },
     {
+      "id": "f91d3b2284302ba3e7b6dbf858c20b42",
+      "title": "TP.HCM: Ô tô đang chạy bất ngờ bốc cháy ngùn ngụt",
+      "link": "https://thanhnien.vn/tphcm-o-to-dang-chay-bat-ngo-boc-chay-ngun-ngut-185250810212800218.htm",
+      "summary": "Chiếc ô tô đang di chuyển qua địa bàn phường Tam Bình (thành phố Thủ Đức cũ, TP.HCM) thì bất ngờ bốc cháy ngùn ngụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T16:08:00+07:00",
+      "fetched": "2025-08-10T23:20:05.251614+07:00"
+    },
+    {
+      "id": "8005a5070d702e2080e525d2b53bf679",
+      "title": "Người hùng Bích Tuyền tiết lộ chìa khóa giúp bóng chuyền nữ Việt Nam thắng ngược Thái Lan",
+      "link": "https://thanhnien.vn/nguoi-hung-bich-tuyen-tiet-lo-chia-khoa-giup-bong-chuyen-nu-viet-nam-thang-nguoc-thai-lan-185250810225808691.htm",
+      "summary": "Thi đấu bùng nổ ở chung kết, Nguyễn Thị Bích Tuyền giúp đội tuyển bóng chuyền nữ Việt Nam đánh bại Thái Lan, lần đầu vô địch giải bóng chuyền Đông Nam Á (SEA V.League).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T16:00:00+07:00",
+      "fetched": "2025-08-10T23:20:05.251792+07:00"
+    },
+    {
+      "id": "6b323a4095d35b77e3128e7fa43ca2f9",
+      "title": "Đấu Trường Hỗn Chiến mùa 2: Lộ diện chủ nhân tấm vé đến TFT Paris Open 2025",
+      "link": "https://thanhnien.vn/dau-truong-hon-chien-mua-2-lo-dien-chu-nhan-tam-ve-den-tft-paris-open-2025-18525081022212264.htm",
+      "summary": "Cuối tuần qua, tại Nhà thi đấu Nguyễn Du (TP.HCM), 256 game thủ Đấu Trường Chân Lý đã cùng nhau bước vào cuộc tranh tài đầy kịch tính tại Đấu Trường Hỗn Chiến mùa 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:55:00+07:00",
+      "fetched": "2025-08-10T23:20:05.251947+07:00"
+    },
+    {
+      "id": "919b8736906ce446d2ad0795b1441168",
+      "title": "Nguyễn Trần Duy Nhất hạnh phúc vì đã chơi hết mình tại World Games",
+      "link": "https://thanhnien.vn/nguyen-tran-duy-nhat-hanh-phuc-vi-da-choi-het-minh-tai-world-games-185250810222943971.htm",
+      "summary": "Nguyễn Trần Duy Nhất đã không thể có được chiếc huy chương World Games 2025 khi để thua ở trận tranh hạng ba trước đối thủ người Pháp. Dù vậy ở tuổi 36, những gì mà võ sĩ Việt Nam để lại vẫn đáng tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:46:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252098+07:00"
+    },
+    {
+      "id": "91831dfc4abe779b2d134738a022c530",
+      "title": "Câu chuyện cực thú vị sau màn ngược dòng không tưởng của bóng chuyền nữ Việt Nam trước Thái Lan",
+      "link": "https://thanhnien.vn/cau-chuyen-cuc-thu-vi-sau-man-nguoc-dong-khong-tuong-cua-bong-chuyen-nu-viet-nam-truoc-thai-lan-185250810222743533.htm",
+      "summary": "Khoảnh khắc Bích Tuyền vung tay đập bóng xuyên chắn đối thủ để ghi điểm quyết định đưa đội tuyển bóng chuyền nữ Việt Nam lên ngôi vô địch, nhà thi đấu như nổ tung. Bóng chuyền nữ Việt Nam đã phá thế thống trị của Thái Lan, lần đầu đăng quang tại một chặng đấu SEA V.League 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:31:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252271+07:00"
+    },
+    {
+      "id": "5daeccae2fb1ca9e6e8195132e9611b7",
+      "title": "Highlight U.23 nữ Úc 1-0 Philippines: Cục diện bảng B cực kỳ khó đoán",
+      "link": "https://thanhnien.vn/highlight-u23-nu-uc-1-0-philippines-cuc-dien-bang-b-cuc-ky-kho-doan-185250810222438839.htm",
+      "summary": "Sau thất bại trước đội tuyển nữ Myanmar ở lượt đầu tiên, U.23 Úc rơi vào thế buộc phải giành chiến thắng để nuôi hy vọng đi tiếp. Đây chính là động lực để các học trò HLV Josheph Palasides chơi tốt trong cuộc đối đầu đội tuyển nữ Philippines, những người dẫn đầu bảng B trước lượt đấu thứ 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:24:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252423+07:00"
+    },
+    {
       "id": "3e30b9aa30693664a0de668e15b004d5",
       "title": "Tạm giữ 5 người xâm nhập trái phép hơn 70 tài khoản Facebook, mạo danh người thân lừa đảo 10 tỉ đồng",
       "link": "https://tuoitre.vn/tam-giu-5-nguoi-xam-nhap-trai-phep-hon-70-tai-khoan-facebook-mao-danh-nguoi-than-lua-dao-10-ti-dong-20250810112405987.htm",
@@ -531,6 +731,176 @@ window.newsData_2025_08_10 = {
       "category": "Tổng hợp",
       "published": "2025-08-10T15:21:26.424397+07:00",
       "fetched": "2025-08-10T15:21:26.424608+07:00"
+    },
+    {
+      "id": "4e77181a3772463ee48563627cf8cdcd",
+      "title": "Bích Tuyền quá xuất sắc, bóng chuyền Việt Nam có chiến thắng lịch sử trước Thái Lan",
+      "link": "https://thanhnien.vn/bich-tuyen-qua-xuat-sac-bong-chuyen-viet-nam-co-chien-thang-lich-su-truoc-thai-lan-185250810222028563.htm",
+      "summary": "Bích Tuyền tỏa sáng rực rỡ, giúp đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng lịch sử 3-2 trước đội tuyển Thái Lan, lần đầu lên ngôi vô địch SEA V.League 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252572+07:00"
+    },
+    {
+      "id": "d9937af40a5b238de47707577741bc67",
+      "title": "Giả cảnh sát 'vòi' tiền người đi đường",
+      "link": "https://vnexpress.net/gia-canh-sat-voi-tien-nguoi-di-duong-4925164.html",
+      "summary": "Đặng Trung Quân, 20 tuổi, cùng đồng phạm bị bắt sau khi giả cảnh sát cơ động, chặn xe người đi đường \"vòi\" tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:10:51+07:00",
+      "fetched": "2025-08-10T23:20:01.645678+07:00"
+    },
+    {
+      "id": "77e4e011948c972dcc70c76a32f18dbd",
+      "title": "VFF thưởng nóng đội tuyển nữ U.20 Việt Nam 500 triệu đồng vì giành vé dự giải U.20 châu Á",
+      "link": "https://thanhnien.vn/vff-thuong-nong-doi-tuyen-nu-u20-viet-nam-500-trieu-dong-vi-gianh-ve-du-giai-u20-chau-a-185250810215742514.htm",
+      "summary": "Chiến thắng 3-0 trước U.20 Kyrgzystan vào tối 10.8 giúp đội nữ U.20 Việt Nam chính thức giành quyền tham dự vòng chung kết U.20 nữ châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:02:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252718+07:00"
+    },
+    {
+      "id": "5bc611520387e37ff777c94918060c3e",
+      "title": "Gen Z 'hồi sinh' rạp phim 85 năm tuổi",
+      "link": "https://vnexpress.net/gen-z-hoi-sinh-rap-phim-85-nam-tuoi-4925056.html",
+      "summary": "Hannah Hockman, 26 tuổi, mất hơn một năm cải tạo rạp phim lâu đời tại Florida với hy vọng biến địa điểm thành nơi kết nối cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:54:58+07:00",
+      "fetched": "2025-08-10T23:20:01.645898+07:00"
+    },
+    {
+      "id": "094d041b22640553d10ea07672b4edbb",
+      "title": "Tổng Bí thư Tô Lâm dự lễ khánh thành tượng Chủ tịch Hồ Chí Minh tại Hàn Quốc",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-du-le-khanh-thanh-tuong-chu-tich-ho-chi-minh-tai-han-quoc-18525081021352296.htm",
+      "summary": "Chiều 10.8, Tổng Bí thư Tô Lâm và phu nhân cùng đoàn đại biểu cấp cao Việt Nam đã dự lễ khánh thành tượng Chủ tịch Hồ Chí Minh trong khuôn viên Đại sứ quán Việt Nam tại Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:52:00+07:00",
+      "fetched": "2025-08-10T23:20:05.252863+07:00"
+    },
+    {
+      "id": "ec208832c0a5cec0f281420fdab819ba",
+      "title": "Đơn vị Ukraine lộ vị trí, hứng đòn của tên lửa Iskander",
+      "link": "https://vnexpress.net/don-vi-ukraine-lo-vi-tri-hung-don-cua-ten-lua-iskander-4925152.html",
+      "summary": "Nga công bố video UAV theo dõi đơn vị Ukraine bốc dỡ thiết bị ở tỉnh Chernihiv, sau đó chỉ điểm cho tên lửa Iskander tập kích mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:45:57+07:00",
+      "fetched": "2025-08-10T23:20:01.646072+07:00"
+    },
+    {
+      "id": "ec208832c0a5cec0f281420fdab819ba",
+      "title": "Đơn vị Ukraine lộ vị trí, hứng đòn của tên lửa Iskander",
+      "link": "https://vnexpress.net/don-vi-ukraine-lo-vi-tri-hung-don-cua-ten-lua-iskander-4925152.html",
+      "summary": "Nga công bố video UAV theo dõi đơn vị Ukraine bốc dỡ thiết bị ở tỉnh Chernihiv, sau đó chỉ điểm cho tên lửa Iskander tập kích mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-10T14:45:57+07:00",
+      "fetched": "2025-08-10T23:20:08.372904+07:00"
+    },
+    {
+      "id": "429689b34ca776e1f97945f2e4ab0bcb",
+      "title": "Đội Úc đánh bại Philippines, bảng B cực hấp dẫn và khó lường: Chưa thể biết ai vào bán kết",
+      "link": "https://thanhnien.vn/doi-uc-danh-bai-philippines-bang-b-cuc-hap-dan-va-kho-luong-chua-the-biet-ai-vao-ban-ket-185250810203910387.htm",
+      "summary": "Tối 10.8, trận thua 0-1 của đội tuyển nữ Philippines trước đội tuyển nữ Úc khiến bảng B giải bóng đá nữ vô địch Đông Nam Á 2025 trở nên cực kỳ hấp dẫn ở lượt đấu cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:39:00+07:00",
+      "fetched": "2025-08-10T23:20:05.253025+07:00"
+    },
+    {
+      "id": "9151d87dc9ccbd787d49adf8d8e31a0c",
+      "title": "Mẹ giục con gái bấm nút với nhân viên phòng cháy chữa cháy trên show hẹn hò",
+      "link": "https://thanhnien.vn/me-giuc-con-gai-bam-nut-voi-nhan-vien-phong-chay-chua-chay-tren-show-hen-ho-185250810180935585.htm",
+      "summary": "Nam nhân viên phòng cháy chữa cháy U.40 và cô giáo đã nên duyên sau màn gặp gỡ tại 'Bạn muốn hẹn hò'. Đặc biệt, khoảnh khắc mẹ đàng gái liên tục thúc giục con bấm nút đã khiến hai MC và khán giả thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:39:00+07:00",
+      "fetched": "2025-08-10T23:20:05.253195+07:00"
+    },
+    {
+      "id": "99b17177bdfecd73e70e1075f12f4c42",
+      "title": "Nghệ sĩ tạm dừng ghi hình ‘Chiến sĩ quả cảm’ vì chấn thương",
+      "link": "https://thanhnien.vn/nghe-si-tam-dung-ghi-hinh-chien-si-qua-cam-vi-chan-thuong-185250810201945888.htm",
+      "summary": "Nhà sản xuất 'Chiến sĩ quả cảm' cho biết khi đặt ra các thử thách, họ đã tính đến yếu tố an toàn cho dàn nghệ sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:36:00+07:00",
+      "fetched": "2025-08-10T23:20:05.253344+07:00"
+    },
+    {
+      "id": "c332b7130c99dec12ad5353f28f64175",
+      "title": "Bạn nhớ bao nhiêu tình tiết trong phim cung đấu 'Dong Yi'?",
+      "link": "https://vnexpress.net/ban-nho-bao-nhieu-tinh-tiet-trong-phim-cung-dau-dong-yi-4924850.html",
+      "summary": "Trắc nghiệm thử trí nhớ khán giả về tình tiết, nhân vật trong \"Dong Yi\" - phim kinh điển sóng gió hậu cung - của đài MBC 15 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:30:00+07:00",
+      "fetched": "2025-08-10T23:20:01.646255+07:00"
+    },
+    {
+      "id": "76c9c7ad5d2f102e6688dc6ff900328f",
+      "title": "Chi Pu, Isaac khuấy động đại nhạc hội T&amp;T City Millennia",
+      "link": "https://vnexpress.net/chi-pu-isaac-khuay-dong-dai-nhac-hoi-t-t-city-millennia-4925162.html",
+      "summary": "Dàn sao Việt gồm Chi Pu, Isaac, Erik, Quân AP, DJ Mie trình diễn loạt hit khiến hàng chục nghìn khán giả hòa giọng, nhún nhảy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:30:00+07:00",
+      "fetched": "2025-08-10T23:20:01.646416+07:00"
+    },
+    {
+      "id": "7657c6c022a45a970fe801ee7b49dd41",
+      "title": "Chính thức chạy tàu du lịch chất lượng cao Hà Nội - Đồng Hới",
+      "link": "https://thanhnien.vn/chinh-thuc-chay-tau-du-lich-chat-luong-cao-ha-noi-dong-hoi-185250810212030384.htm",
+      "summary": "Đoàn tàu du lịch chất lượng cao đầu tiên tuyến Hà Nội - Đồng Hới (Quảng Trị) chính thức lăn bánh tại ga Hà Nội tối nay 10.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:30:00+07:00",
+      "fetched": "2025-08-10T23:20:05.253495+07:00"
+    },
+    {
+      "id": "f21dc9e1a10149680c462e33c312af64",
+      "title": "Bóng chuyền nữ Việt Nam lần đầu thắng Thái Lan",
+      "link": "https://vnexpress.net/bong-chuyen-nu-viet-nam-lan-dau-thang-thai-lan-4925166.html",
+      "summary": "Tuyển bóng chuyền nữ Việt Nam lần đầu hạ Thái Lan, tỷ số 3-2 dù bị dẫn trước hai set, để thắng chặng 2 SEA V-League 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:29:47+07:00",
+      "fetched": "2025-08-10T23:20:01.646585+07:00"
+    },
+    {
+      "id": "f21dc9e1a10149680c462e33c312af64",
+      "title": "Bóng chuyền nữ Việt Nam lần đầu thắng Thái Lan",
+      "link": "https://vnexpress.net/bong-chuyen-nu-viet-nam-lan-dau-thang-thai-lan-4925166.html",
+      "summary": "Tuyển bóng chuyền nữ Việt Nam lần đầu hạ Thái Lan, tỷ số 3-2 dù bị dẫn trước hai set, để thắng chặng 2 SEA V-League 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T14:29:47+07:00",
+      "fetched": "2025-08-10T23:20:15.771059+07:00"
+    },
+    {
+      "id": "58c68f27ac53b09a9d3905a1eb276c29",
+      "title": "5 nhà gỗ trị giá 7 tỷ đồng cháy rụi giữa trưa",
+      "link": "https://vnexpress.net/5-nha-go-tri-gia-7-ty-dong-chay-rui-giua-trua-4925157.html",
+      "summary": "Ngọn lửa bùng phát từ nhà ông Nguyễn Văn Trung ở xã Hương Đô, sau đó lan sang 4 căn liền kề, thiêu rụi toàn bộ nhà gỗ lim và dổi trong vườn trị giá khoảng 7 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:29:09+07:00",
+      "fetched": "2025-08-10T23:20:01.646740+07:00"
+    },
+    {
+      "id": "12c62751f8ec3fd8fc2a20396bc706bd",
+      "title": "TP.HCM: Ngập nước hơn 1 m suốt 2 tiếng, ô tô chết máy la liệt",
+      "link": "https://thanhnien.vn/tphcm-ngap-nuoc-hon-1-m-suot-2-tieng-o-to-chet-may-la-liet-185250810203416004.htm",
+      "summary": "Mưa lớn chiều 10.8 khiến đường Nguyễn Duy Trinh (TP.HCM) bị ngập nước hơn 1 m suốt 2 tiếng, nhiều ô tô chết máy, người dân phải lội nước về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T14:16:00+07:00",
+      "fetched": "2025-08-10T23:20:05.253645+07:00"
     },
     {
       "id": "59d12024f41bd802d6ca4c5c40ad2080",
