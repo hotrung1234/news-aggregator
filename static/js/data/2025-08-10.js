@@ -1,7 +1,157 @@
 window.newsData_2025_08_10 = {
   "date": "2025-08-10",
-  "lastUpdated": "2025-08-10T13:25:14.655183+07:00",
+  "lastUpdated": "2025-08-10T15:21:32.697556+07:00",
   "articles": [
+    {
+      "id": "3e30b9aa30693664a0de668e15b004d5",
+      "title": "Tạm giữ 5 người xâm nhập trái phép hơn 70 tài khoản Facebook, mạo danh người thân lừa đảo 10 tỉ đồng",
+      "link": "https://tuoitre.vn/tam-giu-5-nguoi-xam-nhap-trai-phep-hon-70-tai-khoan-facebook-mao-danh-nguoi-than-lua-dao-10-ti-dong-20250810112405987.htm",
+      "summary": "Một nhóm người đã xâm nhập trái phép vào các tài khoản Facebook rồi mạo danh người thân của các chủ tài khoản để lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.426334+07:00",
+      "fetched": "2025-08-10T15:21:26.426451+07:00"
+    },
+    {
+      "id": "9bf97c0d998fc67b85af5134d46c8f4f",
+      "title": "Một ngư dân mất tích nghi do đột quỵ khi đánh cá trên biển",
+      "link": "https://tuoitre.vn/mot-ngu-dan-mat-tich-nghi-do-dot-quy-khi-danh-ca-tren-bien-20250810094633139.htm",
+      "summary": "Đánh cá ngoài khơi, các ngư dân phát hiện một tàu cá trôi dạt, không có người nên lai dắt vào bờ, phối hợp tìm kiếm ngư dân mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.426211+07:00",
+      "fetched": "2025-08-10T15:21:26.426323+07:00"
+    },
+    {
+      "id": "5df34915ac3af22d40766c7120b70d77",
+      "title": "Tổng Bí thư Tô Lâm đến Seoul, bắt đầu thăm Hàn Quốc",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-den-seoul-bat-dau-tham-han-quoc-20250810131551083.htm",
+      "summary": "Tổng Bí thư Tô Lâm và Phu nhân được chào đón trang trọng ngay tại sân bay, bắt đầu chuyến thăm Hàn Quốc trong 4 ngày từ ngày 10-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.426083+07:00",
+      "fetched": "2025-08-10T15:21:26.426199+07:00"
+    },
+    {
+      "id": "3df2f9eded723bbb7062427dbb6830a5",
+      "title": "Ông Thaksin tặng quân đội Thái Lan 10 bộ máy bay không người lái để bảo vệ biên giới",
+      "link": "https://tuoitre.vn/ong-thaksin-tang-quan-doi-thai-lan-10-bo-may-bay-khong-nguoi-lai-de-bao-ve-bien-gioi-20250810131710363.htm",
+      "summary": "Ông Thaksin tặng 10 bộ máy bay không người lái trị giá hơn 92.000 USD cho quân đội Thái Lan để bảo vệ biên giới nước này với Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425959+07:00",
+      "fetched": "2025-08-10T15:21:26.426072+07:00"
+    },
+    {
+      "id": "cfb540942915f7588567573cf0b35fef",
+      "title": "'Không nhà, không xe thì đừng cưới, không lo cho con đầy đủ thì đừng đẻ'",
+      "link": "https://tuoitre.vn/khong-nha-khong-xe-thi-dung-cuoi-khong-lo-cho-con-day-du-thi-dung-de-20250730180055553.htm",
+      "summary": "Không nhà, không xe thì đừng cưới. Không lo cho con đầy đủ thì đừng đẻ, tội con. Nhiều bạn trẻ ngày nay suy nghĩ như vậy, có đúng không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425833+07:00",
+      "fetched": "2025-08-10T15:21:26.425948+07:00"
+    },
+    {
+      "id": "9d405ddffe182592c69df31f7d99d57d",
+      "title": "6.000 người chạm vào mây ở thảo nguyên Bùi Hui, Quảng Ngãi kỳ vọng du lịch cất cánh",
+      "link": "https://tuoitre.vn/6-000-nguoi-cham-vao-may-o-thao-nguyen-bui-hui-quang-ngai-ky-vong-du-lich-cat-canh-20250810112330481.htm",
+      "summary": "Sáng 10-8, nhiều du khách vẫn còn ở lại thảo nguyên Bùi Hui, Quảng Ngãi sau những giây phút thật sự \"chạm vào mây\" trên thảo nguyên lộng gió.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425690+07:00",
+      "fetched": "2025-08-10T15:21:26.425821+07:00"
+    },
+    {
+      "id": "ab854e3dca8bee768b71062655b9e60b",
+      "title": "Đoàn tàu Hà Nội - Đồng Hới có gì đặc biệt để được ví như ‘chuyên cơ mặt đất’?",
+      "link": "https://tuoitre.vn/doan-tau-ha-noi-dong-hoi-co-gi-dac-biet-de-duoc-vi-nhu-chuyen-co-mat-dat-20250810114831017.htm",
+      "summary": "Đoàn tàu được ví như “chuyên cơ mặt đất” của ngành đường sắt chính thức được đưa vào vận hành từ ngày 10-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425566+07:00",
+      "fetched": "2025-08-10T15:21:26.425678+07:00"
+    },
+    {
+      "id": "06eca966a5d9d93bfde173fa822194f9",
+      "title": "Trung Quốc, Singapore gia tăng ca bệnh Chikungunya, Việt Nam có đáng lo?",
+      "link": "https://tuoitre.vn/trung-quoc-singapore-gia-tang-ca-benh-chikungunya-viet-nam-co-dang-lo-20250810142422415.htm",
+      "summary": "Thời gian gần đây số ca mắc Chikungunya tại Trung Quốc tăng nhanh, trong khi Singapore cũng đã ghi nhận những trường hợp đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425439+07:00",
+      "fetched": "2025-08-10T15:21:26.425554+07:00"
+    },
+    {
+      "id": "6834b744b1e66fb2890928d96efef7fe",
+      "title": "Lý do người đàn ông xăm trổ đánh dã man phụ nữ trước mặt nhiều trẻ nhỏ",
+      "link": "https://tuoitre.vn/ly-do-nguoi-dan-ong-xam-tro-danh-da-man-phu-nu-truoc-mat-nhieu-tre-nho-20250810140415921.htm",
+      "summary": "Do mâu thuẫn từ trước, khi gặp chị N.T. ở chung cư, ông Đ.C.T. đến nói chuyện rồi xảy ra cãi vã, không được xin lỗi, ông đã hành hung dã man.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425301+07:00",
+      "fetched": "2025-08-10T15:21:26.425427+07:00"
+    },
+    {
+      "id": "de62f85dad2f78892c591fc256a667a4",
+      "title": "Lãnh án tù vì lên mạng học sản xuất 421 triệu đồng tiền giả mệnh giá 500.000 đồng",
+      "link": "https://tuoitre.vn/lanh-an-tu-vi-len-mang-hoc-san-xuat-421-trieu-dong-tien-gia-menh-gia-500-000-dong-20250810115306827.htm",
+      "summary": "Một thanh niên lên mạng học làm tiền giả loại 500.000 đồng (tổng số tiền giả là 421,5 triệu đồng) nhưng chưa kịp tiêu thụ thì bị công an phát hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425175+07:00",
+      "fetched": "2025-08-10T15:21:26.425289+07:00"
+    },
+    {
+      "id": "31c7f248515ac374b95448d39ee33f22",
+      "title": "Đà Nẵng có ngân hàng thực phẩm tiếp sức người yếu thế",
+      "link": "https://tuoitre.vn/da-nang-co-ngan-hang-thuc-pham-tiep-suc-nguoi-yeu-the-20250810132036395.htm",
+      "summary": "Ngân hàng thực phẩm có mặt tại Đà Nẵng, đảm bảo khả năng hỗ trợ khẩn cấp cho người dân ảnh hưởng bởi thiên tai, bão lũ và người yếu thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.425047+07:00",
+      "fetched": "2025-08-10T15:21:26.425164+07:00"
+    },
+    {
+      "id": "c8dc0301b07a8b697b1cb2be23d2af9d",
+      "title": "Thấy gì qua 2 vụ rút chìa khóa xe?; Bé trai bị bảo mẫu bạo hành qua đời sau 21 ngày cứu chữa",
+      "link": "https://tuoitre.vn/thay-gi-qua-2-vu-rut-chia-khoa-xe-be-trai-bi-bao-mau-bao-hanh-qua-doi-sau-21-ngay-cuu-chua-20250809163714768.htm",
+      "summary": "Hai vụ rút chìa khóa xe; Bé trai 14 tháng tuổi bị bảo mẫu bạo hành đã qua đời… là những thông tin được nhiều bạn đọc TTO phản hồi tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.424918+07:00",
+      "fetched": "2025-08-10T15:21:26.425035+07:00"
+    },
+    {
+      "id": "c9b4ca569d80aafee768e51af5811cb5",
+      "title": "Trụ sở Viện Quy hoạch xây dựng ở Huế bỏ hoang, thành nơi hút chích",
+      "link": "https://tuoitre.vn/tru-so-vien-quy-hoach-xay-dung-o-hue-bo-hoang-thanh-noi-hut-chich-20250810134026331.htm",
+      "summary": "Khối nhà 3 tầng là tài sản công được UBND tỉnh Thừa Thiên Huế cũ bàn giao cho Viện Quy hoạch xây dựng quán lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.424782+07:00",
+      "fetched": "2025-08-10T15:21:26.424907+07:00"
+    },
+    {
+      "id": "da99acd1c84e545da66ceb2e5df397e9",
+      "title": "Triệu tập người đàn ông chia sẻ video 'lấy xương người nấu cao'",
+      "link": "https://tuoitre.vn/trieu-tap-nguoi-dan-ong-chia-se-video-lay-xuong-nguoi-nau-cao-20250810125827712.htm",
+      "summary": "Chia sẻ một đoạn video do công nghệ trí tuệ nhân tạo (AI) tạo ra về việc 'lấy xương người nấu cao', một người đàn ông ở Nghệ An bị công an triệu tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.424623+07:00",
+      "fetched": "2025-08-10T15:21:26.424769+07:00"
+    },
+    {
+      "id": "f9b59ddc32b8cfbe56f3025030653681",
+      "title": "Tìm thấy thi thể nam thanh niên mất tích khi leo núi ở Nha Trang",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nam-thanh-nien-mat-tich-khi-leo-nui-o-nha-trang-20250810142659719.htm",
+      "summary": "Sau gần 1 tuần tìm kiếm, trưa 10-8 lực lượng chức năng đã tìm thấy thi thể nam thanh niên mất tích khi leo núi Hoàng Ngưu Sơn (Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T15:21:26.424397+07:00",
+      "fetched": "2025-08-10T15:21:26.424608+07:00"
+    },
     {
       "id": "2620515d0f0f46b4f7a3f85cabf9c200",
       "title": "Cháy nhà, một người chết, hai gia đình mất hết tài sản",
@@ -553,6 +703,366 @@ window.newsData_2025_08_10 = {
       "fetched": "2025-08-10T08:40:50.498893+07:00"
     },
     {
+      "id": "21463b24540ba28a58263cea477bab4d",
+      "title": "Dunlopillo và Vua Nệm hợp tác phân phối độc quyền bộ sưu tập de.STRESS",
+      "link": "https://thanhnien.vn/dunlopillo-va-vua-nem-hop-tac-phan-phoi-doc-quyen-bo-suu-tap-destress-185250810145433631.htm",
+      "summary": "Ngày 8.8.2025 tại Hà Nội, Dunlopillo - thương hiệu nệm gần 100 năm đến từ Anh Quốc - ký kết hợp tác cùng Vua Nệm, chính thức phân phối độc quyền bộ sưu tập nệm cao cấp de.STRESS tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T08:15:00+07:00",
+      "fetched": "2025-08-10T15:21:25.313499+07:00"
+    },
+    {
+      "id": "ef659e1c7ea1a6cbe12ceab5fea865f2",
+      "title": "Những 'thiên thần nhỏ' gieo mầm yêu thương",
+      "link": "https://thanhnien.vn/nhung-thien-than-nho-gieo-mam-yeu-thuong-185250730142443122.htm",
+      "summary": "Tuy tuổi còn rất nhỏ nhưng các em đã sở hữu trái tim nhân ái và thái độ sống đầy trách nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T08:00:00+07:00",
+      "fetched": "2025-08-10T15:21:25.313663+07:00"
+    },
+    {
+      "id": "0e7351dd156dcc74e2d9050a1bca6e2b",
+      "title": "Diễn đàn Made by Vietnam thúc đẩy hợp tác công - tư",
+      "link": "https://vnexpress.net/dien-dan-made-by-vietnam-thuc-day-hop-tac-cong-tu-4925016.html",
+      "summary": "Chuyên gia, lãnh đạo địa phương khuyến khích hợp tác công - tư thông qua chính sách hỗ trợ, cải cách thủ tục hành chính, ứng dụng công nghệ trong quản lý, sản xuất - kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-10T08:00:00+07:00",
+      "fetched": "2025-08-10T15:21:29.142408+07:00"
+    },
+    {
+      "id": "0520f62b057462df339ddf93acea8326",
+      "title": "Mực, bạch tuộc Việt Nam hút hàng ở Thái Lan",
+      "link": "https://vnexpress.net/muc-bach-tuoc-viet-nam-hut-hang-o-thai-lan-4925065.html",
+      "summary": "Xuất khẩu mực, bạch tuộc của Việt Nam sang Thái Lan tăng đến 37% trong nửa đầu năm, triển vọng thành thị trường trọng điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-10T07:55:13+07:00",
+      "fetched": "2025-08-10T15:21:29.140951+07:00"
+    },
+    {
+      "id": "085958f1cae8fc27861dac02e6c67c8a",
+      "title": "Kiểm soát sai sót y khoa liên quan đến kê đơn thuốc",
+      "link": "https://thanhnien.vn/kiem-soat-sai-sot-y-khoa-lien-quan-den-ke-don-thuoc-185250810143812933.htm",
+      "summary": "Y tế Việt Nam đang đối mặt thách thức về kê đơn thuốc, sử dụng thuốc an toàn; đảm bảo hiệu quả chữa bệnh và kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:51:00+07:00",
+      "fetched": "2025-08-10T15:21:25.313840+07:00"
+    },
+    {
+      "id": "e6c3b2afe19279c8bbfd4d4859283316",
+      "title": "Ngư dân Vịnh Mốc trúng đậm cá trích, kiếm tiền triệu mỗi ngày",
+      "link": "https://thanhnien.vn/ngu-dan-vinh-moc-trung-dam-ca-trich-kiem-tien-trieu-moi-ngay-185250810084802988.htm",
+      "summary": "Từ đầu tháng 8 đến nay, ngư dân làng chài Vịnh Mốc, xã Cửa Tùng, tỉnh Quảng Trị phấn khởi khi liên tiếp trúng đậm cá trích, nhờ vậy các ngư dân kiếm tiền triệu mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:51:00+07:00",
+      "fetched": "2025-08-10T15:21:25.313993+07:00"
+    },
+    {
+      "id": "2ea0005850b7312e3bb9278b55fcbe87",
+      "title": "Công an thông tin vụ người phụ nữ bị đấm đá túi bụi tại chung cư Sky Central",
+      "link": "https://thanhnien.vn/cong-an-thong-tin-vu-nguoi-phu-nu-bi-dam-da-tui-bui-tai-chung-cu-sky-central-185250810143156839.htm",
+      "summary": "Bước đầu Công an Hà Nội xác định do xảy ra mâu thuẫn và yêu cầu đối phương xin lỗi không được, một người đàn ông xăm trổ đã đấm đá túi bụi người phụ nữ ngay tại sảnh chung cư Sky Central.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:45:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314144+07:00"
+    },
+    {
+      "id": "9acec40ff9c4142d84b8e208c828809f",
+      "title": "Giới CEO Mỹ học cách tránh làm phật ý ông Trump",
+      "link": "https://vnexpress.net/gioi-ceo-my-hoc-cach-tranh-lam-phat-y-ong-trump-4924457.html",
+      "summary": "Các lãnh đạo doanh nghiệp Mỹ đang tăng cường chiến lược làm hài lòng ông Trump để quảng bá công ty mình cũng như tránh cơn giận từ Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-10T07:42:13+07:00",
+      "fetched": "2025-08-10T15:21:27.759978+07:00"
+    },
+    {
+      "id": "4f43b217c9a1f027adcd1a6f2c85ac05",
+      "title": "Microsoft gây khó cho người dùng muốn ở lại với Windows 10",
+      "link": "https://thanhnien.vn/microsoft-gay-kho-cho-nguoi-dung-muon-o-lai-voi-windows-10-185250809113106875.htm",
+      "summary": "Chỉ còn hơn 2 tháng trước giờ G, Microsoft chốt điều kiện bắt buộc với những người dùng muốn tiếp tục sử dụng Windows 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:41:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314297+07:00"
+    },
+    {
+      "id": "25635b557ee854cc0842aba4f2fee8f0",
+      "title": "Nữ CSGT trình diễn khống chế ba 'quái xế' trong một phút",
+      "link": "https://vnexpress.net/nu-csgt-trinh-dien-khong-che-ba-quai-xe-trong-mot-phut-4925072.html",
+      "summary": "Tại Ngày hội vì Thủ đô bình yên ở phố đi bộ Hồ Gươm, nữ CSGT trình diễn tình huống giả định khi quật ngã, khống chế nhóm “quái xế” lạng lách, mang hung khí trên đường, sáng 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:37:20+07:00",
+      "fetched": "2025-08-10T15:21:22.103693+07:00"
+    },
+    {
+      "id": "27bf7503c2f2ecf095d01a54c63e23aa",
+      "title": "Hàng công Man Utd sẽ chơi thế nào với 3 tiền đạo mới",
+      "link": "https://vnexpress.net/hang-cong-man-utd-se-choi-the-nao-voi-3-tien-dao-moi-4925019.html",
+      "summary": "Matheus Cunha, Bryan Mbeumo, Benjamin Sesko được kỳ vọng giúp HLV Ruben Amorim giải quyết triệt để vấn đề và làm \"lột xác\" hàng công Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:36:49+07:00",
+      "fetched": "2025-08-10T15:21:22.103912+07:00"
+    },
+    {
+      "id": "27bf7503c2f2ecf095d01a54c63e23aa",
+      "title": "Hàng công Man Utd sẽ chơi thế nào với 3 tiền đạo mới",
+      "link": "https://vnexpress.net/hang-cong-man-utd-se-choi-the-nao-voi-3-tien-dao-moi-4925019.html",
+      "summary": "Matheus Cunha, Bryan Mbeumo, Benjamin Sesko được kỳ vọng giúp HLV Ruben Amorim giải quyết triệt để vấn đề và làm \"lột xác\" hàng công Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T07:36:49+07:00",
+      "fetched": "2025-08-10T15:21:32.687900+07:00"
+    },
+    {
+      "id": "5427a2fac4e27ba7e18e06b5881048d1",
+      "title": "Tìm thấy thi thể du khách mất tích trên núi Hoàng Ngưu Sơn",
+      "link": "https://vnexpress.net/tim-thay-thi-the-du-khach-mat-tich-tren-nui-hoang-nguu-son-4925076.html",
+      "summary": "Nam thanh niên 23 tuổi mất liên lạc sau khi leo núi Hoàng Ngưu Sơn ở phường Nam Nha Trang, lực lượng cứu hộ đã tìm thấy thi thể sau gần một tuần tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:35:44+07:00",
+      "fetched": "2025-08-10T15:21:22.104077+07:00"
+    },
+    {
+      "id": "13a60367b7d136b1b8efe487d8f21bcc",
+      "title": "Có thể bị phạt tù nếu chạy chậm trên cao tốc",
+      "link": "https://vnexpress.net/co-the-bi-phat-tu-neu-chay-cham-tren-cao-toc-4925062.html",
+      "summary": "Bang Louisiana áp dụng phạt tiền hoặc phạt tù 30 ngày với tài xế điều khiển xe chạy chậm hơn tốc độ giới hạn ở làn trái sát dải phân cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:20:10+07:00",
+      "fetched": "2025-08-10T15:21:22.104236+07:00"
+    },
+    {
+      "id": "f9a9dcaf3b67de62d9f5d84e7b616902",
+      "title": "Vietravel Airlines sẽ tăng đội tàu bay lên 10 chiếc",
+      "link": "https://vnexpress.net/vietravel-airlines-se-tang-doi-tau-bay-len-10-chiec-4925026.html",
+      "summary": "Vietravel Airlines đặt mục tiêu sở hữu đội bay tối thiểu 10 chiếc từ nay đến cuối năm, tăng thêm 7 tàu so với hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:19:07+07:00",
+      "fetched": "2025-08-10T15:21:22.104391+07:00"
+    },
+    {
+      "id": "f9a9dcaf3b67de62d9f5d84e7b616902",
+      "title": "Vietravel Airlines sẽ tăng đội tàu bay lên 10 chiếc",
+      "link": "https://vnexpress.net/vietravel-airlines-se-tang-doi-tau-bay-len-10-chiec-4925026.html",
+      "summary": "Vietravel Airlines đặt mục tiêu sở hữu đội bay tối thiểu 10 chiếc từ nay đến cuối năm, tăng thêm 7 tàu so với hiện tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-10T07:19:07+07:00",
+      "fetched": "2025-08-10T15:21:29.142256+07:00"
+    },
+    {
+      "id": "d9c927ef5d8f3d617a31e953a1e86c13",
+      "title": "Thủ tướng: Đảm bảo điện cho tăng trưởng 2 con số, tránh cú sốc tăng giá điện",
+      "link": "https://thanhnien.vn/thu-tuong-dam-bao-dien-cho-tang-truong-2-con-so-tranh-cu-soc-tang-gia-dien-185250810135525173.htm",
+      "summary": "Thủ tướng lưu ý EVN, giá điện cần đảm bảo các yếu tố cạnh tranh, phát triển, hài hòa, hợp lý giữa doanh nghiệp, người dân. Việc điều chỉnh giá phải theo lộ trình, không để xảy ra các cú sốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:19:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314446+07:00"
+    },
+    {
+      "id": "dd5196f33c70e3163f48df0947dae899",
+      "title": "Hiện trạng tàu chở 3.800 tấn dầu cháy trên biển Côn Đảo",
+      "link": "https://vnexpress.net/hien-trang-tau-cho-3-800-tan-dau-chay-tren-bien-con-dao-4925049.html",
+      "summary": "Hỏa hoạn tàu GT Unity trên biển Côn Đảo khiến nhiều hạng mục bị cháy đen, song chưa ảnh hưởng đến 3.800 tấn dầu thô trong hầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:15:29+07:00",
+      "fetched": "2025-08-10T15:21:22.104546+07:00"
+    },
+    {
+      "id": "39296cc4dc5e2b21554841602c1d928f",
+      "title": "'Sự thật về nạn đói năm 1945'",
+      "link": "https://vnexpress.net/su-that-ve-nan-doi-nam-1945-4922093.html",
+      "summary": "Cảnh đoàn người \"đói dài đói rạc\" từ các tỉnh đổ về Hà Nội, người chết nằm la liệt không kịp chôn, được kể lại trong cuốn \"Sự thật về nạn đói năm 1945\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:14:00+07:00",
+      "fetched": "2025-08-10T15:21:22.104709+07:00"
+    },
+    {
+      "id": "a3a9d6886102f87c95c39f7d831ab473",
+      "title": "Những món đồ từng bị chê 'vô dụng' thành sản phẩm phổ biến",
+      "link": "https://vnexpress.net/nhung-mon-do-tung-bi-che-vo-dung-thanh-san-pham-pho-bien-4924948.html",
+      "summary": "Robot hút bụi hay nồi chiên không dầu từng bị đánh giá \"vô dụng\" cách đây vài chục năm, nhưng hiện đã cải tiến để có mặt trong nhiều gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:00:00+07:00",
+      "fetched": "2025-08-10T15:21:22.104896+07:00"
+    },
+    {
+      "id": "952c01a52a6b63cefb49b571019dde2b",
+      "title": "Cá voi sát thủ thực hành dìm chết cá voi xanh",
+      "link": "https://vnexpress.net/ca-voi-sat-thu-thuc-hanh-dim-chet-ca-voi-xanh-4922707.html",
+      "summary": "Lần đầu tiên các nhà nghiên cứu ghi lại hình ảnh cá voi sát thủ ở ngoài khơi thị trấn Bremer Bay, Tây Australia, thực hành kỹ thuật săn cá voi xanh trên chính đồng loại của chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:00:00+07:00",
+      "fetched": "2025-08-10T15:21:22.105055+07:00"
+    },
+    {
+      "id": "44ce8415d22ad6a71f89c10299611cc6",
+      "title": "Áo khoác denim giúp nàng ghi điểm phong cách trong tiết trời giao mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-denim-giup-nang-ghi-diem-phong-cach-trong-tiet-troi-giao-mua-185250809222223956.htm",
+      "summary": "Nhẹ nhàng nhưng vẫn cá tính, áo khoác denim trở thành lựa chọn lý tưởng giúp nàng ghi điểm phong cách trong tiết trời giao mùa, vừa giữ ấm vừa tạo dấu ấn thời thượng cho mọi bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T07:00:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314594+07:00"
+    },
+    {
+      "id": "a3a9d6886102f87c95c39f7d831ab473",
+      "title": "Những món đồ từng bị chê 'vô dụng' thành sản phẩm phổ biến",
+      "link": "https://vnexpress.net/nhung-mon-do-tung-bi-che-vo-dung-thanh-san-pham-pho-bien-4924948.html",
+      "summary": "Robot hút bụi hay nồi chiên không dầu từng bị đánh giá \"vô dụng\" cách đây vài chục năm, nhưng hiện đã cải tiến để có mặt trong nhiều gia đình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-10T07:00:00+07:00",
+      "fetched": "2025-08-10T15:21:31.552885+07:00"
+    },
+    {
+      "id": "952c01a52a6b63cefb49b571019dde2b",
+      "title": "Cá voi sát thủ thực hành dìm chết cá voi xanh",
+      "link": "https://vnexpress.net/ca-voi-sat-thu-thuc-hanh-dim-chet-ca-voi-xanh-4922707.html",
+      "summary": "Lần đầu tiên các nhà nghiên cứu ghi lại hình ảnh cá voi sát thủ ở ngoài khơi thị trấn Bremer Bay, Tây Australia, thực hành kỹ thuật săn cá voi xanh trên chính đồng loại của chúng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-10T07:00:00+07:00",
+      "fetched": "2025-08-10T15:21:31.553536+07:00"
+    },
+    {
+      "id": "2fe4f98b52695d47ea5f5bef57ef8c6f",
+      "title": "Người dân Sơn La vẫn chưa hết bàng hoàng sau bão lũ",
+      "link": "https://thanhnien.vn/nguoi-dan-son-la-van-chua-het-bang-hoang-sau-bao-lu-185250810131356988.htm",
+      "summary": "Sau 2 tuần xảy ra cơn lũ quét ở xã Huổi Một, tỉnh Sơn La, các hộ dân bị mất hết nhà cửa do bão lũ, vẫn bật khóc khi kể lại sự việc và chưa hết bàng hoàng với thảm họa thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:59:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314740+07:00"
+    },
+    {
+      "id": "5ddc4183ef39643b2022d670cf636061",
+      "title": "Đà Nẵng: Tạm giữ 5 nghi phạm chiếm tài khoản Facebook, lừa đảo hơn 10 tỉ đồng",
+      "link": "https://thanhnien.vn/da-nang-tam-giu-5-nghi-pham-chiem-tai-khoan-facebook-lua-dao-hon-10-ti-dong-185250810111238124.htm",
+      "summary": "Công an TP.Đà Nẵng triệt phá nhóm xâm nhập trái phép hơn 70 tài khoản Facebook, rồi lừa đảo chiếm đoạt hơn 10 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:55:00+07:00",
+      "fetched": "2025-08-10T15:21:25.314907+07:00"
+    },
+    {
+      "id": "3b85dddbe2087304274b6fc14648a62c",
+      "title": "6.000 người đổ về thảo nguyên 'chạm vào mây'",
+      "link": "https://vnexpress.net/6-000-nguoi-do-ve-thao-nguyen-cham-vao-may-4925036.html",
+      "summary": "Khoảng 6.000 người đến thảo nguyên Bùi Hui, dựng lều ở lại đêm để tận hưởng không khí hoang sơ và dự lễ hội văn hóa ẩm thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:54:02+07:00",
+      "fetched": "2025-08-10T15:21:22.105213+07:00"
+    },
+    {
+      "id": "41b67dfad7ed4249df1d5987b1d8bba3",
+      "title": "Hải Phòng có thêm dự án nhà xã hội hơn 1.400 tỷ ở Hải Dương cũ",
+      "link": "https://vnexpress.net/hai-phong-co-them-du-an-nha-xa-hoi-hon-1-400-ty-o-hai-duong-cu-4925047.html",
+      "summary": "Sở Xây dựng Hải Phòng vừa công bố quyết định chấp thuận đầu tư dự án nhà ở xã hội quy mô 1.388 căn tại khu công nghiệp Tân Trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:51:36+07:00",
+      "fetched": "2025-08-10T15:21:22.105368+07:00"
+    },
+    {
+      "id": "0a4aa159ef9606f73f62319b6eaac038",
+      "title": "Việt Nam nhiều nguy cơ bệnh chikungunya xâm nhập, lây lan nhanh",
+      "link": "https://thanhnien.vn/viet-nam-nhieu-nguy-co-benh-chikungunya-xam-nhap-lay-lan-nhanh-18525081013370608.htm",
+      "summary": "Đợt bùng phát chikungunya ở tỉnh Quảng Đông, Trung Quốc đã ghi nhận hơn 4.800 ca mắc trong nửa đầu năm 2025. Việt Nam tiềm ẩn nhiều nguy cơ bệnh chikungunya xâm nhập và lây lan nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:49:00+07:00",
+      "fetched": "2025-08-10T15:21:25.315064+07:00"
+    },
+    {
+      "id": "e22ed82958639b5c74f5b206e03cab9f",
+      "title": "Hành động bất ngờ của hàng xóm khi cửa sổ nhà họ 'chiếu tướng' nhà tôi",
+      "link": "https://vnexpress.net/hang-xom-sua-nha-gay-on-ao-hang-xom-gay-kho-de-khi-xay-nha-hang-xom-khong-cho-trat-tuong-hanh-dong-bat-ngo-cua-hang-xom-khi-cua-so-nha-ho-chieu-tuong-nha-toi-4925039.html",
+      "summary": "Dọn về nhà mới, tôi mới nhận ra cửa sổ nhà mình thấp hơn nhà hàng xóm đối diện. Mỗi lần mở, tầm mắt hai bên gần như chạm nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:45:26+07:00",
+      "fetched": "2025-08-10T15:21:22.105520+07:00"
+    },
+    {
+      "id": "94b367d04e28dce21089a6b854037b13",
+      "title": "Câu đố que diêm kinh điển, liệu bạn có giải được?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-cau-do-que-diem-kinh-dien-lieu-ban-co-giai-duoc-4924525.html",
+      "summary": "Những que diêm, vật dụng quen thuộc trong cuộc sống, lại có thể trở thành công cụ cho một trò chơi trí tuệ đầy hấp dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:45:00+07:00",
+      "fetched": "2025-08-10T15:21:22.105677+07:00"
+    },
+    {
+      "id": "46fdded5057d729c5836243ba130bf72",
+      "title": "Ngày hội gia đình - Hành trình gắn kết yêu thương gia đình cùng Long Châu",
+      "link": "https://thanhnien.vn/ngay-hoi-gia-dinh-hanh-trinh-gan-ket-yeu-thuong-gia-dinh-cung-long-chau-185250810130142958.htm",
+      "summary": "Với sự góp mặt của gia đình nghệ sĩ Trường Giang, ca sĩ Đăng Khôi cùng 1.500 người tham dự, sự kiện 'Ngày hội gia đình' do Long Châu phối hợp cùng VnExpress tổ chức đã trở thành hành trình kỷ lục gắn kết yêu thương bên bờ biển Mỹ Khê, Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:45:00+07:00",
+      "fetched": "2025-08-10T15:21:25.315219+07:00"
+    },
+    {
+      "id": "0f527460db6b1d15352f3a73e38633ab",
+      "title": "Tiền đạo cao nhất lịch sử V-League: Khiến mọi đối thủ nhỏ bé khi đứng cạnh",
+      "link": "https://thanhnien.vn/tien-dao-cao-nhat-lich-su-v-league-khien-moi-doi-thu-nho-be-khi-dung-canh-185250810133749331.htm",
+      "summary": "Tân binh cao kỷ lục V-League Kyle Hudlin đã lập cú đúp ngay trận ra mắt trong trận Siêu cúp quốc gia 2024-2025, khiến hàng thủ CAHN và thủ môn Nguyễn Filip nhiều phen khốn đốn. Dù Nam Định thất bại 2-3, 'gã khổng lồ' 2,06 m này hứa hẹn sẽ là cơn ác mộng mới của các thủ môn mùa giải tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:43:00+07:00",
+      "fetched": "2025-08-10T15:21:25.315369+07:00"
+    },
+    {
+      "id": "bce2e1b64a6a3fb8d15a0325f9040830",
+      "title": "Dùng ChatGPT săn vé máy bay giá rẻ",
+      "link": "https://vnexpress.net/dung-chatgpt-san-ve-may-bay-gia-re-4925057.html",
+      "summary": "Một chuyên gia tài chính cá nhân đã tiết lộ cách anh dùng ChatGPT để mua được vé máy bay chỉ 92 USD, trong khi giá gốc lên tới 1.050 USD, nhờ câu lệnh đặc biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:40:31+07:00",
+      "fetched": "2025-08-10T15:21:22.105845+07:00"
+    },
+    {
+      "id": "30d0e969ead8914259aeb0050f26ab15",
+      "title": "Hà Trần, Thanh Lam ăn ý khi song ca",
+      "link": "https://vnexpress.net/ha-tran-thanh-lam-an-y-khi-song-ca-4925014.html",
+      "summary": "Ca sĩ Trần Thu Hà, Thanh Lam được khán giả cổ vũ khi song ca hòa quyện trong liveshow tối 9/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:26:19+07:00",
+      "fetched": "2025-08-10T15:21:22.105995+07:00"
+    },
+    {
+      "id": "45faa93b2a554c9ad8bd72611ba219f5",
+      "title": "Những địa điểm check-in mùa thu Hà Nội ở TP.HCM trong những ngày... nắng nóng",
+      "link": "https://thanhnien.vn/nhung-dia-diem-check-in-mua-thu-ha-noi-o-tphcm-trong-nhung-ngay-nang-nong-185250810131416806.htm",
+      "summary": "Không cần ra tận thủ đô, giới trẻ TP.HCM vẫn có thể trải nghiệm khung cảnh mùa thu Hà Nội ngay trong lòng thành phố. Từ những xe hoa chở đầy sắc vàng, mẹt cốm xanh thơm lừng đến những chiếc lá sen, trái thị, tất cả được tái hiện tinh tế trong các quán cà phê, trở thành điểm check-in hot rần rần nhữn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T06:25:00+07:00",
+      "fetched": "2025-08-10T15:21:25.315521+07:00"
+    },
+    {
       "id": "c42f8df3e6e93557f1ec0c228cb24c39",
       "title": "Úc mở rộng cơ hội xin visa cho du học sinh",
       "link": "https://thanhnien.vn/uc-mo-rong-co-hoi-xin-visa-cho-du-hoc-sinh-185250804171204375.htm",
@@ -911,6 +1421,16 @@ window.newsData_2025_08_10 = {
       "category": "Tổng hợp",
       "published": "2025-08-10T04:24:24+07:00",
       "fetched": "2025-08-10T11:37:46.606256+07:00"
+    },
+    {
+      "id": "3e80d24008c620de9ab9ba45908cb4b5",
+      "title": "Thanh Thúy: 'Việt Nam ao ước một lần thắng Thái Lan'",
+      "link": "https://vnexpress.net/thanh-thuy-viet-nam-ao-uoc-mot-lan-thang-thai-lan-4925043.html",
+      "summary": "Phụ công Lê Thanh Thúy xem sân nhà là điểm tựa để Việt Nam một lần đánh bại Thái Lan ở chung kết bóng chuyền nữ Đông Nam Á - SEA V-League 2025, tối 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T04:24:24+07:00",
+      "fetched": "2025-08-10T15:21:32.688075+07:00"
     },
     {
       "id": "ec1f31d522f46ad97e8835f9eb726f06",
@@ -1373,6 +1893,16 @@ window.newsData_2025_08_10 = {
       "fetched": "2025-08-10T10:41:53.564823+07:00"
     },
     {
+      "id": "45956dae400f37ee7e2128705795a8c0",
+      "title": "Trung Cường thắng dễ 5.000m giải điền kinh quốc gia 2025",
+      "link": "https://vnexpress.net/trung-cuong-thang-de-5-000m-giai-dien-kinh-quoc-gia-2025-4925009.html",
+      "summary": "Chân chạy Hà Tĩnh Nguyễn Trung Cường giành HC vàng thứ hai ở giải điền kinh quốc gia 2025, sáng 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T02:56:02+07:00",
+      "fetched": "2025-08-10T15:21:32.689181+07:00"
+    },
+    {
       "id": "d57e3761d0f7fc9513452f9077533bef",
       "title": "HLV Mai Đức Chung: ‘Đáng lẽ ra đội tuyển nữ Việt Nam phải thắng 10-0'",
       "link": "https://thanhnien.vn/hlv-mai-duc-chung-dang-le-ra-doi-tuyen-nu-viet-nam-phai-thang-10-0-185250810091539586.htm",
@@ -1543,6 +2073,16 @@ window.newsData_2025_08_10 = {
       "fetched": "2025-08-10T10:41:46.242598+07:00"
     },
     {
+      "id": "fa3cfa1536dadb33791187530f547f23",
+      "title": "Tổng Bí thư Tô Lâm đến Seoul, bắt đầu thăm Hàn Quốc",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-den-seoul-bat-dau-tham-han-quoc-4924967.html",
+      "summary": "Tổng Bí thư Tô Lâm cùng phu nhân bắt đầu chuyến thăm cấp nhà nước Hàn Quốc, theo lời mời của Tổng thống Lee Jae-myung và phu nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-10T01:58:08+07:00",
+      "fetched": "2025-08-10T15:21:27.760313+07:00"
+    },
+    {
       "id": "99af59eacdeee71f5af32cbc86b71677",
       "title": "HLV Calisto: 'Bóng đá Việt Nam ngày càng tiến bộ'",
       "link": "https://vnexpress.net/hlv-calisto-bong-da-viet-nam-ngay-cang-tien-bo-4924992.html",
@@ -1551,6 +2091,16 @@ window.newsData_2025_08_10 = {
       "category": "Thể thao",
       "published": "2025-08-10T01:50:41+07:00",
       "fetched": "2025-08-10T10:41:53.564981+07:00"
+    },
+    {
+      "id": "af5fdbef347e618106cfcbf495344e59",
+      "title": "HLV Calisto mừng khi Việt Nam đã giành ba chức vô địch Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-calisto-mung-khi-viet-nam-da-gianh-ba-chuc-vo-dich-dong-nam-a-4924992.html",
+      "summary": "Cựu HLV tuyển Việt Nam Henrique Calisto thích thú khi chứng kiến bóng đá ở Việt Nam - nơi ông xem như quê hương thứ hai - ngày càng phát triển.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T01:50:41+07:00",
+      "fetched": "2025-08-10T15:21:32.688702+07:00"
     },
     {
       "id": "428f53996569e1528ecce7ed2cd65557",
