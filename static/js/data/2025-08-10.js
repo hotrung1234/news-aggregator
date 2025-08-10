@@ -1,7 +1,157 @@
 window.newsData_2025_08_10 = {
   "date": "2025-08-10",
-  "lastUpdated": "2025-08-10T10:41:53.570864+07:00",
+  "lastUpdated": "2025-08-10T11:37:59.497770+07:00",
   "articles": [
+    {
+      "id": "5cd6f1cfaa08c6b6ff02eece991f64f1",
+      "title": "Khán giả Việt có sức mua 'khủng khiếp', sao BlackPink không trở lại?",
+      "link": "https://tuoitre.vn/khan-gia-viet-co-suc-mua-khung-khiep-sao-blackpink-khong-tro-lai-2025081009211066.htm",
+      "summary": "Được biết mức giá mời BlackPink hiện tại tăng gấp đôi so với năm 2023. Nhưng fan Việt thuộc dạng chịu chi 'khủng khiếp'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230763+07:00",
+      "fetched": "2025-08-10T11:37:52.230881+07:00"
+    },
+    {
+      "id": "cd748eb07c9a70eb3b16f348eb4dd34f",
+      "title": "CLB Công an TP.HCM ký hợp đồng với cầu thủ ngoại đắt giá nhất V-League",
+      "link": "https://tuoitre.vn/clb-cong-an-tp-hcm-ky-hop-dong-voi-cau-thu-ngoai-dat-gia-nhat-v-league-20250810100003086.htm",
+      "summary": "CLB Công an TP.HCM đã chính thức ký hợp đồng với cầu thủ ngoại đắt giá nhất V-League để thi đấu ở mùa giải mới 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230640+07:00",
+      "fetched": "2025-08-10T11:37:52.230752+07:00"
+    },
+    {
+      "id": "981c73a9996ede894571239f6fea63b5",
+      "title": "Từ một cái ôm",
+      "link": "https://tuoitre.vn/tu-mot-cai-om-20250810100942951.htm",
+      "summary": "Tôi về nhà trên chuyến tàu cuối ngày. Cô sinh viên năm nhất mang trong mình háo hức của bao sự khởi đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230515+07:00",
+      "fetched": "2025-08-10T11:37:52.230629+07:00"
+    },
+    {
+      "id": "6218304824910777ab18a58bb691c336",
+      "title": "Bộ Nội vụ: Sẽ có quy định mới về tổ chức hoạt động của thôn, tổ dân phố",
+      "link": "https://tuoitre.vn/bo-noi-vu-se-co-quy-dinh-moi-ve-to-chuc-hoat-dong-cua-thon-to-dan-pho-20250810084148841.htm",
+      "summary": "Bộ Nội vụ sẽ dự thảo nghị định tổ chức hoạt động thôn, tổ dân phố và một số chế độ, chính sách của người hoạt động không chuyên trách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230391+07:00",
+      "fetched": "2025-08-10T11:37:52.230503+07:00"
+    },
+    {
+      "id": "b7f0d81de7c21a73c40a25b2ae874e67",
+      "title": "Chiến sĩ tình nguyện lập đội 'Tự hào sử Việt', thuyết minh ở bảo tàng",
+      "link": "https://tuoitre.vn/chien-si-tinh-nguyen-lap-doi-tu-hao-su-viet-thuyet-minh-o-bao-tang-20250810094534139.htm",
+      "summary": "Đó là đội hình \"Tự hào sử Việt\" của chiến sĩ Hoa phượng đỏ Trường phổ thông Năng khiếu (Đại học Quốc gia TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230261+07:00",
+      "fetched": "2025-08-10T11:37:52.230379+07:00"
+    },
+    {
+      "id": "580205a22117d665d78f5c7c7bac0308",
+      "title": "Người đàn ông xăm trổ liên tục đánh dã man phụ nữ trước mặt nhiều trẻ nhỏ",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-xam-tro-lien-tuc-danh-da-man-phu-nu-truoc-mat-nhieu-tre-nho-20250810100942686.htm",
+      "summary": "Một người đàn ông xăm trổ đánh đập dã man một phụ nữ ngay trước mặt nhiều trẻ nhỏ tại sảnh thang máy chung cư ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.230133+07:00",
+      "fetched": "2025-08-10T11:37:52.230249+07:00"
+    },
+    {
+      "id": "082c4218563ceb34a6c7b04e6cd87239",
+      "title": "Dự báo thời tiết từ 10-8 đến 16-8: Nhiều nơi trên cả nước mưa dông",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-10-8-den-16-8-nhieu-noi-tren-ca-nuoc-mua-dong-20250809214026328.htm",
+      "summary": "Sau tuần nắng nóng, thời tiết cả nước sẽ có mưa dông trở lại, nhiều nơi mưa to, chủ yếu xảy ra vào chiều tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229991+07:00",
+      "fetched": "2025-08-10T11:37:52.230121+07:00"
+    },
+    {
+      "id": "4dec8d8fe1d5faa110eaf58f144874fc",
+      "title": "Bán hàng online: 'Nghề bạc mệnh'?",
+      "link": "https://tuoitre.vn/ban-hang-online-nghe-bac-menh-2025081008310881.htm",
+      "summary": "Lúc này nhiều người bán hàng online đang rơi vào cảnh \"bạc mệnh\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229846+07:00",
+      "fetched": "2025-08-10T11:37:52.229978+07:00"
+    },
+    {
+      "id": "0a6110d96f1007788e624015d440e9ee",
+      "title": "'Chữa bệnh' có chính sách vẫn khan nhà ở xã hội",
+      "link": "https://tuoitre.vn/chua-benh-co-chinh-sach-van-khan-nha-o-xa-hoi-20250810074956187.htm",
+      "summary": "Cuối năm 2024, Quốc hội đã có nghị quyết về việc thực hiện chính sách, pháp luật về quản lý thị trường bất động sản và phát triển nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229719+07:00",
+      "fetched": "2025-08-10T11:37:52.229835+07:00"
+    },
+    {
+      "id": "07894a14457eef2f273a729416fc73a2",
+      "title": "Việt Nam - hành trình ký ức",
+      "link": "https://tuoitre.vn/viet-nam-hanh-trinh-ky-uc-20250810093308862.htm",
+      "summary": "Những bức ảnh của Dominique không dàn dựng. Bà không chụp để kể mà để không quên một Việt Nam gần gũi, nhân hậu và kiên cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229593+07:00",
+      "fetched": "2025-08-10T11:37:52.229708+07:00"
+    },
+    {
+      "id": "9beba23c8ecac10349769d7b63338385",
+      "title": "Các ứng dụng gọi xe Việt Nam lật ngược thế cờ",
+      "link": "https://tuoitre.vn/cac-ung-dung-goi-xe-viet-nam-lat-nguoc-the-co-20250809231503138.htm",
+      "summary": "Mười năm trước, Grab với mô hình GrabTaxi đặt chân vào Việt Nam, phá vỡ toàn bộ luật chơi của thị trường vận tải hành khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229463+07:00",
+      "fetched": "2025-08-10T11:37:52.229581+07:00"
+    },
+    {
+      "id": "6234b853e937eaf378cb0799a0f28c57",
+      "title": "Nguyễn Trung Cường thắng dễ 5.000m Giải điền kinh vô địch quốc gia",
+      "link": "https://tuoitre.vn/nguyen-trung-cuong-thang-de-5-000m-giai-dien-kinh-vo-dich-quoc-gia-20250810104709471.htm",
+      "summary": "Sáng 10-8, VĐV của Hà Tĩnh Nguyễn Trung Cường giành tấm huy chương vàng thứ 2 tại Giải điền kinh vô địch quốc gia 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229335+07:00",
+      "fetched": "2025-08-10T11:37:52.229452+07:00"
+    },
+    {
+      "id": "5855375af9a060fe5c15c86fcdb3041e",
+      "title": "Làm thế nào để phân biệt giữa Labubu thật và Lafufu giả?",
+      "link": "https://tuoitre.vn/lam-the-nao-de-phan-biet-giua-labubu-that-va-lafufu-gia-20250810095738021.htm",
+      "summary": "Sau khi Labubu trở thành món đồ chơi sưu tầm nổi tiếng trên internet, trên thị trường xuất hiện không ít sản phẩm giả, nhái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229201+07:00",
+      "fetched": "2025-08-10T11:37:52.229323+07:00"
+    },
+    {
+      "id": "fb75895bb8ba767a94c52f00ca2b8003",
+      "title": "Người nước ngoài sốc khi thấy nhiều người Việt nói chuyện điện thoại lớn tiếng nơi công cộng",
+      "link": "https://tuoitre.vn/nguoi-nuoc-ngoai-soc-khi-thay-nhieu-nguoi-viet-noi-chuyen-dien-thoai-lon-tieng-noi-cong-cong-20250803182311457.htm",
+      "summary": "Denis Demchenko lý giải hiện tượng này đến từ \"cái tôi quá lớn\", còn Marc Bruijns nhận xét cách nói chuyện lớn tiếng như vậy là \"không lịch sự\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.229055+07:00",
+      "fetched": "2025-08-10T11:37:52.229188+07:00"
+    },
+    {
+      "id": "0c8ef499454ae535435532fba66c0532",
+      "title": "Tối nay Hà Nội bắn pháo hoa cạnh sân vận động Mỹ Đình mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/toi-nay-ha-noi-ban-phao-hoa-canh-san-van-dong-my-dinh-mung-quoc-khanh-2-9-2025081010580281.htm",
+      "summary": "22h tối nay (10-8) Hà Nội sẽ bắn pháo hoa kéo dài trong 8 phút với quy mô 300 quả pháo hoa tầm cao và 60 giàn pháo hoa tầm thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T11:37:52.228808+07:00",
+      "fetched": "2025-08-10T11:37:52.229039+07:00"
+    },
     {
       "id": "3bcf4607a08ee95c5c9e2ba4eb3dd82e",
       "title": "Grab muốn 'thống trị' dịch vụ gọi xe ở Đông Nam Á: Việt Nam, Indonesia sẽ là ngoại lệ",
@@ -251,6 +401,286 @@ window.newsData_2025_08_10 = {
       "category": "Tổng hợp",
       "published": "2025-08-10T08:40:50.498654+07:00",
       "fetched": "2025-08-10T08:40:50.498893+07:00"
+    },
+    {
+      "id": "87a6d2f71f00ca05cec885e5c9b62c9f",
+      "title": "Bộ Di trú Australia chấp nhận ba chứng chỉ tiếng Anh mới",
+      "link": "https://vnexpress.net/bo-di-tru-australia-chap-nhan-ba-chung-chi-tieng-anh-moi-4924102.html",
+      "summary": "Bộ Di trú công nhận ba chứng chỉ tiếng Anh mới cho mục đích xin thị thực du học, việc làm và định cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:26:00+07:00",
+      "fetched": "2025-08-10T11:37:46.606065+07:00"
+    },
+    {
+      "id": "5acac66b6b2fd9c91cb76a06ca02ed4d",
+      "title": "Thanh Thúy: 'Việt Nam ao ước thắng Thái Lan một lần'",
+      "link": "https://vnexpress.net/thanh-thuy-viet-nam-ao-uoc-thang-thai-lan-mot-lan-4925043.html",
+      "summary": "Phụ công Lê Thanh Thúy xem sân nhà là điểm tựa để Việt Nam một lần đánh bại Thái Lan ở chung kết bóng chuyền nữ Đông Nam Á - SEA V-League tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:24:24+07:00",
+      "fetched": "2025-08-10T11:37:46.606256+07:00"
+    },
+    {
+      "id": "ec1f31d522f46ad97e8835f9eb726f06",
+      "title": "Universal Pictures cấm dùng phim huấn luyện AI",
+      "link": "https://vnexpress.net/universal-pictures-cam-dung-phim-huan-luyen-ai-4924762.html",
+      "summary": "Hãng phim Hollywood Universal Pictures cho biết sẽ kiện các công ty công nghệ nếu lấy phim của họ huấn luyện trí tuệ nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:23:31+07:00",
+      "fetched": "2025-08-10T11:37:46.606430+07:00"
+    },
+    {
+      "id": "23a31a1fc924cb3ea492e1061fb8ff5b",
+      "title": "CLB Công an TP.HCM: Mang bản sắc hào hoa, cống hiến trở lại V-League",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-mang-ban-sac-hao-hoa-cong-hien-tro-lai-v-league-185250810104821561.htm",
+      "summary": "Bóng đá miền Nam lâu nay luôn thiếu vắng một biểu tượng, bởi vậy, sự trở lại của phiên hiệu CLB Công an TP.HCM mang đến hy vọng hồi sinh thứ bóng đá cống hiến, tao nhã cho người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:23:00+07:00",
+      "fetched": "2025-08-10T11:37:50.921323+07:00"
+    },
+    {
+      "id": "e23cf9ee96f88b6f0f7f4f884ccd754d",
+      "title": "VNeID có thể thay thế những giấy tờ nào?",
+      "link": "https://vnexpress.net/vneid-co-the-thay-the-nhung-giay-to-nao-4924821.html",
+      "summary": "Ứng dụng VNeID mức độ 2 tích hợp nhiều loại giấy tờ quan trọng, giúp người dân sử dụng thay bản cứng khi làm thủ tục, khám chữa bệnh hay lưu thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:22:36+07:00",
+      "fetched": "2025-08-10T11:37:46.606593+07:00"
+    },
+    {
+      "id": "f83f0f386b182c95970dfdaa016b45f7",
+      "title": "Sau 'cơn mưa' chỉ trích GPT-5, OpenAI nhanh chóng xoa dịu người dùng",
+      "link": "https://thanhnien.vn/sau-con-mua-chi-trich-gpt-5-openai-nhanh-chong-xoa-diu-nguoi-dung-185250810103616078.htm",
+      "summary": "OpenAI thừa nhận 'sự cố' khi ra mắt GPT-5, CEO Sam Altman lên tiếng xoa dịu cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:22:00+07:00",
+      "fetched": "2025-08-10T11:37:50.921495+07:00"
+    },
+    {
+      "id": "db4a00f86e29fe20f94b2c26f6b7b2f4",
+      "title": "TP.HCM: Khánh thành tượng tri ân giáo sư Lê Hữu Kiều ở phường Bình Trưng",
+      "link": "https://thanhnien.vn/tphcm-khanh-thanh-tuong-tri-an-giao-su-le-huu-kieu-o-phuong-binh-trung-185250810091236196.htm",
+      "summary": "Ngày 9.8, Đảng ủy - HDND - UBND - Ủy ban MTTQ phường Bình Trưng (TP.HCM) tổ chức lễ khánh thành dựng tượng tri ân giáo sư Lê Hữu Kiều - Bí thư Xứ ủy Nam bộ nhân kỷ niệm 110 năm ngày sinh của ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:21:00+07:00",
+      "fetched": "2025-08-10T11:37:50.921655+07:00"
+    },
+    {
+      "id": "e0d8a64f42aa916068c1c0d8033ebd72",
+      "title": "Thanh niên xăm trổ đánh tới tấp phụ nữ ở chung cư",
+      "link": "https://vnexpress.net/thanh-nien-xam-tro-danh-toi-tap-phu-nu-o-chung-cu-4925041.html",
+      "summary": "Tại sảnh thang máy chung cư, nam thanh niên 31 tuổi xông vào đấm, đá liên tiếp vào đầu, bụng một cô gái, ngay trước mặt người khác và nhiều trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:19:41+07:00",
+      "fetched": "2025-08-10T11:37:46.606756+07:00"
+    },
+    {
+      "id": "14ecf87b9a0b8bb00e40162d8c4d4f1b",
+      "title": "Thêm nghi phạm bị bắt vì liên quan 'thi thể phụ nữ trong valy'",
+      "link": "https://vnexpress.net/them-nghi-pham-bi-bat-vi-lien-quan-thi-the-phu-nu-trong-valy-4925042.html",
+      "summary": "Cơ quan điều tra xác định, ngoài Võ Bá Thành, 32 tuổi, là nghi phạm sát hại cô gái, phi tang thi thể trong valy, còn có thêm đồng phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:18:50+07:00",
+      "fetched": "2025-08-10T11:37:46.606916+07:00"
+    },
+    {
+      "id": "9f78b2398f447ff1c7d95d6ee6bfe701",
+      "title": "TP.HCM: Nhóm người đậu ô tô giữa đường, đuổi đánh nhau khai gì?",
+      "link": "https://thanhnien.vn/tphcm-nhom-nguoi-dau-o-to-giua-duong-duoi-danh-nhau-khai-gi-185250810103558766.htm",
+      "summary": "Trong số 3 người liên quan vụ đậu 2 ô tô giữa đường rồi đuổi đánh nhau, cơ quan chức năng xác định có 1 người nước ngoài. Họ khai nguyên nhân dẫn đến vụ việc là mâu thuẫn va quẹt giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:11:00+07:00",
+      "fetched": "2025-08-10T11:37:50.921817+07:00"
+    },
+    {
+      "id": "d29acfeff2b8f3ff05bc171283d490db",
+      "title": "Samsung làm gì để cạnh tranh với smartwatch Trung Quốc?",
+      "link": "https://thanhnien.vn/samsung-lam-gi-de-canh-tranh-voi-smartwatch-trung-quoc-185250809144136372.htm",
+      "summary": "Samsung đang có những kế hoạch lớn cho loạt smartwatch tiếp theo và khẳng định sẽ đi theo hướng khác biệt so với các đối thủ, đặc biệt là từ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:10:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922019+07:00"
+    },
+    {
+      "id": "0a3a3891b5a0764f1e463e7a0f0fc5d9",
+      "title": "ThS-BS Châu Ngọc Tố Trinh - Dấu ấn chuyên môn tại ICAD Vietnam 2025",
+      "link": "https://thanhnien.vn/ths-bs-chau-ngoc-to-trinh-dau-an-chuyen-mon-tai-icad-vietnam-2025-185250810110750645.htm",
+      "summary": "Vừa qua, ThS-BS Châu Ngọc Tố Trinh (Giám đốc chuyên môn tại Citrine Derma Clinic) đã có buổi báo cáo chuyên đề nổi bật tại Hội nghị khoa học da liễu thẩm mỹ và chống lão hóa quốc tế ICAD Vietnam 2025, tổ chức bởi Hội Da liễu TP.HCM phối hợp cùng Ban tổ chức Triển lãm Vietbeauty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:09:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922184+07:00"
+    },
+    {
+      "id": "0bcfa4fdd0184516c48941493b363f25",
+      "title": "Lâm Đồng: Báo cáo 'gỡ vướng' 6 dự án điện gió chồng lấn quy hoạch",
+      "link": "https://thanhnien.vn/lam-dong-bao-cao-go-vuong-6-du-an-dien-gio-chong-lan-quy-hoach-185250809181912511.htm",
+      "summary": "Ngày 10.8, theo thông tin của PV Thanh Niên, trước đó, Sở NN-MT tỉnh Lâm Đồng có báo cáo đã khắc phục 18/40 nội dung vi phạm theo kết luận giám sát của Ủy ban Kiểm tra T.Ư, trong đó nổi bật là xử lý chồng lấn giữa dự án điện gió và quy hoạch bô xít tại tỉnh Đắk Nông (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:02:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922337+07:00"
+    },
+    {
+      "id": "14947201d8d48b59c13a50694a3e20a3",
+      "title": "Robot hướng dẫn khách đi metro TP HCM",
+      "link": "https://vnexpress.net/robot-huong-dan-khach-di-metro-tp-hcm-4925000.html",
+      "summary": "Tại ga Thủ Đức của metro Bến Thành - Suối Tiên, một robot cao 1,4 m sẽ tiến lại chào và hướng dẫn bạn đến di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:00:41+07:00",
+      "fetched": "2025-08-10T11:37:46.607113+07:00"
+    },
+    {
+      "id": "b8dec85f949cbbd3b0b7f30a09905d51",
+      "title": "Nền tảng AI tạo video ngắn 'mì ăn liền'",
+      "link": "https://vnexpress.net/nen-tang-ai-tao-video-ngan-mi-an-lien-4924891.html",
+      "summary": "Nền tảng One-Click Story của OpenArt giúp người dùng nhanh chóng tạo video dài một phút có cốt truyện và nhân vật nhất quán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:00:00+07:00",
+      "fetched": "2025-08-10T11:37:46.607277+07:00"
+    },
+    {
+      "id": "426586bf40cd21a7c9073904dcfa8570",
+      "title": "Nguyên nhân gây loãng xương sau sinh",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-loang-xuong-sau-sinh-4924927.html",
+      "summary": "Những thay đổi hormone, thiếu hụt canxi, vitamin D có thể khiến phụ nữ loãng xương sau sinh, gây đau nhức, giảm khả năng vận động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:00:00+07:00",
+      "fetched": "2025-08-10T11:37:46.607439+07:00"
+    },
+    {
+      "id": "7d2e974cab40c62a28fe53ad1db81350",
+      "title": "7 quả ít đường không làm tăng đường huyết",
+      "link": "https://vnexpress.net/7-qua-it-duong-khong-lam-tang-duong-huyet-4924918.html",
+      "summary": "Mận, đào, kiwi, đu đủ, ổi ít đường, giàu chất xơ, làm chậm tốc độ glucose đi vào máu sau khi tiêu hóa, ít ảnh hưởng đến đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:00:00+07:00",
+      "fetched": "2025-08-10T11:37:46.607598+07:00"
+    },
+    {
+      "id": "45c23c4abf1dc0c2c7aa74bb89edb288",
+      "title": "Níu giữ nghề xưa: Đưa cây tre từ vùng quê nghèo ra thế giới",
+      "link": "https://thanhnien.vn/niu-giu-nghe-xua-dua-cay-tre-tu-vung-que-ngheo-ra-the-gioi-185250810092545841.htm",
+      "summary": "Không chỉ quyết tâm \"hồi sinh\" làng nghề đan đát, bà Trương Thị Bạch Thủy còn đưa sản phẩm từ cây tre vươn ra thế giới; tạo việc làm cho hàng trăm lao động địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T04:00:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922485+07:00"
+    },
+    {
+      "id": "b8dec85f949cbbd3b0b7f30a09905d51",
+      "title": "Nền tảng AI tạo video ngắn 'mì ăn liền'",
+      "link": "https://vnexpress.net/nen-tang-ai-tao-video-ngan-mi-an-lien-4924891.html",
+      "summary": "Nền tảng One-Click Story của OpenArt giúp người dùng nhanh chóng tạo video dài một phút có cốt truyện và nhân vật nhất quán.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-10T04:00:00+07:00",
+      "fetched": "2025-08-10T11:37:57.969191+07:00"
+    },
+    {
+      "id": "0748e96a0f5280cd543fdafb06235725",
+      "title": "Thầy Kim tiếp tục công cuộc ‘săn đầu người’, cầu thủ Việt kiều hãy chớp lấy cơ hội",
+      "link": "https://thanhnien.vn/thay-kim-tiep-tuc-cong-cuoc-san-dau-nguoi-cau-thu-viet-kieu-hay-chop-lay-co-hoi-185250805123524315.htm",
+      "summary": "V-League 2025-2026 xuất hiện thêm nhiều cầu thủ Việt kiều. Những nhân tố này có thể giúp cho giải đấu tăng sức bật, đồng thời giúp đội tuyển U.23 Việt Nam gia cố sức mạnh hướng về SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:59:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922635+07:00"
+    },
+    {
+      "id": "b3a32eb0fa4531a93ca1fddb95699eb9",
+      "title": "Phú Quốc lập lại trật tự đất đai, sẵn sàng cho APEC 2027",
+      "link": "https://thanhnien.vn/phu-quoc-lap-lai-trat-tu-dat-dai-san-sang-cho-apec-2027-185250810105039766.htm",
+      "summary": "Những năm qua, đặc khu Phú Quốc đã và đang trở thành tâm điểm phát triển của cả nước, định hướng thành trung tâm du lịch, nghỉ dưỡng, giao thương mang tầm khu vực và quốc tế. Song, đi kèm với cơ hội luôn là những thách thức, trong đó nổi bật là tình trạng vi phạm pháp luật trong lĩnh vực đất đai - v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:58:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922787+07:00"
+    },
+    {
+      "id": "d42c51842f3f8adb8d9e1e7d7e2a08b8",
+      "title": "Nước nhiễm phóng xạ từ căn cứ bom hạt nhân Anh rò rỉ ra biển?",
+      "link": "https://thanhnien.vn/nuoc-nhiem-phong-xa-tu-can-cu-bom-hat-nhan-anh-ro-ri-ra-bien-185250810100202424.htm",
+      "summary": "Cơ quan quản lý ở Anh được cho là lưu trữ những hồ sơ ghi chép nước nhiễm phóng xạ từ căn cứ bom hạt nhân nước này đã thải ra biển sau khi các đường ống cũ liên tục bị hư hại, theo tờ The Guardian hôm 9.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:56:00+07:00",
+      "fetched": "2025-08-10T11:37:50.922958+07:00"
+    },
+    {
+      "id": "dbd41d347afaabdff29f3acf9fcd75d0",
+      "title": "Người dùng kiện Microsoft vì 'khai tử' Windows 10",
+      "link": "https://thanhnien.vn/nguoi-dung-kien-microsoft-vi-khai-tu-windows-10-185250810094710846.htm",
+      "summary": "Chỉ còn 2 tháng cuối cùng của Windows 10, Microsoft bất ngờ 'dính' vụ kiện từ người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:55:00+07:00",
+      "fetched": "2025-08-10T11:37:50.923114+07:00"
+    },
+    {
+      "id": "a8c2aaf30b455d66ae7d906192700673",
+      "title": "Một sân chơi giúp thiếu nhi 'mạnh dạn nói, tự tin làm'",
+      "link": "https://thanhnien.vn/mot-san-choi-giup-thieu-nhi-manh-dan-noi-tu-tin-lam-185250810101847568.htm",
+      "summary": "Sân chơi 'Thiếu nhi Việt Nam - Vươn ra thế giới' được đánh giá là mang lại nhiều ý nghĩa cho thiếu nhi, giúp các em 'mạnh dạn nói, tự tin làm, biết sẻ chia, dám mơ ước và không ngừng nỗ lực'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:49:00+07:00",
+      "fetched": "2025-08-10T11:37:50.923270+07:00"
+    },
+    {
+      "id": "8e22a04ebd5af8c9946e1f1a815ac67d",
+      "title": "Son Heung-min có hành động bất ngờ ngày ra mắt, HLV Mascherano tiết lộ chấn thương của Messi",
+      "link": "https://thanhnien.vn/son-heung-min-co-hanh-dong-bat-ngo-ngay-ra-mat-hlv-mascherano-tiet-lo-chan-thuong-cua-messi-18525081010470539.htm",
+      "summary": "Sáng 10.8 (giờ Việt Nam), Son Heung-min có trận ra mắt Los Angeles FC, anh kiếm được quả phạt đền, nhưng nhường đồng đội lập công giúp đội nhà gỡ hòa tỷ số 2-2 trước Chicago Fire FC. Trong khi, HLV Mascherano tiết lộ Messi sắp trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:47:00+07:00",
+      "fetched": "2025-08-10T11:37:50.923427+07:00"
+    },
+    {
+      "id": "d65780900319e02197548ab3569db459",
+      "title": "Thanh Lam 'đọ giọng' với Hà Trần trong 'Ân tình của đá'",
+      "link": "https://thanhnien.vn/thanh-lam-do-giong-voi-ha-tran-trong-an-tinh-cua-da-185250810005926798.htm",
+      "summary": "Trong đêm nhạc 'Ân tình của đá', màn kết hợp giữa Thanh Lam và Hà Trần khiến khán giả thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:45:00+07:00",
+      "fetched": "2025-08-10T11:37:50.923577+07:00"
+    },
+    {
+      "id": "2834c2e68bc159019772b90d61a2c068",
+      "title": "Đội trưởng Indonesia có phí chuyển nhượng cao nhất Đông Nam Á",
+      "link": "https://vnexpress.net/doi-truong-indonesia-co-phi-chuyen-nhuong-cao-nhat-dong-nam-a-4925023.html",
+      "summary": "Trung vệ Jay Idzes lập kỷ lục về phí chuyển nhượng với một cầu thủ Đông Nam Á khi được CLB Serie A Sassuolo mua từ Venezia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T03:41:19+07:00",
+      "fetched": "2025-08-10T11:37:46.607750+07:00"
+    },
+    {
+      "id": "2834c2e68bc159019772b90d61a2c068",
+      "title": "Đội trưởng Indonesia có phí chuyển nhượng cao nhất Đông Nam Á",
+      "link": "https://vnexpress.net/doi-truong-indonesia-co-phi-chuyen-nhuong-cao-nhat-dong-nam-a-4925023.html",
+      "summary": "Trung vệ Jay Idzes lập kỷ lục về phí chuyển nhượng với một cầu thủ Đông Nam Á khi được CLB Serie A Sassuolo mua từ Venezia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T03:41:19+07:00",
+      "fetched": "2025-08-10T11:37:59.490040+07:00"
     },
     {
       "id": "3dc6a62f18052ef17f56b4250165d58b",
