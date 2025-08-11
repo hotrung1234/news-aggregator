@@ -1,6 +1,6 @@
 window.newsData_2025_08_12 = {
   "date": "2025-08-12",
-  "lastUpdated": "2025-08-12T01:26:51.621884+07:00",
+  "lastUpdated": "2025-08-12T03:18:11.473912+07:00",
   "articles": [
     {
       "id": "f5137f9cca8a71a7ef6b0b42c69f97b6",
@@ -151,6 +151,36 @@ window.newsData_2025_08_12 = {
       "category": "Tổng hợp",
       "published": "2025-08-12T01:26:45.324206+07:00",
       "fetched": "2025-08-12T01:26:45.324443+07:00"
+    },
+    {
+      "id": "91f84aeab57b24a17ac0b6412c2d887b",
+      "title": "Lịch đấu billiards ngày 12.8: Trần Quyết Chiến tái đấu 'vua thời gian', xem kênh nào?",
+      "link": "https://thanhnien.vn/lich-dau-billiards-ngay-128-tran-quyet-chien-tai-dau-vua-thoi-gian-xem-kenh-nao-185250812005847937.htm",
+      "summary": "Chỉ 1 ngày sau màn rượt đuổi nghẹt thở ở vòng bảng, Trần Quyết Chiến sẽ lại so tài với \"vua thời gian\" Jeremy Bury, ở trận tứ kết nội dung billiards carom 3 băng World Games 2025 (đang diễn ra ở Thành Đô, Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T19:52:00+07:00",
+      "fetched": "2025-08-12T03:18:03.287488+07:00"
+    },
+    {
+      "id": "67e4f37712160afda2f0b4c2a22d2b7b",
+      "title": "Ôtô lao vào hội diễn văn nghệ, 11 người gặp nạn",
+      "link": "https://vnexpress.net/oto-lao-vao-hoi-dien-van-nghe-11-nguoi-gap-nan-4925642.html",
+      "summary": "Từ sân nhà văn hóa ở xã Phong Dụ Thượng ra đường, ôtô 7 chỗ bất ngờ đâm vào đám đông đang xem văn nghệ làm một người chết, 10 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T18:19:57+07:00",
+      "fetched": "2025-08-12T03:17:59.732654+07:00"
+    },
+    {
+      "id": "f9401fcd78778212bd0d5a7df3c66866",
+      "title": "7 dấu hiệu cảnh báo thận tổn thương",
+      "link": "https://vnexpress.net/7-dau-hieu-canh-bao-than-ton-thuong-4924668.html",
+      "summary": "Khi thận bị tổn thương, cơ thể sẽ xuất hiện những dấu hiệu cảnh báo như nước tiểu có bọt, sưng phù, mệt mỏi, ngứa, hôi miệng, khó thở hoặc chuột rút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T18:00:00+07:00",
+      "fetched": "2025-08-12T03:17:59.732837+07:00"
     },
     {
       "id": "64b73c73eda1203f40728c49ff9e4af4",
