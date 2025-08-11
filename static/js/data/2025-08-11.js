@@ -1,7 +1,97 @@
 window.newsData_2025_08_11 = {
   "date": "2025-08-11",
-  "lastUpdated": "2025-08-11T05:16:18.137835+07:00",
+  "lastUpdated": "2025-08-11T08:28:34.780169+07:00",
   "articles": [
+    {
+      "id": "42b145795d25fe00be3f2b434f887d8b",
+      "title": "Tin tức sáng 11-8: Ủy ban Thường vụ Quốc hội họp, xem xét nhiều nội dung quan trọng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-8-uy-ban-thuong-vu-quoc-hoi-hop-xem-xet-nhieu-noi-dung-quan-trong-20250810215010303.htm",
+      "summary": "Tin tức đáng chú ý: Ủy ban Thường vụ Quốc hội họp, xem xét nhiều nội dung quan trọng; Tiền đóng bảo hiểm y tế giảm nhưng quyền lợi giữ nguyên; Ngân hàng nào cho vay nhiều nhất Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.953184+07:00",
+      "fetched": "2025-08-11T08:28:26.953298+07:00"
+    },
+    {
+      "id": "2edb01dbb8022e9b0366a80efa294732",
+      "title": "Đơn thuốc điện tử trên VNeID, 'giao hàng' ra sao?",
+      "link": "https://tuoitre.vn/don-thuoc-dien-tu-tren-vneid-giao-hang-ra-sao-20250810223353692.htm",
+      "summary": "Sắp tới, người dân chỉ cần mở ứng dụng VNeID để mua thuốc, tiến tới người dân được nhận thuốc ngay tại nhà qua VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.953059+07:00",
+      "fetched": "2025-08-11T08:28:26.953173+07:00"
+    },
+    {
+      "id": "14ac68c74c1c05cf7f1e74009b281c76",
+      "title": "Liên đoàn Bóng chuyền châu Á: 'Chiến thắng của Việt Nam trước Thái Lan đầy tráng lệ'",
+      "link": "https://tuoitre.vn/lien-doan-bong-chuyen-chau-a-chien-thang-cua-viet-nam-truoc-thai-lan-day-trang-le-20250811052039912.htm",
+      "summary": "Liên đoàn Bóng chuyền châu Á (AVC) dành lời khen cho tuyển bóng chuyền nữ Việt Nam sau khi có lần đầu vô địch SEA V.League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952930+07:00",
+      "fetched": "2025-08-11T08:28:26.953047+07:00"
+    },
+    {
+      "id": "c3891ce37c480228e10875ee2ef71fca",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ U21 thế giới ngày 11-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-u21-the-gioi-ngay-11-8-20250811044737125.htm",
+      "summary": "Sau một ngày nghỉ ngơi, Giải bóng chuyền nữ U21 thế giới sẽ trở lại thi đấu ngày 11-8. Đội Việt Nam ra quân lúc 10h sáng nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952792+07:00",
+      "fetched": "2025-08-11T08:28:26.952918+07:00"
+    },
+    {
+      "id": "2b3d972482643039166d0ca7981ed31a",
+      "title": "Người hâm mộ Thái Lan: 'Chúng ta sẽ thắng nếu Việt Nam không có Bích Tuyền'",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-thai-lan-chung-ta-se-thang-neu-viet-nam-khong-co-bich-tuyen-20250810222731612.htm",
+      "summary": "Trên các diễn đàn, fanpage bóng chuyền Thái Lan, người hâm mộ xứ sở chùa vàng \"than trời\" về màn trình diễn quá nổi bật của chủ công Nguyễn Thị Bích Tuyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952650+07:00",
+      "fetched": "2025-08-11T08:28:26.952766+07:00"
+    },
+    {
+      "id": "2e0039161ac88803eed09850d0f7b359",
+      "title": "Mang mẹ đi bỏ tiếp tục thống trị phòng vé; Chốt đơn! ế ẩm giữa tranh cãi AI thay Thùy Tiên",
+      "link": "https://tuoitre.vn/mang-me-di-bo-tiep-tuc-thong-tri-phong-ve-chot-don-e-am-giua-tranh-cai-ai-thay-thuy-tien-20250811004831473.htm",
+      "summary": "Trái ngược với thành công vang dội của Mang mẹ đi bỏ ngoài rạp, phim Chốt đơn! chỉ thu vỏn vẹn 2,7 tỉ đồng sau 3 ngày ra rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952519+07:00",
+      "fetched": "2025-08-11T08:28:26.952638+07:00"
+    },
+    {
+      "id": "d497e780e6395a2c30a099874c03df9c",
+      "title": "Nhiều bài hát cổ vũ lòng yêu nước cho người lớn, có gì dành cho khối trẻ em?",
+      "link": "https://tuoitre.vn/nhieu-bai-hat-co-vu-long-yeu-nuoc-cho-nguoi-lon-co-gi-danh-cho-khoi-tre-em-20250810215920823.htm",
+      "summary": "Có nhiều sáng tác âm nhạc gần đây cổ vũ lòng yêu nước, tự hào dân tộc dành cho người lớn, tiêu biểu có ‘Viết tiếp câu chuyện hòa bình’, còn trẻ em đang thiếu những ca khúc nuôi dưỡng tình yêu quê hương đất nước và lòng biết ơn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952385+07:00",
+      "fetched": "2025-08-11T08:28:26.952507+07:00"
+    },
+    {
+      "id": "a485009b6c75b4102b5a97cfbf034ad2",
+      "title": "Sao Crystal Palace trở thành huyền thoại nhờ… mua bia cho CĐV sau khi thắng Liverpool",
+      "link": "https://tuoitre.vn/sao-crystal-palace-tro-thanh-huyen-thoai-nho-mua-bia-cho-cdv-sau-khi-thang-liverpool-2025081106183785.htm",
+      "summary": "Thủ thành Dean Henderson ngay sau khi vừa cùng Crystal Palace đoạt Siêu cúp Anh đã có hành động khiến người hâm mộ cảm thấy sung sướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952233+07:00",
+      "fetched": "2025-08-11T08:28:26.952371+07:00"
+    },
+    {
+      "id": "bf3309a56a14ff41a18e9624d0825faf",
+      "title": "Top 15 Vietnam’s Next Top Model tạo dáng bên ngựa, giám khảo nói 'phải điên điên' mới thú vị",
+      "link": "https://tuoitre.vn/top-15-vietnams-next-top-model-tao-dang-ben-ngua-giam-khao-noi-phai-dien-dien-moi-thu-vi-20250811050521174.htm",
+      "summary": "Sau thử thách photoshoot trên không gây nhiều tranh cãi, top 15 tiếp tục thử thách khó hơn là tạo hình cùng những chú ngựa trong tập 2 Vietnam’s Next Top Model 2025. Huyền Thương rời nhà chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T08:28:26.952001+07:00",
+      "fetched": "2025-08-11T08:28:26.952217+07:00"
+    },
     {
       "id": "f9b7c9141f031eb3fb61201d2ac70d6e",
       "title": "Thời tiết hôm nay 11-8: Nắng nóng giảm, mưa tăng trên cả nước",
@@ -171,6 +261,386 @@ window.newsData_2025_08_11 = {
       "category": "Tổng hợp",
       "published": "2025-08-11T01:22:34.779982+07:00",
       "fetched": "2025-08-11T01:22:34.780270+07:00"
+    },
+    {
+      "id": "e8c95653895c26a4304f27f0ec0ca44e",
+      "title": "Trả lời bạn đọc 9.8.2025",
+      "link": "https://thanhnien.vn/tra-loi-ban-doc-982025-185250808205525763.htm",
+      "summary": "Vừa qua, Báo Thanh Niên đã chuyển 30 đơn thư của bạn đọc đến cơ quan chức năng và nhận được công văn (theo đơn vị và địa chỉ cũ trước ngày 1.7) trả lời cho các trường hợp sau:",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:17:00+07:00",
+      "fetched": "2025-08-11T08:28:26.186749+07:00"
+    },
+    {
+      "id": "6e6c64b540fc43057e05ac1588f8a9eb",
+      "title": "Mặt đường lồi lõm, đi lại nguy hiểm",
+      "link": "https://thanhnien.vn/mat-duong-loi-lom-di-lai-nguy-hiem-185250810192234864.htm",
+      "summary": "Bạn đọc phản ánh mặt đường Tỉnh lộ 10, P.Tân Tạo, TP.HCM (trước đây thuộc P.Tân Tạo, Q.Bình Tân) bị bong tróc lớp nhựa và trũng nhiều chỗ, gây nguy hiểm cho người chạy xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:16:00+07:00",
+      "fetched": "2025-08-11T08:28:26.186940+07:00"
+    },
+    {
+      "id": "cbf3d8342672df5c60e2c28fc44a4eee",
+      "title": "Thi công đường, bụi bay mù mịt",
+      "link": "https://thanhnien.vn/thi-cong-duong-bui-bay-mu-mit-185250808205903998.htm",
+      "summary": "Nhiều người dân lưu thông trên đường số 1, P.Bình Tân, TP.HCM (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân) ngán ngẩm trước tình trạng đường thi công để bụi bay mù mịt, gây khó khăn cho việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:16:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187105+07:00"
+    },
+    {
+      "id": "c4a0a88fd6f64f0cf8715c0ea858fbc8",
+      "title": "Có biển cấm vẫn buôn bán bát nháo",
+      "link": "https://thanhnien.vn/co-bien-cam-van-buon-ban-bat-nhao-185250808205121558.htm",
+      "summary": "Mặc dù cơ quan chức năng đã đặt biển \"cấm tụ tập buôn bán\" trên đường Lê Văn Thịnh, P.Cát Lái, TP.HCM (trước đây thuộc P.Cát Lái, TP.Thủ Đức) nhưng nhiều người vẫn tự ý lấn chiếm làm nơi buôn bán, gây mất trật tự, ách tắc giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:16:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187258+07:00"
+    },
+    {
+      "id": "89771725162d799910a3ca3aaa098652",
+      "title": "Giá heo hơi hôm nay 11.8.2025: Tăng trở lại",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1182025-tang-tro-lai-185250811075937239.htm",
+      "summary": "Giá heo hơi diễn biến trái chiều trong ngày đầu tuần, mặc dù vẫn đang giảm giá ở thị trường phía bắc song đã tăng trở lại ở các khu vực khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:15:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187465+07:00"
+    },
+    {
+      "id": "cf0f65a7213d046aa31ced972ffb1c4d",
+      "title": "Nhiều điểm dừng xe buýt bị lấn chiếm buôn bán",
+      "link": "https://thanhnien.vn/nhieu-diem-dung-xe-buyt-bi-lan-chiem-buon-ban-185250810191927473.htm",
+      "summary": "Đi qua đường Chế Lan Viên, P.Tây Thạnh, TP.HCM (trước đây thuộc P.Tây Thạnh, Q.Tân Phú) ai cũng ngán ngẩm vì tình trạng hàng quán lấn chiếm vỉa hè, lòng đường, điểm dừng xe buýt gây cảnh mất trật tự, ách tắc giao thông và nguy hiểm cho người đi bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:15:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187624+07:00"
+    },
+    {
+      "id": "2232ddb4fc24fe5ad2a21612612989eb",
+      "title": "Nữ thương binh bán vé số dành tiền chăm sóc nghĩa trang",
+      "link": "https://thanhnien.vn/nu-thuong-binh-ban-ve-so-danh-tien-cham-soc-nghia-trang-18525081019162339.htm",
+      "summary": "Suốt 13 năm qua, nữ thương binh Đặng Thị Bảy (83 tuổi, còn gọi là Bảy Đẹt, ngụ xã Tân Khánh Trung, Đồng Tháp - trước đây là xã Long Hưng A, H.Lấp Vò, Đồng Tháp) ngày ngày bán vé số để dành tiền chăm sóc nghĩa trang liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:15:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187792+07:00"
+    },
+    {
+      "id": "0f3ab35c6417a71dd1ceda536b4a3d09",
+      "title": "Lan tỏa trên mạng xã hội: Hơn 4 năm đóng viện phí cho bệnh nhi nghèo",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-hon-4-nam-dong-vien-phi-cho-benh-nhi-ngheo-185250810225908537.htm",
+      "summary": "Suốt hơn 4 năm nay, có một nhóm thiện nguyện âm thầm thực hiện nghĩa cử đóng viện phí cho người lạ bằng cả tấm lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:10:00+07:00",
+      "fetched": "2025-08-11T08:28:26.187951+07:00"
+    },
+    {
+      "id": "1a5e98803d5deb0fc83f6400ca66e1c2",
+      "title": "Bích Tuyền kết liễu Thái Lan, phá kỷ lục ghi điểm SEA V-League",
+      "link": "https://vnexpress.net/bich-tuyen-ket-lieu-thai-lan-pha-ky-luc-ghi-diem-sea-v-league-4925206.html",
+      "summary": "Nguyễn Thị Bích Tuyền phá kỷ lục của chính cô khi ghi 45 điểm giúp Việt Nam làm nên chiến thắng lịch sử trước Thái Lan tối 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T01:05:33+07:00",
+      "fetched": "2025-08-11T08:28:34.774276+07:00"
+    },
+    {
+      "id": "882a17254cde834dd9d0ccee0d626c75",
+      "title": "Giả mạo giải chạy 'Răng hàm mặt Run' của Bệnh viện Răng hàm mặt Trung ương TP.HCM",
+      "link": "https://thanhnien.vn/gia-mao-giai-chay-rang-ham-mat-run-cua-benh-vien-rang-ham-mat-trung-uong-tphcm-185250810214836272.htm",
+      "summary": "Bệnh viện Răng hàm mặt Trung ương TP.HCM vừa phát đi thông báo về tình trạng có một số fanpage, tài khoản Facebook giả mạo trang fanpage giải chạy có tên 'Răng hàm mặt Run' của bệnh viện này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:05:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188104+07:00"
+    },
+    {
+      "id": "fa830f209471be692abdcc1ae5c6b802",
+      "title": "Váy loang màu, nét son mới cho mùa thời trang thu đông 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-loang-mau-net-son-moi-cho-mua-thoi-trang-thu-dong-2025-18525080708072839.htm",
+      "summary": "Những thiết kế váy loang màu mang đến sự kỳ diệu khi các màu sắc loang nhẹ trên vải và hòa quyện vào nhau. Trang phục loang màu trở thành một dấu ấn đáng nhớ cho phong cách thời trang mùa thu đông 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:01:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188260+07:00"
+    },
+    {
+      "id": "e21e1f9522a2d98d1c02f07489e58e59",
+      "title": "Choying Drolma - Tĩnh lặng để từ bi",
+      "link": "https://thanhnien.vn/choying-drolma-tinh-lang-de-tu-bi-185250810213332412.htm",
+      "summary": "\"Âm nhạc của tôi xuất phát từ thiền định, từ sự an lạc nội tại, và khi đó, lòng từ bi sẽ tự nhiên lan tỏa. Tôi tin rằng chính năng lượng đó là điều khiến âm nhạc của tôi vượt qua mọi rào cản ngôn ngữ...\", Ani Choying Drolma, giọng thiền ca hàng đầu thế giới, trả lời phỏng vấn độc quyền của Báo Thanh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:00:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188415+07:00"
+    },
+    {
+      "id": "34344d0c8710c73fa23d206f125a2608",
+      "title": "Lời của gió chiêm nghiệm từng khoảnh khắc đời sống",
+      "link": "https://thanhnien.vn/loi-cua-gio-chiem-nghiem-tung-khoanh-khac-doi-song-185250810212720851.htm",
+      "summary": "Sáng 10.8, tại Bảo tàng Mỹ thuật TP.HCM (97A Phó Đức Chính, P.Bến Thành), triển lãm Lời của gió được khai mạc, đánh dấu hành trình sáng tạo nghệ thuật kiên định và không ngừng cách tân suốt hơn 4 thập niên của điêu khắc gia Nguyễn Hoàng Ánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:00:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188569+07:00"
+    },
+    {
+      "id": "8c6183c9fc2dd9c74db4baeb33404958",
+      "title": "Kiến tạo Chơn Thành trở thành ‘đô thị hạnh phúc’",
+      "link": "https://thanhnien.vn/kien-tao-chon-thanh-tro-thanh-do-thi-hanh-phuc-185250810161429886.htm",
+      "summary": "Với phương châm 'Đảng mạnh - Dân tin - Phường phát triển bền vững', Bí thư Đảng ủy P.Chơn Thành Nguyễn Minh Bình khẳng định với PV Thanh Niên đây chính là nền tảng vững chắc để địa phương kiến tạo một 'đô thị hạnh phúc' trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T01:00:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188719+07:00"
+    },
+    {
+      "id": "46e1d80fe045be3c0f1244383ae138cd",
+      "title": "Apple được cảnh báo đối mặt 'khoảnh khắc BlackBerry'",
+      "link": "https://vnexpress.net/apple-duoc-canh-bao-doi-mat-khoanh-khac-blackberry-4924950.html",
+      "summary": "Apple được đánh giá đi bên lề thị trường AI và nếu không kịp thay đổi, công ty có thể rơi vào tình cảnh giống BlackBerry trong cuộc đua smartphone giai đoạn đầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-11T01:00:00+07:00",
+      "fetched": "2025-08-11T08:28:33.013484+07:00"
+    },
+    {
+      "id": "c84295613c7b85a2047b860cde5e1a00",
+      "title": "Liên đoàn Bóng chuyền châu Á ngợi ca: Chiến thắng vang dội của bóng chuyền nữ Việt Nam",
+      "link": "https://thanhnien.vn/lien-doan-bong-chuyen-chau-a-chien-thang-vang-doi-cua-bong-chuyen-nu-viet-nam-185250811074713596.htm",
+      "summary": "Liên đoàn Bóng chuyền châu Á (AVC) dành những lời có cánh với đội tuyển bóng chuyền nữ Việt Nam sau chiến thắng 3-2 trước Thái Lan để lần đầu vô địch giải bóng chuyền Đông Nam Á (SEA V.League).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:52:00+07:00",
+      "fetched": "2025-08-11T08:28:26.188890+07:00"
+    },
+    {
+      "id": "837265108f295f3e7532f771d2757fee",
+      "title": "Thanh niên đu bám ngoài toa tàu cao tốc vì lỡ chuyến",
+      "link": "https://vnexpress.net/thanh-nien-du-bam-ngoai-toa-tau-cao-toc-vi-lo-chuyen-4925204.html",
+      "summary": "Người đàn ông 24 tuổi đu bám bên ngoài toa tàu cao tốc ở phía tây Vienna, sau khi rời khoang nhưng không kịp trở lại trước giờ tàu chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:48:56+07:00",
+      "fetched": "2025-08-11T08:28:23.333963+07:00"
+    },
+    {
+      "id": "837265108f295f3e7532f771d2757fee",
+      "title": "Thanh niên đu bám ngoài toa tàu cao tốc vì lỡ chuyến",
+      "link": "https://vnexpress.net/thanh-nien-du-bam-ngoai-toa-tau-cao-toc-vi-lo-chuyen-4925204.html",
+      "summary": "Người đàn ông 24 tuổi đu bám bên ngoài toa tàu cao tốc ở phía tây Vienna, sau khi rời khoang nhưng không kịp trở lại trước giờ tàu chạy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T00:48:56+07:00",
+      "fetched": "2025-08-11T08:28:28.920024+07:00"
+    },
+    {
+      "id": "71fade98d8f769222fa3afc8ff81eedd",
+      "title": "Tổng thống Trump ra tối hậu thư cho người vô gia cư ở thủ đô Washington",
+      "link": "https://thanhnien.vn/tong-thong-trump-ra-toi-hau-thu-cho-nguoi-vo-gia-cu-o-thu-do-washington-185250811072956139.htm",
+      "summary": "Hướng đến việc thực hiện các cam kết tại thủ đô Washington DC, Tổng thống Mỹ Donald Trump tuyên bố sẽ di dời người vô gia cư và chấm dứt tình trạng tội phạm bạo lực tại khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:39:00+07:00",
+      "fetched": "2025-08-11T08:28:26.189039+07:00"
+    },
+    {
+      "id": "f1feede64d998c330d5a012aeeb7b09a",
+      "title": "Đứt tuyến mang tai, nước bọt rỉ qua vết thương",
+      "link": "https://vnexpress.net/dut-tuyen-mang-tai-nuoc-bot-ri-qua-vet-thuong-4925197.html",
+      "summary": "Anh Kha, 33 tuổi, bị tai nạn đứt cơ mặt và cơ cắn, đứt ống tuyến mang tai khiến nước bọt rỉ liên tục qua vết thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:30:43+07:00",
+      "fetched": "2025-08-11T08:28:23.334144+07:00"
+    },
+    {
+      "id": "708829c6c124bcc4038288fd80902f3a",
+      "title": "Ông Medvedev chỉ trích châu Âu cản trở nỗ lực chấm dứt xung đột Ukraine",
+      "link": "https://vnexpress.net/ong-medvedev-chi-trich-chau-au-can-tro-no-luc-cham-dut-xung-dot-ukraine-4925205.html",
+      "summary": "Quan chức Nga nói giới lãnh đạo châu Âu đang phá hoại cuộc gặp thượng đỉnh ở Alaska, khi EU thúc đẩy Washington mời Tổng thống Zelensky đến sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:25:05+07:00",
+      "fetched": "2025-08-11T08:28:23.334317+07:00"
+    },
+    {
+      "id": "708829c6c124bcc4038288fd80902f3a",
+      "title": "Ông Medvedev chỉ trích châu Âu cản trở nỗ lực chấm dứt xung đột Ukraine",
+      "link": "https://vnexpress.net/ong-medvedev-chi-trich-chau-au-can-tro-no-luc-cham-dut-xung-dot-ukraine-4925205.html",
+      "summary": "Quan chức Nga nói giới lãnh đạo châu Âu đang phá hoại cuộc gặp thượng đỉnh ở Alaska, khi EU thúc đẩy Washington mời Tổng thống Zelensky đến sự kiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T00:25:05+07:00",
+      "fetched": "2025-08-11T08:28:28.920208+07:00"
+    },
+    {
+      "id": "a3a90a79b85ad211fcf5ad67f6474150",
+      "title": "Hồ Trị An mùa nước cạn",
+      "link": "https://vnexpress.net/ho-tri-an-mua-nuoc-can-4924867.html",
+      "summary": "Hồ Trị An vào mùa nước cạn có hàng trăm bãi cỏ xanh mướt và nước xanh mát bởi tảo, khiến từ trên cao hồ như chiếc lá khổng lồ với gân lá là những dòng nước nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:21:07+07:00",
+      "fetched": "2025-08-11T08:28:23.334489+07:00"
+    },
+    {
+      "id": "be7b6b9ced07423b48b8c5ed5a546309",
+      "title": "Dòng tiền đầu tư bất động sản từ Bắc dịch chuyển vào Nam",
+      "link": "https://vnexpress.net/dong-tien-dau-tu-bat-dong-san-tu-bac-dich-chuyen-vao-nam-4917874.html",
+      "summary": "Giá bất động sản tại Hà Nội và các tỉnh phía Bắc tăng quá nhanh đang thúc đẩy nhà đầu tư Nam tiến, tìm cơ hội ở các thị trường mới sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:00:00+07:00",
+      "fetched": "2025-08-11T08:28:23.334656+07:00"
+    },
+    {
+      "id": "7b6ca2bf326966f50217f6383774c4fe",
+      "title": "Schneider áp phụ phí mùa cao điểm sớm cho dịch vụ liên vận",
+      "link": "https://vnexpress.net/schneider-ap-phu-phi-mua-cao-diem-som-cho-dich-vu-lien-van-4922989.html",
+      "summary": "Hãng vận tải Schneider National bắt đầu áp dụng phụ phí sớm cho dịch vụ liên vận, đồng thời đàm phán tương tự với khách hàng vận tải đường bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T00:00:00+07:00",
+      "fetched": "2025-08-11T08:28:23.334830+07:00"
+    },
+    {
+      "id": "62080684e3ab7ad78da208f48f2a8e20",
+      "title": "Vì sao những đứa trẻ tuổi teen bỏ nhà ra đi?",
+      "link": "https://vnexpress.net/vi-sao-nhung-dua-tre-tuoi-teen-bo-nha-ra-di-4922851.html",
+      "summary": "Bốn năm trước, khi con trai 14 tuổi đột nhiên biến mất, vợ chồng anh Nguyễn Phúc Đức, 45 tuổi, cảm thấy như \"trời đất đổ sụp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:27:00+07:00",
+      "fetched": "2025-08-11T08:28:23.334989+07:00"
+    },
+    {
+      "id": "d5088f06a7f4367ae89f77f1cfc415d6",
+      "title": "Ông Trump muốn di dời người vô gia cư khỏi thủ đô Washington",
+      "link": "https://vnexpress.net/ong-trump-muon-di-doi-nguoi-vo-gia-cu-khoi-thu-do-washington-4925181.html",
+      "summary": "Tổng thống Trump có kế hoạch chuyển người vô gia cư \"ra rất xa\" khỏi thủ đô Washington, nhằm khiến thành phố trở nên \"đẹp đẽ hơn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:26:26+07:00",
+      "fetched": "2025-08-11T08:28:23.335153+07:00"
+    },
+    {
+      "id": "d5088f06a7f4367ae89f77f1cfc415d6",
+      "title": "Ông Trump muốn di dời người vô gia cư khỏi thủ đô Washington",
+      "link": "https://vnexpress.net/ong-trump-muon-di-doi-nguoi-vo-gia-cu-khoi-thu-do-washington-4925181.html",
+      "summary": "Tổng thống Trump có kế hoạch chuyển người vô gia cư \"ra rất xa\" khỏi thủ đô Washington, nhằm khiến thành phố trở nên \"đẹp đẽ hơn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-10T23:26:26+07:00",
+      "fetched": "2025-08-11T08:28:28.920375+07:00"
+    },
+    {
+      "id": "b49e39e60412d28b6ed9d26dde46fd1b",
+      "title": "Điểm tin 6h: VN-Index được dự báo sớm vượt 1.600 điểm | Bộ Y tế yêu cầu giám sát dịch bệnh Chikungunya ngay tại cửa khẩu",
+      "link": "https://vnexpress.net/diem-tin-6h-vn-index-duoc-du-bao-som-vuot-1-600-diem-bo-y-te-yeu-cau-giam-sat-dich-benh-chikungunya-ngay-tai-cua-khau-4925200.html",
+      "summary": "Đi dã ngoại phát hiện bộ xương người trên đồi thông; Thuế quan của ông Trump đe dọa 50% GDP Thái Lan, doanh nghiệp tung chiến lược sinh tồn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:20:09+07:00",
+      "fetched": "2025-08-11T08:28:23.335319+07:00"
+    },
+    {
+      "id": "cc5f42cfd066ac4eed8c407b4032fd47",
+      "title": "Van Dijk, Slot bất đồng về việc tăng cường tiền đạo",
+      "link": "https://vnexpress.net/van-dijk-slot-bat-dong-ve-viec-tang-cuong-tien-dao-4925194.html",
+      "summary": "Sau khi thua Crystal Palace ở trận tranh Siêu Cup Anh, Virgil van Dijk cho rằng Liverpool vẫn cần chiêu mộ thêm một tiền đạo trong kỳ chuyển nhượng hè 2025 - quan điểm trái ngược với HLV Arne Slot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:15:34+07:00",
+      "fetched": "2025-08-11T08:28:23.335472+07:00"
+    },
+    {
+      "id": "cc5f42cfd066ac4eed8c407b4032fd47",
+      "title": "Van Dijk, Slot bất đồng về việc tăng cường tiền đạo",
+      "link": "https://vnexpress.net/van-dijk-slot-bat-dong-ve-viec-tang-cuong-tien-dao-4925194.html",
+      "summary": "Sau khi thua Crystal Palace ở trận tranh Siêu Cup Anh, Virgil van Dijk cho rằng Liverpool vẫn cần chiêu mộ thêm một tiền đạo trong kỳ chuyển nhượng hè 2025 - quan điểm trái ngược với HLV Arne Slot.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T23:15:34+07:00",
+      "fetched": "2025-08-11T08:28:34.774795+07:00"
+    },
+    {
+      "id": "66d74e067304763794f19dcf0dc453d8",
+      "title": "Thủ môn Crystal Palace dùng 'bí kíp' trên chai nước để hạ Liverpool",
+      "link": "https://vnexpress.net/thu-mon-crystal-palace-dung-bi-kip-tren-chai-nuoc-de-ha-liverpool-4925193.html",
+      "summary": "Những chỉ dẫn trên chai nước giúp thủ môn Dean Henderson cản hai quả luân lưu, khi cùng Crystal Palace hạ Liverpool ở Siêu Cup Anh 2025 ngày 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:07:34+07:00",
+      "fetched": "2025-08-11T08:28:23.335621+07:00"
+    },
+    {
+      "id": "66d74e067304763794f19dcf0dc453d8",
+      "title": "Thủ môn Crystal Palace dùng 'bí kíp' trên chai nước để hạ Liverpool",
+      "link": "https://vnexpress.net/thu-mon-crystal-palace-dung-bi-kip-tren-chai-nuoc-de-ha-liverpool-4925193.html",
+      "summary": "Những chỉ dẫn trên chai nước giúp thủ môn Dean Henderson cản hai quả luân lưu, khi cùng Crystal Palace hạ Liverpool ở Siêu Cup Anh 2025 ngày 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T23:07:34+07:00",
+      "fetched": "2025-08-11T08:28:34.774968+07:00"
+    },
+    {
+      "id": "bad192d3ba23e340e2fcf937fe50628f",
+      "title": "Rashford sút ra ngoài trước khung thành trống",
+      "link": "https://vnexpress.net/rashford-sut-ra-ngoai-truoc-khung-thanh-trong-4925196.html",
+      "summary": "Tiền đạo tân binh Marcus Rashford bỏ lỡ khó tin, khi Barca thắng Como 5-0 ở trận tranh Joan Gamper Cup hôm 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:02:47+07:00",
+      "fetched": "2025-08-11T08:28:23.335790+07:00"
+    },
+    {
+      "id": "bad192d3ba23e340e2fcf937fe50628f",
+      "title": "Rashford sút ra ngoài trước khung thành trống",
+      "link": "https://vnexpress.net/rashford-sut-ra-ngoai-truoc-khung-thanh-trong-4925196.html",
+      "summary": "Tiền đạo tân binh Marcus Rashford bỏ lỡ khó tin, khi Barca thắng Como 5-0 ở trận tranh Joan Gamper Cup hôm 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T23:02:47+07:00",
+      "fetched": "2025-08-11T08:28:34.775127+07:00"
+    },
+    {
+      "id": "03c49313646af731869c9c0e76373d04",
+      "title": "Những cao tốc gỡ nút thắt kết nối sân bay Long Thành",
+      "link": "https://vnexpress.net/nhung-cao-toc-go-nut-that-ket-noi-san-bay-long-thanh-4925167.html",
+      "summary": "Trong thời gian chờ đầu tư metro, hệ thống cao tốc và vành đai được xem là các trục \"xương sống\" gỡ nút thắt kết nối sân bay Long Thành, dự kiến khai thác năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:00:00+07:00",
+      "fetched": "2025-08-11T08:28:23.335951+07:00"
+    },
+    {
+      "id": "1ec6e82c7bd1e1131a5a48fbe0182887",
+      "title": "Người trốn khám nghĩa vụ quân sự có thể bị phạt đến 75 triệu đồng",
+      "link": "https://vnexpress.net/nguoi-tron-kham-nghia-vu-quan-su-co-the-bi-phat-den-75-trieu-dong-4925054.html",
+      "summary": "Từ 5/8, người trốn khám sức khỏe nghĩa vụ quân sự bị phạt tiền 50-75 triệu đồng, gấp đôi quy định cũ 25-35 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:00:00+07:00",
+      "fetched": "2025-08-11T08:28:23.336115+07:00"
+    },
+    {
+      "id": "265122b36b9d069cea325705e237d898",
+      "title": "88% bệnh nhân đột quỵ Việt Nam đến viện sau 16 giờ",
+      "link": "https://vnexpress.net/88-benh-nhan-dot-quy-viet-nam-den-vien-sau-16-gio-4924888.html",
+      "summary": "Khảo sát gần đây trên 7.000 bệnh nhân cho thấy chỉ 12% được tái thông mạch máu trong \"cửa sổ vàng\" 3,5 giờ, còn 88% đến viện muộn, trung bình sau 16 tiếng, mất cơ hội dùng thuốc tiêu sợi huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-10T23:00:00+07:00",
+      "fetched": "2025-08-11T08:28:23.336275+07:00"
     },
     {
       "id": "fb433e54aa570dd4a73c8968278fdacb",
@@ -411,6 +881,16 @@ window.newsData_2025_08_11 = {
       "category": "Thể thao",
       "published": "2025-08-10T18:50:45+07:00",
       "fetched": "2025-08-11T03:18:48.952521+07:00"
+    },
+    {
+      "id": "925d27d6a41f1a6466c3637a150892be",
+      "title": "Đội trưởng Việt Nam trùm khăn khóc sau trận thắng Thái Lan",
+      "link": "https://vnexpress.net/doi-truong-viet-nam-trum-khan-khoc-sau-tran-thang-thai-lan-4925117.html",
+      "summary": "Trần Thị Thanh Thúy xúc động mạnh, sau khi cùng Việt Nam giành chiến thắng lịch sử trước Thái Lan ở chung kết chặng 2 giải vô địch bóng chuyền nữ Đông Nam Á 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-10T18:50:45+07:00",
+      "fetched": "2025-08-11T08:28:34.774615+07:00"
     },
     {
       "id": "7f5c77ce0d158f682a7586553a1d5638",
