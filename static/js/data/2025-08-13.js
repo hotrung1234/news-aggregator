@@ -1,7 +1,27 @@
 window.newsData_2025_08_13 = {
   "date": "2025-08-13",
-  "lastUpdated": "2025-08-13T01:26:44.801721+07:00",
+  "lastUpdated": "2025-08-13T03:19:49.970055+07:00",
   "articles": [
+    {
+      "id": "22938ea2bb9418b7ad5777406c193102",
+      "title": "Tuyển bóng chuyền U21 nữ Việt Nam bị xử thua 3 trận, thay đổi kết quả 1 trận",
+      "link": "https://tuoitre.vn/tuyen-bong-chuyen-u21-nu-viet-nam-bi-xu-thua-3-tran-thay-doi-ket-qua-1-tran-20250813005120267.htm",
+      "summary": "Liên đoàn Bóng chuyền thế giới (FIVB) không nêu rõ, nhưng đã thay đổi kết quả một số trận vừa qua của tuyển bóng chuyền nữ U21 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T03:19:41.990180+07:00",
+      "fetched": "2025-08-13T03:19:41.990326+07:00"
+    },
+    {
+      "id": "acb4fe4b28e6757ebc739ce705f5fc6a",
+      "title": "FIVB sẽ đình chỉ hoạt động của Liên đoàn bóng chuyền Việt Nam?",
+      "link": "https://tuoitre.vn/fivb-se-dinh-chi-hoat-dong-cua-lien-doan-bong-chuyen-viet-nam-20250813003302889.htm",
+      "summary": "Sau khi Liên đoàn bóng chuyền thế giới (FIVB) ra quyết định xử phạt tuyển Việt Nam ở Giải vô địch U21 bóng chuyền nữ thế giới, rất nhiều người hâm mộ vẫn hoang mang không hiểu chuyện gì đang xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T03:19:41.989955+07:00",
+      "fetched": "2025-08-13T03:19:41.990165+07:00"
+    },
     {
       "id": "3c50c74f0bf3c12a2c52a52af38cc8b8",
       "title": "BIDV - Hana Bank tăng cường hợp tác, thắt chặt quan hệ Việt - Hàn",
@@ -151,6 +171,56 @@ window.newsData_2025_08_13 = {
       "category": "Tổng hợp",
       "published": "2025-08-13T01:26:35.318742+07:00",
       "fetched": "2025-08-13T01:26:35.318946+07:00"
+    },
+    {
+      "id": "4e8bad14c02750b8b9709b0e69e6e463",
+      "title": "Lính Mỹ bị tố lén bỏ thuốc phá thai vào đồ uống của người tình",
+      "link": "https://vnexpress.net/linh-my-bi-to-len-bo-thuoc-pha-thai-vao-do-uong-cua-nguoi-tinh-4925928.html",
+      "summary": "Một phụ nữ Texas kiện John, lính thủy đánh bộ, cáo buộc anh này lén bỏ 10 viên thuốc phá thai vào đồ uống, khiến cô sảy thai ở tuần thứ 8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-12T20:00:00+07:00",
+      "fetched": "2025-08-13T03:19:43.361332+07:00"
+    },
+    {
+      "id": "2cccf681689c343b703b43795b4fd043",
+      "title": "Lịch thi đấu U.21 Việt Nam mới nhất sau án phạt ở giải bóng chuyền U.21 thế giới: Thắng nổi Ai Cập?",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-cua-u21-viet-nam-sau-an-phat-o-giai-bong-chuyen-u21-the-gioi-thang-noi-ai-cap-185250813020529161.htm",
+      "summary": "Chiều 13.8 (giờ Việt Nam), đội tuyển bóng chuyền nữ U.21 Việt Nam vẫn có lịch thi đấu tại giải bóng chuyền U.21 nữ thế giới 2025 để tranh hạng từ 17-24.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T19:14:00+07:00",
+      "fetched": "2025-08-13T03:19:40.855911+07:00"
+    },
+    {
+      "id": "392aafeb02631482f7bae756f21903b9",
+      "title": "Những người trẻ ở Mỹ nghiện bóng cười",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-o-my-nghien-bong-cuoi-4925531.html",
+      "summary": "Cách đây 8 năm, khi còn học đại học ở Florida, Caldwell bắt đầu dùng khí cười để giải trí, và sử dụng nhiều hơn trong thời Covid-19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T19:00:00+07:00",
+      "fetched": "2025-08-13T03:19:36.679552+07:00"
+    },
+    {
+      "id": "392aafeb02631482f7bae756f21903b9",
+      "title": "Những người trẻ ở Mỹ nghiện bóng cười",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-o-my-nghien-bong-cuoi-4925531.html",
+      "summary": "Cách đây 8 năm, khi còn học đại học ở Florida, Caldwell bắt đầu dùng khí cười để giải trí, và sử dụng nhiều hơn trong thời Covid-19.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-12T19:00:00+07:00",
+      "fetched": "2025-08-13T03:19:43.361508+07:00"
+    },
+    {
+      "id": "7d263794b2139707d84b55a62c3c8137",
+      "title": "Dùng người trái luật, U.21 bóng chuyền nữ Việt Nam bị phạt nặng cỡ nào: Cầu thủ bị ‘treo giò’ 2 năm?",
+      "link": "https://thanhnien.vn/dung-nguoi-trai-luat-u21-bong-chuyen-nu-viet-nam-bi-phat-nang-co-nao-cau-thu-bi-treo-gio-2-nam-185250813011658139.htm",
+      "summary": "Sau khi bị xử thua ở giải U.21 bóng chuyền thế giới do sử dụng cầu thủ không hợp lệ, đội tuyển U.21 nữ Việt Nam còn có nguy cơ nhận hình phạt bổ sung Liên đoàn Bóng chuyền thế giới (FIVB).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T18:36:00+07:00",
+      "fetched": "2025-08-13T03:19:40.856081+07:00"
     },
     {
       "id": "12778e8db7e5257a6d2e376735f66966",
