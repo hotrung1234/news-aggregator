@@ -1,6 +1,6 @@
 window.newsData_2025_08_14 = {
   "date": "2025-08-14",
-  "lastUpdated": "2025-08-14T01:24:05.932875+07:00",
+  "lastUpdated": "2025-08-14T03:19:09.194068+07:00",
   "articles": [
     {
       "id": "a4c5c545a2867dad3d0f285199a332df",
@@ -153,6 +153,46 @@ window.newsData_2025_08_14 = {
       "fetched": "2025-08-14T01:24:00.175861+07:00"
     },
     {
+      "id": "78dccef68deaac1aca15d9cbc8a815b4",
+      "title": "Lật tẩy chiêu trò thủ đoạn 'bắt cóc online'",
+      "link": "https://thanhnien.vn/lat-tay-chieu-tro-thu-doan-bat-coc-online-185250812191107079.htm",
+      "summary": "Phòng Cảnh sát hình sự (PC02) Công an TP.HCM) cho biết thời gian gần đây liên tiếp phát hiện, điều tra, giải cứu nhiều vụ liên quan đến thủ đoạn 'bắt cóc online' để lừa đảo, chiếm đoạt tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T19:08:00+07:00",
+      "fetched": "2025-08-14T03:19:00.609527+07:00"
+    },
+    {
+      "id": "9e8f43d9bf9e17227d721ea1b9dc2583",
+      "title": "Cậu bé dựng quầy để khen người qua đường",
+      "link": "https://vnexpress.net/cau-be-dung-quay-de-khen-nguoi-qua-duong-4926266.html",
+      "summary": "Mỗi sáng, bé Wargo ở Illinois lại đặt chiếc bàn nhỏ, dựng ô trên bãi cỏ trước nhà, khen ngợi miễn phí bất kỳ ai đi qua trò chuyện với mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T19:00:00+07:00",
+      "fetched": "2025-08-14T03:18:57.354059+07:00"
+    },
+    {
+      "id": "9e8f43d9bf9e17227d721ea1b9dc2583",
+      "title": "Cậu bé dựng quầy để khen người qua đường",
+      "link": "https://vnexpress.net/cau-be-dung-quay-de-khen-nguoi-qua-duong-4926266.html",
+      "summary": "Mỗi sáng, bé Wargo ở Illinois lại đặt chiếc bàn nhỏ, dựng ô trên bãi cỏ trước nhà, khen ngợi miễn phí bất kỳ ai đi qua trò chuyện với mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-13T19:00:00+07:00",
+      "fetched": "2025-08-14T03:19:03.794339+07:00"
+    },
+    {
+      "id": "bff64ef60bdfd3434ac51d480b2c2a5b",
+      "title": "Có phải ăn mặn chỉ gây hại thận?",
+      "link": "https://vnexpress.net/co-phai-an-man-chi-gay-hai-than-4923239.html",
+      "summary": "Nhiều thông tin nói ăn mặn hại thận, song thực tế thói quen này có ảnh hưởng đến các cơ quan khác trong cơ thể? (Tùng, 46 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T18:07:00+07:00",
+      "fetched": "2025-08-14T03:18:57.354275+07:00"
+    },
+    {
       "id": "eb14c66a0ca0bfb4a0cd7a37c99670fc",
       "title": "Hồ sơ gây tranh cãi của ứng viên lãnh đạo cơ quan thống kê Mỹ",
       "link": "https://vnexpress.net/ho-so-gay-tranh-cai-cua-ung-vien-lanh-dao-co-quan-thong-ke-my-4926175.html",
@@ -161,6 +201,16 @@ window.newsData_2025_08_14 = {
       "category": "Thế giới",
       "published": "2025-08-13T18:00:00+07:00",
       "fetched": "2025-08-14T01:24:01.220684+07:00"
+    },
+    {
+      "id": "4077b3655f9c67e0beceeeb2ec1c6422",
+      "title": "Viêm cầu thận",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-cau-than-361",
+      "summary": "Viêm cầu thận là tình trạng viêm ở các tiểu cầu thận và các mạch máu nhỏ trong thận, gây phù nề chân, mặt, khiến thận hoạt động kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T18:00:00+07:00",
+      "fetched": "2025-08-14T03:18:57.354629+07:00"
     },
     {
       "id": "80cbc91b5d452e8c1a01dfdec55b280d",
