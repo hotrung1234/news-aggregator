@@ -1,6 +1,6 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T01:25:56.897558+07:00",
+  "lastUpdated": "2025-08-15T03:19:41.738594+07:00",
   "articles": [
     {
       "id": "80a0612e3cdb4f83ea2dd93f0cbdb3b2",
@@ -153,6 +153,16 @@ window.newsData_2025_08_15 = {
       "fetched": "2025-08-15T01:25:48.146746+07:00"
     },
     {
+      "id": "6d696a635be642cb6086d7ba7ebc81cf",
+      "title": "Tình yêu với Cristiano Ronaldo biến đổi cuộc đời cô gái nghèo",
+      "link": "https://vnexpress.net/tinh-yeu-voi-cristiano-ronaldo-bien-doi-cuoc-doi-co-gai-ngheo-4926670.html",
+      "summary": "Từ một trợ lý bán hàng ở Madrid, Georgina Rodriguez bước vào cuộc sống giàu sang và có một tổ ấm bền chặt với tình yêu của Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T18:10:03+07:00",
+      "fetched": "2025-08-15T03:19:30.166988+07:00"
+    },
+    {
       "id": "0b564fc80332a7b31029cdc88c3ca8ac",
       "title": "Hơn 6 tuần kẹt ở Nam Cực của phi công 20 tuổi muốn bay vòng quanh thế giới",
       "link": "https://vnexpress.net/hon-6-tuan-ket-o-nam-cuc-cua-phi-cong-20-tuoi-muon-bay-vong-quanh-the-gioi-4926768.html",
@@ -161,6 +171,16 @@ window.newsData_2025_08_15 = {
       "category": "Thế giới",
       "published": "2025-08-14T18:00:00+07:00",
       "fetched": "2025-08-15T01:25:50.682245+07:00"
+    },
+    {
+      "id": "488ce8778d3fefc00b1d77e357aa51c4",
+      "title": "5 'siêu thực phẩm' tăng cường sức khỏe thận",
+      "link": "https://vnexpress.net/5-sieu-thuc-pham-tang-cuong-suc-khoe-than-4925632.html",
+      "summary": "Việt quất, cá hồi, cải xoăn, ớt chuông đỏ và súp lơ được mệnh danh là những siêu thực phẩm giúp tăng cường sức khỏe thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T18:00:00+07:00",
+      "fetched": "2025-08-15T03:19:30.167385+07:00"
     },
     {
       "id": "b4fd95882e2b0c77c51dfc25cae412c3",
