@@ -1,7 +1,157 @@
 window.newsData_2025_08_14 = {
   "date": "2025-08-14",
-  "lastUpdated": "2025-08-14T13:27:28.515308+07:00",
+  "lastUpdated": "2025-08-14T15:24:14.114146+07:00",
   "articles": [
+    {
+      "id": "5b27fbb662cfa5f87f997e6d764ad537",
+      "title": "Tháo dỡ khu phức hợp 2,2ha không phép ở phường trung tâm tại Đồng Nai",
+      "link": "https://tuoitre.vn/thao-do-khu-phuc-hop-2-2-ha-khong-phep-o-phuong-trung-tam-tai-dong-nai-20250814124251473.htm",
+      "summary": "Sau gần 6 năm bị đình chỉ, khu phức hợp thương mại dịch vụ và căn hộ cao cấp không phép ở Đồng Nai bắt đầu tháo dỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.308266+07:00",
+      "fetched": "2025-08-14T15:24:06.308383+07:00"
+    },
+    {
+      "id": "df15dac0c18ac90e8097927403c97a55",
+      "title": "Chỉ định ông Trần Đức Thắng giữ chức Bí thư Đảng ủy Bộ Nông nghiệp và Môi trường",
+      "link": "https://tuoitre.vn/chi-dinh-ong-tran-duc-thang-giu-chuc-bi-thu-dang-uy-bo-nong-nghiep-va-moi-truong-20250814132118494.htm",
+      "summary": "Sáng 14-8, Đại hội đại biểu Đảng bộ Bộ Nông nghiệp và Môi trường lần thứ nhất, nhiệm kỳ 2025-2030, diễn ra phiên chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.308135+07:00",
+      "fetched": "2025-08-14T15:24:06.308251+07:00"
+    },
+    {
+      "id": "c4f10bd5eecbd901e5275c35a67201f1",
+      "title": "Hãng hàng không lớn nhất Canada hủy nhiều chuyến bay vì nguy cơ 10.000 tiếp viên đình công",
+      "link": "https://tuoitre.vn/hang-hang-khong-lon-nhat-canada-huy-nhieu-chuyen-bay-vi-nguy-co-10-000-tiep-vien-dinh-cong-20250814124818168.htm",
+      "summary": "Air Canada đã bắt đầu hủy nhiều chuyến bay trong mùa cao điểm do nguy cơ hơn 10.000 tiếp viên đình công, phản đối mức lương thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.308007+07:00",
+      "fetched": "2025-08-14T15:24:06.308124+07:00"
+    },
+    {
+      "id": "4027ea26d412b513473f243944bdbaa0",
+      "title": "Bộ đội biên phòng TP.HCM và Vietsovpetro phối hợp bảo vệ an ninh, an toàn công trình dầu khí",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-tp-hcm-va-vietsovpetro-phoi-hop-bao-ve-an-ninh-an-toan-cong-trinh-dau-khi-20250814131719874.htm",
+      "summary": "Bộ đội biên phòng TP.HCM và Liên doanh Việt - Nga Vietsovpetro vừa ký kết quy chế phối hợp bảo vệ an ninh, an toàn công trình dầu khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307875+07:00",
+      "fetched": "2025-08-14T15:24:06.307995+07:00"
+    },
+    {
+      "id": "63a4117071d42582e62a1f4d449f0e93",
+      "title": "Mở thủ tục phá sản với doanh nghiệp Rạng Đông Holding",
+      "link": "https://tuoitre.vn/mo-thu-tuc-pha-san-voi-doanh-nghiep-rang-dong-holding-20250814133734026.htm",
+      "summary": "Tòa án nhân dân TP.HCM đã ra quyết định mở thủ tục phá sản với Rạng Đông Holding - một doanh nghiệp ngành nhựa với bề dày 65 năm hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307746+07:00",
+      "fetched": "2025-08-14T15:24:06.307864+07:00"
+    },
+    {
+      "id": "862a3d07f60ad4ffd61d8acdc7628dd6",
+      "title": "'Kho báu' lật đổ hit quốc dân 'Phép màu', ca sĩ bật khóc",
+      "link": "https://tuoitre.vn/kho-bau-lat-do-hit-quoc-dan-phep-mau-ca-si-bat-khoc-20250814110043093.htm",
+      "summary": "Trên bảng xếp hạng Billboard Việt Nam, bài hát 'Kho báu' của ca sĩ (S)TRONG tức Trọng Hiếu bất ngờ soán ngôi 'Phép màu' để đứng hạng nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307601+07:00",
+      "fetched": "2025-08-14T15:24:06.307734+07:00"
+    },
+    {
+      "id": "a44bc00516ed1aff9accb1b3a610393a",
+      "title": "Venus Williams làm điều không tưởng ở tuổi 45",
+      "link": "https://tuoitre.vn/venus-williams-lam-dieu-khong-tuong-o-tuoi-45-20250814114956171.htm",
+      "summary": "Cựu tay vợt số 1 thế giới Venus Williams (45 tuổi) đã trở lại Giải Mỹ mở rộng 2025 sau lời mời đặc cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307468+07:00",
+      "fetched": "2025-08-14T15:24:06.307590+07:00"
+    },
+    {
+      "id": "794dd968d09f7d77a134ade8bc22f682",
+      "title": "Hội chợ ITE HCMC 2025 có gì khác biệt, thu hút so với các năm?",
+      "link": "https://tuoitre.vn/hoi-cho-ite-hcmc-2025-co-gi-khac-biet-thu-hut-so-voi-cac-nam-20250814130421321.htm",
+      "summary": "Hội chợ ITE HCMC 2025 diễn ra từ ngày 4 đến 6-9, tập trung vào kết nối ngành du lịch với công thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307344+07:00",
+      "fetched": "2025-08-14T15:24:06.307457+07:00"
+    },
+    {
+      "id": "d4471aa4a9d8bae40295a19bd34e48f6",
+      "title": "ACV: Chuyển hàng hóa quốc tế từ Tân Sơn Nhất sang Long Thành sẽ giảm kẹt xe cho nội đô TP.HCM",
+      "link": "https://tuoitre.vn/acv-chuyen-hang-hoa-quoc-te-tu-tan-son-nhat-sang-long-thanh-se-giam-ket-xe-cho-noi-do-tp-hcm-20250814121410.htm",
+      "summary": "Đó là nội dung trong báo cáo về phương án khai thác hàng hóa quốc tế khi sân bay Long Thành đi vào vận hành thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307215+07:00",
+      "fetched": "2025-08-14T15:24:06.307333+07:00"
+    },
+    {
+      "id": "67d8ec7e1e94bb388a0d0a1581084473",
+      "title": "12.000 người sẽ dự khai mạc, bế mạc Triển lãm thành tựu đất nước kỷ niệm 80 năm Quốc khánh",
+      "link": "https://tuoitre.vn/12-000-nguoi-se-du-khai-mac-be-mac-trien-lam-thanh-tuu-dat-nuoc-ky-niem-80-nam-quoc-khanh-20250814135520245.htm",
+      "summary": "Cả lễ khai mạc và bế mạc Triển lãm thành tựu đất nước nhân dịp kỷ niệm 80 năm Ngày Quốc khánh đều được truyền hình trực tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.307082+07:00",
+      "fetched": "2025-08-14T15:24:06.307204+07:00"
+    },
+    {
+      "id": "c622cfcd06b3a8ec86b6f3c4a41d4d9a",
+      "title": "Xăng RON95 giảm xuống dưới 20.000 đồng/lít",
+      "link": "https://tuoitre.vn/xang-ron95-giam-xuong-duoi-20-000-dong-lit-20250814144023908.htm",
+      "summary": "Bộ Công Thương vừa công bố điều chỉnh giá xăng dầu với mức giảm của đa số các mặt hàng, áp dụng từ 15h ngày 14-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.306946+07:00",
+      "fetched": "2025-08-14T15:24:06.307060+07:00"
+    },
+    {
+      "id": "2be5b40360651dffd1bc208841cc6b2d",
+      "title": "Bộ trưởng Quốc phòng: Chủ động phòng ngừa, sẵn sàng đánh bại mọi hình thái chiến tranh",
+      "link": "https://tuoitre.vn/bo-truong-quoc-phong-chu-dong-phong-ngua-san-sang-danh-bai-moi-hinh-thai-chien-tranh-20250814132522369.htm",
+      "summary": "Đó là yêu cầu của Đại tướng Phan Văn Giang tại hội thảo khoa học 'Bộ Tổng tham mưu Quân đội nhân dân Việt Nam - 80 năm xây dựng, chiến đấu'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.306816+07:00",
+      "fetched": "2025-08-14T15:24:06.306934+07:00"
+    },
+    {
+      "id": "887e501b8b97ded64974f6154104274c",
+      "title": "Bắt một cựu thẩm phán để điều tra tội nhận hối lộ",
+      "link": "https://tuoitre.vn/bat-mot-cuu-tham-phan-de-dieu-tra-toi-nhan-hoi-lo-20250814142737453.htm",
+      "summary": "Cơ quan điều tra Viện Kiểm sát nhân dân tối cao khởi tố, bắt tạm giam một cựu thẩm phán Tòa án nhân dân huyện Cư Kuin (cũ) ở tỉnh Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.306659+07:00",
+      "fetched": "2025-08-14T15:24:06.306803+07:00"
+    },
+    {
+      "id": "78f28cba7eda06a126ad054e3890c742",
+      "title": "Xe điện tự lái - tâm điểm chú ý tại HUTECH TECHSHOW 2025",
+      "link": "https://tuoitre.vn/xe-dien-tu-lai-tam-diem-chu-y-tai-hutech-techshow-2025-20250813170949003.htm",
+      "summary": "'Làm sao một chiếc ô tô có thể tự lái?' - nhóm sinh viên ngành công nghệ kỹ thuật ô tô HUTECH đã dành hơn 6 tháng miệt mài nghiên cứu để biến thành hiện thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:06.306293+07:00",
+      "fetched": "2025-08-14T15:24:06.306645+07:00"
+    },
+    {
+      "id": "e09588857979ee1ee853832504e3c81e",
+      "title": "Chợ Quán: Hồn Xưa - Sức Sống Mới",
+      "link": "https://tuoitre.vn/cho-quan-hon-xua-suc-song-moi-20250814123534608.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T15:24:04.925689+07:00",
+      "fetched": "2025-08-14T15:24:06.306263+07:00"
+    },
     {
       "id": "5f82156eca22e84c97692f11f2e1c28f",
       "title": "Sa Đéc - Bản hòa ca phố và hoa",
@@ -581,6 +731,356 @@ window.newsData_2025_08_14 = {
       "category": "Tổng hợp",
       "published": "2025-08-14T08:22:04.382142+07:00",
       "fetched": "2025-08-14T08:22:04.382353+07:00"
+    },
+    {
+      "id": "21e5764d869b452d98780a61932b314e",
+      "title": "'Phải giải cho được bài toán khó thu ngân sách'",
+      "link": "https://thanhnien.vn/phai-giai-cho-duoc-bai-toan-kho-thu-ngan-sach-185250814124630717.htm",
+      "summary": "Chủ tịch UBND tỉnh Lâm Đồng Hồ Văn Mười cho biết Chính phủ giao Lâm Đồng phải thu ngân sách thêm gần 4.000 tỉ đồng so với kế hoạch. Ông nhấn mạnh, đây là bài toán khó nhưng 'phải giải cho được bài toán này'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:17:00+07:00",
+      "fetched": "2025-08-14T15:24:03.967596+07:00"
+    },
+    {
+      "id": "ac309e623d45f2b2a1e80d52603dd069",
+      "title": "Ngày hội việc làm ở TP.HCM: Có công ty tuyển 300 công nhân may mặc",
+      "link": "https://thanhnien.vn/ngay-hoi-viec-lam-o-tphcm-co-cong-ty-tuyen-300-cong-nhan-may-mac-185250814130008267.htm",
+      "summary": "Gần 20.000 vị trí việc làm được Trung tâm Dịch vụ việc làm TP.HCM sẵn sàng tư vấn, kết nối cho người lao động miễn phí hằng ngày và tại ngày hội việc làm, sáng 14.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:15:00+07:00",
+      "fetched": "2025-08-14T15:24:03.967794+07:00"
+    },
+    {
+      "id": "dcf796b9f9e4e2dd3285bf1335044bdb",
+      "title": "Thường xuyên đi phố và tỉnh thành lân cận, có nên mua ô tô điện?",
+      "link": "https://thanhnien.vn/thuong-xuyen-di-pho-va-tinh-thanh-lan-can-co-nen-mua-o-to-dien-185250814140330626.htm",
+      "summary": "Nhu cầu di chuyển chủ yếu trong thành thị, thỉnh thoảng đi đến các tỉnh, thành lân cận TP.HCM, nhiều khách hàng cân nhắc giữa việc lựa chọn ô tô điện và xe xăng để mang lại sự tối ưu về chi phí và tiện lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:13:00+07:00",
+      "fetched": "2025-08-14T15:24:03.967954+07:00"
+    },
+    {
+      "id": "3da4b209923199faa05359e50dfc10ee",
+      "title": "Ngân hàng nhận chuyển giao bắt buộc được giảm 50% dự trữ bắt buộc",
+      "link": "https://vnexpress.net/ngan-hang-nhan-chuyen-giao-bat-buoc-duoc-giam-50-du-tru-bat-buoc-4926880.html",
+      "summary": "Vietcombank, HDBank, MB và VPBank, các ngân hàng nhận chuyển giao bắt buộc, sẽ được giảm 50% dự trữ bắt buộc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-14T08:08:44+07:00",
+      "fetched": "2025-08-14T15:24:10.036129+07:00"
+    },
+    {
+      "id": "291840aff11e7ccb24b7f1f8ab87acda",
+      "title": "Chuyển sang ga T3 Tân Sơn Nhất, Bamboo Airways triển khai loạt hỗ trợ cho hành khách",
+      "link": "https://thanhnien.vn/chuyen-sang-ga-t3-tan-son-nhat-bamboo-airways-trien-khai-loat-ho-tro-cho-hanh-khach-185250814135245885.htm",
+      "summary": "Nhằm đảm bảo quyền lợi cho hành khách, Bamboo Airways đã xây dựng chính sách hỗ trợ đặc biệt cho các hành khách có chuyến bay đến/đi từ sân bay Tân Sơn Nhất trong tuần đầu tiên Hãng chuyển đổi nhà ga khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:00:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968112+07:00"
+    },
+    {
+      "id": "c6f9d6745203d25d123c368e568abf3a",
+      "title": "Bác sĩ: Uống cà phê mỗi ngày làm điều kỳ diệu gì cho gan của bạn?",
+      "link": "https://thanhnien.vn/bac-si-uong-ca-phe-moi-ngay-lam-dieu-ky-dieu-gi-cho-gan-cua-ban-18525081414582378.htm",
+      "summary": "Thêm tin vui cho những người yêu thích cà phê. Uống cà phê hằng ngày không chỉ giúp tỉnh táo mà còn có thể tránh khỏi bệnh gan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:58:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968261+07:00"
+    },
+    {
+      "id": "b7860610774e1349c9db060733979a79",
+      "title": "Nhiều người dân TP.HCM bất ngờ hóa thân thành chiến sĩ PCCC",
+      "link": "https://thanhnien.vn/nhieu-nguoi-dan-tphcm-bat-ngo-hoa-than-thanh-chien-si-pccc-185250814143511957.htm",
+      "summary": "Sáng 14.8.2025, buổi triển lãm quốc tế về kỹ thuật và phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ và thiết bị an toàn đã được diễn ra tại Trung tâm Hội chợ và triển lãm Sài Gòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:54:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968408+07:00"
+    },
+    {
+      "id": "30e9f8f768c862a3f3c0f9d8c17cd973",
+      "title": "Nhóm nghi phạm nhỏ tuổi, bỏ học gây 9 vụ trộm xe máy trong nửa tháng",
+      "link": "https://thanhnien.vn/nhom-nghi-pham-nho-tuoi-bo-hoc-gay-9-vu-trom-xe-may-trong-nua-thang-185250814130811257.htm",
+      "summary": "Chỉ trong vòng nửa tháng, một nhóm 7 nghi phạm bỏ học, dưới 18 tuổi, lang thang khắp TP.Đà Nẵng thực hiện liên tiếp 9 vụ trộm cắp xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:54:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968557+07:00"
+    },
+    {
+      "id": "c68f2e04551d04d9c9ae5c74efbce9c2",
+      "title": "Hậu vệ Việt kiều mong khoác áo đội tuyển Việt Nam: Nhân vật đẳng cấp, sẽ nhập tịch như Xuân Son",
+      "link": "https://thanhnien.vn/hau-ve-viet-kieu-mong-khoac-ao-doi-tuyen-viet-nam-nhan-vat-dang-cap-se-nhap-tich-nhu-xuan-son-18525081414364491.htm",
+      "summary": "Hậu vệ Việt kiều Kevin Phạm Ba hy vọng sớm có quốc tịch Việt Nam để khoác áo đội tuyển quốc gia trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:52:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968719+07:00"
+    },
+    {
+      "id": "1ef02ad99041c3995d4bcde879895cd7",
+      "title": "Các ứng dụng bloatware nên gỡ khỏi điện thoại Samsung ngay lập tức",
+      "link": "https://thanhnien.vn/cac-ung-dung-bloatware-nen-go-khoi-dien-thoai-samsung-ngay-lap-tuc-185250811233753673.htm",
+      "summary": "Nổi tiếng với giao diện One UI thân thiện và dễ sử dụng, tuy nhiên điện thoại Samsung cũng thường được cài đặt sẵn nhiều ứng dụng, hay bloatware.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:49:00+07:00",
+      "fetched": "2025-08-14T15:24:03.968877+07:00"
+    },
+    {
+      "id": "245054826175af858097be70f6f02edd",
+      "title": "Giá xăng dầu đồng loạt giảm",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-giam-185250814144237118.htm",
+      "summary": "Giá xăng dầu trong phiên điều hành ngày 14.8 đồng loạt giảm. Trong đó, giá xăng giảm 190 - 254 đồng/lít,  giá dầu giảm 379 - 723 đồng/lít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:46:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969030+07:00"
+    },
+    {
+      "id": "12a90e2ae15b1e9dd817a0591a597f8f",
+      "title": "Cựu kỹ sư Samsung chỉ cách xử lý 3 lỗi phần cứng smartphone phổ biến nhất",
+      "link": "https://thanhnien.vn/cuu-ky-su-samsung-chi-cach-xu-ly-3-loi-phan-cung-smartphone-pho-bien-nhat-185250814093904933.htm",
+      "summary": "Smartphone của bạn gặp sự cố phần cứng? Đây là những điều cần làm ngay lập tức, theo lời khuyên từ chuyên gia của Samsung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:45:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969176+07:00"
+    },
+    {
+      "id": "b0980217fba1b35feece6daef5972a34",
+      "title": "V-League có xe VAR thứ 5, nhà đầu tư lần đầu lên tiếng",
+      "link": "https://thanhnien.vn/v-league-co-xe-var-thu-5-nha-dau-tu-lan-dau-len-tieng-185250814143112967.htm",
+      "summary": "Mùa giải LPBank V-League 2025-2026 hứa hẹn sẽ mang đến những cảm xúc thăng hoa và kịch tính, khi các CLB đẩy mạnh đầu tư cả về lực lượng cầu thủ lẫn công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:42:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969330+07:00"
+    },
+    {
+      "id": "4a5af2d74e30ce9c005a97729ae27f4e",
+      "title": "Nắm chắc vùng trời, vùng biển, biên giới, không để bị động, bất ngờ",
+      "link": "https://thanhnien.vn/nam-chac-vung-troi-vung-bien-bien-gioi-khong-de-bi-dong-bat-ngo-18525081413520945.htm",
+      "summary": "Ngày 14.8, Bộ Quốc phòng tổ chức hội thảo khoa học Bộ Tổng tham mưu Quân đội nhân dân Việt Nam - 80 năm xây dựng, chiến đấu và trưởng thành, vững bước tiến vào kỷ nguyên mới của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:42:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969484+07:00"
+    },
+    {
+      "id": "9dd4b97a4083d1924cad646e2be7c640",
+      "title": "Đi nộp hồ sơ trợ cấp thất nghiệp: Bất ngờ cơ hội tìm việc mới ở TP.HCM",
+      "link": "https://thanhnien.vn/di-nop-ho-so-tro-cap-that-nghiep-bat-ngo-co-hoi-tim-viec-moi-o-tphcm-185250814120930939.htm",
+      "summary": "Nhiều người đến Trung tâm Dịch vụ việc làm TP.HCM nộp hồ sơ hưởng trợ cấp thất nghiệp cho biết được nhân viên hỗ trợ nhiệt tình, thủ tục nhanh gọn, có cơ hội tìm được việc mới ngay trong sáng 14.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:42:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969637+07:00"
+    },
+    {
+      "id": "a36eeb3cfd14093d5a3b412d3bb92db9",
+      "title": "Công nghệ pin sạc đầy xe điện chỉ trong 18 giây",
+      "link": "https://thanhnien.vn/cong-nghe-pin-sac-day-xe-dien-chi-trong-18-giay-185250814135622108.htm",
+      "summary": "Tập đoàn RML có trụ sở tại Anh vừa giới thiệu công nghệ pin mới cho xe điện mang tên VarEVolt với khả năng sạc đầy chỉ trong 18 giây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:41:00+07:00",
+      "fetched": "2025-08-14T15:24:03.969805+07:00"
+    },
+    {
+      "id": "a91908738332fa8a31183a88f4e275e0",
+      "title": "Loạt UAV chữa cháy, cứu nạn do Việt Nam sản xuất",
+      "link": "https://vnexpress.net/loat-uav-chua-chay-cuu-nan-do-viet-nam-san-xuat-4926853.html",
+      "summary": "Máy bay không người lái (UAV) cảm biến nhiệt, phát hiện khí độc, nạn nhân mắc kẹt, mang đạn phóng cứu hoả do doanh nghiệp trong nước sản xuất, trưng bày tại triển lãm phòng cháy, chữa cháy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:29:36+07:00",
+      "fetched": "2025-08-14T15:24:00.611644+07:00"
+    },
+    {
+      "id": "ad6b840429231b47b61ff2bb96550936",
+      "title": "Giá xăng xuống dưới 20.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-14-8-4926868.html",
+      "summary": "Giá xăng, dầu cùng giảm từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:27:17+07:00",
+      "fetched": "2025-08-14T15:24:00.611874+07:00"
+    },
+    {
+      "id": "ad6b840429231b47b61ff2bb96550936",
+      "title": "Giá xăng xuống dưới 20.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-14-8-4926868.html",
+      "summary": "Giá xăng, dầu cùng giảm từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-14T07:27:17+07:00",
+      "fetched": "2025-08-14T15:24:10.036309+07:00"
+    },
+    {
+      "id": "195e38bac703307ed3b7fef29ba71c74",
+      "title": "BMW có thể làm SUV địa hình đấu Mercedes G-class",
+      "link": "https://vnexpress.net/bmw-co-the-lam-suv-dia-hinh-dau-mercedes-g-class-4926771.html",
+      "summary": "BMW đang nghiên cứu phát triển mẫu SUV địa hình mới, dựa trên nền tảng X5, sản xuất tại Mỹ năm 2029.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:20:22+07:00",
+      "fetched": "2025-08-14T15:24:00.612042+07:00"
+    },
+    {
+      "id": "051ecd40742d3c8d9cf9e50f5ad27096",
+      "title": "Nespresso trở lại Saigon Centre với diện mạo mới",
+      "link": "https://vnexpress.net/nespresso-tro-lai-saigon-centre-voi-dien-mao-moi-4926869.html",
+      "summary": "Thương hiệu máy pha và cà phê viên nén Thụy Sĩ khai trương boutique tại Trung tâm thương mại Saigon Center, hôm 3/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:15:00+07:00",
+      "fetched": "2025-08-14T15:24:00.612198+07:00"
+    },
+    {
+      "id": "6641e37aba7cb5ddd402f61e394e5826",
+      "title": "Nga có thể sắp phóng siêu tên lửa 'bay khắp toàn cầu'",
+      "link": "https://vnexpress.net/nga-co-the-sap-phong-sieu-ten-lua-bay-khap-toan-cau-4926820.html",
+      "summary": "Dựa trên ảnh vệ tinh, giới chuyên gia nhận định Nga sắp thử nghiệm Burevestnik, tên lửa hành trình hạt nhân có khả năng bay không nghỉ khắp toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:14:50+07:00",
+      "fetched": "2025-08-14T15:24:00.612397+07:00"
+    },
+    {
+      "id": "1c03bd8be99759c70cb5d24e40a6d7e6",
+      "title": "Nga có thể sắp thử siêu tên lửa có khả năng 'bay khắp toàn cầu'",
+      "link": "https://vnexpress.net/nga-co-the-sap-thu-sieu-ten-lua-co-kha-nang-bay-khap-toan-cau-4926820.html",
+      "summary": "Dựa trên ảnh vệ tinh, giới chuyên gia nhận định Nga sắp thử nghiệm Burevestnik, tên lửa hành trình hạt nhân có khả năng bay không nghỉ khắp toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T07:14:50+07:00",
+      "fetched": "2025-08-14T15:24:08.169086+07:00"
+    },
+    {
+      "id": "967fc000a5afebea7fd764c771c98ccc",
+      "title": "Phải làm gì khi tường bị thấm nước từ hàng xóm nhưng họ không thừa nhận?",
+      "link": "https://vnexpress.net/phai-lam-gi-khi-tuong-bi-tham-nuoc-tu-hang-xom-nhung-ho-khong-thua-nhan-4924443.html",
+      "summary": "Tôi sống trong căn nhà cuối dãy, tường phía sau giáp với hai nhà khác. Gần đây, tôi phát hiện tường liên tục bị thấm nước, ẩm mốc, mùi hôi rất khó chịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:05:50+07:00",
+      "fetched": "2025-08-14T15:24:00.612593+07:00"
+    },
+    {
+      "id": "d4dbeeda61482870b7a3686832884c42",
+      "title": "Pingfong thắng trong vụ bản quyền bài hát tỷ view Baby Shark",
+      "link": "https://vnexpress.net/pingfong-thang-trong-vu-ban-quyen-bai-hat-ty-view-baby-shark-4926844.html",
+      "summary": "\"Baby Shark\", bài hát thiếu nhi được phát nhiều nhất hành tinh, được tòa án tối cao tuyên thuộc bản quyền của Pinkfong, không đạo nhạc của nghệ sĩ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:05:32+07:00",
+      "fetched": "2025-08-14T15:24:00.612781+07:00"
+    },
+    {
+      "id": "1f0577ad5d6a9c4736d9c9495871e528",
+      "title": "Học sinh TP HCM tựu trường từ 20/8",
+      "link": "https://vnexpress.net/lich-tuu-truong-cua-hoc-sinh-tp-hcm-nam-hoc-2025-2026-4926712.html",
+      "summary": "Học sinh khối 1, 9, 12 tựu trường từ ngày 20/8, sớm 2 ngày so với cả nước, các khối còn lại vào 25/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:05:17+07:00",
+      "fetched": "2025-08-14T15:24:00.612938+07:00"
+    },
+    {
+      "id": "888b882f24679a8e4bca72f98c11731d",
+      "title": "5 điều nên tránh khi trị mụn trứng cá",
+      "link": "https://vnexpress.net/5-dieu-nen-tranh-khi-tri-mun-trung-ca-4926854.html",
+      "summary": "Tự nặn mụn, rửa mặt không đúng cách, dùng các sản phẩm trị mụn không rõ nguồn gốc có thể khiến mụn dai dẳng, khó kiểm soát, dễ biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:00:00+07:00",
+      "fetched": "2025-08-14T15:24:00.613096+07:00"
+    },
+    {
+      "id": "3e79a6199f42feee0c230a1455bf2795",
+      "title": "Trời râm mát vẫn có thể khiến runner cháy da và kiệt sức",
+      "link": "https://vnexpress.net/troi-ram-mat-van-co-the-khien-runner-chay-da-va-kiet-suc-4925936.html",
+      "summary": "Thời tiết cuối hè có thể nhiều mây, nhưng runner không nên chủ quan, đặc biệt khi thi đấu gần biển như tại VnExpress Marathon Libera Nha Trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:00:00+07:00",
+      "fetched": "2025-08-14T15:24:00.613252+07:00"
+    },
+    {
+      "id": "4a24ae066e348f57cd8b0e0b2bac101b",
+      "title": "Dòng chảy chuyên gia - bài toán cho địa ốc Đông TP HCM",
+      "link": "https://vnexpress.net/dong-chay-chuyen-gia-bai-toan-cho-dia-oc-dong-tp-hcm-4925850.html",
+      "summary": "Sân bay Long Thành, cảng Cái Mép - Thị Vải, khu thương mại tự do dự báo thúc đẩy FDI, hút giới chuyên gia, hình thành nhu cầu an cư chất lượng cao tại Đông TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T07:00:00+07:00",
+      "fetched": "2025-08-14T15:24:00.613401+07:00"
+    },
+    {
+      "id": "ee9aee4f1f61671df742fc9ca0d5d408",
+      "title": "Nàng Mơ - tân binh làng mốt",
+      "link": "https://vnexpress.net/nang-mo-tan-binh-lang-mot-4926392.html",
+      "summary": "Trà My - 19 tuổi, nickname \"Nàng Mơ\" - có loạt video catwalk triệu view, là gương mặt mới ở lĩnh vực thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T06:56:44+07:00",
+      "fetched": "2025-08-14T15:24:00.613556+07:00"
+    },
+    {
+      "id": "519124f8e88bcbdd00ca6b80da557f97",
+      "title": "30 nhà sư rời Thiếu Lâm Tự vì quy tắc 996",
+      "link": "https://vnexpress.net/30-nha-su-roi-thieu-lam-tu-vi-quy-tac-996-4926838.html",
+      "summary": "Một tuần sau khi Thiếu Lâm tự áp dụng chế độ làm việc mới, hạn chế điện thoại và ăn uống nghiêm ngặt, 30 nhà sư đã rời chùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T06:45:52+07:00",
+      "fetched": "2025-08-14T15:24:00.613728+07:00"
+    },
+    {
+      "id": "7e75cec9acd97bc51e30ca3ec43e1e03",
+      "title": "Nỗ lực phút chót của EU nhằm góp tiếng nói vào thượng đỉnh Mỹ - Nga",
+      "link": "https://vnexpress.net/no-luc-phut-chot-cua-eu-nham-gop-tieng-noi-vao-thuong-dinh-my-nga-4926631.html",
+      "summary": "Châu Âu đang chạy đua thuyết phục ông Trump lắng nghe quan điểm của họ trước thượng đỉnh Mỹ - Nga và nỗ lực này dường như đã được đền đáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T06:36:50+07:00",
+      "fetched": "2025-08-14T15:24:00.613884+07:00"
+    },
+    {
+      "id": "7e75cec9acd97bc51e30ca3ec43e1e03",
+      "title": "Nỗ lực phút chót của EU nhằm góp tiếng nói vào thượng đỉnh Mỹ - Nga",
+      "link": "https://vnexpress.net/no-luc-phut-chot-cua-eu-nham-gop-tieng-noi-vao-thuong-dinh-my-nga-4926631.html",
+      "summary": "Châu Âu đang chạy đua thuyết phục ông Trump lắng nghe quan điểm của họ trước thượng đỉnh Mỹ - Nga và nỗ lực này dường như đã được đền đáp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T06:36:50+07:00",
+      "fetched": "2025-08-14T15:24:08.169259+07:00"
+    },
+    {
+      "id": "23f6f21fb6ba929b857c2592474c8fe9",
+      "title": "Thai phụ mất con ở tuần 30 vì tự ý chữa tiểu đường",
+      "link": "https://vnexpress.net/thai-phu-mat-con-o-tuan-30-vi-tu-y-chua-tieu-duong-4926772.html",
+      "summary": "Được chẩn đoán tiểu đường thai kỳ từ tuần 26, bệnh nhân 24 tuổi không điều trị, tự điều chỉnh chế độ ăn, kết quả đường máu tăng cao gây mất tim thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T06:32:27+07:00",
+      "fetched": "2025-08-14T15:24:00.614032+07:00"
+    },
+    {
+      "id": "06d1917cb564a7c1e3e7ace37a11d53d",
+      "title": "Vì sao FIVB không công bố lý do cầu thủ U21 Việt Nam mất tư cách?",
+      "link": "https://vnexpress.net/vi-sao-fivb-khong-cong-bo-ly-do-cau-thu-u21-viet-nam-mat-tu-cach-4926830.html",
+      "summary": "Trên trang chủ Liên đoàn bóng chuyền thế giới (FIVB), những thông tin về quyết định kỷ luật thường không nêu rõ nguyên nhân, như trường hợp của Việt Nam mới đây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T06:32:06+07:00",
+      "fetched": "2025-08-14T15:24:14.104210+07:00"
     },
     {
       "id": "139eb2924dd6a27096c6ea93b9dbe1fd",
