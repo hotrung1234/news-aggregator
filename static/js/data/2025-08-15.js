@@ -1,7 +1,157 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T05:16:29.186098+07:00",
+  "lastUpdated": "2025-08-15T08:22:42.806386+07:00",
   "articles": [
+    {
+      "id": "e38025701fa00d032085d051abcb1713",
+      "title": "Tin tức thế giới 15-8: Ông Trump tin kết quả tốt khi gặp ông Putin; Mưa lớn gây chết người ở Ấn Độ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-15-8-ong-trump-tin-ket-qua-tot-khi-gap-ong-putin-mua-lon-gay-chet-nguoi-o-an-do-20250815061455167.htm",
+      "summary": "Ukraine không kích trước thềm thượng đỉnh Trump - Putin; 800 Vệ binh quốc gia Mỹ có mặt tại Washington theo lệnh của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.409531+07:00",
+      "fetched": "2025-08-15T08:22:35.409642+07:00"
+    },
+    {
+      "id": "d2b371c6e7b02f0db22f3b2f7618ccf5",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ U21 thế giới ngày 15-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-u21-the-gioi-ngay-15-8-20250815064326791.htm",
+      "summary": "Sau một ngày nghỉ, Giải bóng chuyền nữ U21 thế giới sẽ trở lại vào ngày 15-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.409409+07:00",
+      "fetched": "2025-08-15T08:22:35.409520+07:00"
+    },
+    {
+      "id": "5b32c8009acdb67f562b9f2c1e66d192",
+      "title": "Phúc Long ra mắt thương hiệu mới - Kết nối thế hệ qua trà Việt",
+      "link": "https://tuoitre.vn/phuc-long-ra-mat-thuong-hieu-moi-ket-noi-the-he-qua-tra-viet-20250814204654813.htm",
+      "summary": "Ngày 14-8, Phúc Long giới thiệu nhận diện thương hiệu mới thông qua việc ra mắt cửa hàng tại 285 Cách Mạng Tháng Tám, TP.HCM (Cửa hàng Phúc Long Phoenix).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.409286+07:00",
+      "fetched": "2025-08-15T08:22:35.409398+07:00"
+    },
+    {
+      "id": "3f42117338e9e1f12e0e8589b53ff131",
+      "title": "Phan Đinh Tùng từng bị lừa uống chất cấm",
+      "link": "https://tuoitre.vn/phan-dinh-tung-tung-bi-lua-uong-chat-cam-20250815064846063.htm",
+      "summary": "Ra mắt MV 'Thiên la địa võng', Phan Đinh Tùng tiết lộ từng bị mời uống ly nước cam có chất cấm. Anh muốn cảnh báo người trẻ về những cạm bẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.409164+07:00",
+      "fetched": "2025-08-15T08:22:35.409275+07:00"
+    },
+    {
+      "id": "f10bc9205edfb320c828dd13aedec199",
+      "title": "Phụ nữ chơi thể thao phải đối mặt điều gì?",
+      "link": "https://tuoitre.vn/phu-nu-choi-the-thao-phai-doi-mat-dieu-gi-20250814220214994.htm",
+      "summary": "Từ sức khỏe sinh lý, sức khỏe tinh thần cho tới nguy cơ chấn thương, phụ nữ khi bước chân vào làng thể thao đỉnh cao luôn phải gồng mình chống chọi với khó khăn mà ít ai thấu hiểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.409040+07:00",
+      "fetched": "2025-08-15T08:22:35.409153+07:00"
+    },
+    {
+      "id": "868c6e6ff9cf08817e282cd06648a4e3",
+      "title": "Nhạc sĩ Nguyễn Bá Hùng phản ánh tinh thần dấn thân, đổi mới của Tuổi Trẻ qua bài rock hiện đại",
+      "link": "https://tuoitre.vn/nhac-si-nguyen-ba-hung-phan-anh-tinh-than-dan-than-doi-moi-cua-tuoi-tre-qua-bai-rock-hien-dai-20250815062957715.htm",
+      "summary": "Ca khúc Tuổi Trẻ của chúng ta được nhạc sĩ Nguyễn Bá Hùng lấy cảm hứng sáng tác từ chính tinh thần hai chữ ‘Tuổi Trẻ’ mang lại - đó là khát vọng, lý tưởng và sức bật mãnh liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408908+07:00",
+      "fetched": "2025-08-15T08:22:35.409028+07:00"
+    },
+    {
+      "id": "577e0132d3779e0c2b167f1176dd906f",
+      "title": "Ông Putin: Mỹ có những nỗ lực mạnh mẽ và chân thành để chấm dứt xung đột",
+      "link": "https://tuoitre.vn/ong-putin-my-co-nhung-no-luc-manh-me-va-chan-thanh-de-cham-dut-xung-dot-20250815071046898.htm",
+      "summary": "Ngày 14-8, ông Putin đã bày tỏ lạc quan trước thềm thượng đỉnh Mỹ - Nga (15-8) khi tin rằng Tổng thống Trump đang thực hiện “những nỗ lực khá mạnh mẽ và chân thành” nhằm hướng tới hòa bình ở Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408772+07:00",
+      "fetched": "2025-08-15T08:22:35.408896+07:00"
+    },
+    {
+      "id": "28210125e91e44b9c89dd8f4d75668d1",
+      "title": "Khoa học tìm ra cách đảo ngược chứng mất trí nhớ",
+      "link": "https://tuoitre.vn/khoa-hoc-tim-ra-cach-dao-nguoc-chung-mat-tri-nho-20250813163156675.htm",
+      "summary": "Lần đầu tiên, rối loạn ti thể được xác định là nguyên nhân khởi phát thoái hóa thần kinh. Kích hoạt lại 'nhà máy năng lượng' của tế bào giúp đảo ngược mất trí nhớ ở chuột, mở ra hy vọng điều trị Alzheimer và nhiều bệnh khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408625+07:00",
+      "fetched": "2025-08-15T08:22:35.408759+07:00"
+    },
+    {
+      "id": "e9f39987e250d40353e8c64364ce47b9",
+      "title": "AI khiến kỹ năng của bác sĩ bị mai một",
+      "link": "https://tuoitre.vn/ai-khien-ky-nang-cua-bac-si-bi-mai-mot-20250814161451239.htm",
+      "summary": "Các nhà khoa học cảnh báo AI đang 'làm cùn' kỹ năng của các bác sĩ, sau khi ghi nhận tỉ lệ phát hiện bệnh ở các bác sĩ ứng dụng AI giảm đi 6%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408499+07:00",
+      "fetched": "2025-08-15T08:22:35.408613+07:00"
+    },
+    {
+      "id": "e9e1108ef450c30ca19c0c3a5c6e0a80",
+      "title": "MG lỗ gần 270 tỉ/tháng chỉ với việc giảm giá cho MG4",
+      "link": "https://tuoitre.vn/mg-lo-gan-270-ti-thang-chi-voi-viec-giam-gia-cho-mg4-20250814113315667.htm",
+      "summary": "Hãng ô tô MG của Trung Quốc đã tiết lộ thông tin gây sốc khi họ phải chịu lỗ hơn 15 triệu AUD (gần 270 tỉ đồng) chỉ trong một tháng do chương trình giảm giá sâu cho mẫu xe điện MG4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408372+07:00",
+      "fetched": "2025-08-15T08:22:35.408488+07:00"
+    },
+    {
+      "id": "713032e7527ab54b586375183715a180",
+      "title": "Điểm tin 8h: Mở thủ tục phá sản với Rạng Đông Holding; Thỏ 'zombie' mọc sừng xuất hiện ở Mỹ",
+      "link": "https://tuoitre.vn/diem-tin-8h-mo-thu-tuc-pha-san-voi-rang-dong-holding-tho-zombie-moc-sung-xuat-hien-o-my-20250814225746897.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 15-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408244+07:00",
+      "fetched": "2025-08-15T08:22:35.408360+07:00"
+    },
+    {
+      "id": "a0936d8bf24e70e9f88689c56a4cceb8",
+      "title": "Logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ ở danh thắng hồ Xuân Hương Đà Lạt",
+      "link": "https://tuoitre.vn/logo-ky-niem-50-nam-thanh-lap-bao-tuoi-tre-o-danh-thang-ho-xuan-huong-da-lat-20250813214546981.htm",
+      "summary": "Từ ngày 13-8, logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ đã được chiếu liên tục trên 2 màn hình LED lớn nhất của Đà Lạt nằm ở quảng trường Lâm Viên, bên danh thắng quốc gia hồ Xuân Hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.408114+07:00",
+      "fetched": "2025-08-15T08:22:35.408232+07:00"
+    },
+    {
+      "id": "020a74f98d1c7b5ee05bb5789f484dbe",
+      "title": "Hơn 80% fan thế giới tin U21 bóng chuyền nữ Việt Nam sẽ thắng tiếp",
+      "link": "https://tuoitre.vn/hon-80-fan-the-gioi-tin-u21-bong-chuyen-nu-viet-nam-se-thang-tiep-20250815072909551.htm",
+      "summary": "So với thời điểm bắt đầu giải đấu, tuyển Việt Nam ngày càng nhận được nhiều sự tin tưởng ở Giải vô địch U21 bóng chuyền nữ thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.407979+07:00",
+      "fetched": "2025-08-15T08:22:35.408102+07:00"
+    },
+    {
+      "id": "08014f0e300f3052e6af0c139e84129c",
+      "title": "Không nên vội vàng chuyển các chuyến bay từ Tân Sơn Nhất qua Long Thành",
+      "link": "https://tuoitre.vn/khong-nen-voi-vang-chuyen-cac-chuyen-bay-tu-tan-son-nhat-qua-long-thanh-20250815074650387.htm",
+      "summary": "Không nên vội vàng chuyển các chuyến bay khi chưa có kết nối giao thông thuận lợi cho hành khách đến sân bay mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.407835+07:00",
+      "fetched": "2025-08-15T08:22:35.407966+07:00"
+    },
+    {
+      "id": "2434425c880ae1e60bbb3852b2e0bccc",
+      "title": "Nhộn nhịp tìm mua xe máy điện ở TP.HCM",
+      "link": "https://tuoitre.vn/nhon-nhip-tim-mua-xe-may-dien-o-tp-hcm-20250814230702962.htm",
+      "summary": "Những ngày gần đây trên các tuyến đường chuyên kinh doanh xe hai bánh như Võ Thị Sáu, Cộng Hòa, Nguyễn Oanh, An Dương Vương... luôn tấp nập người xem xe, chạy thử, hỏi giá và đặt cọc mua xe máy điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:22:35.407631+07:00",
+      "fetched": "2025-08-15T08:22:35.407819+07:00"
+    },
     {
       "id": "80a0612e3cdb4f83ea2dd93f0cbdb3b2",
       "title": "Tiêu hủy bom MK-82 hơn 200kg sát biên giới Việt Nam - Lào",
@@ -151,6 +301,406 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T01:25:48.146518+07:00",
       "fetched": "2025-08-15T01:25:48.146746+07:00"
+    },
+    {
+      "id": "25d03ceab6b0a594f93d823e8bd6240a",
+      "title": "Đắk Lắk: Chìm tàu cá, 5 ngư dân được cứu kịp thời",
+      "link": "https://thanhnien.vn/dak-lak-chim-tau-ca-5-ngu-dan-duoc-cuu-kip-thoi-185250815073905716.htm",
+      "summary": "Tàu cá với 5 ngư dân  bị chìm trên vùng biển xã Ô Loan, Đắk Lắk (xã An Hòa Hải, H.Tuy An, Phú Yên cũ) đã được Bộ đội biên phòng Đắk Lắk kịp thời cứu giúp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:19:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290149+07:00"
+    },
+    {
+      "id": "d6ad8e7c503fc4b4455cd1c7ccb47e79",
+      "title": "Giá xăng dầu hôm nay 15.8.2025: Xăng RON95 về dưới mốc 20.000 đồng/lít",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1582025-xang-ron95-ve-duoi-moc-20000-dong-lit-185250815075200102.htm",
+      "summary": "Giá dầu thế giới bật tăng khoảng 2% sau khi về mức thấp nhất trong 2 tháng. Trong nước, giá xăng dầu vừa được điều chỉnh giảm đồng loạt, đưa giá xăng RON95 về dưới mốc 20.000 đồng/lít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:18:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290316+07:00"
+    },
+    {
+      "id": "65c949b43bc1067e48ef08ab054f3cd0",
+      "title": "Giá heo hơi hôm nay 15.8.2025: Tiếp tục giảm trên cả nước",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1582025-tiep-tuc-giam-tren-ca-nuoc-185250815074342427.htm",
+      "summary": "Giá heo hơi tiếp tục giảm trong bối cảnh dịch tả heo châu Phi chưa được khống chế, nhu cầu tiêu thụ giảm sút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:15:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290473+07:00"
+    },
+    {
+      "id": "aa6edc6fd511df67d9a3fd2af22445e7",
+      "title": "Lâm Đồng: Xã ‘trái tim’ KDL quốc gia Mũi Né quyết thắng trong thu ngân sách",
+      "link": "https://thanhnien.vn/lam-dong-xa-trai-tim-kdl-quoc-gia-mui-ne-quyet-thang-trong-thu-ngan-sach-185250815065001097.htm",
+      "summary": "Xã Hòa Thắng quyết tâm 'phải thắng, không hòa' trong thu ngân sách 2025, với loạt giải pháp mạnh để hoàn thành 166,4 tỉ đồng trong năm nay mà HĐND tỉnh Lâm Đồng giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:12:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290625+07:00"
+    },
+    {
+      "id": "633d1fe89221c71e7aaa42e354447dbc",
+      "title": "Loại quả có trong bếp không ngờ là 'vũ khí bí mật' chống ung thư",
+      "link": "https://thanhnien.vn/loai-qua-co-trong-bep-khong-ngo-la-vu-khi-bi-mat-chong-ung-thu-185250814223720697.htm",
+      "summary": "Cà chua chứa các hợp chất thực vật phytochemical - đặc biệt là lycopene - có thể giúp giảm nguy cơ phát triển ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:09:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290799+07:00"
+    },
+    {
+      "id": "9914c60e8dfe02d587e42e2d844d82c7",
+      "title": "California vận động thay đổi bản đồ bầu cử để ứng phó tính toán ở bang Texas",
+      "link": "https://thanhnien.vn/california-van-dong-thay-doi-ban-do-bau-cu-de-ung-pho-tinh-toan-o-bang-texas-185250815071407681.htm",
+      "summary": "Hôm 14.8, bang California của Mỹ công bố các kế hoạch sắp xếp lại các khu vực bầu cử quốc hội, nhằm đẩy lùi tính toán của đảng Cộng hòa và Tổng thống Donald Trump nhằm đảm bảo thế đa số mỏng manh của đảng Cộng hòa ở quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:03:00+07:00",
+      "fetched": "2025-08-15T08:22:34.290957+07:00"
+    },
+    {
+      "id": "4e7bff29ed38e72db3e7b96febe23620",
+      "title": "Đạo diễn Minh Khôi 'mát tay' với chương trình tìm kiếm thành viên VSTAR",
+      "link": "https://thanhnien.vn/dao-dien-minh-khoi-mat-tay-voi-chuong-trinh-tim-kiem-thanh-vien-vstar-185250814203547052.htm",
+      "summary": "Nhằm tìm kiếm những thí sinh tài năng và triển vọng thành lập nhóm nhạc nữ 5 thành viên mang tên VSTAR, đạo diễn Minh Khôi cùng ca sĩ Minh Trang Lyly đã liên tục casting trong 4 tháng vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291116+07:00"
+    },
+    {
+      "id": "5c619e6632e69dcb0f38c21c004caa54",
+      "title": "Độc đắc xổ số Lotto 5/35 vượt 12 tỉ đồng, người chơi mua vé chờ chia giải",
+      "link": "https://thanhnien.vn/doc-dac-xo-so-lotto-5-35-vuot-12-ti-dong-nguoi-choi-mua-ve-cho-chia-giai-185250814191148405.htm",
+      "summary": "Ngay từ tháng đầu tiên ra mắt, Lotto 5/35 – xổ số tự chọn mới của Vietlott đã thu hút sự quan tâm của đông đảo người chơi nhờ tần suất quay thưởng 2 lần mỗi ngày, đặc biệt với tính năng chia giải Độc đắc tại Việt Nam đã mang đến niềm vui cho hàng ngàn người chơi xổ số khi được nhận một phần giá trị ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291269+07:00"
+    },
+    {
+      "id": "fac8739f385c8f0fd6939efa968dc5a2",
+      "title": "30 năm LG Việt Nam và hành trình bền bỉ vì cộng đồng",
+      "link": "https://thanhnien.vn/30-nam-lg-viet-nam-va-hanh-trinh-ben-bi-vi-cong-dong-185250814185046693.htm",
+      "summary": "Từ giáo dục đến môi trường, từ y tế đến cộng đồng, LG đã bền bỉ vun đắp và triển khai hàng loạt sáng kiến bền vững, tạo ra thay đổi tích cực trong cuộc sống của người dân khắp cả nước suốt ba thập kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291422+07:00"
+    },
+    {
+      "id": "e8dc41311b9e75c1b5f51712398c27b8",
+      "title": "Brand Finance: Vinamilk vươn lên dẫn đầu thế giới về tiềm năng thương hiệu ngành sữa",
+      "link": "https://thanhnien.vn/brand-finance-vinamilk-vuon-len-dan-dau-the-gioi-ve-tiem-nang-thuong-hieu-nganh-sua-185250814173602643.htm",
+      "summary": "Vượt qua nhiều ông lớn quốc tế, Vinamilk được Brand Finance vinh danh là thương hiệu sữa tiềm năng nhất thế giới, với chỉ số sức mạnh thương hiệu ở mức xếp hạng cao nhất – xuất sắc vượt trội. Điều gì đã giúp thương hiệu này tạo nên kỳ tích?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291582+07:00"
+    },
+    {
+      "id": "a29987c84f3f718a3ad97e91796e03a3",
+      "title": "Ecopark cùng Edison xây dựng tổ hợp giáo dục liên cấp tại khu đô thị Eco Retreat",
+      "link": "https://thanhnien.vn/ecopark-cung-edison-xay-dung-to-hop-giao-duc-lien-cap-tai-khu-do-thi-eco-retreat-185250814163237803.htm",
+      "summary": "Tại khu đô thị Eco Retreat, nhà sáng lập Ecopark hợp tác với Hệ thống trường Phổ thông Liên cấp Edison sẽ đầu tư xây dựng tổ hợp giáo dục liên cấp đổi mới sáng tạo, phát triển năng lực làm việc toàn cầu với quy mô đào tạo mỗi năm lên tới 3.600 học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291751+07:00"
+    },
+    {
+      "id": "2f7a9449f662a7a86ed52c5b0596d957",
+      "title": "Tiêm vắc xin phòng viêm phổi, viêm màng não... do phế cầu ở trẻ em",
+      "link": "https://thanhnien.vn/tiem-vac-xin-phong-viem-phoi-viem-mang-nao-do-phe-cau-o-tre-em-18525081416051104.htm",
+      "summary": "Phế cầu là tác nhân hàng đầu gây viêm phổi, viêm màng não ở trẻ với khoảng 1 triệu ca tử vong trên thế giới mỗi năm hiện đã có các loại vắc xin phòng ngừa hiệu quả tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.291919+07:00"
+    },
+    {
+      "id": "3cce50d4198cbc7efa5844fe79c47589",
+      "title": "Máy đo đường huyết 3P FPT ra mắt tính năng cảnh báo dữ liệu bất thường",
+      "link": "https://thanhnien.vn/may-do-duong-huyet-3p-fpt-ra-mat-tinh-nang-canh-bao-du-lieu-bat-thuong-185250814153845977.htm",
+      "summary": "Máy đo đường huyết liên tục 3P của FPT vừa được bổ sung tính năng phát hiện và cảnh báo các giá trị bất thường trong quá trình đo. Hệ thống có khả năng nhận diện những biến động đột ngột hoặc đảo chiều giữa các lần đo gần nhau, thường xuất phát từ việc cảm biến bị chèn ép, thao tác chưa chuẩn hoặc n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.292073+07:00"
+    },
+    {
+      "id": "6a84562c9b1b5690d6dc361444530bc4",
+      "title": "Brodard chính thức khai trương mùa bánh Trung thu 2025",
+      "link": "https://thanhnien.vn/brodard-chinh-thuc-khai-truong-mua-banh-trung-thu-2025-185250814144127303.htm",
+      "summary": "Dịp Trung thu năm nay, thương hiệu bánh lâu đời Brodard chính thức ra mắt bộ sưu tập bánh Trung thu 2025 với chủ đề ‘Sắc Thiên Nhiên - Hương Đoàn Viên’, tôn vinh vẻ đẹp giao hòa giữa thiên nhiên khoáng đạt và không khí sum vầy ấm áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.292223+07:00"
+    },
+    {
+      "id": "9a5836aeb36ec7c0bcf98632962c6eea",
+      "title": "Váy midi tuy đơn giản nhưng lại đẹp xuất sắc, đáng sắm nhất mùa này",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-midi-tuy-don-gian-nhung-lai-dep-xuat-sac-dang-sam-nhat-mua-nay-185250813130529992.htm",
+      "summary": "Váy midi chưa khi nào rời khỏi danh sách yêu thích của các tín đồ thời trang. Mùa thu năm nay, các thiết kế midi mang đến vẻ ngoài tinh giản, trang nhã nhưng vô cùng cuốn hút nhờ vào các yếu tố đặc sắc đến từ bảng màu, họa tiết, chi tiết và đường cắt sắc sảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:00:00+07:00",
+      "fetched": "2025-08-15T08:22:34.292371+07:00"
+    },
+    {
+      "id": "71443d8d4c584d18d3223be5ab9f9389",
+      "title": "Mỹ treo thưởng 10 triệu USD để bắt trùm ma túy Mexico",
+      "link": "https://vnexpress.net/my-treo-thuong-10-trieu-usd-de-bat-trum-ma-tuy-mexico-4927090.html",
+      "summary": "Mỹ treo thưởng 10 triệu USD cho người cung cấp thông tin giúp giới chức bắt Juan Jose Farias Alvarez, trùm băng đảng ma túy Mexico Carteles Unidos.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T00:52:32+07:00",
+      "fetched": "2025-08-15T08:22:37.000737+07:00"
+    },
+    {
+      "id": "b871f7b5e285ff8c796d4013c2d1ab94",
+      "title": "Điểm tin 6h: Giá vàng SJC neo cao trước thềm công bố lạm phát Mỹ | Tổng thống Mỹ nói ông Putin sẽ đạt thỏa thuận về Ukraine",
+      "link": "https://vnexpress.net/diem-tin-6h-gia-vang-sjc-neo-cao-truoc-them-cong-bo-lam-phat-my-tong-thong-my-noi-ong-putin-se-dat-thoa-thuan-ve-ukraine-4927080.html",
+      "summary": "Ba cựu công an ra tòa vì 'tha' 4 người dùng ma túy trong quán karaoke; Giá vàng SJC neo cao trước thềm công bố lạm phát Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:10:28+07:00",
+      "fetched": "2025-08-15T08:22:30.885137+07:00"
+    },
+    {
+      "id": "9d04c9177a68a4f1f010a21b81c38ae1",
+      "title": "Ông Trump tuyên bố 'sẽ không bị qua mặt' khi gặp ông Putin",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-khong-bi-qua-mat-khi-gap-ong-putin-4927070.html",
+      "summary": "Tổng thống Trump khẳng định sẽ không bị qua mặt khi gặp người đồng cấp Nga, để ngỏ khả năng hội nghị thượng đỉnh sẽ thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:10:16+07:00",
+      "fetched": "2025-08-15T08:22:30.885318+07:00"
+    },
+    {
+      "id": "9d04c9177a68a4f1f010a21b81c38ae1",
+      "title": "Ông Trump tuyên bố 'sẽ không bị qua mặt' khi gặp ông Putin",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-khong-bi-qua-mat-khi-gap-ong-putin-4927070.html",
+      "summary": "Tổng thống Trump khẳng định sẽ không bị qua mặt khi gặp người đồng cấp Nga, để ngỏ khả năng hội nghị thượng đỉnh sẽ thất bại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T00:10:16+07:00",
+      "fetched": "2025-08-15T08:22:37.000917+07:00"
+    },
+    {
+      "id": "b64cc23c6927ec70b4d3a8dfb9b13205",
+      "title": "Người 14 năm tình nguyện tìm đồ thất lạc cho du khách ở Đà Nẵng",
+      "link": "https://vnexpress.net/nguoi-14-nam-tinh-nguyen-tim-do-that-lac-cho-du-khach-o-da-nang-4922165.html",
+      "summary": "Phan Thanh Trinh, 41 tuổi, tình nguyện tìm đồ thất lạc cho khách suốt 14 năm qua tại Đà Nẵng, lan tỏa những điều tốt đẹp ở thành phố đáng sống nhất Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:10:00+07:00",
+      "fetched": "2025-08-15T08:22:30.885491+07:00"
+    },
+    {
+      "id": "4b1ff68bbdf04260eac10c087996bb94",
+      "title": "Áp dụng cơ chế đặc thù xây dựng sân bay Gia Bình",
+      "link": "https://vnexpress.net/ap-dung-co-che-dac-thu-xay-dung-san-bay-gia-binh-4927047.html",
+      "summary": "Chính phủ vừa ban hành Nghị quyết về cơ chế, chính sách đặc thù đầu tư xây dựng Cảng hàng không quốc tế Gia Bình với thủ tục đầu tư và xây dựng rút gọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:00:00+07:00",
+      "fetched": "2025-08-15T08:22:30.885654+07:00"
+    },
+    {
+      "id": "d100636458e3c34ed3908654fe814f1c",
+      "title": "6 dấu hiệu cảnh báo gan 'kêu cứu'",
+      "link": "https://vnexpress.net/6-dau-hieu-canh-bao-gan-keu-cuu-4926943.html",
+      "summary": "Các vấn đề về gan có thể biểu hiện triệu chứng như vàng da, ngứa da, đau bụng trên bên phải và chán ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:00:00+07:00",
+      "fetched": "2025-08-15T08:22:30.885834+07:00"
+    },
+    {
+      "id": "5ff970bdeb7ff5a25aaca417626f51e9",
+      "title": "Kun Marathon Nha Trang mở đăng ký 1.000 suất miễn phí chiều nay",
+      "link": "https://vnexpress.net/kun-marathon-nha-trang-mo-dang-ky-4926912.html",
+      "summary": "Cổng đăng ký Kun Marathon Nha Trang 2025 sẽ mở từ 15h hôm nay, dành 1.000 suất miễn phí cho trẻ từ 6-10 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T00:00:00+07:00",
+      "fetched": "2025-08-15T08:22:30.885991+07:00"
+    },
+    {
+      "id": "428ddbac3787cec3b108ead0ddc77d74",
+      "title": "Liên tiếp phát hiện trạm BTS giả gửi tin nhắn lừa đảo",
+      "link": "https://vnexpress.net/lien-tiep-phat-hien-tram-bts-gia-gui-tin-nhan-lua-dao-4927043.html",
+      "summary": "Trong một tuần, Cục Tần số vô tuyến điện phát hiện hai vụ dùng trạm BTS giả, phát tán tin nhắn lừa vi phạm giao thông hoặc nhận hàng chuyển phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:51:32+07:00",
+      "fetched": "2025-08-15T08:22:30.886151+07:00"
+    },
+    {
+      "id": "428ddbac3787cec3b108ead0ddc77d74",
+      "title": "Liên tiếp phát hiện trạm BTS giả gửi tin nhắn lừa đảo",
+      "link": "https://vnexpress.net/lien-tiep-phat-hien-tram-bts-gia-gui-tin-nhan-lua-dao-4927043.html",
+      "summary": "Trong một tuần, Cục Tần số vô tuyến điện phát hiện hai vụ dùng trạm BTS giả, phát tán tin nhắn lừa vi phạm giao thông hoặc nhận hàng chuyển phát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-14T23:51:32+07:00",
+      "fetched": "2025-08-15T08:22:40.998797+07:00"
+    },
+    {
+      "id": "6afa9988d5601e774a1138b39b6c72df",
+      "title": "Việt Nam, Trung Quốc sẽ đẩy mạnh hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-trung-quoc-se-day-manh-hop-tac-khoa-hoc-cong-nghe-4927062.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn và Ngoại trưởng Vương Nghị hội đàm tại Vân Nam, khẳng định Việt Nam và Trung Quốc sẽ thúc đẩy hợp tác KHCN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:49:51+07:00",
+      "fetched": "2025-08-15T08:22:30.886310+07:00"
+    },
+    {
+      "id": "6afa9988d5601e774a1138b39b6c72df",
+      "title": "Việt Nam, Trung Quốc sẽ đẩy mạnh hợp tác khoa học công nghệ",
+      "link": "https://vnexpress.net/viet-nam-trung-quoc-se-day-manh-hop-tac-khoa-hoc-cong-nghe-4927062.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn và Ngoại trưởng Vương Nghị hội đàm tại Vân Nam, khẳng định Việt Nam và Trung Quốc sẽ thúc đẩy hợp tác KHCN.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T23:49:51+07:00",
+      "fetched": "2025-08-15T08:22:37.001083+07:00"
+    },
+    {
+      "id": "6445b7ba90676950cb46673dc2660ad7",
+      "title": "Đóng viện phí cho người lạ",
+      "link": "https://vnexpress.net/dong-vien-phi-cho-nguoi-la-4926096.html",
+      "summary": "Đầu tháng 8, Kiều Trang, 26 tuổi, mang hơn 30 triệu đồng đến Bệnh viện Nhi Trung ương (Hà Nội) để đóng viện phí cho 10 đứa trẻ không quen biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:29:00+07:00",
+      "fetched": "2025-08-15T08:22:30.886473+07:00"
+    },
+    {
+      "id": "baac8260106fcc0e2e68f77993930a5f",
+      "title": "Cựu sao Trung Quốc đề xuất thay đổi sau vụ U21 bóng chuyền Việt Nam",
+      "link": "https://vnexpress.net/cuu-sao-trung-quoc-de-xuat-thay-doi-sau-vu-u21-bong-chuyen-viet-nam-4927049.html",
+      "summary": "Cựu đội trưởng Hứa Nhược Kỳ, từng giành HC vàng Olympic, cho rằng vụ việc ở giải U21 nữ thế giới đặt ra thách thức phải thay đổi với Liên đoàn bóng chuyền thế giới (FIVB).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:25:46+07:00",
+      "fetched": "2025-08-15T08:22:30.886638+07:00"
+    },
+    {
+      "id": "baac8260106fcc0e2e68f77993930a5f",
+      "title": "Cựu sao Trung Quốc đề xuất thay đổi sau vụ U21 bóng chuyền Việt Nam",
+      "link": "https://vnexpress.net/cuu-sao-trung-quoc-de-xuat-thay-doi-sau-vu-u21-bong-chuyen-viet-nam-4927049.html",
+      "summary": "Cựu đội trưởng Hứa Nhược Kỳ, từng giành HC vàng Olympic, cho rằng vụ việc ở giải U21 nữ thế giới đặt ra thách thức phải thay đổi với Liên đoàn bóng chuyền thế giới (FIVB).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T23:25:46+07:00",
+      "fetched": "2025-08-15T08:22:42.800514+07:00"
+    },
+    {
+      "id": "b08cfad094455a28ce60aab6839ff571",
+      "title": "10 ứng viên Vua phá lưới Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-ung-vien-vua-pha-luoi-ngoai-hang-anh-4926072.html",
+      "summary": "Ba tân binh Benjamin Sesko (Man Utd), Hugo Ekitike (Liverpool) và Viktor Gyokeres (Arsenal) đều được đánh giá cao về khả năng lên ngôi, dù chưa bao giờ chơi tại Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:16:32+07:00",
+      "fetched": "2025-08-15T08:22:30.886817+07:00"
+    },
+    {
+      "id": "b08cfad094455a28ce60aab6839ff571",
+      "title": "10 ứng viên Vua phá lưới Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-ung-vien-vua-pha-luoi-ngoai-hang-anh-4926072.html",
+      "summary": "Ba tân binh Benjamin Sesko (Man Utd), Hugo Ekitike (Liverpool) và Viktor Gyokeres (Arsenal) đều được đánh giá cao về khả năng lên ngôi, dù chưa bao giờ chơi tại Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T23:16:32+07:00",
+      "fetched": "2025-08-15T08:22:42.800705+07:00"
+    },
+    {
+      "id": "739df8f3f060b095a6b5b22a7366c7e3",
+      "title": "Điểm tin 6h: Giá vàng SJC neo cao trước thềm công bố lạm phát Mỹ | Tổng thống Mỹ nói ông Putin sẽ đạt thỏa thuận về Ukraine",
+      "link": "https://vnexpress.net/diem-tin-6h-gia-vang-sjc-neo-cao-truoc-them-cong-bo-lam-phat-my-tong-thong-my-noi-ong-putin-se-dat-thoa-thuan-ve-ukraine-4927071.html",
+      "summary": "Ba cựu công an ra tòa vì 'tha' 4 người dùng ma túy trong quán karaoke; Giá vàng SJC neo cao trước thềm công bố lạm phát Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:03:55+07:00",
+      "fetched": "2025-08-15T08:22:30.886972+07:00"
+    },
+    {
+      "id": "230de1b208e55f98bfbc039b91e632db",
+      "title": "Hà Nội có 43 trường học mới",
+      "link": "https://vnexpress.net/ha-noi-co-43-truong-hoc-moi-4927030.html",
+      "summary": "43 trường học mới được xây dựng, dự kiến đón học sinh vào tháng 9, hầu hết ở bậc mầm non, tiểu học, chỉ ba trường THPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:02:56+07:00",
+      "fetched": "2025-08-15T08:22:30.887129+07:00"
+    },
+    {
+      "id": "d7845d0cc3733ce7208bdd41e7ba6e92",
+      "title": "'Mộng hoa lục' - chuyện phụ nữ thời Tống qua vở opera",
+      "link": "https://vnexpress.net/mong-hoa-luc-chuyen-phu-nu-thoi-tong-qua-vo-opera-4925893.html",
+      "summary": "\"Mộng hoa lục\" gây tiếng vang khi kể chuyện lập nghiệp của phụ nữ thời Tống bằng nghệ thuật cổ truyền kết hợp opera.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:00:04+07:00",
+      "fetched": "2025-08-15T08:22:30.887281+07:00"
+    },
+    {
+      "id": "3dddcdcc28aa43af8e0a61649b8eca87",
+      "title": "65 tỷ đồng ủng hộ nhân dân Cuba sau 30 giờ phát động",
+      "link": "https://vnexpress.net/65-ty-dong-ung-ho-nhan-dan-cuba-sau-30-gio-phat-dong-4927058.html",
+      "summary": "Chương trình vận động ủng hộ nhân dân Cuba đã đạt mục tiêu tối thiểu 65 tỷ đồng sau 30 giờ phát động và đang tiếp tục tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T23:00:00+07:00",
+      "fetched": "2025-08-15T08:22:30.887437+07:00"
+    },
+    {
+      "id": "d464ff30f5bf9aa40ea0f8ea652314af",
+      "title": "Michael Phelps không chắc con trai nối nghiệp vì 'hệ thống yếu kém' của Mỹ",
+      "link": "https://vnexpress.net/michael-phelps-khong-chac-con-trai-noi-nghiep-vi-he-thong-yeu-kem-cua-my-4927065.html",
+      "summary": "Huyền thoại Michael Phelps công khai chỉ trích ban lãnh đạo Liên đoàn Bơi Mỹ yếu kém và kêu gọi cải tổ toàn diện sau nhiều năm sa sút về hệ thống",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T22:41:56+07:00",
+      "fetched": "2025-08-15T08:22:42.801039+07:00"
+    },
+    {
+      "id": "b2ded82650cf5cd020809e94ff79c888",
+      "title": "Tony Adams: 'Arsenal khó vô địch nếu Odegaard còn làm đội trưởng'",
+      "link": "https://vnexpress.net/tony-adams-arsenal-kho-vo-dich-neu-odegaard-con-lam-doi-truong-4927032.html",
+      "summary": "Theo cựu thủ quân huyền thoại Tony Adams, HLV Mikel Arteta phải để Declan Rice thay Martin Odegaard làm đội trưởng, nếu muốn Arsenal đăng quang ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T22:29:30+07:00",
+      "fetched": "2025-08-15T08:22:42.801199+07:00"
+    },
+    {
+      "id": "15aafad4cef2e2696e5039124fa23df6",
+      "title": "UFC sẽ dựng lồng bát giác tại Nhà Trắng",
+      "link": "https://vnexpress.net/ufc-se-dung-long-bat-giac-tai-nha-trang-4927042.html",
+      "summary": "Dana White, Giám đốc điều hành UFC, đã xác nhận sự kiện võ thuật đối kháng lớn nhất thế giới sẽ diễn ra ngay tại bãi cỏ phía Nam Nhà Trắng vào ngày 4/7/2026, nhân dịp kỷ niệm 250 năm ngày độc lập của Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T22:24:57+07:00",
+      "fetched": "2025-08-15T08:22:42.801514+07:00"
+    },
+    {
+      "id": "235e34c778171f0c323b4a8327e6d95c",
+      "title": "Ronaldo tặng quà xa xỉ dịp đính hôn",
+      "link": "https://vnexpress.net/ronaldo-tang-qua-xa-xi-dip-dinh-hon-4927066.html",
+      "summary": "Sau khi cầu hôn bằng chiếc nhẫn kim cương đắt giá, Cristiano Ronaldo mua loạt quà tặng gồm xe Porsche điện, đồng hồ xa xỉ và túi hiệu cho Georgina Rodriguez.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T22:17:36+07:00",
+      "fetched": "2025-08-15T08:22:42.801358+07:00"
     },
     {
       "id": "98a62c4f0e03f4ba8d2560b367c8e67a",
