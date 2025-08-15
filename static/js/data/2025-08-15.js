@@ -1,7 +1,157 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T13:26:51.494472+07:00",
+  "lastUpdated": "2025-08-15T15:23:06.949846+07:00",
   "articles": [
+    {
+      "id": "512a83883a248272b8ca525e56d45c4c",
+      "title": "'Nghề tay trái' gắn với Tuổi Trẻ giúp tôi vượt qua những năm tháng khó khăn",
+      "link": "https://tuoitre.vn/nghe-tay-trai-gan-voi-tuoi-tre-giup-toi-vuot-qua-nhung-nam-thang-kho-khan-20250813104243117.htm",
+      "summary": "Ấn tượng của tôi với Tuổi Trẻ là sự trân trọng, hướng về bạn đọc, là văn phong và xác định rõ đối tượng 'khách hàng' của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.849055+07:00",
+      "fetched": "2025-08-15T15:22:57.849187+07:00"
+    },
+    {
+      "id": "8a53d79f097e681f8c0ddbb81e5131d5",
+      "title": "Gà lôi trắng dễ nuôi, dễ nhân giống, vì sao phải đưa vào danh mục nguy cấp?",
+      "link": "https://tuoitre.vn/ga-loi-trang-de-nuoi-de-nhan-giong-vi-sao-phai-dua-vao-danh-muc-nguy-cap-20250815140222804.htm",
+      "summary": "Gà lôi trắng đã được gây nuôi thành công trong điều kiện nuôi nhốt tại một số cơ sở nuôi. Tuy nhiên việc gây nuôi thành công chưa phải là lý do để đưa loài này ra khỏi danh mục loài nguy cấp, quý, hiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848933+07:00",
+      "fetched": "2025-08-15T15:22:57.849044+07:00"
+    },
+    {
+      "id": "b764bd3b54fe28105bfa90203c29db59",
+      "title": "Da Nang Downtown có tòa tháp 70 tầng, quy mô 79.790 tỉ khởi công ngày 19-8",
+      "link": "https://tuoitre.vn/da-nang-downtown-co-toa-thap-70-tang-quy-mo-79-790-ti-khoi-cong-ngay-19-8-20250815142758272.htm",
+      "summary": "Ngày 19-8, Đà Nẵng sẽ khởi công dự án khu thương mại dịch vụ kết hợp công viên vui chơi giải trí Da Nang Downtown, với điểm nhấn là tòa tháp cao 70 tầng - công trình cao nhất miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848809+07:00",
+      "fetched": "2025-08-15T15:22:57.848922+07:00"
+    },
+    {
+      "id": "cf783d26b1017bee33c5a192d5c50aae",
+      "title": "Nam công nhân mất tích khi bơi trên sông Ba",
+      "link": "https://tuoitre.vn/nam-cong-nhan-mat-tich-khi-boi-tren-song-ba-20250815140735148.htm",
+      "summary": "Lực lượng chức năng đang tìm kiếm nam công nhân bơi trên sông Ba (phường Tuy Hòa, Đắk Lắk) bị mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848684+07:00",
+      "fetched": "2025-08-15T15:22:57.848798+07:00"
+    },
+    {
+      "id": "326e89a073140f49c97b22cb20638a31",
+      "title": "Chủ tịch Duma Quốc gia Nga thăm Triều Tiên, mang theo thư ông Putin gửi ông Kim",
+      "link": "https://tuoitre.vn/chu-tich-duma-quoc-gia-nga-tham-trieu-tien-mang-theo-thu-ong-putin-gui-ong-kim-20250815135315833.htm",
+      "summary": "Chủ tịch Duma Quốc gia Nga Vyacheslav Volodin đến thăm Triều Tiên và hội đàm với nhà lãnh đạo Kim Jong Un.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848554+07:00",
+      "fetched": "2025-08-15T15:22:57.848672+07:00"
+    },
+    {
+      "id": "a2dae872d1922f0012fc910276df7e65",
+      "title": "Tuyển futsal Việt Nam gọi hai nhân tố mới đấu Trung Quốc",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-goi-hai-nhan-to-moi-dau-trung-quoc-20250815143246816.htm",
+      "summary": "Đội tuyển futsal Việt Nam đã triệu tập hai nhân tố mới để chuẩn bị cho vòng loại Giải futsal châu Á 2026 vào tháng 9 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848429+07:00",
+      "fetched": "2025-08-15T15:22:57.848543+07:00"
+    },
+    {
+      "id": "c0952e48d39999c1fe6138e48f4b14e2",
+      "title": "TP.HCM khen thưởng hơn 900 học sinh giỏi và giáo viên giỏi",
+      "link": "https://tuoitre.vn/tp-hcm-khen-thuong-hon-900-hoc-sinh-gioi-va-giao-vien-gioi-20250815141028869.htm",
+      "summary": "Ngày 15-8, Sở Giáo dục và Đào tạo TP.HCM đã tổ chức lễ tuyên dương, khen thưởng học sinh giỏi các cấp năm học 2024-2025. Dịp này, chủ tịch UBND TP đã tặng bằng khen cho 929 giáo viên và học sinh giỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848298+07:00",
+      "fetched": "2025-08-15T15:22:57.848417+07:00"
+    },
+    {
+      "id": "c91082955e38a97836a1ce89ad5521cf",
+      "title": "Sở Xây dựng Hà Nội đề nghị các xã, phường rà soát các vị trí để làm trạm sạc xe điện",
+      "link": "https://tuoitre.vn/so-xay-dung-ha-noi-de-nghi-cac-xa-phuong-ra-soat-cac-vi-tri-de-lam-tram-sac-xe-dien-20250815135526909.htm",
+      "summary": "Sở Xây dựng Hà Nội vừa có văn bản gửi toàn bộ 126 xã, phường phối hợp rà soát quỹ đất để lắp đặt trạm sạc cho phương tiện sử dụng năng lượng sạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848167+07:00",
+      "fetched": "2025-08-15T15:22:57.848286+07:00"
+    },
+    {
+      "id": "af8866c07802d4c5fcd2b0bd4276a671",
+      "title": "Điều kiện để đổi thẻ căn cước trên VNeID do sắp xếp, điều chỉnh đơn vị hành chính",
+      "link": "https://tuoitre.vn/dieu-kien-de-doi-the-can-cuoc-tren-vneid-do-sap-xep-dieu-chinh-don-vi-hanh-chinh-20250815142451537.htm",
+      "summary": "Người dân có thể đổi thẻ căn cước khi thay đổi địa giới hành chính trên ứng dụng VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.848014+07:00",
+      "fetched": "2025-08-15T15:22:57.848154+07:00"
+    },
+    {
+      "id": "602486121e72faa184c5673a011b8353",
+      "title": "Phim châm biếm về 'thịt người ăn được' gây hiểu nhầm trên mạng",
+      "link": "https://tuoitre.vn/phim-cham-biem-ve-thit-nguoi-an-duoc-gay-hieu-nham-tren-mang-20250815134851148.htm",
+      "summary": "Một video châm biếm cho thấy cựu MC MasterChef Gregg Wallace thăm “nhà máy thịt người” đang lan truyền trên mạng, khiến nhiều người tưởng thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847880+07:00",
+      "fetched": "2025-08-15T15:22:57.847992+07:00"
+    },
+    {
+      "id": "341e8046cb5c862c669d59a975ad2e48",
+      "title": "Phát động cuộc thi 'Bản sắc': Viết tiếp câu chuyện vẻ vang của dân tộc bằng ngôn ngữ của thời đại số",
+      "link": "https://tuoitre.vn/phat-dong-cuoc-thi-ban-sac-viet-tiep-cau-chuyen-ve-vang-cua-dan-toc-bang-ngon-ngu-cua-thoi-dai-so-20250815140632436.htm",
+      "summary": "Sáng 15-8, Bộ Văn hóa, Thể thao và Du lịch tổ chức họp báo và phát động cuộc thi 'Bản sắc', tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847752+07:00",
+      "fetched": "2025-08-15T15:22:57.847868+07:00"
+    },
+    {
+      "id": "13eb515364252e66891616a49d4f17d2",
+      "title": "Chế tạo áo khoác tự điều chỉnh độ dày theo thời tiết nóng, lạnh",
+      "link": "https://tuoitre.vn/che-tao-ao-khoac-tu-dieu-chinh-do-day-theo-thoi-tiet-nong-lanh-20250815114602426.htm",
+      "summary": "Các nhà khoa học Trung Quốc đã phát triển một áo khoác có khả năng tự điều chỉnh dày mỏng dựa trên độ ẩm, tạo cảm giác thoải mái cho người mặc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847622+07:00",
+      "fetched": "2025-08-15T15:22:57.847740+07:00"
+    },
+    {
+      "id": "e5433983b1cfcdad172d9764f049305c",
+      "title": "Premier League 2025-2026 khởi tranh: Liverpool đấu Bournemouth",
+      "link": "https://tuoitre.vn/premier-league-2025-2026-khoi-tranh-liverpool-dau-bournemouth-20250815143402292.htm",
+      "summary": "Vào 2h rạng sáng mai 16-8, trận đấu mở màn Premier League 2025-2026 sẽ chính thức khởi tranh giữa Liverpool và Bournemouth.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847488+07:00",
+      "fetched": "2025-08-15T15:22:57.847610+07:00"
+    },
+    {
+      "id": "d484126de7d983212ac78f8085ef9d2f",
+      "title": "Bamboo Airways hỗ trợ hành khách khi chuyển sang ga T3 Tân Sơn Nhất",
+      "link": "https://tuoitre.vn/bamboo-airways-ho-tro-hanh-khach-khi-chuyen-sang-ga-t3-tan-son-nhat-20250814113058714.htm",
+      "summary": "Bamboo Airways đã xây dựng chính sách hỗ trợ đặc biệt cho các hành khách có chuyến bay đến/đi từ sân bay Tân Sơn Nhất trong tuần đầu tiên hãng chuyển đổi nhà ga khai thác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847346+07:00",
+      "fetched": "2025-08-15T15:22:57.847475+07:00"
+    },
+    {
+      "id": "2bf93065ee1ed9138e95c7b0c90d41a0",
+      "title": "Epson và Limloop mở điểm hẹn sống xanh với ‘Trạm tái sinh’",
+      "link": "https://tuoitre.vn/epson-va-limloop-mo-diem-hen-song-xanh-voi-tram-tai-sinh-20250815115824425.htm",
+      "summary": "Epson Việt Nam công bố triển khai chiến dịch ‘Giảm thiểu rác thải nhựa 2025’, hợp tác cùng doanh nghiệp tạo tác động xã hội chuyên tái chế rác thải Limloop và trung tâm thương mại Thiso Mall.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T15:22:57.847117+07:00",
+      "fetched": "2025-08-15T15:22:57.847330+07:00"
+    },
     {
       "id": "25e18ed9b7fe1c232cd9ef9a92182e6e",
       "title": "Bóng chuyền Việt Nam: 'Trong cái khó ló cái khôn'",
@@ -553,6 +703,386 @@ window.newsData_2025_08_15 = {
       "fetched": "2025-08-15T08:22:35.407819+07:00"
     },
     {
+      "id": "e66a6596b3535763f15a549bca75bb7b",
+      "title": "Trung Quốc cáo buộc Philippines vụ va chạm của 2 tàu trên Biển Đông, Manila phản bác",
+      "link": "https://thanhnien.vn/trung-quoc-cao-buoc-philippines-vu-va-cham-cua-2-tau-tren-bien-dong-manila-phan-bac-185250815151723939.htm",
+      "summary": "Trung Quốc cáo buộc tàu Philippines đã di chuyển nguy hiểm dẫn đến vụ va chạm của hai tàu Trung Quốc trên Biển Đông, nhưng Manila nhanh chóng bác bỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:21:00+07:00",
+      "fetched": "2025-08-15T15:22:56.721708+07:00"
+    },
+    {
+      "id": "44e1129bed606264127b70498ccf7155",
+      "title": "Một trường quy đổi điểm chuẩn 2 phương thức lệch nhau hơn 3 điểm cùng ngành",
+      "link": "https://thanhnien.vn/mot-truong-quy-doi-diem-chuan-2-phuong-thuc-lech-nhau-hon-3-diem-cung-nganh-18525081514481425.htm",
+      "summary": "Công thức quy đổi điểm trúng tuyển một trường ĐH tại TP.HCM cho thấy, có ngành điểm chuẩn 2 phương thức lệch nhau hơn 3 điểm ở cùng một ngành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:21:00+07:00",
+      "fetched": "2025-08-15T15:22:56.721878+07:00"
+    },
+    {
+      "id": "d927a3a842e9bd4da63a355f81ed4ff3",
+      "title": "Phòng khám đa khoa Tháng Tám TP.HCM lại tái diễn chiêu trò 'vẽ bệnh, moi tiền'",
+      "link": "https://thanhnien.vn/phong-kham-da-khoa-thang-tam-tphcm-lai-tai-dien-chieu-tro-ve-benh-moi-tien-185250815144920619.htm",
+      "summary": "Sở Y tế TP.HCM kiến nghị cần tước giấy phép hoạt động, đình chỉ hành nghề vĩnh viễn đối với phòng khám, bác sĩ có hành vi \"vẽ bệnh, moi tiền'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:20:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722041+07:00"
+    },
+    {
+      "id": "4ea1bc7fc7db8de7d34154ea026bc6ce",
+      "title": "Sony ra mắt máy ảnh compact RX1R III với bộ xử lý AI",
+      "link": "https://thanhnien.vn/sony-ra-mat-may-anh-compact-rx1r-iii-voi-bo-xu-ly-ai-185250815142027631.htm",
+      "summary": "Sony vừa chính thức giới thiệu RX1R III - thế hệ thứ ba của dòng RX1R lừng danh, sở hữu cảm biến full-frame 61 megapixel Exmor R CMOS chiếu sáng sau, bộ xử lý hình ảnh BIONZ XR mới nhất và ống kính ZEISS Sonnar T 35mm F2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:20:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722220+07:00"
+    },
+    {
+      "id": "d07eb4d1e21e06fb6d2ac8eec596f3d3",
+      "title": "Những đòn bẩy ông Trump có thể đưa ra với Nga tại Alaska",
+      "link": "https://vnexpress.net/nhung-don-bay-ong-trump-co-the-dua-ra-voi-nga-tai-alaska-4927210.html",
+      "summary": "Tổng thống Trump có thể mang đến bàn đàm phán với Tổng thống Putin loạt đề xuất kinh tế làm đòn bẩy tan băng quan hệ và hướng tới chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T08:18:36+07:00",
+      "fetched": "2025-08-15T15:22:59.693710+07:00"
+    },
+    {
+      "id": "14bf8f8bc8670107080765a65ea58640",
+      "title": "Đà Nẵng: Bắt nóng nghi phạm cướp giật túi xách du khách Hàn Quốc",
+      "link": "https://thanhnien.vn/da-nang-bat-nong-nghi-pham-cuop-giat-tui-xach-du-khach-han-quoc-185250815145559903.htm",
+      "summary": "Chưa đầy 4 giờ sau vụ cướp giật túi xách của du khách Hàn Quốc, Công an P.An Hải (TP.Đà Nẵng) đã bắt giữ nghi phạm, thu hồi tang vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:18:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722378+07:00"
+    },
+    {
+      "id": "8e84f717bb63457bc85bd07a6b3cdaf3",
+      "title": "iOS 26 giúp iPhone cũ chạy 'nhanh như mới'",
+      "link": "https://thanhnien.vn/ios-26-giup-iphone-cu-chay-nhanh-nhu-moi-185250815104140559.htm",
+      "summary": "Apple một lần nữa khẳng định vị thế trong ngành công nghệ với bản cập nhật iOS 26 khi thổi làn gió mới đến các thiết bị cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:16:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722532+07:00"
+    },
+    {
+      "id": "42e73132c5d5f06263c7d251fca9402c",
+      "title": "Con dâu hạnh phúc với những món quà quê từ nhà chồng",
+      "link": "https://thanhnien.vn/con-dau-hanh-phuc-voi-nhung-mon-qua-que-tu-nha-chong-185250814214644795.htm",
+      "summary": "Nhận những món quà quê ngon, sạch, nàng dâu không khỏi xúc động và thầm biết ơn khi được gia đình chồng yêu thương. Điều đó là minh chứng cho mối quan hệ mẹ chồng và nàng dâu cũng rất hòa thuận, hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:11:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722684+07:00"
+    },
+    {
+      "id": "68d63093d48e40918bffa6f600834ee0",
+      "title": "10 ô tô bán chạy nhất Việt Nam tháng 7.2025: Xe điện VinFast áp đảo",
+      "link": "https://thanhnien.vn/10-o-to-ban-chay-nhat-viet-nam-thang-72025-xe-dien-vinfast-ap-dao-18525081512030863.htm",
+      "summary": "VinFast có tới 3 cái tên góp mặt trong top 10 ô tô bán chạy nhất Việt Nam tháng 7.2025, trong đó VinFast VF 3, VF 5 chiếm hai vị trí dẫn đầu bất chấp lượng xe bán ra giảm so với tháng trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:06:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722839+07:00"
+    },
+    {
+      "id": "c5a62d76aa17d984e5069444cff5e92c",
+      "title": "Trưởng ban Tuyên giáo và Dân vận cũ làm Bí thư Đảng ủy phường Phú Mỹ",
+      "link": "https://thanhnien.vn/truong-ban-tuyen-giao-va-dan-van-cu-lam-bi-thu-dang-uy-phuong-phu-my-185250815121526508.htm",
+      "summary": "Ông Bùi Chí Thành, Trưởng ban Tuyên giáo và Dân vận tỉnh Bà Rịa - Vũng Tàu cũ được chỉ định làm Bí thư Đảng ủy phường Phú Mỹ, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:04:00+07:00",
+      "fetched": "2025-08-15T15:22:56.722990+07:00"
+    },
+    {
+      "id": "bb772e66648fef9f30383707865d7620",
+      "title": "Đà Nẵng: Xác minh vụ phụ xe ngồi giữa QL1 chặn đường gây hỗn loạn",
+      "link": "https://thanhnien.vn/da-nang-xac-minh-vu-phu-xe-ngoi-giua-ql1-chan-duong-gay-hon-loan-185250815144004572.htm",
+      "summary": "Công an TP.Đà Nẵng vào cuộc xác minh vụ phụ xe khách ngồi giữa QL1 chặn xe, gây ùn ứ và mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T08:03:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723164+07:00"
+    },
+    {
+      "id": "74c561c65d900f8b8d3efd42cf8062df",
+      "title": "Bé Ma Mọt Sách ‘đại náo’ tháng 8 với mùa săn deal cực nóng",
+      "link": "https://thanhnien.vn/be-ma-mot-sach-dai-nao-thang-8-voi-mua-san-deal-cuc-nong-185250815145814565.htm",
+      "summary": "Tháng 8 này, cộng đồng yêu sách lại có dịp 'dậy sóng' khi Bé Ma Mọt Sách của Vanlangbooks chính thức trở lại. Bé Ma bước vào 'mùa dzựt deal' với hàng loạt ưu đãi khiến mọi tín đồ đọc sách khó lòng bỏ qua. Không khí sôi động lan khắp các kênh của nhà sách Văn Lang, hứa hẹn một mùa săn sách vừa vui vừ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:59:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723329+07:00"
+    },
+    {
+      "id": "245f5a357fbd810951ee86b31f236b7b",
+      "title": "Tấn công CSGT sau khi gây tai nạn: Vừa mãn án tù tội giết người",
+      "link": "https://thanhnien.vn/tan-cong-csgt-sau-khi-gay-tai-nan-vua-man-an-tu-toi-giet-nguoi-18525081514240453.htm",
+      "summary": "Nghi phạm tấn công CSGT sau tai nạn ở P.Quy Nhơn Nam (Gia Lai) bị bắt khẩn cấp. Bất ngờ, người này vừa mãn án tù tội giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:59:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723483+07:00"
+    },
+    {
+      "id": "51625d30e3acf1d4abf309a991066b87",
+      "title": "Công chúa Thái Lan bị nhiễm trùng máu nghiêm trọng",
+      "link": "https://thanhnien.vn/cong-chua-thai-lan-bi-nhiem-trung-mau-nghiem-trong-185250815144613207.htm",
+      "summary": "Công chúa Thái Lan Bajrakitiyabha Mahidol đã bị nhiễm trùng máu nghiêm trọng sau khi lâm trọng bệnh và phải điều trị tại bệnh viện hơn 2 năm qua, theo thông báo chính thức từ Hoàng gia Thái Lan hôm nay (15.8).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:57:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723635+07:00"
+    },
+    {
+      "id": "85ffeb27330eb07832d732bde087c7fb",
+      "title": "Chưa có metro, đường sắt, đừng vội bàn dọn hết đường bay quốc tế ra Long Thành",
+      "link": "https://thanhnien.vn/chua-co-metro-duong-sat-dung-voi-ban-don-het-duong-bay-quoc-te-ra-long-thanh-185250815114216643.htm",
+      "summary": "Đó là ý kiến của nhiều chuyên gia trước đề xuất chuyển toàn bộ đường bay quốc tế cả vận tải hành khách và hàng hóa từ sân bay Tân Sơn Nhất ra Long Thành mà ACV đang kiến nghị thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:54:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723787+07:00"
+    },
+    {
+      "id": "35beb2ff73382cd0173095f8dd35061b",
+      "title": "TP.HCM sẽ mở rộng mô hình trường chuyên?",
+      "link": "https://thanhnien.vn/tphcm-se-mo-rong-mo-hinh-truong-chuyen-185250815143911593.htm",
+      "summary": "Ngày 15.8, Sở GD-ĐT TP.HCM tổ chức lễ tuyên dương khen thưởng học sinh giỏi năm học 2024-2025. Tại buổi lễ, lãnh đạo TP.HCM đã có những chỉ đạo về công tác phát triển mô hình trường lớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:51:00+07:00",
+      "fetched": "2025-08-15T15:22:56.723944+07:00"
+    },
+    {
+      "id": "1ce73791401b173556854910894a9f7d",
+      "title": "Cách Mỹ bảo vệ không phận Alaska trong thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/cach-my-bao-ve-khong-phan-alaska-trong-thuong-dinh-trump-putin-4927202.html",
+      "summary": "Mỹ sẽ huy động nhiều lực lượng giám sát khu vực tổ chức hội nghị thượng đỉnh Trump - Putin, sẵn sàng điều tiêm kích có dấu hiệu khả nghi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T07:46:22+07:00",
+      "fetched": "2025-08-15T15:22:59.693886+07:00"
+    },
+    {
+      "id": "ca40155d5198dee28e6564bae834cb0f",
+      "title": "Vì sao Sinner vẫn đeo băng tay dù đã khỏi chấn thương?",
+      "link": "https://vnexpress.net/vi-sao-sinner-van-deo-bang-tay-du-da-khoi-chan-thuong-4927303.html",
+      "summary": "Tay vợt Italy Jannik Sinner tiếp tục đeo băng nén tại Cincinnati Mở rộng, dù không còn bị đau từ chấn thương khuỷu tay phải ở Wimbledon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T07:38:48+07:00",
+      "fetched": "2025-08-15T15:23:06.940989+07:00"
+    },
+    {
+      "id": "c98102eff07b12291dbc856057b002c5",
+      "title": "800 lính vệ binh bắt đầu tuần tra ở Washington theo lệnh ông Trump",
+      "link": "https://vnexpress.net/800-linh-ve-binh-bat-dau-tuan-tra-o-washington-theo-lenh-ong-trump-4927236.html",
+      "summary": "Toàn bộ 800 lính Vệ binh Quốc gia được Tổng thống Trump điều động đã tới Washington, bắt đầu làm nhiệm vụ \"xử lý tội phạm bạo lực\" ở thủ đô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T07:32:49+07:00",
+      "fetched": "2025-08-15T15:22:59.694051+07:00"
+    },
+    {
+      "id": "8b2cdcaf42e66b225bb64be24aec3d0a",
+      "title": "Người Cuba nỗ lực vượt qua tình cảnh thiếu điện",
+      "link": "https://vnexpress.net/nguoi-cuba-no-luc-vuot-qua-tinh-canh-thieu-dien-4927151.html",
+      "summary": "Nhiều người dân Cuba nghĩ ra các giải pháp thay thế để đun nấu và sinh hoạt, trong lúc quốc gia này đối mặt nhiều khó khăn về nguồn cung điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:24:57+07:00",
+      "fetched": "2025-08-15T15:22:53.356778+07:00"
+    },
+    {
+      "id": "8b2cdcaf42e66b225bb64be24aec3d0a",
+      "title": "Người Cuba nỗ lực vượt qua tình cảnh thiếu điện",
+      "link": "https://vnexpress.net/nguoi-cuba-no-luc-vuot-qua-tinh-canh-thieu-dien-4927151.html",
+      "summary": "Nhiều người dân Cuba nghĩ ra các giải pháp thay thế để đun nấu và sinh hoạt, trong lúc quốc gia này đối mặt nhiều khó khăn về nguồn cung điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T07:24:57+07:00",
+      "fetched": "2025-08-15T15:22:59.694235+07:00"
+    },
+    {
+      "id": "aa4d3af5167309cb8a2099e1607c072f",
+      "title": "10 ôtô bán nhiều nhất tháng 7 - VinFast VF 3 vẫn đỉnh bảng",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thang-7-vinfast-vf-3-van-dinh-bang-4926220.html",
+      "summary": "Bốn mẫu VinFast dẫn đầu danh sách ôtô bán chạy nhất tháng 7, với VF 3 bàn giao nhiều nhất với 3.140 xe, xe Hàn vẫn vắng bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:17:37+07:00",
+      "fetched": "2025-08-15T15:22:53.356961+07:00"
+    },
+    {
+      "id": "52a79cbca0b851c86863b143ff6adee7",
+      "title": "Việt Nam lần đầu có vaccine phòng não mô cầu từ 6 tuần tuổi",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-co-vaccine-phong-nao-mo-cau-tu-6-tuan-tuoi-4927279.html",
+      "summary": "Vaccine phòng bốn nhóm huyết thanh não mô cầu gồm A, C, W, Y, chỉ định cho người từ 6 tuần tuổi, được VNVC ra mắt ngày 15/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:15:00+07:00",
+      "fetched": "2025-08-15T15:22:53.357165+07:00"
+    },
+    {
+      "id": "89b2faee750e790951ff1ec021b579c8",
+      "title": "FIVB điền nhầm VĐV bị cấm vào danh sách thi đấu của U21 Việt Nam",
+      "link": "https://vnexpress.net/fivb-dien-nham-vdv-bi-cam-vao-danh-sach-thi-dau-cua-u21-viet-nam-4927276.html",
+      "summary": "Liên đoàn bóng chuyền thế giới (FIVB) đăng ký nhầm VĐV đang chịu án cấm là Đặng Thị Hồng vào danh sách trận Việt Nam đấu Chile tối nay 15/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:04:02+07:00",
+      "fetched": "2025-08-15T15:22:53.357347+07:00"
+    },
+    {
+      "id": "89b2faee750e790951ff1ec021b579c8",
+      "title": "FIVB điền nhầm VĐV bị cấm vào danh sách thi đấu của U21 Việt Nam",
+      "link": "https://vnexpress.net/fivb-dien-nham-vdv-bi-cam-vao-danh-sach-thi-dau-cua-u21-viet-nam-4927276.html",
+      "summary": "Liên đoàn bóng chuyền thế giới (FIVB) đăng ký nhầm VĐV đang chịu án cấm là Đặng Thị Hồng vào danh sách trận Việt Nam đấu Chile tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T07:04:02+07:00",
+      "fetched": "2025-08-15T15:23:06.939981+07:00"
+    },
+    {
+      "id": "956853316cda4614746038184ccc800b",
+      "title": "Dembele xem Messi là Quả Bóng Vàng vĩ đại nhất",
+      "link": "https://vnexpress.net/dembele-xem-messi-la-qua-bong-vang-vi-dai-nhat-4927248.html",
+      "summary": "Tiền đạo PSG Ousmane Dembele đánh giá Lionel Messi cao nhất trong loạt huyền thoại từng đoạt Quả Bóng Vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:01:58+07:00",
+      "fetched": "2025-08-15T15:22:53.357507+07:00"
+    },
+    {
+      "id": "956853316cda4614746038184ccc800b",
+      "title": "Dembele xem Messi là Quả Bóng Vàng vĩ đại nhất",
+      "link": "https://vnexpress.net/dembele-xem-messi-la-qua-bong-vang-vi-dai-nhat-4927248.html",
+      "summary": "Tiền đạo PSG Ousmane Dembele đánh giá Lionel Messi cao nhất trong loạt huyền thoại từng đoạt Quả Bóng Vàng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T07:01:58+07:00",
+      "fetched": "2025-08-15T15:23:06.941164+07:00"
+    },
+    {
+      "id": "012ab2735b1a3b81416bffab39315d18",
+      "title": "VinFast nâng bảo hành xe máy điện đến 6 năm",
+      "link": "https://vnexpress.net/vinfast-nang-bao-hanh-xe-may-dien-den-6-nam-4927268.html",
+      "summary": "Các dòng xe máy điện được VinFast áp dụng bảo hành 6 năm cho xe và 8 năm cho pin không giới hạn số km, mức cao nhất tại thị trường Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:00:00+07:00",
+      "fetched": "2025-08-15T15:22:53.357667+07:00"
+    },
+    {
+      "id": "9657650660d7649289c62ceb72207daa",
+      "title": "Vô sinh do béo phì và buồng trứng đa nang",
+      "link": "https://vnexpress.net/vo-sinh-do-beo-phi-va-buong-trung-da-nang-4927252.html",
+      "summary": "Chị Thắm, 33 tuổi, mắc hội chứng buồng trứng đa nang và béo phì gây vô sinh, phải bơm tinh trùng vào buồng tử cung hai lần mới thành công mang thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T07:00:00+07:00",
+      "fetched": "2025-08-15T15:22:53.357829+07:00"
+    },
+    {
+      "id": "ae2718eabd4b38698a3fbb2ee24d418a",
+      "title": "'Thần tốc' cứu sống công nhân ngưng tim do điện giật",
+      "link": "https://vnexpress.net/than-toc-cuu-song-cong-nhan-ngung-tim-do-dien-giat-4927238.html",
+      "summary": "Nam công nhân 51 tuổi đang làm việc thì bị điện giật gây ngừng tim, được bác sĩ Bệnh viện Hữu Nghị Quảng Bình cứu sống chỉ sau 15 phút ép tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:55:25+07:00",
+      "fetched": "2025-08-15T15:22:53.357992+07:00"
+    },
+    {
+      "id": "ec1ddc91ff7a3bdc48f593609f78fe60",
+      "title": "Lý do thượng đỉnh Trump - Putin diễn ra tại căn cứ quân sự ở Alaska",
+      "link": "https://vnexpress.net/ly-do-thuong-dinh-trump-putin-dien-ra-tai-can-cu-quan-su-o-alaska-4927110.html",
+      "summary": "Căn cứ Liên hợp Elmendorf-Richardson được cho là địa điểm lý tưởng ở Alaska để tổ chức thượng đỉnh Trump - Putin vì mức độ an ninh cao của nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:54:09+07:00",
+      "fetched": "2025-08-15T15:22:53.358179+07:00"
+    },
+    {
+      "id": "ec1ddc91ff7a3bdc48f593609f78fe60",
+      "title": "Lý do thượng đỉnh Trump - Putin diễn ra tại căn cứ quân sự ở Alaska",
+      "link": "https://vnexpress.net/ly-do-thuong-dinh-trump-putin-dien-ra-tai-can-cu-quan-su-o-alaska-4927110.html",
+      "summary": "Căn cứ Liên hợp Elmendorf-Richardson được cho là địa điểm lý tưởng ở Alaska để tổ chức thượng đỉnh Trump - Putin vì mức độ an ninh cao của nó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T06:54:09+07:00",
+      "fetched": "2025-08-15T15:22:59.694396+07:00"
+    },
+    {
+      "id": "0e8ca7df113f318bc68dbb1c1f4b2478",
+      "title": "'Những câu thơ viết nên hình đất nước'",
+      "link": "https://vnexpress.net/nhung-cau-tho-viet-nen-hinh-dat-nuoc-4927203.html",
+      "summary": "Nhà thơ Nguyễn Khoa Điềm, 82 tuổi, đọc sáng tác mới - \"Trên thềm đá Hải Vân Quan\" - trong đêm nghệ thuật \"Những câu thơ viết nên hình đất nước\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:50:49+07:00",
+      "fetched": "2025-08-15T15:22:53.358337+07:00"
+    },
+    {
+      "id": "38fbde8a17e6470acf524682724d1347",
+      "title": "Cán bộ Ninh Thuận cũ được hỗ trợ 3-4,5 triệu đồng thuê nhà mỗi tháng",
+      "link": "https://vnexpress.net/can-bo-ninh-thuan-cu-duoc-ho-tro-3-4-5-trieu-dong-thue-nha-moi-thang-4927265.html",
+      "summary": "Cán bộ, công chức, viên chức từ Ninh Thuận cũ đến công tác tại trung tâm hành chính mới của tỉnh được hỗ trợ tiền thuê nhà 3-4,5 triệu đồng/tháng trong 2 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:49:47+07:00",
+      "fetched": "2025-08-15T15:22:53.358496+07:00"
+    },
+    {
+      "id": "e03738e14177434381fb1d230adb1723",
+      "title": "Federer tái xuất ở Thượng Hải",
+      "link": "https://vnexpress.net/federer-tai-xuat-o-thuong-hai-4927271.html",
+      "summary": "Cựu số một thế giới Roger Federer xác nhận dự trận đánh đôi giao hữu nằm trong lịch trình Thượng Hải Masters, khởi tranh từ 1/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:48:29+07:00",
+      "fetched": "2025-08-15T15:22:53.358654+07:00"
+    },
+    {
+      "id": "e03738e14177434381fb1d230adb1723",
+      "title": "Federer tái xuất ở Thượng Hải",
+      "link": "https://vnexpress.net/federer-tai-xuat-o-thuong-hai-4927271.html",
+      "summary": "Cựu số một thế giới Roger Federer xác nhận dự trận đánh đôi giao hữu nằm trong lịch trình Thượng Hải Masters, khởi tranh từ 1/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T06:48:29+07:00",
+      "fetched": "2025-08-15T15:23:06.941323+07:00"
+    },
+    {
+      "id": "8a31b1d8d970de269b7b2160f65d92ee",
+      "title": "TP HCM tuyển hơn 6.000 giáo viên mới",
+      "link": "https://vnexpress.net/tp-hcm-thong-bao-tuyen-giao-vien-nam-hoc-2025-2026-4927160.html",
+      "summary": "Ngành giáo dục thông báo tuyển hơn 6.000 giáo viên, quy mô đông nhất cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:33:00+07:00",
+      "fetched": "2025-08-15T15:22:53.358806+07:00"
+    },
+    {
+      "id": "f2a9930b1d340cfa910c39d468fa3a66",
+      "title": "U tuyến yên có gây vô sinh?",
+      "link": "https://vnexpress.net/u-tuyen-yen-co-gay-vo-sinh-4927253.html",
+      "summary": "Khối u có thể chèn ép vùng chức năng tuyến yên, gây rối loạn hormone, khiến kinh nguyệt không đều hoặc rối loạn cương dương làm tăng nguy cơ vô sinh ở hai giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:30:00+07:00",
+      "fetched": "2025-08-15T15:22:53.358971+07:00"
+    },
+    {
       "id": "642b6d7c0def20da2d6f44ec27eca795",
       "title": "HLV Úc: 'Tôi không muốn nói đến cá nhân nào của đội tuyển nữ Việt Nam, vì...'",
       "link": "https://thanhnien.vn/hlv-uc-toi-khong-muon-noi-den-ca-nhan-nao-cua-doi-tuyen-nu-viet-nam-vi-185250815131719808.htm",
@@ -591,6 +1121,16 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T06:17:00+07:00",
       "fetched": "2025-08-15T13:26:42.581230+07:00"
+    },
+    {
+      "id": "807b56f5489adcff495777871ff6f3d5",
+      "title": "Câu thành ngữ nói về sự trục lợi này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-noi-ve-su-truc-loi-nay-la-gi-4926486.html",
+      "summary": "Thành ngữ chỉ sự lợi dụng lúc lộn xộn, rối ren để kiếm lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T06:15:00+07:00",
+      "fetched": "2025-08-15T15:22:53.359149+07:00"
     },
     {
       "id": "381af1f53b121147a24838a16bca1499",
