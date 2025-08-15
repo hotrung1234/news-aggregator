@@ -1,7 +1,107 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T08:22:42.806386+07:00",
+  "lastUpdated": "2025-08-15T10:19:34.283659+07:00",
   "articles": [
+    {
+      "id": "964b7391a9d99c04a898ad6bdea84d2c",
+      "title": "Diễn biến mưa lớn ở miền Bắc từ nay đến đêm 18-8",
+      "link": "https://tuoitre.vn/dien-bien-mua-lon-o-mien-bac-tu-nay-den-dem-18-8-20250815073720157.htm",
+      "summary": "Dự báo sáng đến trưa 15-8, ở khu vực trung du và đồng bằng Bắc Bộ có mưa vừa, mưa to, cục bộ có nơi mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637840+07:00",
+      "fetched": "2025-08-15T10:19:24.637953+07:00"
+    },
+    {
+      "id": "134454ce0063140c4e7441200a4da198",
+      "title": "Nữ sinh đoạt giải sáng tạo toàn quốc, bỏ nguyện vọng Y vì nghèo, Bách khoa Đà Nẵng tuyển thẳng",
+      "link": "https://tuoitre.vn/nu-sinh-doat-giai-sang-tao-toan-quoc-bo-nguyen-vong-y-vi-ngheo-bach-khoa-da-nang-tuyen-thang-20250812161201891.htm",
+      "summary": "Trong căn nhà cấp 4 nép mình giữa rặng tre làng ở xã Chân Mây - Lăng Cô (TP Huế), Trương Thị Tuệ My - cô học trò vừa tròn 18 tuổi - vẫn miệt mài theo đuổi ước mơ trở thành nữ doanh nhân khởi nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637716+07:00",
+      "fetched": "2025-08-15T10:19:24.637828+07:00"
+    },
+    {
+      "id": "90d3ed45f5f194f49230e71c75bdbc2a",
+      "title": "Vụ cán bộ xã ở Lào Cai gây tai nạn chết người: Bí thư xã viết thư xin lỗi",
+      "link": "https://tuoitre.vn/vu-can-bo-xa-o-lao-cai-gay-tai-nan-chet-nguoi-bi-thu-xa-viet-thu-xin-loi-20250815081010183.htm",
+      "summary": "Bí thư Đảng ủy xã Phong Dụ Thượng (tỉnh Lào Cai) viết thư xin lỗi sau vụ việc phó bí thư thường trực Đảng ủy xã này lái xe ô tô khi có nồng độ cồn gây chết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637590+07:00",
+      "fetched": "2025-08-15T10:19:24.637704+07:00"
+    },
+    {
+      "id": "e5a1b95686c4b19180b8483899100651",
+      "title": "Chọn giờ đẹp để mổ lấy con: Xin đừng đánh cược mạng sống của con",
+      "link": "https://tuoitre.vn/chon-gio-dep-de-mo-lay-con-xin-dung-danh-cuoc-mang-song-cua-con-20250815080102229.htm",
+      "summary": "Chọn giờ đẹp để sinh con, các chuyên gia y tế khuyến cáo các bậc cha mẹ đừng đánh cược với mạng sống của trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637452+07:00",
+      "fetched": "2025-08-15T10:19:24.637577+07:00"
+    },
+    {
+      "id": "a0d52028a176e576edf9e99d40e72963",
+      "title": "Đội bóng nào có giá trị cao nhất tại V-League 2025-2026?",
+      "link": "https://tuoitre.vn/doi-bong-nao-co-gia-tri-cao-nhat-tai-v-league-2025-2026-20250814145342769.htm",
+      "summary": "Tuổi Trẻ Online xin gửi đến bạn đọc top 5 đội bóng có giá trị cao nhất tại V-League mùa giải 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637325+07:00",
+      "fetched": "2025-08-15T10:19:24.637440+07:00"
+    },
+    {
+      "id": "f55698e0b562b82a29ed3f73fb0c7a05",
+      "title": "Chuẩn bị hành trang cho năm học mới",
+      "link": "https://tuoitre.vn/chuan-bi-hanh-trang-cho-nam-hoc-moi-20250815081112039.htm",
+      "summary": "1-2 tuần nữa, học sinh nhiều địa phương trong cả nước bắt đầu tựu trường, chuẩn bị năm học mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637191+07:00",
+      "fetched": "2025-08-15T10:19:24.637313+07:00"
+    },
+    {
+      "id": "1f99d5a5ce30eead3dcf08a33a31494d",
+      "title": "Một số loại rau củ giàu chất xơ tốt cho tiêu hóa",
+      "link": "https://tuoitre.vn/mot-so-loai-rau-cu-giau-chat-xo-tot-cho-tieu-hoa-20250815083603224.htm",
+      "summary": "Rau đay, mồng tơi, khoai lang... giá rẻ nhưng nhiều công dụng. Một công dụng tốt hay được nhắc tới là tác dụng tốt cho tiêu hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.637048+07:00",
+      "fetched": "2025-08-15T10:19:24.637165+07:00"
+    },
+    {
+      "id": "ae8b15a0e977e8b928d4adedf281a51b",
+      "title": "Thượng đỉnh Trump - Putin: Không nên quá kỳ vọng",
+      "link": "https://tuoitre.vn/thuong-dinh-trump-putin-khong-nen-qua-ky-vong-20250814232424642.htm",
+      "summary": "Vào đêm trước thượng đỉnh Trump - Putin tại Alaska, tình hình châu Âu nói chung và Ukraine nói riêng không mấy khả quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.636918+07:00",
+      "fetched": "2025-08-15T10:19:24.637036+07:00"
+    },
+    {
+      "id": "b6f7fc92d483686a4151e2c8c5b563bc",
+      "title": "Nữ giám đốc từ chức sau khi bị đề nghị 'ngủ với ông chủ giải đấu'",
+      "link": "https://tuoitre.vn/nu-giam-doc-tu-chuc-sau-khi-bi-de-nghi-ngu-voi-ong-chu-giai-dau-20250815081910681.htm",
+      "summary": "Giám đốc điều hành của CLB Salford Red Devils, bà Claire Bradbury đã từ chức sau khi cáo buộc chủ sở hữu đề nghị bà \"ngủ với một cá nhân tại RFL\" (Liên đoàn Bóng bầu dục Anh) để dàn xếp những khó khăn tài chính của câu lạc bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.636777+07:00",
+      "fetched": "2025-08-15T10:19:24.636905+07:00"
+    },
+    {
+      "id": "540b70e15f6432ebc612f0662cbb7abd",
+      "title": "Bộ Nội vụ đề xuất loạt chính sách lương, thưởng, xem xét bổ nhiệm lãnh đạo, quản lý với chuyên gia",
+      "link": "https://tuoitre.vn/bo-noi-vu-de-xuat-loat-chinh-sach-luong-thuong-xem-xet-bo-nhiem-lanh-dao-quan-ly-voi-chuyen-gia-20250815090253642.htm",
+      "summary": "Bộ Nội vụ đã đề xuất nhiều quy định về chế độ, chính sách nhằm thu hút chuyên gia khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:19:24.636547+07:00",
+      "fetched": "2025-08-15T10:19:24.636762+07:00"
+    },
     {
       "id": "e38025701fa00d032085d051abcb1713",
       "title": "Tin tức thế giới 15-8: Ông Trump tin kết quả tốt khi gặp ông Putin; Mưa lớn gây chết người ở Ấn Độ",
@@ -151,6 +251,386 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T08:22:35.407631+07:00",
       "fetched": "2025-08-15T08:22:35.407819+07:00"
+    },
+    {
+      "id": "0a398977b1fe8d365cec8bbef0fb2eea",
+      "title": "Đạo diễn Nguyễn Quang Dũng: 'Đi qua biến cố để thấy cuộc sống toàn những yêu thương!'",
+      "link": "https://thanhnien.vn/dao-dien-nguyen-quang-dung-di-qua-bien-co-de-thay-cuoc-song-toan-nhung-yeu-thuong-185250815084807595.htm",
+      "summary": "Trở lại sau cú sốc sức khỏe nghiêm trọng, đạo diễn Nguyễn Quang Dũng - người đứng sau loạt phim đình đám như Mỹ nhân kế, Tháng năm rực rỡ, Đất rừng phương Nam… chia sẻ câu chuyện vượt qua lằn ranh sinh tử cùng đồng hành của bảo hiểm nhân thọ và những góc nhìn rất nghệ sĩ về cuộc đời sau biến cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T03:00:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108022+07:00"
+    },
+    {
+      "id": "6b3da5af603ba59406a96cbaa7fbdfd7",
+      "title": "Học viện Quản lý Singapore (SIM) chuẩn bị cho sinh viên để tăng cơ hội việc làm",
+      "link": "https://thanhnien.vn/hoc-vien-quan-ly-singapore-sim-chuan-bi-cho-sinh-vien-de-tang-co-hoi-viec-lam-18525081416170167.htm",
+      "summary": "Sinh viên tốt nghiệp từ Học viện Quản lý Singapore (SIM) được đánh giá cao trên thị trường lao động nhờ những kỹ năng phù hợp với yêu cầu thực tiễn của ngành nghề, góp phần vào tỷ lệ việc làm sau tốt nghiệp ấn tượng. Với sự chuẩn bị toàn diện và hỗ trợ từ các dịch vụ nghề nghiệp tiên tiến, SIM tạo đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T03:00:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108226+07:00"
+    },
+    {
+      "id": "1a53fece3adec402492f927932acac0e",
+      "title": "Thanh lịch mỗi ngày cùng túi xách màu trung tính",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thanh-lich-moi-ngay-cung-tui-xach-mau-trung-tinh-18525081416055997.htm",
+      "summary": "Chiếc túi xách gam màu trung tính là phụ kiện lý tưởng, giúp nàng phối hợp hài hòa với mọi outfit, đồng thời tôn lên vẻ thanh lịch và cuốn hút trong bất kỳ hoàn cảnh nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T03:00:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108395+07:00"
+    },
+    {
+      "id": "2541e1019699cadbe4d470b93ccd71b9",
+      "title": "Chuyển sang tài khoản giao thông, tiền ở tài khoản thu phí xử lý thế nào?",
+      "link": "https://vnexpress.net/chuyen-sang-tai-khoan-giao-thong-tien-o-tai-khoan-thu-phi-xu-ly-the-nao-4927129.html",
+      "summary": "Cục Đường bộ Việt Nam cho biết số dư trong tài khoản thu phí sẽ được chuyển sang ví điện tử hoặc hoàn về tài khoản ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:59:32+07:00",
+      "fetched": "2025-08-15T10:19:19.497513+07:00"
+    },
+    {
+      "id": "62bdf4cb31d49edcb68a7b036f45e7eb",
+      "title": "Toa tàu Nha Trang - Quy Nhơn vé 10 triệu đồng, giới hạn 12 chỗ",
+      "link": "https://vnexpress.net/toa-tau-nha-trang-quy-nhon-ve-10-trieu-dong-gioi-han-12-cho-4920830.html",
+      "summary": "Hai toa cuối tàu Thống Nhất tuyến Nha Trang - Quy Nhơn được biến thành trải nghiệm cao cấp cho khách như giới hạn 12 chỗ, vừa thưởng thức trà chiều vừa ngắm cảnh thay đổi liên tục hay massage thư giãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:45:55+07:00",
+      "fetched": "2025-08-15T10:19:19.497697+07:00"
+    },
+    {
+      "id": "8c4bd42fd54ef6f787197d88fd3bfb6e",
+      "title": "Trở về điểm xuất phát",
+      "link": "https://thanhnien.vn/tro-ve-diem-xuat-phat-185250814221147064.htm",
+      "summary": "Ngày 13.8 vừa qua, 3 nước Anh, Pháp và Đức chính thức thông báo cho LHQ về đề nghị kích hoạt cơ chế áp dụng trở lại những biện pháp của LHQ trừng phạt Iran liên quan đến chương trình hạt nhân của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:45:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108561+07:00"
+    },
+    {
+      "id": "baa8bc247592de7f47f41b5f91bd5c03",
+      "title": "Nhà mạng dùng AI tối ưu vùng phủ sóng dịp Quốc khánh",
+      "link": "https://vnexpress.net/nha-mang-dung-ai-toi-uu-vung-phu-song-dip-quoc-khanh-4927048.html",
+      "summary": "Viettel sẽ dùng AI để dự đoán khu vực đông người, cứ 5 phút sẽ tự động điều chỉnh vùng phủ sóng để tối ưu chất lượng mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:40:46+07:00",
+      "fetched": "2025-08-15T10:19:19.497867+07:00"
+    },
+    {
+      "id": "baa8bc247592de7f47f41b5f91bd5c03",
+      "title": "Nhà mạng dùng AI tối ưu vùng phủ sóng dịp Quốc khánh",
+      "link": "https://vnexpress.net/nha-mang-dung-ai-toi-uu-vung-phu-song-dip-quoc-khanh-4927048.html",
+      "summary": "Viettel sẽ dùng AI để dự đoán khu vực đông người, cứ 5 phút sẽ tự động điều chỉnh vùng phủ sóng để tối ưu chất lượng mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T02:40:46+07:00",
+      "fetched": "2025-08-15T10:19:32.187592+07:00"
+    },
+    {
+      "id": "96ae92c8ed5d9174ac1a3aaf90ec951c",
+      "title": "Hunter Biden từ chối xin lỗi Đệ nhất phu nhân Melania",
+      "link": "https://vnexpress.net/hunter-biden-tu-choi-xin-loi-de-nhat-phu-nhan-melania-4927107.html",
+      "summary": "Hunter Biden tuyên bố sẽ không thực hiện yêu cầu của Đệ nhất phu nhân Melania Trump về việc rút lại tuyên bố sai sự thật và xin lỗi bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:35:11+07:00",
+      "fetched": "2025-08-15T10:19:19.498028+07:00"
+    },
+    {
+      "id": "96ae92c8ed5d9174ac1a3aaf90ec951c",
+      "title": "Hunter Biden từ chối xin lỗi Đệ nhất phu nhân Melania",
+      "link": "https://vnexpress.net/hunter-biden-tu-choi-xin-loi-de-nhat-phu-nhan-melania-4927107.html",
+      "summary": "Hunter Biden tuyên bố sẽ không thực hiện yêu cầu của Đệ nhất phu nhân Melania Trump về việc rút lại tuyên bố sai sự thật và xin lỗi bà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T02:35:11+07:00",
+      "fetched": "2025-08-15T10:19:26.496386+07:00"
+    },
+    {
+      "id": "4b13bf579f352a86af9be15e8cd68e29",
+      "title": "Trường top đầu 'trắng' thí sinh tuyển bổ sung lớp 10",
+      "link": "https://vnexpress.net/truong-top-dau-trang-thi-sinh-tuyen-bo-sung-lop-10-4926409.html",
+      "summary": "Tình trạng \"trắng\" hồ sơ tuyển bổ sung lớp 10 tái diễn ở ít nhất 5 trong 10 trường có điểm chuẩn cao nhất TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:30:29+07:00",
+      "fetched": "2025-08-15T10:19:19.498208+07:00"
+    },
+    {
+      "id": "cb43f7cba335a71888bf468e30c5961a",
+      "title": "Tiên nữ trên chiếc đĩa sứ 'nhà nào cũng có' là ai?",
+      "link": "https://vnexpress.net/tien-nu-tren-chiec-dia-su-nha-nao-cung-co-la-ai-4926438.html",
+      "summary": "Nhiều gia đình, dù ở thành thị hay nông thôn đã từng sở hữu chiếc đĩa sứ có một hình ảnh rất quen thuộc - tiên nữ bê đĩa đào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:30:00+07:00",
+      "fetched": "2025-08-15T10:19:19.498384+07:00"
+    },
+    {
+      "id": "37ceb8ba692392dca6e9f62fbd1196d4",
+      "title": "Hy hữu: Tài xế 'nhầm luật' dừng ô tô khi đèn xanh, chạy tiếp khi đèn đỏ",
+      "link": "https://thanhnien.vn/hy-huu-tai-xe-nham-luat-dung-o-to-khi-den-xanh-chay-tiep-khi-den-do-185250814152815318.htm",
+      "summary": "Không rõ do lơ đễnh, mất tập trung hay do không nắm luật giao thông, một tài xế lái ô tô dừng chờ tại giao lộ khi đèn đang xanh; nhưng lại bất ngờ nhấn ga cho xe chạy tiếp khi đèn chuyển đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:25:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108717+07:00"
+    },
+    {
+      "id": "256a4d378419e2c36747ab5b2929b10b",
+      "title": "Hành khách hoảng loạn khi máy bay 'rơi tự do' hơn 8.000m",
+      "link": "https://thanhnien.vn/hanh-khach-hoang-loan-khi-may-bay-roi-tu-do-hon-8000m-18525081508343278.htm",
+      "summary": "Hành khách hoảng loạn khi mặt nạ dưỡng khí bung ra khi máy bay đột ngột \"rơi tự do\" bởi mất áp suất cabin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:24:00+07:00",
+      "fetched": "2025-08-15T10:19:23.108872+07:00"
+    },
+    {
+      "id": "376a521e89e13d8017e7455cb598c027",
+      "title": "Từ 'thầy hiệu trưởng bị tuyên 7 năm tù' đến 'án gà lôi trắng'",
+      "link": "https://vnexpress.net/ga-loi-trang-la-gi-dong-vat-hoang-da-vu-an-thay-hieu-truong-nhan-7-nam-tu-vi-cao-buoc-tham-o-4927112.html",
+      "summary": "Tôi mong rằng trong tương lai sẽ không còn những vụ án giống thế này nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:23:10+07:00",
+      "fetched": "2025-08-15T10:19:19.498541+07:00"
+    },
+    {
+      "id": "1e3e65cdbb2184ca2e55f3e3b9da3aa0",
+      "title": "Khoảnh khắc Iskander tập kích khiến 'pháo HIMARS Ukraine' cháy rụi",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-tap-kich-khien-phao-himars-ukraine-chay-rui-4927117.html",
+      "summary": "Nga công bố video tên lửa đạn đạo Iskander-M tập kích mục tiêu nghi là pháo phản lực HIMARS Ukraine tại tỉnh Sumy, khiến nó cháy dữ dội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:17:36+07:00",
+      "fetched": "2025-08-15T10:19:19.498707+07:00"
+    },
+    {
+      "id": "1e3e65cdbb2184ca2e55f3e3b9da3aa0",
+      "title": "Khoảnh khắc Iskander tập kích khiến 'pháo HIMARS Ukraine' cháy rụi",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-tap-kich-khien-phao-himars-ukraine-chay-rui-4927117.html",
+      "summary": "Nga công bố video tên lửa đạn đạo Iskander-M tập kích mục tiêu nghi là pháo phản lực HIMARS Ukraine tại tỉnh Sumy, khiến nó cháy dữ dội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T02:17:36+07:00",
+      "fetched": "2025-08-15T10:19:26.496564+07:00"
+    },
+    {
+      "id": "fa1e2ed3fa3daababa19a99a910afe80",
+      "title": "Bốn hãng ôtô tải sạch khởi kiện vì chính sách khí thải ở California",
+      "link": "https://vnexpress.net/bon-hang-oto-tai-sach-khoi-kien-vi-chinh-sach-khi-thai-o-california-4927084.html",
+      "summary": "Volvo, Daimler cùng hai hãng xe tải lớn khác kiện bang California bởi sự bất ổn chính sách về chuẩn khí thải khiến họ khó lên kế hoạch sản xuất tại thị trường này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:12:48+07:00",
+      "fetched": "2025-08-15T10:19:19.498862+07:00"
+    },
+    {
+      "id": "fa1e2ed3fa3daababa19a99a910afe80",
+      "title": "Bốn hãng ôtô tải sạch khởi kiện vì chính sách khí thải ở California",
+      "link": "https://vnexpress.net/bon-hang-oto-tai-sach-khoi-kien-vi-chinh-sach-khi-thai-o-california-4927084.html",
+      "summary": "Volvo, Daimler cùng hai hãng xe tải lớn khác kiện bang California bởi sự bất ổn chính sách về chuẩn khí thải khiến họ khó lên kế hoạch sản xuất tại thị trường này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T02:12:48+07:00",
+      "fetched": "2025-08-15T10:19:28.547120+07:00"
+    },
+    {
+      "id": "19c23dbf690a76171bf618ab9ef8876e",
+      "title": "Quang Liêm lần đầu thắng một Vua cờ trên bàn đấu",
+      "link": "https://vnexpress.net/quang-liem-lan-dau-thang-mot-vua-co-tren-ban-dau-4927119.html",
+      "summary": "Lê Quang Liêm lần đầu thắng một đương kim vô địch thế giới tại giải tính Elo, khi hạ Gukesh Dommaraju tại giải nhanh chớp St Louis Grand Chess Tour.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:11:38+07:00",
+      "fetched": "2025-08-15T10:19:19.499019+07:00"
+    },
+    {
+      "id": "19c23dbf690a76171bf618ab9ef8876e",
+      "title": "Quang Liêm lần đầu thắng một Vua cờ trên bàn đấu",
+      "link": "https://vnexpress.net/quang-liem-lan-dau-thang-mot-vua-co-tren-ban-dau-4927119.html",
+      "summary": "Lê Quang Liêm lần đầu thắng một đương kim vô địch thế giới tại giải tính Elo, khi hạ Gukesh Dommaraju tại giải nhanh chớp St Louis Grand Chess Tour.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T02:11:38+07:00",
+      "fetched": "2025-08-15T10:19:34.277743+07:00"
+    },
+    {
+      "id": "ee8ef510b5169db3607966c38324c8bf",
+      "title": "Trung Quốc ra mắt UAV phản lực VTOL tốc độ cao đầu tiên trên thế giới",
+      "link": "https://thanhnien.vn/trung-quoc-ra-mat-uav-phan-luc-vtol-toc-do-cao-dau-tien-tren-the-gioi-185250815090114957.htm",
+      "summary": "Các kỹ sư hàng không vũ trụ Trung Quốc đã công bố chiếc máy bay không người lái (UAV) cất cánh và hạ cánh thẳng đứng (VTOL) tốc độ cao đầu tiên trên thế giới được trang bị động cơ phản lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:11:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109029+07:00"
+    },
+    {
+      "id": "b7d87fadf6eab28eb5edef36302dd9d5",
+      "title": "Hoãn phiên tòa bảo mẫu hành hạ trẻ ở Mái ấm Hoa Hồng",
+      "link": "https://thanhnien.vn/hoan-phien-toa-bao-mau-hanh-ha-tre-o-mai-am-hoa-hong-bi-dua-ra-xet-xu-185250814213818228.htm",
+      "summary": "Bị cáo Giáp Thị Sông Hương (chủ cơ sở Mái ấm Hoa Hồng) và đồng phạm bị tòa đưa ra xét xử về tội hành hạ người khác sau hơn 7 tháng bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:11:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109202+07:00"
+    },
+    {
+      "id": "f691c721a6c8d0b2a7be3799416695ed",
+      "title": "Hà Nội phát hiện xe tải chở hơn 2 tấn mỡ và da bò bốc mùi",
+      "link": "https://vnexpress.net/ha-noi-phat-hien-xe-tai-cho-hon-2-tan-mo-va-da-bo-boc-mui-4927093.html",
+      "summary": "Quản lý thị trường Hà Nội vừa phát hiện, thu giữ hơn 2 tấn mỡ và da bò bốc mùi, buộc tiêu hủy toàn bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:04:06+07:00",
+      "fetched": "2025-08-15T10:19:19.499194+07:00"
+    },
+    {
+      "id": "f691c721a6c8d0b2a7be3799416695ed",
+      "title": "Hà Nội phát hiện xe tải chở hơn 2 tấn mỡ và da bò bốc mùi",
+      "link": "https://vnexpress.net/ha-noi-phat-hien-xe-tai-cho-hon-2-tan-mo-va-da-bo-boc-mui-4927093.html",
+      "summary": "Quản lý thị trường Hà Nội vừa phát hiện, thu giữ hơn 2 tấn mỡ và da bò bốc mùi, buộc tiêu hủy toàn bộ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T02:04:06+07:00",
+      "fetched": "2025-08-15T10:19:28.546466+07:00"
+    },
+    {
+      "id": "9b37019ac1641324c8bbe53ed054b889",
+      "title": "FIFA biến 104 trận đấu tại World Cup 2026 thành Super Bowl, tất cả nhờ Messi",
+      "link": "https://thanhnien.vn/fifa-bien-104-tran-dau-tai-world-cup-2026-thanh-super-bowl-tat-ca-nho-messi-18525081508512753.htm",
+      "summary": "Theo báo Tây Ban Nha, Marca, FIFA đặt tham vọng sẽ biến mỗi trận đấu ở World Cup 2026 (tổng cộng 104 trận), với trận nào cũng là một sự kiện Super Bowl (chung kết bóng bầu dục Mỹ), nhờ hiệu ứng Messi mang lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:04:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109362+07:00"
+    },
+    {
+      "id": "edbac561ca663ac92d1def71e93e4263",
+      "title": "Gia đình bắt tôi chia tay vì bạn trai có hình xăm",
+      "link": "https://vnexpress.net/ban-trai-co-hinh-xam-gia-dinh-bat-toi-chia-tay-vi-ban-trai-co-hinh-xam-du-anh-co-the-cui-xuong-lau-chan-cho-toi-4926873.html",
+      "summary": "Chúng tôi định sau hai năm sẽ kết hôn khi anh có nhà cửa đàng hoàng, giờ nhìn anh, tôi thấy có tội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:19.499357+07:00"
+    },
+    {
+      "id": "aa6e04a4332bc9824f10cc789a671ad5",
+      "title": "Viêm phổi bởi đồng nhiễm virus cúm A, hai loại vi khuẩn và nấm",
+      "link": "https://vnexpress.net/viem-phoi-boi-dong-nhiem-virus-cum-a-hai-loai-vi-khuan-va-nam-4927105.html",
+      "summary": "Bà Oanh, 90 tuổi, mắc cúm A sau đó nhiễm thêm vi khuẩn, nấm dẫn đến biến chứng viêm phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:19.499520+07:00"
+    },
+    {
+      "id": "bc59f509dd699621959c95d7eefb0deb",
+      "title": "Phú Hưng Life thiết kế gói bảo hiểm theo nhu cầu",
+      "link": "https://vnexpress.net/phu-hung-life-thiet-ke-goi-bao-hiem-theo-nhu-cau-4927053.html",
+      "summary": "Bảo hiểm Phú Hưng Vẹn Toàn có thiết kế linh hoạt, đáp ứng nhu cầu bảo vệ, tích lũy và điều chỉnh dòng tiền, đồng hành khách hàng ở nhiều giai đoạn cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:19.499677+07:00"
+    },
+    {
+      "id": "fcd90cc587540e1c815fd2921ec2a822",
+      "title": "Cách thể hiện tình yêu không cần nói thành lời",
+      "link": "https://vnexpress.net/cach-the-hien-tinh-yeu-khong-can-noi-thanh-loi-4927050.html",
+      "summary": "Với nhiều người, quan tâm chăm sóc sức khỏe cho người thân và bản thân chính là cách thể hiện tình yêu không cần nói thành lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:19.499835+07:00"
+    },
+    {
+      "id": "72baa744a7dc3fe8354a19e7d925c806",
+      "title": "Những hình ảnh đẹp trong hoạt động trồng cây bảo vệ môi trường tại Cần Giờ",
+      "link": "https://thanhnien.vn/nhung-hinh-anh-dep-trong-hoat-dong-trong-cay-bao-ve-moi-truong-tai-can-gio-185250730120206745.htm",
+      "summary": "Những khoảnh khắc yêu thương, những nụ cười rạng rỡ hay vô số giọt mồ hôi ướt đẫm áo trong hoạt động trồng cây sẽ mãi là kỷ niệm đẹp, khó phai trong lòng hơn 200 cán bộ Đoàn phường Tân Bình (TP.HCM) và tình nguyện viên Hội yêu rác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109512+07:00"
+    },
+    {
+      "id": "de8d714853123f5f1a0881c27e7bc068",
+      "title": "MB giữ vị trí top 2 thương hiệu ngân hàng Việt",
+      "link": "https://vnexpress.net/mb-giu-vi-tri-top-2-thuong-hieu-ngan-hang-viet-4926274.html",
+      "summary": "Ngân hàng TMCP Quân đội (MB) nằm trong top 50 thương hiệu hàng đầu Việt Nam năm 2025, giữ vị trí thứ hai trong nhóm ngân hàng, theo bảng xếp hạng của Campaign Asia-Pacific.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T02:00:00+07:00",
+      "fetched": "2025-08-15T10:19:28.547294+07:00"
+    },
+    {
+      "id": "8ff97659e78b3e239fd866dc71fa06f9",
+      "title": "ACB: Giải pháp số hóa toàn diện cho hộ kinh doanh thích ứng giai đoạn mới",
+      "link": "https://thanhnien.vn/acb-giai-phap-so-hoa-toan-dien-cho-ho-kinh-doanh-thich-ung-giai-doan-moi-185250815085749891.htm",
+      "summary": "Từ tháng 7.2025, Nghị định 70 yêu cầu hộ kinh doanh sử dụng hóa đơn điện tử và quản lý thuế theo chuẩn mới. Số hóa vì thế không còn là lợi thế riêng của doanh nghiệp lớn, mà trở thành tiêu chuẩn vận hành cho cả hộ kinh doanh. Trong bối cảnh đó, việc tìm ra giải pháp phù hợp để vừa tuân thủ quy định ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:59:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109678+07:00"
+    },
+    {
+      "id": "c0c2b95b7ac9250cb20d3b3fe4a0e0a2",
+      "title": "Giá USD hôm nay 15.8.2025: Tỷ giá trung tâm tăng lên kỷ lục",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1582025-ty-gia-trung-tam-tang-len-ky-luc-185250815083019817.htm",
+      "summary": "Ngân hàng giữ giá USD ở mức cao, trong khi các ngoại tệ khác giảm mạnh. Bên cạnh đó, đồng bạc xanh trên thị trường thế giới tăng mạnh trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:59:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109830+07:00"
+    },
+    {
+      "id": "1fc069ad05a7a8cbd025bb19448615b6",
+      "title": "Tránh lãng phí tiền mua thiết bị Apple khi còn là sinh viên",
+      "link": "https://thanhnien.vn/tranh-lang-phi-tien-mua-thiet-bi-apple-khi-con-la-sinh-vien-185250813155216991.htm",
+      "summary": "Mua các thiết bị Apple như MacBook hoặc iPad cho việc học là một quyết định quan trọng, đặc biệt đối với các tân sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:57:00+07:00",
+      "fetched": "2025-08-15T10:19:23.109977+07:00"
+    },
+    {
+      "id": "61501b5c30be2191110f3aba04424415",
+      "title": "Chi phí sản xuất ở Mỹ tăng nhanh nhất 3 năm",
+      "link": "https://vnexpress.net/chi-phi-san-xuat-o-my-tang-nhanh-nhat-3-nam-4927083.html",
+      "summary": "Chỉ số giá sản xuất (PPI) tại Mỹ tháng 7 tăng nhanh nhất trong hơn ba năm, do đầu vào đắt đỏ vì thuế quan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T01:53:13+07:00",
+      "fetched": "2025-08-15T10:19:28.546639+07:00"
+    },
+    {
+      "id": "d4ffe22035f89b82c747aabcb893a068",
+      "title": "Tòa án Tối cao Hàn Quốc ra phán quyết về tác quyền video Baby Shark",
+      "link": "https://thanhnien.vn/toa-an-toi-cao-han-quoc-ra-phan-quyet-ve-tac-quyen-video-baby-shark-185250815085057623.htm",
+      "summary": "Tòa án Tối cao Hàn Quốc ngày 14.8 phán quyết rằng bài hát thiếu nhi nổi tiếng toàn cầu của Hàn Quốc \"Baby Shark\" không vi phạm bản quyền, bác bỏ yêu cầu đòi bản quyền từ một nhạc sĩ người Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:53:00+07:00",
+      "fetched": "2025-08-15T10:19:23.110126+07:00"
+    },
+    {
+      "id": "a061ab0b6e009d90ec845e729fcc7a20",
+      "title": "Giá vàng hôm nay 15.8.2025: Neo ở giá kỷ lục",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1582025-neo-o-gia-ki-luc-185250815082752592.htm",
+      "summary": "Giá vàng trong nước neo ở mức kỷ lục và khá bất ngờ khi chênh lệch giá mua bán vàng miếng giảm mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T01:50:00+07:00",
+      "fetched": "2025-08-15T10:19:23.110294+07:00"
     },
     {
       "id": "80a0612e3cdb4f83ea2dd93f0cbdb3b2",
@@ -333,6 +813,16 @@ window.newsData_2025_08_15 = {
       "fetched": "2025-08-15T08:22:34.290473+07:00"
     },
     {
+      "id": "8ac144ee600c897a28646ae451ecc0fc",
+      "title": "Cổ phiếu Intel tăng vọt vì khả năng chính phủ mua cổ phần",
+      "link": "https://vnexpress.net/co-phieu-intel-tang-vot-vi-kha-nang-chinh-phu-mua-co-phan-4927098.html",
+      "summary": "Chốt phiên giao dịch 14/8, cổ phiếu hãng chip Intel tăng 7,4% khi Bloomberg đưa tin chính quyền Tổng thống Trump đang đàm phán mua cổ phần trong công ty.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T01:13:13+07:00",
+      "fetched": "2025-08-15T10:19:28.546802+07:00"
+    },
+    {
       "id": "aa6edc6fd511df67d9a3fd2af22445e7",
       "title": "Lâm Đồng: Xã ‘trái tim’ KDL quốc gia Mũi Né quyết thắng trong thu ngân sách",
       "link": "https://thanhnien.vn/lam-dong-xa-trai-tim-kdl-quoc-gia-mui-ne-quyet-thang-trong-thu-ngan-sach-185250815065001097.htm",
@@ -461,6 +951,16 @@ window.newsData_2025_08_15 = {
       "category": "Thế giới",
       "published": "2025-08-15T00:52:32+07:00",
       "fetched": "2025-08-15T08:22:37.000737+07:00"
+    },
+    {
+      "id": "0b1cf28a3e41572cd5895b85b428b416",
+      "title": "Chồn bay, sâm Vũ Điệp ra khỏi danh sách cấm khai thác",
+      "link": "https://vnexpress.net/chon-bay-sam-vu-diep-ra-khoi-danh-sach-cam-khai-thac-4926909.html",
+      "summary": "Ngoài gà lôi trắng, chồn bay, sâm Vũ Điệp cũng được chuyển từ nhóm cấm khai thác sang hạn chế khai thác, theo thông tư 27.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T00:46:05+07:00",
+      "fetched": "2025-08-15T10:19:32.187755+07:00"
     },
     {
       "id": "b871f7b5e285ff8c796d4013c2d1ab94",
@@ -641,6 +1141,16 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-14T23:02:56+07:00",
       "fetched": "2025-08-15T08:22:30.887129+07:00"
+    },
+    {
+      "id": "276cf503de0032c94007fc681c6b8563",
+      "title": "Bưu điện Việt Nam: 80 năm viết tiếp câu chuyện kết nối",
+      "link": "https://vnexpress.net/buu-dien-viet-nam-80-nam-viet-tiep-cau-chuyen-ket-noi-4925763.html",
+      "summary": "80 năm qua, Bưu điện Việt Nam đồng hành cùng người dân qua nhiều giai đoạn của đất nước, từ những lá thư tay thời chiến đến dịch vụ thông minh, đáp ứng nhu cầu của thời đại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-14T23:01:00+07:00",
+      "fetched": "2025-08-15T10:19:32.187418+07:00"
     },
     {
       "id": "d7845d0cc3733ce7208bdd41e7ba6e92",
