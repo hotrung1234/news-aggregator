@@ -1,7 +1,67 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T01:22:38.371537+07:00",
+  "lastUpdated": "2025-08-17T03:17:37.211249+07:00",
   "articles": [
+    {
+      "id": "5d4403e60f913683381a1771294663fe",
+      "title": "HLV Úc khen tuyển nữ Việt Nam sau trận thắng nghẹt thở",
+      "link": "https://tuoitre.vn/hlv-uc-khen-tuyen-nu-viet-nam-sau-tran-thang-nghet-tho-20250816230446907.htm",
+      "summary": "Thắng 2-1 ở bán kết Giải nữ Đông Nam Á 2025, HLV trưởng U23 Úc Joseph Palatsides khen tuyển nữ Việt Nam tấn công ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.773787+07:00",
+      "fetched": "2025-08-17T03:17:28.773917+07:00"
+    },
+    {
+      "id": "7d786de599748fca1044537e7bc61c67",
+      "title": "Video đội tuyển nữ Việt Nam đua tốc độ với tiền vệ U23 Úc",
+      "link": "https://tuoitre.vn/video-doi-tuyen-nu-viet-nam-dua-toc-do-voi-tien-ve-u23-uc-20250816224623385.htm",
+      "summary": "U23 Úc đã tận dụng triệt để sức mạnh về thể hình, tốc độ trước tuyển nữ Việt Nam ở trận bán kết Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.773634+07:00",
+      "fetched": "2025-08-17T03:17:28.773774+07:00"
+    },
+    {
+      "id": "236fb53e1c48da6972c7f9eb3cc957c2",
+      "title": "Về tới Nga, ông Putin nói muốn giải quyết cuộc chiến trong hòa bình",
+      "link": "https://tuoitre.vn/ve-toi-nga-ong-putin-noi-muon-giai-quyet-cuoc-chien-trong-hoa-binh-20250816224958511.htm",
+      "summary": "Bình luận về cuộc gặp với ông Trump ở Alaska, Tổng thống Putin nói 'cuộc trò chuyện rất thẳng thắn, thực chất'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.773504+07:00",
+      "fetched": "2025-08-17T03:17:28.773622+07:00"
+    },
+    {
+      "id": "1ec5773c62bc2170d0032dc0b5ff805b",
+      "title": "Video màn trình diễn 'xuất thần' của thủ thành Patrik Le Giang",
+      "link": "https://tuoitre.vn/video-man-trinh-dien-xuat-than-cua-thu-thanh-patrik-le-giang-20250816230600851.htm",
+      "summary": "Thủ môn Việt kiều Patrik Le Giang đã có ngày thi đấu chói sáng giúp bảo toàn chiến thắng của CLB Công An TP.HCM trước CLB Hà Nội trong ngày ra quân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.773367+07:00",
+      "fetched": "2025-08-17T03:17:28.773492+07:00"
+    },
+    {
+      "id": "4c45bf36a5ac1631c891bd9694a9437a",
+      "title": "Chủ tịch Cuba cảm ơn sự giúp đỡ của người dân Việt Nam",
+      "link": "https://tuoitre.vn/chu-tich-cuba-cam-on-su-giup-do-cua-nguoi-dan-viet-nam-20250816233458284.htm",
+      "summary": "Chia sẻ thông điệp trên mạng xã hội X, Chủ tịch Cuba bày tỏ cảm kích và biết ơn sự giúp đỡ hào phóng mà người dân Việt Nam dành cho đất nước Cuba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.773220+07:00",
+      "fetched": "2025-08-17T03:17:28.773354+07:00"
+    },
+    {
+      "id": "662de5eee43a131e6f95b7e8ca5fba43",
+      "title": "Chế độ phụ cấp với cán bộ, công chức, viên chức và người lao động sau sắp xếp",
+      "link": "https://tuoitre.vn/che-do-phu-cap-voi-can-bo-cong-chuc-vien-chuc-va-nguoi-lao-dong-sau-sap-xep-20250816234833589.htm",
+      "summary": "Cán bộ, công chức, viên chức, người lao động hưởng lương ngân sách bị ảnh hưởng do sắp xếp đơn vị hành chính vẫn được bảo lưu hoặc tiếp tục hưởng phụ cấp nếu tiếp tục làm việc trong hệ thống chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:17:28.772991+07:00",
+      "fetched": "2025-08-17T03:17:28.773205+07:00"
+    },
     {
       "id": "975d6793b2afc77bc476ca7c6cc6fe9a",
       "title": "TP.HCM khen thưởng ban chuyên án phá đường dây đánh bạc 20.000 tỉ đồng trên mạng",
@@ -151,6 +211,56 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T01:22:30.847989+07:00",
       "fetched": "2025-08-17T01:22:30.848203+07:00"
+    },
+    {
+      "id": "0d275ca6f854acb99e9d7b14237fbe59",
+      "title": "Siêu dự án ở đặc khu Vân Đồn tìm được nhà đầu tư",
+      "link": "https://vnexpress.net/sieu-du-an-o-dac-khu-van-don-tim-duoc-nha-dau-tu-4927773.html",
+      "summary": "Tập đoàn Sun Group được UBND tỉnh Quảng Ninh lựa chọn là chủ đầu tư dự án Khu dịch vụ du lịch phức hợp casino thí điểm cho người Việt Nam chơi, trị giá 2 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:34:44+07:00",
+      "fetched": "2025-08-17T03:17:24.183505+07:00"
+    },
+    {
+      "id": "ef1c43e343c0a9331dee907659637cc9",
+      "title": "Haaland giúp Man City thắng đậm vòng một Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-vong-mot-ngoai-hang-anh-4927800.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp giúp Man City đè bẹp chủ nhà Wolves 4-0 ở vòng một Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:06:16+07:00",
+      "fetched": "2025-08-17T03:17:24.183687+07:00"
+    },
+    {
+      "id": "ef1c43e343c0a9331dee907659637cc9",
+      "title": "Haaland giúp Man City thắng đậm vòng một Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-vong-mot-ngoai-hang-anh-4927800.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp giúp Man City đè bẹp chủ nhà Wolves 4-0 ở vòng một Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T19:06:16+07:00",
+      "fetched": "2025-08-17T03:17:37.206392+07:00"
+    },
+    {
+      "id": "fb8298cdf18627f8f95b339a0f560a40",
+      "title": "Người Mỹ uống bia rượu ít nhất lịch sử",
+      "link": "https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html",
+      "summary": "Khảo sát của Gallup cho thấy 54% người Mỹ trưởng thành uống bia rượu, mức thấp nhất kể từ năm 1939, khi ngày càng nhiều người cho rằng đồ uống có cồn không tốt cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:00:00+07:00",
+      "fetched": "2025-08-17T03:17:24.183890+07:00"
+    },
+    {
+      "id": "fb8298cdf18627f8f95b339a0f560a40",
+      "title": "Người Mỹ uống bia rượu ít nhất lịch sử",
+      "link": "https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html",
+      "summary": "Khảo sát của Gallup cho thấy 54% người Mỹ trưởng thành uống bia rượu, mức thấp nhất kể từ năm 1939, khi ngày càng nhiều người cho rằng đồ uống có cồn không tốt cho sức khỏe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T19:00:00+07:00",
+      "fetched": "2025-08-17T03:17:30.390771+07:00"
     },
     {
       "id": "caedea8a60a817081dbfead6df7daadc",
