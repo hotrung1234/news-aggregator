@@ -1,7 +1,157 @@
 window.newsData_2025_08_16 = {
   "date": "2025-08-16",
-  "lastUpdated": "2025-08-16T08:18:44.148390+07:00",
+  "lastUpdated": "2025-08-16T10:12:51.462576+07:00",
   "articles": [
+    {
+      "id": "d05089c430970561a78fe0751f3d5392",
+      "title": "Meta AI loay hoay sau nhiều tháng ra mắt, xa kỳ vọng của CEO Zuckerberg",
+      "link": "https://tuoitre.vn/meta-ai-loay-hoay-sau-nhieu-thang-ra-mat-xa-ky-vong-cua-ceo-zuckerberg-20250815232256476.htm",
+      "summary": "Meta chi hàng tỉ USD cho AI, nhưng ứng dụng Meta AI vẫn bị chê thiếu cá nhân hóa, rời rạc và kém cạnh tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.652541+07:00",
+      "fetched": "2025-08-16T10:12:43.652664+07:00"
+    },
+    {
+      "id": "9006407e48ce9827e8b6ce04178df3f0",
+      "title": "Nghiên cứu mới: Nước không hẳn là điều kiện bắt buộc cho sự sống",
+      "link": "https://tuoitre.vn/nghien-cuu-moi-nuoc-khong-han-la-dieu-kien-bat-buoc-cho-su-song-20250814164310834.htm",
+      "summary": "Trên Trái đất, nước lỏng luôn được xem là chìa khóa của sự sống. Nhưng ở các hành tinh xa xôi, mọi thứ không hẳn như vậy, theo nghiên cứu mới từ Viện Công nghệ Massachusetts.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.652379+07:00",
+      "fetched": "2025-08-16T10:12:43.652526+07:00"
+    },
+    {
+      "id": "06addbf6b9933271ebb39e2f6bed75fe",
+      "title": "65 ngày ủng hộ Cuba: Việt Nam luôn ở bên cạnh Cuba",
+      "link": "https://tuoitre.vn/65-ngay-ung-ho-cuba-viet-nam-luon-o-ben-canh-cuba-20250815233118746.htm",
+      "summary": "Sau ba ngày phát động chương trình '65 năm nghĩa tình Việt Nam - Cuba' đã tiếp nhận hơn 131 tỉ đồng - vượt gấp đôi mục tiêu tối thiểu  của cả đợt vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.652256+07:00",
+      "fetched": "2025-08-16T10:12:43.652368+07:00"
+    },
+    {
+      "id": "d66004f70c1d61eb8b536a937d6c7a39",
+      "title": "Giải bài toán ô nhiễm không khí ở đô thị: Giao thông xanh và chuyển đổi số sẽ là trụ cột",
+      "link": "https://tuoitre.vn/giai-bai-toan-o-nhiem-khong-khi-o-do-thi-giao-thong-xanh-va-chuyen-doi-so-se-la-tru-cot-20250816074428913.htm",
+      "summary": "Ngày 15-8, báo Tuổi Trẻ tổ chức hội thảo về giải pháp kiểm soát ô nhiễm không khí đô thị, với sự tham dự của lãnh đạo sở ngành và chuyên gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.652128+07:00",
+      "fetched": "2025-08-16T10:12:43.652244+07:00"
+    },
+    {
+      "id": "4552fb8df05ed530edf4317d76ca818f",
+      "title": "Sao vẫn bị lừa?",
+      "link": "https://tuoitre.vn/sao-van-bi-lua-20250816073959344.htm",
+      "summary": "A lô, ông nhà báo, tui muốn phản ảnh đến báo việc tôi bị lừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651974+07:00",
+      "fetched": "2025-08-16T10:12:43.652115+07:00"
+    },
+    {
+      "id": "f658a9afc40e631a24ae3444702fe364",
+      "title": "Sống nơi sông nước rì rào, cây xanh bạt ngàn và gần Hà Nội",
+      "link": "https://tuoitre.vn/song-noi-song-nuoc-ri-rao-cay-xanh-bat-ngan-va-gan-ha-noi-20250814105831991.htm",
+      "summary": "Hậu COVID-19, khái niệm ‘an cư’ của thế hệ trẻ thay đổi mạnh mẽ: Không gian sống không chỉ để ở mà còn phải là nơi mang lại năng lượng sáng tạo, cảm hứng và cân bằng cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651833+07:00",
+      "fetched": "2025-08-16T10:12:43.651955+07:00"
+    },
+    {
+      "id": "7a50cbb588a1a9607caaf7a3fb68d2df",
+      "title": "BIZ MBBank ra mắt gói giải pháp đồng hành cùng hộ kinh doanh",
+      "link": "https://tuoitre.vn/biz-mbbank-ra-mat-goi-giai-phap-dong-hanh-cung-ho-kinh-doanh-20250815160549658.htm",
+      "summary": "Ngân hàng TMCP Quân đội (MB) vừa giới thiệu gói giải pháp ‘Combo Quyền năng: Lên doanh nghiệp không khó’ dành riêng cho hộ kinh doanh. Sản phẩm giúp các hộ kinh doanh chuyển đổi mô hình và đón cơ hội tăng trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651708+07:00",
+      "fetched": "2025-08-16T10:12:43.651822+07:00"
+    },
+    {
+      "id": "27cecab59c6d62b362fa0a693185c7e9",
+      "title": "Sunshine Group khởi công hai dự án, vốn hơn 3 tỉ đô",
+      "link": "https://tuoitre.vn/sunshine-group-khoi-cong-hai-du-an-von-hon-3-ti-do-20250815210057835.htm",
+      "summary": "Đại diện Sunshines Group cho biết sáng 19-8 tới, hưởng ứng chỉ đạo của Thủ tướng về tổ chức khánh thành, khởi công các dự án, công trình chào mừng kỷ niệm 80 năm ngày Quốc khánh, tập đoàn sẽ đồng thời khởi công hai dự án quy mô tỉ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651576+07:00",
+      "fetched": "2025-08-16T10:12:43.651696+07:00"
+    },
+    {
+      "id": "3087b7d0e47cf717b25cf4540cc9ba33",
+      "title": "Điểm tin cùng bạn 8h: Ra mắt Grab xích lô ở Huế; 75 tuổi nhận bằng cử nhân bác sĩ loại giỏi",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-ra-mat-grab-xich-lo-o-hue-75-tuoi-nhan-bang-cu-nhan-bac-si-loai-gioi-20250816063937852.htm",
+      "summary": "Điểm tin cùng bạn 8h: Ra mắt Grab xích lô ở Huế; 75 tuổi nhận bằng cử nhân bác sĩ loại giỏi",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651421+07:00",
+      "fetched": "2025-08-16T10:12:43.651563+07:00"
+    },
+    {
+      "id": "bf6454b8933d0ea96f30f43e0052248c",
+      "title": "Mở làn riêng cho xe buýt: Nên không?",
+      "link": "https://tuoitre.vn/mo-lan-rieng-cho-xe-buyt-nen-khong-20250816075011632.htm",
+      "summary": "TP.HCM đang lấy ý kiến dự thảo quy định mới về quản lý xe buýt, trong đó có nội dung mở làn ưu tiên hoặc làn riêng cho xe buýt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651284+07:00",
+      "fetched": "2025-08-16T10:12:43.651408+07:00"
+    },
+    {
+      "id": "2101c4d8a3edd90a6c3f989cdd3a0b0b",
+      "title": "Ông Putin tiết lộ lời đầu tiên nói với ông Trump tại Alaska",
+      "link": "https://tuoitre.vn/ong-putin-tiet-lo-loi-dau-tien-noi-voi-ong-trump-tai-alaska-20250816074200307.htm",
+      "summary": "Trong phát biểu họp báo, tổng thống Nga nhấn mạnh sợi dây di sản gắn kết xứ bạch dương với cả Mỹ và Ukraine, kêu gọi tiến về tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651157+07:00",
+      "fetched": "2025-08-16T10:12:43.651272+07:00"
+    },
+    {
+      "id": "219b06f590c42d7d7a8ca514bb141350",
+      "title": "Pickleball 'khuynh đảo' triển lãm quốc tế thể thao",
+      "link": "https://tuoitre.vn/pickleball-khuynh-dao-trien-lam-quoc-te-the-thao-20250816000933796.htm",
+      "summary": "Quy tụ hơn 450 gian hàng đến từ 15 quốc gia và vùng lãnh thổ, nhưng những gian hàng sôi động nhất tại Triển lãm quốc tế Thể thao và Giải trí Việt Nam 2025, đang diễn ra tại TP.HCM là những gian hàng của các hãng vợt pickleball.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.651026+07:00",
+      "fetched": "2025-08-16T10:12:43.651145+07:00"
+    },
+    {
+      "id": "4c694ca9d437f2e836113319557d7b1d",
+      "title": "Bộ Nội vụ hướng dẫn 'gỡ vướng' tuyển dụng, xếp ngạch công chức, xếp lương ban chỉ huy quân sự xã",
+      "link": "https://tuoitre.vn/bo-noi-vu-huong-dan-go-vuong-tuyen-dung-xep-ngach-cong-chuc-xep-luong-ban-chi-huy-quan-su-xa-20250816080210232.htm",
+      "summary": "Bộ Nội vụ hướng dẫn gỡ vướng về tuyển dụng, xếp ngạch công chức, xếp lương với chỉ huy trưởng, phó chỉ huy trưởng, trợ lý ban chỉ huy quân sự cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.650892+07:00",
+      "fetched": "2025-08-16T10:12:43.651014+07:00"
+    },
+    {
+      "id": "5af8914c7523271e2ea787624603ee8d",
+      "title": "Người cao tuổi chờ lâu vẫn chưa nhận được trợ cấp, vì sao?",
+      "link": "https://tuoitre.vn/nguoi-cao-tuoi-cho-lau-van-chua-nhan-duoc-tro-cap-vi-sao-20250815233732636.htm",
+      "summary": "Quy định trợ cấp hưu trí xã hội có hiệu lực từ 1-7-2025 nhưng đến nay nhiều người cao tuổi (không lương hưu) vẫn chưa được nhận tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.650747+07:00",
+      "fetched": "2025-08-16T10:12:43.650879+07:00"
+    },
+    {
+      "id": "353023e7d619858340da692606a1db91",
+      "title": "Triệu người đi bộ trên toàn quốc 'Cùng Việt Nam tiến bước'",
+      "link": "https://tuoitre.vn/trieu-nguoi-di-bo-tren-toan-quoc-cung-viet-nam-tien-buoc-20250816081919016.htm",
+      "summary": "Hơn 1 triệu người dân đã khoác áo đỏ sao vàng tham gia chương trình đi bộ toàn quốc “Cùng Việt Nam tiến bước\" với thông điệp “1 tỉ bước chân tiến vào kỷ nguyên mới\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:12:43.650509+07:00",
+      "fetched": "2025-08-16T10:12:43.650731+07:00"
+    },
     {
       "id": "b52253900470a233b3e9f94d5598165d",
       "title": "Thượng đỉnh Trump - Putin kết thúc sớm, kết quả tốt đẹp",
@@ -131,6 +281,376 @@ window.newsData_2025_08_16 = {
       "category": "Tổng hợp",
       "published": "2025-08-16T03:18:53.279370+07:00",
       "fetched": "2025-08-16T03:18:53.279594+07:00"
+    },
+    {
+      "id": "f7b2d2104f3c46ce617375076f6ef240",
+      "title": "Lễ chào cờ đặc biệt khẳng định niềm tự hào 'Tôi yêu Tổ quốc tôi'",
+      "link": "https://thanhnien.vn/le-chao-co-dac-biet-khang-dinh-niem-tu-hao-toi-yeu-to-quoc-toi-18525081609592452.htm",
+      "summary": "Dưới cột cờ Thủ Ngữ - nơi ghi dấu những chiến sĩ cảm tử bảo vệ lá cờ đỏ sao vàng trong ngày đầu Nam bộ kháng chiến – hàng trăm thanh niên thành phố mang tên Bác mắt hướng về lá cờ đỏ sao vàng thiêng liêng với niềm tự hào, biết ơn và tình yêu Tổ quốc rực cháy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T03:12:00+07:00",
+      "fetched": "2025-08-16T10:12:42.271853+07:00"
+    },
+    {
+      "id": "e867f88ecf6d612681be0fa798abfbb0",
+      "title": "TP.HCM, Hà Nội kẹt xe top châu Á - Cần tìm giải pháp cho 'đường khó'?",
+      "link": "https://thanhnien.vn/tphcm-ha-noi-ket-xe-top-chau-a-can-tim-giai-phap-cho-duong-kho-185250815200108368.htm",
+      "summary": "Tình trạng giao thông tại các khu vực trung tâm đang trở thành một 'bài kiểm tra độ bền' khắc nghiệt cho mọi phương tiện. Câu hỏi đặt ra: đâu là giải pháp bảo vệ động cơ tối ưu trong điều kiện vận hành ấy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T03:00:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272025+07:00"
+    },
+    {
+      "id": "cf11277187c0a7b67bbae386aa7ec12d",
+      "title": "Những kiểu váy 'nhất định phải có' giúp nàng nổi bật trong những ngày dạo biển",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-kieu-vay-nhat-dinh-phai-co-giup-nang-noi-bat-trong-nhung-ngay-dao-bien-185250815114210138.htm",
+      "summary": "Đi biển mà thiếu váy xinh như thiếu đi một 'trợ thủ đắc lực' để các cô nàng tự tin dạo bước dưới nắng vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T03:00:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272204+07:00"
+    },
+    {
+      "id": "91bc7cf5f238e478807c4e5e67923b3e",
+      "title": "Thủ tướng: Nhà ở xã hội phải đa dạng hình thức mua, thuê mua",
+      "link": "https://thanhnien.vn/thu-tuong-nha-o-xa-hoi-phai-da-dang-hinh-thuc-mua-thue-mua-185250816094245582.htm",
+      "summary": "Chia sẻ mô hình khu nhà ở xã hội tại đô thị mới An Vân Dương (TP.Huế), Thủ tướng lưu ý nhà ở xã hội phải đa dạng phân khúc, đa dạng hình thức mua, thuê mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:59:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272361+07:00"
+    },
+    {
+      "id": "d3994c69c0d7a39312c6c21124799919",
+      "title": "Thêm nhiều trường ở Hà Nội bị phụ huynh nghi phát sách giả",
+      "link": "https://thanhnien.vn/them-nhieu-truong-o-ha-noi-bi-phu-huynh-nghi-phat-sach-gia-185250816092801526.htm",
+      "summary": "Sau phản ánh của Thanh Niên về việc phụ huynh nghi ngờ Trường tiểu học TT.Xuân Mai A phát sách giả, đã có thêm nhiều phụ huynh phản ánh 2 trường học khác trên địa bàn xã Xuân Mai (Hà Nội) cũng bị nghi ngờ phát sách tiếng Anh giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:54:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272533+07:00"
+    },
+    {
+      "id": "9fa6cea3dd8f79dfe5becd3f8403b7e3",
+      "title": "Đội trẻ Indonesia bất ngờ đánh bại Uzbekistan, sếp lớn lập tức cảnh báo",
+      "link": "https://thanhnien.vn/doi-tre-indonesia-bat-ngo-danh-bai-uzbekistan-sep-lon-lap-tuc-canh-bao-185250816094953261.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Indonesia (PSSI), ông Erick Thohir đã cảnh báo đội U.17 nước này chớ vội mừng, sau khi vừa gây bất ngờ đánh bại đối thủ mạnh Uzbekistan với tỷ số 2-0 tại giải giao hữu Independence Cup ngày 15.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:53:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272692+07:00"
+    },
+    {
+      "id": "da0b6273bb0eb7d042ace8e85a8a0e2c",
+      "title": "Bờ kè nguy hiểm",
+      "link": "https://thanhnien.vn/bo-ke-nguy-hiem-185250815205111627.htm",
+      "summary": "Bạn đọc phản ánh, lan can bảo vệ bờ kè thoát nước tại giao lộ Phan Anh - Tô Hiệu, P.Phú Lâm, TP.HCM (trước đây thuộc P.14, Q.6) bị mất một đoạn, rất nguy hiểm cho người đi đường (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:49:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272842+07:00"
+    },
+    {
+      "id": "6fa235fea9e917b5a34833b501dc1e71",
+      "title": "Bàng hoàng khoảnh khắc kẻ lạ sát hại cụ bà 80 tuổi ở Tân Uyên",
+      "link": "https://thanhnien.vn/bang-hoang-khoanh-khac-ke-la-sat-hai-cu-ba-80-tuoi-o-tan-uyen-18525081608562559.htm",
+      "summary": "Liên quan vụ cụ bà 80 tuổi bị sát hại tại nhà ở phường Tân Uyên, các đơn vị nghiệp vụ Công an TP.HCM nhanh chóng bắt giữ nghi phạm và làm rõ động cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:43:00+07:00",
+      "fetched": "2025-08-16T10:12:42.272996+07:00"
+    },
+    {
+      "id": "0237a35d5ae3a91c46390e3ad0174d32",
+      "title": "Cuộc họp báo chớp nhoáng sau thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/cuoc-hop-bao-chop-nhoang-sau-thuong-dinh-trump-putin-4927562.html",
+      "summary": "Ông Trump và ông Putin phát biểu với tổng thời lượng 11 phút, không trả lời câu hỏi của báo giới trong họp báo chung sau hội nghị thượng đỉnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T02:41:29+07:00",
+      "fetched": "2025-08-16T10:12:45.338753+07:00"
+    },
+    {
+      "id": "250d64cfefcac873048e387a7735265c",
+      "title": "Công an nhân dân 80 năm vì nước quên thân, vì dân phục vụ",
+      "link": "https://thanhnien.vn/cong-an-nhan-dan-80-nam-vi-nuoc-quen-than-vi-dan-phuc-vu-185250816090537003.htm",
+      "summary": "Suốt 80 năm xây dựng, chiến đấu và trưởng thành, lực lượng công an nhân dân luôn tuyệt đối trung thành với Đảng, gắn bó máu thịt với nhân dân, chỉ biết 'còn Đảng thì còn mình' và luôn 'lấy niềm vui của nhân dân làm niềm vui, lẽ sống của mình'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:39:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273148+07:00"
+    },
+    {
+      "id": "27e8f8b98b0e8d3294a7a75105036ea7",
+      "title": "Đồng Tháp: Xảy ra 2 vụ cháy lớn trong đêm khiến 1 người tử vong",
+      "link": "https://thanhnien.vn/dong-thap-xay-ra-2-vu-chay-lon-trong-dem-khien-1-nguoi-tu-vong-185250816083109361.htm",
+      "summary": "Trong đêm 15.8, trên địa bàn tỉnh Đồng Tháp cũ xảy ra 2 vụ cháy chợ thực phẩm Tam Nông ở xã Tràm Chim và cháy 2 căn nhà dân ở xã An Long khiến 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:32:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273302+07:00"
+    },
+    {
+      "id": "e8c0af1b30ae03b5e465b7a033921a83",
+      "title": "Cái bắt tay tại thượng đỉnh Trump - Putin hé lộ điều gì?",
+      "link": "https://thanhnien.vn/cai-bat-tay-tai-thuong-dinh-trump-putin-he-lo-dieu-gi-185250816093119689.htm",
+      "summary": "Hai Tổng thống Donald Trump và Vladimir Putin đã gặp nhau hôm 15.8 tại Anchorage, Alaska, trong cuộc gặp trực tiếp đầu tiên của họ sau 6 năm, với chủ đề chính là cuộc chiến ở Ukraine và hợp tác kinh tế Mỹ-Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:31:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273452+07:00"
+    },
+    {
+      "id": "d9d43f6509ddfe8d950a19afd86b82ea",
+      "title": "Xu hướng 'công ty lớn ít người' trong thời AI",
+      "link": "https://vnexpress.net/xu-huong-cong-ty-lon-it-nguoi-trong-thoi-ai-4926062.html",
+      "summary": "Đội ngũ nhân viên hùng hậu từng phản ánh thành công của doanh nghiệp, nhưng nhiều công ty đang thu hẹp quy mô để hoạt động hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:30:00+07:00",
+      "fetched": "2025-08-16T10:12:36.632151+07:00"
+    },
+    {
+      "id": "d285fa99273444f5ece22db1415182c8",
+      "title": "Hơn 300 sản phẩm tiêu biểu Lạng Sơn trong sự kiện chuyển đổi số",
+      "link": "https://vnexpress.net/hon-300-san-pham-tieu-bieu-lang-son-trong-su-kien-chuyen-doi-so-4927398.html",
+      "summary": "Chương trình chuyển đổi số chợ truyền thống và thúc đẩy phát triển thương mại điện tử hỗ trợ hơn 300 sản phẩm tiêu biểu của Lạng Sơn đến với đông đảo người tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:30:00+07:00",
+      "fetched": "2025-08-16T10:12:36.632355+07:00"
+    },
+    {
+      "id": "d285fa99273444f5ece22db1415182c8",
+      "title": "Hơn 300 sản phẩm tiêu biểu Lạng Sơn trong sự kiện chuyển đổi số",
+      "link": "https://vnexpress.net/hon-300-san-pham-tieu-bieu-lang-son-trong-su-kien-chuyen-doi-so-4927398.html",
+      "summary": "Chương trình chuyển đổi số chợ truyền thống và thúc đẩy phát triển thương mại điện tử hỗ trợ hơn 300 sản phẩm tiêu biểu của Lạng Sơn đến với đông đảo người tiêu dùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T02:30:00+07:00",
+      "fetched": "2025-08-16T10:12:46.936013+07:00"
+    },
+    {
+      "id": "d9d43f6509ddfe8d950a19afd86b82ea",
+      "title": "Xu hướng 'công ty lớn ít người' trong thời AI",
+      "link": "https://vnexpress.net/xu-huong-cong-ty-lon-it-nguoi-trong-thoi-ai-4926062.html",
+      "summary": "Đội ngũ nhân viên hùng hậu từng phản ánh thành công của doanh nghiệp, nhưng nhiều công ty đang thu hẹp quy mô để hoạt động hiệu quả.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-16T02:30:00+07:00",
+      "fetched": "2025-08-16T10:12:49.679887+07:00"
+    },
+    {
+      "id": "3438f303bbdfc2ab54213491e59c3e7d",
+      "title": "Tổng thống Trump nói gì sau cuộc gặp được 'điểm 10' với Tổng thống Putin?",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-gi-sau-cuoc-gap-duoc-diem-10-voi-tong-thong-putin-185250816090558097.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đánh giá cuộc gặp Tổng thống Nga Vladimir Putin tại Alaska là hoàn hảo, và cho rằng việc đạt thỏa thuận giờ đây phụ thuộc vào Tổng thống Ukraine Volodymyr Zelensky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:28:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273626+07:00"
+    },
+    {
+      "id": "d4862f150438c0f2417bba1151e5abd1",
+      "title": "Mất tiền từ chiêu lừa 'Câu lạc bộ ghép đôi'",
+      "link": "https://vnexpress.net/mat-tien-tu-chieu-lua-cau-lac-bo-ghep-doi-4927249.html",
+      "summary": "Tham gia \"Câu lạc bộ ghép đôi\" trên mạng xã hội, người phụ nữ trung niên bị dẫn dụ nhiều lần chuyển tiền cho kẻ lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:26:00+07:00",
+      "fetched": "2025-08-16T10:12:36.632576+07:00"
+    },
+    {
+      "id": "146bcc62827b18cfee2eeaa80bac27f2",
+      "title": "Nhiều loại xe bị cấm qua cầu Nhơn Trạch",
+      "link": "https://vnexpress.net/nhieu-loai-xe-bi-cam-qua-cau-nhon-trach-4927556.html",
+      "summary": "Xe máy, ôtô tải trên 1,5 tấn và xe khách 16 chỗ trở lên chưa được qua cầu Nhơn Trạch nối TP HCM - Đồng Nai giai đoạn đầu thông tuyến, do kết nối chưa hoàn thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:22:40+07:00",
+      "fetched": "2025-08-16T10:12:36.632749+07:00"
+    },
+    {
+      "id": "57e7d5622a3a7907175cb1297fd6b6e9",
+      "title": "Giá xăng dầu hôm nay 16.8.2025: Mất gần 1 USD phiên cuối tuần",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1682025-mat-gan-1-usd-phien-cuoi-tuan-185250816084441145.htm",
+      "summary": "Giá dầu thế giới mất gần 1 USD/thùng trong phiên giao dịch cuối cùng của tuần trong khi chờ đợi kết quả cuộc gặp gỡ giữa Tổng thống Mỹ Donald Trump và Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:20:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273777+07:00"
+    },
+    {
+      "id": "a2ae2ee2c55885a63b1514998cdca078",
+      "title": "Bà Hillary nêu khả năng đề cử ông Trump cho giải Nobel Hòa bình",
+      "link": "https://vnexpress.net/ba-hillary-neu-kha-nang-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4927554.html",
+      "summary": "Cựu ngoại trưởng Hillary Clinton tuyên bố sẵn sàng đề cử Tổng thống Trump cho giải Nobel Hòa bình nếu chấm dứt chiến sự Ukraine thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:18:08+07:00",
+      "fetched": "2025-08-16T10:12:36.632915+07:00"
+    },
+    {
+      "id": "a2ae2ee2c55885a63b1514998cdca078",
+      "title": "Bà Hillary nêu khả năng đề cử ông Trump cho giải Nobel Hòa bình",
+      "link": "https://vnexpress.net/ba-hillary-neu-kha-nang-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4927554.html",
+      "summary": "Cựu ngoại trưởng Hillary Clinton tuyên bố sẵn sàng đề cử Tổng thống Trump cho giải Nobel Hòa bình nếu chấm dứt chiến sự Ukraine thành công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T02:18:08+07:00",
+      "fetched": "2025-08-16T10:12:45.338933+07:00"
+    },
+    {
+      "id": "bc125057faf148ea9ccf6f0f9e8833af",
+      "title": "U.21 Việt Nam về nước sau hành trình giông bão ở giải thế giới: Quyết thắng Dominica hôm nay!",
+      "link": "https://thanhnien.vn/u21-viet-nam-ve-nuoc-sau-hanh-trinh-giong-bao-o-giai-the-gioi-quyet-thang-dominica-hom-nay-185250816090504706.htm",
+      "summary": "Sau thất bại 1-3 trước U.21 Chile vào tối 15.8, đội tuyển bóng chuyền nữ U.21 Việt Nam sẽ bước vào trận phân hạng cuối cùng tại giải vô địch bóng chuyền nữ U.21 thế giới hôm nay (16.8).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:12:00+07:00",
+      "fetched": "2025-08-16T10:12:42.273933+07:00"
+    },
+    {
+      "id": "c5197bcd6534c95add20cf24611939c6",
+      "title": "Hậu trường Lisa đóng phim cùng tài tử Nhật Bản",
+      "link": "https://vnexpress.net/hau-truong-lisa-dong-phim-cung-tai-tu-nhat-ban-4927560.html",
+      "summary": "Ca sĩ Thái Lan Lisa và tài tử hàng đầu Nhật Sakaguchi Kentaro diễn chuyện tình bi thương trong video \"Dream\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:11:05+07:00",
+      "fetched": "2025-08-16T10:12:36.633657+07:00"
+    },
+    {
+      "id": "b76e38337ffe7174eace7d2215f28002",
+      "title": "Những tấm lòng vàng 16.8.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-1682025-185250815180945796.htm",
+      "summary": "Giúp em Nguyễn Cẩm Tiên - TP.Cần Thơ (nhân vật được đề cập trong bài viết NLMT - Nữ sinh nghèo nhịn ăn để dành tiền đóng học phí; trên Thanh Niên ngày 13.6.2024, tiếp theo):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:06:00+07:00",
+      "fetched": "2025-08-16T10:12:42.274082+07:00"
+    },
+    {
+      "id": "c364079a2c2eceb71e2d1c8f1e4cc55b",
+      "title": "Ford Territory 2025 ra mắt, giá từ 762 triệu đồng",
+      "link": "https://vnexpress.net/ford-territory-2025-ra-mat-gia-tu-762-trieu-dong-4927228.html",
+      "summary": "Bản nâng cấp giữa chu kỳ của Territory thay đổi nhẹ thiết kế, động cơ giữ nguyên loại 1.5 tăng áp, giá cao nhất 896 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:04:55+07:00",
+      "fetched": "2025-08-16T10:12:36.633822+07:00"
+    },
+    {
+      "id": "4d82acf9cddf12a679832b33f1ca6baa",
+      "title": "Bạn gái đòi giữ lương tôi và gửi 5 triệu đồng hàng tháng cho bố mẹ em",
+      "link": "https://vnexpress.net/ban-gai-doi-giu-luong-ban-gai-thuc-dung-ban-gai-doi-giu-luong-toi-va-gui-5-trieu-dong-hang-thang-cho-bo-me-em-4927382.html",
+      "summary": "Tôi thấy đề nghị này khá nhạy cảm vì chúng tôi chưa cưới và tôi cũng còn phải lo cho gia đình mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:00:00+07:00",
+      "fetched": "2025-08-16T10:12:36.633984+07:00"
+    },
+    {
+      "id": "f9fd2a0dc6385332c6915b0c23f2bb6d",
+      "title": "Honda Việt Nam ra mắt Wave RSX Fi mới",
+      "link": "https://vnexpress.net/honda-viet-nam-ra-mat-wave-rsx-fi-moi-4927267.html",
+      "summary": "Mẫu xe số được bổ sung hai phiên bản màu mới và bộ tem thiết kế lại, có ba phiên bản với giá khởi điểm từ 22,44 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:00:00+07:00",
+      "fetched": "2025-08-16T10:12:36.634150+07:00"
+    },
+    {
+      "id": "b6c5acf31601671e04c9fa1fc2573a36",
+      "title": "Nền tảng CRM No-code tích hợp AI hỗ trợ vận hành doanh nghiệp",
+      "link": "https://vnexpress.net/nen-tang-crm-no-code-tich-hop-ai-ho-tro-van-hanh-doanh-nghiep-4926929.html",
+      "summary": "CRM No-code tích hợp AI cho phép doanh nghiệp tùy chỉnh linh hoạt, liên thông dữ liệu, tự động hóa quy trình, tăng tốc ra quyết định và nâng cao năng lực cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T02:00:00+07:00",
+      "fetched": "2025-08-16T10:12:36.634303+07:00"
+    },
+    {
+      "id": "b6c5acf31601671e04c9fa1fc2573a36",
+      "title": "Nền tảng CRM No-code tích hợp AI hỗ trợ vận hành doanh nghiệp",
+      "link": "https://vnexpress.net/nen-tang-crm-no-code-tich-hop-ai-ho-tro-van-hanh-doanh-nghiep-4926929.html",
+      "summary": "CRM No-code tích hợp AI cho phép doanh nghiệp tùy chỉnh linh hoạt, liên thông dữ liệu, tự động hóa quy trình, tăng tốc ra quyết định và nâng cao năng lực cạnh tranh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-16T02:00:00+07:00",
+      "fetched": "2025-08-16T10:12:49.680882+07:00"
+    },
+    {
+      "id": "95538506927540b484666c507e2aa78a",
+      "title": "Lợi nhuận ngành đường sắt tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-nganh-duong-sat-tang-manh-4927468.html",
+      "summary": "Quý II, tổng công ty Đường sắt Việt Nam báo lợi nhuận sau thuế đạt 109,3 tỷ đồng, tăng 109% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T01:59:58+07:00",
+      "fetched": "2025-08-16T10:12:36.634461+07:00"
+    },
+    {
+      "id": "95538506927540b484666c507e2aa78a",
+      "title": "Lợi nhuận ngành đường sắt tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-nganh-duong-sat-tang-manh-4927468.html",
+      "summary": "Quý II, tổng công ty Đường sắt Việt Nam báo lợi nhuận sau thuế đạt 109,3 tỷ đồng, tăng 109% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T01:59:58+07:00",
+      "fetched": "2025-08-16T10:12:46.935656+07:00"
+    },
+    {
+      "id": "dbd9d31128528d9eb31ed7952bffe907",
+      "title": "Ngôi nhà 220 m2 xây theo triết lý tối giản, dễ chịu",
+      "link": "https://vnexpress.net/ngoi-nha-220-m2-xay-theo-triet-ly-toi-gian-de-chiu-4927231.html",
+      "summary": "Không gian được thiết kế mở, kết nối liền mạch với nhau, ưu tiên bảng màu nội thất trung tính nhằm tạo cảm giác dễ chịu, thoải mái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T01:52:38+07:00",
+      "fetched": "2025-08-16T10:12:36.634643+07:00"
+    },
+    {
+      "id": "1f7e665a94210c222778ff60cd0caba7",
+      "title": "Con trai bất hiếu có được hưởng tài sản thừa kế từ cha mẹ không?",
+      "link": "https://vnexpress.net/con-bat-hieu-co-duoc-huong-tai-san-thua-ke-tu-cha-me-khong-4926825.html",
+      "summary": "Khi cha lâm bệnh nặng, tôi và mẹ luôn túc trực săn sóc ngày đêm, còn em trai thì chưa một lần quan tâm hay chăm nom.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T01:51:28+07:00",
+      "fetched": "2025-08-16T10:12:36.634805+07:00"
+    },
+    {
+      "id": "e0f7033cdf1328813b44ae5b8c1c927f",
+      "title": "Gia Lai bàn cơ hội đầu tư cùng Busan",
+      "link": "https://vnexpress.net/gia-lai-ban-co-hoi-dau-tu-cung-busan-4927281.html",
+      "summary": "Đoàn công tác tỉnh Gia Lai làm việc với Phòng Thương mại và Công nghiệp Busan (BCCI) tại Hàn Quốc nhằm thúc đẩy hợp tác đầu tư, thương mại và logistics.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T01:44:21+07:00",
+      "fetched": "2025-08-16T10:12:36.634957+07:00"
+    },
+    {
+      "id": "67633c79053eba6e81ba5081e3f89bc2",
+      "title": "Sao Hollywood trẻ đẹp ở tuổi 48 nhờ ăn chay trường",
+      "link": "https://vnexpress.net/sao-hollywood-tre-dep-o-tuoi-48-nho-an-chay-truong-4927409.html",
+      "summary": "Nữ diễn viên \"Clueless\" Alicia Silverstone tiết lộ chế độ ăn chay trường là bí quyết giúp cô giữ gìn nhan sắc mà không cần tiêm Botox hay phẫu thuật thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T01:38:32+07:00",
+      "fetched": "2025-08-16T10:12:36.635108+07:00"
+    },
+    {
+      "id": "2472752e3811cd5564dd0e6e892dd746",
+      "title": "Apple Watch tại Mỹ được kích hoạt lại cảm biến oxy trong máu",
+      "link": "https://vnexpress.net/apple-watch-tai-my-duoc-kich-hoat-lai-cam-bien-oxy-trong-mau-4927508.html",
+      "summary": "Apple cho biết sẽ đưa tính năng cảm biến oxy trong máu trở lại Watch Series 9 và các phiên bản mới hơn thông qua bản cập nhập phần mềm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-16T01:34:27+07:00",
+      "fetched": "2025-08-16T10:12:49.680387+07:00"
     },
     {
       "id": "aedb2303ffbcd39eb05f7bdee6f9bfa1",
@@ -283,6 +803,16 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T01:24:55.196820+07:00"
     },
     {
+      "id": "42812f97daa8d2e4a6824eabbd74eeb8",
+      "title": "California giải cứu người đàn ông kẹt hai ngày sau thác nước",
+      "link": "https://vnexpress.net/california-giai-cuu-nguoi-dan-ong-ket-hai-ngay-sau-thac-nuoc-4927292.html",
+      "summary": "Giới chức Tulare sử dụng trực thăng giải cứu thành công người đàn ông 46 tuổi kẹt hai ngày sau thác nước ở Vườn quốc gia Sequoia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T01:17:43+07:00",
+      "fetched": "2025-08-16T10:12:45.339166+07:00"
+    },
+    {
       "id": "f8225d002acb925f586654fa7486070c",
       "title": "Choáng váng với 'tiền khủng' khi chuyển đổi đất nông nghiệp lên đất ở",
       "link": "https://thanhnien.vn/choang-vang-voi-tien-khung-khi-chuyen-doi-dat-nong-nghiep-len-dat-o-185250815124414895.htm",
@@ -301,6 +831,16 @@ window.newsData_2025_08_16 = {
       "category": "Tổng hợp",
       "published": "2025-08-16T01:10:00+07:00",
       "fetched": "2025-08-16T08:18:36.835034+07:00"
+    },
+    {
+      "id": "e225dfa57b954065ab41731ad3b1c20e",
+      "title": "Giá gạo chịu áp lực giảm vì Philippines ngưng nhập khẩu",
+      "link": "https://vnexpress.net/gia-gao-chiu-ap-luc-giam-vi-philippines-ngung-nhap-khau-4927427.html",
+      "summary": "Nhiều tháng qua, giá gạo 5% tấm Việt Nam dưới 400 USD một tấn, nay tiếp tục chịu áp lực khi Philippines dự kiến ngưng nhập khẩu hai tháng, từ 1/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T01:07:58+07:00",
+      "fetched": "2025-08-16T10:12:46.935846+07:00"
     },
     {
       "id": "b9d8b076f2aa70679f5236fa0331ae4e",
