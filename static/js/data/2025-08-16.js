@@ -1,7 +1,157 @@
 window.newsData_2025_08_16 = {
   "date": "2025-08-16",
-  "lastUpdated": "2025-08-16T15:22:12.547898+07:00",
+  "lastUpdated": "2025-08-16T17:16:02.282935+07:00",
   "articles": [
+    {
+      "id": "4048ca53e7b565e557fc6ad05e79a96a",
+      "title": "Chủ tịch tỉnh Lâm Đồng yêu cầu chỉnh trang hạ tầng, mỹ quan đô thị các phường trung tâm",
+      "link": "https://tuoitre.vn/chu-tich-tinh-lam-dong-yeu-cau-chinh-trang-ha-tang-my-quan-do-thi-cac-phuong-trung-tam-20250816152849488.htm",
+      "summary": "Văn phòng UBND tỉnh Lâm Đồng vừa có công văn truyền đạt ý kiến của Chủ tịch UBND tỉnh Hồ Văn Mười về việc yêu cầu các sở ngành liên quan phối hợp các phường trung tâm chỉnh trang lại bộ mặt đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.911515+07:00",
+      "fetched": "2025-08-16T17:15:55.911629+07:00"
+    },
+    {
+      "id": "e41e095be9fb9c6a432ae72fa895918f",
+      "title": "Tủ sách song hành theo cuộc đời ngoại",
+      "link": "https://tuoitre.vn/tu-sach-song-hanh-theo-cuoc-doi-ngoai-20250811182229434.htm",
+      "summary": "Trong chiếc tủ nhỏ của ngoại có biết nhiêu là sách đủ các thể loại và các thứ tiếng. Sách đã rất cũ và gấp đôi tuổi tôi cũng không chừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.911390+07:00",
+      "fetched": "2025-08-16T17:15:55.911504+07:00"
+    },
+    {
+      "id": "fc3c44af1592dee8330c88e692821813",
+      "title": "Metro số 1 thêm chuyến tàu và kéo dài giờ chạy cuối tuần",
+      "link": "https://tuoitre.vn/metro-so-1-them-chuyen-tau-va-keo-dai-gio-chay-cuoi-tuan-2025081615432625.htm",
+      "summary": "Tuyến metro số 1 (Bến Thành - Suối Tiên) sẽ thêm chuyến và kéo dài giờ phục vụ vào cuối tuần, giúp người dân thuận tiện hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.911266+07:00",
+      "fetched": "2025-08-16T17:15:55.911379+07:00"
+    },
+    {
+      "id": "9e391c213e5ac38a33f6b9ffc9c8bf68",
+      "title": "Thầy hiệu trưởng giải tỏa băn khoăn cho phụ huynh có con vào lớp 1",
+      "link": "https://tuoitre.vn/thay-hieu-truong-giai-toa-ban-khoan-cho-phu-huynh-co-con-vao-lop-1-20250816153436215.htm",
+      "summary": "Thầy hiệu trưởng Trường tiểu học Chính Nghĩa, phường Chợ Lớn (quận 5 cũ), TP.HCM đã trực tiếp nói chuyện với phụ huynh lớp 1 trong cuộc họp đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.911140+07:00",
+      "fetched": "2025-08-16T17:15:55.911255+07:00"
+    },
+    {
+      "id": "0d8ea6f7e9307653853482feb8959bf0",
+      "title": "Cả làng đào bới 4 tiếng tìm chìa khóa xe cho du khách do bị chuột tha",
+      "link": "https://tuoitre.vn/ca-lang-hop-suc-dao-boi-4-tieng-tim-lai-chia-khoa-xe-cho-du-khach-do-bi-chuot-tha-mat-20250816153926681.htm",
+      "summary": "Một chuyến du lịch ở tây nam Trung Quốc bất ngờ biến thành màn “săn kho báu” kỳ lạ khi một con chuột marmot \"cuỗm\" chìa khóa xe của du khách, khiến cả làng phải hợp sức đào bới để tìm lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.911007+07:00",
+      "fetched": "2025-08-16T17:15:55.911128+07:00"
+    },
+    {
+      "id": "7256d8ca0127f693302c91d00e2ddf71",
+      "title": "Công thức 4 sẵn sàng trước khi cho con du học",
+      "link": "https://tuoitre.vn/cong-thuc-4-san-sang-truoc-khi-cho-con-du-hoc-20250816115642838.htm",
+      "summary": "Có '2 sẵn sàng' cho học sinh và '2 sẵn sàng' cho phụ huynh. Chuyên gia cho rằng khi đáp ứng đủ '4 sẵn sàng' này là thời điểm thích hợp cho con du học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910879+07:00",
+      "fetched": "2025-08-16T17:15:55.910996+07:00"
+    },
+    {
+      "id": "9239db1ba2f99876d0ab90f9dafe89b6",
+      "title": "Thủ tướng đồng ý nâng ngưỡng thu nhập được mua nhà xã hội",
+      "link": "https://tuoitre.vn/thu-tuong-dong-y-nang-nguong-thu-nhap-duoc-mua-nha-xa-hoi-20250816155231926.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chỉ đạo xây dựng, trình Chính phủ dự thảo nghị định về quỹ nhà ở quốc gia, trong đó nâng ngưỡng thu nhập được mua nhà xã hội theo hướng phù hợp hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910726+07:00",
+      "fetched": "2025-08-16T17:15:55.910867+07:00"
+    },
+    {
+      "id": "c1aea1a327811367bfed81558a171ae1",
+      "title": "Video 'người kim loại trên bầu trời Utah' chỉ là ảnh cắt ghép",
+      "link": "https://tuoitre.vn/video-nguoi-kim-loai-tren-bau-troi-utah-chi-la-anh-cat-ghep-20250816153533904.htm",
+      "summary": "Ngày 11-8, mạng xã hội lan truyền video có tựa đề “The Metal Sky Man Utah” mô tả cảnh một “người đàn ông kim loại” lơ lửng trên bầu trời Utah (Mỹ) nhưng thực tế chỉ là hình ảnh cắt ghép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910469+07:00",
+      "fetched": "2025-08-16T17:15:55.910714+07:00"
+    },
+    {
+      "id": "99b85ad0e10d988f67957640232344fc",
+      "title": "Ông Medvedev nêu 3 điểm nhấn của thượng đỉnh Alaska",
+      "link": "https://tuoitre.vn/ong-medvedev-neu-3-diem-nhan-cua-thuong-dinh-alaska-20250816160740749.htm",
+      "summary": "Theo ông Medvedev, một trong những điểm đáng chú ý là tổng thống Trump đồng ý sẽ không tăng áp lực lên Matxcơva về tình hình Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910343+07:00",
+      "fetched": "2025-08-16T17:15:55.910458+07:00"
+    },
+    {
+      "id": "d6b64ecaa9c0f6aeb44c86fa6baa7b3c",
+      "title": "Cần Thơ tổ chức đua xe chuyên nghiệp dịp lễ 2-9",
+      "link": "https://tuoitre.vn/can-tho-to-chuc-dua-xe-chuyen-nghiep-dip-le-2-9-20250816151011113.htm",
+      "summary": "Chặng 3 giải đua xe mô tô cúp vô địch quốc gia với sự tham gia tranh tài của 56 tay đua diễn ra dịp lễ 2-9 tại sân vận động Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910216+07:00",
+      "fetched": "2025-08-16T17:15:55.910331+07:00"
+    },
+    {
+      "id": "7425444ba7ad6762dad94bea5c4c9aba",
+      "title": "Việt Nam có đầy đủ các lực lượng, quân binh chủng để bảo vệ vững chắc Tổ quốc",
+      "link": "https://tuoitre.vn/viet-nam-co-day-du-cac-luc-luong-quan-binh-chung-de-bao-ve-vung-chac-to-quoc-20250816162517807.htm",
+      "summary": "Đại tướng Phan Văn Giang khẳng định như trên tại buổi tổng hợp luyện các lực lượng diễu binh, diễu hành lễ kỷ niệm 80 năm Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.910088+07:00",
+      "fetched": "2025-08-16T17:15:55.910204+07:00"
+    },
+    {
+      "id": "f3ccb7ac0edd6f092b333905904a6729",
+      "title": "Hà Tiên sẽ trở thành trung tâm kinh tế biển, du lịch và thương mại biên giới",
+      "link": "https://tuoitre.vn/ha-tien-se-tro-thanh-trung-tam-kinh-te-bien-du-lich-va-thuong-mai-bien-gioi-2025081616102684.htm",
+      "summary": "Ngày 16-8, Đảng bộ phường Hà Tiên tổ chức Đại hội đại biểu phường Hà Tiên lần thứ 1, nhiệm kỳ 2025 - 2030. Địa phương xác định các khâu đột phá và phấn đấu thành trung tâm kinh tế biển, du lịch và thương mại biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.909957+07:00",
+      "fetched": "2025-08-16T17:15:55.910076+07:00"
+    },
+    {
+      "id": "8594e1a2a3574d1198e4ef2d06a7197f",
+      "title": "Thủ tướng Campuchia hoan nghênh kết quả cuộc họp biên giới với Thái Lan",
+      "link": "https://tuoitre.vn/thu-tuong-campuchia-hoan-nghenh-ket-qua-cuoc-hop-bien-gioi-voi-thai-lan-20250816164510778.htm",
+      "summary": "Thủ tướng Campuchia Hun Manet cho rằng kết quả cuộc họp Ủy ban Biên giới khu vực giữa quân đội hai nước ngày 16-8 là 'tích cực'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.909818+07:00",
+      "fetched": "2025-08-16T17:15:55.909945+07:00"
+    },
+    {
+      "id": "c83b2d559f4d420b68f7a2ed0c192af0",
+      "title": "Xe 7 chỗ 'đứng bánh' giữa đường ở Hà Nội vì sụp hố",
+      "link": "https://tuoitre.vn/xe-7-cho-dung-banh-giua-duong-o-ha-noi-vi-sup-ho-20250816163700425.htm",
+      "summary": "Chiếc ô tô 7 chỗ đang chạy trên đường Nguyễn Chí Thanh (đoạn qua Ngã Tư Đê La Thành, Hà Nội) thì mặt đường bất ngờ sụp xuống khiến phần bánh sau mắc kẹt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.909657+07:00",
+      "fetched": "2025-08-16T17:15:55.909804+07:00"
+    },
+    {
+      "id": "005bc03e164f3c2a579ea29cc65ce2a2",
+      "title": "Xã Xuyên Mộc tận dụng lợi thế hạ tầng, phát triển nông nghiệp, du lịch",
+      "link": "https://tuoitre.vn/xa-xuyen-moc-tan-dung-loi-the-ha-tang-phat-trien-nong-nghiep-du-lich-2025081616312571.htm",
+      "summary": "Chiều 16-8, Đảng bộ xã Xuyên Mộc, TP.HCM đã tổ chức Đại hội đại biểu lần I, nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:15:55.909422+07:00",
+      "fetched": "2025-08-16T17:15:55.909642+07:00"
+    },
     {
       "id": "d30e5c636d93b167aececfad6accac7d",
       "title": "Đại tướng, Tổng Bí thư Tô Lâm: 80 năm - Vinh quang Công an nhân dân Việt Nam",
@@ -423,6 +573,16 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T11:22:00.179432+07:00"
     },
     {
+      "id": "1433256a28638fd30d8e475a6906e4fd",
+      "title": "Vụ tài xế xe ôm công nghệ tử vong trong hẻm ở TP.HCM: Nghi phạm khai gì?",
+      "link": "https://thanhnien.vn/vu-tai-xe-xe-om-cong-nghe-tu-vong-trong-hem-o-tphcm-nghi-pham-khai-gi-185250816165841918.htm",
+      "summary": "Khi vừa bị bắt, Tính khai đã tự mua dao, đặt cuốc xe với giá 45.000 đồng đến hẻm 314 Huỳnh Thị Hai với ý định hù dọa, cướp tài sản tài xế xe ôm công nghệ để ra Hà Nội làm ăn. Do hoảng quá nghi phạm đã ra tay sát hại nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:14:00+07:00",
+      "fetched": "2025-08-16T17:15:55.124780+07:00"
+    },
+    {
       "id": "d05089c430970561a78fe0751f3d5392",
       "title": "Meta AI loay hoay sau nhiều tháng ra mắt, xa kỳ vọng của CEO Zuckerberg",
       "link": "https://tuoitre.vn/meta-ai-loay-hoay-sau-nhieu-thang-ra-mat-xa-ky-vong-cua-ceo-zuckerberg-20250815232256476.htm",
@@ -573,6 +733,326 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T10:12:43.650731+07:00"
     },
     {
+      "id": "68fe2a86dd21654a8dac5b16362eb55f",
+      "title": "CSGT Khánh Hòa 'kỷ cương nhưng gần gũi'",
+      "link": "https://thanhnien.vn/csgt-khanh-hoa-ky-cuong-nhung-gan-gui-185250816142401037.htm",
+      "summary": "Lực lượng Cảnh sát giao thông (CSGT) Công an tỉnh Khánh Hòa đang thể hiện hình ảnh 'kỷ cương, thân thiện, nhân văn' qua việc tích cực tuyên truyền pháp luật, trao nhà tình thương cho hộ nghèo và kiên quyết xử lý các vi phạm giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:11:00+07:00",
+      "fetched": "2025-08-16T17:15:55.124970+07:00"
+    },
+    {
+      "id": "24370cb2d2dd499cc8ba0ad431a525a9",
+      "title": "Nghi ghen tuông, bạn gái cắt cổ người yêu trong khách sạn ở Thông Tây Hội",
+      "link": "https://thanhnien.vn/nghi-ghen-tuong-ban-gai-cat-co-nguoi-yeu-trong-khach-san-o-thong-tay-hoi-185250816153833643.htm",
+      "summary": "Nghi do ghen tuông tình cảm, người phụ nữ cắt cổ bạn trai kém mình 11 tuổi, trong khách sạn ở quận Gò Vấp cũ (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:07:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125134+07:00"
+    },
+    {
+      "id": "8fedc57e63fd0f5d4faddc665ac01c07",
+      "title": "Hệ thống cấp cứu 115 TP.HCM vươn đến Bình Dương, Bà Rịa - Vũng Tàu cũ",
+      "link": "https://thanhnien.vn/he-thong-cap-cuu-115-tphcm-vuon-den-binh-duong-ba-ria-vung-tau-cu-185250816154112392.htm",
+      "summary": "TP.HCM mở thêm 4 trạm cấp cứu 115 tại khu vực tỉnh Bình Dương, Bà Rịa - Vũng Tàu (cũ), đảm bảo cấp cứu cho người dân vùng sâu, vùng xa trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:03:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125286+07:00"
+    },
+    {
+      "id": "12d76fb7b8192e4f5bbc243c67038fdf",
+      "title": "Thành ngữ chỉ hành động phi thường này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-chi-hanh-dong-phi-thuong-nay-la-gi-4926413.html",
+      "summary": "Thành ngữ chỉ việc làm lớn lao, phi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:00:00+07:00",
+      "fetched": "2025-08-16T17:15:52.003590+07:00"
+    },
+    {
+      "id": "96a6fbd1d2973d5db29579a09bb5177e",
+      "title": "5 thói quen giúp bảo vệ mắt",
+      "link": "https://vnexpress.net/5-thoi-quen-giup-bao-ve-mat-4927573.html",
+      "summary": "Duy trì chế độ ăn uống cân bằng, thể dục thường xuyên, mang kính râm khi đi ngoài nắng có thể bảo vệ mắt và phòng các bệnh gây suy giảm thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:00:00+07:00",
+      "fetched": "2025-08-16T17:15:52.004102+07:00"
+    },
+    {
+      "id": "4871be4b91eeb740a0b8e3fb7e64ebc5",
+      "title": "Cam Ranh Runner - đại diện chủ nhà mới tại VnExpress Marathon Libera Nha Trang",
+      "link": "https://vnexpress.net/cam-ranh-runner-dai-dien-chu-nha-moi-tai-vnexpress-marathon-libera-nha-trang-4926727.html",
+      "summary": "Với toàn bộ 50 thành viên tham dự, Cam Ranh Runner là \"làn gió mới\" của chạy bộ Khánh Hòa tại VnExpress Marathon Libera Nha Trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:00:00+07:00",
+      "fetched": "2025-08-16T17:15:52.004278+07:00"
+    },
+    {
+      "id": "d9face725ec33b7b9d8080a4807caec8",
+      "title": "Toàn cảnh 17h: Nguyên nhân vụ ngồi giữa đường chặn đầu ô tô | Dẫn độ vợ Mr.Hunter về nước",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguyen-nhan-vu-ngoi-giua-duong-chan-dau-o-to-dan-do-vo-mrhunter-ve-nuoc-185250816162845178.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T10:00:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125454+07:00"
+    },
+    {
+      "id": "4871be4b91eeb740a0b8e3fb7e64ebc5",
+      "title": "Cam Ranh Runner - đại diện chủ nhà mới tại VnExpress Marathon Libera Nha Trang",
+      "link": "https://vnexpress.net/cam-ranh-runner-dai-dien-chu-nha-moi-tai-vnexpress-marathon-libera-nha-trang-4926727.html",
+      "summary": "Với toàn bộ 50 thành viên tham dự, Cam Ranh Runner là \"làn gió mới\" của chạy bộ Khánh Hòa tại VnExpress Marathon Libera Nha Trang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T10:00:00+07:00",
+      "fetched": "2025-08-16T17:16:02.274196+07:00"
+    },
+    {
+      "id": "2e2e95f7a7fac025e20e58291856f173",
+      "title": "Gợi ý vị trí xem diễu binh, diễu hành ngày 2/9 ở Hà Nội",
+      "link": "https://vnexpress.net/goi-y-vi-tri-xem-dieu-binh-dieu-hanh-ngay-2-9-o-ha-noi-4927171.html",
+      "summary": "Đoàn diễu binh qua Quảng trường Ba Đình, đường Hùng Vương rồi chia thành nhiều nhánh đi trên các tuyến phố Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:54:01+07:00",
+      "fetched": "2025-08-16T17:15:52.004439+07:00"
+    },
+    {
+      "id": "6133ccbe1f7c4cf3e25598ea0726b25c",
+      "title": "Cắt tinh bột có giúp trị được bệnh tiểu đường?",
+      "link": "https://thanhnien.vn/cat-tinh-bot-co-giup-tri-duoc-benh-tieu-duong-185250815105134677.htm",
+      "summary": "Có ý kiến cho rằng ăn nhiều tinh bột đường huyết sẽ tăng cao, nên cắt giảm nhóm chất này sẽ chữa được bệnh tiểu đường. Tuy nhiên theo chuyên gia, quan điểm này không được khuyến cáo trong thực hành lâm sàng hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:47:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125609+07:00"
+    },
+    {
+      "id": "e20980d18e9a0b96b936e2b55ffddfdb",
+      "title": "Vụ mất tích trong rừng Cúc Phương: Phát hiện ba lô, giấy tờ của nam du khách",
+      "link": "https://thanhnien.vn/nam-du-khach-mat-tich-trong-rung-cuc-phuong-185250816163806814.htm",
+      "summary": "Ba lô và giấy tờ tùy thân của nam du khách được tìm thấy ở cửa động Sơn Cung, cách trung tâm hành chính của Vườn quốc gia Cúc Phương (Ninh Bình) hơn 20 km, vị trí này không có sóng điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:46:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125758+07:00"
+    },
+    {
+      "id": "bcbc97d4cef3deced752b4ef5ee5c2cb",
+      "title": "Sun Group dự kiến làm khu đô thị hơn 13.500 tỷ ở TP HCM đầu 2026",
+      "link": "https://vnexpress.net/sun-group-du-kien-lam-khu-do-thi-hon-13-500-ty-o-tp-hcm-dau-2026-4927649.html",
+      "summary": "Khu đô thị Đông An Tây với vốn hơn 13.500 tỷ đồng của Sun Group dự kiến triển khai đầu năm sau và vận hành từ tháng 7/2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:44:42+07:00",
+      "fetched": "2025-08-16T17:15:52.004595+07:00"
+    },
+    {
+      "id": "ef143554485743460b764f771c4f5872",
+      "title": "Lũ làm sập cầu dân sinh ở Đồng Nai",
+      "link": "https://vnexpress.net/lu-lam-sap-cau-dan-sinh-o-dong-nai-4927694.html",
+      "summary": "Mưa lớn kèm lũ khiến cầu số 1 dài 6 m, nối phường Chơn Thành và Minh Hưng, bị sập hai mố cầu, cuốn trôi một phần mặt cầu bêtông cốt thép rộng 4 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:44:10+07:00",
+      "fetched": "2025-08-16T17:15:52.004750+07:00"
+    },
+    {
+      "id": "983589098be256bc65123f666a717bfa",
+      "title": "200 người đang say sưa 'hội thảo', công an ập vào phá ổ đa cấp lừa đảo",
+      "link": "https://thanhnien.vn/200-nguoi-dang-say-sua-hoi-thao-cong-an-ap-vao-pha-o-da-cap-lua-dao-185250816162330004.htm",
+      "summary": "Hàng trăm chiến sĩ công an đồng loạt khám xét địa điểm tổ chức hội thảo có khoảng 200 người tham gia, làm rõ vai trò của 'ông trùm' lừa đảo đa cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:44:00+07:00",
+      "fetched": "2025-08-16T17:15:55.125937+07:00"
+    },
+    {
+      "id": "5431b6a5553f180e41d6326060f7f9d0",
+      "title": "Bị xử phạt vì để bò chạy vào hầm sông Sài Gòn",
+      "link": "https://thanhnien.vn/bi-xu-phat-vi-de-bo-chay-vao-ham-song-sai-gon-185250816164203564.htm",
+      "summary": "Lực lượng CSGT TP.HCM vừa lập biên bản, xử lý người chủ vì để bò nặng khoảng 100 kg chạy lạc vào hầm sông Sài Gòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:43:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126092+07:00"
+    },
+    {
+      "id": "35783930078a1dfad51caaeb0058e70d",
+      "title": "Ông Zelensky sắp đến Mỹ gặp ông Trump",
+      "link": "https://vnexpress.net/ong-zelensky-sap-den-my-gap-ong-trump-4927673.html",
+      "summary": "Tổng thống Zelensky thông báo sẽ tới thủ đô Washington tuần sau để thảo luận với người đồng cấp Trump về chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:32:11+07:00",
+      "fetched": "2025-08-16T17:15:52.004931+07:00"
+    },
+    {
+      "id": "35783930078a1dfad51caaeb0058e70d",
+      "title": "Ông Zelensky sắp đến Mỹ gặp ông Trump",
+      "link": "https://vnexpress.net/ong-zelensky-sap-den-my-gap-ong-trump-4927673.html",
+      "summary": "Tổng thống Zelensky thông báo sẽ tới thủ đô Washington tuần sau để thảo luận với người đồng cấp Trump về chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T09:32:11+07:00",
+      "fetched": "2025-08-16T17:15:56.906870+07:00"
+    },
+    {
+      "id": "fa90acda2e7ae4743078944bc53b601d",
+      "title": "10 câu hỏi chờ đáp án ở Ngoại hạng Anh 2025-2026",
+      "link": "https://vnexpress.net/10-cau-hoi-cho-dap-an-o-ngoai-hang-anh-2025-2026-4927494.html",
+      "summary": "Chiến dịch mua sắm rầm rộ có thể trở thành con dao hai lưỡi đối với Liverpool, Ngoại hạng Anh xuất hiện cuộc đua tứ mã hay HLV Amorim sẽ vực dậy Man Utd ra sao... là những câu hỏi đáng chú ý trước thềm vòng một hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:27:33+07:00",
+      "fetched": "2025-08-16T17:15:52.005087+07:00"
+    },
+    {
+      "id": "fa90acda2e7ae4743078944bc53b601d",
+      "title": "10 câu hỏi chờ đáp án ở Ngoại hạng Anh 2025-2026",
+      "link": "https://vnexpress.net/10-cau-hoi-cho-dap-an-o-ngoai-hang-anh-2025-2026-4927494.html",
+      "summary": "Chiến dịch mua sắm rầm rộ có thể trở thành con dao hai lưỡi đối với Liverpool, Ngoại hạng Anh xuất hiện cuộc đua tứ mã hay HLV Amorim sẽ vực dậy Man Utd ra sao... là những câu hỏi đáng chú ý trước thềm vòng một hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T09:27:33+07:00",
+      "fetched": "2025-08-16T17:16:02.271933+07:00"
+    },
+    {
+      "id": "669ec219de6ee1d58549e58be5cc2cfa",
+      "title": "Các loại thực phẩm giúp kiểm soát đường huyết hiệu quả",
+      "link": "https://thanhnien.vn/cac-loai-thuc-pham-giup-kiem-soat-duong-huyet-hieu-qua-185250816162254973.htm",
+      "summary": "Chế độ ăn uống đóng vai trò quan trọng trong việc giữ đường huyết ở mức ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:22:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126244+07:00"
+    },
+    {
+      "id": "93d7706bd3fc6ac41cf8a47d65fe2f3f",
+      "title": "Denzel Washington: 'Không quan trọng đoạt Oscar'",
+      "link": "https://vnexpress.net/denzel-washington-khong-quan-trong-doat-oscar-4927113.html",
+      "summary": "Tài tử Denzel Washington nói tượng vàng Oscar không nhiều ý nghĩa với ông, làm diễn viên là tập trung cho tác phẩm hay hơn là quan tâm giải thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:19:00+07:00",
+      "fetched": "2025-08-16T17:15:52.005241+07:00"
+    },
+    {
+      "id": "e010cbac0354f2bac8758a00d736eb62",
+      "title": "Lịch tựu trường của học sinh An Giang có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-tuu-truong-cua-hoc-sinh-an-giang-co-gi-dac-biet-185250816160444194.htm",
+      "summary": "UBND tỉnh An Giang  đã ký quyết định ban hành khung kế hoạch thời gian năm học 2025 -2026 đối với giáo dục mầm non, giáo dục thường xuyên và giáo dục phổ thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:15:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126395+07:00"
+    },
+    {
+      "id": "9082a95d2c5afd4f8d46d26eb134d1a2",
+      "title": "Đắk Lắk: Tử vong khi sửa chữa hầm cống, nghi ngạt khí",
+      "link": "https://thanhnien.vn/dak-lak-tu-vong-khi-sua-chua-ham-cong-nghi-ngat-khi-185250816142113454.htm",
+      "summary": "Một nam công nhân đang thi công sửa chữa hầm cống tại P.Tuy Hòa, Đắk Lắk (TP.Tuy Hòa, Phú Yên cũ) thì bất ngờ tử vong, nghi do ngạt khí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:15:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126541+07:00"
+    },
+    {
+      "id": "7e6b62893ff267ee9a7ca442d9a58d38",
+      "title": "Khu công nghiệp phải dành 20 ha cho doanh nghiệp nhỏ",
+      "link": "https://vnexpress.net/khu-cong-nghiep-phai-danh-20-ha-cho-doanh-nghiep-nho-4927522.html",
+      "summary": "Khu công nghiệp phải dành 20 ha hoặc 5% tổng quỹ đất cho doanh nghiệp nhỏ, công nghệ, startup, và giảm 30% giá thuê cho nhóm này, trích từ ngân sách địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:14:51+07:00",
+      "fetched": "2025-08-16T17:15:52.005400+07:00"
+    },
+    {
+      "id": "f687d33a6bdf4b92e95feab008be5a0c",
+      "title": "Truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân với cố Bộ trưởng Lê Minh Hương",
+      "link": "https://vnexpress.net/truy-tang-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-voi-co-bo-truong-le-minh-huong-4927679.html",
+      "summary": "Chủ tịch nước truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân với cố Bộ trưởng Công an Lê Minh Hương ghi nhận cống hiến xuất sắc của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:14:04+07:00",
+      "fetched": "2025-08-16T17:15:52.005550+07:00"
+    },
+    {
+      "id": "7d456dc8a87486b6a7e2512056ed7cf0",
+      "title": "Metro TP.HCM tăng chuyến, cuối tuần chạy tới đêm",
+      "link": "https://thanhnien.vn/metro-tphcm-tang-chuyen-cuoi-tuan-chay-toi-dem-185250816160446694.htm",
+      "summary": "Theo thông tin từ Trung tâm Quản lý giao thông công cộng (Sở Xây dựng TP.HCM), tuyến metro số 1 (tuyến Bến Thành - Suối Tiên) sẽ điều chỉnh biểu đồ chạy tàu từ hôm nay (16.8) nhằm đáp ứng tối đa nhu cầu di chuyển của người dân thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:13:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126693+07:00"
+    },
+    {
+      "id": "36f8fcc0f0aacde113ce77feb04d3534",
+      "title": "Số ca mắc liên cầu giảm, TP.Huế khuyến cáo không nên 'tẩy chay' thịt heo",
+      "link": "https://thanhnien.vn/so-ca-mac-lien-cau-giam-tphue-khuyen-cao-khong-nen-tay-chay-thit-heo-18525081614443669.htm",
+      "summary": "Theo báo cáo của Sở Y tế TP.Huế, số ca mắc bệnh liên cầu đã giảm dần vào giữa tháng 7, vì vậy khuyến cáo người trên địa bàn không hoang mang, 'tẩy chay' thịt heo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:09:00+07:00",
+      "fetched": "2025-08-16T17:15:55.126859+07:00"
+    },
+    {
+      "id": "826782d41684523de9f1543bee588b0b",
+      "title": "Kết quả xổ số miền Nam ngày 16 tháng 8 - KQXS trực tiếp thứ bảy",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-16-thang-8-kqxs-truc-tiep-thu-bay-185250816143150013.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 16 tháng 8. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ bảy ngày 16.8.2025. Đài TP.HCM, đài Long An, đài Bình Phước, đài Hậu Giang...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:05:00+07:00",
+      "fetched": "2025-08-16T17:15:55.127011+07:00"
+    },
+    {
+      "id": "67dfc56d12f37095f7701a8b95e207ec",
+      "title": "Bé 2 tuổi chấn thương mặt do vô tình vặn ga xe máy",
+      "link": "https://vnexpress.net/be-2-tuoi-chan-thuong-mat-do-vo-tinh-van-ga-xe-may-4927664.html",
+      "summary": "Bé gái 26 tháng tuổi bị rách mí mắt, môi sau khi vô tình vặn ga xe máy đang nổ máy, khiến phương tiện lao vào hàng rào sắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:02:45+07:00",
+      "fetched": "2025-08-16T17:15:52.005710+07:00"
+    },
+    {
+      "id": "3532130e9e7c429b3c109f04b43534ca",
+      "title": "5 loại trái cây tốt cho người thiếu máu não",
+      "link": "https://vnexpress.net/5-loai-trai-cay-tot-cho-nguoi-thieu-mau-nao-4927667.html",
+      "summary": "Người thiếu máu não thường xuyên đau đầu, chóng mặt nên bổ sung kali, magie từ cam, bưởi, chuối, việt quất để tăng tuần hoàn máu và oxy lên não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T09:00:00+07:00",
+      "fetched": "2025-08-16T17:15:52.005975+07:00"
+    },
+    {
+      "id": "5d79f355f1238e76c9b2c3ceeff27898",
+      "title": "Cần Thơ đình chỉ vụ án 'mượn kit test Việt Á' do không có vụ lợi",
+      "link": "https://vnexpress.net/can-tho-dinh-chi-vu-an-muon-kit-test-viet-a-do-khong-co-vu-loi-4927669.html",
+      "summary": "Công an xác định Bệnh viện đa khoa thành phố và CDC Cần Thơ mượn test xét nghiệm PCR Covid-19 của Việt Á sử dụng phòng chống dịch cấp bách rồi hợp thức hóa hồ sơ thanh toán, song không có vụ lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:43:55+07:00",
+      "fetched": "2025-08-16T17:15:52.006133+07:00"
+    },
+    {
+      "id": "b8192edfa5891a98c189785db1f8df00",
+      "title": "Agribank khai trương ngân hàng tự động tại xã hải đảo",
+      "link": "https://vnexpress.net/agribank-khai-truong-ngan-hang-tu-dong-tai-xa-hai-dao-4927676.html",
+      "summary": "Agribank khai trương Autobank CDM đầu tiên tại xã đảo Thạnh An, TP HCM vào sáng 15/8, lần đầu mang dịch vụ ngân hàng tới vùng hải đảo này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:30:00+07:00",
+      "fetched": "2025-08-16T17:15:52.006286+07:00"
+    },
+    {
       "id": "d0e794f4b5403c97e5c779a8bd386486",
       "title": "Một trong 80 công trình trọng điểm mừng Quốc khánh 2.9 là phân hiệu trường ĐH",
       "link": "https://thanhnien.vn/mot-trong-80-cong-trinh-trong-diem-mung-quoc-khanh-29-la-phan-hieu-truong-dh-185250816140822296.htm",
@@ -681,6 +1161,16 @@ window.newsData_2025_08_16 = {
       "category": "Tổng hợp",
       "published": "2025-08-16T08:15:00+07:00",
       "fetched": "2025-08-16T15:22:04.106246+07:00"
+    },
+    {
+      "id": "6ab87250fb66620b9d067e68bdfafda4",
+      "title": "Mỹ điều loạt tiêm kích F-35 tiễn chuyên cơ của ông Putin",
+      "link": "https://vnexpress.net/my-dieu-loat-tiem-kich-f-35-tien-chuyen-co-cua-ong-putin-4927672.html",
+      "summary": "Mỹ điều biên đội tiêm kích F-35 hộ tống chuyên cơ chở Tổng thống Putin rời Alaska sau hội nghị thượng đỉnh với ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T08:14:14+07:00",
+      "fetched": "2025-08-16T17:15:56.907060+07:00"
     },
     {
       "id": "8adc5e32c5db2cbea9b79e1999c9cfe0",
