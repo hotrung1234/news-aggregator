@@ -1,7 +1,157 @@
 window.newsData_2025_08_16 = {
   "date": "2025-08-16",
-  "lastUpdated": "2025-08-16T13:23:51.249007+07:00",
+  "lastUpdated": "2025-08-16T15:22:12.547898+07:00",
   "articles": [
+    {
+      "id": "d30e5c636d93b167aececfad6accac7d",
+      "title": "Đại tướng, Tổng Bí thư Tô Lâm: 80 năm - Vinh quang Công an nhân dân Việt Nam",
+      "link": "https://tuoitre.vn/dai-tuong-tong-bi-thu-to-lam-80-nam-vinh-quang-cong-an-nhan-dan-viet-nam-20250816112533234.htm",
+      "summary": "Tuổi Trẻ Online gửi đến bạn đọc toàn văn bài viết của Đại tướng, Tổng Bí thư Tô Lâm nhân dịp kỷ niệm 80 năm Ngày truyền thống lực lượng Công an nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.159551+07:00",
+      "fetched": "2025-08-16T15:22:05.159666+07:00"
+    },
+    {
+      "id": "782e07fa59deaa2f6aa0ee0f6ef842eb",
+      "title": "‘Thành phố sống đầy’ Vinhomes Green City: Nơi trẻ lớn lên giữa ngàn khoảnh khắc hạnh phúc",
+      "link": "https://tuoitre.vn/thanh-pho-song-day-vinhomes-green-city-noi-tre-lon-len-giua-ngan-khoanh-khac-hanh-phuc-20250816122631145.htm",
+      "summary": "Sau nhiều tháng cân nhắc, gia đình anh Hoàng, chị Linh quyết định lên kế hoạch rời căn hộ trung tâm TP.HCM để chuyển đến Vinhomes Green City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.159424+07:00",
+      "fetched": "2025-08-16T15:22:05.159540+07:00"
+    },
+    {
+      "id": "5229298455cdb3aa1a8de3053628b980",
+      "title": "Ứng dụng AI, y học hạt nhân để ung thư không còn là ‘án tử’",
+      "link": "https://tuoitre.vn/ung-dung-ai-y-hoc-hat-nhan-de-ung-thu-khong-con-la-an-tu-20250816134751335.htm",
+      "summary": "Mỗi năm Việt Nam ghi nhận 180.000 ca mắc ung thư mới và 122.000 ca tử vong. Đây là con số đáng báo động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.159300+07:00",
+      "fetched": "2025-08-16T15:22:05.159413+07:00"
+    },
+    {
+      "id": "c9a5a04799a6a7a897226f9eb0578192",
+      "title": "YouTube dùng AI để phát hiện trẻ em giả mạo người lớn",
+      "link": "https://tuoitre.vn/youtube-dung-ai-de-phat-hien-tre-em-gia-mao-nguoi-lon-20250816134718388.htm",
+      "summary": "YouTube bắt đầu sử dụng trí tuệ nhân tạo (AI) để xác định người dùng là trẻ em đang giả vờ là người lớn, trong bối cảnh tăng cường bảo vệ trẻ vị thành niên khỏi các nội dung nhạy cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.159171+07:00",
+      "fetched": "2025-08-16T15:22:05.159288+07:00"
+    },
+    {
+      "id": "f58c461492ed634d338ea00510c9310b",
+      "title": "Lập biên bản phạt chủ đàn bò để bò đi vào hầm vượt sông Sài Gòn",
+      "link": "https://tuoitre.vn/lap-bien-ban-phat-chu-dan-bo-de-bo-di-vao-ham-vuot-song-sai-gon-20250816140238085.htm",
+      "summary": "Chủ đàn bò để một con bò đi lạc vào hầm sông Sài Gòn chiều 15-8 bị cảnh sát giao thông lập biên bản xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.159035+07:00",
+      "fetched": "2025-08-16T15:22:05.159159+07:00"
+    },
+    {
+      "id": "31a2614653293924e5cebc2d2e21df1f",
+      "title": "Ngắm gà lôi trắng tại Thảo cầm viên Sài Gòn",
+      "link": "https://tuoitre.vn/ngam-ga-loi-trang-tai-thao-cam-vien-sai-gon-20250816131504393.htm",
+      "summary": "Tại Thảo cầm viên Sài Gòn, hơn 40 con gà lôi trắng đã và đang được chăm sóc, bảo tồn nhiều năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158897+07:00",
+      "fetched": "2025-08-16T15:22:05.159024+07:00"
+    },
+    {
+      "id": "71978720111efd62cbe4bdca41af960c",
+      "title": "Nhà Khoa học ĐH Duy Tân được trao giải thưởng Vật lý",
+      "link": "https://tuoitre.vn/nha-khoa-hoc-dh-duy-tan-duoc-trao-giai-thuong-vat-ly-20250816091814868.htm",
+      "summary": "ThS. Triệu Đoan An - Nghiên cứu sinh (NCS) ngành Vật lý Lý thuyết & Vật lý Toán, hiện là cán bộ nghiên cứu tại Viện Khoa học Cơ bản & Ứng dụng (IFAS), Đại học Duy Tân nhận Giải thưởng Nghiên cứu Trẻ về Vật Lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158743+07:00",
+      "fetched": "2025-08-16T15:22:05.158866+07:00"
+    },
+    {
+      "id": "2fe00a5753bc524a38dc9fff0cc2a777",
+      "title": "Bí ẩn cuộc trò chuyện của ông Trump và ông Putin trên xe 'Quái thú'",
+      "link": "https://tuoitre.vn/bi-an-cuoc-tro-chuyen-cua-ong-trump-va-ong-putin-tren-xe-quai-thu-20250816141326913.htm",
+      "summary": "Trước khi hội đàm chính thức về Ukraine ở Alaska, ông Trump và ông Putin đã có một cuộc trao đổi ngắn trên xe limousine 'Quái thú' của tổng thống Mỹ, không có trợ lý hay nhà báo nào tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158610+07:00",
+      "fetched": "2025-08-16T15:22:05.158731+07:00"
+    },
+    {
+      "id": "c2b5f541a30d0977a99d45563ba4f868",
+      "title": "Hình ảnh về nghệ thuật của thổ dân Úc là do AI tạo ra",
+      "link": "https://tuoitre.vn/hinh-anh-ve-nghe-thuat-cua-tho-dan-uc-la-do-ai-tao-ra-20250816133644319.htm",
+      "summary": "Tác phẩm “Nghệ thuật đá thổ dân” lan truyền trên mạng xã hội được cho là mô tả thần sáng tạo Wandjina thực tế do AI tạo ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158469+07:00",
+      "fetched": "2025-08-16T15:22:05.158598+07:00"
+    },
+    {
+      "id": "ad33e5a82901813ef7b81d130948da8f",
+      "title": "Chikungunya không phải là căn bệnh mới ở Trung Quốc như tin đồn",
+      "link": "https://tuoitre.vn/chikungunya-khong-phai-la-can-benh-moi-o-trung-quoc-nhu-tin-don-20250816140629279.htm",
+      "summary": "Chikungunya không phải là căn bệnh mới ở Trung Quốc như tin đồn đang lan truyền trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158344+07:00",
+      "fetched": "2025-08-16T15:22:05.158458+07:00"
+    },
+    {
+      "id": "39566b9d8b862e2880aa702a384591fa",
+      "title": "Chủ tịch Quốc hội: Đổi mới toàn diện hoạt động, sẽ tổ chức Diễn đàn xây dựng pháp luật",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-doi-moi-toan-dien-hoat-dong-se-to-chuc-dien-dan-xay-dung-phap-luat-20250816141903485.htm",
+      "summary": "Quốc hội sẽ tiếp tục đổi mới toàn diện hoạt động, đổi mới tư duy xây dựng pháp luật và tới đây tổ chức diễn đàn về xây dựng pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158216+07:00",
+      "fetched": "2025-08-16T15:22:05.158333+07:00"
+    },
+    {
+      "id": "3cc3cbbb1ef2d3864f9d74537317cd6d",
+      "title": "Tìm thấy thi thể nam công nhân mất tích trên sông Ba",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nam-cong-nhan-mat-tich-tren-song-ba-20250816141637906.htm",
+      "summary": "Lực lượng chức năng vừa tìm thấy thi thể nam công nhân mất tích khi bơi trên sông Ba (phường Tuy Hòa, Đắk Lắk) để vào bờ trước đó 1 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.158087+07:00",
+      "fetched": "2025-08-16T15:22:05.158204+07:00"
+    },
+    {
+      "id": "814be972e2066e69cc363d0a8e38d265",
+      "title": "Dương Mịch bị chê bai trong Sinh Vạn Vật, khán giả nhận xét: 'Không biết diễn thì đừng nhận vai'",
+      "link": "https://tuoitre.vn/duong-mich-bi-che-bai-trong-sinh-van-vat-khan-gia-nhan-xet-khong-biet-dien-thi-dung-nhan-vai-20250816134712834.htm",
+      "summary": "Quyết định nhận vai người phụ nữ nông thôn Sinh Vạn Vật là thử thách lớn đối với Dương Mịch. Bởi từ trước đến nay, cô thường gắn liền với hình ảnh nữ thần cổ trang, nổi tiếng nhất là nhân vật Bạch Thiển trong Tam sinh tam thế: Thập lý đào hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.157950+07:00",
+      "fetched": "2025-08-16T15:22:05.158075+07:00"
+    },
+    {
+      "id": "8911a9809cf0e5946ad7822c0d1ae3c7",
+      "title": "Phường Long Bình phải là kiểu mẫu về kết nối nội thị và liên vùng",
+      "link": "https://tuoitre.vn/phuong-long-binh-phai-la-kieu-mau-ve-ket-noi-noi-thi-va-lien-vung-20250816115956888.htm",
+      "summary": "Phường Long Bình phải thực sự là kiểu mẫu về kết nối nội thị và liên vùng, đóng góp vào nhiệm vụ đầu mối logistics chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.157787+07:00",
+      "fetched": "2025-08-16T15:22:05.157936+07:00"
+    },
+    {
+      "id": "31c65b34afe5dc6b0ddccb1e9ba47585",
+      "title": "Đề xuất làn riêng cho xe buýt: Lo ngại các làn khác quá tải, bạn đọc góp ý cách làm",
+      "link": "https://tuoitre.vn/de-xuat-lan-rieng-cho-xe-buyt-lo-ngai-cac-lan-khac-qua-tai-ban-doc-gop-y-cach-lam-20250815182950186.htm",
+      "summary": "Nhiều bạn đọc quan tâm tới đề xuất mở làn riêng cho xe buýt tại TP.HCM, nêu các ý kiến về tính khả thi, hiệu quả và cách triển khai phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T15:22:05.157547+07:00",
+      "fetched": "2025-08-16T15:22:05.157771+07:00"
+    },
     {
       "id": "e5295d12cfb353a36b04a98e00d94e05",
       "title": "Truy bắt nghi phạm sát hại cụ bà 80 tuổi tại Tân Uyên",
@@ -423,6 +573,16 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T10:12:43.650731+07:00"
     },
     {
+      "id": "d0e794f4b5403c97e5c779a8bd386486",
+      "title": "Một trong 80 công trình trọng điểm mừng Quốc khánh 2.9 là phân hiệu trường ĐH",
+      "link": "https://thanhnien.vn/mot-trong-80-cong-trinh-trong-diem-mung-quoc-khanh-29-la-phan-hieu-truong-dh-185250816140822296.htm",
+      "summary": "Phân hiệu mới của ĐH Kinh tế TP.HCM (UEH Nexus Campus Nha Trang) là một trong 80 công trình trọng điểm cấp quốc gia đồng loạt khởi công, khánh thành nhân kỷ niệm 80 năm Ngày Quốc khánh Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:19:00+07:00",
+      "fetched": "2025-08-16T15:22:04.105899+07:00"
+    },
+    {
       "id": "b52253900470a233b3e9f94d5598165d",
       "title": "Thượng đỉnh Trump - Putin kết thúc sớm, kết quả tốt đẹp",
       "link": "https://tuoitre.vn/thuong-dinh-trump-putin-ket-thuc-som-ket-qua-tot-dep-20250816010148768.htm",
@@ -503,6 +663,316 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T08:18:38.119377+07:00"
     },
     {
+      "id": "02ba2bad877886eb6e9428e1e825be8c",
+      "title": "Ông Zelensky sắp đến gặp ông Trump sau thượng đỉnh Mỹ - Nga",
+      "link": "https://thanhnien.vn/ong-zelensky-sap-den-gap-ong-trump-sau-thuong-dinh-my-nga-185250816145003906.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky sẽ đến Washington để gặp người đồng cấp Mỹ Donald Trump, sau khi ông Trump điện đàm thông báo kết quả cuộc gặp với Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:15:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106087+07:00"
+    },
+    {
+      "id": "219a494ac7f8ac11cff295b3445d11ce",
+      "title": "Thái Lan - Myanmar, AFF Cup nữ: Cạnh tranh khốc liệt cho vé chung kết",
+      "link": "https://thanhnien.vn/thai-lan-myanmar-aff-cup-nu-canh-tranh-khoc-liet-cho-ve-chung-ket-185250816132127339.htm",
+      "summary": "16 giờ hôm nay (16.8) trên sân Lạch Tray, đội tuyển nữ Thái Lan chạm trán với Myanmar, ở trận đấu thuộc vòng bán kết giải vô địch bóng đá nữ Đông Nam Á (AFF Cup nữ) 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:15:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106246+07:00"
+    },
+    {
+      "id": "8adc5e32c5db2cbea9b79e1999c9cfe0",
+      "title": "Lộ ảnh khe SIM vật lý iPhone 17 Pro?",
+      "link": "https://thanhnien.vn/lo-anh-khe-sim-vat-ly-iphone-17-pro-185250816144450543.htm",
+      "summary": "Bất chấp những tin đồn, hình ảnh thực tế khe SIM iPhone 17 Pro vừa lộ diện khiến iFan thở phào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:13:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106401+07:00"
+    },
+    {
+      "id": "7af51e5bd00be1b32d809def1a24d338",
+      "title": "Việt Nam hướng tới vị thế tiên phong trong ứng dụng và phát triển blockchain",
+      "link": "https://thanhnien.vn/viet-nam-huong-toi-vi-the-tien-phong-trong-ung-dung-va-phat-trien-blockchain-185250816125409196.htm",
+      "summary": "Việt Nam đang sở hữu nhiều điều kiện thuật lợi để mở đường áp dụng blockchain vào thực tiễn. Chính sách, khung pháp lý cởi mở hơn có thể giúp nước ta có cơ hội vương lên dẫn đầu làn sóng công nghệ mới trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:00:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106553+07:00"
+    },
+    {
+      "id": "9ae27ffaa295e3c5a255e3001b84baf2",
+      "title": "Đội tuyển bóng chuyền U.21 Việt Nam - CH Dominica: Quà đẹp ngày chia tay?",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-u21-viet-nam-ch-dominica-qua-dep-ngay-chia-tay-185250816121833298.htm",
+      "summary": "Vào lúc 16 giờ chiều nay (16.8), đội tuyển bóng chuyền nữ U.21 Việt Nam sẽ bước vào trận đấu cuối cùng ở giải bóng chuyền U.21 thế giới 2025 gặp U.21 CH Dominica trong trận phân hạng 19-20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:00:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106726+07:00"
+    },
+    {
+      "id": "162818dc474dce773a44d329fb4aff32",
+      "title": "Hồng Ánh trở lại với điện ảnh, tiết lộ cảnh quay bị bắt khóc 7 lần",
+      "link": "https://thanhnien.vn/hong-anh-tro-lai-voi-dien-anh-tiet-lo-canh-quay-bi-bat-khoc-7-lan-185250816114641215.htm",
+      "summary": "Chiều 15.8, đoàn phim 'Phá đám sinh nhật mẹ' ra mắt giới truyền thông, giới thiệu tác phẩm lấy cảm hứng từ câu chuyện về tình mẫu tử và mối quan hệ gia đình trong xã hội hiện đại. Nghệ sĩ Hồng Ánh gây chú ý khi chia sẻ về vai diễn 'đổi màu' so với hình ảnh người mẹ khắc khổ quen thuộc, cũng như câu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:00:00+07:00",
+      "fetched": "2025-08-16T15:22:04.106898+07:00"
+    },
+    {
+      "id": "406eb8d6ce5328be51bc9bb7be7abe7c",
+      "title": "Thanh niên tình nguyện Mùa hè xanh",
+      "link": "https://thanhnien.vn/thanh-nien-tinh-nguyen-mua-he-xanh-185250730111222299.htm",
+      "summary": "Hằng năm cứ vào dịp nghỉ hè, Thành đoàn TP.HCM tổ chức các hoạt động hưởng ứng Lễ ra quân chiến dịch Thanh niên tình nguyện Mùa hè xanh của T.Ư Đoàn và tổ chức Ngày chủ nhật xanh, với sự hưởng ứng của hàng ngàn đoàn viên, hội viên, thanh niên tình nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T08:00:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107058+07:00"
+    },
+    {
+      "id": "28ce2a8d62c1b07b760767fab8cb1a49",
+      "title": "16.000 chiến sĩ hợp luyện diễu binh dưới trời mưa tầm tã",
+      "link": "https://thanhnien.vn/16000-chien-si-hop-luyen-dieu-binh-duoi-troi-mua-tam-ta-185250816142231538.htm",
+      "summary": "Hơn 16.000 chiến sĩ quân đội, công an duy trì kỷ luật cao trong buổi tổng hợp luyện chuẩn bị cho lễ diễu binh, diễu hành Quốc khánh 2.9 dù trời đổ mưa tầm tã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:56:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107211+07:00"
+    },
+    {
+      "id": "84fc69439353820b8ba8b66e77875797",
+      "title": "Khoảnh khắc tự hào lễ chào cờ 'Tôi yêu Tổ quốc tôi' tại nhiều điểm trên cả nước",
+      "link": "https://thanhnien.vn/khoanh-khac-tu-hao-le-chao-co-toi-yeu-to-quoc-toi-tai-nhieu-diem-tren-ca-nuoc-185250816143623667.htm",
+      "summary": "Sáng ngày 16.8.2025, Trung ương Hội Liên hiệp Thanh niên Việt Nam đã đồng loạt tổ chức Lễ chào cờ “Tôi yêu Tổ quốc tôi” cấp Trung ương tại 7 địa điểm trên cả nước, trong không khí thiêng liêng, tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:54:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107384+07:00"
+    },
+    {
+      "id": "187230d4add9ddb3c1eb1b43f60a0b53",
+      "title": "10 món ăn uống giúp giảm viêm, tăng chức năng gan",
+      "link": "https://vnexpress.net/10-mon-an-uong-giup-giam-viem-tang-chuc-nang-gan-4927586.html",
+      "summary": "Nước ép cà rốt giàu chất chống oxy hóa, bảo vệ tế bào gan khỏi bị tổn thương, polyphenol trong lựu giúp giảm men gan cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:49:08+07:00",
+      "fetched": "2025-08-16T15:22:00.417368+07:00"
+    },
+    {
+      "id": "cc575e6289650c4d02756dc2a7c25a3f",
+      "title": "Huawei Pura 80 Ultra có camera tốt nhất trên DxOMark",
+      "link": "https://thanhnien.vn/huawei-pura-80-ultra-co-camera-tot-nhat-tren-dxomark-18525081611522196.htm",
+      "summary": "Huawei Pura 80 Ultra vừa chính thức soán ngôi vương trong bảng xếp hạng camera của DxOMark khi vượt xa đối thủ Oppo Find X8 Ultra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:44:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107544+07:00"
+    },
+    {
+      "id": "ac8a2eff3a1cb10dbefe09b037b405a7",
+      "title": "Tổng thống Trump nói Trung Quốc hứa không tấn công Đài Loan khi ông tại nhiệm",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-trung-quoc-hua-khong-tan-cong-dai-loan-khi-ong-tai-nhiem-18525081614220233.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 15.8 nói rằng Chủ tịch nước Trung Quốc Tập Cận Bình đã đưa ra những lập trường về vấn đề đảo Đài Loan khi hai nhà lãnh đạo có cuộc trao đổi song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:41:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107694+07:00"
+    },
+    {
+      "id": "369a5c74c7b2112767462bd91f0d4a51",
+      "title": "Hòa vang khúc Tiến quân ca tại Mũi Cà Mau",
+      "link": "https://thanhnien.vn/hoa-vang-khuc-tien-quan-ca-tai-mui-ca-mau-185250816142254861.htm",
+      "summary": "Tại cột cờ Mũi Cà Mau – điểm cực Nam Tổ quốc, hàng trăm đoàn viên, thanh niên đã cùng cất vang Quốc ca trong chương trình Hành trình \"Tôi yêu Tổ quốc tôi\", sự kiện chào mừng kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:32:00+07:00",
+      "fetched": "2025-08-16T15:22:04.107847+07:00"
+    },
+    {
+      "id": "dff73c51d6627acbda9ef65f22347434",
+      "title": "Nga, Ukraine tập kích nhau trong ngày diễn ra thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/nga-ukraine-tap-kich-nhau-trong-ngay-dien-ra-thuong-dinh-trump-putin-4927662.html",
+      "summary": "Nga và Ukraine tiếp tục tấn công các mục tiêu đối phương trong ngày diễn ra hội nghị thượng đỉnh giữa ông Trump và ông Putin ở Alaska.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:26:37+07:00",
+      "fetched": "2025-08-16T15:22:00.417556+07:00"
+    },
+    {
+      "id": "dff73c51d6627acbda9ef65f22347434",
+      "title": "Nga, Ukraine tập kích nhau trong ngày diễn ra thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/nga-ukraine-tap-kich-nhau-trong-ngay-dien-ra-thuong-dinh-trump-putin-4927662.html",
+      "summary": "Nga và Ukraine tiếp tục tấn công các mục tiêu đối phương trong ngày diễn ra hội nghị thượng đỉnh giữa ông Trump và ông Putin ở Alaska.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T07:26:37+07:00",
+      "fetched": "2025-08-16T15:22:06.854173+07:00"
+    },
+    {
+      "id": "10c160bd39717fb18537707d9861522d",
+      "title": "Thủ tướng đồng ý nâng ngưỡng thu nhập được mua nhà xã hội",
+      "link": "https://vnexpress.net/thu-tuong-dong-y-nang-nguong-thu-nhap-duoc-mua-nha-xa-hoi-4927660.html",
+      "summary": "Thủ tướng đồng ý với các đề xuất, kiến nghị của Bộ Xây dựng về nâng ngưỡng thu nhập được mua nhà xã hội theo hướng phù hợp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:25:14+07:00",
+      "fetched": "2025-08-16T15:22:00.417724+07:00"
+    },
+    {
+      "id": "10c160bd39717fb18537707d9861522d",
+      "title": "Thủ tướng đồng ý nâng ngưỡng thu nhập được mua nhà xã hội",
+      "link": "https://vnexpress.net/thu-tuong-dong-y-nang-nguong-thu-nhap-duoc-mua-nha-xa-hoi-4927660.html",
+      "summary": "Thủ tướng đồng ý với các đề xuất, kiến nghị của Bộ Xây dựng về nâng ngưỡng thu nhập được mua nhà xã hội theo hướng phù hợp hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T07:25:14+07:00",
+      "fetched": "2025-08-16T15:22:08.595848+07:00"
+    },
+    {
+      "id": "1d5245035c85ba7bfe4dc1588e685b80",
+      "title": "Chào cờ ở vùng biển cực Đông của Tổ quốc",
+      "link": "https://thanhnien.vn/chao-co-o-vung-bien-cuc-dong-cua-to-quoc-185250816134823515.htm",
+      "summary": "Giữa khung cảnh biển xanh của Hòn Gầm – Mũi Đôi, nơi đón ánh sáng đầu tiên của Tổ quốc, thanh niên Khánh Hòa đã cùng nhau tham gia lễ chào cờ đặc biệt và phát động đề án lưu giữ câu chuyện lịch sử, đồng thời trao tặng nhiều phần quà cho địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:22:00+07:00",
+      "fetched": "2025-08-16T15:22:04.108017+07:00"
+    },
+    {
+      "id": "a6bbaf074e4ec17e86c9f0c708203914",
+      "title": "CSGT TP.HCM xử phạt chủ để bò chạy lạc vào hầm sông Sài Gòn",
+      "link": "https://thanhnien.vn/csgt-tphcm-xu-phat-chu-de-bo-chay-lac-vao-ham-song-sai-gon-185250816141118594.htm",
+      "summary": "Lực lượng CSGT TP.HCM vừa lập biên bản, xử lý người chủ vì để bò nặng khoảng 100 kg chạy lạc vào hầm sông Sài Gòn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:20:00+07:00",
+      "fetched": "2025-08-16T15:22:04.108171+07:00"
+    },
+    {
+      "id": "fee4af25e8da7a03695b5bb0b61fc931",
+      "title": "Jaecoo J6 - xe điện phong cách off-road chào khách Việt",
+      "link": "https://vnexpress.net/jaecoo-j6-xe-dien-phong-cach-off-road-chao-khach-viet-4927661.html",
+      "summary": "Mẫu xe điện gầm cao cỡ nhỏ tạo hình vuông vức, hướng tới khách hàng trẻ thích off-road, phạm vi di chuyển 364 km trong một lần sạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:19:30+07:00",
+      "fetched": "2025-08-16T15:22:00.417928+07:00"
+    },
+    {
+      "id": "1474f93ef621e4fa729cfe0ba1e2389e",
+      "title": "80 năm - Vinh quang Công an nhân dân Việt Nam",
+      "link": "https://vnexpress.net/80-nam-vinh-quang-cong-an-nhan-dan-viet-nam-4927613.html",
+      "summary": "Trong bài viết 80 năm - Vinh quang Công an nhân dân Việt Nam ngày 16/8/2025, Tổng Bí thư Tô Lâm nhấn mạnh lực lượng này cần thực sự trở thành điểm tựa bình yên của nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:00:00+07:00",
+      "fetched": "2025-08-16T15:22:00.418148+07:00"
+    },
+    {
+      "id": "e8edb167b6643aa6e1b2a3ca8259bfeb",
+      "title": "Tổng Bí thư: Công an phải trở thành điểm tựa bình yên cho nhân dân",
+      "link": "https://vnexpress.net/tong-bi-thu-cong-an-phai-tro-thanh-diem-tua-binh-yen-cho-nhan-dan-4927607.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu lực lượng Công an chăm lo, giải quyết kịp thời khó khăn, nguyện vọng chính đáng, thực sự là điểm tựa bình yên cho nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:00:00+07:00",
+      "fetched": "2025-08-16T15:22:00.418327+07:00"
+    },
+    {
+      "id": "3fe1d1d6fa1938d56ad2fe61873750c7",
+      "title": "Di chuyển que diêm nào biến sai thành đúng?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-di-chuyen-que-diem-nao-bien-sai-thanh-dung-4926945.html",
+      "summary": "Một chiếc câu đố 'thần thánh' di chuyển đúng 1 que diêm để phép tính sai thành đúng, nghe dễ nhưng thử rồi mới biết…",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:00:00+07:00",
+      "fetched": "2025-08-16T15:22:00.418487+07:00"
+    },
+    {
+      "id": "e43f618983a43ddc99f058f07ede94df",
+      "title": "Đại tướng Phan Văn Giang: 'Quốc khánh trời mưa vẫn phải diễu binh thật tốt'",
+      "link": "https://vnexpress.net/dai-tuong-phan-van-giang-quoc-khanh-troi-mua-van-phai-dieu-binh-that-tot-4927652.html",
+      "summary": "Đại tướng Phan Văn Giang động viên hơn 16.300 quân nhân tổng hợp luyện trong mưa lớn, nhấn mạnh ngày Quốc khánh 2/9 nếu mưa to vẫn phải bước thật hùng tráng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:59:13+07:00",
+      "fetched": "2025-08-16T15:22:00.418658+07:00"
+    },
+    {
+      "id": "1c708771f5950fccb2544eae68712ace",
+      "title": "4 điểm đặc biệt trong hội nghị thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/4-diem-dac-biet-trong-hoi-nghi-thuong-dinh-trump-putin-4927657.html",
+      "summary": "Từ việc ngồi chung xe, giữ im lặng trước hội đàm đến việc Tổng thống Nga phát biểu trước tại họp báo, thượng đỉnh Trump - Putin ở Alaska xuất hiện nhiều chi tiết ngoại giao hiếm thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:56:36+07:00",
+      "fetched": "2025-08-16T15:22:00.418816+07:00"
+    },
+    {
+      "id": "0d07676dae8d9fea151287f6d8cf7f64",
+      "title": "Liên hoan guitar quốc tế Sài Gòn 2025 tăng kết nối",
+      "link": "https://vnexpress.net/lien-hoan-guitar-quoc-te-sai-gon-2025-tang-ket-noi-4927623.html",
+      "summary": "Liên hoan guitar quốc tế Sài Gòn 2025 - quy tụ nhiều tên tuổi nổi tiếng trong và ngoài nước - diễn ra ở không gian mở thay vì khán phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:53:39+07:00",
+      "fetched": "2025-08-16T15:22:00.419013+07:00"
+    },
+    {
+      "id": "5d160920d7ce02be4a68c0c07c83e82c",
+      "title": "Đảng Dân chủ định vẽ lại bản đồ bầu cử ở California",
+      "link": "https://vnexpress.net/dang-dan-chu-dinh-ve-lai-ban-do-bau-cu-o-california-4927629.html",
+      "summary": "Phe Dân chủ ở bang California đề xuất bản đồ bầu cử mới nhằm giúp giành lại 5 ghế Hạ viện đang trong tay đảng Cộng hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:45:38+07:00",
+      "fetched": "2025-08-16T15:22:00.419177+07:00"
+    },
+    {
+      "id": "5d160920d7ce02be4a68c0c07c83e82c",
+      "title": "Đảng Dân chủ định vẽ lại bản đồ bầu cử ở California",
+      "link": "https://vnexpress.net/dang-dan-chu-dinh-ve-lai-ban-do-bau-cu-o-california-4927629.html",
+      "summary": "Phe Dân chủ ở bang California đề xuất bản đồ bầu cử mới nhằm giúp giành lại 5 ghế Hạ viện đang trong tay đảng Cộng hòa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T06:45:38+07:00",
+      "fetched": "2025-08-16T15:22:06.854348+07:00"
+    },
+    {
+      "id": "6a76902da4a0dacb5c9895f707c77d33",
+      "title": "'Mâu thuẫn nhà Beckham ngày càng sâu sắc'",
+      "link": "https://vnexpress.net/mau-thuan-nha-beckham-ngay-cang-sau-sac-4927567.html",
+      "summary": "Việc nhà Beckham không dự lễ gia hạn lời thề hôn nhân của Brooklyn khiến công chúng chú ý về mối quan hệ của các thành viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:39:15+07:00",
+      "fetched": "2025-08-16T15:22:00.419337+07:00"
+    },
+    {
+      "id": "525ebe8a4979715771a713af10deab14",
+      "title": "Một kế toán bị nghi giúp ba công ty trốn thuế gần 80 tỷ đồng",
+      "link": "https://vnexpress.net/mot-ke-toan-giup-ba-cong-ty-tron-thue-gan-80-ty-dong-4927634.html",
+      "summary": "Kế toán Nguyễn Khương Hoàng bị cáo buộc giúp nhiều doanh nghiệp trốn thuế gần 80 tỷ đồng bằng việc hướng dẫn cách xử lý các hoá đơn, chứng từ mua bán",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:32:07+07:00",
+      "fetched": "2025-08-16T15:22:00.419500+07:00"
+    },
+    {
+      "id": "9fe0990d5f36980f654341d60511d53b",
+      "title": "Hơn 1.200 súng tự chế bị tiêu huỷ cán nát ở Lâm Đồng",
+      "link": "https://vnexpress.net/tieu-huy-sung-dan-4927658.html",
+      "summary": "1.225 khẩu súng tự chế, 359 công cụ hỗ trợ và hàng nghìn vũ khí thô sơ, đạn... bị Công an Lâm Đồng tiêu hủy trong sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:26:26+07:00",
+      "fetched": "2025-08-16T15:22:00.419674+07:00"
+    },
+    {
       "id": "12b08ac544a35a812bf6ef0212564b3f",
       "title": "‘Soi’ newsfeed của hội mặc đẹp để khám phá những item vượt thời gian",
       "link": "https://thanhnien.vn/thoi-trang-tre/soi-newsfeed-cua-hoi-mac-dep-de-kham-pha-nhung-item-vuot-thoi-gian-185250816122902182.htm",
@@ -521,6 +991,26 @@ window.newsData_2025_08_16 = {
       "category": "Tổng hợp",
       "published": "2025-08-16T06:20:00+07:00",
       "fetched": "2025-08-16T13:23:42.639209+07:00"
+    },
+    {
+      "id": "2f77c8f2642b5ed9e958338807ad6f63",
+      "title": "Ông Trump sẽ xem xét áp thuế Trung Quốc vì mua dầu Nga trong 2-3 tuần tới",
+      "link": "https://vnexpress.net/ong-trump-se-xem-xet-ap-thue-trung-quoc-vi-mua-dau-nga-trong-2-3-tuan-toi-4927625.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết chưa áp thuế ngay Trung Quốc vì mua dầu của Nga, nhưng có thể làm vậy \"trong hai hoặc ba tuần nữa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T06:19:57+07:00",
+      "fetched": "2025-08-16T15:22:00.419835+07:00"
+    },
+    {
+      "id": "2f77c8f2642b5ed9e958338807ad6f63",
+      "title": "Ông Trump sẽ xem xét áp thuế Trung Quốc vì mua dầu Nga trong 2-3 tuần tới",
+      "link": "https://vnexpress.net/ong-trump-se-xem-xet-ap-thue-trung-quoc-vi-mua-dau-nga-trong-2-3-tuan-toi-4927625.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết chưa áp thuế ngay Trung Quốc vì mua dầu của Nga, nhưng có thể làm vậy \"trong hai hoặc ba tuần nữa\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T06:19:57+07:00",
+      "fetched": "2025-08-16T15:22:08.596046+07:00"
     },
     {
       "id": "63bbfd75a16ad6bcc5eaf66889605744",
