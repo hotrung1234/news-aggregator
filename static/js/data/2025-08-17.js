@@ -1,7 +1,147 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T19:33:10.708205+07:00",
+  "lastUpdated": "2025-08-17T21:15:14.556025+07:00",
   "articles": [
+    {
+      "id": "3dd15321cd7ab9d0d9e47eb228707c41",
+      "title": "Dàn khách mời Gia đình Haha tái hợp tại concert Anh trai vượt ngàn chông gai",
+      "link": "https://tuoitre.vn/dan-khach-moi-gia-dinh-haha-tai-hop-tai-concert-anh-trai-vuot-ngan-chong-gai-20250817150552006.htm",
+      "summary": "Chị Thông, anh Hà, chú Điệp... của Gia đình Haha sẽ góp mặt tại concert Anh trai vượt ngàn chông gai vào tháng 9 sắp tới với vai trò khách mời đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.635172+07:00",
+      "fetched": "2025-08-17T21:15:07.635282+07:00"
+    },
+    {
+      "id": "dce63254839dbc41afdcb8ee67b77de0",
+      "title": "Áp thấp nhiệt đới còn xa bờ, Bắc Trung Bộ mưa to kéo dài đến đêm mai",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-con-xa-bo-bac-trung-bo-mua-to-keo-dai-den-dem-mai-20250817173105929.htm",
+      "summary": "Dù tâm áp thấp nhiệt đới đang ở khu vực biển phía tây bắc quần đảo Hoàng Sa, ngày 17-8, ở Thanh Hóa, Nghệ An trở vào Quảng Trị có mưa to. Dự báo mưa lớn ở khu vực này tiếp tục đến đêm 18-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.635052+07:00",
+      "fetched": "2025-08-17T21:15:07.635161+07:00"
+    },
+    {
+      "id": "2091e41ce7ac7ba9b92522d219adbc66",
+      "title": "Điểm tin 18h: Hà Nội rực đỏ phố phường; Nhạc yêu nước bùng nổ dịp Quốc khánh",
+      "link": "https://tuoitre.vn/diem-tin-18h-ha-noi-ruc-do-pho-phuong-nhac-yeu-nuoc-bung-no-dip-quoc-khanh-20250817155931506.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 18h ngày 17-8-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634932+07:00",
+      "fetched": "2025-08-17T21:15:07.635041+07:00"
+    },
+    {
+      "id": "3d49cb323baf9af4dc74687ddec04127",
+      "title": "Tijjani Reijnders: 'Vũ khí' nâng tầm hàng tiền vệ Man City",
+      "link": "https://tuoitre.vn/tijjani-reijnders-vu-khi-nang-tam-hang-tien-ve-man-city-2025081716110229.htm",
+      "summary": "Những giá trị mà tân binh Tijjani Reijnders đem lại trong trận thắng tưng bừng của Man City trước Wolverhampton vào tối 16-8 thật đáng giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634809+07:00",
+      "fetched": "2025-08-17T21:15:07.634922+07:00"
+    },
+    {
+      "id": "9b1dd7e08847343ce2b1f44e0e1c7d41",
+      "title": "Triệt phá tụ điểm đánh bạc ngụy trang trong gara ô tô",
+      "link": "https://tuoitre.vn/triet-pha-tu-diem-danh-bac-nguy-trang-trong-gara-o-to-20250817154532998.htm",
+      "summary": "Một tụ điểm đánh bạc quy mô lớn được ngụy trang trong gara ô tô ở Đà Nẵng vừa bị cảnh sát hình sự xóa sổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634680+07:00",
+      "fetched": "2025-08-17T21:15:07.634797+07:00"
+    },
+    {
+      "id": "bc9f81c93bc3ac1378c85426a7cb0d54",
+      "title": "Vụ trộm hơn 270 cây sâm Ngọc Linh ở Đà Nẵng: 3 nam thanh niên bị tạm giữ",
+      "link": "https://tuoitre.vn/vu-trom-hon-270-cay-sam-ngoc-linh-o-da-nang-3-nam-thanh-nien-bi-tam-giu-20250817162946099.htm",
+      "summary": "Công an ở Đà Nẵng vừa điều tra, làm rõ vụ trộm hàng trăm cây sâm Ngọc Linh, tạm giữ 3 nam thanh niên trú Quảng Ngãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634554+07:00",
+      "fetched": "2025-08-17T21:15:07.634668+07:00"
+    },
+    {
+      "id": "bbad989021d09a040744a5a8422129f4",
+      "title": "Bộ đội biên phòng Đà Nẵng làm lễ đỡ đầu học sinh nghèo người Lào trên cột mốc biên giới",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-da-nang-lam-le-do-dau-hoc-sinh-ngheo-nguoi-lao-tren-cot-moc-bien-gioi-20250817163906561.htm",
+      "summary": "Ngày 17-8, một buổi lễ chào cờ đặc biệt được cán bộ chiến sĩ Đồn biên phòng Ga Ry (xã Hùng Sơn, TP Đà Nẵng) phối hợp với địa phương và Trường đại học Sư phạm (Đại học Đà Nẵng) tổ chức ở cột mốc 692 giáp Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634422+07:00",
+      "fetched": "2025-08-17T21:15:07.634543+07:00"
+    },
+    {
+      "id": "4396a8dced536d44c27be4612a7e4ebf",
+      "title": "Cây phượng bất ngờ đổ sập đè 2 xe máy, 4 người thoát nạn trong gang tấc",
+      "link": "https://tuoitre.vn/cay-phuong-bat-ngo-do-sap-de-2-xe-may-4-nguoi-thoat-nan-trong-gang-tac-20250817182250269.htm",
+      "summary": "Một cây phượng đại thụ bất ngờ bật gốc rồi đổ sập xuống ngang đường đúng lúc có nhiều xe máy đi qua. May mắn, 4 người gần nhất đã thoát nạn trong gang tấc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634276+07:00",
+      "fetched": "2025-08-17T21:15:07.634396+07:00"
+    },
+    {
+      "id": "1b06a87f82c57c180898123f6c646665",
+      "title": "Đàn cá heo bơi lội tung tăng trên vùng biển Cam Ranh - Khánh Hòa",
+      "link": "https://tuoitre.vn/dan-ca-heo-boi-loi-tung-tang-tren-vung-bien-cam-ranh-khanh-hoa-20250817182543118.htm",
+      "summary": "Một đàn cá heo di cư bơi ngang qua vịnh Cam Ranh tạo cảnh tượng đẹp mắt, khiến nhiều người trầm trồ, thích thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634145+07:00",
+      "fetched": "2025-08-17T21:15:07.634259+07:00"
+    },
+    {
+      "id": "a8729e2bf44ce5a7b577c89f23d3e647",
+      "title": "Ông lớn bảo hiểm Bảo Việt, Bảo Minh 'chơi' chứng khoán, lộ danh mục trăm tỉ, nghìn tỉ",
+      "link": "https://tuoitre.vn/ong-lon-bao-hiem-bao-viet-bao-minh-choi-chung-khoan-lo-danh-muc-tram-ti-nghin-ti-20250817184815538.htm",
+      "summary": "Nhiều doanh nghiệp bảo hiểm thường phân bổ một phần danh mục đầu tư để rót vào chứng khoán, bên cạnh các kênh an toàn hơn như trái phiếu chính phủ, tiền gửi ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.634018+07:00",
+      "fetched": "2025-08-17T21:15:07.634133+07:00"
+    },
+    {
+      "id": "b3a9373d4acf59ba0f92f41034865e54",
+      "title": "Ngân hàng tung loạt gói vay cho người trẻ mua nhà, vay có dễ?",
+      "link": "https://tuoitre.vn/ngan-hang-tung-loat-goi-vay-cho-nguoi-tre-mua-nha-vay-co-de-20250817172913468.htm",
+      "summary": "Nhiều ngân hàng đã tung gói vay ưu đãi cho người dưới 35 tuổi mua nhà, tuy nhiên nhiều chuyên gia cho rằng tỉ lệ người trẻ tiếp cận được vốn vay rất thấp vì điều kiện vay, lãi vay, kỳ hạn vay chưa phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.633886+07:00",
+      "fetched": "2025-08-17T21:15:07.634006+07:00"
+    },
+    {
+      "id": "b32696012e7d736373c574748a6d34f6",
+      "title": "Đã có hơn 1,5 triệu lượt ủng hộ với trên 310 tỉ đồng nghĩa tình gửi tới Cuba",
+      "link": "https://tuoitre.vn/da-co-hon-1-5-trieu-luot-ung-ho-voi-tren-310-ti-dong-nghia-tinh-gui-toi-cuba-20250817190848288.htm",
+      "summary": "Đến 18h ngày 17-8, chương trình vận động ủng hộ nhân dân Cuba \"65 năm nghĩa tình Việt Nam - Cuba\" của Hội Chữ thập đỏ Việt Nam đã vượt mốc 310,9 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.633752+07:00",
+      "fetched": "2025-08-17T21:15:07.633874+07:00"
+    },
+    {
+      "id": "fe8d02b233198b861ac83e7e20f5cf9b",
+      "title": "'Cảnh sát AI' và Chatbot AI làm 'tổng đài viên' của Công an Hà Nội",
+      "link": "https://tuoitre.vn/canh-sat-ai-va-chatbot-ai-lam-tong-dai-vien-cua-cong-an-ha-noi-20250817163753803.htm",
+      "summary": "Công an TP Hà Nội ra mắt 4 sản phẩm chuyển đổi số phục vụ nhân dân và nhiệm vụ công tác chuyên môn, trong đó đáng chú ý là tổng đài viên AI (1900 0113) và chatbot AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.633608+07:00",
+      "fetched": "2025-08-17T21:15:07.633739+07:00"
+    },
+    {
+      "id": "6addc6ffff24e57d9dad35fa13937424",
+      "title": "Lãnh đạo Đà Nẵng thưởng nóng 200 triệu đồng cho ban chuyên án phá vụ 300kg ma túy",
+      "link": "https://tuoitre.vn/lanh-dao-da-nang-thuong-nong-200-trieu-dong-cho-ban-chuyen-an-pha-vu-300kg-ma-tuy-20250817190149835.htm",
+      "summary": "Lãnh đạo Đà Nẵng tổ chức khen thưởng đột xuất cho ban chuyên án vụ phát hiện và bắt giữ vụ vận chuyển gần 300kg ma túy vào Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:15:07.633394+07:00",
+      "fetched": "2025-08-17T21:15:07.633593+07:00"
+    },
     {
       "id": "cb98107c6112112e4fd64b9566ad547f",
       "title": "Phát hiện xác chết khi giăng lưới bắt cá trên sông Cửa Tiểu",
@@ -313,6 +453,86 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T15:21:33.983026+07:00"
     },
     {
+      "id": "c9f47a537423299a22a10cbc0e4da8bd",
+      "title": "Bảng xếp hạng V-League: Bất ngờ lớn khi 4 cái tên mới ‘chễm chệ’ tốp 5, HAGL dưới đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-bat-ngo-lon-khi-4-cai-ten-moi-chem-che-top-5-hagl-duoi-day-185250817204000546.htm",
+      "summary": "Những kết quả bất ngờ khiến V-League 2025 - 2026 khép lại vòng đấu đầu tiên với 3 trong 5 cái tên mới chễm chệ xuất hiện trong 5 vị trí đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:50:00+07:00",
+      "fetched": "2025-08-17T21:15:06.804725+07:00"
+    },
+    {
+      "id": "52127e8500e6c6f1d244059ec90b6b56",
+      "title": "Bích Tuyền dự bị, đội tuyển bóng chuyền nữ Việt Nam thua trắng Tây Ban Nha",
+      "link": "https://thanhnien.vn/bich-tuyen-du-bi-doi-tuyen-bong-chuyen-nu-viet-nam-thua-trang-tay-ban-nha-18525081720353999.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam thất thủ 0-3 trước Tây Ban Nha ở trận đấu giao hữu diễn ra hôm nay tại nhà thi đấu Đông Anh (Hà Nội) nhằm chuẩn bị cho giải vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:40:00+07:00",
+      "fetched": "2025-08-17T21:15:06.804901+07:00"
+    },
+    {
+      "id": "24408d48a956f234aad96f52d13ea7ea",
+      "title": "Ca sĩ Hà Phương rạng rỡ tại sự kiện, bất ngờ nhắc về chồng",
+      "link": "https://thanhnien.vn/ca-si-ha-phuong-rang-ro-tai-su-kien-bat-ngo-nhac-ve-chong-185250817194419825.htm",
+      "summary": "Đến ủng hộ show thời trang của Chung Thanh Phong, ca sĩ Hà Phương hài hước tiết lộ sẽ mặc lại váy cưới để cùng chồng kỷ niệm ngày trọng đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:39:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805062+07:00"
+    },
+    {
+      "id": "5b1ef99eb510d70acebf35285271a017",
+      "title": "Nhật Kim Anh: 'Có con là món quà vô giá'",
+      "link": "https://vnexpress.net/nhat-kim-anh-co-con-la-mon-qua-vo-gia-4927943.html",
+      "summary": "Diễn viên Nhật Kim Anh cho biết hạnh phúc khi làm mẹ đơn thân ở tuổi 40 dù phải vừa kinh doanh vừa nuôi con nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:34:36+07:00",
+      "fetched": "2025-08-17T21:15:03.978112+07:00"
+    },
+    {
+      "id": "43ea9f27651e535695552df76e51be8d",
+      "title": "Nathan Lee mừng vì Hồng Nhung, Phương Mai vực dậy sau biến cố",
+      "link": "https://thanhnien.vn/nathan-lee-mung-vi-hong-nhung-phuong-mai-vuc-day-sau-bien-co-185250817200905374.htm",
+      "summary": "Có dịp hội ngộ các đồng nghiệp thân thiết, Nathan Lee xúc động khi thấy các đồng nghiệp như Hồng Nhung, Phương Mai rạng rỡ trở lại sau những biến cố riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:34:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805217+07:00"
+    },
+    {
+      "id": "54f403ff24e0f20b72c9c4dc2c615618",
+      "title": "Thua đậm trận ra quân V-League, HLV HAGL 'tôi không lo rớt hạng': HLV Anh Đức ‘tôi rất vui’",
+      "link": "https://thanhnien.vn/thua-dam-tran-ra-quan-v-league-hlv-hagl-toi-khong-lo-rot-hang-hlv-anh-duc-toi-rat-vui-185250817202629954.htm",
+      "summary": "HLV trưởng của HAGL và CLB Becamex TP.HCM đã có những chia sẻ sau khi hai đội chạm trán nhau ở vòng 1 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:30:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805370+07:00"
+    },
+    {
+      "id": "bdb3c9237b53325ff7fe166dfc67ffa7",
+      "title": "Đồng Nai: Một người tử vong trong tư thế treo cổ phía sau văn phòng công ty",
+      "link": "https://thanhnien.vn/dong-nai-mot-nguoi-tu-vong-trong-tu-the-treo-co-phia-sau-van-phong-cong-ty-185250817161742101.htm",
+      "summary": "Gọi mãi không được, một số người bạn đã phá cửa đi vào phòng ngủ của nam thanh niên thì phát hiện người này đã tử vong ở tư thế treo cổ trong nhà vệ sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:30:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805546+07:00"
+    },
+    {
+      "id": "221d3a9a08f5287799ebf8010646d99e",
+      "title": "Duy Khánh gọi điện thoại cho Bùi Công Nam, trường quay bất ngờ xuất hiện 'NSƯT Thành Lộc', 'hoa hậu Hương Giang'",
+      "link": "https://thanhnien.vn/duy-khanh-goi-dien-thoai-cho-bui-cong-nam-truong-quay-bat-ngo-xuat-hien-nsut-thanh-loc-hoa-hau-huong-giang-185250815031507948.htm",
+      "summary": "Trong phần thử thách của chương trình, Duy Khánh đã mang đến cho khán giả một khoảnh khắc vừa bất ngờ vừa thú vị khi 'lôi kéo' Bùi Công Nam tham gia. Duy Khánh còn bất ngờ tiết lộ về một ca khúc mới mà anh đang ấp ủ và sẽ chính thức 'ra mắt' trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:30:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805711+07:00"
+    },
+    {
       "id": "c658e26283fd5076eef0faeb8e15487a",
       "title": "80 năm lực lượng Công an nhân dân: Sau mỗi chiến công là trí tuệ và mồ hôi, là kỷ luật và ý chí",
       "link": "https://tuoitre.vn/80-nam-luc-luong-cong-an-nhan-dan-sau-moi-chien-cong-la-tri-tue-va-mo-hoi-la-ky-luat-va-y-chi-20250817114015962.htm",
@@ -463,6 +683,206 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T13:24:40.562887+07:00"
     },
     {
+      "id": "b4f665ab2389a773e5f2ae25b608b477",
+      "title": "Nổ súng dọa giết chủ quán bida",
+      "link": "https://vnexpress.net/no-sung-doa-giet-chu-quan-bida-4927986.html",
+      "summary": "Sau phát súng chỉ thiên uy hiếp, Đồng Phước Hiệu dí \"hàng nóng\" vào đầu chủ quán bida đe dọa \"bắn bể đầu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:08+07:00",
+      "fetched": "2025-08-17T21:15:03.978293+07:00"
+    },
+    {
+      "id": "049b5a8e4c586059451224408b3b8126",
+      "title": "Bổ nhiệm lại Giám đốc CDC Cần Thơ sau kết luận 'không vụ lợi'",
+      "link": "https://vnexpress.net/bo-nhiem-lai-giam-doc-cdc-can-tho-sau-ket-luan-khong-vu-loi-4927982.html",
+      "summary": "Sau khi công an kết luận không có vụ lợi trong việc mượn kit test Việt Á phòng chống Covid-19, ông Huỳnh Minh Trúc được tái bổ nhiệm chức Giám đốc CDC Cần Thơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:21:57+07:00",
+      "fetched": "2025-08-17T21:15:03.978397+07:00"
+    },
+    {
+      "id": "de7622448c4006b1f656a0b180365cf0",
+      "title": "PVF-CAND tạo sốc lớn, ‘song sát’ ngoại binh đánh bại SLNA: Khởi đầu V-League còn gì ngọt ngào hơn!",
+      "link": "https://thanhnien.vn/pvf-cand-tao-soc-lon-song-sat-ngoai-binh-danh-bai-slna-khoi-dau-v-league-con-gi-ngot-ngao-hon-18525081720114884.htm",
+      "summary": "Tối 17.8, các bàn thắng của 2 ngoại binh Amarildo, Mpande đã giúp CLB PVF-CAND đánh bại SLNA 2-1, qua đó giành 3 điểm đầu tiên ở V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:21:00+07:00",
+      "fetched": "2025-08-17T21:15:06.805867+07:00"
+    },
+    {
+      "id": "599c00991f41f013dc26c3926f104f75",
+      "title": "Lãnh đạo châu Âu nào sẽ tới Mỹ tiếp sức cho ông Zelensky gặp ông Trump?",
+      "link": "https://thanhnien.vn/lanh-dao-chau-au-nao-se-toi-my-tiep-suc-cho-ong-zelensky-gap-ong-trump-185250817195440104.htm",
+      "summary": "Nhiều lãnh đạo châu Âu xác nhận sẽ đến Mỹ dự cuộc gặp giữa Tổng thống Donald Trump và người đồng cấp Ukraine Volodymyr Zelensky ngày 18.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:20:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806019+07:00"
+    },
+    {
+      "id": "c5b256ce2f9c7932a6d1f725eb2411ff",
+      "title": "Nước nào có giá cước dữ liệu di động đắt nhất thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-co-gia-cuoc-du-lieu-di-dong-dat-nhat-the-gioi-4927895.html",
+      "summary": "Người dân nước này phải trả 43,75 USD cho một GB dữ liệu di động đắt đỏ nhất thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:18:14+07:00",
+      "fetched": "2025-08-17T21:15:03.978597+07:00"
+    },
+    {
+      "id": "b62d85a087470a53294debe3490afbed",
+      "title": "Người dùng Internet đối mặt nguy cơ từ 'vũ khí' Dark AI",
+      "link": "https://vnexpress.net/nguoi-dung-internet-doi-mat-nguy-co-tu-vu-khi-dark-ai-4927970.html",
+      "summary": "Trí tuệ nhân tạo đang bị lạm dụng, biến tướng thành Dark AI - một món vũ khí của giới tội phạm mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:11:38+07:00",
+      "fetched": "2025-08-17T21:15:03.978765+07:00"
+    },
+    {
+      "id": "b62d85a087470a53294debe3490afbed",
+      "title": "Người dùng Internet đối mặt nguy cơ từ 'vũ khí' Dark AI",
+      "link": "https://vnexpress.net/nguoi-dung-internet-doi-mat-nguy-co-tu-vu-khi-dark-ai-4927970.html",
+      "summary": "Trí tuệ nhân tạo đang bị lạm dụng, biến tướng thành Dark AI - một món vũ khí của giới tội phạm mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T13:11:38+07:00",
+      "fetched": "2025-08-17T21:15:13.184670+07:00"
+    },
+    {
+      "id": "8d61b780e64379cd069a8bf1c12197e1",
+      "title": "Thanh Hóa thoát thua nhờ nhân vật đặc biệt, Đà Nẵng bị chia điểm đầy tiếc nuối",
+      "link": "https://thanhnien.vn/thanh-hoa-thoat-thua-nho-nhan-vat-dac-biet-da-nang-bi-chia-diem-day-tiec-nuoi-185250817200359936.htm",
+      "summary": "Tối 17.8, Nguyễn Ngọc Mỹ, tiền đạo vừa vô địch U.23 Đông Nam Á 2025 cùng đội tuyển U.23 Việt Nam giúp CLB Thanh Hóa có được trận hòa 1-1 trước đội Đà Nẵng ở vòng 1 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:10:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806181+07:00"
+    },
+    {
+      "id": "d07ffddb336aa2b5104c52b98821dff3",
+      "title": "Ba người trộm gần 280 gốc sâm Ngọc Linh",
+      "link": "https://vnexpress.net/ba-nguoi-trom-gan-280-goc-sam-ngoc-linh-4927978.html",
+      "summary": "Ba thanh niên ở tỉnh Quảng Ngãi lợi dụng đêm tối, địa hình rừng núi hiểm trở để lén lút xâm nhập, đào trộm 273 gốc sâm Ngọc Linh (7,2 kg) mang đi tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:07:35+07:00",
+      "fetched": "2025-08-17T21:15:03.978925+07:00"
+    },
+    {
+      "id": "870c5131f07a87ef1f20f38689666e06",
+      "title": "Tân binh Ninh Bình ngược dòng kịch tính, thắng chủ nhà Hà Tĩnh: Quang Nho đóng vai người hùng",
+      "link": "https://thanhnien.vn/tan-binh-ninh-binh-nguoc-dong-kich-tinh-thang-chu-nha-ha-tinh-quang-nho-dong-vai-nguoi-hung-185250817184852075.htm",
+      "summary": "Trong ngày mưa nặng hạt tại sân Hà Tĩnh, tân binh Ninh Bình đã có màn ra mắt V-League 2025-2026 đầy ấn tượng khi Dụng Quang Nho ghi bàn quyết định ở phút 90, mang về chiến thắng kịch tính cho đội khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:04:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806330+07:00"
+    },
+    {
+      "id": "58da034b714a6d7b0e57aa382c91c8af",
+      "title": "TP.HCM: Nguyên Chủ tịch quận 3 Võ Văn Đức làm Bí thư phường Nhiêu Lộc",
+      "link": "https://thanhnien.vn/tphcm-nguyen-chu-tich-quan-3-vo-van-duc-lam-bi-thu-phuong-nhieu-loc-185250817195638947.htm",
+      "summary": "Ông Võ Văn Đức, 57 tuổi, nguyên Chủ tịch UBND quận 3, TP.HCM được chỉ định giữ chức Bí thư Đảng ủy phường Nhiêu Lộc nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:02:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806503+07:00"
+    },
+    {
+      "id": "e909100ddd27be5251b5eea59cca54c8",
+      "title": "Nghệ sĩ Phi Điểu đóng MV về tình bà cháu",
+      "link": "https://vnexpress.net/nghe-si-phi-dieu-dong-mv-ve-tinh-ba-chau-4927885.html",
+      "summary": "Nghệ sĩ Phi Điểu, 92 tuổi, hóa thành người bà tảo tần nuôi cháu khôn lớn, trong MV mùa Vu Lan của ca sĩ Khánh An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:00:00+07:00",
+      "fetched": "2025-08-17T21:15:03.979089+07:00"
+    },
+    {
+      "id": "3425e865f2d135d4912c37b1a8356c0a",
+      "title": "Xem nhanh 20h ngày 17.8: Đề xuất cho tính khoản lỗ 44 ngàn tỉ vào giá điện | Bác sĩ bỏ mặc bệnh nhân để bảo vệ nhân tình?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-178-de-xuat-cho-tinh-khoan-lo-44-ngan-ti-vao-gia-dien-bac-si-bo-mac-benh-nhan-de-bao-ve-nhan-tinh-185250817185756487.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 17.8 có nhiều tin tức đáng chú ý về: Đề xuất cho tính khoản lỗ gần 44.800 tỉ đồng vào giá điện; Trung Quốc kỷ luật 19 người sau vụ bác sĩ bỏ mặc bệnh nhân để bảo vệ nhân tình;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:00:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806665+07:00"
+    },
+    {
+      "id": "fb34012f7d61c5c2a1f1496a913b44ab",
+      "title": "Giày ballet tạo nét cổ điển hòa cùng hơi thở hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-ballet-tao-net-co-dien-hoa-cung-hoi-tho-hien-dai-185250816203231376.htm",
+      "summary": "Từng là biểu tượng gắn liền với hình ảnh những vũ công ba lê thanh thoát, giày ballet (giày ba lê) nay đã trở lại mạnh mẽ trong làng mốt, mang theo hơi thở cổ điển nhưng được thổi hồn mới mẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:00:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806817+07:00"
+    },
+    {
+      "id": "b5fa4f14bac96a78517b930cd68b8af1",
+      "title": "Nhân viên ngoại giao Mỹ bỏ quên tài liệu thượng đỉnh ở khách sạn",
+      "link": "https://vnexpress.net/nhan-vien-ngoai-giao-my-bo-quen-tai-lieu-thuong-dinh-o-khach-san-4927963.html",
+      "summary": "Tài liệu của Bộ Ngoại giao Mỹ, chứa một số thông tin chưa được công bố về thượng đỉnh Trump - Putin, được tìm thấy ở khách sạn tại Alaska.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:59:14+07:00",
+      "fetched": "2025-08-17T21:15:03.979240+07:00"
+    },
+    {
+      "id": "b5fa4f14bac96a78517b930cd68b8af1",
+      "title": "Nhân viên ngoại giao Mỹ bỏ quên tài liệu thượng đỉnh ở khách sạn",
+      "link": "https://vnexpress.net/nhan-vien-ngoai-giao-my-bo-quen-tai-lieu-thuong-dinh-o-khach-san-4927963.html",
+      "summary": "Tài liệu của Bộ Ngoại giao Mỹ, chứa một số thông tin chưa được công bố về thượng đỉnh Trump - Putin, được tìm thấy ở khách sạn tại Alaska.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T12:59:14+07:00",
+      "fetched": "2025-08-17T21:15:08.938881+07:00"
+    },
+    {
+      "id": "12b20ebf058519ffebf7ad5f320bac22",
+      "title": "Sới bạc ẩn mình của ông chủ gara ôtô",
+      "link": "https://vnexpress.net/soi-bac-an-minh-cua-ong-chu-gara-oto-4927976.html",
+      "summary": "Chủ gara sữa chữa ôtô Phan Hữu Hải cho lắp đặt nhiều lớp cửa và camera giám sát để tạo \"pháo đài\" cho sới bạc hoạt động, tiền giao dịch mỗi ngày từ 500 triệu đến một tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:57:12+07:00",
+      "fetched": "2025-08-17T21:15:03.979391+07:00"
+    },
+    {
+      "id": "ae0382c57e8b4805f948953fec795c91",
+      "title": "Danh họa Trung Quốc mất tích, bị vợ kém 50 tuổi chiếm đoạt tài sản nghìn tỉ?",
+      "link": "https://thanhnien.vn/danh-hoa-trung-quoc-mat-tich-bi-vo-kem-50-tuoi-chiem-doat-tai-san-nghin-ti-185250817173103481.htm",
+      "summary": "Tin đồn danh họa Trung Quốc - Phạm Tăng, bị vợ trẻ kém 50 tuổi chiếm đoạt khối tài sản hơn 2 tỉ nhân dân tệ gây xôn xao mạng xã hội xứ tỉ dân. Sự việc càng lên cao trào khi con gái lên tiếng về sự biến mất bất thường của ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:57:00+07:00",
+      "fetched": "2025-08-17T21:15:06.806968+07:00"
+    },
+    {
+      "id": "9ce4cccd3d10804fa34e083d82d076ac",
+      "title": "4 nữ sinh mắc kẹt khi đi chơi suối ở đèo Bảo Lộc",
+      "link": "https://vnexpress.net/deo-bao-loc-4927979.html",
+      "summary": "Nhóm nữ sinh đến suối Mơ ở khu vực đèo Bảo Lộc chơi, bất ngờ bị nước lũ bủa vây, được người làm vườn phát hiện báo cảnh sát giải cứu, chiều 17/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:56:23+07:00",
+      "fetched": "2025-08-17T21:15:03.979568+07:00"
+    },
+    {
+      "id": "8593d2738794b31bc0b4339d72c3f658",
+      "title": "Điều dưỡng làm trái chỉ định của bác sĩ vụ bé 13 tháng tuổi tử vong",
+      "link": "https://vnexpress.net/dieu-duong-lam-trai-chi-dinh-cua-bac-si-vu-be-13-thang-tuoi-tu-vong-4927973.html",
+      "summary": "Bác sĩ chỉ định sử dụng adrenalin bằng hình thức phun khí dung nhưng điều dưỡng đã tiêm cho bé 13 tháng tuổi, sau đó bệnh nhi chuyển biến xấu rồi tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:35:23+07:00",
+      "fetched": "2025-08-17T21:15:03.979719+07:00"
+    },
+    {
       "id": "77fc465d7268862831de71d0e7ee1b65",
       "title": "Xả súng hàng loạt tại New York, nhiều người thương vong",
       "link": "https://thanhnien.vn/xa-sung-hang-loat-tai-new-york-nhieu-nguoi-thuong-vong-185250817191816407.htm",
@@ -481,6 +901,16 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T12:29:00+07:00",
       "fetched": "2025-08-17T19:33:01.509665+07:00"
+    },
+    {
+      "id": "5584ac247f16ad5b54e317887734e72c",
+      "title": "Hàng chục cá heo xuất hiện tại vịnh Cam Ranh",
+      "link": "https://vnexpress.net/hang-chuc-ca-heo-xuat-hien-tai-vinh-cam-ranh-4927975.html",
+      "summary": "Đàn cá heo bơi lội gần khu vực biển Cam Ranh tạo nên cảnh tượng thú vị, thu hút nhiều du khách đang tham quan vịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:27:47+07:00",
+      "fetched": "2025-08-17T21:15:03.979868+07:00"
     },
     {
       "id": "dc203db335660fe4d5318d59952299a0",
@@ -511,6 +941,26 @@ window.newsData_2025_08_17 = {
       "category": "Công nghệ",
       "published": "2025-08-17T12:23:01+07:00",
       "fetched": "2025-08-17T19:33:09.528949+07:00"
+    },
+    {
+      "id": "52feba5634cc2ad983558c95f8fb2088",
+      "title": "Loạt lãnh đạo châu Âu sẽ cùng ông Zelensky đến gặp ông Trump",
+      "link": "https://vnexpress.net/loat-lanh-dao-chau-au-se-cung-ong-zelensky-den-gap-ong-trump-4927964.html",
+      "summary": "Lãnh đạo nhiều nước châu Âu thông báo sẽ đến Washington cùng Tổng thống Zelensky để dự cuộc họp với ông Trump vào ngày 18/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:18:38+07:00",
+      "fetched": "2025-08-17T21:15:03.980173+07:00"
+    },
+    {
+      "id": "52feba5634cc2ad983558c95f8fb2088",
+      "title": "Loạt lãnh đạo châu Âu sẽ cùng ông Zelensky đến gặp ông Trump",
+      "link": "https://vnexpress.net/loat-lanh-dao-chau-au-se-cung-ong-zelensky-den-gap-ong-trump-4927964.html",
+      "summary": "Lãnh đạo nhiều nước châu Âu thông báo sẽ đến Washington cùng Tổng thống Zelensky để dự cuộc họp với ông Trump vào ngày 18/8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T12:18:38+07:00",
+      "fetched": "2025-08-17T21:15:08.939060+07:00"
     },
     {
       "id": "adf6e9f8a992a38019a8b813137abe4d",
@@ -551,6 +1001,16 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T12:00:00+07:00",
       "fetched": "2025-08-17T19:33:01.510585+07:00"
+    },
+    {
+      "id": "74308d7f46faac2a73f5840e4a37a5e6",
+      "title": "Hoàng Sơn - dãy núi đá granite hùng vĩ của Trung Quốc",
+      "link": "https://vnexpress.net/hoang-son-day-nui-da-granite-hung-vi-cua-trung-quoc-4927968.html",
+      "summary": "Dãy núi granite tại Hoàng Sơn rộng hơn 150 km2 ở tỉnh An Huy, được hình thành qua hàng triệu năm, hút du nhờ 4 kỳ quan thiên nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:00:00+07:00",
+      "fetched": "2025-08-17T21:15:03.980326+07:00"
     },
     {
       "id": "ce11286812412fe2c4b7bc300fbbf09c",
