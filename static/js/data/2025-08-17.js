@@ -1,7 +1,157 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T11:30:20.525825+07:00",
+  "lastUpdated": "2025-08-17T13:24:51.210503+07:00",
   "articles": [
+    {
+      "id": "c658e26283fd5076eef0faeb8e15487a",
+      "title": "80 năm lực lượng Công an nhân dân: Sau mỗi chiến công là trí tuệ và mồ hôi, là kỷ luật và ý chí",
+      "link": "https://tuoitre.vn/80-nam-luc-luong-cong-an-nhan-dan-sau-moi-chien-cong-la-tri-tue-va-mo-hoi-la-ky-luat-va-y-chi-20250817114015962.htm",
+      "summary": "Bài phát biểu của Tổng Bí thư tại Lễ kỷ niệm 80 năm Ngày truyền thống Công an nhân dân, 20 năm Ngày hội toàn dân bảo vệ an ninh Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.564603+07:00",
+      "fetched": "2025-08-17T13:24:40.564715+07:00"
+    },
+    {
+      "id": "55f153614fc66014df56f728385f59cc",
+      "title": "Huế tử tế no bụng, ấm tình người",
+      "link": "https://tuoitre.vn/hue-tu-te-no-bung-am-tinh-nguoi-20250817085427301.htm",
+      "summary": "Từ cái gật đầu hồi năm 2023, đôi bạn Hồ Thị Thảo Nhi và Phạm Thị Khánh Nhi đã bắt đầu hành trình gieo hạt yêu thương giữa lòng cố đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.564478+07:00",
+      "fetched": "2025-08-17T13:24:40.564591+07:00"
+    },
+    {
+      "id": "50705dc38629f49fc33774ee5d44cc52",
+      "title": "Dương Quốc Hoàng thắng sốc tay cơ số 1 thế giới tại giải đấu ở Mỹ",
+      "link": "https://tuoitre.vn/duong-quoc-hoang-thang-soc-tay-co-so-1-the-gioi-tai-giai-dau-o-my-20250817113408763.htm",
+      "summary": "Sáng 17-8, cơ thủ pool số 1 Việt Nam Dương Quốc Hoàng đã gây bất ngờ lớn khi vượt qua Fedor Gorst tại Giải pool 9 bi Battle of the Bull.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.564344+07:00",
+      "fetched": "2025-08-17T13:24:40.564466+07:00"
+    },
+    {
+      "id": "5beb34428100f177e25e0358cf6ac593",
+      "title": "Thực hư có các loại thực phẩm 'kỵ rơ', ăn món này đừng thêm món khác",
+      "link": "https://tuoitre.vn/thuc-hu-co-cac-loai-thuc-pham-ky-ro-an-mon-nay-dung-them-mon-khac-20250817104123157.htm",
+      "summary": "Những thông tin về việc kết hợp một số loại thực phẩm với nhau sẽ dẫn tới tử vong luôn được lan truyền và gây sự chú ý của mọi người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.564213+07:00",
+      "fetched": "2025-08-17T13:24:40.564333+07:00"
+    },
+    {
+      "id": "10f0e732f81e77c9f40a6578b8c36e5d",
+      "title": "Hai nữ du khách thiệt mạng khi chèo sup tắm biển, bị sóng đánh lật",
+      "link": "https://tuoitre.vn/hai-nu-du-khach-thiet-mang-khi-cheo-sup-tam-bien-bi-song-danh-lat-20250817113833095.htm",
+      "summary": "Trong lúc chèo sup tắm biển ở khu vực xã Tiên Hải (hay gọi đảo Hải Tặc, An Giang) và gặp phải sóng lớn nên chiếc sup bị đánh lật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.564074+07:00",
+      "fetched": "2025-08-17T13:24:40.564201+07:00"
+    },
+    {
+      "id": "65d39115ab0eac5678f8b03ab189abab",
+      "title": "Chung kết trong mơ Cincinnati 2025: Sinner đối đầu Alcaraz",
+      "link": "https://tuoitre.vn/chung-ket-trong-mo-cincinnati-2025-sinner-doi-dau-alcaraz-2025081711440444.htm",
+      "summary": "Sinner và Alcaraz đã giành chiến thắng để giành quyền vào chơi trận chung kết trong mơ của giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563951+07:00",
+      "fetched": "2025-08-17T13:24:40.564063+07:00"
+    },
+    {
+      "id": "f32f451f8ec72226a71c109e370ace78",
+      "title": "Nhà di động ví như 'Godzilla 4 bánh', giá dễ trên 13 tỉ đồng",
+      "link": "https://tuoitre.vn/nha-di-dong-vi-nhu-godzilla-4-banh-gia-de-tren-13-ti-dong-20250816231831027.htm",
+      "summary": "Ngôi nhà di động gây chú ý không chỉ bởi kích thước mà còn bởi \"sự chịu chi\" đằng sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563828+07:00",
+      "fetched": "2025-08-17T13:24:40.563940+07:00"
+    },
+    {
+      "id": "935dfba6b231bae7b9478c7cc36f63d8",
+      "title": "Saigontourist Group nhận 4 giải thưởng lớn tại Diễn đàn Kinh tế ASEAN 2025",
+      "link": "https://tuoitre.vn/saigontourist-group-nhan-4-giai-thuong-lon-tai-dien-dan-kinh-te-asean-2025-20250817123636299.htm",
+      "summary": "Saigontourist Group đã vinh dự nhận bộ bốn giải thưởng uy tín, khẳng định vị thế tiên phong trong phát triển du lịch bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563702+07:00",
+      "fetched": "2025-08-17T13:24:40.563817+07:00"
+    },
+    {
+      "id": "d96b568d38a9b7859889002037248b50",
+      "title": "Chợ đời bán thánh buôn thần",
+      "link": "https://tuoitre.vn/cho-doi-ban-thanh-buon-than-20250817094137422.htm",
+      "summary": "Bộ phim đến từ Thái Lan, nền điện ảnh không thôi khiến chúng ta bất ngờ bằng những chủ đề lạ nhưng mang hơi thở của cuộc sống đương đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563578+07:00",
+      "fetched": "2025-08-17T13:24:40.563691+07:00"
+    },
+    {
+      "id": "e5536c1111db906f8e9dd6c4a376100b",
+      "title": "Lực lượng Công an nhân dân đón nhận Huân chương Sao vàng lần thứ 5",
+      "link": "https://tuoitre.vn/luc-luong-cong-an-nhan-dan-don-nhan-huan-chuong-sao-vang-lan-thu-5-20250817122133953.htm",
+      "summary": "Tổng Bí thư Tô Lâm đã thay mặt lãnh đạo Đảng và Nhà nước gắn Huân chương Sao vàng lên cờ truyền thống của lực lượng Công an nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563454+07:00",
+      "fetched": "2025-08-17T13:24:40.563567+07:00"
+    },
+    {
+      "id": "a5ec9b13ad61ee17651499a15b295de0",
+      "title": "Chủ nhà Indonesia rời Giải bóng chuyền nữ U21 thế giới với chỉ 1 trận thắng thật sự",
+      "link": "https://tuoitre.vn/chu-nha-indonesia-roi-giai-bong-chuyen-nu-u21-the-gioi-voi-chi-1-tran-thang-that-su-20250817123633475.htm",
+      "summary": "Dù có lợi thế chủ nhà, Indonesia có số trận thắng ít ỏi khi tham dự Giải bóng chuyền nữ U21 thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563325+07:00",
+      "fetched": "2025-08-17T13:24:40.563442+07:00"
+    },
+    {
+      "id": "05e10ea927b8b2835b4ed8f86dfca687",
+      "title": "Israel sơ tán dân, chuẩn bị chiến dịch đánh bật Hamas khỏi thành trì cuối cùng",
+      "link": "https://tuoitre.vn/israel-so-tan-dan-chuan-bi-chien-dich-danh-bat-hamas-khoi-thanh-tri-cuoi-cung-20250817121644791.htm",
+      "summary": "Người dân Gaza sẽ được cung cấp lều bạt để rời khỏi các khu vực chiến sự ở miền bắc Gaza từ ngày 17-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563193+07:00",
+      "fetched": "2025-08-17T13:24:40.563314+07:00"
+    },
+    {
+      "id": "3b63d60dcabd9866a2455ff7ff533da0",
+      "title": "145 người dương tính với ma túy tại nhà hàng và vũ trường ở Quảng Trị",
+      "link": "https://tuoitre.vn/145-nguoi-duong-tinh-voi-ma-tuy-tai-nha-hang-va-vu-truong-o-quang-tri-20250817115038671.htm",
+      "summary": "Công an kiểm tra hai cơ sở giải trí tại phường Nam Đông Hà, phát hiện 145 người sử dụng ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.563043+07:00",
+      "fetched": "2025-08-17T13:24:40.563180+07:00"
+    },
+    {
+      "id": "a56439506d2224534372d08ea9663919",
+      "title": "Để không còn những bảo mẫu tức giận với trẻ",
+      "link": "https://tuoitre.vn/de-khong-con-nhung-bao-mau-tuc-gian-voi-tre-20250817093251909.htm",
+      "summary": "Làm gì để ngăn những vụ việc đau lòng như trường hợp bé 14 tháng tuổi bị bảo mẫu ném xuống sàn tử vong do chấn thương sọ não?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.562902+07:00",
+      "fetched": "2025-08-17T13:24:40.563031+07:00"
+    },
+    {
+      "id": "d4b3a78750aa698b498df46bc38fda66",
+      "title": "Ngân hàng Nhà nước Ấn Độ mở chi nhánh ngân hàng nổi?",
+      "link": "https://tuoitre.vn/ngan-hang-nha-nuoc-an-do-mo-chi-nhanh-ngan-hang-noi-20250817111406823.htm",
+      "summary": "Không có việc Ngân hàng Nhà nước Ấn Độ (SBI) ra mắt một ngân hàng nổi hoạt động tại các vùng nước ngập của quận Alappuzha, bang Kerala.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T13:24:40.562682+07:00",
+      "fetched": "2025-08-17T13:24:40.562887+07:00"
+    },
     {
       "id": "a32c2f5b6cac76037d61841a0ac5605f",
       "title": "'Bắt gặp' VinFast Minio Green chạy thử: Xuất hiện chi tiết mới không đề cập trong bảng thông số",
@@ -363,6 +513,346 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T08:27:32.223863+07:00"
     },
     {
+      "id": "5ce1ec773be6e6bf922fec0b1309d467",
+      "title": "Quảng Trị: Kiểm tra 2 vũ trường, phát hiện 145 người dương tính ma túy",
+      "link": "https://thanhnien.vn/quang-tri-kiem-tra-2-vu-truong-phat-hien-145-nguoi-duong-tinh-ma-tuy-185250817115104409.htm",
+      "summary": "Kiểm tra 2 vũ trường trong đêm tại P.Nam Đông Hà, lực lượng chức năng tỉnh Quảng Trị phát hiện có 145 người dương tính với ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:20:00+07:00",
+      "fetched": "2025-08-17T13:24:39.585955+07:00"
+    },
+    {
+      "id": "076d99fcab7ec8a2cd8160fb388ec906",
+      "title": "Lãnh đạo Đảng, Nhà nước viếng Chủ tịch Hồ Chí Minh, dâng hương anh hùng liệt sĩ",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-vieng-chu-tich-ho-chi-minh-dang-huong-anh-hung-liet-si-4927867.html",
+      "summary": "Sáng 17/8, đoàn đại biểu lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh và dâng hương tưởng niệm các anh hùng liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:06:45+07:00",
+      "fetched": "2025-08-17T13:24:35.911778+07:00"
+    },
+    {
+      "id": "dbf5dfb9d0ceac8a738ae90500cc9d3e",
+      "title": "Đề xuất cho phép tính khoản lỗ gần 44.800 tỉ đồng vào giá điện",
+      "link": "https://thanhnien.vn/de-xuat-cho-phep-tinh-khoan-lo-gan-44800-ti-dong-vao-gia-dien-185250817125842259.htm",
+      "summary": "Đó là một trong nội dung có trong dự thảo tờ trình Chính phủ về dự thảo nghị định sửa đổi, bổ sung Nghị định 72 ngày 28.3.2025 của Chính phủ về cơ chế, thời gian điều chỉnh giá bán lẻ điện bình quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:03:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586124+07:00"
+    },
+    {
+      "id": "5b59b69d7e426478c48399c38e0e3c64",
+      "title": "Lương y giữa chốn thiền môn",
+      "link": "https://thanhnien.vn/luong-y-giua-chong-thien-mon-185250817130110294.htm",
+      "summary": "Giữa lòng thành phố tấp nập, phòng châm cứu từ thiện tại tu viện Quảng Hương Già Lam (phường Hạnh Thông, TP.HCM) vẫn lặng lẽ mở cửa, đón những bước chân mỏi mệt giữa bao truân chuyên. Nơi đây, bệnh nhân không chỉ được chữa lành thể chất, mà còn nhận về vòng tay yêu thương, sự gắn kết và chỗ dựa ấm á...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:01:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586305+07:00"
+    },
+    {
+      "id": "fcba8461ae0e415ab539a220d83f211b",
+      "title": "Hiền Hồ quỳ gối xin lỗi: Đừng mắc sai lầm như tôi",
+      "link": "https://thanhnien.vn/hien-ho-quy-goi-xin-loi-dung-mac-sai-lam-nhu-toi-185250817125505897.htm",
+      "summary": "Khi biểu diễn trên sân khấu, Hiền Hồ gây chú ý với động thái cúi người xin lỗi khán giả, đồng thời nhận sai vì ồn ào trong quá khứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:00:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586459+07:00"
+    },
+    {
+      "id": "04bee8ae82a2b2154473b9ae8cfaef0b",
+      "title": "Những ngôi làng tuyệt đẹp ven biển: Cù Lao Xanh - viên ngọc giữa biển khơi",
+      "link": "https://thanhnien.vn/nhung-ngoi-lang-tuyet-dep-ven-bien-cu-lao-xanh-vien-ngoc-giua-bien-khoi-185250817110355425.htm",
+      "summary": "Nằm cách phố biển Quy Nhơn, tỉnh Gia Lai (trước đây thuộc TP.Quy Nhơn, tỉnh Bình Định) khoảng 24 km về phía đông, làng chài cổ Cù Lao Xanh, còn được biết đến với tên gọi Nhơn Châu, là một hòn đảo xinh đẹp với vẻ hoang sơ, mộc mạc hiếm có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:00:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586612+07:00"
+    },
+    {
+      "id": "9fc12e734e6ebe90521a81173a579b04",
+      "title": "400 cảnh sát đột kích vũ trường, quán bar có ma túy",
+      "link": "https://vnexpress.net/400-canh-sat-dot-kich-vu-truong-quan-bar-co-ma-tuy-4927879.html",
+      "summary": "Cảnh sát kiểm tra quán bar Nonstop Club và vũ trường Victory ở phường Nam Đông Hà phát hiện 145 người dương tính với ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:55:57+07:00",
+      "fetched": "2025-08-17T13:24:35.911957+07:00"
+    },
+    {
+      "id": "80286b6067fe01a7662b8452796156e4",
+      "title": "Những lời nhắn ấm áp bất ngờ ở hàng quán, trung tâm thương mại TP.HCM",
+      "link": "https://thanhnien.vn/nhung-loi-nhan-am-ap-bat-ngo-o-hang-quan-trung-tam-thuong-mai-tphcm-185250816153644558.htm",
+      "summary": "Tại các hàng quán, trung tâm thương mại ở TP.HCM xuất hiện những lời nhắn dễ thương, ấm áp khiến nhiều người bất ngờ mỉm cười, cảm thấy được chữa lành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:54:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586762+07:00"
+    },
+    {
+      "id": "7d1f9907ad9abe4092a6daff27d2dd56",
+      "title": "Người dân được nới thời hạn ghi nợ tiền sử dụng đất khi cấp sổ lần đầu",
+      "link": "https://vnexpress.net/nguoi-dan-duoc-noi-thoi-han-ghi-no-tien-su-dung-dat-khi-cap-so-lan-dau-4927869.html",
+      "summary": "Hộ gia đình, cá nhân được nợ tiền sử dụng đất khi cấp sổ đỏ cho tới lúc chuyển quyền sử dụng, thay vì giới hạn 5 năm, theo Nghị định 226.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:52:34+07:00",
+      "fetched": "2025-08-17T13:24:35.912131+07:00"
+    },
+    {
+      "id": "10f0b042dd6f1e48e710d5e3b1d88c53",
+      "title": "Tổng Bí thư Tô Lâm: CAND là 'lá chắn thép' bảo vệ Đảng, nhân dân",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-cand-la-la-chan-thep-bao-ve-dang-nhan-dan-185250817122456625.htm",
+      "summary": "Theo Tổng Bí thư Tô Lâm, từ những ngày đầu giành chính quyền, khi bộ máy cách mạng còn rất non trẻ, lực lượng công an đã trở thành 'lá chắn thép' bảo vệ Đảng, bảo vệ chính quyền cách mạng, bảo vệ thành quả của nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:51:00+07:00",
+      "fetched": "2025-08-17T13:24:39.586910+07:00"
+    },
+    {
+      "id": "a7e535dda4086500e289ef1dbcc7d38a",
+      "title": "CLB Công an TP.HCM thắng trận đầu V-League: Lâu rồi sân Thống Nhất mới vui đến thế!",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-thang-tran-dau-v-league-lau-roi-san-thong-nhat-moi-vui-den-the-185250817122133196.htm",
+      "summary": "Lễ khai mạc V-League 2025 - 2026 cùng chiến thắng của CLB Công an TP.HCM giúp sân Thống Nhất trải qua bầu không khí lễ hội nhiều năm rồi mới trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:51:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587058+07:00"
+    },
+    {
+      "id": "c9191f244eb6b07ee18d85e2503c2751",
+      "title": "Vì sao ngoại tình công sở dễ nảy sinh?",
+      "link": "https://vnexpress.net/vi-sao-ngoai-tinh-cong-so-de-nay-sinh-4927802.html",
+      "summary": "Scandal \"kiss-cam\" giữa một CEO và nhân viên đã khơi dậy cuộc tranh luận về chuyện yêu đương nơi công sở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:50:21+07:00",
+      "fetched": "2025-08-17T13:24:35.912320+07:00"
+    },
+    {
+      "id": "5dd5acfddb333197cc08d5af74257b5f",
+      "title": "Israel chuẩn bị di dời cư dân Gaza City",
+      "link": "https://vnexpress.net/israel-chuan-bi-di-doi-cu-dan-gaza-city-4927870.html",
+      "summary": "Israel thông báo sẽ cung cấp lều cho cư dân Gaza, trước khi di dời họ để mở đợt tấn công vào Gaza City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:48:42+07:00",
+      "fetched": "2025-08-17T13:24:35.912480+07:00"
+    },
+    {
+      "id": "5dd5acfddb333197cc08d5af74257b5f",
+      "title": "Israel chuẩn bị di dời cư dân Gaza City",
+      "link": "https://vnexpress.net/israel-chuan-bi-di-doi-cu-dan-gaza-city-4927870.html",
+      "summary": "Israel thông báo sẽ cung cấp lều cho cư dân Gaza, trước khi di dời họ để mở đợt tấn công vào Gaza City.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T05:48:42+07:00",
+      "fetched": "2025-08-17T13:24:44.009302+07:00"
+    },
+    {
+      "id": "028ed779ad77adab0e63fb404b5961c7",
+      "title": "Cựu hiệu trưởng ở Cà Mau: 'Hối tiếc vì lơ là nguyên tắc tài chính'",
+      "link": "https://vnexpress.net/cuu-hieu-truong-o-ca-mau-hoi-tiec-vi-lo-la-nguyen-tac-tai-chinh-4927878.html",
+      "summary": "Ông Trần Văn Tâm cho biết thấy hối tiếc, chỉ vì muốn tiết kiệm cho trường mà đã bỏ qua quy định tài chính dẫn đến việc bị buộc tội \"tham ô 10,7 triệu đồng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:39:41+07:00",
+      "fetched": "2025-08-17T13:24:35.912639+07:00"
+    },
+    {
+      "id": "dde83186d6de134c0d62bdd77534dab8",
+      "title": "Lực lượng công an nhân dân nhận Huân chương Sao Vàng lần thứ 5",
+      "link": "https://vnexpress.net/cong-an-nhan-dan-nhan-huan-chuong-sao-vang-lan-thu-5-4927888.html",
+      "summary": "Hôm nay, lực lượng công an nhân dân đón nhận Huân chương Sao Vàng lần thứ 5 tại lễ kỷ niệm 80 năm ngành công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:39:37+07:00",
+      "fetched": "2025-08-17T13:24:35.912804+07:00"
+    },
+    {
+      "id": "4414aa3c441da814ba33b51bf647da4e",
+      "title": "CSGT TP.HCM bắt 23 thanh thiếu niên hẹn nhau 'biểu diễn' xe máy lúc rạng sáng",
+      "link": "https://thanhnien.vn/csgt-tphcm-bat-23-thanh-thieu-nien-hen-nhau-bieu-dien-xe-may-luc-rang-sang-185250817121451898.htm",
+      "summary": "CSGT TP.HCM đón lõng, bắt giữ hàng chục thanh niên điều khiển xe máy chạy tốc độ cao, nẹt pô, tạm giữ 20 phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:36:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587236+07:00"
+    },
+    {
+      "id": "cce1c49f188d6b54f47072cdf6a4d492",
+      "title": "Cú lừa hơn 14 tỷ đồng của 'luật sư Facebook'",
+      "link": "https://vnexpress.net/cu-lua-hon-14-ty-dong-cua-luat-su-facebook-4927846.html",
+      "summary": "Nguyễn Hữu Thạnh tự nhận là luật sư, đăng quảng cáo trên mạng xã hội về dich vụ đưa người đi lao động, định cư tại Canada.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:32:00+07:00",
+      "fetched": "2025-08-17T13:24:35.912963+07:00"
+    },
+    {
+      "id": "6848125b5a59ebf44892ce4c4e5bc72d",
+      "title": "Đề xuất tính khoản lỗ, chênh lệch tỷ giá của EVN vào giá điện",
+      "link": "https://vnexpress.net/de-xuat-tinh-khoan-lo-chenh-lech-ty-gia-cua-evn-vao-gia-dien-4927875.html",
+      "summary": "Bộ Công Thương đề xuất cho phép tính toán, phân bổ lỗ lũy kế và chênh lệch tỷ giá chưa được bù đắp vào giá điện để bảo toàn vốn Nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:27:37+07:00",
+      "fetched": "2025-08-17T13:24:35.913126+07:00"
+    },
+    {
+      "id": "6848125b5a59ebf44892ce4c4e5bc72d",
+      "title": "Đề xuất tính khoản lỗ, chênh lệch tỷ giá của EVN vào giá điện",
+      "link": "https://vnexpress.net/de-xuat-tinh-khoan-lo-chenh-lech-ty-gia-cua-evn-vao-gia-dien-4927875.html",
+      "summary": "Bộ Công Thương đề xuất cho phép tính toán, phân bổ lỗ lũy kế và chênh lệch tỷ giá chưa được bù đắp vào giá điện để bảo toàn vốn Nhà nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T05:27:37+07:00",
+      "fetched": "2025-08-17T13:24:45.944285+07:00"
+    },
+    {
+      "id": "0b4c2ce6356568903995c5622d8e7ee5",
+      "title": "Màn ra mắt của Sesko, Gyokeres thắp sáng đại chiến Man Utd - Arsenal",
+      "link": "https://vnexpress.net/man-ra-mat-cua-sesko-gyokeres-thap-sang-dai-chien-man-utd-arsenal-4927799.html",
+      "summary": "Màn trình diễn của hai tiền đạo tân binh đình đám Benjamin Sesko và Viktor Gyokeres có thể định đoạt màn đại chiến giữa Man Utd và Arsenal ở vòng một giải Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:14:55+07:00",
+      "fetched": "2025-08-17T13:24:35.913336+07:00"
+    },
+    {
+      "id": "0b4c2ce6356568903995c5622d8e7ee5",
+      "title": "Màn ra mắt của Sesko, Gyokeres thắp sáng đại chiến Man Utd - Arsenal",
+      "link": "https://vnexpress.net/man-ra-mat-cua-sesko-gyokeres-thap-sang-dai-chien-man-utd-arsenal-4927799.html",
+      "summary": "Màn trình diễn của hai tiền đạo tân binh đình đám Benjamin Sesko và Viktor Gyokeres có thể định đoạt màn đại chiến giữa Man Utd và Arsenal ở vòng một giải Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T05:14:55+07:00",
+      "fetched": "2025-08-17T13:24:51.202197+07:00"
+    },
+    {
+      "id": "cbe06872643da8bd40759ce26bbd6b36",
+      "title": "TP.HCM: Bà Hàng Thị Thu Nga làm Bí thư Đảng ủy phường Tân Thuận",
+      "link": "https://thanhnien.vn/tphcm-ba-hang-thi-thu-nga-lam-bi-thu-dang-uy-phuong-tan-thuan-18525081710510504.htm",
+      "summary": "Bà Hàng Thị Thu Nga được chỉ định làm Bí thư Đảng ủy phường Tân Thuận, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:09:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587388+07:00"
+    },
+    {
+      "id": "25ccab2dc0975a217234b7c86c09d0ab",
+      "title": "Ông Nguyễn Phi Hoàng làm Bí thư xã Phú Giáo diện tích lớn thứ 2 ở TP.HCM",
+      "link": "https://thanhnien.vn/ong-nguyen-phi-hoang-lam-bi-thu-xa-phu-giao-dien-tich-lon-thu-2-o-tphcm-185250817114859631.htm",
+      "summary": "Sáng 17.8, xã Phú Giáo (TP.HCM) tổ chức Đại hội đại biểu Đảng bộ lần thứ 1, thông qua nghị quyết phát triển kinh tế xã hội, quốc phòng an ninh ở địa phương. Ông Nguyễn Phi Hoàng được chỉ định làm Bí thư Đảng ủy xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:03:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587538+07:00"
+    },
+    {
+      "id": "963af8c2ef4074739c668cbb1bb6d548",
+      "title": "Tốt nghiệp đại học 4 năm tôi mới xin được việc",
+      "link": "https://vnexpress.net/tim-viec-lam-thang-8-tphcm-that-nghiep-nen-lam-gi-sinh-vien-ra-truong-kho-xin-viec-4927866.html",
+      "summary": "Sau hàng trăm lần nộp hồ sơ và hàng chục cuộc phỏng vấn, rốt cuộc tôi đã xin được việc làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:35.913501+07:00"
+    },
+    {
+      "id": "f617facb1d3ebb6e410cc19b51835171",
+      "title": "Thông điệp từ màn phô diễn máy bay tàng hình Mỹ trước thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/thong-diep-tu-man-pho-dien-may-bay-tang-hinh-my-truoc-thuong-dinh-trump-putin-4927740.html",
+      "summary": "Mỹ huy động loạt máy bay F-22, F-35, B-2 cho lễ đón ở Alaska, nhằm thể hiện sự trọng thị với ông Putin và biểu dương sức mạnh quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:35.913659+07:00"
+    },
+    {
+      "id": "ef30c20d59796bd1b0010d64e6502a65",
+      "title": "Vị vua nào lên ngôi ít tuổi nhất trong sử Việt?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vi-vua-nao-len-ngoi-it-tuoi-nhat-trong-su-viet-4926745.html",
+      "summary": "Vị vua này sinh ngày 9 tháng 6 năm 1441 lên ngôi ngày 12 tháng 8 năm 1442, khi mới hơn 1 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:35.913833+07:00"
+    },
+    {
+      "id": "50ee1d3d90c9d297e09ca9eee0c9e1cc",
+      "title": "Chồng chưa từng hỏi thăm dù tôi bị khó thở, suy tim",
+      "link": "https://vnexpress.net/lam-gi-khi-hon-nhan-tren-bo-vuc-tham-chong-chua-tung-hoi-tham-du-toi-bi-kho-tho-suy-tim-4926578.html",
+      "summary": "Chưa bao giờ chồng bảo tôi đi khám, hay tôi có đi khám chữa về cũng không hỏi xem tình hình sức khỏe vợ thế nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:35.913992+07:00"
+    },
+    {
+      "id": "1cf6086d98e50719a9359a9f9bb4d964",
+      "title": "Người đàn ông Cần Thơ câu được cá rô vàng óng hiếm lạ",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-can-tho-cau-duoc-ca-ro-vang-ong-hiem-la-185250816192812563.htm",
+      "summary": "Trong lúc đi câu giải trí, một người đàn ông ở Cần Thơ bắt được cá rô vàng óng, vây cam, khác hẳn cá rô thường, thu hút sự chú ý của dân mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587686+07:00"
+    },
+    {
+      "id": "aa005b82db4c9b22f367bc916d9305b8",
+      "title": "Tăng nét gợi cảm khi diện áo corset và chân váy",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tang-net-goi-cam-khi-dien-ao-corset-va-chan-vay-185250816174436153.htm",
+      "summary": "Áo corset và chân váy mang đến cho nàng sức hút khó cưỡng. Mỗi bước đi như ngân lên thanh âm gợi cảm, thu hút mọi ánh nhìn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587833+07:00"
+    },
+    {
+      "id": "f617facb1d3ebb6e410cc19b51835171",
+      "title": "Thông điệp từ màn phô diễn máy bay tàng hình Mỹ trước thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/thong-diep-tu-man-pho-dien-may-bay-tang-hinh-my-truoc-thuong-dinh-trump-putin-4927740.html",
+      "summary": "Mỹ huy động loạt máy bay F-22, F-35, B-2 cho lễ đón ở Alaska, nhằm thể hiện sự trọng thị với ông Putin và biểu dương sức mạnh quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T05:00:00+07:00",
+      "fetched": "2025-08-17T13:24:44.009478+07:00"
+    },
+    {
+      "id": "9c2a0822400f94dace25c8cc24aa1df4",
+      "title": "Hội thảo đa cấp rất to, ăn uống linh đình bằng tiền của nạn nhân",
+      "link": "https://thanhnien.vn/hoi-thao-da-cap-rat-to-an-uong-linh-dinh-bang-tien-cua-nan-nhan-185250817112716069.htm",
+      "summary": "Các đối tượng đa cấp lừa đảo thường tổ chức hội thảo với quy mô lớn, tại khách sạn 5 sao hoặc resort cao cấp, ăn uống linh đình… Thực tế, đây đều là tiền của chính các nạn nhân đã bỏ ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T04:59:00+07:00",
+      "fetched": "2025-08-17T13:24:39.587981+07:00"
+    },
+    {
+      "id": "b62f28acc65ad0108f63496b13d558fb",
+      "title": "Xem nhanh 12h: Nâng ngưỡng thu nhập được mua nhà ở xã hội | Nghệ sĩ và câu chuyện quyền riêng tư",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-nang-nguong-thu-nhap-duoc-mua-nha-o-xa-hoi-nghe-si-va-cau-chuyen-quyen-rieng-tu-185250817115421153.htm",
+      "summary": "Bản tin 'Xem nhanh 12h' ngày 17.8.2025 của Báo Thanh Niên có nhiều thông tin đáng chú ý: Nâng ngưỡng thu nhập được mua nhà ở xã hội; Thời tiết dịp nghỉ lễ Quốc khánh 2.9; Metro TP.HCM tăng chuyến, cuối tuần chạy tới đêm; Quân đội Thái Lan lắp đặt hàng rào dài 6 km dọc biên giới với Campuchia;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T04:58:00+07:00",
+      "fetched": "2025-08-17T13:24:39.588138+07:00"
+    },
+    {
+      "id": "8970ff7fcb768da474ddddf178c75bc2",
+      "title": "Họa sĩ cùng các em khiếm thị trình diễn nghệ thuật",
+      "link": "https://vnexpress.net/hoa-si-cung-cac-em-khiem-thi-trinh-dien-nghe-thuat-4927746.html",
+      "summary": "Hoạ sĩ Hải Tre cùng hai em nhỏ vẽ tranh nghệ thuật trong 5 phút, kết hợp cùng ban nhạc các em khiếm thị trong ngày khai mạc triển lãm “We are the children”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T04:56:25+07:00",
+      "fetched": "2025-08-17T13:24:35.914150+07:00"
+    },
+    {
       "id": "3b065f613ad426bd06c969482346f511",
       "title": "Muốn xin được việc làm, phải biết… nhậu?",
       "link": "https://thanhnien.vn/muon-xin-duoc-viec-lam-phai-biet-nhau-18525081704244803.htm",
@@ -371,6 +861,16 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T04:22:00+07:00",
       "fetched": "2025-08-17T11:30:09.265351+07:00"
+    },
+    {
+      "id": "bf88d004f76d0ee0adb544419ae9dbb1",
+      "title": "Loạt bang Mỹ điều Vệ binh Quốc gia tới thủ đô Washington",
+      "link": "https://vnexpress.net/loat-bang-my-dieu-ve-binh-quoc-gia-toi-thu-do-washington-4927851.html",
+      "summary": "Thống đốc Nam Carolina, Ohio, Tây Virginia điều lính Vệ binh Quốc gia tới thủ đô Washington để hỗ trợ ông Trump \"khôi phục luật pháp và trật tự\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T04:19:04+07:00",
+      "fetched": "2025-08-17T13:24:44.009642+07:00"
     },
     {
       "id": "00abf7860e4cbaf6901dfa11184ab178",
