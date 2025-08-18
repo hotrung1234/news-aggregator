@@ -1,6 +1,6 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T01:26:10.376121+07:00",
+  "lastUpdated": "2025-08-19T03:17:56.926979+07:00",
   "articles": [
     {
       "id": "28b109998e49d26022ae04f814ba505d",
@@ -431,6 +431,16 @@ window.newsData_2025_08_19 = {
       "category": "Thế giới",
       "published": "2025-08-18T15:50:28+07:00",
       "fetched": "2025-08-19T01:26:04.923025+07:00"
+    },
+    {
+      "id": "7ecbd56cff2616f7fb7a602278b845c9",
+      "title": "Ông Zelensky gặp ông Trump tại Nhà Trắng",
+      "link": "https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530-tong-thuat.html",
+      "summary": "Tổng thống Zelensky và lãnh đạo nhiều nước châu Âu tới Nhà Trắng để gặp Tổng thống Trump, bàn về vấn đề chấm dứt xung đột Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T15:50:28+07:00",
+      "fetched": "2025-08-19T03:17:48.919845+07:00"
     },
     {
       "id": "d0789ad740dba1581bc803b1f7f55d56",
