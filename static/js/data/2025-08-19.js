@@ -1,7 +1,157 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T19:35:05.674045+07:00",
+  "lastUpdated": "2025-08-19T21:17:00.226794+07:00",
   "articles": [
+    {
+      "id": "46ee8669dea2221069dd253b148d3589",
+      "title": "Bích Tuyền tiết lộ lý do rút lui khỏi tuyển bóng chuyền nữ Việt Nam",
+      "link": "https://tuoitre.vn/bich-tuyen-tiet-lo-ly-do-rut-lui-khoi-tuyen-bong-chuyen-nu-viet-nam-20250819190914875.htm",
+      "summary": "Tối 19-8, vận động viên Nguyễn Thị Bích Tuyền đã lên tiếng, sau khi có thông tin cô không tham dự Giải bóng chuyền nữ vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323982+07:00",
+      "fetched": "2025-08-19T21:16:51.324097+07:00"
+    },
+    {
+      "id": "aa25f9e30ea1333dbbbc2df1b99541ef",
+      "title": "HLV Mai Đức Chung: 'Tôi rất mừng cho Huỳnh Như'",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-toi-rat-mung-cho-huynh-nhu-20250819182901735.htm",
+      "summary": "HLV trưởng tuyển nữ Việt Nam - ông Mai Đức Chung - khen ngợi tiền đạo Huỳnh Như với bàn thắng ghi được trong trận thắng Thái Lan chiều 19-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323855+07:00",
+      "fetched": "2025-08-19T21:16:51.323968+07:00"
+    },
+    {
+      "id": "bcfdc6ec0f51ef90312783fd35c02a94",
+      "title": "Messi sẽ chia tay tuyển Argentina vào ngày 5-9",
+      "link": "https://tuoitre.vn/messi-se-chia-tay-tuyen-argentina-vao-ngay-5-9-20250819192059641.htm",
+      "summary": "Truyền thông Argentina đồng loạt đưa tin Lionel Messi sẽ chia tay tuyển Argentina sau trận đấu với Venezuela ở vòng loại World Cup, diễn ra vào ngày 5-9 (giờ Việt Nam) sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323728+07:00",
+      "fetched": "2025-08-19T21:16:51.323843+07:00"
+    },
+    {
+      "id": "33a17dcae1cb29db8cfbdfbccdd9c48c",
+      "title": "Ông Trump: 'Ông Putin muốn thỏa thuận vì tôi'",
+      "link": "https://tuoitre.vn/ong-trump-ong-putin-muon-thoa-thuan-vi-toi-20250819192237422.htm",
+      "summary": "Ông Trump vô tình để lộ đoạn hội thoại với ông Macron, trong đó khẳng định ông là nguyên nhân thôi thúc ông Putin mong muốn có thỏa thuận hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323596+07:00",
+      "fetched": "2025-08-19T21:16:51.323717+07:00"
+    },
+    {
+      "id": "4c1088b066de3837e1b8c145d84315c3",
+      "title": "Vikki ra mắt bộ đôi thẻ doanh nghiệp Vikkipro từ 'trái tim' tài chính mới của Sài Gòn",
+      "link": "https://tuoitre.vn/vikki-ra-mat-bo-doi-the-doanh-nghiep-vikkipro-tu-trai-tim-tai-chinh-moi-cua-sai-gon-20250819193349267.htm",
+      "summary": "Hôm nay, 19-8, Tòa tháp Saigon Marina International Financial Centre đã chính thức khánh thành, mở đầu việc hình thành Trung tâm Tài chính quốc tế tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323469+07:00",
+      "fetched": "2025-08-19T21:16:51.323585+07:00"
+    },
+    {
+      "id": "8649f1cec8ccc38c33894caeed652a50",
+      "title": "Video tuyển nữ Việt Nam lại 'gieo sầu' cho Thái Lan",
+      "link": "https://tuoitre.vn/video-tuyen-nu-viet-nam-lai-gieo-sau-cho-thai-lan-20250819193613224.htm",
+      "summary": "Tuyển nữ Việt Nam tiếp tục đánh bại Thái Lan ở Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323325+07:00",
+      "fetched": "2025-08-19T21:16:51.323457+07:00"
+    },
+    {
+      "id": "e07fd3b92b39d4154a7dd31891d45c9f",
+      "title": "Tổng Bí thư: Ưu tiên đại biểu khách mời kỷ niệm 80 năm Quốc khánh là người có công, người cao tuổi",
+      "link": "https://tuoitre.vn/tong-bi-thu-uu-tien-dai-bieu-khach-moi-ky-niem-80-nam-quoc-khanh-la-nguoi-co-cong-nguoi-cao-tuoi-20250819193742191.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu công tác chuẩn bị, tổ chức lễ kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9 phải thật sự chu đáo, an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323194+07:00",
+      "fetched": "2025-08-19T21:16:51.323313+07:00"
+    },
+    {
+      "id": "eb2bbf90615e1a472a4ab7fd7b3312eb",
+      "title": "Từ Nhật Bản, liệu pháp Judo mở hướng điều trị chấn thương mới tại Việt Nam",
+      "link": "https://tuoitre.vn/tu-nhat-ban-lieu-phap-judo-mo-huong-dieu-tri-chan-thuong-moi-tai-viet-nam-20250819191707481.htm",
+      "summary": "Liệu pháp Judo là kỹ thuật điều trị chấn thương bảo tồn, không phẫu thuật đến từ Nhật Bản đang được chuyển giao cho bác sĩ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.323067+07:00",
+      "fetched": "2025-08-19T21:16:51.323182+07:00"
+    },
+    {
+      "id": "ce9418530784ab33fd302683da38bcea",
+      "title": "Điện lực miền Nam hoàn thành hai công trình trọng điểm chào mừng Quốc khánh",
+      "link": "https://tuoitre.vn/dien-luc-mien-nam-hoan-thanh-hai-cong-trinh-trong-diem-chao-mung-quoc-khanh-20250819162936507.htm",
+      "summary": "Ngày 19-8, Tổng công ty Điện lực miền Nam (EVNSPC) tổ chức khánh thành hai công trình trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322936+07:00",
+      "fetched": "2025-08-19T21:16:51.323055+07:00"
+    },
+    {
+      "id": "3b02e01c0dc5cfb90010552b16e546ae",
+      "title": "Hơn 300 vận động viên tranh tài tại Giải vô địch taekwondo Đông Nam Á",
+      "link": "https://tuoitre.vn/hon-300-van-dong-vien-tranh-tai-tai-giai-vo-dich-taekwondo-dong-nam-a-20250819195027822.htm",
+      "summary": "Giải vô địch taekwondo Đông Nam Á diễn ra tại Nha Trang, thu hút 322 vận động viên tham dự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322808+07:00",
+      "fetched": "2025-08-19T21:16:51.322925+07:00"
+    },
+    {
+      "id": "6852eb9058cfac95cdcbfc965e9e853d",
+      "title": "Trịnh Linh Giang chỉ là hạt giống số 3 ở PPA Hong Kong Open",
+      "link": "https://tuoitre.vn/trinh-linh-giang-chi-la-hat-giong-so-3-o-ppa-hong-kong-open-20250819201111121.htm",
+      "summary": "Tay vợt pickleball Trịnh Linh Giang được xếp hạt giống số 3 ở Hong Kong Open dù là nhà vô địch nội dung đánh đơn và xếp số 1 trên bảng xếp hạng PPA Asia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322674+07:00",
+      "fetched": "2025-08-19T21:16:51.322796+07:00"
+    },
+    {
+      "id": "a030c3330191152d2c357116640ce887",
+      "title": "Nhiều gia đình thu nhập cao tại Hàn Quốc mua xổ số tìm kiếm vận may",
+      "link": "https://tuoitre.vn/nhieu-gia-dinh-thu-nhap-cao-tai-han-quoc-mua-xo-so-tim-kiem-van-may-20250819203028896.htm",
+      "summary": "Số liệu công bố ngày 17-8 cho thấy trong quý I năm nay, ngày càng nhiều gia đình có thu nhập cao tại Hàn Quốc tham gia mua vé số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322543+07:00",
+      "fetched": "2025-08-19T21:16:51.322662+07:00"
+    },
+    {
+      "id": "94615d5b03f5d67ba048d5884c45fddb",
+      "title": "Bí thư Nguyễn Văn Nên: Công an TP.HCM bản lĩnh, trí tuệ, tận tụy vì sự bình yên của nhân dân",
+      "link": "https://tuoitre.vn/bi-thu-nguyen-van-nen-cong-an-tp-hcm-ban-linh-tri-tue-tan-tuy-vi-su-binh-yen-cua-nhan-dan-20250819151632452.htm",
+      "summary": "Thay mặt Thành ủy - UBND - Ủy ban MTTQ Việt Nam TP.HCM, Bí thư Thành ủy Nguyễn Văn Nên ghi nhận, đánh giá cao những cống hiến của Công an TP.HCM trong thời gian qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322388+07:00",
+      "fetched": "2025-08-19T21:16:51.322530+07:00"
+    },
+    {
+      "id": "da6db3b107dd7c012ec021ec0dcfb92d",
+      "title": "Bộ trưởng Lương Tam Quang điện đàm với Bộ trưởng Bộ Công an Trung Quốc",
+      "link": "https://tuoitre.vn/bo-truong-luong-tam-quang-dien-dam-voi-bo-truong-bo-cong-an-trung-quoc-20250819204211525.htm",
+      "summary": "Chiều 19-8, Đại tướng Lương Tam Quang - ủy viên Bộ Chính trị, bộ trưởng Bộ Công an Việt Nam - có cuộc điện đàm với Ủy viên Quốc vụ, Bộ trưởng Bộ Công an Trung Quốc Vương Tiểu Hồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322244+07:00",
+      "fetched": "2025-08-19T21:16:51.322375+07:00"
+    },
+    {
+      "id": "f1da8c875b8b52ade3fdaf3466bd8164",
+      "title": "Ông Lavrov: 'Nga không đơn giản chỉ nhằm giành lãnh thổ'",
+      "link": "https://tuoitre.vn/ong-lavrov-nga-khong-don-gian-chi-nham-gianh-lanh-tho-20250819204622187.htm",
+      "summary": "Ngoại trưởng Nga khẳng định những động thái của Matxcơva nhằm bảo vệ quyền của người nói tiếng Nga ở Ukraine, chứ chưa bao giờ chỉ đơn giản nhằm chiếm đóng lãnh thổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:16:51.322018+07:00",
+      "fetched": "2025-08-19T21:16:51.322229+07:00"
+    },
     {
       "id": "a3d3e76058cd24a08831e773c35e1848",
       "title": "Sau Ngày xửa ngày xưa, Quốc Thịnh tiếp tục chọc cười các bé với vai Sói xám",
@@ -373,6 +523,106 @@ window.newsData_2025_08_19 = {
       "fetched": "2025-08-19T15:22:16.617728+07:00"
     },
     {
+      "id": "47c2d408435fe68b5ae3c7ba11b71921",
+      "title": "Tổng Bí thư: Lễ diễu binh phải thể hiện được vị thế quốc gia",
+      "link": "https://vnexpress.net/tong-bi-thu-le-dieu-binh-phai-the-hien-duoc-vi-the-quoc-gia-4929011.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu các hoạt động kỷ niệm Cách mạng tháng Tám và Quốc khánh phải thể hiện được tầm vóc, vị thế quốc gia, giáo dục truyền thống yêu nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:06:29+07:00",
+      "fetched": "2025-08-19T21:16:46.176979+07:00"
+    },
+    {
+      "id": "f20c4768a12ddffe358e813cfe3aaea7",
+      "title": "Khảo sát 'Gọi tên hạnh phúc' của MB thu hút hàng nghìn người tham gia",
+      "link": "https://vnexpress.net/khao-sat-goi-ten-hanh-phuc-cua-mb-thu-hut-hang-nghin-nguoi-tham-gia-4929014.html",
+      "summary": "Nhân dịp ra mắt thông điệp thương hiệu \"MB Priority - Hạnh phúc trong từng khoảnh khắc\", MB triển khai khảo sát cộng đồng \"Gọi tên hạnh phúc\", thu hút hàng nghìn người tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.177164+07:00"
+    },
+    {
+      "id": "8568596304aad60d02c6976622bc8811",
+      "title": "Xác định 8 đội bóng vào vòng tứ kết giải U.9 toàn quốc Toyota Cup 2025",
+      "link": "https://thanhnien.vn/xac-dinh-8-doi-bong-vao-vong-tu-ket-giai-u9-toan-quoc-toyota-cup-2025-185250819205211066.htm",
+      "summary": "Hôm nay 19.8, tại nhà thi đấu tỉnh Tây Ninh, đã diễn ra 8 trận đấu ở vòng 16 đội giải bóng đá U.9 toàn quốc Toyota Cup 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:52:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709012+07:00"
+    },
+    {
+      "id": "0f88470eeb0076a8bdc5086901a38b64",
+      "title": "Hai thanh niên dương tính ma túy, lái ôtô bỏ chạy qua nhiều tuyến phố",
+      "link": "https://vnexpress.net/hai-thanh-nien-duong-tinh-ma-tuy-lai-oto-bo-chay-qua-nhieu-tuyen-pho-4929010.html",
+      "summary": "Bị yêu cầu dừng ôtô kiểm tra, tài xế tăng ga bỏ chạy qua nhiều tuyến phố, khi bị khống chế và kiểm tra thì hai người trên xe dương tính với ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:51:30+07:00",
+      "fetched": "2025-08-19T21:16:46.177330+07:00"
+    },
+    {
+      "id": "a273e705dec2c56dddfa5723fb4f3fb8",
+      "title": "Công an TP.HCM luôn xung kích tuyến đầu bảo vệ bình yên cho nhân dân",
+      "link": "https://thanhnien.vn/cong-an-tphcm-luon-xung-kich-tuyen-dau-bao-ve-binh-yen-cho-nhan-dan-185250819192254663.htm",
+      "summary": "Công an TP.HCM với tinh thần dám nghĩ, dám làm, dám chịu trách nhiệm, vì lợi ích chung, lấy danh dự là điều thiêng liêng cao quý nhất, tâm trong, trí sáng để làm tốt vai trò xung kích của Công an TP.HCM trên tuyến đầu bảo vệ an ninh chính trị, giữ gìn trật tự an toàn xã hội và bình yên cuộc sống cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:40:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709181+07:00"
+    },
+    {
+      "id": "5e81977e81c6246883cb6742de3e2226",
+      "title": "Trung Quốc hứa giải quyết nhu cầu đất hiếm cho Ấn Độ?",
+      "link": "https://thanhnien.vn/trung-quoc-hua-giai-quyet-nhu-cau-dat-hiem-cho-an-do-185250819202140195.htm",
+      "summary": "Quan hệ Ấn Độ - Trung Quốc đang có xu hướng đi lên và Bắc Kinh được cho là cam kết giải quyết 3 mối quan ngại của New Delhi, cụ thể là 'đất hiếm, phân bón và máy khoan đường hầm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709339+07:00"
+    },
+    {
+      "id": "4907537ab694dc31cb8ce2e651727ce1",
+      "title": "Gặp mặt 25 gương thanh niên khuyết tật 'Tỏa sáng nghị lực Việt'",
+      "link": "https://thanhnien.vn/gap-mat-25-guong-thanh-nien-khuyet-tat-toa-sang-nghi-luc-viet-185250819201602826.htm",
+      "summary": "Năm 2025, chương trình 'Tỏa sáng nghị lực Việt' không chỉ tôn vinh 25 gương thanh niên khuyết tật tiêu biểu mà còn mở rộng sang hỗ trợ khởi nghiệp và đổi mới sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709512+07:00"
+    },
+    {
+      "id": "52e29f52b6f4d8f9f6917b8833e96785",
+      "title": "Hé lộ nơi tiềm năng để tổ chức cuộc gặp Putin - Zelensky",
+      "link": "https://thanhnien.vn/he-lo-noi-tiem-nang-de-to-chuc-cuoc-gap-putin-zelensky-185250819193459476.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron cho biết Geneva (Thụy Sĩ) có thể trở thành địa điểm tiềm năng để diễn ra cuộc gặp giữa Tổng thống Nga Vladimir Putin và Tổng thống Ukraine Volodymyr Zelensky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709667+07:00"
+    },
+    {
+      "id": "a93662a51ec2fdbfbdc52156eca28b25",
+      "title": "Không có Bích Tuyền, đội tuyển bóng chuyền nữ Việt Nam vẫn thắng đậm Kenya",
+      "link": "https://thanhnien.vn/khong-co-bich-tuyen-doi-tuyen-bong-chuyen-nu-viet-nam-van-thang-dam-kenya-185250819193949258.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam vượt qua Kenya với tỷ số 4-0 ở trận giao hữu diễn ra hôm nay tại nhà thi đấu Đông Anh (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:31:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709818+07:00"
+    },
+    {
+      "id": "498355dcdf5d9bf78047a62d3f124c56",
+      "title": "Nước nào rộng thứ hai Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-rong-thu-hai-dong-nam-a-4928801.html",
+      "summary": "Indonesia có diện tích lớn nhất Đông Nam Á với hơn 1,9 triệu km2. Bạn có biết nước nào rộng thứ hai khu vực này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:30:00+07:00",
+      "fetched": "2025-08-19T21:16:46.177512+07:00"
+    },
+    {
       "id": "e80a45a75220f247eed68455378059d9",
       "title": "Khởi công cao tốc Dầu Giây - Tân Phú, cửa ngõ nối Đông Nam Bộ với Tây Nguyên",
       "link": "https://tuoitre.vn/khoi-cong-cao-toc-dau-giay-tan-phu-cua-ngo-noi-dong-nam-bo-voi-tay-nguyen-20250819110747201.htm",
@@ -521,6 +771,196 @@ window.newsData_2025_08_19 = {
       "category": "Tổng hợp",
       "published": "2025-08-19T13:25:35.851371+07:00",
       "fetched": "2025-08-19T13:25:35.851601+07:00"
+    },
+    {
+      "id": "031f5d966702254ce9ce696b6875f9fa",
+      "title": "Đội tuyển nữ Việt Nam thắng Thái Lan để giành HCĐ: Hải Yến, Huỳnh Như, Bích Thùy tỏa sáng",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-thang-thai-lan-de-gianh-hcd-hai-yen-huynh-nhu-bich-thuy-toa-sang-18525081919595599.htm",
+      "summary": "Đội tuyển nữ Việt Nam lại tiếp tục đánh bại Thái Lan với tỷ số 3-1 ở trận tranh HCĐ giải bóng đá nữ Đông Nam Á (AFF Cup nữ) 2025 diễn ra lúc 16 giờ 30 ngày 19.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:21:00+07:00",
+      "fetched": "2025-08-19T21:16:49.709967+07:00"
+    },
+    {
+      "id": "c51677924a2cdd0e53db199793053b1c",
+      "title": "Phong cách của Tổng thống Ukraine trong những chuyến công du",
+      "link": "https://vnexpress.net/phong-cach-cua-tong-thong-ukraine-trong-nhung-chuyen-cong-du-4929012.html",
+      "summary": "Ông Zelensky gắn liền với phong cách quân sự từ năm 2022, nhưng trong các chuyến công du gần đây đã linh hoạt hơn, xen giữa sự giản dị và trang trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:13:20+07:00",
+      "fetched": "2025-08-19T21:16:46.177674+07:00"
+    },
+    {
+      "id": "f77d97bbbe6d5a9142e37e3b687f8147",
+      "title": "Nga nêu điều kiện cho thỏa thuận hòa bình với Ukraine",
+      "link": "https://vnexpress.net/nga-neu-dieu-kien-cho-thoa-thuan-hoa-binh-voi-ukraine-4929008.html",
+      "summary": "Ngoại trưởng Lavrov cho biết Moskva sẽ không thảo luận về thỏa thuận hòa bình nếu an ninh của Nga và quyền của cộng đồng Nga tại Ukraine không được tôn trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:10:11+07:00",
+      "fetched": "2025-08-19T21:16:46.177832+07:00"
+    },
+    {
+      "id": "f77d97bbbe6d5a9142e37e3b687f8147",
+      "title": "Nga nêu điều kiện cho thỏa thuận hòa bình với Ukraine",
+      "link": "https://vnexpress.net/nga-neu-dieu-kien-cho-thoa-thuan-hoa-binh-voi-ukraine-4929008.html",
+      "summary": "Ngoại trưởng Lavrov cho biết Moskva sẽ không thảo luận về thỏa thuận hòa bình nếu an ninh của Nga và quyền của cộng đồng Nga tại Ukraine không được tôn trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T13:10:11+07:00",
+      "fetched": "2025-08-19T21:16:53.276946+07:00"
+    },
+    {
+      "id": "2c9e32db9f0b6ba9dd569260f3405336",
+      "title": "Điều tra vụ nam công nhân công ty in ấn tử vong",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nam-cong-nhan-cong-ty-in-an-tu-vong-185250819193413078.htm",
+      "summary": "Các công nhân đang làm việc tại công ty in ấn trong Khu công nghiệp Tân Tạo, phường Tân Tạo (quận Bình Tân cũ) TP.HCM, phát hiện anh D. bị thương nên báo lên cấp trên, đưa vào bệnh viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:06:00+07:00",
+      "fetched": "2025-08-19T21:16:49.710118+07:00"
+    },
+    {
+      "id": "a659e148de59a8a3f03c2171855b40ce",
+      "title": "Dàn sao đóng 'Wednesday'",
+      "link": "https://vnexpress.net/dan-sao-dong-wednesday-4927312.html",
+      "summary": "Jenna Ortega hóa thân nữ chính có năng lực ngoại cảm, còn minh tinh Catherine Zeta-Jones mang đến hình ảnh người mẹ hết mực bảo vệ con trong \"Wednesday\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.178001+07:00"
+    },
+    {
+      "id": "5ef5634beebd86eef99fbb44678301c3",
+      "title": "LocknLock phân phối thương hiệu gia dụng Hàn Quốc Jenniferoom tại Việt Nam",
+      "link": "https://vnexpress.net/locknlock-phan-phoi-thuong-hieu-gia-dung-han-quoc-jenniferoom-tai-viet-nam-4929009.html",
+      "summary": "Jenniferoom, thương hiệu thiết bị gia dụng Hàn Quốc nổi tiếng với tính năng tiện dụng và mức giá hợp lý vừa ra mắt thị trường Việt Nam dưới sự phân phối của LocknLock.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.178159+07:00"
+    },
+    {
+      "id": "3942346b1011869d695d7a007f17b7da",
+      "title": "Nấm bao quy đầu gây khó tiểu",
+      "link": "https://vnexpress.net/nam-bao-quy-dau-gay-kho-tieu-4928981.html",
+      "summary": "Hải, 25 tuổi, nhiễm nấm bao quy đầu gây biến chứng sẹo, hẹp đường tiểu, được bác sĩ phẫu thuật điều trị dứt điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.178320+07:00"
+    },
+    {
+      "id": "0733ec7b5eb50dff28efa67ce7f46694",
+      "title": "Hành trình Grande Touring xuyên Việt hơn 3.300 km",
+      "link": "https://vnexpress.net/hanh-trinh-grande-touring-xuyen-viet-hon-3-300-km-4928889.html",
+      "summary": "Yamaha Motor Việt Nam tổ chức hành trình Grande Touring 2025 khởi hành từ Cà Mau đến Hà Giang, kỷ niệm 80 năm Quốc khánh Việt Nam và 70 năm thành lập hãng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.178522+07:00"
+    },
+    {
+      "id": "3c768f09bdece9c6660a50b8b1e65ca1",
+      "title": "Nhập khẩu container Mỹ tháng 7 cao kỷ lục",
+      "link": "https://vnexpress.net/nhap-khau-container-my-thang-7-cao-ky-luc-4928874.html",
+      "summary": "Lượng container nhập khẩu của Mỹ tăng mạnh, đạt hơn 2,62 triệu TEU, cho thấy nhu cầu mùa vụ và tác động từ các chính sách thuế quan mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:46.178684+07:00"
+    },
+    {
+      "id": "56acb27746170a9e9a8ff7b02ffd9c2d",
+      "title": "Xem nhanh 20h ngày 19.8: Tìm thấy thi thể nam du khách ở rừng Cúc Phương | Phương án nào thay thế Bích Tuyền",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-198-tim-thay-thi-the-nam-du-khach-o-rung-cuc-phuong-phuong-an-nao-thay-the-bich-tuyen-185250819194839358.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.8 có nhiều tin tức đáng chú ý về: Tìm thấy thi thể du khách mất tích nhiều ngày trong rừng Cúc Phương; bóng chuyền nữ Việt Nam sẽ có phương án nào để thay thế Bích Tuyền tại giải thế giới?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:16:49.710266+07:00"
+    },
+    {
+      "id": "27a095685dd9905039fe697c2fab5fdd",
+      "title": "Chàng trai khuyết tật và hành trình 'tái sinh' bằng nỗ lực phi thường",
+      "link": "https://thanhnien.vn/chang-trai-khuyet-tat-va-hanh-trinh-tai-sinh-bang-no-luc-phi-thuong-185250819153404636.htm",
+      "summary": "Từng mang trong mình những khuyết tật nặng về vận động và ngôn ngữ, Nguyễn Hoài Nam, sinh viên Học viện Nông nghiệp Việt Nam, đã viết nên hành trình 'tái sinh' bằng nỗ lực phi thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:53:00+07:00",
+      "fetched": "2025-08-19T21:16:49.710425+07:00"
+    },
+    {
+      "id": "2ca217550519d7453f6b1d0e1de00f5d",
+      "title": "Bích Tuyền rút lui vì các yêu cầu của Liên đoàn bóng chuyền thế giới",
+      "link": "https://vnexpress.net/bich-tuyen-rut-lui-vi-cac-yeu-cau-cua-lien-doan-bong-chuyen-the-gioi-4929003.html",
+      "summary": "Chủ công Nguyễn Thị Bích Tuyền xác nhận việc rút khỏi đội tuyển Việt Nam do lo ngại các yêu cầu mới từ Liên đoàn bóng chuyền thế giới FIVB liên quan đến điều kiện thi đấu của VĐV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:47:04+07:00",
+      "fetched": "2025-08-19T21:16:46.178841+07:00"
+    },
+    {
+      "id": "2ca217550519d7453f6b1d0e1de00f5d",
+      "title": "Bích Tuyền rút lui vì các yêu cầu của Liên đoàn bóng chuyền thế giới",
+      "link": "https://vnexpress.net/bich-tuyen-rut-lui-vi-cac-yeu-cau-cua-lien-doan-bong-chuyen-the-gioi-4929003.html",
+      "summary": "Chủ công Nguyễn Thị Bích Tuyền xác nhận việc rút khỏi đội tuyển Việt Nam do lo ngại các yêu cầu mới từ Liên đoàn bóng chuyền thế giới FIVB liên quan đến điều kiện thi đấu của VĐV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T12:47:04+07:00",
+      "fetched": "2025-08-19T21:17:00.213330+07:00"
+    },
+    {
+      "id": "ac267a65a42b74f24f665e734f0a58d3",
+      "title": "T&T Group khởi công công trình nhà ở xã hội tại Cà Mau",
+      "link": "https://thanhnien.vn/tt-group-khoi-cong-cong-trinh-nha-o-xa-hoi-tai-ca-mau-185250819194937889.htm",
+      "summary": "Tập đoàn T&T Group vừa chính thức khởi công công trình nhà ở xã hội tại phường An Xuyên, tỉnh Cà Mau, với quy mô hơn 1.200 căn hộ, góp phần hiện thực hóa Đề án 1 triệu căn NOXH đến năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:47:00+07:00",
+      "fetched": "2025-08-19T21:16:49.710592+07:00"
+    },
+    {
+      "id": "cb915be541765d697512ef7528b58411",
+      "title": "Năm 2024 ghi nhận 242 vụ án hình sự về động vật hoang dã",
+      "link": "https://vnexpress.net/nam-2024-ghi-nhan-242-vu-an-hinh-su-ve-dong-vat-hoang-da-4928973.html",
+      "summary": "Báo cáo Công tác xử lý tội phạm về động vật hoang dã tại Việt Nam được Trung tâm Giáo dục Thiên nhiên (ENV) ghi nhận năm 2024 có 242 vụ án hình sự về động vật hoang dã, giảm 14,5% so với năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:44:29+07:00",
+      "fetched": "2025-08-19T21:16:46.179004+07:00"
+    },
+    {
+      "id": "cb915be541765d697512ef7528b58411",
+      "title": "Năm 2024 ghi nhận 242 vụ án hình sự về động vật hoang dã",
+      "link": "https://vnexpress.net/nam-2024-ghi-nhan-242-vu-an-hinh-su-ve-dong-vat-hoang-da-4928973.html",
+      "summary": "Báo cáo Công tác xử lý tội phạm về động vật hoang dã tại Việt Nam được Trung tâm Giáo dục Thiên nhiên (ENV) ghi nhận năm 2024 có 242 vụ án hình sự về động vật hoang dã, giảm 14,5% so với năm trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-19T12:44:29+07:00",
+      "fetched": "2025-08-19T21:16:58.173276+07:00"
+    },
+    {
+      "id": "e556dcc0e398244f22de7a65992d3522",
+      "title": "Thầy trò hát 'Viết tiếp câu chuyện hòa bình' bằng 13 thứ tiếng",
+      "link": "https://vnexpress.net/thay-tro-hat-viet-tiep-cau-chuyen-hoa-binh-bang-13-thu-tieng-4928810.html",
+      "summary": "Với \"đặc sản\" ngoại ngữ, các giảng viên, sinh viên Đại học Hà Nội thể hiện ca khúc \"Viết tiếp câu chuyện hòa bình\" bằng nhiều thứ tiếng, như Đức, Thái Lan, Bồ Đào Nha, Italy...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:35:00+07:00",
+      "fetched": "2025-08-19T21:16:46.179165+07:00"
+    },
+    {
+      "id": "0a711636a05186107b3c71480006804c",
+      "title": "Hương vị quê hương: Cá đuối um bắp chuối",
+      "link": "https://thanhnien.vn/huong-vi-que-huong-ca-duoi-um-bap-chuoi-185250818211034231.htm",
+      "summary": "Cá đuối có rải rác quanh năm. Theo các ngư dân, mùa cá đuối thường tập trung vào khoảng tháng 3 đến tháng 8 hằng năm, đặc biệt là khi có gió mùa xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:35:00+07:00",
+      "fetched": "2025-08-19T21:16:49.710747+07:00"
     },
     {
       "id": "436005139f870bf8a2c22abc177c94c9",
@@ -951,6 +1391,16 @@ window.newsData_2025_08_19 = {
       "category": "Thể thao",
       "published": "2025-08-19T11:06:42+07:00",
       "fetched": "2025-08-19T19:35:05.663022+07:00"
+    },
+    {
+      "id": "d2734fe1c28679c644990f72e619b0cf",
+      "title": "Messi sắp chơi trận cuối trên sân nhà với tuyển Argentina",
+      "link": "https://vnexpress.net/messi-sap-choi-tran-cuoi-tren-san-nha-voi-tuyen-argentina-4928935.html",
+      "summary": "Trận đấu Venezuela vào ngày 5/9 ở vòng loại World Cup 2026 có thể là trận cuối cùng Lionel Messi chơi cho đội tuyển trên sân nhà Monumental.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T11:06:42+07:00",
+      "fetched": "2025-08-19T21:17:00.214951+07:00"
     },
     {
       "id": "6951c57abb96f607c2ca5a439b72939f",
