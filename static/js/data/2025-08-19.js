@@ -1,7 +1,47 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T21:17:00.226794+07:00",
+  "lastUpdated": "2025-08-19T23:21:20.782918+07:00",
   "articles": [
+    {
+      "id": "0f21c51687ca95cbff2aa5495b093901",
+      "title": "Đào móng nhà, người dân phát hiện 3 khẩu súng M72 sót lại sau chiến tranh",
+      "link": "https://tuoitre.vn/dao-mong-nha-nguoi-dan-phat-hien-3-khau-sung-m72-sot-lai-sau-chien-tranh-20250819211017923.htm",
+      "summary": "Cơ quan chức năng vừa xử lý 3 khẩu súng M72, sau khi nhận tin báo của người dân ở xã Tuy An Bắc (Đắk Lắk) trong lúc đào móng nhà đã phát hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T23:21:12.181254+07:00",
+      "fetched": "2025-08-19T23:21:12.181372+07:00"
+    },
+    {
+      "id": "91719235574e2312669dbf0afe1ffe86",
+      "title": "Sau lọc ảo, nhiều trường tiết lộ điểm chuẩn biến động bất ngờ, có ngành lên đến 29 điểm",
+      "link": "https://tuoitre.vn/sau-loc-ao-nhieu-truong-tiet-lo-diem-chuan-bien-dong-bat-ngo-co-nganh-len-den-29-diem-20250819211423595.htm",
+      "summary": "Sau các vòng lọc ảo tuyển sinh đại học 2025, nhiều trường đại học tại TP.HCM ghi nhận biến động điểm chuẩn đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T23:21:12.181122+07:00",
+      "fetched": "2025-08-19T23:21:12.181242+07:00"
+    },
+    {
+      "id": "fdbf2d81a4270e38477ee52b78d5480a",
+      "title": "Tổng lãnh sự Cuba tại TP.HCM chúc mừng nhân dân Việt Nam nhân Quốc khánh",
+      "link": "https://tuoitre.vn/tong-lanh-su-cuba-tai-tp-hcm-chuc-mung-nhan-dan-viet-nam-nhan-quoc-khanh-20250819211258666.htm",
+      "summary": "Tối 19-8, TP.HCM tổ chức tiệc chiêu đãi nhân kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T23:21:12.180981+07:00",
+      "fetched": "2025-08-19T23:21:12.181109+07:00"
+    },
+    {
+      "id": "b8590107d6c8165df0c85b72f7c5b1d0",
+      "title": "Vắng Bích Tuyền, tuyển bóng chuyền nữ Việt Nam vẫn thắng đậm Kenya",
+      "link": "https://tuoitre.vn/vang-bich-tuyen-tuyen-bong-chuyen-nu-viet-nam-van-thang-dam-kenya-20250819213221807.htm",
+      "summary": "Tối 19-8, tuyển bóng chuyền nữ Việt Nam đã giành chiến thắng đậm 4-0 trước Kenya ở trận giao hữu trước khi tham dự Giải vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T23:21:12.180756+07:00",
+      "fetched": "2025-08-19T23:21:12.180966+07:00"
+    },
     {
       "id": "46ee8669dea2221069dd253b148d3589",
       "title": "Bích Tuyền tiết lộ lý do rút lui khỏi tuyển bóng chuyền nữ Việt Nam",
@@ -373,6 +413,56 @@ window.newsData_2025_08_19 = {
       "fetched": "2025-08-19T17:18:14.787859+07:00"
     },
     {
+      "id": "c18c6898af95d5ee889eca9f9b5e10a2",
+      "title": "Ông Trump loại trừ khả năng điều quân đến Ukraine",
+      "link": "https://vnexpress.net/ong-trump-loai-tru-kha-nang-dieu-quan-den-ukraine-4929031.html",
+      "summary": "Tổng thống Trump loại trừ khả năng triển khai quân đội Mỹ tới Ukraine để hỗ trợ thực thi thỏa thuận hòa bình giữa nước này với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T15:54:19+07:00",
+      "fetched": "2025-08-19T23:21:14.264039+07:00"
+    },
+    {
+      "id": "c0f519526dca3891f8a4d60cfef1e125",
+      "title": "Trả được món nợ trước Myanmar, U.23 Úc vô địch AFF Cup nữ 2025",
+      "link": "https://thanhnien.vn/tra-duoc-mon-no-truoc-myanmar-u23-uc-vo-dich-aff-cup-nu-2025-185250819223325298.htm",
+      "summary": "U.23 Úc đã trả được món nợ ở trận đấu vòng bảng trước Myanmar để giành chức vô địch giải bóng đá nữ Đông nam Á 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T15:44:00+07:00",
+      "fetched": "2025-08-19T23:21:11.352252+07:00"
+    },
+    {
+      "id": "b2cf8bc87d177cae179597831e768867",
+      "title": "Ông Zelensky diện 'trang phục đẹp nhất', ông Trump khen ngợi",
+      "link": "https://thanhnien.vn/ong-zelensky-dien-trang-phuc-dep-nhat-ong-trump-khen-ngoi-18525081922021161.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã dành lời khen cho trang phục người đồng cấp Ukraine Volodymyr Zelensky mặc tại cuộc gặp ở Nhà Trắng. Tổng thống Zelensky cũng đã thoải mái có những câu đùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T15:35:00+07:00",
+      "fetched": "2025-08-19T23:21:11.352416+07:00"
+    },
+    {
+      "id": "1861aabb0c403283c9d61dc42bf38436",
+      "title": "U23 Australia vô địch ASEAN Cup nữ 2025",
+      "link": "https://vnexpress.net/u23-australia-vo-dich-asean-cup-nu-2025-4929037.html",
+      "summary": "U23 Australia kiểm soát toàn bộ thế trận và ghi bàn sau pha phối hợp cơ bản để thắng Myanmar 1-0 tại chung kết ASEAN Cup nữ 2025, tối 19/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T15:28:24+07:00",
+      "fetched": "2025-08-19T23:21:20.768719+07:00"
+    },
+    {
+      "id": "3816963472e0a6f2f78f55e0c761047d",
+      "title": "Highlight U.23 Úc 1-0 đội tuyển nữ Myanmar: Cúp vô địch về xứ sở chuột túi",
+      "link": "https://thanhnien.vn/highlight-u23-uc-1-0-doi-tuyen-nu-myanmar-cup-vo-dich-ve-xu-so-chuot-tui-185250819222614726.htm",
+      "summary": "Với bàn thắng duy nhất của Furphy, đội tuyển nữ U.23 Úc đã đăng quang giải vô địch bóng đá nữ Đông Nam Á 2025, đội tuyển nữ Myanmar ngậm ngùi giành ngôi á quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T15:26:00+07:00",
+      "fetched": "2025-08-19T23:21:11.352571+07:00"
+    },
+    {
       "id": "29f723ac63ea619fbe4e1e82d7d9b0d4",
       "title": "19h ngày 20-8, Trường đại học Ngoại ngữ - Tin học TP.HCM lên sóng Khám phá trường học",
       "link": "https://tuoitre.vn/19h-ngay-20-8-truong-dai-hoc-ngoai-ngu-tin-hoc-tp-hcm-len-song-kham-pha-truong-hoc-20250819114254617.htm",
@@ -521,6 +611,256 @@ window.newsData_2025_08_19 = {
       "category": "Tổng hợp",
       "published": "2025-08-19T15:22:16.617522+07:00",
       "fetched": "2025-08-19T15:22:16.617728+07:00"
+    },
+    {
+      "id": "85a47c60818e038654b2f42d9f51cd21",
+      "title": "'Núi tiền thưởng' cho nữ sinh đỗ Đại học Thanh Hoa gây tranh cãi",
+      "link": "https://vnexpress.net/nui-tien-thuong-cho-nu-sinh-do-dai-hoc-thanh-hoa-gay-tranh-cai-4929028.html",
+      "summary": "Thưởng một triệu nhân dân tệ (khoảng 3,6 tỷ đồng) cho nữ sinh đỗ Đại học Thanh Hoa, một trường trung học tư thục gây tranh cãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T15:00:30+07:00",
+      "fetched": "2025-08-19T23:21:08.068733+07:00"
+    },
+    {
+      "id": "a5c425388f3dae8ddf46b63492437f77",
+      "title": "9x đưa 'tạ muối thua giá tô phở' thành đặc sản trên sàn tỷ USD",
+      "link": "https://vnexpress.net/9x-dua-ta-muoi-thua-gia-to-pho-thanh-dac-san-tren-san-ty-usd-4925843.html",
+      "summary": "\"Một tạ muối Sa Huỳnh không đổi được tô phở\" - bài báo năm 2015 thôi thúc Phạm Hồng Thắm tạo cách mạng với hạt muối, nâng giá trị sản phẩm 1.000 lần, được nhiều người gọi \"vàng trắng\" trên sàn Amazon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T15:00:00+07:00",
+      "fetched": "2025-08-19T23:21:08.068921+07:00"
+    },
+    {
+      "id": "95574f12378c90e7065dd3687b3388a5",
+      "title": "Chuyển tiền điện tử từ 1.000 USD trong trung tâm tài chính phải báo cáo",
+      "link": "https://thanhnien.vn/chuyen-tien-dien-tu-tu-1000-usd-trong-trung-tam-tai-chinh-phai-bao-cao-185250819213244867.htm",
+      "summary": "Ngân hàng Nhà nước đề xuất áp dụng chế độ báo cáo giao dịch chuyển tiền điện tử quốc tế với ngưỡng báo cáo là 1.000 USD tại trung tâm tài chính để phòng, chống rửa tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:57:00+07:00",
+      "fetched": "2025-08-19T23:21:11.352742+07:00"
+    },
+    {
+      "id": "8382a6f7bf82dfdc5057d386e0987d40",
+      "title": "Việt Nam thắng đối thủ ở giải thế giới sau khi vắng Bích Tuyền",
+      "link": "https://vnexpress.net/viet-nam-thang-doi-thu-o-giai-the-gioi-sau-khi-vang-bich-tuyen-4929026.html",
+      "summary": "Việt Nam hạ Kenya 25-21, 25-14, 25-19, 25-19 ở trận giao hữu cuối cùng trước khi dự giải bóng chuyền nữ vô địch thế giới 2025, tối 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:51:04+07:00",
+      "fetched": "2025-08-19T23:21:08.069092+07:00"
+    },
+    {
+      "id": "8382a6f7bf82dfdc5057d386e0987d40",
+      "title": "Việt Nam thắng đối thủ ở giải thế giới sau khi vắng Bích Tuyền",
+      "link": "https://vnexpress.net/viet-nam-thang-doi-thu-o-giai-the-gioi-sau-khi-vang-bich-tuyen-4929026.html",
+      "summary": "Việt Nam hạ Kenya 25-21, 25-14, 25-19, 25-19 ở trận giao hữu cuối cùng trước khi dự giải bóng chuyền nữ vô địch thế giới 2025, tối 19/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T14:51:04+07:00",
+      "fetched": "2025-08-19T23:21:20.768904+07:00"
+    },
+    {
+      "id": "4f205cf78b3ab7ce57d186a2076c226b",
+      "title": "Bộ Chính trị cho ý kiến đề án nhân sự đại hội đảng bộ các tỉnh, thành",
+      "link": "https://thanhnien.vn/bo-chinh-tri-cho-y-kien-de-an-nhan-su-dai-hoi-dang-bo-cac-tinh-thanh-185250819213507915.htm",
+      "summary": "Các tổ công tác của Bộ Chính trị làm việc với ban thường vụ các tỉnh, thành ủy, cho ý kiến về việc chuẩn bị đại hội đảng bộ, đề án nhân sự đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:48:00+07:00",
+      "fetched": "2025-08-19T23:21:11.352893+07:00"
+    },
+    {
+      "id": "827280ae9336e2d9a1dbe132331d1998",
+      "title": "Robot Việt trình diễn trước Tổng Bí thư, Thủ tướng",
+      "link": "https://vnexpress.net/robot-viet-trinh-dien-truoc-tong-bi-thu-thu-tuong-4929013.html",
+      "summary": "Robot hình người do kỹ sư Việt chế tạo trình diễn chào mừng Tổng Bí thư Tô Lâm, Thủ tướng Phạm Minh Chính cùng các đại biểu tại lễ khánh thành Trung tâm Hội chợ Triển lãm Quốc gia, ngày 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:46:03+07:00",
+      "fetched": "2025-08-19T23:21:08.069254+07:00"
+    },
+    {
+      "id": "51006d86dba12ddc11b32b9fd7a72db5",
+      "title": "'Văn kiện Tràng An' - hình mẫu cho các di sản",
+      "link": "https://thanhnien.vn/van-kien-trang-an-hinh-mau-cho-cac-di-san-18525081920560302.htm",
+      "summary": "'Văn kiện Tràng An' đã được các cơ quan chức năng, các chuyên gia thông qua, khẳng định Tràng An là một hình mẫu về bảo tồn và phát huy giá trị di sản mà các di sản khác trong nước, quốc tế có thể học hỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:44:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353046+07:00"
+    },
+    {
+      "id": "d6d633504664cfa2c4bb826094fddcb6",
+      "title": "Bhutan coi Việt Nam là đối tác ưu tiên ở Đông Nam Á",
+      "link": "https://vnexpress.net/bhutan-coi-viet-nam-la-doi-tac-uu-tien-o-dong-nam-a-4929016.html",
+      "summary": "Quốc vương Bhutan cho biết nước này coi Việt Nam là một trong những đối tác ưu tiên hàng đầu ở Đông Nam Á và mong muốn tăng cường hợp tác song phương nhiều mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:43:47+07:00",
+      "fetched": "2025-08-19T23:21:08.069411+07:00"
+    },
+    {
+      "id": "d6d633504664cfa2c4bb826094fddcb6",
+      "title": "Bhutan coi Việt Nam là đối tác ưu tiên ở Đông Nam Á",
+      "link": "https://vnexpress.net/bhutan-coi-viet-nam-la-doi-tac-uu-tien-o-dong-nam-a-4929016.html",
+      "summary": "Quốc vương Bhutan cho biết nước này coi Việt Nam là một trong những đối tác ưu tiên hàng đầu ở Đông Nam Á và mong muốn tăng cường hợp tác song phương nhiều mặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T14:43:47+07:00",
+      "fetched": "2025-08-19T23:21:14.264215+07:00"
+    },
+    {
+      "id": "adf1da3b9daaa808b10135f190002847",
+      "title": "Đà Nẵng: Truy đuổi ô tô thông chốt CSGT, phát hiện 2 người dương tính ma túy",
+      "link": "https://thanhnien.vn/da-nang-truy-duoi-o-to-thong-chot-csgt-phat-hien-2-nguoi-duong-tinh-ma-tuy-185250819211251967.htm",
+      "summary": "Ô tô 7 chỗ thông chốt CSGT ở TP.Đà Nẵng, khi truy đuổi qua nhiều tuyến phố, công an khống chế và phát hiện cả 2 người trên xe dương tính với ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:41:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353211+07:00"
+    },
+    {
+      "id": "018bdaf165a00f5fdfc8323edde9d4d2",
+      "title": "Ronaldo tỏa sáng khiến 40.000 CĐV sung sướng, Al Nassr vào chung kết Super Cúp dù chơi thiếu người",
+      "link": "https://thanhnien.vn/ronaldo-toa-sang-khien-40000-cdv-sung-suong-al-nassr-vao-chung-ket-super-cup-du-choi-thieu-nguoi-185250819200856082.htm",
+      "summary": "Tối 19.8, Ronaldo đã tỏa sáng khi có đường kiến tạo quan trọng, góp phần giúp Al Nassr đánh bại Al Ittihad 2-1 ở trận bán kết Super Cúp (Siêu cúp Ả Rập Xê Út).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:41:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353367+07:00"
+    },
+    {
+      "id": "2a6f00fb0f59bfb9dabd00ac8ddc1e63",
+      "title": "Mong anh sẵn sàng nắm tay em qua giông bão",
+      "link": "https://vnexpress.net/mong-anh-san-sang-nam-tay-em-qua-giong-bao-4928649.html",
+      "summary": "Em nghĩ về anh, là một người đàn ông với tính nam mạnh mẽ, anh luôn cho em cảm giác được yêu thương, trân trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:33:25+07:00",
+      "fetched": "2025-08-19T23:21:08.069512+07:00"
+    },
+    {
+      "id": "ef96954e1c6ea415dff5272746dde208",
+      "title": "Mong có một người cao lớn, ấm áp bên cạnh",
+      "link": "https://vnexpress.net/mong-co-mot-nguoi-cao-lon-am-ap-ben-canh-4928658.html",
+      "summary": "Mong gặp người hiền lành, chững chạc, biết quan tâm, không cần quá lãng mạn nhưng đủ tinh tế để hỏi tôi: \"Hôm nay em ổn chứ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:33:08+07:00",
+      "fetched": "2025-08-19T23:21:08.069616+07:00"
+    },
+    {
+      "id": "175e939c3d7e9707433799f7ad6b3ff0",
+      "title": "Gửi người em thương đang thất lạc",
+      "link": "https://vnexpress.net/gui-nguoi-em-thuong-dang-that-lac-4928650.html",
+      "summary": "Em không hứa sẽ làm lành những vết thương cũ, chỉ dám hứa sẽ không làm trái tim anh phải trầy xước thêm một lần nào nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:32:58+07:00",
+      "fetched": "2025-08-19T23:21:08.069735+07:00"
+    },
+    {
+      "id": "3feaf7478c98350f7c36d59ac491ceea",
+      "title": "Điểm chuẩn Đại học Công thương TP HCM dự kiến 17-24,5",
+      "link": "https://vnexpress.net/du-bao-diem-chuan-chi-tiet-cac-nganh-cua-dai-hoc-cong-thuong-tp-hcm-2025-4928964.html",
+      "summary": "Sau 4 vòng lọc ảo, điểm chuẩn Đại học Công thương đang ở mức 17-24,5, các ngành lấy cao nhất là Marketing, Kinh doanh quốc tế, Logistics.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:32:46+07:00",
+      "fetched": "2025-08-19T23:21:08.069917+07:00"
+    },
+    {
+      "id": "f0c264c6cb99e29b7c700755ead066fb",
+      "title": "Khánh thành rạp xiếc và biểu diễn đa năng lớn nhất TP HCM",
+      "link": "https://vnexpress.net/khanh-thanh-rap-xiec-va-bieu-dien-da-nang-lon-nhat-tp-hcm-4928989.html",
+      "summary": "Rạp xiếc và biểu diễn đa năng Phú Thọ gần 1.400 tỷ đồng, thêm không gian cho hoạt động văn hóa, giải trí ở TP HCM, khánh thành ngày 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:32:12+07:00",
+      "fetched": "2025-08-19T23:21:08.070084+07:00"
+    },
+    {
+      "id": "a99acc20a2e9c8df00c8178739223c54",
+      "title": "Bích Tuyền viết tâm thư, tiết lộ lý do rút khỏi đội tuyển bóng chuyền Việt Nam",
+      "link": "https://thanhnien.vn/bich-tuyen-viet-tam-thu-tiet-lo-ly-do-rut-khoi-doi-tuyen-bong-chuyen-viet-nam-185250819213039995.htm",
+      "summary": "Ngày 19.8, Nguyễn Thị Bích Tuyền đã có tâm thư gửi khán giả, với nội dung xin rút lui khỏi đội tuyển bóng chuyền nữ Việt Nam, không tham dự giải vô địch thế giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:32:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353511+07:00"
+    },
+    {
+      "id": "590e1cfc65ada9e837ad2c72eb16e8a8",
+      "title": "Vị hôn thê của Kim Jong Kook là CEO công ty mỹ phẩm?",
+      "link": "https://thanhnien.vn/vi-hon-the-cua-kim-jong-kook-la-ceo-cong-ty-my-pham-185250819155807492.htm",
+      "summary": "Kim Jong Kook vừa gây bất ngờ khi thông báo chuẩn bị kết hôn. Ngay lập tức, mạng xã hội xôn xao với hàng loạt tin đồn xoay quanh thân thế vị hôn thê của anh - người được cho là một nữ CEO ngành mỹ phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:29:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353674+07:00"
+    },
+    {
+      "id": "eef3d894b28871067e1f971392c20e3b",
+      "title": "Hai thi thể dưới mương nước",
+      "link": "https://vnexpress.net/hai-thi-the-duoi-muong-nuoc-4929021.html",
+      "summary": "Hai thi thể trong quá trình phân hủy được phát hiện nổi dưới mương nước ở xã Quỳnh Tam, huyện Quỳnh Lưu cũ, chiều 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:28:00+07:00",
+      "fetched": "2025-08-19T23:21:08.070240+07:00"
+    },
+    {
+      "id": "e52a41bcf45603370dc0d3ff135a549a",
+      "title": "Hoa hậu 20 tuổi tham gia lễ diễu binh, diễu hành Quốc khánh 2.9 là ai?",
+      "link": "https://thanhnien.vn/hoa-hau-20-tuoi-tham-gia-le-dieu-binh-dieu-hanh-quoc-khanh-29-la-ai-185250819204622407.htm",
+      "summary": "Hoa hậu Biển đảo Việt Nam - Nguyễn Thị Mỹ Linh được lựa chọn tham gia diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9. Những ngày qua, cô tích cực tập luyện cho sự kiện trọng đại này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:25:00+07:00",
+      "fetched": "2025-08-19T23:21:11.353829+07:00"
+    },
+    {
+      "id": "9256cd385ad71f98757be08e51f66b87",
+      "title": "Sunshine Group động thổ hai dự án hơn 3 tỷ USD",
+      "link": "https://vnexpress.net/sunshine-group-dong-tho-hai-du-an-hon-3-ty-usd-4929018.html",
+      "summary": "Sunshine Group đồng loạt khởi công dự án Sunshine Legend City tại Hưng Yên và Sunshine Bay Retreat Vung Tau tại TP HCM với tổng mức đầu tư hơn 3 tỷ USD, sáng ngày 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:20:00+07:00",
+      "fetched": "2025-08-19T23:21:08.070402+07:00"
+    },
+    {
+      "id": "2e9660ea5a927455feda8c7bb72b1d82",
+      "title": "Ronaldo đưa Al Nassr vào chung kết Siêu cúp Saudi",
+      "link": "https://vnexpress.net/ronaldo-dua-al-nassr-vao-chung-ket-sieu-cup-saudi-4929020.html",
+      "summary": "Thủ quân Cristiano Ronaldo kiến tạo trong thế đối mặt thủ môn, giúp Al Nassr thắng Al Ittihad 2-1 ở bán kết Siêu cúp Saudi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:16:04+07:00",
+      "fetched": "2025-08-19T23:21:08.070553+07:00"
+    },
+    {
+      "id": "2e9660ea5a927455feda8c7bb72b1d82",
+      "title": "Ronaldo đưa Al Nassr vào chung kết Siêu cúp Saudi",
+      "link": "https://vnexpress.net/ronaldo-dua-al-nassr-vao-chung-ket-sieu-cup-saudi-4929020.html",
+      "summary": "Thủ quân Cristiano Ronaldo kiến tạo trong thế đối mặt thủ môn, giúp Al Nassr thắng Al Ittihad 2-1 ở bán kết Siêu cúp Saudi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T14:16:04+07:00",
+      "fetched": "2025-08-19T23:21:20.769070+07:00"
+    },
+    {
+      "id": "e442769b45e574dd6e92aedce28b2ff7",
+      "title": "Tài tử Lee Kwang Soo đóng cặp Hoàng Hà",
+      "link": "https://vnexpress.net/tai-tu-lee-kwang-soo-dong-cap-hoang-ha-4929006.html",
+      "summary": "Ngôi sao \"Running Man\" Lee Kwang Soo cùng Hoàng Hà, nàng thơ \"Em và Trịnh\", thể hiện chuyện tình Việt - Hàn trên màn ảnh rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T14:12:09+07:00",
+      "fetched": "2025-08-19T23:21:08.070729+07:00"
     },
     {
       "id": "47c2d408435fe68b5ae3c7ba11b71921",
@@ -4041,6 +4381,16 @@ window.newsData_2025_08_19 = {
       "category": "Kinh doanh",
       "published": "2025-08-19T01:00:00+07:00",
       "fetched": "2025-08-19T08:18:47.159512+07:00"
+    },
+    {
+      "id": "50ea22dfe5daa9ac823bb6b889f31975",
+      "title": "Hơn 2.000 vé LCP 2025 tại Đà Nẵng có chủ sau 4 ngày",
+      "link": "https://vnexpress.net/hon-2-000-ve-lcp-2025-tai-da-nang-co-chu-sau-4-ngay-4928827.html",
+      "summary": "1.000 combo vé giải Liên minh huyền thoại quốc tế LCP 2025, diễn ra 20-21/9 đã có chủ, tương đương 2.000 vé bán ra sau 4 ngày mở cổng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-19T01:00:00+07:00",
+      "fetched": "2025-08-19T23:21:18.573217+07:00"
     },
     {
       "id": "52baf9aecef6002ad37c1f5e123658d6",
