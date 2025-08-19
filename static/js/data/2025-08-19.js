@@ -1,7 +1,157 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T10:08:46.172915+07:00",
+  "lastUpdated": "2025-08-19T11:20:15.296271+07:00",
   "articles": [
+    {
+      "id": "011b044e66fe7dc6f999ce993610e124",
+      "title": "Manulife Việt Nam chi trả gần 4.000 tỉ đồng quyền lợi bảo hiểm nửa đầu năm 2025",
+      "link": "https://tuoitre.vn/manulife-viet-nam-chi-tra-gan-4-000-ti-dong-quyen-loi-bao-hiem-nua-dau-nam-2025-20250819090431903.htm",
+      "summary": "Tổng kết nửa đầu năm 2025, Manulife Việt Nam ghi nhận kết quả kinh doanh tích cực, đồng thời chi trả gần 4.000 tỉ đồng cho khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873809+07:00",
+      "fetched": "2025-08-19T11:20:05.873921+07:00"
+    },
+    {
+      "id": "0b9ba765a2a16a7beb465b72e74dd1e2",
+      "title": "Cảm ơn Tuổi Trẻ đã bắc nhịp cầu nhân ái",
+      "link": "https://tuoitre.vn/cam-on-tuoi-tre-da-bac-nhip-cau-nhan-ai-202508161241037.htm",
+      "summary": "Cách đây 10 năm, GS.TS Lê Ngọc Thạch đến với nhân vật của tôi trên báo Tuổi Trẻ. Tấm lòng với người khó khăn của GS Thạch đã kết thúc có hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873682+07:00",
+      "fetched": "2025-08-19T11:20:05.873797+07:00"
+    },
+    {
+      "id": "3a0dead42f8ab1ba5fb897b225b2d062",
+      "title": "Chiếc xe Ferrari mới đắt nhất từng được bán đấu giá: Chốt sổ 684 tỉ đồng, là bản có 1 không 2",
+      "link": "https://tuoitre.vn/chiec-xe-ferrari-moi-dat-nhat-tung-duoc-ban-dau-gia-chot-so-684-ti-dong-la-ban-co-1-khong-2-20250819091642327.htm",
+      "summary": "Sau phiên đấu giá đầy kịch tính, chiếc Ferrari Daytona SP3 599+1 độc nhất vô nhị tìm được chủ nhân mới. Với mức giá 26 triệu USD (tương đương 684 tỉ đồng), đây là chiếc Ferrari mới đắt nhất từng được bán đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873540+07:00",
+      "fetched": "2025-08-19T11:20:05.873670+07:00"
+    },
+    {
+      "id": "89df98e928b0e91e3d3921f253c71729",
+      "title": "80 năm vẻ vang Công an nhân dân Việt Nam - Kỳ 1: Tự hào chúng tôi là cảnh sát Việt Nam",
+      "link": "https://tuoitre.vn/80-nam-ve-vang-cong-an-nhan-dan-viet-nam-ky-1-tu-hao-chung-toi-la-canh-sat-viet-nam-20250819081128791.htm",
+      "summary": "Trưởng thành từ nhân dân và sẵn sàng quên mình vì nhân dân, 80 năm qua lực lượng Công an nhân dân đã dựng nên truyền thống vẻ vang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873416+07:00",
+      "fetched": "2025-08-19T11:20:05.873528+07:00"
+    },
+    {
+      "id": "a4fe1115010743cb8125b7fef19fa0ba",
+      "title": "Kỷ lục nộp ngân sách của PNJ",
+      "link": "https://tuoitre.vn/ky-luc-nop-ngan-sach-cua-pnj-20250819100538826.htm",
+      "summary": "PNJ lập kỷ lục mới về nộp ngân sách với hơn 2.100 tỉ đồng năm 2024, dẫn đầu top doanh nghiệp bán lẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873293+07:00",
+      "fetched": "2025-08-19T11:20:05.873404+07:00"
+    },
+    {
+      "id": "78dab08ce6c743e0fb16ab0d9dee9878",
+      "title": "Đội bóng sinh viên Nhật Bản gây chấn động châu Âu",
+      "link": "https://tuoitre.vn/doi-bong-sinh-vien-nhat-ban-gay-chan-dong-chau-au-20250819092105426.htm",
+      "summary": "Làng bóng đá thế giới một phen sửng sốt khi chứng kiến chuyến du đấu của đội tuyển sinh viên toàn Nhật Bản diễn ra tại Ý trong hơn 1 tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873167+07:00",
+      "fetched": "2025-08-19T11:20:05.873281+07:00"
+    },
+    {
+      "id": "602734b0e5a48d34d51357ab20cd9126",
+      "title": "Giả vờ hỏi giá, kết bạn và lừa đảo",
+      "link": "https://tuoitre.vn/gia-vo-hoi-gia-ket-ban-va-lua-dao-20250819002143459.htm",
+      "summary": "Khi được inbox hỏi thăm sau các tin, bài đăng trên các hội nhóm, website mua bán hay cho thuê bất động sản, bạn đừng vội mừng có khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.873040+07:00",
+      "fetched": "2025-08-19T11:20:05.873155+07:00"
+    },
+    {
+      "id": "9b1090776e825a1fab07056c062909e0",
+      "title": "Clip phòng cháy chữa cháy, tháo dỡ chuồng cọp do AI tạo thu hút triệu view",
+      "link": "https://tuoitre.vn/clip-phong-chay-chua-chay-thao-do-chuong-cop-do-ai-tao-thu-hut-trieu-view-20250819080057286.htm",
+      "summary": "Clip Tháo dỡ chuồng cọp được các chiến sĩ trẻ ứng dụng công nghệ trí tuệ nhân tạo (AI) làm ngắn gọn nhưng sống động đã đạt triệu view.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872912+07:00",
+      "fetched": "2025-08-19T11:20:05.873028+07:00"
+    },
+    {
+      "id": "0d726d3f31dda8e3f6b2bd45e81fc0c7",
+      "title": "Phát hiện dấu tích sóng thần khổng lồ ở Nam Java, nguy cơ lặp lại",
+      "link": "https://tuoitre.vn/phat-hien-dau-tich-song-than-khong-lo-o-nam-java-nguy-co-lap-lai-20250819093642514.htm",
+      "summary": "Nghiên cứu phát hiện sóng thần này lặp lại theo chu kỳ 600-800 năm, với dấu vết từng xảy ra cách đây 3.000, 1.000 và 400 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872776+07:00",
+      "fetched": "2025-08-19T11:20:05.872900+07:00"
+    },
+    {
+      "id": "f76bc4ebed8f029df7d7d3296ace71dd",
+      "title": "Không có chuyện đại dương mới hình thành ở Đông Phi",
+      "link": "https://tuoitre.vn/khong-co-chuyen-dai-duong-moi-hinh-thanh-o-dong-phi-20250819093547621.htm",
+      "summary": "Tuyên bố một đại dương mới đang hình thành ở Đông Phi là thông tin sai sự thật",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872586+07:00",
+      "fetched": "2025-08-19T11:20:05.872757+07:00"
+    },
+    {
+      "id": "928f2238e43ae793acf42aa3b1f8c0d5",
+      "title": "HLV Indonesia vẫn lạc quan dù mất chức vô địch tại sân nhà",
+      "link": "https://tuoitre.vn/hlv-indonesia-van-lac-quan-du-mat-chuc-vo-dich-tai-san-nha-2025081908531196.htm",
+      "summary": "Dù thua Mali trong trận chung kết và lỡ hẹn với chức vô địch Giải bóng đá U17 quốc tế 2025, HLV Nova Arianto của Indonesia vẫn lạc quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872447+07:00",
+      "fetched": "2025-08-19T11:20:05.872573+07:00"
+    },
+    {
+      "id": "f5cea69a479de163afae2504a1450213",
+      "title": "Đồng loạt khởi công, khánh thành 250 dự án cả nước: Động lực mới phát triển đất nước",
+      "link": "https://tuoitre.vn/dong-loat-khoi-cong-khanh-thanh-250-du-an-ca-nuoc-dong-luc-moi-phat-trien-dat-nuoc-20250819094637577.htm",
+      "summary": "Đây là sự kiện chính trị đặc biệt quan trọng chào mừng kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872317+07:00",
+      "fetched": "2025-08-19T11:20:05.872435+07:00"
+    },
+    {
+      "id": "4d4d12ee8451abd6ef9a1f5da71cac13",
+      "title": "Những tính cách dẫn đến thành công",
+      "link": "https://tuoitre.vn/nhung-tinh-cach-dan-den-thanh-cong-20250819083940038.htm",
+      "summary": "Tác giả Happy An phân tích 200 đặc điểm tính cách con người, trong đó nêu những tính cách dẫn đến thành công, thăng tiến và tạo mối quan hệ tốt đẹp - nhất là trong đời sống hôn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872183+07:00",
+      "fetched": "2025-08-19T11:20:05.872305+07:00"
+    },
+    {
+      "id": "f25231a0ee8d5115a38e0150aea3560e",
+      "title": "Chủ tịch nước Lương Cường đón Quốc vương Bhutan",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-don-quoc-vuong-bhutan-2025081906413493.htm",
+      "summary": "Sáng 19-8, Chủ tịch nước Lương Cường và Phu nhân đã chủ trì lễ đón cấp nhà nước Quốc vương Bhutan và Hoàng hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.872039+07:00",
+      "fetched": "2025-08-19T11:20:05.872170+07:00"
+    },
+    {
+      "id": "07d10ae1170885d70e3f64767c639129",
+      "title": "TP.HCM khánh thành rạp xiếc và biểu diễn đa năng Phú Thọ",
+      "link": "https://tuoitre.vn/tp-hcm-khanh-thanh-rap-xiec-va-bieu-dien-da-nang-phu-tho-20250819104259412.htm",
+      "summary": "Rạp xiếc và biểu diễn đa năng Phú Thọ chính thức khánh thành, đánh dấu thêm một thiết chế văn hóa hiện đại, điểm nhấn mới của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T11:20:05.871800+07:00",
+      "fetched": "2025-08-19T11:20:05.872023+07:00"
+    },
     {
       "id": "0c3ae505107ea58dd31d51b8c9deeb7f",
       "title": "Điểm tin 8h: Chứng khoán tăng điểm trong thận trọng; Thị trường nhà ở Mỹ lại 'ì ạch'",
@@ -313,6 +463,336 @@ window.newsData_2025_08_19 = {
       "fetched": "2025-08-19T05:14:33.075215+07:00"
     },
     {
+      "id": "4cb69045b1b47db3b28c7b53816294ea",
+      "title": "Tiêu Minh Phụng: Tôi hãnh diện khi được 'ké fame' Phương Mỹ Chi",
+      "link": "https://thanhnien.vn/tieu-minh-phung-toi-hanh-dien-khi-duoc-ke-fame-phuong-my-chi-185250819091253491.htm",
+      "summary": "Trước thềm ra mắt dự án mới có sự kết hợp của Phương Mỹ Chi và nhiều nghệ sĩ khác, giọng ca 'Rap Việt 2024' Tiêu Minh Phụng đã có những chia sẻ gây chú ý về mối quan hệ thân thiết với 'chị Bảy'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:18:00+07:00",
+      "fetched": "2025-08-19T11:20:04.750957+07:00"
+    },
+    {
+      "id": "5f7f0f7ae057c2a30ecc1235f1e8e124",
+      "title": "Gal Gadot đổ lỗi vì chính trị nên 'Bạch Tuyết' thất bại tại phòng vé",
+      "link": "https://thanhnien.vn/gal-gadot-do-loi-vi-chinh-tri-nen-bach-tuyet-that-bai-tai-phong-ve-185250819103537102.htm",
+      "summary": "Gal Gadot cho biết cô đã nhận được những lời đe dọa giết người sau khi bạn diễn Rachel Zegler lên tiếng ủng hộ phía Palestine trong một bài đăng trên X.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:16:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751131+07:00"
+    },
+    {
+      "id": "adbd3d82d4bb5fa2760b28a374755f79",
+      "title": "Top 5 sách nuôi dạy con hiệu quả cho phụ huynh thời hiện đại",
+      "link": "https://thanhnien.vn/top-5-sach-nuoi-day-con-hieu-qua-cho-phu-huynh-thoi-hien-dai-185250819103247707.htm",
+      "summary": "Tháng 8 là mùa tựu trường, không chỉ học sinh tất bật chuẩn bị mà phụ huynh cũng trăn trở: 'Làm sao giúp con sẵn sàng quay lại lớp?'. Vanlangbooks, trong khuôn khổ chiến dịch Bé Ma Tri Thức, giới thiệu 5 cuốn sách nuôi dạy con hiệu quả, giúp cha mẹ vừa củng cố kiến thức giáo dục, vừa gắn kết tình cả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:12:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751294+07:00"
+    },
+    {
+      "id": "e1e60c1d17d53e48991d9796569ff979",
+      "title": "Cặp sân bay ở Việt Nam vào top 5 đông khách nhất thế giới",
+      "link": "https://thanhnien.vn/cap-san-bay-o-viet-nam-vao-top-5-dong-khach-nhat-the-gioi-185250819103445094.htm",
+      "summary": "Hiệp hội Vận tải Hàng không quốc tế (IATA) vừa công bố báo cáo thống kê hàng không thế giới năm 2024 với rất nhiều thông tin thú vị, như 10 cặp sân bay đông khách nhất đều nằm ở châu Á - Thái Bình Dương...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:08:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751452+07:00"
+    },
+    {
+      "id": "05516978aec098dac5d57c02ba3a9b36",
+      "title": "Ca sĩ Vương Tâm Lăng nhập viện vì kiệt sức",
+      "link": "https://thanhnien.vn/ca-si-vuong-tam-lang-nhap-vien-vi-kiet-suc-185250819101349076.htm",
+      "summary": "Ca sĩ Vương Tâm Lăng phải nhập viện khẩn cấp vì kiệt sức sau đêm diễn tại Bắc Kinh, Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:08:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751605+07:00"
+    },
+    {
+      "id": "a98becbd93a1d096d1870cdbc873556a",
+      "title": "Gửi anh, người đang trên đường tìm em",
+      "link": "https://vnexpress.net/gui-anh-nguoi-dang-tren-duong-tim-em-4928667.html",
+      "summary": "Em mong mình có mái ấm, nơi sau tất cả bộn bề, ta trở về, cùng ngồi quanh mâm cơm ấm cúng, biết nơi ấy có người luôn chờ mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:01:22+07:00",
+      "fetched": "2025-08-19T11:20:00.171261+07:00"
+    },
+    {
+      "id": "5f7899d2a90ef8cb718e856309694703",
+      "title": "FWD Việt Nam 6 năm liền được HR Asia vinh danh",
+      "link": "https://vnexpress.net/fwd-viet-nam-6-nam-lien-duoc-hr-asia-vinh-danh-4928708.html",
+      "summary": "Bảo hiểm Nhân thọ FWD Việt Nam năm thứ 6 liên tiếp được tạp chí HR Asia vinh danh là “Nơi làm việc tốt nhất châu Á”, đồng thời giành thêm ba giải thưởng khác tại HR Asia Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:00:00+07:00",
+      "fetched": "2025-08-19T11:20:00.171520+07:00"
+    },
+    {
+      "id": "19c6fba769bb55b8066aa8751fc95686",
+      "title": "Phình động mạch chủ sau 10 năm nhồi máu cơ tim",
+      "link": "https://vnexpress.net/phinh-dong-mach-chu-sau-10-nam-nhoi-mau-co-tim-4928576.html",
+      "summary": "Ông Thomas, 62 tuổi, cách nay 10 năm bị nhồi máu cơ tim đã được đặt hai stent mạch vành, nay động mạch chủ bụng phình to cần can thiệp sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:00:00+07:00",
+      "fetched": "2025-08-19T11:20:00.171728+07:00"
+    },
+    {
+      "id": "d3f52e6ac44ccab1432812746fe47a3b",
+      "title": "Quyết giảm cân sau khi đột quỵ",
+      "link": "https://vnexpress.net/quyet-giam-can-sau-khi-dot-quy-4928400.html",
+      "summary": "Chị Nghi, 40 tuổi, hồi phục sau cơn đột quỵ nhẹ quyết tâm điều trị béo phì theo khuyến nghị của bác sĩ để giảm nguy cơ tái phát bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:00:00+07:00",
+      "fetched": "2025-08-19T11:20:00.171908+07:00"
+    },
+    {
+      "id": "0c1c897f7a5595c208ed3cfed21a94c2",
+      "title": "Đà Nẵng hợp tác VNPAY tăng trải nghiệm số cho du khách",
+      "link": "https://vnexpress.net/da-nang-hop-tac-vnpay-tang-trai-nghiem-so-cho-du-khach-4928337.html",
+      "summary": "Đà Nẵng phát triển giải pháp thanh toán số của VNPAY để nâng cao trải nghiệm du lịch cho khách quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:00:00+07:00",
+      "fetched": "2025-08-19T11:20:00.172748+07:00"
+    },
+    {
+      "id": "0e3186bb9d5b0be1be18bd326aaac7fd",
+      "title": "Thất bại ở Lạch Tray và lời hứa bứt phá của tuyển nữ Việt Nam",
+      "link": "https://vnexpress.net/that-bai-o-lach-tray-va-loi-hua-but-pha-cua-tuyen-nu-viet-nam-4928335.html",
+      "summary": "Thua 1-2 trước Australia ở bán kết Giải vô địch bóng đá nữ Đông Nam Á, tuyển nữ Việt Nam khép lại hành trình trong tiếc nuối, vẫn quyết tâm giành huy chương đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T04:00:00+07:00",
+      "fetched": "2025-08-19T11:20:00.172915+07:00"
+    },
+    {
+      "id": "50e72bca8aebd9eb57cb3d762a24753f",
+      "title": "Sau bão giông, em chọn ở bên một người biết trân trọng",
+      "link": "https://vnexpress.net/sau-bao-giong-em-chon-o-ben-mot-nguoi-biet-tran-trong-4928666.html",
+      "summary": "Anh có thể hơn em nhiều tuổi, có thể từng đổ vỡ, nhưng nhất định phải là người tử tế và thương em thật lòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:56:15+07:00",
+      "fetched": "2025-08-19T11:20:00.173016+07:00"
+    },
+    {
+      "id": "af6b4ba2539ae9c1c9155d7dfd7e469d",
+      "title": "Mất tập trung vì lướt video ngắn quá nhiều: Vì sao biết mà không dừng lại được?",
+      "link": "https://thanhnien.vn/mat-tap-trung-vi-luot-video-ngan-qua-nhieu-vi-sao-biet-ma-khong-dung-lai-duoc-185250819014004258.htm",
+      "summary": "Lướt mạng xã hội xem video ngắn trở thành thói quen khó bỏ của nhiều người, từ TikTok đến Reels, YouTube Shorts... Dù biết thói quen không tốt, nhiều người vẫn không bỏ được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:54:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751779+07:00"
+    },
+    {
+      "id": "799ddd1f46032d68af01f24e825865a7",
+      "title": "Phụ huynh, học sinh TP HCM ngóng lùi giờ vào lớp",
+      "link": "https://vnexpress.net/phu-huynh-hoc-sinh-tp-hcm-ngong-lui-gio-vao-lop-4928559.html",
+      "summary": "Phải đưa con đi học từ 6h15 để tránh kẹt xe, chị Bích mong trường đổi thời gian biểu, để con được ngủ thêm, khi nghe tin nhiều nơi lùi giờ vào lớp 15-30 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:53:46+07:00",
+      "fetched": "2025-08-19T11:20:00.173174+07:00"
+    },
+    {
+      "id": "957ee4af38aac46752e6ef461366f06f",
+      "title": "Tìm người cùng chia sẻ trong cuộc sống",
+      "link": "https://vnexpress.net/tim-nguoi-cung-chia-se-trong-cuoc-song-4928668.html",
+      "summary": "Em tên là Duyên, sinh năm 1988, đang sống ở quận 9, từng kết hôn và hiện có cậu con trai 9 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:53:40+07:00",
+      "fetched": "2025-08-19T11:20:00.173269+07:00"
+    },
+    {
+      "id": "c4e5ba6f5f4555b6ce4a6fd0d85c8fbe",
+      "title": "Tiếp tục tính định mức giáo viên theo vùng như trước khi sắp xếp",
+      "link": "https://thanhnien.vn/tiep-tuc-tinh-dinh-muc-giao-vien-theo-vung-nhu-truoc-khi-sap-xep-185250819092507314.htm",
+      "summary": "Bộ GD-ĐT lưu ý, các cơ sở giáo dục trên địa bàn các xã, phường sau sáp nhập tiếp tục áp dụng cách tính định mức giáo viên theo vùng như trước khi sắp xếp cho đến khi có hướng dẫn mới",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:53:00+07:00",
+      "fetched": "2025-08-19T11:20:04.751932+07:00"
+    },
+    {
+      "id": "eb9e9c0cc456d210c82566dcba5cb2ac",
+      "title": "5 tư duy của cha mẹ có con học giỏi",
+      "link": "https://vnexpress.net/5-tu-duy-cua-cha-me-co-con-hoc-gioi-4928563.html",
+      "summary": "Những gia đình có con cái học giỏi thì giống nhau, còn những gia đình có con học kém thì mỗi nhà một kiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:50:47+07:00",
+      "fetched": "2025-08-19T11:20:00.173425+07:00"
+    },
+    {
+      "id": "fd7cd9175d302caeb4bb9ef739b62fcb",
+      "title": "Chồng tốn 5 triệu đồng ăn trưa ở công ty là quá nhiều",
+      "link": "https://vnexpress.net/xung-dot-tai-chinh-vo-chong-chong-ton-5-trieu-dong-an-trua-o-cong-ty-la-qua-nhieu-4928534.html",
+      "summary": "Thực tế, anh và 2-3 người trong nhóm góp tiền, còn những đồng nghiệp khác chỉ ăn ké mà không góp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:50:08+07:00",
+      "fetched": "2025-08-19T11:20:00.173587+07:00"
+    },
+    {
+      "id": "cc708f5d23294a961eb6e48e090a3656",
+      "title": "SUV 7 chỗ: Ford Everest tiếp tục thống trị, doanh số gấp 3 Toyota Fortuner",
+      "link": "https://thanhnien.vn/suv-7-cho-ford-everest-tiep-tuc-thong-tri-doanh-so-gap-3-toyota-fortuner-185250814064147588.htm",
+      "summary": "Bất chấp doanh số sụt giảm, Ford Everest tiếp tục thống trị phân khúc SUV 7 chỗ tại Việt Nam, thậm chí lượng xe bán ra của mẫu xe Mỹ gấp gần 3 lần đối thủ Toyota Fortuner.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:50:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752080+07:00"
+    },
+    {
+      "id": "da250274b269c1500854e0b10e8c2844",
+      "title": "Ốp lưng 'chính hãng Apple' cho iPhone 17 lộ diện",
+      "link": "https://vnexpress.net/op-lung-chinh-hang-apple-cho-iphone-17-lo-dien-4928676.html",
+      "summary": "Ốp lưng Liquid Silicone, được cho là của iPhone 17, có thiết kế mới và phần đục lỗ để gắn dây đeo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:45:36+07:00",
+      "fetched": "2025-08-19T11:20:00.173766+07:00"
+    },
+    {
+      "id": "da250274b269c1500854e0b10e8c2844",
+      "title": "Ốp lưng 'chính hãng Apple' cho iPhone 17 lộ diện",
+      "link": "https://vnexpress.net/op-lung-chinh-hang-apple-cho-iphone-17-lo-dien-4928676.html",
+      "summary": "Ốp lưng Liquid Silicone, được cho là của iPhone 17, có thiết kế mới và phần đục lỗ để gắn dây đeo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-19T03:45:36+07:00",
+      "fetched": "2025-08-19T11:20:13.389910+07:00"
+    },
+    {
+      "id": "ca0dad536281e8c50c0261418061497e",
+      "title": "Ô tô điện ngày càng hút khách trên toàn cầu, quốc gia nào tiêu thụ nhiều nhất?",
+      "link": "https://thanhnien.vn/o-to-dien-ngay-cang-hut-khach-tren-toan-cau-quoc-gia-nao-tieu-thu-nhieu-nhat-185250818145201441.htm",
+      "summary": "Bất chấp vẫn còn đối mặt với nhiều rào cản về giá bán, hạ tầng trạm sạc… lượng tiêu thụ ô tô điện trên toàn cầu tiếp tục tăng trưởng khoảng 27% trong 7 tháng đầu năm 2025; trong đó Trung Quốc và khu vực châu Âu đang dẫn đầu về doanh số xe điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:45:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752229+07:00"
+    },
+    {
+      "id": "675206de10a40af5b474c8664498ef04",
+      "title": "Khánh thành trụ sở làm việc mới Cơ quan Chủ tịch nước",
+      "link": "https://thanhnien.vn/khanh-thanh-tru-so-lam-viec-moi-co-quan-chu-tich-nuoc-1852508191025089.htm",
+      "summary": "Tổng Bí thư Tô Lâm, Chủ tịch nước Lương Cường cùng các lãnh đạo Đảng, Nhà nước cắt băng khánh thành trụ sở làm việc mới của Cơ quan Chủ tịch nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:43:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752387+07:00"
+    },
+    {
+      "id": "b3a567bcd9779a6f2682cb2dfeaadbba",
+      "title": "Nhân viên sân bay Thái Lan bỏ qua khi tôi mang hành lý xách tay thừa cân",
+      "link": "https://vnexpress.net/hanh-ly-xach-tay-hanh-ly-xach-tay-duoc-mang-nhung-gi-quy-dinh-hanh-ly-xach-tay-nhan-vien-san-bay-thai-lan-bo-qua-khi-toi-mang-hanh-ly-xach-tay-thua-can-4928589.html",
+      "summary": "Tôi được linh động vì mang sách khiến hành lý vượt trọng lượng quy định ở sân bay Thái Lan, nhưng không ủng hộ người khác tìm cách lách luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:39:06+07:00",
+      "fetched": "2025-08-19T11:20:00.173924+07:00"
+    },
+    {
+      "id": "775a23b9022043813e5ca64eace6cf53",
+      "title": "U.23 Việt Nam và những hy vọng từ V-League",
+      "link": "https://thanhnien.vn/u23-viet-nam-va-nhung-hy-vong-tu-v-league-185250818222212891.htm",
+      "summary": "Bảng C vòng loại U.23 châu Á sẽ khởi tranh vào tháng 9 tại sân Việt Trì (Phú Thọ) và HLV Kim Sang-sik đang kiểm tra phong độ cũng như tìm thêm nhân sự cho đội U.23 VN từ giải đấu trong nước. V-League 2025 - 2026 vừa mở màn sẽ trở thành môi trường tốt để cầu thủ trẻ rèn luyện và trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:37:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752539+07:00"
+    },
+    {
+      "id": "90e052dff69b8c91eceb0aa7425576af",
+      "title": "Sharon Stone phản ứng dữ dội trước bản làm lại 'Bản năng gốc'",
+      "link": "https://thanhnien.vn/sharon-stone-phan-ung-du-doi-truoc-ban-lam-lai-ban-nang-goc-185250819101312774.htm",
+      "summary": "Là tác phẩm gắn liền với hình ảnh biểu tượng của Sharon Stone, nhưng 'Bản năng gốc' ('Basic Instinct') cũng mang lại không ít phiền toái cho nữ diễn viên, từ mất quyền nuôi con đến tổn thương thể chất và tinh thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:36:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752713+07:00"
+    },
+    {
+      "id": "269c106852f59f8710b6f731205229ab",
+      "title": "Áp thấp nhiệt đới vào Quảng Ninh - Hải Phòng",
+      "link": "https://vnexpress.net/ap-thap-nhiet-doi-vao-quang-ninh-hai-phong-4928609.html",
+      "summary": "Vào Quảng Ninh và Hải Phòng sáng nay, áp thấp nhiệt đới gây gió mạnh 49 km/h (cấp 6) ở vùng ven biển, trong đất liền gió nhẹ, không mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:35:31+07:00",
+      "fetched": "2025-08-19T11:20:00.174079+07:00"
+    },
+    {
+      "id": "8b03f52a750558234ed60f9fd1a41852",
+      "title": "Ông Zelensky: vấn đề lãnh thổ là chuyện giữa tôi và ông Putin",
+      "link": "https://thanhnien.vn/ong-zelensky-van-de-lanh-tho-la-chuyen-giua-toi-va-ong-putin-185250819103014723.htm",
+      "summary": "Các nhà lãnh đạo xác nhận vấn đề lãnh thổ của Ukraine đã không được thảo luận trong hội nghị thượng đỉnh tại Nhà Trắng ngày 18.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:35:00+07:00",
+      "fetched": "2025-08-19T11:20:04.752866+07:00"
+    },
+    {
+      "id": "a3948408949a79fe1e81fd8338dfb0d0",
+      "title": "Toàn dân bảo vệ an ninh Tổ quốc",
+      "link": "https://thanhnien.vn/toan-dan-bao-ve-an-ninh-to-quoc-185250818200730191.htm",
+      "summary": "Từ năm 2005, Ban bí thư đã quyết định lấy ngày 19.8 hằng năm làm Ngày hội toàn dân bảo vệ an ninh Tổ quốc. Đến nay là tròn 20 năm ngày hội đầy ý nghĩa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:34:00+07:00",
+      "fetched": "2025-08-19T11:20:04.753015+07:00"
+    },
+    {
+      "id": "f2762ede9893e74e5bf85889e2e6fb10",
+      "title": "Chủ tịch nước chủ trì lễ đón Quốc vương Bhutan",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-quoc-vuong-bhutan-4928684.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Bhutan Jigme Khesar Namgyel Wangchuck đang thăm cấp nhà nước đến Việt Nam ngày 18-22/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:33:27+07:00",
+      "fetched": "2025-08-19T11:20:00.174236+07:00"
+    },
+    {
+      "id": "f2762ede9893e74e5bf85889e2e6fb10",
+      "title": "Chủ tịch nước chủ trì lễ đón Quốc vương Bhutan",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-quoc-vuong-bhutan-4928684.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Bhutan Jigme Khesar Namgyel Wangchuck đang thăm cấp nhà nước đến Việt Nam ngày 18-22/8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T03:33:27+07:00",
+      "fetched": "2025-08-19T11:20:07.940046+07:00"
+    },
+    {
+      "id": "1bd9be35d41a0df72d4d97ba347cae40",
+      "title": "Chi hơn 332 tỉ đồng mua sắm, V-League gây sốc vượt mặt dàn sao nhập tịch Malaysia",
+      "link": "https://thanhnien.vn/chi-hon-332-ti-dong-mua-sam-v-league-gay-soc-vuot-mat-dan-sao-nhap-tich-malaysia-185250819102954553.htm",
+      "summary": "Theo trang thống kê chuyển nhượng Transfermarkt, tính đến ngày 18.8, các CLB ở giải V-League 1 Việt Nam đã chi mua sắm 'khủng' cho mùa giải 2025 - 2026 với khoảng 332 tỉ đồng, tổng cộng 83 cầu thủ ngoại (tăng 18,1%), xếp thứ 3 khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:33:00+07:00",
+      "fetched": "2025-08-19T11:20:04.753169+07:00"
+    },
+    {
+      "id": "bad005c7d945bc6c9d3d8c0ab7711e78",
+      "title": "Nhu cầu 'không đàn ông' của nhiều phụ nữ Trung Quốc",
+      "link": "https://vnexpress.net/nhu-cau-khong-dan-ong-cua-nhieu-phu-nu-trung-quoc-4928585.html",
+      "summary": "Nhu cầu về những không gian riêng chỉ dành cho phụ nữ, giúp họ rời xa áp lực xã hội và phán xét của đàn ông, đang phát triển mạnh ở Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T03:21:32+07:00",
+      "fetched": "2025-08-19T11:20:07.940225+07:00"
+    },
+    {
       "id": "6cdc83d0d20927b5ce5b4d11cfc90b99",
       "title": "Tuổi nào, bệnh gì có nguy cơ đột quỵ cao?",
       "link": "https://thanhnien.vn/tuoi-nao-benh-gi-co-nguy-co-dot-quy-cao-185250801131332213.htm",
@@ -371,6 +851,16 @@ window.newsData_2025_08_19 = {
       "category": "Kinh doanh",
       "published": "2025-08-19T03:00:00+07:00",
       "fetched": "2025-08-19T10:08:40.555941+07:00"
+    },
+    {
+      "id": "8287145b7633736ffda899f851a1a968",
+      "title": "Băng trộm cuỗm viên kim cương hồng 25 triệu USD",
+      "link": "https://vnexpress.net/bang-trom-cuom-vien-kim-cuong-hong-25-trieu-usd-4928604.html",
+      "summary": "Ba nghi phạm giả làm khách hàng giàu có và đánh cắp viên kim cương hồng trị giá 25 triệu USD ở Dubai, nhưng bị bắt chỉ sau 8 giờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T02:56:50+07:00",
+      "fetched": "2025-08-19T11:20:07.940391+07:00"
     },
     {
       "id": "c57c466c9dbacfb04effeb2301315adc",
@@ -1241,6 +1731,16 @@ window.newsData_2025_08_19 = {
       "category": "Thể thao",
       "published": "2025-08-18T22:57:55+07:00",
       "fetched": "2025-08-19T08:18:50.539689+07:00"
+    },
+    {
+      "id": "f45510ec130d8262eeca17fff05747aa",
+      "title": "Ronaldo đứng trước cơ hội phá dớp cùng Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-dung-truoc-co-hoi-pha-dop-cung-al-nassr-4928553.html",
+      "summary": "Cristiano Ronaldo sẽ tiếp một bước dài trong hành trình tìm danh hiệu đầu tiên cùng Al Nassr, nếu đánh bại Al Ittihad của Karim Benzema ở bán kết Siêu Cup Saudi hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-18T22:57:55+07:00",
+      "fetched": "2025-08-19T11:20:15.289056+07:00"
     },
     {
       "id": "5698be66edc6d8d56aa318a240f886df",
