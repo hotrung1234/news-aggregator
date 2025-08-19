@@ -1,7 +1,27 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T01:22:32.847560+07:00",
+  "lastUpdated": "2025-08-20T03:18:40.281828+07:00",
   "articles": [
+    {
+      "id": "15fe7cff933b3be35bda388f84d72d3d",
+      "title": "Ông Trump giải thích lý do ra ngoài gọi cho ông Putin; Khẳng định quan hệ Putin - Zelensky ấm lên",
+      "link": "https://tuoitre.vn/ong-trump-giai-thich-ly-do-ra-ngoai-goi-cho-ong-putin-khang-dinh-quan-he-putin-zelensky-am-len-20250819232630136.htm",
+      "summary": "Tổng thống Mỹ trả lời đài Fox về nhiều vấn đề liên quan đến tiến trình hòa bình ở Ukraine sau cuộc họp giữa ông và Tổng thống Ukraine ngày 18-8, đồng thời giải thích lý do rời cuộc họp để gọi ông Putin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:18:30.760748+07:00",
+      "fetched": "2025-08-20T03:18:30.760882+07:00"
+    },
+    {
+      "id": "47cd7eb3889edd75661af3d7303c17ed",
+      "title": "Thời tiết hôm nay 20-8: Mưa to Bắc Bộ đến Thanh Hóa, Nam Bộ chiều tối mưa rào",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-8-mua-to-bac-bo-den-thanh-hoa-nam-bo-chieu-toi-mua-rao-20250819171157793.htm",
+      "summary": "Hôm nay 20-8, mưa to còn tập trung vài nơi ở Bắc Bộ và Thanh Hóa. Nam Bộ và các nơi khác thời tiết ngày ít mưa, chiều tối mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:18:30.760521+07:00",
+      "fetched": "2025-08-20T03:18:30.760732+07:00"
+    },
     {
       "id": "3b02e01c0dc5cfb90010552b16e546ae",
       "title": "Hơn 300 vận động viên tranh tài tại Giải vô địch taekwondo Đông Nam Á",
@@ -151,6 +171,46 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T01:22:24.320902+07:00",
       "fetched": "2025-08-20T01:22:24.321126+07:00"
+    },
+    {
+      "id": "d29a834289acf64ff6a56683e57539d9",
+      "title": "Hai cảnh sát Mỹ thiệt mạng khi đối phó kẻ vũ phu",
+      "link": "https://vnexpress.net/hai-canh-sat-my-thiet-mang-khi-doi-pho-ke-vu-phu-4928754.html",
+      "summary": "Nhóm cảnh sát đến xử lý tin báo về vụ tranh cãi gia đình tại Tremonton, bang Utah thì bị nghi phạm dùng súng trường tấn công, khiến hai sĩ quan thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:18:25.491633+07:00"
+    },
+    {
+      "id": "70b5de91c7f3a67fd4bbb1bf9b7bcb04",
+      "title": "U ác tính to như quả bưởi chèn ép đường thở",
+      "link": "https://vnexpress.net/u-ac-tinh-to-nhu-qua-buoi-chen-ep-duong-tho-4928735.html",
+      "summary": "Người đàn ông 75 tuổi, quốc tịch Campuchia, khó thở, đi khám phát hiện u trung thất có kích thước gần 11 cm, to như quả bưởi, chèn ép đường thở và nhiều cơ quan quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:18:25.491812+07:00"
+    },
+    {
+      "id": "4a6667ce0b0771363b06129869e2c4ae",
+      "title": "Bệnh thận ứ nước",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-than-u-nuoc-362",
+      "summary": "Thận ứ nước là tình trạng nước tiểu tắc nghẽn trong thận, có thể ảnh hưởng đến một bên thận hoặc cả hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:18:25.491985+07:00"
+    },
+    {
+      "id": "d29a834289acf64ff6a56683e57539d9",
+      "title": "Hai cảnh sát Mỹ thiệt mạng khi đối phó kẻ vũ phu",
+      "link": "https://vnexpress.net/hai-canh-sat-my-thiet-mang-khi-doi-pho-ke-vu-phu-4928754.html",
+      "summary": "Nhóm cảnh sát đến xử lý tin báo về vụ tranh cãi gia đình tại Tremonton, bang Utah thì bị nghi phạm dùng súng trường tấn công, khiến hai sĩ quan thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:18:32.621824+07:00"
     },
     {
       "id": "49b3d80859dcdc740fc114fda507f294",
