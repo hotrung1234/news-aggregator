@@ -1,7 +1,157 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T17:18:05.552320+07:00",
+  "lastUpdated": "2025-08-20T19:34:49.280176+07:00",
   "articles": [
+    {
+      "id": "2e457f52b9afb27dc384e53b133ef57d",
+      "title": "Tạm giữ người đánh tài xế taxi công nghệ ở phường Bảy Hiền, TP.HCM",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-danh-tai-xe-taxi-cong-nghe-o-phuong-bay-hien-tp-hcm-20250820180757604.htm",
+      "summary": "Công an phường Bảy Hiền, TP.HCM đã ra lệnh giữ người trong trường hợp khẩn cấp và quyết định tạm giữ đối với Nguyễn Minh Đức để tiếp tục điều tra về hành vi \"gây rối trật tự công cộng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422651+07:00",
+      "fetched": "2025-08-20T19:34:40.422761+07:00"
+    },
+    {
+      "id": "d8e4d2088859b7054af83c38ecb7765f",
+      "title": "Các bãi đậu xe ngầm - mỏ vàng năng lượng sạch",
+      "link": "https://tuoitre.vn/cac-bai-dau-xe-ngam-mo-vang-nang-luong-sach-20250820155858298.htm",
+      "summary": "Nhiệt lượng được lưu trữ trong hệ thống cơ sở hạ tầng ngầm của thành phố New York, từ hàng trăm dặm đường hầm tàu điện ngầm đến các bãi đậu xe là một mỏ vàng năng lượng sạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422530+07:00",
+      "fetched": "2025-08-20T19:34:40.422640+07:00"
+    },
+    {
+      "id": "8b72df80558e3e2bdbdc650f8f56a08b",
+      "title": "Viết tiếp câu chuyện hòa bình của Nguyễn Văn Chung có bản 13 thứ tiếng lẫn sách nhạc",
+      "link": "https://tuoitre.vn/viet-tiep-cau-chuyen-hoa-binh-cua-nguyen-van-chung-co-ban-13-thu-tieng-lan-sach-nhac-20250820180331342.htm",
+      "summary": "'Viết tiếp câu chuyện hòa bình' của nhạc sĩ Nguyễn Văn Chung vừa có thêm phiên bản bằng 13 ngôn ngữ và cả sách nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422409+07:00",
+      "fetched": "2025-08-20T19:34:40.422518+07:00"
+    },
+    {
+      "id": "aa687a07bf753119b6f7427a9f8d7cce",
+      "title": "Phó chủ tịch Quốc hội: Sớm hoàn thiện các tuyến đường kết nối sân bay Long Thành",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-som-hoan-thien-cac-tuyen-duong-ket-noi-san-bay-long-thanh-20250820182912208.htm",
+      "summary": "Tỉnh Đồng Nai và các đơn vị liên quan cần sớm hoàn thiện các tuyến đường kết nối sân bay Long Thành bởi tình trạng ùn tắc hiện nay rất lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422287+07:00",
+      "fetched": "2025-08-20T19:34:40.422398+07:00"
+    },
+    {
+      "id": "d07de9de6155b45bbc56230399710457",
+      "title": "TikToker Viết Tường - chàng trai mắc hội chứng TICS được tôn vinh 'Tỏa sáng nghị lực Việt'",
+      "link": "https://tuoitre.vn/tiktoker-viet-tuong-chang-trai-mac-hoi-chung-tics-duoc-ton-vinh-toa-sang-nghi-luc-viet-20250820182848464.htm",
+      "summary": "TikToker Viết Tường, chàng trai bị mắc hội chứng TICS được nhận giải thưởng Tỏa sáng nghị lực Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422166+07:00",
+      "fetched": "2025-08-20T19:34:40.422276+07:00"
+    },
+    {
+      "id": "75b1c7c7a10c8dc19cc06682aefa0e81",
+      "title": "New Zealand triển khai hàng loạt hoạt động kích cầu du học tại Việt Nam",
+      "link": "https://tuoitre.vn/new-zealand-trien-khai-hang-loat-hoat-dong-kich-cau-du-hoc-tai-viet-nam-20250820160052833.htm",
+      "summary": "Trong tháng 9, Cơ quan Giáo dục New Zealand sẽ tổ chức 26 lớp học mô phỏng bậc đại học cho học sinh trung học phổ thông Việt Nam và chuỗi 4 phiên giao lưu trực tuyến với các cựu du học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.422042+07:00",
+      "fetched": "2025-08-20T19:34:40.422155+07:00"
+    },
+    {
+      "id": "2d6f668a18257685ae40fa5c20283be4",
+      "title": "Vietjet khởi công Trung tâm Kỹ thuật bảo dưỡng tàu bay tại Long Thành",
+      "link": "https://tuoitre.vn/vietjet-khoi-cong-trung-tam-ky-thuat-bao-duong-tau-bay-tai-long-thanh-20250820110257553.htm",
+      "summary": "Ngày 19-8-2025, tại Đồng Nai, Vietjet khởi công Trung tâm Kỹ thuật bảo dưỡng tàu bay tại cảng hàng không quốc tế Long Thành, một bước tiến quan trọng khẳng định vị thế của hàng không Việt Nam trên bản đồ thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421914+07:00",
+      "fetched": "2025-08-20T19:34:40.422031+07:00"
+    },
+    {
+      "id": "00c97ef5979afcd5916401e69372de89",
+      "title": "Nâng tầm nông nghiệp Việt bằng dữ liệu và số hóa",
+      "link": "https://tuoitre.vn/nang-tam-nong-nghiep-viet-bang-du-lieu-va-so-hoa-20250820183628199.htm",
+      "summary": "Tại lễ ra mắt Trung tâm Dữ liệu Quốc gia số 1, AgriS đã giới thiệu các chiến lược \"Hiện đại hóa – Số hóa Nông nghiệp trên nền tảng ESG và Dữ liệu hóa giai đoạn 2025–2030\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421772+07:00",
+      "fetched": "2025-08-20T19:34:40.421901+07:00"
+    },
+    {
+      "id": "2c88dae31c87e93a36952bb22a4d9d62",
+      "title": "Chủ tịch Hà Nội: Ưu tiên vị trí hàng đầu cho cựu chiến binh, phụ nữ, trẻ em xem lễ diễu binh",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-uu-tien-vi-tri-hang-dau-cho-cuu-chien-binh-phu-nu-tre-em-xem-le-dieu-binh-20250820182356512.htm",
+      "summary": "Ngày 20-8, UBND TP Hà Nội ban hành công văn số 4686 về việc đảm bảo các điều kiện phục vụ nhân dân, du khách theo dõi các hoạt động kỷ niệm và lễ kỷ niệm, diễu binh, diễu hành 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421650+07:00",
+      "fetched": "2025-08-20T19:34:40.421760+07:00"
+    },
+    {
+      "id": "13064c702c9e8cea295ef2f3a300e908",
+      "title": "Mitsubishi Destinator chạy thử ở Việt Nam, sắp ra mắt đấu Mazda CX-5",
+      "link": "https://tuoitre.vn/mitsubishi-destinator-chay-thu-o-viet-nam-sap-ra-mat-dau-mazda-cx-5-20250820153910081.htm",
+      "summary": "Mitsubishi Destinator lần đầu xuất hiện tại Việt Nam với bản vô lăng trái, dự kiến ra mắt cuối năm 2025. SUV 7 chỗ rộng rãi này được kỳ vọng cạnh tranh Mazda CX-5, Ford Territory và các đối thủ cùng phân khúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421523+07:00",
+      "fetched": "2025-08-20T19:34:40.421638+07:00"
+    },
+    {
+      "id": "451e139126bf63e57aafd9aa1b621e27",
+      "title": "Khởi tố 21 người tụ tập, chạy xe lạng lách đánh võng tại xã Phước Hải, TP.HCM",
+      "link": "https://tuoitre.vn/khoi-to-21-nguoi-tu-tap-chay-xe-lang-lach-danh-vong-tai-xa-phuoc-hai-tp-hcm-20250820185149755.htm",
+      "summary": "Công an TP.HCM đã khởi tố 21 người tụ tập, điều khiển xe mô tô gây mất an ninh trật tự trên địa bàn xã Phước Hải. Trong đó, 17 người bị bắt tạm giam, 4 người bị cấm đi khỏi nơi cư trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421397+07:00",
+      "fetched": "2025-08-20T19:34:40.421511+07:00"
+    },
+    {
+      "id": "5d6f114524e4ffe7d5f32f1ebed7b5c7",
+      "title": "Phường Thông Tây Hội sẽ giải quyết triệt để tình trạng ngập cục bộ, chú trọng mở rộng vùng xanh",
+      "link": "https://tuoitre.vn/phuong-thong-tay-hoi-se-giai-quyet-triet-de-tinh-trang-ngap-cuc-bo-chu-trong-mo-rong-vung-xanh-20250820183415989.htm",
+      "summary": "Trong nhiệm kỳ mới, ban chấp hành Đảng bộ phường Thông Tây Hội sẽ chú trọng đầu tư hạ tầng giao thông, giải quyết triệt để tình trạng ngập cục bộ trên địa bàn, cũng như mở rộng các vùng xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421268+07:00",
+      "fetched": "2025-08-20T19:34:40.421385+07:00"
+    },
+    {
+      "id": "397e41a7702eb7376b874197ba526ba6",
+      "title": "TP.HCM chi gần 3.000 tỉ xây nút giao cao tốc Bến Lức - Long Thành với đường Rừng Sác",
+      "link": "https://tuoitre.vn/tp-hcm-chi-gan-3-000-ti-xay-nut-giao-cao-toc-ben-luc-long-thanh-voi-duong-rung-sac-20250820184759249.htm",
+      "summary": "TP.HCM dự kiến chi gần 3.000 tỉ đồng xây dựng nút giao cao tốc Bến Lức - Long Thành với đường Rừng Sác, dự kiến khởi công giữa năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.421136+07:00",
+      "fetched": "2025-08-20T19:34:40.421256+07:00"
+    },
+    {
+      "id": "5183061affc986782fa3002b3d220dfe",
+      "title": "Vingroup đầu tư dự án khu đô thị nghỉ dưỡng ‘lớn nhất từ trước đến nay’ tại Cần Thơ",
+      "link": "https://tuoitre.vn/vingroup-dau-tu-du-an-khu-do-thi-nghi-duong-lon-nhat-tu-truoc-den-nay-tai-can-tho-20250820185722347.htm",
+      "summary": "Tập đoàn Vingroup trình bày ý tưởng đầu tư dự án khu đô thị nghỉ dưỡng gần 3.000ha tại thành phố Cần Thơ, riêng khâu pháp lý được thực hiện trong 3 năm từ năm 2024 đến năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.420993+07:00",
+      "fetched": "2025-08-20T19:34:40.421123+07:00"
+    },
+    {
+      "id": "dce3b3ef2cdafc5b3d630ab582bbaf15",
+      "title": "Nga: Bàn về đảm bảo an ninh cho Ukraine mà không có Nga là 'điều viển vông'",
+      "link": "https://tuoitre.vn/nga-ban-ve-dam-bao-an-ninh-cho-ukraine-ma-khong-co-nga-la-dieu-vien-vong-20250820185639884.htm",
+      "summary": "Ngày 20-8, Ngoại trưởng Nga Sergei Lavrov cảnh báo việc thảo luận về bất kỳ đảm bảo an ninh nào của phương Tây dành cho Ukraine mà không có sự tham gia của Nga “là con đường chẳng đi đến đâu”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:34:40.420749+07:00",
+      "fetched": "2025-08-20T19:34:40.420977+07:00"
+    },
     {
       "id": "41c21741f62a4bb1ead56f950af40379",
       "title": "Khối quân nhân Nga đã tới Hà Nội để tham gia diễu binh A80",
@@ -393,6 +543,346 @@ window.newsData_2025_08_20 = {
       "fetched": "2025-08-20T13:25:49.293176+07:00"
     },
     {
+      "id": "565f80b437f7d2edbd15efdec59392b5",
+      "title": "Công an TP.HCM bắt giữ khẩn cấp kẻ đánh tài xế ô tô ở phường Bảy Hiền",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-giu-khan-cap-ke-danh-tai-xe-o-to-o-phuong-bay-hien-185250820191607036.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM tạm giữ nam thanh niên 26 tuổi liên quan vụ đánh tới tấp một tài xế ô tô ở phường Bảy Hiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:33:00+07:00",
+      "fetched": "2025-08-20T19:34:39.263430+07:00"
+    },
+    {
+      "id": "a3eb164501d92fa2f7d88748e4014483",
+      "title": "Từ Hàn Quốc đến Indonesia, CT Group lần này ký thẳng với Chính phủ",
+      "link": "https://thanhnien.vn/tu-han-quoc-den-indonesia-ct-group-lan-nay-ky-thang-voi-chinh-phu-185250820173504554.htm",
+      "summary": "CT Group tiếp tục tạo nên một dấu mốc lịch sử mới khi ký kết hợp tác trực tiếp với Chính phủ Indonesia, sau đơn hàng xuất khẩu 5.000 UAV vận tải sang Hàn Quốc, khẳng định tư thế mới của Việt Nam trên trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:30:00+07:00",
+      "fetched": "2025-08-20T19:34:39.263597+07:00"
+    },
+    {
+      "id": "89b456d065b0f6c55baa96c1f2689b45",
+      "title": "Cần Thơ: Độc đáo ngôi chợ được cánh mày râu thích lui tới",
+      "link": "https://thanhnien.vn/can-tho-doc-dao-ngoi-cho-duoc-canh-may-rau-thich-lui-toi-185250820140206946.htm",
+      "summary": "Cách bến Ninh Kiều vài trăm mét, chợ An Lạc (P.Ninh Kiều,TP.Cần Thơ) bán những mặt hàng chuyên dụng, đa phần được cánh mày râu tới mua sắm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:30:00+07:00",
+      "fetched": "2025-08-20T19:34:39.263752+07:00"
+    },
+    {
+      "id": "65886a192faeb321d96e4ea9bcb47847",
+      "title": "Cận cảnh 15 khẩu pháo lễ phục vụ nhiệm vụ A80 trước sân Mỹ Đình",
+      "link": "https://thanhnien.vn/can-canh-15-khau-phao-le-phuc-vu-nhiem-vu-a80-truoc-san-my-dinh-18525082017115035.htm",
+      "summary": "Sáng 20.8, tại sân vận động Mỹ Đình, 15 khẩu pháo 105 mm đã được các chiến sĩ Lữ đoàn Pháo binh 45 (thuộc Binh chủng Pháo binh) tỉ mỉ làm vệ sinh để chuẩn bị cho ngày đại lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:26:00+07:00",
+      "fetched": "2025-08-20T19:34:39.263931+07:00"
+    },
+    {
+      "id": "fc47b9b2ddff4428198e710241dc83b4",
+      "title": "Giám đốc Sở GD-ĐT TP.HCM nêu lý do không cho học sinh sử dụng điện thoại",
+      "link": "https://thanhnien.vn/giam-doc-so-gd-dt-tphcm-neu-ly-do-khong-cho-hoc-sinh-su-dung-dien-thoai-185250820185546328.htm",
+      "summary": "Ngày 20.8, ông Nguyễn Văn Hiếu, Giám đốc Sở GD-ĐT TP.HCM, thông tin hàng loạt những quy định sẽ chính thức triển khai trong năm học mới để đảm bảo an toàn sức khỏe, tinh thần cho học sinh. Trong đó có quy định không sử dụng điện thoại, quan tâm nhà vệ sinh trường học, chú trọng giáo dục toàn diện...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:25:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264096+07:00"
+    },
+    {
+      "id": "c375bfd855924f702b5bbc752f7d72bd",
+      "title": "Thành lập Bộ Tư lệnh Pháo binh - tên lửa",
+      "link": "https://thanhnien.vn/thanh-lap-bo-tu-lenh-phao-binh-ten-lua-185250820185505705.htm",
+      "summary": "Ngày 20.8, đại tướng Nguyễn Tân Cương, Tổng tham mưu trưởng Quân đội nhân dân (QĐND) Việt Nam, Thứ trưởng Bộ Quốc phòng chủ trì lễ công bố quyết định thành lập Bộ Tư lệnh Pháo binh - tên lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:23:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264247+07:00"
+    },
+    {
+      "id": "1a524aeed0ef9bfc8aed995950480e5c",
+      "title": "Chiến hạm Mỹ bốc cháy ngoài khơi Nhật Bản",
+      "link": "https://vnexpress.net/chien-ham-my-boc-chay-ngoai-khoi-nhat-ban-4929490.html",
+      "summary": "Tàu đổ bộ USS New Orleans của hải quân Mỹ bốc cháy ở ngoài khơi tỉnh Okinawa, Nhật Bản, chưa ghi nhận thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:21:37+07:00",
+      "fetched": "2025-08-20T19:34:35.742442+07:00"
+    },
+    {
+      "id": "1a524aeed0ef9bfc8aed995950480e5c",
+      "title": "Chiến hạm Mỹ bốc cháy ngoài khơi Nhật Bản",
+      "link": "https://vnexpress.net/chien-ham-my-boc-chay-ngoai-khoi-nhat-ban-4929490.html",
+      "summary": "Tàu đổ bộ USS New Orleans của hải quân Mỹ bốc cháy ở ngoài khơi tỉnh Okinawa, Nhật Bản, chưa ghi nhận thương vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T12:21:37+07:00",
+      "fetched": "2025-08-20T19:34:41.812179+07:00"
+    },
+    {
+      "id": "9559a0ac1a75f2351a19c70e6ece6518",
+      "title": "Phú Quốc: Bắn 120 thùng pháo hoa mừng Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/phu-quoc-ban-120-thung-phao-hoa-mung-quoc-khanh-29-185250820151324827.htm",
+      "summary": "Tại kè chắn sóng cửa sông Dương Đông thuộc đặc khu Phú Quốc sẽ diễn ra chương trình bắn pháo hoa mừng kỷ niệm 80 năm Cách mạng tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:13:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264395+07:00"
+    },
+    {
+      "id": "5871187c7c671359048a669f5363ec3a",
+      "title": "Xe khách bốc cháy sau va chạm xe bồn, 76 người thiệt mạng",
+      "link": "https://vnexpress.net/xe-khach-boc-chay-sau-va-cham-xe-bon-76-nguoi-thiet-mang-4929300.html",
+      "summary": "Xe khách bốc cháy sau khi va chạm với xe máy và xe bồn chở xăng ở tỉnh Herat, khiến 76 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:09:41+07:00",
+      "fetched": "2025-08-20T19:34:35.742617+07:00"
+    },
+    {
+      "id": "5871187c7c671359048a669f5363ec3a",
+      "title": "Xe khách bốc cháy sau va chạm xe bồn, 76 người thiệt mạng",
+      "link": "https://vnexpress.net/xe-khach-boc-chay-sau-va-cham-xe-bon-76-nguoi-thiet-mang-4929300.html",
+      "summary": "Xe khách bốc cháy sau khi va chạm với xe máy và xe bồn chở xăng ở tỉnh Herat, khiến 76 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T12:09:41+07:00",
+      "fetched": "2025-08-20T19:34:41.812352+07:00"
+    },
+    {
+      "id": "52e71d85bb9c5afc44ee88611f965765",
+      "title": "21 'quái xế' dàn hàng ngang, lạng lách ở TP HCM bị khởi tố",
+      "link": "https://vnexpress.net/21-quai-xe-dan-hang-ngang-lang-lach-o-tp-hcm-bi-khoi-to-4929496.html",
+      "summary": "Hàng chục thanh thiếu niên chạy tốc độ cao, lạng lách, đánh võng, dàn hàng ngang trên đường ở xã Phước Hải (Bà Rịa -Vũng Tàu cũ) bị cảnh sát vây bắt, khởi tố 21 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:04:03+07:00",
+      "fetched": "2025-08-20T19:34:35.742781+07:00"
+    },
+    {
+      "id": "49f4124c365fceb75fe61a7f6ce776a2",
+      "title": "So sánh hai kịch bản di chuyển đến sân bay Long Thành và Tân Sơn Nhất",
+      "link": "https://vnexpress.net/so-sanh-hai-kich-ban-di-chuyen-den-san-bay-long-thanh-va-tan-son-nhat-4929434.html",
+      "summary": "Sân bay Long Thành dự kiến khai thác từ năm 2026 với hai kịch bản chuyến bay quốc tế, kèm theo các bài toán về thời gian, chi phí, kết nối giao thông...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:11+07:00",
+      "fetched": "2025-08-20T19:34:35.742979+07:00"
+    },
+    {
+      "id": "3e18faef293967529b5ce5b622c252bc",
+      "title": "Những cơn mưa động vật kỳ lạ",
+      "link": "https://vnexpress.net/nhung-con-mua-dong-vat-ky-la-4929425.html",
+      "summary": "Mưa động vật bao gồm các trường hợp như cá, ếch, nhện, thậm chí chim bị cuốn lên bởi ngoại lực và rơi xuống cách xa nơi sinh sống của chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:35.743145+07:00"
+    },
+    {
+      "id": "a99141eb26b34dc23565d8d44a13c82e",
+      "title": "Có con sau cắt hai vòi trứng nhờ thụ tinh ống nghiệm",
+      "link": "https://vnexpress.net/co-con-sau-cat-hai-voi-trung-nho-thu-tinh-ong-nghiem-4929467.html",
+      "summary": "Chị Dương nhiều lần mang thai ngoài tử cung phải phẫu thuật cắt cả hai vòi trứng, sau đó thụ tinh ống nghiệm sinh con ở tuổi 36.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:35.743299+07:00"
+    },
+    {
+      "id": "c3985c12947524a1ea604a55c901be43",
+      "title": "5 dấu hiệu cảnh báo cần khám nội tiết",
+      "link": "https://vnexpress.net/5-dau-hieu-canh-bao-can-kham-noi-tiet-4929309.html",
+      "summary": "Thường xuyên cáu gắt, khó chịu, thay đổi cân nặng đột ngột có thể là dấu hiệu nội tiết tố bị ảnh hưởng do suy giáp hay mất cân bằng tuyến thượng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:35.743459+07:00"
+    },
+    {
+      "id": "2bd50082ab454d0f35322c50f6fbe207",
+      "title": "Number 1 trao hơn 9,5 tỷ đồng, tìm khách hàng trúng giải lớn",
+      "link": "https://vnexpress.net/number-1-trao-hon-9-5-ty-dong-tim-khach-hang-trung-giai-lon-4929144.html",
+      "summary": "Number 1 trao hơn 866.668 giải với tổng giá trị 9,5 tỷ đồng, đồng thời tìm chủ nhân các giải nhất, nhì, ba... chưa liên hệ nhận thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:35.743615+07:00"
+    },
+    {
+      "id": "7c6ea484cf6370030800ebe40db53528",
+      "title": "Công an TP.HCM khởi tố 21 thanh niên lạng lách, đánh võng, dàn hàng ngang trên đường",
+      "link": "https://thanhnien.vn/cong-an-tphcm-khoi-to-21-thanh-nien-lang-lach-danh-vong-dan-hang-ngang-tren-duong-185250820184452699.htm",
+      "summary": "Công an TP.HCM vừa khởi tố vụ án gây rối trật tự công cộng liên quan hàng chục thanh niên chạy xe lạng lách ở xã Phước Hải (tỉnh Bà Rịa - Vũng Tàu cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264546+07:00"
+    },
+    {
+      "id": "3e18faef293967529b5ce5b622c252bc",
+      "title": "Những cơn mưa động vật kỳ lạ",
+      "link": "https://vnexpress.net/nhung-con-mua-dong-vat-ky-la-4929425.html",
+      "summary": "Mưa động vật bao gồm các trường hợp như cá, ếch, nhện, thậm chí chim bị cuốn lên bởi ngoại lực và rơi xuống cách xa nơi sinh sống của chúng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-20T12:00:00+07:00",
+      "fetched": "2025-08-20T19:34:47.114036+07:00"
+    },
+    {
+      "id": "c9774192bce57acea56664e32f724ddd",
+      "title": "Xổ số miền Nam ngày 20 tháng 8: Đại lý đổi thưởng 28 tờ trúng số",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-20-thang-8-dai-ly-doi-thuong-28-to-trung-so-185250820185040967.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 20 tháng 8, đại lý vé số ở Vĩnh Long liền đổi 28 tờ trúng số cho khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:57:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264694+07:00"
+    },
+    {
+      "id": "466c25d5a45fda52973bfe2ccd206a4c",
+      "title": "Năm học mới tại TP.HCM: Chương trình nhà trường phải có tối thiểu 2 lựa chọn",
+      "link": "https://thanhnien.vn/nam-hoc-moi-tai-tphcm-chuong-trinh-nha-truong-phai-co-toi-thieu-2-lua-chon-185250820180022279.htm",
+      "summary": "Bắt đầu từ năm học 2025-2026, năm học đầu tiên sau sáp nhập với tỉnh Bình Dương và tỉnh Bà Rịa-Vũng Tàu trước đây, TP.HCM triển khai việc thực hiện chương trình nhà trường với các quy định về nội dung và học phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:52:00+07:00",
+      "fetched": "2025-08-20T19:34:39.264841+07:00"
+    },
+    {
+      "id": "147ad539dfed1a261855913d4fccab34",
+      "title": "Nữ thần màn ảnh Alicia Silverstone hé lộ lý do rời Hollywood thời đỉnh cao",
+      "link": "https://thanhnien.vn/nu-than-man-anh-alicia-silverstone-he-lo-ly-do-roi-hollywood-thoi-dinh-cao-185250820182655333.htm",
+      "summary": "Từng là nữ thần màn ảnh Hollywood thập niên 1990, Alicia Silverstone quyết định gác lại sự nghiệp rực rỡ để tập trung vào hoạt động xã hội và thiên chức làm mẹ. Mới đây, mỹ nhân phim 'Clueless' thẳng thắn nói lý do khiến cô chọn rời đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:46:00+07:00",
+      "fetched": "2025-08-20T19:34:39.265012+07:00"
+    },
+    {
+      "id": "d678e945b66b1d1019773c398b6fd090",
+      "title": "Hai chị em dương tính với cần sa sau ăn kẹo lạ",
+      "link": "https://vnexpress.net/hai-chi-em-duong-tinh-voi-can-sa-sau-an-keo-la-4929487.html",
+      "summary": "Hai chị em 22 và 9 tuổi nhập viện vì hoảng loạn run tay chân sau khi ăn loại kẹo không nhãn mác, xét nghiệm dương tính với chất kích thích Marijuana (cần sa).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:44:48+07:00",
+      "fetched": "2025-08-20T19:34:35.743766+07:00"
+    },
+    {
+      "id": "d6ab5fb1d743d90998b5c4b30497ab46",
+      "title": "2 chị em ngộ độc cần sa sau khi ăn kẹo dẻo không nhãn mác",
+      "link": "https://thanhnien.vn/2-chi-em-ngo-doc-can-sa-sau-khi-an-keo-deo-khong-nhan-mac-185250820183734375.htm",
+      "summary": "2 chị em ở TP.HCM  nhập viện vì ngộ độc cần sa sau khi ăn kẹo dẻo không nhãn mác. Bác sĩ cảnh báo nguy cơ từ thực phẩm không rõ nguồn gốc, đặc biệt với trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:44:00+07:00",
+      "fetched": "2025-08-20T19:34:39.265166+07:00"
+    },
+    {
+      "id": "9c13bea749834f30d20191126e1a7746",
+      "title": "Doanh nghiệp tại Đà Nẵng được khuyến khích ẩn danh phản ánh tiêu cực",
+      "link": "https://vnexpress.net/doanh-nghiep-tai-da-nang-duoc-khuyen-khich-an-danh-phan-anh-tieu-cuc-4929481.html",
+      "summary": "Các tổ chức, doanh nghiệp có thể ẩn danh phản ánh hành vi thiếu chuẩn mực của cán bộ, công chức trong thực thi công vụ, nhằm \"nói không với tiêu cực\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:39:15+07:00",
+      "fetched": "2025-08-20T19:34:35.743944+07:00"
+    },
+    {
+      "id": "9c13bea749834f30d20191126e1a7746",
+      "title": "Doanh nghiệp tại Đà Nẵng được khuyến khích ẩn danh phản ánh tiêu cực",
+      "link": "https://vnexpress.net/doanh-nghiep-tai-da-nang-duoc-khuyen-khich-an-danh-phan-anh-tieu-cuc-4929481.html",
+      "summary": "Các tổ chức, doanh nghiệp có thể ẩn danh phản ánh hành vi thiếu chuẩn mực của cán bộ, công chức trong thực thi công vụ, nhằm \"nói không với tiêu cực\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T11:39:15+07:00",
+      "fetched": "2025-08-20T19:34:43.901266+07:00"
+    },
+    {
+      "id": "4899d9c65419ebfae643bae7ca11441e",
+      "title": "Cựu đệ nhất phu nhân Hàn Quốc được so sánh với Từ Hy Thái Hậu",
+      "link": "https://thanhnien.vn/cuu-de-nhat-phu-nhan-han-quoc-duoc-so-sanh-voi-tu-hy-thai-hau-185250820172623441.htm",
+      "summary": "Bê bối trang sức xa xỉ của cựu đệ nhất phu nhân Hàn Quốc Kim Keon Hee đang làm rúng động dư luận, gợi nhớ đến hình ảnh Từ Hy Thái Hậu với niềm say mê châu báu và quyền lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:38:00+07:00",
+      "fetched": "2025-08-20T19:34:39.265321+07:00"
+    },
+    {
+      "id": "ba99db6d050e3e519aa439a0395b3e1a",
+      "title": "Ông Trump nói lãnh đạo Nga, Ukraine nên gặp riêng",
+      "link": "https://vnexpress.net/ong-trump-noi-lanh-dao-nga-ukraine-nen-gap-rieng-4929478.html",
+      "summary": "Tổng thống Trump nói sẽ tốt hơn nếu ông không tham gia cuộc gặp giữa lãnh đạo Nga và Ukraine, để họ tự đàm phán về thỏa thuận hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:36:47+07:00",
+      "fetched": "2025-08-20T19:34:35.744103+07:00"
+    },
+    {
+      "id": "ba99db6d050e3e519aa439a0395b3e1a",
+      "title": "Ông Trump nói lãnh đạo Nga, Ukraine nên gặp riêng",
+      "link": "https://vnexpress.net/ong-trump-noi-lanh-dao-nga-ukraine-nen-gap-rieng-4929478.html",
+      "summary": "Tổng thống Trump nói sẽ tốt hơn nếu ông không tham gia cuộc gặp giữa lãnh đạo Nga và Ukraine, để họ tự đàm phán về thỏa thuận hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T11:36:47+07:00",
+      "fetched": "2025-08-20T19:34:41.812514+07:00"
+    },
+    {
+      "id": "da2a6944c764fc9ffa131b7a74dfda93",
+      "title": "Thành ủy TP.HCM lấy ý kiến các tổ chức chính trị - xã hội góp ý dự thảo văn kiện Đại hội Đảng",
+      "link": "https://thanhnien.vn/thanh-uy-tphcm-lay-y-kien-cac-to-chuc-chinhtri-xa-hoi-gop-y-du-thao-van-kien-dai-hoi-dang-185250820180907422.htm",
+      "summary": "Các tổ chức chính trị - xã hội tại TP.HCM tham gia đóng góp nhiều ý kiến quan trọng về dự thảo các văn kiện trình Đại hội XIV của Đảng và dự thảo báo cáo chính trị trình Đại hội Đảng bộ TP.HCM lần thứ 1, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:34:00+07:00",
+      "fetched": "2025-08-20T19:34:39.265471+07:00"
+    },
+    {
+      "id": "381a8868b04a36ba2b4801141fe6f6c0",
+      "title": "Tập đoàn AEON mở trung tâm thương mại đầu tiên tại Đồng bằng sông Cửu Long",
+      "link": "https://thanhnien.vn/tap-doan-aeon-mo-trung-tam-thuong-mai-dau-tien-tai-dong-bang-song-cuu-long-185250820175948644.htm",
+      "summary": "Tập đoàn AEON tại Việt Nam sắp đưa trung tâm thương mại đầu tiên tại khu vực Đồng bằng sông Cửu Long đi vào hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:34:00+07:00",
+      "fetched": "2025-08-20T19:34:39.265615+07:00"
+    },
+    {
+      "id": "8670bb571bed4c39452a1415f72e2c98",
+      "title": "Masterise Group tăng vốn, lấn sân mảng hàng không",
+      "link": "https://vnexpress.net/masterise-group-tang-von-lan-san-mang-hang-khong-4929482.html",
+      "summary": "Masterise Group vừa tăng vốn gấp gần 6 lần lên hơn 35.227 tỷ đồng và bổ sung một số ngành nghề kinh doanh trong mảng hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:27:47+07:00",
+      "fetched": "2025-08-20T19:34:35.744261+07:00"
+    },
+    {
+      "id": "8670bb571bed4c39452a1415f72e2c98",
+      "title": "Masterise Group tăng vốn, lấn sân mảng hàng không",
+      "link": "https://vnexpress.net/masterise-group-tang-von-lan-san-mang-hang-khong-4929482.html",
+      "summary": "Masterise Group vừa tăng vốn gấp gần 6 lần lên hơn 35.227 tỷ đồng và bổ sung một số ngành nghề kinh doanh trong mảng hàng không.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T11:27:47+07:00",
+      "fetched": "2025-08-20T19:34:43.901436+07:00"
+    },
+    {
+      "id": "47fbbf674261092dd9e5a32dcce1520e",
+      "title": "Phương tiện giúp dập đám cháy trong ngõ sâu ở Hà Nội",
+      "link": "https://vnexpress.net/phuong-tien-giup-dap-dam-chay-trong-ngo-sau-o-ha-noi-4929432.html",
+      "summary": "Xe kéo vòi chữa cháy được Đội Chữa cháy và cứu nạn cứu hộ khu vực số 16 chế tạo giúp rút ngắn thời gian tiếp cận những đám cháy nằm trong ngõ sâu của Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:21:18+07:00",
+      "fetched": "2025-08-20T19:34:35.744416+07:00"
+    },
+    {
       "id": "78a69c5f3fd8a60fd6748b40b2543981",
       "title": "Webtoon thời 'cuộn dọc' thích hợp đọc nhanh trên điện thoại di động",
       "link": "https://tuoitre.vn/webtoon-thoi-cuon-doc-thich-hop-doc-nhanh-tren-dien-thoai-di-dong-20250820035200675.htm",
@@ -541,6 +1031,26 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T11:20:41.186695+07:00",
       "fetched": "2025-08-20T11:20:41.186902+07:00"
+    },
+    {
+      "id": "1366cbfa292bd0d7038e50e90b6f4cc6",
+      "title": "Múc nước mưa ở nhà hàng xóm có thể bị coi là ăn trộm ở Đức",
+      "link": "https://vnexpress.net/muc-nuoc-mua-o-nha-hang-xom-co-the-bi-coi-la-an-trom-o-duc-4929451.html",
+      "summary": "Người phụ nữ 51 tuổi đang bị cảnh sát điều tra với cáo buộc hai lần cầm bình tưới cây lấy nước mưa từ thùng chứa của nhà hàng xóm, gây thiệt hại khoảng 0,15 euro (5.000 đồng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:05:12+07:00",
+      "fetched": "2025-08-20T19:34:35.744582+07:00"
+    },
+    {
+      "id": "bc15b704b967e904d82c2bc99682a6f6",
+      "title": "Bệnh viện ngập nước triều cường 'lột xác' thành cơ sở y tế hiện đại",
+      "link": "https://vnexpress.net/benh-vien-ngap-nuoc-trieu-cuong-lot-xac-thanh-co-so-y-te-hien-dai-4929276.html",
+      "summary": "Bệnh viện An Bình 14 tầng khang trang bắt đầu hoạt động từ ngày 20/8, chấm dứt cảnh bác sĩ cùng bệnh nhân phải lội nước mỗi khi triều cường và thấm dột khi mưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:01:34+07:00",
+      "fetched": "2025-08-20T19:34:35.744740+07:00"
     },
     {
       "id": "ded333bcd2bd54651c8529cd7a55f92c",
