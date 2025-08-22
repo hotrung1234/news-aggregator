@@ -1,6 +1,6 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T01:23:15.042254+07:00",
+  "lastUpdated": "2025-08-23T03:18:12.756830+07:00",
   "articles": [
     {
       "id": "ed0604552eb298bcd45f5ce086ac8510",
@@ -151,6 +151,26 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T01:23:06.208650+07:00",
       "fetched": "2025-08-23T01:23:06.208808+07:00"
+    },
+    {
+      "id": "742d482c709c6266327b0fdec11a454b",
+      "title": "Thu nhập hơn 30.000 USD mỗi tháng mới đủ trả góp mua nhà ở quận Cam",
+      "link": "https://vnexpress.net/thu-nhap-hon-30-000-usd-moi-thang-moi-du-tra-gop-mua-nha-o-quan-cam-4930242.html",
+      "summary": "Mỗi gia đình quận Cam, bang California cần có thu nhập hơn 30.000 USD/tháng để trả góp mua căn nhà tầm trung, tăng 25% so với năm 2022.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T19:00:00+07:00",
+      "fetched": "2025-08-23T03:18:03.423398+07:00"
+    },
+    {
+      "id": "742d482c709c6266327b0fdec11a454b",
+      "title": "Thu nhập hơn 30.000 USD mỗi tháng mới đủ trả góp mua nhà ở quận Cam",
+      "link": "https://vnexpress.net/thu-nhap-hon-30-000-usd-moi-thang-moi-du-tra-gop-mua-nha-o-quan-cam-4930242.html",
+      "summary": "Mỗi gia đình quận Cam, bang California cần có thu nhập hơn 30.000 USD/tháng để trả góp mua căn nhà tầm trung, tăng 25% so với năm 2022.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T19:00:00+07:00",
+      "fetched": "2025-08-23T03:18:08.118035+07:00"
     },
     {
       "id": "80cff291cf41442013d4dcdabc3df043",
