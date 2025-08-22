@@ -1,7 +1,157 @@
 window.newsData_2025_08_22 = {
   "date": "2025-08-22",
-  "lastUpdated": "2025-08-22T13:25:28.283298+07:00",
+  "lastUpdated": "2025-08-22T15:22:08.767841+07:00",
   "articles": [
+    {
+      "id": "94241d32ca44f875f1d7209a5c924766",
+      "title": "Thủy điện lớn nhất Bắc Trung Bộ xả nước trước bão số 5",
+      "link": "https://tuoitre.vn/thuy-dien-lon-nhat-bac-trung-bo-xa-nuoc-truoc-bao-so-5-20250822134819694.htm",
+      "summary": "Trước dự báo sẽ có một đợt mưa lớn do ảnh hưởng của cơn bão số 5 (Kajiki), thủy điện Bản Vẽ, Nghệ An đang xả nước ngày 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.905457+07:00",
+      "fetched": "2025-08-22T15:22:00.905575+07:00"
+    },
+    {
+      "id": "408a966b1a00b68e476da4de5fdd93ef",
+      "title": "Vì Tuổi Trẻ luôn đau đáu với từng phận người",
+      "link": "https://tuoitre.vn/vi-tuoi-tre-luon-dau-dau-voi-tung-phan-nguoi-20250814105249246.htm",
+      "summary": "40 năm trước, cứ 10h sáng mỗi ngày, báo Tuổi Trẻ ra, tôi lại ngóng chiếc xe đi từ bến xe Miền Đông lên vùng kinh tế mới của Sông Bé ngày ấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.905316+07:00",
+      "fetched": "2025-08-22T15:22:00.905442+07:00"
+    },
+    {
+      "id": "e6c91f8a084d3cdd4c28f5615021c6b0",
+      "title": "Từ năm 2026 các cuộc gọi dài hơn 10 phút ở Anh sẽ bị ghi âm?",
+      "link": "https://tuoitre.vn/tu-nam-2026-cac-cuoc-goi-dai-hon-10-phut-o-anh-se-bi-ghi-am-20250822122323881.htm",
+      "summary": "Tin giả lan truyền rằng từ ngày 1-1-2026, cuộc gọi trên 10 phút ở Anh sẽ bị ghi âm, nhưng cơ quan quản lý và tổ chức kiểm chứng bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.905193+07:00",
+      "fetched": "2025-08-22T15:22:00.905305+07:00"
+    },
+    {
+      "id": "0430113bf861054b9b17fbf9c055d25b",
+      "title": "Không chỉ nghe - nhìn - nói, AI giờ đây còn ngửi được mùi",
+      "link": "https://tuoitre.vn/khong-chi-nghe-nhin-noi-ai-gio-day-con-ngui-duoc-mui-20250822114337195.htm",
+      "summary": "Không chỉ nghe, nhìn, nói, AI giờ đây còn có thể “ngửi mùi”. Công nghệ khứu giác số mở ra ứng dụng từ y tế hơi thở, kiểm định thực phẩm, đến tạo ra những hương nước hoa độc bản chỉ trong vài cú nhấp chuột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.905065+07:00",
+      "fetched": "2025-08-22T15:22:00.905181+07:00"
+    },
+    {
+      "id": "e391b27aad317913cd17974a3f384ec9",
+      "title": "Từ núi xuống biển, đoàn xe Skoda vượt 300km thử thách đường lầy lội, đèo núi",
+      "link": "https://tuoitre.vn/tu-nui-xuong-bien-doan-xe-skoda-vuot-300km-thu-thach-duong-lay-loi-deo-nui-20250822074309806.htm",
+      "summary": "Bất chấp điều kiện thời tiết không thuận lợi, đoàn xe Skoda đã hoàn thành quãng đường hơn 300km từ Buôn Ma Thuột đến Quy Nhơn, khép lại ngày thứ ba của hành trình “Từ Độc Lập tới Thống Nhất” mà không gặp sự cố nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904923+07:00",
+      "fetched": "2025-08-22T15:22:00.905054+07:00"
+    },
+    {
+      "id": "9362c4e859dcdc214c768f55df170593",
+      "title": "Trường đầu tiên của Đại học Quốc gia Hà Nội công bố điểm chuẩn, cao nhất 28,19",
+      "link": "https://tuoitre.vn/truong-dau-tien-cua-dai-hoc-quoc-gia-ha-noi-cong-bo-diem-chuan-cao-nhat-28-19-202508200954309.htm",
+      "summary": "Trường đại học Công nghệ công bố duy nhất một đầu điểm chuẩn cho mỗi ngành, dao động 22 - 28,19 điểm, tăng so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904800+07:00",
+      "fetched": "2025-08-22T15:22:00.904912+07:00"
+    },
+    {
+      "id": "e42efe07bd693870857f2d9d53d3e2dd",
+      "title": "Triển lãm hàng trăm ảnh quý mừng Quốc khánh 2-9 ở Vũng Tàu",
+      "link": "https://tuoitre.vn/trien-lam-hang-tram-anh-quy-mung-quoc-khanh-2-9-o-vung-tau-20250822121459343.htm",
+      "summary": "Triển lãm ảnh 'Từ kỷ nguyên độc lập, thống nhất đất nước đến kỷ nguyên vươn mình của dân tộc' khai mạc tại phường Vũng Tàu, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904679+07:00",
+      "fetched": "2025-08-22T15:22:00.904789+07:00"
+    },
+    {
+      "id": "7ad7e1364291d816dfafea7eb1655577",
+      "title": "Việt Nam sắp phát sóng kênh truyền hình đối ngoại Vietnam Today",
+      "link": "https://tuoitre.vn/viet-nam-sap-phat-song-kenh-truyen-hinh-doi-ngoai-vietnam-today-20250822141048303.htm",
+      "summary": "Kênh truyền hình đối ngoại bằng tiếng Anh đầu tiên của Việt Nam sẽ phát sóng 24/7 từ ngày 7-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904553+07:00",
+      "fetched": "2025-08-22T15:22:00.904667+07:00"
+    },
+    {
+      "id": "b40530983b33c71e6aecea270a34904a",
+      "title": "Có tới 4 loài hươu cao cổ chứ không phải 1",
+      "link": "https://tuoitre.vn/co-toi-4-loai-huou-cao-co-chu-khong-phai-1-20250822134854186.htm",
+      "summary": "Hươu cao cổ vừa được các nhà khoa học phân loại lại thành 4 loài riêng biệt, sau nhiều năm được coi là một loài duy nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904425+07:00",
+      "fetched": "2025-08-22T15:22:00.904541+07:00"
+    },
+    {
+      "id": "e89f1b1a4243bb2971e5d8bc1c600be8",
+      "title": "Cho thuê đất 4 USD/m², ghi hợp đồng 3 USD/m², dùng tiền trục lợi đi hối lộ",
+      "link": "https://tuoitre.vn/cho-thue-dat-4-usd-m2-ghi-hop-dong-3-usd-m2-dung-tien-truc-loi-di-hoi-lo-20250822135625139.htm",
+      "summary": "Lãnh đạo CIPCO chỉ đạo hợp đồng cho thuê đất giá 4 USD/m²/năm nhưng chỉ ghi 3 USD/m²/năm, dùng số tiền trục lợi này đi hối lộ các quan chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904297+07:00",
+      "fetched": "2025-08-22T15:22:00.904413+07:00"
+    },
+    {
+      "id": "af5b751159dde4091d34609b8dccc700",
+      "title": "Đối thủ tiếp theo của YouTuber Jake Paul là nhà vô địch bất bại",
+      "link": "https://tuoitre.vn/doi-thu-tiep-theo-cua-youtuber-jake-paul-la-nha-vo-dich-bat-bai-20250822141427253.htm",
+      "summary": "Youtuber Jake Paul sẽ có trận đấu biểu diễn với nhà vô địch hạng nhẹ WBA Gervonta Davis tại State Farm Arena (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904168+07:00",
+      "fetched": "2025-08-22T15:22:00.904285+07:00"
+    },
+    {
+      "id": "ece128a8270680be81bcbef70860f32b",
+      "title": "Bán bóng cười, 10 nhân viên 90'S House Lounge bị bắt giam",
+      "link": "https://tuoitre.vn/ban-bong-cuoi-10-nhan-vien-90-s-house-lounge-bi-bat-giam-20250822121034299.htm",
+      "summary": "Phòng Cảnh sát kinh tế Công an TP.HCM đã khởi tố, bắt tạm giam 10 người là quản lý, nhân viên 90'S House Lounge vì bán bóng cười.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.904029+07:00",
+      "fetched": "2025-08-22T15:22:00.904156+07:00"
+    },
+    {
+      "id": "5ea5b5b59b80bf607d6f08e477af9e47",
+      "title": "Mùa hè xanh HUTECH 2025: Hành trình người trẻ đi gieo mầm yêu thương",
+      "link": "https://tuoitre.vn/mua-he-xanh-hutech-2025-hanh-trinh-nguoi-tre-di-gieo-mam-yeu-thuong-20250821165403987.htm",
+      "summary": "Giữa nhịp sống hiện đại với rất nhiều lo toan, không ít bạn trẻ vẫn dành thời gian cho hành trình sống ý nghĩa: sống để cống hiến, để sẻ chia, để trao đi yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.903881+07:00",
+      "fetched": "2025-08-22T15:22:00.904015+07:00"
+    },
+    {
+      "id": "22c361506132047ad940b2bc7110b80c",
+      "title": "Nhiều kỳ vọng với Sở Ngoại vụ TP.HCM ở tuổi 50",
+      "link": "https://tuoitre.vn/su-menh-cua-so-ngoai-vu-trong-ki-nguyen-moi-20250822125106929.htm",
+      "summary": "Bộ Ngoại giao cùng UBND TP.HCM tổ chức Lễ kỷ niệm 80 năm thành lập ngành ngoại giao Việt Nam và 50 năm thành lập Sở Ngoại vụ TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.903735+07:00",
+      "fetched": "2025-08-22T15:22:00.903868+07:00"
+    },
+    {
+      "id": "396eb5c285b85ebc791cb8b73456467c",
+      "title": "Chạy thử nghiệm cấp điện bằng cáp ngầm xuyên biển ra Côn Đảo",
+      "link": "https://tuoitre.vn/chay-thu-nghiem-cap-dien-bang-cap-ngam-xuyen-bien-ra-con-dao-20250822135932927.htm",
+      "summary": "Sau bao năm chờ đợi, dòng điện đầu tiên từ lưới điện quốc gia sẽ được nối ra đặc khu Côn Đảo bằng hệ thống cáp ngầm xuyên biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:00.903498+07:00",
+      "fetched": "2025-08-22T15:22:00.903720+07:00"
+    },
     {
       "id": "4b197950ba19e31cdea63b1412ee3a80",
       "title": "Ăn kẹo dẻo, hai chị em dương tính cần sa: Cảnh báo ma túy 'ngụy trang' thực phẩm",
@@ -403,6 +553,16 @@ window.newsData_2025_08_22 = {
       "fetched": "2025-08-22T10:06:01.555155+07:00"
     },
     {
+      "id": "2dd7a998c86a38a3a7142cd9293a1133",
+      "title": "Công ty cổ phần SX-TM-DV Ô tô PTM chính thức khai trương giao dịch trên sàn UPCoM",
+      "link": "https://thanhnien.vn/cong-ty-co-phan-sx-tm-dv-o-to-ptm-chinh-thuc-khai-truong-giao-dich-tren-san-upcom-185250822151515514.htm",
+      "summary": "Hà Nội, ngày 22.8.2025 - Công ty cổ phần Sản xuất - Thương mại và Dịch vụ Ô tô PTM (sau đây gọi tắt là PTM) chính thức khai trương phiên giao dịch đầu tiên trên sàn UPCoM - Sở Giao dịch chứng khoán Hà Nội (HNX).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:18:00+07:00",
+      "fetched": "2025-08-22T15:21:59.508698+07:00"
+    },
+    {
       "id": "10a62bdf334d19f20d96ad4585bff978",
       "title": "Lịch trực tiếp vòng 2 V-League 2025-2026: Thể Công - Viettel đấu Công An TP.HCM",
       "link": "https://tuoitre.vn/lich-truc-tiep-vong-2-v-league-2025-2026-the-cong-viettel-dau-cong-an-tp-hcm-20250821161826842.htm",
@@ -553,6 +713,336 @@ window.newsData_2025_08_22 = {
       "fetched": "2025-08-22T08:16:44.412263+07:00"
     },
     {
+      "id": "ff41b0dcc33f9ba35e5421d0b69eaeba",
+      "title": "Israel đàm phán nhưng dồn quân chuẩn bị kiểm soát Gaza, xóa sổ Hamas",
+      "link": "https://thanhnien.vn/israel-dam-phan-nhung-don-quan-chuan-bi-kiem-soat-gaza-xoa-so-hamas-185250822130932654.htm",
+      "summary": "Thủ tướng Benjamin Netanyahu hôm 21.8 cho biết Israel sẽ bắt đầu ngay các cuộc đàm phán nhằm trả tự do cho toàn bộ con tin đang bị giam giữ tại Gaza và chấm dứt cuộc chiến kéo dài gần hai năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:14:00+07:00",
+      "fetched": "2025-08-22T15:21:59.508874+07:00"
+    },
+    {
+      "id": "678ff79e5a72b649565ba29cfcd84128",
+      "title": "T.Ư Đoàn tiếp đoàn đại biểu Ban Thanh niên, Đảng LDP Nhật Bản",
+      "link": "https://thanhnien.vn/tu-doan-tiep-doan-dai-bieu-ban-thanh-nien-dang-ldp-nhat-ban-185250822144258367.htm",
+      "summary": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy tin tưởng rằng cuộc gặp hôm nay sẽ góp phần tăng cường hiểu biết của hai bên về tổ chức, hoạt động và vai trò của thanh niên hai nước Việt Nam - Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:12:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509052+07:00"
+    },
+    {
+      "id": "28798db09e42aa09e414f1c1cf713f46",
+      "title": "Bên trong nơi diễn ra triển lãm thành tựu 80 năm Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/ben-trong-noi-dien-ra-trien-lam-thanh-tuu-80-nam-quoc-khanh-29-185250822125301055.htm",
+      "summary": "Chỉ còn vài ngày trước khi sự kiện triển lãm '80 năm hành trình Độc lập - Tự do - Hạnh phúc' nhân Quốc khánh 2.9 chính thức khai mạc, không khí bên trong Trung tâm Hội chợ Triển lãm Quốc gia rộng 900.000 m² trở nên vô cùng sôi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:12:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509230+07:00"
+    },
+    {
+      "id": "845460ab40208199a13c2b8b994a00d0",
+      "title": "Điểm chuẩn Trường ĐH Công thương TP.HCM: 16 ngành từ 23 trở lên",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-cong-thuong-tphcm-16-nganh-tu-23-tro-len-185250822124707628.htm",
+      "summary": "Điểm chuẩn Trường ĐH Công thương TP.HCM xét điểm thi tốt nghiệp THPT năm nay dao động 17 đến 24,5. Trong đó, có 16 ngành điểm chuẩn từ 23 trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:10:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509442+07:00"
+    },
+    {
+      "id": "7b045f5a4f3b4b7fa0e833935be5d153",
+      "title": "Người phụ nữ 'xanh' ở xã đảo Minh Châu",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-xanh-o-xa-dao-minh-chau-185250822092346107.htm",
+      "summary": "Trong hành trình xây dựng nông thôn mới nâng cao, xã Minh Châu (TP.Hà Nội) xác định tiêu chí môi trường là một trong những nội dung còn nhiều thách thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:10:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509618+07:00"
+    },
+    {
+      "id": "b5b9f5d76b52a3d8e6a5502e8f462376",
+      "title": "Đưa vào vận hành kỹ thuật Hue Plaza - điểm đến mới tại Huế",
+      "link": "https://thanhnien.vn/dua-vao-van-hanh-ky-thuat-hue-plaza-diem-den-moi-tai-hue-185250822125643704.htm",
+      "summary": "Nằm ngay vị trí 'đất vàng' của TP.Huế, sau thời gian nỗ lực đầu tư xây dựng, Hue Plaza của Tập đoàn Vietravel đã đưa vào vận hành kỹ thuật, đánh dấu giai đoạn hoàn tất xây dựng và vận hành kỹ thuật, sẵn sàng trở thành điểm nhấn mới cho du lịch cố đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:06:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509778+07:00"
+    },
+    {
+      "id": "3ab0847245ea1b46455024cfad65dacd",
+      "title": "Khách Nga ùn ùn quay lại, du lịch Khánh Hòa thắng đậm",
+      "link": "https://thanhnien.vn/khach-nga-un-un-quay-lai-du-lich-khanh-hoa-thang-dam-185250822103210909.htm",
+      "summary": "Du lịch Khánh Hòa ghi nhận mùa hè thành công rực rỡ với doanh thu 8 tháng đầu năm ước đạt gần 50.586 tỉ đồng, trong đó việc đa dạng hóa sản phẩm từ trải nghiệm văn hóa đến du thuyền cao cấp đang tạo nên những đột phá mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:05:00+07:00",
+      "fetched": "2025-08-22T15:21:59.509934+07:00"
+    },
+    {
+      "id": "3dfbe8f5c755804cee5c2a7f9166b2c4",
+      "title": "Gia Lai: Xe tải mất thắng tông chết 18 con bò",
+      "link": "https://thanhnien.vn/gia-lai-xe-tai-mat-thang-tong-chet-18-con-bo-185250822140719241.htm",
+      "summary": "Công an xã Ia Phí (Gia Lai) ngày 22.8 cho biết, trên địa bàn xã vừa xảy ra vụ xe tải tông đàn bò của người dân khiến 18 con bò chết tại chỗ, thiệt hại hàng trăm triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:04:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510105+07:00"
+    },
+    {
+      "id": "c6ae789a2ecf2c4240957fed2551e12c",
+      "title": "Mở bán thêm loại vé mới cho giải Liên minh huyền thoại LCP 2025",
+      "link": "https://vnexpress.net/mo-ban-them-loai-ve-moi-cho-giai-lien-minh-huyen-thoai-lcp-2025-4930116.html",
+      "summary": "Khán giả và fan ngoài combo nay có thể mua lẻ vé xem thi đấu chung kết LCP 2025 trong một hoặc cả hai ngày 20-21/9, mở bán từ 15h ngày 22/8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-22T08:04:00+07:00",
+      "fetched": "2025-08-22T15:22:07.242860+07:00"
+    },
+    {
+      "id": "725fc3040c71744b3c20f8c2243fc135",
+      "title": "Muốn đầu tư điện sạch cũng khó vì chạy theo các giấy phép",
+      "link": "https://thanhnien.vn/muon-dau-tu-dien-sach-cung-kho-vi-chay-theo-cac-giay-phep-185250822113740053.htm",
+      "summary": "Đây là thực trạng được đại diện doanh nghiệp chuyên đầu tư hệ thống điện năng lượng sạch chia sẻ tại Tọa đàm 'Giảm phát thải, lọc không khí' do Báo Thanh Niên tổ chức sáng nay (22.8).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:02:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510262+07:00"
+    },
+    {
+      "id": "216697630381f4666d22238ace22a309",
+      "title": "Nguồn điện nào cho cảng xanh?",
+      "link": "https://thanhnien.vn/nguon-dien-nao-cho-cang-xanh-185250822145056637.htm",
+      "summary": "Đó là vấn đề được ông Huỳnh Hiển - Giám đốc Đối ngoại, Công ty Huỳnh Thy, chuyên về logistics cảng biển và năng lượng, đặt ra tại tọa đàm \"Giảm phát thải, lọc không khí' do Báo Thanh Niên tổ chức sáng 22.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:00:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510411+07:00"
+    },
+    {
+      "id": "25969e5cc59934a13a068bd2e2f3eb1c",
+      "title": "Hoa hậu Bảo Ngọc: ‘Chiều cao 1,86 m là thế mạnh, phải khai thác cho tới’",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoa-hau-bao-ngoc-chieu-cao-186-m-la-the-manh-phai-khai-thac-cho-toi-185250822115613899.htm",
+      "summary": "Đang trong giai đoạn tất bật chuẩn bị cho hành trình đến với Miss World 2026, Hoa hậu Bảo Ngọc đã có những chia sẻ thú vị về phong cách thời trang của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T08:00:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510568+07:00"
+    },
+    {
+      "id": "43a73900d39e56c88b8caab012541719",
+      "title": "Hà Nội tổ chức 6 điểm bắn pháo hoa mừng Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/ha-noi-to-chuc-6-diem-ban-phao-hoa-mung-quoc-khanh-29-185250822133109802.htm",
+      "summary": "Hà Nội sẽ tổ chức 6 trận địa bắn pháo hoa tầm cao kết hợp tầm thấp tại 5 địa điểm vào 21 giờ ngày 2.9 nhằm chào mừng dịp Quốc khánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:58:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510723+07:00"
+    },
+    {
+      "id": "baa789aa896d27cbef3a79cd681d4f98",
+      "title": "Làm gì nếu giao tiếp cứ bị chê... nhạt?",
+      "link": "https://thanhnien.vn/lam-gi-neu-giao-tiep-cu-bi-che-nhat-18525082214573616.htm",
+      "summary": "Có những người trẻ khi giao tiếp bị nhận xét là \"nhạt\", \"thiếu muối\", không vui hay chưa đủ hài hước… Điều này ảnh hưởng nhiều đến cuộc sống, công việc của không ít người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:56:00+07:00",
+      "fetched": "2025-08-22T15:21:59.510880+07:00"
+    },
+    {
+      "id": "0af697ae46acca62237ba3c1bf50508b",
+      "title": "Nhiều ngành sức khỏe có điểm chuẩn bằng điểm sàn",
+      "link": "https://thanhnien.vn/nhieu-nganh-suc-khoe-co-diem-chuan-bang-diem-san-18525082214374649.htm",
+      "summary": "Hàng loạt ngành sức khỏe như y khoa, răng hàm mặt, dược... tại một trường ĐH có điểm chuẩn bằng với điểm sàn xét tuyển và bằng ngưỡng đảm bảo chất lượng đầu vào của Bộ GD-ĐT quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:55:00+07:00",
+      "fetched": "2025-08-22T15:21:59.511048+07:00"
+    },
+    {
+      "id": "ec51171eeeb57a4306515ed1a4f4f143",
+      "title": "Israel dọa hủy diệt Gaza City nếu Hamas không buông súng, thả con tin",
+      "link": "https://vnexpress.net/israel-doa-huy-diet-gaza-city-neu-hamas-khong-buong-sung-tha-con-tin-4930232.html",
+      "summary": "Bộ trưởng Quốc phòng Israel tuyên bố lực lượng nước này sẽ phá hủy thành phố lớn nhất Dải Gaza nếu Hamas không chịu buông vũ khí, thả con tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T07:53:50+07:00",
+      "fetched": "2025-08-22T15:22:02.810688+07:00"
+    },
+    {
+      "id": "6be101be877684da85e0b2d5dba2ed5c",
+      "title": "Muller: 'Messi là cầu thủ vĩ đại nhất mà bóng đá từng có'",
+      "link": "https://vnexpress.net/muller-messi-la-cau-thu-vi-dai-nhat-ma-bong-da-tung-co-4930147.html",
+      "summary": "Tiền đạo Đức Thomas Muller thừa nhận chuyển từ ủng hộ Cristiano Ronaldo sang Lionel Messi trong cuộc tranh luận về hai cầu thủ hàng đầu thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:34:59+07:00",
+      "fetched": "2025-08-22T15:21:56.546699+07:00"
+    },
+    {
+      "id": "6be101be877684da85e0b2d5dba2ed5c",
+      "title": "Muller: 'Messi là cầu thủ vĩ đại nhất mà bóng đá từng có'",
+      "link": "https://vnexpress.net/muller-messi-la-cau-thu-vi-dai-nhat-ma-bong-da-tung-co-4930147.html",
+      "summary": "Tiền đạo Đức Thomas Muller thừa nhận chuyển từ ủng hộ Cristiano Ronaldo sang Lionel Messi trong cuộc tranh luận về hai cầu thủ hàng đầu thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T07:34:59+07:00",
+      "fetched": "2025-08-22T15:22:08.755782+07:00"
+    },
+    {
+      "id": "405dd93d4ace55af4fa78deffe6f68b5",
+      "title": "Chồng tôi vẫn bị chê trách dù bỏ nhiều tiền giúp đỡ người thân",
+      "link": "https://vnexpress.net/gan-ket-gia-dinh-chong-toi-van-bi-che-trach-du-bo-rat-nhieu-tien-giup-do-nguoi-than-4929968.html",
+      "summary": "Nếu phải gọi chồng tôi bằng một cái tên, tôi sẽ gọi anh là người đàn ông luôn chọn phần thiệt về mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:31:12+07:00",
+      "fetched": "2025-08-22T15:21:56.546903+07:00"
+    },
+    {
+      "id": "224153be4fc2a674fbeeaaae988b464a",
+      "title": "Trường thuộc ĐH Quốc gia Hà Nội tuyển bổ sung ngay khi công bố điểm chuẩn",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-viet-nhat-vju-2025-chinh-xac-nhat-4930202.html",
+      "summary": "Trường Đại học Việt Nhật, Đại học Quốc gia Hà Nội (VJU) lấy điểm chuẩn từ 20 đến 22, thông báo thí sinh chưa đỗ có thể đăng ký tuyển sinh bổ sung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:29:52+07:00",
+      "fetched": "2025-08-22T15:21:56.547117+07:00"
+    },
+    {
+      "id": "8064a82739d074964f64326923791c9b",
+      "title": "Nhà tôi như bể chứa nước mưa vì hàng xóm trồng cây trên sân thượng",
+      "link": "https://vnexpress.net/hang-xom-vo-van-hoa-hang-xom-danh-nhau-vi-tan-thuoc-la-hang-xom-gay-kho-de-khi-xay-nha-nha-toi-nhu-be-chua-nuoc-mua-vi-hang-xom-trong-cay-tren-san-thuong-4930178.html",
+      "summary": "Lá cây nhà hàng xóm rụng quá nhiều, bay sang sân thượng nhà tôi, làm tắc máng thoát nước, nhưng họ vẫn tỉnh bơ: 'Thông cảm nha'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:26:58+07:00",
+      "fetched": "2025-08-22T15:21:56.547289+07:00"
+    },
+    {
+      "id": "3fea00ed174faea1c5f10353dc4e3d1d",
+      "title": "Trường đầu tiên thuộc Đại học Quốc gia Hà Nội công bố điểm chuẩn",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-uet-2025-moi-nhat-4930248.html",
+      "summary": "Điểm chuẩn trường Đại học Công nghệ, Đại học Quốc gia Hà Nội, từ 22,14 đến 28,19, ngành Công nghệ thông tin cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:15:00+07:00",
+      "fetched": "2025-08-22T15:21:56.547450+07:00"
+    },
+    {
+      "id": "7c0f89163817b4ed23f80569a87cc3c6",
+      "title": "Bộ Khoa học và Công nghệ ra mắt logo mới",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-ra-mat-logo-moi-4930213.html",
+      "summary": "Logo mới của Bộ Khoa học và Công nghệ biểu trưng cho khát vọng đổi mới, dẫn dắt công nghệ và lan tỏa tinh thần sáng tạo Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:12:35+07:00",
+      "fetched": "2025-08-22T15:21:56.547610+07:00"
+    },
+    {
+      "id": "7c0f89163817b4ed23f80569a87cc3c6",
+      "title": "Bộ Khoa học và Công nghệ ra mắt logo mới",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-ra-mat-logo-moi-4930213.html",
+      "summary": "Logo mới của Bộ Khoa học và Công nghệ biểu trưng cho khát vọng đổi mới, dẫn dắt công nghệ và lan tỏa tinh thần sáng tạo Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-22T07:12:35+07:00",
+      "fetched": "2025-08-22T15:22:07.241545+07:00"
+    },
+    {
+      "id": "dd5144977c3d11c33690fe06c7cec7a1",
+      "title": "Có 1,5 tỷ đồng, đầu tư bất động sản nào gần Hà Nội?",
+      "link": "https://vnexpress.net/co-1-5-ty-dong-dau-tu-bat-dong-san-nao-gan-ha-noi-4930122.html",
+      "summary": "Tôi muốn dành khoản tích lũy 1,5 tỷ mua đất quanh Hà Nội, sau mua nhà sẽ bán nhưng chưa biết mua ở đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:10:23+07:00",
+      "fetched": "2025-08-22T15:21:56.547779+07:00"
+    },
+    {
+      "id": "77dd364b77b17a69dd5f56f14fe2d371",
+      "title": "Chiêu giấu 113 kg vàng, hàng triệu USD của đường dây buôn lậu",
+      "link": "https://vnexpress.net/chieu-giau-113-kg-vang-hang-trieu-usd-cua-duong-day-buon-lau-4930212.html",
+      "summary": "Nguyễn Hoàng Sa và đồng phạm giấu 113 kg vàng trị giá hơn 252 tỷ đồng, hàng triệu USD dưới đáy xuồng máy hoặc xe ba gác chở cá, để đưa từ Campuchia về nước hoặc ngược lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:03:43+07:00",
+      "fetched": "2025-08-22T15:21:56.547941+07:00"
+    },
+    {
+      "id": "55998db5e9eef0eb9b0efe2ddb9fd57d",
+      "title": "Hàng trăm cán bộ, nhân viên ROX Group tham gia hiến máu",
+      "link": "https://vnexpress.net/hang-tram-can-bo-nhan-vien-rox-group-tham-gia-hien-mau-4930210.html",
+      "summary": "ROX Group phối hợp ngân hàng MSB và Bệnh viện Hữu nghị Việt Đức tổ chức chương trình hiến máu, thu hút hàng trăm nhân viên tham gia với 661 đơn vị máu sau một ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T07:00:00+07:00",
+      "fetched": "2025-08-22T15:21:56.548127+07:00"
+    },
+    {
+      "id": "81a8bf43edbe81e6c920bd4f5388d74b",
+      "title": "Jeep Cherokee thế hệ mới ra mắt, giá từ 44.500 USD",
+      "link": "https://vnexpress.net/jeep-cherokee-the-he-moi-ra-mat-gia-tu-44-500-usd-4930053.html",
+      "summary": "Mẫu SUV thế hệ mới chỉ trang bị hệ truyền động hybrid, bán hai phiên bản cao cấp trước, giá cao nhất 48.000 USD",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:51:04+07:00",
+      "fetched": "2025-08-22T15:21:56.548289+07:00"
+    },
+    {
+      "id": "bddb16c042544a37793e300e07e95b2e",
+      "title": "Cứu sống bệnh nhân thủng nội tạng, ngừng tim 3 lần",
+      "link": "https://vnexpress.net/cuu-song-benh-nhan-thung-noi-tang-ngung-tim-3-lan-4930130.html",
+      "summary": "Người đàn ông 46 tuổi bị vết thương đâm thấu bụng xuyên lên ngực gây thủng tim gan, ba lần ngưng tim, được cứu sống ngoạn mục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:50:38+07:00",
+      "fetched": "2025-08-22T15:21:56.548453+07:00"
+    },
+    {
+      "id": "b1e1f2af6a37b1c46d4c24e6e0729861",
+      "title": "Lý Hoàng Nam gặp Trịnh Linh Giang ở bán kết pickleball châu Á",
+      "link": "https://vnexpress.net/ly-hoang-nam-gap-trinh-linh-giang-o-ban-ket-pickleball-chau-a-4930236.html",
+      "summary": "Lý Hoàng Nam hạ Jimmy Liong Kai Long để chạm trán hạt giống số một Trịnh Linh Giang tại bán kết pickleball PPA Tour Asia chặng Hong Kong, sáng 22/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:47:55+07:00",
+      "fetched": "2025-08-22T15:21:56.548620+07:00"
+    },
+    {
+      "id": "b1e1f2af6a37b1c46d4c24e6e0729861",
+      "title": "Lý Hoàng Nam gặp Trịnh Linh Giang ở bán kết pickleball châu Á",
+      "link": "https://vnexpress.net/ly-hoang-nam-gap-trinh-linh-giang-o-ban-ket-pickleball-chau-a-4930236.html",
+      "summary": "Lý Hoàng Nam hạ Jimmy Liong Kai Long để chạm trán hạt giống số một Trịnh Linh Giang tại bán kết pickleball PPA Tour Asia chặng Hong Kong, sáng 22/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T06:47:55+07:00",
+      "fetched": "2025-08-22T15:22:08.756034+07:00"
+    },
+    {
+      "id": "9c61a7f64a867d4600e3a8586c61b1ae",
+      "title": "Nhà hàng dành hai tầng VIP phục vụ khí cười, thu lợi hàng chục tỷ đồng",
+      "link": "https://vnexpress.net/nha-hang-danh-hai-tang-vip-phuc-vu-khi-cuoi-thu-loi-hang-chuc-ty-dong-4930196.html",
+      "summary": "Nguyễn Gia Hoài Thương, tổng quản lý nhà hàng 90’s House, bị cáo buộc chỉ đạo nhân viên cung cấp bóng cười cho khách ở các phòng VIP, thu lợi hàng chục tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:38:55+07:00",
+      "fetched": "2025-08-22T15:21:56.548777+07:00"
+    },
+    {
+      "id": "79f9be73efeb0c51cbbad1545c7a0ab1",
+      "title": "'VnExpress Marathon tạo hình ảnh du lịch thể thao Khánh Hòa hấp dẫn'",
+      "link": "https://vnexpress.net/vnexpress-marathon-tao-hinh-anh-du-lich-the-thao-khanh-hoa-hap-dan-4930150.html",
+      "summary": "Mùa giải thứ tư chạm kỷ lục 13.000 VĐV, thể hiện sức hút của đô thị biển, quảng bá hình ảnh du lịch thể thao Khánh Hòa năng động, hấp dẫn, theo lãnh đạo ngành thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:25:00+07:00",
+      "fetched": "2025-08-22T15:21:56.548936+07:00"
+    },
+    {
       "id": "37ab63e0ae51c2a09a3f5553d7ebad19",
       "title": "Nam thần từng khiến khán giả sân Mỹ Đình 'phát cuồng' trở lại Việt Nam",
       "link": "https://thanhnien.vn/nam-than-tung-khien-khan-gia-san-my-dinh-phat-cuong-tro-lai-viet-nam-185250822123950961.htm",
@@ -571,6 +1061,16 @@ window.newsData_2025_08_22 = {
       "category": "Tổng hợp",
       "published": "2025-08-22T06:22:00+07:00",
       "fetched": "2025-08-22T13:25:19.338454+07:00"
+    },
+    {
+      "id": "7b08d33abd7887bf88de21e664309824",
+      "title": "Tạm đình chỉ điều tra vụ chìm tàu ở Lý Sơn 4 người chết",
+      "link": "https://vnexpress.net/tam-dinh-chi-dieu-tra-vu-chim-tau-o-ly-son-4-nguoi-chet-4930186.html",
+      "summary": "Công an tỉnh Quảng Ngãi tạm đình chỉ điều tra vụ án chìm tàu kéo sà lan khiến 4 người chết, 5 người mất tích, do hết thời hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T06:15:04+07:00",
+      "fetched": "2025-08-22T15:21:56.549118+07:00"
     },
     {
       "id": "6c1875582271642aabc94929744dad3e",
