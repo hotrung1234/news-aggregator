@@ -1,7 +1,157 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T10:00:11.405873+07:00",
+  "lastUpdated": "2025-08-23T11:19:25.358767+07:00",
   "articles": [
+    {
+      "id": "6c5e553346725d16da96f4e209f1eb5d",
+      "title": "7 trường Công an nhân dân công bố điểm chuẩn năm 2025",
+      "link": "https://tuoitre.vn/7-truong-cong-an-nhan-dan-cong-bo-diem-chuan-nam-2025-20250820104254685.htm",
+      "summary": "Ngày 23-8, các trường Công an nhân dân đã đồng loạt công bố điểm chuẩn trúng tuyển ở các phương thức xét kết hợp với bài thi đánh giá của Bộ Công an năm 2025, ghi nhận mức điểm chuẩn cao nhất 26,28 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.587030+07:00",
+      "fetched": "2025-08-23T11:19:15.587148+07:00"
+    },
+    {
+      "id": "977112ea5a6e9a8f4026e668dfd4ddb8",
+      "title": "Điểm chuẩn đại học 'lạm phát', gần 10 điểm mỗi môn vẫn rớt, chuyện gì xảy ra?",
+      "link": "https://tuoitre.vn/diem-chuan-dai-hoc-lam-phat-gan-10-diem-moi-mon-van-rot-chuyen-gi-xay-ra-20250823100247555.htm",
+      "summary": "Điểm chuẩn năm nay phá vỡ kỷ lục các năm, nhất là so với năm 2024. Hàng loạt ngành thí sinh đạt gần 10 điểm mỗi môn vẫn rớt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586880+07:00",
+      "fetched": "2025-08-23T11:19:15.587017+07:00"
+    },
+    {
+      "id": "d9fa269efd26ab506f70362ea6dfeb8f",
+      "title": "Tung tin giả bắt cóc trẻ em rồi sửa thành kêu gọi từ thiện để lừa tiền",
+      "link": "https://tuoitre.vn/tung-tin-gia-bat-coc-tre-em-roi-sua-thanh-keu-goi-tu-thien-de-lua-tien-20250823085903596.htm",
+      "summary": "Một tài khoản Facebook đăng tin giả việc con gái bị bắt cóc, sau đó sửa thành kêu gọi từ thiện nhằm lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586755+07:00",
+      "fetched": "2025-08-23T11:19:15.586868+07:00"
+    },
+    {
+      "id": "7e558e2302fc336b641895d18af96c62",
+      "title": "80 năm văn hóa phụng sự đất nước",
+      "link": "https://tuoitre.vn/80-nam-van-hoa-phung-su-dat-nuoc-20250823094406807.htm",
+      "summary": "80 năm qua, ngành văn hóa - thể thao và du lịch đã đồng hành cùng dân tộc trong một hành trình vẻ vang và đầy tự hào, phụng sự đất nước, phục vụ nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586631+07:00",
+      "fetched": "2025-08-23T11:19:15.586744+07:00"
+    },
+    {
+      "id": "6f640848a60dc4e400b283c241038675",
+      "title": "Di tích quốc gia Hiền Lương - Bến Hải tạm dừng đón khách để nâng cấp",
+      "link": "https://tuoitre.vn/di-tich-quoc-gia-hien-luong-ben-hai-tam-dung-don-khach-de-nang-cap-20250823092802713.htm",
+      "summary": "Khu di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải tạm dừng đón khách tham quan để tu bổ, nâng cấp, dự kiến đến hết năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586505+07:00",
+      "fetched": "2025-08-23T11:19:15.586620+07:00"
+    },
+    {
+      "id": "abe775c71a4cf046f10cc72fbaa92f5e",
+      "title": "Đến ngày đóng học phí hai bà cháu khóc ròng, Tuổi Trẻ tiếp sức ngay",
+      "link": "https://tuoitre.vn/den-ngay-dong-hoc-phi-hai-ba-chau-khoc-rong-tuoi-tre-tiep-suc-ngay-20250823071157463.htm",
+      "summary": "Báo Tuổi Trẻ quyết định tạm ứng trước học bổng Tiếp sức đến trường để tân sinh viên Trần Thị Thủy Tiên có thể kịp đóng học phí học kỳ 1, vì đến hạn mà gia đình quá khánh kiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586374+07:00",
+      "fetched": "2025-08-23T11:19:15.586493+07:00"
+    },
+    {
+      "id": "5ad170cbe1ebc9e338c0f7e84633e14f",
+      "title": "Bắt thanh niên trốn truy nã đặc biệt nguy hiểm sau hơn 4 năm vì liên quan đến 77kg ma túy",
+      "link": "https://tuoitre.vn/bat-thanh-nien-tron-truy-na-dac-biet-nguy-hiem-sau-hon-4-nam-vi-lien-quan-den-77kg-ma-tuy-2025082309461699.htm",
+      "summary": "Quân bị công an bắt giữ sau hơn 4 năm trốn lệnh truy nã, do liên quan đến việc vận chuyển 77kg ma túy được phát hiện trên địa bàn tỉnh Đồng Tháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586246+07:00",
+      "fetched": "2025-08-23T11:19:15.586363+07:00"
+    },
+    {
+      "id": "43fc8e8665a04fe273bc0ce7c7bb865f",
+      "title": "Honda Việt Nam bác tin đồn xây dựng nhà máy sản xuất xe hydro tại Trà Vinh",
+      "link": "https://tuoitre.vn/honda-viet-nam-bac-tin-don-xay-dung-nha-may-san-xuat-xe-hydro-tai-tra-vinh-20250823062943612.htm",
+      "summary": "Honda Việt Nam khẳng định thông tin rằng hãng sẽ xây dựng nhà máy sản xuất xe hydro ở Trà Vinh là hoàn toàn sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.586107+07:00",
+      "fetched": "2025-08-23T11:19:15.586234+07:00"
+    },
+    {
+      "id": "bbfb1b95b2dffa6cf3d51336ce86eb69",
+      "title": "Hà Nội tăng cường phòng sốt xuất huyết, dịch bệnh Chikungunya trong kỳ nghỉ lễ",
+      "link": "https://tuoitre.vn/ha-noi-tang-cuong-phong-sot-xuat-huyet-dich-benh-chikungunya-trong-ky-nghi-le-20250823093518594.htm",
+      "summary": "Trung tâm Kiểm soát bệnh tật thành phố (CDC) Hà Nội nhận định trong thời gian tới, một số dịch bệnh trên địa bàn thành phố có thể gia tăng do thời tiết diễn biến phức tạp, giao lưu đi lại nhiều trong kỳ nghỉ lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585960+07:00",
+      "fetched": "2025-08-23T11:19:15.586095+07:00"
+    },
+    {
+      "id": "b2220e1d835f55ba7429ab06ae7d9ead",
+      "title": "Thêm hàng cho thị trường chứng khoán: Nhiều dư địa từ thoái vốn, chuyển sàn, phát hành…",
+      "link": "https://tuoitre.vn/them-hang-cho-thi-truong-chung-khoan-nhieu-du-dia-tu-thoai-von-chuyen-san-phat-hanh-20250823074854037.htm",
+      "summary": "Bên cạnh triển vọng cổ phiếu công nghệ gắn với sự phát triển khởi nghiệp và bán dẫn, nguồn cung cổ phiếu đến từ đẩy mạnh thoái vốn nhà nước, đưa các tập đoàn tư nhân lớn lên sàn và mở cơ chế cho doanh nghiệp FDI niêm yết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585808+07:00",
+      "fetched": "2025-08-23T11:19:15.585924+07:00"
+    },
+    {
+      "id": "0f3059a4cded31b6459e376771965a00",
+      "title": "Ông Trump khoe quà tặng của ông Putin",
+      "link": "https://tuoitre.vn/ong-trump-khoe-qua-tang-cua-ong-putin-20250823100206058.htm",
+      "summary": "Được ông Putin tặng ảnh chụp hai người tại thượng đỉnh Alaska, ông Trump cho rằng trông bản thân ông 'tạm được', còn tổng thống Nga thì đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585680+07:00",
+      "fetched": "2025-08-23T11:19:15.585796+07:00"
+    },
+    {
+      "id": "09962c0e0c48d6a6c2f651ed18daccd9",
+      "title": "Quảng Trị bác bỏ tin đồn bắt cóc trẻ em",
+      "link": "https://tuoitre.vn/quang-tri-bac-bo-tin-don-bat-coc-tre-em-20250823104349004.htm",
+      "summary": "Cơ quan chức năng khẳng định thông tin bắt cóc bé gái tại xã Trường Sơn chỉ là tin giả, nhằm câu tương tác trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585549+07:00",
+      "fetched": "2025-08-23T11:19:15.585669+07:00"
+    },
+    {
+      "id": "b91bfae2856f8c19459ed4ffb5ec77de",
+      "title": "Khởi nghiệp với nền tảng AI hỗ trợ dạy học: Hành trình của chàng trai 9X đưa Selfomy trở lại",
+      "link": "https://tuoitre.vn/khoi-nghiep-voi-nen-tang-ai-ho-tro-day-hoc-hanh-trinh-cua-chang-trai-9x-dua-selfomy-tro-lai-20250823101919568.htm",
+      "summary": "Nhiều công đoạn trong dạy và học, quản lý học viên tại các trung tâm ngoại ngữ sẽ đơn giản hơn nhờ tích hợp trí tuệ nhân tạo (AI) trên nền tảng Selfomy. Tác giả 23 tuổi đồng sáng lập nền tảng này Bùi Lê Chí Bảo nói vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585413+07:00",
+      "fetched": "2025-08-23T11:19:15.585536+07:00"
+    },
+    {
+      "id": "35607d706e9f6ad40de144190d146dc7",
+      "title": "Mỹ điều tra nội thất nhập khẩu trong 50 ngày, ông Trump dọa áp thuế",
+      "link": "https://tuoitre.vn/my-dieu-tra-noi-that-nhap-khau-trong-50-ngay-ong-trump-doa-ap-thue-20250823102558164.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 22-8 tuyên bố chính quyền của ông sẽ mở cuộc điều tra về hàng nội thất nhập khẩu, và dọa sẽ áp thuế với ngành hàng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585271+07:00",
+      "fetched": "2025-08-23T11:19:15.585400+07:00"
+    },
+    {
+      "id": "ab9e25fc9ab23fc9204e82df7e46928d",
+      "title": "Điểm chuẩn các trường đại học ở Đà Nẵng: 'Nóng' ở nhóm sư phạm",
+      "link": "https://tuoitre.vn/diem-chuan-cac-truong-dai-hoc-o-da-nang-nong-o-nhom-su-pham-20250823104910521.htm",
+      "summary": "Năm nay điểm chuẩn vào Đại học Đà Nẵng có nhiều biến động, trong đó ngành sư phạm ngữ văn cao nhất với 28,84 điểm. Các trường khác ở Đà Nẵng mức điểm vừa phải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:19:15.585024+07:00",
+      "fetched": "2025-08-23T11:19:15.585255+07:00"
+    },
     {
       "id": "3c4ed43303c2aa93524c82e70a3bcb5e",
       "title": "Điểm chuẩn Học viện Cảnh sát nhân dân từ 18,67",
@@ -301,6 +451,346 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T08:14:02.384576+07:00",
       "fetched": "2025-08-23T08:14:02.384800+07:00"
+    },
+    {
+      "id": "fa920ff52e3e75f0d778023edc325f7b",
+      "title": "Gần 200 nữ công nhân được khám sức khỏe miễn phí",
+      "link": "https://thanhnien.vn/gan-200-nu-cong-nhan-duoc-kham-suc-khoe-mien-phi-18525082311053511.htm",
+      "summary": "Sáng 23.8, Liên đoàn Lao động (LĐLĐ) TP.HCM phối hợp cùng Chi cục Dân số - Kế hoạch hóa gia đình TP.HCM tổ chức chương trình 'Vì sức khỏe người lao động' lần 2 năm 2025 tại Công ty TNHH Sơn Tùng (phường Linh Xuân, TP.HCM), nhiều công nhân được khám sức khỏe miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:13:00+07:00",
+      "fetched": "2025-08-23T11:19:14.601743+07:00"
+    },
+    {
+      "id": "db11aa614b328e29c997d13e2d9e928d",
+      "title": "Thế giới chuẩn bị đón 'trăng đen', mọc như không mọc",
+      "link": "https://thanhnien.vn/the-gioi-chuan-bi-don-trang-den-moc-nhu-khong-moc-185250823093508751.htm",
+      "summary": "EarthSky thông báo hiện tượng 'trăng đen' sẽ xảy ra vào thời điểm mặt trăng ở gần mặt trời nhất vào 13 giờ 06 hôm 24.8 (giờ Việt Nam). Vậy trăng đen là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:08:00+07:00",
+      "fetched": "2025-08-23T11:19:14.601912+07:00"
+    },
+    {
+      "id": "580189a20084c30e95a3ab5a550068cb",
+      "title": "Điểm chuẩn Đại học Sư phạm Hà Nội cao nhất 29,06",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-su-pham-ha-noi-hnue-2025-chi-tiet-chinh-xac-nhat-4929145.html",
+      "summary": "Sư phạm Lịch sử là ngành duy nhất của trường Đại học Sư phạm Hà Nội (HNUE) có điểm chuẩn trên 29.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:06:43+07:00",
+      "fetched": "2025-08-23T11:19:11.226094+07:00"
+    },
+    {
+      "id": "2360a57ddf744ec04e54f40a0d57caa4",
+      "title": "Cục Thuế lên tiếng việc người dân vẫn phải nộp thuế đất dù đã rút hồ sơ",
+      "link": "https://thanhnien.vn/cuc-thue-len-tieng-viec-nguoi-dan-van-phai-nop-thue-dat-du-da-rut-ho-so-185250823101104752.htm",
+      "summary": "Cục Thuế vừa chính thức làm rõ lý do ngành thuế vẫn treo nợ, tính phạt chậm nộp với khoản nghĩa vụ tài chính phát sinh theo hồ sơ cấp quyền sử dụng đất, dù người dân đã được văn phòng đăng ký đất đai cho rút hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:03:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602095+07:00"
+    },
+    {
+      "id": "d2143549afdb395364a8b046f408fe6e",
+      "title": "Vì sao nước làm mát động cơ ô tô, xe máy có nhiều màu khác nhau?",
+      "link": "https://thanhnien.vn/vi-sao-nuoc-lam-mat-dong-co-o-to-xe-may-co-nhieu-mau-khac-nhau-185250817054426385.htm",
+      "summary": "Dung dịch nước làm mát động cơ ô tô xe máy thường có nhiều màu sắc khác nhau như xanh lá cây, cam, hồng, đỏ… Dù vậy, nhiều người dùng ô tô xe máy thường không chú ý dẫn đến những sai lầm khi châm bổ sung hay thay nước làm mát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:03:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602251+07:00"
+    },
+    {
+      "id": "b1935efdbd0dfd1c612e9f0216208be0",
+      "title": "Vivo V60 - smartphone pin 6.500 mAh mỏng nhẹ nhất",
+      "link": "https://vnexpress.net/vivo-v60-smartphone-pin-6-500-mah-mong-nhe-nhat-4930475.html",
+      "summary": "Trong phân khúc smartphone pin 6.500 mAh, Vivo V60 mỏng nhẹ nhất với số đo 7,5 mm, nặng dưới 200 gram.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:11.226276+07:00"
+    },
+    {
+      "id": "131279ee82ead8a335057b78da99abe3",
+      "title": "'VnExpress Marathon Libera Nha Trang giúp runner cảm nhận sự tự do'",
+      "link": "https://vnexpress.net/vnexpress-marathon-libera-nha-trang-giup-runner-cam-nhan-su-tu-do-4930565.html",
+      "summary": "13.000 runner dự VM Libera Nha Trang ngày 24/8 cảm nhận tinh thần tự do qua chuỗi hoạt động trải nghiệm, cung đường đua hùng vĩ ôm lấy đô thị biển, theo đại diện KDI Holdings.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:11.226442+07:00"
+    },
+    {
+      "id": "ff5117a47914022caae1ad78f97dee0e",
+      "title": "4 bệnh do muỗi lây truyền cho trẻ",
+      "link": "https://vnexpress.net/4-benh-do-muoi-lay-truyen-cho-tre-4930541.html",
+      "summary": "Sốt xuất huyết, Chikungunya, sốt rét, viêm não Nhật Bản là các bệnh nguy hiểm lây truyền từ muỗi, dễ gây biến chứng, ảnh hưởng đến sự phát triển của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:11.226600+07:00"
+    },
+    {
+      "id": "17dda02b388b7cd7521dde7e849ad0e2",
+      "title": "FAW - hãng tiên phong ngành công nghiệp ôtô Trung Quốc",
+      "link": "https://vnexpress.net/faw-hang-tien-phong-nganh-cong-nghiep-oto-trung-quoc-4930071.html",
+      "summary": "Từ nhà máy xe tải năm 1953, FAW vươn lên dẫn đầu ngành công nghiệp ôtô Trung quốc nhờ chiến lược mở rộng và phát triển công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:11.226759+07:00"
+    },
+    {
+      "id": "be8db4ba53c76b6f0bc65e73b089e223",
+      "title": "Khi AI làm hướng dẫn viên du lịch: 'Chạm' một lần là phải hiểu mười phần",
+      "link": "https://thanhnien.vn/khi-ai-lam-huong-dan-vien-du-lich-cham-mot-lan-la-phai-hieu-muoi-phan-185250823103101579.htm",
+      "summary": "Trong những chuyến du lịch, Reno14 Pro không chỉ là công cụ để chụp ảnh, mà còn 'hóa thân' thành một hướng dẫn viên du lịch với AI toàn năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602403+07:00"
+    },
+    {
+      "id": "4e5dea77aa17971459372a0bb927a05f",
+      "title": "Tiệm bánh trung thu nổi tiếng ở TP.HCM mở bán sớm, năm nay có gì mới?",
+      "link": "https://thanhnien.vn/tiem-banh-trung-thu-noi-tieng-o-tphcm-mo-ban-som-nam-nay-co-gi-moi-185250820163755535.htm",
+      "summary": "Một tiệm bánh trung thu nổi tiếng khu Chợ Lớn được thực khách gọi vui 'hot nhất trung thu 2024 ở TP.HCM' mở bán sớm dịp trung thu năm nay. Chủ tiệm tiết lộ điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602554+07:00"
+    },
+    {
+      "id": "131279ee82ead8a335057b78da99abe3",
+      "title": "'VnExpress Marathon Libera Nha Trang giúp runner cảm nhận sự tự do'",
+      "link": "https://vnexpress.net/vnexpress-marathon-libera-nha-trang-giup-runner-cam-nhan-su-tu-do-4930565.html",
+      "summary": "13.000 runner dự VM Libera Nha Trang ngày 24/8 cảm nhận tinh thần tự do qua chuỗi hoạt động trải nghiệm, cung đường đua hùng vĩ ôm lấy đô thị biển, theo đại diện KDI Holdings.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:19:25.352540+07:00"
+    },
+    {
+      "id": "a2896ebbd7c04de640d0676468758f42",
+      "title": "Hai nữ nhân viên cứu thanh niên ngã trên đường ray khi tàu sắp đến",
+      "link": "https://vnexpress.net/hai-nu-nhan-vien-cuu-thanh-nien-nga-tren-duong-ray-khi-tau-sap-den-4930564.html",
+      "summary": "Nam thanh niên tông gãy barie, ngã gục giữa đường ray, một nữ nhân viên gác chắn cùng người dân đưa ra ngoài, người khác kịp thời báo hiệu giúp tàu SE4 dừng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:53:08+07:00",
+      "fetched": "2025-08-23T11:19:11.226923+07:00"
+    },
+    {
+      "id": "945a07f1658f0a93f1559fdd0cfd2ed6",
+      "title": "Ông Kim Jong-un 'lòng đau nhói', quỳ trước di ảnh quân nhân Triều Tiên tử trận ở Nga",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-long-dau-nhoi-quy-truoc-di-anh-quan-nhan-trieu-tien-tu-tran-o-nga-185250823101936069.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un đã dự buổi lễ tri ân những quân nhân trở về sau khi tham chiến cùng Nga đối đầu Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:50:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602705+07:00"
+    },
+    {
+      "id": "d6f5b970106332ec36746fb25cdbaa41",
+      "title": "Phát hiện sớm nguy cơ ung thư nhờ nội soi tiêu hóa",
+      "link": "https://vnexpress.net/phat-hien-som-nguy-co-ung-thu-nho-noi-soi-tieu-hoa-4925557.html",
+      "summary": "Tưởng chỉ đau bụng đơn giản, đi nội soi, anh Trí (35 tuổi) vô tình phát hiện nguy cơ ung thư dạ dày và đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:45:00+07:00",
+      "fetched": "2025-08-23T11:19:11.227106+07:00"
+    },
+    {
+      "id": "d1bf8fc6aaf75faa683fb09af71ed656",
+      "title": "Thanh Thúy đọ chiều cao với idol bóng chuyền cao 2 m, Như Quỳnh quyết ghi điểm trước Ba Lan",
+      "link": "https://thanhnien.vn/thanh-thuy-do-chieu-cao-voi-idol-bong-chuyen-cao-2-m-nhu-quynh-quyet-ghi-diem-truoc-ba-lan-185250823103841486.htm",
+      "summary": "Các cô gái đội tuyển bóng chuyền Việt Nam háo hức trong lần đầu bước ra đấu trường lớn, được so tài với dàn sao bóng chuyền thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:42:00+07:00",
+      "fetched": "2025-08-23T11:19:14.602855+07:00"
+    },
+    {
+      "id": "0a6d14d222734235376b0868a8bb03b0",
+      "title": "Điểm chuẩn Trường ĐH Cảnh sát nhân dân năm 2025",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-canh-sat-nhan-dan-nam-2025-18525082310252074.htm",
+      "summary": "Trường ĐH Cảnh sát nhân dân thông báo điểm chuẩn trúng tuyển trình độ ĐH chính quy tuyển mới công dân tốt nghiệp THPT năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:41:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603025+07:00"
+    },
+    {
+      "id": "abad756e15467d4dbe9e839383fdb476",
+      "title": "Soobin múa quạt, đánh trống trong tổng duyệt 8Wonder",
+      "link": "https://vnexpress.net/soobin-mua-quat-danh-trong-trong-tong-duyet-8wonder-4930556.html",
+      "summary": "Soobin Hoàng Sơn đánh trống, đàn, múa quạt và khoe nốt cao nội lực trong buổi tổng duyệt 8Wonder - Moments of Wonder, chuẩn bị cháy hết mình cùng 50.000 khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:40:00+07:00",
+      "fetched": "2025-08-23T11:19:11.227272+07:00"
+    },
+    {
+      "id": "52cca50a262657a17d45f913c9d20b77",
+      "title": "Tạm dừng đón khách tham quan tại di tích Đôi bờ Hiền Lương - Bến Hải",
+      "link": "https://thanhnien.vn/tam-dung-don-khach-tham-quan-tai-di-tich-doi-bo-hien-luong-ben-hai-18525082309532879.htm",
+      "summary": "Di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải (Quảng Trị) sẽ tạm dừng đón khách tham quan để phục vụ cho việc thi công dự án Công viên Thống Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:37:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603177+07:00"
+    },
+    {
+      "id": "042c20e2f55eaa14d76aad488d70bed5",
+      "title": "Madonna tận hưởng kỳ nghỉ cùng bạn trai kém 38 tuổi",
+      "link": "https://thanhnien.vn/madonna-tan-huong-ky-nghi-cung-ban-trai-kem-38-tuoi-185250823101808277.htm",
+      "summary": "Kỷ niệm sinh nhật thứ 67, Madonna thực hiện chuyến du lịch xa hoa đến Ý cùng gia đình, bạn bè. Nữ ca sĩ có khoảng thời gian vui vẻ bên bạn trai Akeem Morris (29 tuổi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:36:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603337+07:00"
+    },
+    {
+      "id": "9a61d62e826593c1635dd943bad6d2bb",
+      "title": "Người mẹ vượt ung thư để đón con chào đời",
+      "link": "https://vnexpress.net/nguoi-me-vuot-ung-thu-de-don-con-chao-doi-4930478.html",
+      "summary": "Đang hạnh phúc chờ đón đứa con thứ hai, người phụ nữ 34 tuổi bất ngờ nhận tin dữ mắc ung thư đại tràng khi thai mới hơn 26 tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:34:24+07:00",
+      "fetched": "2025-08-23T11:19:11.227435+07:00"
+    },
+    {
+      "id": "1e65c2fd7f88045619fa7091904b35eb",
+      "title": "Xe bồn chở khí hóa lỏng phát nổ sau va chạm, hai người thiệt mạng",
+      "link": "https://vnexpress.net/xe-bon-cho-khi-hoa-long-phat-no-sau-va-cham-hai-nguoi-thiet-mang-4930553.html",
+      "summary": "Va chạm giữa xe bồn và một xe bán tải khiến 2 người tử vong và hơn 20 người bị thương, đêm 22/8 trên đường cao tốc Jalandhar-Hoshiarpur.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:33:48+07:00",
+      "fetched": "2025-08-23T11:19:11.227590+07:00"
+    },
+    {
+      "id": "c5adb10455c072e4b07c59f2eb4cdf1d",
+      "title": "Mỹ phẩm 'made in Việt Nam' Cocoon ra mắt thị trường Nhật Bản",
+      "link": "https://vnexpress.net/my-pham-made-in-viet-nam-cocoon-ra-mat-thi-truong-nhat-ban-4930406.html",
+      "summary": "Các sản phẩm làm đẹp của Cocoon đã lên kệ trên các nền tảng online và hơn 300 cửa hàng tại Nhật Bản như: Aeon, American Pharmacy, Ainz & Tulpe, Tomod's, Sapporo Drugstore, Trial.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:30:00+07:00",
+      "fetched": "2025-08-23T11:19:11.227751+07:00"
+    },
+    {
+      "id": "fcfc1c73c3a6668703287cb6bc91d9ee",
+      "title": "Túi nylon nhàu nhĩ của Balenciaga giá hơn 25 triệu đồng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-nylon-nhau-nhi-cua-balenciaga-gia-hon-25-trieu-dong-185250822215453651.htm",
+      "summary": "Mẫu túi mới của Balenciaga gây bàn tán xôn xao khi được tạo hình như một chiếc túi nylon nhàu nhĩ và được bán với giá 955 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:30:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603492+07:00"
+    },
+    {
+      "id": "1b11692ea7b34a8157e28fb795f96c60",
+      "title": "Người đàn ông trúng 28 tỉ xổ số miền Nam, đại lý xác nhận vừa đổi thưởng",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-trung-28-ti-xo-so-mien-nam-dai-ly-xac-nhan-vua-doi-thuong-185250822132927255.htm",
+      "summary": "Người đàn ông ở Vĩnh Long trúng 14 tờ độc đắc xổ số miền Nam trị giá 28 tỉ đồng, đại lý xác nhận vừa đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:29:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603646+07:00"
+    },
+    {
+      "id": "19b9042efbfe7803b4ac221162e803f5",
+      "title": "Kasparov: 'Carlsen đã chấm dứt thời kỳ của nhà vô địch thế giới'",
+      "link": "https://vnexpress.net/kasparov-carlsen-da-cham-dut-thoi-ky-cua-nha-vo-dich-the-gioi-4930560.html",
+      "summary": "Nhà vô địch thế giới thời 1985-2000, Garry Kasparov cho rằng việc Magnus Carlsen bỏ ngôi năm 2022 đã chấm dứt kỷ nguyên của Vua cờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:28:05+07:00",
+      "fetched": "2025-08-23T11:19:11.227918+07:00"
+    },
+    {
+      "id": "19b9042efbfe7803b4ac221162e803f5",
+      "title": "Kasparov: 'Carlsen đã chấm dứt thời kỳ của nhà vô địch thế giới'",
+      "link": "https://vnexpress.net/kasparov-carlsen-da-cham-dut-thoi-ky-cua-nha-vo-dich-the-gioi-4930560.html",
+      "summary": "Nhà vô địch thế giới thời 1985-2000, Garry Kasparov cho rằng việc Magnus Carlsen bỏ ngôi năm 2022 đã chấm dứt kỷ nguyên của Vua cờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T03:28:05+07:00",
+      "fetched": "2025-08-23T11:19:25.350920+07:00"
+    },
+    {
+      "id": "496b1116d61c9dfb3a562035ea4e3582",
+      "title": "Ngân hàng Nhà nước đề nghị bỏ hỗ trợ hộ gia đình vay làm điện mặt trời",
+      "link": "https://thanhnien.vn/ngan-hang-nha-nuoc-de-nghi-bo-ho-tro-ho-gia-dinh-vay-lam-dien-mat-troi-185250823093658842.htm",
+      "summary": "Góp ý về dự thảo Quyết định của Thủ tướng về điện mặt trời mái nhà tự sản xuất, tự tiêu thụ, Ngân hàng Nhà nước đã đề nghị bỏ quy định hệ thống điện mặt trời hộ gia đình được hỗ trợ lãi suất vay thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:28:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603795+07:00"
+    },
+    {
+      "id": "e7922b215c3ee50c66c5e15738058829",
+      "title": "Hà Nội 'dọn đường' cho đổi mới sáng tạo với cơ chế sandbox",
+      "link": "https://vnexpress.net/ha-noi-don-duong-cho-doi-moi-sang-tao-voi-co-che-sandbox-4930569.html",
+      "summary": "Hà Nội đang dự thảo 6 nghị quyết phục vụ cho đổi mới sáng tạo, cùng kế hoạch thử nghiệm sandbox tại Hòa Lạc và kích hoạt quỹ mạo hiểm 600 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:22:38+07:00",
+      "fetched": "2025-08-23T11:19:11.228093+07:00"
+    },
+    {
+      "id": "e7922b215c3ee50c66c5e15738058829",
+      "title": "Hà Nội 'dọn đường' cho đổi mới sáng tạo với cơ chế sandbox",
+      "link": "https://vnexpress.net/ha-noi-don-duong-cho-doi-moi-sang-tao-voi-co-che-sandbox-4930569.html",
+      "summary": "Hà Nội đang dự thảo 6 nghị quyết phục vụ cho đổi mới sáng tạo, cùng kế hoạch thử nghiệm sandbox tại Hòa Lạc và kích hoạt quỹ mạo hiểm 600 tỷ đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T03:22:38+07:00",
+      "fetched": "2025-08-23T11:19:22.967717+07:00"
+    },
+    {
+      "id": "ac74a116e7d10ee00b8fe4c58cd1a4bf",
+      "title": "Người vợ sát hại chồng ở Phú Thọ bị khởi tố",
+      "link": "https://vnexpress.net/nguoi-vo-sat-hai-chong-o-phu-tho-bi-khoi-to-4930562.html",
+      "summary": "Sau chầu nhậu, vợ chồng Hà Thị Lai Hạ, 23 tuổi, về nhà lúc rạng sáng thì cãi nhau do mâu thuẫn kinh tế nên Hạ cầm dao đâm chết chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:21:00+07:00",
+      "fetched": "2025-08-23T11:19:11.228250+07:00"
+    },
+    {
+      "id": "4487f31713e06615f3a71ea06c2eaab9",
+      "title": "Nên ăn rau sống hay nấu chín để tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/nen-an-rau-song-hay-nau-chin-de-tot-cho-suc-khoe-185250823094300862.htm",
+      "summary": "Rau sống vốn giàu chất xơ, vitamin và chất chống ô xy hóa. Đây là những yếu tố tạo cảm giác no lâu, tăng cường chuyển hóa năng lượng. Đặc biệt, phương pháp chế biến rau cũng ảnh hưởng đến khả năng hấp thụ dinh dưỡng và giảm mỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:20:00+07:00",
+      "fetched": "2025-08-23T11:19:14.603960+07:00"
+    },
+    {
+      "id": "4d9fe7c15edebc8e9b9ea5ae7917be9c",
+      "title": "Hà Nội miễn phí tàu điện, xe buýt dịp Quốc khánh 2/9",
+      "link": "https://vnexpress.net/ha-noi-mien-phi-tau-dien-xe-buyt-dip-quoc-khanh-2-9-4930544.html",
+      "summary": "Người dân và du khách có thể đi tàu điện, xe buýt miễn phí trong 4 ngày, từ 30/8 đến 2/9, nhân kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:18:15+07:00",
+      "fetched": "2025-08-23T11:19:11.228407+07:00"
+    },
+    {
+      "id": "cc59e9ed086650a9ad681b84971d1327",
+      "title": "Trúng drone, trực thăng cảnh sát Colombia rơi giữa rừng",
+      "link": "https://vnexpress.net/trung-drone-truc-thang-canh-sat-colombia-roi-giua-rung-4930539.html",
+      "summary": "Trực thăng UH-60 của cảnh sát Colombia bị drone tập kích khi bay yểm trợ cho chiến dịch chống ma túy và rơi giữa rừng, khiến ít nhất 12 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T03:04:25+07:00",
+      "fetched": "2025-08-23T11:19:17.331954+07:00"
     },
     {
       "id": "abecb11e2fc0c7c02957f9e69c7014fe",
