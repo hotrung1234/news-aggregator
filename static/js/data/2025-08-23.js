@@ -1,7 +1,97 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T17:15:50.743675+07:00",
+  "lastUpdated": "2025-08-23T19:30:54.909286+07:00",
   "articles": [
+    {
+      "id": "2b0966f4c3511a07bcaf15b07628dee2",
+      "title": "Trung tâm thương mại lớn ở Tokyo hỗn loạn chỉ vì cú huých vai giữa 2 người đàn ông",
+      "link": "https://tuoitre.vn/trung-tam-thuong-mai-lon-o-tokyo-hon-loan-chi-vi-cu-huych-vai-giua-2-nguoi-dan-ong-20250823170335403.htm",
+      "summary": "Ngày 23-8, cảnh sát Tokyo bắt giữ một người đàn ông với cáo buộc tấn công bằng hơi cay khiến 18 người bị thương tại Shibuya ở Tokyo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221683+07:00",
+      "fetched": "2025-08-23T19:30:46.221797+07:00"
+    },
+    {
+      "id": "7e2e5273e4c828710751ac48bac31fb6",
+      "title": "Malaysia phát truyện tranh 'chống tham nhũng' cho trẻ từ 4 tuổi",
+      "link": "https://tuoitre.vn/malaysia-phat-truyen-tranh-chong-tham-nhung-cho-tre-tu-4-tuoi-20250823170528536.htm",
+      "summary": "Lãnh đạo cơ quan chống tham nhũng Malaysia cho biết nên đưa nội dung chống tham nhũng vào truyện tranh, phim để người dân ý thức hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221557+07:00",
+      "fetched": "2025-08-23T19:30:46.221671+07:00"
+    },
+    {
+      "id": "5a6090e062d59e6aeb7a3e7d0dda0827",
+      "title": "Chủ tịch Hà Nội là tổng chỉ huy của thành phố trong điều hành thực hiện các nhiệm vụ A80",
+      "link": "https://tuoitre.vn/chu-tich-ha-noi-la-tong-chi-huy-cua-thanh-pho-trong-dieu-hanh-thuc-hien-cac-nhiem-vu-a80-20250823172140847.htm",
+      "summary": "Ban tổ chức đã lắp đặt thêm hệ thống khán đài với hơn 25.500 chỗ ngồi, kết cấu được gia cố gấp 5 lần tải trọng thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221429+07:00",
+      "fetched": "2025-08-23T19:30:46.221546+07:00"
+    },
+    {
+      "id": "02a7b41103ce3d1c70d340361852b843",
+      "title": "Bộ Tư pháp Mỹ công bố ghi âm thẩm vấn trong vụ án Epstein",
+      "link": "https://tuoitre.vn/bo-tu-phap-my-cong-bo-ghi-am-tham-van-trong-vu-an-epstein-20250823082754461.htm",
+      "summary": "Liên quan đến loạt bê bối quanh tỉ phú Jeffrey Epstein, bà Ghislaine Maxwell - cộng sự thân cận của Epstein, đang gây chú ý khi trả lời thẩm vấn một quan chức cấp cao Bộ Tư pháp Mỹ về sự liên hệ của ông Trump đến vụ án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221297+07:00",
+      "fetched": "2025-08-23T19:30:46.221414+07:00"
+    },
+    {
+      "id": "e9367f42a17d23bf4c8c2aa058c73721",
+      "title": "Dân Mỹ thắt hầu bao nhưng doanh số các 'ông lớn' bán lẻ Mỹ lại tăng mạnh",
+      "link": "https://tuoitre.vn/dan-my-that-hau-bao-nhung-doanh-so-cac-ong-lon-ban-le-my-lai-tang-manh-20250823173535539.htm",
+      "summary": "Walmart, Amazon và T.J. Maxx vượt qua những điều chỉnh thuế quan và lấn lướt các đối thủ nhờ ghìm giá thấp cho người tiêu dùng đang chịu áp lực chi tiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221139+07:00",
+      "fetched": "2025-08-23T19:30:46.221284+07:00"
+    },
+    {
+      "id": "2e07c7cf6a880299396f542c85b8fdd0",
+      "title": "Độc lạ tour xe Độc lập khám phá Hà Nội trên xe Cub đỏ lừng lẫy một thời",
+      "link": "https://tuoitre.vn/doc-la-tour-xe-doc-lap-kham-pha-ha-noi-tren-xe-cub-do-lung-lay-mot-thoi-20250823170118201.htm",
+      "summary": "Căn nhà 48 Hàng Ngang, cột cờ Hà Nội, Hoàng thành Thăng Long… là những điểm đến trên hành trình tour xe Độc lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.221012+07:00",
+      "fetched": "2025-08-23T19:30:46.221128+07:00"
+    },
+    {
+      "id": "e5117b10b7bb478a6fa72f75e65d2667",
+      "title": "Điểm tin 18h: Phải quyết liệt chống hàng giả, hàng nhái; Nhà Trắng nắm 10% cổ phần Intel",
+      "link": "https://tuoitre.vn/diem-tin-18h-phai-quyet-liet-chong-hang-gia-hang-nhai-nha-trang-nam-10-co-phan-intel-20250823142938014.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 23-8-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.220881+07:00",
+      "fetched": "2025-08-23T19:30:46.221000+07:00"
+    },
+    {
+      "id": "5ba70feca76533e6e1fd6b275c4571b0",
+      "title": "Phường Vĩnh Tế: Lấy du lịch làm trung tâm, xây dựng đô thị di sản văn hóa",
+      "link": "https://tuoitre.vn/phuong-vinh-te-lay-du-lich-lam-trung-tam-xay-dung-do-thi-di-san-van-hoa-20250823163054833.htm",
+      "summary": "Phường Vĩnh Tế: Lấy du lịch làm trung tâm, xây dựng đô thị di sản văn hóa",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.220742+07:00",
+      "fetched": "2025-08-23T19:30:46.220868+07:00"
+    },
+    {
+      "id": "ef87b20342d64540309f1acd3e0b5867",
+      "title": "10 nhóm nhiệm vụ thúc đẩy tiến độ điện hạt nhân Ninh Thuận",
+      "link": "https://tuoitre.vn/10-nhom-nhiem-vu-thuc-day-tien-do-dien-hat-nhan-ninh-thuan-20250823173707797.htm",
+      "summary": "Các bộ, ngành, địa phương cần triển khai 10 nhóm nhiệm vụ để thực hiện dự án xây dựng nhà máy điện hạt nhân Ninh Thuận 1 và 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T19:30:46.220526+07:00",
+      "fetched": "2025-08-23T19:30:46.220727+07:00"
+    },
     {
       "id": "4e89299a649dce12f55611e10bd4633f",
       "title": "Sinh viên thực hành phỏng vấn với quán quân thi hùng biện tiếng Anh",
@@ -403,6 +493,236 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T13:22:18.024361+07:00"
     },
     {
+      "id": "023733315b58f969b3f1e11dbc93561a",
+      "title": "Khánh Hòa: Phó thủ tướng Nguyễn Hòa Bình chỉ đạo tháo gỡ 245 dự án tồn đọng",
+      "link": "https://thanhnien.vn/khanh-hoa-pho-thu-tuong-nguyen-hoa-binh-chi-dao-thao-go-245-du-an-ton-dong-185250823170757536.htm",
+      "summary": "Trong chuyến công tác tại Khánh Hòa, Phó thủ tướng thường trực Nguyễn Hòa Bình trực tiếp kiểm tra hai dự án tồn đọng và yêu cầu tỉnh xử lý dứt điểm các dự án vướng mắc để giải phóng nguồn lực, thúc đẩy phát triển kinh tế - xã hội của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:30:00+07:00",
+      "fetched": "2025-08-23T19:30:45.254371+07:00"
+    },
+    {
+      "id": "a7a15efc6046c56912a492b4551b016c",
+      "title": "Quảng Ngãi buộc dừng 2 dự án bất động sản không qua đấu giá",
+      "link": "https://thanhnien.vn/quang-ngai-buoc-dung-2-du-an-bat-dong-san-khong-qua-dau-gia-185250823171406795.htm",
+      "summary": "Hai dự án Khu dân cư phía bắc TP.Quảng Ngãi và Khu đô thị Tịnh Hà Riverside ở Quảng Ngãi bị buộc chấm dứt hoạt động do không thông qua đấu giá quyền sử dụng đất, không đấu thầu dự án có sử dụng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:28:00+07:00",
+      "fetched": "2025-08-23T19:30:45.254542+07:00"
+    },
+    {
+      "id": "59f6073105d1494bd3eba8732d405f03",
+      "title": "Bỏ thanh tra doanh nghiệp bảo hiểm, Bộ Tài chính quản lý thế nào?",
+      "link": "https://thanhnien.vn/bo-thanh-tra-doanh-nghiep-bao-hiem-bo-tai-chinh-quan-ly-the-nao-185250823185218007.htm",
+      "summary": "Bộ Tài chính không còn chức năng thanh tra mà chỉ có chức năng kiểm tra chuyên ngành đối với lĩnh vực kinh doanh bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:17:00+07:00",
+      "fetched": "2025-08-23T19:30:45.254703+07:00"
+    },
+    {
+      "id": "1fbe6f4f181ead1fc7e8a2feedc1ae5e",
+      "title": "Phá án ‘thần tốc’ 6 tiếng, công an Đà Nẵng nhận lá thư tay cảm ơn đặc biệt",
+      "link": "https://thanhnien.vn/pha-an-than-toc-6-tieng-cong-an-da-nang-nhan-la-thu-tay-cam-on-dac-biet-185250823183542809.htm",
+      "summary": "Một lá thư tay được gửi đến Phòng Kỹ thuật hình sự Công an TP.Đà Nẵng đúng ngày truyền thống lực lượng. Đằng sau bức thư ấy là câu chuyện phá án 'thần tốc' trong 6 tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:17:00+07:00",
+      "fetched": "2025-08-23T19:30:45.254858+07:00"
+    },
+    {
+      "id": "c4eada067f24cdd597d8ea7a6a8c7c40",
+      "title": "Nhận bằng IT Phần Lan qua chương trình liên kết tại Việt Nam",
+      "link": "https://vnexpress.net/nhan-bang-it-phan-lan-qua-chuong-trinh-lien-ket-tai-viet-nam-4930717.html",
+      "summary": "Đại học Metropolia, Phần Lan liên kết trường Đại học FPT, đào tạo ngành CNTT thông minh theo chương trình quốc tế, hưởng lợi thế khi tổng chi phí giảm ba lần, với học phí 495 triệu trong ba năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:10:00+07:00",
+      "fetched": "2025-08-23T19:30:42.040003+07:00"
+    },
+    {
+      "id": "51f98113d9d803143c00d669ef9af418",
+      "title": "Quân đội huy động 346.210 người, 8.200 phương tiện ứng phó bão số 5",
+      "link": "https://thanhnien.vn/quan-doi-huy-dong-346210-nguoi-8200-phuong-tien-ung-pho-bao-so-5-185250823185212445.htm",
+      "summary": "Tính đến chiều nay 23.8, Bộ Quốc phòng đã duy trì 346.210 cán bộ chiến sĩ, 8.200 phương tiện các loại sẵn sàng ứng phó với bão số 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:10:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255016+07:00"
+    },
+    {
+      "id": "bdb5b216f5b399ecdc46041c58a8c58d",
+      "title": "Vợ Nguyễn Thái Luyện từng chi 80 triệu đồng 'chạy' bệnh án tâm thần",
+      "link": "https://vnexpress.net/vo-nguyen-thai-luyen-tung-chi-80-trieu-dong-chay-benh-an-tam-than-4930676.html",
+      "summary": "Võ Thị Thanh Mai, vợ của CEO địa ốc Alibaba Nguyễn Thái Luyện, từng chi 80 triệu đồng để nhờ người \"chạy\" bệnh án từ Viện Pháp y tâm thần Trung ương Biên Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:07:20+07:00",
+      "fetched": "2025-08-23T19:30:42.040215+07:00"
+    },
+    {
+      "id": "fd849ba93dde33c40f65f4e3f2587634",
+      "title": "Lộ diện 2 đấu thủ tranh cúp vô địch U.9 toàn quốc: Cân tài cân sức",
+      "link": "https://thanhnien.vn/lo-dien-2-dau-thu-tranh-cup-vo-dich-u9-toan-quoc-can-tai-can-suc-185250823190246888.htm",
+      "summary": "Hôm nay (23.8), hai trận bán kết của giải bóng đá U.9 toàn quốc Toyota Cup 2025 đã diễn ra tại nhà thi đấu tỉnh Tây Ninh. Vượt qua U.9 CLB Hà Nội và U.9 SLNA, hai đội U.9 Việt Hùng Thanh Hóa và U.9 Văn Tâm Đồng Nai đã giành quyền vào chơi trận chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:06:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255185+07:00"
+    },
+    {
+      "id": "82cbed0e70a792842c7e800e85f99d29",
+      "title": "Hơn 50.000 người đã nhận tiền chi trả nghỉ việc sau sắp xếp bộ máy",
+      "link": "https://thanhnien.vn/hon-50000-nguoi-da-nhan-tien-chi-tra-nghi-viec-sau-sap-xep-bo-may-185250823183528028.htm",
+      "summary": "Chiều 23.8, Thủ tướng Phạm Minh Chính đã chủ trì hội nghị đánh giá tình hình sau 2 tháng vận hành chính quyền địa phương 2 cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:04:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255338+07:00"
+    },
+    {
+      "id": "83208ff9ff3d02c82e7040be12cc4ebe",
+      "title": "Quảng Ngãi: Cây đa hơn 200 tuổi trên núi Thiên Bút bị lửa thiêu rụi",
+      "link": "https://thanhnien.vn/quang-ngai-cay-da-hon-200-tuoi-tren-nui-thien-but-bi-lua-thieu-rui-185250823182238566.htm",
+      "summary": "Cây đa hơn 200 tuổi trên núi Thiên Bút (Quảng Ngãi) bất ngờ bị lửa thiêu rụi, lực lượng chức năng đã điều phương tiện cùng hàng chục chiến sĩ đến chữa cháy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:03:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255487+07:00"
+    },
+    {
+      "id": "d772c741e8d71466d81c06b45a23c94b",
+      "title": "Nữ trưởng phòng ế vì hỏi đối tượng vì sao bị hói",
+      "link": "https://vnexpress.net/nu-truong-phong-e-vi-hoi-doi-tuong-vi-sao-bi-hoi-4930670.html",
+      "summary": "Ngay lần xem mắt do mai mối, chị họ tôi đã liên tục dồn hỏi đối phương tại sao bị hói và kể về con mèo rụng lông nhà chị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.040389+07:00"
+    },
+    {
+      "id": "2bda6b922dbab550bb9f1ce77ce154ca",
+      "title": "Người hâm mộ chờ hơn 12 tiếng để cổ vũ thần tượng tại 8Wonder",
+      "link": "https://vnexpress.net/nguoi-ham-mo-cho-hon-12-tieng-de-co-vu-than-tuong-tai-8wonder-4930695.html",
+      "summary": "Hàng chục nghìn người hâm mộ của Soobin, DPR IAN, DJ Snake... đến khu check-in của 8Wonder từ 5h sáng để có được chỗ đẹp, gần sân khấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.040550+07:00"
+    },
+    {
+      "id": "a21893aa7dceb568bb3457468b4aa535",
+      "title": "Vedan Việt Nam giới thiệu sản phẩm đông lạnh tại 'Vietfish'",
+      "link": "https://vnexpress.net/vedan-viet-nam-gioi-thieu-san-pham-dong-lanh-tai-vietfish-4930656.html",
+      "summary": "Loạt món ăn đông lạnh của Vedan kết hợp hương vị quốc tế với nguyên liệu Việt, mang đến trải nghiệm ẩm thực mới mẻ cho người tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.040707+07:00"
+    },
+    {
+      "id": "ed43b0eb699f1cd53383e238c17f5536",
+      "title": "Hè sôi động tại Royal School: 12 tuần, 12 lễ hội, ngàn trải nghiệm của học sinh mầm non",
+      "link": "https://thanhnien.vn/he-soi-dong-tai-royal-school-12-tuan-12-le-hoi-ngan-trai-nghiem-cua-hoc-sinh-mam-non-185250823183812104.htm",
+      "summary": "Mùa hè của học sinh khối mầm non Royal School tại hai cơ sở Phú Mỹ Hưng và Phú Lâm là 12 lễ hội đầy màu sắc với đa dạng bài học khám phá và trải nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T12:00:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255632+07:00"
+    },
+    {
+      "id": "d526bdcc930c66014122f5f5dc83076f",
+      "title": "Giải cứu bé gái 13 tuổi khỏi đường dây mua bán người",
+      "link": "https://thanhnien.vn/giai-cuu-be-gai-13-tuoi-khoi-duong-day-mua-ban-nguoi-185250823172017193.htm",
+      "summary": "Từ khoản vay 10 triệu đồng với lãi suất 'cắt cổ', một bé gái 13 tuổi ở Gia Lai rơi vào bẫy mua bán người, bị ép làm tiếp viên quán karaoke rồi trở thành 'món hàng' chuyển tay... Công an truy xét xuyên tỉnh, thần tốc giải cứu bé gái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:58:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255780+07:00"
+    },
+    {
+      "id": "aa2f3c2fe8d0efadc36df1edd6d4ca61",
+      "title": "Billiards: Cơ thủ Việt Nam tung sê-ri, ngược dòng đánh bại 'khổng lồ xanh' Hàn Quốc",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-tung-se-ri-nguoc-dong-danh-bai-khong-lo-xanh-han-quoc-18525082318483284.htm",
+      "summary": "Nguyễn Quốc Nguyện đã thể hiện bản lĩnh khi ghi sê-ri lớn để lội ngược dòng và giành chiến thắng trước cơ thủ có biệt danh 'khổng lồ xanh' Kang Dong-koong, ở trận đấu thuộc chặng 2 PBA Team League mùa giải 2025  2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:56:00+07:00",
+      "fetched": "2025-08-23T19:30:45.255933+07:00"
+    },
+    {
+      "id": "1e20326578a29673ee98675eb654e28d",
+      "title": "Xây dựng Trung tâm xét nghiệm Gene lớn bậc nhất châu Á",
+      "link": "https://thanhnien.vn/xay-dung-trung-tam-xet-nghiem-gene-lon-bac-nhat-chau-a-185250823185013694.htm",
+      "summary": "Chiều 22.8.2025 tại Hà Nội, Công ty JS Link (Hàn Quốc) và Công ty Cổ phần Sinh học phân tử Gene Viet chính thức ký kết hợp tác chiến lược về việc xây dựng, chuyển giao công nghệ và cung cấp trang thiết bị cho Trung tâm xét nghiệm Gene hiện đại hàng đầu khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:54:00+07:00",
+      "fetched": "2025-08-23T19:30:45.256085+07:00"
+    },
+    {
+      "id": "bb54394a905e1981f2797b518977169a",
+      "title": "Xổ số miền Nam ngày 23 tháng 8: Ôm vé ế, trúng 14 tờ đài Bình Phước",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-23-thang-8-om-ve-e-trung-14-to-dai-binh-phuoc-185250823180213553.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 23 tháng 8, đại lý vé số ở TP.HCM tiết lộ chuyện ôm vé ế, trúng liền 14 tờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:54:00+07:00",
+      "fetched": "2025-08-23T19:30:45.256257+07:00"
+    },
+    {
+      "id": "9217294612701c600abaad409584d2dc",
+      "title": "Cư dân Masterise Homes nhận quà ‘Yêu nước’, tự hào chung tay ‘phủ đỏ’ Việt Nam",
+      "link": "https://thanhnien.vn/cu-dan-masterise-homes-nhan-qua-yeu-nuoc-tu-hao-chung-tay-phu-do-viet-nam-185250823182309018.htm",
+      "summary": "Hơn 10 nghìn bộ quà tặng 'Yêu nước' lấy cảm hứng từ quốc kỳ thiêng liêng đã được Masterise Homes - thành viên của Masterise Group - gửi tặng đến cư dân tại các dự án trải dài từ Bắc tới Nam, lan tỏa mạnh mẽ tinh thần yêu nước và niềm tự hào dân tộc trước thềm đại lễ 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:53:00+07:00",
+      "fetched": "2025-08-23T19:30:45.256407+07:00"
+    },
+    {
+      "id": "21d2bfdd476892f6a6f40eb56bec62aa",
+      "title": "TP.HCM: 2 nạn nhân tử vong do bị chó cắn",
+      "link": "https://thanhnien.vn/tphcm-2-nan-nhan-tu-vong-do-bi-cho-can-185250823183246793.htm",
+      "summary": "2 bệnh nhân ở huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu cũ không biết thời gian bị chó cắn lúc nào nhưng đều tử vong cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:47:00+07:00",
+      "fetched": "2025-08-23T19:30:45.256554+07:00"
+    },
+    {
+      "id": "04e6954962a79b34b8e37716a0900ab3",
+      "title": "Khánh Huyền gây chú ý với vai đại gia",
+      "link": "https://vnexpress.net/khanh-huyen-gay-chu-y-voi-vai-dai-gia-4930580.html",
+      "summary": "Diễn viên Khánh Huyền hóa thân nữ doanh nhân quyền lực nhưng tính cách khó ưa trong phim ''Gió ngang khoảng trời xanh''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:37:07+07:00",
+      "fetched": "2025-08-23T19:30:42.040878+07:00"
+    },
+    {
+      "id": "9bcdaa3c080df424f8e96f0d5dd0d033",
+      "title": "Đa cổ thụ 200 tuổi ở Quảng Ngãi bị cháy rụi",
+      "link": "https://vnexpress.net/da-co-thu-200-tuoi-o-quang-ngai-bi-chay-rui-4930703.html",
+      "summary": "Cây đa cổ thụ 200 năm tuổi, nặng 120 tấn từng được trồng lại sau khi đổ cách đây 4 năm, bị lửa thiêu rụi chiều 23/8, nghi do người dân đốt nhang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:29:56+07:00",
+      "fetched": "2025-08-23T19:30:42.041033+07:00"
+    },
+    {
+      "id": "a5615d223969ed98a1a48da3f67c6844",
+      "title": "Bão Kajiki tăng cấp, gây mưa diện rộng",
+      "link": "https://vnexpress.net/bao-kajiki-tang-cap-gay-mua-dien-rong-4930687.html",
+      "summary": "Bão Kajiki đã tăng lên cấp 10, dự kiến chiều mai có thể đạt cấp 13, gây gió mạnh từ đêm mai và mưa to cho đồng bằng Bắc Bộ, Thanh Hóa - Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:28:55+07:00",
+      "fetched": "2025-08-23T19:30:42.041209+07:00"
+    },
+    {
       "id": "6c5e553346725d16da96f4e209f1eb5d",
       "title": "7 trường Công an nhân dân công bố điểm chuẩn năm 2025",
       "link": "https://tuoitre.vn/7-truong-cong-an-nhan-dan-cong-bo-diem-chuan-nam-2025-20250820104254685.htm",
@@ -553,6 +873,96 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T11:19:15.585255+07:00"
     },
     {
+      "id": "d6569ac430c98b838aabbaa75fc749a8",
+      "title": "Ông Trump: 'Tôi là fan của TikTok'",
+      "link": "https://vnexpress.net/ong-trump-toi-la-fan-cua-tiktok-4930639.html",
+      "summary": "Tổng thống Mỹ Donald Trump không lo ngại vấn đề quyền riêng tư hay an ninh quốc gia liên quan đến TikTok, bày tỏ sự yêu thích nền tảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:10:39+07:00",
+      "fetched": "2025-08-23T19:30:42.041373+07:00"
+    },
+    {
+      "id": "d6569ac430c98b838aabbaa75fc749a8",
+      "title": "Ông Trump: 'Tôi là fan của TikTok'",
+      "link": "https://vnexpress.net/ong-trump-toi-la-fan-cua-tiktok-4930639.html",
+      "summary": "Tổng thống Mỹ Donald Trump không lo ngại vấn đề quyền riêng tư hay an ninh quốc gia liên quan đến TikTok, bày tỏ sự yêu thích nền tảng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T11:10:39+07:00",
+      "fetched": "2025-08-23T19:30:53.052931+07:00"
+    },
+    {
+      "id": "b1c9a9c2f2fc1fc13e6a1711fb44974f",
+      "title": "Sát hại thành viên tổ an ninh cơ sở vì bị mời lên đồn làm việc",
+      "link": "https://vnexpress.net/sat-hai-thanh-vien-to-an-ninh-co-so-vi-bi-moi-len-don-lam-viec-4930689.html",
+      "summary": "Bị nghi sử dụng ma túy, Lê Văn Chì, 29 tuổi, thường bị thành viên tổ an ninh cơ sở mời đến trụ sở công an làm việc nên sinh thù ghét, ra tay sát hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:07:53+07:00",
+      "fetched": "2025-08-23T19:30:42.041542+07:00"
+    },
+    {
+      "id": "795c8a0cfa49b3e1cccc0f7da378c0fa",
+      "title": "Tông gãy barie, thanh niên thoát nạn trước khi tàu đến",
+      "link": "https://vnexpress.net/tong-gay-barie-thanh-nien-thoat-nan-truoc-khi-tau-den-4930699.html",
+      "summary": "Chạy xe máy tông gãy barie, ngã xuống đường ray, nam thanh niên may mắn thoát nạn khi tàu SE4 lao tới nhờ sự kịp thời của hai nhân viên gác chắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:05:45+07:00",
+      "fetched": "2025-08-23T19:30:42.041698+07:00"
+    },
+    {
+      "id": "a9f3924701d918e32b9258cf19cd2ca7",
+      "title": "Đồng phạm của tỷ phú ấu dâm lên tiếng bênh vực ông Trump",
+      "link": "https://vnexpress.net/dong-pham-cua-ty-phu-au-dam-len-tieng-benh-vuc-ong-trump-4930674.html",
+      "summary": "Ghislaine Maxwell, đồng phạm và bạn gái cũ của Jeffrey Epstein, khẳng định chưa từng thấy Tổng thống Trump \"cư xử không đúng mực\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:05:17+07:00",
+      "fetched": "2025-08-23T19:30:42.041861+07:00"
+    },
+    {
+      "id": "a9f3924701d918e32b9258cf19cd2ca7",
+      "title": "Đồng phạm của tỷ phú ấu dâm lên tiếng bênh vực ông Trump",
+      "link": "https://vnexpress.net/dong-pham-cua-ty-phu-au-dam-len-tieng-benh-vuc-ong-trump-4930674.html",
+      "summary": "Ghislaine Maxwell, đồng phạm và bạn gái cũ của Jeffrey Epstein, khẳng định chưa từng thấy Tổng thống Trump \"cư xử không đúng mực\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T11:05:17+07:00",
+      "fetched": "2025-08-23T19:30:47.887958+07:00"
+    },
+    {
+      "id": "f0d6d6b9b8d0da935835b94f7d8253e1",
+      "title": "Sợ em họ 'quên' 100 triệu đồng vay tôi để làm nhà",
+      "link": "https://vnexpress.net/so-em-ho-quen-100-trieu-dong-vay-toi-de-lam-nha-4930629.html",
+      "summary": "Tôi nhắn tin hỏi, em bảo cho em khất thêm thời gian nữa và sẽ cố gắng xoay để gửi lại chúng tôi sớm nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.042016+07:00"
+    },
+    {
+      "id": "70e4683b943dba6ed4c16305828fe04f",
+      "title": "Hàng chục nghìn người đội nắng, mưa chờ 8Wonder",
+      "link": "https://vnexpress.net/hang-chuc-nghin-nguoi-doi-nang-mua-cho-8wonder-4930694.html",
+      "summary": "Khoảng 50.000 người hâm mộ check-in từ 6h sáng để có chỗ ngồi đẹp nhất, sát sân khấu, hòa mình vào không khí đại nhạc hội \"8Wonder - Moments of Wonder\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.042188+07:00"
+    },
+    {
+      "id": "9cd2f74990fc71d6e380c027a6c9e943",
+      "title": "Nhạc sĩ Phạm Toàn Thắng tìm cảm hứng từ chạy bộ",
+      "link": "https://vnexpress.net/nhac-si-pham-toan-thang-tim-cam-hung-tu-chay-bo-4930647.html",
+      "summary": "Tác giả bản hit Cô bé mùa đông tham dự cự ly 10km VnExpress Marathon Libera Nha Trang, so sánh cảm giác hồi hộp như viết những nốt nhạc đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:00:00+07:00",
+      "fetched": "2025-08-23T19:30:42.042351+07:00"
+    },
+    {
       "id": "3865dd59afc465b5db2726769ee7854d",
       "title": "Bão số 5 liên tục tăng cấp, Đà Nẵng ban hành công điện khẩn ứng phó",
       "link": "https://thanhnien.vn/bao-so-5-lien-tuc-tang-cap-da-nang-ban-hanh-cong-dien-khan-ung-pho-185250823155426551.htm",
@@ -591,6 +1001,16 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T10:10:00+07:00",
       "fetched": "2025-08-23T17:15:41.646049+07:00"
+    },
+    {
+      "id": "bc5f6bdeea4fd551ab2e8eb69a1b6614",
+      "title": "Đà Nẵng lập Hội đồng Tư vấn xây dựng Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/da-nang-lap-hoi-dong-tu-van-xay-dung-trung-tam-tai-chinh-quoc-te-4930667.html",
+      "summary": "Hội đồng tư vấn sẽ nghiên cứu, đề xuất chiến lược, mô hình quản lý, chính sách ưu đãi, cơ chế thu hút đầu tư và nhân lực chất lượng cao cho Trung tâm tài chính quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T10:07:21+07:00",
+      "fetched": "2025-08-23T19:30:49.836846+07:00"
     },
     {
       "id": "c0ab519551b8d6e1d664f0f3aeb33251",
