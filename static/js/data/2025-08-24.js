@@ -1,7 +1,157 @@
 window.newsData_2025_08_24 = {
   "date": "2025-08-24",
-  "lastUpdated": "2025-08-24T05:14:34.102429+07:00",
+  "lastUpdated": "2025-08-24T08:24:57.112518+07:00",
   "articles": [
+    {
+      "id": "e064c171782675cb6b924a3246ee75ef",
+      "title": "Cùng Tuổi Trẻ lan tỏa lòng yêu nước và 'Viết tiếp câu chuyện hòa bình'",
+      "link": "https://tuoitre.vn/cung-tuoi-tre-lan-toa-long-yeu-nuoc-va-viet-tiep-cau-chuyen-hoa-binh-2025082315135133.htm",
+      "summary": "Mỗi cảm nhận và chia sẻ của bạn sẽ lan tỏa lòng yêu nước đến người xem, hướng tới chào mừng kỷ niệm 80 năm Cách mạng tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369958+07:00",
+      "fetched": "2025-08-24T08:24:49.370087+07:00"
+    },
+    {
+      "id": "23fe2b1c74db3354973cfcdc047fb72a",
+      "title": "Thái Lan thu hồi bằng danh dự, ông Hun Sen nói chỉ là mảnh giấy",
+      "link": "https://tuoitre.vn/thai-lan-thu-hoi-bang-danh-du-ong-hun-sen-noi-chi-la-manh-giay-20250824073222579.htm",
+      "summary": "Ông Hun Sen khẳng định bằng cấp của các trường Thái Lan là vô dụng và những gì ông học được là ở Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369830+07:00",
+      "fetched": "2025-08-24T08:24:49.369947+07:00"
+    },
+    {
+      "id": "748ea47c0e24e5c5c75cc989170402b2",
+      "title": "AI trả lời thông minh hơn khi chat bằng tiếng Anh?",
+      "link": "https://tuoitre.vn/ai-tra-loi-thong-minh-hon-khi-chat-bang-tieng-anh-20250822161513681.htm",
+      "summary": "Nhiều người dùng tin rằng chatbot AI thông minh hơn khi trả lời bằng tiếng Anh. Nhưng liệu đây có phải là sự thật, hay chỉ là tin đồn nảy sinh từ thói quen sử dụng công nghệ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369709+07:00",
+      "fetched": "2025-08-24T08:24:49.369819+07:00"
+    },
+    {
+      "id": "cfc9d6e5b3a24678cb366b1f744444a6",
+      "title": "Bão số 5 khi nào đổ bộ vào đất liền Việt Nam?",
+      "link": "https://tuoitre.vn/bao-so-5-khi-nao-do-bo-vao-dat-lien-viet-nam-20250824072737941.htm",
+      "summary": "Dự kiến trưa đến chiều mai 25-8, bão số 5 (Kajiki) đổ bộ vào đất liền các tỉnh Thanh Hóa - Quảng Trị với gió mạnh có thể lên tới cấp 11-12 (103-133km/h), giật tới cấp 13-14, kèm theo đó là mưa đặc biệt lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369586+07:00",
+      "fetched": "2025-08-24T08:24:49.369698+07:00"
+    },
+    {
+      "id": "c7cfb906e884eb0118441530abc2110e",
+      "title": "20h tối nay tổng hợp luyện diễu binh, diễu hành lần 2 tại Ba Đình",
+      "link": "https://tuoitre.vn/20h-toi-nay-tong-hop-luyen-dieu-binh-dieu-hanh-lan-2-tai-ba-dinh-2025082321501723.htm",
+      "summary": "Khoảng 20h tối nay 24-8, tổng hợp luyện diễu binh, diễu hành cho lễ kỷ niệm 80 năm Quốc khánh 2-9 lần 2, sẽ diễn ra tại quảng trường Ba Đình, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369461+07:00",
+      "fetched": "2025-08-24T08:24:49.369574+07:00"
+    },
+    {
+      "id": "92c3e716671fc89ad0e4a5f2a4c27c3a",
+      "title": "Người châu Âu lo ngại về tin giả hơn cả khủng bố và biến đổi khí hậu",
+      "link": "https://tuoitre.vn/nguoi-chau-au-lo-ngai-ve-tin-gia-hon-ca-khung-bo-va-bien-doi-khi-hau-20250823153028882.htm",
+      "summary": "Theo khảo sát của Trung tâm Nghiên cứu Pew (Mỹ) với hơn 31.000 người trưởng thành tại 25 quốc gia, tin giả trực tuyến, kinh tế toàn cầu và khủng bố đang được xem là những mối đe dọa lớn nhất hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369197+07:00",
+      "fetched": "2025-08-24T08:24:49.369449+07:00"
+    },
+    {
+      "id": "fc35c4b830306da1bb5db1e6f8639abe",
+      "title": "Chị Thông, anh Hà Bản Liền đến thăm Jun Phạm: Đây là gia đình rồi!",
+      "link": "https://tuoitre.vn/chi-thong-anh-ha-ban-lien-den-tham-jun-pham-day-la-gia-dinh-roi-20250824073355633.htm",
+      "summary": "Jun Phạm vừa chia sẻ hình ảnh vợ chồng anh Hà chị Thông tại sân khấu concert ca nhạc ở Hà Nội tối 23-8. Cộng đồng mạng nhận xét 'Jun Phạm có thêm một gia đình nữa rồi'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.369053+07:00",
+      "fetched": "2025-08-24T08:24:49.369182+07:00"
+    },
+    {
+      "id": "5a4cdf55b642b6bc192a8278444ff61e",
+      "title": "Lịch trực tiếp bóng đá châu Âu 24-8: Man United gặp Fulham",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-24-8-man-united-gap-fulham-20250824004144262.htm",
+      "summary": "Man United gặp Fulham ở vòng 2 Giải ngoại hạng Anh (Premier League) sẽ là tâm điểm loạt trận bóng đá châu Âu đêm 24-8 rạng sáng 25-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368908+07:00",
+      "fetched": "2025-08-24T08:24:49.369040+07:00"
+    },
+    {
+      "id": "52d172aff4bd6dc6f390c13393739125",
+      "title": "HLV Erik Ten Hag khiến Leverkusen thua trong ngày ra quân tại Bundesliga",
+      "link": "https://tuoitre.vn/hlv-erik-ten-hag-khien-leverkusen-thua-trong-ngay-ra-quan-tai-bundesliga-20250824003658515.htm",
+      "summary": "Đêm 23-8, Leverkusen do HLV Erik Ten Hag dẫn dắt đã phải nhận thất bại 1-2 ngay trên sân nhà trước đối thủ bị đánh giá thấp hơn là Hoffenheim trong trận ra quân tại Bundesliga 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368780+07:00",
+      "fetched": "2025-08-24T08:24:49.368897+07:00"
+    },
+    {
+      "id": "0d1b024829b2f4093e4c8814ce8d4d81",
+      "title": "Sản phẩm TH tự hào tiếp sức các chiến sỹ và người dân tại đại lễ 2-9",
+      "link": "https://tuoitre.vn/san-pham-th-tu-hao-tiep-suc-cac-chien-sy-va-nguoi-dan-tai-dai-le-2-9-2025082322051366.htm",
+      "summary": "Trong không khí thiêng liêng của lễ kỷ niệm 80 năm Quốc khánh, Tập đoàn TH tự hào đồng hành cùng chiến sỹ và đồng bào bằng những món quà tiếp sức là các sản phẩm hoàn toàn từ thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368653+07:00",
+      "fetched": "2025-08-24T08:24:49.368765+07:00"
+    },
+    {
+      "id": "e8f05b1d6d89dfaf2787068465b33b94",
+      "title": "Trái tim được hồi sinh trong những ngày mừng Quốc khánh",
+      "link": "https://tuoitre.vn/trai-tim-duoc-hoi-sinh-trong-nhung-ngay-mung-quoc-khanh-2025082322314666.htm",
+      "summary": "Trong những ngày cả nước chào mừng kỷ niệm 80 năm Quốc khánh, khi nhiều nữ chiến sĩ quân y Bệnh viện Trung ương Quân đội 108 vinh dự tham gia đội hình diễu binh, diễu hành, thì ở một “mặt trận” khác, những đồng nghiệp của họ vẫn miệt mài cứu người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368525+07:00",
+      "fetched": "2025-08-24T08:24:49.368641+07:00"
+    },
+    {
+      "id": "846cdfd10a9cc7ca75a6288d165ffad0",
+      "title": "Điểm tin 8h: Giá gạo Việt Nam đang cao nhất thế giới; Đan Mạch quyết hồi sinh văn hóa đọc",
+      "link": "https://tuoitre.vn/diem-tin-8h-gia-gao-viet-nam-dang-cao-nhat-the-gioi-dan-mach-quyet-hoi-sinh-van-hoa-doc-20250823222723385.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 24-8-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368389+07:00",
+      "fetched": "2025-08-24T08:24:49.368512+07:00"
+    },
+    {
+      "id": "658d7e3e06d81a4c120efb5e75e55602",
+      "title": "Thương hiệu thời trang cao cấp phải đổi logo vì Djokovic",
+      "link": "https://tuoitre.vn/thuong-hieu-thoi-trang-cao-cap-phai-doi-logo-vi-djokovic-20250824020357178.htm",
+      "summary": "Thương hiệu thời trang cao cấp Lacoste phải đổi logo có lịch sử 92 năm tuổi chỉ để tôn vinh tay vợt người Serbia Novak Djokovic.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368255+07:00",
+      "fetched": "2025-08-24T08:24:49.368376+07:00"
+    },
+    {
+      "id": "639ca7d6937d3ba2d0defc6586221db9",
+      "title": "Hai bệnh nhân tử vong chỉ sau 2-3 ngày do mắc viêm cân mạc hoại tử",
+      "link": "https://tuoitre.vn/hai-benh-nhan-tu-vong-chi-sau-2-3-ngay-do-mac-viem-can-mac-hoai-tu-20250823225144133.htm",
+      "summary": "Bệnh viện Trung ương Quân đội 108 tiếp nhận và điều trị hai bệnh nhân viêm cân mạc hoại tử biến chứng suy đa tạng. Dù được điều trị tích cực nhưng cả hai bệnh nhân vẫn tử vong chỉ sau 2–3 ngày do nhiễm khuẩn nhiễm độc nặng tiến triển quá nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.368103+07:00",
+      "fetched": "2025-08-24T08:24:49.368242+07:00"
+    },
+    {
+      "id": "d5c125c72e54f8bbba46727927157fb9",
+      "title": "Thiếu quy định, vẫn chờ làn sóng doanh nghiệp FDI niêm yết tại Việt Nam",
+      "link": "https://tuoitre.vn/thieu-quy-dinh-van-cho-lan-song-doanh-nghiep-fdi-niem-yet-tai-viet-nam-20250823231946256.htm",
+      "summary": "Theo thống kê, toàn thị trường chứng khoán Việt Nam hiện có khoảng 10 doanh nghiệp FDI niêm yết với 6 trên HoSE, 1 trên HNX và 3 trên UPCoM. Hơn một thập kỷ qua, gần như không có thêm doanh nghiệp FDI mới niêm yết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:24:49.367797+07:00",
+      "fetched": "2025-08-24T08:24:49.368084+07:00"
+    },
     {
       "id": "36d2470e4a2de5e5629b64159ec442d2",
       "title": "Thời tiết hôm nay 24-8: Từ Bắc Bộ đến Đà Nẵng mưa rất to, Biển Đông bão dữ",
@@ -11,6 +161,16 @@ window.newsData_2025_08_24 = {
       "category": "Tổng hợp",
       "published": "2025-08-24T05:14:27.639262+07:00",
       "fetched": "2025-08-24T05:14:27.639479+07:00"
+    },
+    {
+      "id": "d6073a2020bfc5a574f9012314c130e2",
+      "title": "Cháy tàu cá trong đêm, thiệt hại hơn 1 tỉ đồng",
+      "link": "https://thanhnien.vn/chay-tau-ca-trong-dem-thiet-hai-hon-1-ti-dong-185250824080743968.htm",
+      "summary": "Một tàu cá của ngư dân ở Quảng Ngãi bị chập điện, cháy trong đêm, gây thiệt hại hơn 1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:22:00+07:00",
+      "fetched": "2025-08-24T08:24:45.968282+07:00"
     },
     {
       "id": "ea13bf1b007f931c14c5ce686a7930be",
@@ -163,6 +323,396 @@ window.newsData_2025_08_24 = {
       "fetched": "2025-08-24T01:20:37.066293+07:00"
     },
     {
+      "id": "4c32669c63aab1bb259a8583104ea04b",
+      "title": "Người dân Quảng Trị xuyên đêm gặt lúa, 'chạy đua' với bão số 5",
+      "link": "https://thanhnien.vn/nguoi-dan-quang-tri-xuyen-dem-gat-lua-chay-dua-voi-bao-so-5-18525082407480444.htm",
+      "summary": "Trước nguy cơ bão số 5 (tên quốc tế là bão Kajiki) đổ bộ, người dân Quảng Trị đã tranh thủ ngày đêm thu hoạch lúa hè thu và thủy sản nhằm hạn chế thấp nhất thiệt hại về mùa vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:19:00+07:00",
+      "fetched": "2025-08-24T08:24:45.968454+07:00"
+    },
+    {
+      "id": "d699b0a50a723b611b2e376268a40a04",
+      "title": "Nghệ nhân Bùi Thị Sương: Gìn giữ và lan tỏa tinh hoa ẩm thực Việt",
+      "link": "https://thanhnien.vn/nghe-nhan-bui-thi-suong-gin-giu-va-lan-toa-tinh-hoa-am-thuc-viet-18525082320111712.htm",
+      "summary": "Đối với những người yêu ẩm thực VN, cái tên Bùi Thị Sương luôn gợi lên sự trân trọng và ngưỡng mộ. Bà không chỉ là người truyền cảm hứng ẩm thực tài hoa mà còn góp công lớn trong việc gìn giữ và lan tỏa giá trị của ẩm thực truyền thống Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:15:00+07:00",
+      "fetched": "2025-08-24T08:24:45.968611+07:00"
+    },
+    {
+      "id": "9d1ea523858da08550238749bb67776e",
+      "title": "Cầu lông Việt Nam tự tin bước ra đấu trường thế giới, kỳ vọng Nguyễn Thùy Linh",
+      "link": "https://thanhnien.vn/cau-long-viet-nam-tu-tin-buoc-ra-dau-truong-the-gioi-ky-vong-nguyen-thuy-linh-185250823231710707.htm",
+      "summary": "Nỗ lực chinh phục các giải quốc tế để đạt thứ hạng cao trên bảng xếp hạng của Liên đoàn Cầu lông thế giới (BWF) giúp 6 tay vợt VN giành quyền tham dự giải cầu lông vô địch thế giới 2025 diễn ra tại Paris (Pháp) từ ngày 25 - 31.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:12:00+07:00",
+      "fetched": "2025-08-24T08:24:45.968761+07:00"
+    },
+    {
+      "id": "7b97348a17680f2287d8a940d49963e5",
+      "title": "5 thực phẩm người cao huyết áp nên ăn hàng tuần",
+      "link": "https://vnexpress.net/5-thuc-pham-nguoi-cao-huyet-ap-nen-an-hang-tuan-4930663.html",
+      "summary": "Củ dền chứa hàm lượng nitrat cao, có tác dụng tăng lưu thông mạch máu, còn quả đào giàu kali, giúp loại bỏ lượng natri dư thừa để hạ huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:10:01+07:00",
+      "fetched": "2025-08-24T08:24:42.482210+07:00"
+    },
+    {
+      "id": "a9614c41dddd36d80e8b8c7f55495dad",
+      "title": "Uống nước gừng mỗi sáng: Điều gì xảy ra với huyết áp và mỡ máu?",
+      "link": "https://thanhnien.vn/uong-nuoc-gung-moi-sang-dieu-gi-xay-ra-voi-huyet-ap-va-mo-mau-185250823221650915.htm",
+      "summary": "Gừng từ lâu đã được sử dụng rộng rãi trong ẩm thực và y học truyền thống. Trà gừng được biết đến với tác dụng làm dịu dạ dày, giảm buồn nôn, nhưng đồ uống ấm áp này còn có thể mang lại nhiều lợi ích sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:09:00+07:00",
+      "fetched": "2025-08-24T08:24:45.968911+07:00"
+    },
+    {
+      "id": "0ab180a5eff5c809c9dad1c3cca01d48",
+      "title": "Linh cẩu chạy té khói vì trêu hà mã",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-linh-cau-chay-te-khoi-vi-treu-ha-ma-4928928.html",
+      "summary": "Mon men đến gần hà mã để kiếm bữa ăn nhưng linh cẩu có nằm mơ cũng không ngờ mình suýt trở thành thức ăn cho hà mã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.482401+07:00"
+    },
+    {
+      "id": "c01cf2c8cb88c1dc10417f1f386c7d75",
+      "title": "Lịch nhập học của hơn 40 trường đại học ở Hà Nội",
+      "link": "https://vnexpress.net/lich-nhap-hoc-2025-tat-ca-truong-dai-hoc-o-ha-noi-chi-tiet-nhat-4928401.html",
+      "summary": "Nhiều đại học ở Hà Nội đón tân sinh viên nhập học trực tiếp từ hôm nay hoặc vài ngày tới, một số ít tổ chức vào đầu tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.482568+07:00"
+    },
+    {
+      "id": "6ae49e840ebee703973b0c3a201b66fa",
+      "title": "Nhận một tỷ đồng nhờ phát triển blockchain quản lý văn bằng, chứng chỉ",
+      "link": "https://vnexpress.net/nhan-mot-ty-dong-nho-phat-trien-blockchain-quan-ly-van-bang-chung-chi-4930786.html",
+      "summary": "Nền tảng quản lý văn bằng, chứng chỉ quốc gia là một trong bốn công trình giành giải VietChain Talents.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.482734+07:00"
+    },
+    {
+      "id": "eda806ece862d87ef19edfe6c2acc1d1",
+      "title": "Vì sao thoa kem chống nắng vẫn bị sạm nám da?",
+      "link": "https://vnexpress.net/vi-sao-thoa-kem-chong-nang-van-bi-sam-nam-da-4930757.html",
+      "summary": "Tôi thường xuyên thoa kem chống nắng trước khi ra đường nhưng vẫn bị sạm và nám da. Nguyên nhân do đâu?(Phương Vy, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.482899+07:00"
+    },
+    {
+      "id": "280cf59f21f18a9a65441a2202a02b01",
+      "title": "Cận thị nặng có làm tăng nguy cơ đục thủy tinh thể?",
+      "link": "https://vnexpress.net/can-thi-nang-co-lam-tang-nguy-co-duc-thuy-tinh-the-4930665.html",
+      "summary": "Tôi bị cận thị 21 năm, mắt phải 8,5 độ, mắt trái 9,25 độ, có nguy cơ bị đục thủy tinh thể không? (Minh Ngọc, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.483090+07:00"
+    },
+    {
+      "id": "adea85d11bef616c35455029504dae80",
+      "title": "5 loại ung thư có thể xảy ra ở người trẻ tuổi",
+      "link": "https://vnexpress.net/5-loai-ung-thu-co-the-xay-ra-o-nguoi-tre-tuoi-4930617.html",
+      "summary": "Ung thư vú, tuyến giáp, u lympho ngày càng trẻ hóa, có thể xảy ra ở người dưới 30 tuổi do yếu tố di truyền hoặc lối sống, ô nhiễm môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.483274+07:00"
+    },
+    {
+      "id": "5327d8e2f0e2c63173b29607848811ab",
+      "title": "Tăng huyết áp ban đêm có gây đột quỵ?",
+      "link": "https://vnexpress.net/tang-huyet-ap-ban-dem-co-gay-dot-quy-4930616.html",
+      "summary": "Ba tôi thường bị tăng huyết áp vào ban đêm, kèm hồi hộp, tim đập nhanh. Tình trạng này có gây đột quỵ không, tầm soát thế nào? (Thu Trang, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.483427+07:00"
+    },
+    {
+      "id": "71148883b40447c4eaffdfc928b1f9c6",
+      "title": "Nhàn đàm: Mùa thu về trên phố",
+      "link": "https://thanhnien.vn/nhan-dam-mua-thu-ve-tren-pho-185250823191417665.htm",
+      "summary": "Mùa thu ở phương nam dẫu chẳng rõ rệt như những vùng đất có hẳn bốn mùa, nhưng chỉ cần chậm lại một chút, lắng nghe hơi thở của đất trời, của những cơn gió giao mùa, bạn sẽ nhận ra thu sang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:45.969084+07:00"
+    },
+    {
+      "id": "cb6e7523f10afd63a3195d6bcf70da8e",
+      "title": "Chiếc lá - Thơ của Ngô Mậu Tình",
+      "link": "https://thanhnien.vn/chiec-la-tho-cua-ngo-mau-tinh-185250823190951284.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699088+07:00"
+    },
+    {
+      "id": "4bd58a080d17fe865425967ecce41911",
+      "title": "Công chức trẻ lan tỏa tinh thần tình nguyện từ vùng biên",
+      "link": "https://thanhnien.vn/cong-chuc-tre-lan-toa-tinh-than-tinh-nguyen-tu-vung-bien-185250823171638196.htm",
+      "summary": "Sáng 23.8, tại xã biên giới Đồng Đăng (Lạng Sơn), T.Ư Đoàn phối hợp với Tỉnh đoàn Lạng Sơn tổ chức lễ ra quân Chương trình \"Kỳ nghỉ hồng\" năm 2025. Đây là hoạt động tình nguyện trong khuôn khổ Chiến dịch Thanh niên tình nguyện hè, dành cho khối cán bộ, công chức, viên chức trẻ, triển khai tại địa bà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699298+07:00"
+    },
+    {
+      "id": "13403dada81c9d64da5db286f1d3873f",
+      "title": "Chân váy hoa cổ điển, chân váy ca rô là điểm nhấn thú vị nhất mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-hoa-co-dien-chan-vay-ca-ro-la-diem-nhan-thu-vi-nhat-mua-thu-185250821125931886.htm",
+      "summary": "Khi lướt qua hình ảnh của những mẫu chân váy họa tiết cổ điển như chân váy hoa, chân váy kẻ ca rô, chân váy họa tiết trừu tượng... nàng sẽ khó lòng rời mắt. Món đồ thời thượng này tạo nên điểm nhấn thú vị cho các bản phối mùa thu lãng mạn và giàu chất thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699464+07:00"
+    },
+    {
+      "id": "6ae49e840ebee703973b0c3a201b66fa",
+      "title": "Nhận một tỷ đồng nhờ phát triển blockchain quản lý văn bằng, chứng chỉ",
+      "link": "https://vnexpress.net/nhan-mot-ty-dong-nho-phat-trien-blockchain-quan-ly-van-bang-chung-chi-4930786.html",
+      "summary": "Nền tảng quản lý văn bằng, chứng chỉ quốc gia là một trong bốn công trình giành giải VietChain Talents.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-24T08:24:55.667574+07:00"
+    },
+    {
+      "id": "cae02a94fd4b8a1ec2dac34add28f2b1",
+      "title": "Chế độ thú vị trên YouTube nhiều người lãng quên",
+      "link": "https://thanhnien.vn/che-do-thu-vi-tren-youtube-nhieu-nguoi-lang-quen-185250823094008299.htm",
+      "summary": "Mặc dù là nền tảng quen thuộc với nhiều người nhưng không phải ai cũng biết đến tính năng thú vị trên YouTube mang tên Ambient Mode.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:59:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699619+07:00"
+    },
+    {
+      "id": "d989342744fd91409d6d8ca41e25580d",
+      "title": "Gyokeres vuốt tóc ăn mừng, đáp trả chỉ trích từ trận Man Utd",
+      "link": "https://vnexpress.net/gyokeres-vuot-toc-an-mung-dap-tra-chi-trich-tu-tran-man-utd-4930779.html",
+      "summary": "Sau khi ghi bàn ấn định chiến thắng Leeds 5-0, tiền đạo tân binh Viktor Gyokeres ăn mừng bằng cách vuốt tóc để đáp trả những lời mỉa mai từ trận ra quân Ngoại hạng Anh tuần trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:58:48+07:00",
+      "fetched": "2025-08-24T08:24:42.483586+07:00"
+    },
+    {
+      "id": "d989342744fd91409d6d8ca41e25580d",
+      "title": "Gyokeres vuốt tóc ăn mừng, đáp trả chỉ trích từ trận Man Utd",
+      "link": "https://vnexpress.net/gyokeres-vuot-toc-an-mung-dap-tra-chi-trich-tu-tran-man-utd-4930779.html",
+      "summary": "Sau khi ghi bàn ấn định chiến thắng Leeds 5-0, tiền đạo tân binh Viktor Gyokeres ăn mừng bằng cách vuốt tóc để đáp trả những lời mỉa mai từ trận ra quân Ngoại hạng Anh tuần trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:58:48+07:00",
+      "fetched": "2025-08-24T08:24:57.106740+07:00"
+    },
+    {
+      "id": "2337ab194c17757c2e4de73397a4cb6a",
+      "title": "Bão số 5: Đà Nẵng họp khẩn với 94 xã, phường",
+      "link": "https://thanhnien.vn/bao-so-5-da-nang-hop-khan-voi-94-xa-phuong-185250823220337891.htm",
+      "summary": "TP.Đà Nẵng họp khẩn với 94 xã, phường để ứng phó với bão số 5, đồng thời kêu gọi toàn bộ 528 tàu cá với hơn 3.700 ngư dân vào nơi trú tránh an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:57:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699770+07:00"
+    },
+    {
+      "id": "359661eca510d3496e47a17d8587e1cb",
+      "title": "Gemini sắp cập bến iPhone theo con đường 'chính ngạch'",
+      "link": "https://thanhnien.vn/gemini-sap-cap-ben-iphone-theo-con-duong-chinh-ngach-185250823135934417.htm",
+      "summary": "Apple được cho là đang trong giai đoạn thảo luận ban đầu với Google nhằm cải tiến Siri thông qua nền tảng Gemini.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:55:00+07:00",
+      "fetched": "2025-08-24T08:24:47.699923+07:00"
+    },
+    {
+      "id": "9b2ae19ada085a7184d810e3bd10aa0a",
+      "title": "Cách tăng âm lượng iPhone nếu mức 'max' vẫn chưa đủ",
+      "link": "https://thanhnien.vn/cach-tang-am-luong-iphone-neu-muc-max-van-chua-du-185250819142406923.htm",
+      "summary": "iPhone hiện đại được trang bị loa tích hợp có kích thước đủ lớn để phục vụ hầu hết các nhu cầu sử dụng như nghe nhạc hay xem phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:51:00+07:00",
+      "fetched": "2025-08-24T08:24:47.700093+07:00"
+    },
+    {
+      "id": "0803abfdd5bdec8b62afe9657817150a",
+      "title": "Hậu vệ Chelsea hé lộ cảnh bị hắt hủi",
+      "link": "https://vnexpress.net/hau-ve-chelsea-he-lo-canh-bi-hat-hui-4930768.html",
+      "summary": "Axel Disasi gây chú ý khi đăng tải loạt ảnh bên trong phòng thay đồ tạm bợ dành cho những cầu thủ bị Chelsea loại khỏi kế hoạch thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:49:11+07:00",
+      "fetched": "2025-08-24T08:24:42.483752+07:00"
+    },
+    {
+      "id": "0803abfdd5bdec8b62afe9657817150a",
+      "title": "Hậu vệ Chelsea hé lộ cảnh bị hắt hủi",
+      "link": "https://vnexpress.net/hau-ve-chelsea-he-lo-canh-bi-hat-hui-4930768.html",
+      "summary": "Axel Disasi gây chú ý khi đăng tải loạt ảnh bên trong phòng thay đồ tạm bợ dành cho những cầu thủ bị Chelsea loại khỏi kế hoạch thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:49:11+07:00",
+      "fetched": "2025-08-24T08:24:57.106903+07:00"
+    },
+    {
+      "id": "672cf1f40d0189d1d4dbe7d42d69b99d",
+      "title": "Guardiola: 'Tôi không yêu cầu Man City làm điều đặc biệt'",
+      "link": "https://vnexpress.net/guardiola-toi-khong-yeu-cau-man-city-lam-dieu-dac-biet-4930774.html",
+      "summary": "HLV Pep Guardiola thừa nhận Man City không làm tốt những điều cơ bản, sau trận thua Tottenham 0-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:42:58+07:00",
+      "fetched": "2025-08-24T08:24:42.483904+07:00"
+    },
+    {
+      "id": "672cf1f40d0189d1d4dbe7d42d69b99d",
+      "title": "Guardiola: 'Tôi không yêu cầu Man City làm điều đặc biệt'",
+      "link": "https://vnexpress.net/guardiola-toi-khong-yeu-cau-man-city-lam-dieu-dac-biet-4930774.html",
+      "summary": "HLV Pep Guardiola thừa nhận Man City không làm tốt những điều cơ bản, sau trận thua Tottenham 0-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:42:58+07:00",
+      "fetched": "2025-08-24T08:24:57.107092+07:00"
+    },
+    {
+      "id": "75c8a7204be08fb76ef7a5b9ddf0d315",
+      "title": "WSJ: Lầu Năm Góc ngăn Ukraine tấn công lãnh thổ Nga",
+      "link": "https://thanhnien.vn/wsj-lau-nam-goc-ngan-ukraine-tan-cong-lanh-tho-nga-185250824073804873.htm",
+      "summary": "Lầu Năm Góc được cho là đã ngăn Ukraine sử dụng tên lửa Mỹ để tấn công mục tiêu trong lãnh thổ Nga nhằm thuyết phục nước này đàm phán hòa bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:40:00+07:00",
+      "fetched": "2025-08-24T08:24:47.700245+07:00"
+    },
+    {
+      "id": "982853485ac017060e8bec13118bed44",
+      "title": "Hà Nội tăng tần suất tàu điện phục vụ ngày tổng hợp luyện lần 2",
+      "link": "https://thanhnien.vn/ha-noi-tang-tan-suat-tau-dien-phuc-vu-ngay-tong-hop-luyen-lan-2-185250824072143294.htm",
+      "summary": "Để đáp ứng nhu cầu của người dân trong ngày 24.8, ngày diễn ra buổi tổng hợp luyện diễu binh lần 2 ở quảng trường Ba Đình và các tuyến phố trung tâm, 2 tuyến tàu điện ở Hà Nội sẽ tăng tần suất vận hành và chạy đến 24 giờ cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:37:00+07:00",
+      "fetched": "2025-08-24T08:24:47.700395+07:00"
+    },
+    {
+      "id": "81c9e8464bef11f010de3b07a7e5091c",
+      "title": "Máy bay luyện tập trên Quảng trường Ba Đình",
+      "link": "https://vnexpress.net/may-bay-luyen-tap-tren-quang-truong-ba-dinh-4930784.html",
+      "summary": "Sáng 24/8, \"hổ mang chúa\" SU-30MK2 cùng trực thăng Mi, máy bay vận tải CASA... sẽ bay qua Quảng trường Ba Đình để luyện tập cho lễ diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:30:00+07:00",
+      "fetched": "2025-08-24T08:24:42.484074+07:00"
+    },
+    {
+      "id": "6f466281b36b469083a50db7eeb1e3bd",
+      "title": "Ba tuần phát hiện ba vụ BTS giả gửi tin nhắn lừa đảo",
+      "link": "https://vnexpress.net/ba-tuan-phat-hien-ba-vu-bts-gia-gui-tin-nhan-lua-dao-4930771.html",
+      "summary": "Kẻ gian dùng trạm BTS giả lắp trên ôtô, bị thu giữ khi đang phát tán tin nhắn lừa đảo mạo danh ngân hàng, công ty chuyển phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:06:19+07:00",
+      "fetched": "2025-08-24T08:24:42.484226+07:00"
+    },
+    {
+      "id": "6f466281b36b469083a50db7eeb1e3bd",
+      "title": "Ba tuần phát hiện ba vụ BTS giả gửi tin nhắn lừa đảo",
+      "link": "https://vnexpress.net/ba-tuan-phat-hien-ba-vu-bts-gia-gui-tin-nhan-lua-dao-4930771.html",
+      "summary": "Kẻ gian dùng trạm BTS giả lắp trên ôtô, bị thu giữ khi đang phát tán tin nhắn lừa đảo mạo danh ngân hàng, công ty chuyển phát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T00:06:19+07:00",
+      "fetched": "2025-08-24T08:24:55.667064+07:00"
+    },
+    {
+      "id": "20568301462d2886a53471538c7ff1e1",
+      "title": "Rolls-Royce nhúng sedan siêu sang Phantom xuống bể bơi",
+      "link": "https://vnexpress.net/rolls-royce-nhung-sedan-sieu-sang-phantom-xuong-be-boi-4930506.html",
+      "summary": "Chiếc Phantom được thả xuống nước không phải qua công nghệ AI hay kỹ thuật số, mà là màn biểu diễn thực tế do chính hãng xe Anh thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.484383+07:00"
+    },
+    {
+      "id": "a1e7aea107ef11891b57fe48e49ea006",
+      "title": "Freightzy ra mắt dịch vụ mới cho chuỗi cung ứng lạnh",
+      "link": "https://vnexpress.net/freightzy-ra-mat-dich-vu-moi-cho-chuoi-cung-ung-lanh-4928875.html",
+      "summary": "Freightzy giới thiệu chương trình Reefer LTL, giúp doanh nghiệp vừa và nhỏ tiếp cận vận tải lạnh B2B khắp Bắc Mỹ và Mexico với chi phí hợp lý, dịch vụ tin cậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T00:00:00+07:00",
+      "fetched": "2025-08-24T08:24:42.484542+07:00"
+    },
+    {
+      "id": "d92e33ac2afcad008a0acc30f16f47e8",
+      "title": "Doanh nhân Mỹ 'phát tài' sau khi cầu hôn con gái ông Trump",
+      "link": "https://vnexpress.net/doanh-nhan-my-phat-tai-sau-khi-cau-hon-con-gai-ong-trump-4930029.html",
+      "summary": "Kể từ khi cầu hôn rồi làm đám cưới với Tiffany Trump, doanh nhân Boulos đã gặt hái thành công trong làm ăn và cả con đường hoạt động chính trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T23:38:22+07:00",
+      "fetched": "2025-08-24T08:24:51.273439+07:00"
+    },
+    {
+      "id": "dae8079d6cc8c054396120b30c2c240e",
+      "title": "Triều Tiên phóng thử tên lửa phòng không dùng 'công nghệ đặc biệt'",
+      "link": "https://vnexpress.net/trieu-tien-phong-thu-ten-lua-phong-khong-dung-cong-nghe-dac-biet-4930777.html",
+      "summary": "Triều Tiên thông báo thử nghiệm hai tên lửa phòng không mới sử dụng \"công nghệ đặc biệt\", dưới sự giám sát của lãnh đạo Kim Jong-un.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T23:37:56+07:00",
+      "fetched": "2025-08-24T08:24:51.273621+07:00"
+    },
+    {
+      "id": "de8a3f3f9ff430ccc44ea119d7986da2",
+      "title": "Cơ hội rộng mở từ 'thế hệ tiêu dùng Net Zero'",
+      "link": "https://vnexpress.net/co-hoi-rong-mo-tu-the-he-tieu-dung-net-zero-4930385.html",
+      "summary": "Theo chuyên gia, “thế hệ Net Zero” không chỉ là giới trẻ mà là nhóm khách hàng chuộng sản phẩm xanh đang lớn mạnh, tạo nhiều cơ hội kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T23:00:00+07:00",
+      "fetched": "2025-08-24T08:24:52.392887+07:00"
+    },
+    {
+      "id": "23bfb703e64a400d9a00d3dc0f54020e",
+      "title": "McTominay, De Bruyne giúp Napoli thắng trận ra quân Serie A",
+      "link": "https://vnexpress.net/mctominay-de-bruyne-giup-napoli-thang-tran-ra-quan-serie-a-4930776.html",
+      "summary": "Hai tiền vệ Scott McTominay và Kevin de Bruyne cùng ghi bàn giúp Napoli thắng chủ nhà Sassuolo 2-0 ở vòng một Serie A mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T22:34:32+07:00",
+      "fetched": "2025-08-24T08:24:57.107256+07:00"
+    },
+    {
+      "id": "45ab35a62bbe59f3ec3e943c3af91559",
+      "title": "Barca thắng ngược dù bị dẫn hai bàn ở La Liga",
+      "link": "https://vnexpress.net/barca-thang-nguoc-du-bi-dan-hai-ban-o-la-liga-4930775.html",
+      "summary": "Sau khi bị dẫn 0-2 ở hiệp một, Barca ghi ba bàn trong hiệp hai để thắng ngược chủ nhà Levante 3-2 tại vòng hai La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T22:34:09+07:00",
+      "fetched": "2025-08-24T08:24:57.107411+07:00"
+    },
+    {
       "id": "e793ebd32ae1093845cbc03c7870ce61",
       "title": "Diễn biến mới trong quan hệ Nga - Mỹ",
       "link": "https://thanhnien.vn/dien-bien-moi-trong-quan-he-nga-my-185250823221609151.htm",
@@ -211,6 +761,16 @@ window.newsData_2025_08_24 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T22:00:00+07:00",
       "fetched": "2025-08-24T05:14:26.231092+07:00"
+    },
+    {
+      "id": "ee99534d8b27e37644ece5fbe7b09977",
+      "title": "Nhà sáng lập startup AI: 'Cân nhắc khi học chương trình quá dài'",
+      "link": "https://vnexpress.net/nha-sang-lap-startup-ai-can-nhac-khi-hoc-chuong-trinh-qua-dai-4929947.html",
+      "summary": "Jad Tarifi, nhà sáng lập nhóm AI tạo sinh tại Google, khuyên mọi người cân nhắc khi theo đuổi lĩnh vực có chương trình học đòi hỏi nhiều thời gian.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T22:00:00+07:00",
+      "fetched": "2025-08-24T08:24:55.667244+07:00"
     },
     {
       "id": "b88eb855282f29a27221cc899ac7c1ab",
