@@ -1,7 +1,157 @@
 window.newsData_2025_08_25 = {
   "date": "2025-08-25",
-  "lastUpdated": "2025-08-25T17:19:26.475114+07:00",
+  "lastUpdated": "2025-08-25T19:35:45.692035+07:00",
   "articles": [
+    {
+      "id": "4d8a7b03f78a2e50c2b22067ff02d2ad",
+      "title": "TSMC loại thiết bị Trung Quốc khỏi dây chuyền để né đòn Mỹ",
+      "link": "https://tuoitre.vn/tsmc-loai-thiet-bi-trung-quoc-khoi-day-chuyen-de-ne-don-my-20250825172604895.htm",
+      "summary": "Lo sợ không được hưởng ưu đãi từ Chính phủ Mỹ, TSMC loại bỏ các thiết bị sản xuất từ Trung Quốc khỏi các dây chuyền chip tân tiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.903547+07:00",
+      "fetched": "2025-08-25T19:35:36.903659+07:00"
+    },
+    {
+      "id": "1aa153984c55013f5bc27c987068567c",
+      "title": "Lao xe máy vào gác chắn đã hạ, hai người được cứu ngay trước mũi tàu lửa",
+      "link": "https://tuoitre.vn/lao-xe-may-vao-gac-chan-da-ha-hai-nguoi-duoc-cuu-ngay-truoc-mui-tau-lua-20250825165118649.htm",
+      "summary": "Gác chắn đường ngang đã hạ, đèn đỏ sáng, tín hiệu chuông reo lớn nhưng hai người đi xe máy vẫn chạy tốc độ cao, hất tung dàn chắn ngã xuống đường ray.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.903424+07:00",
+      "fetched": "2025-08-25T19:35:36.903536+07:00"
+    },
+    {
+      "id": "50bda9edf517fa07a1abb20af3d05bdf",
+      "title": "Phát hiện virus khiến nấm có thể gây hại cho người",
+      "link": "https://tuoitre.vn/phat-hien-virus-khien-nam-co-the-gay-hai-cho-nguoi-20250825170820416.htm",
+      "summary": "Các nhà khoa học Israel và Đức vừa phát hiện loại virus ký sinh mang tên mycovirus có thể giúp nấm Aspergillus phát triển mạnh mẽ, khiến loại nấm này trở nên nguy hiểm hơn đối với con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.903299+07:00",
+      "fetched": "2025-08-25T19:35:36.903413+07:00"
+    },
+    {
+      "id": "2cdfb6f94a86414cdf2dd3cce421188e",
+      "title": "Tuyển Việt Nam gọi 3 tân binh đá giao hữu Nam Định và CLB Công An Hà Nội",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-goi-3-tan-binh-da-giao-huu-nam-dinh-va-clb-cong-an-ha-noi-20250825174522567.htm",
+      "summary": "Tuyển Việt Nam chuẩn bị hội quân lần thứ 3 năm 2025 với sự góp mặt của 3 gương mặt hoàn toàn mới là Trần Hoàng Phúc, Đinh Quang Kiệt, Phạm Gia Hưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.903169+07:00",
+      "fetched": "2025-08-25T19:35:36.903287+07:00"
+    },
+    {
+      "id": "74bd0bd2491c03a770dd5426c49db101",
+      "title": "Cần Thơ công bố số điện thoại hỗ trợ cán bộ có nhu cầu mua nhà ở xã hội",
+      "link": "https://tuoitre.vn/can-tho-cong-bo-so-dien-thoai-ho-tro-can-bo-co-nhu-cau-mua-nha-o-xa-hoi-20250825172905479.htm",
+      "summary": "TP Cần Thơ cung cấp thông tin điều kiện, thủ tục mua thuê nhà ở xã hội và công bố số điện thoại hỗ trợ trực tiếp cán bộ, công chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.903044+07:00",
+      "fetched": "2025-08-25T19:35:36.903158+07:00"
+    },
+    {
+      "id": "7c25fc5aaf259e0032f668a695f37519",
+      "title": "Bắt phó thống đốc Kursk tham ô tiền xây công sự",
+      "link": "https://tuoitre.vn/bat-pho-thong-doc-kursk-tham-o-tien-xay-cong-su-20250825175229618.htm",
+      "summary": "Phó thống đốc Kursk bị bắt do những sai phạm liên quan đến biển thủ ngân sách xây công sự phòng thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902914+07:00",
+      "fetched": "2025-08-25T19:35:36.903033+07:00"
+    },
+    {
+      "id": "ba17e0a7890eb32c17321f5405cf74ce",
+      "title": "Gene Viet hợp tác JS Link xây dựng Trung tâm xét nghiệm gene",
+      "link": "https://tuoitre.vn/gene-viet-hop-tac-js-link-xay-dung-trung-tam-xet-nghiem-gene-20250825174303374.htm",
+      "summary": "Chiều 22-8-2025 tại Hà Nội, Công ty JS Link (Hàn Quốc) và Công ty Cổ phần Sinh học phân tử Gene Viet ký kết hợp tác xây dựng, chuyển giao công nghệ và cung cấp trang thiết bị cho Trung tâm xét nghiệm gene",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902787+07:00",
+      "fetched": "2025-08-25T19:35:36.902903+07:00"
+    },
+    {
+      "id": "32803f8f0817af1301e1acdc28742e45",
+      "title": "Chương trình Trái tim cho em đổi mới sau 17 năm",
+      "link": "https://tuoitre.vn/chuong-trinh-trai-tim-cho-em-doi-moi-sau-17-nam-20250825174529945.htm",
+      "summary": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) và Quỹ Tấm lòng Việt - Đài Truyền hình Việt Nam công bố các đổi mới quan trọng trong chương trình \"Trái tim cho em\", nhằm mở rộng phạm vi hỗ trợ và nâng cao hiệu quả điều trị cho bệnh nhi khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902633+07:00",
+      "fetched": "2025-08-25T19:35:36.902774+07:00"
+    },
+    {
+      "id": "ca01365ced90478fbb8dc067ef789651",
+      "title": "Trợ lý HLV Luis Viegas nghỉ việc sau án phạt xúc phạm trọng tài",
+      "link": "https://tuoitre.vn/tro-ly-hlv-luis-viegas-nghi-viec-sau-an-phat-xuc-pham-trong-tai-20250825175037283.htm",
+      "summary": "Trao đổi với Tuổi Trẻ Online chiều 25-8, trợ lý HLV Luis Viegas cho biết ông sẽ xin nghỉ CLB Công An Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902499+07:00",
+      "fetched": "2025-08-25T19:35:36.902621+07:00"
+    },
+    {
+      "id": "19dd5207178ee633106d90d92e481191",
+      "title": "Xác định lại giá đất các hợp đồng BT ở khu đô thị Thủ Thiêm",
+      "link": "https://tuoitre.vn/xac-dinh-lai-gia-dat-cac-hop-dong-bt-o-khu-do-thi-thu-thiem-20250825175037189.htm",
+      "summary": "Bốn tuyến đường, cầu Thủ Thiêm 2 và một số công trình tại Thủ Thiêm sẽ được rà soát ranh giới, diện tích, giá đất để thanh toán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902372+07:00",
+      "fetched": "2025-08-25T19:35:36.902488+07:00"
+    },
+    {
+      "id": "7d1c7d99b97e035fd593240a161ae0d9",
+      "title": "Huế xây mới, sửa chữa 6.778 căn nhà, hoàn thành xóa nhà tạm",
+      "link": "https://tuoitre.vn/hue-xay-moi-sua-chua-6-778-can-nha-hoan-thanh-xoa-nha-tam-20250825180551292.htm",
+      "summary": "Thành phố Huế đã hoàn thành mục tiêu xóa nhà tạm, nhà dột nát trên địa bàn với hàng ngàn ngôi nhà được xây mới và sửa chữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902242+07:00",
+      "fetched": "2025-08-25T19:35:36.902360+07:00"
+    },
+    {
+      "id": "ee50166671c5a408fe4e8bea25eae6a7",
+      "title": "Trao quyết định bổ nhiệm ông Nguyễn Thanh Nghị làm trưởng Ban Chính sách, Chiến lược Trung ương",
+      "link": "https://tuoitre.vn/trao-quyet-dinh-bo-nhiem-ong-nguyen-thanh-nghi-lam-truong-ban-chinh-sach-chien-luoc-trung-uong-20250825185559345.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú đã trao quyết định của Bộ Chính trị về điều động, phân công, bổ nhiệm ông Nguyễn Thanh Nghị làm trưởng Ban Chính sách, Chiến lược Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.902113+07:00",
+      "fetched": "2025-08-25T19:35:36.902230+07:00"
+    },
+    {
+      "id": "b5503c674374f5bfec4bd6cb4226c008",
+      "title": "Không khởi tố hình sự vụ tố cáo liên quan doanh nghiệp 18 lần đổi giấy chứng nhận, thay 7 giám đốc",
+      "link": "https://tuoitre.vn/khong-khoi-to-hinh-su-vu-to-cao-lien-quan-doanh-nghiep-18-lan-doi-giay-chung-nhan-thay-7-giam-doc-20250825171540129.htm",
+      "summary": "Công an TP Đà Nẵng báo cáo Chủ tịch UBND TP kết quả giải quyết nguồn tin về tội phạm liên quan mỏ cát tại xã Thượng Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.901979+07:00",
+      "fetched": "2025-08-25T19:35:36.902100+07:00"
+    },
+    {
+      "id": "9656019502816ad885601836040f64f3",
+      "title": "Dùng chất nổ đánh cá biển: Phải 'nhổ' được tận gốc vấn đề",
+      "link": "https://tuoitre.vn/dung-chat-no-danh-ca-bien-phai-nho-duoc-tan-goc-van-de-20250825174907754.htm",
+      "summary": "Các chuyên gia cho rằng hậu quả của việc đánh bắt thủy sản bằng chất nổ, kích điện, hóa chất... đã thấy rõ. Các cơ quan chức năng phải quyết liệt, trách nhiệm, truy vết xử lý tận gốc vấn đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.901838+07:00",
+      "fetched": "2025-08-25T19:35:36.901966+07:00"
+    },
+    {
+      "id": "e7f2766c25fce8c703107ab859dbedf3",
+      "title": "30/30 vẫn trượt, 'bội thực' điểm thưởng khiến 30 điểm 'nhiều như mưa'",
+      "link": "https://tuoitre.vn/30-30-van-truot-boi-thuc-diem-thuong-khien-30-diem-nhieu-nhu-mua-2025082317124667.htm",
+      "summary": "Mặc dù cả nước chỉ có 9 thủ khoa đạt điểm tuyệt đối 30/30, nhiều trường đại học lại ghi nhận số thí sinh có điểm xét tuyển 30 nhiều như 'mưa', lý do là... điểm cộng, điểm thưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T19:35:36.901593+07:00",
+      "fetched": "2025-08-25T19:35:36.901822+07:00"
+    },
     {
       "id": "0342ea1fab1936b3a0f144be4cd46cbe",
       "title": "Xúc phạm trọng tài xong trốn, trợ lý CLB Công An Hà Nội bị cấm làm nhiệm vụ 2 trận",
@@ -451,6 +601,406 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-25T13:27:49.716850+07:00",
       "fetched": "2025-08-25T13:27:49.717058+07:00"
+    },
+    {
+      "id": "a86fe98f33e471450519c6328cc0693c",
+      "title": "Doanh nghiệp trẻ tham gia kiến tạo chính sách",
+      "link": "https://thanhnien.vn/doanh-nghiep-tre-tham-gia-kien-tao-chinh-sach-185250825192840648.htm",
+      "summary": "Ngày 25.8.2025, tại Trường ĐH Luật TP.HCM đã diễn ra Hội thảo khoa học với chủ đề 'Thể chế kiến tạo - Khơi thông dòng chảy phát triển'.  Đây cũng là Phiên chuyên đề pháp lý trong khuôn khổ Vòng đối thoại địa phương/đơn vị thuộc Diễn đàn Kinh tế tư nhân Việt Nam 2025 (VPSF 2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:32:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778177+07:00"
+    },
+    {
+      "id": "7a02c57605d5d9a03a44fc0070f81fd4",
+      "title": "Ông Nguyễn Thanh Nghị nhậm chức Trưởng ban Chính sách, chiến lược Trung ương",
+      "link": "https://thanhnien.vn/ong-nguyen-thanh-nghi-nham-chuc-truong-ban-chinh-sach-chien-luoc-trung-uong-185250825185721264.htm",
+      "summary": "Ông Nguyễn Thanh Nghị, Phó bí thư thường trực Thành ủy TP.HCM, chính thức nhận quyết định của Bộ Chính trị bổ nhiệm làm Trưởng ban Chính sách, chiến lược Trung ương tại Hà Nội, chiều 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:30:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778345+07:00"
+    },
+    {
+      "id": "02f673e10a2a13f68441a724831422ce",
+      "title": "Công an TP.HCM triệt phá đường dây trộm cắp và tiêu thụ xe máy liên tỉnh",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-trom-cap-va-tieu-thu-xe-may-lien-tinh-185250825185656787.htm",
+      "summary": "Công an TP.HCM cho biết vừa triệt phá đường dây trộm cắp và tiêu thụ xe máy liên tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:29:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778503+07:00"
+    },
+    {
+      "id": "c0e6a34f1bf4bf2cc22a48e8ed9f05d0",
+      "title": "Tổng thống lâm thời Syria sắp lần đầu phát biểu tại LHQ",
+      "link": "https://vnexpress.net/tong-thong-lam-thoi-syria-sap-lan-dau-phat-bieu-tai-lhq-4931390.html",
+      "summary": "Tổng thống lâm thời Syria Ahmed al-Sharaa sắp phát biểu tại Đại hội đồng LHQ, trở thành lãnh đạo đầu tiên của Syria xuất hiện tại đây sau nhiều thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T12:21:15+07:00",
+      "fetched": "2025-08-25T19:35:38.640308+07:00"
+    },
+    {
+      "id": "331940989a307aa980a8b878f821e9e2",
+      "title": "HLV Tuấn Kiệt nói rất hay về đội tuyển bóng chuyền nữ Việt Nam: ‘Chúng ta sẽ mạnh mẽ hơn…’",
+      "link": "https://thanhnien.vn/hlv-tuan-kiet-noi-rat-hay-ve-doi-tuyen-bong-chuyen-nu-viet-nam-chung-ta-se-manh-me-hon-185250825190830835.htm",
+      "summary": "Sau thất bại 0-3 trước đội tuyển nữ Đức ở lượt trận thứ hai bảng G giải vô địch bóng chuyền nữ thế giới 2025, HLV Nguyễn Tuấn Kiệt đã có những chia sẻ về màn trình diễn của đội tuyển bóng chuyền nữ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:12:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778657+07:00"
+    },
+    {
+      "id": "a6d4be466fec82c857fe7a7dff0bfbf7",
+      "title": "Bão số 5 đổ bộ, gió rít dữ dội tại Hà Tĩnh",
+      "link": "https://thanhnien.vn/bao-so-5-do-bo-gio-rit-du-doi-tai-ha-tinh-185250825185928216.htm",
+      "summary": "Chiều tối 25.8.2025, tại xã Cổ Đạm, tỉnh Hà Tĩnh xuất hiện mưa to gió rít liên hồi, làm gãy đổ cây cối và tốc mái nhà dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:01:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778835+07:00"
+    },
+    {
+      "id": "6fdb6d55366662dde50dfcf54e697ce2",
+      "title": "Vietjet đồng sáng lập cuộc thi 'Chuyến bay khởi nghiệp' tại Việt Nam, Ấn Độ",
+      "link": "https://vnexpress.net/vietjet-dong-sang-lap-cuoc-thi-chuyen-bay-khoi-nghiep-tai-viet-nam-an-do-4931388.html",
+      "summary": "Cuộc thi \"Chuyến bay khởi nghiệp\" tìm kiếm dự án đổi mới sáng tạo trong các lĩnh vực AI, bán lẻ, giáo dục, logistics tại hai quốc gia, công bố ngày 25/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:00:00+07:00",
+      "fetched": "2025-08-25T19:35:29.786359+07:00"
+    },
+    {
+      "id": "26d1453c72c435ab1e3b5b664ff40791",
+      "title": "8 lầm tưởng về tăng huyết áp",
+      "link": "https://vnexpress.net/8-lam-tuong-ve-tang-huyet-ap-4931294.html",
+      "summary": "Tăng huyết áp chỉ gây hại tim, không có cách kiểm soát, người trẻ không có nguy cơ là những cách hiểu chưa đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:00:00+07:00",
+      "fetched": "2025-08-25T19:35:29.786540+07:00"
+    },
+    {
+      "id": "3ca42f46467f095eedebdf8cf7ad0fb7",
+      "title": "Nét duyên cho mỗi khoảnh khắc: Tiệm hoa Chú Mập",
+      "link": "https://thanhnien.vn/net-duyen-cho-moi-khoanh-khac-tiem-hoa-chu-map-185250825180439957.htm",
+      "summary": "Tại 104 Đại lộ 2, phường Phước Long, TP.HCM, có một tiệm hoa không chỉ bán hoa mà còn gửi gắm những cảm xúc tinh tế, đó chính là Tiệm hoa Chú Mập. Nơi đây, mỗi cành hoa đều mang một câu chuyện riêng, giúp bạn dễ dàng bày tỏ tấm lòng trong mọi dịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T12:00:00+07:00",
+      "fetched": "2025-08-25T19:35:35.778992+07:00"
+    },
+    {
+      "id": "6fdb6d55366662dde50dfcf54e697ce2",
+      "title": "Vietjet đồng sáng lập cuộc thi 'Chuyến bay khởi nghiệp' tại Việt Nam, Ấn Độ",
+      "link": "https://vnexpress.net/vietjet-dong-sang-lap-cuoc-thi-chuyen-bay-khoi-nghiep-tai-viet-nam-an-do-4931388.html",
+      "summary": "Cuộc thi \"Chuyến bay khởi nghiệp\" tìm kiếm dự án đổi mới sáng tạo trong các lĩnh vực AI, bán lẻ, giáo dục, logistics tại hai quốc gia, công bố ngày 25/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-25T12:00:00+07:00",
+      "fetched": "2025-08-25T19:35:40.406066+07:00"
+    },
+    {
+      "id": "79410699d2d4a5e25d3f958427ac9b3e",
+      "title": "Đóng giả mẹ quá cố để lĩnh lương hưu suốt 25 năm",
+      "link": "https://vnexpress.net/dong-gia-me-qua-co-de-linh-luong-huu-suot-25-nam-4931357.html",
+      "summary": "Mavious Redmond bị cáo buộc giả dạng mẹ đã chết để lĩnh gian lận hơn 360.000 USD lương hưu (10 tỷ đồng) suốt 25 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:59:49+07:00",
+      "fetched": "2025-08-25T19:35:29.786724+07:00"
+    },
+    {
+      "id": "480171701340945e8e1ec0d47837b6e1",
+      "title": "Phản ánh sông Nước Xa bị 'xẻ thịt' công khai: Địa phương cảm ơn Báo Thanh Niên",
+      "link": "https://thanhnien.vn/phan-anh-song-nuoc-xa-bi-xe-thit-cong-khai-dia-phuong-cam-on-bao-thanh-nien-185250825172801641.htm",
+      "summary": "Sau khi Báo Thanh Niên đăng tải thông tin sông Nước Xa bị 'xẻ thịt' công khai, xã Nam Trà My (TP.Đà Nẵng) đã cử lực lượng xuống hiện trường xử lý, đồng thời cảm ơn Báo Thanh Niên đã phản ánh thực tế về tình trạng khai thác cát trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:57:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779143+07:00"
+    },
+    {
+      "id": "8664da78f3f5f0bda20b894a629b7bb5",
+      "title": "'Giải mã' sức mạnh gió bão từ cấp 8 đến cấp 14",
+      "link": "https://thanhnien.vn/giai-ma-suc-manh-gio-bao-tu-cap-8-den-cap-14-185250825181658944.htm",
+      "summary": "Từ cấp 8 đến cấp 14, gió bão không chỉ làm cây bật gốc, mái nhà bay, mà còn có thể nhấn chìm tàu lớn, phá hủy cả công trình kiên cố. Vậy, từng cấp độ gió nguy hiểm đến mức nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:49:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779292+07:00"
+    },
+    {
+      "id": "e839e2fc670f9bb52b8b4d3d186b62cb",
+      "title": "Đặc xá 2.9 sẽ có số lượng người lớn nhất từ trước đến nay",
+      "link": "https://thanhnien.vn/dac-xa-29-se-co-so-luong-nguoi-lon-nhat-tu-truoc-den-nay-185250825182024586.htm",
+      "summary": "Theo hồ sơ được xem xét xét duyệt, dự kiến đặc xá 2.9 sẽ có số lượng người được đặc xá lớn nhất từ trước tới nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:43:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779440+07:00"
+    },
+    {
+      "id": "453dc64cc718c85bce5299d4285b31e5",
+      "title": "Cá nhân cho thuê nhà: người mua hủy hợp đồng thì kê khai, nộp thuế ra sao?",
+      "link": "https://thanhnien.vn/ca-nhan-cho-thue-nha-nguoi-mua-huy-hop-dong-thi-ke-khai-nop-thue-ra-sao-185250821181058335.htm",
+      "summary": "Cơ quan thuế đang rà soát hiện trạng cá nhân, hộ kinh doanh cho thuê nhà liên quan đến kê khai, nộp thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:43:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779588+07:00"
+    },
+    {
+      "id": "f060cbb4cee1756043761f5ed8552e91",
+      "title": "'Không có chuyện giá vàng cao đến choáng váng duy trì quá lâu'",
+      "link": "https://thanhnien.vn/khong-co-chuyen-gia-vang-cao-den-choang-vang-duy-tri-qua-lau-185250825175241439.htm",
+      "summary": "Theo chuyên gia, việc giá vàng trong nước liên tục lập đỉnh, gần như tách biệt giá vàng thế giới là rất bất hợp lý. Nếu cơ quan quản lý có động thái can thiệp, giá vàng sẽ ngay lập tức 'hạ nhiệt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:42:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779756+07:00"
+    },
+    {
+      "id": "6a6aa4e4da796dbfa3e6943488e41d7a",
+      "title": "Việt Nam thua Đức ở giải bóng chuyền nữ VĐTG",
+      "link": "https://vnexpress.net/viet-nam-thua-duc-o-giai-bong-chuyen-nu-vdtg-4931389.html",
+      "summary": "Dù chơi cố gắng, Việt Nam vẫn thua 0-3 trước Đức - đội tuyển đứng thứ 11 thế giới - ở lượt hai bảng G giải bóng chuyền nữ thế giới 2025 chiều 25/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:39:21+07:00",
+      "fetched": "2025-08-25T19:35:29.786890+07:00"
+    },
+    {
+      "id": "6a6aa4e4da796dbfa3e6943488e41d7a",
+      "title": "Việt Nam thua Đức ở giải bóng chuyền nữ VĐTG",
+      "link": "https://vnexpress.net/viet-nam-thua-duc-o-giai-bong-chuyen-nu-vdtg-4931389.html",
+      "summary": "Dù chơi cố gắng, Việt Nam vẫn thua 0-3 trước Đức - đội tuyển đứng thứ 11 thế giới - ở lượt hai bảng G giải bóng chuyền nữ thế giới 2025 chiều 25/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T11:39:21+07:00",
+      "fetched": "2025-08-25T19:35:45.680273+07:00"
+    },
+    {
+      "id": "6ec9830432b0d372d621adc9a360668f",
+      "title": "Một cuộc thi chính luận rất thành công",
+      "link": "https://thanhnien.vn/mot-cuoc-thi-chinh-luan-rat-thanh-cong-185250825175140223.htm",
+      "summary": "Tại cuộc họp Hội đồng chung khảo Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng trong đoàn viên thanh niên, các ý kiến đều đánh giá đây là một cuộc thi chính luận rất thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:39:00+07:00",
+      "fetched": "2025-08-25T19:35:35.779912+07:00"
+    },
+    {
+      "id": "be43d63f81ae7b4cbe2b40a6713607be",
+      "title": "2 người tử vong do dùng điện bẫy chuột",
+      "link": "https://thanhnien.vn/2-nguoi-tu-vong-do-dung-dien-bay-chuot-185250825181035121.htm",
+      "summary": "Tại Hưng Yên xảy ra 2 vụ dùng điện để bẫy chuột khiến 2 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:36:00+07:00",
+      "fetched": "2025-08-25T19:35:35.780063+07:00"
+    },
+    {
+      "id": "f914146adbeebf9074351ced7c68a906",
+      "title": "Đầu trần bế con nhỏ phóng xe máy giữa phố Hà Nội",
+      "link": "https://vnexpress.net/thot-tim-canh-dau-tran-be-con-nho-phong-xe-may-giua-pho-ha-noi-4931332.html",
+      "summary": "Nhóm thanh niên đầu trần, dàn hàng ba, phóng xe máy trên phố đông, bế theo trẻ nhỏ, như giỡn mặt tử thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:30:00+07:00",
+      "fetched": "2025-08-25T19:35:29.787054+07:00"
+    },
+    {
+      "id": "6ca13b0f5602df5bf81b78d20313af5b",
+      "title": "Ảnh hưởng bão số 5, Hà Nội mưa lớn kéo dài",
+      "link": "https://thanhnien.vn/anh-huong-bao-so-5-ha-noi-mua-lon-keo-dai-1852508251821014.htm",
+      "summary": "Từ sáng 25.8, Hà Nội có gió mạnh dần, mưa lớn trên diện rộng, nhiều người gặp khó khăn trong việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:30:00+07:00",
+      "fetched": "2025-08-25T19:35:35.780224+07:00"
+    },
+    {
+      "id": "5a487ef943a4300ce1006d636433f4d8",
+      "title": "Vì sao Fernandes đang là vấn đề về chiến thuật của Man Utd?",
+      "link": "https://vnexpress.net/vi-sao-fernandes-dang-la-van-de-ve-chien-thuat-cua-man-utd-4931382.html",
+      "summary": "Vai trò mới đảm nhận trong hệ thống 3-4-2-1 của HLV Ruben Amorim đang khiến Bruno Fernandes trở thành một mắt xích yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:29:19+07:00",
+      "fetched": "2025-08-25T19:35:29.787217+07:00"
+    },
+    {
+      "id": "5a487ef943a4300ce1006d636433f4d8",
+      "title": "Vì sao Fernandes đang là vấn đề về chiến thuật của Man Utd?",
+      "link": "https://vnexpress.net/vi-sao-fernandes-dang-la-van-de-ve-chien-thuat-cua-man-utd-4931382.html",
+      "summary": "Vai trò mới đảm nhận trong hệ thống 3-4-2-1 của HLV Ruben Amorim đang khiến Bruno Fernandes trở thành một mắt xích yếu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T11:29:19+07:00",
+      "fetched": "2025-08-25T19:35:45.680447+07:00"
+    },
+    {
+      "id": "141f7c70d1fd4cb8a34fbafd0aabff9b",
+      "title": "Tài xế xe ôm công nghệ chở khách ở TP.HCM gặp tai nạn, tử vong",
+      "link": "https://thanhnien.vn/tai-xe-xe-om-cong-nghe-cho-khach-o-tphcm-gap-tai-nan-tu-vong-185250825181131012.htm",
+      "summary": "Tài xế xe ôm công nghệ chở khách di chuyển trên đường Hà Huy Giáp (TP.HCM) không may xảy ra tai nạn giao thông khiến tài xế tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:28:00+07:00",
+      "fetched": "2025-08-25T19:35:35.780371+07:00"
+    },
+    {
+      "id": "f00c8e397e7bfaa7bb9a8014acbfa500",
+      "title": "U23 Việt Nam thử nghiệm Việt kiều Bulgaria",
+      "link": "https://vnexpress.net/u23-viet-nam-thu-nghiem-viet-kieu-bulgaria-4931385.html",
+      "summary": "Tiền vệ Trần Thành Trung được HLV Kim Sang-sik gọi lên đội tuyển, trong đợt tập trung chuẩn bị cho vòng loại U23 Đông Nam Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:23:30+07:00",
+      "fetched": "2025-08-25T19:35:29.787381+07:00"
+    },
+    {
+      "id": "f00c8e397e7bfaa7bb9a8014acbfa500",
+      "title": "U23 Việt Nam thử nghiệm Việt kiều Bulgaria",
+      "link": "https://vnexpress.net/u23-viet-nam-thu-nghiem-viet-kieu-bulgaria-4931385.html",
+      "summary": "Tiền vệ Trần Thành Trung được HLV Kim Sang-sik gọi lên đội tuyển, trong đợt tập trung chuẩn bị cho vòng loại U23 Đông Nam Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T11:23:30+07:00",
+      "fetched": "2025-08-25T19:35:45.680612+07:00"
+    },
+    {
+      "id": "bdf235075fe3cd9daefd6abf266d6b1f",
+      "title": "Trung Quốc hợp luyện xuyên đêm cho lễ duyệt binh 3/9",
+      "link": "https://vnexpress.net/trung-quoc-hop-luyen-xuyen-dem-cho-le-duyet-binh-3-9-4931331.html",
+      "summary": "Trung Quốc tổ chức buổi tổng duyệt cuối cùng trong đêm tại Quảng trường Thiên An Môn, trước lễ duyệt binh kỷ niệm 80 năm chiến thắng phát xít Nhật 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:18:08+07:00",
+      "fetched": "2025-08-25T19:35:29.787541+07:00"
+    },
+    {
+      "id": "bdf235075fe3cd9daefd6abf266d6b1f",
+      "title": "Trung Quốc hợp luyện xuyên đêm cho lễ duyệt binh 3/9",
+      "link": "https://vnexpress.net/trung-quoc-hop-luyen-xuyen-dem-cho-le-duyet-binh-3-9-4931331.html",
+      "summary": "Trung Quốc tổ chức buổi tổng duyệt cuối cùng trong đêm tại Quảng trường Thiên An Môn, trước lễ duyệt binh kỷ niệm 80 năm chiến thắng phát xít Nhật 3/9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T11:18:08+07:00",
+      "fetched": "2025-08-25T19:35:38.640482+07:00"
+    },
+    {
+      "id": "d836df2fb1358d956ff283eaeb08ccb5",
+      "title": "Sắp diễn ra Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+      "link": "https://vnexpress.net/sap-dien-ra-trien-lam-thanh-tuu-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-4931279.html",
+      "summary": "Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số mở cửa từ ngày 28/8 đến 5/9 tại Trung tâm Hội chợ Triển lãm Quốc gia (VEC) ở Đông Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:00:00+07:00",
+      "fetched": "2025-08-25T19:35:29.787728+07:00"
+    },
+    {
+      "id": "f680e51b16ddf92d2f9f7b9d3ddbe335",
+      "title": "6 thói quen giúp ngăn ngừa nguy cơ tiền tiểu đường",
+      "link": "https://vnexpress.net/6-thoi-quen-giup-ngan-ngua-nguy-co-tien-tieu-duong-4931112.html",
+      "summary": "Duy trì cân nặng, ưu tiên rau xanh đồng thời hạn chế thịt chế biến, kiểm tra đường huyết thường xuyên nhằm điều chỉnh kịp thời, góp phần ngăn tiền tiểu đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T11:00:00+07:00",
+      "fetched": "2025-08-25T19:35:29.787887+07:00"
+    },
+    {
+      "id": "d836df2fb1358d956ff283eaeb08ccb5",
+      "title": "Sắp diễn ra Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số",
+      "link": "https://vnexpress.net/sap-dien-ra-trien-lam-thanh-tuu-khoa-hoc-cong-nghe-doi-moi-sang-tao-va-chuyen-doi-so-4931279.html",
+      "summary": "Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số mở cửa từ ngày 28/8 đến 5/9 tại Trung tâm Hội chợ Triển lãm Quốc gia (VEC) ở Đông Anh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-25T11:00:00+07:00",
+      "fetched": "2025-08-25T19:35:43.881915+07:00"
+    },
+    {
+      "id": "dafb75631e3c3ddc3f38f79a08e186b0",
+      "title": "'Có tình trạng cán bộ lợi dụng chính sách nghỉ hưu trước tuổi'",
+      "link": "https://vnexpress.net/co-tinh-trang-can-bo-loi-dung-chinh-sach-nghi-huu-truoc-tuoi-4931369.html",
+      "summary": "Ban Chỉ đạo của Chính phủ cho biết có tình trạng một số cán bộ, công chức, viên chức né tránh công việc, lợi dụng chính sách để xin nghỉ hưu trước tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:46:42+07:00",
+      "fetched": "2025-08-25T19:35:29.788040+07:00"
+    },
+    {
+      "id": "52e31e8f632ee33ebccb1130627c66b8",
+      "title": "Quân y Việt Nam khám bệnh cho phạm nhân ở Nam Sudan",
+      "link": "https://vnexpress.net/quan-y-viet-nam-kham-benh-cho-pham-nhan-o-nam-sudan-4931323.html",
+      "summary": "Ngày 25/8, các y bác sĩ Bệnh viện dã chiến cấp 2 số 6 của Việt Nam tổ chức khám bệnh, tư vấn sức khỏe và phát thuốc miễn phí cho hàng chục phạm nhân tại Nhà tù Bang Unity, Nam Sudan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:39:04+07:00",
+      "fetched": "2025-08-25T19:35:29.788199+07:00"
+    },
+    {
+      "id": "c10e5415922868c769e8abb5564dde4b",
+      "title": "Tay vợt Indonesia gây sốc ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/tay-vot-indonesia-gay-soc-o-my-mo-rong-4931318.html",
+      "summary": "Janice Tjen trở thành tay vợt Indonesia đầu tiên vào vòng hai Mỹ Mở rộng, khi đánh bại hạt giống số 24 Veronika Kudermetova với tỷ số 6-4, 4-6, 6-4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:38:42+07:00",
+      "fetched": "2025-08-25T19:35:29.788356+07:00"
+    },
+    {
+      "id": "c10e5415922868c769e8abb5564dde4b",
+      "title": "Tay vợt Indonesia gây sốc ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/tay-vot-indonesia-gay-soc-o-my-mo-rong-4931318.html",
+      "summary": "Janice Tjen trở thành tay vợt Indonesia đầu tiên vào vòng hai Mỹ Mở rộng, khi đánh bại hạt giống số 24 Veronika Kudermetova với tỷ số 6-4, 4-6, 6-4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T10:38:42+07:00",
+      "fetched": "2025-08-25T19:35:45.681760+07:00"
+    },
+    {
+      "id": "357a9d620c9d75f67a2c67b4edc5fdc9",
+      "title": "Thành lập mạng lưới đổi mới sáng tạo về lượng tử, an ninh mạng, thiết bị bay",
+      "link": "https://vnexpress.net/thanh-lap-mang-luoi-doi-moi-sang-tao-ve-luong-tu-an-ninh-mang-thiet-bi-bay-4931346.html",
+      "summary": "Ba mạng lưới gồm VNQuantum, ViSecurity, UAV Việt Nam được thành lập, kỳ vọng thúc đẩy công nghệ chiến lược tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:30:59+07:00",
+      "fetched": "2025-08-25T19:35:29.788511+07:00"
+    },
+    {
+      "id": "357a9d620c9d75f67a2c67b4edc5fdc9",
+      "title": "Thành lập mạng lưới đổi mới sáng tạo về lượng tử, an ninh mạng, thiết bị bay",
+      "link": "https://vnexpress.net/thanh-lap-mang-luoi-doi-moi-sang-tao-ve-luong-tu-an-ninh-mang-thiet-bi-bay-4931346.html",
+      "summary": "Ba mạng lưới gồm VNQuantum, ViSecurity, UAV Việt Nam được thành lập, kỳ vọng thúc đẩy công nghệ chiến lược tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-25T10:30:59+07:00",
+      "fetched": "2025-08-25T19:35:43.882271+07:00"
+    },
+    {
+      "id": "58dd77de0eeb360390cd78490bb91c8b",
+      "title": "Tuyển Việt Nam triệu tập đội hình lạ đấu Nam Định, CAHN",
+      "link": "https://vnexpress.net/tuyen-viet-nam-trieu-tap-doi-hinh-la-dau-nam-dinh-cahn-4931370.html",
+      "summary": "HLV Kim Sang-sik gọi nhiều cầu thủ mới để thử nghiệm khi tuyển Việt Nam hội quân trong tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:23:26+07:00",
+      "fetched": "2025-08-25T19:35:29.788691+07:00"
+    },
+    {
+      "id": "58dd77de0eeb360390cd78490bb91c8b",
+      "title": "Tuyển Việt Nam triệu tập đội hình lạ đấu Nam Định, CAHN",
+      "link": "https://vnexpress.net/tuyen-viet-nam-trieu-tap-doi-hinh-la-dau-nam-dinh-cahn-4931370.html",
+      "summary": "HLV Kim Sang-sik gọi nhiều cầu thủ mới để thử nghiệm khi tuyển Việt Nam hội quân trong tháng 9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T10:23:26+07:00",
+      "fetched": "2025-08-25T19:35:45.680793+07:00"
     },
     {
       "id": "98080476c834d871845206e09c88e27b",
