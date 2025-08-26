@@ -1,7 +1,157 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T05:16:13.459308+07:00",
+  "lastUpdated": "2025-08-26T08:17:52.066532+07:00",
   "articles": [
+    {
+      "id": "489e52fe8fc0ed872860912061607b7a",
+      "title": "Nước lũ dâng trong đêm, khẩn cấp di dời 85 người",
+      "link": "https://tuoitre.vn/nuoc-lu-dang-trong-dem-khan-cap-di-doi-85-nguoi-2025082606203935.htm",
+      "summary": "Trước nguy cơ bị nước lũ dâng cao chia cắt, chính quyền xã Mường Típ, Nghệ An đã huy động lực lượng di dời khẩn cấp 85 người dân tới nơi an toàn ngay trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.781052+07:00",
+      "fetched": "2025-08-26T08:17:41.781164+07:00"
+    },
+    {
+      "id": "2d7d5709d0417db862ed9e961dfebd7f",
+      "title": "Tin tức thế giới 26-8: Ông Trump muốn gặp ông Kim Jong Un; Mỹ sẽ hỗ trợ an ninh cho Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-26-8-ong-trump-muon-gap-ong-kim-jong-un-my-se-ho-tro-an-ninh-cho-ukraine-20250826055748462.htm",
+      "summary": "Ông Trump khoe mình hiểu về nhà lãnh đạo Triều Tiên nhiều hơn ai hết, trừ em gái ông Kim; Triều Tiên tiếp tục lên án Mỹ - Hàn tập trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780922+07:00",
+      "fetched": "2025-08-26T08:17:41.781040+07:00"
+    },
+    {
+      "id": "498d222355ebcf8a3f049158ac0373ce",
+      "title": "Lốc xoáy ở Ninh Bình làm 1 người chết, hơn 200 nhà dân thiệt hại",
+      "link": "https://tuoitre.vn/loc-xoay-o-ninh-binh-lam-1-nguoi-chet-hon-200-nha-dan-thiet-hai-20250826061809449.htm",
+      "summary": "Trận lốc xoáy trong vòng 2 phút ở Hà Nam cũ (nay là Ninh Bình) tối qua khiến hơn 200 nhà dân bị thiệt hại, trong đó có nhà dân bị đổ sập khiến một người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780793+07:00",
+      "fetched": "2025-08-26T08:17:41.780910+07:00"
+    },
+    {
+      "id": "349d8a1ec65f87814ce133301d6c0561",
+      "title": "Kẹt xe kinh hoàng tại US Open 2025",
+      "link": "https://tuoitre.vn/ket-xe-kinh-hoang-tai-us-open-2025-20250826061409146.htm",
+      "summary": "Ngày thi đấu thứ 2 của Giải quần vợt Mỹ mở rộng (US Open) 2025 đối mặt với tình trạng khán giả thưa thớt vì nạn kẹt xe kinh khủng quanh địa điểm thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780666+07:00",
+      "fetched": "2025-08-26T08:17:41.780782+07:00"
+    },
+    {
+      "id": "16f5f2b51f5173e3353006f1083bce93",
+      "title": "Cứu 3 người trong một gia đình bị nước lũ cô lập trong đêm",
+      "link": "https://tuoitre.vn/cuu-3-nguoi-trong-mot-gia-dinh-bi-nuoc-lu-co-lap-trong-dem-20250826063928284.htm",
+      "summary": "Đêm 25-8, lực lượng Phòng cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an tỉnh Thanh Hóa đã giải cứu 3 người trong một gia đình sinh sống cạnh suối Chuỗi, xã Sao Vàng bị nước lũ cô lập trong nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780535+07:00",
+      "fetched": "2025-08-26T08:17:41.780651+07:00"
+    },
+    {
+      "id": "c591663c105f4c085c414aa950c87cb8",
+      "title": "Hà Nội mưa bão số 5 cả đêm đến sáng, nhiều tuyến đường ngập sâu",
+      "link": "https://tuoitre.vn/ha-noi-mua-bao-so-5-ca-dem-den-sang-nhieu-tuyen-duong-ngap-sau-20250826064554044.htm",
+      "summary": "Do ảnh hưởng của bão Kajiki, đêm qua đến sáng nay 26-8, Hà Nội có mưa vừa, mưa to, có nơi mưa rất to khiến nhiều tuyến đường ngập sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780400+07:00",
+      "fetched": "2025-08-26T08:17:41.780523+07:00"
+    },
+    {
+      "id": "5384f4a3976881cbdb1eb840dedc0ad6",
+      "title": "Hoa hậu Miss Cosmo các nước trình diễn áo dài mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/hoa-hau-miss-cosmo-cac-nuoc-trinh-dien-ao-dai-mung-quoc-khanh-2-9-20250826060745908.htm",
+      "summary": "15 hoa hậu Miss Cosmo đến từ các quốc gia, vùng lãnh thổ trên thế giới cùng top 2 Miss Cosmo Vietnam 2025 trình diễn áo dài và nón vẽ quốc kỳ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780245+07:00",
+      "fetched": "2025-08-26T08:17:41.780387+07:00"
+    },
+    {
+      "id": "97311a6ee20ecb5663ac7831e44c2b55",
+      "title": "Tổng thống Hàn Quốc mong Tháp Trump được xây dựng ở Triều Tiên",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-mong-thap-trump-duoc-xay-dung-o-trieu-tien-2025082607102941.htm",
+      "summary": "Tổng thống Hàn Quốc bày tỏ mong chờ cuộc gặp giữa Tổng thống Trump và nhà lãnh đạo Triều Tiên Kim Jong Un, cũng như việc xây dựng Tháp Trump ở Triều Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.780115+07:00",
+      "fetched": "2025-08-26T08:17:41.780233+07:00"
+    },
+    {
+      "id": "81074919dea480382cbb1c775729dae0",
+      "title": "Cù Lao Giêng - 'Miền Tây thu nhỏ' trầm mặc giữa dòng sông Tiền",
+      "link": "https://tuoitre.vn/cu-lao-gieng-mien-tay-thu-nho-tram-mac-giua-dong-song-tien-20250825145847011.htm",
+      "summary": "Giữa mênh mông sóng nước sông Tiền, Cù Lao Giêng hiện lên như một nét chấm son mềm mại, vừa trầm mặc vừa duyên dáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779971+07:00",
+      "fetched": "2025-08-26T08:17:41.780102+07:00"
+    },
+    {
+      "id": "a50ed0b81fe8a5fb7b0d1e56429b070e",
+      "title": "Xe điện lập kỷ lục quãng đường chạy liên tục 7 ngày",
+      "link": "https://tuoitre.vn/xe-dien-lap-ky-luc-quang-duong-chay-lien-tuc-7-ngay-20250825231408841.htm",
+      "summary": "Mẫu concept Mercedes-AMG GT XX, tiền thân của chiếc xe điện AMG GT thương mại sắp ra mắt, đã phá vỡ 26 kỷ lục khác trong suốt 8 ngày thử nghiệm tại đường đua Nardo (Ý).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779843+07:00",
+      "fetched": "2025-08-26T08:17:41.779960+07:00"
+    },
+    {
+      "id": "d70212878f7b5c95b223dbbf48cecae9",
+      "title": "HLV bóng chuyền nữ Trung Quốc quát tháo, chửi bới VĐV",
+      "link": "https://tuoitre.vn/hlv-bong-chuyen-nu-trung-quoc-quat-thao-chui-boi-vdv-20250826003623659.htm",
+      "summary": "Tuyển bóng chuyền nữ Trung Quốc một lần nữa khiến người hâm mộ thót tim vì những giây phút thi đấu như mơ ngủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779713+07:00",
+      "fetched": "2025-08-26T08:17:41.779830+07:00"
+    },
+    {
+      "id": "03ced6978bb5e29f278972d585d95b58",
+      "title": "Hôm nay phát hành đặc san Tuổi Trẻ 2-9",
+      "link": "https://tuoitre.vn/hom-nay-phat-hanh-dac-san-tuoi-tre-2-9-20250825235630334.htm",
+      "summary": "Đặc san Tuổi Trẻ sẽ là món quà tinh thần để bạn đọc 'nhâm nhi' bên cạnh các chương trình văn hóa - giải trí của kỳ nghỉ lễ Quốc khánh 2-9 năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779581+07:00",
+      "fetched": "2025-08-26T08:17:41.779701+07:00"
+    },
+    {
+      "id": "38a9304f9c2f2d0a7c67e6a34e955a45",
+      "title": "HLV Arne Slot chỉ trích lối chơi phản bóng đá của Newcastle",
+      "link": "https://tuoitre.vn/hlv-arne-slot-chi-trich-loi-choi-phan-bong-da-cua-newcastle-20250826073657417.htm",
+      "summary": "Sau chiến thắng nghẹt thở 3-2 trước Newcastle vào rạng sáng 26-8 ở vòng 2 Giải ngoại hạng Anh, HLV Arne Slot và trung vệ đội trưởng Virgil van Dijk (Liverpool) đã bày tỏ sự thất vọng về lối chơi của đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779445+07:00",
+      "fetched": "2025-08-26T08:17:41.779568+07:00"
+    },
+    {
+      "id": "62c4ef28f064d597d61bbc4c59d7fe1e",
+      "title": "Pisani - Thương hiệu vali Việt mang đậm tinh thần thiết kế Ý",
+      "link": "https://tuoitre.vn/pisani-thuong-hieu-vali-viet-mang-dam-tinh-than-thiet-ke-y-20250825113001209.htm",
+      "summary": "Sự hòa quyện giữa thẩm mỹ tinh tế và tiện ích hiện đại giúp mỗi chiếc vali vừa đáp ứng nhu cầu di chuyển, vừa thể hiện gu thẩm mỹ và phong cách sống riêng của người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779269+07:00",
+      "fetched": "2025-08-26T08:17:41.779431+07:00"
+    },
+    {
+      "id": "09eacbb66ebec23b858cef74adacd363",
+      "title": "Điểm tin cùng bạn 8h: Vàng miếng SJC vượt 127 triệu đồng/lượng; Tỉ lệ ủng hộ thủ tướng Nhật tăng sốc",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-vang-mieng-sjc-vuot-127-trieu-dong-luong-ti-le-ung-ho-thu-tuong-nhat-tang-soc-20250826051237383.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 26-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T08:17:41.779026+07:00",
+      "fetched": "2025-08-26T08:17:41.779252+07:00"
+    },
     {
       "id": "4cc5cca272cb5db83fc116c6e0765dfc",
       "title": "Ngẩn ngơ bữa cơm nhà trong Gia đình Haha",
@@ -151,6 +301,416 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T01:24:46.133455+07:00",
       "fetched": "2025-08-26T01:24:46.133663+07:00"
+    },
+    {
+      "id": "45683b9ceb2650075ec76f5c386ef2ed",
+      "title": "Hà Nội mưa lớn suốt đêm, ngập lụt khắp nơi",
+      "link": "https://thanhnien.vn/ha-noi-mua-lon-suot-dem-ngap-lut-khap-noi-185250826080853964.htm",
+      "summary": "Do ảnh hưởng của hoàn lưu bão số 5, Hà Nội có mưa lớn trong đêm 25 và rạng sáng 26.8, gây ra tình trạng ngập lụt ở nhiều tuyến phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:13:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219051+07:00"
+    },
+    {
+      "id": "585847a74c1c67d49042ba45803985f6",
+      "title": "Tìm kiếm bé gái 3 tuổi mất tích ở sông Yên, Đà Nẵng",
+      "link": "https://thanhnien.vn/tim-kiem-be-gai-3-tuoi-mat-tich-o-song-yen-da-nang-185250826080410663.htm",
+      "summary": "Lực lượng chức năng và người dân địa phương đã xuyên đêm tìm kiếm bé gái 3 tuổi nghi rơi xuống sông Yên (TP.Đà Nẵng) mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:10:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219232+07:00"
+    },
+    {
+      "id": "7dbf156a487026de898d61672924a30e",
+      "title": "Cảnh báo thuốc mua qua mạng có chứa phenylbutazone \ncực nguy hiểm",
+      "link": "https://thanhnien.vn/canh-bao-thuoc-mua-qua-mang-co-chua-phenylbutazone-cuc-nguy-hiem-185250825185354981.htm",
+      "summary": "Vừa qua, Bệnh viện Bạch Mai (Hà Nội) đã tiếp nhận, xử lý một số ca bệnh dị ứng nặng do tự ý sử dụng sản phẩm có chứa phenylbutazone theo quảng cáo trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:09:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219416+07:00"
+    },
+    {
+      "id": "6a56148173b73bd36991d8256f4b5bde",
+      "title": "Giá heo hơi hôm nay 26.8.2025: Tiệm cận với thị trường Trung Quốc",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2682025-tiem-can-voi-thi-truong-trung-quoc-185250825202502824.htm",
+      "summary": "Đà giảm của giá heo hơi vẫn xảy ra ở nhiều tỉnh thành trong cả nước, qua đó kéo giá heo hơi Việt Nam về gần với thị trường lân cận Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:04:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219574+07:00"
+    },
+    {
+      "id": "be37b05c19608dd29607b2137dd146d0",
+      "title": "Robot biết pha chế, giao tiếp khách hàng, thay thế nhân viên phục vụ",
+      "link": "https://thanhnien.vn/robot-biet-pha-che-giao-tiep-khach-hang-thay-the-nhan-vien-phuc-vu-185250825212457835.htm",
+      "summary": "Sử dụng công nghệ AI và IoT để phân tích sở thích, tùy chỉnh đồ uống và giao tiếp với khách hàng, nhóm sinh viên Trường ĐH Sư phạm kỹ thuật Hưng Yên đã chế tạo thành công một robot pha chế thông minh, có khả năng thay thế phần lớn công việc của nhân viên phục vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219741+07:00"
+    },
+    {
+      "id": "9c8a3ac85f8e360c10fffe87e29424c8",
+      "title": "Tư vấn sức khỏe: Chủ động thăm khám giúp gia tăng tỷ lệ IVF thành công",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-chu-dong-tham-kham-giup-gia-tang-ty-le-ivf-thanh-cong-185250825202803148.htm",
+      "summary": "Tình trạng vô sinh hiếm muộn ngày càng phức tạp với xu hướng trẻ hóa đáng báo động. Phát hiện sớm và điều trị kịp thời giúp tăng tỷ lệ thành công, giảm áp lực tâm lý và chi phí cho các cặp đôi mong con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.219893+07:00"
+    },
+    {
+      "id": "db80c035a4a0e71ad709fd4c239b8229",
+      "title": "Khánh Hòa: Dồn sức hoàn thành giải phóng mặt bằng cho hai nhà máy điện hạt nhân",
+      "link": "https://thanhnien.vn/khanh-hoa-don-suc-hoan-thanh-giai-phong-mat-bang-cho-hai-nha-may-dien-hat-nhan-18525082517074399.htm",
+      "summary": "Tỉnh Khánh Hòa đang tập trung nguồn nhân lực để hoàn thành công tác giải phóng mặt bằng cho hai nhà máy điện hạt nhân Ninh Thuận trong năm 2025, theo chỉ đạo của Thủ tướng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220043+07:00"
+    },
+    {
+      "id": "752752bf731c8cbfe053ad0129628435",
+      "title": "Miho Store: vượt sóng đại dịch, vươn mình thành ‘hiện tượng’ ngành mẹ & bé",
+      "link": "https://thanhnien.vn/miho-store-vuot-song-dai-dich-vuon-minh-thanh-hien-tuong-nganh-me-be-185250825170052644.htm",
+      "summary": "Ra đời giữa thời điểm khó khăn do đại dịch, Miho Store vẫn kiên cường vượt sóng, nhanh chóng khẳng định vị thế và trở thành hiện tượng trong ngành mẹ & bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220211+07:00"
+    },
+    {
+      "id": "90179131fa0186b0fe9abd6528313980",
+      "title": "LOTTE MART tung siêu khuyến mãi, ưu đãi ngập tràn mừng Đại lễ 2.9",
+      "link": "https://thanhnien.vn/lotte-mart-tung-sieu-khuyen-mai-uu-dai-ngap-tran-mung-dai-le-29-185250825164041715.htm",
+      "summary": "Mừng Đại lễ 80 năm ngày Quốc khánh 2.9, LOTTE MART biến không gian siêu thị thành lễ hội rực rỡ với chương trình siêu khuyến mãi lên đến 50%, cùng hàng trăm ưu đãi hấp dẫn, mang đến trải nghiệm mua sắm tiết kiệm và đầy cảm xúc cho khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220379+07:00"
+    },
+    {
+      "id": "b28f068db6d2dddc9c6f864adaf2ac9e",
+      "title": "Nam Long ADC và Cen Land hợp tác khai mở bất động sản vừa túi tiền",
+      "link": "https://thanhnien.vn/nam-long-adc-va-cen-land-hop-tac-khai-mo-bat-dong-san-vua-tui-tien-185250825151206533.htm",
+      "summary": "Ngày 22.8, tại Hải Phòng, Nam Long ADC và Cen Land chính thức ký kết hợp tác chiến lược, công bố Cen Land chính thức là đối tác phân phối độc quyền dự án An Zen Residences - sản phẩm tiên phong trong phân khúc bất động sản vừa túi tiền tại miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220528+07:00"
+    },
+    {
+      "id": "d21563cd29a4e037e1cece3adde8b033",
+      "title": "FIATO AIRPORT CITY khởi công Block Fiesta chào mừng 80 năm Quốc khánh",
+      "link": "https://thanhnien.vn/fiato-airport-city-khoi-cong-block-fiesta-chao-mung-80-nam-quoc-khanh-185250825141523066.htm",
+      "summary": "Vừa qua, công trình chung cư F thuộc dự án Khu dân cư Thăng Long Home - Hiệp Phước (tên thương mại Block Fiesta, thuộc dự án FIATO AIRPORT CITY) do Thang Long Real Group (TLRG) phát triển đã chính thức khởi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220675+07:00"
+    },
+    {
+      "id": "f0223d72e01b679b89586888da30442b",
+      "title": "Phá vỡ giới hạn, chinh phục mọi phong cách với đầm dự tiệc trắng, đen",
+      "link": "https://thanhnien.vn/thoi-trang-tre/pha-vo-gioi-han-chinh-phuc-moi-phong-cach-voi-dam-du-tiec-trang-den-185250821125219002.htm",
+      "summary": "Đầm dự tiệc gam màu trắng đen chính là kiểu trang phục sang trọng, ấn tượng chứng minh cho phong cách vượt thời gian. Từ nét trang nhã linh hoạt đến quý phái, kiêu sa, những ý tưởng trang phục không mùa này giúp nàng làm chủ mọi xu hướng, phá vỡ những giới hạn vô hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T01:00:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220826+07:00"
+    },
+    {
+      "id": "16d3e8489abed7c2c31b9ba2b6337c8b",
+      "title": "Thanh Hóa: Lũ lớn, lệnh báo động trên hàng loạt sông",
+      "link": "https://thanhnien.vn/thanh-hoa-lu-lon-lenh-bao-dong-tren-hang-loat-song-185250826074310476.htm",
+      "summary": "Sáng 26.8, trên địa bàn tỉnh Thanh Hóa có mưa diện rộng và gió. Mưa suốt đêm qua khiến nhiều nơi xảy ra lũ, nước sông dâng gây ngập nhà dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:55:00+07:00",
+      "fetched": "2025-08-26T08:17:40.220976+07:00"
+    },
+    {
+      "id": "2c6145888c09edf73c0c4acb54ef61f5",
+      "title": "Chủ động ứng phó lũ quét, sạt lở đất sau bão số 5",
+      "link": "https://thanhnien.vn/chu-dong-ung-pho-lu-quet-sat-lo-dat-sau-bao-so-5-185250826002741366.htm",
+      "summary": "Bão số 5 gây mưa lớn dị thường trên diện rộng, dù đã suy yếu và tan đi nhưng vẫn có nguy cơ xảy ra lũ quét, sạt lở đất trong 2 - 3 ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:55:00+07:00",
+      "fetched": "2025-08-26T08:17:40.221126+07:00"
+    },
+    {
+      "id": "65085b88d94df3d66ab8832906f65b9b",
+      "title": "Nắng nóng kỷ lục tại Tây Ban Nha",
+      "link": "https://thanhnien.vn/nang-nong-ky-luc-tai-tay-ban-nha-185250825222626755.htm",
+      "summary": "Cơ quan khí tượng Tây Ban Nha (AEMET) cho biết nắng nóng kéo dài 16 ngày trong tháng 8 là đợt nắng nóng dữ dội nhất từng được ghi nhận tại nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:55:00+07:00",
+      "fetched": "2025-08-26T08:17:40.221279+07:00"
+    },
+    {
+      "id": "68c9d680557d5fc8cec54f57aff15fb5",
+      "title": "Ông Trump thông báo sa thải Thống đốc Fed",
+      "link": "https://vnexpress.net/ong-trump-thong-bao-sa-thai-thong-doc-fed-4931456.html",
+      "summary": "Tổng thống Trump thông báo sa thải Thống đốc Fed Lisa Cook, liên quan cáo buộc gian lận thế chấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T00:54:07+07:00",
+      "fetched": "2025-08-26T08:17:43.645065+07:00"
+    },
+    {
+      "id": "aadf4aa128d115512af331c1944466c0",
+      "title": "Phó tỉnh trưởng Kursk bị bắt vì cáo buộc biển thủ tiền xây công sự",
+      "link": "https://vnexpress.net/pho-tinh-truong-kursk-bi-bat-vi-cao-buoc-bien-thu-tien-xay-cong-su-4931448.html",
+      "summary": "Phó tỉnh trưởng Kursk Vladimir Bazarov bị bắt với cáo buộc biển thủ ngân sách dành cho xây công sự phòng thủ từ thời ông còn làm ở tỉnh Belgorod lân cận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:36:52+07:00",
+      "fetched": "2025-08-26T08:17:34.737052+07:00"
+    },
+    {
+      "id": "aadf4aa128d115512af331c1944466c0",
+      "title": "Phó tỉnh trưởng Kursk bị bắt vì cáo buộc biển thủ tiền xây công sự",
+      "link": "https://vnexpress.net/pho-tinh-truong-kursk-bi-bat-vi-cao-buoc-bien-thu-tien-xay-cong-su-4931448.html",
+      "summary": "Phó tỉnh trưởng Kursk Vladimir Bazarov bị bắt với cáo buộc biển thủ ngân sách dành cho xây công sự phòng thủ từ thời ông còn làm ở tỉnh Belgorod lân cận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T00:36:52+07:00",
+      "fetched": "2025-08-26T08:17:43.645243+07:00"
+    },
+    {
+      "id": "e2db89fb7895668a7a440103f5424f3e",
+      "title": "AI quét lỗi ngoại thất ôtô - khi được yêu, lúc bị ghét",
+      "link": "https://vnexpress.net/ai-quet-loi-ngoai-that-oto-khi-duoc-yeu-luc-bi-ghet-4931041.html",
+      "summary": "Hãng cho thuê xe Hertz dùng AI tìm vết xước khi khách trả xe, trong khi Jaguar Land Rover kiểm tra xe mới trước khi đưa về đại lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:32:00+07:00",
+      "fetched": "2025-08-26T08:17:34.737238+07:00"
+    },
+    {
+      "id": "45f53d14c9b0ef710106db081a3ba075",
+      "title": "Nhiều tuyến phố Hà Nội ngập sâu",
+      "link": "https://vnexpress.net/nhieu-tuyen-pho-ha-noi-ngap-sau-4931446.html",
+      "summary": "Mưa lớn do hoàn lưu bão Kajiki khiến nhiều tuyến phố Hà Nội ngập sâu, hàng loạt xe chết máy, giao thông hỗn loạn, sáng 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:05:04+07:00",
+      "fetched": "2025-08-26T08:17:34.737426+07:00"
+    },
+    {
+      "id": "80f47e1bc1cf4e954b795b18aedbca8b",
+      "title": "Tổng thống Trump muốn gặp lãnh đạo Triều Tiên năm nay",
+      "link": "https://vnexpress.net/tong-thong-trump-muon-gap-lanh-dao-trieu-tien-nam-nay-4931441.html",
+      "summary": "Tổng thống Mỹ Trump nói ông muốn gặp lãnh đạo Triều Tiên Kim Jong-un trong năm nay, cho biết hai người có mối quan hệ cá nhân rất tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:00:26+07:00",
+      "fetched": "2025-08-26T08:17:34.737589+07:00"
+    },
+    {
+      "id": "80f47e1bc1cf4e954b795b18aedbca8b",
+      "title": "Tổng thống Trump muốn gặp lãnh đạo Triều Tiên năm nay",
+      "link": "https://vnexpress.net/tong-thong-trump-muon-gap-lanh-dao-trieu-tien-nam-nay-4931441.html",
+      "summary": "Tổng thống Mỹ Trump nói ông muốn gặp lãnh đạo Triều Tiên Kim Jong-un trong năm nay, cho biết hai người có mối quan hệ cá nhân rất tốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T00:00:26+07:00",
+      "fetched": "2025-08-26T08:17:43.645426+07:00"
+    },
+    {
+      "id": "c2edcd7f49296766f358ecd1e08747d3",
+      "title": "'Mâm cơm Tết độc lập' dành cho khách đến Hà Nội dịp 2/9",
+      "link": "https://vnexpress.net/mam-com-tet-doc-lap-danh-cho-khach-den-ha-noi-dip-2-9-4931161.html",
+      "summary": "Mâm cơm Tết độc lập được lấy cảm hứng từ các món Chủ tịch Hồ Chí Minh từng dùng khi ở nhà bà Nguyễn Thị An ở Phú Thượng, trước khi chuyển đến số nhà 48 Hàng Ngang để viết Tuyên ngôn Độc lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:00:00+07:00",
+      "fetched": "2025-08-26T08:17:34.737757+07:00"
+    },
+    {
+      "id": "ecdc51aef4984fb80407eeba3376cc1f",
+      "title": "Hai xe máy lao ngược chiều cao tốc trong mưa lớn",
+      "link": "https://vnexpress.net/hai-xe-may-lao-nguoc-chieu-cao-toc-trong-mua-lon-4931241.html",
+      "summary": "Mưa lớn, hai chiếc xe máy đi ngược chiều ở làn đường sát dải phân cách lao về phía đầu ôtô hôm 24/8 gần lối vào Cầu Giẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:00:00+07:00",
+      "fetched": "2025-08-26T08:17:34.737913+07:00"
+    },
+    {
+      "id": "48c45222f44fb5b4570011a9d7d057bd",
+      "title": "DHL Express dời cổng trung chuyển Cebu sang cơ sở quy mô lớn",
+      "link": "https://vnexpress.net/dhl-express-doi-cong-trung-chuyen-cebu-sang-co-so-quy-mo-lon-4928923.html",
+      "summary": "Cơ sở mới rộng hơn, đáp ứng nhu cầu vận chuyển ngày càng tăng từ khu vực Visayas và Mindanao, đồng thời nâng cao chất lượng dịch vụ thông qua cải thiện hạ tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:00:00+07:00",
+      "fetched": "2025-08-26T08:17:34.738069+07:00"
+    },
+    {
+      "id": "53656ed72d56c7bb6bd5e9859a32b6ba",
+      "title": "ASRY hạ thủy hai tàu tiếp nhiên liệu cho Bapco",
+      "link": "https://vnexpress.net/asry-ha-thuy-hai-tau-tiep-nhien-lieu-cho-bapco-4928921.html",
+      "summary": "Công ty Đóng tàu và Sửa chữa Arab (ASRY) vừa hạ thủy hai tàu tiếp nhiên liệu cho Bapco Refining - công ty con của Tập đoàn Dầu khí Quốc gia Bahrain (Bapco Energies).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T00:00:00+07:00",
+      "fetched": "2025-08-26T08:17:34.738224+07:00"
+    },
+    {
+      "id": "60649675ceb5d49affccb2eded967152",
+      "title": "Nghịch lý điểm chuẩn đại học cao vượt xa điểm thi",
+      "link": "https://vnexpress.net/nghich-ly-diem-chuan-dai-hoc-cao-vuot-xa-diem-thi-4931265.html",
+      "summary": "Thanh ở Phú Thọ đạt 22,25 điểm thi tốt nghiệp nhưng đỗ ngành lấy điểm chuẩn 25,61 ở trường kinh tế top đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:59:00+07:00",
+      "fetched": "2025-08-26T08:17:34.738400+07:00"
+    },
+    {
+      "id": "e64b0d518d4fad8069afc84e6fa4d636",
+      "title": "Giáo sư Nguyễn Văn Huyên - Vị bộ trưởng 'chia chữ cho dân'",
+      "link": "https://vnexpress.net/giao-su-nguyen-van-huyen-vi-bo-truong-chia-chu-cho-dan-4926612.html",
+      "summary": "Từ lời động viên 'chia chữ cho dân' của Chủ tịch Hồ Chí Minh, giáo sư Nguyễn Văn Huyên trở thành Bộ trưởng Giáo dục lâu nhất trong lịch sử, giúp xóa nạn mù chữ và xây dựng nền giáo dục quốc dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:27:06+07:00",
+      "fetched": "2025-08-26T08:17:34.738563+07:00"
+    },
+    {
+      "id": "af5630fc565d297d76f2ec938175da0c",
+      "title": "Điểm tin 6h: Một người chết, hơn 600 nhà tốc mái do bão | TP HCM dự kiến thu hồi 325 ha đất làm metro nối Cần Giờ",
+      "link": "https://vnexpress.net/diem-tin-6h-mot-nguoi-chet-hon-600-nha-toc-mai-do-bao-tp-hcm-du-kien-thu-hoi-325-ha-dat-lam-metro-noi-can-gio-4931444.html",
+      "summary": "Bốn khuyến cáo của Hanoi Metro với khách đi tàu điện dịp 2/9; Băng nhóm cho hàng nghìn người vay lãi 608% bị bắt...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:17:15+07:00",
+      "fetched": "2025-08-26T08:17:34.738726+07:00"
+    },
+    {
+      "id": "d4e620f46b31f4a9b0709d620a6153f6",
+      "title": "Điểm tin 6h: Một người chết, hơn 600 nhà tốc mái do bão | TP HCM dự kiến thu hồi 325 ha đất làm metro nối Cần Giờ",
+      "link": "https://vnexpress.net/diem-tin-6h-mot-nguoi-chet-hon-600-nha-toc-mai-do-bao-tp-hcm-du-kien-thu-hoi-325-ha-dat-lam-metro-noi-can-gio-4931440.html",
+      "summary": "Bốn khuyến cáo của Hanoi Metro với khách đi tàu điện dịp 2/9; Băng nhóm cho hàng nghìn người vay lãi 608% bị bắt...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:15:57+07:00",
+      "fetched": "2025-08-26T08:17:34.738879+07:00"
+    },
+    {
+      "id": "e9c578135d22236dd5f31707984300e9",
+      "title": "Slot chê lối chơi phản bóng đá của Newcastle",
+      "link": "https://vnexpress.net/slot-che-loi-choi-phan-bong-da-cua-newcastle-4931439.html",
+      "summary": "Sau chiến thắng 3-2 ở vòng hai Ngoại hạng Anh, HLV Arne Slot phàn nàn việc Newcastle chỉ dựa vào những tình huống bóng chết và ném biên dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:07:54+07:00",
+      "fetched": "2025-08-26T08:17:34.739040+07:00"
+    },
+    {
+      "id": "e9c578135d22236dd5f31707984300e9",
+      "title": "Slot chê lối chơi phản bóng đá của Newcastle",
+      "link": "https://vnexpress.net/slot-che-loi-choi-phan-bong-da-cua-newcastle-4931439.html",
+      "summary": "Sau chiến thắng 3-2 ở vòng hai Ngoại hạng Anh, HLV Arne Slot phàn nàn việc Newcastle chỉ dựa vào những tình huống bóng chết và ném biên dài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T23:07:54+07:00",
+      "fetched": "2025-08-26T08:17:52.060876+07:00"
+    },
+    {
+      "id": "4f172bd4089784a212347fc2b6e8a8aa",
+      "title": "Bão Kajiki suy yếu thành áp thấp nhiệt đới",
+      "link": "https://vnexpress.net/bao-kajiki-suy-yeu-thanh-ap-thap-nhiet-doi-4931438.html",
+      "summary": "Sáng nay, bão suy yếu thành áp thấp nhiệt đới khi ở trên địa phận Lào, sức gió mạnh nhất 61 km/h, cấp 7, tiếp tục gây mưa to cho miền Bắc và Bắc Trung Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:06:08+07:00",
+      "fetched": "2025-08-26T08:17:34.739195+07:00"
+    },
+    {
+      "id": "cb0ffdac0b8c879dfb0929bde099ade9",
+      "title": "Những điểm nhấn ở vòng 2 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/nhung-diem-nhan-o-vong-2-ngoai-hang-anh-4931394.html",
+      "summary": "Vấn đề hàng công của Man Utd, Viktor Gyokeres mở tài khoản tại Arsenal hay Liverpool thắng phút bù nhờ tiền vệ 16 tuổi đều thuộc danh sách những điểm nhấn ở vòng hai Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T23:04:40+07:00",
+      "fetched": "2025-08-26T08:17:34.739382+07:00"
+    },
+    {
+      "id": "cb0ffdac0b8c879dfb0929bde099ade9",
+      "title": "Những điểm nhấn ở vòng 2 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/nhung-diem-nhan-o-vong-2-ngoai-hang-anh-4931394.html",
+      "summary": "Vấn đề hàng công của Man Utd, Viktor Gyokeres mở tài khoản tại Arsenal hay Liverpool thắng phút bù nhờ tiền vệ 16 tuổi đều thuộc danh sách những điểm nhấn ở vòng hai Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T23:04:40+07:00",
+      "fetched": "2025-08-26T08:17:52.060536+07:00"
+    },
+    {
+      "id": "5fd3ff1205817d0a56643ec07fce513e",
+      "title": "Cha Bellingham chất vấn lãnh đạo Dortmund sau khi con bị thay ra",
+      "link": "https://vnexpress.net/cha-bellingham-chat-van-lanh-dao-dortmund-sau-khi-con-bi-thay-ra-4931376.html",
+      "summary": "Ông Mark Bellingham bức xúc với việc Jobe bị thay ra ngay sau hiệp một trận Dortmund hòa St Pauli 3-3 ở trận ra quân Bundesliga 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T22:59:09+07:00",
+      "fetched": "2025-08-26T08:17:52.061037+07:00"
+    },
+    {
+      "id": "cafd2fd687b03c1a768b473f80dd7cba",
+      "title": "Yamal chúc mừng sinh nhật rapper hơn 6 tuổi",
+      "link": "https://vnexpress.net/yamal-chuc-mung-sinh-nhat-rapper-hon-6-tuoi-4931408.html",
+      "summary": "Ngày 25/8, Lamine Yamal đăng ảnh chúc mừng sinh nhật Nicki Nicole, được xem như động thái công khai về mối quan hệ với nữ rapper người Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T22:53:41+07:00",
+      "fetched": "2025-08-26T08:17:52.061542+07:00"
+    },
+    {
+      "id": "6037e38eef547b97f3fe63e99ccd90f2",
+      "title": "Rooney: 'Amorim không còn gì để bào chữa'",
+      "link": "https://vnexpress.net/rooney-amorim-khong-con-gi-de-bao-chua-4931434.html",
+      "summary": "Cựu tiền đạo Wayne Rooney cho rằng nếu Man Utd không cải thiện được phong độ cho đến tháng 10, HLV Ruben Amorim sẽ chịu áp lực lớn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T22:51:23+07:00",
+      "fetched": "2025-08-26T08:17:52.061208+07:00"
+    },
+    {
+      "id": "a30b66838de9cfee5d331d19517d5504",
+      "title": "Ông Trump muốn thực hiện nhiều thương vụ như Intel",
+      "link": "https://vnexpress.net/ong-trump-muon-thuc-hien-nhieu-thuong-vu-nhu-intel-4931414.html",
+      "summary": "Ngày 25/8, trên mạng xã hội Truth Social, Tổng thống Mỹ Donald Trump tiếp tục thể hiện sự hài lòng với thương vụ chính phủ mua 9,9% cổ phần Intel.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-25T22:51:09+07:00",
+      "fetched": "2025-08-26T08:17:46.044611+07:00"
+    },
+    {
+      "id": "e34d0ed20f28263843b936932c178773",
+      "title": "Nữ cầu thủ đẹp nhất thế giới sang Mỹ thi đấu",
+      "link": "https://vnexpress.net/nu-cau-thu-dep-nhat-the-gioi-sang-my-thi-dau-4931436.html",
+      "summary": "Sau nửa năm khoác áo CLB Bồ Đào Nha Damianese, nữ cầu thủ Croatia, Ana Maria Markovic chuyển sang Mỹ để chơi bóng cùng em gái Kiki.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T22:49:41+07:00",
+      "fetched": "2025-08-26T08:17:52.061384+07:00"
+    },
+    {
+      "id": "2f4852aee419206915bf7a69850516da",
+      "title": "Hãng tàu biển lớn thứ ba thế giới muốn tìm hiểu đầu tư tại TP HCM",
+      "link": "https://vnexpress.net/hang-tau-bien-lon-thu-ba-the-gioi-muon-tim-hieu-dau-tu-tai-tp-hcm-4931416.html",
+      "summary": "CMA CGM - hãng tàu biển lớn thứ ba thế giới của Pháp, muốn tìm hiểu quy hoạch hàng hải của TP HCM để đầu tư thời gian tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-25T22:46:25+07:00",
+      "fetched": "2025-08-26T08:17:46.044795+07:00"
     },
     {
       "id": "9aebab602b448dafe40fbfd278b18120",
