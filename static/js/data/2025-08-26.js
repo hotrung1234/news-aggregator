@@ -1,7 +1,77 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T08:17:52.066532+07:00",
+  "lastUpdated": "2025-08-26T10:13:56.500191+07:00",
   "articles": [
+    {
+      "id": "ef8296b9ac1eb250b82f652b32deb417",
+      "title": "Vu Lan tri ân những người đã nằm xuống cho Tổ quốc trường tồn",
+      "link": "https://tuoitre.vn/vu-lan-tri-an-nhung-nguoi-da-nam-xuong-cho-to-quoc-truong-ton-20250826073731456.htm",
+      "summary": "‘Vu Lan không chỉ là mùa báo hiếu gia đình, mà còn là mùa tri ân những người đã nằm xuống cho Tổ quốc trường tồn’. Đó là lời nhắc nhở thấm thía của hòa thượng Thích Gia Quang giữa những ngày cả nước tưng bừng kỷ niệm 80 năm Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.136517+07:00",
+      "fetched": "2025-08-26T10:13:49.136635+07:00"
+    },
+    {
+      "id": "58da2d6151e3967823d875161aef4425",
+      "title": "Cấm cầu Bình Triệu 1 lúc 9h sáng nay để tránh giờ cao điểm",
+      "link": "https://tuoitre.vn/cam-cau-binh-trieu-1-luc-9h-sang-nay-de-tranh-gio-cao-diem-20250826074929623.htm",
+      "summary": "Sáng nay 26-8, theo thông báo cơ quan chức năng sẽ cấm cầu Bình Triệu 1 để thi công kích nâng cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.136388+07:00",
+      "fetched": "2025-08-26T10:13:49.136500+07:00"
+    },
+    {
+      "id": "e0edd320e155408801930b9b0053d4e1",
+      "title": "TP.HCM mưa to ào ào giờ đi làm, người dân đội mưa đến công sở",
+      "link": "https://tuoitre.vn/tp-hcm-mua-to-ao-ao-gio-di-lam-nguoi-dan-doi-mua-den-cong-so-20250826080811128.htm",
+      "summary": "Do ảnh hưởng của gió mùa tây nam hoạt động mạnh đẩy ẩm từ biển vào khiến TP.HCM có mưa to vào sáng sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.136259+07:00",
+      "fetched": "2025-08-26T10:13:49.136376+07:00"
+    },
+    {
+      "id": "0cdee4b9ff7f8eb4baa7bf6513b1d9e5",
+      "title": "Trứng ngỗng có thật sự tốt hơn các loại trứng khác mà các bà bầu phải cố tìm mua?",
+      "link": "https://tuoitre.vn/trung-ngong-co-that-su-tot-hon-cac-loai-trung-khac-ma-cac-ba-bau-phai-co-tim-mua-20250825154733404.htm",
+      "summary": "Nhiều bà mẹ cho rằng việc ăn trứng ngỗng khi mang thai sẽ giúp có nhiều chất dinh dưỡng, con sẽ khỏe mạnh và thông minh hơn. Thực tế có phải vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.136123+07:00",
+      "fetched": "2025-08-26T10:13:49.136241+07:00"
+    },
+    {
+      "id": "299501e66b103d2cddccb6cbf609082a",
+      "title": "Bảng xếp hạng Giải ngoại hạng Anh sau vòng 2: Man United đứng thứ 16",
+      "link": "https://tuoitre.vn/bang-xep-hang-giai-ngoai-hang-anh-sau-vong-2-man-united-dung-thu-16-20250826072006244.htm",
+      "summary": "Khép lại vòng 2 Ngoại hạng Anh (Premier League) mùa 2025-2026, Arsenal tạm thời vươn lên dẫn đầu bảng xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.135989+07:00",
+      "fetched": "2025-08-26T10:13:49.136110+07:00"
+    },
+    {
+      "id": "c6ead65aa8c95540908e39fdb0833253",
+      "title": "Ngôi sao bóng chuyền nữ Đức: 'Trận gặp Việt Nam vô cùng vất vả'",
+      "link": "https://tuoitre.vn/ngoi-sao-bong-chuyen-nu-duc-tran-gap-viet-nam-vo-cung-vat-va-20250826075817717.htm",
+      "summary": "Chủ công của tuyển bóng chuyền nữ Đức Lina Alsmeier thừa nhận việc giành chiến thắng trước tuyển bóng chuyền nữ Việt Nam tối 25-8 tại Giải bóng chuyền vô địch thế giới 2025, không phải chuyện đơn giản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.135835+07:00",
+      "fetched": "2025-08-26T10:13:49.135976+07:00"
+    },
+    {
+      "id": "a4e2b538c4bcfbb50f73cae969adb42f",
+      "title": "Công ty AI của ông Elon Musk kiện Apple và OpenAI",
+      "link": "https://tuoitre.vn/cong-ty-ai-cua-ong-elon-musk-kien-apple-va-openai-20250826081848176.htm",
+      "summary": "Đơn kiện cáo buộc Apple hạn chế quyền tiếp cận vị trí dẫn đầu trên App Store với các ứng dụng chatbot AI cạnh tranh khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T10:13:49.135590+07:00",
+      "fetched": "2025-08-26T10:13:49.135818+07:00"
+    },
     {
       "id": "489e52fe8fc0ed872860912061607b7a",
       "title": "Nước lũ dâng trong đêm, khẩn cấp di dời 85 người",
@@ -151,6 +221,366 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T08:17:41.779026+07:00",
       "fetched": "2025-08-26T08:17:41.779252+07:00"
+    },
+    {
+      "id": "3b63907cc1e990463233e9a5100a89e0",
+      "title": "Tranh cãi khi hãng hàng không buộc khách ngoại cỡ phải mua thêm ghế ngồi",
+      "link": "https://thanhnien.vn/tranh-cai-khi-hang-hang-khong-buoc-khach-ngoai-co-phai-mua-them-ghe-ngoi-185250826084102134.htm",
+      "summary": "Hãng hàng không Mỹ Southwest Airlines đưa ra chính sách mới khi yêu cầu hành khách ngoại cỡ phải trả trước tiền cho một ghế phụ nếu họ không thể ngồi vừa tay vịn của một ghế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:05:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004034+07:00"
+    },
+    {
+      "id": "780831d835da2116e0499317c3ad356b",
+      "title": "Hà Nội có 36 điểm ngập lụt lớn, giao thông hỗn loạn",
+      "link": "https://thanhnien.vn/ha-noi-co-36-diem-ngap-lut-lon-giao-thong-hon-loan-185250826093924082.htm",
+      "summary": "Hà Nội sáng nay 26.8 có 36 điểm, khu vực ngập lụt sau trận mưa lớn ảnh hưởng bão số 5. Giao thông trên nhiều đường phố rơi vào tình trạng hỗn loạn, tắc nghẽn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:01:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004209+07:00"
+    },
+    {
+      "id": "80a7b6efacf2551ede6966f70c24047e",
+      "title": "iPhone 17 Pro có thể sở hữu tính năng Google vừa từ bỏ",
+      "link": "https://thanhnien.vn/iphone-17-pro-co-the-so-huu-tinh-nang-google-vua-tu-bo-185250826063809216.htm",
+      "summary": "Apple đang thử nghiệm tính năng sạc ngược không dây cho iPhone 17 Pro, nhưng vẫn chưa rõ liệu công ty có chính thức kích hoạt tính năng này hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:01:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004365+07:00"
+    },
+    {
+      "id": "6b910b8d879bb5301ac3c194c2bd33c7",
+      "title": "Trường ĐH Ngân hàng TP.HCM phản hồi về việc ‘thí sinh dư điểm nhưng không trúng tuyển’",
+      "link": "https://thanhnien.vn/truong-dh-ngan-hang-tphcm-phan-hoi-ve-viec-thi-sinh-du-diem-nhung-khong-trung-tuyen-18525082609484694.htm",
+      "summary": "Trường ĐH Ngân hàng TP.HCM cam kết đảm bảo thí sinh đủ điều kiện trúng tuyển của ngành luật, luật kinh tế, luật kinh tế (tiếng Anh bán phần) sẽ được xét tuyển và nhập học tại trường theo đúng các quy định pháp luật hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004525+07:00"
+    },
+    {
+      "id": "db9bfd553fc964b9f180773128d50e62",
+      "title": "Hợp Long lần đầu được vinh danh 'Nơi làm việc tốt nhất châu Á 2025'",
+      "link": "https://thanhnien.vn/hop-long-lan-dau-duoc-vinh-danh-noi-lam-viec-tot-nhat-chau-a-2025-185250826090845852.htm",
+      "summary": "Công ty cổ phần Công nghệ Hợp Long được tạp chí HR Asia trao giải 'Nơi làm việc tốt nhất châu Á 2025', trong khuôn khổ sự kiện HR Asia Awards 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004675+07:00"
+    },
+    {
+      "id": "f14b8df48e4f1a654d639e5d3acec772",
+      "title": "Về Lộc Yên, ngôi làng bình yên trong top 4 làng cổ đẹp nhất Việt Nam",
+      "link": "https://thanhnien.vn/ve-loc-yen-ngoi-lang-binh-yen-trong-top-4-lang-co-dep-nhat-viet-nam-185250825221033237.htm",
+      "summary": "Giữa vùng đất Tiên Phước (Quảng Nam cũ), làng cổ Lộc Yên hiện lên như một bức tranh trầm mặc, mộc mạc nhưng quyến rũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T10:09:19.004857+07:00"
+    },
+    {
+      "id": "43e5451f495fc16e0a96f5c77ec9c39d",
+      "title": "Giá xăng dầu hôm nay 26.8.2025: Tăng do lo ngại gián đoạn nguồn cung",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2682025-tang-do-lo-ngai-gian-doan-nguon-cung-185250826083429491.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng hơn 1 USD/ thùng trong phiên giao dịch đầu tuần do lo ngại gián đoạn nguồn cung. Trong nước, dự báo các mặt hàng xăng dầu đều tăng tại kỳ điều hành giá chiều thứ năm (ngày 28.8) tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:59:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005023+07:00"
+    },
+    {
+      "id": "a3348b73a03214434a63ab374e8aee4d",
+      "title": "Giá vàng hôm nay 26.8.2025: Tăng sát 128 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2682025-tang-sat-128-trieu-dong-luong-185250826085135143.htm",
+      "summary": "Đà tăng giá của vàng miếng SJC vẫn chưa dừng lại khi thêm 600.000 đồng mỗi lượng, đạt mức cao kỷ lục với 127,7 triệu đồng/lượng. Vàng miếng SJC đắt hơn thế giới lên 20 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:57:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005172+07:00"
+    },
+    {
+      "id": "ebc9ef373f6566d4d7f81fe5340a802a",
+      "title": "Cảnh báo lỗi nghiêm trọng trên One UI 8",
+      "link": "https://thanhnien.vn/canh-bao-loi-nghiem-trong-tren-one-ui-8-185250826092243938.htm",
+      "summary": "Đã cài báo thức nhưng vẫn ngủ quên? Lỗi khó chịu này trên One UI 8 của Samsung có thể là thủ phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:54:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005325+07:00"
+    },
+    {
+      "id": "80515ac08580bf8e171100782cfba8a5",
+      "title": "TP.HCM: Giải cứu 3 người Hàn Quốc bị giữ trái phép để đòi tiền chuộc",
+      "link": "https://thanhnien.vn/tphcm-giai-cuu-3-nguoi-han-quoc-bi-giu-trai-phep-de-doi-tien-chuoc-185250826091340136.htm",
+      "summary": "Tin vào lời hứa hẹn việc làm thu nhập cao, 3 công dân Hàn Quốc đã bị một nhóm đối tượng do người Trung Quốc cầm đầu đưa sang Việt Nam, sau đó bị giữ trái pháp luật tại một chung cư ở phường Lái Thiêu (TP.HCM) để đòi tiền chuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:53:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005474+07:00"
+    },
+    {
+      "id": "3c0fc5fd6d105c640e6c0ae8e46981fc",
+      "title": "CĐV Man Utd đòi sa thải Amorim",
+      "link": "https://vnexpress.net/cdv-man-utd-doi-sa-thai-amorim-4931247.html",
+      "summary": "Một nhóm người hâm mộ Man Utd tỏ ra bất mãn với việc Man Utd chỉ kiếm được một điểm và không tự ghi nổi bàn nào trong hai vòng đầu Ngoại hạng Anh 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-26T02:50:32+07:00",
+      "fetched": "2025-08-26T10:13:56.493412+07:00"
+    },
+    {
+      "id": "6194108ed1fdda7a6687d3b4116f6ad4",
+      "title": "Hà Nội mưa lớn suốt đêm do bão số 5, người dân vật lộn giữa 'biển nước'",
+      "link": "https://thanhnien.vn/ha-noi-mua-lon-suot-dem-do-bao-so-5-nguoi-dan-vat-lon-giua-bien-nuoc-185250826093740425.htm",
+      "summary": "Ảnh hưởng hoàn lưu bão số 5 (bão Kajiki) đã gây mưa lớn kéo dài từ đêm 25 đến sáng 26.8, khiến nhiều tuyến phố Hà Nội ngập sâu, hàng loạt phương tiện chết máy, giao thông tê liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:50:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005622+07:00"
+    },
+    {
+      "id": "d18a9fd6e2f3bbc76358ed23674b15c3",
+      "title": "PC Đà Nẵng sẵn sàng cung cấp điện an toàn, liên tục dịp lễ 2.9",
+      "link": "https://thanhnien.vn/pc-da-nang-san-sang-cung-cap-dien-an-toan-lien-tuc-dip-le-29-185250826093335247.htm",
+      "summary": "Công ty Điện lực Đà Nẵng (PC Đà Nẵng) đã xây dựng phương án và bố trí phương thức vận hành nguồn, lưới điện bảo đảm an toàn, tin cậy nhằm đảm bảo cấp điện ổn định dịp lễ Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:42:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005781+07:00"
+    },
+    {
+      "id": "0a05dda38a1d626717c2948bd807f4af",
+      "title": "Daniil Medvedev tính giải nghệ",
+      "link": "https://vnexpress.net/daniil-medvedev-tinh-giai-nghe-4931505.html",
+      "summary": "Hạt giống số 13 Daniil Medvedev nảy sinh ý nghĩ giải nghệ khi đương đầu khó khăn và bị loại ở vòng một Mỹ Mở rộng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-26T02:40:37+07:00",
+      "fetched": "2025-08-26T10:13:56.494533+07:00"
+    },
+    {
+      "id": "59f6ff435d16550f85d28d2e798a7752",
+      "title": "Trường học Hà Nội đồng loạt cho nghỉ vì đường ngập",
+      "link": "https://vnexpress.net/truong-hoc-ha-noi-dong-loat-cho-nghi-vi-duong-ngap-4931458.html",
+      "summary": "Các trường đồng loạt cho học sinh nghỉ học hoặc chuyển học trực tuyến vì giao thông tê liệt sau mưa lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:37:16+07:00",
+      "fetched": "2025-08-26T10:06:52.774227+07:00"
+    },
+    {
+      "id": "66657a84ca14bf4f6d7d43c7842fc341",
+      "title": "Sao trẻ HAGL thay Nguyễn Filip, bắt chính ở đội tuyển Việt Nam đấu Nepal: Tại sao không?",
+      "link": "https://thanhnien.vn/sao-tre-hagl-thay-nguyen-filip-bat-chinh-o-doi-tuyen-viet-nam-dau-nepal-tai-sao-khong-185250826092850526.htm",
+      "summary": "Nếu cứ tiếp tục duy trì phong độ ấn tượng như hiện tại, Trần Trung Kiên của HAGL hoàn toàn đủ sức chiếm suất bắt chính ở đội tuyển Việt Nam trong tương lai gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:36:00+07:00",
+      "fetched": "2025-08-26T10:09:19.005960+07:00"
+    },
+    {
+      "id": "5d2c71888924b21a6d845c5391150bc8",
+      "title": "Tình yêu bây giờ thật khó, phải không em?",
+      "link": "https://vnexpress.net/tinh-yeu-bay-gio-that-kho-phai-khong-em-4931492.html",
+      "summary": "Hy vọng sau bao nhiêu thất bại hoặc buồn bã vì yêu người không yêu mình, em sẽ thử thêm một lần nữa, giống như anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:32:44+07:00",
+      "fetched": "2025-08-26T10:06:52.774362+07:00"
+    },
+    {
+      "id": "7c271591d0f64cc384d824f68c881428",
+      "title": "Yêu anh, em sẽ thấy rất xứng đáng",
+      "link": "https://vnexpress.net/yeu-anh-em-se-thay-rat-xung-dang-4931490.html",
+      "summary": "Anh tin rằng tình yêu đẹp và bền lâu không cần quá nhiều điều kiện, chỉ cần hai người biết lắng nghe, thấu hiểu, trân trọng và vì nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:31:27+07:00",
+      "fetched": "2025-08-26T10:06:52.775188+07:00"
+    },
+    {
+      "id": "c9f485f0a5a7fd5c8cf20d923abdd9d7",
+      "title": "Mẹ đơn thân tìm bạn đồng hành cùng hoàn cảnh",
+      "link": "https://vnexpress.net/me-don-than-tim-ban-dong-hanh-cung-hoan-canh-4931491.html",
+      "summary": "Em là phụ nữ tuổi trung niên đã ly hôn, sống với con gái tuổi teen ở Hà Nội, công việc ổn định tại doanh nghiệp nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:30:04+07:00",
+      "fetched": "2025-08-26T10:06:52.775293+07:00"
+    },
+    {
+      "id": "403896c554c401e3be123392d0038986",
+      "title": "Chồng mua vé máy bay cho bố về nước nhưng không nói với tôi",
+      "link": "https://vnexpress.net/chong-khong-ton-trong-vo-chong-mua-ve-may-bay-cho-bo-ve-nuoc-nhung-khong-noi-voi-toi-4931253.html",
+      "summary": "Không phải tôi tiếc tiền mà là cách anh quyết định một chuyện liên quan đến tài chính và kế hoạch gia đình lại không bàn gì với vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:28:36+07:00",
+      "fetched": "2025-08-26T10:06:52.775468+07:00"
+    },
+    {
+      "id": "ba537fb1c720d10d156f98d5e8884d3c",
+      "title": "Nước ngập sâu, nhiều đoạn quốc lộ, tỉnh lộ ở Thanh Hóa tê liệt",
+      "link": "https://thanhnien.vn/nuoc-ngap-sau-nhieu-doan-quoc-lo-tinh-lo-o-thanh-hoa-te-liet-185250826091326551.htm",
+      "summary": "Nhiều đoạn trên nhiều tuyến quốc lộ ở tỉnh Thanh Hóa đang bị ách tắc, chia cắt do nước ngập và sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:27:00+07:00",
+      "fetched": "2025-08-26T10:09:19.006110+07:00"
+    },
+    {
+      "id": "2b06dfa4641c9a9cbe0c63fefab00c4a",
+      "title": "Vụ thi thể bé gái sơ sinh không nguyên vẹn ở TP.HCM: Đã xác định người mẹ",
+      "link": "https://thanhnien.vn/vu-thi-the-be-gai-so-sinh-khong-nguyen-ven-o-tphcm-da-xac-dinh-nguoi-me-185250826085357247.htm",
+      "summary": "Bà H. khai với cơ quan công an rằng bà là mẹ của thi thể bé gái sơ sinh không nguyên vẹn được phát hiện ở phường Phú Mỹ hôm qua 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:25:00+07:00",
+      "fetched": "2025-08-26T10:09:19.006257+07:00"
+    },
+    {
+      "id": "400abc9679b9508203047a367ff9d33b",
+      "title": "Tôi trượt 7 nguyện vọng đại học dù dư điểm chuẩn",
+      "link": "https://vnexpress.net/toi-truot-7-nguyen-vong-dai-hoc-du-du-diem-chuan-4931488.html",
+      "summary": "Một trường 'treo' nguyện vọng, các nguyện vọng vào đại học khác của tôi đều bị hiển thị 'trượt'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:22:38+07:00",
+      "fetched": "2025-08-26T10:06:52.775632+07:00"
+    },
+    {
+      "id": "cd0cc4c2bf9ddedba9a2bc9ff0b5912f",
+      "title": "Giới siêu giàu chi triệu USD thuê bác sĩ riêng trọn gói",
+      "link": "https://vnexpress.net/gioi-sieu-giau-chi-trieu-usd-thue-bac-si-rieng-tron-goi-4931467.html",
+      "summary": "Nhiều nhà giàu Mỹ chi từ hàng nghìn đến triệu USD mỗi năm cho dịch vụ bác sĩ riêng khám chữa tại nhà, chi phí này chưa bao gồm giá thủ thuật và thuốc thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:22:04+07:00",
+      "fetched": "2025-08-26T10:06:52.775812+07:00"
+    },
+    {
+      "id": "dbb60a6ea0a7b7641bef861921db8b6b",
+      "title": "Quan điểm tình yêu của em là chân thành, trung thực với nhau",
+      "link": "https://vnexpress.net/quan-diem-tinh-yeu-cua-em-la-chan-thanh-trung-thuc-voi-nhau-4930900.html",
+      "summary": "Chào anh, người một ngày nào đó sẽ trở thành mảnh ghép đặc biệt trên hành trình cuộc đời của em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:21:16+07:00",
+      "fetched": "2025-08-26T10:06:52.775917+07:00"
+    },
+    {
+      "id": "13473ff711f5245958645f3d6caac1a5",
+      "title": "Ông Trump muốn đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-muon-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4931464.html",
+      "summary": "Tổng thống Trump cho biết có thể đổi tên Bộ Quốc phòng Mỹ, đặt lại tên gọi ban đầu là Bộ Chiến tranh trong khoảng một tuần tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:21:14+07:00",
+      "fetched": "2025-08-26T10:06:52.776073+07:00"
+    },
+    {
+      "id": "13473ff711f5245958645f3d6caac1a5",
+      "title": "Ông Trump muốn đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-muon-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4931464.html",
+      "summary": "Tổng thống Trump cho biết có thể đổi tên Bộ Quốc phòng Mỹ, đặt lại tên gọi ban đầu là Bộ Chiến tranh trong khoảng một tuần tới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T02:21:14+07:00",
+      "fetched": "2025-08-26T10:13:51.041653+07:00"
+    },
+    {
+      "id": "2d19d2ea6b74aeee90b865b5ed50da0c",
+      "title": "Hàn Quốc nói Triều Tiên có thể sản xuất 20 bom hạt nhân mỗi năm",
+      "link": "https://vnexpress.net/han-quoc-noi-trieu-tien-co-the-san-xuat-20-bom-hat-nhan-moi-nam-4931472.html",
+      "summary": "Tổng thống Hàn Quốc nói Triều Tiên có thể sản xuất 10-20 vũ khí nguyên tử mỗi năm và sắp phát triển xong ICBM có khả năng bay tới lục địa Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:20:04+07:00",
+      "fetched": "2025-08-26T10:06:52.776232+07:00"
+    },
+    {
+      "id": "2d19d2ea6b74aeee90b865b5ed50da0c",
+      "title": "Hàn Quốc nói Triều Tiên có thể sản xuất 20 bom hạt nhân mỗi năm",
+      "link": "https://vnexpress.net/han-quoc-noi-trieu-tien-co-the-san-xuat-20-bom-hat-nhan-moi-nam-4931472.html",
+      "summary": "Tổng thống Hàn Quốc nói Triều Tiên có thể sản xuất 10-20 vũ khí nguyên tử mỗi năm và sắp phát triển xong ICBM có khả năng bay tới lục địa Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T02:20:04+07:00",
+      "fetched": "2025-08-26T10:13:51.041855+07:00"
+    },
+    {
+      "id": "18fdf77cabd702fe658d3e857036c40b",
+      "title": "Công an TP HCM giải cứu 3 người Hàn Quốc bị lừa đến Việt Nam, giam giữ",
+      "link": "https://vnexpress.net/cong-an-tp-hcm-giai-cuu-3-nguoi-han-quoc-bi-lua-den-viet-nam-giam-giu-4931506.html",
+      "summary": "Luo Shenghua, quốc tịch Trung Quốc, lừa nhóm người Hàn Quốc đến Việt Nam làm \"việc nhẹ lương cao\" rồi giam giữ, buộc đưa tiền chuộc mới thả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:05:31+07:00",
+      "fetched": "2025-08-26T10:06:52.776390+07:00"
+    },
+    {
+      "id": "84adf8cfcd263ccbdad9e8ee7ca2721a",
+      "title": "Bài học từ sân golf và hành trình Việt Nam gia nhập ASEAN",
+      "link": "https://vnexpress.net/bai-hoc-tu-san-golf-va-hanh-trinh-viet-nam-gia-nhap-asean-4930177.html",
+      "summary": "Giữa không khí vui vẻ trong bữa tiệc tối ở Bali, Indonesia nhiều năm trước, một câu nói của các quan chức ngoại giao ASEAN bỗng khiến ông Vũ Khoan sững người: \"Vấn đề hôm qua bàn đã thống nhất rồi nhé!\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:00:00+07:00",
+      "fetched": "2025-08-26T10:06:52.776551+07:00"
+    },
+    {
+      "id": "fb1848774b7cd495068934f665be0183",
+      "title": "Lao động công ích - cách nhiều nước xử lý vi phạm giao thông",
+      "link": "https://vnexpress.net/lao-dong-cong-ich-cach-nhieu-nuoc-xu-ly-vi-pham-giao-thong-4931226.html",
+      "summary": "Không chỉ phạt tiền, nhiều quốc gia buộc người vi phạm giao thông tham gia lao động công ích, từ dọn rác công viên đến lau dọn nhà xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:00:00+07:00",
+      "fetched": "2025-08-26T10:06:52.776701+07:00"
+    },
+    {
+      "id": "c5ee8c8ae73195a5e52161291558bd15",
+      "title": "Chưa tiêm được vaccine do bão Kajiki, cần làm gì?",
+      "link": "https://vnexpress.net/chua-tiem-duoc-vaccine-do-bao-kajiki-can-lam-gi-4931483.html",
+      "summary": "Tôi ở khu vực ảnh hưởng bão Kajiki nên gió to, mưa lớn, chưa tiêm vaccine theo lịch hẹn được, tiêm muộn có sao không và cần làm gì? (Hải Đăng, 25 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:00:00+07:00",
+      "fetched": "2025-08-26T10:06:52.776876+07:00"
+    },
+    {
+      "id": "98d1f347942ecbed1f1ac339436b2532",
+      "title": "Thai nhi đột biến gene gây giãn đường tiết niệu",
+      "link": "https://vnexpress.net/thai-nhi-dot-bien-gene-gay-gian-duong-tiet-nieu-4931462.html",
+      "summary": "Thai nhi 28 tuần bị đa ối, giãn bể thận, bác sĩ xét nghiệm di truyền chẩn đoán đột biến gene gây bệnh tiết niệu, tiểu đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T02:00:00+07:00",
+      "fetched": "2025-08-26T10:06:52.777033+07:00"
+    },
+    {
+      "id": "84adf8cfcd263ccbdad9e8ee7ca2721a",
+      "title": "Bài học từ sân golf và hành trình Việt Nam gia nhập ASEAN",
+      "link": "https://vnexpress.net/bai-hoc-tu-san-golf-va-hanh-trinh-viet-nam-gia-nhap-asean-4930177.html",
+      "summary": "Giữa không khí vui vẻ trong bữa tiệc tối ở Bali, Indonesia nhiều năm trước, một câu nói của các quan chức ngoại giao ASEAN bỗng khiến ông Vũ Khoan sững người: \"Vấn đề hôm qua bàn đã thống nhất rồi nhé!\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T02:00:00+07:00",
+      "fetched": "2025-08-26T10:13:51.042032+07:00"
+    },
+    {
+      "id": "a182137ed5869fc6ecf6ec758a9450b8",
+      "title": "TV Mini LED lớn nhất của LG",
+      "link": "https://vnexpress.net/tv-mini-led-lon-nhat-cua-lg-4931424.html",
+      "summary": "LG 100QNED86AS có màn hình 100 inch trang bị công nghệ Mini LED, Quantum Dot và NanoCell, hỗ trợ xử lý AI cho giải trí và làm việc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-26T01:52:59+07:00",
+      "fetched": "2025-08-26T10:13:55.090884+07:00"
     },
     {
       "id": "4cc5cca272cb5db83fc116c6e0765dfc",
@@ -303,6 +733,16 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T01:24:46.133663+07:00"
     },
     {
+      "id": "f9220562c0cb897be0464c1e593b7a30",
+      "title": "Google thúc giục nhân viên dùng AI trong công việc",
+      "link": "https://vnexpress.net/google-thuc-giuc-nhan-vien-dung-ai-trong-cong-viec-4931431.html",
+      "summary": "Trong cuộc đua căng thẳng với các ông lớn công nghệ, Google gia tăng áp lực lên nhân viên, thúc giục họ sử dụng AI hàng ngày để tăng năng suất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-26T01:15:52+07:00",
+      "fetched": "2025-08-26T10:13:55.090672+07:00"
+    },
+    {
       "id": "45683b9ceb2650075ec76f5c386ef2ed",
       "title": "Hà Nội mưa lớn suốt đêm, ngập lụt khắp nơi",
       "link": "https://thanhnien.vn/ha-noi-mua-lon-suot-dem-ngap-lut-khap-noi-185250826080853964.htm",
@@ -341,6 +781,16 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T01:04:00+07:00",
       "fetched": "2025-08-26T08:17:40.219574+07:00"
+    },
+    {
+      "id": "868c9c6c67d5a2f5227a3ccc58ce92e8",
+      "title": "Trung Quốc có thể sắp biên chế tàu sân bay thứ ba",
+      "link": "https://vnexpress.net/trung-quoc-co-the-sap-bien-che-tau-san-bay-thu-ba-4931129.html",
+      "summary": "Truyền thông Trung Quốc đưa tin nước này sắp biên chế tàu sân bay Phúc Kiến, có thể là trong tháng 9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T01:03:32+07:00",
+      "fetched": "2025-08-26T10:13:51.042192+07:00"
     },
     {
       "id": "be37b05c19608dd29607b2137dd146d0",
