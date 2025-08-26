@@ -1,7 +1,157 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T19:36:46.147776+07:00",
+  "lastUpdated": "2025-08-26T21:16:03.125135+07:00",
   "articles": [
+    {
+      "id": "4d65d11bbd8961a0e3edc565339f99b0",
+      "title": "Doanh nghiệp vàng phải có vốn từ 1.000 tỉ đồng mới được sản xuất vàng miếng",
+      "link": "https://tuoitre.vn/doanh-nghiep-vang-phai-co-von-tu-1-000-ti-dong-moi-duoc-san-xuat-vang-mieng-20250826171610384.htm",
+      "summary": "Doanh nghiệp được Ngân hàng Nhà nước xem xét cấp giấy phép sản xuất vàng miếng phải có vốn điều lệ từ 1.000 tỉ đồng, còn ngân hàng phải vốn điều lệ từ 50.000 tỉ đồng trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.958580+07:00",
+      "fetched": "2025-08-26T21:15:55.958691+07:00"
+    },
+    {
+      "id": "637d01c891cd5f508f4fb25745306476",
+      "title": "Bão số 5 vừa tan, áp thấp mới lại sắp vào Biển Đông trong 1-2 ngày tới",
+      "link": "https://tuoitre.vn/bao-so-5-vua-tan-ap-thap-moi-lai-sap-vao-bien-dong-trong-1-2-ngay-toi-20250826190555281.htm",
+      "summary": "Bão số 5 vừa tan, hoàn lưu còn gây mưa dữ dội cho Bắc Bộ thì trên Thái Bình Dương lại có áp thấp mới, dự báo lại vào Biển Đông và mạnh lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.958457+07:00",
+      "fetched": "2025-08-26T21:15:55.958569+07:00"
+    },
+    {
+      "id": "03afbebd65ef377182b63c3dbf0072b7",
+      "title": "Phát triển xanh, bền vững: Cơ hội để công nghiệp Việt Nam bứt phá",
+      "link": "https://tuoitre.vn/phat-trien-xanh-ben-vung-co-hoi-de-cong-nghiep-viet-nam-but-pha-20250826190211122.htm",
+      "summary": "Hội thảo \"Kết nối năng lượng thông minh, dẫn lối tương lai xanh\" mở ra cơ hội cho ngành công nghiệp Việt Nam bứt phá thông qua các mô hình phát triển bền vững, tiết kiệm năng lượng, giảm phát thải và hướng đến mục tiêu Net Zero vào năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.958331+07:00",
+      "fetched": "2025-08-26T21:15:55.958446+07:00"
+    },
+    {
+      "id": "559e4249890164804f9c743ed3dcdcfa",
+      "title": "Hàng ngàn người chạy giải ‘Hành trình 80 năm - Vì an ninh Tổ quốc’",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-chay-giai-hanh-trinh-80-nam-vi-an-ninh-to-quoc-20250826131847088.htm",
+      "summary": "Sáng ngày 24-8, tại NovaWorld Phan Thiet, Giải chạy ‘Hành trình 80 năm - Vì an ninh Tổ quốc’ đã khởi tranh, để lại dấu ấn mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.958210+07:00",
+      "fetched": "2025-08-26T21:15:55.958320+07:00"
+    },
+    {
+      "id": "858618527017c9f7e5667be40e7c6051",
+      "title": "Trải nghiệm nhận diện sinh trắc học lên máy bay với VNeID và Vietjet",
+      "link": "https://tuoitre.vn/trai-nghiem-nhan-dien-sinh-trac-hoc-len-may-bay-voi-vneid-va-vietjet-20250826192440728.htm",
+      "summary": "Hành khách hiện nay đã có thể dễ dàng thực hiện thủ tục hàng không, qua kiểm tra an ninh và cửa ra tàu bay bằng công nghệ định danh sinh trắc học (eKYC) qua ứng dụng VNeID, Vietjet Air tại hầu hết các sân bay trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.958087+07:00",
+      "fetched": "2025-08-26T21:15:55.958199+07:00"
+    },
+    {
+      "id": "b227f01ea2a2310b0caac5ca54a0ecf9",
+      "title": "Đối thoại với doanh nghiệp, chủ tịch Quảng Ngãi nói 'chậm trao đổi dẫn đến vướng mắc'",
+      "link": "https://tuoitre.vn/doi-thoai-voi-doanh-nghiep-chu-tich-quang-ngai-noi-cham-trao-doi-dan-den-vuong-mac-20250826191717373.htm",
+      "summary": "Nhiều vướng mắc về đất đai, thuế được doanh nghiệp nói ra trong buổi đối thoại. Ông Nguyễn Hoàng Giang, chủ tịch UBND tỉnh Quảng Ngãi, 'truy' từng vấn đề và nói 'vì chậm trao đổi, tháo gỡ dẫn đến vướng mắc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957960+07:00",
+      "fetched": "2025-08-26T21:15:55.958076+07:00"
+    },
+    {
+      "id": "6374738c7419e145222eda9480f18e9c",
+      "title": "Sạt lở hàng trăm mét khối đất đá từ đồi xuống đe dọa trường học",
+      "link": "https://tuoitre.vn/sat-lo-hang-tram-met-khoi-dat-da-tu-doi-xuong-de-doa-truong-hoc-20250826190858942.htm",
+      "summary": "Do ảnh hưởng của bão số 5, mưa lớn kéo dài, ngày 26-8 tại bản Táo, xã vùng cao Trung Lý, tỉnh Thanh Hóa xuất hiện điểm sạt lở lớn từ trên đồi núi, kéo theo hàng trăm mét khối đất đá đổ xuống cạnh trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957819+07:00",
+      "fetched": "2025-08-26T21:15:55.957947+07:00"
+    },
+    {
+      "id": "3762f0acb0bb6c9d2159897b55d40b2f",
+      "title": "Tập đua thuyền trên sông Kiến Giang, một tay bơi bất ngờ ngất xỉu rồi tử vong",
+      "link": "https://tuoitre.vn/tap-dua-thuyen-tren-song-kien-giang-mot-tay-boi-bat-ngo-ngat-xiu-roi-tu-vong-20250826193708171.htm",
+      "summary": "Một người đàn ông tại Quảng Trị đã bất ngờ ngất xỉu và tử vong, khi đang tập luyện để chuẩn bị cho giải đua thuyền trên sông Kiến Giang sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957697+07:00",
+      "fetched": "2025-08-26T21:15:55.957808+07:00"
+    },
+    {
+      "id": "78cdb4c7d0c6f14b34fb8273acd6d10c",
+      "title": "Hoa hậu H'Hen Niê và TikToker Lê Bống sẽ đồng hành chia sẻ với giáo viên vùng cao",
+      "link": "https://tuoitre.vn/hoa-hau-h-hen-nie-va-tiktoker-le-bong-se-dong-hanh-chia-se-voi-giao-vien-vung-cao-20250826192734793.htm",
+      "summary": "Chương trình \"Chia sẻ cùng thầy cô\" năm 2025 sẽ có hoa hậu H'Hen Niê và TikToker Lê Bống đồng hành, cùng chia sẻ với giáo viên vùng cao, vùng biên giới, hải đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957573+07:00",
+      "fetched": "2025-08-26T21:15:55.957685+07:00"
+    },
+    {
+      "id": "04b7952df908b5031e27070b222ecb37",
+      "title": "Một ngư dân câu mực ở Phú Quốc mất tích do ảnh hưởng bão số 5",
+      "link": "https://tuoitre.vn/mot-ngu-dan-cau-muc-o-phu-quoc-mat-tich-do-anh-huong-bao-so-5-20250826193211459.htm",
+      "summary": "Do ảnh hưởng bão số 5 (Kajiki), An Giang có mưa dông làm sạt lở đường, sập và tốc mái 4 căn nhà, đặc biệt một ngư dân ở đặc khu Phú Quốc đi câu mực bị mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957447+07:00",
+      "fetched": "2025-08-26T21:15:55.957561+07:00"
+    },
+    {
+      "id": "4f6d5c754f9dcd629798a10f74fc1355",
+      "title": "Phó chủ tịch UBND TP.HCM Bùi Minh Thạnh khảo sát hoạt động phường Tân Tạo",
+      "link": "https://tuoitre.vn/pho-chu-tich-ubnd-tp-hcm-bui-minh-thanh-khao-sat-hoat-dong-phuong-tan-tao-2025082619073651.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Bùi Minh Thạnh làm trưởng đoàn công tác khảo sát tình hình tổ chức và hoạt động của phường Tân Tạo, trong quá trình vận hành mô hình chính quyền địa phương 2 cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957319+07:00",
+      "fetched": "2025-08-26T21:15:55.957436+07:00"
+    },
+    {
+      "id": "4a45a94a9570f5625bb304ae45e04dfa",
+      "title": "Tây Ninh mở hội chợ mừng Quốc khánh 2-9, Núi Bà Đen sẵn sàng đón hơn 15.000 khách đến 'chợ lá'",
+      "link": "https://tuoitre.vn/tay-ninh-mo-hoi-cho-mung-quoc-khanh-2-9-nui-ba-den-san-sang-don-hon-15-000-khach-den-cho-la-20250826184515836.htm",
+      "summary": "Tây Ninh bắt đầu chuỗi sự kiện mừng Quốc khánh 2-9 với việc khai mạc hội chợ triển lãm tại phường Long An. Khu du lịch Núi Bà Đen cũng đã lên nhiều chương trình chuẩn bị đón du khách đến chơi lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957191+07:00",
+      "fetched": "2025-08-26T21:15:55.957307+07:00"
+    },
+    {
+      "id": "6362f74efb00e86e1295fe96665f98c7",
+      "title": "Doanh nghiệp khổ sở vì hàng nhái, xâm phạm sở hữu trí tuệ",
+      "link": "https://tuoitre.vn/doanh-nghiep-kho-so-vi-hang-nhai-xam-pham-so-huu-tri-tue-20250826195717242.htm",
+      "summary": "Đó là ý kiến của nhiều doanh nghiệp tại diễn đàn 'Hoàn thiện chính sách tài sản trí tuệ - Động lực cho doanh nghiệp đổi mới sáng tạo', do tạp chí Diễn Đàn Doanh Nghiệp và các đơn vị đồng tổ chức, chiều 26-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.957059+07:00",
+      "fetched": "2025-08-26T21:15:55.957179+07:00"
+    },
+    {
+      "id": "a3a837ba30e6bfd0656f869e1a3979fb",
+      "title": "3 nước châu Âu thăm dò khả năng thanh sát hạt nhân Iran thay cho trừng phạt",
+      "link": "https://tuoitre.vn/3-nuoc-chau-au-tham-do-kha-nang-thanh-sat-hat-nhan-iran-thay-cho-trung-phat-20250826200627673.htm",
+      "summary": "Các quan chức cấp cao từ Iran và ba nước hàng đầu châu Âu gặp nhau tại Thụy Sĩ ngày 26-8 để bàn về việc nối lại các cuộc thanh sát hạt nhân của Tehran nếu không muốn đối mặt trừng phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.956899+07:00",
+      "fetched": "2025-08-26T21:15:55.957046+07:00"
+    },
+    {
+      "id": "cc0d39acde3c9d9e4d4df174816c766b",
+      "title": "Vẻ đẹp mảnh đất miền Trung qua góc nhìn của nghệ sĩ trẻ",
+      "link": "https://tuoitre.vn/ve-dep-manh-dat-mien-trung-qua-goc-nhin-cua-nghe-si-tre-20250826194742769.htm",
+      "summary": "Vẻ đẹp mảnh đất miền Trung được các nghệ sĩ trẻ đến từ TP Đà Nẵng và Huế khắc họa, giới thiệu đến công chúng qua triển lãm “Mỹ thuật trẻ - Đà Nẵng 2025”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:15:55.956692+07:00",
+      "fetched": "2025-08-26T21:15:55.956884+07:00"
+    },
     {
       "id": "d237b2378ccd1b2f57b63c3af3b33be5",
       "title": "Sau 2 tháng nuôi nhốt, người dân giao nộp rùa quý hiếm bò vào vườn nhà",
@@ -453,6 +603,166 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T15:26:13.501751+07:00"
     },
     {
+      "id": "be38138cc4e9737c104eb52aefd51869",
+      "title": "Không gian Truyền thống và Sáng tạo Hà Nội 2025: Dấu ấn tinh hoa ngàn năm",
+      "link": "https://thanhnien.vn/khong-gian-truyen-thong-va-sang-tao-ha-noi-2025-dau-an-tinh-hoa-ngan-nam-185250826210651559.htm",
+      "summary": "Nhân dịp kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9, Hà Nội đang khẩn trương hoàn tất những khâu chuẩn bị cuối cùng cho một sự kiện văn hóa - kinh tế - du lịch có ý nghĩa đặc biệt, đó là ‘Không gian Truyền thống và Sáng tạo Hà Nội 2025’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:15:00+07:00",
+      "fetched": "2025-08-26T21:15:55.136958+07:00"
+    },
+    {
+      "id": "d48a9345980da947ab7391922495e317",
+      "title": "Đà Nẵng: Cầm búa xông vào tiệm vàng, đánh bảo vệ bị thương rồi đập tủ trang sức",
+      "link": "https://thanhnien.vn/da-nang-cam-bua-xong-vao-tiem-vang-danh-bao-ve-bi-thuong-roi-dap-tu-trang-suc-185250826205714494.htm",
+      "summary": "Người đàn ông cao lớn xông vào cửa hàng trang sức, cầm vật giống búa tấn công vào đầu nhân viên bảo vệ, đập vỡ tủ trang sức rồi rời đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:09:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137133+07:00"
+    },
+    {
+      "id": "da23c47de94e50dbaf62eb0987e50baa",
+      "title": "Cục CSGT hạn chế phương tiện trên cao tốc, quốc lộ hướng về Hà Nội ngày 27.8",
+      "link": "https://thanhnien.vn/cuc-csgt-han-che-phuong-tien-tren-cao-toc-quoc-lo-huong-ve-ha-noi-ngay-278-185250826204146451.htm",
+      "summary": "Để phục vụ sơ duyệt diễu binh, diễu hành A80, Cục CSGT Bộ Công an đã có phương án hạn chế phương tiện trên các tuyến cao tốc, quốc lộ hướng về Hà Nội từ trưa 27.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:06:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137302+07:00"
+    },
+    {
+      "id": "564ffd3379aba8de6e711834c36a0cbd",
+      "title": "14 năm hôn nhân địa ngục vì chưa kiếm nhiều tiền đã vội cưới vợ",
+      "link": "https://vnexpress.net/14-nam-hon-nhan-dia-nguc-vi-chua-kiem-nhieu-tien-da-voi-cuoi-vo-4931771.html",
+      "summary": "Tôi kết hôn năm 26 tuổi và có nhiều năm chịu đựng mọi rắc rối của hôn nhân, phần nhiều do cả hai chưa chín chắn, tài chính chưa vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:00:00+07:00",
+      "fetched": "2025-08-26T21:15:51.833900+07:00"
+    },
+    {
+      "id": "587c2b7ef2503fc6ebabfb30b26be0e6",
+      "title": "Bi kịch đòi của hồi môn khiến chồng thiêu vợ",
+      "link": "https://vnexpress.net/bi-kich-doi-cua-hoi-mon-khien-chong-thieu-vo-4931645.html",
+      "summary": "Dù nhận nhiều vàng, tiền mặt, xe hơi từ tục lệ \"nhà gái trả tiền thách cưới cho nhà trai\", Vipin vẫn chưa thỏa mãn, tưới xăng thiêu chết vợ sau 9 năm bạo hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:55:52+07:00",
+      "fetched": "2025-08-26T21:15:51.834098+07:00"
+    },
+    {
+      "id": "92b6f17a90adb8c6b11c8400ff99c23f",
+      "title": "Gần 25.000 nhà tốc mái do bão Kajiki",
+      "link": "https://vnexpress.net/gan-25-000-nha-toc-mai-do-bao-kajiki-4931868.html",
+      "summary": "Thống kê từ các địa phương đến 18h hôm nay, bão Kajiki đã làm 25.000 nhà tốc mái, 247 điểm trường hư hại, 1,5 triệu khách hàng vẫn đang mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:54:10+07:00",
+      "fetched": "2025-08-26T21:15:51.834263+07:00"
+    },
+    {
+      "id": "6ca799ac9bf7fed7cd2acc6171e11578",
+      "title": "Người dân ngoại thành Hà Nội bắt đầu chạy lũ",
+      "link": "https://vnexpress.net/nguoi-dan-ngoai-thanh-ha-noi-bat-dau-chay-lu-4931870.html",
+      "summary": "Tối 26/8, nước sông Bùi gây ngập sâu ở thôn Bùi Xá khiến hơn 120 hộ dân phải kê dọn đồ đạc, di chuyển phương tiện đến điểm cao để chạy lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:50:46+07:00",
+      "fetched": "2025-08-26T21:15:51.834423+07:00"
+    },
+    {
+      "id": "5642d0eeb28f0bc9f35b2d651aee29d3",
+      "title": "TP HCM nghiên cứu thay bảng giá đất sau sáp nhập",
+      "link": "https://vnexpress.net/tp-hcm-nghien-cuu-thay-bang-gia-dat-sau-sap-nhap-4931856.html",
+      "summary": "UBND TP HCM yêu cầu xây dựng bảng giá đất thống nhất sau sáp nhập, áp dụng từ đầu 2026, thay cho 3 bảng giá riêng lẻ đang dùng hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:46:40+07:00",
+      "fetched": "2025-08-26T21:15:51.834733+07:00"
+    },
+    {
+      "id": "01478a8de7ef8ad2e50e9b0f1912ad0b",
+      "title": "Nam cảnh sát Mỹ cứu rỗi hơn 200 người tuyệt vọng ở Cầu Cổng Vàng",
+      "link": "https://vnexpress.net/phep-mau-cua-vien-canh-sat-thuyet-phuc-hon-200-nguoi-khoi-nhay-cau-4931798.html",
+      "summary": "Trung sĩ Kevin Briggs được gọi là 'Người bảo vệ Cầu Cổng Vàng' nhờ ngăn hơn 200 người nhảy cầu ở địa danh nổi tiếng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:43:31+07:00",
+      "fetched": "2025-08-26T21:15:51.834896+07:00"
+    },
+    {
+      "id": "8be9567e1e8481dcb87ec3392e2147bd",
+      "title": "Nữ diễn viên gạo cội tái xuất phim giờ vàng nhận ‘mưa’ lời khen",
+      "link": "https://thanhnien.vn/nu-dien-vien-gao-coi-tai-xuat-phim-gio-vang-nhan-mua-loi-khen-185250826202743236.htm",
+      "summary": "Diễn viên Khánh Huyền trở lại phim giờ vàng với vai bà Lý trong 'Gió ngang khoảng trời xanh'. Cô nhận nhiều lời khen từ khán giả về ngoại hình lẫn diễn xuất ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:43:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137464+07:00"
+    },
+    {
+      "id": "da4fc478eb409a5440c0f9fdb45ae260",
+      "title": "Microsoft gửi cảnh báo khẩn về ChatGPT giả mạo",
+      "link": "https://thanhnien.vn/microsoft-gui-canh-bao-khan-ve-chatgpt-gia-mao-185250826172238833.htm",
+      "summary": "Một phiên bản giả mạo ChatGPT đang được sử dụng như một công cụ để phát tán phần mềm độc hại trong các cuộc tấn công ransomware trên toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:38:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137619+07:00"
+    },
+    {
+      "id": "655ff7b81ecd3c5400bf3fc74a6ae6fe",
+      "title": "Người Việt cao thứ mấy Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-viet-cao-thu-may-dong-nam-a-4931632.html",
+      "summary": "Người Việt ra khỏi nhóm 'lùn nhất Đông Nam Á' khi mức tăng chiều cao của nam và nữ lần lượt là 3,7 và 2,8 cm, trong giai đoạn 2010-2020.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:32:10+07:00",
+      "fetched": "2025-08-26T21:15:51.835121+07:00"
+    },
+    {
+      "id": "ab349ef3ef2e5a694d9838c5e1f954b9",
+      "title": "Kỹ sư công nghệ bị sa thải vì không dùng AI",
+      "link": "https://thanhnien.vn/ky-su-cong-nghe-bi-sa-thai-vi-khong-dung-ai-185250826102430015.htm",
+      "summary": "CEO Coinbase Brian Armstrong cho các kỹ sư một tuần để làm quen với trợ lý AI trong việc lập trình, ai không dùng thì bị sa thải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:31:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137772+07:00"
+    },
+    {
+      "id": "15b58d27487009fb4a717e068be34b3d",
+      "title": "Nghỉ ốm 16 năm, giáo viên Đức kiện nhà trường khi bị yêu cầu đi khám",
+      "link": "https://vnexpress.net/nghi-om-16-nam-giao-vien-duc-kien-nha-truong-khi-bi-yeu-cau-di-kham-4931670.html",
+      "summary": "Một giáo viên người Đức nghỉ ốm liên tục trong 16 năm qua vẫn hưởng đủ lương đã kiện nhà trường khi bị yêu cầu nộp giấy tờ chứng minh ốm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:30:06+07:00",
+      "fetched": "2025-08-26T21:15:51.835280+07:00"
+    },
+    {
+      "id": "876736e7f636fc77619223063de6beb2",
+      "title": "Tổng thống Hàn Quốc sợ ‘khoảnh khắc Zelensky’ khi đến Nhà Trắng",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-so-khoanh-khac-zelensky-khi-den-nha-trang-185250826192046673.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bất ngờ có bài đăng quan ngại về tình hình tại Hàn Quốc, chỉ vài giờ trước cuộc gặp người đồng cấp Lee Jae Myung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:30:00+07:00",
+      "fetched": "2025-08-26T21:15:55.137938+07:00"
+    },
+    {
+      "id": "1b24ca77917b524ccb4bc7cc704a3fa3",
+      "title": "Chồng vài lần phản bội trong khi anh 'sạch sẽ, không thích chung đụng'",
+      "link": "https://vnexpress.net/chong-vai-lan-phan-boi-trong-khi-anh-sach-se-khong-thich-chung-dung-4931861.html",
+      "summary": "Giờ cứ nghĩ đến chuyện chồng gái gú vài lần, tôi lại ám ảnh chuyện anh đi nhậu đến sáng, vợ gọi cháy máy không nghe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:28:49+07:00",
+      "fetched": "2025-08-26T21:15:51.835441+07:00"
+    },
+    {
       "id": "97101be9ef736169a34c035be0d3fb17",
       "title": "Alcaraz gây sốt với diện mạo hoàn toàn mới tại vòng 1 US Open",
       "link": "https://tuoitre.vn/alcaraz-gay-sot-voi-dien-mao-hoan-toan-moi-tai-vong-1-us-open-20250826111048043.htm",
@@ -601,6 +911,166 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T13:26:08.749354+07:00",
       "fetched": "2025-08-26T13:26:08.749570+07:00"
+    },
+    {
+      "id": "15222f5067d1f09673afc32de5a777aa",
+      "title": "Lưới điện bị tàn phá, hơn 1,5 triệu khách hàng đang mất điện",
+      "link": "https://vnexpress.net/luoi-dien-bi-tan-pha-hon-1-5-trieu-khach-hang-dang-mat-dien-4931709.html",
+      "summary": "Sự cố đường dây truyền tải cùng hơn 2.600 cột điện gãy đổ trong bão Kajiki khiến 1,5 triệu khách hàng ở miền Bắc và Bắc Trung Bộ đang mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:20:23+07:00",
+      "fetched": "2025-08-26T21:15:51.835602+07:00"
+    },
+    {
+      "id": "5e3d50acaf2f1c50566f6d9aa2bdd571",
+      "title": "5 sao chổi sắp 'ghé' trái đất: Có sao chổi đến năm 3421 mới quay lại!",
+      "link": "https://thanhnien.vn/5-sao-choi-sap-ghe-trai-dat-co-sao-choi-den-nam-3421-moi-quay-lai-185250824133931651.htm",
+      "summary": "Có 5 sao chổi đang trên đường tiến tới trái đất. Điều gì sẽ đón chờ người yêu thiên văn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:20:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138094+07:00"
+    },
+    {
+      "id": "5cbbc9a175f563e47231fffd38680d9b",
+      "title": "Khi đang tập luyện bơi thuyền thì ngất xỉu, sau đó tử vong",
+      "link": "https://thanhnien.vn/khi-dang-tap-luyen-boi-thuyen-thi-ngat-xiu-sau-do-tu-vong-185250826190757313.htm",
+      "summary": "Một người đàn ông tại xã Lệ Thủy (Quảng Trị) khi đang tập luyện bơi thuyền thì bị ngất xỉu, được đưa đi cấp cứu nhưng không qua khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:12:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138243+07:00"
+    },
+    {
+      "id": "879bb5af785c3edce8f1985f820341f2",
+      "title": "Vùng áp thấp hướng vào Biển Đông, dự báo Bắc bộ mưa lớn đến cuối tháng 8",
+      "link": "https://thanhnien.vn/vung-ap-thap-huong-vao-bien-dong-du-bao-bac-bo-mua-lon-den-cuoi-thang-8-185250826195023982.htm",
+      "summary": "Vùng áp thấp đang hoạt động trên vùng biển phía đông Philippines đang hướng vào Biển Đông và dự báo sẽ mạnh lên thành áp thấp nhiệt đới, gây mưa lớn ở Bắc bộ, bắc Trung bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:06:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138396+07:00"
+    },
+    {
+      "id": "c9e641a835ed649e248fe93023752a47",
+      "title": "Giá vàng giảm sau thông tin xóa bỏ độc quyền vàng miếng",
+      "link": "https://thanhnien.vn/gia-vang-giam-sau-thong-tin-xoa-bo-doc-quyen-vang-mieng-185250826195659797.htm",
+      "summary": "Giá vàng trong nước giảm từ 200.000 - 400.000 đồng mỗi lượng sau thông tin chính thức xóa bỏ độc quyền vàng miếng, nhập khẩu vàng nguyên liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:05:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138547+07:00"
+    },
+    {
+      "id": "ec7a447d40ab9dcf9a2af820180287f9",
+      "title": "Lâm Đồng: Có nhà dân trong vùng dự án 'sập tới nơi' nhưng không được sửa chữa",
+      "link": "https://thanhnien.vn/lam-dong-co-nha-dan-trong-vung-du-an-sap-toi-noi-nhung-khong-duoc-sua-chua-18525082617285046.htm",
+      "summary": "Chiều 26.8, tại trụ sở UBND tỉnh Lâm Đồng khu vực 2 (UBND tỉnh Bình Thuận cũ), ông Nguyễn Minh, Phó chủ tịch UBND tỉnh Lâm Đồng, chủ trì cuộc họp với các sở ngành, tháo gỡ khó khăn, đẩy nhanh tiến độ các dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:05:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138705+07:00"
+    },
+    {
+      "id": "1be8a2dc76c8e3102ea4c2dc1469c7ad",
+      "title": "'UAV Ukraine' phát nổ trên không phận Estonia",
+      "link": "https://vnexpress.net/uav-ukraine-phat-no-tren-khong-phan-estonia-4931858.html",
+      "summary": "Giới chức Estonia cho biết một UAV của Ukraine bay chệch hướng và phát nổ trên bầu trời nước này, không có thương vong liên quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:03:28+07:00",
+      "fetched": "2025-08-26T21:15:51.835753+07:00"
+    },
+    {
+      "id": "1be8a2dc76c8e3102ea4c2dc1469c7ad",
+      "title": "'UAV Ukraine' phát nổ trên không phận Estonia",
+      "link": "https://vnexpress.net/uav-ukraine-phat-no-tren-khong-phan-estonia-4931858.html",
+      "summary": "Giới chức Estonia cho biết một UAV của Ukraine bay chệch hướng và phát nổ trên bầu trời nước này, không có thương vong liên quan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T13:03:28+07:00",
+      "fetched": "2025-08-26T21:15:57.504561+07:00"
+    },
+    {
+      "id": "c7398b69d731b21cd643ee1ce74f8ef7",
+      "title": "Vietravel Airlines tham gia triển lãm thành tựu đất nước dịp 80 năm Quốc khánh",
+      "link": "https://vnexpress.net/vietravel-airlines-tham-gia-trien-lam-thanh-tuu-dat-nuoc-dip-80-nam-quoc-khanh-4931833.html",
+      "summary": "Vietravel Airlines giới thiệu loạt dịch vụ, trải nghiệm, ứng dụng công nghệ và định hướng phát triển cùng T&T Group tại triển lãm kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:00:00+07:00",
+      "fetched": "2025-08-26T21:15:51.835926+07:00"
+    },
+    {
+      "id": "fdf8c8566658d68e4daf14431978e9a5",
+      "title": "Xem nhanh 20h ngày 26.8: Khu nhà giàu Hà Nội ‘ngập không lối thoát’ | Vì sao bão số 5 siêu dị thường?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-268-khu-nha-giau-ha-noi-ngap-khong-loi-thoat-vi-sao-bao-so-5-sieu-di-thuong-185250826194132201.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 26.8 có nhiều tin tức đáng chú ý về: Dị thường bão số 5: 3 giờ đứng yên, 10 giờ quần thảo đất liền; Hà Nội: 'Khu nhà giàu' ngập 'không lối thoát’;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:00:00+07:00",
+      "fetched": "2025-08-26T21:15:55.138859+07:00"
+    },
+    {
+      "id": "fcac4252d46ea1fa83e8c0517d333c8b",
+      "title": "Biến hóa phong cách thanh lịch và cá tính với áo thun",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bien-hoa-phong-cach-thanh-lich-va-ca-tinh-voi-ao-thun-185250825161248209.htm",
+      "summary": "Áo thun luôn là món đồ thời trang linh hoạt và dễ ứng dụng bậc nhất trong tủ đồ phái đẹp. Chỉ với một chiếc áo thun đơn giản, bạn có thể biến hóa phong cách theo nhiều cách khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:00:00+07:00",
+      "fetched": "2025-08-26T21:15:55.139028+07:00"
+    },
+    {
+      "id": "2ae6548df984ac49bff09887f0ab4169",
+      "title": "Quảng Trị: Va chạm giữa xe máy với ô tô, 1 phụ nữ tử vong",
+      "link": "https://thanhnien.vn/quang-tri-va-cham-giua-xe-may-voi-o-to-1-phu-nu-tu-vong-185250826175222181.htm",
+      "summary": "Vụ tai nạn trên QL1 đoạn đi qua xã Hoàn Lão (Quảng Trị) giữa xe máy và ô tô đã khiến 1 phụ nữ tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T12:58:00+07:00",
+      "fetched": "2025-08-26T21:15:55.139180+07:00"
+    },
+    {
+      "id": "12d66dad3d9e9ac0dccf2f1ca667ceab",
+      "title": "Nhà máy bia Phú Bài tăng công suất lên gấp rưỡi",
+      "link": "https://vnexpress.net/nha-may-bia-phu-bai-tang-cong-suat-len-gap-ruoi-4931848.html",
+      "summary": "Nhà máy bia Phú Bài tăng công suất lên gấp rưỡi sau mở rộng, với tổng vốn đầu tư gần 90 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T12:53:13+07:00",
+      "fetched": "2025-08-26T21:15:51.836091+07:00"
+    },
+    {
+      "id": "12d66dad3d9e9ac0dccf2f1ca667ceab",
+      "title": "Nhà máy bia Phú Bài tăng công suất lên gấp rưỡi",
+      "link": "https://vnexpress.net/nha-may-bia-phu-bai-tang-cong-suat-len-gap-ruoi-4931848.html",
+      "summary": "Nhà máy bia Phú Bài tăng công suất lên gấp rưỡi sau mở rộng, với tổng vốn đầu tư gần 90 triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T12:53:13+07:00",
+      "fetched": "2025-08-26T21:15:59.176454+07:00"
+    },
+    {
+      "id": "8d9478bb35511a216e27a755134d6a7d",
+      "title": "Khán giả đội mưa đến với concert 'Việt Nam trong tôi'",
+      "link": "https://vnexpress.net/khan-gia-doi-mua-den-voi-concert-viet-nam-trong-toi-4931850.html",
+      "summary": "Hàng nghìn khán giả không quản ngại thời tiết, mang theo ô, áo mưa để thưởng thức concert ''Việt Nam trong tôi'', tối 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T12:42:19+07:00",
+      "fetched": "2025-08-26T21:15:51.836245+07:00"
+    },
+    {
+      "id": "fee26fb93027424267cb0eb9be6d75b0",
+      "title": "5% lượng khí thải CO2 toàn cầu đến từ chiếu sáng",
+      "link": "https://vnexpress.net/5-luong-khi-thai-co2-toan-cau-den-tu-chieu-sang-4931845.html",
+      "summary": "5% lượng khí thải CO2 toàn cầu đến từ hoạt động chiếu sáng, cao hơn ngành hàng không (2%).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T12:37:44+07:00",
+      "fetched": "2025-08-26T21:15:59.176610+07:00"
     },
     {
       "id": "2844b6dad27f5c3712d96e45ea917358",
