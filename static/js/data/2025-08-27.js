@@ -1,6 +1,6 @@
 window.newsData_2025_08_27 = {
   "date": "2025-08-27",
-  "lastUpdated": "2025-08-27T03:18:27.771878+07:00",
+  "lastUpdated": "2025-08-27T05:15:28.504150+07:00",
   "articles": [
     {
       "id": "cc0d39acde3c9d9e4d4df174816c766b",
@@ -151,6 +151,96 @@ window.newsData_2025_08_27 = {
       "category": "Tổng hợp",
       "published": "2025-08-27T01:22:58.536350+07:00",
       "fetched": "2025-08-27T01:22:58.536574+07:00"
+    },
+    {
+      "id": "3c874ed122694e89a9c7b79ec5245edc",
+      "title": "Tổng thống Trump nêu lý do kịch bản thượng đỉnh Nga - Ukraine bế tắc",
+      "link": "https://thanhnien.vn/tong-thong-trump-neu-ly-do-kich-ban-thuong-dinh-nga-ukraine-be-tac-185250826203828012.htm",
+      "summary": "Đài Sky News hôm qua (26.8) đưa tin Tổng thống Mỹ Donald Trump cho rằng Tổng thống Nga Vladimir Putin không muốn gặp người đồng cấp Ukraine Volodymyr Zelensky vì những lý do cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T22:00:00+07:00",
+      "fetched": "2025-08-27T05:15:18.238969+07:00"
+    },
+    {
+      "id": "8beda9523cd054f38be3607db0d98f50",
+      "title": "Xu hướng chọn lọc gene để sinh con thông minh ở Thung lũng Silicon",
+      "link": "https://vnexpress.net/xu-huong-chon-loc-gene-de-sinh-con-thong-minh-o-thung-lung-silicon-4926465.html",
+      "summary": "Các giám đốc công nghệ ở Thung lũng Silicon sẵn sàng trả hàng chục nghìn USD để chọn lọc phôi thai được cho là có chỉ số IQ cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T22:00:00+07:00",
+      "fetched": "2025-08-27T05:15:21.257948+07:00"
+    },
+    {
+      "id": "9139168dd5db2becdfde238536dd083e",
+      "title": "Trào lưu hồi sinh 'Internet cũ'",
+      "link": "https://vnexpress.net/trao-luu-hoi-sinh-internet-cu-4931268.html",
+      "summary": "Nhiều startup đang phát triển ứng dụng và mạng xã hội hướng đến sự đơn giản, tích cực, gợi nhớ về không khí Internet của hai thập kỷ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-26T22:00:00+07:00",
+      "fetched": "2025-08-27T05:15:26.624845+07:00"
+    },
+    {
+      "id": "27477910c2b42dfe54f06e2853e7900e",
+      "title": "Chiến sự Ukraine ngày 1.280: Ukraine sắp thất thế UAV, sẽ trang bị tên lửa giá rẻ?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1280-ukraine-sap-that-the-uav-se-trang-bi-ten-lua-gia-re-185250826221238208.htm",
+      "summary": "Giới phân tích cho rằng tốc độ phát triển máy bay không người lái (UAV) của Ukraine có thể không theo kịp Nga, trong khi phương Tây có thể đang cân nhắc cung cấp các tên lửa có chi phí thấp hơn cho Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:30:00+07:00",
+      "fetched": "2025-08-27T05:15:18.239137+07:00"
+    },
+    {
+      "id": "a72c34803558275c1d89d8089bd17f6e",
+      "title": "Bùng phát lừa đảo trực tuyến trước kỳ nghỉ lễ",
+      "link": "https://thanhnien.vn/bung-phat-lua-dao-truc-tuyen-truoc-ky-nghi-le-185250826222147308.htm",
+      "summary": "Lợi dụng kỳ nghỉ lễ đang đến gần, nhiều chiêu trò 'tri ân', chào mừng, khuyến mãi giả mạo xuất hiện liên tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:03:00+07:00",
+      "fetched": "2025-08-27T05:15:18.239295+07:00"
+    },
+    {
+      "id": "393c9dd249217b266afe7c54584df9f0",
+      "title": "Bác sĩ: Người bệnh tiểu đường nên và không nên ăn gì?",
+      "link": "https://thanhnien.vn/bac-si-nguoi-benh-tieu-duong-nen-va-khong-nen-an-gi-185250826185620212.htm",
+      "summary": "Người bệnh tiểu đường nên ăn điều độ, chia 3 bữa chính và 1-2 bữa phụ/ngày, ăn đúng giờ. Kiểm soát lượng carbohydrate 45-60% tổng năng lượng, ưu tiên chất bột đường phức hợp, giàu chất xơ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T21:02:00+07:00",
+      "fetched": "2025-08-27T05:15:18.239447+07:00"
+    },
+    {
+      "id": "f147492f28a87d2d5287c58eb782aaac",
+      "title": "Audi Q3 Sportback thế hệ mới lộ diện",
+      "link": "https://vnexpress.net/audi-q3-sportback-the-he-moi-lo-dien-4931481.html",
+      "summary": "Mẫu gầm cao cỡ nhỏ phong cách coupe thế hệ mới, lựa chọn 4 hệ truyền động, giá 54.300-59.800 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T20:56:00+07:00",
+      "fetched": "2025-08-27T05:15:14.681756+07:00"
+    },
+    {
+      "id": "1bc8eb1d5fad6a06b5ce23c6a429a72a",
+      "title": "Lộ trình nào cho xăng sinh học E10?",
+      "link": "https://thanhnien.vn/lo-trinh-nao-cho-xang-sinh-hoc-e10-185250826230230235.htm",
+      "summary": "Đề xuất từ đầu năm 2026 'khai tử' xăng khoáng, chỉ bán xăng sinh học E10 của Bộ Công thương nhận về nhiều phản hồi không đồng tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T20:52:00+07:00",
+      "fetched": "2025-08-27T05:15:18.239596+07:00"
+    },
+    {
+      "id": "6d135b40edbfae33506f193b39105515",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 27.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2782025-185250826232525074.htm",
+      "summary": "Tin tức Mời bạn Đón đọc: Ấn phẩm đặc biệt chào mừng ngày Quốc khánh Việt Nam 2.9 Cùng vun đắp một Việt Nam hạnh phúc, Căng mình khắc phục hậu quả bão số 5, Tuyển sinh ĐH 2025: Hàng loạt sự cố sau công bố điểm chuẩn… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 27.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T20:48:00+07:00",
+      "fetched": "2025-08-27T05:15:18.239768+07:00"
     },
     {
       "id": "0afe241bc68b1629960aa5e532cb9f9a",
