@@ -1,7 +1,37 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T03:17:58.772139+07:00",
+  "lastUpdated": "2025-08-28T05:15:04.781032+07:00",
   "articles": [
+    {
+      "id": "4cd4e730b9823077e2c93bfd5a49d3ee",
+      "title": "Trúng đấu giá tài sản 'chưa sạch', doanh nghiệp điêu đứng 3 năm",
+      "link": "https://tuoitre.vn/trung-dau-gia-tai-san-chua-sach-doanh-nghiep-dieu-dung-3-nam-20250827223716014.htm",
+      "summary": "Suốt 3 năm qua, một doanh nghiệp mua được tài sản đấu giá lại không sử dụng được, chỉ vì bên trong tài sản bán có tài sản của người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:14:58.269445+07:00",
+      "fetched": "2025-08-28T05:14:58.269567+07:00"
+    },
+    {
+      "id": "22faa37b73cb3adc6ee9183b3c6369bc",
+      "title": "Thời tiết hôm nay 28-8: Mưa to vẫn xảy ra nhiều nơi, đặc biệt Bắc Bộ còn mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-8-mua-to-van-xay-ra-nhieu-noi-dac-biet-bac-bo-con-mua-rat-to-20250827183958752.htm",
+      "summary": "Hôm nay, thời tiết mưa dông vẫn chiếm ưu thế, mưa có giảm so với nhưng ngày trước nhưng vẫn còn tại nhiều nơi với lượng mưa rào đến mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:14:58.269302+07:00",
+      "fetched": "2025-08-28T05:14:58.269432+07:00"
+    },
+    {
+      "id": "cfa831184954f1fc77977fc3f7198066",
+      "title": "Tin tức sáng 28-8: Doanh nghiệp Việt đầu tiên vốn hóa đạt 22 tỉ USD; 5 triệu trẻ em mắc tật khúc xạ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-8-doanh-nghiep-viet-dau-tien-von-hoa-dat-22-ti-usd-5-trieu-tre-em-mac-tat-khuc-xa-20250827222009061.htm",
+      "summary": "Tin tức đáng chú ý: Doanh nghiệp Việt đầu tiên vốn hóa đạt 22 tỉ USD; Có đến 5 triệu trẻ em mắc tật khúc xạ như cận thị, loạn thị, viễn thị và con số vẫn đang tăng; Cảnh báo micro không dây không hợp quy có nguy cơ làm nhiễu tần số vô tuyến điện...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:14:58.269117+07:00",
+      "fetched": "2025-08-28T05:14:58.269287+07:00"
+    },
     {
       "id": "76b0dccd673378cd78d5ba8af1ccae9e",
       "title": "Cận cảnh dàn khí tài 'siêu khủng' trong lễ sơ duyệt cấp nhà nước",
@@ -171,6 +201,206 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T01:22:56.855391+07:00",
       "fetched": "2025-08-28T01:22:56.855602+07:00"
+    },
+    {
+      "id": "2ba62ba20ce514e29e726a0f60ef2d24",
+      "title": "Điểm sáng về giảm nghèo",
+      "link": "https://thanhnien.vn/diem-sang-ve-giam-ngheo-185250827192006756.htm",
+      "summary": "Từ một nước nghèo đói, lạc hậu, bị tàn phá nặng nề bởi chiến tranh, bao vây cấm vận, đến nay Việt Nam được cộng đồng quốc tế ghi nhận là điểm sáng về công tác giảm nghèo và là quốc gia duy nhất ở châu Á thực hiện chương trình giảm nghèo đa chiều, bao trùm, bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:05:00+07:00",
+      "fetched": "2025-08-28T05:14:57.362713+07:00"
+    },
+    {
+      "id": "c4f13f800585288bd438320f2153e325",
+      "title": "Từ xuất thô đến tự chủ công nghệ",
+      "link": "https://thanhnien.vn/tu-xuat-tho-den-tu-chu-cong-nghe-185250828000402077.htm",
+      "summary": "Từ xuất khẩu sản phẩm thô, công nghiệp lạc hậu, thuần túy gia công... giờ đây kinh tế VN đã chuyển sang chiều sâu. Nhiều hàng hóa có hàm lượng giá trị gia tăng cao hay sản phẩm công nghệ \"Make in Vietnam\" được thế giới biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:02:00+07:00",
+      "fetched": "2025-08-28T05:14:57.362887+07:00"
+    },
+    {
+      "id": "84c7ae7a1dfd9322330187a3165b7959",
+      "title": "'Khoán 10' của doanh nghiệp nhà nước, tư nhân",
+      "link": "https://vnexpress.net/khoan-10-cua-doanh-nghiep-nha-nuoc-tu-nhan-4932349.html",
+      "summary": "\"Lúc đó, mình vừa mừng vừa lo\", ông Trương Công Cứ - Chủ tịch Hội đồng quản trị Công ty cổ phần Khử trùng Việt Nam (VFC) kể lại năm 1994, khi     công ty đứng trước ngã rẽ - được chỉ định cổ phần hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.058222+07:00"
+    },
+    {
+      "id": "9a88043c6b6d51fafd975b5b45570bf8",
+      "title": "5 bài tập giúp hạ huyết áp tự nhiên",
+      "link": "https://vnexpress.net/5-bai-tap-giup-ha-huyet-ap-tu-nhien-4932306.html",
+      "summary": "Tư thế yoga đứa trẻ có tác dụng thư giãn, giảm căng thẳng, chạy bộ nhẹ nhàng tăng sức mạnh cho tim, giúp tim bơm máu hiệu quả, giảm huyết áp tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.058409+07:00"
+    },
+    {
+      "id": "6c1d5391a99ff5bb246fccdfd91409cf",
+      "title": "Mẫu tên lửa 'màu hồng' của Ukraine có thể khiến Nga lo ngại",
+      "link": "https://vnexpress.net/mau-ten-lua-mau-hong-cua-ukraine-co-the-khien-nga-lo-ngai-4932013.html",
+      "summary": "Tên lửa Flamingo do Ukraine tự sản xuất có tầm bắn tới 3.000 km, xa hơn các loại vũ khí phương Tây viện trợ và có thể đe dọa thủ đô Moskva của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.058576+07:00"
+    },
+    {
+      "id": "230313b823a7ebded917dafce487bc49",
+      "title": "AI đang chiếm dần công việc cấp thấp",
+      "link": "https://vnexpress.net/ai-dang-chiem-dan-cong-viec-cap-thap-4931885.html",
+      "summary": "Nghiên cứu mới của Đại học Stanford cho thấy AI thực sự có tác động đến công việc cấp thấp, đặc biệt trong lĩnh vực lập trình và dịch vụ khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.058770+07:00"
+    },
+    {
+      "id": "f0255677cb6f908f43dd2d9beaf4e914",
+      "title": "Đôi vợ chồng lính và lời thề chung thủy",
+      "link": "https://thanhnien.vn/doi-vo-chong-linh-va-loi-the-chung-thuy-185250827195152646.htm",
+      "summary": "Trong những ngày cả nước hướng về lễ kỷ niệm 80 năm Cách mạng tháng 8 và Quốc khánh 2.9, có những câu chuyện không chỉ là niềm tự hào dân tộc mà còn là minh chứng cho tình yêu bền chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363047+07:00"
+    },
+    {
+      "id": "6c1d5391a99ff5bb246fccdfd91409cf",
+      "title": "Mẫu tên lửa 'màu hồng' của Ukraine có thể khiến Nga lo ngại",
+      "link": "https://vnexpress.net/mau-ten-lua-mau-hong-cua-ukraine-co-the-khien-nga-lo-ngai-4932013.html",
+      "summary": "Tên lửa Flamingo do Ukraine tự sản xuất có tầm bắn tới 3.000 km, xa hơn các loại vũ khí phương Tây viện trợ và có thể đe dọa thủ đô Moskva của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:14:59.681102+07:00"
+    },
+    {
+      "id": "84c7ae7a1dfd9322330187a3165b7959",
+      "title": "'Khoán 10' của doanh nghiệp nhà nước, tư nhân",
+      "link": "https://vnexpress.net/khoan-10-cua-doanh-nghiep-nha-nuoc-tu-nhan-4932349.html",
+      "summary": "\"Lúc đó, mình vừa mừng vừa lo\", ông Trương Công Cứ - Chủ tịch Hội đồng quản trị Công ty cổ phần Khử trùng Việt Nam (VFC) kể lại năm 1994, khi     công ty đứng trước ngã rẽ - được chỉ định cổ phần hóa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-27T22:00:00+07:00",
+      "fetched": "2025-08-28T05:15:00.752814+07:00"
+    },
+    {
+      "id": "58f60675491fea91d93f3d4526efc317",
+      "title": "Xung đột Gaza bước vào giai đoạn then chốt",
+      "link": "https://thanhnien.vn/xung-dot-gaza-buoc-vao-giai-doan-then-chot-185250827215540416.htm",
+      "summary": "Hôm qua, Đặc phái viên Mỹ về Trung Đông Steve Witkoff cho biết Tổng thống Donald Trump sẽ chủ trì một cuộc họp lớn tại Nhà Trắng trong ngày 27.8 để bàn về \"kế hoạch rất toàn diện\" thời hậu chiến cho Dải Gaza, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:52:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363204+07:00"
+    },
+    {
+      "id": "0e7551ddb22c00945e72ac6a908ba6fb",
+      "title": "Chiến sự Ukraine ngày 1.281: Nga tấn công nhiều tỉnh, khiến 100.000 người mất điện?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1281-nga-tan-cong-nhieu-tinh-khien-100000-nguoi-mat-dien-185250827190520368.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố trong 24 giờ, các nhóm tác chiến của nước này đã khiến quân đội Ukraine tổn thất hơn 2.200 quân, theo Hãng tin TASS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:32:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363358+07:00"
+    },
+    {
+      "id": "4e0cd8b240dcc31116e1a6f1a555958b",
+      "title": "Man Utd bị đội hạng Tư loại khỏi Cup Liên đoàn",
+      "link": "https://vnexpress.net/man-utd-bi-doi-hang-tu-loai-khoi-cup-lien-doan-4932380.html",
+      "summary": "Bị chủ nhà Grimsby Town dẫn hai bàn, Man Utd gỡ hòa 2-2 nhưng thua 11-12 trên loạt đá luân lưu ở vòng hai Cúp Liên đoàn Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:16:20+07:00",
+      "fetched": "2025-08-28T05:14:54.058948+07:00"
+    },
+    {
+      "id": "4e0cd8b240dcc31116e1a6f1a555958b",
+      "title": "Man Utd bị đội hạng Tư loại khỏi Cúp Liên đoàn",
+      "link": "https://vnexpress.net/man-utd-bi-doi-hang-tu-loai-khoi-cup-lien-doan-4932380.html",
+      "summary": "Bị chủ nhà Grimsby Town dẫn hai bàn, Man Utd gỡ hòa 2-2 nhưng thua 11-12 trên loạt đá luân lưu ở vòng hai Cúp Liên đoàn Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-27T21:16:20+07:00",
+      "fetched": "2025-08-28T05:15:04.775947+07:00"
+    },
+    {
+      "id": "16623a930ffd8fbddae804ee01bb187d",
+      "title": "Thói quen ăn nhanh gây nhiều tác hại, bác sĩ chỉ cách ăn đúng",
+      "link": "https://thanhnien.vn/thoi-quen-an-nhanh-gay-nhieu-tac-hai-bac-si-chi-cach-an-dung-185250827234014788.htm",
+      "summary": "Ăn nhanh là hành vi đưa lượng thức ăn lớn vào miệng, nhai qua loa rồi nuốt liên tục trong thời gian ngắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:04:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363512+07:00"
+    },
+    {
+      "id": "c370eb90433c30fd1af26111fc1887b2",
+      "title": "Vàng tăng kỷ lục sau khi xóa bỏ độc quyền",
+      "link": "https://thanhnien.vn/vang-tang-ky-luc-sau-khi-xoa-bo-doc-quyen-185250827203322817.htm",
+      "summary": "Trái với dự đoán rằng vàng sẽ giảm mạnh khi chính thức xóa bỏ độc quyền, kim loại quý sáng 27.8 tăng vọt lên mức kỷ lục mới. Cũng trái với dự đoán, thay vì mang bán, nhiều người ùn ùn kéo nhau đi mua vàng khi giá lên đỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:03:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363665+07:00"
+    },
+    {
+      "id": "e9fae48813abef280695f511709115b4",
+      "title": "Quản lý thuế bằng khuyến khích",
+      "link": "https://thanhnien.vn/quan-ly-thue-bang-khuyen-khich-185250827181531085.htm",
+      "summary": "Bộ Tài chính đang lấy ý kiến về hồ sơ dự án luật Quản lý thuế (sửa đổi). Trong đó, dự luật bổ sung nội dung: 'Khuyến khích người tiêu dùng lấy hóa đơn khi mua hàng hóa, dịch vụ từ nguồn kinh phí được ngân sách nhà nước đảm bảo hằng năm bằng 0,1% trên tổng số tiền thu thuế giá trị gia tăng nội địa củ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:03:00+07:00",
+      "fetched": "2025-08-28T05:14:57.363851+07:00"
+    },
+    {
+      "id": "77b49f6e39afdb5bdde5fabce648fe5c",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2882025-185250828002337723.htm",
+      "summary": "Tin tức Vàng tăng kỷ lục sau khi xóa bỏ độc quyền; Công bằng tuyển sinh đại học; Giải mã 'đòn thế' ngoại giao của tân Tổng thống Hàn Quốc... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:01:00+07:00",
+      "fetched": "2025-08-28T05:14:57.364076+07:00"
+    },
+    {
+      "id": "c689570bd2adaa8d03c5d802c071871a",
+      "title": "Trải nghiệm 'lái xe trên đường Trường Sơn' tại gian trưng bày Bộ Quốc phòng",
+      "link": "https://vnexpress.net/trai-nghiem-lai-xe-tren-duong-truong-son-tai-gian-trung-bay-bo-quoc-phong-4932191.html",
+      "summary": "Tại Triển lãm thành tựu đất nước 80 năm, khách tham quan gian trưng bày Bộ Quốc phòng có thể đeo kính thực tế ảo, nhập vai lính lái “xe không kính” vượt bom đạn trên đường Trường Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.059121+07:00"
+    },
+    {
+      "id": "c99fabc4879c04a42bef03df6058d10f",
+      "title": "Hiệp hội ôtô Việt Nam lo phải ngừng bán 96% ôtô xăng, dầu vào 2030",
+      "link": "https://vnexpress.net/hiep-hoi-oto-viet-nam-lo-phai-ngung-ban-96-oto-xang-dau-vao-2030-4931984.html",
+      "summary": "VAMA nói nhiều ôtô xăng, dầu lẫn hybrid hiện nay có thể khai tử do không đáp ứng mức tiêu hao nhiên liệu trung bình 4,83 lít/100 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:00:00+07:00",
+      "fetched": "2025-08-28T05:14:54.059282+07:00"
+    },
+    {
+      "id": "cacab5e1ddd79f3acb139ceef61f442a",
+      "title": "Đất mua bán giấy tay được cấp sổ hồng",
+      "link": "https://thanhnien.vn/dat-mua-ban-giay-tay-duoc-cap-so-hong-185250827205413126.htm",
+      "summary": "Nhiều trường hợp mua đất giấy tờ tay trước ngày 1.8.2024, ngày luật Đất đai 2024 có hiệu lực sẽ được cấp sổ hồng. Quy định sẽ giúp hàng triệu hộ dân thoát cảnh sống \"bất hợp pháp\" trên mảnh đất của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T21:00:00+07:00",
+      "fetched": "2025-08-28T05:14:57.364234+07:00"
     },
     {
       "id": "3ac9c8f06f533ee4e9aeb8bb0ec319d2",
