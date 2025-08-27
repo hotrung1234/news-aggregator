@@ -1,7 +1,107 @@
 window.newsData_2025_08_27 = {
   "date": "2025-08-27",
-  "lastUpdated": "2025-08-27T21:16:26.393919+07:00",
+  "lastUpdated": "2025-08-27T23:20:33.103996+07:00",
   "articles": [
+    {
+      "id": "876b922f1d87bcc2ba79d45aed44e39a",
+      "title": "ChatGPT bị kiện vì xúi trẻ tự tử",
+      "link": "https://tuoitre.vn/chatgpt-bi-kien-vi-xui-tre-tu-tu-20250827175930883.htm",
+      "summary": "Nhiều phụ huynh bày tỏ lo ngại về những ảnh hưởng khó lường của công cụ trí tuệ nhân tạo với con em mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.861141+07:00",
+      "fetched": "2025-08-27T23:20:24.861252+07:00"
+    },
+    {
+      "id": "e42f580caae0cd6f6860b484054fa209",
+      "title": "Thủ tướng Phạm Minh Chính sẽ dự thượng đỉnh Tổ chức Hợp tác Thượng Hải tại Trung Quốc",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-se-du-thuong-dinh-to-chuc-hop-tac-thuong-hai-tai-trung-quoc-20250827192619359.htm",
+      "summary": "Thủ tướng Phạm Minh Chính sẽ dự Hội nghị thượng đỉnh Tổ chức Hợp tác Thượng Hải (SCO) với tư cách khách mời, và làm việc tại Trung Quốc từ 31-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.861018+07:00",
+      "fetched": "2025-08-27T23:20:24.861130+07:00"
+    },
+    {
+      "id": "7cba1a5e7f1da6d586e01ed4dbbc53f2",
+      "title": "Đại học Bách khoa Hà Nội dành 1.200 chỗ ở miễn phí cho người dân từ xa về dự lễ diễu binh",
+      "link": "https://tuoitre.vn/dai-hoc-bach-khoa-ha-noi-danh-1-200-cho-o-mien-phi-cho-nguoi-dan-tu-xa-ve-du-le-dieu-binh-20250827183743936.htm",
+      "summary": "Đại học Bách khoa Hà Nội dành 1.200 chỗ ở miễn phí tại ký túc xá cho người dân từ các tỉnh thành xa về Hà Nội tham dự lễ diễu binh, diễu hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860891+07:00",
+      "fetched": "2025-08-27T23:20:24.861006+07:00"
+    },
+    {
+      "id": "1af4705a7f4a5806175725668aef48b1",
+      "title": "Gần 4.200 siêu thị Việt ưu đãi lớn mừng Quốc khánh",
+      "link": "https://tuoitre.vn/gan-4-200-sieu-thi-viet-uu-dai-lon-mung-quoc-khanh-20250827173932136.htm",
+      "summary": "Gần 4.200 siêu thị và cửa hàng WinMart/WinMart+ tại 34 tỉnh thành đã khoác “áo mới” với cảm hứng từ màu cờ Tổ quốc và không gian trưng bày theo chủ đề Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860764+07:00",
+      "fetched": "2025-08-27T23:20:24.860879+07:00"
+    },
+    {
+      "id": "a2fa1e0dd9265cfcefb6d8148f2249dd",
+      "title": "Lễ sơ duyệt cấp Nhà nước diễu binh, diễu hành mừng 80 năm Quốc khánh",
+      "link": "https://tuoitre.vn/bat-dau-buoi-so-duyet-cap-nha-nuoc-dieu-binh-dieu-hanh-mung-80-nam-quoc-khanh-20250827185946511.htm",
+      "summary": "Buổi sơ duyệt cấp Nhà nước diễu binh, diễu hành mừng 80 năm Quốc khánh diễn ra tại Quảng trường Ba Đình tối nay 27-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860638+07:00",
+      "fetched": "2025-08-27T23:20:24.860752+07:00"
+    },
+    {
+      "id": "26c085390d5cf560f9fc291f366ddb86",
+      "title": "CLB Nam Định ngược dòng thắng PVF-CAND",
+      "link": "https://tuoitre.vn/clb-nam-dinh-nguoc-dong-thang-pvf-cand-20250827195246746.htm",
+      "summary": "Tối 27-8, CLB Nam Định thắng ngược PVF-CAND với tỉ số 2-1 trong trận đấu vòng 3 V-League 2025 - 2026 trên sân Thiên Trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860507+07:00",
+      "fetched": "2025-08-27T23:20:24.860626+07:00"
+    },
+    {
+      "id": "df9f8e26222e4dde858b9372b519b0d4",
+      "title": "Techcombank nhận bằng khen của Thủ tướng",
+      "link": "https://tuoitre.vn/techcombank-nhan-bang-khen-cua-thu-tuong-20250827201726729.htm",
+      "summary": "Techcombank đã vinh dự được Thủ tướng Chính phủ trao bằng khen ghi nhận những đóng góp nổi bật trong lĩnh vực an sinh xã hội và phát triển cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860356+07:00",
+      "fetched": "2025-08-27T23:20:24.860494+07:00"
+    },
+    {
+      "id": "06111d9ed68b953a80d7d9f222f3baed",
+      "title": "Trung Quốc tuyên bố không tham gia đàm phán giải trừ hạt nhân với Mỹ, Nga",
+      "link": "https://tuoitre.vn/trung-quoc-tuyen-bo-khong-tham-gia-dam-phan-giai-tru-hat-nhan-voi-my-nga-20250827195731884.htm",
+      "summary": "Trung Quốc tuyên bố sẽ không tham gia vào các cuộc đàm phán giải trừ hạt nhân với Mỹ và Nga, sau khi ông Trump bày tỏ hy vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860221+07:00",
+      "fetched": "2025-08-27T23:20:24.860343+07:00"
+    },
+    {
+      "id": "c74de66c958addbc25cac2eb9c2b450b",
+      "title": "Hoàng Đức chưa ghi bàn, Ninh Bình đã lên đỉnh V-League",
+      "link": "https://tuoitre.vn/hoang-duc-chua-ghi-ban-ninh-binh-da-len-dinh-v-league-20250827203650166.htm",
+      "summary": "CLB Ninh Bình thắng ngược 3-1 trên sân CLB Đà Nẵng ở vòng 3 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.860080+07:00",
+      "fetched": "2025-08-27T23:20:24.860208+07:00"
+    },
+    {
+      "id": "896d3cf0f9b7a4f331b27ee32e6b3707",
+      "title": "CLB Hồng Lĩnh Hà Tĩnh chiến thắng trong trận đấu bị tạm hoãn đến 24 phút",
+      "link": "https://tuoitre.vn/clb-hong-linh-ha-tinh-chien-thang-trong-tran-dau-bi-tam-hoan-den-24-phut-20250827205651357.htm",
+      "summary": "CLB Hồng Lĩnh Hà Tĩnh thắng Thanh Hóa 1-0 trong trận đấu bị tạm hoãn đến 24 phút vì sự cố mất điện, ở vòng 3 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T23:20:24.859850+07:00",
+      "fetched": "2025-08-27T23:20:24.860065+07:00"
+    },
     {
       "id": "41e0efb7635785123a1144093c846148",
       "title": "Giao thông qua khu cầu Bình Triệu 1 ổn định, ứng dụng cảnh báo liên tục cho người dân",
@@ -333,6 +433,46 @@ window.newsData_2025_08_27 = {
       "fetched": "2025-08-27T17:16:54.897909+07:00"
     },
     {
+      "id": "4b582b032996d82493d14811ec9910aa",
+      "title": "Xe tăng, pháo binh, UAV đồng loạt 'tiến bước' trong lễ sơ duyệt diễu binh A80",
+      "link": "https://thanhnien.vn/xe-tang-phao-binh-uav-dong-loat-tien-buoc-trong-le-so-duyet-dieu-binh-a80-185250827230356984.htm",
+      "summary": "Trên tuyến đường diễu binh đêm sơ duyệt 27.8, từng đoàn xe tăng, pháo binh, xe chở khí tài cùng UAV hiện đại của quân đội Việt Nam nối tiếp tiến qua trong khí thế hùng tráng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T16:03:00+07:00",
+      "fetched": "2025-08-27T23:20:23.299870+07:00"
+    },
+    {
+      "id": "dd27375ff88d0ee64650cc0d76366747",
+      "title": "Bí thư T.Ư Đoàn Nguyễn Phạm Duy Trang thăm các tình nguyện viên phục vụ A80",
+      "link": "https://thanhnien.vn/bi-thu-tu-doan-nguyen-pham-duy-trang-tham-cac-tinh-nguyen-vien-phuc-vu-a80-185250827222948529.htm",
+      "summary": "Tại buổi thăm các tình nguyện viên phục vụ A80, Bí thư T.Ư Đoàn Nguyễn Phạm Duy Trang dặn dò các bạn tình nguyện viên cần quan sát kỹ lưỡng để nhận biết và hỗ trợ những người cần giúp đỡ, đặc biệt là người lớn tuổi và trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:43:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300037+07:00"
+    },
+    {
+      "id": "1352a3b44c3b6d746dd21f179c0b93d1",
+      "title": "Hình ảnh hàng ngàn ngôi nhà ở Thanh Hóa ngập trong nước lũ",
+      "link": "https://thanhnien.vn/hinh-anh-hang-ngan-ngoi-nha-o-thanh-hoa-ngap-trong-nuoc-lu-185250827221406124.htm",
+      "summary": "Tính đến chiều tối 27.8, trên địa bàn tỉnh Thanh Hóa đang có 3.333 ngôi nhà bị ngập lụt do nước các sông lớn dâng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:41:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300194+07:00"
+    },
+    {
+      "id": "6e75ce8af522d3fd86c02299a53a7617",
+      "title": "Cùng nàng đón thu với gam nâu thanh lịch, không lỗi mốt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cung-nang-don-thu-voi-gam-nau-thanh-lich-khong-loi-mot-18525082717501834.htm",
+      "summary": "Khi xu hướng tối giản lên ngôi, tông nâu - vốn được mệnh danh là gam màu không bao giờ lỗi mốt lại trở thành lựa chọn của các tín đồ thời trang sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:39:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300346+07:00"
+    },
+    {
       "id": "9e2f7d18db68ade40bbdb81f7946bc95",
       "title": "Có được thưởng 2-9 như Tết dương lịch, Tết âm lịch không?",
       "link": "https://tuoitre.vn/co-duoc-thuong-2-9-nhu-tet-duong-lich-tet-am-lich-khong-20250827111755069.htm",
@@ -483,6 +623,116 @@ window.newsData_2025_08_27 = {
       "fetched": "2025-08-27T15:21:26.349813+07:00"
     },
     {
+      "id": "2df8012a61c98548d22a84f3339cddc5",
+      "title": "'Bứt phá để hiện thực hóa khát vọng hùng cường'",
+      "link": "https://vnexpress.net/but-pha-de-hien-thuc-hoa-khat-vong-hung-cuong-4932329.html",
+      "summary": "Tổng Bí thư Tô Lâm cho rằng quỹ thời gian hướng tới mục tiêu 100 năm thành lập Đảng không còn nhiều, đất nước phải bứt phá nếu không sẽ tụt hậu, bỏ lỡ cơ hội lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:19:50+07:00",
+      "fetched": "2025-08-27T23:20:19.899326+07:00"
+    },
+    {
+      "id": "011bcd4b7dcbd1f20b5877fa5e7202c3",
+      "title": "2 năm Travis Kelce theo đuổi Taylor Swift",
+      "link": "https://vnexpress.net/2-nam-travis-kelce-theo-duoi-taylor-swift-4932032.html",
+      "summary": "Taylor Swift nói được cầu thủ Travis Kelce theo đuổi \"dữ dội\" suốt hai năm, trước khi cô nhận lời cầu hôn của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:13:54+07:00",
+      "fetched": "2025-08-27T23:20:19.899524+07:00"
+    },
+    {
+      "id": "f1598c58cbd16b9ab23ef440596d9b74",
+      "title": "Cần Thơ: Triển khai hệ thống tự động xử lý 9.000 - 10.000 lượt xét nghiệm/ngày",
+      "link": "https://thanhnien.vn/can-tho-trien-khai-he-thong-tu-dong-xu-ly-9000-10000-luot-xet-nghiem-ngay-185250827185216515.htm",
+      "summary": "Với 9.000 - 10.000 lượt xét nghiệm các loại mỗi ngày, việc đưa vào vận hành hệ thống tự động hóa xét nghiệm tại Bệnh viện đa khoa Trung ương Cần Thơ sẽ giúp giảm tải áp lực cho nhân viên y tế, đồng thời mang lại nhiều lợi ích thiết thực cho người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:08:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300520+07:00"
+    },
+    {
+      "id": "05a4976e0475ea67bba83acef30bb500",
+      "title": "Highlight Nam Định 2-1 PVF-CAND: Nhà vô địch trở lại là chính mình",
+      "link": "https://thanhnien.vn/highlight-nam-dinh-2-1-pvf-cand-nha-vo-dich-tro-lai-la-chinh-minh-185250827220554547.htm",
+      "summary": "Dù bị dẫn trước bởi pha xử lý tinh tế của Thanh Nhàn, CLB Nam Định đã chứng tỏ bản lĩnh khi lội ngược dòng, giành chiến thắng 2-1 trước CLB PVF-CAND trong trận đấu thuộc vòng 3 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:05:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300675+07:00"
+    },
+    {
+      "id": "b3a0eb0c14ca131bf17463567892aca0",
+      "title": "Highlight Đà Nẵng 1-3 Ninh Bình: Tân binh vững trên đỉnh",
+      "link": "https://thanhnien.vn/highlight-da-nang-1-3-ninh-binh-tan-binh-vung-tren-dinh-185250827220424861.htm",
+      "summary": "Tân binh Ninh Bình tiếp tục gây chú ý với chiến thắng ấn tượng, khi lội ngược dòng ngay trên sân Hòa Xuân để đánh bại CLB Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:04:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300824+07:00"
+    },
+    {
+      "id": "4d466f65511187a7464294c1ff7f3095",
+      "title": "Highlight Hà Tĩnh 1-0 Thanh Hóa: Chủ nhà lấy trọn 3 điểm trong trận cầu mất điện gián đoạn",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-0-thanh-hoa-chu-nha-lay-tron-3-diem-trong-tran-cau-mat-dien-gian-doan-185250827220400296.htm",
+      "summary": "CLB Hà Tĩnh đã có chiến thắng 1-0 thứ hai liên tiếp, lần này là trước CLB Thanh Hóa, qua đó chen chân vào tốp 4. Trong khi đó, CLB Thanh Hóa vẫn gặp khó khăn trong việc định hình lối chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:03:00+07:00",
+      "fetched": "2025-08-27T23:20:23.300975+07:00"
+    },
+    {
+      "id": "f777f7d374c077360ff2551b9c05497f",
+      "title": "Highlight Hải Phòng 2-0 SLNA: Ngoại binh tỏa sáng, đội bóng đất cảng bay cao",
+      "link": "https://thanhnien.vn/highlight-hai-phong-2-0-slna-ngoai-binh-toa-sang-doi-bong-dat-cang-bay-cao-185250827220154528.htm",
+      "summary": "Mặc dù có phong độ cao sau chiến thắng trước CLB Nam Định ở vòng đấu trước, SLNA không thể duy trì đà thăng hoa khi để thua CLB Hải Phòng 0-2 trên sân Lạch Tray vào tối 27.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T15:01:00+07:00",
+      "fetched": "2025-08-27T23:20:23.301124+07:00"
+    },
+    {
+      "id": "ca4a68918b6900193668d77f469efa72",
+      "title": "Khách Tây hòa cùng sự cuồng nhiệt của người Việt xem diễu binh",
+      "link": "https://vnexpress.net/khach-tay-hoa-cung-su-cuong-nhiet-cua-nguoi-viet-xem-dieu-binh-4932332.html",
+      "summary": "Nhiều khách nước ngoài hòa vào dòng người đông kín trên các tuyến phố trung tâm, mang theo cờ cổ vũ và chào đón các đoàn diễu binh đi qua, tối 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:54:00+07:00",
+      "fetched": "2025-08-27T23:20:19.899692+07:00"
+    },
+    {
+      "id": "23e38b5a6158ed639c7b81d4b7a2b953",
+      "title": "Thứ trưởng Giáo dục: Phấn đấu đưa Tiếng Anh thành môn bắt buộc từ lớp 1",
+      "link": "https://vnexpress.net/thu-truong-giao-duc-phan-dau-dua-tieng-anh-thanh-mon-bat-buoc-tu-lop-1-4932158.html",
+      "summary": "Ngành giáo dục sẽ cố gắng đưa tiếng Anh trở thành môn học bắt buộc từ lớp 1 khi đủ cơ sở vật chất, đội ngũ giáo viên, theo Thứ trưởng Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:51:27+07:00",
+      "fetched": "2025-08-27T23:20:19.899859+07:00"
+    },
+    {
+      "id": "f58a55fd35b20b02c8941a972ca7618a",
+      "title": "Bị hàng chắn Kenya khắc chế, HLV Tuấn Kiệt tiếc nuối: ‘Toàn đội đã không là chính mình’",
+      "link": "https://thanhnien.vn/bi-hang-chan-kenya-khac-che-hlv-tuan-kiet-tiec-nuoi-toan-doi-da-khong-la-chinh-minh-185250827212730315.htm",
+      "summary": "Bị hàng chắn Kenya khắc chế trong cả ba set, đội tuyển bóng chuyền nữ Việt Nam khép lại hành trình lần đầu dự giải vô địch bóng chuyền nữ thế giới 2025 với nhiều tiếc nuối nhưng cũng để lại dấu ấn bằng nỗ lực kiên cường và tinh thần thi đấu quả cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:27:00+07:00",
+      "fetched": "2025-08-27T23:20:23.301272+07:00"
+    },
+    {
+      "id": "5b5885e53b443d94059f642ae22d0a38",
+      "title": "Xóa độc quyền, vì sao giá vàng vẫn lập đỉnh?",
+      "link": "https://thanhnien.vn/xoa-doc-quyen-vi-sao-gia-vang-van-lap-dinh-185250827205441386.htm",
+      "summary": "Bất chấp thông tin xóa độc quyền, giá vàng miếng SJC vẫn tiếp tục lập đỉnh. Ngoài tác động từ đà tăng của giá vàng thế giới, nhiều chuyên gia cho rằng, chính sách mới chưa thể tác động ngay trong 'ngày một, ngày hai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:24:00+07:00",
+      "fetched": "2025-08-27T23:20:23.301421+07:00"
+    },
+    {
       "id": "9289103f2bb8637eb464c3a9af6f395e",
       "title": "Pharmacity chăm sóc sức khỏe 'khối nhân dân' dịp Đại lễ",
       "link": "https://thanhnien.vn/pharmacity-cham-soc-suc-khoe-khoi-nhan-dan-dip-dai-le-185250827211224868.htm",
@@ -491,6 +741,26 @@ window.newsData_2025_08_27 = {
       "category": "Tổng hợp",
       "published": "2025-08-27T14:15:00+07:00",
       "fetched": "2025-08-27T21:16:16.066848+07:00"
+    },
+    {
+      "id": "a27c6770a798eb034f85388d5d610a62",
+      "title": "Tham vấn kỹ sư suốt 50 phút, phi công không cứu được F-35",
+      "link": "https://vnexpress.net/tham-van-ky-su-suot-50-phut-phi-cong-khong-cuu-duoc-f-35-4932328.html",
+      "summary": "Phi công F-35 đã trao đổi suốt 50 phút với các kỹ sư Lockheed Martin để giải quyết sự cố càng đáp nhưng bất thành, khiến tiêm kích rơi ở Alaska hồi tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:07:12+07:00",
+      "fetched": "2025-08-27T23:20:19.900024+07:00"
+    },
+    {
+      "id": "a27c6770a798eb034f85388d5d610a62",
+      "title": "Tham vấn kỹ sư suốt 50 phút, phi công không cứu được F-35",
+      "link": "https://vnexpress.net/tham-van-ky-su-suot-50-phut-phi-cong-khong-cuu-duoc-f-35-4932328.html",
+      "summary": "Phi công F-35 đã trao đổi suốt 50 phút với các kỹ sư Lockheed Martin để giải quyết sự cố càng đáp nhưng bất thành, khiến tiêm kích rơi ở Alaska hồi tháng 1.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-27T14:07:12+07:00",
+      "fetched": "2025-08-27T23:20:26.984557+07:00"
     },
     {
       "id": "9a4bc94a18d07b4f402e8856f11c248d",
@@ -503,6 +773,26 @@ window.newsData_2025_08_27 = {
       "fetched": "2025-08-27T21:16:16.067036+07:00"
     },
     {
+      "id": "4832fc1740487fe2a172490518f1f38c",
+      "title": "Chồng đi tối ngày, tuần chỉ ăn cơm ở nhà một buổi tối",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-di-toi-ngay-tuan-chi-an-com-o-nha-mot-buoi-toi-4932227.html",
+      "summary": "Hiện nay công việc của anh rất bận, khối lượng công việc lớn hơn nhiều lần, lương không nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:00:00+07:00",
+      "fetched": "2025-08-27T23:20:19.900179+07:00"
+    },
+    {
+      "id": "b67a495f5a2274b674d8f72537b5a283",
+      "title": "SOF đưa 4 kỳ thi Olympic quốc tế về Việt Nam",
+      "link": "https://vnexpress.net/sof-dua-4-ky-thi-olympic-quoc-te-ve-viet-nam-4932264.html",
+      "summary": "SOF đưa 4 kỳ thi Olympic quốc tế gồm Toán, Tiếng Anh, Khoa học máy tính, Thương mại về Việt Nam, mở cơ hội tranh tài toàn cầu cho học sinh từ lớp 1 đến 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T14:00:00+07:00",
+      "fetched": "2025-08-27T23:20:19.900343+07:00"
+    },
+    {
       "id": "d22fc83a98cf54a3a8cf84dc119d400c",
       "title": "Ukraine lần đầu thừa nhận Nga đã tiến vào Dnipropetrovsk",
       "link": "https://thanhnien.vn/ukraine-thua-nhan-nga-da-tien-vao-dnipropetrovsk-18525082719554446.htm",
@@ -513,6 +803,26 @@ window.newsData_2025_08_27 = {
       "fetched": "2025-08-27T21:16:16.067198+07:00"
     },
     {
+      "id": "99c90b93fce8a27749c58b8e4ec2d90b",
+      "title": "Nhà gái nổ súng mừng đám cưới, chú rể thiệt mạng",
+      "link": "https://vnexpress.net/nha-gai-no-sung-mung-dam-cuoi-chu-re-thiet-mang-4932336.html",
+      "summary": "Một phụ nữ bên nhà gái đã bắn súng lục để mừng đám cưới, khiến chú rể trúng đạn và tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:41:54+07:00",
+      "fetched": "2025-08-27T23:20:19.900521+07:00"
+    },
+    {
+      "id": "99c90b93fce8a27749c58b8e4ec2d90b",
+      "title": "Nhà gái nổ súng mừng đám cưới, chú rể thiệt mạng",
+      "link": "https://vnexpress.net/nha-gai-no-sung-mung-dam-cuoi-chu-re-thiet-mang-4932336.html",
+      "summary": "Một phụ nữ bên nhà gái đã bắn súng lục để mừng đám cưới, khiến chú rể trúng đạn và tử vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-27T13:41:54+07:00",
+      "fetched": "2025-08-27T23:20:26.984731+07:00"
+    },
+    {
       "id": "794e964e0b8193a0b6e1136c48d7fa00",
       "title": "Bảng xếp hạng V-League mới nhất: Tân binh Ninh Bình gây bất ngờ lớn, Thanh Hóa vẫn chìm dưới đáy",
       "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-tan-binh-ninh-binh-gay-bat-ngo-lon-thanh-hoa-van-chim-duoi-day-185250827203647929.htm",
@@ -521,6 +831,16 @@ window.newsData_2025_08_27 = {
       "category": "Tổng hợp",
       "published": "2025-08-27T13:39:00+07:00",
       "fetched": "2025-08-27T21:16:16.067355+07:00"
+    },
+    {
+      "id": "8b87a5c19192476506cc785de6535a37",
+      "title": "'Kpop Demon Hunters' ăn khách nhất Netflix",
+      "link": "https://vnexpress.net/kpop-demon-hunters-an-khach-nhat-netflix-4931957.html",
+      "summary": "Hoạt hình \"Kpop Demon Hunters\" vượt \"Red Notice\" trở thành phim tiếng Anh ăn khách nhất Netflix toàn cầu với 236 triệu lượt xem.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:38:41+07:00",
+      "fetched": "2025-08-27T23:20:19.900689+07:00"
     },
     {
       "id": "4f3b1fb27d8b6c9e982166133738066f",
