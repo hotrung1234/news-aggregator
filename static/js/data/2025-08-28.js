@@ -1,7 +1,157 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T21:16:38.815928+07:00",
+  "lastUpdated": "2025-08-28T23:20:35.080678+07:00",
   "articles": [
+    {
+      "id": "22b220bfb6cf1a0ce66531442add2d67",
+      "title": "Thống đốc California cảnh báo ông Trump nghiêm túc tính chuyện tái tranh cử",
+      "link": "https://tuoitre.vn/thong-doc-california-canh-bao-ong-trump-nghiem-tuc-tinh-chuyen-tai-tranh-cu-20250828205956709.htm",
+      "summary": "Ông Newsom cảnh báo ông Trump có thể tìm cách \"lách\" giới hạn hai nhiệm kỳ theo Hiến pháp, khi liên tục ám chỉ việc tái tranh cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561753+07:00",
+      "fetched": "2025-08-28T23:20:26.561883+07:00"
+    },
+    {
+      "id": "bfef5cc829374ea6e70cf8f17a0355ad",
+      "title": "Techcombank ghi dấu ấn tại 'Triển lãm thành tựu đất nước'",
+      "link": "https://tuoitre.vn/techcombank-ghi-dau-an-tai-trien-lam-thanh-tuu-dat-nuoc-20250828210711842.htm",
+      "summary": "Techcombank là một trong những ngân hàng tiêu biểu được lựa chọn đồng hành cùng Ngân hàng Nhà nước, mang đến triển lãm những sáng kiến và giải pháp tài chính độc đáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561626+07:00",
+      "fetched": "2025-08-28T23:20:26.561738+07:00"
+    },
+    {
+      "id": "8ef4f8de951c9031caf05f07e9125884",
+      "title": "Thua thảm Công An Hà Nội, 3 trận liền CLB Hà Nội không biết mùi chiến thắng",
+      "link": "https://tuoitre.vn/thua-tham-cong-an-ha-noi-3-tran-lien-clb-ha-noi-khong-biet-mui-chien-thang-20250828212810043.htm",
+      "summary": "Tối 28-8, CLB Hà Nội nhận thất bại thê thảm 2-4 trước Công An Hà Nội trên sân Hàng Đẫy thuộc vòng 3 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561504+07:00",
+      "fetched": "2025-08-28T23:20:26.561615+07:00"
+    },
+    {
+      "id": "c530243c06738a5d10d167e8432fcb18",
+      "title": "Nồng độ cồn vượt ngưỡng kịch khung, nam thanh niên tông ngã cảnh sát bảo vệ chốt A80",
+      "link": "https://tuoitre.vn/nong-do-con-vuot-nguong-kich-khung-nam-thanh-nien-tong-nga-canh-sat-bao-ve-chot-a80-20250828213941738.htm",
+      "summary": "Cán bộ công an phường đã ra tín hiệu dừng xe nhưng tài xế không chấp hành, tăng ga lao vào một cán bộ đang làm nhiệm vụ bảo vệ lễ sơ duyệt A80. Mức nồng độ cồn của người này là 0,572mg/l khí thở - gấp hơn 1,4 lần mức kịch khung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561380+07:00",
+      "fetched": "2025-08-28T23:20:26.561493+07:00"
+    },
+    {
+      "id": "f4ef9656fe9e55bbbf6c6f3c2b44ff6c",
+      "title": "Thí sinh xuất sắc cuộc thi 'Tự hào Việt Nam' được tặng thưởng chuyến đi Trường Sa",
+      "link": "https://tuoitre.vn/thi-sinh-xuat-sac-cuoc-thi-tu-hao-viet-nam-duoc-tang-thuong-chuyen-di-truong-sa-2025082821262074.htm",
+      "summary": "Thí sinh Nguyễn Quang Tuyến - Ban Thanh niên Công an tỉnh Đồng Tháp - được thưởng một chuyến đi Trường Sa vì đạt thành tích xuất sắc nhất cuộc thi \"Tự hào Việt Nam\", vòng trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561255+07:00",
+      "fetched": "2025-08-28T23:20:26.561369+07:00"
+    },
+    {
+      "id": "e241d6179a9d99762af33720ea7578a6",
+      "title": "Video ngoại binh Alan lập hat-trick đẳng cấp, nhấn chìm CLB Hà Nội",
+      "link": "https://tuoitre.vn/video-ngoai-binh-alan-lap-hat-trick-dang-cap-nhan-chim-clb-ha-noi-20250828220138196.htm",
+      "summary": "Ngoại binh Alan Sebastiao của CLB Công An Hà Nội có ngày thi đấu bùng nổ giúp đội nhà đánh bại CLB Hà Nội 4-2 trên sân Hàng Đẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.561127+07:00",
+      "fetched": "2025-08-28T23:20:26.561244+07:00"
+    },
+    {
+      "id": "b9a4146532c6f33ef015b325a1b2385b",
+      "title": "ESG trở thành trụ cột trong chiến lược kinh doanh của các tập đoàn lớn",
+      "link": "https://tuoitre.vn/esg-tro-thanh-tru-cot-trong-chien-luoc-kinh-doanh-cua-cac-tap-doan-lon-2025082821400233.htm",
+      "summary": "Trên toàn cầu, ESG đã vượt khỏi phạm vi xu hướng để trở thành trụ cột trong chiến lược kinh doanh của các tập đoàn lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560996+07:00",
+      "fetched": "2025-08-28T23:20:26.561116+07:00"
+    },
+    {
+      "id": "eb764f0bd0cce31231479ce17ee0115c",
+      "title": "Khu trưng bày của TP.HCM ‘hút’ khách tại triển lãm 80 năm thành tựu đất nước",
+      "link": "https://tuoitre.vn/nguoi-dan-thich-thu-trai-nghiem-khu-trung-bay-cua-tp-hcm-tai-trien-lam-thanh-tuu-dat-nuoc-20250828213403261.htm",
+      "summary": "Ngày 28-8, nhiều người dân đã xếp hàng, hào hứng, thích thú trải nghiệm khu trưng bày của TP.HCM tại Triển lãm thành tựu đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560849+07:00",
+      "fetched": "2025-08-28T23:20:26.560984+07:00"
+    },
+    {
+      "id": "dc6f9a246a66a11be92a07a391d94368",
+      "title": "Video Tiến Linh bỏ lỡ khó tin khiến HLV Huỳnh Đức chỉ biết 'ôm đầu'",
+      "link": "https://tuoitre.vn/video-tien-linh-bo-lo-kho-tin-khien-hlv-huynh-duc-chi-biet-om-dau-20250828222459595.htm",
+      "summary": "Tiền đạo Nguyễn Tiến Linh có tình huống bỏ lỡ cơ hội ghi bàn khó tin trong chiến thắng 1-0 trước Hoàng Anh Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560715+07:00",
+      "fetched": "2025-08-28T23:20:26.560837+07:00"
+    },
+    {
+      "id": "4841075402d88b64eb2679d49d07da53",
+      "title": "Công an Quảng Ngãi hỏa tốc triển khai phương án tặng quà cho người dân dịp Quốc khánh",
+      "link": "https://tuoitre.vn/cong-an-quang-ngai-hoa-toc-trien-khai-phuong-an-tang-qua-cho-nguoi-dan-dip-quoc-khanh-20250828220121113.htm",
+      "summary": "Ngày 28-8, Công an tỉnh Quảng Ngãi ban hành văn bản hỏa tốc về việc triển khai phương án, quy trình tặng quà cho người dân nhân dịp lễ Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560573+07:00",
+      "fetched": "2025-08-28T23:20:26.560703+07:00"
+    },
+    {
+      "id": "6d7f45761785c31042eb29582b9e3828",
+      "title": "Thống đốc Fed chính thức đâm đơn kiện Tổng thống Trump để giữ ghế",
+      "link": "https://tuoitre.vn/thong-doc-fed-chinh-thuc-dam-don-kien-tong-thong-trump-de-giu-ghe-20250828222051554.htm",
+      "summary": "Vụ kiện có thể mở ra cuộc chiến pháp lý làm thay đổi chuẩn mực lâu đời về tính độc lập của Ngân hàng Trung ương Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560442+07:00",
+      "fetched": "2025-08-28T23:20:26.560561+07:00"
+    },
+    {
+      "id": "427554bd0d81aad0007efd1c8d08f2ee",
+      "title": "HLV Lê Huỳnh Đức: Đội bỏ lỡ nhiều cơ hội, may mà thắng",
+      "link": "https://tuoitre.vn/hlv-le-huynh-duc-doi-bo-lo-nhieu-co-hoi-may-ma-thang-20250828221638537.htm",
+      "summary": "Phát biểu sau trận CLB Công An TP.HCM thắng Hoàng Anh Gia Lai 1-0, HLV Lê Huỳnh Đức nhận xét hôm nay đội chơi có nét, nhiều cơ hội nhưng bỏ lỡ nhiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560313+07:00",
+      "fetched": "2025-08-28T23:20:26.560431+07:00"
+    },
+    {
+      "id": "4a873ae09f2ae2fc6caf8dcaba5fec6e",
+      "title": "HLV Makoto Teguramori chưa từ chức sau trận Hà Nội thua thảm Công An Hà Nội",
+      "link": "https://tuoitre.vn/hlv-makoto-teguramori-chua-tu-chuc-sau-tran-ha-noi-thua-tham-cong-an-ha-noi-20250828220753751.htm",
+      "summary": "Phát biểu sau trận thua 2-4 trước Công An Hà Nội tối 28-8, HLV trưởng CLB Hà Nội ông Makoto Teguramori nói sẽ để lãnh đạo quyết định tương lai của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560180+07:00",
+      "fetched": "2025-08-28T23:20:26.560301+07:00"
+    },
+    {
+      "id": "04f6166ba9dc7af589c3dd2751aab88e",
+      "title": "Quảng Ngãi yêu cầu giám đốc sở chấn chỉnh việc cử cán bộ dự họp",
+      "link": "https://tuoitre.vn/quang-ngai-yeu-cau-giam-doc-so-chan-chinh-viec-cu-can-bo-du-hop-20250828222603976.htm",
+      "summary": "UBND tỉnh Quảng Ngãi vừa yêu cầu ông Hồ Trọng Phương, giám đốc Sở Nông nghiệp và Môi trường, nghiêm túc rút kinh nghiệm, chấn chỉnh việc cử cán bộ dự họp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.560033+07:00",
+      "fetched": "2025-08-28T23:20:26.560167+07:00"
+    },
+    {
+      "id": "bcb44b51113cb2c56ef6637522b0a62d",
+      "title": "Người dân nhận quà 100.000 đồng dịp Quốc khánh qua những kênh nào?",
+      "link": "https://tuoitre.vn/nguoi-dan-nhan-qua-100-000-dong-dip-quoc-khanh-qua-nhung-kenh-nao-20250828223009891.htm",
+      "summary": "Toàn bộ công dân có quốc tịch Việt Nam đăng ký tại Trung tâm dữ liệu quốc gia về dân cư sẽ được tặng quà 100.000 đồng dịp Quốc khánh, dự kiến nhận qua VNeID, chuyển khoản ngân hàng hoặc tiền mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:26.559794+07:00",
+      "fetched": "2025-08-28T23:20:26.560017+07:00"
+    },
     {
       "id": "4d9073537fc8cec937e394965759d2d2",
       "title": "Đồng Nai mở điểm hiến máu cố định đầu tiên cả nước",
@@ -453,6 +603,96 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T17:17:20.370683+07:00"
     },
     {
+      "id": "11f0b04bdb95d735d29ee89ea75ba0d2",
+      "title": "Highlight CLB Công an TP.HCM 1-0 HAGL: Tiến sát tốp đầu BXH",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-1-0-hagl-can-ke-top-dau-bxh-185250828225445213.htm",
+      "summary": "Dù thủ thành Trần Trung Kiên vẫn thể hiện phong độ xuất sắc tối 28.8, nhưng anh không thể cứu HAGL khỏi thất bại 0-1 trước CLB Công an TP.HCM trong trận đấu vòng 3 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:54:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680144+07:00"
+    },
+    {
+      "id": "9eb8b7ccb4a99dfff1d8825f240ead22",
+      "title": "VNeID quá tải vì người dân truy cập 'an sinh xã hội' chờ nhận quà Quốc khánh 100.000 đồng",
+      "link": "https://thanhnien.vn/vneid-qua-tai-vi-nguoi-dan-truy-cap-an-sinh-xa-hoi-cho-nhan-qua-quoc-khanh-100000-dong-185250828220431128.htm",
+      "summary": "Nhiều người dân cho biết gặp khó khăn khi kết nối tài khoản ngân hàng với tài khoản an sinh xã hội trên VNeID tối nay 28.8, sau khi Chính phủ chính thức công bố tặng 100.000 đồng mỗi người dân để ăn tết Độc lập 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:54:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680327+07:00"
+    },
+    {
+      "id": "89289e3a130edb2ea5036c0d7ad16324",
+      "title": "Highlight CLB Công an Hà Nội 4-2 CLB Hà Nội: Mưa bàn thắng trận derby",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-ha-noi-4-2-clb-ha-noi-mua-ban-thang-tran-derby-185250828225307131.htm",
+      "summary": "CLB Hà Nội đã phải nhận thất bại đậm 2-4 trước CLB CAHN trong trận đấu thuộc vòng 3 V-League (19 giờ 15 ngày 28.8), khiến đội bóng này bị đẩy xuống nhóm cuối bảng với chỉ 1 điểm sau 3 trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:53:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680491+07:00"
+    },
+    {
+      "id": "a710400c626e199c076123b834b5f6b4",
+      "title": "Nhiều cảnh sát xuất hiện tại nhà 'bầu' Đoan",
+      "link": "https://thanhnien.vn/nhieu-canh-sat-xuat-hien-tai-nha-bau-doan-185250828221041693.htm",
+      "summary": "Nhiều cảnh sát xuất hiện ở khu nhà riêng và trụ sở công ty của ông Cao Tiến Đoan, Tổng giám đốc Công ty TNHH Tập đoàn bất động sản Đông Á (Thanh Hóa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:46:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680646+07:00"
+    },
+    {
+      "id": "d251a147a0426e7779136e7ab73a62b6",
+      "title": "Trước nguy cơ mất ghế 'nóng' vì 4 trận liên tiếp không thắng, HLV Nhật Bản của Hà Nội nói gì?",
+      "link": "https://thanhnien.vn/truoc-nguy-co-mat-ghe-nong-vi-4-tran-lien-tiep-khong-thang-hlv-nhat-ban-cua-ha-noi-noi-gi-185250828223625783.htm",
+      "summary": "Tối 28.8, thất bại 2-4 trước CLB Công an Hà Nội (CAHN) ở vòng 3 V-League 2025-2026 khiến chiếc ghế HLV trưởng đội Hà Nội của ông Makoto Teguramori lung lay dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:40:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680802+07:00"
+    },
+    {
+      "id": "9fbfc0823760e83daec484934331f849",
+      "title": "Cô gái MMA đang gây sốt tiết lộ lý do ‘động thủ’, khuyên chị em tự bảo vệ bản thân",
+      "link": "https://thanhnien.vn/co-gai-mma-dang-gay-sot-tiet-lo-ly-do-dong-thu-khuyen-chi-em-tu-bao-ve-ban-than-185250828222909555.htm",
+      "summary": "Sau video khống chế nam thanh niên gây sốt, cô gái MMA Hoàng Hằng chia sẻ rằng chị em phụ nữ không nên mất bình tĩnh và phải rèn luyện sức khỏe để bảo vệ bản thân thật tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:38:00+07:00",
+      "fetched": "2025-08-28T23:20:25.680977+07:00"
+    },
+    {
+      "id": "74c235b143a29f698445727856deec5b",
+      "title": "Billiards: Trần Quyết Chiến thắng liên tục, giành vé vào vòng knock-out",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-thang-lien-tuc-gianh-ve-vao-vong-knock-out-185250828221046446.htm",
+      "summary": "Trần Quyết Chiến và những cơ thủ hàng đầu Việt Nam đã giành những chiến thắng liên tiếp để lấy vé vào vòng 16 giải billiards carom 3 băng Gabriels chặng 1 năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:32:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681141+07:00"
+    },
+    {
+      "id": "38a5c2f1486386211ab6b6eb3e00860c",
+      "title": "HLV HAGL chỉ mong hòa mà còn không được, HLV Lê Huỳnh Đức nói điều cực sốc về Tiến Linh",
+      "link": "https://thanhnien.vn/hlv-hagl-chi-mong-hoa-ma-con-khong-duoc-hlv-le-huynh-duc-noi-dieu-cuc-soc-ve-tien-linh-185250828221607497.htm",
+      "summary": "Tối 28.8, HLV Lê Huỳnh Đức bày tỏ sự thông cảm đối với tiền đạo Nguyễn Tiến Linh sau khi chân sút này bỏ lỡ nhiều cơ hội trong chiến thắng 1-0 của CLB Công an TP.HCM trước HAGL ở vòng 3 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:27:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681294+07:00"
+    },
+    {
+      "id": "81f19f3dda5ffc97071191ec9dc4f507",
+      "title": "Mỹ định siết thời hạn lưu trú với sinh viên nước ngoài",
+      "link": "https://thanhnien.vn/my-dinh-siet-thoi-han-luu-tru-voi-sinh-vien-nuoc-ngoai-185250828195916735.htm",
+      "summary": "Bộ An ninh nội địa Mỹ (DHS) ngày 27.8 cho biết rằng họ có ý định công bố một đề xuất mới nhằm hạn chế thời gian sinh viên nước ngoài được phép lưu trú tại Mỹ, nỗ lực mới nhất nhằm thắt chặt chính sách nhập cư hợp pháp vào nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:25:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681445+07:00"
+    },
+    {
       "id": "b97e1003db9cf929fc61416e8af16f55",
       "title": "Đà Nẵng bắt đầu nghiên cứu tiền khả thi làm hầm qua sân bay",
       "link": "https://tuoitre.vn/da-nang-bat-dau-nghien-cuu-tien-kha-thi-lam-ham-qua-san-bay-20250828095110931.htm",
@@ -533,6 +773,196 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T15:21:29.869364+07:00"
     },
     {
+      "id": "2a426713ffa214906cf6313317f4bde8",
+      "title": "Hà Nội mưa lớn từ tối mai",
+      "link": "https://vnexpress.net/ha-noi-mua-lon-tu-toi-mai-4932800.html",
+      "summary": "Hà Nội cũng như miền Bắc từ chiều mai sẽ mưa lớn với tổng lượng mưa trong ba ngày phổ biến 100-200 mm, cục bộ có nơi trên 400 mm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:06:05+07:00",
+      "fetched": "2025-08-28T23:20:20.942852+07:00"
+    },
+    {
+      "id": "a2b69a4120dcb8cbc419f53412da9e46",
+      "title": "Bộ Chính trị cho ý kiến nhân sự đại hội Đảng bộ Cao Bằng, Huế, Hải Phòng, Quảng Ngãi",
+      "link": "https://thanhnien.vn/bo-chinh-tri-cho-y-kien-nhan-su-dai-hoi-dang-bo-cao-bang-hue-hai-phong-quang-ngai-185250828214233073.htm",
+      "summary": "Các tổ công tác của Bộ Chính trị do Chủ tịch nước Lương Cường, Thủ tướng Chính phủ Phạm Minh Chính chủ trì đã cho ý kiến về văn kiện, đề án nhân sự đại hội đảng bộ các địa phương Cao Bằng, Huế, Hải Phòng, Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:04:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681604+07:00"
+    },
+    {
+      "id": "5a0b7818507b5496311b9903fa9aff85",
+      "title": "Bốc thăm Champions League",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html",
+      "summary": "Lễ bốc thăm xác định tám đối thủ của mỗi đội dự vòng bảng Champions League bắt đầu lúc 23h, giờ Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:00:00+07:00",
+      "fetched": "2025-08-28T23:20:20.943075+07:00"
+    },
+    {
+      "id": "b7c47f1a362d3fa9b5fad4f85c04f96c",
+      "title": "Chỉ cần anh chân thành, mọi khác biệt đều trở thành điều để thương",
+      "link": "https://vnexpress.net/chi-can-anh-chan-thanh-moi-khac-biet-deu-tro-thanh-dieu-de-thuong-4932471.html",
+      "summary": "Hà Nội đã vào thu, anh có muốn cùng em dạo bước qua những thước phim quay chậm của mùa này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T15:00:00+07:00",
+      "fetched": "2025-08-28T23:20:20.943181+07:00"
+    },
+    {
+      "id": "5a0b7818507b5496311b9903fa9aff85",
+      "title": "Lễ bốc thăm Champions League bắt đầu",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804.html",
+      "summary": "Lễ bốc thăm xác định tám đối thủ của mỗi đội dự vòng bảng Champions League bắt đầu lúc 23h, giờ Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T15:00:00+07:00",
+      "fetched": "2025-08-28T23:20:35.067233+07:00"
+    },
+    {
+      "id": "bb43c6101ca4445bf2e9d14d3fb63576",
+      "title": "Lũ quét tàn phá 5 bản ở xã vùng cao Thanh Hóa",
+      "link": "https://thanhnien.vn/lu-quet-tan-pha-5-ban-o-xa-vung-cao-thanh-hoa-185250828214458869.htm",
+      "summary": "5 bản ở xã vùng cao Yên Nhân (Thanh Hóa) bị lũ quét tàn phá khiến 2 người bị thương, 166 ngôi nhà hư hỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:57:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681758+07:00"
+    },
+    {
+      "id": "78d4c4efc2604b3dd58dab9092665071",
+      "title": "Mạnh tay với tội phạm đường phố, Công an Đà Nẵng bắt tạm giam nhiều 'báo thủ'",
+      "link": "https://thanhnien.vn/manh-tay-voi-toi-pham-duong-pho-cong-an-da-nang-bat-tam-giam-nhieu-bao-thu-185250828213811864.htm",
+      "summary": "Đã có nhiều bị can bị bắt giam vì tụ tập mang hung khí, gây rối và hành hung người, đây là một trong các động thái xử lý mạnh tay với tội phạm đường phố của Công an TP.Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:53:00+07:00",
+      "fetched": "2025-08-28T23:20:25.681926+07:00"
+    },
+    {
+      "id": "1d874321943382e94782df716fadb10a",
+      "title": "New Zealand hoan nghênh nhà khoa học Việt Nam đến học tập, nghiên cứu",
+      "link": "https://vnexpress.net/new-zealand-hoan-nghenh-nha-khoa-hoc-viet-nam-den-hoc-tap-nghien-cuu-4932806.html",
+      "summary": "Chủ tịch Quốc hội Gerry Brownlee cho biết New Zealand hoan nghênh sinh viên, nhà khoa học Việt Nam sang nước này học tập và nghiên cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:50:53+07:00",
+      "fetched": "2025-08-28T23:20:20.943344+07:00"
+    },
+    {
+      "id": "1d874321943382e94782df716fadb10a",
+      "title": "New Zealand hoan nghênh nhà khoa học Việt Nam đến học tập, nghiên cứu",
+      "link": "https://vnexpress.net/new-zealand-hoan-nghenh-nha-khoa-hoc-viet-nam-den-hoc-tap-nghien-cuu-4932806.html",
+      "summary": "Chủ tịch Quốc hội Gerry Brownlee cho biết New Zealand hoan nghênh sinh viên, nhà khoa học Việt Nam sang nước này học tập và nghiên cứu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T14:50:53+07:00",
+      "fetched": "2025-08-28T23:20:28.272730+07:00"
+    },
+    {
+      "id": "1d874321943382e94782df716fadb10a",
+      "title": "New Zealand hoan nghênh nhà khoa học Việt Nam đến học tập, nghiên cứu",
+      "link": "https://vnexpress.net/new-zealand-hoan-nghenh-nha-khoa-hoc-viet-nam-den-hoc-tap-nghien-cuu-4932806.html",
+      "summary": "Chủ tịch Quốc hội Gerry Brownlee cho biết New Zealand hoan nghênh sinh viên, nhà khoa học Việt Nam sang nước này học tập và nghiên cứu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T14:50:53+07:00",
+      "fetched": "2025-08-28T23:20:33.480800+07:00"
+    },
+    {
+      "id": "cb2cc5194b929dbdea836fe21e06f617",
+      "title": "Kinh tế Mỹ tăng trưởng vượt dự kiến",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-kien-4932808.html",
+      "summary": "GDP Mỹ quý II tăng 3,3% so với cùng kỳ 2024, cao hơn ước tính ban đầu của Bộ Thương mại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:45:22+07:00",
+      "fetched": "2025-08-28T23:20:20.943506+07:00"
+    },
+    {
+      "id": "cb2cc5194b929dbdea836fe21e06f617",
+      "title": "Kinh tế Mỹ tăng trưởng vượt dự kiến",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-kien-4932808.html",
+      "summary": "GDP Mỹ quý II tăng 3,3% so với cùng kỳ 2024, cao hơn ước tính ban đầu của Bộ Thương mại Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T14:45:22+07:00",
+      "fetched": "2025-08-28T23:20:30.014220+07:00"
+    },
+    {
+      "id": "81a99552651ee9c0d17661af0b60cdf7",
+      "title": "Người dân trải nghiệm chuyến bay mô hình Vietnam Airlines",
+      "link": "https://vnexpress.net/nguoi-dan-trai-nghiem-chuyen-bay-mo-hinh-vietnam-airlines-4932818.html",
+      "summary": "Buồng lái mô phỏng Airbus A320/321 của Vietnam Arlines giúp khách tham quan có cơ hội thử cảm giác cất cánh, hạ cánh như một phi công ngay tại triển lãm 80 năm thành tựu đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:45:00+07:00",
+      "fetched": "2025-08-28T23:20:20.943673+07:00"
+    },
+    {
+      "id": "cfd5bf94a36068bd2743f0219f0e4a3b",
+      "title": "Tầm vóc siêu đô thị TP.HCM tại triển lãm thành tựu đất nước",
+      "link": "https://thanhnien.vn/tam-voc-sieu-do-thi-tphcm-tai-trien-lam-thanh-tuu-dat-nuoc-185250828212141034.htm",
+      "summary": "TP.HCM tham gia triển lãm thành tựu đất nước 80 năm với chủ đề TP.HCM - Tầm vóc thời đại, kiến tạo tương lai, mang tới thông điệp Tự hào quá khứ - Kết nối tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:45:00+07:00",
+      "fetched": "2025-08-28T23:20:25.682083+07:00"
+    },
+    {
+      "id": "05a8e5267abbd2615072f7ececacc44f",
+      "title": "Phim dùng AI thay thế Thùy Tiên rời rạp",
+      "link": "https://vnexpress.net/phim-dung-ai-thay-the-thuy-tien-roi-rap-4932817.html",
+      "summary": "\"Chốt đơn\" - phim dùng công nghệ thay toàn bộ hình ảnh nhân vật của hoa hậu Thùy Tiên - rời rạp sau ba tuần, lỗ nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:44:07+07:00",
+      "fetched": "2025-08-28T23:20:20.943829+07:00"
+    },
+    {
+      "id": "d3b15b269fcedee6f6991cad4e8fecf8",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL chìm sâu khi chưa biết thắng, sắp đua trụ hạng",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-chim-sau-khi-chua-biet-thang-sap-dua-tru-hang-185250828203616298.htm",
+      "summary": "Hôm nay V-League 2025-2026 diễn ra 2 cặp đấu hấp dẫn của vòng 3, qua đó tạo nên cục diện mới trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:37:00+07:00",
+      "fetched": "2025-08-28T23:20:25.682230+07:00"
+    },
+    {
+      "id": "e51c63bd7e02e857b066167754b1be17",
+      "title": "Cách nhận quà Quốc khánh 100.000 đồng qua tính năng mới trên VNeID",
+      "link": "https://thanhnien.vn/cach-nhan-qua-quoc-khanh-100000-dong-qua-tinh-nang-moi-tren-vneid-185250828213044984.htm",
+      "summary": "VNeID đã chính thức mở tính năng đăng ký tài khoản an sinh xã hội cho người dân nhằm giúp họ dễ dàng tiếp cận với các dịch vụ hỗ trợ từ Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:35:00+07:00",
+      "fetched": "2025-08-28T23:20:25.682377+07:00"
+    },
+    {
+      "id": "e6984f98d503a366ba4dad8d4f70c25c",
+      "title": "Khách bật khóc khi xem triển lãm 80 năm thành tựu đất nước",
+      "link": "https://vnexpress.net/khach-bat-khoc-khi-xem-trien-lam-80-nam-thanh-tuu-dat-nuoc-4932795.html",
+      "summary": "Những người từng trải qua chiến tranh xúc động rơi nước mắt khi chứng kiến các khí tài quân sự hiện đại được trưng bày ở triển lãm 80 năm thành tựu đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:29:48+07:00",
+      "fetched": "2025-08-28T23:20:20.944023+07:00"
+    },
+    {
+      "id": "7c7dbe5a8f2762a2b122ac2bfb93dcc5",
+      "title": "Cửa ngõ phía đông TP HCM ùn tắc kéo dài",
+      "link": "https://vnexpress.net/cua-ngo-phia-dong-tp-hcm-un-tac-keo-dai-4932811.html",
+      "summary": "Dòng xe ùn tắc hơn 2 km từ cầu Bình Triệu đến đường Phạm Văn Đồng khi hạn chế ôtô qua cầu Bình Triệu, tối 28/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:19:32+07:00",
+      "fetched": "2025-08-28T23:20:20.944187+07:00"
+    },
+    {
       "id": "84b0dde0fa63e4fd1981a52ac3c673d9",
       "title": "Thua đậm CLB CAHN, Hà Nội chìm trong nhóm cuối: Khủng hoảng cận kề, thầy Nhật có an toàn?",
       "link": "https://thanhnien.vn/thua-dam-clb-cahn-ha-noi-chim-trong-nhom-cuoi-khung-hoang-can-ke-thay-nhat-co-an-toan-185250828193210617.htm",
@@ -553,6 +983,46 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T21:16:31.927916+07:00"
     },
     {
+      "id": "e5d3834e8e47e1f819e844cc558775f0",
+      "title": "Hà Nội yêu cầu thu điện thoại của học sinh trước giờ học",
+      "link": "https://vnexpress.net/ha-noi-yeu-cau-thu-dien-thoai-cua-hoc-sinh-truoc-gio-hoc-4932747.html",
+      "summary": "Các trường phải thu điện thoại của học sinh trước tiết học đầu tiên, trả lại khi buổi học kết thúc, từ năm học mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T14:00:46+07:00",
+      "fetched": "2025-08-28T23:20:20.944346+07:00"
+    },
+    {
+      "id": "db1f0005277cc930cda015f44925bb57",
+      "title": "Ra mắt Mạng lưới Công nghệ sinh học Việt Nam - Cuba",
+      "link": "https://vnexpress.net/ra-mat-mang-luoi-cong-nghe-sinh-hoc-viet-nam-cuba-4931576.html",
+      "summary": "Mạng lưới Công nghệ sinh học Việt Nam - Cuba hướng mục tiêu kết nối, trao đổi, thương mại hóa các sản phẩm công nghệ sinh học giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:59:07+07:00",
+      "fetched": "2025-08-28T23:20:20.944509+07:00"
+    },
+    {
+      "id": "db1f0005277cc930cda015f44925bb57",
+      "title": "Ra mắt Mạng lưới Công nghệ sinh học Việt Nam - Cuba",
+      "link": "https://vnexpress.net/ra-mat-mang-luoi-cong-nghe-sinh-hoc-viet-nam-cuba-4931576.html",
+      "summary": "Mạng lưới Công nghệ sinh học Việt Nam - Cuba hướng mục tiêu kết nối, trao đổi, thương mại hóa các sản phẩm công nghệ sinh học giữa hai nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T13:59:07+07:00",
+      "fetched": "2025-08-28T23:20:33.481819+07:00"
+    },
+    {
+      "id": "9aa3606a374055563e006c6451bef636",
+      "title": "Cây đổ đè người đi xe máy",
+      "link": "https://vnexpress.net/cay-do-de-nguoi-di-xe-may-4932807.html",
+      "summary": "Cây sao cao hơn 10 m, đường kính hơn 20 cm, bất ngờ đổ ra đường ở phường Tam Thắng trong cơn giông lốc, đè người phụ nữ đi xe máy bị thương, tối 28/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:58:08+07:00",
+      "fetched": "2025-08-28T23:20:20.944660+07:00"
+    },
+    {
       "id": "a56b1c61772d7c1129d94ce079098c90",
       "title": "Tặng 100.000 đồng mỗi người cho toàn dân ăn tết Độc lập",
       "link": "https://thanhnien.vn/tang-100000-dong-moi-nguoi-cho-toan-dan-an-tet-doc-lap-185250828205356187.htm",
@@ -561,6 +1031,16 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T13:56:00+07:00",
       "fetched": "2025-08-28T21:16:31.928076+07:00"
+    },
+    {
+      "id": "047e8acba7f4a20cc60fb0e7796e36b4",
+      "title": "Mỗi người dân được tặng 100.000 đồng dịp Quốc khánh",
+      "link": "https://vnexpress.net/moi-nguoi-dan-duoc-tang-100-000-dong-dip-quoc-khanh-4932334.html",
+      "summary": "Bộ Chính trị đồng ý chủ trương tặng quà cho tất cả công dân Việt Nam, mỗi người 100.000 đồng bằng tiền mặt dịp kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:54:19+07:00",
+      "fetched": "2025-08-28T23:20:20.944811+07:00"
     },
     {
       "id": "8dc42ab76bee04d454d130e09ab374cf",
