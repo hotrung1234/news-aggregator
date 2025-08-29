@@ -1,7 +1,87 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T03:17:23.681411+07:00",
+  "lastUpdated": "2025-08-30T05:15:16.823150+07:00",
   "articles": [
+    {
+      "id": "1d69355f062c2116e949a645dc6fb43f",
+      "title": "Thời tiết hôm nay 30-8: Áp thấp thành bão khi gần bờ, Bắc Bộ đến Đà Nẵng mưa rất to, Nam Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-30-8-ap-thap-thanh-bao-khi-gan-bo-bac-bo-den-da-nang-mua-rat-to-nam-bo-mua-to-20250829171636444.htm",
+      "summary": "Do ảnh hưởng áp thấp nhiệt đới mạnh thành bão nên thời tiết nước ta hôm nay mưa to đến rất to, đề phòng lũ, sạt lở nguy hiểm do mưa nhiều trong thời gian ngắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.874679+07:00",
+      "fetched": "2025-08-30T05:15:10.874925+07:00"
+    },
+    {
+      "id": "a05c671db5ae632fc55fc5700a05e455",
+      "title": "Bắt khẩn cấp ông Cao Tiến Đoan - chủ tịch Tập đoàn Đông Á",
+      "link": "https://tuoitre.vn/bat-khan-cap-ong-cao-tien-doan-chu-tich-tap-doan-dong-a-20250830001632095.htm",
+      "summary": "Đêm 29-8, Cơ quan cảnh sát điều tra Công an tỉnh Thanh Hóa vừa thi hành lệnh bắt người bị giữ trong trường hợp khẩn cấp và quyết định tạm giữ hình sự ông Cao Tiến Đoan, 65 tuổi, trú tại tổ dân phố An Chính, phường Sầm Sơn, tỉnh Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.874549+07:00",
+      "fetched": "2025-08-30T05:15:10.874667+07:00"
+    },
+    {
+      "id": "dd91d0fa641d6749d4d7f4247cb004d9",
+      "title": "Bóng chuyền nữ Thái Lan gây chia rẽ CĐV, khen nhiều và cũng chê bai thậm tệ",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lan-gay-chia-re-cdv-khen-nhieu-va-cung-che-bai-tham-te-20250830005945394.htm",
+      "summary": "Sau trận thua Nhật Bản, tuyển bóng chuyền nữ Thái Lan phải hứng chịu làn sóng chỉ trích nặng nề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.874424+07:00",
+      "fetched": "2025-08-30T05:15:10.874538+07:00"
+    },
+    {
+      "id": "28025a0e09d39288f60a2b0631a5b2e8",
+      "title": "Xe tăng, tên lửa hùng dũng trên các ngả đường thủ đô, sẵn sàng cho tổng duyệt diễu binh",
+      "link": "https://tuoitre.vn/xe-tang-ten-lua-hung-dung-tren-cac-nga-duong-thu-do-san-sang-cho-tong-duyet-dieu-binh-20250829211315018.htm",
+      "summary": "Khoảng 3g30 sáng, dàn khí tài quân sự hiện đại gồm xe tăng, thiết giáp...  tiến về quảng trường Ba Đình (Hà Nội), sẵn sàng tham gia buổi tổng duyệt diễu binh, diễu hành mừng 80 năm Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.874290+07:00",
+      "fetched": "2025-08-30T05:15:10.874411+07:00"
+    },
+    {
+      "id": "a55918d4136aea0d83ab21b876186487",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 30-8, khán giả Việt Nam coi trang nào?",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-30-8-khan-gia-viet-nam-coi-trang-nao-20250830002605615.htm",
+      "summary": "Ngày 30-8, Giải bóng chuyền nữ vô địch thế giới 2025 tiếp tục diễn ra hai trận đấu của vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.874159+07:00",
+      "fetched": "2025-08-30T05:15:10.874278+07:00"
+    },
+    {
+      "id": "6f56873522372d30bebbc93340e2f663",
+      "title": "Một số nơi chậm hỗ trợ phụ nữ sinh 2 con trước 35 tuổi: Yêu cầu phường, xã khẩn trương",
+      "link": "https://tuoitre.vn/mot-so-noi-cham-ho-tro-phu-nu-sinh-2-con-truoc-35-tuoi-yeu-cau-phuong-xa-khan-truong-20250829215139192.htm",
+      "summary": "Nhiều người dân TP.HCM phản ánh khi đến phường, xã hỏi về chính sách hỗ trợ cho phụ nữ sinh đủ 2 con trước 35 tuổi thì được trả lời 'chưa triển khai'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.873995+07:00",
+      "fetched": "2025-08-30T05:15:10.874146+07:00"
+    },
+    {
+      "id": "7a6ab49aafb6270980c19ad9f7306b27",
+      "title": "Người dân mong khôi phục lại tuyến xe buýt 150, chừng nào?",
+      "link": "https://tuoitre.vn/nguoi-dan-mong-khoi-phuc-lai-tuyen-xe-buyt-150-chung-nao-20250829155447488.htm",
+      "summary": "Nhiều bạn đọc Tuổi Trẻ mong muốn TP.HCM có thể nghiên cứu khôi phục lại lộ trình tuyến xe buýt 150 phục vụ người dân đi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.873853+07:00",
+      "fetched": "2025-08-30T05:15:10.873982+07:00"
+    },
+    {
+      "id": "eba3d782baff7170f4d65a0d150c6469",
+      "title": "Lịch trực tiếp bóng đá châu Âu 30-8: Tâm điểm Man United, Real Madrid, PSG",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-30-8-tam-diem-man-united-real-madrid-psg-20250829131206379.htm",
+      "summary": "Hàng loạt các đội bóng lớn như Man United, Real Madrid, PSG, Bayern Munich sẽ ra sân ở loạt trận bóng đá châu Âu đêm 30-8, rạng sáng 31-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:15:10.873605+07:00",
+      "fetched": "2025-08-30T05:15:10.873838+07:00"
+    },
     {
       "id": "75c4a9013e1bd54398cd6f847724f7a6",
       "title": "Ngân hàng phải chuyển khoản kịp thời quà 100.000 đồng cho người dân dịp Quốc khánh 2-9",
@@ -153,6 +233,236 @@ window.newsData_2025_08_30 = {
       "fetched": "2025-08-30T01:21:53.049253+07:00"
     },
     {
+      "id": "2d55e204088092fb1ff73fdcbd75070e",
+      "title": "Ngày Quốc khánh trời đẹp",
+      "link": "https://thanhnien.vn/ngay-quoc-khanh-troi-dep-185250829232722207.htm",
+      "summary": "Bão số 6 có cường độ yếu và tan nhanh trong ngày 31.8 nên dịp lễ Quốc khánh 2.9, thời tiết cả nước giảm mưa, nắng nhẹ rất phù hợp cho các hoạt động ngoài trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:08:00+07:00",
+      "fetched": "2025-08-30T05:15:09.973922+07:00"
+    },
+    {
+      "id": "9b1af6387a8810e8364a94ece3da3882",
+      "title": "Từ ý tưởng đến tư tưởng",
+      "link": "https://thanhnien.vn/tu-y-tuong-den-tu-tuong-185250826220101985.htm",
+      "summary": "John Dewey (20.10.1859 - 1.6.1952) là nhà giáo dục hàng đầu của nước Mỹ và của thế giới trong thế kỷ 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:06:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974111+07:00"
+    },
+    {
+      "id": "b746c972f56d1ec12b60010d303dd6dd",
+      "title": "Triển lãm '80 năm Hành trình Độc lập' có gì mà người dân nô nức check-in?",
+      "link": "https://thanhnien.vn/trien-lam-80-nam-hanh-trinh-doc-lap-co-gi-ma-nguoi-dan-no-nuc-check-in-185250829221152104.htm",
+      "summary": "Triển lãm Thành tựu Đất nước tại Trung tâm Triển lãm Quốc gia không chỉ tái hiện những thành tựu nổi bật trong nhiều lĩnh vực mà còn đem đến người dân cơ hội trải nghiệm công nghệ hiện đại để thêm tự hào về quá khứ, tin tưởng vào tương lai của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:05:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974277+07:00"
+    },
+    {
+      "id": "888f2c3e8429a18cb4df3e6202546d4a",
+      "title": "Quốc lộ 51 hư hỏng nặng do 'lượng xe tăng gấp 6 lần thiết kế'",
+      "link": "https://vnexpress.net/quoc-lo-51-hu-hong-nang-do-luong-xe-tang-gap-6-lan-thiet-ke-4933045.html",
+      "summary": "Quốc lộ 51 qua Đồng Nai giúp kết nối sân bay Long Thành chi chít \"ổ gà, ổ voi\", hằn lún vệt bánh ôtô, do lượng xe vượt xa công suất thiết kế, theo cơ quan quản lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:06.175799+07:00"
+    },
+    {
+      "id": "d0f8aeba813a2e07741c26181de8f000",
+      "title": "Chiến thuật dùng 'vũ khí đồ cổ' của Ukraine săn tìm UAV Nga",
+      "link": "https://vnexpress.net/chien-thuat-dung-vu-khi-do-co-cua-ukraine-san-tim-uav-nga-4932860.html",
+      "summary": "Với chiếc máy bay cánh quạt cũ kỹ cùng khẩu súng trường, hai phi công Ukraine lao lên bầu trời để truy đuổi UAV Nga đang trên hành trình tập kích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:06.175982+07:00"
+    },
+    {
+      "id": "078fbd1f751b4aac3c6420e7426780fc",
+      "title": "Cúm mùa có thể bùng phát vào thu",
+      "link": "https://vnexpress.net/cum-mua-co-the-bung-phat-vao-thu-4931631.html",
+      "summary": "Thời tiết giao mùa, mưa nắng thất thường rất dễ nhiễm cúm, nhất là trẻ em, người già, người mắc bệnh nền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:06.176168+07:00"
+    },
+    {
+      "id": "9afef927bef345e5996e3f29dc32bfbb",
+      "title": "Các mức độ bảo vệ của xe bọc thép",
+      "link": "https://vnexpress.net/cac-muc-do-bao-ve-cua-xe-boc-thep-4932984.html",
+      "summary": "Cấp độ chống đạn có thể được thử nghiệm và chứng nhận theo tiêu chuẩn của Mỹ hoặc châu Âu, với nhiều mức độ khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:06.176339+07:00"
+    },
+    {
+      "id": "7c5a6c55fd5e76ee97b19c723eada90b",
+      "title": "Ngoại hạng Anh: Tottenham khởi đầu quá ổn",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-tottenham-khoi-dau-qua-on-185250829203501089.htm",
+      "summary": "Toàn thắng 2 vòng đầu tiên và không thủng lưới là điều mà ngay cả CLB Real Madrid ở giải La Liga cũng không làm được trong suốt 21 năm. Tottenham mùa này đã làm được như thế, dưới sự dẫn dắt của tân HLV Thomas Frank.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974434+07:00"
+    },
+    {
+      "id": "35f32ac4ee04c734f8ec31f1b07542aa",
+      "title": "Giữ Tổ quốc bình yên: Câu chuyện tử tế của nữ chỉ huy hết lòng vì dân",
+      "link": "https://thanhnien.vn/giu-to-quoc-binh-yen-cau-chuyen-tu-te-cua-nu-chi-huy-het-long-vi-dan-185250829143509503.htm",
+      "summary": "Trải qua 23 năm học tập, phấn đấu và trưởng thành, trung tá Trần Thị Thu Thúy, Phó trưởng Công an phường Ninh Hòa, tỉnh Khánh Hòa, đã cống hiến tuổi thanh xuân của mình để giữ gìn sự bình yên và xây dựng một hình ảnh người chiến sĩ công an gần gũi, nhân văn trong lòng dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974588+07:00"
+    },
+    {
+      "id": "bb1871651e9c3034ed9fe2b4f7b57e37",
+      "title": "Phong mồ côi bước ra thế giới",
+      "link": "https://thanhnien.vn/phong-mo-coi-buoc-ra-the-gioi-185250828170710517.htm",
+      "summary": "Lê Hoàng Phong là một đứa trẻ mồ côi cả cha lẫn mẹ, lớn lên trong mất mát và thiếu vắng, không có nổi một tấm ảnh để biết cha mẹ mình là ai. Nhưng từ nơi sâu nhất của bóng tối, Phong không chỉ học cách đứng dậy mà còn học cách thắp sáng lại những con đường mà người khác chưa kịp đi hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974749+07:00"
+    },
+    {
+      "id": "d0f8aeba813a2e07741c26181de8f000",
+      "title": "Chiến thuật dùng 'vũ khí đồ cổ' của Ukraine săn tìm UAV Nga",
+      "link": "https://vnexpress.net/chien-thuat-dung-vu-khi-do-co-cua-ukraine-san-tim-uav-nga-4932860.html",
+      "summary": "Với chiếc máy bay cánh quạt cũ kỹ cùng khẩu súng trường, hai phi công Ukraine lao lên bầu trời để truy đuổi UAV Nga đang trên hành trình tập kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T22:00:00+07:00",
+      "fetched": "2025-08-30T05:15:12.324161+07:00"
+    },
+    {
+      "id": "1954fc551807632ca1d1cc511accce96",
+      "title": "Xe chống đạn Lạc Hồng 900 LX có thể chịu 440 phát đạn",
+      "link": "https://thanhnien.vn/xe-chong-dan-lac-hong-900-lx-co-the-chiu-440-phat-dan-185250829222214109.htm",
+      "summary": "VinFast vừa chính thức bàn giao lô xe đặc biệt - Lạc Hồng 900 LX - phục vụ nguyên thủ quốc tế tại đại lễ kỷ niệm 80 năm Quốc khánh (2.9.1945 - 2.9.2025) cho Bộ Ngoại giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:54:00+07:00",
+      "fetched": "2025-08-30T05:15:09.974899+07:00"
+    },
+    {
+      "id": "eaa2c2834c0819ce772c999ea30e71a9",
+      "title": "Ronaldo giúp Al Nassr thắng lớn",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-lon-4933330.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn phạt đền giúp Al Nassr thắng chủ nhà Al Taawoun 5-0 ở vòng một Saudi Pro League 2025-2026",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:44:21+07:00",
+      "fetched": "2025-08-30T05:15:06.176499+07:00"
+    },
+    {
+      "id": "eaa2c2834c0819ce772c999ea30e71a9",
+      "title": "Ronaldo giúp Al Nassr thắng lớn",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-lon-4933330.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn phạt đền giúp Al Nassr thắng chủ nhà Al Taawoun 5-0 ở vòng một Saudi Pro League 2025-2026",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T21:44:21+07:00",
+      "fetched": "2025-08-30T05:15:16.817914+07:00"
+    },
+    {
+      "id": "883dee08641b67d99c905facb1f3f939",
+      "title": "Chiến sự Ukraine ngày 1.283: châu Âu tính toán vùng đệm tại Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1283-chau-au-tinh-toan-vung-dem-tai-ukraine-185250829212907314.htm",
+      "summary": "Các nước châu Âu được cho là đang thảo luận ý tưởng thiết lập vùng đệm tại Ukraine khi phương án chấm dứt xung đột dần rơi vào bế tắc. Trong khi đó, lãnh đạo Kyiv cho hay Nga có động thái quân sự lớn tại miền đông Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:31:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975049+07:00"
+    },
+    {
+      "id": "72ab2ad3db94d8e69c44dc23194ed69e",
+      "title": "Lớp học tình thương hơn 1 thập kỷ gieo chữ cho trẻ mồ côi ở TP.HCM",
+      "link": "https://thanhnien.vn/lop-hoc-tinh-thuong-hon-1-thap-ky-gieo-chu-cho-tre-mo-coi-o-tphcm-185250821125143668.htm",
+      "summary": "Suốt hơn 11 năm, lớp học tình thương Câu lạc bộ Lửa Việt ở phường Tân Phú, TP.HCM đã trở thành nơi chở che cho các trẻ em nghèo, mồ côi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:29:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975233+07:00"
+    },
+    {
+      "id": "966523d44a00ef4e0d8edcadd4aa571b",
+      "title": "[VIDEO] Tổng duyệt cấp nhà nước diễu binh diễu hành A80 từ Quảng trường Ba Đình",
+      "link": "https://thanhnien.vn/video-tong-duyet-cap-nha-nuoc-dieu-binh-dieu-hanh-a80-tu-quang-truong-ba-dinh-185250829221729591.htm",
+      "summary": "Buổi tổng duyệt lễ diễu binh, diễu hành chào mừng 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9 (A80) là lần hợp luyện cuối cùng, trước khi chính thức diễn ra đại lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:23:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975403+07:00"
+    },
+    {
+      "id": "054746c71207d5a567861f3358b080a4",
+      "title": "USD giảm, giá vàng vẫn tăng phi mã",
+      "link": "https://thanhnien.vn/usd-giam-gia-vang-van-tang-phi-ma-185250829202924011.htm",
+      "summary": "Giá vàng miếng SJC liên tục xác lập các mức kỷ lục mới, trong đó trên thị trường tự do đã xuất hiện giá rao 131 triệu đồng/lượng. Ngược lại, giá USD giảm nhẹ từ đỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:11:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975559+07:00"
+    },
+    {
+      "id": "63d1fdfb84ed444c5024c0dd5c0e7f2f",
+      "title": "Một Việt Nam không để ai bị bỏ lại phía sau",
+      "link": "https://thanhnien.vn/mot-viet-nam-khong-de-ai-bi-bo-lai-phia-sau-185250829225126754.htm",
+      "summary": "Xóa nhà tạm, nhà dột nát trên toàn quốc; miễn học phí và đang tiến tới miễn viện phí cho toàn dân..., các chính sách an sinh xã hội của Đảng và Nhà nước đang thể hiện quyết tâm bảo đảm không để ai bị bỏ lại phía sau trên hành trình phát triển của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:09:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975708+07:00"
+    },
+    {
+      "id": "b3a1f3f2a7de31671284326422ed3b8f",
+      "title": "Không xây nhà thấp tầng trong khu TOD",
+      "link": "https://thanhnien.vn/khong-xay-nha-thap-tang-trong-khu-tod-185250829192839195.htm",
+      "summary": "HĐND TP.HCM vừa thông qua nghị quyết quy định việc lập, thẩm định, phê duyệt, điều chỉnh quy hoạch khu vực TOD tại TP.HCM với quy định không cho xây dựng mới dự án nhà ở riêng lẻ thấp tầng trong khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:09:00+07:00",
+      "fetched": "2025-08-30T05:15:09.975854+07:00"
+    },
+    {
+      "id": "ede0a59c84840bb70b0aa425d7b2ed18",
+      "title": "Bác sĩ: Người bệnh gout nên và không nên ăn gì?",
+      "link": "https://thanhnien.vn/bac-si-nguoi-benh-gout-nen-va-khong-nen-an-gi-185250829155119466.htm",
+      "summary": "Người bệnh gout nên có chế độ ăn hướng đến việc giữ axit uric máu trong ngưỡng an toàn, hạn chế tái phát cơn gout cấp, phòng ngừa biến chứng và bảo vệ chức năng thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:09:00+07:00",
+      "fetched": "2025-08-30T05:15:09.976000+07:00"
+    },
+    {
+      "id": "032d019b3790cd41596a1adb4af79a83",
+      "title": "Vì sao drone Việt dẫn đầu thế giới?",
+      "link": "https://thanhnien.vn/vi-sao-drone-viet-dan-dau-the-gioi-185250829113029276.htm",
+      "summary": "Người Việt tạo ra drone - máy bay không người lái dẫn đầu thế giới và câu chuyện truyền cảm hứng về R&D, mở lối cho Việt Nam bước vào hàng ngũ cường quốc công nghệ lõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T21:09:00+07:00",
+      "fetched": "2025-08-30T05:15:09.976187+07:00"
+    },
+    {
+      "id": "a9b3d440d4b367b28a82cfd93f346401",
+      "title": "Chính phủ chi trả 100.000 đồng dịp Quốc khánh qua tài khoản hoặc trực tiếp",
+      "link": "https://vnexpress.net/chinh-phu-chi-tra-100-000-dong-dip-quoc-khanh-qua-tai-khoan-hoac-truc-tiep-4933327.html",
+      "summary": "Chính phủ quyết định chi trả tập trung quà tặng 100.000 đồng dịp Quốc khánh cho toàn dân qua tài khoản an sinh xã hội trên VNeID hoặc trực tiếp tại địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T20:57:29+07:00",
+      "fetched": "2025-08-30T05:15:06.176658+07:00"
+    },
+    {
       "id": "9f68760cdd40566f66d018441c795f34",
       "title": "Giai đoạn đặc biệt của bóng đá Việt Nam, đội U.23 tập kín ngay buổi đầu tiên",
       "link": "https://thanhnien.vn/giai-doan-dac-biet-cua-bong-da-viet-nam-doi-u23-tap-kin-ngay-buoi-dau-tien-185250829203059851.htm",
@@ -171,6 +481,16 @@ window.newsData_2025_08_30 = {
       "category": "Thế giới",
       "published": "2025-08-29T20:00:00+07:00",
       "fetched": "2025-08-30T03:17:16.697315+07:00"
+    },
+    {
+      "id": "7f47986cae727cb23e40a171b8fd7fa5",
+      "title": "Đội Trung Quốc tập dượt trong mưa trước tổng duyệt A80",
+      "link": "https://vnexpress.net/quan-nhan-xe-phao-ve-ba-dinh-trong-dem-4933316.html",
+      "summary": "Gần hai tiếng trước tổng duyệt, các khối diễu binh lần lượt tiến vào Quảng trường Ba Đình tập luyện; trong đó đoàn Trung Quốc đội mưa duyệt binh cùng lực lượng Nga, Lào, Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T20:00:00+07:00",
+      "fetched": "2025-08-30T05:15:06.176813+07:00"
     },
     {
       "id": "eee6320bc43b919ebb526dedabf69ae9",
