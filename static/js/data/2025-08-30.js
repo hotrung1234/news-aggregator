@@ -1,6 +1,6 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T11:18:23.410292+07:00",
+  "lastUpdated": "2025-08-30T13:21:09.532023+07:00",
   "articles": [
     {
       "id": "b31b89602041aacc73600af98df901c2",
@@ -453,6 +453,226 @@ window.newsData_2025_08_30 = {
       "fetched": "2025-08-30T08:11:17.515805+07:00"
     },
     {
+      "id": "b476bb87ff2cd7778eaae9e697cdda6e",
+      "title": "Pharmacity cập nhật điểm chăm sóc sức khỏe ‘khối nhân dân’",
+      "link": "https://thanhnien.vn/pharmacity-cap-nhat-diem-cham-soc-suc-khoe-khoi-nhan-dan-185250830131026814.htm",
+      "summary": "Tiếp nối ngày đầu tiên (27.8), hệ thống nhà thuốc Pharmacity tiếp tục triển khai các ‘Trạm sức khỏe’ hỗ trợ y tế trong trường hợp khẩn cấp - tặng nước và quạt miễn phí từ nay đến hết ngày 2.9.2025, nhằm hỗ trợ người dân, du khách trước thềm kỷ niệm 80 năm Quốc khánh 2.9. Hoạt động diễn ra tại nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:17:00+07:00",
+      "fetched": "2025-08-30T13:21:02.028398+07:00"
+    },
+    {
+      "id": "60120d14f1997b4e184ffbb586c7c86d",
+      "title": "Đà Nẵng: Đột kích quán karaoke, bắt quả tang nhiều người 'phê' ma túy",
+      "link": "https://thanhnien.vn/da-nang-dot-kich-quan-karaoke-bat-qua-tang-nhieu-nguoi-phe-ma-tuy-185250830121733479.htm",
+      "summary": "Công an TP.Đà Nẵng đột kích karaoke Victory (khu Đảo Xanh) lúc rạng sáng, bắt quả tang nhiều nhóm tổ chức sử dụng ma túy và đang 'phê' ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:11:00+07:00",
+      "fetched": "2025-08-30T13:21:02.028564+07:00"
+    },
+    {
+      "id": "d69bd6d0ba9e0a358d44b26be6e4abb2",
+      "title": "Malaysia sẽ dẹp nạn tài xế taxi chèo kéo, 'chặt chém' khách bằng cách nào?",
+      "link": "https://thanhnien.vn/malaysia-se-dep-nan-tai-xe-taxi-cheo-keo-chat-chem-khach-bang-cach-nao-185250830114810537.htm",
+      "summary": "Bộ trưởng Giao thông Vận tải Malaysia Anthony Loke mới đây cảnh báo rằng vấn nạn tài xế taxi chèo kéo khách là hành vi phản bội lợi ích quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:10:00+07:00",
+      "fetched": "2025-08-30T13:21:02.028718+07:00"
+    },
+    {
+      "id": "a7a7422bf61ec5835e58d23db4a5e12c",
+      "title": "Dàn khí tài của Công an nhân dân tại tổng duyệt diễu binh có gì đặc biệt?",
+      "link": "https://thanhnien.vn/dan-khi-tai-cua-cong-an-nhan-dan-tai-tong-duyet-dieu-binh-co-gi-dac-biet-185250830122656765.htm",
+      "summary": "Lực lượng Công an nhân dân ra mắt dàn khí tài cực 'chất' tại tổng duyệt diễu binh, diễu hành chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 (A80).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:07:00+07:00",
+      "fetched": "2025-08-30T13:21:02.028867+07:00"
+    },
+    {
+      "id": "1738009f1d5a7bd9335d286aef29b881",
+      "title": "Từ thuộc địa trở thành quốc gia tự cường",
+      "link": "https://thanhnien.vn/tu-thuoc-dia-tro-thanh-quoc-gia-tu-cuong-185250828164948666.htm",
+      "summary": "Mùa hè năm 1858, những quả đại bác từ pháo hạm của liên quân Pháp - Tây Ban Nha tấn công vào đồn lũy của nhà Nguyễn ở cửa biển Đà Nẵng, báo hiệu Việt Nam bắt đầu thời kỳ thuộc địa của thực dân phương Tây, giống như các lân bang trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:06:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029015+07:00"
+    },
+    {
+      "id": "234a50fe428c699282349d59092c0f13",
+      "title": "TTC IZ - Tài chính vững mạnh, phát triển hài hòa kinh tế và môi trường",
+      "link": "https://thanhnien.vn/ttc-iz-tai-chinh-vung-manh-phat-trien-hai-hoa-kinh-te-va-moi-truong-185250830125900946.htm",
+      "summary": "Định vị trở thành KCN kiểu mẫu tại Vùng Kinh tế trọng điểm phía Nam, TTC IZ chú trọng nâng hạng các chỉ số xanh bền vững. Đặc biệt, đã hoàn trả đầy đủ gốc, lãi trái phiếu đúng hạn, phát hành thành công đợt trái phiếu 300 tỉ đồng vào 15.10.2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:04:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029184+07:00"
+    },
+    {
+      "id": "4a49e013b6469de87736a031ee85f3d5",
+      "title": "Truy tìm phương tiện gây tai nạn khiến nam sinh tử vong rồi rời khỏi hiện trường",
+      "link": "https://thanhnien.vn/truy-tim-phuong-tien-gay-tai-nan-khien-nam-sinh-tu-vong-roi-roi-khoi-hien-truong-1852508301107514.htm",
+      "summary": "Một nam sinh lớp 6 bị cán tử vong trên quốc lộ 1, đoạn qua tỉnh Lâm Đồng, nhưng các phương tiện liên quan vụ tai nạn \"biến mất\" khỏi hiện trường. Cơ quan Cảnh sát điều tra Công an tỉnh Lâm Đồng vẫn đang điều tra truy tìm các phương tiện liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:03:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029355+07:00"
+    },
+    {
+      "id": "d79951cb485d531281a3bd9db62d8096",
+      "title": "Hạn chót thí sinh xác nhận nhập học: Nhiều trường ĐH đạt hơn 90% chỉ tiêu",
+      "link": "https://thanhnien.vn/han-chot-thi-sinh-xac-nhan-nhap-hoc-nhieu-truong-dh-dat-hon-90-chi-tieu-18525083011500185.htm",
+      "summary": "Hôm nay (30.8) là hạn chót thí sinh trúng tuyển xác nhận nhập học trên hệ thống của Bộ GD-ĐT. Tuần qua nhiều trường ĐH cũng đã đón tân sinh viên đến làm thủ tục nhập học trực tiếp, không ít trường đã đạt hơn 90% chỉ tiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:02:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029503+07:00"
+    },
+    {
+      "id": "33fe135e9917596f60911c2f4938bf8e",
+      "title": "Từ thao trường Chiến sĩ Quả cảm đến đời thường: Cứng cáp trăm phần để chinh phục thử thách",
+      "link": "https://thanhnien.vn/tu-thao-truong-chien-si-qua-cam-den-doi-thuong-cung-cap-tram-phan-de-chinh-phuc-thu-thach-18525083011195978.htm",
+      "summary": "Giữa nhịp sống hiện đại đầy biến động, người trẻ ngày nay phải đối mặt với nhiều áp lực ngày càng lớn: từ học tập, công việc, đến các mối quan hệ và kỳ vọng xã hội. Để không bị cuốn theo guồng quay ấy, họ cần một nền tảng thật sự vững chắc – nơi thể chất khỏe mạnh và tinh thần kiên định cùng song hà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:00:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029670+07:00"
+    },
+    {
+      "id": "6f689915a9adba7f3686e0b38cfef3b1",
+      "title": "Chọn cardigan cho nàng lên đồ thu thời thượng, sành điệu bất ngờ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chon-cardigan-cho-nang-len-do-thu-thoi-thuong-sanh-dieu-bat-ngo-185250830000214915.htm",
+      "summary": "Khi tiết trời chuyển mình, lúc nắng nhẹ, khi lại se lạnh bất chợt, những chiếc cardigan trở thành 'bạn đồng hành' không thể thiếu trong tủ đồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:00:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029817+07:00"
+    },
+    {
+      "id": "cf738ea5e13a90ee166044ce2698e3ed",
+      "title": "'Hacker mũ trắng' phát hiện hơn 600 lỗ hổng bảo mật",
+      "link": "https://thanhnien.vn/hacker-mu-trang-phat-hien-hon-600-lo-hong-bao-mat-185250828160434167.htm",
+      "summary": "Trong thế giới phẳng của kỷ nguyên số, chiến trường không còn chỉ trên thực địa. Một cuộc chiến mới, thầm lặng nhưng không kém phần khốc liệt, đang diễn ra trên không gian mạng, đó là cuộc chiến giữ an toàn thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:00:00+07:00",
+      "fetched": "2025-08-30T13:21:02.029962+07:00"
+    },
+    {
+      "id": "9b801ed9fcb92379aaf3c10dba7c6f03",
+      "title": "Tin chuyện 'nải chuối bằng vàng', một phụ nữ bị lừa 870 triệu đồng",
+      "link": "https://thanhnien.vn/tin-chuyen-nai-chuoi-bang-vang-mot-phu-nu-bi-lua-870-trieu-dong-185250830110120375.htm",
+      "summary": "Tin vào câu chuyện 'nải chuối bằng vàng' cùng lời hứa sắp được bồi thường tiền tỉ, một phụ nữ ở TP.Đà Nẵng bị lừa đảo, chiếm đoạt 870 triệu đồng. Công an vừa khởi tố, bắt tạm giam 2 bị can liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:51:00+07:00",
+      "fetched": "2025-08-30T13:21:02.030139+07:00"
+    },
+    {
+      "id": "fee61161e847da43759e19da8b9e699d",
+      "title": "Vĩnh Long: Khởi tố người đàn ông thuê vườn trồng cần sa",
+      "link": "https://thanhnien.vn/vinh-long-khoi-to-nguoi-dan-ong-thue-vuon-trong-can-sa-185250830091257237.htm",
+      "summary": "Người đàn ông ở Đồng Tháp qua Vĩnh Long thuê vườn trồng cần sa, bị lực lượng công an phát hiện và khởi tố, bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:50:00+07:00",
+      "fetched": "2025-08-30T13:21:02.030290+07:00"
+    },
+    {
+      "id": "71117c832d785d011ae7e26d53bdb7d6",
+      "title": "Người dân bắt đầu nhận quà 2/9 từ hôm nay",
+      "link": "https://vnexpress.net/nguoi-dan-bat-dau-nhan-qua-2-9-tu-hom-nay-4933462.html",
+      "summary": "Bộ Tài chính cho biết, người dân bắt đầu nhận quà 100.000 đồng từ hôm nay, trường hợp chậm nhất không quá 15/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:48:02+07:00",
+      "fetched": "2025-08-30T13:20:59.084808+07:00"
+    },
+    {
+      "id": "71117c832d785d011ae7e26d53bdb7d6",
+      "title": "Người dân bắt đầu nhận quà 2/9 từ hôm nay",
+      "link": "https://vnexpress.net/nguoi-dan-bat-dau-nhan-qua-2-9-tu-hom-nay-4933462.html",
+      "summary": "Bộ Tài chính cho biết, người dân bắt đầu nhận quà 100.000 đồng từ hôm nay, trường hợp chậm nhất không quá 15/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T05:48:02+07:00",
+      "fetched": "2025-08-30T13:21:04.945168+07:00"
+    },
+    {
+      "id": "786d0ac47edff9f0fe32fb0f6069cce8",
+      "title": "Khởi tố vợ chồng trùm giang hồ Vi 'ngộ', điều tra tội trốn thuế",
+      "link": "https://thanhnien.vn/khoi-to-vo-chong-trum-giang-ho-vi-ngo-dieu-tra-toi-tron-thue-185250830122614171.htm",
+      "summary": "Trùm giang hồ Vi 'ngộ' và vợ đã bị khởi tố để điều tra thêm về tội trốn thuế. Trước đó, Vi 'ngộ' đã bị khởi tố để điều tra về các tội vi phạm quy định về kế toán gây hậu quả nghiêm trọng và đưa hối lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:48:00+07:00",
+      "fetched": "2025-08-30T13:21:02.030438+07:00"
+    },
+    {
+      "id": "81df9445943acbceb5a1a7b34f7a1d65",
+      "title": "Việt Nam hạnh phúc - một hình mẫu phát triển mới",
+      "link": "https://thanhnien.vn/viet-nam-hanh-phuc-mot-hinh-mau-phat-trien-moi-185250827185403451.htm",
+      "summary": "Ngày 2 tháng 9 năm 1945, tại quảng trường Ba Đình lịch sử, Chủ tịch Hồ Chí Minh đã long trọng tuyên bố với toàn thế giới: \"Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã trở thành một nước tự do, độc lập\". Và ngay sau hai từ \"Độc lập - Tự do\", Người đã khẳng định một mục tiêu lớn lao k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:48:00+07:00",
+      "fetched": "2025-08-30T13:21:02.030592+07:00"
+    },
+    {
+      "id": "1fe01198e2e8847f0cc4017549ca88bc",
+      "title": "Hai giờ tổng duyệt diễu binh ở Ba Đình",
+      "link": "https://vnexpress.net/hai-gio-tong-duyet-dieu-binh-o-ba-dinh-4933450.html",
+      "summary": "Lần đầu, 31 tiêm kích, trực thăng cùng tham gia tổng duyệt diễu binh với hơn 16.300 quân nhân và hàng chục khối xe pháo quân sự, xe đặc chủng công an trên quảng trường Ba Đình, sáng 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:40:24+07:00",
+      "fetched": "2025-08-30T13:20:59.084987+07:00"
+    },
+    {
+      "id": "ad5c243b2479aa54fec6cdd1d0df91ef",
+      "title": "Lạc Hồng 900 LX được thử nghiệm chống đạn như thế nào?",
+      "link": "https://vnexpress.net/lac-hong-900-lx-duoc-thu-nghiem-chong-dan-nhu-the-nao-4933457.html",
+      "summary": "Mẫu xe điện Lạc Hồng 900 LX chống đạn được thử nghiệm với 440 phát đạn, 11 lần nổ mìn tại trung tâm Beschussamt Ulm (Đức).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:30:42+07:00",
+      "fetched": "2025-08-30T13:20:59.085172+07:00"
+    },
+    {
+      "id": "2144aa4593df8a9445e91071f9f2c218",
+      "title": "Ở lại nhặt rác sau tổng duyệt diễu binh",
+      "link": "https://vnexpress.net/o-lai-nhat-rac-sau-tong-duyet-dieu-binh-4933443.html",
+      "summary": "Mẹ con chị Thu Hoài ở lại các tuyến phố Kim Mã, Giảng Võ, thu dọn vỏ chai, túi nilon bị bỏ lại sau buổi tổng duyệt diễu binh sáng 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:16:30+07:00",
+      "fetched": "2025-08-30T13:20:59.085335+07:00"
+    },
+    {
+      "id": "795bc3530b7ae5808690dcd7c937aee5",
+      "title": "Man Utd đẩy Hojlund sang Napoli",
+      "link": "https://vnexpress.net/man-utd-day-hojlund-sang-napoli-4933447.html",
+      "summary": "Man Utd đồng ý cho Napoli mượn tiền đạo Rasmus Hojlund, kèm điều khoản bắt buộc mua đứt nếu CLB Italy được dự Champions League mùa sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:16:29+07:00",
+      "fetched": "2025-08-30T13:20:59.085499+07:00"
+    },
+    {
+      "id": "795bc3530b7ae5808690dcd7c937aee5",
+      "title": "Man Utd đẩy Hojlund sang Napoli",
+      "link": "https://vnexpress.net/man-utd-day-hojlund-sang-napoli-4933447.html",
+      "summary": "Man Utd đồng ý cho Napoli mượn tiền đạo Rasmus Hojlund, kèm điều khoản bắt buộc mua đứt nếu CLB Italy được dự Champions League mùa sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T05:16:29+07:00",
+      "fetched": "2025-08-30T13:21:09.523109+07:00"
+    },
+    {
       "id": "1d69355f062c2116e949a645dc6fb43f",
       "title": "Thời tiết hôm nay 30-8: Áp thấp thành bão khi gần bờ, Bắc Bộ đến Đà Nẵng mưa rất to, Nam Bộ mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-30-8-ap-thap-thanh-bao-khi-gan-bo-bac-bo-den-da-nang-mua-rat-to-nam-bo-mua-to-20250829171636444.htm",
@@ -531,6 +751,136 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T05:15:10.873605+07:00",
       "fetched": "2025-08-30T05:15:10.873838+07:00"
+    },
+    {
+      "id": "f3c5d568d3e9b87101551823ad23458c",
+      "title": "Ông Lê Hoài Trung được giao quyền Bộ trưởng Ngoại giao",
+      "link": "https://vnexpress.net/ong-le-hoai-trung-duoc-giao-quyen-bo-truong-ngoai-giao-4933319.html",
+      "summary": "Ông Lê Hoài Trung, Chánh Văn phòng Trung ương Đảng, được Thủ tướng giao quyền Bộ trưởng Ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:14:29+07:00",
+      "fetched": "2025-08-30T13:20:59.085660+07:00"
+    },
+    {
+      "id": "5ba0c861c4f653d5b781b4b3c8213d49",
+      "title": "Liên minh Ngân hàng Net Zero ngừng hoạt động",
+      "link": "https://vnexpress.net/lien-minh-ngan-hang-net-zero-ngung-hoat-dong-4933216.html",
+      "summary": "Liên minh Ngân hàng Net Zero do Liên Hợp Quốc hậu thuẫn thông báo tạm dừng hoạt động, sau sự ra đi của một loạt nhà băng lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:13:21+07:00",
+      "fetched": "2025-08-30T13:20:59.085822+07:00"
+    },
+    {
+      "id": "5ba0c861c4f653d5b781b4b3c8213d49",
+      "title": "Liên minh Ngân hàng Net Zero ngừng hoạt động",
+      "link": "https://vnexpress.net/lien-minh-ngan-hang-net-zero-ngung-hoat-dong-4933216.html",
+      "summary": "Liên minh Ngân hàng Net Zero do Liên Hợp Quốc hậu thuẫn thông báo tạm dừng hoạt động, sau sự ra đi của một loạt nhà băng lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T05:13:21+07:00",
+      "fetched": "2025-08-30T13:21:04.945341+07:00"
+    },
+    {
+      "id": "4b4937b5cf4824f3efbcfc87f2d3588e",
+      "title": "5 điểm đến cho chuyến đi 'chữa lành' dịp 2/9 từ Hà Nội",
+      "link": "https://vnexpress.net/5-diem-den-cho-chuyen-di-chua-lanh-dip-2-9-tu-ha-noi-4931387.html",
+      "summary": "Dành một ngày cho đại lễ tại Hà Nội và hai ngày đến một nơi có thiên nhiên trong lành, yên tĩnh là gợi ý cho kỳ nghỉ 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:10:46+07:00",
+      "fetched": "2025-08-30T13:20:59.085978+07:00"
+    },
+    {
+      "id": "f6fd1d6c2e4b0997229833adc38dd48f",
+      "title": "Ôtô nào tại Việt Nam đáp ứng mức tiêu thụ nhiên liệu 4,83 lít?",
+      "link": "https://vnexpress.net/oto-nao-tai-viet-nam-dap-ung-muc-tieu-thu-nhien-lieu-4-83-lit-4933453.html",
+      "summary": "Theo đề xuất của Bộ Xây dựng về tiêu hao nhiên liệu xe con trung bình (CAFC) 4,83 lít/100 km vào 2030, ít ôtô xăng, dầu hiện nay đạt được.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:06:27+07:00",
+      "fetched": "2025-08-30T13:20:59.086169+07:00"
+    },
+    {
+      "id": "a367ebaa58a740d91cfb1ce9e5a1b591",
+      "title": "Mỹ từ chối cấp thị thực cho lãnh đạo Palestine tới dự họp LHQ",
+      "link": "https://vnexpress.net/my-tu-choi-cap-thi-thuc-cho-lanh-dao-palestine-toi-du-hop-lhq-4933424.html",
+      "summary": "Bộ Ngoại giao Mỹ thông báo từ chối cấp thị thực cho các lãnh đạo chính quyền Palestine tới New York để dự họp LHQ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:01:29+07:00",
+      "fetched": "2025-08-30T13:20:59.086341+07:00"
+    },
+    {
+      "id": "a367ebaa58a740d91cfb1ce9e5a1b591",
+      "title": "Mỹ từ chối cấp thị thực cho lãnh đạo Palestine tới dự họp LHQ",
+      "link": "https://vnexpress.net/my-tu-choi-cap-thi-thuc-cho-lanh-dao-palestine-toi-du-hop-lhq-4933424.html",
+      "summary": "Bộ Ngoại giao Mỹ thông báo từ chối cấp thị thực cho các lãnh đạo chính quyền Palestine tới New York để dự họp LHQ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T05:01:29+07:00",
+      "fetched": "2025-08-30T13:21:03.932834+07:00"
+    },
+    {
+      "id": "ebfd99661cbf33b4e0efb17894618aa5",
+      "title": "Mẹ không dám ly hôn người cha nghiện cờ bạc vì sợ cháu không được đi học",
+      "link": "https://vnexpress.net/nghien-co-bac-so-de-chua-kiem-duoc-tien-nen-chau-khong-quan-trong-voi-ba-4932803.html",
+      "summary": "Ngày nào ba cũng lấy tiền của mẹ để chơi lô đề; không đủ tiền chơi, ba còn mượn giang hồ, không để ý gì mẹ con cháu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:20:59.086500+07:00"
+    },
+    {
+      "id": "de8e8b019bf23b3c60509f1ddffa7ff6",
+      "title": "Người Việt nào được vua Càn Long cho vẽ chân dung ban tặng?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-nguoi-viet-nao-duoc-vua-can-long-cho-ve-chan-dung-ban-tang-4932001.html",
+      "summary": "Ông hai lần đi sứ sang nhà Thanh, tiếng tăm vang lừng đất Bắc, được vua Thanh là Càn Long mến phục, sai thợ vẽ chân dung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:20:59.086656+07:00"
+    },
+    {
+      "id": "8597f61bd3988b70ed5d93941023902a",
+      "title": "Nhật Bản chế tạo siêu máy tính AI nhanh nhất thế giới",
+      "link": "https://vnexpress.net/nhat-ban-che-tao-sieu-may-tinh-ai-nhanh-nhat-the-gioi-4933318.html",
+      "summary": "Siêu máy tính thế hệ mới của Nhật Bản mang tên FugakuNEXT, dự kiến là cỗ máy AI mạnh nhất, với sự hợp tác của Fujitsu và Nvidia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:20:59.086812+07:00"
+    },
+    {
+      "id": "8880238fc36698e056e191031102962c",
+      "title": "7 quán cơm nhà Michelin khách nên thử ở Hà Nội dịp 2/9",
+      "link": "https://vnexpress.net/7-quan-com-nha-michelin-khach-nen-thu-o-ha-noi-dip-2-9-4933031.html",
+      "summary": "Tầm vị, Quán ăn ngon, Xới cơm, Mậu Dịch số 37 là các nhà hàng bán đồ ăn Việt được cẩm nang Michelin đánh giá cao, thực khách có thể ghé qua thưởng thức khi đến Hà Nội dịp Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:20:59.086983+07:00"
+    },
+    {
+      "id": "d92fe5812c41b61f8ca863ac4c9d26cc",
+      "title": "Những món ăn giúp giải nhiệt khi chơi lễ",
+      "link": "https://vnexpress.net/nhung-mon-an-giup-giai-nhiet-khi-choi-le-4933414.html",
+      "summary": "Rau củ, ngũ cốc, đậu, hạt và quả mọng cung cấp vitamin, chất điện giải tự nhiên, hỗ trợ cơ thể giải nhiệt khi đi chơi lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:20:59.087154+07:00"
+    },
+    {
+      "id": "8597f61bd3988b70ed5d93941023902a",
+      "title": "Nhật Bản chế tạo siêu máy tính AI nhanh nhất thế giới",
+      "link": "https://vnexpress.net/nhat-ban-che-tao-sieu-may-tinh-ai-nhanh-nhat-the-gioi-4933318.html",
+      "summary": "Siêu máy tính thế hệ mới của Nhật Bản mang tên FugakuNEXT, dự kiến là cỗ máy AI mạnh nhất, với sự hợp tác của Fujitsu và Nvidia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T13:21:07.895683+07:00"
     },
     {
       "id": "c2b2844e69f4c0ee4aed5b3c91050e75",
@@ -641,6 +991,16 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T04:04:00+07:00",
       "fetched": "2025-08-30T11:18:14.517797+07:00"
+    },
+    {
+      "id": "527f7bbb7bddb7d9ceffa067a7f112a5",
+      "title": "Lực lượng Nga hứng tổn thất vì gài mìn dưới chân cầu chiến lược",
+      "link": "https://vnexpress.net/luc-luong-nga-hung-ton-that-vi-gai-min-duoi-chan-cau-chien-luoc-4933406.html",
+      "summary": "Lính Nga gài mìn dưới hai cây cầu có giá trị chiến lược về hậu cần, nhưng bị drone tự sát giá rẻ Ukraine phát hiện và kích nổ, phá hủy công trình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T04:00:17+07:00",
+      "fetched": "2025-08-30T13:21:03.933013+07:00"
     },
     {
       "id": "36a3a2ddede0c9a0be90093e016a484a",
