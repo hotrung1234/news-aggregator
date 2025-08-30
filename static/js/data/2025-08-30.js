@@ -1,7 +1,157 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T05:15:16.823150+07:00",
+  "lastUpdated": "2025-08-30T08:11:25.408353+07:00",
   "articles": [
+    {
+      "id": "72347c5e1fd0daf05b176b7b4cd0061b",
+      "title": "Ngôi nhà miễn phí dành cho cựu chiến binh nghỉ ngơi khi về thủ đô xem diễu binh",
+      "link": "https://tuoitre.vn/ngoi-nha-mien-phi-danh-cho-cuu-chien-binh-nghi-ngoi-khi-ve-thu-do-xem-dieu-binh-20250830060151957.htm",
+      "summary": "Những ngày này, hàng trăm cựu chiến binh từ nhiều tỉnh thành trên cả nước đến Hà Nội tham dự diễu binh, diễu hành A80. Trong đó, không ít những người chiến sĩ năm xưa còn nhiều khó khăn nhưng vẫn quyết tâm đến thủ đô để thỏa ước nguyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.517488+07:00",
+      "fetched": "2025-08-30T08:11:17.517599+07:00"
+    },
+    {
+      "id": "c68d4256ce6c6e80f3313f39e1258e2d",
+      "title": "'Hổ mang chúa' Su-30MK2 bay qua Ba Đình",
+      "link": "https://tuoitre.vn/ho-mang-chua-su-30mk2-bay-qua-ba-dinh-20250830064448803.htm",
+      "summary": "Sáng 30-8, lễ tổng duyệt cấp quốc gia lễ diễu binh, diễu hành kỷ niệm 80 năm cách mạng tháng 8 và Quốc khánh 2-9 chính thức bắt đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.517367+07:00",
+      "fetched": "2025-08-30T08:11:17.517478+07:00"
+    },
+    {
+      "id": "3d94333dc8bb19761d5f3c2052ee5eff",
+      "title": "Theo chân các chiến sĩ, công nhân thầm lặng giữ bình yên cho lễ diễu binh",
+      "link": "https://tuoitre.vn/theo-chan-cac-chien-si-cong-nhan-tham-lang-giu-binh-yen-cho-le-dieu-binh-20250830052428508.htm",
+      "summary": "Dịp Quốc khánh 2-9, thủ đô Hà Nội không chỉ có tiếng nhạc, tiếng cười của người dân, những bước chân diễu binh hay sắc màu cờ hoa, mà còn có những giọt mồ hôi thầm lặng rơi trên phố để làm nên sự thành công của lễ kỷ niệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.517242+07:00",
+      "fetched": "2025-08-30T08:11:17.517356+07:00"
+    },
+    {
+      "id": "6cd9b32be37b8fb8c748cc45719e97d8",
+      "title": "Cha sốt ruột trên khán đài, khuyên con trai bỏ cuộc ở US Open 2025",
+      "link": "https://tuoitre.vn/cha-sot-ruot-tren-khan-dai-khuyen-con-trai-bo-cuoc-o-us-open-2025-20250830054339242.htm",
+      "summary": "Tay vợt người Mỹ Ben Shelton đã bị chấn thương vai nghiêm trọng và phải nói lời chia tay US Open 2025 (Giải Mỹ mở rộng 2025) trong nước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.517100+07:00",
+      "fetched": "2025-08-30T08:11:17.517230+07:00"
+    },
+    {
+      "id": "be1bea7769b1f1fd5ebd23866c2891ad",
+      "title": "HLV Amorim: 'Đôi khi tôi ghét cầu thủ Man United và muốn từ chức'",
+      "link": "https://tuoitre.vn/hlv-amorim-doi-khi-toi-ghet-cau-thu-man-united-va-muon-tu-chuc-20250829234949724.htm",
+      "summary": "Mới đây, HLV Ruben Amorim đã có những chia sẻ thẳng thắn về cảm xúc của ông sau chuỗi trận đáng thất vọng của Man United.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516979+07:00",
+      "fetched": "2025-08-30T08:11:17.517089+07:00"
+    },
+    {
+      "id": "cf0c62a904eab5a8e55df6d37775e8f4",
+      "title": "Dịp lễ 2-9 là 'mùa Tết' sôi động thứ ba ở phòng vé Việt",
+      "link": "https://tuoitre.vn/dip-le-2-9-la-mua-tet-soi-dong-thu-ba-o-phong-ve-viet-20250829225356427.htm",
+      "summary": "Sau Tết Nguyên đán và dịp lễ 30-4, dịp lễ 2-9 năm nay tiếp tục là thời điểm đẹp để phim ảnh ra mắt. Không thể phủ nhận sự trỗi dậy của các bộ phim khơi gợi lòng yêu nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516856+07:00",
+      "fetched": "2025-08-30T08:11:17.516968+07:00"
+    },
+    {
+      "id": "64e9534fff6dec2e3510c0b45b25680e",
+      "title": "Ronaldo lại lập kỷ lục phá lưới xuyên suốt 24 mùa bóng",
+      "link": "https://tuoitre.vn/ronaldo-lai-lap-ki-luc-pha-luoi-xuyen-suot-24-mua-bong-20250830062435026.htm",
+      "summary": "Rạng sáng 30-8, siêu sao Cristiano Ronaldo đã ghi bàn trong chiến thắng 5-0 của Al Nassr trước chủ nhà Al Taawoun ở vòng 1 Giải vô địch Saudi Arabia (Saudi Pro League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516733+07:00",
+      "fetched": "2025-08-30T08:11:17.516844+07:00"
+    },
+    {
+      "id": "ed29f98ebc0e2db8f357a715b06a99b7",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Man United 'trút giận' lên tân binh Burnley",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-man-united-trut-gian-len-tan-binh-burnley-20250829222401035.htm",
+      "summary": "Man United sẽ chạm trán Burnley ở vòng 3 Giải Ngoại hạng Anh (Premier League) mùa 2025-2026 vào lúc 21h ngày 30-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516610+07:00",
+      "fetched": "2025-08-30T08:11:17.516722+07:00"
+    },
+    {
+      "id": "75c0d7951d318513b4440f18b9209fcd",
+      "title": "Hôm nay 30-8, áp thấp nhiệt đới hoặc bão khả năng đổ bộ Hà Tĩnh - Quảng Trị",
+      "link": "https://tuoitre.vn/hom-nay-30-8-ap-thap-nhiet-doi-hoac-bao-kha-nang-do-bo-ha-tinh-quang-tri-20250829202921943.htm",
+      "summary": "Dự báo hôm nay (30-8), áp thấp nhiệt đới hoặc bão đổ bộ vào Hà Tĩnh - Quảng Trị và gây mưa lớn cho khu vực miền Trung và miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516487+07:00",
+      "fetched": "2025-08-30T08:11:17.516599+07:00"
+    },
+    {
+      "id": "d091666611df4e7cca2afc4602d81054",
+      "title": "Vòng xuyến lạ nhất thế giới, tài xế không biết đi thế nào",
+      "link": "https://tuoitre.vn/vong-xuyen-la-nhat-the-gioi-tai-xe-khong-biet-di-the-nao-20250829160719483.htm",
+      "summary": "Không chỉ có hình thù kỳ lạ, vòng xuyến còn có tuổi thọ khá ngắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516364+07:00",
+      "fetched": "2025-08-30T08:11:17.516476+07:00"
+    },
+    {
+      "id": "c09c3c2683907ea0065b37efb6194b23",
+      "title": "Đảng Bhumjaithai và Đảng Nhân dân của Thái Lan đạt thỏa thuận thành lập chính phủ mới",
+      "link": "https://tuoitre.vn/dang-bhumjaithai-va-dang-nhan-dan-cua-thai-lan-dat-thoa-thuan-thanh-lap-chinh-phu-moi-20250830064856712.htm",
+      "summary": "Quyết định này nhằm chấm dứt bế tắc chính trị ở Thái Lan và mở đường cho trưng cầu ý dân nhằm sửa đổi Hiến pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516236+07:00",
+      "fetched": "2025-08-30T08:11:17.516353+07:00"
+    },
+    {
+      "id": "5aab0a65f7b8ef376483ff891418706d",
+      "title": "Xe thương hiệu 'cháy vé', vé máy bay tầm 2 triệu trở lên còn nhiều",
+      "link": "https://tuoitre.vn/xe-thuong-hieu-chay-ve-ve-may-bay-tam-2-trieu-tro-len-con-nhieu-20250829230205629.htm",
+      "summary": "Đại diện các bến xe lớn ở TP.HCM cho hay một số hãng xe thương hiệu lớn đã 'cháy vé' giường nằm về Lâm Đồng, Đắk Lắk, Khánh Hòa, An Giang…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.516086+07:00",
+      "fetched": "2025-08-30T08:11:17.516224+07:00"
+    },
+    {
+      "id": "87818083d4bcf86886cfa1fa638da68f",
+      "title": "Chăm mẹ mù lòa, làm 'vạn nghề' từ lớp 9, nữ sinh cao nguyên đậu Đại học Công nghiệp TP.HCM",
+      "link": "https://tuoitre.vn/cham-me-mu-loa-lam-van-nghe-tu-lop-9-nu-sinh-cao-nguyen-dau-dai-hoc-cong-nghiep-tp-hcm-20250830072337395.htm",
+      "summary": "18 tuổi, nữ sinh Nguyễn Thị Thanh Thu (xã Krông Bông, Đắk Lắk) gác nỗi lo cơm áo để bước vào giảng đường, với mong muốn vơi bớt gánh nặng cho cha mẹ, sớm thành điểm tựa tinh thần cho gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.515956+07:00",
+      "fetched": "2025-08-30T08:11:17.516075+07:00"
+    },
+    {
+      "id": "d72f2d53a3f0173380341fb06b2ab83a",
+      "title": "Tòa án Mỹ phán quyết nhiều mức thuế của ông Trump là bất hợp pháp",
+      "link": "https://tuoitre.vn/toa-an-my-phan-quyet-nhieu-muc-thue-cua-ong-trump-la-bat-hop-phap-20250830072817362.htm",
+      "summary": "Các mức thuế này vẫn sẽ có hiệu lực đến giữa tháng 10 nhằm mở đường cho vụ việc tiếp tục lên Tòa án Tối cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.515819+07:00",
+      "fetched": "2025-08-30T08:11:17.515944+07:00"
+    },
+    {
+      "id": "ea784d3fcf9075bf01eda39d68c1c97e",
+      "title": "Video 'drone thả bình ắc quy xuống ô tô' gây xôn xao chỉ là trò đùa?",
+      "link": "https://tuoitre.vn/video-drone-tha-binh-ac-quy-xuong-o-to-gay-xon-xao-chi-la-tro-dua-20250828095942399.htm",
+      "summary": "Một video quay cảnh drone thả bình ắc quy xuống ô tô đang đỗ khiến mạng xã hội xôn xao những ngày qua. Song trên thực tế, đây là trò đùa Cá tháng tư do một gara Mỹ dàn dựng cách đây 10 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:17.515622+07:00",
+      "fetched": "2025-08-30T08:11:17.515805+07:00"
+    },
     {
       "id": "1d69355f062c2116e949a645dc6fb43f",
       "title": "Thời tiết hôm nay 30-8: Áp thấp thành bão khi gần bờ, Bắc Bộ đến Đà Nẵng mưa rất to, Nam Bộ mưa to",
@@ -231,6 +381,446 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T01:21:53.049094+07:00",
       "fetched": "2025-08-30T01:21:53.049253+07:00"
+    },
+    {
+      "id": "a07ee5c78db93c821da5c2eb067dae39",
+      "title": "Công an TP.HCM bắt 9 người thuộc 2 nhà hàng vì bán 'bóng cười'",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-9-nguoi-thuoc-2-nha-hang-vi-ban-bong-cuoi-185250830074737725.htm",
+      "summary": "Công an TP.HCM vừa triệt phá, bắt tạm giam 9 người thuộc 2 nhà hàng trên địa bàn phường Sài Gòn và phường Cầu Ông Lãnh vì bán 'bóng cười'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:09:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396149+07:00"
+    },
+    {
+      "id": "fccbb0125d3801e873ebd48c97edf227",
+      "title": "Báo Mỹ ca ngợi những kiến trúc độc lạ ở Việt Nam",
+      "link": "https://thanhnien.vn/bao-my-ca-ngoi-nhung-kien-truc-doc-la-o-viet-nam-185250829140602952.htm",
+      "summary": "Mỗi tháng 10, khi dòng sông chảy qua Điện Phương (thuộc Điện Bàn, Quảng Nam cũ) dâng cao vì nước mưa, công nhân trong xưởng gốm lại dừng việc, di chuyển dụng cụ và đồ dùng, và chỉ quay lại khi nước rút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:01:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396338+07:00"
+    },
+    {
+      "id": "f7dd55334bef95dded6b4935da44f5b3",
+      "title": "Tự hào hàng Việt lan tỏa từ Co.opmart đến mọi nhà",
+      "link": "https://thanhnien.vn/tu-hao-hang-viet-lan-toa-tu-coopmart-den-moi-nha-185250829185345449.htm",
+      "summary": "Nhà bán lẻ thuần Việt lâu đời bậc nhất Việt Nam - Saigon Co.op - đã chính thức khởi động chương trình khuyến mãi và quảng bá hàng Việt lớn nhất trong năm mang tên 'Tự hào siêu thị Việt' tại hơn 800 điểm bán trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396496+07:00"
+    },
+    {
+      "id": "3c59c3f41751877b88120577bea7b18e",
+      "title": "Kim Soi với hành trình tái sinh rác vải",
+      "link": "https://thanhnien.vn/kim-soi-voi-hanh-trinh-tai-sinh-rac-vai-185250829180028489.htm",
+      "summary": "Bằng nghị lực vượt khó và sức sáng tạo, Trần Thị Kim Soi (36 tuổi) miệt mài thu gom vải vụn rồi biến chúng thành những phụ kiện thời trang, quà lưu niệm thu hút nhiều du khách khi đến Hội An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396647+07:00"
+    },
+    {
+      "id": "965da3ec62140fff8b7c60a569d4c38a",
+      "title": "Âm nhạc và hạnh phúc",
+      "link": "https://thanhnien.vn/am-nhac-va-hanh-phuc-185250828182244079.htm",
+      "summary": "\"Đi qua ngõ, nghe tiếng nhạc, biết có hiền nhân!\". Câu nói của cổ nhân luôn đúng trong mọi thời đại. Ở đâu có âm nhạc, ở đó có Chân - Thiện - Mỹ. Người đang chơi nhạc trong ngõ kia khó có thể là một kẻ ác. Một xóm có nhiều hiền nhân chơi đàn thì sự yên bình, hạnh phúc tỏa khắp thôn làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396802+07:00"
+    },
+    {
+      "id": "443932df98a5422cffc29eb90333c0a1",
+      "title": "Gam màu nâu trong veo, đẹp ngây ngất giữa trời thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/gam-mau-nau-trong-veo-dep-ngay-ngat-giua-troi-thu-185250828084640902.htm",
+      "summary": "Vẻ đẹp cổ điển của trang phục mang gam màu nâu đã quay trở lại mạnh mẽ trong tiết trời thu dịu ngọt. Nàng chính là cô gái dẫn đầu xu hướng khi chọn cho mình những thiết kế tông nâu trầm đẹp ngây ngất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T01:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.396961+07:00"
+    },
+    {
+      "id": "44fe18c1d2b07322fa0ebe9bd7de0b55",
+      "title": "Ông Kim Jong-un gặp gia đình các binh sĩ thiệt mạng tại Nga",
+      "link": "https://vnexpress.net/ong-kim-jong-un-gap-gia-dinh-cac-binh-si-thiet-mang-tai-nga-4933349.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un gặp gỡ, động viên gia đình các binh sĩ thiệt mạng khi được cử tham gia chiến đấu ở tỉnh Kursk của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T00:56:50+07:00",
+      "fetched": "2025-08-30T08:11:18.869815+07:00"
+    },
+    {
+      "id": "01219eca295d82e7ccd710db2bd123f4",
+      "title": "Nhà báo Nhật nói gì về A80?",
+      "link": "https://thanhnien.vn/nha-bao-nhat-noi-gi-ve-a80-185250830071009713.htm",
+      "summary": "Sự kiện kỷ niệm 80 năm Quốc khánh 2.9 và Cách mạng Tháng 8 không chỉ thu hút sự quan tâm của đông đảo nhân dân trong nước, mà còn ghi dấu ấn mạnh mẽ với sự hiện diện của nhiều cơ quan báo chí quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:56:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397116+07:00"
+    },
+    {
+      "id": "19cbf19548ad36ff8d3bd62b1a18c2df",
+      "title": "Nên chọn ổ flash USB hay ổ cứng ngoài để lưu trữ dữ liệu",
+      "link": "https://thanhnien.vn/nen-chon-o-flash-usb-hay-o-cung-ngoai-de-luu-tru-du-lieu-185250829180739393.htm",
+      "summary": "Khi tìm kiếm giải pháp lưu trữ ngoài, hai lựa chọn phổ biến nhất hiện được người dùng lựa chọn là ổ flash USB và ổ cứng ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:55:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397284+07:00"
+    },
+    {
+      "id": "0c25d8f65fd0416a43f22a652b11fc48",
+      "title": "Nguyễn Khắc Phục, nhà văn viết kịch bản Đại lễ 1.000 năm Thăng Long - Hà Nội",
+      "link": "https://thanhnien.vn/nguyen-khac-phuc-nha-van-viet-kich-ban-dai-le-1000-nam-thang-long-ha-noi-18525082923111688.htm",
+      "summary": "Trong sự nghiệp, nhà văn Nguyễn Khắc Phục (1947 - 2016), viết 12 tiểu thuyết, 12 kịch bản phim, 70 kịch bản sân khấu, hàng chục kịch bản lễ hội, trong đó có 2 kịch bản cho Đại lễ 1.000 năm Thăng Long - Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:52:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397439+07:00"
+    },
+    {
+      "id": "81c580b4a450c1b44094431476399711",
+      "title": "Hoa hậu Ngọc Châu nghẹn ngào khi nhắc về biến cố",
+      "link": "https://thanhnien.vn/hoa-hau-ngoc-chau-nghen-ngao-khi-nhac-ve-bien-co-18525083000455078.htm",
+      "summary": "Là khách mời của 'Mái ấm gia đình Việt', Ngọc Châu nghẹn ngào nhắc về biến cố mất người thân khi chứng kiến hoàn cảnh khó khăn của các em nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:51:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397586+07:00"
+    },
+    {
+      "id": "713af5763151a9f5a99d376c2752c17c",
+      "title": "Giá vàng thế giới tiếp tục tăng cao",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4933347.html",
+      "summary": "Lạm phát Mỹ nhích lên và bất ổn tại Fed khiến giá vàng tăng gần 30 USD trong phiên cuối tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:41:26+07:00",
+      "fetched": "2025-08-30T08:11:12.721041+07:00"
+    },
+    {
+      "id": "713af5763151a9f5a99d376c2752c17c",
+      "title": "Giá vàng thế giới tiếp tục tăng cao",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4933347.html",
+      "summary": "Lạm phát Mỹ nhích lên và bất ổn tại Fed khiến giá vàng tăng gần 30 USD trong phiên cuối tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T00:41:26+07:00",
+      "fetched": "2025-08-30T08:11:20.668034+07:00"
+    },
+    {
+      "id": "bf69b5cd1f55b0d256b62af3a487dd83",
+      "title": "Trung Quốc định tăng mua khí đốt Nga",
+      "link": "https://vnexpress.net/trung-quoc-dinh-tang-mua-khi-dot-nga-4933326.html",
+      "summary": "Trung Quốc đang tìm cách mua thêm khí đốt của Nga qua đường ống Power of Siberia 1 hiện có, theo nguồn tin của Reuters",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:41:00+07:00",
+      "fetched": "2025-08-30T08:11:12.721247+07:00"
+    },
+    {
+      "id": "229d85de4c88542bbde9bef2a2ce375c",
+      "title": "Trung Quốc dự định tăng mua khí đốt Nga",
+      "link": "https://vnexpress.net/trung-quoc-du-dinh-tang-mua-khi-dot-nga-4933326.html",
+      "summary": "Trung Quốc đang tính mua thêm khí đốt của Nga qua đường ống Power of Siberia 1 hiện có, theo nguồn tin của Reuters",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T00:41:00+07:00",
+      "fetched": "2025-08-30T08:11:20.668224+07:00"
+    },
+    {
+      "id": "148736908187837b1b49235a1392d305",
+      "title": "CEO DeepSeek, Huawei lọt top 100 người ảnh hưởng nhất giới AI",
+      "link": "https://vnexpress.net/ceo-deepseek-huawei-lot-top-100-nguoi-anh-huong-nhat-gioi-ai-4933042.html",
+      "summary": "Lãnh đạo một số công ty công nghệ Trung Quốc lần đầu vào danh sách 100 người ảnh hưởng nhất thế giới về AI do tạp chí Time bình chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:38:13+07:00",
+      "fetched": "2025-08-30T08:11:12.721429+07:00"
+    },
+    {
+      "id": "148736908187837b1b49235a1392d305",
+      "title": "CEO DeepSeek, Huawei lọt top 100 người ảnh hưởng nhất giới AI",
+      "link": "https://vnexpress.net/ceo-deepseek-huawei-lot-top-100-nguoi-anh-huong-nhat-gioi-ai-4933042.html",
+      "summary": "Lãnh đạo một số công ty công nghệ Trung Quốc lần đầu vào danh sách 100 người ảnh hưởng nhất thế giới về AI do tạp chí Time bình chọn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-30T00:38:13+07:00",
+      "fetched": "2025-08-30T08:11:24.304374+07:00"
+    },
+    {
+      "id": "d0eea8d55eede7e3b9370db2821a2d57",
+      "title": "Những công trình giao thông biểu tượng trong 80 năm qua",
+      "link": "https://vnexpress.net/nhung-cong-trinh-giao-thong-bieu-tuong-trong-80-nam-qua-4932791.html",
+      "summary": "Nhà ga T2 Nội Bài, T3 Tân Sơn Nhất, cầu Mỹ Thuận, hầm Hải Vân... là những công trình làm thay đổi diện mạo giao thông quốc gia, góp phần thúc đẩy kinh tế xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:30:18+07:00",
+      "fetched": "2025-08-30T08:11:12.721595+07:00"
+    },
+    {
+      "id": "b6e88db42b4771495e801c54eee5a400",
+      "title": "Phát sóng phim tài liệu Mùa thu khải hoàn dịp Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/phat-song-phim-tai-lieu-mua-thu-khai-hoan-dip-quoc-khanh-29-185250829224222953.htm",
+      "summary": "Phim tài liệu Mùa thu khải hoàn do TFS thực hiện không chỉ tái hiện những trang sử hào hùng qua các tư liệu, nhân chứng sống, mà còn truyền tải thông điệp ý nghĩa: \"Độc lập - tự do là khát vọng vĩnh hằng, là thành quả của biết bao thế hệ đã ngã xuống, để hôm nay chúng ta được sống trong hòa bình, th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:28:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397735+07:00"
+    },
+    {
+      "id": "2dde60406c848dbc22b2b6310033c9f9",
+      "title": "400 quả trứng và nhiều hoa quả miễn phí chia sẻ cho người xem diễu binh",
+      "link": "https://thanhnien.vn/400-qua-trung-va-nhieu-hoa-qua-mien-phi-chia-se-cho-nguoi-xem-dieu-binh-185250830063551598.htm",
+      "summary": "Không chỉ háo hức chờ đợi lễ diễu binh A80, nhiều người dân Hà Nội còn chọn cách góp sức rất riêng. Giữa phố Quán Thánh, một quán bún đậu đã tạm dừng bán hàng, biến thành điểm phát trà đá, hoa quả, trứng luộc miễn phí cho người dân, như một lời mời chan chứa yêu thương trong ngày đại lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:27:00+07:00",
+      "fetched": "2025-08-30T08:11:16.397891+07:00"
+    },
+    {
+      "id": "4b01334d409181ddc77cb67d420254a5",
+      "title": "Chuyện vạn dặm của nghìn xưa",
+      "link": "https://thanhnien.vn/chuyen-van-dam-cua-nghin-xua-185250829232211227.htm",
+      "summary": "Quá trình toàn cầu hóa từ cổ trung đại thường được diễn giải dựa trên các thư tịch, ghi chép của người phương Tây đến với phương Đông qua Con đường tơ lụa. Tuy nhiên, trong tàng thư phương Đông, đặc biệt là tại Trung Hoa, cũng có những ghi chép về \"thế giới bên ngoài\" mang lại một hình dung đa chiều...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:25:00+07:00",
+      "fetched": "2025-08-30T08:11:16.398043+07:00"
+    },
+    {
+      "id": "c2d41a51734ebf6ed5a7ae3e039920d5",
+      "title": "Tòa án Mỹ: Phần lớn thuế nhập khẩu của ông Trump bất hợp pháp",
+      "link": "https://vnexpress.net/toa-an-my-phan-lon-thue-nhap-khau-cua-ong-trump-bat-hop-phap-4933344.html",
+      "summary": "29/8, Tòa Phúc thẩm Liên bang khu vực Washington ra phán quyết phần lớn các mức thuế nhập khẩu của Tổng thống Mỹ Donald Trump là bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:07:32+07:00",
+      "fetched": "2025-08-30T08:11:12.721752+07:00"
+    },
+    {
+      "id": "c2d41a51734ebf6ed5a7ae3e039920d5",
+      "title": "Tòa án Mỹ: Phần lớn thuế nhập khẩu của ông Trump bất hợp pháp",
+      "link": "https://vnexpress.net/toa-an-my-phan-lon-thue-nhap-khau-cua-ong-trump-bat-hop-phap-4933344.html",
+      "summary": "29/8, Tòa Phúc thẩm Liên bang khu vực Washington ra phán quyết phần lớn các mức thuế nhập khẩu của Tổng thống Mỹ Donald Trump là bất hợp pháp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T00:07:32+07:00",
+      "fetched": "2025-08-30T08:11:20.668388+07:00"
+    },
+    {
+      "id": "5a2ed739a0a95ab06cfd14f13ec69a69",
+      "title": "Mỹ cắt gần 5 tỷ USD viện trợ nước ngoài",
+      "link": "https://vnexpress.net/my-cat-gan-5-ty-usd-vien-tro-nuoc-ngoai-4933336.html",
+      "summary": "Tổng thống Trump hủy 4,9 tỷ USD tiền viện trợ nước ngoài đã được quốc hội phê duyệt, động thái vấp phải phản ứng dữ dội của phe Dân chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:04:37+07:00",
+      "fetched": "2025-08-30T08:11:12.721906+07:00"
+    },
+    {
+      "id": "5a2ed739a0a95ab06cfd14f13ec69a69",
+      "title": "Mỹ cắt gần 5 tỷ USD viện trợ nước ngoài",
+      "link": "https://vnexpress.net/my-cat-gan-5-ty-usd-vien-tro-nuoc-ngoai-4933336.html",
+      "summary": "Tổng thống Trump hủy 4,9 tỷ USD tiền viện trợ nước ngoài đã được quốc hội phê duyệt, động thái vấp phải phản ứng dữ dội của phe Dân chủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T00:04:37+07:00",
+      "fetched": "2025-08-30T08:11:18.869986+07:00"
+    },
+    {
+      "id": "92fbabc43d7b099c2d311f42753b001a",
+      "title": "'Tri thức, sáng tạo và công nghệ là nguồn lực sản xuất quan trọng nhất'",
+      "link": "https://vnexpress.net/tri-thuc-sang-tao-va-cong-nghe-la-nguon-luc-san-xuat-quan-trong-nhat-4933341.html",
+      "summary": "Việt Nam đang bước vào giai đoạn mới, thời đại của AI, dữ liệu lớn, năng lượng xanh và kinh tế số, thời đại tri thức, sáng tạo và công nghệ là nguồn lực sản xuất quan trọng nhất, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:00:00+07:00",
+      "fetched": "2025-08-30T08:11:12.722064+07:00"
+    },
+    {
+      "id": "4efaecf88ff9358d2df26d6f2b993003",
+      "title": "Joseph Joseph bắt tay XPO Logistics quản lý hậu cần tại Anh",
+      "link": "https://vnexpress.net/joseph-joseph-bat-tay-xpo-logistics-quan-ly-hau-can-tai-anh-4929475.html",
+      "summary": "Thương hiệu đồ gia dụng lựa chọn XPO làm đối tác dài hạn, phụ trách quản lý kho bãi, hoàn tất đơn hàng và phân phối từ trung tâm logistics tại Rugby, Northamptonshire.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:00:00+07:00",
+      "fetched": "2025-08-30T08:11:12.722246+07:00"
+    },
+    {
+      "id": "e8181b9fa4a93836b70d0ebf4f68ffdb",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 30.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3082025-185250829232641151.htm",
+      "summary": "Tin tức Từ con chữ đến khát vọng tri thức số, Chính thức hóa \"kinh tế ngầm\" để thúc đẩy phát triển, Người Mỹ đối mặt làn sóng hủy đơn hàng… có thể đón xem trên Báo Thanh Niên số ra ngày 30.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.398215+07:00"
+    },
+    {
+      "id": "95b0ace9794b209346f84150fdcc534b",
+      "title": "'Chim công làng múa' Linh Nga rạng rỡ trong thiết kế áo dài của Thủy Nguyễn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chim-cong-lang-mua-linh-nga-rang-ro-trong-thiet-ke-ao-dai-cua-thuy-nguyen-185250829174304195.htm",
+      "summary": "Ở độ tuổi U.40, 'chim công làng múa' vẫn giữ được vẻ tươi trẻ và làm 'nàng thơ' cho bộ sưu tập của nhà thiết kế Thủy Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T00:00:00+07:00",
+      "fetched": "2025-08-30T08:11:16.398377+07:00"
+    },
+    {
+      "id": "92fbabc43d7b099c2d311f42753b001a",
+      "title": "'Tri thức, sáng tạo và công nghệ là nguồn lực sản xuất quan trọng nhất'",
+      "link": "https://vnexpress.net/tri-thuc-sang-tao-va-cong-nghe-la-nguon-luc-san-xuat-quan-trong-nhat-4933341.html",
+      "summary": "Việt Nam đang bước vào giai đoạn mới, thời đại của AI, dữ liệu lớn, năng lượng xanh và kinh tế số, thời đại tri thức, sáng tạo và công nghệ là nguồn lực sản xuất quan trọng nhất, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-30T00:00:00+07:00",
+      "fetched": "2025-08-30T08:11:24.304195+07:00"
+    },
+    {
+      "id": "1af116cec1b32f21fc83d2b24b7d7f80",
+      "title": "Ông Trump rút đặc quyền an ninh của bà Harris",
+      "link": "https://vnexpress.net/ong-trump-rut-dac-quyen-an-ninh-cua-ba-harris-4933339.html",
+      "summary": "Tổng thống Trump thu hồi quyền được Mật vụ bảo vệ dành cho cựu phó tổng thống Harris, người từng đối đầu với ông trong tranh cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:52:26+07:00",
+      "fetched": "2025-08-30T08:11:12.722403+07:00"
+    },
+    {
+      "id": "1af116cec1b32f21fc83d2b24b7d7f80",
+      "title": "Ông Trump rút đặc quyền an ninh của bà Harris",
+      "link": "https://vnexpress.net/ong-trump-rut-dac-quyen-an-ninh-cua-ba-harris-4933339.html",
+      "summary": "Tổng thống Trump thu hồi quyền được Mật vụ bảo vệ dành cho cựu phó tổng thống Harris, người từng đối đầu với ông trong tranh cử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T23:52:26+07:00",
+      "fetched": "2025-08-30T08:11:18.870148+07:00"
+    },
+    {
+      "id": "5865d275500ee3b1a94e00e321b8795b",
+      "title": "Kỳ thủ bị tước danh hiệu Đại kiện tướng vì gian lận trong toilet",
+      "link": "https://vnexpress.net/ky-thu-bi-tuoc-danh-hieu-dai-kien-tuong-vi-gian-lan-trong-toilet-4933301.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) ngày 29/8 ra quyết định cuối cùng về vụ gian lận của Kirill Shevchenko, tước danh hiệu Đại kiện tướng và cấm thi đấu ba năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:42:30+07:00",
+      "fetched": "2025-08-30T08:11:12.722560+07:00"
+    },
+    {
+      "id": "5865d275500ee3b1a94e00e321b8795b",
+      "title": "Kỳ thủ bị tước danh hiệu Đại kiện tướng vì gian lận trong toilet",
+      "link": "https://vnexpress.net/ky-thu-bi-tuoc-danh-hieu-dai-kien-tuong-vi-gian-lan-trong-toilet-4933301.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) ngày 29/8 ra quyết định cuối cùng về vụ gian lận của Kirill Shevchenko, tước danh hiệu Đại kiện tướng và cấm thi đấu ba năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T23:42:30+07:00",
+      "fetched": "2025-08-30T08:11:25.402222+07:00"
+    },
+    {
+      "id": "a88d19ca9e07f09cd1cda7dae9e49a03",
+      "title": "Arteta quyết phá dớp 13 năm không thắng tại Anfield",
+      "link": "https://vnexpress.net/arteta-quyet-pha-dop-13-nam-khong-thang-tai-anfield-4933329.html",
+      "summary": "Trước trận cầu tâm điểm vòng ba Ngoại hạng Anh, HLV Mikel Arteta quyết tâm cùng Arsenal giải cơn khát thắng trên sân của Liverpool kể từ năm 2012.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:38:00+07:00",
+      "fetched": "2025-08-30T08:11:12.722710+07:00"
+    },
+    {
+      "id": "a88d19ca9e07f09cd1cda7dae9e49a03",
+      "title": "Arteta quyết phá dớp 13 năm không thắng tại Anfield",
+      "link": "https://vnexpress.net/arteta-quyet-pha-dop-13-nam-khong-thang-tai-anfield-4933329.html",
+      "summary": "Trước trận cầu tâm điểm vòng ba Ngoại hạng Anh, HLV Mikel Arteta quyết tâm cùng Arsenal giải cơn khát thắng trên sân của Liverpool kể từ năm 2012.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T23:38:00+07:00",
+      "fetched": "2025-08-30T08:11:25.402719+07:00"
+    },
+    {
+      "id": "da15e77a0c09e1ae6beea0b9f6814f0d",
+      "title": "Tìm thấy hài cốt liệt sĩ cùng vòng tay ký hiệu 'SH-18-15X'",
+      "link": "https://vnexpress.net/tim-thay-hai-cot-liet-si-cung-vong-tay-ky-hieu-sh-18-15x-4933222.html",
+      "summary": "Trong 10 hài cốt liệt sĩ được tìm thấy ở Khe Sanh có một hài cốt cùng di vật kèm theo là biển đeo tay làm bằng nhôm với ký hiệu 'SH-18-15X'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:36:23+07:00",
+      "fetched": "2025-08-30T08:11:12.722874+07:00"
+    },
+    {
+      "id": "daef6a2c23ec1b9cae176001ee414bd7",
+      "title": "Trent Alexander-Arnold bị loại khỏi tuyển Anh",
+      "link": "https://vnexpress.net/trent-alexander-arnold-bi-loai-khoi-tuyen-anh-4933340.html",
+      "summary": "Hậu vệ phải Trent Alexander-Arnold không được HLV Thomas Tuchel triệu tập lên tuyển Anh, chỉ vài ngày sau khi mất suất đá chính tại Real Madrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:33:25+07:00",
+      "fetched": "2025-08-30T08:11:12.723029+07:00"
+    },
+    {
+      "id": "daef6a2c23ec1b9cae176001ee414bd7",
+      "title": "Trent Alexander-Arnold bị loại khỏi tuyển Anh",
+      "link": "https://vnexpress.net/trent-alexander-arnold-bi-loai-khoi-tuyen-anh-4933340.html",
+      "summary": "Hậu vệ phải Trent Alexander-Arnold không được HLV Thomas Tuchel triệu tập lên tuyển Anh, chỉ vài ngày sau khi mất suất đá chính tại Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T23:33:25+07:00",
+      "fetched": "2025-08-30T08:11:25.402874+07:00"
+    },
+    {
+      "id": "06a8a6ca492e5290628cd946855382f1",
+      "title": "Trung Quốc thử nghiệm turbine gió 1 MW bay lơ lửng",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-turbine-gio-1-mw-bay-lo-lung-4933196.html",
+      "summary": "Trung Quốc đang chuẩn bị cho thử nghiệm bay của một hệ thống phát điện trên không có hình dáng giống khí cầu và sản xuất điện giống turbine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:32:01+07:00",
+      "fetched": "2025-08-30T08:11:12.723198+07:00"
+    },
+    {
+      "id": "06a8a6ca492e5290628cd946855382f1",
+      "title": "Trung Quốc thử nghiệm turbine gió 1 MW bay lơ lửng",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-turbine-gio-1-mw-bay-lo-lung-4933196.html",
+      "summary": "Trung Quốc đang chuẩn bị cho thử nghiệm bay của một hệ thống phát điện trên không có hình dáng giống khí cầu và sản xuất điện giống turbine.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-29T23:32:01+07:00",
+      "fetched": "2025-08-30T08:11:24.304536+07:00"
+    },
+    {
+      "id": "40fadea43fab1b5f59447b441ac21be9",
+      "title": "Hàng quán mở xuyên đêm phục vụ khách xem tổng duyệt diễu binh",
+      "link": "https://vnexpress.net/hang-quan-mo-xuyen-dem-phuc-vu-khach-xem-tong-duyet-dieu-binh-4933315.html",
+      "summary": "Nhiều hàng quán nằm dọc các tuyến đường có đoàn diễu binh đi qua hay khu vực tập kết mở bán xuyên đêm, tăng lượng đồ ăn và nhân viên phục vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:31:04+07:00",
+      "fetched": "2025-08-30T08:11:12.723355+07:00"
+    },
+    {
+      "id": "a6f9e0f1db5f3b5dcb4bdb32e06e421e",
+      "title": "Runner Hà Lan toàn thắng 30 lần chạy tại Diamond League",
+      "link": "https://vnexpress.net/runner-ha-lan-toan-thang-30-lan-chay-tai-diamond-league-4933331.html",
+      "summary": "Femke Bol tiếp tục thống trị tại nội dung 400m rào nữ khi giành chiến thắng thứ 30 liên tiếp ở hệ thống Diamond League, bỏ xa chuỗi thắng của \"Vua nhảy sào\" Mondo Duplantis.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T23:09:18+07:00",
+      "fetched": "2025-08-30T08:11:25.403201+07:00"
+    },
+    {
+      "id": "944699145c18b1fecf3dc284292c245f",
+      "title": "Alcaraz vào vòng 1/8 Mỹ Mở rộng dù đau gối",
+      "link": "https://vnexpress.net/alcaraz-vao-vong-1-8-my-mo-rong-du-dau-goi-4933335.html",
+      "summary": "Lần đầu phải thi đấu vào khung giờ sớm nhất và bị đau gối phải, nhưng Carlos Alcaraz vẫn thắng Luciano Darderi 6-2, 6-4, 6-0 sau 1 giờ 44 phút ở vòng ba Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T23:00:56+07:00",
+      "fetched": "2025-08-30T08:11:25.403027+07:00"
     },
     {
       "id": "2d55e204088092fb1ff73fdcbd75070e",
