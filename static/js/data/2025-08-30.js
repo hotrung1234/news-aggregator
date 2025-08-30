@@ -1,7 +1,157 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T13:21:09.532023+07:00",
+  "lastUpdated": "2025-08-30T15:18:58.989520+07:00",
   "articles": [
+    {
+      "id": "6743057b55c4b65f0438fd207c75ee3e",
+      "title": "Từ hôm nay tặng mỗi người dân 100.000 đồng nhân 80 năm Quốc khánh",
+      "link": "https://tuoitre.vn/tu-hom-nay-tang-moi-nguoi-dan-100-000-dong-nhan-80-nam-quoc-khanh-20250830133535535.htm",
+      "summary": "Nhân dịp kỷ niệm 80 năm Quốc khánh 2-9, chủ hộ sẽ nhận quà tặng 100.000 đồng của Chính phủ qua ứng dụng VNeID hoặc nhận trực tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.334138+07:00",
+      "fetched": "2025-08-30T15:18:51.334273+07:00"
+    },
+    {
+      "id": "f1dcc53e8be982131358a7df7124e4fd",
+      "title": "Ý chí hào hùng và khát vọng phát triển của dân tộc",
+      "link": "https://tuoitre.vn/y-chi-hao-hung-va-khat-vong-phat-trien-cua-dan-toc-20250830075035697.htm",
+      "summary": "80 năm trước, trên quảng trường Ba Đình, Chủ tịch Hồ Chí Minh trịnh trọng đọc Tuyên ngôn khai sinh nước Việt Nam dân chủ cộng hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.334015+07:00",
+      "fetched": "2025-08-30T15:18:51.334127+07:00"
+    },
+    {
+      "id": "1bbeaf064020329ea6f3eea77b5a2c4a",
+      "title": "Hình ảnh hùng tráng tổng duyệt diễu binh, diễu hành mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/hinh-anh-hung-trang-tong-duyet-dieu-binh-dieu-hanh-mung-quoc-khanh-2-9-20250830115924781.htm",
+      "summary": "Buổi tổng duyệt diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9 tại quảng trường Ba Đình, Hà Nội sáng 30-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333893+07:00",
+      "fetched": "2025-08-30T15:18:51.334004+07:00"
+    },
+    {
+      "id": "dfd85e6150f1731b7d2b19a14fc4e42f",
+      "title": "Muôn kiểu dịch vụ, bán hàng tự phát 'hét giá', người dân xem diễu binh bấm bụng chi tiền",
+      "link": "https://tuoitre.vn/muon-kieu-dich-vu-ban-hang-tu-phat-het-gia-nguoi-dan-xem-dieu-binh-bam-bung-chi-tien-20250830133821566.htm",
+      "summary": "Nhiều dịch vụ, mặt hàng tự phát tăng gấp đôi, gấp ba khiến người dân 'chóng mặt' nhưng vẫn phải bấm bụng chi tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333769+07:00",
+      "fetched": "2025-08-30T15:18:51.333882+07:00"
+    },
+    {
+      "id": "bb989a099417d16cc0954a6b667b5dee",
+      "title": "Tỉ lệ sinh giảm, trường tiểu học ở Thượng Hải có giáo viên nhiều hơn học sinh",
+      "link": "https://tuoitre.vn/ti-le-sinh-giam-truong-tieu-hoc-o-thuong-hai-co-giao-vien-nhieu-hon-hoc-sinh-20250830141914669.htm",
+      "summary": "Hiện trường chỉ có 22 em học sinh, trong khi số lượng giáo viên là 23 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333644+07:00",
+      "fetched": "2025-08-30T15:18:51.333757+07:00"
+    },
+    {
+      "id": "89ea5d64ebfd5ec9ac24d9c72d812b69",
+      "title": "Vượt tiến độ đại tu các tổ máy thủy điện trên sông Vu Gia",
+      "link": "https://tuoitre.vn/vuot-tien-do-dai-tu-cac-to-may-thuy-dien-tren-song-vu-gia-20250830142922091.htm",
+      "summary": "Vào lúc 20h50 ngày 28-8, Tổ máy H2 (nhà máy thủy điện Sông Bung 2) đã chính thức phát điện trở lại sau gần 28 ngày tạm dừng để sửa chữa lớn, vượt tiến độ 2 ngày. Trước đó Tổ máy H1 của thủy điện Sông Bung 4 cũng đã hoàn tất vượt tiến độ 2 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333519+07:00",
+      "fetched": "2025-08-30T15:18:51.333633+07:00"
+    },
+    {
+      "id": "699461414f74fa7e51c990333031c898",
+      "title": "Khởi tố giám đốc công ty ở Đà Nẵng mua hàng chục hóa đơn giá trị gia tăng khống",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-cong-ty-o-da-nang-mua-hang-chuc-hoa-don-gia-tri-gia-tang-khong-20250830142429493.htm",
+      "summary": "Phúc đã trực tiếp liên hệ, đặt mua tổng cộng 21 tờ hóa đơn giá trị gia tăng khống, không kèm theo hàng hóa hay dịch vụ thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333386+07:00",
+      "fetched": "2025-08-30T15:18:51.333507+07:00"
+    },
+    {
+      "id": "4f96f815ad096fc5a44486423918b7aa",
+      "title": "'Nhà tôi có treo một lá cờ' gây sốt, Hà Anh Tuấn hạnh phúc",
+      "link": "https://tuoitre.vn/nha-toi-co-treo-mot-la-co-gay-sot-ha-anh-tuan-hanh-phuc-20250830142111872.htm",
+      "summary": "Màn biểu diễn của ca sĩ Hà Anh Tuấn và nhóm múa cùng hình ảnh cờ Tổ quốc 4 đưa ca khúc 'Nhà tôi có treo một lá cờ' đến với khán giả cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333246+07:00",
+      "fetched": "2025-08-30T15:18:51.333374+07:00"
+    },
+    {
+      "id": "287ea38f2bba133b90dd7386307008c0",
+      "title": "Nhận 200 triệu 'chạy án', cán bộ tòa đút túi 170 triệu, 'trả công' thẩm phán 30 triệu",
+      "link": "https://tuoitre.vn/nhan-200-trieu-chay-an-can-bo-toa-dut-tui-170-trieu-tra-cong-tham-phan-30-trieu-20250829183544681.htm",
+      "summary": "Bà Nguyễn Thị Nga, cán bộ TAND cấp cao tại Đà Nẵng, nhận 200 triệu đồng để 'lo' cho đương sự, sau đó đưa cho thẩm phán xét đơn 30 triệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.333106+07:00",
+      "fetched": "2025-08-30T15:18:51.333220+07:00"
+    },
+    {
+      "id": "5c7099d891312e97453f2a958b9f76d8",
+      "title": "Sabeco khẳng định vị thế thương hiệu tại triển lãm thành tựu đất nước",
+      "link": "https://tuoitre.vn/sabeco-khang-dinh-vi-the-thuong-hieu-tai-trien-lam-thanh-tuu-dat-nuoc-20250829190653957.htm",
+      "summary": "Triển lãm thành tựu đất nước 2025 khai mạc tại Hà Nội thu hút đông đảo khách tham quan từ khắp mọi miền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332980+07:00",
+      "fetched": "2025-08-30T15:18:51.333094+07:00"
+    },
+    {
+      "id": "3a706ac0317ba9e91cb470419a1b0930",
+      "title": "Viettel Money hướng dẫn nhận tiền trợ cấp an sinh xã hội trên VNeID",
+      "link": "https://tuoitre.vn/viettel-money-huong-dan-nhan-tien-tro-cap-an-sinh-xa-hoi-tren-vneid-20250830133631929.htm",
+      "summary": "Ngày 28-8, Thủ tướng ban hành công điện số 149/CĐ-TTg về việc tặng mỗi người dân 100.000 đồng nhân dịp kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332853+07:00",
+      "fetched": "2025-08-30T15:18:51.332968+07:00"
+    },
+    {
+      "id": "0ac4783e4dba7210114e82df65fa5f0b",
+      "title": "Love World phát động ‘tháng tự hào’",
+      "link": "https://tuoitre.vn/love-world-phat-dong-thang-tu-hao-20250830134304722.htm",
+      "summary": "Hòa trong không khí hân hoan chào mừng đại lễ, Công ty cổ phần tập đoàn Love World đã phát động ‘tháng tự hào’ với nhiều hoạt động ý nghĩa thể hiện tinh thần tự hào dân tộc và lòng biết ơn sâu sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332724+07:00",
+      "fetched": "2025-08-30T15:18:51.332842+07:00"
+    },
+    {
+      "id": "d6bc66088ca0aeaabe3406c0807362db",
+      "title": "Ukraine tấn công thêm 2 nhà máy lọc dầu ở Nga",
+      "link": "https://tuoitre.vn/ukraine-tan-cong-them-2-nha-may-loc-dau-o-nga-20250830143815427.htm",
+      "summary": "Quân đội Ukraine tuyên bố đã tấn công hai nhà máy lọc dầu Krasnodar và Syzran của Nga trong đêm 29-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332590+07:00",
+      "fetched": "2025-08-30T15:18:51.332712+07:00"
+    },
+    {
+      "id": "dddd83a3d8d12929da64f3d54bac53fb",
+      "title": "Bão Nongfa sắp đổ bộ Hà Tĩnh - Quảng Trị, đề phòng gió giật cấp 10-11",
+      "link": "https://tuoitre.vn/bao-nongfa-sap-do-bo-ha-tinh-quang-tri-de-phong-gio-giat-cap-10-11-20250830142049814.htm",
+      "summary": "Dự báo chiều tối nay 30-8, bão Nongfa (bão số 6) đổ bộ vào đất liền Hà Tĩnh - bắc Quảng Trị, người dân đề phòng gió bão giật cấp 10-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332447+07:00",
+      "fetched": "2025-08-30T15:18:51.332577+07:00"
+    },
+    {
+      "id": "99d91ccf09aa56580b8fefebad6661e7",
+      "title": "Lễ đi cao tốc TP.HCM - Long Thành - Dầu Giây sao để tránh kẹt xe?",
+      "link": "https://tuoitre.vn/le-di-cao-toc-tp-hcm-long-thanh-dau-giay-sao-de-tranh-ket-xe-20250830144032364.htm",
+      "summary": "Cơ quan chức năng, đơn vị quản lý đã lên kịch bản phân luồng từ xa và xử lý sự cố trên tuyến để giảm kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T15:18:51.332205+07:00",
+      "fetched": "2025-08-30T15:18:51.332432+07:00"
+    },
     {
       "id": "b31b89602041aacc73600af98df901c2",
       "title": "Đổi mới thể chế để đất nước vươn mình",
@@ -303,6 +453,16 @@ window.newsData_2025_08_30 = {
       "fetched": "2025-08-30T09:54:05.626131+07:00"
     },
     {
+      "id": "9f8fe9967656900310748d48b1020a68",
+      "title": "Uy lực từ dàn khí tài quân sự trong lễ tổng duyệt diễu binh A80",
+      "link": "https://thanhnien.vn/uy-luc-tu-dan-khi-tai-quan-su-trong-le-tong-duyet-dieu-binh-a80-185250830125810471.htm",
+      "summary": "Hùng dũng tiến qua lễ đài và diễu trên phố phường Hà Nội trong tổng duyệt diễu binh A80 sáng nay 30.8, dàn vũ khí, khí tài của Quân đội nhân dân Việt Nam thực sự toát lên sức mạnh và uy lực quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:15:00+07:00",
+      "fetched": "2025-08-30T15:18:50.131673+07:00"
+    },
+    {
       "id": "72347c5e1fd0daf05b176b7b4cd0061b",
       "title": "Ngôi nhà miễn phí dành cho cựu chiến binh nghỉ ngơi khi về thủ đô xem diễu binh",
       "link": "https://tuoitre.vn/ngoi-nha-mien-phi-danh-cho-cuu-chien-binh-nghi-ngoi-khi-ve-thu-do-xem-dieu-binh-20250830060151957.htm",
@@ -451,6 +611,346 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T08:11:17.515622+07:00",
       "fetched": "2025-08-30T08:11:17.515805+07:00"
+    },
+    {
+      "id": "646faa2248fed92eb90b86fcc26be305",
+      "title": "Techcombank trong mùa đại lễ: Tự hào sống cùng thời khắc lịch sử",
+      "link": "https://thanhnien.vn/techcombank-trong-mua-dai-le-tu-hao-song-cung-thoi-khac-lich-su-185250830142720945.htm",
+      "summary": "Những ngày cuối tháng Tám, đồng hành cùng chuỗi sự kiện văn hóa, nghệ thuật và triển lãm quốc gia nhân kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 (1945 - 2025), Techcombank đã có một mùa đại lễ đầy cảm xúc, lan tỏa tinh thần ‘vượt trội hơn mỗi ngày’, cùng cả nước viết tiếp câu chuyện hòa b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:11:00+07:00",
+      "fetched": "2025-08-30T15:18:50.131843+07:00"
+    },
+    {
+      "id": "148e43b065f5fe07c4a56e453064aca8",
+      "title": "Vàng trong nước đắt hơn thế giới 23 triệu- 25 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/vang-trong-nuoc-dat-hon-the-gioi-23-trieu-25-trieu-dong-mot-luong-185250830145907564.htm",
+      "summary": "Vàng miếng SJC ngày 30.8 rao bán trên các diễn đàn lên mức kỷ lục 133 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:10:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132001+07:00"
+    },
+    {
+      "id": "4551407be0b955a0465b8081dd2d322d",
+      "title": "Mở rộng kết nối khu vực, Vietjet mở bán vé bay thẳng giữa TP.HCM và Manila (Philippines)",
+      "link": "https://thanhnien.vn/mo-rong-ket-noi-khu-vuc-vietjet-mo-ban-ve-bay-thang-giua-tphcm-va-manila-philippines-185250830143616991.htm",
+      "summary": "Vietjet mở bán vé trên đường bay thẳng kết nối kết TP.HCM, Việt Nam với thủ đô Manila, Philippines. Đường bay TP.HCM - Manila bắt đầu phục vụ hành khách từ ngày 22.11.2025 với 5 chuyến khứ hồi mỗi tuần, tiếp tục mang tới cơ hội di chuyển thuận tiện giữa hai thành phố, hai trung tâm kinh tế năng động...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:09:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132156+07:00"
+    },
+    {
+      "id": "265a96ff1286f4366c08b11a8fd6c7b7",
+      "title": "Chiếu miễn phí phim ‘Mưa đỏ’ tri ân liệt sĩ Thành cổ Quảng Trị và người dân",
+      "link": "https://thanhnien.vn/chieu-mien-phi-phim-mua-do-tri-an-liet-si-thanh-co-quang-tri-va-nguoi-dan-18525083009315091.htm",
+      "summary": "Điện ảnh Quân đội nhân dân sẽ tổ chức chiếu miễn phí bộ phim 'Mưa đỏ' tại Thành cổ Quảng Trị và rạp phim để tri ân các anh hùng liệt sĩ và cám ơn người dân đã cho đoàn phim mượn đất làm phim trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:05:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132329+07:00"
+    },
+    {
+      "id": "1612aed6bd70a7be89b0b72236d04af9",
+      "title": "Chưa kịp nhận quà 100.000 đồng trước Quốc khánh, người dân có thể làm theo hướng dẫn sau",
+      "link": "https://thanhnien.vn/chua-kip-nhan-qua-100000-dong-truoc-quoc-khanh-nguoi-dan-co-185250830150007752.htm",
+      "summary": "Nếu không kịp nhận quà 100.000 đồng trước Quốc khánh, người dân vẫn có thể nhận quà sau nhưng không quá ngày 15.9.2025, với điều kiện phải tuân thủ quy trình và xuất trình các giấy tờ hợp lệ như căn cước công dân hoặc giấy ủy quyền hợp pháp nếu nhận thay cho người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:04:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132481+07:00"
+    },
+    {
+      "id": "a46e2628d4ab3b0fa29806b41886c87d",
+      "title": "Vươn lên từ khó khăn để mang vinh quang về cho Tổ quốc",
+      "link": "https://thanhnien.vn/vuon-len-tu-kho-khan-de-mang-vinh-quang-ve-cho-to-quoc-185250828192738392.htm",
+      "summary": "Không chỉ giành Huy chương vàng Olympic Vật lý quốc tế, Thân Thế Công (cựu học sinh Trường THPT chuyên Bắc Giang cũ) còn là biểu tượng của trí tuệ, bản lĩnh và niềm tự hào Việt Nam trong hành trình vươn ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:00:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132628+07:00"
+    },
+    {
+      "id": "223c85979636a525e5d9995648ba134f",
+      "title": "Lớp dạy tiếng Anh vui hè",
+      "link": "https://thanhnien.vn/lop-day-tieng-anh-vui-he-1852508181033545.htm",
+      "summary": "Sáng ngày 8.7, tại Văn phòng Khu phố 19, phường Trung Mỹ Tây, TP.HCM, đội hình 'Vì đàn em' đã tổ chức lớp dạy tiếng Anh cho các em thiếu nhi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T08:00:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132782+07:00"
+    },
+    {
+      "id": "ba056796fc1056527f65a2461ba0cae2",
+      "title": "Nutifood rót thêm 6.000 tỷ mở rộng trang trại Gia Lai",
+      "link": "https://vnexpress.net/nutifood-rot-them-6-000-ty-mo-rong-trang-trai-gia-lai-4933466.html",
+      "summary": "Sau khi đầu tư 4.500 tỷ đồng vào trang trại - nhà máy Gia Lai, Nutifood rót thêm 6.000 tỷ để nâng quy mô đàn bò, diện tích đồng cỏ và công suất nhà máy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T08:00:00+07:00",
+      "fetched": "2025-08-30T15:18:54.380575+07:00"
+    },
+    {
+      "id": "bf32990c3fc20e59434ef1b2bd93e78b",
+      "title": "Nhà máy sản xuất điện từ nước biển đầu tiên ở châu Á",
+      "link": "https://vnexpress.net/nha-may-san-xuat-dien-tu-nuoc-bien-dau-tien-o-chau-a-4932688.html",
+      "summary": "Nhà máy điện ở Fukuoka, Nhật Bản, sử dụng năng lượng thẩm thấu để sản xuất điện, giúp vận hành cơ sở khử mặn trong thành phố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-30T08:00:00+07:00",
+      "fetched": "2025-08-30T15:18:57.064705+07:00"
+    },
+    {
+      "id": "f71bdc5d269808fec1f3cdfa52c9f4d1",
+      "title": "Hà Nội: Cháy bãi xe gần chân cầu Vĩnh Tuy, khói đen bốc cuồn cuộn",
+      "link": "https://thanhnien.vn/ha-noi-chay-bai-xe-gan-chan-cau-vinh-tuy-khoi-den-boc-cuon-cuon-185250830143059537.htm",
+      "summary": "Một vụ cháy lớn đã xảy ra tại bãi gửi xe gần chân cầu Vĩnh Tuy (Hà Nội). Khói đen bốc lên cuồn cuộn khiến nhiều người hoảng hốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:59:00+07:00",
+      "fetched": "2025-08-30T15:18:50.132932+07:00"
+    },
+    {
+      "id": "fbe6bbe8888bc421e517222307ccec9c",
+      "title": "Billiards: Dương Quốc Hoàng giành suất đặc cách để bảo vệ ngôi vương Reyes Cup?",
+      "link": "https://thanhnien.vn/billiards-duong-quoc-hoang-gianh-suat-dac-cach-de-bao-ve-ngoi-vuong-reyes-cup-185250830143917967.htm",
+      "summary": "Ba tấm vé đầu tiên của đội châu Á tranh tài tại giải billiards pool đồng đội danh giá Reyes Cup khó tuột khỏi tay của Carlo Biado, Aloysius Yapp và Johann Chua. Trong khi đó, Dương Quốc Hoàng có cơ hội để giành 1 trong 2 suất đặc cách còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:54:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133079+07:00"
+    },
+    {
+      "id": "2e873a893c871d40827974c0cacc7657",
+      "title": "Bão số 6 đổ bộ Hà Tĩnh-Quảng Trị chiều tối nay, cảnh báo mưa rất lớn; thời tiết ngày Quốc khánh sẽ đẹp",
+      "link": "https://thanhnien.vn/bao-so-6-do-bo-ha-tinh-quang-tri-chieu-toi-nay-canh-bao-mua-rat-lon-thoi-tiet-ngay-quoc-khanh-se-dep-185250830144552857.htm",
+      "summary": "Cơn bão số 6 đang tiến gần đất liền các tỉnh từ nam Hà Tĩnh đến bắc Quảng Trị, dự báo gây mưa rất lớn và gió mạnh, đặc biệt trong chiều tối nay 30.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:45:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133244+07:00"
+    },
+    {
+      "id": "f654ba4f2ef99f12b9e91ba4d5943515",
+      "title": "Sắp đổ bộ vào đất liền, bão số 6 gây mưa lớn đến 400mm",
+      "link": "https://thanhnien.vn/sap-do-bo-vao-dat-lien-bao-so-6-gay-mua-lon-den-400mm-185250830142707841.htm",
+      "summary": "Bão số 6 sắp đổ bộ vào đất liền, dự báo khu vực từ Thanh Hóa đến Quảng Trị tiếp tục có mưa lớn kéo dài đến hết ngày 31.8, có nơi lượng mưa lên đến trên 400mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:42:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133412+07:00"
+    },
+    {
+      "id": "93c92969c2e40440889768873d5e4c1a",
+      "title": "HAGL chưa ghi nổi bàn nào tại V-League 2025-2026: Vì đâu nên nỗi?",
+      "link": "https://thanhnien.vn/hagl-chua-ghi-noi-ban-nao-tai-v-league-2025-2026-vi-dau-nen-noi-185250829155958055.htm",
+      "summary": "Qua 3 vòng đấu đầu tiên tại V-League mùa giải này, HAGL chưa ghi được bàn thắng nào. Họ là đội bóng duy nhất chưa chọc thủng lưới đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:42:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133562+07:00"
+    },
+    {
+      "id": "1d0b30c9e1a35674007554bdb3876607",
+      "title": "25 tuổi, một góc cà phê, một người để thương",
+      "link": "https://vnexpress.net/25-tuoi-mot-goc-ca-phe-mot-nguoi-de-thuong-4933481.html",
+      "summary": "Anh 25 tuổi, làm nghề lập trình, sống và làm việc tại thành phố Hồ Chí Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:38:18+07:00",
+      "fetched": "2025-08-30T15:18:46.711834+07:00"
+    },
+    {
+      "id": "d80636e1811c2eb3b62ff39f189593a7",
+      "title": "Có nhà đất và chung cư Sài Gòn nhưng gia đình tôi vẫn đi ở trọ",
+      "link": "https://vnexpress.net/co-nha-dat-va-chung-cu-sai-gon-nhung-gia-dinh-toi-van-di-o-tro-4933440.html",
+      "summary": "Tôi muốn chuyển về căn nhà cấp bốn ở ngoại thành sống cho yên ổn, nhưng chồng lại ngại đi xa khói bụi và không nỡ chuyển trường cho con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:38:02+07:00",
+      "fetched": "2025-08-30T15:18:46.712051+07:00"
+    },
+    {
+      "id": "fe54d57f259e288a908493d7c9173e79",
+      "title": "Đà Nẵng khởi công nhà ga hàng hóa mới tại sân bay quốc tế",
+      "link": "https://vnexpress.net/da-nang-khoi-cong-nha-ga-hang-hoa-moi-tai-san-bay-quoc-te-4933434.html",
+      "summary": "Nhà ga hàng hóa được thiết kế với công suất 100.000 tấn mỗi năm, nằm trong kế hoạch nâng cấp hạ tầng sân bay quốc tế Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:35:18+07:00",
+      "fetched": "2025-08-30T15:18:46.712223+07:00"
+    },
+    {
+      "id": "5c49b9b83bfaa6809275f8aa673aea40",
+      "title": "Sài Gòn, cần tìm chàng trai cùng đánh cầu lông",
+      "link": "https://vnexpress.net/sai-gon-can-tim-chang-trai-cung-danh-cau-long-4933480.html",
+      "summary": "Em tin rằng sự đồng điệu trong lối sống và tính cách sẽ giúp cả hai kết nối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:34:47+07:00",
+      "fetched": "2025-08-30T15:18:46.712351+07:00"
+    },
+    {
+      "id": "750b644382c5ac0b729afaf60951c65b",
+      "title": "Nơi đó có em chờ anh",
+      "link": "https://vnexpress.net/noi-do-co-em-cho-anh-4933473.html",
+      "summary": "Em 39 tuổi, đã ly hôn và sống cùng con, ngoại hình bình thường, nắng mưa biết chạy vào nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:34:35+07:00",
+      "fetched": "2025-08-30T15:18:46.712474+07:00"
+    },
+    {
+      "id": "8a83d8b3ff458891f56db7b22b95f1f3",
+      "title": "Tìm người đàn ông của gia đình, hiền lành",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-cua-gia-dinh-hien-lanh-4933472.html",
+      "summary": "Nếu anh tìm kiếm người phụ nữ bình dị, biết yêu thương và gìn giữ, em đang ở đây, lặng lẽ, chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:34:18+07:00",
+      "fetched": "2025-08-30T15:18:46.712592+07:00"
+    },
+    {
+      "id": "86061d0c22e09f9b879f4df4c2d29e1f",
+      "title": "Nụ cười người Việt",
+      "link": "https://vnexpress.net/nu-cuoi-nguoi-viet-4933492.html",
+      "summary": "Mới đây, tôi và hai người bạn lên vùng đông bắc thành phố Bảo Lộc để cắm trại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:33:58+07:00",
+      "fetched": "2025-08-30T15:18:46.712769+07:00"
+    },
+    {
+      "id": "a972ad4ac2facedbce3dea9e0191e2a2",
+      "title": "Bamboo Capital thay CEO thứ tư trong nửa năm",
+      "link": "https://vnexpress.net/bamboo-capital-thay-ceo-thu-tu-trong-nua-nam-4933496.html",
+      "summary": "Bamboo Capital bổ nhiệm một nhân sự nước ngoài vào ghế Tổng giám đốc khi ông Phạm Hữu Quốc từ nhiệm vì \"lý do cá nhân\" sau hơn 3 tháng giữ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:33:25+07:00",
+      "fetched": "2025-08-30T15:18:46.712950+07:00"
+    },
+    {
+      "id": "a972ad4ac2facedbce3dea9e0191e2a2",
+      "title": "Bamboo Capital thay CEO thứ tư trong nửa năm",
+      "link": "https://vnexpress.net/bamboo-capital-thay-ceo-thu-tu-trong-nua-nam-4933496.html",
+      "summary": "Bamboo Capital bổ nhiệm một nhân sự nước ngoài vào ghế Tổng giám đốc khi ông Phạm Hữu Quốc từ nhiệm vì \"lý do cá nhân\" sau hơn 3 tháng giữ chức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T07:33:25+07:00",
+      "fetched": "2025-08-30T15:18:54.379204+07:00"
+    },
+    {
+      "id": "f2ec8698630ce2550e3020655f11dfed",
+      "title": "Trải nghiệm gian trưng bày của Vietjet tại triển lãm A80",
+      "link": "https://vnexpress.net/trai-nghiem-gian-trung-bay-cua-vietjet-tai-trien-lam-a80-4933486.html",
+      "summary": "Trong không gian hơn 1.000 m2 tại Triển lãm \"80 năm hành trình Độc lập - Tự do - Hạnh phúc\", Vietjet trưng bày nhiều hiện vật cỡ lớn cho người dân và du khách tham quan trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:30:00+07:00",
+      "fetched": "2025-08-30T15:18:46.713131+07:00"
+    },
+    {
+      "id": "15fd25f699fb336f698c0b35e5282071",
+      "title": "Các khoản thu trường công lập tại TP.HCM được phép thu trong năm học mới",
+      "link": "https://thanhnien.vn/cac-khoan-thu-truong-cong-lap-tai-tphcm-duoc-phep-thu-trong-nam-hoc-moi-185250829112314693.htm",
+      "summary": "Sở GD-ĐT TP.HCM vừa chính thức công bố các khoản được phép thu trong trường công lập từ năm học 2025-2026 đối với từng bậc học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:29:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133715+07:00"
+    },
+    {
+      "id": "c26b3f70a8710e3db41629be7cc55d5b",
+      "title": "Samsung trình làng màn hình 37 inch đầu tiên trên thế giới",
+      "link": "https://thanhnien.vn/samsung-trinh-lang-man-hinh-37-inch-dau-tien-tren-the-gioi-185250830133020018.htm",
+      "summary": "Samsung vừa trình làng màn hình 37 inch hướng đến sự hoàn hảo cho mọi nhu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:26:00+07:00",
+      "fetched": "2025-08-30T15:18:50.133862+07:00"
+    },
+    {
+      "id": "bf5c0cda662fe9b8d4f7ffb4f883b02f",
+      "title": "Phân công nhiệm vụ 8 lãnh đạo UBND TP HCM",
+      "link": "https://vnexpress.net/phan-cong-nhiem-vu-8-lanh-dao-ubnd-tp-hcm-4933490.html",
+      "summary": "Nhiệm vụ của 8 thành viên Thường trực UBND TP HCM được phân công lại sau khi ông Nguyễn Mạnh Cường giữ vị trí phó chủ tịch hồi tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:19:40+07:00",
+      "fetched": "2025-08-30T15:18:46.713331+07:00"
+    },
+    {
+      "id": "e2768c9ec36e5e63899ad1b4c52ee399",
+      "title": "Màn kéo co giữa Man Utd và Betis về thương vụ Antony",
+      "link": "https://vnexpress.net/man-keo-co-giua-man-utd-va-betis-ve-thuong-vu-antony-4933467.html",
+      "summary": "Man Utd và Real Betis đã đạt thỏa thuận phí chuyển nhượng Antony, nhưng các khoản nợ cũ cùng tranh chấp tiền lương khiến thương vụ đình trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:06:03+07:00",
+      "fetched": "2025-08-30T15:18:46.713502+07:00"
+    },
+    {
+      "id": "e2768c9ec36e5e63899ad1b4c52ee399",
+      "title": "Màn kéo co giữa Man Utd và Betis về thương vụ Antony",
+      "link": "https://vnexpress.net/man-keo-co-giua-man-utd-va-betis-ve-thuong-vu-antony-4933467.html",
+      "summary": "Man Utd và Real Betis đã đạt thỏa thuận phí chuyển nhượng Antony, nhưng các khoản nợ cũ cùng tranh chấp tiền lương khiến thương vụ đình trệ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T07:06:03+07:00",
+      "fetched": "2025-08-30T15:18:58.979607+07:00"
+    },
+    {
+      "id": "37b884b5dce326490af12ca4ab3bc078",
+      "title": "Thành ngữ Việt Nam nào chỉ người giỏi sẽ sinh ra người giỏi?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-viet-nam-nao-chi-nguoi-gioi-se-sinh-ra-nguoi-gioi-4931659.html",
+      "summary": "Câu thành ngữ nói lên việc cha là người hùng thì sinh ra con cũng là người hùng, như hổ sinh ra hổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:00:00+07:00",
+      "fetched": "2025-08-30T15:18:46.713664+07:00"
+    },
+    {
+      "id": "0fb6f7ebdc23f024fbb8f53da954148c",
+      "title": "Vietjet mở đường bay thẳng kết nối TP HCM với Manila",
+      "link": "https://vnexpress.net/vietjet-mo-duong-bay-thang-ket-noi-tp-hcm-voi-manila-4933464.html",
+      "summary": "Hãng khai thác đường bay thẳng TP HCM - Manila với tần suất 5 chuyến khứ hồi mỗi tuần, kèm hàng nghìn vé ưu đãi 0 đồng, thời gian bay từ 22/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T07:00:00+07:00",
+      "fetched": "2025-08-30T15:18:46.713867+07:00"
+    },
+    {
+      "id": "b7de270e631007ca730bad7f821414e0",
+      "title": "Cuộc 'sang tay' 62 ha đất vàng quốc phòng ở Nha Trang cho Hậu 'Pháo'",
+      "link": "https://vnexpress.net/cuoc-sang-tay-62-ha-dat-vang-quoc-phong-cho-hau-phao-4933078.html",
+      "summary": "Cựu Hiệu trưởng trường Sĩ quan Không quân cùng nhiều cựu lãnh đạo tỉnh Khánh Hòa bị cáo buộc đã ồ ạt ký, trình, phối hợp giao 62 hecta đất vàng ven biển cho Hậu 'Pháo', dù Chính phủ chưa phê duyệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:55:54+07:00",
+      "fetched": "2025-08-30T15:18:46.714035+07:00"
+    },
+    {
+      "id": "701340d9fb92f74b115ed390142f3740",
+      "title": "Hậu trường Hoài Linh đóng cảnh vật lộn dưới nước",
+      "link": "https://vnexpress.net/hau-truong-hoai-linh-dong-canh-vat-lon-duoi-nuoc-4933399.html",
+      "summary": "Diễn viên Hoài Linh cho biết vượt nỗi lo thể lực ở tuổi 56 để đóng cảnh hành động dưới nước, trong phim \"Làm giàu với ma 2\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T06:52:26+07:00",
+      "fetched": "2025-08-30T15:18:46.714203+07:00"
+    },
+    {
+      "id": "c5915cfb47aa338f8d4ec5e3e6afeb41",
+      "title": "Tay vợt nữ bị bạn trai cũ quấy phá ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/tay-vot-nu-bi-ban-trai-cu-quay-pha-o-my-mo-rong-4933469.html",
+      "summary": "Hạt giống số 11 Karolina Muchova hoảng loạn khi bạn trai cũ chọn ngồi đối diện băng ghế của cô, ở trận thắng Sorana Cristea tại vòng hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T06:47:02+07:00",
+      "fetched": "2025-08-30T15:18:58.980281+07:00"
     },
     {
       "id": "b476bb87ff2cd7778eaae9e697cdda6e",
@@ -881,6 +1381,16 @@ window.newsData_2025_08_30 = {
       "category": "Công nghệ",
       "published": "2025-08-30T05:00:00+07:00",
       "fetched": "2025-08-30T13:21:07.895683+07:00"
+    },
+    {
+      "id": "11776c6a73d9ddd5de25a48565bc1494",
+      "title": "Nhật Bản sẽ chế tạo siêu máy tính AI nhanh nhất thế giới",
+      "link": "https://vnexpress.net/nhat-ban-se-che-tao-sieu-may-tinh-ai-nhanh-nhat-the-gioi-4933318.html",
+      "summary": "Siêu máy tính thế hệ mới của Nhật Bản mang tên FugakuNEXT, dự kiến là cỗ máy AI mạnh nhất, với sự hợp tác của Fujitsu và Nvidia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-30T05:00:00+07:00",
+      "fetched": "2025-08-30T15:18:57.064877+07:00"
     },
     {
       "id": "c2b2844e69f4c0ee4aed5b3c91050e75",
