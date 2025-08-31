@@ -1,7 +1,137 @@
 window.newsData_2025_08_31 = {
   "date": "2025-08-31",
-  "lastUpdated": "2025-08-31T17:15:02.273220+07:00",
+  "lastUpdated": "2025-08-31T19:30:24.450704+07:00",
   "articles": [
+    {
+      "id": "505a05aa0081c27cfc2d03a3698d628b",
+      "title": "Cảnh sát giao thông phát nước, bánh, sữa cho người dân về quê nghỉ lễ",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-phat-nuoc-banh-sua-cho-nguoi-dan-ve-que-nghi-le-20250831163043684.htm",
+      "summary": "Nhằm tiếp sức cho người dân về quê nghỉ lễ Quốc khánh 2-9, Phòng cảnh sát giao thông Công an tỉnh Khánh Hòa tổ chức phát áo mưa, nước suối, khăn lạnh miễn phí cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128793+07:00",
+      "fetched": "2025-08-31T19:30:18.128902+07:00"
+    },
+    {
+      "id": "ea5336294ab572f52e91491920517197",
+      "title": "Từ đảo nhỏ Thiềng Liềng, văn chương tuổi trẻ chắp cánh bay lên",
+      "link": "https://tuoitre.vn/tu-dao-nho-thieng-lieng-van-chuong-tuoi-tre-chap-canh-bay-len-20250831165550744.htm",
+      "summary": "Từ khuôn viên Trường ĐH Khoa học Xã hội và Nhân văn (ĐH Quốc gia TP.HCM), đoàn xe chở 21 cây bút trẻ đến trại viết Hoạt động trải nghiệm sáng tác văn học trẻ 2025 tại đảo Thiềng Liềng (xã Thạnh An, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128670+07:00",
+      "fetched": "2025-08-31T19:30:18.128781+07:00"
+    },
+    {
+      "id": "39e0931eb37c79210ac8365ef8c51f78",
+      "title": "Dọn cây đổ sau bão ở Khu di tích Kim Liên đón người dân dịp Quốc khánh",
+      "link": "https://tuoitre.vn/don-cay-do-sau-bao-o-khu-di-tich-kim-lien-don-nguoi-dan-dip-quoc-khanh-20250831164200881.htm",
+      "summary": "Sau cơn bão Kajiki (bão số 5), hàng ngàn cây xanh cùng nhiều hạng mục ở Khu di tích quốc gia đặc biệt Kim Liên, Nghệ An bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128541+07:00",
+      "fetched": "2025-08-31T19:30:18.128659+07:00"
+    },
+    {
+      "id": "67555e3f3f55fb211d00038348a42b73",
+      "title": "Điểm tin 18h: Ông Triệu Lạc Tế thăm Việt Nam; Người dân TP.HCM nhận 100.000 đồng quà Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/diem-tin-18h-ong-trieu-lac-te-tham-viet-nam-nguoi-dan-tp-hcm-nhan-100-000-dong-qua-quoc-khanh-2-9-20250831164710091.htm",
+      "summary": "Điểm tin 18h: Ông Triệu Lạc Tế thăm Việt Nam; Người dân TP.HCM nhận 100.000 đồng quà Quốc khánh 2-9 ở đâu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128418+07:00",
+      "fetched": "2025-08-31T19:30:18.128530+07:00"
+    },
+    {
+      "id": "e4f61f99ead785575b3da669218960f5",
+      "title": "Kinh tế tư nhân - động lực cho Việt Nam thịnh vượng",
+      "link": "https://tuoitre.vn/kinh-te-tu-nhan-dong-luc-cho-viet-nam-thinh-vuong-20250831172439794.htm",
+      "summary": "Cộng đồng doanh nghiệp, đặc biệt khu vực kinh tế tư nhân, giữ vai trò then chốt trong hành trình xây dựng nền kinh tế phát triển nhanh và bền vững, hướng tới mục tiêu đưa Việt Nam trở thành quốc gia thu nhập cao vào năm 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128295+07:00",
+      "fetched": "2025-08-31T19:30:18.128407+07:00"
+    },
+    {
+      "id": "a91e7b1224b72704417fdc5f664cdcec",
+      "title": "Petrovietnam với triết lý 5 \"An\" và 5 \"Nhất\"",
+      "link": "https://tuoitre.vn/petrovietnam-voi-triet-ly-5-an-va-5-nhat-20250831173732803.htm",
+      "summary": "Chủ tịch HĐTV Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam (Petrovietnam) Lê Mạnh Hùng đã chia sẻ về 5 \"”An” và 5 “Nhất” của tập đoàn trong hành trình đồng hành cùng đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128162+07:00",
+      "fetched": "2025-08-31T19:30:18.128275+07:00"
+    },
+    {
+      "id": "9234a90bfa45f4675bcc4dc8872bd295",
+      "title": "Nam chiến sĩ mất mẹ khi đang làm nhiệm vụ diễu binh: 'Nén đau thương để làm tròn lời mẹ dặn'",
+      "link": "https://tuoitre.vn/nam-chien-si-mat-me-khi-dang-lam-nhiem-vu-dieu-binh-nen-dau-thuong-de-lam-tron-loi-me-dan-20250831174155196.htm",
+      "summary": "Trong mưa tầm tã của những ngày cuối tháng 8, binh nhất Giang Trí Nhân nén nỗi đau mất mẹ để cùng đồng đội miệt mài luyện tập cho lễ diễu binh kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.128032+07:00",
+      "fetched": "2025-08-31T19:30:18.128150+07:00"
+    },
+    {
+      "id": "aab097092534e23cf76fa18549b43d7d",
+      "title": "Khách mê chụp ảnh cánh đồng thốt nốt và các hang động độc đáo ở An Giang",
+      "link": "https://tuoitre.vn/khach-me-chup-anh-canh-dong-thot-not-va-cac-hang-dong-doc-dao-o-an-giang-20250831173614194.htm",
+      "summary": "Lễ 2-9 kéo dài 4 ngày liên tiếp, du khách đến An Giang sẽ thuận tiện để tự túc khám phá cảnh núi rừng, biển đảo, đặc biệt chụp ảnh bên cánh đồng thốt nốt xanh mướt bạt ngàn và nhiều hang động độc nhất vô nhị ở miền Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127890+07:00",
+      "fetched": "2025-08-31T19:30:18.128019+07:00"
+    },
+    {
+      "id": "7cd0156af28e84a4c1c05ed477566ba7",
+      "title": "Tổng Bí thư Tô Lâm tiếp Ủy viên trưởng Nhân đại toàn quốc Trung Quốc Triệu Lạc Tế",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-tiep-uy-vien-truong-nhan-dai-toan-quoc-trung-quoc-trieu-lac-te-20250831182025233.htm",
+      "summary": "Ngày 31-8, Tổng Bí thư Tô Lâm tiếp Ủy viên trưởng Nhân đại toàn quốc Trung Quốc Triệu Lạc Tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127763+07:00",
+      "fetched": "2025-08-31T19:30:18.127878+07:00"
+    },
+    {
+      "id": "844492de678cac9d31ab284c30108d22",
+      "title": "Chan chứa yêu thương các chiến sĩ A80 gặp lại người thân, sao mà cảm động quá!",
+      "link": "https://tuoitre.vn/chan-chua-yeu-thuong-cac-chien-si-a80-gap-lai-nguoi-than-sao-ma-cam-dong-qua-20250831163136459.htm",
+      "summary": "Những khoảnh khắc cảm động khi các chiến sĩ A80 sau nhiều tháng tập luyện nghiêm ngặt, được gặp lại người thân đã chạm đến trái tim hàng triệu người dân trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127633+07:00",
+      "fetched": "2025-08-31T19:30:18.127751+07:00"
+    },
+    {
+      "id": "47417aa6757cf6392b49b15fb3e41997",
+      "title": "Người dân đi nhận tiền quà Quốc khánh quá đông, chính quyền nỗ lực giải quyết",
+      "link": "https://tuoitre.vn/nguoi-dan-di-nhan-tien-qua-quoc-khanh-qua-dong-chinh-quyen-no-luc-giai-quyet-20250831180802589.htm",
+      "summary": "Nhiều địa phương tổ chức cho người dân đi nhận tiền mừng 100.000 đồng nhân dịp Quốc khánh 2-9, trong đó một số nơi như Nha Trang có số lượng người dân đến nhận rất đông, chính quyền đã nỗ lực để dân nhận tiền nhanh, thuận lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127498+07:00",
+      "fetched": "2025-08-31T19:30:18.127620+07:00"
+    },
+    {
+      "id": "e465d407ee16d9620d41cc8f627dd566",
+      "title": "Đến khi nào bệnh viện TP.HCM trở thành điểm hẹn du lịch?",
+      "link": "https://tuoitre.vn/den-khi-nao-benh-vien-tp-hcm-tro-thanh-diem-hen-du-lich-2025083117330286.htm",
+      "summary": "TP.HCM đang được kỳ vọng trở thành điểm đến mới của loại hình du lịch y tế - sức khỏe. Tuy nhiên để biến tiềm năng thành lợi thế cạnh tranh thực sự, thành phố cần giải bài toán hạ tầng, nhân lực và cơ chế phối hợp giữa y tế với du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127349+07:00",
+      "fetched": "2025-08-31T19:30:18.127485+07:00"
+    },
+    {
+      "id": "2ca8ee4a9422f6122c710d6c38cb4b54",
+      "title": "Cảnh sát giao thông hướng dẫn lộ trình sau kỳ nghỉ lễ 2-9 quay lại TP.HCM tránh kẹt xe",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-huong-dan-lo-trinh-sau-ky-nghi-le-2-9-quay-lai-tp-hcm-tranh-ket-xe-20250831184449124.htm",
+      "summary": "Ngày 31-8, Phòng Cảnh sát giao thông Công an TP.HCM có hướng dẫn lộ trình thay thế để người dân sau kỳ nghỉ lễ 2-9 quay lại TP.HCM tránh kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:30:18.127117+07:00",
+      "fetched": "2025-08-31T19:30:18.127334+07:00"
+    },
     {
       "id": "a5bfd6246f0182456949875ffe2b4336",
       "title": "Hàng ngàn người về xem lễ hội đua bò chùa Rô nhân dịp 80 năm Quốc khánh",
@@ -303,6 +433,266 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T13:22:07.112574+07:00"
     },
     {
+      "id": "b1ff33371866b74cf8cc1af6a9e8c302",
+      "title": "Người dân đến sớm một ngày để giữ chỗ xem A80",
+      "link": "https://thanhnien.vn/nguoi-dan-den-som-mot-ngay-de-giu-cho-xem-a80-185250831175039109.htm",
+      "summary": "Dù mới 31.8, nhưng khu vực đường Nguyễn Thái Học, Hùng Vương, TP.Hà Nội đã ghi nhận tình trạng đông kín người dân đến giữ chỗ từ sáng sớm để xem diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng 8 và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:19:00+07:00",
+      "fetched": "2025-08-31T19:30:17.310456+07:00"
+    },
+    {
+      "id": "f19de17f53e5e3cae1d75f013183d151",
+      "title": "TP.HCM mưa lớn trong ngày thứ hai nghỉ lễ Quốc khánh",
+      "link": "https://thanhnien.vn/du-khach-tim-cho-tru-trong-con-mua-lon-o-tphcm-ngay-thu-hai-nghi-le-quoc-khanh-185250831190401922.htm",
+      "summary": "Ngày thứ hai của kỳ nghỉ lễ Quốc khánh 2.9, TP.HCM và nhiều địa phương lân cận bất ngờ có mưa lớn kéo dài, khiến việc vui chơi, tham quan của người dân và du khách bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:17:00+07:00",
+      "fetched": "2025-08-31T19:30:17.310628+07:00"
+    },
+    {
+      "id": "4341019225a990ba2ef046eb2b42bcd8",
+      "title": "Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Ủy viên Thường vụ Bộ Chính trị đảng Cộng sản Trung Quốc Triệu Lạc Tế đang thăm chính thức Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:05:39+07:00",
+      "fetched": "2025-08-31T19:30:14.441486+07:00"
+    },
+    {
+      "id": "4341019225a990ba2ef046eb2b42bcd8",
+      "title": "Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Ủy viên Thường vụ Bộ Chính trị đảng Cộng sản Trung Quốc Triệu Lạc Tế đang thăm chính thức Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-31T12:05:39+07:00",
+      "fetched": "2025-08-31T19:30:19.363898+07:00"
+    },
+    {
+      "id": "6c35bae2800c8c9830be52cc9a5a2c5d",
+      "title": "Việt Nam xuất khẩu loại quả nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-xuat-khau-loai-qua-nao-nhieu-nhat-4933746.html",
+      "summary": "Sản lượng xuất khẩu quả này lên đến 1,31 triệu tấn vào năm 2023, gần gấp đôi loại xếp thứ hai. Bạn có biết đó là quả gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.441663+07:00"
+    },
+    {
+      "id": "54ee7950d63ac78161d9d9d8c3c0558e",
+      "title": "Thời trang chơi tennis của Mai Phương Thúy",
+      "link": "https://vnexpress.net/thoi-trang-choi-tennis-cua-mai-phuong-thuy-4933742.html",
+      "summary": "Hoa hậu Mai Phương Thúy diện váy xếp ly kết hợp áo thun lệch vai tôn dáng khi chơi môn quần vợt yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.441828+07:00"
+    },
+    {
+      "id": "7c726828bc5e6b827f9233800b6c9633",
+      "title": "'Ngồi tàu điện ra Hà Nội ăn bún chả, vô Sài Gòn uống cà phê'",
+      "link": "https://vnexpress.net/bang-gia-xe-dien-xe-may-ha-tang-giao-thong-4933741.html",
+      "summary": "Giảm xe máy là bài toán gốc rễ của đô thị, trong tương lai không xa, tôi hy vọng chúng ta sẽ phát triển vượt bậc hạ tầng giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.441987+07:00"
+    },
+    {
+      "id": "4662c734a2546dff13bed1cc28570abf",
+      "title": "Ứng dụng AI chẩn đoán ung thư phổi sớm",
+      "link": "https://vnexpress.net/ung-dung-ai-chan-doan-ung-thu-phoi-som-4933674.html",
+      "summary": "Bệnh viện Bạch Mai ứng dụng trí tuệ nhân tạo (AI) trong chẩn đoán sớm ung thư phổi - một bước tiến của y học Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.442170+07:00"
+    },
+    {
+      "id": "54a2a8bdde3bffe25d42d78b26aaed6d",
+      "title": "Trung Quốc phát triển thiết bị khai thác heli siêu tinh khiết",
+      "link": "https://vnexpress.net/trung-quoc-phat-trien-thiet-bi-khai-thac-heli-sieu-tinh-khiet-4932419.html",
+      "summary": "Thiết bị sản xuất heli từ nguồn khí tự nhiên của công ty Vacree Technologies đạt độ tinh khiết lên tới 99,99997%, hứa hẹn giúp Trung Quốc giảm phụ thuộc vào nguồn nhập khẩu đắt đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.442330+07:00"
+    },
+    {
+      "id": "8299d68479b389513ad07a018b905dbc",
+      "title": "Em tin khi đủ duyên, mình sẽ tìm thấy nhau",
+      "link": "https://vnexpress.net/em-tin-khi-du-duyen-minh-se-tim-thay-nhau-4932074.html",
+      "summary": "Anh sẽ gặp người con gái ưa nhìn, thân thiện, biết nấu ăn, cao 1m66, là nhân viên văn phòng ở TP HCM, quê ở miền Tây sông nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.442429+07:00"
+    },
+    {
+      "id": "8b3cd464593559c6807293456c01aa68",
+      "title": "Tổng thống Trump thông báo thay đổi quan trọng về bầu cử ở Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-trump-thong-bao-thay-doi-quan-trong-ve-bau-cu-o-my-185250831185551368.htm",
+      "summary": "Tổng thống Mỹ Donald Trump sẽ ban hành một sắc lệnh hành pháp yêu cầu cử tri phải xuất trình giấy tờ tùy thân cho tất cả các cuộc bầu cử ở Mỹ trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:17.310785+07:00"
+    },
+    {
+      "id": "54a2a8bdde3bffe25d42d78b26aaed6d",
+      "title": "Trung Quốc phát triển thiết bị khai thác heli siêu tinh khiết",
+      "link": "https://vnexpress.net/trung-quoc-phat-trien-thiet-bi-khai-thac-heli-sieu-tinh-khiet-4932419.html",
+      "summary": "Thiết bị sản xuất heli từ nguồn khí tự nhiên của công ty Vacree Technologies đạt độ tinh khiết lên tới 99,99997%, hứa hẹn giúp Trung Quốc giảm phụ thuộc vào nguồn nhập khẩu đắt đỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T19:30:22.942973+07:00"
+    },
+    {
+      "id": "4457efcec5de2304bdba0c115a64c6e2",
+      "title": "Người dân tại hơn 1.900 xã đã nhận quà tặng Quốc khánh",
+      "link": "https://thanhnien.vn/nguoi-dan-tai-hon-1900-xa-da-nhan-qua-tang-quoc-khanh-185250831182535406.htm",
+      "summary": "Đến 13 giờ 30 ngày 31.8, 1.929/3.321 xã đã tiếp nhận kinh phí và tổ chức trao quà tặng Quốc khánh đến người dân. Tổng số tiền chi trả là 5.687,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:52:00+07:00",
+      "fetched": "2025-08-31T19:30:17.310938+07:00"
+    },
+    {
+      "id": "ba28bd1b1b617e54df41117fbf170bad",
+      "title": "3 đại tướng quân đội được tặng thưởng Huân chương Quân công hạng nhất",
+      "link": "https://thanhnien.vn/3-dai-tuong-quan-doi-duoc-tang-thuong-huan-chuong-quan-cong-hang-nhat-185250831184230019.htm",
+      "summary": "Chiều 31.8, tại Hà Nội, Quân ủy T.Ư, Bộ Quốc phòng tổ chức lễ trao Huân chương quân công tặng các lãnh đạo Bộ Quốc phòng. Theo đó, 8 lãnh đạo được tặng thưởng Huân chương Quân công hạng nhất, 3 lãnh đạo được tặng thưởng Huân chương Quân công hạng nhì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:51:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311114+07:00"
+    },
+    {
+      "id": "e76dde5990b184c691179e7e46f9ab08",
+      "title": "Cà Mau: Khởi tố, bắt tạm giam bị can gây cháy chợ Thanh Tùng",
+      "link": "https://thanhnien.vn/ca-mau-khoi-to-bat-tam-giam-bi-can-gay-chay-cho-thanh-tung-185250831175229844.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Cà Mau vừa khởi tố bị can, bắt tạm giam Phạm Văn Phúc, là người gây ra vụ cháy chợ Thanh Tùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:51:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311267+07:00"
+    },
+    {
+      "id": "5223522c6c3a73b2758db561a5e447e5",
+      "title": "Trung Quốc đạt bước tiến lớn với mạng 6G",
+      "link": "https://thanhnien.vn/trung-quoc-dat-buoc-tien-lon-voi-mang-6g-185250831150140428.htm",
+      "summary": "Mặc dù mạng 6G được dự đoán sẽ triển khai đến người tiêu dùng vào năm 2030, các cuộc họp và kế hoạch để xác định tiêu chuẩn này đã bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:50:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311415+07:00"
+    },
+    {
+      "id": "21dcb0414baeda2da9ec1160d8c7fd99",
+      "title": "Samsung sẽ đưa Galaxy TriFold thành một tác phẩm nghệ thuật",
+      "link": "https://thanhnien.vn/samsung-se-dua-galaxy-trifold-thanh-mot-tac-pham-nghe-thuat-185250831152517073.htm",
+      "summary": "Samsung được cho là đang phát triển một chiếc smartphone với màn hình gập ba và có thể mang tên gọi Galaxy TriFold.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:45:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311570+07:00"
+    },
+    {
+      "id": "f20a5bcc96e3ec87775b459211e9c280",
+      "title": "Thủ tướng chia sẻ với kiều bào tại Trung Quốc không khí, tinh thần Quốc khánh trong nước",
+      "link": "https://thanhnien.vn/thu-tuong-chia-se-voi-kieu-bao-tai-trung-quoc-khong-khi-tinh-than-quoc-khanh-trong-nuoc-185250831180624566.htm",
+      "summary": "Sáng 31.8, tại Thiên Tân, trong chương trình dự Hội nghị Thượng đỉnh tổ chức hợp tác Thượng Hải (SCO) năm 2025, Thủ tướng Phạm Minh Chính đã gặp gỡ cộng đồng người Việt Nam tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:43:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311724+07:00"
+    },
+    {
+      "id": "ab436892fdd079fa9b26b8fea98cc809",
+      "title": "Người dân câu cá phát hiện thi thể chỉ còn bộ xương ven kênh Xáng ở TP.HCM",
+      "link": "https://thanhnien.vn/nguoi-dan-cau-ca-phat-hien-thi-the-chi-con-bo-xuong-ven-kenh-xang-o-tphcm-185250831172658765.htm",
+      "summary": "Thi thể người đã phân hủy gần hết, chỉ còn bộ xương tại khu vực ven bờ kênh Xáng, thuộc xã Đông Thạnh, TP.HCM được người dân phát hiện nên báo công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:39:00+07:00",
+      "fetched": "2025-08-31T19:30:17.311881+07:00"
+    },
+    {
+      "id": "356209371068bfe5e11e0d9229750472",
+      "title": "Gần 5.700 tỷ đồng quà 2/9 đã được tặng cho người dân",
+      "link": "https://vnexpress.net/gan-5-700-ty-dong-qua-2-9-da-duoc-tang-cho-nguoi-dan-4933800.html",
+      "summary": "Kho bạc Nhà nước cho biết số tiền chi trả cho người dân đã được hơn một nửa, khoảng 5.700 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:38:10+07:00",
+      "fetched": "2025-08-31T19:30:14.442587+07:00"
+    },
+    {
+      "id": "356209371068bfe5e11e0d9229750472",
+      "title": "Gần 5.700 tỷ đồng quà 2/9 đã được tặng cho người dân",
+      "link": "https://vnexpress.net/gan-5-700-ty-dong-qua-2-9-da-duoc-tang-cho-nguoi-dan-4933800.html",
+      "summary": "Kho bạc Nhà nước cho biết số tiền chi trả cho người dân đã được hơn một nửa, khoảng 5.700 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T11:38:10+07:00",
+      "fetched": "2025-08-31T19:30:20.978312+07:00"
+    },
+    {
+      "id": "3081d1e5276d3461ce0440c2a8e89931",
+      "title": "TP.HCM: Ô tô cháy dữ dội khi đang chạy trên quốc lộ 51",
+      "link": "https://thanhnien.vn/tphcm-o-to-chay-du-doi-khi-dang-chay-tren-quoc-lo-51-185250831173357659.htm",
+      "summary": "Ông K. đang điều khiển ô tô trên quốc lộ 51 thì phát hiện phương tiện bị cháy. Dù lực lượng chức năng đã khống chế ngọn lửa sau đó nhưng ô tô đã bị lửa thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:37:00+07:00",
+      "fetched": "2025-08-31T19:30:17.312044+07:00"
+    },
+    {
+      "id": "40d6282c89a8aa7d8b4d561b5683675c",
+      "title": "Top 10 sữa rửa mặt cho da dầu mụn sạch, không khô da, kiểm soát dầu tốt",
+      "link": "https://thanhnien.vn/top-10-sua-rua-mat-cho-da-dau-mun-sach-khong-kho-da-kiem-soat-dau-tot-185250831183126516.htm",
+      "summary": "Team da dầu mụn đang đau đầu tìm sữa rửa mặt vừa sạch sâu ngừa mụn, kiểm soát dầu tốt vừa không gây cảm giác khô căng sau mỗi lần rửa mặt. Vậy tham khảo ngay top 10 sữa rửa mặt cho da dầu mụn đang được tin dùng và mọi người tìm mua nhiều hiện nay. Da mụn, dầu cỡ nào; các loại sữa rửa mặt này cũng là...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:32:00+07:00",
+      "fetched": "2025-08-31T19:30:17.312204+07:00"
+    },
+    {
+      "id": "18c638cc5d7deb8f31d6bcd5da725374",
+      "title": "UAV đa năng đầu tiên do Việt Nam tự sản xuất có gì?",
+      "link": "https://vnexpress.net/uav-da-nang-dau-tien-do-viet-nam-tu-san-xuat-co-gi-4933801.html",
+      "summary": "VU-MALE là UAV đa năng tầm xa, cấp chiến lược, cỡ lớn, có thể mang cùng lúc 4 tên lửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:27:06+07:00",
+      "fetched": "2025-08-31T19:30:14.442743+07:00"
+    },
+    {
+      "id": "8a4981cd5ad76978a77c31955e501f20",
+      "title": "Đại tướng Phan Văn Giang nhận Huân chương Quân công hạng Nhất",
+      "link": "https://vnexpress.net/dai-tuong-phan-van-giang-nhan-huan-chuong-quan-cong-hang-nhat-4933797.html",
+      "summary": "Huân chương Quân công hạng Nhất được trao cho Đại tướng Phan Văn Giang và lãnh đạo Bộ Quốc phòng, ghi nhận cống hiến xây dựng Quân đội, củng cố quốc phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:25:51+07:00",
+      "fetched": "2025-08-31T19:30:14.442909+07:00"
+    },
+    {
+      "id": "a29b2a54aac5bebb1327d945705011c4",
+      "title": "Đối thủ nặng ký của U.23 Việt Nam đã đến Việt Trì, thủ môn Trần Trung Kiên lên tiếng",
+      "link": "https://thanhnien.vn/doi-thu-nang-ky-cua-u23-viet-nam-da-den-viet-tri-thu-mon-tran-trung-kien-len-tieng-185250831181844208.htm",
+      "summary": "Chiều 31.8, đội tuyển U.23 Yemen – đối thủ được xem là sẽ cạnh tranh trực tiếp với U23 Việt Nam trong cuộc đua tại bảng C vòng loại giải U.23 châu Á 2026 đã có mặt tại Việt Trì, Phú Thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:24:00+07:00",
+      "fetched": "2025-08-31T19:30:17.312356+07:00"
+    },
+    {
       "id": "afab08330e4bd0e12e40ea1a1ac92bba",
       "title": "Mách bạn cách ngồi để không bị béo bụng",
       "link": "https://tuoitre.vn/mach-ban-cach-ngoi-de-khong-bi-beo-bung-20250828130858127.htm",
@@ -393,6 +783,86 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T11:18:47.516209+07:00"
     },
     {
+      "id": "4cf67be7c65168a2d0320deb8aec5cde",
+      "title": "'Chị đẹp' Trang Pháp tiết lộ điều đặc biệt khi tham gia tổng duyệt A80",
+      "link": "https://thanhnien.vn/chi-dep-trang-phap-tiet-lo-dieu-dac-biet-khi-tham-gia-tong-duyet-a80-185250831173054846.htm",
+      "summary": "Trang Pháp cảm thấy hạnh phúc khi cô nhận được sự yêu mến giúp đỡ của người dân thủ đô trong các buổi tập luyện cho Lễ kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 (sự kiện A80).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:18:00+07:00",
+      "fetched": "2025-08-31T19:30:17.312507+07:00"
+    },
+    {
+      "id": "cf3dc4d148bf22c9d3ad69ffb3f1a1e3",
+      "title": "Diễn viên TVB Lê Tuyên qua đời",
+      "link": "https://vnexpress.net/dien-vien-tvb-le-tuyen-qua-doi-4933776.html",
+      "summary": "Diễn viên Hong Kong Lê Tuyên, đóng \"Đại thời đại\", \"Lộc Đỉnh Ký\" qua đời ở tuổi 94.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:04:16+07:00",
+      "fetched": "2025-08-31T19:30:14.443119+07:00"
+    },
+    {
+      "id": "fb1d069b04d843744dc27b877a788afa",
+      "title": "Khách miền Nam đổ ra Hà Nội để 'sống trọn không khí lịch sử'",
+      "link": "https://vnexpress.net/khach-mien-nam-do-ra-ha-noi-de-song-tron-khong-khi-lich-su-4933513.html",
+      "summary": "Thay vì về quê hay đi nghỉ dưỡng, hàng nghìn du khách từ TP HCM ra Thủ đô dịp 2/9, sẵn sàng \"cắm trại\" nhiều giờ để được hòa mình vào dòng người xem diễu binh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:03:58+07:00",
+      "fetched": "2025-08-31T19:30:14.443290+07:00"
+    },
+    {
+      "id": "bf3a2b725932169493ffd6c2cdb91fff",
+      "title": "Nghỉ lễ, tôi không dám về nhà vì bị giục lấy chồng",
+      "link": "https://vnexpress.net/giuc-lay-chong-nghi-le-toi-khong-dam-ve-nha-vi-bi-giuc-lay-chong-4933723.html",
+      "summary": "Tôi ngại các cuộc tụ họp gia đình rồi câu chuyện lại xoay quanh việc lấy chồng của tôi, giới thiệu người này người kia cho tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:00:00+07:00",
+      "fetched": "2025-08-31T19:30:14.443443+07:00"
+    },
+    {
+      "id": "20727945847e12d5ebbfdf9e7b76963e",
+      "title": "Thời tiết Quốc khánh 2.9: TP.HCM mưa lớn từ phường Sài Gòn đến Vũng Tàu",
+      "link": "https://thanhnien.vn/thoi-tiet-quoc-khanh-29-tphcm-mua-lon-tu-phuong-sai-gon-den-vung-tau-185250831180033035.htm",
+      "summary": "Ngày thứ hai của kỳ nghỉ lễ Quốc khánh 2.9, thời tiết TP.HCM mưa lớn khắp nơi. Dự báo mưa lớn trải dài từ phường Sài Gòn tới phường Vũng Tàu, Bình Dương và đặc khu Côn Đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T11:00:00+07:00",
+      "fetched": "2025-08-31T19:30:17.312656+07:00"
+    },
+    {
+      "id": "ee0218fb4935832142eef088d6ac13b1",
+      "title": "A&amp;B Shopping Mall ra mắt diện mạo mới",
+      "link": "https://vnexpress.net/a-b-shopping-mall-ra-mat-dien-mao-moi-4933778.html",
+      "summary": "Trung tâm thương mại A&B Shopping Mall ra mắt diện mạo mới với thiết kế phủ xanh, đa dạng không gian mua sắm, vui chơi, giải trí phong cách hiện đại, từ 1/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:30:00+07:00",
+      "fetched": "2025-08-31T19:30:14.443608+07:00"
+    },
+    {
+      "id": "d54dfd46666796e6d6bfd974ee2a39d4",
+      "title": "Thủ tướng đề nghị Ngân hàng AIIB hỗ trợ Việt Nam vốn làm đường sắt",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-ngan-hang-aiib-ho-tro-viet-nam-von-lam-duong-sat-4933762.html",
+      "summary": "Thủ tướng đề nghị AIIB hỗ trợ nguồn lực để Việt Nam triển khai đường sắt Lào Cai - Hà Nội - Hải Phòng và lưới điện kết nối Việt Nam với ASEAN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:29:48+07:00",
+      "fetched": "2025-08-31T19:30:14.443766+07:00"
+    },
+    {
+      "id": "d54dfd46666796e6d6bfd974ee2a39d4",
+      "title": "Thủ tướng đề nghị Ngân hàng AIIB hỗ trợ Việt Nam vốn làm đường sắt",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-ngan-hang-aiib-ho-tro-viet-nam-von-lam-duong-sat-4933762.html",
+      "summary": "Thủ tướng đề nghị AIIB hỗ trợ nguồn lực để Việt Nam triển khai đường sắt Lào Cai - Hà Nội - Hải Phòng và lưới điện kết nối Việt Nam với ASEAN.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T10:29:48+07:00",
+      "fetched": "2025-08-31T19:30:20.978495+07:00"
+    },
+    {
       "id": "4a9f0733a87fb09cdf198acd962c0200",
       "title": "Du thuyền chở 3 thuyền viên nước ngoài bị hỏng máy trên vùng biển Cà Mau",
       "link": "https://thanhnien.vn/du-thuyen-cho-3-thuyen-vien-nuoc-ngoai-bi-hong-may-tren-vung-bien-ca-mau-18525083116302242.htm",
@@ -411,6 +881,16 @@ window.newsData_2025_08_31 = {
       "category": "Tổng hợp",
       "published": "2025-08-31T10:08:00+07:00",
       "fetched": "2025-08-31T17:14:52.714802+07:00"
+    },
+    {
+      "id": "c5a25e371243d5bab4f923ca4b6c9cfc",
+      "title": "VSIP lãi hơn 6 tỷ đồng mỗi ngày",
+      "link": "https://vnexpress.net/vsip-lai-hon-6-ty-dong-moi-ngay-4933687.html",
+      "summary": "Nửa đầu năm nay, lợi nhuận sau thuế của VSIP đạt gần 1.127 tỷ đồng, tương đương trung bình mỗi ngày họ lãi hơn 6 tỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T10:08:00+07:00",
+      "fetched": "2025-08-31T19:30:20.978658+07:00"
     },
     {
       "id": "1417c3507116d2f378ecb12d442c24cb",
