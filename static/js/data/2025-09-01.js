@@ -1,6 +1,6 @@
 window.newsData_2025_09_01 = {
   "date": "2025-09-01",
-  "lastUpdated": "2025-09-01T01:20:52.325340+07:00",
+  "lastUpdated": "2025-09-01T03:16:54.082170+07:00",
   "articles": [
     {
       "id": "da6de69a6035c7684d41d97677814925",
@@ -151,6 +151,66 @@ window.newsData_2025_09_01 = {
       "category": "Tổng hợp",
       "published": "2025-09-01T01:20:46.272175+07:00",
       "fetched": "2025-09-01T01:20:46.272419+07:00"
+    },
+    {
+      "id": "2e95f79d68fd529b77687dc84aa37385",
+      "title": "Bruno Fernandes mới là vấn đề lớn nhất của M.U",
+      "link": "https://thanhnien.vn/bruno-fernandes-moi-la-van-de-lon-nhat-cua-mu-185250831212125126.htm",
+      "summary": "Có quá nhiều vấn đề chuyên môn nan giải cho HLV Ruben Amorim của M.U - từ Altay Bayindir trong khung thành cho đến Benjamin Sesko trên hàng tiền đạo. Nhưng xem ra, nan giải nhất chính là vai trò của ngôi sao số 1 trong đội, Bruno Fernandes.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T19:18:00+07:00",
+      "fetched": "2025-09-01T03:16:45.967704+07:00"
+    },
+    {
+      "id": "a523e734f4b25247bc7d7008f1ea4662",
+      "title": "5 đồ uống bổ thận bạn nên dùng thường xuyên",
+      "link": "https://vnexpress.net/5-do-uong-bo-than-ban-nen-dung-thuong-xuyen-4933658.html",
+      "summary": "Ngoài nước lọc, các loại đồ uống như nước chanh, nước dừa, trà thảo mộc cung cấp nhiều chất dinh dưỡng có lợi, hỗ trợ chức năng thận, phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T18:00:00+07:00",
+      "fetched": "2025-09-01T03:16:43.031954+07:00"
+    },
+    {
+      "id": "bd5d1180f1d978baebaddd0f2955c896",
+      "title": "Guardiola không bắt tay HLV Brighton sau trận thua",
+      "link": "https://vnexpress.net/guardiola-khong-bat-tay-hlv-brighton-sau-tran-thua-4933832.html",
+      "summary": "HLV Pep Guardiola gây chú ý vì không bắt tay đồng nghiệp Fabian Hurzeler, sau khi Man City thua ngược chủ nhà Brighton 1-2 ở vòng ba Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T17:50:33+07:00",
+      "fetched": "2025-09-01T03:16:43.032168+07:00"
+    },
+    {
+      "id": "bd5d1180f1d978baebaddd0f2955c896",
+      "title": "Guardiola không bắt tay HLV Brighton sau trận thua",
+      "link": "https://vnexpress.net/guardiola-khong-bat-tay-hlv-brighton-sau-tran-thua-4933832.html",
+      "summary": "HLV Pep Guardiola gây chú ý vì không bắt tay đồng nghiệp Fabian Hurzeler, sau khi Man City thua ngược chủ nhà Brighton 1-2 ở vòng ba Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-31T17:50:33+07:00",
+      "fetched": "2025-09-01T03:16:54.077411+07:00"
+    },
+    {
+      "id": "5d6314f6ea646ed5f0e4108ec2c3cb6a",
+      "title": "CĐV Mỹ Mở rộng bị lên án vì cướp mũ của trẻ con",
+      "link": "https://vnexpress.net/cdv-my-mo-rong-bi-len-an-vi-cuop-mu-cua-tre-con-4933834.html",
+      "summary": "Một triệu phú gây phẫn nộ với hành động giật chiếc mũ của tay vợt Majchrzak dành tặng cho CĐV nhí tại Mỹ Mở rộng 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T17:47:08+07:00",
+      "fetched": "2025-09-01T03:16:43.032332+07:00"
+    },
+    {
+      "id": "5d6314f6ea646ed5f0e4108ec2c3cb6a",
+      "title": "CĐV Mỹ Mở rộng bị lên án vì cướp mũ của trẻ con",
+      "link": "https://vnexpress.net/cdv-my-mo-rong-bi-len-an-vi-cuop-mu-cua-tre-con-4933834.html",
+      "summary": "Một triệu phú gây phẫn nộ với hành động giật chiếc mũ của tay vợt Majchrzak dành tặng cho CĐV nhí tại Mỹ Mở rộng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-31T17:47:08+07:00",
+      "fetched": "2025-09-01T03:16:54.077746+07:00"
     },
     {
       "id": "00b2e2292727ab7da336019a4d357a58",
