@@ -1,7 +1,157 @@
 window.newsData_2025_08_31 = {
   "date": "2025-08-31",
-  "lastUpdated": "2025-08-31T08:19:41.053525+07:00",
+  "lastUpdated": "2025-08-31T10:04:50.001508+07:00",
   "articles": [
+    {
+      "id": "1417c3507116d2f378ecb12d442c24cb",
+      "title": "Học sinh Wellspring Hanoi trải nghiệm không khí 'A80 Quốc gia thu nhỏ' tại sân trường",
+      "link": "https://tuoitre.vn/hoc-sinh-wellspring-hanoi-trai-nghiem-khong-khi-a80-quoc-gia-thu-nho-tai-san-truong-20250830221719245.htm",
+      "summary": "Ngày 30-8, khi cả nước hướng về buổi tổng duyệt diễu binh kỷ niệm 80 năm Quốc khánh 2-9 tại Quảng trường Ba Đình (Hà Nội), hơn 1.500 học sinh Wellspring Hanoi cũng trực tiếp trải nghiệm khoảnh khắc thiêng liêng ngay tại sân trường rộng 4ha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.646133+07:00",
+      "fetched": "2025-08-31T10:04:42.646254+07:00"
+    },
+    {
+      "id": "280664ae0ce956e50600bdc49a928fb1",
+      "title": "Khoảnh khắc HLV Amorim 'thờ ơ' trước quả phạt đền của Bruno Fernandes gây tranh cãi",
+      "link": "https://tuoitre.vn/khoanh-khac-hlv-amorim-tho-o-truoc-qua-phat-den-cua-bruno-fernandes-gay-tranh-cai-20250831084947789.htm",
+      "summary": "Phản ứng của HLV Ruben Amorim trước quả phạt đền quyết định của Bruno Fernandes trong trận gặp Burnley đã gây ra một làn sóng tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.646005+07:00",
+      "fetched": "2025-08-31T10:04:42.646118+07:00"
+    },
+    {
+      "id": "213b9b1de85ac0a45ab288494a6d51be",
+      "title": "Vikki tặng lãi suất tiết kiệm cho lực lượng vũ trang và khách hàng trên 80 tuổi",
+      "link": "https://tuoitre.vn/vikki-tang-lai-suat-tiet-kiem-cho-luc-luong-vu-trang-va-khach-hang-tren-80-tuoi-20250831085642708.htm",
+      "summary": "Theo đó, từ ngày 3-9 đến 30-9, khách hàng trên 80 tuổi khi gửi tiết kiệm từ 1 tháng trở lên tại 212 điểm giao dịch của Vikki sẽ được nhận nhiều ưu đãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645874+07:00",
+      "fetched": "2025-08-31T10:04:42.645994+07:00"
+    },
+    {
+      "id": "518c8ba87f258c9dfbb9bf6c29c71fbe",
+      "title": "Đột phá y học: Robot phẫu thuật lấy thận hiến chỉ trong 90 phút",
+      "link": "https://tuoitre.vn/dot-pha-y-hoc-robot-phau-thuat-lay-than-hien-chi-trong-90-phut-20250830220309137.htm",
+      "summary": "Với 4 cánh tay robot linh hoạt, Da Vinci Xi đã giúp bác sĩ thực hiện ca phẫu thuật chỉ trong 90 phút. Người hiến thận đã có thể xuất viện ngay ngày hôm sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645744+07:00",
+      "fetched": "2025-08-31T10:04:42.645862+07:00"
+    },
+    {
+      "id": "37b99151c03ffe1e8ea812518e0f6865",
+      "title": "Trên đường về sau chuyến thiện nguyện, nhóm công an Đắk Lắk kịp thời cứu người phụ nữ gặp nạn",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-viet-thu-cam-on-cong-an-da-cuu-minh-khi-gap-nan-20250831090034262.htm",
+      "summary": "Một phụ nữ bị thương nặng do tai nạn trên đường đã được nhóm cán bộ Công an tỉnh Đắk Lắk đi công tác thiện nguyện về kịp thời sơ cứu, dùng xe đơn vị đưa đến trung tâm y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645621+07:00",
+      "fetched": "2025-08-31T10:04:42.645733+07:00"
+    },
+    {
+      "id": "5821f543e269fbac7ebf0d6bbf672a71",
+      "title": "Ánh mắt cậu con trai dõi theo mẹ diễu binh A80 khiến cộng đồng mạng nghẹn ngào",
+      "link": "https://tuoitre.vn/anh-mat-cau-con-trai-doi-theo-me-dieu-binh-a80-khien-cong-dong-mang-nghen-ngao-20250831091743823.htm",
+      "summary": "Giữa những bước chân hùng tráng, khoảnh khắc cậu bé 4 tuổi dõi theo mẹ, thiếu tá quân nhân chuyên nghiệp Nguyễn Thị Huyền Trang (Binh Chủng Thông tin Liên lạc), khiến nhiều người nghẹn ngào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645495+07:00",
+      "fetched": "2025-08-31T10:04:42.645610+07:00"
+    },
+    {
+      "id": "da5875926de39aff190914d91d42d7d5",
+      "title": "Những chính sách nổi bật có hiệu lực từ tháng 9-2025",
+      "link": "https://tuoitre.vn/nhung-chinh-sach-noi-bat-co-hieu-luc-tu-thang-9-2025-20250831093119609.htm",
+      "summary": "Nhiều chính sách mới có hiệu lực, nổi bật là các chính sách liên quan đến ưu đãi đối với dự án công nghiệp; dạy ngoại ngữ trong trường học...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645360+07:00",
+      "fetched": "2025-08-31T10:04:42.645483+07:00"
+    },
+    {
+      "id": "1db0678f3bc8fb1f88191a063d53bd09",
+      "title": "Nhan sắc của ngôi sao bóng chuyền Nhật Bản gây sốt ở giải thế giới",
+      "link": "https://tuoitre.vn/nhan-sac-cua-ngoi-sao-bong-chuyen-nhat-ban-gay-sot-o-giai-the-gioi-20250830175619259.htm",
+      "summary": "\"Nữ thần thế hệ mới\" là cách mà người hâm mộ bóng chuyền nữ châu Á mô tả về Yoshino Sato, ngôi sao Nhật Bản đang rực sáng ở Giải vô địch bóng chuyền nữ thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645209+07:00",
+      "fetched": "2025-08-31T10:04:42.645347+07:00"
+    },
+    {
+      "id": "526e557c8d6e37d1955d286d2ba475bc",
+      "title": "Sự thật về video quay cảnh du thuyền sang trọng xả thải xuống biển",
+      "link": "https://tuoitre.vn/su-that-ve-video-quay-canh-du-thuyen-sang-trong-xa-thai-xuong-bien-20250830153923657.htm",
+      "summary": "Video lan truyền khẳng định một \"du thuyền sang trọng\" đang trực tiếp xả thải xuống biển là không có thật và là sản phẩm do trí tuệ nhân tạo (AI) tạo ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.645077+07:00",
+      "fetched": "2025-08-31T10:04:42.645198+07:00"
+    },
+    {
+      "id": "590fff8d28c5614b20f03273cdc82854",
+      "title": "Người dân TP.HCM nhận 100.000 đồng quà Quốc khánh 2-9 trực tiếp ở đâu?",
+      "link": "https://tuoitre.vn/nguoi-dan-tp-hcm-nhan-100-000-dong-qua-quoc-khanh-2-9-truc-tiep-o-dau-20250831090021733.htm",
+      "summary": "Phòng Cảnh sát quản lý hành chính về trật tự xã hội (PC06) Công an TP.HCM thông tin người dân có thể đến trực tiếp UBND cấp xã (theo địa điểm UBND cấp xã thông báo) để nhận 100.000 đồng quà Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644945+07:00",
+      "fetched": "2025-08-31T10:04:42.645062+07:00"
+    },
+    {
+      "id": "4f6ce129da9b0fea2cd23fcc21735220",
+      "title": "Làm việc xuyên đêm, không có ngày nghỉ để chi 100.000 đồng quà tặng lễ 2-9 cho dân",
+      "link": "https://tuoitre.vn/lam-viec-xuyen-dem-khong-co-ngay-nghi-de-chi-100-000-dong-qua-tang-le-2-9-cho-dan-2025083109215953.htm",
+      "summary": "Cơ quan chức năng tỉnh Gia Lai và chính quyền 135 xã, phường tỉnh này xác định làm việc xuyên lễ, không có ngày nghỉ để chi sớm nhất quà tặng 100.000 đồng/người của Chính phủ cho nhân dân dịp Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644811+07:00",
+      "fetched": "2025-08-31T10:04:42.644933+07:00"
+    },
+    {
+      "id": "9348ed2fec27dc859459309b0c8c1e4b",
+      "title": "Ban Giao thông không ‘nương tay’ với nhà thầu chậm tiến độ nút giao An Phú",
+      "link": "https://tuoitre.vn/ban-giao-thong-khong-nuong-tay-voi-nha-thau-cham-tien-do-nut-giao-an-phu-20250831091934193.htm",
+      "summary": "Ông Lương Minh Phúc, giám đốc Ban Quản lý dự án đầu tư xây dựng các công trình giao thông TP.HCM cho biết sẽ xử lý những nhà thầu chậm trễ dự án nút giao An Phú và tổ chức làm “3 ca 4 kíp” để kịp tiến độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644665+07:00",
+      "fetched": "2025-08-31T10:04:42.644795+07:00"
+    },
+    {
+      "id": "1313859736098f9ddfdec67b2ed0dba9",
+      "title": "Người phụ nữ 40 tuổi bị bắt vì đột nhập nhà Jungkook BTS",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-40-tuoi-bi-bat-vi-dot-nhap-nha-jungkook-bts-20250831094556022.htm",
+      "summary": "Cảnh sát quận Yongsan, Seoul vừa bắt giữ một người phụ nữ ngoài 40 tuổi với cáo buộc xâm nhập chỗ ở trái phép tại căn hộ của Jungkook (BTS).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644522+07:00",
+      "fetched": "2025-08-31T10:04:42.644653+07:00"
+    },
+    {
+      "id": "77795eb005a6c5ef082020b9a2acba9b",
+      "title": "Loại trái cây vừa làm đẹp da, vừa tốt cho tim mạch",
+      "link": "https://tuoitre.vn/loai-trai-cay-vua-lam-dep-da-vua-tot-cho-tim-mach-20250828193649235.htm",
+      "summary": "Có một loại trái cây giàu chất chống oxy hóa và polyphenol, hỗ trợ sức khỏe tim, não, da, đường ruột và mắt, được nghiên cứu mới đánh giá là 'siêu thực phẩm'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644367+07:00",
+      "fetched": "2025-08-31T10:04:42.644510+07:00"
+    },
+    {
+      "id": "0376116375c3e224c7a7d10339a0c6ec",
+      "title": "Tìm thấy thi thể người đàn ông đi xe máy rơi xuống kênh thủy lợi tại Đắk Lắk",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nguoi-dan-ong-di-xe-may-roi-xuong-kenh-thuy-loi-tai-dak-lak-20250831093250885.htm",
+      "summary": "Sáng nay 31-8, cơ quan chức năng đã tìm thấy thi thể người đàn ông đi xe máy rơi xuống kênh thủy lợi ở xã Tây Hòa, Đắk Lắk từ tối qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T10:04:42.644118+07:00",
+      "fetched": "2025-08-31T10:04:42.644351+07:00"
+    },
     {
       "id": "b563d519ecd9aab04975033aad5a3735",
       "title": "Dấu ấn Tuổi Trẻ 50 năm trong một cuộc thi",
@@ -171,6 +321,336 @@ window.newsData_2025_08_31 = {
       "category": "Tổng hợp",
       "published": "2025-08-31T03:15:51.920945+07:00",
       "fetched": "2025-08-31T03:15:51.921143+07:00"
+    },
+    {
+      "id": "13de8e3769b1e38a3234ecbc902b48d9",
+      "title": "Hiệu ứng Messi xác lập thêm kỷ lục chưa từng có tại Mỹ, lại bùng nổ cơn sốt",
+      "link": "https://thanhnien.vn/hieu-ung-messi-xac-lap-them-ky-luc-chua-tung-co-tai-my-lai-bung-no-con-sot-185250831100051298.htm",
+      "summary": "Theo Marca - báo Tây Ban Nha, ban tổ chức sân Lumen Field của Seattle Sounders FC đã quyết định mở tối đa sức chứa sân, dự kiến có đến 72.000 khán giả đến xem trận chung kết Leagues Cup với Messi và Inter Miami thi đấu ngày 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:03:00+07:00",
+      "fetched": "2025-08-31T10:04:39.403497+07:00"
+    },
+    {
+      "id": "57cfb429f85e28cc9474bf9b0dd0a354",
+      "title": "Viettel Money hỗ trợ người không có tài khoản ngân hàng nhận tiền an sinh xã hội",
+      "link": "https://thanhnien.vn/viettel-money-ho-tro-nguoi-khong-co-tai-khoan-ngan-hang-nhan-tien-an-sinh-xa-hoi-18525083108160289.htm",
+      "summary": "Ứng dụng tài chính số Viettel Money của Tổng Công ty Dịch vụ số Viettel (Viettel Digital) đã chính thức liên kết với VNeID, trở thành một trong những kênh để người dân đăng ký Tài khoản hưởng An sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:00:00+07:00",
+      "fetched": "2025-08-31T10:04:39.403686+07:00"
+    },
+    {
+      "id": "432499041df98c83551f00cae5449224",
+      "title": "Sống ở chung cư: Không biết tên, chẳng nhớ mặt hàng xóm láng giềng",
+      "link": "https://thanhnien.vn/song-o-chung-cu-khong-biet-ten-chang-nho-mat-hang-xom-lang-gieng-185250831062155341.htm",
+      "summary": "Một năm sống cạnh nhau, nhưng chẳng biết tên ai trong cùng tầng. Đó là thực tế ngày càng phổ biến ở các chung cư, nơi một bộ phận giới trẻ chọn làm chốn an cư. Có những khoảng cách vô hình làm phai nhạt khái niệm xóm giềng \"tối lửa tắt đèn có nhau\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:00:00+07:00",
+      "fetched": "2025-08-31T10:04:39.403850+07:00"
+    },
+    {
+      "id": "1179f83581087cde170e38f762fe1af3",
+      "title": "Tạo điểm nhấn phá cách với phụ kiện đeo tay",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tao-diem-nhan-pha-cach-voi-phu-kien-deo-tay-18525083016132177.htm",
+      "summary": "Hãy biến phong cách thường ngày trở nên nổi bật hơn với phụ kiện đeo tay độc lạ. Thiết kế phá cách cùng chi tiết tinh tế khiến ánh nhìn dừng lại, khó rời mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:00:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404015+07:00"
+    },
+    {
+      "id": "a2bb1df220bf7bd191bbe234c850b5a3",
+      "title": "Nâng cao chất lượng chăm sóc người đột quỵ",
+      "link": "https://thanhnien.vn/nang-cao-chat-luong-cham-soc-nguoi-dot-quy-185250830201608136.htm",
+      "summary": "Dự án chăm sóc đột quỵ do Tổ chức Humanity & Inclusion (HI), phối hợp Bệnh viện (BV) Bạch Mai (Hà Nội) thực hiện đã chính thức kết thúc 2 năm hợp tác vào tháng 8 năm nay, trong khuôn khổ dự án kéo dài 10 năm do Bộ Ngoại giao Mỹ tài trợ nhằm cải thiện chất lượng cuộc sống cho người khuyết tật nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:49:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404177+07:00"
+    },
+    {
+      "id": "83ac77885db17d9f7ef4ebfc7cbf4a5a",
+      "title": "Mua iPad giá rẻ liệu 'có ổn'?",
+      "link": "https://thanhnien.vn/mua-ipad-gia-re-lieu-co-on-185250824220342125.htm",
+      "summary": "Khi nói đến iPad, nhiều người có thể nghĩ rằng chỉ có phiên bản mới nhất mới đáng để sở hữu. Tuy nhiên, mọi thứ không phải vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:40:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404347+07:00"
+    },
+    {
+      "id": "a7f06ae2d631129b7d0d0817d390417d",
+      "title": "80 năm phát triển tiếng Việt",
+      "link": "https://thanhnien.vn/80-nam-phat-trien-tieng-viet-185250828113612961.htm",
+      "summary": "Ngày nay, tiếng Việt không những là ngôn ngữ của đời sống mà còn là chữ viết được sử dụng trong mọi cấp học từ mẫu giáo đến trên đại học, trong văn chương và học thuật, không hề thua kém bất cứ ngôn ngữ nào trên thế giới. Đó tưởng là điều bình thường, nhưng 80 năm trước thì không phải như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:25:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404508+07:00"
+    },
+    {
+      "id": "3f9b9529b8f005234b1c86fc03db0629",
+      "title": "Tổng thống Trump dự báo Nga - Ukraine sẽ phải đấu thêm một thời gian",
+      "link": "https://thanhnien.vn/tong-thong-trump-du-bao-nga-ukraine-se-phai-dau-them-mot-thoi-gian-185250831091147178.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tỏ ra nghi ngờ về triển vọng cuộc gặp giữa Tổng thống Nga Vladimir Putin và Tổng thống Ukraine Volodymyr Zelensky trong nỗ lực chấm dứt cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:20:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404665+07:00"
+    },
+    {
+      "id": "47329931c36a459348729d3b3698e14d",
+      "title": "Việt Nam bán thêm 1 triệu tín chỉ carbon cho World Bank",
+      "link": "https://vnexpress.net/viet-nam-ban-them-1-trieu-tin-chi-carbon-cho-world-bank-4933629.html",
+      "summary": "Việt Nam chuyển nhượng thêm 1 triệu tấn CO2 giảm thải được từ vùng Bắc Trung Bộ cho Ngân hàng Thế giới (World Bank).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:19:23+07:00",
+      "fetched": "2025-08-31T10:04:33.781961+07:00"
+    },
+    {
+      "id": "47329931c36a459348729d3b3698e14d",
+      "title": "Việt Nam bán thêm 1 triệu tín chỉ carbon cho World Bank",
+      "link": "https://vnexpress.net/viet-nam-ban-them-1-trieu-tin-chi-carbon-cho-world-bank-4933629.html",
+      "summary": "Việt Nam chuyển nhượng thêm 1 triệu tấn CO2 giảm thải được từ vùng Bắc Trung Bộ cho Ngân hàng Thế giới (World Bank).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T02:19:23+07:00",
+      "fetched": "2025-08-31T10:04:45.856074+07:00"
+    },
+    {
+      "id": "42f974ee9d0b99c03c4a7c7d809b9774",
+      "title": "Lịch âm hôm nay, ngày cuối tháng 8 dương lịch: Lãng mạn trăng bán nguyệt",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ngay-cuoi-thang-8-duong-lich-lang-man-trang-ban-nguyet-185250831085937177.htm",
+      "summary": "Hôm nay là ngày thứ hai của kỳ nghỉ lễ 2.9, cũng là ngày cuối cùng của tháng 8 dương lịch (31.8). Lịch âm hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:16:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404817+07:00"
+    },
+    {
+      "id": "fb60a9804f4cd13e626491f5f410a199",
+      "title": "Nữ hoàng điền kinh Nguyễn Thị Oanh: ‘Thể thao thay đổi cuộc đời tôi'",
+      "link": "https://thanhnien.vn/nu-hoang-dien-kinh-nguyen-thi-oanh-the-thao-thay-doi-cuoc-doi-toi-185250828194443815.htm",
+      "summary": "Vượt qua khó khăn, bệnh tật, 'cô bé hạt tiêu' Nguyễn Thị Oanh đã khẳng định tài năng ở đấu trường trong nước lẫn quốc tế, làm rạng danh thể thao Việt Nam và truyền cảm hứng cho nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:15:00+07:00",
+      "fetched": "2025-08-31T10:04:39.404966+07:00"
+    },
+    {
+      "id": "55eca558207c12dd8a1e49de4d3f33ea",
+      "title": "Mẹ cố diễn viên Đức Tiến đòi con dâu chia nhà bên Mỹ",
+      "link": "https://vnexpress.net/me-co-dien-vien-duc-tien-doi-con-dau-chia-nha-ben-my-4933459.html",
+      "summary": "Bà Nguyễn Ngọc Ánh, mẹ cố diễn viên Đức Tiến mới bổ sung yêu cầu phản tố, đòi con dâu chia căn nhà bên Mỹ trị giá hơn 21 tỷ đồng cho các hàng thừa kế, trong đó có bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:12:02+07:00",
+      "fetched": "2025-08-31T10:04:33.782158+07:00"
+    },
+    {
+      "id": "047feb4fe1c804e2573f96dc24b1f111",
+      "title": "Thanh niên 2 lần bị cảnh sát dỏm thao túng tâm lý, phá két lấy vàng",
+      "link": "https://vnexpress.net/thanh-nien-2-lan-bi-canh-sat-dom-thao-tung-tam-ly-pha-ket-lay-vang-4933610.html",
+      "summary": "Được cha mẹ chỉ rõ nhóm cảnh sát gọi điện hăm dọa \"bắt giam\" là lừa đảo, song nam thanh niên vẫn bị chúng thao túng, phá két sắt lấy vàng đem bán để \"nộp cho cơ quan điều tra\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:10:58+07:00",
+      "fetched": "2025-08-31T10:04:33.782346+07:00"
+    },
+    {
+      "id": "2a6542041c5a75c954771f57ea690b0c",
+      "title": "24 khoản trường học TP HCM có thể thu của phụ huynh",
+      "link": "https://vnexpress.net/24-khoan-truong-hoc-tp-hcm-co-the-thu-cua-phu-huynh-4933514.html",
+      "summary": "Các trường công lập được thu 24 khoản dịch vụ, từ dạy Tin học, Tiếng Anh tăng cường đến đưa đón, suất ăn, bán trú, đồng phục,...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:09:27+07:00",
+      "fetched": "2025-08-31T10:04:33.782518+07:00"
+    },
+    {
+      "id": "3df87e9727839572df825c95ac7c247e",
+      "title": "Cựu hoa hậu Anh bị phạt vì tấn công tình dục người có vợ",
+      "link": "https://vnexpress.net/cuu-hoa-hau-anh-bi-phat-vi-tan-cong-tinh-duc-nguoi-co-vo-4933642.html",
+      "summary": "Samantha Williamson, từng đại diện Vương quốc Anh tham gia cuộc thi Hoa hậu Châu Âu năm 2003, phải hầu tòa sau khi say xỉn, quấy rối tình dục và đánh một người đàn ông tại nhà hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:08:18+07:00",
+      "fetched": "2025-08-31T10:04:33.782682+07:00"
+    },
+    {
+      "id": "e9b679bfca66416eaa940ce7d0b10e87",
+      "title": "Robot tự thu gom rác",
+      "link": "https://vnexpress.net/robot-tu-thu-gom-rac-4933463.html",
+      "summary": "Nhiều công ty công nghệ đang phát triển những robot thông minh có thể tự động thu gom rác giúp cho việc bảo vệ môi trường trở nên nhẹ nhàng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:33.782847+07:00"
+    },
+    {
+      "id": "e584945a9da8714df1f1885fcf46b705",
+      "title": "Uất hận khi chồng dành mọi yêu thương cho vợ người khác",
+      "link": "https://vnexpress.net/uat-han-khi-chong-danh-moi-yeu-thuong-cho-vo-nguoi-khac-4933070.html",
+      "summary": "Anh thà để vợ con anh tan nát chứ nhất quyết giữ nguyên vẹn gia đình cho người tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:33.783011+07:00"
+    },
+    {
+      "id": "203470caea0ce8504f613b4ca5cbcca5",
+      "title": "Em tự lập, cầu tiến, nhẹ nhàng, hiểu chuyện",
+      "link": "https://vnexpress.net/em-tu-lap-cau-tien-nhe-nhang-hieu-chuyen-4932069.html",
+      "summary": "Em là mẫu người của gia đình, yêu trẻ con và thích quây quần bên người thân mà chắc duyên số cho lăn lộn với công việc nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:33.783114+07:00"
+    },
+    {
+      "id": "cf7a66c433bc491a826acea11f2bee98",
+      "title": "Bạn đã biết cách sơ cứu khi bị chó cắn?",
+      "link": "https://vnexpress.net/ban-da-biet-cach-so-cuu-khi-bi-cho-can-4933604.html",
+      "summary": "Cách rửa vết thương, băng bó, thời điểm tiêm huyết thanh và vaccine kháng dại... được giải đáp qua bài trắc nghiệm dưới đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:33.783284+07:00"
+    },
+    {
+      "id": "6eb7a4f2ea15699be57fe9396583fc44",
+      "title": "Đoán bệnh qua tiếng ngáy",
+      "link": "https://vnexpress.net/doan-benh-qua-tieng-ngay-4933578.html",
+      "summary": "Tiếng ngáy thở đều có thể do mệt mỏi, uống rượu, song ngáy to, ngắt quãng vài giây thường cảnh báo ngưng thở khi ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:33.783499+07:00"
+    },
+    {
+      "id": "c2091751898384ffae80173368eed4d4",
+      "title": "Nữ thiếu úy rạng rỡ trong quân phục quân y: Từ cô gái yếu mềm đến chiến sĩ A80",
+      "link": "https://thanhnien.vn/nu-thieu-uy-rang-ro-trong-quan-phuc-quan-y-tu-co-gai-yeu-mem-den-chien-si-a80-1852508302122306.htm",
+      "summary": "Từ một cô gái còn bỡ ngỡ, thiếu úy Đinh Ngọc Ánh (25 tuổi, công tác tại Bộ Chỉ huy quân sự tỉnh Thái Nguyên) đã trưởng thành, rắn rỏi hơn, từng bước tự tin trong đội hình nữ quân y trên Quảng trường Ba Đình, chờ đón ngày lễ chính thức A80 với niềm tự hào và hồi hộp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:39.405119+07:00"
+    },
+    {
+      "id": "399e85655aeef669e0c8337a1f163143",
+      "title": "Cuộc đời dài lắm - Truyện ngắn dự thi Mai Thị Thu Phương",
+      "link": "https://thanhnien.vn/cuoc-doi-dai-lam-truyen-ngan-du-thi-mai-thi-thu-phuong-185250830174249516.htm",
+      "summary": "Cô con gái nằm bên cạnh đã ngủ say mà chị mãi vẫn chẳng thể ru mình vào giấc ngủ. Lòng chị bây giờ ngổn ngang những suy nghĩ. Mừng vui có, lo lắng có và chua xót cũng có. Hai chục năm từ khi chồng ôm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:41.073027+07:00"
+    },
+    {
+      "id": "9888dbf8ad5bebb9c4fbfd2e2030a6d6",
+      "title": "Chất lượng điều trị là cốt lõi của hạnh phúc",
+      "link": "https://thanhnien.vn/chat-luong-dieu-tri-la-cot-loi-cua-hanh-phuc-185250830094017938.htm",
+      "summary": "Gần một thập kỷ đồng hành cùng người bệnh bằng sự nghiêm cẩn trong chuyên môn và tinh thần phục vụ tận tụy, Hệ thống Bệnh viện đa khoa Tâm Anh không chỉ là nơi chữa lành thể chất, mang lại hạnh phúc cho người bệnh, mà còn là nơi hun đúc tri thức, nuôi dưỡng lòng nhân hậu - giữ trọn lời thề Hippocrat...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:41.073453+07:00"
+    },
+    {
+      "id": "e9b679bfca66416eaa940ce7d0b10e87",
+      "title": "Robot tự thu gom rác",
+      "link": "https://vnexpress.net/robot-tu-thu-gom-rac-4933463.html",
+      "summary": "Nhiều công ty công nghệ đang phát triển những robot thông minh có thể tự động thu gom rác giúp cho việc bảo vệ môi trường trở nên nhẹ nhàng hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-31T02:00:00+07:00",
+      "fetched": "2025-08-31T10:04:48.981625+07:00"
+    },
+    {
+      "id": "84bacf668e54ec14e0957e789526ce6d",
+      "title": "Sifan Hassan phá kỷ lục Sydney Marathon",
+      "link": "https://vnexpress.net/sifan-hassan-pha-ky-luc-sydney-marathon-4933650.html",
+      "summary": "Nhà vô địch Olympic Paris 2024, Sifan Hassan lập kỷ lục khi vô địch Sydney Marathon 2025 - giải lần đầu tiên gia nhập hệ thống Abbott World Marathon Majors.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:56:45+07:00",
+      "fetched": "2025-08-31T10:04:33.783679+07:00"
+    },
+    {
+      "id": "84bacf668e54ec14e0957e789526ce6d",
+      "title": "Sifan Hassan phá kỷ lục Sydney Marathon",
+      "link": "https://vnexpress.net/sifan-hassan-pha-ky-luc-sydney-marathon-4933650.html",
+      "summary": "Nhà vô địch Olympic Paris 2024, Sifan Hassan lập kỷ lục khi vô địch Sydney Marathon 2025 - giải lần đầu tiên gia nhập hệ thống Abbott World Marathon Majors.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-31T01:56:45+07:00",
+      "fetched": "2025-08-31T10:04:49.995850+07:00"
+    },
+    {
+      "id": "89c39c303b18af5ee70b36b62aa05d68",
+      "title": "Công trình thiết kế uốn lượn từ bê tông đúc liền khối",
+      "link": "https://vnexpress.net/cong-trinh-thiet-ke-uon-luon-tu-be-tong-duc-lien-khoi-4933159.html",
+      "summary": "Khối kiến trúc mềm mại thay đổi hình ảnh quen thuộc của các trung tâm trẻ em cộng đồng tại Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:35:49+07:00",
+      "fetched": "2025-08-31T10:04:33.783852+07:00"
+    },
+    {
+      "id": "26dfee27460dafbb6e6061451a6b5132",
+      "title": "Kipchoge đạt sub2:09 tại Sydney Marathon 2025",
+      "link": "https://vnexpress.net/kipchoge-dat-sub2-09-tai-sydney-marathon-2025-4933639.html",
+      "summary": "Ở tuổi 40, huyền thoại người Kenya Eliud Kipchoge vẫn cho thấy sức bền đáng nể khi về thứ 9 tại Sydney Marathon 2025 với thành tích 2 giờ 8 phút 31 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:34:10+07:00",
+      "fetched": "2025-08-31T10:04:33.784019+07:00"
+    },
+    {
+      "id": "26dfee27460dafbb6e6061451a6b5132",
+      "title": "Kipchoge đạt sub2:09 tại Sydney Marathon 2025",
+      "link": "https://vnexpress.net/kipchoge-dat-sub2-09-tai-sydney-marathon-2025-4933639.html",
+      "summary": "Ở tuổi 40, huyền thoại người Kenya Eliud Kipchoge vẫn cho thấy sức bền đáng nể khi về thứ 9 tại Sydney Marathon 2025 với thành tích 2 giờ 8 phút 31 giây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-31T01:34:10+07:00",
+      "fetched": "2025-08-31T10:04:49.994701+07:00"
+    },
+    {
+      "id": "904896400ada42d3ac8508018691913a",
+      "title": "'Xả' lỗ phòng khách sạn Hà Nội trước lễ diễu binh A80",
+      "link": "https://thanhnien.vn/xa-lo-phong-khach-san-ha-noi-truoc-le-dieu-binh-a80-185250829155821486.htm",
+      "summary": "Mặc dù nhiều khách sạn 3, 4 sao tại Hà Nội thông báo đã 'cháy' phòng từ cách đây nửa tháng, song đến sát giờ diễn ra lễ diễu binh, diễu hành nhiều người rao bán phòng giá sốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:33:00+07:00",
+      "fetched": "2025-08-31T10:04:41.073626+07:00"
+    },
+    {
+      "id": "a70e9b6b28585638ecbb213724c7a483",
+      "title": "'Còn gì đẹp hơn' - lá thư gửi hậu phương",
+      "link": "https://vnexpress.net/con-gi-dep-hon-la-thu-gui-hau-phuong-4932664.html",
+      "summary": "Ca khúc \"Còn gì đẹp hơn\" lấy cảm hứng từ phim \"Mưa đỏ\", thay lời nhắn của những chiến sĩ thành cổ Quảng Trị gửi tới mẹ, người yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:29:54+07:00",
+      "fetched": "2025-08-31T10:04:33.784184+07:00"
+    },
+    {
+      "id": "61e39e8edb1b4cc9622ed41839abbb7e",
+      "title": "Sức hút của du lịch Việt Nam từ những chiến trường xưa",
+      "link": "https://thanhnien.vn/suc-hut-cua-du-lich-viet-nam-tu-nhung-chien-truong-xua-185250829151048331.htm",
+      "summary": "Chiến tranh đã lùi xa, nhưng sức hút của du lịch Việt Nam từ những chiến trường xưa vẫn còn sâu đậm với du khách quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T01:28:00+07:00",
+      "fetched": "2025-08-31T10:04:41.073785+07:00"
     },
     {
       "id": "57bb80873f4d26b62ec302c2c6805ba0",
@@ -361,6 +841,16 @@ window.newsData_2025_08_31 = {
       "category": "Thế giới",
       "published": "2025-08-31T01:08:00+07:00",
       "fetched": "2025-08-31T08:19:37.315432+07:00"
+    },
+    {
+      "id": "97b21f588936b3c632856bda6cf12aae",
+      "title": "Slot: 'Liverpool không nên lãng mạn hóa chức vô địch'",
+      "link": "https://vnexpress.net/slot-liverpool-khong-nen-lang-man-hoa-chuc-vo-dich-4933636.html",
+      "summary": "HLV Arne Slot cảnh báo Liverpool được ảo tưởng về chức vô địch mùa 2024-2025, trước thềm đại chiến với Arsenal ở vòng ba Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-31T01:06:39+07:00",
+      "fetched": "2025-08-31T10:04:49.994871+07:00"
     },
     {
       "id": "3519e27b93a39986272c92704d0c426d",
