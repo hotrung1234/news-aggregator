@@ -1,7 +1,117 @@
 window.newsData_2025_09_01 = {
   "date": "2025-09-01",
-  "lastUpdated": "2025-09-01T10:19:01.829970+07:00",
+  "lastUpdated": "2025-09-01T11:26:15.528046+07:00",
   "articles": [
+    {
+      "id": "ed8f6f6a0b68259e89fc660a72b4d403",
+      "title": "Vietnam Airlines mang trải nghiệm bay sống động đến Triển lãm A80",
+      "link": "https://tuoitre.vn/vietnam-airlines-mang-trai-nghiem-bay-song-dong-den-trien-lam-a80-20250901085209979.htm",
+      "summary": "Chuyến bay đặc biệt được tái hiện tại Triển lãm thành tựu đất nước “80 năm hành trình Độc lập - Tự do - Hạnh phúc” mang đến cho hành khách trải nghiệm trọn vẹn dịch vụ chất lượng đẳng cấp của Vietnam Airlines trong hành trình bay sống động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.412601+07:00",
+      "fetched": "2025-09-01T11:26:06.412715+07:00"
+    },
+    {
+      "id": "f757865d59c06ee7e8acea9f3c83b110",
+      "title": "Người cao tuổi nên ăn gì để ngủ ngon hơn?",
+      "link": "https://tuoitre.vn/nguoi-cao-tuoi-nen-an-gi-de-ngu-ngon-hon-20250831141914041.htm",
+      "summary": "Nhiều người cao tuổi thường khó ngủ, ngủ chập chờn, thức dậy sớm hay mất ngủ kéo dài. Có ý kiến cho rằng đây là biểu hiện tự nhiên của quá trình lão hóa, tuy nhiên điều này có thể cải thiện bằng môi trường sống và dinh dưỡng hằng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.412441+07:00",
+      "fetched": "2025-09-01T11:26:06.412588+07:00"
+    },
+    {
+      "id": "2c719a1ac6785505f7cb05d65e3fd476",
+      "title": "Nhân viên Google Maps đang tác nghiệp bị đánh vì người dân tưởng trộm",
+      "link": "https://tuoitre.vn/nhan-vien-google-maps-dang-tac-nghiep-bi-danh-vi-nguoi-dan-tuong-trom-20250831230158266.htm",
+      "summary": "Một nhóm Google Maps khảo sát đường phố ở Ấn Độ bất ngờ bị dân địa phương tấn công vì nhầm tưởng đang thu thập thông tin để trộm cắp. Cảnh sát phải can thiệp để giải cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.412316+07:00",
+      "fetched": "2025-09-01T11:26:06.412429+07:00"
+    },
+    {
+      "id": "547064750989468407b73bded238fdf1",
+      "title": "Video người phụ nữ liều mạng vượt sông bằng dây thừng là ở đâu?",
+      "link": "https://tuoitre.vn/video-nguoi-phu-nu-lieu-mang-vuot-song-bang-day-thung-la-o-dau-20250901094455167.htm",
+      "summary": "Video một phụ nữ băng qua sông bằng dây thừng ở Nigeria thực tế được quay tại Sudan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.412189+07:00",
+      "fetched": "2025-09-01T11:26:06.412304+07:00"
+    },
+    {
+      "id": "c999e0df2aa8190accdbc17262580b4e",
+      "title": "Số phận CLB Đông Á Thanh Hóa thế nào khi chủ tịch CLB bị bắt?",
+      "link": "https://tuoitre.vn/so-phan-clb-dong-a-thanh-hoa-the-nao-khi-chu-tich-clb-bi-bat-20250901095230357.htm",
+      "summary": "CLB Đông Á Thanh Hóa tạm thời sẽ do Liên đoàn Bóng đá Thanh Hóa phối hợp quản lý để tiếp tục tập luyện và thi đấu ở V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.412061+07:00",
+      "fetched": "2025-09-01T11:26:06.412177+07:00"
+    },
+    {
+      "id": "44b3193fe6b18ed306dc3ffa94aac4c5",
+      "title": "Ngôi sao quần vợt bị đánh cắp 'món đồ vô giá' trong khách sạn ở New York",
+      "link": "https://tuoitre.vn/ngoi-sao-quan-vot-bi-danh-cap-mon-do-vo-gia-trong-khach-san-o-new-york-20250901094249291.htm",
+      "summary": "Tay vợt 35 tuổi người Romania Sorana Cirstea đã bị kẻ trộm đột nhập vào phòng 314 ở khách sạn New York và đánh cắp \"món đồ vô giá\", khi cô đến đây để tham dự Giải quần vợt Mỹ mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411931+07:00",
+      "fetched": "2025-09-01T11:26:06.412049+07:00"
+    },
+    {
+      "id": "e8df2f88d8d1a61ac7ce8446240a93b6",
+      "title": "Thanh niên bị phạt vì tung video giả 'biểu tình đòi vé' dịp đại lễ A80",
+      "link": "https://tuoitre.vn/thanh-nien-bi-phat-vi-tung-video-gia-bieu-tinh-doi-ve-dip-dai-le-a80-20250901105419258.htm",
+      "summary": "Một clip giả mạo về \"biểu tình đòi phát vé\" tại Nhà hát Lớn đã thu hút hơn 832.000 lượt xem trước khi bị phát hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411793+07:00",
+      "fetched": "2025-09-01T11:26:06.411918+07:00"
+    },
+    {
+      "id": "55a125fea2eae02dfb6d743b0c4591c0",
+      "title": "Giá gas tháng 9-2025 giữ nguyên: nhiều tháng liên tục không tăng giá",
+      "link": "https://tuoitre.vn/gia-gas-thang-9-2025-giu-nguyen-nhieu-thang-lien-tuc-khong-tang-gia-20250901102225531.htm",
+      "summary": "Giá gas bán lẻ trong nước tháng 9-2025 được giữ nguyên, đánh dấu tháng thứ 7 liên tiếp không có biến động tăng kể từ tháng 3-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411660+07:00",
+      "fetched": "2025-09-01T11:26:06.411781+07:00"
+    },
+    {
+      "id": "3161a290943c14e670f69ccd23920520",
+      "title": "Công an giúp người phụ nữ đi lạc 500km trong hơn 2 tháng đoàn tụ gia đình",
+      "link": "https://tuoitre.vn/cong-an-giup-nguoi-phu-nu-di-lac-500km-trong-hon-2-thang-doan-tu-gia-dinh-20250901100538258.htm",
+      "summary": "Một người phụ nữ ở tỉnh Sơn La rời nhà, mất liên lạc với gia đình hơn hai tháng được các chiến sĩ công an Nghệ An giúp đoàn tụ với người thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411513+07:00",
+      "fetched": "2025-09-01T11:26:06.411647+07:00"
+    },
+    {
+      "id": "a688f5db587fd54b1af27816b91899c6",
+      "title": "Tám thập kỷ kinh tế Việt Nam: Từ đói nghèo, chiến tranh đến khát vọng phép màu Đông Á mới",
+      "link": "https://tuoitre.vn/tam-thap-ky-kinh-te-viet-nam-tu-doi-ngheo-chien-tranh-den-khat-vong-phep-mau-dong-a-moi-20250831161954324.htm",
+      "summary": "Tám thập kỷ kể từ 1945, kinh tế Việt Nam trải qua hành trình biến động, phản ánh tác động đan xen của lịch sử, chính sách và bối cảnh quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411340+07:00",
+      "fetched": "2025-09-01T11:26:06.411481+07:00"
+    },
+    {
+      "id": "b218199b5f5149ba9489df128322da9a",
+      "title": "Mừng Quốc khánh 2-9, xem bảo tàng tại TP.HCM miễn phí",
+      "link": "https://tuoitre.vn/mung-quoc-khanh-2-9-xem-bao-tang-tai-tp-hcm-mien-phi-20250830094937493.htm",
+      "summary": "Các triển lãm những tác phẩm tiêu biểu chào mừng 80 năm Quốc khánh tại Bảo tàng Mỹ thuật và Hội Mỹ thuật TP.HCM... là điểm hẹn thú vị cho công chúng TP dịp 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T11:26:06.411085+07:00",
+      "fetched": "2025-09-01T11:26:06.411324+07:00"
+    },
     {
       "id": "7419309a778b44582e009f8a82e57664",
       "title": "Indonesia thắt chặt an ninh, đưa xe bọc thép tới tòa nhà quốc hội",
@@ -303,6 +413,286 @@ window.newsData_2025_09_01 = {
       "fetched": "2025-09-01T08:26:18.324623+07:00"
     },
     {
+      "id": "0e7c22181c069f853ebb6c54a6718d6e",
+      "title": "Thái Lan bỗng dưng sợ thua đối thủ kém đến 48 bậc tại King's Cup",
+      "link": "https://thanhnien.vn/thai-lan-bong-dung-so-thua-doi-thu-kem-den-48-bac-tai-kings-cup-185250901110916093.htm",
+      "summary": "Theo Siamsport, việc người hâm mộ Thái Lan mặc nhiên đội nhà sẽ vào chung kết tranh chức vô địch giải King's Cup với đội tuyển Iraq, trong khi bỏ qua trận gặp đội Fiji trước đó, sẽ là sai lầm cực kỳ lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:17:00+07:00",
+      "fetched": "2025-09-01T11:26:05.430971+07:00"
+    },
+    {
+      "id": "bb83dc826e6f542255d53923b55b4695",
+      "title": "Ba thói quen sạc pin smartphone nên thay đổi ngay lập tức",
+      "link": "https://thanhnien.vn/ba-thoi-quen-sac-pin-smartphone-nen-thay-doi-ngay-lap-tuc-185250829224202823.htm",
+      "summary": "Nếu là người sử dụng smartphone hằng ngày, việc tìm cách để kéo dài thời gian sử dụng của pin là điều luôn được nhiều người nghĩ đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:11:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431149+07:00"
+    },
+    {
+      "id": "f65942568e43f018f2327c72d1ee3629",
+      "title": "Liên Hiệp Quốc tố Houthi đột kích văn phòng , bắt giữ 11 nhân viên ở Yemen",
+      "link": "https://thanhnien.vn/lien-hiep-quoc-to-houthi-dot-kich-van-phong-bat-giu-11-nhan-vien-o-yemen-185250901102259864.htm",
+      "summary": "Liên Hiệp Quốc nói lực lượng Houthi ở Yemen đã bắt giữ ít nhất 11 nhân viên trong các cuộc đột kích vào văn phòng Liên Hiệp Quốc hôm 31.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:05:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431314+07:00"
+    },
+    {
+      "id": "3c12526644f161c746326b96c335d056",
+      "title": "Tàu ngầm, tàu hộ vệ tên lửa sẵn sàng phô diễn sức mạnh diễu binh trên biển",
+      "link": "https://thanhnien.vn/tau-ngam-tau-ho-ve-ten-lua-san-sang-pho-dien-suc-manh-dieu-binh-tren-bien-185250901060802549.htm",
+      "summary": "Quân chủng Hải quân và các đơn vị liên quan đã sẵn sàng cho lần diễu binh trên biển đầu tiên trong Lễ kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:05:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431470+07:00"
+    },
+    {
+      "id": "9cd9442ca6cc5ad8e83ba1916bb17f26",
+      "title": "Một trường đại học công lập xét tuyển bổ sung nhiều ngành 14 điểm 3 môn",
+      "link": "https://thanhnien.vn/mot-truong-dai-hoc-cong-lap-xet-tuyen-bo-sung-nhieu-nganh-14-diem-3-mon-185250901104410383.htm",
+      "summary": "Một trường đại học (ĐH) công lập tại TP.HCM xét tuyển bổ sung 5 ngành. Trong đó, 4 ngành nhận hồ sơ từ mức 14 điểm theo tổ hợp 3 môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:04:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431646+07:00"
+    },
+    {
+      "id": "91d14457bc4494f5d0620f9233d35e1a",
+      "title": "Chuyện tử tế: Mở bếp ăn từ thiện giúp bệnh nhân nghèo",
+      "link": "https://thanhnien.vn/chuyen-tu-te-mo-bep-an-tu-thien-giup-benh-nhan-ngheo-185250831180913408.htm",
+      "summary": "Hai năm qua, vợ chồng ông Mạch Phú Cường (63 tuổi) và bà Nguyễn Thị Kim Lan (58 tuổi, ngụ P.Hưng Phú, TP.Cần Thơ - trước đây là P.Hưng Phú, Q.Cái Răng, TP.Cần Thơ) duy trì bếp ăn từ thiện, mỗi tuần nấu hàng ngàn suất cơm chay tặng bệnh nhân nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:02:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431802+07:00"
+    },
+    {
+      "id": "42ef27b92e23114ec2d22eaf9a24f618",
+      "title": "Uống 3-4 lon nước ngọt mỗi ngày có hại thận không?",
+      "link": "https://vnexpress.net/uong-3-4-lon-nuoc-ngot-moi-ngay-co-hai-than-khong-4933754.html",
+      "summary": "Tôi thường uống 3-4 lon nước ngọt có ga mỗi ngày, nhất là mùa hè nắng nóng và tối làm việc khuya. Thói quen này có hại thận không? (Trần Quân, 37 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:00:00+07:00",
+      "fetched": "2025-09-01T11:26:02.507845+07:00"
+    },
+    {
+      "id": "2fb810e1d7a3375d55b99d97c900c1c4",
+      "title": "Gosu giới thiệu game văn hóa Việt tại Triển lãm thành tựu đất nước",
+      "link": "https://vnexpress.net/gosu-gioi-thieu-game-van-hoa-viet-tai-trien-lam-thanh-tuu-dat-nuoc-4933155.html",
+      "summary": "Nhà phát hành giới thiệu hai dự án game Hào Khí Đông A và Lạc Thần Chiến Ca, lấy cảm hứng từ lịch sử Việt, tổ chức nhiều minigame khi dự triển lãm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:00:00+07:00",
+      "fetched": "2025-09-01T11:26:02.508054+07:00"
+    },
+    {
+      "id": "8dc16fb509cd8e17f033b5da3e546013",
+      "title": "ĐỘI NGŨ Y TẾ HỖ TRỢ NGƯỜI DÂN GẶP VẤN ĐỀ SỨC KHỎE TRONG ĐẠI LỄ",
+      "link": "https://thanhnien.vn/doi-ngu-y-te-kip-thoi-ho-tro-nguoi-dan-gap-van-de-suc-khoe-khi-tham-du-dai-le-185250901100329139.htm",
+      "summary": "Trong không khí kỷ niệm 80 năm Quốc khánh 2.9, Trung tâm Y tế Thành phố Hà Nội phối hợp cùng đội ngũ dược sĩ của Pharmacity đã túc trực tại các điểm đông người, kịp thời hỗ trợ những trường hợp tụt huyết áp, hoa mắt chóng mặt… giúp người dân và du khách yên tâm tham gia các hoạt động mừng lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:00:00+07:00",
+      "fetched": "2025-09-01T11:26:05.431962+07:00"
+    },
+    {
+      "id": "bffd2fb712ebbaf0a884d4677db2ef4d",
+      "title": "Phản hồi: Điểm dừng xe buýt đã thông thoáng",
+      "link": "https://thanhnien.vn/phan-hoi-diem-dung-xe-buyt-da-thong-thoang-185250831175906237.htm",
+      "summary": "Báo Thanh Niên ngày 26.8.2025 đăng tin phản ánh điểm dừng xe buýt gần trước nhà số 102 Phổ Quang, P.Tân Sơn Hòa (trước đây thuộc P.2, Q.Tân Bình), TP.HCM, bị biến thành nơi tập kết phế liệu ve chai, rất nhếch nhác (ảnh 1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T04:00:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432116+07:00"
+    },
+    {
+      "id": "28beb26920fdadb1ea01ee16a1b3c0f7",
+      "title": "Bà con phấn khởi khoe nhận quà 100.000 đồng dịp Quốc khánh, hơn 5 ngàn tỉ đã được chi trả",
+      "link": "https://thanhnien.vn/ba-con-phan-khoi-khoe-nhan-qua-100000-dong-dip-quoc-khanh-hon-5-ngan-ti-da-duoc-chi-tra-185250901105740838.htm",
+      "summary": "Mạng xã hội đang ngập tràn hình ảnh người dân khoe nhận được 100.000 đồng dịp Quốc khánh 2.9. Theo cập nhật trên trang Thông tin Chính phủ, đến tối 31.8, đã có hơn 5.600 tỷ đồng được chi trả (tương ứng 53,15% trên tổng kinh phí dự kiến là khoảng hơn 10.700 tỷ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:58:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432273+07:00"
+    },
+    {
+      "id": "2384f6c98330a85a214cdd90b9eb5632",
+      "title": "Hoang mang vì khu phố bỗng biến thành phim trường Harry Potter",
+      "link": "https://thanhnien.vn/hoang-mang-vi-khu-pho-bong-bien-thanh-phim-truong-harry-potter-185250901104506515.htm",
+      "summary": "Bộ phim Harry Potter bản truyền hình mới do Đài HBO đầu tư sản xuất đã chọn khu phố Springfield Gardens ở phía đông thủ đô London (Anh) làm phim trường, song người dân địa phương không nắm rõ thông tin này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:54:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432442+07:00"
+    },
+    {
+      "id": "a929d9aa85dc42b7f24ac4e67c8ebb14",
+      "title": "Đất tổ lần đầu có cầu thủ khoác áo U.23 Việt Nam trên sân nhà",
+      "link": "https://thanhnien.vn/dat-to-lan-dau-co-cau-thu-khoac-ao-u23-viet-nam-tren-san-nha-185250901101704801.htm",
+      "summary": "Lần đầu tiên trong lịch sử, một cầu thủ gốc Phú Thọ sẽ thi đấu tại một giải đấu quốc tế chính thức trên sân vận động Việt Trì. Đó chính là tiền vệ Nguyễn Xuân Bắc của đội tuyển U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:53:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432623+07:00"
+    },
+    {
+      "id": "fb1a0a4fafe745871cba974f84204613",
+      "title": "'Guốc xích' giúp xe tăng diễu binh không làm hư đường",
+      "link": "https://vnexpress.net/guoc-xich-giup-xe-tang-dieu-binh-khong-lam-hu-duong-4933912.html",
+      "summary": "Những tấm cao su gắn dưới từng mắt xích thép giúp xe tăng di chuyển mà không gây cào xước mặt đường, hạn chế rung chấn và tiếng ồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:52:06+07:00",
+      "fetched": "2025-09-01T11:26:02.508236+07:00"
+    },
+    {
+      "id": "963d91edb66d4707800b124ff21b1655",
+      "title": "Đường ngập nước, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-ngap-nuoc-di-lai-kho-khan-185250831175506281.htm",
+      "summary": "Đường Vĩnh Lộc, xã Tân Vĩnh Lộc (trước đây thuộc Vĩnh Lộc B, H.Bình Chánh), TP.HCM, bị xuống cấp, giữa lòng đường bị trũng xuống, lầy lội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:52:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432776+07:00"
+    },
+    {
+      "id": "61760dabf231f323e49e5d388d7c4174",
+      "title": "Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-4933908.html",
+      "summary": "Sáng 1/9, đoàn đại biểu Ban Chấp hành Trung ương, Chủ tịch nước, Quốc hội, Trung ương Mặt trận Tổ quốc Việt Nam đặt vòng hoa, vào Lăng viếng Chủ tịch Hồ Chí Minh và dâng hương tưởng niệm anh hùng liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:51:31+07:00",
+      "fetched": "2025-09-01T11:26:02.508415+07:00"
+    },
+    {
+      "id": "5fd4ed68dfcae18f696d754dd4537ee4",
+      "title": "Động đất mạnh ở Afghanistan, hàng trăm người có thể đã thiệt mạng",
+      "link": "https://thanhnien.vn/dong-dat-manh-o-afghanistan-hang-tram-nguoi-co-the-da-thiet-mang-185250901104809249.htm",
+      "summary": "Hàng trăm người được cho là đã thiệt mạng sau trận động đất mạnh 6,0 độ Richter xảy ra ở miền đông Afghanistan, theo Reuters dẫn lời các quan chức địa phương hôm nay 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:50:00+07:00",
+      "fetched": "2025-09-01T11:26:05.432932+07:00"
+    },
+    {
+      "id": "cd626bcdcccadc9f788bd63055e72420",
+      "title": "Một tuần Indonesia chìm trong hỗn loạn vì biểu tình",
+      "link": "https://vnexpress.net/mot-tuan-indonesia-chim-trong-hon-loan-vi-bieu-tinh-4933855.html",
+      "summary": "Biểu tình phản đối chính phủ và tình trạng bất bình đẳng trong xã hội tại Indonesia đã diễn ra trong suốt một tuần qua, khiến nước này rơi vào khủng hoảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:43:12+07:00",
+      "fetched": "2025-09-01T11:26:02.508636+07:00"
+    },
+    {
+      "id": "cd626bcdcccadc9f788bd63055e72420",
+      "title": "Một tuần Indonesia chìm trong hỗn loạn vì biểu tình",
+      "link": "https://vnexpress.net/mot-tuan-indonesia-chim-trong-hon-loan-vi-bieu-tinh-4933855.html",
+      "summary": "Biểu tình phản đối chính phủ và tình trạng bất bình đẳng trong xã hội tại Indonesia đã diễn ra trong suốt một tuần qua, khiến nước này rơi vào khủng hoảng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T03:43:12+07:00",
+      "fetched": "2025-09-01T11:26:08.528188+07:00"
+    },
+    {
+      "id": "c3b7d8aacc2708000836fe763a85c7c5",
+      "title": "Hà Nội sáng 2/9 hửng nắng",
+      "link": "https://vnexpress.net/ha-noi-sang-2-9-hung-nang-4933895.html",
+      "summary": "Đêm nay và rạng sáng 2/9, Hà Nội có lúc mưa, đến sau 7h trời bắt đầu hửng nắng, gió nhẹ, thuận tiện cho các hoạt động kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:42:33+07:00",
+      "fetched": "2025-09-01T11:26:02.508804+07:00"
+    },
+    {
+      "id": "5d52ba7b1366f7673493ba11324a54e6",
+      "title": "Hiện trạng sông Tô Lịch trước thời điểm được 'hồi sinh'",
+      "link": "https://thanhnien.vn/hien-trang-song-to-lich-truoc-thoi-diem-duoc-hoi-sinh-185250901072415426.htm",
+      "summary": "Trước thời điểm Hà Nội đặt mục tiêu 'hồi sinh', sông Tô Lịch được bổ cập nước từ hồ Tây nên có màu xanh ở phía thượng nguồn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:38:00+07:00",
+      "fetched": "2025-09-01T11:26:05.433079+07:00"
+    },
+    {
+      "id": "f764003af6d3cc33189c10f180ffa99a",
+      "title": "TP.HCM: 314 phạm nhân ở Trại giam An Phước được đặc xá",
+      "link": "https://thanhnien.vn/tphcm-314-pham-nhan-o-trai-giam-an-phuoc-duoc-dac-xa-185250901100014912.htm",
+      "summary": "Sáng 1.9, tại xã Phước Thành, TP.HCM (huyện Phú Giáo, Bình Dương cũ), Trại giam An Phước (thuộc Cục Cảnh sát quản lý trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng -C10, Bộ Công an) công bố quyết định đặc xá cho 314 phạm nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:37:00+07:00",
+      "fetched": "2025-09-01T11:26:05.433230+07:00"
+    },
+    {
+      "id": "bff62490bf37c43f3b138c71eb785de6",
+      "title": "Cú đánh thiên tài đưa Alcaraz vào tứ kết Mỹ Mở rộng",
+      "link": "https://vnexpress.net/cu-danh-thien-tai-dua-alcaraz-vao-tu-ket-my-mo-rong-4933915.html",
+      "summary": "Carlos Alcaraz, với khoảnh khắc thiên tài, vượt qua tay vợt Pháp Arthur Rinderknech 7-6(3), 6-3, 6-4 sau 2 giờ 12 phút để vào tứ kết Grand Slam cuối cùng trong năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:33:09+07:00",
+      "fetched": "2025-09-01T11:26:02.508979+07:00"
+    },
+    {
+      "id": "bff62490bf37c43f3b138c71eb785de6",
+      "title": "Cú đánh thiên tài đưa Alcaraz vào tứ kết Mỹ Mở rộng",
+      "link": "https://vnexpress.net/cu-danh-thien-tai-dua-alcaraz-vao-tu-ket-my-mo-rong-4933915.html",
+      "summary": "Carlos Alcaraz, với khoảnh khắc thiên tài, vượt qua tay vợt Pháp Arthur Rinderknech 7-6(3), 6-3, 6-4 sau 2 giờ 12 phút để vào tứ kết Grand Slam cuối cùng trong năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T03:33:09+07:00",
+      "fetched": "2025-09-01T11:26:15.519859+07:00"
+    },
+    {
+      "id": "0681ecfc7e39c20475e78fd7d42aeb1f",
+      "title": "Cơn sốt matcha đẩy giá bột trà xanh Nhật Bản tăng vọt",
+      "link": "https://vnexpress.net/con-sot-matcha-day-gia-bot-tra-xanh-nhat-ban-tang-vot-4933749.html",
+      "summary": "Cơn sốt matcha toàn cầu chưa hạ nhiệt khiến loại bột trà xanh này ngày càng khan hiếm, giá tăng 2-3 lần một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:31:41+07:00",
+      "fetched": "2025-09-01T11:26:02.509153+07:00"
+    },
+    {
+      "id": "0681ecfc7e39c20475e78fd7d42aeb1f",
+      "title": "Cơn sốt matcha đẩy giá bột trà xanh Nhật Bản tăng vọt",
+      "link": "https://vnexpress.net/con-sot-matcha-day-gia-bot-tra-xanh-nhat-ban-tang-vot-4933749.html",
+      "summary": "Cơn sốt matcha toàn cầu chưa hạ nhiệt khiến loại bột trà xanh này ngày càng khan hiếm, giá tăng 2-3 lần một năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-01T03:31:41+07:00",
+      "fetched": "2025-09-01T11:26:10.149468+07:00"
+    },
+    {
+      "id": "b1d3ebcfab079b650361e4d582e38647",
+      "title": "'Đò lên Thạch Hãn ơi chèo nhẹ' - nỗi niềm người lính hậu chiến",
+      "link": "https://vnexpress.net/do-len-thach-han-oi-cheo-nhe-noi-niem-nguoi-linh-hau-chien-4933648.html",
+      "summary": "Câu thơ trong bài ''Lời người bên sông'' là tình cảm của nhà thơ Lê Bá Dương với đồng đội đã nằm lại dưới dòng Thạch Hãn năm xưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:22:26+07:00",
+      "fetched": "2025-09-01T11:26:02.509313+07:00"
+    },
+    {
+      "id": "4a7f3e1370d0812f82c1b8349906e2e5",
+      "title": "Thủ tướng yêu cầu đẩy nhanh tặng 100.000 đồng dịp Quốc khánh",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-day-nhanh-tang-100-000-dong-dip-quoc-khanh-4933887.html",
+      "summary": "Thủ tướng Phạm Minh Chính chỉ đạo các địa phương nhanh chóng tặng quà 100.000 đồng cho người dân, hoàn thành trước 2/9, không để sót hoặc trùng lặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:21:24+07:00",
+      "fetched": "2025-09-01T11:26:02.509482+07:00"
+    },
+    {
       "id": "6fc361f1f8e0895c119fa1c8d4153af8",
       "title": "Dấu ấn 'người' mở đường: Con đường vàng tạo ra giá trị vàng",
       "link": "https://thanhnien.vn/dau-an-nguoi-mo-duong-con-duong-vang-tao-ra-gia-tri-vang-185250831222742547.htm",
@@ -311,6 +701,66 @@ window.newsData_2025_09_01 = {
       "category": "Tổng hợp",
       "published": "2025-09-01T03:15:00+07:00",
       "fetched": "2025-09-01T10:18:55.374157+07:00"
+    },
+    {
+      "id": "638a519e8d09f59cec79e0cdcd7645fd",
+      "title": "Thịnh Suy tự lên giáo án, chạm mốc sub2 bán marathon",
+      "link": "https://vnexpress.net/thinh-suy-tu-len-giao-an-cham-moc-sub2-ban-marathon-4933861.html",
+      "summary": "Ca sĩ Thịnh Suy lần đầu hoàn thành 21km dưới 2 giờ tại VnExpress Marathon Libera Nha Trang, sau nhiều tháng tập luyện theo giáo án tự xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:15:00+07:00",
+      "fetched": "2025-09-01T11:26:02.509676+07:00"
+    },
+    {
+      "id": "ee84c266d6f11f1343f188c6d5642e05",
+      "title": "Thanh Hóa ban bố tình huống khẩn cấp tại hai xã biên giới",
+      "link": "https://vnexpress.net/thanh-hoa-ban-bo-tinh-huong-khan-cap-tai-hai-xa-bien-gioi-4933896.html",
+      "summary": "Bão Kajiki tàn phá hai xã Yên Nhân và Bát Mọt, hàng trăm hộ sơ tán, nhiều công trình hư hỏng, buộc Thanh Hóa ban bố tình huống khẩn cấp để tập trung cứu trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:09:43+07:00",
+      "fetched": "2025-09-01T11:26:02.509842+07:00"
+    },
+    {
+      "id": "6ae7c13b9dd0827cd0fccb52fcfbc914",
+      "title": "Anh có thể đến với em vào thu không?",
+      "link": "https://vnexpress.net/anh-co-the-den-voi-em-vao-thu-khong-4933877.html",
+      "summary": "Nhiều năm không yêu ai, em hy vọng đây là một trong những nơi cho nhau cơ hội để thấy được một nửa mình mong đợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:06:33+07:00",
+      "fetched": "2025-09-01T11:26:02.509943+07:00"
+    },
+    {
+      "id": "4700c830ab0640cb8c14880136d8f133",
+      "title": "Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-chu-tri-le-don-bi-thu-thu-nhat-chu-tich-cuba-4933882.html",
+      "summary": "Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez, đang thăm cấp nhà nước đến Việt Nam ngày 31/8-2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:05:49+07:00",
+      "fetched": "2025-09-01T11:26:02.510109+07:00"
+    },
+    {
+      "id": "4700c830ab0640cb8c14880136d8f133",
+      "title": "Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-chu-tri-le-don-bi-thu-thu-nhat-chu-tich-cuba-4933882.html",
+      "summary": "Tổng Bí thư Tô Lâm chủ trì lễ đón Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez, đang thăm cấp nhà nước đến Việt Nam ngày 31/8-2/9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T03:05:49+07:00",
+      "fetched": "2025-09-01T11:26:08.528383+07:00"
+    },
+    {
+      "id": "744c6b956f4334634286ca996062ac22",
+      "title": "'Tử chiến trên không' cùng loạt phim Việt ra rạp tháng 9",
+      "link": "https://vnexpress.net/tu-chien-tren-khong-cung-loat-phim-viet-ra-rap-thang-9-4933875.html",
+      "summary": "\"Tử chiến trên không\" về vụ cướp máy bay có thật ở Việt Nam, \"Phá đám: Sinh nhật mẹ\", \"Cô dâu ma\" cạnh tranh phòng vé trong nước tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T03:05:45+07:00",
+      "fetched": "2025-09-01T11:26:02.510266+07:00"
     },
     {
       "id": "03905587038d7b78f23bdfcbe6bd7c89",
