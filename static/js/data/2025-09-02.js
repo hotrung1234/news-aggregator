@@ -1,7 +1,157 @@
 window.newsData_2025_09_02 = {
   "date": "2025-09-02",
-  "lastUpdated": "2025-09-02T19:34:46.240013+07:00",
+  "lastUpdated": "2025-09-02T21:16:53.235450+07:00",
   "articles": [
+    {
+      "id": "62ceea05831e79a8c9b6c1dfa1dbba1f",
+      "title": "Ngày 2-9 khu vực trung tâm Hà Nội phát sinh 410 tấn rác,  9.000 thanh niên tham gia dọn",
+      "link": "https://tuoitre.vn/ngay-2-9-khu-vuc-trung-tam-ha-noi-phat-sinh-410-tan-rac-9-000-thanh-nien-tham-gia-don-20250902180129713.htm",
+      "summary": "Theo Urenco, ngày 2-9 tại khu vực Ba Đình, Hoàn Kiếm, Hai Bà Trưng, Đống Đa phát sinh thêm khoảng 410 tấn rác thải so với khối lượng trung bình hằng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394873+07:00",
+      "fetched": "2025-09-02T21:16:48.394990+07:00"
+    },
+    {
+      "id": "3500c9e17dddf1082794304dfb7baec7",
+      "title": "CEO tập đoàn khổng lồ Suntory của Nhật từ chức vì nghi vấn liên quan chất cấm",
+      "link": "https://tuoitre.vn/ceo-tap-doan-khong-lo-suntory-cua-nhat-tu-chuc-vi-nghi-van-lien-quan-chat-cam-20250902190548042.htm",
+      "summary": "Tổng giám đốc tập đoàn đồ uống Suntory Holdings Takeshi Niinami nộp đơn từ chức sau khi bị điều tra liên quan đến cần sa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394746+07:00",
+      "fetched": "2025-09-02T21:16:48.394861+07:00"
+    },
+    {
+      "id": "224f3cec59cb174241ff74ac105d52f6",
+      "title": "Khánh Hòa đón hơn 900.000 lượt khách dịp lễ 2-9",
+      "link": "https://tuoitre.vn/khanh-hoa-don-hon-900000-luot-khach-dip-le-2-9-20250902185743172.htm",
+      "summary": "Trong 4 ngày nghỉ lễ Quốc khánh 2-9 năm nay, Khánh Hòa đã đón hơn 900.000 lượt khách tham quan, nghỉ dưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394611+07:00",
+      "fetched": "2025-09-02T21:16:48.394734+07:00"
+    },
+    {
+      "id": "ad757bbab320d6f3fe654e3d2cbf8641",
+      "title": "Du khách vui 2-9 tại Sun Paradise Land ba miền",
+      "link": "https://tuoitre.vn/du-khach-vui-2-9-tai-sun-paradise-land-ba-mien-20250902190236724.htm",
+      "summary": "Kỳ nghỉ lễ Quốc khánh 2-9 năm nay, hàng trăm nghìn du khách trong và ngoài nước đã vui chơi tại Sun Paradise Land trên khắp ba miền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394466+07:00",
+      "fetched": "2025-09-02T21:16:48.394598+07:00"
+    },
+    {
+      "id": "6787f9ae117383127c25930f1e289baa",
+      "title": "Mật mã Ba Đình",
+      "link": "https://tuoitre.vn/mat-ma-ba-dinh-20250901160224744.htm",
+      "summary": "Kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9, báo Tuổi trẻ ghi lại những địa danh lịch sử chứng kiến các quyết định thay đổi vận mệnh đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394315+07:00",
+      "fetched": "2025-09-02T21:16:48.394453+07:00"
+    },
+    {
+      "id": "14f48bdeb786346ebd6800d5f3e2b725",
+      "title": "Loạt giao dịch cổ phiếu khủng sau nghỉ lễ, lãnh đạo bất động sản 'đua' thoái vốn",
+      "link": "https://tuoitre.vn/loat-giao-dich-co-phieu-khung-sau-nghi-le-lanh-dao-bat-dong-san-dua-thoai-von-20250902192249706.htm",
+      "summary": "Thị trường chứng khoán những ngày đầu tháng 9 sẽ ghi nhận giao dịch cổ phiếu đáng chú ý từ các lãnh đạo doanh nghiệp, cổ đông lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394180+07:00",
+      "fetched": "2025-09-02T21:16:48.394303+07:00"
+    },
+    {
+      "id": "fe02fce474b79897ab2b1ce0213cb51d",
+      "title": "Luis Suarez mặc áo dài, chúc mừng Quốc khánh Việt Nam",
+      "link": "https://tuoitre.vn/luis-suarez-mac-ao-dai-chuc-mung-quoc-khanh-viet-nam-20250902193500071.htm",
+      "summary": "Siêu sao bóng đá Luis Suarez mới đây bất ngờ đăng tải đoạn clip chúc mừng ngày Lễ Quốc khánh của Việt Nam, trong đó anh mặc áo dài trắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.394043+07:00",
+      "fetched": "2025-09-02T21:16:48.394164+07:00"
+    },
+    {
+      "id": "def12c1d713346afa7f1eed950b23c94",
+      "title": "Tháng 9: Biển Đông có thể có 2-3 cơn bão hoặc áp thấp nhiệt đới",
+      "link": "https://tuoitre.vn/thang-9-bien-dong-co-the-co-2-3-con-bao-hoac-ap-thap-nhiet-doi-20250902194328946.htm",
+      "summary": "Dự báo trong tháng 9, có thể có 2-3 cơn bão hoặc áp thấp nhiệt đới hoạt động trên Biển Đông và không loại trừ có xoáy thuận nhiệt đới ảnh hưởng đến đất liền nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393914+07:00",
+      "fetched": "2025-09-02T21:16:48.394031+07:00"
+    },
+    {
+      "id": "b5dc656679d0620b6376a4e2653a0c51",
+      "title": "Ngôi sao bóng chuyền vào nhóm những người đẹp nhất thế giới",
+      "link": "https://tuoitre.vn/ngoi-sao-bong-chuyen-vao-nhom-nhung-nguoi-dep-nhat-the-gioi-20250902185821351.htm",
+      "summary": "Zehra Gunes, ngôi sao Thổ Nhĩ Kỳ đang rực sáng ở Giải vô địch bóng chuyền nữ thế giới mới đây, được tổ chức sắc đẹp TC Candler liệt vào danh sách những ứng viên cho cuộc bình chọn đẹp nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393773+07:00",
+      "fetched": "2025-09-02T21:16:48.393902+07:00"
+    },
+    {
+      "id": "2bcf2d60eb2202cd2e67d97e6b3e10a8",
+      "title": "Tiếng quốc ca Việt Nam vang lên đầy tự hào giữa lòng Trung Phi ngày Quốc khánh",
+      "link": "https://tuoitre.vn/tieng-quoc-ca-viet-nam-vang-len-day-tu-hao-giua-long-trung-phi-ngay-quoc-khanh-20250902175734036.htm",
+      "summary": "Lá cờ đỏ sao vàng tung bay trên bầu trời Bangui, tiếng Quốc ca vang lên đầy xúc động và tự hào của các sĩ quan gìn giữ hòa bình Việt Nam, mở đầu Lễ kỷ niệm 80 năm Cách mạng tháng Tám và Quốc khánh 2-9 tại phái bộ MINUSCA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393639+07:00",
+      "fetched": "2025-09-02T21:16:48.393761+07:00"
+    },
+    {
+      "id": "b65e5ec9c6aa8272a476d213bf7f8ef5",
+      "title": "Ông Kim Jong Un đi cùng con gái sang Trung Quốc",
+      "link": "https://tuoitre.vn/ong-kim-jong-un-di-cung-con-gai-sang-trung-quoc-20250902203333227.htm",
+      "summary": "Các hình ảnh được Hãng thông tấn trung ương Triều Tiên KCNA công bố ngày 2-9 cho thấy ông Kim Jong Un cùng con gái xuống tàu ở Trung Quốc. Ông Kim cũng dự kiến gặp ông Putin vào ngày mai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393483+07:00",
+      "fetched": "2025-09-02T21:16:48.393626+07:00"
+    },
+    {
+      "id": "c1d9bc70e86bf9aa913e1eb64ee9d2f5",
+      "title": "Phó tư lệnh Cảnh sát cơ động: 4 tháng tập luyện trên thao trường là ký ức đẹp của chiến sĩ A80",
+      "link": "https://tuoitre.vn/pho-tu-lenh-canh-sat-co-dong-4-thang-tap-luyen-tren-thao-truong-la-ky-uc-dep-cua-chien-si-a80-20250902191747143.htm",
+      "summary": "Chiều 2-9, Tiểu ban diễu binh, diễu hành A80 tổng kết, biểu dương hơn 7.000 cán bộ, chiến sĩ Công an nhân dân đã hoàn thành xuất sắc nhiệm vụ trong lễ kỷ niệm trọng đại của dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393353+07:00",
+      "fetched": "2025-09-02T21:16:48.393471+07:00"
+    },
+    {
+      "id": "d2e5e85a24a95418b863d57cd0d89e0d",
+      "title": "Trúc Nhân, Bùi Công Nam và phiên bản 'rồng che mất mặt'",
+      "link": "https://tuoitre.vn/truc-nhan-bui-cong-nam-va-phien-ban-rong-che-mat-mat-20250902195113501.htm",
+      "summary": "Ca sĩ Trúc Nhân, nhạc sĩ Bùi Công Nam có những chia sẻ dí dỏm về khoảnh khắc bị che ‘mất mặt’ trên sóng trực tiếp khi tham gia hát tại lễ diễu binh, diễu hành mừng Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393209+07:00",
+      "fetched": "2025-09-02T21:16:48.393341+07:00"
+    },
+    {
+      "id": "b7d629ea448ef7615d852d3cac0a002c",
+      "title": "Trợ lý U23 Bangladesh dành 'lời có cánh' cho U23 Việt Nam",
+      "link": "https://tuoitre.vn/tro-ly-u23-bangladesh-danh-loi-co-canh-cho-u23-viet-nam-20250902204138985.htm",
+      "summary": "HLV Hassan Al-Mamun của đội U23 Bangladesh đánh giá rất cao U23 Việt Nam trước trận ra quân bảng C vòng loại U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.393057+07:00",
+      "fetched": "2025-09-02T21:16:48.393196+07:00"
+    },
+    {
+      "id": "c57117fc1ec56f9860388fe56ad2e466",
+      "title": "Kiểm định chất lượng, khả năng khai thác cầu Vĩnh Tuy sau vụ cháy bãi xe ở gầm cầu",
+      "link": "https://tuoitre.vn/kiem-dinh-chat-luong-kha-nang-khai-thac-cau-vinh-tuy-sau-vu-chay-bai-xe-o-gam-cau-20250902204349402.htm",
+      "summary": "Bộ Xây dựng vừa yêu cầu kiểm định, đánh giá chất lượng và khả năng khai thác công trình cầu Vĩnh Tuy sau vụ cháy bãi gửi xe dưới gầm cầu làm bong vỡ bê tông, lộ cốt thép cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:16:48.392805+07:00",
+      "fetched": "2025-09-02T21:16:48.393039+07:00"
+    },
     {
       "id": "4a21f310c88053b3c3e770263b4fc763",
       "title": "Người dân hân hoan khoe cách dùng 100.000 đồng Chính phủ lì xì ăn Tết Độc lập",
@@ -453,6 +603,66 @@ window.newsData_2025_09_02 = {
       "fetched": "2025-09-02T15:22:32.621913+07:00"
     },
     {
+      "id": "7761503f44162c204e4082554d7f0c2d",
+      "title": "Bắt nhóm giả danh cảnh sát cướp tài sản",
+      "link": "https://thanhnien.vn/bat-nhom-gia-danh-canh-sat-cuop-tai-san-185250902195719509.htm",
+      "summary": "Công an TP.Hải Phòng vừa bắt giữ 2 đối tượng giả danh Cảnh sát hình sự, dùng súng, bộ đàm và băng đỏ để gây ra các vụ cướp xe máy, điện thoại trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T14:00:00+07:00",
+      "fetched": "2025-09-02T21:16:47.556702+07:00"
+    },
+    {
+      "id": "13e4a3674e1d0f1d0f9771fa22487c0a",
+      "title": "100% xã, phường đã nhận kinh phí quà Quốc khánh",
+      "link": "https://thanhnien.vn/100-xa-phuong-da-nhan-kinh-phi-qua-quoc-khanh-185250902204614004.htm",
+      "summary": "Đến 17 giờ hôm nay 2.9, toàn bộ 3.321 xã, phường trên cả nước đã hoàn thành việc rút kinh phí từ Kho bạc Nhà nước để tổ chức tặng quà Quốc khánh đến người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:59:00+07:00",
+      "fetched": "2025-09-02T21:16:47.556880+07:00"
+    },
+    {
+      "id": "380961a2835aa1ada81143f1f10562eb",
+      "title": "Vụ cháy gầm cầu Vĩnh Tuy: Bộ Xây dựng quyết dẹp trông giữ xe gầm cầu",
+      "link": "https://thanhnien.vn/vu-chay-gam-cau-vinh-tuy-bo-xay-dung-quyet-dep-trong-giu-xe-gam-cau-185250902192634782.htm",
+      "summary": "Bộ trưởng Xây dựng Trần Hồng Minh vừa có chỉ thị yêu cầu kiểm tra, rà soát việc sử dụng hành lang an toàn giao thông, nghiêm cấm việc trông giữ xe dưới gầm cầu mất an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:59:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557041+07:00"
+    },
+    {
+      "id": "1d4a673da5dac86951422e00e51b2920",
+      "title": "Hàng chục nghìn du khách ‘nhuộm đỏ’ Trung tâm triển lãm quốc gia",
+      "link": "https://vnexpress.net/hang-chuc-nghin-du-khach-nhuom-do-trung-tam-trien-lam-quoc-gia-4934317.html",
+      "summary": "Đông đảo người dân diện áo cờ đỏ sao vàng, đem theo phụ kiện tham quan, check-in tại Trung tâm triển lãm quốc gia suốt nhiều ngày qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:45:00+07:00",
+      "fetched": "2025-09-02T21:16:45.059893+07:00"
+    },
+    {
+      "id": "e9803a222c3434a717b721d7937259f5",
+      "title": "NATO đặt thêm trung tâm chỉ huy mới gần Nga",
+      "link": "https://thanhnien.vn/nato-dat-them-trung-tam-chi-huy-moi-gan-nga-185250902195610853.htm",
+      "summary": "Một trung tâm chỉ huy mới của NATO đã bắt đầu hoạt động tại Phần Lan vào ngày 1.9, theo trang tin The Kyiv Independent hôm nay 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:38:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557196+07:00"
+    },
+    {
+      "id": "449d0a21c52c3e3efc2aa75712fe26e8",
+      "title": "Nỗi hối hận của người mẹ có con trai 'học chậm'",
+      "link": "https://vnexpress.net/tre-cham-phat-trien-nuoi-day-con-the-nao-4934250.html",
+      "summary": "Con trai tôi là một đứa trẻ 'học chậm', con gặp khó khăn trong việc đọc, viết và tính toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:34:28+07:00",
+      "fetched": "2025-09-02T21:16:45.060080+07:00"
+    },
+    {
       "id": "7472e38c4fd3a4f2a18123be546dd2ec",
       "title": "Quân nhân 4 nước sải bước trên quảng trường Ba Đình",
       "link": "https://tuoitre.vn/quan-nhan-4-nuoc-sai-buoc-tren-quang-truong-ba-dinh-20250902105329473.htm",
@@ -601,6 +811,256 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T13:25:33.116686+07:00",
       "fetched": "2025-09-02T13:25:33.116889+07:00"
+    },
+    {
+      "id": "83c76dc763a7ba91ec156df92760f758",
+      "title": "Đối thủ Bangladesh chỉ rõ 3 cầu thủ hay nhất U.23 Việt Nam, có Khuất Văn Khang và…",
+      "link": "https://thanhnien.vn/doi-thu-bangladesh-chi-ro-3-cau-thu-hay-nhat-u23-viet-nam-co-ten-van-khang-va-18525090220105338.htm",
+      "summary": "Do HLV Saiful Bari Titu phải nhập viện vì sốt, trợ lý Hassan Al Mamun đã thay mặt U.23 Bangladesh tham gia buổi họp báo trước thềm màn so tài U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:20:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557347+07:00"
+    },
+    {
+      "id": "d52b607adc84a61a8c8718883946a4d4",
+      "title": "Mưa lớn, người dân vẫn bám trụ ở trung tâm TP.HCM chờ xem pháo hoa mừng Quốc khánh",
+      "link": "https://thanhnien.vn/mua-lon-nguoi-dan-van-bam-tru-o-trung-tam-tphcm-cho-xem-phao-hoa-mung-quoc-khanh-185250902201723931.htm",
+      "summary": "Dù trời mưa lớn, người dân vẫn đổ về các điểm xem bắn pháo hoa ở TP.HCM kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:17:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557496+07:00"
+    },
+    {
+      "id": "eae48e847e36b1e5a9c00e8e2fa0c594",
+      "title": "YouTube bắt đầu 'siết' việc chia sẻ gói Premium gia đình",
+      "link": "https://thanhnien.vn/youtube-bat-dau-siet-viec-chia-se-goi-premium-gia-dinh-185250902145219802.htm",
+      "summary": "Học theo Netflix, YouTube chính thức tuyên chiến với việc chia sẻ tài khoản Premium thông qua gói Family.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:15:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557664+07:00"
+    },
+    {
+      "id": "34e82f9dc265aa5e418ef13fecf625da",
+      "title": "Ten Hag nhận 7 triệu USD cho 60 ngày công",
+      "link": "https://vnexpress.net/ten-hag-nhan-7-trieu-usd-cho-60-ngay-cong-4934326.html",
+      "summary": "Erik ten Hag chỉ gắn bó hai tháng với Leverkusen, nhưng bỏ túi khoảng 7 triệu USD, trung bình 117.000 USD mỗi ngày làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:14:30+07:00",
+      "fetched": "2025-09-02T21:16:45.060249+07:00"
+    },
+    {
+      "id": "34e82f9dc265aa5e418ef13fecf625da",
+      "title": "Ten Hag nhận 7 triệu USD cho 60 ngày công",
+      "link": "https://vnexpress.net/ten-hag-nhan-7-trieu-usd-cho-60-ngay-cong-4934326.html",
+      "summary": "Erik ten Hag chỉ gắn bó hai tháng với Leverkusen, nhưng bỏ túi khoảng 7 triệu USD, trung bình 117.000 USD mỗi ngày làm việc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-02T13:14:30+07:00",
+      "fetched": "2025-09-02T21:16:53.222855+07:00"
+    },
+    {
+      "id": "4fe8839c61c54d5e0a560b8acfb6bba5",
+      "title": "Ba thanh niên gặp nạn dưới hồ",
+      "link": "https://vnexpress.net/ba-thanh-nien-gap-nan-duoi-ho-4934327.html",
+      "summary": "Nhóm thanh niên đến khu vực hồ dưới chân đập thủy điện vui chơi, một người bị rơi xuống nước, hai bạn nhảy xuống cứu nhưng cả ba cùng đuối nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:13:50+07:00",
+      "fetched": "2025-09-02T21:16:45.060413+07:00"
+    },
+    {
+      "id": "2af62957f56a2a173752eb03d1668ff1",
+      "title": "Ông Putin nêu khả năng Nga - Mỹ - Ukraine cùng vận hành nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/ong-putin-neu-kha-nang-nga-my-ukraine-cung-van-hanh-nha-may-dien-hat-nhan-4934312.html",
+      "summary": "Tổng thống Putin cho biết Nga sẵn sàng xem xét hợp tác với Mỹ và Ukraine liên quan vận hành nhà máy điện hạt nhân ở Zaporizhzhia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:12:58+07:00",
+      "fetched": "2025-09-02T21:16:45.060598+07:00"
+    },
+    {
+      "id": "2af62957f56a2a173752eb03d1668ff1",
+      "title": "Ông Putin nêu khả năng Nga - Mỹ - Ukraine cùng vận hành nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/ong-putin-neu-kha-nang-nga-my-ukraine-cung-van-hanh-nha-may-dien-hat-nhan-4934312.html",
+      "summary": "Tổng thống Putin cho biết Nga sẵn sàng xem xét hợp tác với Mỹ và Ukraine liên quan vận hành nhà máy điện hạt nhân ở Zaporizhzhia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T13:12:58+07:00",
+      "fetched": "2025-09-02T21:16:49.515741+07:00"
+    },
+    {
+      "id": "df776ab15a8d76caaa7b1d7f96e4cb51",
+      "title": "Quà Quốc khánh mang lại may mắn: Trúng 8 tờ xổ số miền Nam ngày 2 tháng 9",
+      "link": "https://thanhnien.vn/qua-quoc-khanh-mang-lai-may-man-trung-8-to-xo-so-mien-nam-ngay-2-thang-9-185250902193752825.htm",
+      "summary": "Xổ số miền Nam ngày 2 tháng 9 ghi nhận trường hợp thú vị: một người dùng 100.000 đồng quà Quốc khánh mua vé số và bất ngờ trúng giải nhất đài Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:11:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557822+07:00"
+    },
+    {
+      "id": "3e03a3c317bac8c0df145cc3dc7cee7a",
+      "title": "Chủ tịch nước lên đường tới Trung Quốc dự kỷ niệm chiến thắng phát xít",
+      "link": "https://vnexpress.net/chu-tich-nuoc-len-duong-toi-trung-quoc-du-ky-niem-chien-thang-phat-xit-4934320.html",
+      "summary": "Chủ tịch nước Lương Cường chiều 2/9 lên đường đến Trung Quốc dự lễ kỷ niệm 80 năm chiến thắng phát xít và làm việc tại nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:01:12+07:00",
+      "fetched": "2025-09-02T21:16:45.060764+07:00"
+    },
+    {
+      "id": "3e03a3c317bac8c0df145cc3dc7cee7a",
+      "title": "Chủ tịch nước lên đường tới Trung Quốc dự kỷ niệm chiến thắng phát xít",
+      "link": "https://vnexpress.net/chu-tich-nuoc-len-duong-toi-trung-quoc-du-ky-niem-chien-thang-phat-xit-4934320.html",
+      "summary": "Chủ tịch nước Lương Cường chiều 2/9 lên đường đến Trung Quốc dự lễ kỷ niệm 80 năm chiến thắng phát xít và làm việc tại nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T13:01:12+07:00",
+      "fetched": "2025-09-02T21:16:49.515926+07:00"
+    },
+    {
+      "id": "7ef3082f8a5ef50ced3b8a69fd0fa95b",
+      "title": "Bé trai bị bắn chết vì trò 'quậy chuông cửa' ở Texas",
+      "link": "https://vnexpress.net/be-trai-bi-ban-chet-vi-tro-quay-chuong-cua-o-texas-4934280.html",
+      "summary": "Bấm chuông nhà người lạ rồi bỏ chạy, cậu bé 11 tuổi ở Houston bị người trong nhà bắn nhiều phát đạn dẫn đến tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:45.060933+07:00"
+    },
+    {
+      "id": "51ebe9213a5384d82a2fdc01eb4a7ae2",
+      "title": "Cách sơ cứu bỏng nước nóng, bỏng pô xe khỏi sẹo",
+      "link": "https://vnexpress.net/cach-so-cuu-bong-nuoc-nong-bong-po-xe-khoi-seo-4934199.html",
+      "summary": "Xả vết thương dưới vòi nước sạch khoảng 30 phút, thoa một lớp dày thuốc mỡ lên vùng da bỏng, băng gạc sau đó đi khám nếu tình trạng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:45.061089+07:00"
+    },
+    {
+      "id": "38ea500e387e3ade225d33fdcda7bb69",
+      "title": "Hoa viên Bình An gửi gắm thông điệp tri ân và gắn kết dịp Vu Lan",
+      "link": "https://vnexpress.net/hoa-vien-binh-an-gui-gam-thong-diep-tri-an-va-gan-ket-dip-vu-lan-4934324.html",
+      "summary": "Sự kiện Vu Lan tại Hoa viên Bình An diễn ra ngày 31/8, mang đến thông điệp tri ân và gắn kết du khách, tăng ni phật tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:45.061245+07:00"
+    },
+    {
+      "id": "7bb4e2ae4e46529f9d39403fe5db15f6",
+      "title": "Xem nhanh 20h ngày 2.9: Nhìn lại toàn cảnh diễu binh A80 | Người đứng sau những cú máy tuyệt đối điện ảnh",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-29-nhin-lai-toan-canh-dieu-binh-a80-nguoi-dung-sau-nhung-cu-may-tuyet-doi-dien-anh-185250902185146799.htm",
+      "summary": "'Xem nhanh 20h' ngày 2.9 có nhiều tin tức đáng chú ý về: Những hình ảnh ấn tượng từ Lễ diễu binh, diễu hành A80 sáng 2.9; TP.HCM rực rỡ cờ hoa ngày Quốc khánh 2.9; phía sau cú máy đẹp gây 'sốt' ở lễ diễu binh A80;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:47.557978+07:00"
+    },
+    {
+      "id": "357470c7b12a7bdaf2eca500ffaca921",
+      "title": "Phối nguyên set đồ denim giúp nàng chất hơn bao giờ hết",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-nguyen-set-do-denim-giup-nang-chat-hon-bao-gio-het-185250902114439619.htm",
+      "summary": "Phóng khoáng, cá tính và đầy sức hút, phong cách phối nguyên set đồ denim đang trở thành lựa chọn 'chuẩn chất' cho nàng trong mùa thời trang này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:47.558132+07:00"
+    },
+    {
+      "id": "7ef3082f8a5ef50ced3b8a69fd0fa95b",
+      "title": "Bé trai bị bắn chết vì trò 'quậy chuông cửa' ở Texas",
+      "link": "https://vnexpress.net/be-trai-bi-ban-chet-vi-tro-quay-chuong-cua-o-texas-4934280.html",
+      "summary": "Bấm chuông nhà người lạ rồi bỏ chạy, cậu bé 11 tuổi ở Houston bị người trong nhà bắn nhiều phát đạn dẫn đến tử vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T13:00:00+07:00",
+      "fetched": "2025-09-02T21:16:49.516092+07:00"
+    },
+    {
+      "id": "633efaa5833207b26475b7937df827ad",
+      "title": "Giữa trung tâm TP.HCM, 'biển người' đội mưa chờ pháo hoa mừng Quốc khánh",
+      "link": "https://thanhnien.vn/giua-trung-tam-tphcm-bien-nguoi-doi-mua-cho-phao-hoa-mung-quoc-khanh-185250902182544495.htm",
+      "summary": "'Biển người' đổ dồn về trung tâm TP.HCM chờ xem bắn pháo hoa tầm cao bắn lên từ đầu đường hầm sông Sài Gòn mừng Quốc khánh 2.9. Nhiều người nước ngoài hào hứng hòa vào không khí tết Độc lập của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:59:00+07:00",
+      "fetched": "2025-09-02T21:16:47.558282+07:00"
+    },
+    {
+      "id": "cb5f7687f1617edd968490cb30ea772d",
+      "title": "Số người chết do động đất ở Afghanistan tăng cao",
+      "link": "https://thanhnien.vn/so-nguoi-chet-do-dong-dat-o-afghanistan-tang-cao-185250902184113926.htm",
+      "summary": "Chính quyền Taliban hôm nay 2.9 thông báo số người chết trong trận động đất mạnh 6 độ Richter ở Afghanistan vào khuya 31.8 đã tăng lên hơn 1.400 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:56:00+07:00",
+      "fetched": "2025-09-02T21:16:47.558443+07:00"
+    },
+    {
+      "id": "b43278c5bcf8f9c9810f1e953430dbbc",
+      "title": "Du lịch Hà Nội thắng lớn dịp 2/9, nhiều tỉnh thành thất thu vì mưa bão",
+      "link": "https://vnexpress.net/du-lich-ha-noi-thang-lon-dip-2-9-nhieu-tinh-thanh-that-thu-vi-mua-bao-4934293.html",
+      "summary": "Do ảnh hưởng của mưa bão và sức hút từ sự kiện diễu binh mừng Đại lễ 80 năm Quốc khánh tại Hà Nội, nhiều tỉnh thành năm nay đón ít khách hơn năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:48:28+07:00",
+      "fetched": "2025-09-02T21:16:45.061405+07:00"
+    },
+    {
+      "id": "c1a028c00dab1213630e820c95466418",
+      "title": "Những thước phim đẹp nhất ngày 2.9: Tinh thần Việt Nam in đậm trong từng trái tim",
+      "link": "https://thanhnien.vn/nhung-thuoc-phim-dep-nhat-ngay-29-tinh-than-viet-nam-in-dam-trong-tung-trai-tim-185250902175338684.htm",
+      "summary": "Sáng 2.9, lễ diễu binh, diễu hành trên không, trên bộ và trên biển trở thành điểm nhấn hùng tráng, đầy sức mạnh trong ngày lễ lớn của dân tộc. Lễ diễu binh không chỉ là màn trình diễn sức mạnh quân sự mà còn là lay động niềm tự hào của triệu triệu con tim Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:48:00+07:00",
+      "fetched": "2025-09-02T21:16:47.558615+07:00"
+    },
+    {
+      "id": "d66c4cff355acfa2f872c5f5a8bf763d",
+      "title": "Giá vàng nhẫn lên gần 128 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-nhan-len-gan-128-trieu-dong-4934313.html",
+      "summary": "Giá vàng thế giới lập đỉnh mới, kéo vàng nhẫn trong nước lên mức gần 128 triệu đồng, tăng 1-2 triệu đồng mỗi lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:42:11+07:00",
+      "fetched": "2025-09-02T21:16:45.061595+07:00"
+    },
+    {
+      "id": "d66c4cff355acfa2f872c5f5a8bf763d",
+      "title": "Giá vàng nhẫn lên gần 128 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-nhan-len-gan-128-trieu-dong-4934313.html",
+      "summary": "Giá vàng thế giới lập đỉnh mới, kéo vàng nhẫn trong nước lên mức gần 128 triệu đồng, tăng 1-2 triệu đồng mỗi lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-02T12:42:11+07:00",
+      "fetched": "2025-09-02T21:16:50.385726+07:00"
+    },
+    {
+      "id": "f3514557695d335f51fcc90c4bbfa474",
+      "title": "9 thiếu niên đánh bạn học co giật",
+      "link": "https://vnexpress.net/9-thieu-nien-danh-ban-hoc-co-giat-4934314.html",
+      "summary": "Mâu thuẫn trong trường, Lê Sỹ Hùng, 16 tuổi, gọi thêm 8 người chặn đánh bạn học bất tỉnh, co giật trên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:39:36+07:00",
+      "fetched": "2025-09-02T21:16:45.061760+07:00"
+    },
+    {
+      "id": "54faaa3e466cae580c5e9a4e7ad856b6",
+      "title": "Hứa Quang Hán run khi tái xuất",
+      "link": "https://vnexpress.net/hua-quang-han-run-khi-tai-xuat-4934300.html",
+      "summary": "Tài tử Đài Loan Hứa Quang Hán nói căng thẳng khi trở lại công việc ở làng giải trí sau một năm nhập ngũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T12:26:11+07:00",
+      "fetched": "2025-09-02T21:16:45.061917+07:00"
     },
     {
       "id": "845c618b06ce409633ffdb8b75d61638",
@@ -3221,6 +3681,16 @@ window.newsData_2025_09_02 = {
       "category": "Kinh doanh",
       "published": "2025-09-02T01:18:37+07:00",
       "fetched": "2025-09-02T10:04:10.493565+07:00"
+    },
+    {
+      "id": "4a5ed0b886809358380f8d1b7ca3fc50",
+      "title": "Giá vàng thế giới lên cao nhất 4 tháng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-4-thang-4934156.html",
+      "summary": "Giá vàng thế giới đạt 3.481 USD một ounce, cao nhất từ cuối tháng 4, do đồng USD yếu đi và kỳ vọng hạ lãi suất của Fed.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-02T01:18:37+07:00",
+      "fetched": "2025-09-02T21:16:50.386425+07:00"
     },
     {
       "id": "c5ee1b9418883f2d2ecf7cea503a9c6b",
