@@ -1,7 +1,127 @@
 window.newsData_2025_09_02 = {
   "date": "2025-09-02",
-  "lastUpdated": "2025-09-02T05:14:56.208800+07:00",
+  "lastUpdated": "2025-09-02T08:16:00.271602+07:00",
   "articles": [
+    {
+      "id": "622ee158fdfa249983ee39e6a75c32eb",
+      "title": "Thời tiết hôm nay Quốc khánh 2-9: Hà Nội trời đẹp, khả năng cao không mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-quoc-khanh-2-9-ha-noi-troi-dep-kha-nang-cao-khong-mua-20250901223833144.htm",
+      "summary": "Sáng nay 2-9, thời tiết Hà Nội được dự báo đẹp, khả năng cao không mưa. Xác suất mưa dưới 20%, lượng nhỏ và nhanh kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759665+07:00",
+      "fetched": "2025-09-02T08:15:52.759775+07:00"
+    },
+    {
+      "id": "0e2aae09d4b0101dfc7b38d6e7187cd4",
+      "title": "Món quà lưu niệm mừng Quốc khánh từ đôi tay đặc biệt",
+      "link": "https://tuoitre.vn/mon-qua-luu-niem-mung-quoc-khanh-tu-doi-tay-dac-biet-20250902013127583.htm",
+      "summary": "Bao đựng kính, ốp điện thoại, túi nhỏ xinh với ngôi sao vàng rực rỡ… là những món quà lưu niệm mừng Quốc khánh do các bạn trẻ khuyết tật khéo léo thực hiện trong dự án ‘Tôi giỏi’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759541+07:00",
+      "fetched": "2025-09-02T08:15:52.759653+07:00"
+    },
+    {
+      "id": "06cbe171d71e7abf53e4c851b90d4724",
+      "title": "Sàn nhạc nước quảng trường 29-3 Đà Nẵng tấp nập khách dịp lễ 2-9",
+      "link": "https://tuoitre.vn/san-nhac-nuoc-quang-truong-29-3-da-nang-tap-nap-khach-dip-le-2-9-20250901215515198.htm",
+      "summary": "Sàn nhạc nước tại quảng trường 29-3 Đà Nẵng nườm nượp du khách và người dân đến vui chơi dịp lễ 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759408+07:00",
+      "fetched": "2025-09-02T08:15:52.759530+07:00"
+    },
+    {
+      "id": "c8b1d50b70a52f50a4730f23338a2f3c",
+      "title": "Cạo xóa quảng cáo trái phép, Công an TP.HCM khởi tố nghi phạm cho vay lãi nặng",
+      "link": "https://tuoitre.vn/cao-xoa-quang-cao-trai-phep-cong-an-tp-hcm-khoi-to-nghi-pham-cho-vay-lai-nang-20250902000501712.htm",
+      "summary": "Từ việc cạo xóa quảng cáo sai quy định, Công an TP.HCM đã phát hiện, bắt giữ nghi can tổ chức cho vay góp tại TP Vũng Tàu (cũ), với lãi suất thấp nhất 0,83%/ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759282+07:00",
+      "fetched": "2025-09-02T08:15:52.759397+07:00"
+    },
+    {
+      "id": "957d6013a112f0eb9c0966eaad191545",
+      "title": "Tin tức thế giới 2-9: Ông Kim Jong Un đến Trung Quốc bằng tàu hỏa bọc thép",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-2-9-ong-kim-jong-un-den-trung-quoc-bang-tau-hoa-boc-thep-20250902055001449.htm",
+      "summary": "Thị trường nhà ở Mỹ gặp khủng hoảng; Nga bị nghi gây nhiễu GPS máy bay chở lãnh đạo EU.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759150+07:00",
+      "fetched": "2025-09-02T08:15:52.759270+07:00"
+    },
+    {
+      "id": "ec82ea51bd4a84cc2f3355f45d73ecf7",
+      "title": "Xác định 8 đội vào tứ kết Giải bóng chuyền nữ thế giới 2025",
+      "link": "https://tuoitre.vn/xac-dinh-8-doi-vao-tu-ket-giai-bong-chuyen-nu-the-gioi-2025-20250902053326456.htm",
+      "summary": "Khuya 1-9, vòng 16 đội Giải bóng chuyền nữ thế giới 2025 đã khép lại và xác định được 8 đội vào vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.759009+07:00",
+      "fetched": "2025-09-02T08:15:52.759123+07:00"
+    },
+    {
+      "id": "9d9b6df19ba69e48044a8b52d72b98cf",
+      "title": "Khẩu vị người Việt ưa món chế biến từ thịt heo, nhưng có một số người không nên ăn",
+      "link": "https://tuoitre.vn/khau-vi-nguoi-viet-ua-mon-che-bien-tu-thit-heo-nhung-co-mot-so-nguoi-khong-nen-an-20250901195456662.htm",
+      "summary": "Thịt heo là thực phẩm phổ biến trong bữa ăn hằng ngày và giàu dinh dưỡng. Tuy nhiên có một số người cần hạn chế ăn thịt heo nếu không muốn ảnh hưởng khi đang có bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758881+07:00",
+      "fetched": "2025-09-02T08:15:52.758997+07:00"
+    },
+    {
+      "id": "c2dddefaa74195616a5fabe3c85924b8",
+      "title": "Tiệc sinh nhật đặc biệt khi chờ xem diễu binh mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/tiec-sinh-nhat-dac-biet-khi-cho-xem-dieu-binh-mung-quoc-khanh-2-9-20250902060258538.htm",
+      "summary": "Hơn 5h sáng của ngày Quốc khánh 2-9, khi đang ngái ngủ sau một đêm dài nằm chờ xem lễ diễu binh, diễu hành trên đường Liễu Giai, Hà Nội - bé Nguyễn Gia Linh (10 tuổi) được mẹ đánh thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758752+07:00",
+      "fetched": "2025-09-02T08:15:52.758869+07:00"
+    },
+    {
+      "id": "11fe20cf21370d2edd597895995cf07c",
+      "title": "Trực tiếp: Lễ diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/truc-tiep-le-dieu-binh-dieu-hanh-ky-niem-80-nam-quoc-khanh-2-9-20250901225459208.htm",
+      "summary": "Sáng nay 2-9, buổi lễ diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9 diễn ra từ 6h30 tại quảng trường Ba Đình, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758624+07:00",
+      "fetched": "2025-09-02T08:15:52.758741+07:00"
+    },
+    {
+      "id": "50138a24449832f9712b5287c73e691e",
+      "title": "Trái tim Tuổi Trẻ",
+      "link": "https://tuoitre.vn/trai-tim-tuoi-tre-20250820224842023.htm",
+      "summary": "Nhân kỷ niệm 50 năm thành lập báo Tuổi Trẻ, nhà báo Lê Văn Nuôi gửi gắm những dòng thơ đến tờ báo ông từng là tổng biên tập từ năm 1992 - 2003.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758493+07:00",
+      "fetched": "2025-09-02T08:15:52.758612+07:00"
+    },
+    {
+      "id": "57e98e1224abb4e9ab51a3961fff17df",
+      "title": "Loạt xe hybrid dự kiến về Việt Nam trước khả năng áp tiêu chuẩn khí thải dưới 4,83 lít/100km",
+      "link": "https://tuoitre.vn/loat-xe-hybrid-du-kien-ve-viet-nam-truoc-kha-nang-ap-tieu-chuan-khi-thai-duoi-4-83-lit-100km-20250901224021752.htm",
+      "summary": "Trước yêu cầu siết chặt về mức tiêu hao nhiên liệu, dòng xe hybrid đang nổi lên như một giải pháp trung gian hợp lý trước khi thị trường chuyển dịch hoàn toàn sang xe điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758352+07:00",
+      "fetched": "2025-09-02T08:15:52.758480+07:00"
+    },
+    {
+      "id": "67f857c2026b22835d3fd58c9f9c5b06",
+      "title": "Nhiều hợp đồng được 'chốt đơn' giờ chót thị trường chuyển nhượng châu Âu",
+      "link": "https://tuoitre.vn/nhieu-hop-dong-duoc-chot-don-gio-chot-thi-truong-chuyen-nhuong-chau-au-20250902061942142.htm",
+      "summary": "Rạng sáng 2-9, thị trường chuyển nhượng bóng đá châu Âu đã chính thức đóng cửa với rất nhiều vụ 'chốt đơn' đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:15:52.758106+07:00",
+      "fetched": "2025-09-02T08:15:52.758336+07:00"
+    },
     {
       "id": "e72fae2f64b424c6f9d520576c6dd94b",
       "title": "Dàn khí tài quân sự xuất phát, tiến về Quảng trường Ba Đình chuẩn bị diễu binh",
@@ -191,6 +311,356 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T01:21:53.672657+07:00",
       "fetched": "2025-09-02T01:21:53.672868+07:00"
+    },
+    {
+      "id": "c5ee1b9418883f2d2ecf7cea503a9c6b",
+      "title": "Thời điểm tốt nhất uống cà phê để có năng lượng và ngủ ngon",
+      "link": "https://thanhnien.vn/thoi-diem-tot-nhat-uong-ca-phe-de-co-nang-luong-va-ngu-ngon-185250901230221764.htm",
+      "summary": "Cà phê từ lâu đã trở thành một phần quen thuộc trong đời sống hằng ngày, nhờ mang lại sự tỉnh táo và hỗ trợ tiêu hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:13:00+07:00",
+      "fetched": "2025-09-02T08:15:51.704412+07:00"
+    },
+    {
+      "id": "7c7e3cc0f8ae2c538742efcf1f07c747",
+      "title": "Giá trị lịch sử và văn học của Tuyên ngôn Độc lập",
+      "link": "https://thanhnien.vn/gia-tri-lich-su-va-van-hoc-cua-tuyen-ngon-doc-lap-185250901223018829.htm",
+      "summary": "Tuyên ngôn Độc lập được Chủ tịch Hồ Chí Minh đọc tại Quảng trường Ba Đình lịch sử ngày 2.9.1945, khai sinh ra nước Việt Nam Dân chủ cộng hòa. Tuyên ngôn Độc lập không chỉ là văn kiện lịch sử vô giá mà còn chứa đựng giá trị tư tưởng, nhân văn và nghệ thuật to lớn của dân tộc và của nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:09:00+07:00",
+      "fetched": "2025-09-02T08:15:51.704586+07:00"
+    },
+    {
+      "id": "d59f5c2279d1fdd109c288b0c5f9196f",
+      "title": "Apple đưa loạt MacBook và iPhone vào danh sách 'không nên mua'",
+      "link": "https://thanhnien.vn/apple-dua-loat-macbook-va-iphone-vao-danh-sach-khong-nen-mua-185250901215102873.htm",
+      "summary": "Apple vừa công bố bổ sung ba mẫu MacBook vào danh sách sản phẩm lỗi thời của họ, cùng một mẫu iPhone vào danh sách cổ điển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:08:00+07:00",
+      "fetched": "2025-09-02T08:15:51.704747+07:00"
+    },
+    {
+      "id": "d3e1164e6f697ea1c4ce376078e1162b",
+      "title": "Chào đời đúng ngày lễ trọng đại của dân tộc như một cái duyên",
+      "link": "https://thanhnien.vn/chao-doi-dung-ngay-le-trong-dai-cua-dan-toc-nhu-mot-cai-duyen-185250901194440624.htm",
+      "summary": "Phan Thanh Trúc (22 tuổi), sinh viên Trường ĐH Khoa học xã hội và nhân văn TP.HCM, tự hào vì ngày sinh của mình đúng vào ngày lễ Quốc khánh và xem đó là động lực lớn trong học tập, phấn đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:00:00+07:00",
+      "fetched": "2025-09-02T08:15:51.704903+07:00"
+    },
+    {
+      "id": "848715f20f5fba165120650cdac2450d",
+      "title": "Chạm đến vẻ đẹp mong manh qua từng lớp vải ren tinh xảo",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cham-den-ve-dep-mong-manh-qua-tung-lop-vai-ren-tinh-xao-185250830133848058.htm",
+      "summary": "Vải ren là một trong những chất vải mang trong mình sự giao thoa giữa vẻ cổ điển và hơi thở hiện đại. Với đặc tính mỏng nhẹ cùng hoa văn tinh xảo, ren không chỉ tôn lên nét nữ tính mà còn mang đến sự sang trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:00:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705055+07:00"
+    },
+    {
+      "id": "74708fff87f02dc7acc753bc2a833d99",
+      "title": "Từ di sản gia đình đến tài nguyên quốc gia",
+      "link": "https://thanhnien.vn/tu-di-san-gia-dinh-den-tai-nguyen-quoc-gia-185250827184258118.htm",
+      "summary": "Tri thức chế biến và thưởng thức chả cá Lã Vọng, những không gian văn hóa như Bảo tàng Nguyễn Văn Huyên, giải thưởng sử học Phạm Thận Duật… là câu chuyện di sản gia đình, dòng họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T01:00:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705224+07:00"
+    },
+    {
+      "id": "253c5a43a220f370629c8b75133c6bf0",
+      "title": "Lễ chào cờ giữa trùng khơi: Uy nghi khối diễu binh trên biển",
+      "link": "https://thanhnien.vn/le-chao-co-giua-trung-khoi-uy-nghi-khoi-dieu-binh-tren-bien-185250902075435919.htm",
+      "summary": "Từ căn cứ quân sự Cam Ranh, tỉnh Khánh Hòa, đội hình các lực lượng tham gia diễu binh trên biển, gồm có: tàu chỉ huy; máy bay tuần thám biển, trực thăng săn ngầm; các biên đội tàu ngầm, tàu hộ vệ tên lửa, tàu hộ vệ chống ngầm, tàu tên lửa tấn công nhanh, tàu pháo của Hải quân nhân dân Việt Nam; các ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:54:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705378+07:00"
+    },
+    {
+      "id": "fd8564b95e4a27db6bd36338b618f6cf",
+      "title": "Tổng thống Venezuela tố Mỹ muốn thay đổi chế độ bằng sức mạnh hải quân",
+      "link": "https://thanhnien.vn/tong-thong-venezuela-to-my-muon-thay-doi-che-do-bang-suc-manh-hai-quan-185250902075004682.htm",
+      "summary": "Tổng thống Venezuela Nicolas Maduro cáo buộc Mỹ đang tìm cách thay đổi chế độ ở quốc gia Nam Mỹ này bằng cách triển khai lực lượng hải quân ở vùng Caribe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:54:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705527+07:00"
+    },
+    {
+      "id": "1502dfd954d383bde4131c91147d88bf",
+      "title": "Bé trai 11 tuổi bị bắn chết vì đùa giỡn bấm chuông nhà người khác",
+      "link": "https://thanhnien.vn/be-trai-11-tuoi-bi-ban-chet-vi-dua-gion-bam-chuong-nha-nguoi-khac-185250902071917919.htm",
+      "summary": "Một cậu bé 11 tuổi ở thành phố Houston, bang Texas (Mỹ) đã bị bắn chết trong trò nghịch bấm chuông cửa nhà người khác rồi bỏ chạy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:52:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705673+07:00"
+    },
+    {
+      "id": "49825cb37340558f0bd78cab29db34ad",
+      "title": "Lãnh đạo Triều Tiên Kim Jong-un đến Trung Quốc",
+      "link": "https://thanhnien.vn/lanh-dao-trieu-tien-kim-jong-un-den-trung-quoc-185250902064024764.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un đã đến Trung Quốc trên chuyến tàu đặc biệt vào sáng sớm 2.9 để tham dự lễ kỷ niệm ngày chiến thắng phát xít của nhân dân thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:50:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705827+07:00"
+    },
+    {
+      "id": "0259c5f6d81bcc5e461493f04a2b76c7",
+      "title": "Hai miền chung một mâm cơm, cùng hướng về lễ kỷ niệm 80 năm Quốc khánh",
+      "link": "https://thanhnien.vn/hai-mien-chung-mot-mam-com-cung-huong-ve-le-ky-niem-80-nam-quoc-khanh-185250902071312235.htm",
+      "summary": "Từ An Giang, Ninh Bình đến Hà Nội, những con người xa lạ gặp nhau chỉ vài giờ, nhưng đã ngồi chung một mâm cơm, kể cho nhau nghe câu chuyện quê nhà. Bữa cơm giản dị ấy đã trở thành sợi dây gắn kết, như một 'gia đình chung' trong ngày hội lớn của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:43:00+07:00",
+      "fetched": "2025-09-02T08:15:51.705979+07:00"
+    },
+    {
+      "id": "37a8c2f99dca27394e0308d1005f780e",
+      "title": "Cô gái Sơn La mang khối u sọ 15 năm được mổ thành công ở Bình Dương",
+      "link": "https://thanhnien.vn/co-gai-son-la-mang-khoi-u-so-15-nam-duoc-mo-thanh-cong-o-binh-duong-185250902073243096.htm",
+      "summary": "Ca mổ kéo dài 7 giờ tại Bệnh viện đa khoa Bình Dương đã loại bỏ khối u sọ khổng lồ, giúp cô gái người Mông hồi sinh gương mặt sau 15 năm sống trong mặc cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:41:00+07:00",
+      "fetched": "2025-09-02T08:15:51.706143+07:00"
+    },
+    {
+      "id": "f480f354bd4cbe3fc22c6d3c4c7ca443",
+      "title": "Apple đang 'giấu' tính năng VPN miễn phí trên iPhone",
+      "link": "https://thanhnien.vn/apple-dang-giau-tinh-nang-vpn-mien-phi-tren-iphone-185250901170641366.htm",
+      "summary": "Đừng vội tốn tiền mua VPN, hãy kích hoạt ngay tính năng bảo mật ẩn miễn phí này trên iPhone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:29:00+07:00",
+      "fetched": "2025-09-02T08:15:51.706303+07:00"
+    },
+    {
+      "id": "1399cd45c32925579223e9a7bfd2a876",
+      "title": "Chị em song sinh cùng tốt nghiệp thủ khoa",
+      "link": "https://vnexpress.net/chi-em-song-sinh-cung-tot-nghiep-thu-khoa-4934124.html",
+      "summary": "Ngọc Hà và Thanh Hà là cặp song sinh đầu tiên tốt nghiệp thủ khoa ngành học, trong lịch sử gần 20 năm ở trường Đại học Kinh tế - Tài chính TP HCM (UEF).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:28:36+07:00",
+      "fetched": "2025-09-02T08:15:48.366191+07:00"
+    },
+    {
+      "id": "fbda13d551114c687c9b79b2cafd86ad",
+      "title": "Samsung có thể ra kính thông minh, smartphone gập ba cuối tháng 9",
+      "link": "https://vnexpress.net/samsung-co-the-ra-kinh-thong-minh-smartphone-gap-ba-cuoi-thang-9-4934105.html",
+      "summary": "Samsung được cho là sẽ giới thiệu hai mẫu kính thông minh và smartphone gập ba tại sự kiện Unpacked ngày 29/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:00:00+07:00",
+      "fetched": "2025-09-02T08:15:48.366387+07:00"
+    },
+    {
+      "id": "8fba8844517b4d0fa3a124e4672f1c40",
+      "title": "Vé số cào Cần Thơ giải 'cơn khát' thị trường ngàn tỉ",
+      "link": "https://thanhnien.vn/ve-so-cao-can-tho-giai-con-khat-thi-truong-ngan-ti-185250901222321534.htm",
+      "summary": "Vé số truyền thống bán \"cháy\" hàng, Công ty Xổ số kiến thiết (XSKT) Cần Thơ quyết định phát hành thêm 4 triệu vé số cào biết kết quả ngay với tổng giá trị giải thưởng 22 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:00:00+07:00",
+      "fetched": "2025-09-02T08:15:51.706457+07:00"
+    },
+    {
+      "id": "3b6f60b8659aba6752e905d923ba4007",
+      "title": "Ra mắt ấn phẩm 'Hồ Chí Minh - Tiểu sử bằng hình'",
+      "link": "https://thanhnien.vn/ra-mat-an-pham-ho-chi-minh-tieu-su-bang-hinh-185250901214157716.htm",
+      "summary": "Kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9, Đông A và NXB Đại học Sư phạm vừa cho ra mắt ấn phẩm đặc biệt Hồ Chí Minh - Tiểu sử bằng hình, giới thiệu đến công chúng gần 700 tranh, ảnh và bản đồ, lược đồ tuyển chọn…, tái hiện cuộc đời và sự nghiệp cách mạng vĩ đại của Chủ tịch Hồ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T00:00:00+07:00",
+      "fetched": "2025-09-02T08:15:51.706607+07:00"
+    },
+    {
+      "id": "fbda13d551114c687c9b79b2cafd86ad",
+      "title": "Samsung có thể ra kính thông minh, smartphone gập ba cuối tháng 9",
+      "link": "https://vnexpress.net/samsung-co-the-ra-kinh-thong-minh-smartphone-gap-ba-cuoi-thang-9-4934105.html",
+      "summary": "Samsung được cho là sẽ giới thiệu hai mẫu kính thông minh và smartphone gập ba tại sự kiện Unpacked ngày 29/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-02T00:00:00+07:00",
+      "fetched": "2025-09-02T08:15:58.640316+07:00"
+    },
+    {
+      "id": "2095e9cf52cb9db4a2a79d1637bd5191",
+      "title": "Ông Maduro: 1.200 tên lửa Mỹ đang nhắm vào Venezuela",
+      "link": "https://vnexpress.net/ong-maduro-1-200-ten-lua-my-dang-nham-vao-venezuela-4934140.html",
+      "summary": "Tổng thống Maduro nói Mỹ đang triển khai 8 tàu chiến và 1.200 tên lửa nhắm vào Venezuela, giữa lúc căng thẳng hai nước gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:41:58+07:00",
+      "fetched": "2025-09-02T08:15:48.366553+07:00"
+    },
+    {
+      "id": "2095e9cf52cb9db4a2a79d1637bd5191",
+      "title": "Ông Maduro: 1.200 tên lửa Mỹ đang nhắm vào Venezuela",
+      "link": "https://vnexpress.net/ong-maduro-1-200-ten-lua-my-dang-nham-vao-venezuela-4934140.html",
+      "summary": "Tổng thống Maduro nói Mỹ đang triển khai 8 tàu chiến và 1.200 tên lửa nhắm vào Venezuela, giữa lúc căng thẳng hai nước gia tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T23:41:58+07:00",
+      "fetched": "2025-09-02T08:15:54.080355+07:00"
+    },
+    {
+      "id": "8e4820d49315410d38ad7adf4b653824",
+      "title": "Nhà báo Brazil 7 lần bị bỏ tù vì phản đối chiến tranh Việt Nam",
+      "link": "https://vnexpress.net/nha-bao-brazil-7-lan-bi-bo-tu-vi-phan-doi-chien-tranh-viet-nam-4934039.html",
+      "summary": "Trong căn phòng bí mật ở TP São Paulo, 30 sinh viên lặng đi khi màn hình hiện ra cảnh B52 rải thảm xóa sạch những làng mạc, những đứa trẻ chết cháy vì bom napalm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:27:00+07:00",
+      "fetched": "2025-09-02T08:15:48.366712+07:00"
+    },
+    {
+      "id": "2db61fe6ca7f586c7a0824041a8c69ab",
+      "title": "Chelsea lại đổi ý, cho Jackson sang Bayern",
+      "link": "https://vnexpress.net/chelsea-lai-doi-y-cho-jackson-sang-bayern-4934137.html",
+      "summary": "Chelsea lần thứ hai thay đổi lập trường, khi đồng ý để tiền đạo Nicolas Jackson sang Bayern Munich theo hợp đồng cho mượn vào ngày cuối kỳ chuyển nhượng hè 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:17:29+07:00",
+      "fetched": "2025-09-02T08:15:48.366868+07:00"
+    },
+    {
+      "id": "2db61fe6ca7f586c7a0824041a8c69ab",
+      "title": "Chelsea lại đổi ý, cho Jackson sang Bayern",
+      "link": "https://vnexpress.net/chelsea-lai-doi-y-cho-jackson-sang-bayern-4934137.html",
+      "summary": "Chelsea lần thứ hai thay đổi lập trường, khi đồng ý để tiền đạo Nicolas Jackson sang Bayern Munich theo hợp đồng cho mượn vào ngày cuối kỳ chuyển nhượng hè 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T23:17:29+07:00",
+      "fetched": "2025-09-02T08:16:00.265899+07:00"
+    },
+    {
+      "id": "95f9ee0aab0ac710e84c7b80ccd6d0c7",
+      "title": "Liverpool công bố Isak",
+      "link": "https://vnexpress.net/liverpool-cong-bo-isak-4934131.html",
+      "summary": "Trong ngày cuối kỳ chuyển nhượng hè 2025, Liverpool công bố bản hợp đồng kỷ lục Ngoại hạng Anh Alexander Isak và đổ để thương vụ mua Marc Guehi từ Crystal Palace.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:17:09+07:00",
+      "fetched": "2025-09-02T08:15:48.367028+07:00"
+    },
+    {
+      "id": "95f9ee0aab0ac710e84c7b80ccd6d0c7",
+      "title": "Liverpool công bố Isak",
+      "link": "https://vnexpress.net/liverpool-cong-bo-isak-4934131.html",
+      "summary": "Trong ngày cuối kỳ chuyển nhượng hè 2025, Liverpool công bố bản hợp đồng kỷ lục Ngoại hạng Anh Alexander Isak và đổ để thương vụ mua Marc Guehi từ Crystal Palace.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T23:17:09+07:00",
+      "fetched": "2025-09-02T08:16:00.266060+07:00"
+    },
+    {
+      "id": "dece597273552ab530845d304c2ad754",
+      "title": "Điểm tin 6h: Bà chủ địa ốc Thiên Ân Phát bị cáo buộc chiếm đoạt 365 tỷ đồng | Kế toán bảo hiểm xã hội tham ô 65 tỷ đồng",
+      "link": "https://vnexpress.net/diem-tin-6h-ba-chu-dia-oc-thien-an-phat-bi-cao-buoc-chiem-doat-365-ty-dong-ke-toan-bao-hiem-xa-hoi-tham-o-65-ty-dong-4934136.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Đảng Nhân dân Campuchia Hun Sen; Kế toán bảo hiểm xã hội đánh tráo số tài khoản, tham ô 65 tỷ đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:12:18+07:00",
+      "fetched": "2025-09-02T08:15:48.367203+07:00"
+    },
+    {
+      "id": "073d8c0e4621501c8d15c926b7a7ff8f",
+      "title": "Điểm tin 6h: Bà chủ địa ốc Thiên Ân Phát bị cáo buộc chiếm đoạt 365 tỷ đồng | Kế toán bảo hiểm xã hội tham ô 65 tỷ đồng",
+      "link": "https://vnexpress.net/diem-tin-6h-ba-chu-dia-oc-thien-an-phat-bi-cao-buoc-chiem-doat-365-ty-dong-ke-toan-bao-hiem-xa-hoi-tham-o-65-ty-dong-4934133.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Đảng Nhân dân Campuchia Hun Sen; Kế toán bảo hiểm xã hội đánh tráo số tài khoản, tham ô 65 tỷ đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:03:48+07:00",
+      "fetched": "2025-09-02T08:15:48.367359+07:00"
+    },
+    {
+      "id": "2bde3ddcc9fcec18cc420f654171c9b8",
+      "title": "Tết Độc lập trong các gia đình Việt",
+      "link": "https://vnexpress.net/tet-doc-lap-trong-cac-gia-dinh-viet-4933946.html",
+      "summary": "Sáng 1/9, mỗi người con rể, cháu rể của ông Bùi Văn Han, 61 tuổi, ở xã Ngọc Sơn, Phú Thọ xách hai con vịt đến biếu bố vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:00:00+07:00",
+      "fetched": "2025-09-02T08:15:48.367516+07:00"
+    },
+    {
+      "id": "748578f1e013d18a5a098ef40bc2caf7",
+      "title": "Những thực phẩm tốt cho người thận yếu",
+      "link": "https://vnexpress.net/nhung-thuc-pham-tot-cho-nguoi-than-yeu-4933751.html",
+      "summary": "Ớt chuông đỏ, các loại quả mọng, súp lơ xanh ít kali, cung cấp nhiều chất dinh dưỡng có lợi, giảm gánh nặng đồng thời hỗ trợ chức năng thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:00:00+07:00",
+      "fetched": "2025-09-02T08:15:48.367665+07:00"
+    },
+    {
+      "id": "c515c8d317438a80d630be3c3b0247bf",
+      "title": "Những lão nông miền Tây không có người kế nghiệp",
+      "link": "https://vnexpress.net/nhung-lao-nong-mien-tay-khong-co-nguoi-ke-nghiep-4932728.html",
+      "summary": "Di cư và xu hướng người trẻ rời bỏ nông nghiệp khiến nhiều mảnh vườn, thửa ruộng ở miền Tây chỉ còn người già canh tác, đối diện nguy cơ không có thế hệ kế thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T23:00:00+07:00",
+      "fetched": "2025-09-02T08:15:48.367813+07:00"
+    },
+    {
+      "id": "3ead89dd2efc42add2070abfa0a4ef0a",
+      "title": "Thế hệ iPhone 8 thành điện thoại 'cổ điển'",
+      "link": "https://vnexpress.net/the-he-iphone-8-thanh-dien-thoai-co-dien-4934077.html",
+      "summary": "Apple bổ sung phiên bản iPhone 8 và 8 Plus vào danh mục điện thoại cổ điển, trong bối cảnh thế hệ iPhone 17 sắp ra mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:43:53+07:00",
+      "fetched": "2025-09-02T08:15:48.367974+07:00"
+    },
+    {
+      "id": "3ead89dd2efc42add2070abfa0a4ef0a",
+      "title": "Thế hệ iPhone 8 thành điện thoại 'cổ điển'",
+      "link": "https://vnexpress.net/the-he-iphone-8-thanh-dien-thoai-co-dien-4934077.html",
+      "summary": "Apple bổ sung phiên bản iPhone 8 và 8 Plus vào danh mục điện thoại cổ điển, trong bối cảnh thế hệ iPhone 17 sắp ra mắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-01T22:43:53+07:00",
+      "fetched": "2025-09-02T08:15:58.640496+07:00"
+    },
+    {
+      "id": "2f0be8cb6a56ccff5a52fe8646a5147e",
+      "title": "Dàn xe bánh lốp đặc chủng của Quân đội trong diễu binh A80",
+      "link": "https://vnexpress.net/dan-xe-banh-lop-dac-chung-cua-quan-doi-trong-dieu-binh-a80-4934126.html",
+      "summary": "Những dòng xe tải, SUV hàng thửa được sử dụng để chuyên chở các loại vũ khí đều xa lạ với hầu hết người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:28:09+07:00",
+      "fetched": "2025-09-02T08:15:48.368124+07:00"
+    },
+    {
+      "id": "0b35eef03fb51eaaa53a5ecde1a11164",
+      "title": "10 điểm nhấn của vòng ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-diem-nhan-cua-vong-ba-ngoai-hang-anh-4933838.html",
+      "summary": "Siêu phẩm đá phạt của Dominik Szoboszlai, Man City thua trận thứ hai liên tiếp hay cú đá phạt đền ấn định chiến thắng của Bruno Fernandes thuộc danh sách những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:21:08+07:00",
+      "fetched": "2025-09-02T08:15:48.368307+07:00"
+    },
+    {
+      "id": "0b35eef03fb51eaaa53a5ecde1a11164",
+      "title": "10 điểm nhấn của vòng ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-diem-nhan-cua-vong-ba-ngoai-hang-anh-4933838.html",
+      "summary": "Siêu phẩm đá phạt của Dominik Szoboszlai, Man City thua trận thứ hai liên tiếp hay cú đá phạt đền ấn định chiến thắng của Bruno Fernandes thuộc danh sách những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T22:21:08+07:00",
+      "fetched": "2025-09-02T08:16:00.266238+07:00"
     },
     {
       "id": "4761633a34e6522cb1e2a554731c0d20",
