@@ -1,7 +1,157 @@
 window.newsData_2025_09_02 = {
   "date": "2025-09-02",
-  "lastUpdated": "2025-09-02T15:22:40.250519+07:00",
+  "lastUpdated": "2025-09-02T17:17:48.766302+07:00",
   "articles": [
+    {
+      "id": "bf7a3cb7a7bbafa39f84c8a5be88b03d",
+      "title": "Giá vàng thế giới lập kỷ lục mới: 3.508,75 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-lap-ky-luc-moi-3-508-75-usd-ounce-20250902154054675.htm",
+      "summary": "Sau 5 tháng rời xa mốc 3.500 USD/ounce, giá vàng thế giới vừa lập kỷ lục mới vào hôm nay 2-9 với mức 3.508,75 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.007251+07:00",
+      "fetched": "2025-09-02T17:17:42.007363+07:00"
+    },
+    {
+      "id": "9c6a82c2ab72b6b67c8dee43ad7b6429",
+      "title": "Thủ tướng Phạm Minh Chính gặp lãnh đạo Trung Quốc, Campuchia, Cuba",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-gap-lanh-dao-trung-quoc-campuchia-cuba-20250902143633944.htm",
+      "summary": "Ngày 2-9, Thủ tướng Phạm Minh Chính đã có các cuộc gặp với Ủy viên trưởng Nhân đại toàn quốc Trung Quốc Triệu Lạc Tế, Chủ tịch Thượng viện Campuchia Hun Sen và Bí thư thứ nhất, Chủ tịch nước Cuba Miguel Diaz Canel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.007128+07:00",
+      "fetched": "2025-09-02T17:17:42.007240+07:00"
+    },
+    {
+      "id": "9e7c3f5245e26c510c7e19e66f51b4e3",
+      "title": "Lễ diễu binh mừng Quốc khánh 2-9 của Việt Nam gây ấn tượng với truyền thông thế giới",
+      "link": "https://tuoitre.vn/le-dieu-binh-mung-quoc-khanh-2-9-cua-viet-nam-gay-an-tuong-voi-truyen-thong-the-gioi-20250902152515615.htm",
+      "summary": "Việt Nam vừa tổ chức lễ diễu binh mừng kỷ niệm 80 năm Quốc khánh 2-9 tại quảng trường Ba Đình ở Hà Nội, nhận được nhiều sự chú ý của truyền thông quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.007005+07:00",
+      "fetched": "2025-09-02T17:17:42.007117+07:00"
+    },
+    {
+      "id": "28a8f84ddb6f60f4868915768ad7b79d",
+      "title": "TP.HCM sẽ có mưa lớn 100-150mm trong 2-3 ngày tới",
+      "link": "https://tuoitre.vn/tp-hcm-se-co-mua-lon-100-150mm-trong-2-3-ngay-toi-20250902160032017.htm",
+      "summary": "Dù giảm mưa so với những ngày vừa qua, nhưng thời tiết TP.HCM vẫn mưa cả 100mm trong những ngày tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006882+07:00",
+      "fetched": "2025-09-02T17:17:42.006994+07:00"
+    },
+    {
+      "id": "68076519ada8b88a224bbc723a3d617f",
+      "title": "Reuters: Tàu hỏa bọc thép chở ông Kim Jong Un đã đến Bắc Kinh",
+      "link": "https://tuoitre.vn/reuters-tau-hoa-boc-thep-cho-ong-kim-jong-un-da-den-bac-kinh-20250902161820994.htm",
+      "summary": "Ngày 2-9, Reuters cho biết một đoàn tàu mang cờ Triều Tiên và có thiết kế đặc trưng thường được nhà lãnh đạo Triều Tiên Kim Jong Un sử dụng đã xuất hiện trên tuyến đường sắt ở Bắc Kinh, Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006754+07:00",
+      "fetched": "2025-09-02T17:17:42.006871+07:00"
+    },
+    {
+      "id": "80c2f33b5cc5a58df56a5fefd55fe258",
+      "title": "Chàng quân nhân cầu hôn bạn gái sau khi hoàn thành nhiệm vụ A80, dân mạng cùng chúc phúc",
+      "link": "https://tuoitre.vn/chang-quan-nhan-cau-hon-ban-gai-sau-khi-hoan-thanh-nhiem-vu-a80-dan-mang-cung-phuc-phuc-20250902162255039.htm",
+      "summary": "Sau khi hoàn thành lễ diễu binh sáng 2-9 tại Hà Nội, trung úy Trần Văn Nhanh (27 tuổi, Ban Chỉ huy PTKV3 - Phú Lợi, Cần Thơ) đã cầu hôn bạn gái trước sự chứng kiến của đồng đội và đông đảo người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006629+07:00",
+      "fetched": "2025-09-02T17:17:42.006743+07:00"
+    },
+    {
+      "id": "60d543b40a6941c459d3226465784191",
+      "title": "Hàn Quốc, Nhật Bản báo động nắng nóng kỷ lục",
+      "link": "https://tuoitre.vn/han-quoc-nhat-ban-bao-dong-nang-nong-ky-luc-20250902155610161.htm",
+      "summary": "Nhiệt độ cao kỷ lục đã gây ra hạn hán và hàng chục nghìn ca nhập viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006483+07:00",
+      "fetched": "2025-09-02T17:17:42.006616+07:00"
+    },
+    {
+      "id": "afb9a9d84c520ae58b19b0dbb1f25641",
+      "title": "'Nó sợ mẹ chết nên kiếm tiền quần quật, học lúc nào mà đậu đại học tài quá!'",
+      "link": "https://tuoitre.vn/no-so-me-chet-nen-kiem-tien-quan-quat-hoc-luc-nao-ma-dau-dai-hoc-tai-qua-20250902115732177.htm",
+      "summary": "Cha mất lúc 4 tuổi, mẹ mắc ung thư đang điều trị kéo dài sự sống. Nam sinh vừa đậu Trường đại học Công Thương TP.HCM tên Huỳnh Nhất Huy tâm sự: 'Tôi khổ quen rồi, nên có khổ nữa cũng chẳng sợ, chỉ sợ mẹ không còn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006358+07:00",
+      "fetched": "2025-09-02T17:17:42.006472+07:00"
+    },
+    {
+      "id": "fd14db10fa65bc6bd51702a8f3b9218e",
+      "title": "Hơn nửa triệu khách đến Đà Nẵng dịp Tết Độc lập, đứng thứ 2 tìm kiếm trên Booking.com",
+      "link": "https://tuoitre.vn/hon-nua-trieu-khach-den-da-nang-dip-tet-doc-lap-dung-thu-2-tim-kiem-tren-booking-com-20250902162934398.htm",
+      "summary": "Thống kê cho thấy Đà Nẵng là điểm đến được tìm kiếm nhiều thứ 2 trên nền tảng Booking.com dịp 2-9. Hơn nửa triệu khách cũng đã đến tham quan thành phố này dịp Tết Độc lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006222+07:00",
+      "fetched": "2025-09-02T17:17:42.006347+07:00"
+    },
+    {
+      "id": "89e2604dd73c89029e3306ff801998f5",
+      "title": "Việt Nam đăng cai Giải billiards vô địch thế giới pool 10 bi nam 2025",
+      "link": "https://tuoitre.vn/viet-nam-dang-cai-giai-billiards-vo-dich-the-gioi-pool-10-bi-nam-2025-20250902164218209.htm",
+      "summary": "Giải billiards vô địch thế giới pool 10 bi nam 2025 chuẩn bị khởi tranh tại Việt Nam, tổng tiền thưởng lên tới gần 7 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.006097+07:00",
+      "fetched": "2025-09-02T17:17:42.006211+07:00"
+    },
+    {
+      "id": "ce10a8008587e938819431681771bbe0",
+      "title": "HLV U23 Bangladesh phải nhập viện trước trận gặp U23 Việt Nam",
+      "link": "https://tuoitre.vn/hlv-u23-bangladesh-phai-nhap-vien-truoc-tran-gap-u23-viet-nam-20250902155333085.htm",
+      "summary": "HLV trưởng U23 Bangladesh ông Saiful Bari Titu bị sốt phải nhập viện, có nguy cơ lỡ dịp chỉ đạo học trò đá trận ra quân bảng C vòng loại U23 châu Á 2026 gặp U23 Việt Nam lúc 19h ngày 3-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.005970+07:00",
+      "fetched": "2025-09-02T17:17:42.006085+07:00"
+    },
+    {
+      "id": "70e3b2e34d167a29f0ece34a691d4d05",
+      "title": "Những màn cầu hôn 'gây sốt' của các anh bộ đội sau nhiệm vụ A80",
+      "link": "https://tuoitre.vn/nhung-man-cau-hon-gay-sot-cua-cac-anh-bo-doi-sau-nhiem-vu-a80-20250902162030178.htm",
+      "summary": "Trong không khí rực rỡ cờ hoa đón mừng Quốc khánh 2-9 lịch sử, nhiều quân nhân đã tranh thủ cầu hôn bạn gái trước sự chứng kiến của đồng đội và người dân thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.005841+07:00",
+      "fetched": "2025-09-02T17:17:42.005959+07:00"
+    },
+    {
+      "id": "00a17374b357bed9981c73303fb48cf4",
+      "title": "Nhà di động nhẹ đến mức có thể kéo đi bằng xe đạp, đủ cho 2 người ở",
+      "link": "https://tuoitre.vn/nha-di-dong-nhe-den-muc-co-the-keo-di-bang-xe-dap-du-cho-2-nguoi-o-20250901232922618.htm",
+      "summary": "Wombat Conversions của Úc đã biến tấu dạng nhà di động kiểu \"teardrop\" (dạng giọt nước) thông thường thành một phiên bản không có nhà bếp ở phía sau như truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.005709+07:00",
+      "fetched": "2025-09-02T17:17:42.005829+07:00"
+    },
+    {
+      "id": "3c9da03a372e3be8c9168e996220e89b",
+      "title": "Yamal chia tay bạn gái thứ 5 chỉ sau... 2 tuần yêu đương",
+      "link": "https://tuoitre.vn/yamal-chia-tay-ban-gai-thu-5-chi-sau-2-tuan-yeu-duong-20250902161247746.htm",
+      "summary": "Chuyện đời tư của siêu sao bóng đá trẻ Lamine Yamal (Barcelona) một lần nữa tạo sóng gió dư luận, khi anh chia tay cô bạn gái Nicki Nicole chỉ sau 2 tuần công khai mối quan hệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.005565+07:00",
+      "fetched": "2025-09-02T17:17:42.005697+07:00"
+    },
+    {
+      "id": "91f764929323ff865fda5aec2c33dc5c",
+      "title": "Lãnh đạo TP.HCM và Hà Anh Tuấn thăm bệnh viện Ung bướu nhân ngày Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-va-ha-anh-tuan-tham-benh-vien-ung-buou-nhan-ngay-quoc-khanh-2-9-20250902164331061.htm",
+      "summary": "Sáng 2-9, Phó Chủ tịch UBND TP.HCM Nguyễn Mạnh Cường cùng ca sĩ Hà Anh Tuấn thăm và trao quà các bệnh nhân ở Bệnh viện Ung Bướu TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T17:17:42.005323+07:00",
+      "fetched": "2025-09-02T17:17:42.005535+07:00"
+    },
     {
       "id": "1dffe98d8f9503abab396c842c937676",
       "title": "Độc đáo loại chỉ may tự tan khi gặp nhiệt",
@@ -453,6 +603,46 @@ window.newsData_2025_09_02 = {
       "fetched": "2025-09-02T11:19:56.258195+07:00"
     },
     {
+      "id": "8a6001f587f905f4a0a1a7a08b986799",
+      "title": "Chiêu đổi áo Messi giúp Seattle đăng quang Leagues Cup",
+      "link": "https://vnexpress.net/chieu-doi-ao-messi-giup-seattle-dang-quang-leagues-cup-4934284.html",
+      "summary": "Seattle Sounders cho phép khán giả đổi áo Lionel Messi lấy áo cầu thủ địa phương, rồi sau đó đánh bại Inter Miami 3-0 trong trận chung kết Leagues Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:09:28+07:00",
+      "fetched": "2025-09-02T17:17:37.716271+07:00"
+    },
+    {
+      "id": "8a6001f587f905f4a0a1a7a08b986799",
+      "title": "Chiêu đổi áo Messi giúp Seattle đăng quang Leagues Cup",
+      "link": "https://vnexpress.net/chieu-doi-ao-messi-giup-seattle-dang-quang-leagues-cup-4934284.html",
+      "summary": "Seattle Sounders cho phép khán giả đổi áo Lionel Messi lấy áo cầu thủ địa phương, rồi sau đó đánh bại Inter Miami 3-0 trong trận chung kết Leagues Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-02T10:09:28+07:00",
+      "fetched": "2025-09-02T17:17:48.756599+07:00"
+    },
+    {
+      "id": "04a1f6b5870f95ea3e6b393d2f5adea6",
+      "title": "Thùy Linh tái lập vị trí cao nhất sự nghiệp",
+      "link": "https://vnexpress.net/thuy-linh-tai-lap-vi-tri-cao-nhat-su-nghiep-4934282.html",
+      "summary": "Tay vợt Nguyễn Thùy Linh tăng bốn bậc, lên đứng thứ 18 thế giới theo bảng thứ tự cầu lông đơn nữ BWF tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:06:40+07:00",
+      "fetched": "2025-09-02T17:17:37.716446+07:00"
+    },
+    {
+      "id": "04a1f6b5870f95ea3e6b393d2f5adea6",
+      "title": "Thùy Linh tái lập vị trí cao nhất sự nghiệp",
+      "link": "https://vnexpress.net/thuy-linh-tai-lap-vi-tri-cao-nhat-su-nghiep-4934282.html",
+      "summary": "Tay vợt Nguyễn Thùy Linh tăng bốn bậc, lên đứng thứ 18 thế giới theo bảng thứ tự cầu lông đơn nữ BWF tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-02T10:06:40+07:00",
+      "fetched": "2025-09-02T17:17:48.755929+07:00"
+    },
+    {
       "id": "4a4e19af227548fc1d50bb5b5e5cd688",
       "title": "HLV Ten Hag nói gì khi bị sa thải chỉ sau 2 trận?",
       "link": "https://tuoitre.vn/hlv-ten-hag-noi-gi-khi-bi-sa-thai-chi-sau-2-tran-20250902072958285.htm",
@@ -601,6 +791,336 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T10:04:07.645232+07:00",
       "fetched": "2025-09-02T10:04:07.645456+07:00"
+    },
+    {
+      "id": "ecb5e1332e406e24f1d41e19d8e0c5c5",
+      "title": "Điểm tin 17h: 'Việt Nam hùng cường là lời thề danh dự trước lịch sử' | Hà Nội đạt doanh thu, lượng khách cao kỷ lục dịp 2/9",
+      "link": "https://vnexpress.net/diem-tin-17h-viet-nam-hung-cuong-la-loi-the-danh-du-truoc-lich-su-ha-noi-dat-doanh-thu-luong-khach-cao-ky-luc-dip-2-9-4934297.html",
+      "summary": "Truyền thông quốc tế ấn tượng với đại lễ Quốc khánh của Việt Nam; Hơn 1.300 người được chăm sóc y tế trong đại lễ A80...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:04:02+07:00",
+      "fetched": "2025-09-02T17:17:37.716630+07:00"
+    },
+    {
+      "id": "0e552ea9d673fe5cd2d04522434a8d9c",
+      "title": "Dấu ấn khí tài tự chế tạo của Việt Nam trong lễ 2/9",
+      "link": "https://vnexpress.net/dau-an-khi-tai-tu-che-tao-cua-viet-nam-trong-le-2-9-4934286.html",
+      "summary": "Xe chiến đấu bộ binh XCB-01, tổ hợp tên lửa Trường Sơn, S-125-VT... do Việt Nam sản xuất, cùng khí tài hiện có trong biên chế, tạo nên đội hình diễu binh đa dạng tại lễ kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:03:23+07:00",
+      "fetched": "2025-09-02T17:17:37.716791+07:00"
+    },
+    {
+      "id": "2bf41c07295f1c76b190ad226cc8bc56",
+      "title": "Điểm tin 17h: 'Việt Nam hùng cường là lời thề danh dự trước lịch sử' | Hà Nội đạt doanh thu, lượng khách cao kỷ lục dịp 2/9",
+      "link": "https://vnexpress.net/diem-tin-17h-viet-nam-hung-cuong-la-loi-the-danh-du-truoc-lich-su-ha-noi-dat-doanh-thu-luong-khach-cao-ky-luc-dip-2-9-4934296.html",
+      "summary": "Truyền thông quốc tế ấn tượng với đại lễ Quốc khánh của Việt Nam; Hơn 1.300 người được chăm sóc y tế trong đại lễ A80...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:03:20+07:00",
+      "fetched": "2025-09-02T17:17:37.716951+07:00"
+    },
+    {
+      "id": "8498e722a7ee4223a13a7541afa8b26c",
+      "title": "CEO Nestlé bị sa thải",
+      "link": "https://vnexpress.net/ceo-nestle-bi-sa-thai-4934277.html",
+      "summary": "Nestlé sa thải CEO Laurent Freixe vì ông không công khai quan hệ tình cảm với cấp dưới, đúng một năm sau ngày ông nhậm chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:00:03+07:00",
+      "fetched": "2025-09-02T17:17:37.717103+07:00"
+    },
+    {
+      "id": "8498e722a7ee4223a13a7541afa8b26c",
+      "title": "CEO Nestlé bị sa thải",
+      "link": "https://vnexpress.net/ceo-nestle-bi-sa-thai-4934277.html",
+      "summary": "Nestlé sa thải CEO Laurent Freixe vì ông không công khai quan hệ tình cảm với cấp dưới, đúng một năm sau ngày ông nhậm chức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-02T10:00:03+07:00",
+      "fetched": "2025-09-02T17:17:44.391478+07:00"
+    },
+    {
+      "id": "49bc5b5f1b9126a673fe36c65f31069d",
+      "title": "Với em, tình yêu cần sự thấu hiểu và đồng hành",
+      "link": "https://vnexpress.net/voi-em-tinh-yeu-can-su-thau-hieu-va-dong-hanh-4932082.html",
+      "summary": "Tính em hiền, sống tình cảm, thích sự giản dị, chân thành và luôn coi trọng gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:00:00+07:00",
+      "fetched": "2025-09-02T17:17:37.717199+07:00"
+    },
+    {
+      "id": "43b95b7aa7c90ff0a884f6ddcd78fd7d",
+      "title": "Dàn xe VinFast trong lễ diễu binh 2/9",
+      "link": "https://vnexpress.net/dan-xe-vinfast-trong-le-dieu-binh-2-9-4934278.html",
+      "summary": "Loạt xe VF 9 được nâng cấp để phục vụ riêng cho sự kiện diễu binh, diễu hành Đại lễ 80 năm Quốc khánh sáng nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:00:00+07:00",
+      "fetched": "2025-09-02T17:17:37.717354+07:00"
+    },
+    {
+      "id": "e2d44c8910a891441c61d1da8b189067",
+      "title": "Cách du học sinh ăn mừng Tết độc lập",
+      "link": "https://thanhnien.vn/cach-du-hoc-sinh-an-mung-tet-doc-lap-185250902170204206.htm",
+      "summary": "Dù học tập tại bất kỳ quốc gia nào, nhiều bạn trẻ Việt Nam đều dành trọn tình cảm hướng về Tổ quốc trong dịp kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T10:00:00+07:00",
+      "fetched": "2025-09-02T17:17:40.962900+07:00"
+    },
+    {
+      "id": "d2ea002e7187874aa21a799797897556",
+      "title": "UBND TP.HCM yêu cầu điều chỉnh quy hoạch sau sáp nhập",
+      "link": "https://thanhnien.vn/ubnd-tphcm-yeu-cau-dieu-chinh-quy-hoach-sau-sap-nhap-185250902164219815.htm",
+      "summary": "UBND TP.HCM đã chỉ đạo Sở Tài chính, Viện Nghiên cứu phát triển Thành phố và các đơn vị liên quan rà soát, điều chỉnh quy hoạch TP.HCM sau sắp xếp, sáp nhập đơn vị hành chính với 2 tỉnh Bình Dương và Bà Rịa - Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:54:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963063+07:00"
+    },
+    {
+      "id": "bb808e0d3e5cf344e083909d933d6665",
+      "title": "Nam MC dẫn dắt ‘concert quốc gia đặc biệt’ dịp 2.9 là ai?",
+      "link": "https://thanhnien.vn/nam-mc-dan-dat-concert-quoc-gia-dac-biet-dip-29-la-ai-1852509021604554.htm",
+      "summary": "Đối mặt với những áp lực khi dẫn dắt concert quốc gia 80 năm hành trình Độc lập - Tự do - Hạnh phúc, MC Vũ Mạnh Cường vẫn nỗ lực cùng các đồng nghiệp hoàn thành tốt vai trò được giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:43:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963218+07:00"
+    },
+    {
+      "id": "b250a22f72f59f11ba5dd44b5cd98b86",
+      "title": "Thị thực du học Anh tăng",
+      "link": "https://vnexpress.net/thi-thuc-du-hoc-anh-tang-4934285.html",
+      "summary": "Hơn 110.800 thị thực du học Anh được phê duyệt trong nửa đầu năm, tăng khoảng 18% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:40:20+07:00",
+      "fetched": "2025-09-02T17:17:37.717523+07:00"
+    },
+    {
+      "id": "4ddeb6f5ecb519543ce3a081735ccbfe",
+      "title": "Vũ Thùy Linh thăng hoa trong 'Concert quốc gia đặc biệt'",
+      "link": "https://thanhnien.vn/vu-thuy-linh-thang-hoa-trong-concert-quoc-gia-dac-biet-185250902155725768.htm",
+      "summary": "Vũ Thùy Linh vừa có một đêm diễn bùng nổ tại sự kiện nghệ thuật đặc biệt '80 năm hành trình Độc lập - Tự do - Hạnh phúc'. Trong buổi diễn, Thùy Linh không chỉ chinh phục khán giả bằng giọng hát mà còn chia sẻ những quan điểm sâu sắc về sự so sánh trong nghệ thuật, khẳng định dấu ấn riêng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:39:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963370+07:00"
+    },
+    {
+      "id": "ef435d47e01c5a844c0b12821e9e2654",
+      "title": "Cấp giấy chứng nhận Hợp tác xã cho dịch vụ xe ngựa Đà Lạt",
+      "link": "https://thanhnien.vn/cap-giay-chung-nhan-hop-tac-xa-cho-dich-vu-xe-ngua-da-lat-185250902154736716.htm",
+      "summary": "Phòng Kinh tế, hạ tầng và đô thị P.Xuân Hương - Đà Lạt (Lâm Đồng) vừa cấp giấy chứng nhận đăng ký hợp tác xã cho Hợp tác xã dịch vụ xe ngựa Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:35:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963519+07:00"
+    },
+    {
+      "id": "7f1f8ca45193e71b0f4b3ad93c16e254",
+      "title": "Diễn viên bị bạn trai bỏ vì đóng cảnh hôn",
+      "link": "https://vnexpress.net/dien-vien-bi-ban-trai-bo-vi-dong-canh-hon-4934274.html",
+      "summary": "Diễn viên Trung Quốc Hứa Tử Ngâm cho biết người yêu đề nghị chia tay vì không chấp nhận việc cô đóng cảnh hôn bạn diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:34:36+07:00",
+      "fetched": "2025-09-02T17:17:37.717696+07:00"
+    },
+    {
+      "id": "01fe3eff8c1c0f17204095524d4a1cc0",
+      "title": "Việt Nam lần đầu tổ chức chuỗi giải billiards thế giới, tổng giải thưởng siêu hấp dẫn: 11,2 tỉ đồng",
+      "link": "https://thanhnien.vn/viet-nam-lan-dau-to-chuc-chuoi-giai-billiards-the-gioi-tong-giai-thuong-sieu-hap-dan-112-ti-dong-185250902161640879.htm",
+      "summary": "Lần đầu tiên trong lịch sử, Việt Nam sẽ trở thành tâm điểm của billiards pool thế giới khi đăng cai tổ chức chuỗi 3 giải đấu quốc tế quy mô lớn, bao gồm giải vô địch thế giới 10 bi nam, giải nữ quốc tế mở rộng Poison Cues Saigon Women's 9-Ball Open, và giải đôi nam nữ quốc tế Box Billiards Mixed Dou...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:34:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963693+07:00"
+    },
+    {
+      "id": "65ab6b2767c539ab2537ccb513627d86",
+      "title": "Lãnh đạo Khoa học và Công nghệ qua các thời kỳ",
+      "link": "https://vnexpress.net/lanh-dao-khoa-hoc-va-cong-nghe-qua-cac-thoi-ky-4934207.html",
+      "summary": "Thành lập từ năm 1958, cơ quan quản lý khoa học công nghệ Việt Nam trải qua ba giai đoạn, nhiều lần đổi tên và chia tách, với hơn 10 lãnh đạo dẫn dắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:33:42+07:00",
+      "fetched": "2025-09-02T17:17:37.717846+07:00"
+    },
+    {
+      "id": "65ab6b2767c539ab2537ccb513627d86",
+      "title": "Lãnh đạo Khoa học và Công nghệ qua các thời kỳ",
+      "link": "https://vnexpress.net/lanh-dao-khoa-hoc-va-cong-nghe-qua-cac-thoi-ky-4934207.html",
+      "summary": "Thành lập từ năm 1958, cơ quan quản lý khoa học công nghệ Việt Nam trải qua ba giai đoạn, nhiều lần đổi tên và chia tách, với hơn 10 lãnh đạo dẫn dắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-02T09:33:42+07:00",
+      "fetched": "2025-09-02T17:17:47.410815+07:00"
+    },
+    {
+      "id": "e4d34b309dc3c365b520e1bfb8ad41cb",
+      "title": "Đề xuất bỏ quy hoạch sử dụng đất cấp xã",
+      "link": "https://thanhnien.vn/de-xuat-bo-quy-hoach-su-dung-dat-cap-xa-185250902161022928.htm",
+      "summary": "Theo dự thảo sửa đổi luật Đất đai 2024, Bộ Nông nghiệp và Môi trường đề xuất thay thế quy hoạch sử dụng đất cấp huyện bằng quy hoạch sử dụng đất cấp xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:31:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963842+07:00"
+    },
+    {
+      "id": "7ecc03eed3ad90770cfefb9f40ac391b",
+      "title": "Những khoảnh khắc đẹp của Vinamilk trong ngày Quốc khánh",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-dep-cua-vinamilk-trong-ngay-quoc-khanh-4934273.html",
+      "summary": "Vinamilk mang gần một triệu sản phẩm tiếp sức người dân, các khối diễu binh, để lại nhiều hình ảnh đẹp trong ngày Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:30:00+07:00",
+      "fetched": "2025-09-02T17:17:37.718000+07:00"
+    },
+    {
+      "id": "4e44805bc5a459ea1ea4e0fc5a9c8522",
+      "title": "Quốc gia không có muỗi",
+      "link": "https://vnexpress.net/quoc-gia-khong-co-muoi-4934107.html",
+      "summary": "Trong khi các nước láng giềng như Na Uy, Scotland hay Greenland là nơi sinh sống của nhiều loài muỗi, Iceland vắng bóng côn trùng hút máu này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:18:00+07:00",
+      "fetched": "2025-09-02T17:17:37.718147+07:00"
+    },
+    {
+      "id": "33e9af93b0e91f92dfb4a3e5648c0ed0",
+      "title": "Bạn có nên uống cà phê khi đang nhịn ăn không?",
+      "link": "https://thanhnien.vn/ban-co-nen-uong-ca-phe-khi-dang-nhin-an-khong-18525090216181986.htm",
+      "summary": "'Khi nhịn ăn, có nên uống cà phê không?' là thắc mắc của nhiều người khi đang trong quá trình giảm cân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:18:00+07:00",
+      "fetched": "2025-09-02T17:17:40.963996+07:00"
+    },
+    {
+      "id": "4e44805bc5a459ea1ea4e0fc5a9c8522",
+      "title": "Quốc gia không có muỗi",
+      "link": "https://vnexpress.net/quoc-gia-khong-co-muoi-4934107.html",
+      "summary": "Trong khi các nước láng giềng như Na Uy, Scotland hay Greenland là nơi sinh sống của nhiều loài muỗi, Iceland vắng bóng côn trùng hút máu này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-02T09:18:00+07:00",
+      "fetched": "2025-09-02T17:17:47.410991+07:00"
+    },
+    {
+      "id": "a70546ff04cf45fa1ad33131e52475a0",
+      "title": "Bật mí cách chăm sóc vết thương sau sinh mổ ngừa nhiễm trùng, ngăn sẹo xấu",
+      "link": "https://thanhnien.vn/bat-mi-cach-cham-soc-vet-thuong-sau-sinh-mo-ngua-nhiem-trung-ngan-seo-xau-185250902161146982.htm",
+      "summary": "Sinh mổ là hành trình đặc biệt để mẹ 'vượt cạn' an toàn. Tuy nhiên, sau ca mổ, vết thương không chỉ cần thời gian phục hồi mà còn đòi hỏi sự chăm sóc khoa học để ngăn ngừa nhiễm trùng và hạn chế hình thành sẹo xấu. Nhiều mẹ bỉm lo lắng không biết đâu là cách chăm sóc vết thương sau sinh mổ đúng chuẩ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:11:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964145+07:00"
+    },
+    {
+      "id": "4e0fc7a52d3feb06b748a3284ff4cd04",
+      "title": "Thi hành án Hà Nội làm việc 'xuyên lễ' trả tiền người mua cổ phiếu ROS",
+      "link": "https://vnexpress.net/thi-hanh-an-ha-noi-lam-viec-xuyen-le-tra-tien-nguoi-mua-co-phieu-ros-4934275.html",
+      "summary": "Thi hành án dân sự Hà Nội làm việc xuyên lễ để hoàn trả 1.786 tỷ đồng cho hơn 28.014 bị hại và người có quyền lợi nghĩa vụ liên quan đã mua cổ phiếu ROS của FLC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:05:33+07:00",
+      "fetched": "2025-09-02T17:17:37.718300+07:00"
+    },
+    {
+      "id": "b212d20a36bfe34756f35d90abcf679d",
+      "title": "Thêm một bộ môn giúp người lớn tuổi kéo dài tuổi thọ, hỗ trợ tim mạch",
+      "link": "https://thanhnien.vn/them-mot-bo-mon-giup-nguoi-lon-tuoi-keo-dai-tuoi-tho-ho-tro-tim-mach-185250902160048038.htm",
+      "summary": "Quần vợt (tennis) là một môn thể thao nhịp độ nhanh, mang lại nhiều lợi ích về thể chất, tinh thần và kéo dài tuổi thọ. Đặc biệt, đây còn là môn bạn có thể tiếp tục chơi khi tuổi đã cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:00:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964292+07:00"
+    },
+    {
+      "id": "61f0dc59239f4d4f8d239f4fa53feb17",
+      "title": "Kết quả xổ số miền Nam ngày 2 tháng 9 - KQXS trực tiếp thứ ba",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-2-thang-9-kqxs-truc-tiep-thu-ba-185250902153826946.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 2 tháng 9. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ ba ngày 2.9.2025. Đài Bến Tre, đài Vũng Tàu, đài Bạc Liêu, đài Đắk Lắk...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:00:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964437+07:00"
+    },
+    {
+      "id": "a15905f50a38772cdce78d51ff120670",
+      "title": "Houthi tổ chức tang lễ cho các quan chức bị Israel sát hại, thề sẽ trả thù",
+      "link": "https://thanhnien.vn/houthi-to-chuc-tang-le-cho-cac-quan-chuc-bi-israel-sat-hai-the-se-tra-thu-185250902145122902.htm",
+      "summary": "Hàng ngàn người đã tham dự tang lễ tại nhà thờ Hồi giáo lớn nhất ở thủ đô Sanaa của Yemen cho 12 nhân vật cấp cao của Houthi, những người đã thiệt mạng trong một cuộc không kích của Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:00:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964606+07:00"
+    },
+    {
+      "id": "2582ea59ed6270fbe51b9aa00166a64f",
+      "title": "Denim on denim chính là xu hướng đường phố nổi bật nhất mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/denim-on-denim-chinh-la-xu-huong-duong-pho-noi-bat-nhat-mua-185250829151358998.htm",
+      "summary": "Trang phục đồng bộ từ denim hay các bản phối denim on denim đang được tìm kiếm và mặc nhiều trên đường phố. Quý cô có thể thấy sự khác biệt rõ rệt về phong cách khi diện các bản phối làm từ chất vải jean mềm mại, đứng phom mang gam màu xanh denim cổ điển đặc sắc trong mùa thu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T09:00:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964760+07:00"
+    },
+    {
+      "id": "22e246d5de779ab3bcb01177787de394",
+      "title": "Ông Kim Jong-un đi tàu bọc thép tới Bắc Kinh",
+      "link": "https://vnexpress.net/ong-kim-jong-un-di-tau-boc-thep-toi-bac-kinh-4934272.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un đi tàu bọc thép đến Trung Quốc để lần đầu tiên dự lễ duyệt binh kỷ niệm ngày chiến thắng phát xít tại Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:57:04+07:00",
+      "fetched": "2025-09-02T17:17:37.718457+07:00"
+    },
+    {
+      "id": "22e246d5de779ab3bcb01177787de394",
+      "title": "Ông Kim Jong-un đi tàu bọc thép tới Bắc Kinh",
+      "link": "https://vnexpress.net/ong-kim-jong-un-di-tau-boc-thep-toi-bac-kinh-4934272.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un đi tàu bọc thép đến Trung Quốc để lần đầu tiên dự lễ duyệt binh kỷ niệm ngày chiến thắng phát xít tại Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T08:57:04+07:00",
+      "fetched": "2025-09-02T17:17:43.083670+07:00"
+    },
+    {
+      "id": "37a2464f9453cee29b700e2389a665dc",
+      "title": "Cà Mau: Truy trách nhiệm vụ cho Phó giám đốc Công ty môi trường thôi việc",
+      "link": "https://thanhnien.vn/ca-mau-truy-trach-nhiem-vu-cho-pho-giam-doc-cong-ty-moi-truong-thoi-viec-185250902144547511.htm",
+      "summary": "Sở Nội vụ tỉnh Cà Mau đề nghị Công ty CP Môi trường đô thị Cà Mau xác định tập thể, cá nhân liên quan việc cho phó giám đốc công ty thôi việc chưa đúng quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:54:00+07:00",
+      "fetched": "2025-09-02T17:17:40.964907+07:00"
+    },
+    {
+      "id": "fe9fafe5650e9bcfb76bed08a4ce36d4",
+      "title": "Vinamilk cùng Việt Nam rực rỡ trong ngày hội non sông",
+      "link": "https://thanhnien.vn/vinamilk-cung-viet-nam-ruc-ro-trong-ngay-hoi-non-song-185250902155304016.htm",
+      "summary": "Ngày 2.9, Hà Nội rực rỡ sắc cờ hoa trong không khí thiêng liêng kỷ niệm 80 năm Quốc khánh. Hàng vạn bước chân diễu binh hùng dũng, triệu ánh mắt tự hào và những nụ cười rạng rỡ lan tỏa khắp thủ đô như viết tiếp câu chuyện hào hùng của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T08:50:00+07:00",
+      "fetched": "2025-09-02T17:17:40.965053+07:00"
+    },
+    {
+      "id": "bc9c0b55241bc6d711ef0c49ee2fa155",
+      "title": "Tổng Bí thư Tô Lâm hội kiến Tổng Bí thư, Chủ tịch nước Lào",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-hoi-kien-tong-bi-thu-chu-tich-nuoc-lao-4934270.html",
+      "summary": "Tổng Bí thư Tô Lâm hội kiến Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith, nhất trí tạo đột phá về hợp tác kinh tế tương xứng với quan hệ chính trị hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T08:44:21+07:00",
+      "fetched": "2025-09-02T17:17:43.083844+07:00"
     },
     {
       "id": "fbf7d3c103c27196a935e2734ed764a7",
@@ -761,6 +1281,16 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T08:11:00+07:00",
       "fetched": "2025-09-02T15:22:31.758181+07:00"
+    },
+    {
+      "id": "b696163e2cf4bee04946aa176aa34890",
+      "title": "Ukraine tập kích tỉnh miền tây Nga, hơn 300 người phải sơ tán",
+      "link": "https://vnexpress.net/ukraine-tap-kich-tinh-mien-tay-nga-hon-300-nguoi-phai-so-tan-4934264.html",
+      "summary": "Giới chức Nga cho biết hơn 300 người phải sơ tán sau khi Ukraine phóng UAV tập kích thủ phủ của tỉnh miền tây Rostov.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T08:06:30+07:00",
+      "fetched": "2025-09-02T17:17:43.084004+07:00"
     },
     {
       "id": "cb97d4fe65ab9bbf64617cce1d1eaad3",
