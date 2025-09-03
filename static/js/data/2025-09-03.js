@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T13:23:07.309946+07:00",
+  "lastUpdated": "2025-09-03T15:21:12.475914+07:00",
   "articles": [
+    {
+      "id": "9675487388b6a820e50c841915e40d1f",
+      "title": "Giám đốc Đại học Quốc gia TP.HCM giữ chức thứ trưởng thường trực Bộ Khoa học và Công nghệ",
+      "link": "https://tuoitre.vn/giam-doc-dai-hoc-quoc-gia-tphcm-giu-chuc-thu-truong-thuong-truc-bo-khoa-hoc-va-cong-nghe-20250903123523657.htm",
+      "summary": "PGS.TS Vũ Hải Quân - giám đốc Đại học Quốc gia TP.HCM - vừa được điều động, bổ nhiệm làm thứ trưởng thường trực Bộ Khoa học và Công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247830+07:00",
+      "fetched": "2025-09-03T15:21:06.247950+07:00"
+    },
+    {
+      "id": "caeb2c0beaac2d65386dd413ab51eaa9",
+      "title": "Thực hư chuyện người đàn ông cướp ngân hàng 1 USD chỉ để được chữa bệnh trong tù ở Mỹ?",
+      "link": "https://tuoitre.vn/thuc-hu-chuyen-nguoi-dan-ong-cuop-ngan-hang-1-usd-chi-de-duoc-chua-benh-trong-tu-o-my-20250903125558057.htm",
+      "summary": "Mạng xã hội Mỹ lan truyền vụ một người cướp ngân hàng 1 USD chỉ để được vào tù chữa bệnh, khiến nhiều người nghi ngờ tính xác thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247685+07:00",
+      "fetched": "2025-09-03T15:21:06.247818+07:00"
+    },
+    {
+      "id": "d4b0fbe498ba8b348b4f1d761dc28810",
+      "title": "TP.HCM đào tạo giáo viên dạy trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/tp-hcm-dao-tao-giao-vien-day-tri-tue-nhan-tao-20250903133919458.htm",
+      "summary": "Giám đốc Sở Giáo dục và Đào tạo TP.HCM cho biết kinh phí đào tạo giáo viên được lấy từ nguồn ngân sách thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247559+07:00",
+      "fetched": "2025-09-03T15:21:06.247674+07:00"
+    },
+    {
+      "id": "e2fa5b5f502778cbbd8f200b903c0789",
+      "title": "Mỹ phản đối việc Ý đưa chi phí xây dựng cầu vào chi tiêu quốc phòng NATO",
+      "link": "https://tuoitre.vn/my-phan-doi-viec-y-dua-chi-phi-xay-dung-cau-vao-chi-tieu-quoc-phong-nato-20250903135705094.htm",
+      "summary": "Mỹ phản đối việc Ý muốn đưa chi phí xây cầu Sicily vào ngân sách chi tiêu quốc phòng chung của NATO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247419+07:00",
+      "fetched": "2025-09-03T15:21:06.247547+07:00"
+    },
+    {
+      "id": "186858af453585d93bb684034a08d90e",
+      "title": "VinFast sắp sản xuất xe điện tự lái",
+      "link": "https://tuoitre.vn/vinfast-sap-san-xuat-xe-dien-tu-lai-20250903090107329.htm",
+      "summary": "VinFast sẽ hợp tác cùng Tensor để phát triển xe điện tự lái hoàn toàn với hơn 100 cảm biến camera các loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247295+07:00",
+      "fetched": "2025-09-03T15:21:06.247407+07:00"
+    },
+    {
+      "id": "f3243b71eac2c3e54ce47089959aa2f6",
+      "title": "Singapore yêu cầu Meta dẹp nạn lừa đảo mạo danh quan chức trên Facebook",
+      "link": "https://tuoitre.vn/singapore-yeu-cau-meta-dep-nan-lua-dao-mao-danh-quan-chuc-tren-facebook-20250903140851269.htm",
+      "summary": "Singapore vừa ra chỉ thị bắt buộc Công ty Meta triển khai biện pháp ngăn chặn tình trạng lừa đảo mạo danh quan chức chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247168+07:00",
+      "fetched": "2025-09-03T15:21:06.247284+07:00"
+    },
+    {
+      "id": "397fa9f335ada8bb04ad38bed1c1f5a0",
+      "title": "Ông Lê Quân làm thứ trưởng Bộ Giáo dục và Đào tạo",
+      "link": "https://tuoitre.vn/ong-le-quan-lam-thu-truong-bo-giao-duc-va-dao-tao-2025090314140664.htm",
+      "summary": "Thủ tướng Chính phủ vừa có quyết định điều động, bổ nhiệm ông Lê Quân, chủ tịch hội đồng, giám đốc Đại học Quốc gia Hà Nội, giữ chức thứ trưởng Bộ Giáo dục và Đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.247029+07:00",
+      "fetched": "2025-09-03T15:21:06.247155+07:00"
+    },
+    {
+      "id": "20bdd6fa39f0f8886125de651e2a0399",
+      "title": "Dịp lễ 2-9, hơn 2.200 người vi phạm nồng độ cồn bị cảnh sát giao thông TP.HCM xử lý",
+      "link": "https://tuoitre.vn/dip-le-2-9-hon-2-200-nguoi-vi-pham-nong-do-con-bi-canh-sat-giao-thong-tp-hcm-xu-ly-20250903134133681.htm",
+      "summary": "Ngày 3-9, đại diện Phòng Cảnh sát giao thông Công an TP.HCM cho biết dịp lễ 2-9 đã xử lý hơn 9.500 trường hợp vi phạm, trong đó có 2.200 người vi phạm nồng độ cồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246893+07:00",
+      "fetched": "2025-09-03T15:21:06.247012+07:00"
+    },
+    {
+      "id": "c56f42254af22726b6754125a4ad6691",
+      "title": "Chủ cơ sở mái ấm Hoa Hồng và 3 bảo mẫu hầu tòa",
+      "link": "https://tuoitre.vn/chu-co-so-mai-am-hoa-hong-va-3-bao-mau-hau-toa-20250903141729083.htm",
+      "summary": "TAND TP.HCM mở phiên tòa xét xử chủ cơ sở mái ấm Hoa Hồng cùng 3 bảo mẫu về tội hành hạ người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246746+07:00",
+      "fetched": "2025-09-03T15:21:06.246880+07:00"
+    },
+    {
+      "id": "f4fb9d96a66a2ed38d4268218fe53827",
+      "title": "Bí thư Thành ủy Đà Nẵng làm phó tổng thường trực Thanh tra Chính phủ",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-da-nang-lam-pho-tong-thanh-tra-thuong-truc-thanh-tra-chinh-phu-2025090314290621.htm",
+      "summary": "Thủ tướng Chính phủ vừa có quyết định tiếp nhận, bổ nhiệm ông Nguyễn Văn Quảng, bí thư Thành ủy Đà Nẵng giữ chức phó tổng thanh tra thường trực Thanh tra Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246619+07:00",
+      "fetched": "2025-09-03T15:21:06.246734+07:00"
+    },
+    {
+      "id": "4a0f8547c39324b4df89ad712a3e535d",
+      "title": "Ông Kim Jong Un hứa sẽ 'giúp Nga bằng tất cả những gì có thể'",
+      "link": "https://tuoitre.vn/ong-kim-jong-un-hua-se-giup-nga-bang-moi-gia-2025090314253699.htm",
+      "summary": "Ngày 3-9, Tổng thống Putin đã dành lời cảm ơn đặc biệt tới toàn thể nhân dân Triều Tiên, và nhận được lời cam kết mạnh mẽ từ ông Kim về việc tiếp tục sát cánh cùng Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246490+07:00",
+      "fetched": "2025-09-03T15:21:06.246607+07:00"
+    },
+    {
+      "id": "9f4a764bdfeeffd4f1307eb1a66a0b27",
+      "title": "Giải mã tin đồn về kẻ giết người hàng loạt ở bang Texas",
+      "link": "https://tuoitre.vn/giai-ma-tin-don-ve-ke-giet-nguoi-hang-loat-o-bang-texas-2025090314084244.htm",
+      "summary": "Một nghiên cứu mới được công bố, giải mã tin đồn “sát nhân hàng loạt phố Rainey” chuyên đẩy nạn nhân xuống hồ ở bang Texas, Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246362+07:00",
+      "fetched": "2025-09-03T15:21:06.246478+07:00"
+    },
+    {
+      "id": "ef8c85daa46424e24cc334fe76f6875a",
+      "title": "Toàn cảnh lễ duyệt binh ngày 3-9 của Trung Quốc",
+      "link": "https://tuoitre.vn/nhung-hinh-anh-an-tuong-trong-le-duyet-binh-cua-trung-quoc-20250903125013436.htm",
+      "summary": "Lễ duyệt binh quy mô lớn gây ấn tượng mạnh với màn diễu hành của hàng nghìn binh sĩ, khí tài quân sự hiện đại, cùng sự tham dự của nhiều nhà lãnh đạo thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246228+07:00",
+      "fetched": "2025-09-03T15:21:06.246350+07:00"
+    },
+    {
+      "id": "f76386689d4ae1f5b5dd3209d9d0a16c",
+      "title": "Hàn Quốc chọn No Other Choice của đạo diễn Park Chan Wook cho đường đua Oscar",
+      "link": "https://tuoitre.vn/han-quoc-chon-no-other-choice-cua-dao-dien-park-chan-wook-cho-duong-dua-oscar-20250903145822038.htm",
+      "summary": "Theo Deadline, Hàn Quốc kỳ vọng No Other Choice sẽ tiếp nối dấu ấn của Parasite (Ký sinh trùng), kiệt tác từng làm nên lịch sử với chiến thắng vang dội tại Oscar năm 2020.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.246086+07:00",
+      "fetched": "2025-09-03T15:21:06.246215+07:00"
+    },
+    {
+      "id": "04ba7f5f095855f51ca08c28ea2ffa58",
+      "title": "Vì sao trung vệ cao gần 2m không được chọn cho U23 Việt Nam?",
+      "link": "https://tuoitre.vn/vi-sao-trung-ve-cao-gan-2m-khong-duoc-chon-cho-u23-viet-nam-20250903150930811.htm",
+      "summary": "Trung vệ 18 tuổi, cao 1m96 Đinh Quang Kiệt được HLV Kim Sang Sik lựa chọn cho đội tuyển Việt Nam thay vì U23 Việt Nam. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:21:06.245846+07:00",
+      "fetched": "2025-09-03T15:21:06.246070+07:00"
+    },
     {
       "id": "9696281e1175a6c14930ce99c2b52383",
       "title": "Mua súng trên mạng để săn thú rừng, bị tạm giữ vì tàng trữ vũ khí quân dụng",
@@ -313,6 +463,26 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T09:52:45.452217+07:00"
     },
     {
+      "id": "1fadeb7bd5f7593cd549802d9a43fd8d",
+      "title": "Con gái tỉ phú giàu nhất thế giới Elon Musk: phá sản, phải ở chung 3 người",
+      "link": "https://thanhnien.vn/con-gai-ti-phu-giau-nhat-the-gioi-elon-musk-pha-san-phai-o-chung-3-nguoi-185250903150457902.htm",
+      "summary": "Con gái đầu lòng của tỉ phú Elon Musk, người giàu nhất thế giới, nói rằng mình phá sản và phải ở cùng phòng với 3 người khác để tiết kiệm tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:19:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218178+07:00"
+    },
+    {
+      "id": "54fc8dc2f2132891c8d0cb8979dbed59",
+      "title": "Nữ tạp vụ tử vong trên đường đi làm",
+      "link": "https://thanhnien.vn/nu-tap-vu-tu-vong-tren-duong-di-lam-185250903143209113.htm",
+      "summary": "Một vụ tai nạn giữa xe đầu kéo và xe máy vừa xảy ra trên địa bàn xã Đông Thạnh (TP.HCM) khiến người phụ nữ làm tạp vụ tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:19:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218346+07:00"
+    },
+    {
       "id": "3a818d8f977756dce0fed39e69b4f2d3",
       "title": "Thời tiết hôm nay 3-9: Bắc Bộ nắng, Nam Bộ có nơi mưa to tới rất to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-9-bac-bo-nang-nam-bo-co-noi-mua-to-toi-rat-to-2025090216322475.htm",
@@ -411,6 +581,396 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T08:11:40.143752+07:00",
       "fetched": "2025-09-03T08:11:40.144001+07:00"
+    },
+    {
+      "id": "46892dbe7097592cb237d2c5560a45fe",
+      "title": "Bị phạt 7,5 triệu đồng vì xúc phạm lãnh đạo Đảng, Nhà nước",
+      "link": "https://thanhnien.vn/bi-phat-75-trieu-dong-vi-xuc-pham-lanh-dao-dang-nha-nuoc-185250903145414443.htm",
+      "summary": "Một người đàn ông ở tỉnh Ninh Bình vừa bị cơ quan chức năng xử phạt hành chính vì có hành vi chia sẻ thông tin không đúng sự thật, xúc phạm đến uy tín cán bộ lãnh đạo Đảng, Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:10:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218504+07:00"
+    },
+    {
+      "id": "e2bce38fd8282ada6ca0fd089a49853f",
+      "title": "Phó bí thư Lai Châu làm Thứ trưởng thường trực Bộ Y tế",
+      "link": "https://thanhnien.vn/pho-bi-thu-lai-chau-lam-thu-truong-thuong-truc-bo-y-te-185250903150052005.htm",
+      "summary": "Ông Vũ Mạnh Hà, Phó bí thư thường trực Tỉnh ủy Lai Châu được bổ nhiệm giữ chức Thứ trưởng thường trực Bộ Y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:09:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218659+07:00"
+    },
+    {
+      "id": "2c3a2a37bd6a99f0969f382b017ceab2",
+      "title": "Bí thư Đà Nẵng giữ chức Phó tổng thường trực Thanh tra Chính phủ",
+      "link": "https://thanhnien.vn/bi-thu-da-nang-giu-chuc-pho-tong-thuong-truc-thanh-tra-chinh-phu-185250903144058681.htm",
+      "summary": "Ông Nguyễn Văn Quảng, Bí thư Thành ủy Đà Nẵng được bổ nhiệm giữ chức Phó tổng thường trực Thanh tra Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:08:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218827+07:00"
+    },
+    {
+      "id": "4a223f54816b7e8d4fdd52feb7ebfad9",
+      "title": "Xét xử bà Huỳnh Thị Hạnh Phúc vẽ dự án 'ma' chiếm đoạt 365 tỉ đồng",
+      "link": "https://thanhnien.vn/xet-xu-ba-huynh-thi-hanh-phuc-ve-du-an-ma-chiem-doat-365-ti-dong-185250903142741958.htm",
+      "summary": "Bị tố cáo vẽ hàng loạt dự án \"ma\", lừa bán cho hàng trăm người chiếm đoạt 365 tỉ đồng, bà Huỳnh Thị Hạnh Phúc, Tổng giám đốc Công ty Thiên Ân Phát sắp bị đưa ra xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:08:00+07:00",
+      "fetched": "2025-09-03T15:21:05.218989+07:00"
+    },
+    {
+      "id": "faff34ed9b4dd3edb7f05977d2bf9cb9",
+      "title": "Chủ tịch nước Lương Cường dự lễ duyệt binh kỷ niệm 80 năm chiến thắng phát xít",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-du-le-duyet-binh-ky-niem-80-nam-chien-thang-phat-xit-18525090314201171.htm",
+      "summary": "Sáng 3.9, nhận lời mời của Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình, Chủ tịch nước Lương Cường và đoàn đại biểu cấp cao Việt Nam đã tham dự Lễ duyệt binh kỷ niệm 80 năm Chiến thắng phát xít của nhân dân thế giới tại quảng trường Thiên An Môn, Bắc Kinh",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:07:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219144+07:00"
+    },
+    {
+      "id": "3ae720ca7f6f0f56a7b5cc440cf0b7c4",
+      "title": "Djokovic đấu Alcaraz ở bán kết Mỹ Mở rộng",
+      "link": "https://vnexpress.net/djokovic-dau-alcaraz-o-ban-ket-my-mo-rong-4934611.html",
+      "summary": "Hạt giống số bảy Novak Djokovic thắng niềm hy vọng chủ nhà Taylor Fritz 6-3, 7-5, 3-6, 6-4 ở tứ kết Mỹ Mở rộng tối 2/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T08:06:56+07:00",
+      "fetched": "2025-09-03T15:21:12.466356+07:00"
+    },
+    {
+      "id": "1aae1caa00fb7f4fb790ebd8e2b4a6b8",
+      "title": "Ông Trump lật ngược quyết định của ông Biden, dời Bộ Tư lệnh Vũ trụ Mỹ",
+      "link": "https://vnexpress.net/ong-trump-lat-nguoc-quyet-dinh-cua-ong-biden-doi-bo-tu-lenh-vu-tru-my-4934411.html",
+      "summary": "Tổng thống Trump chuyển trụ sở của Bộ Tư lệnh Vũ trụ Mỹ sang \"thành phố tên lửa\" Huntsville, đảo ngược quyết định của người tiền nhiệm Biden.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T08:06:42+07:00",
+      "fetched": "2025-09-03T15:21:07.564502+07:00"
+    },
+    {
+      "id": "ce84062d69d10fdfc8769bfa3896b0f1",
+      "title": "Vì sao Ten Hag sớm gây mất lòng cầu thủ?",
+      "link": "https://vnexpress.net/vi-sao-ten-hag-som-gay-mat-long-cau-thu-4934585.html",
+      "summary": "Phong cách huấn luyện cứng rắn của HLV Erik ten Hag như từng làm với Cristiano Ronaldo, sớm gây ra phản ứng ngược ở Leverkusen.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T08:05:34+07:00",
+      "fetched": "2025-09-03T15:21:12.466530+07:00"
+    },
+    {
+      "id": "ffae567d8eb49beea9d885663c3cfa1b",
+      "title": "Son Ye Jin và Lee Min Jung chia sẻ khoảnh khắc đời thường cùng nhau",
+      "link": "https://thanhnien.vn/son-ye-jin-va-lee-min-jung-chia-se-khoanh-khac-doi-thuong-cung-nhau-185250903123107957.htm",
+      "summary": "Hai nữ diễn viên Son Ye Jin và Lee Min Jung mới đây đã xuất hiện cùng nhau trong một bức ảnh hiếm hoi, khiến người hâm mộ vô cùng thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:02:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219297+07:00"
+    },
+    {
+      "id": "899b6630c92a7e86d0dd4b7f49481bfc",
+      "title": "Người canh giữ vùng trời Tổ quốc",
+      "link": "https://thanhnien.vn/nguoi-canh-giu-vung-troi-to-quoc-185250828191157101.htm",
+      "summary": "Giữa đại ngàn gió Lào bỏng rát, giữa biển trời xanh thẳm của miền Trung thân yêu, có một người con đất Quảng Nam (nay là TP.Đà Nẵng) ngày đêm luyện tập, lặng thầm gìn giữ từng tầng không gian chủ quyền thiêng liêng của Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:00:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219455+07:00"
+    },
+    {
+      "id": "24e8def0bb36a07e6be78b5c161175d5",
+      "title": "Nga, Ukraine tập kích nhau trong đêm",
+      "link": "https://vnexpress.net/nga-ukraine-tap-kich-nhau-trong-dem-4934612.html",
+      "summary": "Nga và Ukraine phóng tên lửa, UAV tập kích lẫn nhau trong đêm, khiến hoạt động vận tải đường sắt ở một số khu vực bị đình trệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T07:58:44+07:00",
+      "fetched": "2025-09-03T15:21:07.564677+07:00"
+    },
+    {
+      "id": "0fac9c0b4d1d33d46abfeda743e178d0",
+      "title": "Đời thực của hai người mẹ trong ‘Mưa đỏ’",
+      "link": "https://thanhnien.vn/doi-thuc-cua-hai-nguoi-me-trong-mua-do-185250903142858066.htm",
+      "summary": "Trong phim 'Mưa đỏ', khán giả xúc động trước hình ảnh hai người mẹ do diễn viên Thân Thúy Hà và Đinh Thúy Hà đóng. Đời thực của hai diễn viên này cũng có vài điểm tương đồng thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:57:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219603+07:00"
+    },
+    {
+      "id": "37bf3254778a9afdc80fd62f4bdd4370",
+      "title": "Kim Long Motor ghi dấu ấn mạnh mẽ tại Triển lãm thành tựu đất nước",
+      "link": "https://thanhnien.vn/kim-long-motor-ghi-dau-an-manh-me-tai-trien-lam-thanh-tuu-dat-nuoc-185250903141114303.htm",
+      "summary": "Trong không khí đầy ý nghĩa của Triển lãm thành tựu đất nước với chủ đề '80 năm hành trình Độc lập - Tự do - Hạnh phúc' nhân kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9, Kim Long Motor đã mang đến dấu ấn mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:50:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219750+07:00"
+    },
+    {
+      "id": "de8223f16e1d3980612d96526e4a8221",
+      "title": "Nhân viên sứ quán Indonesia bị bắn gục tại Peru",
+      "link": "https://vnexpress.net/nhan-vien-su-quan-indonesia-bi-ban-guc-tai-peru-4934593.html",
+      "summary": "Một nhân viên hành chính đại sứ quán Indonesia tại Peru bị bắn gục bên ngoài nhà riêng ở Lima, giới chức nghi ngờ đây là vụ giết người theo hợp đồng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T07:49:12+07:00",
+      "fetched": "2025-09-03T15:21:07.564871+07:00"
+    },
+    {
+      "id": "5640cc18a55b18b443cfdd1cf60f1c61",
+      "title": "Giữ Tổ quốc bình yên: Thượng úy trẻ giữ bình yên cho làng biển Xuân Cảnh",
+      "link": "https://thanhnien.vn/giu-to-quoc-binh-yen-thuong-uy-tre-giu-binh-yen-cho-lang-bien-xuan-canh-185250830125557267.htm",
+      "summary": "Tuổi đời còn trẻ nhưng thượng úy Nguyễn Thế Sơn, Công an xã Xuân Cảnh kiêm Phó bí thư Đoàn xã Xuân Cảnh, Đắk Lắk đã trở thành chỗ dựa tin cậy của bà con làng biển. Anh được biết đến là người cán bộ luôn hết mình vì công việc, vì sự đổi thay của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:48:00+07:00",
+      "fetched": "2025-09-03T15:21:05.219927+07:00"
+    },
+    {
+      "id": "0179cd46b05ebae3e4fff223238b982f",
+      "title": "TP.HCM thống nhất giá khám chữa bệnh sau sáp nhập",
+      "link": "https://thanhnien.vn/tphcm-thong-nhat-gia-kham-chua-benh-sau-sap-nhap-185250903140611407.htm",
+      "summary": "Sau khi hoàn tất việc sắp xếp đơn vị hành chính, HĐND TP.HCM đã ban hành Nghị quyết 339 nhằm thống nhất giá khám chữa bệnh toàn TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:41:00+07:00",
+      "fetched": "2025-09-03T15:21:05.220081+07:00"
+    },
+    {
+      "id": "6f8d1a1d6230b58f573614e7559fef09",
+      "title": "Loạt dự án gần 40.000 tỷ đồng ở Bắc Ninh tìm được nhà đầu tư",
+      "link": "https://vnexpress.net/loat-du-an-gan-40-000-ty-dong-o-bac-ninh-tim-duoc-nha-dau-tu-4934430.html",
+      "summary": "UBND tỉnh Bắc Ninh vừa phê duyệt kết quả lựa chọn nhà đầu tư thực hiện ba dự án tập trung ở phường Từ Sơn với tổng vốn gần 40.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:39:03+07:00",
+      "fetched": "2025-09-03T15:21:02.597732+07:00"
+    },
+    {
+      "id": "fea5b042331e8c823f39b586f46a4863",
+      "title": "Ông Putin cảm ơn ông Kim điều quân đến Kursk",
+      "link": "https://vnexpress.net/ong-putin-cam-on-ong-kim-dieu-quan-den-kursk-4934588.html",
+      "summary": "Ông Putin gặp ông Kim Jong-un tại Bắc Kinh, cảm ơn Triều Tiên đã điều quân giúp đẩy lùi lực lượng Ukraine ra khỏi tỉnh Kursk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:37:56+07:00",
+      "fetched": "2025-09-03T15:21:02.597967+07:00"
+    },
+    {
+      "id": "fea5b042331e8c823f39b586f46a4863",
+      "title": "Ông Putin cảm ơn ông Kim điều quân đến Kursk",
+      "link": "https://vnexpress.net/ong-putin-cam-on-ong-kim-dieu-quan-den-kursk-4934588.html",
+      "summary": "Ông Putin gặp ông Kim Jong-un tại Bắc Kinh, cảm ơn Triều Tiên đã điều quân giúp đẩy lùi lực lượng Ukraine ra khỏi tỉnh Kursk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T07:37:56+07:00",
+      "fetched": "2025-09-03T15:21:07.565040+07:00"
+    },
+    {
+      "id": "a3c5955365caa992586a9d284e716670",
+      "title": "Mẹ chở con gái đến trường nhập học gặp tai nạn khiến cả hai tử vong",
+      "link": "https://thanhnien.vn/me-cho-con-gai-den-truong-nhap-hoc-gap-tai-nan-khien-ca-hai-tu-vong-185250903135821464.htm",
+      "summary": "Một vụ tai nạn giữa xe tải và xe máy vừa xảy ra trên đường Dương Thị Mười (TP.HCM) khiến 2 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:36:00+07:00",
+      "fetched": "2025-09-03T15:21:05.220236+07:00"
+    },
+    {
+      "id": "4ade25898f7186ad692ec764372e915a",
+      "title": "Vì sao cần đạp khởi động dần 'biến mất' trên xe tay ga đời mới?",
+      "link": "https://thanhnien.vn/vi-sao-can-dap-khoi-dong-dan-bien-mat-tren-xe-tay-ga-doi-moi-185250902143928517.htm",
+      "summary": "Từng được xem là trang bị \"cứu cánh\" với người dùng xe tay ga trong những trường hợp xe yếu bình ắc-quy, khó khởi động… tuy nhiên hiện nay cần đạp khởi động động cơ đang dần biến mất trên các mẫu xe tay ga đời mới, kể cả xe phổ thông lẫn xe cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:35:00+07:00",
+      "fetched": "2025-09-03T15:21:05.220392+07:00"
+    },
+    {
+      "id": "ea18341aebf09734f27a4e5bde4318b8",
+      "title": "Ông Vũ Hải Quân giữ chức Thứ trưởng thường trực Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/ong-vu-hai-quan-giu-chuc-thu-truong-thuong-truc-bo-khoa-hoc-va-cong-nghe-4934582.html",
+      "summary": "Ông Vũ Hải Quân, Chủ tịch Hội đồng, Giám đốc Đại học Quốc gia TP HCM, được Thủ tướng điều động, bổ nhiệm giữ chức Thứ trưởng Thường trực Bộ Khoa học và Công nghệ, ngày 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:33:12+07:00",
+      "fetched": "2025-09-03T15:21:02.598138+07:00"
+    },
+    {
+      "id": "d50ff493b8fb51dc99cc09a090bbcfab",
+      "title": "Bi kịch của 'thần đồng' Đại học Thanh Hoa",
+      "link": "https://vnexpress.net/bi-kich-cua-than-dong-dai-hoc-thanh-hoa-4934563.html",
+      "summary": "Từ nhỏ Qi Ke đã nổi tiếng là \"thần đồng\", đỗ đại học Thanh Hoa, nhưng ở tuổi 49 anh vẫn thất nghiệp, sống dựa vào trợ cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:29:14+07:00",
+      "fetched": "2025-09-03T15:21:02.598303+07:00"
+    },
+    {
+      "id": "4494e3c71aac3bfbc63f0a955d4cd3a0",
+      "title": "Dàn khí tài nội địa của Trung Quốc tại lễ duyệt binh",
+      "link": "https://vnexpress.net/dan-khi-tai-noi-dia-cua-trung-quoc-tai-le-duyet-binh-4934536.html",
+      "summary": "Trung Quốc phô diễn nhiều loại vũ khí tiên tiến, trong đó có xe tăng, ICBM, UAV hay pháo laser, do nước này tự phát triển trong lễ duyệt binh kỷ niệm chiến thắng phát xít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:27:09+07:00",
+      "fetched": "2025-09-03T15:21:02.598464+07:00"
+    },
+    {
+      "id": "4494e3c71aac3bfbc63f0a955d4cd3a0",
+      "title": "Dàn khí tài nội địa của Trung Quốc tại lễ duyệt binh",
+      "link": "https://vnexpress.net/dan-khi-tai-noi-dia-cua-trung-quoc-tai-le-duyet-binh-4934536.html",
+      "summary": "Trung Quốc phô diễn nhiều loại vũ khí tiên tiến, trong đó có xe tăng, ICBM, UAV hay pháo laser, do nước này tự phát triển trong lễ duyệt binh kỷ niệm chiến thắng phát xít.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T07:27:09+07:00",
+      "fetched": "2025-09-03T15:21:07.565229+07:00"
+    },
+    {
+      "id": "55808c39903908347fa523c626fbab65",
+      "title": "Yamal muốn trao Quả Bóng Vàng cho Neymar hoặc Messi",
+      "link": "https://vnexpress.net/yamal-muon-trao-qua-bong-vang-cho-neymar-hoac-messi-4934542.html",
+      "summary": "Tiền đạo Lamine Yamal muốn Neymar có Quả Bóng Vàng đầu tiên, hoặc Lionel Messi giành thêm một danh hiệu cá nhân danh giá nhất làng bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:27:07+07:00",
+      "fetched": "2025-09-03T15:21:02.598620+07:00"
+    },
+    {
+      "id": "55808c39903908347fa523c626fbab65",
+      "title": "Yamal muốn trao Quả Bóng Vàng cho Neymar hoặc Messi",
+      "link": "https://vnexpress.net/yamal-muon-trao-qua-bong-vang-cho-neymar-hoac-messi-4934542.html",
+      "summary": "Tiền đạo Lamine Yamal muốn Neymar có Quả Bóng Vàng đầu tiên, hoặc Lionel Messi giành thêm một danh hiệu cá nhân danh giá nhất làng bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T07:27:07+07:00",
+      "fetched": "2025-09-03T15:21:12.466692+07:00"
+    },
+    {
+      "id": "81793fd1806d7af9644f53957e9cc1b0",
+      "title": "Bí thư Đà Nẵng làm Phó tổng Thanh tra Chính phủ",
+      "link": "https://vnexpress.net/bi-thu-da-nang-lam-pho-tong-thanh-tra-chinh-phu-4934592.html",
+      "summary": "Ông Nguyễn Văn Quảng, Bí thư Thành ủy Đà Nẵng, được Thủ tướng tiếp nhận, bổ nhiệm giữ chức Phó tổng Thường trực Thanh tra Chính phủ, ngày 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:21:24+07:00",
+      "fetched": "2025-09-03T15:21:02.598774+07:00"
+    },
+    {
+      "id": "6a3188a6397368472340b5cff73834e8",
+      "title": "Nghệ sĩ Lý Thái Dũng: 'Mưa đỏ' là thử thách lớn nhất sự nghiệp",
+      "link": "https://vnexpress.net/nghe-si-ly-thai-dung-mua-do-la-thu-thach-lon-nhat-su-nghiep-4931578.html",
+      "summary": "Sông Thạch Hãn rộng và sâu, nước chảy xiết là thử thách lớn khi êkíp \"Mưa đỏ\" quay những trận chiến đấu vào ban đêm, theo nghệ sĩ Lý Thái Dũng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:15:30+07:00",
+      "fetched": "2025-09-03T15:21:02.598954+07:00"
+    },
+    {
+      "id": "3cc0e7e7661dc787b1cff788b98966af",
+      "title": "Những 'phù thủy' thổi kẹo đường ở Hong Kong",
+      "link": "https://vnexpress.net/nhung-phu-thuy-thoi-keo-duong-o-hong-kong-4934570.html",
+      "summary": "Chỉ trong hai phút, các nghệ nhân Hong Kong có thể biến một khối đường nóng thành những con vật sống động, một kỹ thuật dân gian cổ xưa được ví như ảo thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:06:12+07:00",
+      "fetched": "2025-09-03T15:21:02.599112+07:00"
+    },
+    {
+      "id": "d81c83a1115c3b1644f9e467755fa160",
+      "title": "Ông Hoàng Minh Sơn làm Giám đốc Đại học Quốc gia Hà Nội",
+      "link": "https://vnexpress.net/ong-hoang-minh-son-lam-giam-doc-dai-hoc-quoc-gia-ha-noi-4934594.html",
+      "summary": "TS Hoàng Minh Sơn, Thứ trưởng Bộ Giáo dục và Đào tạo, được Thủ tướng bổ nhiệm Chủ tịch Hội đồng, Giám đốc Đại học Quốc gia Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:02:53+07:00",
+      "fetched": "2025-09-03T15:21:02.599268+07:00"
+    },
+    {
+      "id": "932307a18c0a7da7e2d34f521fc3cd7e",
+      "title": "Thành ngữ Việt Nam nào 'khổ trước, sướng sau'?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-viet-nam-nao-kho-truoc-suong-sau-4931665.html",
+      "summary": "Thành ngữ nghĩa là hết khổ đau, bất hạnh thì đã đến sung sướng, hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:00:45+07:00",
+      "fetched": "2025-09-03T15:21:02.599417+07:00"
+    },
+    {
+      "id": "97077d8fe40479e02f61e8d1b233d08e",
+      "title": "MSB triển khai giải pháp vay thế chấp online trong 4 giờ",
+      "link": "https://vnexpress.net/msb-trien-khai-giai-phap-vay-the-chap-online-trong-4-gio-4933456.html",
+      "summary": "MSB triển khai M-Flex, cho phép doanh nghiệp thực hiện vay thế chấp linh hoạt online với hạn mức tới 15 tỷ đồng, phê duyệt trong vòng 4 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T07:00:00+07:00",
+      "fetched": "2025-09-03T15:21:02.599575+07:00"
+    },
+    {
+      "id": "97077d8fe40479e02f61e8d1b233d08e",
+      "title": "MSB triển khai giải pháp vay thế chấp online trong 4 giờ",
+      "link": "https://vnexpress.net/msb-trien-khai-giai-phap-vay-the-chap-online-trong-4-gio-4933456.html",
+      "summary": "MSB triển khai M-Flex, cho phép doanh nghiệp thực hiện vay thế chấp linh hoạt online với hạn mức tới 15 tỷ đồng, phê duyệt trong vòng 4 giờ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T07:00:00+07:00",
+      "fetched": "2025-09-03T15:21:08.876575+07:00"
+    },
+    {
+      "id": "448b96bd9f8bb487b9fd1d1f708cc672",
+      "title": "Rủi ro khi xe đổ xăng E10 để lâu không chạy",
+      "link": "https://vnexpress.net/rui-ro-khi-xe-do-xang-e10-de-lau-khong-chay-4934518.html",
+      "summary": "Khi dùng xăng E10 nhưng không chạy trong thời gian dài, cần đổ đầy bình, dùng thêm phụ gia ổn định nhiên liệu để tránh sinh cặn hoặc tách nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T06:53:58+07:00",
+      "fetched": "2025-09-03T15:21:02.599730+07:00"
+    },
+    {
+      "id": "3445cbb20a2e29dcede7d7529f3475ee",
+      "title": "Tổng thống Venezuela khoe điện thoại được ông Tập tặng",
+      "link": "https://vnexpress.net/tong-thong-venezuela-khoe-dien-thoai-duoc-ong-tap-tang-4934517.html",
+      "summary": "Tổng thống Venezuela khoe chiếc điện thoại \"Mỹ không thể hack được\", cho biết đây là món quà từ Chủ tịch Trung Quốc Tập Cận Bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T06:51:41+07:00",
+      "fetched": "2025-09-03T15:21:02.599907+07:00"
+    },
+    {
+      "id": "3445cbb20a2e29dcede7d7529f3475ee",
+      "title": "Tổng thống Venezuela khoe điện thoại được ông Tập tặng",
+      "link": "https://vnexpress.net/tong-thong-venezuela-khoe-dien-thoai-duoc-ong-tap-tang-4934517.html",
+      "summary": "Tổng thống Venezuela khoe chiếc điện thoại \"Mỹ không thể hack được\", cho biết đây là món quà từ Chủ tịch Trung Quốc Tập Cận Bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T06:51:41+07:00",
+      "fetched": "2025-09-03T15:21:07.565387+07:00"
+    },
+    {
+      "id": "dac67ed1be98fbd617e595d09192ebc3",
+      "title": "Tự cắt 'sừng' trên trán, người phụ nữ suýt chết",
+      "link": "https://vnexpress.net/tu-cat-sung-tren-tran-nguoi-phu-nu-suyt-chet-4934562.html",
+      "summary": "Khó chịu với chiếc sừng dài bằng một ngón tay trên trán, cụ bà 98 tuổi lấy kéo cắt phăng, khiến vết thương chảy máu ồ ạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T06:43:46+07:00",
+      "fetched": "2025-09-03T15:21:02.600072+07:00"
+    },
+    {
+      "id": "cb9d0fd46a8b7d7f66cca57be4b1e31c",
+      "title": "Loạt smartphone nổi bật bán ra tháng 9",
+      "link": "https://vnexpress.net/loat-smartphone-noi-bat-ban-ra-thang-9-4934337.html",
+      "summary": "Thế hệ iPhone 17 dự kiến được bán ngay trong đợt đầu tại Việt Nam, bên cạnh các smartphone từ Samsung, Realme và Nubia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T06:27:06+07:00",
+      "fetched": "2025-09-03T15:21:10.994769+07:00"
     },
     {
       "id": "395eda24e23283eb4146685f6ed15823",
