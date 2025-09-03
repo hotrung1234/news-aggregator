@@ -1,7 +1,117 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T21:16:24.473412+07:00",
+  "lastUpdated": "2025-09-03T23:19:51.710936+07:00",
   "articles": [
+    {
+      "id": "1110b5b7231fbb6d34676dda612e194f",
+      "title": "Nguyên nhân cần cẩu trong dự án vành đai 3 TP.HCM đổ sập làm một người chết",
+      "link": "https://tuoitre.vn/nguyen-nhan-can-cau-trong-du-an-vanh-dai-3-tp-hcm-do-sap-lam-mot-nguoi-chet-20250903201231364.htm",
+      "summary": "Tối 3-9, ông Lương Minh Phúc, giám đốc Ban Quản lý dự án đầu tư xây dựng các công trình giao thông (chủ đầu tư), thông tin ban đầu về tai nạn lao động tại công trường thi công dự án vành đai 3 TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.718282+07:00",
+      "fetched": "2025-09-03T23:19:42.718400+07:00"
+    },
+    {
+      "id": "ee61a895b0652dd0a18b0e2fa43c0ccc",
+      "title": "Đau lòng hai bé gái đuối nước ngay trước thềm khai giảng",
+      "link": "https://tuoitre.vn/dau-long-hai-be-gai-duoi-nuoc-ngay-truoc-them-khai-giang-20250903193000946.htm",
+      "summary": "Chiều 3-9, Công an xã Gio Linh (Quảng Trị) xác nhận trên địa bàn vừa xảy ra vụ tai nạn đuối nước khiến  hai em nhỏ tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.718151+07:00",
+      "fetched": "2025-09-03T23:19:42.718270+07:00"
+    },
+    {
+      "id": "e10f3fa633686ec57e2ba57d219f6eac",
+      "title": "Đại tướng Phan Văn Giang cảm ơn báo chí đã 'vượt nắng, thắng mưa' đưa tin diễu binh A80",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-cam-on-bao-chi-da-vuot-nang-thang-mua-dua-tin-dieu-binh-a80-20250903200343124.htm",
+      "summary": "Chiều 3-9, Đại tướng Phan Văn Giang, bộ trưởng Bộ Quốc phòng, đã gửi thư tới các cơ quan báo chí trong và ngoài quân đội, ghi nhận và cảm ơn những đóng góp “vượt nắng, thắng mưa” trong đưa tin, tuyên truyền về diễu binh, diễu hành A80.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.718027+07:00",
+      "fetched": "2025-09-03T23:19:42.718140+07:00"
+    },
+    {
+      "id": "c5587833a4410239ff18951840129c94",
+      "title": "Ngả mũ trước những cô gái Nhật Bản nhỏ bé",
+      "link": "https://tuoitre.vn/nga-mu-truoc-nhung-co-gai-nhat-ban-nho-be-20250903201453389.htm",
+      "summary": "Với chiều cao trung bình chỉ 1,75m, những cô gái Nhật Bản trông hoàn toàn nhỏ bé trước đại diện đến từ châu Âu là Hà Lan, trong khuôn khổ trận tứ kết Giải vô địch bóng chuyền nữ thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717904+07:00",
+      "fetched": "2025-09-03T23:19:42.718015+07:00"
+    },
+    {
+      "id": "f8282b1954f777bbe1712ea6ea72c020",
+      "title": "Mỹ, Nhật, Pháp, Hàn, ASEAN... chúc mừng kỷ niệm 80 năm Quốc khánh Việt Nam",
+      "link": "https://tuoitre.vn/my-nhat-phap-han-asean-chuc-mung-ky-niem-80-nam-quoc-khanh-viet-nam-20250903210656478.htm",
+      "summary": "Nhân dịp kỷ niệm 80 năm Quốc khánh Việt Nam, lãnh đạo các nước Đông Nam Á, Mỹ, Hàn Quốc, Nhật Bản, Pháp... đã có điện, thư và thông điệp chúc mừng gửi lãnh đạo Đảng, Nhà nước và Nhân dân Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717775+07:00",
+      "fetched": "2025-09-03T23:19:42.717893+07:00"
+    },
+    {
+      "id": "61323bb4a334bcf80cc18e7d05e2bad5",
+      "title": "Xếp hạng U23 châu Á 2026: Việt Nam chiếm ngôi đầu bảng C",
+      "link": "https://tuoitre.vn/xep-hang-u23-chau-a-2026-viet-nam-chiem-ngoi-dau-bang-c-20250903211745631.htm",
+      "summary": "U23 Việt Nam tạm thời dẫn đầu bảng C vòng loại Giải U23 châu Á 2026, sau khi kết thúc lượt trận đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717638+07:00",
+      "fetched": "2025-09-03T23:19:42.717749+07:00"
+    },
+    {
+      "id": "cff9b9e4a99d7b1d41b2d51a9f9f3e85",
+      "title": "TP.HCM hướng đến siêu đô thị du lịch quốc tế hấp dẫn",
+      "link": "https://tuoitre.vn/tp-hcm-huong-den-sieu-do-thi-du-lich-quoc-te-hap-dan-20250903212700254.htm",
+      "summary": "Đây là định hướng TP.HCM trong diện mạo mới, là siêu đô thị du lịch quốc tế hấp dẫn được chủ tịch UBND TP.HCM Nguyễn Văn Được nhấn mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717514+07:00",
+      "fetched": "2025-09-03T23:19:42.717626+07:00"
+    },
+    {
+      "id": "01c6d422e76a23dadf7771b028334c70",
+      "title": "HLV Kim Sang Sik: 'U23 Việt Nam thiếu may, thủ môn Bangladesh quá hay'",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-u23-viet-nam-thieu-may-thu-mon-bangladesh-qua-hay-20250903213942478.htm",
+      "summary": "HLV trưởng Kim Sang Sik tương đối hài lòng dù U23 Việt Nam chỉ thắng 2-0 trước U23 Bangladesh ở trận ra quân bảng C vòng loại U23 châu Á 2026 tối 3-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717386+07:00",
+      "fetched": "2025-09-03T23:19:42.717502+07:00"
+    },
+    {
+      "id": "f820b561f3ae7b144863042efbea1c10",
+      "title": "Viktor Lê nói gì khi lần đầu ghi bàn cho U23 Việt Nam?",
+      "link": "https://tuoitre.vn/viktor-le-noi-gi-khi-lan-dau-ghi-ban-cho-u23-viet-nam-2025090321450203.htm",
+      "summary": "Phát biểu sau trận thắng U23 Bangladesh 2-0, tiền đạo Việt kiều Viktor Lê chia sẻ anh rất vui khi có bàn thắng đầu tiên cho đội tuyển U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717254+07:00",
+      "fetched": "2025-09-03T23:19:42.717374+07:00"
+    },
+    {
+      "id": "e78007d3809086dc1ce0549445e7ce7b",
+      "title": "U23 Lào gây sốc khi cầm hòa Indonesia",
+      "link": "https://tuoitre.vn/u23-lao-gay-soc-khi-cam-hoa-indonesia-20250903214501671.htm",
+      "summary": "U23 Lào vừa tạo ra cú sốc lớn khi cầm hòa U23 Indonesia ngay trên sân nhà đối thủ tại vòng loại U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.717114+07:00",
+      "fetched": "2025-09-03T23:19:42.717241+07:00"
+    },
+    {
+      "id": "6165fcd443af4feb2c5f04cd17daed91",
+      "title": "Bóng chuyền nữ Ý dễ dàng 'hủy diệt' đội hạng 3 thế giới Ba Lan",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-y-de-dang-huy-diet-doi-hang-3-the-gioi-ba-lan-20250903220038033.htm",
+      "summary": "Tối 3-9, tuyển bóng chuyền nữ Ý tiếp tục thể hiện phong độ rực cháy với việc đánh bại đối thủ mạnh Ba Lan tại tứ kết Giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:19:42.716890+07:00",
+      "fetched": "2025-09-03T23:19:42.717100+07:00"
+    },
     {
       "id": "6f6277627c27cdb42a0e197a668c63ca",
       "title": "Nhiều trường đại học tốp đầu xét tuyển bổ sung, ngành hot vẫn còn chỗ",
@@ -413,6 +523,96 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T17:16:18.154018+07:00"
     },
     {
+      "id": "dea7ae3bea8a41615f1356d0fa072a76",
+      "title": "Ông Putin nói sẽ kết thúc chiến sự Ukraine bằng vũ lực nếu không thể đàm phán",
+      "link": "https://vnexpress.net/ong-putin-noi-se-ket-thuc-chien-su-ukraine-bang-vu-luc-neu-khong-the-dam-phan-4934758.html",
+      "summary": "Tổng thống Putin cảnh báo Nga sẽ tiếp tục chiến dịch để kết thúc chiến sự Ukraine bằng vũ lực, nếu các bên không đạt thỏa thuận hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:49:12+07:00",
+      "fetched": "2025-09-03T23:19:38.309526+07:00"
+    },
+    {
+      "id": "dea7ae3bea8a41615f1356d0fa072a76",
+      "title": "Ông Putin nói sẽ kết thúc chiến sự Ukraine bằng vũ lực nếu không thể đàm phán",
+      "link": "https://vnexpress.net/ong-putin-noi-se-ket-thuc-chien-su-ukraine-bang-vu-luc-neu-khong-the-dam-phan-4934758.html",
+      "summary": "Tổng thống Putin cảnh báo Nga sẽ tiếp tục chiến dịch để kết thúc chiến sự Ukraine bằng vũ lực, nếu các bên không đạt thỏa thuận hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T15:49:12+07:00",
+      "fetched": "2025-09-03T23:19:44.544211+07:00"
+    },
+    {
+      "id": "a2af75725eb9bda128eb843e78410ea5",
+      "title": "HLV Kim Sang-sik chưa hài lòng dù thắng trận ra quân U23 châu Á",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-chua-hai-long-du-thang-tran-ra-quan-u23-chau-a-4934776.html",
+      "summary": "HLV Kim Sang-sik cho rằng Việt Nam còn nhiều điểm cần cải thiện sau trận thắng Bangladesh 2-0 ở lượt ra quân bảng C vòng loại U23 châu Á 2026, tối 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:43:31+07:00",
+      "fetched": "2025-09-03T23:19:38.309705+07:00"
+    },
+    {
+      "id": "a2af75725eb9bda128eb843e78410ea5",
+      "title": "HLV Kim Sang-sik chưa hài lòng dù thắng trận ra quân U23 châu Á",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-chua-hai-long-du-thang-tran-ra-quan-u23-chau-a-4934776.html",
+      "summary": "HLV Kim Sang-sik cho rằng Việt Nam còn nhiều điểm cần cải thiện sau trận thắng Bangladesh 2-0 ở lượt ra quân bảng C vòng loại U23 châu Á 2026, tối 3/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T15:43:31+07:00",
+      "fetched": "2025-09-03T23:19:51.697683+07:00"
+    },
+    {
+      "id": "5325b07cffac0f27e393b8845d2b534a",
+      "title": "Nghệ sĩ Công Ninh: 'Chưa chấp nhận sự thật Ngọc Trinh qua đời'",
+      "link": "https://vnexpress.net/nghe-si-cong-ninh-chua-chap-nhan-su-that-ngoc-trinh-qua-doi-4934666.html",
+      "summary": "Nghệ sĩ Công Ninh nói diễn viên Ngọc Trinh qua đời để lại trong anh nỗi mất mát lớn bởi coi cô như người nhà trong hơn 20 năm gắn bó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:39:13+07:00",
+      "fetched": "2025-09-03T23:19:38.309899+07:00"
+    },
+    {
+      "id": "737f5b79e6cb6cdb0d88d86d61e71f6e",
+      "title": "Hơn 60 nhà khoa học đến Gia Lai thực hành nghiên cứu vi sinh vật",
+      "link": "https://vnexpress.net/hon-60-nha-khoa-hoc-den-gia-lai-thuc-hanh-nghien-cuu-vi-sinh-vat-4934750.html",
+      "summary": "Các nghiên cứu sinh và các nhà khoa học tham gia Trường Sinh học Việt Nam được đào tạo, hướng dẫn kỹ năng nghiên cứu quần thể vi sinh vật, ngày 3-6/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:30:26+07:00",
+      "fetched": "2025-09-03T23:19:38.310068+07:00"
+    },
+    {
+      "id": "737f5b79e6cb6cdb0d88d86d61e71f6e",
+      "title": "Hơn 60 nhà khoa học đến Gia Lai thực hành nghiên cứu vi sinh vật",
+      "link": "https://vnexpress.net/hon-60-nha-khoa-hoc-den-gia-lai-thuc-hanh-nghien-cuu-vi-sinh-vat-4934750.html",
+      "summary": "Các nghiên cứu sinh và các nhà khoa học tham gia Trường Sinh học Việt Nam được đào tạo, hướng dẫn kỹ năng nghiên cứu quần thể vi sinh vật, ngày 3-6/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T15:30:26+07:00",
+      "fetched": "2025-09-03T23:19:49.750736+07:00"
+    },
+    {
+      "id": "17edefd9c04ab6213357ceb3b31f0190",
+      "title": "Indonesia chịu cú sốc trước Lào ở vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/indonesia-chiu-cu-soc-truoc-lao-o-vong-loai-u23-chau-a-4934772.html",
+      "summary": "Chơi trên sân nhà, vượt trội về nhân sự và cơ hội ăn bàn, nhưng đại diện xứ vạn đảo chỉ hòa 0-0 trước Lào ở trận ra quân bảng J vòng loại U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:23:08+07:00",
+      "fetched": "2025-09-03T23:19:38.310228+07:00"
+    },
+    {
+      "id": "17edefd9c04ab6213357ceb3b31f0190",
+      "title": "Indonesia chịu cú sốc trước Lào ở vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/indonesia-chiu-cu-soc-truoc-lao-o-vong-loai-u23-chau-a-4934772.html",
+      "summary": "Chơi trên sân nhà, vượt trội về nhân sự và cơ hội ăn bàn, nhưng đại diện xứ vạn đảo chỉ hòa 0-0 trước Lào ở trận ra quân bảng J vòng loại U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T15:23:08+07:00",
+      "fetched": "2025-09-03T23:19:51.697877+07:00"
+    },
+    {
       "id": "9675487388b6a820e50c841915e40d1f",
       "title": "Giám đốc Đại học Quốc gia TP.HCM giữ chức thứ trưởng thường trực Bộ Khoa học và Công nghệ",
       "link": "https://tuoitre.vn/giam-doc-dai-hoc-quoc-gia-tphcm-giu-chuc-thu-truong-thuong-truc-bo-khoa-hoc-va-cong-nghe-20250903123523657.htm",
@@ -563,6 +763,186 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T15:21:06.246070+07:00"
     },
     {
+      "id": "13eb224f05ff1d1502c05a4ecaf69047",
+      "title": "Xe khách chở quá 36 người, chủ và lái xe bị phạt 171 triệu đồng",
+      "link": "https://vnexpress.net/xe-khach-cho-qua-36-nguoi-chu-va-lai-xe-bi-phat-171-trieu-dong-4934739.html",
+      "summary": "Chủ và lái xe khách tuyến Hà Nội - Hải Phòng bị xử phạt tổng cộng 171,5 triệu đồng với nhiều lỗi vi phạm, trong đó có chở quá số người quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:04:15+07:00",
+      "fetched": "2025-09-03T23:19:38.310382+07:00"
+    },
+    {
+      "id": "3b37f60636b7256f9701b67dbffe1612",
+      "title": "‘Ẩn số’ Ngọc Mỹ, Lê Viktor gây bất ngờ lớn, U.23 Việt Nam đánh bại Bangladesh ngày ra quân",
+      "link": "https://thanhnien.vn/an-so-ngoc-my-le-viktor-gay-bat-ngo-lon-u23-viet-nam-danh-bai-bangladesh-ngay-ra-quan-185250903215340628.htm",
+      "summary": "U.23 Việt Nam giành chiến thắng 2-0 trước U.23 Bangladesh trong trận ra quân vòng loại U.23 châu Á, nhờ vào các pha lập công của Ngọc Mỹ và Lê Viktor. HLV Kim Sang-sik đã có những sự thay đổi nhân sự hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:00:00+07:00",
+      "fetched": "2025-09-03T23:19:41.620418+07:00"
+    },
+    {
+      "id": "28c8d93a3fa7a172352fbd1cb643ea7b",
+      "title": "Những bộ trang phục mùa thu nên thử với giày cao gót trắng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-trang-phuc-mua-thu-nen-thu-voi-giay-cao-got-trang-185250903160053872.htm",
+      "summary": "Ít có phụ kiện nào có thể nâng tầm ngay cả những bộ cánh cơ bản nhất như giày cao gót trắng. Với tông màu trung tính, tối giản, giày cao gót màu trắng dễ dàng tạo nên điểm nhấn đồ họa và phong cách đương đại, làm mới bất kỳ bản phối thời trang nào mà chúng kết hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T15:00:00+07:00",
+      "fetched": "2025-09-03T23:19:41.620584+07:00"
+    },
+    {
+      "id": "22f11eb943c610281995bac1d362e02c",
+      "title": "HLV Kim Sang-sik vui vì U.23 Việt Nam thắng trận mở màn nhưng vẫn ‘cáu’ vì…",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-vui-vi-u23-viet-nam-thang-tran-mo-man-nhung-van-cau-vi-185250903214719216.htm",
+      "summary": "HLV Kim Sang-sik muốn U.23 Việt Nam cải thiện lối chơi sau chiến thắng 2-0 trước U.23 Bangladesh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:55:00+07:00",
+      "fetched": "2025-09-03T23:19:41.620740+07:00"
+    },
+    {
+      "id": "73044ce1fd3c7a67b90c0e4dcc4e74f3",
+      "title": "Diễn viên Lan Phương sau biến cố hôn nhân",
+      "link": "https://thanhnien.vn/dien-vien-lan-phuong-sau-bien-co-hon-nhan-185250903203626707.htm",
+      "summary": "Lan Phương dành thời gian chăm sóc hai con nhỏ sau sóng gió hôn nhân. Bên cạnh đó, nữ diễn viên cũng chăm chút ngoại hình để tự tin trở lại công việc diễn xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:54:00+07:00",
+      "fetched": "2025-09-03T23:19:41.620914+07:00"
+    },
+    {
+      "id": "53e0c2b36cc0b71cf6fc52522bacb318",
+      "title": "Minh Tú tiết lộ sức khỏe sau chấn thương đứt dây chằng, dập xương",
+      "link": "https://thanhnien.vn/minh-tu-tiet-lo-suc-khoe-sau-chan-thuong-dut-day-chang-dap-xuong-185250903200353801.htm",
+      "summary": "Minh Tú cho biết cô vừa trải qua ca phẫu thuật sau chấn thương. Hiện tại, nữ diễn viên phải gác lại các kế hoạch để tập trung nghỉ ngơi hồi phục sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:51:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621067+07:00"
+    },
+    {
+      "id": "fa88a7edfe34c1abf28b94d566040ad7",
+      "title": "U.23 Thái Lan thắng cực đậm Mông Cổ, U.23 Indonesia bất lực còn Malaysia thua sốc",
+      "link": "https://thanhnien.vn/u23-thai-lan-thang-cuc-dam-mong-co-u23-indonesia-bat-luc-con-malaysia-thua-soc-18525090321334489.htm",
+      "summary": "Ở lượt đấu đầu tiên vòng loại U.23 châu Á 2026 tối 3.9, U.23 Thái Lan khẳng định sức mạnh với trận thắng đậm U.23 Mông Cổ. Trong khi đó, U.23 Indonesia và U.23 Malaysia đều khiến CĐV thất vọng khi mất điểm trước những đối thủ bị đánh giá yếu hơn rất nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:47:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621219+07:00"
+    },
+    {
+      "id": "99a90bd60184d6d6b771806ee479d3fe",
+      "title": "Em tin mọi nhân duyên đều đến vào thời điểm phù hợp",
+      "link": "https://vnexpress.net/em-tin-moi-nhan-duyen-deu-den-vao-thoi-diem-phu-hop-4934756.html",
+      "summary": "Hy vọng người sẽ đồng hành với em là người đàn ông có học thức, tử tế, chân thành, có trách nhiệm và đủ ấm áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:38:56+07:00",
+      "fetched": "2025-09-03T23:19:38.310480+07:00"
+    },
+    {
+      "id": "865a3573067325a7778c03ad529753d5",
+      "title": "Năm 2026, ta hẹn nhau ngắm pháo hoa anh nhé",
+      "link": "https://vnexpress.net/nam-2026-ta-hen-nhau-ngam-phao-hoa-anh-nhe-4934761.html",
+      "summary": "Em tin rằng một mối quan hệ bền vững không đến từ sự hoàn hảo, mà đến từ sự tử tế, tôn trọng và sẻ chia cùng nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:38:46+07:00",
+      "fetched": "2025-09-03T23:19:38.310570+07:00"
+    },
+    {
+      "id": "f993160ace410a59e4eb6757dfa9cb66",
+      "title": "‘U.23 Bangladesh thua vì U.23 Việt Nam quá mạnh chứ không phải vì vắng HLV trưởng’",
+      "link": "https://thanhnien.vn/u23-bangladesh-thua-vi-u23-viet-nam-qua-manh-chu-khong-phai-vi-vang-hlv-truong-185250903213213722.htm",
+      "summary": "Trợ lý Hassan Al Mamum của U.23 Bangladesh khẳng định U.23 Việt Nam là tập thể mạnh và gắn kết, nên đại diện Trung Á bại trận dù đã rất cố gắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:36:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621382+07:00"
+    },
+    {
+      "id": "667bf76ef2ead665e285b8fd6131e3ae",
+      "title": "Xây dựng đề án tiền lương cho giáo viên, nhân viên y tế sau sắp xếp",
+      "link": "https://thanhnien.vn/xay-dung-de-an-tien-luong-cho-giao-vien-nhan-vien-y-te-sau-sap-xep-185250903204318991.htm",
+      "summary": "Chính phủ giao Bộ Nội vụ chủ động xây dựng Đề án tiền lương và phụ cấp cho giáo viên và nhân viên y tế, báo cáo cấp có thẩm quyền quyết định để áp dụng chung, thống nhất trong toàn hệ thống chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:31:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621543+07:00"
+    },
+    {
+      "id": "e03f2de88a90155021056adfd195b8ad",
+      "title": "Ukraine công bố video hạ nhóm lính Nga đổ bộ lên bãi cạn",
+      "link": "https://vnexpress.net/ukraine-cong-bo-video-ha-nhom-linh-nga-do-bo-len-bai-can-4934675.html",
+      "summary": "Hải quân Ukraine chặn nhóm lính Nga đổ bộ lên bãi cạn tiền tiêu trên Biển Đen, hơn một tháng sau cuộc đột kích bằng đặc nhiệm vào cứ điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:29:53+07:00",
+      "fetched": "2025-09-03T23:19:38.310730+07:00"
+    },
+    {
+      "id": "e03f2de88a90155021056adfd195b8ad",
+      "title": "Ukraine công bố video hạ nhóm lính Nga đổ bộ lên bãi cạn",
+      "link": "https://vnexpress.net/ukraine-cong-bo-video-ha-nhom-linh-nga-do-bo-len-bai-can-4934675.html",
+      "summary": "Hải quân Ukraine chặn nhóm lính Nga đổ bộ lên bãi cạn tiền tiêu trên Biển Đen, hơn một tháng sau cuộc đột kích bằng đặc nhiệm vào cứ điểm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T14:29:53+07:00",
+      "fetched": "2025-09-03T23:19:44.544385+07:00"
+    },
+    {
+      "id": "17753d612543441b056ca7c130904aae",
+      "title": "Xổ số miền Nam ngày 3 tháng 9: 56 vé vừa trúng 560 triệu đài Sóc Trăng",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-3-thang-9-56-ve-vua-trung-560-trieu-dai-soc-trang-185250903173827495.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 3 tháng 9 chiều nay, 56 vé trúng 560 triệu đài Sóc Trăng lập tức lộ diện. Trong đó, có 14 vé được chủ đại lý giữ lại và bất ngờ trúng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:28:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621700+07:00"
+    },
+    {
+      "id": "0dec4640f316d845972cc1da1d4e63c2",
+      "title": "Lê Viktor đi vào lịch sử, xúc động với bàn đầu tiên cho U.23 Việt Nam",
+      "link": "https://thanhnien.vn/le-viktor-di-vao-lich-su-xuc-dong-voi-ban-dau-tien-cho-u23-viet-nam-18525090321251593.htm",
+      "summary": "Trong phần phỏng vấn bằng cả tiếng Anh lẫn tiếng Việt, tiền vệ Lê Viktor tỏ ra rất tự hào khi ghi bàn trong chiến thắng 2-0 của đội tuyển U.23 Việt Nam, mở màn vòng loại U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:26:00+07:00",
+      "fetched": "2025-09-03T23:19:41.621868+07:00"
+    },
+    {
+      "id": "6b0bff4648e528226d6ef0127e196038",
+      "title": "Highlight U.23 Việt Nam 2-0 U.23 Banglades: Trận ra quân mãn nhãn",
+      "link": "https://thanhnien.vn/highlight-u23-viet-nam-2-0-u23-banglades-tran-ra-quan-man-nhan-185250903212512155.htm",
+      "summary": "HLV Kim Sang-sik đã thể hiện sự nhạy bén khi thay đổi đội hình và trao cơ hội cho Ngọc Mỹ và Lê Viktor. Những quyết định này đã phát huy hiệu quả, giúp U.23 Việt Nam giành chiến thắng 2-0 trước U.23 Bangladesh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:25:00+07:00",
+      "fetched": "2025-09-03T23:19:41.622018+07:00"
+    },
+    {
+      "id": "8e748ace2e502b440eeb72bb3cf04cd9",
+      "title": "Đại tướng Phan Văn Giang: Báo chí đã lan tỏa sức mạnh quân sự Việt Nam",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-bao-chi-da-lan-toa-suc-manh-quan-su-viet-nam-185250903202402358.htm",
+      "summary": "Đại tướng Phan Văn Giang khẳng định, các cơ quan báo chí đã góp phần lan tỏa sức mạnh quân sự, quốc phòng Việt Nam, hình ảnh cao đẹp của \"Bộ đội Cụ Hồ\" trong thời kỳ mới, đến nhân dân và bạn bè quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:20:00+07:00",
+      "fetched": "2025-09-03T23:19:41.622175+07:00"
+    },
+    {
+      "id": "bb9952b89fa8e855e064b65103222a49",
+      "title": "Anime '5 centimet trên giây' có bản người đóng",
+      "link": "https://vnexpress.net/anime-5-centimet-tren-giay-co-ban-nguoi-dong-4934016.html",
+      "summary": "\"5 centimet trên giây\" - về chuyện tình yêu dang dở vượt thời gian - có ca sĩ Nhật Hokuto Matsumura và minh tinh Mitsuki Takahata đóng chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:17:59+07:00",
+      "fetched": "2025-09-03T23:19:38.310912+07:00"
+    },
+    {
       "id": "ecee68fa64af2b1e6f1f3aed156f7f39",
       "title": "Nghệ sĩ chật vật qua đám đông vào viếng diễn viên Ngọc Trinh",
       "link": "https://thanhnien.vn/nghe-si-chat-vat-qua-dam-dong-vao-vieng-dien-vien-ngoc-trinh-185250903204612016.htm",
@@ -581,6 +961,26 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T14:03:00+07:00",
       "fetched": "2025-09-03T21:16:16.584356+07:00"
+    },
+    {
+      "id": "b1727d0558044a2d7ad7b0eb042946be",
+      "title": "Bộ trưởng Tài chính kiêm chức Chủ tịch Hội đồng quản lý Bảo hiểm xã hội",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-kiem-chuc-chu-tich-hoi-dong-quan-ly-bao-hiem-xa-hoi-4934752.html",
+      "summary": "Bộ trưởng Tài chính Nguyễn Văn Thắng kiêm nhiệm giữ chức Chủ tịch Hội đồng quản trị Bảo hiểm xã hội, từ ngày 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:45+07:00",
+      "fetched": "2025-09-03T23:19:38.311069+07:00"
+    },
+    {
+      "id": "b1727d0558044a2d7ad7b0eb042946be",
+      "title": "Bộ trưởng Tài chính kiêm chức Chủ tịch Hội đồng quản lý Bảo hiểm xã hội",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-kiem-chuc-chu-tich-hoi-dong-quan-ly-bao-hiem-xa-hoi-4934752.html",
+      "summary": "Bộ trưởng Tài chính Nguyễn Văn Thắng kiêm nhiệm giữ chức Chủ tịch Hội đồng quản trị Bảo hiểm xã hội, từ ngày 3/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T14:00:45+07:00",
+      "fetched": "2025-09-03T23:19:46.329941+07:00"
     },
     {
       "id": "6d2420f74ac098bd352f5963a3a05004",
@@ -603,6 +1003,26 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T21:16:16.584663+07:00"
     },
     {
+      "id": "6580cb7ff9c3e13fa68f07e2ac3c30eb",
+      "title": "Gần 4 triệu lượt khách đến Trung tâm triển lãm Việt Nam",
+      "link": "https://vnexpress.net/gan-4-trieu-luot-khach-den-trung-tam-trien-lam-viet-nam-4934753.html",
+      "summary": "Triển lãm \"80 năm Hành trình Độc lập - Tự do - Hạnh phúc\" tại Trung tâm Triển lãm Việt Nam rộng 260.000 m2 đón gần 4 triệu lượt khách sau 6 ngày mở cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:00+07:00",
+      "fetched": "2025-09-03T23:19:38.311220+07:00"
+    },
+    {
+      "id": "6d47bf2e62a649294402a2996461a5ad",
+      "title": "Thường trực Ban Bí thư, Bộ trưởng Quốc phòng, Công an cảm ơn lực lượng A80",
+      "link": "https://vnexpress.net/thuong-truc-ban-bi-thu-bo-truong-quoc-phong-cong-an-cam-on-luc-luong-a80-4934749.html",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú, Bộ trưởng Phan Văn Giang, Lương Tam Quang gửi thư cảm ơn, thư khen các lực lượng góp phần bảo đảm thành công lễ kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:59:56+07:00",
+      "fetched": "2025-09-03T23:19:38.311375+07:00"
+    },
+    {
       "id": "75698dd214b8e1e9f428147409abcf1e",
       "title": "CSGT: TP.HCM chỉ có 2 vụ ùn ứ trong 4 ngày nghỉ lễ Quốc khánh 2.9",
       "link": "https://thanhnien.vn/csgt-tphcm-chi-co-2-vu-un-u-trong-4-ngay-nghi-le-quoc-khanh-29-185250903143420311.htm",
@@ -621,6 +1041,26 @@ window.newsData_2025_09_03 = {
       "category": "Thế giới",
       "published": "2025-09-03T13:40:48+07:00",
       "fetched": "2025-09-03T21:16:19.270608+07:00"
+    },
+    {
+      "id": "1f7718a3ba9856e514d3377191182f06",
+      "title": "Đầu tư công cần ưu tiên cho các dự án lớn 'có thể xoay chuyển tình thế'",
+      "link": "https://vnexpress.net/dau-tu-cong-can-uu-tien-cho-cac-du-an-lon-co-the-xoay-chuyen-tinh-the-4934748.html",
+      "summary": "Thủ tướng yêu cầu các bộ ngành, địa phương đổi mới tư duy, cách làm trong đầu tư công, tập trung cho các dự án \"xoay chuyển tình thế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:37:23+07:00",
+      "fetched": "2025-09-03T23:19:38.311674+07:00"
+    },
+    {
+      "id": "1f7718a3ba9856e514d3377191182f06",
+      "title": "Đầu tư công cần ưu tiên cho các dự án lớn 'có thể xoay chuyển tình thế'",
+      "link": "https://vnexpress.net/dau-tu-cong-can-uu-tien-cho-cac-du-an-lon-co-the-xoay-chuyen-tinh-the-4934748.html",
+      "summary": "Thủ tướng yêu cầu các bộ ngành, địa phương đổi mới tư duy, cách làm trong đầu tư công, tập trung cho các dự án \"xoay chuyển tình thế\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T13:37:23+07:00",
+      "fetched": "2025-09-03T23:19:46.330115+07:00"
     },
     {
       "id": "f3747a84c0d1e3222a5ab1104d764411",
@@ -1301,6 +1741,16 @@ window.newsData_2025_09_03 = {
       "category": "Thể thao",
       "published": "2025-09-03T11:15:00+07:00",
       "fetched": "2025-09-03T19:32:48.032068+07:00"
+    },
+    {
+      "id": "4ac473e0a0a0663e93211046c97ff235",
+      "title": "Việt Nam thắng dễ trận đầu vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/truc-tiep-u23-viet-nam-vs-u23-bangladesh-4934655-tong-thuat.html",
+      "summary": "Nguyễn Ngọc Mỹ và Lê Viktor giúp Việt Nam thắng Bangladesh 2-0, trong trận ra quân vòng loại U23 châu Á 2026 trên sân Việt Trì.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T11:15:00+07:00",
+      "fetched": "2025-09-03T23:19:51.698042+07:00"
     },
     {
       "id": "5b52cb47c3b5e2690bfb25f994b0d64a",
