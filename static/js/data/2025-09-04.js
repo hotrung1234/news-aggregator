@@ -1,7 +1,157 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T11:18:41.701600+07:00",
+  "lastUpdated": "2025-09-04T13:23:48.898390+07:00",
   "articles": [
+    {
+      "id": "42ef0286619a55591a211c261acab30d",
+      "title": "Lên máy bay, nhớ đừng đi giày dép hở mũi",
+      "link": "https://tuoitre.vn/len-may-bay-nho-dung-di-giay-dep-ho-mui-20250904112006208.htm",
+      "summary": "Hầu hết các hãng hàng không không có quy định chính thức về trang phục, nhưng có một số nguyên tắc về những gì nên và không nên mặc khi đi máy bay nhằm đảm bảo sự sạch sẽ, thoải mái và tiện lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.403316+07:00",
+      "fetched": "2025-09-04T13:23:40.403436+07:00"
+    },
+    {
+      "id": "95e2c6a3448f6ddfe417242959c2c2a6",
+      "title": "HLV U23 Indonesia đổ lỗi cho các CLB khi bị Lào cầm hòa",
+      "link": "https://tuoitre.vn/hlv-u23-indonesia-do-loi-cho-cac-clb-khi-bi-lao-cam-hoa-20250904104602234.htm",
+      "summary": "HLV Gerald Vanenburg của U23 Indonesia vừa lên tiếng giải thích lý do để U23 Lào cầm hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.403191+07:00",
+      "fetched": "2025-09-04T13:23:40.403305+07:00"
+    },
+    {
+      "id": "461b703f08fa16d5f5f0b2b65ec80518",
+      "title": "Sinner 'nghiền nát' Musetti, giành vé vào bán kết US Open",
+      "link": "https://tuoitre.vn/sinner-nghien-nat-musetti-gianh-ve-vao-ban-ket-us-open-20250904111443333.htm",
+      "summary": "Không gặp quá nhiều khó khăn, tay vợt số 1 thế giới Jannik Sinner đã giành quyền vào bán kết US Open 2025 với chiến thắng sau 3 set với tỉ số 6-1, 6-4, 6-2 trước Musetti.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.403063+07:00",
+      "fetched": "2025-09-04T13:23:40.403180+07:00"
+    },
+    {
+      "id": "ca2a70f8438069907a6fd67b293a0a14",
+      "title": "Người nước ngoài trộm 60 triệu của khách đi cùng chuyến bay, lãnh 2 năm 6 tháng tù",
+      "link": "https://tuoitre.vn/nguoi-nuoc-ngoai-trom-60-trieu-cua-khach-di-cung-chuyen-bay-lanh-2-nam-6-thang-tu-20250904112626871.htm",
+      "summary": "Sáng 4-9, TAND TP.HCM đã xét xử và tuyên phạt Han Qiang (51 tuổi, quốc tịch Trung Quốc) 2 năm 6 tháng tù về tội trộm cắp tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402930+07:00",
+      "fetched": "2025-09-04T13:23:40.403051+07:00"
+    },
+    {
+      "id": "284eb6487bfe6e187330ea0290083209",
+      "title": "Cảnh báo toàn cầu: Trái đất sắp hết chỗ chôn CO₂",
+      "link": "https://tuoitre.vn/canh-bao-toan-cau-trai-dat-sap-het-cho-chon-co-20250904113457386.htm",
+      "summary": "Theo một nghiên cứu đăng trên tạp chí Nature, khả năng lưu trữ an toàn khí CO₂ của Trái đất thấp hơn nhiều so với dự đoán trước đây và có thể đạt giới hạn ngay từ năm 2200.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402799+07:00",
+      "fetched": "2025-09-04T13:23:40.402918+07:00"
+    },
+    {
+      "id": "fd4cf59ca5ff60e73ce2f151205ba14d",
+      "title": "Sạt lở đá làm hỏng đường ray, đường sắt Bắc - Nam tắc nghẽn hơn 4 giờ",
+      "link": "https://tuoitre.vn/sat-lo-da-lam-hong-duong-ray-duong-sat-bac-nam-tac-nghen-hon-4-gio-20250904111708367.htm",
+      "summary": "Tuyến đường sắt Bắc - Nam qua Quảng Trị tạm thời bị chia cắt vì một vụ sạt lở đá khiến đường ray bị xô lệch, tắc nghẽn hơn 4 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402644+07:00",
+      "fetched": "2025-09-04T13:23:40.402786+07:00"
+    },
+    {
+      "id": "be163c523781b20d6c7b951d61833db7",
+      "title": "Khối trưởng Nga cảm ơn người dân Việt Nam, muốn ôm từng người và chụp ảnh lưu niệm",
+      "link": "https://tuoitre.vn/khoi-truong-nga-cam-on-nguoi-dan-viet-nam-muon-om-tung-nguoi-va-chup-anh-luu-niem-20250904113628927.htm",
+      "summary": "Khối trưởng Nga đã đăng bài trên Instagram cảm ơn tình cảm của người dân Việt Nam sau khi hoàn thành nhiệm vụ ở A80.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402517+07:00",
+      "fetched": "2025-09-04T13:23:40.402632+07:00"
+    },
+    {
+      "id": "d4302bac375d4f83cdf749cb26dff639",
+      "title": "Tay vợt Thùy Linh gặp thử thách lớn tại Vietnam Open 2025",
+      "link": "https://tuoitre.vn/tay-vot-thuy-linh-gap-thu-thach-lon-tai-vietnam-open-2025-20250904114332343.htm",
+      "summary": "Tay vợt Nguyễn Thùy Linh sẽ đối đầu với nhiều khó khăn nếu muốn tiếp tục vô địch Giải cầu lông Vietnam Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402385+07:00",
+      "fetched": "2025-09-04T13:23:40.402505+07:00"
+    },
+    {
+      "id": "462c30701832773127815262577b6490",
+      "title": "Thầy, trò và những kỳ vọng năm học mới",
+      "link": "https://tuoitre.vn/thay-tro-va-nhung-ky-vong-nam-hoc-moi-20250904100317158.htm",
+      "summary": "Đầu tư cho cơ sở vật chất, nâng cao chất lượng giảng dạy đến giữ ổn định kỳ thi tốt nghiệp THPT, xét tuyển đại học... là những kỳ vọng của học sinh, phụ huynh, nhà giáo trong năm học mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402252+07:00",
+      "fetched": "2025-09-04T13:23:40.402373+07:00"
+    },
+    {
+      "id": "269269d4be1adffa33cad4f13e596b70",
+      "title": "Ông Trump khẳng định mình vẫn rất khỏe mạnh giữa bão tin giả",
+      "link": "https://tuoitre.vn/ong-trump-khang-dinh-minh-van-rat-khoe-manh-giua-bao-tin-gia-20250904114323779.htm",
+      "summary": "Ông Trump bác bỏ những tin đồn về sức khỏe, khẳng định tất cả đều là tin giả và ông vẫn hoàn toàn khỏe mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.402113+07:00",
+      "fetched": "2025-09-04T13:23:40.402232+07:00"
+    },
+    {
+      "id": "83792fb873ddd0152b4c2be446a8cf01",
+      "title": "Xác định 2 cặp đấu bán kết US Open 2025",
+      "link": "https://tuoitre.vn/xac-dinh-2-cap-dau-ban-ket-us-open-2025-20250904111015464.htm",
+      "summary": "Các cặp đấu bán kết Giải quần vợt US Open 2025 đã chính thức lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.401984+07:00",
+      "fetched": "2025-09-04T13:23:40.402101+07:00"
+    },
+    {
+      "id": "c2c9c27188bc50d02a80cbb3bcf442a1",
+      "title": "Ngày càng nhiều người mắc 'bệnh khó nói' vì... cái điện thoại",
+      "link": "https://tuoitre.vn/ngay-cang-nhieu-nguoi-mac-benh-kho-noi-vi-cai-dien-thoai-20250904093731887.htm",
+      "summary": "Một nghiên cứu cho thấy người có thói quen mang điện thoại vào nhà vệ sinh có nguy cơ bị trĩ cao hơn 46% so với người không dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.401851+07:00",
+      "fetched": "2025-09-04T13:23:40.401973+07:00"
+    },
+    {
+      "id": "460d27e522ca2390f925745df9cb42d9",
+      "title": "Neymar được hưởng 1 tỉ đô từ di chúc của người xa lạ?",
+      "link": "https://tuoitre.vn/neymar-duoc-huong-1-ti-do-tu-di-chuc-cua-nguoi-xa-la-20250904114714768.htm",
+      "summary": "Một doanh nhân trẻ ở Rio Grande do Sul (Brazil), đã bất ngờ để lại di chúc khoảng 1 tỉ USD cho siêu sao bóng đá Neymar - người hoàn toàn xa lại với anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.401712+07:00",
+      "fetched": "2025-09-04T13:23:40.401839+07:00"
+    },
+    {
+      "id": "8ce2b3da60e6dd193a410ce0ee12b8ae",
+      "title": "Bị nói âm mưu chống Mỹ, ông Putin khen ông Trump hài hước",
+      "link": "https://tuoitre.vn/bi-noi-am-muu-chong-my-ong-putin-khen-ong-trump-hai-huoc-20250904112850064.htm",
+      "summary": "Tổng thống Nga 'khen' ông Trump hài hước sau khi bị tổng thống Mỹ cáo buộc cùng ông Tập và ông Kim 'âm mưu chống lại Mỹ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.401535+07:00",
+      "fetched": "2025-09-04T13:23:40.401698+07:00"
+    },
+    {
+      "id": "a963fe34abc6cde3dd4af867e84b78cb",
+      "title": "Tổng Bí thư Tô Lâm chủ trì cuộc làm việc của Bộ Chính trị với Ban Thường vụ Đảng ủy Mặt trận Tổ quốc",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-chu-tri-cuoc-lam-viec-cua-bo-chinh-tri-voi-ban-thuong-vu-dang-uy-mat-tran-to-quoc-20250904114941221.htm",
+      "summary": "Sáng 4-9, Tổng Bí thư Tô Lâm chủ trì cuộc làm việc của Bộ Chính trị với Ban Thường vụ Đảng ủy Mặt trận Tổ quốc Việt Nam, các đoàn thể Trung ương về công tác chuẩn bị Đại hội Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:23:40.401309+07:00",
+      "fetched": "2025-09-04T13:23:40.401520+07:00"
+    },
     {
       "id": "6589db66af1dce977501f4183e4e2f88",
       "title": "Cùng chia sẻ món quà Tết Độc lập",
@@ -393,6 +543,266 @@ window.newsData_2025_09_04 = {
       "fetched": "2025-09-04T08:11:19.570606+07:00"
     },
     {
+      "id": "639bf6d9ea90223965743e2540830f24",
+      "title": "Đài Tiếng nói Việt Nam ra sách kỷ niệm 80 năm thành lập",
+      "link": "https://thanhnien.vn/dai-tieng-noi-viet-nam-ra-sach-ky-niem-80-nam-thanh-lap-185250904125857895.htm",
+      "summary": "Sáng 4.9, tại Trung tâm Phát thanh quốc gia (Hà Nội), Đài Tiếng nói Việt Nam (VOV) tổ chức lễ ra mắt sách 'Đài tiếng nói Việt Nam - 80 năm đồng hành cùng đất nước', nhân kỷ niệm 80 năm ngày thành lập (7.9.1945-7.9.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:21:00+07:00",
+      "fetched": "2025-09-04T13:23:39.459869+07:00"
+    },
+    {
+      "id": "4a775e7a5400323c60a13f7dafd76b3f",
+      "title": "Học sinh 288 trường mầm non, tiểu học ở Cà Mau chờ dạy học bán trú",
+      "link": "https://thanhnien.vn/hoc-sinh-288-truong-mam-non-tieu-hoc-o-ca-mau-cho-day-hoc-ban-tru-18525090412084265.htm",
+      "summary": "Tỉnh Cà Mau vừa phê duyệt đề án dạy 2 buổi/ngày, theo đó tỉnh còn 288 trường mầm non và tiểu học công lập chưa có bán trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:19:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460051+07:00"
+    },
+    {
+      "id": "307fdf3256e6b93ce8ab0c52df243e79",
+      "title": "Đưa NSƯT Ngọc Trinh về nơi an nghỉ cuối cùng",
+      "link": "https://thanhnien.vn/dua-nsut-ngoc-trinh-ve-noi-an-nghi-cuoi-cung-185250904125935489.htm",
+      "summary": "Nhiều đồng nghiệp như Hòa Hiệp, Vân Trang... đã có mặt từ sớm tại tang lễ của NSƯT Ngọc Trinh để tiễn biệt, trước khi linh cữu nữ diễn viên được hỏa táng tại Trung tâm Bình Hưng Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:18:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460222+07:00"
+    },
+    {
+      "id": "f06cc30e8d32910d6009e5c8c3b0d49d",
+      "title": "Hà Nội chặt hạ hơn 2.200 cây bóng mát phục vụ dự án giao thông",
+      "link": "https://thanhnien.vn/ha-noi-chat-ha-hon-2200-cay-bong-mat-phuc-vu-du-an-giao-thong-185250904125150.htm",
+      "summary": "Để phục vụ dự án xây dựng nút giao giữa đường Vành đai 3,5 với đại lộ Thăng Long (Hà Nội), cơ quan chức năng sẽ chặt hạ hơn 2.200 cây bóng mát, di chuyển gần 400 cây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:17:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460405+07:00"
+    },
+    {
+      "id": "4d294b05761d1604cfa58a6ad0e5113d",
+      "title": "Con gái tỉ phú Elon Musk sống chật vật sau khi cắt quan hệ với cha",
+      "link": "https://thanhnien.vn/con-gai-ti-phu-elon-musk-song-chat-vat-sau-khi-cat-quan-he-voi-cha-185250904125033344.htm",
+      "summary": "Con gái đầu lòng của tỉ phú Elon Musk, người giàu nhất thế giới, nói rằng mình phá sản và phải ở cùng phòng với 3 người khác để tiết kiệm tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:17:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460570+07:00"
+    },
+    {
+      "id": "f0475e8c4e3fb528f9c20b82eb79b89b",
+      "title": "Huyền thoại Man Utd chọn tân binh Man City là hợp đồng tốt nhất",
+      "link": "https://vnexpress.net/huyen-thoai-man-utd-chon-tan-binh-man-city-la-hop-dong-tot-nhat-4934954.html",
+      "summary": "Paul Scholes chọn Gianluigi Donnarumma - thủ môn vừa gia nhập Man City - là hợp đồng tốt nhất kỳ chuyển nhượng hè 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T06:16:08+07:00",
+      "fetched": "2025-09-04T13:23:48.891623+07:00"
+    },
+    {
+      "id": "c7a1b58fce9f54da75b7521706e7d18d",
+      "title": "Hơn 1.000 học sinh từ Bình Thuận và Đắk Nông đến Đà Lạt học tập",
+      "link": "https://thanhnien.vn/hon-1000-hoc-sinh-tu-binh-thuan-va-dak-nong-den-da-lat-hoc-tap-185250904113156212.htm",
+      "summary": "Năm học 2025 - 2026, hơn 1.000 học sinh từ 2 tỉnh Bình Thuận và Đắk Nông (cũ) theo bố mẹ chuyển đến Đà Lạt học tập. Sở GD-ĐT Lâm Đồng đã bố trí trường học và đảm bảo điều kiện tốt nhất cho học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:11:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460744+07:00"
+    },
+    {
+      "id": "66a9ebefe5a1e3f1632727b632ff09be",
+      "title": "Khởi động dự án khu TĐC phục vụ Nhà máy điện hạt nhân Ninh Thuận 1",
+      "link": "https://thanhnien.vn/khoi-dong-du-an-khu-tdc-phuc-vu-nha-may-dien-hat-nhan-ninh-thuan-1-185250904111013929.htm",
+      "summary": "Dự án thành phần 1 di dân tái định cư (TĐC), giải phóng mặt bằng phục vụ xây dựng Nhà máy điện hạt nhân Ninh Thuận 1 tại xã Phước Dinh, với tổng diện tích 65,62 ha, dự kiến xây dựng 798 lô đất phục vụ khoảng 4.500 đến 5.000 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:10:00+07:00",
+      "fetched": "2025-09-04T13:23:39.460897+07:00"
+    },
+    {
+      "id": "462c372decc6e625bbe2684b0ffa6665",
+      "title": "Chủ tịch Liên đoàn quyền Anh Việt Nam vắng mặt bất thường",
+      "link": "https://vnexpress.net/chu-tich-lien-doan-quyen-anh-viet-nam-vang-mat-bat-thuong-4934995.html",
+      "summary": "Chủ tịch Liên đoàn quyền Anh Việt Nam (VBF) Lưu Tú Bảo bặt vô âm tín hơn nửa năm, sau khi sang Mỹ lo tang sự cho con.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T06:08:26+07:00",
+      "fetched": "2025-09-04T13:23:48.889707+07:00"
+    },
+    {
+      "id": "b15a08a5ad746a5d1e55aa9d3314c6fb",
+      "title": "Kỷ luật cảnh cáo hiệu trưởng cho học sinh lớp 12 'tự nguyện' nghỉ học",
+      "link": "https://thanhnien.vn/ky-luat-canh-cao-hieu-truong-cho-hoc-sinh-lop-12-tu-nguyen-nghi-hoc-185250904105453113.htm",
+      "summary": "Sở GD-ĐT Đắk Lắk vừa có quyết định thi hành kỷ luật cảnh cáo đối với nữ hiệu trưởng Trường THPT Cao Bá Quát vì có nhiều khuyết điểm, vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T06:00:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461056+07:00"
+    },
+    {
+      "id": "770aed918d4445589d7e177089875228",
+      "title": "Trung Quốc lắp đặt turbine gió ngoài khơi 26 MW",
+      "link": "https://vnexpress.net/trung-quoc-lap-dat-turbine-gio-ngoai-khoi-26-mw-4934387.html",
+      "summary": "Trung Quốc triển khai turbine gió ngoài khơi mạnh nhất thế giới có công suất 26 MW, đủ để cung cấp điện cho 55.000 hộ gia đình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-04T06:00:00+07:00",
+      "fetched": "2025-09-04T13:23:47.222899+07:00"
+    },
+    {
+      "id": "bbf24e07d33221f4c482127eb01ab356",
+      "title": "Những ‘cú đấm thép’ lột xác ngoạn mục, vũ khí tấn công của U.23 Việt Nam trở nên lợi hại",
+      "link": "https://thanhnien.vn/nhung-cu-dam-thep-lot-xac-ngoan-muc-vu-khi-tan-cong-cua-u23-viet-nam-tro-nen-loi-hai-185250904004956892.htm",
+      "summary": "Qua trận đầu tiên của vòng loại U.23 châu Á, U.23 Việt Nam đã cho thấy khâu tấn công sắc nét hơn so với chính mình tại giải U.23 Đông Nam Á 2025, nhờ sự xuất hiện và khởi sắc của một số nhân tố được chờ đợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:53:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461212+07:00"
+    },
+    {
+      "id": "6b5fe0caa98c1cb86f3b04c6cf7ba12d",
+      "title": "Sinner thắng hủy diệt tứ kết Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-thang-huy-diet-tu-ket-my-mo-rong-4934997.html",
+      "summary": "Hạt giống số một Jannik Sinner chỉ cần hai giờ thi đấu để đánh bại đồng hương Lorenzo Musetti 6-1, 6-4, 6-2 tại tứ kết Mỹ Mở rộng hôm 3/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T05:51:51+07:00",
+      "fetched": "2025-09-04T13:23:48.889884+07:00"
+    },
+    {
+      "id": "336741b2c375e77e9db8e359e937103e",
+      "title": "Doanh nghiệp đầu ngành cao su lãi kỷ lục nửa năm",
+      "link": "https://vnexpress.net/doanh-nghiep-dau-nganh-cao-su-lai-ky-luc-nua-nam-4934980.html",
+      "summary": "Giá cao su tăng mạnh giúp Tập đoàn Công nghiệp cao su Việt Nam lãi ròng 2.934 tỷ đồng trong nửa đầu năm, gần gấp đôi cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T05:40:54+07:00",
+      "fetched": "2025-09-04T13:23:43.614037+07:00"
+    },
+    {
+      "id": "c55b3deafba685c09eb3321447f05832",
+      "title": "Xuất khẩu cà phê tăng mạnh, đạt 6,4 tỷ USD",
+      "link": "https://vnexpress.net/xuat-khau-ca-phe-tang-manh-dat-6-4-ty-usd-4934904.html",
+      "summary": "Xuất khẩu cà phê đạt 6,4 tỷ USD trong 8 tháng đầu năm, tăng 59% nhờ nhu cầu cao và nguồn cung khan hiếm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T05:38:59+07:00",
+      "fetched": "2025-09-04T13:23:43.614195+07:00"
+    },
+    {
+      "id": "1865544b381a62c5b3b20e72eea9b02c",
+      "title": "TP.HCM và Campuchia hợp tác quảng bá du lịch",
+      "link": "https://thanhnien.vn/tphcm-va-campuchia-hop-tac-quang-ba-du-lich-185250904122423594.htm",
+      "summary": "Chủ tịch Nguyễn Văn Được và Bộ trưởng Bộ Du lịch Campuchia đề xuất hai bên cùng tăng cường hợp tác trong công tác truyền thông, quảng bá du lịch trên các kênh của nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:38:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461366+07:00"
+    },
+    {
+      "id": "2416351adeac988c4ee159e8d0babde0",
+      "title": "Ngủ trưa bao lâu sẽ tỉnh táo?",
+      "link": "https://thanhnien.vn/ngu-trua-bao-lau-se-tinh-tao-185250904123453473.htm",
+      "summary": "Ngủ trưa được khoa học chứng minh là tác động tích cực đến sức khỏe tổng thể. Ngủ trưa đúng cách giúp cải thiện tâm trạng, giảm huyết áp và nguy cơ mắc bệnh tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:36:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461513+07:00"
+    },
+    {
+      "id": "622c7e006133338fcf8f54491c4fbdf7",
+      "title": "Cháy công ty kiểm nghiệm thực phẩm khiến dân cư nháo nhào",
+      "link": "https://thanhnien.vn/chay-cong-ty-kiem-nghiem-thuc-pham-khien-dan-cu-nhao-nhao-185250904114002432.htm",
+      "summary": "Thấy cháy công ty trên đường số 4 (TP.HCM), nhiều thực khách đang ăn uống ở các hàng quán gần đó đã di chuyển ra xa để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:33:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461681+07:00"
+    },
+    {
+      "id": "8c604decfff3b958ebce348b33d71a3d",
+      "title": "Nhiều người muốn vóc dáng đẹp 'cấp tốc', nhưng đã làm sai những điều này...",
+      "link": "https://thanhnien.vn/nhieu-nguoi-muon-voc-dang-dep-cap-toc-nhung-da-lam-sai-nhung-dieu-nay-185250904052040352.htm",
+      "summary": "Chăm sóc bản thân đang trở thành một trong những xu hướng sống được giới trẻ quan tâm nhiều nhất vài năm trở lại đây. Một bộ phận người trẻ sẵn sàng chi tiền cho phòng gym, lớp yoga, thực đơn ăn kiêng, nước ép thanh lọc cơ thể… để đầu tư cho sức khỏe với mong muốn khỏe mạnh, vóc dáng đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:30:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461839+07:00"
+    },
+    {
+      "id": "17c34ef35fc531966f1018a6c650558e",
+      "title": "Giải thưởng Make in Viet Nam lần đầu vinh danh sản phẩm công nghệ số chiến lược",
+      "link": "https://vnexpress.net/giai-thuong-make-in-viet-nam-lan-dau-vinh-danh-san-pham-cong-nghe-so-chien-luoc-4934918.html",
+      "summary": "Giải thưởng sản phẩm công nghệ số Make in Viet Nam 2025 được phát động, lần đầu tôn vinh các sản phẩm công nghệ số chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:26:23+07:00",
+      "fetched": "2025-09-04T13:23:36.115388+07:00"
+    },
+    {
+      "id": "17c34ef35fc531966f1018a6c650558e",
+      "title": "Giải thưởng Make in Viet Nam lần đầu vinh danh sản phẩm công nghệ số chiến lược",
+      "link": "https://vnexpress.net/giai-thuong-make-in-viet-nam-lan-dau-vinh-danh-san-pham-cong-nghe-so-chien-luoc-4934918.html",
+      "summary": "Giải thưởng sản phẩm công nghệ số Make in Viet Nam 2025 được phát động, lần đầu tôn vinh các sản phẩm công nghệ số chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-04T05:26:23+07:00",
+      "fetched": "2025-09-04T13:23:47.223079+07:00"
+    },
+    {
+      "id": "aae9ca761cec8339d72420826e40a661",
+      "title": "Sạt lở đá khiến đường sắt Bắc - Nam qua Quảng Trị bị hư hỏng, ách tắc",
+      "link": "https://thanhnien.vn/sat-lo-da-khien-duong-sat-bac-nam-qua-quang-tri-bi-hu-hong-ach-tac-185250904110932802.htm",
+      "summary": "Một vụ sạt lở đá tại khu vực gần ga Lạc Sơn (xã Tuyên Hóa, Quảng Trị) khiến một đoạn đường sắt bị lệch và ách tắc tạm thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:23:00+07:00",
+      "fetched": "2025-09-04T13:23:39.461993+07:00"
+    },
+    {
+      "id": "594ff5d3b373523fc6ad2cc143e17737",
+      "title": "Quảng Ngãi: Phát hiện nhiều quả đạn còn sót lại sau chiến tranh",
+      "link": "https://thanhnien.vn/quang-ngai-phat-hien-nhieu-qua-dan-con-sot-lai-sau-chien-tranh-18525090410485686.htm",
+      "summary": "Người dân ở Quảng Ngãi phát hiện nhiều quả đạn còn sót lại sau chiến tranh nên đã báo cho cơ quan chức năng xử lý theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:21:00+07:00",
+      "fetched": "2025-09-04T13:23:39.462150+07:00"
+    },
+    {
+      "id": "40d95a6520e8122327e2f75c0124b1cb",
+      "title": "Travis Kelce: 'Tôi lâng lâng khi gọi Taylor Swift là vợ sắp cưới'",
+      "link": "https://vnexpress.net/travis-kelce-toi-lang-lang-khi-goi-taylor-swift-la-vo-sap-cuoi-4934862.html",
+      "summary": "Cầu thủ bóng bầu dục Travis Kelce nói hạnh phúc khi giới thiệu với các đồng đội rằng \"Taylor Swift là vợ sắp cưới\" của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:19:31+07:00",
+      "fetched": "2025-09-04T13:23:36.115570+07:00"
+    },
+    {
+      "id": "3f3969e196eb891a46b9ac2e0d60e1d9",
+      "title": "Bão Kajiki gây thiệt hại 2.900 tỷ đồng",
+      "link": "https://vnexpress.net/bao-kajiki-gay-thiet-hai-2-900-ty-dong-4934913.html",
+      "summary": "Kajiki, cơn bão thứ 5 trên Biển Đông, đã gây thiệt hại 2.900 tỷ đồng cho các tỉnh Bắc Trung Bộ và Bắc Bộ, tập trung ở Thanh Hóa, Nghệ An, Hà Tĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:15:25+07:00",
+      "fetched": "2025-09-04T13:23:36.115787+07:00"
+    },
+    {
+      "id": "0e295871884645a90236179cdeda40e6",
+      "title": "Du thuyền triệu USD ở Thổ Nhĩ Kỳ bị chìm sau khi hạ thủy",
+      "link": "https://vnexpress.net/du-thuyen-trieu-usd-o-tho-nhi-ky-bi-chim-sau-khi-ha-thuy-4934975.html",
+      "summary": "Chỉ 15 phút sau khi hạ thủy, du thuyền hạng sang Dolce Vento bất ngờ bị lật và chìm xuống biển ở thành phố Zonguldak.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:14:57+07:00",
+      "fetched": "2025-09-04T13:23:36.115959+07:00"
+    },
+    {
       "id": "dae0bdd9215d2cc606825e3bdfefc7dd",
       "title": "Ông Trump: Mỹ phải hủy thỏa thuận thuế với các nước và 'nghèo đi' nếu chính quyền thua kiện",
       "link": "https://tuoitre.vn/ong-trump-my-phai-huy-thoa-thuan-thue-voi-cac-nuoc-va-ngheo-di-neu-chinh-quyen-thua-kien-20250904003241699.htm",
@@ -401,6 +811,166 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T05:14:25.663334+07:00",
       "fetched": "2025-09-04T05:14:25.663543+07:00"
+    },
+    {
+      "id": "205e8daa17e58a1d8c1e916cadd138dd",
+      "title": "Nuốt 20 viên nam châm xếp hình, bé trai thủng ruột 8 lỗ",
+      "link": "https://vnexpress.net/nuot-20-vien-nam-cham-xep-hinh-be-trai-thung-ruot-8-lo-4934956.html",
+      "summary": "Bé 5 tuổi ói, đau bụng nhiều, bác sĩ phát hiện thủng 8 lỗ ở ruột non, lấy ra hai chuỗi viên nam châm tổng cộng 20 viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:08:00+07:00",
+      "fetched": "2025-09-04T13:23:36.116127+07:00"
+    },
+    {
+      "id": "4b413997362e68755f0d3dbc107e72e3",
+      "title": "Mắt 10/10 mới thẩy đủ số gấu mèo ẩn trong bức tranh",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-mat-10-10-moi-thay-du-so-gau-meo-an-trong-buc-tranh-4934497.html",
+      "summary": "Nghe thì dễ, nhưng không ít người đã phải dụi mắt liên tục, thậm chí phóng to ảnh nhiều lần mà vẫn đếm chưa chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:04:27+07:00",
+      "fetched": "2025-09-04T13:23:36.116289+07:00"
+    },
+    {
+      "id": "b4c3f41e49feeb65c33061badcaf542a",
+      "title": "Kho báu bí ẩn trong ngân hàng Bangladesh",
+      "link": "https://vnexpress.net/kho-bau-bi-an-trong-ngan-hang-bangladesh-4934841.html",
+      "summary": "Hơn 100 năm qua, số phận của viên kim cương Darya-e-Noor, được niêm phong trong một kho bạc, luôn ám ảnh con cháu người cai trị cuối cùng của xứ Dhaka.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:01:09+07:00",
+      "fetched": "2025-09-04T13:23:36.116446+07:00"
+    },
+    {
+      "id": "b4c3f41e49feeb65c33061badcaf542a",
+      "title": "Kho báu bí ẩn trong ngân hàng Bangladesh",
+      "link": "https://vnexpress.net/kho-bau-bi-an-trong-ngan-hang-bangladesh-4934841.html",
+      "summary": "Hơn 100 năm qua, số phận của viên kim cương Darya-e-Noor, được niêm phong trong một kho bạc, luôn ám ảnh con cháu người cai trị cuối cùng của xứ Dhaka.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-04T05:01:09+07:00",
+      "fetched": "2025-09-04T13:23:42.199230+07:00"
+    },
+    {
+      "id": "d91f9476486437138d81b6054685eb74",
+      "title": "Tăng cân khó kiểm soát do stress",
+      "link": "https://vnexpress.net/tang-can-kho-kiem-soat-do-stress-4934984.html",
+      "summary": "Stress kéo dài khiến chị Thúy, 35 tuổi, tăng cân nhanh kèm mất ngủ, tim đập nhanh, sau ba tháng tích cực điều trị béo phì và đi bộ đã giảm 14 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:00:00+07:00",
+      "fetched": "2025-09-04T13:23:36.116615+07:00"
+    },
+    {
+      "id": "5dbd7c0fefb730ccb0a32f2c1afad6f4",
+      "title": "6 dưỡng chất giúp phụ nữ tuổi 40 tăng cường sức khỏe",
+      "link": "https://vnexpress.net/6-duong-chat-giup-phu-nu-tuoi-40-tang-cuong-suc-khoe-4934851.html",
+      "summary": "Vitamin D, canxi, chất béo tốt, magie tốt cho xương, tim và não, tăng sức đề kháng cho phái đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:00:00+07:00",
+      "fetched": "2025-09-04T13:23:36.116799+07:00"
+    },
+    {
+      "id": "13e931936ceca7936a2da8b77f69b9ec",
+      "title": "Lấy thân làm tường chặn dòng nước xiết cứu bé trai",
+      "link": "https://vnexpress.net/lay-than-lam-tuong-chan-dong-nuoc-xiet-cuu-be-trai-4934936.html",
+      "summary": "Hàng chục du khách kết thành \"lá chắn sống\", chặn dòng nước để cứu bé trai kẹt trong khe đá ở Đoàn Sơn, TP Đô Quân, tỉnh Quý Châu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:58:56+07:00",
+      "fetched": "2025-09-04T13:23:36.116960+07:00"
+    },
+    {
+      "id": "dbb53b9fba6743952b42a0939fe0e8c2",
+      "title": "Keiko Fukuda - người phụ nữ đạt đẳng cấp cao nhất của judo",
+      "link": "https://vnexpress.net/keiko-fukuda-nguoi-phu-nu-dat-dang-cap-cao-nhat-cua-judo-4934162.html",
+      "summary": "Ở tuổi 21, Keiko Fukuda khoác bộ võ phục trắng và bước vào võ đường Kodokan theo lời mời của người sáng lập môn judo - Jigoro Kano. Từ đó, cuộc đời bà rẽ lối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:45:49+07:00",
+      "fetched": "2025-09-04T13:23:36.117125+07:00"
+    },
+    {
+      "id": "dbb53b9fba6743952b42a0939fe0e8c2",
+      "title": "Keiko Fukuda - người phụ nữ đạt đẳng cấp cao nhất của judo",
+      "link": "https://vnexpress.net/keiko-fukuda-nguoi-phu-nu-dat-dang-cap-cao-nhat-cua-judo-4934162.html",
+      "summary": "Ở tuổi 21, Keiko Fukuda khoác bộ võ phục trắng và bước vào võ đường Kodokan theo lời mời của người sáng lập môn judo - Jigoro Kano. Từ đó, cuộc đời bà rẽ lối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T04:45:49+07:00",
+      "fetched": "2025-09-04T13:23:48.890050+07:00"
+    },
+    {
+      "id": "ba5692635e9a0af187d739df7578fd20",
+      "title": "Trộm bất thành, dí dao khống chế con gái chủ nhà",
+      "link": "https://vnexpress.net/trom-bat-thanh-di-dao-khong-che-con-gai-chu-nha-4934961.html",
+      "summary": "Bị phát hiện hành vi ăn trộm, Thái Văn Bình An, 26 tuổi, quay sang dí dao vào cổ con gái chủ nhà bắt đưa tiền nhưng ý đồ bất thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:45:13+07:00",
+      "fetched": "2025-09-04T13:23:36.117282+07:00"
+    },
+    {
+      "id": "145713ab22a9ff251915ea6c4fb23fda",
+      "title": "Instagram ra mắt ứng dụng cho iPad sau 15 năm",
+      "link": "https://vnexpress.net/instagram-ra-mat-ung-dung-cho-ipad-sau-15-nam-4934934.html",
+      "summary": "Sau nhiều năm bị thúc giục, Instagram cũng phát hành ứng dụng được thiết kế riêng cho máy tính bảng của Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:44:23+07:00",
+      "fetched": "2025-09-04T13:23:36.117453+07:00"
+    },
+    {
+      "id": "145713ab22a9ff251915ea6c4fb23fda",
+      "title": "Instagram ra mắt ứng dụng cho iPad sau 15 năm",
+      "link": "https://vnexpress.net/instagram-ra-mat-ung-dung-cho-ipad-sau-15-nam-4934934.html",
+      "summary": "Sau nhiều năm bị thúc giục, Instagram cũng phát hành ứng dụng được thiết kế riêng cho máy tính bảng của Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-04T04:44:23+07:00",
+      "fetched": "2025-09-04T13:23:47.223247+07:00"
+    },
+    {
+      "id": "abe8b2286312b696b4ff5f38e960005d",
+      "title": "Ông Trump cảnh báo có thể rút lại thỏa thuận thương mại",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-co-the-rut-lai-thoa-thuan-thuong-mai-4934886.html",
+      "summary": "Nếu Tòa án Tối cao giữ nguyên phán quyết về thuế nhập khẩu của Tòa phúc thẩm, ông Trump cho biết các thỏa thuận có thể bị vô hiệu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:39:35+07:00",
+      "fetched": "2025-09-04T13:23:36.117622+07:00"
+    },
+    {
+      "id": "abe8b2286312b696b4ff5f38e960005d",
+      "title": "Ông Trump cảnh báo có thể rút lại thỏa thuận thương mại",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-co-the-rut-lai-thoa-thuan-thuong-mai-4934886.html",
+      "summary": "Nếu Tòa án Tối cao giữ nguyên phán quyết về thuế nhập khẩu của Tòa phúc thẩm, ông Trump cho biết các thỏa thuận có thể bị vô hiệu hóa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T04:39:35+07:00",
+      "fetched": "2025-09-04T13:23:43.613010+07:00"
+    },
+    {
+      "id": "da3f3bfa83353e6efe5f9f801d200fd4",
+      "title": "HLV của Alcaraz: 'Chỉ thắng nếu có thể đẩy Djokovic tới giới hạn'",
+      "link": "https://vnexpress.net/hlv-cua-alcaraz-chi-thang-neu-co-the-day-djokovic-toi-gioi-han-4934982.html",
+      "summary": "Theo HLV Juan Carlos Ferrero, tận dụng ưu thế về thể lực và tốc độ ổn định sẽ là chìa khóa để Carlos Alcaraz có thể thắng Novak Djokovic ở bán kết Mỹ Mở rộng ngày 6/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T04:39:04+07:00",
+      "fetched": "2025-09-04T13:23:36.117799+07:00"
+    },
+    {
+      "id": "da3f3bfa83353e6efe5f9f801d200fd4",
+      "title": "HLV của Alcaraz: 'Chỉ thắng nếu có thể đẩy Djokovic tới giới hạn'",
+      "link": "https://vnexpress.net/hlv-cua-alcaraz-chi-thang-neu-co-the-day-djokovic-toi-gioi-han-4934982.html",
+      "summary": "Theo HLV Juan Carlos Ferrero, tận dụng ưu thế về thể lực và tốc độ ổn định sẽ là chìa khóa để Carlos Alcaraz có thể thắng Novak Djokovic ở bán kết Mỹ Mở rộng ngày 6/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T04:39:04+07:00",
+      "fetched": "2025-09-04T13:23:48.890689+07:00"
     },
     {
       "id": "070c8c1d8fb7093e355094f808a6f753",
@@ -421,6 +991,16 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T04:16:00+07:00",
       "fetched": "2025-09-04T11:18:31.450813+07:00"
+    },
+    {
+      "id": "ca458de51affb0f914c1589bcfdf1c01",
+      "title": "Vì sao Arsenal không bán được cầu thủ giá cao?",
+      "link": "https://vnexpress.net/vi-sao-arsenal-khong-ban-duoc-cau-thu-gia-cao-4934915.html",
+      "summary": "Chi ra 325 triệu USD hè 2025, nhưng Arsenal vẫn loay hoay trong việc bán cầu thủ, tụt lại xa so với các đối thủ như Chelsea, Liverpool hay Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T04:15:36+07:00",
+      "fetched": "2025-09-04T13:23:48.890207+07:00"
     },
     {
       "id": "6b08720a0fbc834869ab05fd5becc975",
