@@ -1,7 +1,97 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T05:14:34.301422+07:00",
+  "lastUpdated": "2025-09-04T08:11:26.481490+07:00",
   "articles": [
+    {
+      "id": "85afc8d93a3403d74d3e76a65d0febb8",
+      "title": "Ông Trump cảnh báo Mỹ không dừng lại ở cuộc tấn công tàu ma túy Venezuela",
+      "link": "https://tuoitre.vn/ong-trump-canh-bao-my-khong-dung-lai-o-cuoc-tan-cong-tau-ma-tuy-venezuela-20250904001338633.htm",
+      "summary": "Tổng thống Mỹ lên tiếng bảo vệ cuộc tấn công vào \"tàu chở ma túy từ Venezuela\", trong khi bộ trưởng quốc phòng nước này tuyên bố sẽ có thêm các cuộc tấn công tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.571531+07:00",
+      "fetched": "2025-09-04T08:11:19.571643+07:00"
+    },
+    {
+      "id": "0a4becea65a4d6c3ee0913bb4010afc3",
+      "title": "Tin tức sáng 4-9: Giảm 30% phí, lệ phí đăng ký xe, rút ngắn thời gian cấp, đổi giấy phép lái xe",
+      "link": "https://tuoitre.vn/tin-tuc-sang-4-9-giam-30-phi-le-phi-dang-ky-xe-rut-ngan-thoi-gian-cap-doi-giay-phep-lai-xe-20250903210510008.htm",
+      "summary": "Tin tức đáng chú ý: Giảm 30% phí, lệ phí đăng ký xe, rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe; Có website giả giải chạy hỗ trợ bệnh nhân ung thư; 7 bác sĩ chuyên khoa đầu ngành tại TP.HCM đã đến đặc khu Côn Đảo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.571403+07:00",
+      "fetched": "2025-09-04T08:11:19.571520+07:00"
+    },
+    {
+      "id": "fa956760d882e214ed686d35776422bb",
+      "title": "Xe tăng, xe bọc thép phục vụ A80 hành quân trong đêm về lại các đơn vị",
+      "link": "https://tuoitre.vn/xe-tang-xe-boc-thep-phuc-vu-a80-hanh-quan-trong-dem-ve-lai-cac-don-vi-20250904010749933.htm",
+      "summary": "Đêm 3-9, sau khi hoàn thành nhiệm vụ trong lễ diễu binh, diễu hành A80, hàng chục xe đầu kéo KZKT chở xe tăng và thiết giáp hạng nặng đã hành quân từ Sở chỉ huy Bộ Quốc phòng về các đơn vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.571281+07:00",
+      "fetched": "2025-09-04T08:11:19.571392+07:00"
+    },
+    {
+      "id": "abc1b983453a5eb5671769f2285dc693",
+      "title": "Thời tiết hôm nay 4-9: Bắc Bộ nắng nóng sau nhiều tuần mưa, Nam Bộ mưa to về chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-9-bac-bo-nang-nong-sau-nhieu-tuan-mua-nam-bo-mua-to-ve-chieu-20250903195427759.htm",
+      "summary": "Hôm nay 4-9, thời tiết Bắc Bộ ngày nắng, có nơi nắng nóng. Nam Bộ mưa rào, chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.571159+07:00",
+      "fetched": "2025-09-04T08:11:19.571270+07:00"
+    },
+    {
+      "id": "9479e81956943e224094031073715274",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 4-9",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-4-9-20250903203250543.htm",
+      "summary": "Ngày 4-9, vòng tứ kết Giải bóng chuyền nữ vô địch thế giới 2025 sẽ khép lại với 2 trận cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.571036+07:00",
+      "fetched": "2025-09-04T08:11:19.571147+07:00"
+    },
+    {
+      "id": "e4edbab85314fb4181f3d49dc8dd5509",
+      "title": "Thư của Chủ tịch nước Lương Cường: 'Mong muốn xây dựng môi trường học tập hạnh phúc cho học trò'",
+      "link": "https://tuoitre.vn/thu-cua-chu-tich-nuoc-luong-cuong-mong-muon-xay-dung-moi-truong-hoc-tap-hanh-phuc-cho-hoc-tro-20250903214541389.htm",
+      "summary": "Nhân dịp khai giảng năm học mới 2025-2026, cũng là dịp kỷ niệm 80 năm truyền thống ngành giáo dục, Chủ tịch nước Lương Cường có thư gửi ngành giáo dục, thầy trò trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.570909+07:00",
+      "fetched": "2025-09-04T08:11:19.571025+07:00"
+    },
+    {
+      "id": "a3df7a847911194565fabb5f4a4f4c2b",
+      "title": "Tin tức thế giới 4-9: Ông Trump bóng gió trừng phạt Nga; Châu Âu duyệt đảm bảo an ninh cho Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-4-9-ong-trump-bong-gio-trung-phat-nga-chau-au-duyet-dam-bao-an-ninh-cho-ukraine-20250904010345138.htm",
+      "summary": "Thẩm phán liên bang lật ngược quyết định cắt giảm tài trợ cho ĐH Harvard; Nga tuyên bố kiểm soát nửa thành phố Kupiansk, Ukraine bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.570760+07:00",
+      "fetched": "2025-09-04T08:11:19.570896+07:00"
+    },
+    {
+      "id": "d390a669a4d90b0d0c33e9868fe639bf",
+      "title": "U23 Úc thắng 14-0 ở vòng loại U23 châu Á 2026",
+      "link": "https://tuoitre.vn/u23-uc-thang-14-0-o-vong-loai-u23-chau-a-2025-20250904053124908.htm",
+      "summary": "Lượt trận đầu tiên vòng loại Giải U23 châu Á 2026 chứng kiến chiến thắng kinh hoàng 14-0 của U23 Úc trước Northern Mariana Islands ở bảng D.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.570621+07:00",
+      "fetched": "2025-09-04T08:11:19.570747+07:00"
+    },
+    {
+      "id": "975f71d60bdccd7fd96260f76cdf6eb6",
+      "title": "Chuyên gia bóng đá Indonesia phát biểu 'U23 Lào dựng xe buýt giống Việt Nam' gây tranh cãi",
+      "link": "https://tuoitre.vn/chuyen-gia-bong-da-indonesia-phat-bieu-u23-lao-dung-xe-buyt-giong-viet-nam-gay-tranh-cai-20250904055723365.htm",
+      "summary": "Chuyên gia bóng đá Indonesia Gusnul Yakin gây sốc khi có những nhận xét về tuyển U23 Indonesia sau đội bóng trẻ nước này không thể đánh bại Lào ở vòng loại U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T08:11:19.570409+07:00",
+      "fetched": "2025-09-04T08:11:19.570606+07:00"
+    },
     {
       "id": "dae0bdd9215d2cc606825e3bdfefc7dd",
       "title": "Ông Trump: Mỹ phải hủy thỏa thuận thuế với các nước và 'nghèo đi' nếu chính quyền thua kiện",
@@ -163,6 +253,346 @@ window.newsData_2025_09_04 = {
       "fetched": "2025-09-04T01:22:18.263097+07:00"
     },
     {
+      "id": "03fb3dd19208e2434e312cc2fd75d23e",
+      "title": "Galaxy S25 FE lộ diện toàn bộ trước giờ G",
+      "link": "https://thanhnien.vn/galaxy-s25-fe-lo-dien-toan-bo-truoc-gio-g-18525090321514396.htm",
+      "summary": "Toàn bộ bí mật về Galaxy S25 FE bị phơi bày chỉ 24 giờ trước sự kiện ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:09:00+07:00",
+      "fetched": "2025-09-04T08:11:18.488338+07:00"
+    },
+    {
+      "id": "9182222da47139f77f77ab7ef327454b",
+      "title": "YouTuber giàu nhất thế giới muốn ra mạng di động riêng",
+      "link": "https://vnexpress.net/youtuber-giau-nhat-the-gioi-muon-ra-mang-di-dong-rieng-4934780.html",
+      "summary": "MrBeast, tên thật là Jimmy Donaldson, được cho là đang lên kế hoạch mở rộng đế chế kinh doanh sang lĩnh vực viễn thông di động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:05:15+07:00",
+      "fetched": "2025-09-04T08:11:15.183161+07:00"
+    },
+    {
+      "id": "767e638b8a098034d0d0fdbc890d69cc",
+      "title": "Thái Lan ấn định thời điểm bầu tân thủ tướng",
+      "link": "https://vnexpress.net/thai-lan-an-dinh-thoi-diem-bau-tan-thu-tuong-4934796.html",
+      "summary": "Hạ viện Thái Lan thông báo sẽ bỏ phiếu vào ngày 5/9 để tìm người kế nhiệm bà Paetongtarn Shinawatra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:04:39+07:00",
+      "fetched": "2025-09-04T08:11:15.183345+07:00"
+    },
+    {
+      "id": "6809c01d15b76fa90b597d9669b65ea8",
+      "title": "Mùa hè 'có 1 không 2' của em bé 6 tuổi chinh phục đỉnh núi Bà Đen",
+      "link": "https://thanhnien.vn/mua-he-co-1-khong-2-cua-em-be-6-tuoi-chinh-phuc-dinh-nui-ba-den-18525090316450447.htm",
+      "summary": "Những ngày qua, mạng xã hội lan tỏa hình ảnh một em bé 6 tuổi dáng nhỏ nhắn, tay cầm gậy trekking, kiên trì vượt dốc đá để chinh phục đỉnh núi Bà Đen - nóc nhà Nam Bộ cao 986 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:04:00+07:00",
+      "fetched": "2025-09-04T08:11:18.488503+07:00"
+    },
+    {
+      "id": "f4e23315099e8edb0dfdc6b33c4da865",
+      "title": "Gói gọn tất cả cung bậc cảm xúc hành trình A80: Kiêu hãnh Việt Nam!",
+      "link": "https://thanhnien.vn/goi-gon-tat-ca-cung-bac-cam-xuc-hanh-trinh-a80-kieu-hanh-viet-nam-185250904080118022.htm",
+      "summary": "Lễ diễu binh, diễu hành chào mừng kỷ niệm 80 năm Quốc khánh 2/9 đã khép lại với nhiều dấu ấn đậm nét, thể hiện sức mạnh đại đoàn kết dân tộc và vị thế của Việt Nam trên trường quốc tế, trình làng những khí tài quân sự hiện đại. Hãy cùng nhìn lại những khoảnh khắc đáng nhớ, để thấy một Việt Nam kiêu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:01:00+07:00",
+      "fetched": "2025-09-04T08:11:18.488660+07:00"
+    },
+    {
+      "id": "88ce8e7675442de5ae120b89c2781ff8",
+      "title": "Tài xế container quay đầu siêu đỉnh",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-tai-xe-container-quay-dau-sieu-dinh-4932557.html",
+      "summary": "Giữa con phố đông đúc, ai nấy đều hồi hộp khi thấy một chiếc container to đùng chuẩn bị quay đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.183509+07:00"
+    },
+    {
+      "id": "f94e8bef178acbe1d094bb170898771d",
+      "title": "Cắt một phần thanh quản do ung thư",
+      "link": "https://vnexpress.net/cat-mot-phan-thanh-quan-do-ung-thu-4934797.html",
+      "summary": "Ông Khương, 54 tuổi, khàn tiếng mất giọng, bác sĩ chẩn đoán ung thư thanh quản nên cắt một phần và bảo tồn giọng nói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.183669+07:00"
+    },
+    {
+      "id": "34592bcd248711ac1cc423575b24255a",
+      "title": "U xương chèn ép dây thần kinh gây nhìn đôi",
+      "link": "https://vnexpress.net/u-xuong-chen-ep-day-than-kinh-gay-nhin-doi-4934795.html",
+      "summary": "Ông Hanh, 65 tuổi, nhìn đôi, cộm và sụp mí mắt, bác sĩ phát hiện có khối u nguyên sống kích thước 4x6 cm nằm sâu trong sọ não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.183825+07:00"
+    },
+    {
+      "id": "2c7e86c103e68803d06c9cfb658e7714",
+      "title": "Làm thế nào giảm ù tai khi đi máy bay?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-u-tai-khi-di-may-bay-4934794.html",
+      "summary": "Tôi đi máy bay thường xuyên, mỗi lần bay đều đau nhức và ù tai rất khó chịu. Nguyên nhân do đâu, làm sao để phòng tránh? (Ngân Linh, 29 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.184039+07:00"
+    },
+    {
+      "id": "2dc182a55865a76b5130cd41f253022e",
+      "title": "Ecopark ra mắt shop thương mại khối đế giới hạn 32 căn",
+      "link": "https://vnexpress.net/ecopark-ra-mat-shop-thuong-mai-khoi-de-gioi-han-32-can-4934695.html",
+      "summary": "32 căn shop thương mại có chiều cao trần tầng một đến 7 m, nằm ở khối đế Sky Retreat - tổ hợp cao tầng gần 1.200 căn hộ của đô thị Eco Retreat 220 ha Tây TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.184198+07:00"
+    },
+    {
+      "id": "34dea6a771b650712b2c8b78900fab29",
+      "title": "Bé gái đục thủy tinh thể bẩm sinh",
+      "link": "https://vnexpress.net/be-gai-duc-thuy-tinh-the-bam-sinh-4934669.html",
+      "summary": "Hai mắt bé gái xuất hiện chấm nhỏ màu trắng khi mới 2 tuần tuổi, bác sĩ chẩn đoán bị đục thủy tinh thể bẩm sinh di truyền từ bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.184357+07:00"
+    },
+    {
+      "id": "4edb55cffeb0e623a6b0cd487e1509e5",
+      "title": "Căn hộ nội đô từ 69 triệu đồng một m2, gần nhiều trường học",
+      "link": "https://vnexpress.net/can-ho-noi-do-tu-69-trieu-dong-mot-m2-gan-nhieu-truong-hoc-4932939.html",
+      "summary": "Vị trí gần nhiều trường học các cấp cùng mức giá cạnh tranh giúp dự án Hanoi Melody Residences tại Tây Nam Linh Đàm tạo sức hút với các gia đình trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.184518+07:00"
+    },
+    {
+      "id": "2bf6b7023d3e6ba6181c687ae8ae5327",
+      "title": "Hội An đa dạng hóa sản phẩm du lịch",
+      "link": "https://thanhnien.vn/hoi-an-da-dang-hoa-san-pham-du-lich-18525090321505529.htm",
+      "summary": "Ở Hội An, vừa có việc giảm tải cho phố cổ, vừa phát triển du lịch cộng đồng cho vùng phụ cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:18.488811+07:00"
+    },
+    {
+      "id": "8f0e08fb67f8272950ca16d629e54c42",
+      "title": "Bún riêu 0 đồng chia sẻ yêu thương",
+      "link": "https://thanhnien.vn/bun-rieu-0-dong-chia-se-yeu-thuong-185250903185101124.htm",
+      "summary": "Nhằm lan tỏa tinh thần sẻ chia và gắn kết cộng đồng, Xã đoàn Mỹ An Hưng (Đồng Tháp) cùng nhà hảo tâm thực hiện mô hình \"Tô bún riêu chay 0 đồng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:18.488979+07:00"
+    },
+    {
+      "id": "3d64dd620e9020b06b1a9456af0a86bc",
+      "title": "Viêm gan mạn tính - nguy cơ tiềm ẩn gây xơ gan, ung thư gan",
+      "link": "https://thanhnien.vn/viem-gan-man-tinh-nguy-co-tiem-an-gay-xo-gan-ung-thu-gan-185250903162020698.htm",
+      "summary": "Thống kê của Globocan 2020 cho thấy, nước ta có 26.418 ca ung thư gan mới, 25.272 ca tử vong, chiếm tỷ lệ tử vong cao nhất trong các loại ung thư; trong đó, viêm gan B, C mạn tính được xem là \"thủ phạm\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489135+07:00"
+    },
+    {
+      "id": "3ba269f468ffe6f761a25fb5dabf7b7e",
+      "title": "TT AVIO: Chọn mua hôm nay, gia tăng giá trị mai sau",
+      "link": "https://thanhnien.vn/tt-avio-chon-mua-hom-nay-gia-tang-gia-tri-mai-sau-185250903160501916.htm",
+      "summary": "Trước làn sóng tăng giá mạnh mẽ của thị trường bất động sản TP.HCM, việc tìm ra dự án vừa đảm bảo an cư, vừa hứa hẹn tiềm năng đầu tư bền vững là không dễ dàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489286+07:00"
+    },
+    {
+      "id": "bc10b19b0481e50662eac1fc2d641b06",
+      "title": "Đẹp bất bại với bộ ba váy dài, quần ống rộng và giày cao gót",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dep-bat-bai-voi-bo-ba-vay-dai-quan-ong-rong-va-giay-cao-got-185250828165939746.htm",
+      "summary": "Trở lại văn phòng làm việc cùng guồng quay hối hả của cuộc sống thường nhật sau kỳ nghỉ lễ, nàng hãy tự tin và thả lỏng khi có sẵn những bản phối nhanh gọn mà sang xịn. Chúng đều được tạo thành từ bộ ba thời trang cổ điển váy dài, quần ống rộng và giày cao gót.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T01:00:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489438+07:00"
+    },
+    {
+      "id": "d5c374e81458e04dc90f32a6c3d866db",
+      "title": "Nga nói kiểm soát phân nửa thành phố Kupiansk, Ukraine bác bỏ",
+      "link": "https://thanhnien.vn/nga-noi-kiem-soat-phan-nua-thanh-pho-kupiansk-ukraine-bac-bo-185250904070639785.htm",
+      "summary": "Hôm 3.9, Bộ Quốc phòng Nga thông báo quân đội nước này đã kiểm soát 'khoảng 50%' thành phố Kupiansk thuộc tỉnh Kharkiv, đông bắc Ukraine, nhưng chính quyền Kyiv bác bỏ thông tin này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:52:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489584+07:00"
+    },
+    {
+      "id": "707a3ec54b3dabf80e30365903a8feff",
+      "title": "Việt Nam và Nga quyết tâm nâng tầm hợp tác kinh tế - thương mại",
+      "link": "https://thanhnien.vn/viet-nam-va-nga-quyet-tam-nang-tam-hop-tac-kinh-te-thuong-mai-185250904015036519.htm",
+      "summary": "Chiều tối ngày 3.9, kết thúc chuỗi các hoạt động tiếp xúc song phương dày đặc với lãnh đạo các nước nhân dịp tham dự Lễ kỷ niệm 80 năm Chiến thắng phát xít của nhân dân thế giới và làm việc tại Trung Quốc, Chủ tịch nước Lương Cường đã hội kiến với Tổng thống Nga Vladimir Putin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:52:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489748+07:00"
+    },
+    {
+      "id": "fe4afa5cc5fc9abda2af136fb4b78d2c",
+      "title": "Nhà riêng hẻm sâu ngày càng khó bán",
+      "link": "https://vnexpress.net/nha-rieng-hem-sau-ngay-cang-kho-ban-4932620.html",
+      "summary": "Trong khi những căn ở hẻm ôtô vào được vẫn được săn đón, nhà trong hẻm sâu, nhiều nhánh nhỏ lại chật vật tìm khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:43:48+07:00",
+      "fetched": "2025-09-04T08:11:15.184670+07:00"
+    },
+    {
+      "id": "ba57c871264e21b4498e12c5d88e6c78",
+      "title": "Mong anh đến với em bằng sự chân thành và tử tế",
+      "link": "https://vnexpress.net/mong-anh-den-voi-em-bang-su-chan-thanh-va-tu-te-4934763.html",
+      "summary": "Em vừa mới tốt nghiệp đại học, 22 tuổi, quê Phú Yên, làm việc tại Sài Gòn trong lĩnh vực kế toán - kiểm toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:43:47+07:00",
+      "fetched": "2025-09-04T08:11:15.184766+07:00"
+    },
+    {
+      "id": "c4ae52ee80e58fc29920ac092c973df3",
+      "title": "Lá bài cũ của người mới",
+      "link": "https://thanhnien.vn/la-bai-cu-cua-nguoi-moi-185250903223907663.htm",
+      "summary": "Sau khi chính thức nhậm chức Tổng thống Ba Lan, ông Karol Nawrocki lên tiếng nhắc lại yêu cầu nước Đức bồi thường chiến tranh liên quan Thế chiến 2. Yêu cầu này vốn đã bị chính phủ Đức bác bỏ với lập luận rằng vấn đề bồi thường chiến tranh đã được hai bên xử lý ổn thỏa và dứt điểm từ cách đây nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:37:00+07:00",
+      "fetched": "2025-09-04T08:11:18.489917+07:00"
+    },
+    {
+      "id": "fa3700b10df41f75588102eeff7c0350",
+      "title": "500 triệu nên mua lại Toyota Vios 2023?",
+      "link": "https://vnexpress.net/500-trieu-nen-mua-lai-toyota-vios-2023-4934366.html",
+      "summary": "Xin hỏi tầm tiền 500 triệu tôi nên mua lại Toyota Vios G 2023, chạy khoảng 30.000 km hay còn lựa chọn tốt hơn. (Phan Hiếu)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:35:50+07:00",
+      "fetched": "2025-09-04T08:11:15.184936+07:00"
+    },
+    {
+      "id": "b6d3fcc4f1cca5a40fbd1fb3747e6037",
+      "title": "Mỹ thông báo bắt giữ lượng tiền chất ma túy lớn kỷ lục 'từ Trung Quốc'",
+      "link": "https://thanhnien.vn/my-thong-bao-bat-giuluong-tien-chat-ma-tuy-lon-ky-luc-tu-trung-quoc-185250904072119592.htm",
+      "summary": "Công tố viên liên bang Mỹ Jeanine Pirro ngày 3.9 thông báo nước này đã thu giữ hơn 300.000 kg tiền chất ma túy đá đang trên đường từ Trung Quốc đến băng nhóm Sinaloa ở Mexico.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:35:00+07:00",
+      "fetched": "2025-09-04T08:11:18.490071+07:00"
+    },
+    {
+      "id": "7d105b8a0add59c976892858abfca00b",
+      "title": "Nhiều người khai Chủ tịch Asanzo Phạm Văn Tam yêu cầu nhân viên bỏ trốn, chu cấp 30 triệu/tháng",
+      "link": "https://thanhnien.vn/nhieu-nguoi-khai-chu-tich-asanzo-pham-van-tam-yeu-cau-nhan-vien-bo-tron-chu-cap-30-trieu-thang-185250904064933016.htm",
+      "summary": "Trong vụ án liên quan đến Công ty Asanzo, ông Trương Ngọc Liêm (Giám đốc Công ty Sa Huỳnh) khai khi cơ quan công an mời làm việc, ông Phạm Văn Tam đã chỉ đạo ông Liêm né tránh và chu cấp 30 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:30:00+07:00",
+      "fetched": "2025-09-04T08:11:18.490220+07:00"
+    },
+    {
+      "id": "2fd4747f72c16c89e84cf7e442ffcd18",
+      "title": "Ca khúc về quê hương, đất nước của Nguyễn Văn Chung lan tỏa mạnh mẽ",
+      "link": "https://thanhnien.vn/ca-khuc-ve-que-huong-dat-nuoc-cua-nguyen-van-chung-lan-toa-manh-me-185250903215647466.htm",
+      "summary": "Kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9, nhiều ca khúc viết về quê hương đất nước được trình làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:30:00+07:00",
+      "fetched": "2025-09-04T08:11:18.490364+07:00"
+    },
+    {
+      "id": "bc1f81adea3d850eb99736484a6e4b92",
+      "title": "Ông Trump có thể tăng quân ở Ba Lan, thừa nhận chiến sự Ukraine khó giải quyết",
+      "link": "https://thanhnien.vn/ong-trump-co-the-tang-quan-o-ba-lan-thua-nhan-chien-su-ukraine-kho-giai-quyet-185250904065913436.htm",
+      "summary": "Tổng thống Donald Trump cho biết Mỹ có thể điều thêm quân đến Ba Lan, đồng thời thừa nhận rằng việc chấm dứt chiến sự ở Ukraine khó hơn ông tưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:29:00+07:00",
+      "fetched": "2025-09-04T08:11:18.490509+07:00"
+    },
+    {
+      "id": "965cf03f01f3d80f506ee2c952d9a2c9",
+      "title": "Giá vàng thế giới tiếp tục tăng cao",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4934798.html",
+      "summary": "Giá mỗi ounce vàng có lúc lên sát 3.580 USD, do nhu cầu trú ẩn và khả năng Fed giảm lãi suất hiện lên gần 100%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:21:20+07:00",
+      "fetched": "2025-09-04T08:11:15.185094+07:00"
+    },
+    {
+      "id": "965cf03f01f3d80f506ee2c952d9a2c9",
+      "title": "Giá vàng thế giới tiếp tục tăng cao",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4934798.html",
+      "summary": "Giá mỗi ounce vàng có lúc lên sát 3.580 USD, do nhu cầu trú ẩn và khả năng Fed giảm lãi suất hiện lên gần 100%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T00:21:20+07:00",
+      "fetched": "2025-09-04T08:11:22.390969+07:00"
+    },
+    {
+      "id": "cd96c028cc69425c5d58239f386e3b75",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Sẽ đánh giá toàn diện chương trình phổ thông",
+      "link": "https://vnexpress.net/bo-truong-nguyen-kim-son-se-danh-gia-toan-dien-chuong-trinh-pho-thong-4934765.html",
+      "summary": "Sau lứa học sinh đầu tiên học và thi theo chương trình mới, với một số bất cập về chọn môn và dạy học tích hợp, Bộ Giáo dục sẽ đánh giá toàn diện để điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:01:41+07:00",
+      "fetched": "2025-09-04T08:11:15.185245+07:00"
+    },
+    {
+      "id": "c09a10edc8e3c93166a74c2435ee53c3",
+      "title": "Mẹ Việt Nam anh hùng ngồi cạnh Tổng Bí thư Tô Lâm trên lễ đài 2/9",
+      "link": "https://vnexpress.net/me-viet-nam-anh-hung-ngoi-canh-tong-bi-thu-to-lam-tren-le-dai-2-9-4934745.html",
+      "summary": "Trong tà áo dài đỏ, cụ Trần Thị Huyến, 86 tuổi, Mẹ Việt Nam anh hùng ở Hà Tĩnh, lần đầu dự lễ diễu binh Quốc khánh, ngồi cạnh Tổng Bí thư Tô Lâm trên lễ đài Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:00:00+07:00",
+      "fetched": "2025-09-04T08:11:15.185409+07:00"
+    },
+    {
+      "id": "7541123fd9b9112c4c7df80e8ca90bef",
+      "title": "Thẩm phán Mỹ ngăn chính quyền ông Trump cắt tài trợ cho Harvard",
+      "link": "https://vnexpress.net/tham-phan-my-ngan-chinh-quyen-ong-trump-cat-tai-tro-cho-harvard-4934788.html",
+      "summary": "Thẩm phán liên bang Mỹ ra lệnh hủy bỏ quyết định cắt giảm tài trợ sâu rộng của chính quyền ông Trump với Đại học Harvard.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T23:53:44+07:00",
+      "fetched": "2025-09-04T08:11:21.161518+07:00"
+    },
+    {
+      "id": "6a64ce836c8269290ea99f441a25b043",
+      "title": "Chà là tươi Thái Lan về Việt Nam rẻ 'chưa từng có'",
+      "link": "https://vnexpress.net/cha-la-tuoi-thai-lan-ve-viet-nam-re-chua-tung-co-4934541.html",
+      "summary": "Từng là đặc sản cao cấp với giá 300.000-700.000 đồng một kg, chà là tươi Thái Lan nay chỉ còn 70.00-150.000 đồng một kg - thấp nhất từ trước tới nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T23:14:00+07:00",
+      "fetched": "2025-09-04T08:11:22.391458+07:00"
+    },
+    {
+      "id": "8b4be70d1472143b4ba33dfa8d5d896f",
+      "title": "Antony từ chối Bayern để giữ lời hứa với Betis",
+      "link": "https://vnexpress.net/antony-tu-choi-bayern-de-giu-loi-hua-voi-betis-4934781.html",
+      "summary": "Tiền đạo người Brazil khước từ lời đề nghị với mức lương cao hơn của Bayern để giữ lời hứa trở lại Real Betis, nơi anh cảm thấy hạnh phúc và được yêu mến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T22:19:18+07:00",
+      "fetched": "2025-09-04T08:11:26.475824+07:00"
+    },
+    {
       "id": "06612b8995c6c9d05ce83d97267354dd",
       "title": "Runner 77 tuổi vô địch cả 7 giải major",
       "link": "https://vnexpress.net/runner-77-tuoi-vo-dich-ca-7-giai-major-4934784.html",
@@ -231,6 +661,16 @@ window.newsData_2025_09_04 = {
       "category": "Thế giới",
       "published": "2025-09-03T22:00:00+07:00",
       "fetched": "2025-09-04T05:14:27.395130+07:00"
+    },
+    {
+      "id": "216118f8b72a0e0cd7ae2f0b981ebe2e",
+      "title": "Salesforce thay thế 4.000 nhân viên bằng AI",
+      "link": "https://vnexpress.net/salesforce-thay-the-4-000-nhan-vien-bang-ai-4934340.html",
+      "summary": "Marc Benioff, CEO Salesforce, cho biết công ty cắt giảm 4.000 nhân viên hỗ trợ khách hàng và thay thế bằng trợ lý ảo để nâng cao hiệu suất, giảm chi phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T08:11:24.738938+07:00"
     },
     {
       "id": "64edd33bbdecfd2fb51ddc2d21348e10",
