@@ -1,7 +1,157 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T08:11:08.976146+07:00",
+  "lastUpdated": "2025-09-06T09:52:01.004158+07:00",
   "articles": [
+    {
+      "id": "23f51896dc923ba49c873c77615e18f5",
+      "title": "Israel tuyên bố tấn công hạ tầng, tòa nhà của Gaza sụp đổ",
+      "link": "https://tuoitre.vn/israel-tuyen-bo-tan-cong-ha-tang-toa-nha-cua-gaza-sup-do-20250906065316495.htm",
+      "summary": "Tòa nhà đã đổ sập trong tích tắc với khói đen bốc lên ngùn ngụt, sau khi trúng đòn không kích của Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869816+07:00",
+      "fetched": "2025-09-06T09:51:53.869925+07:00"
+    },
+    {
+      "id": "b7fd21a6e9694c0b67e0f2875cd935f7",
+      "title": "995 năm danh xưng Nghệ An: Viết tiếp câu chuyện hòa bình vang trên quê hương Xô Viết Nghệ Tĩnh",
+      "link": "https://tuoitre.vn/995-nam-danh-xung-nghe-an-viet-tiep-cau-chuyen-hoa-binh-vang-tren-que-huong-xo-viet-nghe-tinh-20250906065345761.htm",
+      "summary": "Ca khúc Viết tiếp câu chuyện hòa bình của Nguyễn Văn Chung sẽ khép lại chương trình kỷ niệm 995 năm danh xưng Nghệ An, 95 năm Xô Viết Nghệ Tĩnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869694+07:00",
+      "fetched": "2025-09-06T09:51:53.869805+07:00"
+    },
+    {
+      "id": "152fe6050222b1fff85c543cf73d8644",
+      "title": "Tin tức giá xe: Mercedes-AMG GT 53 giảm tới gần 2,9 tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mercedes-amg-gt-53-giam-toi-gan-2-9-ti-dong-20250905160423046.htm",
+      "summary": "Mercedes-AMG GT 53 4Matic+ được hưởng nhiều ưu đãi từ phía hãng và đại lý, đưa giá bán thực tế xuống mức thấp nhất 3,888 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869569+07:00",
+      "fetched": "2025-09-06T09:51:53.869683+07:00"
+    },
+    {
+      "id": "4292f39b6a501b29f8a4601e4c84630e",
+      "title": "Tiền thuê nhà ở Tokyo tăng vọt, gây áp lực lên các hộ gia đình",
+      "link": "https://tuoitre.vn/tien-thue-nha-o-tokyo-tang-vot-gay-ap-luc-len-cac-ho-gia-dinh-20250905122544357.htm",
+      "summary": "Giá thuê căn hộ tăng mạnh ở các thành phố lớn của Nhật Bản, gây áp lực lên ngân sách hộ gia đình và làm giảm khả năng tiết kiệm mua nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869443+07:00",
+      "fetched": "2025-09-06T09:51:53.869554+07:00"
+    },
+    {
+      "id": "791cddb11f52cbd1e3460760dfbf1214",
+      "title": "Nước đóng chai và an ninh quốc gia",
+      "link": "https://tuoitre.vn/nuoc-dong-chai-va-an-ninh-quoc-gia-20250905173831097.htm",
+      "summary": "Một nhà máy nước đóng chai tưởng như vô hại mà Trung Quốc dự tính mở ở Mỹ đã gây ra bao nhiêu sóng gió như thế nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869321+07:00",
+      "fetched": "2025-09-06T09:51:53.869432+07:00"
+    },
+    {
+      "id": "cbef034de7343a0dbed2ee77a38e0392",
+      "title": "Tupperware chính hãng trở lại, nâng tầm chuẩn sống hiện đại",
+      "link": "https://tuoitre.vn/tupperware-chinh-hang-tro-lai-nang-tam-chuan-song-hien-dai-20250904104020045.htm",
+      "summary": "Thương hiệu hộp nhựa cao cấp Tupperware chính thức trở lại Việt Nam dưới sự phân phối độc quyền của công ty TNHH Đối Tác Nhãn Hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869189+07:00",
+      "fetched": "2025-09-06T09:51:53.869309+07:00"
+    },
+    {
+      "id": "c7c5096ba6252cf92074d2df824223d1",
+      "title": "Điểm tin 8h: Sẽ ưu tiên vốn xóa ngập chợ Thủ Đức; Mỹ giảm mạnh thuế ô tô Nhật Bản còn 15%",
+      "link": "https://tuoitre.vn/diem-tin-8h-se-uu-tien-von-xoa-ngap-cho-thu-duc-my-giam-manh-thue-o-to-nhat-ban-con-15-20250906015428556.htm",
+      "summary": "Điểm tin 8h: Sẽ ưu tiên vốn xóa ngập chợ Thủ Đức; Mỹ giảm mạnh thuế ô tô Nhật Bản còn 15%",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.869018+07:00",
+      "fetched": "2025-09-06T09:51:53.869175+07:00"
+    },
+    {
+      "id": "7e0e55762646487ee1a48e2da450c691",
+      "title": "Những sai lầm khi tập thể dục, thể thao dễ gây ngưng tim, đột quỵ",
+      "link": "https://tuoitre.vn/nhung-sai-lam-khi-tap-the-duc-the-thao-de-gay-ngung-tim-dot-quy-20250905154937886.htm",
+      "summary": "Tập thể dục, thể thao quá mức không những không mang lại lợi ích mà còn gây hại cho tim mạch và hệ miễn dịch",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868895+07:00",
+      "fetched": "2025-09-06T09:51:53.869007+07:00"
+    },
+    {
+      "id": "d2d939e77daaf129495ff6333586cfb1",
+      "title": "FWD Việt Nam nâng cao trải nghiệm khách hàng với văn phòng thế hệ mới",
+      "link": "https://tuoitre.vn/fwd-viet-nam-nang-cao-trai-nghiem-khach-hang-voi-van-phong-the-he-moi-20250905203942038.htm",
+      "summary": "Ngày 5-9, Công ty Bảo hiểm Nhân thọ FWD Việt Nam (FWD Việt Nam) đưa vào hoạt động Văn phòng kinh doanh và Trung tâm Dịch vụ Khách hàng mới tại Tòa nhà Sky Gate, số 36-38 Nguyễn Văn Trỗi, phường Cầu Kiệu, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868772+07:00",
+      "fetched": "2025-09-06T09:51:53.868884+07:00"
+    },
+    {
+      "id": "5ec394e0c70f588181e8965f81ac41db",
+      "title": "Bernard gây ấn tượng tại Nhật Bản với 2 nghiên cứu y khoa mới",
+      "link": "https://tuoitre.vn/bernard-gay-an-tuong-tai-nhat-ban-voi-2-nghien-cuu-y-khoa-moi-20250905222304753.htm",
+      "summary": "Hệ thống Y khoa Chuyên sâu Quốc tế Bernard (Bernard Healthcare) vừa báo cáo trực tiếp 2 nghiên cứu mới tại Hội nghị Khoa học thường niên lần thứ 66 của Hiệp hội Ningen Dock và Y học Dự phòng Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868649+07:00",
+      "fetched": "2025-09-06T09:51:53.868761+07:00"
+    },
+    {
+      "id": "d8f17079b5bc6ff843f70ecbbfd55910",
+      "title": "Mỹ bắt giữ 475 lao động nhập cư trái phép tại nhà máy Hyundai, phần lớn là người Hàn Quốc",
+      "link": "https://tuoitre.vn/my-bat-giu-475-lao-dong-nhap-cu-trai-phep-tai-nha-may-hyundai-phan-lon-la-nguoi-han-quoc-20250906083242639.htm",
+      "summary": "Cuộc đột kích tại Nhà máy Hyundai Metaplant ở thị trấn Ellabell, bang Georgia, bắt giữ 475 người nghi là lao động nhập cư bất hợp pháp, đánh dấu chiến dịch truy quét nhập cư lớn nhất từ trước đến nay của chính quyền Mỹ tập trung tại một địa điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868524+07:00",
+      "fetched": "2025-09-06T09:51:53.868637+07:00"
+    },
+    {
+      "id": "f89bac5ed0f726598e25dda5324da2ca",
+      "title": "Đường Nguyễn Xiển chi chít ổ gà, mưa là ngập",
+      "link": "https://tuoitre.vn/duong-nguyen-xien-chi-chit-o-ga-mua-la-ngap-2025090608122523.htm",
+      "summary": "Thời gian gần đây, người dân liên tục phản ảnh đường Nguyễn Xiển, phường Long Bình, TP.HCM xuống cấp nghiêm trọng, chi chít ổ gà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868396+07:00",
+      "fetched": "2025-09-06T09:51:53.868513+07:00"
+    },
+    {
+      "id": "2ac906f5842edf723d89bfce9b1ca333",
+      "title": "Khoảnh khắc xúc động tân thủ tướng Thái Lan tới bệnh viện quỳ xuống ôm cha sau khi đắc cử",
+      "link": "https://tuoitre.vn/khoanh-khac-xuc-dong-tan-thu-tuong-thai-lan-toi-benh-vien-quy-xuong-om-cha-sau-khi-dac-cu-20250906074144131.htm",
+      "summary": "Ngay sau khi đắc cử thủ tướng Thái Lan, ông Anutin Charnvirakul đã lập tức đến bệnh viện thăm cha và bày tỏ lòng biết ơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868260+07:00",
+      "fetched": "2025-09-06T09:51:53.868384+07:00"
+    },
+    {
+      "id": "02711832625df5701f1260149eec4251",
+      "title": "Nhà thu mua quốc tế kỳ vọng vào nguồn cung tại Việt Nam",
+      "link": "https://tuoitre.vn/nha-thu-mua-quoc-te-ky-vong-vao-nguon-cung-tai-viet-nam-20250906080319335.htm",
+      "summary": "Các nhà thu mua quốc tế ghi nhận chất lượng hàng Việt đã cải thiện rõ rệt, nhiều mặt hàng được đánh giá \"ngang tầm\" với đối thủ trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.868097+07:00",
+      "fetched": "2025-09-06T09:51:53.868246+07:00"
+    },
+    {
+      "id": "0b2d3bec072c4372fb0c27e09f391400",
+      "title": "Gần 50 tuổi, xin nghỉ hưu thì được hưởng chế độ gì?",
+      "link": "https://tuoitre.vn/sinh-nam-1977-xin-nghi-huu-thi-duoc-huong-che-do-gi-20250823113950141.htm",
+      "summary": "Tôi sinh ngày 12-12-1977, nhập ngũ tháng 3-1999, hiện cấp bậc trung tá (sĩ quan quân đội), chức vụ trợ lý Phòng Trinh sát bộ đội biên phòng tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T09:51:53.867881+07:00",
+      "fetched": "2025-09-06T09:51:53.868082+07:00"
+    },
     {
       "id": "1c5190ebb1805ec120c7d4cb1dec0401",
       "title": "Lịch trực tiếp bán kết Giải bóng chuyền nữ vô địch thế giới 2025",
@@ -121,6 +271,286 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T05:14:23.362737+07:00",
       "fetched": "2025-09-06T05:14:23.362955+07:00"
+    },
+    {
+      "id": "3fc892b65967feec9b7f34a51416ec52",
+      "title": "Gia Lai: Nước thải sinh hoạt chưa xử lý chảy thẳng ra biển",
+      "link": "https://thanhnien.vn/gia-lai-nuoc-thai-sinh-hoat-chua-xu-ly-chay-thang-ra-bien-185250906083739071.htm",
+      "summary": "Nhiều tuyến cống nước thải sinh hoạt ở P.Quy Nhơn Đông (Gia Lai) vẫn đổ trực tiếp ra biển, gây ô nhiễm nghiêm trọng và ảnh hưởng đến hình ảnh du lịch địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:44:00+07:00",
+      "fetched": "2025-09-06T09:51:52.182367+07:00"
+    },
+    {
+      "id": "1d168783d5f9dbb833ee3749b22290f1",
+      "title": "Nhóm học sinh làm ra thạch thơm ngon từ trái điều",
+      "link": "https://thanhnien.vn/nhom-hoc-sinh-lam-ra-thach-thom-ngon-tu-trai-dieu-185250901220441058.htm",
+      "summary": "Hàng năm, sau khi thu hoạch xong phần hạt điều, hàng tấn trái điều bị chất thành đống rồi bỏ đi lãng phí. Chứng kiến hình ảnh này, nhóm học sinh ở Bà Rịa- Vũng Tàu (cũ) đã có ý tưởng làm thạch từ trái điều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:41:00+07:00",
+      "fetched": "2025-09-06T09:51:52.182535+07:00"
+    },
+    {
+      "id": "34d35b802c6b11da50a2bbcbb2cac39f",
+      "title": "Thầy giáo tử vong ở tầng trệt bệnh viện",
+      "link": "https://thanhnien.vn/thay-giao-tu-vong-o-tang-tret-benh-vien-185250905195331173.htm",
+      "summary": "Một thầy giáo được phát hiện tử vong ở tầng trệt của bệnh viện ở Vĩnh Long, nhưng thầy không phải là bệnh nhân của bệnh viện và chưa từng đến đây khám chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:40:00+07:00",
+      "fetched": "2025-09-06T09:51:52.182690+07:00"
+    },
+    {
+      "id": "89857dc153bdfee792bb0b239f019d4a",
+      "title": "LA Home tung giỏ hàng nhà phố thương mại từ 4,99 tỉ đồng",
+      "link": "https://thanhnien.vn/la-home-tung-gio-hang-nha-pho-thuong-mai-tu-499-ti-dong-185250906084054316.htm",
+      "summary": "Nhà phố thương mại tại phân khu River Park ra mắt với giá từ 4,99 tỉ đồng, hưởng chiết khấu cộng dồn tối đa 12%, hưởng tiện ích từ tổ hợp đô thị - công nghiệp 500 ha",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:30:00+07:00",
+      "fetched": "2025-09-06T09:51:52.182855+07:00"
+    },
+    {
+      "id": "2c49a5cb06abd4e00cbf8433c208b3fd",
+      "title": "Chiến lược quốc gia thúc đẩy du lịch Việt Nam đạt 25 triệu khách quốc tế 2025",
+      "link": "https://thanhnien.vn/chien-luoc-quoc-gia-thuc-day-du-lich-viet-nam-dat-25-trieu-khach-quoc-te-2025-185250905225025978.htm",
+      "summary": "Các doanh nghiệp lữ hành hàng đầu cùng Bộ Văn hóa - Thể thao - Du lịch đã cùng tìm chiến lược thúc đẩy du lịch Việt Nam đạt 25 triệu khách quốc tế năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:30:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183007+07:00"
+    },
+    {
+      "id": "7b5c486832cfad9c341ae88e911a2bdb",
+      "title": "Trung ương Đoàn trao học bổng, xe đạp cho học sinh biên giới nhân khai giảng",
+      "link": "https://thanhnien.vn/trung-uong-doan-trao-hoc-bong-xe-dap-cho-hoc-sinh-bien-gioi-nhan-khai-giang-185250905095727597.htm",
+      "summary": "Trong ngày khai giảng năm học mới, Trung ương Đoàn đã trao 30 suất học bổng và 20 chiếc xe đạp cho các em học sinh có hoàn cảnh khó khăn, cố gắng vươn lên trong học tập ở xã biên giới Bờ Y, tỉnh Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:25:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183174+07:00"
+    },
+    {
+      "id": "76b025dcf61d345211a6bb8d34f2f2f8",
+      "title": "Hoàn thuế ra sao nếu ông Trump thua kiện tại Tòa án Tối cao?",
+      "link": "https://vnexpress.net/hoan-thue-ra-sao-neu-ong-trump-thua-kien-tai-toa-an-toi-cao-4935633.html",
+      "summary": "Doanh nghiệp sẽ được hoàn tiền nếu Tòa án Tối cao phán quyết thuế của ông Trump bất hợp pháp, nhưng chuyên gia cảnh báo quy trình rất thách thức.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T02:23:57+07:00",
+      "fetched": "2025-09-06T09:51:56.707676+07:00"
+    },
+    {
+      "id": "a2666b168e047dc84f18a2061dd6b387",
+      "title": "Giá vàng miếng vượt 135 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-vuot-135-trieu-dong-4935787.html",
+      "summary": "Mỗi lượng vàng miếng sáng nay tăng thêm 1 triệu đồng, lập kỷ lục mới trên 135 triệu, duy trì mức chênh lệch 20 triệu so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T02:21:37+07:00",
+      "fetched": "2025-09-06T09:51:56.707853+07:00"
+    },
+    {
+      "id": "286f905753e1fa87eebb196a4927da9e",
+      "title": "Indonesia, Thái Lan, Malaysia đấu giao hữu: Ảnh hưởng gì đến đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/indonesia-thai-lan-malaysia-dau-giao-huu-anh-huong-gi-den-doi-tuyen-viet-nam-18525090609172141.htm",
+      "summary": "3 đối thủ của đội tuyển Việt Nam đều giữ hoặc thăng hạng trên bảng xếp hạng FIFA, sau các kết quả giao hữu thành công mới đây, gồm Indonesia thắng đậm đội Đài Loan tỷ số 6-0, Malaysia thắng Singapore 2-1 và Thái Lan thắng Fiji 3-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:18:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183326+07:00"
+    },
+    {
+      "id": "020e038d3609d3d4255ccd0f5aedea80",
+      "title": "Hà Nội nắng nóng trên 36 độ C, mưa lớn từ Đà Nẵng đến Lâm Đồng",
+      "link": "https://thanhnien.vn/ha-noi-nang-nong-tren-36-do-c-mua-lon-tu-da-nang-den-lam-dong-185250906084919297.htm",
+      "summary": "Thời tiết Hà Nội hôm nay 6.9 nắng nóng trên 36 độ C. Các tỉnh, thành từ Đà Nẵng đến Lâm Đồng có mưa lớn, nguy cơ ngập úng vùng trũng thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:18:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183474+07:00"
+    },
+    {
+      "id": "83ca971e4cdfa7d8a8c2f82c5d1b0d09",
+      "title": "Musk có thể nhận 1.000 tỷ USD từ Tesla",
+      "link": "https://vnexpress.net/musk-co-the-nhan-1-000-ty-usd-tu-tesla-4935783.html",
+      "summary": "HĐQT Tesla vừa đề xuất trao cho CEO Elon Musk gói thù lao trị giá 1.000 tỷ USD - lớn nhất lịch sử doanh nghiệp Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T02:13:09+07:00",
+      "fetched": "2025-09-06T09:51:56.708016+07:00"
+    },
+    {
+      "id": "bdd7c8442109ed073cdd9b1ba5309791",
+      "title": "Meey Group chuẩn hóa quản trị, hướng tới IPO",
+      "link": "https://vnexpress.net/meey-group-chuan-hoa-quan-tri-huong-toi-ipo-4934829.html",
+      "summary": "Meey Group tích cực hợp tác với tổ chức kiểm toán, pháp lý quốc tế để chuẩn hóa hệ thống quản trị theo chuẩn mực quốc tế và chuẩn bị cho mục tiêu IPO giai đoạn 2025-2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T02:00:00+07:00",
+      "fetched": "2025-09-06T09:51:56.708365+07:00"
+    },
+    {
+      "id": "061cb362a6a506e66d720fdda70886a0",
+      "title": "Màu của iPhone 17 Pro hé lộ qua linh kiện",
+      "link": "https://vnexpress.net/mau-cua-iphone-17-pro-he-lo-qua-linh-kien-4935732.html",
+      "summary": "Ảnh linh kiện và thông tin rò rỉ cho thấy những thay đổi đáng chú ý trên iPhone 17 Pro, từ Dynamic Island nhỏ gọn hơn đến tùy chọn màu mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T02:00:00+07:00",
+      "fetched": "2025-09-06T09:51:59.176690+07:00"
+    },
+    {
+      "id": "2ebc9d50e0aac7ade30e93441127649b",
+      "title": "Giải pháp máy chủ ảo cho chuyển đổi số của HostingViet",
+      "link": "https://vnexpress.net/giai-phap-may-chu-ao-cho-chuyen-doi-so-cua-hostingviet-4935628.html",
+      "summary": "Công ty Cổ phần công nghệ số Thiên Quang (HostingViet) cung cấp các dịch vụ VPS, Cloud Server, Hosting, thiết kế website, tên miền hỗ trợ doanh nghiệp chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T02:00:00+07:00",
+      "fetched": "2025-09-06T09:51:59.177380+07:00"
+    },
+    {
+      "id": "c436ca367ee1b64582fbbad58620fae1",
+      "title": "Học bổng Nguyễn Thái Bình - Báo Thanh Niên: Mang niềm hạnh phúc đến học sinh nghèo",
+      "link": "https://thanhnien.vn/hoc-bong-nguyen-thai-binh-bao-thanh-nien-mang-niem-hanh-phuc-den-hoc-sinh-ngheo-185250905190203874.htm",
+      "summary": "Trong tiếng trống rộn ràng của ngày khai giảng năm học mới 2025 - 2026, tại sân Trường THPT Bình Sơn (Quảng Ngãi), 50 suất học bổng Nguyễn Thái Bình - Báo Thanh Niên, do Trường Đại học Nguyễn Tất Thành tài trợ năm 2025, đã được trao tận tay các học sinh có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:55:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183621+07:00"
+    },
+    {
+      "id": "e0ee4e9653b11f6d6c87659233abbf13",
+      "title": "Loạt flagship Android mở màn cho xu hướng pin 7.000 mAh",
+      "link": "https://thanhnien.vn/loat-flagship-android-mo-man-cho-xu-huong-pin-7000-mah-185250904100918151.htm",
+      "summary": "Những cái tên quen thuộc như OPPO và OnePlus chuẩn bị tung ra loạt 'quái vật' pin 7.000 mAh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:53:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183774+07:00"
+    },
+    {
+      "id": "48b9c9abac184396f46ce3269a6caff3",
+      "title": "Ông Trump muốn mời lãnh đạo Nga, Trung dự hội nghị G20 ở Mỹ",
+      "link": "https://vnexpress.net/ong-trump-muon-moi-lanh-dao-nga-trung-du-hoi-nghi-g20-o-my-4935762.html",
+      "summary": "Ông Trump nói sẽ tổ chức hội nghị thượng đỉnh G20 năm tới tại khu nghỉ dưỡng ở Miami và mong muốn ông Putin, ông Tập tới dự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T01:52:32+07:00",
+      "fetched": "2025-09-06T09:51:54.951668+07:00"
+    },
+    {
+      "id": "7ada5a13b741a453b9b7c580025827f8",
+      "title": "Thông tin mới về vị trí rơi của máy bay mất tích MH370",
+      "link": "https://thanhnien.vn/thong-tin-moi-ve-vi-tri-roi-cua-may-bay-mat-tich-mh370-185250905202450584.htm",
+      "summary": "Ismail Hammad, kỹ sư trưởng của hãng hàng không Egyptair, tin rằng ông nắm giữ 'chìa khóa' giúp tiết kiệm \"tiền bạc và thời gian\" trong quá trình tìm kiếm máy bay mất tích MH370.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:46:00+07:00",
+      "fetched": "2025-09-06T09:51:52.183919+07:00"
+    },
+    {
+      "id": "7053519422fd9b9ae1f262af1f2b15b9",
+      "title": "Microsoft thừa nhận sự cố trên hàng loạt bản Windows",
+      "link": "https://thanhnien.vn/microsoft-thua-nhan-su-co-tren-hang-loat-ban-windows-185250905103824297.htm",
+      "summary": "Microsoft xác nhận bản cập nhật Windows tháng 8 gây lỗi cài đặt ứng dụng trên Windows 11, 10 và Server.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:46:00+07:00",
+      "fetched": "2025-09-06T09:51:52.184068+07:00"
+    },
+    {
+      "id": "97a6e0b54f06f1910b11d0a063efb9b7",
+      "title": "Giá vàng hôm nay 6.9.2025: Lại xô đổ kỷ lục cũ, xác lập đỉnh mới 135,4 triệu",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-692025-lai-xo-do-ky-luc-cu-xac-lap-dinh-moi-1354-trieu-185250906081048387.htm",
+      "summary": "Giá vàng thế giới lẫn trong nước tiếp tục tăng vùn vụt và đồng loạt xác lập kỷ lục mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:45:00+07:00",
+      "fetched": "2025-09-06T09:51:52.184234+07:00"
+    },
+    {
+      "id": "444d5f490506cd5e3b597a936338f29f",
+      "title": "Hậu vệ Lý Đức nói điều bất ngờ về U.23 Singapore, tự nhủ bản thân chớ chủ quan",
+      "link": "https://thanhnien.vn/hau-ve-ly-duc-noi-dieu-bat-ngo-ve-u23-singapore-tu-nhu-ban-than-cho-chu-quan-1852509060828376.htm",
+      "summary": "Trước thềm trận đấu thứ hai tại bảng C, vòng loại U.23 châu Á 2026 gặp U.23 Singapore, hậu vệ Phạm Lý Đức đã chia sẻ về sự chuẩn bị của  U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:42:00+07:00",
+      "fetched": "2025-09-06T09:51:52.184381+07:00"
+    },
+    {
+      "id": "f16e9b15f01f04005d65df8e6e40d342",
+      "title": "Ngoại hạng Anh trải qua kỳ chuyển nhượng khủng khiếp thế nào?",
+      "link": "https://vnexpress.net/ngoai-hang-anh-trai-qua-ky-chuyen-nhuong-khung-khiep-the-nao-4935770.html",
+      "summary": "Các CLB Ngoại hạng Anh chi 4,26 tỷ USD trong kỳ chuyển nhượng hè 2025, với Liverpool và Chelsea phá kỷ lục mua và bán, trong khi tân binh Sunderland có mức chi ròng gấp đôi ĐKVĐ châu Âu PSG.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:39:40+07:00",
+      "fetched": "2025-09-06T09:51:48.972563+07:00"
+    },
+    {
+      "id": "f16e9b15f01f04005d65df8e6e40d342",
+      "title": "Ngoại hạng Anh trải qua kỳ chuyển nhượng khủng khiếp thế nào?",
+      "link": "https://vnexpress.net/ngoai-hang-anh-trai-qua-ky-chuyen-nhuong-khung-khiep-the-nao-4935770.html",
+      "summary": "Các CLB Ngoại hạng Anh chi 4,26 tỷ USD trong kỳ chuyển nhượng hè 2025, với Liverpool và Chelsea phá kỷ lục mua và bán, trong khi tân binh Sunderland có mức chi ròng gấp đôi ĐKVĐ châu Âu PSG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T01:39:40+07:00",
+      "fetched": "2025-09-06T09:52:00.997488+07:00"
+    },
+    {
+      "id": "005a3ac1f665a368750bbc26a4805338",
+      "title": "Áp thấp nhiệt đới sẽ mạnh thành bão, Biển Đông sóng cao 4 m",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-se-manh-thanh-bao-bien-dong-song-cao-4-185250906082427948.htm",
+      "summary": "Áp thấp nhiệt đới trên Biển Đông dự báo sẽ mạnh lên thành bão, gây sóng cao 2 - 4 m ở vùng biển đông bắc Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:38:00+07:00",
+      "fetched": "2025-09-06T09:51:52.184535+07:00"
+    },
+    {
+      "id": "c8ae063a2d4099f58fa65b5e047f8074",
+      "title": "Nga 'dẫn đầu thế giới' về sản xuất chân tay giả",
+      "link": "https://vnexpress.net/nga-dan-dau-the-gioi-ve-san-xuat-chan-tay-gia-4935594.html",
+      "summary": "Thứ trưởng Quốc phòng Nga cho hay ngành sản xuất tay chân giả nước này phát triển vượt bậc để đáp ứng nhu cầu thương binh trở về từ Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:35:45+07:00",
+      "fetched": "2025-09-06T09:51:48.972749+07:00"
+    },
+    {
+      "id": "c8ae063a2d4099f58fa65b5e047f8074",
+      "title": "Nga 'dẫn đầu thế giới' về sản xuất chân tay giả",
+      "link": "https://vnexpress.net/nga-dan-dau-the-gioi-ve-san-xuat-chan-tay-gia-4935594.html",
+      "summary": "Thứ trưởng Quốc phòng Nga cho hay ngành sản xuất tay chân giả nước này phát triển vượt bậc để đáp ứng nhu cầu thương binh trở về từ Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T01:35:45+07:00",
+      "fetched": "2025-09-06T09:51:54.951845+07:00"
+    },
+    {
+      "id": "fd90703f49be888b5a17f9368471623b",
+      "title": "Lebanon tuyên bố sẽ bắt đầu giải giáp Hezbollah",
+      "link": "https://vnexpress.net/lebanon-tuyen-bo-se-bat-dau-giai-giap-hezbollah-4935760.html",
+      "summary": "Chính phủ Lebanon thông báo sẽ bắt đầu giải giáp Hezbollah, bất chấp phản đối từ nhóm vũ trang cùng đồng minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:28:44+07:00",
+      "fetched": "2025-09-06T09:51:48.972913+07:00"
+    },
+    {
+      "id": "fd90703f49be888b5a17f9368471623b",
+      "title": "Lebanon tuyên bố sẽ bắt đầu giải giáp Hezbollah",
+      "link": "https://vnexpress.net/lebanon-tuyen-bo-se-bat-dau-giai-giap-hezbollah-4935760.html",
+      "summary": "Chính phủ Lebanon thông báo sẽ bắt đầu giải giáp Hezbollah, bất chấp phản đối từ nhóm vũ trang cùng đồng minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T01:28:44+07:00",
+      "fetched": "2025-09-06T09:51:54.952014+07:00"
     },
     {
       "id": "223ea7f36e9cb9299bf0d4f0072b1b49",
@@ -271,6 +701,76 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T01:20:44.599688+07:00",
       "fetched": "2025-09-06T01:20:44.599897+07:00"
+    },
+    {
+      "id": "6a6020033951a40edc00ddf000f8863d",
+      "title": "Thủ môn mới của Man Utd từng ghi bàn phút cuối",
+      "link": "https://vnexpress.net/thu-mon-moi-cua-man-utd-tung-ghi-ban-phut-cuoi-4935753.html",
+      "summary": "Sau khi phát hiện Senne Lammens từng ghi bàn gỡ hòa ở phút cuối giải UEFA Youth League 2019, người hâm mộ Man Utd bông đùa rằng tân binh người Bỉ vừa thay thế được thủ thành Andre Onana vừa giải quyết hàng công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:17:25+07:00",
+      "fetched": "2025-09-06T09:51:48.973084+07:00"
+    },
+    {
+      "id": "6a6020033951a40edc00ddf000f8863d",
+      "title": "Thủ môn mới của Man Utd từng ghi bàn phút cuối",
+      "link": "https://vnexpress.net/thu-mon-moi-cua-man-utd-tung-ghi-ban-phut-cuoi-4935753.html",
+      "summary": "Sau khi phát hiện Senne Lammens từng ghi bàn gỡ hòa ở phút cuối giải UEFA Youth League 2019, người hâm mộ Man Utd bông đùa rằng tân binh người Bỉ vừa thay thế được thủ thành Andre Onana vừa giải quyết hàng công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T01:17:25+07:00",
+      "fetched": "2025-09-06T09:52:00.997990+07:00"
+    },
+    {
+      "id": "563a0778ae3188aa99d9ad351fb0a7ca",
+      "title": "Bộ Giáo dục chuyển quyền cấp phép thi chứng chỉ ngoại ngữ",
+      "link": "https://vnexpress.net/ai-cap-phep-to-chuc-thi-chung-chi-ngoai-ngu-ielts-va-cac-chung-chi-khac-4935702.html",
+      "summary": "Việc phê duyệt, cấp phép tổ chức thi chứng chỉ năng lực ngoại ngữ của nước ngoài sẽ được giao cho cấp tỉnh thay vì Bộ Giáo dục và Đào tạo như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:12:31+07:00",
+      "fetched": "2025-09-06T09:51:48.973299+07:00"
+    },
+    {
+      "id": "877961f1e894eb9138179f715aaebf1b",
+      "title": "HLV Enrique nhập viện",
+      "link": "https://vnexpress.net/hlv-enrique-nhap-vien-4935761.html",
+      "summary": "HLV của PSG, Luis Enrique, phải nhập viện và mổ cấp cứu sau khi gặp tai nạn xe đạp ngày 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:11:13+07:00",
+      "fetched": "2025-09-06T09:51:48.973464+07:00"
+    },
+    {
+      "id": "877961f1e894eb9138179f715aaebf1b",
+      "title": "HLV Enrique nhập viện",
+      "link": "https://vnexpress.net/hlv-enrique-nhap-vien-4935761.html",
+      "summary": "HLV của PSG, Luis Enrique, phải nhập viện và mổ cấp cứu sau khi gặp tai nạn xe đạp ngày 5/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T01:11:13+07:00",
+      "fetched": "2025-09-06T09:52:00.998162+07:00"
+    },
+    {
+      "id": "3a924bc618cf5ddca50a29670f71c1ff",
+      "title": "Ông Zelensky hối thúc Slovakia ngừng nhập dầu Nga",
+      "link": "https://vnexpress.net/ong-zelensky-hoi-thuc-slovakia-ngung-nhap-dau-nga-4935747.html",
+      "summary": "Tổng thống Ukraine kêu gọi Thủ tướng Slovakia cắt nguồn cung dầu từ Nga, song ông Fico có lập trường khác trong vấn đề này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:10:25+07:00",
+      "fetched": "2025-09-06T09:51:48.973622+07:00"
+    },
+    {
+      "id": "3a924bc618cf5ddca50a29670f71c1ff",
+      "title": "Ông Zelensky hối thúc Slovakia ngừng nhập dầu Nga",
+      "link": "https://vnexpress.net/ong-zelensky-hoi-thuc-slovakia-ngung-nhap-dau-nga-4935747.html",
+      "summary": "Tổng thống Ukraine kêu gọi Thủ tướng Slovakia cắt nguồn cung dầu từ Nga, song ông Fico có lập trường khác trong vấn đề này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T01:10:25+07:00",
+      "fetched": "2025-09-06T09:51:54.952197+07:00"
     },
     {
       "id": "698e7d4e4e0bd43756d823061f661796",
@@ -1321,6 +1821,16 @@ window.newsData_2025_09_06 = {
       "category": "Kinh doanh",
       "published": "2025-09-05T11:51:30+07:00",
       "fetched": "2025-09-06T01:20:47.637008+07:00"
+    },
+    {
+      "id": "00cd5cc0ec4c8e0ba77ecb9830a820d4",
+      "title": "Côn Đảo nghiên cứu tiềm năng bán tín chỉ carbon từ rừng và biển",
+      "link": "https://vnexpress.net/con-dao-nghien-cuu-tiem-nang-ban-tin-chi-carbon-tu-rung-va-bien-4935689.html",
+      "summary": "Với hệ sinh thái rừng, biển đa dạng, trữ lượng carbon hơn 427.000 tấn, Côn Đảo có tiềm năng tham gia thị trường tín chỉ carbon, mở cơ hội thu hút nguồn lực tài chính xanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-05T11:51:30+07:00",
+      "fetched": "2025-09-06T09:51:56.708987+07:00"
     },
     {
       "id": "ffc5246539401aada8f2f7049bba4515",
