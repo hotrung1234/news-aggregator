@@ -1,7 +1,117 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T05:14:30.839434+07:00",
+  "lastUpdated": "2025-09-06T08:11:08.976146+07:00",
   "articles": [
+    {
+      "id": "1c5190ebb1805ec120c7d4cb1dec0401",
+      "title": "Lịch trực tiếp bán kết Giải bóng chuyền nữ vô địch thế giới 2025",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-giai-bong-chuyen-nu-vo-dich-the-gioi-2025-20250905205333379.htm",
+      "summary": "Chiều và tối ngày 6-9, Giải bóng chuyền nữ vô địch thế giới 2025 sẽ bước vào thi đấu các lượt trận bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651636+07:00",
+      "fetched": "2025-09-06T08:11:01.651748+07:00"
+    },
+    {
+      "id": "b7467f02a1384c3f2ed0a87661a3fc32",
+      "title": "Djokovic thua nhanh Alcaraz ở bán kết US Open 2025",
+      "link": "https://tuoitre.vn/djokovic-thua-nhanh-alcaraz-o-ban-ket-us-open-2025-20250906052542693.htm",
+      "summary": "Rạng sáng 6-9, tay vợt người Serbia Novak Djokovic đã để thua đối thủ đến từ Tây Ban Nha Carlos Alcaraz 0-3 (4-6, 6-7, 2-6) ở bán kết đầu tiên của US Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651511+07:00",
+      "fetched": "2025-09-06T08:11:01.651626+07:00"
+    },
+    {
+      "id": "ef0c20e042e292d8853253c0e4fbb6cd",
+      "title": "Thống kê đáng nể của Alcaraz sau khi vào chung kết US Open 2025",
+      "link": "https://tuoitre.vn/thong-ke-dang-ne-cua-alcaraz-sau-khi-vao-chung-ket-us-open-2025-20250906054942437.htm",
+      "summary": "Tay vợt người Tây Ban Nha Carlos Alcaraz thiết lập những chỉ số thống kê đáng nể, sau khi đánh bại Novak Djokovic để tiến vào chung kết US Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651380+07:00",
+      "fetched": "2025-09-06T08:11:01.651500+07:00"
+    },
+    {
+      "id": "0ff30cf35e4a6bfbebe71de0eb2e7e81",
+      "title": "Tin tức thế giới 6-9: Thượng đỉnh G20 năm 2026 sẽ tổ chức ở khu nghỉ dưỡng của ông Trump",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-6-9-thuong-dinh-g20-nam-2026-se-to-chuc-o-khu-nghi-duong-cua-ong-trump-20250906055521924.htm",
+      "summary": "Ông Trump nói sẽ bắn hạ máy bay quân sự Venezuela nếu bị đe dọa; EU phạt Google hơn 3 tỉ USD, ông Trump nói 'bất công', dọa áp thuế trả đũa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651254+07:00",
+      "fetched": "2025-09-06T08:11:01.651368+07:00"
+    },
+    {
+      "id": "05d348c7626e112cbe5264c461c2a966",
+      "title": "Lịch trực tiếp vòng loại U23 châu Á 2026: U23 Việt Nam đấu Singapore",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-u23-chau-a-2026-u23-viet-nam-dau-singapore-20250906045108105.htm",
+      "summary": "Lúc 19h hôm nay (6-9), U23 Việt Nam sẽ chạm trán Singapore ở lượt trận thứ 2 bảng C vòng loại Giải U23 châu Á 2026 trên sân Việt Trì (Phú Thọ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651127+07:00",
+      "fetched": "2025-09-06T08:11:01.651242+07:00"
+    },
+    {
+      "id": "9cabb41ae183e43cd3379dd8bb157041",
+      "title": "HLV PSG Luis Enrique gãy xương đòn",
+      "link": "https://tuoitre.vn/hlv-psg-luis-enrique-gay-xuong-don-20250906061003483.htm",
+      "summary": "HLV CLB PSG Luis Enrique được đưa đến bệnh viện cấp cứu, và phải phẫu thuật khẩn cấp vì tai nạn lúc đang đạp xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.651000+07:00",
+      "fetched": "2025-09-06T08:11:01.651115+07:00"
+    },
+    {
+      "id": "30f8aecb2be7bc552b09ebb6e09e43f0",
+      "title": "Hàng chục hộ dân nguy cơ phải nộp tiền sử dụng đất gấp sáu lần",
+      "link": "https://tuoitre.vn/hang-chuc-ho-dan-nguy-co-phai-nop-tien-su-dung-dat-gap-sau-lan-202509052321334.htm",
+      "summary": "Hàng chục hộ dân tại một khu gia đình quân nhân ở Đà Nẵng thấp thỏm vì nguy cơ phải nộp tiền sử dụng đất gấp sáu lần do bị áp giá theo thời điểm giá cao, chưa kể tiền phạt chậm nộp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.650851+07:00",
+      "fetched": "2025-09-06T08:11:01.650988+07:00"
+    },
+    {
+      "id": "db40ed00395570b2207549dfef38fedd",
+      "title": "Hôm nay, áp thấp nhiệt đới khả năng mạnh lên thành bão",
+      "link": "https://tuoitre.vn/hom-nay-ap-thap-nhiet-doi-kha-nang-manh-len-thanh-bao-20250906061134837.htm",
+      "summary": "Dự báo trong ngày và đêm 6-9, áp thấp nhiệt đới trên Biển Đông mạnh lên thành bão. Nếu mạnh lên thành bão thì đây là cơn bão số 7 trên Biển Đông trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.650720+07:00",
+      "fetched": "2025-09-06T08:11:01.650839+07:00"
+    },
+    {
+      "id": "9a1d5923e00c5d06e403fe2f562f53ef",
+      "title": "Bóng đá Việt Nam phấn đấu vào 4 trận chung kết ở SEA Games 33",
+      "link": "https://tuoitre.vn/bong-da-viet-nam-phan-dau-vao-4-tran-chung-ket-o-sea-games-33-20250906001412768.htm",
+      "summary": "Hội nghị Ban Chấp hành Liên đoàn Bóng đá Việt Nam (VFF) lần 9 đã thống nhất mục tiêu phấn đấu vào chung kết SEA Games 33 ở môn bóng đá, futsal ở nam và nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.650582+07:00",
+      "fetched": "2025-09-06T08:11:01.650708+07:00"
+    },
+    {
+      "id": "9c080e8e0f30ad90a3a45a7fe209a94e",
+      "title": "Chào mừng năm học mới 2025-2026: Dẫn dắt phát triển quốc gia bằng giáo dục",
+      "link": "https://tuoitre.vn/chao-mung-nam-hoc-moi-2025-2026-dan-dat-phat-trien-quoc-gia-bang-giao-duc-20250905230717079.htm",
+      "summary": "'Dẫn dắt phát triển quốc gia bằng giáo dục; lấy chất lượng - công bằng - hội nhập - hiệu quả làm thước đo; bảo đảm tiếp cận bình đẳng trong giáo dục, nâng cao mặt bằng dân trí...', Tổng Bí thư Tô Lâm nhắn nhủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.650432+07:00",
+      "fetched": "2025-09-06T08:11:01.650569+07:00"
+    },
+    {
+      "id": "bbf80613b7fe91f6f6a10651e7d2d77d",
+      "title": "Morocco mạnh mẽ giành vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/morocco-manh-me-gianh-ve-du-world-cup-2026-20250906064302552.htm",
+      "summary": "Morocco đã trở thành đội mới nhất giành vé dự World Cup 2026, khi đánh bại Niger 5-0 ở lượt trận thứ 6 bảng E vòng loại khu vực châu Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T08:11:01.650169+07:00",
+      "fetched": "2025-09-06T08:11:01.650416+07:00"
+    },
     {
       "id": "b2458dd061fa1ec1ee97e5b3d8befdcc",
       "title": "Thời tiết hôm nay 6-9: Biển Đông có áp thấp, sóng biển có nơi cao 2-4m",
@@ -163,6 +273,386 @@ window.newsData_2025_09_06 = {
       "fetched": "2025-09-06T01:20:44.599897+07:00"
     },
     {
+      "id": "698e7d4e4e0bd43756d823061f661796",
+      "title": "iPhone 17 Pro Max là sản phẩm lý tưởng cho người dùng",
+      "link": "https://thanhnien.vn/iphone-17-pro-max-la-san-pham-ly-tuong-cho-nguoi-dung-185250905145005858.htm",
+      "summary": "Dựa vào những thông tin đáng tin cậy, iPhone 17 Pro Max hứa hẹn sẽ đáp ứng kỳ vọng của người dùng về một chiếc smartphone hoàn hảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:09:00+07:00",
+      "fetched": "2025-09-06T08:11:00.120656+07:00"
+    },
+    {
+      "id": "cfbe59c11c9d96ee4921c92bcc323574",
+      "title": "Giá heo hơi hôm nay 6.9.2025: Tăng tưng bừng khắp nơi",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-692025-tang-tung-bung-khap-noi-185250905204217879.htm",
+      "summary": "Giá heo hơi đồng loạt tăng ở khắp các tỉnh thành trong cả nước, đặc biệt nhiều tỉnh thành miền Trung đã thoát khỏi nguy cơ thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:03:00+07:00",
+      "fetched": "2025-09-06T08:11:00.120840+07:00"
+    },
+    {
+      "id": "2e7749b314108d2b34ce65e8d17a0cbf",
+      "title": "Anh chàng rụng rời vì tưởng gặp ma giữa ban ngày",
+      "link": "https://vnexpress.net/thu-gian-video-hai-anh-chang-rung-roi-vi-tuong-gap-ma-giua-ban-ngay-4932560.html",
+      "summary": "Giữa thanh thiên bạch nhật, nam thanh niên bỗng nổi hết da gà khi chiếc thùng carton bỗng di chuyển một cách kỳ lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.762311+07:00"
+    },
+    {
+      "id": "92f89b1725cd0cd9bd524d76ffe0c343",
+      "title": "Ăn và kiêng gì sau mổ lác mắt?",
+      "link": "https://vnexpress.net/an-va-kieng-gi-sau-mo-lac-mat-4935729.html",
+      "summary": "Con trai tôi 6 tuổi, mới mổ lác mắt, nên kiêng và ăn gì sau mổ để nhanh chóng phục hồi? (Phương Anh, 37 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.762522+07:00"
+    },
+    {
+      "id": "7f77040849f7561155aba86fe5c30bb2",
+      "title": "Cách giảm tác dụng phụ khi hóa trị",
+      "link": "https://vnexpress.net/cach-giam-tac-dung-phu-khi-hoa-tri-4935578.html",
+      "summary": "Chia nhỏ bữa ăn, ưu tiên món mềm, ngủ đủ giấc, đi bộ thường xuyên giúp người bệnh ung thư đang hóa trị duy trì sức khỏe, giảm tác dụng phụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.762699+07:00"
+    },
+    {
+      "id": "c19038d73796cacf3547243a5a2231a9",
+      "title": "Sa sút trí tuệ sau đột quỵ",
+      "link": "https://vnexpress.net/sa-sut-tri-tue-sau-dot-quy-4935341.html",
+      "summary": "Người bệnh sau đột quỵ có nguy cơ cao suy giảm chức năng não, ảnh hưởng đến khả năng nhận thức, tư duy, trí nhớ, dễ sa sút trí tuệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.762864+07:00"
+    },
+    {
+      "id": "8250ee16297d085030904608be0d5fdc",
+      "title": "Dấu ấn game Audition tròn 19 tuổi",
+      "link": "https://vnexpress.net/dau-an-game-audition-tron-19-tuoi-4935027.html",
+      "summary": "Game âm nhạc và thời trang Audition tổ chức sinh nhật 19 năm tại Hà Nội, Đà Nẵng, TP HCM lớn hôm 24/8, chính thức là môn thể thao điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.763063+07:00"
+    },
+    {
+      "id": "216c0deb8ecd4298497d33c8c30755b2",
+      "title": "Dầu nhớt Kixx ra mắt bộ nhận diện thương hiệu mới",
+      "link": "https://vnexpress.net/dau-nhot-kixx-ra-mat-bo-nhan-dien-thuong-hieu-moi-4931018.html",
+      "summary": "Kixx giới thiệu nhận diện thương hiệu mới kỷ niệm 20 năm, đánh dấu bước chuyển mình chiến lược trong hành trình toàn cầu hóa, hôm 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.763222+07:00"
+    },
+    {
+      "id": "8f2daf573d9fbde1b6126d8785267b7a",
+      "title": "VRG đáp ứng EUDR, tiên phong chứng nhận cao su phát thải thấp",
+      "link": "https://thanhnien.vn/vrg-dap-ung-eudr-tien-phong-chung-nhan-cao-su-phat-thai-thap-185250905185930023.htm",
+      "summary": "Tập đoàn Công nghiệp Cao su Việt Nam (VRG) đang bước vào giai đoạn tăng tốc trong việc đáp ứng quy định chống phá rừng của Liên minh châu Âu (EUDR), đồng thời triển khai chiến lược sản xuất cao su thiên nhiên phát thải thấp (Low Carbon Product).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121028+07:00"
+    },
+    {
+      "id": "8a1035bd3036fd3467fbb5f41b978293",
+      "title": "Đến Co.opmart mua gì cũng ‘hời’",
+      "link": "https://thanhnien.vn/den-coopmart-mua-gi-cung-hoi-185250905184905465.htm",
+      "summary": "Với vai trò hệ thống bán lẻ hàng Việt hàng đầu, Saigon Co.op không chỉ tạo cú hích sức mua trong dịp Quốc khánh 2.9 và mùa trung thu, mà còn tiếp tục đồng hành cùng TP.HCM qua các chương trình Shopping Season, Tick xanh trách nhiệm, bán hàng lưu động và thanh toán không tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121193+07:00"
+    },
+    {
+      "id": "0330b2a892ff3ff7d7b3bc46e0d2cbea",
+      "title": "Kixx chuẩn hóa hệ thống sản phẩm tối ưu lựa chọn cho người tiêu dùng",
+      "link": "https://thanhnien.vn/kixx-chuan-hoa-he-thong-san-pham-toi-uu-lua-chon-cho-nguoi-tieu-dung-185250905172434853.htm",
+      "summary": "Kixx tái cấu trúc toàn bộ hệ thống sản phẩm và thiết kế bao bì, hướng tới định vị rõ ràng hơn, trực quan hơn cho người tiêu dùng tại các thị trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121349+07:00"
+    },
+    {
+      "id": "32e7280c0bd188a2f81e88f884740fbd",
+      "title": "Váy dáng dài đa nhiệm, hợp cả đi làm công sở lẫn dự tiệc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-dang-dai-da-nhiem-hop-ca-di-lam-cong-so-lan-du-tiec-185250903104037013.htm",
+      "summary": "Luôn có sức hấp dẫn riêng từ những thiết kế váy dáng dài đa nhiệm. Đúng như tên gọi, các thiết kế này cho bạn sự chủ động, linh hoạt khi muốn thay đổi phong cách. Mỗi kiểu dáng, màu sắc đều đạt được nhiều tiêu chí cùng lúc, do vậy hợp mặc đi làm văn phong lẫn dự sự kiện, dự tiệc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T01:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121510+07:00"
+    },
+    {
+      "id": "c27c640aa6a8489b8a280613acd341fc",
+      "title": "Trần học phí đại học công lập năm học 2025-2026 là bao nhiêu?",
+      "link": "https://vnexpress.net/tran-hoc-phi-dai-hoc-cong-lap-nam-hoc-2025-2026-la-bao-nhieu-4935688.html",
+      "summary": "Cháu tôi vừa trúng tuyển vào đại học công lập khá có tiếng tại TP HCM. Gia đình rất vui mừng, nhưng bất ngờ vì học phí ghi trong thông báo cao hơn rất nhiều so với suy nghĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:59:52+07:00",
+      "fetched": "2025-09-06T08:10:56.763374+07:00"
+    },
+    {
+      "id": "5770943eb9710cf2bd5712298c0c527e",
+      "title": "Các chuyến du lịch xa xỉ - vỏ bọc của giới trẻ",
+      "link": "https://vnexpress.net/cac-chuyen-du-lich-xa-xi-vo-boc-cua-gioi-tre-4935641.html",
+      "summary": "Với nhiều người trẻ, các chuyến du lịch xa xỉ đăng trên mạng chỉ là vỏ bọc, vì ở đời thực cuộc sống của họ không giàu sang đến thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:56:39+07:00",
+      "fetched": "2025-09-06T08:10:56.763533+07:00"
+    },
+    {
+      "id": "99cbe37802fbd3ae8fd9e2ad5efe651e",
+      "title": "Nhiều phần quà đến với học sinh nghèo Quảng Trị trong năm học mới",
+      "link": "https://thanhnien.vn/nhieu-phan-qua-den-voi-hoc-sinh-ngheo-quang-tri-trong-nam-hoc-moi-185250905190735909.htm",
+      "summary": "Đại diện Báo Thanh Niên cùng bạn đọc trao tặng nhiều phần quà ý nghĩa cho các em học sinh có hoàn cảnh khó khăn tại các xã Cam Lộ, Hiếu Giang (Quảng Trị) nhân dịp bắt đầu năm học mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:55:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121662+07:00"
+    },
+    {
+      "id": "3d8aef9d70f0adb8c9e2270e35070cf1",
+      "title": "Hàng xôi xoài gần 100 năm tuổi ở Bangkok",
+      "link": "https://vnexpress.net/hang-xoi-xoai-gan-100-nam-tuoi-o-bangkok-4935069.html",
+      "summary": "K. Panich bán xôi xoài, món tráng miệng được yêu thích nhất Thái Lan, từ năm 1927 và đã trải qua ba đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:51:39+07:00",
+      "fetched": "2025-09-06T08:10:56.763685+07:00"
+    },
+    {
+      "id": "9bf9dc0c19ffd249d38663ab081ed805",
+      "title": "Lý do ông Trump đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ly-do-ong-trump-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4935281.html",
+      "summary": "Tổng thống Trump muốn khơi dậy hình ảnh mạnh mẽ của Mỹ, thể hiện sẵn sàng chiến đấu của quân đội thông qua việc đổi tên Bộ Quốc phòng thành Bộ Chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:35:46+07:00",
+      "fetched": "2025-09-06T08:10:56.763852+07:00"
+    },
+    {
+      "id": "9bf9dc0c19ffd249d38663ab081ed805",
+      "title": "Lý do ông Trump đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ly-do-ong-trump-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4935281.html",
+      "summary": "Tổng thống Trump muốn khơi dậy hình ảnh mạnh mẽ của Mỹ, thể hiện sẵn sàng chiến đấu của quân đội thông qua việc đổi tên Bộ Quốc phòng thành Bộ Chiến tranh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T00:35:46+07:00",
+      "fetched": "2025-09-06T08:11:03.625919+07:00"
+    },
+    {
+      "id": "4f207a0d34b4ed045dd17684072288ba",
+      "title": "Đoàn Minh Tài nghẹn ngào kể về cuộc gặp cuối cùng với cố nghệ sĩ Quý Bình",
+      "link": "https://thanhnien.vn/doan-minh-tai-nghen-ngao-ke-ve-cuoc-gap-cuoi-cung-voi-co-nghe-si-quy-binh-185250906015822666.htm",
+      "summary": "Là khách mời của 'Gõ cửa trái tim', ngoài những chia sẻ về nghề, Đoàn Minh Tài còn nhắc về những kỷ niệm gắn với diễn viên Quý Bình và người mẫu Nam Phong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:34:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121812+07:00"
+    },
+    {
+      "id": "4db602b13a075a91922b17ac3d4b8008",
+      "title": "Mỹ nhân 19 tuổi đăng quang Hoa hậu Trái đất Việt Nam 2025 giờ ra sao?",
+      "link": "https://thanhnien.vn/my-nhan-19-tuoi-dang-quang-hoa-hau-trai-dat-viet-nam-2025-gio-ra-sao-185250905210559819.htm",
+      "summary": "Sau khi giành được vương miện Hoa hậu Trái đất Việt Nam 2025, nhan sắc của Trâm Anh ngày càng thăng hạng, đồng thời, cô cũng nhiệt tình trong các hoạt động thiện nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:29:00+07:00",
+      "fetched": "2025-09-06T08:11:00.121975+07:00"
+    },
+    {
+      "id": "7be64345e17f008d6f6f220f2a59800c",
+      "title": "Kinh tế thể thao ở Việt Nam, 'mỏ vàng' bị bỏ quên: Đã đến lúc phải thay đổi tư duy",
+      "link": "https://thanhnien.vn/kinh-te-the-thao-o-viet-nam-mo-vang-bi-bo-quen-da-den-luc-phai-thay-doi-tu-duy-185250905222643831.htm",
+      "summary": "Tiềm năng khai thác kinh tế thể thao, nguồn nhân lực chất lượng cho ngành này ở VN vẫn còn yếu, thiếu và cần được cải thiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:23:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122142+07:00"
+    },
+    {
+      "id": "63db57db612e8587d33cc0d50cbc5c4d",
+      "title": "Chợ Rẫy bỏ bệnh án giấy",
+      "link": "https://vnexpress.net/cho-ray-bo-benh-an-giay-4935666.html",
+      "summary": "Bệnh viện Chợ Rẫy dùng bệnh án điện tử (EMR) thay thế bệnh án giấy từ ngày 5/9, đánh dấu bước ngoặt trong hành trình chuyển đổi số, tạo thuận lợi cho nhân viên y tế và người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:13:18+07:00",
+      "fetched": "2025-09-06T08:10:56.764031+07:00"
+    },
+    {
+      "id": "bdce6c897d33bbf233f4c5d9a53f251b",
+      "title": "Galaxy S26 Edge 'có thiết kế camera giống iPhone 17 Pro'",
+      "link": "https://vnexpress.net/galaxy-s26-edge-co-thiet-ke-camera-giong-iphone-17-pro-4935242.html",
+      "summary": "Các mô hình của dòng Galaxy S26 cho thấy thay đổi lớn về thiết kế cụm camera, nhất là trên mẫu siêu mỏng Edge.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:10:56.764183+07:00"
+    },
+    {
+      "id": "df6a26bcae4467ee482fd196972b4d09",
+      "title": "'Cây Tô Hạp' gieo mầm sử thi Raglai miền đàn đá",
+      "link": "https://thanhnien.vn/cay-to-hap-gieo-mam-su-thi-raglai-mien-dan-da-185250905210022103.htm",
+      "summary": "Chuyện Chama Lia Riya Tiểng (Mấu Quốc Tiến) dạy hát sử thi Raglai cho giới trẻ ở miền đàn đá Khánh Sơn (tỉnh Khánh Hòa) từ lâu ai cũng biết. Nhưng còn hơn thế, ông chính là một \"bồ chữ\", người lưu giữ và lan tỏa không gian văn hóa bản địa quý giá nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122293+07:00"
+    },
+    {
+      "id": "570a9d26f33e1d3633ef336539b4abef",
+      "title": "Y học hiện đại điều trị các bệnh xã hội ra sao?",
+      "link": "https://thanhnien.vn/y-hoc-hien-dai-dieu-tri-cac-benh-xa-hoi-ra-sao-185240711184911271.htm",
+      "summary": "Khái niệm bệnh xã hội tuy không mới, nhưng với y học hiện đại thì việc khám và điều trị bệnh xã hội luôn có những bước phát triển mới, vượt bậc, khiến bệnh nhân bớt đi áp lực khi mang bệnh khó nói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122458+07:00"
+    },
+    {
+      "id": "eccc9b64679371ebde9336a621bf31d0",
+      "title": "Những ai cần thực hiện thủ thuật cắt bao quy đầu?",
+      "link": "https://thanhnien.vn/nhung-ai-can-thuc-hien-thu-thuat-cat-bao-quy-dau-18524061120411356.htm",
+      "summary": "Cắt bao quy đầu là thủ thuật ngoại khoa nhằm loại bỏ phần da quy đầu dương vật. Thủ thuật được thực hiện để giải quyết các vấn đề về sức khỏe và vệ sinh cho nam giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122611+07:00"
+    },
+    {
+      "id": "da1c48ea3b2c37ab9181baf7cc8ad3cd",
+      "title": "Bệnh nhân trĩ có xu hướng trẻ hóa",
+      "link": "https://thanhnien.vn/benh-nhan-tri-co-xu-huong-tre-hoa-185240508172556664.htm",
+      "summary": "Thời tiết nắng nóng, cùng với chế độ ăn uống, vận động, nghỉ ngơi không hợp lý, đã gia tăng các bệnh nhân trĩ, đặc biệt ở những người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122762+07:00"
+    },
+    {
+      "id": "bdce6c897d33bbf233f4c5d9a53f251b",
+      "title": "Galaxy S26 Edge 'có thiết kế camera giống iPhone 17 Pro'",
+      "link": "https://vnexpress.net/galaxy-s26-edge-co-thiet-ke-camera-giong-iphone-17-pro-4935242.html",
+      "summary": "Các mô hình của dòng Galaxy S26 cho thấy thay đổi lớn về thiết kế cụm camera, nhất là trên mẫu siêu mỏng Edge.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T00:00:00+07:00",
+      "fetched": "2025-09-06T08:11:06.829706+07:00"
+    },
+    {
+      "id": "66b185ad4d837356dac4ca57144c53fa",
+      "title": "Ông Trump ký sắc lệnh đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4935741.html",
+      "summary": "Ông Trump ký sắc lệnh đổi tên Bộ Quốc phòng Mỹ thành Bộ Chiến tranh, cho biết quyết định đã gửi đi \"thông điệp chiến thắng\" đến toàn thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T23:59:40+07:00",
+      "fetched": "2025-09-06T08:10:56.764341+07:00"
+    },
+    {
+      "id": "66b185ad4d837356dac4ca57144c53fa",
+      "title": "Ông Trump ký sắc lệnh đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-4935741.html",
+      "summary": "Ông Trump ký sắc lệnh đổi tên Bộ Quốc phòng Mỹ thành Bộ Chiến tranh, cho biết quyết định đã gửi đi \"thông điệp chiến thắng\" đến toàn thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T23:59:40+07:00",
+      "fetched": "2025-09-06T08:11:03.626125+07:00"
+    },
+    {
+      "id": "95b498e6eff25d4fcd4d37bf293f8234",
+      "title": "Mỹ dọa bắn hạ chiến đấu cơ Venezuela",
+      "link": "https://vnexpress.net/my-doa-ban-ha-chien-dau-co-venezuela-4935744.html",
+      "summary": "Tổng thống Trump cảnh báo chiến đấu cơ Venezuela sẽ bị bắn hạ nếu trở thành mối đe dọa với lực lượng Mỹ, giữa lúc căng thẳng leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T23:50:04+07:00",
+      "fetched": "2025-09-06T08:10:56.764496+07:00"
+    },
+    {
+      "id": "95b498e6eff25d4fcd4d37bf293f8234",
+      "title": "Mỹ dọa bắn hạ chiến đấu cơ Venezuela",
+      "link": "https://vnexpress.net/my-doa-ban-ha-chien-dau-co-venezuela-4935744.html",
+      "summary": "Tổng thống Trump cảnh báo chiến đấu cơ Venezuela sẽ bị bắn hạ nếu trở thành mối đe dọa với lực lượng Mỹ, giữa lúc căng thẳng leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T23:50:04+07:00",
+      "fetched": "2025-09-06T08:11:03.626299+07:00"
+    },
+    {
+      "id": "214fa6ccd74f4f3f572fba99471353ac",
+      "title": "Suarez bị cấm thi đấu 6 trận",
+      "link": "https://vnexpress.net/suarez-bi-cam-thi-dau-6-tran-4935745.html",
+      "summary": "Tiền đạo Luis Suarez bị Ủy ban tổ chức Leagues Cup treo giò 6 trận sau hành vi nhổ nước bọt vào một thành viên ban huấn luyện Seattle Sounders.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T23:48:14+07:00",
+      "fetched": "2025-09-06T08:10:56.764655+07:00"
+    },
+    {
+      "id": "214fa6ccd74f4f3f572fba99471353ac",
+      "title": "Suarez bị cấm thi đấu 6 trận",
+      "link": "https://vnexpress.net/suarez-bi-cam-thi-dau-6-tran-4935745.html",
+      "summary": "Tiền đạo Luis Suarez bị Ủy ban tổ chức Leagues Cup treo giò 6 trận sau hành vi nhổ nước bọt vào một thành viên ban huấn luyện Seattle Sounders.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-05T23:48:14+07:00",
+      "fetched": "2025-09-06T08:11:08.970252+07:00"
+    },
+    {
+      "id": "9f6e482a154169430ac529d973aca410",
+      "title": "Khách trúng độc đắc 4 tờ xổ số miền Nam đài Vũng Tàu, nhận hết tiền mặt",
+      "link": "https://thanhnien.vn/khach-trung-doc-dac-4-to-xo-so-mien-nam-dai-vung-tau-nhan-het-tien-mat-185250905183903701.htm",
+      "summary": "Mua 4 tờ vé số dịp Quốc khánh vừa qua, người phụ nữ mừng rỡ khi 4 tờ trúng độc đắc xổ số miền Nam ngày 2 tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T23:45:00+07:00",
+      "fetched": "2025-09-06T08:11:00.122928+07:00"
+    },
+    {
+      "id": "27fd3394709eae9a309af8bb423e6e50",
+      "title": "Di sản phức tạp của Daniel Levy ở Tottenham",
+      "link": "https://vnexpress.net/di-san-phuc-tap-cua-daniel-levy-o-tottenham-4935730.html",
+      "summary": "Sau gần 25 năm nắm quyền, Daniel Levy từ chức Chủ tịch Tottenham, để lại một di sản gây tranh cãi trong lịch sử CLB: giàu kinh tế nhưng thiếu thành công sân cỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-05T23:39:54+07:00",
+      "fetched": "2025-09-06T08:11:08.969897+07:00"
+    },
+    {
+      "id": "e5fd36d1bce2e7058703ec6e0b618750",
+      "title": "Mbappe cân bằng thành tích ghi bàn của Henry",
+      "link": "https://vnexpress.net/mbappe-can-bang-thanh-tich-ghi-ban-cua-henry-4935743.html",
+      "summary": "Kylian Mbappe góp một bàn giúp Pháp hạ Ukraine 2-0 ở lượt đầu bảng D vòng loại World Cup 2026, qua đó cân bằng thành tích ghi bàn với huyền thoại Thierry Henry.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-05T23:24:14+07:00",
+      "fetched": "2025-09-06T08:11:08.970414+07:00"
+    },
+    {
+      "id": "a17d33640d803c18968896d399c243fe",
+      "title": "Alcaraz hạ Djokovic ở bán kết Mỹ Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-ha-djokovic-o-ban-ket-my-mo-rong-4935742.html",
+      "summary": "Hạt giống số hai Carlos Alcaraz thắng đàn anh Novak Djokovic 6-4, 7-6(4), 6-2 để lần thứ hai vào chung kết Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-05T22:57:43+07:00",
+      "fetched": "2025-09-06T08:11:08.970085+07:00"
+    },
+    {
       "id": "4419294cda952f09ad88fa93b02847e6",
       "title": "Một phiên live hoa hậu Thùy Tiên xuất hiện, thu về hơn 400 triệu đồng",
       "link": "https://thanhnien.vn/mot-phien-live-hoa-hau-thuy-tien-xuat-hien-thu-ve-hon-400-trieu-dong-185250905200713698.htm",
@@ -191,6 +681,26 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-05T22:00:00+07:00",
       "fetched": "2025-09-06T05:14:22.369072+07:00"
+    },
+    {
+      "id": "865bd4e6e730c680d7f9af47a7a28668",
+      "title": "Tổng thống Mexico chật vật xích lại gần ông Trump",
+      "link": "https://vnexpress.net/tong-thong-mexico-chat-vat-xich-lai-gan-ong-trump-4935304.html",
+      "summary": "Tổng thống Mexico Sheinbaum đang tìm mọi cách để cải thiện mối quan hệ đầy sóng gió với ông Trump song nỗ lực này vẫn giậm chân tại chỗ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T22:00:00+07:00",
+      "fetched": "2025-09-06T08:11:03.626468+07:00"
+    },
+    {
+      "id": "e17cdc5815998de26cb786d13544da96",
+      "title": "Siêu máy tính AI của Tesla sụp đổ thế nào?",
+      "link": "https://vnexpress.net/sieu-may-tinh-ai-cua-tesla-sup-do-the-nao-4935253.html",
+      "summary": "Dojo, siêu máy tính dùng chip do Tesla tự thiết kế, bị \"khai tử\" khi hãng chuyển sang phát triển siêu máy tính khác hoạt động bằng GPU của Nvidia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-05T22:00:00+07:00",
+      "fetched": "2025-09-06T08:11:06.829355+07:00"
     },
     {
       "id": "5aa116e6a26c7b6460df54c3407f9591",
