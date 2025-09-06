@@ -1,7 +1,157 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T21:13:05.562707+07:00",
+  "lastUpdated": "2025-09-06T23:17:06.380409+07:00",
   "articles": [
+    {
+      "id": "5df169979c257b667df91dd0d266df48",
+      "title": "Bão Tapah 'khác lạ', miền Bắc khả năng mưa lớn 3 ngày",
+      "link": "https://tuoitre.vn/bao-tapah-khac-la-mien-bac-kha-nang-mua-lon-3-ngay-20250906205535413.htm",
+      "summary": "Thời điểm này bão thường tác động đến Bắc Bộ và bắt đầu đi lệch xuống phía nam, ảnh hưởng tới khu vực Trung Bộ, nhưng cơn bão số 7 (bão Tapah) lại hướng vào Trung Quốc, sau đó khả năng gây mưa lớn ở miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.880032+07:00",
+      "fetched": "2025-09-06T23:17:00.880170+07:00"
+    },
+    {
+      "id": "cb3f8604c4d903c20d553d4fd2e0a8f5",
+      "title": "Sôi động Lễ hội giao lưu hữu nghị Việt Nam - Mỹ tại TP.HCM",
+      "link": "https://tuoitre.vn/soi-dong-le-hoi-giao-luu-huu-nghi-viet-nam-my-tai-tp-hcm-20250906205217727.htm",
+      "summary": "Tối 6-9, tại TP.HCM, người dân Việt Nam và Mỹ cùng hòa vào không khí hữu nghị của mối quan hệ song phương vừa tròn 30 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879899+07:00",
+      "fetched": "2025-09-06T23:17:00.880016+07:00"
+    },
+    {
+      "id": "e5dca57e9f36f00b49f0c8db20ca3d05",
+      "title": "Toàn thắng hai trận, U23 Việt Nam đoạt vé dự vòng chung kết châu Á trong trường hợp nào?",
+      "link": "https://tuoitre.vn/toan-thang-hai-tran-u23-viet-nam-doat-ve-du-vong-chung-ket-chau-a-trong-truong-hop-nao-20250906192713982.htm",
+      "summary": "Đánh bại U23 Singapore 1-0 ở lượt trận thứ 2 bảng C vòng loại Giải U23 châu Á 2026, U23 Việt Nam có lợi thế lớn trong việc giành vé dự vòng chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879769+07:00",
+      "fetched": "2025-09-06T23:17:00.879888+07:00"
+    },
+    {
+      "id": "29d3e49610409f5e5bdae704d0eae198",
+      "title": "Bộ Văn hóa lưu ý bảo vệ các di sản văn hóa khi làm cầu Mã Đà",
+      "link": "https://tuoitre.vn/bo-van-hoa-luu-y-bao-ve-cac-di-san-van-hoa-khi-lam-cau-ma-da-2025090618294736.htm",
+      "summary": "Liên quan đến dự án xây dựng cầu Mã Đà, Bộ Văn hóa, Thể thao và Du lịch vừa có văn bản lưu ý tỉnh Đồng Nai bảo vệ các di sản văn hóa khi làm cây cầu này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879636+07:00",
+      "fetched": "2025-09-06T23:17:00.879758+07:00"
+    },
+    {
+      "id": "2d40c111e22ef14444566eb23a39c909",
+      "title": "Xếp hạng U23 châu Á 2026: Việt Nam 'vượt mặt' Yemen",
+      "link": "https://tuoitre.vn/xep-hang-u23-chau-a-2026-viet-nam-vuot-mat-yemen-20250906205914093.htm",
+      "summary": "U23 Việt Nam tiếp tục dẫn đầu bảng C vòng loại Giải U23 châu Á 2026, sau khi kết thúc lượt trận thứ hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879512+07:00",
+      "fetched": "2025-09-06T23:17:00.879624+07:00"
+    },
+    {
+      "id": "56b2e7f1f64e8cbf01dc48c6044380e5",
+      "title": "Lễ diễu binh là minh chứng rực rỡ cho sức mạnh bất diệt của dân tộc Việt Nam",
+      "link": "https://tuoitre.vn/le-dieu-binh-la-minh-chung-ruc-ro-cho-suc-manh-bat-diet-cua-dan-toc-viet-nam-20250906100445502.htm",
+      "summary": "Đó là khẳng định của Đại tướng Phan Văn Giang trong lễ tuyên dương các lực lượng tham gia diễu binh, diễu hành dịp 80 năm Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879389+07:00",
+      "fetched": "2025-09-06T23:17:00.879500+07:00"
+    },
+    {
+      "id": "117a3ef80e351e8d47bad55426858af9",
+      "title": "Hoàng Hải đóng phim Tường lửa Tràng An lấy cảm hứng từ chuyên án lừa đảo qua mạng Mr Pips",
+      "link": "https://tuoitre.vn/hoang-hai-dong-phim-tuong-lua-trang-an-lay-cam-hung-tu-chuyen-an-lua-dao-qua-mang-mr-pips-2025090618165358.htm",
+      "summary": "Sau những vai ông trùm trong Độc đạo, Mê cung, hay Hồ sơ cá sấu, NSƯT Hoàng Hải trở lại với vai công an trong phim Tường lửa Tràng An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879264+07:00",
+      "fetched": "2025-09-06T23:17:00.879378+07:00"
+    },
+    {
+      "id": "09e9178139e950b53c5397b82e2fd6e6",
+      "title": "Nhật Bản tổ chức lễ trưởng thành cho Hoàng tử Hisahito, lần đầu tiên sau 40 năm",
+      "link": "https://tuoitre.vn/nhat-ban-to-chuc-le-truong-thanh-cho-hoang-tu-hisahito-lan-dau-tien-sau-40-nam-20250906210547109.htm",
+      "summary": "Lần đầu tiên sau 40 năm, Hoàng gia Nhật Bản tổ chức lễ trưởng thành cho một nam hoàng thân - Hoàng tử Hisahito.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.879112+07:00",
+      "fetched": "2025-09-06T23:17:00.879251+07:00"
+    },
+    {
+      "id": "6e9fd5e4dadafc37eafe7fbf978598c1",
+      "title": "Cầu thủ U23 Việt Nam tiết lộ học cách ăn mừng như Neymar",
+      "link": "https://tuoitre.vn/cau-thu-u23-viet-nam-tiet-lo-hoc-cach-an-mung-nhu-neymar-20250906213241996.htm",
+      "summary": "Lê Văn Thuận đã ghi bàn duy nhất giúp đội tuyển U23 Việt Nam thắng U23 Singapore 1-0. Anh tiết lộ học cách ăn mừng như Neymar để chào khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878979+07:00",
+      "fetched": "2025-09-06T23:17:00.879100+07:00"
+    },
+    {
+      "id": "e54e4e8dbd27482591be96c9db9080b9",
+      "title": "HLV Kim Sang Sik: 'Thủ môn U23 Singapore bắt hay'",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-thu-mon-u23-singapore-bat-hay-20250906211430633.htm",
+      "summary": "HLV trưởng Kim Sang Sik tiếp tục khen thủ môn đối phương sau trận đấu mà U23 Việt Nam bỏ lỡ nhiều cơ hội trước U23 Singapore ở lượt 2 bảng C, vòng loại U23 châu Á 2026 diễn ra tối 6-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878839+07:00",
+      "fetched": "2025-09-06T23:17:00.878955+07:00"
+    },
+    {
+      "id": "7b9df58c6c07bfda2d5da077075389e0",
+      "title": "Điện lực Phú Thọ: Hóa đơn tiền điện hai bố con giống nhau do tình cờ có cùng mức tiêu thụ",
+      "link": "https://tuoitre.vn/dien-luc-phu-tho-hoa-don-tien-dien-hai-bo-con-giong-nhau-do-tinh-co-co-cung-muc-tieu-thu-20250906215424654.htm",
+      "summary": "Qua xác minh của ngành điện Phú Thọ, riêng tháng 8-2025, hai bố con ở khu Đồng Phai (xã Việt Hùng, tỉnh Phú Thọ) tình cờ có mức tiêu thụ trùng nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878711+07:00",
+      "fetched": "2025-09-06T23:17:00.878827+07:00"
+    },
+    {
+      "id": "eac8e99abb4370f72ad8302df16891d8",
+      "title": "Đã dập tắt được đám cháy tại khu xưởng rộng hàng trăm m² ở Hà Nội",
+      "link": "https://tuoitre.vn/da-dap-tat-duoc-dam-chay-tai-khu-xuong-rong-hang-tram-m2-o-ha-noi-20250905184011758.htm",
+      "summary": "Nơi xảy ra hỏa hoạn là đất của một công ty cho thuê làm nơi sản xuất ô dù và kho chứa đồ cũ ở phường Việt Hưng (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878582+07:00",
+      "fetched": "2025-09-06T23:17:00.878699+07:00"
+    },
+    {
+      "id": "717f81aa5e424d9c321c43a564d3369f",
+      "title": "Đánh bại Brazil, Ý giành vé vào chung kết Giải bóng chuyền nữ thế giới 2025",
+      "link": "https://tuoitre.vn/danh-bai-brazil-y-gianh-ve-vao-chung-ket-giai-bong-chuyen-nu-the-gioi-2025-20250906222718781.htm",
+      "summary": "Phải mất tới 5 set mới có thể đánh bại được Brazil hùng mạnh tối 6-9, tuyển Ý đoạt vé vào chơi trận chung kết Giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878448+07:00",
+      "fetched": "2025-09-06T23:17:00.878570+07:00"
+    },
+    {
+      "id": "cea7340476b658e27ea52986a758be5c",
+      "title": "Quán ăn rửa chén chớp nhoáng: sạch bằng 'niềm tin'?",
+      "link": "https://tuoitre.vn/quan-an-rua-chen-chop-nhoang-sach-bang-niem-tin-20250906222036501.htm",
+      "summary": "Những quán lề đường chật hẹp, chén bát rửa chớp nhoáng chỉ tráng qua hai xô nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878306+07:00",
+      "fetched": "2025-09-06T23:17:00.878436+07:00"
+    },
+    {
+      "id": "8be8273d729323638235f9ff325f2f49",
+      "title": "'Cụ' quế 150 năm tuổi được công nhận là Cây di sản Việt Nam",
+      "link": "https://tuoitre.vn/cu-que-150-nam-tuoi-duoc-cong-nhan-la-cay-di-san-viet-nam-2025090621535776.htm",
+      "summary": "Cây quế hơn 150 năm tuổi, có chu vi thân 3,5m ở miền núi Đà Nẵng vừa được công nhận là Cây di sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T23:17:00.878052+07:00",
+      "fetched": "2025-09-06T23:17:00.878290+07:00"
+    },
     {
       "id": "31a02c9983680d925cd3e91f698548c5",
       "title": "Thứ trưởng Phạm Ngọc Thưởng: Nghị quyết Bộ Chính trị về phát triển giáo dục như cuộc cách mạng",
@@ -453,6 +603,26 @@ window.newsData_2025_09_06 = {
       "fetched": "2025-09-06T17:14:17.257278+07:00"
     },
     {
+      "id": "6c6b14a52e10509afd5af8161a4e110e",
+      "title": "HLV Kim Sang-sik kiệm lời sau khi thắng nhọc Singapore",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-kiem-loi-sau-khi-thang-nhoc-singapore-4936046.html",
+      "summary": "HLV Kim Sang-sik không có nhiều điều để nói khi Việt Nam phung phí cơ hội và chỉ có thể đánh bại Singapore 1-0 ở lượt hai vòng loại U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T16:00:43+07:00",
+      "fetched": "2025-09-06T23:16:57.419859+07:00"
+    },
+    {
+      "id": "6c6b14a52e10509afd5af8161a4e110e",
+      "title": "HLV Kim Sang-sik kiệm lời sau khi thắng nhọc Singapore",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-kiem-loi-sau-khi-thang-nhoc-singapore-4936046.html",
+      "summary": "HLV Kim Sang-sik không có nhiều điều để nói khi Việt Nam phung phí cơ hội và chỉ có thể đánh bại Singapore 1-0 ở lượt hai vòng loại U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T16:00:43+07:00",
+      "fetched": "2025-09-06T23:17:06.366422+07:00"
+    },
+    {
       "id": "735b27bfe6312ede548240698ba80a3a",
       "title": "Không chỉ 'đẩy đuổi' người buôn bán lấn chiếm vỉa hè, cần chỗ buôn bán hợp pháp",
       "link": "https://tuoitre.vn/khong-chi-day-duoi-nguoi-buon-ban-lan-chiem-via-he-can-cho-buon-ban-hop-phap-20250905174108627.htm",
@@ -603,6 +773,226 @@ window.newsData_2025_09_06 = {
       "fetched": "2025-09-06T15:18:10.443045+07:00"
     },
     {
+      "id": "5cb1a0ce2a9ae9ed14d455e0c14af59d",
+      "title": "Thủ tướng: 'VNPT phải tiên phong làm chủ công nghệ lõi'",
+      "link": "https://vnexpress.net/thu-tuong-vnpt-phai-tien-phong-lam-chu-cong-nghe-loi-4936028.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) đi đầu trong nghiên cứu, ứng dụng và làm chủ công nghệ lõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T15:15:37+07:00",
+      "fetched": "2025-09-06T23:16:57.420043+07:00"
+    },
+    {
+      "id": "5cb1a0ce2a9ae9ed14d455e0c14af59d",
+      "title": "Thủ tướng: 'VNPT phải tiên phong làm chủ công nghệ lõi'",
+      "link": "https://vnexpress.net/thu-tuong-vnpt-phai-tien-phong-lam-chu-cong-nghe-loi-4936028.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) đi đầu trong nghiên cứu, ứng dụng và làm chủ công nghệ lõi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T15:15:37+07:00",
+      "fetched": "2025-09-06T23:17:05.059727+07:00"
+    },
+    {
+      "id": "77c01b9ad4a8ecffda5da77e02ceb9be",
+      "title": "Khánh Hòa: Cháy nhà 4 tầng tại vòng xoay Mả Vòng, P.Nha Trang",
+      "link": "https://thanhnien.vn/khanh-hoa-chay-nha-4-tang-tai-vong-xoay-ma-vong-pnha-trang-185250906214519846.htm",
+      "summary": "4 xe chữa cháy và hàng chục cán bộ, chiến sĩ được huy động đến hiện trường vụ cháy nhà 4 tầng nằm ở trung tâm P.Nha Trang (Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T15:14:00+07:00",
+      "fetched": "2025-09-06T23:17:00.144520+07:00"
+    },
+    {
+      "id": "a370f7077df7dc2b4b8201ec0b2b6eab",
+      "title": "Hoàng tử Nhật Bản làm lễ trưởng thành",
+      "link": "https://vnexpress.net/hoang-tu-nhat-ban-lam-le-truong-thanh-4936035.html",
+      "summary": "Hoàng gia Nhật Bản tổ chức lễ trưởng thành cho Hoàng tử Hisahito, người đứng thứ hai trong danh sách kế vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T15:09:57+07:00",
+      "fetched": "2025-09-06T23:16:57.420232+07:00"
+    },
+    {
+      "id": "a370f7077df7dc2b4b8201ec0b2b6eab",
+      "title": "Hoàng tử Nhật Bản làm lễ trưởng thành",
+      "link": "https://vnexpress.net/hoang-tu-nhat-ban-lam-le-truong-thanh-4936035.html",
+      "summary": "Hoàng gia Nhật Bản tổ chức lễ trưởng thành cho Hoàng tử Hisahito, người đứng thứ hai trong danh sách kế vị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T15:09:57+07:00",
+      "fetched": "2025-09-06T23:17:01.775084+07:00"
+    },
+    {
+      "id": "94373802c52cd375e9fb682954254e96",
+      "title": "Văn Thuận ghi bàn quý như vàng, U.23 Việt Nam vất vả thắng Singapore",
+      "link": "https://thanhnien.vn/van-thuan-ghi-ban-quy-nhu-vang-u23-viet-nam-vat-va-thang-singapore-185250906215830348.htm",
+      "summary": "19 giờ ngày 6.9, U.23 Việt Nam đã có chiến thắng quan trọng 1-0 trước U.23 Singapore ở lượt trận thứ 2 bảng C vòng loại U.23 châu Á 2026. Với chiến thắng này, thầy trò HLV Kim Sang-sik đã củng cố vị trí vững chắc trong cuộc đua giành vé tham dự vòng chung kết U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T15:01:00+07:00",
+      "fetched": "2025-09-06T23:17:00.144689+07:00"
+    },
+    {
+      "id": "91c2b790a24e53069ac0ef16fde418a8",
+      "title": "Hà Tâm Như lên đường thi Hoa hậu Chuyển giới Quốc tế",
+      "link": "https://vnexpress.net/ha-tam-nhu-len-duong-thi-hoa-hau-chuyen-gioi-quoc-te-4936010.html",
+      "summary": "Người đẹp chuyển giới Hà Tâm Như mang theo gần 100 kg hành lý đến Thái Lan thi Miss International Queen 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:55:48+07:00",
+      "fetched": "2025-09-06T23:16:57.420403+07:00"
+    },
+    {
+      "id": "3e5e4074f1a0394668af02cb6a3ad543",
+      "title": "Man Utd muốn đẩy Onana sang Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/man-utd-muon-day-onana-sang-tho-nhi-ky-4936036.html",
+      "summary": "Đội chủ sân Old Trafford chấp thuận cho Trabzonspor mượn Andre Onana, và quyết định cuối cùng thuộc về thủ thành người Cameroon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:55:06+07:00",
+      "fetched": "2025-09-06T23:16:57.420569+07:00"
+    },
+    {
+      "id": "3e5e4074f1a0394668af02cb6a3ad543",
+      "title": "Man Utd muốn đẩy Onana sang Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/man-utd-muon-day-onana-sang-tho-nhi-ky-4936036.html",
+      "summary": "Đội chủ sân Old Trafford chấp thuận cho Trabzonspor mượn Andre Onana, và quyết định cuối cùng thuộc về thủ thành người Cameroon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T14:55:06+07:00",
+      "fetched": "2025-09-06T23:17:06.366596+07:00"
+    },
+    {
+      "id": "4f187cdafcad07ef128c869bf549b65e",
+      "title": "Đà Nẵng: Chiếm đoạt 5 lô đất, vợ chồng lĩnh án 17 năm tù",
+      "link": "https://thanhnien.vn/da-nang-chiem-doat-5-lo-dat-vo-chong-linh-an-17-nam-tu-185250906202534567.htm",
+      "summary": "TAND TP.Đà Nẵng tuyên phạt Võ Nhi 14 năm tù, Trần Kim Tuyến (vợ Nhi) 3 năm tù vì chiếm đoạt 5 lô đất trị giá hơn 57 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:53:00+07:00",
+      "fetched": "2025-09-06T23:17:00.144845+07:00"
+    },
+    {
+      "id": "5089551ad81fd9976fe47ffe1bc1639b",
+      "title": "Phú Quốc: Nữ sinh lớp 5 rơi xuống hố công trình đuối nước tử vong",
+      "link": "https://thanhnien.vn/phu-quoc-nu-sinh-lop-5-roi-xuong-ho-cong-trinh-duoi-nuoc-tu-vong-185250906201551334.htm",
+      "summary": "Khi đi chơi cùng bạn ở khu vực hố công trình gần khu tái định cư Suối Lớn, đặc khu Phú Quốc, tỉnh An Giang, nữ sinh lớp 5 đã bị trượt chân rơi xuống hố, đuối nước tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:52:00+07:00",
+      "fetched": "2025-09-06T23:17:00.144998+07:00"
+    },
+    {
+      "id": "7eb77865a9c674b28e272495f057e613",
+      "title": "Phản ứng bất ngờ của HLV Kim Sang-sik sau khi U.23 Việt Nam thắng nhọc đội yếu",
+      "link": "https://thanhnien.vn/phan-ung-bat-ngo-cua-hlv-kim-sang-sik-sau-khi-u23-viet-nam-thang-nhoc-doi-yeu-185250906214037827.htm",
+      "summary": "Tối 6.9, dù đội tuyển U.23 Việt Nam chỉ có được chiến thắng 1-0 trước đối thủ yếu U.23 Singapore ở vòng loại U.23 châu Á 2026, HLV Kim Sang-sik vẫn không phàn nàn quá nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:46:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145171+07:00"
+    },
+    {
+      "id": "d4b84a96d3c59e7aed7bef85f93fb0ed",
+      "title": "Indonesia cùng Malaysia thắng nhưng vẫn 'lâm nguy', U.23 Trung Quốc 'đè bẹp' đối thủ 10-0",
+      "link": "https://thanhnien.vn/indonesia-cung-malaysia-thang-nhung-van-lam-nguy-u23-trung-quoc-de-bep-doi-thu-10-0-185250906213410799.htm",
+      "summary": "Dù giành chiến thắng đậm ở lượt đấu thứ 2 vòng loại U.23 châu Á 2026 diễn ra tối 6.9 nhưng U.23 Indonesia và U.23 Malaysia được dự đoán sẽ gặp nhiều khó khăn ở lượt đấu cuối. Trong khi đó, U.23 Trung Quốc đã phần nào lấy lại niềm tin nơi CĐV khi có trận thắng đậm U.23 Quần đảo Bắc Mariana 10-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:38:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145329+07:00"
+    },
+    {
+      "id": "7430a1a425ad187fa606f1c8e9d4ef1e",
+      "title": "Xưởng sản xuất ô dù bốc cháy ngùn ngụt",
+      "link": "https://vnexpress.net/xuong-san-xuat-o-du-boc-chay-ngun-ngut-4936032.html",
+      "summary": "Xưởng sản xuất ô rộng hơn 400 m2 ở phố Ngô Gia Tự, phường Việt Hưng, bốc cháy ngùn ngụt tối 6/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:35:48+07:00",
+      "fetched": "2025-09-06T23:16:57.420724+07:00"
+    },
+    {
+      "id": "504c8d1f2222c216c12f263094cffcf3",
+      "title": "U.23 Việt Nam 1-0 U.23 Singapore: Đội chủ nhà vững vàng ngôi đầu bảng C",
+      "link": "https://thanhnien.vn/u23-viet-nam-1-0-u23-singapore-doi-chu-nha-vung-vang-ngoi-dau-bang-c-185250906213530111.htm",
+      "summary": "Chiến thắng trước Singapore giúp U.23 Việt Nam tiếp tục dẫn đầu bảng C với 6 điểm tuyệt đối sau 2 lượt trận. Đây là bước tiến lớn trong hành trình giành vé tham dự VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:35:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145494+07:00"
+    },
+    {
+      "id": "87d022c512d71d9eedef8764213abc8a",
+      "title": "Người hùng Văn Thuận: Chờ bàn thắng cho U.23 Việt Nam từ lâu, gửi tặng khán giả",
+      "link": "https://thanhnien.vn/nguoi-hung-van-thuan-cho-ban-thang-cho-u23-viet-nam-tu-lau-gui-tang-khan-gia-185250906212649046.htm",
+      "summary": "Tiền đạo Văn Thuận đã trở thành người hùng với bàn thắng duy nhất giúp đội tuyển U.23 Việt Nam đánh bại U.23 Singapore để giữ ngôi đầu bảng C, vòng loại giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:31:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145644+07:00"
+    },
+    {
+      "id": "f0a43d0c3ac1b3b6b6790398ec4c361b",
+      "title": "Tân Tổng lãnh sự Mỹ: Giới trẻ giữ vai trò cầu nối tương lai",
+      "link": "https://thanhnien.vn/tan-tong-lanh-su-my-gioi-tre-giu-vai-tro-cau-noi-tuong-lai-185250906204905146.htm",
+      "summary": "Tại Lễ hội Giao lưu Hữu nghị Việt Nam – Mỹ ở TP.HCM, Tân Tổng lãnh sự Mỹ Melissa A. Brown nhấn mạnh vai trò đặc biệt của giới trẻ và sự giao lưu nhân dân trong quan hệ song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:31:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145799+07:00"
+    },
+    {
+      "id": "0be5303613bbfb792896849a8c435f32",
+      "title": "Tổng thống Hàn Quốc ra chỉ đạo khẩn sau vụ công dân bị bắt tại Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-han-quoc-ra-chi-dao-khan-sau-vu-cong-dan-bi-bat-tai-my-185250906200049527.htm",
+      "summary": "Tổng thống Hàn Quốc Lee Jae-myung đã ra lệnh nỗ lực hết sức để ứng phó với vụ hàng trăm công dân Hàn Quốc bị cơ quan di trú Mỹ bắt giữ tại một nhà máy sản xuất pin ô tô ở Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:31:00+07:00",
+      "fetched": "2025-09-06T23:17:00.145951+07:00"
+    },
+    {
+      "id": "3d0fdc7cd8974e860799d1c9301457f1",
+      "title": "HLV U.23 Singapore khen U.23 Việt Nam không ngớt, ấn tượng với nhân vật này",
+      "link": "https://thanhnien.vn/hlv-u23-singapore-khen-u23-viet-nam-khong-ngot-an-tuong-voi-nhan-vat-nay-185250906210649629.htm",
+      "summary": "HLV Fridaus Kassim của đội U.23 Singapore đánh giá rất cao U.23 Việt Nam và dành nhiều lời khen cho đối thủ sau khi thất bại 0-1 trước đội chủ nhà ở lượt trận thứ 2 vòng loại U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:29:00+07:00",
+      "fetched": "2025-09-06T23:17:00.146101+07:00"
+    },
+    {
+      "id": "8058cd92ab0adcbc52347da9873538f2",
+      "title": "Bộ trưởng Xây dựng: Giá nhà tăng cao nhưng người mua thực chất ít",
+      "link": "https://vnexpress.net/bo-truong-xay-dung-gia-nha-tang-cao-nhung-nguoi-mua-thuc-chat-it-4936016.html",
+      "summary": "Bộ trưởng Trần Hồng Minh cho biết giá tăng cao nhưng người mua thực chất ít, nhiều dự án bỏ trống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:19:55+07:00",
+      "fetched": "2025-09-06T23:16:57.420877+07:00"
+    },
+    {
+      "id": "e7524dbbc25355b51af492dcce75fff8",
+      "title": "Nước lũ làm ngập đường dân sinh ven cao tốc Vĩnh Hảo - Phan Thiết",
+      "link": "https://vnexpress.net/nuoc-lu-lam-ngap-duong-dan-sinh-ven-cao-toc-vinh-hao-phan-thiet-4936019.html",
+      "summary": "Mưa lớn kéo dài khiến hầm chui và đường gom dân sinh tại khu vực cầu Sông Thăng, xã Hàm Thuận ngập sâu, giao thông bị chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:13:03+07:00",
+      "fetched": "2025-09-06T23:16:57.421033+07:00"
+    },
+    {
+      "id": "df0e91ffe834fb9446ac9aacea3f0bdf",
+      "title": "Nước Đông Nam Á nào miễn thuế thu nhập cá nhân?",
+      "link": "https://vnexpress.net/nuoc-dong-nam-a-nao-mien-thue-thu-nhap-ca-nhan-4935979.html",
+      "summary": "Đây là nước duy nhất ở Đông Nam Á không thu thuế thu nhập cá nhân, nhưng người dân vẫn hưởng nhiều phúc lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T14:11:18+07:00",
+      "fetched": "2025-09-06T23:16:57.421211+07:00"
+    },
+    {
       "id": "08e36e4b589d412076b1254a550a2650",
       "title": "Văn Thuận tỏa sáng, U.23 Việt Nam chật vật nhưng rồi cũng giành trọn 3 điểm trước Singapore",
       "link": "https://thanhnien.vn/van-thuan-toa-sang-u23-viet-nam-chat-vat-nhung-roi-cung-gianh-tron-3-diem-truoc-singapore-18525090621082427.htm",
@@ -671,6 +1061,26 @@ window.newsData_2025_09_06 = {
       "category": "Công nghệ",
       "published": "2025-09-06T13:49:14+07:00",
       "fetched": "2025-09-06T21:13:03.887587+07:00"
+    },
+    {
+      "id": "23ed764ee88b6ffe22ea59e4ee4c1940",
+      "title": "'Doanh nghiệp cần nâng cao chất lượng hồ sơ xin tài trợ nhiệm vụ'",
+      "link": "https://vnexpress.net/doanh-nghiep-can-nang-cao-chat-luong-ho-so-xin-tai-tro-nhiem-vu-4935984.html",
+      "summary": "Ông Đào Ngọc Chiến, Quỹ Nafosted khuyến nghị doanh nghiệp cần nâng cao chất lượng hồ sơ đề xuất nhiệm vụ trong bối cảnh Nhà nước tăng ngân sách tài trợ phát triển công nghệ chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:49:14+07:00",
+      "fetched": "2025-09-06T23:16:57.421672+07:00"
+    },
+    {
+      "id": "23ed764ee88b6ffe22ea59e4ee4c1940",
+      "title": "'Doanh nghiệp cần nâng cao chất lượng hồ sơ xin tài trợ nhiệm vụ'",
+      "link": "https://vnexpress.net/doanh-nghiep-can-nang-cao-chat-luong-ho-so-xin-tai-tro-nhiem-vu-4935984.html",
+      "summary": "Ông Đào Ngọc Chiến, Quỹ Nafosted khuyến nghị doanh nghiệp cần nâng cao chất lượng hồ sơ đề xuất nhiệm vụ trong bối cảnh Nhà nước tăng ngân sách tài trợ phát triển công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T13:49:14+07:00",
+      "fetched": "2025-09-06T23:17:05.060563+07:00"
     },
     {
       "id": "5467518c7f5a15c8694a7a20149ba4d0",
@@ -1551,6 +1961,16 @@ window.newsData_2025_09_06 = {
       "category": "Thể thao",
       "published": "2025-09-06T11:00:00+07:00",
       "fetched": "2025-09-06T19:28:32.316346+07:00"
+    },
+    {
+      "id": "b3bfe8999d12ad0d677eb01dcb313326",
+      "title": "Việt Nam nhọc nhằn giữ vững đỉnh bảng vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-singapore-hlv-kim-xoay-tua-doi-hinh-chinh-4935993-tong-thuat.html",
+      "summary": "Phải nhờ đến bàn thắng gần cuối hiệp hai của tiền vệ 19 tuổi Lê Văn Thuận, Việt Nam mới thắng được Singapore 1-0 ở lượt hai bảng C, vòng loại U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T11:00:00+07:00",
+      "fetched": "2025-09-06T23:17:06.366921+07:00"
     },
     {
       "id": "5d1d2ef791c8c72af2c58c55b1123ee8",
