@@ -1,7 +1,157 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T13:21:45.857653+07:00",
+  "lastUpdated": "2025-09-07T15:18:17.766475+07:00",
   "articles": [
+    {
+      "id": "2c6899c9d95ecd55dc608c4a9cedbb2a",
+      "title": "Đóng bảo hiểm xã hội được 6 năm thì nghỉ hưu, làm sao để được hưởng lương hưu?",
+      "link": "https://tuoitre.vn/dong-bao-hiem-xa-hoi-duoc-6-nam-thi-nghi-huu-lam-sao-de-duoc-huong-luong-huu-20250904141510935.htm",
+      "summary": "Tôi năm nay 55 tuổi, đóng bảo hiểm xã hội được 6 năm, tôi muốn đóng tự nguyện 9 năm nữa để được hưởng lương hưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813841+07:00",
+      "fetched": "2025-09-07T15:18:11.813998+07:00"
+    },
+    {
+      "id": "68a626c16ead3755d61f3a9537b81f28",
+      "title": "Thủ tướng Nhật Bản Shigeru Ishiba quyết định từ chức",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-shigeru-ishiba-quyet-dinh-tu-chuc-20250907133838219.htm",
+      "summary": "Đài NHK News Nhật Bản ngày 7-9 đưa tin Thủ tướng Shigeru Ishiba đã quyết định từ chức nhằm tránh tình trạng chia rẽ trong nội bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813709+07:00",
+      "fetched": "2025-09-07T15:18:11.813826+07:00"
+    },
+    {
+      "id": "904f3eaffa0e9034697c8cf13f2e5603",
+      "title": "Chọn nhân sự cho loạt dự án tỉ USD tại TP.HCM: 'Quyết đoán, chọn đúng người đúng việc'",
+      "link": "https://tuoitre.vn/chon-nhan-su-cho-loat-du-an-ti-usd-tai-tp-hcm-quyet-doan-chon-dung-nguoi-dung-viec-20250907082216043.htm",
+      "summary": "Cơ hội chưa từng có nhưng thách thức lớn, đòi hỏi TP.HCM phải quyết đoán chọn nhà đầu tư, chọn đội ngũ cán bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813590+07:00",
+      "fetched": "2025-09-07T15:18:11.813698+07:00"
+    },
+    {
+      "id": "f76e9bf5d1c51409318ce870661ac07a",
+      "title": "Đài Tiếng nói Việt Nam đón nhận Huân chương Hồ Chí Minh lần thứ 3",
+      "link": "https://tuoitre.vn/dai-tieng-noi-viet-nam-don-nhan-huan-chuong-ho-chi-minh-lan-thu-3-2025090713580122.htm",
+      "summary": "Ngày 7-9, tại Hà Nội, Đài Tiếng nói Việt Nam (VOV) long trọng tổ chức Lễ kỷ niệm 80 năm ngày thành lập đài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813469+07:00",
+      "fetched": "2025-09-07T15:18:11.813579+07:00"
+    },
+    {
+      "id": "b8019931aff762694073387749f15252",
+      "title": "Anh Tạ 'Mưa đỏ' khóc kể về ông nội liệt sĩ: Giá như trên chiến trường có sự vị tha",
+      "link": "https://tuoitre.vn/anh-ta-mua-do-khoc-ke-ve-ong-noi-liet-si-gia-nhu-tren-chien-truong-co-su-vi-tha-20250907092139098.htm",
+      "summary": "Diễn viên Phương Nam - tiểu đội trưởng Tạ trong 'Mưa đỏ' - khóc rưng rức khi nhắc về ông nội là liệt sĩ, nguồn cảm hứng lớn lao của anh khi đóng phim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813346+07:00",
+      "fetched": "2025-09-07T15:18:11.813457+07:00"
+    },
+    {
+      "id": "f941084cf4e76bf38148626f5ba01171",
+      "title": "Sinh đủ 2 con trước 35 tuổi: Đã nhận 3 triệu đồng, nay có được nhận thêm 2 triệu?",
+      "link": "https://tuoitre.vn/sinh-du-2-con-truoc-35-tuoi-da-nhan-3-trieu-dong-nay-co-duoc-nhan-them-2-trieu-2025090517483532.htm",
+      "summary": "Kể từ 1-9-2025, chính sách hỗ trợ phụ nữ sinh đủ 2 con trước 35 tuổi bước sang giai đoạn mới với mức hỗ trợ tăng lên 5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813222+07:00",
+      "fetched": "2025-09-07T15:18:11.813334+07:00"
+    },
+    {
+      "id": "e2144d61fc982e59044b174cbd3c8657",
+      "title": "Cát lại tràn xuống cao tốc Vĩnh Hảo - Phan Thiết",
+      "link": "https://tuoitre.vn/cat-lai-tran-xuong-cao-toc-vinh-hao-phan-thiet-2025090712193794.htm",
+      "summary": "Cát lại tràn xuống mặt đường gây khó khăn trong lưu thông trên cao tốc Vĩnh Hảo - Phan Thiết, đoạn qua xã Hàm Liêm, tỉnh Lâm Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.813089+07:00",
+      "fetched": "2025-09-07T15:18:11.813210+07:00"
+    },
+    {
+      "id": "0d05edce63dba2d162ec72ee2ecc4241",
+      "title": "Trẻ chưa đăng ký thường trú, nhận quà 100.000 đồng ra sao?",
+      "link": "https://tuoitre.vn/tre-chua-dang-ky-thuong-tru-nhan-qua-100-000-dong-ra-sao-20250907101503718.htm",
+      "summary": "\"Do công việc bận nên gia đình tôi không biết chuyện phải đăng ký thường trú cho bé vì cứ nghĩ rằng đã đăng ký khai sinh\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812964+07:00",
+      "fetched": "2025-09-07T15:18:11.813078+07:00"
+    },
+    {
+      "id": "3a400273a942f9119f7f84337d2fc401",
+      "title": "Honda làm mô tô điện đầu tay: Sạc nhanh như ô tô, ra mắt cuối năm 2025",
+      "link": "https://tuoitre.vn/honda-lam-mo-to-dien-dau-tay-sac-nhanh-nhu-o-to-ra-mat-cuoi-nam-2025-20250907094542288.htm",
+      "summary": "Gần một năm sau khi hé lộ hình ảnh ban đầu, Honda công bố loạt hình ảnh chạy thử nghiệm mẫu mô tô điện đầu tiên của hãng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812822+07:00",
+      "fetched": "2025-09-07T15:18:11.812951+07:00"
+    },
+    {
+      "id": "563fcb0abf3e2b79f690e37e12c8a80c",
+      "title": "Thắng chóng vánh Lý Hoàng Nam, Phúc Huỳnh vô địch PPA Asia 2025",
+      "link": "https://tuoitre.vn/thang-chong-vanh-ly-hoang-nam-phuc-huynh-vo-dich-ppa-asia-2025-20250907141344432.htm",
+      "summary": "Trận chung kết pickleball đơn nam chuyên nghiệp PPA Asia – Việt Nam Open 2025 đã kết thúc nhanh chóng với kết quả 2-0 cho Phúc Huỳnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812699+07:00",
+      "fetched": "2025-09-07T15:18:11.812811+07:00"
+    },
+    {
+      "id": "250eeb9c8de7263dd09438dbf5ba7d95",
+      "title": "Tân Thủ tướng Thái Lan hứa đưa đất nước tiến lên với tốc độ có thể bù đắp những cơ hội đã mất",
+      "link": "https://tuoitre.vn/tan-thu-tuong-thai-lan-hua-dua-dat-nuoc-tien-len-voi-toc-do-co-the-bu-dap-nhung-co-hoi-da-mat-20250907131820744.htm",
+      "summary": "Ngày 7-9, Quốc vương Thái Lan Maha Vajiralongkorn đã phê chuẩn ông Anutin Charnvirakul làm Thủ tướng mới của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812574+07:00",
+      "fetched": "2025-09-07T15:18:11.812687+07:00"
+    },
+    {
+      "id": "dfb9bfa7cab2a92c4130665365809d22",
+      "title": "Nguyễn Văn Chung viết nhạc phim 'Mưa đỏ' không hướng tới view hay thứ hạng",
+      "link": "https://tuoitre.vn/nguyen-van-chung-viet-nhac-phim-mua-do-khong-huong-toi-view-hay-thu-hang-20250907130804308.htm",
+      "summary": "Nguyễn Văn Chung nói viết ca khúc nhạc phim Nỗi đau giữa hòa bình không phải là vì lượt view hay thứ hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812446+07:00",
+      "fetched": "2025-09-07T15:18:11.812562+07:00"
+    },
+    {
+      "id": "3b5f67a36f43bd20b12e343184afad87",
+      "title": "Rà soát trường hợp chưa nhận quà 100.000 đồng; Thay lốp xe trên cao tốc, tài xế bị phạt 13 triệu",
+      "link": "https://tuoitre.vn/ra-soat-truong-hop-chua-nhan-qua-100-000-dong-thay-lop-xe-tren-cao-toc-tai-xe-bi-phat-13-trieu-20250907110105483.htm",
+      "summary": "Hạn chế trang trí hoa tươi trong lễ khai giảng; Nhiều thắc mắc về cách nhận quà 100.000 đồng... đã thu hút nhiều bạn đọc phản hồi tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812314+07:00",
+      "fetched": "2025-09-07T15:18:11.812434+07:00"
+    },
+    {
+      "id": "fe42f22dba720eadad497a6431bad968",
+      "title": "Chính quyền nói gì sau vụ 18 mộ liệt sĩ ở Phú Thọ bị đục phá?",
+      "link": "https://tuoitre.vn/chinh-quyen-noi-gi-sau-vu-18-mo-liet-si-o-phu-tho-bi-duc-pha-20250907123237077.htm",
+      "summary": "Liên quan phản ánh của báo chí về vụ 18 ngôi mộ liệt sĩ bị đục phá ở xã Thanh Ba (Phú Thọ), Sở Nội vụ tỉnh Phú Thọ đã có báo cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.812173+07:00",
+      "fetched": "2025-09-07T15:18:11.812301+07:00"
+    },
+    {
+      "id": "572a7e2ad201dc4a1fda7ba3e5cf3443",
+      "title": "Có thể dùng âm nhạc giảm lo lắng, stress cho người đau răng?",
+      "link": "https://tuoitre.vn/co-the-dung-am-nhac-giam-lo-lang-stress-cho-nguoi-dau-rang-20250907144640437.htm",
+      "summary": "Có những người bệnh cả đời không dám đến nha sĩ vì sợ đau. Có những em bé đến phòng nha và khóc thét, người lớn đổ mồ hôi vì \"nỗi sợ nha khoa\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:18:11.811979+07:00",
+      "fetched": "2025-09-07T15:18:11.812158+07:00"
+    },
     {
       "id": "6bb1da8dd037eaff6681a210b37b49f9",
       "title": "Danh sách 18 đội tuyển chính thức bị loại ở U23 châu Á 2026",
@@ -603,6 +753,356 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T08:18:07.273551+07:00"
     },
     {
+      "id": "2257c75dd918acd7c273f1e9da8dd69f",
+      "title": "Gia đình trẻ làm công ăn lương mong sớm nâng mức giảm trừ gia cảnh thuế TNCN",
+      "link": "https://thanhnien.vn/gia-dinh-tre-lam-cong-an-luong-mong-som-nang-muc-giam-tru-gia-canh-thue-tncn-185250907151537981.htm",
+      "summary": "Mức giảm trừ gia cảnh 11 triệu đồng cho bản thân và 4,4 triệu đồng cho mỗi người phụ thuộc đang bị xem là quá thấp so với chi phí sinh hoạt, nuôi con ngày càng đắt đỏ tại các đô thị lớn. Các gia đình trẻ mong mỏi chính sách sớm được điều chỉnh để giảm bớt gánh nặng tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:15:00+07:00",
+      "fetched": "2025-09-07T15:18:10.773668+07:00"
+    },
+    {
+      "id": "556fcb8775ccfb8997a3855e99f15e14",
+      "title": "Những tính năng đã biến mất khỏi smartphone",
+      "link": "https://thanhnien.vn/nhung-tinh-nang-da-bien-mat-khoi-smartphone-185250904134335126.htm",
+      "summary": "Thiết kế và tính năng của smartphone đã trải qua những thay đổi đáng kể trong suốt hai thập kỷ trở lại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:13:00+07:00",
+      "fetched": "2025-09-07T15:18:10.773833+07:00"
+    },
+    {
+      "id": "c2e7ede9345424aed90548661b549f3d",
+      "title": "GAM thua bạc nhược 0-2 PSG: LMHT Việt Nam mất vé thứ 2 đi CKTG",
+      "link": "https://thanhnien.vn/gam-thua-bac-nhuoc-0-2-psg-lmht-viet-nam-mat-ve-thu-2-di-cktg-1852509071349473.htm",
+      "summary": "Cả 3 đại diện Việt Nam cùng rơi xuống nhánh thua, giành nhau tấm vé duy nhất còn lại đến CKTG. Nhưng câu hỏi lớn là liệu GAM còn đủ bản lĩnh để đứng dậy sau thất bại muối mặt này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:11:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774006+07:00"
+    },
+    {
+      "id": "c3af3936bb991acfc3bae58e106de4ee",
+      "title": "Thủ môn qua đời sau khi cản phá thành công quả phạt đền",
+      "link": "https://thanhnien.vn/thu-mon-qua-doi-sau-khi-can-pha-thanh-cong-qua-phat-den-185250907142852384.htm",
+      "summary": "Thủ môn Antonio Edson dos Santos Sousa, 34 tuổi đã ngã quỵ trên sân ngay khi vừa lao đến ăn mừng cùng đồng đội sau pha cứu thua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:10:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774158+07:00"
+    },
+    {
+      "id": "1bfc680b0de58e5a163b1dc73188a656",
+      "title": "Người miền Tây mưu sinh: Lặn hụp vớt trùn chỉ giữa dòng nước đen ngòm",
+      "link": "https://thanhnien.vn/nguoi-mien-tay-muu-sinh-lan-hup-vot-trun-chi-giua-dong-nuoc-den-ngom-185250829091442483.htm",
+      "summary": "Bất chấp dòng nước đen ngòm, nồng nặc mùi hôi, đối mặt nhiều nguy hiểm… nhiều người miền Tây mưu sinh bằng cách bám trụ sông Maspero mỗi ngày để vớt trùn chỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:08:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774306+07:00"
+    },
+    {
+      "id": "436dca6e09dbbf34354fb022e0ad5f4c",
+      "title": "'VOV phải trở thành một trong những đài phát thanh hàng đầu trong khu vực'",
+      "link": "https://thanhnien.vn/vov-phai-tro-thanh-mot-trong-nhung-dai-phat-thanh-hang-dau-trong-khu-vuc-185250907132036381.htm",
+      "summary": "Đài Tiếng nói Việt Nam (VOV) phải xác định rõ tầm nhìn, xây dựng chiến lược, chương trình, kế hoạch cụ thể hiện thực hóa khát vọng, quyết tâm trở thành một trong những đài phát thanh hàng đầu trong khu vực, tiếp tục giữ vững và phát huy hơn nữa khát vọng, trọng trách 'Tiếng nói Việt Nam' nhìn xa trô...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:07:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774455+07:00"
+    },
+    {
+      "id": "d7c2619d4318deafa7967c672167d318",
+      "title": "Chỉ ăn thịt trắng có đủ chất?",
+      "link": "https://vnexpress.net/chi-an-thit-trang-co-du-chat-4935601.html",
+      "summary": "Thịt trắng ít calo, tốt cho tim mạch, nhưng cần kết hợp thịt đỏ, cá, trứng, sữa, đậu, rau xanh để tránh thiếu sắt, B12, đảm bảo dinh dưỡng cân bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:00:00+07:00",
+      "fetched": "2025-09-07T15:18:07.872227+07:00"
+    },
+    {
+      "id": "964a364209905f3a7512f6db9829725f",
+      "title": "Trái tim cho em",
+      "link": "https://thanhnien.vn/trai-tim-cho-em-18525090511172246.htm",
+      "summary": "Năm 2020 và 2024, chương trình 'Trái tim cho em' được triển khai tại tỉnh Phú Yên (nay là tỉnh Đắk Lắk). Đây là chương trình phẫu thuật tim nhân đạo cho trẻ em có hoàn cảnh khó khăn dưới 18 tuổi do Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), Quỹ tấm lòng Việt - Đài Truyền hình Việt Nam phố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:00:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774602+07:00"
+    },
+    {
+      "id": "8ec75d9461e2817a8727677c8fff4c5f",
+      "title": "Vườn rau xanh mướt của chàng trai Việt tại Nhật Bản",
+      "link": "https://thanhnien.vn/vuon-rau-xanh-muot-cua-chang-trai-viet-tai-nhat-ban-185250907144213662.htm",
+      "summary": "Nguyễn Đình Nghĩa (25 tuổi), quê Thái Nguyên đã biến mảnh đất rộng 400 m² tại tỉnh Tochigi (Nhật Bản) thành một khu vườn xanh mướt với nhiều loại rau củ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:57:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774747+07:00"
+    },
+    {
+      "id": "68e685a149da8b264b6b9b96b77b2f7d",
+      "title": "Tân Thủ tướng Thái Lan quỳ lạy tranh Quốc vương khi nhậm chức",
+      "link": "https://vnexpress.net/tan-thu-tuong-thai-lan-quy-lay-tranh-quoc-vuong-khi-nham-chuc-4936162.html",
+      "summary": "Ông Anutin quỳ lạy trước chân dung Vua Maha Vajiralongkorn khi nhận sắc lệnh phê chuẩn làm Thủ tướng Thái Lan, cam kết làm việc \"không ngừng nghỉ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:52:07+07:00",
+      "fetched": "2025-09-07T15:18:07.872413+07:00"
+    },
+    {
+      "id": "68e685a149da8b264b6b9b96b77b2f7d",
+      "title": "Tân Thủ tướng Thái Lan quỳ lạy tranh Quốc vương khi nhậm chức",
+      "link": "https://vnexpress.net/tan-thu-tuong-thai-lan-quy-lay-tranh-quoc-vuong-khi-nham-chuc-4936162.html",
+      "summary": "Ông Anutin quỳ lạy trước chân dung Vua Maha Vajiralongkorn khi nhận sắc lệnh phê chuẩn làm Thủ tướng Thái Lan, cam kết làm việc \"không ngừng nghỉ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T07:52:07+07:00",
+      "fetched": "2025-09-07T15:18:13.154558+07:00"
+    },
+    {
+      "id": "13c59518dd8c0e02ab06a143ef55d789",
+      "title": "Tủ đồ triệu USD của 'Nữ hoàng RichTok'",
+      "link": "https://vnexpress.net/tu-do-trieu-usd-cua-nu-hoang-richtok-4935884.html",
+      "summary": "Becca Bloom - được mệnh danh \"Nữ hoàng RichTok\" - có bộ sưu tập váy áo, túi xách của Chanel, Hermes, Valentino.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:51:15+07:00",
+      "fetched": "2025-09-07T15:18:07.872578+07:00"
+    },
+    {
+      "id": "5ebeebf765b6ce90be3c2f29b65092df",
+      "title": "Du khách Hàn Quốc cảm ơn công an giúp tìm lại tài sản ở Gia Lai",
+      "link": "https://thanhnien.vn/du-khach-han-quoc-cam-on-cong-an-giup-tim-lai-tai-san-o-gia-lai-185250907135533377.htm",
+      "summary": "Công an phường Quy Nhơn Đông (Gia Lai) nhanh chóng tìm lại ví và điện thoại bị mất, trao trả cho một du khách Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:45:00+07:00",
+      "fetched": "2025-09-07T15:18:10.774905+07:00"
+    },
+    {
+      "id": "a5e33a6aa7cf6a612bf78b873f9045d7",
+      "title": "Đà Nẵng: Nguyên chủ tịch xã cùng nhiều cán bộ huyện bị khai trừ ra khỏi Đảng",
+      "link": "https://thanhnien.vn/da-nang-nguyen-chu-tich-xa-cung-nhieu-can-bo-huyen-bi-khai-tru-ra-khoi-dang-185250907140734251.htm",
+      "summary": "Một nguyên chủ tịch UBND xã và nhiều cán bộ huyện ở tỉnh Quảng Nam cũ (nay là TP.Đà Nẵng) bị khai trừ ra khỏi Đảng vì có nhiều vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:35:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775064+07:00"
+    },
+    {
+      "id": "79c5328498d0cf7b16682d71b7d616bd",
+      "title": "U.23 Việt Nam khắc phục vấn đề duy nhất để đánh bại U.23 Yemen",
+      "link": "https://thanhnien.vn/u23-viet-nam-khac-phuc-van-de-duy-nhat-de-danh-bai-u23-yemen-185250907142334902.htm",
+      "summary": "Sau 2 chiến thắng thử nghiệm trước U.23 Bangladesh và U.23 Singapore, HLV Kim Sang-sik sẽ tung ra lực lượng U.23 Việt Nam mạnh nhất để đánh bại U.23 Yemen đoạt vé dự VCK giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:31:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775217+07:00"
+    },
+    {
+      "id": "da80b3869474331639c9cf57c2e91f8a",
+      "title": "Ukraine tố Nga tấn công lớn chưa từng thấy, đánh trúng tòa nhà chính phủ ở Kyiv",
+      "link": "https://thanhnien.vn/ukraine-to-nga-tan-cong-lon-chua-tung-thay-danh-trung-toa-nha-chinh-phu-o-kyiv-185250907135647104.htm",
+      "summary": "Giới chức Ukraine hôm nay 7.9 cáo buộc Nga đã tiến hành cuộc không kích ban đêm lớn nhất kể từ khi phát động chiến dịch quân sự ở Ukraine vào năm 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:30:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775362+07:00"
+    },
+    {
+      "id": "8a2b8b3074aac35375134fbc729360d6",
+      "title": "Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed",
+      "link": "https://vnexpress.net/ong-trump-rut-gon-danh-sach-ung-vien-chu-tich-fed-4936100.html",
+      "summary": "Cựu thống đốc Fed Kevin Warsh, cố vấn kinh tế Nhà Trắng Kevin Hassett hoặc thống đốc Fed Christopher Waller có thể là lãnh đạo tiếp theo của Fed.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:29:22+07:00",
+      "fetched": "2025-09-07T15:18:07.872738+07:00"
+    },
+    {
+      "id": "8a2b8b3074aac35375134fbc729360d6",
+      "title": "Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed",
+      "link": "https://vnexpress.net/ong-trump-rut-gon-danh-sach-ung-vien-chu-tich-fed-4936100.html",
+      "summary": "Cựu thống đốc Fed Kevin Warsh, cố vấn kinh tế Nhà Trắng Kevin Hassett hoặc thống đốc Fed Christopher Waller có thể là lãnh đạo tiếp theo của Fed.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T07:29:22+07:00",
+      "fetched": "2025-09-07T15:18:14.673472+07:00"
+    },
+    {
+      "id": "f3a8e0b7ca1c81df7a9fb72a0abde793",
+      "title": "TP.HCM: Tai nạn xe đầu kéo, người mẹ tử vong thương tâm, con gái bị thương",
+      "link": "https://thanhnien.vn/tphcm-tai-nan-xe-dau-keo-nguoi-me-tu-vong-thuong-tam-con-gai-bi-thuong-185250907133758979.htm",
+      "summary": "2 mẹ con chở nhau trên xe máy thì xảy ra tai nạn với xe đầu kéo. Vụ việc làm người mẹ tử vong, con gái bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:25:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775506+07:00"
+    },
+    {
+      "id": "82bd2b66b93897d17f9dab1dee202156",
+      "title": "CSGT TP.HCM xử lý tài xế đầu kéo vượt đèn đỏ trên quốc lộ 13",
+      "link": "https://thanhnien.vn/csgt-tphcm-xu-ly-tai-xe-dau-keo-vuot-den-do-tren-quoc-lo-13-185250907132253792.htm",
+      "summary": "Nam tài xế xe đầu kéo chạy sai làn, vượt đèn đỏ bị người dân ghi hình, phản ánh đến cơ quan chức năng. CSGT TP.HCM đã lập biên bản, với mức phạt từ 22 - 26 triệu đồng, trừ 4 điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:24:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775650+07:00"
+    },
+    {
+      "id": "27beb61b5678bd461a3455296b86e9d3",
+      "title": "TP.HCM: Đột quỵ trên đường bán vé số, cụ ông 70 tuổi tử vong thương tâm",
+      "link": "https://thanhnien.vn/tphcm-dot-quy-tren-duong-ban-ve-so-cu-ong-70-tuoi-tu-vong-thuong-tam-185250907141027212.htm",
+      "summary": "Người đi đường phát hiện một người đàn ông bán vé số gục tử vong trên chiếc xe ba bánh đậu ở lề đường Phạm Văn Đồng (TP.HCM), nghi do đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:22:00+07:00",
+      "fetched": "2025-09-07T15:18:10.775802+07:00"
+    },
+    {
+      "id": "be51e4785cebd4e189b424810ba7c312",
+      "title": "Bên trong vườn cây trĩu quả của Mỹ Tâm ở TP HCM",
+      "link": "https://vnexpress.net/ben-trong-vuon-cay-triu-qua-cua-my-tam-o-tp-hcm-4936163.html",
+      "summary": "Ngoài ca hát, Mỹ Tâm còn tạo cho mình một không gian xanh ở Củ Chi – nơi được xem là điểm cân bằng, giúp cô giữ nhịp sống riêng giữa lịch trình biểu diễn dày đặc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:07:34+07:00",
+      "fetched": "2025-09-07T15:18:07.872916+07:00"
+    },
+    {
+      "id": "3b72685ca97c575a20fa05e5a54c92c5",
+      "title": "Con vào dạ, mạ đi tu",
+      "link": "https://vnexpress.net/con-vao-da-ma-di-tu-4935801.html",
+      "summary": "Vài tháng trước, tôi có mặt bên Nhựt - người em đã quen biết gần hai mươi năm - trong khoảnh khắc buồn nhất của đời người: tiễn biệt mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:00:00+07:00",
+      "fetched": "2025-09-07T15:18:07.873101+07:00"
+    },
+    {
+      "id": "936824a7b11e2eda8b80e3b493188e14",
+      "title": "Câu thành ngữ đơn giản này là gì?",
+      "link": "https://vnexpress.net/cau-thanh-ngu-don-gian-nay-la-gi-4935679.html",
+      "summary": "Thành ngữ chỉ điều gì đó vô vị, không hấp dẫn, nhưng câu nói sáo rỗng, không có ý nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:00:00+07:00",
+      "fetched": "2025-09-07T15:18:07.873258+07:00"
+    },
+    {
+      "id": "da200d69cdb54736fecd60493d0fac3a",
+      "title": "Luyện nghe tiếng Anh với 'minimal pairs'",
+      "link": "https://vnexpress.net/luyen-nghe-tieng-anh-voi-minimal-pairs-4933724.html",
+      "summary": "Minimal pairs trong tiếng Anh là những cặp từ chỉ có một âm khác nhau như sit - seat, see - she, pay - bay..., đòi hỏi phải luyện tập mới nghe và phát âm chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:00:00+07:00",
+      "fetched": "2025-09-07T15:18:07.873419+07:00"
+    },
+    {
+      "id": "39a532bcc33e0158c87cff5d7cf23ef9",
+      "title": "Hàng trăm doanh nghiệp tham gia kết nối thương mại Việt - Italy",
+      "link": "https://vnexpress.net/hang-tram-doanh-nghiep-tham-gia-ket-noi-thuong-mai-viet-italy-4936155.html",
+      "summary": "Diễn đàn Doanh nghiệp Việt Nam - Italy quy tụ hơn 300 doanh nghiệp, tạo cơ hội kết nối B2B, ký kết hợp tác trong công nghệ, hạ tầng, y tế, ngày 4/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T07:00:00+07:00",
+      "fetched": "2025-09-07T15:18:07.873583+07:00"
+    },
+    {
+      "id": "612e88a5f11c8fd4f3257a0bf3edceb9",
+      "title": "Thống đốc Illinois cáo buộc ông Trump 'gây chiến' với Chicago",
+      "link": "https://vnexpress.net/thong-doc-illinois-cao-buoc-ong-trump-gay-chien-voi-chicago-4936132.html",
+      "summary": "Thống đốc Illinois cáo buộc Tổng thống Trump muốn \"gây chiến\" với Chicago, sau khi ông nói sẽ khiến thành phố hiểu lý do Lầu Năm Góc mang tên Bộ Chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:46:39+07:00",
+      "fetched": "2025-09-07T15:18:07.873759+07:00"
+    },
+    {
+      "id": "612e88a5f11c8fd4f3257a0bf3edceb9",
+      "title": "Thống đốc Illinois cáo buộc ông Trump 'gây chiến' với Chicago",
+      "link": "https://vnexpress.net/thong-doc-illinois-cao-buoc-ong-trump-gay-chien-voi-chicago-4936132.html",
+      "summary": "Thống đốc Illinois cáo buộc Tổng thống Trump muốn \"gây chiến\" với Chicago, sau khi ông nói sẽ khiến thành phố hiểu lý do Lầu Năm Góc mang tên Bộ Chiến tranh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T06:46:39+07:00",
+      "fetched": "2025-09-07T15:18:13.154730+07:00"
+    },
+    {
+      "id": "2ab89b185cd205b05bc3ebba413677e8",
+      "title": "Bí quyết giúp Sinner hóa giải cú giao bóng của đối thủ",
+      "link": "https://vnexpress.net/bi-quyet-giup-sinner-hoa-giai-cu-giao-bong-cua-doi-thu-4936157.html",
+      "summary": "Nhờ quan sát vị trí vai và cú tung bóng, Jannik Sinner đoán vị trí bóng mà cú giao của đối thủ sẽ đáp xuống, từ đó chủ động chiếm lấy vị trí tấn công để đáp trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:39:35+07:00",
+      "fetched": "2025-09-07T15:18:07.873941+07:00"
+    },
+    {
+      "id": "2ab89b185cd205b05bc3ebba413677e8",
+      "title": "Bí quyết giúp Sinner hóa giải cú giao bóng của đối thủ",
+      "link": "https://vnexpress.net/bi-quyet-giup-sinner-hoa-giai-cu-giao-bong-cua-doi-thu-4936157.html",
+      "summary": "Nhờ quan sát vị trí vai và cú tung bóng, Jannik Sinner đoán vị trí bóng mà cú giao của đối thủ sẽ đáp xuống, từ đó chủ động chiếm lấy vị trí tấn công để đáp trả.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T06:39:35+07:00",
+      "fetched": "2025-09-07T15:18:17.757120+07:00"
+    },
+    {
+      "id": "27f06b75b6b03cce6e2501f35b95c808",
+      "title": "Nghệ sĩ Hữu Châu kể tai nạn sân khấu của Thành Lộc",
+      "link": "https://vnexpress.net/nghe-si-huu-chau-ke-tai-nan-san-khau-cua-thanh-loc-4936085.html",
+      "summary": "Diễn viên Hữu Châu nói xót xa khi thấy đàn anh Thành Lộc từng nhịn đau vì đinh đâm xuyên bàn chân, trong vở \"Tấm Cám\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:25:13+07:00",
+      "fetched": "2025-09-07T15:18:07.874102+07:00"
+    },
+    {
+      "id": "609d3c9a60ecdec645fd9a4b3d85226a",
+      "title": "Rodri: 'Quả Bóng Vàng chẳng có ích gì với tôi'",
+      "link": "https://vnexpress.net/rodri-qua-bong-vang-chang-co-ich-gi-voi-toi-4936131.html",
+      "summary": "Tiền vệ Rodri cho rằng việc đoạt Quả Bóng Vàng không thể bù đắp cho nỗi ám ảnh chấn thương dây chằng chéo khiến anh phải nghỉ phần lớn mùa giải trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:21:42+07:00",
+      "fetched": "2025-09-07T15:18:07.874255+07:00"
+    },
+    {
+      "id": "609d3c9a60ecdec645fd9a4b3d85226a",
+      "title": "Rodri: 'Quả Bóng Vàng chẳng có ích gì với tôi'",
+      "link": "https://vnexpress.net/rodri-qua-bong-vang-chang-co-ich-gi-voi-toi-4936131.html",
+      "summary": "Tiền vệ Rodri cho rằng việc đoạt Quả Bóng Vàng không thể bù đắp cho nỗi ám ảnh chấn thương dây chằng chéo khiến anh phải nghỉ phần lớn mùa giải trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T06:21:42+07:00",
+      "fetched": "2025-09-07T15:18:17.757934+07:00"
+    },
+    {
+      "id": "766159429967e4e2876b445691f3e7cd",
+      "title": "'Hoàng tử Drill' muốn nhập ngũ",
+      "link": "https://vnexpress.net/hoang-tu-drill-muon-nhap-ngu-4936095.html",
+      "summary": "\"Hoàng tử Drill\" Thiên Tùng, 21 tuổi, viết đơn tình nguyện nhập ngũ với nguyện vọng được cống hiến cho Tổ quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:18:05+07:00",
+      "fetched": "2025-09-07T15:18:07.874414+07:00"
+    },
+    {
+      "id": "7fdf411fd9771397f6f001018c3d8f43",
+      "title": "Sạt lở cát tràn xuống cao tốc Vĩnh Hảo - Phan Thiết",
+      "link": "https://vnexpress.net/sat-lo-cat-tran-xuong-cao-toc-vinh-hao-phan-thiet-4936147.html",
+      "summary": "Thêm điểm sạt lở gây tràn cát trên cao tốc Vĩnh Hảo – Phan Thiết đoạn qua xã Hàm Liêm, cách vị trí cũ chừng 300 m, gây lo ngại an toàn trên tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T06:12:43+07:00",
+      "fetched": "2025-09-07T15:18:07.874572+07:00"
+    },
+    {
       "id": "aa9d6992c7d4aa8e7bc15c2c22e64d8e",
       "title": "Phúc Huỳnh thắng đậm Lý Hoàng Nam ở chung kết pickleball châu Á",
       "link": "https://vnexpress.net/phuc-huynh-thang-dam-ly-hoang-nam-o-chung-ket-pickleball-chau-a-4936154.html",
@@ -611,6 +1111,16 @@ window.newsData_2025_09_07 = {
       "category": "Thể thao",
       "published": "2025-09-07T06:11:17+07:00",
       "fetched": "2025-09-07T13:21:45.849028+07:00"
+    },
+    {
+      "id": "017e1fc1e1d688157437999a54857241",
+      "title": "Phúc Huỳnh 'hủy diệt' Lý Hoàng Nam ở chung kết pickleball châu Á",
+      "link": "https://vnexpress.net/phuc-huynh-huy-diet-ly-hoang-nam-o-chung-ket-pickleball-chau-a-4936154.html",
+      "summary": "Tay vợt Phúc Huỳnh chỉ mất 25 phút để hạ Lý Hoàng Nam 11-5, 11-1 ở chung kết đơn nam giải PPA Asia - MB Vietnam Open 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T06:11:17+07:00",
+      "fetched": "2025-09-07T15:18:17.757292+07:00"
     },
     {
       "id": "4b3d8f3fc8a4a8d41bb60dbff3cc2531",
