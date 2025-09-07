@@ -1,7 +1,57 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T15:18:17.766475+07:00",
+  "lastUpdated": "2025-09-07T17:15:06.713102+07:00",
   "articles": [
+    {
+      "id": "b216c55010e8e653d1346b012d01b280",
+      "title": "Rìa xa bão Tapah có thể gây dông, lốc ở vịnh Bắc Bộ",
+      "link": "https://tuoitre.vn/ria-xa-bao-tapah-co-the-gay-dong-loc-o-vinh-bac-bo-20250907140501112.htm",
+      "summary": "Do ảnh hưởng của rìa xa hoàn lưu bão Tapah (bão số 7), ở vịnh Bắc Bộ và vùng biển phía đông của Bắc Bộ có thể xuất hiện dông, lốc và gió giật mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:14:59.788978+07:00",
+      "fetched": "2025-09-07T17:14:59.789093+07:00"
+    },
+    {
+      "id": "176693a6a29c3c0a8aca3b085edd4880",
+      "title": "Bộ Công an đề xuất áp dụng biện pháp giám sát điện tử với người chưa thành niên phạm tội",
+      "link": "https://tuoitre.vn/bo-cong-an-de-xuat-ap-dung-bien-phap-giam-sat-dien-tu-voi-nguoi-chua-thanh-nien-pham-toi-2025090714183383.htm",
+      "summary": "Tại dự thảo nghị định, Bộ Công an đã đề xuất các trường hợp cụ thể có thể áp dụng biện pháp giám sát điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:14:59.788848+07:00",
+      "fetched": "2025-09-07T17:14:59.788966+07:00"
+    },
+    {
+      "id": "f4ef35f3b787daedcfda13209e6f4f29",
+      "title": "Vì sao chợ và khu dân cư Mỹ Khánh xây dựng 'lụi' suốt 8 năm?",
+      "link": "https://tuoitre.vn/vi-sao-cho-va-khu-dan-cu-my-khanh-xay-dung-lui-suot-8-nam-20250907145829791.htm",
+      "summary": "Dự án chợ và khu dân cư Mỹ Khánh, TP Long Xuyên cũ xây dựng hơn 8 năm nay nhưng nhiều hộ dân chưa có giấy tờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:14:59.788716+07:00",
+      "fetched": "2025-09-07T17:14:59.788836+07:00"
+    },
+    {
+      "id": "5f6bcf4e207184e3595907b47ced72f2",
+      "title": "Bệnh viện Ung bướu TP.HCM báo công an về fanpage mạo danh bệnh viện kêu gọi từ thiện",
+      "link": "https://tuoitre.vn/benh-vien-ung-buou-tp-hcm-bao-cong-an-ve-fanpage-mao-danh-benh-vien-keu-goi-tu-thien-2025090715002731.htm",
+      "summary": "Bệnh viện Ung bướu TP.HCM đã báo Công an TP.HCM về một fanpage mạo danh bệnh viện đăng số tài khoản để kêu gọi từ thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:14:59.788553+07:00",
+      "fetched": "2025-09-07T17:14:59.788702+07:00"
+    },
+    {
+      "id": "e057020e3b07d1a1c43a55c458320fb5",
+      "title": "Mưa đỏ vượt Mai trở thành số 1 doanh thu phòng vé Việt",
+      "link": "https://tuoitre.vn/mua-do-vuot-mai-tro-thanh-so-1-doanh-thu-phong-ve-viet-20250907121213495.htm",
+      "summary": "Chiều 7-9, phim Mưa đỏ đạt mốc 551,3 tỉ đồng chỉ sau 17 ngày chiếu, vượt phim Mai, trở thành phim top 1 doanh thu phòng vé Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:14:59.788308+07:00",
+      "fetched": "2025-09-07T17:14:59.788538+07:00"
+    },
     {
       "id": "2c6899c9d95ecd55dc608c4a9cedbb2a",
       "title": "Đóng bảo hiểm xã hội được 6 năm thì nghỉ hưu, làm sao để được hưởng lương hưu?",
@@ -453,6 +503,36 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T11:18:31.862796+07:00"
     },
     {
+      "id": "4e067d3f53c9052055fcdc9b7fc51b55",
+      "title": "Chồng nhạc sĩ ủng hộ Việt Hương làm thiện nguyện",
+      "link": "https://thanhnien.vn/chong-nhac-si-ung-ho-viet-huong-lam-thien-nguyen-185250907155414181.htm",
+      "summary": "Nhân mùa Vu Lan, gia đình nghệ sĩ Việt Hương - Hoài Phương tham gia chương trình thiện nguyện Túi gạo nghĩa tình, trao tặng 250 phần quà đến các hộ gia đình có hoàn cảnh khó khăn tại phường Hiệp Bình (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:14:00+07:00",
+      "fetched": "2025-09-07T17:14:58.810749+07:00"
+    },
+    {
+      "id": "a109e5fa65e3daff3c69ab1363f403e9",
+      "title": "Động thái mới của Đàm Vĩnh Hưng trong vụ kiện với tỉ phú Gerard",
+      "link": "https://thanhnien.vn/dong-thai-moi-cua-dam-vinh-hung-trong-vu-kien-voi-ti-phu-gerard-185250907154146947.htm",
+      "summary": "Luật sư của Đàm Vĩnh Hưng vừa nộp thỉnh nguyện đơn lên Tòa án liên bang, đề nghị chuyển vụ kiện giữa nam ca sĩ và doanh nhân Gerard Williams về lại Tòa án Thượng thẩm California (Mỹ). Phía nam ca sĩ cũng yêu cầu bị đơn thanh toán khoản chi phí 14.994 USD (hơn 395 triệu đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:05:00+07:00",
+      "fetched": "2025-09-07T17:14:58.810921+07:00"
+    },
+    {
+      "id": "501b50d5355adb3a0af5d4166ca33ab9",
+      "title": "Giá vàng tăng gần 49% trong một năm",
+      "link": "https://vnexpress.net/gia-vang-tang-gan-49-trong-mot-nam-4936181.html",
+      "summary": "Giá vàng trong nước tháng 8 tăng 48,6% so với cùng kỳ năm ngoái, còn chỉ số giá USD tăng 4,43%, theo Cục Thống kê.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T10:02:11+07:00",
+      "fetched": "2025-09-07T17:15:02.468948+07:00"
+    },
+    {
       "id": "fe1549552c117932868bda6e399a3303",
       "title": "Người dân ghi hình xe container vượt đèn đỏ trên quốc lộ 13, tài xế bị phạt nặng",
       "link": "https://tuoitre.vn/nguoi-dan-ghi-hinh-xe-container-vuot-den-do-tren-quoc-lo-13-tai-xe-bi-phat-nang-20250907070242603.htm",
@@ -601,6 +681,246 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T10:00:17.686933+07:00",
       "fetched": "2025-09-07T10:00:17.687146+07:00"
+    },
+    {
+      "id": "867a88b5cd964cd2c75f54afbd78f381",
+      "title": "'Mưa đỏ' vượt 'Mai' của Trấn Thành, trở thành phim Việt có doanh thu cao nhất",
+      "link": "https://thanhnien.vn/mua-do-vuot-mai-cua-tran-thanh-tro-thanh-phim-viet-co-doanh-thu-cao-nhat-185250907152414109.htm",
+      "summary": "Vượt qua thành tích 551,218 tỉ đồng của 'Mai', tác phẩm 'Mưa đỏ' trở thành phim điện ảnh Việt có doanh thu cao nhất, theo số liệu tham khảo từ Box Office Vietnam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:59:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811079+07:00"
+    },
+    {
+      "id": "538305d7e82171e3058131b00b8a9e06",
+      "title": "Cách kéo dài thêm một năm hỗ trợ miễn phí cho Windows 10",
+      "link": "https://thanhnien.vn/cach-keo-dai-them-mot-nam-ho-tro-mien-phi-cho-windows-10-185250906094011832.htm",
+      "summary": "Microsoft đã thông báo rằng họ sẽ chính thức ngừng hỗ trợ hệ điều hành Windows 10 kể từ sau ngày 14.10 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:57:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811232+07:00"
+    },
+    {
+      "id": "5495aa503fe8bd2d8766ef238fdbadc7",
+      "title": "Cà Mau công bố mở bán 250 căn nhà ở xã hội",
+      "link": "https://thanhnien.vn/ca-mau-cong-bo-mo-ban-250-can-nha-o-xa-hoi-185250907154642459.htm",
+      "summary": "Sau khi công bố mở bán 250 căn nhà ở xã hội, Sở Xây dựng Cà Mau đồng thời áp dụng quy định mới cho phép người đã có nhà ở nhưng xa nơi làm việc vẫn được mua nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:56:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811385+07:00"
+    },
+    {
+      "id": "936424d0582edd354f8e7d67705c3dd2",
+      "title": "Dân gặp khó vì tiền sử dụng đất quá cao",
+      "link": "https://thanhnien.vn/dan-gap-kho-vi-tien-su-dung-dat-qua-cao-185250907163911988.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường thừa nhận còn nhiều vướng mắc trong triển khai luật Đất đai, đặc biệt là chi phí chuyển mục đích sử dụng đất ở mức quá cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:55:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811538+07:00"
+    },
+    {
+      "id": "e976a4a42af6c3cc69a19db776bf31be",
+      "title": "Thủ tướng Nhật Bản từ chức lãnh đạo đảng cầm quyền",
+      "link": "https://thanhnien.vn/thu-tuong-nhat-ban-tu-chuc-lanh-dao-dang-cam-quyen-185250907164607392.htm",
+      "summary": "Thủ tướng Nhật Bản Ishiba Shigeru hôm nay (7.9) thông báo rời khỏi vị trí chủ tịch đảng Dân chủ Tự do (LDP) cầm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:53:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811719+07:00"
+    },
+    {
+      "id": "11f60ce355eeb215d37d090c56a1b790",
+      "title": "TP.HCM: Nhanh chóng bắt tài xế tấn công làm đồng nghiệp bị thương giữa đường",
+      "link": "https://thanhnien.vn/tphcm-nhanh-chong-bat-tai-xe-tan-cong-lam-dong-nghiep-bi-thuong-giua-duong-185250907161222501.htm",
+      "summary": "Chỉ sau khoảng 1 giờ gây án, công an đã truy xét, nhanh chóng bắt giữ tài xế xe tải tấn công làm đồng nghiệp bị thương, cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:39:00+07:00",
+      "fetched": "2025-09-07T17:14:58.811873+07:00"
+    },
+    {
+      "id": "adacdded9c96af2ad04a42579fc93a17",
+      "title": "Ông Trump ký sắc lệnh miễn thuế cho một số hàng hóa",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-mien-thue-cho-mot-so-hang-hoa-4936145.html",
+      "summary": "Các nước ký thỏa thuận thương mại với Mỹ sẽ được miễn thuế với nhiều sản phẩm như vàng, nickel, hóa chất... từ tuần tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T09:38:50+07:00",
+      "fetched": "2025-09-07T17:15:02.469122+07:00"
+    },
+    {
+      "id": "2d072edfca84d5b120dd08fd10965f2d",
+      "title": "Bộ Nội vụ muốn sàng lọc ngay viên chức yếu kém",
+      "link": "https://vnexpress.net/bo-noi-vu-muon-sang-loc-ngay-vien-chuc-yeu-kem-4935019.html",
+      "summary": "Dự Luật Viên chức sửa đổi do Bộ Nội vụ xây dựng hướng đến quản trị viên chức theo hiệu quả đầu ra, tạo cơ chế sàng lọc, đồng thời tăng tính tự chủ cho đơn vị sự nghiệp công lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:26:21+07:00",
+      "fetched": "2025-09-07T17:14:55.627200+07:00"
+    },
+    {
+      "id": "68d4e99c0ede3c4ecbc980c99846d654",
+      "title": "Thủ tướng Nhật Bản từ chức lãnh đạo đảng cầm quyền",
+      "link": "https://vnexpress.net/thu-tuong-nhat-ban-tu-chuc-lanh-dao-dang-cam-quyen-4936184.html",
+      "summary": "Thủ tướng Nhật Bản Ishiba thông báo rút khỏi chức chủ tịch đảng LDP cầm quyền, đồng nghĩa không còn giữ vị trí lãnh đạo chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:15:01+07:00",
+      "fetched": "2025-09-07T17:14:55.627395+07:00"
+    },
+    {
+      "id": "68d4e99c0ede3c4ecbc980c99846d654",
+      "title": "Thủ tướng Nhật Bản từ chức lãnh đạo đảng cầm quyền",
+      "link": "https://vnexpress.net/thu-tuong-nhat-ban-tu-chuc-lanh-dao-dang-cam-quyen-4936184.html",
+      "summary": "Thủ tướng Nhật Bản Ishiba thông báo rút khỏi chức chủ tịch đảng LDP cầm quyền, đồng nghĩa không còn giữ vị trí lãnh đạo chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T09:15:01+07:00",
+      "fetched": "2025-09-07T17:15:01.473422+07:00"
+    },
+    {
+      "id": "49a624d274a0ffd7e1168b2ec5129ac1",
+      "title": "Vừa có người trúng giải độc đắc 1,8 tỉ USD",
+      "link": "https://thanhnien.vn/vua-co-nguoi-trung-giai-doc-dac-18-ti-usd-185250907161052647.htm",
+      "summary": "Hai người may mắn ở bang Missouri và Texas của Mỹ đã trúng giải xổ số độc đắc Powerball trị giá 1,8 tỉ USD, với số tiền được chia đều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:15:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812023+07:00"
+    },
+    {
+      "id": "a29e670f60447964bdc37740f1ccc491",
+      "title": "Nước suối đỏ bất thường ở Nghệ An: Do xả thải trái phép",
+      "link": "https://thanhnien.vn/nuoc-suoi-do-bat-thuong-o-nghe-an-do-xa-thai-trai-phep-185250907151425447.htm",
+      "summary": "Chính quyền xã Châu Hồng, Nghệ An cho biết nguyên nhân khiến nước suối bất ngờ chuyển màu đỏ quạch là do doanh nghiệp khai thác thiếc đầu nguồn đã xả thải trái phép ra môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:06:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812179+07:00"
+    },
+    {
+      "id": "5c4658d04ed302bb58704d9a15362518",
+      "title": "Nga: Vắc xin ung thư giảm 80% khối u đã sẵn sàng sử dụng",
+      "link": "https://thanhnien.vn/nga-vac-xin-ung-thu-giam-80-khoi-u-da-san-sang-su-dung-185250907160008105.htm",
+      "summary": "Bà Veronika Skvortsova, Giám đốc Cơ quan Y sinh Liên bang Nga (FMBA), cựu Bộ trưởng Y tế Nga, vừa công bố vắc xin trị ung thư mới của Nga đã sẵn sàng để đưa vào sử dụng trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:00:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812332+07:00"
+    },
+    {
+      "id": "b35ff47428103d64f0e9b0ce0ba133f5",
+      "title": "Kết quả xổ số miền Nam ngày 7 tháng 9 - KQXS trực tiếp chủ nhật",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-7-thang-9-kqxs-truc-tiep-chu-nhat-185250907124637966.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 7 tháng 9; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật .... Đài Tiền Giang, Kiên Giang, Đà Lạt, Khánh Hòa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T09:00:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812489+07:00"
+    },
+    {
+      "id": "88b4a808e0be5b6f4ffa5ba0c382b92b",
+      "title": "'Bố già AI' bị bạn gái chia tay bằng ChatGPT",
+      "link": "https://vnexpress.net/bo-gia-ai-bi-ban-gai-chia-tay-bang-chatgpt-4936160.html",
+      "summary": "Nhà khoa học máy tính Geoffrey Hinton ưa dùng ChatGPT trong cuộc sống hàng ngày, nhưng chatbot lại góp phần trong cuộc chia tay của ông với bạn gái cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:49:59+07:00",
+      "fetched": "2025-09-07T17:14:55.627563+07:00"
+    },
+    {
+      "id": "88b4a808e0be5b6f4ffa5ba0c382b92b",
+      "title": "'Bố già AI' bị bạn gái chia tay bằng ChatGPT",
+      "link": "https://vnexpress.net/bo-gia-ai-bi-ban-gai-chia-tay-bang-chatgpt-4936160.html",
+      "summary": "Nhà khoa học máy tính Geoffrey Hinton ưa dùng ChatGPT trong cuộc sống hàng ngày, nhưng chatbot lại góp phần trong cuộc chia tay của ông với bạn gái cũ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-07T08:49:59+07:00",
+      "fetched": "2025-09-07T17:15:05.174656+07:00"
+    },
+    {
+      "id": "c2933da7557e2c11ed22cf61ad48212c",
+      "title": "Billiards: Trần Quyết Chiến thắng không tưởng với sê-ri khủng, hơn 20 điểm/lượt cơ",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-thang-khong-tuong-voi-se-ri-khung-hon-20-diem-luot-co-185250907154349092.htm",
+      "summary": "Ở trận đấu thuộc khuôn khổ bán kết giải billiards carom 3 băng diễn ra tại TP.HCM, cơ thủ số 1 Việt Nam Trần Quyết Chiến đã tung sê-ri cực lớn để giành chiến thắng thuyết phục Nguyễn Chí Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:48:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812655+07:00"
+    },
+    {
+      "id": "08d4559e9cf2195d8e629f5e121735b7",
+      "title": "Một công ty thưởng lớn cho nhân viên khi giảm cân",
+      "link": "https://thanhnien.vn/mot-cong-ty-thuong-lon-cho-nhan-vien-khi-giam-can-185250907153244456.htm",
+      "summary": "Một công ty Trung Quốc đã gây xôn xao dư luận khi phát động chương trình khuyến khích các nhân viên giảm cân với tiền thưởng lên tới 1 triệu nhân dân tệ (hơn 3,7 tỉ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:43:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812806+07:00"
+    },
+    {
+      "id": "d2ce098cf76b0c7370af76fa4c85ffa3",
+      "title": "Phó thủ tướng Trần Hồng Hà đốc thúc tiến độ sân bay Long Thành",
+      "link": "https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-doc-thuc-tien-do-san-bay-long-thanh-185250907151055483.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà cùng Đoàn công tác của Chính phủ đã đi kiểm tra tiến độ dự án sân bay Long Thành cùng các tuyến đường kết nối; đồng thời động viên tinh thần và đốc thúc để dự án hoàn thành đúng tiến độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:43:00+07:00",
+      "fetched": "2025-09-07T17:14:58.812957+07:00"
+    },
+    {
+      "id": "5ee2fd13befff043b9535808762f51c8",
+      "title": "Sinner - Alcaraz: Thời tiết quyết định đại chiến?",
+      "link": "https://vnexpress.net/sinner-alcaraz-thoi-tiet-quyet-dinh-dai-chien-4936164.html",
+      "summary": "Hai tay vợt hàng đầu thế giới Jannik Sinner và Carlos Alcaraz lần thứ ba liên tiếp chạm trán nhau ở chung kết Grand Slam, tại Mỹ Mở rộng 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:39:20+07:00",
+      "fetched": "2025-09-07T17:14:55.627772+07:00"
+    },
+    {
+      "id": "5ee2fd13befff043b9535808762f51c8",
+      "title": "Sinner - Alcaraz: Thời tiết quyết định đại chiến?",
+      "link": "https://vnexpress.net/sinner-alcaraz-thoi-tiet-quyet-dinh-dai-chien-4936164.html",
+      "summary": "Hai tay vợt hàng đầu thế giới Jannik Sinner và Carlos Alcaraz lần thứ ba liên tiếp chạm trán nhau ở chung kết Grand Slam, tại Mỹ Mở rộng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T08:39:20+07:00",
+      "fetched": "2025-09-07T17:15:06.702681+07:00"
+    },
+    {
+      "id": "f44c55e891610d389d43ed0be3b68e77",
+      "title": "Nga tập kích tên lửa, UAV quy mô lớn chưa từng thấy vào Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-ten-lua-uav-quy-mo-lon-chua-tung-thay-vao-ukraine-4936169.html",
+      "summary": "Ukraine cho biết Nga phóng 810 UAV và 13 tên lửa tấn công nước này, đòn tập kích lớn nhất từ đầu xung đột, gây hỏa hoạn tại trụ sở chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:36:11+07:00",
+      "fetched": "2025-09-07T17:14:55.627939+07:00"
+    },
+    {
+      "id": "f44c55e891610d389d43ed0be3b68e77",
+      "title": "Nga tập kích tên lửa, UAV quy mô lớn chưa từng thấy vào Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-ten-lua-uav-quy-mo-lon-chua-tung-thay-vao-ukraine-4936169.html",
+      "summary": "Ukraine cho biết Nga phóng 810 UAV và 13 tên lửa tấn công nước này, đòn tập kích lớn nhất từ đầu xung đột, gây hỏa hoạn tại trụ sở chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T08:36:11+07:00",
+      "fetched": "2025-09-07T17:15:01.473597+07:00"
+    },
+    {
+      "id": "63e5f64a593db1b1f9ed00b7e569621b",
+      "title": "Nấu canh rau ngót đúng cách",
+      "link": "https://vnexpress.net/nau-canh-rau-ngot-dung-cach-4936129.html",
+      "summary": "Canh rau ngót là món ăn gắn liền với mâm cơm mùa hè: giản dị, mát lành, nhưng nếu nấu không khéo dễ bị dai cứng, mất đi vị ngon tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:20:54+07:00",
+      "fetched": "2025-09-07T17:14:55.628099+07:00"
     },
     {
       "id": "e78b760fbf8c5443a45c51e5c8e05d9e",
@@ -763,6 +1083,16 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T15:18:10.773668+07:00"
     },
     {
+      "id": "0f784fcbc48c30b80783ab20bf91bda7",
+      "title": "Nỗi đau những học sinh khó khăn bị nêu tên trong lễ khai giảng",
+      "link": "https://vnexpress.net/hoc-sinh-ngheo-vuot-kho-hoc-sinh-co-hoan-canh-kho-khan-hoc-sinh-co-hoan-canh-dac-biet-noi-dau-nhung-hoc-sinh-kho-khan-bi-beu-ten-trong-le-khai-giang-4936166.html",
+      "summary": "'Tôi được chọn là thành phần đáng thương tiêu biểu, phải đứng trước cả trường để nhận quà, để rồi sống trong cái vỏ mặc cảm suốt đời học sinh'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:13:25+07:00",
+      "fetched": "2025-09-07T17:14:55.628262+07:00"
+    },
+    {
       "id": "556fcb8775ccfb8997a3855e99f15e14",
       "title": "Những tính năng đã biến mất khỏi smartphone",
       "link": "https://thanhnien.vn/nhung-tinh-nang-da-bien-mat-khoi-smartphone-185250904134335126.htm",
@@ -811,6 +1141,36 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T08:07:00+07:00",
       "fetched": "2025-09-07T15:18:10.774455+07:00"
+    },
+    {
+      "id": "b98ed374a5707f78aed9833254b93989",
+      "title": "Sân bay nào có vườn bươm bướm đầu tiên trên thế giới?",
+      "link": "https://vnexpress.net/san-bay-nao-co-vuon-buom-buom-dau-tien-tren-the-gioi-4936108.html",
+      "summary": "Sân bay không chỉ là trung tâm giao thông, nhiều nơi còn là điểm đến cho du khách khám phá những trải nghiệm văn hóa, ẩm thực, kiến trúc và giải trí độc đáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:06:59+07:00",
+      "fetched": "2025-09-07T17:14:55.628420+07:00"
+    },
+    {
+      "id": "22d76f1de4c84a2ec2ed9131607618a9",
+      "title": "Một trái tim ấm áp giữa Hà Nội, chờ anh đến sẻ chia",
+      "link": "https://vnexpress.net/mot-trai-tim-am-ap-giua-ha-noi-cho-anh-den-se-chia-4936121.html",
+      "summary": "Em 37 tuổi, quê Hưng Yên, sống và làm việc tại Hà Nội, từ nhỏ, em đã quen với nếp sống giản dị, coi trọng gia đình và tình cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:05:24+07:00",
+      "fetched": "2025-09-07T17:14:55.628519+07:00"
+    },
+    {
+      "id": "5e675675c58be72dcbb9b544b9cb9fa5",
+      "title": "Những 'kiếp nạn' của chàng trai 19 tuổi đi khắp thế giới",
+      "link": "https://vnexpress.net/nhung-kiep-nan-cua-chang-trai-19-tuoi-di-khap-the-gioi-4936165.html",
+      "summary": "Từ núp trong hầm trú bom đến suýt bị bắt cóc, hành trình đi khắp thế giới trong một năm của Arjun Malaviya khác xa với bạn bè cùng lứa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T08:04:40+07:00",
+      "fetched": "2025-09-07T17:14:55.628695+07:00"
     },
     {
       "id": "d7c2619d4318deafa7967c672167d318",
