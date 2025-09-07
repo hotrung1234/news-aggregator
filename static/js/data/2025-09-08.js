@@ -1,6 +1,6 @@
 window.newsData_2025_09_08 = {
   "date": "2025-09-08",
-  "lastUpdated": "2025-09-08T01:19:43.123195+07:00",
+  "lastUpdated": "2025-09-08T03:15:47.282807+07:00",
   "articles": [
     {
       "id": "af6a3f7b0748955649841c3fb7b93e49",
@@ -151,6 +151,26 @@ window.newsData_2025_09_08 = {
       "category": "Tổng hợp",
       "published": "2025-09-08T01:19:36.858997+07:00",
       "fetched": "2025-09-08T01:19:36.859212+07:00"
+    },
+    {
+      "id": "689aa0f4d1015e760835a9a13a328332",
+      "title": "Rước bệnh lậu sau oral sex",
+      "link": "https://vnexpress.net/ruoc-benh-lau-sau-oral-sex-4936168.html",
+      "summary": "Người đàn ông 32 tuổi tiểu buốt, rát và chảy mủ trắng đục từ niệu đạo sau khoảng 10 ngày trải nghiệm massage kích dục bằng miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:00:00+07:00",
+      "fetched": "2025-09-08T03:15:37.661178+07:00"
+    },
+    {
+      "id": "883f096f666be6c0db9a5a753e2ffb01",
+      "title": "5 thực phẩm nhiều purin dễ làm tăng acid uric",
+      "link": "https://vnexpress.net/5-thuc-pham-nhieu-purin-de-lam-tang-acid-uric-4936042.html",
+      "summary": "Người mắc chứng tăng acid uric máu nên hạn chế các món giàu purin như nội tạng động vật, hải sản, thịt đỏ, nước ngọt để giữ chỉ số ở mức an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T18:00:00+07:00",
+      "fetched": "2025-09-08T03:15:37.661376+07:00"
     },
     {
       "id": "51353a183450b5860f5a9489c7882340",
