@@ -1,7 +1,157 @@
 window.newsData_2025_09_09 = {
   "date": "2025-09-09",
-  "lastUpdated": "2025-09-09T19:35:34.148568+07:00",
+  "lastUpdated": "2025-09-09T21:14:27.761287+07:00",
   "articles": [
+    {
+      "id": "e75066db3a6da63fa49a19b42e61a3ac",
+      "title": "Bộ Chính trị cho ý kiến phương án nhân sự đại hội đảng bộ Hưng Yên, Cà Mau, Tuyên Quang, Tây Ninh",
+      "link": "https://tuoitre.vn/bo-chinh-tri-cho-y-kien-phuong-an-nhan-su-dai-hoi-dang-bo-hung-yen-ca-mau-tuyen-quang-tay-ninh-20250909185818887.htm",
+      "summary": "Các tổ công tác của Bộ Chính trị cho ý kiến về dự thảo văn kiện, phương án nhân sự trình đại hội đảng bộ Hưng Yên, Cà Mau, Tuyên Quang, Tây Ninh nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.185223+07:00",
+      "fetched": "2025-09-09T21:14:21.185360+07:00"
+    },
+    {
+      "id": "c9986a631d242b56bf9555e108c87890",
+      "title": "Cựu phó trưởng Công an phường Phạm Ngũ Lão và hai cấp dưới lãnh án",
+      "link": "https://tuoitre.vn/cuu-pho-truong-cong-an-phuong-pham-ngu-lao-va-hai-cap-duoi-lanh-an-20250909184751179.htm",
+      "summary": "Hội đồng xét xử cho rằng cựu phó trưởng Công an phường Phạm Ngũ Lão (TP.HCM) đồng ý để cấp dưới không lập hồ sơ vụ việc, không xử lý đối tượng có hành vi nghi vấn, qua đó để cấp dưới nhận hối lộ 50 triệu đồng nên phải chịu trách nhiệm chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.185099+07:00",
+      "fetched": "2025-09-09T21:14:21.185212+07:00"
+    },
+    {
+      "id": "af0a305b9d6ba16f532804ccac4082ec",
+      "title": "Kiến nghị bỏ quy hoạch cấp tỉnh và xã, thiết lập thu phí nhà đất",
+      "link": "https://tuoitre.vn/kien-nghi-bo-quy-hoach-cap-tinh-va-xa-thiet-lap-thu-phi-nha-dat-2025090918043567.htm",
+      "summary": "Viện Kinh tế tài nguyên và môi trường TP.HCM vừa có kiến nghị bỏ quy hoạch sử dụng đất cấp tỉnh và cấp xã, chỉ duy trì quy hoạch sử dụng đất cấp quốc gia, thiết lập nguồn thu phí nhà đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184965+07:00",
+      "fetched": "2025-09-09T21:14:21.185084+07:00"
+    },
+    {
+      "id": "e0fe8322d010696b48a49cf3a5262eeb",
+      "title": "‘Tiết kiệm Vikki trúng VÀNG ký’ với 29 phần quà giá trị",
+      "link": "https://tuoitre.vn/tiet-kiem-vikki-trung-vang-ky-voi-29-phan-qua-gia-tri-20250909142753582.htm",
+      "summary": "Ngày 4-9, Ngân hàng số Vikki đã tổ chức phiên livestream đặc biệt \"Tiết kiệm Vikki trúng VÀNG ký MÙA 2\", trao tặng 29 phần quà giá trị cho khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184840+07:00",
+      "fetched": "2025-09-09T21:14:21.184955+07:00"
+    },
+    {
+      "id": "e5d65574bd80e89fa2f9dee12937829c",
+      "title": "Đồng hành cùng hộ kinh doanh chuyển đổi số",
+      "link": "https://tuoitre.vn/dong-hanh-cung-ho-kinh-doanh-chuyen-doi-so-2025090915124291.htm",
+      "summary": "Sacombank kết hợp cùng các đối tác mang loạt giải pháp công nghệ đến từng cửa hàng, hỗ trợ cá nhân kinh doanh, hộ kinh doanh, tiểu thương từng bước chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184714+07:00",
+      "fetched": "2025-09-09T21:14:21.184829+07:00"
+    },
+    {
+      "id": "d3dcd624971673d8469a24ad135d559f",
+      "title": "CLB Trường Tươi Đồng Nai xuất quân hoành tráng, quyết lên chơi V-League",
+      "link": "https://tuoitre.vn/clb-truong-tuoi-dong-nai-xuat-quan-hoanh-trang-quyet-len-choi-v-league-20250909170152491.htm",
+      "summary": "CLB Trường Tươi Đồng Nai bày tỏ quyết tâm lớn giành quyền lên chơi ở V-League tại lễ xuất quân tham dự mùa giải mới 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184586+07:00",
+      "fetched": "2025-09-09T21:14:21.184703+07:00"
+    },
+    {
+      "id": "d6e2cd41dc386b4db8e0cae4b0026e18",
+      "title": "'Hoa khôi cầu lông' 18 tuổi của Thái Lan lại tỏa sáng",
+      "link": "https://tuoitre.vn/hoa-khoi-cau-long-18-tuoi-cua-thai-lan-lai-toa-sang-20250909191703141.htm",
+      "summary": "Pitchamon Opatniputh, ngôi sao cầu lông 18 tuổi đang gây sốt của Thái Lan, tiếp tục tỏa sáng khi bước vào Giải Hong Kong mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184461+07:00",
+      "fetched": "2025-09-09T21:14:21.184575+07:00"
+    },
+    {
+      "id": "2e42a340fcf835240c5073a9a66a61c4",
+      "title": "Đăng tin giả mình bị cướp tài sản, bị công an xử phạt 7,5 triệu đồng",
+      "link": "https://tuoitre.vn/dang-tin-gia-minh-bi-cuop-tai-san-bi-cong-an-xu-phat-7-5-trieu-dong-2025090919283997.htm",
+      "summary": "Một nam thanh niên ở phường Hội An Đông, TP Đà Nẵng bị xử phạt vi phạm hành chính vì đăng tin giả mình bị cướp tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184312+07:00",
+      "fetched": "2025-09-09T21:14:21.184449+07:00"
+    },
+    {
+      "id": "66f5b11f5963d51ae2f4f961262f4fb0",
+      "title": "Sân bay quốc tế trị giá 2 tỉ USD của Campuchia chính thức hoạt động",
+      "link": "https://tuoitre.vn/san-bay-quoc-te-tri-gia-2-ti-usd-cua-campuchia-chinh-thuc-hoat-dong-20250909193511579.htm",
+      "summary": "Việc sân bay quốc tế Techo đi vào hoạt động từ ngày 9-9 được xem là bước đi chiến lược của Campuchia, nhằm tạo cú hích cho ngành du lịch đang chật vật sau đại dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184170+07:00",
+      "fetched": "2025-09-09T21:14:21.184300+07:00"
+    },
+    {
+      "id": "906d9abf6e151ce1fb2b075cf90b4db4",
+      "title": "Khán giả Việt Nam giờ không còn dễ 'dụ'",
+      "link": "https://tuoitre.vn/khan-gia-viet-nam-gio-khong-con-de-du-20250909194039774.htm",
+      "summary": "Đạo diễn Đồi hành xác: Tà thuyết đen trở lại Lương Đình Dũng nói khán giả Việt Nam không còn dễ 'dụ' bởi phim có người nổi tiếng, dần tinh tế hơn khi chọn xem phim tại rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.184042+07:00",
+      "fetched": "2025-09-09T21:14:21.184158+07:00"
+    },
+    {
+      "id": "3cedb1f2c0d87785621d2b438eed64a8",
+      "title": "Israel cảnh báo việc công nhận nhà nước Palestine sẽ gây bất ổn Trung Đông",
+      "link": "https://tuoitre.vn/israel-canh-bao-viec-cong-nhan-nha-nuoc-palestine-se-gay-bat-on-trung-dong-20250909201832422.htm",
+      "summary": "Ngoại trưởng Israel cảnh báo việc nhiều quốc gia công nhận nhà nước Palestine sẽ làm xung đột Trung Đông thêm trầm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.183914+07:00",
+      "fetched": "2025-09-09T21:14:21.184029+07:00"
+    },
+    {
+      "id": "2c7a8e5bda77788dd8d673bacd386447",
+      "title": "Phó thủ tướng Nguyễn Hòa Bình: Chính quyền 2 cấp đã vận hành được hơn 2 tháng, về cơ bản là tốt",
+      "link": "https://tuoitre.vn/pho-thu-tuong-nguyen-hoa-binh-chinh-quyen-2-cap-da-van-hanh-duoc-hon-2-thang-ve-co-ban-la-tot-20250909193129574.htm",
+      "summary": "Bộ Chính trị thường xuyên quan tâm đến hoạt động của chính quyền địa phương 2 cấp, bảo đảm hoạt động hiệu năng, hiệu lực, hiệu quả, phục vụ tốt nhân dân, không bị đứt gãy các dịch vụ công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.183781+07:00",
+      "fetched": "2025-09-09T21:14:21.183901+07:00"
+    },
+    {
+      "id": "c3911a5f80f77a0c9daa6c0ed9d556b3",
+      "title": "Toàn quyền Úc đến Hà Nội, bắt đầu thăm cấp nhà nước Việt Nam",
+      "link": "https://tuoitre.vn/toan-quyen-uc-den-ha-noi-bat-dau-tham-cap-nha-nuoc-viet-nam-20250909152023471.htm",
+      "summary": "Chiều tối 9-9, Toàn quyền Úc Sam Mostyn và Phu quân Simeon Beckett đã đến sân bay Nội Bài, bắt đầu chuyến thăm cấp nhà nước tới Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.183641+07:00",
+      "fetched": "2025-09-09T21:14:21.183768+07:00"
+    },
+    {
+      "id": "1361b749b9e8691490da76df4e48dab1",
+      "title": "NÓNG: Israel tấn công ban lãnh đạo cấp cao Hamas tại Doha, Qatar",
+      "link": "https://tuoitre.vn/nong-israel-tan-cong-ban-lanh-dao-cap-cao-hamas-tai-doha-qatar-20250909203858162.htm",
+      "summary": "Israel xác nhận tiến hành cuộc tấn công nhằm vào ban lãnh đạo cấp cao của Hamas tại thủ đô Doha, Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.183485+07:00",
+      "fetched": "2025-09-09T21:14:21.183628+07:00"
+    },
+    {
+      "id": "06967b45117fb2637212a7e84c3479d9",
+      "title": "Tổng Bí thư Tô Lâm: Đảm bảo đủ trường, lớp, giáo viên, chấn chỉnh hạn chế, tiêu cực trong giáo dục",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-dam-bao-du-truong-lop-giao-vien-chan-chinh-han-che-tieu-cuc-trong-giao-duc-20250909201649056.htm",
+      "summary": "Chiều 9-9, Tổng Bí thư Tô Lâm chủ trì cuộc họp về tình hình triển khai thực hiện nghị quyết 71 của Bộ Chính trị về đột phá phát triển giáo dục và đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:14:21.183217+07:00",
+      "fetched": "2025-09-09T21:14:21.183466+07:00"
+    },
     {
       "id": "1c3e913ddb8265b078222b5d40591c17",
       "title": "HDBank vận hành hệ thống Kiosk y tế thông minh tại Viện Pasteur TP.HCM",
@@ -453,6 +603,116 @@ window.newsData_2025_09_09 = {
       "fetched": "2025-09-09T15:22:15.921031+07:00"
     },
     {
+      "id": "842e93f50c6443bb22cf4b745f302424",
+      "title": "Toyota Highlander nhập từ Mỹ dùng 4 năm, bán giá cao hơn xe sang",
+      "link": "https://thanhnien.vn/toyota-highlander-nhap-tu-my-dung-4-nam-ban-gia-cao-hon-xe-sang-185250904165813573.htm",
+      "summary": "Tại Mỹ, Toyota Highlander là mẫu SUV 7 chỗ phổ thông nhưng khi về đến Việt Nam, mẫu xe này có giá cao hơn xe sang của các thương hiệu Đức, dù đã qua sử dụng 4 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:11:00+07:00",
+      "fetched": "2025-09-09T21:14:19.933497+07:00"
+    },
+    {
+      "id": "df6431d7c9a00c439c47b781049520e6",
+      "title": "Toàn quyền Úc bắt đầu chuyến thăm cấp nhà nước tới Việt Nam",
+      "link": "https://thanhnien.vn/toan-quyen-uc-bat-dau-chuyen-tham-cap-nha-nuoc-toi-viet-nam-185250909205546156.htm",
+      "summary": "Chiều tối 9.9, Toàn quyền Úc Sam Mostyn và phu quân Simeon Beckett đến Hà Nội, bắt đầu thăm cấp nhà nước tới Việt Nam từ ngày 9 - 12.9, theo lời mời của Chủ tịch nước Lương Cường và phu nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:10:00+07:00",
+      "fetched": "2025-09-09T21:14:19.933678+07:00"
+    },
+    {
+      "id": "47db46f9d73432e0b121b35797329560",
+      "title": "Thành tích học tập đáng nể của ba con trai nhà Trương Bá Chi",
+      "link": "https://thanhnien.vn/thanh-tich-hoc-tap-dang-ne-cua-ba-con-trai-nha-truong-ba-chi-185250909185331082.htm",
+      "summary": "Trương Bá Chi gần đây nhận được nhiều lời khen ngợi khi là người mẹ tận tâm, nuôi dạy ba cậu con trai đều trở thành 'thần đồng' với thành tích xuất sắc trong học tập, nghệ thuật và ngôn ngữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:08:00+07:00",
+      "fetched": "2025-09-09T21:14:19.933838+07:00"
+    },
+    {
+      "id": "417922e92ef98c78d7b60a1822fecbbe",
+      "title": "Bản nâng cấp Honda ADV 160 bổ sung tính năng mới, hẹn ngày về Việt Nam",
+      "link": "https://thanhnien.vn/ban-nang-cap-honda-adv-160-bo-sung-tinh-nang-moi-hen-ngay-ve-viet-nam-185250908153134671.htm",
+      "summary": "Bản nâng cấp mới nhất của dòng xe tay ga Honda ADV 160 sản xuất tại Indonesia được hãng xe Nhật Bản bổ sung tính năng Honda RoadSync cho phép kết nối với điện thoại, điều khiển bằng giọng nói… dự kiến sẽ về Việt Nam trong giai đoạn cuối năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:08:00+07:00",
+      "fetched": "2025-09-09T21:14:19.933992+07:00"
+    },
+    {
+      "id": "cad0f8c25fc310f228e13d3c17864d43",
+      "title": "Sao lại cười 'chàng trai duy nhất trúng tuyển khoa Giáo dục mầm non'?",
+      "link": "https://thanhnien.vn/sao-lai-cuoi-chang-trai-duy-nhat-trung-tuyen-khoa-giao-duc-mam-non-185250909191402479.htm",
+      "summary": "Bài viết 'Chàng trai duy nhất vừa trúng tuyển khoa Giáo dục mầm non' đăng tải trên Báo Thanh Niên hôm 7.9 nhận được lượt chia sẻ lớn trên các diễn đàn phụ huynh, học sinh, sinh viên kèm nhiều bình luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:07:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934146+07:00"
+    },
+    {
+      "id": "a5b7f34290db8d7716c26a187d6fed30",
+      "title": "U.23 Việt Nam lần thứ sáu liên tiếp dự giải U.23 châu Á: VCK diễn ra ở đâu, khi nào?",
+      "link": "https://thanhnien.vn/u23-viet-nam-lan-thu-sau-lien-tiep-du-giai-u23-chau-a-vck-dien-ra-o-dau-khi-nao-185250909210103547.htm",
+      "summary": "Chiến thắng trước U.23 Yemen giúp đội tuyển U.23 Việt Nam đã đoạt vé dự vòng chung kết giải U.23 châu Á lần thứ 6 liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:05:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934298+07:00"
+    },
+    {
+      "id": "a7ff39e6c278f04beda112a0c50938e2",
+      "title": "Thanh Nhàn ghi bàn đẳng cấp, U.23 Việt Nam thắng Yemen: VFF thưởng lớn vì tấm vé vàng châu Á",
+      "link": "https://thanhnien.vn/thanh-nhan-ghi-ban-dang-cap-u23-viet-nam-thang-yemen-vff-thuong-lon-vi-tam-ve-vang-chau-a-185250909205237309.htm",
+      "summary": "Dù gặp nhiều khó khăn trước hàng phòng ngự của U.23 Yemen, U.23 Việt Nam vẫn có những cá nhân biết tỏa sáng đúng lúc để mang về chiến thắng quan trọng, qua đó giành vé tới VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T14:03:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934476+07:00"
+    },
+    {
+      "id": "8e0f6d016f73b6f66a1a300be37b225d",
+      "title": "Cầu Cát Lái: Đồng Nai đặt mục tiêu khởi công năm 2026, khánh thành năm 2028",
+      "link": "https://thanhnien.vn/cau-cat-lai-dong-nai-dat-muc-tieu-khoi-cong-nam-2026-khanh-thanh-nam-2028-185250909201853628.htm",
+      "summary": "Đồng Nai đặt mục tiêu khởi công cầu Cát Lái, nối Đồng Nai với TP.HCM, vào năm 2026, khánh thành và đưa vào khai thác từ năm 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:57:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934628+07:00"
+    },
+    {
+      "id": "f79f60afb272bd8a82811164e33eb1dc",
+      "title": "'Vua thép Việt' vào top 4 doanh nghiệp tư nhân đóng thuế nhiều nhất nước",
+      "link": "https://thanhnien.vn/vua-thep-viet-vao-top-4-doanh-nghiep-tu-nhan-dong-thue-nhieu-nhat-nuoc-185250909204552585.htm",
+      "summary": "Tập đoàn Hòa Phát vừa được vinh danh trong top 4 doanh nghiệp tư nhân nộp thuế lớn nhất (PRIVATE 100) và đứng thứ 14 trong số 200 doanh nghiệp nộp thuế lớn nhất Việt Nam năm 2025 (VNTAX 200).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:46:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934786+07:00"
+    },
+    {
+      "id": "48511f9ec8322b4c258427d9ae627669",
+      "title": "Vợ Việt - chồng Nhật nên duyên từ thanh chocolate nhỏ",
+      "link": "https://thanhnien.vn/vo-viet-chong-nhat-nen-duyen-tu-thanh-chocolate-nho-185250908225823511.htm",
+      "summary": "Chị Vân và anh Kutsuzawa Eigo không yêu nhau từ cái nhìn đầu tiên, nhưng mối tình của họ có màu sắc rất riêng. Chính thanh chocolate trong dịp Valentine 14.2 trở thành sợi dây gắn kết, đưa hai người xích lại gần nhau hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:30:00+07:00",
+      "fetched": "2025-09-09T21:14:19.934944+07:00"
+    },
+    {
+      "id": "293f3a1e22ff889bb8c7d6fe5c29275a",
+      "title": "Đan Trường tiết lộ kỳ vọng về con trai Thiên Từ, không muốn con theo nghề hát",
+      "link": "https://thanhnien.vn/dan-truong-tiet-lo-ky-vong-ve-con-trai-thien-tu-khong-muon-con-theo-nghe-hat-185250909190123101.htm",
+      "summary": "Dù không còn là vợ chồng, Đan Trường và Thủy Tiên vẫn duy trì mối quan hệ tri kỷ để cùng chăm sóc con trai Thiên Từ. Nam ca sĩ cho biết, anh không mong con nối nghiệp ca hát mà muốn định hướng con theo con đường kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:25:00+07:00",
+      "fetched": "2025-09-09T21:14:19.935094+07:00"
+    },
+    {
       "id": "3703a26b9b72ba131613b32578f0c513",
       "title": "Hệ thống Trường Việt Mỹ khánh thành cơ sở mầm non Hạnh Thông",
       "link": "https://tuoitre.vn/he-thong-truong-viet-my-khanh-thanh-co-so-mam-non-hanh-thong-20250909102745219.htm",
@@ -601,6 +861,236 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T13:24:57.003721+07:00",
       "fetched": "2025-09-09T13:24:57.003923+07:00"
+    },
+    {
+      "id": "e6fd2e9d5f0c3e7f96c13fa756b46763",
+      "title": "Bịa chuyện bị cướp để xin tiền mua điện thoại, một người bị phạt 7,5 triệu đồng",
+      "link": "https://thanhnien.vn/bia-chuyen-bi-cuop-de-xin-tien-mua-dien-thoai-mot-nguoi-bi-phat-75-trieu-dong-185250909192917594.htm",
+      "summary": "Công an P.Hội An Đông (TP.Đà Nẵng) xử phạt 7,5 triệu đồng một người bịa chuyện bị cướp tài sản đăng lên mạng xã hội, gây hoang mang dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:24:00+07:00",
+      "fetched": "2025-09-09T21:14:19.935249+07:00"
+    },
+    {
+      "id": "76d44da8f965b05eccff6a150958aaba",
+      "title": "Thủ tướng yêu cầu tăng tín dụng, mở rộng thị trường xuất khẩu gạo",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-tang-tin-dung-mo-rong-thi-truong-xuat-khau-gao-4937163.html",
+      "summary": "Thủ tướng yêu cầu tăng tín dụng, đa dạng thị trường để bảo đảm an ninh lương thực trước biến động xuất khẩu gạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:21:37+07:00",
+      "fetched": "2025-09-09T21:14:16.288570+07:00"
+    },
+    {
+      "id": "af2f7d60ee1613cd662806787b34745f",
+      "title": "Tượng 'cha đẻ Bitcoin' Satoshi có mặt tại Việt Nam",
+      "link": "https://thanhnien.vn/tuong-cha-de-bitcoin-satoshi-co-mat-tai-viet-nam-185250909190600178.htm",
+      "summary": "Đây là bức tượng thứ năm trên thế giới, trong tổng số 21 tượng về Satoshi Nakamoto, người được mệnh danh \"cha đẻ Bitcoin\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:21:00+07:00",
+      "fetched": "2025-09-09T21:14:19.935427+07:00"
+    },
+    {
+      "id": "320c82811db569e51952a50a66dcf9a8",
+      "title": "Ca sĩ Mỹ Linh ghi dấu ấn tại Nhật Bản",
+      "link": "https://thanhnien.vn/ca-si-my-linh-ghi-dau-an-tai-nhat-ban-185250909191756074.htm",
+      "summary": "Trong đêm nhạc tại Nhật Bản, ca sĩ Mỹ Linh mang đến cho khán giả nhiều cung bậc cảm xúc bằng chất giọng nội lực, truyền cảm với ca khúc 'If We Hold On Together'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:20:00+07:00",
+      "fetched": "2025-09-09T21:14:19.935581+07:00"
+    },
+    {
+      "id": "d99e25dd840d19c9dfa495d6e1602466",
+      "title": "Những mẫu vật tại Phòng trưng bày lịch sử tự nhiên",
+      "link": "https://vnexpress.net/nhung-mau-vat-tai-phong-trung-bay-lich-su-tu-nhien-4937105.html",
+      "summary": "Những mẫu vật lần đầu được Viện Hàn lâm Khoa học và Công nghệ Việt Nam trưng bày tại Trung tâm Bảo tồn Tài nguyên thiên nhiên Việt Nam và Cứu hộ động, thực vật Phong Điền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:17:30+07:00",
+      "fetched": "2025-09-09T21:14:16.288769+07:00"
+    },
+    {
+      "id": "d99e25dd840d19c9dfa495d6e1602466",
+      "title": "Những mẫu vật tại Phòng trưng bày lịch sử tự nhiên",
+      "link": "https://vnexpress.net/nhung-mau-vat-tai-phong-trung-bay-lich-su-tu-nhien-4937105.html",
+      "summary": "Những mẫu vật lần đầu được Viện Hàn lâm Khoa học và Công nghệ Việt Nam trưng bày tại Trung tâm Bảo tồn Tài nguyên thiên nhiên Việt Nam và Cứu hộ động, thực vật Phong Điền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T13:17:30+07:00",
+      "fetched": "2025-09-09T21:14:26.242508+07:00"
+    },
+    {
+      "id": "326c49b07c3a22f827931db3e7f1b0ac",
+      "title": "Kênh đào nào dài và cổ nhất thế giới?",
+      "link": "https://vnexpress.net/kenh-dao-nao-dai-va-co-nhat-the-gioi-4937147.html",
+      "summary": "Được xây dựng cách đây hơn 2.500 năm với chiều dài hơn 3.200 km, đây là kênh đào nhân tạo dài và cổ nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:17:10+07:00",
+      "fetched": "2025-09-09T21:14:16.288937+07:00"
+    },
+    {
+      "id": "669e04f7d21eff4c4bff6a509476b813",
+      "title": "Toàn quyền Australia đến Việt Nam",
+      "link": "https://vnexpress.net/toan-quyen-australia-den-viet-nam-4937128.html",
+      "summary": "Toàn quyền Australia Sam Mostyn cùng phu quân hôm nay đến Hà Nội, bắt đầu chuyến thăm cấp nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:13:53+07:00",
+      "fetched": "2025-09-09T21:14:16.289107+07:00"
+    },
+    {
+      "id": "669e04f7d21eff4c4bff6a509476b813",
+      "title": "Toàn quyền Australia đến Việt Nam",
+      "link": "https://vnexpress.net/toan-quyen-australia-den-viet-nam-4937128.html",
+      "summary": "Toàn quyền Australia Sam Mostyn cùng phu quân hôm nay đến Hà Nội, bắt đầu chuyến thăm cấp nhà nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T13:13:53+07:00",
+      "fetched": "2025-09-09T21:14:22.732175+07:00"
+    },
+    {
+      "id": "53d84ebf5884563c0bc8c30d7013fec5",
+      "title": "Cậu bé 13 tuổi ở Mỹ bị bắt với 'kho vũ khí' trong nhà",
+      "link": "https://vnexpress.net/cau-be-13-tuoi-o-my-khi-bi-bat-voi-kho-vu-khi-trong-nha-4937123.html",
+      "summary": "Cảnh sát vừa ngăn chặn một âm mưu xả súng trường học, bắt chủ mưu là cậu bé 13 tuổi với một kho vũ khí trong nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:12:16+07:00",
+      "fetched": "2025-09-09T21:14:16.289263+07:00"
+    },
+    {
+      "id": "212d4dd9904266bc9fd24cb8a645060a",
+      "title": "Ai sẽ được vinh danh nghệ nhân văn hóa ẩm thực Việt Nam?",
+      "link": "https://thanhnien.vn/ai-se-duoc-vinh-danh-nghe-nhan-van-hoa-am-thuc-viet-nam-1852509091404007.htm",
+      "summary": "Sáng 9.9, Hiệp hội Văn hóa ẩm thực Việt Nam công bố bộ tiêu chí xét chọn nghệ nhân, nghệ nhân tinh hoa và nghệ nhân quốc gia trong lĩnh vực văn hóa ẩm thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:10:00+07:00",
+      "fetched": "2025-09-09T21:14:19.935731+07:00"
+    },
+    {
+      "id": "ab9a4556f64fdfdb09d98bfc198026c5",
+      "title": "Gần 50% học sinh lớp 12 ở Mỹ không có kỹ năng toán cơ bản",
+      "link": "https://vnexpress.net/gan-50-hoc-sinh-lop-12-o-my-khong-co-ky-nang-toan-co-ban-4937069.html",
+      "summary": "Theo kết quả đánh giá của Bộ Giáo dục Mỹ, 1/3 học sinh lớp 12 không có kỹ năng đọc hiểu cơ bản, 1/2 không có kỹ năng toán cơ bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:00:00+07:00",
+      "fetched": "2025-09-09T21:14:16.289438+07:00"
+    },
+    {
+      "id": "64af705a290f3bac18ab1dab61301d73",
+      "title": "Cơ chế chống lão hóa và ung thư của loài chuột dũi",
+      "link": "https://vnexpress.net/co-che-chong-lao-hoa-va-ung-thu-cua-loai-chuot-dui-4936933.html",
+      "summary": "Chuột dũi trụi lông sở hữu những cơ chế độc đáo cho phép chúng chống lại quá trình lão hóa và đẩy lùi bệnh tật như ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T13:00:00+07:00",
+      "fetched": "2025-09-09T21:14:16.289604+07:00"
+    },
+    {
+      "id": "ab9a4556f64fdfdb09d98bfc198026c5",
+      "title": "Gần 50% học sinh lớp 12 ở Mỹ không có kỹ năng toán cơ bản",
+      "link": "https://vnexpress.net/gan-50-hoc-sinh-lop-12-o-my-khong-co-ky-nang-toan-co-ban-4937069.html",
+      "summary": "Theo kết quả đánh giá của Bộ Giáo dục Mỹ, 1/3 học sinh lớp 12 không có kỹ năng đọc hiểu cơ bản, 1/2 không có kỹ năng toán cơ bản.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T13:00:00+07:00",
+      "fetched": "2025-09-09T21:14:22.732382+07:00"
+    },
+    {
+      "id": "64af705a290f3bac18ab1dab61301d73",
+      "title": "Cơ chế chống lão hóa và ung thư của loài chuột dũi",
+      "link": "https://vnexpress.net/co-che-chong-lao-hoa-va-ung-thu-cua-loai-chuot-dui-4936933.html",
+      "summary": "Chuột dũi trụi lông sở hữu những cơ chế độc đáo cho phép chúng chống lại quá trình lão hóa và đẩy lùi bệnh tật như ung thư.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T13:00:00+07:00",
+      "fetched": "2025-09-09T21:14:26.241213+07:00"
+    },
+    {
+      "id": "07b406cdee698fc2a068fa6a1f354b4e",
+      "title": "Ông Nguyễn Văn Được: Nhà đầu tư đã trở lại TP HCM",
+      "link": "https://vnexpress.net/ong-nguyen-van-duoc-nha-dau-tu-da-tro-lai-tp-hcm-4937144.html",
+      "summary": "Chủ tịch UBND TP HCM Nguyễn Văn Được đánh giá các nhà đầu tư nước ngoài tin tưởng quay lại, giúp địa phương thành \"thỏi nam châm hút FDI\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T12:57:46+07:00",
+      "fetched": "2025-09-09T21:14:16.289757+07:00"
+    },
+    {
+      "id": "07b406cdee698fc2a068fa6a1f354b4e",
+      "title": "Ông Nguyễn Văn Được: Nhà đầu tư đã trở lại TP HCM",
+      "link": "https://vnexpress.net/ong-nguyen-van-duoc-nha-dau-tu-da-tro-lai-tp-hcm-4937144.html",
+      "summary": "Chủ tịch UBND TP HCM Nguyễn Văn Được đánh giá các nhà đầu tư nước ngoài tin tưởng quay lại, giúp địa phương thành \"thỏi nam châm hút FDI\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-09T12:57:46+07:00",
+      "fetched": "2025-09-09T21:14:23.844221+07:00"
+    },
+    {
+      "id": "913dea0ea7b7341d98cad237816cd1f0",
+      "title": "Ngày biểu tình khiến Thủ tướng Nepal mất chức",
+      "link": "https://vnexpress.net/ngay-bieu-tinh-khien-thu-tuong-nepal-mat-chuc-4937154.html",
+      "summary": "Biểu tình phản đối lệnh cấm mạng xã hội ở Nepal đã khiến ít nhất 19 người chết, tòa nhà quốc hội bị đốt và Thủ tướng phải từ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T12:55:55+07:00",
+      "fetched": "2025-09-09T21:14:16.289913+07:00"
+    },
+    {
+      "id": "913dea0ea7b7341d98cad237816cd1f0",
+      "title": "Ngày biểu tình khiến Thủ tướng Nepal mất chức",
+      "link": "https://vnexpress.net/ngay-bieu-tinh-khien-thu-tuong-nepal-mat-chuc-4937154.html",
+      "summary": "Biểu tình phản đối lệnh cấm mạng xã hội ở Nepal đã khiến ít nhất 19 người chết, tòa nhà quốc hội bị đốt và Thủ tướng phải từ chức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T12:55:55+07:00",
+      "fetched": "2025-09-09T21:14:22.732557+07:00"
+    },
+    {
+      "id": "933620544f7673e31fb33e0666bb43fa",
+      "title": "2,5 lít mủ phun trào sau 7 năm tiêm 'filler collagen' nâng vòng ba",
+      "link": "https://vnexpress.net/2-5-lit-mu-phun-trao-sau-7-nam-tiem-filler-collagen-nang-vong-ba-4936833.html",
+      "summary": "Mũi tiêm filler nâng vòng ba cách đây 7 năm bất ngờ biến chứng, khiến người phụ nữ 33 tuổi nhập viện cấp cứu với mông trái sưng, đau nhức dữ dội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T12:45:12+07:00",
+      "fetched": "2025-09-09T21:14:16.290075+07:00"
+    },
+    {
+      "id": "68bbfc2cbacb99e5134e58dcd8a4a83e",
+      "title": "100 thương hiệu hàng đầu Việt Nam giá trị 38,4 tỷ USD",
+      "link": "https://vnexpress.net/100-thuong-hieu-hang-dau-viet-nam-gia-tri-38-4-ty-usd-4937109.html",
+      "summary": "Tổng giá trị của 100 thương hiệu hàng đầu Việt Nam năm 2025 đạt 38,4 tỷ USD, theo báo cáo của Brand Finance.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T12:43:49+07:00",
+      "fetched": "2025-09-09T21:14:16.290227+07:00"
+    },
+    {
+      "id": "68bbfc2cbacb99e5134e58dcd8a4a83e",
+      "title": "100 thương hiệu hàng đầu Việt Nam giá trị 38,4 tỷ USD",
+      "link": "https://vnexpress.net/100-thuong-hieu-hang-dau-viet-nam-gia-tri-38-4-ty-usd-4937109.html",
+      "summary": "Tổng giá trị của 100 thương hiệu hàng đầu Việt Nam năm 2025 đạt 38,4 tỷ USD, theo báo cáo của Brand Finance.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-09T12:43:49+07:00",
+      "fetched": "2025-09-09T21:14:23.844451+07:00"
+    },
+    {
+      "id": "9a616df6f0b81c2c145798b20d5c3414",
+      "title": "3.000 ca phá thai vị thành niên tại Việt Nam mỗi năm",
+      "link": "https://vnexpress.net/3-000-ca-pha-thai-vi-thanh-nien-tai-viet-nam-moi-nam-4937156.html",
+      "summary": "Mỗi năm, Việt Nam ghi nhận khoảng 3.000 ca phá thai ở tuổi vị thành niên tại các cơ sở y tế công lập, song con số thực tế được cho là còn cao hơn nhiều do không thể thống kê hết từ các cơ sở tư nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T12:43:26+07:00",
+      "fetched": "2025-09-09T21:14:16.290398+07:00"
     },
     {
       "id": "7b99155b67b1dfa3ff9f0562165ff505",
