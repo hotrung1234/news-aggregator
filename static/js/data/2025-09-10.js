@@ -1,7 +1,27 @@
 window.newsData_2025_09_10 = {
   "date": "2025-09-10",
-  "lastUpdated": "2025-09-10T19:32:48.144847+07:00",
+  "lastUpdated": "2025-09-10T21:15:17.028128+07:00",
   "articles": [
+    {
+      "id": "b4d09a01181387d98393e0f3121291a5",
+      "title": "Hàng chục thùng bia rơi xuống đường, người dân xắn tay quét dọn",
+      "link": "https://tuoitre.vn/hang-chuc-thung-bia-roi-xuong-duong-nguoi-dan-xan-tay-quet-don-20250910174810792.htm",
+      "summary": "Chiếc xe tải chở bia khi đến khu phố Phú Lâm 1 (phường Phú Yên, tỉnh Đắk Lắk) bất ngờ bị nghiêng, khiến hàng chục thùng bia rơi xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T21:15:09.579085+07:00",
+      "fetched": "2025-09-10T21:15:09.579198+07:00"
+    },
+    {
+      "id": "3a2fa3ecb1b748e8bdbf82b728e19832",
+      "title": "Viện Quy hoạch kiến trúc đô thị lên tiếng về ý tưởng thiết kế quảng trường Đông Kinh - Nghĩa Thục",
+      "link": "https://tuoitre.vn/vien-quy-hoach-kien-truc-do-thi-len-tieng-ve-y-tuong-thiet-ke-quang-truong-dong-kinh-nghia-thuc-20250910173611578.htm",
+      "summary": "Chiều 10-9, đại diện đơn vị thiết kế phương án chỉnh trang, cải tạo công trình quảng trường Đông Kinh - Nghĩa Thục đã có những trao đổi với báo chí về ý tưởng thiết kế công trình trên, sau khi nhận được nhiều góp ý từ người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T21:15:09.578958+07:00",
+      "fetched": "2025-09-10T21:15:09.579074+07:00"
+    },
     {
       "id": "17d053404b298ee6f94d05acb38eb3d4",
       "title": "Đại sứ Israel: 'Chúng tôi không phải lúc nào cũng hành động vì lợi ích của Mỹ'",
@@ -303,6 +323,106 @@ window.newsData_2025_09_10 = {
       "fetched": "2025-09-10T15:21:30.325972+07:00"
     },
     {
+      "id": "ae61ea6912d10b797c89cc166b343303",
+      "title": "Phường Tân Phước: Xây dựng đề án đô thị thông minh và kinh tế tư nhân",
+      "link": "https://thanhnien.vn/phuong-tan-phuoc-xay-dung-de-an-do-thi-thong-minh-va-kinh-te-tu-nhan-185250910205905272.htm",
+      "summary": "Ngày 10.9, UBND phường Tân Phước (TP.HCM), Trường ĐH Kinh tế TP.HCM, Viện nghiên cứu và Tư vấn phát triển vùng, Hiệp hội cảng biển - Logistics Bà Rịa - Vũng Tàu và các doanh nghiệp tổ chức khảo sát KCN chuyên sâu Phú Mỹ 3, KCN Phú Mỹ 2, KCN Cái Mép, cảng biển trên địa bàn phường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T14:02:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948128+07:00"
+    },
+    {
+      "id": "40d84d3dcc70db36120300d5dea124db",
+      "title": "Sá xị Chương Dương lo phá sản nếu không được gia hạn nợ",
+      "link": "https://vnexpress.net/sa-xi-chuong-duong-lo-pha-san-neu-khong-duoc-gia-han-no-4937579.html",
+      "summary": "Do hụt dòng tiền, chủ sở hữu thương hiệu Sá xị Chương Dương lo phá sản nếu không được kéo dài thời gian trả nợ gần 490 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T13:57:18+07:00",
+      "fetched": "2025-09-10T21:15:12.298964+07:00"
+    },
+    {
+      "id": "ab32d35d84c85f70b5a23f871b9d4071",
+      "title": "Kinh hoàng nhân viên sở thú bị bầy sư tử cắn chết trước mặt du khách",
+      "link": "https://thanhnien.vn/kinh-hoang-nhan-vien-so-thu-bi-bay-su-tu-can-chet-truoc-mat-du-khach-185250910200625724.htm",
+      "summary": "Một nhân viên trông coi sở thú ở thủ đô Bangkok, Thái Lan đã bị bầy sư tử tấn công và đã thiệt mạng vào ngày 10.9, trước sự chứng kiến của du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:54:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948298+07:00"
+    },
+    {
+      "id": "34181811c8e5555694fef27573fd869a",
+      "title": "Hơn 50 kênh/trang mạng xã hội chủ động gỡ nội dung bịa đặt, vu khống Vingroup",
+      "link": "https://thanhnien.vn/hon-50-kenh-trang-mang-xa-hoi-chu-dong-go-noi-dung-bia-dat-vu-khong-vingroup-185250910205001554.htm",
+      "summary": "Chưa đầy 24 giờ sau khi Vingroup công bố khởi kiện 68 tổ chức, cá nhân trong và ngoài nước đưa thông tin sai sự thật về tập đoàn trên mạng Internet, đã có hơn 50 kênh/trang mạng xã hội chủ động gỡ các clip và nội dung bịa đặt, xuyên tạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:53:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948456+07:00"
+    },
+    {
+      "id": "6615da9e0a887cec8b9eb221faabe87b",
+      "title": "iPhone 17 Pro và Pro Max: Những điểm mới nào đáng chú ý?",
+      "link": "https://thanhnien.vn/iphone-17-pro-va-pro-max-nhung-diem-moi-nao-dang-chu-y-185250910194725268.htm",
+      "summary": "Apple hôm 9.9 đã ra mắt bộ đôi flagship iPhone 17 Pro và Pro Max tại sự kiện “Awe Drop”. So với iPhone 16 Pro và Pro Max của năm ngoái, các smartphone át chủ bài của Apple trong năm nay có gì mới?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:51:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948635+07:00"
+    },
+    {
+      "id": "2b529ecd68b425079826c17261a6167a",
+      "title": "TP.HCM: Người đàn ông tử vong trong bãi xe, nghi điện giật",
+      "link": "https://thanhnien.vn/tphcm-nguoi-dan-ong-tu-vong-trong-bai-xe-nghi-dien-giat-185250910202342508.htm",
+      "summary": "Người dân phát hiện người đàn ông tử vong bên trong bãi xe trên đường Võ Chí Công (TP.HCM), nghi do điện giật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:44:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948791+07:00"
+    },
+    {
+      "id": "e468846d654c1bb514668cd67fe2f6e1",
+      "title": "Xử lý hơn 11.000 đèn tín hiệu, biển báo giao thông bất cập",
+      "link": "https://vnexpress.net/xu-ly-hon-11-000-den-tin-hieu-bien-bao-giao-thong-bat-cap-4937578.html",
+      "summary": "Cục Đường bộ Việt Nam và các địa phương tổ chức tổng rà soát, xử lý hơn 11.000 cụm đèn tín hiệu giao thông, biển báo chưa phù hợp quy chuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:39:26+07:00",
+      "fetched": "2025-09-10T21:15:04.056372+07:00"
+    },
+    {
+      "id": "118f99e137c717c49155764173be934e",
+      "title": "Selena Gomez: Chồng sắp cưới thích tôi cùng vào bếp",
+      "link": "https://vnexpress.net/selena-gomez-chong-sap-cuoi-thich-toi-cung-vao-bep-4937297.html",
+      "summary": "Ca sĩ Selena Gomez nói chồng sắp cưới - nhà sản xuất Benny Blanco - thích những lúc cô ngắm anh nấu ăn, khen tài nấu nướng của bạn trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:38:05+07:00",
+      "fetched": "2025-09-10T21:15:04.056558+07:00"
+    },
+    {
+      "id": "35bfc2e0762392bddf31bc084dc3abef",
+      "title": "CEO Jemmia - Lâm Ngọc Cường: Di sản văn hóa Việt Nam là viên kim cương quý giá",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ceo-jemmia-lam-ngoc-cuong-di-san-van-hoa-viet-nam-la-vien-kim-cuong-quy-gia-185250910200808393.htm",
+      "summary": "Triết lý Jemmia theo đuổi là tiếp biến văn hóa, có nghĩa là tiếp nối và biến chuyển văn hóa làm sao cho phù hợp với thời cuộc cũng như số đông khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:37:00+07:00",
+      "fetched": "2025-09-10T21:15:07.948943+07:00"
+    },
+    {
+      "id": "01e5a5d5b8eaef982c8ce77970305253",
+      "title": "Kho bạc Nhà nước lên tiếng về 1.225 đơn vị thuộc cấp xã chậm chi lương",
+      "link": "https://thanhnien.vn/kho-bac-nha-nuoc-len-tieng-ve-1225-don-vi-thuoc-cap-xa-cham-chi-luong-185250910191605557.htm",
+      "summary": "Tính đến ngày 9.9, trong tổng số 55.965 đơn vị thuộc cấp xã dự kiến giao dịch với Kho bạc Nhà nước, có 1.225 đơn vị chưa chi lương tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:25:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949092+07:00"
+    },
+    {
       "id": "828dbf7d598a9e48c8c32decd2682899",
       "title": "Công ty cổ phần Tập đoàn Vinacam ủng hộ Tiếp sức đến trường 3 tỉ đồng",
       "link": "https://tuoitre.vn/cong-ty-co-phan-tap-doan-vinacam-ung-ho-tiep-suc-den-truong-3-ti-dong-20250910103210105.htm",
@@ -451,6 +571,246 @@ window.newsData_2025_09_10 = {
       "category": "Tổng hợp",
       "published": "2025-09-10T13:24:05.611735+07:00",
       "fetched": "2025-09-10T13:24:05.611956+07:00"
+    },
+    {
+      "id": "1079b747af72448f28962297c92b57c7",
+      "title": "Hoan nghênh Úc hỗ trợ, đồng hành cùng Việt Nam",
+      "link": "https://thanhnien.vn/hoan-nghenh-uc-ho-tro-dong-hanh-cung-viet-nam-185250910195046695.htm",
+      "summary": "Để đạt hai mục tiêu 100 năm, mới đây Đảng và Nhà nước Việt Nam đề ra nhiều quyết sách quan trọng, Việt Nam hoan nghênh Úc hỗ trợ, đồng hành cùng Việt Nam triển khai những chính sách then chốt này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:21:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949252+07:00"
+    },
+    {
+      "id": "1c1118d9cf2605f3811a306a5e41f60c",
+      "title": "Đà Nẵng: Cây xanh bật gốc giữa phố, đè trúng xe máy trong mưa lớn",
+      "link": "https://thanhnien.vn/da-nang-cay-xanh-bat-goc-giua-pho-de-trung-xe-may-trong-mua-lon-185250910200341788.htm",
+      "summary": "Mưa giông kèm gió lớn khiến cây xanh trên đường Nguyễn Văn Linh (TP.Đà Nẵng) bật gốc, đè trúng xe máy, làm người dân hoảng loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:16:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949402+07:00"
+    },
+    {
+      "id": "b7ff28a23ffcad7cfccb982cebb49aff",
+      "title": "Đền thờ thần toilet, bán đồ lót cầu may ở Nhật Bản",
+      "link": "https://vnexpress.net/den-tho-than-toilet-ban-do-lot-cau-may-o-nhat-ban-4937348.html",
+      "summary": "Đền Myotoku-ji ít được khách nước ngoài biết đến nhưng người địa phương thường đến đây khấn thần nhà vệ sinh và mua đồ lót cầu may.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:14:11+07:00",
+      "fetched": "2025-09-10T21:15:04.056745+07:00"
+    },
+    {
+      "id": "b99078ad28ba1e2d15e583202cf38511",
+      "title": "Tổng Bí thư đề nghị Việt Nam - Australia phát triển nguồn lực chuyên gia, nhà khoa học",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-viet-nam-australia-phat-trien-nguon-luc-chuyen-gia-nha-khoa-hoc-4937587.html",
+      "summary": "Tổng Bí thư Tô Lâm khẳng định Việt Nam luôn coi Australia là đối tác tin cậy, mong muốn hai nước hợp tác phát triển nguồn nhân lực, lao động kỹ thuật cao, chuyên gia, nhà khoa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:13:41+07:00",
+      "fetched": "2025-09-10T21:15:04.056906+07:00"
+    },
+    {
+      "id": "b99078ad28ba1e2d15e583202cf38511",
+      "title": "Tổng Bí thư đề nghị Việt Nam - Australia phát triển nguồn lực chuyên gia, nhà khoa học",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-viet-nam-australia-phat-trien-nguon-luc-chuyen-gia-nha-khoa-hoc-4937587.html",
+      "summary": "Tổng Bí thư Tô Lâm khẳng định Việt Nam luôn coi Australia là đối tác tin cậy, mong muốn hai nước hợp tác phát triển nguồn nhân lực, lao động kỹ thuật cao, chuyên gia, nhà khoa học.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T13:13:41+07:00",
+      "fetched": "2025-09-10T21:15:10.986219+07:00"
+    },
+    {
+      "id": "526ba4bc45831f37e7a7c5f56e4c44b3",
+      "title": "5 loại trái cây giúp mát gan",
+      "link": "https://thanhnien.vn/5-loai-trai-cay-giup-mat-gan-185250910162155946.htm",
+      "summary": "Khi gặp tình trạng nóng trong người, nổi mụn..., có thể gan chính là một trong những cơ quan đầu tiên cần được chăm sóc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:04:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949548+07:00"
+    },
+    {
+      "id": "8586903fa57d7777cdb96cce77e19f9a",
+      "title": "'Mãi mãi tuổi hai mươi' - những dòng nhật ký vượt thời gian",
+      "link": "https://vnexpress.net/mai-mai-tuoi-hai-muoi-nhung-dong-nhat-ky-vuot-thoi-gian-4936555.html",
+      "summary": "Nhật ký ghi lại tinh thần chiến đấu, những nỗi niềm riêng của liệt sĩ Nguyễn Văn Thạc được công chúng đón đọc suốt 20 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:02:17+07:00",
+      "fetched": "2025-09-10T21:15:04.057061+07:00"
+    },
+    {
+      "id": "ce3a1cad403afd129dcc3ee961a6017f",
+      "title": "QL28B nối Mũi Né - Đà Lạt sẽ hoàn thiện vào cuối năm nay?",
+      "link": "https://thanhnien.vn/ql28b-noi-mui-ne-da-lat-se-hoan-thien-vao-cuoi-nam-nay-185250910172510905.htm",
+      "summary": "Công trình sửa chữa, nâng cấp QL28B nối 2 vùng du lịch Mũi Né - Đà Lạt rất quan trọng, nhưng việc thi công lại ì ạch, nhếch nhác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:02:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949713+07:00"
+    },
+    {
+      "id": "7e45a77c273e473586fb42ca1aa40d2f",
+      "title": "Các đơn vị cấp xã chậm lương phải chi trả trước 15/9",
+      "link": "https://vnexpress.net/cac-don-vi-cap-xa-cham-luong-phai-chi-tra-truoc-15-9-4937592.html",
+      "summary": "Kho bạc Nhà nước ra công điện yêu cầu toàn ngành đảm bảo 100% đơn vị thuộc cấp xã chi lương trước ngày 15/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:01:17+07:00",
+      "fetched": "2025-09-10T21:15:04.057216+07:00"
+    },
+    {
+      "id": "7e45a77c273e473586fb42ca1aa40d2f",
+      "title": "Các đơn vị cấp xã chậm lương phải chi trả trước 15/9",
+      "link": "https://vnexpress.net/cac-don-vi-cap-xa-cham-luong-phai-chi-tra-truoc-15-9-4937592.html",
+      "summary": "Kho bạc Nhà nước ra công điện yêu cầu toàn ngành đảm bảo 100% đơn vị thuộc cấp xã chi lương trước ngày 15/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T13:01:17+07:00",
+      "fetched": "2025-09-10T21:15:12.299141+07:00"
+    },
+    {
+      "id": "eb5ed78e2b682898f225a31abed36c6b",
+      "title": "Đại học lâu đời nhất châu Á ở nước nào?",
+      "link": "https://vnexpress.net/dai-hoc-lau-doi-nhat-chau-a-o-nuoc-nao-4937543.html",
+      "summary": "Được thành lập đầu thế kỷ 17, đây là đại học lâu đời nhất châu Á còn hoạt động đến nay. Bạn có biết trường này nằm ở quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:04.057380+07:00"
+    },
+    {
+      "id": "4df608c3689847f9c73034af4aaef6e1",
+      "title": "Làm gì khi bị hạ đường huyết?",
+      "link": "https://vnexpress.net/lam-gi-khi-bi-ha-duong-huyet-4937514.html",
+      "summary": "Uống ngay đồ ngọt để tăng đường huyết, sau đó kiểm tra lại và ăn nhẹ để duy trì lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:04.057542+07:00"
+    },
+    {
+      "id": "e61a81f54082d959c9d201fcd66c82d3",
+      "title": "Trẻ lây nhiễm sùi mào gà từ thói quen không ngờ",
+      "link": "https://vnexpress.net/tre-lay-nhiem-sui-mao-ga-tu-thoi-quen-khong-ngo-4937521.html",
+      "summary": "Bé trai 4 tuổi, mắc sùi mào gà ở hậu môn, nghi do sử dụng chung khăn tắm với bố 32 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:04.057715+07:00"
+    },
+    {
+      "id": "6bc902a56622b4178eaf771067f44509",
+      "title": "Xem nhanh 20h ngày 10.9: Vì sao YouTuber 'chủ tịch giả nghèo' bị khởi tố | Bé trai vặn ga xe máy gây tai nạn thương tâm",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-109-vi-sao-youtuber-chu-tich-gia-ngheo-bi-khoi-to-be-trai-van-ga-xe-may-gay-tai-nan-thuong-tam-185250910194618162.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 10.9 có nhiều tin tức đáng chú ý về: 1:13 YouTuber ‘chủ tịch giả nghèo’ bị khởi tố tội trốn thuế; hy hữu: Bé trai 7 tuổi vặn tay ga xe máy gây tai nạn thương tâm;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:07.949865+07:00"
+    },
+    {
+      "id": "0d9c23accd03041701904148781c0e2d",
+      "title": "Dấu ấn TopZone trước thông tin iPhone đến người dùng Việt cùng với các thị trường lớn",
+      "link": "https://thanhnien.vn/dau-an-topzone-truoc-thong-tin-iphone-den-nguoi-dung-viet-cung-voi-cac-thi-truong-lon-185250910173140751.htm",
+      "summary": "Nhờ những nỗ lực không ngừng nghỉ của TopZone, giấc mơ sở hữu iPhone cùng lúc với bạn bè quốc tế của Apple Fan Việt đã trở thành hiện thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:07.950012+07:00"
+    },
+    {
+      "id": "07507cdfa24962c819d02d518e7ed7bb",
+      "title": "Hữu Vi tiết lộ cảnh động phòng với Lâm Thanh Mỹ trong phim 'Khế ước bán dâu'",
+      "link": "https://thanhnien.vn/huu-vi-tiet-lo-canh-dong-phong-voi-lam-thanh-my-trong-phim-khe-uoc-ban-dau-185250910160131486.htm",
+      "summary": "Tại buổi công chiếu phim điện ảnh Khế ước bán dâu của đạo diễn Lê Văn Kiệt, nam diễn viên Hữu Vi bất ngờ chia sẻ câu chuyện hậu trường về cảnh nóng cùng bạn diễn 10x Lâm Thanh Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:07.950157+07:00"
+    },
+    {
+      "id": "fc96ac46343c20a5a203c9543280fea9",
+      "title": "'Chạm' vào vẻ đẹp mong manh, lãng mạn của trang phục ren",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cham-vao-ve-dep-mong-manh-lang-man-cua-trang-phuc-ren-185250909231151539.htm",
+      "summary": "Vải ren luôn là 'chìa khóa' mở ra vẻ đẹp lãng mạn cho phái nữ. Không chỉ tôn lên sự nữ tính, ren còn là biểu tượng của sự sang trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T13:00:00+07:00",
+      "fetched": "2025-09-10T21:15:07.950305+07:00"
+    },
+    {
+      "id": "f719194c3326687b15a2bd5469577ddf",
+      "title": "Thấy chồng tái phạm làm pháo, vợ đem tang vật nộp công an",
+      "link": "https://vnexpress.net/thay-chong-tai-pham-lam-phao-vo-dem-tang-vat-nop-cong-an-4937584.html",
+      "summary": "Chị Tuyết phát hiện chồng, đang được hoãn thi hành án, tiếp tục tái phạm sản xuất pháo nên can ngăn, mang 1,5 kg thuốc pháo nộp cho công an",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T12:51:38+07:00",
+      "fetched": "2025-09-10T21:15:04.057880+07:00"
+    },
+    {
+      "id": "452d3c4a2aa9d466f34ba65dc943b989",
+      "title": "Sức ép buộc bệnh viện phải đổi mới từ chữa bệnh sang quản trị sức khỏe",
+      "link": "https://vnexpress.net/suc-ep-buoc-benh-vien-phai-doi-moi-tu-chua-benh-sang-quan-tri-suc-khoe-4937409.html",
+      "summary": "Trước sức ép toàn cầu từ già hóa dân số và dịch bệnh mới nổi, Thứ trưởng Y tế Trần Văn Thuấn cho rằng các bệnh viện buộc phải chuyển mình tăng cường ứng dụng công nghệ và trí tuệ nhân tạo (AI).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T12:49:23+07:00",
+      "fetched": "2025-09-10T21:15:04.058033+07:00"
+    },
+    {
+      "id": "b739ba8c53890cf24fbdd19ac8233895",
+      "title": "Bà Nguyễn Thị Hồng là một trong ba Thống đốc được Global Finance xếp hạng A+",
+      "link": "https://vnexpress.net/ba-nguyen-thi-hong-la-mot-trong-ba-thong-doc-duoc-global-finance-xep-hang-a-4937575.html",
+      "summary": "Trong danh sách của Global Finance, bà Nguyễn Thị Hồng là một trong ba người xếp hạng cao nhất, bên cạnh Chủ tịch Fed và Thống đốc Ngân hàng Trung ương Đan Mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T12:39:29+07:00",
+      "fetched": "2025-09-10T21:15:04.058182+07:00"
+    },
+    {
+      "id": "b739ba8c53890cf24fbdd19ac8233895",
+      "title": "Bà Nguyễn Thị Hồng là một trong ba Thống đốc được Global Finance xếp hạng A+",
+      "link": "https://vnexpress.net/ba-nguyen-thi-hong-la-mot-trong-ba-thong-doc-duoc-global-finance-xep-hang-a-4937575.html",
+      "summary": "Trong danh sách của Global Finance, bà Nguyễn Thị Hồng là một trong ba người xếp hạng cao nhất, bên cạnh Chủ tịch Fed và Thống đốc Ngân hàng Trung ương Đan Mạch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T12:39:29+07:00",
+      "fetched": "2025-09-10T21:15:12.299304+07:00"
+    },
+    {
+      "id": "1b1a090b1f11af24afe8b3c0bfd50bf2",
+      "title": "Quảng Ninh đổi mới sáng tạo để tăng năng lực cạnh tranh",
+      "link": "https://vnexpress.net/quang-ninh-doi-moi-sang-tao-de-tang-nang-luc-canh-tranh-4937572.html",
+      "summary": "Thứ trưởng Khoa học và Công nghệ Hoàng Minh khuyến nghị Quảng Ninh và cộng đồng khởi nghiệp phát huy tinh thần đổi mới để bay cao, sáng tạo để vươn xa, nâng cao năng lực cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T12:31:14+07:00",
+      "fetched": "2025-09-10T21:15:04.058337+07:00"
+    },
+    {
+      "id": "fe5aab76c41a26729622ab083fe49fe1",
+      "title": "Thông điệp của Nga khi tập kích lớn chưa từng có vào Kiev",
+      "link": "https://vnexpress.net/thong-diep-cua-nga-khi-tap-kich-lon-chua-tung-co-vao-kiev-4936723.html",
+      "summary": "Tiến hành cuộc tập kích lớn kỷ lục vào Kiev, Nga dường như muốn gây hoang mang cho Ukraine, đồng thời răn đe phương Tây về giới hạn can thiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T12:30:24+07:00",
+      "fetched": "2025-09-10T21:15:04.058487+07:00"
+    },
+    {
+      "id": "fe5aab76c41a26729622ab083fe49fe1",
+      "title": "Thông điệp của Nga khi tập kích lớn chưa từng có vào Kiev",
+      "link": "https://vnexpress.net/thong-diep-cua-nga-khi-tap-kich-lon-chua-tung-co-vao-kiev-4936723.html",
+      "summary": "Tiến hành cuộc tập kích lớn kỷ lục vào Kiev, Nga dường như muốn gây hoang mang cho Ukraine, đồng thời răn đe phương Tây về giới hạn can thiệp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T12:30:24+07:00",
+      "fetched": "2025-09-10T21:15:10.986398+07:00"
     },
     {
       "id": "8eb273ff93c81d0746a11467087f71d7",
