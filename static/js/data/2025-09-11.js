@@ -1,7 +1,137 @@
 window.newsData_2025_09_11 = {
   "date": "2025-09-11",
-  "lastUpdated": "2025-09-11T05:15:09.910954+07:00",
+  "lastUpdated": "2025-09-11T08:14:01.159411+07:00",
   "articles": [
+    {
+      "id": "1870c2ce74645f9bef870cfcf594e41f",
+      "title": "Tin tức sáng 11-9: Gần 70.000 tỉ đồng trái phiếu đến hạn, chủ yếu nhóm bất động sản",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-9-gan-70-000-ti-dong-trai-phieu-den-han-chu-yeu-nhom-bat-dong-san-20250910144311309.htm",
+      "summary": "Một số tin tức đáng chú ý: VN-Index tăng mạnh, SGI Capital cảnh báo rủi ro điều chỉnh; Một công ty chứng khoán vi phạm cho vay margin; Trung tâm kiểm soát bệnh tật TP.HCM bổ nhiệm 61 lãnh đạo khoa, phòng sau hợp nhất...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.217101+07:00",
+      "fetched": "2025-09-11T08:13:55.217231+07:00"
+    },
+    {
+      "id": "3229665ed9706df39bb090baf176dbc7",
+      "title": "Học sinh TP.HCM phải đi học sáng thứ Bảy: Do trường hiểu chưa đúng về dạy 2 buổi/ngày",
+      "link": "https://tuoitre.vn/hoc-sinh-tp-hcm-phai-di-hoc-sang-thu-bay-do-truong-hieu-chua-dung-ve-day-2-buoi-ngay-20250910223529606.htm",
+      "summary": "Do hiểu chưa đúng về dạy không quá bảy tiết/ngày, nhiều trường đã cho học sinh học sáng thứ Bảy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216981+07:00",
+      "fetched": "2025-09-11T08:13:55.217090+07:00"
+    },
+    {
+      "id": "32ff39efe396657acd4dbe6a12453e74",
+      "title": "'Sốc' khi trẻ em cũng mắc u buồng trứng, có bé mới 3 tuổi",
+      "link": "https://tuoitre.vn/soc-khi-tre-em-cung-mac-u-buong-trung-co-be-moi-3-tuoi-20250910222936515.htm",
+      "summary": "Ở trẻ em, triệu chứng u buồng trứng khá mơ hồ, dễ nhầm với đau bụng do tiêu hóa hay ruột thừ. Khi phát hiện bệnh, gia đình rất 'sốc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216857+07:00",
+      "fetched": "2025-09-11T08:13:55.216969+07:00"
+    },
+    {
+      "id": "60a8550dff2ba938140c199921869360",
+      "title": "Tổng thống Mattarella gặp tuyển bóng chuyền nữ Ý",
+      "link": "https://tuoitre.vn/tong-thong-mattarella-gap-tuyen-bong-chuyen-nu-y-20250911051857088.htm",
+      "summary": "Tổng thống Ý Sergio Mattarella sẽ tiếp đón tuyển bóng chuyền nữ Ý tại Cung điện Quirinal ở Rome vào ngày 8-10 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216734+07:00",
+      "fetched": "2025-09-11T08:13:55.216845+07:00"
+    },
+    {
+      "id": "3beb7d5fff63573853dd178bee8ec366",
+      "title": "Vợ chồng Tiến Minh - Vũ Thị Trang bị loại theo kịch bản hiếm có",
+      "link": "https://tuoitre.vn/vo-chong-tien-minh-vu-thi-trang-bi-loai-theo-kich-ban-hiem-co-20250911000836446.htm",
+      "summary": "Chỉ trong 2 ngày, cặp vợ chồng nổi tiếng của làng cầu lông Nguyễn Tiến Minh - Vũ Thị Trang cùng nói lời chia tay Vietnam Open theo cái cách giống nhau đến bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216608+07:00",
+      "fetched": "2025-09-11T08:13:55.216723+07:00"
+    },
+    {
+      "id": "9ec2650c75ca27d3c6ecfc1a5d2013b3",
+      "title": "CLB Đồng Tháp sắm ngoại binh sau 9 năm lao đao",
+      "link": "https://tuoitre.vn/clb-dong-thap-sam-ngoai-binh-sau-9-nam-lao-dao-20250910231313336.htm",
+      "summary": "Tiền đạo Jhon Cley gia nhập CLB Đồng Tháp ở mùa Giải hạng nhất 2025-2026 để trở thành ngoại binh đầu tiên khoác áo đội bóng xứ sen hồng sau 9 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216483+07:00",
+      "fetched": "2025-09-11T08:13:55.216597+07:00"
+    },
+    {
+      "id": "457a37ced85a8ca194d47c391e701544",
+      "title": "Tuyển Việt Nam đá với Nepal trên sân Thống Nhất?",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-da-voi-nepal-tren-san-thong-nhat-20250910235107668.htm",
+      "summary": "Do lo ngại tình hình căng thẳng ở Nepal, Liên đoàn Bóng đá châu Á (AFC) đã đề nghị Việt Nam tổ chức luôn trận lượt về với Nepal vào tháng 10 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216357+07:00",
+      "fetched": "2025-09-11T08:13:55.216472+07:00"
+    },
+    {
+      "id": "95925c08b8f46169465a6ef91fc7e517",
+      "title": "Tân sinh viên rút hồ sơ vì bị phân ngành trái nguyện vọng, trường nói gì?",
+      "link": "https://tuoitre.vn/tan-sinh-vien-rut-ho-so-vi-bi-phan-nganh-trai-nguyen-vong-truong-noi-gi-20250910214530496.htm",
+      "summary": "Nhiều tân sinh viên Trường đại học Quốc tế (Đại học Quốc gia TP.HCM) đã quyết định rút hồ sơ chỉ vài ngày sau khi trường công bố kết quả phân ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216215+07:00",
+      "fetched": "2025-09-11T08:13:55.216345+07:00"
+    },
+    {
+      "id": "c903edc2a1af94c169425827ea397700",
+      "title": "Tin tức thế giới 11-9: Ám sát tại Mỹ, ông Trump lệnh treo cờ rủ; Nguy cơ chiến sự Ukraine lan rộng",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-11-9-am-sat-tai-my-ong-trump-lenh-treo-co-ru-nguy-co-chien-su-ukraine-lan-rong-2025091023153054.htm",
+      "summary": "Vụ drone lọt qua Ba Lan: Ông Trump lên tiếng, Liên hợp quốc lo xung đột lan rộng; Ông Trump điện đàm căng thẳng với Israel vì vụ tấn công Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.216069+07:00",
+      "fetched": "2025-09-11T08:13:55.216184+07:00"
+    },
+    {
+      "id": "cda78acbb424fc101e9e8fa9b3417345",
+      "title": "Khánh Hòa làm gì hướng đến phát triển xanh toàn diện?",
+      "link": "https://tuoitre.vn/khanh-hoa-lam-gi-huong-den-phat-trien-xanh-toan-dien-20250910183533978.htm",
+      "summary": "Chiều 11-9, tại Nha Trang, báo Tuổi Trẻ phối hợp với UBND tỉnh Khánh Hòa, Sở Văn hóa, Thể thao và Du lịch tỉnh Khánh Hòa tổ chức hội thảo “Để Khánh Hòa trở thành điểm đến xanh toàn diện của thế giới”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.215939+07:00",
+      "fetched": "2025-09-11T08:13:55.216057+07:00"
+    },
+    {
+      "id": "ae69792e36cac6c75faad46016d30ca8",
+      "title": "Loạt xe chạy đua giành giải Car Choice Awards 2025: Đủ nhu cầu từ Gen Z, dịch vụ tới gia đình",
+      "link": "https://tuoitre.vn/loat-xe-chay-dua-gianh-giai-car-choice-awards-2025-du-nhu-cau-tu-gen-z-dich-vu-toi-gia-dinh-20250910072316727.htm",
+      "summary": "Sau ba mùa giải thành công, tạo dấu ấn trong cộng đồng người dùng xe cả nước, Car Choice Awards trở lại năm nay với chủ đề “Vươn mình Bứt tốc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.215806+07:00",
+      "fetched": "2025-09-11T08:13:55.215926+07:00"
+    },
+    {
+      "id": "cb3d7e59d690a55f6cc8f03b70eafde7",
+      "title": "Ông Trump ra lệnh treo cờ rủ sau khi đồng minh Charlie Kirk bị ám sát",
+      "link": "https://tuoitre.vn/ong-trump-ra-lenh-treo-co-ru-sau-khi-dong-minh-charlie-kirk-bi-am-sat-2025091106431753.htm",
+      "summary": "Ngày 10-9, Charlie Kirk (31 tuổi) - đồng minh quan trọng của Tổng thống Trump - đã bị bắn chết trong sự kiện ở Đại học Utah Valley.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.215665+07:00",
+      "fetched": "2025-09-11T08:13:55.215793+07:00"
+    },
+    {
+      "id": "7d96301189520c3a3fd43929bc604849",
+      "title": "Nha Trang xanh: Đo trải nghiệm xanh của du khách thay vì đếm khách",
+      "link": "https://tuoitre.vn/nha-trang-xanh-do-trai-nghiem-xanh-cua-du-khach-thay-vi-dem-khach-20250910231312134.htm",
+      "summary": "Tác giả Nguyễn Lâm Trâm Anh (giảng viên luật, Trường đại học Sài Gòn - SGU) đề xuất một lộ trình để Nha Trang định vị là đô thị du lịch xanh hàng đầu, góp phần cùng Việt Nam đạt mục tiêu phát thải ròng bằng 0 vào năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:55.215452+07:00",
+      "fetched": "2025-09-11T08:13:55.215650+07:00"
+    },
     {
       "id": "dd62b8200e03102dba09c3ef6dddfea3",
       "title": "Đi làm nail, cô gái chụp lén thông tin thẻ ngân hàng, đặt mua iPhone 31 triệu, rút trộm 8 triệu",
@@ -153,6 +283,406 @@ window.newsData_2025_09_11 = {
       "fetched": "2025-09-11T01:22:46.201724+07:00"
     },
     {
+      "id": "d3351ecd3b19211fb6acb882d6b12cdf",
+      "title": "Bác sĩ gợi ý 7 bữa sáng trong tuần giúp kiểm soát đường huyết",
+      "link": "https://thanhnien.vn/bac-si-goi-y-7-bua-sang-trong-tuan-cho-nguoi-muon-kiem-soat-duong-huyet-18525091107284681.htm",
+      "summary": "Bữa sáng điều độ, thanh đạm và đa dạng không chỉ giúp kiểm soát bệnh tiểu đường mà còn nuôi dưỡng tỳ vị, bảo vệ sức khỏe lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:12:00+07:00",
+      "fetched": "2025-09-11T08:13:54.565978+07:00"
+    },
+    {
+      "id": "2bb6f2f58bf74f90095716a48e84c188",
+      "title": "Xem trực tiếp giải cầu lông Việt Nam mở rộng hôm nay ở kênh nào: Nguyễn Thùy Linh đấu ai?",
+      "link": "https://thanhnien.vn/xem-truc-tiep-giai-cau-long-viet-nam-mo-rong-hom-nay-o-kenh-nao-nguyen-thuy-linh-dau-ai-185250911063238689.htm",
+      "summary": "Hôm nay (11.9), giải cầu lông Việt Nam mở rộng 2025 tiếp tục diễn ra tại nhà thi đấu Nguyễn Du (TP.HCM) với tâm điểm là màn tranh tài của Nguyễn Thùy Linh và Nguyễn Hải Đăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:05:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566140+07:00"
+    },
+    {
+      "id": "c0614a0a3cd1fcf360fe63afcdd44544",
+      "title": "Cô giáo từng đổ vỡ hôn nhân vượt qua định kiến, nên duyên cùng người mới",
+      "link": "https://thanhnien.vn/co-giao-tung-do-vo-hon-nhan-vuot-qua-dinh-kien-nen-duyen-cung-nguoi-moi-18525091101534367.htm",
+      "summary": "Từng trải qua đổ vỡ trong hôn nhân, cặp đôi Phương Thảo - Tấn Phong quyết định 'về chung nhà', cùng vun vén hạnh phúc dù đối diện với không ít thử thách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:05:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566314+07:00"
+    },
+    {
+      "id": "6bb4b6e525e2f444f4944bb84898c369",
+      "title": "Hàn Quốc đề nghị Mỹ không còng tay khi thả 300 công nhân",
+      "link": "https://vnexpress.net/han-quoc-de-nghi-my-khong-cong-tay-khi-tha-300-cong-nhan-4937646.html",
+      "summary": "Hàn Quốc đề nghị Mỹ nhanh chóng thả 300 công nhân nước này bị bắt tại công trường nhà máy của Hyundai, LG ở bang Georgia và không còng tay họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:01:56+07:00",
+      "fetched": "2025-09-11T08:13:51.714524+07:00"
+    },
+    {
+      "id": "6bb4b6e525e2f444f4944bb84898c369",
+      "title": "Hàn Quốc đề nghị Mỹ không còng tay khi thả 300 công nhân",
+      "link": "https://vnexpress.net/han-quoc-de-nghi-my-khong-cong-tay-khi-tha-300-cong-nhan-4937646.html",
+      "summary": "Hàn Quốc đề nghị Mỹ nhanh chóng thả 300 công nhân nước này bị bắt tại công trường nhà máy của Hyundai, LG ở bang Georgia và không còng tay họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T01:01:56+07:00",
+      "fetched": "2025-09-11T08:13:56.277714+07:00"
+    },
+    {
+      "id": "c066cd10291e829460af16d6eec3ac0a",
+      "title": "Trải nghiệm drift xe mô hình tại quán cà phê TP HCM",
+      "link": "https://vnexpress.net/trai-nghiem-drift-xe-mo-hinh-tai-quan-ca-phe-tp-hcm-4926841.html",
+      "summary": "Một quán ở phường Vườn Lài tạo điểm nhấn khi kết hợp không gian thưởng thức đồ uống với đường đua drift xe mô hình kịch tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:01:28+07:00",
+      "fetched": "2025-09-11T08:13:51.714700+07:00"
+    },
+    {
+      "id": "e51439163d1f64d2511635bae1ef133e",
+      "title": "Hai con bạch tuộc 'bắt tay' nhau",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-hai-con-bach-tuoc-bat-tay-nhau-4935103.html",
+      "summary": "Giữa lòng đại dương xanh thẳm, một cảnh tượng hiếm thấy đã diễn ra: hai con bạch tuộc “bắt tay” nhau như những người bạn lâu ngày hội ngộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.714861+07:00"
+    },
+    {
+      "id": "d54a10ef3fcdb7ccdc002c035852a027",
+      "title": "Dấu hiệu cảnh báo suy thai",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-suy-thai-4937655.html",
+      "summary": "Nhịp tim thai bất thường, đau bụng, chảy máu âm đạo, thai nhi ít cử động hay nước ối màu xanh thường là dấu hiệu suy thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715024+07:00"
+    },
+    {
+      "id": "67cc6f2d2700aecbadae11bdbb536ea3",
+      "title": "Đột quỵ mới biết bệnh tim bẩm sinh",
+      "link": "https://vnexpress.net/dot-quy-moi-biet-benh-tim-bam-sinh-4937652.html",
+      "summary": "Chị Miên, 42 tuổi, đột quỵ một năm trước, nay mới phát hiện do bẩm sinh tồn tại lỗ bầu dục giữa hai tâm nhĩ tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715187+07:00"
+    },
+    {
+      "id": "f075047890eb14f482676c37c44dccf2",
+      "title": "Nuôi sống trẻ sinh non xuất huyết não",
+      "link": "https://vnexpress.net/nuoi-song-tre-sinh-non-xuat-huyet-nao-4937650.html",
+      "summary": "Bé sinh non ở tuần thai 26 nặng 750 g, suy hô hấp, xuất huyết não, được bác sĩ can thiệp kịp thời, nuôi dưỡng đến khi khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715365+07:00"
+    },
+    {
+      "id": "beac3f82d55ec1d2f6d692804b8927ad",
+      "title": "Ứng dụng thiện nguyện của MB kêu gọi gần 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/ung-dung-thien-nguyen-cua-mb-keu-goi-gan-2-000-ty-dong-4937629.html",
+      "summary": "Nền tảng kết nối các dự án thiện nguyện do MB phát triển đạt hơn 2 triệu tài khoản đăng ký, khởi xướng 7.750 chiến dịch, kêu gọi đóng góp gần 2.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715518+07:00"
+    },
+    {
+      "id": "50657a02818194f22216945d6f2aaebc",
+      "title": "Doanh nghiệp Việt phân phối pin natri-ion cho xe điện",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-phan-phoi-pin-natri-ion-cho-xe-dien-4937566.html",
+      "summary": "Natri Energy hợp tác Natrium One (Trung Quốc) đưa dòng pin thế hệ mới vào Việt Nam, tăng lựa chọn cho thị trường xe máy điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715680+07:00"
+    },
+    {
+      "id": "bf7e54362e1654de4480009182005c55",
+      "title": "Tòa tháp Nobu Danang mang kiến trúc cánh quạt bên biển Mỹ Khê",
+      "link": "https://vnexpress.net/toa-thap-nobu-danang-mang-kien-truc-canh-quat-ben-bien-my-khe-4937482.html",
+      "summary": "Nobu Danang cao 186 m với mặt ngoài thiết kế cong, tạo hiệu ứng chuyển động, mô phỏng hình ảnh cánh quạt Sensu của Nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.715847+07:00"
+    },
+    {
+      "id": "c8a169c693f0725b2fcd8456f83185e7",
+      "title": "Mua căn hộ TT Avio trả góp từ 6 triệu đồng mỗi tháng",
+      "link": "https://vnexpress.net/mua-can-ho-tt-avio-tra-gop-tu-6-trieu-dong-moi-thang-4937369.html",
+      "summary": "TT Avio tung chính sách thanh toán linh hoạt, trong đó có lựa chọn trả góp từ 6 triệu đồng mỗi tháng, hướng tới người mua ở thực và nhà đầu tư muốn tối ưu dòng tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.716009+07:00"
+    },
+    {
+      "id": "a9a52590a9d1e1ad31dda63cfd69f6f7",
+      "title": "Maxcare Home phân phối ghế massage trị liệu Nhật Bản",
+      "link": "https://vnexpress.net/maxcare-home-phan-phoi-ghe-massage-tri-lieu-nhat-ban-4937224.html",
+      "summary": "Maxcare Home ra mắt thị trường Việt Nam hai mẫu ghế massage D.Core 2 và Family Inada iFit Pro, được Bộ Y tế Nhật Bản chứng nhận là thiết bị y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.716158+07:00"
+    },
+    {
+      "id": "56d05921d7ae561eaa214dd6b7301f7f",
+      "title": "Vai trò của sắt trong phát triển toàn diện của trẻ nhỏ",
+      "link": "https://vnexpress.net/vai-tro-cua-sat-trong-phat-trien-toan-dien-cua-tre-nho-4936776.html",
+      "summary": "Sắt tham gia hình thành hồng cầu, vận chuyển oxy, đồng thời hỗ trợ não bộ và miễn dịch, giữ vai trò thiết yếu cho sự phát triển toàn diện của trẻ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:51.716361+07:00"
+    },
+    {
+      "id": "01e917906fb626f5f6b3f840c235dda2",
+      "title": "Tinh hoa ẩm thực chay Huế: Nhà vua ăn chay ở Trai cung",
+      "link": "https://thanhnien.vn/tinh-hoa-am-thuc-chay-hue-nha-vua-an-chay-o-trai-cung-185250910220142885.htm",
+      "summary": "Một trong những minh chứng rõ nét cho truyền thống chay tịnh trong nghi lễ cung đình của vương triều Nguyễn là lễ tế Nam Giao (tế trời). Trước khi tế lễ, nhà vua phải \"ăn chay nằm đất\" giữ gìn trai giới cho thân tâm thanh tịnh tại Trai cung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566467+07:00"
+    },
+    {
+      "id": "4a9fdae994dfa2348aae45fb663e4002",
+      "title": "Trị rụng tóc, hói đầu, xóa sẹo, nếp nhăn, nám, tàn nhang bằng công nghệ hiện đại",
+      "link": "https://thanhnien.vn/tri-rung-toc-hoi-dau-xoa-seo-nep-nhan-nam-tan-nhang-bang-cong-nghe-hien-dai-185250910214006344.htm",
+      "summary": "Top công nghệ hiệu quả, không đau, an toàn về rụng tóc, nếp nhăn, sẹo rỗ, nốt ruồi, nám sâu đã có mặt tại chuyên khoa Da liễu - Thẩm mỹ Da, Bệnh viện Đa khoa Tâm Anh TP.HCM cho tóc dày, da căng, nhan sắc thăng hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566617+07:00"
+    },
+    {
+      "id": "3ed15032ae55fa3cc6285e348c35f3db",
+      "title": "Bộ sưu tập những bản sắc sống tinh tuyển tại The Fullton Edition",
+      "link": "https://thanhnien.vn/bo-suu-tap-nhung-ban-sac-song-tinh-tuyen-tai-the-fullton-edition-185250910213259766.htm",
+      "summary": "Giữa nhịp sống hối hả của thành phố, vẫn có một chốn dừng chân dành cho ai khao khát một miền an yên và khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566764+07:00"
+    },
+    {
+      "id": "3624ebf626839366b1053cb5b7b3bd74",
+      "title": "Nhóm bạn trẻ tạo ứng dụng thuê nhà tiện lợi và an toàn",
+      "link": "https://thanhnien.vn/nhom-ban-tre-tao-ung-dung-thue-nha-tien-loi-va-an-toan-185250910183618462.htm",
+      "summary": "Hiểu được khó khăn của bè bạn khi thuê trọ, một nhóm sinh viên Trường ĐH FPT TP.HCM đã phát triển ứng dụng thuê căn hộ thông minh tích hợp công nghệ chatbot AI và tính năng xem nhà 360⁰ virtual tour (chuyến tham quan ảo toàn cảnh), mang đến trải nghiệm tìm chỗ ở tiện lợi hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.566909+07:00"
+    },
+    {
+      "id": "2da3aeb5a16d6deb4394741432c47076",
+      "title": "Đầu tư bất động sản gần KCN, đâu mới là 'chìa khóa' sinh lời bền vững?",
+      "link": "https://thanhnien.vn/dau-tu-bat-dong-san-gan-kcn-dau-moi-la-chia-khoa-sinh-loi-ben-vung-185250910174354888.htm",
+      "summary": "Từ Bắc vào Nam, hàng loạt khu dân cư, khu đô thị đã hình thành quanh các KCN lớn, đáp ứng nhu cầu an cư, kinh doanh và cho thuê. Dòng lao động dồi dào cùng tốc độ phát triển công nghiệp trở thành 'bệ phóng' giúp không ít nhà đầu tư sớm thu được lợi nhuận từ việc mua bán, cho thuê BĐS gần KCN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567055+07:00"
+    },
+    {
+      "id": "eb7f2535097391a130c1b7e7d28ce92a",
+      "title": "Quần ống rộng, váy dài và áo polo dệt kim, cặp đôi mới của mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-ong-rong-vay-dai-va-ao-polo-det-kim-cap-doi-moi-cua-mua-185250906104932464.htm",
+      "summary": "Áo polo dệt kim đang là chiếc áo được mặc nhiều nhất ở thời điểm này, khi mùa đẹp nhất năm chào đón tín đồ thời trang bằng tiết trời mát nhẹ dịu dàng. Áo polo và quần ống rộng, áo len mỏng phối chân váy dài là những bản phối trang nhã hợp đi làm, đi chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T01:00:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567215+07:00"
+    },
+    {
+      "id": "fb26ef2230466071f318dca83f7e0e8f",
+      "title": "Cuộc sống hạnh phúc của Chung Gia Hân bên chồng bác sĩ",
+      "link": "https://thanhnien.vn/cuoc-song-hanh-phuc-cua-chung-gia-han-ben-chong-bac-si-185250911070142865.htm",
+      "summary": "Gần chục năm kể từ khi rời bỏ hào quang ở Hồng Kông để xây dựng tổ ấm với chồng bác sĩ, Chung Gia Hân có cuộc sống hạnh phúc tại Canada. Cô bận rộn với việc chăm sóc 3 con đồng thời duy trì hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:59:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567368+07:00"
+    },
+    {
+      "id": "c97292bc88ccff214fee898d352cbc8b",
+      "title": "Công an TP.HCM tạm giữ hình sự bác sĩ nha khoa Tuyết Chinh đánh khách hàng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tam-giu-hinh-su-bac-si-nha-khoa-tuyet-chinh-danh-khach-hang-185250911073659139.htm",
+      "summary": "Công an TP.HCM đã tạm giữ hình sự bà Nguyễn Thị Tuyết Chinh, bác sĩ nha khoa Tuyết Chinh (phường Hạnh Thông, Q.Gò Vấp cũ, TP.HCM), để điều tra về hành vi gây rối trật tự công cộng. Nguyên nhân xuất phát từ việc bà Chinh dùng hung khí hành hung, đe dọa một nữ khách hàng ngay tại cơ sở của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:48:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567514+07:00"
+    },
+    {
+      "id": "3e828d28239016f319e15472e18021b1",
+      "title": "Qatar kêu gọi đưa Thủ tướng Israel ra trước công lý",
+      "link": "https://vnexpress.net/qatar-keu-goi-dua-thu-tuong-israel-ra-truoc-cong-ly-4937649.html",
+      "summary": "Thủ tướng Qatar cho rằng Israel đã làm mất cơ hội cứu con tin khi không kích Hamas ở Doha và kêu gọi đưa người đồng cấp Netanyahu ra trước công lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:40:44+07:00",
+      "fetched": "2025-09-11T08:13:51.716523+07:00"
+    },
+    {
+      "id": "3e828d28239016f319e15472e18021b1",
+      "title": "Qatar kêu gọi đưa Thủ tướng Israel ra trước công lý",
+      "link": "https://vnexpress.net/qatar-keu-goi-dua-thu-tuong-israel-ra-truoc-cong-ly-4937649.html",
+      "summary": "Thủ tướng Qatar cho rằng Israel đã làm mất cơ hội cứu con tin khi không kích Hamas ở Doha và kêu gọi đưa người đồng cấp Netanyahu ra trước công lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T00:40:44+07:00",
+      "fetched": "2025-09-11T08:13:56.277886+07:00"
+    },
+    {
+      "id": "c9f0ac2b70cc5399ac4726aa86ec1a40",
+      "title": "Trung Quốc có động thái mới với bãi cạn Scarborough ở Biển Đông",
+      "link": "https://thanhnien.vn/trung-quoc-co-dong-thai-moi-voi-bai-can-scarborough-o-bien-dong-185250911064921652.htm",
+      "summary": "Tân Hoa xã tối 10.9 đưa tin chính phủ Trung Quốc đã chấp thuận đề nghị của Bộ Tài nguyên thiên nhiên thành lập Khu bảo tồn thiên nhiên quốc gia Huangyan Dao, tên Trung Quốc gọi bãi cạn Scarborough ở Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:40:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567664+07:00"
+    },
+    {
+      "id": "0b9476f22342b9b21d9fb42292f52f2d",
+      "title": "Vườn rau sân thượng dành tặng con của kỹ sư IT",
+      "link": "https://vnexpress.net/vuon-rau-san-thuong-danh-tang-con-cua-ky-su-it-4936953.html",
+      "summary": "Trên sân thượng 36 m2, anh Trần Minh Phúc, 42 tuổi, trồng dưa chuột rắn, khổ qua trái tim, bí vua Hàn Quốc để các con khám phá tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:36:13+07:00",
+      "fetched": "2025-09-11T08:13:51.716688+07:00"
+    },
+    {
+      "id": "e274fb5e36654f39682fba6164350cb0",
+      "title": "Giá heo hơi hôm nay 11.9.2025: Thêm địa phương vượt mốc 60.000 đồng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1192025-them-dia-phuong-vuot-moc-60000-dong-185250910165729941.htm",
+      "summary": "Giá heo hơi tiếp tục tăng, đáng chú ý tại miền Bắc, nhiều nơi đạt và vượt mốc 60.000 đồng/kg; trong khi miền Trung vẫn là khu vực có giá bình quân thấp nhất cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:36:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567817+07:00"
+    },
+    {
+      "id": "ba22dc80e18b73950c93c6a2a1dddbbd",
+      "title": "Bộ trưởng Quốc phòng Mỹ - Trung nói gì trong lần đầu điện đàm?",
+      "link": "https://thanhnien.vn/bo-truong-quoc-phong-my-trung-noi-gi-trong-lan-dau-dien-dam-185250911073435812.htm",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Pete Hegseth đã có cuộc gọi video trực tuyến đầu tiên với người đồng cấp Trung Quốc Đổng Quân vào ngày 9.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:35:00+07:00",
+      "fetched": "2025-09-11T08:13:54.567970+07:00"
+    },
+    {
+      "id": "17624b0343293814af5433acf11acf50",
+      "title": "Samsung mỉa mai loạt sản phẩm mới của Apple",
+      "link": "https://thanhnien.vn/samsung-mia-mai-loat-san-pham-moi-cua-apple-185250910220310936.htm",
+      "summary": "Sau khi Apple ra mắt dòng iPhone 17 mới tại sự kiện Awe Dropping, Samsung đã nhanh chóng đăng bài chế nhạo đối thủ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:32:00+07:00",
+      "fetched": "2025-09-11T08:13:54.568117+07:00"
+    },
+    {
+      "id": "005ae814ece2d49c4afd62e16672854b",
+      "title": "Bác sĩ nha khoa đánh khách hàng ở TP HCM bị bắt",
+      "link": "https://vnexpress.net/bac-si-nha-khoa-danh-khach-hang-o-tp-hcm-bi-bat-4936962.html",
+      "summary": "Nguyễn Thị Tuyết Chinh, chủ phòng khám nha khoa ở phường Hạnh Thông, TP HCM, bị bắt khẩn cấp với cáo buộc gây rối trật tự công cộng khi hành hung khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:20:27+07:00",
+      "fetched": "2025-09-11T08:13:51.716838+07:00"
+    },
+    {
+      "id": "7b8f748c82045a11803a79ef68e4da3e",
+      "title": "Ông Trump muốn tử hình hung thủ đâm chết cô gái Ukraine",
+      "link": "https://vnexpress.net/ong-trump-muon-tu-hinh-hung-thu-dam-chet-co-gai-ukraine-4937644.html",
+      "summary": "Tổng thống Trump kêu gọi tòa tuyên án tử hình nghi phạm đâm chết cô gái Ukraine Iryna Zarutska trên tàu điện ở Charlotte.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T00:07:15+07:00",
+      "fetched": "2025-09-11T08:13:56.278045+07:00"
+    },
+    {
+      "id": "92c757533b9cfa9a3032b9ee6bf3eaee",
+      "title": "Đồng minh của ông Trump bị bắn chết giữa trường học",
+      "link": "https://vnexpress.net/dong-minh-cua-ong-trump-bi-ban-chet-giua-truong-hoc-4937643.html",
+      "summary": "Nhà hoạt động bảo thủ Charlie Kirk, đồng minh quan trọng của Tổng thống Trump, bị bắn chết khi đang phát biểu tại Đại học Utah Valley.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T23:38:24+07:00",
+      "fetched": "2025-09-11T08:13:56.278223+07:00"
+    },
+    {
+      "id": "b72a59cd798bdea5cd4bc9333dda0241",
+      "title": "Di chúc của Hulk Hogan hé lộ sau mâu thuẫn gia đình",
+      "link": "https://vnexpress.net/di-chuc-cua-hulk-hogan-he-lo-sau-mau-thuan-gia-dinh-4937619.html",
+      "summary": "Huyền thoại đô vật Hulk Hogan để lại khối tài sản khoảng 5 triệu USD trong di chúc, trong đó không có phần nào cho con gái ruột Brooke - người được cho mâu thuẫn và xa cách ông trong những năm cuối đời.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:23:34+07:00",
+      "fetched": "2025-09-11T08:14:01.154100+07:00"
+    },
+    {
+      "id": "cc21cab10248f88a1c69e191b4e4ed0a",
+      "title": "Haaland xin lỗi thủ môn Moldova vì ghi 5 bàn",
+      "link": "https://vnexpress.net/haaland-xin-loi-thu-mon-moldova-vi-ghi-5-ban-4937585.html",
+      "summary": "Erling Haaland tìm gặp Cristian Avram để trực tiếp xin lỗi thủ môn tuyển Moldova sau trận Na Uy thắng 11-1 ở bảng I vòng loại World Cup 2026 - khu vực châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:17:38+07:00",
+      "fetched": "2025-09-11T08:14:01.153606+07:00"
+    },
+    {
+      "id": "8e6529eebd3fd81674e602841d05c3c4",
+      "title": "Mỹ nhân điền kinh Trung Quốc không đặt nặng thành tích ở giải thế giới",
+      "link": "https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-khong-dat-nang-thanh-tich-o-giai-the-gioi-4937471.html",
+      "summary": "Runner 28 tuổi Wu Yanni xem khoảng cách lớn với các đối thủ là động lực để thi đấu tốt nhất ở giải điền kinh VĐTG Tokyo 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:17:17+07:00",
+      "fetched": "2025-09-11T08:14:01.154275+07:00"
+    },
+    {
+      "id": "83af0db01897428c6194f68787847875",
+      "title": "Duplantis dẫn đầu dàn sao săn kỷ lục thế giới tại Tokyo",
+      "link": "https://vnexpress.net/duplantis-dan-dau-dan-sao-san-ky-luc-the-gioi-tai-tokyo-4937517.html",
+      "summary": "Armand Duplantis (nhảy sào nam), Faith Kipyegon (1.500m nữ) hay Karsten Warholm (400m rào nam) là những ngôi sao được kỳ vọng sẽ phá kỷ lục tại giải điền kinh VĐTG 2025 ở Tokyo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:05:09+07:00",
+      "fetched": "2025-09-11T08:14:01.154433+07:00"
+    },
+    {
+      "id": "0f7b73e9e97bec0c876b5da95aef69f2",
+      "title": "Alcaraz đặt mục tiêu vượt Nadal",
+      "link": "https://vnexpress.net/alcaraz-dat-muc-tieu-vuot-nadal-4937641.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz muốn trở thành người trẻ nhất hoàn tất bộ sưu tập Grand Slam, khi tham dự Australia Mở rộng đầu năm sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T22:57:20+07:00",
+      "fetched": "2025-09-11T08:14:01.153942+07:00"
+    },
+    {
+      "id": "cbfc33fc9ffbab21ed7289072fdf5503",
+      "title": "Djokovic chỉ ra điểm yếu của Sinner từ ba năm trước",
+      "link": "https://vnexpress.net/djokovic-chi-ra-diem-yeu-cua-sinner-tu-ba-nam-truoc-4937642.html",
+      "summary": "Darren Cahill - HLV của Jannik Sinner - từng xin Novak Djokovic lời khuyên về lối chơi của Jannik Sinner, và được tay vợt Serbia chỉ ra chi tiết từng điều cần cải thiện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T22:53:21+07:00",
+      "fetched": "2025-09-11T08:14:01.153781+07:00"
+    },
+    {
       "id": "dc8a915b396af6f30e244de661f12af6",
       "title": "Nước cờ liều lĩnh của Israel",
       "link": "https://thanhnien.vn/nuoc-co-lieu-linh-cua-israel-185250910203556769.htm",
@@ -181,6 +711,16 @@ window.newsData_2025_09_11 = {
       "category": "Thế giới",
       "published": "2025-09-10T22:00:00+07:00",
       "fetched": "2025-09-11T05:15:03.182852+07:00"
+    },
+    {
+      "id": "70102bc6da1513fd252bae9b1b27b2e4",
+      "title": "iPhone Air - mỏng nhưng chắc chắn",
+      "link": "https://vnexpress.net/iphone-air-mong-nhung-chac-chan-4937418.html",
+      "summary": "iPhone Air tạo ấn tượng với độ mỏng 5,6 mm nhưng cảm giác cầm chắc chắn, hoàn thiện tốt, màn hình đẹp, điềm trừ là chỉ có một camera.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-10T22:00:00+07:00",
+      "fetched": "2025-09-11T08:13:59.857413+07:00"
     },
     {
       "id": "28a77cd806f39e8f02b50ab6fefe86ba",
