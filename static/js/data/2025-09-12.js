@@ -1,6 +1,6 @@
 window.newsData_2025_09_12 = {
   "date": "2025-09-12",
-  "lastUpdated": "2025-09-12T01:19:20.572771+07:00",
+  "lastUpdated": "2025-09-12T03:14:34.781242+07:00",
   "articles": [
     {
       "id": "f00fa3b92b391fbd2473a5aaeff00f0f",
@@ -151,6 +151,16 @@ window.newsData_2025_09_12 = {
       "category": "Tổng hợp",
       "published": "2025-09-12T01:19:13.387773+07:00",
       "fetched": "2025-09-12T01:19:13.387997+07:00"
+    },
+    {
+      "id": "697aff5727082799371be1fe9523751f",
+      "title": "TP Huế lên kế hoạch chỉnh trang Cồn Hến",
+      "link": "https://vnexpress.net/tp-hue-len-ke-hoach-chinh-trang-con-hen-4938032.html",
+      "summary": "Cồn Hến nằm giữa sông Hương dự kiến sẽ được chỉnh trang trong 4 năm tới, với tuyến kè dài 3,2 km chống sạt lở và hệ thống hạ tầng đồng bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T18:23:45+07:00",
+      "fetched": "2025-09-12T03:14:23.841417+07:00"
     },
     {
       "id": "9478817d20158823c36e77073086cf2f",
