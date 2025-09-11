@@ -1,6 +1,6 @@
 window.newsData_2025_09_11 = {
   "date": "2025-09-11",
-  "lastUpdated": "2025-09-11T13:24:39.100111+07:00",
+  "lastUpdated": "2025-09-11T15:22:39.552455+07:00",
   "articles": [
     {
       "id": "7530185e6ef8059b90769f69679d7475",
@@ -303,6 +303,36 @@ window.newsData_2025_09_11 = {
       "fetched": "2025-09-11T09:57:46.504861+07:00"
     },
     {
+      "id": "0a287e33c01787de51e95de4de1ee127",
+      "title": "Chủ nhà thuốc Mỹ Châu không được áp dụng tình tiết 'thành khẩn khai báo'?",
+      "link": "https://thanhnien.vn/chu-nha-thuoc-my-chau-khong-duoc-ap-dung-tinh-tiet-thanh-khan-khai-bao-185250911144349423.htm",
+      "summary": "Luận tội, Viện kiểm sát đề nghị chủ nhà thuốc Mỹ Châu Pharmacy từ 14 - 15 năm tù, và bị cáo này không áp dụng tình tiết giảm nhẹ 'người phạm tội thành khẩn khai báo, ăn năn hối cải'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:19:00+07:00",
+      "fetched": "2025-09-11T15:21:20.171451+07:00"
+    },
+    {
+      "id": "22db5e6a05b208047cc2d1621e78084e",
+      "title": "Tài tử 'Tam sinh tam thế' bị nghi ngã lầu tử vong",
+      "link": "https://thanhnien.vn/tai-tu-tam-sinh-tam-the-bi-nghi-nga-lau-tu-vong-18525091114434791.htm",
+      "summary": "Làng giải trí Hoa ngữ chấn động trước thông tin nam diễn viên Vu Mông Lung đã đột ngột qua đời. Nguyên nhân cái chết có thể là một vụ ngã lầu đầy bí ẩn, xảy ra sau một buổi tiệc đêm thân mật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:19:00+07:00",
+      "fetched": "2025-09-11T15:21:20.171623+07:00"
+    },
+    {
+      "id": "e0c7faf76e10b8b6a122634009d06e93",
+      "title": "Nhiều cây trúc 'chết đứng' bên hồ Trúc Bạch",
+      "link": "https://thanhnien.vn/nhieu-cay-truc-chet-dung-ben-ho-truc-bach-185250911144541356.htm",
+      "summary": "Sau gần 2 năm được trồng tại thửa đất bên hồ Trúc Bạch (Hà Nội), rừng trúc đang xuất hiện nhiều cây trúc bị 'chết đứng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:16:00+07:00",
+      "fetched": "2025-09-11T15:21:20.171781+07:00"
+    },
+    {
       "id": "1870c2ce74645f9bef870cfcf594e41f",
       "title": "Tin tức sáng 11-9: Gần 70.000 tỉ đồng trái phiếu đến hạn, chủ yếu nhóm bất động sản",
       "link": "https://tuoitre.vn/tin-tuc-sang-11-9-gan-70-000-ti-dong-trai-phieu-den-han-chu-yeu-nhom-bat-dong-san-20250910144311309.htm",
@@ -433,6 +463,326 @@ window.newsData_2025_09_11 = {
       "fetched": "2025-09-11T08:13:55.215650+07:00"
     },
     {
+      "id": "7f5635d01fd227817f95179ab2fec2dd",
+      "title": "Uyển Ân nói về việc đóng cảnh thân mật với trai đẹp cao 1,88 m",
+      "link": "https://thanhnien.vn/uyen-an-noi-ve-viec-dong-canh-than-mat-voi-trai-dep-cao-188-m-185250911141103107.htm",
+      "summary": "Uyển Ân cho biết trong phim 'Chị ngã em nâng', cô có nhiều trải nghiệm mới mẻ khi làm việc cùng đàn chị Lê Khánh và diễn viên Thuận Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:13:00+07:00",
+      "fetched": "2025-09-11T15:21:20.171934+07:00"
+    },
+    {
+      "id": "cd8746c32daa92151d3bf7eecd4fa147",
+      "title": "Hàng ngàn việc làm chờ ứng viên, có vị trí lương đến 50 triệu đồng/tháng",
+      "link": "https://thanhnien.vn/hang-ngan-viec-lam-cho-ung-vien-co-vi-tri-luong-den-50-trieu-dong-thang-185250911140645397.htm",
+      "summary": "Hơn 5.200 vị trí việc làm đang cần tìm người lao động. Đáng chú ý, một số công ty đưa ra mức đãi ngộ hấp dẫn từ 25 - 50 triệu đồng mỗi tháng cho các vị trí cần tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:07:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172108+07:00"
+    },
+    {
+      "id": "e53f1a9b908b72ec515c0038e9475a62",
+      "title": "Võ Lâm Truyền Kỳ 2.0 PC ngập tràn sự kiện ngày đầu ra mắt",
+      "link": "https://thanhnien.vn/vo-lam-truyen-ky-20-pc-ngap-tran-su-kien-ngay-dau-ra-mat-185250911104444682.htm",
+      "summary": "10 giờ sáng 11.9.2025, Võ Lâm Truyền Kỳ 2.0 PC chính thức khai mở, mang đến cho cộng đồng game thủ một chuyến hành trình trở về ký ức tuổi trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:04:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172266+07:00"
+    },
+    {
+      "id": "c812fefb4a97709ef661088798236e84",
+      "title": "Giá xăng giảm, giá dầu tăng",
+      "link": "https://thanhnien.vn/gia-xang-giam-gia-dau-tang-185250911144045964.htm",
+      "summary": "Giá xăng dầu từ 15 giờ ngày 11.9 tăng, giảm trái chiều. Trong đó, giá dầu tăng cao nhất là 170 đồng/lít, giảm sâu nhất là 286 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:00:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172417+07:00"
+    },
+    {
+      "id": "ca916d79010e8fc5d0112551cfde5e0c",
+      "title": "‘Ăn đậm, thở thơm’ cùng TheraBreath: Từ văn hóa ẩm thực đến giải pháp y khoa",
+      "link": "https://thanhnien.vn/an-dam-tho-thom-cung-therabreath-tu-van-hoa-am-thuc-den-giai-phap-y-khoa-185250911141748945.htm",
+      "summary": "Ẩm thực Việt Nam vốn nổi tiếng trên toàn thế giới bởi sự đa dạng, đậm đà hương vị. Thế nhưng, đi kèm đó lại là một nỗi lo ngại quen thuộc hơi thở có thể sẽ lưu mùi sau bữa ăn. TheraBreath - thương hiệu nước súc miệng từ Mỹ - đã đưa ra thông điệp 'Ăn đậm, thở thơm', gợi mở một thói quen y khoa mới: t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:00:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172569+07:00"
+    },
+    {
+      "id": "4454a7beaafe795ac893906be23ab016",
+      "title": "Tái sinh - Truyện ngắn dự thi của Nguyễn Thị Thanh Nga",
+      "link": "https://thanhnien.vn/tai-sinh-truyen-ngan-du-thi-cua-nguyen-thi-thanh-nga-185250907205745815.htm",
+      "summary": "Đó là một ngày đầy nắng, hẳn thế bởi mùa hè chẳng bao giờ thiếu cái chói chang. Kha khoác chiếc ba lô đi trên đường như một kẻ vô định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T08:00:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172728+07:00"
+    },
+    {
+      "id": "bfb573fcdca197c043a9c971739dacb4",
+      "title": "Quảng Trị: Tàu cá bốc cháy dữ dội trên sông Nhật Lệ giữa trưa nắng",
+      "link": "https://thanhnien.vn/quang-tri-tau-ca-boc-chay-du-doi-tren-song-nhat-le-giua-trua-nang-18525091113502442.htm",
+      "summary": "Một tàu cá bất ngờ bốc cháy giữa trưa nắng trên sông Nhật Lệ (thuộc P.Đồng Hới, Quảng Trị). Lực lượng chức năng gồm bộ đội biên phòng, công an Quảng Trị cùng người dân địa phương đã rất nỗ lực để dập lửa…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:57:00+07:00",
+      "fetched": "2025-09-11T15:21:20.172880+07:00"
+    },
+    {
+      "id": "def99aab43a72b312096800a64099b4d",
+      "title": "'Mưa đỏ' tiếp tục đón tin vui sau khi vượt 'Mai' của Trấn Thành",
+      "link": "https://thanhnien.vn/mua-do-tiep-tuc-don-tin-vui-sau-khi-vuot-mai-cua-tran-thanh-18525091113344247.htm",
+      "summary": "'Mưa đỏ' tiếp tục đón thêm tin vui khi chính thức cán mốc 600 tỉ đồng, theo số liệu thống kê của Box Office Vietnam. Trước đó, tác phẩm của đạo diễn Đặng Thái Huyền vượt qua 'Mai' để trở thành phim Việt ăn khách nhất phòng vé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:54:00+07:00",
+      "fetched": "2025-09-11T15:21:20.173027+07:00"
+    },
+    {
+      "id": "836d4ec458715e79824d014b6b10cae2",
+      "title": "Giá vàng miếng trong nước giảm 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-11-9-4937902.html",
+      "summary": "Giá vàng miếng trong nước bán ra ở mức 134,3 triệu đồng, giảm 1 triệu so với hôm qua, đánh dấu ngày đi lùi thứ hai liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:48:31+07:00",
+      "fetched": "2025-09-11T15:21:16.650806+07:00"
+    },
+    {
+      "id": "836d4ec458715e79824d014b6b10cae2",
+      "title": "Giá vàng miếng trong nước giảm hơn 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-11-9-4937902.html",
+      "summary": "Giá vàng miếng trong nước mất mốc 134 triệu đồng, giảm 1,4 triệu so với hôm qua, đánh dấu ngày đi lùi thứ hai liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-11T07:48:31+07:00",
+      "fetched": "2025-09-11T15:22:33.765490+07:00"
+    },
+    {
+      "id": "2cc52cafe6a476dc0737ffa6118e6910",
+      "title": "Cuộc tập kích của Israel vào thủ đô Qatar có thể khiến Trung Đông thêm hỗn loạn",
+      "link": "https://vnexpress.net/cuoc-tap-kich-cua-israel-vao-thu-do-qatar-co-the-khien-trung-dong-them-hon-loan-4937232.html",
+      "summary": "Cuộc tập kích vào ban lãnh đạo Hamas ngay giữa thủ đô Qatar có thể làm sụp đổ mọi nỗ lực đàm phán hòa bình, khiến nhiều nước Trung Đông thêm bất bình với Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:42:34+07:00",
+      "fetched": "2025-09-11T15:21:16.650993+07:00"
+    },
+    {
+      "id": "4a5b6cf4f593e3db31608297f12adc63",
+      "title": "OpenAI sắp khiến giới sản xuất phim hoạt hình thất nghiệp",
+      "link": "https://thanhnien.vn/openai-sap-khien-gioi-san-xuat-phim-hoat-hinh-that-nghiep-18525091010394235.htm",
+      "summary": "Bỏ qua hàng trăm họa sĩ và nhiều năm làm việc, bộ phim 'Critterz' của OpenAI sẽ định nghĩa lại ngành hoạt hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:38:00+07:00",
+      "fetched": "2025-09-11T15:21:20.173199+07:00"
+    },
+    {
+      "id": "bf3fffd4a1f68d695399685e1316063f",
+      "title": "Chỉ cần anh thực sự yêu thương em",
+      "link": "https://vnexpress.net/chi-can-anh-thuc-su-yeu-thuong-em-4937721.html",
+      "summary": "Em từng đổ vỡ hôn nhân, trải qua cay đắng ngọt bùi của cuộc đời, cũng đã đến lúc em phải đi tìm mảnh ghép còn lại của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:34:33+07:00",
+      "fetched": "2025-09-11T15:21:16.651119+07:00"
+    },
+    {
+      "id": "8129cc876b7ebfbca98ef4b2dc8a049f",
+      "title": "600.000 sinh viên TP.HCM… hết lo chỗ thuê trọ, việc làm",
+      "link": "https://thanhnien.vn/600000-sinh-vien-tphcm-het-lo-cho-thue-tro-viec-lam-18525091114265107.htm",
+      "summary": "Mùa tựu trường năm nay, hàng trăm nghìn sinh viên từ khắp các tỉnh thành đổ về TP.HCM để bắt đầu hành trình học tập. Nỗi lo lớn nhất vẫn là chỗ thuê trọ, chi phí sinh hoạt và việc làm bán thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:34:00+07:00",
+      "fetched": "2025-09-11T15:21:20.173349+07:00"
+    },
+    {
+      "id": "54730f2dff19f5b42b01b5f6baf067a4",
+      "title": "Phụ huynh đưa đón con đi học chú ý: Những lỗi phổ biến bị CSGT phạt",
+      "link": "https://thanhnien.vn/phu-huynh-dua-don-con-di-hoc-chu-y-nhung-loi-pho-bien-bi-csgt-phat-185250911141817536.htm",
+      "summary": "Năm học mới vừa bắt đầu, phụ huynh đưa đón con đi học thường vi phạm những lỗi phổ biến, có thể bị CSGT phạt. Đó là lỗi gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:33:00+07:00",
+      "fetched": "2025-09-11T15:21:20.173496+07:00"
+    },
+    {
+      "id": "2198addf17961f2b12260920b6f58d96",
+      "title": "Một doanh nghiệp 'chơi lớn' thưởng cho cổ đông cả tỉ cổ phiếu",
+      "link": "https://thanhnien.vn/mot-doanh-nghiep-choi-lon-thuong-cho-co-dong-ca-ti-co-phieu-185250911141417947.htm",
+      "summary": "Một doanh nghiệp trên sàn chứng khoán công bố chia cổ tức và thưởng cho cổ đông gần 2 tỉ cổ phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:33:00+07:00",
+      "fetched": "2025-09-11T15:21:20.173648+07:00"
+    },
+    {
+      "id": "7eaa79ae43a05c7915241cd45e1f62cd",
+      "title": "Giá xăng giảm, dầu tăng",
+      "link": "https://vnexpress.net/gia-xang-giam-dau-tang-4937867.html",
+      "summary": "Giá xăng giảm, dầu tăng từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:30:35+07:00",
+      "fetched": "2025-09-11T15:21:16.651286+07:00"
+    },
+    {
+      "id": "7eaa79ae43a05c7915241cd45e1f62cd",
+      "title": "Giá xăng giảm, dầu tăng",
+      "link": "https://vnexpress.net/gia-xang-giam-dau-tang-4937867.html",
+      "summary": "Giá xăng giảm, dầu tăng từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-11T07:30:35+07:00",
+      "fetched": "2025-09-11T15:22:33.763984+07:00"
+    },
+    {
+      "id": "52836c36291b222ba43ea1b195264cc1",
+      "title": "Thương mại điện tử thải ra 68% rác nhựa dùng một lần",
+      "link": "https://vnexpress.net/thuong-mai-dien-tu-thai-ra-68-rac-nhua-dung-mot-lan-4937804.html",
+      "summary": "68% nhựa dùng một lần phát sinh từ các hoạt động thương mại điện tử, trong đó túi nilon, bao bì xốp chống sốc và chai nhựa là những loại rác thải phổ biến nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:23:57+07:00",
+      "fetched": "2025-09-11T15:21:16.651450+07:00"
+    },
+    {
+      "id": "52836c36291b222ba43ea1b195264cc1",
+      "title": "Thương mại điện tử thải ra 68% rác nhựa dùng một lần",
+      "link": "https://vnexpress.net/thuong-mai-dien-tu-thai-ra-68-rac-nhua-dung-mot-lan-4937804.html",
+      "summary": "68% nhựa dùng một lần phát sinh từ các hoạt động thương mại điện tử, trong đó túi nilon, bao bì xốp chống sốc và chai nhựa là những loại rác thải phổ biến nhất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-11T07:23:57+07:00",
+      "fetched": "2025-09-11T15:22:33.765642+07:00"
+    },
+    {
+      "id": "1ba0e4437e76b57f04f5ca925583876b",
+      "title": "Kho túi hiệu của Đỗ Thị Hà",
+      "link": "https://vnexpress.net/kho-tui-hieu-cua-do-thi-ha-4937819.html",
+      "summary": "Hoa hậu Việt Nam 2020 Đỗ Thị Hà, 24 tuổi, sở hữu nhiều mẫu túi nổi tiếng của Hermes, Chanel, Dior.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:19:52+07:00",
+      "fetched": "2025-09-11T15:21:16.651609+07:00"
+    },
+    {
+      "id": "d370ffa3cebcdd7ec20c9e652c417d93",
+      "title": "Khoảnh khắc quan chức Nepal đu dây trực thăng trốn người biểu tình",
+      "link": "https://vnexpress.net/khoanh-khac-quan-chuc-nepal-du-day-truc-thang-tron-nguoi-bieu-tinh-4937822.html",
+      "summary": "Loạt quan chức Nepal cùng người thân bám vào dây cáp thả từ trực thăng để thoát khỏi đám đông biểu tình đang bao vây nhà họ ở Kathmandu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:18:09+07:00",
+      "fetched": "2025-09-11T15:21:16.651793+07:00"
+    },
+    {
+      "id": "d370ffa3cebcdd7ec20c9e652c417d93",
+      "title": "Khoảnh khắc quan chức Nepal đu dây trực thăng trốn người biểu tình",
+      "link": "https://vnexpress.net/khoanh-khac-quan-chuc-nepal-du-day-truc-thang-tron-nguoi-bieu-tinh-4937822.html",
+      "summary": "Loạt quan chức Nepal cùng người thân bám vào dây cáp thả từ trực thăng để thoát khỏi đám đông biểu tình đang bao vây nhà họ ở Kathmandu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T07:18:09+07:00",
+      "fetched": "2025-09-11T15:22:31.946480+07:00"
+    },
+    {
+      "id": "96bb5a4ed695aad4e549fd73415f9bb0",
+      "title": "Thương hiệu Yến Helen đạt chứng nhận phù hợp tiêu chuẩn Hồi giáo",
+      "link": "https://vnexpress.net/thuong-hieu-yen-helen-dat-chung-nhan-phu-hop-tieu-chuan-hoi-giao-4937590.html",
+      "summary": "Với chứng nhận Halal, thương hiệu Yến Helen có cơ hội vào các thị trường khó tính như Mỹ, Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:15:00+07:00",
+      "fetched": "2025-09-11T15:21:16.651949+07:00"
+    },
+    {
+      "id": "bb91eab46baad013fc00970c96be0051",
+      "title": "Viên đạn bắn chim lạc vào cửa sổ khiến hàng xóm tử vong",
+      "link": "https://vnexpress.net/vien-dan-ban-chim-lac-vao-cua-so-khien-hang-xom-tu-vong-4937866.html",
+      "summary": "Trần Văn Huy bị phạt 5 năm tù do dùng súng hơi bắn chim nhưng viên đạn đi lạc đã trúng vào người hàng xóm đang ngồi làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:04:58+07:00",
+      "fetched": "2025-09-11T15:21:16.652139+07:00"
+    },
+    {
+      "id": "d318d285862326e12b16c8818a39ca5e",
+      "title": "Thay khớp háng cho người gãy xương đùi",
+      "link": "https://vnexpress.net/thay-khop-hang-cho-nguoi-gay-xuong-dui-4937805.html",
+      "summary": "Ông Paul, 69 tuổi, gãy xương đùi, được bác sĩ thay khớp háng trong chưa đầy 24 giờ nên sớm đi lại bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:00:00+07:00",
+      "fetched": "2025-09-11T15:21:16.652299+07:00"
+    },
+    {
+      "id": "5a01a5a19b2c9aa537fbad815e468e70",
+      "title": "Người bệnh tiểu đường ăn gì tốt cho mắt?",
+      "link": "https://vnexpress.net/nguoi-benh-tieu-duong-an-gi-tot-cho-mat-4937768.html",
+      "summary": "Cá hồi, thịt gà hay cà chua, giàu vitamin C, omega-3, beta-carotene giúp giảm viêm, có thể ngăn tăng đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:00:00+07:00",
+      "fetched": "2025-09-11T15:21:16.652467+07:00"
+    },
+    {
+      "id": "f30fb73a9a255a96d1c3cc217b96ab47",
+      "title": "Hiệp hội Golf Việt Nam hợp tác Tập đoàn 54 xây dựng chiến lược quốc gia",
+      "link": "https://vnexpress.net/hiep-hoi-golf-viet-nam-hop-tac-tap-doan-54-xay-dung-chien-luoc-quoc-gia-4937546.html",
+      "summary": "Hiệp hội Golf Việt Nam (VGA) và Tập đoàn 54 ký kết hợp tác đồng triển khai chiến lược Golf Quốc gia, phát triển nhân lực, công nghệ, hỗ trợ VĐV, ngày 9/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:00:00+07:00",
+      "fetched": "2025-09-11T15:21:16.652628+07:00"
+    },
+    {
+      "id": "3ca5eda9afc12f0929f6dc73aade7476",
+      "title": "VPBank khởi động cuộc thi 'Technology Hackathon 2025 - Senior Track'",
+      "link": "https://vnexpress.net/vpbank-khoi-dong-cuoc-thi-technology-hackathon-2025-senior-track-4937487.html",
+      "summary": "VPBank tổ chức cuộc thi \"VPBank Technology Hackathon 2025 - Senior Track\", cho ứng viên tốt nghiệp đại học loại khá trở lên, có từ hai năm kinh nghiệm trong lĩnh vực công nghệ thông tin, khoa học dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:00:00+07:00",
+      "fetched": "2025-09-11T15:21:16.652789+07:00"
+    },
+    {
+      "id": "84878fd7a4d04636bc2f28770d53e1e5",
+      "title": "9 kiểu mốt giới trẻ ưa chuộng đầu thu",
+      "link": "https://vnexpress.net/9-kieu-mot-gioi-tre-ua-chuong-dau-thu-4937296.html",
+      "summary": "Áo khoác thể thao, cardigan, gilet được nhiều bạn trẻ lựa chọn vì dễ phối đẹp, thuận tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T06:55:39+07:00",
+      "fetched": "2025-09-11T15:21:16.652954+07:00"
+    },
+    {
+      "id": "486191b4bfdc9c6ffc5d9590c7c643df",
+      "title": "Skoda Slavia ra mắt thị trường Việt Nam, giá từ 468 triệu đồng",
+      "link": "https://vnexpress.net/skoda-slavia-ra-mat-thi-truong-viet-nam-gia-tu-468-trieu-dong-4937773.html",
+      "summary": "Tân binh phân khúc xe gầm thấp cỡ B, lắp động cơ 1.0 tăng áp, tùy chọn số sàn đến tự động, bản cao nhất giá 568 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T06:54:13+07:00",
+      "fetched": "2025-09-11T15:21:16.653127+07:00"
+    },
+    {
+      "id": "b7afc54a91feea0dd3fbb9fefad5160b",
+      "title": "Alcaraz: 'Hoàn hảo không tồn tại, nhưng có thể chạm đến'",
+      "link": "https://vnexpress.net/alcaraz-hoan-hao-khong-ton-tai-nhung-co-the-cham-den-4937870.html",
+      "summary": "Tay vợt số một thế giới chia sẻ trên tờ El Pais (Tây Ban Nha) về mục tiêu vươn đến sự hoàn hảo, không ngừng hoàn thiện bản thân và không được phép tự mãn dù vừa vô địch Grand Slam thứ sáu trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-11T06:32:34+07:00",
+      "fetched": "2025-09-11T15:22:39.542926+07:00"
+    },
+    {
       "id": "d04506b03f2893a69fe44a0aa697b079",
       "title": "Người dân Cần Thơ chung tay đẩy xe cứu thương vượt qua đoạn đường ngập",
       "link": "https://thanhnien.vn/nguoi-dan-can-tho-chung-tay-day-xe-cuu-thuong-vuot-qua-doan-duong-ngap-185250911131805835.htm",
@@ -451,6 +801,16 @@ window.newsData_2025_09_11 = {
       "category": "Tổng hợp",
       "published": "2025-09-11T06:20:00+07:00",
       "fetched": "2025-09-11T13:24:28.930920+07:00"
+    },
+    {
+      "id": "23f4e3a96cbaf25e65f6bc191c4471cd",
+      "title": "Vận rủi của Quả Bóng Vàng",
+      "link": "https://vnexpress.net/van-rui-cua-qua-bong-vang-4937838.html",
+      "summary": "Gần 70 năm từ khi tạp chí France Football tổ chức bầu chọn và trao Quả Bóng Vàng, người chiến thắng chưa bao giờ vô địch World Cup diễn ra ngay sau đó.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-11T06:14:44+07:00",
+      "fetched": "2025-09-11T15:22:39.543920+07:00"
     },
     {
       "id": "783da13d656a64a8aa1a3bd1fce183b6",
@@ -521,6 +881,16 @@ window.newsData_2025_09_11 = {
       "category": "Công nghệ",
       "published": "2025-09-11T06:00:00+07:00",
       "fetched": "2025-09-11T13:24:37.201787+07:00"
+    },
+    {
+      "id": "517e8f0429fac02215a6bac193d9fd6b",
+      "title": "Dán dây đeo iPhone 17 chính hãng giá hơn 1,6 triệu đồng",
+      "link": "https://vnexpress.net/dan-day-deo-iphone-17-chinh-hang-gia-hon-1-6-trieu-dong-4937699.html",
+      "summary": "Mẫu dây đeo chéo dành riêng cho iPhone 17 được Apple bán với giá được cho là đắt đỏ và người dùng cũng cần mua thêm ốp lưng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-11T06:00:00+07:00",
+      "fetched": "2025-09-11T15:22:37.382748+07:00"
     },
     {
       "id": "0bb5bc6104d0957e4d7159aee70c8065",
