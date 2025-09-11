@@ -1,6 +1,6 @@
 window.newsData_2025_09_11 = {
   "date": "2025-09-11",
-  "lastUpdated": "2025-09-11T09:57:53.576738+07:00",
+  "lastUpdated": "2025-09-11T11:19:12.844262+07:00",
   "articles": [
     {
       "id": "6fa96c9fb5c79d570c14c65e954ec6f4",
@@ -283,6 +283,396 @@ window.newsData_2025_09_11 = {
       "fetched": "2025-09-11T08:13:55.215650+07:00"
     },
     {
+      "id": "5bbb7995ceba97fdde8d575f7e61bd45",
+      "title": "5 hành vi của người dùng ô tô tưởng vô hại lại tiềm ẩn nhiều rủi ro",
+      "link": "https://thanhnien.vn/5-hanh-vi-cua-nguoi-dung-o-to-tuong-vo-hai-lai-tiem-an-nhieu-rui-ro-185250906133235477.htm",
+      "summary": "Không ít người dùng ô tô có những hành vi tưởng chừng vô hại như chỉnh ghế ngồi khi đang lái xe, treo đồ vật trên gương chiếu hậu hay đặt vật dụng trang trí trên bảng táp-lô… nhưng lại tiềm ẩn nhiều rủi ro gây mất an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:14:00+07:00",
+      "fetched": "2025-09-11T11:19:05.295906+07:00"
+    },
+    {
+      "id": "888efc574254d176efed4397ed04a4df",
+      "title": "NSƯT Tân Nhàn là nữ ứng viên phó giáo sư duy nhất ngành Nghệ thuật năm 2025",
+      "link": "https://thanhnien.vn/nsut-tan-nhan-la-nu-ung-vien-pho-giao-su-duy-nhat-nganh-nghe-thuat-nam-2025-185250911103341255.htm",
+      "summary": "NSƯT Tân Nhàn là nữ ứng viên duy nhất của ngành Nghệ thuật có tên trong danh sách đề nghị xét công nhận đạt tiêu chuẩn chức danh phó giáo sư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:10:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296075+07:00"
+    },
+    {
+      "id": "cd7c08e58b03666b7ed0ce900f3c8997",
+      "title": "TP.HCM 8 tháng chỉ phát hiện 1 trường hợp xây dựng không phép",
+      "link": "https://thanhnien.vn/tphcm-8-thang-chi-phat-hien-1-truong-hop-xay-dung-khong-phep-18525091110271081.htm",
+      "summary": "Báo cáo tình hình kinh tế - xã hội tháng 8, 8 tháng đầu năm và nhiệm vụ, giải pháp trọng tâm tháng 9.2025 của UBND TP.HCM cho biết, trong 8 tháng TP.HCM chỉ phát hiện 1 trường hợp xây dựng không phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:07:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296229+07:00"
+    },
+    {
+      "id": "509b1932e6421d9b4410de6bc5888681",
+      "title": "Sản phẩm Techcombank Sinh Lời Tự Động giành giải Vàng Stevie Awards",
+      "link": "https://thanhnien.vn/san-pham-techcombank-sinh-loi-tu-dong-gianh-giai-vang-stevie-awards-185250911111353726.htm",
+      "summary": "Sản phẩm Techcombank Sinh Lời Tự Động 2.0 của Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank) vừa chính thức giành giải Vàng Stevie® ở Hạng mục Xuất sắc cho Sản phẩm thiết kế lấy khách hàng là trọng tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:05:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296380+07:00"
+    },
+    {
+      "id": "303b16f1310d0b4bb577cc2411e0b07d",
+      "title": "TP.HCM lập tổ công tác thực hiện Nghị quyết 171",
+      "link": "https://thanhnien.vn/tphcm-lap-to-cong-tac-thuc-hien-nghi-quyet-171-185250911104830411.htm",
+      "summary": "UBND TP.HCM vừa ban hành quyết định thành lập Tổ công tác thực hiện Nghị quyết 171 do Giám đốc Sở Nông nghiệp và Môi trường TP.HCM Nguyễn Toàn Thắng làm Tổ trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:04:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296537+07:00"
+    },
+    {
+      "id": "bd3eae04a90960d690cd1c28c272fdc3",
+      "title": "Những cảnh báo bị bỏ lỡ về vụ khủng bố 11/9",
+      "link": "https://vnexpress.net/nhung-canh-bao-bi-bo-lo-ve-vu-khung-bo-11-9-4937782.html",
+      "summary": "Cộng đồng tình báo Mỹ từng đưa ra nhiều dự báo về âm mưu khủng bố, trong đó có cảnh báo của giám đốc CIA rằng sẽ có từ 5 đến 15 vụ tấn công vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.640918+07:00"
+    },
+    {
+      "id": "04017a68a13d579fca5c6d33c0260f98",
+      "title": "Đục thủy tinh thể sau mổ bong võng mạc có chữa được không?",
+      "link": "https://vnexpress.net/duc-thuy-tinh-the-sau-mo-bong-vong-mac-co-chua-duoc-khong-4937775.html",
+      "summary": "Năm ngoái, tôi đã được phẫu thuật điều trị bong võng mạc, hiện bị đục thủy tinh thể. Tôi có thể phẫu thuật thay thủy tinh thể không? (Hà Tâm, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.641110+07:00"
+    },
+    {
+      "id": "ce9bc7388a65237f81fdf7e3f2b8b743",
+      "title": "Bùng phát tàn nhang sau sinh",
+      "link": "https://vnexpress.net/bung-phat-tan-nhang-sau-sinh-4937772.html",
+      "summary": "Gương mặt chị Linh, 29 tuổi, dày đặc đốm tàn nhang sậm màu sau sinh do thay đổi nội tiết tố trong thai kỳ kích thích da sản sinh nhiều melanin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.641275+07:00"
+    },
+    {
+      "id": "3e1c8eee13447576e860284ebc35189f",
+      "title": "Cambridge phát hành English Grammar in Use bản kỷ niệm 40 năm",
+      "link": "https://vnexpress.net/cambridge-phat-hanh-english-grammar-in-use-ban-ky-niem-40-nam-4937757.html",
+      "summary": "Hội đồng Khảo thí & Nhà xuất bản Đại học Cambridge phát hành ấn bản kỷ niệm 40 năm cho bộ sách ngữ pháp tiếng Anh bán chạy nhất thế giới - English Grammar in Use.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.641446+07:00"
+    },
+    {
+      "id": "2965cd0ce318530221e15dd7d66af259",
+      "title": "Uống nước ép củ dền có giúp hạ huyết áp?",
+      "link": "https://vnexpress.net/uong-nuoc-ep-cu-den-co-giup-ha-huyet-ap-4937743.html",
+      "summary": "Tôi bị tăng huyết áp nhẹ, uống nước ép củ dền có thể hạ huyết áp không, dùng thế nào cho an toàn? (Thanh Mai, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.641650+07:00"
+    },
+    {
+      "id": "457de3ed42c32fc537c6c80b8791ae68",
+      "title": "Mẹ sau sinh nên ăn bao nhiêu calo mỗi ngày?",
+      "link": "https://vnexpress.net/me-sau-sinh-nen-an-bao-nhieu-calo-moi-ngay-4937735.html",
+      "summary": "Tôi mới sinh được ba tuần, bạn bè khuyên ăn ít cơm hoặc bỏ tinh bột để lấy lại dáng nhanh. Cách này đúng không, sau sinh tôi nên ăn bao nhiêu calo mỗi ngày? (Lê Mỹ Linh, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:02.641818+07:00"
+    },
+    {
+      "id": "e0d408a000df50b6f387c74f153fa6f8",
+      "title": "KDI Holdings viết tiếp câu chuyện văn hoá tại Nha Trang với Trống Đồng khổng lồ",
+      "link": "https://thanhnien.vn/kdi-holdings-viet-tiep-cau-chuyen-van-hoa-tai-nha-trang-voi-trong-dong-khong-lo-185250911105100508.htm",
+      "summary": "Tháng 9 này, La Tiên Show: The Cội - đại nhạc hội hé lộ biểu tượng Trống Đồng cao 20 mét - trở thành tâm điểm sự kiện tại Nha Trang khi quy tụ những tên tuổi nghệ sĩ hàng đầu, sân khấu tầm cỡ quốc tế và những màn trình diễn được ‘phù phép’ bởi giám đốc âm nhạc Huy Tuấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296712+07:00"
+    },
+    {
+      "id": "b5550e3fd9831e9b6ad974b51fd1dfa3",
+      "title": "Ngôi chùa có kiến trúc 'trùng thiềm điệp ốc' độc đáo ở miền Tây",
+      "link": "https://thanhnien.vn/ngoi-chua-co-kien-truc-trung-thiem-diep-oc-doc-dao-o-mien-tay-185250911090515691.htm",
+      "summary": "Với kiến trúc 'trùng thiềm điệp ốc', chùa La Hán, ở P.Sóc Trăng, TP.Cần Thơ (trước đây là P.8, TP.Sóc Trăng, Sóc Trăng) trông như một cung điện nguy nga, tráng lệ giữa miền Tây sông nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T04:00:00+07:00",
+      "fetched": "2025-09-11T11:19:05.296864+07:00"
+    },
+    {
+      "id": "d84469e8da6d0574ab455c83d6ed19f1",
+      "title": "Châu Tấn chúc mừng Tân Chỉ Lôi",
+      "link": "https://vnexpress.net/chau-tan-chuc-mung-tan-chi-loi-4937748.html",
+      "summary": "Diễn viên Trung Quốc Châu Tấn chúc mừng Tân Chỉ Lôi đoạt giải tại LHP Venice, sau khi từ chối vai diễn mang lại danh hiệu cho đồng nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:57:17+07:00",
+      "fetched": "2025-09-11T11:19:02.641972+07:00"
+    },
+    {
+      "id": "7aaa46840a364e100c9e9b1d41127d82",
+      "title": "Tây Ninh tìm nhà đầu tư cho khu đô thị 259 ha",
+      "link": "https://vnexpress.net/tay-ninh-tim-nha-dau-tu-cho-khu-do-thi-259-ha-4937651.html",
+      "summary": "Tỉnh Tây Ninh tổ chức đấu thầu dự án khu đô thị phía Bắc sông Bến Lức - Chợ Đệm, quy mô 259 ha, vốn đầu tư 20.115 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:56:46+07:00",
+      "fetched": "2025-09-11T11:19:02.642135+07:00"
+    },
+    {
+      "id": "11f76fb34a0b5ff5af03f70c60003c77",
+      "title": "Steven Nguyễn làm soát vé trước khi đóng 'Mưa đỏ'",
+      "link": "https://vnexpress.net/steven-nguyen-lam-soat-ve-truoc-khi-dong-mua-do-4937024.html",
+      "summary": "Trước khi được khán giả biết đến qua vai Quang trong \"Mưa đỏ\", Steven Nguyễn mưu sinh bằng soát vé sân khấu, đóng diễn viên quần chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:56:04+07:00",
+      "fetched": "2025-09-11T11:19:02.642293+07:00"
+    },
+    {
+      "id": "c3d2a233875049f07d7c01544951d780",
+      "title": "Bắt nữ bác sĩ nha khoa hành hung khách hàng",
+      "link": "https://vnexpress.net/bat-nu-bac-si-nha-khoa-hanh-hung-khach-hang-4937760.html",
+      "summary": "Nguyễn Thị Tuyết Chinh, 40 tuổi, chủ một phòng khám nha khoa, bị công an bắt khẩn cấp sau khi cầm thanh sắt đánh và đập điện thoại của nữ khách hàng đến phản ánh việc niềng răng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:54:48+07:00",
+      "fetched": "2025-09-11T11:19:02.642456+07:00"
+    },
+    {
+      "id": "948a16ce12e5e664bd3f686f01b01623",
+      "title": "‘Lật mặt 8: Vòng tay nắng’ khởi chiếu toàn cầu",
+      "link": "https://thanhnien.vn/lat-mat-8-vong-tay-nang-khoi-chieu-toan-cau-185250911102155641.htm",
+      "summary": "Công ty phân phối phim 3388 Films ấn định ngày phát hành quốc tế trên 4 châu lục bộ phim ăn khách tại Việt Nam 'Lật mặt 8: Vòng tay nắng', theo trang Deadline.com.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:48:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297018+07:00"
+    },
+    {
+      "id": "ccdd87fc923c82e0d7146a426aa4c49a",
+      "title": "Harry lần đầu gặp lại Vua Charles sau 19 tháng",
+      "link": "https://vnexpress.net/harry-lan-dau-gap-lai-vua-charles-sau-19-thang-4937714.html",
+      "summary": "Hoàng tử Harry gặp lại Vua Charles III sau gần hai năm xa cách và bất đồng, làm dấy lên suy đoán rằng rạn nứt gia đình có thể sớm được hàn gắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:47:32+07:00",
+      "fetched": "2025-09-11T11:19:02.642632+07:00"
+    },
+    {
+      "id": "ccdd87fc923c82e0d7146a426aa4c49a",
+      "title": "Harry lần đầu gặp lại Vua Charles sau 19 tháng",
+      "link": "https://vnexpress.net/harry-lan-dau-gap-lai-vua-charles-sau-19-thang-4937714.html",
+      "summary": "Hoàng tử Harry gặp lại Vua Charles III sau gần hai năm xa cách và bất đồng, làm dấy lên suy đoán rằng rạn nứt gia đình có thể sớm được hàn gắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T03:47:32+07:00",
+      "fetched": "2025-09-11T11:19:07.748855+07:00"
+    },
+    {
+      "id": "dffa630bb9fd16cdf13782b04c23f016",
+      "title": "Bà Harris nói quyết định tái tranh cử của ông Biden là 'liều lĩnh, cá nhân'",
+      "link": "https://thanhnien.vn/ba-harris-noi-quyet-dinh-tai-tranh-cu-cua-ong-biden-la-lieu-linh-ca-nhan-185250911104342119.htm",
+      "summary": "Trong cuốn hồi ký sắp xuất bản, cựu Phó tổng thống Mỹ Kamala Harris cho rằng cựu Tổng thống Joe Biden đã quyết định tái tranh cử theo ‘cái tôi cá nhân’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:47:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297167+07:00"
+    },
+    {
+      "id": "e0c364b1abeb97e5fb2cca5e03a4a7ca",
+      "title": "U.23 thua liểng xiểng U.23 Việt Nam, sếp lớn bóng đá Indonesia bác bỏ một ý tưởng ‘độc lạ’",
+      "link": "https://thanhnien.vn/u23-thua-lieng-xieng-u23-viet-nam-sep-lon-bong-da-indonesia-bac-bo-mot-y-tuong-doc-la-185250911103247462.htm",
+      "summary": "Dư luận ở Indonesia đang đòi cơ quan bóng đá nước này phải tổ chức riêng một giải đấu U.23 để phát triển các cầu thủ trẻ, sau khi thua liên tiếp U.23 Việt Nam. Nhưng ông Erick Thohir, Chủ tịch PSSI, thừa nhận sẽ cực kỳ khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:45:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297322+07:00"
+    },
+    {
+      "id": "3cce97eb77e9ceab4993c67fbb5e7110",
+      "title": "Cô bé 15 tuổi vẽ tranh gây quỹ giúp nữ sinh nghèo",
+      "link": "https://thanhnien.vn/co-be-15-tuoi-ve-tranh-gay-quy-giup-nu-sinh-ngheo-185250910214027992.htm",
+      "summary": "Triển lãm bán tranh gây quỹ của Nguyễn Mai Linh để trao tặng áo dài, thẻ bảo hiểm y tế cho nữ sinh có hoàn cảnh khó khăn đã thu hút nhiều người tham dự và tạo nên một làn sóng sẻ chia đầy ấm áp trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:45:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297473+07:00"
+    },
+    {
+      "id": "6468367f7b44692fd4ad1ac0d514d44d",
+      "title": "Hoàn thiện cầu Nguyễn Hoàng",
+      "link": "https://vnexpress.net/hoan-thien-cau-nguyen-hoang-4937191.html",
+      "summary": "Cầu thứ tám vượt sông Hương đã hoàn thiện lối đi bộ, lan can, đèn chiếu sáng, được đặt tên Nguyễn Hoàng để ghi nhớ công ơn vị chúa Nguyễn mở cõi về phương Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:40:11+07:00",
+      "fetched": "2025-09-11T11:19:02.642785+07:00"
+    },
+    {
+      "id": "492cf7b215acc1c6080c1e3932186569",
+      "title": "Xuân Thiện Phú Thọ gia nhập giải hạng nhất, đội của Công Phượng gặp đối 'khủng'",
+      "link": "https://thanhnien.vn/xuan-thien-phu-tho-gia-nhap-giai-hang-nhat-doi-cua-cong-phuong-gap-doi-khung-185250911103329615.htm",
+      "summary": "Gia nhập sân chơi hạng nhất 2025 - 2026, CLB Xuân Thiện Phú Thọ là ứng viên nặng ký cho suất thăng hạng, bên cạnh Trường Tươi Đồng Nai của Công Phượng, Xuân Trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:40:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297653+07:00"
+    },
+    {
+      "id": "2b3554a533908fb2dc58323ef8ff14fa",
+      "title": "Ông già 82 tuổi lái xe điện ra vườn hái bưởi và rao bán trên mạng",
+      "link": "https://thanhnien.vn/ong-gia-82-tuoi-lai-xe-dien-ra-vuon-hai-buoi-va-rao-ban-tren-mang-18525091021241301.htm",
+      "summary": "Nếu ai tiếp xúc những năm ông còn thanh xuân sôi nổi trong giới nhiếp ảnh Sài Gòn thì chắc đọng lại nhiều ấn tượng. Còn không thì hình ảnh ông già râu tóc bạc phơ ngày nay lái xe điện ra vườn hái bưởi rao bán trên mạng cũng sẽ khiến người ta khó lướt qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:37:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297807+07:00"
+    },
+    {
+      "id": "e43f3cc2ae750f555d2c763b8e778da1",
+      "title": "Canelo Alvarez - từ cậu bé bán kem đến ngôi sao quyền Anh",
+      "link": "https://vnexpress.net/canelo-alvarez-tu-cau-be-ban-kem-den-ngoi-sao-quyen-anh-4937321.html",
+      "summary": "Sinh ra trong nghèo khó và chịu nhiều dèm pha, nhưng tay đấm người Mexico Canelo Alvarez đã nỗ lực vươn lên để trở thành võ sĩ quyền Anh vĩ đại bậc nhất lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:36:37+07:00",
+      "fetched": "2025-09-11T11:19:02.642947+07:00"
+    },
+    {
+      "id": "a9df71dda034619114a97863c600ce35",
+      "title": "Hyundai Concept Three - hatchback điện kiểu mới",
+      "link": "https://vnexpress.net/hyundai-concept-three-hatchback-dien-kieu-moi-4937331.html",
+      "summary": "Mẫu xe điện bản concept được Hyundai giới thiệu ở triển lãm ôtô Munich có thể sẽ mang tên Ioniq 3 khi ra mắt trong 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:34:52+07:00",
+      "fetched": "2025-09-11T11:19:02.643103+07:00"
+    },
+    {
+      "id": "eb7d46b3f0000961ab04d16664b129ed",
+      "title": "La Nina đang quay trở lại nhưng nhiệt độ vẫn cao",
+      "link": "https://thanhnien.vn/la-nina-dang-quay-tro-lai-nhung-nhiet-do-van-cao-185250911101340058.htm",
+      "summary": "La Nina đang quay trở lại, dù vậy, nhiệt độ trung bình trên thế giới có thể sẽ tiếp tục cao. Tại Việt Nam, trong tháng 9, khả năng nhiệt độ ở khu vực Tây nguyên và Nam bộ cao hơn trung bình nhiều năm từ 0,5 - 1 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:32:00+07:00",
+      "fetched": "2025-09-11T11:19:05.297955+07:00"
+    },
+    {
+      "id": "b6c70df629b17138a86a0918da16e84d",
+      "title": "Du khách nhảy xuống biển để trốn nợ du thuyền siêu sang",
+      "link": "https://thanhnien.vn/du-khach-nhay-xuong-bien-de-tron-no-du-thuyen-sieu-sang-185250911101327098.htm",
+      "summary": "Nợ các khoản chi phí khác nhau trên du thuyền siêu sang Rhapsody of the Seas của hãng Royal Caribbean, du khách đã nhảy xuống biển để trốn thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:31:00+07:00",
+      "fetched": "2025-09-11T11:19:05.298107+07:00"
+    },
+    {
+      "id": "b85db2fe49b3fcd8cdb2773b30a8447d",
+      "title": "Long Châu hợp tác Pfizer nâng cao chuyên môn đội ngũ y tế",
+      "link": "https://vnexpress.net/long-chau-hop-tac-pfizer-nang-cao-chuyen-mon-doi-ngu-y-te-4937759.html",
+      "summary": "Long Châu ký hợp tác với Pfizer nâng cao chuyên môn cho bác sĩ, dược sĩ, kỳ vọng thành \"cánh tay nối dài\" của ngành y trong chăm sóc sức khỏe cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T03:30:00+07:00",
+      "fetched": "2025-09-11T11:19:02.643257+07:00"
+    },
+    {
+      "id": "939b25dbd06a1edc49d7eee982ef2ad1",
+      "title": "F-35 có thể đã phóng loạt tên lửa triệu USD để chặn 'UAV Nga'",
+      "link": "https://vnexpress.net/f-35-co-the-da-phong-loat-ten-lua-trieu-usd-de-chan-uav-nga-4937729.html",
+      "summary": "Tiêm kích F-35 Hà Lan dường như đã khai hỏa tên lửa AIM-9X và AIM-120C-7 để đánh chặn UAV nghi của Nga bay vào không phận Ba Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T03:19:53+07:00",
+      "fetched": "2025-09-11T11:19:07.749028+07:00"
+    },
+    {
+      "id": "8f2e8fedfd6f057ee41fe6b0a2c85cf7",
+      "title": "Nhân chứng kể khoảnh khắc nhà hoạt động bảo thủ Mỹ bị ám sát",
+      "link": "https://vnexpress.net/nhan-chung-ke-khoanh-khac-nha-hoat-dong-bao-thu-my-bi-am-sat-4937679.html",
+      "summary": "Raydon DeChene đang lắng nghe Charlie Kirk diễn thuyết về quản lý súng tại sự kiện ở Đại học Utah Valley thì thấy anh gục xuống, máu loang khắp nơi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T03:17:34+07:00",
+      "fetched": "2025-09-11T11:19:07.749192+07:00"
+    },
+    {
+      "id": "fbf0356b5461f8c61558d0a79d751bdd",
+      "title": "Cổ phiếu DRH Holdings có thể bị hủy niêm yết",
+      "link": "https://vnexpress.net/co-phieu-drh-holdings-co-the-bi-huy-niem-yet-4937704.html",
+      "summary": "HoSE vừa lưu ý về khả năng hủy niêm yết bắt buộc với cổ phiếu DRH Holdings do đã lỗ liên tiếp hai năm rưỡi qua, với mức lũy kế đến nay vượt 131 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-11T03:13:45+07:00",
+      "fetched": "2025-09-11T11:19:08.891253+07:00"
+    },
+    {
+      "id": "f63c7678a6e66c3113dff3e67788fa23",
+      "title": "Chủ tịch Brazil: 'Chúng tôi đấu cả trọng tài, cảnh sát lẫn nhặt bóng'",
+      "link": "https://vnexpress.net/chu-tich-brazil-chung-toi-dau-ca-trong-tai-canh-sat-lan-nhat-bong-4937581.html",
+      "summary": "Chủ tịch Liên đoàn bóng đá Brazil (CBF) Samir Xaud cho rằng đội nhà bị xử ép trong trận thua 0-1 trên sân Bolivia ở vòng loại World Cup 2026 - khu vực Nam Mỹ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-11T03:12:35+07:00",
+      "fetched": "2025-09-11T11:19:12.837828+07:00"
+    },
+    {
+      "id": "5e9a5326f164c2bdfa62e02bc2c6f97b",
+      "title": "Bayern từng từ chối cơ hội mua Lamine Yamal",
+      "link": "https://vnexpress.net/bayern-tung-tu-choi-co-hoi-mua-lamine-yamal-4937530.html",
+      "summary": "Nếu chấp nhận chi 5,5 triệu USD, Bayern có thể đã mua được tiền đạo Lamine Yamal vào năm 2022.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-11T03:01:20+07:00",
+      "fetched": "2025-09-11T11:19:12.837981+07:00"
+    },
+    {
+      "id": "0d1166cae865f5d695ebf6d9b4f0272b",
+      "title": "Vietcombank nhận cú đúp giải thưởng Euromoney 2025",
+      "link": "https://vnexpress.net/vietcombank-nhan-cu-dup-giai-thuong-euromoney-2025-4937726.html",
+      "summary": "Vietcombank được vinh danh tại hai hạng mục giải thưởng dành cho ngân hàng bán buôn, trong khuôn khổ lễ trao giải Euromoney Awards for Excellence 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-11T03:00:00+07:00",
+      "fetched": "2025-09-11T11:19:08.892255+07:00"
+    },
+    {
+      "id": "bd706f78b49b03d4e3491f2d5ed03224",
+      "title": "Trải nghiệm các nâng cấp trên iPhone 17 Pro",
+      "link": "https://vnexpress.net/trai-nghiem-cac-nang-cap-tren-iphone-17-pro-4937639.html",
+      "summary": "iPhone 17 Pro và 17 Pro Max chuyển sang dùng vỏ nhôm với cạnh bo tròn hơn, màu sắc mới rực rỡ cùng chế độ quay video dùng hai camera cùng lúc mượt mà.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-11T03:00:00+07:00",
+      "fetched": "2025-09-11T11:19:11.178664+07:00"
+    },
+    {
+      "id": "0f51d4dd944374a83c9c17f04cc04a23",
+      "title": "Ronaldo nhận giải 'Cầu thủ hay nhất mọi thời'",
+      "link": "https://vnexpress.net/ronaldo-nhan-giai-cau-thu-hay-nhat-moi-thoi-4937731.html",
+      "summary": "Trang chủ giải vô địch Bồ Đào Nha trao danh hiệu \"Cầu thủ hay nhất mọi thời\" cho Cristiano Ronaldo, nhưng không ghi rõ trong nước hay toàn cầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-11T02:59:55+07:00",
+      "fetched": "2025-09-11T11:19:12.836680+07:00"
+    },
+    {
       "id": "3f68626c9f006d118f633d93d7d46f6d",
       "title": "Công dân Trung Quốc bị cấm tham gia chương trình của NASA",
       "link": "https://thanhnien.vn/cong-dan-trung-quoc-bi-cam-tham-gia-chuong-trinh-cua-nasa-185250911094054668.htm",
@@ -291,6 +681,16 @@ window.newsData_2025_09_11 = {
       "category": "Tổng hợp",
       "published": "2025-09-11T02:52:00+07:00",
       "fetched": "2025-09-11T09:57:45.570372+07:00"
+    },
+    {
+      "id": "84f5dad040f9acea0432c21e72365a1d",
+      "title": "Ảnh vệ tinh hiện trường Israel tập kích ban lãnh đạo Hamas ở Qatar",
+      "link": "https://vnexpress.net/anh-ve-tinh-hien-truong-israel-tap-kich-ban-lanh-dao-hamas-o-qatar-4937664.html",
+      "summary": "Ảnh vệ tinh cho thấy Israel đã sử dụng vũ khí chính xác cao tập kích tòa nhà nơi ban lãnh đạo Hamas họp ở Qatar, hầu như không gây thiệt hại xung quanh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T02:46:11+07:00",
+      "fetched": "2025-09-11T11:19:07.749352+07:00"
     },
     {
       "id": "0ef9bef0b02fe6df7cb5ad3f1058ff52",
@@ -321,6 +721,16 @@ window.newsData_2025_09_11 = {
       "category": "Tổng hợp",
       "published": "2025-09-11T02:42:00+07:00",
       "fetched": "2025-09-11T09:57:45.570854+07:00"
+    },
+    {
+      "id": "bf24c767cdce5c79d937607f86ff5859",
+      "title": "Xe bồn cháy nổ ở Mexico City, ít nhất 70 người bị thương",
+      "link": "https://vnexpress.net/xe-bon-chay-no-o-mexico-city-it-nhat-70-nguoi-bi-thuong-4937682.html",
+      "summary": "Xe bồn chở khí đốt gặp tai nạn trên đường cao tốc ở phía nam thủ đô của Mexico, dẫn tới vụ cháy nổ lớn bao trùm cả khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T02:39:33+07:00",
+      "fetched": "2025-09-11T11:19:07.749508+07:00"
     },
     {
       "id": "2d592129c54bc8e4ceb93831ce9f2ddf",
@@ -381,6 +791,16 @@ window.newsData_2025_09_11 = {
       "category": "Thế giới",
       "published": "2025-09-11T02:16:52+07:00",
       "fetched": "2025-09-11T09:57:47.567384+07:00"
+    },
+    {
+      "id": "2ecca5e7eb0f7dbb52484bedd22f0c87",
+      "title": "Khách sạn 5 sao bị thiêu rụi trong biểu tình Nepal",
+      "link": "https://vnexpress.net/khach-san-5-sao-bi-thieu-rui-trong-bieu-tinh-nepal-4937697.html",
+      "summary": "Người biểu tình Nepal phóng hỏa khách sạn 5 sao cao nhất nước ở thủ đô, giữa lúc quốc gia chìm trong làn sóng bạo lực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T02:16:52+07:00",
+      "fetched": "2025-09-11T11:19:07.749705+07:00"
     },
     {
       "id": "fff684ed8fd42258c82926f4c50fae1d",
@@ -1631,6 +2051,16 @@ window.newsData_2025_09_11 = {
       "category": "Thế giới",
       "published": "2025-09-10T16:28:57+07:00",
       "fetched": "2025-09-11T01:22:47.903131+07:00"
+    },
+    {
+      "id": "9545c5f0b66dc400d9dc2fb817a35698",
+      "title": "Toàn quyền Australia lần đầu mặc áo dài Việt Nam",
+      "link": "https://vnexpress.net/toan-quyen-australia-lan-dau-mac-ao-dai-viet-nam-4937628.html",
+      "summary": "Toàn quyền Australia Sam Mostyn mặc trang phục áo dài truyền thống của Việt Nam khi dự chiêu đãi cấp Nhà nước do Chủ tịch nước Lương Cường chủ trì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T16:28:57+07:00",
+      "fetched": "2025-09-11T11:19:07.751150+07:00"
     },
     {
       "id": "8c91796843e1b8876eaa0d1e769e97e5",
