@@ -1,7 +1,27 @@
 window.newsData_2025_09_12 = {
   "date": "2025-09-12",
-  "lastUpdated": "2025-09-12T09:52:57.909664+07:00",
+  "lastUpdated": "2025-09-12T11:18:23.733204+07:00",
   "articles": [
+    {
+      "id": "a8d8c6c20ee29c9d7ab8aa495185990a",
+      "title": "Đánh 7 mặt trận cùng lúc, Israel muốn gì?",
+      "link": "https://tuoitre.vn/danh-7-mat-tran-cung-luc-israel-muon-gi-20250911222057252.htm",
+      "summary": "Thủ tướng Benjamin Netanyahu tuyên bố Israel sẵn sàng đáp trả bất kỳ lực lượng nào tấn công nước này. Hiện họ đã mở tới 7 mặt trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:18:16.505774+07:00",
+      "fetched": "2025-09-12T11:18:16.505935+07:00"
+    },
+    {
+      "id": "1475a5eba4b73ec1e1eb2c9d34d91f2c",
+      "title": "Tăng liên kết, giảm chi phí logistics",
+      "link": "https://tuoitre.vn/tang-lien-ket-giam-chi-phi-logistics-20250912075042873.htm",
+      "summary": "Với không gian mới mở ra sau sáp nhập với Bà Rịa - Vũng Tàu và Bình Dương, đại đô thị TP.HCM có nhiều lợi thế và không gian để phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:18:16.505616+07:00",
+      "fetched": "2025-09-12T11:18:16.505754+07:00"
+    },
     {
       "id": "238893de7ed6cba0d041567454cb9ac8",
       "title": "Champions League đổi luật giúp nhiều cầu thủ 'mừng thầm'",
@@ -303,6 +323,386 @@ window.newsData_2025_09_12 = {
       "fetched": "2025-09-12T08:10:58.102630+07:00"
     },
     {
+      "id": "5bb429e99b1846ce06abdbb6f1e404a1",
+      "title": "Cơn sốt vé World Cup 2026 đã bắt đầu: 1,5 triệu người đăng ký trong 24 giờ",
+      "link": "https://thanhnien.vn/con-sot-ve-world-cup-2026-da-bat-dau-15-trieu-nguoi-dang-ky-trong-24-gio-185250912110344045.htm",
+      "summary": "Cơ quan bóng đá thế giới (FIFA) cho biết, họ đã nhận được hơn 1,5 triệu đơn đăng ký vé từ người hâm mộ ở 210 quốc gia trong vòng 24 giờ sau khi mở bốc thăm mua vé xem World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T04:17:00+07:00",
+      "fetched": "2025-09-12T11:18:14.879807+07:00"
+    },
+    {
+      "id": "2804b1655989f48c00e24af2b7075319",
+      "title": "Những điều cần biết trước khi mua cáp USB-C",
+      "link": "https://thanhnien.vn/nhung-dieu-can-biet-truoc-khi-mua-cap-usb-c-18525091110222414.htm",
+      "summary": "Cáp USB-C tuy cùng một cổng cắm nhưng không phải loại nào cũng giống nhau, làm sao để chọn đúng loại bạn cần?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T04:17:00+07:00",
+      "fetched": "2025-09-12T11:18:14.879971+07:00"
+    },
+    {
+      "id": "65b555bd2bb8decd1f4c37fd32410460",
+      "title": "Giá heo hơi hôm nay 12.9.2025: Lùi về mức 59.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1292025-lui-ve-muc-59000-dong-kg-185250912110349951.htm",
+      "summary": "Giá heo hơi diễn biến khó đoán trong ngày hôm nay, xu hướng tăng giá có dấu hiệu chững lại, có nơi đảo chiều giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T04:12:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880123+07:00"
+    },
+    {
+      "id": "ab537cd2ce0ebd44edd28e8d4772ad8b",
+      "title": "Bộ trưởng AI đầu tiên trên thế giới",
+      "link": "https://vnexpress.net/bo-truong-ai-dau-tien-tren-the-gioi-4938208.html",
+      "summary": "Diella, bộ trưởng AI đầu tiên trên thế giới, được giao nhiệm vụ quản lý mua sắm công nhằm giảm tham nhũng tại Albania.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T04:01:05+07:00",
+      "fetched": "2025-09-12T11:18:22.414919+07:00"
+    },
+    {
+      "id": "60db9755de5403f2658c94519f2729e4",
+      "title": "NGND-GS-TS-BS Nguyễn Đình Hối được vinh danh và trao giải cống hiến trọn đời",
+      "link": "https://thanhnien.vn/ngnd-gs-ts-bs-nguyen-dinh-hoi-duoc-vinh-danh-va-trao-giai-cong-hien-tron-doi-185250912110045207.htm",
+      "summary": "Tối 11.9, tại lễ bế mạc Hội nghị Quản lý bệnh viện châu Á lần thứ 24 năm 2025 do Bộ Y tế phối hợp với Hiệp hội quản lý Bệnh viện châu Á tổ chức, Ban tổ chức đã trao Giải thưởng Cống hiến trọn đời cho NGND-GS-TS-BS Nguyễn Đình Hối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T04:00:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880273+07:00"
+    },
+    {
+      "id": "7c68247dae2889cfed1eff32793b308a",
+      "title": "Học bổng SCG Sharing the Dream lần thứ 19 đồng hành cùng ước mơ người trẻ Việt",
+      "link": "https://thanhnien.vn/hoc-bong-scg-sharing-the-dream-lan-thu-19-dong-hanh-cung-uoc-mo-nguoi-tre-viet-185250912100205033.htm",
+      "summary": "Tiếp nối hành trình kiến tạo tương lai cho thế hệ trẻ Việt Nam, Tập đoàn SCG phối hợp cùng Trung ương Đoàn Thanh niên và Hội đồng Đội Trung ương chính thức tái khởi động chương trình học bổng SCG Sharing the Dream.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T04:00:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880442+07:00"
+    },
+    {
+      "id": "6948d0cc9cc9df41e6d23164a3144931",
+      "title": "Mẫu súng trường có thể đã đoạt mạng Charlie Kirk",
+      "link": "https://vnexpress.net/mau-sung-truong-co-the-da-doat-mang-charlie-kirk-4938106.html",
+      "summary": "Giới chức Mỹ thu được súng trường của nghi phạm ám sát Charlie Kirk, các nguồn giấu tên nói rằng đó là mẫu Mauser nhập khẩu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T03:59:26+07:00",
+      "fetched": "2025-09-12T11:18:17.818615+07:00"
+    },
+    {
+      "id": "224dc311897f61bb6ae74f3eef29e148",
+      "title": "Thuế Hà Nội lưu ý đặc biệt về giảm tiền thuê đất 2025",
+      "link": "https://thanhnien.vn/thue-ha-noi-luu-y-dac-biet-ve-giam-tien-thue-dat-2025-185250912103824029.htm",
+      "summary": "Thuế TP.Hà Nội vừa đưa ra nhiều lưu ý với các doanh nghiệp, tổ chức, cá nhân về giảm tiền thuê đất năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:58:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880594+07:00"
+    },
+    {
+      "id": "8cf050bf7344d43c556771167672aba1",
+      "title": "Sự kiện taekwondo đặc biệt đáng chú ý, hé lộ mức thưởng nóng SEA Games 33",
+      "link": "https://thanhnien.vn/su-kien-taekwondo-dac-biet-dang-chu-y-he-lo-muc-thuong-nong-sea-games-33-185250912104815054.htm",
+      "summary": "Giải taekwondo các CLB quốc gia - Cúp Đại sứ Hàn Quốc 2025 thu hút gần 1.400 võ sĩ tranh tài, hứa hẹn tìm kiếm tài năng cho taekwondo Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:55:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880748+07:00"
+    },
+    {
+      "id": "660aea9a102277157dabd98134c78c3f",
+      "title": "Cách tự thay lọc gió điều hòa ô tô tại nhà",
+      "link": "https://thanhnien.vn/cach-tu-thay-loc-gio-dieu-hoa-o-to-tai-nha-185250911173259893.htm",
+      "summary": "Điều kiện giao thông tại Việt Nam khá nhiều bụi bẩn nên lọc gió điều hòa ô tô nhanh xuống cấp. Tuy nhiên, một vài thao tác đơn giản có thể giúp chủ xe tự thay thế tại nhà, không cần tới garage.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:53:00+07:00",
+      "fetched": "2025-09-12T11:18:14.880903+07:00"
+    },
+    {
+      "id": "3968780f3b8c6781e0470924ef1816de",
+      "title": "Cận cảnh dự án quảng trường 'điểm nhấn' gần 200 tỉ đồng ở Huế",
+      "link": "https://thanhnien.vn/can-canh-du-an-quang-truong-diem-nhan-gan-200-ti-dong-o-hue-185250912100453831.htm",
+      "summary": "Quảng trường được đầu tư gần 200 tỉ đồng tại khu đất vàng ở TP.Huế đang gấp rút thi công, kỳ vọng trở thành điểm nhấn mới về không gian công cộng, phục vụ các sự kiện văn hóa, thể thao lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:50:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881054+07:00"
+    },
+    {
+      "id": "13f26254ff21c701d177b0aab3c2758a",
+      "title": "Mbappe: 'Cuộc sống đẹp lắm, thế giới bóng đá thì không'",
+      "link": "https://vnexpress.net/mbappe-cuoc-song-dep-lam-the-gioi-bong-da-thi-khong-4938118.html",
+      "summary": "Kylian Mbappe phơi bày nhiều góc khuất trong cuộc phỏng vấn đặc biệt với báo Pháp L'Équipe: từ vai trò của gia đình, những lựa chọn trong cuộc sống đến khát vọng, vị thế siêu sao, những chỉ trích và mối quan hệ với PSG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T03:46:21+07:00",
+      "fetched": "2025-09-12T11:18:23.725771+07:00"
+    },
+    {
+      "id": "bc442e13d62ae393d12c88400eda02a4",
+      "title": "Tai nạn liên hoàn trên cao tốc La Sơn – Túy Loan: Giải cứu 12 người mắc kẹt",
+      "link": "https://thanhnien.vn/tai-nan-lien-hoan-tren-cao-toc-la-son-tuy-loan-giai-cuu-12-nguoi-mac-ket-185250912104616643.htm",
+      "summary": "Tai nạn liên hoàn trên cao tốc La Sơn - Túy Loan trong đêm tối khiến nhiều người mắc kẹt, Công an thành phố Đà Nẵng huy động xe máy múc giải cứu nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:46:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881200+07:00"
+    },
+    {
+      "id": "70fafacd69550bbcbd6b91e886fa8794",
+      "title": "Loạt quốc gia sắp bỏ vĩnh viễn đóng dấu lên hộ chiếu",
+      "link": "https://thanhnien.vn/loat-quoc-gia-sap-bo-vinh-vien-dong-dau-len-ho-chieu-185250912100920192.htm",
+      "summary": "Nếu bạn từng xem hộ chiếu của mình như một cuốn sổ lưu niệm ghi lại những chuyến phiêu lưu khắp thế giới, hãy chuẩn bị tinh thần: Dấu hộ chiếu đang dần biến mất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:46:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881358+07:00"
+    },
+    {
+      "id": "25d4fe2ad0e2a096eb1a64085ed26fa9",
+      "title": "Uy lực của tên lửa chống hạm P28/P28M: Bắn xa 300 km, tốc độ trên âm thanh",
+      "link": "https://thanhnien.vn/uy-luc-cua-ten-lua-chong-ham-p28-p28m-ban-xa-300-km-toc-do-tren-am-thanh-18525091209325813.htm",
+      "summary": "Tên lửa đất đối hải P28/P28M là một trong những loại tên lửa đang được trang bị cho lực lượng Hải quân nhân dân Việt Nam. Tên lửa này dùng để tiêu diệt các tàu mặt nước cỡ lớn, các phương tiện nổi và công trình ven bờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:41:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881512+07:00"
+    },
+    {
+      "id": "4b60d79df69793ee7ee64c4964967281",
+      "title": "Học viên hải quân Mỹ bắn nhầm cảnh sát vì tin đồn xả súng",
+      "link": "https://vnexpress.net/hoc-vien-hai-quan-my-ban-nham-canh-sat-vi-tin-don-xa-sung-4938159.html",
+      "summary": "Học viên Học viện Hải quân Mỹ tưởng rằng cảnh sát là nghi phạm định xả súng trong trường nên khai hỏa, dẫn đến đối đầu và khiến một người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:38:56+07:00",
+      "fetched": "2025-09-12T11:18:11.432493+07:00"
+    },
+    {
+      "id": "4b60d79df69793ee7ee64c4964967281",
+      "title": "Học viên hải quân Mỹ bắn nhầm cảnh sát vì tin đồn xả súng",
+      "link": "https://vnexpress.net/hoc-vien-hai-quan-my-ban-nham-canh-sat-vi-tin-don-xa-sung-4938159.html",
+      "summary": "Học viên Học viện Hải quân Mỹ tưởng rằng cảnh sát là nghi phạm định xả súng trong trường nên khai hỏa, dẫn đến đối đầu và khiến một người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T03:38:56+07:00",
+      "fetched": "2025-09-12T11:18:17.818787+07:00"
+    },
+    {
+      "id": "4e56456caa0939130dd62af71884df67",
+      "title": "TP HCM chốt giờ vào học, tan trường của học sinh",
+      "link": "https://vnexpress.net/tp-hcm-chot-gio-vao-hoc-tan-truong-cua-hoc-sinh-4938211.html",
+      "summary": "Học sinh từ tiểu học đến THPT vào lớp trong khoảng 7-8h, ra về lúc 16-17h, theo quy định của Sở Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:38:37+07:00",
+      "fetched": "2025-09-12T11:18:11.432677+07:00"
+    },
+    {
+      "id": "354a5c23f6af1fd1bffb5335eb2cce9f",
+      "title": "Xiaomi lần đầu vào top hãng xe bán chạy",
+      "link": "https://vnexpress.net/xiaomi-lan-dau-vao-top-hang-xe-ban-chay-4938094.html",
+      "summary": "Sau hơn một năm ra mắt xe điện, Xiaomi có tên trong top 10 hãng xe năng lượng mới bán chạy trong tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:34:14+07:00",
+      "fetched": "2025-09-12T11:18:11.432842+07:00"
+    },
+    {
+      "id": "3e46b6053345949279a876417e6913cc",
+      "title": "Công an TP.HCM dự báo 5 kịch bản lừa đảo sau vụ lộ dữ liệu cá nhân",
+      "link": "https://thanhnien.vn/cong-an-tphcm-du-bao-5-kich-ban-lua-dao-sau-vu-lo-du-lieu-ca-nhan-185250912102228046.htm",
+      "summary": "Ngày 12.9, Phòng Cảnh sát hình sự, Công an TP.HCM phân tích, dự báo các thủ đoạn lừa đảo tinh vi mà tội phạm sẽ triển khai sau khi có được dữ liệu cá nhân của người dân. Các kịch bản này được nhắm vào từng nhóm đối tượng cụ thể như sinh viên, công nhân và người lớn tuổi, yêu cầu người dân phải hết s...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:33:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881660+07:00"
+    },
+    {
+      "id": "7f6a2b4da73ee5dfe53706f5c83b870c",
+      "title": "Bác sĩ xông vào phòng mổ cứu bệnh nhân khỏi ca lấy tạng",
+      "link": "https://vnexpress.net/bac-si-xong-vao-phong-mo-cuu-benh-nhan-khoi-ca-lay-tang-4938022.html",
+      "summary": "Khi Larry Black Jr. đang nằm trên bàn mổ chuẩn bị cho ca lấy tạng, bác sĩ phẫu thuật thần kinh Zohny Zohny, người điều trị trực tiếp cho anh, lao vào phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:27:32+07:00",
+      "fetched": "2025-09-12T11:18:11.433007+07:00"
+    },
+    {
+      "id": "e1ba8392b6014a6cbc2cdc794999f267",
+      "title": "Giá mua vàng miếng SJC bị thổi bay gần 2 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-mua-vang-mieng-sjc-bi-thoi-bay-gan-2-trieu-dong-luong-185250912102206352.htm",
+      "summary": "Sáng 12.9, các công ty kinh doanh vàng liên tục điều chỉnh giá vàng miếng SJC với mức giảm mạnh từ 900.000 đến 1,9 triệu đồng mỗi lượng, trong đó giá mua của các đơn vị trượt nhanh hơn so với bán ra. Trong khi đó, giá thế giới tăng trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:26:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881813+07:00"
+    },
+    {
+      "id": "d4a4241c9af7c767da26cf83a5c12948",
+      "title": "FBI công bố ảnh đối tượng, tìm thấy súng bắn tỉa trong vụ ám sát Charlie Kirk",
+      "link": "https://thanhnien.vn/fbi-cong-bo-anh-doi-tuong-tim-thay-sung-ban-tia-trong-vu-am-sat-charlie-kirk-185250912101748685.htm",
+      "summary": "Hôm 11.9, FBI đã công bố hai bức ảnh về một người mà cơ quan này mô tả là \"đối tượng cần quan tâm\" trong vụ nổ súng khiến ông Charlie Kirk thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:26:00+07:00",
+      "fetched": "2025-09-12T11:18:14.881965+07:00"
+    },
+    {
+      "id": "9cd8a05b294f508e587adac6f6991cf3",
+      "title": "Cách NATO huy động lực lượng bắn hạ UAV trên bầu trời Ba Lan",
+      "link": "https://vnexpress.net/cach-nato-huy-dong-luc-luong-ban-ha-uav-tren-bau-troi-ba-lan-4937672.html",
+      "summary": "Ngay khi cảm biến phát hiện UAV xâm nhập không phận Ba Lan từ Belarus và Ukraine, tiêm kích của NATO lập tức cất cánh và đánh chặn mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:22:35+07:00",
+      "fetched": "2025-09-12T11:18:11.433161+07:00"
+    },
+    {
+      "id": "9cd8a05b294f508e587adac6f6991cf3",
+      "title": "Cách NATO huy động lực lượng bắn hạ UAV trên bầu trời Ba Lan",
+      "link": "https://vnexpress.net/cach-nato-huy-dong-luc-luong-ban-ha-uav-tren-bau-troi-ba-lan-4937672.html",
+      "summary": "Ngay khi cảm biến phát hiện UAV xâm nhập không phận Ba Lan từ Belarus và Ukraine, tiêm kích của NATO lập tức cất cánh và đánh chặn mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T03:22:35+07:00",
+      "fetched": "2025-09-12T11:18:17.818947+07:00"
+    },
+    {
+      "id": "a6a7ee98d1136d88126c452b3598c715",
+      "title": "Hy vọng hữu duyên cùng anh viết câu chuyện của chúng ta",
+      "link": "https://vnexpress.net/hy-vong-huu-duyen-cung-anh-viet-cau-chuyen-cua-chung-ta-4938174.html",
+      "summary": "Em mong anh nghiêm túc trong chuyện tình cảm, mong muốn xây dựng một mối quan hệ bền lâu chứ không phải là một sự trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:21:37+07:00",
+      "fetched": "2025-09-12T11:18:11.433259+07:00"
+    },
+    {
+      "id": "046bd44090a6d53762775071eccf401d",
+      "title": "'Ngân hàng, trung gian thanh toán cần tăng cường đảm bảo an toàn hệ thống thông tin'",
+      "link": "https://vnexpress.net/ngan-hang-trung-gian-thanh-toan-can-tang-cuong-dam-bao-an-toan-he-thong-thong-tin-4938089.html",
+      "summary": "Ngân hàng Nhà nước yêu cầu các tổ chức tín dụng, trung gian thanh toán... đánh giá an toàn thông tin, khắc phục kịp thời các lỗ hổng hệ thống còn tồn tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:17:39+07:00",
+      "fetched": "2025-09-12T11:18:11.433435+07:00"
+    },
+    {
+      "id": "fab0ed1aca1e1784e9fa4375d0a46128",
+      "title": "Ngân hàng Nhà nước yêu cầu khắc phục triệt để các lỗ hỏng hệ thống thông tin",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-khac-phuc-triet-de-cac-lo-hong-he-thong-thong-tin-4938089.html",
+      "summary": "Ngân hàng Nhà nước yêu cầu các tổ chức tín dụng, trung gian thanh toán... đánh giá an toàn thông tin, khắc phục kịp thời các lỗ hổng hệ thống còn tồn tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T03:17:39+07:00",
+      "fetched": "2025-09-12T11:18:19.120578+07:00"
+    },
+    {
+      "id": "62dffffaab23fd8a38bf649d2d4e6966",
+      "title": "Phá kính ôtô, giải cứu 12 người mắc kẹt sau tai nạn",
+      "link": "https://vnexpress.net/pha-kinh-oto-giai-cuu-12-nguoi-mac-ket-sau-tai-nan-4938186.html",
+      "summary": "Ôtô khách tông mạnh vào đuôi xe tải chạy cùng chiều khiến 12 người mắc kẹt bên trong, buộc cảnh sát phải phá kính giải cứu trong đêm 11/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:17:29+07:00",
+      "fetched": "2025-09-12T11:18:11.433597+07:00"
+    },
+    {
+      "id": "8e7e2002d33b3af7058036f8bebcabd9",
+      "title": "Hàng loạt ôtô phải dừng nhường xe khách chuyển làn ẩu",
+      "link": "https://vnexpress.net/hang-loat-oto-phai-dung-nhuong-xe-khach-chuyen-lan-au-4937881.html",
+      "summary": "Dừng ở làn đường cho phép ôtô đi tốc độ tối đa, chiếc xe 45 chỗ xoay ngang đè qua vạch xương cá để chuyển hướng ở lối ra Bắc Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:11:12+07:00",
+      "fetched": "2025-09-12T11:18:11.433754+07:00"
+    },
+    {
+      "id": "c51a2b43c182e8318931dfc5f6b159a2",
+      "title": "Công bố tình huống khẩn cấp do sạt lở bờ biển Hải Tiến",
+      "link": "https://vnexpress.net/cong-bo-tinh-huong-khan-cap-do-sat-lo-bo-bien-hai-tien-4938140.html",
+      "summary": "Hơn 300 m bờ kè khu du lịch Hải Tiến bị sạt lở, buộc chính quyền công bố tình huống khẩn cấp để đưa ra các giải pháp ứng phó, ngày 12/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:02:37+07:00",
+      "fetched": "2025-09-12T11:18:11.433911+07:00"
+    },
+    {
+      "id": "f438a39f9b49a4440248e1f005126450",
+      "title": "Phó thủ tướng yêu cầu có biện pháp kinh tế quản lý xe không đạt chuẩn môi trường",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-co-bien-phap-kinh-te-quan-ly-xe-khong-dat-chuan-moi-truong-4938060.html",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu nghiên cứu dùng biện pháp kinh tế thay vì hành chính để quản lý xe không đạt chuẩn môi trường và việc này phải phù hợp lợi ích, sinh kế người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:01:46+07:00",
+      "fetched": "2025-09-12T11:18:11.434060+07:00"
+    },
+    {
+      "id": "f438a39f9b49a4440248e1f005126450",
+      "title": "Phó thủ tướng yêu cầu có biện pháp kinh tế quản lý xe không đạt chuẩn môi trường",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-co-bien-phap-kinh-te-quan-ly-xe-khong-dat-chuan-moi-truong-4938060.html",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu nghiên cứu dùng biện pháp kinh tế thay vì hành chính để quản lý xe không đạt chuẩn môi trường và việc này phải phù hợp lợi ích, sinh kế người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T03:01:46+07:00",
+      "fetched": "2025-09-12T11:18:19.121066+07:00"
+    },
+    {
+      "id": "b757dc8ffe679fec6a48b81f7d676f43",
+      "title": "Techcombank Sinh lời tự động giành giải Vàng Stevie Awards",
+      "link": "https://vnexpress.net/techcombank-sinh-loi-tu-dong-gianh-giai-vang-stevie-awards-4938156.html",
+      "summary": "Sinh lời tự động 2.0 của Techcombank được trao giải Vàng hạng mục Sản phẩm thiết kế lấy khách hàng là trọng tâm, tại giải thưởng Kinh doanh Quốc tế (IBA) 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:00:00+07:00",
+      "fetched": "2025-09-12T11:18:11.434207+07:00"
+    },
+    {
+      "id": "1014811a62db83830ddd3a1beeca223a",
+      "title": "Trào ngược dạ dày thực quản có gây ung thư?",
+      "link": "https://vnexpress.net/trao-nguoc-da-day-thuc-quan-co-gay-ung-thu-4938135.html",
+      "summary": "Tôi thường xuyên bị trào ngược dạ dày thực quản, uống thuốc nhưng không hết hẳn. Bệnh kéo dài có tiến triển thành ung thư? (Kim Nguyễn, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:00:00+07:00",
+      "fetched": "2025-09-12T11:18:11.434386+07:00"
+    },
+    {
+      "id": "5853812df4529eedf4511a213fa06e41",
+      "title": "Mega Gangnam được vinh danh tại ASEAN Top Brands Award 2025",
+      "link": "https://vnexpress.net/mega-gangnam-duoc-vinh-danh-tai-asean-top-brands-award-2025-4937803.html",
+      "summary": "Phòng khám Mega Gangnam vào top thương hiệu tiêu biểu và môi trường làm việc tốt nhờ phát triển dựa trên nền tảng y khoa, xây dựng môi trường làm việc gắn kết, chuyên nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:00:00+07:00",
+      "fetched": "2025-09-12T11:18:11.434544+07:00"
+    },
+    {
+      "id": "2818cd681a08e6e8a27093b0b77bbeae",
+      "title": "Hai hiểu lầm phổ biến dẫn tới chủ quan dự phòng HPV",
+      "link": "https://vnexpress.net/hai-hieu-lam-pho-bien-dan-toi-chu-quan-du-phong-hpv-4937322.html",
+      "summary": "Khảo sát của Bộ Y tế cho thấy cộng đồng còn hiểu nhầm như HPV chỉ gây ung thư cổ tử cung, không cần dự phòng nếu tình dục an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T03:00:00+07:00",
+      "fetched": "2025-09-12T11:18:11.434698+07:00"
+    },
+    {
+      "id": "c3f67e133741b4f1cdbfa26fa5981ba0",
+      "title": "6 màn so tài đáng chú ý tại giải VĐQG ở Tokyo",
+      "link": "https://vnexpress.net/6-man-so-tai-dang-chu-y-tai-giai-vdqg-o-tokyo-4938021.html",
+      "summary": "Từ cuộc đua tốc độ của Noah Lyles, màn chia tay giàu cảm xúc của \"nữ hoàng\" Fraser-Pryce, tới cuộc đua \"tam mã\" ở 400m rào nam, giải điền kinh VĐQG thế giới Tokyo 2025 hứa hẹn loạt khoảnh khắc khó quên.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T02:52:14+07:00",
+      "fetched": "2025-09-12T11:18:23.726739+07:00"
+    },
+    {
       "id": "fe53cb0599813655bfb1d24d70429b12",
       "title": "Giá USD hôm nay 12.9.2025: Liên tục giảm",
       "link": "https://thanhnien.vn/gia-usd-hom-nay-1292025-lien-tuc-giam-185250912093807987.htm",
@@ -401,6 +801,16 @@ window.newsData_2025_09_12 = {
       "category": "Thế giới",
       "published": "2025-09-12T02:17:16+07:00",
       "fetched": "2025-09-12T09:52:50.975552+07:00"
+    },
+    {
+      "id": "956c4d41e04fdceae6906979b1f68036",
+      "title": "Quan tài Charlie Kirk được đưa về nhà bằng chuyên cơ Không lực Hai",
+      "link": "https://vnexpress.net/quan-tai-charlie-kirk-duoc-dua-ve-nha-bang-chuyen-co-khong-luc-hai-4938112.html",
+      "summary": "Charlie Kirk, nhà hoạt động bảo thủ vừa bị ám sát, được đưa từ Utah về nhà ở Arizona bằng chuyên cơ Không lực Hai của Phó tổng thống Vance.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T02:17:16+07:00",
+      "fetched": "2025-09-12T11:18:17.819265+07:00"
     },
     {
       "id": "170e701c30278dd5b32118460b9bfda8",
