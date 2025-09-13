@@ -1,7 +1,157 @@
 window.newsData_2025_09_13 = {
   "date": "2025-09-13",
-  "lastUpdated": "2025-09-13T05:14:06.612536+07:00",
+  "lastUpdated": "2025-09-13T08:08:09.342020+07:00",
   "articles": [
+    {
+      "id": "96dc8fc7af5848910c726277e2ba01e2",
+      "title": "Xô Viết Nghệ Tĩnh là biểu tượng bất tử của chủ nghĩa anh hùng cách mạng",
+      "link": "https://tuoitre.vn/xo-viet-nghe-tinh-la-bieu-tuong-bat-tu-cua-chu-nghia-anh-hung-cach-mang-20250912225649411.htm",
+      "summary": "Xô Viết Nghệ Tĩnh là một biểu tượng bất tử của chủ nghĩa anh hùng cách mạng, là minh chứng hùng hồn cho sức mạnh của khối đại đoàn kết công - nông dưới sự lãnh đạo của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.269452+07:00",
+      "fetched": "2025-09-13T08:08:02.269568+07:00"
+    },
+    {
+      "id": "133865fe6924ebba936414a8574d125b",
+      "title": "Siêu máy tính dự đoán vòng 4 Premier League: Man United có cơ hội thắng cực thấp",
+      "link": "https://tuoitre.vn/sieu-may-tinh-du-doan-vong-4-premier-league-man-united-co-co-hoi-thang-cuc-thap-20250913053620194.htm",
+      "summary": "Trước vòng 4 Giải ngoại hạng Anh (Premier League) diễn ra cuối tuần này, siêu máy tính của Opta đã đưa ra khá nhiều dự đoán bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.269309+07:00",
+      "fetched": "2025-09-13T08:08:02.269440+07:00"
+    },
+    {
+      "id": "1ce78cd07dc661ae6bd170ad164c360a",
+      "title": "Lịch trực tiếp bóng đá hôm nay 13-9: Arsenal, Chelsea, Real Madrid thi đấu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-hom-nay-13-9-arsenal-chelsea-real-madrid-thi-dau-20250913045839443.htm",
+      "summary": "Các trận đấu có sự hiện diện của Arsenal, Chelsea, Real Madrid... sẽ là tâm điểm của loạt trận bóng đá châu Âu hôm nay 13-9 và rạng sáng 14-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.269186+07:00",
+      "fetched": "2025-09-13T08:08:02.269298+07:00"
+    },
+    {
+      "id": "1527bddd0ee385e1ece25b2e1bdcbe67",
+      "title": "Lịch trực tiếp vòng 6 V-League: CLB Công An TP.HCM đấu Nam Định",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-6-v-league-clb-cong-an-tp-hcm-dau-nam-dinh-20250912082440639.htm",
+      "summary": "V-League 2025-2026 sẽ trở lại với hai trận đá sớm vòng 6, tâm điểm là cuộc đối đầu giữa CLB Công An TP.HCM với Thép Xanh Nam Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.269065+07:00",
+      "fetched": "2025-09-13T08:08:02.269176+07:00"
+    },
+    {
+      "id": "0592d9eebda5ad8900d3c590d8075c30",
+      "title": "Tin tức thế giới 13-9: Ukraine tấn công cảng dầu chủ chốt của Nga; Ông Trump gặp Thủ tướng Qatar",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-13-9-ukraine-tan-cong-cang-dau-chu-chot-cua-nga-ong-trump-gap-thu-tuong-qatar-20250913055143534.htm",
+      "summary": "Ba Lan và 40 nước đồng minh lên tiếng cảnh báo Nga; Drone Ukraine buộc tạm ngừng hoạt động bốc hàng tại cảng dầu Primorsk của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268941+07:00",
+      "fetched": "2025-09-13T08:08:02.269054+07:00"
+    },
+    {
+      "id": "5a5c218ba33be1f731fc5b0c0793257e",
+      "title": "Cơ hội nào cho Sinner kết thúc năm với vị trí số 1 thế giới?",
+      "link": "https://tuoitre.vn/co-hoi-nao-cho-sinner-ket-thuc-nam-voi-vi-tri-so-1-the-gioi-20250912113934273.htm",
+      "summary": "Sau khi Alcaraz đăng quang tại US Open 2025, chuỗi 65 tuần ngự trị trên đỉnh bảng xếp hạng của Sinner đã khép lại. Liệu Sinner có thể lật ngược thế cờ trước khi năm 2025 kết thúc?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268817+07:00",
+      "fetched": "2025-09-13T08:08:02.268930+07:00"
+    },
+    {
+      "id": "e25b27f8fee2e0c9abcba1bf5ceaff53",
+      "title": "Giải bóng chuyền nữ thế giới 2025 đã tạo kỷ lục không tưởng về khán giả",
+      "link": "https://tuoitre.vn/giai-bong-chuyen-nu-the-gioi-2025-da-tao-ky-luc-khong-tuong-ve-khan-gia-20250913060500682.htm",
+      "summary": "Giải Bóng chuyền nữ thế giới 2025 vừa kết thúc chứng kiến bước nhảy vọt ngoạn mục về sức hút khán giả tại ba thị trường quan trọng nhất của môn này: Thổ Nhĩ Kỳ, Ý và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268691+07:00",
+      "fetched": "2025-09-13T08:08:02.268805+07:00"
+    },
+    {
+      "id": "92a10df6c633af29c5601cb5074a1eb3",
+      "title": "Sao Thái Lan Bright Vachirawit giúp Burberry bội thu triệu đô",
+      "link": "https://tuoitre.vn/sao-thai-lan-bright-vachirawit-giup-burberry-boi-thu-trieu-do-20250912164034006.htm",
+      "summary": "Sở hữu hơn 17 triệu người theo dõi trên Instagram cùng sự nghiệp rực rỡ trong vai trò diễn viên, ca sĩ và doanh nhân, sức hút của Bright Vachirawit vượt xa vẻ ngoài điển trai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268545+07:00",
+      "fetched": "2025-09-13T08:08:02.268679+07:00"
+    },
+    {
+      "id": "213345a33c1f3c77361aa6e434ea80e2",
+      "title": "Bị kết án tù nhưng được hưởng án treo, có đương nhiên bị buộc thôi việc?",
+      "link": "https://tuoitre.vn/bi-ket-an-tu-duoc-huong-an-treo-co-duong-nhien-bi-buoc-thoi-viec-20250912122958851.htm",
+      "summary": "Công chức nếu bị kết án tù nhưng cho hưởng án treo thì có bị cho thôi việc không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268418+07:00",
+      "fetched": "2025-09-13T08:08:02.268533+07:00"
+    },
+    {
+      "id": "da0dbe5c1056c7ff94c7dbbbe255262e",
+      "title": "MV 'Love Game': Đẹp phần nhìn, rỗng phần nghe?",
+      "link": "https://tuoitre.vn/mv-love-game-dep-phan-nhin-rong-phan-nghe-20250912201256598.htm",
+      "summary": "Đằng sau ánh hào quang thị giác, liệu MV 'Love Game' thực sự có giá trị nghệ thuật, hay chỉ đơn thuần là món ăn nhanh cho người nghe?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268271+07:00",
+      "fetched": "2025-09-13T08:08:02.268405+07:00"
+    },
+    {
+      "id": "a1072ef063dbe73ad40b10fad7175561",
+      "title": "NATO tăng máy bay chiến đấu củng cố phòng thủ sườn phía đông phòng ngừa Nga",
+      "link": "https://tuoitre.vn/nato-tang-may-bay-chien-dau-cung-co-phong-thu-suon-phia-dong-phong-ngua-nga-20250913063729679.htm",
+      "summary": "Chiến dịch Eastern Sentry được triển khai nhằm củng cố phòng thủ sườn đông châu Âu, sau khi nhiều drone Nga xâm nhập không phận Ba Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268143+07:00",
+      "fetched": "2025-09-13T08:08:02.268259+07:00"
+    },
+    {
+      "id": "5521b8448509a319ff75b4937275422a",
+      "title": "Để ngành dịch vụ bứt phá, TP.HCM cần học hỏi Singapore, Thượng Hải",
+      "link": "https://tuoitre.vn/de-nganh-dich-vu-buc-pha-tp-hcm-can-hoc-hoi-singapore-thuong-hai-20250912215910332.htm",
+      "summary": "Dù có lợi thế về tiềm năng, vị trí địa lý nhưng so với các trung tâm dịch vụ lớn trong khu vực, TP.HCM vẫn còn khoảng cách khá xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.268011+07:00",
+      "fetched": "2025-09-13T08:08:02.268132+07:00"
+    },
+    {
+      "id": "a19cff7d741d2a0d8fba8cba2b3282c5",
+      "title": "Phản ứng của các bên khi Liên hợp quốc thông qua giải pháp hai nhà nước Israel - Palestine",
+      "link": "https://tuoitre.vn/phan-ung-cua-cac-ben-khi-lien-hop-quoc-thong-qua-giai-phap-hai-nha-nuoc-israel-palestine-20250913065835143.htm",
+      "summary": "Đại hội đồng Liên hợp quốc vừa thông qua Tuyên bố New York, nhằm mở ra tiến trình thực hiện giải pháp hai nhà nước Israel - Palestine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.267877+07:00",
+      "fetched": "2025-09-13T08:08:02.267999+07:00"
+    },
+    {
+      "id": "5d1fc76a58ee8aead5ce9d6d597ea7c4",
+      "title": "Nguyễn Thị Yến Nhi được dự đoán đăng quang Miss Grand Vietnam 2025",
+      "link": "https://tuoitre.vn/nguyen-thi-yen-nhi-duoc-du-doan-dang-quang-miss-grand-vietnam-2025-20250913063832001.htm",
+      "summary": "Trước thềm đêm chung kết Miss Grand Vietnam 2025, nhiều ứng viên sáng giá cho ngôi vị cao nhất cuộc thi đã lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.267730+07:00",
+      "fetched": "2025-09-13T08:08:02.267864+07:00"
+    },
+    {
+      "id": "7e1d3db230ed28a341ba3413efbc693c",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Nottingham khiến Arsenal muối mặt",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-nottingham-khien-arsenal-muoi-mat-20250912234723645.htm",
+      "summary": "Arsenal được dự báo có trận đấu khó khăn trước Nottingham Forest ở vòng 4 Ngoại hạng Anh (Premier League) mùa 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T08:08:02.267500+07:00",
+      "fetched": "2025-09-13T08:08:02.267714+07:00"
+    },
     {
       "id": "9dc749efc020c8e17d9fcf6b3734062b",
       "title": "Lịch thi đấu Giải bóng chuyền nam vô địch thế giới 13-9",
@@ -201,6 +351,446 @@ window.newsData_2025_09_13 = {
       "category": "Tổng hợp",
       "published": "2025-09-13T01:18:50.738899+07:00",
       "fetched": "2025-09-13T01:18:50.739123+07:00"
+    },
+    {
+      "id": "1377ee75cf05fea9f3f4d68fd29dcf5e",
+      "title": "Một số triệu chứng thường gặp của bệnh tiểu đường loại 2",
+      "link": "https://thanhnien.vn/mot-so-trieu-chung-thuong-gap-cua-benh-tieu-duong-loai-2-18525091305392004.htm",
+      "summary": "Những dấu hiệu ban đầu của tiểu đường loại 2 tuy rất nhỏ, nhưng nếu chú ý có thể giúp phát hiện sớm bệnh và điều trị kịp thời, giảm nguy cơ biến chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:06:00+07:00",
+      "fetched": "2025-09-13T08:08:01.444808+07:00"
+    },
+    {
+      "id": "7512d70c22b43b291f5726a9ff53af8f",
+      "title": "Thế hệ iPhone 17 cho đặt mua trước tại Việt Nam, nhiều ưu đãi tặng kèm máy",
+      "link": "https://thanhnien.vn/the-he-iphone-17-cho-dat-mua-truoc-tai-viet-nam-nhieu-uu-dai-tang-kem-may-185250913034218958.htm",
+      "summary": "Bắt đầu từ 19 giờ ngày 12.9, đồng loạt các hệ thống bán lẻ lớn tại Việt Nam đã cho phép người dùng đặt mua trước loạt sản phẩm iPhone 17. Đáng chú ý, có hệ thống còn áp dụng chính sách giữ suất hoàn toàn mà không cần cọc tiền, mang đến sự thuận tiện tối đa cho khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:06:00+07:00",
+      "fetched": "2025-09-13T08:08:01.444982+07:00"
+    },
+    {
+      "id": "8e03a3fb23debfcda98923bfa81712e2",
+      "title": "Hà Anh Tuấn, Hà Lệ Diễm góp mặt tại LHP Tài liệu châu Âu - Việt Nam",
+      "link": "https://thanhnien.vn/ha-anh-tuan-ha-le-diem-gop-mat-tai-lhp-tai-lieu-chau-au-viet-nam-185250912203400162.htm",
+      "summary": "Diễn ra từ ngày 12 - 18.9, LHP Tài liệu châu Âu - VN lần thứ 15 sẽ mang đến những tác phẩm ý nghĩa, giúp khán giả khám phá thêm cuộc sống muôn màu và hiểu biết thêm các nền văn hóa, qua đó thúc đẩy giao lưu, hợp tác quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:00:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445139+07:00"
+    },
+    {
+      "id": "07420f94a48a6d8b1998cbe98f7681ba",
+      "title": "Lắt léo chữ nghĩa: 'Nhuận bút' nghĩa là gì?",
+      "link": "https://thanhnien.vn/lat-leo-chu-nghia-nhuan-but-nghia-la-gi-185250912203215207.htm",
+      "summary": "Ngày nay, nhiều người biết nhuận bút là \"tiền trả cho tác giả các công trình văn hóa, nghệ thuật, khoa học được xuất bản hoặc được sử dụng\" (Từ điển tiếng Việt, Hoàng Phê chủ biên, 1988, tr.754). Song ngày xưa, nghĩa gốc của từ này khác hẳn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:00:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445303+07:00"
+    },
+    {
+      "id": "f5577e03dd83d1df2da0a8271ee40986",
+      "title": "Sách hay: Âm thanh từ cuộc chiến không tiếng súng",
+      "link": "https://thanhnien.vn/sach-hay-am-thanh-tu-cuoc-chien-khong-tieng-sung-185250912203031738.htm",
+      "summary": "Một tác phẩm viết về chiến tranh như thế này, kể ra cũng lạ. Khéo khen cho nhà văn Đới Xuân Việt đã tìm ra cho mình một góc nhìn khác. Trên cả mọi tình tiết, điều đọng lại cho người đọc là tình yêu thương của người lính trong khói lửa chiến tranh và những âm thanh tươi đẹp về tình người, tình đời vẫ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:00:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445479+07:00"
+    },
+    {
+      "id": "cfb27b8cca979da61bb91791ee6f5112",
+      "title": "Không phải váy hoa, đây là kiểu váy họa tiết đẹp nhất mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khong-phai-vay-hoa-day-la-kieu-vay-hoa-tiet-dep-nhat-mua-thu-185250908140040154.htm",
+      "summary": "Váy hoa luôn được nhắc tên khi đất trời bước vào mùa đẹp nhất năm. Tuy nhiên mùa thu 2025 có sự vượt lên của vô số họa tiết đồ họa đặc sắc, mới lạ tạo nên ấn tượng cho các bản phối thời trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T01:00:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445632+07:00"
+    },
+    {
+      "id": "32079cc1d97f8c5d3a103584827c6c8e",
+      "title": "Hệ sinh thái Sony hỗ trợ livestream chuyên nghiệp",
+      "link": "https://vnexpress.net/he-sinh-thai-sony-ho-tro-livestream-chuyen-nghiep-4937520.html",
+      "summary": "Sony giới thiệu giải pháp \"studio di động\" gồm máy ảnh, hệ thống pin ảo, phụ kiện và nền tảng hỗ trợ, hướng đến nhóm doanh nghiệp, nhà sáng tạo nội dung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-13T01:00:00+07:00",
+      "fetched": "2025-09-13T08:08:07.614947+07:00"
+    },
+    {
+      "id": "3e0a14451074d0e5b5d3e39d0f157b9f",
+      "title": "Phim có Phương Oanh, Doãn Quốc Đam tiếp tục gây tranh cãi",
+      "link": "https://thanhnien.vn/phim-co-phuong-oanh-doan-quoc-dam-tiep-tuc-gay-tranh-cai-185250912215051022.htm",
+      "summary": "Phim 'Gió ngang khoảng trời xanh' có sự tham gia của Phương Oanh, Doãn Quốc Đam tiếp tục gây tranh cãi với nhiều tình tiết, diễn xuất của các nhân vật trong phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:58:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445781+07:00"
+    },
+    {
+      "id": "e02f361df88ff1487293f816b88fc0f3",
+      "title": "Smartphone màn hình 120 Hz, pin 6.000 mAh giá 3 triệu đồng",
+      "link": "https://vnexpress.net/smartphone-man-hinh-120-hz-pin-6-000-mah-gia-3-trieu-dong-4938487.html",
+      "summary": "Poco C85 trang bị màn hình và phần cứng tốt nhất tầm giá, camera độ phân giải cao, pin dung lượng 6.000 mAh đi kèm sạc nhanh 33 W.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-13T00:56:14+07:00",
+      "fetched": "2025-09-13T08:08:07.614788+07:00"
+    },
+    {
+      "id": "8afb0fe4afbcd6e29e54fef53cbc49d0",
+      "title": "Giá heo hơi hôm nay 13.9.2025: 'Ông lớn' tăng tiếp",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1392025-ong-lon-tang-tiep-185250912164525408.htm",
+      "summary": "Giá heo hơi tiếp tục tăng rải rác ở một số tỉnh thành khắp cả nước. Đáng chú ý, 'ông lớn' trong ngành tiếp tục điều chỉnh tăng giá bán heo hơi ở miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:45:00+07:00",
+      "fetched": "2025-09-13T08:08:01.445929+07:00"
+    },
+    {
+      "id": "73baafa7e957f68aeec41d115cbe40d1",
+      "title": "Kỷ vật gắn với cố nhạc sĩ Nguyễn Ánh 9",
+      "link": "https://thanhnien.vn/ky-vat-gan-voi-co-nhac-si-nguyen-anh-9-185250913002726491.htm",
+      "summary": "Trong chương trình 'Kỷ niệm thanh xuân', nhạc sĩ Nguyễn Quang gây chú ý khi mang đến album 'Kỷ niệm', được anh thực hiện để tưởng nhớ cố nhạc sĩ Nguyễn Ánh 9. Với anh, đây cũng là một kỷ vật gắn với đấng sinh thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:38:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446075+07:00"
+    },
+    {
+      "id": "4dd9c19e07abee376504ee55ef488020",
+      "title": "Chiến hạm Nhật lần đầu bắn trúng mục tiêu trên biển bằng pháo điện từ",
+      "link": "https://vnexpress.net/chien-ham-nhat-lan-dau-ban-trung-muc-tieu-tren-bien-bang-phao-dien-tu-4938392.html",
+      "summary": "Nhật Bản thông báo chiến hạm Asuka đã bắn thử pháo điện từ nhằm vào mục tiêu trên biển, tuyên bố đây là lần đầu hoạt động này thành công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-13T00:33:56+07:00",
+      "fetched": "2025-09-13T08:08:03.784553+07:00"
+    },
+    {
+      "id": "b2bacdeeb4516ea3e220da9b704052ff",
+      "title": "Cây chết khô chưa được xử lý",
+      "link": "https://thanhnien.vn/cay-chet-kho-chua-duoc-xu-ly-185250912192056934.htm",
+      "summary": "Bạn đọc phản ánh cây xanh trước nhà 104A Nơ Trang Long (ảnh) và 1/11/163 Đặng Thùy Trâm, P.Bình Lợi Trung (trước đây thuộc P.13, Q.Bình Thạnh), TP.HCM bị chết khô lâu ngày nhưng không được cơ quan chức năng xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:17:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446222+07:00"
+    },
+    {
+      "id": "a0df230c51f84a372eac1764982e7770",
+      "title": "Kỳ lạ cây cầu hơn 10 tỉ sắp hoàn thành mà người dân sợ không dám đi",
+      "link": "https://thanhnien.vn/ky-la-cay-cau-hon-10-ti-sap-hoan-thanh-ma-nguoi-dan-so-khong-dam-di-185250912193812237.htm",
+      "summary": "Nhiều hộ dân ở thôn Gia Thịnh (xã Đức Thịnh, tỉnh Hà Tĩnh) tỏ ra bất bình khi cầu Bải Thẹn bắc qua sông nhà Lê thi công sắp hoàn thành nhưng lại có thiết kế kỳ lạ khi đường dẫn lên cầu chạy uốn lượn, lan can cầu lại nằm chính giữa tim đường tiềm ẩn nguy cơ mất an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:15:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446395+07:00"
+    },
+    {
+      "id": "411c15424c2aed15d6b7464a064a0c2d",
+      "title": "Bãi rác ngay khu lưu trú công nhân",
+      "link": "https://thanhnien.vn/bai-rac-ngay-khu-luu-tru-cong-nhan-185250912191734083.htm",
+      "summary": "Trên đường 1C nối với hẻm 178 Nguyễn Thị Tú, đoạn gần khu lưu trú công nhân Khu công nghiệp Vĩnh Lộc, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM đang tồn tại bãi rác tự phát, vô cùng nhếch nhác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:14:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446549+07:00"
+    },
+    {
+      "id": "8de5fe0c17732467349c34bb1f7fc748",
+      "title": "Nội đô Huế bao giờ hết chắn tàu?",
+      "link": "https://thanhnien.vn/noi-do-hue-bao-gio-het-chan-tau-185250912191347253.htm",
+      "summary": "Đó là câu hỏi mà hầu hết người dân Huế đặt ra bao năm qua, khi tuyến đường sắt vẫn chạy qua thành phố, cắt ngang hàng chục tuyến đường khiến giao thông ùn ứ, ách tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:06:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446698+07:00"
+    },
+    {
+      "id": "d40cfa76d8f7f1955758039e2b712b4c",
+      "title": "Cuộc cách mạng tinh gọn bộ máy: Thiên thời, địa lợi, nhân hòa",
+      "link": "https://thanhnien.vn/cuoc-cach-mang-tinh-gon-bo-may-thien-thoi-dia-loi-nhan-hoa-185250912183256306.htm",
+      "summary": "Đây là thời khắc \"thiên thời, địa lợi, nhân hòa\" để Việt Nam có được bộ máy \"tinh, gọn, mạnh, hiệu năng, hiệu lực, hiệu quả\" tạo đà vững bước vào kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:01:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446845+07:00"
+    },
+    {
+      "id": "7ea836812f80c8fde0af1be89a692474",
+      "title": "Ba Lan và đồng minh cảnh báo Nga 'không khiêu khích'",
+      "link": "https://vnexpress.net/ba-lan-va-dong-minh-canh-bao-nga-khong-khieu-khich-4938496.html",
+      "summary": "Ba Lan và khoảng 40 đồng minh ra tuyên bố chung, lên án vụ UAV xâm nhập không phận NATO và kêu gọi Nga tránh các \"hành động khiêu khích\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:09+07:00",
+      "fetched": "2025-09-13T08:07:58.366125+07:00"
+    },
+    {
+      "id": "7ea836812f80c8fde0af1be89a692474",
+      "title": "Ba Lan và đồng minh cảnh báo Nga 'không khiêu khích'",
+      "link": "https://vnexpress.net/ba-lan-va-dong-minh-canh-bao-nga-khong-khieu-khich-4938496.html",
+      "summary": "Ba Lan và khoảng 40 đồng minh ra tuyên bố chung, lên án vụ UAV xâm nhập không phận NATO và kêu gọi Nga tránh các \"hành động khiêu khích\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-13T00:00:09+07:00",
+      "fetched": "2025-09-13T08:08:03.784748+07:00"
+    },
+    {
+      "id": "4f4b09c4313e7a57e2db296da3008d3c",
+      "title": "Chip trên iPhone 17 Pro có hiệu năng đơn nhân cao hơn CPU AMD và Intel",
+      "link": "https://vnexpress.net/chip-tren-iphone-17-pro-co-hieu-nang-don-nhan-cao-hon-cpu-amd-va-intel-4938035.html",
+      "summary": "Chip A19 Pro trên iPhone 17 Pro và 17 Pro Max đạt điểm hiệu năng đơn nhân vượt AMD Ryzen 9 9950X và Intel Core i9-14900KS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:07:58.366315+07:00"
+    },
+    {
+      "id": "d1ceedb551b0d43597ad61ced900acad",
+      "title": "Bác sĩ nội trú được đào tạo trong mấy năm?",
+      "link": "https://vnexpress.net/bac-si-noi-tru-duoc-dao-tao-trong-may-nam-4938011.html",
+      "summary": "Bác sĩ nội trú là những sinh viên xuất sắc được tuyển chọn ngay sau khi kết thúc khóa học để tiếp tục được đào tạo trở thành bác sĩ chuyên khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:07:58.366506+07:00"
+    },
+    {
+      "id": "6bbbcda93881cd5d189a6ed35aa831ef",
+      "title": "Nhiều dịch vụ tại Cần Thơ ưu đãi dịp VnExpress Marathon",
+      "link": "https://vnexpress.net/nhieu-dich-vu-tai-can-tho-uu-dai-dip-vnexpress-marathon-4938328.html",
+      "summary": "Hơn 20 cơ sở lưu trú, điểm tham quan, lữ hành và mua sắm tại Cần Thơ triển khai chương trình giảm giá, quà tặng và dịch vụ đi kèm dịp VnExpress Marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:07:58.366669+07:00"
+    },
+    {
+      "id": "b2fef77909cf2d5c78c079b459a76fd6",
+      "title": "Walmart giao hàng trong ngày tại thành phố lớn",
+      "link": "https://vnexpress.net/walmart-giao-hang-trong-ngay-tai-thanh-pho-lon-4937097.html",
+      "summary": "Walmart tăng tốc giao hàng trên sàn thương mại điện tử tại nhiều thành phố lớn nhằm gia tăng cạnh tranh trực tiếp với Amazon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:07:58.366834+07:00"
+    },
+    {
+      "id": "47f48c84405fc9b8576d41e8931beecc",
+      "title": "Về 'thủ phủ' nuôi hươu sao",
+      "link": "https://thanhnien.vn/ve-thu-phu-nuoi-huou-sao-185250912214859667.htm",
+      "summary": "Từ hàng trăm năm trước, người dân ở huyện miền núi Hương Sơn cũ (tỉnh Hà Tĩnh) đã biết cách thuần hóa hươu sao, nuôi để lấy lộc nhung làm thuốc bồi bổ sức khỏe. Giờ đây, nuôi hươu sao trở thành nghề chăn nuôi chủ lực, giúp nhiều gia đình thoát nghèo, làm giàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:08:01.446991+07:00"
+    },
+    {
+      "id": "4f4b09c4313e7a57e2db296da3008d3c",
+      "title": "Chip trên iPhone 17 Pro có hiệu năng đơn nhân cao hơn CPU AMD và Intel",
+      "link": "https://vnexpress.net/chip-tren-iphone-17-pro-co-hieu-nang-don-nhan-cao-hon-cpu-amd-va-intel-4938035.html",
+      "summary": "Chip A19 Pro trên iPhone 17 Pro và 17 Pro Max đạt điểm hiệu năng đơn nhân vượt AMD Ryzen 9 9950X và Intel Core i9-14900KS.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:08:07.614437+07:00"
+    },
+    {
+      "id": "6bbbcda93881cd5d189a6ed35aa831ef",
+      "title": "Nhiều dịch vụ tại Cần Thơ ưu đãi dịp VnExpress Marathon",
+      "link": "https://vnexpress.net/nhieu-dich-vu-tai-can-tho-uu-dai-dip-vnexpress-marathon-4938328.html",
+      "summary": "Hơn 20 cơ sở lưu trú, điểm tham quan, lữ hành và mua sắm tại Cần Thơ triển khai chương trình giảm giá, quà tặng và dịch vụ đi kèm dịp VnExpress Marathon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-13T00:00:00+07:00",
+      "fetched": "2025-09-13T08:08:09.336797+07:00"
+    },
+    {
+      "id": "72b7761f98c9afaa65811a7bc50ed28a",
+      "title": "Canelo nhận hơn 128 triệu USD khi đấu Crawford",
+      "link": "https://vnexpress.net/canelo-nhan-hon-128-trieu-usd-khi-dau-crawford-4938474.html",
+      "summary": "Canelo Alvarez nhận mức thù lao kỷ lục cho một VĐV Mexico, khi đánh thống nhất các đai hạng siêu trung với Terence Crawford tại Las Vegas hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:53:54+07:00",
+      "fetched": "2025-09-13T08:07:58.366996+07:00"
+    },
+    {
+      "id": "72b7761f98c9afaa65811a7bc50ed28a",
+      "title": "Canelo nhận hơn 128 triệu USD khi đấu Crawford",
+      "link": "https://vnexpress.net/canelo-nhan-hon-128-trieu-usd-khi-dau-crawford-4938474.html",
+      "summary": "Canelo Alvarez nhận mức thù lao kỷ lục cho một VĐV Mexico, khi đánh thống nhất các đai hạng siêu trung với Terence Crawford tại Las Vegas hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:53:54+07:00",
+      "fetched": "2025-09-13T08:08:09.336304+07:00"
+    },
+    {
+      "id": "739511caeca44ec1a07fb83d656ba462",
+      "title": "Usain Bolt: 'Chưa thấy ai có thể phá kỷ lục của tôi'",
+      "link": "https://vnexpress.net/usain-bolt-chua-thay-ai-co-the-pha-ky-luc-cua-toi-4938194.html",
+      "summary": "Trước thềm giải điền kinh VĐTG 2025 tại Tokyo, huyền thoại Usain Bolt khẳng định chưa thấy VĐV nào đủ khả năng phá kỷ lục 100m và 200m của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:48:22+07:00",
+      "fetched": "2025-09-13T08:07:58.367163+07:00"
+    },
+    {
+      "id": "739511caeca44ec1a07fb83d656ba462",
+      "title": "Usain Bolt: 'Chưa thấy ai có thể phá kỷ lục của tôi'",
+      "link": "https://vnexpress.net/usain-bolt-chua-thay-ai-co-the-pha-ky-luc-cua-toi-4938194.html",
+      "summary": "Trước thềm giải điền kinh VĐTG 2025 tại Tokyo, huyền thoại Usain Bolt khẳng định chưa thấy VĐV nào đủ khả năng phá kỷ lục 100m và 200m của mình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:48:22+07:00",
+      "fetched": "2025-09-13T08:08:09.336949+07:00"
+    },
+    {
+      "id": "9605cb5f32bdaa933c6a641c89d365e8",
+      "title": "Haaland: 'Gặp Man Utd là cơ hội hoàn hảo để xoay chuyển tình thế'",
+      "link": "https://vnexpress.net/haaland-gap-man-utd-la-co-hoi-hoan-hao-de-xoay-chuyen-tinh-the-4938479.html",
+      "summary": "Tiền đạo Erling Haaland thừa nhận Man City khởi đầu mùa giải tệ hại, và xem trận gặp đội bóng đang có phong độ thấp Man Utd ở vòng bốn Ngoại hạng Anh là cơ hội để tìm lại phong độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:48:20+07:00",
+      "fetched": "2025-09-13T08:07:58.367319+07:00"
+    },
+    {
+      "id": "9605cb5f32bdaa933c6a641c89d365e8",
+      "title": "Haaland: 'Gặp Man Utd là cơ hội hoàn hảo để xoay chuyển tình thế'",
+      "link": "https://vnexpress.net/haaland-gap-man-utd-la-co-hoi-hoan-hao-de-xoay-chuyen-tinh-the-4938479.html",
+      "summary": "Tiền đạo Erling Haaland thừa nhận Man City khởi đầu mùa giải tệ hại, và xem trận gặp đội bóng đang có phong độ thấp Man Utd ở vòng bốn Ngoại hạng Anh là cơ hội để tìm lại phong độ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:48:20+07:00",
+      "fetched": "2025-09-13T08:08:09.336485+07:00"
+    },
+    {
+      "id": "9c8a12a9a17f5d0cd99fa318be5d91fd",
+      "title": "Nepal giải tán quốc hội",
+      "link": "https://vnexpress.net/nepal-giai-tan-quoc-hoi-4938494.html",
+      "summary": "Tổng thống Nepal giải tán quốc hội theo đề xuất từ tân Thủ tướng Karki và ấn định ngày bầu cử vào tháng 3/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:42:27+07:00",
+      "fetched": "2025-09-13T08:07:58.367506+07:00"
+    },
+    {
+      "id": "9c8a12a9a17f5d0cd99fa318be5d91fd",
+      "title": "Nepal giải tán quốc hội",
+      "link": "https://vnexpress.net/nepal-giai-tan-quoc-hoi-4938494.html",
+      "summary": "Tổng thống Nepal giải tán quốc hội theo đề xuất từ tân Thủ tướng Karki và ấn định ngày bầu cử vào tháng 3/2026.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T23:42:27+07:00",
+      "fetched": "2025-09-13T08:08:03.784929+07:00"
+    },
+    {
+      "id": "0ed1afe0a1ca4baedf72e33954035115",
+      "title": "Arteta: 'Liverpool đã mạnh, giờ còn mạnh hơn'",
+      "link": "https://vnexpress.net/arteta-liverpool-da-manh-gio-con-manh-hon-4938486.html",
+      "summary": "HLV Mikel Arteta thừa nhận Liverpool hiện là đội bóng mạnh nhất Ngoại hạng Anh sau khi chiêu mộ thành công Alexander Isak và Florian Wirtz - hai thương vụ đình đám của kỳ chuyển nhượng mùa hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:41:23+07:00",
+      "fetched": "2025-09-13T08:07:58.367662+07:00"
+    },
+    {
+      "id": "0ed1afe0a1ca4baedf72e33954035115",
+      "title": "Arteta: 'Liverpool đã mạnh, giờ còn mạnh hơn'",
+      "link": "https://vnexpress.net/arteta-liverpool-da-manh-gio-con-manh-hon-4938486.html",
+      "summary": "HLV Mikel Arteta thừa nhận Liverpool hiện là đội bóng mạnh nhất Ngoại hạng Anh sau khi chiêu mộ thành công Alexander Isak và Florian Wirtz - hai thương vụ đình đám của kỳ chuyển nhượng mùa hè.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:41:23+07:00",
+      "fetched": "2025-09-13T08:08:09.336644+07:00"
+    },
+    {
+      "id": "821f83d0e01d6b7bd63550b316182098",
+      "title": "Trang chủ FIFA quá tải vì vé xem World Cup 2026",
+      "link": "https://vnexpress.net/trang-chu-fifa-qua-tai-vi-ve-xem-world-cup-2026-4938493.html",
+      "summary": "Ngay giai đoạn bán vé đầu tiên của World Cup 2026, hàng triệu người hâm mộ đã đổ vào trang chủ FIFA, khiến hệ thống quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:36:42+07:00",
+      "fetched": "2025-09-13T08:07:58.367814+07:00"
+    },
+    {
+      "id": "821f83d0e01d6b7bd63550b316182098",
+      "title": "Trang chủ FIFA quá tải vì vé xem World Cup 2026",
+      "link": "https://vnexpress.net/trang-chu-fifa-qua-tai-vi-ve-xem-world-cup-2026-4938493.html",
+      "summary": "Ngay giai đoạn bán vé đầu tiên của World Cup 2026, hàng triệu người hâm mộ đã đổ vào trang chủ FIFA, khiến hệ thống quá tải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:36:42+07:00",
+      "fetched": "2025-09-13T08:08:09.337101+07:00"
+    },
+    {
+      "id": "ac748f23a25568cdf0cb459a9dce4c47",
+      "title": "Ronaldo kiếm nhiều tiền gần gấp đôi Messi",
+      "link": "https://vnexpress.net/ronaldo-kiem-nhieu-tien-gan-gap-doi-messi-4938492.html",
+      "summary": "Cristiano Ronaldo dẫn đầu danh sách 10 ngôi sao thể thao có thu nhập cao nhất thế giới 2025, với khoản tiền gần gấp đôi Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:34:17+07:00",
+      "fetched": "2025-09-13T08:07:58.367977+07:00"
+    },
+    {
+      "id": "ac748f23a25568cdf0cb459a9dce4c47",
+      "title": "Ronaldo kiếm nhiều tiền gần gấp đôi Messi",
+      "link": "https://vnexpress.net/ronaldo-kiem-nhieu-tien-gan-gap-doi-messi-4938492.html",
+      "summary": "Cristiano Ronaldo dẫn đầu danh sách 10 ngôi sao thể thao có thu nhập cao nhất thế giới 2025, với khoản tiền gần gấp đôi Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:34:17+07:00",
+      "fetched": "2025-09-13T08:08:09.335968+07:00"
+    },
+    {
+      "id": "ff2d3707395e69e9109b93bfd939a0d6",
+      "title": "Amorim: 'Onana không chịu nổi áp lực ở Man Utd'",
+      "link": "https://vnexpress.net/amorim-onana-khong-chiu-noi-ap-luc-o-man-utd-4938488.html",
+      "summary": "HLV Ruben Amorim chỉ ra những vấn đề của thủ môn Andre Onana, khiến anh được đem cho Trabzonspor mượn ở mùa giải 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:32:10+07:00",
+      "fetched": "2025-09-13T08:07:58.368137+07:00"
+    },
+    {
+      "id": "ff2d3707395e69e9109b93bfd939a0d6",
+      "title": "Amorim: 'Onana không chịu nổi áp lực ở Man Utd'",
+      "link": "https://vnexpress.net/amorim-onana-khong-chiu-noi-ap-luc-o-man-utd-4938488.html",
+      "summary": "HLV Ruben Amorim chỉ ra những vấn đề của thủ môn Andre Onana, khiến anh được đem cho Trabzonspor mượn ở mùa giải 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T23:32:10+07:00",
+      "fetched": "2025-09-13T08:08:09.336143+07:00"
+    },
+    {
+      "id": "ea4a780d40776d90c825c002c19d5cd8",
+      "title": "Khách Việt hủy tour, chấp nhận mất tiền để tránh Nepal",
+      "link": "https://vnexpress.net/khach-viet-huy-tour-chap-nhan-mat-tien-de-tranh-nepal-4938274.html",
+      "summary": "Cửa hàng đóng cửa, những vụ tấn công, đốt phá ở Nepal khiến một số du khách Việt sẵn sàng mất tiền đặt tour hoặc cắt lịch trình, tìm cách về nước sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:30:00+07:00",
+      "fetched": "2025-09-13T08:07:58.368300+07:00"
+    },
+    {
+      "id": "68c1c033a7629ab6473610149a196bc7",
+      "title": "Thám tử phá án nhờ đọc tiểu thuyết của 'nhà văn sát nhân'",
+      "link": "https://vnexpress.net/pha-an-nho-doc-tieu-thuyet-cua-nha-van-sat-nhan-4938428.html",
+      "summary": "Nhà văn Krystian Bala dàn dựng vụ giết một doanh nhân vì ghen tuông, sau đó sử dụng cốt truyện này cho cuốn tiểu thuyết bán chạy nhất của mình, vô tình giúp cảnh sát lần ra dấu vết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T23:00:00+07:00",
+      "fetched": "2025-09-13T08:07:58.368486+07:00"
     },
     {
       "id": "285a6a596ab5c69fa73b9adec016c2dd",
@@ -691,6 +1281,16 @@ window.newsData_2025_09_13 = {
       "category": "Tổng hợp",
       "published": "2025-09-12T16:32:00+07:00",
       "fetched": "2025-09-13T01:18:49.224136+07:00"
+    },
+    {
+      "id": "9c0aec69c40709143407468d97d4be1f",
+      "title": "Bộ Khoa học và Công nghệ bổ nhiệm 6 cán bộ",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-bo-nhiem-6-can-bo-4938476.html",
+      "summary": "Bộ Khoa học và Công nghệ tổ chức lễ công bố và trao quyết định về công tác cán bộ tại 5 đơn vị, tối 12/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T16:00:00+07:00",
+      "fetched": "2025-09-13T08:08:07.615896+07:00"
     },
     {
       "id": "f9b9e8fed3e4efc8eff2f0301a040214",
