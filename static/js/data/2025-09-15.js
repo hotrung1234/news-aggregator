@@ -1,6 +1,6 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T03:15:37.972694+07:00",
+  "lastUpdated": "2025-09-15T05:13:56.166439+07:00",
   "articles": [
     {
       "id": "6a39091b599c6ceb9c1246592d0d2738",
@@ -201,6 +201,226 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T01:19:38.750020+07:00",
       "fetched": "2025-09-15T01:19:38.750266+07:00"
+    },
+    {
+      "id": "2ca490d9fcbd03a047a9b61bccc7b0f9",
+      "title": "Cam kết của Thủ tướng lâm thời Nepal",
+      "link": "https://thanhnien.vn/cam-ket-cua-thu-tuong-lam-thoi-nepal-185250914214648336.htm",
+      "summary": "Thủ tướng lâm thời Nepal trong bài phát biểu đầu tiên nhấn mạnh chỉ giữ vị trí lãnh đạo chính phủ trong vòng 6 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:11:00+07:00",
+      "fetched": "2025-09-15T05:13:47.597905+07:00"
+    },
+    {
+      "id": "929a30879078f8b29e6d71ea868d68e7",
+      "title": "Cúm mùa - bệnh cảm thông thường nhưng dễ biến chứng",
+      "link": "https://vnexpress.net/cum-mua-benh-cam-thong-thuong-nhung-de-bien-chung-4938860.html",
+      "summary": "Cúm mùa là bệnh cảm thông thường, song với người cao tuổi, trẻ nhỏ và người mắc bệnh nền, cúm có thể khởi đầu chuỗi biến chứng nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.665409+07:00"
+    },
+    {
+      "id": "800a200279c57335168d2d646546e786",
+      "title": "Đề xuất dạy tiếng Campuchia, Thái Lan, Indonesia ở phổ thông",
+      "link": "https://vnexpress.net/de-xuat-day-tieng-campuchia-thai-lan-indonesia-o-pho-thong-4938742.html",
+      "summary": "Từ năm 2026, Việt Nam bắt đầu dạy tiếng Lào ở những trường học có nhu cầu, sau đó là tiếng Campuchia, Thái Lan và Indonesia, theo đề xuất của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.665588+07:00"
+    },
+    {
+      "id": "191df03fd0e6a83111a69c1a4aedd0f4",
+      "title": "Xu hướng 'bay người không' của giới trẻ",
+      "link": "https://vnexpress.net/xu-huong-bay-nguoi-khong-cua-gioi-tre-4938345.html",
+      "summary": "Để tránh trả phí hành lý ngày càng tăng, nhiều du khách trẻ chỉ mang điện thoại và ví tiền lên máy bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.665781+07:00"
+    },
+    {
+      "id": "0ff8ef657262292bb261f2a2b1d1e831",
+      "title": "Hậu quả khi thành phố Ấn Độ trở thành 'Thung lũng Silicon'",
+      "link": "https://vnexpress.net/hau-qua-khi-thanh-pho-an-do-tro-thanh-thung-lung-silicon-4938059.html",
+      "summary": "Từng yên bình với khí hậu dễ chịu, thành phố Bengaluru giờ đây ngột ngạt sau khi chuyển mình thành trung tâm công nghệ mà không quy hoạch hợp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.665958+07:00"
+    },
+    {
+      "id": "6d8d30af0f828addae2bef507d32d4fc",
+      "title": "Lựa chọn sinh tử của người dân Gaza City giữa mưa bom Israel",
+      "link": "https://vnexpress.net/lua-chon-sinh-tu-cua-nguoi-dan-gaza-city-giua-mua-bom-israel-4937091.html",
+      "summary": "Israel tăng cường không kích phá hủy hạ tầng ở Gaza City, nhưng nhiều dân thường chấp nhận bám trụ giữa hiểm cảnh, vì hành trình sơ tán vượt ngưỡng chịu đựng của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.666118+07:00"
+    },
+    {
+      "id": "5b648895f599303656e4842c81a94175",
+      "title": "Dải Gaza giữa những ngổn ngang",
+      "link": "https://thanhnien.vn/dai-gaza-giua-nhung-ngon-ngang-185250914214341916.htm",
+      "summary": "Sau khi Israel tấn công nhắm vào thủ lĩnh Hamas ở Qatar, Thủ tướng Benjamin Netanyahu muốn tiếp tục chiến dịch và Mỹ vẫn ủng hộ Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598076+07:00"
+    },
+    {
+      "id": "ccab15a3d57674d7286ed47314989efa",
+      "title": "Diễn đàn Kinh tế tư nhân VN: Nơi lan tỏa niềm tin và khát vọng hùng cường",
+      "link": "https://thanhnien.vn/dien-dan-kinh-te-tu-nhan-vn-noi-lan-toa-niem-tin-va-khat-vong-hung-cuong-185250914183452636.htm",
+      "summary": "Anh Nguyễn Tường Lâm, Bí thư T.Ư Đoàn, Chủ tịch T.Ư Hội Liên hiệp thanh niên VN, mong rằng Diễn đàn Kinh tế tư nhân VN sẽ trở thành nơi lan tỏa niềm tin và khát vọng hùng cường của đất nước đến từng doanh nhân trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598235+07:00"
+    },
+    {
+      "id": "6d8d30af0f828addae2bef507d32d4fc",
+      "title": "Lựa chọn sinh tử của người dân Gaza City giữa mưa bom Israel",
+      "link": "https://vnexpress.net/lua-chon-sinh-tu-cua-nguoi-dan-gaza-city-giua-mua-bom-israel-4937091.html",
+      "summary": "Israel tăng cường không kích phá hủy hạ tầng ở Gaza City, nhưng nhiều dân thường chấp nhận bám trụ giữa hiểm cảnh, vì hành trình sơ tán vượt ngưỡng chịu đựng của họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T22:00:00+07:00",
+      "fetched": "2025-09-15T05:13:50.344968+07:00"
+    },
+    {
+      "id": "930e1a6ab67dedb6f70e0477605f10d7",
+      "title": "Chiến sự Ukraine ngày 1.299: Ukraine tấn công lãnh thổ Nga dồn dập",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1299-ukraine-tan-cong-lanh-tho-nga-don-dap-185250914164654407.htm",
+      "summary": "Bộ Quốc phòng Nga ngày 14.9 tuyên bố hệ thống phòng không nước này đã bắn hạ ít nhất 361 máy bay không người lái (UAV) trong một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:33:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598390+07:00"
+    },
+    {
+      "id": "0accab1edbd953b9e366232787580bce",
+      "title": "'Mái ấm rẻ nhất TP.HCM', chủ trọ tiết lộ lý do gần 10 năm không tăng giá",
+      "link": "https://thanhnien.vn/mai-am-re-nhat-tphcm-chu-tro-tiet-lo-ly-do-gan-10-nam-khong-tang-gia-185250908162146777.htm",
+      "summary": "1 triệu hoặc 1,1 triệu đồng/tháng là giá chung của 94 phòng của chủ trọ Nguyễn Ngọc Trằm (37 tuổi) gần 10 năm nay không tăng giá, người thuê nhận định 'rẻ nhất TP.HCM'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:33:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598542+07:00"
+    },
+    {
+      "id": "8d79ac0a7aa36d1a8a6ba2b2e52330d5",
+      "title": "F-16 Romania 'đuổi' UAV Nga, Ba Lan đóng cửa sân bay",
+      "link": "https://thanhnien.vn/f-16-romania-duoi-uav-nga-ba-lan-dong-cua-san-bay-185250914222808113.htm",
+      "summary": "Romania và Ba Lan hôm 13.9 đã áp dụng những biện pháp quân sự khẩn cấp để kịp thời ứng phó mối đe dọa gia tăng từ máy bay không người lái (UAV) gần biên giới của hai nước với Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:06:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598694+07:00"
+    },
+    {
+      "id": "12c654ecf5e2e2b67e46aaa0313108c1",
+      "title": "Hơn 21.000 xe Ford tại Việt Nam lỗi màn hình hiển thị",
+      "link": "https://vnexpress.net/hon-21-000-xe-ford-tai-viet-nam-loi-man-hinh-hien-thi-4938892.html",
+      "summary": "Từ tháng 9, Ford Việt Nam triệu hồi ba dòng xe: Ranger, Ranger Raptor và Everest để cập nhập phần mềm điều khiển màn hình hiển thị camera sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.666282+07:00"
+    },
+    {
+      "id": "27f977c765f85a6815f5a92058e2987d",
+      "title": "Người lao động chạy đua với lạm phát",
+      "link": "https://vnexpress.net/nguoi-lao-dong-chay-dua-voi-lam-phat-4938975.html",
+      "summary": "Sống giữa TP.HCM với lương công nhân 8 triệu, hai mẹ con chị Kim Đông tằn tiện khi giá cả leo thang, bếp ga hỏng mà không dám đi sửa, phải chờ 8 giờ tối vào siêu thị \"săn\" gói thịt, bó rau giảm giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:44.666438+07:00"
+    },
+    {
+      "id": "7fff00722a560f5f43de0a7a492bf1c2",
+      "title": "Giá cà phê tăng kỷ lục tại Mỹ, doanh nghiệp Việt có hưởng lợi?",
+      "link": "https://thanhnien.vn/gia-ca-phe-tang-ky-luc-tai-my-doanh-nghiep-viet-co-huong-loi-185250914225058383.htm",
+      "summary": "Giá cà phê trong nước lẫn quốc tế tăng cao đột biến, đặc biệt giá loại nông sản chế biến tại thị trường Mỹ đã tăng đến mức kỷ lục. Liệu diễn biến này có mang lại lợi ích cho doanh nghiệp VN?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.598868+07:00"
+    },
+    {
+      "id": "7ae312a76de8e1c6b3cccb38c7a71800",
+      "title": "Việt Nam chính thức thí điểm thị trường mã hóa",
+      "link": "https://thanhnien.vn/viet-nam-chinh-thuc-thi-diem-thi-truong-ma-hoa-185250914222415488.htm",
+      "summary": "VN chính thức thực hiện thí điểm thị trường tài sản mã hóa, cho phép thành lập sàn giao dịch để nhà đầu tư trong lẫn ngoài nước tham gia cũng như doanh nghiệp có thể phát hành tài sản mã hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599018+07:00"
+    },
+    {
+      "id": "b1f0fc1f7e6507d8d3232ed9f0975ef0",
+      "title": "Áp thuế 17% trên lợi nhuận: Hộ kinh doanh nói quá cao",
+      "link": "https://thanhnien.vn/ap-thue-17-tren-loi-nhuan-ho-kinh-doanh-noi-qua-cao-185250914201447213.htm",
+      "summary": "Bộ Tài chính đề xuất áp dụng cách tính thuế mới với cá nhân kinh doanh là 17% trên lợi nhuận. Điều này được cho là bước đệm để cá nhân, hộ kinh doanh chuyển đổi lên doanh nghiệp. Tuy nhiên các chủ hộ kinh doanh lo rằng việc phải chứng minh chi phí đầu vào là \"quá sức\" đối với họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599166+07:00"
+    },
+    {
+      "id": "e69e31c6a776d0b99466b302759727a2",
+      "title": "Tăng tốc làm thủ tục bay không giấy tờ",
+      "link": "https://thanhnien.vn/tang-toc-lam-thu-tuc-bay-khong-giay-to-185250914184845956.htm",
+      "summary": "Thủ tướng Chính phủ chỉ đạo triển khai ứng dụng công nghệ sinh trắc học trên hệ thống định danh và xác thực điện tử VNeID, thực hiện toàn trình tại 100% các cảng hàng không trên toàn quốc. Mục tiêu đến ngày 1.12, hành khách cả nước đi máy bay không cần giấy tờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599324+07:00"
+    },
+    {
+      "id": "35dd454a82c4194262e78d5cf13596af",
+      "title": "Cha mẹ lập di chúc để tránh rắc rối, cần lưu ý những gì?",
+      "link": "https://thanhnien.vn/cha-me-lap-di-chuc-de-tranh-rac-roi-can-luu-y-nhung-gi-185250914171608427.htm",
+      "summary": "Để tránh rắc rối về sau này, cha mẹ khi lập di chúc nên lập riêng mỗi người một bản, nếu muốn cháu được hưởng thừa kế, cũng nên chỉ định rõ ai được quản lý di sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T21:00:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599471+07:00"
+    },
+    {
+      "id": "1091997ceaf8545efb9a9b9aef7ca588",
+      "title": "Chờ đợi sửa luật Đất đai",
+      "link": "https://thanhnien.vn/cho-doi-sua-luat-dat-dai-185250914170812684.htm",
+      "summary": "Không chỉ người dân và doanh nghiệp bất động sản mà hầu hết các doanh nghiệp đều bị ảnh hưởng bởi giá đất tăng cao. Vì thế, việc sửa luật Đất đai hơn một lần được Chủ tịch Quốc hội lưu ý \"làm gì thì làm, cũng không được bỏ sót...\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T20:51:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599618+07:00"
+    },
+    {
+      "id": "3925e9f8f58f5c348ec29127b77f93a9",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1592025-185250914231056546.htm",
+      "summary": "Tin tức Việt Nam chính thức thí điểm thị trường mã hóa, Diễn đàn Kinh tế tư nhân VN: Nơi lan tỏa niềm tin và khát vọng hùng cường, Bao giờ tầm vóc người VN được cải thiện?… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 15.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T20:49:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599783+07:00"
+    },
+    {
+      "id": "e65675604996dba7331afcc6697ef246",
+      "title": "Bệnh nhi nhập viện do nhiễm RSV tăng nhanh",
+      "link": "https://thanhnien.vn/benh-nhi-nhap-vien-do-nhiem-rsv-tang-nhanh-18525091420205503.htm",
+      "summary": "Bệnh viện Nhi Hà Nội cho biết số ca mắc RSV (Respiratory syncytial virus - vi rút hợp bào hô hấp) đang tăng nhanh, chiếm tỷ lệ 60 - 70% bệnh nhi nằm nội trú điều trị các bệnh về hô hấp. Lứa tuổi dễ mắc là trẻ dưới 2 tuổi. Đặc biệt, trẻ dưới 6 tháng có nguy cơ chuyển thành viêm phổi nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T20:41:00+07:00",
+      "fetched": "2025-09-15T05:13:47.599933+07:00"
     },
     {
       "id": "661bacd489d626ebead479fb8b5c361b",
