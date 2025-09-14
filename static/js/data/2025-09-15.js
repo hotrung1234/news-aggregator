@@ -1,7 +1,57 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T01:19:45.104367+07:00",
+  "lastUpdated": "2025-09-15T03:15:37.972694+07:00",
   "articles": [
+    {
+      "id": "6a39091b599c6ceb9c1246592d0d2738",
+      "title": "Video tiền vệ Việt kiều Nguyễn Vadim 'dọn cỗ' thuận lợi nhưng đồng đội lại bỏ lỡ khó tin",
+      "link": "https://tuoitre.vn/video-tien-ve-viet-kieu-nguyen-vadim-don-co-thuan-loi-nhung-dong-doi-lai-bo-lo-kho-tin-20250914233225886.htm",
+      "summary": "Tiền vệ Việt kiều Nguyễn Vadim (SHB Đà Nẵng) có pha đi bóng đẳng cắp rồi kiến tạo thuận lợi nhưng đồng đội lại bỏ lỡ đáng tiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:29.861503+07:00",
+      "fetched": "2025-09-15T03:15:29.861619+07:00"
+    },
+    {
+      "id": "0df237cbbfd398a5c7a6362f155fee2c",
+      "title": "Nga khoe uy lực tên lửa Zircon, siêu vượt âm đến Mach 9",
+      "link": "https://tuoitre.vn/nga-khoe-uy-luc-ten-lua-zircon-sieu-vuot-am-den-mach-9-20250914233630463.htm",
+      "summary": "Bộ Quốc phòng Nga tung hình ảnh phóng tên lửa siêu vượt âm Zircon cũng như nhiều bài diễn tập phức tạp khác trong khuôn khổ tập trận chung cùng Belarus.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:29.861375+07:00",
+      "fetched": "2025-09-15T03:15:29.861491+07:00"
+    },
+    {
+      "id": "bac9b4a1e90ea9ca7d0838820a8252b1",
+      "title": "Nguyễn Thị Yến Nhi đăng quang Miss Grand Vietnam 2025",
+      "link": "https://tuoitre.vn/nguyen-thi-yen-nhi-dang-quang-miss-grand-vietnam-2025-20250914193355232.htm",
+      "summary": "Vượt qua 34 người đẹp còn lại, Nguyễn Thị Yến Nhi đến từ Đắk Lắk giành vương miện Miss Grand Vietnam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:29.861239+07:00",
+      "fetched": "2025-09-15T03:15:29.861363+07:00"
+    },
+    {
+      "id": "40191575efbde6eac5049f957888ed84",
+      "title": "Thời tiết hôm nay 15-9: Cả nước có mưa, mưa to ở miền Bắc và miền Nam",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-9-ca-nuoc-co-mua-mua-to-o-mien-bac-va-mien-nam-2025091416095634.htm",
+      "summary": "Hôm nay 15-9, thời tiết cả nước có mưa, dự báo mưa to chủ yếu xảy ra vào chiều tối ở miền Nam và đêm đến sáng sớm ở miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:29.861094+07:00",
+      "fetched": "2025-09-15T03:15:29.861227+07:00"
+    },
+    {
+      "id": "f083a656e3dd18aafe357668157637c8",
+      "title": "Haaland lập cú đúp, Man City nhấn chìm Man United",
+      "link": "https://tuoitre.vn/haaland-lap-cu-dup-man-city-nhan-chim-man-united-20250915004541543.htm",
+      "summary": "Rạng sáng 15-9, Man United đã để thua chủ nhà Man City 0-3 ở vòng 4 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:29.860869+07:00",
+      "fetched": "2025-09-15T03:15:29.861079+07:00"
+    },
     {
       "id": "3eae610b6501afc2cd24056669f07745",
       "title": "Minh Vương lập siêu phẩm, CLB Trường Tươi Đồng Nai thắng tưng bừng ở Cúp Quốc gia",
@@ -151,6 +201,76 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T01:19:38.750020+07:00",
       "fetched": "2025-09-15T01:19:38.750266+07:00"
+    },
+    {
+      "id": "661bacd489d626ebead479fb8b5c361b",
+      "title": "Ẩm thực Việt bùng nổ ở New York",
+      "link": "https://vnexpress.net/am-thuc-viet-bung-no-o-new-york-4937879.html",
+      "summary": "Hàng loạt nhà hàng Việt nở rộ ở New York, khai thác sự đa dạng ẩm thực quê nhà, thu hút sự chú ý của thực khách địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T20:00:00+07:00",
+      "fetched": "2025-09-15T03:15:31.199118+07:00"
+    },
+    {
+      "id": "49eb381954e1482dc3b6deec27b0d44a",
+      "title": "Bi kịch của những người trúng số độc đắc",
+      "link": "https://vnexpress.net/bi-kich-cua-nhung-nguoi-trung-so-doc-dac-4936817.html",
+      "summary": "Phá sản, gia đình tan vỡ, thậm chí mất mạng, là bi kịch của một số người từng trúng số độc đắc khắp thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:00:00+07:00",
+      "fetched": "2025-09-15T03:15:25.281450+07:00"
+    },
+    {
+      "id": "49eb381954e1482dc3b6deec27b0d44a",
+      "title": "Bi kịch của những người trúng số độc đắc",
+      "link": "https://vnexpress.net/bi-kich-cua-nhung-nguoi-trung-so-doc-dac-4936817.html",
+      "summary": "Phá sản, gia đình tan vỡ, thậm chí mất mạng, là bi kịch của một số người từng trúng số độc đắc khắp thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T19:00:00+07:00",
+      "fetched": "2025-09-15T03:15:31.199295+07:00"
+    },
+    {
+      "id": "ff41dd56aa7aa11370f88693db912bfc",
+      "title": "Những người trẻ 'ngây thơ' dính bẫy tội phạm ma túy vì ôm mộng sống ảo",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-ngay-tho-dinh-bay-ma-tuy-vi-om-mong-influencer-4938985.html",
+      "summary": "Lực lượng biên phòng đang cố ngăn chặn những du khách trẻ bị các băng đảng dụ dỗ trở thành người vận chuyển ma túy, bắt đầu từ lời hứa về chuyến du lịch sang chảnh miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T18:15:35+07:00",
+      "fetched": "2025-09-15T03:15:25.281627+07:00"
+    },
+    {
+      "id": "688630bfce93330a958fd0fef399e97d",
+      "title": "Chiêu 'mua chuộc' tại 20 vụ án khiến hàng loạt thẩm phán hầu tòa",
+      "link": "https://vnexpress.net/chieu-mua-chuoc-tai-20-vu-an-khien-hang-loat-tham-phan-hau-toa-4938903.html",
+      "summary": "20 vụ hối lộ bị phát giác trong vụ án này đã phơi bày những mánh \"mua bán\" được thực hiện bởi chính những người có vai trò trụ cột trong bảo vệ công bằng, lẽ phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T18:02:32+07:00",
+      "fetched": "2025-09-15T03:15:25.281790+07:00"
+    },
+    {
+      "id": "4e7681b522a14920fc071daa3f6b3d79",
+      "title": "Đại tiện bao nhiêu lần tốt cho sức khỏe?",
+      "link": "https://vnexpress.net/dai-tien-bao-nhieu-lan-tot-cho-suc-khoe-4937921.html",
+      "summary": "Tần suất đại tiện bình thường từ 3 lần/tuần đến 3 lần/ngày, quan trọng là theo dõi thói quen để phát hiện những thay đổi bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T18:00:00+07:00",
+      "fetched": "2025-09-15T03:15:25.282119+07:00"
+    },
+    {
+      "id": "734547d3bded334a948d232d49a5d607",
+      "title": "Cách Hàn Quốc hạ nhiệt thị trường bất động sản",
+      "link": "https://vnexpress.net/cach-han-quoc-ha-nhiet-thi-truong-bat-dong-san-4938976.html",
+      "summary": "Hàn Quốc đang hạn chế người nước ngoài đầu tư, siết tín dụng với nhà tại Seoul nhằm hạ nhiệt thị trường, giảm giá nhà đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:52:04+07:00",
+      "fetched": "2025-09-15T03:15:25.282379+07:00"
     },
     {
       "id": "3aee0a64f69bd2e10b37b6ed7ae7ef88",
