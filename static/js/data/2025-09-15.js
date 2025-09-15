@@ -1,7 +1,157 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T05:13:56.166439+07:00",
+  "lastUpdated": "2025-09-15T08:18:01.448977+07:00",
   "articles": [
+    {
+      "id": "b9981893ac588356e10b157a3e149f1d",
+      "title": "Các đội châu Á thua toàn tập ở Giải bóng chuyền nam vô địch thế giới",
+      "link": "https://tuoitre.vn/cac-doi-chau-a-thua-toan-tap-o-giai-bong-chuyen-nam-vo-dich-the-gioi-20250915055418434.htm",
+      "summary": "Châu Á đang có khởi đầu hết sức tệ hại ở Giải bóng chuyền nam vô địch thế giới 2025 khi không có đại diện nào giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.153053+07:00",
+      "fetched": "2025-09-15T08:17:54.153171+07:00"
+    },
+    {
+      "id": "80124a505e0c59e5d932aa4e2ec3f153",
+      "title": "Nghi vấn top 5 Miss Grand Vietnam 2025 biết trước câu hỏi ứng xử",
+      "link": "https://tuoitre.vn/nghi-van-top-5-miss-grand-vietnam-2025-biet-truoc-cau-hoi-ung-xu-202509150540398.htm",
+      "summary": "Phần thi ứng xử giống như thi đại học, ban tổ chức Miss Grand Vietnam 2025 cho bộ đề, định hướng nội dung để top 35 có sự chuẩn bị, hạn chế phát ngôn lệch chuẩn trên sóng livestream.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152923+07:00",
+      "fetched": "2025-09-15T08:17:54.153042+07:00"
+    },
+    {
+      "id": "585d5689516295557a9d691532c3246e",
+      "title": "Tin tức thế giới 15-9: Ông Trump nói về lao động nước ngoài ở Mỹ; Diễn biến mới Nga - Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-15-9-ong-trump-noi-ve-lao-dong-nuoc-ngoai-o-my-dien-bien-moi-nga-ukraine-20250915050900917.htm",
+      "summary": "Tại Liên hợp quốc, Triều Tiên tuyên bố là quốc gia sở hữu vũ khí hạt nhân; Quân đội Ukraine đạt tiến triển ở vùng biên giới Sumy, đẩy lùi quân Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152770+07:00",
+      "fetched": "2025-09-15T08:17:54.152909+07:00"
+    },
+    {
+      "id": "96d08ee175958f232c09942f3e848ab0",
+      "title": "Cu Lỳ tìm lại được gia đình nhờ Như chưa hề có cuộc chia ly, kể chuyện đời 30 năm lưu lạc",
+      "link": "https://tuoitre.vn/cu-ly-tim-lai-duoc-gia-dinh-nho-nhu-chua-he-co-cuoc-chia-ly-ke-chuyen-doi-30-nam-luu-lac-202509142149444.htm",
+      "summary": "Cu Lỳ, nhân vật trong tập 192 Như chưa hề có cuộc chia ly khiến bao người xem rơi nước mắt. Thương và khâm phục anh, dù trải qua biết bao 'địa ngục trần gian' vẫn giữ được tấm lòng lương thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152647+07:00",
+      "fetched": "2025-09-15T08:17:54.152758+07:00"
+    },
+    {
+      "id": "35b9ae86e33e9a341d64325e7327d21a",
+      "title": "Lịch thi đấu Giải bóng chuyền nam vô địch thế giới ngày 15-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-chuyen-nam-vo-dich-the-gioi-ngay-15-9-20250915061453001.htm",
+      "summary": "Ngày 15-9, Giải bóng chuyền nam vô địch thế giới 2025 sẽ bước vào thi đấu lượt trận thứ 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152524+07:00",
+      "fetched": "2025-09-15T08:17:54.152636+07:00"
+    },
+    {
+      "id": "e5b46df7f09771223a074cce575c7979",
+      "title": "Kim Tử Long tiếc cho thí sinh Chuông vàng vọng cổ ca bị gãy",
+      "link": "https://tuoitre.vn/kim-tu-long-tiec-cho-thi-sinh-chuong-vang-vong-co-ca-bi-gay-2025091501092026.htm",
+      "summary": "Tối 14-9, 7 thí sinh đã tranh tài ở đêm thi chung kết 2 Chuông vàng vọng cổ 2025 để giành vé đi tiếp vào vòng trong. Nghệ sĩ Kim Tử Long là giám khảo khách mời trong đêm thi này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152400+07:00",
+      "fetched": "2025-09-15T08:17:54.152513+07:00"
+    },
+    {
+      "id": "7e8ed708f7606dc7e486736a13b60765",
+      "title": "Hamas đình chỉ đàm phán trao đổi tù nhân - con tin với Israel",
+      "link": "https://tuoitre.vn/hamas-dinh-chi-dam-phan-trao-doi-tu-nhan-con-tin-voi-israel-20250915063630365.htm",
+      "summary": "Ngày 14-9, Hamas xác nhận họ đã đình chỉ tiến trình đàm phán trao đổi tù nhân và con tin với Israel, sau khi Israel không kích nhằm vào phái đoàn đàm phán của Hamas tại thủ đô Doha của Qatar tuần trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152268+07:00",
+      "fetched": "2025-09-15T08:17:54.152388+07:00"
+    },
+    {
+      "id": "d853f7a9cb7fc2f856db8ce1011bd6bd",
+      "title": "Cổ động viên đòi HLV Amorim từ chức sau trận thua tan nát của Man United",
+      "link": "https://tuoitre.vn/co-dong-vien-doi-hlv-amorim-tu-chuc-sau-tran-thua-tan-nat-cua-man-united-20250915064158421.htm",
+      "summary": "Để thua Man City một cách bạc nhược nhưng HLV Ruben Amorim của Man United vẫn kiên định với bản thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152143+07:00",
+      "fetched": "2025-09-15T08:17:54.152256+07:00"
+    },
+    {
+      "id": "6214290a79c021bf0aceaed8678833b4",
+      "title": "Thống đốc Mỹ: 'Mạng xã hội là căn bệnh ung thư'",
+      "link": "https://tuoitre.vn/thong-doc-my-mang-xa-hoi-la-can-benh-ung-thu-20250915071042632.htm",
+      "summary": "Thống đốc bang Utah, ông Spencer Cox, không phải là lãnh đạo chính trị duy nhất chỉ trích mạng xã hội sau cái chết của nhà hoạt động Mỹ Charlie Kirk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.152015+07:00",
+      "fetched": "2025-09-15T08:17:54.152131+07:00"
+    },
+    {
+      "id": "879a278d00788731db703c8e174fe5c5",
+      "title": "Làm giám đốc Công ty TNHH nhưng không hưởng lương, có phải đóng bảo hiểm xã hội không?",
+      "link": "https://tuoitre.vn/lam-giam-doc-cong-ty-tnhh-nhung-khong-huong-luong-co-phai-dong-bao-hiem-xa-hoi-khong-20250906165713699.htm",
+      "summary": "Người nhà của tôi là nữ, 59 tuổi, là giám đốc công ty TNHH, không hưởng lương công ty, không có lương hưu. Vậy có phải đóng bảo hiểm xã hội bắt buộc không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151863+07:00",
+      "fetched": "2025-09-15T08:17:54.152002+07:00"
+    },
+    {
+      "id": "be16577bf34c0b6c88c69cf8c930cff0",
+      "title": "MONO, Kiều Minh Tuấn nhận Hoa điểm 10, Binz gặn nạn trong Chiến sĩ quả cảm",
+      "link": "https://tuoitre.vn/mono-kieu-minh-tuan-nhan-hoa-diem-10-binz-gan-nan-trong-chien-si-qua-cam-20250915065847245.htm",
+      "summary": "Hoa điểm 10, phần thưởng cho chiến sĩ nhập vai thể hiện xuất sắc nhất trong bài huấn luyện của Chiến sĩ quả cảm được trao tặng cho MONO và Kiều Minh Tuấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151735+07:00",
+      "fetched": "2025-09-15T08:17:54.151851+07:00"
+    },
+    {
+      "id": "c8d1c35b4b1cd381bac3fa0af465af41",
+      "title": "Dân Nga được miễn visa khi đến Trung Quốc từ ngày 15-9",
+      "link": "https://tuoitre.vn/dan-nga-duoc-mien-visa-khi-den-trung-quoc-tu-ngay-15-9-20250915072923696.htm",
+      "summary": "Bắt đầu từ hôm nay (15-9), công dân Nga sở hữu hộ chiếu phổ thông có thể nhập cảnh Trung Quốc mà không cần xin visa (thị thực) và có thể lưu trú tối đa 30 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151607+07:00",
+      "fetched": "2025-09-15T08:17:54.151724+07:00"
+    },
+    {
+      "id": "2bb119c0db7bc3c9fec491309cd5e049",
+      "title": "Đưa người đánh cụ ông ở phường Sài Gòn về trụ sở công an làm việc",
+      "link": "https://tuoitre.vn/dua-nguoi-danh-cu-ong-o-phuong-sai-gon-ve-tru-so-cong-an-lam-viec-20250915072537515.htm",
+      "summary": "Ngày 15-9, các lực lượng cơ quan chức năng đã đưa người đàn ông đánh tới tấp cụ ông ngay giữa ngã tư về trụ sở công an làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151475+07:00",
+      "fetched": "2025-09-15T08:17:54.151595+07:00"
+    },
+    {
+      "id": "fa36b9e2a33d297e5f1feb79fc4f9dff",
+      "title": "Top 8 Vietnam's Next Top Model chụp hình trên cột mai hoa thung cao, Ái Băng xin rút",
+      "link": "https://tuoitre.vn/top-8-vietnam-s-next-top-model-chup-hinh-tren-cot-mai-hoa-thung-cao-ai-bang-xin-rut-20250915064758768.htm",
+      "summary": "Người mẫu Ái Băng xin rút khỏi chương trình Vietnam’s Next Top Model 2025 khiến nhiều người bất ngờ và tiếc nuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151333+07:00",
+      "fetched": "2025-09-15T08:17:54.151462+07:00"
+    },
+    {
+      "id": "57a8e8ff9a2b5340851fbc2aa02688dd",
+      "title": "Nhà di động đủ nhẹ để xe điện kéo mà ít ảnh hưởng phạm vi, nhiều tiện nghi",
+      "link": "https://tuoitre.vn/nha-di-dong-du-nhe-de-xe-dien-keo-ma-it-anh-huong-pham-vi-nhieu-tien-nghi-20250914215221836.htm",
+      "summary": "Karoo - 'nhà di động của tương lai' đến từ Phần Lan - đã bước ra khỏi bản vẽ. Nhỏ gọn, đa năng, tiết kiệm năng lượng và đầy công nghệ, Karoo hứa hẹn mở ra trải nghiệm du lịch hoàn toàn mới cho những ai yêu thích tự do dịch chuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T08:17:54.151091+07:00",
+      "fetched": "2025-09-15T08:17:54.151317+07:00"
+    },
     {
       "id": "6a39091b599c6ceb9c1246592d0d2738",
       "title": "Video tiền vệ Việt kiều Nguyễn Vadim 'dọn cỗ' thuận lợi nhưng đồng đội lại bỏ lỡ khó tin",
@@ -201,6 +351,406 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T01:19:38.750020+07:00",
       "fetched": "2025-09-15T01:19:38.750266+07:00"
+    },
+    {
+      "id": "fa5b0a78acd99f9de8efa3e28e3cf31c",
+      "title": "Dự báo thời tiết 15.9: Mưa lớn gia tăng, 5 tỉnh nguy cơ lũ quét",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-159-mua-lon-gia-tang-5-tinh-nguy-co-lu-quet-185250915075923729.htm",
+      "summary": "Dự báo thời tiết hôm nay 15.9, mưa lớn tiếp tục gia tăng ở nhiều khu vực trên toàn quốc. Trong đó, 5 tỉnh phía bắc gồm: Lai Châu, Sơn La, Điện Biên, Lào Cai và Tuyên Quang có nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:07:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939163+07:00"
+    },
+    {
+      "id": "77188c1a87f3d3d3fe8e3d0dafec22e9",
+      "title": "Top 20 Hoa hậu Hoà bình Việt Nam 2025 diễn bikini nóng bỏng",
+      "link": "https://thanhnien.vn/top-20-hoa-hau-hoa-binh-viet-nam-2025-dien-bikini-nong-bong-185250914221855524.htm",
+      "summary": "Tại đêm chung kết Hoa hậu Hòa bình Việt Nam 2025, các cô gái trong top 20 đã có màn trình diễn áo tắm tự tin và nóng bỏng thu hút ánh nhìn của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:05:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939335+07:00"
+    },
+    {
+      "id": "7af4534d7d9b119fdb34b0ec0f32e289",
+      "title": "Đề xuất 1 đầu số quốc gia tiếp nhận tình huống khẩn cấp",
+      "link": "https://thanhnien.vn/de-xuat-1-dau-so-quoc-gia-tiep-nhan-tinh-huong-khan-cap-185250914210845781.htm",
+      "summary": "Bộ Y tế và Bộ Công an đã thống nhất đề xuất xây dựng Tổng đài quốc gia cấp cứu ngoại viện tích hợp các đầu số điện thoại khẩn cấp (113, 114, 115), với 1 đầu số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:02:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939495+07:00"
+    },
+    {
+      "id": "49ca74e4b43d00b054e240c3a1311322",
+      "title": "Trường ĐH Sư phạm Kỹ thuật - ĐH Đà Nẵng: 5 chương trình đạt chuẩn chất lượng",
+      "link": "https://thanhnien.vn/truong-dh-su-pham-ky-thuat-dh-da-nang-5-chuong-trinh-dat-chuan-chat-luong-185250915080558891.htm",
+      "summary": "Trường đại học (ĐH) ĐH Sư phạm Kỹ thuật - ĐH Đà Nẵng vừa tổ chức lễ công bố quyết định và trao giấy chứng nhận đạt tiêu chuẩn chất lượng cho 5 chương trình đào tạo (CTĐT).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939648+07:00"
+    },
+    {
+      "id": "5f7f8294f473283cfa18760f1a1ef0f1",
+      "title": "Masterise Homes - Tiên phong mang không gian sống hàng hiệu đến gần người Việt",
+      "link": "https://thanhnien.vn/masterise-homes-tien-phong-mang-khong-gian-song-hang-hieu-den-gan-nguoi-viet-185250914200009521.htm",
+      "summary": "Trong bối cảnh tầng lớp thượng lưu toàn cầu và Việt Nam không ngừng gia tăng, nhu cầu tận hưởng một chuẩn sống xứng tầm vị thế ngày càng trở nên rõ rệt. Thế nhưng, các không gian sống đáp ứng trọn vẹn khát khao ấy đến nay vẫn chủ yếu tập trung phục vụ nhóm giàu và siêu giàu, trong khi tầng lớp trung...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939801+07:00"
+    },
+    {
+      "id": "5513dc499bf597bbf0438b73fc571705",
+      "title": "Chuyện về gia đình ‘tướng Thanh - tướng Vịnh’",
+      "link": "https://thanhnien.vn/chuyen-ve-gia-dinh-tuong-thanh-tuong-vinh-185250914181209839.htm",
+      "summary": "Omega+ và NXB Quân Đội Nhân Dân vừa cho ra mắt bộ sách quý về gia đình \"tướng Thanh - tướng Vịnh\", gồm 4 cuốn: Những câu chuyện về Đại tướng Nguyễn Chí Thanh, Hành trình vì hòa bình, Những cánh thư ra Bắc vào Nam, Nguyễn Chí Thanh - những góc nhìn từ hậu thế (ảnh), phản ánh nhiều câu chuyện xúc động...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.939977+07:00"
+    },
+    {
+      "id": "74d8e4d30b80ca93dac955fd45431eb6",
+      "title": "Giữ sức bền, chạm vàng thật cùng LIPOVITAN",
+      "link": "https://thanhnien.vn/giu-suc-ben-cham-vang-that-cung-lipovitan-185250914151624971.htm",
+      "summary": "Trong cuộc sống, sức bền chính là ‘chìa khóa vàng’ giúp chúng ta vững vàng trước thử thách. Nước tăng lực LIPOVITAN giúp tiếp năng lượng để duy trì sức bền cho cả ngày dài, mang đến cơ hội chạm tới giá trị thật với giải thưởng nhẫn vàng từ chương trình khuyến mại ‘Bật Nắp Trúng Vàng’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940132+07:00"
+    },
+    {
+      "id": "bc3f8e6c103c5feaacedbbb91b370852",
+      "title": "Động thái sẵn sàng đón nguồn vốn ngoại của Phát Đạt",
+      "link": "https://thanhnien.vn/dong-thai-san-sang-don-nguon-von-ngoai-cua-phat-dat-18525091410015628.htm",
+      "summary": "Giới tài chính - đầu tư tuần qua dành nhiều sự chú ý cho công bố thành lập một công ty con mới của Công ty Cổ phần Phát triển Bất động sản Phát Đạt (HOSE: PDR). Đây được dự đoán là cú hích quyết định cho cuộc hợp tác tài chính quy mô lớn với đối tác quốc tế như thông tin râm ran gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940281+07:00"
+    },
+    {
+      "id": "e9dd10d9b596ca9c0482d40ee119d18e",
+      "title": "Chân váy dáng dài, điểm chạm thanh lịch cho tủ đồ công sở",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-dang-dai-diem-cham-thanh-lich-cho-tu-do-cong-so-185250908145125454.htm",
+      "summary": "Nàng có thể bật 'công tắc thanh lịch' chỉ qua điểm chạm là các bản phối chân váy dáng dài. Tủ đồ công sở không còn đơn điệu khi được sắp xếp thay đổi luân phiên giữa các phom dáng chân váy từ cổ điển đến hiện đại, phá cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940432+07:00"
+    },
+    {
+      "id": "e3fac8159da7165a8b60bc6458236a7f",
+      "title": "Di sản RMIT: 25 năm kiến tạo thay đổi cho thế hệ trẻ Việt Nam",
+      "link": "https://thanhnien.vn/di-san-rmit-25-nam-kien-tao-thay-doi-cho-the-he-tre-viet-nam-185250828162751393.htm",
+      "summary": "Trải qua 25 năm phát triển, RMIT Việt Nam - một trong những đại học quốc tế đầu tiên tại Việt Nam - đã kiến tạo một di sản giáo dục hiện đại, mang đậm dấu ấn toàn cầu. Không chỉ giảng dạy kiến thức và kỹ năng thực tiễn, RMIT còn truyền cảm hứng sống, tư duy toàn cầu cho hàng chục thế hệ sinh viên Vi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:00:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940583+07:00"
+    },
+    {
+      "id": "d7f5ae624520854df83cabfdad464ccc",
+      "title": "Cách lựa chọn cáp USB-C tốt nhất",
+      "link": "https://thanhnien.vn/cach-lua-chon-cap-usb-c-tot-nhat-185250912094952088.htm",
+      "summary": "USB-C đang nhanh chóng trở thành chuẩn kết nối phổ biến cho nhiều thiết bị như PC, thiết bị ngoại vi, ổ lưu trữ di động và smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:56:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940742+07:00"
+    },
+    {
+      "id": "13df7d6e9af48e75a244da7f6a44d50e",
+      "title": "Đà Nẵng tạo 'cú hích' chính sách, đưa kinh tế tư nhân bứt phá",
+      "link": "https://thanhnien.vn/da-nang-tao-cu-hich-chinh-sach-dua-kinh-te-tu-nhan-but-pha-185250915075520028.htm",
+      "summary": "Cùng với việc thực hiện hiệu quả các cơ chế, chính sách đặc thù, TP.Đà Nẵng đang tháo gỡ hàng loạt nút thắt, tạo đà cho kinh tế tư nhân phát triển mạnh mẽ, trở thành động lực tăng trưởng chủ chốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:50:00+07:00",
+      "fetched": "2025-09-15T08:17:52.940915+07:00"
+    },
+    {
+      "id": "91dcb94fa03f6ce0b8bd20ca3654bffc",
+      "title": "Laptop AI có thể dùng như máy tính bảng, giá 40 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-co-the-dung-nhu-may-tinh-bang-gia-40-trieu-dong-4934766.html",
+      "summary": "Lenovo Yoga 7i 2-in-1 có thể lật màn hình 360 độ để dùng như máy tính bảng, tích hợp tính năng AI và kèm bút cảm ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:44:41+07:00",
+      "fetched": "2025-09-15T08:17:49.832308+07:00"
+    },
+    {
+      "id": "91dcb94fa03f6ce0b8bd20ca3654bffc",
+      "title": "Laptop AI có thể dùng như máy tính bảng, giá 40 triệu đồng",
+      "link": "https://vnexpress.net/laptop-ai-co-the-dung-nhu-may-tinh-bang-gia-40-trieu-dong-4934766.html",
+      "summary": "Lenovo Yoga 7i 2-in-1 có thể lật màn hình 360 độ để dùng như máy tính bảng, tích hợp tính năng AI và kèm bút cảm ứng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T00:44:41+07:00",
+      "fetched": "2025-09-15T08:17:59.674346+07:00"
+    },
+    {
+      "id": "ee170dd332af0add3fdddd0e3db98ff9",
+      "title": "Triều Tiên khẳng định quan trọng về vị thế hạt nhân quốc gia",
+      "link": "https://thanhnien.vn/trieu-tien-khang-dinh-quan-trong-ve-vi-the-hat-nhan-quoc-gia-185250915071158303.htm",
+      "summary": "CHDCND Triều Tiên cho biết vị thế quốc gia sở hữu vũ khí hạt nhân của nước này đã được quy định 'vĩnh viễn' trong luật pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:40:00+07:00",
+      "fetched": "2025-09-15T08:17:52.941065+07:00"
+    },
+    {
+      "id": "e569ed99fc2c80621d39f96a1a153bf2",
+      "title": "Tổng thống Trump lo ngại sau vụ bắt các công nhân Hàn Quốc",
+      "link": "https://thanhnien.vn/tong-thong-trump-lo-ngai-sau-vu-bat-cac-cong-nhan-han-quoc-185250915064507029.htm",
+      "summary": "Tổng thống Mỹ Donald Trump lo vụ bắt giữ các công nhân Hàn Quốc sẽ ảnh hưởng đầu tư nước ngoài, đồng thời cho biết còn nhiều sản phẩm Mỹ phải học cách chế tạo từ người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:37:00+07:00",
+      "fetched": "2025-09-15T08:17:52.941217+07:00"
+    },
+    {
+      "id": "95ba53e6b01c9b4d63dca7ff68d3f151",
+      "title": "Nghi phạm ám sát Charlie Kirk không hợp tác với nhà điều tra",
+      "link": "https://vnexpress.net/nghi-pham-am-sat-charlie-kirk-khong-hop-tac-voi-nha-dieu-tra-4939005.html",
+      "summary": "Nghi phạm Tyler Robinson không hợp tác với nhà điều tra, buộc giới chức xác định động cơ vụ ám sát thông qua gia đình, bạn bè của anh ta.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:35:06+07:00",
+      "fetched": "2025-09-15T08:17:49.832486+07:00"
+    },
+    {
+      "id": "95ba53e6b01c9b4d63dca7ff68d3f151",
+      "title": "Nghi phạm ám sát Charlie Kirk không hợp tác với nhà điều tra",
+      "link": "https://vnexpress.net/nghi-pham-am-sat-charlie-kirk-khong-hop-tac-voi-nha-dieu-tra-4939005.html",
+      "summary": "Nghi phạm Tyler Robinson không hợp tác với nhà điều tra, buộc giới chức xác định động cơ vụ ám sát thông qua gia đình, bạn bè của anh ta.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T00:35:06+07:00",
+      "fetched": "2025-09-15T08:17:55.887210+07:00"
+    },
+    {
+      "id": "bc0e4850703312db358b190ed8a7a3a0",
+      "title": "Galaxy S26 Ultra sẽ trang bị công nghệ đột phá so với iPhone 17 Pro",
+      "link": "https://thanhnien.vn/galaxy-s26-ultra-se-trang-bi-cong-nghe-dot-pha-so-voi-iphone-17-pro-18525091506380184.htm",
+      "summary": "Samsung sẵn sàng mang đến cho chiếc Galaxy S26 Ultra mà công ty ra mắt năm sau công nghệ màn hình tốt nhất cho đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:33:00+07:00",
+      "fetched": "2025-09-15T08:17:52.941372+07:00"
+    },
+    {
+      "id": "30e30dc355aa925e827ecf72026e32ad",
+      "title": "Mua linh kiện lắp ráp hàng nghìn súng quân dụng",
+      "link": "https://vnexpress.net/mua-linh-kien-lap-rap-hang-nghin-sung-quan-dung-4939009.html",
+      "summary": "Ngô Quang Vỹ đặt mua các loại súng hơi, đạn chì, linh kiện về sau đó chế tạo, lắp ráp thành hàng nghìn súng quân dụng để rao bán trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:31:41+07:00",
+      "fetched": "2025-09-15T08:17:49.832651+07:00"
+    },
+    {
+      "id": "842da8f24b57d25ad35c5fa6debfcfa0",
+      "title": "Xe báo áp suất lốp có được dừng ở làn khẩn cấp?",
+      "link": "https://vnexpress.net/xe-bao-ap-suat-lop-co-duoc-dung-o-lan-khan-cap-4939014.html",
+      "summary": "Xin hỏi tình huống xe tôi cảnh báo áp suất lốp khi đang chạy trên cao tốc có được phép dừng vào làn khẩn cấp để kiểm tra. (Phan Sơn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:25:09+07:00",
+      "fetched": "2025-09-15T08:17:49.832811+07:00"
+    },
+    {
+      "id": "a1074f12354c02f50f35a404db1770e4",
+      "title": "Loạt tiêm kích F-35 Mỹ đáp xuống căn cứ gần Venezuela",
+      "link": "https://vnexpress.net/loat-tiem-kich-f-35-my-dap-xuong-can-cu-gan-venezuela-4939007.html",
+      "summary": "Biên đội tiêm kích tàng hình F-35B hạ cánh xuống căn cứ ở Puerto Rico, song chưa rõ sẽ thực hiện nhiệm vụ gì ở khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:13:58+07:00",
+      "fetched": "2025-09-15T08:17:49.832988+07:00"
+    },
+    {
+      "id": "a1074f12354c02f50f35a404db1770e4",
+      "title": "Loạt tiêm kích F-35 Mỹ đáp xuống căn cứ gần Venezuela",
+      "link": "https://vnexpress.net/loat-tiem-kich-f-35-my-dap-xuong-can-cu-gan-venezuela-4939007.html",
+      "summary": "Biên đội tiêm kích tàng hình F-35B hạ cánh xuống căn cứ ở Puerto Rico, song chưa rõ sẽ thực hiện nhiệm vụ gì ở khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T00:13:58+07:00",
+      "fetched": "2025-09-15T08:17:55.887400+07:00"
+    },
+    {
+      "id": "f9df67099ecb2708f1cc164605d4d48f",
+      "title": "iPhone Air thúc đẩy xu hướng eSim toàn cầu",
+      "link": "https://vnexpress.net/iphone-air-thuc-day-xu-huong-esim-toan-cau-4938243.html",
+      "summary": "iPhone Air siêu mỏng loại bỏ sim vật lý, được đánh giá mở ra chương mới cho eSim và cách người dùng kết nối thiết bị di dộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:00:00+07:00",
+      "fetched": "2025-09-15T08:17:49.833148+07:00"
+    },
+    {
+      "id": "20850a325b8a47b761e17bcb802b395d",
+      "title": "10 tính năng đặc biệt trên xe điện",
+      "link": "https://vnexpress.net/10-tinh-nang-dac-biet-tren-xe-dien-4938505.html",
+      "summary": "Giả tiếng động cơ, phanh tái sinh, hay quay 360 độ tại chỗ là những tính năng mà xe sử dụng nhiên liệu hóa thạch không thể có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T00:00:00+07:00",
+      "fetched": "2025-09-15T08:17:49.833307+07:00"
+    },
+    {
+      "id": "f9df67099ecb2708f1cc164605d4d48f",
+      "title": "iPhone Air thúc đẩy xu hướng eSim toàn cầu",
+      "link": "https://vnexpress.net/iphone-air-thuc-day-xu-huong-esim-toan-cau-4938243.html",
+      "summary": "iPhone Air siêu mỏng loại bỏ sim vật lý, được đánh giá mở ra chương mới cho eSim và cách người dùng kết nối thiết bị di dộng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T00:00:00+07:00",
+      "fetched": "2025-09-15T08:17:59.673999+07:00"
+    },
+    {
+      "id": "c0ac6635397c4d181f8175f8c7556c3a",
+      "title": "Ông Trump lo nhà đầu tư 'hoảng sợ' vì vụ bắt công nhân Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-lo-nha-dau-tu-hoang-so-vi-vu-bat-cong-nhan-han-quoc-4938999.html",
+      "summary": "Tổng thống Trump nói \"không muốn khiến nhà đầu tư hoảng sợ\" và hoan nghênh lao động nước ngoài, sau vụ hơn 300 công nhân Hàn Quốc bị bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:36:17+07:00",
+      "fetched": "2025-09-15T08:17:49.833464+07:00"
+    },
+    {
+      "id": "c0ac6635397c4d181f8175f8c7556c3a",
+      "title": "Ông Trump lo nhà đầu tư 'hoảng sợ' vì vụ bắt công nhân Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-lo-nha-dau-tu-hoang-so-vi-vu-bat-cong-nhan-han-quoc-4938999.html",
+      "summary": "Tổng thống Trump nói \"không muốn khiến nhà đầu tư hoảng sợ\" và hoan nghênh lao động nước ngoài, sau vụ hơn 300 công nhân Hàn Quốc bị bắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T23:36:17+07:00",
+      "fetched": "2025-09-15T08:17:55.887567+07:00"
+    },
+    {
+      "id": "4aba6ebc25f95cbc46fc841d985ce9eb",
+      "title": "Người nước ngoài ngạc nhiên với 'lối sống cú đêm' ở Việt Nam",
+      "link": "https://vnexpress.net/nguoi-nuoc-ngoai-ngac-nhien-voi-loi-song-cu-dem-o-viet-nam-4938458.html",
+      "summary": "Marek giật mình, tưởng có chuyện gì nghiêm trọng khi nhận cuộc gọi của một đồng nghiệp người Việt rủ đi cà phê lúc 23h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:21:00+07:00",
+      "fetched": "2025-09-15T08:17:49.833634+07:00"
+    },
+    {
+      "id": "0e04f31d98d7c46fc6d982b6067cb750",
+      "title": "Hành trình truy lùng nghi phạm ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/hanh-trinh-truy-lung-nghi-pham-am-sat-charlie-kirk-4938971.html",
+      "summary": "Dù nhận hơn 7.000 tin báo và gần 200 cuộc thẩm vấn vẫn chưa tìm ra kẻ ám sát Charlie Kirk, bước ngoặt đến khi một người dân trình báo nghi phạm, FBI bắt được Tyler Robinson sau 33 giờ truy lùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:15:34+07:00",
+      "fetched": "2025-09-15T08:17:49.833791+07:00"
+    },
+    {
+      "id": "07354e8ec7d58d678daea3ee286638f5",
+      "title": "Barca thắng như 'set trắng tennis' trước Valencia",
+      "link": "https://vnexpress.net/barca-thang-nhu-set-trang-tennis-truoc-valencia-4939000.html",
+      "summary": "Trước Valencia chỉ còn là một đội bóng tầm trung, Barca thắng 6-0 với ba cầu thủ cùng lập cú đúp, qua đó vươn lên nhì bảng La Liga và xếp ngay sau Real Madrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:04:52+07:00",
+      "fetched": "2025-09-15T08:17:49.833996+07:00"
+    },
+    {
+      "id": "07354e8ec7d58d678daea3ee286638f5",
+      "title": "Barca thắng như 'set trắng tennis' trước Valencia",
+      "link": "https://vnexpress.net/barca-thang-nhu-set-trang-tennis-truoc-valencia-4939000.html",
+      "summary": "Trước Valencia chỉ còn là một đội bóng tầm trung, Barca thắng 6-0 với ba cầu thủ cùng lập cú đúp, qua đó vươn lên nhì bảng La Liga và xếp ngay sau Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T23:04:52+07:00",
+      "fetched": "2025-09-15T08:18:01.442913+07:00"
+    },
+    {
+      "id": "9f88be616db0fbfa7a19fc033ebf2665",
+      "title": "Điểm tin 6h: Đề xuất dạy tiếng Campuchia, Thái Lan, Indonesia ở phổ thông | Đà Nẵng dự kiến tăng giá thuê nhà ở xã hội đến năm 2030",
+      "link": "https://vnexpress.net/diem-tin-6h-de-xuat-day-tieng-campuchia-thai-lan-indonesia-o-pho-thong-da-nang-du-kien-tang-gia-thue-nha-o-xa-hoi-den-nam-2030-4939003.html",
+      "summary": "Giá vàng nhẫn, vàng miếng ổn định quanh 128 – 131 triệu đồng/lượng sau một tuần lao dốc; Thủ tướng Qatar kêu gọi trừng phạt Israel...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:02:05+07:00",
+      "fetched": "2025-09-15T08:17:49.834158+07:00"
+    },
+    {
+      "id": "a6b42bf45fee0d33e45e4b496c19cf20",
+      "title": "Các nước đang tính thuế thu nhập cá nhân thế nào?",
+      "link": "https://vnexpress.net/cac-nuoc-dang-tinh-thue-thu-nhap-ca-nhan-the-nao-4938974.html",
+      "summary": "Thái Lan, với quy mô kinh tế tương đương Việt Nam, tính thuế thu nhập cá nhân lũy tiến 7 bậc, còn Singapore áp dụng 12 bậc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:00:00+07:00",
+      "fetched": "2025-09-15T08:17:49.834317+07:00"
+    },
+    {
+      "id": "b25e398a8b7a9070f98e654a7e1c52ae",
+      "title": "Nhận biết loại muỗi gây sốt xuất huyết",
+      "link": "https://vnexpress.net/nhan-biet-loai-muoi-gay-sot-xuat-huyet-4938571.html",
+      "summary": "Muỗi gây bệnh sốt xuất huyết có hai loài là Aedes aegypti và Aedes albopictus, thường cư trú ở vùng nước sạch, gần con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:00:00+07:00",
+      "fetched": "2025-09-15T08:17:49.834478+07:00"
+    },
+    {
+      "id": "cd6963c58b0883b435000c22c6b52643",
+      "title": "Cô gái tí hon Quảng Ngãi xây nhà 1,5 tỷ tặng bố mẹ",
+      "link": "https://vnexpress.net/co-gai-ti-hon-quang-ngai-xay-nha-1-5-ty-tang-bo-me-4938069.html",
+      "summary": "Ở tuổi 28, cô gái cao 95 cm, nặng 16 kg Đinh Thị Huyền đã làm được điều mà nhiều người không dám mơ: xây tặng bố mẹ ngôi nhà 1,5 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:00:00+07:00",
+      "fetched": "2025-09-15T08:17:49.834639+07:00"
+    },
+    {
+      "id": "a4dfc98a3a8b1c25a3a507dff8300dec",
+      "title": "Murray muốn huấn luyện Raducanu",
+      "link": "https://vnexpress.net/murray-muon-huan-luyen-raducanu-4938997.html",
+      "summary": "Cựu tay vợt số một thế giới Andy Murray sẵn sàng dẫn dắt đàn em đồng hương Emma Raducanu, vài tháng sau khi dừng hợp tác với Novak Djokovic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T22:58:53+07:00",
+      "fetched": "2025-09-15T08:18:01.443573+07:00"
+    },
+    {
+      "id": "eb6e9ebd90152f2fa41d4186ee2b7427",
+      "title": "HLV Mouratoglou: 'Alcaraz hay nhất lịch sử'",
+      "link": "https://vnexpress.net/hlv-mouratoglou-alcaraz-hay-nhat-lich-su-4938994.html",
+      "summary": "Cựu HLV của Serena Williams, Patrick Mouratoglou cho rằng Carlos Alcaraz có thể trở thành GOAT của làng banh nỉ trong 10 năm tới, sau cú bứt phá thần tốc đầu sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T22:51:17+07:00",
+      "fetched": "2025-09-15T08:18:01.443410+07:00"
+    },
+    {
+      "id": "37135d2510fe81fdbac61d89ce5056f9",
+      "title": "Amorim: 'Nếu muốn thay đổi triết lý, hãy thay HLV'",
+      "link": "https://vnexpress.net/amorim-neu-muon-thay-doi-triet-ly-hay-thay-hlv-4938998.html",
+      "summary": "HLV Ruben Amorim khẳng định không từ bỏ triết lý hay sơ đồ 3-4-3, sau khi Man Utd thua Man City 0-3 ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T22:48:06+07:00",
+      "fetched": "2025-09-15T08:18:01.443089+07:00"
+    },
+    {
+      "id": "4c29114a2f705f15fa86fa62c0a59aa0",
+      "title": "Jamaica có nhà vô địch 100m mới thời hậu Usain Bolt",
+      "link": "https://vnexpress.net/jamaica-co-nha-vo-dich-100m-moi-thoi-hau-usain-bolt-4938996.html",
+      "summary": "Oblique Seville giành HC vàng 100m nam giải điền kinh VĐTG 2025 tại Tokyo, qua đó trở thành VĐV Jamaica đầu tiên sau huyền thoại Usain Bolt đăng quang nội dung này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T22:44:27+07:00",
+      "fetched": "2025-09-15T08:18:01.443731+07:00"
     },
     {
       "id": "2ca490d9fcbd03a047a9b61bccc7b0f9",
