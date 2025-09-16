@@ -1,7 +1,157 @@
 window.newsData_2025_09_16 = {
   "date": "2025-09-16",
-  "lastUpdated": "2025-09-16T05:14:18.420354+07:00",
+  "lastUpdated": "2025-09-16T08:12:06.702844+07:00",
   "articles": [
+    {
+      "id": "62619bacf44b83f8a83a74056a6cce96",
+      "title": "Tin tức thế giới 16-9: Khối Ả Rập, Hồi giáo đồng tình chống Israel; Mỹ bắn cháy tàu ma túy Venezuela",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-16-9-khoi-a-rap-hoi-giao-dong-tinh-chong-israel-my-ban-chay-tau-ma-tuy-venezuela-20250916055641166.htm",
+      "summary": "Ông Trump công bố video quân đội Mỹ bắn cháy tàu nghi chở ma túy từ Venezuela; Trung Quốc kêu gọi Mỹ dỡ bỏ các hạn chế thương mại...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746674+07:00",
+      "fetched": "2025-09-16T08:11:59.746804+07:00"
+    },
+    {
+      "id": "3907209d0ebf35adcded53f8f2bf796a",
+      "title": "Chính phủ: Cung cấp bộ sách giáo khoa thống nhất toàn quốc từ năm học 2026-2027, miễn phí từ 2030",
+      "link": "https://tuoitre.vn/chinh-phu-cung-cap-bo-sach-giao-khoa-thong-nhat-toan-quoc-tu-nam-hoc-2026-2027-mien-phi-tu-2030-20250915230612631.htm",
+      "summary": "Chính phủ vừa ban hành nghị quyết chương trình hành động thực hiện Nghị quyết 71 của Bộ Chính trị về đột phá phát triển giáo dục và đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746550+07:00",
+      "fetched": "2025-09-16T08:11:59.746663+07:00"
+    },
+    {
+      "id": "840785a8642c2428655be315c8ff86c7",
+      "title": "Lịch trực tiếp Champions League: Arsenal, Tottenham, Real Madrid 'mở hàng'",
+      "link": "https://tuoitre.vn/lich-truc-tiep-champions-league-arsenal-tottenham-real-madrid-mo-hang-20250916061956782.htm",
+      "summary": "Các trận đấu có sự hiện diện của Arsenal, Tottenham, Real Madrid, Juventus sẽ là tâm điểm loạt trận vòng bảng Champions League đêm 16-9 rạng sáng 17-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746421+07:00",
+      "fetched": "2025-09-16T08:11:59.746538+07:00"
+    },
+    {
+      "id": "189cbb5f845c59b7d2a9711691ca17fd",
+      "title": "Chính phủ xây đề án từng bước miễn viện phí, một số trường hợp đầu tiên được áp dụng",
+      "link": "https://tuoitre.vn/chinh-phu-xay-de-an-tung-buoc-mien-vien-phi-mot-so-truong-hop-dau-tien-duoc-ap-dung-20250915222721451.htm",
+      "summary": "Chính phủ vừa ban hành nghị quyết chương trình hành động thực hiện Nghị quyết 72 của Bộ Chính trị về một số giải pháp đột phá, tăng cường bảo vệ, chăm sóc và nâng cao sức khỏe của nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746299+07:00",
+      "fetched": "2025-09-16T08:11:59.746410+07:00"
+    },
+    {
+      "id": "40594f3409fc2f0698ea73fda8f4626e",
+      "title": "Ông Bessent: Chiến sự Nga - Ukraine sẽ kết thúc trong 60 ngày nếu châu Âu áp thuế bên mua dầu Nga",
+      "link": "https://tuoitre.vn/ong-bessent-chien-su-nga-ukraine-se-ket-thuc-trong-60-ngay-neu-chau-au-ap-thue-ben-mua-dau-nga-20250916064106924.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent thúc giục châu Âu áp thuế lên Trung Quốc và Ấn Độ vì mua dầu Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746175+07:00",
+      "fetched": "2025-09-16T08:11:59.746288+07:00"
+    },
+    {
+      "id": "70fde7dbc2ccadfc78c52f9a888e0cdc",
+      "title": "Phường Chợ Lớn: Hàng rong bủa vây các bệnh viện, vỉa hè ‘nghẹt thở’ từng mét vuông",
+      "link": "https://tuoitre.vn/hang-rong-bua-vay-cac-benh-vien-o-tp-hcm-via-he-nghet-tho-tung-met-vuong-20250915155941213.htm",
+      "summary": "Thời gian qua, tình trạng buôn bán hàng rong lấn chiếm vỉa hè, lòng đường quanh các bệnh viện lớn ở TP.HCM vẫn liên tục tái diễn, gây mất mỹ quan đô thị, tiềm ẩn nguy cơ mất an toàn giao thông và vệ sinh an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.746049+07:00",
+      "fetched": "2025-09-16T08:11:59.746164+07:00"
+    },
+    {
+      "id": "ff6a115741d80b79e05051a62cb93789",
+      "title": "Sĩ quan quân đội Mỹ bất ngờ đến xem tập trận Nga - Belarus",
+      "link": "https://tuoitre.vn/si-quan-quan-doi-my-bat-ngo-den-xem-tap-tran-nga-belarus-20250916070736951.htm",
+      "summary": "Các sĩ quan quân đội Mỹ đã quan sát tập trận chung Nga - Belarus, dấu hiệu cho thấy Mỹ đang tìm cách làm ấm lại quan hệ với Minsk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745923+07:00",
+      "fetched": "2025-09-16T08:11:59.746037+07:00"
+    },
+    {
+      "id": "d893afd25cf0d615ec554a139f8c3aa6",
+      "title": "Khách sạn ven biển Đà Nẵng ‘dính’ cả loạt vi phạm môi trường, phạt 264 triệu",
+      "link": "https://tuoitre.vn/khach-san-ven-bien-da-nang-dinh-ca-loat-vi-pham-moi-truong-phat-264-trieu-20250916064728064.htm",
+      "summary": "Thêm một khách sạn ở ven biển Đà Nẵng và một khách sạn ở trung tâm thành phố lộ cả loạt vi phạm về môi trường, an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745791+07:00",
+      "fetched": "2025-09-16T08:11:59.745912+07:00"
+    },
+    {
+      "id": "dda890a63cc26c0444446cc2cfb7a08e",
+      "title": "Công an xã Tân Nhựt bắt nhanh vụ cướp giật điện thoại sau 8 giờ gây án",
+      "link": "https://tuoitre.vn/cong-an-xa-tan-nhut-bat-nhanh-vu-cuop-giat-dien-thoai-sau-8-gio-gay-an-20250916070418659.htm",
+      "summary": "Chỉ sau 8 giờ, các lực lượng Công an TP.HCM đã nhanh chóng khám phá vụ cướp giật điện thoại, bắt kẻ gây án, trả lại tài sản cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745639+07:00",
+      "fetched": "2025-09-16T08:11:59.745778+07:00"
+    },
+    {
+      "id": "d1ba416e49d9e4a5c72ea57d73294ec5",
+      "title": "Mặt đường Nguyễn Văn Linh bong tróc, xe dằn xóc, Ban Giao thông nói sửa trong tháng 9",
+      "link": "https://tuoitre.vn/mat-duong-nguyen-van-linh-lo-loet-xe-dan-xoc-ban-giao-thong-noi-sua-trong-thang-9-2025091513082275.htm",
+      "summary": "Nhiều ổ gà, mặt đường bong tróc, lún sâu khiến nhiều tài xế chật vật khi qua nút giao đường Nguyễn Văn Linh - Nguyễn Hữu Thọ (quận 7 cũ, TP.HCM). Chủ đầu tư nói đã yêu cầu nhà thầu khẩn trương sửa chữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745509+07:00",
+      "fetched": "2025-09-16T08:11:59.745627+07:00"
+    },
+    {
+      "id": "b552b3fcb23a9a01a859a8b6734f5c84",
+      "title": "Nhà 4 tầng cháy lớn, cứu được 1 phụ nữ và 2 trẻ nhỏ",
+      "link": "https://tuoitre.vn/nha-4-tang-chay-lon-cuu-duoc-1-phu-nu-va-2-tre-nho-20250916072539024.htm",
+      "summary": "Người phụ nữ và 2 trẻ nhỏ (sinh năm 2019 và 2022) mắc kẹt tại tầng 2 của ngôi nhà xảy ra hỏa hoạn, cháy lớn ở phường Hà Đông (Hà Nội). Họ sau đó được giải cứu ra ngoài, hiện sức khỏe ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745379+07:00",
+      "fetched": "2025-09-16T08:11:59.745497+07:00"
+    },
+    {
+      "id": "c402b660ff63b1371f9dab3c9d5798fc",
+      "title": "Nhà di động nhỏ hơn Honda Civic, chỉ nhấn nút là 'nở' gấp 3",
+      "link": "https://tuoitre.vn/nha-di-dong-nho-hon-honda-civic-chi-nhan-nut-la-no-gap-3-20250915231533639.htm",
+      "summary": "Ngày càng nhiều người từ bỏ những chiếc xe buýt khổng lồ và xe moóc du lịch đồ sộ để chuyển sang những lựa chọn nhỏ gọn và ấm cúng hơn. Nhưng có một mẫu nhà di động sở hữu cả hai ưu điểm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745248+07:00",
+      "fetched": "2025-09-16T08:11:59.745366+07:00"
+    },
+    {
+      "id": "dfa6bd2673dcda6c20963455070e5dec",
+      "title": "Những màn PK 'trả kèo' câu view TikTok ngày càng quái gở",
+      "link": "https://tuoitre.vn/nhung-man-pk-tra-keo-cau-view-tiktok-ngay-cang-quai-go-20250915193006635.htm",
+      "summary": "Úp bánh kem vào mặt người khác, đập cửa giữa đêm rồi mở nhạc đám ma... để kiếm view, câu like biến màn PK \"trả kèo\" trên TikTok ngày càng quái gở, ảnh hưởng nghiêm trọng đến người khác, thậm chí coi thường pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.745113+07:00",
+      "fetched": "2025-09-16T08:11:59.745236+07:00"
+    },
+    {
+      "id": "2bd466e1d58ca06f0adc5336928ff6e8",
+      "title": "Mãn nhãn với những lồng đèn trung thu xưa tại ngôi đình trăm tuổi ở TP.HCM",
+      "link": "https://tuoitre.vn/man-nhan-voi-nhung-long-den-trung-thu-xua-tai-ngoi-dinh-tram-tuoi-o-tp-hcm-20250915151733421.htm",
+      "summary": "Du khách như được chìm đắm trong thế giới của những chiếc lồng đèn trung thu xưa, mang đậm giá trị văn hoá truyền thống trong không gian cổ kính của đình Sơn Trà (phường Tân Định, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.744967+07:00",
+      "fetched": "2025-09-16T08:11:59.745100+07:00"
+    },
+    {
+      "id": "19fade84a8b24f36e81eff00dda39b11",
+      "title": "Du lịch Nepal bị ảnh hưởng nặng do biểu tình ngay mùa cao điểm, lượng khách giảm 30%",
+      "link": "https://tuoitre.vn/du-lich-nepal-bi-anh-huong-nang-do-bieu-tinh-ngay-mua-cao-diem-luong-khach-giam-30-20250916073637479.htm",
+      "summary": "Tháng 9 đến 12 được coi là mùa cao điểm du lịch ở Nepal, nhưng lượng du khách đã giảm đến 30% so với cùng kỳ năm ngoái vì ảnh hưởng bởi biểu tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T08:11:59.744715+07:00",
+      "fetched": "2025-09-16T08:11:59.744951+07:00"
+    },
     {
       "id": "831babfb1b8c8e25cb7acd72960556b1",
       "title": "Nhạc sĩ Dương Thụ nhắn nhủ đạo diễn: 'Âm nhạc của tôi để nghe chứ không lòe loẹt, xanh đỏ'",
@@ -153,6 +303,356 @@ window.newsData_2025_09_16 = {
       "fetched": "2025-09-16T01:23:25.374968+07:00"
     },
     {
+      "id": "7e1b2c57db6b0d2769a387e984d8b6b1",
+      "title": "Dàn thí sinh Hoa hậu Đại dương Việt Nam khoe dáng nóng bỏng",
+      "link": "https://thanhnien.vn/dan-thi-sinh-hoa-hau-dai-duong-viet-nam-khoe-dang-nong-bong-18525091522593442.htm",
+      "summary": "Dàn thí sinh Hoa hậu Đại dương Việt Nam 2025 khoe sắc trong bộ ảnh bikini và dạ hội tại vịnh Vĩnh Hy (Khánh Hòa), nơi sẽ diễn ra Fashion Show vào ngày 17.9 và chung kết 19.9, vừa tôn vinh nhan sắc vừa quảng bá du lịch và lan tỏa thông điệp bảo vệ đại dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:10:00+07:00",
+      "fetched": "2025-09-16T08:11:58.221877+07:00"
+    },
+    {
+      "id": "28bda18b8fbf895d089f2a9277924f24",
+      "title": "Jun Phạm sau cơn sốt 'Anh trai vượt ngàn chông gai'",
+      "link": "https://thanhnien.vn/jun-pham-sau-con-sot-anh-trai-vuot-ngan-chong-gai-185250916004213812.htm",
+      "summary": "Sau 'Anh trai vượt ngàn chông gai', Jun Phạm tiếp tục tạo dấu ấn với 'Gia đình haha', đồng thời ra mắt sản phẩm âm nhạc 'Nhẹ tựa khói sương'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:03:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222045+07:00"
+    },
+    {
+      "id": "3b111abc9267d57bf65b94628207f804",
+      "title": "Sĩ quan Mỹ bất ngờ xuất hiện tại tập trận chung Nga-Berlarus",
+      "link": "https://thanhnien.vn/si-quan-my-bat-ngo-xuat-hien-tai-tap-tran-chung-nga-berlarus-185250916073855065.htm",
+      "summary": "Ít nhất hai sĩ quan quân đội Mỹ đã quan sát cuộc tập trận chung giữa Nga và Belarus hôm 15.9, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:02:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222200+07:00"
+    },
+    {
+      "id": "5c728a0b0c9b757d95f7e5e7041b9266",
+      "title": "TP.HCM: Điều tra nghi án người chồng sát hại vợ rồi tự tử",
+      "link": "https://thanhnien.vn/tphcm-dieu-tra-nghi-an-nguoi-chong-sat-hai-vo-roi-tu-tu-185250916004619298.htm",
+      "summary": "Sau khi nghe tiếng kêu la thất thanh, người dân phường An Phú (TP.HCM) chạy lại thì phát hiện người đàn ông khoảng 61 tuổi đã tử vong, bên cạnh là người phụ nữ khoảng 40 tuổi với nhiều vết đâm trên thi thể, nghi bị sát hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:01:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222354+07:00"
+    },
+    {
+      "id": "533a1f924b170c36d7b18c3d316cd0c4",
+      "title": "Để phim truyền hình 'remake' hút khán giả",
+      "link": "https://thanhnien.vn/de-phim-truyen-hinh-remake-hut-khan-gia-185250915233033848.htm",
+      "summary": "Từ đầu năm 2025 đến nay, phim truyền hình \"remake\" (làm lại) gây chú ý trở lại. Nổi bật có Cha tôi, người ở lại (chuyển thể từ Lấy danh nghĩa người nhà của Trung Quốc) hay Gió ngang khoảng trời xanh đang phát sóng (từ phim 30 chưa phải là hết của Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222507+07:00"
+    },
+    {
+      "id": "253f52554a693028b0cb985900ff1bd0",
+      "title": "Solaria Rise - ‘chuẩn sống mới’ của Gen Z",
+      "link": "https://thanhnien.vn/solaria-rise-chuan-song-moi-cua-gen-z-185250915212225595.htm",
+      "summary": "Một 'chuẩn sống mới' đang hình thành cùng Gen Z: làm hết mình, chill đúng gu, sống xanh bền vững và luôn tự tin là chính mình. Tại Solaria Rise - khu căn hộ tọa lạc giữa đại đô thị Waterpoint, chất sống ấy được khởi nguồn đầy cảm hứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222656+07:00"
+    },
+    {
+      "id": "009178b1e33cdc7f0856beda7cd37689",
+      "title": "Thương hiệu Hòa Phát được định giá 744 triệu USD, giá trị tăng gấp 12,6 lần",
+      "link": "https://thanhnien.vn/thuong-hieu-hoa-phat-duoc-dinh-gia-744-trieu-usd-gia-tri-tang-gap-126-lan-185250915205528707.htm",
+      "summary": "Với giá trị thương hiệu 744 triệu USD, Tập đoàn Hòa Phát (HPG) xếp thứ 12 trong Top 100 thương hiệu giá trị nhất Việt Nam năm 2025 do Brand Finance công bố. Đây là lần thứ 11 liên tiếp Hòa Phát được vinh danh trong bảng xếp hạng. So với lần đầu xuất hiện trong bảng xếp hạng năm 2015, giá trị thương ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.222845+07:00"
+    },
+    {
+      "id": "ef93b8008a298122a3ca9a826f68c1a6",
+      "title": "Mùa khai trường thêm hứng khởi với trà mật ong BONCHA thanh mát",
+      "link": "https://thanhnien.vn/mua-khai-truong-them-hung-khoi-voi-tra-mat-ong-boncha-thanh-mat-185250915204211891.htm",
+      "summary": "Trong không khí nô nức mùa tựu trường, Trà mật ong BONCHA mang làn gió thanh mát, tiếp thêm năng lượng cho giới trẻ khởi đầu năm học đầy hứng khởi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223002+07:00"
+    },
+    {
+      "id": "b2231bc6c4d0e6ff394e9700167e2ca8",
+      "title": "Hội thảo công bố tuyển sinh và học bổng Trường đại học Fulbright Việt Nam niên khóa 2026-2030",
+      "link": "https://thanhnien.vn/hoi-thao-cong-bo-tuyen-sinh-va-hoc-bong-truong-dai-hoc-fulbright-viet-nam-nien-khoa-2026-2030-185250915200417034.htm",
+      "summary": "Trong một thế giới đầy biến động với AI, toàn cầu hóa và chuyển đổi số, câu hỏi lớn nhất của phụ huynh và học sinh dành cho những người làm giáo dục là: ‘Làm thế nào để các em thật sự sẵn sàng trước những thay đổi và cơ hội của tương lai?’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223151+07:00"
+    },
+    {
+      "id": "b8e3ea1f6e83c3ed6a942371d9f98eca",
+      "title": "Sống vững bền - đa thế hệ - gắn kết đa cảm xúc tại TT AVIO",
+      "link": "https://thanhnien.vn/song-vung-ben-da-the-he-gan-ket-da-cam-xuc-tai-tt-avio-185250915191551509.htm",
+      "summary": "Nuôi dưỡng tâm hồn, dung hòa sự khác biệt, cuộc sống đa thế hệ viên mãn ngay chính tại Orion - TT AVIO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223296+07:00"
+    },
+    {
+      "id": "7003689f53b0f1f8d88302fc1a442a7e",
+      "title": "Nước uống trực tiếp - thông điệp văn minh, hiện đại của TP.HCM",
+      "link": "https://thanhnien.vn/nuoc-uong-truc-tiep-thong-diep-van-minh-hien-dai-cua-tphcm-185250915173812723.htm",
+      "summary": "Ngày 15.9, Công ty Cổ phần Cấp nước Bến Thành phối hợp Đảng ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam phường Xuân Hòa thực hiện khánh thành công trình lắp đặt trụ nước uống trực tiếp tại các điểm công cộng trên địa bàn phường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223441+07:00"
+    },
+    {
+      "id": "fbb9393eb31ae2a79af93ea6d9683290",
+      "title": "Ecopark ra mắt ‘biệt thự trên không’ giữa rừng retreat thuộc BST Sky Premium",
+      "link": "https://thanhnien.vn/ecopark-ra-mat-biet-thu-tren-khong-giua-rung-retreat-thuoc-bst-sky-premium-185250915172039843.htm",
+      "summary": "Thiết kế thông tầng tại vị trí cao nhất của tòa tháp Sky Retreat, 18 căn Sky villa nằm trong bộ sưu tập Sky Premium sở hữu tầm view bao quát, ngắm toàn cảnh khu rừng retreat tiên phong tại miền Nam cùng vùng lân cận từ trên cao, được mệnh danh là những bất động sản chinh phục bầu trời tại Eco Retrea...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223594+07:00"
+    },
+    {
+      "id": "379877283ab0ee3699bedb1257a3f340",
+      "title": "Vô sinh nam: Đừng bỏ lỡ ‘thời điểm vàng’ để điều trị hiệu quả",
+      "link": "https://thanhnien.vn/vo-sinh-nam-dung-bo-lo-thoi-diem-vang-de-dieu-tri-hieu-qua-185250915170218133.htm",
+      "summary": "Theo các nghiên cứu, nguyên nhân vô sinh từ nam giới tương đương nữ giới, khoảng 40%. Việc phối hợp điều trị đồng thời cho cả nam và nữ là yếu tố quyết định, giúp tối ưu thời gian, chi phí và tăng tỉ lệ thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223745+07:00"
+    },
+    {
+      "id": "1ac82a35f104dcf41e88e87a3271c9b8",
+      "title": "Đà Nẵng với đích đến Trung tâm đổi mới, sáng tạo, công nghệ cao và khởi nghiệp",
+      "link": "https://thanhnien.vn/da-nang-voi-dich-den-trung-tam-doi-moi-sang-tao-cong-nghe-cao-va-khoi-nghiep-185250915165455912.htm",
+      "summary": "Với mục tiêu xây dựng Đà Nẵng thành Trung tâm đổi mới, sáng tạo, công nghệ cao và khởi nghiệp, nhiệm kỳ tới thành phố đặt ra chỉ tiêu tăng trưởng kinh tế số bình quân 10%/năm, tỉ trọng giá trị tăng thêm của kinh tế số trong GRDP đạt 14-15%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.223918+07:00"
+    },
+    {
+      "id": "d1d60159a0bb387298dcbd921582e747",
+      "title": "COFIDEC tiên phong chuyển đổi xanh, nâng tầm vị thế bền vững ngành thủy sản Việt Nam",
+      "link": "https://thanhnien.vn/cofidec-tien-phong-chuyen-doi-xanh-nang-tam-vi-the-ben-vung-nganh-thuy-san-viet-nam-185250915152658479.htm",
+      "summary": "Nền kinh tế toàn cầu đang dịch chuyển mạnh mẽ theo định hướng phát triển bền vững, ngành thủy sản Việt Nam cũng đối mặt với những yêu cầu khắt khe hơn bao giờ hết. Các thị trường nhập khẩu cao cấp không chỉ quan tâm đến chất lượng, an toàn thực phẩm mà còn đòi hỏi các tiêu chuẩn về môi trường (E), x...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:11:58.224067+07:00"
+    },
+    {
+      "id": "59a75c29e4202c1f143a3debeaa4163f",
+      "title": "Tự động hóa giúp Masan mở rộng mảng bán lẻ",
+      "link": "https://vnexpress.net/tu-dong-hoa-giup-masan-mo-rong-mang-ban-le-4939450.html",
+      "summary": "Masan tự động hóa vận hành, tối ưu tài chính và cải thiện trải nghiệm người tiêu dùng qua nền tảng đặt hàng thông minh Winare, thúc đẩy mảng bán lẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T08:12:02.906553+07:00"
+    },
+    {
+      "id": "bad8932188d6febd276aa0d07237e3a1",
+      "title": "Thủ tướng Anh chỉ trích Elon Musk phát ngôn 'kích động'",
+      "link": "https://vnexpress.net/thu-tuong-anh-chi-trich-elon-musk-phat-ngon-kich-dong-4939479.html",
+      "summary": "Văn phòng Thủ tướng Starmer chỉ trích Musk dùng \"ngôn ngữ nguy hiểm và kích động\" khi phát biểu trước hàng trăm nghìn người biểu tình cực hữu ở Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T00:54:57+07:00",
+      "fetched": "2025-09-16T08:12:01.249560+07:00"
+    },
+    {
+      "id": "580cecbd3f35dd6d3c1aad1427dddce7",
+      "title": "Bộ trưởng Tài chính: Việt Nam đã đáp ứng các tiêu chí nâng hạng của FTSE",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-viet-nam-da-dap-ung-cac-tieu-chi-nang-hang-cua-ftse-4939493.html",
+      "summary": "Việt Nam đã đáp ứng các tiêu chí nâng hạng của FTSE thông qua những cải cách nhằm tạo thuận lợi cho dòng vốn đầu tư nước ngoài vào thị trường, theo Bộ trưởng Nguyễn Văn Thắng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T00:51:45+07:00",
+      "fetched": "2025-09-16T08:12:02.906219+07:00"
+    },
+    {
+      "id": "8dbc9a76df5710e798dbef8ef00f97f3",
+      "title": "Bộ trưởng Hàn Quốc: Mỹ thừa nhận 'quá tay' trong vụ bắt 300 lao động",
+      "link": "https://vnexpress.net/bo-truong-han-quoc-my-thua-nhan-qua-tay-trong-vu-bat-300-lao-dong-4939471.html",
+      "summary": "Bộ trưởng Thương mại Hàn Quốc cho biết Mỹ có phần hối tiếc về vụ đột kích nhà máy và bắt 300 lao động nước này tại bang Georgia hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T00:33:16+07:00",
+      "fetched": "2025-09-16T08:12:01.249734+07:00"
+    },
+    {
+      "id": "c8d259036a29583beb0d6d89a26492a5",
+      "title": "Mỹ tiếp tục bắn nổ 'xuồng chở ma túy' từ Venezuela",
+      "link": "https://vnexpress.net/my-tiep-tuc-ban-no-xuong-cho-ma-tuy-tu-venezuela-4939466.html",
+      "summary": "Tổng thống Trump cho hay quân đội Mỹ đã lần thứ hai tập kích \"xuồng chở ma túy\" từ Venezuela, hạ 3 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T00:04:52+07:00",
+      "fetched": "2025-09-16T08:11:54.877508+07:00"
+    },
+    {
+      "id": "c8d259036a29583beb0d6d89a26492a5",
+      "title": "Mỹ tiếp tục bắn nổ 'xuồng chở ma túy' từ Venezuela",
+      "link": "https://vnexpress.net/my-tiep-tuc-ban-no-xuong-cho-ma-tuy-tu-venezuela-4939466.html",
+      "summary": "Tổng thống Trump cho hay quân đội Mỹ đã lần thứ hai tập kích \"xuồng chở ma túy\" từ Venezuela, hạ 3 người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T00:04:52+07:00",
+      "fetched": "2025-09-16T08:12:01.249916+07:00"
+    },
+    {
+      "id": "a0aa9df360dd76a22643e9bfbe539ab8",
+      "title": "Best Buy hợp tác Uber Eats giao hàng trong ngày",
+      "link": "https://vnexpress.net/best-buy-hop-tac-uber-eats-giao-hang-trong-ngay-4936829.html",
+      "summary": "Best Buy vừa bắt tay Uber Eats triển khai dịch vụ giao hàng theo yêu cầu và hẹn giờ từ hơn 800 cửa hàng tại Mỹ, mở rộng tiện ích cho khách mua sắm thiết bị điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T00:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.877690+07:00"
+    },
+    {
+      "id": "904619c251f0928ec3417663309654ac",
+      "title": "Điểm tin 6h: Vàng hạ nhiệt chênh lệch, bạc duy trì ở mức cao | Đề xuất nâng giảm trừ gia cảnh ngay kỳ tính thuế 2025",
+      "link": "https://vnexpress.net/diem-tin-6h-vang-ha-nhiet-chenh-lech-bac-duy-tri-o-muc-cao-de-xuat-nang-giam-tru-gia-canh-ngay-ky-tinh-thue-2025-4939470.html",
+      "summary": "TP HCM chi 150 tỷ mỗi năm để người cao tuổi sống khỏe hơn; Mỹ đạt thỏa thuận với Trung Quốc về TikTok...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:15:12+07:00",
+      "fetched": "2025-09-16T08:11:54.877875+07:00"
+    },
+    {
+      "id": "fee4944df12984cec703aff8d977c694",
+      "title": "Điểm tin 6h: Vàng hạ nhiệt chênh lệch, bạc duy trì ở mức cao | Đề xuất nâng giảm trừ gia cảnh ngay kỳ tính thuế 2025",
+      "link": "https://vnexpress.net/diem-tin-6h-vang-ha-nhiet-chenh-lech-bac-duy-tri-o-muc-cao-de-xuat-nang-giam-tru-gia-canh-ngay-ky-tinh-thue-2025-4939469.html",
+      "summary": "TP HCM chi 150 tỷ mỗi năm để người cao tuổi sống khỏe hơn; Mỹ đạt thỏa thuận với Trung Quốc về TikTok...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:02+07:00",
+      "fetched": "2025-09-16T08:11:54.878035+07:00"
+    },
+    {
+      "id": "6cbab261d3e1c77fb4d2ddd1dd9d1da3",
+      "title": "Internet cáp quang Việt Nam vào top 13 thế giới",
+      "link": "https://vnexpress.net/internet-cap-quang-viet-nam-vao-top-13-the-gioi-4939423.html",
+      "summary": "Tốc độ Internet cố định, phần lớn là cáp quang, liên tiếp tăng bậc, vươn lên đứng thứ 13 thế giới trong tháng 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:09:08+07:00",
+      "fetched": "2025-09-16T08:11:54.878192+07:00"
+    },
+    {
+      "id": "6cbab261d3e1c77fb4d2ddd1dd9d1da3",
+      "title": "Internet cáp quang Việt Nam vào top 13 thế giới",
+      "link": "https://vnexpress.net/internet-cap-quang-viet-nam-vao-top-13-the-gioi-4939423.html",
+      "summary": "Tốc độ Internet cố định, phần lớn là cáp quang, liên tiếp tăng bậc, vươn lên đứng thứ 13 thế giới trong tháng 7.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T23:09:08+07:00",
+      "fetched": "2025-09-16T08:12:05.711126+07:00"
+    },
+    {
+      "id": "7daf3774189670e1c3d8ec9fef851c3a",
+      "title": "'AI không thay thế tư duy, giá trị và trách nhiệm của con người'",
+      "link": "https://vnexpress.net/ai-khong-thay-the-tu-duy-gia-tri-va-trach-nhiem-cua-con-nguoi-4939384.html",
+      "summary": "AI là công cụ mạnh mẽ, mở ra cơ hội lớn, nhưng cần để phục vụ chứ không thay thế tư duy, giá trị và trách nhiệm của con người, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.878368+07:00"
+    },
+    {
+      "id": "9ffc53858d8eec1c33b0b4a11c45cc04",
+      "title": "270 triệu đồng cải tạo căn hộ theo phong cách Scandinavian, Wabi-sabi",
+      "link": "https://vnexpress.net/270-trieu-dong-cai-tao-can-ho-theo-phong-cach-scandinavian-wabi-sabi-4939288.html",
+      "summary": "Căn hộ 3 phòng ngủ được cải tạo lại không gian, sử dụng màu gỗ kết hợp tone pastel, hướng đến sự tối giản nhưng vẫn đủ tiện nghi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.878524+07:00"
+    },
+    {
+      "id": "4218ffb8eafcad4c03c85a3a1c0885dc",
+      "title": "Mặt chảy xệ bởi 'thần dược' giảm cân",
+      "link": "https://vnexpress.net/mat-chay-xe-boi-than-duoc-giam-can-4939214.html",
+      "summary": "Khi hàng triệu người Mỹ đổ xô dùng Ozempic, bác sĩ Paul Jarrod Frank lại phát hiện hội chứng đáng lo ngại do tác dụng phụ của thuốc, đó là gương mặt chảy xệ và già nua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.878687+07:00"
+    },
+    {
+      "id": "16487f5ebfa48b83f66e39b220e70ffc",
+      "title": "Hướng dẫn check in ở sân bay không cần làm thủ tục tại quầy",
+      "link": "https://vnexpress.net/huong-dan-check-in-o-san-bay-khong-can-lam-thu-tuc-tai-quay-4939068.html",
+      "summary": "Hành khách đi máy bay không gửi hành lý có thể check in bằng ứng dụng VNeID, kiốt ở sân bay và qua website/app của hãng hàng không từ 1/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.878879+07:00"
+    },
+    {
+      "id": "46b15029e7225c060e770ed00fecd63b",
+      "title": "Trong thế giới của những ông chủ trẻ Mỹ",
+      "link": "https://vnexpress.net/trong-the-gioi-cua-nhung-ong-chu-tre-my-4938879.html",
+      "summary": "Nhiều ông chủ startup Mỹ ở độ tuổi ngoài 20 đang làm việc 12-13 tiếng mỗi ngày nuôi giấc mơ xây dựng đế chế tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.879047+07:00"
+    },
+    {
+      "id": "4774476853dcf0743e34bd30aee5bc13",
+      "title": "Ngộ nhận chết người khi nhiều tài xế xe tải từ chối thắt dây",
+      "link": "https://vnexpress.net/ngo-nhan-chet-nguoi-khi-nhieu-tai-xe-xe-tai-tu-choi-that-day-4939204.html",
+      "summary": "Nhiều tài xế xe tải bỏ dây an toàn vì vướng víu, khó thở hay \"thoát hiểm dễ hơn\", nhưng thực tế hành động này tăng rủi ro tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.879202+07:00"
+    },
+    {
+      "id": "8c4aad78f97885e47bcd3aad9be692fe",
+      "title": "Amazon rót vốn vào startup giao hàng Rappi",
+      "link": "https://vnexpress.net/amazon-rot-von-vao-startup-giao-hang-rappi-4937431.html",
+      "summary": "\"Gã khổng lồ\" thương mại điện tử Amazon mua tối đa 12% cổ phần Rappi nếu đạt các mốc nhất định theo thỏa thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.879358+07:00"
+    },
+    {
+      "id": "7daf3774189670e1c3d8ec9fef851c3a",
+      "title": "'AI không thay thế tư duy, giá trị và trách nhiệm của con người'",
+      "link": "https://vnexpress.net/ai-khong-thay-the-tu-duy-gia-tri-va-trach-nhiem-cua-con-nguoi-4939384.html",
+      "summary": "AI là công cụ mạnh mẽ, mở ra cơ hội lớn, nhưng cần để phục vụ chứ không thay thế tư duy, giá trị và trách nhiệm của con người, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T08:12:05.710952+07:00"
+    },
+    {
+      "id": "3cc97b470ee4d8134be261f80d9095ba",
+      "title": "Bảng xếp hạng đại học thế giới 2026 đông kỷ lục",
+      "link": "https://vnexpress.net/bang-xep-hang-dai-hoc-the-gioi-2026-dong-ky-luc-4939312.html",
+      "summary": "Bảng xếp hạng đại học thế giới của THE năm 2026 có gần 2.200 trường, cao kỷ lục và gấp 2,6 lần so với 10 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:55:23+07:00",
+      "fetched": "2025-09-16T08:11:54.879517+07:00"
+    },
+    {
       "id": "9cce2bb4a6299eb7ec5d6cecfa0d3f64",
       "title": "Nỗ lực làm rõ động cơ vụ ám sát ông Charlie Kirk",
       "link": "https://thanhnien.vn/no-luc-lam-ro-dong-co-vu-am-sat-ong-charlie-kirk-185250915221746074.htm",
@@ -211,6 +711,46 @@ window.newsData_2025_09_16 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T22:00:00+07:00",
       "fetched": "2025-09-16T05:14:08.658343+07:00"
+    },
+    {
+      "id": "282dad7be0512edad1259abced54d285",
+      "title": "Những mẫu ôtô hâm nóng thị trường Việt cuối 2025",
+      "link": "https://vnexpress.net/nhung-mau-oto-ham-nong-thi-truong-viet-cuoi-2025-4939146.html",
+      "summary": "Trong phần còn lại của 2025, Mitsubishi Destinator, Suzuki Fronx, Subaru Forester, VinFast Minio Green... sẽ trình làng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.879668+07:00"
+    },
+    {
+      "id": "dd12dda45358672c20967d749cdaf4cd",
+      "title": "TP HCM chi 150 tỷ mỗi năm khám miễn phí cho người cao tuổi",
+      "link": "https://vnexpress.net/tp-hcm-chi-150-ty-moi-nam-kham-mien-phi-cho-nguoi-cao-tuoi-4938924.html",
+      "summary": "TP HCM dành khoảng 150 tỷ mỗi năm khám sức khỏe miễn phí định kỳ cho gần một triệu người trên 60 tuổi, nay tiếp tục mở rộng phạm vi sau khi hợp nhất Bình Dương, Bà Rịa - Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T08:11:54.879842+07:00"
+    },
+    {
+      "id": "9d91bfe97cd745208d1d1a1b14c2e5ff",
+      "title": "Nỗ lực dùng drone bù đắp khoảng trống quân số của Ukraine",
+      "link": "https://vnexpress.net/no-luc-dung-drone-bu-dap-khoang-trong-quan-so-cua-ukraine-4931263.html",
+      "summary": "Chỉ huy Ukraine cho biết họ sử dụng drone mặt đất theo nhiều cách khác nhau, dường như nhằm khắc phục tình trạng thiếu thốn nhân lực ở tiền tuyến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T08:12:01.250073+07:00"
+    },
+    {
+      "id": "1fb4c83f3c19ca9125d0c24df85323f3",
+      "title": "Loạt pin dự phòng 25.000 mAh sạc siêu nhanh",
+      "link": "https://vnexpress.net/loat-pin-du-phong-25-000-mah-sac-sieu-nhanh-4937142.html",
+      "summary": "Anker, Xiaomi, Ugreen... cung cấp pin sạc dự phòng 25.000 mAh với công suất vượt 100 W, có màn hình và sạc đa thiết bị, trong đó có laptop.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T08:12:05.711288+07:00"
     },
     {
       "id": "d1d0601ca18c80ec53fd54928b98f0d9",
@@ -351,6 +891,16 @@ window.newsData_2025_09_16 = {
       "category": "Thể thao",
       "published": "2025-09-15T17:27:37+07:00",
       "fetched": "2025-09-16T01:23:33.634447+07:00"
+    },
+    {
+      "id": "a013de0165c21edf1e6c6ad851e6d7f2",
+      "title": "8 trận được chờ đợi nhất lượt đầu Champions League",
+      "link": "https://vnexpress.net/8-tran-duoc-cho-doi-nhat-luot-dau-champions-league-4939461.html",
+      "summary": "Liverpool đại chiến Atletico Madrid, Barca làm khách của Newcastle, trong khi Bayern Munich đụng độ Chelsea là những cặp đấu được chờ đợi nhất lượt mở màn vòng bảng Champions League tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T17:27:37+07:00",
+      "fetched": "2025-09-16T08:12:06.694721+07:00"
     },
     {
       "id": "cee456088d1fedf582850501e59ee34f",
@@ -581,6 +1131,16 @@ window.newsData_2025_09_16 = {
       "category": "Thể thao",
       "published": "2025-09-15T17:00:00+07:00",
       "fetched": "2025-09-16T01:23:33.635288+07:00"
+    },
+    {
+      "id": "b992df5f52ac1bd3a2eda8aff4465984",
+      "title": "Chatbot AI ngốn nhiều năng lượng",
+      "link": "https://vnexpress.net/chatbot-ai-ngon-nhieu-nang-luong-4939021.html",
+      "summary": "Các chatbot AI ngốn năng lượng khổng lồ mỗi năm do cần sử dụng điện trong quá trình huấn luyện, suy luận và cung cấp phản hồi tức thì cho người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T16:59:00+07:00",
+      "fetched": "2025-09-16T08:12:05.712428+07:00"
     },
     {
       "id": "3fbd002579f30b4adf64097d47d0cb95",
