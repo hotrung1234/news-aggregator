@@ -1,6 +1,6 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T01:23:27.207556+07:00",
+  "lastUpdated": "2025-09-17T03:17:56.936949+07:00",
   "articles": [
     {
       "id": "43003f4c718ad87e1b856c33535214c8",
@@ -151,6 +151,36 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T01:23:20.759679+07:00",
       "fetched": "2025-09-17T01:23:20.759886+07:00"
+    },
+    {
+      "id": "e4797cc8289da78a349f52da9a8558d0",
+      "title": "Bí quyết duy trì bộ não trẻ trung",
+      "link": "https://vnexpress.net/bi-quyet-duy-tri-bo-nao-tre-trung-4937958.html",
+      "summary": "Giữ tâm trí hoạt động, kiểm soát hơi thở và duy trì tình bạn là \"đơn thuốc\" cho bộ não trẻ trung, sắc bén.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T19:00:00+07:00",
+      "fetched": "2025-09-17T03:17:43.816352+07:00"
+    },
+    {
+      "id": "9c42900af23e47ddb1ee95eb45af2f2e",
+      "title": "Bao giờ tầm vóc người Việt Nam được cải thiện: Nhiều rào cản khiến Đề án 641 'đóng băng'",
+      "link": "https://thanhnien.vn/bao-gio-tam-voc-nguoi-viet-nam-duoc-cai-thien-nhieu-rao-can-khien-de-an-641-dong-bang-185250916204903912.htm",
+      "summary": "Kinh phí thiếu hụt, nhân sự thay đổi, nhận thức xã hội còn hạn chế... là những rào cản lớn khiến Đề án tổng thể phát triển thể lực, tầm vóc người VN giai đoạn 2011 - 2030 (gọi tắt là Đề án 641) chưa thể đi vào thực chất, gây lo ngại về nguy cơ tụt hậu thể chất của thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T18:44:00+07:00",
+      "fetched": "2025-09-17T03:17:47.114953+07:00"
+    },
+    {
+      "id": "3c91e8f09cf98d891058e754d28c1688",
+      "title": "5 món ăn sáng có thể khiến thận yếu",
+      "link": "https://vnexpress.net/5-mon-an-sang-co-the-khien-than-yeu-4939374.html",
+      "summary": "Thực phẩm, thịt chế biến sẵn chứa nhiều muối, chất béo không lành mạnh, trong khi bánh ngọt có đường dễ gây quá tải cho thận và khó đào thải độc tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T18:00:00+07:00",
+      "fetched": "2025-09-17T03:17:43.816530+07:00"
     },
     {
       "id": "fa7325d9e40e27f016c16bb804c129bb",
