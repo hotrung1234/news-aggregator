@@ -1,7 +1,157 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T05:14:15.507134+07:00",
+  "lastUpdated": "2025-09-17T08:11:50.897128+07:00",
   "articles": [
+    {
+      "id": "8e6fa8e70640f0ee6d4c5fc4869d81ee",
+      "title": "Ukraine và 'nước cờ' dầu mỏ",
+      "link": "https://tuoitre.vn/ukraine-va-nuoc-co-dau-mo-20250916234404301.htm",
+      "summary": "Từ việc gây sức ép lên Hungary, Slovakia và Thổ Nhĩ Kỳ cho tới đối đầu Trung Quốc, việc đáp ứng các yêu cầu của ông Trump để chấm dứt cuộc chiến ở Ukraine sẽ đầy thách thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998990+07:00",
+      "fetched": "2025-09-17T08:11:41.999111+07:00"
+    },
+    {
+      "id": "7f2533b4c3d6f343d4788b4fd4e09e72",
+      "title": "Đóng MV của Đinh Tiến Đạt, Tiến Luật 'không có tiền bạc gì hết'",
+      "link": "https://tuoitre.vn/dong-mv-cua-dinh-tien-dat-tien-luat-khong-co-tien-bac-gi-het-20250916220752352.htm",
+      "summary": "Tiến Luật nói anh 'không tiền bạc gì hết' khi cùng nhiều anh tài góp mặt trong MV 'Bỏ bàn tay đó ra' của rapper Đinh Tiến Đạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998861+07:00",
+      "fetched": "2025-09-17T08:11:41.998976+07:00"
+    },
+    {
+      "id": "40efd2ef53da36f0052b845e7b582116",
+      "title": "Đoàn Công Vinh mặc vest với quần bơi tại Mister International: Xin cho khám sức khỏe tâm thần nhe",
+      "link": "https://tuoitre.vn/doan-cong-vinh-mac-vest-voi-quan-boi-tai-mister-international-xin-cho-kham-suc-khoe-tam-than-nhe-20250917045216623.htm",
+      "summary": "Người mẫu Đoàn Công Vinh quan niệm thời trang là không giới hạn nhưng nhiều ý kiến cho rằng sáng tạo cần đúng chỗ, đúng lúc và không phản cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998730+07:00",
+      "fetched": "2025-09-17T08:11:41.998850+07:00"
+    },
+    {
+      "id": "8a2afee6301397a7497ad48165a705da",
+      "title": "CLB Nam Định đấu Ratchaburi: Chờ dàn 'sao Tây' tỏa sáng",
+      "link": "https://tuoitre.vn/clb-nam-dinh-dau-ratchaburi-cho-dan-sao-tay-toa-sang-20250916212537187.htm",
+      "summary": "Lúc 19h15 ngày 17-9, CLB Nam Định sẽ tiếp đón Ratchaburi trên sân Thiên Trường trong trận ra quân AFC Champions League Two, trực tiếp trên K+.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998605+07:00",
+      "fetched": "2025-09-17T08:11:41.998718+07:00"
+    },
+    {
+      "id": "af1acefbeeaa8fb4cfe7ea9f66b335dc",
+      "title": "Lịch thi đấu Giải bóng chuyền nam vô địch thế giới 17-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-chuyen-nam-vo-dich-the-gioi-17-9-20250916234745144.htm",
+      "summary": "Ngày 17-9, Giải bóng chuyền nam vô địch thế giới tiếp tục với các trận vòng bảng đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998478+07:00",
+      "fetched": "2025-09-17T08:11:41.998594+07:00"
+    },
+    {
+      "id": "24baae90b90f0508fb37708056bebf19",
+      "title": "Đất nông nghiệp hết thời hạn sử dụng có cho, tặng được không?",
+      "link": "https://tuoitre.vn/dat-nong-nghiep-het-thoi-han-su-dung-co-tang-cho-duoc-khong-20250906170229058.htm",
+      "summary": "Ba tôi có miếng đất nông nghiệp nhưng hết hạn sử dụng từ năm 2015 mà chưa gia hạn, giờ ông muốn cho tôi, không biết có làm thủ tục cho tặng được không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998346+07:00",
+      "fetched": "2025-09-17T08:11:41.998466+07:00"
+    },
+    {
+      "id": "fc805e435491dc75237c48fbdd3260f5",
+      "title": "Dự đoán tỉ số Champions League: Chelsea 'cầm chân' Bayern",
+      "link": "https://tuoitre.vn/du-doan-ti-so-champions-league-chelsea-cam-chan-bayern-20250916221823302.htm",
+      "summary": "Trận đấu giữa Bayern Munich và Chelsea ở lượt đầu vòng phân hạng Champions League mùa 2025-2026 được dự đoán sẽ diễn ra cân bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998210+07:00",
+      "fetched": "2025-09-17T08:11:41.998334+07:00"
+    },
+    {
+      "id": "f275ddfced919b75d6ec8603ccecc384",
+      "title": "Dự đoán tỉ số Champions League: Liverpool 'hạ đẹp' Atletico của HLV Simeone",
+      "link": "https://tuoitre.vn/du-doan-ti-so-champions-league-liverpool-ha-dep-atletico-cua-hlv-simeone-20250916224103524.htm",
+      "summary": "Chuyến hành quân đến nước Anh để đối đầu Liverpool tại Champions League của Atletico Madrid được cảnh báo sẽ gặp rất nhiều khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.998062+07:00",
+      "fetched": "2025-09-17T08:11:41.998185+07:00"
+    },
+    {
+      "id": "e162dbabac7b3c2b9ec34279e4e4bca6",
+      "title": "Đại gia Đinh Trường Chinh và 2 cựu lãnh đạo Vinafood II hầu tòa trong vụ bán đất 'vàng' công sản",
+      "link": "https://tuoitre.vn/dai-gia-dinh-truong-chinh-va-2-cuu-lanh-dao-vinafood-ii-hau-toa-trong-vu-ban-dat-vang-cong-san-20250906181205463.htm",
+      "summary": "Sáng 17-9, TAND TP.HCM mở phiên tòa xét xử ông Đinh Trường Chinh và cựu lãnh đạo Vinafood II là ông Huỳnh Thế Năng và ông Nguyễn Thọ Trí liên quan đến việc bán đất 'vàng' 33 Nguyễn Du và Chu Mạnh Trinh không qua đấu giá, gây thiệt hại 970 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997922+07:00",
+      "fetched": "2025-09-17T08:11:41.998049+07:00"
+    },
+    {
+      "id": "ae26f1c840711b5a17df144c4f525573",
+      "title": "Tin tức thế giới 17-9: Trung Quốc xác nhận đạt đồng thuận với Mỹ về TikTok 'vì lợi ích hai bên'",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-17-9-trung-quoc-xac-nhan-dat-dong-thuan-voi-my-ve-tiktok-vi-loi-ich-hai-ben-20250917064930108.htm",
+      "summary": "Nghi phạm ám sát ông Charlie Kirk bị đề nghị tử hình; Israel không kích cảng Hodeidah, Yemen; Anh - Mỹ ký thỏa thuận công nghệ 42 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997793+07:00",
+      "fetched": "2025-09-17T08:11:41.997910+07:00"
+    },
+    {
+      "id": "efd9635dc1af113e572cb9d76066d0ea",
+      "title": "Chiếc cúp đặc biệt Giải bóng đá công nhân, viên chức Việt Nam 2025",
+      "link": "https://tuoitre.vn/chiec-cup-dac-biet-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-20250916211052384.htm",
+      "summary": "Tại buổi họp báo ngày 16-9, chiếc cúp chính thức của Giải bóng đá công nhân, viên chức Việt Nam 2025 đã được ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997661+07:00",
+      "fetched": "2025-09-17T08:11:41.997781+07:00"
+    },
+    {
+      "id": "c66b657cfb19aef9137d47541b7ffb63",
+      "title": "Hôm nay, áp thấp nhiệt đới gần Biển Đông khả năng mạnh lên thành bão",
+      "link": "https://tuoitre.vn/hom-nay-ap-thap-nhiet-doi-gan-bien-dong-kha-nang-manh-len-thanh-bao-20250917062029989.htm",
+      "summary": "Dự báo hôm nay (17-9), áp thấp nhiệt đới ở gần Biển Đông có khả năng mạnh lên thành bão và đi vào Biển Đông trong ngày mai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997530+07:00",
+      "fetched": "2025-09-17T08:11:41.997649+07:00"
+    },
+    {
+      "id": "8791223d57c5e7ebb87283ccc93f58ce",
+      "title": "Bất động sản Văn Phú bị phạt vì loạt vi phạm, hai đại gia  khác cùng bị 'gọi tên'",
+      "link": "https://tuoitre.vn/bat-dong-san-van-phu-bi-phat-vi-loat-vi-pham-hai-dai-gia-khac-cung-bi-goi-ten-20250916203450025.htm",
+      "summary": "Ủy ban Chứng khoán Nhà nước vừa ban hành quyết định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán với Công ty CP Phát triển Bất động sản Văn Phú có địa chỉ tại phường Đống Đa, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997396+07:00",
+      "fetched": "2025-09-17T08:11:41.997518+07:00"
+    },
+    {
+      "id": "097fb864d7f92619a1f0ac33ee2b9d26",
+      "title": "Đồng Nai đề xuất làm dự án chống ngập khu vực sông Buông gần 4.400 tỉ",
+      "link": "https://tuoitre.vn/dong-nai-de-xuat-lam-du-an-chong-ngap-khu-vuc-song-buong-gan-4-400-ti-20250917063643813.htm",
+      "summary": "UBND tỉnh Đồng Nai vừa có văn bản giao cho Sở Tài chính chủ trì cùng với các sở, ngành xem xét đề xuất chi gần 4.400 tỉ đồng làm dự án cải tạo, chống ngập ở khu vực sông Buông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.997246+07:00",
+      "fetched": "2025-09-17T08:11:41.997383+07:00"
+    },
+    {
+      "id": "79abf08022aefb15c69cbe26515280bd",
+      "title": "'Skoda Slava thiếu 2 điểm ADAS, bù lại 12 điểm vận hành'",
+      "link": "https://tuoitre.vn/skoda-slava-thieu-2-diem-adas-bu-lai-12-diem-van-hanh-20250916231300764.htm",
+      "summary": "Chuyên gia Lê Thượng Tiến đánh giá, Skoda Slavia mang đến cảm giác lái ấn tượng, tạo sự khác biệt rõ rệt so với các mẫu sedan hạng B cùng phân khúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T08:11:41.996999+07:00",
+      "fetched": "2025-09-17T08:11:41.997229+07:00"
+    },
     {
       "id": "43003f4c718ad87e1b856c33535214c8",
       "title": "Huyền thoại điện ảnh Robert Redford qua đời ở tuổi 89",
@@ -151,6 +301,386 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T01:23:20.759679+07:00",
       "fetched": "2025-09-17T01:23:20.759886+07:00"
+    },
+    {
+      "id": "ee7c10ac4dedeaebaffacf713806b804",
+      "title": "Cát Phượng gây tranh cãi khi tự chê phim mình đóng",
+      "link": "https://thanhnien.vn/cat-phuong-gay-tranh-cai-khi-tu-che-phim-minh-dong-185250916233326213.htm",
+      "summary": "Cát Phượng công khai chê phim mình đóng, khuyên đạo diễn nên rút kinh nghiệm. Sau đó, phía nhà sản xuất cũng có những phản hồi liên quan đến vụ việc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:10:00+07:00",
+      "fetched": "2025-09-17T08:11:41.105191+07:00"
+    },
+    {
+      "id": "3aa402de64c68062021bc1a37afce0c2",
+      "title": "1 muỗng tỏi ngâm mật ong mỗi ngày: Điều gì xảy ra với đường huyết và huyết áp?",
+      "link": "https://thanhnien.vn/1-muong-toi-ngam-mat-ong-moi-ngay-dieu-gi-xay-ra-voi-duong-huyet-va-huyet-ap-185250916231920254.htm",
+      "summary": "Tỏi và mật ong từ lâu đã được biết đến là những thực phẩm giàu dưỡng chất, mang lại nhiều lợi ích cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:09:00+07:00",
+      "fetched": "2025-09-17T08:11:41.105386+07:00"
+    },
+    {
+      "id": "876910aea00f1797dd88577ba3d9924b",
+      "title": "'Vũ trụ say hi' nối dài sức nóng",
+      "link": "https://thanhnien.vn/vu-tru-say-hi-noi-dai-suc-nong-185250916194742217.htm",
+      "summary": "20 giờ hôm nay 17.9, mùa 2 của chương trình Anh trai say hi sẽ chính thức khởi động, đánh dấu bằng việc ra mắt theme song (ca khúc chủ đề) All eyes on us cùng MV được đầu tư lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:03:00+07:00",
+      "fetched": "2025-09-17T08:11:41.105548+07:00"
+    },
+    {
+      "id": "89b01301a9f8c793370312f20a42e121",
+      "title": "Hé lộ diện mạo thành Điện Hải sau cuộc tu bổ lịch sử",
+      "link": "https://thanhnien.vn/he-lo-dien-mao-thanh-dien-hai-sau-cuoc-tu-bo-lich-su-185250914180455365.htm",
+      "summary": "Di tích quốc gia đặc biệt thành Điện Hải (P.Hải Châu, TP.Đà Nẵng) đang đứng trước cuộc \"lột xác\" chưa từng có khi dự án tu bổ, phục hồi và tôn tạo giai đoạn 2 dự kiến triển khai vào cuối năm 2025, giúp đưa tòa thành trở lại gần với \"bản gốc\" cũng như mở thêm nhiều hạng mục độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:01:00+07:00",
+      "fetched": "2025-09-17T08:11:41.105706+07:00"
+    },
+    {
+      "id": "0cbb6b8ab036c289d6404ec9181f060c",
+      "title": "Thép Miền Nam: Vượt lên thương hiệu, khẳng định vị thế",
+      "link": "https://thanhnien.vn/thep-mien-nam-vuot-len-thuong-hieu-khang-dinh-vi-the-18525091620085591.htm",
+      "summary": "Công ty TNHH MTV Thép Miền Nam - VNSTEEL là một trong những doanh nghiệp sản xuất thép có lịch sử phát triển gắn liền với hành trình xây dựng và phát triển của đất nước. Theo thời gian, uy tín và chất lượng của Công ty ngày càng được khẳng định. Năm 2024, sản phẩm Thép Miền Nam /V/ tự hào được vinh ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.105865+07:00"
+    },
+    {
+      "id": "a5798d5c7e9b3204be3fe3a3954de2ba",
+      "title": "LION Championship 26: Bùng nổ không khí võ thuật tại Hà Nội",
+      "link": "https://thanhnien.vn/lion-championship-26-bung-no-khong-khi-vo-thuat-tai-ha-noi-185250916192353724.htm",
+      "summary": "Cuối tuần qua, Nhà thi đấu Tây Hồ (TP.Hà Nội) đã trở nên sôi động hơn bao giờ hết khi hàng nghìn khán giả đổ về theo dõi những màn so tài đỉnh cao trong khuôn khổ giải Võ thuật tổng hợp (MMA) LION Championship 26.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106024+07:00"
+    },
+    {
+      "id": "0bbdd70bae2afd8238e63710bf2bdeba",
+      "title": "Cao su Chư Sê - Kampong Thom nhận EUDR đầu tiên toàn cầu",
+      "link": "https://thanhnien.vn/cao-su-chu-se-kampong-thom-nhan-eudr-dau-tien-toan-cau-185250916181841106.htm",
+      "summary": "Cao su Chư Sê - Kampong Thom là doanh nghiệp đầu tiên trên thế giới đạt chứng nhận PEFC EUDR, mở ra 'tấm hộ chiếu xanh' đưa cao su Việt Nam - Campuchia tiếp cận bền vững thị trường EU. Hơn 15 năm hình thành và phát triển, doanh nghiệp này đã chứng minh tầm vóc của một đơn vị đầu tàu, tiên phong tron...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106180+07:00"
+    },
+    {
+      "id": "814809d2b2c40bc227d55ab5d3a3bb89",
+      "title": "Thanh Xuan Valley: Nghệ thuật ‘may đo’ không gian sống giữa thung lũng triệu thông reo",
+      "link": "https://thanhnien.vn/thanh-xuan-valley-nghe-thuat-may-do-khong-gian-song-giua-thung-lung-trieu-thong-reo-185250916170430751.htm",
+      "summary": "Bằng nghệ thuật 'may đo' không gian sống, BIM Land cùng các đối tác quốc tế định hình một tầm nhìn khác biệt tại Thanh Xuan Valley: tôn trọng và nâng tầm hệ sinh thái bản địa; phát triển những không gian sống độc bản, gắn bó bền vững cùng thiên nhiên lâu đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106359+07:00"
+    },
+    {
+      "id": "18d20c78b3413c96bf05338c8877cd54",
+      "title": "Căn hộ cao cấp và TTTM Diamond Sky: Số lượng giới hạn – Giá trị đỉnh cao",
+      "link": "https://thanhnien.vn/can-ho-cao-cap-va-tttm-diamond-sky-so-luong-gioi-han-gia-tri-dinh-cao-185250916143407018.htm",
+      "summary": "Không chỉ là một tòa tháp căn hộ siêu sang, Diamond Sky còn là lời khẳng định rằng xa xỉ không nằm ở sự phô trương, mà ở nghệ thuật chạm đến chuẩn mực sống tinh tế nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106515+07:00"
+    },
+    {
+      "id": "05494ca93c4760b4ea7e1eb1615c91c2",
+      "title": "DomDom ra mắt - Giúp việc thuê nhà trở nên dễ dàng và minh bạch",
+      "link": "https://thanhnien.vn/domdom-ra-mat-giup-viec-thue-nha-tro-nen-de-dang-va-minh-bach-185250916141437401.htm",
+      "summary": "Kết hợp công nghệ và dữ liệu minh bạch để đơn giản hóa việc thuê nhà, bắt đầu tại khu vực Phú Mỹ Hưng, Quận 7 (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106670+07:00"
+    },
+    {
+      "id": "a31400543819fda9265039a590ce2473",
+      "title": "Bản phối trắng đen, minh chứng cho triết lý đơn giản là đẹp, sang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ban-phoi-trang-den-minh-chung-cho-triet-ly-don-gian-la-dep-sang-18525090813014467.htm",
+      "summary": "Trang phục trắng đen là ngôn ngữ thời trang tối giản, sang trọng và đẹp trong mọi hoàn cảnh, mọi không gian. Váy dài màu trắng, chân váy đen và áo sơ mi cách điệu cùng tông, đầm tiệc trễ vai trắng đen... là những lựa chọn linh hoạt và đúng đắn cho mọi dịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:00:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106825+07:00"
+    },
+    {
+      "id": "112315bf9b284e8cfe010cfc03742ef0",
+      "title": "Nhận diện văn học Việt Nam sau năm 1975 để tạo đà phát triển",
+      "link": "https://thanhnien.vn/nhan-dien-van-hoc-viet-nam-sau-nam-1975-de-tao-da-phat-trien-18525091619433891.htm",
+      "summary": "Sáng 16.9 tại TP.HCM, Hội Nhà văn VN đã tổ chức hội thảo khoa học Thành tựu cơ bản của văn học VN sau năm 1975: diện mạo, khuynh hướng và thể loại. Hội thảo thu hút sự quan tâm của nhiều nhà nghiên cứu và các nhà văn, nhà lý luận phê bình; nhìn lại chặng đường 50 năm đã qua, nhằm tạo đà cho bước phá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:59:00+07:00",
+      "fetched": "2025-09-17T08:11:41.106987+07:00"
+    },
+    {
+      "id": "e9e33fbbfbd957deb4ac750be40282f6",
+      "title": "Ông Trump tuyên bố Mỹ đánh chìm 3 thuyền từ Venezuela, cảnh báo ông Maduro",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-my-danh-chim-3-thuyen-tu-venezuela-gui-thong-diep-cho-ong-maduro-185250917073020779.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 16.9 nói rằng lực lượng Mỹ đã 'đánh chìm' tổng cộng ba chiếc tàu từ Venezuela, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:57:00+07:00",
+      "fetched": "2025-09-17T08:11:41.107140+07:00"
+    },
+    {
+      "id": "4940662a849d6239a80be331ab576c2b",
+      "title": "Nhiều iPhone đời cũ không còn sử dụng được iCloud",
+      "link": "https://thanhnien.vn/nhieu-iphone-doi-cu-khong-con-su-dung-duoc-icloud-185250916220609096.htm",
+      "summary": "Apple chính thức ngừng hỗ trợ iCloud trên một loạt thiết bị 'cổ lỗ sỉ', không thể dùng iMessage và sao lưu ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:57:00+07:00",
+      "fetched": "2025-09-17T08:11:41.107309+07:00"
+    },
+    {
+      "id": "c5285632b052618b8be94ff724988088",
+      "title": "Mỹ, Anh chốt thỏa thuận công nghệ trị giá 42 tỉ USD",
+      "link": "https://thanhnien.vn/my-anh-chot-thoa-thuan-cong-nghe-tri-gia-42-ti-usd-185250917072719303.htm",
+      "summary": "Mỹ và Anh ngày 16.9 đã nhất trí về một thỏa thuận công nghệ nhằm thúc đẩy quan hệ trong lĩnh vực trí tuệ nhân tạo (AI), điện toán lượng tử và năng lượng hạt nhân dân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:55:00+07:00",
+      "fetched": "2025-09-17T08:11:41.107463+07:00"
+    },
+    {
+      "id": "7fede6cb82bc58c68a319d87a495d656",
+      "title": "De Zerbi: 'Quả phạt đền thứ hai của Real đáng xấu hổ'",
+      "link": "https://vnexpress.net/de-zerbi-qua-phat-den-thu-hai-cua-real-dang-xau-ho-4939958.html",
+      "summary": "Theo HLV Marseille Roberto de Zerbi, trọng tài không nên thổi quả phạt đền thứ hai giúp Real thắng 2-1 tối 16/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T00:42:05+07:00",
+      "fetched": "2025-09-17T08:11:50.892030+07:00"
+    },
+    {
+      "id": "82a4e99b0c1e161f4ba8a2ae832a347c",
+      "title": "Mbappe: 'Không ai hiểu luật phạt đền'",
+      "link": "https://vnexpress.net/mbappe-khong-ai-hieu-luat-phat-den-4939955.html",
+      "summary": "Kylian Mbappe cho rằng luật chạm bóng bằng tay dẫn tới phạt đền gây khó hiểu cho cầu thủ, như tình huống anh hưởng lợi trước Marseille ở Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:34:12+07:00",
+      "fetched": "2025-09-17T08:11:37.792079+07:00"
+    },
+    {
+      "id": "82a4e99b0c1e161f4ba8a2ae832a347c",
+      "title": "Mbappe: 'Không ai hiểu luật phạt đền'",
+      "link": "https://vnexpress.net/mbappe-khong-ai-hieu-luat-phat-den-4939955.html",
+      "summary": "Kylian Mbappe cho rằng luật chạm bóng bằng tay dẫn tới phạt đền gây khó hiểu cho cầu thủ, như tình huống anh hưởng lợi trước Marseille ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T00:34:12+07:00",
+      "fetched": "2025-09-17T08:11:50.892187+07:00"
+    },
+    {
+      "id": "59469c6da8dab7462bdd60b9b0a2f67f",
+      "title": "TP HCM cần giải ngân gần 600 tỷ đồng vốn đầu tư công mỗi ngày",
+      "link": "https://vnexpress.net/tp-hcm-can-giai-ngan-gan-600-ty-dong-von-dau-tu-cong-moi-ngay-4939945.html",
+      "summary": "TP HCM đã giải ngân hơn 45% vốn đầu tư công, nhưng để hoàn thành kế hoạch thì hơn 3 tháng cuối phải chi được 590 tỷ đồng mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:30:32+07:00",
+      "fetched": "2025-09-17T08:11:37.792305+07:00"
+    },
+    {
+      "id": "59469c6da8dab7462bdd60b9b0a2f67f",
+      "title": "TP HCM cần giải ngân gần 600 tỷ đồng vốn đầu tư công mỗi ngày",
+      "link": "https://vnexpress.net/tp-hcm-can-giai-ngan-gan-600-ty-dong-von-dau-tu-cong-moi-ngay-4939945.html",
+      "summary": "TP HCM đã giải ngân hơn 45% vốn đầu tư công, nhưng để hoàn thành kế hoạch thì hơn 3 tháng cuối phải chi được 590 tỷ đồng mỗi ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-17T00:30:32+07:00",
+      "fetched": "2025-09-17T08:11:45.608160+07:00"
+    },
+    {
+      "id": "9bfc10e87fe9cd8a1b8eaed260292bbe",
+      "title": "Nghi phạm ám sát Charlie Kirk đối mặt án tử hình",
+      "link": "https://vnexpress.net/nghi-pham-am-sat-charlie-kirk-doi-mat-an-tu-hinh-4939965.html",
+      "summary": "Các công tố viên bang Utah cho biết đang đề nghị mức án tử hình đối với Robinson, nghi phạm bắn chết Charlie Kirk tại Đại học Utah Valley.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:28:44+07:00",
+      "fetched": "2025-09-17T08:11:37.792508+07:00"
+    },
+    {
+      "id": "400af4f1d7aaff936a68dcb600f34f12",
+      "title": "Giám đốc FBI đấu khẩu với phe Dân chủ",
+      "link": "https://vnexpress.net/giam-doc-fbi-dau-khau-voi-phe-dan-chu-4939956.html",
+      "summary": "Ông Patel tranh cãi với các nghị sĩ Dân chủ khi điều trần tại Thượng viện Mỹ về vấn đề sa thải đặc vụ FBI và vụ án Epstein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:03:30+07:00",
+      "fetched": "2025-09-17T08:11:37.792677+07:00"
+    },
+    {
+      "id": "400af4f1d7aaff936a68dcb600f34f12",
+      "title": "Giám đốc FBI đấu khẩu với phe Dân chủ",
+      "link": "https://vnexpress.net/giam-doc-fbi-dau-khau-voi-phe-dan-chu-4939956.html",
+      "summary": "Ông Patel tranh cãi với các nghị sĩ Dân chủ khi điều trần tại Thượng viện Mỹ về vấn đề sa thải đặc vụ FBI và vụ án Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T00:03:30+07:00",
+      "fetched": "2025-09-17T08:11:43.731762+07:00"
+    },
+    {
+      "id": "22f028b2defb96bbe25f70f4ae49b9bd",
+      "title": "Smartphone siêu mỏng iPhone Air và Galaxy S25 Edge đọ cấu hình",
+      "link": "https://vnexpress.net/smartphone-sieu-mong-iphone-air-va-galaxy-s25-edge-do-cau-hinh-4938767.html",
+      "summary": "Cùng có khung viền titan nhưng iPhone Air mỏng và màn hình sáng hơn, trong khi S25 Edge nhiều camera và pin dung lượng lớn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.792837+07:00"
+    },
+    {
+      "id": "5ed02e59567ee4c3de3ecc83b7ae650e",
+      "title": "Người đi xe máy chặn đường ôtô lấn làn, bấm còi suốt 10 phút",
+      "link": "https://vnexpress.net/nguoi-di-xe-may-chan-duong-oto-lan-lan-bam-coi-suot-10-phut-4939298.html",
+      "summary": "Ôtô chạy hẳn sang làn ngược chiều để vượt qua hàng dài xe nối đuôi nhau nhưng gặp một người đi xe máy không khoan nhượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.792999+07:00"
+    },
+    {
+      "id": "6abbb43f5857456769f9a823921135ca",
+      "title": "OneRail hợp tác IBM tối ưu quản lý chuỗi cung ứng",
+      "link": "https://vnexpress.net/onerail-hop-tac-ibm-toi-uu-quan-ly-chuoi-cung-ung-4936577.html",
+      "summary": "OneRail tích hợp nền tảng logistics vào bộ giải pháp Sterling Order and Fulfillment Suite của IBM nhằm tăng cường kiểm soát hàng tồn kho, cắt giảm chi phí vận chuyển cho các nhà bán lẻ, phân phối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T00:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.793161+07:00"
+    },
+    {
+      "id": "22f028b2defb96bbe25f70f4ae49b9bd",
+      "title": "Smartphone siêu mỏng iPhone Air và Galaxy S25 Edge đọ cấu hình",
+      "link": "https://vnexpress.net/smartphone-sieu-mong-iphone-air-va-galaxy-s25-edge-do-cau-hinh-4938767.html",
+      "summary": "Cùng có khung viền titan nhưng iPhone Air mỏng và màn hình sáng hơn, trong khi S25 Edge nhiều camera và pin dung lượng lớn hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-17T00:00:00+07:00",
+      "fetched": "2025-09-17T08:11:49.799427+07:00"
+    },
+    {
+      "id": "70f27f547f2b5807390e9fb108b2d5b4",
+      "title": "Thí sinh Olympic quốc tế chuộng ngành học nào?",
+      "link": "https://vnexpress.net/thi-sinh-olympic-quoc-te-chuong-nganh-hoc-nao-4939931.html",
+      "summary": "16/17 học sinh lớp 12 giành huy chương Olympic chọn vào đại học trong nước, phần lớn theo ngành Y khoa và Khoa học máy tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:50:00+07:00",
+      "fetched": "2025-09-17T08:11:37.793353+07:00"
+    },
+    {
+      "id": "6b0c7b2f918b559f927f32b37caa0cf4",
+      "title": "Hương vị Việt hút khách giữa lòng New York",
+      "link": "https://vnexpress.net/huong-vi-viet-hut-khach-giua-long-new-york-4939888.html",
+      "summary": "Dọc từ Chinatown tới Lower East Side, hương vị Việt hiện diện cùng mẹt tre lót lá chuối, bàn ghế nhựa ngoài phố hay những chiếc chén dĩa quen thuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:26:52+07:00",
+      "fetched": "2025-09-17T08:11:37.793512+07:00"
+    },
+    {
+      "id": "2337fb0378ef9db73ddcc9ff7445b6fa",
+      "title": "Điểm tin 6h: Việt Nam đề nghị Nga hợp tác phát triển cơ sở hạ tầng biển | Việt Nam đứng đầu thế giới về xuất khẩu hàng hóa sáng tạo",
+      "link": "https://vnexpress.net/diem-tin-6h-viet-nam-de-nghi-nga-hop-tac-phat-trien-co-so-ha-tang-bien-viet-nam-dung-dau-the-gioi-ve-xuat-khau-hang-hoa-sang-tao-4939957.html",
+      "summary": "Khai trừ 14 đảng viên thuộc Đảng bộ Viện Pháp y tâm thần Trung ương; Đề xuất nhanh chóng ban hành danh mục bệnh hiếm;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:17:26+07:00",
+      "fetched": "2025-09-17T08:11:37.793673+07:00"
+    },
+    {
+      "id": "3316c4d27c614a033e77e142ae875a4a",
+      "title": "Vì sao người trẻ Việt tăng mua nhà dù giá cao?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-tre-viet-tang-mua-nha-du-gia-cao-4939902.html",
+      "summary": "Phương Oanh vừa nhận bàn giao căn hộ 1,6 tỷ đồng tại một chung cư ở Làng đại học Thủ Đức, TP HCM cách đây một tuần ở tuổi 25.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.793828+07:00"
+    },
+    {
+      "id": "b26de35ff3354a7780333472a4281a99",
+      "title": "Ba tháng 'thần đèn' nâng cầu Bình Triệu nặng 11.000 tấn",
+      "link": "https://vnexpress.net/ba-thang-than-den-nang-cau-binh-trieu-nang-11-000-tan-4939897.html",
+      "summary": "Cầu Bình Triệu 1 hơn 50 năm tuổi ở cửa ngõ TP HCM, kết cấu nặng 11.000 tấn, được nâng cao giúp tàu trọng tải lớn có thể thông thương trên sông Sài Gòn, ra vào cảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.793981+07:00"
+    },
+    {
+      "id": "e6ac477ca0800ffac7e2716c17df131e",
+      "title": "Khối ngoại quay lại thị trường chứng khoán Trung Quốc",
+      "link": "https://vnexpress.net/khoi-ngoai-quay-lai-thi-truong-chung-khoan-trung-quoc-4939892.html",
+      "summary": "Sau 3 năm rút lui, vốn ngoại quay lại thị trường chứng khoán Trung Quốc bởi sức hút ngành công nghệ và nhu cầu đa dạng hóa đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.794137+07:00"
+    },
+    {
+      "id": "43bd12b92e625732061e65c6d41b3bee",
+      "title": "Cách băng đảng ở Myanmar dùng ChatGPT để lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/cach-bang-dang-o-myanmar-dung-chatgpt-de-lua-dao-truc-tuyen-4939828.html",
+      "summary": "Trong khu KK Park ở Myanmar, các \"nhân viên\" bị ép dùng ChatGPT để đóng giả làm chủ trang trại, doanh nhân để lừa đảo nhiều nạn nhân ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.794315+07:00"
+    },
+    {
+      "id": "210e4b5f2b08961c9b282af8da572780",
+      "title": "Người phụ nữ mắc hai bệnh hiểm nghèo chạy marathon để sống khỏe",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mac-hai-benh-hiem-ngheo-chay-marathon-de-song-khoe-4937872.html",
+      "summary": "Ở tuổi 40, Phạm Thị Hiền vượt qua những thử thách khắc nghiệt, tăng 8 kg, sống khỏe sau 18 năm phẫu thuật thay van tim và mắc bệnh cường giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:37.794483+07:00"
+    },
+    {
+      "id": "43bd12b92e625732061e65c6d41b3bee",
+      "title": "Cách băng đảng ở Myanmar dùng ChatGPT để lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/cach-bang-dang-o-myanmar-dung-chatgpt-de-lua-dao-truc-tuyen-4939828.html",
+      "summary": "Trong khu KK Park ở Myanmar, các \"nhân viên\" bị ép dùng ChatGPT để đóng giả làm chủ trang trại, doanh nhân để lừa đảo nhiều nạn nhân ở nước ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:43.731939+07:00"
+    },
+    {
+      "id": "e6ac477ca0800ffac7e2716c17df131e",
+      "title": "Khối ngoại quay lại thị trường chứng khoán Trung Quốc",
+      "link": "https://vnexpress.net/khoi-ngoai-quay-lai-thi-truong-chung-khoan-trung-quoc-4939892.html",
+      "summary": "Sau 3 năm rút lui, vốn ngoại quay lại thị trường chứng khoán Trung Quốc bởi sức hút ngành công nghệ và nhu cầu đa dạng hóa đầu tư.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T23:00:00+07:00",
+      "fetched": "2025-09-17T08:11:45.608370+07:00"
+    },
+    {
+      "id": "e74dba72888e251cf1bc6948ac0fe833",
+      "title": "Dortmund rơi điểm dù bốn lần dẫn trước Juventus",
+      "link": "https://vnexpress.net/dortmund-roi-diem-du-bon-lan-dan-truoc-juventus-4939953.html",
+      "summary": "Dortmund liên tục dẫn bàn, nhưng đều bị đội chủ nhà gỡ hòa 4-4 trong trận ra quân vòng bảng Champions League tối 16/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T22:55:03+07:00",
+      "fetched": "2025-09-17T08:11:50.891548+07:00"
     },
     {
       "id": "016eee12fb221e6ca962f6e7ecb85f98",
