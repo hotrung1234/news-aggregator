@@ -1,7 +1,57 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T01:23:59.346281+07:00",
+  "lastUpdated": "2025-09-19T03:18:26.922157+07:00",
   "articles": [
+    {
+      "id": "6f4d58c630ef1ea0867edfd5d77d60b1",
+      "title": "3 đề xuất của Chủ tịch Quốc hội tại AIPA-46",
+      "link": "https://tuoitre.vn/3-de-xuat-cua-chu-tich-quoc-hoi-tai-aipa-46-20250918233013804.htm",
+      "summary": "Tại phiên họp toàn thể Đại hội đồng liên nghị viện ASEAN (AIPA) thứ 46, Chủ tịch Quốc hội Trần Thanh Mẫn đã nêu ba đề xuất mà cơ chế này cần ưu tiên thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:18:21.484218+07:00",
+      "fetched": "2025-09-19T03:18:21.484332+07:00"
+    },
+    {
+      "id": "34738a897e3931b82218e7f780a98a54",
+      "title": "Chủ tịch nước Lương Cường: Việt Nam ủng hộ mạnh mẽ Liên hợp quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-viet-nam-ung-ho-manh-me-lien-hop-quoc-20250918234212885.htm",
+      "summary": "Trước thềm chuyến công tác tới Mỹ, Chủ tịch nước Lương Cường đã tiếp bà Pauline Tamesis, Điều phối viên thường trú Liên hợp quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:18:21.484090+07:00",
+      "fetched": "2025-09-19T03:18:21.484207+07:00"
+    },
+    {
+      "id": "ecdd39ccebe69e2c6b512970ab2546e3",
+      "title": "Ông Macron sẽ nộp bằng chứng khoa học chứng minh vợ mình không phải đàn ông",
+      "link": "https://tuoitre.vn/ong-macron-se-nop-bang-chung-khoa-hoc-chung-minh-vo-minh-khong-phai-dan-ong-20250918234200.htm",
+      "summary": "Luật sư của vợ chồng Tổng thống Pháp Emmanuel Macron cho biết họ sẽ nộp bằng chứng khoa học lên tòa án Mỹ rằng Đệ nhất phu nhân Pháp không phải là nam giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:18:21.483957+07:00",
+      "fetched": "2025-09-19T03:18:21.484078+07:00"
+    },
+    {
+      "id": "597ad95764cd98ee9d9db8858af3b8b2",
+      "title": "CLB Quảng Ninh giữ nguyên tham vọng lên V-League",
+      "link": "https://tuoitre.vn/clb-quang-ninh-giu-nguyen-tham-vong-len-v-league-20250918235728274.htm",
+      "summary": "Bất chấp việc Giải hạng nhất quốc gia 2025 - 2026 giảm suất thăng hạng xuống còn 1,5, trong bối cảnh có thêm đối thủ cạnh tranh, CLB Quảng Ninh vẫn giữ nguyên mục tiêu trở lại sân chơi chuyên nghiệp cao nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:18:21.483786+07:00",
+      "fetched": "2025-09-19T03:18:21.483943+07:00"
+    },
+    {
+      "id": "03655a16022b27c6dfab09a70d16780b",
+      "title": "Trung Quốc tệ nhất nhóm châu Á ở Giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/trung-quoc-te-nhat-nhom-chau-a-o-giai-bong-chuyen-the-gioi-20250918233120402.htm",
+      "summary": "Tối 18-9, Trung Quốc để thua Czech 3 ván trắng ở lượt trận cuối cùng bảng H, Giải vô địch bóng chuyền nam thế giới, qua đó rời giải mà không có điểm nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:18:21.483552+07:00",
+      "fetched": "2025-09-19T03:18:21.483772+07:00"
+    },
     {
       "id": "4d7accfd40151f4609875e5c700f5924",
       "title": "Australia ứng dụng drone và camera nhiệt giám sát động vật nguy cấp",
@@ -151,6 +201,16 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T01:23:53.088993+07:00",
       "fetched": "2025-09-19T01:23:53.089218+07:00"
+    },
+    {
+      "id": "00e5c4a32071b58d4a34143f489835dd",
+      "title": "6 triệu chứng tăng huyết áp thường bị bỏ qua",
+      "link": "https://vnexpress.net/6-trieu-chung-tang-huyet-ap-thuong-bi-bo-qua-4938819.html",
+      "summary": "Tăng huyết áp có thể gây đau đầu, mờ mắt, khó thở, đau ngực, chảy máu cam, nước tiểu có bọt, cần chú ý sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T19:00:00+07:00",
+      "fetched": "2025-09-19T03:18:17.907489+07:00"
     },
     {
       "id": "3135496930bb5142522f42885c3e11cd",
