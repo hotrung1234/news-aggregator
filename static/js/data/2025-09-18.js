@@ -1,7 +1,157 @@
 window.newsData_2025_09_18 = {
   "date": "2025-09-18",
-  "lastUpdated": "2025-09-18T13:24:12.823203+07:00",
+  "lastUpdated": "2025-09-18T15:21:44.436860+07:00",
   "articles": [
+    {
+      "id": "57952020d61b20696af48f2c90870c08",
+      "title": "Trưởng thôn không tư lợi vẫn bị phạt tù",
+      "link": "https://tuoitre.vn/truong-thon-khong-tu-loi-van-bi-phat-tu-20250918095119588.htm",
+      "summary": "Trong buổi họp tại nhà văn hóa do trưởng thôn Nguyễn Duy Thanh chủ trì, 106 hộ dân đồng loạt giơ tay biểu quyết đồng ý việc nhận bàn giao đất mở rộng nghĩa trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055986+07:00",
+      "fetched": "2025-09-18T15:21:36.056095+07:00"
+    },
+    {
+      "id": "6743ecb6084f397b36e747adf13d6c7f",
+      "title": "Hơn 3.500 tỉ đồng làm đường liên phường Thới An - Thạnh Xuân ở cửa ngõ Tây Bắc TP.HCM",
+      "link": "https://tuoitre.vn/hon-3-500-ti-dong-lam-duong-lien-phuong-thoi-an-thanh-xuan-o-cua-ngo-tay-bac-tp-hcm-20250918122701725.htm",
+      "summary": "Dự án đường liên phường Thới An - Thạnh Xuân dài gần 4,5km, vốn hơn 3.500 tỉ đồng, sẽ tạo trục giao thông mới cho cửa ngõ Tây Bắc TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055864+07:00",
+      "fetched": "2025-09-18T15:21:36.055974+07:00"
+    },
+    {
+      "id": "b5109be6fdda3343426396b7cf47b44b",
+      "title": "'Không hối hận vì đã cứu bạn': Niềm tin vào tính thiện giữa đau thương",
+      "link": "https://tuoitre.vn/khong-hoi-han-vi-da-cuu-ban-niem-tin-vao-tinh-thien-giua-dau-thuong-20250918100341147.htm",
+      "summary": "\"Cháu vẫn rất sợ nhưng không hối hận vì đã cứu bạn\". Câu nói không hề đơn giản chút nào của T.C.K. (12 tuổi), người đã cứu cậu bạn hàng xóm thoát khỏi cái chết trong vụ thảm án tại Đắk Lắk hôm 13-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055739+07:00",
+      "fetched": "2025-09-18T15:21:36.055852+07:00"
+    },
+    {
+      "id": "f4367c0721680f89c610c9dc7bdead6b",
+      "title": "Steve Koyle - nửa cuộc đời làm bạn cùng voi",
+      "link": "https://tuoitre.vn/steve-koyle-nua-cuoc-doi-lam-ban-cung-voi-20250918102939038.htm",
+      "summary": "Trong suốt 24 năm, Steve Koyle là bạn đồng hành với những con voi ở tám quốc gia. Tuổi Trẻ đã có cuộc trò chuyện với ông về hành trình này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055610+07:00",
+      "fetched": "2025-09-18T15:21:36.055728+07:00"
+    },
+    {
+      "id": "20e9d39670a06f873efa8d316cde8dbe",
+      "title": "Phim kinh dị Việt có thoái trào?",
+      "link": "https://tuoitre.vn/phim-kinh-di-viet-co-thoai-trao-20250918093206066.htm",
+      "summary": "Phim kinh dị là một trong những trụ cột của phòng vé Việt, chiếm gần một nửa số phim ra rạp mỗi năm nhưng chất lượng và doanh thu còn trồi sụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055467+07:00",
+      "fetched": "2025-09-18T15:21:36.055597+07:00"
+    },
+    {
+      "id": "1acb38743e1b6ebc44ddede9743e063a",
+      "title": "Trung Quốc thua xiểng liểng ở giải cầu lông sân nhà",
+      "link": "https://tuoitre.vn/trung-quoc-thua-xieng-lieng-o-giai-cau-long-san-nha-20250918113107014.htm",
+      "summary": "Các tay vợt Trung Quốc liên tiếp bại trận ở China Masters 2025 - giải cầu lông nằm trong nhóm các giải danh giá bậc nhất của BWF.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055344+07:00",
+      "fetched": "2025-09-18T15:21:36.055455+07:00"
+    },
+    {
+      "id": "ae7ff0cb98874a9e93149bdb00c03b80",
+      "title": "Lý do khiến HLV Luis Enrique chỉ đạo theo phong cách 'độc nhất vô nhị'",
+      "link": "https://tuoitre.vn/li-do-khien-hlv-luis-enrique-chi-dao-theo-phong-cach-doc-nhat-vo-nhi-20250918114823401.htm",
+      "summary": "HLV Luis Enrique (PSG) tiếp tục áp dụng chiến thuật chỉ đạo “độc nhất vô nhị” trong chiến thắng 4-0 của PSG trước Atalanta vào rạng sáng 18-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055219+07:00",
+      "fetched": "2025-09-18T15:21:36.055331+07:00"
+    },
+    {
+      "id": "a962987404ab77f23cc9b4af16f78995",
+      "title": "Đại hội Đảng bộ tỉnh Khánh Hòa không nhận hoa chúc mừng",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-tinh-khanh-hoa-khong-nhan-hoa-chuc-mung-20250918123746419.htm",
+      "summary": "Ban Thường vụ Tỉnh ủy Khánh Hòa thông báo đến các cơ quan, địa phương, đơn vị về việc không nhận hoa chúc mừng Đại hội đại biểu Đảng bộ tỉnh lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.055095+07:00",
+      "fetched": "2025-09-18T15:21:36.055208+07:00"
+    },
+    {
+      "id": "e43bb3056068236d984a921841440df9",
+      "title": "Khai mạc chặng 1 Giải golf Vietnam Legends Championship 2025",
+      "link": "https://tuoitre.vn/khai-mac-chang-1-giai-golf-vietnam-legends-championship-2025-20250918130349402.htm",
+      "summary": "Trưa 18-9, chặng 1 của Giải golf Vietnam Legends Championship 2025 \"Race to Legends\" đã khởi tranh tại sân Dalat Palace Golf Club.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054971+07:00",
+      "fetched": "2025-09-18T15:21:36.055083+07:00"
+    },
+    {
+      "id": "31d77eaa1d5223a4b313bc6679308d68",
+      "title": "Thế giới vừa mất đi một huyền thoại rực rỡ",
+      "link": "https://tuoitre.vn/the-gioi-vua-mat-di-mot-huyen-thoai-ruc-ro-20250918093818659.htm",
+      "summary": "Ngày 16-9, Robert Redford trút hơi thở cuối cùng ở tuổi 89. Sự ra đi của ông không chỉ để lại khoảng trống trong lòng khán giả mà còn khép lại một chương rực rỡ của điện ảnh Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054844+07:00",
+      "fetched": "2025-09-18T15:21:36.054959+07:00"
+    },
+    {
+      "id": "96b8fc719c95d310703ea027045a051f",
+      "title": "Son Heung Min lập hattrick giúp Los Angeles FC đè bẹp đối thủ",
+      "link": "https://tuoitre.vn/son-heung-min-lap-hattrick-giup-los-angeles-fc-de-bep-doi-thu-20250918115353314.htm",
+      "summary": "Cựu đội trưởng Tottenham Son Heung Min đã có ngày thi đấu rực sáng, ghi cú hattrick giúp Los Angeles FC chiến thắng thuyết phục trước đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054716+07:00",
+      "fetched": "2025-09-18T15:21:36.054832+07:00"
+    },
+    {
+      "id": "6d8230e3df77d85300f882528c3d39cb",
+      "title": "Khánh thành tổ máy số 1 nhà máy nhiệt điện có mức đầu tư 2,2 tỉ USD",
+      "link": "https://tuoitre.vn/khanh-thanh-to-may-so-1-nha-may-nhiet-dien-co-muc-dau-tu-2-2-ti-usd-20250918112440258.htm",
+      "summary": "Nhà máy nhiệt điện Vũng Áng II sử dụng công nghệ lò hơi siêu tới hạn tiên tiến nhất, cùng hệ thống giảm phát thải được sử dụng rộng rãi tại Nhật Bản và Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054584+07:00",
+      "fetched": "2025-09-18T15:21:36.054704+07:00"
+    },
+    {
+      "id": "27e7aa9afdea736803e74474d9bbca1a",
+      "title": "Xây cầu Cần Thơ 2 kết hợp đường bộ, đường sắt tiết kiệm khoảng 5.000 tỉ đồng",
+      "link": "https://tuoitre.vn/xay-cau-can-tho-2-ket-hop-duong-bo-duong-sat-tiet-kiem-khoang-5-000-ti-dong-20250918113140258.htm",
+      "summary": "Lãnh đạo Bộ Xây dựng thống nhất phương án xây dựng cầu Cần Thơ 2 kết hợp đường bộ và đường sắt vượt sông Hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054430+07:00",
+      "fetched": "2025-09-18T15:21:36.054571+07:00"
+    },
+    {
+      "id": "3a8b03d9366164724ac77fc3d8bbc2b1",
+      "title": "Người hóc dị vật cao 1,7m, người 'nấm lùn' sơ cứu bằng cách nào?",
+      "link": "https://tuoitre.vn/nguoi-hoc-di-vat-cao-1-7m-nguoi-nam-lun-so-cuu-bang-cach-nao-20250918122816202.htm",
+      "summary": "Việc trang bị kiến thức và kỹ năng sơ cấp cứu là vô cùng quan trọng, giúp cứu sống nạn nhân và ngăn ngừa diễn biến xấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054289+07:00",
+      "fetched": "2025-09-18T15:21:36.054417+07:00"
+    },
+    {
+      "id": "f2bee642569017dc5bf8fbb80feb6a83",
+      "title": "Điều gì xảy ra với cơ thể khi bạn uống quá nhiều vitamin?",
+      "link": "https://tuoitre.vn/dieu-gi-xay-ra-voi-co-the-khi-ban-uong-qua-nhieu-vitamin-20250917210649904.htm",
+      "summary": "Cung cấp đủ vitamin để cơ thể hoạt động bình thường rất cần thiết, nhưng uống quá nhiều có thể gây ngộ độc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T15:21:36.054070+07:00",
+      "fetched": "2025-09-18T15:21:36.054274+07:00"
+    },
     {
       "id": "44e0208e62809aaa6cae09bab38ff110",
       "title": "Tin tức giá xe: Mercedes-Benz S 450 giảm giá tới 600 triệu đồng tại đại lý",
@@ -303,6 +453,26 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T09:55:07.413204+07:00"
     },
     {
+      "id": "bca12f858d01db2cc1147c5fd6b3fd97",
+      "title": "Những nhân tố mới bất ngờ của đội tuyển Việt Nam, nước cờ mạo hiểm của ông Kim?",
+      "link": "https://thanhnien.vn/nhung-nhan-to-moi-bat-ngo-cua-doi-tuyen-viet-nam-nuoc-co-mao-hiem-cua-ong-kim-18525091813564422.htm",
+      "summary": "Các vòng đấu sắp diễn ra ở V-League mang tính bản lề, ảnh hưởng đến danh sách tập trung đội tuyển Việt Nam, chuẩn bị cho các trận đấu vòng loại Asian Cup 2027 diễn ra trong tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:17:00+07:00",
+      "fetched": "2025-09-18T15:21:34.553706+07:00"
+    },
+    {
+      "id": "6b1005f0b149d5f82d448cf43fdcee12",
+      "title": "Bất ngờ 255 bệnh nhân được điều trị tán sỏi thận lúc máy hỏng",
+      "link": "https://thanhnien.vn/bat-ngo-255-benh-nhan-duoc-dieu-tri-tan-soi-than-luc-may-hong-185250918150859372.htm",
+      "summary": "Mặc dù máy tán sỏi thận laser bị hỏng từ cuối năm 2023 nhưng cán bộ Bệnh viện đa khoa vùng Tây Nguyên (Đắk Lắk) vẫn điều trị cho 255 bệnh nhân và lập hồ sơ báo cáo sai dịch vụ trong năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:16:00+07:00",
+      "fetched": "2025-09-18T15:21:34.553888+07:00"
+    },
+    {
       "id": "e8ae8f9b2db7fae0eadcd9614462ccbd",
       "title": "Thời tiết hôm nay 18-9: Áp thấp vào Biển Đông, khả năng có bão, cả nước mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-18-9-ap-thap-vao-bien-dong-kha-nang-co-bao-ca-nuoc-mua-to-20250917163808442.htm",
@@ -383,6 +553,336 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T08:11:56.036886+07:00"
     },
     {
+      "id": "4b79eea1aa273fedd4347bf46cd3c561",
+      "title": "4 loại súng tiểu liên STV do Việt Nam sản xuất có gì đặc biệt?",
+      "link": "https://thanhnien.vn/4-loai-sung-tieu-lien-stv-do-viet-nam-san-xuat-co-gi-dac-biet-185250918144644064.htm",
+      "summary": "Những năm qua, công nghiệp quốc phòng Việt Nam đã sản xuất được nhiều mẫu súng tiểu liên. Trong đó, súng STV đáp ứng yêu cầu huấn luyện, sẵn sàng chiến đấu của quân đội đang được sản xuất hàng loạt, thay thế súng AK47.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:08:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554050+07:00"
+    },
+    {
+      "id": "18600855a63512a9d0bc984e0e019733",
+      "title": "Áp thấp nhiệt đới mạnh lên thành bão số 8, tên quốc tế là Mitag",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-manh-len-thanh-bao-so-8-ten-quoc-te-la-mitag-185250918150552834.htm",
+      "summary": "Theo thông tin từ Trung tâm Dự báo khí tượng thủy văn quốc gia, trưa 18.9.2025, áp thấp nhiệt đới trên Biển Đông đã mạnh lên thành cơn bão số 8, có tên quốc tế là Mitag.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:07:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554208+07:00"
+    },
+    {
+      "id": "0af54d23201c9714170ee0010573df86",
+      "title": "Nhật Bản lần đầu đưa chiến đấu cơ đến châu Âu, Canada",
+      "link": "https://thanhnien.vn/nhat-ban-lan-dau-dua-chien-dau-co-den-chau-au-canada-185250918142843759.htm",
+      "summary": "Động thái quân sự gần đây của Nhật Bản đánh dấu lần đầu tiên chiến đấu cơ nước này được triển khai đến Canada và châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:07:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554373+07:00"
+    },
+    {
+      "id": "ea2bba66c2342ac1b38901ca85e99f2b",
+      "title": "Hàng loạt cây xanh tại dự án đường hơn 370 tỉ đồng chết như củi khô",
+      "link": "https://thanhnien.vn/hang-loat-cay-xanh-tai-du-an-duong-hon-370-ti-dong-chet-nhu-cui-kho-185250918140811955.htm",
+      "summary": "Hàng loạt cây xanh trên dự án đường Phú Mỹ - Thuận An (TP.Huế), một dự án giao thông trọng điểm tại TP.Huế với tổng mức đầu tư hơn 370 tỉ đồng đang chết khô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:00:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554554+07:00"
+    },
+    {
+      "id": "82e4b6c33d970f72a30471164a9b431e",
+      "title": "Gieo lành - Truyện ngắn dự thi của Cao Minh Tèo",
+      "link": "https://thanhnien.vn/gieo-lanh-truyen-ngan-du-thi-cua-cao-minh-teo-18525091211345656.htm",
+      "summary": "Bụng Tám cồn cào đói. Tám đếm đi đếm lại mấy tờ tiền. Tám thở dài, nghe khô khốc…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T08:00:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554719+07:00"
+    },
+    {
+      "id": "2b67eebf81861f6b0cd39b07ddb43f1d",
+      "title": "Giá xăng dầu đồng loạt tăng",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-tang-185250918145336599.htm",
+      "summary": "Giá xăng dầu đồng loạt tăng từ 15 giờ chiều nay 18.9. Trong đó, giá xăng tăng từ 208 - 230 đồng/lít, giá dầu tăng 40 - 176 đồng/lít/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:56:00+07:00",
+      "fetched": "2025-09-18T15:21:34.554874+07:00"
+    },
+    {
+      "id": "5b17f6614ccbb39e352858c92ca42c3f",
+      "title": "Doanh nghiệp kiến nghị sửa luật, gỡ vướng cho kinh tế tuần hoàn",
+      "link": "https://thanhnien.vn/doanh-nghiep-kien-nghi-sua-luat-go-vuong-cho-kinh-te-tuan-hoan-185250918134526699.htm",
+      "summary": "Các doanh nghiệp kiến nghị sửa đổi luật Bảo vệ môi trường có thêm điều khoản liên quan đến trách nhiệm tái chế của tổ chức, cá nhân sản xuất, nhập khẩu để thúc đẩy ngành tái chế tại Việt Nam phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:52:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555026+07:00"
+    },
+    {
+      "id": "e668c77e5110f36c1b70d84ed9490c56",
+      "title": "Bão số 8 ảnh hưởng ra sao đến thời tiết Việt Nam?",
+      "link": "https://thanhnien.vn/bao-so-8-anh-huong-ra-sao-den-thoi-tiet-viet-nam-185250918144159208.htm",
+      "summary": "Áp thấp nhiệt đới trên Biển Đông đã mạnh lên thành bão số 8, dự báo đi vào đất liền Trung Quốc nhưng sẽ có ảnh hưởng, tác động đến thời tiết trên biển và đất liền Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:50:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555175+07:00"
+    },
+    {
+      "id": "947811ce6eefa3383f0ad1d07bff25b6",
+      "title": "Nên giữ hay bỏ phương thức xét tuyển ĐH bằng điểm học bạ?",
+      "link": "https://thanhnien.vn/nen-giu-hay-bo-phuong-thuc-xet-tuyen-dh-bang-diem-hoc-ba-185250918142132661.htm",
+      "summary": "Việc Bộ GD-ĐT đưa ra khảo sát lấy ý kiến về việc có nên duy trì phương thức xét tuyển ĐH bằng kết quả học tập THPT (học bạ) đang thu hút sự quan tâm của hiệu trưởng, giáo viên và học sinh các trường THPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:49:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555336+07:00"
+    },
+    {
+      "id": "7904b3db4dd25fcadff90c6266ec5677",
+      "title": "5 loại trái cây ăn thay bữa phụ giúp giảm mỡ bụng",
+      "link": "https://thanhnien.vn/5-loai-trai-cay-an-thay-bua-phu-giup-giam-mo-bung-185250918134259539.htm",
+      "summary": "Trái cây tươi có ưu điểm là giàu chất xơ, nước, ít calo, giàu vitamin, khoáng chất và chất chống ô xy hóa. Nhờ đó, chúng giúp tăng cảm giác no, giảm mỡ bụng và rất phù hợp ăn trong bữa phụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:49:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555509+07:00"
+    },
+    {
+      "id": "43548512a45dd514302d41f5befa0662",
+      "title": "Phó thủ tướng yêu cầu hỗ trợ tài chính cho người dân chuyển đổi phương tiện xanh",
+      "link": "https://thanhnien.vn/pho-thu-tuong-yeu-cau-ho-tro-tai-chinh-cho-nguoi-dan-chuyen-doi-phuong-tien-xanh-185250918142918097.htm",
+      "summary": "Các chính sách hỗ trợ tài chính để người dân chuyển đổi sang phương tiện xanh được Chính phủ yêu cầu xây dựng ngay trong quý 4 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:38:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555673+07:00"
+    },
+    {
+      "id": "0acedf76b4521bf8662499a570935484",
+      "title": "Giá xăng vượt 20.500 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-vuot-20-500-dong-mot-lit-4940554.html",
+      "summary": "Giá xăng, dầu cùng tăng từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T07:33:58+07:00",
+      "fetched": "2025-09-18T15:21:39.287706+07:00"
+    },
+    {
+      "id": "26aa38248de99646cc8952f0284ac7db",
+      "title": "Thẩm phán Mỹ ra lệnh trục xuất thủ lĩnh phong trào biểu tình ủng hộ Palestine",
+      "link": "https://vnexpress.net/tham-phan-my-ra-lenh-truc-xuat-thu-linh-phong-trao-bieu-tinh-ung-ho-palestine-4940556.html",
+      "summary": "Thẩm phán bang Louisiana ra lệnh trục xuất thủ lĩnh phong trào biểu tình ủng hộ Palestine, Mahmoud Khalil, do \"cố tình khai man\" trong đơn xin cấp thẻ xanh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T07:33:55+07:00",
+      "fetched": "2025-09-18T15:21:37.761536+07:00"
+    },
+    {
+      "id": "a60fb5c07941dcc6c60501e24840e189",
+      "title": "38 triệu người dùng trở thành nạn nhân của 224 ứng dụng Android độc hại",
+      "link": "https://thanhnien.vn/38-trieu-nguoi-dung-tro-thanh-nan-nhan-cua-224-ung-dung-android-doc-hai-185250918100148792.htm",
+      "summary": "Chiến dịch độc hại SlopAds được lây lan bởi 224 ứng dụng Android được tải xuống đến 38 triệu lượt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:29:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555836+07:00"
+    },
+    {
+      "id": "4a23facd9a5479277426fdc447bf5d8f",
+      "title": "Lừa đảo chiếm đoạt gần 5 tỉ đồng, nữ chủ hụi lãnh án 12 năm tù",
+      "link": "https://thanhnien.vn/lua-dao-chiem-doat-gan-5-ti-dong-nu-chu-hui-lanh-an-12-nam-tu-185250918141253241.htm",
+      "summary": "Công an tỉnh Bạc Liêu cũ xác định Bích mở tổng cộng 19 dây hụi khống, lừa đảo chiếm đoạt tài sản của hơn 90 bị hại, với tổng số tiền gần 5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:26:00+07:00",
+      "fetched": "2025-09-18T15:21:34.555987+07:00"
+    },
+    {
+      "id": "0426751fcbf62f7d1ce5427e5306a09e",
+      "title": "Việt Nam muốn trở thành cầu nối về tri thức, công nghệ",
+      "link": "https://vnexpress.net/viet-nam-muon-tro-thanh-cau-noi-ve-tri-thuc-cong-nghe-4940653.html",
+      "summary": "Theo Bộ Khoa học và Công nghệ, Việt Nam muốn trở thành cầu nối, kết nối tri thức, thị trường và chuỗi cung ứng giữa ASEAN và Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:09:04+07:00",
+      "fetched": "2025-09-18T15:20:44.165358+07:00"
+    },
+    {
+      "id": "0426751fcbf62f7d1ce5427e5306a09e",
+      "title": "Việt Nam muốn trở thành cầu nối về tri thức, công nghệ",
+      "link": "https://vnexpress.net/viet-nam-muon-tro-thanh-cau-noi-ve-tri-thuc-cong-nghe-4940653.html",
+      "summary": "Theo Bộ Khoa học và Công nghệ, Việt Nam muốn trở thành cầu nối, kết nối tri thức, thị trường và chuỗi cung ứng giữa ASEAN và Trung Quốc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T07:09:04+07:00",
+      "fetched": "2025-09-18T15:21:42.391425+07:00"
+    },
+    {
+      "id": "a9df9c025aacc3d25370b7c1736fcb31",
+      "title": "Khánh thành tổ máy 1 nhà máy nhiệt điện 2,2 tỷ USD tại khu kinh tế Vũng Áng",
+      "link": "https://vnexpress.net/khanh-thanh-to-may-1-nha-may-nhiet-dien-2-2-ty-usd-tai-khu-kinh-te-vung-ang-4940644.html",
+      "summary": "Tổ máy số 1 của dự án nhà máy nhiệt điện BOT Vũng Áng II được đưa vào vận hành sau 4 năm thi công, xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:06:50+07:00",
+      "fetched": "2025-09-18T15:20:44.165566+07:00"
+    },
+    {
+      "id": "a9df9c025aacc3d25370b7c1736fcb31",
+      "title": "Khánh thành tổ máy 1 nhà máy nhiệt điện 2,2 tỷ USD tại khu kinh tế Vũng Áng",
+      "link": "https://vnexpress.net/khanh-thanh-to-may-1-nha-may-nhiet-dien-2-2-ty-usd-tai-khu-kinh-te-vung-ang-4940644.html",
+      "summary": "Tổ máy số 1 của dự án nhà máy nhiệt điện BOT Vũng Áng II được đưa vào vận hành sau 4 năm thi công, xây dựng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T07:06:50+07:00",
+      "fetched": "2025-09-18T15:21:39.289551+07:00"
+    },
+    {
+      "id": "7e9e89ee1f0b4b5847f9d1b6635cd025",
+      "title": "Thi thể thiếu nữ bị giấu trong cốp xe của ca sĩ nổi tiếng",
+      "link": "https://vnexpress.net/thi-the-thieu-nu-bi-giau-trong-cop-xe-cua-ca-si-noi-tieng-4940540.html",
+      "summary": "Chính quyền California đã xác định được danh tính của thiếu nữ bị phân xác, khóa kín trong cốp xe Tesla đăng ký dưới tên nam ca sĩ D4vd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:03:07+07:00",
+      "fetched": "2025-09-18T15:20:44.165737+07:00"
+    },
+    {
+      "id": "24f9692d8c2af365ba8384c5b18ff1b3",
+      "title": "Nvidia tiếp tục gặp bất lợi tại Trung Quốc",
+      "link": "https://vnexpress.net/nvidia-tiep-tuc-gap-bat-loi-tai-trung-quoc-4940621.html",
+      "summary": "Cơ quan Quản lý Không gian mạng Trung Quốc (CAC) được cho là yêu cầu nhiều công ty, như ByteDance và Alibaba, không mua chip AI do Nvidia sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:20:44.165898+07:00"
+    },
+    {
+      "id": "20d2efef9591f1b5908fecb8c3bbf167",
+      "title": "Lý do Bitcoin lặng sóng sau khi Fed giảm lãi suất",
+      "link": "https://vnexpress.net/gia-bitcoin-hom-nay-vi-sao-btc-lang-song-sau-khi-fed-giam-lai-suat-4940525.html",
+      "summary": "Nhiều nhà đầu tư đã đoán trước động thái của Fed nên không xuất hiện tâm lý FOMO (sợ bị bỏ lỡ), khiến giá Bitcoin đi ngang khi lãi suất được cắt giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:20:44.166055+07:00"
+    },
+    {
+      "id": "d8852d157199add35621d24aed9c530e",
+      "title": "Những khách sạn kỳ quặc nhưng hút khách ở châu Âu",
+      "link": "https://vnexpress.net/nhung-khach-san-ky-quac-nhung-hut-khach-o-chau-au-4940383.html",
+      "summary": "Du khách châu Âu ngày càng tìm kiếm những trải nghiệm lưu trú độc đáo, từ phòng nghỉ ngoài trời, ngủ trong cần cẩu, đến cả nhà tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:20:44.166209+07:00"
+    },
+    {
+      "id": "7b8b7240b6ef1e7a13e46d0942cc00b4",
+      "title": "5 đồ uống bổ máu",
+      "link": "https://vnexpress.net/5-do-uong-bo-mau-4940582.html",
+      "summary": "Nước cam có chứa chất sắt cùng lượng vitamin C dồi dào giúp cơ thể tăng cường hấp thụ sắt, phòng thiếu máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:20:44.166362+07:00"
+    },
+    {
+      "id": "20d2efef9591f1b5908fecb8c3bbf167",
+      "title": "Lý do Bitcoin lặng sóng sau khi Fed giảm lãi suất",
+      "link": "https://vnexpress.net/gia-bitcoin-hom-nay-vi-sao-btc-lang-song-sau-khi-fed-giam-lai-suat-4940525.html",
+      "summary": "Nhiều nhà đầu tư đã đoán trước động thái của Fed nên không xuất hiện tâm lý FOMO (sợ bị bỏ lỡ), khiến giá Bitcoin đi ngang khi lãi suất được cắt giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:21:39.287888+07:00"
+    },
+    {
+      "id": "24f9692d8c2af365ba8384c5b18ff1b3",
+      "title": "Nvidia tiếp tục gặp bất lợi tại Trung Quốc",
+      "link": "https://vnexpress.net/nvidia-tiep-tuc-gap-bat-loi-tai-trung-quoc-4940621.html",
+      "summary": "Cơ quan Quản lý Không gian mạng Trung Quốc (CAC) được cho là yêu cầu nhiều công ty, như ByteDance và Alibaba, không mua chip AI do Nvidia sản xuất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T07:00:00+07:00",
+      "fetched": "2025-09-18T15:21:42.390269+07:00"
+    },
+    {
+      "id": "de11ad53975fb8a7502679710352f4f2",
+      "title": "Định kiến mẹ kế con chồng",
+      "link": "https://vnexpress.net/dinh-kien-me-ke-con-chong-4940630.html",
+      "summary": "Sarah rất quyết tâm xây dựng một gia đình hạnh phúc sau khi kết hôn với người đàn ông có hai con, nhưng cô sớm nhận ra thực tế phức tạp hơn nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:54:43+07:00",
+      "fetched": "2025-09-18T15:20:44.166586+07:00"
+    },
+    {
+      "id": "047fe146e59fdac2bef15d4eeffa9c95",
+      "title": "VĐV bóng chuyền Đặng Thị Hồng tìm hướng mưu sinh",
+      "link": "https://vnexpress.net/vdv-bong-chuyen-dang-thi-hong-tim-huong-muu-sinh-4940648.html",
+      "summary": "Án cấm của Liên đoàn bóng chuyền thế giới (FIVB) buộc Đặng Thị Hồng phải tính toán một hướng đi mới trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:53:10+07:00",
+      "fetched": "2025-09-18T15:20:44.166752+07:00"
+    },
+    {
+      "id": "047fe146e59fdac2bef15d4eeffa9c95",
+      "title": "VĐV bóng chuyền Đặng Thị Hồng tìm hướng mưu sinh",
+      "link": "https://vnexpress.net/vdv-bong-chuyen-dang-thi-hong-tim-huong-muu-sinh-4940648.html",
+      "summary": "Án cấm của Liên đoàn bóng chuyền thế giới (FIVB) buộc Đặng Thị Hồng phải tính toán một hướng đi mới trong tương lai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T06:53:10+07:00",
+      "fetched": "2025-09-18T15:21:44.426693+07:00"
+    },
+    {
+      "id": "5824ef279757ac2982e770f2d3b2494d",
+      "title": "Cuộc sống bên trong ngôi làng 'mất trí nhớ' ở Hà Lan",
+      "link": "https://vnexpress.net/cuoc-song-ben-trong-ngoi-lang-mat-tri-nho-o-ha-lan-4940518.html",
+      "summary": "Hogeweyk, ngôi làng có siêu thị, nhà hát, quảng trường nhưng thực chất là viện dưỡng lão, nơi gần 200 người già sa sút trí tuệ sống hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:46:56+07:00",
+      "fetched": "2025-09-18T15:20:44.166912+07:00"
+    },
+    {
+      "id": "46fed797e038b67d497eb75a7fe98bb0",
+      "title": "Trung Quốc ra mắt UAV chế tạo từ tiêm kích 'bản sao MiG-19'",
+      "link": "https://vnexpress.net/trung-quoc-ra-mat-uav-che-tao-tu-tiem-kich-ban-sao-mig-19-4940568.html",
+      "summary": "UAV chế tạo trên cơ sở hoán cải tiêm kích J-6, bản sao của dòng MiG-19, xuất hiện tại triển lãm hàng không ở thành phố Trường Xuân, Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:38:54+07:00",
+      "fetched": "2025-09-18T15:20:44.167076+07:00"
+    },
+    {
+      "id": "46fed797e038b67d497eb75a7fe98bb0",
+      "title": "Trung Quốc ra mắt UAV chế tạo từ tiêm kích 'bản sao MiG-19'",
+      "link": "https://vnexpress.net/trung-quoc-ra-mat-uav-che-tao-tu-tiem-kich-ban-sao-mig-19-4940568.html",
+      "summary": "UAV chế tạo trên cơ sở hoán cải tiêm kích J-6, bản sao của dòng MiG-19, xuất hiện tại triển lãm hàng không ở thành phố Trường Xuân, Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T06:38:54+07:00",
+      "fetched": "2025-09-18T15:21:37.761720+07:00"
+    },
+    {
+      "id": "3660ce1dad9a815e4d356c6f722f21ff",
+      "title": "Tỷ lệ giảng viên là giáo sư, tiến sĩ cao nhất từ trước tới nay",
+      "link": "https://vnexpress.net/ty-le-giang-vien-la-giao-su-tien-si-cao-nhat-tu-truoc-toi-nay-4940563.html",
+      "summary": "Khoảng 33.500 giảng viên đại học ở Việt Nam là tiến sĩ, giáo sư, phó giáo sư, chiếm 35% tổng số, là tỷ lệ cao nhất từ trước tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:22:58+07:00",
+      "fetched": "2025-09-18T15:20:44.167229+07:00"
+    },
+    {
       "id": "e012b058d81ab8718b4ea249db77ae28",
       "title": "Bí thư Thành ủy Đà Nẵng: 'Không có lý do gì chúng ta chùn bước…'",
       "link": "https://thanhnien.vn/bi-thu-thanh-uy-da-nang-khong-co-ly-do-gi-chung-ta-chun-buoc-185250918115019637.htm",
@@ -391,6 +891,56 @@ window.newsData_2025_09_18 = {
       "category": "Tổng hợp",
       "published": "2025-09-18T06:22:00+07:00",
       "fetched": "2025-09-18T13:24:02.431246+07:00"
+    },
+    {
+      "id": "fb1bb406fec19d18079e7ae8be59a816",
+      "title": "Dragon Capital 'chốt lời' cổ phiếu Thế Giới Di Động",
+      "link": "https://vnexpress.net/dragon-capital-chot-loi-co-phieu-the-gioi-di-dong-4940642.html",
+      "summary": "Nhóm quỹ do Dragon Capital quản lý bán ròng gần 3,3 triệu cổ phiếu MWG khi mã chứng khoán của Thế Giới Di Động lập đỉnh thị giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:15:28+07:00",
+      "fetched": "2025-09-18T15:20:44.167385+07:00"
+    },
+    {
+      "id": "fb1bb406fec19d18079e7ae8be59a816",
+      "title": "Dragon Capital 'chốt lời' cổ phiếu Thế Giới Di Động",
+      "link": "https://vnexpress.net/dragon-capital-chot-loi-co-phieu-the-gioi-di-dong-4940642.html",
+      "summary": "Nhóm quỹ do Dragon Capital quản lý bán ròng gần 3,3 triệu cổ phiếu MWG khi mã chứng khoán của Thế Giới Di Động lập đỉnh thị giá.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T06:15:28+07:00",
+      "fetched": "2025-09-18T15:21:39.288055+07:00"
+    },
+    {
+      "id": "6fd41572a4301cdbf4ce9634cf421fa2",
+      "title": "Giữa muôn vàn số 8, bạn có thấy số 0 ở đâu?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-giua-muon-van-so-8-ban-co-thay-so-0-o-dau-4940541.html",
+      "summary": "Chỉ một con số bé nhỏ, lẩn khuất giữa biển số 8, nhưng lại khiến hàng nghìn người căng mắt để truy tìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:15:00+07:00",
+      "fetched": "2025-09-18T15:20:44.167569+07:00"
+    },
+    {
+      "id": "f22f010622611993d200fde5d145eb76",
+      "title": "Công ty của ông Trần Bá Dương năm ngoái lãi hơn 3.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-ong-tran-ba-duong-nam-ngoai-lai-hon-3-000-ty-dong-4940643.html",
+      "summary": "Tập đoàn Trường Hải do ông Trần Bá Dương làm Chủ tịch lãi trước thuế năm ngoái 3.445 tỷ đồng và lãi sau thuế 3.025 tỷ đồng, tăng hai chữ số so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T06:10:17+07:00",
+      "fetched": "2025-09-18T15:20:44.167724+07:00"
+    },
+    {
+      "id": "f22f010622611993d200fde5d145eb76",
+      "title": "Công ty của ông Trần Bá Dương năm ngoái lãi hơn 3.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-cua-ong-tran-ba-duong-nam-ngoai-lai-hon-3-000-ty-dong-4940643.html",
+      "summary": "Tập đoàn Trường Hải do ông Trần Bá Dương làm Chủ tịch lãi trước thuế năm ngoái 3.445 tỷ đồng và lãi sau thuế 3.025 tỷ đồng, tăng hai chữ số so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T06:10:17+07:00",
+      "fetched": "2025-09-18T15:21:39.288216+07:00"
     },
     {
       "id": "1d1d7127bf96654064202fc5d78f28fb",
@@ -751,6 +1301,16 @@ window.newsData_2025_09_18 = {
       "category": "Thể thao",
       "published": "2025-09-18T05:00:00+07:00",
       "fetched": "2025-09-18T13:24:12.814433+07:00"
+    },
+    {
+      "id": "18f64d07f7cd76326f0ba5928b712e80",
+      "title": "Vingroup lọt nhóm 1.000 công ty tốt nhất thế giới năm 2025",
+      "link": "https://vnexpress.net/vingroup-lot-nhom-1-000-cong-ty-tot-nhat-the-gioi-nam-2025-4940624.html",
+      "summary": "Tập đoàn Vingroup vừa được tạp chí Time (Mỹ) lựa chọn vào danh sách World’s Best Companies 2025, trở thành doanh nghiệp Việt Nam đầu tiên góp mặt trong bảng xếp hạng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T05:00:00+07:00",
+      "fetched": "2025-09-18T15:21:39.289872+07:00"
     },
     {
       "id": "28490d5efce500512aac30b7b2b01ef8",
