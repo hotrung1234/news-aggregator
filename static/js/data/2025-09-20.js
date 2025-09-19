@@ -1,6 +1,6 @@
 window.newsData_2025_09_20 = {
   "date": "2025-09-20",
-  "lastUpdated": "2025-09-20T01:22:07.711283+07:00",
+  "lastUpdated": "2025-09-20T03:17:38.321150+07:00",
   "articles": [
     {
       "id": "5d7fdf9d1681f88aa261c08d869f3e57",
@@ -153,6 +153,56 @@ window.newsData_2025_09_20 = {
       "fetched": "2025-09-20T01:21:59.490160+07:00"
     },
     {
+      "id": "d12cf6d9940a67a427a5f4597cbdc4ee",
+      "title": "California có tỷ lệ nghèo cao nhất Mỹ",
+      "link": "https://vnexpress.net/california-co-ty-le-ngheo-cao-nhat-my-4940931.html",
+      "summary": "California, cùng với bang Louisiana, có tỷ lệ nghèo cao nhất Mỹ và hầu như không cải thiện, dù là bang có nhiều tỷ phú nhất quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T20:00:00+07:00",
+      "fetched": "2025-09-20T03:17:32.706863+07:00"
+    },
+    {
+      "id": "798d6aefa2e9c12513a4c2cbb4ae1e0c",
+      "title": "Doanh nghiệp nào đang muốn lập sàn tiền số?",
+      "link": "https://vnexpress.net/doanh-nghiep-nao-dang-muon-lap-san-tien-so-4940246.html",
+      "summary": "Nhiều ngân hàng và công ty chứng khoán ráo riết lập doanh nghiệp thí điểm sàn giao dịch tiền số nhưng phần lớn chưa đáp ứng đủ vốn điều lệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:18:58+07:00",
+      "fetched": "2025-09-20T03:17:27.093336+07:00"
+    },
+    {
+      "id": "798d6aefa2e9c12513a4c2cbb4ae1e0c",
+      "title": "Doanh nghiệp nào đang muốn lập sàn tiền số?",
+      "link": "https://vnexpress.net/doanh-nghiep-nao-dang-muon-lap-san-tien-so-4940246.html",
+      "summary": "Nhiều ngân hàng và công ty chứng khoán ráo riết lập doanh nghiệp thí điểm sàn giao dịch tiền số nhưng phần lớn chưa đáp ứng đủ vốn điều lệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T19:18:58+07:00",
+      "fetched": "2025-09-20T03:17:34.208135+07:00"
+    },
+    {
+      "id": "3bb38767f48019d317852a56afd74fd7",
+      "title": "Thế Giới Di Động thu gần 100.000 tỷ đồng trong 8 tháng",
+      "link": "https://vnexpress.net/the-gioi-di-dong-thu-gan-100-000-ty-dong-trong-8-thang-4941284.html",
+      "summary": "Tám tháng, doanh thu Thế Giới Di Động tiến sát mốc 100.000 tỷ đồng nhờ các ngành hàng lớn như laptop, điện máy, thực phẩm tươi sống... đều tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T18:48:06+07:00",
+      "fetched": "2025-09-20T03:17:27.093516+07:00"
+    },
+    {
+      "id": "3bb38767f48019d317852a56afd74fd7",
+      "title": "Thế Giới Di Động thu gần 100.000 tỷ đồng trong 8 tháng",
+      "link": "https://vnexpress.net/the-gioi-di-dong-thu-gan-100-000-ty-dong-trong-8-thang-4941284.html",
+      "summary": "Tám tháng, doanh thu Thế Giới Di Động tiến sát mốc 100.000 tỷ đồng nhờ các ngành hàng lớn như laptop, điện máy, thực phẩm tươi sống... đều tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T18:48:06+07:00",
+      "fetched": "2025-09-20T03:17:34.208311+07:00"
+    },
+    {
       "id": "78c807517c05c838b261694d7738e21d",
       "title": "Nỗ lực chế tạo UAV giúp Nga xóa bỏ ưu thế của Ukraine",
       "link": "https://vnexpress.net/no-luc-che-tao-uav-giup-nga-xoa-bo-uu-the-cua-ukraine-4939800.html",
@@ -161,6 +211,16 @@ window.newsData_2025_09_20 = {
       "category": "Thế giới",
       "published": "2025-09-19T18:00:00+07:00",
       "fetched": "2025-09-20T01:22:01.145626+07:00"
+    },
+    {
+      "id": "cc1c60f52c74b8f731699b7f22219227",
+      "title": "Dấu hiệu bệnh ghẻ",
+      "link": "https://vnexpress.net/dau-hieu-benh-ghe-4940603.html",
+      "summary": "Người bị ghẻ có thể ngứa dữ dội, đặc biệt khó chịu nhiều hơn vào ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T18:00:00+07:00",
+      "fetched": "2025-09-20T03:17:27.093679+07:00"
     },
     {
       "id": "2c343e479cc647750c81f6f4a7c229e0",
