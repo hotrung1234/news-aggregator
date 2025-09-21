@@ -1,7 +1,157 @@
 window.newsData_2025_09_21 = {
   "date": "2025-09-21",
-  "lastUpdated": "2025-09-21T11:19:12.981835+07:00",
+  "lastUpdated": "2025-09-21T13:22:31.379511+07:00",
   "articles": [
+    {
+      "id": "eba88a0300a664a89b15882db53ccdec",
+      "title": "Chàng trai bỏ phố về làm nông nghiệp hữu cơ ở Ka Tư",
+      "link": "https://tuoitre.vn/chang-trai-bo-pho-ve-lam-nong-nghiep-huu-co-o-ka-tu-20250921102049695.htm",
+      "summary": "Ở thôn Ka Tư (xã Khe Tre, TP Huế) có anh bạn 9X chọn \"bỏ phố về quê\", với khát vọng hiện thực hóa giấc mơ làm nông nghiệp hữu cơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564760+07:00",
+      "fetched": "2025-09-21T13:22:24.564891+07:00"
+    },
+    {
+      "id": "ebae4972a859ee9d1fda0f9d93ac1ec7",
+      "title": "Gần 300 'kịch bản' lừa đảo đang biến hóa từng ngày",
+      "link": "https://tuoitre.vn/gan-300-kich-ban-lua-dao-dang-bien-hoa-tung-ngay-20250920220607043.htm",
+      "summary": "Từ ‘bắt cóc online’ đến giả danh tuyển dụng, tình cảm, tội phạm mạng biến hóa không ngừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564618+07:00",
+      "fetched": "2025-09-21T13:22:24.564748+07:00"
+    },
+    {
+      "id": "d2cd6b03b4d71cfd5ea865b14184b1f1",
+      "title": "Có một Amorim rất lạ",
+      "link": "https://tuoitre.vn/co-mot-amorim-rat-la-20250921104940326.htm",
+      "summary": "Hò hét, thúc giục, ra sát đường biên chỉ đạo các học trò, HLV Ruben Amorim của Man United đã thể hiện hình ảnh rất khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564491+07:00",
+      "fetched": "2025-09-21T13:22:24.564607+07:00"
+    },
+    {
+      "id": "01b1dcf389e10dce828e443c437ab931",
+      "title": "Gần như các khu vực dọc cao tốc Biên Hòa - Vũng Tàu đều ngập nặng",
+      "link": "https://tuoitre.vn/gan-nhu-cac-khu-vuc-doc-cao-toc-bien-hoa-vung-tau-deu-ngap-nang-2025092105052994.htm",
+      "summary": "Gần như các khu vực dọc tuyến cao tốc Biên Hòa - Vũng Tàu gồm phường Phước Tân, phường Tam Phước, xã Long Thành đều bị ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564366+07:00",
+      "fetched": "2025-09-21T13:22:24.564479+07:00"
+    },
+    {
+      "id": "680c6810ac296e018604ac7bf499261c",
+      "title": "Chủ nhà kể nỗi kinh hoàng vụ sạt lở trong đêm trên sông Tiền",
+      "link": "https://tuoitre.vn/chu-nha-ke-noi-kinh-hoang-vu-sat-lo-trong-dem-tren-song-tien-2025092110590806.htm",
+      "summary": "Người dân ấp Tân Tịch, phường Cao Lãnh, tỉnh Đồng Tháp chưa hết bàng hoàng vì vụ sạt lở xảy ra làm 2 căn nhà sụp xuống sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564241+07:00",
+      "fetched": "2025-09-21T13:22:24.564355+07:00"
+    },
+    {
+      "id": "0801aacf041cea59c49e167a84cdb569",
+      "title": "Từ Hạnh Phúc, nón 'hiệp khách' đi muôn phương",
+      "link": "https://tuoitre.vn/tu-hanh-phuc-non-hiep-khach-di-muon-phuong-2025092111172932.htm",
+      "summary": "Nằm sâu trong hẻm núi yên bình của tỉnh Cao Bằng, xóm Hoàng Diệu, xã Hạnh Phúc (xã Tự Do cũ) có nghề truyền thống độc đáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.564112+07:00",
+      "fetched": "2025-09-21T13:22:24.564229+07:00"
+    },
+    {
+      "id": "a1aec27e6196a37f9bf5c01907e4dcab",
+      "title": "Theo bà lên nương, trẻ 3 tuổi qua đời do bị ong đốt 80 vết",
+      "link": "https://tuoitre.vn/theo-ba-len-nuong-tre-3-tuoi-qua-doi-do-bi-ong-dot-80-vet-20250921104554392.htm",
+      "summary": "Ba anh em họ cùng theo bà đi làm nương thì bị đàn ong bất ngờ tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563972+07:00",
+      "fetched": "2025-09-21T13:22:24.564099+07:00"
+    },
+    {
+      "id": "f8567590006a0b7b58126f646051959c",
+      "title": "Cần Thơ: Bắt 10 người trong vụ trả 'công' vận chuyển bằng ma túy",
+      "link": "https://tuoitre.vn/can-tho-bat-10-nguoi-trong-vu-tra-cong-van-chuyen-bang-ma-tuy-20250921102825085.htm",
+      "summary": "Công an xã Hồ Đắc Kiện (TP Cần Thơ) cho biết vừa bắt 10 người có hành vi mua bán, tổ chức sử dụng và sử dụng trái phép ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563819+07:00",
+      "fetched": "2025-09-21T13:22:24.563959+07:00"
+    },
+    {
+      "id": "3f66f9ca6358b242a92b218806145ad9",
+      "title": "Cục Cảnh sát giao thông: Khẩn trương tách làn ô tô và xe máy trên đường Hà Nội - Bắc Giang",
+      "link": "https://tuoitre.vn/cuc-canh-sat-giao-thong-khan-truong-tach-lan-o-to-va-xe-may-tren-duong-ha-noi-bac-giang-2025092109555263.htm",
+      "summary": "Sau khi tách làn sẽ tổ chức giao thông theo hướng cấm xe khách trên 29 chỗ, xe tải trên 7,5 tấn đi làn 1 (sát dải phân cách).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563694+07:00",
+      "fetched": "2025-09-21T13:22:24.563808+07:00"
+    },
+    {
+      "id": "97487bc8c64494def927e24681e4e009",
+      "title": "Ông Trump dọa 'điều tồi tệ sẽ xảy ra' nếu Afghanistan không trao lại căn cứ Bagram",
+      "link": "https://tuoitre.vn/ong-trump-doa-dieu-toi-te-se-xay-ra-neu-afghanistan-khong-trao-lai-can-cu-bagram-20250921100949808.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo “những điều tồi tệ sẽ xảy ra” nếu Afghanistan không trao lại căn cứ không quân Bagram cho Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563569+07:00",
+      "fetched": "2025-09-21T13:22:24.563683+07:00"
+    },
+    {
+      "id": "3f5c8a163ff786f405a2e49cf392166e",
+      "title": "Thuốc thử cho Arteta hay Guardiola?",
+      "link": "https://tuoitre.vn/thuoc-thu-cho-arteta-hay-guardiola-20250920230415279.htm",
+      "summary": "Tâm điểm vòng 5 Premier League  là cuộc đại chiến giữa chủ nhà Arsenal và Man City lúc 22h30 ngày 21-9 (giờ Việt Nam) trên sân Emirates.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563441+07:00",
+      "fetched": "2025-09-21T13:22:24.563557+07:00"
+    },
+    {
+      "id": "cde94d31be37a9eced0e181c50fb6cc3",
+      "title": "Cứu kịp thời học sinh rơi xuống sông Xáng Ngang",
+      "link": "https://tuoitre.vn/cuu-kip-thoi-hoc-sinh-roi-xuong-song-xang-ngang-20250921111047196.htm",
+      "summary": "Anh Nguyễn Hoàng Huy chia sẻ khi cứu em học sinh rơi xuống sông Xáng Ngang, anh rất vui khi đưa học sinh vào bờ an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563310+07:00",
+      "fetched": "2025-09-21T13:22:24.563429+07:00"
+    },
+    {
+      "id": "85b7d0539394baa7f3de6d63e6f52208",
+      "title": "Cuối 2025, TP.HCM sẽ có thêm bao nhiêu công trình giao thông mới?",
+      "link": "https://tuoitre.vn/cuoi-2025-tp-hcm-se-co-them-bao-nhieu-cong-trinh-giao-thong-moi-20250920103002609.htm",
+      "summary": "TP.HCM đang bước vào thời điểm \"nước rút\" để đưa hàng loạt công trình giao thông trọng điểm vào khởi công và hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563174+07:00",
+      "fetched": "2025-09-21T13:22:24.563296+07:00"
+    },
+    {
+      "id": "9347e225e1bbf15ab071420b8a18dbec",
+      "title": "Mời 255 bệnh nhân bị kê khống tán sỏi đến kiểm tra sức khỏe",
+      "link": "https://tuoitre.vn/moi-255-benh-nhan-bi-ke-khong-tan-soi-den-kiem-tra-suc-khoe-20250921114204692.htm",
+      "summary": "Lãnh đạo Bệnh viện Đa khoa vùng Tây Nguyên đã có thư mời 255 bệnh nhân bị kê khống tán sỏi đến khám sức khỏe miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.563029+07:00",
+      "fetched": "2025-09-21T13:22:24.563161+07:00"
+    },
+    {
+      "id": "809eb7742e8e871178901ea2ef9b16fc",
+      "title": "Bắt tài xế xe tải gây tai nạn chết người rồi bỏ trốn",
+      "link": "https://tuoitre.vn/bat-tai-xe-xe-tai-gay-tai-nan-chet-nguoi-roi-bo-tron-20250921112041618.htm",
+      "summary": "Một tài xế xe tải gây tai nạn khiến một người chết, một người bị thương nặng ở Đắk Lắk rồi bỏ trốn khỏi hiện trường vừa bị công an bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:22:24.562746+07:00",
+      "fetched": "2025-09-21T13:22:24.563013+07:00"
+    },
     {
       "id": "e133460fbf9a210a306d10e954d533b2",
       "title": "Siết visa H-1B, Mỹ chặn lối nhân tài?",
@@ -303,6 +453,246 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T10:05:41.640309+07:00"
     },
     {
+      "id": "ae01f2a94598d96176bd5c2481aa8959",
+      "title": "Ô tô húc đổ cột bơm xăng ở Hà Nội, người dân hoảng hốt",
+      "link": "https://thanhnien.vn/o-to-huc-do-cot-bom-xang-o-ha-noi-nguoi-dan-hoang-hot-185250921130916228.htm",
+      "summary": "Trong quá trình lùi xe vào cây xăng trên địa bàn thành phố Hà Nội, một xe ô tô đã húc đổ một cột bơm xăng gây cháy dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:10:00+07:00",
+      "fetched": "2025-09-21T13:22:23.327389+07:00"
+    },
+    {
+      "id": "a22fd9e9ab0ff0c8c6adc239b284717c",
+      "title": "5 thực phẩm người cao huyết áp cần tránh",
+      "link": "https://vnexpress.net/5-thuc-pham-nguoi-cao-huyet-ap-can-tranh-4941630.html",
+      "summary": "Tránh thực phẩm chế biến, đồ uống đường, chất béo bão hòa, ngâm đóng hộp và rượu, caffeine để kiểm soát huyết áp, giảm nguy cơ tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.445518+07:00"
+    },
+    {
+      "id": "e5699eaa4377ea88e5712dbadbeffdaa",
+      "title": "Bí mật về vùng biển đêm ma thuật ở Maldives",
+      "link": "https://vnexpress.net/bi-mat-ve-vung-bien-dem-ma-thuat-o-maldives-4941365.html",
+      "summary": "Một vùng biển \"ma thuật\" lấp lánh trong đêm đã trở thành điểm tham quan hàng đầu của Maldives, dù thực tế không ai chỉ được chính xác nó nằm ở đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.445703+07:00"
+    },
+    {
+      "id": "015de00a013aebf7c4a08e531c180479",
+      "title": "Móng tay tiết lộ gì về sức khỏe?",
+      "link": "https://vnexpress.net/mong-tay-tiet-lo-gi-ve-suc-khoe-4940720.html",
+      "summary": "Ngón tay dùi trống có thể cảnh báo ung thư phổi, còn móng lõm vào trong như thìa thường do cơ thể thiếu sắt, cần cân bằng dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.445891+07:00"
+    },
+    {
+      "id": "d49216a8056472a4f82dd2eff877bc32",
+      "title": "Microsoft biến nhà máy Foxconn thành trung tâm dữ liệu AI 'mạnh nhất'",
+      "link": "https://vnexpress.net/microsoft-bien-nha-may-foxconn-thanh-trung-tam-du-lieu-ai-manh-nhat-4941531.html",
+      "summary": "Microsoft tuyên bố đang trong giai đoạn cuối của dự án xây trung tâm dữ liệu AI Fairwater 3,3 tỷ USD tại Wisconsin, dự kiến mở cửa đầu 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.446060+07:00"
+    },
+    {
+      "id": "f8f541a5b17e6023d887ae35cbea5180",
+      "title": "11 cách điều chỉnh tư thế xấu",
+      "link": "https://vnexpress.net/11-cach-dieu-chinh-tu-the-xau-4941407.html",
+      "summary": "Hạn chế ngồi lâu, tăng cường vận động, tránh ngồi bắt chéo chân hay khom lưng và sử dụng gối hỗ trợ khi nằm ngủ để tránh tư thế ảnh hưởng xấu đến xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.446219+07:00"
+    },
+    {
+      "id": "aa0ea07d4ed1175f808d890d958f9303",
+      "title": "Hơn 500 thầy cô khắp thế giới có thêm động lực dạy tiếng Việt nơi xứ người",
+      "link": "https://thanhnien.vn/hon-500-thay-co-khap-the-gioi-co-them-dong-luc-day-tieng-viet-noi-xu-nguoi-185250921121116255.htm",
+      "summary": "Hơn 500 thầy cô, học viên đến từ 30 quốc gia và vùng lãnh thổ đã có thêm động lực khi hoàn thành khóa tập huấn về phương pháp dạy tiếng Việt cho trẻ em Việt Nam ở nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:23.327558+07:00"
+    },
+    {
+      "id": "d49216a8056472a4f82dd2eff877bc32",
+      "title": "Microsoft biến nhà máy Foxconn thành trung tâm dữ liệu AI 'mạnh nhất'",
+      "link": "https://vnexpress.net/microsoft-bien-nha-may-foxconn-thanh-trung-tam-du-lieu-ai-manh-nhat-4941531.html",
+      "summary": "Microsoft tuyên bố đang trong giai đoạn cuối của dự án xây trung tâm dữ liệu AI Fairwater 3,3 tỷ USD tại Wisconsin, dự kiến mở cửa đầu 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T06:00:00+07:00",
+      "fetched": "2025-09-21T13:22:29.911510+07:00"
+    },
+    {
+      "id": "04cf736a009c5589c3a017b579121365",
+      "title": "Nhà thơ Nguyễn Duy bật khóc trước chiến thắng của Đức Phúc",
+      "link": "https://thanhnien.vn/nha-tho-nguyen-duy-bat-khoc-truoc-chien-thang-cua-duc-phuc-185250921122914903.htm",
+      "summary": "Nhà thơ Nguyễn Duy đã có những chia sẻ xúc động trước chiến thắng vang dội của Đức Phúc tại Intervision 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:59:00+07:00",
+      "fetched": "2025-09-21T13:22:23.327717+07:00"
+    },
+    {
+      "id": "4a7eb7a6cc9befe19210eff6d06a8d1c",
+      "title": "Bố mẹ Hoa hậu Đại dương Việt Nam 2025 phản ứng ra sao nếu con gái vướng drama?",
+      "link": "https://thanhnien.vn/bo-me-hoa-hau-dai-duong-viet-nam-2025-phan-ung-ra-sao-neu-con-gai-vuong-drama-185250921113619271.htm",
+      "summary": "Ngay sau đêm chung kết diễn ra tối 19.9 tại Vĩnh Hy (Khánh Hòa), gia đình tân Hoa hậu Đại dương Việt Nam Nguyễn Thanh Thảo chia sẻ lo lắng con gái sẽ đối diện áp lực dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:57:00+07:00",
+      "fetched": "2025-09-21T13:22:23.327888+07:00"
+    },
+    {
+      "id": "9ea3df7939419093fc3b5fd8aaca0e32",
+      "title": "Bệnh viện Mắt Cao Thắng lập kỷ lục về đạt chứng nhận JCI",
+      "link": "https://thanhnien.vn/benh-vien-mat-cao-thang-lap-ky-luc-ve-dat-chung-nhan-jci-185250920200918299.htm",
+      "summary": "Bệnh viện chuyên khoa Mắt Cao Thắng là cơ sở y tế chuyên khoa mắt đầu tiên tại Việt Nam đạt chứng nhận chất lượng JCI và duy trì liên tục trong nhiều năm nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:57:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328049+07:00"
+    },
+    {
+      "id": "e5e1c247d9ed886ef4e651d0601ac69e",
+      "title": "Bệnh án điện tử: Làm bất kể ngày đêm để kịp tiến độ",
+      "link": "https://thanhnien.vn/benh-an-dien-tu-lam-bat-ke-ngay-dem-de-kip-tien-do-185250921121801663.htm",
+      "summary": "Tính đến 12 giờ ngày 21.9, cả nước mới chỉ 591/1.670 bệnh viện công bố đã triển khai bệnh án điện tử. Chỉ còn chưa đầy 10 ngày để các cơ sở còn lại hoàn thành đúng hạn theo chỉ đạo của Thủ tướng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:54:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328211+07:00"
+    },
+    {
+      "id": "c09b5e341066f5563607dc90e4910322",
+      "title": "[Review] Top 4 kem giảm mụn ẩn hiệu quả, ngừa sẹo tối đa cho da láng mịn",
+      "link": "https://thanhnien.vn/review-top-4-kem-giam-mun-an-hieu-qua-ngua-seo-toi-da-cho-da-lang-min-185250921131143564.htm",
+      "summary": "Mụn ẩn là bài toán khó khi gặp phải. Nếu không điều trị đúng cách rất khó hết dứt điểm mà còn gây viêm nhiễm và để lại sẹo xấu. Nhưng với top 4 kem giảm mụn ẩn đang được chuyên gia tin dùng dưới đây, mụn có lì lợm nằm ẩn sâu cỡ nào cũng bị đẩy lên, gom cồi và ngừa sẹo hiệu quả. Lấy lại làn da phẳng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:51:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328366+07:00"
+    },
+    {
+      "id": "8b1b9d436851d4edbafc711d846582fc",
+      "title": "TP HCM sắp mở làn riêng cho xe đạp trên đại lộ Mai Chí Thọ",
+      "link": "https://vnexpress.net/tp-hcm-sap-mo-lan-rieng-cho-xe-dap-tren-dai-lo-mai-chi-tho-4941683.html",
+      "summary": "Thành phố chuẩn bị mở làn riêng cho xe đạp dài gần 6 km trên đại lộ Mai Chí Thọ nhằm khuyến khích người dân sử dụng phương tiện thân thiện môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:50:03+07:00",
+      "fetched": "2025-09-21T13:22:20.446379+07:00"
+    },
+    {
+      "id": "47c472a85aa8fdde8efd0ec5a4f02eb7",
+      "title": "Tài xế xe tải bỏ mặc nạn nhân tử vong sau va chạm giao thông",
+      "link": "https://vnexpress.net/tai-xe-xe-tai-bo-mac-nan-nhan-tu-vong-sau-va-cham-giao-thong-4941687.html",
+      "summary": "Võ Hùng Vương, 49 tuổi, khai sau khi gây tai nạn khiến một người tử vong, một người bị thương đã rời hiện trường do lo sợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:48:41+07:00",
+      "fetched": "2025-09-21T13:22:20.446549+07:00"
+    },
+    {
+      "id": "1993de43caefc64a957883bf0c531e1c",
+      "title": "Gần 2.000 người Đồng Nai tổng vệ sinh môi trường phường Bình Phước",
+      "link": "https://thanhnien.vn/gan-2000-nguoi-dong-nai-tong-ve-sinh-moi-truong-phuong-binh-phuoc-185250921123605298.htm",
+      "summary": "Gần 2.000 người gồm lực lượng cán bộ, chiến sĩ, đoàn thể, doanh nghiệp, trường học, khu phố và đông đảo người dân ở phường Bình Phước, Đồng Nai đã cùng tham gia tổng vệ sinh môi trường - làm cho thế giới sạch hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:48:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328518+07:00"
+    },
+    {
+      "id": "37cb264f075945eb7e4595427e4eec25",
+      "title": "3 mẹ con tử vong thương tâm trong vụ tai nạn ở TP.HCM",
+      "link": "https://thanhnien.vn/3-me-con-tu-vong-thuong-tam-trong-vu-tai-nan-o-tphcm-185250921115855828.htm",
+      "summary": "Vụ tai nạn giao thông nghiêm trọng xảy ra đêm 20.9 trên đường ĐH507, đoạn qua xã Phước Thành, TP.HCM đã khiến 3 mẹ con tử vong, 1 người khác bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:41:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328668+07:00"
+    },
+    {
+      "id": "67695997654ab9096092980615e98513",
+      "title": "Các nước nhiều cách kỷ luật học sinh, có nơi 'chặn' học trường tốt",
+      "link": "https://thanhnien.vn/cac-nuoc-nhieu-cach-ky-luat-hoc-sinh-co-noi-chan-hoc-truong-tot-185250921115101511.htm",
+      "summary": "Bức tranh kỷ luật học đường trên toàn cầu đang phân mảnh khi một số nơi hướng tới kỷ luật tích cực, trong khi các mô hình giáo dục khác lại tăng cường mức độ để 'trấn áp' bạo lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:33:00+07:00",
+      "fetched": "2025-09-21T13:22:23.328826+07:00"
+    },
+    {
+      "id": "0997251ac6c7960699d59d04d776a582",
+      "title": "Gần nửa triệu sạc dự phòng của Anker cần thu hồi gấp vì nguy cơ cháy nổ",
+      "link": "https://thanhnien.vn/gan-nua-trieu-sac-du-phong-cua-anker-can-thu-hoi-gap-vi-nguy-co-chay-no-185250920131225183.htm",
+      "summary": "Pin dự phòng Anker của bạn có thể nằm trong lô hàng gây cháy nổ vừa bị thu hồi, hãy kiểm tra và nhận hoàn tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:27:00+07:00",
+      "fetched": "2025-09-21T13:22:23.329004+07:00"
+    },
+    {
+      "id": "3cd39ef48a88ca96324a97a318188f4a",
+      "title": "Nhân viên cây xăng bò thoát khỏi trụ bơm bốc cháy sau cú húc của ôtô",
+      "link": "https://vnexpress.net/nhan-vien-cay-xang-bo-thoat-khoi-tru-bom-boc-chay-sau-cu-huc-cua-oto-4941667.html",
+      "summary": "Ôtô Mercedes 7 chỗ lùi vào cây xăng bất ngờ lao mạnh, húc đổ cột bơm đè nhân viên, lửa bén vào hai xe máy bốc cháy dữ dội khiến hàng chục người tháo chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:25:33+07:00",
+      "fetched": "2025-09-21T13:22:20.446713+07:00"
+    },
+    {
+      "id": "34ed6f74128c0ba049a609643d13f3e6",
+      "title": "Vai trò của kiểm soát thân nhiệt trong hồi phục sau phẫu thuật chấn thương chỉnh hình",
+      "link": "https://thanhnien.vn/vai-tro-cua-kiem-soat-than-nhiet-trong-hoi-phuc-sau-phau-thuat-chan-thuong-chinh-hinh-185250921122409006.htm",
+      "summary": "Chương trình tập huấn với chủ đề ‘Cập nhật về ERAS và phục hồi sớm sau phẫu thuật cho bệnh nhân’ vừa được Viện Chấn thương Chỉnh hình, Bệnh viện Quân y 175 tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:24:00+07:00",
+      "fetched": "2025-09-21T13:22:23.329161+07:00"
+    },
+    {
+      "id": "0b21af0a815680d54b502c6f0122cfff",
+      "title": "Diễn viên Quang Tiền đột ngột qua đời tại nhà riêng",
+      "link": "https://thanhnien.vn/dien-vien-quang-tien-dot-ngot-qua-doi-tai-nha-rieng-185250921114608143.htm",
+      "summary": "Giới giải trí Đài Loan đang bàng hoàng trước tin nam diễn viên nổi tiếng Trần Quang Tiền đột ngột qua đời tại nhà riêng ở tuổi 55.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:23:00+07:00",
+      "fetched": "2025-09-21T13:22:23.329310+07:00"
+    },
+    {
+      "id": "02d90cf6f4060523d26f7e907eedec63",
+      "title": "Kaity Nguyễn: 'Mẹ truyền cảm hứng tôi đóng tiếp viên hàng không'",
+      "link": "https://vnexpress.net/kaity-nguyen-me-truyen-cam-hung-toi-dong-tiep-vien-hang-khong-4940194.html",
+      "summary": "Kaity Nguyễn, 26 tuổi, lấy cảm hứng đóng phim hành động \"Tử chiến trên không\" từ người mẹ từng làm tiếp viên hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:20:02+07:00",
+      "fetched": "2025-09-21T13:22:20.446891+07:00"
+    },
+    {
+      "id": "a84202e414a95e7ea05303c83fedb8b4",
+      "title": "‘Hãy biến mỗi ngày trong tuần đều là một ngày xanh'",
+      "link": "https://thanhnien.vn/hay-bien-moi-ngay-trong-tuan-deu-la-mot-ngay-xanh-18525092110163863.htm",
+      "summary": "Đó là lời kêu gọi của anh Nguyễn Tường Lâm, Bí thư T.Ư Đoàn, Chủ tịch T.Ư Hội Liên hiệp thanh niên VN tại chương trình ra quân Ngày Chủ nhật xanh đồng loạt toàn quốc lần thứ 6 và hưởng ứng Chiến dịch làm cho thế giới sạch hơn năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:18:00+07:00",
+      "fetched": "2025-09-21T13:22:23.329467+07:00"
+    },
+    {
       "id": "9463645faf1ce29cc767c607fb740e19",
       "title": "Thời tiết hôm nay 21-9: Bắc Bộ ngày nắng đêm mưa to, Nam Bộ ngày oi nóng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-9-bac-bo-ngay-nang-dem-mua-to-nam-bo-ngay-oi-nong-20250920163927298.htm",
@@ -311,6 +701,126 @@ window.newsData_2025_09_21 = {
       "category": "Tổng hợp",
       "published": "2025-09-21T05:13:37.258230+07:00",
       "fetched": "2025-09-21T05:13:37.258471+07:00"
+    },
+    {
+      "id": "9e25167cd3642a85de1cabb6bc521960",
+      "title": "13 năm mòn mỏi chờ mẹ, bé gái khao khát một lần được gặp lại",
+      "link": "https://thanhnien.vn/13-nam-mon-moi-cho-me-be-gai-khao-khat-mot-lan-duoc-gap-lai-185250919113648567.htm",
+      "summary": "Trong căn nhà nhỏ ở vùng quê nghèo TP.Đà Nẵng, bé gái 13 tuổi Trương Thị Thanh Trúc chỉ có một ước nguyện duy nhất: được gặp lại người mẹ đã rời đi từ khi em mới 6 tháng tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:12:00+07:00",
+      "fetched": "2025-09-21T13:22:23.329615+07:00"
+    },
+    {
+      "id": "3e963382c9b8e44319fe4ec7e62f040c",
+      "title": "4 điểm nóng ở đại chiến Arsenal - Man City",
+      "link": "https://vnexpress.net/4-diem-nong-o-dai-chien-arsenal-man-city-4941573.html",
+      "summary": "Cuộc đấu tay đôi của hai ngòi nổ Madueke - Doku và bài toán mang tên Haaland cho hàng thủ Arsenal là những điểm nhấn chiến thuật ở trận đại chiến ở vòng 5 Ngoại hạng Anh trên sân Emirates hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.447056+07:00"
+    },
+    {
+      "id": "940f1c7a0f1d390e983e04e52dc2619c",
+      "title": "Triều đại duy nhất nào vừa có vua vừa có chúa, giành lại ngai vàng từ nhà Mạc?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-trieu-dai-duy-nhat-nao-vua-co-vua-vua-co-chua-gianh-lai-ngai-vang-tu-nha-mac-4940507.html",
+      "summary": "Đây là triều đại tồn tại lâu nhất trong lịch sử phong kiến, đánh dấu sự phục hồi của nhà Hậu Lê sau khi bị Mạc Đăng Dung cướp ngôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.447215+07:00"
+    },
+    {
+      "id": "3c89d1c6a27641265c2f260e4d8bd3cb",
+      "title": "Mourinho: '25 năm không thay đổi bản chất của tôi'",
+      "link": "https://vnexpress.net/mourinho-25-nam-khong-thay-doi-ban-chat-cua-toi-4941622.html",
+      "summary": "HLV Jose Mourinho khẳng định vẫn giữ nguyên đam mê bóng đá, sau trận ra mắt Benfica thắng AVS 3-0 ở vòng 5 giải VĐQG Bồ Đào Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.447376+07:00"
+    },
+    {
+      "id": "005a020645465dabd2ba971397fd17db",
+      "title": "5 nhóm thực phẩm làm tăng nguy cơ viêm ruột",
+      "link": "https://vnexpress.net/5-nhom-thuc-pham-lam-tang-nguy-co-viem-ruot-4941557.html",
+      "summary": "Thực phẩm chế biến sẵn, đồ chiên rán ở nhiệt độ cao, món ăn nhiều đường bổ sung có thể thúc đẩy phản ứng viêm trong cơ thể, làm nặng thêm triệu chứng viêm ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:20.447529+07:00"
+    },
+    {
+      "id": "3e963382c9b8e44319fe4ec7e62f040c",
+      "title": "4 điểm nóng ở đại chiến Arsenal - Man City",
+      "link": "https://vnexpress.net/4-diem-nong-o-dai-chien-arsenal-man-city-4941573.html",
+      "summary": "Cuộc đấu tay đôi của hai ngòi nổ Madueke - Doku và bài toán mang tên Haaland cho hàng thủ Arsenal là những điểm nhấn chiến thuật ở trận đại chiến ở vòng 5 Ngoại hạng Anh trên sân Emirates hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:31.371196+07:00"
+    },
+    {
+      "id": "3c89d1c6a27641265c2f260e4d8bd3cb",
+      "title": "Mourinho: '25 năm không thay đổi bản chất của tôi'",
+      "link": "https://vnexpress.net/mourinho-25-nam-khong-thay-doi-ban-chat-cua-toi-4941622.html",
+      "summary": "HLV Jose Mourinho khẳng định vẫn giữ nguyên đam mê bóng đá, sau trận ra mắt Benfica thắng AVS 3-0 ở vòng 5 giải VĐQG Bồ Đào Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T05:00:00+07:00",
+      "fetched": "2025-09-21T13:22:31.372353+07:00"
+    },
+    {
+      "id": "909a258737e479610ef9002977d0f125",
+      "title": "Vì sao Garnacho từ viên ngọc thô thành ngựa bất kham?",
+      "link": "https://vnexpress.net/vi-sao-garnacho-tu-vien-ngoc-tho-thanh-ngua-bat-kham-4941665.html",
+      "summary": "Bốn tháng sau cuộc đối thoại căng thẳng với HLV Ruben Amorim, Alejandro Garnacho trở lại Old Trafford trong màu áo Chelsea nhưng không được thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T04:59:45+07:00",
+      "fetched": "2025-09-21T13:22:20.447693+07:00"
+    },
+    {
+      "id": "909a258737e479610ef9002977d0f125",
+      "title": "Vì sao Garnacho từ viên ngọc thô thành ngựa bất kham?",
+      "link": "https://vnexpress.net/vi-sao-garnacho-tu-vien-ngoc-tho-thanh-ngua-bat-kham-4941665.html",
+      "summary": "Bốn tháng sau cuộc đối thoại căng thẳng với HLV Ruben Amorim, Alejandro Garnacho trở lại Old Trafford trong màu áo Chelsea nhưng không được thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T04:59:45+07:00",
+      "fetched": "2025-09-21T13:22:31.371370+07:00"
+    },
+    {
+      "id": "c22bbbb3f6379377756e0fa205a3f799",
+      "title": "Các chân chạy Việt thắng áp đảo tại VMM 2025",
+      "link": "https://vnexpress.net/cac-chan-chay-viet-thang-ap-dao-tai-vmm-2025-4941679.html",
+      "summary": "Nhiều VĐV quốc tế nổi tiếng đua 100km nam Vietnam Mountain Marathon 2025 (VMM), nhưng podium vẫn thuộc về các đại diện chủ nhà Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T04:58:47+07:00",
+      "fetched": "2025-09-21T13:22:20.447852+07:00"
+    },
+    {
+      "id": "c22bbbb3f6379377756e0fa205a3f799",
+      "title": "Các chân chạy Việt thắng áp đảo tại VMM 2025",
+      "link": "https://vnexpress.net/cac-chan-chay-viet-thang-ap-dao-tai-vmm-2025-4941679.html",
+      "summary": "Nhiều VĐV quốc tế nổi tiếng đua 100km nam Vietnam Mountain Marathon 2025 (VMM), nhưng podium vẫn thuộc về các đại diện chủ nhà Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T04:58:47+07:00",
+      "fetched": "2025-09-21T13:22:31.372564+07:00"
+    },
+    {
+      "id": "63d2f4ba5a4e861cd9c76d056b1824f4",
+      "title": "Tổ hợp S-300 Ukraine lộ trận địa, bị tên lửa Iskander tập kích",
+      "link": "https://vnexpress.net/to-hop-s-300-ukraine-lo-tran-dia-bi-ten-lua-iskander-tap-kich-4941596.html",
+      "summary": "UAV Nga phát hiện trận địa S-300 Ukraine tại tỉnh Chernihiv, chỉ điểm cho tên lửa Iskander-M mang đầu đạn chùm tập kích mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-21T04:19:48+07:00",
+      "fetched": "2025-09-21T13:22:25.792110+07:00"
     },
     {
       "id": "88c341deaeb07a4c0b7b83dd08015cad",
