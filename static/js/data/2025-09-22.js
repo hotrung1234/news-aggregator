@@ -1,7 +1,17 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T03:16:36.964383+07:00",
+  "lastUpdated": "2025-09-22T05:14:15.339161+07:00",
   "articles": [
+    {
+      "id": "b5b6e034cc1f89fcc7a8be7ba638d99f",
+      "title": "Thời tiết hôm nay 22-9: Cả nước mưa to, siêu bão Ragasa áp sát Biển Đông",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-9-ca-nuoc-mua-to-sieu-bao-ragasa-ap-sat-bien-dong-20250921184907546.htm",
+      "summary": "Hôm nay 22-9, thời tiết cả nước dự báo mưa to, bão Ragasa sẽ mạnh thành siêu bão và áp sát Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:14:07.583134+07:00",
+      "fetched": "2025-09-22T05:14:07.583358+07:00"
+    },
     {
       "id": "1af78d00f001c687a05b33604f7a683f",
       "title": "Thủ tướng Ấn kêu gọi người dân xài hàng nội giữa căng thẳng với Mỹ",
@@ -221,6 +231,216 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T01:20:29.770433+07:00",
       "fetched": "2025-09-22T01:20:29.770593+07:00"
+    },
+    {
+      "id": "a3570b36a98e084ad2dbf2d46f2b7962",
+      "title": "Nhiều sân bay châu Âu bị tấn công mạng",
+      "link": "https://thanhnien.vn/nhieu-san-bay-chau-au-bi-tan-cong-mang-185250921202327035.htm",
+      "summary": "Sân bay Brussels (Bỉ) ngày 21.9 thông báo tình trạng chậm và hủy chuyến sẽ tiếp diễn sau khi hệ thống làm thủ tục lên máy bay bị ảnh hưởng bởi một vụ tấn công mạng nhằm vào nhà cung cấp dịch vụ bên ngoài, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T22:10:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841057+07:00"
+    },
+    {
+      "id": "1432937687b57f1c76ec0db9f755861d",
+      "title": "Thể thao Việt Nam tăng tốc cho SEA Games 33",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-tang-toc-cho-sea-games-33-185250921214039872.htm",
+      "summary": "Chưa đầy 3 tháng nữa, SEA Games 33 sẽ diễn ra tại Thái Lan nên thể thao Việt Nam vào giai đoạn nước rút trong công tác chuẩn bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T22:08:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841249+07:00"
+    },
+    {
+      "id": "f81c094d7504165353083d8b7e1660e4",
+      "title": "Philippines sơ tán dân trước bão Ragasa",
+      "link": "https://thanhnien.vn/philippines-so-tan-dan-truoc-bao-ragasa-185250921202437236.htm",
+      "summary": "Giới chức trách Philippines ngày 21.9 ra lệnh sơ tán trước nguy cơ lũ lụt và lở đất do ảnh hưởng của bão Ragasa, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T22:05:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841410+07:00"
+    },
+    {
+      "id": "9d711f6eaadbf41aa57ef2a57d3a8941",
+      "title": "'Mắt thần' V-Elint 18 Việt Nam sản xuất 'bắt' máy bay tàng hình thế nào?",
+      "link": "https://thanhnien.vn/mat-than-v-elint-18-viet-nam-san-xuat-bat-may-bay-tang-hinh-the-nao-185250921144500483.htm",
+      "summary": "Hệ thống trinh sát điện tử siêu cao tần thông minh V-Elint 18 do Việt Nam nghiên cứu, chế tạo có khả năng phát hiện được nhiều mục tiêu trên không, trên biển và đất liền. Đặc biệt, hệ thống có thể phát hiện máy bay tàng hình, giúp tăng cường năng lực phòng thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T22:03:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841565+07:00"
+    },
+    {
+      "id": "70dc0639d104c23febcea796f4a73ecb",
+      "title": "Chiến sự Ukraine ngày 1.306: Lại tấn công chết người",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1306-lai-tan-cong-chet-nguoi-185250921201323771.htm",
+      "summary": "Lại có thêm thương vong tại Nga lẫn Ukraine trong các cuộc tấn công bằng máy bay không người lái giữa hai bên trong ngày chiến sự thứ 1.306.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T22:00:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841716+07:00"
+    },
+    {
+      "id": "0632912d06ec45624a8a0db9f1f2b8fd",
+      "title": "Làn sóng khởi nghiệp ở độ tuổi 20 thời AI",
+      "link": "https://vnexpress.net/lan-song-khoi-nghiep-o-do-tuoi-20-thoi-ai-4939883.html",
+      "summary": "Sáng lập startup ở tuổi 20 đang trở nên phổ biến hơn trong thời AI, dù việc bỏ học đại học vẫn gây nhiều tranh cãi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T22:00:00+07:00",
+      "fetched": "2025-09-22T05:14:13.444581+07:00"
+    },
+    {
+      "id": "835d26a5cd8cd2384bcd890695c61471",
+      "title": "Barca thắng đậm trong ngày Rashford bị kỷ luật",
+      "link": "https://vnexpress.net/barca-thang-dam-trong-ngay-rashford-bi-ky-luat-4941816.html",
+      "summary": "Tiền đạo Marcus Rashford bị loại khỏi đội hình xuất phát vì đi muộn, trước khi vào sân kiến tạo trong trận Barca thắng Getafe 3-0 ở vòng 5 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T21:48:00+07:00",
+      "fetched": "2025-09-22T05:14:15.334080+07:00"
+    },
+    {
+      "id": "2c2e1abbfc19782181686746b6811f03",
+      "title": "Đề xuất áp thuế từ 200 triệu/năm: ‘Gánh xôi, gánh chè cũng phải đóng’",
+      "link": "https://thanhnien.vn/de-xuat-ap-thue-tu-200-trieu-nam-ganh-xoi-ganh-che-cung-phai-dong-18525092122454053.htm",
+      "summary": "Dự thảo luật mới đề xuất áp thuế thu nhập với cá nhân kinh doanh có doanh thu từ 200 triệu đồng/năm trở lên, khiến nhiều người dân lo ngại. Nhiều người tính toán, với con số này, ngày bán trên 10 tô phở đã phải đóng thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:46:00+07:00",
+      "fetched": "2025-09-22T05:14:06.841865+07:00"
+    },
+    {
+      "id": "a3ae0f84a5ff03740364734f6d8f7bb8",
+      "title": "Arteta: 'Không ai chất vấn đội hình khi Arsenal thắng'",
+      "link": "https://vnexpress.net/arteta-khong-ai-chat-van-doi-hinh-khi-arsenal-thang-4941813.html",
+      "summary": "HLV Mikel Arteta bảo vệ quyết định lựa chọn đội hình trận Arsenal hòa Man City 1-1 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T21:44:42+07:00",
+      "fetched": "2025-09-22T05:14:15.334272+07:00"
+    },
+    {
+      "id": "bcce5d64d00d2132e36f4545dbb00369",
+      "title": "Vì sao lồng đèn nón lá cờ đỏ sao vàng được yêu thích năm nay?",
+      "link": "https://thanhnien.vn/vi-sao-long-den-non-la-co-do-sao-vang-duoc-yeu-thich-nam-nay-185250921143346087.htm",
+      "summary": "Không chỉ là nơi bày bán những chiếc lồng đèn Trung thu truyền thống, phố lồng đèn Lương Nhữ Học (phường Chợ Lớn, TP.HCM) năm nay còn gây chú ý với mẫu lồng đèn nón lá in Quốc kỳ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:44:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842011+07:00"
+    },
+    {
+      "id": "10968efb31538cb4afe8e439ab9ed604",
+      "title": "Luke Shaw: 'Lời nói của Roy Keane làm tổn thương tôi'",
+      "link": "https://vnexpress.net/luke-shaw-loi-noi-cua-roy-keane-lam-ton-thuong-toi-4941760.html",
+      "summary": "Hậu vệ trái của Man Utd, Luke Shaw nói rằng anh bị tổn thương vì những lời chỉ trích của cựu thủ quân Roy Keane sau trận derby Manchester.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:39:20+07:00",
+      "fetched": "2025-09-22T05:14:00.708431+07:00"
+    },
+    {
+      "id": "10968efb31538cb4afe8e439ab9ed604",
+      "title": "Luke Shaw: 'Lời nói của Roy Keane làm tổn thương tôi'",
+      "link": "https://vnexpress.net/luke-shaw-loi-noi-cua-roy-keane-lam-ton-thuong-toi-4941760.html",
+      "summary": "Hậu vệ trái của Man Utd, Luke Shaw nói rằng anh bị tổn thương vì những lời chỉ trích của cựu thủ quân Roy Keane sau trận derby Manchester.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T21:39:20+07:00",
+      "fetched": "2025-09-22T05:14:15.334599+07:00"
+    },
+    {
+      "id": "b5dedf111e79d217bf2e542d9e391917",
+      "title": "Ukraine hối đồng minh gia tăng sức ép lên Nga",
+      "link": "https://thanhnien.vn/ukraine-hoi-dong-minh-gia-tang-suc-ep-len-nga-185250921220257806.htm",
+      "summary": "Tờ The Guardian ngày 21.9 dẫn lời Tổng thống Ukraine Volodymyr Zelensky nói ông sẽ hối thúc Tổng thống Mỹ Donald Trump áp đặt các lệnh cấm vận đối với Nga, khi 2 nhà lãnh đạo gặp nhau bên lề phiên họp Đại hội đồng LHQ tại New York (Mỹ) vào tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:30:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842158+07:00"
+    },
+    {
+      "id": "bf5ba447f7740717a06977f8b48bb51f",
+      "title": "Hustle culture - văn hóa hối hả: Tiềm ẩn nguy cơ trầm cảm, đột quỵ",
+      "link": "https://thanhnien.vn/hustle-culture-tiem-an-nguy-co-tram-cam-dot-quy-185250921161345032.htm",
+      "summary": "Nhiều người trẻ theo đuổi lối sống 'hustle culture' - với mong muốn tìm kiếm được con đường phát triển phù hợp với bản thân thường bỏ qua các dấu hiệu trầm cảm, kiệt sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:12:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842324+07:00"
+    },
+    {
+      "id": "d2bbab5f527ea386cdcda4e85df5ee28",
+      "title": "Xiaomi triệu hồi xe điện liên quan độ an toàn khi lái tự động",
+      "link": "https://vnexpress.net/xiaomi-trieu-hoi-xe-dien-lien-quan-do-an-toan-khi-lai-tu-dong-4941396.html",
+      "summary": "Hãng xe điện gọi về sửa chữa 116.887 chiếc SU7 phiên bản Standard do lo ngại về an toàn của chế độ hỗ trợ lái tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:00:00+07:00",
+      "fetched": "2025-09-22T05:14:00.708611+07:00"
+    },
+    {
+      "id": "d9c2f38c5f30b8ff4aec5aaa684d5f79",
+      "title": "'Thầy, trò đều đang dùng sai quyền của mình'",
+      "link": "https://vnexpress.net/thay-tro-deu-dang-dung-sai-quyen-cua-minh-4941802.html",
+      "summary": "Bạo lực và thái độ coi nhẹ giáo viên xuất hiện từ tiểu học tới trung học. Theo chuyên gia, nguyên nhân do phương pháp giáo dục \"áp đặt\" đã lạc hậu, trong khi học sinh chưa hiểu đúng về quyền tự do cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:00:00+07:00",
+      "fetched": "2025-09-22T05:14:00.708780+07:00"
+    },
+    {
+      "id": "7a467273b076b62ae8ddcc3b535a084b",
+      "title": "Hạn mức cho vay ngang hàng đủ để khởi nghiệp",
+      "link": "https://thanhnien.vn/han-muc-cho-vay-ngang-hang-du-de-khoi-nghiep-18525092122540745.htm",
+      "summary": "Đó là nhận xét của nhiều người về \"quota\" cho vay ngang hàng (P2P Lending) trong 2 quyết định vừa ban hành của Ngân hàng Nhà nước. Đây cũng là cơ sở pháp lý cho hoạt động này thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:00:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842473+07:00"
+    },
+    {
+      "id": "ff798f517e277a7ae71d595dbe4a4de3",
+      "title": "Vé tàu xe tết nóng sớm",
+      "link": "https://thanhnien.vn/ve-tau-xe-tet-nong-som-18525092122490462.htm",
+      "summary": "Còn gần 5 tháng nữa mới tới Tết Nguyên đán 2026 nhưng hàng triệu người xa xứ đã đứng ngồi không yên, lo tính đường về quê ăn tết. Bởi từ máy bay đến đường sắt, vé vừa mở bán đã \"nóng bỏng tay\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:00:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842629+07:00"
+    },
+    {
+      "id": "276b54c59bfed11846b1d626d4ca7b82",
+      "title": "Chạy nước rút chuyển đổi tài khoản giao thông",
+      "link": "https://thanhnien.vn/chay-nuoc-rut-chuyen-doi-tai-khoan-giao-thong-185250921223738314.htm",
+      "summary": "Chỉ còn 10 ngày nữa là tới \"giờ G\" nhưng vẫn còn hơn 3 triệu ô tô chưa chuyển đổi tài khoản giao thông. Trong đó phần lớn các chủ phương tiện thuộc tổ chức, doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T21:00:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842777+07:00"
+    },
+    {
+      "id": "34f9207ad814b0dbb10cc32ae254a940",
+      "title": "Làm trái ngành chưa hẳn là lãng phí",
+      "link": "https://thanhnien.vn/lam-trai-nganh-chua-han-la-lang-phi-185250921230612705.htm",
+      "summary": "Sau khi tốt nghiệp đại học, những tân cử nhân cầm tấm bằng rời giảng đường, nhưng không phải ai cũng đi thẳng vào con đường mà mình đã chọn học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T20:58:00+07:00",
+      "fetched": "2025-09-22T05:14:06.842921+07:00"
+    },
+    {
+      "id": "747ad0a694720a3b41c795fd0c212f9a",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2292025-185250921230824024.htm",
+      "summary": "Tin tức Vé tàu xe Tết nóng sớm, Siêu bão Ragasa dự báo sẽ đổ bộ Quảng Ninh - Hà Tĩnh, Nhiều diễn biến quan trọng trên chính trường Mỹ… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T20:55:00+07:00",
+      "fetched": "2025-09-22T05:14:06.843066+07:00"
     },
     {
       "id": "1470e3e9dee9c9eeb6b92a9facef4675",
