@@ -1,6 +1,6 @@
 window.newsData_2025_09_21 = {
   "date": "2025-09-21",
-  "lastUpdated": "2025-09-21T05:13:44.690023+07:00",
+  "lastUpdated": "2025-09-21T08:20:03.057935+07:00",
   "articles": [
     {
       "id": "9463645faf1ce29cc767c607fb740e19",
@@ -161,6 +161,376 @@ window.newsData_2025_09_21 = {
       "category": "Tổng hợp",
       "published": "2025-09-21T01:19:47.651577+07:00",
       "fetched": "2025-09-21T01:19:47.651780+07:00"
+    },
+    {
+      "id": "412964e9923f5ad8dc60532c9689ee1c",
+      "title": "Hé lộ nguyên nhân Lotte xin trả lại dự án ở Thủ Thiêm",
+      "link": "https://thanhnien.vn/he-lo-nguyen-nhan-lotte-xin-tra-lai-du-an-o-thu-thiem-18525092107494115.htm",
+      "summary": "Sở Tài chính TP.HCM mới đây thông tin, nơi này đã tiếp nhận văn bản xin chấm dứt đầu tư dự án khu phức hợp thông minh Lotte Eco Smart City Thủ Thiêm (tên thương mại Eco Smart City) của Công ty TNHH Lotte Properties HCMC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:18:00+07:00",
+      "fetched": "2025-09-21T08:19:35.704713+07:00"
+    },
+    {
+      "id": "74fa3eb1741e1afd238be61d8c70bad2",
+      "title": "Có chuyện tình nằm trong giọt mưa - Thơ của Nguyễn Đăng Khoa",
+      "link": "https://thanhnien.vn/co-chuyen-tinh-nam-trong-giot-mua-tho-cua-nguyen-dang-khoa-185250920181858483.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:05:00+07:00",
+      "fetched": "2025-09-21T08:19:37.190494+07:00"
+    },
+    {
+      "id": "881bbaa03a2b6132df49b7acdb42602f",
+      "title": "Một hoàng hôn ở quán hai người - Thơ của Nguyễn Đăng Khoa",
+      "link": "https://thanhnien.vn/mot-hoang-hon-o-quan-hai-nguoi-tho-cua-nguyen-dang-khoa-185250920181242826.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:05:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850145+07:00"
+    },
+    {
+      "id": "74c17158c366190b2ff45472448fa70d",
+      "title": "Ăn gì để loại trừ mỡ máu xấu?",
+      "link": "https://thanhnien.vn/an-gi-de-loai-tru-mo-mau-xau-185250920160745511.htm",
+      "summary": "Theo Viện Dinh dưỡng, cholesterol máu có vai trò quan trọng đối với sức khỏe con người. Nó giúp cho sự hoạt động của màng tế bào sợi thần kinh, cần cho sự sản xuất một số hormon như hormon tuyến thượng thận, sinh dục…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:05:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850341+07:00"
+    },
+    {
+      "id": "4242e6899e80e8b45c669121f3ae153e",
+      "title": "Samsung tái diễn cơn ác mộng bloatware trên Galaxy Tab S11",
+      "link": "https://thanhnien.vn/samsung-tai-dien-con-ac-mong-bloatware-tren-galaxy-tab-s11-185250921014135969.htm",
+      "summary": "Samsung vừa ra mắt Galaxy Tab S11, một chiếc máy tính bảng mới với màn hình sáng, hiệu năng ấn tượng và hỗ trợ S Pen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:03:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850502+07:00"
+    },
+    {
+      "id": "bc7f72422a16b729f3c6decf6a9a6540",
+      "title": "Chủ quán café chạy hơn 300km để tận tay nhận thưởng 50 triệu đồng từ Number 1",
+      "link": "https://thanhnien.vn/chu-quan-cafe-chay-hon-300km-de-tan-tay-nhan-thuong-50-trieu-dong-tu-number-1-185250920220019051.htm",
+      "summary": "Mới 19 tuổi, chị Lê Thị Ngọc Trang (xã Vĩnh Gia, An Giang) đã có chuyến đi xa đáng nhớ: cùng chồng và gia đình chạy xe hơn 300 km từ sáng sớm đến Bình Dương (cũ) để tận tay nhận giải Nhất 50 triệu đồng từ chương trình khuyến mãi hè 'Tiếp năng lượng, bền đam mê' của Number 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:00:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850663+07:00"
+    },
+    {
+      "id": "08b16ee85301fa8eca627b04ac854718",
+      "title": "Gác bằng kỹ sư, khởi nghiệp với… lá ổi",
+      "link": "https://thanhnien.vn/gac-bang-ky-su-khoi-nghiep-voi-la-oi-185250920182635206.htm",
+      "summary": "Nhận bằng kỹ sư sinh học biển, được làm việc trong phòng thí nghiệm thủy sản, chị Âu Chúc Mai (35 tuổi, ngụ ấp Đá Nổi B, xã Thạnh Đông, An Giang - trước đây là xã Thạnh Đông, H.Tân Hiệp, Kiên Giang) bất ngờ rẽ hướng khởi nghiệp với… lá ổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:00:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850821+07:00"
+    },
+    {
+      "id": "0daded7d91322636fa87f8576f0dd879",
+      "title": "Phong cách Cottagecore là xu hướng của những trái tim lãng mạn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phong-cach-cottagecore-la-xu-huong-cua-nhung-trai-tim-lang-man-185250920114612313.htm",
+      "summary": "Thời trang Cottagecore mang trong mình tinh thần hoài niệm và lãng mạn. Những chiếc váy dài in họa tiết hoa nhí, tay phồng nhẹ, corset cổ điển hay chất liệu cotton, linen, voan bay bổng đều trở thành biểu tượng quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T01:00:00+07:00",
+      "fetched": "2025-09-21T08:19:38.850998+07:00"
+    },
+    {
+      "id": "5f74498d10a2a9f4789730c673e93122",
+      "title": "Hoa hậu H'Hen Niê đón con gái đầu lòng",
+      "link": "https://thanhnien.vn/hoa-hau-hhen-nie-don-con-gai-dau-long-185250921015313546.htm",
+      "summary": "Hoa hậu H'Hen Niê đã chia sẻ một đoạn video ghi lại toàn bộ quá trình vượt cạn của mình, từ những cơn đau chuyển dạ đến giây phút vỡ òa khi ôm con vào lòng. Đoạn clip nhanh chóng tạo nên một làn sóng cảm xúc trên khắp các diễn đàn mạng xã hội, thu hút hơn 50 ngàn tương tác với hàng triệu lượt xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:54:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851151+07:00"
+    },
+    {
+      "id": "e584a26de20c12f1a03a2ef1c3be0bbf",
+      "title": "Thủ môn Chelsea xin lỗi vì nhận thẻ đỏ ngay phút 5",
+      "link": "https://vnexpress.net/thu-mon-chelsea-xin-loi-vi-nhan-the-do-ngay-phut-5-4941594.html",
+      "summary": "Robert Sanchez nhận trách nhiệm vì tấm thẻ đỏ sớm, khiến Chelsea thua 1-2 trên sân Man Utd ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:50:25+07:00",
+      "fetched": "2025-09-21T08:19:32.137299+07:00"
+    },
+    {
+      "id": "e584a26de20c12f1a03a2ef1c3be0bbf",
+      "title": "Thủ môn Chelsea xin lỗi vì nhận thẻ đỏ ngay phút 5",
+      "link": "https://vnexpress.net/thu-mon-chelsea-xin-loi-vi-nhan-the-do-ngay-phut-5-4941594.html",
+      "summary": "Robert Sanchez nhận trách nhiệm vì tấm thẻ đỏ sớm, khiến Chelsea thua 1-2 trên sân Man Utd ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T00:50:25+07:00",
+      "fetched": "2025-09-21T08:20:03.053333+07:00"
+    },
+    {
+      "id": "5a1b5cdd048b3810fd458d434d120d0d",
+      "title": "Amorim: 'Man Utd cần sớm quên trận thắng Chelsea'",
+      "link": "https://vnexpress.net/amorim-man-utd-can-som-quen-tran-thang-chelsea-4941597.html",
+      "summary": "HLV Ruben Amorim muốn Man Utd lập tức hướng tới trận tiếp theo, sau khi thắng Chelsea 2-1 ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:46:35+07:00",
+      "fetched": "2025-09-21T08:19:32.137550+07:00"
+    },
+    {
+      "id": "5a1b5cdd048b3810fd458d434d120d0d",
+      "title": "Amorim: 'Man Utd cần sớm quên trận thắng Chelsea'",
+      "link": "https://vnexpress.net/amorim-man-utd-can-som-quen-tran-thang-chelsea-4941597.html",
+      "summary": "HLV Ruben Amorim muốn Man Utd lập tức hướng tới trận tiếp theo, sau khi thắng Chelsea 2-1 ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T00:46:35+07:00",
+      "fetched": "2025-09-21T08:20:03.053018+07:00"
+    },
+    {
+      "id": "0e41f9528844881e95f3c128589788fb",
+      "title": "Siêu bão Ragasa đi vào Biển Đông 'có thể đánh đắm tàu thuyền trọng tải lớn'",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-di-vao-bien-dong-co-the-danh-dam-tau-thuyen-trong-tai-lon-185250920182551565.htm",
+      "summary": "Bão Ragasa đã mạnh lên cấp 13, giật cấp 16 và sẽ đi vào Biển Đông rạng sáng 24.9 với cường độ 'siêu bão', gió mạnh cấp 16, giật trên cấp 17, có thể đánh đắm tàu thuyền trọng tải lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:44:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851309+07:00"
+    },
+    {
+      "id": "a0fe8fca85bf4364d051d8650c0a6d36",
+      "title": "Hamas tung hình ảnh 'chia tay' 48 con tin, tuyên bố Israel sẽ không còn gặp lại",
+      "link": "https://thanhnien.vn/hamas-tung-hinh-anh-chia-tay-48-con-tin-tuyen-bo-israel-se-khong-con-gap-lai-185250921073240503.htm",
+      "summary": "Hamas tuyên bố Israel sẽ không bao giờ gặp lại 48 con tin, sau khi quân đội Israel tiếp tục đẩy mạnh chiến dịch nhằm vào thành phố Gaza, được xem là thành trì cuối cùng còn lại của Hamas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:42:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851459+07:00"
+    },
+    {
+      "id": "7108811b98f9d46296e948872619748d",
+      "title": "Hà Nội đề xuất hỗ trợ 50% chi phí xây hạ tầng với dự án nhà xã hội",
+      "link": "https://vnexpress.net/ha-noi-de-xuat-ho-tro-50-chi-phi-xay-ha-tang-voi-du-an-nha-xa-hoi-4941373.html",
+      "summary": "Hà Nội đề xuất hỗ trợ tối đa 50% chi phí đầu tư xây dựng hạ tầng kỹ thuật với dự án nhà ở xã hội độc lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:39:41+07:00",
+      "fetched": "2025-09-21T08:19:32.137723+07:00"
+    },
+    {
+      "id": "73e9b7c9d68c1c53b778963890f123b9",
+      "title": "Ông Zelensky sắp gặp ông Trump nhằm thúc đẩy trừng phạt Nga",
+      "link": "https://vnexpress.net/ong-zelensky-sap-gap-ong-trump-nham-thuc-day-trung-phat-nga-4941592.html",
+      "summary": "Tổng thống Ukraine cho biết sẽ gặp người đồng cấp Mỹ bên lề phiên họp Đại hội đồng Liên Hợp Quốc để thảo luận về xung đột với Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:36:11+07:00",
+      "fetched": "2025-09-21T08:19:32.137920+07:00"
+    },
+    {
+      "id": "73e9b7c9d68c1c53b778963890f123b9",
+      "title": "Ông Zelensky sắp gặp ông Trump nhằm thúc đẩy trừng phạt Nga",
+      "link": "https://vnexpress.net/ong-zelensky-sap-gap-ong-trump-nham-thuc-day-trung-phat-nga-4941592.html",
+      "summary": "Tổng thống Ukraine cho biết sẽ gặp người đồng cấp Mỹ bên lề phiên họp Đại hội đồng Liên Hợp Quốc để thảo luận về xung đột với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-21T00:36:11+07:00",
+      "fetched": "2025-09-21T08:19:57.654819+07:00"
+    },
+    {
+      "id": "c19e783c5afdb12dbd47e2a7893e09ed",
+      "title": "Giá USD hôm nay 21.9.2025: Giảm trong khi bảng Anh và euro đi xuống",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2192025-giam-trong-khi-bang-anh-va-euro-di-xuong-185250921070942996.htm",
+      "summary": "Giá USD trong nước vẫn đi xuống bất chấp thế giới hồi phục trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:31:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851611+07:00"
+    },
+    {
+      "id": "0c82c7da2702bc05076b0e9c1870e792",
+      "title": "Vì sao nhà thờ Tắc Sậy luôn tấp nập khách hành hương?",
+      "link": "https://thanhnien.vn/vi-sao-nha-tho-tac-say-luon-tap-nap-khach-hanh-huong-185250920195019961.htm",
+      "summary": "Nơi an nghỉ của vị linh mục đổi mạng cứu dân, thánh đường Tắc Sậy là một trong những điểm hành hương nổi tiếng nhất Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:30:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851763+07:00"
+    },
+    {
+      "id": "630fe4af003995b4d8f588b34218522d",
+      "title": "Lần đầu Việt Nam có chuẩn đào tạo kỹ sư, thạc sĩ tài năng",
+      "link": "https://vnexpress.net/lan-dau-viet-nam-co-chuan-dao-tao-ky-su-thac-si-tai-nang-4941521.html",
+      "summary": "Kỹ sư, thạc sĩ tài năng nhóm STEM cần đạt chuẩn đầu ra cao hơn thông thường, như công bố quốc tế hay nghiên cứu có tiềm năng ứng dụng, theo Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:24:19+07:00",
+      "fetched": "2025-09-21T08:19:32.138089+07:00"
+    },
+    {
+      "id": "cdeefff33f6646febc67182a966d3383",
+      "title": "Bất ngờ cá voi sát thủ húc nhiều tàu thuyền ngoài khơi Bồ Đào Nha",
+      "link": "https://thanhnien.vn/bat-ngo-ca-voi-sat-thu-huc-nhieu-tau-thuyen-ngoai-khoi-bo-dao-nha-185250920213237555.htm",
+      "summary": "Thủy thủ đoàn đã được một tàu tuần tra đưa về cảng Cascais (Bồ Đào Nha) sau khi bị một con cá voi sát thủ tấn công liên tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:20:00+07:00",
+      "fetched": "2025-09-21T08:19:38.851934+07:00"
+    },
+    {
+      "id": "ce0e6cb01582166bdd23a6b2c4d10a15",
+      "title": "Bùi Tiến Dũng nghẹn lòng trước người bố đơn thân nuôi 4 con khi vợ mất",
+      "link": "https://thanhnien.vn/bui-tien-dung-nghen-long-truoc-nguoi-bo-don-than-nuoi-4-con-khi-vo-mat-185250921010332828.htm",
+      "summary": "Hoàn cảnh khó khăn của gia đình anh Hồ Văn Định trong chương trình 'Mái ấm gia đình Việt' khiến cầu thủ Bùi Tiến Dũng không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:11:00+07:00",
+      "fetched": "2025-09-21T08:19:38.852091+07:00"
+    },
+    {
+      "id": "1cae42cbc478076b002315fb3e7eb9b3",
+      "title": "Chiêu vay gian dối 1.000 tỷ đồng của đại gia thủy sản miền Tây",
+      "link": "https://vnexpress.net/chieu-vay-gian-doi-1-000-ty-dong-cua-dai-gia-thuy-san-mien-tay-4941482.html",
+      "summary": "Hai Chủ tịch HĐQT Công ty Cadovimex bị cáo buộc chỉ đạo cấp dưới lập khống hồ sơ vay hơn 1.000 tỷ đồng của 3 ngân hàng, phần lớn dùng trái mục đích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.138244+07:00"
+    },
+    {
+      "id": "e3b7b197c8b3408a88171bfb61d0066a",
+      "title": "Việt Nam chuẩn bị hạ tầng cho Internet thế hệ mới",
+      "link": "https://vnexpress.net/viet-nam-chuan-bi-ha-tang-cho-internet-the-he-moi-4940856.html",
+      "summary": "Khi các địa chỉ IPv4 dần cạn kiệt, Việt Nam là một trong những quốc gia tiên phong chuyển đổi sang IPv6, chuẩn bị nền tảng Internet cho kỷ nguyên kết nối mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.138409+07:00"
+    },
+    {
+      "id": "5fed3877a16ae88811d1282b8ae98d18",
+      "title": "Hơn 800 xe Ford Territory lỗi giá đỡ trụ lái",
+      "link": "https://vnexpress.net/hon-800-xe-ford-territory-loi-gia-do-tru-lai-4941543.html",
+      "summary": "Nhiều mẫu Territory khó hoặc không thể điều khiển vô-lăng trong một số trường hợp do lỗi giá đỡ trụ lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.138570+07:00"
+    },
+    {
+      "id": "dd8aeb6bc491db60a8e8a5ce321428b7",
+      "title": "Chính sách thuê, mua lại căn hộ tại Cara River Park Cần Thơ",
+      "link": "https://vnexpress.net/chinh-sach-thue-mua-lai-can-ho-tai-cara-river-park-can-tho-4941233.html",
+      "summary": "Cara Group công bố gói bán hàng cho dự án căn hộ Cara River Park (Cần Thơ) với nhiều ưu đãi tài chính, cam kết thuê lại trong 2 năm và mua lại nguyên giá sau 2 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T00:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.138733+07:00"
+    },
+    {
+      "id": "e3b7b197c8b3408a88171bfb61d0066a",
+      "title": "Việt Nam chuẩn bị hạ tầng cho Internet thế hệ mới",
+      "link": "https://vnexpress.net/viet-nam-chuan-bi-ha-tang-cho-internet-the-he-moi-4940856.html",
+      "summary": "Khi các địa chỉ IPv4 dần cạn kiệt, Việt Nam là một trong những quốc gia tiên phong chuyển đổi sang IPv6, chuẩn bị nền tảng Internet cho kỷ nguyên kết nối mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T00:00:00+07:00",
+      "fetched": "2025-09-21T08:20:02.199121+07:00"
+    },
+    {
+      "id": "6d447f7e0bbcf7e04d9d73ff6384a2ea",
+      "title": "Ông Trump cảnh báo hậu quả nếu Taliban không giao căn cứ Bagram",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-hau-qua-neu-taliban-khong-giao-can-cu-bagram-4941591.html",
+      "summary": "Tổng thống Trump cảnh báo \"những điều tồi tệ sẽ xảy ra\" nếu Afghanistan không giao lại quyền kiểm soát căn cứ không quân Bagram cho Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:52:50+07:00",
+      "fetched": "2025-09-21T08:19:32.138912+07:00"
+    },
+    {
+      "id": "6d447f7e0bbcf7e04d9d73ff6384a2ea",
+      "title": "Ông Trump cảnh báo hậu quả nếu Taliban không giao căn cứ Bagram",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-hau-qua-neu-taliban-khong-giao-can-cu-bagram-4941591.html",
+      "summary": "Tổng thống Trump cảnh báo \"những điều tồi tệ sẽ xảy ra\" nếu Afghanistan không giao lại quyền kiểm soát căn cứ không quân Bagram cho Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-20T23:52:50+07:00",
+      "fetched": "2025-09-21T08:19:57.654158+07:00"
+    },
+    {
+      "id": "c044e4a4b6c591faa70b88bde021c505",
+      "title": "Bão Ragasa lên cấp 13, có khả năng thành siêu bão",
+      "link": "https://vnexpress.net/bao-ragasa-len-cap-13-co-kha-nang-thanh-sieu-bao-4941590.html",
+      "summary": "Hôm nay, bão Ragasa dự báo tăng khoảng 1-2 cấp trước khi đạt cường độ siêu bão cấp 16 vào ngày mai và đi vào Biển Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:33:41+07:00",
+      "fetched": "2025-09-21T08:19:32.139069+07:00"
+    },
+    {
+      "id": "ecd48858896ea6e6583372ec8b2b9dbb",
+      "title": "'Cuộc chiến tiền bạc' trong gia đình vợ Việt, chồng Tây",
+      "link": "https://vnexpress.net/cuoc-chien-tien-bac-trong-gia-dinh-vo-viet-chong-tay-4941454.html",
+      "summary": "Mới cưới được nửa năm nhưng Minh Thư, 30 tuổi, đã ba lần định ly hôn do \"không chịu nổi thói vung tay quá trán và ích kỷ của chồng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:33:00+07:00",
+      "fetched": "2025-09-21T08:19:32.139218+07:00"
+    },
+    {
+      "id": "8396360459715386027851259709b5fa",
+      "title": "Thấp thỏm vì lắp điện mặt trời tự dùng",
+      "link": "https://vnexpress.net/thap-thom-vi-lap-dien-mat-troi-tu-dung-4940341.html",
+      "summary": "Lắp điện mặt trời được hai năm, chị Hải An mới biết phải đăng ký với cơ quan chức năng, thậm chí có thể bị phạt nếu không thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:27:00+07:00",
+      "fetched": "2025-09-21T08:19:32.139376+07:00"
+    },
+    {
+      "id": "c62c391d74fcfc66ded0d105f1e4aab8",
+      "title": "Cảnh sát hóa trang, đột kích xưởng làm giả nước giặt 'hàng ngoại'",
+      "link": "https://vnexpress.net/canh-sat-hoa-trang-dot-kich-xuong-lam-gia-nuoc-giat-hang-ngoai-4941486.html",
+      "summary": "Trong vai shipper, các cảnh sát kinh tế bắt quả tang nhiều người đang làm giả nước giặt, xả, mang thương hiệu nước ngoài, ngày 20/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.139529+07:00"
+    },
+    {
+      "id": "f4c5d8578ab042104be952895f3af501",
+      "title": "CEO thay đổi lối sống sau khi cha qua đời vì Alzheimer",
+      "link": "https://vnexpress.net/ceo-thay-doi-loi-song-sau-khi-cha-qua-doi-vi-alzheimer-4941445.html",
+      "summary": "Cú sốc cha qua đời vì bệnh Alzheimer khiến Dugal Bain-Kim, giám đốc một công ty chuyên về kéo dài tuổi thọ, thay đổi toàn bộ lối sống để bảo vệ bộ não của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T23:00:00+07:00",
+      "fetched": "2025-09-21T08:19:32.139689+07:00"
+    },
+    {
+      "id": "e2632be5056631f683093d16cdccce7c",
+      "title": "Ronaldo lập cú đúp giúp Al Nassr giữ đỉnh bảng",
+      "link": "https://vnexpress.net/ronaldo-lap-cu-dup-giup-al-nassr-giu-dinh-bang-4941589.html",
+      "summary": "Cristiano Ronaldo ghi hai bàn, trong ngày vợ sắp cưới Georgina Rodriguez ngồi trên khán đài trận Al Nassr hạ Al Riyadh 5-1 ở vòng ba Saudi Pro League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T22:50:51+07:00",
+      "fetched": "2025-09-21T08:20:03.052338+07:00"
+    },
+    {
+      "id": "e8f1321fad981c80722de2e4e68ef9c6",
+      "title": "Kane lập hat-trick cho Bayern ở Bundesliga",
+      "link": "https://vnexpress.net/kane-lap-hat-trick-cho-bayern-o-bundesliga-4941588.html",
+      "summary": "Tiền đạo Harry Kane ghi ba bàn trong chiến thắng 4-1 của Bayern trên sân Hoffenheim ở vòng bốn Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T22:27:48+07:00",
+      "fetched": "2025-09-21T08:20:03.053177+07:00"
     },
     {
       "id": "b993e45e1cbb5cee7a5b6c5f655986b2",
