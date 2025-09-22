@@ -1,7 +1,157 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T17:18:45.716436+07:00",
+  "lastUpdated": "2025-09-22T19:34:26.737413+07:00",
   "articles": [
+    {
+      "id": "c11a26b49f2998b928def61e0935fc47",
+      "title": "'Chợ chồm hổm' dọc theo quốc lộ, để tồn tại khác gì 'bẫy tai nạn'?",
+      "link": "https://tuoitre.vn/cho-chom-hom-doc-theo-quoc-lo-de-ton-tai-khac-gi-bay-tai-nan-20250922153335086.htm",
+      "summary": "Tại tỉnh Đắk Lắk có nhiều 'chợ chồm hổm' tập trung đông người ven đường, nguy cơ xảy ra tai nạn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163698+07:00",
+      "fetched": "2025-09-22T19:34:20.163810+07:00"
+    },
+    {
+      "id": "1c9760cd56a375973a05605c368db8b2",
+      "title": "Golfer Việt Nam hạnh phúc vì được thi đấu cùng huyền thoại tại Vietnam Legends Championship",
+      "link": "https://tuoitre.vn/golfer-viet-nam-hanh-phuc-vi-duoc-thi-dau-cung-huyen-thoai-tai-vietnam-legends-championship-20250922171749516.htm",
+      "summary": "Hai ngày mở màn của hành trình golf Vietnam Legends Championship 2025 là cơ hội tuyệt vời cho các golfer Việt Nam gặp tận mắt các thần tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163571+07:00",
+      "fetched": "2025-09-22T19:34:20.163686+07:00"
+    },
+    {
+      "id": "02ba157bdf57fbe19cdafa0f653031d9",
+      "title": "Aspirin liều thấp giúp giảm mạnh nguy cơ tái phát ung thư đại trực tràng",
+      "link": "https://tuoitre.vn/aspirin-lieu-thap-giup-giam-manh-nguy-co-tai-phat-ung-thu-dai-truc-trang-20250922162111908.htm",
+      "summary": "Báo The Guardian mới đây đưa tin, một nghiên cứu tại Thụy Điển cho thấy aspirin liều thấp có thể cắt giảm hơn một nửa nguy cơ ung thư đại trực tràng tái phát sau phẫu thuật ở những bệnh nhân mang một số biến thể gien nhất định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163444+07:00",
+      "fetched": "2025-09-22T19:34:20.163560+07:00"
+    },
+    {
+      "id": "469769519afe20523c664177d0272a5d",
+      "title": "Nhân viên đường sắt dũng cảm cứu người: ‘Tôi có phải siêu nhân đâu mà không sợ’",
+      "link": "https://tuoitre.vn/nhan-vien-duong-sat-dung-cam-cuu-nguoi-toi-co-phai-sieu-nhan-dau-ma-khong-so-20250922170110493.htm",
+      "summary": "Nhân viên đường sắt Nguyễn Sơn Oánh lao ra cứu người kịp trước tàu 3 giây, thót tim nhưng vui: “Tôi có phải siêu nhân đâu”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163306+07:00",
+      "fetched": "2025-09-22T19:34:20.163429+07:00"
+    },
+    {
+      "id": "2a706cc4953480df91a3c9d2c1aa93fc",
+      "title": "Ong mật có thể gây hại đến thiên nhiên",
+      "link": "https://tuoitre.vn/ong-mat-co-the-gay-hai-den-thien-nhien-20250922162258511.htm",
+      "summary": "Thí nghiệm trên đảo Giannutri (Italy) cho thấy ong mật, loài thụ phấn quan trọng, có thể gây hại cho ong hoang dã và đe dọa sự cân bằng sinh thái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163184+07:00",
+      "fetched": "2025-09-22T19:34:20.163295+07:00"
+    },
+    {
+      "id": "a5d19ddc5a50aeedb371a5ab79549479",
+      "title": "Giải thưởng Du lịch Việt Nam khuyến khích doanh nghiệp ứng dụng công nghệ tiên tiến",
+      "link": "https://tuoitre.vn/giai-thuong-du-lich-viet-nam-khuyen-khich-doanh-nghiep-ung-dung-cong-nghe-tien-tien-20250922165959196.htm",
+      "summary": "Chiều 22-9, tại Hà Nội, Cục Du lịch quốc gia Việt Nam đã thông tin về giải thưởng Du lịch Việt Nam với 11 hạng mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.163060+07:00",
+      "fetched": "2025-09-22T19:34:20.163173+07:00"
+    },
+    {
+      "id": "e0900b8a6e92321f80645d119a9e95ca",
+      "title": "Phó chủ tịch TP Đà Nẵng: 'Kinh tế số chiếm 35-40% tổng GRDP là tỉ lệ rất lớn'",
+      "link": "https://tuoitre.vn/pho-chu-tich-tp-da-nang-kinh-te-so-chiem-35-40-tong-grdp-la-ti-le-rat-lon-20250922171104962.htm",
+      "summary": "Phó chủ tịch UBND Đà Nẵng Hồ Quang Bửu nhận định mục tiêu kinh tế số chiếm 35-40% GRDP vào năm 2030 là tỉ lệ rất lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162916+07:00",
+      "fetched": "2025-09-22T19:34:20.163048+07:00"
+    },
+    {
+      "id": "4a4c3d0b7f91c6b4d5db11ff5d942d65",
+      "title": "Cà Mau thiếu hơn 1.520 viên chức ngành giáo dục sau sáp nhập",
+      "link": "https://tuoitre.vn/ca-mau-thieu-hon-1-520-vien-chuc-nganh-giao-duc-sau-sap-nhap-20250922172418639.htm",
+      "summary": "Ngành giáo dục Cà Mau thiếu hơn 1.500 viên chức, UBND tỉnh thống nhất tuyển dụng để đáp ứng nhu cầu năm học mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162793+07:00",
+      "fetched": "2025-09-22T19:34:20.162905+07:00"
+    },
+    {
+      "id": "86adb64c77554eed7bd84bc1b5b2487d",
+      "title": "Dân mạng quay clip, tài xế chạy xe kiểu 'nửa vời' bị lập biên bản",
+      "link": "https://tuoitre.vn/dan-mang-quay-clip-tai-xe-chay-xe-kieu-nua-voi-bi-lap-bien-ban-20250922165048221.htm",
+      "summary": "Ngày 22-9, Đội CSGT An Sương lập biên bản với tài xế xe bán tải chạy kiểu “nửa vời” trên vỉa hè sau phản ánh từ mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162667+07:00",
+      "fetched": "2025-09-22T19:34:20.162781+07:00"
+    },
+    {
+      "id": "887bffa7083333f1447bbed01e5c461d",
+      "title": "Lãnh đạo TP.HCM thăm gia đình 3 mẹ con bị ô tô tông tử vong",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-tham-gia-dinh-3-me-con-bi-o-to-tong-tu-vong-20250922173547817.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Trần Thị Diệu Thúy cùng lãnh đạo thành phố thăm, động viên gia đình ba mẹ con tử vong vì ô tô tông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162543+07:00",
+      "fetched": "2025-09-22T19:34:20.162656+07:00"
+    },
+    {
+      "id": "a5334e33b33cb2d277cccfc30d4417c8",
+      "title": "Đức, Thụy Điển điều chiến đấu cơ chặn máy bay Nga trên biển Baltic",
+      "link": "https://tuoitre.vn/duc-thuy-dien-dieu-chien-dau-co-chan-may-bay-nga-tren-bien-baltic-20250922170554612.htm",
+      "summary": "Thụy Điển và Đức điều chiến đấu cơ chặn máy bay trinh sát Nga xâm nhập không phận trung lập trên biển Baltic.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162417+07:00",
+      "fetched": "2025-09-22T19:34:20.162531+07:00"
+    },
+    {
+      "id": "7b153b462e68f7809cc64e8d3baff765",
+      "title": "Huỳnh Như lập siêu phẩm, giải 'cơn khô hạn' bàn thắng ở Giải nữ quốc gia 2025",
+      "link": "https://tuoitre.vn/huynh-nhu-lap-sieu-pham-giai-con-kho-han-ban-thang-o-giai-nu-quoc-gia-2025-20250922174442707.htm",
+      "summary": "Huỳnh Như lập cú đúp, gồm siêu phẩm đá phạt, giúp TP.HCM I hòa Hà Nội 2-2 tại vòng 5 Giải nữ quốc gia 2025 trong chiều 22-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162287+07:00",
+      "fetched": "2025-09-22T19:34:20.162406+07:00"
+    },
+    {
+      "id": "fea82de33a6f7bed7b94f35aa4865611",
+      "title": "Ngân hàng số thứ hai của Israel ra mắt mô hình không thu phí",
+      "link": "https://tuoitre.vn/ngan-hang-so-thu-hai-cua-israel-ra-mat-mo-hinh-khong-thu-phi-2025092216272299.htm",
+      "summary": "Ngân hàng số thứ hai của Israel - Esh Bank Israel Ltd. sẽ hoạt động vào đầu năm 2026 với cam kết không thu bất kỳ loại phí nào từ khách hàng và chia sẻ 50% doanh thu từ lãi suất với người gửi tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162153+07:00",
+      "fetched": "2025-09-22T19:34:20.162274+07:00"
+    },
+    {
+      "id": "0e6ae47bc33d5646cf8ccd6cfec9feb8",
+      "title": "Đỗ Thị Hải Yến đóng vai hoàng hậu trong phim Hộ linh tráng sĩ",
+      "link": "https://tuoitre.vn/do-thi-hai-yen-dong-vai-hoang-hau-trong-phim-ho-linh-trang-si-20250922175111461.htm",
+      "summary": "Tại hội thảo điện ảnh Việt ở Liên hoan phim Busan, diễn viên Đỗ Thị Hải Yến được công bố đóng vai hoàng hậu họ Dương trong phim 'Hộ linh tráng sĩ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.162011+07:00",
+      "fetched": "2025-09-22T19:34:20.162141+07:00"
+    },
+    {
+      "id": "fb78f80365a034fa64b3a42bf0d1e7f7",
+      "title": "Người nổi tiếng lăng xê thực phẩm bẩn: Trào lưu đe dọa sức khỏe người dân",
+      "link": "https://tuoitre.vn/nguoi-noi-tieng-lang-xe-thuc-pham-ban-trao-luu-de-doa-suc-khoe-nguoi-dan-2025092217454075.htm",
+      "summary": "Nhiều người nổi tiếng quảng cáo thực phẩm kém chất lượng, biến chúng thành trào lưu, gây rủi ro sức khỏe và xói mòn niềm tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:34:20.161769+07:00",
+      "fetched": "2025-09-22T19:34:20.161995+07:00"
+    },
     {
       "id": "97a8d5d5b829c79d3bc4655b875b9875",
       "title": "Bạc hà có thể thanh lọc gan chỉ trong vài ngày?",
@@ -453,6 +603,336 @@ window.newsData_2025_09_22 = {
       "fetched": "2025-09-22T13:26:19.709528+07:00"
     },
     {
+      "id": "4cd9b8e0457612f59e393857183fe0a5",
+      "title": "Đầu bếp dắt con gái đi hẹn hò, khóc nghẹn kể chuyện cay đắng khi ở rể",
+      "link": "https://thanhnien.vn/dau-bep-dat-con-gai-di-hen-ho-khoc-nghen-ke-chuyen-cay-dang-khi-o-re-185250922175706127.htm",
+      "summary": "Tập mới nhất 'Bạn muốn hẹn hò' cùng Quyền Linh làm cầu nối thành công cho cặp đôi từng đổ vỡ hôn nhân tìm được hạnh phúc mới. Đặc biệt, con gái 6 tuổi của đầu bếp và hai con của mẹ đơn thân cũng xuất hiện tại chương trình khiến ai nấy đều xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:22:00+07:00",
+      "fetched": "2025-09-22T19:34:19.350512+07:00"
+    },
+    {
+      "id": "ec0e097aab3316faa79bf685135b5fd7",
+      "title": "Đỗ Thị Hải Yến đóng Hoàng hậu Dương Vân Nga",
+      "link": "https://vnexpress.net/do-thi-hai-yen-dong-hoang-hau-duong-van-nga-4942076.html",
+      "summary": "Diễn viên Đỗ Thị Hải Yến thủ vai Hoàng hậu Dương Vân Nga trong phim \"Hộ linh tráng sĩ\", do Nguyễn Phan Quang Bình đạo diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:20:35+07:00",
+      "fetched": "2025-09-22T19:34:16.412653+07:00"
+    },
+    {
+      "id": "bfea26db21ac9ccc244cbe5a35e5ae64",
+      "title": "Cộng đồng Esports Việt động viên TSW sau chung kết LCP 2025",
+      "link": "https://vnexpress.net/cong-dong-esports-viet-dong-vien-tsw-sau-chung-ket-lcp-2025-4942050.html",
+      "summary": "Nhiều KOL, streamer Esports Việt cho rằng thất bại trước CFO là bước đệm để TSW hướng đến Chung kết Thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:18:00+07:00",
+      "fetched": "2025-09-22T19:34:16.412832+07:00"
+    },
+    {
+      "id": "bfea26db21ac9ccc244cbe5a35e5ae64",
+      "title": "Cộng đồng Esports Việt động viên TSW sau chung kết LCP 2025",
+      "link": "https://vnexpress.net/cong-dong-esports-viet-dong-vien-tsw-sau-chung-ket-lcp-2025-4942050.html",
+      "summary": "Nhiều KOL, streamer Esports Việt cho rằng thất bại trước CFO là bước đệm để TSW hướng đến Chung kết Thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-22T12:18:00+07:00",
+      "fetched": "2025-09-22T19:34:25.782039+07:00"
+    },
+    {
+      "id": "762e8b6f030c96c0f57629bb0b00e99d",
+      "title": "Mưa lớn từ sáng sớm ở TP.HCM, tiểu thương than buôn bán ế ẩm",
+      "link": "https://thanhnien.vn/mua-lon-tu-sang-som-o-tphcm-tieu-thuong-than-buon-ban-e-am-185250922185032963.htm",
+      "summary": "Sáng 22.9, TP.HCM chìm trong mưa dầm kéo dài do ảnh hưởng siêu bão Ragasa gây khó khăn đến việc buôn bán và đi lại của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:15:00+07:00",
+      "fetched": "2025-09-22T19:34:19.350680+07:00"
+    },
+    {
+      "id": "ce4d809fc99118644b9a5ed04aae255f",
+      "title": "Hơn 3.000 VĐV tham dự chung kết giải chạy Báo Hà Nội Mới mở rộng 2025",
+      "link": "https://thanhnien.vn/hon-3000-vdv-tham-du-chung-ket-giai-chay-bao-ha-noi-moi-mo-rong-2025-185250922185719216.htm",
+      "summary": "Chiều 22.9, tại Hà Nội, đã diễn ra buổi họp báo chung kết giải chạy Báo Hà Nội Mới mở rộng lần thứ 50 - Vì hòa bình năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:11:00+07:00",
+      "fetched": "2025-09-22T19:34:19.350835+07:00"
+    },
+    {
+      "id": "26a1868003cdda6303ff669c34ebf490",
+      "title": "Sốc phản vệ do uống thuốc không rõ loại",
+      "link": "https://vnexpress.net/soc-phan-ve-do-uong-thuoc-khong-ro-loai-4942170.html",
+      "summary": "Người phụ nữ 60 tuổi sốt, mệt mỏi, ra hiệu thuốc mua thuốc về uống sau đó khó thở, mẩn đỏ toàn thân, bác sĩ xác định sốc phản vệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:09:30+07:00",
+      "fetched": "2025-09-22T19:34:16.413023+07:00"
+    },
+    {
+      "id": "1d2be853f0c35989cf199ce46b6340e5",
+      "title": "Tắm sáng hay tối tốt hơn?",
+      "link": "https://vnexpress.net/tam-sang-hay-toi-tot-hon-4941924.html",
+      "summary": "Một số người cho rằng tắm buổi sáng có lợi cho sức khỏe, số khác lại chọn buổi tối vì giúp cơ thể gột rửa bụi bẩn sau một ngày và ngủ ngon hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:06:33+07:00",
+      "fetched": "2025-09-22T19:34:16.413190+07:00"
+    },
+    {
+      "id": "dadc8a33685994fa527721b4bd82fd14",
+      "title": "Tài xế đuổi đánh hành khách bị phạt hơn 5 triệu đồng",
+      "link": "https://vnexpress.net/tai-xe-duoi-danh-hanh-khach-bi-phat-hon-5-trieu-dong-4942246.html",
+      "summary": "Tài xế Phan Ngọc Giám bị phạt 5,75 triệu đồng do đuổi đánh thanh niên cầm điện thoại quay lại cảnh ôtô chở khách lạng lách, yêu cầu xóa video.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:05:01+07:00",
+      "fetched": "2025-09-22T19:34:16.413348+07:00"
+    },
+    {
+      "id": "ea254ce921cb320316f6fde3c14a0d29",
+      "title": "10 năm không dám chạy ôtô ra đường dù có bằng lái",
+      "link": "https://vnexpress.net/hoc-lai-xe-oto-hoc-lai-xe-b2-hoc-lai-xe-oto-bao-lau-10-nam-khong-dam-dieu-khien-oto-ra-duong-du-co-bang-lai-4942181.html",
+      "summary": "Với trình độ học mẹo của mình, tôi chỉ đủ để thi đậu, cùng lắm là chạy trong sa hình, chứ chưa thể tự tin cầm lái ra đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:16.413511+07:00"
+    },
+    {
+      "id": "8dae3496f46931178ad3e5fe709b8ee7",
+      "title": "Ông chủ LVMH: Mức thuế với giới siêu giàu sẽ phá huỷ kinh tế Pháp",
+      "link": "https://vnexpress.net/ong-chu-lvmh-muc-thue-voi-gioi-sieu-giau-se-pha-huy-kinh-te-phap-4942145.html",
+      "summary": "Tỷ phú giàu nhất châu Âu Bernard Arnault chỉ trích rằng, đề xuất áp thuế 2% với giới siêu giàu có thể phá hủy nền kinh tế Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:16.413753+07:00"
+    },
+    {
+      "id": "9a1f3fef0e4b2fea0549dd86d53dc283",
+      "title": "Dung mạo người đẹp Cà Mau đoạt á hậu Miss Grand Vietnam",
+      "link": "https://vnexpress.net/dung-mao-nguoi-dep-ca-mau-doat-a-hau-miss-grand-vietnam-4941018.html",
+      "summary": "Thu Ngân, 22 tuổi - á hậu 1 Miss Grand Vietnam 2025 - có gương mặt hài hòa, nụ cười răng khểnh tạo thiện cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:16.413988+07:00"
+    },
+    {
+      "id": "79f0237c44b838c188f6e161528909ca",
+      "title": "Những nghệ nhân là 'sứ giả Trung thu'",
+      "link": "https://vnexpress.net/nhung-nghe-nhan-la-su-gia-trung-thu-4942236.html",
+      "summary": "Nghệ nhân Nguyễn Văn Thành mỗi ngày làm 200 chiếc lồng đèn, ông Phạm Văn Quang hơn 40 năm giữ nghề tạo khuôn bánh gỗ truyền thống, được gọi là \"sứ giả Trung thu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:16.414151+07:00"
+    },
+    {
+      "id": "61d0709f906d95ba8e77900d9a28b80d",
+      "title": "Vàng da là biểu hiện của những bệnh nào?",
+      "link": "https://vnexpress.net/vang-da-la-bieu-hien-cua-nhung-benh-nao-4942203.html",
+      "summary": "Hơn một tháng qua, da tôi ngả vàng, dễ bị bầm tím và chảy máu. Đây là dấu hiệu bệnh gì? (Tấn Tài, 35 tuổi, Điện Biên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:16.414315+07:00"
+    },
+    {
+      "id": "68c2eae537ed796c76237c01fbd247c3",
+      "title": "TP.HCM: Trường tiểu học Vĩnh Tân đã có 100 bộ bàn ghế mới",
+      "link": "https://thanhnien.vn/tphcm-truong-tieu-hoc-vinh-tan-da-co-100-bo-ban-ghe-moi-185250922181503694.htm",
+      "summary": "Trường tiểu học Vĩnh Tân (TP.HCM) sử dụng bàn ghế cũ, xuống cấp do số lượng học sinh tăng đột biến, Chủ tịch UBND TP.HCM Nguyễn Văn Được đã có chỉ đạo khẩn và ngay trong ngày 22.9, trường đã tiếp nhận 100 bộ bàn ghế mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:00:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351019+07:00"
+    },
+    {
+      "id": "62e8b23f2a1f6b605aade793b3e3f09a",
+      "title": "Kẻ sàm sỡ, cướp túi xách bị bắt",
+      "link": "https://vnexpress.net/ke-sam-so-cuop-tui-xach-bi-bat-4942252.html",
+      "summary": "Nguyễn Đức Hà trên đường đi \"săn\" phụ nữ đã phát hiện cô gái đang đi xe máy một mình nên lập tức sàm sỡ, cướp giật túi xách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:51:13+07:00",
+      "fetched": "2025-09-22T19:34:16.414477+07:00"
+    },
+    {
+      "id": "bbe70b23777ad715c14e7d91a2c97ae6",
+      "title": "Thủ tướng: Nhà nước làm những gì tư nhân không thể",
+      "link": "https://vnexpress.net/thu-tuong-nha-nuoc-lam-nhung-gi-tu-nhan-khong-the-4942251.html",
+      "summary": "Thủ tướng nêu quan điểm, các thành phần kinh tế cạnh tranh bình đẳng, nhà nước làm những gì tư nhân không thể, chứ không phải những điều họ có thể làm tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:50:16+07:00",
+      "fetched": "2025-09-22T19:34:16.414633+07:00"
+    },
+    {
+      "id": "bbe70b23777ad715c14e7d91a2c97ae6",
+      "title": "Thủ tướng: Nhà nước làm những gì tư nhân không thể",
+      "link": "https://vnexpress.net/thu-tuong-nha-nuoc-lam-nhung-gi-tu-nhan-khong-the-4942251.html",
+      "summary": "Thủ tướng nêu quan điểm, các thành phần kinh tế cạnh tranh bình đẳng, nhà nước làm những gì tư nhân không thể, chứ không phải những điều họ có thể làm tốt hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T11:50:16+07:00",
+      "fetched": "2025-09-22T19:34:22.884392+07:00"
+    },
+    {
+      "id": "84701fc8536583bb40011d42eaf8efd5",
+      "title": "TP.HCM: Hơn 200 mẹ bầu tham gia Ngày hội sữa mẹ của Bệnh viện Phương Nam",
+      "link": "https://thanhnien.vn/tphcm-hon-200-me-bau-tham-gia-ngay-hoi-sua-me-cua-benh-vien-phuong-nam-185250922190341408.htm",
+      "summary": "Ngày 21.9, Bệnh viện Phương Nam (Thành viên tập đoàn Y tế Phương Châu) đã tổ chức Ngày hội Sữa mẹ là chân ái  với sự tham gia của hơn 200 gia đình. Sự kiện có sự góp mặt của hotmom Thanh Trần và Miss Thu Nương, những gương mặt truyền cảm hứng trong hành trình làm mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:48:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351181+07:00"
+    },
+    {
+      "id": "dbe30056a0f56946a6ed35351c7228be",
+      "title": "Giáo viên nói gì trước thông tư mới về kỷ luật, khen thưởng học sinh?",
+      "link": "https://thanhnien.vn/giao-vien-noi-gi-truoc-thong-tu-moi-ve-ky-luat-khen-thuong-hoc-sinh-185250921081032943.htm",
+      "summary": "Các giáo viên chia sẻ góc nhìn của họ về Thông tư 19/2025/TT-BGDĐT của Bộ GD-ĐT quy định về khen thưởng và kỷ luật học sinh, thay cho Thông tư số 08/TT từ năm 1988.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:46:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351332+07:00"
+    },
+    {
+      "id": "b0a3e4838fe8e572ca7e1f2f46eeb24e",
+      "title": "Ba người chết ở Australia vì nhà mạng mất sóng",
+      "link": "https://vnexpress.net/ba-nguoi-chet-o-australia-vi-nha-mang-mat-song-4942178.html",
+      "summary": "Nhà mạng Optus hứng chỉ trích sau sự cố mất sóng diện rộng, khiến hàng trăm người không thể gọi dịch vụ cấp cứu, dẫn đến ba trường hợp tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:45:05+07:00",
+      "fetched": "2025-09-22T19:34:16.414783+07:00"
+    },
+    {
+      "id": "b0a3e4838fe8e572ca7e1f2f46eeb24e",
+      "title": "Ba người chết ở Australia vì nhà mạng mất sóng",
+      "link": "https://vnexpress.net/ba-nguoi-chet-o-australia-vi-nha-mang-mat-song-4942178.html",
+      "summary": "Nhà mạng Optus hứng chỉ trích sau sự cố mất sóng diện rộng, khiến hàng trăm người không thể gọi dịch vụ cấp cứu, dẫn đến ba trường hợp tử vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T11:45:05+07:00",
+      "fetched": "2025-09-22T19:34:21.754693+07:00"
+    },
+    {
+      "id": "33915dec8d2f4150ee809a7ed9dc8d85",
+      "title": "Clip xe bán tải leo vỉa hè gây bức xúc: CSGT làm việc với tài xế",
+      "link": "https://thanhnien.vn/clip-xe-ban-tai-leo-via-he-gay-buc-xuc-csgt-lam-viec-voi-tai-xe-185250922183605584.htm",
+      "summary": "Chiều 22.9, Phòng CSGT (PC08, Công an TP.HCM) cho biết, CSGT đã làm việc với tài xế xe bán tải leo vỉa hè gây bức xúc trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:44:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351482+07:00"
+    },
+    {
+      "id": "712208da123bd0f74266b8ab5ef56c71",
+      "title": "Chủ tịch Quốc hội: 'Luật Đất đai sửa xong rồi lại thấy bất cập'",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-luat-dat-dai-sua-xong-roi-lai-thay-bat-cap-185250922172749728.htm",
+      "summary": "Chủ tịch Quốc hội cho rằng, trong nhiệm kỳ 2021 - 2026, một số quy định pháp luật còn chưa theo kịp tình hình thực tiễn, thiếu tính ổn định, khả thi, như luật Đất đai, luật Quy hoạch, vừa sửa xong lại thấy bất cập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:43:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351630+07:00"
+    },
+    {
+      "id": "b56ce1879c4551de6212cec5a900f2f4",
+      "title": "Phó thủ tướng: Tháo gỡ dự án tồn đọng để đưa hàng triệu tỷ đồng vào nền kinh tế",
+      "link": "https://vnexpress.net/pho-thu-tuong-thao-go-du-an-ton-dong-de-dua-hang-trieu-ty-dong-vao-nen-kinh-te-4942244.html",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình tin rằng chủ trương tháo gỡ cho các dự án tồn đọng sẽ giúp nền kinh tế có thêm nguồn lực hàng triệu tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:34:29+07:00",
+      "fetched": "2025-09-22T19:34:16.414953+07:00"
+    },
+    {
+      "id": "b56ce1879c4551de6212cec5a900f2f4",
+      "title": "Phó thủ tướng: Tháo gỡ dự án tồn đọng để đưa hàng triệu tỷ đồng vào nền kinh tế",
+      "link": "https://vnexpress.net/pho-thu-tuong-thao-go-du-an-ton-dong-de-dua-hang-trieu-ty-dong-vao-nen-kinh-te-4942244.html",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình tin rằng chủ trương tháo gỡ cho các dự án tồn đọng sẽ giúp nền kinh tế có thêm nguồn lực hàng triệu tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T11:34:29+07:00",
+      "fetched": "2025-09-22T19:34:22.884565+07:00"
+    },
+    {
+      "id": "e719cef6c0dc20c9605da27916e27b76",
+      "title": "Thuê xe Limousine ghế Boeing mát-xa trọn gói nâng tầm du lịch hiện đại",
+      "link": "https://thanhnien.vn/thue-xe-limousine-ghe-boeing-mat-xa-tron-goi-nang-tam-du-lich-hien-dai-185250922174612825.htm",
+      "summary": "Để bắt đầu hành trình vi vu, điều đầu tiên mà bạn cần quan tâm là lựa chọn dịch vụ xe 'đáng chi' để chuyến đi thật trọn vẹn. Nếu bạn đang tìm kiếm vé xe đi Vũng tàu hay thuê xe limousine cho gia đình hoặc team building, đừng bỏ qua đơn vị Vie Limo - Một trong những thương hiệu dẫn đầu về dịch vụ xe ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:30:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351779+07:00"
+    },
+    {
+      "id": "0c6873efc4f63c5c0a64899d2d305c09",
+      "title": "Tài xế được giảm án sau sự cố tông vào nhà dân làm chết 6 người",
+      "link": "https://vnexpress.net/tai-xe-duoc-giam-an-sau-su-co-tong-vao-nha-dan-lam-chet-6-nguoi-4942214.html",
+      "summary": "Vũ Văn Hảo được giảm từ 8 xuống còn 6 năm tù do tòa đánh giá tích cực khắc phục hậu quả, được gia đình bị hại có đơn xin giảm nhẹ hình phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:26:46+07:00",
+      "fetched": "2025-09-22T19:34:16.415118+07:00"
+    },
+    {
+      "id": "68a998ab22cb9878a262f136caf02624",
+      "title": "Nga chỉ trích Estonia châm ngòi đối đầu",
+      "link": "https://vnexpress.net/nga-chi-trich-estonia-cham-ngoi-doi-dau-4942233.html",
+      "summary": "Nga bác cáo buộc cho rằng tiêm kích nước này đã xâm phạm không phận Estonia, chỉ trích Tallinn muốn châm ngòi đối đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T11:23:25+07:00",
+      "fetched": "2025-09-22T19:34:21.754866+07:00"
+    },
+    {
+      "id": "ff02c037871703b3938ec43d1e2b372e",
+      "title": "Phó thủ tướng: Đưa nguồn lực hàng triệu tỉ đồng vào nền kinh tế",
+      "link": "https://thanhnien.vn/pho-thu-tuong-dua-nguon-luc-hang-trieu-ti-dong-vao-nen-kinh-te-185250922175545715.htm",
+      "summary": "Việc tháo gỡ khó khăn, vướng mắc của các dự án tồn đọng kéo dài sẽ đưa thêm được nguồn lực hàng triệu tỉ đồng vào nền kinh tế từ nay đến đầu năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:22:00+07:00",
+      "fetched": "2025-09-22T19:34:19.351942+07:00"
+    },
+    {
+      "id": "ccb6230af21db68a847278fff46cf0d8",
+      "title": "Phương án sắp xếp đại học, bệnh viện, doanh nghiệp nhà nước",
+      "link": "https://thanhnien.vn/phuong-an-sap-xep-dai-hoc-benh-vien-doanh-nghiep-nha-nuoc-185250922172940467.htm",
+      "summary": "Ban chỉ đạo T.Ư yêu cầu sáp nhập, giải thể các cơ sở giáo dục đại học không đạt chuẩn. Sắp xếp, chuyển một số bệnh viện trực thuộc Bộ Y tế về cấp tỉnh quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:22:00+07:00",
+      "fetched": "2025-09-22T19:34:19.352099+07:00"
+    },
+    {
+      "id": "30efea7a9c7b4bd1a19f9c07f8778042",
+      "title": "Huỳnh Như tỏa sáng rực rỡ, đội TP.HCM I á quân lượt đi: Hà Nội vô địch",
+      "link": "https://thanhnien.vn/huynh-nhu-toa-sang-ruc-ro-doi-tphcm-i-a-quan-luot-di-ha-noi-vo-dich-185250922182111705.htm",
+      "summary": "Màn bùng nổ tuyệt vời của tiền đạo Huỳnh Như đã giúp cho CLB TP.HCM I giành lại 1 điểm quý giá sau khi bị Hà Nội dẫn trước đến 2 bàn trong trận cuối cùng của lượt đi giải nữ VĐQG – Cúp Thái Sơn Nam 2025 vào ngày 22.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:21:00+07:00",
+      "fetched": "2025-09-22T19:34:19.352250+07:00"
+    },
+    {
+      "id": "0541195ccd8a3d3b338cb73e576e1134",
+      "title": "Hình thành các tổ hợp công nghiệp quốc phòng",
+      "link": "https://thanhnien.vn/hinh-thanh-cac-to-hop-cong-nghiep-quoc-phong-185250922150421904.htm",
+      "summary": "Đại hội đại biểu Đảng bộ quân đội lần thứ 12 là dấu mốc đặc biệt quan trọng đối với nhiệm vụ xây dựng quân đội trong kỷ nguyên mới, kỷ nguyên vươn mình của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:21:00+07:00",
+      "fetched": "2025-09-22T19:34:19.352402+07:00"
+    },
+    {
       "id": "c0687bc3931f138fd3110c27039a37ad",
       "title": "Đường sắt khai trương đôi tàu chở khách chạy trong phạm vi Hải Phòng",
       "link": "https://tuoitre.vn/duong-sat-khai-truong-doi-tau-cho-khach-chay-trong-pham-vi-hai-phong-20250922084658397.htm",
@@ -601,6 +1081,56 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T11:19:56.547718+07:00",
       "fetched": "2025-09-22T11:19:56.547946+07:00"
+    },
+    {
+      "id": "dfeec5c1bc0c70b4a93352a09f4b61a9",
+      "title": "Dây chuyền sản xuất chip lượng tử đầu tiên của Trung Quốc",
+      "link": "https://vnexpress.net/day-chuyen-san-xuat-chip-luong-tu-dau-tien-cua-trung-quoc-4941853.html",
+      "summary": "Dây chuyền sản xuất chip lượng tử của công ty Origin Quantum tại Hợp Phì, An Huy, sử dụng nhiều thiết bị tự phát triển giúp nâng cao tỷ lệ chip đạt chuẩn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-22T11:17:02+07:00",
+      "fetched": "2025-09-22T19:34:25.780400+07:00"
+    },
+    {
+      "id": "5c0e9c71e49f6c8ec33759a29df8db71",
+      "title": "Đề xuất đưa AI vào đào tạo, đánh giá cán bộ",
+      "link": "https://thanhnien.vn/de-xuat-dua-ai-vao-dao-tao-danh-gia-can-bo-185250922172124011.htm",
+      "summary": "Hàng loạt ý kiến thẳng thắn, mang đậm tính thực tiễn đã được các đại biểu trẻ đóng góp tại phiên thảo luận tổ chiều 22.9, trong khuôn khổ Đại hội đại biểu Đảng bộ Mặt trận Tổ quốc, các đoàn thể T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:15:00+07:00",
+      "fetched": "2025-09-22T19:34:19.352551+07:00"
+    },
+    {
+      "id": "8b9fec7984576376afdc373d29625791",
+      "title": "Tư vấn tâm lý học đường nặng hình thức, Bộ GD-ĐT ra quy định mới",
+      "link": "https://thanhnien.vn/tu-van-tam-ly-hoc-duong-nang-hinh-thuc-bo-gd-dt-ra-quy-dinh-moi-185250922172348001.htm",
+      "summary": "Cho rằng hoạt động tư vấn tâm lý học đường hiện nay còn mang tính hình thức, thiếu nhân sự chuyên trách, Bộ GD-ĐT ban hành quy định mới nhằm khắc phục tình trạng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T11:14:00+07:00",
+      "fetched": "2025-09-22T19:34:19.352702+07:00"
+    },
+    {
+      "id": "2c83c7a3484121d6c5ddfeaae969b31d",
+      "title": "Đề xuất bảo hiểm tiền gửi chi trả sớm, không cần chờ phá sản",
+      "link": "https://vnexpress.net/de-xuat-bao-hiem-tien-gui-chi-tra-som-khong-can-cho-pha-san-4942232.html",
+      "summary": "Bảo hiểm tiền gửi có thể chi trả cho người gửi tiền sớm hơn, chứ không phải chờ đến khi tổ chức tín dụng \"tuyên bố phá sản\", theo dự thảo Luật Bảo hiểm tiền gửi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T11:13:59+07:00",
+      "fetched": "2025-09-22T19:34:22.884727+07:00"
+    },
+    {
+      "id": "14d6b8c38e6e14fe60b535e90d77d577",
+      "title": "Anh cảnh báo Israel không trả đũa việc công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/anh-canh-bao-israel-khong-tra-dua-viec-cong-nhan-nha-nuoc-palestine-4942212.html",
+      "summary": "Ngoại trưởng Cooper cảnh báo Israel không sáp nhập một số khu vực Bờ Tây để trả đũa việc Anh công nhận Nhà nước Palestine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T10:59:58+07:00",
+      "fetched": "2025-09-22T19:34:21.755054+07:00"
     },
     {
       "id": "3953f24f4941e024418ebb1563de405f",
