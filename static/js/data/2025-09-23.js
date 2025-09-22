@@ -1,7 +1,37 @@
 window.newsData_2025_09_23 = {
   "date": "2025-09-23",
-  "lastUpdated": "2025-09-23T01:22:35.640851+07:00",
+  "lastUpdated": "2025-09-23T03:18:07.359794+07:00",
   "articles": [
+    {
+      "id": "4c46d11ef11db19c722c1d3c4032620a",
+      "title": "Quỹ đầu tư tư nhân lâu đời nhất của Mỹ muốn giúp Việt Nam xây trung tâm dữ liệu",
+      "link": "https://tuoitre.vn/quy-dau-tu-tu-nhan-lau-doi-nhat-cua-my-muon-giup-viet-nam-xay-trung-tam-du-lieu-20250923015753013.htm",
+      "summary": "Giám đốc điều hành Quỹ đầu tư Warburg Pincus mong muốn giúp Việt Nam phát triển hạ tầng số, cho biết đến nay đã đầu tư hơn 2 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T03:17:58.626974+07:00",
+      "fetched": "2025-09-23T03:17:58.627097+07:00"
+    },
+    {
+      "id": "482191f14b1497f22debda74be48676b",
+      "title": "Tổng thư ký Liên hợp quốc: Việt Nam là một trụ cột của thế giới đa cực",
+      "link": "https://tuoitre.vn/tong-thu-ky-lien-hop-quoc-viet-nam-la-mot-tru-cot-cua-the-gioi-da-cuc-20250923021126918.htm",
+      "summary": "Tổng thư ký Liên hợp quốc nhấn mạnh tình cảm với Việt Nam, gọi đây là một đối tác tuyệt vời và là trụ cột của thế giới đa cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T03:17:58.626831+07:00",
+      "fetched": "2025-09-23T03:17:58.626961+07:00"
+    },
+    {
+      "id": "fa41a20fa3042b19aca2a52e3330d742",
+      "title": "Chủ tịch nước Lương Cường gặp lãnh đạo Áo, Paraguay và Tajikistan tại Mỹ",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-gap-lanh-dao-ao-paraguay-va-tajikistan-tai-my-20250923022941396.htm",
+      "summary": "Nhân dịp dự các hoạt động tại Liên hợp quốc, Chủ tịch nước Lương Cường đã gặp Thủ tướng Áo, Tổng thống Paraguay và Tổng thống Tajikistan ngày 22-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T03:17:58.626635+07:00",
+      "fetched": "2025-09-23T03:17:58.626816+07:00"
+    },
     {
       "id": "ad8a14daafea7173799cc6207293e01f",
       "title": "Chỉ còn hơn 2 tháng, kỳ SEA Games của Thái Lan vẫn ngổn ngang",
@@ -151,6 +181,26 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T01:22:28.795205+07:00",
       "fetched": "2025-09-23T01:22:28.795369+07:00"
+    },
+    {
+      "id": "1301ded6e6d505301018611615840d16",
+      "title": "Liên đoàn Quyền anh Việt Nam vẫn chưa nhận được hồi âm từ ông Lưu Tú Bảo",
+      "link": "https://thanhnien.vn/lien-doan-quyen-anh-viet-nam-van-chua-nhan-duoc-hoi-am-tu-ong-luu-tu-bao-185250922225339705.htm",
+      "summary": "Liên đoàn Quyền anh VN (VBF) nỗ lực duy trì các hoạt động từ điều hành tổ chức giải đến chuẩn bị lực lượng cho SEA Games 33 vào tháng 12 tới ở Thái Lan trong bối cảnh Chủ tịch VBF Lưu Tú Bảo vắng mặt hơn nửa năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:49:00+07:00",
+      "fetched": "2025-09-23T03:17:57.429200+07:00"
+    },
+    {
+      "id": "4db5a4a27d56edf1a8e213853858fbc4",
+      "title": "Billiards: Cơ thủ Việt Nam đánh bại cựu vô địch thế giới",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-danh-bai-cuu-vo-dich-the-gioi-185250923001712653.htm",
+      "summary": "Trần Đức Minh cùng đồng đội trong màu áo Harim Dragons đánh bại 'song sát' rất mạnh của đội Legend, trong ngày hạ màn chặng 3 giải billiards chuyên nghiệp Hàn Quốc PBA Team League mùa giải 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T19:10:00+07:00",
+      "fetched": "2025-09-23T03:17:57.429369+07:00"
     },
     {
       "id": "4b3514f78a43306cb97801bf0874581d",
