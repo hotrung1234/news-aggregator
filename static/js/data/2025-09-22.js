@@ -1,7 +1,157 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T19:34:26.737413+07:00",
+  "lastUpdated": "2025-09-22T21:17:32.739418+07:00",
   "articles": [
+    {
+      "id": "783c7aa807a2087b8de8f01400734ef8",
+      "title": "Masan Group cùng V Fest lan tỏa giá trị văn hóa và khát vọng Việt",
+      "link": "https://tuoitre.vn/masan-group-cung-v-fest-lan-toa-gia-tri-van-hoa-va-khat-vong-viet-20250922180609515.htm",
+      "summary": "Ngày 20-9 vừa qua, tại Trung tâm Triển lãm Việt Nam, hơn 20.000 khán giả đã hòa mình trong đại nhạc hội V Fest - Vietnam Today do Đài Truyền hình Việt Nam tổ chức, với sự đồng hành của Tập đoàn Masan (Masan Group - MSN).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950774+07:00",
+      "fetched": "2025-09-22T21:17:23.950899+07:00"
+    },
+    {
+      "id": "a58de194d74c7365f21f8283edc81d9c",
+      "title": "Nhà xây lụi, số lụi, phường Thới An báo cáo đã tháo dỡ, thực tế chưa hoàn tất",
+      "link": "https://tuoitre.vn/nha-xay-lui-so-lui-phuong-thoi-an-bao-cao-da-thao-do-thuc-te-chua-hoan-tat-20250922150950309.htm",
+      "summary": "UBND phường Thới An báo cáo nhiều công trình xây lụi, số lụi trên địa bàn đến nay vẫn chưa xử lý dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950651+07:00",
+      "fetched": "2025-09-22T21:17:23.950763+07:00"
+    },
+    {
+      "id": "7d0b2386f501309a652957bfa4db8f3f",
+      "title": "Bắt hai trưởng khoa Bệnh viện Đa khoa vùng Tây Nguyên vụ kê khống 500 ca tán sỏi",
+      "link": "https://tuoitre.vn/bat-hai-truong-khoa-benh-vien-da-khoa-vung-tay-nguyen-vu-ke-khong-500-ca-tan-soi-20250922183903704.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Đắk Lắk đã khởi tố vụ án, khởi tố bị can và bắt tạm giam 2 trưởng khoa Bệnh viện Đa khoa vùng Tây Nguyên trong vụ kê khống gần 500 ca tán sỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950528+07:00",
+      "fetched": "2025-09-22T21:17:23.950640+07:00"
+    },
+    {
+      "id": "019f88998145955f8c9e016bb91c6545",
+      "title": "Sàm sỡ các cô gái theo 'kế hoạch bài bản', giật túi xách nạn nhân ở chung cư mini",
+      "link": "https://tuoitre.vn/sam-so-cac-co-gai-theo-ke-hoach-bai-ban-giat-tui-xach-nan-nhan-o-chung-cu-mini-20250922183050905.htm",
+      "summary": "Nguyễn Đức Hà bị công an bắt giữ vì sàm sỡ hai cô gái và cướp tài sản của nạn nhân gồm 1 iPhone 15 cùng 3,7 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950402+07:00",
+      "fetched": "2025-09-22T21:17:23.950516+07:00"
+    },
+    {
+      "id": "91d4cabe76eacd7208db610e719e506c",
+      "title": "Trung tướng Lê Quang Đạo giữ chức Phó tổng tham mưu trưởng Quân đội nhân dân Việt Nam",
+      "link": "https://tuoitre.vn/trung-tuong-le-quang-dao-giu-chuc-pho-tong-tham-muu-truong-quan-doi-nhan-dan-viet-nam-20250922184754968.htm",
+      "summary": "Thủ tướng Chính phủ bổ nhiệm Trung tướng Lê Quang Đạo giữ chức Phó tổng tham mưu trưởng Quân đội nhân dân Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950257+07:00",
+      "fetched": "2025-09-22T21:17:23.950390+07:00"
+    },
+    {
+      "id": "2743c9b30c9618cfde575b8c1239d1a4",
+      "title": "Cứu người đàn ông rơi từ cầu Calmette xuống rạch Bến Nghé",
+      "link": "https://tuoitre.vn/cuu-nguoi-dan-ong-roi-tu-cau-calmette-xuong-rach-ben-nghe-20250922190824413.htm",
+      "summary": "Chiều 22-9, người đàn ông rơi xuống rạch Bến Nghé, được cảnh sát và người dân phối hợp cứu hộ kịp thời, đưa lên bờ an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950133+07:00",
+      "fetched": "2025-09-22T21:17:23.950246+07:00"
+    },
+    {
+      "id": "b0c2b51fe6b2823c97bfeda93d2fc9d1",
+      "title": "Chủ tịch TP.HCM yêu cầu tổng rà soát, xử lý dứt điểm trường học xuống cấp trước 30-9",
+      "link": "https://tuoitre.vn/chu-tich-tp-hcm-yeu-cau-tong-ra-soat-xu-ly-dut-diem-truong-hoc-xuong-cap-truoc-30-9-20250922180016091.htm",
+      "summary": "Ngày 22-9, Chủ tịch UBND TP.HCM Nguyễn Văn Được có văn bản yêu cầu các trường công lập tổng rà soát và tham mưu phương án tổng thể về cơ sở vật chất, thiết bị dạy học tại tất cả các trường của thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.950005+07:00",
+      "fetched": "2025-09-22T21:17:23.950121+07:00"
+    },
+    {
+      "id": "12b523290de900e0233aabbe648a278f",
+      "title": "Bí thư Trần Lưu Quang mong muốn tập đoàn Thái Lan đầu tư vào phát triển xanh",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-mong-muon-tap-doan-thai-lan-dau-tu-vao-phat-trien-xanh-20250922183922518.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang đề nghị SCG Việt Nam mở rộng đầu tư vào lĩnh vực phát triển xanh, bên cạnh ngành hóa dầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949875+07:00",
+      "fetched": "2025-09-22T21:17:23.949993+07:00"
+    },
+    {
+      "id": "8de1a5fa12cd8c96e1e78d84d402a0ba",
+      "title": "6 mục tiêu để An Giang trở thành tỉnh khá của cả nước vào năm 2030",
+      "link": "https://tuoitre.vn/6-muc-tieu-de-an-giang-tro-thanh-tinh-kha-cua-ca-nuoc-vao-nam-2030-20250922184100535.htm",
+      "summary": "Chiều 22-9, An Giang họp báo Đại hội Đảng bộ tỉnh lần I, đặt mục tiêu năm 2030 trở thành tỉnh khá, với nhiều cực tăng trưởng vùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949744+07:00",
+      "fetched": "2025-09-22T21:17:23.949862+07:00"
+    },
+    {
+      "id": "b4e8b492ac64368c939be019d94cbbac",
+      "title": "Giảm thời gian cấp giấy miễn thị thực xuống còn một ngày",
+      "link": "https://tuoitre.vn/giam-thoi-gian-cap-giay-mien-thi-thuc-xuong-con-mot-ngay-20250922185517764.htm",
+      "summary": "Phó Thủ tướng Thường trực đã phê duyệt phương án cắt giảm, đơn giản hóa thủ tục hành chính thuộc quản lý Bộ Ngoại giao năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949612+07:00",
+      "fetched": "2025-09-22T21:17:23.949729+07:00"
+    },
+    {
+      "id": "acc5ed5a44be4998dd8145345854ce55",
+      "title": "Đường sá phố biển Nha Trang ngập trong 'biển mưa', xe cộ ùn ứ",
+      "link": "https://tuoitre.vn/duong-xa-pho-bien-nha-trang-ngap-trong-bien-mua-xe-co-un-u-202509221926504.htm",
+      "summary": "Cơn mưa lớn kéo dài từ chiều 22-9 gây ngập úng cục bộ nhiều tuyến đường ở Nha Trang (Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949467+07:00",
+      "fetched": "2025-09-22T21:17:23.949600+07:00"
+    },
+    {
+      "id": "a5804ec48fb3e39cff1647f90b99124a",
+      "title": "Ông Lại Thế Nguyên và ông Trần Quốc Nam thôi làm đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/ong-lai-the-nguyen-va-ong-tran-quoc-nam-thoi-lam-dai-bieu-quoc-hoi-2025092219161129.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội đã ban hành nghị quyết cho thôi làm nhiệm vụ đại biểu Quốc hội khóa XV đối với ông Lại Thế Nguyên và ông Trần Quốc Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949311+07:00",
+      "fetched": "2025-09-22T21:17:23.949454+07:00"
+    },
+    {
+      "id": "cc27bfb3b052a5c415a197a5a6260121",
+      "title": "Chủ tịch Quốc hội: Luật Đất đai, Luật Quy hoạch sửa xong lại thấy bất cập",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-luat-dat-dai-luat-quy-hoach-sua-xong-lai-thay-bat-cap-20250922192609547.htm",
+      "summary": "Nêu dẫn chứng Luật Đất đai, Luật Quy hoạch đã sửa đổi, nhưng sửa xong lại thấy bất cập, Chủ tịch Quốc hội Trần Thanh Mẫn nhấn mạnh đây là những vấn đề phải tính toán dài hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949176+07:00",
+      "fetched": "2025-09-22T21:17:23.949299+07:00"
+    },
+    {
+      "id": "263eae64f707c72a5da35b4be3eff624",
+      "title": "Siêu bão Ragasa mạnh nhất trong lịch sử bão trên Biển Đông",
+      "link": "https://tuoitre.vn/sieu-bao-ragasa-manh-nhat-trong-lich-su-bao-tren-bien-dong-20250922191634175.htm",
+      "summary": "Theo Bộ Nông nghiệp và Môi trường, siêu bão Ragasa mạnh nhất thế giới năm 2025, cũng là cơn bão mạnh nhất trong lịch sử ở Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.949031+07:00",
+      "fetched": "2025-09-22T21:17:23.949163+07:00"
+    },
+    {
+      "id": "a8318f7dd04d606d86cb30e68b872fcf",
+      "title": "Ông Putin đề xuất gia hạn hiệp ước kiểm soát vũ khí hạt nhân với Mỹ",
+      "link": "https://tuoitre.vn/ong-putin-de-xuat-gia-han-hiep-uoc-kiem-soat-vu-khi-hat-nhan-voi-my-20250922195719436.htm",
+      "summary": "Tổng thống Nga Putin đề xuất gia hạn Hiệp ước New START thêm 1 năm, khi chỉ còn khoảng 4 tháng nữa là hết hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T21:17:23.948779+07:00",
+      "fetched": "2025-09-22T21:17:23.949016+07:00"
+    },
     {
       "id": "c11a26b49f2998b928def61e0935fc47",
       "title": "'Chợ chồm hổm' dọc theo quốc lộ, để tồn tại khác gì 'bẫy tai nạn'?",
@@ -453,6 +603,196 @@ window.newsData_2025_09_22 = {
       "fetched": "2025-09-22T15:23:11.575103+07:00"
     },
     {
+      "id": "68d14055f52a353755342684d71e9ecc",
+      "title": "Lấy lời khai nhóm hành hung người khác đến ngất xỉu giữa đường ở TP.HCM",
+      "link": "https://thanhnien.vn/lay-loi-khai-nhom-hanh-hung-nguoi-khac-den-ngat-xiu-giua-duong-o-tphcm-185250922204718473.htm",
+      "summary": "2 nam thanh niên chạy xe máy tông vào nạn nhân rồi truy đuổi, hành hung người này đến ngất xỉu, trọng thương giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:04:00+07:00",
+      "fetched": "2025-09-22T21:17:22.986570+07:00"
+    },
+    {
+      "id": "eb52a78b181e6c420ea2b67f62da3deb",
+      "title": "6 mẹo nhỏ mang lại hiệu quả bất ngờ cho người bệnh tiểu đường",
+      "link": "https://thanhnien.vn/6-meo-nho-mang-lai-hieu-qua-bat-ngo-cho-nguoi-benh-tieu-duong-185250922155251284.htm",
+      "summary": "Người bệnh tiểu đường không cần phải lúc nào cũng áp dụng những quy tắc quá nghiêm ngặt. Đôi khi, chỉ cần thay đổi vài chi tiết nhỏ trong cách ăn uống và sinh hoạt mỗi ngày cũng đủ mang lại kết quả bất ngờ cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:00:00+07:00",
+      "fetched": "2025-09-22T21:17:22.986742+07:00"
+    },
+    {
+      "id": "a3936608c6d6cfef669d6873cbe3f20a",
+      "title": "Xác định 2 cặp bán kết giải U.17 quốc gia: Hứa hẹn nảy lửa",
+      "link": "https://thanhnien.vn/xac-dinh-2-cap-ban-ket-giai-u17-quoc-gia-hua-hen-nay-lua-185250922205904248.htm",
+      "summary": "Chiều 22.9, VCK giải bóng đá vô địch U17 quốc gia – Cúp Thái Sơn Nam 2025 đã diễn ra các trận tứ kết. SHB Đà Nẵng, Thép Xanh Nam Định, Thể Công Viettel và Hà Nội là 4 cái tên ghi danh vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:59:00+07:00",
+      "fetched": "2025-09-22T21:17:22.986901+07:00"
+    },
+    {
+      "id": "ec3feb4edde4e675b55344eba3324099",
+      "title": "Cảnh báo thời tiết cực đoan khi siêu bão Ragasa vào Biển Đông",
+      "link": "https://thanhnien.vn/canh-bao-thoi-tiet-cuc-doan-khi-sieu-bao-ragasa-vao-bien-dong-185250922200011363.htm",
+      "summary": "Tại cuộc họp ứng phó với siêu bão Ragasa chiều nay, Thứ trưởng Bộ Nông nghiệp và Môi trường Nguyễn Hoàng Hiệp bày tỏ nhiều lo lắng khi cơn bão này sẽ kèm theo những hình thái thời tiết cực đoan như giông, lốc, sét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:52:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987057+07:00"
+    },
+    {
+      "id": "db8f1a55d4a816ce134a4d8d6f2bead3",
+      "title": "Quốc Thiên hé lộ lý do chọn Bùi Công Nam góp mặt 'SKYNote 2025'",
+      "link": "https://thanhnien.vn/quoc-thien-he-lo-ly-do-chon-bui-cong-nam-gop-mat-skynote-2025-185250922200553319.htm",
+      "summary": "Tiếp nối thành công 'SKYNote 2024', Quốc Thiên tự tin bước vào một hành trình mới mang tên 'SKYNote 2025: The Reflection'. Trong khuôn khổ concert lần này, bên cạnh khách mời Hồ Ngọc Hà và Mono, sự xuất hiện của Bùi Công Nam gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:45:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987211+07:00"
+    },
+    {
+      "id": "3329f453953c0d10205f3bcf0c56f48d",
+      "title": "Chửi bới, đánh phụ nữ mang thai ở tiệm tạp hóa",
+      "link": "https://thanhnien.vn/chui-boi-danh-phu-nu-mang-thai-o-tiem-tap-hoa-185250922204454459.htm",
+      "summary": "Một đoạn clip ghi lại cảnh nam thanh niên liên tục chửi bới, thậm chí đánh phụ nữ mang thai bán tạp hóa trước cổng bệnh viện ở Đắk Lắk khiến cộng đồng mạng dậy sóng phẫn nộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:44:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987386+07:00"
+    },
+    {
+      "id": "61b59bee1a3c1d56240527641dfcd103",
+      "title": "Galaxy A56 5G được cập nhật lên One UI 8",
+      "link": "https://thanhnien.vn/galaxy-a56-5g-duoc-cap-nhat-len-one-ui-8-185250922202256674.htm",
+      "summary": "Samsung vừa chính thức phát hành bản cập nhật One UI 8 cho dòng điện thoại tầm trung Galaxy A, với Galaxy A56 5G là sản phẩm đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:42:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987545+07:00"
+    },
+    {
+      "id": "80a4d35044cc62e5275ecc8749dc7165",
+      "title": "Ông Putin đề xuất gia hạn thỏa thuận kiểm soát vũ khí hạt nhân với Mỹ",
+      "link": "https://thanhnien.vn/ong-putin-de-xuat-gia-han-thoa-thuan-kiem-soat-vu-khi-hat-nhan-voi-my-185250922203834258.htm",
+      "summary": "Tổng thống Nga Vladimir Putin ngày 22.9 tuyên bố Moscow sẵn sàng gia hạn hiệp ước kiểm soát vũ khí với Mỹ (New START), nếu người đồng cấp Mỹ Donald Trump làm điều tương tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:41:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987704+07:00"
+    },
+    {
+      "id": "cd95846167c1597739358c8bd64763b0",
+      "title": "Tỉnh Pakistan giáp Afghanistan bị ném bom, ít nhất 30 người chết?",
+      "link": "https://thanhnien.vn/tinh-pakistan-giap-afghanistan-bi-nem-bom-it-nhat-30-nguoi-chet-185250922195454849.htm",
+      "summary": "AFP đưa tin các khu vực ở tỉnh Khyber Pakhtunkwa, phía bắc Pakistan và giáp với biên giới Afghanistan, đã bị không kích trong ngày 22.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:41:00+07:00",
+      "fetched": "2025-09-22T21:17:22.987856+07:00"
+    },
+    {
+      "id": "6c7960a8aa287ee521079be8d31386ff",
+      "title": "Hà Nội đề xuất trả 635 ha đất cho nhà đầu tư làm cầu Trần Hưng Đạo",
+      "link": "https://vnexpress.net/ha-noi-de-xuat-tra-635-ha-dat-cho-nha-dau-tu-lam-cau-tran-hung-dao-4942180.html",
+      "summary": "Dự án cầu Trần Hưng Đạo có thể thực hiện theo phương thức PPP, hợp đồng xây dựng - chuyển giao (BT), trả bằng quỹ đất 635 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:37:38+07:00",
+      "fetched": "2025-09-22T21:17:14.332294+07:00"
+    },
+    {
+      "id": "8bb8d1b75d11b19b7da2782564502b2e",
+      "title": "Người Việt dần từ bỏ xe xăng, tăng mua xe máy điện",
+      "link": "https://thanhnien.vn/nguoi-viet-dan-tu-bo-xe-xang-tang-mua-xe-may-dien-185250920170153665.htm",
+      "summary": "Trong khi doanh số một số thương hiệu xe máy xăng đang chững lại và có dấu hiệu sụt giảm, lượng tiêu thụ xe máy điện tại Việt Nam tiếp tục tăng trưởng mạnh mẽ trong tháng 8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:33:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988012+07:00"
+    },
+    {
+      "id": "3b22b9a5f1e750da1a0a82f42c88a394",
+      "title": "Tom Holland gặp chấn thương nghiêm trọng, bom tấn 'Spider-Man 4' dừng quay",
+      "link": "https://thanhnien.vn/tom-holland-gap-chan-thuong-nghiem-trong-bom-tan-spider-man-4-dung-quay-185250922201006914.htm",
+      "summary": "Tom Holland là gương mặt gắn liền với hình tượng 'người nhện' trong vũ trụ điện ảnh Marvel - vừa gặp chấn thương vùng đầu khi thực hiện cảnh quay hành động trong bộ phim 'Spider-Man 4'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:32:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988160+07:00"
+    },
+    {
+      "id": "fba50d06d646c9ec3f96828d8c330f05",
+      "title": "Bác sĩ ơi: Bệnh tim mạch ở người trẻ tuổi",
+      "link": "https://thanhnien.vn/bac-si-oi-benh-tim-mach-o-nguoi-tre-tuoi-185250922203014181.htm",
+      "summary": "Vào lúc 20 giờ 30 ngày 22.09, chương trình livestream \"Bác sĩ ơi: Bệnh tim mạch ở người trẻ tuổi\" sẽ được phát trực tiếp trên các nền tảng: website thanhnien.vn, Fanpage, YouTube, TikTok Báo Thanh Niên, kênh YouTube Bác sĩ ơi, Fanpage và YouTube của Bệnh viện Đại học Y dược TP.Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:30:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988312+07:00"
+    },
+    {
+      "id": "5e6a15d58c6d8c24493c136d3623b824",
+      "title": "Cho thôi đại biểu Quốc hội các ông Lại Thế Nguyên, Trần Quốc Nam",
+      "link": "https://thanhnien.vn/cho-thoi-dai-bieu-quoc-hoi-cac-ong-lai-the-nguyen-tran-quoc-nam-185250922201603874.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội bỏ phiếu kín, ban hành nghị quyết cho thôi đại biểu Quốc hội đối với các ông Lại Thế Nguyên, đại biểu Quốc hội tỉnh Thanh Hóa; Trần Quốc Nam, đại biểu Quốc hội tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:30:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988491+07:00"
+    },
+    {
+      "id": "9a652f768bf609cc4fbbe9e1c5858e8f",
+      "title": "Thị trường thời trang xa xỉ giảm sức hút",
+      "link": "https://vnexpress.net/thi-truong-thoi-trang-xa-xi-giam-suc-hut-4941932.html",
+      "summary": "Lạm phát kéo dài, thiếu đổi mới cùng nhiều yếu tố khác khiến thị trường xa xỉ rơi vào \"vòng xoáy tử thần\" hai năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:29:54+07:00",
+      "fetched": "2025-09-22T21:17:14.332513+07:00"
+    },
+    {
+      "id": "80d885382973a37695bec7c487a943da",
+      "title": "Việt Nam thắng Trung Quốc 7-2 ở giải futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-thang-trung-quoc-7-2-o-giai-futsal-chau-a-4942274.html",
+      "summary": "Pivo Thịnh Phát lập hat-trick giúp Việt Nam thăng hoa, đè bẹp chủ nhà Trung Quốc 7-2 ở lượt hai bảng E vòng loại futsal châu Á 2026, chiều 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:29:08+07:00",
+      "fetched": "2025-09-22T21:17:14.332707+07:00"
+    },
+    {
+      "id": "80d885382973a37695bec7c487a943da",
+      "title": "Việt Nam thắng Trung Quốc 7-2 ở giải futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-thang-trung-quoc-7-2-o-giai-futsal-chau-a-4942274.html",
+      "summary": "Pivo Thịnh Phát lập hat-trick giúp Việt Nam thăng hoa, đè bẹp chủ nhà Trung Quốc 7-2 ở lượt hai bảng E vòng loại futsal châu Á 2026, chiều 22/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T13:29:08+07:00",
+      "fetched": "2025-09-22T21:17:32.725090+07:00"
+    },
+    {
+      "id": "0e0db1caa3e18c08433f219e17f1d9dc",
+      "title": "Cho thôi nhiệm vụ đại biểu Quốc hội với ông Lại Thế Nguyên, Trần Quốc Nam",
+      "link": "https://vnexpress.net/cho-thoi-nhiem-vu-dai-bieu-quoc-hoi-voi-ong-lai-the-nguyen-tran-quoc-nam-4942270.html",
+      "summary": "Ủy ban Thường vụ Quốc hội quyết định cho thôi nhiệm vụ đại biểu khóa 15 với ông Lại Thế Nguyên và ông Trần Quốc Nam theo đơn xin nghỉ ngày 18/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:28:32+07:00",
+      "fetched": "2025-09-22T21:17:14.332873+07:00"
+    },
+    {
+      "id": "5218bdfa8008ccd7c25762c09e4a76f9",
+      "title": "Thủ tướng: 'Nhà trên 100 triệu đồng mỗi m2, người dân sao có tiền mua'",
+      "link": "https://vnexpress.net/thu-tuong-nha-tren-100-trieu-dong-moi-m2-nguoi-dan-sao-co-tien-mua-4942260.html",
+      "summary": "Trước tình trạng giá nhà vượt tầm với của người dân, Thủ tướng yêu cầu có phải câu trả lời vì sao \"giá liên tục tăng và cao mãi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:26:55+07:00",
+      "fetched": "2025-09-22T21:17:14.333039+07:00"
+    },
+    {
       "id": "216c56d5cd9e35ce73e3210c2840ec52",
       "title": "Cần Thơ: Khởi công mở rộng quốc lộ 91 với số tiền hơn 7.200 tỉ đồng",
       "link": "https://tuoitre.vn/can-tho-khoi-cong-mo-rong-quoc-lo-91-voi-so-tien-hon-7-200-ti-dong-20250922102947809.htm",
@@ -601,6 +941,156 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T13:26:19.709297+07:00",
       "fetched": "2025-09-22T13:26:19.709528+07:00"
+    },
+    {
+      "id": "ae13359e77e5ee20dce84a185ab25e37",
+      "title": "Thắng đậm Trung Quốc, đội tuyển Việt Nam xây chắc ngôi đầu giải futsal châu Á: Chủ nhà bị loại",
+      "link": "https://thanhnien.vn/thang-dam-trung-quoc-doi-tuyen-viet-nam-xay-chac-ngoi-dau-giai-futsal-chau-a-18525092220204048.htm",
+      "summary": "Đội tuyển Việt Nam giành chiến thắng ấn tượng với tỷ số 7-2 trước chủ nhà Trung Quốc. Sau 2 lượt trận, thầy trò HLV Diego Giustozzi giữ vững ngôi đầu bảng E.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:26:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988644+07:00"
+    },
+    {
+      "id": "d5b68aad937be0eca172defaf9ccb37d",
+      "title": "Thêm một nàng hậu sắp kết hôn với bạn trai CEO",
+      "link": "https://thanhnien.vn/them-mot-nang-hau-sap-ket-hon-voi-ban-trai-ceo-185250922194753688.htm",
+      "summary": "Á hậu Chế Nguyễn Quỳnh Châu tiết lộ cô đã được cầu hôn cách đây một năm. Trước đó, người đẹp 9X và bạn trai trải qua 5 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:26:00+07:00",
+      "fetched": "2025-09-22T21:17:22.988794+07:00"
+    },
+    {
+      "id": "45cb37adf5059d939b3e8817522e1690",
+      "title": "Tân binh Ninh Bình hạ Nam Định ở V-League",
+      "link": "https://vnexpress.net/tan-binh-ninh-binh-ha-nam-dinh-o-v-league-4942257.html",
+      "summary": "Ninh Bình đánh bại nhà ĐKVĐ Nam Định 2-0 ở vòng 4 V-League 2024-2025 chiều 22/9, qua đó giữ mạch toàn thắng từ đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:16:11+07:00",
+      "fetched": "2025-09-22T21:17:14.333202+07:00"
+    },
+    {
+      "id": "45cb37adf5059d939b3e8817522e1690",
+      "title": "Tân binh Ninh Bình hạ Nam Định ở V-League",
+      "link": "https://vnexpress.net/tan-binh-ninh-binh-ha-nam-dinh-o-v-league-4942257.html",
+      "summary": "Ninh Bình đánh bại nhà ĐKVĐ Nam Định 2-0 ở vòng 4 V-League 2024-2025 chiều 22/9, qua đó giữ mạch toàn thắng từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T13:16:11+07:00",
+      "fetched": "2025-09-22T21:17:32.725266+07:00"
+    },
+    {
+      "id": "40e6a92a616867bfc4166f9044007d43",
+      "title": "Dây điện sa xuống đường vướng cổ thiếu niên làm đứt khí quản",
+      "link": "https://vnexpress.net/day-dien-sa-xuong-duong-vuong-co-thieu-nien-lam-dut-khi-quan-4942265.html",
+      "summary": "Thiếu niên 17 tuổi đang chạy xe máy điện bất ngờ bị dây điện sà xuống giữa đường vướng vào cổ gây đứt khí quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:09:41+07:00",
+      "fetched": "2025-09-22T21:17:14.333303+07:00"
+    },
+    {
+      "id": "7eb1864b526530b59f84d10b7f03203a",
+      "title": "Người dân nước nào dành hơn 9 tiếng lên mạng mỗi ngày?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-danh-hon-9-tieng-len-mang-moi-ngay-4941993.html",
+      "summary": "Người trưởng thành ở nước này truy cập Internet tới 9 giờ 24 phút mỗi ngày, bỏ xa mức trung bình của thế giới gần ba tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:00:00+07:00",
+      "fetched": "2025-09-22T21:17:14.333490+07:00"
+    },
+    {
+      "id": "aba2e798d1a1e35f3dd80961b7402fa5",
+      "title": "Nga sẵn sàng gia hạn hiệp ước kiểm soát vũ khí hạt nhân với Mỹ",
+      "link": "https://vnexpress.net/nga-san-sang-gia-han-hiep-uoc-kiem-soat-vu-khi-hat-nhan-voi-my-4942258.html",
+      "summary": "Tổng thống Putin tuyên bố sẵn sàng gia hạn hiệp ước New START thêm một năm để thúc đẩy Nga - Mỹ đàm phán thỏa thuận mới về vũ khí hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:54:50+07:00",
+      "fetched": "2025-09-22T21:17:14.333648+07:00"
+    },
+    {
+      "id": "aba2e798d1a1e35f3dd80961b7402fa5",
+      "title": "Nga sẵn sàng gia hạn hiệp ước kiểm soát vũ khí hạt nhân với Mỹ",
+      "link": "https://vnexpress.net/nga-san-sang-gia-han-hiep-uoc-kiem-soat-vu-khi-hat-nhan-voi-my-4942258.html",
+      "summary": "Tổng thống Putin tuyên bố sẵn sàng gia hạn hiệp ước New START thêm một năm để thúc đẩy Nga - Mỹ đàm phán thỏa thuận mới về vũ khí hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T12:54:50+07:00",
+      "fetched": "2025-09-22T21:17:25.624184+07:00"
+    },
+    {
+      "id": "cdd63016eab80f4c766d8534841fb1f2",
+      "title": "Hai bác sĩ bị bắt trong vụ kê khống 255 ca tán sỏi",
+      "link": "https://vnexpress.net/hai-bac-si-bi-bat-trong-vu-ke-khong-255-ca-tan-soi-4942263.html",
+      "summary": "Ông Nguyễn Ngọc Hoàng và Bùi Ngọc Đức - hai trưởng khoa của Bệnh viện Đa khoa vùng Tây Nguyên, bị cáo buộc kê khống 255 ca tán sỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:53:24+07:00",
+      "fetched": "2025-09-22T21:17:14.333810+07:00"
+    },
+    {
+      "id": "a056afa9c105c2369891678ecffdb2a0",
+      "title": "Xe tải đâm liên hoàn sau khi ôtô hỏng dừng trên cao tốc",
+      "link": "https://vnexpress.net/xe-tai-dam-lien-hoan-sau-khi-oto-hong-dung-tren-cao-toc-4942245.html",
+      "summary": "Camera hành trình ghi cảnh hai ôtô phanh gấp tránh xe gặp sự cố trên cao tốc Hà Nội - Thái Nguyên, xe tải phía sau lao tới tông hoàn 4 ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:43:28+07:00",
+      "fetched": "2025-09-22T21:17:14.333965+07:00"
+    },
+    {
+      "id": "a830c78233105a684c1b2423e36bf995",
+      "title": "'Biểu tượng sức mạnh' mà ông Trump muốn giành lại ở Afghanistan",
+      "link": "https://vnexpress.net/bieu-tuong-suc-manh-ma-ong-trump-muon-gianh-lai-o-afghanistan-4942128.html",
+      "summary": "Sân bay Bagram từng là \"biểu tượng sức mạnh\" của Mỹ ở Afghanistan trước chiến dịch rút quân thảm họa và hiện ông Trump muốn Taliban giao lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:39:58+07:00",
+      "fetched": "2025-09-22T21:17:14.334135+07:00"
+    },
+    {
+      "id": "a830c78233105a684c1b2423e36bf995",
+      "title": "'Biểu tượng sức mạnh' mà ông Trump muốn giành lại ở Afghanistan",
+      "link": "https://vnexpress.net/bieu-tuong-suc-manh-ma-ong-trump-muon-gianh-lai-o-afghanistan-4942128.html",
+      "summary": "Sân bay Bagram từng là \"biểu tượng sức mạnh\" của Mỹ ở Afghanistan trước chiến dịch rút quân thảm họa và hiện ông Trump muốn Taliban giao lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T12:39:58+07:00",
+      "fetched": "2025-09-22T21:17:25.624384+07:00"
+    },
+    {
+      "id": "3c3162dd324996ad42633b40447b9c76",
+      "title": "Giải thưởng Du lịch Việt Nam trở lại sau 5 năm",
+      "link": "https://vnexpress.net/giai-thuong-du-lich-viet-nam-tro-lai-sau-5-nam-4942243.html",
+      "summary": "Giải thưởng Du lịch Việt Nam 2025 chính thức được khởi động lại, đánh dấu một cột mốc quan trọng trong giai đoạn phục hồi và phát triển mới của ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:35:10+07:00",
+      "fetched": "2025-09-22T21:17:14.334289+07:00"
+    },
+    {
+      "id": "b6482846bed2f74d18574bb4a69913bb",
+      "title": "Êkíp làm MV của Ưng Hoàng Phúc bị Công an TP HCM mời làm việc",
+      "link": "https://vnexpress.net/ekip-lam-mv-cua-ung-hoang-phuc-bi-cong-an-tp-hcm-moi-lam-viec-4942256.html",
+      "summary": "Êkíp, diễn viên tham gia MV của nhóm nhạc Ngũ Hổ Tướng bị mời làm việc, liên quan hình ảnh website cờ bạc xuất hiện trong phim ngắn này, dù ca sĩ Ưng Hoàng Phúc từng phủ nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:34:59+07:00",
+      "fetched": "2025-09-22T21:17:14.334465+07:00"
+    },
+    {
+      "id": "d16403dd5c753a5255d151088d90ba4d",
+      "title": "Lần kẹt xe khiến nữ tài xế lái xe số sàn '20 năm không cọ quẹt'",
+      "link": "https://vnexpress.net/lan-ket-xe-khien-nu-tai-xe-lai-xe-so-san-20-nam-khong-co-quet-4942184.html",
+      "summary": "Có bằng lái, sau một tuần tập ở đường nhỏ, và cú kẹt xe lên dốc cầu giúp tôi tự tin lái xe 20 năm không một lần va chạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T12:30:29+07:00",
+      "fetched": "2025-09-22T21:17:14.334624+07:00"
     },
     {
       "id": "4cd9b8e0457612f59e393857183fe0a5",
@@ -781,6 +1271,16 @@ window.newsData_2025_09_22 = {
       "category": "Kinh doanh",
       "published": "2025-09-22T11:50:16+07:00",
       "fetched": "2025-09-22T19:34:22.884392+07:00"
+    },
+    {
+      "id": "1a3fe4d032e57365fe425d4d4de06cc1",
+      "title": "'Nhà nước làm những gì tư nhân không thể'",
+      "link": "https://vnexpress.net/nha-nuoc-lam-nhung-gi-tu-nhan-khong-the-4942251.html",
+      "summary": "Thủ tướng nêu quan điểm, các thành phần kinh tế cạnh tranh bình đẳng, nhà nước làm những gì tư nhân không thể, chứ không phải những điều họ có thể làm tốt hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T11:50:16+07:00",
+      "fetched": "2025-09-22T21:17:26.998644+07:00"
     },
     {
       "id": "84701fc8536583bb40011d42eaf8efd5",
