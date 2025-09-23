@@ -1,7 +1,157 @@
 window.newsData_2025_09_23 = {
   "date": "2025-09-23",
-  "lastUpdated": "2025-09-23T11:19:35.861058+07:00",
+  "lastUpdated": "2025-09-23T13:25:14.310402+07:00",
   "articles": [
+    {
+      "id": "2966f4a56e48eeb2e41cacb8aa97544b",
+      "title": "Khánh Hòa đề ra chương trình hành động để trở thành TP trực thuộc Trung ương năm 2030",
+      "link": "https://tuoitre.vn/khanh-hoa-de-ra-chuong-trinh-hanh-dong-de-tro-thanh-tp-truc-thuoc-trung-uong-nam-2030-20250923090805066.htm",
+      "summary": "Trưa 23-9, Đại hội đại biểu Đảng bộ tỉnh Khánh Hòa lần thứ I, nhiệm kỳ 2025 - 2030, đã bế mạc sau 2 ngày rưỡi làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056720+07:00",
+      "fetched": "2025-09-23T13:25:07.056839+07:00"
+    },
+    {
+      "id": "0c939e4a0a9894043f8020839e5a405f",
+      "title": "Hai bệnh viện ở Đồng Tháp phối hợp cứu sản phụ bị vỡ ối giữa đường lúc rạng sáng",
+      "link": "https://tuoitre.vn/hai-benh-vien-o-dong-thap-phoi-hop-cuu-san-phu-bi-vo-oi-giua-duong-luc-rang-sang-20250923095301448.htm",
+      "summary": "Chở vợ đi sinh lúc rạng sáng, giữa đường người vợ bị vỡ ối nên người chồng chuyển hướng cho vợ vào một bệnh viện để cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056581+07:00",
+      "fetched": "2025-09-23T13:25:07.056707+07:00"
+    },
+    {
+      "id": "ffc512340d71d8140eb7b90ca82469b3",
+      "title": "Thủ tướng phê chuẩn chủ tịch hai tỉnh Thanh Hóa và Khánh Hòa",
+      "link": "https://tuoitre.vn/thu-tuong-phe-chuan-chu-tich-hai-tinh-thanh-hoa-va-khanh-hoa-2025092311230955.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa ký các quyết định phê chuẩn kết quả bầu chức vụ chủ tịch UBND hai tỉnh Khánh Hòa, Thanh Hóa nhiệm kỳ 2021-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056457+07:00",
+      "fetched": "2025-09-23T13:25:07.056570+07:00"
+    },
+    {
+      "id": "4954c40cc76b5985fa260d7afe0769b4",
+      "title": "Công bố 10 hiến kế xuất sắc của Diễn đàn Phát triển Công Thương TP.HCM",
+      "link": "https://tuoitre.vn/cong-bo-10-hien-ke-xuat-sac-cua-dien-dan-phat-trien-cong-thuong-tp-hcm-20250923111528482.htm",
+      "summary": "Vượt qua vòng xét chọn với nhiều tiêu chí quan trọng, Top 10 hiến kế xuất sắc nhất của Diễn đàn Phát triển Công Thương TP.HCM chính thức được vinh danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056330+07:00",
+      "fetched": "2025-09-23T13:25:07.056446+07:00"
+    },
+    {
+      "id": "cf96be8f2295200b1d2e80c5846d933a",
+      "title": "Văn Mai Hương khoe gặp nhiều sao hot ở Tuần lễ thời trang London",
+      "link": "https://tuoitre.vn/van-mai-huong-khoe-gap-nhieu-sao-hot-o-tuan-le-thoi-trang-london-20250923105107969.htm",
+      "summary": "Tại London Fashion Week - Tuần lễ thời trang London Xuân Hè 2026, Văn Mai Hương gặp gỡ và giao lưu với nhiều sao quốc tế đình đám như Bright Vachirawit, Central Cee, Trương Tịnh Nghi, Daniel Lee...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056207+07:00",
+      "fetched": "2025-09-23T13:25:07.056319+07:00"
+    },
+    {
+      "id": "bb88d650444269345e2613e8ba88a92f",
+      "title": "Mất Charlie Kirk, Đảng Cộng hòa nhờ ai thu hút cử tri trẻ?",
+      "link": "https://tuoitre.vn/mat-charlie-kirk-dang-cong-hoa-nho-ai-thu-hut-cu-tri-tre-20250923110109055.htm",
+      "summary": "Sự ra đi của ông Charlie Kirk để lại \"bài toán khó\" cho Đảng Cộng hòa trong việc thu hút cử tri trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.056083+07:00",
+      "fetched": "2025-09-23T13:25:07.056196+07:00"
+    },
+    {
+      "id": "76e35cc887120e40c285901a62f237e0",
+      "title": "Khách Nga đến Khánh Hòa tăng gần 300%, vì sao?",
+      "link": "https://tuoitre.vn/khach-nga-den-khanh-hoa-tang-gan-300-vi-sao-20250923112443558.htm",
+      "summary": "Trước việc nhiều hãng hàng không mở đường bay thẳng, lượng khách Nga đến Khánh Hòa tăng gần 300% so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055951+07:00",
+      "fetched": "2025-09-23T13:25:07.056071+07:00"
+    },
+    {
+      "id": "9e5c399e5fb5a8cf372c4414c12510f5",
+      "title": "Quảng Ngãi tháo gỡ vướng mắc trong bố trí nhà công vụ sau hợp nhất",
+      "link": "https://tuoitre.vn/quang-ngai-thao-go-vuong-mac-trong-bo-tri-nha-cong-vu-sau-hop-nhat-20250923114717212.htm",
+      "summary": "Sau sáp nhập Quảng Ngãi - Kon Tum, hàng trăm cán bộ chuyển về trung tâm tỉnh Quảng Ngãi mới làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055826+07:00",
+      "fetched": "2025-09-23T13:25:07.055940+07:00"
+    },
+    {
+      "id": "96ebdf7b971be15bad8ec4da7f00b6b7",
+      "title": "Đồng Tháp khánh thành Khu lưu niệm Chi bộ An Nam Cộng sản Đảng",
+      "link": "https://tuoitre.vn/dong-thap-khanh-thanh-khu-luu-niem-chi-bo-an-nam-cong-san-dang-2025092311240877.htm",
+      "summary": "Công trình là một trong những công trình chào mừng Đại hội Đảng bộ tỉnh Đồng Tháp lần thứ 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055679+07:00",
+      "fetched": "2025-09-23T13:25:07.055813+07:00"
+    },
+    {
+      "id": "0b0c4fe883ca2c4833c995e95deb9816",
+      "title": "Những dấu mốc ở tuổi 18 của Yamal",
+      "link": "https://tuoitre.vn/nhung-dau-moc-o-tuoi-18-cua-yamal-20250923115332875.htm",
+      "summary": "Dù đã để tuột danh hiệu Quả bóng vàng 2025 vào tay Dembele, thế nhưng những gì mà Yamal đã làm được ở tuổi 18 khiến tất cả đều nể phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055553+07:00",
+      "fetched": "2025-09-23T13:25:07.055667+07:00"
+    },
+    {
+      "id": "db60b1c986e40c3c808514d56af7da63",
+      "title": "Tổng Bí thư Tô Lâm: Mong họp ít, làm nhiều, ít khẩu hiệu và thủ tục, nhiều nụ cười của nhân dân",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-mong-hop-it-lam-nhieu-it-khau-hieu-va-thu-tuc-nhieu-nu-cuoi-cua-nhan-dan-20250923114547804.htm",
+      "summary": "Tổng Bí thư Tô Lâm mong muốn nhất ở nhiệm kỳ mới là thấy rõ sự đổi thay ở cơ sở sẽ họp ít hơn; làm việc, hành động nhiều hơn; ít khẩu hiệu hơn, nhiều kết quả hơn; ít thủ tục hơn, nhiều nụ cười của nhân dân hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055426+07:00",
+      "fetched": "2025-09-23T13:25:07.055541+07:00"
+    },
+    {
+      "id": "a7e3b09c31960bc43f7c1c1f71c3f9dd",
+      "title": "Sơn Tùng M-TP phủ nhận liên quan cá độ, yêu cầu dừng ngay việc sử dụng hình ảnh",
+      "link": "https://tuoitre.vn/son-tung-m-tp-phu-nhan-lien-quan-ca-do-yeu-cau-dung-ngay-viec-su-dung-hinh-anh-20250923115618844.htm",
+      "summary": "Đại diện công ty M-TP Talent cho biết công ty hay nghệ sĩ Sơn Tùng M-TP không có bất kỳ thỏa thuận hay hợp tác nào với thương hiệu cá độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055299+07:00",
+      "fetched": "2025-09-23T13:25:07.055414+07:00"
+    },
+    {
+      "id": "74106ab9ea047e16239a450b9e9badc6",
+      "title": "2 tuyến xe buýt qua hầm sông Sài Gòn tạm đổi đường để diễn tập chữa cháy",
+      "link": "https://tuoitre.vn/2-tuyen-xe-buyt-qua-ham-song-sai-gon-tam-doi-duong-de-dien-tap-chua-chay-2025092312025031.htm",
+      "summary": "Từ 14h đến 15h30 các ngày 23, 24 và 26-9, xe buýt qua hầm sông Sài Gòn tạm đổi lộ trình phục vụ để diễn tập chữa cháy, cứu hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055169+07:00",
+      "fetched": "2025-09-23T13:25:07.055287+07:00"
+    },
+    {
+      "id": "2a1d8698c208a380394d04cfb4db5b1d",
+      "title": "Vụ giá đỗ ngâm hóa chất: 4 bị cáo lãnh án tù",
+      "link": "https://tuoitre.vn/vu-gia-do-ngam-hoa-chat-4-bi-cao-lanh-an-tu-20250923121237474.htm",
+      "summary": "4 bị cáo trong đường dây ngâm giá đỗ bằng hóa chất bị tòa tuyên mức án từ 1 năm đến 4 năm tù, một số bị can khác được tách ra xử lý sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.055029+07:00",
+      "fetched": "2025-09-23T13:25:07.055156+07:00"
+    },
+    {
+      "id": "d633c9231aa7a95d5d8686df8ac642fe",
+      "title": "'Bán tải điện' nhỏ như Wuling Mini EV, 3 bánh, ray tự động chất hàng vào thùng xe",
+      "link": "https://tuoitre.vn/ban-tai-dien-nho-nhu-wuling-mini-ev-3-banh-ray-tu-dong-chat-hang-vao-thung-xe-20250923092857345.htm",
+      "summary": "\"Bán tải điện\" MOVA không chỉ là một phương tiện giao hàng thông thường. Với thiết kế ba bánh cực kỳ linh hoạt, MOVA hứa hẹn sẽ là giải pháp lý tưởng cho những ngõ hẻm chật hẹp và khu vực cấm xe lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:25:07.054802+07:00",
+      "fetched": "2025-09-23T13:25:07.055014+07:00"
+    },
     {
       "id": "70e41549a240b39f41288df389b5b2bf",
       "title": "Đá rơi liên tục xuống tỉnh lộ 627C Quảng Ngãi, người dân vừa lái xe vừa nhìn núi",
@@ -423,6 +573,286 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T08:12:18.529451+07:00"
     },
     {
+      "id": "aaf0462b32f845713ae304b9e2641b99",
+      "title": "Toàn văn phát biểu của Tổng Bí thư Tô Lâm tại Đại hội đại biểu Đảng bộ MTTQ, các đoàn thể T.Ư",
+      "link": "https://thanhnien.vn/toan-van-phat-bieu-cua-tong-bi-thu-to-lam-tai-dai-hoi-dai-bieu-dang-bo-mttq-cac-doan-the-tu-185250923115542915.htm",
+      "summary": "Tại Đại hội đại biểu Đảng bộ Mặt trận Tổ quốc, các đoàn thể T.Ư lần thứ nhất, nhiệm kỳ 2025 - 2030, Tổng Bí thư Tô Lâm đã có bài phát biểu chỉ đạo đại hội. Báo Thanh Niên trân trọng giới thiệu toàn văn bài phát biểu của Tổng Bí thư Tô Lâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:20:00+07:00",
+      "fetched": "2025-09-23T13:25:06.102373+07:00"
+    },
+    {
+      "id": "68874aad5ef6ea3c22a154978b1e2502",
+      "title": "CĐV bị tấn công vì nuôi tóc chờ Man Utd thắng",
+      "link": "https://vnexpress.net/cdv-bi-tan-cong-vi-nuoi-toc-cho-man-utd-thang-4942036.html",
+      "summary": "Frank Ilett bị một người đàn ông tấn công trong trận Man Utd thắng Chelsea ở vòng 5 giải Ngoại hạng Anh, hôm 20/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T06:19:31+07:00",
+      "fetched": "2025-09-23T13:25:14.302194+07:00"
+    },
+    {
+      "id": "f9fc6196bf42db117d4cd163da19daa8",
+      "title": "Chị gái Nadal bị đe dọa tính mạng",
+      "link": "https://vnexpress.net/chi-gai-nadal-bi-de-doa-tinh-mang-4942549.html",
+      "summary": "Maribel Nadal, chị gái cựu tay vợt Rafael Nadal, bị một người đàn ông liên tục gọi điện tán tỉnh và đe dọa hãm hại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T06:16:15+07:00",
+      "fetched": "2025-09-23T13:25:14.302348+07:00"
+    },
+    {
+      "id": "e06fe333d9df13b04d2f0bc1579f3a2e",
+      "title": "Neville: 'Guardiola xoay chiến thuật 180 độ'",
+      "link": "https://vnexpress.net/neville-guardiola-xoay-chien-thuat-180-do-4941999.html",
+      "summary": "Cựu hậu vệ Gary Neville thích việc HLV Pep Guardiola sử dụng chiến thuật tử thủ, khi Man City hòa Arsenal 1-1 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:09:30+07:00",
+      "fetched": "2025-09-23T13:24:52.127487+07:00"
+    },
+    {
+      "id": "e06fe333d9df13b04d2f0bc1579f3a2e",
+      "title": "Neville: 'Guardiola xoay chiến thuật 180 độ'",
+      "link": "https://vnexpress.net/neville-guardiola-xoay-chien-thuat-180-do-4941999.html",
+      "summary": "Cựu hậu vệ Gary Neville thích việc HLV Pep Guardiola sử dụng chiến thuật tử thủ, khi Man City hòa Arsenal 1-1 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T06:09:30+07:00",
+      "fetched": "2025-09-23T13:25:14.302500+07:00"
+    },
+    {
+      "id": "4531615603bc80f396c5360b5747ca60",
+      "title": "Tìm anh có việc ổn định, không kiểm soát và đòi hỏi bạn gái",
+      "link": "https://vnexpress.net/tim-anh-co-viec-on-dinh-khong-kiem-soat-va-doi-hoi-ban-gai-4942118.html",
+      "summary": "Tính tình mình tạm được, nói khi cần, chủ yếu là quan sát, không thích đánh giá hay giải thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:08:45+07:00",
+      "fetched": "2025-09-23T13:24:52.127602+07:00"
+    },
+    {
+      "id": "7bc088986c61bca1bffb36add8d59e40",
+      "title": "Lén chở lậu 40 tấn đường từ Campuchia về TP HCM",
+      "link": "https://vnexpress.net/len-cho-lau-40-tan-duong-tu-campuchia-ve-tp-hcm-4942548.html",
+      "summary": "Tài xế Bùi Xuân Trọng, 33 tuổi, thừa nhận được thuê chở 800 bao đường cát lậu, trọng lượng 40 tấn, theo đường mòn từ Campuchia về TP HCM thì bị cảnh sát phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:08:36+07:00",
+      "fetched": "2025-09-23T13:24:52.127800+07:00"
+    },
+    {
+      "id": "6d383e535e1c4c2bc107e3e1c7d84892",
+      "title": "Mỹ tung phao cứu sinh cho kinh tế Argentina",
+      "link": "https://vnexpress.net/my-tung-phao-cuu-sinh-cho-kinh-te-argentina-4942467.html",
+      "summary": "Bộ Tài chính Mỹ cho biết sẵn sàng \"làm việc cần thiết\" để hỗ trợ Argentina, trong bối cảnh Tổng thống Javier Milei nỗ lực trấn an thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:05:00+07:00",
+      "fetched": "2025-09-23T13:24:52.127967+07:00"
+    },
+    {
+      "id": "6d383e535e1c4c2bc107e3e1c7d84892",
+      "title": "Mỹ tung phao cứu sinh cho kinh tế Argentina",
+      "link": "https://vnexpress.net/my-tung-phao-cuu-sinh-cho-kinh-te-argentina-4942467.html",
+      "summary": "Bộ Tài chính Mỹ cho biết sẵn sàng \"làm việc cần thiết\" để hỗ trợ Argentina, trong bối cảnh Tổng thống Javier Milei nỗ lực trấn an thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T06:05:00+07:00",
+      "fetched": "2025-09-23T13:25:10.107002+07:00"
+    },
+    {
+      "id": "2dba83e361762309efbc907db30cb346",
+      "title": "Mỹ nam 6 múi cao 1,78 m trong 'Mưa đỏ' đóng phim điện ảnh mới",
+      "link": "https://thanhnien.vn/my-nam-6-mui-cao-178-m-trong-mua-do-dong-phim-dien-anh-moi-185250923124454818.htm",
+      "summary": "Sau thành công với vai Quang trong 'Mưa đỏ', Steven Nguyễn tiếp tục ghi dấu ấn khi đảm nhận vai chính trong dự án điện ảnh 'Trại buôn người'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:04:00+07:00",
+      "fetched": "2025-09-23T13:25:06.102547+07:00"
+    },
+    {
+      "id": "fa3d07904fcd253ae67899b9eaf6aed7",
+      "title": "Mãn hạn tù 30 năm, trùm giang hồ Bình 'Kiểm' lãnh tiếp 12 năm tù",
+      "link": "https://thanhnien.vn/man-han-tu-30-nam-trum-giang-ho-binh-kiem-lanh-tiep-12-nam-tu-185250923121717221.htm",
+      "summary": "Bị cáo Phạm Đức Bình (55 tuổi, tức Bình 'Kiểm') bị TAND khu vực 7 TP.HCM tuyên phạt 12 năm tù về hành vi mua bán, tàng trữ 2 khẩu súng AK, 1 khẩu súng Beretta, và hàng trăm viên đạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:02:00+07:00",
+      "fetched": "2025-09-23T13:25:06.102722+07:00"
+    },
+    {
+      "id": "6bdfb0572640172f50c2cc29188208cb",
+      "title": "Bạn thân mượn tiền vì 'tình phí' quá nhiều, tôi nên góp ý sao?",
+      "link": "https://vnexpress.net/ban-than-muon-tien-vi-tinh-phi-qua-nhieu-toi-nen-gop-y-sao-4942470.html",
+      "summary": "Tôi bảo bạn nên tiết kiệm lại, ăn uống hàng quán bình dân thôi, hoặc ăn cơm nhà rồi đi cà phê; bạn chỉ ậm ừ rồi vẫn mượn tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.128133+07:00"
+    },
+    {
+      "id": "c4a9b59792e9c1bacfe6c4cb325ecca5",
+      "title": "Robot chống bức xạ lớn nhất cho nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/robot-chong-buc-xa-lon-nhat-cho-nha-may-dien-hat-nhan-4942457.html",
+      "summary": "Các nhà nghiên cứu Trung Quốc phát triển hệ thống robot trang bị cánh tay chính đồ sộ có thể xử lý tải trọng 60 tấn với độ chính xác vượt trội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.128304+07:00"
+    },
+    {
+      "id": "7a9eb4d04bc1f8ebfc0676b4fa9e0bff",
+      "title": "Mở cổng bình chọn tai nghe được yêu thích nhất",
+      "link": "https://vnexpress.net/mo-cong-binh-chon-tai-nghe-duoc-yeu-thich-nhat-4942441.html",
+      "summary": "Số bình chọn thứ năm của Sản phẩm tôi yêu 2025 có chủ đề tai nghe True Wireless được yêu thích nhất, bắt đầu từ 12h ngày 23/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.128469+07:00"
+    },
+    {
+      "id": "3e7b19b120e1cd0fba4ff9c519993792",
+      "title": "Đau nhức xương khớp nên uống thuốc hay bôi ngoài da?",
+      "link": "https://vnexpress.net/dau-nhuc-xuong-khop-nen-uong-thuoc-hay-boi-ngoai-da-4942531.html",
+      "summary": "Tôi mua thuốc trị đau nhức xương khớp, có khi họ bán thuốc bôi hoặc dán, uống. Có sự khác biệt gì về công dụng và mức độ an toàn của những loại này? (Trung Dũng, Tiền Giang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.128630+07:00"
+    },
+    {
+      "id": "a07d78da6dd98bea4e38a09dbd6357d7",
+      "title": "Làm gì giảm hại gan sau uống rượu bia?",
+      "link": "https://vnexpress.net/lam-gi-giam-hai-gan-sau-uong-ruou-bia-4942405.html",
+      "summary": "Ăn nhẹ trước bữa tiệc, chọn món ăn giàu chất xơ, protein và ít dầu mỡ góp phần giảm áp lực cho gan, ngăn tích tụ mỡ gây viêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.128810+07:00"
+    },
+    {
+      "id": "c4a9b59792e9c1bacfe6c4cb325ecca5",
+      "title": "Robot chống bức xạ lớn nhất cho nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/robot-chong-buc-xa-lon-nhat-cho-nha-may-dien-hat-nhan-4942457.html",
+      "summary": "Các nhà nghiên cứu Trung Quốc phát triển hệ thống robot trang bị cánh tay chính đồ sộ có thể xử lý tải trọng 60 tấn với độ chính xác vượt trội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:25:13.349557+07:00"
+    },
+    {
+      "id": "7a9eb4d04bc1f8ebfc0676b4fa9e0bff",
+      "title": "Mở cổng bình chọn tai nghe được yêu thích nhất",
+      "link": "https://vnexpress.net/mo-cong-binh-chon-tai-nghe-duoc-yeu-thich-nhat-4942441.html",
+      "summary": "Số bình chọn thứ năm của Sản phẩm tôi yêu 2025 có chủ đề tai nghe True Wireless được yêu thích nhất, bắt đầu từ 12h ngày 23/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T06:00:00+07:00",
+      "fetched": "2025-09-23T13:25:13.350084+07:00"
+    },
+    {
+      "id": "abcab7e70ee42dfef7a2bb1f1893ba9a",
+      "title": "Bình 'Kiểm' khai bị trầm cảm, thừa nhận mê súng 'từ lúc mười mấy tuổi'",
+      "link": "https://thanhnien.vn/binh-kiem-khai-bi-tram-cam-thua-nhan-me-sung-tu-luc-muoi-may-tuoi-185250923124512428.htm",
+      "summary": "Trong phiên xét xử sơ thẩm sáng 23.9.2025, bị cáo Phạm Đức Bình (tức Bình 'Kiểm') khai mê súng ‘từ lúc mười mấy tuổi', thừa nhận cáo trạng quy kết đúng người, đúng tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:52:00+07:00",
+      "fetched": "2025-09-23T13:25:06.102881+07:00"
+    },
+    {
+      "id": "f147d3814108771960d35e76bdaed870",
+      "title": "Truy tố người chiếu laser vào trực thăng Marine One sắp chở Tổng thống Trump",
+      "link": "https://thanhnien.vn/truy-to-nguoi-chieu-laser-vao-truc-thang-marine-one-sap-cho-tong-thong-trump-185250923123452597.htm",
+      "summary": "Một nghi phạm bị buộc tội chiếu laser vào trực thăng Marine One sắp chở Tổng thống Mỹ Donald Trump hồi cuối tuần qua, theo báo The Hill hôm 22.9 trích nội dung một bản khai có tuyên thệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:43:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103034+07:00"
+    },
+    {
+      "id": "6f51300a035afe1336ba95d5c862a6ef",
+      "title": "Đặc khu nào là hòn đảo có diện tích nhỏ nhất Việt Nam?",
+      "link": "https://vnexpress.net/dac-khu-nao-la-hon-dao-co-dien-tich-nho-nhat-viet-nam-4942526.html",
+      "summary": "Các đặc khu của Việt Nam sau sáp nhập đa phần là các hòn đảo nổi tiếng, cảnh quan đẹp, có giá trị lịch sử - văn hoá và thu hút du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:39:08+07:00",
+      "fetched": "2025-09-23T13:24:52.128967+07:00"
+    },
+    {
+      "id": "bc5e1b3eb134198afc5c130d3fa174c0",
+      "title": "Ứng phó siêu bão Ragasa: Hơn 300.000 cán bộ chiến sĩ, 6 máy bay trực chiến",
+      "link": "https://thanhnien.vn/ung-pho-sieu-bao-ragasa-hon-300000-can-bo-chien-si-6-may-bay-truc-chien-185250923123543317.htm",
+      "summary": "Trước dự báo siêu bão Ragasa ảnh hưởng trực tiếp đến đất liền Việt Nam, các đơn vị quân đội đã chuẩn bị hơn 300.000 cán bộ, chiến sĩ, cùng 8.000 phương tiện và 6 máy bay, sẵn sàng triển khai ứng cứu khi bão đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:35:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103183+07:00"
+    },
+    {
+      "id": "96fa93c0ebac79820bbf0d56634b0e6b",
+      "title": "Nhà Trắng bác đề nghị đối thoại Venezuela gửi cho Tổng thống Trump",
+      "link": "https://thanhnien.vn/nha-trang-bac-de-nghi-doi-thoai-venezuela-gui-cho-tong-thong-trump-185250923122910908.htm",
+      "summary": "Theo hãng tin Reuters, Nhà Trắng ngày 22.9 xác nhận đã xem xét một bức thư do Tổng thống Venezuela Nicolas Maduro gửi cho Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:35:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103330+07:00"
+    },
+    {
+      "id": "57fb76c65888162e797cf33a9fc14b17",
+      "title": "TAND TP.HCM xét xử vụ án đánh bạc trên mạng lên đến 3,8 tỉ USD",
+      "link": "https://thanhnien.vn/tand-tphcm-xet-xu-vu-an-danh-bac-tren-mang-len-den-38-ti-usd-1852509231137301.htm",
+      "summary": "Ngày 23.9, TAND TP.HCM xét xử sơ thẩm 43 bị cáo trong vụ án đánh bạc, tổ chức đánh bạc trên không gian mạng bằng tiền kỹ thuật số, với số tiền lên đến 3,8 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:35:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103474+07:00"
+    },
+    {
+      "id": "c62ec22da1e96b14f218ac1537146774",
+      "title": "Cục Đăng kiểm nói gì về lo ngại '96% xe xăng phải ngừng bán vào 2030'?",
+      "link": "https://thanhnien.vn/cuc-dang-kiem-noi-gi-ve-lo-ngai-96-xe-xang-phai-ngung-ban-vao-2030-185250923120839817.htm",
+      "summary": "Theo Cục Đăng kiểm, thông tin '96% xe xăng phải ngừng bán vào năm 2030 tại Việt Nam' là không chính xác, gây hiểu nhầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:32:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103622+07:00"
+    },
+    {
+      "id": "bab7ae260cf721bb3e239d5eaeedb2c0",
+      "title": "Anh Nguyễn Minh Triết: 5 giải pháp trụ cột phát huy sức trẻ",
+      "link": "https://thanhnien.vn/anh-nguyen-minh-triet-5-giai-phap-tru-cot-phat-huy-suc-tre-185250923112101481.htm",
+      "summary": "Bí thư T.Ư Đoàn Nguyễn Minh Triết đã có bài tham luận truyền cảm hứng tại Đại hội đại biểu Đảng bộ MTTQ, các đoàn thể T.Ư lần thứ nhất, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:24:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103800+07:00"
+    },
+    {
+      "id": "caff27056f1f005bcf9cb103f01ce6f3",
+      "title": "Người Việt tăng mua sắm ô tô MPV 7 chỗ, doanh số sedan tiếp tục giảm",
+      "link": "https://thanhnien.vn/nguoi-viet-tang-mua-sam-o-to-mpv-7-cho-doanh-so-sedan-tiep-tuc-giam-185250918153055304.htm",
+      "summary": "Dòng xe MPV 7 chỗ, bán tải hay crossover được ưa chuộng, xe SUV vẫn bán chạy nhất nhưng doanh số đang chững lại trong khi lượng tiêu thụ xe sedan vẫn đang trên đà giảm sau 8 tháng đã qua của năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:19:00+07:00",
+      "fetched": "2025-09-23T13:25:06.103955+07:00"
+    },
+    {
+      "id": "011c15387299dabc45b55138d4d3190f",
+      "title": "Siêu bão Ragasa áp sát, Trung Quốc đóng cửa, sơ tán nhiều thành phố",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-ap-sat-trung-quoc-dong-cua-so-tan-nhieu-thanh-pho-185250923120935823.htm",
+      "summary": "Trung Quốc đã ra lệnh đóng cửa trường học và các cơ sở kinh doanh tại ít nhất 10 thành phố ngay trước khi siêu bão Ragasa đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:17:00+07:00",
+      "fetched": "2025-09-23T13:25:06.104107+07:00"
+    },
+    {
       "id": "5d76744100048d0c48a3463114f5dfef",
       "title": "Ousmane Dembele giành Quả bóng vàng 2025",
       "link": "https://tuoitre.vn/ousmane-dembele-gianh-qua-bong-vang-2025-20250923024513213.htm",
@@ -431,6 +861,156 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T05:15:12.041431+07:00",
       "fetched": "2025-09-23T05:15:12.041651+07:00"
+    },
+    {
+      "id": "a93d22333752dd493f24851159580a51",
+      "title": "Tổng Bí thư: Tuyệt đối tránh 'hội họp dày, báo cáo đẹp nhưng kết quả mỏng'",
+      "link": "https://vnexpress.net/tong-bi-thu-tuyet-doi-tranh-hoi-hop-day-bao-cao-dep-nhung-ket-qua-mong-4942480.html",
+      "summary": "Tổng Bí thư Tô Lâm đề nghị Mặt trận Tổ quốc Việt Nam triển khai chương trình an sinh phải có mốc thời hạn, chuẩn đầu ra, chỉ số tác động, lấy ý kiến người thụ hưởng, tránh hình thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:15:09+07:00",
+      "fetched": "2025-09-23T13:24:52.129125+07:00"
+    },
+    {
+      "id": "bd4bab3796999532ca49ede72c34935e",
+      "title": "Dinh thự Pháp hơn 150 năm tuổi ở phường Sài Gòn: Vẻ đẹp cổ kính hiếm có",
+      "link": "https://thanhnien.vn/dinh-thu-phap-hon-150-nam-tuoi-o-phuong-sai-gon-ve-dep-co-kinh-hiem-co-185250920134345069.htm",
+      "summary": "Giữa trung tâm TP.HCM, dinh thự Pháp hơn 150 năm tuổi vẫn giữ trọn nét cổ kính Đông Dương, lưu giữ hiện vật quý và bức tranh sơn mài của danh họa Nguyễn Gia Trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:12:00+07:00",
+      "fetched": "2025-09-23T13:25:06.104256+07:00"
+    },
+    {
+      "id": "3736791f6b527bc26f77d9b71e3d7a7c",
+      "title": "Phẫu thuật thành công cho bệnh nhân gặp biến chứng ở vùng mặt do tiêm filler",
+      "link": "https://thanhnien.vn/phau-thuat-thanh-cong-cho-benh-nhan-gap-bien-chung-o-vung-mat-do-tiem-filler-185250923104941289.htm",
+      "summary": "Ngay sau khi bệnh nhân đến thăm khám, Bệnh viện Đa khoa quốc tế Minh Anh (TP.HCM) chẩn đoán bị viêm mô tế bào lan tỏa, hình thành nhiều ổ áp xe trên mặt. Vùng nhiễm trùng đã làm mất ranh giới giữa mô khỏe mạnh và mô bị hoại tử, dễ gây nguy cơ biến chứng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:10:00+07:00",
+      "fetched": "2025-09-23T13:25:06.104403+07:00"
+    },
+    {
+      "id": "efbe40be2854f6a1badca3d012274147",
+      "title": "4 trang bị người mua ô tô muốn có nhưng ít dùng",
+      "link": "https://thanhnien.vn/4-trang-bi-nguoi-mua-o-to-muon-co-nhung-it-dung-185250921163648316.htm",
+      "summary": "Khi mua ô tô, người Việt thích chọn những mẫu xe có nhiều trang bị tiện nghi nhưng thực tế lại không sử dụng nhiều, các trang bị này gần như bị bỏ quên, thậm chí gây phiền toái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:06:00+07:00",
+      "fetched": "2025-09-23T13:25:06.104558+07:00"
+    },
+    {
+      "id": "1a83c1a19c541724aa89768ef8c22af0",
+      "title": "Các nước sẽ dự trữ Bitcoin bên cạnh vàng từ năm 2030",
+      "link": "https://vnexpress.net/cac-nuoc-se-du-tru-bitcoin-ben-canh-vang-tu-nam-2030-4942500.html",
+      "summary": "Theo Deutsche Bank, các ngân hàng trung ương trên thế giới sẽ dự trữ Bitcoin song song vàng vào năm 2030 khi tiền số được chấp nhận rộng rãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:04:01+07:00",
+      "fetched": "2025-09-23T13:24:52.129293+07:00"
+    },
+    {
+      "id": "1a83c1a19c541724aa89768ef8c22af0",
+      "title": "Các nước sẽ dự trữ Bitcoin bên cạnh vàng từ năm 2030",
+      "link": "https://vnexpress.net/cac-nuoc-se-du-tru-bitcoin-ben-canh-vang-tu-nam-2030-4942500.html",
+      "summary": "Theo Deutsche Bank, các ngân hàng trung ương trên thế giới sẽ dự trữ Bitcoin song song vàng vào năm 2030 khi tiền số được chấp nhận rộng rãi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T05:04:01+07:00",
+      "fetched": "2025-09-23T13:25:10.107177+07:00"
+    },
+    {
+      "id": "222c905fb74917b38ad0b688b7db4eb4",
+      "title": "Khách đổ xô về Mù Cang Chải 'săn' mùa vàng",
+      "link": "https://vnexpress.net/khach-do-xo-ve-mu-cang-chai-san-mua-vang-4942277.html",
+      "summary": "Lượng khách đổ đến Mù Cang Chải ngắm mùa vàng đông đột biến cuối tháng 9 khiến nhiều tuyến đường nơi đây ùn tắc kéo dài, dịch vụ lưu trú và ăn uống quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:00:55+07:00",
+      "fetched": "2025-09-23T13:24:52.129466+07:00"
+    },
+    {
+      "id": "7e11e15a2fc2e778c54cbbcb7200113e",
+      "title": "6 cầu thủ Pháp từng giành Quả Bóng Vàng",
+      "link": "https://vnexpress.net/6-cau-thu-phap-tung-gianh-qua-bong-vang-4942520.html",
+      "summary": "Với Quả Bóng Vàng 2025, Ousmane Dembele trở thành cầu thủ Pháp thứ sáu nhận giải thưởng cá nhân cao quý nhất này trong lịch sử bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.129619+07:00"
+    },
+    {
+      "id": "526de8b051050eb62e12ab8269e083c2",
+      "title": "Mourinho: 'Thắng ở Benfica thì đẹp, thua thì đau lắm'",
+      "link": "https://vnexpress.net/mourinho-thang-o-benfica-thi-dep-thua-thi-dau-lam-4942275.html",
+      "summary": "HLV Jose Mourinho truyền lửa bằng bài diễn thuyết mạnh mẽ trong phòng thay đồ, trước trận ra mắt Benfica thắng AVS 3-0 ở vòng 5 giải VĐQG Bồ Đào Nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T05:00:00+07:00",
+      "fetched": "2025-09-23T13:24:52.129800+07:00"
+    },
+    {
+      "id": "7e11e15a2fc2e778c54cbbcb7200113e",
+      "title": "6 cầu thủ Pháp từng giành Quả Bóng Vàng",
+      "link": "https://vnexpress.net/6-cau-thu-phap-tung-gianh-qua-bong-vang-4942520.html",
+      "summary": "Với Quả Bóng Vàng 2025, Ousmane Dembele trở thành cầu thủ Pháp thứ sáu nhận giải thưởng cá nhân cao quý nhất này trong lịch sử bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T05:00:00+07:00",
+      "fetched": "2025-09-23T13:25:14.301205+07:00"
+    },
+    {
+      "id": "526de8b051050eb62e12ab8269e083c2",
+      "title": "Mourinho: 'Thắng ở Benfica thì đẹp, thua thì đau lắm'",
+      "link": "https://vnexpress.net/mourinho-thang-o-benfica-thi-dep-thua-thi-dau-lam-4942275.html",
+      "summary": "HLV Jose Mourinho truyền lửa bằng bài diễn thuyết mạnh mẽ trong phòng thay đồ, trước trận ra mắt Benfica thắng AVS 3-0 ở vòng 5 giải VĐQG Bồ Đào Nha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T05:00:00+07:00",
+      "fetched": "2025-09-23T13:25:14.302651+07:00"
+    },
+    {
+      "id": "e32edb1bc71c7874850d7055d4e62376",
+      "title": "Ragasa trở thành siêu bão mạnh nhất thế giới từ đầu năm",
+      "link": "https://vnexpress.net/ragasa-tro-thanh-sieu-bao-manh-nhat-the-gioi-tu-dau-nam-4942418.html",
+      "summary": "Khi siêu bão Ragasa đổ bộ vào Philippines với sức gió 270 km/h, nó đã trở thành cơn bão mạnh nhất địa cầu từ đầu năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T04:42:02+07:00",
+      "fetched": "2025-09-23T13:25:08.514202+07:00"
+    },
+    {
+      "id": "c782dd96cc6b1dee7de7f472ce0907de",
+      "title": "Dàn vũ khí trên hộ vệ hạm Anh thăm Việt Nam",
+      "link": "https://vnexpress.net/dan-vu-khi-tren-ho-ve-ham-anh-tham-viet-nam-4942287.html",
+      "summary": "Hộ vệ hạm HMS Richmond đang thăm Việt Nam được trang bị nhiều vũ khí hiện đại của Anh như tên lửa diệt hạm NSM và phòng không Sea Ceptor.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T04:35:01+07:00",
+      "fetched": "2025-09-23T13:25:08.514378+07:00"
+    },
+    {
+      "id": "e73422c1384205d07534f3b94b1e06ae",
+      "title": "Nga - Ukraine tìm cách triệt hạ huyết mạch năng lượng của nhau",
+      "link": "https://vnexpress.net/nga-ukraine-tim-cach-triet-ha-huyet-mach-nang-luong-cua-nhau-4942344.html",
+      "summary": "Nga tăng sức ép tập kích lên hạ tầng năng lượng Ukraine trước mùa đông, còn Kiev cũng tung đòn đáp trả tương tự nhằm triệt hạ nguồn tài chính của đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T04:24:33+07:00",
+      "fetched": "2025-09-23T13:25:08.514539+07:00"
+    },
+    {
+      "id": "57ed6f40cc71b1f754e0d20ba48e564d",
+      "title": "Vì sao Mbappe mất giải Gerd Muller vào tay Gyokeres?",
+      "link": "https://vnexpress.net/vi-sao-mbappe-mat-giai-gerd-muller-vao-tay-gyokeres-4942340.html",
+      "summary": "Việc Victor Gyokeres giành giải Gerd Muller tại gala Quả Bóng Vàng 2025 tối 22/9 gây tranh cãi vì từng thua Kylian Mbappe ở giải Giày Vàng châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T04:18:47+07:00",
+      "fetched": "2025-09-23T13:25:14.302823+07:00"
     },
     {
       "id": "3c2a722faba8d56350a2ac5ca0b82277",
@@ -1541,6 +2121,16 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T00:36:59+07:00",
       "fetched": "2025-09-23T08:12:06.964409+07:00"
+    },
+    {
+      "id": "aeda3c25d6b94d2deaadfa9407da1c2b",
+      "title": "Bố bị tổn thương vì Yamal thất bại ở Quả Bóng Vàng",
+      "link": "https://vnexpress.net/bo-bi-ton-thuong-vi-yamal-that-bai-o-qua-bong-vang-4942325.html",
+      "summary": "Ông Mounir Nasraoui thất vọng ra mặt khi con trai Lamine Yamal về sau Ousmane Dembele ở Quả Bóng Vàng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T00:36:59+07:00",
+      "fetched": "2025-09-23T13:25:14.301716+07:00"
     },
     {
       "id": "36181ae21f53cfd8bc4fe4e59dbdff85",
