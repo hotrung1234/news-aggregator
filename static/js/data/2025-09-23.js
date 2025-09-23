@@ -1,7 +1,157 @@
 window.newsData_2025_09_23 = {
   "date": "2025-09-23",
-  "lastUpdated": "2025-09-23T15:21:48.100305+07:00",
+  "lastUpdated": "2025-09-23T17:17:23.266059+07:00",
   "articles": [
+    {
+      "id": "6ae1659668d34e04af19325c49236af1",
+      "title": "Xả súng tại gara xe gây chấn động: 2 người thiệt mạng, nguyên nhân chỉ vì tranh cãi thay lọc dầu",
+      "link": "https://tuoitre.vn/xa-sung-tai-gara-xe-gay-chan-dong-2-nguoi-thiet-mang-nguyen-nhan-chi-vi-tranh-cai-thay-loc-dau-20250923140750703.htm",
+      "summary": "Một vụ tranh cãi tưởng chừng như nhỏ nhặt về lọc dầu đã biến thành bi kịch xả súng kinh hoàng tại một gara xe ở Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.925316+07:00",
+      "fetched": "2025-09-23T17:17:14.925434+07:00"
+    },
+    {
+      "id": "de4a7d1452b58d659b428c1e064de5a1",
+      "title": "Áp thấp nhiệt đới lại xuất hiện và vào Biển Đông, có thể vào Trung Bộ",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-lai-xuat-hien-va-vao-bien-dong-co-the-vao-trung-bo-20250923145827723.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết áp thấp nhiệt đới mới hình thành ở ngoài khơi Philippines có khả năng mạnh lên thành bão, đi vào Biển Đông ngày 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.925185+07:00",
+      "fetched": "2025-09-23T17:17:14.925305+07:00"
+    },
+    {
+      "id": "f9b98a620cae0e110a15069f46d0860f",
+      "title": "Lên mạng làm giả xác nhận của UBND xã để lừa đảo bán đất ở Phú Quốc",
+      "link": "https://tuoitre.vn/len-mang-lam-gia-xac-nhan-cua-ubnd-xa-de-lua-dao-ban-dat-o-phu-quoc-20250923145238423.htm",
+      "summary": "Chiều 23-9, Cơ quan cảnh sát điều tra Công an tỉnh An Giang cho biết đơn vị vừa hoàn tất kết luận điều tra, đồng thời chuyển hồ sơ vụ án sang Viện KSND tỉnh An Giang đề nghị truy tố đối tượng tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.925057+07:00",
+      "fetched": "2025-09-23T17:17:14.925174+07:00"
+    },
+    {
+      "id": "5d07572ceee4170569631ff03b06dd38",
+      "title": "Tìm thấy cụ ông 78 tuổi lạc 7 ngày trong rừng sâu ở Đà Lạt",
+      "link": "https://tuoitre.vn/tim-thay-cu-ong-78-tuoi-lac-7-ngay-trong-rung-sau-o-da-lat-20250923150803196.htm",
+      "summary": "Sau 2 ngày huy động gần 100 người băng rừng tìm kiếm, trưa 23-9 lực lượng chức năng đã tìm thấy cụ ông sau 7 ngày lạc trong rừng sâu ở Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924927+07:00",
+      "fetched": "2025-09-23T17:17:14.925046+07:00"
+    },
+    {
+      "id": "8a4465512695163d08e542f8c85422c9",
+      "title": "Giá gạo xuất khẩu của Thái Lan vẫn tăng trong khi giá gạo thế giới giảm",
+      "link": "https://tuoitre.vn/gia-gao-xuat-khau-cua-thai-lan-van-tang-trong-khi-gia-gao-the-gioi-giam-20250923151329516.htm",
+      "summary": "Báo cáo mới đây trên tờ nhật báo Krungthep Turakij cho thấy trong khi nguồn cung gạo toàn cầu ở mức cao khiến giá gạo giảm, thì giá gạo xuất khẩu của Thái Lan lại tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924792+07:00",
+      "fetched": "2025-09-23T17:17:14.924916+07:00"
+    },
+    {
+      "id": "23c5644e0934e5a4a09fd35af289d425",
+      "title": "Ưu tiên xây dựng mô hình doanh nghiệp trong trường đại học",
+      "link": "https://tuoitre.vn/uu-tien-xay-dung-mo-hinh-doanh-nghiep-trong-truong-dai-hoc-20250923150854725.htm",
+      "summary": "Ngày 23-9, Trường đại học Nam Cần Thơ đã tổ chức khai giảng năm học 2025-2026, chào đón gần 5.000 tân sinh viên khóa 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924659+07:00",
+      "fetched": "2025-09-23T17:17:14.924780+07:00"
+    },
+    {
+      "id": "4df2140ace7ba133f6fa8e041b9d08b8",
+      "title": "Bão Ragasa khả năng đổ bộ vào Quảng Ninh - Hưng Yên, miền Bắc có nơi mưa 400mm",
+      "link": "https://tuoitre.vn/bao-ragasa-kha-nang-do-bo-vao-quang-ninh-hung-yen-mien-bac-co-noi-mua-400mm-2025092315251144.htm",
+      "summary": "Dự báo siêu bão Ragasa (bão số 9) sẽ suy yếu xuống cấp 11-12 khi di chuyển vào vịnh Bắc Bộ và có khả năng đổ bộ vào Quảng Ninh - Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924512+07:00",
+      "fetched": "2025-09-23T17:17:14.924641+07:00"
+    },
+    {
+      "id": "fcd183207b1a74451a0ee7846d703189",
+      "title": "Xác minh clip xe ben chạy trong làn xe máy trên cầu vượt Tân Vạn",
+      "link": "https://tuoitre.vn/xac-minh-clip-xe-ben-chay-trong-lan-xe-may-tren-cau-vuot-tan-van-20250923153013515.htm",
+      "summary": "Ngày 23-9, mạng xã hội chia sẻ đoạn clip ghi lại cảnh xe ben chở đầy đất đá phóng nhanh trong làn xe máy trên cầu vượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924387+07:00",
+      "fetched": "2025-09-23T17:17:14.924501+07:00"
+    },
+    {
+      "id": "8768efe36531fd9f861e1ec80f0d9612",
+      "title": "Công bố đơn vị thắng giải thi thiết kế kiến trúc bệnh viện 4.450 tỉ đồng ở Khánh Hòa",
+      "link": "https://tuoitre.vn/cong-bo-don-vi-thang-giai-thi-thiet-ke-kien-truc-benh-vien-4-450-ti-dong-o-khanh-hoa-20250923145139734.htm",
+      "summary": "Khánh Hòa công bố kết quả thi tuyển phương án kiến trúc của Bệnh viện Đa khoa  tỉnh Khánh Hòa mới, quy mô dự kiến 1.500 giường, tổng mức đầu tư 4.450 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924261+07:00",
+      "fetched": "2025-09-23T17:17:14.924376+07:00"
+    },
+    {
+      "id": "05ec1dd690255d6f08ae11e5e5f236ff",
+      "title": "FDI tăng tốc vào Việt Nam, bất động sản công nghiệp ‘xanh’ thành điểm sáng",
+      "link": "https://tuoitre.vn/fdi-tang-toc-vao-viet-nam-bat-dong-san-cong-nghiep-xanh-thanh-diem-sang-20250923144725214.htm",
+      "summary": "Dòng vốn FDI rót mạnh vào Việt Nam không chỉ mang đến nguồn lực kinh tế mà còn đặt ra những tiêu chuẩn mới về bất động sản công nghiệp xanh, đảm bảo các tiêu chí ESG, hạ tầng hiện đại để hút vốn ngoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924133+07:00",
+      "fetched": "2025-09-23T17:17:14.924249+07:00"
+    },
+    {
+      "id": "5cda144a270842321d9a53930f4879ec",
+      "title": "Honey Lee, Kang Dong Won và loạt sao Hàn bị tố hoạt động công ty quản lý 'chui'",
+      "link": "https://tuoitre.vn/honey-lee-kang-dong-won-va-loat-sao-han-bi-to-hoat-dong-cong-ty-quan-ly-chui-20250923152407258.htm",
+      "summary": "Honey Lee tiếp tục vướng tranh cãi vì hoạt động công ty quản lý nhưng không đăng ký nhiều năm. Nhiều sao Hàn khác như Kang Dong Won, Han Ga In cũng bị phát hiện sai sót tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.924000+07:00",
+      "fetched": "2025-09-23T17:17:14.924121+07:00"
+    },
+    {
+      "id": "372e51e7ae816b29f437a126df7919d2",
+      "title": "Đà Nẵng lần đầu tổ chức giải IRONMAN cự ly toàn phần: bơi 3,8 km, đạp xe 180 km, chạy hơn 42 km",
+      "link": "https://tuoitre.vn/da-nang-lan-dau-to-chuc-giai-ironman-cu-ly-toan-phan-boi-3-8-km-dap-xe-180-km-chay-hon-42-km-20250923130702929.htm",
+      "summary": "Sau 10 năm đăng cai giải ba môn phối hợp IRONMAN, Đà Nẵng sẽ lần đầu tổ chức cự ly toàn phần với cự ly bơi 3,8 km, đạp xe 180 km và chạy marathon 42,2 km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.923868+07:00",
+      "fetched": "2025-09-23T17:17:14.923988+07:00"
+    },
+    {
+      "id": "85cdc27431592212df6f4d94c3593e26",
+      "title": "Nhà thiết kế Hà Linh Thư trở lại Paris tổ chức show thời trang",
+      "link": "https://tuoitre.vn/nha-thiet-ke-ha-linh-thu-tro-lai-paris-to-chuc-show-thoi-trang-20250923152759853.htm",
+      "summary": "‘Stairway to Heaven’ là chủ đề bộ sưu tập xuân hè 2026 sẽ được nhà thiết kế Hà Linh Thư giới thiệu đến bạn bè quốc tế tại Paris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.923726+07:00",
+      "fetched": "2025-09-23T17:17:14.923856+07:00"
+    },
+    {
+      "id": "0e5e77ad3953e9ab20251a66484a2cca",
+      "title": "Có thật nông dân thời Trung cổ chỉ làm việc 150 ngày một năm?",
+      "link": "https://tuoitre.vn/co-that-nong-dan-thoi-trung-co-chi-lam-viec-150-ngay-mot-nam-20250923112903281.htm",
+      "summary": "Thông tin gây tranh cãi cho rằng nông dân thời Trung cổ chỉ làm việc 150 ngày mỗi năm do nhà thờ thường xuyên tổ chức lễ nghỉ. Thực hư thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.923557+07:00",
+      "fetched": "2025-09-23T17:17:14.923712+07:00"
+    },
+    {
+      "id": "3a1f48cd823fb92f78566384d43e1632",
+      "title": "Phi hành gia ISS chụp lại siêu bão Ragasa: Khung cảnh 'hãi hùng' từ không gian",
+      "link": "https://tuoitre.vn/phi-hanh-gia-iss-chup-lai-sieu-bao-ragasa-khung-canh-hai-hung-tu-khong-gian-20250923153846078.htm",
+      "summary": "Hình ảnh mắt bão khổng lồ được phi hành gia Nhật Bản Kimiya Yui ghi lại từ không gian khiến người xem vừa choáng ngợp vừa kinh sợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T17:17:14.923307+07:00",
+      "fetched": "2025-09-23T17:17:14.923541+07:00"
+    },
     {
       "id": "80d7a8ce7a7041869474a6ff18dd83de",
       "title": "Khởi tố tài xế chở 40 tấn đường cát lậu nhập từ Campuchia về TP.HCM",
@@ -453,6 +603,76 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T11:19:28.663979+07:00"
     },
     {
+      "id": "ec2c3db11f2b19c81b94eaefe5056107",
+      "title": "Lỗi khó hiểu trên iPhone 17: Mất Wi-Fi vì... đeo Apple Watch?",
+      "link": "https://thanhnien.vn/loi-kho-hieu-tren-iphone-17-mat-wi-fi-vi-deo-apple-watch-185250923155248732.htm",
+      "summary": "Vừa mở bán đã dính lỗi, iPhone 17 khiến người dùng phiền lòng vì sự cố kết nối Wi-Fi chập chờn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T10:10:00+07:00",
+      "fetched": "2025-09-23T17:17:13.395316+07:00"
+    },
+    {
+      "id": "3d2d1c8b9f007ec7ea1abf21e64fe22b",
+      "title": "Đà Nẵng siết chặt phòng tuyến, lực lượng vũ trang sẵn sàng ứng phó mưa bão",
+      "link": "https://thanhnien.vn/da-nang-siet-chat-phong-tuyen-luc-luong-vu-trang-san-sang-ung-pho-mua-bao-185250923151705423.htm",
+      "summary": "TP.Đà Nẵng bước vào cao điểm mùa mưa bão với nhiều diễn biến khó lường. Trước siêu bão Ragasa và nguy cơ mưa lũ dồn dập, lực lượng vũ trang đã kích hoạt phương án ứng phó 'từ sớm, từ xa, trực chiến 24/24...\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T10:05:00+07:00",
+      "fetched": "2025-09-23T17:17:13.395492+07:00"
+    },
+    {
+      "id": "dec095fcbceb0e6c3344a163c6785a4d",
+      "title": "Đi Nhật Bản ngắm lá đỏ, thời điểm nào đẹp nhất?",
+      "link": "https://thanhnien.vn/di-nhat-ban-ngam-la-do-thoi-diem-nao-dep-nhat-185250923163502939.htm",
+      "summary": "Nhật Bản đang khoác lên mình tấm áo rực rỡ của lá đỏ, lá vàng trải dài từ Hokkaido đến Kyushu. Cùng với đó, lượng khách Việt Nam đến Nhật Bản tăng trưởng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T10:04:00+07:00",
+      "fetched": "2025-09-23T17:17:13.395675+07:00"
+    },
+    {
+      "id": "3073f8371d61e2402ca011a0bbdadcac",
+      "title": "Đắk Lắk: Công an mời làm việc với nam thanh niên đánh phụ nữ mang thai",
+      "link": "https://thanhnien.vn/dak-lak-cong-an-moi-lam-viec-voi-nam-thanh-nien-danh-phu-nu-mang-thai-18525092315432812.htm",
+      "summary": "Công an P.Tuy Hòa (Đắk Lắk) đã xác định được nhân thân và mời nam thanh niên đánh phụ nữ mang thai bán tạp hóa trước cổng bệnh viện, lên làm việc để xác minh làm rõ vụ hành hung người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T10:03:00+07:00",
+      "fetched": "2025-09-23T17:17:13.395840+07:00"
+    },
+    {
+      "id": "d193c69c93716b570529c4b47ab25fd2",
+      "title": "Đà Nẵng kêu gọi đầu tư bến container cảng Liên Chiểu 1,76 tỉ USD",
+      "link": "https://thanhnien.vn/da-nang-keu-goi-dau-tu-ben-container-cang-lien-chieu-176-ti-usd-185250923153214445.htm",
+      "summary": "Ngày 23.9, UBND TP.Đà Nẵng cho biết đã chấp thuận chủ trương đầu tư dự án xây dựng tổng thể bến container cảng Liên Chiểu, với tổng mức đầu tư sơ bộ 45.268 tỉ đồng (tương đương 1,76 tỉ USD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T10:00:00+07:00",
+      "fetched": "2025-09-23T17:17:13.395998+07:00"
+    },
+    {
+      "id": "c7972a4339d79abf27448575f7ae3a82",
+      "title": "VNG hiến kế giải pháp xây dựng các ứng dụng AI cho Việt Nam",
+      "link": "https://thanhnien.vn/vng-hien-ke-giai-phap-xay-dung-cac-ung-dung-ai-cho-viet-nam-185250923165006745.htm",
+      "summary": "Người đứng đầu VNG Group đã chia sẻ về việc xây dựng được các ứng dụng và mô hình kinh doanh AI cho Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:58:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396150+07:00"
+    },
+    {
+      "id": "54021a85e9726ef88151658b9f858fa9",
+      "title": "Toàn cảnh 17h: Lời sau cùng của trùm giang hồ Bình 'Kiểm' | Bí ẩn ông trùm đường dây đánh bạc 3,8 tỉ USD",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-sau-cung-cua-trum-giang-ho-binh-kiem-bi-an-ong-trum-duong-day-danh-bac-38-ti-usd-185250923160449217.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:58:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396308+07:00"
+    },
+    {
       "id": "65f7dfe20db6c13c51f137804ac06278",
       "title": "Bất động sản ven sông: Từ giá trị sống đến giá trị đầu tư",
       "link": "https://tuoitre.vn/bat-dong-san-ven-song-tu-gia-tri-song-den-gia-tri-dau-tu-20250922160633504.htm",
@@ -603,6 +823,296 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T09:56:20.975812+07:00"
     },
     {
+      "id": "0017eab7d0c6923e577aa3b8e7cc3637",
+      "title": "Giá vàng miếng SJC trở lại mức 135 triệu đồng/lượng, thế giới tăng thẳng đứng",
+      "link": "https://thanhnien.vn/gia-vang-mieng-sjc-tro-lai-muc-135-trieu-dong-luong-the-gioi-tang-thang-dung-185250923164037628.htm",
+      "summary": "Chiều 23.9, giá vàng miếng SJC tiếp tục tăng thêm 400.000 đồng mỗi lượng, tổng mức tăng của vàng miếng là 1,4 triệu, lên 135 triệu đồng. Còn vàng thế giới tăng thẳng đứng, tiến gần 3.800 USD/ounce.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:54:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396465+07:00"
+    },
+    {
+      "id": "863106f7e645c4db1b0db42ab1a40141",
+      "title": "Bắt 2 người trong vụ dùng súng tự chế bắn vỡ kính ô tô trên cao tốc",
+      "link": "https://thanhnien.vn/bat-2-nguoi-trong-vu-dung-sung-tu-che-ban-vo-kinh-o-to-tren-cao-toc-185250923160728716.htm",
+      "summary": "Công an Quảng Ninh vừa bắt giữ 2 nghi phạm trong vụ sử dụng súng tự chế bắn bi sắt làm nhiều ô tô bị vỡ kính trên cao tốc Hải Phòng - Quảng Ninh, gây hoang mang cho tài xế và hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:54:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396621+07:00"
+    },
+    {
+      "id": "e4eff4ae51ed04998e9607f33662f4ce",
+      "title": "Độc lạ… ếch nấu ống tre, ếch tomyum",
+      "link": "https://thanhnien.vn/doc-la-ech-nau-ong-tre-ech-tomyum-185250923161228603.htm",
+      "summary": "Không chỉ có cháo ếch quen thuộc, ếch của một nữ chủ nhà hàng Việt còn được biến tấu với rất nhiều món độc lạ: ếch đút lò phô mai, ếch tomyum cay nồng, ếch nấu ống tre...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:50:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396798+07:00"
+    },
+    {
+      "id": "4f4a9d9518a40506480d0e61ddad279c",
+      "title": "MG phát triển xe bán tải mới, tham vọng cạnh tranh Ford Ranger, Toyota Hilux",
+      "link": "https://thanhnien.vn/mg-phat-trien-xe-ban-tai-moi-tham-vong-canh-tranh-ford-ranger-toyota-hilux-185250922205101487.htm",
+      "summary": "Mẫu xe bán tải mới của MG có tên gọi MG U9 được hãng phát triển dựa trên nền tảng Maxus Terron 9, sở hữu phong cách thiết kế mạnh mẽ, hiện đại kết hợp động cơ dầu 2.5 lít do SAIC chế tạo… tham vọng cạnh tranh Ford Ranger, Toyota Hilux.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:48:00+07:00",
+      "fetched": "2025-09-23T17:17:13.396950+07:00"
+    },
+    {
+      "id": "70255c60c23ec3c5a4eba85ac036f11a",
+      "title": "Đề xuất định danh địa chỉ internet tương tự như số nhà",
+      "link": "https://thanhnien.vn/de-xuat-dinh-danh-dia-chi-internet-tuong-tu-nhu-so-nha-185250923160618919.htm",
+      "summary": "Doanh nghiệp cung cấp dịch vụ trên không gian mạng phải định danh địa chỉ internet (địa chỉ IP) của tổ chức, cá nhân sử dụng dịch vụ internet, cung cấp cho lực lượng chuyên trách bảo vệ an ninh mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:47:00+07:00",
+      "fetched": "2025-09-23T17:17:13.397100+07:00"
+    },
+    {
+      "id": "ad19ac7137ce50557e9d3ccfe0a40244",
+      "title": "Taliban đáp trả cứng rắn sau khi ông Trump đòi căn cứ",
+      "link": "https://thanhnien.vn/taliban-dap-tra-cung-ran-sau-khi-ong-trump-doi-can-cu-18525092316363406.htm",
+      "summary": "Taliban đã bác bỏ yêu cầu của Tổng thống Mỹ Donald Trump về việc trao lại căn cứ không quân Bagram cho Washington, 4 năm sau cuộc rút quân của Mỹ khỏi Afghanistan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:46:00+07:00",
+      "fetched": "2025-09-23T17:17:13.397258+07:00"
+    },
+    {
+      "id": "34177483211db44d12fb2e24f665616c",
+      "title": "Cần tuyển 22.000 giáo viên để tiếng Anh thành ngôn ngữ thứ hai",
+      "link": "https://thanhnien.vn/can-tuyen-22000-giao-vien-de-tieng-anh-thanh-ngon-ngu-thu-hai-185250923161553805.htm",
+      "summary": "Bộ GD-ĐT cho biết, để tiếng Anh trở thành ngôn ngữ thứ hai trong trường học, cần bổ sung khoảng 22.000 giáo viên, đồng thời bồi dưỡng ít nhất 200.000 giáo viên có khả năng giảng dạy bằng tiếng Anh đến năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:42:00+07:00",
+      "fetched": "2025-09-23T17:17:13.397410+07:00"
+    },
+    {
+      "id": "725ec33852e6c7dbbd8515e25e3ae7e2",
+      "title": "Acecook Happy Scholarship 2025: Lan tỏa hạnh phúc, chắp cánh ước mơ cho học sinh, sinh viên",
+      "link": "https://thanhnien.vn/acecook-happy-scholarship-2025-lan-toa-hanh-phuc-chap-canh-uoc-mo-cho-hoc-sinh-sinh-vien-185250923153939809.htm",
+      "summary": "Với mong muốn đồng hành cùng sinh viên Việt Nam trên hành trình học tập và phát triển, Công ty Cổ phần Acecook Việt Nam đã tổ chức chương trình học bổng 'Acecook Happy Scholarship 2025', hướng đến trao tặng những phần quà ý nghĩa cho các bạn học sinh, sinh viên có tinh thần vượt khó, nỗ lực vươn lên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:30:00+07:00",
+      "fetched": "2025-09-23T17:17:13.397572+07:00"
+    },
+    {
+      "id": "4bcb2c48e20542e07c44876b126053a1",
+      "title": "Bếp Bên Sườn Đồi",
+      "link": "https://vnexpress.net/bep-ben-suon-doi-4942671.html",
+      "summary": "Nhà sáng tạo nội dung truyền cảm hứng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:23:00+07:00",
+      "fetched": "2025-09-23T17:17:05.170821+07:00"
+    },
+    {
+      "id": "37dbbe64db3b991550ba037af347e626",
+      "title": "Con Cò đây",
+      "link": "https://vnexpress.net/con-co-day-4942648.html",
+      "summary": "Nhà sáng tạo nội dung của năm",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:20:42+07:00",
+      "fetched": "2025-09-23T17:17:06.923003+07:00"
+    },
+    {
+      "id": "b32885e00724f15cbdd70f179be82a99",
+      "title": "Chứng khoán ngắt chuỗi giảm",
+      "link": "https://vnexpress.net/chung-khoan-ngat-chuoi-giam-4942661.html",
+      "summary": "VN-Index hôm nay tăng chưa đến 1 điểm nhưng vừa đủ cắt chuỗi giảm kéo dài 5 phiên liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:19:33+07:00",
+      "fetched": "2025-09-23T17:17:06.923650+07:00"
+    },
+    {
+      "id": "b32885e00724f15cbdd70f179be82a99",
+      "title": "Chứng khoán ngắt chuỗi giảm",
+      "link": "https://vnexpress.net/chung-khoan-ngat-chuoi-giam-4942661.html",
+      "summary": "VN-Index hôm nay tăng chưa đến 1 điểm nhưng vừa đủ cắt chuỗi giảm kéo dài 5 phiên liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T09:19:33+07:00",
+      "fetched": "2025-09-23T17:17:17.901981+07:00"
+    },
+    {
+      "id": "cf16b3242a23221ff354c338f701d682",
+      "title": "Chiến sĩ quả cảm",
+      "link": "https://vnexpress.net/chien-si-qua-cam-4942637.html",
+      "summary": "Chương trình truyền hình truyền cảm hứng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:19:04+07:00",
+      "fetched": "2025-09-23T17:17:08.482374+07:00"
+    },
+    {
+      "id": "dc5897719717ec5883bfa9c7ff5362e0",
+      "title": "Đề xuất hạn chế bán hàng tràn lan trên vỉa hè, lề đường",
+      "link": "https://vnexpress.net/de-xuat-han-che-ban-hang-tran-lan-tren-via-he-le-duong-4942609.html",
+      "summary": "Đại diện Hiệp hội Rau quả Việt Nam đề xuất phát triển các điểm bán tập trung, hạn chế hình thức bán hàng tràn lan trên vỉa hè, lề đường để dễ quản lý, giảm rủi ro cho người tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:17:19+07:00",
+      "fetched": "2025-09-23T17:17:08.482923+07:00"
+    },
+    {
+      "id": "dc5897719717ec5883bfa9c7ff5362e0",
+      "title": "Đề xuất hạn chế bán hàng tràn lan trên vỉa hè, lề đường",
+      "link": "https://vnexpress.net/de-xuat-han-che-ban-hang-tran-lan-tren-via-he-le-duong-4942609.html",
+      "summary": "Đại diện Hiệp hội Rau quả Việt Nam đề xuất phát triển các điểm bán tập trung, hạn chế hình thức bán hàng tràn lan trên vỉa hè, lề đường để dễ quản lý, giảm rủi ro cho người tiêu dùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T09:17:19+07:00",
+      "fetched": "2025-09-23T17:17:17.902163+07:00"
+    },
+    {
+      "id": "59a24c546d9e73d0320cf91390b2e1f6",
+      "title": "Lý do bão Ragasa tăng - giảm cấp nhanh",
+      "link": "https://vnexpress.net/ly-do-bao-ragasa-tang-giam-cap-nhanh-4942542.html",
+      "summary": "Ragasa tăng cấp nhanh do hình thành ở vùng biển rộng, mặt biển 29-30 độ C; giảm cấp nhanh do gặp khối không khí khô từ phía bắc tràn xuống và ma sát với đất liền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:14:56+07:00",
+      "fetched": "2025-09-23T17:17:08.483105+07:00"
+    },
+    {
+      "id": "2c527ddfc518330896c3016622e48097",
+      "title": "Trung Quốc gọi Ragasa là 'Vua Bão'",
+      "link": "https://vnexpress.net/trung-quoc-goi-ragasa-la-vua-bao-4942586.html",
+      "summary": "Cơ quan Khí tượng Trung Quốc gọi Ragasa là \"Vua Bão\", nhận định đây sẽ là cơn bão mạnh nhất đổ bộ nước này trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:12:38+07:00",
+      "fetched": "2025-09-23T17:17:08.483274+07:00"
+    },
+    {
+      "id": "2c527ddfc518330896c3016622e48097",
+      "title": "Trung Quốc gọi Ragasa là 'Vua Bão'",
+      "link": "https://vnexpress.net/trung-quoc-goi-ragasa-la-vua-bao-4942586.html",
+      "summary": "Cơ quan Khí tượng Trung Quốc gọi Ragasa là \"Vua Bão\", nhận định đây sẽ là cơn bão mạnh nhất đổ bộ nước này trong năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T09:12:38+07:00",
+      "fetched": "2025-09-23T17:17:16.065093+07:00"
+    },
+    {
+      "id": "3c4e0f8bec9347f841681fee376c90fc",
+      "title": "Người Việt ở đảo Luzon: ‘Mưa, gió rít mạnh như vòi cao áp xối’",
+      "link": "https://vnexpress.net/nguoi-viet-o-dao-luzon-mua-gio-rit-manh-nhu-voi-cao-ap-xoi-4942687.html",
+      "summary": "Sống ở tỉnh Cagayan, phía bắc đảo Luzon, nơi siêu bão Ragasa quét qua, anh Thạch Cát nói mưa gió rít như vòi cao áp, anh gói hết đồ quý 2-3 lớp, lo thức trắng đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:09:06+07:00",
+      "fetched": "2025-09-23T17:17:08.483435+07:00"
+    },
+    {
+      "id": "41ed373c4bda69e3cccf9aae0ac340b5",
+      "title": "Tít ở trên mây",
+      "link": "https://vnexpress.net/tit-o-tren-may-4942662.html",
+      "summary": "Nhà sáng tạo nội dung được yêu thích nhất",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:04:44+07:00",
+      "fetched": "2025-09-23T17:17:09.825948+07:00"
+    },
+    {
+      "id": "f19f22513b099e7f65687348c963c06d",
+      "title": "Mãi mãi xứng danh bộ đội cụ Hồ",
+      "link": "https://vnexpress.net/mai-mai-xung-danh-bo-doi-cu-ho-4942677.html",
+      "summary": "Ngày 23/9/2025, Tổng Bí thư Tô Lâm có bài viết \"mãi mãi xứng danh bộ đội cụ Hồ\" nhân dịp Đại hội đại biểu Đảng bộ Quân đội lần thứ 12, nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:00:43+07:00",
+      "fetched": "2025-09-23T17:17:09.826491+07:00"
+    },
+    {
+      "id": "a8a5b4dcc537f58b6ac67f44c8d49dbe",
+      "title": "Vợ chồng cùng phẫu thuật chữa vô sinh",
+      "link": "https://vnexpress.net/vo-chong-cung-phau-thuat-chua-vo-sinh-4942639.html",
+      "summary": "Chị Khuyên bị dính buồng tử cung còn chồng giãn tĩnh mạch thừng tinh gây vô sinh, cùng phẫu thuật để thụ tinh trong ống nghiệm có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:00:00+07:00",
+      "fetched": "2025-09-23T17:17:09.826729+07:00"
+    },
+    {
+      "id": "4eefdc72798844624bc04115a1ff9955",
+      "title": "Những điểm mới của sân chơi Vietnam iContent 2025",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-san-choi-vietnam-icontent-2025-4942627.html",
+      "summary": "Vietnam iContent 2025 - sân chơi tôn vinh sáng tạo nội dung số - có nhiều điểm mới, từ trải nghiệm tương tác, talkshow chuyên sâu đến hoạt động gây quỹ cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:00:00+07:00",
+      "fetched": "2025-09-23T17:17:09.826906+07:00"
+    },
+    {
+      "id": "b7316740b33b247f95794f53fdd4426d",
+      "title": "5 bài yoga giúp phụ nữ mãn kinh giảm mỡ bụng",
+      "link": "https://vnexpress.net/5-bai-yoga-giup-phu-nu-man-kinh-giam-mo-bung-4942495.html",
+      "summary": "Phụ nữ tuổi mãn kinh thực hiện tư thế tấm ván, cây cầu, gác chân lên tường giúp săn chắc cơ bụng, giữ dáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T09:00:00+07:00",
+      "fetched": "2025-09-23T17:17:09.827073+07:00"
+    },
+    {
+      "id": "53e0664402e42b69baf7086a6d48242d",
+      "title": "Ứng dụng công nghệ số trong thi đua khen thưởng ngành Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/ung-dung-cong-nghe-so-trong-thi-dua-khen-thuong-nganh-khoa-hoc-va-cong-nghe-4942560.html",
+      "summary": "Công đoàn Khoa học và Công nghệ cho biết sẽ đẩy mạnh ứng dụng công nghệ số để đánh giá, khen thưởng chính xác, kịp thời, minh bạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T08:52:27+07:00",
+      "fetched": "2025-09-23T17:17:09.827233+07:00"
+    },
+    {
+      "id": "0a6719e9ec45f0d7a01ad874b5232993",
+      "title": "Vo gạo nấu cơm: sạch hay mất chất?",
+      "link": "https://vnexpress.net/vo-gao-nau-com-sach-hay-mat-chat-4942657.html",
+      "summary": "Nấu cơm những tưởng đơn giản nhưng chỉ thao tác nhỏ như vo gạo sai cách cũng có thể làm hao hụt chất dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T08:45:26+07:00",
+      "fetched": "2025-09-23T17:17:09.827389+07:00"
+    },
+    {
+      "id": "eb847420a212a8c69269c1c61988de8f",
+      "title": "Trung Quốc khoe tiêm kích tàng hình cất hạ cánh trên tàu sân bay",
+      "link": "https://vnexpress.net/trung-quoc-khoe-tiem-kich-tang-hinh-cat-ha-canh-tren-tau-san-bay-4942518.html",
+      "summary": "Trung Quốc công bố video tiêm kích J-35, J-15T và máy bay cảnh báo sớm KJ-600 thử nghiệm cất hạ cánh trên tàu sân bay Phúc Kiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T08:36:51+07:00",
+      "fetched": "2025-09-23T17:17:16.065284+07:00"
+    },
+    {
+      "id": "a6ef7462fb248cd6b7e7bb203b7f09f4",
+      "title": "Australia đề nghị Indonesia điều tra vụ thi thể công dân không còn tim",
+      "link": "https://vnexpress.net/australia-de-nghi-indonesia-dieu-tra-vu-thi-the-cong-dan-khong-con-tim-4942605.html",
+      "summary": "Giới chức Australia yêu cầu Indonesia giải thích vụ thi thể công dân Byron Haddow không có tim sau khi tử vong ở đảo Bali.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T08:34:03+07:00",
+      "fetched": "2025-09-23T17:17:16.065453+07:00"
+    },
+    {
+      "id": "740ffa5bc122f1870a793685691a475a",
+      "title": "Dembele - từ cậu bé chơi game thâu đêm đến Quả Bóng Vàng",
+      "link": "https://vnexpress.net/dembele-tu-cau-be-choi-game-thau-dem-den-qua-bong-vang-4942600.html",
+      "summary": "Nếu có ai đó nói với CĐV Barca cách đây vài năm rằng Ousmane Dembele sẽ giành Quả Bóng Vàng 2025, họ sẽ bị coi là kẻ ảo tưởng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T08:33:04+07:00",
+      "fetched": "2025-09-23T17:17:23.253413+07:00"
+    },
+    {
       "id": "1174495a3afdd29210fd8112d80348cf",
       "title": "Hàng thủ 'khủng' cao gần 1,9 m: Điểm tựa mới của đội tuyển Việt Nam",
       "link": "https://thanhnien.vn/hang-thu-khung-cao-gan-19-m-diem-tua-moi-cua-doi-tuyen-viet-nam-185250923130633058.htm",
@@ -613,6 +1123,16 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T15:21:38.660921+07:00"
     },
     {
+      "id": "de5e4ae5ffc267a1706f119e73ccb792",
+      "title": "Nvidia sẽ đầu tư 100 tỷ USD vào OpenAI",
+      "link": "https://vnexpress.net/nvidia-se-dau-tu-100-ty-usd-vao-openai-4942501.html",
+      "summary": "Nvidia thông báo kế hoạch đầu tư 100 tỷ USD vào OpenAI theo thỏa thuận xây trung tâm dữ liệu khổng lồ để đào tạo, vận hành mô hình trí tuệ nhân tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T08:17:21+07:00",
+      "fetched": "2025-09-23T17:17:21.518788+07:00"
+    },
+    {
       "id": "ccfda1f2267ae420490985d624e4e472",
       "title": "Người trúng số hơn 240 triệu USD không muốn thay đổi lối sống quá nhiều",
       "link": "https://vnexpress.net/nguoi-trung-so-hon-240-trieu-usd-khong-muon-thay-doi-loi-song-qua-nhieu-4942587.html",
@@ -621,6 +1141,16 @@ window.newsData_2025_09_23 = {
       "category": "Thế giới",
       "published": "2025-09-23T08:16:31+07:00",
       "fetched": "2025-09-23T15:21:41.765667+07:00"
+    },
+    {
+      "id": "5568b9fda79f98a8d1e24be3b4b08aca",
+      "title": "Người trúng giải độc đắc 1,8 tỷ USD vẫn tự giặt quần áo",
+      "link": "https://vnexpress.net/nguoi-trung-giai-doc-dac-1-8-ty-usd-van-tu-giat-quan-ao-4942587.html",
+      "summary": "Người trúng giải độc đắc Powerball 1,8 tỷ USD và thực lĩnh hơn 240 triệu USD cho hay mình không muốn thay đổi lối sống quá nhiều và vẫn tự giặt quần áo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T08:16:31+07:00",
+      "fetched": "2025-09-23T17:17:16.065619+07:00"
     },
     {
       "id": "cd7b6cd1909d71b0c000a334b352ce15",
@@ -801,6 +1331,16 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T08:03:00+07:00",
       "fetched": "2025-09-23T15:21:38.661906+07:00"
+    },
+    {
+      "id": "b0b6da7151b0bb99a18ba269e3929253",
+      "title": "'Quân đội phải làm chủ tác chiến mạng, điện tử, vũ trụ'",
+      "link": "https://vnexpress.net/quan-doi-phai-lam-chu-tac-chien-mang-dien-tu-vu-tru-4942547.html",
+      "summary": "Theo Tổng Bí thư Tô Lâm, quân đội phải đi đầu trong nghiên cứu, ứng dụng khoa học - công nghệ, phát triển tác chiến mạng, điện tử, vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T08:00:02+07:00",
+      "fetched": "2025-09-23T17:17:21.518089+07:00"
     },
     {
       "id": "69e092b7ac8a22d61359f6fff3b151c2",
