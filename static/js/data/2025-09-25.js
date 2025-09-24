@@ -1,7 +1,17 @@
 window.newsData_2025_09_25 = {
   "date": "2025-09-25",
-  "lastUpdated": "2025-09-25T01:21:54.690033+07:00",
+  "lastUpdated": "2025-09-25T03:18:16.514288+07:00",
   "articles": [
+    {
+      "id": "b97266895bacd9d32d5cc2db63e15a70",
+      "title": "Nam ‘Ruồi’ bị loại, Dương Quốc Hoàng gặp thần đồng Joshua Filler",
+      "link": "https://tuoitre.vn/nam-ruoi-bi-loai-duong-quoc-hoang-gap-than-dong-joshua-filler-20250925005145591.htm",
+      "summary": "Lịch thi đấu của Dương Quốc Hoàng là gặp thần đồng người Đức Joshua Filler vào lúc 16h chiều 25-9, trong khi Phạm Phương Nam chính thức chia tay Predator WPA Men’s 10-Ball World 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:18:09.585653+07:00",
+      "fetched": "2025-09-25T03:18:09.585859+07:00"
+    },
     {
       "id": "74dcc9082ece8de4df6befb79b7db16c",
       "title": "Báo cáo kiểm toán một công ty niêm yết bị bác bỏ, cần lưu ý gì chất lượng 'tấm vé thông hành'?",
