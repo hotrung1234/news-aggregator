@@ -1,6 +1,6 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T01:24:01.653130+07:00",
+  "lastUpdated": "2025-09-26T03:18:35.871277+07:00",
   "articles": [
     {
       "id": "37c51e0b1b7956d3e61468e305a264a3",
@@ -151,6 +151,46 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T01:23:53.926481+07:00",
       "fetched": "2025-09-26T01:23:53.926690+07:00"
+    },
+    {
+      "id": "5530837902d5cee3efcfc3d58071b510",
+      "title": "Ông Trump gọi biến đổi khí hậu là 'trò lừa bịp' giữa đại hội đồng Liên Hợp Quốc",
+      "link": "https://vnexpress.net/ong-trump-goi-bien-doi-khi-hau-la-tro-lua-bip-giua-dai-hoi-dong-lien-hop-quoc-4943662.html",
+      "summary": "Ông Trump dành gần một tiếng đồng hồ nói về biến đổi khí hậu, năng lượng tái tạo, gọi đây là “trò lừa bịp lớn nhất toàn cầu” giữa đại hội đồng Liên Hợp Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T20:00:44+07:00",
+      "fetched": "2025-09-26T03:18:25.193695+07:00"
+    },
+    {
+      "id": "5530837902d5cee3efcfc3d58071b510",
+      "title": "Ông Trump gọi biến đổi khí hậu là 'trò lừa bịp' giữa đại hội đồng Liên Hợp Quốc",
+      "link": "https://vnexpress.net/ong-trump-goi-bien-doi-khi-hau-la-tro-lua-bip-giua-dai-hoi-dong-lien-hop-quoc-4943662.html",
+      "summary": "Ông Trump dành gần một tiếng đồng hồ nói về biến đổi khí hậu, năng lượng tái tạo, gọi đây là “trò lừa bịp lớn nhất toàn cầu” giữa đại hội đồng Liên Hợp Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-25T20:00:44+07:00",
+      "fetched": "2025-09-26T03:18:32.746549+07:00"
+    },
+    {
+      "id": "d28d840fb7499ea455f5c0a4a6bdfbf7",
+      "title": "Chủ tịch Xuân Thiện thành cổ đông lớn của một công ty chứng khoán",
+      "link": "https://vnexpress.net/chu-tich-xuan-thien-thanh-co-dong-lon-cua-mot-cong-ty-chung-khoan-4943785.html",
+      "summary": "Ông Nguyễn Văn Thiện, Chủ tịch tập đoàn Xuân Thiện, vừa mua gần 20% vốn của Chứng khoán Xuân Thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T19:54:47+07:00",
+      "fetched": "2025-09-26T03:18:25.193856+07:00"
+    },
+    {
+      "id": "d28d840fb7499ea455f5c0a4a6bdfbf7",
+      "title": "Chủ tịch Xuân Thiện thành cổ đông lớn của một công ty chứng khoán",
+      "link": "https://vnexpress.net/chu-tich-xuan-thien-thanh-co-dong-lon-cua-mot-cong-ty-chung-khoan-4943785.html",
+      "summary": "Ông Nguyễn Văn Thiện, Chủ tịch tập đoàn Xuân Thiện, vừa mua gần 20% vốn của Chứng khoán Xuân Thiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-25T19:54:47+07:00",
+      "fetched": "2025-09-26T03:18:32.746703+07:00"
     },
     {
       "id": "7c6bab22e2277a0b697ba14c3a714a71",
