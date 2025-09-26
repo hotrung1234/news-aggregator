@@ -1,7 +1,17 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T01:21:21.040531+07:00",
+  "lastUpdated": "2025-09-27T03:17:43.520366+07:00",
   "articles": [
+    {
+      "id": "7cb8353e7450b777fcb64953a72e94e4",
+      "title": "Thủ tướng: Chủ động ứng phó bão Bualoi ở mức cao nhất, không để bị động, bất ngờ",
+      "link": "https://tuoitre.vn/thu-tuong-chu-dong-ung-pho-bao-bualoi-o-muc-cao-nhat-khong-de-bi-dong-bat-ngo-20250927012151051.htm",
+      "summary": "Tối 26-9, bão Bualoi đã di chuyển vào biển Đông, trở thành cơn bão số 10. Thủ tướng Phạm Minh Chính ký Công điện yêu cầu các bộ ngành, địa phương tập trung ứng phó với cơn bão này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:17:35.700702+07:00",
+      "fetched": "2025-09-27T03:17:35.700914+07:00"
+    },
     {
       "id": "3b5139184d6658d4a8239617ac90d8ef",
       "title": "Bà Paetongtarn: Ông Thaksin sắp được giám sát đội dọn cống rãnh",
@@ -151,6 +161,36 @@ window.newsData_2025_09_27 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T01:21:13.116448+07:00",
       "fetched": "2025-09-27T01:21:13.116650+07:00"
+    },
+    {
+      "id": "68a6be650f71248f6138fee33f2f5b9d",
+      "title": "Ronaldo giúp Al Nassr thắng ĐKVĐ Saudi League",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-dkvd-saudi-league-4944232.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo đánh đầu ghi bàn, trong trận Al Nassr thắng chủ nhà Al Ittihad 2-0 ở vòng 4 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T19:56:29+07:00",
+      "fetched": "2025-09-27T03:17:26.455549+07:00"
+    },
+    {
+      "id": "98563011342b0827a5a7249ca1ea4753",
+      "title": "Chân sút nội 'im ắng' ở V-League: Xuân Son mới ở đâu, thầy Kim đang tìm",
+      "link": "https://thanhnien.vn/chan-sut-noi-im-ang-o-v-league-xuan-son-moi-o-dau-thay-kim-dang-tim-185250926183829082.htm",
+      "summary": "Bài toán tiền đạo vẫn nan giải với HLV Kim Sang-sik, khi các tiền đạo nội hoàn toàn lép vế trước ngoại binh ở V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T18:57:00+07:00",
+      "fetched": "2025-09-27T03:17:33.758841+07:00"
+    },
+    {
+      "id": "5bfa74c38f6dedbab1f25e4ec07aa3ef",
+      "title": "Toàn cảnh vụ nhập tịch 'lậu' của bóng đá Malaysia, FIFA thay đổi quan điểm thế nào?",
+      "link": "https://thanhnien.vn/toan-canh-vu-nhap-tich-lau-cua-bong-da-malaysia-fifa-thay-doi-quan-diem-the-nao-185250927011349455.htm",
+      "summary": "Trước khi ra án phạt với Liên đoàn Bóng đá Malaysia (FAM), FIFA từng khẳng định những cáo buộc liên quan đến việc FAM dùng giấy tờ giả là vô căn cứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T18:55:00+07:00",
+      "fetched": "2025-09-27T03:17:33.759011+07:00"
     },
     {
       "id": "339800000b59d23137f9a626d6f15138",
@@ -431,6 +471,16 @@ window.newsData_2025_09_27 = {
       "category": "Công nghệ",
       "published": "2025-09-26T17:00:00+07:00",
       "fetched": "2025-09-27T01:21:19.957987+07:00"
+    },
+    {
+      "id": "e1ad5bd8bdfbe3c416018528c04f17da",
+      "title": "Lịch thi đấu V-League hôm nay: HAGL chiến đấu để sinh tồn",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-hom-nay-hagl-chien-dau-de-sinh-ton-185250926225656007.htm",
+      "summary": "Loạt trận V-League diễn ra lúc 18 giờ hôm nay (27.9) hứa hẹn định hình cuộc đua trụ hạng, khi nhiều đội nửa dưới bảng xếp hạng như HAGL, PVF-CAND, Đà Nẵng, Becamex TP.HCM… phải đối đầu nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:00:00+07:00",
+      "fetched": "2025-09-27T03:17:33.760594+07:00"
     },
     {
       "id": "b2c5d78883bfc2db5076c06155f6f910",
