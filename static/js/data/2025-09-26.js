@@ -1,7 +1,157 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T05:13:20.715911+07:00",
+  "lastUpdated": "2025-09-26T08:13:36.219071+07:00",
   "articles": [
+    {
+      "id": "b918f7b12031a6a1e5beb9791e0d1669",
+      "title": "Vắng Yamal, Barca vẫn lội ngược dòng thành công tại La Liga",
+      "link": "https://tuoitre.vn/vang-yamal-barca-van-loi-nguoc-dong-thanh-cong-tai-la-liga-20250926044630559.htm",
+      "summary": "Yamal tiếp tục vắng mặt do chấn thương, khiến Barca gặp nhiều khó khăn. Nhưng họ vẫn lội ngược dòng đánh bại Real Oviedo 3-1 vào rạng sáng 26-9 ở vòng 6 La Liga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.442418+07:00",
+      "fetched": "2025-09-26T08:13:29.442537+07:00"
+    },
+    {
+      "id": "621c227e814b439bed547feb1b8cdb56",
+      "title": "Kỳ thủ Việt Nam bước vào trận chung kết Giải cờ tướng thế giới",
+      "link": "https://tuoitre.vn/ky-thu-viet-nam-buoc-vao-tran-chung-ket-giai-co-tuong-the-gioi-20250926010537929.htm",
+      "summary": "Kỳ thủ Lại Lý Huynh (Việt Nam) đã giành vé vào trận chung kết Giải vô địch cờ tướng thế giới 2025 sau cuộc đua hệ số phụ rất căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.442273+07:00",
+      "fetched": "2025-09-26T08:13:29.442406+07:00"
+    },
+    {
+      "id": "95b5c414602b2199acf25812298893b1",
+      "title": "Cựu cầu thủ Arsenal qua đời ở tuổi 21, sau khi bị chấn thương sọ não trong thi đấu",
+      "link": "https://tuoitre.vn/cuu-cau-thu-arsenal-qua-doi-o-tuoi-21-sau-khi-bi-chan-thuong-so-nao-trong-thi-dau-20250926042527401.htm",
+      "summary": "Cựu tiền đạo Arsenal Billy Vigar đã qua đời ở tuổi 21 sau khi bị chấn thương sọ não nghiêm trọng lúc đang chơi cho CLB Chichester City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.442150+07:00",
+      "fetched": "2025-09-26T08:13:29.442262+07:00"
+    },
+    {
+      "id": "8948b472b1f751be879e32fb26e8ccee",
+      "title": "Ngoại trưởng Mỹ - Nga gặp kín, sẽ có bước ngoặt bất ngờ ở Ukraine?",
+      "link": "https://tuoitre.vn/ngoai-truong-my-nga-gap-kin-se-co-buoc-ngoat-bat-ngo-o-ukraine-20250925224028059.htm",
+      "summary": "Cuộc gặp 50 phút giữa Ngoại trưởng Mỹ Rubio và người đồng cấp Nga Lavrov bên lề LHQ mở ra tín hiệu thay đổi trong xung đột Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.442025+07:00",
+      "fetched": "2025-09-26T08:13:29.442139+07:00"
+    },
+    {
+      "id": "5bc84532fc7305d6a8176b3f170c0279",
+      "title": "Tin tức sáng 26-9: Hà Nội vượt xa TP.HCM về tăng giá nhà; Ngành công an sẽ có mức đóng BHYT mới",
+      "link": "https://tuoitre.vn/tin-tuc-sang-26-9-ha-noi-vuot-xa-tp-hcm-ve-tang-gia-nha-nganh-cong-an-se-co-muc-dong-bhyt-moi-20250925223813068.htm",
+      "summary": "Tin tức đáng chú ý: Hà Nội vượt TP.HCM khá xa về tốc độ tăng giá bất động sản; Vietcombank sắp chia nhiều nghìn tỉ tiền cổ tức...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441889+07:00",
+      "fetched": "2025-09-26T08:13:29.442014+07:00"
+    },
+    {
+      "id": "4a41b993b08c2542f8c133612a0af0bb",
+      "title": "Quảng cáo cờ bạc 'tung hoành' từ MV ca nhạc đến Google Maps",
+      "link": "https://tuoitre.vn/quang-cao-co-bac-tung-hoanh-tu-mv-ca-nhac-den-google-maps-20250925223433436.htm",
+      "summary": "Từ MV ca nhạc đến Google Maps, quảng cáo cờ bạc trái phép 'tung hoành' khắp nơi. Khi nghệ sĩ 'vô tình' xuất hiện cùng logo cờ bạc, trách nhiệm xã hội của họ càng bị đặt dấu hỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441764+07:00",
+      "fetched": "2025-09-26T08:13:29.441877+07:00"
+    },
+    {
+      "id": "30eb51ecb42284f95b15a0f963cc000f",
+      "title": "4h sáng, các giảng viên chở xôi đến trường tặng sinh viên",
+      "link": "https://tuoitre.vn/4h-sang-cac-giang-vien-cho-xoi-den-truong-tang-sinh-vien-20250925192722007.htm",
+      "summary": "4h ngày 24-9, cô Trần Thị Thanh Huệ, giảng viên khoa tâm lý Trường ĐH Khoa học xã hội và Nhân văn (Đại học Quốc gia TP.HCM), đã dậy thật sớm để chuẩn bị chở xôi đến trường phát cho sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441637+07:00",
+      "fetched": "2025-09-26T08:13:29.441752+07:00"
+    },
+    {
+      "id": "08311e56e980659f2f6af3cb26a5b6cc",
+      "title": "Lịch trực tiếp vòng 5 V-League: Thép Xanh Nam Định đấu Công An Hà Nội",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-5-v-league-thep-xanh-nam-dinh-dau-cong-an-ha-noi-20250925152659331.htm",
+      "summary": "Tâm điểm của vòng 5 V-League 2025-2026 là cuộc chạm trán giữa Thép Xanh Nam Định và CLB Công An Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441510+07:00",
+      "fetched": "2025-09-26T08:13:29.441625+07:00"
+    },
+    {
+      "id": "328de299dc57d102236e6bb0b83a3670",
+      "title": "Lịch trực tiếp vòng 2 Giải hạng nhất: Trường Tươi Đồng Nai tìm chiến thắng",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-2-giai-hang-nhat-truong-tuoi-dong-nai-tim-chien-thang-20250925183011163.htm",
+      "summary": "Mọi sự chú ý của vòng 2 Giải bóng đá hạng nhất quốc gia 2025-2026 sẽ đổ dồn về trận đấu giữa CLB Đại học Văn Hiến với Trường Tươi Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441372+07:00",
+      "fetched": "2025-09-26T08:13:29.441498+07:00"
+    },
+    {
+      "id": "ed49ac178d0bd8f85dcf80a26a849f60",
+      "title": "Có thật Bộ trưởng Quốc phòng Mỹ cho rằng phụ nữ không nên có quyền bầu cử?",
+      "link": "https://tuoitre.vn/co-that-bo-truong-quoc-phong-my-cho-rang-phu-nu-khong-nen-co-quyen-bau-cu-20250925115742802.htm",
+      "summary": "Những ngày gần đây, mạng xã hội rộ lên một tin đồn gây tranh cãi liên quan đến Bộ trưởng Quốc phòng Mỹ Pete Hegseth và quan điểm về quyền bầu cử của phụ nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441216+07:00",
+      "fetched": "2025-09-26T08:13:29.441357+07:00"
+    },
+    {
+      "id": "9c389b54ce7f138ac9cb166697a00c05",
+      "title": "Lượng du khách Việt Nam đến Hong Kong tăng ấn tượng năm 2025",
+      "link": "https://tuoitre.vn/luong-du-khach-viet-nam-den-hong-kong-tang-an-tuong-nam-2025-20250925191758572.htm",
+      "summary": "Tổng cục Du lịch Hong Kong (HKTB) cho biết từ tháng 1 đến tháng 7-2025, Hong Kong đã đón hơn 39.000 lượt khách Việt Nam, tăng 46,6% so với cùng kỳ năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.441089+07:00",
+      "fetched": "2025-09-26T08:13:29.441204+07:00"
+    },
+    {
+      "id": "2d519cd7a253c950ba8ebb1805e08a4d",
+      "title": "Tin tức thế giới 26-9: Ông Trump thất vọng về ông Putin; Nga tố EU, NATO lợi dụng Ukraine chống Nga",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-26-9-ong-trump-that-vong-ve-ong-putin-nga-to-eu-nato-loi-dung-ukraine-chong-nga-20250926061951496.htm",
+      "summary": "Ông Trump lại thất vọng với ông Putin, ông Trump khẳng định không cho phép Israel sáp nhập Bờ Tây; Iran tuyên bố sẵn sàng đối phó với mọi kịch bản trừng phạt... là những tin tức thế giới đáng chú ý sáng 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.440959+07:00",
+      "fetched": "2025-09-26T08:13:29.441078+07:00"
+    },
+    {
+      "id": "493deea9ea58b0e6ee13fc8b36fa3ebd",
+      "title": "ICE truy quét người nhập cư khiến công nhân phải nhảy khỏi mái nhà để thoát thân?",
+      "link": "https://tuoitre.vn/ice-truy-quet-nguoi-nhap-cu-khien-cong-nhan-phai-nhay-khoi-mai-nha-de-thoat-than-20250925125937941.htm",
+      "summary": "Giữa lúc chính quyền Trump đẩy mạnh chiến dịch trục xuất, mạng xã hội Mỹ xôn xao trước thông tin đặc vụ ICE bất ngờ đột kích một ngôi nhà ở vùng ngoại ô Illinois, buộc nhóm công nhân đang thi công phải nhảy từ mái nhà xuống để chạy trốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.440826+07:00",
+      "fetched": "2025-09-26T08:13:29.440946+07:00"
+    },
+    {
+      "id": "a69c648b9af20b8cf5950da26d8657ac",
+      "title": "Bão Bualoi sẽ vào Biển Đông đêm nay, dự báo đi nhanh, hướng về miền Trung",
+      "link": "https://tuoitre.vn/bao-bualoi-se-vao-bien-dong-dem-nay-du-bao-di-nhanh-huong-ve-mien-trung-20250926061303433.htm",
+      "summary": "Dự báo khoảng đêm nay 26-9, bão Bualoi sẽ đi vào vùng biển phía Đông khu vực giữa Biển Đông, trở thành cơn bão số 10 năm 2025. Sau khi vào Biển Đông, bão hướng về các tỉnh miền Trung nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.440683+07:00",
+      "fetched": "2025-09-26T08:13:29.440813+07:00"
+    },
+    {
+      "id": "1454f275bb0637acac63df0ea3b15391",
+      "title": "Đại diện Philippines là Nam vương Quốc tế, Đoàn Công Vinh dừng chân ở top 10",
+      "link": "https://tuoitre.vn/dai-dien-philippines-la-nam-vuong-quoc-te-doan-cong-vinh-dung-chan-o-top-10-20250926051302614.htm",
+      "summary": "Vượt qua hơn 40 người mẫu khác, Kirk Bondad đến từ Philippines đoạt danh hiệu Nam vương Quốc tế 2025 - Mister International.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T08:13:29.440451+07:00",
+      "fetched": "2025-09-26T08:13:29.440668+07:00"
+    },
     {
       "id": "37c51e0b1b7956d3e61468e305a264a3",
       "title": "Hưng Yên thông tin về Đại hội đại biểu Đảng bộ tỉnh lần thứ I, nhiệm kỳ 2025-2030",
@@ -153,6 +303,366 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T01:23:53.926690+07:00"
     },
     {
+      "id": "de0097c206d771c0a0adb079bce663a8",
+      "title": "Tử vong vì chủ quan với chó nhà",
+      "link": "https://thanhnien.vn/tu-vong-vi-chu-quan-voi-cho-nha-185250925095300794.htm",
+      "summary": "Đồng Nai đang là 1 trong 5 tỉnh 'top' đầu cả nước về số người chết do bệnh dại. Đáng lo ngại, nhiều trường hợp tử vong xuất phát từ vật nuôi gần gũi ngay trong nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:12:00+07:00",
+      "fetched": "2025-09-26T08:13:28.238200+07:00"
+    },
+    {
+      "id": "90ae6401f82159381025033bf7b1ca90",
+      "title": "Nữ nhân viên ngân hàng muốn làm 'nóc nhà', từ chối đồng nghiệp trên show hẹn hò",
+      "link": "https://thanhnien.vn/nu-nhan-vien-ngan-hang-muon-lam-noc-nha-tu-choi-dong-nghiep-tren-show-hen-ho-185250925231630462.htm",
+      "summary": "Nữ nhân viên ngân hàng 32 tuổi đến 'Bạn muốn hẹn hò' tìm bạn trai, được Quyền Linh mai mối cho nam đồng nghiệp. Dù đàng trai thể hiện sự chân thành và được hai MC hỗ trợ hết lòng, cô gái vẫn quyết từ chối hẹn hò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:11:00+07:00",
+      "fetched": "2025-09-26T08:13:28.238384+07:00"
+    },
+    {
+      "id": "966b83902402e955ed93ee429c604dd9",
+      "title": "Hàn Quốc nổ súng cảnh cáo tàu Triều Tiên",
+      "link": "https://thanhnien.vn/han-quoc-no-sung-canh-cao-tau-trieu-tien-185250926080733337.htm",
+      "summary": "Quân đội Hàn Quốc đã nổ súng cảnh cáo sau khi một tàu thương mại của CHDCND Triều Tiên bị cáo buộc vượt qua ranh giới trên biển giữa hai nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:10:00+07:00",
+      "fetched": "2025-09-26T08:13:28.238543+07:00"
+    },
+    {
+      "id": "169cfbe73e0a828772dcc492332e0bfa",
+      "title": "Apple giải thích về vết trầy trên iPhone 17",
+      "link": "https://vnexpress.net/apple-giai-thich-ve-vet-tray-tren-iphone-17-4943776.html",
+      "summary": "Apple cho rằng vết trầy của iPhone 17 Pro và iPhone Air, được người dùng chụp tại cửa hàng, là do giá đỡ Magsafe bị mòn và dính vào lưng máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:08:56+07:00",
+      "fetched": "2025-09-26T08:13:24.915933+07:00"
+    },
+    {
+      "id": "169cfbe73e0a828772dcc492332e0bfa",
+      "title": "Apple giải thích về vết trầy trên iPhone 17",
+      "link": "https://vnexpress.net/apple-giai-thich-ve-vet-tray-tren-iphone-17-4943776.html",
+      "summary": "Apple cho rằng vết trầy của iPhone 17 Pro và iPhone Air, được người dùng chụp tại cửa hàng, là do giá đỡ Magsafe bị mòn và dính vào lưng máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T01:08:56+07:00",
+      "fetched": "2025-09-26T08:13:34.511021+07:00"
+    },
+    {
+      "id": "f83897f55506c572c63c372ea253ecc3",
+      "title": "Khẩu chiến Nga với NATO và EU",
+      "link": "https://thanhnien.vn/khau-chien-nga-voi-nato-va-eu-185250926074907011.htm",
+      "summary": "Ngoại trưởng Nga Sergei Lavrov cáo buộc Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) và Liên minh châu Âu (EU) đã lợi dụng Ukraine để phát động một 'cuộc chiến thực sự' chống lại Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:07:00+07:00",
+      "fetched": "2025-09-26T08:13:28.238707+07:00"
+    },
+    {
+      "id": "c83af3be0f7b9e85a180cb820acc0515",
+      "title": "Lý do Việt Hương vẫn đi đóng phim dù cuộc sống đủ đầy",
+      "link": "https://thanhnien.vn/ly-do-viet-huong-van-di-dong-phim-du-cuoc-song-du-day-185250926010121387.htm",
+      "summary": "Dù bận rộn với công việc kinh doanh song Việt Hương vẫn sắp xếp để trở lại điện ảnh với vai diễn trong phim 'Cục vàng của ngoại', do Khương Ngọc làm đạo diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:07:00+07:00",
+      "fetched": "2025-09-26T08:13:28.238857+07:00"
+    },
+    {
+      "id": "244ecea4c715a546486a753ebdd441ff",
+      "title": "Nụ cười Võ Thị Thắng ở sân bay Lộc Ninh",
+      "link": "https://thanhnien.vn/nu-cuoi-vo-thi-thang-o-san-bay-loc-ninh-185250924150930255.htm",
+      "summary": "Sao tôi cứ nhớ những giàn hoa giấy phía trước những ngôi nhà nhỏ ở Lộc Ninh, những giàn hoa che mát cho những đứa trẻ chơi tha thẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:04:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239008+07:00"
+    },
+    {
+      "id": "800e40c8adc0274d866ae776823e494e",
+      "title": "Quyết kết hôn cùng tình đầu, người phụ nữ xử lý cao tay khi chồng ngoại tình",
+      "link": "https://thanhnien.vn/quyet-ket-hon-cung-tinh-dau-nguoi-phu-nu-xu-ly-cao-tay-khi-chong-ngoai-tinh-185250926013506999.htm",
+      "summary": "Là khách mời trong chương trình 'Thuận vợ thuận chồng', cặp đôi Tuyết Nhung - Minh Hùng có những chia sẻ về hành trình hôn nhân với những thăng trầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:03:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239155+07:00"
+    },
+    {
+      "id": "f021c577ef5c6753aa25a97b2c52ab7a",
+      "title": "Vận dụng chính sách hỗ trợ có lợi nhất cho người dân",
+      "link": "https://thanhnien.vn/van-dung-chinh-sach-ho-tro-co-loi-nhat-cho-nguoi-dan-185250925225353924.htm",
+      "summary": "Ngày 25.9, Đoàn đại biểu Quốc hội (ĐBQH) TP.HCM tổ chức Hội nghị tiếp xúc cử tri của ĐBQH trước Kỳ họp thứ 10, Quốc hội khóa XV đối với cử tri các phường Bà Rịa, Tam Long, Long Hương (thuộc TP.Bà Rịa, tỉnh Bà Rịa-Vũng Tàu cũ). Tham dự hội nghị có Bí thư Thành ủy TP.HCM Trần Lưu Quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:02:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239303+07:00"
+    },
+    {
+      "id": "85214aa5b5478c687e0b54771c247219",
+      "title": "Cặp rắn hẹn hò trước cửa nhà khiến gia chủ tá hỏa",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-cap-ran-hen-ho-truoc-cua-nha-khien-gia-chu-ta-hoa-4943113.html",
+      "summary": "Ngay trước cửa nhà, một cuộc hẹn lãng mạn bất đắc dĩ của cặp đôi bé Na đã khiến cả gia đình được phen hú vía.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916110+07:00"
+    },
+    {
+      "id": "f6dc599b778fddd8e3684cf365ae2091",
+      "title": "VIB ra mắt dịch vụ khách hàng ưu tiên Privilege Banking",
+      "link": "https://vnexpress.net/vib-ra-mat-dich-vu-khach-hang-uu-tien-privilege-banking-4943810.html",
+      "summary": "VIB giới thiệu Privilege Banking - chương trình dịch vụ khách hàng ưu tiên mang đến ưu đãi tài chính, hỗ trợ vay vốn, bảo hiểm, phong cách sống và tư vấn chuyên biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916279+07:00"
+    },
+    {
+      "id": "12dabfdb37fab9c24a4fb433b6f11c5b",
+      "title": "Biến chứng viêm màng não do zona thần kinh",
+      "link": "https://vnexpress.net/bien-chung-viem-mang-nao-do-zona-than-kinh-4943782.html",
+      "summary": "Ông Thịnh, 61 tuổi, sốt cao liệt một bên mặt, đau đầu, lơ mơ, khó nuốt, bác sĩ phát hiện biến chứng viêm màng não do zona.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916465+07:00"
+    },
+    {
+      "id": "d9af278cec483c49f711692e8300471c",
+      "title": "Suy thận do biến chứng tiểu đường",
+      "link": "https://vnexpress.net/suy-than-do-bien-chung-tieu-duong-4943779.html",
+      "summary": "Ông Bình, 75 tuổi, bệnh tiểu đường hơn 20 năm nhưng không tuân thủ điều trị dẫn đến suy thận giai đoạn cuối phải chạy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916628+07:00"
+    },
+    {
+      "id": "6899c069c01ecbd75e875f3ccfb5c63f",
+      "title": "Xu hướng chọn đồng hồ thông minh của người trẻ",
+      "link": "https://vnexpress.net/xu-huong-chon-dong-ho-thong-minh-cua-nguoi-tre-4943771.html",
+      "summary": "Nhiều người dùng trẻ cho biết muốn dùng đồng hồ vừa có thể theo dõi sức khỏe, hỗ trợ luyện tập, vừa đáp ứng nhu cầu thẩm mỹ, phù hợp nhiều trang phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916790+07:00"
+    },
+    {
+      "id": "5ceb12092be5e7f50db480bc264b4b8e",
+      "title": "CEO TDLand: The Campus 2 tạo trục thương mại mới cho Nghệ An",
+      "link": "https://vnexpress.net/ceo-tdland-the-campus-2-tao-truc-thuong-mai-moi-cho-nghe-an-4943770.html",
+      "summary": "Phân khu The Campus 2 thuộc đô thị Eco Central Park với hai mặt đại lộ kết nối trung tâm Vinh, tạo nên tuyến phố thương mại nhiều loại hình, hút giới đầu tư, theo CEO TDLand.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.916944+07:00"
+    },
+    {
+      "id": "72a9b4d80d09a483db5efc3d34031b5a",
+      "title": "Xóa cận 5 độ kèm loạn thị cho cô gái trẻ",
+      "link": "https://vnexpress.net/xoa-can-5-do-kem-loan-thi-cho-co-gai-tre-4943677.html",
+      "summary": "Du, 25 tuổi, cận từ năm lớp 7 đến nay gần 5 độ kèm loạn thị, được bác sĩ phẫu thuật xóa cận giúp nhìn rõ không cần đeo kính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.917095+07:00"
+    },
+    {
+      "id": "e71c4693068be2ddd5acd91bea0b7cb1",
+      "title": "Hermès, Piaget, Chopard tranh tài tại giải thưởng 'Oscar của ngành đồng hồ'",
+      "link": "https://vnexpress.net/hermes-piaget-chopard-tranh-tai-tai-giai-thuong-oscar-cua-nganh-dong-ho-4942618.html",
+      "summary": "Chopard Swan Lake, Hermès Cut Le temps suspendu hay Piaget Sixtie hình thang góp mặt trong đề cử Grand Prix d’Horlogerie de Genève – giải thưởng được ví như \"Oscar của ngành đồng hồ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.917260+07:00"
+    },
+    {
+      "id": "e2883422210d1b0d18236313422d6dc7",
+      "title": "Lam Hà SG hợp tác phân phối sản phẩm bình sữa Hàn Quốc",
+      "link": "https://vnexpress.net/lam-ha-sg-hop-tac-phan-phoi-san-pham-binh-sua-han-quoc-4942607.html",
+      "summary": "Sự hợp tác giữa Lam Hà SG và Tập đoàn Yuhan-Kimberly giúp đưa sản phẩm quốc tế đến gần hơn với gia đình Việt và mở rộng thị trường cho cả hai bên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.917441+07:00"
+    },
+    {
+      "id": "12d7a3a06072a4bdc7be3b12e99a5bfb",
+      "title": "UAV quân sự đã phát triển ra sao để 'định hình chiến tranh hiện đại'?",
+      "link": "https://thanhnien.vn/uav-quan-su-da-phat-trien-ra-sao-de-dinh-hinh-chien-tranh-hien-dai-185250925174730691.htm",
+      "summary": "Những mẫu máy bay không người lái (UAV) vốn ban đầu không được vũ trang và chỉ dùng để do thám, nay đã trở nên đa dụng và trở thành vũ khí định hình nghệ thuật chiến tranh hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239469+07:00"
+    },
+    {
+      "id": "420c6d578fe72a569b358ff21f918d14",
+      "title": "Cen Bắc Trung Bộ phân phối The Campus 2 tại đại đô thị Eco Central Park",
+      "link": "https://thanhnien.vn/cen-bac-trung-bo-phan-phoi-the-campus-2-tai-dai-do-thi-eco-central-park-185250925170212992.htm",
+      "summary": "Tiếp nối hành trình chinh phục dòng bất động sản cao cấp, Cen Bắc Trung Bộ chính thức phân phối nhà phố, shophouse The Campus 2, biểu tượng của thịnh vượng tại đại đô thị Eco Central Park do nhà sáng lập Ecopark phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239623+07:00"
+    },
+    {
+      "id": "43ee59ce5e59bd1152c7a3c5d3fa674e",
+      "title": "‘Bắc tiến’ - Hành trình ‘dám khác biệt’ của những người trẻ",
+      "link": "https://thanhnien.vn/bac-tien-hanh-trinh-dam-khac-biet-cua-nhung-nguoi-tre-185250925162625238.htm",
+      "summary": "Trong khi ‘Nam tiến’ từ lâu được coi là xu hướng phổ biến nhờ lợi thế về kinh tế, cơ hội việc làm và chất lượng đào tạo, thì những bạn trẻ từ TP.HCM lại chọn ‘Bắc tiến’ để theo học tại Trường Y - Dược, Đại học Phenikaa là một câu chuyện đặc biệt, minh chứng cho sức hút ngày càng lớn của Phenikaa tro...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239769+07:00"
+    },
+    {
+      "id": "73e7581d13aec17c37887fd98111f0fc",
+      "title": "Saigon Co.op tung ưu đãi thiết yếu giúp hộ gia đình tiết kiệm hàng trăm nghìn đồng",
+      "link": "https://thanhnien.vn/saigon-coop-tung-uu-dai-thiet-yeu-giup-ho-gia-dinh-tiet-kiem-hang-tram-nghin-dong-185250925154715708.htm",
+      "summary": "Theo báo cáo của Cục Thống kê (Bộ Tài chính), chỉ số giá tiêu dùng (CPI) 8 tháng đầu năm 2025 tăng 3,25% so với cùng kỳ, trong khi thu nhập khả dụng của nhiều hộ gia đình chỉ tăng nhẹ. Điều này khiến người tiêu dùng thận trọng hơn, ưu tiên hàng thiết yếu, tiết kiệm chi phí nhưng vẫn đảm bảo chất lượ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:28.239919+07:00"
+    },
+    {
+      "id": "a67e987fa835b4d4aaf7b04785f51d31",
+      "title": "Giấu khuyết điểm, tôn dáng chuẩn cùng váy chữ A",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giau-khuyet-diem-ton-dang-chuan-cung-vay-chu-a-185250924141609743.htm",
+      "summary": "Váy chữ A là biểu tượng thời trang gắn liền với sự thanh lịch và tinh tế. Với dáng váy ôm nhẹ phần eo và xòe dần về phía gấu, thiết kế giúp khéo léo tôn đường cong cơ thể, đồng thời che khuyết điểm hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:00:00+07:00",
+      "fetched": "2025-09-26T08:13:28.240063+07:00"
+    },
+    {
+      "id": "02499a879156540770e25f9a3183aeb6",
+      "title": "Công thức trường thọ của bác sĩ U100",
+      "link": "https://vnexpress.net/cong-thuc-truong-tho-cua-bac-si-u100-4943138.html",
+      "summary": "Ở tuổi 96, nghỉ hưu 4 năm, bác sĩ nhãn khoa Ira Eliasoph vẫn lái xe đi thăm bạn bè, vẽ tranh và tham gia một nghiên cứu về sự trường thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:58:53+07:00",
+      "fetched": "2025-09-26T08:13:24.917600+07:00"
+    },
+    {
+      "id": "2307f81d8f26b125df9fcec3c6171426",
+      "title": "Việt Nam là hình mẫu về đổi mới sáng tạo",
+      "link": "https://thanhnien.vn/viet-nam-la-hinh-mau-ve-doi-moi-sang-tao-185250926072322742.htm",
+      "summary": "Trưa 25.9, Thủ tướng Phạm Minh Chính tiếp Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới (WIPO) Daren Tang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:57:00+07:00",
+      "fetched": "2025-09-26T08:13:28.240205+07:00"
+    },
+    {
+      "id": "09f364cf0b17e7751e79652f3c75e600",
+      "title": "Vượt núi tìm dược liệu quý giúp bệnh nhân nghèo",
+      "link": "https://thanhnien.vn/vuot-nui-tim-duoc-lieu-quy-giup-benh-nhan-ngheo-185250925185042357.htm",
+      "summary": "Mỗi mùa mưa đến, vùng Bảy Núi (An Giang) trở thành điểm hẹn của những người săn tìm dược liệu quý của phòng khám từ thiện P.Thới Sơn, An Giang, giúp bệnh nhân nghèo vượt qua bạo bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:46:00+07:00",
+      "fetched": "2025-09-26T08:13:28.240370+07:00"
+    },
+    {
+      "id": "a5aa442b7cf3f9c76829df773303ae57",
+      "title": "Chi tiền cưa chân để được thấp đi",
+      "link": "https://vnexpress.net/chi-tien-cua-chan-de-duoc-thap-di-4943657.html",
+      "summary": "Amber Berrington chi 20.000 USD sang Thổ Nhĩ Kỳ phẫu thuật cắt xương đùi để thấp đi 4 cm vì luôn mặc cảm \"là phụ nữ mà cao 1,73 m\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:25:38+07:00",
+      "fetched": "2025-09-26T08:13:24.917755+07:00"
+    },
+    {
+      "id": "5c8560fb2eb54eaf1f7c7477be1a4676",
+      "title": "Mỹ bất ngờ triệu tập hàng trăm tướng lĩnh dự họp gấp",
+      "link": "https://vnexpress.net/my-bat-ngo-trieu-tap-hang-tram-tuong-linh-du-hop-gap-4943792.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ yêu cầu các sĩ quan chỉ huy, kể cả những người đang ở nước ngoài, đến họp ở bang Virginia nhưng không nêu lý do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:09:14+07:00",
+      "fetched": "2025-09-26T08:13:24.917907+07:00"
+    },
+    {
+      "id": "5c8560fb2eb54eaf1f7c7477be1a4676",
+      "title": "Mỹ bất ngờ triệu tập hàng trăm tướng lĩnh dự họp gấp",
+      "link": "https://vnexpress.net/my-bat-ngo-trieu-tap-hang-tram-tuong-linh-du-hop-gap-4943792.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ yêu cầu các sĩ quan chỉ huy, kể cả những người đang ở nước ngoài, đến họp ở bang Virginia nhưng không nêu lý do.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T00:09:14+07:00",
+      "fetched": "2025-09-26T08:13:30.754931+07:00"
+    },
+    {
+      "id": "0cb0cf2673f93982e13de29becf15e05",
+      "title": "Toyota úp mở về dự án mới, cập nhật từng ngày trên website",
+      "link": "https://vnexpress.net/toyota-up-mo-ve-du-an-moi-cap-nhat-tung-ngay-tren-website-4943155.html",
+      "summary": "Hãng xe Nhật gây chú ý và làm dấy lên những đồn đoán khi lập hẳn website đếm ngược ngày ra mắt dự án mới, có thông báo mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T00:00:00+07:00",
+      "fetched": "2025-09-26T08:13:24.918062+07:00"
+    },
+    {
+      "id": "eacf26bec15a4d522ec91d12ededc6b7",
+      "title": "Ông Trump: Tôi sẽ không cho phép Israel sáp nhập Bờ Tây",
+      "link": "https://vnexpress.net/ong-trump-toi-se-khong-cho-phep-israel-sap-nhap-bo-tay-4943790.html",
+      "summary": "Tổng thống Trump tuyên bố sẽ ngăn Israel sáp nhập Bờ Tây, khi Tel Aviv cân nhắc động thái này để đáp trả loạt nước công nhận Nhà nước Palestine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T23:50:10+07:00",
+      "fetched": "2025-09-26T08:13:24.918257+07:00"
+    },
+    {
+      "id": "eacf26bec15a4d522ec91d12ededc6b7",
+      "title": "Ông Trump: Tôi sẽ không cho phép Israel sáp nhập Bờ Tây",
+      "link": "https://vnexpress.net/ong-trump-toi-se-khong-cho-phep-israel-sap-nhap-bo-tay-4943790.html",
+      "summary": "Tổng thống Trump tuyên bố sẽ ngăn Israel sáp nhập Bờ Tây, khi Tel Aviv cân nhắc động thái này để đáp trả loạt nước công nhận Nhà nước Palestine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T23:50:10+07:00",
+      "fetched": "2025-09-26T08:13:30.755105+07:00"
+    },
+    {
+      "id": "2ca2f30a3c934e6262e8e5aafc2930be",
+      "title": "Người chỉ huy làm sống lại lò phản ứng hạt nhân ‘vỏ Mỹ ruột Nga’",
+      "link": "https://vnexpress.net/nguoi-chi-huy-lam-song-lai-lo-phan-ung-hat-nhan-vo-my-ruot-nga-4943309.html",
+      "summary": "Từ lò hạt nhân do Mỹ xây dựng rồi bỏ lại năm 1975, GS.TS Phạm Duy Hiển cùng đồng nghiệp thành công tái khởi động Lò phản ứng hạt nhân Đà Lạt bằng lõi công nghệ Liên Xô.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-25T23:00:00+07:00",
+      "fetched": "2025-09-26T08:13:34.510677+07:00"
+    },
+    {
+      "id": "905959dec21eb03faa872d4639764267",
+      "title": "Barca áp sát Real ở La Liga",
+      "link": "https://vnexpress.net/barca-ap-sat-real-o-la-liga-4943788.html",
+      "summary": "Bị dẫn 0-1 sau hiệp một, Barca vùng lên ở hiệp hai để thắng ngược Real Oviedo 3-1 ở trận đấu muộn vòng sáu La Liga hôm 25/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T22:42:37+07:00",
+      "fetched": "2025-09-26T08:13:36.213249+07:00"
+    },
+    {
+      "id": "3be83ffccbec0fefbdd79a17ffe8b2e9",
+      "title": "Carragher, Neville tiếp tục công kích Arteta",
+      "link": "https://vnexpress.net/carragher-neville-tiep-tuc-cong-kich-arteta-4943742.html",
+      "summary": "Các cựu danh thủ Jamie Carragher và Gary Neville bác bỏ những lập luận của Mikel Arteta - HLV phủ nhận Arsenal thi đấu thận trọng và ca ngợi David Raya là thủ môn tấn công hay nhất giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T22:20:23+07:00",
+      "fetched": "2025-09-26T08:13:36.213445+07:00"
+    },
+    {
       "id": "4d6ee59c9833cd92e59022f5de951d1a",
       "title": "Chiến sự Ukraine ngày 1.310: Xung đột tăng nhiệt và lời đe dọa 'hầm trú ẩn'",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1310-xung-dot-tang-nhiet-va-loi-de-doa-ham-tru-an-185250925222409132.htm",
@@ -161,6 +671,16 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T22:10:00+07:00",
       "fetched": "2025-09-26T05:13:11.904549+07:00"
+    },
+    {
+      "id": "55fdcb1cb746fb33739bcbeaabb62459",
+      "title": "Alcaraz suýt dính chấn thương nặng ở Tokyo",
+      "link": "https://vnexpress.net/alcaraz-suyt-dinh-chan-thuong-nang-o-tokyo-4943780.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz bị đau ở đầu set một, nhưng vẫn thắng Sebastian Baez 6-4, 6-2 tại vòng một Tokyo Mở rộng hôm 25/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T22:05:24+07:00",
+      "fetched": "2025-09-26T08:13:36.213612+07:00"
     },
     {
       "id": "40ef78830e7cfabf3750f3ad99a28520",
@@ -211,6 +731,16 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T22:00:00+07:00",
       "fetched": "2025-09-26T05:13:11.905329+07:00"
+    },
+    {
+      "id": "5f7878b0243cffbdabf1e9fbe6c142e1",
+      "title": "Nỗi thất vọng của Qatar khi đặt cược vào ô an ninh Mỹ",
+      "link": "https://vnexpress.net/noi-that-vong-cua-qatar-khi-dat-cuoc-vao-o-an-ninh-my-4942873.html",
+      "summary": "Dù đã chi hàng tỷ USD để củng cố quan hệ với Washington, Qatar nhận ra các cam kết an ninh từ Mỹ không thực sự như kỳ vọng, khi thủ đô Doha bị Israel tập kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T22:00:00+07:00",
+      "fetched": "2025-09-26T08:13:30.755269+07:00"
     },
     {
       "id": "7928603e486153fecb1ea9fe0a3ac1ff",
