@@ -1,7 +1,67 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T11:19:22.195909+07:00",
+  "lastUpdated": "2025-09-26T13:24:00.085635+07:00",
   "articles": [
+    {
+      "id": "a8af795bb0eed0e9a5147c2e74af6f63",
+      "title": "Cựu Tổng giám đốc Casumina lãnh 4 năm tù do bán dự án số 9 Nguyễn Khoái gây thiệt hại 18 tỉ đồng",
+      "link": "https://tuoitre.vn/cuu-tong-giam-doc-casumina-lanh-4-nam-tu-do-ban-du-an-so-9-nguyen-khoai-gay-thiet-hai-18-ti-dong-20250926103814062.htm",
+      "summary": "Ông Phạm Hồng Phú (cựu Tổng giám đốc Cao su Miền Nam - Casumina) 4 năm tù về vi phạm quy định về quản lý sử dụng tài sản nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770907+07:00",
+      "fetched": "2025-09-26T13:23:53.771024+07:00"
+    },
+    {
+      "id": "5ff9649448f5771d95b51299423edc13",
+      "title": "Gần 20 học sinh ngộ độc sau ăn sáng, xã đưa xe chở các em đi cấp cứu",
+      "link": "https://tuoitre.vn/gan-20-hoc-sinh-ngo-doc-sau-an-sang-xa-dua-xe-cho-cac-em-di-cap-cuu-20250926102910804.htm",
+      "summary": "Sau bữa ăn sáng tại trường, gần 20 học sinh tại Trường phổ thông dân tộc bán trú tiểu học Kim Thủy (tỉnh Quảng Trị) đã nhập viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770778+07:00",
+      "fetched": "2025-09-26T13:23:53.770896+07:00"
+    },
+    {
+      "id": "3bc7164e96da0d7188d1f14d858b46ef",
+      "title": "Hành trình từ thể thao đến tỉ phú Dubai của Dileep Kumar",
+      "link": "https://tuoitre.vn/hanh-trinh-tu-the-thao-den-ty-phu-dubai-cua-dileep-kumar-20250926105516938.htm",
+      "summary": "Từ một vận động viên với vốn ít ỏi, Dileep Kumar đã dần xây dựng được một đế chế bất động sản lớn tại Các tiểu vương quốc Ả Rập thống nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770620+07:00",
+      "fetched": "2025-09-26T13:23:53.770766+07:00"
+    },
+    {
+      "id": "058be060649f33604690318492eb5d59",
+      "title": "Hãy bảo vệ và đồng hành cùng người yếu thế",
+      "link": "https://tuoitre.vn/hay-bao-ve-va-dong-hanh-cung-nguoi-yeu-the-20250926083637551.htm",
+      "summary": "Câu chuyện người phụ nữ khuyết tật bán rau, thịt bị cướp điện thoại di động, thu hút sự chú ý của dư luận xã hội mấy ngày qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770449+07:00",
+      "fetched": "2025-09-26T13:23:53.770604+07:00"
+    },
+    {
+      "id": "a098c444429c93c0103a083fca30de81",
+      "title": "No other choice của Park Chan Wook dẫn đầu phòng vé Hàn",
+      "link": "https://tuoitre.vn/no-other-choice-cua-park-chan-wook-dan-dau-phong-ve-han-2025092609501283.htm",
+      "summary": "No other choice có khởi đầu ấn tượng, giữ ngôi vương phòng vé Hàn 2 ngày liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770309+07:00",
+      "fetched": "2025-09-26T13:23:53.770437+07:00"
+    },
+    {
+      "id": "98a658bfe6c5275850aec2f8cfb05328",
+      "title": "Thương hiệu - Những bài học bảo vệ uy tín - Kỳ 6: Lululemon biến khủng hoảng thành động lực đổi mới",
+      "link": "https://tuoitre.vn/thuong-hieu-nhung-bai-hoc-bao-ve-uy-tin-ky-6-lululemon-bien-khung-hoang-thanh-dong-luc-doi-moi-20250926093455288.htm",
+      "summary": "Trong thời đại thông tin lan truyền với tốc độ chóng mặt, lỡ lời một câu cũng đủ lời ong tiếng ve lan truyền trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:23:53.770090+07:00",
+      "fetched": "2025-09-26T13:23:53.770294+07:00"
+    },
     {
       "id": "c01b43566bf977a541a0f54c38c3f1ff",
       "title": "Khán giả vương vấn 'Mưa đỏ', dàn diễn viên cũng 'lụy' không kém",
@@ -451,6 +511,386 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T08:13:29.440451+07:00",
       "fetched": "2025-09-26T08:13:29.440668+07:00"
+    },
+    {
+      "id": "ace9250262ddb35797f569aff9e49a71",
+      "title": "Từ phim 'Mưa đỏ': Yêu cầu nhà văn chép như nhà lịch sử là nhầm lẫn",
+      "link": "https://thanhnien.vn/tu-phim-mua-do-yeu-cau-nha-van-chep-nhu-nha-lich-su-la-nham-lan-185250926125937415.htm",
+      "summary": "Hội thảo tổng kết văn học Việt Nam sau năm 1975 do Hội Nhà văn Việt Nam ghi nhận nhiều ý kiến của các nhà thơ, nhà văn, nhà lý luận phê bình… xung quanh bộ phim 'Mưa đỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:21:00+07:00",
+      "fetched": "2025-09-26T13:23:52.916898+07:00"
+    },
+    {
+      "id": "52cffe6e0f45b1de95556a4249f9ba25",
+      "title": "NATO xem vụ UAV ở Đan Mạch là 'rất nghiêm trọng', Nga tố 'dàn dựng'",
+      "link": "https://thanhnien.vn/nato-xem-vu-uav-o-dan-mach-la-rat-nghiem-trong-nga-to-dan-dung-185250926123437401.htm",
+      "summary": "Tổng thư ký NATO Mark Rutte đã lên tiếng về vụ việc nhiều máy bay không người lái (UAV) đã khiến các sân bay Đan Mạch phải đóng cửa, trong khi Nga bác bỏ mọi cáo buộc liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:12:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917065+07:00"
+    },
+    {
+      "id": "97d85959d1c09ae8b713c375af13ce6c",
+      "title": "'Bách niên hỷ sự' tái hiện phong tục cưới hỏi của người Việt 100 năm qua",
+      "link": "https://thanhnien.vn/bach-nien-hy-su-tai-hien-phong-tuc-cuoi-hoi-cua-nguoi-viet-100-nam-qua-185250926121619565.htm",
+      "summary": "Triển lãm 'Bách niên hỷ sự' đưa công chúng vào không gian với những nghi thức cưới hỏi truyền thống của người Việt được tái hiện sinh động từ lễ hỏi, nghi thức rước dâu đến lễ cưới và tiệc hỷ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:09:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917228+07:00"
+    },
+    {
+      "id": "fc08c4f2a5efe2b6a1740d5917dd34ae",
+      "title": "Hai cựu giám đốc PC Bình Thuận lĩnh án tù do nhận hối lộ",
+      "link": "https://thanhnien.vn/hai-cuu-giam-doc-pc-binh-thuan-linh-an-tu-do-nhan-hoi-lo-185250926114436997.htm",
+      "summary": "Sáng nay (26.9), phiên tòa sơ thẩm xét xử vụ án kinh tế - tham nhũng và hối lộ liên quan đến Tập đoàn Tuấn Ân và các cựu lãnh đạo Công ty Điện lực Bình Thuận (PC Bình Thuận) đã tuyên án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:06:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917383+07:00"
+    },
+    {
+      "id": "ca7dd84e81c902b76111d57f5187712c",
+      "title": "Giải cứu người đàn ông khóa kín phòng với 3 bình gas đã mở van",
+      "link": "https://thanhnien.vn/giai-cuu-nguoi-dan-ong-khoa-kin-phong-voi-3-binh-gas-da-mo-van-185250926121648578.htm",
+      "summary": "Một người đàn ông ở Nghệ An mang 3 bình gas vào phòng ngủ, chốt cửa rồi mở van bình gas với ý định tự tử được lực lượng cảnh sát giải cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:05:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917534+07:00"
+    },
+    {
+      "id": "f0c3b387e99e93f523352fd7a87173c9",
+      "title": "TP.HCM: Cháy nhà lúc sáng sớm ở phường Tân Bình, 3 người kịp thoát thân",
+      "link": "https://thanhnien.vn/tphcm-chay-nha-luc-sang-som-o-phuong-tan-binh-3-nguoi-kip-thoat-than-185250926122231255.htm",
+      "summary": "Một vụ cháy nhà dân vừa xảy ra sáng sớm nay ở phường Tân Bình (TP.HCM), 3 người đã kịp chạy ra ngoài thoát thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:02:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917707+07:00"
+    },
+    {
+      "id": "11477446d44d80e5678f3637dcddbeb2",
+      "title": "Những bộ cánh tối giản đẳng cấp của các nàng công sở",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-canh-toi-gian-dang-cap-cua-cac-nang-cong-so-185250926020533071.htm",
+      "summary": "Sau nhiều thập kỷ thịnh hành, phong cách thời trang tối giản tiếp tục chứng minh sức sống bền bỉ khi bước sang một giai đoạn mới: minimalism 2.0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T06:00:00+07:00",
+      "fetched": "2025-09-26T13:23:52.917858+07:00"
+    },
+    {
+      "id": "364a1cc426b3bfc8d5d9002ff0ea439f",
+      "title": "UOB: Thương mại xuyên biên giới tạo động lực cho doanh nghiệp Việt",
+      "link": "https://vnexpress.net/uob-thuong-mai-xuyen-bien-gioi-tao-dong-luc-cho-doanh-nghiep-viet-4943913.html",
+      "summary": "Dòng vốn FDI đổ vào ASEAN kèm theo sự dịch chuyển chuỗi cung ứng, phát triển mạnh của thương mại điện tử, là những động lực thúc đẩy tăng trưởng cho doanh nghiệp Việt, theo chuyên gia UOB.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T06:00:00+07:00",
+      "fetched": "2025-09-26T13:23:56.791439+07:00"
+    },
+    {
+      "id": "109537e9af2e1451636b1c965c3ba6a3",
+      "title": "NSƯT Võ Minh Lâm tiết lộ lý do chưa xin lên NSND",
+      "link": "https://thanhnien.vn/nsut-vo-minh-lam-tiet-lo-ly-do-chua-xin-len-nsnd-185250925235251037.htm",
+      "summary": "Ngồi 'ghế nóng' chương trình 'Chuông vàng vọng cổ 2025', NSƯT Võ Minh Lâm xem đây là cơ hội để truyền đạt kinh nghiệm và tiếp thêm lửa nghề cho những bạn trẻ yêu thích nghệ thuật cải lương. Chia sẻ với chúng tôi, nam nghệ sĩ cho biết, sau khi được phong tặng danh hiệu NSƯT, anh chưa đặt nặng mục tiê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:56:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918009+07:00"
+    },
+    {
+      "id": "19e235715d3568397386a79e49b5f853",
+      "title": "Messi lập tiếp kỷ lục không tưởng với bóng đá Mỹ, Busquets chính thức giải nghệ",
+      "link": "https://thanhnien.vn/messi-lap-tiep-ky-luc-khong-tuong-voi-bong-da-my-busquets-chinh-thuc-giai-nghe-185250926122405365.htm",
+      "summary": "Theo báo chí Mỹ, Messi chắc chắn sẽ trở thành cầu thủ đầu tiên trong lịch sử MLS có hai mùa liên tiếp đoạt danh hiệu cầu thủ xuất sắc nhất, cùng lúc Sergio Busquets chính thức công bố giải nghệ vào cuối mùa giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:43:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918156+07:00"
+    },
+    {
+      "id": "9380966c46fec13d223abf2c76960018",
+      "title": "SJC đề nghị cựu Tổng giám đốc hoàn trả hơn 95 lượng vàng và 108 tỉ đồng",
+      "link": "https://thanhnien.vn/sjc-de-nghi-cuu-tong-giam-doc-hoan-tra-hon-95-luong-vang-va-108-ti-dong-185250926120257971.htm",
+      "summary": "Tại tòa, đại diện Công ty SJC đề nghị HĐXX tuyên buộc bị cáo Lê Thúy Hằng (cựu Tổng giám đốc SJC) và các bị cáo hoàn trả hơn 95 lượng vàng đã nâng khống chiếm đoạt, hơn 108 tỉ đồng mà các bị cáo đã gây thiệt hại cho SJC",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:43:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918317+07:00"
+    },
+    {
+      "id": "741d84569dd5a7b7c7f1037834b5e50d",
+      "title": "Đề nghị Trung ương Đảng kỷ luật ông Đỗ Trọng Hưng",
+      "link": "https://thanhnien.vn/de-nghi-trung-uong-dang-ky-luat-ong-do-trong-hung-185250926122749391.htm",
+      "summary": "Bộ Chính trị đề nghị Trung ương Đảng kỷ luật ông Đỗ Trọng Hưng, Phó trưởng ban Tổ chức Trung ương, do các vi phạm nghiêm trọng trong thời gian giữ chức vụ Bí thư Tỉnh ủy Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:40:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918463+07:00"
+    },
+    {
+      "id": "8c90687361c2a3c1df531b52248e2499",
+      "title": "Quảng Trị: 25 học sinh nhập viện sau bữa ăn sáng ở trường",
+      "link": "https://thanhnien.vn/quang-tri-25-hoc-sinh-nhap-vien-sau-bua-an-sang-o-truong-18525092612092996.htm",
+      "summary": "Sau bữa ăn sáng tại trường, 25 học sinh tại xã Kim Ngân (Quảng Trị) có triệu chứng đau bụng, phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:39:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918635+07:00"
+    },
+    {
+      "id": "c6580c8fbeb53af57d040080183de87d",
+      "title": "Khương Ngọc tiết lộ lý do không mời tiếp Ngọc Trinh đóng phim",
+      "link": "https://thanhnien.vn/khuong-ngoc-tiet-lo-ly-do-khong-moi-tiep-ngoc-trinh-dong-phim-185250926113951208.htm",
+      "summary": "Sau thành công của bộ phim Chị dâu, đạo diễn Khương Ngọc tiếp tục giới thiệu đến khán giả dự án điện ảnh mới Cục vàng của ngoại với nhiều gương mặt quen thuộc, tuy nhiên lại không có 'nữ hoàng nội y' Ngọc Trinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:39:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918791+07:00"
+    },
+    {
+      "id": "ab9bc63bc1a0bc8372e8df13c4397ce5",
+      "title": "Thành ủy TP.HCM đưa nhiều cán bộ thành phố về Đảng ủy phường, xã",
+      "link": "https://thanhnien.vn/thanh-uy-tphcm-dua-nhieu-can-bo-thanh-pho-ve-dang-uy-phuong-xa-185250926112847675.htm",
+      "summary": "Ban Thường vụ Thành ủy TP.HCM vừa chỉ định nhiều cán bộ thành phố về nhận nhiệm vụ tại Đảng ủy phường, xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:37:00+07:00",
+      "fetched": "2025-09-26T13:23:52.918942+07:00"
+    },
+    {
+      "id": "9acbe5753e0456302df1579642fe7cf9",
+      "title": "Uống thuốc bổ não có hết rối loạn tiền đình?",
+      "link": "https://vnexpress.net/uong-thuoc-bo-nao-co-het-roi-loan-tien-dinh-4943950.html",
+      "summary": "Tôi bị rối loạn tiền đình ngoại biên. Uống thuốc bổ não có khỏi bệnh này được không? (Việt Đình, 60 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:30:00+07:00",
+      "fetched": "2025-09-26T13:23:44.807232+07:00"
+    },
+    {
+      "id": "09585236884a41c9a715dd711623b6bd",
+      "title": "Cựu Tổng thống Pháp Sarkozy lãnh án tù trong vụ án Libya",
+      "link": "https://thanhnien.vn/cuu-tong-thong-phap-sarkozy-lanh-an-tu-trong-vu-an-libya-185250926112852434.htm",
+      "summary": "Cựu Tổng thống Pháp Nicolas Sarkozy bị tòa án Paris kết án 5 năm tù vì tội âm mưu phạm tội liên quan đến nguồn quỹ vận động tranh cử từ Libya năm 2007.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:30:00+07:00",
+      "fetched": "2025-09-26T13:23:52.919092+07:00"
+    },
+    {
+      "id": "c633c0a28dad620bf8dad63f8d7ecf60",
+      "title": "Vợ nặng lời vì tôi không cho anh vợ 'nợ như chúa chổm' vay thêm 200 triệu",
+      "link": "https://vnexpress.net/vay-tien-vo-nang-loi-vi-toi-khong-cho-anh-vo-no-nhu-chua-chom-vay-them-200-trieu-4943843.html",
+      "summary": "Tôi không muốn cho mượn, vì chục triệu còn không có trả, rồi vẫn ăn xài sang, nợ như chúa chổm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:22:31+07:00",
+      "fetched": "2025-09-26T13:23:44.807410+07:00"
+    },
+    {
+      "id": "2bee9b5b92cde2b0cb4db73b618eacd1",
+      "title": "Máy bay lần đầu tiếp cận đường băng Long Thành nhìn từ khoang lái",
+      "link": "https://vnexpress.net/may-bay-lan-dau-tiep-can-duong-bang-long-thanh-nhin-tu-khoang-lai-4943910.html",
+      "summary": "Sáng 26/9, máy bay Beechcraft B300 rời Tân Sơn Nhất, thực hiện nhiều vòng bay trước khi tiếp cận xuống đường băng số 1 của sân bay Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:22:15+07:00",
+      "fetched": "2025-09-26T13:23:44.807607+07:00"
+    },
+    {
+      "id": "a91155f58103b8370d57ce094fe5191b",
+      "title": "Bị công an phạt vì lái xe 'tạo sóng' gây vỡ kính nhiều cửa hàng",
+      "link": "https://vnexpress.net/vuong-lao-ly-vi-lai-xe-sang-dao-pho-giua-bao-4943994.html",
+      "summary": "Nam tài xế 64 tuổi lái xe địa hình qua lại nhiều lần trên đoạn đường ngập vì mưa bão, tạo sóng nước làm vỡ kính của nhiều cửa hàng xung quanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:21:51+07:00",
+      "fetched": "2025-09-26T13:23:44.807799+07:00"
+    },
+    {
+      "id": "0216bfa82234d0d2187032c314166866",
+      "title": "Đức Phúc: 'Tôi ngỡ đang mơ'",
+      "link": "https://vnexpress.net/duc-phuc-toi-ngo-dang-mo-4943934.html",
+      "summary": "Đức Phúc cho biết khi được mời thi Intervision ở Nga, chỉ đặt mục tiêu quảng bá nét văn hóa Việt qua âm nhạc, không nghĩ chiến thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:19:26+07:00",
+      "fetched": "2025-09-26T13:23:44.807957+07:00"
+    },
+    {
+      "id": "d672601c4bbb10a6cb7101a970bc7dd2",
+      "title": "'Nở rộ' nhiều thủ đoạn lừa đảo mạo danh ngân hàng",
+      "link": "https://vnexpress.net/no-ro-nhieu-thu-doan-lua-dao-mao-danh-ngan-hang-4943915.html",
+      "summary": "Giả mạo nhà băng hay Trung tâm Tín dụng CIC nhắn tin, gửi email có đường link chứa mã độc nhằm chiếm quyền sử dụng tài khoản ngân hàng đang là thủ đoạn phổ biến nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:15:57+07:00",
+      "fetched": "2025-09-26T13:23:44.808115+07:00"
+    },
+    {
+      "id": "8508f4cf4556a0aa2795bd3efbe39b0e",
+      "title": "10 kiểu mốt thịnh hành Thu Đông 2025",
+      "link": "https://vnexpress.net/10-kieu-mot-thinh-hanh-thu-dong-2025-4928748.html",
+      "summary": "Bộ đồ nỉ, áo polo len, áo khoác cao cổ nằm trong nhóm xu hướng được giới thời trang lăng xê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:03:56+07:00",
+      "fetched": "2025-09-26T13:23:44.808276+07:00"
+    },
+    {
+      "id": "1b75353391d8b5f0c1aeb7c2c355c0c5",
+      "title": "Hệ sinh thái tiện ích sống - giải trí đa thế hệ tại Sun Urban City",
+      "link": "https://vnexpress.net/he-sinh-thai-tien-ich-song-giai-tri-da-the-he-tai-sun-urban-city-4943916.html",
+      "summary": "Đô thị nghỉ dưỡng Sun Urban City 420 ha đang đi vào vận hành từng phần với hệ sinh thái tiện ích đồng bộ và hạ tầng vùng ngày càng hoàn thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:00:00+07:00",
+      "fetched": "2025-09-26T13:23:44.808437+07:00"
+    },
+    {
+      "id": "95cddb8f7bc73d66d8697c38c49ea1ef",
+      "title": "Thai nhi thiếu oxy do dây rốn thắt nút",
+      "link": "https://vnexpress.net/thai-nhi-thieu-oxy-do-day-ron-that-nut-4943895.html",
+      "summary": "Thai 37 tuần tuổi bị dây rốn thắt nút gây thiếu oxy dẫn đến suy thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:00:00+07:00",
+      "fetched": "2025-09-26T13:23:44.808617+07:00"
+    },
+    {
+      "id": "cf32a1409b612743d216d647d1b29d59",
+      "title": "WinCommerce đặt mục tiêu doanh thu quý III vượt 10.000 tỷ",
+      "link": "https://vnexpress.net/wincommerce-dat-muc-tieu-doanh-thu-quy-iii-vuot-10-000-ty-4943834.html",
+      "summary": "WinCommerce (WCM) kỳ vọng doanh thu quý III/2025 vượt 10.000 tỷ đồng - mức cao nhất từ trước đến nay, dựa trên sức mua nội địa tăng, xu hướng bán lẻ hiện đại và đà tăng trưởng qua 8 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:00:00+07:00",
+      "fetched": "2025-09-26T13:23:44.808775+07:00"
+    },
+    {
+      "id": "9034a8695013360ec8a9380d97ccebc6",
+      "title": "Vietmap phân phối hai dòng màn hình ôtô Teyes mới",
+      "link": "https://vnexpress.net/vietmap-phan-phoi-hai-dong-man-hinh-oto-teyes-moi-4943470.html",
+      "summary": "Màn hình CC3L Lite và CC3L 360 được Teyes thiết kế, sản xuất dựa trên đề xuất từ Vietmap, hướng đến thói quen và nhu cầu sử dụng của người Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T05:00:00+07:00",
+      "fetched": "2025-09-26T13:23:44.808940+07:00"
+    },
+    {
+      "id": "cf32a1409b612743d216d647d1b29d59",
+      "title": "WinCommerce đặt mục tiêu doanh thu quý III vượt 10.000 tỷ",
+      "link": "https://vnexpress.net/wincommerce-dat-muc-tieu-doanh-thu-quy-iii-vuot-10-000-ty-4943834.html",
+      "summary": "WinCommerce (WCM) kỳ vọng doanh thu quý III/2025 vượt 10.000 tỷ đồng - mức cao nhất từ trước đến nay, dựa trên sức mua nội địa tăng, xu hướng bán lẻ hiện đại và đà tăng trưởng qua 8 tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T05:00:00+07:00",
+      "fetched": "2025-09-26T13:23:56.791615+07:00"
+    },
+    {
+      "id": "f2217a4f1cb228ae7e0b53e98f71d984",
+      "title": "Hoàng Anh Gia Lai phát hành 210 triệu cổ phiếu để hoán đổi nợ",
+      "link": "https://vnexpress.net/hoang-anh-gia-lai-phat-hanh-210-trieu-co-phieu-de-hoan-doi-no-4943963.html",
+      "summary": "Hoàng Anh Gia Lai phát hành 210 triệu cổ phiếu HAG để hoán đổi hơn 2.500 tỷ đồng nợ, trong bối cảnh lợi nhuận nửa đầu năm tăng mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T04:53:29+07:00",
+      "fetched": "2025-09-26T13:23:44.809093+07:00"
+    },
+    {
+      "id": "f2217a4f1cb228ae7e0b53e98f71d984",
+      "title": "Hoàng Anh Gia Lai phát hành 210 triệu cổ phiếu để hoán đổi nợ",
+      "link": "https://vnexpress.net/hoang-anh-gia-lai-phat-hanh-210-trieu-co-phieu-de-hoan-doi-no-4943963.html",
+      "summary": "Hoàng Anh Gia Lai phát hành 210 triệu cổ phiếu HAG để hoán đổi hơn 2.500 tỷ đồng nợ, trong bối cảnh lợi nhuận nửa đầu năm tăng mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T04:53:29+07:00",
+      "fetched": "2025-09-26T13:23:56.790965+07:00"
+    },
+    {
+      "id": "c660db037625b5e9a97230b82942d0f3",
+      "title": "Lalamove tổ chức Trung thu cho gia đình đối tác tài xế",
+      "link": "https://vnexpress.net/lalamove-to-chuc-trung-thu-cho-gia-dinh-doi-tac-tai-xe-4943332.html",
+      "summary": "Lalamove tổ chức chương trình \"Vui hội Trung thu - cùng Lalamove vui tết đoàn viên\" gồm nhiều hoạt động giao lưu, vui chơi, đổi quà... dành cho hơn 30 gia đình đối tác tài xế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T04:45:00+07:00",
+      "fetched": "2025-09-26T13:23:44.809253+07:00"
+    },
+    {
+      "id": "2d42a3d2fb33878c26195acca5778444",
+      "title": "AI mã nguồn mở - đòn bẩy phát triển bền vững cho Việt Nam",
+      "link": "https://vnexpress.net/ai-ma-nguon-mo-don-bay-phat-trien-ben-vung-cho-viet-nam-4943886.html",
+      "summary": "AI mã nguồn mở ngoài mở rộng cơ hội tiếp cận công nghệ còn tạo điều kiện để Việt Nam tăng trưởng kinh tế, cải tiến dịch vụ công, quảng bá văn hóa chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T04:40:00+07:00",
+      "fetched": "2025-09-26T13:23:44.809410+07:00"
+    },
+    {
+      "id": "2d42a3d2fb33878c26195acca5778444",
+      "title": "AI mã nguồn mở - đòn bẩy phát triển bền vững cho Việt Nam",
+      "link": "https://vnexpress.net/ai-ma-nguon-mo-don-bay-phat-trien-ben-vung-cho-viet-nam-4943886.html",
+      "summary": "AI mã nguồn mở ngoài mở rộng cơ hội tiếp cận công nghệ còn tạo điều kiện để Việt Nam tăng trưởng kinh tế, cải tiến dịch vụ công, quảng bá văn hóa chủ động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T04:40:00+07:00",
+      "fetched": "2025-09-26T13:23:58.787453+07:00"
+    },
+    {
+      "id": "7f32b63800038666eef7be858c6ca587",
+      "title": "Cựu tổng thống Hàn Quốc lần đầu xuất hiện từ khi bị bắt",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-lan-dau-xuat-hien-tu-khi-bi-bat-4943919.html",
+      "summary": "Cựu tổng thống Hàn Yoon Suk-yeol lộ rõ vẻ tiều tụy khi ra tòa dự phiên điều trần liên quan vụ thiết quân luật hồi năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T04:38:17+07:00",
+      "fetched": "2025-09-26T13:23:44.809580+07:00"
+    },
+    {
+      "id": "7f32b63800038666eef7be858c6ca587",
+      "title": "Cựu tổng thống Hàn Quốc lần đầu xuất hiện từ khi bị bắt",
+      "link": "https://vnexpress.net/cuu-tong-thong-han-quoc-lan-dau-xuat-hien-tu-khi-bi-bat-4943919.html",
+      "summary": "Cựu tổng thống Hàn Yoon Suk-yeol lộ rõ vẻ tiều tụy khi ra tòa dự phiên điều trần liên quan vụ thiết quân luật hồi năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T04:38:17+07:00",
+      "fetched": "2025-09-26T13:23:55.461982+07:00"
+    },
+    {
+      "id": "93c79fba0ad887e225d4d526d9a5bf6c",
+      "title": "Ai 'giúp' Lại Lý Huynh vào chung kết cờ tướng thế giới?",
+      "link": "https://vnexpress.net/ai-giup-lai-ly-huynh-vao-chung-ket-co-tuong-the-gioi-4943848.html",
+      "summary": "Bằng điểm hai kỳ thủ chủ nhà, Lại Lý Huynh vẫn giành một trong hai suất chung kết cờ tướng thế giới 2025, nhờ kết quả của đối thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T04:28:39+07:00",
+      "fetched": "2025-09-26T13:24:00.076881+07:00"
+    },
+    {
+      "id": "4a298475f79dfb3f79513108c77eee54",
+      "title": "Ông Trump sẽ không gọi Nga là 'hổ giấy' nữa",
+      "link": "https://vnexpress.net/ong-trump-se-khong-goi-nga-la-ho-giay-nua-4943941.html",
+      "summary": "Tổng thống Trump không muốn tiếp tục ví von Nga là \"hổ giấy\", song vẫn cho rằng Moskva đang kéo dài xung đột vô ích ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T04:28:27+07:00",
+      "fetched": "2025-09-26T13:23:55.462155+07:00"
+    },
+    {
+      "id": "1c127ec68f1c5d22f6b6ea380add06f2",
+      "title": "VĐV Ba Lan lập kỳ tích trượt tuyết tại đỉnh Everest",
+      "link": "https://vnexpress.net/vdv-ba-lan-lap-ky-tich-truot-tuyet-tai-dinh-everest-4943939.html",
+      "summary": "Andrzej Bargiel, VĐV leo núi và trượt tuyết người Ba Lan, trở thành người đầu tiên leo lên đỉnh Everest (8.849m) rồi trượt tuyết xuống tận Trại Căn cứ mà không sử dụng oxy bổ sung.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T04:17:29+07:00",
+      "fetched": "2025-09-26T13:24:00.077056+07:00"
     },
     {
       "id": "8e167c94f395169163b14a19d03bebeb",
