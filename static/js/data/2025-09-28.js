@@ -1,7 +1,47 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T01:20:23.671517+07:00",
+  "lastUpdated": "2025-09-28T03:16:11.240344+07:00",
   "articles": [
+    {
+      "id": "37772ffab796bb0d56505d830c63291e",
+      "title": "'Ông vua phút cuối' Liverpool 'nếm mùi' phút bù giờ trước Crystal Palace",
+      "link": "https://tuoitre.vn/ong-vua-phut-cuoi-liverpool-nem-mui-phut-bu-gio-truoc-crystal-palace-20250927233410782.htm",
+      "summary": "Liverpool bất ngờ nhận thất bại 1-2 trước Crystal Palace ở vòng 6 Ngoại hạng Anh (Premier League) tối 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:16:02.620177+07:00",
+      "fetched": "2025-09-28T03:16:02.620294+07:00"
+    },
+    {
+      "id": "9683dcf924ec46c30664ebd3e172779d",
+      "title": "Cầu thủ Pháp lập kỷ lục đáng quên trong lịch sử Premier League",
+      "link": "https://tuoitre.vn/cau-thu-phap-lap-ky-luc-dang-quen-trong-lich-su-premier-league-20250928000957801.htm",
+      "summary": "Trung vệ người Pháp Maxime Esteve (Burnley) đi vào lịch sử Giải ngoại hạng Anh (Premier League) theo một cách không thể nào đáng quên hơn: lập cú đúp... phản lưới nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:16:02.620045+07:00",
+      "fetched": "2025-09-28T03:16:02.620165+07:00"
+    },
+    {
+      "id": "b0b47d36faf02fa9c3a3d3668c164b96",
+      "title": "Nga cứng rắn cảnh báo NATO và EU trước Liên hợp quốc",
+      "link": "https://tuoitre.vn/nga-cung-ran-canh-bao-nato-va-eu-truoc-lien-hop-quoc-2025092800130726.htm",
+      "summary": "Ngày 27-9, Ngoại trưởng Nga cảnh báo 'bất kỳ hành động gây hấn nào chống lại đất nước tôi sẽ đối mặt với phản ứng quyết liệt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:16:02.619904+07:00",
+      "fetched": "2025-09-28T03:16:02.620033+07:00"
+    },
+    {
+      "id": "d402c167d21e5dac15e027b76587c49f",
+      "title": "Lập Ban Chỉ đạo tiền phương tại các tỉnh có tâm bão Bualoi đi qua",
+      "link": "https://tuoitre.vn/lap-ban-chi-dao-tien-phuong-tai-cac-tinh-co-tam-bao-bualoi-di-qua-20250927235542001.htm",
+      "summary": "Thủ tướng Phạm Minh Chính giao phó thủ tướng Trần Hồng Hà thành lập Ban chỉ đạo tiền phương tại các tỉnh có tâm bão Bualoi (bão số 10) đi qua để tập trung xử lý phòng chống, khắc phục hậu quả bão lũ, sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:16:02.619661+07:00",
+      "fetched": "2025-09-28T03:16:02.619888+07:00"
+    },
     {
       "id": "438c09d0dcf8ca2c8a77e3652a900c9f",
       "title": "Chợ ế ẩm vì mưa gió, giá rau xanh tăng vọt",
