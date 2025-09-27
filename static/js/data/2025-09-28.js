@@ -1,6 +1,6 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T03:16:11.240344+07:00",
+  "lastUpdated": "2025-09-28T05:13:44.153737+07:00",
   "articles": [
     {
       "id": "37772ffab796bb0d56505d830c63291e",
@@ -191,6 +191,176 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T01:20:17.355314+07:00",
       "fetched": "2025-09-28T01:20:17.355539+07:00"
+    },
+    {
+      "id": "8e16eee08ac1da579010b97cd27e7264",
+      "title": "Chính phủ Mỹ cận kề khả năng tạm đóng cửa",
+      "link": "https://thanhnien.vn/chinh-phu-my-can-ke-kha-nang-tam-dong-cua-185250927222421979.htm",
+      "summary": "Ngày 30.9 sẽ là hạn chót để quốc hội Mỹ duyệt gói chi tiêu mới nhằm ngăn chính phủ đóng cửa. Tuy nhiên, đến nay hai đảng Dân chủ và Cộng hòa vẫn chưa tìm được tiếng nói chung, khi mỗi đảng đều chỉ trích bên còn lại đã gây khó dễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:10:00+07:00",
+      "fetched": "2025-09-28T05:13:33.547394+07:00"
+    },
+    {
+      "id": "196380fcea6b31958cdd1b4e584ba48e",
+      "title": "Cẩn trọng với tiền số",
+      "link": "https://thanhnien.vn/can-trong-voi-tien-so-185250927210629593.htm",
+      "summary": "Những ngày qua, giới đầu tư thị trường tiền số (tiền kỹ thuật số, tiền mã hóa, tiền \"ảo\"…) đang quan tâm sâu sắc vụ ồn ào về vụ 'sụp hầm' trong một dự án tiền số liên quan một doanh nhân - người có thêm danh xưng Shark vì từng là nhà đầu tư trong một chương trình gọi vốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:05:00+07:00",
+      "fetched": "2025-09-28T05:13:33.547577+07:00"
+    },
+    {
+      "id": "807ea7e78c19cea14fcf5fd7eddd098b",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2892025-185250927225240488.htm",
+      "summary": "Tin tức Siêu đô thị TP.HCM cần quảng trường xứng tầm; Dưới mắt ai mà xây nhà vẫn nhầm?; Tổng thống Trump tung \"liên hoàn trận\" nhằm vào Nga... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.547741+07:00"
+    },
+    {
+      "id": "1a2ae68049b87abd41752a9058ebe4f7",
+      "title": "Tuyên dương 26 gương thanh niên dân tộc thiểu số tiêu biểu cụm Tây Nam Bộ",
+      "link": "https://thanhnien.vn/tuyen-duong-26-guong-thanh-nien-dan-toc-thieu-so-tieu-bieu-cum-tay-nam-bo-185250927222449902.htm",
+      "summary": "26 gương thanh niên các dân tộc tiêu biểu, có uy tín và khởi nghiệp thành công năm 2025 cụm Tây Nam bộ đã được Ban Bí thư T.Ư Đoàn khen thưởng, tuyên dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.547899+07:00"
+    },
+    {
+      "id": "686cb5783a37c366d8993383c7ea62c0",
+      "title": "Dưới mắt ai mà xây nhà vẫn nhầm?",
+      "link": "https://thanhnien.vn/duoi-mat-ai-ma-xay-nha-van-nham-185250927204711368.htm",
+      "summary": "Một căn nhà không thể xây nhầm trên đất người khác chỉ trong một đêm. Nó đi qua thợ hồ, thợ sắt, qua những lần hàng xóm nhìn thấy, qua những lượt cán bộ địa phương đi tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548055+07:00"
+    },
+    {
+      "id": "343cc84e414d404d3e571f69d69b718c",
+      "title": "Chiến sự Ukraine ngày 1.312: Chiến thuật 'ngàn nhát cắt' của Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1312-chien-thuat-ngan-nhat-cat-cua-nga-185250927200711293.htm",
+      "summary": "Tổng tư lệnh quân đội Ukraine tuyên bố đã ngăn chặn chiến thuật tấn công của Nga tại mặt trận Novopavlivka và phá vỡ chiến dịch tiến công xuân-hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548226+07:00"
+    },
+    {
+      "id": "067461d34f6b88773c1f0a2f4d0b37a3",
+      "title": "'Đôi mắt' của tên lửa KU VASK-03 do Việt Nam sản xuất có gì đặc biệt?",
+      "link": "https://thanhnien.vn/doi-mat-cua-ten-lua-ku-vask-03-do-viet-nam-san-xuat-co-gi-dac-biet-185250927175032711.htm",
+      "summary": "Đầu tự dẫn tên lửa băng tần KU VASK-03 được lắp trên các loại tên lửa đối hải, do Việt Nam sản xuất, có chức năng tự động tìm kiếm, phát hiện mục tiêu trên biển, lựa chọn mục tiêu để bám sát và đo đạc tham số dẫn đường, điều khiển tên lửa đâm trúng mục tiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548382+07:00"
+    },
+    {
+      "id": "a0451fd0769e086152834e7d1aef561c",
+      "title": "Luật Việc làm 2025: Thêm nhiều điểm có lợi cho người lao động, là gì?",
+      "link": "https://thanhnien.vn/luat-viec-lam-2025-them-nhieu-diem-co-loi-cho-nguoi-lao-dong-la-gi-185250927153213375.htm",
+      "summary": "Theo bà Nguyễn Thị Quyên, Phó cục trưởng Cục Việc làm (Bộ Nội vụ), luật Việc làm 2025 có nhiều điểm mới. Trong đó, có 4 chính sách quan trọng, nhiều điểm lợi cho người lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548551+07:00"
+    },
+    {
+      "id": "8a49e9843b06af136191609c7dfa2b27",
+      "title": "Trung Quốc tìm cách hút nhân tài khi Mỹ siết visa H1B",
+      "link": "https://vnexpress.net/trung-quoc-tim-cach-hut-nhan-tai-khi-my-siet-visa-h1b-4944058.html",
+      "summary": "Với việc tung ra visa K mới cho lĩnh vực STEM, Trung Quốc có thể định hình lại cuộc chiến thu hút nhân tài công nghệ, khi Mỹ áp mức phí mới cho visa H1B.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T05:13:36.792618+07:00"
+    },
+    {
+      "id": "c69bf71640861c6e92569c184242fd63",
+      "title": "Quy định mới sử dụng lao động nước ngoài, thủ tục ra sao?",
+      "link": "https://thanhnien.vn/quy-dinh-moi-su-dung-lao-dong-nuoc-ngoai-thu-tuc-ra-sao-185250927182856358.htm",
+      "summary": "Nghị định 219 của Chính phủ mới đây có điều chỉnh một số quy định về người lao động nước ngoài làm việc tại Việt Nam, người sử dụng lao động, doanh nghiệp trong nước cần biết những điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:33:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548708+07:00"
+    },
+    {
+      "id": "f7c66cd36c0755f98b3a59c8315d5777",
+      "title": "Tâm bão số 10 dự báo đổ bộ Hà Tĩnh - bắc Quảng Trị",
+      "link": "https://thanhnien.vn/tam-bao-so-10-du-bao-do-bo-ha-tinh-bac-quang-tri-18525092722292088.htm",
+      "summary": "Dự báo trong đêm nay (28.9), tâm bão số 10 (bão Bualoi) sẽ đổ bộ khu vực Hà Tĩnh - bắc Quảng Trị với gió mạnh cấp 10 - 12, hoàn lưu bão gây ra mưa lớn diện rộng ở đồng bằng Bắc bộ, và từ Thanh Hóa đến Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:30:00+07:00",
+      "fetched": "2025-09-28T05:13:33.548882+07:00"
+    },
+    {
+      "id": "620c7ce8abae458856f31b6c2d9d40af",
+      "title": "Bệnh viện Quân y 175 ra mắt Trung tâm Đào tạo châm cứu, xoa bóp, bấm huyệt",
+      "link": "https://thanhnien.vn/benh-vien-quan-y-175-ra-mat-trung-tam-dao-tao-cham-cuu-xoa-bop-bam-huyet-185250927191526525.htm",
+      "summary": "Sáng 27.9, tại Hội nghị khoa học 'Đẩy mạnh hợp tác Việt - Trung, nâng tầm y học cổ truyền', Bệnh viện Quân y 175 phối hợp với Đại học Trung Y Dược Nam Kinh (Trung Quốc) ra mắt Trung tâm Đào tạo châm cứu, xoa bóp, bấm huyệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:20:00+07:00",
+      "fetched": "2025-09-28T05:13:33.549045+07:00"
+    },
+    {
+      "id": "2a97f1ee821c776530a8500e7604555b",
+      "title": "7 cơ sở BHXH ở TP.HCM ngừng hoạt động từ 1.10",
+      "link": "https://thanhnien.vn/7-co-so-bhxh-o-tphcm-ngung-hoat-dong-tu-110-18525092620170397.htm",
+      "summary": "Từ ngày 1.10.2025, có 7 đơn vị cơ sở thuộc Bảo hiểm xã hội (BHXH) TP.HCM ngừng hoạt động, người dân cần biết để thuận tiện trong việc liên hệ làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:18:00+07:00",
+      "fetched": "2025-09-28T05:13:33.549216+07:00"
+    },
+    {
+      "id": "78ff5055d8bfb81901903e4d328c4d4e",
+      "title": "Nến thơm, tinh dầu: Bí quyết thư giãn hay ‘kẻ ngầm’ gây hại phổi?",
+      "link": "https://thanhnien.vn/nen-thom-tinh-dau-bi-quyet-thu-gian-hay-ke-ngam-gay-hai-phoi-185250926233328396.htm",
+      "summary": "Nến thơm, tinh dầu thường được sử dụng như một liệu pháp giúp thư giãn, cải thiện sức khỏe tinh thần, tuy nhiên việc lựa chọn và sử dụng không đúng cách có thể gây hại cho phổi cũng như các bệnh mạn tính về hô hấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:11:00+07:00",
+      "fetched": "2025-09-28T05:13:33.549370+07:00"
+    },
+    {
+      "id": "c0a34b402fe3c715c53b9b2783ed1c67",
+      "title": "Lao động rời TP.HCM ngày càng nhiều: Tại sao nhiều người chọn về quê?",
+      "link": "https://thanhnien.vn/lao-dong-roi-tphcm-ngay-cang-nhieu-tai-sao-nhieu-nguoi-chon-ve-que-185250923183135726.htm",
+      "summary": "TP.HCM đang chứng kiến làn sóng lao động di cư 'đảo chiều', về quê tìm kế sinh nhai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:10:00+07:00",
+      "fetched": "2025-09-28T05:13:33.549520+07:00"
+    },
+    {
+      "id": "fb04dff5de99393939faf77e615cef6f",
+      "title": "Vỡ hụi trăm tỉ: Khi thiếu chuẩn hóa chứng cứ",
+      "link": "https://thanhnien.vn/vo-hui-tram-ti-khi-thieu-chuan-hoa-chung-cu-185250927180836823.htm",
+      "summary": "Vụ vỡ hụi ở xã Xuân Thới Sơn (huyện Hóc Môn cũ, TP.HCM) hệ quả không chỉ là thiệt hại tài chính mà còn là rạn nứt quan hệ cộng đồng và nguy cơ mất an ninh trật tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:02:00+07:00",
+      "fetched": "2025-09-28T05:13:33.549670+07:00"
+    },
+    {
+      "id": "e4c0131e80aaa4341b65fc3cec6e5442",
+      "title": "Lotus - hãng xe thể thao Anh sắp vào Việt Nam",
+      "link": "https://vnexpress.net/lotus-hang-xe-the-thao-anh-sap-vao-viet-nam-4944430.html",
+      "summary": "Tasco là đối tác phân phối của Lotus, tuy nhiên công ty chưa hé lộ thời điểm khi nào mở bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T21:00:00+07:00",
+      "fetched": "2025-09-28T05:13:30.000254+07:00"
     },
     {
       "id": "4b24826c167cdfbbf62d7592e519eec3",
