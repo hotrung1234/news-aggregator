@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T13:22:19.626676+07:00",
+  "lastUpdated": "2025-09-28T15:18:31.032549+07:00",
   "articles": [
+    {
+      "id": "4c24181170eee1117ba87c077c6c713d",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Ẩn số tân binh Vĩnh Long",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-an-so-tan-binh-vinh-long-20250927235706695.htm",
+      "summary": "Tân binh Công đoàn Vĩnh Long là ẩn số tại Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806841+07:00",
+      "fetched": "2025-09-28T15:18:23.806956+07:00"
+    },
+    {
+      "id": "11bec06b7ada4548be8518df40c65270",
+      "title": "Ngư dân bơi được vào bờ sau 6 tiếng chìm tàu và bám trụ ở phao hàng hải",
+      "link": "https://tuoitre.vn/ngu-dan-boi-duoc-vao-bo-sau-6-tieng-chim-tau-va-bam-tru-o-phao-hang-hai-20250928141140577.htm",
+      "summary": "Sau khoảng 6 tiếng bị chìm tàu và bám trụ ở phao hàng hải cách bờ khoảng 300m, ngư dân Nguyễn Văn Trường tự bơi vào bờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806700+07:00",
+      "fetched": "2025-09-28T15:18:23.806828+07:00"
+    },
+    {
+      "id": "1050db130cac6c919c4ba8484bba6a17",
+      "title": "Người dân nhận lại 2,3 tỉ đồng chuyển khoản nhầm",
+      "link": "https://tuoitre.vn/nguoi-dan-nhan-lai-2-3-ti-dong-chuyen-khoan-nham-20250928111300917.htm",
+      "summary": "Công an Đồng Tháp hỗ trợ một người dân ngụ tỉnh Hưng Yên chuyển khoản nhầm 2,3 tỉ đồng và được nhận lại số tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806566+07:00",
+      "fetched": "2025-09-28T15:18:23.806684+07:00"
+    },
+    {
+      "id": "6286acae90db24dc1bf94b6266e5e853",
+      "title": "Chợ cá lúc bình minh ven biển Đà Nẵng",
+      "link": "https://tuoitre.vn/cho-ca-luc-binh-minh-ven-bien-da-nang-2025092809473394.htm",
+      "summary": "Ven các đường bờ biển tại Đà Nẵng, mỗi hửng sáng lại có những phiên chợ rất đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806431+07:00",
+      "fetched": "2025-09-28T15:18:23.806553+07:00"
+    },
+    {
+      "id": "27356192098db2b9d5bf94e90558a164",
+      "title": "Ukraine tố Nga không kích dữ dội trong đêm, ít nhất 4 người thiệt mạng",
+      "link": "https://tuoitre.vn/ukraine-to-nga-khong-kich-du-doi-trong-dem-it-nhat-4-nguoi-thiet-mang-20250928140601393.htm",
+      "summary": "Ngày 28-9, Ukraine tố Nga đã không kích vào nước này bằng hàng trăm tên lửa và drone, khiến ít nhất 4 người chết và nhiều người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806307+07:00",
+      "fetched": "2025-09-28T15:18:23.806420+07:00"
+    },
+    {
+      "id": "0252cf4f9111f7fbe765c76182f7e521",
+      "title": "Phó hiệu trưởng nói không cho học sinh ngộ độc đi viện vì 'chờ điều ô tô chở'",
+      "link": "https://tuoitre.vn/pho-hieu-truong-noi-khong-cho-hoc-sinh-ngo-doc-di-vien-vi-cho-dieu-o-to-cho-20250928122144512.htm",
+      "summary": "Bà Đỗ Thị Hồng Huế, phó hiệu trưởng trường Phổ thông dân tộc bán trú tiểu học Kim Thủy, cho biết bà không ngăn học sinh ngộ độc đi viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806176+07:00",
+      "fetched": "2025-09-28T15:18:23.806295+07:00"
+    },
+    {
+      "id": "2d2dc65157e2aaccf3c712b6079d4c00",
+      "title": "Nghệ An sơ tán hàng ngàn người trước bão Bualoi",
+      "link": "https://tuoitre.vn/nghe-an-so-tan-hang-ngan-nguoi-truoc-bao-bualoi-20250928140931767.htm",
+      "summary": "Người dân Nghệ An ở các chung cư cũ, khu vực thấp trũng, có nguy cơ sạt lở được sơ tán tới các điểm an toàn tránh bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.806032+07:00",
+      "fetched": "2025-09-28T15:18:23.806162+07:00"
+    },
+    {
+      "id": "08e6cca4eecfe58f3c2bb205265c9b48",
+      "title": "Nghệ An, Hà Tĩnh cho học sinh nghỉ học để tránh bão Bualoi",
+      "link": "https://tuoitre.vn/nghe-an-ha-tinh-cho-hoc-sinh-nghi-hoc-de-tranh-bao-bualoi-20250928121435607.htm",
+      "summary": "Toàn bộ học sinh hai tỉnh Nghệ An và Hà Tĩnh sẽ nghỉ học vào ngày mai 29-9 do ảnh hưởng của bão số 10 (bão Bualoi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805906+07:00",
+      "fetched": "2025-09-28T15:18:23.806021+07:00"
+    },
+    {
+      "id": "9e7c86ef1598e9b3fd29028b2f671872",
+      "title": "Tinh gọn bộ máy: Bài toán thừa cấp phó, thiếu cán bộ chuyên môn",
+      "link": "https://tuoitre.vn/tinh-gon-bo-may-bai-toan-thua-cap-pho-thieu-can-bo-chuyen-mon-20250926230908181.htm",
+      "summary": "Giải quyết bài toán thừa lãnh đạo, thiếu người có chuyên môn phải dựa vào chuẩn mực vị trí việc làm, chuẩn về số lượng nhân sự để sắp xếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805779+07:00",
+      "fetched": "2025-09-28T15:18:23.805894+07:00"
+    },
+    {
+      "id": "df04d1591cf674c0cbd4ceccf428d5fe",
+      "title": "Lãnh đạo VOV Giao thông: 'Việc còng tay phóng viên đang tác nghiệp là bất thường'",
+      "link": "https://tuoitre.vn/lanh-dao-vov-giao-thong-viec-cong-tay-phong-vien-dang-tac-nghiep-la-bat-thuong-20250928114704678.htm",
+      "summary": "Phó giám đốc kênh VOV Giao thông nói việc phóng viên của kênh bị còng tay như tội phạm khi đang tác nghiệp là hành động bất thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805653+07:00",
+      "fetched": "2025-09-28T15:18:23.805768+07:00"
+    },
+    {
+      "id": "5a9117f6cc1b79438b9680af9ff7af75",
+      "title": "Nếu xe tải tông nhau bốc cháy trong hầm sông Sài Gòn, cảnh sát chữa cháy ra sao?",
+      "link": "https://tuoitre.vn/neu-xe-tai-tong-nhau-boc-chay-trong-ham-song-sai-gon-canh-sat-chua-chay-ra-sao-20250928113201997.htm",
+      "summary": "Công an TP.HCM phối hợp Sở Xây dựng tổ chức thực tập phương án xử lý tình hướng chữa cháy và cứu nạn cứu hộ tại đường hầm sông Sài Gòn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805515+07:00",
+      "fetched": "2025-09-28T15:18:23.805641+07:00"
+    },
+    {
+      "id": "38a5753d6f92faf5b64e852adb8c5c25",
+      "title": "Hết lo người già, lại sợ những bạn trẻ như 'hoa trong lồng kính' bị lừa đảo online",
+      "link": "https://tuoitre.vn/het-lo-nguoi-gia-lai-so-nhung-ban-tre-nhu-hoa-trong-long-kinh-bi-lua-dao-online-20250926140745549.htm",
+      "summary": "Vụ nữ sinh L.thành nạn nhân của nhóm lừa đảo online khiến gia đình mất gần 1,2 tỉ đồng khiến nhiều người vừa thương nhưng cũng vừa tức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805373+07:00",
+      "fetched": "2025-09-28T15:18:23.805498+07:00"
+    },
+    {
+      "id": "500bd5151343636c0111f237a29a6e53",
+      "title": "Khách sạn ven biển Đà Nẵng phòng thủ trước bão, chằng chống bằng giàn giáo và bao cát",
+      "link": "https://tuoitre.vn/khach-san-ven-bien-da-nang-phong-thu-truoc-bao-chang-chong-bang-gian-giao-va-bao-cat-20250928143351736.htm",
+      "summary": "Đầu giờ chiều nay 28-9 mưa lớn và gió vẫn xuất hiện khu vực ven biển Đà Nẵng. Nhiều khách sạn ven biển phòng thủ kín cổng cao tường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805233+07:00",
+      "fetched": "2025-09-28T15:18:23.805360+07:00"
+    },
+    {
+      "id": "35e3a4f5717a919943b1a538ee29b80b",
+      "title": "Nhờ Tử chiến trên không, Hàm Trần có phim trăm tỉ đầu tiên",
+      "link": "https://tuoitre.vn/nho-tu-chien-tren-khong-ham-tran-co-phim-tram-ti-dau-tien-20250928084520287.htm",
+      "summary": "Nhờ Tử chiến trên không, Hàm Trần có phim trăm tỉ đầu tiên - một cột mốc lớn và xứng đáng với tiềm năng rất lớn của anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.805054+07:00",
+      "fetched": "2025-09-28T15:18:23.805218+07:00"
+    },
+    {
+      "id": "93994ee7c3b8ce861be6859b4ebfa6f6",
+      "title": "Quan chức Hàn Quốc: Không loại trừ thượng đỉnh Trump - Kim bên lề APEC",
+      "link": "https://tuoitre.vn/quan-chuc-han-quoc-khong-loai-tru-thuong-dinh-trump-kim-ben-le-apec-20250928101743539.htm",
+      "summary": "Hội nghị cấp cao APEC vào tháng tới tại Hàn Quốc rất có thể chứng kiến cuộc gặp giữa hai nhà lãnh đạo Mỹ và Triều Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:18:23.804805+07:00",
+      "fetched": "2025-09-28T15:18:23.805037+07:00"
+    },
     {
       "id": "2d2257064e51eda5e65ad86c0d337df1",
       "title": "‘Thần đèn’ miễn phí dời căn nhà xây nhầm trên đất người khác; Camera AI phạt nguội sẽ có khắp nơi",
@@ -571,6 +721,356 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T08:20:12.140421+07:00",
       "fetched": "2025-09-28T08:20:12.140644+07:00"
+    },
+    {
+      "id": "038f0a735d94230af70686f4f157b740",
+      "title": "Vĩnh Long: 3 người cùng nhà tử vong trong căn chòi, nghi bị điện giật",
+      "link": "https://thanhnien.vn/vinh-long-3-nguoi-cung-nha-tu-vong-trong-can-choi-nghi-bi-dien-giat-185250928144449551.htm",
+      "summary": "Các phòng nghiệp vụ Công an tỉnh Vĩnh Long đang điều tra vụ 3 người cùng nhà tử vong trong một căn chòi, nghi bị điện giật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:15:00+07:00",
+      "fetched": "2025-09-28T15:18:22.970791+07:00"
+    },
+    {
+      "id": "e60821219b26c13c6ceb1ad77ffb7062",
+      "title": "Hệ thống Giáo dục Bảo Quyên ký hợp tác với Aimpoint Australia",
+      "link": "https://thanhnien.vn/he-thong-giao-duc-bao-quyen-ky-hop-tac-voi-aimpoint-australia-185250928131446933.htm",
+      "summary": "Vừa qua tại TP.HCM, Công ty TNHH MTV Đầu tư và Phát triển Giáo dục Bảo Quyên và Aimpoint Australia đã có buổi ký kết hợp tác về việc đào tạo nghề tại Việt Nam giới thiệu cơ hội học tập - việc làm hợp pháp và bền vững tại Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:06:00+07:00",
+      "fetched": "2025-09-28T15:18:22.970975+07:00"
+    },
+    {
+      "id": "5a819555b6cd13ac54d6793b27d2a382",
+      "title": "Chuyên gia: Cần sớm đánh thuế bất động sản để hạ nhiệt giá nhà",
+      "link": "https://vnexpress.net/chuyen-gia-can-som-danh-thue-bat-dong-san-de-ha-nhiet-gia-nha-4944555.html",
+      "summary": "Bên cạnh tăng nguồn cung nhà giá rẻ, đánh thuế bất động sản để hạn chế đầu cơ là một biện pháp hạ nhiệt giá nhà, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:05:00+07:00",
+      "fetched": "2025-09-28T15:18:15.530957+07:00"
+    },
+    {
+      "id": "a5a459f0150f3c052193f3570a54dca5",
+      "title": "Thành lập tổ công tác làm rõ vốn và hoạt động Nhà máy rác thải TP.Cà Mau",
+      "link": "https://thanhnien.vn/thanh-lap-to-cong-tac-lam-ro-von-va-hoat-dong-nha-may-rac-thai-tpca-mau-18525092800152193.htm",
+      "summary": "Chủ tịch UBND tỉnh Cà Mau vừa quyết định thành lập tổ công tác liên ngành để xác định tính pháp lý nguồn vốn đầu tư và rà soát toàn diện hoạt động của Nhà máy xử lý rác thải TP.Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:05:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971163+07:00"
+    },
+    {
+      "id": "55c1fc91a4346c683467629bdc9c57e3",
+      "title": "Chồng tự ý đưa ba chồng bị bệnh thần kinh về nhà ở cùng",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-tu-y-dua-ba-chong-bi-benh-than-kinh-ve-nha-o-cung-4944627.html",
+      "summary": "Chồng đưa ba chồng đến ở cùng nhưng vẫn ung dung, sáng ngủ trễ, cơm nước một tay tôi lo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.531162+07:00"
+    },
+    {
+      "id": "07f2f309aa1d28c9bc78d1581a363ffd",
+      "title": "China Merchants Energy Shipping tiếp nhận tàu chạy bằng nhiên liệu kép methanol",
+      "link": "https://vnexpress.net/china-merchants-energy-shipping-tiep-nhan-tau-chay-bang-nhien-lieu-kep-methanol-4942139.html",
+      "summary": "China Merchants Energy Shipping vừa tiếp nhận tàu chở ôtô đầu tiên trên thế giới sử dụng động cơ nhiên liệu kép methanol, đánh dấu bước tiến trong chiến lược tối ưu hóa đội tàu hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.531340+07:00"
+    },
+    {
+      "id": "80d7372513935b1c3f86577b9f231404",
+      "title": "Đêm trên cao nguyên - Truyện ngắn dự thi của Quốc Việt",
+      "link": "https://thanhnien.vn/dem-tren-cao-nguyen-truyen-ngan-du-thi-cua-quoc-viet-18525091712135281.htm",
+      "summary": "Chiếc xe khách từ TP.HCM sau gần 7 tiếng đồng hồ vượt qua những con đèo ngoằn ngoèo, cuối cùng cũng dừng lại trước bến xe Đà Lạt. Nhiên bước xuống, kéo theo chiếc va li màu mận chín.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T08:00:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971328+07:00"
+    },
+    {
+      "id": "a027a56486d227a4f5527e6b8b76a665",
+      "title": "Bão số 10 gây gió lớn vùng biển Quảng Ngãi - Quảng Trị, dân cấp tập vào hầm trú ẩn",
+      "link": "https://thanhnien.vn/bao-so-10-gay-gio-lon-vung-bien-quang-ngai-quang-tri-dan-cap-tap-vao-ham-tru-an-185250928144114501.htm",
+      "summary": "Đến 11 giờ ngày 28.9, toàn bộ gần 200 quân và dân trên đảo Cồn Cỏ (Quảng Trị) đã được đưa vào hầm trú ẩn an toàn để ứng phó với bão số 10 (bão Bualoi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:45:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971482+07:00"
+    },
+    {
+      "id": "8eb770888b7c9c3ede0374c391c90615",
+      "title": "CĐV tức giận vì Chelsea tăng giá vé trận tái ngộ Mourinho",
+      "link": "https://vnexpress.net/cdv-tuc-gian-vi-chelsea-tang-gia-ve-tran-tai-ngo-mourinho-4944266.html",
+      "summary": "Giá vé trận tiếp Benfica tại Champions League được điều chỉnh khiến người hâm mộ Chelsea bức xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:44:41+07:00",
+      "fetched": "2025-09-28T15:18:15.531503+07:00"
+    },
+    {
+      "id": "8eb770888b7c9c3ede0374c391c90615",
+      "title": "CĐV tức giận vì Chelsea tăng giá vé trận tái ngộ Mourinho",
+      "link": "https://vnexpress.net/cdv-tuc-gian-vi-chelsea-tang-gia-ve-tran-tai-ngo-mourinho-4944266.html",
+      "summary": "Giá vé trận tiếp Benfica tại Champions League được điều chỉnh khiến người hâm mộ Chelsea bức xúc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T07:44:41+07:00",
+      "fetched": "2025-09-28T15:18:31.022910+07:00"
+    },
+    {
+      "id": "4316b88443ce30c6b7122530dc76f9cd",
+      "title": "Usain Bolt ví Man Utd như một trò đùa",
+      "link": "https://vnexpress.net/usain-bolt-vi-man-utd-nhu-mot-tro-dua-4944610.html",
+      "summary": "Huyền thoại điền kinh Usain Bolt thất vọng khi chứng kiến đội bóng yêu thích Man Utd thua Brentford 1-3 ở vòng 6 giải Ngoại hạng Anh, tối 27/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:36:40+07:00",
+      "fetched": "2025-09-28T15:18:15.531667+07:00"
+    },
+    {
+      "id": "4316b88443ce30c6b7122530dc76f9cd",
+      "title": "Usain Bolt ví Man Utd như một trò đùa",
+      "link": "https://vnexpress.net/usain-bolt-vi-man-utd-nhu-mot-tro-dua-4944610.html",
+      "summary": "Huyền thoại điền kinh Usain Bolt thất vọng khi chứng kiến đội bóng yêu thích Man Utd thua Brentford 1-3 ở vòng 6 giải Ngoại hạng Anh, tối 27/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T07:36:40+07:00",
+      "fetched": "2025-09-28T15:18:31.023074+07:00"
+    },
+    {
+      "id": "dca5e45174ebb0eca010fb442349c6ac",
+      "title": "Sốc với kỷ lục mới được lập sâu tại giải quốc tế Green Marathon 2025",
+      "link": "https://thanhnien.vn/soc-voi-ky-luc-moi-duoc-lap-sau-tai-giai-quoc-te-green-marathon-2025-185250928140651889.htm",
+      "summary": "Runner Huỳnh Anh Khôi đã gây sốc khi lập kỷ lục mới ở đường chạy chuẩn quốc tế AIMS HDBank Green Marathon vừa được thiết lập vào sáng 28.9 ở xã Cần Giờ, TP.HCM. Anh đã phá sâu đến 5 phút 25 giây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:33:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971635+07:00"
+    },
+    {
+      "id": "7f7c23faade13f873d925589008e74b0",
+      "title": "Nga tập kích dữ dội, Ukraine báo động toàn quốc",
+      "link": "https://vnexpress.net/nga-tap-kich-du-doi-ukraine-bao-dong-toan-quoc-4944633.html",
+      "summary": "Ukraine nói Nga phóng hàng trăm UAV và tên lửa vào nước này trong đêm, gây báo động toàn quốc, buộc Ba Lan điều tiêm kích bảo vệ không phận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:31:59+07:00",
+      "fetched": "2025-09-28T15:18:15.531831+07:00"
+    },
+    {
+      "id": "41853e243682febec24a042d04b9abc6",
+      "title": "Huỳnh Anh Khôi phá kỷ lục cá nhân tại HDBank Green Marathon",
+      "link": "https://vnexpress.net/huynh-anh-khoi-pha-ky-luc-ca-nhan-tai-hdbank-green-marathon-4944638.html",
+      "summary": "Nhờ cơn mưa, đường đua bằng phẳng, Huỳnh Anh Khôi hoàn thành đường chạy xanh của HDBank Green Marathon sau 2 tiếng 27 phút, phá sâu kỷ lục cá nhân đến 5 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:30:00+07:00",
+      "fetched": "2025-09-28T15:18:15.531985+07:00"
+    },
+    {
+      "id": "41853e243682febec24a042d04b9abc6",
+      "title": "Huỳnh Anh Khôi phá kỷ lục cá nhân tại HDBank Green Marathon",
+      "link": "https://vnexpress.net/huynh-anh-khoi-pha-ky-luc-ca-nhan-tai-hdbank-green-marathon-4944638.html",
+      "summary": "Nhờ cơn mưa, đường đua bằng phẳng, Huỳnh Anh Khôi hoàn thành đường chạy xanh của HDBank Green Marathon sau 2 tiếng 27 phút, phá sâu kỷ lục cá nhân đến 5 phút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T07:30:00+07:00",
+      "fetched": "2025-09-28T15:18:31.024470+07:00"
+    },
+    {
+      "id": "77753dd3a5e09ea397ed43f0a9a53fbd",
+      "title": "Những mấu chốt giúp Lý Huynh vô địch cờ tướng thế giới",
+      "link": "https://vnexpress.net/nhung-mau-chot-giup-ly-huynh-vo-dich-co-tuong-the-gioi-4944479.html",
+      "summary": "Trước đối thủ chủ nhà đi như máy ở khai cuộc trận chung kết cờ tướng thế giới 2025, đại diện Việt Nam Lại Lý Huynh phản tiên thành công nhờ tận dụng sai lầm ở trung tàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:19:43+07:00",
+      "fetched": "2025-09-28T15:18:15.532159+07:00"
+    },
+    {
+      "id": "77753dd3a5e09ea397ed43f0a9a53fbd",
+      "title": "Những mấu chốt giúp Lý Huynh vô địch cờ tướng thế giới",
+      "link": "https://vnexpress.net/nhung-mau-chot-giup-ly-huynh-vo-dich-co-tuong-the-gioi-4944479.html",
+      "summary": "Trước đối thủ chủ nhà đi như máy ở khai cuộc trận chung kết cờ tướng thế giới 2025, đại diện Việt Nam Lại Lý Huynh phản tiên thành công nhờ tận dụng sai lầm ở trung tàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T07:19:43+07:00",
+      "fetched": "2025-09-28T15:18:31.022335+07:00"
+    },
+    {
+      "id": "2b46f68e639e1f4daa54f9e9aa0cbc94",
+      "title": "Đà Nẵng: Tìm 2 người mất tích trong mưa lớn",
+      "link": "https://thanhnien.vn/da-nang-tim-2-nguoi-mat-tich-trong-mua-lon-185250928115336676.htm",
+      "summary": "Lực lượng chức năng TP.Đà Nẵng đã huy động hàng chục người, xuyên đêm tìm kiếm 2 người dân mất tích, trong đó có một thanh niên mất tích khi bơi qua sông để về nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:18:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971785+07:00"
+    },
+    {
+      "id": "46ce73b4cef66f16d9c90c7d7f88cc19",
+      "title": "Dự án công viên Hùng Vương ở Phan Thiết từng 'dậy sóng' dư luận giờ ra sao?",
+      "link": "https://thanhnien.vn/du-an-cong-vien-hung-vuong-o-phan-thiet-tung-day-song-du-luan-gio-ra-sao-185250927175529553.htm",
+      "summary": "Dự án công viên Hùng Vương từng được lãnh đạo Tỉnh ủy Bình Thuận (cũ) kỳ vọng là 'lá phổi xanh' của đô thị ven biển Phan Thiết, nhưng sau nhiều năm vẫn trong tình trạng ì ạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:09:00+07:00",
+      "fetched": "2025-09-28T15:18:22.971940+07:00"
+    },
+    {
+      "id": "31d967bcbe5a424fe0d30de1ecd3251e",
+      "title": "Ngư dân bám trụ giữa biển dữ và lời kể của 'người hùng' điều thuyền cứu 7 người ở Quảng Trị",
+      "link": "https://thanhnien.vn/ngu-dan-bam-tru-giua-bien-du-va-loi-ke-cua-nguoi-hung-dieu-thuyen-cuu-7-nguoi-o-quang-tri-185250928134211204.htm",
+      "summary": "Ngay sau khi xảy ra vụ 2 tàu cá gặp nạn tại biển Cửa Việt (Quảng Trị) khi đang vào trú bão số 10, ông Nguyễn Ngọc Thuận (là một ngư dân trú tại xã Cửa Việt) đã dũng cảm điều khiển thuyền ra tiếp cận hiện trường và ứng cứu thành công 7 ngư dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:05:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972093+07:00"
+    },
+    {
+      "id": "8ac94278c7d0962ae2e09a678bbb38b5",
+      "title": "'Công an phải củng cố tinh thần thượng tôn pháp luật trong xã hội'",
+      "link": "https://vnexpress.net/cong-an-phai-cung-co-tinh-than-thuong-ton-phap-luat-trong-xa-hoi-4944635.html",
+      "summary": "Ngày 28/9, Tổng Bí thư Tô Lâm có bài viết Công an nhân dân vì Đảng, vì dân, nhấn mạnh tinh thần vì nước quên thân, vì dân phục vụ, củng cố tinh thần thượng tôn pháp luật trong xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.532547+07:00"
+    },
+    {
+      "id": "ffe48f9f3ce34020b5233f24973a02f3",
+      "title": "Tổng Bí thư: Công an phải củng cố tinh thần thượng tôn pháp luật trong xã hội",
+      "link": "https://vnexpress.net/tong-bi-thu-cong-an-phai-cung-co-tinh-than-thuong-ton-phap-luat-trong-xa-hoi-4944614.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu Công an nhân dân thấm nhuần tinh thần vì nước quên thân, vì dân phục vụ, xây dựng xã hội trật tự, kỷ cương, an toàn, lành mạnh, củng cố tinh thần thượng tôn pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.532771+07:00"
+    },
+    {
+      "id": "72d50f43ef0aa3609af3e5fec8978373",
+      "title": "Câu thành ngữ nào liên quan đến bài kiểm tra đỉnh cao này",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-nao-lien-quan-den-bai-kiem-tra-dinh-cao-nay-4942484.html",
+      "summary": "Thành ngữ chỉ những người thông minh, học giỏi, sáng dạ, có tài viết văn hay, chữ đẹp, toàn diện về mọi mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.533027+07:00"
+    },
+    {
+      "id": "39bb1a8aa0f21b209c2ebd5f74048598",
+      "title": "Ninh Bình khánh thành Quảng trường Thời Đại",
+      "link": "https://vnexpress.net/ninh-binh-khanh-thanh-quang-truong-thoi-dai-4944612.html",
+      "summary": "Tập đoàn Sun Group tổ chức lễ khánh thành và gắn biển công trình Trục lễ hội và Quảng trường Thời Đại cùng nhiều dự án khác tại tỉnh Ninh Bình, ngày 27/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:15.533253+07:00"
+    },
+    {
+      "id": "8d18a3ad47fd131f528eece9639f4f29",
+      "title": "Công an nhân dân vì Đảng, vì dân",
+      "link": "https://thanhnien.vn/cong-an-nhan-dan-vi-dang-vi-dan-185250928134838497.htm",
+      "summary": "Phát huy truyền thống 80 năm xây dựng, chiến đấu và trưởng thành, với những dấu ấn đậm nét trong nhiệm kỳ 2020 - 2025, thời gian tới, Đảng bộ Công an Trung ương và toàn lực lượng Công an nhân dân chắc chắn sẽ lập thêm nhiều chiến công, thành tích mới, tiếp tục tạo ra những kỳ tích, bước tiến mới trê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972277+07:00"
+    },
+    {
+      "id": "c2bb0f8f549c74f3165943b2d20e95f1",
+      "title": "Áo cổ tròn là mảnh ghép nâng tầm phong cách tối giản",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-co-tron-la-manh-ghep-nang-tam-phong-cach-toi-gian-185250927214205546.htm",
+      "summary": "Áo cổ tròn tưởng chừng đơn giản nhưng lại chính là ‘vũ khí’ giúp nàng nâng tầm phong cách tối giản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:00:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972426+07:00"
+    },
+    {
+      "id": "9a00909a09aac875fd2605f76a1104d1",
+      "title": "Bão số 10 đi chậm lại, cảnh báo khu vực, thời gian gió bão mạnh nhất",
+      "link": "https://thanhnien.vn/bao-so-10-di-cham-lai-canh-bao-khu-vuc-thoi-gian-gio-bao-manh-nhat-185250928121117554.htm",
+      "summary": "Bão số 10 đang di chuyển chậm lại khi tiến gần vào đất liền các tỉnh miền Trung. Trung tâm Dự báo khí tượng thủy văn quốc gia cảnh báo khung giờ, khu vực có gió bão mạnh ở các tỉnh Thanh Hóa - Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:57:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972574+07:00"
+    },
+    {
+      "id": "0416de72d5a92747c938c5dede1ae624",
+      "title": "'Đã có những ý tưởng rất đổi mới, rất thị trường nhưng chưa thực hiện được'",
+      "link": "https://vnexpress.net/da-co-nhung-y-tuong-rat-doi-moi-rat-thi-truong-nhung-chua-thuc-hien-duoc-4944279.html",
+      "summary": "Theo TS Nguyễn Quân, nguyên Bộ trưởng Khoa học và Công nghệ, Việt Nam đã có những ý tưởng \"rất tiến bộ, rất đổi mới, rất thị trường\" đối với ngành khoa học công nghệ nhưng chưa thực hiện được do thiếu đồng bộ về luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:54:38+07:00",
+      "fetched": "2025-09-28T15:18:15.533421+07:00"
+    },
+    {
+      "id": "0416de72d5a92747c938c5dede1ae624",
+      "title": "'Đã có những ý tưởng rất đổi mới, rất thị trường nhưng chưa thực hiện được'",
+      "link": "https://vnexpress.net/da-co-nhung-y-tuong-rat-doi-moi-rat-thi-truong-nhung-chua-thuc-hien-duoc-4944279.html",
+      "summary": "Theo TS Nguyễn Quân, nguyên Bộ trưởng Khoa học và Công nghệ, Việt Nam đã có những ý tưởng \"rất tiến bộ, rất đổi mới, rất thị trường\" đối với ngành khoa học công nghệ nhưng chưa thực hiện được do thiếu đồng bộ về luật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T06:54:38+07:00",
+      "fetched": "2025-09-28T15:18:29.204963+07:00"
+    },
+    {
+      "id": "3b4065baeb5de009f066643cdb5134a5",
+      "title": "Hàng nghìn người miền Trung đưa ôtô đi tránh bão Bualoi",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-mien-trung-dua-oto-di-tranh-bao-bualoi-4944616.html",
+      "summary": "Rút kinh nghiệm từ những vụ ôtô bị cây đổ đè vào, vật thể rơi vỡ kính hay ngập lũ, hàng nghìn người đã dời phương tiện đến nơi thoáng đãng, cao ráo trước bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:50:10+07:00",
+      "fetched": "2025-09-28T15:18:15.533577+07:00"
+    },
+    {
+      "id": "bc201012542dbecc056f1d4794aa024e",
+      "title": "Bão số 10: TP.Huế bắt đầu mưa lớn, gió rít từng cơn",
+      "link": "https://thanhnien.vn/bao-so-10-tphue-bat-dau-mua-lon-gio-rit-tung-con-18525092812593109.htm",
+      "summary": "Khoảng 12 giờ 45 phút trưa 28.9, tại TP.Huế bắt đầu có gió to kèm mưa lớn, rít từng cơn. Trước đó, do ảnh hưởng bão số 10 (bão Bualoi), đã khiến hơn 80 nhà dân tại xã Quảng Điền bị tốc mái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:49:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972720+07:00"
+    },
+    {
+      "id": "92d91369109c9cbc8f94ad58e7a8950f",
+      "title": "Bão số 10 (Bualoi) giảm tốc khi tiến gần vào đất liền các tỉnh miền Trung",
+      "link": "https://thanhnien.vn/bao-so-10-bualoi-giat-cap-15-gay-gio-lon-vung-bien-quang-ngai-quang-tri-185250928134343699.htm",
+      "summary": "Bão số 10 (Bualoi) là cơn bão di chuyển nhanh, cường độ bão mạnh, phạm vi ảnh hưởng rộng, có thể gây tác động tổng hợp của nhiều loại hình thiên tai như gió mạnh, mưa lớn, lũ, lũ quét, sạt lở đất và ngập lụt ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:43:00+07:00",
+      "fetched": "2025-09-28T15:18:22.972869+07:00"
+    },
+    {
+      "id": "c1d5100ff9f997d024148e184f156ccf",
+      "title": "Bão số 10: Cứu được thuyền viên thứ 9 trong vụ chìm 2 tàu cá trên biển Quảng Trị",
+      "link": "https://thanhnien.vn/bao-so-10-cuu-duoc-thuyen-vien-thu-9-trong-vu-chim-2-tau-ca-tren-bien-quang-tri-185250928130755125.htm",
+      "summary": "Sau thời gian cố gắng bám trụ vào phao số 0 hơn 4 giờ đồng hồ sau sự cố chìm tàu tại vùng biển Quảng Trị do bão số 10 (bão Bualoi), thuyền viên Nguyễn Văn Trường đã may mắn thoát nạn, được đưa vào bờ thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:43:00+07:00",
+      "fetched": "2025-09-28T15:18:22.973019+07:00"
+    },
+    {
+      "id": "490ff18d402a2588fa44df3c9854111e",
+      "title": "Được công nhận 'tai nạn lao động' vì cấp trên xâm hại",
+      "link": "https://vnexpress.net/duoc-cong-nhan-tai-nan-lao-dong-vi-cap-tren-xam-hai-4944372.html",
+      "summary": "Chị Cui Lili, 41 tuổi, là trường hợp đầu tiên tại Trung Quốc được chứng nhận \"tai nạn lao động\" sau khi bị sếp cưỡng hiếp trong chuyến công tác hồi tháng 9/2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:38:51+07:00",
+      "fetched": "2025-09-28T15:18:15.533740+07:00"
     },
     {
       "id": "0525329a9cde42cc3fe2eef7f90f9590",
