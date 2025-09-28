@@ -1,7 +1,127 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T11:18:53.865216+07:00",
+  "lastUpdated": "2025-09-28T13:22:19.626676+07:00",
   "articles": [
+    {
+      "id": "2d2257064e51eda5e65ad86c0d337df1",
+      "title": "‘Thần đèn’ miễn phí dời căn nhà xây nhầm trên đất người khác; Camera AI phạt nguội sẽ có khắp nơi",
+      "link": "https://tuoitre.vn/than-den-mien-phi-doi-can-nha-xay-nham-tren-dat-nguoi-khac-camera-ai-phat-nguoi-se-co-khap-noi-20250928085522033.htm",
+      "summary": "Tuần qua có nhiều sự kiện thu hút bạn đọc quan tâm, trong đó nổi bật là ‘Thần đèn’ miễn phí dời căn nhà xây nhầm trên đất người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082731+07:00",
+      "fetched": "2025-09-28T13:22:13.082844+07:00"
+    },
+    {
+      "id": "f452a6d2df26001673b59027642b8a22",
+      "title": "Dự báo thời tiết từ 28-9 đến 4-10: Cao điểm mưa bão, khắp nơi mưa to",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-28-9-den-4-10-cao-diem-mua-bao-khap-noi-mua-to-20250927200823898.htm",
+      "summary": "Tuần này thời tiết nước ta tiếp tục duy trì mưa, có nơi mưa to đến rất to, đề phòng sạt lở, lũ nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082605+07:00",
+      "fetched": "2025-09-28T13:22:13.082720+07:00"
+    },
+    {
+      "id": "bb4f7d3249f00180569b5bf1c641d2d8",
+      "title": "Tâm nguyện lớn nhất của Bảo Quốc là cải lương",
+      "link": "https://tuoitre.vn/tam-nguyen-lon-nhat-cua-bao-quoc-la-cai-luong-20250928085444279.htm",
+      "summary": "Trở về Việt Nam thăm gia đình, nghệ sĩ Bảo Quốc nói về tâm nguyện với nghệ thuật cải lương, với hài kịch, với cuộc sống an lành bên con cháu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082471+07:00",
+      "fetched": "2025-09-28T13:22:13.082593+07:00"
+    },
+    {
+      "id": "57ac755064f5dcdeb409c601c05b29ac",
+      "title": "Đường miền núi Đà Nẵng sạt lở, người mất tích khi vào rừng tìm tổ ong",
+      "link": "https://tuoitre.vn/duong-mien-nui-da-nang-sat-lo-nguoi-mat-tich-khi-vao-rung-tim-to-ong-20250928110109151.htm",
+      "summary": "Do ảnh hưởng của bão Bualoi, các địa phương miền núi TP Đà Nẵng mưa lớn khiến nhiều tuyến đường bị sạt lở, sụt lún.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082311+07:00",
+      "fetched": "2025-09-28T13:22:13.082458+07:00"
+    },
+    {
+      "id": "eec98e12ba834e50f1f94f9da4644be5",
+      "title": "Bộ Giáo dục đề xuất nâng phụ cấp với giáo viên, nhân viên trường học",
+      "link": "https://tuoitre.vn/bo-giao-duc-de-xuat-nang-phu-cap-voi-giao-vien-nhan-vien-truong-hoc-20250928092819604.htm",
+      "summary": "Bộ Giáo dục và Đào tạo đã có đề xuất cụ thể về nâng phụ cấp ưu đãi đặc thù đối với giáo viên các bậc học, nhân viên trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082184+07:00",
+      "fetched": "2025-09-28T13:22:13.082300+07:00"
+    },
+    {
+      "id": "a5bc532c0055a829b14985f71a2726a0",
+      "title": "Skoda trưng bày dàn xe mới tại triển lãm Quảng Ninh",
+      "link": "https://tuoitre.vn/skoda-trung-bay-dan-xe-moi-tai-trien-lam-quang-ninh-2025092810144477.htm",
+      "summary": "Các mẫu xe của Skoda Việt Nam đang phân phối, gồm Slavia, Kushaq, Karoq và Kodiaq vừa có màn “chào sân” ngay trên nơi được ví là “quê hương” của hãng xe tới từ Czech tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.082058+07:00",
+      "fetched": "2025-09-28T13:22:13.082173+07:00"
+    },
+    {
+      "id": "31ef84eb772496e2dee9bfadf37a7c2a",
+      "title": "Washington Post: Iran đẩy nhanh xây cơ sở hạt nhân mới trong lòng núi",
+      "link": "https://tuoitre.vn/washington-post-iran-day-nhanh-xay-co-so-hat-nhan-moi-trong-long-nui-20250928104253103.htm",
+      "summary": "Cuộc tập kích của Mỹ và Israel đã thúc đẩy Iran ráo riết hoàn thiện một cơ sở hạt nhân bí mật khác nằm sâu trong lòng núi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081930+07:00",
+      "fetched": "2025-09-28T13:22:13.082047+07:00"
+    },
+    {
+      "id": "098600cb604315cc393e89e7b9651e4b",
+      "title": "Cựu chủ tịch thị trấn chết trong tư thế treo cổ tại nhà riêng",
+      "link": "https://tuoitre.vn/cuu-chu-tich-thi-tran-chet-trong-tu-the-treo-co-tai-nha-rieng-20250928113851707.htm",
+      "summary": "Ông Đ.V.M. - cựu Chủ tịch UBND thị trấn Cái Nước, huyện Cái Nước, tỉnh Cà Mau - được phát hiện qua đời trong tư thế treo cổ tại nhà riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081802+07:00",
+      "fetched": "2025-09-28T13:22:13.081918+07:00"
+    },
+    {
+      "id": "02091ff496907e66bbd94ef97a5e4dfb",
+      "title": "Xây dựng nhà theo giấy phép có thời hạn, vì sao có nơi hoàn công, nơi không?",
+      "link": "https://tuoitre.vn/xay-dung-nha-theo-giay-phep-co-thoi-han-vi-sao-co-noi-hoan-cong-noi-khong-20250824172529538.htm",
+      "summary": "Có chi nhánh văn phòng đăng ký đất đai nhận hồ sơ hoàn công, có nơi chờ hướng dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081672+07:00",
+      "fetched": "2025-09-28T13:22:13.081790+07:00"
+    },
+    {
+      "id": "6e20b1f459159aad86238bf326c0b0b5",
+      "title": "Bi kịch của trung vệ người Argentina khoác áo Malaysia",
+      "link": "https://tuoitre.vn/bi-kich-cua-trung-ve-nguoi-argentina-khoac-ao-malaysia-20250928100333837.htm",
+      "summary": "Lựa chọn nhập tịch Malaysia đã gần như đóng lại tương lai rực rỡ với trung vệ người Argentina này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081538+07:00",
+      "fetched": "2025-09-28T13:22:13.081660+07:00"
+    },
+    {
+      "id": "3c6c17a97a603899ae071ebf8ef447ef",
+      "title": "Chỉ có 1 cánh tay, Hồng Thương là học sinh giỏi tỉnh, đậu Đại học Sư phạm TP.HCM 28,78 điểm",
+      "link": "https://tuoitre.vn/chi-co-1-canh-tay-hong-thuong-la-hoc-sinh-gioi-tinh-dau-dai-hoc-su-pham-tp-hcm-28-78-diem-20250928065630963.htm",
+      "summary": "Nữ sinh Vĩnh Long sinh ra đã khiếm khuyết cẳng tay phải, sống trong gia đình nghèo khó, nhưng quyết định vượt lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081388+07:00",
+      "fetched": "2025-09-28T13:22:13.081525+07:00"
+    },
+    {
+      "id": "db094aeb1b91b5dc4a4b3f0cf0793113",
+      "title": "Trung Quốc khánh thành cây cầu cao nhất thế giới",
+      "link": "https://tuoitre.vn/trung-quoc-khanh-thanh-cay-cau-cao-nhat-the-gioi-20250928110410212.htm",
+      "summary": "Việc xây cầu vượt đại vực Hoa Giang nhịp chính dài 1.420m chỉ mất hơn 3 năm để hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:22:13.081141+07:00",
+      "fetched": "2025-09-28T13:22:13.081357+07:00"
+    },
     {
       "id": "6b191dba0828fd70049eff7ee46e3b64",
       "title": "Xử phạt vi phạm an toàn giao thông: Thêm hình thức lao động công ích?",
@@ -451,6 +571,376 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T08:20:12.140421+07:00",
       "fetched": "2025-09-28T08:20:12.140644+07:00"
+    },
+    {
+      "id": "0525329a9cde42cc3fe2eef7f90f9590",
+      "title": "Mua bán điện trực tiếp qua lưới riêng tự thỏa thuận giá",
+      "link": "https://thanhnien.vn/mua-ban-dien-truc-tiep-qua-luoi-rieng-tu-thoa-thuan-gia-185250928130349614.htm",
+      "summary": "Đó là một trong những nội dung mới trong dự thảo Nghị quyết về các cơ chế, chính sách tháo gỡ khó khăn phát triển năng lượng quốc gia giai đoạn 2026 - 2030 của Quốc hội, do Bộ Công thương đang lấy ý kiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:20:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334078+07:00"
+    },
+    {
+      "id": "6147341f90d72978bb03090942e524be",
+      "title": "Bệnh viện Đại học Y Dược TP.HCM tổ chức Đêm hội trăng rằm",
+      "link": "https://thanhnien.vn/benh-vien-dai-hoc-y-duoc-tphcm-to-chuc-dem-hoi-trang-ram-185250928131739199.htm",
+      "summary": "Tối 27.9, chương trình Đêm hội Trăng rằm UMC 2025 được tổ chức tại sảnh khu A, Bệnh viện Đại học Y Dược TP.HCM, với sự tham gia của hơn 1.000 em nhỏ là con em viên chức, người lao động của bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:17:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334252+07:00"
+    },
+    {
+      "id": "fd0e9391ce1e4ee49d7a5a35edc354b8",
+      "title": "Chủ tịch Hội Nhà văn TP.HCM Bích Ngân chúc tác giả 'Vân không' tiếp tục... cô đơn",
+      "link": "https://thanhnien.vn/chu-tich-hoi-nha-van-tphcm-bich-ngan-chuc-tac-gia-van-khong-tiep-tuc-co-don-185250928114519379.htm",
+      "summary": "Đến chia vui với 'Vân không' - tập thơ mới của nhà thơ Ngô Thanh Vân, Chủ tịch Hội Nhà văn TP.HCM Trịnh Bích Ngân dành nhiều lời khen cho đồng nghiệp và chúc tác giả tiếp tục...cô đơn để có thêm những tác phẩm hay đến với người yêu thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:15:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334434+07:00"
+    },
+    {
+      "id": "0a8bd62dd557933560a19cd358e4aa5d",
+      "title": "Nga lên tiếng chuyện Mỹ tăng cường hiện diện quân sự xung quanh Venezuela",
+      "link": "https://thanhnien.vn/nga-len-tieng-chuyen-my-tang-cuong-hien-dien-quan-su-xung-quanh-venezuela-185250928121030347.htm",
+      "summary": "Ngoại trưởng Nga Sergei Lavrov ngày 27.9 đã lên tiếng về việc Mỹ tăng cường lực lượng hải quân tại vùng biển quốc tế xung quanh Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:11:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334594+07:00"
+    },
+    {
+      "id": "8c2cbd8ed118005a2ae0f10ab4a89ce3",
+      "title": "Bão số 10: Sạt trượt nghiêm trọng trên tuyến QL14E, nhiều khu vực ngập lụt",
+      "link": "https://thanhnien.vn/bao-so-10-sat-truot-nghiem-trong-tren-tuyen-ql14e-nhieu-khu-vuc-ngap-lut-185250928122206874.htm",
+      "summary": "Mưa lớn kéo dài do ảnh hưởng của bão số 10 đã khiến sạt trượt nghiêm trọng taluy trên tuyến QL14E, đoạn qua xã Phước Hiệp (TP.Đà Nẵng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:03:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334749+07:00"
+    },
+    {
+      "id": "0669801c7eb7c558d4eccc8c3fd9a86e",
+      "title": "Ba dấu hiệu thiếu sắt phụ nữ thường bỏ qua",
+      "link": "https://vnexpress.net/ba-dau-hieu-thieu-sat-phu-nu-thuong-bo-qua-4944415.html",
+      "summary": "Phái đẹp thiếu sắt thường có biểu hiện như chân tay lạnh, mệt mỏi mạn tính, chóng mặt, dễ nhầm lẫn với căng thẳng, mất ngủ lâu ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.651990+07:00"
+    },
+    {
+      "id": "1e6422441f2e002d806ee1d8a35fa600",
+      "title": "'Hạc Vỹ Lan': Khi phòng trà hóa thành sân khấu trinh thám",
+      "link": "https://thanhnien.vn/hac-vy-lan-khi-phong-tra-hoa-thanh-san-khau-trinh-tham-185250928115054946.htm",
+      "summary": "Trên sân khấu Thiên Đăng, vở kịch 'Hạc Vỹ Lan' (tác giả Thanh Hương - đạo diễn Hoàng Thái Quốc) như mở ra một thời hoài niệm của những phòng trà Sài Gòn trước 1975.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T06:00:00+07:00",
+      "fetched": "2025-09-28T13:22:12.334903+07:00"
+    },
+    {
+      "id": "cf2cd25e323d4f4d0d7475912adbe6ff",
+      "title": "Cần Thơ: Công tâm bầu cán bộ đủ chuẩn vào Ban Chấp hành T.Ư Đảng khóa XIV",
+      "link": "https://thanhnien.vn/can-tho-cong-tam-bau-can-bo-du-chuan-vao-ban-chap-hanh-tu-dang-khoa-xiv-185250928112008934.htm",
+      "summary": "Đoàn đại biểu TP.Cần Thơ hứa sẽ công tâm bầu những cán bộ thật sự tiêu biểu về trí tuệ, phẩm chất, có tư duy đổi mới… vào Ban Chấp hành T.Ư Đảng khóa XIV, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:56:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335061+07:00"
+    },
+    {
+      "id": "8ba9289759eb594ee7e1a4990cde362f",
+      "title": "Pin xe điện mới của Trung Quốc đi được 700 km chỉ sau 10 phút sạc",
+      "link": "https://thanhnien.vn/pin-xe-dien-moi-cua-trung-quoc-di-duoc-700-km-chi-sau-10-phut-sac-185250927122925384.htm",
+      "summary": "Đột phá pin từ Trung Quốc có thể thay đổi cuộc chơi xe điện toàn cầu với khả năng sạc siêu nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:54:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335220+07:00"
+    },
+    {
+      "id": "347b08785f49ee407de8e3e8de032e9b",
+      "title": "Doanh số ế ẩm, xe Trung Quốc Jaecoo J7 thêm bản off-road tìm thị trường ngách?",
+      "link": "https://thanhnien.vn/doanh-so-e-am-xe-trung-quoc-jaecoo-j7-them-ban-off-road-tim-thi-truong-ngach-185250927234448322.htm",
+      "summary": "Thương hiệu xe Trung Quốc - Jaecoo đang \"rục rịch\" đưa về Việt Nam một phiên bản dẫn động 4 bánh của mẫu J7 vào cuối năm nay như một nỗ lực nhằm cứu vãn tình thế, trong bối cảnh doanh số mẫu SUV, crossover này đang rất \"ảm đạm\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:53:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335391+07:00"
+    },
+    {
+      "id": "6d33a3fabeaf16c06730b20e09568a71",
+      "title": "'Bà ngoại đi phượt' - nghỉ hưu như món quà",
+      "link": "https://vnexpress.net/ba-ngoai-di-phuot-nghi-huu-nhu-mon-qua-4944561.html",
+      "summary": "Tác giả Nguyễn Thị Minh Lý viết chuyện xin nghỉ hưu để thực hiện đam mê du lịch xuyên Việt, trong cuốn ''Bà ngoại đi phượt''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:50:26+07:00",
+      "fetched": "2025-09-28T13:22:02.652170+07:00"
+    },
+    {
+      "id": "a6f05d7029cd10490fbf40ae454b4387",
+      "title": "CSGT phạt nguội bằng trí tuệ nhân tạo, tài xế 'hết đường' chối lỗi",
+      "link": "https://thanhnien.vn/csgt-phat-nguoi-bang-tri-tue-nhan-tao-tai-xe-het-duong-choi-loi-185250927152203052.htm",
+      "summary": "Hệ thống camera AI phạt nguội thí điểm tại Hà Nội cho thấy khả năng ghi hình siêu nét, phát hiện hàng nghìn trường hợp vi phạm giao thông trong thời gian ngắn, khiến tài xế khó còn cơ hội chối lỗi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:49:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335550+07:00"
+    },
+    {
+      "id": "fb816dfde6fd882d42e8a5ac2f2bef01",
+      "title": "Uẩn khúc trong vụ bé gái 14 tuổi tử vong sau phẫu thuật nâng ngực",
+      "link": "https://vnexpress.net/uan-khuc-trong-vu-be-gai-14-tuoi-tu-vong-sau-phau-thuat-nang-nguc-4944609.html",
+      "summary": "Vợ cũ nói con gái 14 tuổi tử vong do Covid, song tại đám tang người cha phát hiện thi thể con có dấu vết phẫu thuật nâng ngực, mông... trong khi bạn trai mới của vợ là bác sĩ thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:47:19+07:00",
+      "fetched": "2025-09-28T13:22:02.652337+07:00"
+    },
+    {
+      "id": "7909a848ee542e46db52d64f33bf824d",
+      "title": "Bóng đá Malaysia và vết thương khó lành: 'Hệ lụy vượt xa phạm vi đội tuyển'",
+      "link": "https://thanhnien.vn/bong-da-malaysia-va-vet-thuong-kho-lanh-he-luy-vuot-xa-pham-vi-doi-tuyen-185250928124224516.htm",
+      "summary": "Bóng đá Malaysia đang trải qua một trong những biến cố lớn nhất lịch sử sau khi FIFA quyết định treo giò 7 tuyển thủ quốc gia trong vòng 12 tháng và phạt Liên đoàn Bóng đá Malaysia (FAM) 250.000 franc Thụy Sĩ (khoảng 11,5 tỉ đồng) vì liên quan đến vụ làm giả giấy tờ và sử dụng cầu thủ không hợp lệ t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:47:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335703+07:00"
+    },
+    {
+      "id": "5f527c8a6296c8b4d811cbeef096df20",
+      "title": "Chồng làm trụ cột kinh tế nhưng về nhà bắt tôi bóp chân, bóp đầu",
+      "link": "https://vnexpress.net/chong-lam-tru-cot-kinh-te-nhung-coi-toi-nhu-nguoi-hau-4944290.html",
+      "summary": "Bỏ tiền sửa nhà cho mẹ vợ, cho tôi tiền chuẩn bị đám cưới, nhưng ngày nào đi làm về chồng cũng bắt tôi bóp chân, bóp tay, bóp đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:34:29+07:00",
+      "fetched": "2025-09-28T13:22:02.652527+07:00"
+    },
+    {
+      "id": "b6d2d289f03be7d68b8e4fedbba72222",
+      "title": "Thí điểm giá bán điện 2 thành phần với hơn 6.200 khách hàng lớn từ tháng 10",
+      "link": "https://thanhnien.vn/thi-diem-gia-ban-dien-2-thanh-phan-voi-hon-6200-khach-hang-lon-tu-thang-10-185250928122210415.htm",
+      "summary": "Tập đoàn Điện lực Việt Nam vừa có chỉ đạo các tổng công ty điện lực, Công ty Viễn thông và Công nghệ thông tin chuẩn bị triển khai giá bán lẻ điện 2 thành phần. Dự kiến, áp dụng \"thí điểm trên giấy\" với những khách hàng sử dụng trung bình từ 200.000kWh/tháng trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:34:00+07:00",
+      "fetched": "2025-09-28T13:22:12.335855+07:00"
+    },
+    {
+      "id": "cde731028fea8b4fe7f423e8022544bf",
+      "title": "Cà Mau: Phát hiện nguyên Chủ tịch UBND TT.Cái Nước tử vong tại nhà riêng",
+      "link": "https://thanhnien.vn/ca-mau-phat-hien-nguyen-chu-tich-ubnd-ttcai-nuoc-tu-vong-tai-nha-rieng-185250928113138829.htm",
+      "summary": "Ông Đ.V.M, nguyên Chủ tịch UBND TT.Cái Nước, H.Cái Nước, Cà Mau (cũ) được phát hiện tử vong tại nhà riêng trong tư thế treo cổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:29:00+07:00",
+      "fetched": "2025-09-28T13:22:12.336006+07:00"
+    },
+    {
+      "id": "7eb8eb04f52450ebdd5909433bbc6d95",
+      "title": "Bão số 10: 'Hố tử thần' sâu 10 m xuất hiện tại xã vùng cao Đà Nẵng",
+      "link": "https://thanhnien.vn/bao-so-10-ho-tu-than-sau-10-m-xuat-hien-tai-xa-vung-cao-da-nang-185250928113438971.htm",
+      "summary": "Bão số 10 đã gây mưa lớn kéo dài, khiến nhiều nơi tại các xã miền núi của TP.Đà Nẵng xảy ra sạt lở nghiêm trọng. Đáng chú ý, một 'hố tử thần' sâu 10 m, rộng hơn 5 m đã bất ngờ xuất hiện trên tuyến QL14D.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:24:00+07:00",
+      "fetched": "2025-09-28T13:22:12.336155+07:00"
+    },
+    {
+      "id": "fcb096cc1422169708bc9079c84d8a7f",
+      "title": "TP.HCM diễn tập PCCC hầm sông Sài Gòn, có robot TAF35",
+      "link": "https://thanhnien.vn/tphcm-dien-tap-pccc-ham-song-sai-gon-co-robot-taf35-185250928115007015.htm",
+      "summary": "Gần 400 người tham gia diễn tập PCCC và cứu nạn cứu hộ tại đường hầm sông Sài Gòn, TP.HCM sáng 28.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:22:00+07:00",
+      "fetched": "2025-09-28T13:22:12.336305+07:00"
+    },
+    {
+      "id": "85b5bb3fa75f097bc0c09f5f318eac25",
+      "title": "Bắc Trung Bộ có gió mạnh từ chiều nay",
+      "link": "https://vnexpress.net/bac-trung-bo-co-gio-manh-tu-chieu-nay-4944608.html",
+      "summary": "Gió trên cấp 8 xuất hiện ở Thanh Hóa - bắc Quảng Trị từ khoảng 16h hôm nay và tăng dần lên cấp 10-12 lúc 22h khi tâm bão vào đất liền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:17:19+07:00",
+      "fetched": "2025-09-28T13:22:02.652688+07:00"
+    },
+    {
+      "id": "1ff856a425782b05da9432e8c2def77d",
+      "title": "Cuộc cải tổ tỷ USD của Starbucks",
+      "link": "https://vnexpress.net/cuoc-cai-to-ty-usd-cua-starbucks-4944458.html",
+      "summary": "Nhằm vực dậy kinh doanh ở Bắc Mỹ, CEO Starbucks tung kế hoạch tái cấu trúc 1 tỷ USD để đóng hàng trăm cửa hàng và sa thải nhân sự,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:10:00+07:00",
+      "fetched": "2025-09-28T13:22:02.652858+07:00"
+    },
+    {
+      "id": "1ff856a425782b05da9432e8c2def77d",
+      "title": "Cuộc cải tổ tỷ USD của Starbucks",
+      "link": "https://vnexpress.net/cuoc-cai-to-ty-usd-cua-starbucks-4944458.html",
+      "summary": "Nhằm vực dậy kinh doanh ở Bắc Mỹ, CEO Starbucks tung kế hoạch tái cấu trúc 1 tỷ USD để đóng hàng trăm cửa hàng và sa thải nhân sự,",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T05:10:00+07:00",
+      "fetched": "2025-09-28T13:22:15.816069+07:00"
+    },
+    {
+      "id": "a2f8c35c8deef34efa091c5447fe1665",
+      "title": "Người dân sơ tán trước khi bão Bualoi đổ bộ",
+      "link": "https://vnexpress.net/nguoi-dan-so-tan-truoc-khi-bao-bualoi-do-bo-4944588.html",
+      "summary": "Sáng 28/9, chính quyền tỉnh Hà Tĩnh và Nghệ An di dời hàng nghìn hộ dân sống gần biển và các địa bàn xung yếu đến trường học, nhà văn hóa để phòng bão Bualoi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:01:58+07:00",
+      "fetched": "2025-09-28T13:22:02.653021+07:00"
+    },
+    {
+      "id": "36284e2f64b280fee342310581c5105a",
+      "title": "Bị chồng mắng lăng loàn chỉ vì cậu bạn đại học bóp vào vai tôi",
+      "link": "https://vnexpress.net/bi-chong-mang-lang-loan-chi-vi-cau-ban-dai-hoc-bop-vao-vai-toi-4944571.html",
+      "summary": "Anh chửi tôi với đủ từ ngữ xúc phạm như kiểu tôi bồ bịch, nay người này, mai người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.653187+07:00"
+    },
+    {
+      "id": "1a6a5f39e097468e3650c79ac9108f9d",
+      "title": "Sam Altman muốn xây dựng hạ tầng AI quan trọng nhất lịch sử",
+      "link": "https://vnexpress.net/sam-altman-muon-xay-dung-ha-tang-ai-quan-trong-nhat-lich-su-4944519.html",
+      "summary": "CEO Open AI đặt mục tiêu đầy tham vọng là xây dựng một nhà máy có thể sản xuất được 1 GW hạ tầng AI mỗi tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.653349+07:00"
+    },
+    {
+      "id": "b2e2d1842c011cc68e5cc4d3d3192a0c",
+      "title": "Quan Vũ được tôn 'Võ thánh', còn 'Võ thần' là ai?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quan-vu-duoc-ton-vo-thanh-con-vo-than-la-ai-4943952.html",
+      "summary": "Trong Tam quốc diễn nghĩa, Quan Vũ được tôn 'Võ thánh', và một danh tướng được người đời tôn làm 'Võ thần', đó là ai?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.653549+07:00"
+    },
+    {
+      "id": "49e641c32e244dbd544b964fb3e17e54",
+      "title": "Lý do gây đầy bụng sau ăn",
+      "link": "https://vnexpress.net/ly-do-gay-day-bung-sau-an-4944512.html",
+      "summary": "Thói quen ăn quá nhanh hoặc ăn nhiều rau một lúc có thể dẫn đến đầy hơi, tuy nhiên triệu chứng này còn là dấu hiệu của nhiều bệnh nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.653716+07:00"
+    },
+    {
+      "id": "f4c891b2aa379c8b207158d5c7ba93c5",
+      "title": "Điều gì xảy ra với đường huyết khi ăn quả bơ?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-huyet-khi-an-qua-bo-4944432.html",
+      "summary": "Quả bơ giàu chất xơ, chỉ số đường huyết (GI) thấp nhưng khi kết hợp với quá nhiều đường có thể khiến lượng đường trong máu tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:02.653876+07:00"
+    },
+    {
+      "id": "1a6a5f39e097468e3650c79ac9108f9d",
+      "title": "Sam Altman muốn xây dựng hạ tầng AI quan trọng nhất lịch sử",
+      "link": "https://vnexpress.net/sam-altman-muon-xay-dung-ha-tang-ai-quan-trong-nhat-lich-su-4944519.html",
+      "summary": "CEO Open AI đặt mục tiêu đầy tham vọng là xây dựng một nhà máy có thể sản xuất được 1 GW hạ tầng AI mỗi tuần.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T05:00:00+07:00",
+      "fetched": "2025-09-28T13:22:18.247292+07:00"
+    },
+    {
+      "id": "e1dc9f4ed7c5b5189cdf1d85bdf773cd",
+      "title": "Lý do Khánh Hòa trở thành 'thủ phủ' của khách Nga",
+      "link": "https://vnexpress.net/ly-do-khanh-hoa-tro-thanh-thu-phu-cua-khach-nga-4943033.html",
+      "summary": "Với hàng chục chuyến bay thẳng mỗi tuần cùng lợi thế biển xanh, nắng ấm quanh năm, hệ sinh thái dịch vụ hoàn thiện, Khánh Hòa đang là điểm đến chiếm tới 75% tổng lượng khách Nga đến Việt Nam",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:53:51+07:00",
+      "fetched": "2025-09-28T13:22:02.654033+07:00"
+    },
+    {
+      "id": "46d558abf52222d0f62c7b74a1aa9b03",
+      "title": "Gỏi cá nhệch là đặc sản của tỉnh nào?",
+      "link": "https://vnexpress.net/goi-ca-nhech-la-dac-san-cua-tinh-nao-4944558.html",
+      "summary": "Món gỏi có cách ăn đặc biệt, vị ngọt mát, béo bùi, thơm mùi chẻo, là đặc sản của một tỉnh ở miền Bắc Trung Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:46:48+07:00",
+      "fetched": "2025-09-28T13:22:02.654192+07:00"
+    },
+    {
+      "id": "2e87781763ec4bd03c7360eb6c7ce76c",
+      "title": "Trung Quốc thông xe cầu cao nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-cau-cao-nhat-the-gioi-4944603.html",
+      "summary": "Cầu bắc qua hẻm núi Hoa Giang với độ cao tương đương hai tháp Eiffel xếp chồng lên nhau hôm nay thông xe, trở thành biểu tượng cho trình độ kỹ thuật của Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:45:42+07:00",
+      "fetched": "2025-09-28T13:22:02.654356+07:00"
+    },
+    {
+      "id": "2e87781763ec4bd03c7360eb6c7ce76c",
+      "title": "Trung Quốc thông xe cầu cao nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-cau-cao-nhat-the-gioi-4944603.html",
+      "summary": "Cầu bắc qua hẻm núi Hoa Giang với độ cao tương đương hai tháp Eiffel xếp chồng lên nhau hôm nay thông xe, trở thành biểu tượng cho trình độ kỹ thuật của Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T04:45:42+07:00",
+      "fetched": "2025-09-28T13:22:14.923357+07:00"
+    },
+    {
+      "id": "16b6dd66c9610b6746c7315655a1ecda",
+      "title": "Cuộc thanh trừng ở thượng tầng Arsenal",
+      "link": "https://vnexpress.net/cuoc-thanh-trung-o-thuong-tang-arsenal-4944201.html",
+      "summary": "Arsenal vừa trải qua một cơn địa chấn ngoài sân cỏ khi Tim Lewis - luật sư được xem là \"quyền lực số một\" sau nhà Kroenke - bất ngờ bị loại bỏ khỏi bộ máy điều hành.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T04:39:01+07:00",
+      "fetched": "2025-09-28T13:22:19.618067+07:00"
+    },
+    {
+      "id": "569282d947ff9f2fee893636044d19f4",
+      "title": "Messi đứt chuỗi ghi bàn ở MLS",
+      "link": "https://vnexpress.net/messi-dut-chuoi-ghi-ban-o-mls-4944540.html",
+      "summary": "Lionel Messi không ghi bàn hay kiến tạo, ở trận Inter Miami hòa Toronto FC 1-1 tại vòng 32 giải bóng đá nhà nghề Mỹ (MLS) hôm 27/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T04:37:58+07:00",
+      "fetched": "2025-09-28T13:22:19.618242+07:00"
+    },
+    {
+      "id": "cd7af1e2892776716ed69c4ead4518d0",
+      "title": "Alonso: 'Thất bại ở derby Madrid phải trở thành nỗi đau tích cực'",
+      "link": "https://vnexpress.net/alonso-that-bai-o-derby-madrid-phai-tro-thanh-noi-dau-tich-cuc-4944537.html",
+      "summary": "HLV Xabi Alonso thừa nhận Real Madrid đá tệ và cần cải thiện nhiều, sau khi thua Atletico 2-5 ở vòng 7 và đứt mạch toàn thắng tại La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T04:36:47+07:00",
+      "fetched": "2025-09-28T13:22:19.618428+07:00"
+    },
+    {
+      "id": "65122091d716c135d224f59a019cfd8a",
+      "title": "Thái Lan - Campuchia tranh cãi tại LHQ về căng thẳng biên giới",
+      "link": "https://vnexpress.net/thai-lan-campuchia-tranh-cai-tai-lhq-ve-cang-thang-bien-gioi-4944583.html",
+      "summary": "Campuchia cáo buộc \"láng giềng\" hủy hoại hòa bình, trong khi Thái Lan nói Phnom Penh làm leo thang tranh chấp biên giới, khi quan chức hai nước phát biểu tại LHQ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T04:17:45+07:00",
+      "fetched": "2025-09-28T13:22:14.923557+07:00"
     },
     {
       "id": "a1421023c16434c135fc8befae4d30c0",
