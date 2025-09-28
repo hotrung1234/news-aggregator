@@ -1,7 +1,117 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T19:29:56.180618+07:00",
+  "lastUpdated": "2025-09-28T21:13:58.555801+07:00",
   "articles": [
+    {
+      "id": "a363fd24d98051500726742d00accc97",
+      "title": "Bão Bualoi: 1 người chết, 4 người mất tích, 28.000 người dân đi tránh bão",
+      "link": "https://tuoitre.vn/bao-bualoi-1-nguoi-chet-4-nguoi-mat-tich-28-000-nguoi-dan-di-tranh-bao-20250928172216951.htm",
+      "summary": "Theo báo cáo nhanh đến 17h chiều 28-9 của các tỉnh thành Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, bão số 10 và mưa lớn làm một người ở Huế tử vong do trượt chân bị nước cuốn trôi tối 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.220541+07:00",
+      "fetched": "2025-09-28T21:13:50.220652+07:00"
+    },
+    {
+      "id": "f1c83ec3672c46b298b5868a5faa0679",
+      "title": "Nam Định - Công An Hà Nội (hiệp 2) 0-1: Leo Artur sút xa mở tỉ số",
+      "link": "https://tuoitre.vn/nam-dinh-cong-an-ha-noi-hiep-2-0-1-leo-artur-sut-xa-mo-ti-so-20250928102014803.htm",
+      "summary": "Ở phút 38, Công An Hà Nội có pha tấn công nguy hiểm ở trung lộ và Leo Artur tung cú sút xa đẹp mắt từ ngoài vòng cấm ghi bàn thắng mở tỉ số 1-0 cho đội khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.220278+07:00",
+      "fetched": "2025-09-28T21:13:50.220390+07:00"
+    },
+    {
+      "id": "70711416e89117f79bd2096cad80604b",
+      "title": "Điểm tin 18h: Siêu thị tăng hàng thiết yếu mùa bão; Trung Quốc khánh thành cầu cao nhất thế giới",
+      "link": "https://tuoitre.vn/diem-tin-18h-sieu-thi-tang-hang-thiet-yeu-mua-bao-trung-quoc-khanh-thanh-cau-cao-nhat-the-gioi-20250928144136663.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 28-9-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.220145+07:00",
+      "fetched": "2025-09-28T21:13:50.220266+07:00"
+    },
+    {
+      "id": "f4e46bfcd876280bcf6024ba1dd1e93f",
+      "title": "Flycam hiện trạng dự án đô thị lấn biển Cần Giờ sau gần nửa năm khởi công",
+      "link": "https://tuoitre.vn/flycam-hien-trang-du-an-do-thi-lan-bien-can-gio-sau-gan-nua-nam-khoi-cong-20250928172612276.htm",
+      "summary": "Sau gần nửa năm khởi công, dự án khu đô thị du lịch lấn biển tại Cần Giờ - Vinhomes Green Paradise của Tập đoàn Vingroup đang trở thành công trường bơm cát san nền quy mô với cả trăm tàu hoạt động ngày đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.220008+07:00",
+      "fetched": "2025-09-28T21:13:50.220132+07:00"
+    },
+    {
+      "id": "db9b8aa5a1ebc8cad7649d91f874530a",
+      "title": "Đánh giá năng lực cán bộ bằng KPI, Tỉnh ủy Quảng Ngãi yêu cầu phải làm ngay",
+      "link": "https://tuoitre.vn/danh-gia-nang-luc-can-bo-bang-kpi-tinh-uy-quang-ngai-yeu-cau-phai-lam-ngay-20250928160300654.htm",
+      "summary": "Trong văn bản 01 về chương trình hành động của Ban Chấp hành Đảng bộ tỉnh Quảng Ngãi, một trong những việc phải làm ngay là đánh giá năng lực cán bộ bằng chỉ tiêu KPI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219885+07:00",
+      "fetched": "2025-09-28T21:13:50.219997+07:00"
+    },
+    {
+      "id": "c11331f9c2c3d74c67920f3a54c5d295",
+      "title": "Dàn sao 'Ngự trù của bạo chúa' nói lời tri ân trước khi tập cuối phát sóng",
+      "link": "https://tuoitre.vn/dan-sao-ngu-tru-cua-bao-chua-noi-loi-tri-an-truoc-khi-tap-cuoi-phat-song-20250928180740332.htm",
+      "summary": "Trước giờ phát sóng tập cuối tối 28-9, dàn sao 'Ngự trù của bạo chúa' (Bon Appétit, Your Majesty) đồng loạt gửi lời cảm ơn và chia sẻ kỷ niệm trong suốt 8 tháng gắn bó với bộ phim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219762+07:00",
+      "fetched": "2025-09-28T21:13:50.219874+07:00"
+    },
+    {
+      "id": "41ff164c76ddb50748d3291786f9d3ca",
+      "title": "CLB TP.HCM vươn lên dẫn đầu Giải hạng nhất",
+      "link": "https://tuoitre.vn/clb-tp-hcm-vuon-len-dan-dau-giai-hang-nhat-2025092818105547.htm",
+      "summary": "CLB TP.HCM đã vươn lên dẫn đầu Giải hạng nhất 2025-2026 sau khi đánh bại Trẻ PVF-CAND trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219636+07:00",
+      "fetched": "2025-09-28T21:13:50.219750+07:00"
+    },
+    {
+      "id": "719606aee435ee4bef92714a88494bdc",
+      "title": "Cá voi dài 10m dạt vào đảo Bé Lý Sơn, người dân chờ hết bão số 10 sẽ an táng",
+      "link": "https://tuoitre.vn/ca-voi-dai-10m-dat-vao-dao-be-ly-son-nguoi-dan-cho-het-bao-so-10-se-an-tang-20250928180750102.htm",
+      "summary": "Trong lúc sóng to gió lớn do ảnh hưởng của bão số 10, người dân đảo Bé, đặc khu Lý Sơn, Quảng Ngãi phát hiện một xác cá voi dạt vào bờ ở khu vực gần danh thắng trầm tích núi lửa Hòn Đụn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219506+07:00",
+      "fetched": "2025-09-28T21:13:50.219625+07:00"
+    },
+    {
+      "id": "2246cfebb86f5bace4d1eaf1655d2e35",
+      "title": "Các tàu thuyền đã vào hết bờ; vùng biển Hải Phòng có sóng cao 2-3m",
+      "link": "https://tuoitre.vn/cac-tau-thuyen-da-vao-het-bo-vung-bien-hai-phong-co-song-cao-2-3m-20250928175935598.htm",
+      "summary": "Khu vực biển ở đặc khu Bạch Long Vĩ, đặc khu Cát Hải và phường Đồ Sơn, thành phố Hải Phòng có sóng cao 2-3m do ảnh hưởng của bão Bualoi (bão số 10).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219354+07:00",
+      "fetched": "2025-09-28T21:13:50.219493+07:00"
+    },
+    {
+      "id": "65e0fded06c25d10d43c666f4f72246d",
+      "title": "Đến hạn 1-10, xe doanh nghiệp vẫn được dùng tài khoản thu phí VETC, ePass qua trạm",
+      "link": "https://tuoitre.vn/den-han-1-10-xe-doanh-nghiep-van-duoc-dung-tai-khoan-thu-phi-vetc-epass-qua-tram-20250928181842927.htm",
+      "summary": "Đó là thông tin mới nhất liên quan việc chuyển đổi sang tài khoản giao thông định danh theo quy định của nghị định 119 được Công ty TNHH thu phí tự động VETC thông tin chiều 28-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.219214+07:00",
+      "fetched": "2025-09-28T21:13:50.219342+07:00"
+    },
+    {
+      "id": "56e45f37750522bd94f241816da82d98",
+      "title": "Phó Thủ tướng Trần Hồng Hà kiểm tra ứng phó bão Bualoi ở Nghệ An",
+      "link": "https://tuoitre.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-ung-pho-bao-bualoi-o-nghe-an-20250928184410391.htm",
+      "summary": "Kiểm tra việc ứng phó với bão Bualoi (bão số 10) ở Nghệ An, Phó Thủ tướng Chính phủ Trần Hồng Hà yêu cầu các lực lượng tại chỗ bám sát cơ sở, hỗ trợ người dân ứng phó bão và sau bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:13:50.218991+07:00",
+      "fetched": "2025-09-28T21:13:50.219199+07:00"
+    },
     {
       "id": "f9bc25fdc384502f2c57191989c6db3f",
       "title": "Sau im ắng vì cáo buộc tấn công tình dục 6 năm trước, Kim Gun Mo trở lại sân khấu",
@@ -423,6 +533,126 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T15:18:23.805037+07:00"
     },
     {
+      "id": "871f69c57d847de34c1f30176ff2d876",
+      "title": "Camera AI phát hiện hơn 700 trường hợp vi phạm giao thông trong 24 giờ",
+      "link": "https://thanhnien.vn/camera-ai-phat-hien-hon-700-truong-hop-vi-pham-giao-thong-trong-24-gio-185250928094151467.htm",
+      "summary": "Chỉ trong 24 giờ, hệ thống camera AI được lắp đặt thí điểm đã phát hiện hơn 700 trường hợp vi phạm giao thông, chủ yếu đến từ người điều khiển mô tô không đội nón bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:58:00+07:00",
+      "fetched": "2025-09-28T21:13:49.284573+07:00"
+    },
+    {
+      "id": "c79b1e772e6a8a3be054d0a2c548b724",
+      "title": "Cơ thủ Đài Loan nhận 1,8 tỉ đồng khi vô địch thế giới trên đất Việt Nam",
+      "link": "https://thanhnien.vn/co-thu-dai-loan-nhan-18-ti-dong-khi-vo-dich-the-gioi-tren-dat-viet-nam-18525092820535803.htm",
+      "summary": "Tối 28.9, cơ thủ Ko Ping Chung (Đài Loan) giành chiến thắng thuyết phục 3-1 trước Alex Kazakis (Hy Lạp) trong trận chung kết giải vô địch thế giới 10 bi nam 2025, diễn ra tại nhà thi đấu Quân khu 7 (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:55:00+07:00",
+      "fetched": "2025-09-28T21:13:49.284741+07:00"
+    },
+    {
+      "id": "113410c6daa842db703a60cd3f1022d6",
+      "title": "Nhà vô địch cờ tướng thế giới Lại Lý Huynh: 'Ngày đăng quang đúng ngày thôi nôi con gái’",
+      "link": "https://thanhnien.vn/nha-vo-dich-co-tuong-the-gioi-lai-ly-huynh-ngay-dang-quang-dung-ngay-thoi-noi-con-gai-185250928203122223.htm",
+      "summary": "Nhà vô địch cờ tướng thế giới 2025 Lại Lý Huynh cho biết, niềm tin cùng khát khao chiến thắng đã giúp anh lên đỉnh vinh quang ngay tại Bến Thượng Hải (Trung Quốc), chiếc nôi của làng cờ tướng thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:55:00+07:00",
+      "fetched": "2025-09-28T21:13:49.284896+07:00"
+    },
+    {
+      "id": "651a4c5f3213fb18697865e9b106f98d",
+      "title": "Ông Hoàng Quốc Khánh tái cử Bí thư tỉnh Sơn La",
+      "link": "https://vnexpress.net/ong-hoang-quoc-khanh-tai-cu-bi-thu-tinh-son-la-4944710.html",
+      "summary": "Ông Hoàng Quốc Khánh, Bí thư Tỉnh ủy khóa 15, được bầu giữ chức Bí thư Tỉnh ủy Sơn La nhiệm kỳ 2025-2030 vơi số phiếu tán thành tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:52:04+07:00",
+      "fetched": "2025-09-28T21:12:34.585400+07:00"
+    },
+    {
+      "id": "27c2362e33590b85c2bf3228d92fddbd",
+      "title": "Phó thủ tướng Trần Hồng Hà thăm người dân ở khu tránh trú bão của Hà Tĩnh",
+      "link": "https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-tham-nguoi-dan-o-khu-tranh-tru-bao-cua-ha-tinh-185250928203837085.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu tỉnh Hà Tĩnh tiếp tục theo dõi sát diễn biến thời tiết, chủ động các giải pháp ứng phó với cơn bão số 10 (Bualoi) và đặt sự an toàn của người dân lên trên hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:52:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285047+07:00"
+    },
+    {
+      "id": "a4d915737bca9ace2e760581154218e6",
+      "title": "Xả súng vào quán bar ở Mỹ, ba người thiệt mạng",
+      "link": "https://vnexpress.net/xa-sung-vao-quan-bar-o-my-ba-nguoi-thiet-mang-4944706.html",
+      "summary": "Ba người chết và ít nhất 8 người bị thương sau khi nghi phạm lái thuyền áp sát quán bar ở Bắc Carolina và xả đạn vào bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:43:13+07:00",
+      "fetched": "2025-09-28T21:12:34.585626+07:00"
+    },
+    {
+      "id": "a4d915737bca9ace2e760581154218e6",
+      "title": "Xả súng vào quán bar ở Mỹ, ba người thiệt mạng",
+      "link": "https://vnexpress.net/xa-sung-vao-quan-bar-o-my-ba-nguoi-thiet-mang-4944706.html",
+      "summary": "Ba người chết và ít nhất 8 người bị thương sau khi nghi phạm lái thuyền áp sát quán bar ở Bắc Carolina và xả đạn vào bên trong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T13:43:13+07:00",
+      "fetched": "2025-09-28T21:13:52.013496+07:00"
+    },
+    {
+      "id": "2f26357677e7580feb954da0686cce5d",
+      "title": "Nóng: HLV Phan Như Thuật từ chức sau trận SLNA thua ngược CLB Công an TP.HCM",
+      "link": "https://thanhnien.vn/nong-hlv-phan-nhu-thuat-tu-chuc-sau-tran-slna-thua-nguoc-clb-cong-an-tphcm-185250928203702653.htm",
+      "summary": "Tối 28.9, HLV Phan Như Thuật, thuyền trưởng SLNA quyết định từ chức sau chuỗi thành tích không được như kỳ vọng ở V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:38:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285196+07:00"
+    },
+    {
+      "id": "a46f660f0c6bb78be8dde08d3f4bee29",
+      "title": "Robot TAF35 'biểu diễn' chữa cháy trong hầm sông Sài Gòn",
+      "link": "https://thanhnien.vn/robot-taf35-bieu-dien-chua-chay-trong-ham-song-sai-gon-185250928190049221.htm",
+      "summary": "Được ví như ‘tiểu xe tăng’, robot chữa cháy TAF35 của Công an TP.HCM dài 3 mét, nặng gần 4 tấn, chạy bằng bánh xích cao su chắc chắn. Robot này có thể vượt dốc, xoay vòng 360 độ và… đi với tốc độ 9 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:32:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285349+07:00"
+    },
+    {
+      "id": "1554f82e47016dc58735e58ac2db7a0a",
+      "title": "Làm thế nào để chứng minh tội diệt chủng, tội ác chiến tranh nặng nhất?",
+      "link": "https://thanhnien.vn/lam-the-nao-de-chung-minh-toi-diet-chung-toi-ac-chien-tranh-nang-nhat-185250927223307125.htm",
+      "summary": "Một ủy ban điều tra của Liên Hiệp Quốc đã kết luận Israel phạm tội diệt chủng ở Gaza, cáo buộc mà Israel liên tục phủ nhận. Hãy cùng tìm hiểu cách định nghĩa tội diệt chủng về mặt pháp lý và cách thức Liên Hiệp Quốc điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:28:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285516+07:00"
+    },
+    {
+      "id": "df58580d7ba919efd7d0b3ebf6b37ac9",
+      "title": "Trioderma - Thương hiệu dược mỹ phẩm chăm sóc da dầu mụn dành cho tuổi teen",
+      "link": "https://thanhnien.vn/trioderma-thuong-hieu-duoc-my-pham-cham-soc-da-dau-mun-danh-cho-tuoi-teen-185250928200840348.htm",
+      "summary": "Tuổi dậy thì thường gặp phải tình trạng mụn viêm, mụn trứng cá do thay đổi nội tiết và tăng tiết bã nhờn. Trioderma là người bạn đồng hành cùng tuổi Teen gỡ rối, vượt qua giai đoạn nhạy cảm với làn da khó chiều một cách hiệu quả và khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:27:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285665+07:00"
+    },
+    {
+      "id": "bc3939b7f84e10f50c14aa5dd42c43ea",
+      "title": "Vụ cứu nạn 2 tàu cá chìm tại Quảng Trị: Khi người hùng Vietship 01 trở lại",
+      "link": "https://thanhnien.vn/vu-cuu-nan-2-tau-ca-chim-tai-quang-tri-khi-nguoi-hung-vietship-01-tro-lai-185250928194555353.htm",
+      "summary": "5 năm sau vụ tàu Vietship 01 bị nước lũ cuốn trôi, ông Võ Văn Dũng (52 tuổi, Quảng Trị) lại tiếp tục dấn thân ra biển giữa sóng dữ, cùng đồng đội cứu sống 7 thuyền viên trên 2 tàu cá bị chìm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:26:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285819+07:00"
+    },
+    {
       "id": "2d2257064e51eda5e65ad86c0d337df1",
       "title": "‘Thần đèn’ miễn phí dời căn nhà xây nhầm trên đất người khác; Camera AI phạt nguội sẽ có khắp nơi",
       "link": "https://tuoitre.vn/than-den-mien-phi-doi-can-nha-xay-nham-tren-dat-nguoi-khac-camera-ai-phat-nguoi-se-co-khap-noi-20250928085522033.htm",
@@ -541,6 +771,156 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T13:22:13.081141+07:00",
       "fetched": "2025-09-28T13:22:13.081357+07:00"
+    },
+    {
+      "id": "2afc30eabf11109f7454b0fdb7b2299c",
+      "title": "Nam Định không thắng liền 3 trận ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-khong-thang-lien-3-tran-o-v-league-4944700.html",
+      "summary": "Nam Định thua Công an Hà Nội 0-2 ở vòng 5 trên sân Thiên Trường vào tối 28/9, qua đó tụt lại trong cuộc đua vô địch V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:17:41+07:00",
+      "fetched": "2025-09-28T21:12:34.585791+07:00"
+    },
+    {
+      "id": "2afc30eabf11109f7454b0fdb7b2299c",
+      "title": "Nam Định không thắng liền 3 trận ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-khong-thang-lien-3-tran-o-v-league-4944700.html",
+      "summary": "Nam Định thua Công an Hà Nội 0-2 ở vòng 5 trên sân Thiên Trường vào tối 28/9, qua đó tụt lại trong cuộc đua vô địch V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T13:17:41+07:00",
+      "fetched": "2025-09-28T21:13:58.543344+07:00"
+    },
+    {
+      "id": "bd3a00228700e09d1deeb0c5dae4fdea",
+      "title": "Phát hiện đạn pháo dài nửa mét khi dọn cây",
+      "link": "https://vnexpress.net/phat-hien-dan-phao-dai-nua-met-khi-don-cay-4944708.html",
+      "summary": "Khi đang tỉa dọn cây xanh trên đường ở xã Nghĩa Hành, ông Lê Quang Thạch, nhân viên công ty môi trường đô thị, phát hiện quả đạn pháo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:16:16+07:00",
+      "fetched": "2025-09-28T21:12:34.585948+07:00"
+    },
+    {
+      "id": "ec2e1896ab82c67e3409b720ecf3fafb",
+      "title": "Nam sinh ở Quảng Trị bị lũ cuốn mất tích",
+      "link": "https://thanhnien.vn/nam-sinh-o-quang-tri-bi-lu-cuon-mat-tich-185250928193626145.htm",
+      "summary": "Một học sinh THPT ở xã Kim Phú (Quảng Trị) bị nước lũ cuốn mất tích khi cùng mẹ dắt trâu đi tránh lũ. Chính quyền và lực lượng chức năng đang nỗ lực tìm kiếm trong khi mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:15:00+07:00",
+      "fetched": "2025-09-28T21:13:49.285970+07:00"
+    },
+    {
+      "id": "a139596d57d86907ebe8c1c8b83edf72",
+      "title": "Bão số 10: Cấm cao tốc Bắc - Nam từ 23 giờ tối nay",
+      "link": "https://thanhnien.vn/bao-so-10-cam-cao-toc-bac-nam-tu-23-gio-toi-nay-185250928195423672.htm",
+      "summary": "Để đảm bảo an toàn tài sản, tính mạng người dân trong thời gian bão số 10 đổ bộ, Cục CSGT sẽ tổ chức cấm đường cao tốc Bắc - Nam từ nút giao Nghi Sơn (Thanh Hóa) đến nút giao Vũng Áng (Hà Tĩnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:08:00+07:00",
+      "fetched": "2025-09-28T21:13:49.286120+07:00"
+    },
+    {
+      "id": "4a2bacb7de861770c68be5bd9ab5f514",
+      "title": "Ngư dân sống sót sau gần 6 giờ bám phao hàng hải giữa biển",
+      "link": "https://vnexpress.net/ngu-dan-song-sot-sau-gan-6-gio-bam-phao-hang-hai-giua-bien-4944704.html",
+      "summary": "Anh Nguyễn Văn Trường, 35 tuổi, thuyền viên trên tàu cá gặp nạn ngoài khơi Cửa Việt đã bơi hơn 300 m vào bờ sau nhiều giờ bám phao hàng hải, ngày 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:06:27+07:00",
+      "fetched": "2025-09-28T21:12:34.586111+07:00"
+    },
+    {
+      "id": "bf69e2dbb933ff67962ade1bae5323b0",
+      "title": "Hà Tĩnh: Hàng trăm người dầm mưa gia cố đê biển sạt lở",
+      "link": "https://thanhnien.vn/ha-tinh-hang-tram-nguoi-dam-mua-gia-co-de-bien-sat-lo-18525092820042305.htm",
+      "summary": "Trước bão số 10, tức bão Bualoi, tuyến đê biển Cửa Nhượng ở xã Thiên Cầm (tỉnh Hà Tĩnh) xuất hiện 1 điểm sạt lở nghiêm trọng uy hiếp nhà dân ở phía bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:06:00+07:00",
+      "fetched": "2025-09-28T21:13:49.286269+07:00"
+    },
+    {
+      "id": "fc53fe9ff9f80313c82cff6f29183a70",
+      "title": "Hoàng Đức tỏa sáng, Ninh Bình vẫn đứt chuỗi thắng khi hòa kịch tính Hải Phòng",
+      "link": "https://thanhnien.vn/hoang-duc-toa-sang-ninh-binh-van-dut-chuoi-thang-khi-hoa-kich-tinh-hai-phong-18525092819595245.htm",
+      "summary": "Tối 28.9, CLB Ninh Bình chỉ có được trận hòa 2-2 trước đội Hải Phòng ở vòng 5 V-League 2025-2026, quá đó đứt chuỗi 4 trận thắng liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:01:00+07:00",
+      "fetched": "2025-09-28T21:13:49.286432+07:00"
+    },
+    {
+      "id": "f84b8c7f769ae0591460812d001945c9",
+      "title": "Khách Trung Quốc leo vách đá cứu người ngã xuống biển",
+      "link": "https://vnexpress.net/khach-trung-quoc-leo-vach-da-cuu-nguoi-nga-xuong-bien-4944692.html",
+      "summary": "Du khách Trung Quốc 54 tuổi, đang trong giai đoạn hồi phục sau phẫu thuật xương đòn, vẫn leo xuống vách đá dựng đứng để cứu một phụ nữ bị đuối nước tại bãi biển Jogasaki.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:12:34.586268+07:00"
+    },
+    {
+      "id": "36baa317c2cab8bc83603c74e316b1b6",
+      "title": "Đầy hơi khác béo bụng thế nào",
+      "link": "https://vnexpress.net/day-hoi-khac-beo-bung-the-nao-4943122.html",
+      "summary": "Béo bụng phát triển theo thời gian dài, còn đầy bụng thường xuất hiện bất ngờ, có thể kèm theo các triệu chứng tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:12:34.586438+07:00"
+    },
+    {
+      "id": "bf3b64f24282ac0c25b956139367435e",
+      "title": "Xem nhanh 20h ngày 28.9: Bão số 10 chậm lại, càng nguy hiểm hơn | Bất thường hồ sơ nhập tịch dàn cầu thủ Malaysia",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-289-bao-so-10-cham-lai-cang-nguy-hiem-hon-bat-thuong-ho-so-nhap-tich-dan-cau-thu-malaysia-185250928195731345.htm",
+      "summary": "'Xem nhanh 20h' ngày 28.9 có nhiều tin tức đáng chú ý về: Tin bão số 10 mới nhất; Biển Đông ngày càng nhiều siêu bão, nhanh và khó lường: Vì sao vậy?; Bê bối án phạt bóng đá Malaysia: Hồ sơ bất thường, nhập tịch 'siêu tốc';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:13:49.286588+07:00"
+    },
+    {
+      "id": "1038d8391892515726e5fda6e3f7c4e7",
+      "title": "Sắc thái của gam nâu giúp các tín đồ 'cân' mọi phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-thai-cua-gam-nau-giup-cac-tin-do-can-moi-phong-cach-185250928123327036.htm",
+      "summary": "Trong lúc đen và trắng được xem như hai gam màu kinh điển khuấy động mọi sàn diễn thời trang, thì gam nâu đang nổi lên như lựa chọn đầy tính ứng dụng trong tủ đồ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:13:49.286735+07:00"
+    },
+    {
+      "id": "5ecf43195a3869a1b7f95381ba2b51f5",
+      "title": "Đèo Bảo Lộc bị sạt lở",
+      "link": "https://vnexpress.net/deo-bao-loc-bi-sat-lo-4944707.html",
+      "summary": "Mưa lớn hai ngày qua khiến đất đá, cây bụi tràn xuống đèo Bảo Lộc trên quốc lộ 20, gây nguy hiểm cho người và xe đi qua, chiều 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:56:47+07:00",
+      "fetched": "2025-09-28T21:12:34.586597+07:00"
+    },
+    {
+      "id": "950ba1a829206e3e030ce8f93b9b29ed",
+      "title": "Thời điểm 'vàng' bỏ muối vào món ăn",
+      "link": "https://vnexpress.net/thoi-diem-vang-bo-muoi-vao-mon-an-4942933.html",
+      "summary": "Nhiều người có thói quen cho muối ngay khi dầu nóng, hoặc sắp nấu xong, mà không biết sẽ khiến món ăn vừa mất vị vừa không tốt cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:37:03+07:00",
+      "fetched": "2025-09-28T21:12:34.586758+07:00"
+    },
+    {
+      "id": "e408cbcd238f3078ee78866a39387be7",
+      "title": "Khu du lịch, nhà hàng, khách sạn chống bão Bualoi",
+      "link": "https://vnexpress.net/khu-du-lich-nha-hang-khach-san-chong-bao-bualoi-4944656.html",
+      "summary": "Nhiều điểm du lịch, lưu trú ở các tỉnh miền Trung triển khai hàng loạt biện pháp phòng chống để giữ tài sản, giảm thiểu thiệt hại khi bão Bualoi đổ bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:29:31+07:00",
+      "fetched": "2025-09-28T21:12:34.586917+07:00"
     },
     {
       "id": "09ae621d45996a95b66f75780e67f594",
