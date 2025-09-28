@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T08:20:19.038686+07:00",
+  "lastUpdated": "2025-09-28T10:05:56.956714+07:00",
   "articles": [
+    {
+      "id": "f1f48fb5b943d21874da6392c0ef3ffa",
+      "title": "Đà Nẵng hứng mưa rất to trong hôm nay, đến tối thì giảm dần",
+      "link": "https://tuoitre.vn/da-nang-hung-mua-rat-to-trong-hom-nay-den-toi-thi-giam-dan-20250928070323686.htm",
+      "summary": "Do ảnh hưởng của bão Bualoi (bão số 10), trong hôm nay nhiều nơi tại Đà Nẵng sẽ có mưa rất to, có nơi lên tới hơn 200mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453937+07:00",
+      "fetched": "2025-09-28T10:05:50.454050+07:00"
+    },
+    {
+      "id": "e86dcddebb8ff35dd357bb534bca46b8",
+      "title": "'Con thuyền sedan hạng D sắp đắm, Mazda6 nhảy ra khỏi đó là bước đi thông minh'",
+      "link": "https://tuoitre.vn/con-thuyen-sedan-hang-d-sap-dam-mazda6-nhay-ra-khoi-do-la-buoc-di-thong-minh-20250928010700913.htm",
+      "summary": "Chuyên gia đánh giá việc Mazda6 có thể bị khai tử không hẳn là tiêu cực, bởi toàn bộ phân khúc sedan hạng D đang thoái trào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453804+07:00",
+      "fetched": "2025-09-28T10:05:50.453925+07:00"
+    },
+    {
+      "id": "07a10c7c51f5f4141584c94e10758c7c",
+      "title": "Điểm tin cùng bạn 8h: Mỹ đề xuất rút toàn bộ quân Israel; Tổng thống Colombia bị Mỹ thu hồi visa",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-my-de-xuat-rut-toan-bo-quan-israel-tong-thong-colombia-bi-my-thu-hoi-visa-20250928061155318.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 28-9",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453676+07:00",
+      "fetched": "2025-09-28T10:05:50.453789+07:00"
+    },
+    {
+      "id": "5e69588b979df9be7b0bc3c57265d145",
+      "title": "Học sinh Quảng Trị nghỉ học ngày 29-9 để tránh bão",
+      "link": "https://tuoitre.vn/hoc-sinh-quang-tri-nghi-hoc-ngay-29-9-de-tranh-bao-2025092807330695.htm",
+      "summary": "Quảng Trị vừa có văn bản thông báo cho toàn bộ học sinh và học viên nghỉ học ngày 29-9 để đảm bảo an toàn trước bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453544+07:00",
+      "fetched": "2025-09-28T10:05:50.453665+07:00"
+    },
+    {
+      "id": "3acf34f6b05bc88e49f8cd9f3efc502b",
+      "title": "Tìm thấy thi thể người phụ nữ bị lũ cuốn ở Huế trước bão Bualoi",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nguoi-phu-nu-bi-lu-cuon-o-hue-truoc-bao-bualoi-20250928073046076.htm",
+      "summary": "Thi thể người phụ nữ không may bị lũ cuốn ở Huế trước khi bão Bualoi đổ bộ đã được tìm thấy cách khu vực xảy ra vụ việc khoảng 100m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453414+07:00",
+      "fetched": "2025-09-28T10:05:50.453533+07:00"
+    },
+    {
+      "id": "384a0498f0317c99326520001908b108",
+      "title": "Chìm tàu ở vùng biển ven bờ, 10 người mắc kẹt ngoài khơi",
+      "link": "https://tuoitre.vn/chim-tau-o-vung-bien-ven-bo-10-nguoi-mac-ket-ngoai-khoi-20250928081215916.htm",
+      "summary": "2 tàu thủy từ Bà Rịa - Vũng Tàu vào trú bão ở vùng biển Nam Cửa Việt (Quảng Trị) bị chìm cách bờ 0,9 hải lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453274+07:00",
+      "fetched": "2025-09-28T10:05:50.453401+07:00"
+    },
+    {
+      "id": "a57187808831eebcbf2fd58c59fbeeef",
+      "title": "Siêu thị tăng hàng thiết yếu trong mùa bão",
+      "link": "https://tuoitre.vn/sieu-thi-tang-hang-thiet-yeu-trong-mua-bao-20250928073714149.htm",
+      "summary": "Trước diễn biến phức tạp của bão Bualoi, các hệ thống bán lẻ đã đồng loạt kích hoạt kế hoạch ứng phó khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453149+07:00",
+      "fetched": "2025-09-28T10:05:50.453262+07:00"
+    },
+    {
+      "id": "84d344f378125ae748375a74550f3842",
+      "title": "Bão Bualoi mạnh cấp 12, giật cấp 15 trước khi đổ bộ Nghệ An - Quảng Trị chiều nay",
+      "link": "https://tuoitre.vn/bao-bualoi-manh-cap-12-giat-cap-15-truoc-khi-do-bo-nghe-an-quang-tri-chieu-nay-20250928081808176.htm",
+      "summary": "Dự báo bão Bualoi vẫn duy trì cường độ mạnh cấp 12, giật cấp 15 trước khi đổ bộ Nghệ An - bắc Quảng Trị chiều tối nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.453000+07:00",
+      "fetched": "2025-09-28T10:05:50.453138+07:00"
+    },
+    {
+      "id": "01f873290e830f9b2add3118e6b8f257",
+      "title": "Việt Nam đã có vắc xin phòng viêm phổi do vi rút hợp bào hô hấp RSV",
+      "link": "https://tuoitre.vn/viet-nam-da-co-vac-xin-phong-viem-phoi-do-vi-rut-hop-bao-ho-hap-rsv-20250927215843782.htm",
+      "summary": "VNVC tiêm vắc xin phòng viêm phổi, phế quản… do RSV, giúp bảo vệ trẻ đến 6 tháng tuổi khi tiêm cho mẹ trong thai kỳ và người 60 tuổi trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452851+07:00",
+      "fetched": "2025-09-28T10:05:50.452974+07:00"
+    },
+    {
+      "id": "b854761dfbfce71e58c33d647aafca20",
+      "title": "Những món ăn giàu canxi có lợi cho xương khớp",
+      "link": "https://tuoitre.vn/nhung-mon-an-giau-canxi-co-loi-cho-xuong-khop-20250928074840269.htm",
+      "summary": "Cơ thể bạn không thể tự sản xuất canxi một cách tự nhiên, do đó nên bổ sung canxi qua chế độ ăn uống là điều quan trọng để có sức khỏe tối ưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452722+07:00",
+      "fetched": "2025-09-28T10:05:50.452839+07:00"
+    },
+    {
+      "id": "9d4bd0584bea87bb54f375119ca0821b",
+      "title": "Nếu bạn khó ngủ, hãy thử những bài tập này",
+      "link": "https://tuoitre.vn/neu-ban-kho-ngu-hay-thu-nhung-bai-tap-nay-20250925133208638.htm",
+      "summary": "Nếu bạn đang đau đầu vì những hệ quả của việc khó ngủ, hãy thử những bài tập dưới đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452592+07:00",
+      "fetched": "2025-09-28T10:05:50.452710+07:00"
+    },
+    {
+      "id": "f378d506e7a66df40c2af87065f4542c",
+      "title": "HLV 'bay ghế' sau khi bị Ronaldo sút tung lưới",
+      "link": "https://tuoitre.vn/hlv-bay-ghe-sau-khi-bi-ronaldo-sut-tung-luoi-20250928081824792.htm",
+      "summary": "CLB Al-Ittihad quyết định sa thải HLV Laurent Blanc chóng vánh sau khi đội bóng để thua trước Ronaldo và Al-Nassr.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452461+07:00",
+      "fetched": "2025-09-28T10:05:50.452580+07:00"
+    },
+    {
+      "id": "baac953259bb5416c8e6fa39aae07370",
+      "title": "Hai anh em gây bão ở Giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/hai-anh-em-gay-bao-o-giai-bong-chuyen-the-gioi-20250927221233667.htm",
+      "summary": "Khoảnh khắc anh em nhà Nikolov bước ra sân ở Giải vô địch bóng chuyền thế giới 2025, mọi đối thủ đều phải ngán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452305+07:00",
+      "fetched": "2025-09-28T10:05:50.452447+07:00"
+    },
+    {
+      "id": "0d7a8aa088e2ca55f41976771167ab98",
+      "title": "Thí sinh xét tuyển đại học bằng học bạ nhiều chưa từng có",
+      "link": "https://tuoitre.vn/thi-sinh-xet-tuyen-dai-hoc-bang-hoc-ba-nhieu-chua-tung-co-20250927120829133.htm",
+      "summary": "Năm 2025, tỉ lệ thí sinh xét tuyển đại học bằng học bạ chiếm tỉ lệ cao nhất trong 17 phương thức. Điều này chưa từng có trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.452160+07:00",
+      "fetched": "2025-09-28T10:05:50.452292+07:00"
+    },
+    {
+      "id": "eb3968e5e5c599e7f1495a3666d58d48",
+      "title": "Du lịch Việt chạy nước rút đón 25 triệu khách quốc tế",
+      "link": "https://tuoitre.vn/du-lich-viet-chay-nuoc-rut-don-25-trieu-khach-quoc-te-20250928074005437.htm",
+      "summary": "Du lịch Việt Nam đang tiến tới mục tiêu đạt 25 triệu lượt khách quốc tế trong năm, con số chưa từng có trong lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:05:50.451935+07:00",
+      "fetched": "2025-09-28T10:05:50.452144+07:00"
+    },
     {
       "id": "459a425fe0f8d2796dd19f6c8491ba92",
       "title": "Thời tiết hôm nay 28-9: Bão Bualoi đổ bộ miền Trung, cả nước mưa từ Bắc tới Nam",
@@ -191,6 +341,336 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T03:16:02.619661+07:00",
       "fetched": "2025-09-28T03:16:02.619888+07:00"
+    },
+    {
+      "id": "53b34a75c8194e227696caae8b3f4ae0",
+      "title": "Liên Hiệp Quốc khôi phục cấm vận Iran, Nga và Mỹ lên tiếng",
+      "link": "https://thanhnien.vn/lien-hiep-quoc-khoi-phuc-cam-van-iran-nga-va-my-len-tieng-185250928095237398.htm",
+      "summary": "Iran đã ra cảnh báo sau khi Liên Hiệp Quốc ngày 27.9 khôi phục lệnh cấm vận vũ khí và các biện pháp trừng phạt khác đối với Iran sau một quá trình do 3 nước châu Âu khởi xướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:05:00+07:00",
+      "fetched": "2025-09-28T10:05:49.613201+07:00"
+    },
+    {
+      "id": "24f1a1595910c14e48fbaeed5ee9ea55",
+      "title": "Bão số 10: Cây xanh ở Đà Nẵng ngã đè ô tô, 6 người mắc kẹt trong xe",
+      "link": "https://thanhnien.vn/bao-so-10-cay-xanh-o-da-nang-nga-de-o-to-6-nguoi-mac-ket-trong-xe-185250928095009476.htm",
+      "summary": "Do ảnh hưởng mưa gió của bão số 10 (bão Bualoi), một cây xanh ở TP.Đà Nẵng bật gốc đè trúng ô tô 7 chỗ chở 6 người, cảnh sát nỗ lực cưa cắt cây, giải cứu các nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:03:00+07:00",
+      "fetched": "2025-09-28T10:05:49.613400+07:00"
+    },
+    {
+      "id": "6ff4e112aa0bce9d7267deb782a7d0c0",
+      "title": "Những chiếc váy hoa, đầm họa tiết tuyệt đẹp không thể thiếu ngày đầu thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-chiec-vay-hoa-dam-hoa-tiet-tuyet-dep-khong-the-thieu-ngay-dau-thu-18525092617044644.htm",
+      "summary": "Tiết trời thu mát mẻ khiến ai cũng muốn ăn diện hơn và các thiết kế váy hoa, đầm họa tiết là lựa chọn không thể vắng mặt. Bước qua những cảm giác quen thuộc về bản in hoa lá thường nhật, những gợi ý mặc đẹp dưới đây đưa nàng đến với chuyến phiêu lưu của vải vóc, đi qua những cung bậc từ lãng mạn trẻ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T10:05:49.613579+07:00"
+    },
+    {
+      "id": "d90cccf33778ed00bef59b0fb10e27b7",
+      "title": "Bão số 10: Hai tàu cá bị sóng đánh chìm ở Quảng Trị, đã cứu được 8 thuyền viên",
+      "link": "https://thanhnien.vn/bao-so-10-hai-tau-ca-bi-song-danh-chim-o-quang-tri-da-cuu-duoc-8-thuyen-vien-185250928093753994.htm",
+      "summary": "Sau khi huy động phương tiện, lực lượng tổ chức cứu hộ 11 thuyền viên gặp nạn trên 2 tàu cá do bão số 10. Hiện đã có 8 thuyền viên được đưa vào bờ an toàn, 3 người còn mất tích trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:56:00+07:00",
+      "fetched": "2025-09-28T10:05:49.613740+07:00"
+    },
+    {
+      "id": "bd2e6158579b00cd48761cb4223dc964",
+      "title": "Đóng tiền mua tivi, máy chiếu, rèm cửa trong lớp, không biên lai, có đúng quy định?",
+      "link": "https://thanhnien.vn/dong-tien-mua-tivi-may-chieu-rem-cua-trong-lop-khong-bien-lai-co-dung-quy-dinh-185250928074951395.htm",
+      "summary": "Nhiều phụ huynh bức xúc cho biết năm nào đi họp phụ huynh cũng thấy lớp kêu gọi các khoản đóng tiền 'tự nguyện' để mua tivi, máy chiếu, rèm cửa... nhưng không thấy biên lai, phiếu thu gì... Vậy thì có đúng quy định không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:54:00+07:00",
+      "fetched": "2025-09-28T10:05:49.613896+07:00"
+    },
+    {
+      "id": "cef8bb1981cfdad403d098968a07fa69",
+      "title": "Hơn 8 triệu lượt khán giả xem 'Mưa đỏ'",
+      "link": "https://vnexpress.net/hon-8-trieu-luot-khan-gia-xem-mua-do-4944569.html",
+      "summary": "Nhà phát hành \"Mưa đỏ\" cho biết có 8,1 triệu lượt khán giả đến rạp, đưa tác phẩm là phim hút nhiều người xem nhất lịch sử phòng vé Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:51:46+07:00",
+      "fetched": "2025-09-28T10:05:42.002129+07:00"
+    },
+    {
+      "id": "ed510ae26b3f6d2b9a5d685f056dcd90",
+      "title": "Học sinh Việt thường xuyên đỗ học bổng cạnh tranh nhất đại học top 1 Canada",
+      "link": "https://vnexpress.net/hoc-sinh-viet-thuong-xuyen-do-hoc-bong-canh-tranh-nhat-dai-hoc-top-1-canada-4944507.html",
+      "summary": "Năm nào cũng có 1-2 học sinh Việt đỗ học bổng toàn phần Đại học Toronto, Canada, dù chỉ có 37 suất với 2.000 hồ sơ cạnh tranh, theo đại diện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:51:36+07:00",
+      "fetched": "2025-09-28T10:05:42.002310+07:00"
+    },
+    {
+      "id": "9765837ced61a1edf364305ea573a15a",
+      "title": "Giọng ca Modern Talking trở lại Việt Nam biểu diễn",
+      "link": "https://vnexpress.net/giong-ca-modern-talking-tro-lai-viet-nam-bieu-dien-4944574.html",
+      "summary": "Thomas Anders - giọng ca chính của Modern Talking - sẽ tái ngộ khán giả sau bảy năm, trong concert vào ngày 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:48:21+07:00",
+      "fetched": "2025-09-28T10:05:42.002522+07:00"
+    },
+    {
+      "id": "cb99f0d77bb90b0ecf856d2bc9b530c4",
+      "title": "Thực hư thông tin phó hiệu trưởng ngăn đưa học sinh bị ngộ độc đi bệnh viện",
+      "link": "https://thanhnien.vn/thuc-hu-thong-tin-pho-hieu-truong-ngan-dua-hoc-sinh-bi-ngo-doc-di-benh-vien-185250928094831522.htm",
+      "summary": "Một đoạn clip lan truyền trên mạng xã hội, ghi lại lời nói được cho là của Phó hiệu trưởng Trường phổ thông dân tộc bán trú tiểu học Kim Thủy (tỉnh Quảng Trị). Đoạn clip khiến nhiều người bức xúc bởi vị này bị cho là đã ngăn cản việc đưa học sinh nghi ngộ độc đi bệnh viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:48:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614051+07:00"
+    },
+    {
+      "id": "1106fed62441cb20050dabe682272f6a",
+      "title": "Tìm thấy thi thể người phụ nữ mất tích khi băng qua đoạn ngập ở Huế",
+      "link": "https://thanhnien.vn/tim-thay-thi-the-nguoi-phu-nu-mat-tich-khi-bang-qua-doan-ngap-o-hue-185250928085333946.htm",
+      "summary": "Các lực lượng chức năng đã tìm thấy thi thể chị Dương Thị Huệ (35 tuổi, quê xã Quảng Ninh, Thanh Hóa), là nạn nhân mất tích khi băng qua đoạn nước ngập trên đường Nguyễn Hữu Cảnh (P.An Cựu, TP.Huế).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:48:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614203+07:00"
+    },
+    {
+      "id": "b60b2358b9c9b0a107e92f7c2e63f734",
+      "title": "Selena Gomez chính thức kết hôn với Benny Blanco",
+      "link": "https://thanhnien.vn/selena-gomez-chinh-thuc-ket-hon-voi-benny-blanco-18525092807394265.htm",
+      "summary": "Chuyện tình hai năm của Selena Gomez - Benny Blanco bước sang trang mới bằng đám cưới lãng mạn, riêng tư tại California (Mỹ). Đám cưới được siết chặt an ninh với dàn khách mời đầy sao, trong đó có Taylor Swift.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:44:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614353+07:00"
+    },
+    {
+      "id": "5bb31aa05242cbb34f4a6df479781b93",
+      "title": "Sinh viên và dân văn phòng là nhóm khách thích vẽ henna",
+      "link": "https://thanhnien.vn/sinh-vien-va-dan-van-phong-la-nhom-khach-thich-ve-henna-185250928094047694.htm",
+      "summary": "Henna là nghệ thuật vẽ trên da bằng mực thiên nhiên, được nhiều bạn trẻ lựa chọn như một cách làm đẹp tạm thời, không kim, không đau và dễ thay đổi theo cá tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:42:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614529+07:00"
+    },
+    {
+      "id": "519820588810a9115f17d70d31918bc7",
+      "title": "Biển Nhật Lệ dậy sóng, mưa lũ uy hiếp trước bão số 10",
+      "link": "https://thanhnien.vn/bien-nhat-le-day-song-mua-lu-uy-hiep-truoc-bao-so-10-185250928091837033.htm",
+      "summary": "Dù bão số 10 chưa chính thức đổ bộ, nhưng vùng biển Nhật Lệ  (Quảng Trị) đã ghi nhận sóng to, gió mạnh từ sáng 28.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:41:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614684+07:00"
+    },
+    {
+      "id": "b05a7aa7b7047e70cd369f299dc58305",
+      "title": "Lý do vì sao Malaysia khó đảo ngược án phạt cực nặng của FIFA?",
+      "link": "https://thanhnien.vn/ly-do-vi-sao-malaysia-kho-dao-nguoc-an-phat-cuc-nang-cua-fifa-185250928093228266.htm",
+      "summary": "FAM và một số quan chức liên quan chính sách nhập tịch của Malaysia phản ứng và cho rằng, rất khó hiểu khi FIFA thay đổi quyết định, điều tra và xử phạt dù đã đồng ý cho sử dụng các cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:39:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614833+07:00"
+    },
+    {
+      "id": "da4447095383728886a49937fca0e80e",
+      "title": "Đang cứu nạn 2 tàu cá (11 thuyền viên) trên đường vào trú bão số 10",
+      "link": "https://thanhnien.vn/dang-cuu-nan-2-tau-ca-11-thuyen-vien-tren-duong-vao-tru-bao-so-10-185250928083657397.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Trị và người dân địa phương đang tìm cách ứng cứu 2 tàu cá 2 tàu đánh cá của TP.HCM gặp nạn trong lúc vào trú bão số 10 ở Cửa Việt (Quảng Trị).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:36:00+07:00",
+      "fetched": "2025-09-28T10:05:49.614997+07:00"
+    },
+    {
+      "id": "369c6348e32a422930c36f307624549e",
+      "title": "FPT đạt ba giải thưởng tại AI4VN",
+      "link": "https://vnexpress.net/fpt-dat-ba-giai-thuong-tai-ai4vn-4944576.html",
+      "summary": "Ứng dụng công nghệ, sở hữu các nền tảng AI \"Make in Vietnam\" giúp tập đoàn FPT đạt danh hiệu doanh nghiệp, giải pháp và cá nhân AI xuất sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:35:00+07:00",
+      "fetched": "2025-09-28T10:05:42.002691+07:00"
+    },
+    {
+      "id": "d41b66287b925337216533d47044eec7",
+      "title": "Vũ Cát Tường giành chiến thắng đầu tiên ở show 'Anh trai'",
+      "link": "https://vnexpress.net/vu-cat-tuong-gianh-chien-thang-dau-tien-o-show-anh-trai-4944549.html",
+      "summary": "Ca sĩ Vũ Cát Tường khởi đầu thuận lợi tại \"Anh trai say hi 2025\" qua tiết mục kết hợp Ngô Kiến Huy, Karik, Negav, Jey B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:32:06+07:00",
+      "fetched": "2025-09-28T10:05:42.002865+07:00"
+    },
+    {
+      "id": "5795fc3e419d12ae56de76dbd31cd415",
+      "title": "Bão số 10 (Bualoi) duy trì tốc độ 30 km/giờ trên vùng biển Quảng Trị - Đà Nẵng",
+      "link": "https://thanhnien.vn/bao-so-10-bualoi-duy-tri-toc-do-30-km-gio-tren-vung-bien-quang-tri-da-nang-185250928092211097.htm",
+      "summary": "Thông tin từ Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết, hồi 7 giờ ngày 28.9.2025, vị trí tâm bão số 10 (bão Bualoi) trên vùng biển Quảng Trị - thành phố Đà Nẵng, cách thành phố Huế khoảng 170 km về phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:30:00+07:00",
+      "fetched": "2025-09-28T10:05:49.615154+07:00"
+    },
+    {
+      "id": "8b75e975cf9fde54ffc4c175bc29b1eb",
+      "title": "Nhà khoa học NASA cảnh báo tương lai trái đất cạn kiệt ô xy",
+      "link": "https://thanhnien.vn/nha-khoa-hoc-nasa-canh-bao-tuong-lai-trai-dat-can-kiet-o-xy-185250928091541734.htm",
+      "summary": "Các nhà khoa học phân tích các yếu tố dẫn đến việc bầu khí quyển của trái đất không còn khả năng duy trì sự sống, theo chu trình tiến hóa của hành tinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:22:00+07:00",
+      "fetched": "2025-09-28T10:05:49.615309+07:00"
+    },
+    {
+      "id": "e6b74dd0d4ef89de228568121d899c41",
+      "title": "Hàn Quốc nói 'không thể chi trước 350 tỷ USD' để đổi thỏa thuận với Mỹ",
+      "link": "https://vnexpress.net/han-quoc-noi-khong-the-chi-truoc-350-ty-usd-de-doi-thoa-thuan-voi-my-4944533.html",
+      "summary": "Hàn Quốc không thể chi trước 350 tỷ USD đầu tư để có thỏa thuận thương mại với Mỹ, theo cố vấn tổng thống nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:17:34+07:00",
+      "fetched": "2025-09-28T10:05:42.003030+07:00"
+    },
+    {
+      "id": "e6b74dd0d4ef89de228568121d899c41",
+      "title": "Hàn Quốc nói 'không thể chi trước 350 tỷ USD' để đổi thỏa thuận với Mỹ",
+      "link": "https://vnexpress.net/han-quoc-noi-khong-the-chi-truoc-350-ty-usd-de-doi-thoa-thuan-voi-my-4944533.html",
+      "summary": "Hàn Quốc không thể chi trước 350 tỷ USD đầu tư để có thỏa thuận thương mại với Mỹ, theo cố vấn tổng thống nước này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T02:17:34+07:00",
+      "fetched": "2025-09-28T10:05:53.545713+07:00"
+    },
+    {
+      "id": "f27dd9368f0ab73cf9dca5c455138924",
+      "title": "Hội phụ huynh chia rẽ vì đóng tiền tự nguyện trong áp lực",
+      "link": "https://vnexpress.net/hoi-phu-huynh-chia-re-vi-dong-tien-tu-nguyen-trong-ap-luc-4944094.html",
+      "summary": "Bản thân hội phụ huynh là cần thiết, nhưng cách vận hành đang lệch khỏi chức năng ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:16:39+07:00",
+      "fetched": "2025-09-28T10:05:42.003200+07:00"
+    },
+    {
+      "id": "1e4eaecd5ba7879633912576d32f94bb",
+      "title": "Trả 2,3 tỷ đồng chuyển nhầm",
+      "link": "https://vnexpress.net/tra-2-3-ty-dong-chuyen-nham-4944567.html",
+      "summary": "Anh Lê Ngọc Khải, 41 tuổi, ở xã Tân Khánh Trung, nhận 2,3 tỷ đồng chuyển nhầm vào tài khoản, đã đến cơ quan công an xác minh để trả lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:15:42+07:00",
+      "fetched": "2025-09-28T10:05:42.003360+07:00"
+    },
+    {
+      "id": "ae07436cd1a25f9efdd7799b01e4b5d6",
+      "title": "Bị sa thải nhưng chồng vẫn 'nổ' sắp được phụ trách chi nhánh mới",
+      "link": "https://vnexpress.net/bi-sa-thai-nhung-chong-van-no-sap-duoc-phu-trach-chi-nhanh-moi-4944568.html",
+      "summary": "Mọi người tưởng vợ chồng tôi làm ăn tốt lắm, dư dả nên có chuyện gì cũng tìm tới chúng tôi để xin ủng hộ hoặc vay mượn tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:15:00+07:00",
+      "fetched": "2025-09-28T10:05:42.003544+07:00"
+    },
+    {
+      "id": "4140d00e44bc1a71c073cc326eda5f29",
+      "title": "'Không cổ xúy người dân chuyển từ đầu tư chứng khoán sang chơi bitcoin'",
+      "link": "https://thanhnien.vn/khong-co-xuy-nguoi-dan-chuyen-tu-dau-tu-chung-khoan-sang-choi-bitcoin-185250927202051088.htm",
+      "summary": "Theo chuyên gia kinh tế Cấn Văn Lực, đang có những hiểu biết chưa đầy đủ về thị trường tài sản mã hóa. Không nên nhầm lẫn việc đẩy mạnh áp dụng blockchain là đang cổ xúy người dân chuyển từ đầu tư chứng khoán sang chơi bitcoin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:10:00+07:00",
+      "fetched": "2025-09-28T10:05:49.615483+07:00"
+    },
+    {
+      "id": "015f477321479a7902158fba988c4e57",
+      "title": "10 món ăn sáng tốt cho người tiểu đường",
+      "link": "https://vnexpress.net/10-mon-an-sang-tot-cho-nguoi-tieu-duong-4944327.html",
+      "summary": "Người tiểu đường ăn trứng, khoai lang hay một nắm hạt vào buổi sáng giúp no lâu, hỗ trợ kiểm soát lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:00:00+07:00",
+      "fetched": "2025-09-28T10:05:42.003703+07:00"
+    },
+    {
+      "id": "42692fd675df1719e06d72eff321da77",
+      "title": "MoMo ra tính năng chuyển đổi tài khoản giao thông ePass",
+      "link": "https://vnexpress.net/momo-ra-tinh-nang-chuyen-doi-tai-khoan-giao-thong-epass-4944525.html",
+      "summary": "Người dùng có thể liên kết ePass trực tiếp trên ứng dụng MoMo, cài đặt số dư tối thiểu để tránh tình trạng số dư không đủ tiền khi qua trạm thu phí, quản lý đa tiện ích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:00:00+07:00",
+      "fetched": "2025-09-28T10:05:42.003855+07:00"
+    },
+    {
+      "id": "1464b265c604c40e19c4f9940e6c6d07",
+      "title": "7 món giàu magie giúp ngủ ngon",
+      "link": "https://vnexpress.net/7-mon-giau-magie-giup-ngu-ngon-4944443.html",
+      "summary": "Magie có trong đậu nành, rau bina, hạt bí ngô giúp ngủ ngon nhờ tác dụng điều hòa chức năng cơ và thần kinh, duy trì lượng đường trong máu ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T02:00:00+07:00",
+      "fetched": "2025-09-28T10:05:42.004007+07:00"
+    },
+    {
+      "id": "42692fd675df1719e06d72eff321da77",
+      "title": "MoMo ra tính năng chuyển đổi tài khoản giao thông ePass",
+      "link": "https://vnexpress.net/momo-ra-tinh-nang-chuyen-doi-tai-khoan-giao-thong-epass-4944525.html",
+      "summary": "Người dùng có thể liên kết ePass trực tiếp trên ứng dụng MoMo, cài đặt số dư tối thiểu để tránh tình trạng số dư không đủ tiền khi qua trạm thu phí, quản lý đa tiện ích.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T02:00:00+07:00",
+      "fetched": "2025-09-28T10:05:53.546223+07:00"
+    },
+    {
+      "id": "de965b3cab1768f4d4fcc2bbd5403b47",
+      "title": "Thêm 4 dự án tại TP HCM được gỡ vướng cấp sổ hồng",
+      "link": "https://vnexpress.net/them-4-du-an-tai-tp-hcm-duoc-go-vuong-cap-so-hong-4944247.html",
+      "summary": "TP HCM xem xét tháo gỡ vướng mắc về cấp sổ hồng cho thêm 4 dự án nhà ở thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T01:55:36+07:00",
+      "fetched": "2025-09-28T10:05:42.004162+07:00"
+    },
+    {
+      "id": "da0c01ada7537de35502efe28e0be255",
+      "title": "Pháp tiến sát mốc nửa triệu sinh viên quốc tế",
+      "link": "https://vnexpress.net/phap-tien-sat-moc-nua-trieu-sinh-vien-quoc-te-4941195.html",
+      "summary": "Hơn 443.000 du học sinh đến Pháp, tăng trưởng 17% so với 5 năm trước, được kỳ vọng trở thành \"giải pháp thay thế\" trong bối cảnh thị trường Mỹ suy giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T01:51:45+07:00",
+      "fetched": "2025-09-28T10:05:42.004317+07:00"
+    },
+    {
+      "id": "64da599a0d2cec8820d7c3e031482dd3",
+      "title": "Phong cách thời trang của Đức Phúc",
+      "link": "https://vnexpress.net/phong-cach-thoi-trang-cua-duc-phuc-4943475.html",
+      "summary": "Ca sĩ Đức Phúc biến hóa hình ảnh liên tục với những bộ cánh bắt mắt trên sân khấu lẫn đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T01:49:13+07:00",
+      "fetched": "2025-09-28T10:05:42.004488+07:00"
+    },
+    {
+      "id": "4e7d0700151fbdff4940391bb83795fc",
+      "title": "Moskva cảnh báo đáp trả nếu máy bay Nga bị bắn hạ",
+      "link": "https://vnexpress.net/moskva-canh-bao-dap-tra-neu-may-bay-nga-bi-ban-ha-4944550.html",
+      "summary": "Ngoại trưởng Lavrov tuyên bố Moskva sẽ \"đáp trả quyết đoán\" mọi hành động gây hấn, cảnh báo phương Tây không nên tìm cách bắn hạ mục tiêu trong không phận Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T01:23:44+07:00",
+      "fetched": "2025-09-28T10:05:51.923713+07:00"
     },
     {
       "id": "438c09d0dcf8ca2c8a77e3652a900c9f",
