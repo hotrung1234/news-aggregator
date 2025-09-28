@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T10:05:56.956714+07:00",
+  "lastUpdated": "2025-09-28T11:18:53.865216+07:00",
   "articles": [
+    {
+      "id": "6b191dba0828fd70049eff7ee46e3b64",
+      "title": "Xử phạt vi phạm an toàn giao thông: Thêm hình thức lao động công ích?",
+      "link": "https://tuoitre.vn/xu-phat-vi-pham-an-toan-giao-thong-them-hinh-thuc-lao-dong-cong-ich-20250928081137723.htm",
+      "summary": "Trao đổi với Tuổi Trẻ, nhiều chuyên gia đồng tình việc bổ sung hình thức phạt lao động công ích là rất cần thiết, nhiều nước đã áp dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485973+07:00",
+      "fetched": "2025-09-28T11:18:45.486086+07:00"
+    },
+    {
+      "id": "2fd597cc2050226503beb564539acb2f",
+      "title": "Mẹ tan vào con tựa thinh không",
+      "link": "https://tuoitre.vn/me-tan-vao-con-tua-thinh-khong-20250928084940191.htm",
+      "summary": "Bạn sẽ làm gì nếu thời gian trên Trái đất của mình không còn nhiều nữa? Còn với Ada d'Adamo, bà chọn viết, viết Tựa thinh không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485842+07:00",
+      "fetched": "2025-09-28T11:18:45.485961+07:00"
+    },
+    {
+      "id": "d5644b8927aa81db20bd0a33856d9b46",
+      "title": "Vòng tay Tiếp sức đến trường xua tan nhiều tuyệt vọng trong ngày mưa Đà Nẵng",
+      "link": "https://tuoitre.vn/vong-tay-tiep-suc-den-truong-xua-tan-nhieu-tuyet-vong-trong-ngay-mua-da-nang-2025092723044553.htm",
+      "summary": "Điểm trao đầu tiên của học bổng Tiếp sức đến trường 2025 diễn ra tại Đà Nẵng hôm 27-9 trong cơn mưa lạnh do ảnh hưởng từ cơn bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485721+07:00",
+      "fetched": "2025-09-28T11:18:45.485831+07:00"
+    },
+    {
+      "id": "f49f1d85aa926c14d8c5042b488f85ed",
+      "title": "Quá nguy hiểm khi nhiều người bỏ điều trị để ‘chữa bách bệnh’ bằng nước chanh, muối hột",
+      "link": "https://tuoitre.vn/qua-nguy-hiem-khi-nhieu-nguoi-bo-dieu-tri-de-chua-bach-benh-bang-nuoc-chanh-muoi-hot-20250926195239129.htm",
+      "summary": "Trong thời gian gần đây, tài khoản mạng xã hội, các nhóm chữa lành tự nhiên chia sẻ rầm rộ phương pháp “chữa bách bệnh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485591+07:00",
+      "fetched": "2025-09-28T11:18:45.485709+07:00"
+    },
+    {
+      "id": "26ecb4f337354fe8d87782e261484112",
+      "title": "Laufey: Nàng jazz thế hệ Z",
+      "link": "https://tuoitre.vn/laufey-nang-jazz-the-he-z-20250928083122933.htm",
+      "summary": "Giọng ca của Laufey cổ điển tựa như đến từ thời đại mà người ta còn sống trong lâu đài, yêu những chàng hoàng tử và tin vào những bà tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485466+07:00",
+      "fetched": "2025-09-28T11:18:45.485579+07:00"
+    },
+    {
+      "id": "f6ee96fde883d9b4aeaeaddf0176cb45",
+      "title": "Trừng phạt Iran có hiệu lực, Mỹ kêu gọi các nước hưởng ứng",
+      "link": "https://tuoitre.vn/trung-phat-iran-co-hieu-luc-my-keu-goi-cac-nuoc-huong-ung-20250928075225175.htm",
+      "summary": "Ngoại trưởng Mỹ Marco Rubio kêu gọi tất cả các nước tái áp đặt lệnh trừng phạt của Liên hợp quốc với Iran, còn châu Âu cảnh báo Tehran không leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485319+07:00",
+      "fetched": "2025-09-28T11:18:45.485453+07:00"
+    },
+    {
+      "id": "cd21dddeefc557692ac9a010119a0b44",
+      "title": "Thiếu hụt xăng dầu lan từ vùng Viễn Đông Nga đến Matxcơva",
+      "link": "https://tuoitre.vn/thieu-hut-xang-dau-lan-tu-vung-vien-dong-nga-den-matxcova-20250928094031131.htm",
+      "summary": "Các trạm xăng trên khắp nước Nga những ngày qua chật kín xe xếp hàng, giá nhiên liệu tăng vọt, phân phối bị hạn chế do thiếu hụt xăng dầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485190+07:00",
+      "fetched": "2025-09-28T11:18:45.485308+07:00"
+    },
+    {
+      "id": "fc1273587da9d936c8185ca230e0b3d6",
+      "title": "Tuyển sinh: Cần rõ ràng và ổn định",
+      "link": "https://tuoitre.vn/tuyen-sinh-can-ro-rang-va-on-dinh-20250928072934122.htm",
+      "summary": "Dư luận xã hội đang đặt nhiều kỳ vọng vào một kỳ tuyển sinh 2026 ổn định, rõ ràng và ít áp lực hơn cho thí sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.485064+07:00",
+      "fetched": "2025-09-28T11:18:45.485178+07:00"
+    },
+    {
+      "id": "d6c3f8bdc6510a80ab6b9a33b0149e7b",
+      "title": "Để tăng trưởng trên 8%: Giữ chân dòng vốn FDI",
+      "link": "https://tuoitre.vn/de-tang-truong-tren-8-giu-chan-dong-von-fdi-20250928074658787.htm",
+      "summary": "Trong chiến lược tăng trưởng hai con số, Việt Nam không thể chỉ dựa vào nguồn lực nội tại mà cần thu hút mạnh mẽ dòng vốn FDI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484939+07:00",
+      "fetched": "2025-09-28T11:18:45.485052+07:00"
+    },
+    {
+      "id": "caabdcf033672fa070e71bd0afdf25cb",
+      "title": "Chủ tịch Quốc hội dự khánh thành khu lưu niệm Trưởng Ban Thường trực Quốc hội Bùi Bằng Đoàn",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-du-khanh-thanh-khu-luu-niem-truong-ban-thuong-truc-quoc-hoi-bui-bang-doan-20250928102948603.htm",
+      "summary": "Bùi Bằng Đoàn là nhân cách lớn, trí thức yêu nước và là hình mẫu cho sự chuyển mình của giới sĩ phu Việt Nam trước vận mệnh lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484810+07:00",
+      "fetched": "2025-09-28T11:18:45.484927+07:00"
+    },
+    {
+      "id": "c753af5078c9eb9251c25100f3a0c7aa",
+      "title": "Chuyên gia: 'Chuẩn bị nhân lực cho du lịch xanh không dễ'",
+      "link": "https://tuoitre.vn/chuyen-gia-chuan-bi-nhan-luc-cho-du-lich-xanh-khong-de-20250928075006059.htm",
+      "summary": "Theo các chuyên gia, để sẵn sàng đào tạo nguồn nhân lực phát triển du lịch xanh sẽ cần một chiến lược dài hơi và bài bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484668+07:00",
+      "fetched": "2025-09-28T11:18:45.484794+07:00"
+    },
+    {
+      "id": "744b4a25ded40c78070c92216b5674ba",
+      "title": "Bão Bualoi ảnh hưởng rộng, gió mạnh từ Quảng Trị ra Thanh Hóa, Bắc và Trung Bộ mưa lớn",
+      "link": "https://tuoitre.vn/bao-bualoi-anh-huong-rong-gio-manh-tu-quang-tri-ra-thanh-hoa-bac-va-trung-bo-mua-lon-20250928103203079.htm",
+      "summary": "Do ảnh hưởng của bão Bualoi (bão số 10), từ trưa 28-9, gió trên đất liền Thanh Hóa - bắc Quảng Trị mạnh dần lên cấp 6-7, sau tăng cấp 8-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484539+07:00",
+      "fetched": "2025-09-28T11:18:45.484656+07:00"
+    },
+    {
+      "id": "20f0d9dec31c58efa8e50ed636409228",
+      "title": "Thương hiệu - Những bài học bảo vệ uy tín - Kỳ 8: Mượn bên thứ ba chống tin giả",
+      "link": "https://tuoitre.vn/thuong-hieu-nhung-bai-hoc-bao-ve-uy-tin-ky-8-muon-ben-thu-ba-chong-tin-gia-20250928001720443.htm",
+      "summary": "Tin giả là vấn nạn dai dẳng và khó biến mất. Vấn đề càng phức tạp khi tin giả lan truyền nhanh hơn đáng kể so với tin thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484399+07:00",
+      "fetched": "2025-09-28T11:18:45.484526+07:00"
+    },
+    {
+      "id": "dd758657d420b3771916397a0967bc6f",
+      "title": "Truyền hình Israel ca ngợi 'vẻ đẹp choáng ngợp và thử thách tột cùng' của hang Sơn Đoòng",
+      "link": "https://tuoitre.vn/truyen-hinh-israel-ca-ngoi-ve-dep-choang-ngop-va-thu-thach-tot-cung-cua-hang-son-doong-20250927224033139.htm",
+      "summary": "Kênh truyền hình Israel phát sóng tập mới nhất trong loạt chương trình phiêu lưu mạo hiểm “Tới tận cùng: Danny Kushmaro trong lòng đất”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.484237+07:00",
+      "fetched": "2025-09-28T11:18:45.484385+07:00"
+    },
+    {
+      "id": "c63c2edfca59bd0f324970bb8e857fe7",
+      "title": "Tiền đạo Mbeumo không có nổi cú sút nào 'ngày về' Brentford",
+      "link": "https://tuoitre.vn/tien-dao-mbeumo-khong-co-noi-cu-sut-nao-ngay-ve-brentford-20250928101211073.htm",
+      "summary": "Trong ngày trở về sân Gtech Community, tân binh Bryan Mbeumo của Man United đã không có nổi một cú sút nào trong 90 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:18:45.483987+07:00",
+      "fetched": "2025-09-28T11:18:45.484221+07:00"
+    },
     {
       "id": "f1f48fb5b943d21874da6392c0ef3ffa",
       "title": "Đà Nẵng hứng mưa rất to trong hôm nay, đến tối thì giảm dần",
@@ -303,6 +453,196 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T08:20:12.140644+07:00"
     },
     {
+      "id": "a1421023c16434c135fc8befae4d30c0",
+      "title": "Nóng: Bằng chứng quan trọng từ Cục Đăng ký quốc gia Malaysia, 7 cầu thủ nhập tịch không có giấy khai sinh gốc",
+      "link": "https://thanhnien.vn/nong-bang-chung-quan-trong-tu-cuc-dang-ky-quoc-gia-malaysia-7-cau-thu-nhap-tich-khong-co-giay-khai-sinh-goc-185250928110829802.htm",
+      "summary": "Truyền thông Malaysia lan truyền tài liệu Cục Đăng ký Quốc gia (NRD) Malaysia về bằng chứng và quy trình đăng ký 7 cầu thủ nhập tịch, cho thấy những kẽ hở theo quy định của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:15:00+07:00",
+      "fetched": "2025-09-28T11:18:44.588308+07:00"
+    },
+    {
+      "id": "a9e2623c0050dda555c975c5d250dcc1",
+      "title": "Bão số 10: Công an 'chạy đua' thời gian, dầm mưa giúp người dân cắt lúa",
+      "link": "https://thanhnien.vn/bao-so-10-cong-an-chay-dua-thoi-gian-dam-mua-giup-nguoi-dan-cat-lua-185250928102718332.htm",
+      "summary": "Từ hôm qua cho đến sáng nay (28.9), Công an các xã tại TP.Huế đã triển khai tối đa lực lượng, sát cánh cùng người dân vượt qua khó khăn, đặc biệt là trong công tác thu hoạch lúa trước cơn bão số 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:15:00+07:00",
+      "fetched": "2025-09-28T11:18:44.588524+07:00"
+    },
+    {
+      "id": "34454a84bfa07bbd45c56083ddbfa76b",
+      "title": "Giữ tôn nghiêm trong giáo dục: Cần cơ chế hỗ trợ tâm lý hiệu quả",
+      "link": "https://thanhnien.vn/giu-ton-nghiem-trong-giao-duc-can-co-che-ho-tro-tam-ly-hieu-qua-185250928104210828.htm",
+      "summary": "Một số học sinh, thậm chí phụ huynh, nhầm lẫn giữa 'bình đẳng' với 'ngang hàng', giữa 'thân thiện' với 'suồng sã'. Hệ quả là các em dễ xem thầy cô như bạn bè, quên mất rằng mỗi bên có vai trò, trách nhiệm khác nhau trong môi trường giáo dục. Chính sự nhầm lẫn ấy đã vô tình làm mờ đi ranh giới cần th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:12:00+07:00",
+      "fetched": "2025-09-28T11:18:44.588697+07:00"
+    },
+    {
+      "id": "026431fad06e1189cfa771bb4e6cc31c",
+      "title": "Nhà vô địch thế giới Lại Lý Huynh với bản lĩnh phi thường, qua lăng kính người Trung Quốc",
+      "link": "https://thanhnien.vn/nha-vo-dich-the-gioi-lai-ly-huynh-voi-ban-linh-phi-thuong-qua-lang-kinh-nguoi-trung-quoc-185250928104503733.htm",
+      "summary": "Chức vô địch thế giới của Lại Lý Huynh đã phá thế độc tôn của cờ tướng Trung Quốc trong nhiều năm qua. Truyền thông Trung Quốc đã có nhiều bài viết về trận đấu kịch tính của kỳ thủ Việt Nam. Dưới đây, là bài viết rất sâu sắc của tác giả người Trung Quốc Hữu Phương Tùy đăng trên trang Duyên Cờ Tướng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:08:00+07:00",
+      "fetched": "2025-09-28T11:18:44.588859+07:00"
+    },
+    {
+      "id": "d63f1e93705a0ddf407c9478c192337e",
+      "title": "Động đất mạnh tại Trung Quốc, gần 8.000 người sơ tán",
+      "link": "https://thanhnien.vn/dong-dat-manh-tai-trung-quoc-gan-8000-nguoi-so-tan-185250928105309436.htm",
+      "summary": "Một trận động đất mạnh 5,6 độ Richter đã xảy ra tại tỉnh Cam Túc thuộc tây bắc Trung Quốc vào sáng 27.9, khiến ít nhất 11 người bị thương và 17 ngôi nhà bị sập, theo South China Morning Post.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:07:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589013+07:00"
+    },
+    {
+      "id": "3bec2beb9c05c175750b311317581ef3",
+      "title": "Bộ đội Biên phòng Đà Nẵng bắn pháo hiệu, cảnh báo khẩn cấp bão số 10 áp sát",
+      "link": "https://thanhnien.vn/bo-doi-bien-phong-da-nang-ban-phao-hieu-canh-bao-khan-cap-bao-so-10-ap-sat-185250928105313445.htm",
+      "summary": "Bộ đội Biên phòng thành phố Đà Nẵng đã bắn pháo hiệu rực trời cấm biển, di dời hơn 210.000 dân, huy động bộ đội biên phòng trực 100% để ứng phó bão số 10 (bão Bualoi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:04:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589167+07:00"
+    },
+    {
+      "id": "7eeb2718ccc59152d5bdc08768b27699",
+      "title": "Vì sao cựu phó chánh án Phạm Tấn Hoàng bị khai trừ Đảng?",
+      "link": "https://thanhnien.vn/vi-sao-cuu-pho-chanh-an-pham-tan-hoang-bi-khai-tru-dang-185250928095237792.htm",
+      "summary": "Ông Phạm Tấn Hoàng, cựu Phó chánh án TAND cấp cao tại Đà Nẵng, bị thi hành kỷ luật khai trừ ra khỏi Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T04:03:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589317+07:00"
+    },
+    {
+      "id": "6b45a9326c8c1e9ec4afa72c2fe189f0",
+      "title": "Bão số 10: Nhiều nơi ở Đà Nẵng sạt lở nghiêm trọng, 1 người mất tích",
+      "link": "https://thanhnien.vn/bao-so-10-nhieu-noi-o-da-nang-sat-lo-nghiem-trong-1-nguoi-mat-tich-185250928102941923.htm",
+      "summary": "Do ảnh hưởng của cơn bão số 10, khiến các khu vực miền núi của TP.Đà Nẵng xảy ra hàng loạt điểm sạt lở nghiêm trọng, gây chia cắt giao thông, một người mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:56:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589489+07:00"
+    },
+    {
+      "id": "dedccbeb2ca383ef22f213c70454d528",
+      "title": "Philippines muốn tăng thuế nhập khẩu gạo, Ấn Độ thu phí xuất khẩu",
+      "link": "https://thanhnien.vn/philippines-muon-tang-thue-nhap-khau-gao-an-do-thu-phi-xuat-khau-185250928105229561.htm",
+      "summary": "Philippines người mua lớn nhất của hạt gạo Việt Nam đang xem xét tăng thuế nhập khẩu. Trong khi đó, cường quốc xuất khẩu gạo số 1 thế giới là Ấn Độ bắt đầu áp dụng chính sách thu phí xuất khẩu với gạo non-basmati.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:54:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589640+07:00"
+    },
+    {
+      "id": "0d8918d0cd35a4e649fd3034c0f0682b",
+      "title": "Vụ nữ sinh Vĩnh Long tử vong: Sẽ thế nào khi tài xế xe tải mất trí?",
+      "link": "https://thanhnien.vn/vu-nu-sinh-vinh-long-tu-vong-se-the-nao-khi-tai-xe-xe-tai-mat-tri-185250928095851493.htm",
+      "summary": "Liên quan vụ nữ sinh Vĩnh Long tử vong, sau khi thực hiện hành vi phạm tội (kể từ thời điểm bị bắn) và hiện tại, tài xế xe tải có bệnh lý tâm thần: mất trí trong các bệnh lý đặc biệt khác đã được xếp loại ở chỗ khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:53:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589789+07:00"
+    },
+    {
+      "id": "24511c0dd81a8719ebf7fa90716c16c5",
+      "title": "Microsoft bất ngờ báo tin vui cho hàng triệu người dùng Windows 10",
+      "link": "https://thanhnien.vn/microsoft-bat-ngo-bao-tin-vui-cho-hang-trieu-nguoi-dung-windows-10-185250926155941434.htm",
+      "summary": "Dưới áp lực pháp lý, Microsoft buộc phải cung cấp cập nhật Windows 10 miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:51:00+07:00",
+      "fetched": "2025-09-28T11:18:44.589936+07:00"
+    },
+    {
+      "id": "0b6edea22537be7c55c57f6bec8798fa",
+      "title": "Công trình ngầm của Iran gây hoài nghi về tham vọng hạt nhân",
+      "link": "https://vnexpress.net/cong-trinh-ngam-cua-iran-gay-hoai-nghi-ve-tham-vong-hat-nhan-4944262.html",
+      "summary": "Ảnh vệ tinh cho thấy Iran đang âm thầm xây dựng cơ sở quân sự nằm sâu dưới lòng đất tại Núi Pickaxe, ngay phía nam cơ sở Natanz từng bị Israel và Mỹ ném bom.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:48:17+07:00",
+      "fetched": "2025-09-28T11:18:41.443787+07:00"
+    },
+    {
+      "id": "0b6edea22537be7c55c57f6bec8798fa",
+      "title": "Công trình ngầm của Iran gây hoài nghi về tham vọng hạt nhân",
+      "link": "https://vnexpress.net/cong-trinh-ngam-cua-iran-gay-hoai-nghi-ve-tham-vong-hat-nhan-4944262.html",
+      "summary": "Ảnh vệ tinh cho thấy Iran đang âm thầm xây dựng cơ sở quân sự nằm sâu dưới lòng đất tại Núi Pickaxe, ngay phía nam cơ sở Natanz từng bị Israel và Mỹ ném bom.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T03:48:17+07:00",
+      "fetched": "2025-09-28T11:18:47.227872+07:00"
+    },
+    {
+      "id": "3a9cb9573bc28ac3aac79e328f04fd8c",
+      "title": "Hà Nội mưa lớn trên 350 mm do bão số 10, nguy cơ ngập lụt",
+      "link": "https://thanhnien.vn/ha-noi-mua-lon-tren-350-mm-do-bao-so-10-nguy-co-ngap-lut-185250928102728643.htm",
+      "summary": "Dự báo thời tiết Hà Nội từ chiều nay 28.9 đến trưa ngày 30.9 sẽ có mưa lớn do ảnh hưởng hoàn lưu bão số 10, nguy cơ ngập lụt nhiều tuyến đường phố, khu đô thị, khu dân cư vùng trũng thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:48:00+07:00",
+      "fetched": "2025-09-28T11:18:44.590084+07:00"
+    },
+    {
+      "id": "1d72c053557350c66bc81d23560e77f8",
+      "title": "Cần Thơ: Cháy lớn tại siêu thị chứa nguyên liệu làm bánh",
+      "link": "https://thanhnien.vn/can-tho-chay-lon-tai-sieu-thi-chua-nguyen-lieu-lam-banh-185250928101657869.htm",
+      "summary": "Lực lượng chức năng P.Phú Lợi (TP.Cần Thơ) đang điều tra làm rõ nguyên nhân vụ cháy lớn tại siêu thị chứa nguyên liệu làm bánh, pha chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:47:00+07:00",
+      "fetched": "2025-09-28T11:18:44.590231+07:00"
+    },
+    {
+      "id": "951e3bbebe241eab043cdd41f987f7c7",
+      "title": "Hơn 130 xe máy đi trên vỉa hè đường Mai Chí Thọ, Trần Quý Kiên 'dính' camera CSGT",
+      "link": "https://thanhnien.vn/hon-130-xe-may-di-tren-via-he-duong-mai-chi-tho-tran-quy-kien-dinh-camera-csgt-185250928102256077.htm",
+      "summary": "132 xe máy đi trên vỉa hè Mai Chí Thọ, Trần Quý Kiên vào cuối tuần đã lọt camera CSGT phạt nguội, dù lòng đường rộng thênh thang. Lý do là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:45:00+07:00",
+      "fetched": "2025-09-28T11:18:44.590392+07:00"
+    },
+    {
+      "id": "d745ad8d8ce437ffc27f9bfa6f74ebdb",
+      "title": "Trường học vùng cao Trà My trở thành nơi trú bão số   10 cho học",
+      "link": "https://thanhnien.vn/truong-hoc-vung-cao-tra-my-tro-thanh-noi-tru-bao-so-10-cho-hoc-185250928094210797.htm",
+      "summary": "Trước diễn biến phức tạp của bão số 5, các trường học tại xã miền núi Trà My (thuộc TP. Đà Nẵng) đã chủ động triển khai nhiều biện pháp nhằm bảo đảm an toàn cho học sinh, đặc biệt là các em ở bán trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:41:00+07:00",
+      "fetched": "2025-09-28T11:18:44.590545+07:00"
+    },
+    {
+      "id": "78d821a16f1e0d0bdf9f75a34b2b7923",
+      "title": "Nghệ sĩ quảng cáo cờ bạc rồi bảo 'không biết'",
+      "link": "https://vnexpress.net/nghe-si-quang-cao-co-bac-roi-bao-khong-biet-4944581.html",
+      "summary": "Cứ mỗi lần có scandal, một số nghệ sĩ lại thanh minh 'vô tình, không biết'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:25:23+07:00",
+      "fetched": "2025-09-28T11:18:41.443966+07:00"
+    },
+    {
+      "id": "5c621dbb99cc27f3ed5a1fd1b96c0bf8",
+      "title": "Lốc xoáy giật tung hàng loạt mái nhà ở TP Huế",
+      "link": "https://vnexpress.net/loc-xoay-giat-tung-hang-loat-mai-nha-o-tp-hue-4944578.html",
+      "summary": "Rạng sáng nay, lốc xoáy quét qua xã Quảng Điền khiến 75 ngôi nhà bị tốc mái, hàng loạt cây cối gãy đổ, một số hộ dân phải sơ tán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:20:14+07:00",
+      "fetched": "2025-09-28T11:18:41.444132+07:00"
+    },
+    {
       "id": "37772ffab796bb0d56505d830c63291e",
       "title": "'Ông vua phút cuối' Liverpool 'nếm mùi' phút bù giờ trước Crystal Palace",
       "link": "https://tuoitre.vn/ong-vua-phut-cuoi-liverpool-nem-mui-phut-bu-gio-truoc-crystal-palace-20250927233410782.htm",
@@ -343,6 +683,16 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T03:16:02.619888+07:00"
     },
     {
+      "id": "c6008bfa53231d17bb5fd3730833945a",
+      "title": "Bất tỉnh sau uống thuốc tiểu đường do hàng xóm tặng",
+      "link": "https://vnexpress.net/bat-tinh-sau-uong-thuoc-tieu-duong-do-hang-xom-tang-4944577.html",
+      "summary": "Được hàng xóm tặng viên thuốc uống tiểu đường, cụ ông 81 tuổi dùng ba ngày thì đột ngột ngã gục, bất tỉnh, phải cấp cứu vì hạ đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:06:21+07:00",
+      "fetched": "2025-09-28T11:18:41.444300+07:00"
+    },
+    {
       "id": "53b34a75c8194e227696caae8b3f4ae0",
       "title": "Liên Hiệp Quốc khôi phục cấm vận Iran, Nga và Mỹ lên tiếng",
       "link": "https://thanhnien.vn/lien-hiep-quoc-khoi-phuc-cam-van-iran-nga-va-my-len-tieng-185250928095237398.htm",
@@ -351,6 +701,26 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T03:05:00+07:00",
       "fetched": "2025-09-28T10:05:49.613201+07:00"
+    },
+    {
+      "id": "824bcc2f798d2c9ebf1dae314e6de700",
+      "title": "Thảm kịch giẫm đạp khiến 39 người chết tại Ấn Độ diễn ra thế nào",
+      "link": "https://vnexpress.net/tham-kich-giam-dap-khien-39-nguoi-chet-tai-an-do-dien-ra-the-nao-4944560.html",
+      "summary": "Cuộc mít tinh của diễn viên kiêm chính trị gia Vijay diễn ra giữa nắng nóng muộn nhiều tiếng so với kế hoạch, khiến đám đông vượt tầm kiểm soát và châm ngòi giẫm đạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:04:58+07:00",
+      "fetched": "2025-09-28T11:18:41.444503+07:00"
+    },
+    {
+      "id": "824bcc2f798d2c9ebf1dae314e6de700",
+      "title": "Thảm kịch giẫm đạp khiến 39 người chết tại Ấn Độ diễn ra thế nào",
+      "link": "https://vnexpress.net/tham-kich-giam-dap-khien-39-nguoi-chet-tai-an-do-dien-ra-the-nao-4944560.html",
+      "summary": "Cuộc mít tinh của diễn viên kiêm chính trị gia Vijay diễn ra giữa nắng nóng muộn nhiều tiếng so với kế hoạch, khiến đám đông vượt tầm kiểm soát và châm ngòi giẫm đạp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T03:04:58+07:00",
+      "fetched": "2025-09-28T11:18:47.228046+07:00"
     },
     {
       "id": "24f1a1595910c14e48fbaeed5ee9ea55",
@@ -371,6 +741,86 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T03:00:00+07:00",
       "fetched": "2025-09-28T10:05:49.613579+07:00"
+    },
+    {
+      "id": "61c567823f20266b3eb1b845eda86c9f",
+      "title": "Turbine gió bay lớn nhất thế giới hoạt động",
+      "link": "https://vnexpress.net/turbine-gio-bay-lon-nhat-the-gioi-hoat-dong-4944312.html",
+      "summary": "Hệ thống turbine gió S1500 giống khí cầu thu thập năng lượng từ luồng gió trên cao để sản xuất điện, tiết kiệm chi phí và vật liệu sử dụng so với turbine truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.444669+07:00"
+    },
+    {
+      "id": "0417475c6effe9b08536483f25b3d4c2",
+      "title": "'Mắt thần' mới thấy tất cả con vật trong tranh",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-mat-than-moi-thay-tat-ca-con-vat-trong-tranh-4943853.html",
+      "summary": "Bạn có tự tin rằng đôi mắt của mình thật sự tinh tường? Vậy hãy thử xem có tất cả bao nhiêu con vật trong tranh này nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.444834+07:00"
+    },
+    {
+      "id": "3e4a78d0b8715baa24a7d6554e07334c",
+      "title": "Thế khó xử của Israel khi loạt quốc gia phương Tây công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/the-kho-xu-cua-israel-khi-loat-quoc-gia-phuong-tay-cong-nhan-nha-nuoc-palestine-4942564.html",
+      "summary": "Thủ tướng Benjamin Netanyahu nhanh chóng lên án việc các quốc gia phương Tây gần đây công nhận Nhà nước Palestine, song không dễ để biến những tuyên bố mạnh mẽ thành phản ứng cụ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.444989+07:00"
+    },
+    {
+      "id": "5c9e81ca29c1a4ca5dd6e9fbf5aa0bf0",
+      "title": "Virus HPV lây truyền như thế nào?",
+      "link": "https://vnexpress.net/virus-hpv-lay-truyen-nhu-the-nao-4944508.html",
+      "summary": "Chị gái tôi vừa xét nghiệm nhiễm HPV. Đây là virus gì, lây truyền qua những đường nào, cách nào phòng tránh? (Mai Anh, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.445146+07:00"
+    },
+    {
+      "id": "111dd09aeb290405239ff32aa21fc7c8",
+      "title": "Bị bụi phổi chữa khỏi không?",
+      "link": "https://vnexpress.net/bi-bui-phoi-chua-khoi-khong-4944503.html",
+      "summary": "Tôi làm việc nhiều năm trong môi trường khói bụi, gần đây khó thở, mệt mỏi, bác sĩ chẩn đoán mắc bụi phổi. Bệnh này chữa hết không? (Quang Thái, 40 tuổi, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.445309+07:00"
+    },
+    {
+      "id": "0ffda9f690f765e158d768df04744d01",
+      "title": "Điều gì xảy ra khi ăn tối trước 19h?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-toi-truoc-19h-4944422.html",
+      "summary": "Ăn tối sớm giúp kiểm soát cân nặng, tốt cho đường ruột, ngủ sâu giấc hơn và nâng cao sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:41.445485+07:00"
+    },
+    {
+      "id": "3e4a78d0b8715baa24a7d6554e07334c",
+      "title": "Thế khó xử của Israel khi loạt quốc gia phương Tây công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/the-kho-xu-cua-israel-khi-loat-quoc-gia-phuong-tay-cong-nhan-nha-nuoc-palestine-4942564.html",
+      "summary": "Thủ tướng Benjamin Netanyahu nhanh chóng lên án việc các quốc gia phương Tây gần đây công nhận Nhà nước Palestine, song không dễ để biến những tuyên bố mạnh mẽ thành phản ứng cụ thể.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:47.228210+07:00"
+    },
+    {
+      "id": "61c567823f20266b3eb1b845eda86c9f",
+      "title": "Turbine gió bay lớn nhất thế giới hoạt động",
+      "link": "https://vnexpress.net/turbine-gio-bay-lon-nhat-the-gioi-hoat-dong-4944312.html",
+      "summary": "Hệ thống turbine gió S1500 giống khí cầu thu thập năng lượng từ luồng gió trên cao để sản xuất điện, tiết kiệm chi phí và vật liệu sử dụng so với turbine truyền thống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T03:00:00+07:00",
+      "fetched": "2025-09-28T11:18:52.396995+07:00"
     },
     {
       "id": "d90cccf33778ed00bef59b0fb10e27b7",
@@ -1001,6 +1451,16 @@ window.newsData_2025_09_28 = {
       "category": "Thế giới",
       "published": "2025-09-28T00:06:43+07:00",
       "fetched": "2025-09-28T08:20:13.150609+07:00"
+    },
+    {
+      "id": "0dd0c68be0db688578ced06befed2e61",
+      "title": "Giẫm đạp tại mít tinh của chính trị gia Ấn Độ, 39 người chết",
+      "link": "https://vnexpress.net/giam-dap-tai-mit-tinh-cua-chinh-tri-gia-an-do-39-nguoi-chet-4944544.html",
+      "summary": "Giẫm đạp tại cuộc mít tinh của nam diễn viên kiêm chính trị gia Vijay ở miền nam Ấn Độ khiến ít nhất 39 người thiệt mạng và 46 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T00:06:43+07:00",
+      "fetched": "2025-09-28T11:18:47.228546+07:00"
     },
     {
       "id": "f8c3a62fa32b8811f7218de6d3c40693",
