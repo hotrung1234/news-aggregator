@@ -1,7 +1,17 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T10:02:33.542598+07:00",
+  "lastUpdated": "2025-09-29T11:21:03.824601+07:00",
   "articles": [
+    {
+      "id": "cc31f742e83e936f3fe9ddc2d636528a",
+      "title": "Du lịch y tế: Cơ hội vàng cho Việt Nam",
+      "link": "https://tuoitre.vn/du-lich-y-te-co-hoi-vang-cho-viet-nam-20250928222800843.htm",
+      "summary": "Việt Nam đang hướng tới một lĩnh vực giàu tiềm năng - du lịch y tế, kết hợp chăm sóc sức khỏe với trải nghiệm văn hóa, du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:20:54.885838+07:00",
+      "fetched": "2025-09-29T11:20:54.886048+07:00"
+    },
     {
       "id": "fe3178e1328d8073dd76e7b5b4fb828c",
       "title": "'Không một đại sư cờ tướng nào tự tin thắng nổi Lại Lý Huynh'",
@@ -303,6 +313,356 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T08:15:25.017188+07:00"
     },
     {
+      "id": "5fa90c7300c98d6d1c653cb27cdad52a",
+      "title": "TP.HCM tiếp tục miễn thuế cho hoạt động khởi nghiệp, đổi mới sáng tạo",
+      "link": "https://thanhnien.vn/tphcm-tiep-tuc-mien-thue-cho-hoat-dong-khoi-nghiep-doi-moi-sang-tao-185250929111013875.htm",
+      "summary": "TP.HCM tiếp tục miễn thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp cho hoạt động khởi nghiệp, đổi mới sáng tạo trên toàn địa bàn sau sáp nhập, nhằm khuyến khích phát triển hệ sinh thái khởi nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:19:00+07:00",
+      "fetched": "2025-09-29T11:20:53.773458+07:00"
+    },
+    {
+      "id": "33a19c2d1c384a156e4a9e64b4c768cb",
+      "title": "Bão số 10 sắp sang Lào, cảnh báo lũ từ Thanh Hóa - Hà Tĩnh",
+      "link": "https://thanhnien.vn/bao-so-10-sap-sang-lao-canh-bao-lu-tu-thanh-hoa-ha-tinh-185250929105334765.htm",
+      "summary": "Tâm bão số 10 (bão Bualoi) sắp đi qua đất liền tỉnh Nghệ An, chuẩn bị ảnh hưởng khu vực trung Lào. Với lượng mưa lên đến trên 300 mm ở nhiều nơi, các sông từ Thanh Hóa đến Hà Tĩnh nguy cơ lũ lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:15:00+07:00",
+      "fetched": "2025-09-29T11:20:53.773622+07:00"
+    },
+    {
+      "id": "2dd78f21dea7a0397308c7f0d092d580",
+      "title": "Công an TP.HCM được hỗ trợ trên 467 tỉ đồng mua sắm thiết bị, phương tiện",
+      "link": "https://thanhnien.vn/cong-an-tphcm-duoc-ho-tro-tren-467-ti-dong-mua-sam-thiet-bi-phuong-tien-185250929110629014.htm",
+      "summary": "Công an TP.HCM được hỗ trợ kinh phí mua sắm trang thiết bị, phương tiện nghiệp vụ, sửa chữa trụ sở cho công an các phường, xã, đặc khu, đồn thuộc TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:13:00+07:00",
+      "fetched": "2025-09-29T11:20:53.773787+07:00"
+    },
+    {
+      "id": "6e2b573358da784ca3974b233b675e8a",
+      "title": "Xác minh clip người phụ nữ ngồi sau xe máy liên tục rải bột lạ gây hoang mang",
+      "link": "https://thanhnien.vn/xac-minh-clip-nguoi-phu-nu-ngoi-sau-xe-may-lien-tuc-rai-bot-la-gay-hoang-mang-18525092911101025.htm",
+      "summary": "Mạng xã hội đang xôn xao về đoạn clip hơn 4 triệu lượt xem, ghi lại cảnh một người phụ nữ ngồi sau xe máy liên tục rải bột lạ xuống đường. CSGT TP.HCM đang xác minh vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:12:00+07:00",
+      "fetched": "2025-09-29T11:20:53.773934+07:00"
+    },
+    {
+      "id": "086fab6f2b898622469a9ab0b6714d79",
+      "title": "Anh Nguyễn Minh Triết: Đồng hành, hỗ trợ sinh viên là nhiệm vụ trọng tâm, xuyên suốt",
+      "link": "https://thanhnien.vn/anh-nguyen-minh-triet-dong-hanh-ho-tro-sinh-vien-la-nhiem-vu-trong-tam-xuyen-suot-185250929104105416.htm",
+      "summary": "T.Ư Hội Sinh viên Việt Nam và Công ty TNHH Grab vừa ký kết hợp tác hỗ trợ sinh viên. Bí thư T.Ư Đoàn, Chủ tịch T.Ư Hội Sinh viên Việt Nam Nguyễn Minh Triết cho biết, đồng hành của các doanh nghiệp có trách nhiệm xã hội cao là vô cùng quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:09:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774076+07:00"
+    },
+    {
+      "id": "f5e2ff5dcb8d3bc83535a46e21db4a2b",
+      "title": "Hoàng tử Harry tin có 'thuyết âm mưu' ngăn cản mình trở lại hoàng gia",
+      "link": "https://thanhnien.vn/hoang-tu-harry-tin-co-thuyet-am-muu-ngan-can-minh-tro-lai-hoang-gia-18525092909531321.htm",
+      "summary": "Người phát ngôn của Hoàng tử Harry cho biết những nhận định cho rằng Harry cảm thấy như một 'vị khách chính thức' thay vì một thành viên hoàng gia trong cuộc gặp với Vua Charles gần đây hoàn toàn là bịa đặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:08:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774217+07:00"
+    },
+    {
+      "id": "2d1616e018bf121200c0cbeaec932b15",
+      "title": "Đến 2030, Tân Sơn Nhất chỉ còn bay Lào, Campuchia, Thái Lan...",
+      "link": "https://thanhnien.vn/den-2030-tan-son-nhat-chi-con-bay-lao-campuchia-thai-lan-185250929110559983.htm",
+      "summary": "Theo phương án đề xuất của Cục Hàng không Việt Nam, các đường bay quốc tế tại CHK Tân Sơn Nhất sẽ được chuyển dần về CHK Long Thành theo lộ trình từ nay đến 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:07:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774362+07:00"
+    },
+    {
+      "id": "f131ec13cd373a79c0adb832e9955f61",
+      "title": "HnamMobile rời thị trường bán lẻ di động",
+      "link": "https://thanhnien.vn/hnammobile-roi-thi-truong-ban-le-di-dong-185250929105310631.htm",
+      "summary": "Chuỗi cửa hàng bán lẻ di động HnamMobile vừa thông báo ngừng hoạt động từ đầu tháng 10, sau hành trình gần 20 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:06:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774509+07:00"
+    },
+    {
+      "id": "e30fa36b909a1ab5027ecfac1fe9b378",
+      "title": "Đan Mạch cấm UAV dân sự hoạt động trước thềm hội nghị thượng đỉnh EU",
+      "link": "https://thanhnien.vn/dan-mach-cam-uav-dan-su-hoat-dong-truoc-them-hoi-nghi-thuong-dinh-eu-185250929104303241.htm",
+      "summary": "Đan Mạch đã ra lệnh cấm toàn bộ các chuyến bay của máy bay không người lái (UAV) dân sự sau liên tiếp những vụ phát hiện UAV gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:04:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774653+07:00"
+    },
+    {
+      "id": "395673c1a9a22587398e2383160417ac",
+      "title": "Đề xuất giao công an tỉnh, thành giám định thương tích",
+      "link": "https://thanhnien.vn/de-xuat-giao-cong-an-tinh-thanh-giam-dinh-thuong-tich-185250929102452145.htm",
+      "summary": "Luật Giám định tư pháp (sửa đổi) đề xuất quy định giao phòng kỹ thuật hình sự thuộc công an tỉnh, thành được thực hiện giám định thương tích bên cạnh các trung tâm giám định của ngành y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:01:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774810+07:00"
+    },
+    {
+      "id": "d475acb541560b3bb5ae86460948f9f8",
+      "title": "Loạt ứng dụng VPN miễn phí người dùng iPhone cần gỡ bỏ ngay",
+      "link": "https://thanhnien.vn/loat-ung-dung-vpn-mien-phi-nguoi-dung-iphone-can-go-bo-ngay-185250928210051783.htm",
+      "summary": "Theo báo cáo của Dự án Minh bạch Công nghệ (TTP), người dùng iPhone sử dụng mạng riêng ảo (VPN) miễn phí có thể đang vô tình để lộ dữ liệu nhạy cảm về Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:01:00+07:00",
+      "fetched": "2025-09-29T11:20:53.774954+07:00"
+    },
+    {
+      "id": "d57c9601cdee6d074805b4e1509572b9",
+      "title": "Trị zona thần kinh bằng tỏi được không?",
+      "link": "https://vnexpress.net/tri-zona-than-kinh-bang-toi-duoc-khong-4944876.html",
+      "summary": "Bôi tỏi có giúp sát trùng, chống viêm lên vết loét zona thần kinh ở lưng để diệt virus không? (Giang Hương, 53 tuổi, Tiền Giang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:00:00+07:00",
+      "fetched": "2025-09-29T11:20:03.338173+07:00"
+    },
+    {
+      "id": "0f267c9e3c0d767ff747a5b57eb3b830",
+      "title": "Người trẻ tìm kiếm căn hộ 'resort living' để chữa lành",
+      "link": "https://thanhnien.vn/nguoi-tre-tim-kiem-can-ho-resort-living-de-chua-lanh-185250929102117691.htm",
+      "summary": "Với phong cách resort living từ thiết kế căn hộ đến quy hoạch tiện ích, Solaria Rise đáp ứng nhu cầu tìm kiếm chốn an cư yên bình của người trẻ hiện đại - những người không chỉ cần một nơi để ở, mà còn khao khát một không gian sống có khả năng tái tạo năng lượng và cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T04:00:00+07:00",
+      "fetched": "2025-09-29T11:20:53.775097+07:00"
+    },
+    {
+      "id": "5994718cd8b79f33cf9215b22522a7bd",
+      "title": "Người đàn ông dừng xe giữa đường để nhặt tiền",
+      "link": "https://vnexpress.net/nguoi-dan-ong-dung-xe-giua-duong-de-nhat-tien-4944761.html",
+      "summary": "Đi xe máy không đội mũ bảo hiểm, người đàn ông bất ngờ phanh gấp giữa đường để nhặt tiền, hôm 28/9 tại Tống Duy Tân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:56:29+07:00",
+      "fetched": "2025-09-29T11:20:03.338363+07:00"
+    },
+    {
+      "id": "16dca866316180c652cd18f3b5134130",
+      "title": "'Tesla của làng xe máy' xâm nhập thị trường Đông Nam Á, liệu có về Việt Nam?",
+      "link": "https://thanhnien.vn/tesla-cua-lang-xe-may-xam-nhap-thi-truong-dong-nam-a-lieu-co-ve-viet-nam-185250928155234768.htm",
+      "summary": "Được ví như \"Tesla của làng xe máy\" với sản phẩm thiết kế phá cách, hiện đại và có cả công nghệ tự lái… hãng xe máy điện Omoway đang từng bước xâm nhập thị trường Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:53:00+07:00",
+      "fetched": "2025-09-29T11:20:53.775239+07:00"
+    },
+    {
+      "id": "096e52a64e046bef8b20967778347132",
+      "title": "Ba người mẫu tạo dáng với đầm đính kết",
+      "link": "https://vnexpress.net/ba-nguoi-mau-tao-dang-voi-dam-dinh-ket-4944580.html",
+      "summary": "Võ Hoàng Yến, Hoàng Thùy, Lê Hoàng Phương thể hiện bộ sưu tập của Thanh Hương Bùi, sẽ giới thiệu tại Shanghai Fashion Week 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:51:21+07:00",
+      "fetched": "2025-09-29T11:20:03.338533+07:00"
+    },
+    {
+      "id": "013ef732c2bee42b58ce279d46486cd5",
+      "title": "Nhà cửa đổ sập, tốc mái khi bão Bualoi quét qua",
+      "link": "https://vnexpress.net/nha-cua-do-sap-toc-mai-khi-bao-bualoi-quet-qua-4944823.html",
+      "summary": "Hàng loạt ngôi nhà ở các tỉnh miền Trung bị tốc mái, đổ sập khi bão Bualoi quét qua, gây thiệt hại lớn về tài sản và ảnh hưởng đời sống người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:51:13+07:00",
+      "fetched": "2025-09-29T11:20:03.338716+07:00"
+    },
+    {
+      "id": "4cdfecb8fb46e950bd2e872ff33f7712",
+      "title": "Ông Cao Tiến Đoan bị VFF bãi nhiệm tạm thời chức danh Ủy viên Ban Chấp hành",
+      "link": "https://thanhnien.vn/ong-cao-tien-doan-bi-vff-bai-nhiem-tam-thoi-chuc-danh-uy-vien-ban-chap-hanh-185250929104816398.htm",
+      "summary": "Ông Cao Tiến Đoan tạm thời không được giữ chức danh tại Liên đoàn Bóng đá Việt Nam (VFF).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:51:00+07:00",
+      "fetched": "2025-09-29T11:20:53.775377+07:00"
+    },
+    {
+      "id": "5cd9c03fd3e5e6931aae03d5b153bc1b",
+      "title": "Hà Tĩnh, Nghệ An mất điện diện rộng do bão Bualoi",
+      "link": "https://vnexpress.net/ha-tinh-nghe-an-mat-dien-dien-rong-do-bao-bualoi-4944848.html",
+      "summary": "Gần 2,5 triệu khách hàng tập trung tại các tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị... bị mất điện do bão số 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:50:06+07:00",
+      "fetched": "2025-09-29T11:20:03.338890+07:00"
+    },
+    {
+      "id": "5cd9c03fd3e5e6931aae03d5b153bc1b",
+      "title": "Hà Tĩnh, Nghệ An mất điện diện rộng do bão Bualoi",
+      "link": "https://vnexpress.net/ha-tinh-nghe-an-mat-dien-dien-rong-do-bao-bualoi-4944848.html",
+      "summary": "Gần 2,5 triệu khách hàng tập trung tại các tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị... bị mất điện do bão số 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-29T03:50:06+07:00",
+      "fetched": "2025-09-29T11:20:58.834020+07:00"
+    },
+    {
+      "id": "a18401adc02fe33495b3655cc61d9c0d",
+      "title": "Chồng nói tôi ích kỷ khi không chịu được vợ cũ của anh quấy rối",
+      "link": "https://vnexpress.net/vo-cu-cua-chong-bi-vo-cu-lam-phien-nhung-chong-toi-van-nhe-nhang-4944767.html",
+      "summary": "Sau khi kết hôn, tôi có cuộc sống thật hạnh phúc cho đến một ngày vợ cũ của chồng tìm cách quấy rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:46:17+07:00",
+      "fetched": "2025-09-29T11:20:03.339048+07:00"
+    },
+    {
+      "id": "ea27833f65038bbc0a75535b562f146b",
+      "title": "Chỉ vài cú chạm, iOS 26 sẽ khiến iPhone tiết kiệm pin thấy rõ",
+      "link": "https://thanhnien.vn/chi-vai-cu-cham-ios-26-se-khien-iphone-tiet-kiem-pin-thay-ro-185250928212640485.htm",
+      "summary": "Nhu cầu về thời lượng pin lâu hơn luôn là mong muốn hàng đầu của người dùng iPhone và iOS 26 thực sự sẽ hữu ích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:43:00+07:00",
+      "fetched": "2025-09-29T11:20:53.775512+07:00"
+    },
+    {
+      "id": "3866cb1dfcf9531c0299cd08d535f526",
+      "title": "Khoảnh khắc lốc xoáy quét qua Ninh Bình",
+      "link": "https://vnexpress.net/khoanh-khac-loc-xoay-quet-qua-ninh-binh-4944877.html",
+      "summary": "Ảnh hưởng bão Bualoi, lốc xoáy quét qua Ninh Bình sáng 29/9 khiến 6 người chết, hàng loạt nhà dân tốc mái, trường học, cột điện hư hỏng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:40:29+07:00",
+      "fetched": "2025-09-29T11:20:03.339202+07:00"
+    },
+    {
+      "id": "87c7379dbdd591ccabb70dd3b25dce78",
+      "title": "Tranh bìa sách giá 13,5 triệu USD",
+      "link": "https://vnexpress.net/tranh-bia-sach-gia-13-5-trieu-usd-4944816.html",
+      "summary": "Tranh bìa cuốn \"Conan the Barbarian\" của họa sĩ Frank Frazetta được bán giá 13,5 triệu USD, là tranh minh họa đắt nhất lịch sử xuất bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:39:26+07:00",
+      "fetched": "2025-09-29T11:20:03.339356+07:00"
+    },
+    {
+      "id": "7a761f1c75309e07cc30c21583ef266f",
+      "title": "Tổng thống Colombia 'không bận tâm' việc bị Mỹ hủy visa",
+      "link": "https://vnexpress.net/tong-thong-colombia-khong-ban-tam-viec-bi-my-huy-visa-4944803.html",
+      "summary": "Tổng thống Colombia Petro bày tỏ không bận tâm sau khi Mỹ thông báo sẽ hủy thị thực của ông vì những phát biểu \"kích động\" ở New York.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:35:14+07:00",
+      "fetched": "2025-09-29T11:20:03.339519+07:00"
+    },
+    {
+      "id": "7a761f1c75309e07cc30c21583ef266f",
+      "title": "Tổng thống Colombia 'không bận tâm' việc bị Mỹ hủy visa",
+      "link": "https://vnexpress.net/tong-thong-colombia-khong-ban-tam-viec-bi-my-huy-visa-4944803.html",
+      "summary": "Tổng thống Colombia Petro bày tỏ không bận tâm sau khi Mỹ thông báo sẽ hủy thị thực của ông vì những phát biểu \"kích động\" ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T03:35:14+07:00",
+      "fetched": "2025-09-29T11:20:56.696821+07:00"
+    },
+    {
+      "id": "82c7171e01bf7451d6a8e50d8cd11210",
+      "title": "Đề xuất trang bị máy bay không người lái tuần tra an ninh",
+      "link": "https://vnexpress.net/de-xuat-trang-bi-may-bay-khong-nguoi-lai-tuan-tra-an-ninh-4944834.html",
+      "summary": "Đề xuất trang bị cho Quốc phòng để tuần tra an ninh biên giới kết hợp chống buôn lậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:32:36+07:00",
+      "fetched": "2025-09-29T11:20:03.339618+07:00"
+    },
+    {
+      "id": "efc7b93c3b680e7c0781e999a0e55768",
+      "title": "Bé 5 tuổi cận 10 độ vì ông bà dỗ bằng điện thoại",
+      "link": "https://vnexpress.net/be-5-tuoi-can-10-do-vi-ong-ba-do-bang-dien-thoai-4944780.html",
+      "summary": "Thấy cháu trai 5 tuổi khóc, ông bà thường đưa điện thoại dỗ dành, khiến bé bị cận thị nặng gần 10 độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:28:17+07:00",
+      "fetched": "2025-09-29T11:20:03.339796+07:00"
+    },
+    {
+      "id": "3e0d5eaa47e0d1a36dc226f79ecc62a9",
+      "title": "Êkíp 'Mưa đỏ' tri ân khán giả ở suất chiếu cuối",
+      "link": "https://vnexpress.net/ekip-mua-do-tri-an-khan-gia-o-suat-chieu-cuoi-4944850.html",
+      "summary": "Các diễn viên Đỗ Nhật Hoàng, Steven Nguyễn và nhà sản xuất Nguyễn Trí Viễn giao lưu khán giả trước ngày \"Mưa đỏ\" rời rạp, tối 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:25:25+07:00",
+      "fetched": "2025-09-29T11:20:03.339959+07:00"
+    },
+    {
+      "id": "2650dbc28e64cabaaf118b34b81c3c55",
+      "title": "Lại Lý Huynh - từ tuổi thơ rong ruổi đánh cờ đến kỳ vương thế giới",
+      "link": "https://vnexpress.net/lai-ly-huynh-tu-tuoi-tho-rong-ruoi-danh-co-den-ky-vuong-the-gioi-4944657.html",
+      "summary": "Sớm phải nghỉ học vì hoàn cảnh gia đình, Lại Lý Huynh chọn theo đuổi đam mê cờ tướng rồi sau hơn 20 năm lật đổ thế độc tôn của Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:24:35+07:00",
+      "fetched": "2025-09-29T11:20:03.340116+07:00"
+    },
+    {
+      "id": "2650dbc28e64cabaaf118b34b81c3c55",
+      "title": "Lại Lý Huynh - từ tuổi thơ rong ruổi đánh cờ đến kỳ vương thế giới",
+      "link": "https://vnexpress.net/lai-ly-huynh-tu-tuoi-tho-rong-ruoi-danh-co-den-ky-vuong-the-gioi-4944657.html",
+      "summary": "Sớm phải nghỉ học vì hoàn cảnh gia đình, Lại Lý Huynh chọn theo đuổi đam mê cờ tướng rồi sau hơn 20 năm lật đổ thế độc tôn của Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T03:24:35+07:00",
+      "fetched": "2025-09-29T11:21:03.817373+07:00"
+    },
+    {
+      "id": "ce6e37069f73639fe8e3152562a96562",
+      "title": "Bộ Khoa học và Công nghệ tổ chức lễ kỷ niệm lớn nhất của ngành",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-to-chuc-le-ky-niem-lon-nhat-cua-nganh-4944838.html",
+      "summary": "Chiều 29/9, lễ kỷ niệm 80 năm ngành Bưu chính Viễn thông, 66 năm ngành Khoa học và Công nghệ sẽ được tổ chức tại Trung tâm Hội nghị Quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:23:26+07:00",
+      "fetched": "2025-09-29T11:20:03.340278+07:00"
+    },
+    {
+      "id": "ce6e37069f73639fe8e3152562a96562",
+      "title": "Bộ Khoa học và Công nghệ tổ chức lễ kỷ niệm lớn nhất của ngành",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-to-chuc-le-ky-niem-lon-nhat-cua-nganh-4944838.html",
+      "summary": "Chiều 29/9, lễ kỷ niệm 80 năm ngành Bưu chính Viễn thông, 66 năm ngành Khoa học và Công nghệ sẽ được tổ chức tại Trung tâm Hội nghị Quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-29T03:23:26+07:00",
+      "fetched": "2025-09-29T11:21:02.014838+07:00"
+    },
+    {
+      "id": "49af102a2752251935449932e5cbc0fb",
+      "title": "Chương Tử Di mặc tôn dáng",
+      "link": "https://vnexpress.net/chuong-tu-di-mac-ton-dang-4944845.html",
+      "summary": "Minh tinh Trung Quốc Chương Tử Di chọn thiết kế vải ren, xuyên thấu dự Tuần thời trang Milan, Italy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T03:18:13+07:00",
+      "fetched": "2025-09-29T11:20:03.340433+07:00"
+    },
+    {
+      "id": "bc391d47238e54a23deb6007b36f59b1",
+      "title": "Nghi phạm xả súng, đốt nhà thờ Mỹ là cựu lính thủy đánh bộ",
+      "link": "https://vnexpress.net/nghi-pham-xa-sung-dot-nha-tho-my-la-cuu-linh-thuy-danh-bo-4944797.html",
+      "summary": "Nghi phạm Sanford, 40 tuổi, xả súng, phóng hỏa nhà thờ Michigan khiến ít nhất 4 người chết là cựu lính thủy đánh bộ, từng tham chiến ở Iraq.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T03:15:12+07:00",
+      "fetched": "2025-09-29T11:20:56.696988+07:00"
+    },
+    {
       "id": "3920461bbfcbd5b47c7ad3e9879e8053",
       "title": "Biểu tượng kết nối một thời của Apple vừa chính thức biến mất",
       "link": "https://thanhnien.vn/bieu-tuong-ket-noi-mot-thoi-cua-apple-vua-chinh-thuc-bien-mat-185250928224508354.htm",
@@ -321,6 +681,16 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T03:00:00+07:00",
       "fetched": "2025-09-29T10:02:20.265539+07:00"
+    },
+    {
+      "id": "263f7cad677612b3cb07ca915d7a1507",
+      "title": "Aeon mở siêu thị đầu tiên tại Hưng Yên",
+      "link": "https://vnexpress.net/aeon-mo-sieu-thi-dau-tien-tai-hung-yen-4944698.html",
+      "summary": "Trung tâm Bách hóa tổng hợp và Siêu thị Aeon Văn Giang khai trương ngày 2/10, đặt tại Vincom Mega Mall Ocean City, tổng diện tích hơn 7.550 m2, đánh dấu cơ sở thứ 11 tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-29T03:00:00+07:00",
+      "fetched": "2025-09-29T11:20:58.834953+07:00"
     },
     {
       "id": "2b75798a70e749823baa0d4c5dd74f47",
