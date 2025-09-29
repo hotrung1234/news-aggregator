@@ -1,7 +1,27 @@
 window.newsData_2025_09_30 = {
   "date": "2025-09-30",
-  "lastUpdated": "2025-09-30T01:24:07.877486+07:00",
+  "lastUpdated": "2025-09-30T03:16:33.429406+07:00",
   "articles": [
+    {
+      "id": "7468bfc54385200c09a0273632471d17",
+      "title": "Crimea bán xăng dầu theo định mức do thiếu hụt",
+      "link": "https://tuoitre.vn/crimea-ban-xang-dau-theo-dinh-muc-do-thieu-hut-20250929213601563.htm",
+      "summary": "Các tài xế ô tô ở bán đảo Crimea giờ đây sẽ bị giới hạn chỉ được mua 30 lít nhiên liệu mỗi lần trong lúc thiếu hụt nguồn cung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T03:16:26.207226+07:00",
+      "fetched": "2025-09-30T03:16:26.207343+07:00"
+    },
+    {
+      "id": "d85c84841cd2b17bc4acd3ccf1ac1ce4",
+      "title": "Lũ đặc biệt lớn trên sông Hồng, 4 giờ dâng 2,6m",
+      "link": "https://tuoitre.vn/lu-dac-biet-lon-tren-song-hong-4-gio-dang-2-6m-20250930001452231.htm",
+      "summary": "Mưa lớn do bão Bualoi (bão số 10) gây ra khiến lũ trên sông Thao (sông Hồng) đoạn qua trạm Yên Bái (tỉnh Lào Cai) đang lên rất nhanh trong đêm, trong vòng 4 giờ đã dâng thêm 2,6m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T03:16:26.206491+07:00",
+      "fetched": "2025-09-30T03:16:26.206674+07:00"
+    },
     {
       "id": "ba7bc78ee926bbd69a9e87752742c2dc",
       "title": "Những đặc điểm hiếm thấy của bão Bualoi",
