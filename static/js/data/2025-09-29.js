@@ -1,7 +1,27 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T19:35:02.807500+07:00",
+  "lastUpdated": "2025-09-29T21:17:01.063820+07:00",
   "articles": [
+    {
+      "id": "af0cc8f07d7d35703e933e3292653c17",
+      "title": "Chủ tịch Công ty Pha Lê thuê giang hồ chém cổ đông, thâu tóm mỏ cát",
+      "link": "https://tuoitre.vn/chu-tich-cong-ty-pha-le-thue-giang-ho-chem-co-dong-thau-tom-mo-cat-20250929185356512.htm",
+      "summary": "Chủ tịch Công ty TNHH thương mại Pha Lê Quảng Nam cùng 3 bị cáo lãnh án sau vụ chém cổ đông, dằn mặt để thâu tóm mỏ cát. Ngoài ra, còn 3 đồng phạm khác đang bị truy nã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T21:16:54.708677+07:00",
+      "fetched": "2025-09-29T21:16:54.708804+07:00"
+    },
+    {
+      "id": "06a103412b6f760d98bdece6adf3b46b",
+      "title": "Ông Lê Quang Mạnh, Nguyễn Hữu Đông nhận chức vụ mới tại Quốc hội",
+      "link": "https://tuoitre.vn/ong-le-quang-manh-nguyen-huu-dong-nhan-chuc-vu-moi-tai-quoc-hoi-20250929190855706.htm",
+      "summary": "Ông Lê Quang Mạnh giữ chức Phó chủ nhiệm thường trực Văn phòng Quốc hội. Còn Phó trưởng Ban Nội chính Trung ương Nguyễn Hữu Đông giữ chức Phó chủ nhiệm thường trực Ủy ban Công tác đại biểu của Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T21:16:54.708459+07:00",
+      "fetched": "2025-09-29T21:16:54.708661+07:00"
+    },
     {
       "id": "203cac274bca0ee3bac28dc5f925ee62",
       "title": "Hậu vệ Arsenal lấy khăn mặt của đối thủ để lau bóng",
@@ -323,6 +343,126 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T15:24:04.832561+07:00"
     },
     {
+      "id": "305e15faa836fc48b8300372b05df234",
+      "title": "NATO điều binh tăng cường an ninh ở Đan Mạch",
+      "link": "https://thanhnien.vn/nato-dieu-binh-tang-cuong-an-ninh-o-dan-mach-185250929200537257.htm",
+      "summary": "Pháp, Đức và Thụy Điển sẽ triển khai quân nhân và hệ thống chống máy bay không người lái (UAV) đến Đan Mạch nhằm tăng cường an ninh cho các hội nghị thượng đỉnh châu Âu diễn ra tại Copenhagen vào tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T14:12:00+07:00",
+      "fetched": "2025-09-29T21:16:53.857589+07:00"
+    },
+    {
+      "id": "695a2c00159fa7e27bce7f0abd1d3ee6",
+      "title": "Ớn lạnh khoảnh khắc sạt lở đất cuốn ô tô xuống vực sâu 20 mét",
+      "link": "https://thanhnien.vn/on-lanh-khoanh-khac-sat-lo-dat-cuon-o-to-xuong-vuc-sau-20-met-185250929210510484.htm",
+      "summary": "Do ảnh hưởng của bão số 10 (bão Bualoi), một phần đất đá bên sườn đồi bên đường lên bản Cát Cát (Lào Cai) bất ngờ bị sạt lở, cuốn trôi xe ô tô có 3 người bên trong xuống vực sâu khoảng 20 mét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T14:05:00+07:00",
+      "fetched": "2025-09-29T21:16:53.857755+07:00"
+    },
+    {
+      "id": "c0948d8dea4350544725584e60fdbdca",
+      "title": "Cho vay nặng lãi, trong 3 tháng thu lợi bất chính hơn 2 tỉ đồng",
+      "link": "https://thanhnien.vn/cho-vay-nang-lai-trong-3-thang-thu-loi-bat-chinh-hon-2-ti-dong-185250929201226728.htm",
+      "summary": "Nữ bị can cho vay nặng lãi, thu lợi bất chính hơn 2 tỉ đồng, vừa bị Công an TP.Đà Nẵng bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:56:00+07:00",
+      "fetched": "2025-09-29T21:16:53.857907+07:00"
+    },
+    {
+      "id": "2523a7f1d1753b623bb1c2698b923321",
+      "title": "Hai lần không đủ căn cứ buộc tội vụ tự chặt cây cà phê của chính mình",
+      "link": "https://thanhnien.vn/hai-lan-khong-du-can-cu-buoc-toi-vu-tu-chat-cay-ca-phe-cua-chinh-minh-185250929200054829.htm",
+      "summary": "Hai lần tòa phúc thẩm hủy án vì không đủ cơ sở kết tội bị cáo Vũ Văn Viển (Đắk Nông) về tội hủy hoại tài sản do ngăn cản vợ cũ tự ý bán rẫy nên đã chặt cây cà phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:54:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858058+07:00"
+    },
+    {
+      "id": "a685048e8f523421cd51fc607df9e5f9",
+      "title": "Trộm linh kiện trị giá 2,5 tỉ, mang bán phế liệu được 45 triệu",
+      "link": "https://thanhnien.vn/trom-linh-kien-tri-gia-25-ti-mang-ban-phe-lieu-duoc-45-trieu-185250929203006.htm",
+      "summary": "2 nhân viên dùng xe tải trộm cắp 48 thùng linh kiện của công ty trị giá 2,5 tỉ đồng, sau đó mang đi bán phế liệu thu được 45 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:43:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858208+07:00"
+    },
+    {
+      "id": "afbb7d04e3fab7f4db4afc29e5037dfa",
+      "title": "Alcaraz đấu Fritz ở chung kết Nhật Bản Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-dau-fritz-o-chung-ket-nhat-ban-mo-rong-4945206.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz thắng ngược Casper Ruud 3-6, 6-3, 6-4, để vào chung kết Nhật Bản Mở rộng gặp hạt giống số hai Taylor Fritz.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T13:41:42+07:00",
+      "fetched": "2025-09-29T21:17:01.051337+07:00"
+    },
+    {
+      "id": "4090107d9c35b1e9c3f62f652ec6fa97",
+      "title": "Chính phủ Tổng thống Trump coi trọng Đối tác chiến lược toàn diện Việt - Mỹ",
+      "link": "https://thanhnien.vn/chinh-phu-tong-thong-trump-coi-trong-doi-tac-chien-luoc-toan-dien-viet-my-185250929202450712.htm",
+      "summary": "Chiều 29.9, tại Trụ sở T.Ư Đảng, Tổng Bí thư Tô Lâm tiếp Đại sứ Mỹ tại Việt Nam Marc Knapper.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:41:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858356+07:00"
+    },
+    {
+      "id": "3783d59db9dd8310ff2e179170034f48",
+      "title": "Đại úy công an lao ra dòng lũ lớn, cứu người dân đang bị cuốn trôi",
+      "link": "https://thanhnien.vn/dai-uy-cong-an-lao-ra-dong-lu-lon-cuu-nguoi-dan-dang-bi-cuon-troi-185250929201505092.htm",
+      "summary": "Phát hiện người dân bị lũ cuốn trôi, đại úy công an tại Phú Thọ không chút do dự, lao ra dòng nước đang chảy xiết để cứu nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:35:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858528+07:00"
+    },
+    {
+      "id": "ad4bfa0c4ac7a3bcfe52197477e96246",
+      "title": "Kè và đường ven biển ở Thanh Hóa tan hoang sau bão số 10",
+      "link": "https://thanhnien.vn/ke-va-duong-ven-bien-o-thanh-hoa-tan-hoang-sau-bao-so-10-185250929194712586.htm",
+      "summary": "Kè và đường ven biển Hải Tiến (tỉnh Thanh Hóa) đã bị sóng biển đánh tan hoang khi bão số 10 đổ bộ vào đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:33:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858685+07:00"
+    },
+    {
+      "id": "6446e0eeab4ace50b393ce48fa25d676",
+      "title": "Đà Nẵng: Giải cứu một người Trung Quốc bị bắt cóc",
+      "link": "https://thanhnien.vn/da-nang-giai-cuu-mot-nguoi-trung-quoc-bi-bat-coc-185250929194743461.htm",
+      "summary": "Một người Trung Quốc bị bắt cóc, giam giữ tại nhà nghỉ để ép gọi về nước chuyển tiền trả nợ, vừa được Công an TP.Đà Nẵng giải cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:32:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858832+07:00"
+    },
+    {
+      "id": "105bdd9bda02bb28e81cef061928fff5",
+      "title": "Clip người phụ nữ rải bột lạ trên đường ở TP.HCM: 'Chỉ là bột cà phê'",
+      "link": "https://thanhnien.vn/clip-nguoi-phu-nu-rai-bot-la-tren-duong-o-tphcm-chi-la-bot-ca-phe-185250929160003912.htm",
+      "summary": "Người lái xe máy chở người phụ nữ phía sau rải bột lạ trên đường ở TP.HCM gây hoang mang mạng xã hội cho biết đây chỉ là bột cà phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:30:00+07:00",
+      "fetched": "2025-09-29T21:16:53.858976+07:00"
+    },
+    {
+      "id": "0ac65535db092fac593312e9760cd78d",
+      "title": "Hãng xe thể thao 'lận đận' bậc nhất thế giới sắp mở bán tại Việt Nam",
+      "link": "https://thanhnien.vn/hang-xe-the-thao-lan-dan-bac-nhat-the-gioi-sap-mo-ban-tai-viet-nam-185250929125030906.htm",
+      "summary": "Người dùng đam mê các dòng xe thể thao Lotus sắp tới đây sẽ dễ dàng hiện thực hóa giấc mơ, khi thương hiệu Anh Quốc này vừa chính thức có đối tác phân phối tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:28:00+07:00",
+      "fetched": "2025-09-29T21:16:53.859120+07:00"
+    },
+    {
       "id": "7c6b5fcea2c96384eff1144f84112b51",
       "title": "Đề xuất phòng kỹ thuật hình sự công an cấp tỉnh giám định pháp y thương tích",
       "link": "https://tuoitre.vn/de-xuat-phong-ky-thuat-hinh-su-cong-an-cap-tinh-giam-dinh-phap-y-thuong-tich-20250929104819241.htm",
@@ -473,6 +613,166 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T13:26:14.855222+07:00"
     },
     {
+      "id": "e2a357c560df835ee952035ef2ca8a6c",
+      "title": "Nạn nhân thoát chết trong Bouloi: 'Bão cuốn phăng nhà xưởng trong một phút'",
+      "link": "https://vnexpress.net/nan-nhan-thoat-chet-trong-bouloi-bao-cuon-phang-nha-xuong-trong-mot-phut-4945196.html",
+      "summary": "Sau tiếng rít kinh hoàng, cả nhà xưởng của chị Thanh Hường bị lốc nhấc bổng, 4 chiếc máy may bị \"hất\" văng xa hàng chục mét, lan can \"lủng lẳng\" như xích đu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:24:05+07:00",
+      "fetched": "2025-09-29T21:16:49.138298+07:00"
+    },
+    {
+      "id": "d0adeaf51f62f07e38012bda03319967",
+      "title": "Thắng vất vả Hà Nam, Huỳnh Như và CLB TP.HCM I gây áp lực lên đội Hà Nội",
+      "link": "https://thanhnien.vn/thang-vat-va-ha-nam-huynh-nhu-va-clb-tphcm-i-gay-ap-luc-len-doi-ha-noi-185250929202334735.htm",
+      "summary": "Bàn thắng muộn ở những phút cuối hiệp 2 đã giúp CLB TP.HCM I giành trọn 3 điểm ở vòng 7 ngày 29.9, qua đó, tạo áp lực lên Hà Nội ở cuộc đua đến ngôi đầu giải nữ VĐQG – Cúp Thái Sơn Bắc 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:23:00+07:00",
+      "fetched": "2025-09-29T21:16:53.859270+07:00"
+    },
+    {
+      "id": "7a3994848f9e59c3cd5aede17c0d580c",
+      "title": "Dấu hiệu nào để nhận biết suy buồng trứng sớm?",
+      "link": "https://thanhnien.vn/dau-hieu-nao-de-nhan-biet-suy-buong-trung-som-185250910200125054.htm",
+      "summary": "'Em thấy hiện nay ngày càng có nhiều phụ nữ trẻ gặp tình trạng suy buồng trứng. Thưa bác sĩ cho em hỏi có cách nào để nhận biết suy buồng trứng sớm, cách phòng ngừa và nếu không may gặp phải thì có phương pháp nào điều trị? (Thanh Mai, 29 tuổi, ở Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:23:00+07:00",
+      "fetched": "2025-09-29T21:16:53.859434+07:00"
+    },
+    {
+      "id": "1b14049316d578c3bc51958bae9ceb65",
+      "title": "Cà Mau: Sắp xếp hàng loạt đơn vị, 6 trường cao đẳng, 2 công ty xổ số",
+      "link": "https://thanhnien.vn/ca-mau-sap-xep-hang-loat-don-vi-6-truong-cao-dang-2-cong-ty-xo-so-185250929184256591.htm",
+      "summary": "Sở Nội vụ Cà Mau vừa trình UBND tỉnh phương án sắp xếp đơn vị sự nghiệp công lập, 2 công ty xổ số, 6 trường cao đẳng, các ban quản lý dự án...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:19:00+07:00",
+      "fetched": "2025-09-29T21:16:53.859580+07:00"
+    },
+    {
+      "id": "8442b9509e5579df1b1051be42d71b62",
+      "title": "Apple gợi ý cách sửa lỗi iPhone 17 Pro bị trầy xước",
+      "link": "https://thanhnien.vn/apple-goi-y-cach-sua-loi-iphone-17-pro-bi-tray-xuoc-185250929144813345.htm",
+      "summary": "Ngay sau khi iPhone 17 Pro lên kệ, nhiều hình ảnh và video đã xuất hiện trên internet cho thấy những vết trầy xước trên mặt lưng của điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:17:00+07:00",
+      "fetched": "2025-09-29T21:16:53.859728+07:00"
+    },
+    {
+      "id": "861ed55e38071e149dda4bf98d40dc0b",
+      "title": "Hàn Quốc chạy đua khôi phục 647 dịch vụ công trực tuyến",
+      "link": "https://vnexpress.net/han-quoc-chay-dua-khoi-phuc-647-dich-vu-cong-truc-tuyen-4945101.html",
+      "summary": "Hàn Quốc đã khôi phục được 62 trong số 647 dịch vụ công bị gián đoạn do vụ cháy trung tâm dữ liệu ở Daejeon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:10:46+07:00",
+      "fetched": "2025-09-29T21:16:49.138521+07:00"
+    },
+    {
+      "id": "861ed55e38071e149dda4bf98d40dc0b",
+      "title": "Hàn Quốc chạy đua khôi phục 647 dịch vụ công trực tuyến",
+      "link": "https://vnexpress.net/han-quoc-chay-dua-khoi-phuc-647-dich-vu-cong-truc-tuyen-4945101.html",
+      "summary": "Hàn Quốc đã khôi phục được 62 trong số 647 dịch vụ công bị gián đoạn do vụ cháy trung tâm dữ liệu ở Daejeon.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-29T13:10:46+07:00",
+      "fetched": "2025-09-29T21:16:59.609504+07:00"
+    },
+    {
+      "id": "303f1fc1e55402dfd05d1873b31882ce",
+      "title": "Cứu hai khách Đức đi lạc ở vườn Quốc gia Hoàng Liên gần 24 giờ",
+      "link": "https://vnexpress.net/cuu-hai-khach-duc-di-lac-o-vuon-quoc-gia-hoang-lien-gan-24-gio-4945183.html",
+      "summary": "Sau gần một ngày tìm kiếm trong điều kiện mưa lớn, đường trơn trượt nguy hiểm, đội cứu hộ đã tìm thấy hai khách Đức bị lạc trong lúc trekking ở vườn Quốc gia Hoàng Liên ngày 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:00:17+07:00",
+      "fetched": "2025-09-29T21:16:49.138699+07:00"
+    },
+    {
+      "id": "f24cba86df11d98ba40a2fc27b433b6b",
+      "title": "Bạn gái không cảm xúc khi gần gũi dù tôi có nhiều kinh nghiệm",
+      "link": "https://vnexpress.net/sex-chuyen-chan-goi-ban-gai-khong-cam-xuc-khi-gan-gui-du-toi-co-nhieu-kinh-nghiem-4944794.html",
+      "summary": "Tôi là người đầu tiên của em, khi gần gũi, em luôn có cảm giác đau và tôi để ý em hay nhìn trần nhà, không cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:00:00+07:00",
+      "fetched": "2025-09-29T21:16:49.138858+07:00"
+    },
+    {
+      "id": "08339f5dde236a4af993fcd884a6c378",
+      "title": "4 nguyên nhân hại phổi ngoài hút thuốc lá",
+      "link": "https://vnexpress.net/4-nguyen-nhan-hai-phoi-ngoai-hut-thuoc-la-4945050.html",
+      "summary": "Không chỉ thuốc lá mà căng thẳng kéo dài, ngồi một chỗ quá lâu, tiếp xúc với các chất gây ô nhiễm không khí trong thời gian dài cũng gây hại sức phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:00:00+07:00",
+      "fetched": "2025-09-29T21:16:49.139011+07:00"
+    },
+    {
+      "id": "6fb452ea80d7ff2fbe484671dda5d7b8",
+      "title": "Ba người Trung Quốc bắt cóc đồng hương để đòi nợ",
+      "link": "https://vnexpress.net/ba-nguoi-trung-quoc-bat-coc-dong-huong-de-doi-no-4945189.html",
+      "summary": "Cho đồng hương vay 740 triệu đồng đánh bạc nhưng thua sạch, He Kai lệnh cho 2 \"đàn em\" khống chế con nợ, buộc gọi điện cho người thân chuyển tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:57:33+07:00",
+      "fetched": "2025-09-29T21:16:49.139162+07:00"
+    },
+    {
+      "id": "22d6ad35c634db1435ba9014646c5876",
+      "title": "Ôtô bị cuốn xuống vực sâu 50 m, ba người thoát nạn",
+      "link": "https://vnexpress.net/oto-bi-cuon-xuong-vuc-sau-50-m-ba-nguoi-thoat-nan-4945191.html",
+      "summary": "Chiếc xe 5 chỗ chở ba người trên đường xuống bản Cát Cát, Sa Pa, bất ngờ bị đất đá từ taluy dương đẩy xuống vực sâu khoảng 50 m, ba người trong xe may mắn thoát nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:56:28+07:00",
+      "fetched": "2025-09-29T21:16:49.139319+07:00"
+    },
+    {
+      "id": "4a1a7bfacb751c24e79452437896b0ab",
+      "title": "Bốn người bị khởi tố vì đẩy giá đấu giá quyền khai thác cát lên 1.534%",
+      "link": "https://vnexpress.net/bon-nguoi-bi-khoi-to-vi-day-gia-dau-gia-quyen-khai-thac-cat-len-1-534-4945185.html",
+      "summary": "Công an khởi tố 4 người liên quan vụ thông đồng đẩy giá đấu giá quyền khai thác mỏ cát xây dựng ĐB2B lên tới 1.534,6% - cao gấp hơn 306 lần giá khởi điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:49:20+07:00",
+      "fetched": "2025-09-29T21:16:49.139536+07:00"
+    },
+    {
+      "id": "78515186086199f7276c042ff2ac92ef",
+      "title": "Việt - Nga quyết tâm đưa hợp tác khoa học công nghệ lên tầm cao mới",
+      "link": "https://vnexpress.net/viet-nga-quyet-tam-dua-hop-tac-khoa-hoc-cong-nghe-len-tam-cao-moi-4945178.html",
+      "summary": "Tổng Bí thư Tô Lâm và Chủ tịch Duma Quốc gia Nga khẳng định quyết tâm đưa hợp tác nhiều lĩnh vực lên tầm cao mới, trong đó có khoa học - công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:48:58+07:00",
+      "fetched": "2025-09-29T21:16:49.139715+07:00"
+    },
+    {
+      "id": "78515186086199f7276c042ff2ac92ef",
+      "title": "Việt - Nga quyết tâm đưa hợp tác khoa học công nghệ lên tầm cao mới",
+      "link": "https://vnexpress.net/viet-nga-quyet-tam-dua-hop-tac-khoa-hoc-cong-nghe-len-tam-cao-moi-4945178.html",
+      "summary": "Tổng Bí thư Tô Lâm và Chủ tịch Duma Quốc gia Nga khẳng định quyết tâm đưa hợp tác nhiều lĩnh vực lên tầm cao mới, trong đó có khoa học - công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T12:48:58+07:00",
+      "fetched": "2025-09-29T21:16:56.274008+07:00"
+    },
+    {
+      "id": "882effc3348bbaa99e32fa2198944a4e",
+      "title": "Dụ hàng trăm nghìn người mở thẻ tín dụng, rút 800 tỷ đồng",
+      "link": "https://vnexpress.net/du-hang-tram-nghin-nguoi-mo-the-tin-dung-rut-800-ty-dong-4945186.html",
+      "summary": "Trần Thế Huy bị cáo buộc cho nhân viên gọi điện dụ hàng trăm nghìn người mở hơn 200.000 thẻ tín dụng rồi hướng dẫn rút 800 tỷ đồng bằng các đơn hàng khống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:34:27+07:00",
+      "fetched": "2025-09-29T21:16:49.139868+07:00"
+    },
+    {
       "id": "4ee44f5f63c08df2f6f226148e488949",
       "title": "Đức Phúc nói gì khi bị báo chí phương Tây quy chụp giới tính?",
       "link": "https://thanhnien.vn/duc-phuc-noi-gi-khi-bi-bao-chi-phuong-tay-quy-chup-gioi-tinh-185250929192613077.htm",
@@ -481,6 +781,26 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T12:33:00+07:00",
       "fetched": "2025-09-29T19:34:56.786691+07:00"
+    },
+    {
+      "id": "5f6907500a0fb9a01d157410a19e34c4",
+      "title": "Văn hóa tôn sùng minh tinh như thánh nhân ở bang miền nam Ấn Độ",
+      "link": "https://vnexpress.net/van-hoa-ton-sung-minh-tinh-nhu-thanh-nhan-o-bang-mien-nam-an-do-4944778.html",
+      "summary": "Với người dân Tamil Nadu, minh tinh không chỉ là nghệ sĩ mà còn là biểu tượng văn hóa, lãnh tụ tinh thần, đôi khi được tôn sùng như thánh nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:28:17+07:00",
+      "fetched": "2025-09-29T21:16:49.140022+07:00"
+    },
+    {
+      "id": "2d4783f1e7b2329fd0abfa14a97b36a7",
+      "title": "Văn hóa tôn sùng sao điện ảnh như thánh nhân ở bang miền nam Ấn Độ",
+      "link": "https://vnexpress.net/van-hoa-ton-sung-sao-dien-anh-nhu-thanh-nhan-o-bang-mien-nam-an-do-4944778.html",
+      "summary": "Với người dân Tamil Nadu, sao điện ảnh không chỉ là nghệ sĩ mà còn là biểu tượng văn hóa, lãnh tụ tinh thần, đôi khi được tôn sùng như thánh nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T12:28:17+07:00",
+      "fetched": "2025-09-29T21:16:56.274179+07:00"
     },
     {
       "id": "43157a47fd6e78b4a3daa34f0e06c36c",
@@ -501,6 +821,16 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T12:15:00+07:00",
       "fetched": "2025-09-29T19:34:56.787045+07:00"
+    },
+    {
+      "id": "1bb245bcd794abe23fa34933d8a3d936",
+      "title": "Ông Lê Quang Mạnh được giao điều hành Văn phòng Quốc hội",
+      "link": "https://vnexpress.net/ong-le-quang-manh-duoc-giao-dieu-hanh-van-phong-quoc-hoi-4945184.html",
+      "summary": "Ủy ban Thường vụ Quốc hội điều động, bổ nhiệm ông Lê Quang Mạnh làm Phó chủ nhiệm Thường trực, tạm thời điều hành Văn phòng Quốc hội cho đến khi kiện toàn nhân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:11:54+07:00",
+      "fetched": "2025-09-29T21:16:49.140175+07:00"
     },
     {
       "id": "6214e21b9c4e1cfe6fb9e8bcb8bb3a3d",
