@@ -1,7 +1,157 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T11:21:03.824601+07:00",
+  "lastUpdated": "2025-09-29T13:26:20.387850+07:00",
   "articles": [
+    {
+      "id": "7c6b5fcea2c96384eff1144f84112b51",
+      "title": "Đề xuất phòng kỹ thuật hình sự công an cấp tỉnh giám định pháp y thương tích",
+      "link": "https://tuoitre.vn/de-xuat-phong-ky-thuat-hinh-su-cong-an-cap-tinh-giam-dinh-phap-y-thuong-tich-20250929104819241.htm",
+      "summary": "Sáng 29-9, Ủy ban Thường vụ Quốc hội cho ý kiến về dự Luật Giám định tư pháp sửa đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.857009+07:00",
+      "fetched": "2025-09-29T13:26:14.857123+07:00"
+    },
+    {
+      "id": "966220e5d14e7d6c2ac49bfb9456d0f3",
+      "title": "Trung Quốc phát triển thủy tinh sinh học giúp xương tự chữa lành",
+      "link": "https://tuoitre.vn/trung-quoc-phat-trien-thuy-tinh-sinh-hoc-giup-xuong-tu-chua-lanh-20250929101816235.htm",
+      "summary": "Các nhà khoa học Trung Quốc vừa công bố nghiên cứu đột phá về vật liệu thủy tinh sinh học có thể in 3D.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856882+07:00",
+      "fetched": "2025-09-29T13:26:14.856993+07:00"
+    },
+    {
+      "id": "3472d0b1570152e538679de285380825",
+      "title": "Ngự trù của bạo chúa chạm nóc rating tập cuối, là phim cao nhất Đài tvN 2025",
+      "link": "https://tuoitre.vn/ngu-tru-cua-bao-chua-cham-noc-rating-tap-cuoi-la-phim-cao-nhat-dai-tvn-2025-20250929103150789.htm",
+      "summary": "Tập cuối phim Ngự trù của bạo chúa phát sóng tối 28-9 ghi nhận tỉ suất người xem 17,1% trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856757+07:00",
+      "fetched": "2025-09-29T13:26:14.856871+07:00"
+    },
+    {
+      "id": "164bcbc002863c1d76dda2f789fb86a0",
+      "title": "Khen thưởng cậu bé cứu bạn trong vụ thảm án",
+      "link": "https://tuoitre.vn/khen-thuong-cau-be-cuu-ban-trong-vu-tham-an-20250929102212555.htm",
+      "summary": "Học sinh lớp 5 cứu bạn thoát chết trong vụ thảm án ở Đắk Lắk được UBND tỉnh tặng bằng khen, tuyên dương trước toàn trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856610+07:00",
+      "fetched": "2025-09-29T13:26:14.856744+07:00"
+    },
+    {
+      "id": "5ce9a1331db4f2a53567b625dcdc6bd9",
+      "title": "Vụ xe khách chèn ép làm xe tải tóe lửa: Hai tài xế khai không có mâu thuẫn",
+      "link": "https://tuoitre.vn/vu-xe-khach-chen-ep-lam-xe-tai-toe-lua-hai-tai-xe-khai-khong-co-mau-thuan-2025092910582671.htm",
+      "summary": "Cả hai lái xe khai nhận không có mâu thuẫn mà nguyên nhân dẫn đến va chạm là do tài xế xe khách khi đánh lái bị khuất tầm nhìn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856483+07:00",
+      "fetched": "2025-09-29T13:26:14.856598+07:00"
+    },
+    {
+      "id": "5280b4229de3efaa9266996d4b214944",
+      "title": "Giải pháp nào để hết mưa là ngập ở Đà Nẵng?",
+      "link": "https://tuoitre.vn/giai-phap-nao-de-het-mua-la-ngap-o-da-nang-20250928084610387.htm",
+      "summary": "Nỗi ám ảnh của trận lụt lịch sử 2022 vẫn trong tâm trí người dân, đòi hỏi chính quyền phải có giải pháp căn cơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856359+07:00",
+      "fetched": "2025-09-29T13:26:14.856472+07:00"
+    },
+    {
+      "id": "c27ff178cfd1b83500d398420cf3f16c",
+      "title": "Phát hiện sóng hấp dẫn bí ẩn, khoa học nghi ngờ đến từ vũ trụ song song",
+      "link": "https://tuoitre.vn/phat-hien-song-hap-dan-bi-an-khoa-hoc-nghi-ngo-den-tu-vu-tru-song-song-20250929094930066.htm",
+      "summary": "Các nhà khoa học phát hiện tín hiệu sóng hấp dẫn GW190521 không khớp với mô hình hố đen thông thường và đề xuất giả thuyết táo bạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856223+07:00",
+      "fetched": "2025-09-29T13:26:14.856346+07:00"
+    },
+    {
+      "id": "0452a21bd9246997f239fd356dc8d116",
+      "title": "Người phụ nữ làng chài vừa mất chồng, nay nóc nhà cũng theo bão bay đi",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-lang-chai-vua-mat-chong-nay-noc-nha-cung-theo-bao-bay-di-20250929104917363.htm",
+      "summary": "Chồng vừa mất chưa đầy nửa tháng, nay nóc nhà cũng bị bão Bualoi cuốn phăng, người đàn bà làng chài ở xã Thiên Cầm òa khóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.856091+07:00",
+      "fetched": "2025-09-29T13:26:14.856208+07:00"
+    },
+    {
+      "id": "7c6596acd1aaf9e5b5926b93a141bc75",
+      "title": "U23 Việt Nam xác định đối thủ châu Á vào ngày 2-10",
+      "link": "https://tuoitre.vn/u23-viet-nam-xac-dinh-doi-thu-chau-a-vao-ngay-2-10-20250929123633719.htm",
+      "summary": "Theo thông báo của Liên đoàn Bóng đá châu Á, lễ bốc thăm chia bảng vòng chung kết U23 châu Á 2026 sẽ được tổ chức vào lúc 14h ngày 2-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855962+07:00",
+      "fetched": "2025-09-29T13:26:14.856080+07:00"
+    },
+    {
+      "id": "c7a8a421eb378ad853c37a48e5356647",
+      "title": "Cựu phó trưởng công an phường ra tòa với cáo buộc nhận tiền bỏ qua vi phạm",
+      "link": "https://tuoitre.vn/cuu-pho-truong-cong-an-phuong-ra-toa-voi-cao-buoc-nhan-tien-bo-qua-vi-pham-20250929111333656.htm",
+      "summary": "Cựu Phó trưởng Công an phường Tân Định (nay là phường Hòa Lợi), TP.HCM Lường Văn Hùng và dân phòng bị cáo buộc nhận hối lộ 220 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855828+07:00",
+      "fetched": "2025-09-29T13:26:14.855945+07:00"
+    },
+    {
+      "id": "ea97154e0aa1587cdb3b2305ea793fc6",
+      "title": "Chủ tịch Quốc hội: Kỳ họp thứ 10 làm công tác nhân sự, thông qua gần 50 dự luật, nghị quyết",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-ky-hop-thu-10-lam-cong-tac-nhan-su-thong-qua-gan-50-du-luat-nghi-quyet-20250929115256517.htm",
+      "summary": "Dự kiến kỳ họp thứ 10 sẽ xem xét công tác nhân sự, thông qua gần 50 dự luật, nghị quyết và nhiều nội dung quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855676+07:00",
+      "fetched": "2025-09-29T13:26:14.855815+07:00"
+    },
+    {
+      "id": "6320c60a9a15c9d04b25d00b3bc29aa2",
+      "title": "Huyền thoại UFC bị knockout sau trận thi đấu boxing",
+      "link": "https://tuoitre.vn/huyen-thoai-ufc-bi-knockout-sau-tran-thi-dau-boxing-20250929101929938.htm",
+      "summary": "Wanderlei Silva (49 tuổi) đã kết thúc màn ra mắt sàn đấu boxing trong thảm họa toàn tập khi anh bị knockout (KO) bất tỉnh giữa vụ ẩu đả hỗn loạn sau trận đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855540+07:00",
+      "fetched": "2025-09-29T13:26:14.855664+07:00"
+    },
+    {
+      "id": "3202717e48dadb48281b95002f19a331",
+      "title": "Sự thật về câu chuyện cảm động ‘nhóm biker xăm trổ giải cứu 23 trẻ em trong trận lũ’ ở Mỹ",
+      "link": "https://tuoitre.vn/su-that-ve-cau-chuyen-cam-dong-nhom-biker-xam-tro-giai-cuu-23-tre-em-trong-tran-lu-o-my-20250929110519558.htm",
+      "summary": "Trên mạng lan truyền tin về một nhóm thành viên CLB mô tô đã giải cứu 23 học sinh mẫu giáo khỏi một xe buýt chìm trong nước lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855382+07:00",
+      "fetched": "2025-09-29T13:26:14.855525+07:00"
+    },
+    {
+      "id": "7d4c9e338271041e2fb54c8a2492a75f",
+      "title": "Lộ trình phân chia khai thác sân bay Long Thành và Tân Sơn Nhất theo hai giai đoạn",
+      "link": "https://tuoitre.vn/lo-trinh-phan-chia-khai-thac-san-bay-long-thanh-va-tan-son-nhat-theo-hai-giai-doan-20250929121904169.htm",
+      "summary": "Giai đoạn đầu khai thác, Long Thành chưa tiếp nhận toàn bộ bay quốc tế từ Tân Sơn Nhất mà dựa vào tiến độ dự án, giao thông kết nối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855238+07:00",
+      "fetched": "2025-09-29T13:26:14.855369+07:00"
+    },
+    {
+      "id": "727f75f9925a7e307d004c4c6a6c4208",
+      "title": "Malaysia chỉ trích ngược FIFA",
+      "link": "https://tuoitre.vn/malaysia-chi-trich-nguoc-fifa-20250929085123686.htm",
+      "summary": "Các nhân vật quyền lực của bóng đá Malaysia liên tiếp công kích Liên đoàn Bóng đá thế giới (FIFA).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T13:26:14.855012+07:00",
+      "fetched": "2025-09-29T13:26:14.855222+07:00"
+    },
     {
       "id": "cc31f742e83e936f3fe9ddc2d636528a",
       "title": "Du lịch y tế: Cơ hội vàng cho Việt Nam",
@@ -313,6 +463,376 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T08:15:25.017188+07:00"
     },
     {
+      "id": "8aeb8ae43437330888f75df1c7a3a476",
+      "title": "Apple tính nước cờ mới với iPhone 17e",
+      "link": "https://thanhnien.vn/apple-tinh-nuoc-co-moi-voi-iphone-17e-185250929121951046.htm",
+      "summary": "Apple đã gây bất ngờ vào đầu năm khi giới thiệu iPhone 16e - một phiên bản cơ bản với nhiều tính năng nổi bật và làm ảnh hưởng đến chiếc iPhone 16 đắt tiền hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:19:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940173+07:00"
+    },
+    {
+      "id": "cedcde78e980667ef082a0001ccba8dd",
+      "title": "Đà Nẵng: Băng rừng 5 km đưa bệnh nhân người Lào về nhà",
+      "link": "https://thanhnien.vn/da-nang-bang-rung-5-km-dua-benh-nhan-nguoi-lao-ve-nha-185250929120910119.htm",
+      "summary": "Lực lượng chức năng xã Hùng Sơn (TP.Đà Nẵng) đã không quản ngại hiểm nguy, băng qua quãng đường núi dài gần 5 km để đưa một cụ bà 75 tuổi người Lào về đến tận nhà sau thời gian điều trị tại bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:16:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940346+07:00"
+    },
+    {
+      "id": "fd6325c7ff3fdadafc7f8c628c882d4e",
+      "title": "Đắk Lắk: Ô tô lao xuống mương, tài xế tử vong",
+      "link": "https://thanhnien.vn/dak-lak-o-to-lao-xuong-muong-tai-xe-tu-vong-185250929113056403.htm",
+      "summary": "Người dân phát hiện một chiếc ô tô lao xuống mương thủy lợi trên QL29, đoạn xã Sơn Thành, Đắk Lắk (thuộc H.Tây Hòa, Phú Yên cũ), tài xế bên trong đã tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:12:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940508+07:00"
+    },
+    {
+      "id": "77ee846585fe338e8190d209d44fd879",
+      "title": "Đà Nẵng: Sạt lở nghiêm trọng ở xã vùng cao, di dời khẩn cấp các hộ dân",
+      "link": "https://thanhnien.vn/da-nang-sat-lo-nghiem-trong-o-xa-vung-cao-di-doi-khan-cap-cac-ho-dan-185250929104231975.htm",
+      "summary": "Chính quyền một xã vùng cao biên giới ở TP.Đà Nẵng đã phải di dời khẩn cấp 3 hộ dân vì sạt lở đất nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:11:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940661+07:00"
+    },
+    {
+      "id": "163de8c7e245621414a12da3a54709ec",
+      "title": "Anh trai bật khóc khi đưa em đến show hẹn hò sau đổ vỡ hôn nhân",
+      "link": "https://thanhnien.vn/anh-trai-bat-khoc-khi-dua-em-den-show-hen-ho-sau-do-vo-hon-nhan-185250929122338613.htm",
+      "summary": "Trong tập mới của chương trình 'Bạn muốn hẹn hò', MC Quyền Linh và Ngọc Lan đã có một buổi ghép đôi đầy cảm xúc cho hai khách mời cùng tuổi, đều từng đổ vỡ hôn nhân là Nguyễn Duy Quynh và Nguyễn Thị Thảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:10:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940836+07:00"
+    },
+    {
+      "id": "c1645182c752ac472165930d5b86e20e",
+      "title": "Tái xuất sau ồn ào, Triệu Lộ Tư gây sốt với 'Hãy để tôi tỏa sáng'",
+      "link": "https://thanhnien.vn/tai-xuat-sau-on-ao-trieu-lo-tu-gay-sot-voi-hay-de-toi-toa-sang-18525092912571083.htm",
+      "summary": "Giữa lúc sự nghiệp đang chững lại vì loạt ồn ào đời tư, Triệu Lộ Tư bất ngờ tái xuất với 'Hãy để tôi tỏa sáng'. Tác phẩm làm 'dậy sóng' mạng xã hội xứ Trung đồng thời sở hữu loạt thành tích 'khủng' sau ít ngày lên sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:07:00+07:00",
+      "fetched": "2025-09-29T13:26:13.940989+07:00"
+    },
+    {
+      "id": "f72a382dbbe092f5802a1af71324c9ab",
+      "title": "Tổng Bí thư chủ trì họp thường trực Ban Chỉ đạo chống tham nhũng, lãng phí",
+      "link": "https://thanhnien.vn/tong-bi-thu-chu-tri-hop-thuong-truc-ban-chi-dao-chong-tham-nhung-lang-phi-185250929123436802.htm",
+      "summary": "Tổng Bí thư Tô Lâm chủ trì cuộc họp của thường trực Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, lãng phí, tiêu cực (Ban Chỉ đạo), sáng 29.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T06:07:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941136+07:00"
+    },
+    {
+      "id": "92fffc5210e4f5408a1038881649f1e4",
+      "title": "CĐV Trung Quốc: 'Thua Việt Nam từ bóng đá tới cờ tướng'",
+      "link": "https://vnexpress.net/cdv-trung-quoc-thua-viet-nam-tu-bong-da-toi-co-tuong-4944842.html",
+      "summary": "CĐV Trung Quốc \"hẫng một nhịp\" khi kỳ thủ Việt Nam Lại Lý Huynh vô địch cờ tướng thế giới, và thậm chí muốn Vương Thiên Nhất ra tù để phân tài cao thấp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T06:03:08+07:00",
+      "fetched": "2025-09-29T13:26:20.379229+07:00"
+    },
+    {
+      "id": "6ec353669c111dd31938dc8147ede75f",
+      "title": "Mỹ nói đang xem xét cấp tên lửa Tomahawk cho Ukraine, kêu gọi Nga 'thức tỉnh'",
+      "link": "https://thanhnien.vn/my-noi-dang-xem-xet-cap-ten-lua-tomahawk-cho-ukraine-keu-goi-nga-thuc-tinh-185250929122354157.htm",
+      "summary": "Phó Tổng thống Mỹ J.D. Vance cho biết Washington đang xem xét cung cấp tên lửa Tomahawk tầm bắn xa cho Ukraine, theo Fox News.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:51:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941287+07:00"
+    },
+    {
+      "id": "c5e056eda40c54203880c0649892f358",
+      "title": "Hàng trăm suất giáo viên Âm nhạc, Mỹ thuật không có người thi",
+      "link": "https://vnexpress.net/hang-tram-suat-giao-vien-am-nhac-my-thuat-khong-co-nguoi-thi-4944971.html",
+      "summary": "TP HCM tuyển hơn 830 giáo viên Âm nhạc, Mỹ thuật nhưng số người ứng tuyển chưa đến 1/4, tái diễn tình trạng thiếu hụt nhiều năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:43:01+07:00",
+      "fetched": "2025-09-29T13:26:10.898896+07:00"
+    },
+    {
+      "id": "4403bccbfd3ead5ad8132ad6a992907e",
+      "title": "8 ngư dân Gia Lai mất liên lạc ngoài khơi",
+      "link": "https://vnexpress.net/8-ngu-dan-gia-lai-mat-lien-lac-ngoai-khoi-4944976.html",
+      "summary": "Tàu cá của ông Huỳnh Văn Sơn cùng 7 thuyền viên hoạt động ở vùng biển cách Đông Nam Quy Nhơn 147 hải lý (hơn 260 km) mất liên lạc gần hai ngày qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:34:08+07:00",
+      "fetched": "2025-09-29T13:26:10.899019+07:00"
+    },
+    {
+      "id": "76ef8b31fa48970380215977ee688ee9",
+      "title": "7 kiểu giày mặc đẹp với quần jeans ống rộng",
+      "link": "https://vnexpress.net/7-kieu-giay-mac-dep-voi-quan-jeans-ong-rong-4943965.html",
+      "summary": "Bốt cổ thấp, giày cao gót mũi nhọn là hai trong số kiểu dáng kết hợp đẹp với quần jeans ống rộng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:30:50+07:00",
+      "fetched": "2025-09-29T13:26:10.899202+07:00"
+    },
+    {
+      "id": "b665c1dc79a118ea7fc056eaf33affd7",
+      "title": "Vì sao Bualoi gần như đứng yên khi đổ bộ vào đất liền?",
+      "link": "https://vnexpress.net/vi-sao-bualoi-gan-nhu-dung-yen-khi-do-bo-vao-dat-lien-4944986.html",
+      "summary": "Chuyên gia lý giải, bão Bualoi 'khựng lại' là do ma sát với địa hình, luồng gió dẫn đường trên cao yếu đi và nhiệt độ trong đất liền giảm mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:30:32+07:00",
+      "fetched": "2025-09-29T13:26:10.899371+07:00"
+    },
+    {
+      "id": "e3c9d572163dd9cd8e90ccd5ebe7b512",
+      "title": "Quy tắc 20-20-20 tốt cho mắt thế nào?",
+      "link": "https://vnexpress.net/quy-tac-20-20-20-tot-cho-mat-the-nao-4944853.html",
+      "summary": "Áp dụng quy tắc 20-20-20 có thể giúp giảm các triệu chứng khô, khó chịu ở mắt, nhất là khi kết hợp với các thói quen lành mạnh khác khi dùng thiết bị điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:30:00+07:00",
+      "fetched": "2025-09-29T13:26:10.899534+07:00"
+    },
+    {
+      "id": "1b89e9c1b4c0f6bd9d53424e66f9ba21",
+      "title": "Đề xuất công an cấp tỉnh được giao giám định thương tích",
+      "link": "https://vnexpress.net/de-xuat-cong-an-cap-tinh-duoc-giao-giam-dinh-thuong-tich-4944929.html",
+      "summary": "Chính phủ đề xuất giao phòng kỹ thuật hình sự thuộc công an tỉnh, thành phố được thực hiện giám định thương tích, bên cạnh các trung tâm giám định của ngành y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:25:21+07:00",
+      "fetched": "2025-09-29T13:26:10.899712+07:00"
+    },
+    {
+      "id": "d0ce9790fbb3cce38f87a78f7bdd08b5",
+      "title": "Cách 'vua ma túy mới' của Mexico đưa hàng tấn cocaine vào Mỹ",
+      "link": "https://vnexpress.net/cach-vua-ma-tuy-moi-cua-mexico-dua-hang-tan-cocaine-vao-my-4940175.html",
+      "summary": "Từ nơi ẩn náu trong lòng núi, Nemesio \"Mencho\" Oseguera, cai trị đế chế của mình với tư cách \"vua ma túy mới của Mexico\" khi nhu cầu cocaine ở Mỹ gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:17:45+07:00",
+      "fetched": "2025-09-29T13:26:10.899883+07:00"
+    },
+    {
+      "id": "d0ce9790fbb3cce38f87a78f7bdd08b5",
+      "title": "Cách 'vua ma túy mới' của Mexico đưa hàng tấn cocaine vào Mỹ",
+      "link": "https://vnexpress.net/cach-vua-ma-tuy-moi-cua-mexico-dua-hang-tan-cocaine-vao-my-4940175.html",
+      "summary": "Từ nơi ẩn náu trong lòng núi, Nemesio \"Mencho\" Oseguera, cai trị đế chế của mình với tư cách \"vua ma túy mới của Mexico\" khi nhu cầu cocaine ở Mỹ gia tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T05:17:45+07:00",
+      "fetched": "2025-09-29T13:26:15.980320+07:00"
+    },
+    {
+      "id": "009339d8c0d1e7c1552a80170f9a5f04",
+      "title": "10 điểm nhấn ở vòng 6 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-diem-nhan-o-vong-6-ngoai-hang-anh-4944717.html",
+      "summary": "Arsenal rút ngắn cách biệt với đỉnh bảng Liverpool, HLV Ruben Amorim tiếp tục chìm sâu cùng Man Utd hay phong độ cao của Jeremy Doku là ba trong số những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:16:20+07:00",
+      "fetched": "2025-09-29T13:26:10.900041+07:00"
+    },
+    {
+      "id": "009339d8c0d1e7c1552a80170f9a5f04",
+      "title": "10 điểm nhấn ở vòng 6 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-diem-nhan-o-vong-6-ngoai-hang-anh-4944717.html",
+      "summary": "Arsenal rút ngắn cách biệt với đỉnh bảng Liverpool, HLV Ruben Amorim tiếp tục chìm sâu cùng Man Utd hay phong độ cao của Jeremy Doku là ba trong số những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T05:16:20+07:00",
+      "fetched": "2025-09-29T13:26:20.379415+07:00"
+    },
+    {
+      "id": "54a2b0b014e613df5d0f3867ac51ac8f",
+      "title": "Sách về 'tôn giáo ở miền Tây' đoạt giải Trần Văn Giàu",
+      "link": "https://vnexpress.net/sach-ve-ton-giao-o-mien-tay-doat-giai-tran-van-giau-4944902.html",
+      "summary": "\"Tôn giáo Bửu Sơn Kỳ Hương và Tứ Ân Đạo Phật vùng Tây Nam Bộ\" nhận giải thưởng khoa học Trần Văn Giàu, sáng 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:16:00+07:00",
+      "fetched": "2025-09-29T13:26:10.900212+07:00"
+    },
+    {
+      "id": "165d23412f312fc3d8cf97ef3f1d8b1a",
+      "title": "Phát động Cuộc thi sáng tác biểu trưng Đại hội Đoàn toàn quốc lần thứ XIII",
+      "link": "https://thanhnien.vn/phat-dong-cuoc-thi-sang-tac-bieu-trung-dai-hoi-doan-toan-quoc-lan-thu-xiii-185250929114102844.htm",
+      "summary": "Tại buổi gặp mặt báo phát động Cuộc thi sáng tác biểu trưng (logo) Đại hội đại biểu toàn quốc Đoàn TNCS Hồ Chí Minh lần thứ XIII, nhiệm kỳ 2026 - 2031, ban tổ chức cho biết, giải nhất có giá trị 30 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:14:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941445+07:00"
+    },
+    {
+      "id": "711f1a6fe928756dcf675efd6a76e70f",
+      "title": "Trường 'tổ chức dạy lúc cả tỉnh nghỉ tránh bão' đã cho học sinh nghỉ học",
+      "link": "https://thanhnien.vn/truong-to-chuc-day-luc-ca-tinh-nghi-tranh-bao-da-cho-hoc-sinh-nghi-hoc-185250929115513502.htm",
+      "summary": "Sau 1 buổi học và sau phản ánh của Thanh Niên, Trường liên cấp Trưng Vương (P.Nam Đông Hà, Quảng Trị) cho học sinh nghỉ học trong chiều nay 29.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:13:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941594+07:00"
+    },
+    {
+      "id": "691f495d53e11623098eacc5a4bb4c42",
+      "title": "Lịch bốc thăm U.23 châu Á mới nhất: U.23 Việt Nam có ưu thế, quyết tái lập kỳ tích",
+      "link": "https://thanhnien.vn/lich-boc-tham-u23-chau-a-moi-nhat-u23-viet-nam-co-uu-the-quyet-tai-lap-ky-tich-18525092912095084.htm",
+      "summary": "Lễ bốc thăm bảng đấu U.23 châu Á 2026 sẽ diễn ra vào ngày 2.10, nơi U.23 Việt Nam xác định được đối thủ tiềm tàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:12:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941768+07:00"
+    },
+    {
+      "id": "bf5280997a564bbf8e6929429b9a8d69",
+      "title": "Xem nhanh 12h: Thời tiết nguy hiểm sau bão số 10 | Hành trình đặc biệt phim 'Mưa đỏ'",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-thoi-tiet-nguy-hiem-sau-bao-so-10-hanh-trinh-dac-biet-phim-mua-do-185250929120810369.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin 'Xem nhanh 12h' ngày 29.9.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:08:00+07:00",
+      "fetched": "2025-09-29T13:26:13.941922+07:00"
+    },
+    {
+      "id": "8a40cec7c2ef9ae28dd7c2d722ec546b",
+      "title": "De Ligt: 'Đừng đổ lỗi cho chiến thuật của Amorim'",
+      "link": "https://vnexpress.net/de-ligt-dung-do-loi-cho-chien-thuat-cua-amorim-4944840.html",
+      "summary": "Trung vệ Matthijs De Ligt bảo vệ HLV Ruben Amorim dù Man Utd liên tục thất bại và đang đứng thứ 14 ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:06:41+07:00",
+      "fetched": "2025-09-29T13:26:10.900383+07:00"
+    },
+    {
+      "id": "8a40cec7c2ef9ae28dd7c2d722ec546b",
+      "title": "De Ligt: 'Đừng đổ lỗi cho chiến thuật của Amorim'",
+      "link": "https://vnexpress.net/de-ligt-dung-do-loi-cho-chien-thuat-cua-amorim-4944840.html",
+      "summary": "Trung vệ Matthijs De Ligt bảo vệ HLV Ruben Amorim dù Man Utd liên tục thất bại và đang đứng thứ 14 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T05:06:41+07:00",
+      "fetched": "2025-09-29T13:26:20.379927+07:00"
+    },
+    {
+      "id": "ddea740fc2af14391d46d63764a9e8e4",
+      "title": "Hà Nội hỗ trợ 100% kinh phí cho doanh nghiệp nghiên cứu đề tài KHCN trọng điểm",
+      "link": "https://thanhnien.vn/ha-noi-ho-tro-100-kinh-phi-cho-doanh-nghiep-nghien-cuu-de-tai-khcn-trong-diem-185250929112813718.htm",
+      "summary": "Doanh nghiệp, tổ chức khoa học công nghệ (KHCN) khi thực hiện nhiệm vụ KHCN trọng điểm theo hình thức đề tài nghiên cứu khoa học sẽ được Hà Nội hỗ trợ tối đa 100% kinh phí mua sắm máy móc, thiết bị, vận hành…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:06:00+07:00",
+      "fetched": "2025-09-29T13:26:13.942077+07:00"
+    },
+    {
+      "id": "f26bc14ffb30419143f17b608a058dc3",
+      "title": "Hamas nói mất liên lạc với 2 con tin, kêu gọi Israel ngừng đánh Gaza",
+      "link": "https://thanhnien.vn/hamas-noi-mat-lien-lac-voi-2-con-tin-keu-goi-israel-ngung-danh-gaza-185250929114037078.htm",
+      "summary": "Hamas thông báo mất liên lạc với 2 con tin ở Gaza, kêu gọi ngừng bắn 24 giờ để tìm kiếm, trong bối cảnh giao tranh ác liệt tiếp diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:04:00+07:00",
+      "fetched": "2025-09-29T13:26:13.942224+07:00"
+    },
+    {
+      "id": "3d82ffdfeb13cfb85354af90addb318d",
+      "title": "Ông Trump sẽ dự cuộc họp cùng hàng trăm tướng Mỹ",
+      "link": "https://vnexpress.net/ong-trump-se-du-cuoc-hop-cung-hang-tram-tuong-my-4944927.html",
+      "summary": "Tổng thống Trump sẽ dự cuộc họp với hàng trăm tướng lĩnh tại bang Virginia, cho biết sự kiện bàn về những thành tựu trong lĩnh vực quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:03:31+07:00",
+      "fetched": "2025-09-29T13:26:10.900541+07:00"
+    },
+    {
+      "id": "3d82ffdfeb13cfb85354af90addb318d",
+      "title": "Ông Trump sẽ dự cuộc họp cùng hàng trăm tướng Mỹ",
+      "link": "https://vnexpress.net/ong-trump-se-du-cuoc-hop-cung-hang-tram-tuong-my-4944927.html",
+      "summary": "Tổng thống Trump sẽ dự cuộc họp với hàng trăm tướng lĩnh tại bang Virginia, cho biết sự kiện bàn về những thành tựu trong lĩnh vực quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T05:03:31+07:00",
+      "fetched": "2025-09-29T13:26:15.980499+07:00"
+    },
+    {
+      "id": "9b12ac3e09d0a836c12f0393acf314c2",
+      "title": "Ôtô lật ngửa dưới mương, một người tử vong",
+      "link": "https://vnexpress.net/oto-lat-ngua-duoi-muong-mot-nguoi-tu-vong-4944917.html",
+      "summary": "Nguyễn Hoàng Xuân, 24 tuổi, tử vong trong ôtô lật ngửa dưới mương nước dọc quốc lộ 29, sáng 29/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:03:27+07:00",
+      "fetched": "2025-09-29T13:26:10.900713+07:00"
+    },
+    {
+      "id": "f8f5f5118f12c1f022eb4cb555ee7cc2",
+      "title": "Chủ tịch Quốc hội: Cần xây dựng hệ thống đánh giá viên chức",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-can-xay-dung-he-thong-danh-gia-vien-chuc-4944809.html",
+      "summary": "Chủ tịch Quốc hội cho rằng phải xây dựng hệ thống đánh giá viên chức, bảo đảm tuyển dụng minh bạch, chống lạm dụng và loại bỏ kịp thời những người không đáp ứng yêu cầu công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:02:54+07:00",
+      "fetched": "2025-09-29T13:26:10.900882+07:00"
+    },
+    {
+      "id": "2b66950631ce7de160b8131ebe79ea67",
+      "title": "Chính thức đề xuất bổ sung 3 trường hợp Nhà nước thu hồi đất",
+      "link": "https://thanhnien.vn/chinh-thuc-de-xuat-bo-sung-3-truong-hop-nha-nuoc-thu-hoi-dat-185250929113207575.htm",
+      "summary": "Theo đề xuất, nếu đã đạt thỏa thuận trên 75%, HĐND cấp tỉnh sẽ xem xét, thông qua việc thu hồi phần diện tích đất còn lại để giao đất, cho thuê đất cho chủ đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:02:00+07:00",
+      "fetched": "2025-09-29T13:26:13.942374+07:00"
+    },
+    {
+      "id": "328a45d6d0d513fa8be53005364c4e5d",
+      "title": "Toyota Corolla Cross 2024 giá 780 triệu nên mua?",
+      "link": "https://vnexpress.net/toyota-corolla-cross-2024-gia-780-trieu-nen-mua-4944870.html",
+      "summary": "Người quen bán lại xe Toyota Corolla Cross bản 1.8V chạy hơn 20.000 km, xin hỏi giá trên tôi có nên mua lại (Thu Quỳnh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:01:06+07:00",
+      "fetched": "2025-09-29T13:26:10.901048+07:00"
+    },
+    {
+      "id": "6205b1fc1d82405b9530eba84cc7b2a5",
+      "title": "Sáp nhập đại học",
+      "link": "https://vnexpress.net/sap-nhap-dai-hoc-4944663.html",
+      "summary": "Năm 2003, khi bảng xếp hạng các trường đại học đầu tiên trên thế giới được ARWU, thuộc Đại học Giao thông Thượng Hải, công bố đã gây ra nhiều tranh cãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T05:00:00+07:00",
+      "fetched": "2025-09-29T13:26:10.901204+07:00"
+    },
+    {
+      "id": "0656b450d1541128f10f14868fbddd9c",
+      "title": "Pablo Aimar: 'Phim lúc hay lúc dở, nhưng xem Messi luôn sướng'",
+      "link": "https://vnexpress.net/pablo-aimar-phim-luc-hay-luc-do-nhung-xem-messi-luon-suong-4944918.html",
+      "summary": "Trợ lý HLV tuyển Argentina, Pablo Aimar tin rằng bất kỳ ai dành thời gian xem Lionel Messi chơi bóng cũng đều cảm thấy \"đáng đồng tiền bát gạo\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T04:35:10+07:00",
+      "fetched": "2025-09-29T13:26:20.379584+07:00"
+    },
+    {
+      "id": "ee1d4875895b88307ef57aedb169f595",
+      "title": "Lầu Năm Góc triển khai 200 lính vệ binh, bang Mỹ khởi kiện",
+      "link": "https://vnexpress.net/lau-nam-goc-trien-khai-200-linh-ve-binh-bang-my-khoi-kien-4944830.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ ký lệnh điều động 200 lính Vệ binh Quốc gia bang Oregon, khiến giới chức bang nộp đơn kiện để ngăn cản.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T04:32:47+07:00",
+      "fetched": "2025-09-29T13:26:15.980661+07:00"
+    },
+    {
       "id": "5fa90c7300c98d6d1c653cb27cdad52a",
       "title": "TP.HCM tiếp tục miễn thuế cho hoạt động khởi nghiệp, đổi mới sáng tạo",
       "link": "https://thanhnien.vn/tphcm-tiep-tuc-mien-thue-cho-hoat-dong-khoi-nghiep-doi-moi-sang-tao-185250929111013875.htm",
@@ -341,6 +861,16 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T04:13:00+07:00",
       "fetched": "2025-09-29T11:20:53.773787+07:00"
+    },
+    {
+      "id": "c9bc97911cb310f9d9a3e85b4b1b148d",
+      "title": "'Mẹ mìn' bán trẻ sơ sinh sang Mỹ bị bắt",
+      "link": "https://vnexpress.net/me-min-ban-tre-so-sinh-sang-my-bi-bat-4944872.html",
+      "summary": "Giới chức Mexico phối hợp với Mỹ bắt bà trùm Aguilar, cáo buộc bà ta cầm đầu đường dây mổ lấy tạng thai phụ, buôn bán trẻ sơ sinh sang Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T04:12:50+07:00",
+      "fetched": "2025-09-29T13:26:15.980864+07:00"
     },
     {
       "id": "6e2b573358da784ca3974b233b675e8a",
