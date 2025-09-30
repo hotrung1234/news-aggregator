@@ -1,7 +1,57 @@
 window.newsData_2025_10_01 = {
   "date": "2025-10-01",
-  "lastUpdated": "2025-10-01T01:21:46.303397+07:00",
+  "lastUpdated": "2025-10-01T03:17:48.218754+07:00",
   "articles": [
+    {
+      "id": "ee7036f8339f649a059be281e4dcadf0",
+      "title": "Trung tướng Nguyễn Văn Gấu giữ chức Thứ trưởng Bộ Quốc phòng",
+      "link": "https://tuoitre.vn/trung-tuong-nguyen-van-gau-giu-chuc-thu-truong-bo-quoc-phong-20250930231839054.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính vừa ký Quyết định số 2165/QĐ-TTg ngày 30-9 về việc bổ nhiệm Trung tướng Nguyễn Văn Gấu giữ chức Thứ trưởng Bộ Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T03:17:42.899912+07:00",
+      "fetched": "2025-10-01T03:17:42.900046+07:00"
+    },
+    {
+      "id": "a9020ae3169e4dfabacfc2ec9b4af1a0",
+      "title": "Trao quyết định bổ nhiệm Bí thư Thành ủy Cần Thơ làm Thứ trưởng thường trực Bộ Nội vụ",
+      "link": "https://tuoitre.vn/trao-quyet-dinh-bo-nhiem-bi-thu-thanh-uy-can-tho-lam-thu-truong-thuong-truc-bo-noi-vu-20250930232254471.htm",
+      "summary": "Chiều 30-9, thừa ủy quyền của Thủ tướng, Phó thủ tướng Bùi Thanh Sơn đã trao quyết định của Thủ tướng tiếp nhận, bổ nhiệm ông Đỗ Thanh Bình, Bí thư Thành ủy Cần Thơ, giữ chức Thứ trưởng thường trực Bộ Nội vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T03:17:42.899782+07:00",
+      "fetched": "2025-10-01T03:17:42.899900+07:00"
+    },
+    {
+      "id": "37407dee7df2a3d4055f1fe6cb2b5b18",
+      "title": "Ông Trump: Bộ Chiến tranh sẽ ngăn chặn chiến tranh, cân nhắc mở rộng quy mô quân đội",
+      "link": "https://tuoitre.vn/ong-trump-bo-chien-tranh-se-ngan-chan-chien-tranh-can-nhac-mo-rong-quy-mo-quan-doi-20250930230502852.htm",
+      "summary": "Ông Trump nhấn mạnh ý định mở rộng quy mô quân đội và biến lực lượng Mỹ thành \"cỗ máy chiến đấu và chiến thắng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T03:17:42.899648+07:00",
+      "fetched": "2025-10-01T03:17:42.899769+07:00"
+    },
+    {
+      "id": "24461c0000405156e81a7bd3361dcd97",
+      "title": "Báo AS tiết lộ thông tin chứng tỏ Malaysia sai khi nhập tịch Facundo Garcés",
+      "link": "https://tuoitre.vn/bao-as-tiet-lo-thong-tin-chung-to-malaysia-sai-khi-nhap-tich-facundo-garces-20250930230832775.htm",
+      "summary": "Báo AS (Tây Ban Nha) mới đây đã đăng tải thông tin bất ngờ về gốc gác của cầu thủ nhập tịch Malaysia là Facundo Garcés (đang khoác áo Alaves).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T03:17:42.899509+07:00",
+      "fetched": "2025-10-01T03:17:42.899635+07:00"
+    },
+    {
+      "id": "aebae88856a5ebfad306d10d7ab49cc5",
+      "title": "Tin tức sáng 1-10: Xây dựng Hòa Bình thắng kiện liên tiếp; Cơ điện lạnh (REE) bị truy thu thuế",
+      "link": "https://tuoitre.vn/tin-tuc-sang-1-10-xay-dung-hoa-binh-thang-kien-lien-tiep-co-dien-lanh-ree-bi-truy-thu-thue-20250930225319851.htm",
+      "summary": "Tin tức đáng chú ý: 24.000 cán bộ vận hành 3.000 trung tâm hành chính công cấp xã; Xây dựng Hòa Bình thắng kiện liên tiếp, thu hồi hàng trăm tỉ; Doanh nghiệp của 'nữ tướng' Mai Thanh bị phạt và truy thu thuế tiền tỉ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T03:17:42.899257+07:00",
+      "fetched": "2025-10-01T03:17:42.899494+07:00"
+    },
     {
       "id": "754abe3bf17fcca8cec829c88438d166",
       "title": "Khách sạn, homestay tại Sa Pa, Tà Xùa hỗ trợ miễn phí cho du khách ‘mắc kẹt’ do mưa lớn",
@@ -153,6 +203,36 @@ window.newsData_2025_10_01 = {
       "fetched": "2025-10-01T01:21:37.620968+07:00"
     },
     {
+      "id": "1295278af8d8055e09ca863be8b5e241",
+      "title": "'Ranh giới' giữa FIFA và AFC trong vụ giả mạo hồ sơ nhập tịch Malaysia",
+      "link": "https://thanhnien.vn/ranh-gioi-giua-fifa-va-afc-trong-vu-gia-mao-ho-so-nhap-tich-malaysia-185250930223328522.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) có trách nhiệm ra án phạt đối với Liên đoàn Bóng đá Malaysia (FAM) và 7 cầu thủ nhập tịch. Còn Liên đoàn Bóng đá châu Á (AFC) sẽ quyết định 'số phận' của đội tuyển Malaysia ở vòng loại Asian Cup 2027 sau khi Tòa án Trọng tài FIFA hoàn tất toàn bộ quá trình điều tra ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T19:59:00+07:00",
+      "fetched": "2025-10-01T03:17:42.001278+07:00"
+    },
+    {
+      "id": "b4a1790ea66441f983748b9098267c6f",
+      "title": "Mbappe lập hat-trick ở Champions League",
+      "link": "https://vnexpress.net/mbappe-lap-hat-trick-o-champions-league-4945733.html",
+      "summary": "Tiền đạo Kylian Mbappe ghi ba bàn đầu, giúp Real Madrid thắng Kairat Almaty 5-0 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T18:38:37+07:00",
+      "fetched": "2025-10-01T03:17:38.177431+07:00"
+    },
+    {
+      "id": "b4a1790ea66441f983748b9098267c6f",
+      "title": "Mbappe lập hat-trick ở Champions League",
+      "link": "https://vnexpress.net/mbappe-lap-hat-trick-o-champions-league-4945733.html",
+      "summary": "Tiền đạo Kylian Mbappe ghi ba bàn đầu, giúp Real Madrid thắng Kairat Almaty 5-0 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-30T18:38:37+07:00",
+      "fetched": "2025-10-01T03:17:48.213804+07:00"
+    },
+    {
       "id": "1749a2613745769502eeda82e5dcac6c",
       "title": "Cú bổ nhào khiến tiêm kích Mỹ tự bắn hạ chính mình năm 1956",
       "link": "https://vnexpress.net/cu-bo-nhao-khien-tiem-kich-my-tu-ban-ha-chinh-minh-nam-1956-4942447.html",
@@ -161,6 +241,16 @@ window.newsData_2025_10_01 = {
       "category": "Thế giới",
       "published": "2025-09-30T18:00:00+07:00",
       "fetched": "2025-10-01T01:21:39.451100+07:00"
+    },
+    {
+      "id": "48b9d236c5941388ef4308a0cc51ddc1",
+      "title": "Đột quỵ mắt",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/dot-quy-mat-371",
+      "summary": "Đột quỵ mắt là tình trạng mất thị lực do lưu lượng máu đến mắt giảm đột ngột, gây nhìn mờ, mất thị lực đột ngột ở toàn bộ hoặc một phần mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T18:00:00+07:00",
+      "fetched": "2025-10-01T03:17:38.177613+07:00"
     },
     {
       "id": "32eb7f57356e22d2844305000a7c5461",
