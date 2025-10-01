@@ -1,7 +1,157 @@
 window.newsData_2025_10_01 = {
   "date": "2025-10-01",
-  "lastUpdated": "2025-10-01T11:19:17.924527+07:00",
+  "lastUpdated": "2025-10-01T13:25:09.120352+07:00",
   "articles": [
+    {
+      "id": "261b5534ff8345eb5355c1523feaaec4",
+      "title": "Các công ty xổ số kiến thiết nói gì trước thông tin sáp nhập?",
+      "link": "https://tuoitre.vn/cac-cong-ty-xo-so-kien-thiet-noi-gi-truoc-thong-tin-sap-nhap-20251001104821448.htm",
+      "summary": "Lãnh đạo các công ty xổ số kiến thiết cho biết đang đề xuất giữ nguyên trạng hoạt động của các công ty như hiện nay. Tuy nhiên cũng có tỉnh đề xuất sáp nhập. Quyết định cuối cùng sẽ thuộc về Bộ Tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.295324+07:00",
+      "fetched": "2025-10-01T13:25:02.295441+07:00"
+    },
+    {
+      "id": "c8329b960b4570f055779766cd6c5ed3",
+      "title": "Mua ứng dụng dẫn đường giá rẻ, 500 người bị lừa hơn 1 tỉ đồng",
+      "link": "https://tuoitre.vn/mua-ung-dung-dan-duong-gia-re-500-nguoi-bi-lua-hon-1-ti-dong-20251001103529271.htm",
+      "summary": "Sau khi mua bản quyền ứng dụng dẫn đường, Nguyễn Phúc Tới chạy quảng cáo rao bán phần mềm này với giá rẻ hơn thị trường và lừa khoảng 500 người, chiếm đoạt hơn 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.295182+07:00",
+      "fetched": "2025-10-01T13:25:02.295311+07:00"
+    },
+    {
+      "id": "63f4f64f58caf9e5f962c070d9ef2613",
+      "title": "Kharkov bốc cháy trong đêm, thương vong tăng trên khắp Ukraine",
+      "link": "https://tuoitre.vn/kharkov-boc-chay-trong-dem-thuong-vong-tang-tren-khap-ukraine-2025100110493835.htm",
+      "summary": "Nga không kích đêm 30-9 làm Kharkov rung chuyển, 6 người bị thương; nhiều nơi khác tại Ukraine chịu thiệt hại, ít nhất 9 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.295058+07:00",
+      "fetched": "2025-10-01T13:25:02.295171+07:00"
+    },
+    {
+      "id": "bb75587e6327b654dacf49130e0f9183",
+      "title": "Một lời mời hành động, dọn rác từ chính con đường trước nhà",
+      "link": "https://tuoitre.vn/mot-loi-moi-hanh-dong-don-rac-tu-chinh-con-duong-truoc-nha-20251001062525541.htm",
+      "summary": "'Nhật ký đội trưởng nhóm dọn rác tình nguyện Biên Hòa Xanh' của Nguyễn Nhật Tuấn không né tránh, không hứa hẹn hành trình dễ dàng nếu muốn có một tương lai xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294932+07:00",
+      "fetched": "2025-10-01T13:25:02.295047+07:00"
+    },
+    {
+      "id": "c48fab16bd126cfcaac8d78f697d0238",
+      "title": "Không bắt phụ huynh đóng tiền, trường học Mỹ vẫn có quỹ 'rủng rỉnh' theo cách bất ngờ",
+      "link": "https://tuoitre.vn/khong-bat-phu-huynh-dong-tien-truong-hoc-my-van-co-quy-rung-rinh-theo-cach-bat-ngo-202510011007219.htm",
+      "summary": "Không có chuyện lạm thu đầu năm, trường học ở Mỹ được phụ huynh góp quỹ qua loạt hoạt động sáng tạo: đấu giá đồ cũ, hợp tác với nhà hàng, mở hội chợ sách...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294805+07:00",
+      "fetched": "2025-10-01T13:25:02.294920+07:00"
+    },
+    {
+      "id": "c7f60371cfa0551b1748aa01c32fc4bd",
+      "title": "Chính phủ Mỹ đóng cửa lần đầu tiên sau 6 năm",
+      "link": "https://tuoitre.vn/chinh-phu-my-dong-cua-lan-dau-tien-sau-6-nam-20251001100107735.htm",
+      "summary": "Ngày 30-9, Chính phủ Mỹ đóng cửa lần đầu tiên sau 6 năm khi ngân sách hết hạn vào lúc nửa đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294672+07:00",
+      "fetched": "2025-10-01T13:25:02.294793+07:00"
+    },
+    {
+      "id": "26867ec0f8d09417ad1d43148f9fd76e",
+      "title": "Giấc mơ an cư và vai trò Nhà nước",
+      "link": "https://tuoitre.vn/giac-mo-an-cu-va-vai-tro-nha-nuoc-20251001083424682.htm",
+      "summary": "Là chủ doanh nghiệp, tôi có một nỗi xấu hổ triền miên. Đó là mỗi lần đọc tin tức về giá nhà ở TP.HCM, tôi lại tự hỏi: Với mức lương mà tôi đang trả cho nhân viên, đến bao giờ họ mới mua nổi một căn hộ bình thường để an cư?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294548+07:00",
+      "fetched": "2025-10-01T13:25:02.294662+07:00"
+    },
+    {
+      "id": "c6ca64bb24e7b3a9c469615605082086",
+      "title": "Bão Bualoi làm 51 người chết và mất tích, thiệt hại hơn 8.000 tỉ đồng",
+      "link": "https://tuoitre.vn/bao-bualoi-lam-51-nguoi-chet-va-mat-tich-thiet-hai-hon-8-000-ti-dong-20251001104606793.htm",
+      "summary": "Đến sáng 1-10, bão Bualoi (bão số 10) và mưa lũ, dông lốc, sạt lở làm 29 người chết, 22 người mất tích, thiệt hại về kinh tế ước tính hơn 8.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294424+07:00",
+      "fetched": "2025-10-01T13:25:02.294537+07:00"
+    },
+    {
+      "id": "ff50dc682ba4789584992ba2ec40a169",
+      "title": "Các nhà khoa học dùng công nghệ nhân bản để hoán đổi DNA trong trứng người",
+      "link": "https://tuoitre.vn/cac-nha-khoa-hoc-dung-cong-nghe-nhan-ban-de-hoan-doi-dna-trong-trung-nguoi-2025100111115023.htm",
+      "summary": "Nghiên cứu công bố tạo trứng người từ tế bào da và trứng hiến tặng, mở ra hy vọng cho phụ nữ vô sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294291+07:00",
+      "fetched": "2025-10-01T13:25:02.294412+07:00"
+    },
+    {
+      "id": "a97fdd4de108538dcfc911f2ba847ff3",
+      "title": "Ông lớn Gemadept, REE, Sinec… hiến kế làm dự án hạ tầng tỉ USD",
+      "link": "https://tuoitre.vn/ong-lon-gemadept-ree-sinec-hien-ke-lam-du-an-ha-tang-ti-usd-20251001104612815.htm",
+      "summary": "Cuộc thảo luận sôi nổi của nhiều doanh nhân trong lĩnh vực hạ tầng, logistics và năng lượng đang mở ra những ý tưởng cho phát triển các dự án hạ tầng quy mô tỉ USD mà các doanh nghiệp Việt Nam hoàn toàn có thể đảm nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294150+07:00",
+      "fetched": "2025-10-01T13:25:02.294265+07:00"
+    },
+    {
+      "id": "a368b4d08d49d4603118358f635b85f5",
+      "title": "Hà Nội vẫn ngập khắp nơi, thợ sửa xe 'cắm chốt' ngay tại điểm ngập để sửa xe chết máy",
+      "link": "https://tuoitre.vn/ha-noi-van-ngap-khap-noi-tho-sua-xe-cam-chot-ngay-tai-diem-ngap-de-sua-xe-chet-may-20251001105957573.htm",
+      "summary": "Sáng 1-10, dù trời Hà Nội không còn mưa lớn, nhiều tuyến đường tại thủ đô đang ngập sâu, nước chưa thể rút do trận mưa lớn xảy ra trong ngày 30-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.294021+07:00",
+      "fetched": "2025-10-01T13:25:02.294137+07:00"
+    },
+    {
+      "id": "765a760850b2a60d982d8da774f15a60",
+      "title": "Từ tế bào da, các nhà khoa học tạo ra trứng người có thể thụ tinh",
+      "link": "https://tuoitre.vn/tu-te-bao-da-cac-nha-khoa-hoc-tao-ra-trung-nguoi-co-the-thu-tinh-20251001105944531.htm",
+      "summary": "Các nhà khoa học đã biến tế bào da người thành trứng có thể thụ tinh, mở ra hy vọng về một phương pháp điều trị vô sinh đầy tiềm năng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.293893+07:00",
+      "fetched": "2025-10-01T13:25:02.294010+07:00"
+    },
+    {
+      "id": "3d73fccc2d08e43ba958d7ae1d49a588",
+      "title": "Phú Quốc quyết làm đường phố - bãi biển văn minh đón APEC 2027",
+      "link": "https://tuoitre.vn/phu-quoc-quyet-lam-duong-pho-bai-bien-van-minh-don-apec-2027-20251001101944699.htm",
+      "summary": "Phú Quốc hiện đang quyết liệt thực hiện và vận động người dân chung tay làm tuyến đường phố - bãi biển văn minh, sạch đẹp đón Diễn đàn hợp tác kinh tế châu Á - Thái Bình Dương vào năm 2027 (APEC 2027).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.293761+07:00",
+      "fetched": "2025-10-01T13:25:02.293882+07:00"
+    },
+    {
+      "id": "a58c548f4665b57841356f40c01212cd",
+      "title": "Chung tay góp phần làm sạch bãi biển Mũi Né",
+      "link": "https://tuoitre.vn/chung-tay-gop-phan-lam-sach-bai-bien-mui-ne-20251001102220483.htm",
+      "summary": "Sáng 20-9, tại phường Mũi Né (Lâm Đồng), chương trình ‘Hãy làm sạch biển - vì một Mũi Né xanh - văn minh - hiện đại - thân thiện’ đã diễn ra sôi nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.293620+07:00",
+      "fetched": "2025-10-01T13:25:02.293748+07:00"
+    },
+    {
+      "id": "29dbaf65de485eaab672ba32e6a9a778",
+      "title": "Ông Ngô Chí Cường làm Bí thư Tỉnh ủy Đồng Tháp",
+      "link": "https://tuoitre.vn/ong-ngo-chi-cuong-lam-bi-thu-tinh-uy-dong-thap-20251001092746527.htm",
+      "summary": "Ông Ngô Chí Cường - Bí thư Tỉnh ủy Vĩnh Long - được chỉ định làm Bí thư Tỉnh ủy Đồng Tháp nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:25:02.293394+07:00",
+      "fetched": "2025-10-01T13:25:02.293604+07:00"
+    },
     {
       "id": "19553c0d4938797bd58428c9fae35b28",
       "title": "Lốc xoáy đi qua, nỗi đau ở lại",
@@ -301,6 +451,406 @@ window.newsData_2025_10_01 = {
       "category": "Tổng hợp",
       "published": "2025-10-01T08:21:41.910646+07:00",
       "fetched": "2025-10-01T08:21:41.910858+07:00"
+    },
+    {
+      "id": "8448fb2c1b5ac8f3658ece76f8dd173c",
+      "title": "Thanh Thức muốn đóng vai biến thái, nói gì về chuyện kết hôn?",
+      "link": "https://thanhnien.vn/thanh-thuc-muon-dong-vai-bien-thai-noi-gi-ve-chuyen-ket-hon-185251001131601819.htm",
+      "summary": "Thanh Thức vừa có những phút trải lòng về chặng đường làm nghề, đồng thời chia sẻ về quan điểm hôn nhân khi bước sang tuổi 41.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:21:00+07:00",
+      "fetched": "2025-10-01T13:24:56.060440+07:00"
+    },
+    {
+      "id": "beea93668d7ec784c744c443280a3b96",
+      "title": "Keith Urban chia tay Nicole Kidman do có tình mới trẻ đẹp hơn?",
+      "link": "https://thanhnien.vn/keith-urban-chia-tay-nicole-kidman-do-co-tinh-moi-tre-dep-hon-185251001123321065.htm",
+      "summary": "Nicole Kidman đã chính thức nộp đơn ly hôn với chồng - nam ca sĩ Keith Urban sau 19 năm chung sống, tờ Daily Mail xác nhận hôm 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:17:00+07:00",
+      "fetched": "2025-10-01T13:24:56.060610+07:00"
+    },
+    {
+      "id": "51c4f85639ae1583289da81668b1c4dd",
+      "title": "Bí thư Trần Lưu Quang làm việc với phường đông dân nhất TP.HCM",
+      "link": "https://thanhnien.vn/bi-thu-tran-luu-quang-lam-viec-voi-phuong-dong-dan-nhat-tphcm-185251001122208395.htm",
+      "summary": "Sáng 1.10, Bí thư Trung ương Đảng, Bí thư Thành ủy TP.HCM Trần Lưu Quang đã làm việc với Đảng ủy, UBND phường Dĩ An (TP.HCM) về thực hiện chính quyền địa phương 2 cấp và hoạt động của Trung tâm phục vụ hành chính công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:17:00+07:00",
+      "fetched": "2025-10-01T13:24:56.060767+07:00"
+    },
+    {
+      "id": "dd38ec1287f66bded6ff60b9d96d37fa",
+      "title": "Thưởng tại Enhanced Games bằng 13 lần vô địch thế giới",
+      "link": "https://vnexpress.net/thuong-tai-enhanced-games-bang-13-lan-vo-dich-the-gioi-4945433.html",
+      "summary": "Kình ngư người Anh Ben Proud cho biết phải mất 13 năm liên tiếp giành HC vàng thế giới mới kiếm được số tiền thưởng tương đương một chiến thắng ở Enhanced Games giải đấu cho phép VĐV dùng chất cấm dưới sự giám sát y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:24:51.969692+07:00"
+    },
+    {
+      "id": "e21304dc21354bf78578c1a061e8e038",
+      "title": "Bệnh cường giáp nguy hiểm không?",
+      "link": "https://vnexpress.net/benh-cuong-giap-nguy-hiem-khong-4945922.html",
+      "summary": "Tôi hay đau ngực, khó thở, mệt khi gắng sức. Đây có phải dấu hiệu bệnh cường giáp, có nguy hiểm không, điều trị thế nào? (Minh Trung, 54 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:24:51.969872+07:00"
+    },
+    {
+      "id": "ddc62e8865a351a398426d5badc9457b",
+      "title": "Ung thư phổi do đâu?",
+      "link": "https://vnexpress.net/ung-thu-phoi-do-dau-4945915.html",
+      "summary": "Ba tôi 63 tuổi, không hút thuốc, vừa phát hiện mắc ung thư phổi. Vì sao không hút thuốc cũng mắc bệnh này, có phải do lối sống không? Ai trong gia đình có nguy cơ di truyền? (Hải An, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:24:51.970036+07:00"
+    },
+    {
+      "id": "0434c2cd5ce4c696d9dc54de913821d0",
+      "title": "Trung Quốc khai trương tuyến vận tải container xuyên Bắc Cực",
+      "link": "https://vnexpress.net/trung-quoc-khai-truong-tuyen-van-tai-container-xuyen-bac-cuc-4943594.html",
+      "summary": "Tuyến vận tải container xuyên Bắc Cực đầu tiên giữa Trung Quốc và châu Âu đã khởi hành từ cảng Ninh Ba - Chu San (Chiết Giang) hôm 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:24:51.970195+07:00"
+    },
+    {
+      "id": "27bdd1a00008cf668b902bd7c184fdc0",
+      "title": "Đảng ủy các cơ quan Đảng TP.HCM: Sắp xếp tổ chức bộ máy giúp giảm chồng chéo",
+      "link": "https://thanhnien.vn/dang-uy-cac-co-quan-dang-tphcm-sap-xep-to-chuc-bo-may-giup-giam-chong-cheo-185251001091337124.htm",
+      "summary": "Phó bí thư Đảng ủy các cơ quan Đảng TP.HCM cho biết, việc sắp xếp tổ chức bộ máy giúp giảm đầu mối trung gian, loại bỏ các chức năng chồng chéo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:24:56.060930+07:00"
+    },
+    {
+      "id": "dd38ec1287f66bded6ff60b9d96d37fa",
+      "title": "Thưởng tại Enhanced Games bằng 13 lần vô địch thế giới",
+      "link": "https://vnexpress.net/thuong-tai-enhanced-games-bang-13-lan-vo-dich-the-gioi-4945433.html",
+      "summary": "Kình ngư người Anh Ben Proud cho biết phải mất 13 năm liên tiếp giành HC vàng thế giới mới kiếm được số tiền thưởng tương đương một chiến thắng ở Enhanced Games giải đấu cho phép VĐV dùng chất cấm dưới sự giám sát y tế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T06:00:00+07:00",
+      "fetched": "2025-10-01T13:25:09.112161+07:00"
+    },
+    {
+      "id": "ad8df1f9bcd4c842acc14f6e8ed0ee0f",
+      "title": "Áp thấp nhiệt đới xuất hiện gần Biển Đông",
+      "link": "https://vnexpress.net/ap-thap-nhiet-doi-xuat-hien-gan-bien-dong-4945937.html",
+      "summary": "Mặc dù còn ở ngoài khơi Philippines, cả cơ quan khí tượng Việt Nam và quốc tế chung nhận định áp thấp nhiệt đới sẽ mạnh lên thành bão và đi vào Biển Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:57:12+07:00",
+      "fetched": "2025-10-01T13:24:51.970374+07:00"
+    },
+    {
+      "id": "d4cef588adff4b667be5ec6dbd46bec1",
+      "title": "Lừa đảo kỹ thuật số làm Đông Nam Á thiệt hại 23,6 tỉ USD",
+      "link": "https://thanhnien.vn/lua-dao-ky-thuat-so-lam-dong-nam-a-thiet-hai-236-ti-usd-185251001105553297.htm",
+      "summary": "Hiện trạng về lừa đảo đặc biệt là qua các kênh kỹ thuật số đã tạo ra cơn khủng hoảng lớn cho các quốc gia Đông Nam Á trong năm 2025, khi tỷ lệ gần hai phần ba số người trưởng thành trong khu vực đã bị lừa đảo, với mức tổng thiệt hại lên tới 23,6 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:55:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061085+07:00"
+    },
+    {
+      "id": "5e88846bf4625eebc1c56b76c4a7e70f",
+      "title": "Đoàn khách Đài Loan mắc kẹt vì sạt lở được mời ăn, ngủ miễn phí",
+      "link": "https://vnexpress.net/doan-khach-dai-loan-mac-ket-vi-sat-lo-duoc-moi-an-ngu-mien-phi-4945933.html",
+      "summary": "15 khách Đài Loan mắc kẹt trên đường lên Sa Pa được anh Hưởng, người Lào Cai, mời cơm miễn phí và tìm nơi ngủ qua đêm cho đến khi tiếp tục hành trình vào sáng 30/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:41:18+07:00",
+      "fetched": "2025-10-01T13:24:51.970581+07:00"
+    },
+    {
+      "id": "c0d15b85ebcac6beaaeede856d695179",
+      "title": "HLV Polking nói điều bất ngờ về Nguyễn Filip không được lên đội tuyển, rất dè chừng đối thủ Hồng Kông",
+      "link": "https://thanhnien.vn/hlv-polking-noi-dieu-bat-ngo-ve-nguyen-filip-khong-duoc-len-doi-tuyen-rat-de-chung-doi-thu-hong-kong-185251001120923366.htm",
+      "summary": "HLV Polking của CLB Công an Hà Nội và đại diện CLB Tai Po đã có những chia sẻ trước thềm trận đấu giữa hai đội, thuộc lượt 2 bảng E giải AFC Champions League Two.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:40:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061244+07:00"
+    },
+    {
+      "id": "570844414ef9ff9ea34515589c7a3e18",
+      "title": "Trực thăng vượt gió bão hạ xuống 3 đảo, cứu 3 người ở đặc khu Trường Sa",
+      "link": "https://thanhnien.vn/truc-thang-vuot-gio-bao-ha-xuong-3-dao-cuu-3-nguoi-o-dac-khu-truong-sa-185251001114908337.htm",
+      "summary": "Trực thăng vượt gió bão đưa 3 bệnh nhân nặng từ 3 đảo thuộc đặc khu Trường Sa về Bệnh viện Quân y 175 điều trị, đảm bảo an toàn trong điều kiện thời tiết khắc nghiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:38:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061421+07:00"
+    },
+    {
+      "id": "84ae085fdae4883142436bf50d6e4602",
+      "title": "Xe đỗ ở chỗ ngập nước có cần mang đi bảo dưỡng?",
+      "link": "https://vnexpress.net/xe-do-o-cho-ngap-nuoc-co-can-mang-di-bao-duong-4945806.html",
+      "summary": "Đến vùng ngập nước tôi dừng xe không đi tiếp nhưng bị ngâm trong nước khá lâu, xin hỏi có cần đi thay dầu bảo dưỡng. (Bình An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:33:52+07:00",
+      "fetched": "2025-10-01T13:24:51.970742+07:00"
+    },
+    {
+      "id": "a6d267a6f8c536362ec57c74636fba6d",
+      "title": "Vingroup hỗ trợ khẩn cấp 500 tỉ đồng cho đồng bào bị thiệt hại do bão Bualoi",
+      "link": "https://thanhnien.vn/vingroup-ho-tro-khan-cap-500-ti-dong-cho-dong-bao-bi-thiet-hai-do-bao-bualoi-185251001121938207.htm",
+      "summary": "Vingroup quyết định hỗ trợ khẩn cấp 500 tỉ đồng cho các gia đình có người thiệt mạng do bão số 10 (Bualoi); các gia đình có nhà bị sập đổ hoàn toàn và các gia đình người có công, thương binh - liệt sĩ, các hộ có hoàn cảnh đặc biệt khó khăn có nhà ở bị tốc mái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:32:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061575+07:00"
+    },
+    {
+      "id": "a8a09b23ad349438fc513d72a04e191b",
+      "title": "Nepal có nữ thần 2 tuổi",
+      "link": "https://thanhnien.vn/nepal-co-nu-than-2-tuoi-185251001114523417.htm",
+      "summary": "Một bé gái 2 tuổi ở Nepal vừa chính thức trở thành Kumari, 'nữ thần đồng trinh' là biểu tượng linh thiêng được tôn thờ bởi cả cộng đồng Hindu và Phật giáo tại quốc gia Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:32:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061722+07:00"
+    },
+    {
+      "id": "92c6feb80b7171c51ed2f4e2afe4d00f",
+      "title": "AC Milan và Inter được quyền phá bỏ San Siro để xây sân mới",
+      "link": "https://vnexpress.net/ac-milan-va-inter-duoc-quyen-pha-bo-san-siro-de-xay-san-moi-4945941.html",
+      "summary": "Tương lai San Siro cuối cùng cũng có lời giải, sau khi Hội đồng Thành phố Milan chính thức cho phép hai CLB AC Milan và Inter Milan được quyền mua lại SVĐ này và toàn quyền quyết định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:31:14+07:00",
+      "fetched": "2025-10-01T13:24:51.970901+07:00"
+    },
+    {
+      "id": "92c6feb80b7171c51ed2f4e2afe4d00f",
+      "title": "AC Milan và Inter được quyền phá bỏ San Siro để xây sân mới",
+      "link": "https://vnexpress.net/ac-milan-va-inter-duoc-quyen-pha-bo-san-siro-de-xay-san-moi-4945941.html",
+      "summary": "Tương lai San Siro cuối cùng cũng có lời giải, sau khi Hội đồng Thành phố Milan chính thức cho phép hai CLB AC Milan và Inter Milan được quyền mua lại SVĐ này và toàn quyền quyết định.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T05:31:14+07:00",
+      "fetched": "2025-10-01T13:25:09.112345+07:00"
+    },
+    {
+      "id": "b79c97d9a837b1c6cc5c41c0272e37ef",
+      "title": "Tổng Bí thư: 'Nói ít, làm nhiều, làm nhanh, làm đúng, làm đến nơi đến chốn'",
+      "link": "https://thanhnien.vn/tong-bi-thu-noi-it-lam-nhieu-lam-nhanh-lam-dung-lam-den-noi-den-chon-185251001120157722.htm",
+      "summary": "Tổng Bí thư Tô Lâm kêu gọi 'nói ít, làm nhiều, làm nhanh, làm đúng, làm đến nơi đến chốn\" để đổi mới sáng tạo bắt kịp tốc độ tăng trưởng của thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:29:00+07:00",
+      "fetched": "2025-10-01T13:24:56.061874+07:00"
+    },
+    {
+      "id": "7e5d2f38734000891cd36922dc2b31e0",
+      "title": "Nghi phạm giết người ở công viên bị bắt sau 30 phút gây án",
+      "link": "https://vnexpress.net/nghi-pham-giet-nguoi-o-cong-vien-bi-bat-sau-30-phut-gay-an-4945900.html",
+      "summary": "Nguyễn Văn Tý, 23 tuổi, bị cảnh sát chạy xe máy truy đuổi, bắt giữ sau 30 phút đâm gục người đàn ông tại công viên Phú Trinh, phường Phan Thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:23:40+07:00",
+      "fetched": "2025-10-01T13:24:51.971058+07:00"
+    },
+    {
+      "id": "7664b853d95bb1fa52cbd05008baac79",
+      "title": "Trực thăng vượt bão, đưa người bệnh từ 3 đảo về đất liền",
+      "link": "https://vnexpress.net/truc-thang-vuot-bao-dua-nguoi-benh-tu-3-dao-ve-dat-lien-4945906.html",
+      "summary": "Giữa đêm mưa bão, trực thăng EC-225 của Binh đoàn 18 đã vượt sóng gió, lần lượt hạ cánh tại 3 đảo thuộc quần đảo Trường Sa để đưa ba người bệnh nguy kịch về Bệnh viện Quân y 175 an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:23:21+07:00",
+      "fetched": "2025-10-01T13:24:51.971156+07:00"
+    },
+    {
+      "id": "bfd475623e8104e70fa46dee4eeec201",
+      "title": "Phụ nữ độc thân được làm IVF để sinh con từ 1/10",
+      "link": "https://vnexpress.net/phu-nu-doc-than-duoc-lam-ivf-de-sinh-con-tu-1-10-4945903.html",
+      "summary": "Từ hôm nay, phụ nữ độc thân có quyền tiếp cận kỹ thuật hỗ trợ sinh sản, bao gồm đông lạnh trứng, thụ tinh trong ống nghiệm (IVF) nếu có nhu cầu và nguyện vọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:22:15+07:00",
+      "fetched": "2025-10-01T13:24:51.971342+07:00"
+    },
+    {
+      "id": "9a3d9467278274fc87b3f5f0e3b89c74",
+      "title": "Antony: 'Man Utd thiếu tôn trọng tôi'",
+      "link": "https://vnexpress.net/antony-man-utd-thieu-ton-trong-toi-4945849.html",
+      "summary": "Tiền đạo người Brazil chưa thể quên quãng thời gian dài phải sống trong khách sạn gần sân bay và bị HLV Ruben Amorim cách ly khỏi đội một Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:21:33+07:00",
+      "fetched": "2025-10-01T13:24:51.971499+07:00"
+    },
+    {
+      "id": "9a3d9467278274fc87b3f5f0e3b89c74",
+      "title": "Antony: 'Man Utd thiếu tôn trọng tôi'",
+      "link": "https://vnexpress.net/antony-man-utd-thieu-ton-trong-toi-4945849.html",
+      "summary": "Tiền đạo người Brazil chưa thể quên quãng thời gian dài phải sống trong khách sạn gần sân bay và bị HLV Ruben Amorim cách ly khỏi đội một Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T05:21:33+07:00",
+      "fetched": "2025-10-01T13:25:09.112511+07:00"
+    },
+    {
+      "id": "9e933bc4437a4b3c8cc65a6cac1dcead",
+      "title": "Thường trực Ban Bí thư: Hà Tĩnh phải xây dựng chính quyền số minh bạch, thuận lợi",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-ha-tinh-phai-xay-dung-chinh-quyen-so-minh-bach-thuan-loi-185251001103921274.htm",
+      "summary": "Phát biểu chỉ đạo tại Đại hội đại biểu Đảng bộ tỉnh Hà Tĩnh lần thứ XX, Ủy viên Bộ Chính trị, Thường trực Ban Bí thư Trần Cẩm Tú nhấn mạnh: 'Hà Tĩnh cần đẩy mạnh chuyển đổi số, thúc đẩy cải cách hành chính, xây dựng chính quyền số minh bạch, thuận lợi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:20:00+07:00",
+      "fetched": "2025-10-01T13:24:56.062023+07:00"
+    },
+    {
+      "id": "b6d764bcb2fbae14550a64c7ae3c304f",
+      "title": "Bốn tay vợt Việt Nam vào tứ kết PPA Tour châu Á",
+      "link": "https://vnexpress.net/bon-tay-vot-viet-nam-vao-tu-ket-ppa-tour-chau-a-4945935.html",
+      "summary": "Các tay vợt pickleball Linh Giang, Hoàng Nam, Vinh Hiển, Phúc Huỳnh đều giành quyền vào tứ kết PPA Tour Asia - Đà Nẵng Cup 2025, trưa 1/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:19:58+07:00",
+      "fetched": "2025-10-01T13:24:51.971648+07:00"
+    },
+    {
+      "id": "b6d764bcb2fbae14550a64c7ae3c304f",
+      "title": "Bốn tay vợt Việt Nam vào tứ kết PPA Tour châu Á",
+      "link": "https://vnexpress.net/bon-tay-vot-viet-nam-vao-tu-ket-ppa-tour-chau-a-4945935.html",
+      "summary": "Các tay vợt pickleball Linh Giang, Hoàng Nam, Vinh Hiển, Phúc Huỳnh đều giành quyền vào tứ kết PPA Tour Asia - Đà Nẵng Cup 2025, trưa 1/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T05:19:58+07:00",
+      "fetched": "2025-10-01T13:25:09.111503+07:00"
+    },
+    {
+      "id": "509b6ef68402c2741f16074135fa84ad",
+      "title": "Viện KSND tối cao tạm đình chỉ vụ 'không truy cứu trách nhiệm hình sự người có tội'",
+      "link": "https://thanhnien.vn/vien-ksnd-toi-cao-tam-dinh-chi-vu-khong-truy-cuu-trach-nhiem-hinh-su-nguoi-co-toi-185251001113814832.htm",
+      "summary": "Cơ quan Điều tra Viện KSND tối cao vừa có thông báo tạm đình chỉ giải quyết nguồn tin về tội phạm 'không truy cứu trách nhiệm hình sự người có tội', xảy ra tại Cơ quan CSĐT tra Công an H.Trà Ôn, Vĩnh Long (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:19:00+07:00",
+      "fetched": "2025-10-01T13:24:56.062173+07:00"
+    },
+    {
+      "id": "26859776b61a18ef89f2f232f3ff2c40",
+      "title": "'Cá nhân chỉ cần quan tâm phải nộp thuế với 2 dòng tiền: Lương và kinh doanh'",
+      "link": "https://thanhnien.vn/ca-nhan-chi-can-quan-tam-phai-nop-thue-voi-2-dong-tien-luong-va-kinh-doanh-185251001112017508.htm",
+      "summary": "Cá nhân chủ yếu chỉ cần quan tâm đến nghĩa vụ thuế với dòng tiền phát sinh từ kinh doanh, tiền lương, tiền công. Các dòng tiền khác, tổ chức, cá nhân chi trả đã khấu trừ, nộp thay hoặc không phát sinh nghĩa vụ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:17:00+07:00",
+      "fetched": "2025-10-01T13:24:56.062343+07:00"
+    },
+    {
+      "id": "de5f82a5e0017b7f668428288a53aeec",
+      "title": "Bão chồng bão khiến Hà Tĩnh thiệt hại hơn 9.000 tỉ",
+      "link": "https://thanhnien.vn/bao-chong-bao-khien-ha-tinh-thiet-hai-hon-9000-ti-185251001110827568.htm",
+      "summary": "Trong hơn 1 tháng qua, Hà Tĩnh liên tiếp hứng chịu 3 cơn bão, thiệt hại hơn 9.000 tỉ đồng, riêng bão số 10 gây thiệt hại hơn 6.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:15:00+07:00",
+      "fetched": "2025-10-01T13:24:56.062500+07:00"
+    },
+    {
+      "id": "1c886e12d9f8d37bba222db7a7ddb29b",
+      "title": "Tài năng mới của Brazil từng suýt chết bỏng",
+      "link": "https://vnexpress.net/tai-nang-moi-cua-brazil-tung-suyt-chet-bong-4945693.html",
+      "summary": "Bị tai nạn nước sôi dẫn đến gương mặt biến dạng, nhưng Bernardo Lopes không đầu hàng số phận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:13:41+07:00",
+      "fetched": "2025-10-01T13:24:51.971803+07:00"
+    },
+    {
+      "id": "1c886e12d9f8d37bba222db7a7ddb29b",
+      "title": "Tài năng mới của Brazil từng suýt chết bỏng",
+      "link": "https://vnexpress.net/tai-nang-moi-cua-brazil-tung-suyt-chet-bong-4945693.html",
+      "summary": "Bị tai nạn nước sôi dẫn đến gương mặt biến dạng, nhưng Bernardo Lopes không đầu hàng số phận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T05:13:41+07:00",
+      "fetched": "2025-10-01T13:25:09.112666+07:00"
+    },
+    {
+      "id": "52fe7459b18efe444f5581751e5f6d37",
+      "title": "Lưu ý khi sử dụng ô tô gầm thấp tại khu vực ngập nước",
+      "link": "https://thanhnien.vn/luu-y-khi-su-dung-o-to-gam-thap-tai-khu-vuc-ngap-nuoc-185250930214336341.htm",
+      "summary": "Các dòng ô tô gầm thấp như sedan, hatchback… thường gặp bất lợi khi đi qua các đoạn đường, khu vực ngập nước, do đó nếu sử dụng các dòng xe này trong những ngày mưa lũ, tài xế cần đặc biệt chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:13:00+07:00",
+      "fetched": "2025-10-01T13:24:56.062652+07:00"
+    },
+    {
+      "id": "f39efa1910b3f34caffdc65b3836839e",
+      "title": "Đi 10 km trong 6 giờ vì Hà Nội ngập",
+      "link": "https://vnexpress.net/ha-noi-ngap-ha-noi-mua-to-cac-diem-ngap-ha-noi-di-10-km-trong-6-gio-vi-ha-noi-ngap-4945891.html",
+      "summary": "Một đô thị hiện đại không thể cứ sau mỗi trận mưa lớn lại loay hoay chịu trận vì ngập tứ bề, đường tắc cứng, xe chết máy la liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T05:08:15+07:00",
+      "fetched": "2025-10-01T13:24:51.971958+07:00"
+    },
+    {
+      "id": "63f816ac5eda042f51ee079e39528d70",
+      "title": "Carragher: 'Liverpool đang chơi bóng rổ'",
+      "link": "https://vnexpress.net/carragher-liverpool-dang-choi-bong-ro-4945783.html",
+      "summary": "Cựu hậu vệ Liverpool Jamie Carragher chỉ trích cách chơi của đội bóng cũ sau trận thua Galatasaray 0-1 ở lượt hai Champions League, tối 30/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T05:00:00+07:00",
+      "fetched": "2025-10-01T13:25:09.112820+07:00"
+    },
+    {
+      "id": "462bc4dd6cdbe8038c8816d05111a81c",
+      "title": "Bất đồng khiến chính phủ Mỹ lần đầu đóng cửa sau gần 7 năm",
+      "link": "https://vnexpress.net/bat-dong-khien-chinh-phu-my-lan-dau-dong-cua-sau-gan-7-nam-4945766.html",
+      "summary": "Đảng Cộng hòa và Dân chủ quyết không nhượng bộ vấn đề chăm sóc y tế trong dự luật ngân sách, khiến chính phủ Mỹ đóng cửa lần đầu tiên sau gần 7 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T04:45:27+07:00",
+      "fetched": "2025-10-01T13:25:03.941377+07:00"
+    },
+    {
+      "id": "032ae35c1a6e8e04e5863c5d96d6bd24",
+      "title": "5 địa phương dẫn đầu bảng xếp hạng Đổi mới sáng tạo 2025",
+      "link": "https://vnexpress.net/5-dia-phuong-dan-dau-bang-xep-hang-doi-moi-sang-tao-2025-4945872.html",
+      "summary": "Hà Nội, TP HCM, Quảng Ninh, Hải Phòng, Huế là 5 địa phương dẫn đầu bảng xếp hạng bộ Chỉ số Đổi mới sáng tạp cấp địa phương (PII) 2025 do Bộ Khoa học và Công nghệ xây dựng và công bố ngày 1/10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-01T04:38:08+07:00",
+      "fetched": "2025-10-01T13:25:07.430130+07:00"
+    },
+    {
+      "id": "2259624f5c31c84efd4b2855ebb98cae",
+      "title": "Hà Nội tiếp tục dẫn đầu cả nước về đổi mới sáng tạo",
+      "link": "https://vnexpress.net/ha-noi-tiep-tuc-dan-dau-ca-nuoc-ve-doi-moi-sang-tao-4945881.html",
+      "summary": "Bộ Khoa học và Công nghệ công bố kết quả Chỉ số đổi mới sáng tạo cấp địa phương (PII) năm 2025, với Hà Nội là địa phương dẫn đầu với tổng điểm số 65,68.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-01T04:30:24+07:00",
+      "fetched": "2025-10-01T13:25:07.429791+07:00"
+    },
+    {
+      "id": "97e152631b0500625676f4d6486b415d",
+      "title": "Những tuyên bố cứng rắn của ông Hegseth khi họp với tướng lĩnh Mỹ",
+      "link": "https://vnexpress.net/nhung-tuyen-bo-cung-ran-cua-ong-hegseth-khi-hop-voi-tuong-linh-my-4945791.html",
+      "summary": "Bộ trưởng Hegseth tuyên bố xóa bỏ chính sách \"thức tỉnh\", yêu cầu binh sĩ đáp ứng \"chuẩn nam giới cao nhất\" trong cuộc họp với các tướng lĩnh Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T04:28:00+07:00",
+      "fetched": "2025-10-01T13:25:03.941557+07:00"
     },
     {
       "id": "88e72cfc4b70204b8db407278c98f800",
@@ -1013,6 +1563,16 @@ window.newsData_2025_10_01 = {
       "fetched": "2025-10-01T10:08:51.341969+07:00"
     },
     {
+      "id": "da3dd2d8c5a249e132e343dffc14a3fc",
+      "title": "Các bước tự đề cử Runners Of The Year",
+      "link": "https://vnexpress.net/cac-buoc-tu-de-cu-runners-of-the-year-4945811.html",
+      "summary": "Từ ngày 1/10, cộng đồng có thể tự đề cử cho các hạng mục của giải thưởng VnExpress Runners Of The Year 2025 bằng cách truy cập vào cổng thông tin và làm theo 6 bước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T02:19:55+07:00",
+      "fetched": "2025-10-01T13:25:09.112002+07:00"
+    },
+    {
       "id": "9bc3024b8065cb1786aaba3c1e9fe5d6",
       "title": "Trung Quốc bắt đầu triển khai thị thực mới để hút nhân tài",
       "link": "https://vnexpress.net/trung-quoc-bat-dau-trien-khai-thi-thuc-moi-de-hut-nhan-tai-4945318.html",
@@ -1461,6 +2021,16 @@ window.newsData_2025_10_01 = {
       "category": "Tổng hợp",
       "published": "2025-10-01T00:52:09+07:00",
       "fetched": "2025-10-01T08:21:34.074340+07:00"
+    },
+    {
+      "id": "88649c7b386878aea8b4e7d82128ae11",
+      "title": "Chính phủ Mỹ đóng cửa",
+      "link": "https://vnexpress.net/chinh-phu-my-dong-cua-4945758.html",
+      "summary": "Chính phủ Mỹ đóng cửa một phần từ 0h ngày 1/10 (11h giờ Hà Nội) sau khi cuộc bỏ phiếu gia hạn ngân sách tại Thượng viện thất bại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T00:52:09+07:00",
+      "fetched": "2025-10-01T13:25:03.943358+07:00"
     },
     {
       "id": "86aba18863d8af1f36818a92b0f1d6b2",
