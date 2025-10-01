@@ -1,7 +1,157 @@
 window.newsData_2025_10_01 = {
   "date": "2025-10-01",
-  "lastUpdated": "2025-10-01T19:35:58.306457+07:00",
+  "lastUpdated": "2025-10-01T21:17:04.948892+07:00",
   "articles": [
+    {
+      "id": "25d9534c4bdc50ab13087a6a415217b9",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Chữa lành bằng cách làm gốm handmade",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-chua-lanh-bang-cach-lam-gom-handmade-20251001133659711.htm",
+      "summary": "Trái ngược với không gian vội vã của con phố chính, không gian trải nghiệm làm gốm trong ngõ 189 Hoàng Hoa Thám, TP Hà Nội lại mang đến cho người trải nghiệm sự yên bình, chữa lành và nguồn cảm hứng tự do sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019889+07:00",
+      "fetched": "2025-10-01T21:16:56.020008+07:00"
+    },
+    {
+      "id": "665b9a72c0315b3be0e3c0f31f81745d",
+      "title": "Arttech Fusion 2025: Nghệ thuật và công nghệ đồng sáng tạo",
+      "link": "https://tuoitre.vn/arttech-fusion-2025-nghe-thuat-va-cong-nghe-dong-sang-tao-20251001173739669.htm",
+      "summary": "ArtTech Fusion lần thứ 4 năm 2025 (ATF25), một sự kiện quốc tế diễn ra thành công tại Đại học Kinh tế TP.HCM (UEH) mới đây đã cung cấp một cái nhìn sâu sắc hơn về sự giao thoa giữa nghệ thuật và công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019767+07:00",
+      "fetched": "2025-10-01T21:16:56.019878+07:00"
+    },
+    {
+      "id": "0d1cb685af557053c832a24aa1a13984",
+      "title": "Các ngân hàng Phố Wall dự báo sẽ vượt mốc 1,20 USD/euro",
+      "link": "https://tuoitre.vn/cac-ngan-hang-pho-wall-du-bao-se-vuot-moc-120-usd-euro-20251001180423549.htm",
+      "summary": "Đà tăng của đồng euro được dự báo sẽ tiếp tục trong những tháng tới, khi các nhà đầu tư toàn cầu tăng cường phòng ngừa rủi ro đối với đồng USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019647+07:00",
+      "fetched": "2025-10-01T21:16:56.019756+07:00"
+    },
+    {
+      "id": "e67850a764de59b418ee76e038c134c9",
+      "title": "Xây dựng không gian văn hóa Hồ Chí Minh với doanh nghiệp",
+      "link": "https://tuoitre.vn/xay-dung-khong-gian-van-hoa-ho-chi-minh-voi-doanh-nghiep-20251001181456086.htm",
+      "summary": "Hội thảo khoa học “Chủ tịch Hồ Chí Minh với doanh nghiệp, doanh nhân - Từ ký ức đến khát vọng vươn mình kiến quốc” ngày 1-10 tại TP.HCM khẳng định giá trị tư tưởng Hồ Chí Minh trong phát triển đội ngũ doanh nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019523+07:00",
+      "fetched": "2025-10-01T21:16:56.019636+07:00"
+    },
+    {
+      "id": "efd432387be9b3cb6094056ce46181c5",
+      "title": "Danh hài tài hoa Jim Carrey nhận giải 'Oscar của nước Pháp'",
+      "link": "https://tuoitre.vn/danh-hai-tai-hoa-jim-carrey-nhan-giai-oscar-cua-nuoc-phap-20251001182544486.htm",
+      "summary": "Jim Carrey, danh hài tài hoa của Hollywood, sẽ nhận giải César danh dự, giải thưởng được xem là 'tượng vàng' Oscar của điện ảnh Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019395+07:00",
+      "fetched": "2025-10-01T21:16:56.019512+07:00"
+    },
+    {
+      "id": "4b93825f1f67d09852231ccf0259d187",
+      "title": "Tổng Bí thư Tô Lâm: Việt Nam sẽ luôn sát cánh cùng Cuba",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-viet-nam-se-luon-sat-canh-cung-cuba-20251001183817379.htm",
+      "summary": "Chiều 1-10 tại Trụ sở Trung ương Đảng, Tổng Bí thư Tô lâm đã tiếp Chủ tịch Quốc hội Cuba Esteban Lazo Hernández.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019252+07:00",
+      "fetched": "2025-10-01T21:16:56.019383+07:00"
+    },
+    {
+      "id": "e6e3c73e73358ab9e3926a6c1de1aaab",
+      "title": "Golf là sân chơi kinh tế, phải tạo thuận lợi để hút vốn tỉ đô vào Việt Nam",
+      "link": "https://tuoitre.vn/golf-la-san-choi-kinh-te-phai-tao-thuan-loi-de-hut-von-ti-do-vao-viet-nam-20251001184107525.htm",
+      "summary": "Nằm trong xu hướng chung của quốc tế, tại Việt Nam, golf không chỉ là sân chơi thể thao, mà còn là cầu nối kinh tế, nơi doanh nhân và nhà đầu tư quốc tế đến Việt Nam kết nối, rót vốn đầu tư. Cần định vị đúng để khơi thông dòng vốn hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.019127+07:00",
+      "fetched": "2025-10-01T21:16:56.019240+07:00"
+    },
+    {
+      "id": "a1864a5603df45c8e8870ccd06f0ac5f",
+      "title": "Biến động thị trường xuất khẩu, doanh nghiệp gỗ nội thất quyết tâm về sân nhà",
+      "link": "https://tuoitre.vn/bien-dong-thi-truong-xuat-khau-doanh-nghiep-go-noi-that-quyet-tam-ve-san-nha-2025100119110245.htm",
+      "summary": "Với lợi thế đã xuất khẩu thành công đến nhiều thị trường quốc tế, doanh nghiệp nội thất Việt đang tìm cách quay về thị trường nội địa, đáp ứng nhu cầu ngày càng cao của người tiêu dùng trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018999+07:00",
+      "fetched": "2025-10-01T21:16:56.019116+07:00"
+    },
+    {
+      "id": "2ea213619830820a8d3b14004f0f1e7e",
+      "title": "Nước lên cao, tạm dừng hoạt động du lịch trên sông Nho Quế",
+      "link": "https://tuoitre.vn/nuoc-len-cao-tam-dung-hoat-dong-du-lich-tren-song-nho-que-20251001185821618.htm",
+      "summary": "Do lượng nước đổ về hồ chứa thủy điện sông Nho Quế lớn, cùng ảnh hưởng của các điểm sạt lở do mưa lớn sau bão số 10 gây ra, hoạt động du lịch trên sông Nho Quế tạm dừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018862+07:00",
+      "fetched": "2025-10-01T21:16:56.018987+07:00"
+    },
+    {
+      "id": "c2982b097ea1de5f41c0087b64802d71",
+      "title": "Tư vấn viên bảo hiểm Manulife được đào tạo kiến thức sức khỏe cộng đồng",
+      "link": "https://tuoitre.vn/tu-van-vien-bao-hiem-manulife-duoc-dao-tao-kien-thuc-suc-khoe-cong-dong-20251001190341991.htm",
+      "summary": "Sau thỏa thuận hợp tác giữa Manulife với các tổ chức y khoa, đã có hơn 1.000 tư vấn viên của doanh nghiệp bảo hiểm này được đào tạo kiến thức thiết yếu về sức khỏe cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018736+07:00",
+      "fetched": "2025-10-01T21:16:56.018851+07:00"
+    },
+    {
+      "id": "46ba3e8291b38fcc977e7b5899058716",
+      "title": "‘Bữa cơm của mẹ’ - lan tỏa nhận thức về gia vị minh bạch",
+      "link": "https://tuoitre.vn/bua-com-cua-me-lan-toa-nhan-thuc-ve-gia-vi-minh-bach-20251001143557717.htm",
+      "summary": "Nhằm kịp thời bổ sung những kiến thức cho người tiêu dùng, chuyên đề ‘Bữa cơm của mẹ’ đã được tổ chức với mục tiêu nâng cao nhận thức và xây dựng thói quen tiêu dùng thông minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018608+07:00",
+      "fetched": "2025-10-01T21:16:56.018724+07:00"
+    },
+    {
+      "id": "439231fc88c66983da6b487c006b0ba0",
+      "title": "Flagship hiện đại: Sao lại không thể gập?",
+      "link": "https://tuoitre.vn/flagship-hien-dai-sao-lai-khong-the-gap-20251001170325079.htm",
+      "summary": "Galaxy Z Fold7 là kết quả của một tầm nhìn mà Samsung đã kiên định theo đuổi từ năm 2008: luôn đi trước một bước để định hình tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018477+07:00",
+      "fetched": "2025-10-01T21:16:56.018596+07:00"
+    },
+    {
+      "id": "16adb64d2fea264d3f6650d75df65dc0",
+      "title": "Tân cử nhân và bài toán tìm việc thời đại AI",
+      "link": "https://tuoitre.vn/tan-cu-nhan-va-bai-toan-tim-viec-thoi-dai-ai-20251001171249455.htm",
+      "summary": "Voices of Galaxy là chuỗi phim ngắn tôn vinh những câu chuyện bình dị của người trẻ Việt Nam nỗ lực trong hành trình phát triển bản thân để vươn mình cùng đất nước, với tập 1 xoay quanh chặng đường ‘tìm việc’ của sinh viên mới ra trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018336+07:00",
+      "fetched": "2025-10-01T21:16:56.018465+07:00"
+    },
+    {
+      "id": "7e82963c67f467011b056c8b07d893d5",
+      "title": "Điện Kremlin cảnh báo sẽ truy đuổi bất kỳ ai chiếm đoạt tài sản của Nga",
+      "link": "https://tuoitre.vn/dien-kremlin-canh-bao-se-truy-duoi-bat-ky-ai-chiem-doat-tai-san-cua-nga-202510011920421.htm",
+      "summary": "Ngày 1-10, Điện Kremlin cảnh báo giới lãnh đạo châu Âu rằng Nga sẽ truy đuổi bất kỳ cá nhân hoặc quốc gia nào chiếm đoạt tiền của nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018175+07:00",
+      "fetched": "2025-10-01T21:16:56.018323+07:00"
+    },
+    {
+      "id": "8520c5ca35748ba9b3b926667c24aa3f",
+      "title": "Nghệ An kêu gọi ủng hộ người dân bị thiệt hại do bão Bualoi",
+      "link": "https://tuoitre.vn/nghe-an-keu-goi-ung-ho-nguoi-dan-bi-thiet-hai-do-bao-bualoi-20251001184228913.htm",
+      "summary": "Trước những thiệt hại nặng nề do bão số 10 gây ra, Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Nghệ An kêu gọi ủng hộ đồng bào bị thiệt hại do ảnh hưởng bởi mưa lũ hoàn lưu bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:16:56.018000+07:00",
+      "fetched": "2025-10-01T21:16:56.018161+07:00"
+    },
     {
       "id": "f032aa3e6a481742d489644ab7c9a860",
       "title": "Cô gái từng được báo Tuổi Trẻ tiếp sức đến trường, nay đi qua 40 nước, giúp đỡ người nghèo",
@@ -453,6 +603,96 @@ window.newsData_2025_10_01 = {
       "fetched": "2025-10-01T15:23:34.118204+07:00"
     },
     {
+      "id": "d6eddfe33e30bb7ea2c7976ad4b77e49",
+      "title": "Nga cảnh báo châu Âu về ý định tịch thu tài sản đóng băng",
+      "link": "https://vnexpress.net/nga-canh-bao-chau-au-ve-y-dinh-tich-thu-tai-san-dong-bang-4946092.html",
+      "summary": "Điện Kremlin tuyên bố Nga sẽ truy cứu bất kỳ cá nhân hay quốc gia châu Âu nào chiếm đoạt tài sản của nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T14:06:26+07:00",
+      "fetched": "2025-10-01T21:16:57.762416+07:00"
+    },
+    {
+      "id": "9a5647b392d860dd2b9626196a470418",
+      "title": "Nước vẫn 'bao vây' khu biệt thự triệu đô ở Hà Nội",
+      "link": "https://thanhnien.vn/nuoc-van-bao-vay-khu-biet-thu-trieu-do-o-ha-noi-185251001202608568.htm",
+      "summary": "Dù thời tiết đã tạnh mưa từ trưa 1.10, nhưng nhiều tuyến đường tại Khu đô thị tây Hồ Tây (Hà Nội) vẫn ngập trong biển nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T14:01:00+07:00",
+      "fetched": "2025-10-01T21:16:54.711720+07:00"
+    },
+    {
+      "id": "dc7ff93a8ff17f59f8abc953c9a54c2f",
+      "title": "Suốt thai kỳ, tôi chỉ muốn gần gũi chồng",
+      "link": "https://vnexpress.net/ham-muon-chuyen-chan-goi-khi-mang-thai-suot-thai-ky-toi-chi-muon-gan-gui-chong-4945991.html",
+      "summary": "Thật sự tôi rất khổ sở với \"căn bệnh\" này, người ta có bầu thèm đồ ăn đồ uống, tôi có bầu không thèm ăn gì lại thèm chuyện đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T14:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.505712+07:00"
+    },
+    {
+      "id": "6a35aa92b9654bed0d87f8f238eef93f",
+      "title": "Bác sĩ Bệnh viện T.Ư Huế bít rò động - tĩnh mạch phổi qua da thành công",
+      "link": "https://thanhnien.vn/bac-si-benh-vien-tu-hue-bit-ro-dong-tinh-mach-phoi-qua-da-thanh-cong-185251001184451971.htm",
+      "summary": "Các y bác sĩ của Bệnh viện T.Ư Huế đã can thiệp qua da bít rò động - tĩnh mạch phổi thành công cho bệnh nhi 6 tuổi bị dị dạng động - tĩnh mạch phổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T14:00:00+07:00",
+      "fetched": "2025-10-01T21:16:54.711890+07:00"
+    },
+    {
+      "id": "9f589eb637558685647dea37b8719153",
+      "title": "Thủ tướng: Người dân còn phàn nàn thì Chính phủ phải có giải pháp hiệu quả",
+      "link": "https://thanhnien.vn/thu-tuong-nguoi-dan-con-phan-nan-thi-chinh-phu-phai-co-giai-phap-hieu-qua-185251001201455149.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chỉ rõ chừng nào người dân còn kêu ca, phàn nàn, chừng đó công việc của Chính phủ còn phải gian nan, vất vả, phải có giải pháp hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:58:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712046+07:00"
+    },
+    {
+      "id": "9b81488a4ddd39df016399e45511ecc8",
+      "title": "Đà Nẵng yêu cầu hoàn tất điều động cán bộ trước 15/10",
+      "link": "https://vnexpress.net/da-nang-yeu-cau-hoan-tat-dieu-dong-can-bo-truoc-15-10-4946138.html",
+      "summary": "Bí thư Thành ủy Đà Nẵng Lương Nguyễn Minh Triết yêu cầu các sở, ngành nhanh chóng hoàn thành phương án điều động, luân chuyển cán bộ về cơ sở sau sáp nhập, chậm nhất ngày 15/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:49:08+07:00",
+      "fetched": "2025-10-01T21:16:47.505892+07:00"
+    },
+    {
+      "id": "ca4c2c4dff5a186e6f6c3fa7923a9551",
+      "title": "Loạt phim Việt ra rạp trong nước tháng 10",
+      "link": "https://vnexpress.net/loat-phim-viet-ra-rap-trong-nuoc-thang-10-4945589.html",
+      "summary": "\"Cục vàng của ngoại\" do Khương Ngọc đạo diễn, dự án hợp tác Việt - Hàn \"Tay anh giữ một vì sao\" ra rạp Việt trong tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:30:30+07:00",
+      "fetched": "2025-10-01T21:16:47.506060+07:00"
+    },
+    {
+      "id": "a9f7a95e042f361dca9673fe2a352290",
+      "title": "CSGT Hà Nội chở người dân vượt ngập đi cấp cứu",
+      "link": "https://vnexpress.net/csgt-ha-noi-cho-nguoi-dan-vuot-ngap-di-cap-cuu-4946123.html",
+      "summary": "Đường Phùng Hưng ngập sâu và dài hàng km, cảnh sát giao thông dùng xe chuyên dụng chở người dân, bệnh nhân đến Bệnh viện K3 và Quân y 103 cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:28:11+07:00",
+      "fetched": "2025-10-01T21:16:47.506222+07:00"
+    },
+    {
+      "id": "843406bf4ad3ede839942f478c6e6b5c",
+      "title": "Cả ngàn bộ đồng phục học sinh cũ được thu gom, kéo dài vòng đời",
+      "link": "https://thanhnien.vn/ca-ngan-bo-dong-phuc-hoc-sinh-cu-duoc-thu-gom-keo-dai-vong-doi-18525100116084665.htm",
+      "summary": "Học sinh tiểu học khệ nệ bưng những bịch đồ gồm đồng phục học sinh cũ, thời trang cũ... bỏ vào thùng tái chế trong ngày hội thu gom đồng phục, quần áo không còn sử dụng và rác thải thời trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:26:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712198+07:00"
+    },
+    {
       "id": "261b5534ff8345eb5355c1523feaaec4",
       "title": "Các công ty xổ số kiến thiết nói gì trước thông tin sáp nhập?",
       "link": "https://tuoitre.vn/cac-cong-ty-xo-so-kien-thiet-noi-gi-truoc-thong-tin-sap-nhap-20251001104821448.htm",
@@ -603,6 +843,246 @@ window.newsData_2025_10_01 = {
       "fetched": "2025-10-01T13:25:02.293604+07:00"
     },
     {
+      "id": "71503b720ab365a59faa0be23a942821",
+      "title": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Quốc hội Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-chu-tich-quoc-hoi-cuba-4946121.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Quốc hội Esteban Lazo Hernandez, đề nghị Cuba ưu tiên hỗ trợ quan hệ hợp tác kinh tế - thương mại - đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:22:33+07:00",
+      "fetched": "2025-10-01T21:16:47.506402+07:00"
+    },
+    {
+      "id": "71503b720ab365a59faa0be23a942821",
+      "title": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Quốc hội Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-chu-tich-quoc-hoi-cuba-4946121.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Chủ tịch Quốc hội Esteban Lazo Hernandez, đề nghị Cuba ưu tiên hỗ trợ quan hệ hợp tác kinh tế - thương mại - đầu tư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T13:22:33+07:00",
+      "fetched": "2025-10-01T21:16:57.762590+07:00"
+    },
+    {
+      "id": "9c5d03ce12dda9167382760bf014c886",
+      "title": "Kình ngư Nguyễn Huy Hoàng đoạt thêm HCV giải bơi vô địch châu Á tại Ấn Độ",
+      "link": "https://thanhnien.vn/kinh-ngu-nguyen-huy-hoang-doat-them-hcv-giai-boi-vo-dich-chau-a-tai-an-do-18525100120194594.htm",
+      "summary": "Kình ngư Nguyễn Huy Hoàng tiếp tục mang về thành công cho đội tuyển bơi Việt Nam tại giải vô địch châu Á khi đoạt thêm HCV ở nội dung 800 m tự do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:21:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712368+07:00"
+    },
+    {
+      "id": "8e187c61e1eb15fada00a3596f6644cd",
+      "title": "Đề xuất nâng tỷ lệ đồng thuận lên 85% trước khi nhà nước thu hồi đất",
+      "link": "https://vnexpress.net/de-xuat-nang-ty-le-dong-thuan-len-85-truoc-khi-nha-nuoc-thu-hoi-dat-4946022.html",
+      "summary": "Bộ Nông nghiệp và Môi trường đề xuất hai phương án, cho phép Nhà nước thu hồi phần đất còn lại của dự án nếu đạt thỏa thuận với 75% hoặc 85% diện tích và số hộ dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:19:51+07:00",
+      "fetched": "2025-10-01T21:16:47.506560+07:00"
+    },
+    {
+      "id": "9b0bd295609fcdb1d74795e6133dbd79",
+      "title": "Hà Nội FC thắng liền hai trận ở V-League 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-thang-lien-hai-tran-o-v-league-2025-2026-4946125.html",
+      "summary": "Hà Nội FC đánh bại Đà Nẵng 2-0 ở vòng 6 vào tối 1/10, để lần đầu có mặt tại nửa trên bảng V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:12:07+07:00",
+      "fetched": "2025-10-01T21:16:47.506731+07:00"
+    },
+    {
+      "id": "9b0bd295609fcdb1d74795e6133dbd79",
+      "title": "Hà Nội FC thắng liền hai trận ở V-League 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-thang-lien-hai-tran-o-v-league-2025-2026-4946125.html",
+      "summary": "Hà Nội FC đánh bại Đà Nẵng 2-0 ở vòng 6 vào tối 1/10, để lần đầu có mặt tại nửa trên bảng V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T13:12:07+07:00",
+      "fetched": "2025-10-01T21:17:04.936097+07:00"
+    },
+    {
+      "id": "423ef1164bfd01f0e1e92f00eb983640",
+      "title": "Tử vong khi cứu 3 trẻ nhỏ bị nước cuốn",
+      "link": "https://thanhnien.vn/tu-vong-khi-cuu-3-tre-nho-bi-nuoc-cuon-18525100119382597.htm",
+      "summary": "UBDN tỉnh Thái Nguyên truy tặng bằng khen cho anh Phan Văn Thành (36 tuổi), Tổ trưởng Tổ an ninh cơ sở xóm Xuân Hà 1, xã Thành Công đã tử vong khi tham gia ứng cứu 3 trẻ em bị nước cuốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:04:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712523+07:00"
+    },
+    {
+      "id": "0c51c7596f123c896df7540d3de9ea7c",
+      "title": "Bảng xếp hạng V-League mới nhất: Thắng dễ Đà Nẵng, CLB Hà Nội không còn chìm dưới đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-thang-de-da-nang-clb-ha-noi-khong-con-chim-duoi-day-185251001194733921.htm",
+      "summary": "Ngay trên sân nhà Hòa Xuân, CLB Đà Nẵng nhận thất bại với tỷ số 0-2 trước CLB Hà Nội ở trận đấu thuộc vòng 2 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:03:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712675+07:00"
+    },
+    {
+      "id": "e27484de072c9a8544f6ad613d99be18",
+      "title": "Cô gái khám định kỳ bất ngờ phát hiện ung thư đầu tụy",
+      "link": "https://vnexpress.net/co-gai-kham-dinh-ky-bat-ngo-phat-hien-ung-thu-dau-tuy-4945969.html",
+      "summary": "Cô gái 25 tuổi khám sức khỏe định kỳ phát hiện khối u lớn vùng đầu tụy, được mổ kịp thời ở giai đoạn sớm tránh nguy cơ ung thư xâm lấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.506895+07:00"
+    },
+    {
+      "id": "e6e89dd1032dc17072d4c2e5a7dc424a",
+      "title": "Tỉnh, thành nào có ngôi làng lọt top đẹp nhất thế giới?",
+      "link": "https://vnexpress.net/tinh-thanh-nao-co-ngoi-lang-lot-top-dep-nhat-the-gioi-4945076.html",
+      "summary": "Ngôi làng này được Forbes xếp hạng 20 trong top 50 ngôi làng đẹp nhất thế giới năm 2025, là đại diện duy nhất của Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.507055+07:00"
+    },
+    {
+      "id": "1c0cbfc231c392ad054ac0bbdd9c8b36",
+      "title": "New eSpring - máy lọc công nghệ kép giảm hơn 170 chất ô nhiễm",
+      "link": "https://vnexpress.net/new-espring-may-loc-cong-nghe-kep-giam-hon-170-chat-o-nhiem-4946116.html",
+      "summary": "Máy lọc nước New eSpring giảm thiểu 170 loại hóa chất vĩnh cửu, vi khuẩn, virus... nhờ kết hợp bộ lọc carbon e3 và đèn UVC-LED, giúp để bảo vệ sức khỏe gia đình, theo Reviewer Duy Thẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.507217+07:00"
+    },
+    {
+      "id": "73e3e042148bc9648efb4b71c12a6f80",
+      "title": "EVN đóng điện thành công đường dây 500 kV Lào Cai - Vĩnh Yên",
+      "link": "https://vnexpress.net/evn-dong-dien-thanh-cong-duong-day-500-kv-lao-cai-vinh-yen-4946048.html",
+      "summary": "Công trình đường dây 500 kV Lào Cai – Vĩnh Yên dài gần 230 km giúp truyền tải 3.000 MW từ các nhà máy thủy điện Tây Bắc và các tỉnh lân cận vào lưới điện quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.507399+07:00"
+    },
+    {
+      "id": "9a263a2d4270f58c7ef52aa40467f2e5",
+      "title": "Người bệnh gan có thể gặp biến chứng khi bị sốt xuất huyết",
+      "link": "https://vnexpress.net/nguoi-benh-gan-co-the-gap-bien-chung-khi-bi-sot-xuat-huyet-4946046.html",
+      "summary": "Ở người có bệnh lý gan, sốt xuất huyết Dengue không chỉ khó lường mà có thể gây tổn thương nặng, thậm chí suy gan cấp và nguy cơ tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:47.507567+07:00"
+    },
+    {
+      "id": "b952056d6fe603c1861d8850b619216c",
+      "title": "Xem nhanh 20h ngày 1.10: Hà Nội cần điều chỉnh ngay dự án thoát nước | Áp thuế hộ kinh doanh, chuyên gia đề xuất gì",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-110-ha-noi-can-dieu-chinh-ngay-du-an-thoat-nuoc-ap-thue-ho-kinh-doanh-chuyen-gia-de-xuat-gi-185251001194742381.htm",
+      "summary": "'Xem nhanh 20h' ngày 1.10 có nhiều tin tức đáng chú ý về: 'Hà Nội cần điều chỉnh ngay dự án thoát nước mặt đường'; Đề xuất áp thuế từ 200 triệu: Hộ kinh doanh lo, chuyên gia đề xuất lên 1 tỉ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712826+07:00"
+    },
+    {
+      "id": "47979ca042ed0041b2b6247aecab3709",
+      "title": "Diễn viên Quốc Trường: Giờ quen là xác định cưới, không hẹn hò cho vui",
+      "link": "https://thanhnien.vn/dien-vien-quoc-truong-gio-quen-la-xac-dinh-cuoi-khong-hen-ho-cho-vui-185251001172419489.htm",
+      "summary": "Sau thành công với Hai muối, đạo diễn Vũ Thành Vinh tiếp tục trình làng dự án điện ảnh Chị ngã em nâng. Trong bộ phim này, Quốc Trường đảm nhận vai bác sĩ Trường, một nhân vật mang đến màu sắc hoàn toàn khác biệt so với hình ảnh thường ngày của anh. Bên cạnh những chia sẻ về vai diễn, nam diễn viên ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:54.712976+07:00"
+    },
+    {
+      "id": "46cae68f84ff6e5e5b2277ae8f5607a6",
+      "title": "QNAP hợp tác cùng FPT Services nâng cao dịch vụ bảo hành tại Việt Nam",
+      "link": "https://thanhnien.vn/qnap-hop-tac-cung-fpt-services-nang-cao-dich-vu-bao-hanh-tai-viet-nam-185251001163339623.htm",
+      "summary": "TP.HCM, ngày 1.10.2025 – QNAP® Systems, Inc. (QNAP), tập đoàn công nghệ hàng đầu đến từ Đài Loan trong lĩnh vực NAS, giám sát thông minh và hạ tầng mạng, chính thức công bố hợp tác với Công ty TNHH Dịch vụ Tin học FPT (FPT Services) nhằm cung cấp dịch vụ bảo hành và hỗ trợ kỹ thuật cho khách hàng tạ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713124+07:00"
+    },
+    {
+      "id": "1c0cbfc231c392ad054ac0bbdd9c8b36",
+      "title": "New eSpring - máy lọc công nghệ kép giảm hơn 170 chất ô nhiễm",
+      "link": "https://vnexpress.net/new-espring-may-loc-cong-nghe-kep-giam-hon-170-chat-o-nhiem-4946116.html",
+      "summary": "Máy lọc nước New eSpring giảm thiểu 170 loại hóa chất vĩnh cửu, vi khuẩn, virus... nhờ kết hợp bộ lọc carbon e3 và đèn UVC-LED, giúp để bảo vệ sức khỏe gia đình, theo Reviewer Duy Thẩm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-01T13:00:00+07:00",
+      "fetched": "2025-10-01T21:17:03.085931+07:00"
+    },
+    {
+      "id": "44d7850055239cec332d5888278335f0",
+      "title": "Cuộc sống hiện tại của 'mỹ nhân đẹp nhất châu Á' Vương Tổ Hiền",
+      "link": "https://thanhnien.vn/cuoc-song-hien-tai-cua-my-nhan-dep-nhat-chau-a-vuong-to-hien-185251001173602166.htm",
+      "summary": "Từ hình ảnh 'ngọc nữ' lừng lẫy của điện ảnh Hồng Kông những năm 1980, Vương Tổ Hiền giờ đây đã khép lại quá khứ huy hoàng để tận hưởng những ngày tháng bình lặng nơi xứ người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:56:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713273+07:00"
+    },
+    {
+      "id": "cc9b74a53bd91b72dee6fad8897801b5",
+      "title": "Khi nào ôtô ngập nước được bảo hiểm chi trả?",
+      "link": "https://vnexpress.net/khi-nao-oto-ngap-nuoc-duoc-bao-hiem-chi-tra-4945804.html",
+      "summary": "Ôtô ngập nước được bồi thường khi chủ xe tham gia bảo hiểm vật chất ôtô, đồng thời cần mua thêm điều khoản thủy kích để được chi trả cho thiệt hại do nước lọt vào buồng đốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:49:49+07:00",
+      "fetched": "2025-10-01T21:16:47.507724+07:00"
+    },
+    {
+      "id": "cc9b74a53bd91b72dee6fad8897801b5",
+      "title": "Khi nào ôtô ngập nước được bảo hiểm chi trả?",
+      "link": "https://vnexpress.net/khi-nao-oto-ngap-nuoc-duoc-bao-hiem-chi-tra-4945804.html",
+      "summary": "Ôtô ngập nước được bồi thường khi chủ xe tham gia bảo hiểm vật chất ôtô, đồng thời cần mua thêm điều khoản thủy kích để được chi trả cho thiệt hại do nước lọt vào buồng đốt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-01T12:49:49+07:00",
+      "fetched": "2025-10-01T21:16:59.839677+07:00"
+    },
+    {
+      "id": "09a55bd87e99dcccc9d7d13d7c86a942",
+      "title": "Cô gái xinh xắn bị chàng trai từ chối trên show hẹn hò",
+      "link": "https://thanhnien.vn/co-gai-xinh-xan-bi-chang-trai-tu-choi-tren-show-hen-ho-185251001170311947.htm",
+      "summary": "Cô gái sinh năm 2001 đến show hẹn hò tìm tình yêu, không ngại theo chồng, sẵn sàng bấm nút cho mình cơ hội. Tuy nhiên, chàng trai được mai mối cùng lại e dè và cuối cùng quyết định từ chối khiến ai nấy đều ngỡ ngàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:47:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713445+07:00"
+    },
+    {
+      "id": "b3ad89afa839208807cf5199fa67b6e7",
+      "title": "Sĩ quan cảnh sát Campuchia bị bắt vì nhận hối lộ từ một người Thái Lan",
+      "link": "https://thanhnien.vn/si-quan-canh-sat-campuchia-bi-bat-vi-nhan-hoi-lo-tu-mot-nguoi-thai-lan-185251001193609302.htm",
+      "summary": "Trung tá Vorn Veasna, cựu Phó cảnh sát trưởng huyện Bavel ở Campuchia, đã nhận hối lộ 774.000 USD từ một người Thái Lan bị cáo buộc đứng sau đường dây lừa đảo trực tuyến, theo Đơn vị Chống tham nhũng của Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:46:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713594+07:00"
+    },
+    {
+      "id": "902631aadbe77d51e34ab2f7b5285d93",
+      "title": "Thu Trang gợi cảm ở tuổi 41, tiết lộ chuyện ghen tuông của Tiến Luật",
+      "link": "https://thanhnien.vn/thu-trang-goi-cam-o-tuoi-41-tiet-lo-chuyen-ghen-tuong-cua-tien-luat-185251001171715633.htm",
+      "summary": "Trong bộ ảnh mới trình làng, Thu Trang gây chú ý bởi nhan sắc rạng rỡ. Cô tiết lộ chồng không ghen, thậm chí thấy vui mỗi khi mình được khen ngợi về ngoại hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:43:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713747+07:00"
+    },
+    {
+      "id": "c1791c080b591fbb4cb06f6436ef9892",
+      "title": "Sẹo không chỉ ảnh hưởng thẩm mỹ mà còn sức khỏe tinh thần",
+      "link": "https://thanhnien.vn/seo-khong-chi-anh-huong-tham-my-ma-con-suc-khoe-tinh-than-185251001195659729.htm",
+      "summary": "Sẹo không chỉ để lại dấu vết trên da mà còn in hằn trong tâm trí, khiến nhiều người mất tự tin và thu mình. Liệu có giải pháp nào vừa chăm sóc vết sẹo, vừa chữa lành tinh thần?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:40:00+07:00",
+      "fetched": "2025-10-01T21:16:54.713894+07:00"
+    },
+    {
       "id": "7059f9f06c594589874bde6ee3f80b72",
       "title": "Toyota Vios Hybrid hút khách, tháng đầu mở bán nhận gần 3.700 đơn đặt hàng",
       "link": "https://thanhnien.vn/toyota-vios-hybrid-hut-khach-thang-dau-mo-ban-nhan-gan-3700-don-dat-hang-185250930195243224.htm",
@@ -611,6 +1091,26 @@ window.newsData_2025_10_01 = {
       "category": "Tổng hợp",
       "published": "2025-10-01T12:31:00+07:00",
       "fetched": "2025-10-01T19:35:49.053967+07:00"
+    },
+    {
+      "id": "3c3ce3d706352b26f46a1a37f151786a",
+      "title": "Nội thành Hà Nội còn hơn 10 điểm ngập",
+      "link": "https://vnexpress.net/noi-thanh-ha-noi-con-hon-10-diem-ngap-4946104.html",
+      "summary": "Tối 1/10, 11 điểm ngập ở nội thành Hà Nội đều nằm ngoài lưu vực sông Tô Lịch, nơi chưa được đầu tư xây dựng hệ thống thoát nước đồng bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:25:29+07:00",
+      "fetched": "2025-10-01T21:16:47.507873+07:00"
+    },
+    {
+      "id": "8c234d9437cfb4c1a2b49dc0107ab510",
+      "title": "Hai thanh niên bị 'bắt cóc online' đòi gần 800 triệu đồng tiền chuộc",
+      "link": "https://vnexpress.net/hai-thanh-nien-bi-bat-coc-online-doi-gan-800-trieu-dong-tien-chuoc-4946119.html",
+      "summary": "Hai thanh niên ở phường An Bình và Phú Lợi bị nhóm người giả danh công an, VKS gọi điện thông báo liên quan tội phạm, yêu cầu nộp tiền chuộc để được an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:23:44+07:00",
+      "fetched": "2025-10-01T21:16:47.508031+07:00"
     },
     {
       "id": "3e4259e1f84ce5b443c4a9173633ce26",
