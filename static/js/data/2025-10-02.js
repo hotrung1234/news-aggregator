@@ -1,7 +1,157 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T13:24:35.677564+07:00",
+  "lastUpdated": "2025-10-02T15:20:43.068574+07:00",
   "articles": [
+    {
+      "id": "31c3c665d3c5884563ee895bbf6deef5",
+      "title": "Xe máy điện Yamaha sẽ ồn như xe xăng",
+      "link": "https://tuoitre.vn/xe-may-dien-yamaha-se-on-nhu-xe-xang-20251001220247268.htm",
+      "summary": "Trong bối cảnh thị trường xe máy điện ngày càng phát triển, Yamaha đã đưa ra một sáng kiến độc đáo: một chiếc xe máy điện có khả năng tạo ra âm thanh và độ rung tương tự như xe máy chạy bằng xăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.289316+07:00",
+      "fetched": "2025-10-02T15:20:34.289453+07:00"
+    },
+    {
+      "id": "fa675e7bb95b64c6cf9ee78523cca006",
+      "title": "Bộ Công Thương cảnh báo doanh nghiệp về cuộc điều tra Mục 232 từ Mỹ",
+      "link": "https://tuoitre.vn/bo-cong-thuong-canh-bao-doanh-nghiep-ve-cuoc-dieu-tra-muc-232-tu-my-20251002113631456.htm",
+      "summary": "Theo Bộ Công Thương, xuất khẩu qua Mỹ và Trung Quốc gặp thách thức nhưng hàng hóa Việt Nam vẫn tiếp tục tăng tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.289193+07:00",
+      "fetched": "2025-10-02T15:20:34.289304+07:00"
+    },
+    {
+      "id": "84596ae95d159bd9a293694355c9d9f5",
+      "title": "Xe khách dừng giữa đường để đón khách, bao giờ chấm dứt tình trạng nguy hiểm?",
+      "link": "https://tuoitre.vn/xe-khach-dung-giua-duong-de-don-khach-bao-gio-cham-dut-tinh-trang-nguy-hiem-20251002074057284.htm",
+      "summary": "Bạn đọc Tuổi Trẻ đề nghị lực lượng chức năng cần xử lý dứt điểm tình trạng xe khách dừng trên quốc lộ đón khách để người dân yên tâm đi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.289065+07:00",
+      "fetched": "2025-10-02T15:20:34.289182+07:00"
+    },
+    {
+      "id": "50be4509af6d2d443dc70745373d706e",
+      "title": "Lý Hải, Ninh Dương Lan Ngọc, Noo Phước Thịnh chung tay vì đồng bào bị ảnh hưởng bởi bão Bualoi",
+      "link": "https://tuoitre.vn/ly-hai-ninh-duong-lan-ngoc-noo-phuoc-thinh-chung-tay-vi-dong-bao-bi-anh-huong-boi-bao-bualoi-20251002103108858.htm",
+      "summary": "Tính đến sáng 2-10, nhiều nghệ sĩ tiếp tục ủng hộ đồng bào chịu ảnh hưởng nặng nề sau bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288921+07:00",
+      "fetched": "2025-10-02T15:20:34.289044+07:00"
+    },
+    {
+      "id": "976fe98365164ec2f2578a4e37fa823a",
+      "title": "123.000 người đang học thạc sĩ, tiến sĩ",
+      "link": "https://tuoitre.vn/123-000-nguoi-dang-hoc-thac-si-tien-si-20251002105115435.htm",
+      "summary": "Hiện cả nước có hơn 111.000 học viên cao học và 12.555 nghiên cứu sinh đang theo học chương trình đào tạo tiến sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288799+07:00",
+      "fetched": "2025-10-02T15:20:34.288910+07:00"
+    },
+    {
+      "id": "6ea58e4a8a569dd6ad1182b24be9ef9b",
+      "title": "Nghi phạm xả súng Michigan khiến 4 người chết: Thù ghét tôn giáo hay động cơ chính trị?",
+      "link": "https://tuoitre.vn/nghi-pham-xa-sung-michigan-khien-4-nguoi-chet-thu-ghet-ton-giao-hay-dong-co-chinh-tri-20251002110823954.htm",
+      "summary": "Các chuyên gia nhận định việc mạng xã hội nhanh chóng gán nhãn chính trị cho kẻ xả súng phản ánh thực trạng phân cực sâu sắc ở Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288676+07:00",
+      "fetched": "2025-10-02T15:20:34.288788+07:00"
+    },
+    {
+      "id": "6e4f6024b391e18af0782712a5dbb3c7",
+      "title": "5 sự kiện thay đổi hoàn toàn lịch sử Trái đất",
+      "link": "https://tuoitre.vn/5-su-kien-thay-doi-hoan-toan-lich-su-trai-dat-20250927213752491.htm",
+      "summary": "Trong lịch sử 4,5 tỉ năm, Trái đất từng trải qua những va chạm dữ dội, những lần khí hậu biến đổi cực đoan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288545+07:00",
+      "fetched": "2025-10-02T15:20:34.288665+07:00"
+    },
+    {
+      "id": "2b700f92337994de7cd781973ea89e3d",
+      "title": "Đại biểu Lê Minh Trí: Tiếp tục sửa Luật Đất đai để quản lý giá, sử dụng hiệu quả hơn",
+      "link": "https://tuoitre.vn/dai-bieu-le-minh-tri-tiep-tuc-sua-luat-dat-dai-de-quan-ly-gia-su-dung-hieu-qua-hon-20251002123447101.htm",
+      "summary": "Đại biểu Lê Minh Trí - Chánh án Tòa án nhân dân tối cao - cho rằng Luật Đất đai sẽ tiếp tục được sửa đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288401+07:00",
+      "fetched": "2025-10-02T15:20:34.288532+07:00"
+    },
+    {
+      "id": "b920ee5e0fec1d8add19d2b7413e498a",
+      "title": "Toàn bộ tiền cúng giỗ tổ sân khấu dành giúp đồng bào bị ảnh hưởng bão Bualoi",
+      "link": "https://tuoitre.vn/toan-bo-tien-cung-gio-to-san-khau-danh-giup-dong-bao-bi-anh-huong-bao-bualoi-20251002123029581.htm",
+      "summary": "Sáng 2-10, TP.HCM bắt đầu những ngày giỗ tổ sân khấu tại Nhà thờ tổ Sân khấu (Cô Bắc, phường Cầu Ông Lãnh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288274+07:00",
+      "fetched": "2025-10-02T15:20:34.288389+07:00"
+    },
+    {
+      "id": "28c2b2109b99f6a063527b24187768fc",
+      "title": "Nhậu về đánh vợ, dọa giết cả con, người đàn ông bị vợ siết cổ đến chết",
+      "link": "https://tuoitre.vn/nhau-ve-danh-vo-doa-giet-ca-con-nguoi-dan-ong-bi-vo-siet-co-den-chet-20251002123135415.htm",
+      "summary": "Đánh vợ và dọa giết cả vợ lẫn hai con sau khi đi nhậu về, người chồng bị vợ dùng dây siết cổ đến chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288140+07:00",
+      "fetched": "2025-10-02T15:20:34.288263+07:00"
+    },
+    {
+      "id": "a64c8a80e61cada3c78eb76ecad8602e",
+      "title": "Google tích hợp Gemini vào chuông cửa, camera..., chủ nhà chỉ cần ra lệnh bằng giọng nói",
+      "link": "https://tuoitre.vn/google-tich-hop-gemini-vao-chuong-cua-camera-chu-nha-chi-can-ra-lenh-bang-giong-noi-20251002125025051.htm",
+      "summary": "Tính năng mới sẽ áp dụng đối với tất cả màn hình, loa, camera và chuông cửa của Google được bán trong 10 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.288009+07:00",
+      "fetched": "2025-10-02T15:20:34.288126+07:00"
+    },
+    {
+      "id": "5ce66aa099d0fdf64ad946e1919b28ad",
+      "title": "Elon Musk kêu gọi hủy Netflix, tác giả phim hoạt hình bị tấn công",
+      "link": "https://tuoitre.vn/elon-musk-keu-goi-huy-netflix-tac-gia-phim-hoat-hinh-bi-tan-cong-20251002130816976.htm",
+      "summary": "Tác giả Hamish Steele cho biết ông nhận nhiều email kỳ thị đồng tính và bài Do Thái sau khi Elon Musk kêu gọi hủy Netflix.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.287880+07:00",
+      "fetched": "2025-10-02T15:20:34.287997+07:00"
+    },
+    {
+      "id": "a5c2542165bc819a3430f2d58023c47a",
+      "title": "Thủ tướng Nhật Bản Ishiba nhận giải ‘chính trị gia đeo kính đẹp nhất’",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-ishiba-nhan-giai-chinh-tri-gia-deo-kinh-dep-nhat-20251002092338147.htm",
+      "summary": "Ngày 1-10, Thủ tướng Nhật Bản Shigeru Ishiba đã được trao giải thưởng “người nổi tiếng đeo kính đẹp nhất” ở hạng mục chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.287748+07:00",
+      "fetched": "2025-10-02T15:20:34.287868+07:00"
+    },
+    {
+      "id": "d31d7903fa7367f5bed51a8d2c0e28a4",
+      "title": "Khó tìm chỗ gửi xe đi metro số 1, giải pháp nào đủ căn cơ?",
+      "link": "https://tuoitre.vn/kho-tim-cho-gui-xe-di-metro-so-1-giai-phap-nao-du-can-co-20251002122523604.htm",
+      "summary": "Trước thực trạng các bãi giữ xe ở các nhà ga metro số 1 (Bến Thành - Suối Tiên) luôn \"cháy chỗ\", Tuổi Trẻ Online đã trao đổi với các đơn vị liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.287606+07:00",
+      "fetched": "2025-10-02T15:20:34.287735+07:00"
+    },
+    {
+      "id": "b127df779d3a06a3cdba5f3c0dc31007",
+      "title": "Ca sĩ Hà Anh Tuấn trao 50.000 USD ủng hộ người dân bị thiệt hại do cơn bão Bualoi",
+      "link": "https://tuoitre.vn/ca-si-ha-anh-tuan-trao-50-000-usd-ung-ho-nguoi-dan-bi-thiet-hai-do-con-bao-bualoi-20251002132422546.htm",
+      "summary": "\"Cả nước đang hướng về vùng bão lũ. Với tư cách là một công dân, tôi không thể thờ ơ\", ca sĩ bày tỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T15:20:34.287360+07:00",
+      "fetched": "2025-10-02T15:20:34.287590+07:00"
+    },
     {
       "id": "3a29cd51f6e068e504e3b31bf14ba7cb",
       "title": "Phòng vệ trước 'ma trận' lừa đảo",
@@ -303,6 +453,16 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T09:55:07.983215+07:00"
     },
     {
+      "id": "94468328eb4e376c753b88ec0f97e225",
+      "title": "Đại tướng Lương Tam Quang yêu cầu tập trung đấu tranh với tội phạm tham nhũng",
+      "link": "https://thanhnien.vn/dai-tuong-luong-tam-quang-yeu-cau-tap-trung-dau-tranh-voi-toi-pham-tham-nhung-185251002145153526.htm",
+      "summary": "Bộ trưởng Bộ Công an Lương Tam Quang yêu cầu lực lượng tập trung đấu tranh trấn áp tội phạm kinh tế, tham nhũng, buôn lậu, sản xuất, buôn bán hàng giả, tội phạm công nghệ cao, tội phạm về môi trường, an toàn thực phẩm... trong những tháng cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T08:16:00+07:00",
+      "fetched": "2025-10-02T15:20:32.954680+07:00"
+    },
+    {
       "id": "e109cd49bcccd9f4bfc48045b13704d8",
       "title": "Thời tiết hôm nay 2-10: Bắc Bộ giảm mưa, Trung Bộ nắng, Nam Bộ mưa rào",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-2-10-bac-bo-giam-mua-trung-bo-nang-nam-bo-mua-rao-20251001194042498.htm",
@@ -441,6 +601,386 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T08:12:02.714713+07:00",
       "fetched": "2025-10-02T08:12:02.714923+07:00"
+    },
+    {
+      "id": "08fd36eacac947047694dd1534d4b926",
+      "title": "'Mua bán tiền số đang hình thành 'chợ đen' quy mô lớn'",
+      "link": "https://vnexpress.net/mua-ban-tien-so-dang-hinh-thanh-cho-den-quy-mo-lon-4946446.html",
+      "summary": "Thượng tá Nguyễn Thành Chung cảnh báo hoạt động mua bán tiền số ở Việt Nam đang hình thành những \"chợ đen\" quy mô lớn, tiềm ẩn nhiều rủi ro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T08:11:46+07:00",
+      "fetched": "2025-10-02T15:20:41.338347+07:00"
+    },
+    {
+      "id": "cd3be7befeec3987f22e1717c0de9e29",
+      "title": "Thực hư trào lưu chữa bệnh bằng ‘phơi nắng, đi chân đất, uống chanh muối hạt’",
+      "link": "https://thanhnien.vn/thuc-hu-trao-luu-chua-benh-bang-phoi-nang-di-chan-dat-uong-chanh-muoi-hat-18525100215065371.htm",
+      "summary": "Quan điểm ‘bỏ thuốc tây, thay vào đó hãy phơi nắng, đi chân trần, hít thở sâu kết hợp uống chanh muối hạt mỗi ngày giúp trị khỏi nhiều loại bệnh’ đang dấy lên nhiều tranh cãi thời gian gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T08:06:00+07:00",
+      "fetched": "2025-10-02T15:20:32.954851+07:00"
+    },
+    {
+      "id": "b1c572814e8d643f9d28142f130853cf",
+      "title": "Cần Thơ có kế hoạch đào tạo, bồi dưỡng 20 tiến sĩ",
+      "link": "https://thanhnien.vn/can-tho-co-ke-hoach-dao-tao-boi-duong-20-tien-si-185251002132314989.htm",
+      "summary": "TP.Cần Thơ vừa ban hành kế hoạch đưa cán bộ, công chức, viên chức đi đào tạo, bồi dưỡng ở nước ngoài và nâng trình độ sau đại học trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T08:04:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955008+07:00"
+    },
+    {
+      "id": "0473d3230fefbaf471367481cb225bdb",
+      "title": "Rosé (BlackPink) bị phân biệt đối xử khi xuất hiện cùng dàn sao Âu Mỹ",
+      "link": "https://thanhnien.vn/rose-blackpink-bi-phan-biet-doi-xu-khi-xuat-hien-cung-dan-sao-au-my-185251002143513235.htm",
+      "summary": "Rosé (BlackPink) gần đây trở thành mục tiêu của việc phân biệt đối xử khi tham dự Tuần lễ thời trang Paris. Sự việc nhanh chóng thổi bùng làn sóng phẫn nộ từ người hâm mộ toàn cầu, làm dấy lên vấn đề định kiến chủng tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T08:01:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955160+07:00"
+    },
+    {
+      "id": "1224677269fd2ee206a56b6cd72998cf",
+      "title": "Mùa hè cuối cùng của ông Sáu - Truyện ngắn dự thi của Lương Đình Khoa",
+      "link": "https://thanhnien.vn/mua-he-cuoi-cung-cua-ong-sau-truyen-ngan-du-thi-cua-luong-dinh-khoa-185250919200417392.htm",
+      "summary": "1. Tiếng ve kêu râm ran, kéo dài như một bản nhạc không hồi kết. Đó là âm thanh duy nhất phá vỡ sự im lặng nặng nề của cái nắng chói chang, hắt bóng xuống con hẻm nhỏ phủ đầy rêu phong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T08:00:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955310+07:00"
+    },
+    {
+      "id": "a5ea772f54dc1f4ec43aa95dfc16a543",
+      "title": "Agribank hỗ trợ Nghệ An 5 tỷ đồng khắc phục thiệt hại do bão số 10",
+      "link": "https://vnexpress.net/agribank-ho-tro-nghe-an-5-ty-dong-khac-phuc-thiet-hai-do-bao-so-10-4946377.html",
+      "summary": "Trong chuyến công tác tại Nghệ An ngày 30/9-1/10, Chủ tịch HĐTV Agribank Tô Huy Vũ cùng đoàn công tác đã trao 5 tỷ đồng, hỗ trợ người dân khắc phục thiệt hại do bão số 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T08:00:00+07:00",
+      "fetched": "2025-10-02T15:20:38.250393+07:00"
+    },
+    {
+      "id": "f2b03791cdbbb523bfd5743364bb7baa",
+      "title": "Cầu thủ nhập tịch ‘lậu’ vội vã đến Malaysia để giải quyết vấn đề FIFA xử phạt",
+      "link": "https://thanhnien.vn/cau-thu-nhap-tich-lau-voi-va-den-malaysia-de-giai-quyet-van-de-fifa-xu-phat-185251002145042958.htm",
+      "summary": "Theo New Straits Times, cầu thủ Rodrigo Holgado là 1 trong 4 cầu thủ nhập tịch 'lậu' Malaysia bị FIFA xử phạt đang thi đấu ở nước ngoài, hiện đã trở về nước tại Johor Baru để tìm kiếm giải pháp và nộp đơn kháng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:58:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955479+07:00"
+    },
+    {
+      "id": "b68f05d0e72ecb54eb43ffa51e51382c",
+      "title": "Quách Phú Thành đón con trai ở tuổi 60, phá 'lời nguyền' của 'Tứ đại thiên vương'",
+      "link": "https://thanhnien.vn/quach-phu-thanh-don-con-trai-o-tuoi-60-pha-loi-nguyen-cua-tu-dai-thien-vuong-185251002121225016.htm",
+      "summary": "'Thiên vương' Hồng Kông - Quách Phú Thành cùng vợ - người mẫu Phương Viện vừa đón con thứ ba. Nhóc tì mới sinh là một bé trai, thỏa lòng mong ước của gia đình: có 'đủ nếp đủ tẻ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:56:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955634+07:00"
+    },
+    {
+      "id": "607cfb590a26cbb9629b3412ee71ffec",
+      "title": "Những thứ tuyệt đối không cắm vào cổng USB trên laptop",
+      "link": "https://thanhnien.vn/nhung-thu-tuyet-doi-khong-cam-vao-cong-usb-tren-laptop-185251001184400393.htm",
+      "summary": "Sự phát triển của công nghệ đã cho phép cổng USB thực hiện cả hai chức năng sạc và truyền dữ liệu một cách hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:49:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955783+07:00"
+    },
+    {
+      "id": "727355757bc6936f7c5507be35f72a24",
+      "title": "Nhiều người trẻ bỏ quán xá thuê căn hộ qua đêm để làm gì?",
+      "link": "https://thanhnien.vn/nhieu-nguoi-tre-bo-quan-xa-thue-can-ho-qua-dem-de-lam-gi-185251002144410315.htm",
+      "summary": "Không còn gói gọn trong quán xá đông đúc, nhiều bạn trẻ rủ nhau thuê căn hộ 1 ngày để nấu nướng, tiệc tùng, chơi game và trò chuyện xuyên đêm. Chi phí chỉ vài trăm nghìn cho không gian riêng tư, thoải mái khiến hình thức này trở thành lựa chọn giải trí được ưa chuộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:47:00+07:00",
+      "fetched": "2025-10-02T15:20:32.955932+07:00"
+    },
+    {
+      "id": "e9cbc06ea5ea3c83704b5e38d9587f97",
+      "title": "Phi cơ chở khách gãy cánh, móp mũi sau va chạm ở sân bay",
+      "link": "https://vnexpress.net/phi-co-cho-khach-gay-canh-mop-mui-sau-va-cham-o-san-bay-4946388.html",
+      "summary": "Hai máy bay của hãng Endeavor Air va chạm trên đường lăn sân bay ở New York, khiến một chiếc bị gãy cánh và chiếc còn lại móp mũi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T07:46:08+07:00",
+      "fetched": "2025-10-02T15:20:36.109249+07:00"
+    },
+    {
+      "id": "d0bde17a948e0b6d1b8aaca12ac851e3",
+      "title": "Nóng: U.23 Việt Nam cùng bảng chủ nhà Ả Rập Xê Út, sáng cửa vào tứ kết châu Á",
+      "link": "https://thanhnien.vn/nong-u23-viet-nam-cung-bang-u23-a-rap-xe-ut-sang-cua-vao-tu-ket-chau-a-185251002143923762.htm",
+      "summary": "U.23 Việt Nam nằm ở bảng A giải U.23 châu Á 2026, cùng với các đối thủ U.23 Ả Rập Xê Út, U.23 Jordan và U.23 Kyrgyzstan. Kết quả bốc thăm vào ngày 2.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:42:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956081+07:00"
+    },
+    {
+      "id": "34e1ca23adfa58fe958764b1be9a8667",
+      "title": "Tặng 1,8 triệu mũ bảo hiểm cho học sinh lớp 1",
+      "link": "https://thanhnien.vn/tang-18-trieu-mu-bao-hiem-cho-hoc-sinh-lop-1-185251002141359493.htm",
+      "summary": "1,8 triệu mũ bảo hiểm đạt chuẩn sẽ được tặng cho học sinh lớp 1 trong toàn quốc, góp phần nâng tỷ lệ đội mũ bảo hiểm của trẻ em từ 37% (trước năm học 2018 - 2019) lên 85%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:40:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956229+07:00"
+    },
+    {
+      "id": "77f7cd8ca3421d5d443a980854badf81",
+      "title": "Sao Hollywood 'đau đầu' vì diễn viên AI",
+      "link": "https://thanhnien.vn/sao-hollywood-dau-dau-vi-dien-vien-ai-185251002131816123.htm",
+      "summary": "Tilly Norwood được tạo ra bởi trí tuệ nhân tạo đang khiến Hollywood 'dậy sóng'. Nhiều diễn viên phản đối, quan ngại về sự xuất hiện của diễn viên AI (trí tuệ nhân tạo) này mặc dù tác giả cho biết nó không ra đời nhằm mục đích thay thế con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:38:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956380+07:00"
+    },
+    {
+      "id": "916241713fb1b9d96f21590436544f59",
+      "title": "Cách phát hiện sớm ung thư",
+      "link": "https://thanhnien.vn/cach-phat-hien-som-ung-thu-185250924235534821.htm",
+      "summary": "Ung thư là một trong những thách thức sức khỏe lớn trên toàn cầu, với số ca mắc mới và tử vong ngày càng gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:38:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956556+07:00"
+    },
+    {
+      "id": "1a6909743f91e115d3baabfa5854a45f",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-hom-nay-2-10-4946442.html",
+      "summary": "Giá xăng, dầu tăng 40-380 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:36:15+07:00",
+      "fetched": "2025-10-02T15:20:22.307400+07:00"
+    },
+    {
+      "id": "1a6909743f91e115d3baabfa5854a45f",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-hom-nay-2-10-4946442.html",
+      "summary": "Giá xăng, dầu tăng 40-380 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T07:36:15+07:00",
+      "fetched": "2025-10-02T15:20:38.248889+07:00"
+    },
+    {
+      "id": "57a78345d267b375254ee822a7ae21d5",
+      "title": "TP HCM bổ sung 23 dự án được phép bán cho người nước ngoài",
+      "link": "https://vnexpress.net/tp-hcm-bo-sung-23-du-an-duoc-phep-ban-cho-nguoi-nuoc-ngoai-4946398.html",
+      "summary": "UBND TP HCM vừa bổ sung danh sách 23 dự án đủ điều kiện bán cho tổ chức, cá nhân nước ngoài, nâng tổng số dự án khối ngoại được sở hữu tại thành phố lên 88.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:36:04+07:00",
+      "fetched": "2025-10-02T15:20:22.307629+07:00"
+    },
+    {
+      "id": "ea7127a1602e0583db96cbeef4849ed3",
+      "title": "Công nghệ 'hạ nhiệt' cho các trung tâm dữ liệu",
+      "link": "https://vnexpress.net/cong-nghe-ha-nhiet-cho-cac-trung-tam-du-lieu-4945913.html",
+      "summary": "Các kỹ sư Microsoft phát triển công nghệ làm mát chip bằng vi lưu, giúp loại bỏ nhiệt hiệu quả hơn và giảm nhiệt lượng do tác vụ AI tạo ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:35:14+07:00",
+      "fetched": "2025-10-02T15:20:22.307799+07:00"
+    },
+    {
+      "id": "ea7127a1602e0583db96cbeef4849ed3",
+      "title": "Công nghệ 'hạ nhiệt' cho các trung tâm dữ liệu",
+      "link": "https://vnexpress.net/cong-nghe-ha-nhiet-cho-cac-trung-tam-du-lieu-4945913.html",
+      "summary": "Các kỹ sư Microsoft phát triển công nghệ làm mát chip bằng vi lưu, giúp loại bỏ nhiệt hiệu quả hơn và giảm nhiệt lượng do tác vụ AI tạo ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T07:35:14+07:00",
+      "fetched": "2025-10-02T15:20:41.338541+07:00"
+    },
+    {
+      "id": "644ccb76b8aa1f33cea2d272b2b2b045",
+      "title": "Rơi vào 'ma trận' lừa đảo tuyển dụng giảng viên",
+      "link": "https://thanhnien.vn/roi-vao-ma-tran-lua-dao-tuyen-dung-giang-vien-185251002131928384.htm",
+      "summary": "Một thạc sĩ ngành tài chính vừa từ Nhật về có mong muốn làm giảng viên, tình cờ thấy trang Facebook của một trường ĐH đăng thông tin tuyển dụng nên đã nộp hồ sơ và bị dẫn dắt vào 'ma trận' có dấu hiệu lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:34:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956709+07:00"
+    },
+    {
+      "id": "d8b5b107ca7939142487751a61dbcea9",
+      "title": "TP HCM lên kế hoạch kiểm định 186 chung cư xuống cấp, hư hỏng",
+      "link": "https://vnexpress.net/tp-hcm-len-ke-hoach-kiem-dinh-186-chung-cu-xuong-cap-hu-hong-4946422.html",
+      "summary": "Nhiều chung cư cấp C tiềm ẩn nguy hiểm được Sở Xây dựng TP HCM đề xuất kiểm tra để có kế hoạch cải tạo, tháo dỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:33:03+07:00",
+      "fetched": "2025-10-02T15:20:22.307966+07:00"
+    },
+    {
+      "id": "261e0f2829723d2f12a864f268631a64",
+      "title": "Hoàng Mập lần đầu tiết lộ về con trai nuôi",
+      "link": "https://thanhnien.vn/hoang-map-lan-dau-tiet-lo-ve-con-trai-nuoi-185251002102654205.htm",
+      "summary": "Hoàng Mập cho biết anh trân quý tình yêu nghề và không bao giờ bỏ cuộc của con trai nuôi - Lại Nhật Khoa, vì vậy, anh sẵn sàng hỗ trợ khi con trai cần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:32:00+07:00",
+      "fetched": "2025-10-02T15:20:32.956855+07:00"
+    },
+    {
+      "id": "bb5ea47da767e24a376ce19685987ec0",
+      "title": "The Aspira cam kết chất lượng và tiến độ thi công",
+      "link": "https://vnexpress.net/the-aspira-cam-ket-chat-luong-va-tien-do-thi-cong-4946305.html",
+      "summary": "The Aspira đề cao việc duy trì tiến độ, pháp lý hoàn chỉnh, kiểm soát chất lượng bàn giao, nhằm đáp ứng yêu cầu minh bạch ngày càng cao của người mua nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:30:00+07:00",
+      "fetched": "2025-10-02T15:20:22.308124+07:00"
+    },
+    {
+      "id": "bb93cdf23d9c2dcd63a83d20b3ed831a",
+      "title": "Tôi quá thiệt thòi khi sống cùng mẹ chồng khó tính, chồng lười biếng",
+      "link": "https://vnexpress.net/chong-vo-tam-toi-qua-thiet-thoi-khi-song-cung-me-chong-kho-tinh-chong-luoi-bieng-4946254.html",
+      "summary": "Mấy năm gần đây, chồng liên tục báo nợ, số tiền rất lớn, tôi không biết cụ thể nợ vì vấn đề gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:28:50+07:00",
+      "fetched": "2025-10-02T15:20:22.308283+07:00"
+    },
+    {
+      "id": "91109e3e166093dd2868902075b15e83",
+      "title": "Nhạc sĩ Thế Hiển - 'nhánh lan rừng' đã xa",
+      "link": "https://vnexpress.net/nhac-si-the-hien-nhanh-lan-rung-da-xa-4946155.html",
+      "summary": "Nhạc sĩ Thế Hiển qua đời, để lại dư âm hình ảnh \"ba lô trên lưng, mang theo nhánh lan rừng\", cùng những ca khúc vượt thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:28:33+07:00",
+      "fetched": "2025-10-02T15:20:22.308452+07:00"
+    },
+    {
+      "id": "f125ae9d1afd27d5a70bdea7046a9c69",
+      "title": "Đèo Khau Phạ sạt lở, khách hủy tour ngắm mùa vàng",
+      "link": "https://vnexpress.net/deo-khau-pha-sat-lo-khach-huy-tour-ngam-mua-vang-4946374.html",
+      "summary": "Mưa lớn nhiều ngày qua, khiến đất đá tràn xuống đèo Khau Phạ, chia cắt giao thông trên quốc lộ 20, khiến nhiều du khách phải hủy lịch ngắm mùa vàng ở Mù Cang Chải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:23:25+07:00",
+      "fetched": "2025-10-02T15:20:22.308625+07:00"
+    },
+    {
+      "id": "857e71154690de18ad3131d52645785d",
+      "title": "Nghề đóng giả khách mời đám cưới",
+      "link": "https://vnexpress.net/nghe-dong-gia-khach-moi-dam-cuoi-4946350.html",
+      "summary": "Hơn 10 năm, Lee Da-jeong làm nghề đóng giả bạn thân của những cô dâu xa lạ, dự tiệc cưới của họ và lấp đầy những hàng ghế trống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:10:48+07:00",
+      "fetched": "2025-10-02T15:20:22.308793+07:00"
+    },
+    {
+      "id": "7f12d897c941fd1affcd5d16bbb97d24",
+      "title": "Bí quyết giúp 'nữ thần không tuổi' Cao Viên Viên trẻ đẹp",
+      "link": "https://vnexpress.net/bi-quyet-giup-nu-than-khong-tuoi-cao-vien-vien-tre-dep-4946389.html",
+      "summary": "Ngủ đủ giấc để ổn định tinh thần, ăn ít muối, dầu mỡ và tập trung protein chất lượng cao, cùng với việc cắt giảm bữa tối là những mẹo giúp Cao Viên Viên trẻ đẹp ở tuổi 45.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:10:14+07:00",
+      "fetched": "2025-10-02T15:20:22.308954+07:00"
+    },
+    {
+      "id": "e9d830f3a89d6badb5b1cb7f6d04f3bd",
+      "title": "Người đàn ông hồi sinh nhờ quả tim người chết não",
+      "link": "https://vnexpress.net/nguoi-dan-ong-hoi-sinh-nho-qua-tim-nguoi-chet-nao-4946346.html",
+      "summary": "Người đàn ông 45 tuổi suy tim giai đoạn cuối được cứu sống nhờ quả tim của bệnh nhân chết não ở Phú Thọ bị tai nạn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:07:57+07:00",
+      "fetched": "2025-10-02T15:20:22.309123+07:00"
+    },
+    {
+      "id": "80afea53c8e9d98aa68612910b8e612d",
+      "title": "Thỏa thuận ly hôn của Nicole Kidman",
+      "link": "https://vnexpress.net/thoa-thuan-ly-hon-cua-nicole-kidman-4946052.html",
+      "summary": "Minh tinh Nicole Kidman và ca sĩ Keith Urban san sẻ ngày nuôi con, không cần nhận phí cấp dưỡng, chia đều tài sản sau ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:01:19+07:00",
+      "fetched": "2025-10-02T15:20:22.309281+07:00"
+    },
+    {
+      "id": "dbf79763b4b89bb1107b6bae68531312",
+      "title": "5 kiểu phối quần jeans 'hack' dáng cho dân công sở",
+      "link": "https://vnexpress.net/5-kieu-phoi-quan-jeans-hack-dang-cho-dan-cong-so-4946416.html",
+      "summary": "Quần jeans ống suông, dáng rộng, baggy cong, loe rũ hay ôm trên loe dưới tạo hiệu ứng kéo dài đôi chân, kết hợp ăn ý với nhiều kiểu áo, phụ kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:00:00+07:00",
+      "fetched": "2025-10-02T15:20:22.309450+07:00"
+    },
+    {
+      "id": "06662ff8e9a4440421f5afe1255ad8de",
+      "title": "Nấm làm biến dạng móng tay chân người phụ nữ",
+      "link": "https://vnexpress.net/nam-lam-bien-dang-mong-tay-chan-nguoi-phu-nu-4946409.html",
+      "summary": "Toàn bộ móng tay chân chị Phương, 35 tuổi, bị biến dạng, chuyển màu vàng đục, nứt nẻ do nhiễm nấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T07:00:00+07:00",
+      "fetched": "2025-10-02T15:20:22.309614+07:00"
+    },
+    {
+      "id": "4a3d486a001120147cf68931e8a7ea6b",
+      "title": "Việt Nam gặp chủ nhà Arab Saudi ở VCK U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-gap-chu-nha-arab-saudi-o-vck-u23-chau-a-2026-4946408.html",
+      "summary": "Thầy trò HLV Kim Sang-sik xác định ba đối thủ sau lễ bốc thăm chia bảng diễn ra tại Malaysia vào chiều nay 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T06:46:46+07:00",
+      "fetched": "2025-10-02T15:20:22.309782+07:00"
+    },
+    {
+      "id": "4a3d486a001120147cf68931e8a7ea6b",
+      "title": "Việt Nam gặp chủ nhà Arab Saudi ở VCK U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-gap-chu-nha-arab-saudi-o-vck-u23-chau-a-2026-4946408.html",
+      "summary": "Thầy trò HLV Kim Sang-sik nằm ở bảng A cùng ba đối thủ khác, sau lễ bốc thăm vòng chung kết U23 châu Á 2026 diễn ra ở trụ sở LĐBĐ châu Á chiều 2/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T06:46:46+07:00",
+      "fetched": "2025-10-02T15:20:43.058762+07:00"
+    },
+    {
+      "id": "9b5a985952c9f0081f9e39a1ddd7dc65",
+      "title": "Ngân hàng đầu tiên ra mắt thương hiệu vàng miếng",
+      "link": "https://vnexpress.net/ngan-hang-dau-tien-ra-mat-thuong-hieu-vang-mieng-4946397.html",
+      "summary": "ACB tái khởi động mảng kinh doanh vàng từ 10/10, là nhà băng đầu tiên công bố ra mắt thương hiệu vàng miếng riêng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T06:40:20+07:00",
+      "fetched": "2025-10-02T15:20:38.249067+07:00"
+    },
+    {
+      "id": "19ea178dbd9cb06212ee8eb3a9f0c780",
+      "title": "Manulife ra mắt hai sản phẩm bảo hiểm 'Xanh' gia tăng quyền lợi",
+      "link": "https://vnexpress.net/manulife-ra-mat-hai-san-pham-bao-hiem-xanh-gia-tang-quyen-loi-4946379.html",
+      "summary": "Bảo hiểm \"Hộ vệ xanh\" và \"Bảo thân xanh\" được Manulife ra mắt cuối tháng 9, mở rộng độ tuổi tham gia, tăng quyền lợi bảo vệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T06:30:00+07:00",
+      "fetched": "2025-10-02T15:20:38.250572+07:00"
+    },
+    {
+      "id": "89648e3681ad2cd8d8ad6f1c216319d2",
+      "title": "Dùng 92 tài khoản chứng khoán để thao túng cổ phiếu AGG",
+      "link": "https://vnexpress.net/dung-92-tai-khoan-chung-khoan-de-thao-tung-co-phieu-agg-4946294.html",
+      "summary": "Ông Hồ Thành Trung dùng 92 tài khoản chứng khoán trong suốt hai năm để giao dịch liên tục cổ phiếu AGG tạo cung cầu giả nhằm thao túng giá.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T06:27:31+07:00",
+      "fetched": "2025-10-02T15:20:38.249234+07:00"
     },
     {
       "id": "02d1d62c3acd9c9a77ae8710416a64a1",
