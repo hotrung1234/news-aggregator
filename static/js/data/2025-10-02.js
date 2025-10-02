@@ -1,7 +1,157 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T17:16:25.583340+07:00",
+  "lastUpdated": "2025-10-02T19:32:27.127946+07:00",
   "articles": [
+    {
+      "id": "fcab83691b22a460f89f48781d5dd7a6",
+      "title": "NCB chuyển mình mạnh mẽ, vững bước tuổi 30",
+      "link": "https://tuoitre.vn/ncb-chuyen-minh-manh-me-vung-buoc-tuoi-30-20251002161233461.htm",
+      "summary": "Ngân hàng TMCP Quốc Dân (NCB) đã vươn lên khẳng định dấu ấn của một tổ chức tài chính năng động, sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.881466+07:00",
+      "fetched": "2025-10-02T19:32:17.881584+07:00"
+    },
+    {
+      "id": "ae6e3b263a5d3a3a7ffabc974fad7b0d",
+      "title": "Vụ sập trường ở Indonesia: 59 người mất tích, không còn dấu hiệu sự sống",
+      "link": "https://tuoitre.vn/vu-sap-truong-o-indonesia-59-nguoi-mat-tich-khong-con-dau-hieu-su-song-20251002161514106.htm",
+      "summary": "Hàng trăm nhân viên cứu hộ vẫn đang nỗ lực không ngừng, dù cơ hội tìm được người sống sót sau \"thời gian vàng\" 72 giờ đã khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.881346+07:00",
+      "fetched": "2025-10-02T19:32:17.881456+07:00"
+    },
+    {
+      "id": "479915480b2a91f22a4a3cd20205df8e",
+      "title": "Bổ sung thêm hồ nước Dương Đông 2 đón APEC 2027",
+      "link": "https://tuoitre.vn/bo-sung-them-ho-nuoc-duong-dong-2-don-apec-2027-20251002154509321.htm",
+      "summary": "Hồ nước Dương Đông 2 có ý nghĩa quan trọng trong việc phục vụ APEC 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.881221+07:00",
+      "fetched": "2025-10-02T19:32:17.881335+07:00"
+    },
+    {
+      "id": "54ac58a30f5a532af8a37c4270d31388",
+      "title": "Tất tần tật về Gala Car Choice Awards 2025: Thời gian, địa điểm, cách di chuyển, lịch trình",
+      "link": "https://tuoitre.vn/tat-tan-tat-ve-gala-car-choice-awards-2025-thoi-gian-dia-diem-cach-di-chuyen-lich-trinh-20251002125946615.htm",
+      "summary": "Gala Better Choice Awards 2025 diễn ra tối 3-10 tại Trung tâm Đổi mới sáng tạo quốc gia (NIC) Hòa Lạc, Hà Nội, hứa hẹn mang đến một đêm vinh danh quy mô lớn cùng những màn trình diễn nghệ thuật hoành tráng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.881098+07:00",
+      "fetched": "2025-10-02T19:32:17.881210+07:00"
+    },
+    {
+      "id": "70655c104c46fa58d48687e3014dbd3d",
+      "title": "Từ 16-12: Bạn nói gì với chatbot AI, Facebook - Instagram sẽ quảng cáo đúng cái đó",
+      "link": "https://tuoitre.vn/tu-16-12-ban-noi-gi-voi-chatbot-ai-facebook-instagram-se-quang-cao-dung-cai-do-20251002105802047.htm",
+      "summary": "Tập đoàn Meta sẽ tận dụng các cuộc trò chuyện giữa người dùng với chatbot AI để điều chỉnh quảng cáo trên Facebook và Instagram.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880975+07:00",
+      "fetched": "2025-10-02T19:32:17.881087+07:00"
+    },
+    {
+      "id": "b5983c1146a2ff9cac420d539788f408",
+      "title": "Khi AI mang hình hài robot sống giữa chúng ta",
+      "link": "https://tuoitre.vn/khi-ai-mang-hinh-hai-robot-song-giua-chung-ta-20251001153321018.htm",
+      "summary": "Theo TS Nguyễn Hải Nguyên, giảng viên ngành Kỹ thuật robot và cơ điện tử tại Đại học RMIT Việt Nam, đất nước đang đứng trước ngưỡng cửa chuyển mình có thể thay đổi cách xã hội vận hành, sinh sống và học tập trong tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880851+07:00",
+      "fetched": "2025-10-02T19:32:17.880964+07:00"
+    },
+    {
+      "id": "0c92bd9e745a7ad4bdc9ebceb0ce1488",
+      "title": "Điện lực TP.HCM đảm bảo cấp điện ổn định Đại hội Đảng bộ thành phố lần I",
+      "link": "https://tuoitre.vn/dien-luc-tp-hcm-dam-bao-cap-dien-on-dinh-dai-hoi-dang-bo-thanh-pho-lan-i-20251002160644745.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM (EVNHCMC) đã có kế hoạch đảm bảo cung cấp điện phục vụ Đại hội Đảng bộ TP lần thứ I, nhiệm kỳ 2025 – 2030 với cam kết cấp điện an toàn, ổn định, tin cậy và liên tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880707+07:00",
+      "fetched": "2025-10-02T19:32:17.880839+07:00"
+    },
+    {
+      "id": "e1d5bf4c12d7914b6830ca9f28450d7a",
+      "title": "Phòng Cảnh sát giao thông TP.HCM tham mưu bổ sung lao động công ích vào xử lý vi phạm giao thông",
+      "link": "https://tuoitre.vn/phong-canh-sat-giao-thong-tp-hcm-tham-muu-bo-sung-lao-dong-cong-ich-vao-xu-ly-vi-pham-giao-thong-20251002161327972.htm",
+      "summary": "Phòng Cảnh sát giao thông, Công an TP.HCM đánh giá cao đề xuất bổ sung lao động công ích vào Luật Xử lý vi phạm hành chính và Luật Trật tự an toàn giao thông đường bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880583+07:00",
+      "fetched": "2025-10-02T19:32:17.880696+07:00"
+    },
+    {
+      "id": "06025dac70f876f067ff85b95fd00085",
+      "title": "Hàn Quốc lần đầu thừa nhận sai lầm, xin lỗi hàng trăm ngàn trẻ bị đưa ra nước ngoài làm con nuôi",
+      "link": "https://tuoitre.vn/han-quoc-lan-dau-thua-nhan-sai-lam-xin-loi-hang-tram-ngan-tre-bi-dua-ra-nuoc-ngoai-lam-con-nuoi-20251002163140137.htm",
+      "summary": "Tổng thống Lee Jae Myung xin lỗi vì sự yếu kém trong khâu quản lý chương trình nhận con nuôi đã gây ra tổn thương cho nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880450+07:00",
+      "fetched": "2025-10-02T19:32:17.880571+07:00"
+    },
+    {
+      "id": "8dbba8a2eda3bcce8b0341fff0ac6856",
+      "title": "Màn cọc xe đắt đỏ của Tesla: Người cọc lẽ ra kiếm được 26,4 tỉ đồng nếu đầu tư cách khác",
+      "link": "https://tuoitre.vn/man-coc-xe-dat-do-cua-tesla-nguoi-coc-le-ra-kiem-duoc-26-4-ti-dong-neu-dau-tu-cach-khac-20251002155357385.htm",
+      "summary": "50.000 USD tiền cọc cho Tesla Roadster giờ có thể thành hơn 1 triệu USD, nếu đầu tư vào cổ phiếu của hãng xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880319+07:00",
+      "fetched": "2025-10-02T19:32:17.880438+07:00"
+    },
+    {
+      "id": "6b7019ab5df8ce8a768a5d502fec0715",
+      "title": "15 tuổi bắt xe từ Bắc Ninh vào Tây Ninh tìm 'việc nhẹ lương cao', cám ơn những người 'giải cứu'",
+      "link": "https://tuoitre.vn/15-tuoi-bat-xe-tu-bac-ninh-vao-tay-ninh-tim-viec-nhe-luong-cao-cam-on-nhung-nguoi-giai-cuu-20251002154738059.htm",
+      "summary": "Được đoàn tụ với gia đình, L. đã viết thư cảm ơn \"chú công an\" và \"những người buôn bán nước giải khát\", \"chú xe ôm\" ở khu vực cửa khẩu Mộc Bài đã giúp đỡ em thoát cảnh bị lừa đảo sang Campuchia làm \"việc nhẹ lương cao\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880192+07:00",
+      "fetched": "2025-10-02T19:32:17.880307+07:00"
+    },
+    {
+      "id": "16da4ea3459ef1b3c35e22d58f4fa979",
+      "title": "Giá một cái bánh trung thu bằng cả chục ký gạo, người nghèo tiền đâu mà mua?",
+      "link": "https://tuoitre.vn/gia-mot-cai-banh-trung-thu-bang-ca-chuc-ky-gao-nguoi-ngheo-tien-dau-ma-mua-2025100214013488.htm",
+      "summary": "Nhiều bạn đọc cho rằng nên đưa mặt hàng này về đúng giá trị thật và các cửa hàng cũng đừng kê giá cao rồi khuyến mãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.880065+07:00",
+      "fetched": "2025-10-02T19:32:17.880180+07:00"
+    },
+    {
+      "id": "4844276a094d3f7c2cc21d439d3f5a0e",
+      "title": "Tạp chí thời trang Anh bị tố phân biệt chủng tộc vì cắt bỏ hình Rosé BlackPink",
+      "link": "https://tuoitre.vn/tap-chi-thoi-trang-anh-bi-to-phan-biet-chung-toc-vi-cat-bo-hinh-rose-blackpink-20251002163617321.htm",
+      "summary": "Ngôi sao có sức ảnh hưởng toàn cầu của châu Á Rosé (BlackPink) bị tạp chí thời trang danh tiếng của Anh cắt hình, chỉ giữ lại Hailey Bieber, Zoë Kravitz và Charli XCX.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.879934+07:00",
+      "fetched": "2025-10-02T19:32:17.880054+07:00"
+    },
+    {
+      "id": "71bb80202043581196896acab5689793",
+      "title": "Vé số cào Cần Thơ đắt hàng, phát hành thêm 4 triệu vé",
+      "link": "https://tuoitre.vn/ve-so-cao-can-tho-dat-hang-phat-hanh-them-4-trieu-ve-20251002142855182.htm",
+      "summary": "Vé số cào của Công ty Xổ số kiến thiết Cần Thơ bán chạy, đại lý hết vé sớm nên doanh nghiệp tiếp tục phát hành đợt 2 với 4 triệu vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.879791+07:00",
+      "fetched": "2025-10-02T19:32:17.879922+07:00"
+    },
+    {
+      "id": "6a8982786791a5de624b01399e247aeb",
+      "title": "Sau trận ngập tứ bề, Hà Nội lại 'thúc' tiến độ trạm bơm tiêu Yên Nghĩa 7.400 tỉ",
+      "link": "https://tuoitre.vn/sau-tran-ngap-tu-be-ha-noi-lai-thuc-tien-do-tram-bom-tieu-yen-nghia-7-400-ti-20251002161913276.htm",
+      "summary": "Ngày 2-10, Phó chủ tịch UBND TP Hà Nội Dương Đức Tuấn ký ban hành văn bản yêu cầu khẩn trương khắc phục tình trạng ngập úng tại thủ đô do ảnh hưởng của bão số 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T19:32:17.879556+07:00",
+      "fetched": "2025-10-02T19:32:17.879775+07:00"
+    },
     {
       "id": "536aa81c9d55badb5957677d4ebc2df5",
       "title": "Sẽ thanh tra toàn diện dự án Sông Lô sai phạm kéo dài gần 30 năm",
@@ -451,6 +601,346 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T13:24:27.514881+07:00",
       "fetched": "2025-10-02T13:24:27.515119+07:00"
+    },
+    {
+      "id": "35972f7113466c76d2402d003f6a819d",
+      "title": "Sacombank tung gói vay 40.000 tỉ đồng lãi suất từ 4,3%/năm",
+      "link": "https://thanhnien.vn/sacombank-tung-goi-vay-40000-ti-dong-lai-suat-tu-43-nam-185251002153643689.htm",
+      "summary": "Với mục tiêu đồng hành cùng người dân và doanh nghiệp trong việc hiện thực hóa các kế hoạch tài chính quan trọng, đặc biệt ở giai đoạn nửa cuối năm, Sacombank triển khai gói tín dụng ưu đãi 40.000 tỉ đồng với lãi suất chỉ từ 4,3%/năm, áp dụng đến hết 31.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:30:00+07:00",
+      "fetched": "2025-10-02T19:32:16.689214+07:00"
+    },
+    {
+      "id": "b6166d0b87835eb80540d1480995c972",
+      "title": "ACB đang chờ hướng dẫn đăng ký sản xuất vàng miếng",
+      "link": "https://thanhnien.vn/acb-dang-cho-dang-ky-san-xuat-vang-mieng-185251002192542826.htm",
+      "summary": "Tối 2.10, Ngân hàng TMCP Á Châu (ACB) phát đi thông báo xung quanh việc công bố điều khoản giao dịch mua, bán vàng miếng tại ACB. Theo đó, đối với sản xuất và kinh doanh vàng miếng theo Nghị định 232, ACB vẫn đang chờ Thông tư hướng dẫn và thực hiện đăng ký đúng quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:27:00+07:00",
+      "fetched": "2025-10-02T19:32:16.689384+07:00"
+    },
+    {
+      "id": "d721845c73e10ffe228e7cd00538f634",
+      "title": "TP.HCM: Sửa chữa đường Mỹ Phước - Tân Vạn, tối ưu đèn tín hiệu chống ùn tắc",
+      "link": "https://thanhnien.vn/tphcm-sua-chua-duong-my-phuoc-tan-van-toi-uu-den-tin-hieu-chong-un-tac-185251002170138896.htm",
+      "summary": "Sở Xây dựng TP.HCM thông tin về việc sửa chữa hư hỏng đường Mỹ Phước - Tân Vạn (Bình Dương cũ), tối ưu đèn tín hiệu giao thông để giảm ùn tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:23:00+07:00",
+      "fetched": "2025-10-02T19:32:16.689541+07:00"
+    },
+    {
+      "id": "971620d89d9faa92a5ea7b47cad88751",
+      "title": "Dùng 11 ngoại binh đá chính, Nam Định chật vật hạ CLB Hong Kong",
+      "link": "https://vnexpress.net/dung-11-ngoai-binh-da-chinh-nam-dinh-chat-vat-ha-clb-hong-kong-4946581.html",
+      "summary": "Nam Định trở thành CLB Việt Nam đầu tiên dùng toàn ngoại binh đá chính, trong trận thắng Eastern FC 1-0 ở lượt hai bảng F AFC Champions League (ACL) Two 2025-2026, tối 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:19:16+07:00",
+      "fetched": "2025-10-02T19:32:13.105331+07:00"
+    },
+    {
+      "id": "eedc1961ea85ab65ae164dcea14a4d05",
+      "title": "Bốn hướng làm chủ công nghệ chiến lược Việt Nam",
+      "link": "https://vnexpress.net/bon-huong-lam-chu-cong-nghe-chien-luoc-viet-nam-4946546.html",
+      "summary": "Bộ Khoa học và Công nghệ chia sẻ bốn hướng triển khai công nghệ chiến lược, trong khuôn khổ Ngày hội Đổi mới sáng tạo quốc gia 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:17:47+07:00",
+      "fetched": "2025-10-02T19:32:13.105508+07:00"
+    },
+    {
+      "id": "d135c14ac28ad9f1fa174a2c2849dc4b",
+      "title": "Lộ diện kênh phát sóng độc quyền VCK U.23 châu Á có Việt Nam: Không phải VTV hay FPT Play",
+      "link": "https://thanhnien.vn/lo-dien-kenh-phat-song-doc-quyen-vck-u23-chau-a-co-viet-nam-khong-phai-vtv-hay-fpt-play-185251002173457441.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã nhận kết quả bốc thăm tương đối thuận lợi, tạo ra tiền đề để thầy trò HLV Kim Sang-sik hướng đến mục tiêu đặc biệt ở giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:10:00+07:00",
+      "fetched": "2025-10-02T19:32:16.689694+07:00"
+    },
+    {
+      "id": "81a52782ca8da45d36c2475b15bc9f31",
+      "title": "Chưa thể dùng vỉa hè 'đang rảnh' làm làn riêng cho xe đạp, vì sao?",
+      "link": "https://thanhnien.vn/chua-the-dung-via-he-dang-ranh-lam-lan-rieng-cho-xe-dap-vi-sao-185251002170002851.htm",
+      "summary": "Đại diện Sở Xây dựng cho rằng dùng những vỉa hè 'đang rảnh' ở TP.HCM để làm làn riêng cho xe đạp gặp một số bất cập, chưa thể triển khai ngay. Lý do là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:10:00+07:00",
+      "fetched": "2025-10-02T19:32:16.689866+07:00"
+    },
+    {
+      "id": "af729f3a62483d62dc230455383ebf68",
+      "title": "Tấn công chết người ngay giáo đường Do Thái tại Anh, chính phủ họp khẩn",
+      "link": "https://thanhnien.vn/tan-cong-chet-nguoi-ngay-giao-duong-do-thai-tai-anh-chinh-phu-hop-khan-185251002190431526.htm",
+      "summary": "Một vụ tấn công nghiêm trọng đã xảy ra gần giáo đường Do Thái ở Anh ngay trong ngày lễ quan trọng nhất của người Do Thái, làm 2 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:08:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690018+07:00"
+    },
+    {
+      "id": "fdb2b75273c737f328b89036880bcc05",
+      "title": "Chủ tịch HYBE Bang Si Hyuk bị cấm xuất cảnh",
+      "link": "https://thanhnien.vn/chu-tich-hybe-bang-si-hyuk-bi-cam-xuat-canh-185251002133850933.htm",
+      "summary": "Người từng đưa nhóm nhạc BTS lên đỉnh cao toàn cầu - Chủ tịch HYBE Bang Si Hyuk mới đây đã trở thành tâm điểm chú ý nhưng theo cách đầy tai tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:03:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690168+07:00"
+    },
+    {
+      "id": "5bbb4b6c56924558e4ec897f352ad995",
+      "title": "CLB Nam Định thắng kịch tính đại diện Hồng Kông ở đấu trường châu Á",
+      "link": "https://thanhnien.vn/clb-nam-dinh-thang-kich-tinh-dai-dien-hong-kong-o-dau-truong-chau-a-18525100218583286.htm",
+      "summary": "CLB Nam Định giành chiến thắng kịch tính trước đại diện Hồng Kông ở đấu trường châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:02:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690322+07:00"
+    },
+    {
+      "id": "52445070e760ad1056c9049447faeaaa",
+      "title": "Hãng phim Disney cảnh cáo Character.AI",
+      "link": "https://vnexpress.net/hang-phim-disney-canh-cao-character-ai-4946355.html",
+      "summary": "Nền tảng Character.AI phải gỡ bỏ hình ảnh các nhân vật hoạt hình Disney nổi tiếng sau khi bị hãng này cáo buộc đánh cắp dữ liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.105671+07:00"
+    },
+    {
+      "id": "8932e63e62d22f71c88ecbe200eb2b9a",
+      "title": "Có phải nhiễm HPV sẽ bị ung thư?",
+      "link": "https://vnexpress.net/co-phai-nhiem-hpv-se-bi-ung-thu-4946475.html",
+      "summary": "HPV type nào dễ gây ung thư, yếu tố làm tăng nguy cơ nhiễm, ung thư có điều trị được không... được giải đáp qua bài trắc nghiệm dưới đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.105850+07:00"
+    },
+    {
+      "id": "7cc30deaaab2aef13a970ead14d9f955",
+      "title": "Bé trai bị nhiễm trùng tiểu",
+      "link": "https://vnexpress.net/be-trai-bi-nhiem-trung-tieu-4946369.html",
+      "summary": "Bé Hưng, một tuổi, sốt 40 độ C kèm quấy khóc, nước tiểu khai kéo dài 5 ngày, bác sĩ chẩn đoán bé nhiễm trùng tiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.105953+07:00"
+    },
+    {
+      "id": "699759943c6d3b4e093c55718c355734",
+      "title": "Dấu hiệu viêm mào tinh hoàn",
+      "link": "https://vnexpress.net/dau-hieu-viem-mao-tinh-hoan-4946347.html",
+      "summary": "Viêm mào tinh hoàn thường gây sưng đau vùng kín, đau khi tiểu, có thể xuất tinh ra máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.106110+07:00"
+    },
+    {
+      "id": "5223fd7c9af8bb969b680400a45d0c1b",
+      "title": "Vision Tech phân phối camera Insta360 tại Việt Nam",
+      "link": "https://vnexpress.net/vision-tech-phan-phoi-camera-insta360-tai-viet-nam-4945853.html",
+      "summary": "Từ tháng 9, các dòng camera Insta360 tại thị trường Việt Nam được phân phối chính hãng thông qua Công ty cổ phần Công nghệ Vision Tech.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.106265+07:00"
+    },
+    {
+      "id": "3a625356a54c7b1ae6c2987487636a66",
+      "title": "FedEx khai trương trung tâm logistics tại sân bay Tallinn",
+      "link": "https://vnexpress.net/fedex-khai-truong-trung-tam-logistics-tai-san-bay-tallinn-4944036.html",
+      "summary": "Trung tâm logistics của FedEx tại sân bay Tallinn, mở kết nối trực tiếp Estonia với trung tâm hàng không châu Âu ở Paris.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.106422+07:00"
+    },
+    {
+      "id": "6830027e1356ec1e51495f9e52cc4358",
+      "title": "Đại lý đổi thưởng 16 tờ trúng xổ số miền Nam ngày 2 tháng 10",
+      "link": "https://thanhnien.vn/dai-ly-doi-thuong-16-to-trung-xo-so-mien-nam-ngay-2-thang-10-185251002182524914.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 2 tháng 10, các đại lý ở Đồng Nai, Đồng Tháp liền đổi thưởng 16 tờ trúng số cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:59:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690478+07:00"
+    },
+    {
+      "id": "45904189162de41cd9e382e2d8118019",
+      "title": "Aeon tính mở loạt siêu thị tại Việt Nam để tăng gấp ba doanh số",
+      "link": "https://vnexpress.net/aeon-tinh-mo-loat-sieu-thi-tai-viet-nam-de-tang-gap-ba-doanh-so-4946521.html",
+      "summary": "Với doanh số siêu thị, cửa hàng tại Việt Nam tăng bình quân 30% mỗi năm, Aeon tính mở mới loạt điểm bán để tăng gấp 3 khoản thu hiện tại vào 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:51:43+07:00",
+      "fetched": "2025-10-02T19:32:13.106577+07:00"
+    },
+    {
+      "id": "45904189162de41cd9e382e2d8118019",
+      "title": "Aeon tính mở loạt siêu thị tại Việt Nam để tăng gấp ba doanh số",
+      "link": "https://vnexpress.net/aeon-tinh-mo-loat-sieu-thi-tai-viet-nam-de-tang-gap-ba-doanh-so-4946521.html",
+      "summary": "Với doanh số siêu thị, cửa hàng tại Việt Nam tăng bình quân 30% mỗi năm, Aeon tính mở mới loạt điểm bán để tăng gấp 3 khoản thu hiện tại vào 2030.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T11:51:43+07:00",
+      "fetched": "2025-10-02T19:32:21.085811+07:00"
+    },
+    {
+      "id": "8cb06db583e853783bc2af703a12419d",
+      "title": "Hồng Nhung kể quá trình chống chọi ung thư vú",
+      "link": "https://vnexpress.net/hong-nhung-ke-qua-trinh-chong-choi-ung-thu-vu-4946325.html",
+      "summary": "Ca sĩ Hồng Nhung cùng những phụ nữ mắc ung thư vú kể quá trình chiến đấu với bệnh tật, trong sách ảnh ''Chúng tôi đó - Phụ nữ kiên cường''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:50:50+07:00",
+      "fetched": "2025-10-02T19:32:13.106732+07:00"
+    },
+    {
+      "id": "820f19bb59b602044e99f5142a470847",
+      "title": "'Trẻ hóa đô thị' - sách bàn về bảo tồn di sản và hồi sinh không gian cũ",
+      "link": "https://thanhnien.vn/tre-hoa-do-thi-sach-ban-ve-bao-ton-di-san-va-hoi-sinh-khong-gian-cu-185251002175020495.htm",
+      "summary": "Tại sự kiện LIXIL ALP 2025 - 2026, 'Trẻ hóa đô thị' - sách bàn về bảo tồn di sản và hồi sinh không gian cũ đã được ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:45:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690629+07:00"
+    },
+    {
+      "id": "0b968b0f08b6d8f97f8ece1c95ebc87f",
+      "title": "ZTE ra mắt phiên bản màu trắng nubia NEO 3 GT 5G, tái hợp Saigon Phantom",
+      "link": "https://thanhnien.vn/zte-ra-mat-phien-ban-mau-trang-nubia-neo-3-gt-5g-tai-hop-saigon-phantom-185251002180112844.htm",
+      "summary": "ZTE vừa chính thức giới thiệu phiên bản màu trắng của mẫu smartphone chơi game nubia NEO 3 GT 5G tại thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:42:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690792+07:00"
+    },
+    {
+      "id": "c2829c5f247a32ed1232d3b2b268784b",
+      "title": "Bão Matmo (bão số 11) đi rất nhanh, miền Bắc chịu ảnh hưởng trực tiếp",
+      "link": "https://thanhnien.vn/bao-matmo-bao-so-11-di-rat-nhanh-mien-bac-chiu-anh-huong-truc-tiep-185251002183034709.htm",
+      "summary": "So với thời điểm sáng nay 2.10, bão Matmo (bão số 11) đã mạnh lên cấp 9, đang hướng vào Biển Đông. Dự báo khoảng ngày 6.10,  bão Matmo ảnh hưởng trực tiếp đến các tỉnh miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:40:00+07:00",
+      "fetched": "2025-10-02T19:32:16.690942+07:00"
+    },
+    {
+      "id": "ce9d37de603848bd2b84dc09d77f6e79",
+      "title": "Đồng Nai: Kiểm tra hành chính cơ sở massage, phát hiện 2 khẩu súng hơi",
+      "link": "https://thanhnien.vn/dong-nai-kiem-tra-hanh-chinh-co-so-massage-phat-hien-2-khau-sung-hoi-185251002173757219.htm",
+      "summary": "Kiểm tra hành chính cơ sở massage, lực lượng công an phát hiện tại phòng của một nhân viên có cất 2 khẩu súng hơi, 4 cây dao tự chế và 1 bình xịt hơi cay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:29:00+07:00",
+      "fetched": "2025-10-02T19:32:16.691099+07:00"
+    },
+    {
+      "id": "3cc8793095023239fa31fb12f9855a27",
+      "title": "Bãi biển Nhật Lệ ken đặc rác sau bão",
+      "link": "https://vnexpress.net/bai-bien-nhat-le-ken-dac-rac-sau-bao-4946559.html",
+      "summary": "Khoảng 2 km bãi biển Nhật Lệ, phường Đồng Hới tràn ngập rác từ các con sông đổ ra, công nhân dọn được vài tiếng thì rác lại tấp vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:28:27+07:00",
+      "fetched": "2025-10-02T19:32:13.106917+07:00"
+    },
+    {
+      "id": "86bde388a8595a4585184fef12b5ca76",
+      "title": "Ông Johnathan Hạnh Nguyễn được vinh danh top 10 Doanh nhân Việt Nam tiêu biểu",
+      "link": "https://thanhnien.vn/ong-johnathan-hanh-nguyen-duoc-vinh-danh-top-10-doanh-nhan-viet-nam-tieu-bieu-185251002180727042.htm",
+      "summary": "Ông Johnathan Hạnh Nguyễn, Chủ tịch Tập đoàn Liên Thái Bình Dương (IPPG) vinh dự nhận được danh hiệu Doanh nhân Việt Nam tiêu biểu hành trình đất nước đổi mới - hội nhập - vươn tầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:27:00+07:00",
+      "fetched": "2025-10-02T19:32:16.691257+07:00"
+    },
+    {
+      "id": "a756a4b12e21a1918635796c840ca268",
+      "title": "TP.HCM: Người phụ nữ ở Củ Chi tông trụ điện tử vong thương tâm",
+      "link": "https://thanhnien.vn/tphcm-nguoi-phu-nu-o-cu-chi-tong-tru-dien-tu-vong-thuong-tam-185251002164417013.htm",
+      "summary": "Đem tiền đến bệnh viện đóng viện phí, làm thủ tục cho người thân xuất viện, người phụ nữ không may tông xe máy vào trụ điện tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:23:00+07:00",
+      "fetched": "2025-10-02T19:32:16.691419+07:00"
+    },
+    {
+      "id": "f6936c8d1bc0a360e6c8b4530b44e19b",
+      "title": "5 người trong tổ chức khủng bố 'Chính phủ quốc gia Việt Nam lâm thời' bị truy tố",
+      "link": "https://vnexpress.net/5-nguoi-trong-to-chuc-khung-bo-chinh-phu-quoc-gia-viet-nam-lam-thoi-bi-truy-to-4946540.html",
+      "summary": "Bị can Đào Minh Quân và bốn người của tổ chức khủng bố 'Chính phủ quốc gia Việt Nam lâm thời' bị VKSND Tối cao truy tố và đề nghị ra đầu thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:22:55+07:00",
+      "fetched": "2025-10-02T19:32:13.107079+07:00"
+    },
+    {
+      "id": "92afda09dba16c589034f7b0b356466f",
+      "title": "Mặt trận Tổ quốc tiếp nhận 672 tỷ đồng ủng hộ đồng bào sau bão Bualoi",
+      "link": "https://vnexpress.net/mat-tran-to-quoc-tiep-nhan-672-ty-dong-ung-ho-dong-bao-sau-bao-bualoi-4946570.html",
+      "summary": "Tính đến chiều 2/10, Trung ương Mặt trận Tổ quốc Việt Nam đã tiếp nhận 672 tỷ đồng ủng hộ đồng bào khắc phục hậu quả bão Bualoi qua các tài khoản ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:17:14+07:00",
+      "fetched": "2025-10-02T19:32:13.107234+07:00"
+    },
+    {
+      "id": "8f3c90db4b1856e557e480c716e6bfba",
+      "title": "Ngân hàng kháng cáo vụ 'người vay thoát nợ 5 tỷ đồng'",
+      "link": "https://vnexpress.net/ngan-hang-khang-cao-vu-nguoi-vay-thoat-no-5-ty-dong-4946544.html",
+      "summary": "VPBank cho biết đã gửi đơn kháng cáo toàn bộ bản án tuyên khách hàng không phải trả hơn 5 tỷ đồng đã vay mua biệt thự, mà chủ đầu tư có trách nhiệm trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:03:01+07:00",
+      "fetched": "2025-10-02T19:32:13.107390+07:00"
+    },
+    {
+      "id": "c3dedabc2bfbd6588cab9603684542aa",
+      "title": "Xuất khẩu nông lâm thủy sản vượt 52 tỷ USD sau 9 tháng",
+      "link": "https://vnexpress.net/xuat-khau-nong-lam-thuy-san-vuot-52-ty-usd-sau-9-thang-4946433.html",
+      "summary": "Xuất khẩu nông lâm thủy sản 9 tháng đạt hơn 52 tỷ USD, tăng 14% so với cùng kỳ năm ngoái, nhờ nhiều nhóm hàng chủ lực tăng trưởng mạnh cả giá trị lẫn thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T11:00:00+07:00",
+      "fetched": "2025-10-02T19:32:13.107540+07:00"
+    },
+    {
+      "id": "c3dedabc2bfbd6588cab9603684542aa",
+      "title": "Xuất khẩu nông lâm thủy sản vượt 52 tỷ USD sau 9 tháng",
+      "link": "https://vnexpress.net/xuat-khau-nong-lam-thuy-san-vuot-52-ty-usd-sau-9-thang-4946433.html",
+      "summary": "Xuất khẩu nông lâm thủy sản 9 tháng đạt hơn 52 tỷ USD, tăng 14% so với cùng kỳ năm ngoái, nhờ nhiều nhóm hàng chủ lực tăng trưởng mạnh cả giá trị lẫn thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T11:00:00+07:00",
+      "fetched": "2025-10-02T19:32:21.084458+07:00"
+    },
+    {
+      "id": "22085dcafc80b609c2eeba7b4a132922",
+      "title": "Galaxy A56 5G hỗ trợ người dùng học 'tài lẻ' với Gemini Live",
+      "link": "https://vnexpress.net/galaxy-a56-5g-ho-tro-nguoi-dung-hoc-tai-le-voi-gemini-live-4946072.html",
+      "summary": "Galaxy A56 5G kết hợp công cụ AI Gemini Live mang đến trải nghiệm học thêm ‘tài lẻ” như làm bánh, đồng thời giúp giới trẻ sáng tạo nội dung chia sẻ mạng xã hội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T11:00:00+07:00",
+      "fetched": "2025-10-02T19:32:24.963243+07:00"
+    },
+    {
+      "id": "5d4fd3888cf2c5a6e0a39439907e9448",
+      "title": "Arteta: 'Arsenal đủ chiều sâu để chinh phục Champions League'",
+      "link": "https://vnexpress.net/arteta-arsenal-du-chieu-sau-de-chinh-phuc-champions-league-4946543.html",
+      "summary": "Sau trận thắng Olympiakos 2-0 ở lượt hai, HLV HLV Mikel Arteta cho rằng chiều sâu đội hình hiện tại sẽ là chìa khóa giúp Arsenal tiến xa hơn tại Champions League mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T10:41:37+07:00",
+      "fetched": "2025-10-02T19:32:27.117161+07:00"
     },
     {
       "id": "d0c281ae66dd768399bf8bcef02d54f7",
@@ -1171,6 +1661,16 @@ window.newsData_2025_10_02 = {
       "category": "Công nghệ",
       "published": "2025-10-02T08:11:46+07:00",
       "fetched": "2025-10-02T17:16:24.541904+07:00"
+    },
+    {
+      "id": "1c4b8cd8bcf304bc50d0210baaca8fd3",
+      "title": "Mua bán tài sản mã hóa đang hình thành 'chợ đen' quy mô lớn",
+      "link": "https://vnexpress.net/mua-ban-tai-san-ma-hoa-dang-hinh-thanh-cho-den-quy-mo-lon-4946446.html",
+      "summary": "Thượng tá Nguyễn Thành Chung cảnh báo hoạt động mua bán tài sản mã hóa ở Việt Nam đang hình thành những \"chợ đen\" quy mô lớn, tiềm ẩn nhiều rủi ro.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T08:11:46+07:00",
+      "fetched": "2025-10-02T19:32:24.960900+07:00"
     },
     {
       "id": "b5fdfa8a64fdbeb24c0740f9733b1273",
