@@ -1,6 +1,6 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T09:55:16.496431+07:00",
+  "lastUpdated": "2025-10-02T11:18:49.416738+07:00",
   "articles": [
     {
       "id": "7301269795cc3ba293246f15747ec00d",
@@ -293,6 +293,396 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T08:12:02.714923+07:00"
     },
     {
+      "id": "e5f78ac8552d7fcfaa29cc52c469865f",
+      "title": "Sự kiện chính trị quan trọng của tỉnh Lâm Đồng",
+      "link": "https://thanhnien.vn/su-kien-chinh-tri-quan-trong-cua-tinh-lam-dong-185251002102323738.htm",
+      "summary": "Bộ Chính trị sẽ chỉ định nhân sự Ban Chấp hành, Ban Thường vụ, Bí thư, Phó bí thư, Ủy ban Kiểm tra… của Đảng bộ tỉnh Lâm Đồng tại Đại hội đại biểu Đảng bộ tỉnh Lâm Đồng lần thứ 1, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:18:00+07:00",
+      "fetched": "2025-10-02T11:18:40.219700+07:00"
+    },
+    {
+      "id": "d13a96ca989e3d134e52655bfb6f7ae0",
+      "title": "Thú săn ‘lộc trời’ nấm mối: May rủi, hiểm nguy và cuộc cạnh tranh thầm lặng",
+      "link": "https://thanhnien.vn/thu-san-loc-troi-nam-moi-may-rui-hiem-nguy-va-cuoc-canh-tranh-tham-lang-185251002083601742.htm",
+      "summary": "Thú săn nấm mối đang nở rộ ở nhiều tỉnh Nam bộ. Với thu nhập có thể lên đến hàng triệu đồng chỉ sau một đêm, không ít người dân đã đổ xô đi săn trong những đêm mưa, biến thú vui này thành nghề tay trái hái ra tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:18:00+07:00",
+      "fetched": "2025-10-02T11:18:40.219870+07:00"
+    },
+    {
+      "id": "b5b10f657189305b4abfe54c203fbfb2",
+      "title": "Sun Group đầu tư hơn 38.000 tỉ cho 3 dự án đô thị ở Quảng Trị",
+      "link": "https://thanhnien.vn/sun-group-dau-tu-hon-38000-ti-cho-3-du-an-do-thi-o-quang-tri-185251002110129669.htm",
+      "summary": "3 dự án đô thị hỗn hợp tại Quảng Trị do Sun Group đầu tư kỳ vọng mở ra chu kỳ phát triển mới cho địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:12:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220026+07:00"
+    },
+    {
+      "id": "74ef263cddaaf56a6d9d56b9494aa7a9",
+      "title": "De Heus mua lại toàn bộ 17 nhà máy thức ăn chăn nuôi của CJ Feed",
+      "link": "https://thanhnien.vn/de-heus-mua-lai-toan-bo-17-nha-may-thuc-an-chan-nuoi-cua-cj-feed-185251002110903383.htm",
+      "summary": "Tập đoàn Hoàng gia De Heus (Hà Lan) vừa chính thức ký kết thỏa thuận mua lại 100% cổ phần của Tập đoàn CJ Feed & Care (Hàn Quốc)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:10:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220185+07:00"
+    },
+    {
+      "id": "3e2009b2600302958188d1663485fa01",
+      "title": "'Quý bà linh trưởng' Jane Goodall qua đời",
+      "link": "https://thanhnien.vn/quy-ba-linh-truong-jane-goodall-qua-doi-18525100210483525.htm",
+      "summary": "Nhà khoa học và nhà hoạt động toàn cầu Jane Goodall, người biến tình yêu linh trưởng từ thuở nhỏ thành sứ mệnh cả đời bảo vệ môi trường, đã qua đời ở tuổi 91, theo thông báo từ tổ chức do bà sáng lập vào ngày 1.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:02:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220367+07:00"
+    },
+    {
+      "id": "9ad9c24434e3669516d6779cdf59c499",
+      "title": "Mỹ có thể sắp chuyển tin tình báo để Ukraine tập kích lãnh thổ Nga",
+      "link": "https://vnexpress.net/my-co-the-sap-chuyen-tin-tinh-bao-de-ukraine-tap-kich-lanh-tho-nga-4946251.html",
+      "summary": "Báo Mỹ nói rằng chính quyền Trump sắp lần đầu cung cấp tin tình báo để giúp Ukraine phóng tên lửa vào hạ tầng năng lượng sâu trong đất Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:54:17+07:00",
+      "fetched": "2025-10-02T11:18:36.971992+07:00"
+    },
+    {
+      "id": "9ad9c24434e3669516d6779cdf59c499",
+      "title": "Mỹ có thể sắp chuyển tin tình báo để Ukraine tập kích lãnh thổ Nga",
+      "link": "https://vnexpress.net/my-co-the-sap-chuyen-tin-tinh-bao-de-ukraine-tap-kich-lanh-tho-nga-4946251.html",
+      "summary": "Báo Mỹ nói rằng chính quyền Trump sắp lần đầu cung cấp tin tình báo để giúp Ukraine phóng tên lửa vào hạ tầng năng lượng sâu trong đất Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:54:17+07:00",
+      "fetched": "2025-10-02T11:18:42.600709+07:00"
+    },
+    {
+      "id": "a13412f8cd0c61d277aefb460b5f38be",
+      "title": "Làm giàu từ mô hình nuôi ba kết hợp trồng lúa và sầu riêng",
+      "link": "https://thanhnien.vn/lam-giau-tu-mo-hinh-nuoi-ba-ket-hop-trong-lua-va-sau-rieng-185251001181348026.htm",
+      "summary": "Từ con ba ba, ông Trần Hồng Quan (53 tuổi, ngụ TP.Cần Thơ) nghĩ ra mô hình kinh tế có sự kết nối bất ngờ với vườn sầu riêng và ruộng lúa, mang lại thu nhập tiền tỉ mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:52:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220523+07:00"
+    },
+    {
+      "id": "3e9a037583814d1079370eedcb8ec749",
+      "title": "Vua Lê nào có 4 con trai đều làm vua?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vua-le-nao-co-4-con-trai-deu-lan-luot-lam-vua-4945383.html",
+      "summary": "Với 4 người con thay nhau làm vua, vị vua này cùng với Trần Minh Tông là hai vị vua có nhiều con làm vua nhất trong sử Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:51:30+07:00",
+      "fetched": "2025-10-02T11:18:36.972173+07:00"
+    },
+    {
+      "id": "5f0798efcb6b580be4043df6a259a6c8",
+      "title": "Pháp lục soát tàu chở dầu nghi liên quan 'hạm đội bóng tối' của Nga",
+      "link": "https://thanhnien.vn/phap-luc-soat-tau-cho-dau-nghi-lien-quan-ham-doi-bong-toi-cua-nga-185251002100930545.htm",
+      "summary": "Truyền thông đưa tin binh sĩ Pháp đã lên và kiểm tra tàu chở dầu Boracay, con tàu bị nghi thuộc 'hạm đội bóng tối' tham gia vận chuyển dầu mỏ của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:49:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220673+07:00"
+    },
+    {
+      "id": "4e56021e3adf064497899b519413824b",
+      "title": "Công an tỉnh Cà Mau đề nghị cung cấp các dự án có sử dụng cây xanh",
+      "link": "https://thanhnien.vn/cong-an-tinh-ca-mau-de-nghi-cung-cap-cac-du-an-co-su-dung-cay-xanh-18525100209352748.htm",
+      "summary": "Công an tỉnh Cà Mau vừa có văn bản gửi các sở, ngành và ban quản lý dự án trên địa bàn đề nghị cung cấp thông tin về những dự án có sử dụng cây xanh từ năm 2021 đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:49:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220831+07:00"
+    },
+    {
+      "id": "4bf8907ec79147e1fb48326e90ca7c8e",
+      "title": "Cà Mau phê duyệt dự án khu đô thị mới gần 3.000 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-phe-duyet-du-an-khu-do-thi-moi-gan-3000-ti-dong-185251001183320409.htm",
+      "summary": "UBND tỉnh Cà Mau vừa chấp thuận chủ trương đầu tư dự án xây dựng Khu đô thị mới khóm Bào Sơn, P.Lý Văn Lâm, dự kiến triển khai trong 60 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:46:00+07:00",
+      "fetched": "2025-10-02T11:18:40.220985+07:00"
+    },
+    {
+      "id": "629951736ca5c452dc77a8ca02f73184",
+      "title": "Cứ 3 phụ nữ Việt mắc ung thư, có một bị ung thư vú",
+      "link": "https://vnexpress.net/cu-3-phu-nu-viet-mac-ung-thu-co-mot-bi-ung-thu-vu-4946266.html",
+      "summary": "Ung thư vú chiếm gần 29% tổng số ca bệnh ung thư ở nữ giới Việt Nam, tức cứ ba phụ nữ được chẩn đoán thì có một người mắc bệnh này, theo Tổ chức Ung thư toàn cầu (GLOBOCAN).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:45:27+07:00",
+      "fetched": "2025-10-02T11:18:36.972362+07:00"
+    },
+    {
+      "id": "27275fd3373bd05cc515ba39174945ec",
+      "title": "TP.HCM mời doanh nghiệp đăng ký làm nhà ở thương mại theo cơ chế thí điểm",
+      "link": "https://thanhnien.vn/tphcm-moi-doanh-nghiep-dang-ky-lam-nha-o-thuong-mai-theo-co-che-thi-diem-185251002103631005.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM đã phát đi thông báo về việc đăng ký thực hiện dự án nhà ở thương mại theo Nghị quyết số 171 của Quốc hội. Đây là lần thứ 2 thành phố ra thông báo cho các doanh nghiệp đăng ký tham gia đăng ký dự án thí điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:45:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221139+07:00"
+    },
+    {
+      "id": "c7a16427515ef478abc86442b8a76efa",
+      "title": "Nhà linh trưởng học nổi tiếng thế giới qua đời ở tuổi 91",
+      "link": "https://vnexpress.net/nha-linh-truong-hoc-noi-tieng-the-gioi-qua-doi-o-tuoi-91-4946309.html",
+      "summary": "Nhà linh trưởng học người Anh Jane Goodall với 60 năm kinh nghiệm nghiên cứu tinh tinh qua đời ở tuổi 91.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:44:55+07:00",
+      "fetched": "2025-10-02T11:18:36.972527+07:00"
+    },
+    {
+      "id": "c7a16427515ef478abc86442b8a76efa",
+      "title": "Nhà linh trưởng học nổi tiếng thế giới qua đời ở tuổi 91",
+      "link": "https://vnexpress.net/nha-linh-truong-hoc-noi-tieng-the-gioi-qua-doi-o-tuoi-91-4946309.html",
+      "summary": "Nhà linh trưởng học người Anh Jane Goodall với 60 năm kinh nghiệm nghiên cứu tinh tinh qua đời ở tuổi 91.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T03:44:55+07:00",
+      "fetched": "2025-10-02T11:18:47.509025+07:00"
+    },
+    {
+      "id": "30c2c0eaa855bb490e77f9e9b704d84f",
+      "title": "Cổ đông nhiều ngân hàng sắp đón nhận hàng ngàn tỉ đồng cổ tức",
+      "link": "https://thanhnien.vn/co-dong-nhieu-ngan-hang-sap-don-nhan-hang-ngan-ti-dong-co-tuc-18525100209553545.htm",
+      "summary": "Nhiều ngân hàng thông báo chốt danh sách cổ đông để chia cổ tức tiền mặt với hàng ngàn tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:44:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221286+07:00"
+    },
+    {
+      "id": "a2904e4942a0cfb47b23793db6a2c3e8",
+      "title": "Loạt đại học hỗ trợ sinh viên sau bão Bualoi",
+      "link": "https://vnexpress.net/loat-dai-hoc-ho-tro-sinh-vien-sau-bao-bualoi-4946258.html",
+      "summary": "Nhiều trường như Ngoại thương, Bách khoa, Công nghệ Bưu chính viễn thông dự kiến hỗ trợ 1-10 triệu đồng cho mỗi sinh viên có gia đình bị ảnh hưởng bởi bão Bualoi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:42:24+07:00",
+      "fetched": "2025-10-02T11:18:36.972688+07:00"
+    },
+    {
+      "id": "016247c0fb92d4d29d07df4ee0959f6f",
+      "title": "Shark Bình bị tố ngược là người chỉ đạo rút thanh khoản, khiến AntEx sập",
+      "link": "https://thanhnien.vn/shark-binh-bi-to-nguoc-la-nguoi-chi-dao-rut-thanh-khoan-khien-antex-sap-185251001105038237.htm",
+      "summary": "Ông Nguyễn Hòa Bình (Shark Bình) bị tố là người đứng sau, chỉ đạo việc rút thanh khoản của dự án AntEx. Người này sẵn sàng đối chứng trước pháp luật nhưng ông Bình nêu lý do công an không xử lý được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:42:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221456+07:00"
+    },
+    {
+      "id": "8834014c4d51046a1b34ad4ffc29be2d",
+      "title": "Nghệ sĩ Trần Hiếu nhập viện",
+      "link": "https://vnexpress.net/nghe-si-tran-hieu-nhap-vien-4946318.html",
+      "summary": "Nghệ sĩ Trần Hiếu, 89 tuổi, nằm viện hơn 20 ngày vì ung thư di căn gây nhiễm trùng, suy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:39:56+07:00",
+      "fetched": "2025-10-02T11:18:36.972847+07:00"
+    },
+    {
+      "id": "b51ac0c3bc6c01b3f2f72fd1d531dc56",
+      "title": "Phát hiện vật thể liên sao bí ẩn đang lao nhanh trong hệ mặt trời",
+      "link": "https://thanhnien.vn/phat-hien-vat-the-lien-sao-bi-an-dang-lao-nhanh-trong-he-mat-troi-185251002102057394.htm",
+      "summary": "Vật thể liên sao bí ẩn được hình thành trong một hệ sao khác và trôi dạt vào hệ mặt trời, kèm theo những hiện tượng khác hẳn so với những sao chổi trong hệ mặt trời từng được biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:38:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221607+07:00"
+    },
+    {
+      "id": "aadf66c42616fd2abaa53fef8705f221",
+      "title": "Cơn sốt làm đẹp giữa đói nghèo ở Afghanistan",
+      "link": "https://vnexpress.net/con-sot-lam-dep-giua-doi-ngheo-o-afghanistan-4945303.html",
+      "summary": "Nhiều người Afghanistan không đủ tiền mua lương thực nhưng vẫn vay tiền đi tiêm botox, chất làm đầy và cấy tóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:36:53+07:00",
+      "fetched": "2025-10-02T11:18:36.973001+07:00"
+    },
+    {
+      "id": "aadf66c42616fd2abaa53fef8705f221",
+      "title": "Cơn sốt làm đẹp giữa đói nghèo ở Afghanistan",
+      "link": "https://vnexpress.net/con-sot-lam-dep-giua-doi-ngheo-o-afghanistan-4945303.html",
+      "summary": "Nhiều người Afghanistan không đủ tiền mua lương thực nhưng vẫn vay tiền đi tiêm botox, chất làm đầy và cấy tóc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:36:53+07:00",
+      "fetched": "2025-10-02T11:18:42.600882+07:00"
+    },
+    {
+      "id": "626b49c5ccc02e04263cf2295dc80de7",
+      "title": "Viêm gan B có lây từ mẹ sang con không?",
+      "link": "https://vnexpress.net/viem-gan-b-co-lay-tu-me-sang-con-khong-4946290.html",
+      "summary": "Tôi mắc bệnh viêm gan B mạn tính có lây truyền sang con không, làm gì để phòng ngừa? (Ngọc Nhung, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:30:00+07:00",
+      "fetched": "2025-10-02T11:18:36.973154+07:00"
+    },
+    {
+      "id": "199aeb499327d3be22727e9b2cb0cf12",
+      "title": "Vì sao có những người thường xuyên đi muộn?",
+      "link": "https://vnexpress.net/vi-sao-co-nhung-nguoi-thuong-xuyen-di-muon-4946317.html",
+      "summary": "Theo nghiên cứu, những người này có thể mắc hội chứng \"ảo tưởng lập kế hoạch\" (planning fallacy), không thể ước tính chính xác thời gian làm một việc gì đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:29:56+07:00",
+      "fetched": "2025-10-02T11:18:36.973332+07:00"
+    },
+    {
+      "id": "7f47cf802d9926dbd621271fdf95b3b3",
+      "title": "Từ ngày 10.10 người dân muốn mua vàng có gì mới?",
+      "link": "https://thanhnien.vn/tu-ngay-1010-nguoi-dan-muon-mua-vang-co-gi-moi-185251002101138255.htm",
+      "summary": "Từ ngày 10.10 Nghị định 232/2025 của Chính phủ về hoạt động kinh doanh vàng có hiệu lực sẽ có một số điểm mới người mua vàng cần để ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:27:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221753+07:00"
+    },
+    {
+      "id": "0f57ecb8ea3aa964f0b12f72039a7009",
+      "title": "Vụ nghi 'ngăn đưa học sinh bị ngộ độc đi bệnh viện': Tạm đình chỉ phó hiệu trưởng",
+      "link": "https://thanhnien.vn/vu-ngan-dua-hoc-sinh-bi-ngo-doc-di-benh-vien-tam-dinh-chi-pho-hieu-truong-185251002093656418.htm",
+      "summary": "Chính quyền xã Kim Ngân (Quảng Trị) đã có quyết định tạm đình chỉ công việc 15 ngày đối với bà Đỗ Thị Hồng Huế, Phó hiệu trưởng Trường PTDT bán trú tiểu học Kim Thủy, sau rất nhiều ồn ào ở ngôi trường này gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:27:00+07:00",
+      "fetched": "2025-10-02T11:18:40.221907+07:00"
+    },
+    {
+      "id": "9c345d6b9c307fde54985c7ad949e561",
+      "title": "Trang sức cưới triệu USD của Selena Gomez",
+      "link": "https://vnexpress.net/trang-suc-cuoi-trieu-usd-cua-selena-gomez-4945851.html",
+      "summary": "Vợ chồng ca sĩ Selena Gomez tập trung đầu tư vào trang sức xa xỉ thay vì trang phục trong lễ cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:25:28+07:00",
+      "fetched": "2025-10-02T11:18:36.973507+07:00"
+    },
+    {
+      "id": "d75add96bb57445c06fdba048b5e24f7",
+      "title": "Phạm Băng Băng tranh giải Nữ chính xuất sắc",
+      "link": "https://vnexpress.net/pham-bang-bang-tranh-giai-nu-chinh-xuat-sac-4946245.html",
+      "summary": "Diễn viên Trung Quốc Phạm Băng Băng được đề cử Nữ diễn viên chính xuất sắc nhờ phim \"Địa mẫu\", ở lễ trao giải Kim Mã 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:25:08+07:00",
+      "fetched": "2025-10-02T11:18:36.973662+07:00"
+    },
+    {
+      "id": "c82d3d0b231cfbd1138bd1b95eb5512a",
+      "title": "Apple có thể đã dừng phát triển Vision Pro 'giá rẻ'",
+      "link": "https://vnexpress.net/apple-co-the-da-dung-phat-trien-vision-pro-gia-re-4946265.html",
+      "summary": "Apple được cho là đang dừng dự án Vision Pro thế hệ mới với giá rẻ để chuyển nguồn lực sang kính thông minh tương tự Meta Ray-Ban.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:24:07+07:00",
+      "fetched": "2025-10-02T11:18:36.973818+07:00"
+    },
+    {
+      "id": "c82d3d0b231cfbd1138bd1b95eb5512a",
+      "title": "Apple có thể đã dừng phát triển Vision Pro 'giá rẻ'",
+      "link": "https://vnexpress.net/apple-co-the-da-dung-phat-trien-vision-pro-gia-re-4946265.html",
+      "summary": "Apple được cho là đang dừng dự án Vision Pro thế hệ mới với giá rẻ để chuyển nguồn lực sang kính thông minh tương tự Meta Ray-Ban.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T03:24:07+07:00",
+      "fetched": "2025-10-02T11:18:47.509182+07:00"
+    },
+    {
+      "id": "ad6601154bd15aee06e9afaafdaf915a",
+      "title": "Hưng Yên yêu cầu đẩy nhanh tiến độ dự án sân golf thương hiệu Trump",
+      "link": "https://vnexpress.net/hung-yen-yeu-cau-day-nhanh-tien-do-du-an-san-golf-thuong-hieu-trump-4946196.html",
+      "summary": "UBND tỉnh Hưng Yên yêu cầu hoàn thành phê duyệt phương án bồi thường khu phức hợp sân golf, khách sạn mang thương hiệu Trump trong tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:20:21+07:00",
+      "fetched": "2025-10-02T11:18:36.973978+07:00"
+    },
+    {
+      "id": "1bc25984feb39a2bb91bc07993c8387d",
+      "title": "Haaland xem nhẹ việc chinh phục thành tích của Messi",
+      "link": "https://vnexpress.net/haaland-xem-nhe-viec-chinh-phuc-thanh-tich-cua-messi-4946234.html",
+      "summary": "Tiền đạo Erling Haaland không quan tâm tới thành tích cá nhân và trách bản thân phung phí cơ hội trong trận Man City hòa Monaco 2-2 ở Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:17:35+07:00",
+      "fetched": "2025-10-02T11:18:36.974131+07:00"
+    },
+    {
+      "id": "7b20e59854a9a5f10ead392b54ca77bd",
+      "title": "Haaland xem nhẹ việc vượt thành tích của Messi",
+      "link": "https://vnexpress.net/haaland-xem-nhe-viec-vuot-thanh-tich-cua-messi-4946234.html",
+      "summary": "Tiền đạo Erling Haaland không quan tâm tới thành tích cá nhân và trách bản thân phung phí cơ hội trong trận Man City hòa Monaco 2-2 ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T03:17:35+07:00",
+      "fetched": "2025-10-02T11:18:49.409543+07:00"
+    },
+    {
+      "id": "56d6b60ff10e3d291ecae5c967299bfd",
+      "title": "'Số doanh nghiệp bán dẫn tại Việt Nam tăng gấp đôi sau ba năm'",
+      "link": "https://vnexpress.net/so-doanh-nghiep-ban-dan-tai-viet-nam-tang-gap-doi-sau-ba-nam-4946208.html",
+      "summary": "Số công ty thiết kế chip tại Việt Nam tăng gấp đôi, công ty vật liệu tăng 3-4 lần sau ba năm, cùng sự xuất hiện của nhiều ông lớn, theo đại diện Trung tâm Đổi mới sáng tạo quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:08:15+07:00",
+      "fetched": "2025-10-02T11:18:36.974304+07:00"
+    },
+    {
+      "id": "56d6b60ff10e3d291ecae5c967299bfd",
+      "title": "'Số doanh nghiệp bán dẫn tại Việt Nam tăng gấp đôi sau ba năm'",
+      "link": "https://vnexpress.net/so-doanh-nghiep-ban-dan-tai-viet-nam-tang-gap-doi-sau-ba-nam-4946208.html",
+      "summary": "Số công ty thiết kế chip tại Việt Nam tăng gấp đôi, công ty vật liệu tăng 3-4 lần sau ba năm, cùng sự xuất hiện của nhiều ông lớn, theo đại diện Trung tâm Đổi mới sáng tạo quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T03:08:15+07:00",
+      "fetched": "2025-10-02T11:18:47.508525+07:00"
+    },
+    {
+      "id": "259053842aa01dc4d9cd8673a3dbee6b",
+      "title": "Lạc lối trong mê cung ngô ở California",
+      "link": "https://vnexpress.net/lac-loi-trong-me-cung-ngo-o-california-4946037.html",
+      "summary": "Khu mê cung ngô và bí ngô rộng hơn 16 ha ở Bắc California khiến du khách mất ít nhất 45 phút mới tìm được lối ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:00:22+07:00",
+      "fetched": "2025-10-02T11:18:42.601046+07:00"
+    },
+    {
+      "id": "584b74391c6743a603ba3a305f276597",
+      "title": "Flick: 'Sau 30 phút, PSG khiến Barca tan rã'",
+      "link": "https://vnexpress.net/flick-sau-30-phut-psg-khien-barca-tan-ra-4946199.html",
+      "summary": "HLV Hansi Flick thừa nhận Barca yếu hơn trong trận thua PSG 1-2 ở lượt hai vòng bảng Champions League, tối 1/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T02:56:23+07:00",
+      "fetched": "2025-10-02T11:18:49.409699+07:00"
+    },
+    {
+      "id": "8b0c588dadba5cd1cc3baeb0ba1551fc",
+      "title": "De Bruyne so sánh Hojlund với Haaland",
+      "link": "https://vnexpress.net/de-bruyne-so-sanh-hojlund-voi-haaland-4946269.html",
+      "summary": "Theo tiền vệ Napoli Kevin de Bruyne, Rasmus Hojlund có phong cách thi đấu tương tự đồng đội cũ ở Man City, Erling Haaland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T02:54:32+07:00",
+      "fetched": "2025-10-02T11:18:49.409855+07:00"
+    },
+    {
       "id": "c01d8784dd923ec3722cfd923a2790c8",
       "title": "Tổ chức lại Văn phòng đăng ký đất đai TP.HCM",
       "link": "https://thanhnien.vn/to-chuc-lai-van-phong-dang-ky-dat-dai-tphcm-185251002094522704.htm",
@@ -321,6 +711,16 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T02:49:00+07:00",
       "fetched": "2025-10-02T09:55:06.944569+07:00"
+    },
+    {
+      "id": "14e95500a42724e2aaf794ac56bea452",
+      "title": "Ba ngày sau vụ sập trường Indonesia, 59 người vẫn kẹt dưới đống đổ nát",
+      "link": "https://vnexpress.net/ba-ngay-sau-vu-sap-truong-indonesia-59-nguoi-van-ket-duoi-dong-do-nat-4946232.html",
+      "summary": "Sau khi trường ở Đông Java đổ sập hôm 29/9, lực lượng cứu hộ Indonesia đang chạy đua với thời gian để giải cứu 59 người còn mắc kẹt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T02:46:09+07:00",
+      "fetched": "2025-10-02T11:18:42.601206+07:00"
     },
     {
       "id": "2dbf72b6bd4a31480bd52279ec10f4b5",
@@ -1711,6 +2111,16 @@ window.newsData_2025_10_02 = {
       "category": "Thể thao",
       "published": "2025-10-01T17:00:00+07:00",
       "fetched": "2025-10-02T01:23:20.950856+07:00"
+    },
+    {
+      "id": "1e7ff5ba7a480267007b2f9046aa031e",
+      "title": "Nội bộ Real bị nghi lục đục",
+      "link": "https://vnexpress.net/noi-bo-real-bi-nghi-luc-duc-4946157.html",
+      "summary": "Federico Valverde được cho từ chối vào sân thi đấu, còn Vinicius ném chai nước khi bị thay ra, trong trận Real thắng Kairat Almaty 5-0 ở lượt hai Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T17:00:00+07:00",
+      "fetched": "2025-10-02T11:18:49.410802+07:00"
     },
     {
       "id": "887a382396a575095392ec9e8a44b4e7",
