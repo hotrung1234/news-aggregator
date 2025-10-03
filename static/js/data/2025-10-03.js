@@ -1,7 +1,157 @@
 window.newsData_2025_10_03 = {
   "date": "2025-10-03",
-  "lastUpdated": "2025-10-03T05:14:48.537151+07:00",
+  "lastUpdated": "2025-10-03T08:11:58.187461+07:00",
   "articles": [
+    {
+      "id": "b2296a52f136b68c9f57f5f92299f08d",
+      "title": "Vinicius mất giá thê thảm, Yamal vẫn độc chiếm ngôi đầu",
+      "link": "https://tuoitre.vn/vinicius-mat-gia-the-tham-yamal-van-doc-chiem-ngoi-dau-20251003031045954.htm",
+      "summary": "Theo công bố mới nhất của Transfermarkt, giá trị thị trường của cầu thủ người Brazil Vinicius đã giảm xuống còn 150 triệu euro. Và ngôi sao 18 tuổi Lamine Yamal vẫn giữ số 1 với 200 triệu euro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.481078+07:00",
+      "fetched": "2025-10-03T08:11:48.481187+07:00"
+    },
+    {
+      "id": "eaf2626e28124903478d5b54bb6e2261",
+      "title": "Bão Matmo vào Biển Đông hôm nay",
+      "link": "https://tuoitre.vn/bao-matmo-vao-bien-dong-hom-nay-20251002235039079.htm",
+      "summary": "Dự báo khoảng chiều tối nay (3-10), bão Matmo sẽ đi vào Biển Đông và trở thành cơn bão số 11 trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480950+07:00",
+      "fetched": "2025-10-03T08:11:48.481067+07:00"
+    },
+    {
+      "id": "53207e9d4b080684115bc80417c9a217",
+      "title": "Sự thật về tin người dân thấy con hổ ở Phú Thọ",
+      "link": "https://tuoitre.vn/su-that-ve-tin-nguoi-dan-thay-con-ho-o-phu-tho-20251002234139466.htm",
+      "summary": "Lãnh đạo UBND xã Ngọc Sơn (tỉnh Phú Thọ) khẳng định thông tin một con hổ xuất hiện trên địa bàn xã là 'không có cơ sở'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480812+07:00",
+      "fetched": "2025-10-03T08:11:48.480924+07:00"
+    },
+    {
+      "id": "3d8889d7af19316c24a32b28df0dfe1f",
+      "title": "Thanh Điền: Tim tôi như ngừng đập khi bác sĩ thông báo tôi có thể không thấy ánh sáng",
+      "link": "https://tuoitre.vn/thanh-dien-tim-toi-nhu-ngung-dap-khi-bac-si-thong-bao-toi-co-the-khong-thay-anh-sang-20251003001330957.htm",
+      "summary": "Nghệ sĩ Thanh Điền bất ngờ đăng clip trên trang cá nhân cho biết ông đã bị bác sĩ cảnh báo có thể mất  khả năng thấy ánh sáng bất cứ lúc nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480691+07:00",
+      "fetched": "2025-10-03T08:11:48.480802+07:00"
+    },
+    {
+      "id": "cac7ffe7dd8352acf59e2a3f512e85bc",
+      "title": "Sáu họa sĩ hòa nhịp sáng tạo cùng Bức sóng 2",
+      "link": "https://tuoitre.vn/sau-hoa-si-hoa-nhip-sang-tao-cung-buc-song-2-20251002154003936.htm",
+      "summary": "Tiếp nối thành công từ lần đầu, triển lãm nhóm 'Bức Sóng 2' vừa trở lại với gần 100 tác phẩm của sáu họa sĩ đương đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480570+07:00",
+      "fetched": "2025-10-03T08:11:48.480680+07:00"
+    },
+    {
+      "id": "df408b7dd04da98be1172b6371d491da",
+      "title": "Châu Thanh, Phượng Hằng, Cẩm Tiên - ba giọng ca vọng cổ hơi dài hội ngộ",
+      "link": "https://tuoitre.vn/chau-thanh-phuong-hang-cam-tien-ba-giong-ca-vong-co-hoi-dai-hoi-ngo-20251003053022961.htm",
+      "summary": "Tối 2-10, tại Nhà hát cải lương Trần Hữu Trang, khán giả mộ điệu cải lương vui mừng bắt gặp ba nghệ sĩ nổi bật kiểu ca vọng cổ hơi dài Châu Thanh, Phượng Hằng, Cẩm Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480448+07:00",
+      "fetched": "2025-10-03T08:11:48.480559+07:00"
+    },
+    {
+      "id": "5a4c6f5904ce1cf29eef0fa9ad080664",
+      "title": "Top 5 anime dành cho fan Silent Hill f: Những cơn ác mộng trong làn sương",
+      "link": "https://tuoitre.vn/top-5-anime-danh-cho-fan-silent-hill-f-nhung-con-ac-mong-trong-lan-suong-20251002154134577.htm",
+      "summary": "Silent Hill từ lâu đã là biểu tượng của dòng game kinh dị, sinh tồn, nơi nỗi sợ không chỉ đến từ những quái vật dị dạng mà còn từ chính tâm trí người chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480326+07:00",
+      "fetched": "2025-10-03T08:11:48.480437+07:00"
+    },
+    {
+      "id": "86ccdc9ec2cd77e60ee321664afc0297",
+      "title": "Đại hội đại biểu Đảng bộ Công an trung ương lần thứ VIII vững một niềm tin quyết thắng",
+      "link": "https://tuoitre.vn/dai-hoi-dai-bieu-dang-bo-cong-an-trung-uong-lan-thu-viii-vung-mot-niem-tin-quyet-thang-20251002144831542.htm",
+      "summary": "Đảng bộ Công an Trung ương và toàn lực lượng Công an nhân dân vững tin sẽ vượt qua mọi khó khăn thử thách, hoàn thành xuất sắc mọi nhiệm vụ chính trị với yêu cầu cao trong giai đoạn cách mạng mới, khẳng định vai trò lực lượng chủ công, nòng cốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480200+07:00",
+      "fetched": "2025-10-03T08:11:48.480314+07:00"
+    },
+    {
+      "id": "d4a1b6b38914b0a3dd6df8d69faf3376",
+      "title": "Tin tức thế giới 3-10: Nga cảnh báo sẽ thử hạt nhân; Ông Trump lại đòi sa thải nhân sự",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-3-10-nga-canh-bao-se-thu-hat-nhan-ong-trump-lai-doi-sa-thai-nhan-su-20251003060548111.htm",
+      "summary": "Tổng thống Nga cảnh báo nguy cơ leo thang nếu Mỹ gửi tên lửa Tomahawk cho Ukraine; Ông Trump sẽ vạch ‘lằn ranh đỏ’ cho Hamas về Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.480062+07:00",
+      "fetched": "2025-10-03T08:11:48.480188+07:00"
+    },
+    {
+      "id": "5fdf5a732f6dbc9d6957a0be57af31fa",
+      "title": "Đội của Thùy Linh có đương kim vô địch Olympic ra quân thất bại",
+      "link": "https://tuoitre.vn/doi-cua-thuy-linh-co-duong-kim-vo-dich-olympic-ra-quan-that-bai-20251003061545495.htm",
+      "summary": "Ở trận ra quân giải cầu lông đồng đội BDMNTN-XL (viết tắt: BXL), Nguyễn Thùy Linh cùng đồng đội không thể giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479899+07:00",
+      "fetched": "2025-10-03T08:11:48.480049+07:00"
+    },
+    {
+      "id": "b8657a9f237a1273c2a8a621445872c7",
+      "title": "Khai mạc ngày hội bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/khai-mac-ngay-hoi-bong-da-cong-nhan-vien-chuc-viet-nam-20251003065635386.htm",
+      "summary": "Ngày hội Giải bóng đá công nhân, viên chức Việt Nam 2025 đã chính thức khai màn với vòng loại đầu tiên ở khu vực miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479774+07:00",
+      "fetched": "2025-10-03T08:11:48.479887+07:00"
+    },
+    {
+      "id": "049fc4cd2a0fb7539a1ecfb472198b2f",
+      "title": "Diễn viên Fast and Furious và Transformers bị phát lệnh bắt khẩn cấp",
+      "link": "https://tuoitre.vn/dien-vien-fast-and-furious-va-transformers-bi-phat-lenh-bat-khan-cap-20251002213644802.htm",
+      "summary": "Ngày 22-9, chính quyền quận Fulton, bang Georgia (Mỹ) đã phát lệnh bắt giữ nam diễn viên Tyrese Gibson - ngôi sao của loạt phim Fast and Furious và Transformers - với cáo buộc ngược đãi động vật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479646+07:00",
+      "fetched": "2025-10-03T08:11:48.479763+07:00"
+    },
+    {
+      "id": "1fc031d267c59e9a442d271f4f0cd07f",
+      "title": "Trung Quốc nói về vũ khí của Campuchia trong xung đột với Thái Lan",
+      "link": "https://tuoitre.vn/trung-quoc-noi-ve-vu-khi-cua-campuchia-trong-xung-dot-voi-thai-lan-20251003065617352.htm",
+      "summary": "Đại sứ quán Trung Quốc tại Thái Lan đã ra tuyên bố chính thức bác bỏ những thông tin cho rằng Bắc Kinh cung cấp thiết bị quân sự cho Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479515+07:00",
+      "fetched": "2025-10-03T08:11:48.479634+07:00"
+    },
+    {
+      "id": "3a4af5f3a09d922f27cb1f0f3e70977f",
+      "title": "Xe giường nằm độc đáo: Có vách ngăn, khách phải thắt dây an toàn, chỉ có thể nằm khi xe đi",
+      "link": "https://tuoitre.vn/xe-giuong-nam-doc-dao-co-vach-ngan-khach-phai-that-day-an-toan-chi-co-the-nam-khi-xe-di-20251002111828823.htm",
+      "summary": "Một hình thức di chuyển mới lạ đang được Nhật Bản triển khai: xe giường nằm có thể nằm thẳng hoàn toàn, hứa hẹn mang đến giấc ngủ sâu cho hành khách trên hành trình đường dài. Tuy nhiên, một \"bất tiện\" lớn đang chờ đợi họ trên xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479374+07:00",
+      "fetched": "2025-10-03T08:11:48.479503+07:00"
+    },
+    {
+      "id": "f90791fc05766f0ce2afdadb1e5931b0",
+      "title": "Hàng nhãn riêng: Từ ngại thử đến nghiện mua...",
+      "link": "https://tuoitre.vn/hang-nhan-rieng-tu-ngai-thu-den-nghien-mua-20251003073058093.htm",
+      "summary": "Sau thời gian thuyết phục khách hàng thông qua giá tốt kèm chất lượng tin cậy, từ một khái niệm xa lạ, nay hàng nhãn riêng đang trở thành sự lựa chọn ưu tiên của nhiều người Việt khi mua sắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T08:11:48.479147+07:00",
+      "fetched": "2025-10-03T08:11:48.479359+07:00"
+    },
     {
       "id": "590db22ae11da7bb7c4fa657783947e0",
       "title": "Doanh nghiệp lo chi phí tăng thêm với giá điện hai thành phần",
@@ -211,6 +361,386 @@ window.newsData_2025_10_03 = {
       "category": "Tổng hợp",
       "published": "2025-10-03T01:22:51.827774+07:00",
       "fetched": "2025-10-03T01:22:51.827996+07:00"
+    },
+    {
+      "id": "d388e50a742293e72a184fcc95552267",
+      "title": "Võ Lâm Truyền Kỳ 2.0 PC: Hành trình kết nối cộng đồng game thủ 3 miền",
+      "link": "https://thanhnien.vn/vo-lam-truyen-ky-20-pc-hanh-trinh-ket-noi-cong-dong-game-thu-3-mien-185251002161634013.htm",
+      "summary": "Sự kiện offline quy mô lớn của Võ Lâm Truyền Kỳ 2.0 PC vừa khép lại thành công tại cả 3 miền Bắc – Trung – Nam, để lại dư âm khó quên trong lòng cộng đồng game thủ",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:09:00+07:00",
+      "fetched": "2025-10-03T08:11:47.321807+07:00"
+    },
+    {
+      "id": "a31cedb21751cdb6296e54070ad8c520",
+      "title": "Điều trị u tử cung không xâm lấn, bảo tồn chức năng sinh sản",
+      "link": "https://thanhnien.vn/dieu-tri-u-tu-cung-khong-xam-lan-bao-ton-chuc-nang-sinh-san-185251002201334701.htm",
+      "summary": "Theo GS-TS Nguyễn Viết Tiến, nguyên Giám đốc Bệnh viện Phụ sản T.Ư, Phó chủ tịch Tổng hội Y học VN, các khối u phụ khoa gây ảnh hưởng lớn đến sức khỏe và chất lượng sống của phụ nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:07:00+07:00",
+      "fetched": "2025-10-03T08:11:47.321994+07:00"
+    },
+    {
+      "id": "f05df54dfa5e16286e86ea5dd9281507",
+      "title": "Chủ tiệm gội đầu 'khóc thét' vì đón hàng chục khách VIP",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-chu-tiem-goi-dau-khoc-thet-vi-don-hang-chuc-khach-vip-4945541.html",
+      "summary": "Vừa mở cửa, chủ tiệm gội đầu đã vội 'bỏ của chạy lấy người' khi bất ngờ đón hơn hàng chục vị khách từ trên núi xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.737801+07:00"
+    },
+    {
+      "id": "e895b272c42a420fdb36b0949fe3638c",
+      "title": "Thiếu máu não thoáng qua do tăng huyết áp",
+      "link": "https://vnexpress.net/thieu-mau-nao-thoang-qua-do-tang-huyet-ap-4946663.html",
+      "summary": "Ông Tín, 55 tuổi, xuất hiện cơn thiếu máu não thoáng qua do huyết áp tăng cao 210/110 mmHg, triệu chứng giảm dần sau nằm nghỉ 5-10 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738000+07:00"
+    },
+    {
+      "id": "93a061476cf97956b5a98e37c1b1dcf8",
+      "title": "Giải pháp tích lũy iDepo VIB giúp khách hàng chủ động dòng vốn",
+      "link": "https://vnexpress.net/giai-phap-tich-luy-idepo-vib-giup-khach-hang-chu-dong-dong-von-4946630.html",
+      "summary": "Tiền gửi iDepo VIB có lãi suất đến 6,2% mỗi năm, cơ chế bảo toàn lãi khi cần vốn trước hạn, chuyển nhượng linh hoạt, giúp người gửi tiền sinh lời, duy trì sự chủ động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738173+07:00"
+    },
+    {
+      "id": "cbe564a52b80eeb4f8be22578492e9ce",
+      "title": "Thép Sata cung cấp tôn sóng phù hợp nhiều công trình",
+      "link": "https://vnexpress.net/thep-sata-cung-cap-ton-song-phu-hop-nhieu-cong-trinh-4946628.html",
+      "summary": "Thép Sata phân phối các dòng tôn sóng 5, 7 và 11 sóng, đáp ứng đa dạng công trình dân dụng, công nghiệp, với ưu điểm nhẹ, bền, thẩm mỹ cùng dịch vụ cắt theo yêu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738335+07:00"
+    },
+    {
+      "id": "691f252c240e644bf9a7b49c1e86af0f",
+      "title": "Doanh số Yaris Cross đạt kỷ lục trong tháng 9",
+      "link": "https://vnexpress.net/doanh-so-yaris-cross-dat-ky-luc-trong-thang-9-4946425.html",
+      "summary": "Toyota bán 1.964 chiếc Yaris Cross tháng 9, mức cao nhất từ khi ra mắt thị trường Việt Nam, nâng tổng doanh số cộng dồn từ đầu năm lên gần 9.700 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738491+07:00"
+    },
+    {
+      "id": "062d3ac1c6aa3bcaeb0fddaa41974e8d",
+      "title": "Kiến trúc boutique tối giản của khách sạn Amana",
+      "link": "https://vnexpress.net/kien-truc-boutique-toi-gian-cua-khach-san-amana-4946267.html",
+      "summary": "Amana Hotel sở hữu lối kiến trúc boutique tối giản, tinh tế ngay trung tâm Phan Thiết, cách bãi biển vài phút đi bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738645+07:00"
+    },
+    {
+      "id": "ac94b746626a681287e8e394ab72ff5a",
+      "title": "Viêm loét dạ dày ở tuổi thiếu niên",
+      "link": "https://vnexpress.net/viem-loet-da-day-o-tuoi-thieu-nien-4946211.html",
+      "summary": "Hoàng 16 tuổi và Trung 14 tuổi, đau bụng âm ỉ kéo dài không khỏi, bác sĩ khám chẩn đoán loét dạ dày tá tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:43.738802+07:00"
+    },
+    {
+      "id": "13d6a7641413990f798a26a20bf959ab",
+      "title": "Saint-Gobain lan tỏa trách nhiệm cộng đồng từ sáng kiến ‘Xây đắp điều diệu kỳ’",
+      "link": "https://thanhnien.vn/saint-gobain-lan-toa-trach-nhiem-cong-dong-tu-sang-kien-xay-dap-dieu-dieu-ky-185251002212903124.htm",
+      "summary": "Cộng hưởng sức mạnh tập thể từ đối tác, cửa hàng, thầu thợ đến đội ngũ nhân viên, Saint-Gobain Việt Nam triển khai sáng kiến \"Build Change - Xây đắp điều diệu kỳ\" bằng nhiều hoạt động, góp phần tạo ra những thay đổi tích cực tại nhiều tỉnh thành trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322155+07:00"
+    },
+    {
+      "id": "db293f7a9074c2f529ad5b739c15c1dd",
+      "title": "Tiên phong xu thế: upGrad mang chương trình bằng kép MBA & DBA đến Việt Nam",
+      "link": "https://thanhnien.vn/tien-phong-xu-the-upgrad-mang-chuong-trinh-bang-kep-mba-dba-den-viet-nam-185251002211703072.htm",
+      "summary": "upGrad lần đầu tiên mang đến lộ trình bằng kép MBA & DBA trực tuyến tại Việt Nam. Chương trình giúp học viên hoàn thành hai văn bằng quốc tế chỉ trong 30-40 tháng, tiết kiệm chi phí và mở rộng cơ hội nghề nghiệp, khẳng định vị thế của upGrad trong việc sát cánh cùng Việt Nam nâng cao tính cạnh tranh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322313+07:00"
+    },
+    {
+      "id": "83ba02d4d5047eb8bcaed36d004efd71",
+      "title": "Izumi Canaria: Khi thiên nhiên đa lớp giao hòa cùng kiến trúc",
+      "link": "https://thanhnien.vn/izumi-canaria-khi-thien-nhien-da-lop-giao-hoa-cung-kien-truc-185251002210547459.htm",
+      "summary": "Izumi Canaria - phân khu mới của đô thị tích hợp Izumi City được ví như một tuyên ngôn về nghệ thuật sống. Ở nơi đó, mỗi ngày cư dân tương lai được sống trọn vẹn trong từng khoảnh khắc, cảm nhận được từng hơi thở của thiên nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322463+07:00"
+    },
+    {
+      "id": "e3640b302034c390a09b413f3c13eee6",
+      "title": "Nỗ lực đưa giáo dục chuẩn quốc tế đến gần hơn với người Việt",
+      "link": "https://thanhnien.vn/no-luc-dua-giao-duc-chuan-quoc-te-den-gan-hon-voi-nguoi-viet-18525100220441928.htm",
+      "summary": "Trong bối cảnh hội nhập và chuyển đổi số mạnh mẽ, Viện Nghiên cứu Giáo dục và Kinh tế Quốc tế (ISIEE) đã và đang khẳng định vị thế là một tổ chức nghiên cứu uy tín, đáng tin cậy trong việc ứng dụng và chuyển giao các mô hình giáo dục tiên tiến vào thực tiễn tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322618+07:00"
+    },
+    {
+      "id": "68b30bf139e26c48ca16b1800e01a753",
+      "title": "Hàng nhãn riêng tại các siêu thị đang định hình lối mua sắm mới",
+      "link": "https://thanhnien.vn/hang-nhan-rieng-tai-cac-sieu-thi-dang-dinh-hinh-loi-mua-sam-moi-185251002202959298.htm",
+      "summary": "Không còn là khái niệm xa lạ, hàng nhãn riêng ngày nay đã trở thành sự lựa chọn tin cậy trong giỏ hàng của người tiêu dùng Việt. Nếu như trước đây, mức giá thấp từng khiến nhiều người dè dặt khi lựa chọn thì nay, bằng chiến lược phát triển bền bỉ và cam kết minh bạch, hàng nhãn riêng Saigon Co.op đã...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322769+07:00"
+    },
+    {
+      "id": "b1a8cabc960be170554ea66fed2359e2",
+      "title": "Những video ‘xúc phạm IQ người xem’",
+      "link": "https://thanhnien.vn/nhung-video-xuc-pham-iq-nguoi-xem-185251002183929196.htm",
+      "summary": "Thời gian gần đây, trên các nền tảng mạng xã hội xuất hiện nhiều video có nội dung nhảm nhí, câu view, được cư dân mạng gọi là video \"xúc phạm IQ người xem\". Những \"nội dung rác\" này xuất hiện tràn lan và gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.322916+07:00"
+    },
+    {
+      "id": "d504d5f127e38523c6ab16cd0f3d2454",
+      "title": "Monash Open Day 2025: Trang bị hành trang quốc tế cho sinh viên Việt",
+      "link": "https://thanhnien.vn/monash-open-day-2025-trang-bi-hanh-trang-quoc-te-cho-sinh-vien-viet-185251002181615618.htm",
+      "summary": "Ngày 11 và 12.10.25 Đại học Monash (Úc), một trong những trường nằm trong Top 50 thế giới (Bảng xếp hạng QS World University Rankings 2026), sẽ tổ chức sự kiện Monash Open Day 2025 tại Hà Nội và TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323084+07:00"
+    },
+    {
+      "id": "f968b4b6c87cc7e4e1dfeabb9186128d",
+      "title": "Thoái hóa khớp - cột sống: Chẩn đoán và điều trị toàn diện",
+      "link": "https://thanhnien.vn/thoai-hoa-khop-cot-song-chan-doan-va-dieu-tri-toan-dien-185251002162821317.htm",
+      "summary": "Thoái hóa khớp - cột sống là những bệnh lý cơ xương khớp phổ biến gây đau nhức, hạn chế vận động, giảm chất lượng sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323232+07:00"
+    },
+    {
+      "id": "ed723a532e7f912239f07b842cf9e56b",
+      "title": "Siêu phẩm LG OLED evo AI G5 giành giải TV AI xuất sắc tại AI Awards 2025",
+      "link": "https://thanhnien.vn/sieu-pham-lg-oled-evo-ai-g5-gianh-giai-tv-ai-xuat-sac-tai-ai-awards-2025-185251002161015846.htm",
+      "summary": "Nhờ khả năng ứng dụng AI vượt trội, mang đến những trải nghiệm giải trí được cá nhân hoá cho từng người dùng, siêu phẩm TV cao cấp OLED evo AI G5 vừa được vinh danh tại hạng mục TV AI xuất sắc của AI Awards 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323377+07:00"
+    },
+    {
+      "id": "1d84997656361463c9babdd5f0803fde",
+      "title": "Giữ mắt sáng, tim khỏe: Hành trình kiểm soát biến chứng đái tháo đường",
+      "link": "https://thanhnien.vn/giu-mat-sang-tim-khoe-hanh-trinh-kiem-soat-bien-chung-dai-thao-duong-185251002120001952.htm",
+      "summary": "Sống chung với bệnh đái tháo đường là một hành trình kéo dài, cần đến sự kiểm soát và quản lý chặt chẽ để phòng ngừa những biến chứng. Tại Bệnh viện Đại học Y Dược TP. Hồ Chí Minh, việc kiểm soát biến chứng đái tháo đường không còn là một cuộc chiến đơn lẻ. Đó là một mạng lưới điều trị đồng bộ, một ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323536+07:00"
+    },
+    {
+      "id": "6f997cbc4b2db386aebf3e5d99e8d2f7",
+      "title": "Váy midi tuy giản đơn nhưng lại đẹp xuất sắc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-midi-tuy-gian-don-nhung-lai-dep-xuat-sac-185250930103304106.htm",
+      "summary": "Vẻ đẹp gây ấn tượng mạnh mẽ nhất chính là vẻ đẹp của sự tinh giản. Các thiết kế váy midi đẹp xuất sắc dưới đây trải dài trên nhiều gam màu - từ tông pastel nhẹ nhàng đến các sắc màu trung tính vừa ấm áp lại vừa thu hút sự chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T01:00:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323688+07:00"
+    },
+    {
+      "id": "0e3667fa907e6bb28b08e42ad8e21816",
+      "title": "Tiêm kích Mỹ bị tố áp sát bờ biển Venezuela",
+      "link": "https://vnexpress.net/tiem-kich-my-bi-to-ap-sat-bo-bien-venezuela-4946648.html",
+      "summary": "Venezuela tuyên bố phát hiện 5 tiêm kích Mỹ bay gần bờ biển, gọi đây là \"hành động khiêu khích\" và \"mối đe dọa an ninh quốc gia\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:58:07+07:00",
+      "fetched": "2025-10-03T08:11:43.738974+07:00"
+    },
+    {
+      "id": "1ffd4f0b7de8587fd9015c4346410236",
+      "title": "Hình dáng cầu vượt vịnh Rạch Giá lấy cảm hứng từ mái tóc nữ anh hùng",
+      "link": "https://vnexpress.net/hinh-dang-cau-vuot-vinh-rach-gia-lay-cam-hung-tu-mai-toc-nu-anh-hung-4946576.html",
+      "summary": "Cầu vượt biển vịnh Rạch Giá dài 2,8 km, vốn đầu tư 3.900 tỷ đồng, được thiết kế lấy cảm hứng từ mái tóc anh hùng Phan Thị Ràng, khi hoàn thành kết nối với bán đảo Cà Mau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:56:43+07:00",
+      "fetched": "2025-10-03T08:11:43.739135+07:00"
+    },
+    {
+      "id": "cf9d5bbfab3bffbbff70070ec2e761ff",
+      "title": "Truy tố kẻ cầm đầu tổ chức khủng bố 'Chính phủ quốc gia Việt Nam lâm thời'",
+      "link": "https://thanhnien.vn/truy-to-ke-cam-dau-to-chuc-khung-bo-chinh-phu-quoc-gia-viet-nam-lam-thoi-185251002225031664.htm",
+      "summary": "Viện KSND tối cao truy tố Đào Minh Quân, người cầm đầu tổ chức khủng bố 'Chính phủ quốc gia Việt Nam lâm thời', cùng nhiều bị can khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:54:00+07:00",
+      "fetched": "2025-10-03T08:11:47.323844+07:00"
+    },
+    {
+      "id": "7166698eb8254d7292da4090141f8a3e",
+      "title": "Thi hành án hơn 150.000 tỉ, nhiều vụ 'quy mô chưa từng có'",
+      "link": "https://thanhnien.vn/thi-hanh-an-hon-150000-ti-nhieu-vu-quy-mo-chua-tung-co-185251003072327005.htm",
+      "summary": "Vụ án Trương Mỹ Lan 'quy mô chưa từng có', với hơn 43.000 người bị hại, giá trị thi hành án hơn 50.000 tỉ đồng cùng hàng nghìn bất động sản phải xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:50:00+07:00",
+      "fetched": "2025-10-03T08:11:47.324012+07:00"
+    },
+    {
+      "id": "834ea66b96187e049d576faf236dbb17",
+      "title": "Làm gì để có bữa sáng ngon miệng, lành mạnh?",
+      "link": "https://vnexpress.net/lam-gi-de-co-bua-sang-ngon-mieng-lanh-manh-4946284.html",
+      "summary": "Gia đình tôi có ít thời gian chuẩn bị bữa sáng nên hay ăn qua loa, vậy làm thế nào để có bữa sáng vừa ngon miệng lại lành mạnh? (Thùy, 38 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:41:47+07:00",
+      "fetched": "2025-10-03T08:11:43.739286+07:00"
+    },
+    {
+      "id": "e19be953f1c871bddef29ed772f5757e",
+      "title": "Tiêm kích F-35 Hà Lan khoe thành tích hạ 'UAV Nga'",
+      "link": "https://vnexpress.net/tiem-kich-f-35-ha-lan-khoe-thanh-tich-ha-uav-nga-4946531.html",
+      "summary": "Tiêm kích F-35 Hà Lan sơn biểu tượng có hình giống UAV Nga, dường như là phi cơ đã đánh chặn phi cơ xâm nhập Ba Lan tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:28:23+07:00",
+      "fetched": "2025-10-03T08:11:43.739455+07:00"
+    },
+    {
+      "id": "e19be953f1c871bddef29ed772f5757e",
+      "title": "Tiêm kích F-35 Hà Lan khoe thành tích hạ 'UAV Nga'",
+      "link": "https://vnexpress.net/tiem-kich-f-35-ha-lan-khoe-thanh-tich-ha-uav-nga-4946531.html",
+      "summary": "Tiêm kích F-35 Hà Lan sơn biểu tượng có hình giống UAV Nga, dường như là phi cơ đã đánh chặn phi cơ xâm nhập Ba Lan tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-03T00:28:23+07:00",
+      "fetched": "2025-10-03T08:11:50.147254+07:00"
+    },
+    {
+      "id": "086063600fe3f1b2025bcc6bd660ab7c",
+      "title": "Quá tải ôtô, xe máy 'đi bệnh viện' vì ngập nước",
+      "link": "https://vnexpress.net/qua-tai-oto-xe-may-di-benh-vien-vi-ngap-nuoc-4946621.html",
+      "summary": "Hàng loạt xe nằm chờ tới lượt sửa chữa tại các garage, nhẹ chỉ cần vệ sinh, nặng phải tháo toàn bộ nội thất, hạ máy thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:05:40+07:00",
+      "fetched": "2025-10-03T08:11:43.739610+07:00"
+    },
+    {
+      "id": "6517a2e60120ab5804d675b495967fbd",
+      "title": "Ông Putin: Nếu Nga là hổ giấy thì NATO sẽ là gì?",
+      "link": "https://vnexpress.net/ong-putin-neu-nga-la-ho-giay-thi-nato-se-la-gi-4946646.html",
+      "summary": "Ông Putin phản bác phát biểu của ông Trump rằng Nga là \"hổ giấy\", đồng thời cảnh báo hậu quả nếu Washington cung cấp tên lửa Tomahawk cho Kiev.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T00:03:01+07:00",
+      "fetched": "2025-10-03T08:11:43.739760+07:00"
+    },
+    {
+      "id": "6517a2e60120ab5804d675b495967fbd",
+      "title": "Ông Putin: Nếu Nga là hổ giấy thì NATO sẽ là gì?",
+      "link": "https://vnexpress.net/ong-putin-neu-nga-la-ho-giay-thi-nato-se-la-gi-4946646.html",
+      "summary": "Ông Putin phản bác phát biểu của ông Trump rằng Nga là \"hổ giấy\", đồng thời cảnh báo hậu quả nếu Washington cung cấp tên lửa Tomahawk cho Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-03T00:03:01+07:00",
+      "fetched": "2025-10-03T08:11:50.147433+07:00"
+    },
+    {
+      "id": "055ec98d6d4ff497eae0f8a54e24ff8f",
+      "title": "Bão Matmo hôm nay vào Biển Đông",
+      "link": "https://vnexpress.net/bao-matmo-hom-nay-vao-bien-dong-4946644.html",
+      "summary": "Đổ bộ đảo Luzon, Philippines trưa nay với sức gió cấp 9, bão Matmo sau đó vào Biển Đông và dự báo tăng lên cấp 11 khi vào vịnh Bắc Bộ ngày 6/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T23:49:17+07:00",
+      "fetched": "2025-10-03T08:11:43.739915+07:00"
+    },
+    {
+      "id": "725bac548cf429799539ea4842154e31",
+      "title": "Điểm tin 6h: Bitcoin tăng vọt | Lao xe, đâm dao tại giáo đường Do Thái ở Anh",
+      "link": "https://vnexpress.net/diem-tin-6h-bitcoin-tang-vot-lao-xe-dam-dao-tai-giao-duong-do-thai-o-anh-4946647.html",
+      "summary": "Cấp 2.500 tỷ đồng hỗ trợ địa phương ảnh hưởng bão Bualoi; Ông Trump tìm thỏa thuận với doanh nghiệp 30 ngành trọng điểm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T23:27:08+07:00",
+      "fetched": "2025-10-03T08:11:43.740127+07:00"
+    },
+    {
+      "id": "77ab37261906e37921e13ae52b5ecec6",
+      "title": "HLV tuyển Saudi chạy bộ để kêu gọi đoàn kết vì giấc mơ World Cup",
+      "link": "https://vnexpress.net/hlv-tuyen-saudi-chay-bo-de-keu-goi-doan-ket-vi-giac-mo-world-cup-4946632.html",
+      "summary": "HLV Herve Renard mượn hình ảnh chạy bộ để kêu gọi sự đoàn kết khi Arab Saudi chuẩn bị bước vào vòng loại bốn World Cup 2026 khu vực châu Á, đồng thời nhớ lại chiến thắng lịch sử trước Argentina năm 2022.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T23:06:43+07:00",
+      "fetched": "2025-10-03T08:11:58.182355+07:00"
+    },
+    {
+      "id": "493b3e4ecfdc166a4fefcd2123b22744",
+      "title": "Haaland đáng sợ thế nào ở Champions League",
+      "link": "https://vnexpress.net/haaland-dang-so-the-nao-o-champions-league-4946639.html",
+      "summary": "Với 52 bàn thắng trong 50 trận, tiền đạo 25 tuổi Erling Haaland đang có hiệu suất cao nhất lịch sử Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T22:51:58+07:00",
+      "fetched": "2025-10-03T08:11:58.181534+07:00"
+    },
+    {
+      "id": "1d420193df868e93fdebe5198a0f3e2e",
+      "title": "Những 'người thừa' của Man Utd tỏa sáng ở Champions League",
+      "link": "https://vnexpress.net/nhung-nguoi-thua-cua-man-utd-toa-sang-o-champions-league-4946637.html",
+      "summary": "Lượt trận thứ hai Champions League chứng kiến loạt cầu thủ từng chơi cho Man Utd tỏa sáng, như Rasmus Hojlund, Anthony Elanga, Marcel Sabitzer hay Marcus Rashford.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T22:46:49+07:00",
+      "fetched": "2025-10-03T08:11:58.181705+07:00"
+    },
+    {
+      "id": "1ffe6c815f2434c5e1b7c56cc238e6d4",
+      "title": "Cầu thủ PSG đáp trả thông điệp thách thức của Yamal",
+      "link": "https://vnexpress.net/cau-thu-psg-dap-tra-thong-diep-thach-thuc-cua-yamal-4946634.html",
+      "summary": "Các cầu thủ PSG và truyền thông Pháp nhắm vào Lamine Yamal, sau trận thắng 2-1 ngay trên sân Barca ở lượt hai Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T22:42:23+07:00",
+      "fetched": "2025-10-03T08:11:58.181867+07:00"
+    },
+    {
+      "id": "83af8557bbd90efaca8f0b6a33739856",
+      "title": "Man Utd được khuyên không bổ nhiệm Oliver Glasner",
+      "link": "https://vnexpress.net/man-utd-duoc-khuyen-khong-bo-nhiem-oliver-glasner-4946635.html",
+      "summary": "Theo cựu danh thủ Paul Merson, HLV Oliver Glasner - người đang giúp Crystal Palace bay cao - không phải sự lựa chọn phù hợp cho Man Utd nếu sa thải Ruben Amorim.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T22:37:21+07:00",
+      "fetched": "2025-10-03T08:11:58.182202+07:00"
+    },
+    {
+      "id": "cfca120aa1eefe675ae6ea0e1a853c31",
+      "title": "Roma 3 lần đá hỏng phạt đền khi thua ở Europa League",
+      "link": "https://vnexpress.net/roma-3-lan-da-hong-phat-den-khi-thua-o-europa-league-4946643.html",
+      "summary": "Roma đá hỏng ba quả phạt đền, với hai lần đá lại và thay đổi người sút, trong trận thua đội khách Lille 0-1 ở lượt hai Europa League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T22:34:30+07:00",
+      "fetched": "2025-10-03T08:11:58.182044+07:00"
     },
     {
       "id": "27be56d43fa5fda58d88cfc833014d8c",
