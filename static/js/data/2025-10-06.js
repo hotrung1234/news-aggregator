@@ -1,7 +1,37 @@
 window.newsData_2025_10_06 = {
   "date": "2025-10-06",
-  "lastUpdated": "2025-10-06T01:20:34.121884+07:00",
+  "lastUpdated": "2025-10-06T03:16:17.415540+07:00",
   "articles": [
+    {
+      "id": "81ecfb1997aa20e3d9065286bc7ac2c6",
+      "title": "Lewandowski đá hỏng phạt đền, Barca nhận thất bại nặng nề nhất mùa này",
+      "link": "https://tuoitre.vn/lewandowski-da-hong-phat-den-barca-nhan-that-bai-nang-ne-nhat-mua-nay-20251005235318381.htm",
+      "summary": "Lewandowski là tội đồ của Barca ở trận gặp Sevilla khi sút hỏng quả phạt đền ở phút 76.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:16:10.693126+07:00",
+      "fetched": "2025-10-06T03:16:10.693266+07:00"
+    },
+    {
+      "id": "a9a62aa020619f978bf656ae68eb1c9c",
+      "title": "Haaland 'không thể tạm dừng' với bàn thắng thứ 16 trong 9 trận đưa Man City trở lại top 5",
+      "link": "https://tuoitre.vn/haaland-khong-the-tam-dung-voi-ban-thang-thu-16-trong-9-tran-dua-man-city-tro-lai-top-5-20251006000820866.htm",
+      "summary": "Tiền đạo Erling Haaland đã ghi bàn thắng duy nhất giúp Man City đánh bại Brentford 1-0 đêm 5-10 ở vòng 7 Premier League. Đây là bàn thắng thứ 16 trong 9 trận liên tiếp của Haaland cho Man City và đội tuyển Na Uy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:16:10.692981+07:00",
+      "fetched": "2025-10-06T03:16:10.693113+07:00"
+    },
+    {
+      "id": "3c22528782a4d9729382e0f18d29cf47",
+      "title": "Bão Matmo cách Quảng Ninh 70km, gió bắt đầu mạnh dần lên",
+      "link": "https://tuoitre.vn/bao-matmo-cach-quang-ninh-70km-gio-bat-dau-manh-dan-len-20251005235723602.htm",
+      "summary": "0h sáng 6-10, tâm bão Matmo còn cách Móng Cái (Quảng Ninh) khoảng 70km về phía đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:16:10.692751+07:00",
+      "fetched": "2025-10-06T03:16:10.692965+07:00"
+    },
     {
       "id": "73121eee37367b0c187e5b7dc320a8a2",
       "title": "Bế mạc Đại hội đại biểu Đảng bộ Công an Trung ương lần thứ VIII",
@@ -151,6 +181,76 @@ window.newsData_2025_10_06 = {
       "category": "Tổng hợp",
       "published": "2025-10-06T01:20:27.849220+07:00",
       "fetched": "2025-10-06T01:20:27.849429+07:00"
+    },
+    {
+      "id": "0bed12bff978f763fe8ba0d156397a58",
+      "title": "Guardiola thắng trận thứ 250 ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-thang-tran-thu-250-o-ngoai-hang-anh-4947586.html",
+      "summary": "Bàn duy nhất của tiền đạo Erling Haaland giúp Man City hạ chủ nhà Brentford 1-0, ở vòng 7 Ngoại hạng Anh hôm 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T19:00:33+07:00",
+      "fetched": "2025-10-06T03:16:07.023658+07:00"
+    },
+    {
+      "id": "0bed12bff978f763fe8ba0d156397a58",
+      "title": "Guardiola thắng trận thứ 250 ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-thang-tran-thu-250-o-ngoai-hang-anh-4947586.html",
+      "summary": "Bàn duy nhất của tiền đạo Erling Haaland giúp Man City hạ chủ nhà Brentford 1-0, ở vòng 7 Ngoại hạng Anh hôm 5/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T19:00:33+07:00",
+      "fetched": "2025-10-06T03:16:17.410645+07:00"
+    },
+    {
+      "id": "e4c5560612dc8eb83be0569fcab415c0",
+      "title": "Lo tái ngập, người Hà Nội đắp đập, dựng tấm chắn trước nhà",
+      "link": "https://vnexpress.net/lo-tai-ngap-nguoi-ha-noi-dap-dap-dung-tam-chan-truoc-nha-4947582.html",
+      "summary": "Trước bão Matmo, lo ngại mưa lớn gây ngập lụt, người dân dùng bao cát đắp đập, dựng hàng rào và tấm chắn tự chế ngăn nước tràn vào nhà, hầm để xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:41:52+07:00",
+      "fetched": "2025-10-06T03:16:07.023843+07:00"
+    },
+    {
+      "id": "159962ee97ecc9a89f9ac600a337a5f7",
+      "title": "Sinner bỏ cuộc ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/sinner-bo-cuoc-o-thuong-hai-masters-4947585.html",
+      "summary": "Chấn thương khiến tay vợt số hai thế giới Jannik Sinner bỏ dở giữa set ba trận gặp Tallon Griekspoor tại vòng ba Thượng Hải Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:18:43+07:00",
+      "fetched": "2025-10-06T03:16:07.024011+07:00"
+    },
+    {
+      "id": "159962ee97ecc9a89f9ac600a337a5f7",
+      "title": "Sinner bỏ cuộc ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/sinner-bo-cuoc-o-thuong-hai-masters-4947585.html",
+      "summary": "Chấn thương khiến tay vợt số hai thế giới Jannik Sinner bỏ dở giữa set ba trận gặp Tallon Griekspoor tại vòng ba Thượng Hải Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T18:18:43+07:00",
+      "fetched": "2025-10-06T03:16:17.410991+07:00"
+    },
+    {
+      "id": "c7e36fd77d0c8974d3baf5ea1e928d17",
+      "title": "Djokovic thắng ngược ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/djokovic-thang-nguoc-o-thuong-hai-masters-4947583.html",
+      "summary": "Cựu số một thế giới Novak Djokovic vất vả thắng Yannick Hanfmann 4-6, 7-5, 6-3 tại vòng ba Thượng Hải Masters hôm 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:18:11+07:00",
+      "fetched": "2025-10-06T03:16:07.024197+07:00"
+    },
+    {
+      "id": "c7e36fd77d0c8974d3baf5ea1e928d17",
+      "title": "Djokovic thắng ngược ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/djokovic-thang-nguoc-o-thuong-hai-masters-4947583.html",
+      "summary": "Cựu số một thế giới Novak Djokovic vất vả thắng Yannick Hanfmann 4-6, 7-5, 6-3 tại vòng ba Thượng Hải Masters hôm 5/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T18:18:11+07:00",
+      "fetched": "2025-10-06T03:16:17.411152+07:00"
     },
     {
       "id": "e3cb67e0f9d559fc9d804e0a3223e75e",
