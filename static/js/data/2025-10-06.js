@@ -1,7 +1,97 @@
 window.newsData_2025_10_06 = {
   "date": "2025-10-06",
-  "lastUpdated": "2025-10-06T05:14:21.250192+07:00",
+  "lastUpdated": "2025-10-06T08:14:19.766483+07:00",
   "articles": [
+    {
+      "id": "f8376928e097478812a9bb5382df685b",
+      "title": "Thời tiết hôm nay 6-10: Bão đổ bộ, Bắc Bộ mưa rất to, đề phòng ngập diện rộng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-10-bao-do-bo-bac-bo-mua-rat-to-de-phong-ngap-dien-rong-20251005172331431.htm",
+      "summary": "Do ảnh hưởng bão số 11 (Matmo) nên thời tiết các tỉnh Bắc Bộ mưa to đến rất to. Nam Bộ ngày nắng, chiều tối vài nơi mưa dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265826+07:00",
+      "fetched": "2025-10-06T08:14:14.265940+07:00"
+    },
+    {
+      "id": "74a664688cfec607649c1dd07477d9e6",
+      "title": "Bùng nổ đào tạo đại học không chính quy",
+      "link": "https://tuoitre.vn/bung-no-dao-tao-dai-hoc-khong-chinh-quy-20251005230256411.htm",
+      "summary": "Quy mô đào tạo đại học các loại hình không chính quy như vừa làm vừa học, từ xa ở nhiều trường đại học vượt xa chính quy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265692+07:00",
+      "fetched": "2025-10-06T08:14:14.265814+07:00"
+    },
+    {
+      "id": "7481d6da0613e081899b4508237b9b87",
+      "title": "Bão Matmo đổ bộ vào Trung Quốc, miền Bắc mưa lớn hôm nay",
+      "link": "https://tuoitre.vn/bao-matmo-do-bo-vao-trung-quoc-mien-bac-mua-lon-hom-nay-20251006053645372.htm",
+      "summary": "Dự báo hôm nay bão Matmo (bão số 11) đi sâu vào đất liền và suy yếu dần thành vùng áp thấp, ở Bắc Bộ hôm nay mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265559+07:00",
+      "fetched": "2025-10-06T08:14:14.265681+07:00"
+    },
+    {
+      "id": "3f355c37f30f41fe5cf68971c67d5f39",
+      "title": "Phục dựng lồng đèn cho Trung thu thêm ý nghĩa",
+      "link": "https://tuoitre.vn/phuc-dung-long-den-cho-trung-thu-them-y-nghia-20251005225514027.htm",
+      "summary": "Những chiếc lồng đèn bọ ngựa, cự giải… phục dựng từ hình ảnh trăm năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265415+07:00",
+      "fetched": "2025-10-06T08:14:14.265546+07:00"
+    },
+    {
+      "id": "bedd5909596e33faf6886ac4db57c093",
+      "title": "Ca sĩ trẻ Zélie và hành trình kết nối Việt - Pháp bằng âm nhạc",
+      "link": "https://tuoitre.vn/ca-si-tre-zelie-va-hanh-trinh-ket-noi-viet-phap-bang-am-nhac-20251006002004451.htm",
+      "summary": "Đêm 5-10, nhóm nhạc pop-rock Pháp Zélie mang đến cho khán giả TP.HCM một không gian âm nhạc tràn đầy năng lượng tại sân khấu Golden Bird’s (phường An Khánh), trong khuôn khổ tour lưu diễn châu Á do Viện Pháp tại Việt Nam tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265284+07:00",
+      "fetched": "2025-10-06T08:14:14.265403+07:00"
+    },
+    {
+      "id": "227d2094500fbfa5e0caf035980d7dbe",
+      "title": "Như chưa hề có cuộc chia ly: Người mẹ già 93 tuổi tìm được Cu Tí đi lạc đêm Trung thu 1975",
+      "link": "https://tuoitre.vn/nhu-chua-he-co-cuoc-chia-ly-nguoi-me-gia-93-tuoi-tim-duoc-cu-ti-di-lac-dem-trung-thu-1975-20251005225200057.htm",
+      "summary": "Anh Hải thất lạc gia đình trong những ngày Tết Trung thu năm 1975. 50 năm sau, cũng trong những ngày cận kề Tết Trung thu, nhờ Như chưa hề có cuộc chia ly, anh tìm được gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265152+07:00",
+      "fetched": "2025-10-06T08:14:14.265272+07:00"
+    },
+    {
+      "id": "bf2bea05424f69665c94be0fbdeb02a9",
+      "title": "Tử chiến trên không khó đạt 300 tỉ; Chị ngã em nâng và Tay anh giữ một vì sao mở màn kém",
+      "link": "https://tuoitre.vn/tu-chien-tren-khong-kho-dat-300-ti-chi-nga-em-nang-va-tay-anh-giu-mot-vi-sao-mo-man-kem-20251005194444899.htm",
+      "summary": "Những ngày gần đây, ê kíp Tử chiến trên không đẩy mạnh hoạt động quảng bá bằng chuỗi cinetour trên toàn quốc. Tuy nhiên, sức nóng phim phần nào giảm nhiệt, do có nhiều tác phẩm mới ra rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.265016+07:00",
+      "fetched": "2025-10-06T08:14:14.265140+07:00"
+    },
+    {
+      "id": "92d1b252d67d1a5a7a4545f995e68774",
+      "title": "Giật mình chuyện cho trẻ tắm bia, uống mật gấu để đẹp da, chống bệnh hiểm nghèo",
+      "link": "https://tuoitre.vn/giat-minh-chuyen-cho-tre-tam-bia-uong-mat-gau-de-dep-da-chong-benh-hiem-ngheo-20250820171544378.htm",
+      "summary": "Tôi giật mình khi biết có gia đình muốn dùng bia tắm cho trẻ sơ sinh, cho trẻ em uống mất gấu để đẹp da, khỏe mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.264873+07:00",
+      "fetched": "2025-10-06T08:14:14.265004+07:00"
+    },
+    {
+      "id": "b457b505143d85b6fd304dcf252f7ca5",
+      "title": "Tin tức sáng 6-10: Giữ nguyên tăng lương 7,2%, Bộ Nội vụ bác đề xuất giảm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-10-giu-nguyen-tang-luong-7-2-bo-noi-vu-bac-de-xuat-giam-20251005203015434.htm",
+      "summary": "Một số tin tức đáng chú ý: Bộ Nội vụ đang đề xuất tăng lương tối thiểu vùng 7,2% từ 1-1-2026, tương đương 250.000 - 350.000 đồng mỗi tháng tùy vùng; Liên tiếp xảy ra động đất tại Măng Bút, Quảng Ngãi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T08:14:14.264639+07:00",
+      "fetched": "2025-10-06T08:14:14.264858+07:00"
+    },
     {
       "id": "add3bf671083a56451528429d33dd1e1",
       "title": "Tâm bão Matmo đang trên đất liền Trung Quốc, cách Quảng Ninh 50km",
@@ -203,6 +293,396 @@ window.newsData_2025_10_06 = {
       "fetched": "2025-10-06T01:20:27.849429+07:00"
     },
     {
+      "id": "7bf343e77eef664e35bbc1234753aba6",
+      "title": "Sẽ thành lập Trường đại học Y dược Bạch Mai",
+      "link": "https://thanhnien.vn/se-thanh-lap-truong-dai-hoc-y-duoc-bach-mai-185251005224349501.htm",
+      "summary": "Lễ đón nhận Cờ thi đua của Chính phủ và khai giảng năm học 2025 - 2026 của Trường cao đẳng Y tế Bạch Mai được Bệnh viện (BV) Bạch Mai (Hà Nội) tổ chức chiều 4.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:10:00+07:00",
+      "fetched": "2025-10-06T08:14:13.094792+07:00"
+    },
+    {
+      "id": "f8b3648818066884833ccec496f16a4b",
+      "title": "Đèn trung thu cổ kể chuyện xưa nay",
+      "link": "https://thanhnien.vn/den-trung-thu-co-ke-chuyen-xua-nay-185251002232448651.htm",
+      "summary": "Diễn ra từ ngày 5 - 12.10 tại Bảo tàng nghệ thuật Quang San (TP.HCM), triển lãm Lãm của nghệ sĩ Đoàn Thái Cúc Hương đánh thức quá khứ thông qua đèn trung thu cổ VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:04:00+07:00",
+      "fetched": "2025-10-06T08:14:13.094966+07:00"
+    },
+    {
+      "id": "701e79c0e8647931694b0c7194cb3767",
+      "title": "Bộ ba 'đòn bẩy' tạo sức bật giá trị cho Masteri Centre Point",
+      "link": "https://thanhnien.vn/bo-ba-don-bay-tao-suc-bat-gia-tri-cho-masteri-centre-point-185251005194632386.htm",
+      "summary": "Trong bối cảnh thị trường bất động sản đang dịch chuyển mạnh về các dự án vừa đáp ứng nhu cầu an cư, vừa đảm bảo giá trị đầu tư dài hạn, Masteri Centre Point nổi lên như một khu căn hộ đầy tiềm năng giữa trung tâm Đại đô thị Grand Park, TP HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095127+07:00"
+    },
+    {
+      "id": "9f0a40f3332b13b57790fa706dce77b0",
+      "title": "Sân khấu thể nghiệm làm sao hút khách?",
+      "link": "https://thanhnien.vn/san-khau-the-nghiem-lam-sao-hut-khach-185251005190809757.htm",
+      "summary": "Liên hoan quốc tế Sân khấu thể nghiệm lần thứ 6 sẽ diễn ra tại Ninh Bình vào tháng 11.2025. Các nghệ sĩ đang tích cực chuẩn bị tham gia với kỳ vọng sẽ đem đến những sáng tạo mới mẻ cho sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095290+07:00"
+    },
+    {
+      "id": "2fa58e33e807d0bc8642b290d86e1dee",
+      "title": "Người trẻ tìm về bến đỗ an cư gọi tên Phước Đông New City",
+      "link": "https://thanhnien.vn/nguoi-tre-tim-ve-ben-do-an-cu-goi-ten-phuoc-dong-new-city-185251005131916806.htm",
+      "summary": "Từ lao động thu nhập thấp, chịu cảnh sống ngột ngạt trong căn trọ ở TP.HCM, gia đình ông Nguyễn Thanh Triều đã đổi đời ‘ngoạn mục’ nhờ quyết rời phố về Trảng Bàng lập nghiệp, an cư tại Phước Đông New City.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095442+07:00"
+    },
+    {
+      "id": "46d6a70b83c294d88110daa60aa86bf4",
+      "title": "Hanwha Life Việt Nam trao tặng 200 triệu đồng, mang Trung Thu ấm áp cho thiếu nhi",
+      "link": "https://thanhnien.vn/hanwha-life-viet-nam-trao-tang-200-trieu-dong-mang-trung-thu-am-ap-cho-thieu-nhi-185251005125006179.htm",
+      "summary": "Hòa trong không khí rộn ràng của mùa trung thu, với mong muốn chung tay mang đến một cái Tết Đoàn viên ấm áp cho trẻ em, vừa qua, Hanwha Life Việt Nam đã trao tặng 200 triệu đồng cho Hội Bảo vệ Quyền trẻ em Việt Nam (tại Hà Nội) và Saigon Children’s Charity CIO (Saigonchildren, tại TP.HCM) để thực h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095616+07:00"
+    },
+    {
+      "id": "8c2ecc79261fb498d74e6b17291b5be0",
+      "title": "Tập đoàn Dai-ichi Life - Hành trình 123 năm ‘Tất cả vì con người’",
+      "link": "https://thanhnien.vn/tap-doan-dai-ichi-life-hanh-trinh-123-nam-tat-ca-vi-con-nguoi-185251005124128168.htm",
+      "summary": "Với bề dày lịch sử 123 năm hình thành và phát triển, Tập đoàn Dai-ichi Life đã không ngừng nỗ lực bền bỉ trong hành trình vươn lên trở thành một trong những Tập đoàn Bảo hiểm Nhân thọ lớn nhất tại Nhật Bản và trên thế giới, khẳng định vị thế tiên phong hàng đầu về tiềm lực tài chính vững mạnh, sản p...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095771+07:00"
+    },
+    {
+      "id": "cfb15f0f0bd7df2c1c2fd188f50c1673",
+      "title": "Quần ống rộng vừa thoải mái lại thời thượng, 'cân' đẹp  mọi vóc dáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-ong-rong-vua-thoai-mai-lai-thoi-thuong-can-dep-moi-voc-dang-18525100114452007.htm",
+      "summary": "Trong số những mẫu quần dài đẹp nhất tủ đồ không thể không nhắc đến quần ống rộng. Thiết kế này ngày càng được chăm chút cải tiến để làm mới từ chất liệu đến màu sắc, phom dáng và đường cắt để mang lại cho người mặc cảm giác thoải mái và thời thượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T01:00:00+07:00",
+      "fetched": "2025-10-06T08:14:13.095921+07:00"
+    },
+    {
+      "id": "86a6c5d52ade39cf8397fdc0f42d1cc8",
+      "title": "Người San Francisco ngán ngẩm vì bị chó làm phiền ở nơi công cộng",
+      "link": "https://vnexpress.net/nguoi-san-francisco-ngan-ngam-vi-bi-cho-lam-phien-o-noi-cong-cong-4946319.html",
+      "summary": "Nhiều người dân San Francisco bắt đầu cho rằng thành phố quá thân thiện với chó, khi chúng tự do cướp bánh ở quán cà phê, liếm người tập gym.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T00:56:41+07:00",
+      "fetched": "2025-10-06T08:14:15.535345+07:00"
+    },
+    {
+      "id": "8664edcdf036569542d92fda8e31293f",
+      "title": "Những tấm lòng vàng 6.10.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-6102025-185251005181559484.htm",
+      "summary": "Giúp em Hồ Ngô Kỷ Nguyên - TP.HCM (nhân vật được đề cập trong bài viết Nghị lực mùa thi - Xin cứu giúp ước mơ của cô bé nghèo hiếu học trên Thanh Niên ngày 24.6.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:50:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096070+07:00"
+    },
+    {
+      "id": "d5cb774896f7fa3aec17d37884d43338",
+      "title": "Ngổn ngang trước cổng trường",
+      "link": "https://thanhnien.vn/ngon-ngang-truoc-cong-truong-185251005173256224.htm",
+      "summary": "Bạn đọc phản ánh đơn vị thi công vỉa hè trên đường số 3, đoạn trước cổng Trường THCS Huỳnh Văn Nghệ, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, để đất đá ngổn ngang, gây khó khăn cho việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:50:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096219+07:00"
+    },
+    {
+      "id": "4735385330194fceddb6905d3b9c8e53",
+      "title": "Đậu xe trước cư xá, chung cư dù có biển cấm",
+      "link": "https://thanhnien.vn/dau-xe-truoc-cu-xa-chung-cu-du-co-bien-cam-185251005172122261.htm",
+      "summary": "Mặc dù cơ quan chức năng đã đặt biển cấm đậu xe tại giao lộ Lê Quang Đạo - Hậu Lân, đoạn khu vực cư xá Bà Điểm, xã Bà Điểm (trước đây thuộc xã Bà Điểm, H.Hóc Môn), TP.HCM, nhưng xe tải, xe khách, ô tô vẫn dừng đậu tràn lan, tiềm ẩn nguy cơ xảy ra tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:49:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096365+07:00"
+    },
+    {
+      "id": "7bab9ec679607952d1eef5ea3afe01e6",
+      "title": "Hơn 25.600 người dân chờ 2 cầu vượt lũ",
+      "link": "https://thanhnien.vn/hon-25600-nguoi-dan-cho-2-cau-vuot-lu-185251005172755718.htm",
+      "summary": "Hơn 25.600 người dân ở 2 xã Lìa và A Dơi (Quảng Trị) từng ngày chờ đợi 2 cây cầu vượt lũ hoàn thành, để khỏi bị chia cắt mỗi mùa mưa bão. Dù công trình đã được khởi công từ năm 2024, nhưng tiến độ liên tục bị gián đoạn, khiến việc đi lại khó khăn, tiềm ẩn nhiều rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:48:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096539+07:00"
+    },
+    {
+      "id": "6373654df5c2212d47f04c667d57dbed",
+      "title": "Tay súng xả đạn trên đường phố ở Australia, 20 người bị thương",
+      "link": "https://vnexpress.net/tay-sung-xa-dan-tren-duong-pho-o-australia-20-nguoi-bi-thuong-4947599.html",
+      "summary": "Một người bị bắt sau khi bắn bừa bãi vào ôtô và cảnh sát ở khu phố đông đúc tại Sydney, Australia, khiến 20 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:45:22+07:00",
+      "fetched": "2025-10-06T08:14:10.030340+07:00"
+    },
+    {
+      "id": "923c2706d1c1084991b81af404d0f015",
+      "title": "Xả súng trên đường phố ở Australia, 20 người bị thương",
+      "link": "https://vnexpress.net/xa-sung-tren-duong-pho-o-australia-20-nguoi-bi-thuong-4947599.html",
+      "summary": "Một người bị bắt sau khi bắn bừa bãi vào ôtô và cảnh sát ở khu phố đông đúc tại Sydney, Australia, khiến 20 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T00:45:22+07:00",
+      "fetched": "2025-10-06T08:14:15.535539+07:00"
+    },
+    {
+      "id": "bc7465a668d73d8bdc7cc64aeb08103c",
+      "title": "Châu Âu tụt hậu trong cuộc đua xe tải điện trước Trung Quốc",
+      "link": "https://vnexpress.net/chau-au-tut-hau-trong-cuoc-dua-xe-tai-dien-truoc-trung-quoc-4947560.html",
+      "summary": "Châu Âu có nguy cơ thua Trung Quốc trong cuộc đua xe tải điện, khi tỷ lệ chuyển đổi mới chỉ đạt 3,6% so với 24% tại Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:40:00+07:00",
+      "fetched": "2025-10-06T08:14:10.030543+07:00"
+    },
+    {
+      "id": "fc9ebfdbb7765980d01ceeb59b3625d4",
+      "title": "'Thu hút đầu tư cần công bằng, sòng phẳng'",
+      "link": "https://thanhnien.vn/thu-hut-dau-tu-can-cong-bang-song-phang-185251006070140173.htm",
+      "summary": "Chính phủ đang yêu cầu các bộ, ngành có ý kiến xung quanh những kiến nghị bổ sung của Lotte liên quan đến dự án Thủ Thiêm Eco Smart City. Nhiều chuyên gia cho rằng, cần cân nhắc kỹ lưỡng các kiến nghị có tính đặc thù, vượt trội này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:36:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096697+07:00"
+    },
+    {
+      "id": "930ac3cbbee8de6a16667bafb7f3b93a",
+      "title": "Mỹ gợi ý khả năng duy trì hiệp ước hạt nhân với Nga",
+      "link": "https://vnexpress.net/my-goi-y-kha-nang-duy-tri-hiep-uoc-hat-nhan-voi-nga-4947600.html",
+      "summary": "Ông Trump gọi đề nghị duy trì giới hạn vũ khí hạt nhân của ông Putin là \"ý tưởng hay\", gợi ý khả năng thực hiện động thái tương tự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:31:47+07:00",
+      "fetched": "2025-10-06T08:14:10.030722+07:00"
+    },
+    {
+      "id": "930ac3cbbee8de6a16667bafb7f3b93a",
+      "title": "Mỹ gợi ý khả năng duy trì hiệp ước hạt nhân với Nga",
+      "link": "https://vnexpress.net/my-goi-y-kha-nang-duy-tri-hiep-uoc-hat-nhan-voi-nga-4947600.html",
+      "summary": "Ông Trump gọi đề nghị duy trì giới hạn vũ khí hạt nhân của ông Putin là \"ý tưởng hay\", gợi ý khả năng thực hiện động thái tương tự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T00:31:47+07:00",
+      "fetched": "2025-10-06T08:14:15.535711+07:00"
+    },
+    {
+      "id": "30122c66aa74d6fc1675bc1b1b926818",
+      "title": "Apple 'bẻ lái' sang kính AI siêu thông minh",
+      "link": "https://thanhnien.vn/apple-be-lai-sang-kinh-ai-sieu-thong-minh-185251003113011484.htm",
+      "summary": "Apple dừng bản nâng cấp cho Vision Pro để tập trung sản phẩm AI (trí tuệ nhân tạo) mới là kính siêu thông minh nhằm cạnh tranh với Meta",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:19:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096845+07:00"
+    },
+    {
+      "id": "81092ae6d53cdd51e1867cbddb006c8b",
+      "title": "Động đất ở Quảng Ngãi, Gia Lai khiến đồ vật rung lắc",
+      "link": "https://vnexpress.net/dong-dat-o-quang-ngai-gia-lai-khien-do-vat-rung-lac-4947601.html",
+      "summary": "Khoảng 1h29 ngày 6/10, nhiều người dân Quảng Ngãi và Gia Lai thấy đồ đạc rung lắc do động đất rủi ro cấp 1 ở xã Măng Ri.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:11:23+07:00",
+      "fetched": "2025-10-06T08:14:10.030885+07:00"
+    },
+    {
+      "id": "bd255a004dc90bf22856521f919a4fbe",
+      "title": "Syria lần đầu bầu cử sau khi chính quyền al-Assad sụp đổ",
+      "link": "https://thanhnien.vn/syria-lan-dau-bau-cu-sau-khi-chinh-quyen-al-assad-sup-do-185251006070126594.htm",
+      "summary": "Syria ngày 5.10 đã tổ chức kỳ bầu cử quốc hội đầu tiên, kể từ sau khi chính quyền cựu Tổng thống Bashar al-Assad sụp đổ hồi cuối năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:06:00+07:00",
+      "fetched": "2025-10-06T08:14:13.096999+07:00"
+    },
+    {
+      "id": "7080647707395d33f3979aee85dbb2b6",
+      "title": "Hôm nay công bố giải Nobel Y sinh",
+      "link": "https://vnexpress.net/hom-nay-cong-bo-giai-nobel-y-sinh-4947349.html",
+      "summary": "Lễ công bố giải Nobel bắt đầu lúc 11h30 giờ địa phương (tức 16h30 giờ Hà Nội) tại thủ đô Stockholm của Thụy Điển, mở đầu bằng giải thưởng Y sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:00:00+07:00",
+      "fetched": "2025-10-06T08:14:10.031060+07:00"
+    },
+    {
+      "id": "0a2b483cfe1eee31460f5e58274eee3e",
+      "title": "Làm kiệu lá hình rồng đón Trung thu ở ngoại thành Hà Nội",
+      "link": "https://vnexpress.net/lam-kieu-la-hinh-rong-don-trung-thu-o-ngoai-thanh-ha-noi-4947095.html",
+      "summary": "Người dân thôn Đồi Hai, xã Phú Nghĩa dùng nhiều loại lá, hoa, quả kết thành kiệu rước, nổi bật là hai chiếc đầu rồng, để giữ gìn nét truyền thống Tết Trung thu vùng ngoại thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:00:00+07:00",
+      "fetched": "2025-10-06T08:14:10.031216+07:00"
+    },
+    {
+      "id": "ebbec0d72db41dc9e4bb8eb20c1de860",
+      "title": "Royal Enfield Classic 650 ra mắt Đông Nam Á, giá 7.700 USD",
+      "link": "https://vnexpress.net/royal-enfield-classic-650-ra-mat-dong-nam-a-gia-7-700-usd-4947458.html",
+      "summary": "Mẫu xe phong cách cổ điển lớn nhất phân khúc 650 phân khối, trang bị nhiều công nghệ, động cơ 2 xi-lanh, công suất 46,4 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:00:00+07:00",
+      "fetched": "2025-10-06T08:14:10.031375+07:00"
+    },
+    {
+      "id": "9bbb290ed37eec4df94783fdfc37c985",
+      "title": "Ascend Airways Malaysia nhận máy bay chở hàng đầu tiên",
+      "link": "https://vnexpress.net/ascend-airways-malaysia-nhan-may-bay-cho-hang-dau-tien-4945697.html",
+      "summary": "Hãng hàng không mới của Malaysia chuẩn bị khai thác thương mại từ tháng 11 với dịch vụ vận tải hàng hóa và hành khách ACMI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T00:00:00+07:00",
+      "fetched": "2025-10-06T08:14:10.031549+07:00"
+    },
+    {
+      "id": "25f1ca8dec3fdd2dacca92786ee07bd6",
+      "title": "Châu Á áp đảo top đại học dạy Khoa học máy tính toàn cầu 2025",
+      "link": "https://vnexpress.net/chau-a-ap-dao-top-dai-hoc-day-khoa-hoc-may-tinh-toan-cau-2025-4947502.html",
+      "summary": "8 trong top 10 trường dạy Khoa học máy tính tốt nhất thế giới năm 2025 nằm ở châu Á, dẫn đầu là Đại học Thanh Hoa, theo xếp hạng của CS Rankings.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:55:20+07:00",
+      "fetched": "2025-10-06T08:14:10.031721+07:00"
+    },
+    {
+      "id": "0a705c06c1b897dd7b14647fe36d2f46",
+      "title": "Ông Trump dọa tập kích băng đảng ma túy trên đất liền",
+      "link": "https://vnexpress.net/ong-trump-doa-tap-kich-bang-dang-ma-tuy-tren-dat-lien-4947593.html",
+      "summary": "Ông Trump nói sẽ xem xét mở rộng chiến dịch chống tội phạm ma túy vào đất liền, sau khi Mỹ liên tiếp tập kích \"xuồng ma túy\" gần Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:43:44+07:00",
+      "fetched": "2025-10-06T08:14:10.031878+07:00"
+    },
+    {
+      "id": "0a705c06c1b897dd7b14647fe36d2f46",
+      "title": "Ông Trump dọa tập kích băng đảng ma túy trên đất liền",
+      "link": "https://vnexpress.net/ong-trump-doa-tap-kich-bang-dang-ma-tuy-tren-dat-lien-4947593.html",
+      "summary": "Ông Trump nói sẽ xem xét mở rộng chiến dịch chống tội phạm ma túy vào đất liền, sau khi Mỹ liên tiếp tập kích \"xuồng ma túy\" gần Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T23:43:44+07:00",
+      "fetched": "2025-10-06T08:14:15.535870+07:00"
+    },
+    {
+      "id": "72bbe3b63e6cb35f1161ef9777b5f088",
+      "title": "12 thực phẩm tốt cho người cao huyết áp",
+      "link": "https://vnexpress.net/12-thuc-pham-tot-cho-nguoi-cao-huyet-ap-4947216.html",
+      "summary": "Các thực phẩm như cá hồi, ngũ cốc nguyên hạt, trái cây có múi, rau lá xanh... giúp hạ huyết áp tự nhiên mà không cần dùng thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:34:18+07:00",
+      "fetched": "2025-10-06T08:14:10.032038+07:00"
+    },
+    {
+      "id": "d68dbe71ae9c1c6a4146a92ebaf057b7",
+      "title": "Chinh phục 72 đỉnh núi trên 4.000m trong 1 tháng",
+      "link": "https://vnexpress.net/chinh-phuc-72-dinh-nui-tren-4-000m-trong-1-thang-4947573.html",
+      "summary": "Huyền thoại leo núi người Tây Ban Nha Kilian Jornet hoàn thành hành trình 5.145 km, vượt 123.000 m độ cao để trở thành người đầu tiên chinh phục toàn bộ 72 ngọn núi trên trên 4.000m ở Mỹ trong 31 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:31:10+07:00",
+      "fetched": "2025-10-06T08:14:10.032191+07:00"
+    },
+    {
+      "id": "d68dbe71ae9c1c6a4146a92ebaf057b7",
+      "title": "Chinh phục 72 đỉnh núi trên 4.000m trong 1 tháng",
+      "link": "https://vnexpress.net/chinh-phuc-72-dinh-nui-tren-4-000m-trong-1-thang-4947573.html",
+      "summary": "Huyền thoại leo núi người Tây Ban Nha Kilian Jornet hoàn thành hành trình 5.145 km, vượt 123.000 m độ cao để trở thành người đầu tiên chinh phục toàn bộ 72 ngọn núi trên trên 4.000m ở Mỹ trong 31 ngày.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T23:31:10+07:00",
+      "fetched": "2025-10-06T08:14:19.761365+07:00"
+    },
+    {
+      "id": "bde7536a0a0a19fbdcb592a0295f1c1c",
+      "title": "Khoảnh khắc Iskander-M tập kích 'nơi ẩn náu của HIMARS Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-m-tap-kich-noi-an-nau-cua-himars-ukraine-4947531.html",
+      "summary": "Nga công bố video UAV theo dõi nơi ẩn nấp của tổ hợp HIMARS Ukraine tại tỉnh Kharkov, trước khi tên lửa đạn đạo Iskander-M tập kích địa điểm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:23:07+07:00",
+      "fetched": "2025-10-06T08:14:10.032341+07:00"
+    },
+    {
+      "id": "bde7536a0a0a19fbdcb592a0295f1c1c",
+      "title": "Khoảnh khắc Iskander-M tập kích 'nơi ẩn náu của HIMARS Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-m-tap-kich-noi-an-nau-cua-himars-ukraine-4947531.html",
+      "summary": "Nga công bố video UAV theo dõi nơi ẩn nấp của tổ hợp HIMARS Ukraine tại tỉnh Kharkov, trước khi tên lửa đạn đạo Iskander-M tập kích địa điểm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T23:23:07+07:00",
+      "fetched": "2025-10-06T08:14:15.536029+07:00"
+    },
+    {
+      "id": "f2f8a34eb9b73794fb9950705296a1a6",
+      "title": "Bão Matmo vào Trung Quốc, giảm còn cấp 8",
+      "link": "https://vnexpress.net/bao-matmo-vao-trung-quoc-giam-con-cap-8-4947594.html",
+      "summary": "Rạng sáng nay, bão Matmo đổ bộ tỉnh Quảng Tây (Trung Quốc), giảm còn cấp 8, dự báo suy yếu thành áp thấp nhiệt đới khi vào miền núi phía bắc của Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:06:05+07:00",
+      "fetched": "2025-10-06T08:14:10.032497+07:00"
+    },
+    {
+      "id": "56ab8195eb0100d9af5e809c762b5111",
+      "title": "Cán bộ xã loay hoay vì 'trái' chuyên môn",
+      "link": "https://vnexpress.net/can-bo-xa-loay-hoay-vi-trai-chuyen-mon-4947584.html",
+      "summary": "Là cán bộ mảng lao động việc làm, sau sáp nhập, chị Nguyễn Thị Hảo ở TP HCM được giao phụ trách đăng ký kinh doanh, tư vấn doanh nghiệp - lĩnh vực chị gần như “rỗng” kiến thức, phải tự học từ đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:03:53+07:00",
+      "fetched": "2025-10-06T08:14:10.032692+07:00"
+    },
+    {
+      "id": "37cdca2f5c24f752e4eee592ae289190",
+      "title": "Wang Chuqin vô địch giải 'Grand Slam bóng bàn' lớn nhất",
+      "link": "https://vnexpress.net/wang-chuqin-vo-dich-giai-grand-slam-bong-ban-lon-nhat-4947532.html",
+      "summary": "Tay vợt số một thế giới Wang Chuqin hạ Felix Lebrun 11-7, 11-2, 11-5, 11-7 trong trận chung kết đơn nam China Smash 2025 ngày 5/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T22:24:19+07:00",
+      "fetched": "2025-10-06T08:14:19.761534+07:00"
+    },
+    {
+      "id": "cc29e3691569eb128653befe59143666",
+      "title": "Haaland: 'Lên chức bố giúp tôi đạt phong độ đỉnh cao'",
+      "link": "https://vnexpress.net/haaland-len-chuc-bo-giup-toi-dat-phong-do-dinh-cao-4947590.html",
+      "summary": "Sau khi ghi bàn duy nhất giúp Man City hạ Brentford ở vòng 7 Ngoại hạng Anh, Erling Haaland khẳng định đang thi đấu với phong độ cao nhất sự nghiệp và xem việc có con là chất xúc tác.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T22:19:17+07:00",
+      "fetched": "2025-10-06T08:14:19.761698+07:00"
+    },
+    {
+      "id": "33f64cdcd63c446088ede3dac181dd37",
+      "title": "Rashford hay nhất trận dù Barca thua đậm",
+      "link": "https://vnexpress.net/rashford-hay-nhat-tran-du-barca-thua-dam-4947579.html",
+      "summary": "Tiền đạo Marcus Rashford nhận giải \"Cầu thủ hay nhất trận\", khi Barca thua chủ nhà Sevilla 1-4 ở vòng 8 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T22:12:57+07:00",
+      "fetched": "2025-10-06T08:14:19.761854+07:00"
+    },
+    {
       "id": "d72eee1773429bcf90603b146434fb57",
       "title": "Em trai Mbappe gieo sầu cho PSG",
       "link": "https://vnexpress.net/em-trai-mbappe-gieo-sau-cho-psg-4947592.html",
@@ -241,6 +721,16 @@ window.newsData_2025_10_06 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T22:00:00+07:00",
       "fetched": "2025-10-06T05:14:12.581589+07:00"
+    },
+    {
+      "id": "c06d53e245036b65c9adf73fbbbe9841",
+      "title": "Ông chủ ChatGPT tiết lộ công việc sẽ làm nếu bị AI thay thế",
+      "link": "https://vnexpress.net/ong-chu-chatgpt-tiet-lo-cong-viec-se-lam-neu-bi-ai-thay-the-4947310.html",
+      "summary": "Sam Altman, CEO OpenAI, cho biết nếu bị AI thay thế, ông sẽ không xây dựng startup hay dự án công nghệ đột phá khác, mà làm việc trong trang trại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-05T22:00:00+07:00",
+      "fetched": "2025-10-06T08:14:18.877860+07:00"
     },
     {
       "id": "b5a7e6b7d21966d47101858171814975",
