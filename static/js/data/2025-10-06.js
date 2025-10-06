@@ -1,7 +1,97 @@
 window.newsData_2025_10_06 = {
   "date": "2025-10-06",
-  "lastUpdated": "2025-10-06T21:16:30.865192+07:00",
+  "lastUpdated": "2025-10-06T23:20:19.804954+07:00",
   "articles": [
+    {
+      "id": "1cb07df0ba709186f59a266c12ad87fc",
+      "title": "Iran tha bổng thanh niên đạp xe xuyên lục địa bị cáo buộc làm gián điệp",
+      "link": "https://tuoitre.vn/iran-tha-bong-thanh-nien-dap-xe-xuyen-luc-dia-bi-cao-buoc-lam-gian-diep-2025100620450397.htm",
+      "summary": "Tòa án Iran tuyên bố trắng án cho một công dân Pháp gốc Đức bị bắt với cáo buộc làm gián điệp, khi anh này đang đạp xe xuyên Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.247407+07:00",
+      "fetched": "2025-10-06T23:20:13.247521+07:00"
+    },
+    {
+      "id": "b088dafa5bb1f35ce145a6949036a279",
+      "title": "Thị phần môi giới chứng khoán: SSI cao nhất 5 năm, VNDirect văng khỏi top 6",
+      "link": "https://tuoitre.vn/thi-phan-moi-gioi-chung-khoan-ssi-cao-nhat-5-nam-vndirect-vang-khoi-top-6-20251006204241869.htm",
+      "summary": "Cuộc đua thị phần giữa các \"ông lớn\" chứng khoán tiếp tục gay cấn khi nhiều vị trí bị xáo trộn trong bảng xếp hạng top 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.247282+07:00",
+      "fetched": "2025-10-06T23:20:13.247396+07:00"
+    },
+    {
+      "id": "8beead4198c8d2d57bd5207e20e49c76",
+      "title": "Bích Tuyền chính thức vắng mặt vòng 2 Giải bóng chuyền vô địch quốc gia 2025",
+      "link": "https://tuoitre.vn/bich-tuyen-chinh-thuc-vang-mat-o-vong-2-giai-bong-chuyen-vo-dich-quoc-gia-2025-20251006205244002.htm",
+      "summary": "Trong buổi họp kỹ thuật chiều 6-10, CLB bóng chuyền nữ LPBank Ninh Bình đã chốt danh sách 14 VĐV tham dự vòng 2 Giải bóng chuyền vô địch quốc gia 2025, nhưng không có Bích Tuyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.247146+07:00",
+      "fetched": "2025-10-06T23:20:13.247270+07:00"
+    },
+    {
+      "id": "8aadd2ffa019d33341b2e82fa4cb5d56",
+      "title": "Giết người tình nghi do ghen tuông rồi vào Bệnh viện Tây Ninh nhảy lầu",
+      "link": "https://tuoitre.vn/giet-nguoi-tinh-nghi-do-ghen-tuong-roi-vao-benh-vien-tay-ninh-nhay-lau-20251006211705775.htm",
+      "summary": "K. sống chung với chị N. như vợ chồng ở quán cà phê. Qua tìm hiểu ban đầu, nguyên nhân do ghen tuông, khuya 5-10 K. đã đâm chết chị N. rồi đến Bệnh viện Đa khoa tỉnh Tây Ninh nhảy lầu tự vẫn trưa nay gây rúng động dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.247007+07:00",
+      "fetched": "2025-10-06T23:20:13.247133+07:00"
+    },
+    {
+      "id": "9732123c269a61feb2015c9c45fd5db5",
+      "title": "AMD thỏa thuận cung cấp chip AI cho OpenAI nhiều năm",
+      "link": "https://tuoitre.vn/amd-thoa-thuan-cung-cap-chip-ai-cho-openai-nhieu-nam-20251006212014691.htm",
+      "summary": "AMD và OpenAI vừa đạt được thỏa thuận cung cấp chip trí tuệ nhân tạo (AI) trị giá hàng tỉ USD kéo dài trong nhiều năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.246873+07:00",
+      "fetched": "2025-10-06T23:20:13.246995+07:00"
+    },
+    {
+      "id": "37f9cf1ae6dd95e031677891ca68db64",
+      "title": "'Khu vườn bí ẩn' của Vũ Bích Thủy",
+      "link": "https://tuoitre.vn/khu-vuon-bi-an-cua-vu-bich-thuy-20251006212941743.htm",
+      "summary": "Lần đầu tiên nữ họa sĩ Hà Nội tổ chức triển lãm cá nhân tại TP.HCM, mang theo một ‘khu vườn bí ẩn’ đầy lãng mạn của Hà Nội đến với những người yêu cái đẹp và sự dịu dàng nữ tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.246720+07:00",
+      "fetched": "2025-10-06T23:20:13.246860+07:00"
+    },
+    {
+      "id": "4a9980eab67c5efb4fdb39f758ae5cbb",
+      "title": "Kình ngư Nguyễn Huy Hoàng giành HCV thứ hai ở Giải bơi vô địch quốc gia",
+      "link": "https://tuoitre.vn/kinh-ngu-nguyen-huy-hoang-gianh-hcv-thu-hai-o-giai-boi-vo-dich-quoc-gia-20251006214407679.htm",
+      "summary": "Kình ngư Nguyễn Huy Hoàng mang về 2 huy chương vàng liên tiếp ở những nội dung sở trường của mình tại Giải bơi vô địch quốc gia 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.246585+07:00",
+      "fetched": "2025-10-06T23:20:13.246708+07:00"
+    },
+    {
+      "id": "0a2d906bc18e3546547c0707f479204a",
+      "title": "Hiệu trưởng nói suất ăn 25.000 đồng 'lèo tèo' trứng, muối vừng là do 'ảnh hưởng mưa bão'",
+      "link": "https://tuoitre.vn/hieu-truong-noi-suat-an-25-000-dong-leo-teo-trung-muoi-vung-la-do-anh-huong-mua-bao-20251006220939937.htm",
+      "summary": "Hình ảnh suất ăn bán trú thiếu dinh dưỡng gây tranh cãi, hiệu trưởng đã lên tiếng giải thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.246433+07:00",
+      "fetched": "2025-10-06T23:20:13.246573+07:00"
+    },
+    {
+      "id": "6f7f143e857c7f9db6bc75ac0987a9e0",
+      "title": "Thủ tướng: Sắp xếp các bệnh viện, trường học, phục vụ tốt cho nhân dân",
+      "link": "https://tuoitre.vn/thu-tuong-sap-xep-cac-benh-vien-truong-hoc-phuc-vu-tot-cho-nhan-dan-20251006215515098.htm",
+      "summary": "Mục tiêu quan trọng của việc sắp xếp là giảm đầu mối, tăng quy mô; nâng cao dịch vụ phục vụ người dân, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T23:20:13.246173+07:00",
+      "fetched": "2025-10-06T23:20:13.246415+07:00"
+    },
     {
       "id": "be7c43c7f3d97dd019573a11097dea40",
       "title": "TP.HCM chốt hạn hoàn tất thủ tục bồi thường, tái định cư dự án cầu đường Bình Tiên",
@@ -453,6 +543,66 @@ window.newsData_2025_10_06 = {
       "fetched": "2025-10-06T17:18:12.136547+07:00"
     },
     {
+      "id": "6bd89865e0ba1fd9ed1c66b84b6a0e34",
+      "title": "Bộ Công an thưởng tiền và xe máy cho 5 người có tin tố giác tội phạm",
+      "link": "https://thanhnien.vn/bo-cong-an-thuong-tien-va-xe-may-cho-5-nguoi-co-tin-to-giac-toi-pham-185251006230237914.htm",
+      "summary": "Bộ Công an vừa trao thưởng tiền và xe máy cho 5 người dân tại Đồng Nai có nguồn tin tố giác tội phạm hỗ trợ phá vụ án mạng đặc biệt nghiêm trọng khiến 3 người trong một gia đình tử vong tại xã Đăk Nhau (là xã vùng sâu, vùng xa của huyện Bù Đăng, tỉnh Bình Phước cũ), tỉnh Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T16:16:00+07:00",
+      "fetched": "2025-10-06T23:20:12.388078+07:00"
+    },
+    {
+      "id": "da32708e1c5ea6c71e2886125361213a",
+      "title": "8 trẻ nhập viện sau tiệc Trung thu: Sở Y tế Vĩnh Long nêu nguyên nhân",
+      "link": "https://thanhnien.vn/8-tre-nhap-vien-sau-tiec-trung-thu-so-y-te-vinh-long-neu-nguyen-nhan-185251006212751576.htm",
+      "summary": "Liên quan vụ 8 trẻ một trường mầm non ở Vĩnh Long nhập viện sau bữa tiệc tết Trung thu tại trường, Sở Y tế tỉnh này đã có thông tin nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T15:42:00+07:00",
+      "fetched": "2025-10-06T23:20:12.388258+07:00"
+    },
+    {
+      "id": "304bf0473a469dec3682e62fa04b4ada",
+      "title": "Nghệ sĩ hát 'Nhánh lan rừng' tiễn biệt nhạc sĩ Thế Hiển",
+      "link": "https://vnexpress.net/nghe-si-hat-nhanh-lan-rung-tien-biet-nhac-si-the-hien-4947917.html",
+      "summary": "Ca sĩ Phương Thanh, Mỹ Lệ, Ngọc Sơn thể hiện \"Hát về anh\", \"Nhánh lan rừng\" trong đêm cuối viếng nhạc sĩ Thế Hiển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T15:36:17+07:00",
+      "fetched": "2025-10-06T23:20:06.315938+07:00"
+    },
+    {
+      "id": "b5eb454b66e74bf9cf0393fa057e565a",
+      "title": "Nha Trang có thêm dự án nhà ở xã hội hơn 1.100 tỷ đồng",
+      "link": "https://vnexpress.net/nha-trang-co-them-du-an-nha-o-xa-hoi-hon-1-100-ty-dong-4948020.html",
+      "summary": "Khu nhà ở xã hội CT-04 (Hacom Starcity) vốn đầu tư hơn 1.100 tỷ đồng, phường Nam Nha Trang vừa được tỉnh quyết định giao cho một liên danh doanh nghiệp làm dự án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T15:31:20+07:00",
+      "fetched": "2025-10-06T23:20:06.316135+07:00"
+    },
+    {
+      "id": "dda0739b53c3bcff0009d842ceb1c66b",
+      "title": "Ông Trump 'phàn nàn Thủ tướng Israel quá tiêu cực'",
+      "link": "https://vnexpress.net/ong-trump-phan-nan-thu-tuong-israel-qua-tieu-cuc-4948033.html",
+      "summary": "Tổng thống Mỹ được cho là đã chỉ trích Thủ tướng Israel \"quá tiêu cực\" do không nhanh chóng chấp thuận kế hoạch hòa bình Gaza đã được Hamas đồng ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T15:26:02+07:00",
+      "fetched": "2025-10-06T23:20:06.316307+07:00"
+    },
+    {
+      "id": "dda0739b53c3bcff0009d842ceb1c66b",
+      "title": "Ông Trump 'phàn nàn Thủ tướng Israel quá tiêu cực'",
+      "link": "https://vnexpress.net/ong-trump-phan-nan-thu-tuong-israel-qua-tieu-cuc-4948033.html",
+      "summary": "Tổng thống Mỹ được cho là đã chỉ trích Thủ tướng Israel \"quá tiêu cực\" do không nhanh chóng chấp thuận kế hoạch hòa bình Gaza đã được Hamas đồng ý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T15:26:02+07:00",
+      "fetched": "2025-10-06T23:20:14.880871+07:00"
+    },
+    {
       "id": "309e972d9f2618e6783631dd1f9feb13",
       "title": "Hành trình cảm xúc độc bản cùng G-DRAGON 2025 WORLD TOUR [Übermensch] tại 8Wonder Ocean City",
       "link": "https://tuoitre.vn/hanh-trinh-cam-xuc-doc-ban-cung-g-dragon-2025-world-tour-bermensch-tai-8wonder-ocean-city-20251006142427611.htm",
@@ -603,6 +753,66 @@ window.newsData_2025_10_06 = {
       "fetched": "2025-10-06T15:22:19.574108+07:00"
     },
     {
+      "id": "1e35562194dca617a6571cb3338a7ba4",
+      "title": "Tôi kiếm tiền gấp đôi chồng nhưng muốn chia đôi sinh hoạt phí",
+      "link": "https://vnexpress.net/vo-chong-cai-nhau-vi-tien-toi-kiem-tien-gap-doi-chong-nhung-muon-chia-doi-sinh-hoat-phi-4947914.html",
+      "summary": "Chồng cho rằng tôi kiếm tiền gấp đôi anh nên phải đóng góp nhiều hơn, ít nhất là hai phần ba chi phí sinh hoạt trong gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T15:00:00+07:00",
+      "fetched": "2025-10-06T23:20:06.316471+07:00"
+    },
+    {
+      "id": "e04b55ba30f8feac4753c50df1cc7f88",
+      "title": "Bà chủ quán cà phê bị người tình sát hại",
+      "link": "https://vnexpress.net/ba-chu-quan-ca-phe-bi-nguoi-tinh-sat-hai-4948034.html",
+      "summary": "Lưu Tuấn Kiệt, 38 tuổi, bị cáo buộc do ghen tuông nên dùng dao sát hại người tình là chủ quán cà phê, nhắn tin cho nhân viên biết rồi nhảy lầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:58:24+07:00",
+      "fetched": "2025-10-06T23:20:06.316638+07:00"
+    },
+    {
+      "id": "d28e14adaf664f305c60b6cfb0f2dae8",
+      "title": "Bên trong máy bay gần 20 triệu USD 'đến từ tương lai'",
+      "link": "https://vnexpress.net/ben-trong-may-bay-gan-20-trieu-usd-den-tu-tuong-lai-4947985.html",
+      "summary": "Hãng Otto Aviation gây chú ý với máy bay Phantom 3500 có thiết kế không cửa sổ, thay thế bằng các màn hình khổng lồ để giảm 60% mức tiêu thụ nhiên liệu, nhắm đến nhóm khách hàng Gen Z.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:43:28+07:00",
+      "fetched": "2025-10-06T23:20:06.316820+07:00"
+    },
+    {
+      "id": "7288498a36f105919cc7f7f28f20ef32",
+      "title": "Lộ lý do FAM chưa kháng cáo: FIFA chưa cung cấp hồ sơ chi tiết về án phạt tính đến tối 6.10",
+      "link": "https://thanhnien.vn/lo-ly-do-fam-chua-khang-cao-fifa-chua-cung-cap-ho-so-chi-tiet-ve-an-phat-tinh-den-toi-610-185251006211835337.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) chưa công bố chính thức liệu họ đã nộp đơn kháng cáo án phạt của FIFA hay chưa. Nếu chưa kháng cáo, có thể FAM đang chờ hồ sơ giải thích đầy đủ án phạt từ FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:43:00+07:00",
+      "fetched": "2025-10-06T23:20:12.388420+07:00"
+    },
+    {
+      "id": "e454002ac8b3c4d04f01440427f2497a",
+      "title": "Suất ăn 25.000 đồng ở Quảng Trị: Do dịch tả heo, khan hiếm thực phẩm sau bão?",
+      "link": "https://thanhnien.vn/suat-an-25000-dong-o-quang-tri-do-dich-ta-heo-khan-hiem-thuc-pham-sau-bao-1852510062045591.htm",
+      "summary": "Liên quan đến suất ăn bán trú 25.000 đồng chỉ với 3 miếng chả, 1 quả trứng, muối mè và canh vài cọng rau ở Trường tiểu học số 1 Ba Đồn mà Thanh Niên phản ánh, hiệu trưởng nhà trường thừa nhận bữa ăn chưa đạt yêu cầu và nêu lý do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:36:00+07:00",
+      "fetched": "2025-10-06T23:20:12.388577+07:00"
+    },
+    {
+      "id": "958c2d1aefbf6c5eebf970e61cea6b70",
+      "title": "Khánh Hòa: Tặng sổ tiết kiệm cho tân sinh viên nghèo vùng núi dịp Trung thu",
+      "link": "https://thanhnien.vn/khanh-hoa-tang-so-tiet-kiem-cho-tan-sinh-vien-ngheo-vung-nui-dip-trung-thu-185251006194413927.htm",
+      "summary": "Gần 100 triệu đồng được các nhà hảo tâm trao tặng đến tân sinh viên và trẻ em vùng cao tỉnh Khánh Hòa nhân dịp tết Trung thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:30:00+07:00",
+      "fetched": "2025-10-06T23:20:12.388733+07:00"
+    },
+    {
       "id": "8da8331b26bca1334e33feb0394c9b3a",
       "title": "Hàng trăm du học sinh quốc tế 'mắc kẹt' tại Mỹ kiện chính quyền ông Trump",
       "link": "https://thanhnien.vn/hang-tram-du-hoc-sinh-quoc-te-mac-ket-tai-my-kien-chinh-quyen-ong-trump-185251006194642136.htm",
@@ -731,6 +941,26 @@ window.newsData_2025_10_06 = {
       "category": "Thể thao",
       "published": "2025-10-06T13:35:41+07:00",
       "fetched": "2025-10-06T21:16:30.851905+07:00"
+    },
+    {
+      "id": "926df620e6d59bda39d41f20bc948b7c",
+      "title": "Tiến Linh: 'Malaysia bị phạt thế nào không quan trọng với Việt Nam'",
+      "link": "https://vnexpress.net/tien-linh-malaysia-bi-phat-the-nao-khong-quan-trong-voi-viet-nam-4948024.html",
+      "summary": "Trong ngày hội quân cùng đội tuyển Việt Nam, tiền đạo Nguyễn Tiến Linh cho biết anh và đồng đội không bận tâm đến việc một loạt cầu thủ nhập tịch của Malaysia bị cấm thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:35:41+07:00",
+      "fetched": "2025-10-06T23:20:06.317325+07:00"
+    },
+    {
+      "id": "926df620e6d59bda39d41f20bc948b7c",
+      "title": "Tiến Linh: 'Malaysia bị phạt thế nào không quan trọng với Việt Nam'",
+      "link": "https://vnexpress.net/tien-linh-malaysia-bi-phat-the-nao-khong-quan-trong-voi-viet-nam-4948024.html",
+      "summary": "Trong ngày hội quân cùng đội tuyển Việt Nam, tiền đạo Nguyễn Tiến Linh cho biết anh và đồng đội không bận tâm đến việc một loạt cầu thủ nhập tịch của Malaysia bị cấm thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T13:35:41+07:00",
+      "fetched": "2025-10-06T23:20:19.791188+07:00"
     },
     {
       "id": "f2c6d7cbaeb7091ebd2a53626b2482f8",
