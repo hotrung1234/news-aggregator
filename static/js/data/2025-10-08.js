@@ -1,6 +1,6 @@
 window.newsData_2025_10_08 = {
   "date": "2025-10-08",
-  "lastUpdated": "2025-10-08T01:23:49.944821+07:00",
+  "lastUpdated": "2025-10-08T03:17:35.632087+07:00",
   "articles": [
     {
       "id": "60a0f01d7fc362ea6c8e6134ecdb6848",
@@ -151,6 +151,26 @@ window.newsData_2025_10_08 = {
       "category": "Tổng hợp",
       "published": "2025-10-08T01:23:40.795187+07:00",
       "fetched": "2025-10-08T01:23:40.795407+07:00"
+    },
+    {
+      "id": "e09efefe49783040a00ef69245e808c3",
+      "title": "California cấm quảng cáo trực tuyến quá to",
+      "link": "https://vnexpress.net/california-cam-quang-cao-truc-tuyen-qua-to-4948323.html",
+      "summary": "Bang California thông qua luật yêu cầu giảm âm lượng quảng cáo trên truyền hình và dịch vụ trực tuyến, sau nhiều năm bị người dân phàn nàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:00:00+07:00",
+      "fetched": "2025-10-08T03:17:25.713731+07:00"
+    },
+    {
+      "id": "e09efefe49783040a00ef69245e808c3",
+      "title": "California cấm quảng cáo trực tuyến quá to",
+      "link": "https://vnexpress.net/california-cam-quang-cao-truc-tuyen-qua-to-4948323.html",
+      "summary": "Bang California thông qua luật yêu cầu giảm âm lượng quảng cáo trên truyền hình và dịch vụ trực tuyến, sau nhiều năm bị người dân phàn nàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T19:00:00+07:00",
+      "fetched": "2025-10-08T03:17:30.464589+07:00"
     },
     {
       "id": "2ce8a740bfbd296cc8ac51b56deb30ce",
