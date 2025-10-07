@@ -1,6 +1,6 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T19:34:52.947507+07:00",
+  "lastUpdated": "2025-10-07T21:17:17.643019+07:00",
   "articles": [
     {
       "id": "da34783581bb8fd879bf622a928214ad",
@@ -303,6 +303,216 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T17:17:17.938474+07:00"
     },
     {
+      "id": "394b3db646124796b8e10b03e96b60dd",
+      "title": "Hội nghị ANSCI 2025: Cập nhật những tiến bộ trong khoa học thần kinh",
+      "link": "https://thanhnien.vn/hoi-nghi-ansci-2025-cap-nhat-nhung-tien-bo-trong-khoa-hoc-than-kinh-185251007211125597.htm",
+      "summary": "Vừa qua, tại Bệnh viện Đại học Y Dược TP.HCM diễn ra Hội nghị Khoa học Thần kinh ANSCI 2025 với chủ đề 'Các tiến bộ trong khoa học thần kinh và ứng dụng lâm sàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:11:00+07:00",
+      "fetched": "2025-10-07T21:17:09.490766+07:00"
+    },
+    {
+      "id": "741d2561b0fc01db78c538465cae0972",
+      "title": "Xe đầu kéo bỏ trốn khỏi hiện trường sau tai nạn chết người",
+      "link": "https://thanhnien.vn/xe-dau-keo-bo-tron-khoi-hien-truong-sau-tai-nan-chet-nguoi-185251007203309799.htm",
+      "summary": "Sau tai nạn chết người trên QL19, tài xế lái xe đầu kéo lái xe rời đi, sau đó bị công an chặn bắt cách hiện trường 20km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:11:00+07:00",
+      "fetched": "2025-10-07T21:17:09.490934+07:00"
+    },
+    {
+      "id": "2cbdd008d16239517d86bde34520eb33",
+      "title": "Hà Nội chi ngân sách 2,6 tỉ sửa cầu Vĩnh Tuy sau vụ cháy bãi xe",
+      "link": "https://thanhnien.vn/ha-noi-chi-ngan-sach-26-ti-sua-cau-vinh-tuy-sau-vu-chay-bai-xe-185251007204709566.htm",
+      "summary": "Hà Nội sẽ chi khoảng 2,6 tỉ đồng từ nguồn ngân sách thành phố để sửa chữa nhánh cầu Vĩnh Tuy xuống đê Nguyễn Khoái, sau vụ cháy bãi trông giữ xe máy của 2 doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:08:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491125+07:00"
+    },
+    {
+      "id": "ff3593d665b82bb425bed7be3754d5c2",
+      "title": "Bí ẩn sau những cánh hồng đỏ ở hiện trường án mạng",
+      "link": "https://vnexpress.net/bi-an-sau-nhung-canh-hong-do-o-hien-truong-an-mang-4948481.html",
+      "summary": "Thi thể Christina Parcell được tìm thấy với 35 vết đâm, những cánh hoa hồng vương vãi khắp sàn được ví như 'một loại ký hiệu nghệ thuật tàn bạo'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:05:08+07:00",
+      "fetched": "2025-10-07T21:17:06.731669+07:00"
+    },
+    {
+      "id": "85f9d1846892852c6efed406d8d2439b",
+      "title": "Cảnh sát Anh bắt băng đảng cướp giật 40.000 Iphone",
+      "link": "https://vnexpress.net/canh-sat-anh-bat-bang-dang-cuop-giat-40-000-iphone-4948314.html",
+      "summary": "Với việc thu mua Iphone bị cướp giật với giá 300 USD, một băng đảng tại Anh đã buôn lậu trót lọt hơn 40.000 chiếc điện thoại tang vật sang Trung Quốc trong một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:04:54+07:00",
+      "fetched": "2025-10-07T21:17:06.731851+07:00"
+    },
+    {
+      "id": "ffa57cc9ab25324dd13d235bd7c803c0",
+      "title": "Lũ các sông miền Bắc lên nhanh",
+      "link": "https://vnexpress.net/lu-cac-song-mien-bac-len-nhanh-4945743.html",
+      "summary": "Chiều nay, lũ sông Cầu, sông Thương đã vượt báo động ba 2-5 m, các sông khác ở miền Bắc và Thanh Hóa đang lên, nguy cơ gây ngập diện rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:04:12+07:00",
+      "fetched": "2025-10-07T21:17:06.732041+07:00"
+    },
+    {
+      "id": "b611fa3afe17838dc498dd145458492d",
+      "title": "Nỗi dằn vặt của con tin Israel trở về từ tay Hamas",
+      "link": "https://vnexpress.net/noi-dan-vat-cua-con-tin-israel-tro-ve-tu-tay-hamas-4948239.html",
+      "summary": "Được trở về sau hơn một năm bị Hamas bắt, cuộc sống đã có nhiều thay đổi, nhưng Emily Damari vẫn dằn vặt về số phận những con tin khác ở Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T14:00:00+07:00",
+      "fetched": "2025-10-07T21:17:06.732203+07:00"
+    },
+    {
+      "id": "b611fa3afe17838dc498dd145458492d",
+      "title": "Nỗi dằn vặt của con tin Israel trở về từ tay Hamas",
+      "link": "https://vnexpress.net/noi-dan-vat-cua-con-tin-israel-tro-ve-tu-tay-hamas-4948239.html",
+      "summary": "Được trở về sau hơn một năm bị Hamas bắt, cuộc sống đã có nhiều thay đổi, nhưng Emily Damari vẫn dằn vặt về số phận những con tin khác ở Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T14:00:00+07:00",
+      "fetched": "2025-10-07T21:17:12.030334+07:00"
+    },
+    {
+      "id": "2467c0ef63a10833551683255f53c1c3",
+      "title": "Bước ra khỏi vở kịch của bạn trai với sự tỉnh thức",
+      "link": "https://vnexpress.net/buoc-ra-khoi-vo-kich-cua-ban-trai-voi-su-tinh-thuc-4948209.html",
+      "summary": "Giờ đây, tôi vẫn tin vào tình yêu, vào sự đồng điệu, nhưng tôi tin một cách tỉnh táo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:53:29+07:00",
+      "fetched": "2025-10-07T21:17:06.732358+07:00"
+    },
+    {
+      "id": "627668dde56cc34c50c5147135f1cef1",
+      "title": "Nhà khoa học tắt điện thoại, lỡ tin đoạt giải Nobel Y sinh 2025",
+      "link": "https://vnexpress.net/nha-khoa-hoc-tat-dien-thoai-lo-tin-doat-giai-nobel-y-sinh-2025-4948498.html",
+      "summary": "Khi đang dừng chân tại một khu cắm trại ở bang Montana, sau chuyến đi xuyên dãy núi Rocky, ông Fred Ramsdell bất ngờ nghe vợ mình, bà Laura O’Neill, la lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:50:14+07:00",
+      "fetched": "2025-10-07T21:17:06.732514+07:00"
+    },
+    {
+      "id": "92edd9bb405c472784e8a012c540ebea",
+      "title": "Ngày nào cũng 1 ly nước chanh: Điều gì xảy ra cho tim, thận, não?",
+      "link": "https://thanhnien.vn/ngay-nao-cung-1-ly-nuoc-chanh-dieu-gi-xay-ra-cho-tim-than-nao-185251007204916396.htm",
+      "summary": "Chanh chứa hàm lượng cao vitamin C, flavonoid, kali và chất xơ - những hợp chất có hoạt tính chống oxy hóa, chống viêm và tăng cường miễn dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:49:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491282+07:00"
+    },
+    {
+      "id": "f2e83ccaf3acd9be45c8b5eecd3cc638",
+      "title": "VneID sẽ tích hợp gần 200 loại giấy tờ của người dân",
+      "link": "https://vnexpress.net/vneid-se-tich-hop-cap-nhat-578-loai-giay-to-4948478.html",
+      "summary": "Bộ Công an dự kiến tích hợp, cập nhật 188 giấy tờ cấp cho cá nhân và 390 giấy tờ cho tổ chức vào VneID, trong đó có sổ đỏ, bằng đại học, hộ chiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:41:49+07:00",
+      "fetched": "2025-10-07T21:17:06.732672+07:00"
+    },
+    {
+      "id": "54186f3c97ef41dab34c8a73e2f25b09",
+      "title": "Người Lạng Sơn một tuần chạy lũ 3 lần",
+      "link": "https://vnexpress.net/nguoi-lang-son-mot-tuan-chay-lu-3-lan-4948447.html",
+      "summary": "Đang vật lộn với nước lũ ngập nửa nhà, chị Thùy Linh điếng người khi điện thoại hiện tin nhắn \"Đập Bắc Khê 1 vỡ rồi. Báo người thân đến nơi an toàn ngay\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:33:07+07:00",
+      "fetched": "2025-10-07T21:17:06.732826+07:00"
+    },
+    {
+      "id": "970ac869d3d1996ed9b6b7e7c8dbfc29",
+      "title": "Việt Nam quy hoạch tần số để phát triển công nghệ vệ tinh, 6G",
+      "link": "https://vnexpress.net/viet-nam-quy-hoach-tan-so-de-phat-trien-cong-nghe-ve-tinh-6g-4948456.html",
+      "summary": "Các quy định về tần số cho vệ tinh tầm thấp vừa được đưa vào Quy hoạch phổ tần số vô tuyến điện quốc gia, tạo tiền đề cho hạ tầng viễn thông dựa trên vệ tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:33:04+07:00",
+      "fetched": "2025-10-07T21:17:06.733008+07:00"
+    },
+    {
+      "id": "970ac869d3d1996ed9b6b7e7c8dbfc29",
+      "title": "Việt Nam quy hoạch tần số để phát triển công nghệ vệ tinh, 6G",
+      "link": "https://vnexpress.net/viet-nam-quy-hoach-tan-so-de-phat-trien-cong-nghe-ve-tinh-6g-4948456.html",
+      "summary": "Các quy định về tần số cho vệ tinh tầm thấp vừa được đưa vào Quy hoạch phổ tần số vô tuyến điện quốc gia, tạo tiền đề cho hạ tầng viễn thông dựa trên vệ tinh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T13:33:04+07:00",
+      "fetched": "2025-10-07T21:17:16.199226+07:00"
+    },
+    {
+      "id": "62f54f5b96e6f8defbc29576e81df5c2",
+      "title": "Việt Nam có gần 11 triệu tài khoản chứng khoán trước nâng hạng",
+      "link": "https://vnexpress.net/viet-nam-co-gan-11-trieu-tai-khoan-chung-khoan-truoc-nang-hang-4948490.html",
+      "summary": "Việt Nam có 10,99 triệu tài khoản chứng khoán, hoàn thành mục tiêu Chính phủ đặt ra sớm 5 năm và ngay trước thềm FTSE Russell công bố kết quả đánh giá thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:32:26+07:00",
+      "fetched": "2025-10-07T21:17:06.733169+07:00"
+    },
+    {
+      "id": "62f54f5b96e6f8defbc29576e81df5c2",
+      "title": "Việt Nam có gần 11 triệu tài khoản chứng khoán trước nâng hạng",
+      "link": "https://vnexpress.net/viet-nam-co-gan-11-trieu-tai-khoan-chung-khoan-truoc-nang-hang-4948490.html",
+      "summary": "Việt Nam có 10,99 triệu tài khoản chứng khoán, hoàn thành mục tiêu Chính phủ đặt ra sớm 5 năm và ngay trước thềm FTSE Russell công bố kết quả đánh giá thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T13:32:26+07:00",
+      "fetched": "2025-10-07T21:17:13.411725+07:00"
+    },
+    {
+      "id": "069a6ddf77a7a814344bc0447f3b7e7b",
+      "title": "Ôtô khách biến dạng sau tai nạn liên hoàn",
+      "link": "https://vnexpress.net/oto-khach-bien-dang-sau-tai-nan-lien-hoan-4948493.html",
+      "summary": "Ôtô khách 16 chỗ chạy trên quốc lộ 1 bất ngờ tông xe tải lật nghiêng đè người đàn ông đi xe máy chấn thương sọ não, trưa 7/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:31:26+07:00",
+      "fetched": "2025-10-07T21:17:06.733327+07:00"
+    },
+    {
+      "id": "9e752b2fab094e9db925c278c1314a10",
+      "title": "Nga nói UAV Ukraine đâm vào nhà máy hạt nhân trên lãnh thổ",
+      "link": "https://vnexpress.net/nga-noi-uav-ukraine-dam-vao-nha-may-hat-nhan-tren-lanh-tho-4948496.html",
+      "summary": "Nga tố Ukraine phóng UAV tập kích nhà máy điện hạt nhân tại tỉnh Voronezh, cho biết phi cơ đã đâm vào tháp làm mát sau khi bị chế áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:28:22+07:00",
+      "fetched": "2025-10-07T21:17:06.733479+07:00"
+    },
+    {
+      "id": "9e752b2fab094e9db925c278c1314a10",
+      "title": "Nga nói UAV Ukraine đâm vào nhà máy hạt nhân trên lãnh thổ",
+      "link": "https://vnexpress.net/nga-noi-uav-ukraine-dam-vao-nha-may-hat-nhan-tren-lanh-tho-4948496.html",
+      "summary": "Nga tố Ukraine phóng UAV tập kích nhà máy điện hạt nhân tại tỉnh Voronezh, cho biết phi cơ đã đâm vào tháp làm mát sau khi bị chế áp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T13:28:22+07:00",
+      "fetched": "2025-10-07T21:17:12.030517+07:00"
+    },
+    {
+      "id": "c89d9d3ff08a50aec444091c619b4952",
+      "title": "[FLYCAM] Lũ sông Cầu vượt đỉnh lịch sử, Thái Nguyên mênh mông nước",
+      "link": "https://thanhnien.vn/flycam-lu-song-cau-vuot-dinh-lich-su-thai-nguyen-menh-mong-nuoc-18525100720272257.htm",
+      "summary": "Những hình ảnh từ trên cao cho thấy, nhiều xã, phường ở tỉnh Thái Nguyên (tại địa bàn các xã, phường tại thành phố Thái Nguyên cũ) ngập sâu khi lũ sông Cầu đã vượt qua đỉnh lũ lịch sử ghi nhận trong cơn bão Yagi tháng 9.2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:27:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491434+07:00"
+    },
+    {
       "id": "a402786d7eca86790a19cb81b8780e98",
       "title": "Tây Ninh khởi công xây 1.646 căn nhà ở xã hội ở khu vực công nghiệp giáp ranh TP.HCM",
       "link": "https://tuoitre.vn/tay-ninh-khoi-cong-xay-1-646-can-nha-o-xa-hoi-o-khu-vuc-cong-nghiep-giap-ranh-tp-hcm-20251007114451059.htm",
@@ -451,6 +661,136 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T13:24:41.071569+07:00",
       "fetched": "2025-10-07T13:24:41.071801+07:00"
+    },
+    {
+      "id": "bedda35a4cf39a2e4a78ff7b4bcbbd74",
+      "title": "HLV Arab Saudi: 'Indonesia hay, nhưng chúng tôi sẽ thắng'",
+      "link": "https://vnexpress.net/hlv-arab-saudi-indonesia-hay-nhung-chung-toi-se-thang-4948500.html",
+      "summary": "HLV Herve Renard xem sân nhà là một lợi thế để Arab Saudi nuôi hy vọng thắng Indonesia ở lượt ra quân bảng B vòng loại bốn World Cup 2026 – khu vực châu Á, ngày 9/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:23:48+07:00",
+      "fetched": "2025-10-07T21:17:06.733634+07:00"
+    },
+    {
+      "id": "bedda35a4cf39a2e4a78ff7b4bcbbd74",
+      "title": "HLV Arab Saudi: 'Indonesia hay, nhưng chúng tôi sẽ thắng'",
+      "link": "https://vnexpress.net/hlv-arab-saudi-indonesia-hay-nhung-chung-toi-se-thang-4948500.html",
+      "summary": "HLV Herve Renard xem sân nhà là một lợi thế để Arab Saudi nuôi hy vọng thắng Indonesia ở lượt ra quân bảng B vòng loại bốn World Cup 2026 – khu vực châu Á, ngày 9/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T13:23:48+07:00",
+      "fetched": "2025-10-07T21:17:17.631753+07:00"
+    },
+    {
+      "id": "51acab0f26228344ea06039517af822d",
+      "title": "Billiards: Tung sê-ri lớn, tay cơ Việt Nam thắng ấn tượng cao thủ người Mỹ",
+      "link": "https://thanhnien.vn/billiards-tung-se-ri-lon-tay-co-viet-nam-thang-an-tuong-cao-thu-nguoi-my-185251007200544975.htm",
+      "summary": "VĐV Việt Nam Nguyễn Văn Tài đã có màn ra quân với chiến thắng cực kỳ thuyết phục trước cơ thủ người Mỹ, tại vòng loại World Cup billiards Antwerp 2025 đang diễn ra tại Bỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:19:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491586+07:00"
+    },
+    {
+      "id": "0d655d7c8c6c062e8a1d306d5d55a123",
+      "title": "Mercedes lại xả hàng, bộ đôi ‘xe chơi’ giảm giá hơn 1 tỉ đồng",
+      "link": "https://thanhnien.vn/mercedes-lai-xa-hang-bo-doi-xe-choi-giam-gia-hon-1-ti-dong-185251007053849342.htm",
+      "summary": "Sau GT 53 và A 35, Mercedes-Benz tiếp tục giảm giá hai mẫu xe AMG C 43 và SL 43, đưa mức giá thực tế về mức 2,199 tỉ và 5,899 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:02:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491735+07:00"
+    },
+    {
+      "id": "3b859d75d3c17e67882af4e87a53e565",
+      "title": "Nước nào có GDP bình quân đầu người cao nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-gdp-binh-quan-dau-nguoi-cao-nhat-dong-nam-a-4948410.html",
+      "summary": "GDP bình quân đầu người của nước này hiện ở gần 93.000 USD mỗi năm, dẫn đầu Đông Nam Á và đứng thứ tư thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:00:00+07:00",
+      "fetched": "2025-10-07T21:17:06.733791+07:00"
+    },
+    {
+      "id": "6af79dcb4b6337cc049aee6bbaa5be73",
+      "title": "Hàng trăm người xếp hàng từ đêm để nộp hồ sơ mua nhà ở xã hội",
+      "link": "https://vnexpress.net/hang-tram-nguoi-xep-hang-tu-dem-de-nop-ho-so-mua-nha-o-xa-hoi-4948409.html",
+      "summary": "Giá nhà ở tăng cao, hàng trăm người dân xếp hàng từ nửa đêm để nộp hồ sơ, nuôi hy vọng mua được căn hộ tại khu đô thị xanh Bàu Tràm Lakeside.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:00:00+07:00",
+      "fetched": "2025-10-07T21:17:06.733961+07:00"
+    },
+    {
+      "id": "e6a97412862bd18203211fd02eaed50a",
+      "title": "Nga cài 'mìn bay' bằng UAV cáp quang phục kích hậu cần Ukraine",
+      "link": "https://thanhnien.vn/nga-cai-min-bay-bang-uav-cap-quang-phuc-kich-hau-can-ukraine-185251007200854924.htm",
+      "summary": "Binh sĩ Ukraine cho biết phi công Nga phục kích các tuyến hậu cần gần tiền tuyến bằng máy bay không người lái (UAV) sợi quang - loại vũ khí gần như miễn nhiễm với các biện pháp tác chiến điện tử, khiến chúng rất khó bị đánh chặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:00:00+07:00",
+      "fetched": "2025-10-07T21:17:09.491882+07:00"
+    },
+    {
+      "id": "9df1aef50854c21d5363ce8487a5e92d",
+      "title": "Xem nhanh 20h ngày 7.10: Nước chưa kịp rút, Hà Nội lại mưa xối xả | Diễn biến bất ngờ bê bối nhập tịch bóng đá Malaysia",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-710-nuoc-chua-kip-rut-ha-noi-lai-mua-xoi-xa-dien-bien-bat-ngo-be-boi-nhap-tich-bong-da-malaysia-185251007194347071.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 7.10 có nhiều tin tức đáng chú ý về: Nước ngập chưa kịp rút, Hà Nội lại mưa xối xả; FAM giải trình: 'Nhân viên vô tình tải nhầm tài liệu' trong quá trình nộp hồ sơ cầu thủ nhập tịch?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:00:00+07:00",
+      "fetched": "2025-10-07T21:17:09.492086+07:00"
+    },
+    {
+      "id": "5e127b1ab21569d7b999b0faee360a4e",
+      "title": "Ông Nguyễn Văn Tòng bị bắt tạm giam vì xúi giục người khác livestream xuyên tạc",
+      "link": "https://thanhnien.vn/ong-nguyen-van-tong-bi-bat-tam-giam-vi-xui-giuc-nguoi-khac-livestream-xuyen-tac-185251007185122175.htm",
+      "summary": "Công an tỉnh Gia Lai bắt tạm giam ông Nguyễn Văn Tòng, chủ mưu xúi giục người khác livestream, kích động gây rối an ninh trật tự liên quan Dự án khu công nghiệp Phù Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:00:00+07:00",
+      "fetched": "2025-10-07T21:17:09.492249+07:00"
+    },
+    {
+      "id": "48a70a5c3036ffe706fb40b30d7d5c40",
+      "title": "PVN vay 1 tỷ USD làm dự án khí lô B",
+      "link": "https://vnexpress.net/pvn-vay-1-ty-usd-lam-du-an-khi-lo-b-4948473.html",
+      "summary": "PVN vay từ Vietcombank 1 tỷ USD làm dự án phát triển khai thác khí lô B và đường ống dẫn khí lô B - Ô Môn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T12:58:27+07:00",
+      "fetched": "2025-10-07T21:17:13.413660+07:00"
+    },
+    {
+      "id": "8ab7d9433e1be9dd44bc3d15be4eeb52",
+      "title": "Hà Nội: Người dân ngán ngẩm vì con ngõ '8 ngày thì ngập 7'",
+      "link": "https://thanhnien.vn/ha-noi-nguoi-dan-ngan-ngam-vi-con-ngo-8-ngay-thi-ngap-7-185251007191746714.htm",
+      "summary": "Vừa trải qua trận ngập kéo dài 6 ngày, người dân sinh sống trong ngõ 153/6 thuộc Tổ dân phố số 2 Miêu Nha (P.Xuân Phương, Hà Nội) chưa kịp dọn dẹp xong nhà cửa, thì nhiều nơi trong ngõ tiếp tục bị ngập nước sau cơn mưa sáng 7.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:54:00+07:00",
+      "fetched": "2025-10-07T21:17:09.492399+07:00"
+    },
+    {
+      "id": "c38f83b9865b27b8970c5b374ca1c845",
+      "title": "Máy bay quân đội sẵn sàng cứu hộ, tiếp tế khu vực cô lập do mưa lũ",
+      "link": "https://thanhnien.vn/may-bay-quan-doi-san-sang-cuu-ho-tiep-te-khu-vuc-co-lap-do-mua-lu-18525100719333649.htm",
+      "summary": "Ngày 7.10, Bộ Tổng tham mưu Quân đội nhân dân Việt Nam đã có công điện hỏa tốc gửi các cơ quan, đơn vị quân đội về việc chủ động ứng phó với mưa, lũ lớn do hoàn lưu bão Matmo (bão số 11) gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:50:00+07:00",
+      "fetched": "2025-10-07T21:17:09.492553+07:00"
+    },
+    {
+      "id": "cd40d888d4eeaab251804a8d526e03dc",
+      "title": "TP.HCM: AI giúp tòa giải quyết công việc một cách ngoạn mục, không lo rò rỉ thông tin",
+      "link": "https://thanhnien.vn/tphcm-ai-giup-toa-giai-quyet-cong-viec-mot-cach-ngoan-muc-khong-lo-ro-ri-thong-tin-185251007191605452.htm",
+      "summary": "AI giúp tòa án xử lý tức thời khối lượng tài liệu lớn, có thể rà soát, đọc hiểu, đánh giá tài liệu trong hồ sơ vụ án với thời gian ngắn, mà không sợ bị rò rỉ ra bên ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:32:00+07:00",
+      "fetched": "2025-10-07T21:17:09.492707+07:00"
     },
     {
       "id": "2a997f0e1bf5ed5c62c72bb444ef3b18",
