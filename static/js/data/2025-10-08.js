@@ -1,6 +1,6 @@
 window.newsData_2025_10_08 = {
   "date": "2025-10-08",
-  "lastUpdated": "2025-10-08T09:55:39.786777+07:00",
+  "lastUpdated": "2025-10-08T11:19:23.332107+07:00",
   "articles": [
     {
       "id": "e02d15a8b93fd0fa03cb29290523c2c6",
@@ -283,6 +283,386 @@ window.newsData_2025_10_08 = {
       "fetched": "2025-10-08T08:12:37.027578+07:00"
     },
     {
+      "id": "3c0cf9ab6738266df2def9d2cab0a573",
+      "title": "Hai lãnh đạo VFF được FIFA tin tưởng, bổ nhiệm vào các ban chức năng quan trọng",
+      "link": "https://thanhnien.vn/hai-lanh-dao-vff-duoc-fifa-tin-tuong-bo-nhiem-vao-cac-ban-chuc-nang-quan-trong-185251008110929637.htm",
+      "summary": "Tổng thư ký Liên đoàn Bóng đá Việt Nam (VFF) Nguyễn Văn Phú được FIFA bổ nhiệm tham gia Ban Y học, còn Phó tổng thư ký VFF Nguyễn Thanh Hà được FIFA bổ nhiệm vào Ban Bóng đá nữ nhiệm kỳ 2025-2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:16:00+07:00",
+      "fetched": "2025-10-08T11:19:13.733467+07:00"
+    },
+    {
+      "id": "523bab2809770eb75887eed64016422a",
+      "title": "Ngập lụt tại Lạng sơn: Gần 3.000 nhà dân bị cô lập, mất điện diện rộng",
+      "link": "https://thanhnien.vn/ngap-lut-tai-lang-son-gan-3000-nha-dan-bi-co-lap-mat-dien-dien-rong-18525100810524612.htm",
+      "summary": "Tại tỉnh Lạng Sơn, ảnh hưởng của bão Matmo (bão số 11) khiến gần 3.000 nhà dân bị ngập úng từ 30 cm đến 2 m và cô lập. Mất điện diện rộng, mất mạng viễn thông xảy ra ở nhiều xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:15:00+07:00",
+      "fetched": "2025-10-08T11:19:13.733667+07:00"
+    },
+    {
+      "id": "08a61592b789710e3cc78d0f07c5698d",
+      "title": "Tổng thống Argentina trình diễn nhạc rock",
+      "link": "https://vnexpress.net/tong-thong-argentina-trinh-dien-nhac-rock-4948660.html",
+      "summary": "Tổng thống Milei gây chú ý khi tổ chức liveshow, trình diễn 9 bài nhạc rock trước đám đông người ủng hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:12:41+07:00",
+      "fetched": "2025-10-08T11:19:10.370763+07:00"
+    },
+    {
+      "id": "f1fc902254abee67dd52f7c8db1c443c",
+      "title": "Chuyến thăm Triều Tiên của Tổng Bí thư 'sẽ tạo thành quả mới cho quan hệ hai nước'",
+      "link": "https://vnexpress.net/chuyen-tham-trieu-tien-cua-tong-bi-thu-se-tao-thanh-qua-moi-cho-quan-he-hai-nuoc-4948635.html",
+      "summary": "Chuyến thăm của Tổng Bí thư Tô Lâm đến Triều Tiên mang nhiều ý nghĩa, sẽ tạo ra thành quả mới cho quan hệ hai nước, theo Thứ trưởng Ngoại giao Nguyễn Minh Vũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:11:33+07:00",
+      "fetched": "2025-10-08T11:19:10.370948+07:00"
+    },
+    {
+      "id": "fc9f35c142d7177c25cde6d8f51a95df",
+      "title": "Vì sao siêu máy không thể giải được mọi thế cờ?",
+      "link": "https://vnexpress.net/vi-sao-sieu-may-khong-the-giai-duoc-moi-the-co-4948025.html",
+      "summary": "Cờ vua có những thế cờ \"pháo đài\", thường gây khó khăn cho các công cụ cờ vua mạnh nhất, vì \"hiệu ứng chân trời\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:06:10+07:00",
+      "fetched": "2025-10-08T11:19:10.371111+07:00"
+    },
+    {
+      "id": "fc9f35c142d7177c25cde6d8f51a95df",
+      "title": "Vì sao siêu máy không thể giải được mọi thế cờ?",
+      "link": "https://vnexpress.net/vi-sao-sieu-may-khong-the-giai-duoc-moi-the-co-4948025.html",
+      "summary": "Cờ vua có những thế cờ \"pháo đài\", thường gây khó khăn cho các công cụ cờ vua mạnh nhất, vì \"hiệu ứng chân trời\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T04:06:10+07:00",
+      "fetched": "2025-10-08T11:19:23.324327+07:00"
+    },
+    {
+      "id": "d73184446e6c40da12db351af52b5a98",
+      "title": "Cài đặt ẩn trên iPhone đang mở toang cánh cửa cho hacker tấn công",
+      "link": "https://thanhnien.vn/cai-dat-an-tren-iphone-dang-mo-toang-canh-cua-cho-hacker-tan-cong-185251008091921379.htm",
+      "summary": "TSA phát cảnh báo khẩn về việc toàn bộ dữ liệu iPhone có thể bị đánh cắp vì một tùy chọn được bật sẵn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:06:00+07:00",
+      "fetched": "2025-10-08T11:19:13.733839+07:00"
+    },
+    {
+      "id": "79e43226a2e9818dc11725f7c5433934",
+      "title": "Kane thăng hoa nhờ ăn ít kem",
+      "link": "https://vnexpress.net/kane-thang-hoa-nho-an-it-kem-4948594.html",
+      "summary": "Theo Harry Kane, chế độ dinh dưỡng lành mạnh đang giúp anh đạt hiệu suất ghi bàn kỷ lục trong màu áo Bayern mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:05:42+07:00",
+      "fetched": "2025-10-08T11:19:10.371276+07:00"
+    },
+    {
+      "id": "79e43226a2e9818dc11725f7c5433934",
+      "title": "Kane thăng hoa nhờ ăn ít kem",
+      "link": "https://vnexpress.net/kane-thang-hoa-nho-an-it-kem-4948594.html",
+      "summary": "Theo Harry Kane, chế độ dinh dưỡng lành mạnh đang giúp anh đạt hiệu suất ghi bàn kỷ lục trong màu áo Bayern mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T04:05:42+07:00",
+      "fetched": "2025-10-08T11:19:23.325878+07:00"
+    },
+    {
+      "id": "def882fbde7ee41574c7abd2866ba105",
+      "title": "Ứng viên Trợ lý Bộ trưởng Chiến tranh Mỹ có quan điểm thế nào về Đài Loan?",
+      "link": "https://thanhnien.vn/ung-vien-tro-ly-bo-truong-chien-tranh-my-co-quan-diem-the-nao-ve-dai-loan-185251008105104808.htm",
+      "summary": "Ông John Noh, ứng viên cho vị trí Trợ lý Bộ trưởng Chiến tranh Mỹ phụ trách các vấn đề an ninh Ấn Độ Dương - Thái Bình Dương, tuyên bố Đài Loan phải tăng mạnh chi tiêu phòng vệ, nhưng vũ khí sẽ tiếp tục được chuyển từ Mỹ sang Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:04:00+07:00",
+      "fetched": "2025-10-08T11:19:13.733995+07:00"
+    },
+    {
+      "id": "84464ef8a1be8ca5333984069df3e434",
+      "title": "Đồng Nai: Phát hiện 89 con heo dương tính với chất tạo nạc đang chờ giết mổ",
+      "link": "https://thanhnien.vn/dong-nai-phat-hien-89-con-heo-duong-tinh-voi-chat-tao-nac-dang-cho-giet-mo-185251008104959861.htm",
+      "summary": "89 con heo tại một cơ sở giết mổ được phát hiện dương tính với chất tạo nạc, đây là chất cấm trong chăn nuôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:04:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734149+07:00"
+    },
+    {
+      "id": "dc286fb13cd61ac53b7435eee00d0ec3",
+      "title": "Ủy ban Thường vụ Quốc hội xem xét công tác nhân sự thuộc thẩm quyền",
+      "link": "https://thanhnien.vn/uy-ban-thuong-vu-quoc-hoi-xem-xet-cong-tac-nhan-su-thuoc-tham-quyen-185251008104455737.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội sẽ xem xét công tác nhân sự thuộc thẩm quyền tại phiên họp 50 khai mạc vào chiều nay 8.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:04:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734303+07:00"
+    },
+    {
+      "id": "c3c0739b33bae628726d6a9f80200e7b",
+      "title": "Hai du khách Hà Lan đi lạc vào rừng sâu được công an Quảng Trị giải cứu",
+      "link": "https://thanhnien.vn/hai-du-khach-ha-lan-di-lac-vao-rung-sau-duoc-cong-an-quang-tri-giai-cuu-185251008101814549.htm",
+      "summary": "Hay tin có 2 du khách người Hà Lan đi lạc vào rừng sâu, các chiến sĩ công an và người dân tại xã Cồn Tiên (Quảng Trị) nửa đêm băng rừng tìm kiếm, giải cứu hai du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:02:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734465+07:00"
+    },
+    {
+      "id": "3e253799874a250e61b13f51dab4c363",
+      "title": "Giá vàng thế giới vượt mốc 4.000 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-moc-4-000-usd-4948642.html",
+      "summary": "Sáng 8/10, giá vàng thế giới giao ngay vượt 4.000 USD một ounce lần đầu tiên trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:01:30+07:00",
+      "fetched": "2025-10-08T11:19:10.371438+07:00"
+    },
+    {
+      "id": "19649a8c881175b1b26615029d6e2e5c",
+      "title": "Người truy đuổi đối thủ, tông ôtô vào quán nhậu ra đầu thú",
+      "link": "https://vnexpress.net/nguoi-truy-duoi-doi-thu-tong-oto-vao-quan-nhau-ra-dau-thu-4948679.html",
+      "summary": "Đặng Văn Sang, 27 tuổi, đến công an trình diện, khai vì mâu thuẫn nên lái ôtô tông nam thanh niên, lao vào quán nhậu khiến người phụ nữ tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:01:01+07:00",
+      "fetched": "2025-10-08T11:19:10.371616+07:00"
+    },
+    {
+      "id": "a7254e0ad7e43bcba852e2278ce9c35f",
+      "title": "Tôi thấy nghẹn vì những suất ăn bán trú 30 K nhưng chất lượng như 10 K",
+      "link": "https://vnexpress.net/toi-thay-nghen-vi-nhung-suat-an-ban-tru-gia-30-k-chat-luong-nhu-10-k-4948576.html",
+      "summary": "Phụ huynh đóng tiền đầy đủ cho suất cơm bán trú của con, từ 25.000-35.000 đồng, nhưng nhiều bữa ăn thực tế lại nghèo nàn đến mức khó tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:00:43+07:00",
+      "fetched": "2025-10-08T11:19:10.371781+07:00"
+    },
+    {
+      "id": "940ebe5ed936c963755201a7cbcd6faf",
+      "title": "Eximbank tích hợp thanh toán Samsung Pay cho chủ thẻ Visa",
+      "link": "https://vnexpress.net/eximbank-tich-hop-thanh-toan-samsung-pay-cho-chu-the-visa-4948669.html",
+      "summary": "Eximbank mở rộng tính năng thanh toán Samsung Pay sang thẻ Visa, nhằm mở rộng lựa chọn thanh toán số cho khách hàng, đáp ứng nhu cầu chi tiêu an toàn, tiện lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:00:00+07:00",
+      "fetched": "2025-10-08T11:19:10.371932+07:00"
+    },
+    {
+      "id": "d33e3db85f0ee1c692ec866d112e64f1",
+      "title": "Bắt vít chỉnh thẳng cột sống vẹo, thoát vị",
+      "link": "https://vnexpress.net/bat-vit-chinh-thang-cot-song-veo-thoat-vi-4948662.html",
+      "summary": "Bà Pha, 57 tuổi, bị cong vẹo cột sống, hẹp ống sống và thoát vị 7 năm, nay được bác sĩ phẫu thuật bắt vít chỉnh thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:00:00+07:00",
+      "fetched": "2025-10-08T11:19:10.372092+07:00"
+    },
+    {
+      "id": "402a4089e1e3096386dc17e92d722275",
+      "title": "Cắt tuyến tiền liệt triệt căn ung thư",
+      "link": "https://vnexpress.net/cat-tuyen-tien-liet-triet-can-ung-thu-4948638.html",
+      "summary": "Ông Phan, 63 tuổi, bị rối loạn tiểu, sinh thiết xác định ung thư tuyến tiền liệt, bác sĩ phẫu thuật triệt căn bằng robot Da Vinci Xi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:00:00+07:00",
+      "fetched": "2025-10-08T11:19:10.372243+07:00"
+    },
+    {
+      "id": "54094070092c12b860c6e4708875464b",
+      "title": "Nhồi máu cơ tim sau nửa năm đau ngực",
+      "link": "https://vnexpress.net/nhoi-mau-co-tim-sau-nua-nam-dau-nguc-4948579.html",
+      "summary": "Ông Từ, 65 tuổi, đột nhiên đau ngực dữ dội, vã mồ hôi, vào viện bác sĩ chẩn đoán nhồi máu cơ tim cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T04:00:00+07:00",
+      "fetched": "2025-10-08T11:19:10.372403+07:00"
+    },
+    {
+      "id": "2dac59ba8b580b9e073eb7df5c3be97b",
+      "title": "Bị rút trộm một tỷ đồng trong tài khoản, thanh niên 'dùng nắm đấm' đi đòi",
+      "link": "https://vnexpress.net/bi-rut-trom-mot-ty-dong-trong-tai-khoan-thanh-nien-dung-nam-dam-di-doi-4948536.html",
+      "summary": "Đinh Quang Thiện bị người lạ rút hơn một tỷ đồng trong tài khoản số đẹp, đòi mãi không được nên rủ đàn em \"nói chuyện bằng nắm đấm\", khiến tất cả cùng lãnh án tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:59:45+07:00",
+      "fetched": "2025-10-08T11:19:10.372556+07:00"
+    },
+    {
+      "id": "5b7ed0358c32c1638ca8720695944d5a",
+      "title": "Bóng đá Malaysia đã đánh mất sự chính trực, thứ quý giá nhất: Làm sao tìm lại?",
+      "link": "https://thanhnien.vn/bong-da-malaysia-da-danh-mat-su-chinh-truc-thu-quy-gia-nhat-lam-sao-tim-lai-185251008105552044.htm",
+      "summary": "Nhà báo thể thao nổi tiếng T.Avineshwaran của báo Malaysia, The Star, vừa bày tỏ nỗi lòng của mình xung quanh vụ bê bối 7 cầu thủ nhập tịch 'lậu' và trách nhiệm của Liên đoàn Bóng đá nước này (FAM) trước án phạt từ FIFA giáng xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:59:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734635+07:00"
+    },
+    {
+      "id": "fa3617684e0b18cb2141aa9123f7a673",
+      "title": "Đêm trắng chạy lũ lịch sử của người Thái Nguyên",
+      "link": "https://vnexpress.net/dem-trang-chay-lu-lich-su-cua-nguoi-thai-nguyen-4948610.html",
+      "summary": "Lũ sông Cầu vượt mức lịch sử năm ngoái 1,09 m khiến nước dồn về Thái Nguyên, hơn 5.400 ngôi nhà bị cô lập, người dân trắng đêm canh chạy lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:52:24+07:00",
+      "fetched": "2025-10-08T11:19:10.372734+07:00"
+    },
+    {
+      "id": "446ef259c14cba2f2dde37f153d26e0a",
+      "title": "Xem xét trách nhiệm vụ nghi ngộ độc khiến 40 học sinh Quảng Trị nằm viện",
+      "link": "https://thanhnien.vn/xem-xet-trach-nhiem-vu-nghi-ngo-doc-khien-40-hoc-sinh-quang-tri-nam-vien-18525100810354721.htm",
+      "summary": "Sau khi có kết quả kiểm nghiệm thực phẩm, UBND xã Kim Ngân (Quảng Trị) đang xem xét trách nhiệm vụ nghi ngộ độc khiến 40 học sinh nhập viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:51:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734791+07:00"
+    },
+    {
+      "id": "11d897c16fe320c2dff942a96e3b8c7a",
+      "title": "Nữ thẩm phán quyết chặn kế hoạch điều vệ binh của ông Trump",
+      "link": "https://vnexpress.net/nu-tham-phan-quyet-chan-ke-hoach-dieu-ve-binh-cua-ong-trump-4948374.html",
+      "summary": "Thẩm phán Immergut, người được ông Trump đề cử, gây chú ý khi ra hai phán quyết ngăn Tổng thống triển khai vệ binh ở Oregon, khiến ông chủ Nhà Trắng phẫn nộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:49:03+07:00",
+      "fetched": "2025-10-08T11:19:10.372894+07:00"
+    },
+    {
+      "id": "11d897c16fe320c2dff942a96e3b8c7a",
+      "title": "Nữ thẩm phán quyết chặn kế hoạch điều vệ binh của ông Trump",
+      "link": "https://vnexpress.net/nu-tham-phan-quyet-chan-ke-hoach-dieu-ve-binh-cua-ong-trump-4948374.html",
+      "summary": "Thẩm phán Immergut, người được ông Trump đề cử, gây chú ý khi ra hai phán quyết ngăn Tổng thống triển khai vệ binh ở Oregon, khiến ông chủ Nhà Trắng phẫn nộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T03:49:03+07:00",
+      "fetched": "2025-10-08T11:19:16.780263+07:00"
+    },
+    {
+      "id": "a6d5477a5ba65613e3d1d671d6f4e5c2",
+      "title": "Sáng nay, trực thăng quân sự cứu trợ nhân dân bị ngập lụt tại Lạng Sơn",
+      "link": "https://thanhnien.vn/sang-nay-truc-thang-quan-su-cuu-tro-nhan-dan-bi-ngap-lut-tai-lang-son-185251008101218651.htm",
+      "summary": "Bộ Quốc phòng vừa lệnh Quân chủng Phòng không – Không quân thực hiện nhiệm vụ cứu trợ nhân dân các địa bàn bị chia cắt, ngập lụt nặng tại tỉnh Lạng Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:46:00+07:00",
+      "fetched": "2025-10-08T11:19:13.734953+07:00"
+    },
+    {
+      "id": "8484ec85f83e66c64ff761e5519759ad",
+      "title": "Đội tuyển Nepal tới Việt Nam: Đối thủ đã sẵn sàng, thầy trò ông Kim thì sao?",
+      "link": "https://thanhnien.vn/doi-tuyen-nepal-toi-viet-nam-doi-thu-da-san-sang-thay-tro-ong-kim-thi-sao-185251008104411472.htm",
+      "summary": "Đội tuyển Nepal đã có mặt tại TP.HCM vào đêm qua (7.10) để chuẩn bị cho 2 trận gặp đội tuyển Việt Nam tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:45:00+07:00",
+      "fetched": "2025-10-08T11:19:13.735107+07:00"
+    },
+    {
+      "id": "29b35abd76b1b86133d2135e11a9ce54",
+      "title": "Lynda Trang Đài 'không chống lại cáo buộc trộm cắp'",
+      "link": "https://vnexpress.net/lynda-trang-dai-khong-chong-lai-cao-buoc-trom-cap-4948628.html",
+      "summary": "Ca sĩ Lynda Trang Đài ký văn bản không chống lại cáo buộc trộm cắp vặt, có thể đối diện án một năm tù và (hoặc) 1.000 USD tiền phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:43:37+07:00",
+      "fetched": "2025-10-08T11:19:10.373051+07:00"
+    },
+    {
+      "id": "42c15c6a082d12d7c10c64deb60345c1",
+      "title": "AFC được quyền phạt đội tuyển Malaysia trước khi có kết quả kháng cáo không: Có, tại sao?",
+      "link": "https://thanhnien.vn/afc-co-quyen-phat-doi-tuyen-malaysia-truoc-khi-co-ket-qua-khang-cao-khong-co-tai-sao-18525100810412441.htm",
+      "summary": "Vụ FAM dính đến bê bối nhập tịch cầu thủ và bị FIFA phanh phui sự thật đang tạo sóng dư luận. Bóng đá Malaysia bị ảnh hưởng uy tín trầm trọng và phát ngôn mới đây nhất của AFC cũng khiến khán giả đặc biệt chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:41:00+07:00",
+      "fetched": "2025-10-08T11:19:13.735259+07:00"
+    },
+    {
+      "id": "8bb18dd7fd0439f2e1d7787f02c86861",
+      "title": "Xe chở Tổng thống Ecuador bị hàng trăm người vây ném đá, có vết đạn bắn",
+      "link": "https://thanhnien.vn/xe-cho-tong-thong-ecuador-bi-hang-tram-nguoi-vay-nem-da-co-vet-dan-ban-185251008103300614.htm",
+      "summary": "Đoàn xe chở Tổng thống Ecuador Daniel Noboa đã bị khoảng 500 người vây quanh và ném đá, 5 người đã bị bắt với cáo buộc mưu sát tổng thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:39:00+07:00",
+      "fetched": "2025-10-08T11:19:13.735408+07:00"
+    },
+    {
+      "id": "1ba830a7e7b31ed57c9e563e7f53a03f",
+      "title": "TP.HCM thu ngân sách hơn 570.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-thu-ngan-sach-hon-570000-ti-dong-18525100809223774.htm",
+      "summary": "9 tháng đầu năm 2025, TP.HCM thu ngân sách hơn 570.000 tỉ đồng, trong đó thuế thu nhập cá nhân hơn 70.300 tỉ đồng và các khoản thu về nhà, đất hơn 60.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:37:00+07:00",
+      "fetched": "2025-10-08T11:19:13.735562+07:00"
+    },
+    {
+      "id": "74741624d9535bec5c841aef1435d4ca",
+      "title": "Giáo hội Phật giáo Việt Nam thông tin lễ tang trưởng lão hòa thượng Thích Trí Tịnh",
+      "link": "https://thanhnien.vn/giao-hoi-phat-giao-viet-nam-thong-tin-le-tang-truong-lao-hoa-thuong-thich-tri-tinh-185251008101837751.htm",
+      "summary": "Giáo hội Phật giáo Việt Nam vừa thông tin chương trình lễ tang của trưởng lão hòa thượng Thích Trí Tịnh tại chùa Vĩnh Nghiêm và Linh Phong Thiền Uyển (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T03:23:00+07:00",
+      "fetched": "2025-10-08T11:19:13.735740+07:00"
+    },
+    {
+      "id": "148de0454e77a34ae83916915c11362d",
+      "title": "Thủ tướng yêu cầu báo cáo chính sách thuế bất động sản trước 15/10",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-bao-cao-chinh-sach-thue-bat-dong-san-truoc-15-10-4948600.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu Bộ Tài chính báo cáo Chính phủ về chính sách thuế bất động sản trước ngày 15/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-08T03:15:26+07:00",
+      "fetched": "2025-10-08T11:19:18.337192+07:00"
+    },
+    {
+      "id": "a574da1aaff5df18090b8f2af07b90a9",
+      "title": "Conor McGregor bị cấm thi đấu 18 tháng",
+      "link": "https://vnexpress.net/conor-mcgregor-bi-cam-thi-dau-18-thang-4948592.html",
+      "summary": "Ngôi sao UFC Conor McGregor vừa bị Ủy ban Chống doping thể thao đối kháng (CSAD) treo găng 18 tháng, vì ba lần bỏ kiểm tra doping trong một năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T03:12:15+07:00",
+      "fetched": "2025-10-08T11:19:23.324877+07:00"
+    },
+    {
+      "id": "32c0502218f6ad2d55d1c9992aebf5d9",
+      "title": "Tiến hóa gene giúp người Kenya sống sót trên sa mạc",
+      "link": "https://vnexpress.net/tien-hoa-gene-giup-nguoi-kenya-song-sot-tren-sa-mac-4948459.html",
+      "summary": "Các nhà khoa học phát hiện biến thể gene ở người Turkana giúp họ giữ nước khi hoạt động thời gian dài dưới nắng nóng sa mạc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-08T03:05:30+07:00",
+      "fetched": "2025-10-08T11:19:21.421607+07:00"
+    },
+    {
+      "id": "4ee3e3f99bbbd338185fa53773abe4b5",
+      "title": "Ronaldo: 'Gia đình thắc mắc tại sao tôi muốn ghi 1.000 bàn'",
+      "link": "https://vnexpress.net/ronaldo-gia-dinh-thac-mac-tai-sao-toi-muon-ghi-1-000-ban-4948607.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo khẳng định vẫn đam mê va muốn tận hưởng trọn vẹn quãng thời gian còn lại của sự nghiệp, bất chấp những lời khuyên từ người thân rằng nên dừng lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T03:03:07+07:00",
+      "fetched": "2025-10-08T11:19:23.325072+07:00"
+    },
+    {
+      "id": "a428b1533a2d67dae50affcd077dd65d",
+      "title": "Nhập viện vì nuốt 8 con nhái sống để chữa đau lưng",
+      "link": "https://vnexpress.net/nhap-vien-vi-nuot-8-con-nhai-song-de-chua-dau-lung-4948582.html",
+      "summary": "Người phụ nữ 82 tuổi ở Chiết Giang phải vào viện vì nhiễm ký sinh trùng sau khi nuốt 8 con nhái sống để chữa đau lưng theo bài thuốc dân gian.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T02:58:25+07:00",
+      "fetched": "2025-10-08T11:19:16.780438+07:00"
+    },
+    {
       "id": "a102858b8067625506fd8e10ff1d21fb",
       "title": "Đội tuyển Malaysia bị sức ép khủng khiếp bủa vây: Chưa chắc đã thắng được Lào!",
       "link": "https://thanhnien.vn/doi-tuyen-malaysia-bi-suc-ep-khung-khiep-bua-vay-chua-chac-da-thang-duoc-lao-185251008093029649.htm",
@@ -311,6 +691,26 @@ window.newsData_2025_10_08 = {
       "category": "Tổng hợp",
       "published": "2025-10-08T02:48:00+07:00",
       "fetched": "2025-10-08T09:55:33.703077+07:00"
+    },
+    {
+      "id": "2ba687828c601af2fd62f8b24f1ef217",
+      "title": "Lũ lụt khiến 22 người thiệt mạng ở Thái Lan",
+      "link": "https://vnexpress.net/lu-lut-khien-22-nguoi-thiet-mang-o-thai-lan-4948591.html",
+      "summary": "Ít nhất 22 người đã chết do lũ lụt ở Thái Lan, trong khi khoảng 370.000 người bị ảnh hưởng do mưa lớn và nước sông dâng cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T02:46:40+07:00",
+      "fetched": "2025-10-08T11:19:16.780626+07:00"
+    },
+    {
+      "id": "0a33c93fcc7b721cc5028922aa7ca6ee",
+      "title": "Hàng không Mỹ lao đao vì chính phủ đóng cửa",
+      "link": "https://vnexpress.net/hang-khong-my-lao-dao-vi-chinh-phu-dong-cua-4948578.html",
+      "summary": "Hàng nghìn chuyến bay bị hoãn, một số sân bay phải tạm ngừng hoạt động do thiếu kiểm soát viên không lưu vì chính phủ Mỹ đóng cửa suốt tuần qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T02:41:55+07:00",
+      "fetched": "2025-10-08T11:19:16.780800+07:00"
     },
     {
       "id": "daeacc4fe7055d71992c9a8a950fa85b",
@@ -1721,6 +2121,16 @@ window.newsData_2025_10_08 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T16:16:00+07:00",
       "fetched": "2025-10-08T01:23:39.858952+07:00"
+    },
+    {
+      "id": "18b14b2b582fb05398774f56801f739c",
+      "title": "Bình chọn cho máy lọc không khí có công nghệ màng lọc ấn tượng",
+      "link": "https://vnexpress.net/binh-chon-cho-may-loc-khong-khi-co-cong-nghe-mang-loc-an-tuong-4948648.html",
+      "summary": "Số bình chọn thứ sáu của Sản phẩm tôi yêu 2025 có chủ đề Máy lọc không khí có công nghệ màng lọc ấn tượng, diễn ra ngày 7-16/10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T16:00:00+07:00",
+      "fetched": "2025-10-08T11:19:21.421946+07:00"
     },
     {
       "id": "37e8472f02c0351cc02549cac782fe1b",
