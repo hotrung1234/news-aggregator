@@ -1,7 +1,157 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T21:16:16.354262+07:00",
+  "lastUpdated": "2025-10-10T23:20:14.822919+07:00",
   "articles": [
+    {
+      "id": "473804de979209087eba0b73cfa3e324",
+      "title": "Điện thoại gập HONOR Magic V5 chính thức ra mắt tại Việt Nam",
+      "link": "https://tuoitre.vn/dien-thoai-gap-honor-magic-v5-chinh-thuc-ra-mat-tai-viet-nam-20251010202903456.htm",
+      "summary": "Ngày 10-10, HONOR chính thức giới thiệu Magic V5 tại Việt Nam - điện thoại gập mỏng nhẹ có pin lớn và tính năng AI toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.558538+07:00",
+      "fetched": "2025-10-10T23:20:07.558654+07:00"
+    },
+    {
+      "id": "8530876bb53e618be013660312e6f507",
+      "title": "Cựu Thủ tướng 100 tuổi của Malaysia chỉ trích dữ dội nền bóng đá nước nhà",
+      "link": "https://tuoitre.vn/cuu-thu-tuong-100-tuoi-cua-malaysia-chi-trich-du-doi-nen-bong-da-nuoc-nha-20251010194456473.htm",
+      "summary": "Các quan chức Liên đoàn Bóng đá Malaysia (FAM) phải nhận một đòn nặng nề về uy tín, khi vị lãnh tụ huyền thoại quốc gia này là ông Mahathir Mohamad mới đây đã lên tiếng chỉ trích nặng nề nền bóng đá nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.558406+07:00",
+      "fetched": "2025-10-10T23:20:07.558527+07:00"
+    },
+    {
+      "id": "14ca929440cc211ce12de9efa7e4b2d2",
+      "title": "Cô gái bị xe cán, vỡ hàng loạt tạng vẫn hồi phục ngoạn mục",
+      "link": "https://tuoitre.vn/co-gai-bi-xe-can-vo-hang-loat-tang-van-hoi-phuc-ngoan-muc-20251010193256311.htm",
+      "summary": "Bị xe tải cán qua bụng, nhiều tạng vỡ nát, huyết áp bằng 0, cô gái trẻ được các bác sĩ Bệnh viện Đà Nẵng cứu sống ngoạn mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.558281+07:00",
+      "fetched": "2025-10-10T23:20:07.558396+07:00"
+    },
+    {
+      "id": "93a0352deb9da97e431b63747ae3aa93",
+      "title": "Bốn ngày 'chiến đấu' với lũ sông Cầu: Có tiền chẳng mua nổi bữa cơm",
+      "link": "https://tuoitre.vn/bon-ngay-chien-dau-voi-lu-song-cau-co-tien-chang-mua-noi-bua-com-2025101020132555.htm",
+      "summary": "Bốn ngày sau khi nước sông Cầu dâng cao, tổ dân phố Nam Ngạn (phường Nếnh, Bắc Ninh), nơi từng tấp nập xe tải chở vôi xây nhà khắp Bắc - Nam, giờ chỉ lác đác vài chiếc đò con lênh đênh giữa dòng nước đục ngầu dâng cao 2-3m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.558150+07:00",
+      "fetched": "2025-10-10T23:20:07.558270+07:00"
+    },
+    {
+      "id": "0f29c7b276d55457be9cf3262fe07f7b",
+      "title": "Người dân Nhuận Đức TP.HCM hiến đất vườn, ruộng… để mở rộng đường",
+      "link": "https://tuoitre.vn/nguoi-dan-nhuan-duc-tp-hcm-hien-dat-vuon-ruong-de-mo-rong-duong-20251010195534969.htm",
+      "summary": "Ngày 10-10, UBND xã Nhuận Đức (TP.HCM) tổ chức hội nghị tuyên dương điển hình tiên tiến giai đoạn 2020 - 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.558029+07:00",
+      "fetched": "2025-10-10T23:20:07.558139+07:00"
+    },
+    {
+      "id": "5cfabe042178e849570585f3347cb0b4",
+      "title": "Facebook chặn gỡ gần 11.000 bài viết chống phá Đảng, Nhà nước, vi phạm pháp luật",
+      "link": "https://tuoitre.vn/facebook-chan-go-gan-11-000-bai-viet-chong-pha-dang-nha-nuoc-vi-pham-phap-luat-20251010190945926.htm",
+      "summary": "Trong quý 3, Facebook đã chặn gỡ 10.713 bài viết chống phá Đảng, Nhà nước, vi phạm pháp luật Việt Nam (tỉ lệ 96%); YouTube đã gỡ 705 video vi phạm (tỉ lệ 92%); TikTok đã chặn, gỡ bỏ 798 nội dung vi phạm (tỉ lệ 97%).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557903+07:00",
+      "fetched": "2025-10-10T23:20:07.558018+07:00"
+    },
+    {
+      "id": "cee9765ef81f82876cd5ff2ff5dd52e1",
+      "title": "Đầu vào của trung cấp là sau THPT, của trung học nghề là sau THCS",
+      "link": "https://tuoitre.vn/dau-vao-cua-trung-cap-la-sau-thpt-cua-trung-hoc-nghe-la-sau-thcs-20251010202254905.htm",
+      "summary": "Đây sẽ là một trong nhiều định hướng mới trong hệ thống giáo dục nghề nghiệp trong thời gian tới khi xuất hiện chương trình trung học nghề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557758+07:00",
+      "fetched": "2025-10-10T23:20:07.557891+07:00"
+    },
+    {
+      "id": "80c8e5caa6ae1fa3fd05bf5eb1a47ae5",
+      "title": "Cơn địa chấn G-DRAGON 2025 WORLD TOUR [Übermensch] mở bán vé Day 2 tại 8WONDER OCEAN CITY",
+      "link": "https://tuoitre.vn/con-dia-chan-g-dragon-2025-world-tour-bermensch-mo-ban-ve-day-2-2025101020401643.htm",
+      "summary": "G-DRAGON thực sự đang tạo nên 'cơn địa chấn' chưa từng có trong cộng đồng yêu nhạc Việt khi 'chiều lòng' fan bằng việc tổ chức thêm một đêm diễn tại 8Wonder Ocean City.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557632+07:00",
+      "fetched": "2025-10-10T23:20:07.557747+07:00"
+    },
+    {
+      "id": "845e408354c456c13c8d58292480727e",
+      "title": "Lũ về, giữa hoạn nạn thấu hiểu thêm tình cảm đồng bào",
+      "link": "https://tuoitre.vn/lu-ve-giua-hoan-nan-thau-hieu-them-tinh-cam-dong-bao-20251010115603095.htm",
+      "summary": "Lũ dữ chẳng nhấn chìm được nghĩa tình đồng bào keo sơn. Trước những lời kêu cứu từ đồng bào miền Bắc, người dân khắp mọi miền đều lo lắng, dõi theo và sẵn sàng chung tay hỗ trợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557504+07:00",
+      "fetched": "2025-10-10T23:20:07.557621+07:00"
+    },
+    {
+      "id": "0545282167931be49df0350b7e8efcbd",
+      "title": "Bom tấn kinh dị Thái Lan Tee yod: Quỷ ăn tạng 3 ra rạp; Soobin nhắc nhở Tân binh toàn năng giữ lửa",
+      "link": "https://tuoitre.vn/bom-tan-kinh-di-thai-lan-tee-yod-quy-an-tang-3-ra-rap-soobin-nhac-nho-tan-binh-toan-nang-giu-lua-20251010170056891.htm",
+      "summary": "Một số tin tức xem nghe nổi bật: Bom tấn kinh dị Thái Lan Tee yod: Quỷ ăn tạng 3 ra rạp; Tân binh toàn năng: SOOBIN nhắc nhở giữ lửa; Xem Tú Sương đóng vai nam trong Bức ngôn đồ Đại Việt; Running man: Cuộc chiến thượng lưu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557376+07:00",
+      "fetched": "2025-10-10T23:20:07.557493+07:00"
+    },
+    {
+      "id": "ba6332989efb4615ade15e0bdcde5850",
+      "title": "Thủ tướng 'đặt hàng' doanh nhân Việt ba cùng, ba tiên phong, hai lớn mạnh",
+      "link": "https://tuoitre.vn/thu-tuong-dat-hang-doanh-nhan-viet-ba-cung-ba-tien-phong-hai-lon-manh-2025101020442227.htm",
+      "summary": "Chiều 10-10, Thủ tướng Chính phủ Phạm Minh Chính dự phiên họp cấp cao “Toàn cảnh Kinh tế tư nhân Việt Nam lần thứ nhất” năm 2025 (ViPEL 2025) với chủ đề “Công - tư đồng kiến quốc hùng cường - thịnh vượng”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557247+07:00",
+      "fetched": "2025-10-10T23:20:07.557364+07:00"
+    },
+    {
+      "id": "a3ecaf6303202fa9816c301b838cee2e",
+      "title": "Em bé 5 tháng tuổi khát sữa giữa vùng rốn lũ",
+      "link": "https://tuoitre.vn/em-be-5-thang-tuoi-khat-sua-giua-vung-ron-lu-20251010194506036.htm",
+      "summary": "Cơn lũ dữ cuồn cuộn như thác ập về, trong đêm tối chị Chung Thị Trang bế đứa con nhỏ mới 5 tháng tuổi tháo chạy kịp sang nhà hàng xóm. Ba ngày mắc kẹt ở vùng lũ, em bé khát sữa khóc ngằn ngặt, còn người mẹ bất lực, lòng quặn thắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.557116+07:00",
+      "fetched": "2025-10-10T23:20:07.557236+07:00"
+    },
+    {
+      "id": "37f5798dc01d0042bd8ad9fc7110966e",
+      "title": "100 xe buýt CNG của Samco tồn kho nhiều năm vì không còn phù hợp với chuyển đổi xanh",
+      "link": "https://tuoitre.vn/100-xe-buyt-cng-cua-samco-ton-kho-nhieu-nam-so-xay-dung-tp-hcm-noi-gi-20251010195729414.htm",
+      "summary": "Gần 100 xe buýt CNG mới của Samco tồn kho nhiều năm, Sở Xây dựng TP.HCM cho rằng loại hình này không còn phù hợp với lộ trình chuyển đổi xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.556976+07:00",
+      "fetched": "2025-10-10T23:20:07.557104+07:00"
+    },
+    {
+      "id": "12534d521ea15071b64678edec79e049",
+      "title": "Ông Putin an ủi ông Trump, chỉ trích Nobel Hòa bình",
+      "link": "https://tuoitre.vn/ong-putin-an-ui-ong-trump-chi-trich-nobel-hoa-binh-2025101021030705.htm",
+      "summary": "Tổng thống Nga cho rằng giải Nobel Hòa bình nhiều năm vinh danh những người không đóng góp cho hòa bình thế giới, trong khi ông Trump có thể đạt thành tựu lịch sử về hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.556796+07:00",
+      "fetched": "2025-10-10T23:20:07.556961+07:00"
+    },
+    {
+      "id": "b23ba207f6654240a8b38c6dbda214d5",
+      "title": "Có gì đặc biệt ở bức tranh gỗ ‘Vinh quy bái tổ’ mà Hà Nội mua tặng Văn Miếu Quốc Tử Giám?",
+      "link": "https://tuoitre.vn/co-gi-dac-biet-o-buc-tranh-go-vinh-quy-bai-to-ma-ha-noi-mua-tang-van-mieu-quoc-tu-giam-20251010204536934.htm",
+      "summary": "Đó là bức tranh gỗ đạt hai kỷ lục: Tác phẩm tranh điêu khắc thủ công vinh quy bái tổ trên gỗ liền khối lớn nhất Việt Nam và Tranh gỗ vinh quy bái tổ có số lượng người nhiều nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T23:20:07.556546+07:00",
+      "fetched": "2025-10-10T23:20:07.556757+07:00"
+    },
     {
       "id": "5b8c7e43e4278faf1611d71191ef2286",
       "title": "Đức bãi bỏ luật nhập tịch nhanh sau 3 năm",
@@ -453,6 +603,56 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T17:18:10.767282+07:00"
     },
     {
+      "id": "c952ecb0eb56a86acd15a2260aa3a209",
+      "title": "Doanh nghiệp sẽ được cấp 'quota' xuất nhập khẩu vàng hàng năm",
+      "link": "https://vnexpress.net/doanh-nghiep-se-duoc-cap-quota-xuat-nhap-khau-vang-hang-nam-4949956.html",
+      "summary": "Đơn vị được kinh doanh vàng miếng sẽ được cấp hạn mức xuất, nhập khẩu hàng năm và phải báo cáo doanh số giao dịch cho Ngân hàng Nhà nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T15:48:19+07:00",
+      "fetched": "2025-10-10T23:20:10.623189+07:00"
+    },
+    {
+      "id": "b0370cddc8e3361246e465d4c360c22a",
+      "title": "Ông Trump dọa tăng thuế với Trung Quốc, không muốn gặp ông Tập",
+      "link": "https://vnexpress.net/ong-trump-doa-tang-thue-voi-trung-quoc-khong-muon-gap-ong-tap-4949971.html",
+      "summary": "Tổng thống Trump nói không có lý do để gặp Chủ tịch Tập Cận Bình tại Hàn Quốc theo kế hoạch, cảnh báo Mỹ đang tính toán để tăng thuế với hàng Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T15:43:55+07:00",
+      "fetched": "2025-10-10T23:20:09.566882+07:00"
+    },
+    {
+      "id": "05edeae8ad68cad8063252f531aa476e",
+      "title": "Thí sinh Học viện Biên phòng bị loại vì sức khỏe đã trúng tuyển Trường ĐH Vinh",
+      "link": "https://thanhnien.vn/thi-sinh-hoc-vien-bien-phong-bi-loai-vi-suc-khoe-da-trung-tuyen-truong-dh-vinh-185251010220038151.htm",
+      "summary": "Em Lang Đức Bằng, thí sinh Học viện Biên phòng bị loại vì sức khỏe đã trúng tuyển ngành sư phạm lịch sử Trường ĐH Vinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:31:00+07:00",
+      "fetched": "2025-10-10T23:20:06.532633+07:00"
+    },
+    {
+      "id": "047ba4b0d8bc02c0306947bcf57ef923",
+      "title": "Nhà Trắng chỉ trích Ủy ban Nobel vì không trao giải cho ông Trump",
+      "link": "https://thanhnien.vn/nha-trang-chi-trich-uy-ban-nobel-vi-khong-trao-giai-cho-ong-trump-185251010215432685.htm",
+      "summary": "Nhà Trắng đã chỉ trích quyết định của Ủy ban Nobel Na Uy vì trao giải Nobel Hòa bình cho một nhà hoạt động Venezuela thay vì Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:31:00+07:00",
+      "fetched": "2025-10-10T23:20:06.532824+07:00"
+    },
+    {
+      "id": "dcb6d162198592d010251d633e4dbd4a",
+      "title": "Khởi tố đối tượng xăm trổ đánh phụ nữ mang thai",
+      "link": "https://thanhnien.vn/khoi-to-doi-tuong-xam-tro-danh-phu-nu-mang-thai-185251010220322456.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã có quyết định khởi tố đối tượng xăm trổ đánh phụ nữ đang mang thai trong tiệm tạp hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:22:00+07:00",
+      "fetched": "2025-10-10T23:20:06.532987+07:00"
+    },
+    {
       "id": "3d9e9402a9658b2e4cd8f7728539901d",
       "title": "Mỹ đề xuất cấm Trung Quốc bay qua không phận Nga trên các chuyến bay đến Mỹ",
       "link": "https://tuoitre.vn/my-de-xuat-cam-trung-quoc-bay-qua-khong-phan-nga-tren-cac-chuyen-bay-den-my-20251010121724174.htm",
@@ -603,6 +803,106 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T15:21:49.820908+07:00"
     },
     {
+      "id": "cf965dc65994dfa7ba1564e504942c9b",
+      "title": "Giảm thuế xuất khẩu vàng trang sức, kỹ nghệ về 0%",
+      "link": "https://vnexpress.net/giam-thue-xuat-khau-vang-trang-suc-ky-nghe-ve-0-4949960.html",
+      "summary": "Từ 10/10/2025, thuế suất xuất khẩu với vàng trang sức, kỹ nghệ giảm về 0%, theo Nghị định của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:08:05+07:00",
+      "fetched": "2025-10-10T23:20:03.222835+07:00"
+    },
+    {
+      "id": "cf965dc65994dfa7ba1564e504942c9b",
+      "title": "Giảm thuế xuất khẩu vàng trang sức, kỹ nghệ về 0%",
+      "link": "https://vnexpress.net/giam-thue-xuat-khau-vang-trang-suc-ky-nghe-ve-0-4949960.html",
+      "summary": "Từ 10/10/2025, thuế suất xuất khẩu với vàng trang sức, kỹ nghệ giảm về 0%, theo Nghị định của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T15:08:05+07:00",
+      "fetched": "2025-10-10T23:20:10.623374+07:00"
+    },
+    {
+      "id": "55b9facf2798b118689387cb71ec730b",
+      "title": "Quân đội chuyển 22.000 chăn màn tới 4 tỉnh ngập nặng",
+      "link": "https://vnexpress.net/quan-doi-chuyen-22-000-chan-man-toi-4-tinh-ngap-nang-4949965.html",
+      "summary": "20.000 chăn màn, 2.000 bộ quần áo thường phục được Tổng cục Hậu cần Kỹ thuật chuyển tới người dân 4 tỉnh Thái Nguyên, Bắc Ninh, Cao Bằng, Lạng Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:04:37+07:00",
+      "fetched": "2025-10-10T23:20:03.223020+07:00"
+    },
+    {
+      "id": "d95185402a1ca8a77229ae6b58ab2592",
+      "title": "'Bữa tiệc' thời trang của Taylor Swift trong MV mới",
+      "link": "https://vnexpress.net/bua-tiec-thoi-trang-cua-taylor-swift-trong-mv-moi-4948371.html",
+      "summary": "Taylor Swift diện loạt áo tắm, váy lưới của các nhà mốt nổi tiếng khi hóa thân vũ công thoát y trong MV \"The Fate of Ophelia\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:30:00+07:00",
+      "fetched": "2025-10-10T23:20:03.223186+07:00"
+    },
+    {
+      "id": "ae3913a32f093876b35810c7f5e17ab9",
+      "title": "Mỹ rút gọn danh sách ứng cử viên Chủ tịch Fed",
+      "link": "https://vnexpress.net/my-rut-gon-danh-sach-ung-cu-vien-chu-tich-fed-4949951.html",
+      "summary": "Quan chức tài chính Mỹ đã chọn được 5 ứng cử viên cho chức Chủ tịch Fed, bao gồm cả người chưa từng làm việc tại cơ quan này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:21:56+07:00",
+      "fetched": "2025-10-10T23:20:03.223346+07:00"
+    },
+    {
+      "id": "ae3913a32f093876b35810c7f5e17ab9",
+      "title": "Mỹ rút gọn danh sách ứng cử viên Chủ tịch Fed",
+      "link": "https://vnexpress.net/my-rut-gon-danh-sach-ung-cu-vien-chu-tich-fed-4949951.html",
+      "summary": "Quan chức tài chính Mỹ đã chọn được 5 ứng cử viên cho chức Chủ tịch Fed, bao gồm cả người chưa từng làm việc tại cơ quan này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T14:21:56+07:00",
+      "fetched": "2025-10-10T23:20:10.623539+07:00"
+    },
+    {
+      "id": "9eddbb51a0f6208a3881cf7047c52e69",
+      "title": "Bí quyết trẻ hóa da tuổi 30+: Vi Derm Retinol Age-Defying Treatment Moisturizer có hiệu quả?",
+      "link": "https://thanhnien.vn/bi-quyet-tre-hoa-da-tuoi-30-vi-derm-retinol-age-defying-treatment-moisturizer-co-hieu-qua-185251010213433459.htm",
+      "summary": "Tuổi 30+ là làn da bắt đầu bước sang ‘ngã rẽ’ của quá trình lão hóa. Nếp nhăn li ti quanh mắt, rãnh cười hay da kém đàn hồi dần trở thành ‘kẻ thù không mời mà đến’. Và đó cũng là lý do các dòng kem dưỡng chống lão hóa chứa Retinol - hoạt chất vàng trong ngành da liễu ngày càng được săn đón. Kem VI D...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:21:00+07:00",
+      "fetched": "2025-10-10T23:20:06.533146+07:00"
+    },
+    {
+      "id": "4c5c3418d88b6d3809a716c8d21777a0",
+      "title": "Huy chương vàng Olympic vật lý châu Âu nói về ‘ngọn lửa’ dẫn đến nghề dạy học",
+      "link": "https://thanhnien.vn/huy-chuong-vang-olympic-vat-ly-chau-au-noi-ve-ngon-lua-dan-den-nghe-day-hoc-18525101020325134.htm",
+      "summary": "Nguyễn Lê Đăng Khoa, huy chương vàng Olympic vật lý châu Âu - EuPhO 2025, chính thức trở thành tân sinh viên ngành sư phạm vật lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:19:00+07:00",
+      "fetched": "2025-10-10T23:20:06.533304+07:00"
+    },
+    {
+      "id": "7e6041e9892cbb22affd81f3605098c4",
+      "title": "Việt Nam - Triều Tiên ký 5 văn kiện hợp tác",
+      "link": "https://vnexpress.net/viet-nam-trieu-tien-ky-5-van-kien-hop-tac-4949955.html",
+      "summary": "Việt Nam, Triều Tiên ký các văn kiện hợp tác trong những lĩnh vực ngoại giao, quốc phòng, y tế, thông tấn và thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:15:36+07:00",
+      "fetched": "2025-10-10T23:20:03.223510+07:00"
+    },
+    {
+      "id": "7e6041e9892cbb22affd81f3605098c4",
+      "title": "Việt Nam - Triều Tiên ký 5 văn kiện hợp tác",
+      "link": "https://vnexpress.net/viet-nam-trieu-tien-ky-5-van-kien-hop-tac-4949955.html",
+      "summary": "Việt Nam, Triều Tiên ký các văn kiện hợp tác trong những lĩnh vực ngoại giao, quốc phòng, y tế, thông tấn và thương mại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T14:15:36+07:00",
+      "fetched": "2025-10-10T23:20:09.567064+07:00"
+    },
+    {
       "id": "c892e968b364a76aa2fe5ea3fd7410af",
       "title": "Phạm Quỳnh Anh 'lột xác', bất ngờ nhắc về chồng cũ",
       "link": "https://thanhnien.vn/pham-quynh-anh-lot-xac-bat-ngo-nhac-ve-chong-cu-185251010211124072.htm",
@@ -611,6 +911,26 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T14:15:00+07:00",
       "fetched": "2025-10-10T21:16:06.916042+07:00"
+    },
+    {
+      "id": "9951747f5451f002cd2301d44216142c",
+      "title": "Top 5 kiểu tóc ngắn ‘sang chảnh’ cho chị em tuổi 40 trẻ ra cả 10 tuổi",
+      "link": "https://thanhnien.vn/top-5-kieu-toc-ngan-sang-chanh-cho-chi-em-tuoi-40-tre-ra-ca-10-tuoi-185251010211544658.htm",
+      "summary": "Tuổi 40 không còn là dấu mốc của những nếp nhăn hay sự trầm lắng, mà là giai đoạn phụ nữ chạm đến đỉnh cao của sự quyến rũ và khí chất. Một kiểu tóc phù hợp không chỉ giúp ‘ăn gian’ tuổi thật mà còn tôn lên nét thanh lịch, sang trọng mà thời gian mang lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:10:00+07:00",
+      "fetched": "2025-10-10T23:20:06.533621+07:00"
+    },
+    {
+      "id": "bbd0065e6bc6943cc51869f6fd2fd959",
+      "title": "Nhiều đại học chi tiền tỷ cho nghiên cứu của sinh viên",
+      "link": "https://vnexpress.net/nhieu-dai-hoc-chi-tien-ty-cho-nghien-cuu-cua-sinh-vien-4949766.html",
+      "summary": "Đại học Thương mại, Kinh tế TP HCM, Kinh tế (Đại học Quốc gia Hà Nội)... chi hàng tỷ đồng cho sinh viên nghiên cứu khoa học, tăng đều qua từng năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:08:39+07:00",
+      "fetched": "2025-10-10T23:20:03.223667+07:00"
     },
     {
       "id": "3d4ee882412b08b2d3ff0b06038e02d8",
@@ -631,6 +951,26 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T14:01:00+07:00",
       "fetched": "2025-10-10T21:16:06.916209+07:00"
+    },
+    {
+      "id": "fcb805b9e0b95f5ae5acc1eb59d5eefa",
+      "title": "'Con đam mê game nhưng bố mẹ bắt vào đại học'",
+      "link": "https://vnexpress.net/con-dam-me-game-nhung-bo-me-bat-vao-dai-hoc-4949824.html",
+      "summary": "Nhiều người chỉ thấy con chơi game mà không hiểu được để trò chơi điện tử hoạt động được cần cả hệ sinh thái: lập trình, phát hành, sự kiện...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:00:00+07:00",
+      "fetched": "2025-10-10T23:20:03.224010+07:00"
+    },
+    {
+      "id": "4df7313c4030086af236b0e24113a881",
+      "title": "Lâm Đồng sắp đón dòng vốn đầu tư hơn 35.000 tỷ đồng",
+      "link": "https://vnexpress.net/lam-dong-sap-don-dong-von-dau-tu-hon-35-000-ty-dong-4949922.html",
+      "summary": "Lâm Đồng dự kiến trao quyết định chấp thuận đầu tư cho 9 dự án trọng điểm với tổng vốn đăng ký hơn 35.000 tỷ đồng, tại Hội nghị Xúc tiến đầu tư vào tỉnh Lâm Đồng năm 2025, tổ chức ngày 12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:00:00+07:00",
+      "fetched": "2025-10-10T23:20:03.224165+07:00"
     },
     {
       "id": "5d63fd57bff7b4587bd53a0d3fba1706",
@@ -681,6 +1021,26 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T13:43:00+07:00",
       "fetched": "2025-10-10T21:16:06.916668+07:00"
+    },
+    {
+      "id": "bc310332224a8a217809f999d5913ef0",
+      "title": "Indonesia từ chối cho VĐV Israel dự giải thể dục dụng cụ thế giới",
+      "link": "https://vnexpress.net/indonesia-tu-choi-cho-vdv-israel-du-giai-the-duc-dung-cu-the-gioi-4949935.html",
+      "summary": "6 VĐV Israel chính thức rút lui khỏi giải vô địch thể dục dụng cụ thế giới 2025, do chủ nhà Indonesia từ chối cấp thị thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:42:52+07:00",
+      "fetched": "2025-10-10T23:20:03.224645+07:00"
+    },
+    {
+      "id": "bc310332224a8a217809f999d5913ef0",
+      "title": "Indonesia từ chối cho VĐV Israel dự giải thể dục dụng cụ thế giới",
+      "link": "https://vnexpress.net/indonesia-tu-choi-cho-vdv-israel-du-giai-the-duc-dung-cu-the-gioi-4949935.html",
+      "summary": "6 VĐV Israel chính thức rút lui khỏi giải vô địch thể dục dụng cụ thế giới 2025, do chủ nhà Indonesia từ chối cấp thị thực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T13:42:52+07:00",
+      "fetched": "2025-10-10T23:20:14.810164+07:00"
     },
     {
       "id": "c5c4c93f88ba5b91e84c9f3e9003a5fb",
