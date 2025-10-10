@@ -1,7 +1,157 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T13:25:20.784998+07:00",
+  "lastUpdated": "2025-10-10T15:21:55.438401+07:00",
   "articles": [
+    {
+      "id": "3d9e9402a9658b2e4cd8f7728539901d",
+      "title": "Mỹ đề xuất cấm Trung Quốc bay qua không phận Nga trên các chuyến bay đến Mỹ",
+      "link": "https://tuoitre.vn/my-de-xuat-cam-trung-quoc-bay-qua-khong-phan-nga-tren-cac-chuyen-bay-den-my-20251010121724174.htm",
+      "summary": "Động thái này được đưa ra nhằm khắc phục tình trạng cạnh tranh không công bằng giữa các hãng hàng không của Mỹ và Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.822570+07:00",
+      "fetched": "2025-10-10T15:21:49.822704+07:00"
+    },
+    {
+      "id": "fe1e47db7c306cdb1e590bf2f53a84a2",
+      "title": "Chủ tịch Quốc hội: 130.000 công chức nghỉ việc do sáp nhập được hưởng chính sách",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-130-000-cong-chuc-nghi-viec-do-sap-nhap-duoc-huong-chinh-sach-20251010114546428.htm",
+      "summary": "Ngày 10-10, Chủ tịch Quốc hội Trần Thanh Mẫn cùng Đoàn đại biểu Quốc hội TP Cần Thơ đã tiếp xúc 200 cử tri tại xã Tân Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.822450+07:00",
+      "fetched": "2025-10-10T15:21:49.822559+07:00"
+    },
+    {
+      "id": "93c5ce01eeb4c6d4e134bc948a8fff78",
+      "title": "Cung Thiếu nhi TP.HCM có 6 rạp phim, công viên, hồ bơi",
+      "link": "https://tuoitre.vn/cung-thieu-nhi-tp-hcm-co-6-rap-phim-cong-vien-ho-boi-20251010103046191.htm",
+      "summary": "Ngày 10-10, TP.HCM đã khởi công xây dựng Cung Thiếu nhi TP.HCM tại khu đô thị mới Thủ Thiêm (phường An Khánh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.822329+07:00",
+      "fetched": "2025-10-10T15:21:49.822438+07:00"
+    },
+    {
+      "id": "a481180565d680db6a68c276884ddb55",
+      "title": "Người bạn hiến thận cho Selena Gomez lên tiếng khi không được mời đám cưới",
+      "link": "https://tuoitre.vn/nguoi-ban-hien-than-cho-selena-gomez-len-tieng-khi-khong-duoc-moi-dam-cuoi-20251010122925928.htm",
+      "summary": "Francia Raisa, người từng hiến thận cho Selena Gomez, lên tiếng làm rõ tin đồn rạn nứt tình bạn sau khi cô không xuất hiện trong đám cưới xa hoa của nữ ca sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.822208+07:00",
+      "fetched": "2025-10-10T15:21:49.822318+07:00"
+    },
+    {
+      "id": "4ea6b3ef846427ccd8b79527b6a06ac7",
+      "title": "Đi du lịch ở Vĩnh Long, du khách Ấn Độ đánh rơi điện thoại được người dân tìm trả",
+      "link": "https://tuoitre.vn/di-du-lich-o-vinh-long-du-khach-an-do-danh-roi-dien-thoai-duoc-nguoi-dan-tim-tra-20251010110011859.htm",
+      "summary": "Công an xã Tân Thành Bình, tỉnh Vĩnh Long cho biết đã tìm và trao trả một chiếc điện thoại cho một du khách người Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.822089+07:00",
+      "fetched": "2025-10-10T15:21:49.822197+07:00"
+    },
+    {
+      "id": "9a2733ec5ba2b62d17c26241a015330c",
+      "title": "Duolingo ra mắt anime đầu tay, 'cú xanh cục súc' lấn sân màn ảnh Nhật Bản",
+      "link": "https://tuoitre.vn/duolingo-ra-mat-anime-dau-tay-cu-xanh-cuc-suc-lan-san-man-anh-nhat-ban-20251010112244568.htm",
+      "summary": "Duo - chú 'cú xanh cục súc' khiến người học ám ảnh sẽ trở thành nhân vật chính trong loạt anime ngắn The final test nhân dịp Duolingo nâng cấp toàn diện khóa học tiếng Nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821967+07:00",
+      "fetched": "2025-10-10T15:21:49.822078+07:00"
+    },
+    {
+      "id": "cc3cacd5cee4a31c7792f67724cb9715",
+      "title": "Tổng chưởng lý New York, từng đối đầu ông Trump, bị truy tố",
+      "link": "https://tuoitre.vn/tong-chuong-ly-new-york-tung-doi-dau-ong-trump-bi-truy-to-2025101011594846.htm",
+      "summary": "Việc bà Letitia James bị truy tố đánh dấu bước leo thang mới trong chiến dịch \"truy quét\" đối thủ của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821843+07:00",
+      "fetched": "2025-10-10T15:21:49.821956+07:00"
+    },
+    {
+      "id": "4622a257db257ffc8d2d82f195f5d1af",
+      "title": "Chiến dịch 'Không một mình' chống dụ dỗ, 'bắt cóc online'",
+      "link": "https://tuoitre.vn/chien-dich-khong-mot-minh-chong-du-do-bat-coc-online-20251010124548071.htm",
+      "summary": "Chiến dịch \"Không một mình\" với thông điệp cùng nhau an toàn trực tuyến, nhằm huy động sức mạnh cộng đồng chung tay bảo vệ trẻ em và thanh thiếu niên trước hành vi dụ dỗ, thao túng, lừa đảo và \"bắt cóc online\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821710+07:00",
+      "fetched": "2025-10-10T15:21:49.821831+07:00"
+    },
+    {
+      "id": "3d03b02649cc45ec234f59211454059f",
+      "title": "Miền Bắc sắp mưa diện rộng 3 ngày",
+      "link": "https://tuoitre.vn/mien-bac-sap-mua-dien-rong-3-ngay-20251010130441945.htm",
+      "summary": "Dự báo từ ngày 14 đến 16-10, rãnh áp thấp kết hợp nhiễu gió đông khiến Bắc Bộ và Bắc Trung Bộ mưa diện rộng, có nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821568+07:00",
+      "fetched": "2025-10-10T15:21:49.821698+07:00"
+    },
+    {
+      "id": "bdfc61611ed2f55ebcb636f23591fb99",
+      "title": "Rùng mình với hình ảnh nang sán dây lợn gây vôi hóa đầy cơ thể",
+      "link": "https://tuoitre.vn/rung-minh-voi-hinh-anh-nang-san-day-lon-gay-voi-hoa-day-co-the-20251010115935184.htm",
+      "summary": "Mặc dù không phát hiện ký sinh trùng sán dây lợn tại thời điểm bệnh nhân nhập viện, nhưng các bác sĩ phát hiện nhiều tổn thương ở não, dưới da vùng bụng ngực, ngực do nang sán dây lợn vôi hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821443+07:00",
+      "fetched": "2025-10-10T15:21:49.821557+07:00"
+    },
+    {
+      "id": "aa73350a8e1101d46224de9d61ff1c43",
+      "title": "Cận cảnh loạt nhà dân ngoại thành Hà Nội bị ngập tới nóc, 36.000 dân bị ảnh hưởng",
+      "link": "https://tuoitre.vn/can-canh-loat-nha-dan-ngoai-thanh-ha-noi-bi-ngap-toi-noc-36-000-dan-bi-anh-huong-20251010123020283.htm",
+      "summary": "Nước lũ từ sông Cầu cuồn cuộn đổ vào khu vực dân cư phía trong đê khiến nhiều nhà dân ở xã Trung Giã nước lũ ngập lên tận mái nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821317+07:00",
+      "fetched": "2025-10-10T15:21:49.821431+07:00"
+    },
+    {
+      "id": "3b7d2e48d47b41c61ddd4e1a5ce4fe9a",
+      "title": "Phim dự Oscar mở màn Liên hoan phim Ý 2025",
+      "link": "https://tuoitre.vn/phim-du-oscar-mo-man-lien-hoan-phim-y-2025-20251010091855085.htm",
+      "summary": "Phim Vermiglio của đạo diễn Maura Delpero - đại diện Ý tham dự hạng mục Phim nói tiếng nước ngoài xuất sắc nhất tại Oscar năm nay - sẽ chiếu mở màn LHP Ý 2025 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821192+07:00",
+      "fetched": "2025-10-10T15:21:49.821306+07:00"
+    },
+    {
+      "id": "d530b1982060c8ac369e2818a5e27fff",
+      "title": "Ủng hộ người dân vùng lũ lụt trên ứng dụng VNeID",
+      "link": "https://tuoitre.vn/ung-ho-nguoi-dan-vung-lu-lut-tren-ung-dung-vneid-20251010121859241.htm",
+      "summary": "Sáng 10-10, Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06, Bộ Công an) phối hợp Mặt trận Tổ quốc Việt Nam tổ chức chương trình chung tay cứu trợ khẩn cấp đồng bào ảnh hưởng bởi lũ lụt trên nền tảng VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.821062+07:00",
+      "fetched": "2025-10-10T15:21:49.821180+07:00"
+    },
+    {
+      "id": "20e672515893c54306eb97c5ff9947de",
+      "title": "Tổng thống Peru bị phế truất vì lùm xùm vụ đồng hồ hiệu, tự tăng lương cho mình",
+      "link": "https://tuoitre.vn/tong-thong-peru-bi-luan-toi-phe-truat-2025101012502232.htm",
+      "summary": "Quốc hội Peru đã bỏ phiếu luận tội Tổng thống Dina Boluarte, người đang bị điều tra vì không khai báo được tặng đồng hồ hiệu và gây lùm xùm vì tự tăng lương cho bản thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.820924+07:00",
+      "fetched": "2025-10-10T15:21:49.821049+07:00"
+    },
+    {
+      "id": "5f90491150cbb04805a5c335890de698",
+      "title": "Ông Nguyễn Thành Phong viết sách về ý tưởng phát triển siêu đô thị TP.HCM",
+      "link": "https://tuoitre.vn/ong-nguyen-thanh-phong-viet-sach-ve-y-tuong-phat-trien-sieu-do-thi-tp-hcm-20251010113334516.htm",
+      "summary": "Cuốn sách 'Kiến tạo Thành phố Hồ Chí Minh thành siêu đô thị năng động - thông minh - giàu bản sắc' của ông Nguyễn Thành Phong vừa được giới thiệu sáng nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T15:21:49.820684+07:00",
+      "fetched": "2025-10-10T15:21:49.820908+07:00"
+    },
     {
       "id": "1cbb23686e9c9c77429a91d48c3441ae",
       "title": "EVN công bố áp dụng thử nghiệm giá điện 2 thành phần, hé lộ phương án giá",
@@ -581,6 +731,406 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T08:13:31.777300+07:00",
       "fetched": "2025-10-10T08:13:31.777509+07:00"
+    },
+    {
+      "id": "c9238993560d6503bfd5f9f6c6569a36",
+      "title": "TP.HCM: Va chạm với xe buýt, nữ sinh viên năm nhất tử vong",
+      "link": "https://thanhnien.vn/tphcm-va-cham-voi-xe-buyt-nu-sinh-vien-nam-nhat-tu-vong-185251010142705432.htm",
+      "summary": "Vụ tai nạn thương tâm giữa xe buýt và xe máy vừa xảy ra trên đường Lê Quang Đạo, xã Bà Điểm (TP.HCM) khiến nữ sinh viên đại học năm nhất tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:06:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903046+07:00"
+    },
+    {
+      "id": "6c3170d2c6dce61f9d1b470322095c89",
+      "title": "Một nước nói tiếng Anh tăng cường học bổng, 'rộng đường' định cư cho người Việt",
+      "link": "https://thanhnien.vn/mot-nuoc-noi-tieng-anh-tang-cuong-hoc-bong-rong-duong-dinh-cu-cho-nguoi-viet-185251009182551352.htm",
+      "summary": "New Zealand đang thu hút người Việt tới học tập, nghiên cứu thông qua nhiều chương trình học bổng và hỗ trợ, sau khi xác định đây là thị trường đầu tư trọng điểm vào năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:06:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903213+07:00"
+    },
+    {
+      "id": "14e3a039d93a1d942838fba5458c7707",
+      "title": "Tôi quyết bắt đền vì bé 8 tuổi làm vỡ laptop 40 triệu trong quán cà phê",
+      "link": "https://vnexpress.net/on-ao-quan-ca-phe-quan-ca-phe-dep-quan-1-quan-ca-phe-pho-co-ha-noi-toi-nhat-quyet-bat-den-dua-be-8-tuoi-lam-vo-laptop-40-trieu-cua-toi-trong-quan-ca-phe-4949732.html",
+      "summary": "Nhận tiền đền của ba mẹ đứa bé sau một hồi cự cãi, tôi phải bù thêm cả chục triệu để mua máy mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.801534+07:00"
+    },
+    {
+      "id": "d69ab51dbc1e3925bee7a5ffb0612789",
+      "title": "Long Châu được vinh danh 'Doanh nghiệp xuất sắc châu Á'",
+      "link": "https://vnexpress.net/long-chau-duoc-vinh-danh-doanh-nghiep-xuat-sac-chau-a-4949810.html",
+      "summary": "Ban tổ chức APEA 2025 xướng tên Long Châu là \"Doanh nghiệp xuất sắc châu Á\", đánh dấu mốc quan trọng trong mục tiêu \"Vì một Việt Nam khỏe mạnh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.801743+07:00"
+    },
+    {
+      "id": "0da8487f98d7cb9f188cd35087109b3f",
+      "title": "EVNSPC ứng dụng công nghệ số, hiện đại hóa lưới điện",
+      "link": "https://vnexpress.net/evnspc-ung-dung-cong-nghe-so-hien-dai-hoa-luoi-dien-4949777.html",
+      "summary": "EVNSPC số hóa toàn bộ hồ sơ và quy trình, cung ứng 100% dịch vụ trực tuyến, ứng dụng AI, drone giám sát lưới điện, nâng cao trải nghiệm khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.801916+07:00"
+    },
+    {
+      "id": "2776e92366e6994b2537f123f10e477d",
+      "title": "ROX Group nhận cú đúp giải thưởng doanh nghiệp châu Á",
+      "link": "https://vnexpress.net/rox-group-nhan-cu-dup-giai-thuong-doanh-nghiep-chau-a-4949776.html",
+      "summary": "ROX Group được vinh danh Doanh nghiệp xuất sắc và Thương hiệu truyền cảm hứng tại lễ trao giải Asia Pacific Enterprise Awards (APEA) 2025, diễn ra ngày 9/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.802074+07:00"
+    },
+    {
+      "id": "0e5dc9ea9b8c2379306f39e94ee69f66",
+      "title": "VietinBank iPay Mobile được vinh danh ứng dụng ngân hàng số sáng tạo nhất",
+      "link": "https://vnexpress.net/vietinbank-ipay-mobile-duoc-vinh-danh-ung-dung-ngan-hang-so-sang-tao-nhat-4949748.html",
+      "summary": "VietinBank iPay Mobile được tạp chí Global Banking & Finance Review vinh danh là \"Ứng dụng Ngân hàng số sáng tạo nhất Việt Nam 2025\" nhờ những tiện ích đa dạng, đáp ứng nhu cầu người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.802244+07:00"
+    },
+    {
+      "id": "f4bfb4537af7b7d4e5e522416d154ce1",
+      "title": "5 thực phẩm giàu protein và chất xơ nên ăn thường xuyên",
+      "link": "https://vnexpress.net/5-thuc-pham-giau-protein-va-chat-xo-nen-an-thuong-xuyen-4949696.html",
+      "summary": "Hạt bí ngô, hạt chia, bánh mì nguyên cám, đậu đen có chứa protein, chất xơ hỗ trợ tiêu hóa tốt, phòng ngừa bệnh tim, tiểu đường và một số loại ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.802400+07:00"
+    },
+    {
+      "id": "fa75f9880f5d639d30af399eec2ee60f",
+      "title": "Tắc hẹp ba nhánh mạch vành khiến tim giãn",
+      "link": "https://vnexpress.net/tac-hep-ba-nhanh-mach-vanh-khien-tim-gian-4949535.html",
+      "summary": "Ông Tiến, 59 tuổi, suy tim, thất trái giãn to gấp rưỡi do tắc hai nhánh mạch máu nuôi tim, nhánh còn lại hẹp nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.802556+07:00"
+    },
+    {
+      "id": "f8722ea8dd02e4185a426c56b0232c5d",
+      "title": "Những thói quen âm thầm gây bệnh trĩ",
+      "link": "https://vnexpress.net/nhung-thoi-quen-am-tham-gay-benh-tri-4949319.html",
+      "summary": "Ngồi lâu, ít vận động, ăn uống thất thường là những thói quen phổ biến khiến bệnh trĩ dần trở thành nỗi ám ảnh thầm lặng của nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T15:21:45.802729+07:00"
+    },
+    {
+      "id": "63aea61583c26293047819f0b48a62e8",
+      "title": "Trường ĐH Sư phạm Thái Nguyên sau lũ: ‘Ước tính thiệt hại hơn chục tỉ’",
+      "link": "https://thanhnien.vn/truong-dh-su-pham-thai-nguyen-sau-lu-uoc-tinh-thiet-hai-hon-chuc-ti-185251010145635983.htm",
+      "summary": "Mưa lớn sau bão Matmo (tức bão số 11) đã gây nên trận lũ lịch sử ở Thái Nguyên và các tỉnh miền Bắc, để lại hậu quả nặng nề về người và tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:57:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903367+07:00"
+    },
+    {
+      "id": "5609c6f42ca4924a21f619ced1a54780",
+      "title": "Nghi phạm thứ 8 trong vụ cướp tiệm vàng Kim Hưng bị bắt",
+      "link": "https://vnexpress.net/nghi-pham-thu-8-trong-vu-cuop-tiem-vang-kim-hung-bi-bat-4949791.html",
+      "summary": "Cảnh sát San Jose bắt Julian Gacutan, nghi phạm thứ 8 trong băng nhóm tiến hành vụ cướp phá tiệm vàng Kim Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:56:39+07:00",
+      "fetched": "2025-10-10T15:21:45.802897+07:00"
+    },
+    {
+      "id": "5609c6f42ca4924a21f619ced1a54780",
+      "title": "Nghi phạm thứ 8 trong vụ cướp tiệm vàng Kim Hưng bị bắt",
+      "link": "https://vnexpress.net/nghi-pham-thu-8-trong-vu-cuop-tiem-vang-kim-hung-bi-bat-4949791.html",
+      "summary": "Cảnh sát San Jose bắt Julian Gacutan, nghi phạm thứ 8 trong băng nhóm tiến hành vụ cướp phá tiệm vàng Kim Hưng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T07:56:39+07:00",
+      "fetched": "2025-10-10T15:21:51.595444+07:00"
+    },
+    {
+      "id": "db1679c71667935b755e056ba1535287",
+      "title": "4 bài hát Kpop vào top những ca khúc hay nhất thế kỷ 21",
+      "link": "https://thanhnien.vn/4-bai-hat-kpop-vao-top-nhung-ca-khuc-hay-nhat-the-ky-21-185251010121957519.htm",
+      "summary": "Ngày 8.10, tạp chí âm nhạc danh tiếng Rolling Stone đã công bố danh sách '250 ca khúc hay nhất thế kỷ 21 tính đến hiện tại', trong đó có 4 bài hát đến từ đại diện của Kpop.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:52:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903518+07:00"
+    },
+    {
+      "id": "f41de5903036685ac48ec71c6979871b",
+      "title": "Mang 3 súng tự chế đi trộm chó",
+      "link": "https://vnexpress.net/mang-3-sung-tu-che-di-trom-cho-4949765.html",
+      "summary": "Điền Hòa Tâm, 22 tuổi, dùng 3 khẩu súng tự chế để trộm chó ở xã Phước Hậu nhưng bị người dân phát hiện báo công an bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:51:04+07:00",
+      "fetched": "2025-10-10T15:21:45.803062+07:00"
+    },
+    {
+      "id": "64ba9bd3078e0a162d8f34a24f8dd5a2",
+      "title": "Công ty phần mềm Việt đặt mục tiêu kỳ lân công nghệ",
+      "link": "https://vnexpress.net/cong-ty-phan-mem-viet-dat-muc-tieu-ky-lan-cong-nghe-4949710.html",
+      "summary": "Rikkeisoft, nhà cung cấp dịch vụ phần mềm thuê ngoài (outsourcing), chuyển hướng sang cung cấp giải pháp, đầu tư vào AI với mục tiêu trở thành kỳ lân công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:50:42+07:00",
+      "fetched": "2025-10-10T15:21:45.803217+07:00"
+    },
+    {
+      "id": "64ba9bd3078e0a162d8f34a24f8dd5a2",
+      "title": "Công ty phần mềm Việt đặt mục tiêu kỳ lân công nghệ",
+      "link": "https://vnexpress.net/cong-ty-phan-mem-viet-dat-muc-tieu-ky-lan-cong-nghe-4949710.html",
+      "summary": "Rikkeisoft, nhà cung cấp dịch vụ phần mềm thuê ngoài (outsourcing), chuyển hướng sang cung cấp giải pháp, đầu tư vào AI với mục tiêu trở thành kỳ lân công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T07:50:42+07:00",
+      "fetched": "2025-10-10T15:21:54.533225+07:00"
+    },
+    {
+      "id": "17c9064c6896b403c3c80d7dbed5298b",
+      "title": "Điện Kremlin tuyên bố ủng hộ ông Trump đoạt giải Nobel Hòa bình",
+      "link": "https://thanhnien.vn/dien-kremlin-tuyen-bo-ung-ho-ong-trump-doat-giai-nobel-hoa-binh-185251010143845599.htm",
+      "summary": "Nga ủng hộ Tổng thống Mỹ Donald Trump được trao giải Nobel Hòa bình nhờ những nỗ lực của ông nhằm hướng tới kết thúc xung đột ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:47:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903686+07:00"
+    },
+    {
+      "id": "13705e1fff25f590f07a99a55f4a7894",
+      "title": "Nam sinh ẵm suất học bổng hiếm của đại học top đầu Australia",
+      "link": "https://vnexpress.net/nam-sinh-am-suat-hoc-bong-hiem-cua-dai-hoc-top-dau-australia-4947136.html",
+      "summary": "Trí Dũng giành một trong 20 suất học bổng 100% học phí của Đại học Sydney, với bài luận thể hiện sự sáng tạo trong game, cùng điểm SAT 1580, IELTS 7.5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:46:53+07:00",
+      "fetched": "2025-10-10T15:21:45.803378+07:00"
+    },
+    {
+      "id": "23ff0cd274ea3d8a774a1fb387017950",
+      "title": "Tàu lượn dưới nước tự động sẽ bơi vòng quanh thế giới",
+      "link": "https://vnexpress.net/tau-luon-duoi-nuoc-tu-dong-se-boi-vong-quanh-the-gioi-4949673.html",
+      "summary": "Tàu lượn robot Redwing lớn ngang một chiếc ván lướt sóng bắt đầu hành trình 5 năm vòng quanh thế giới từ ngày 11/10, phỏng theo chuyến đi của nhà thám hiểm nổi tiếng Ferdinand Magellan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:44:48+07:00",
+      "fetched": "2025-10-10T15:21:45.803537+07:00"
+    },
+    {
+      "id": "23ff0cd274ea3d8a774a1fb387017950",
+      "title": "Tàu lượn dưới nước tự động sẽ bơi vòng quanh thế giới",
+      "link": "https://vnexpress.net/tau-luon-duoi-nuoc-tu-dong-se-boi-vong-quanh-the-gioi-4949673.html",
+      "summary": "Tàu lượn robot Redwing lớn ngang một chiếc ván lướt sóng bắt đầu hành trình 5 năm vòng quanh thế giới từ ngày 11/10, phỏng theo chuyến đi của nhà thám hiểm nổi tiếng Ferdinand Magellan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T07:44:48+07:00",
+      "fetched": "2025-10-10T15:21:54.533387+07:00"
+    },
+    {
+      "id": "8e96fc0de6f6d5050b56b6a48928983d",
+      "title": "Ôtô ngập qua nóc hỏng những gì?",
+      "link": "https://vnexpress.net/oto-ngap-qua-noc-hong-nhung-gi-4949708.html",
+      "summary": "Xe ngập qua nóc thường bị hư hại toàn diện từ điện, động cơ đến nội thất, dù có sửa chữa, xe không còn bền như ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:44:12+07:00",
+      "fetched": "2025-10-10T15:21:45.803709+07:00"
+    },
+    {
+      "id": "cdfaac0c3f6ee546538b59bd911aba08",
+      "title": "CSGT ghi hình được gần 400 xe máy đi trên vỉa hè Võ Thị Sáu trong 30 phút",
+      "link": "https://thanhnien.vn/csgt-ghi-hinh-duoc-gan-400-xe-may-di-tren-via-he-vo-thi-sau-trong-30-phut-185251010143508404.htm",
+      "summary": "Chỉ trong 30 phút sáng 7.10, có khoảng 400 xe máy đi trên vỉa hè đường Võ Thị Sáu đã lọt vào camera phạt nguội của CSGT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:44:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903838+07:00"
+    },
+    {
+      "id": "3b8c3986df6f4fe30269b8d61e73a2f9",
+      "title": "Tổng thống Trump: Ông Obama 'không làm gì' vẫn được Nobel Hòa bình",
+      "link": "https://vnexpress.net/tong-thong-trump-ong-obama-khong-lam-gi-van-duoc-nobel-hoa-binh-4949648.html",
+      "summary": "Tổng thống Trump chỉ trích người tiền nhiệm Obama \"chẳng làm được gì\", \"phá hoại đất nước\" mà vẫn được trao giải Nobel Hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:40:10+07:00",
+      "fetched": "2025-10-10T15:21:45.803864+07:00"
+    },
+    {
+      "id": "3b8c3986df6f4fe30269b8d61e73a2f9",
+      "title": "Tổng thống Trump: Ông Obama 'không làm gì' vẫn được Nobel Hòa bình",
+      "link": "https://vnexpress.net/tong-thong-trump-ong-obama-khong-lam-gi-van-duoc-nobel-hoa-binh-4949648.html",
+      "summary": "Tổng thống Trump chỉ trích người tiền nhiệm Obama \"chẳng làm được gì\", \"phá hoại đất nước\" mà vẫn được trao giải Nobel Hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T07:40:10+07:00",
+      "fetched": "2025-10-10T15:21:51.595617+07:00"
+    },
+    {
+      "id": "0ba49739c9850cec5a5549bcba8de0d0",
+      "title": "Lãnh đạo nhiều công ty giải trí bị tạm hoãn xuất cảnh vì nợ thuế",
+      "link": "https://thanhnien.vn/lanh-dao-nhieu-cong-ty-giai-tri-bi-tam-hoan-xuat-canh-vi-no-thue-185251010130915149.htm",
+      "summary": "Thuế TP.HCM gần đây liên tục ra thông báo áp dụng các biện pháp cưỡng chế thuế đối với các trường hợp cá nhân, doanh nghiệp đang nợ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:35:00+07:00",
+      "fetched": "2025-10-10T15:21:48.903986+07:00"
+    },
+    {
+      "id": "a35a5032cdf33857bbe68c78e66b468f",
+      "title": "Tây Ninh cần khẩn trương điều chỉnh quy hoạch tỉnh",
+      "link": "https://thanhnien.vn/tay-ninh-can-khan-truong-dieu-chinh-quy-hoach-tinh-185251010134137157.htm",
+      "summary": "Đó là lưu ý của ông Nguyễn Văn Nên, Ủy viên Bộ Chính trị, Thường trực Tiểu ban văn kiện Đại hội XIV của Đảng, tại Đại hội đại biểu Đảng bộ tỉnh Tây Ninh lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:32:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904132+07:00"
+    },
+    {
+      "id": "e5b09654b64db1d9f5dc6d230cdf4f09",
+      "title": "Du lịch giúp Đà Nẵng thu về gần 45.000 tỉ đồng",
+      "link": "https://thanhnien.vn/du-lich-giup-da-nang-thu-ve-gan-45000-ti-dong-185251010130808894.htm",
+      "summary": "Lũy kế 9 tháng của riêng ngành du lịch Đà Nẵng cho thấy các cơ sở lưu trú phục vụ hơn 14,4 triệu lượt khách, tăng 22,3% so với cùng kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:32:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904284+07:00"
+    },
+    {
+      "id": "5d71e91e24bf6d127e34dcab429d7aa4",
+      "title": "Tổng Bí thư dự lễ khánh thành tượng Chủ tịch Hồ Chí Minh ở Triều Tiên",
+      "link": "https://vnexpress.net/tong-bi-thu-du-le-khanh-thanh-tuong-chu-tich-ho-chi-minh-o-trieu-tien-4949736.html",
+      "summary": "Tổng Bí thư Tô Lâm dự lễ khánh thành tượng Chủ tịch Hồ Chí Minh đặt trong khuôn viên Đại sứ quán Việt Nam ở thủ đô Bình Nhưỡng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T07:27:13+07:00",
+      "fetched": "2025-10-10T15:21:51.595802+07:00"
+    },
+    {
+      "id": "2961ae7de36a13697fff7fcdd571475c",
+      "title": "POCO M7 trình làng, dùng pin Silicon Carbon 7.000 mAh",
+      "link": "https://thanhnien.vn/poco-m7-trinh-lang-dung-pin-silicon-carbon-7000-mah-185251010132253634.htm",
+      "summary": "POCO ra mắt mẫu smartphone M7 tại thị trường Việt Nam, thuộc dòng sản phẩm POCO M Series, nổi bật với viên pin Silicon Carbon 7.000 mAh tiên tiến và màn hình 6,9 inch lớn nhất phân khúc smartphone tầm trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:26:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904443+07:00"
+    },
+    {
+      "id": "75d3c961aea4d23839fed67c37358391",
+      "title": "Peru phế truất Tổng thống",
+      "link": "https://vnexpress.net/peru-phe-truat-tong-thong-4949738.html",
+      "summary": "Các nghị sĩ Peru bỏ phiếu luận tội và phế truất bà Dina Boluarte sau nhiệm kỳ nhiều hỗn loạn, bổ nhiệm Chủ tịch Quốc hội làm Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T07:24:41+07:00",
+      "fetched": "2025-10-10T15:21:51.595967+07:00"
+    },
+    {
+      "id": "f58801c39e87c0fb141e655a1c54c839",
+      "title": "Tân sinh viên ‘level up’: Công thức để không chỉ sống sót mà còn bứt phá",
+      "link": "https://thanhnien.vn/tan-sinh-vien-level-up-cong-thuc-de-khong-chi-song-sot-ma-con-but-pha-185251010143313466.htm",
+      "summary": "Bước chân vào đại học, nhiều tân sinh viên vừa háo hức vừa bỡ ngỡ. Không còn thời khóa biểu 'cầm tay chỉ việc' như cấp ba, cũng chẳng có thầy cô kèm cặp sát sao. Thay vào đó, một thế giới rộng lớn mở ra, nơi bạn phải tự viết nên hành trình của chính mình. Làm thế nào để không bị áp lực cản trở mà bi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:23:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904591+07:00"
+    },
+    {
+      "id": "404cd9780afe6d380619ff9a6d915dcc",
+      "title": "Người nước ngoài nhập viện nguy kịch, bác sĩ Việt Nam căng mình mổ cấp cứu",
+      "link": "https://thanhnien.vn/nguoi-nuoc-ngoai-nhap-vien-nguy-kich-bac-si-viet-nam-cang-minh-mo-cap-cuu-185251010130022312.htm",
+      "summary": "Người phụ nữ 21 tuổi, quốc tịch Campuchia bị xe tải tông, chấn thương nặng, được chuyển sang Việt Nam cấp cứu. Bệnh viện huy động bác sĩ mổ cấp cứu, truyền rất nhiều máu mới giữ được tính mạng cho bệnh nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:22:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904770+07:00"
+    },
+    {
+      "id": "15cf1d634976c3e2b56e9433d00b5d1d",
+      "title": "Quốc hội Peru phế truất tổng thống và bầu người mới ngay trong đêm",
+      "link": "https://thanhnien.vn/quoc-hoi-peru-phe-truat-tong-thong-va-bau-nguoi-moi-ngay-trong-dem-185251010130045034.htm",
+      "summary": "Tổng thống Peru Dina Boluarte đã bị quốc hội phế truất trong cuộc bỏ phiếu vừa kết thúc vào rạng sáng 10.10 tại quốc gia Nam Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:19:00+07:00",
+      "fetched": "2025-10-10T15:21:48.904918+07:00"
+    },
+    {
+      "id": "a273fa397671d542f491380b4af57720",
+      "title": "Chế độ ăn này có thể cứu được 15 triệu người mỗi năm",
+      "link": "https://thanhnien.vn/che-do-an-nay-co-the-cuu-duoc-15-trieu-nguoi-moi-nam-185251010141034151.htm",
+      "summary": "Báo cáo EAT-Lancet 2025 của tạp chí The Lancet (Anh) mới công bố cho rằng nếu nhiều người áp dụng chế độ ăn Planetary Health Diet có thể ngăn chặn tới 15 triệu ca tử vong sớm hàng năm, đồng thời giảm gánh nặng chi phí y tế và hỗ trợ bảo vệ môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:14:00+07:00",
+      "fetched": "2025-10-10T15:21:48.905071+07:00"
+    },
+    {
+      "id": "40da59303776fec796b69523450803dd",
+      "title": "Những ứng viên nổi bật cho giải Nobel Hòa bình 2025",
+      "link": "https://vnexpress.net/nhung-ung-vien-noi-bat-cho-giai-nobel-hoa-binh-2025-4949667.html",
+      "summary": "Tổng thống Trump gây chú ý với nhiều đề cử cho giải Nobel Hòa bình năm nay, nhưng nhiều cá nhân, tổ chức khác cũng được coi là ứng viên nặng ký.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T07:11:41+07:00",
+      "fetched": "2025-10-10T15:21:51.596124+07:00"
+    },
+    {
+      "id": "9f86c1bece9461a6d55fbfa768ddf257",
+      "title": "Biểu giá điện hai thành phần thí điểm từ tháng 10",
+      "link": "https://vnexpress.net/bieu-gia-dien-hai-thanh-phan-thi-diem-tu-thang-10-4949699.html",
+      "summary": "EVN vừa công bố biểu giá điện hai thành phần, áp dụng cho doanh nghiệp sản xuất tham gia thí điểm tính toán trên giấy từ tháng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T07:09:20+07:00",
+      "fetched": "2025-10-10T15:21:52.534863+07:00"
+    },
+    {
+      "id": "f475678117cbd1037586f3ac674f6199",
+      "title": "'Tự hào nghề luật sư' - khúc ca tri ân người giữ gìn công lý",
+      "link": "https://thanhnien.vn/tu-hao-nghe-luat-su-khuc-ca-tri-an-nguoi-giu-gin-cong-ly-185251010092122217.htm",
+      "summary": "Nhạc sĩ Lê Bá Thường vừa  ra mắt ca khúc 'Tự hào nghề luật sư' đúng dịp kỷ niệm Ngày truyền thống luật sư Việt Nam 10.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T07:09:00+07:00",
+      "fetched": "2025-10-10T15:21:48.905225+07:00"
+    },
+    {
+      "id": "e415a99f8e4097f9e17ab380c25d07f7",
+      "title": "iPhone sẽ không còn màn hình tai thỏ",
+      "link": "https://vnexpress.net/iphone-se-khong-con-man-hinh-tai-tho-4949033.html",
+      "summary": "Mẫu iPhone 17e giá rẻ được cho là sẽ trang bị chip như trên iPhone 17 cùng màn hình Dynamic Island, đánh dấu sự kết thúc của thiết kế tai thỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T07:00:00+07:00",
+      "fetched": "2025-10-10T15:21:54.533542+07:00"
+    },
+    {
+      "id": "85078a04c52a88db4465d1afe8494c35",
+      "title": "Trợ lý cũ khuyên Guardiola bỏ Man City",
+      "link": "https://vnexpress.net/tro-ly-cu-khuyen-guardiola-bo-man-city-4949677.html",
+      "summary": "Theo Carles Planchart, Pep Guardiola nên rời Man City và tìm kiếm dự án mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T06:56:59+07:00",
+      "fetched": "2025-10-10T15:21:55.429053+07:00"
     },
     {
       "id": "7c6d7d6f70043f94f9915499a4dd3243",
