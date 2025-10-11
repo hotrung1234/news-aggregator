@@ -1,7 +1,97 @@
 window.newsData_2025_10_11 = {
   "date": "2025-10-11",
-  "lastUpdated": "2025-10-11T21:12:42.938229+07:00",
+  "lastUpdated": "2025-10-11T23:17:09.157041+07:00",
   "articles": [
+    {
+      "id": "40cc55677fa905e45c8fc5408c879b56",
+      "title": "Sáng tác nghệ thuật hướng tới ngân hàng di sản nghệ thuật Phật giáo đương đại",
+      "link": "https://tuoitre.vn/sang-tac-nghe-thuat-huong-toi-ngan-hang-di-san-nghe-thuat-phat-giao-duong-dai-20251011204535974.htm",
+      "summary": "Ban Văn hóa Trung ương Giáo hội Phật giáo Việt Nam mở cuộc vận động sáng tác nghệ thuật ‘Sáng đạo trong đời’ hướng tới hình thành ngân hàng di sản nghệ thuật Phật giáo đương đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202917+07:00",
+      "fetched": "2025-10-11T23:17:03.203022+07:00"
+    },
+    {
+      "id": "f51623750cf9f677b798ef80166e899b",
+      "title": "Giải VPBank Đất sen hồng Music Marathon dành 250 triệu đồng cho hoạt động xã hội",
+      "link": "https://tuoitre.vn/giai-vpbank-dat-sen-hong-music-marathon-danh-250-trieu-dong-cho-hoat-dong-xa-hoi-20251011204038279.htm",
+      "summary": "Tối 11-10, tại tỉnh Đồng Tháp, giải VPBank Đất sen hồng Music Marathon 2025 đã khai mạc thu hút sự tham dự của hàng ngàn người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202811+07:00",
+      "fetched": "2025-10-11T23:17:03.202908+07:00"
+    },
+    {
+      "id": "912ca9d775d35a150cef4976c4ae1d51",
+      "title": "Em xinh say hi nói lý do vẫn tổ chức concert khi miền Bắc ảnh hưởng nặng nề bởi mưa lũ",
+      "link": "https://tuoitre.vn/em-xinh-say-hi-noi-ly-do-van-to-chuc-concert-khi-mien-bac-anh-huong-nang-ne-boi-mua-lu-20251011211036063.htm",
+      "summary": "Tối 11-10, đêm diễn thứ hai của concert Em xinh say hi vẫn diễn ra đúng kế hoạch tại sân vận động Mỹ Đình (Hà Nội), thu hút hàng chục nghìn khán giả phủ kín khán đài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202704+07:00",
+      "fetched": "2025-10-11T23:17:03.202801+07:00"
+    },
+    {
+      "id": "483805497f2ecbee11a1e9386aee9e45",
+      "title": "Tranh sơn mài ‘Bác Hồ đọc Tuyên ngôn Độc lập’ của Chu Nhật Quang nhận kỷ lục thế giới",
+      "link": "https://tuoitre.vn/tranh-son-mai-bac-ho-doc-tuyen-ngon-doc-lap-cua-chu-nhat-quang-nhan-ky-luc-the-gioi-20251011193608755.htm",
+      "summary": "Việc ghi nhận kỷ lục cho tranh của Chu Nhật Quang không chỉ vinh danh về kích thước, mà còn khẳng định sức sáng tạo, tinh thần dám vượt qua giới hạn của họa sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202581+07:00",
+      "fetched": "2025-10-11T23:17:03.202694+07:00"
+    },
+    {
+      "id": "dfa1c24a7c1618686fd9222de055c508",
+      "title": "Tái khởi động SOS Food, hỗ trợ khẩn cấp 500 tấn nhu yếu phẩm đến đồng bào miền Bắc sau bão lũ",
+      "link": "https://tuoitre.vn/tai-khoi-dong-sos-food-ho-tro-khan-cap-500-tan-nhu-yeu-pham-den-dong-bao-mien-bac-sau-bao-lu-2025101116225496.htm",
+      "summary": "Nền tảng thực phẩm khẩn cấp SOS Food phát động chiến dịch hỗ trợ thực phẩm khẩn cấp cho đồng bào vùng lũ tại Thái Nguyên, Cao Bằng, Sơn La, Yên Bái… và nhiều vùng lũ ở phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202469+07:00",
+      "fetched": "2025-10-11T23:17:03.202571+07:00"
+    },
+    {
+      "id": "65b4bd634b6b83d19910e409cf75eda8",
+      "title": "Ông Zelensky điện đàm, nhờ ông Trump dừng chiến sự với Nga như làm được ở Gaza",
+      "link": "https://tuoitre.vn/ong-zelensky-dien-dam-nho-ong-trump-dung-chien-su-voi-nga-nhu-lam-duoc-o-gaza-20251011214121994.htm",
+      "summary": "Ông Zelensky thông báo ông đã có cuộc điện đàm \"tích cực và hiệu quả\" với ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202354+07:00",
+      "fetched": "2025-10-11T23:17:03.202458+07:00"
+    },
+    {
+      "id": "a0c0fb849516a3c75445a5e776729f53",
+      "title": "Hòa Minzy nhận giải thưởng Thanh niên sống đẹp",
+      "link": "https://tuoitre.vn/hoa-minzy-nhan-giai-thuong-thanh-nien-song-dep-20251011210919326.htm",
+      "summary": "Chia sẻ tại đêm Gala Thanh niên sống đẹp, ca sĩ Hòa Minzy cho hay cô nảy ra ý tưởng xây cầu cho bà con vùng lũ từ lần trốn mẹ đi cứu trợ bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202238+07:00",
+      "fetched": "2025-10-11T23:17:03.202345+07:00"
+    },
+    {
+      "id": "db171e260c073445c110f488e36560cf",
+      "title": "Một tháng tới, khả năng có 2-3 cơn bão, áp thấp trên Biển Đông",
+      "link": "https://tuoitre.vn/mot-thang-toi-kha-nang-co-2-3-con-bao-ap-thap-tren-bien-dong-20251011214549644.htm",
+      "summary": "Dự báo một tháng tới, trên Biển Đông có khả năng xuất hiện 2-3 cơn bão, áp thấp nhiệt đới, trong đó 1-2 cơn có thể ảnh hưởng đến nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.202113+07:00",
+      "fetched": "2025-10-11T23:17:03.202228+07:00"
+    },
+    {
+      "id": "cac413c7dc20d1cb6672b369292f259d",
+      "title": "Người dân kể lại khoảnh khắc chỉ trong 10 phút lũ ồ ạt đổ về nhấn chìm hết tài sản",
+      "link": "https://tuoitre.vn/nguoi-dan-ke-lai-khoanh-khac-chi-trong-10-phut-lu-o-at-do-do-ve-nhan-chim-het-tai-san-20251011214757954.htm",
+      "summary": "Bà Đỗ Thị Long (cư dân xã Đa Phúc, Hà Nội) nghẹn ngào cho biết chỉ trong tích tắc, ngôi nhà bà trở thành một hòn đảo cô lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T23:17:03.201890+07:00",
+      "fetched": "2025-10-11T23:17:03.202099+07:00"
+    },
     {
       "id": "80dcd70357f99759a853a18fcb1a4042",
       "title": "Hậu vệ Việt kiều Pháp khen Nepal mạnh về phòng ngự",
@@ -453,6 +543,56 @@ window.newsData_2025_10_11 = {
       "fetched": "2025-10-11T17:15:20.220893+07:00"
     },
     {
+      "id": "3daa9ecbd4c0899a5cc6c53a0517cc69",
+      "title": "Xuân Son chính thức tái xuất, thi đấu sung sức: Đội tuyển Việt Nam và Nam Định cực vui",
+      "link": "https://thanhnien.vn/xuan-son-chinh-thuc-tai-xuat-thi-dau-sung-suc-doi-tuyen-viet-nam-va-nam-dinh-cuc-vui-185251011225357668.htm",
+      "summary": "Tiền đạo Nguyễn Xuân Son đã trở lại ở trận giao hữu giữa CLB Nam Định và Trẻ PVF-CAND, diễn ra tối nay (11.10).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T16:01:00+07:00",
+      "fetched": "2025-10-11T23:17:02.211605+07:00"
+    },
+    {
+      "id": "d746df522da235dfee111e0d24fd6838",
+      "title": "Đà Nẵng: Điều tra vụ tài xế tử vong khi xe ben rơi xuống biển",
+      "link": "https://thanhnien.vn/da-nang-dieu-tra-vu-tai-xe-tu-vong-khi-xe-ben-roi-xuong-bien-185251011212640919.htm",
+      "summary": "Sau vụ xe ben bất ngờ trượt xuống biển trong lúc san lấp mặt bằng tại công trình cảng Tiên Sa (TP.Đà Nẵng), thi thể tài xế đã được phát hiện tại khu vực gần cầu cảng và các cơ quan chức năng đang điều tra làm rõ nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:33:00+07:00",
+      "fetched": "2025-10-11T23:17:02.211760+07:00"
+    },
+    {
+      "id": "a8bd9d67f08d62d1017bd452031fc8f5",
+      "title": "Loạt sai phạm bồi thường, tái định cư tại siêu dự án 4 tỷ USD Nam Hội An",
+      "link": "https://vnexpress.net/loat-sai-pham-boi-thuong-tai-dinh-cu-tai-sieu-du-an-4-ty-usd-nam-hoi-an-4950223.html",
+      "summary": "Thanh tra TP Đà Nẵng chỉ ra hàng loạt sai phạm tại khu tái định cư phục vụ dự án nghỉ dưỡng Nam Hội An - siêu dự án có tổng vốn hơn 4 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:32:46+07:00",
+      "fetched": "2025-10-11T23:16:59.278253+07:00"
+    },
+    {
+      "id": "3afe9a7696b65f048ad88b7e3d9398a5",
+      "title": "MTTQ Việt Nam thăm hỏi, tặng quà nhân dân vùng ngập lũ Thái Nguyên, Bắc Ninh",
+      "link": "https://thanhnien.vn/mttq-viet-nam-tham-hoi-tang-qua-nhan-dan-vung-ngap-lu-thai-nguyen-bac-ninh-185251011213119806.htm",
+      "summary": "Ngày 11.10, đoàn công tác của Ủy ban Trung ương Mặt trận Tổ quốc (MTTQ) Việt Nam do bà Hà Thị Nga, Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam, làm trưởng đoàn đã tới thăm hỏi, tặng quà người dân và lực lượng hỗ trợ nhân dân khắc phục hậu quả bão lũ tại các tỉnh Thái Nguyên, Bắc Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:24:00+07:00",
+      "fetched": "2025-10-11T23:17:02.211895+07:00"
+    },
+    {
+      "id": "ac1915aabe7da9552dc1344983a7effa",
+      "title": "Đà Nẵng: Hai xe bồn bốc cháy dữ dội gần cây xăng",
+      "link": "https://thanhnien.vn/da-nang-hai-xe-bon-boc-chay-du-doi-gan-cay-xang-185251011212916329.htm",
+      "summary": "Hai xe bồn chở xăng dầu bất ngờ bốc cháy dữ dội, phát ra nhiều tiếng nổ gần cây xăng. Công an TP.Đà Nẵng điều động lực lượng có cả xe robot chữa cháy đến hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:22:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212024+07:00"
+    },
+    {
       "id": "6ecd62ef9e9d8c4b8a6bb9138b5b8483",
       "title": "'Mỗi nhân viên sale Skoda trung bình bán được gần 2 xe/ngày'",
       "link": "https://tuoitre.vn/moi-nhan-vien-sale-skoda-trung-binh-ban-duoc-gan-2-xe-ngay-20251011092632949.htm",
@@ -603,6 +743,116 @@ window.newsData_2025_10_11 = {
       "fetched": "2025-10-11T15:18:53.572170+07:00"
     },
     {
+      "id": "aaca03a80904ba88f98f703c93fadb27",
+      "title": "Đà Nẵng công bố 10 dự án đủ điều kiện bán nhà ở hình thành trong tương lai",
+      "link": "https://vnexpress.net/da-nang-cong-bo-10-du-an-du-dieu-kien-ban-nha-o-hinh-thanh-trong-tuong-lai-4950244.html",
+      "summary": "10 dự án đủ điều kiện mở bán mới của Đà Nẵng đóng góp hơn 5.200 căn nhà, căn hộ vào nguồn cung của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:49:51+07:00",
+      "fetched": "2025-10-11T23:16:59.278412+07:00"
+    },
+    {
+      "id": "ea4eb3483e2fa5c9a2cc8c5588305b39",
+      "title": "Skincare tối giản - da có khỏe hơn?",
+      "link": "https://thanhnien.vn/skincare-toi-gian-da-co-khoe-hon-185251011214501785.htm",
+      "summary": "Giữa nhịp sống bận rộn, xu hướng skincare tối giản lên ngôi như lời đáp cho làn da mệt mỏi - khi 'ít hơn' đôi khi lại là 'đủ' để da khỏe mạnh, cân bằng và phục hồi tự nhiên mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:46:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212162+07:00"
+    },
+    {
+      "id": "fc2876b812f15bb0341fca11aea904f9",
+      "title": "Triều Tiên đón Tổng Bí thư Tô Lâm với nhiều biệt lệ",
+      "link": "https://thanhnien.vn/trieu-tien-don-tong-bi-thu-to-lam-voi-nhieu-biet-le-185251011210225882.htm",
+      "summary": "Đoàn đại biểu Việt Nam đã nhận được sự đón tiếp hết sức trọng thị, chân tình, chu đáo với nhiều biệt lệ, thể hiện sự coi trọng đặc biệt của lãnh đạo Đảng, Nhà nước và nhân dân Triều Tiên đối với Đoàn đại biểu cấp cao Đảng Cộng sản Việt Nam và cá nhân Tổng Bí thư Tô Lâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:37:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212294+07:00"
+    },
+    {
+      "id": "eeeebde85c03a213c9abb69c1bf92b68",
+      "title": "Nhiều đại học, học viện một nước nói tiếng Anh tuyển thẳng học sinh Việt Nam",
+      "link": "https://thanhnien.vn/nhieu-dai-hoc-hoc-vien-mot-nuoc-noi-tieng-anh-tuyen-thang-hoc-sinh-viet-nam-185251011190525354.htm",
+      "summary": "Đông đảo cơ sở giáo dục đại học (ĐH) ở New Zealand tuyển thẳng học sinh Việt Nam đồng thời tung nhiều hỗ trợ, một phần vì tin tưởng năng lực học thuật của người Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:34:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212424+07:00"
+    },
+    {
+      "id": "c176f0de67788abdf675b365b5403f6f",
+      "title": "Bị phạt hơn 6 triệu đồng vì tự ý đăng ảnh người khác",
+      "link": "https://vnexpress.net/bi-phat-vi-dang-anh-nguoi-khac-len-facebook-trai-phep-4950239.html",
+      "summary": "Nguyễn Thành Phố, 31 tuổi, bị phạt 6,25 triệu đồng do thâm nhập tài khoản Facebook của người yêu cũ, đăng ảnh chị này chụp chung với người đàn ông khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:30:35+07:00",
+      "fetched": "2025-10-11T23:16:59.278504+07:00"
+    },
+    {
+      "id": "73b21656812bed23965c98b6f0b198a8",
+      "title": "Gia đình chủ tiệm vàng Kim Hưng phẫn uất sau vụ cướp",
+      "link": "https://vnexpress.net/gia-dinh-chu-tiem-vang-kim-hung-phan-uat-sau-vu-cuop-4950234.html",
+      "summary": "Gia đình chủ tiệm vàng Kim Hưng ở California bày tỏ phẫn uất, bất mãn vì những tổn thất về vật chất và tinh thần sau vụ cướp tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:28:07+07:00",
+      "fetched": "2025-10-11T23:16:59.278658+07:00"
+    },
+    {
+      "id": "73b21656812bed23965c98b6f0b198a8",
+      "title": "Gia đình chủ tiệm vàng Kim Hưng phẫn uất sau vụ cướp",
+      "link": "https://vnexpress.net/gia-dinh-chu-tiem-vang-kim-hung-phan-uat-sau-vu-cuop-4950234.html",
+      "summary": "Gia đình chủ tiệm vàng Kim Hưng ở California bày tỏ phẫn uất, bất mãn vì những tổn thất về vật chất và tinh thần sau vụ cướp tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-11T14:28:07+07:00",
+      "fetched": "2025-10-11T23:17:04.805942+07:00"
+    },
+    {
+      "id": "b2d014bf99a11940397a15f34fefb2b5",
+      "title": "Đoàn Văn Hậu gây thích thú khi đăng ảnh chạm trán Đỗ Hoàng Hên: Lượng tương tác khủng",
+      "link": "https://thanhnien.vn/doan-van-hau-gay-thich-thu-khi-dang-anh-cham-tran-do-hoang-hen-hang-chuc-nghin-luot-tuong-tac-185251011212550546.htm",
+      "summary": "Hình ảnh Đoàn Văn Hậu thi đấu xông xáo trong trận giao hữu với CLB Hà Nội, khiến người hâm mộ vui mừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:25:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212551+07:00"
+    },
+    {
+      "id": "e8ab08899fc8da430af97dbc47ffb0ab",
+      "title": "Vinh danh ca sĩ Hòa Minzy và những người trẻ sống đẹp vì cộng đồng",
+      "link": "https://thanhnien.vn/vinh-danh-ca-si-hoa-minzy-va-nhung-nguoi-tre-song-dep-vi-cong-dong-185251011172438865.htm",
+      "summary": "Giải thưởng 'Thanh niên sống đẹp' năm 2025 đã phát hiện và tôn vinh những câu chuyện tử tế, những hành động dũng cảm, những sáng kiến vì cộng đồng đang diễn ra hàng ngày, hàng giờ ở mọi miền Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:25:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212689+07:00"
+    },
+    {
+      "id": "3b3bfa9f9bb6aa2d46b7dd4e6a70ff4d",
+      "title": "Top 10 kem chống nắng đi biển ngừa sạm đen, lâu trôi dù nắng gắt cỡ nào",
+      "link": "https://thanhnien.vn/top-10-kem-chong-nang-di-bien-ngua-sam-den-lau-troi-du-nang-gat-co-nao-185251011210935621.htm",
+      "summary": "Bạn đang tìm kem chống nắng đi biển vừa bảo vệ da tối ưu ngăn ngừa cháy nắng, sạm đen vừa kháng nước tốt, lâu trôi mà bảo vệ môi trường, không gây hại cho rạn san hô. Vậy hãy tham khảo ngay top 10 kem chống nắng đi biển đang có lượt bán cao hàng đầu hiện nay. Giúp làn da của bạn vẫn trắng hồng, tươi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:20:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212818+07:00"
+    },
+    {
+      "id": "41791e1e3973d080f58018334ecbbfd4",
+      "title": "Tổng thống Trump sức khỏe ra sao ở tuổi 79?",
+      "link": "https://thanhnien.vn/tong-thong-trump-suc-khoe-ra-sao-o-tuoi-79-185251011195347575.htm",
+      "summary": "Trong một bản ghi nhớ được Nhà Trắng công bố ngày 10.10, bác sĩ của Tổng thống Mỹ Donald Trump cho biết ông Trump có “sức khỏe đặc biệt” với tuổi tim mạch trẻ hơn khoảng 14 năm so với tuổi thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:15:00+07:00",
+      "fetched": "2025-10-11T23:17:02.212948+07:00"
+    },
+    {
       "id": "553850949e063b817b59bc8c60a69357",
       "title": "47.000 du học sinh Canada bị nghi ngờ không đi học",
       "link": "https://vnexpress.net/47-000-du-hoc-sinh-canada-bi-nghi-ngo-khong-di-hoc-4950208.html",
@@ -613,6 +863,16 @@ window.newsData_2025_10_11 = {
       "fetched": "2025-10-11T21:12:33.622768+07:00"
     },
     {
+      "id": "21907a6303f6625598e058fdcaaf9d79",
+      "title": "Bão ngày càng dữ dội: Một nguyên nhân bất ngờ?",
+      "link": "https://thanhnien.vn/bao-ngay-cang-du-doi-mot-nguyen-nhan-bat-ngo-185251011205542079.htm",
+      "summary": "Tờ The Straits Times ngày 10.10 dẫn một nghiên cứu vừa công bố cho thấy ô nhiễm không khí từ những đám cháy rừng ở Đông Nam Á có thể là nguyên nhân khiến các cơn bão trong khu vực trở nên mạnh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T14:01:00+07:00",
+      "fetched": "2025-10-11T23:17:02.213076+07:00"
+    },
+    {
       "id": "8a741d9533bbb0e259ab1c16fcf6391d",
       "title": "Vay tôi 1,5 tỷ đồng, ba ngày sau chú ruột mất tích",
       "link": "https://vnexpress.net/vay-toi-1-5-ty-dong-ba-ngay-sau-chu-ruot-mat-tich-4949836.html",
@@ -621,6 +881,16 @@ window.newsData_2025_10_11 = {
       "category": "Tổng hợp",
       "published": "2025-10-11T14:00:00+07:00",
       "fetched": "2025-10-11T21:12:33.622953+07:00"
+    },
+    {
+      "id": "5546a7a044df81fd950e694a304ae67b",
+      "title": "HLV Kim Sang-sik được đề xuất tặng bằng khen của Thủ tướng Chính phủ",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-duoc-de-xuat-tang-bang-khen-cua-thu-tuong-chinh-phu-1852510112152347.htm",
+      "summary": "Bộ VH-TT-DL đã gửi tờ trình lên Thủ tướng Chính phủ, đề nghị tặng bằng khen cho HLV Kim Sang-sik và các cộng sự sau thành tích giúp U.23 Việt Nam vô địch giải U.23 Đông Nam Á 2025 tại Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T13:59:00+07:00",
+      "fetched": "2025-10-11T23:17:02.213203+07:00"
     },
     {
       "id": "48a0194e6c64fd64092f1f4edbb3e7f0",
