@@ -1,7 +1,157 @@
 window.newsData_2025_10_12 = {
   "date": "2025-10-12",
-  "lastUpdated": "2025-10-12T13:21:45.595341+07:00",
+  "lastUpdated": "2025-10-12T15:19:16.602121+07:00",
   "articles": [
+    {
+      "id": "fd76341b460d0dce1f0948e1edddca2c",
+      "title": "Tổng Bí thư Tô Lâm dự lễ kỷ niệm 80 năm Ngày truyền thống Quân khu 4",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-le-ky-niem-80-nam-ngay-truyen-thong-quan-khu-4-20251012123448247.htm",
+      "summary": "Sáng 12-10, Tổng Bí thư Tô Lâm đã tới dự lễ kỷ niệm 80 năm Ngày truyền thống lực lượng vũ trang Quân khu 4 và lễ đón nhận Huân chương Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449944+07:00",
+      "fetched": "2025-10-12T15:19:09.450065+07:00"
+    },
+    {
+      "id": "a711301af8e86adff9ecd988ff39aa6d",
+      "title": "11.000 runner khuấy động đường đua marathon Đất sen hồng",
+      "link": "https://tuoitre.vn/11-000-runner-khuay-dong-duong-dua-marathon-dat-sen-hong-20251012103307318.htm",
+      "summary": "Gần 11.000 vận động viên sải bước trên cung đường xanh Đồng Tháp trong Giải VPBank Đất sen hồng Music Marathon 2025 sáng 12-10, tạo nên ngày hội thể thao sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449799+07:00",
+      "fetched": "2025-10-12T15:19:09.449932+07:00"
+    },
+    {
+      "id": "8fc35bdd93f49bc1e73d4c8a04c8bfbd",
+      "title": "Đùa chuyện 'người lớn' nơi công sở, vui thôi, đừng quá trớn",
+      "link": "https://tuoitre.vn/dua-chuyen-nguoi-lon-noi-cong-so-vui-thoi-dung-qua-tron-20251009225559337.htm",
+      "summary": "Trong công ty tôi, lúc tán gẫu thường xoay quanh những đề tài quen thuộc, chuyện nuôi dạy con cái, đôi khi cả những 'bí quyết' giữ hạnh phúc vợ chồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449676+07:00",
+      "fetched": "2025-10-12T15:19:09.449788+07:00"
+    },
+    {
+      "id": "bb44bc0d23d800758e5fced60f0adaef",
+      "title": "Nạn 'bắt cóc online' và 'bản lĩnh số' của sinh viên",
+      "link": "https://tuoitre.vn/nan-bat-coc-online-va-ban-linh-so-cua-sinh-vien-20251005172147847.htm",
+      "summary": "Đầu năm học mới, trong khi tân sinh viên háo hức bước vào giảng đường thì cũng là lúc nhiều câu chuyện lừa đảo nổi lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449551+07:00",
+      "fetched": "2025-10-12T15:19:09.449665+07:00"
+    },
+    {
+      "id": "eee2cbf2ccdbd802564c815788ee1608",
+      "title": "Xe 7 chỗ va chạm xe đầu kéo, 3 cháu nhỏ và 4 người lớn bị thương",
+      "link": "https://tuoitre.vn/xe-7-cho-va-cham-xe-dau-keo-3-chau-nho-va-4-nguoi-lon-bi-thuong-20251012120848222.htm",
+      "summary": "Vụ tai nạn nghiêm trọng giữa ô tô 7 chỗ và xe đầu kéo ở TP Đà Nẵng khiến nhiều người bị thương phải nhập viện cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449428+07:00",
+      "fetched": "2025-10-12T15:19:09.449541+07:00"
+    },
+    {
+      "id": "373dced1262a58c47035d5d97ff237d4",
+      "title": "Giải bóng đá công nhân, viên chức năm 2025: Ấn tượng những gương mặt thân thương",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-nam-2025-an-tuong-nhung-guong-mat-than-thuong-20251012104440984.htm",
+      "summary": "Qua 3 năm tổ chức, Giải bóng đá công nhân, viên chức Việt Nam có sự đồng hành của những gương mặt thân thương cùng những đội bóng để lại ấn tượng sâu đậm trong lòng khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449299+07:00",
+      "fetched": "2025-10-12T15:19:09.449416+07:00"
+    },
+    {
+      "id": "3ce1722b392918651acd318f5716ce53",
+      "title": "Trung Quốc lên án Mỹ trước nguy cơ leo thang thương chiến",
+      "link": "https://tuoitre.vn/trung-quoc-len-an-my-truoc-nguy-co-leo-thang-thuong-chien-2025101212254413.htm",
+      "summary": "Bắc Kinh lên án chính quyền Tổng thống Mỹ Donald Trump “tiêu chuẩn kép” trong thương mại, sau khi Nhà Trắng đe dọa tăng thêm 100% thuế đối với hàng hóa Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449155+07:00",
+      "fetched": "2025-10-12T15:19:09.449287+07:00"
+    },
+    {
+      "id": "f527662194555b167fc64b8841f985f5",
+      "title": "Truyền thông Indonesia và Hà Lan tổng công kích trọng tài, AFC",
+      "link": "https://tuoitre.vn/truyen-thong-indonesia-va-ha-lan-tong-cong-kich-trong-tai-afc-20251012124829693.htm",
+      "summary": "Không chỉ người hâm mộ và cầu thủ, cả giới truyền thông Indonesia cũng hướng sự chỉ trích về phía trọng tài và Liên đoàn bóng đá châu Á (AFC) sau thất bại ở vòng loại World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.449027+07:00",
+      "fetched": "2025-10-12T15:19:09.449144+07:00"
+    },
+    {
+      "id": "3bac7d112e98b03dbc919d6cfba75898",
+      "title": "Hãng bay Việt rầm rộ tuyển tiếp viên, sang cả Nhật Bản tìm người",
+      "link": "https://tuoitre.vn/hang-bay-viet-ram-ro-tuyen-tiep-vien-sang-ca-nhat-ban-tim-nguoi-20251012125929438.htm",
+      "summary": "Các hãng bay như Vietjet, Bamboo Airways, Vietravel Airlines rầm rộ tuyển tiếp viên, mở rộng mạng bay trong và ngoài nước, tăng tốc chuẩn bị cho mùa Tết 2026. Bamboo Airways dời \"tổng hành dinh\" từ TP.HCM về lại Hà Nội, tuyển tới 500 tiếp viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448895+07:00",
+      "fetched": "2025-10-12T15:19:09.449016+07:00"
+    },
+    {
+      "id": "9ca90fa2ea7f175d50dc41b9dd7d40f6",
+      "title": "Bắt được khỉ đuôi lợn sổng chuồng cắn 2 người ở Hóc Môn",
+      "link": "https://tuoitre.vn/bat-duoc-khi-duoi-lon-song-chuong-can-2-nguoi-o-hoc-mon-20251012125701328.htm",
+      "summary": "Chi cục Kiểm lâm TP.HCM phối hợp địa phương bắt hai con khỉ đuôi lợn: một con 8kg sổng chuồng cắn hai người ở Hóc Môn, một con 5kg quậy phá ở xã Nhuận Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448749+07:00",
+      "fetched": "2025-10-12T15:19:09.448882+07:00"
+    },
+    {
+      "id": "517ac0e3090d0dbf59a8e01c3e8470fd",
+      "title": "Sinh viên tập làm phóng viên ảnh tại giải bóng đá công nhân",
+      "link": "https://tuoitre.vn/sinh-vien-tap-lam-phong-vien-anh-tai-giai-bong-da-cong-nhan-20251012105758117.htm",
+      "summary": "Không chỉ mang đến sân chơi thể thao sôi động cho người lao động, Giải bóng đá công nhân, viên chức Việt Nam 2025 còn là lớp học thực tế cho sinh viên báo chí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448621+07:00",
+      "fetched": "2025-10-12T15:19:09.448737+07:00"
+    },
+    {
+      "id": "234d21b6f1ac715c18f999e5d2a3a42e",
+      "title": "Gần 3.000 người chạy tiếp sức cho bệnh nhân ung thư",
+      "link": "https://tuoitre.vn/gan-3-000-nguoi-chay-tiep-suc-cho-benh-nhan-ung-thu-20251012132824478.htm",
+      "summary": "Sáng nay 12-10, gần 3.000 người, trong đó có nhiều y bác sĩ, chuyên gia y khoa, bệnh nhân ung thư đã tham gia giải chạy \"Hành trình tiếp sức\" nhằm gây quỹ ủng hộ cho bệnh nhân ung thư. Đây là lần thứ 2 \"Hành trình tiếp sức\" được Bệnh viện K tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448490+07:00",
+      "fetched": "2025-10-12T15:19:09.448609+07:00"
+    },
+    {
+      "id": "c6a332274db29b8062f1081f74a41da6",
+      "title": "Vòng loại cuối Asian Cup 2027: Cơ hội nào cho cầu thủ U23 Việt Nam?",
+      "link": "https://tuoitre.vn/vong-loai-cuoi-asian-cup-2027-co-hoi-nao-cho-cau-thu-u23-viet-nam-20251012104853019.htm",
+      "summary": "Tuyển Việt Nam với đội hình mạnh nhất phải rất vất vả mới thắng 10 cầu thủ Nepal 3-1 ở trận lượt đi vòng loại cuối Asian Cup 2027 diễn ra hôm 9-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448356+07:00",
+      "fetched": "2025-10-12T15:19:09.448478+07:00"
+    },
+    {
+      "id": "4d5d1d6f424c7b7afe9dffded54f8dfa",
+      "title": "Khi bạn trẻ khổ sở vì thất tình - Kỳ cuối: Ở lại cùng tình yêu, có khó không?",
+      "link": "https://tuoitre.vn/khi-ban-tre-kho-so-vi-that-tinh-ky-cuoi-o-lai-cung-tinh-yeu-co-kho-khong-20251012004117463.htm",
+      "summary": "Yêu hết mình rồi thất vọng, kỳ vọng quá nhiều rồi vỡ mộng, những câu chuyện tình yêu của người trẻ không còn xa lạ trong thời mạng xã hội bủa vây bởi xu hướng yêu nhanh, chia tay chóng vánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.448211+07:00",
+      "fetched": "2025-10-12T15:19:09.448344+07:00"
+    },
+    {
+      "id": "5c9f0641b5888dbee10c99feb17a1278",
+      "title": "Kim Hee Sun tái xuất đóng phim sau nỗi đau mất mẹ, fan xót xa vì vóc dáng gầy gò",
+      "link": "https://tuoitre.vn/kim-hee-sun-tai-xuat-dong-phim-sau-noi-dau-mat-me-fan-xot-xa-vi-voc-dang-gay-go-20251012132838284.htm",
+      "summary": "Kim Hee Sun chia sẻ hình ảnh trở lại phim trường, đánh dấu lần xuất hiện đầu tiên sau khi trải qua nỗi đau mất mẹ. Khán giả xót xa khi cô trông gầy gò hơn trước, để lại nhiều bình luận chia buồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:19:09.447975+07:00",
+      "fetched": "2025-10-12T15:19:09.448197+07:00"
+    },
     {
       "id": "9672b1492e03b4766ef87a78dd9cda66",
       "title": "Đoàn đại biểu dự Đại hội Đảng bộ Chính phủ vào lăng viếng Chủ tịch Hồ Chí Minh",
@@ -503,6 +653,326 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T08:16:52.922303+07:00"
     },
     {
+      "id": "68fdcbe0fbadc4de4acd17ccb8dcf7cd",
+      "title": "JCI phát động cuộc thi hùng biện tiếng Anh dành cho lãnh đạo trẻ",
+      "link": "https://thanhnien.vn/jci-phat-dong-cuoc-thi-hung-bien-tieng-anh-danh-cho-lanh-dao-tre-185251012150933924.htm",
+      "summary": "Hàng năm, hội nghị JCI ASPAC là sự kiện thường niên trọng điểm trong khu vực, kết nối các nhà lãnh đạo trẻ, doanh nhân, chuyên gia để thảo luận các chủ đề nóng như: phát triển bền vững, sáng tạo số, lãnh đạo toàn cầu và giao lưu văn hóa quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:15:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234083+07:00"
+    },
+    {
+      "id": "44d229694942fc2923a31f34d3c2f58f",
+      "title": "Hàng tỉ cổ phiếu chứng khoán Techcombank, bất động sản CRV sắp chào sàn",
+      "link": "https://thanhnien.vn/hang-ti-co-phieu-chung-khoan-techcombank-bat-dong-san-crv-sap-chao-san-185251012144223414.htm",
+      "summary": "Hàng tỉ cổ phiếu của các công ty như chứng khoán Techcombank, bất động sản CRV... sắp lên sàn niêm yết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:09:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234254+07:00"
+    },
+    {
+      "id": "45d4c01ae3e74ae7f76a20af47a4597c",
+      "title": "Giảm thuế, gia hạn nộp 2 năm cho doanh nghiệp vùng lũ",
+      "link": "https://vnexpress.net/giam-thue-gia-han-nop-2-nam-cho-doanh-nghiep-vung-lu-4950372.html",
+      "summary": "Doanh nghiệp, hộ kinh doanh được giảm thuế tiêu thụ đặc biệt, tài nguyên, tiền thuê đất, gia hạn nộp thuế tối đa 2 năm nếu bị thiệt hại do mưa bão, lũ lụt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:04:55+07:00",
+      "fetched": "2025-10-12T15:18:59.997534+07:00"
+    },
+    {
+      "id": "6490e0b299c6a84069b3c544f2370ddd",
+      "title": "Giảm thuế 30%, gia hạn nộp 2 năm cho doanh nghiệp bị thiệt hại ngập lụt",
+      "link": "https://vnexpress.net/giam-thue-30-gia-han-nop-2-nam-cho-doanh-nghiep-bi-thiet-hai-ngap-lut-4950372.html",
+      "summary": "Doanh nghiệp, hộ kinh doanh được giảm 30% thuế tiêu thụ đặc biệt, gia hạn nộp thuế tối đa 2 năm nếu bị thiệt hại do mưa bão, lũ lụt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-12T08:04:55+07:00",
+      "fetched": "2025-10-12T15:19:12.132966+07:00"
+    },
+    {
+      "id": "f42134c08e1c212028d690fd6e023151",
+      "title": "Thanh Thúy cùng đồng đội thắng ngược ngoạn mục trong ngày ra quân giải Nhật Bản",
+      "link": "https://thanhnien.vn/thanh-thuy-cung-dong-doi-thang-nguoc-ngoan-muc-trong-ngay-ra-quan-giai-nhat-ban-185251012150120972.htm",
+      "summary": "Trần Thị Thanh Thúy cùng đồng đội có khởi đầu thuận lợi trong ngày khai màn giải bóng chuyền nữ cao nhất Nhật Bản SV League 2025 - 2026, khi CLB Gunma Green Wings giành chiến thắng ngược dòng ấn tượng trước CLB Queenseis Kariya.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:04:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234414+07:00"
+    },
+    {
+      "id": "fa92f25c2220c4b9fb5aa7f46e81bcdb",
+      "title": "Sợ về nhà vì ngày nào hàng xóm cũng nhậu nhẹt, hát hò tới khuya",
+      "link": "https://vnexpress.net/toi-viet-nhung-dong-nay-trong-tam-trang-tuyet-vong-va-met-moi-sau-nhieu-thang-song-trong-tieng-on-khong-dut-tu-nha-hang-xom-4950304.html",
+      "summary": "Tôi viết những dòng này trong tâm trạng tuyệt vọng và mệt mỏi sau nhiều tháng sống trong tiếng ồn không dứt từ nhà hàng xóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:18:59.997716+07:00"
+    },
+    {
+      "id": "4f0bb5a37b62d10bdb28c08fd1a50e9b",
+      "title": "Vẻ điển trai của 'quốc bảo' Nhật Bản",
+      "link": "https://vnexpress.net/ve-dien-trai-cua-quoc-bao-nhat-ban-4950294.html",
+      "summary": "Diễn viên Yamazaki Kento, 31 tuổi - người được mệnh danh là \"quốc bảo\" Nhật Bản - cao 1,78 m, gương mặt hài hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:18:59.997904+07:00"
+    },
+    {
+      "id": "62bec9713e0ed4a9a16465b760f088d4",
+      "title": "Cách đo huyết áp chính xác",
+      "link": "https://vnexpress.net/cach-do-huyet-ap-chinh-xac-4950237.html",
+      "summary": "Đo huyết áp có thể dùng máy cơ hoặc máy điện tử, thực hiện cùng thời điểm mỗi ngày và ngồi đúng tư thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:18:59.998071+07:00"
+    },
+    {
+      "id": "e8cd6d1ae163683a67b03b096bf00446",
+      "title": "Chính sách hậu mãi giúp VinFast hút khách",
+      "link": "https://vnexpress.net/chinh-sach-hau-mai-giup-vinfast-hut-khach-4950185.html",
+      "summary": "VinFast thiết lập những chuẩn mực mới về dịch vụ hậu mãi trên thị trường ôtô, nâng trải nghiệm sở hữu xe để thu hút người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:18:59.998233+07:00"
+    },
+    {
+      "id": "645164cf56821d0c8021494e8e524b67",
+      "title": "Cách Trung Quốc chuyển đổi xe xăng sang xe máy điện",
+      "link": "https://vnexpress.net/cach-trung-quoc-chuyen-doi-xe-xang-sang-xe-may-dien-4936498.html",
+      "summary": "Trung Quốc cấm xe máy xăng từ năm 2000, kéo theo sự phát triển thần tốc của xe điện hai bánh, kèm những thay đổi tích cực về chất lượng môi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:18:59.998393+07:00"
+    },
+    {
+      "id": "7ce01330c91fcaf79950c7236fae2443",
+      "title": "Đứa con của rừng ma - Truyện ngắn dự thi của Kim Sơn",
+      "link": "https://thanhnien.vn/dua-con-cua-rung-ma-truyen-ngan-du-thi-cua-kim-son-185251010151656893.htm",
+      "summary": "Tiếng chiêng đã báo rồi, cả làng cứ thế đến thôi, người chết đã chết rồi. Cứ theo tục mà làm thôi. Đứa trẻ khóc ngằn ngặt mệt quá đã nằm thỉu bên xác mẹ, tấm vải đắp ngang qua không đủ ấm giữa đêm lạnh nên bây giờ những tiếng ồn ào của người làng kéo đến ngày một đông vẫn không thể đánh thức nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T08:00:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234571+07:00"
+    },
+    {
+      "id": "4c3f739c1a551305a27712cdbe500132",
+      "title": "Cha kéo bè đưa con vượt lũ đi du học",
+      "link": "https://vnexpress.net/cha-keo-be-dua-con-vuot-lu-di-du-hoc-4950356.html",
+      "summary": "Nước lũ dâng ngang cổ, anh Hoàng Đình Nghệ, 47 tuổi, bám vào vách tường, kéo chiếc bè chở con gái và hành lý vượt dòng nước xiết để kịp ra sân bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:53:27+07:00",
+      "fetched": "2025-10-12T15:18:59.998550+07:00"
+    },
+    {
+      "id": "5070e86fb2cc168c625bb428c62aec8d",
+      "title": "Australia thăng hạng trên bảng xếp hạng đại học thế giới",
+      "link": "https://vnexpress.net/australia-thang-hang-tren-bang-xep-hang-dai-hoc-the-gioi-4950357.html",
+      "summary": "Trái ngược với nhiều trường tại Mỹ và châu Âu, 12 trường của Australia nâng bậc trong bảng xếp hạng Times Higher Education năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:50:24+07:00",
+      "fetched": "2025-10-12T15:18:59.998716+07:00"
+    },
+    {
+      "id": "a6c00b34019391be6301a38431976143",
+      "title": "Khả Ngân nói gì về tin đồn tình ái, Thanh Hằng đốt nóng sàn catwalk",
+      "link": "https://thanhnien.vn/kha-ngan-noi-gi-ve-tin-don-tinh-ai-thanh-hang-dot-nong-san-catwalk-185251012134556074.htm",
+      "summary": "Xuất hiện rạng rỡ tại show thời trang, Khả Ngân chia sẻ cô đang ưu tiên dành nhiều thời gian để chăm sóc bản thân và lên tiếng phản hồi trước những tin đồn xoay quanh chuyện tình cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:47:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234725+07:00"
+    },
+    {
+      "id": "9fb4c73a875541cb8b78f29d3440bbe4",
+      "title": "200 đại biểu Đại hội Đảng bộ TP.HCM lần thứ I tham quan VNG",
+      "link": "https://thanhnien.vn/200-dai-bieu-dai-hoi-dang-bo-tphm-lan-thu-i-tham-quan-vng-185251012142927984.htm",
+      "summary": "Sáng 12.10, đoàn đại biểu Đại hội Đảng bộ TP.HCM lần thứ I (nhiệm kỳ 2025-2030) đã có chuyến tham quan và làm việc tại Công ty cổ phần Tập đoàn VNG.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:45:00+07:00",
+      "fetched": "2025-10-12T15:19:08.234898+07:00"
+    },
+    {
+      "id": "60a04bc1596156394c5a507c5bf248c7",
+      "title": "Robot AI học cách 'tạo ra con người'",
+      "link": "https://vnexpress.net/robot-ai-hoc-cach-tao-ra-con-nguoi-4950349.html",
+      "summary": "Công nghệ thụ tinh ống nghiệm (IVF) tự động hóa bằng robot AI mang đến hy vọng cho người hiếm muộn nhờ khả năng sàng lọc, đo lường chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:44:09+07:00",
+      "fetched": "2025-10-12T15:18:59.998895+07:00"
+    },
+    {
+      "id": "60a04bc1596156394c5a507c5bf248c7",
+      "title": "Robot AI học cách 'tạo ra con người'",
+      "link": "https://vnexpress.net/robot-ai-hoc-cach-tao-ra-con-nguoi-4950349.html",
+      "summary": "Công nghệ thụ tinh ống nghiệm (IVF) tự động hóa bằng robot AI mang đến hy vọng cho người hiếm muộn nhờ khả năng sàng lọc, đo lường chính xác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-12T07:44:09+07:00",
+      "fetched": "2025-10-12T15:19:14.857836+07:00"
+    },
+    {
+      "id": "71cbda151c1e8b6fca14d492113ad13b",
+      "title": "Nhà ở xã hội mới tại Bắc Ninh gần 19 triệu đồng một m2",
+      "link": "https://vnexpress.net/nha-o-xa-hoi-moi-tai-bac-ninh-gan-19-trieu-dong-mot-m2-4950307.html",
+      "summary": "Hơn 900 căn nhà xã hội thuộc khu đô thị mới Quế Võ có giá gần 19 triệu đồng một m2, tương đương mỗi căn từ 900 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:30:00+07:00",
+      "fetched": "2025-10-12T15:18:59.999065+07:00"
+    },
+    {
+      "id": "9f8a47f37077c6b4cd6913b6cf381d2d",
+      "title": "Đoàn đại biểu dự Đại hội Đảng bộ TP.HCM thăm và làm việc Vùng 2 Hải quân",
+      "link": "https://thanhnien.vn/doan-dai-bieu-du-dai-hoi-dang-bo-tphcm-tham-va-lam-viec-vung-2-hai-quan-185251012135039375.htm",
+      "summary": "Đoàn đại biểu dự Đại hội đại biểu Đảng bộ TP.HCM lần thứ I (nhiệm kỳ 2025 - 2030) làm việc với Bộ Tư lệnh Vùng 2 Hải quân để tìm hiểu thực tiễn hoạt động của lực lượng hải quân trong bảo vệ chủ quyền và phát triển kinh tế biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:29:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235053+07:00"
+    },
+    {
+      "id": "704a8e5e419174c3a8e5308995cc829a",
+      "title": "3.000 người chạy bộ tiếp sức bệnh nhân ung thư",
+      "link": "https://vnexpress.net/3-000-nguoi-chay-bo-tiep-suc-benh-nhan-ung-thu-4950341.html",
+      "summary": "Khoảng 3.000 người gồm y bác sĩ, chuyên gia y tế, bệnh nhân tham gia giải chạy Hành trình tiếp sức gây quỹ ủng hộ bệnh nhân ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:18:13+07:00",
+      "fetched": "2025-10-12T15:18:59.999227+07:00"
+    },
+    {
+      "id": "7bc7a161f0964a6d616d6d967c521687",
+      "title": "Ngày hội 'Gia đình trẻ hạnh phúc 2025' khai mạc tại Hồ Gươm",
+      "link": "https://vnexpress.net/ngay-hoi-gia-dinh-tre-hanh-phuc-2025-khai-mac-tai-ho-guom-4950365.html",
+      "summary": "Ngày hội \"Gia đình trẻ hạnh phúc 2025\" xoay quanh chủ đề \"Bên nhau mình là nhà - Viết hành trình yêu thương\" khai mạc sáng 12/10, hút hàng nghìn người quan tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:15:00+07:00",
+      "fetched": "2025-10-12T15:18:59.999386+07:00"
+    },
+    {
+      "id": "021dbabbed1f21639f918af533d9ed67",
+      "title": "Chó, thỏ, chuột hamster... lần đầu tiên được vào sảnh trung tâm thương mại vui chơi",
+      "link": "https://thanhnien.vn/cho-tho-chuot-hamster-lan-dau-tien-duoc-vao-sanh-trung-tam-thuong-mai-vui-choi-185251012110741884.htm",
+      "summary": "Rất đông gia đình ở TP.HCM hào hứng dẫn thú cưng, đặc biệt là chó, thỏ, chuột hamster... đến sảnh trung tâm thương mại Estella Place sang trọng để vui chơi, đi dạo tại lễ hội thú cưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:15:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235204+07:00"
+    },
+    {
+      "id": "0b63ab77e26f9c7ab63ccfa32371c947",
+      "title": "5 ôtô hybrid bán nhiều nhất tháng 9",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-nhieu-nhat-thang-9-4950230.html",
+      "summary": "Toyota Corolla HEV vượt Honda CR-V e:HEV leo lên đỉnh bảng xếp hạng doanh số xe hybrid tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:11:40+07:00",
+      "fetched": "2025-10-12T15:18:59.999537+07:00"
+    },
+    {
+      "id": "a20398bfcdf3ff3a13bd835f246f8108",
+      "title": "Yêu nước theo cách của người trẻ",
+      "link": "https://thanhnien.vn/yeu-nuoc-theo-cach-cua-nguoi-tre-185251010141001197.htm",
+      "summary": "Sáng tác bài hát về tình yêu quê hương đất nước, quảng bá hình ảnh Việt Nam ra toàn cầu qua mạng xã hội, tham gia các chương trình thiện nguyện, gắn cờ Tổ quốc trên hành trình ra thế giới...; giới trẻ ngày nay thể hiện tình yêu nước nồng nàn nhưng sâu sắc, náo nhiệt nhưng đầy trách nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:11:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235355+07:00"
+    },
+    {
+      "id": "9e20513a8e4cdf0584f34598f92e7673",
+      "title": "Thắp sáng những thủ phủ du lịch",
+      "link": "https://thanhnien.vn/thap-sang-nhung-thu-phu-du-lich-185251010175638785.htm",
+      "summary": "Đêm 21.5, trên mặt biển rộng 50.000 m² Vịnh trung tâm Cát Bà (Hải Phòng), lần đầu tiên một chương trình nghệ thuật - thể thao mạo hiểm - pháo hoa trên mặt biển được xác lập cùng lúc 2 kỷ lục thế giới tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:10:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235503+07:00"
+    },
+    {
+      "id": "40950bf770412f8ab7e6e176d1e2c455",
+      "title": "Tự hào doanh nghiệp Việt",
+      "link": "https://thanhnien.vn/tu-hao-doanh-nghiep-viet-185251010155542118.htm",
+      "summary": "Trên nền tảng dựng nước và giữ nước hào hùng, người Việt hôm nay hoàn toàn có thể tự hào về những thành tựu đáng kinh ngạc về khoa học, công nghệ do chính bàn tay và khối óc của chúng ta làm nên sau 80 năm đất nước giành độc lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:07:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235653+07:00"
+    },
+    {
+      "id": "37870fc7fa24f22f9c5f545382b9c191",
+      "title": "Đất nước sát cánh cùng doanh nghiệp vượt sóng gió",
+      "link": "https://thanhnien.vn/dat-nuoc-sat-canh-cung-doanh-nghiep-vuot-song-gio-18525101016440276.htm",
+      "summary": "Ngay sau khi Mỹ công bố chính sách thuế đối ứng, lãnh đạo Đảng, Nhà nước, Chính phủ đã sát cánh cùng cộng đồng doanh nghiệp qua từng giai đoạn cam go, từng tiến trình đàm phán để có mức thuế tốt nhất, giữ được thị trường quan trọng cho hàng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:06:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235807+07:00"
+    },
+    {
+      "id": "e761be1a11656e4b58a78678f97753d6",
+      "title": "Đàn cá heo xuất hiện ở biển Lâm Đồng",
+      "link": "https://vnexpress.net/dan-ca-heo-xuat-hien-o-bien-lam-dong-4950352.html",
+      "summary": "Đàn cá heo bơi quanh khu vực đảo Hòn Cau (huyện Tuy Phong, Bình Thuận cũ), khiến nhiều du khách thích thú, ngày 12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:05:38+07:00",
+      "fetched": "2025-10-12T15:18:59.999697+07:00"
+    },
+    {
+      "id": "0a23cb0799e573fb550a7708abf4e1b9",
+      "title": "Gia đình Mỹ Linh biểu diễn ở Hàn Quốc",
+      "link": "https://vnexpress.net/gia-dinh-my-linh-bieu-dien-o-han-quoc-4950351.html",
+      "summary": "Nhạc sĩ Anh Quân đàn cho vợ - ca sĩ Mỹ Linh - và con gái Mỹ Anh hát trước 1.000 khán giả Việt ở Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:04:40+07:00",
+      "fetched": "2025-10-12T15:18:59.999870+07:00"
+    },
+    {
+      "id": "6874a8c172835bd8aac5bc2c51eabb5b",
+      "title": "Một lần thử quần ống loe, nàng sẽ muốn mặc mãi",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mot-lan-thu-quan-ong-loe-nang-se-muon-mac-mai-185251011204131412.htm",
+      "summary": "Không chỉ gợi nhớ vẻ đẹp cổ điển, quần ống loe còn mang đến cho nàng phong thái tự tin và thời thượng ở mọi nơi xuất hiện. Một khi đã thử, nàng sẽ khó lòng rời xa sức hút mềm mại và khả năng tôn dáng đầy tinh tế của thiết kế này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T07:00:00+07:00",
+      "fetched": "2025-10-12T15:19:08.235985+07:00"
+    },
+    {
+      "id": "3db803fc54eb9b8bb82259cf1e7f1e5e",
+      "title": "Concert 2 'Em xinh say hi' gặp hàng loạt sự cố",
+      "link": "https://thanhnien.vn/concert-2-em-xinh-say-hi-gap-hang-loat-su-co-185251012115830518.htm",
+      "summary": "Tối 11.10, đêm concert 2 của chương trình 'Em xinh say hi' chính thức diễn ra tại sân vận động quốc gia Mỹ Đình, Hà Nội. Tuy vậy, vài sự cố về pháo hoa, âm thanh đã khiến phần thưởng thức của khán giả chưa được trọn vẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T06:59:00+07:00",
+      "fetched": "2025-10-12T15:19:08.236146+07:00"
+    },
+    {
+      "id": "6890cc2f3ee920546c61abcef41c8aca",
+      "title": "Bắt nghi phạm cướp giật điện thoại nữ chủ quán cà phê",
+      "link": "https://thanhnien.vn/bat-nghi-pham-cuop-giat-dien-thoai-nu-chu-quan-ca-phe-185251012120432698.htm",
+      "summary": "Vờ hỏi mượn điện thoại của nữ chủ quán cà phê ở Đắk Lắk, rồi... cầm bỏ chạy. Nghi phạm cướp giật này đã bị bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T06:57:00+07:00",
+      "fetched": "2025-10-12T15:19:08.236297+07:00"
+    },
+    {
       "id": "14d200b5600bb1edadf590ae6dd9f61a",
       "title": "Cựu tuyển thủ đội bóng chuyền Mỹ gia nhập CLB nữ Hà Nội: Làn gió mát lành",
       "link": "https://thanhnien.vn/cuu-tuyen-thu-doi-bong-chuyen-my-gia-nhap-clb-nu-ha-noi-lan-gio-mat-lanh-185251012125920951.htm",
@@ -661,6 +1131,16 @@ window.newsData_2025_10_12 = {
       "category": "Thể thao",
       "published": "2025-10-12T05:07:14+07:00",
       "fetched": "2025-10-12T13:21:45.587087+07:00"
+    },
+    {
+      "id": "31df8c65d03b19042179c1ea4ef2ea2b",
+      "title": "HLV Kluivert: 'Thật khó chấp nhận khi Indonesia lỡ World Cup'",
+      "link": "https://vnexpress.net/hlv-kluivert-that-kho-chap-nhan-khi-indonesia-lo-world-cup-4950321.html",
+      "summary": "HLV Patrick Kluivert cho rằng người hâm mộ Indonesia nên tự hào dù đội tuyển thua Iraq 0-1 và hết cơ hội dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T05:07:14+07:00",
+      "fetched": "2025-10-12T15:19:16.592842+07:00"
     },
     {
       "id": "a21ddeab7985ac86e5425af227b19cd6",
