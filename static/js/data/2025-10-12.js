@@ -1,7 +1,157 @@
 window.newsData_2025_10_12 = {
   "date": "2025-10-12",
-  "lastUpdated": "2025-10-12T11:19:01.931615+07:00",
+  "lastUpdated": "2025-10-12T13:21:45.595341+07:00",
   "articles": [
+    {
+      "id": "9672b1492e03b4766ef87a78dd9cda66",
+      "title": "Đoàn đại biểu dự Đại hội Đảng bộ Chính phủ vào lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://tuoitre.vn/doan-dai-bieu-du-dai-hoi-dang-bo-chinh-phu-vao-lang-vieng-chu-tich-ho-chi-minh-20251012094538116.htm",
+      "summary": "Sáng 12-10, Thủ tướng Phạm Minh Chính cùng đoàn đại biểu dự Đại hội Đảng bộ Chính phủ lần I (nhiệm kỳ 2025-2030) vào lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.392320+07:00",
+      "fetched": "2025-10-12T13:21:36.392433+07:00"
+    },
+    {
+      "id": "5dd3922776504fbbaa40d17ce720f747",
+      "title": "Dự báo thời tiết từ 12 đến 18-10: Nhiều nơi mưa to",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-12-den-18-10-nhieu-noi-mua-to-20251011161857013.htm",
+      "summary": "Tuần này,  từ ngày 12 đến 18-10, thời tiết cả nước mưa vẫn chiếm ưu thế, nhiều nơi mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.392197+07:00",
+      "fetched": "2025-10-12T13:21:36.392309+07:00"
+    },
+    {
+      "id": "200775357ac57b2ca0860f57bf397a33",
+      "title": "Lãnh đạo Hội An: Mong doanh nhân cùng giữ gìn di sản 400 năm",
+      "link": "https://tuoitre.vn/lanh-dao-hoi-an-mong-doanh-nhan-cung-giu-gin-di-san-400-nam-20251012105118381.htm",
+      "summary": "Tại buổi gặp mặt mừng Ngày Doanh nhân 13-10, lãnh đạo Hội An mong các doanh nghiệp tiếp tục đồng hành bảo tồn di sản phố cổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.392075+07:00",
+      "fetched": "2025-10-12T13:21:36.392186+07:00"
+    },
+    {
+      "id": "3f7a8bdf8083d408beb6c85f41ff52a9",
+      "title": "Tác giả Conan vẽ tranh mừng Doraemon 55 tuổi",
+      "link": "https://tuoitre.vn/tac-gia-conan-ve-tranh-mung-doraemon-55-tuoi-2025101210533432.htm",
+      "summary": "Nhân dịp kỷ niệm 55 năm bộ manga Doraemon ra đời, tài khoản X chính thức của Doraemon vừa đăng bức tranh đặc biệt do Gosho Aoyama - 'cha đẻ' của Thám tử lừng danh Conan - vẽ tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391954+07:00",
+      "fetched": "2025-10-12T13:21:36.392064+07:00"
+    },
+    {
+      "id": "901ea914803abdefc09c6f01a665971b",
+      "title": "Rosé BlackPink tạo hit lớn nhờ 'những chàng trai tệ bạc'",
+      "link": "https://tuoitre.vn/rose-blackpink-tao-hit-lon-nho-nhung-chang-trai-te-bac-20251012110014008.htm",
+      "summary": "Trong chương trình Ask away của tạp chí Vogue, Rosé BlackPink tiết lộ những chàng trai tệ bạc là nguồn cảm hứng để cô sáng tác ra loạt ca khúc khuấy đảo các bảng xếp hạng thời gian qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391830+07:00",
+      "fetched": "2025-10-12T13:21:36.391943+07:00"
+    },
+    {
+      "id": "1fd572f081ceec24705b7743bb3b9473",
+      "title": "Vì sao từ 8.800 phí tin nhắn bị tính lãi gần 1,1 triệu đồng?",
+      "link": "https://tuoitre.vn/vi-sao-tu-8-800-phi-tin-nhan-bi-tinh-lai-gan-1-1-trieu-dong-20251012101145578.htm",
+      "summary": "Bạn đọc bức xúc, khó hiểu vì sao ngân hàng gộp nợ phí tin nhắn vào nợ vay để tính lãi, phạt và đề nghị ngành chức năng vào cuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391695+07:00",
+      "fetched": "2025-10-12T13:21:36.391818+07:00"
+    },
+    {
+      "id": "af6e96f18f12dcdb79172c4a9cf459cc",
+      "title": "Finest Future tiếp tục đạt giải APEA 2025",
+      "link": "https://tuoitre.vn/finest-future-tiep-tuc-dat-giai-apea-2025-20251012102852075.htm",
+      "summary": "Tối 9-10, Finest Future Việt Nam được trao giải Doanh nghiệp tăng trưởng nhanh (Fast Enterprise Award) trong khuôn khổ lễ trao giải Asia Pacific Enterprise Awards (APEA) 2025, đánh dấu năm thứ hai liên tiếp doanh nghiệp đạt giải này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391529+07:00",
+      "fetched": "2025-10-12T13:21:36.391682+07:00"
+    },
+    {
+      "id": "f1193d961a5a6aa2370ce000419c0bdb",
+      "title": "Đề xuất đình chỉ bác sĩ tiết lộ giới tính thai nhi, GS Nguyễn Anh Trí: 'Không bao giờ làm được'",
+      "link": "https://tuoitre.vn/de-xuat-dinh-chi-bac-si-tiet-lo-gioi-tinh-thai-nhi-gs-nguyen-anh-tri-khong-bao-gio-lam-duoc-20251012111455977.htm",
+      "summary": "GS Nguyễn Anh Trí cho rằng dự luật quy định đình chỉ hành nghề với người hành nghề y công bố, thông báo, tiết lộ thông tin giới tính thai nhi 'viết ra được nhưng không bao giờ làm được'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391404+07:00",
+      "fetched": "2025-10-12T13:21:36.391518+07:00"
+    },
+    {
+      "id": "58733d0fb09cda380e0cd2a59fe4e7d5",
+      "title": "Ông Trump tuyên bố sẽ trả lương cho quân nhân Mỹ bất chấp chính phủ đóng cửa",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-se-tra-luong-cho-quan-nhan-my-bat-chap-chinh-phu-dong-cua-20251012093055793.htm",
+      "summary": "Tổng thống Mỹ Donald Trump khẳng định sẽ tìm cách trả lương cho quân nhân bất chấp chính phủ Mỹ đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391280+07:00",
+      "fetched": "2025-10-12T13:21:36.391393+07:00"
+    },
+    {
+      "id": "cb1263c92e0871246082d6b85cab2278",
+      "title": "Cổ động viên Indonesia lại gây ra hình ảnh xấu xí",
+      "link": "https://tuoitre.vn/co-dong-vien-indonesia-lai-gay-ra-hinh-anh-xau-xi-20251012104307593.htm",
+      "summary": "Bên cạnh nỗi buồn thất bại 0-1 trước Iraq rạng sáng 12-10 ở vòng loại World Cup và mất vé đến World Cup 2026, các CĐV bóng đá Indonesia một lần nữa để lại hình ảnh xấu xí trên đấu trường quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391153+07:00",
+      "fetched": "2025-10-12T13:21:36.391269+07:00"
+    },
+    {
+      "id": "bef0b1c0f917ef9219f1404ca887e526",
+      "title": "Bệnh viện hoạt động 6 năm chưa thể quyết toán: Mời nhà thầu xác nhận khối lượng công trình",
+      "link": "https://tuoitre.vn/benh-vien-hoat-dong-6-nam-chua-the-quyet-toan-moi-nha-thau-xac-nhan-khoi-luong-cong-trinh-20251012111224485.htm",
+      "summary": "Sau 6 năm sử dụng, Bệnh viện Đa khoa vùng Tây Nguyên vẫn chưa thể quyết toán do thất lạc hồ sơ 9 gói thầu. Sở Y tế Đắk Lắk phải mời nhà thầu quay lại xác nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.391028+07:00",
+      "fetched": "2025-10-12T13:21:36.391142+07:00"
+    },
+    {
+      "id": "4bc9e3508f4a12d1c4003e4b109e60dc",
+      "title": "Mỹ sa thải hơn 1.000 nhân viên CDC do chính phủ đóng cửa, lo khó kiểm soát dịch bệnh",
+      "link": "https://tuoitre.vn/my-sa-thai-hon-1-000-nhan-vien-cdc-do-chinh-phu-dong-cua-lo-kho-kiem-soat-dich-benh-20251012112130411.htm",
+      "summary": "Việc mất nhiều chuyên gia đầu ngành có thể làm suy yếu năng lực giám sát y tế công cộng và ứng phó dịch bệnh của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.390898+07:00",
+      "fetched": "2025-10-12T13:21:36.391015+07:00"
+    },
+    {
+      "id": "d90b4770558fdc478a7edce72146533b",
+      "title": "Khoảnh khắc Messi thể hiện nhãn quan thiên tài",
+      "link": "https://tuoitre.vn/khoanh-khac-messi-the-hien-nhan-quan-thien-tai-20251012105348672.htm",
+      "summary": "Sau 5 lần lắc đầu quan sát nhanh, Messi di chuyển để thoát bẫy việt vị và ghi bàn thắng ấn định chiến thắng 4-0 của Miami trước Atlanta United ở phút 87.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.390762+07:00",
+      "fetched": "2025-10-12T13:21:36.390886+07:00"
+    },
+    {
+      "id": "5ef77322c975f4fdcc8fc1f39cfd5ca2",
+      "title": "'Giao con việc nhà, chẳng thà tự làm'?",
+      "link": "https://tuoitre.vn/giao-con-viec-nha-chang-tha-tu-lam-20251012103351887.htm",
+      "summary": "\"Nói rửa chén nãy giờ mà sao không chịu rửa?\", chị Hoài Thương (30 tuổi, ngụ phường Tân Thới Hiệp, TP.HCM) nạt lớn khi thấy bé Thảo (9 tuổi) chúi đầu vào điện thoại. Mỗi khi được nhắc quét nhà hay cho mèo ăn, con gái chị đều trì hoãn, uể oải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.390615+07:00",
+      "fetched": "2025-10-12T13:21:36.390749+07:00"
+    },
+    {
+      "id": "c35a6157a3d72f87db1e68c2c8ddbe60",
+      "title": "Sức mạnh của nụ cười",
+      "link": "https://tuoitre.vn/suc-manh-cua-nu-cuoi-20251012103949658.htm",
+      "summary": "Tràng cười vừa dứt, một tràng cười khác nổ rang như cốm của thằng cu Tom làm nền cho tiếng hát của cha tôi: \"Nhong nhong nhong, ông là con ngựa, để cho Tom lên cưỡi trên lưng...\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:21:36.390358+07:00",
+      "fetched": "2025-10-12T13:21:36.390598+07:00"
+    },
     {
       "id": "da6d0992faf3c34bb1594d0684835361",
       "title": "Nghỉ học 1 năm chiến đấu với ung thư rất nặng, nữ sinh Quảng Trị vẫn học 9,0, đậu ĐH Huế",
@@ -353,6 +503,326 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T08:16:52.922303+07:00"
     },
     {
+      "id": "14d200b5600bb1edadf590ae6dd9f61a",
+      "title": "Cựu tuyển thủ đội bóng chuyền Mỹ gia nhập CLB nữ Hà Nội: Làn gió mát lành",
+      "link": "https://thanhnien.vn/cuu-tuyen-thu-doi-bong-chuyen-my-gia-nhap-clb-nu-ha-noi-lan-gio-mat-lanh-185251012125920951.htm",
+      "summary": "CLB bóng chuyền nữ Hà Nội đã chiêu mộ cựu tuyển thủ Mỹ, cao 1,86 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:59:00+07:00",
+      "fetched": "2025-10-12T13:21:35.513946+07:00"
+    },
+    {
+      "id": "d3428d527324a83a27e5938c42cb557a",
+      "title": "NSND Xuân Bắc, NSND Tự Long kêu gọi đấu giá ủng hộ bà con vùng lũ",
+      "link": "https://thanhnien.vn/nsnd-xuan-bac-nsnd-tu-long-keu-goi-dau-gia-ung-ho-ba-con-vung-lu-18525101212091115.htm",
+      "summary": "Góp mặt trong sự kiện Lễ hội Văn hóa thế giới tại Hà Nội, NSND Xuân Bắc và NSND Tự Long cùng tham gia dẫn dắt phiên đấu giá, ủng hộ người dân vùng lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:57:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514112+07:00"
+    },
+    {
+      "id": "e4040d40d09a9c070448e16163adceaa",
+      "title": "Những nhân vật đặc biệt của đội tuyển Việt Nam, không yêu không được!",
+      "link": "https://thanhnien.vn/nhung-nhan-vat-dac-biet-cua-doi-tuyen-viet-nam-khong-yeu-khong-duoc-185251011150625236.htm",
+      "summary": "Đội tuyển Việt Nam thi đấu chưa quá sắc nét trong trận đấu với Nepal lượt đi vòng loại Asian Cup ngày 9.10. Tuy nhiên, vẫn có những vị trí luôn đảm bảo phong độ cao, tạo nên sức bật cho toàn đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:56:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514267+07:00"
+    },
+    {
+      "id": "28774106704bcdafab90e2c309230484",
+      "title": "Chủ tịch Tập đoàn Becamex mong được tiếp tục đóng góp vào sự phát triển của TP.HCM",
+      "link": "https://thanhnien.vn/chu-tich-tap-doan-becamex-mong-duoc-tiep-tuc-dong-gop-vao-su-phat-trien-cua-tphcm-185251012124521306.htm",
+      "summary": "Sáng 12.10, tại phường Bình Dương, Đoàn đại biểu dự Đại hội Đảng bộ TP.HCM thăm, làm việc với Tập đoàn Becamex. Ông Nguyễn Văn Hùng, Chủ tịch HĐQT Tập đoàn bày tỏ mong muốn tiếp tục được đóng góp vào sự phát triển chung của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:55:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514419+07:00"
+    },
+    {
+      "id": "5a3f495ab2f190fc955a4dcd0ee3dc88",
+      "title": "Nhiều người trong 2 gia đình ở Quảng Ngãi bị tai nạn khi ra Đà Nẵng khám bệnh",
+      "link": "https://thanhnien.vn/nhieu-nguoi-trong-2-gia-dinh-o-quang-ngai-bi-tai-nan-khi-ra-da-nang-kham-benh-185251012121058854.htm",
+      "summary": "Nhiều người trong 2 gia đình ở tỉnh Quảng Ngãi thuê ô tô đi ra TP.Đà Nẵng khám bệnh, nhưng không may gặp tai nạn nghiêm trọng, khiến tất cả đều bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:53:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514597+07:00"
+    },
+    {
+      "id": "3992896c6f78f6f82e726f9e6a4612a5",
+      "title": "Thanh Hằng diễn vedette với đầm tôn xương quai xanh",
+      "link": "https://vnexpress.net/thanh-hang-dien-vedette-voi-dam-ton-xuong-quai-xanh-4950295.html",
+      "summary": "Người mẫu Thanh Hằng mặc trang phục hở vai, cắt xẻ, tôn xương quai xanh và đôi chân dài 1,12 m trên sàn diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:31:11+07:00",
+      "fetched": "2025-10-12T13:21:23.326682+07:00"
+    },
+    {
+      "id": "c7aa582314885d857824f414f9108357",
+      "title": "Philippines dọa ngưng nhập khẩu gạo đến 2026, thị trường thế giới ảm đạm",
+      "link": "https://thanhnien.vn/philippines-doa-ngung-nhap-khau-gao-den-2026-thi-truong-the-gioi-am-dam-185251012121113613.htm",
+      "summary": "Nước nhập khẩu gạo lớn nhất thế giới là Philippines tiếp tục muốn siết nhập khẩu kéo dài trong suốt năm nay; từ năm 2026 chỉ nhập 3,6 triệu tấn. Điều này khiến thị trường gạo thế giới tuần qua tiếp tục ảm đạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:30:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514766+07:00"
+    },
+    {
+      "id": "90168bb78c3e9296d7b338df59df4e8b",
+      "title": "Lâm Đồng xúc tiến đầu tư: Doanh nghiệp là thước đo năng lực lãnh đạo tỉnh",
+      "link": "https://thanhnien.vn/lam-dong-xuc-tien-dau-tu-doanh-nghiep-la-thuoc-do-nang-luc-lanh-dao-tinh-185251012110530637.htm",
+      "summary": "Hội nghị xúc tiến đầu tư Lâm Đồng 2025 khẳng định, doanh nghiệp là trung tâm phát triển, nơi năng lực lãnh đạo được đo bằng chất lượng tăng trưởng và niềm tin của nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:30:00+07:00",
+      "fetched": "2025-10-12T13:21:35.514914+07:00"
+    },
+    {
+      "id": "02aa1f43c3bf7d74338f30cd43350b38",
+      "title": "Một ngày ở Tả Van - ngôi làng Việt Nam đẹp nhất châu Á",
+      "link": "https://vnexpress.net/mot-ngay-o-ta-van-ngoi-lang-viet-nam-dep-nhat-chau-a-4941763.html",
+      "summary": "Tả Van nép mình trong thung lũng Mường Hoa, trở thành điểm đến cho những du khách tìm kiếm trải nghiệm văn hóa bản địa và nhịp sống chậm rãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:26:28+07:00",
+      "fetched": "2025-10-12T13:21:23.326871+07:00"
+    },
+    {
+      "id": "596b5b49d526e70db1788fec2270abd3",
+      "title": "'Hậu cung' của F1 - khi sắc đẹp và tốc độ song hành",
+      "link": "https://vnexpress.net/hau-cung-cua-f1-khi-sac-dep-va-toc-do-song-hanh-4950088.html",
+      "summary": "F1 không chỉ là đường đua của tốc độ và kỹ thuật, mà còn là sân khấu rực rỡ của các nàng WAGs - thuật ngữ chỉ bạn gái hoặc vợ của các VĐV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:15:20+07:00",
+      "fetched": "2025-10-12T13:21:23.327040+07:00"
+    },
+    {
+      "id": "596b5b49d526e70db1788fec2270abd3",
+      "title": "'Hậu cung' của F1 - khi sắc đẹp và tốc độ song hành",
+      "link": "https://vnexpress.net/hau-cung-cua-f1-khi-sac-dep-va-toc-do-song-hanh-4950088.html",
+      "summary": "F1 không chỉ là đường đua của tốc độ và kỹ thuật, mà còn là sân khấu rực rỡ của các nàng WAGs - thuật ngữ chỉ bạn gái hoặc vợ của các VĐV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T05:15:20+07:00",
+      "fetched": "2025-10-12T13:21:45.586914+07:00"
+    },
+    {
+      "id": "9946c631250b4c4b6721b96f512fcb13",
+      "title": "T.Ư Đoàn thăm, tặng quà thanh thiếu nhi Hà Tĩnh chịu thiệt hại bão số 10",
+      "link": "https://thanhnien.vn/tu-doan-tham-tang-qua-thanh-thieu-nhi-ha-tinh-chiu-thiet-hai-bao-so-10-185251012113913397.htm",
+      "summary": "Sáng 12.10, đoàn công tác của Ban Bí thư T.Ư Đoàn do chị Nguyễn Phạm Duy Trang, Bí thư T.Ư Đoàn, Chủ tịch Hội đồng Đội T.Ư dẫn đầu đã trực tiếp đến thăm, tặng quà, động viên người dân và thanh thiếu nhi chịu ảnh hưởng bởi cơn bão số 10 tại tỉnh Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:13:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515062+07:00"
+    },
+    {
+      "id": "0f1b51f550b60de23d24b6777848f40b",
+      "title": "Xôn xao khoảnh khắc Thuận Nguyễn 'cầu hôn' em gái Trấn Thành",
+      "link": "https://thanhnien.vn/xon-xao-khoanh-khac-thuan-nguyen-cau-hon-em-gai-tran-thanh-185251012113941556.htm",
+      "summary": "Khoảnh khắc Thuận Nguyễn trao nhẫn cho em gái Trấn Thành tại một sự kiện giao lưu với khán giả của ê kíp phim 'Chị ngã em nâng' được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:09:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515208+07:00"
+    },
+    {
+      "id": "b7a6f9d087c554019033845c7aab1346",
+      "title": "Kim quan trưởng lão hòa thượng Thích Trí Tịnh nhập tháp tại chùa Linh Phong Thiền Uyển",
+      "link": "https://thanhnien.vn/kim-quan-truong-lao-hoa-thuong-thich-tri-tinh-nhap-thap-tai-chua-linh-phong-thien-uyen-185251012113641672.htm",
+      "summary": "Từ sáng sớm 12.10, chính quyền địa phương phường Vũng Tàu (TP.HCM) tổ chức phân tuyến đường để cung đón kim quan trưởng lão hòa thượng Thích Trí Tịnh về chùa Linh Phong Thiền Uyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:08:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515369+07:00"
+    },
+    {
+      "id": "9b2d499db7485556759b57fed8bc1202",
+      "title": "HLV Kluivert đau lòng khi chứng kiến cầu thủ Indonesia suy sụp",
+      "link": "https://vnexpress.net/hlv-kluivert-dau-long-khi-chung-kien-cau-thu-indonesia-suy-sup-4950321.html",
+      "summary": "HLV Patrick Kluivert tiết lộ về không khí ngột ngạt trong phòng thay đồ Indonesia sau khi thua Iraq 0-1 và hết cơ hội dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:07:14+07:00",
+      "fetched": "2025-10-12T13:21:23.327208+07:00"
+    },
+    {
+      "id": "9b2d499db7485556759b57fed8bc1202",
+      "title": "HLV Kluivert đau lòng khi chứng kiến cầu thủ Indonesia suy sụp",
+      "link": "https://vnexpress.net/hlv-kluivert-dau-long-khi-chung-kien-cau-thu-indonesia-suy-sup-4950321.html",
+      "summary": "HLV Patrick Kluivert tiết lộ về không khí ngột ngạt trong phòng thay đồ Indonesia sau khi thua Iraq 0-1 và hết cơ hội dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T05:07:14+07:00",
+      "fetched": "2025-10-12T13:21:45.587087+07:00"
+    },
+    {
+      "id": "a21ddeab7985ac86e5425af227b19cd6",
+      "title": "Một công ty chứng khoán sắp 'thay máu' toàn bộ Hội đồng quản trị",
+      "link": "https://vnexpress.net/mot-cong-ty-chung-khoan-sap-thay-mau-toan-bo-hoi-dong-quan-tri-4950336.html",
+      "summary": "Công ty chứng khoán Stanley Brothers (SBSI) dự kiến miễn nhiệm cả 3 thành viên Hội đồng quản trị, thay vào đó bầu bổ sung 5 người mới trong tuần sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:05:00+07:00",
+      "fetched": "2025-10-12T13:21:23.327378+07:00"
+    },
+    {
+      "id": "a21ddeab7985ac86e5425af227b19cd6",
+      "title": "Một công ty chứng khoán sắp 'thay máu' toàn bộ Hội đồng quản trị",
+      "link": "https://vnexpress.net/mot-cong-ty-chung-khoan-sap-thay-mau-toan-bo-hoi-dong-quan-tri-4950336.html",
+      "summary": "Công ty chứng khoán Stanley Brothers (SBSI) dự kiến miễn nhiệm cả 3 thành viên Hội đồng quản trị, thay vào đó bầu bổ sung 5 người mới trong tuần sau.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-12T05:05:00+07:00",
+      "fetched": "2025-10-12T13:21:39.820885+07:00"
+    },
+    {
+      "id": "9e0080f31684c81b930b82c7a82ac385",
+      "title": "HLV Cklamovski tiếp tục hứng bão vì nói xấu FAM: ‘Ông ta không xứng đáng dẫn dắt đội tuyển Malaysia’",
+      "link": "https://thanhnien.vn/hlv-cklamovski-tiep-tuc-hung-bao-vi-noi-xau-fam-ong-ta-khong-xung-dang-dan-dat-doi-tuyen-malaysia-185251012115845709.htm",
+      "summary": "Cựu cầu thủ nổi tiếng của Malaysia, ông Jamal Nasir chỉ trích HLV Cklamovski đã rất 'thiếu tôn trọng' và 'không xứng đáng' làm HLV trưởng đội tuyển nước này nữa, sau những đả kích trực diện với FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:03:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515575+07:00"
+    },
+    {
+      "id": "e8d4d165f9f8182e71fbbbebccc5dfd7",
+      "title": "Ban tổ chức 'Em xinh say hi' xin lỗi vì pháo hoa bắn vào khán giả",
+      "link": "https://vnexpress.net/ban-to-chuc-em-xinh-say-hi-xin-loi-vi-phao-hoa-ban-vao-khan-gia-4950339.html",
+      "summary": "Ban tổ chức concert \"Em xinh say hi\" xin lỗi vì sự cố pháo hoa bắn vào người khán giả tại Sân vận động Mỹ Đình, tối 11/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:01:00+07:00",
+      "fetched": "2025-10-12T13:21:23.327552+07:00"
+    },
+    {
+      "id": "98af136a2ab1b7454fbb511e172478b1",
+      "title": "Tổ hợp Patriot Ukraine có thể đang bất lực trước Iskander-M",
+      "link": "https://vnexpress.net/to-hop-patriot-ukraine-co-the-dang-bat-luc-truoc-iskander-m-4950326.html",
+      "summary": "Moskva cải tiến tên lửa Iskander-M, khiến những tổ hợp Patriot chỉ chặn được 6% mục tiêu và Kiev chưa tìm ra cách đối phó, theo các quan chức Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:00:02+07:00",
+      "fetched": "2025-10-12T13:21:23.327716+07:00"
+    },
+    {
+      "id": "98af136a2ab1b7454fbb511e172478b1",
+      "title": "Tổ hợp Patriot Ukraine có thể đang bất lực trước Iskander-M",
+      "link": "https://vnexpress.net/to-hop-patriot-ukraine-co-the-dang-bat-luc-truoc-iskander-m-4950326.html",
+      "summary": "Moskva cải tiến tên lửa Iskander-M, khiến những tổ hợp Patriot chỉ chặn được 6% mục tiêu và Kiev chưa tìm ra cách đối phó, theo các quan chức Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T05:00:02+07:00",
+      "fetched": "2025-10-12T13:21:38.039869+07:00"
+    },
+    {
+      "id": "aad5644b43a60f7a769e04e7a816af4a",
+      "title": "Vợ sắp cưới đòi hủy hôn sau khi tự nhận là người vô tính",
+      "link": "https://vnexpress.net/vo-sap-cuoi-doi-huy-hon-sau-khi-tu-nhan-la-nguoi-vo-tinh-4950305.html",
+      "summary": "Tôi thật sự bị sốc vì bạn gái tôi là người vô tính và cảm thấy bị lừa dối suốt hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:00:00+07:00",
+      "fetched": "2025-10-12T13:21:23.327872+07:00"
+    },
+    {
+      "id": "acef41958a1dae5c4376ff455996bef8",
+      "title": "Dòng họ nào có từ thời Vua Hùng, lâu đời nhất Việt Nam?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-dong-ho-nao-co-tu-thoi-vua-hung-lau-doi-nhat-viet-nam-4949554.html",
+      "summary": "Việt Nam có nhiều dòng họ khác nhau, nhưng chỉ có một dòng họ duy nhất ở Việt Nam giữ được ngọc phả từ thời Hùng Vương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:00:00+07:00",
+      "fetched": "2025-10-12T13:21:23.328028+07:00"
+    },
+    {
+      "id": "5245268f3fcdee14b5983dd809f9c915",
+      "title": "Nữ bác sĩ 50 tuổi tuyên bố 'có tuổi sinh học 28'",
+      "link": "https://vnexpress.net/nu-bac-si-50-tuoi-tuyen-bo-co-tuoi-sinh-hoc-28-4947642.html",
+      "summary": "Một chuyên gia di truyền 50 tuổi tại Các tiểu vương quốc Arab Thống nhất (UAE) gây xôn xao khi tuyên bố có tuổi sinh học 28, nội tạng như người 16.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T05:00:00+07:00",
+      "fetched": "2025-10-12T13:21:23.328191+07:00"
+    },
+    {
+      "id": "23adee695c75b1e5cf160d06a9e48426",
+      "title": "Khai trương đường bay kết nối Phú Quốc và Belarus",
+      "link": "https://thanhnien.vn/khai-truong-duong-bay-ket-noi-phu-quoc-va-belarus-185251012115034846.htm",
+      "summary": "Chuyến bay thẳng đầu tiên kết nối thủ đô Minsk (Belarus) với đảo ngọc Phú Quốc (Việt Nam) có 281 hành khách cùng 14 thành viên phi hành đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:59:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515765+07:00"
+    },
+    {
+      "id": "6f0de13449cb8091981a4613daa78dcf",
+      "title": "Bảo trì lầu Ngũ Phụng ở cố đô Huế",
+      "link": "https://vnexpress.net/bao-tri-lau-ngu-phung-o-co-do-hue-4948885.html",
+      "summary": "Trung tâm Bảo tồn Di tích cố đô Huế dự kiến chi 400 triệu đồng bảo trì lầu Ngũ Phụng, sửa lại hệ thống cấu kiện gỗ đang bị bạc màu, mất độ bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:54:24+07:00",
+      "fetched": "2025-10-12T13:21:23.328358+07:00"
+    },
+    {
+      "id": "20bdc39e9f235260474e21ae85205919",
+      "title": "Sunshine Group:Giải mã khát vọng lớn trong kỷ nguyên mới từ cuộc tái cấu trúc đột phá",
+      "link": "https://thanhnien.vn/sunshine-groupgiai-ma-khat-vong-lon-trong-ky-nguyen-moi-tu-cuoc-tai-cau-truc-dot-pha-185251012120502195.htm",
+      "summary": "Trong bối cảnh Chính phủ thúc đẩy cải cách thể chế và hiện thực hóa Nghị quyết 68 về phát triển kinh tế tư nhân, Sunshine Group đã khởi động một cuộc tái cấu trúc toàn diện, đột phá từ giai đoạn 2024 - 2025, nhằm chuẩn hóa quản trị và tập trung nguồn lực cho chiến lược tăng trưởng dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:51:00+07:00",
+      "fetched": "2025-10-12T13:21:35.515933+07:00"
+    },
+    {
+      "id": "2a81ec3c1e98cbabd8f2d3645c18a880",
+      "title": "Người đang đối đầu với ông Kim Sang-sik có sự nghiệp li kì cỡ nào: 'Những hành trình điên rồ'",
+      "link": "https://thanhnien.vn/nguoi-dang-doi-dau-voi-ong-kim-sang-sik-co-su-nghiep-li-ki-co-nao-nhung-hanh-trinh-dien-ro-185251012112251339.htm",
+      "summary": "Từ một giáo viên kiêm chuyên viên phân tích video không lương ở Đức, HLV Matt Ross đã đi hành trình dài để trở thành thuyền trưởng đội tuyển Nepal. Giữa những năm tháng xa vợ, ông chọn bóng đá làm hơi thở của cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:47:00+07:00",
+      "fetched": "2025-10-12T13:21:35.516115+07:00"
+    },
+    {
+      "id": "44e751f4a0eab1274c26cbc76512682c",
+      "title": "10 triệu người Việt sống chung với bệnh thận mạn tính",
+      "link": "https://vnexpress.net/10-trieu-nguoi-viet-song-chung-voi-benh-than-man-tinh-4950291.html",
+      "summary": "Bệnh thận là gánh nặng lớn đối với người dân và hệ thống y tế, khoảng 10 triệu người ở giai đoạn cuối và chỉ 5% điều trị lọc máu hay ghép thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:45:11+07:00",
+      "fetched": "2025-10-12T13:21:23.328515+07:00"
+    },
+    {
+      "id": "8fb48fb19e1dc0a7f090b4e377387183",
+      "title": "Taseco Airs chuyển mình cùng đất nước bước vào kỷ nguyên mới",
+      "link": "https://thanhnien.vn/taseco-airs-chuyen-minh-cung-dat-nuoc-buoc-vao-ky-nguyen-moi-185251012114549969.htm",
+      "summary": "Bước sang năm 2025, nền kinh tế Việt Nam đã mở ra một kỷ nguyên mới, kỷ nguyên của sự vươn mình mạnh mẽ sau những nỗ lực bền bỉ và quyết tâm không ngừng. Hòa chung không khí ấy, Taseco Airs cũng chuyển mình cùng đất nước bước vào kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:43:00+07:00",
+      "fetched": "2025-10-12T13:21:35.516270+07:00"
+    },
+    {
+      "id": "ca745781842423fae21ff27a83e8639b",
+      "title": "Ra mắt vũ kịch 'Hồ Thiên Nga' tại TP HCM",
+      "link": "https://vnexpress.net/ra-mat-vu-kich-ho-thien-nga-tai-tp-hcm-4950212.html",
+      "summary": "Nhà hát Giao hưởng Nhạc Vũ Kịch TP HCM lần đầu công diễn trọn vở ballet \"Hồ Thiên Nga\" của Tchaikovsky, tối 11 và 12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:41:42+07:00",
+      "fetched": "2025-10-12T13:21:23.328695+07:00"
+    },
+    {
       "id": "ed35b51313a31aab3711c0d87b2293dc",
       "title": "Nóng: Chính thức nâng thu nhập lên 20 triệu đồng/tháng sẽ được mua nhà ở xã hội",
       "link": "https://thanhnien.vn/nong-chinh-thuc-nang-thu-nhap-len-20-trieu-dong-thang-se-duoc-mua-nha-o-xa-hoi-185251012105959402.htm",
@@ -363,6 +833,26 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T11:18:53.786744+07:00"
     },
     {
+      "id": "17e1c9545b7f590299e7708fb1038e38",
+      "title": "Phòng phim tại gia 12 tỷ đồng tại P.H.E Show 2025",
+      "link": "https://vnexpress.net/phong-phim-tai-gia-12-ty-dong-tai-p-h-e-show-2025-4950201.html",
+      "summary": "Triển lãm Thiết bị giải trí cá nhân và gia đình P.H.E. Show quy tụ nhiều phòng phim tiền tỷ, nổi bật là hệ thống phối ghép 13 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:15:49+07:00",
+      "fetched": "2025-10-12T13:21:23.328853+07:00"
+    },
+    {
+      "id": "17e1c9545b7f590299e7708fb1038e38",
+      "title": "Phòng phim tại gia 12 tỷ đồng tại P.H.E Show 2025",
+      "link": "https://vnexpress.net/phong-phim-tai-gia-12-ty-dong-tai-p-h-e-show-2025-4950201.html",
+      "summary": "Triển lãm Thiết bị giải trí cá nhân và gia đình P.H.E. Show quy tụ nhiều phòng phim tiền tỷ, nổi bật là hệ thống phối ghép 13 tỷ đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-12T04:15:49+07:00",
+      "fetched": "2025-10-12T13:21:44.515576+07:00"
+    },
+    {
       "id": "2f6d56dca3ff2eccb93cdd03fd642d30",
       "title": "Xem nhanh 12h: 'Mắt thần' phạt nguội trên đường TP.HCM | Cảnh giác dịch bệnh trong mưa lũ",
       "link": "https://thanhnien.vn/xem-nhanh-12h-mat-than-phat-nguoi-tren-duong-tphcm-canh-giac-dich-benh-trong-mua-lu-185251012111404727.htm",
@@ -371,6 +861,16 @@ window.newsData_2025_10_12 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T04:14:00+07:00",
       "fetched": "2025-10-12T11:18:53.786914+07:00"
+    },
+    {
+      "id": "0df092ef96b4dde04d44af1578fc8971",
+      "title": "Bà cụ 75 tuổi chia đất thừa kế cho con dâu, không cho con trai",
+      "link": "https://vnexpress.net/ba-cu-75-tuoi-chia-dat-thua-ke-cho-con-dau-khong-cho-con-trai-4950314.html",
+      "summary": "Bài học cảnh giác của bà cụ ở quê khiến tôi bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T04:11:46+07:00",
+      "fetched": "2025-10-12T13:21:23.329010+07:00"
     },
     {
       "id": "67f932003da02812b79dd65f0ea3f538",
