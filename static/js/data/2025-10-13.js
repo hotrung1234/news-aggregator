@@ -1,7 +1,157 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T17:20:00.137490+07:00",
+  "lastUpdated": "2025-10-13T19:34:38.405616+07:00",
   "articles": [
+    {
+      "id": "4e333992a04c432be0ececbc8557aec4",
+      "title": "HLV Kim Sang Sik mong tuyển Việt Nam thắng đậm Nepal",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-mong-tuyen-viet-nam-thang-dam-nepal-20251013155758675.htm",
+      "summary": "HLV Kim Sang Sik kỳ vọng tuyển Việt Nam thắng đậm và tiền đạo Tiến Linh ghi nhiều bàn ở trận lượt về với Nepal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.203581+07:00",
+      "fetched": "2025-10-13T19:34:30.203697+07:00"
+    },
+    {
+      "id": "7a93928fcc55e9c4e74f1292a3636543",
+      "title": "Vụ nợ 8.800 đồng phí tin nhắn bị tính lãi, phạt gần 1,1 triệu đồng: Ngân hàng nói gì?",
+      "link": "https://tuoitre.vn/vu-no-8-800-dong-phi-tin-nhan-bi-tinh-lai-phat-gan-1-1-trieu-dong-ngan-hang-noi-gi-20251013153311145.htm",
+      "summary": "Ngân hàng cho biết chủ thẻ mất đặc quyền miễn lãi do chậm thanh toán, không liên quan đến nợ phí SMS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.203459+07:00",
+      "fetched": "2025-10-13T19:34:30.203570+07:00"
+    },
+    {
+      "id": "e6a9df831ab3f68116a551f5dc2ca48f",
+      "title": "Có thật các lãnh đạo quân đội Mỹ không vỗ tay khi ông Trump, ông Hegseth phát biểu?",
+      "link": "https://tuoitre.vn/co-that-cac-lanh-dao-quan-doi-my-khong-vo-tay-khi-ong-trump-ong-hegseth-phat-bieu-20251013101253436.htm",
+      "summary": "Thông tin lan truyền cho rằng các lãnh đạo quân đội Mỹ đã không vỗ tay cho ông Trump, cho ông Hegseth hoặc cho cả hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.203336+07:00",
+      "fetched": "2025-10-13T19:34:30.203448+07:00"
+    },
+    {
+      "id": "d152811f6d6a890c4b3aec46860c4182",
+      "title": "Việt Nam lần đầu tổ chức triển lãm quốc tế khoa học công nghệ thủy sản",
+      "link": "https://tuoitre.vn/viet-nam-lan-dau-to-chuc-trien-lam-quoc-te-khoa-hoc-cong-nghe-thuy-san-20251013165903315.htm",
+      "summary": "Lần đầu Việt Nam tổ chức triển lãm quốc tế thủy sản toàn chuỗi, thu hút 40% doanh nghiệp nước ngoài từ Philippines, Thái Lan....",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.203212+07:00",
+      "fetched": "2025-10-13T19:34:30.203325+07:00"
+    },
+    {
+      "id": "51b9b2e9eafec15af89b9e897401fc8d",
+      "title": "Nobel kinh tế 2025 vinh danh công trình giải thích tăng trưởng kinh tế dựa trên đổi mới sáng tạo",
+      "link": "https://tuoitre.vn/nobel-kinh-te-2025-vinh-danh-cong-trinh-giai-thich-tang-truong-kinh-te-dua-tren-doi-moi-sang-tao-20251013145141382.htm",
+      "summary": "Nobel kinh tế 2025 vinh danh ba nhà khoa học đã giải thích cơ chế tăng trưởng kinh tế dựa trên đổi mới sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.203086+07:00",
+      "fetched": "2025-10-13T19:34:30.203200+07:00"
+    },
+    {
+      "id": "ef546256ca063330e37864711d1c8e18",
+      "title": "Dừng bắn pháo hoa Lễ hội mùa thu Côn Sơn - Kiếp Bạc dành tiền hỗ trợ đồng bào lũ lụt",
+      "link": "https://tuoitre.vn/dung-ban-phao-hoa-le-hoi-mua-thu-con-son-kiep-bac-danh-tien-ho-tro-dong-bao-lu-lut-20251013170713197.htm",
+      "summary": "Hải Phòng dừng bắn pháo hoa tại Lễ hội mùa thu Côn Sơn - Kiếp Bạc 2025, để dành kinh phí hỗ trợ người dân vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202940+07:00",
+      "fetched": "2025-10-13T19:34:30.203073+07:00"
+    },
+    {
+      "id": "1e95863b1af8bdf2233436b690acc579",
+      "title": "Viện kiểm sát kháng nghị hủy bản án sơ thẩm vụ nổ súng ở Hà Tiên",
+      "link": "https://tuoitre.vn/vien-kiem-sat-khang-nghi-huy-ban-an-so-tham-vu-no-sung-o-ha-tien-20251013164833152.htm",
+      "summary": "VKSND An Giang kháng nghị, đề nghị Tòa phúc thẩm TAND tối cao TP.HCM hủy án sơ thẩm vụ nổ súng ở Hà Tiên để xét xử lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202816+07:00",
+      "fetched": "2025-10-13T19:34:30.202929+07:00"
+    },
+    {
+      "id": "e35582f5f7afda9a4439285e2390ac93",
+      "title": "Các bộ trưởng tìm giải pháp phát triển thể thao ASEAN",
+      "link": "https://tuoitre.vn/cac-bo-truong-tim-giai-phap-phat-trien-the-thao-asean-20251013171727557.htm",
+      "summary": "Ngày 13-10, Hội nghị quan chức cấp cao ASEAN về thể thao và các hội nghị liên quan đã khai mạc tại Hà Nội. Các nhà lãnh đạo thể thao tập trung tìm giải pháp gắn kết, phát triển thể thao khu vực ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202689+07:00",
+      "fetched": "2025-10-13T19:34:30.202804+07:00"
+    },
+    {
+      "id": "fd002bcfddd6fa9ac13000790b62ad2f",
+      "title": "Ông Medvedev ẩn ý đáp trả hạt nhân nếu Mỹ gửi Tomahawk cho Ukraine",
+      "link": "https://tuoitre.vn/ong-medvedev-an-y-dap-tra-hat-nhan-neu-my-gui-tomahawk-cho-ukraine-20251013171642582.htm",
+      "summary": "Ông Medvedev cảnh báo nếu Washington cung cấp tên lửa Tomahawk cho Ukraine, đây sẽ là kết cục tồi tệ cho tất cả mọi người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202553+07:00",
+      "fetched": "2025-10-13T19:34:30.202677+07:00"
+    },
+    {
+      "id": "afd00ca9cfa97a1c71a9e16dfd8a738c",
+      "title": "Văn phòng Thủ tướng Ấn Độ mở đường dây nóng báo cáo tham nhũng?",
+      "link": "https://tuoitre.vn/van-phong-thu-tuong-an-do-mo-duong-day-nong-bao-cao-tham-nhung-2025101310533747.htm",
+      "summary": "Một số điện thoại lan truyền trên mạng được cho là đường dây nóng của Văn phòng Thủ tướng Ấn Độ để báo cáo tham nhũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202422+07:00",
+      "fetched": "2025-10-13T19:34:30.202537+07:00"
+    },
+    {
+      "id": "9e5de4e0053cd5354b9e19bfbe874c40",
+      "title": "Thanh niên Hàn Quốc mất tích ở Campuchia sau cuộc gọi cầu cứu gia đình",
+      "link": "https://tuoitre.vn/thanh-nien-han-quoc-mat-tich-o-campuchia-sau-cuoc-goi-cau-cuu-gia-dinh-20251013173739407.htm",
+      "summary": "Theo lời kể từ gia đình, anh A. rời Hàn Quốc với lời hứa sẽ kiếm được nhiều tiền trước khi mất tích tại Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202294+07:00",
+      "fetched": "2025-10-13T19:34:30.202410+07:00"
+    },
+    {
+      "id": "5ada220daefa46a77df516ac4e6bc9ac",
+      "title": "Xuất hiện một đội bóng nhập tịch đến 90% tuyển thủ ở vòng loại Asian Cup",
+      "link": "https://tuoitre.vn/xuat-hien-mot-doi-bong-nhap-tich-den-90-tuyen-thu-o-vong-loai-asian-cup-20251013154708027.htm",
+      "summary": "Làn sóng nhập tịch ngày càng nhân rộng ở nhiều nền bóng đá, đặc biệt là các nền bóng đá châu Á. Một đội bóng dự vòng loại Asian Cup 2027 với gần 90% là cầu thủ nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202161+07:00",
+      "fetched": "2025-10-13T19:34:30.202282+07:00"
+    },
+    {
+      "id": "e363c790efb5afa9a2731596635f7946",
+      "title": "Lần đầu tiên, người trên 70 tuổi ở Hàn Quốc nhiều hơn người ở độ tuổi 20",
+      "link": "https://tuoitre.vn/lan-dau-tien-nguoi-tren-70-tuoi-o-han-quoc-nhieu-hon-nguoi-o-do-tuoi-20-20251013174232175.htm",
+      "summary": "Hàn Quốc đang bước vào giai đoạn già hóa sâu khi số người từ 70 tuổi trở lên lần đầu tiên vượt nhóm ở độ tuổi 20.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.202020+07:00",
+      "fetched": "2025-10-13T19:34:30.202149+07:00"
+    },
+    {
+      "id": "6a4598ec1da0768d4c719180c4f29798",
+      "title": "Series tốn kém nhất 2025 gọi tên Stranger Things 5",
+      "link": "https://tuoitre.vn/series-ton-kem-nhat-2025-goi-ten-stranger-things-5-20251013163630072.htm",
+      "summary": "Kinh phí sản xuất của Stranger Things mùa 5 - phần cuối cùng của loạt phim khoa học viễn tưởng đình đám nhà Netflix - vừa hé lộ khiến nhiều người không khỏi bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.201863+07:00",
+      "fetched": "2025-10-13T19:34:30.201992+07:00"
+    },
+    {
+      "id": "ae120e2ca73ce1536c8f4ced0cc0fa3b",
+      "title": "Kim Woo Bin đã chống chọi với ung thư vòm họng như thế nào?",
+      "link": "https://tuoitre.vn/kim-woo-bin-da-chong-choi-voi-ung-thu-vom-hong-nhu-the-nao-20251013171803516.htm",
+      "summary": "Xuất hiện trong một chương trình phát sóng mới đây, Kim Woo Bin lần đầu trải lòng sâu sắc về quãng thời gian chiến đấu với ung thư vòm họng, biến cố từng khiến anh phải tạm dừng sự nghiệp ở đỉnh cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T19:34:30.201636+07:00",
+      "fetched": "2025-10-13T19:34:30.201848+07:00"
+    },
     {
       "id": "f78d9491e2468550607f3612dbf5fe5e",
       "title": "Họ có hạnh phúc mãi mãi về sau?",
@@ -451,6 +601,366 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-13T13:26:49.223624+07:00",
       "fetched": "2025-10-13T13:26:49.223836+07:00"
+    },
+    {
+      "id": "ba383724d4758884a5f7382d0100ef46",
+      "title": "3 giờ sáng, người Huế mở bếp kho 300 kg cá nục gửi người dân vùng lũ",
+      "link": "https://thanhnien.vn/3-gio-sang-nguoi-hue-mo-bep-kho-300-kg-ca-nuc-gui-nguoi-dan-vung-lu-185251013181743241.htm",
+      "summary": "Từ 3 giờ sáng, bếp lửa ở Huế đỏ rực, hàng chục người cùng kho 300 kg cá nục chuẩn vị Huế gửi ra vùng lũ Thái Nguyên - món quà đượm nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:23:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083107+07:00"
+    },
+    {
+      "id": "c09f7246a3532919346d160d43061fe8",
+      "title": "Chiêu thức sản xuất hàng giả của DJ Ngân 98 ra sao?",
+      "link": "https://vnexpress.net/chieu-thuc-san-xuat-hang-gia-cua-dj-ngan-98-ra-sao-4950894.html",
+      "summary": "Dù để mẹ ruột và người khác đứng tên công ty nhưng thực tế mọi hoạt động kinh doanh hàng giả, tài chính đều do Võ Thị Ngọc Ngân (DJ Ngân 98) trực tiếp chỉ đạo và hưởng lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:14:44+07:00",
+      "fetched": "2025-10-13T19:34:26.006558+07:00"
+    },
+    {
+      "id": "f298b3b093bbdd7af9536c6c2959affe",
+      "title": "105 đại biểu Đảng bộ Chính phủ dự Đại hội 14 của Đảng",
+      "link": "https://vnexpress.net/105-dai-bieu-dang-bo-chinh-phu-du-dai-hoi-14-cua-dang-4950891.html",
+      "summary": "Đại hội Đảng bộ Chính phủ bế mạc chiều 13/10, thông qua Nghị quyết nhiệm kỳ 2025-2030 và công bố danh sách 105 đại biểu dự Đại hội Đảng toàn quốc lần thứ 14.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:10:32+07:00",
+      "fetched": "2025-10-13T19:34:26.006744+07:00"
+    },
+    {
+      "id": "fd6af8980b5db258e50681877b67dc6e",
+      "title": "EU cáo buộc Nga 'đánh cược với chiến tranh'",
+      "link": "https://vnexpress.net/eu-cao-buoc-nga-danh-cuoc-voi-chien-tranh-4950879.html",
+      "summary": "Nhà ngoại giao hàng đầu EU chỉ trích Nga đang \"đánh cược với chiến tranh\" sau loạt vụ UAV và máy bay \"xâm phạm không phận\" của khối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:08:02+07:00",
+      "fetched": "2025-10-13T19:34:26.006910+07:00"
+    },
+    {
+      "id": "fd6af8980b5db258e50681877b67dc6e",
+      "title": "EU cáo buộc Nga 'đánh cược với chiến tranh'",
+      "link": "https://vnexpress.net/eu-cao-buoc-nga-danh-cuoc-voi-chien-tranh-4950879.html",
+      "summary": "Nhà ngoại giao hàng đầu EU chỉ trích Nga đang \"đánh cược với chiến tranh\" sau loạt vụ UAV và máy bay \"xâm phạm không phận\" của khối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T12:08:02+07:00",
+      "fetched": "2025-10-13T19:34:31.809048+07:00"
+    },
+    {
+      "id": "36b6f2ceff670b24444c108f7960df7f",
+      "title": "Trộm 23,5 chỉ vàng của hàng xóm, sau đó mang trả và đến công an đầu thú",
+      "link": "https://thanhnien.vn/trom-235-chi-vang-cua-hang-xom-sau-do-mang-tra-va-den-cong-an-dau-thu-185251013155933911.htm",
+      "summary": "Một phụ nữ ở Đắk Lắk đột nhập nhà hàng xóm, trộm vàng trị giá hơn 300 triệu đồng, nhưng nhiều ngày sau đã mang toàn bộ tài sản trả lại và đến cơ quan công an đầu thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:08:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083281+07:00"
+    },
+    {
+      "id": "fc9013f7f82bdc4dc5cdd5c50ea4fa63",
+      "title": "Nhật Bản viện trợ khẩn cấp giúp Việt Nam khắc phục hậu quả bão lũ",
+      "link": "https://thanhnien.vn/nhat-ban-vien-tro-khan-cap-giup-viet-nam-khac-phuc-hau-qua-bao-lu-185251013173133527.htm",
+      "summary": "Chính phủ Nhật Bản, thông qua JICA, đã nhanh chóng cung cấp hàng cứu trợ khẩn cấp cho Việt Nam nhằm hỗ trợ người dân bị ảnh hưởng nặng nề bởi các đợt bão lũ liên tiếp trong tháng 9 và tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:06:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083445+07:00"
+    },
+    {
+      "id": "640f64d9b44e149c13cdba7c0c4ed35f",
+      "title": "Cô gái 17 tuổi ngất xỉu sau thời gian dài chỉ ăn vài thìa cơm mỗi bữa",
+      "link": "https://thanhnien.vn/co-gai-17-tuoi-ngat-xiu-sau-thoi-gian-dai-chi-an-vai-thia-com-moi-bua-185251013182651797.htm",
+      "summary": "Cô gái 17 tuổi đã phải nhập viện tại Viện Sức khỏe tâm thần (Bệnh viện Bạch Mai) do ngất xỉu vì kiệt sức sau thời gian dài chỉ ăn vài thìa cơm mỗi bữa, ăn rất ít thịt và sụt đến 20 kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:05:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083604+07:00"
+    },
+    {
+      "id": "ac55dc3f97eaebbbff1d14b1a79edac1",
+      "title": "'Đoàn, Hội cần chủ động đề xuất cơ chế thuận lợi cho thanh niên khởi nghiệp'",
+      "link": "https://thanhnien.vn/doan-hoi-can-chu-dong-de-xuat-co-che-thuan-loi-cho-thanh-nien-khoi-nghiep-185251013163134496.htm",
+      "summary": "Bí thư T.Ư Đoàn TNCS Hồ Chí Minh Nguyễn Tường Lâm nhấn mạnh, tổ chức Đoàn, Hội các cấp cần chủ động đề xuất cơ chế, chính sách tạo thuận lợi cho thanh niên khởi nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:03:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083757+07:00"
+    },
+    {
+      "id": "af3d4ca20fcc663bb5679299f9d10df3",
+      "title": "Khám phá Songkhla - điểm nhấn SEA Games 2025",
+      "link": "https://vnexpress.net/kham-pha-songkhla-diem-nhan-sea-games-2025-4950763.html",
+      "summary": "Tỉnh Songkhla là một trong ba địa phương đăng cai SEA Games 2025, sở hữu văn hóa đa dạng và cảnh đẹp thiên nhiên trù phú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:22+07:00",
+      "fetched": "2025-10-13T19:34:26.007104+07:00"
+    },
+    {
+      "id": "2bd6ec661b369475c3a73b546d38baaa",
+      "title": "Thư Kỳ: 'Con đường tôi đi đầy lời ác ý'",
+      "link": "https://vnexpress.net/thu-ky-con-duong-toi-di-day-loi-ac-y-4950818.html",
+      "summary": "Minh tinh Đài Loan Thư Kỳ nói từ nhỏ đến khi trưởng thành, cô sống trong sự miệt thị, lời lẽ cay nghiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.007270+07:00"
+    },
+    {
+      "id": "92a0af404120c77f9bc00141f139ffca",
+      "title": "Tôi lương 40 triệu bất lực trước căn hộ Sài Gòn 5 tỷ đồng",
+      "link": "https://vnexpress.net/gia-chung-cu-tp-hcm-chung-cu-tp-hcm-gia-re-chung-cu-tp-hcm-tang-gia-luong-40-trieu-nhung-bat-luc-mua-chung-cu-sai-gon-4950755.html",
+      "summary": "Thị trường chung cư TP HCM dường như chỉ đang nói chuyện với người giàu, chứ không phải với những người thu nhập tầm trung như tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.007427+07:00"
+    },
+    {
+      "id": "2a626fc398b3214d5e4cc6df4bd9f14e",
+      "title": "Trận đụng độ nguy cơ đẩy Taliban vào vòng xoáy bạo lực với Pakistan",
+      "link": "https://vnexpress.net/tran-dung-do-nguy-co-day-taliban-vao-vong-xoay-bao-luc-voi-pakistan-4950494.html",
+      "summary": "Cuộc đụng độ dữ dội ở biên giới Afghanistan - Pakistan nguy cơ vượt tầm kiểm soát, đẩy hai nước vào vòng xoáy bạo lực nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.007585+07:00"
+    },
+    {
+      "id": "f6ce5bfe5e80a8459126184e2baa2ff8",
+      "title": "EVNNPC hoàn thành chỉ tiêu 9 tháng",
+      "link": "https://vnexpress.net/evnnpc-hoan-thanh-chi-tieu-9-thang-4950867.html",
+      "summary": "EVNNPC hoàn thành các chỉ tiêu sản xuất –kinh doanh, trong đó nổi bật là duy trì cung cấp điện an toàn, ổn định cho người dân cũng như các dịp lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.007740+07:00"
+    },
+    {
+      "id": "5ab711b6eca870f3c6281cb7822d1c2e",
+      "title": "Tái tạo đa dây chằng cho vận động viên bóng rổ",
+      "link": "https://vnexpress.net/tai-tao-da-day-chang-cho-van-dong-vien-bong-ro-4950828.html",
+      "summary": "Hiệp, 17 tuổi, thuộc đội tuyển bóng rổ trẻ, khi thi đấu bị ngã lệch đầu gối phải đứt hai dây chằng, được bác sĩ phẫu thuật tái tạo để quay lại thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.007901+07:00"
+    },
+    {
+      "id": "b98ff59ee389ee264318541bfb982055",
+      "title": "Nỗi lo ung thư khi nhiễm HPV",
+      "link": "https://vnexpress.net/noi-lo-ung-thu-khi-nhiem-hpv-4950743.html",
+      "summary": "Từ khi biết nhiễm virus HPV, chị Nguyễn Hoàng Phương, 39 tuổi, ở phường Phan Thiết, Lâm Đồng, luôn trăn trở với câu hỏi khi nào mắc ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:26.008077+07:00"
+    },
+    {
+      "id": "89939ab2cf1712eb6e42dd6f585b963a",
+      "title": "Đấu Trường Gia Tốc – Hành trình của tốc độ, cảm xúc và tinh thần Việt",
+      "link": "https://thanhnien.vn/dau-truong-gia-toc-hanh-trinh-cua-toc-do-cam-xuc-va-tinh-than-viet-185251013164832819.htm",
+      "summary": "Trong dòng chảy sôi động của truyền hình thực tế Việt, Đấu Trường Gia Tốc – Run For Time nổi lên như một làn gió khác biệt: hoành tráng trong đầu tư, táo bạo trong ý tưởng và sâu sắc trong thông điệp. Không chỉ là một cuộc đua thể lực, chương trình mở ra một hành trình đa chiều – nơi người chơi, khá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:29.083912+07:00"
+    },
+    {
+      "id": "a4ec45b913b7ef18d53b9d8aff209d95",
+      "title": "Curél lần thứ 4 đồng hành cùng Hội nghị Khoa học Da liễu miền Nam 2025",
+      "link": "https://thanhnien.vn/curel-lan-thu-4-dong-hanh-cung-hoi-nghi-khoa-hoc-da-lieu-mien-nam-2025-185251013150953214.htm",
+      "summary": "Ngày 28.9.2025, Curél tiếp tục đồng hành cùng Hội nghị Khoa học Da liễu miền Nam 2025 – sự kiện uy tín quy tụ hơn 1.000 bác sĩ và chuyên gia trong nước, quốc tế với chủ đề 'Đổi mới trong da liễu – Kết nối và phát triển'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084084+07:00"
+    },
+    {
+      "id": "86f91a284c8093e77e02401870e4ba0c",
+      "title": "Bật mí bài tập sức mạnh là chìa khóa để giảm nguy cơ ung thư vú",
+      "link": "https://thanhnien.vn/bat-mi-bai-tap-suc-manh-la-chia-khoa-de-giam-nguy-co-ung-thu-vu-185251013144337879.htm",
+      "summary": "Theo chuyên trang Verywell Health, các chuyên gia cho rằng việc tăng cường luyện tập cơ bắp (strength training) không chỉ giúp cải thiện chuyển hóa mà còn có thể giảm nguy cơ ung thư vú, kể cả ở người có chỉ số khối cơ thể (BMI) bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084238+07:00"
+    },
+    {
+      "id": "2a626fc398b3214d5e4cc6df4bd9f14e",
+      "title": "Trận đụng độ nguy cơ đẩy Taliban vào vòng xoáy bạo lực với Pakistan",
+      "link": "https://vnexpress.net/tran-dung-do-nguy-co-day-taliban-vao-vong-xoay-bao-luc-voi-pakistan-4950494.html",
+      "summary": "Cuộc đụng độ dữ dội ở biên giới Afghanistan - Pakistan nguy cơ vượt tầm kiểm soát, đẩy hai nước vào vòng xoáy bạo lực nguy hiểm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T12:00:00+07:00",
+      "fetched": "2025-10-13T19:34:31.809231+07:00"
+    },
+    {
+      "id": "d5267a112e0a00c2b885b667f7b26c8e",
+      "title": "Bản lĩnh doanh nghiệp bán lẻ Việt bước vào kỷ nguyên mới",
+      "link": "https://thanhnien.vn/ban-linh-doanh-nghiep-ban-le-viet-buoc-vao-ky-nguyen-moi-185251013192118653.htm",
+      "summary": "VN đang đặt mục tiêu tăng trưởng 2025 lên 8,3 - 8,5% để tạo đà cho giai đoạn 2026 - 2030 hướng tới tăng trưởng hai chữ số. Đây là động lực trực tiếp đối với ngành bán lẻ - vốn gắn chặt với tiêu dùng nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:58:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084391+07:00"
+    },
+    {
+      "id": "ec55c9bbe69574cb93881e71cb69f6ef",
+      "title": "Ông Trần Sỹ Thanh nói về nguyên nhân khiến thủ đô bị ngập lụt nặng",
+      "link": "https://thanhnien.vn/ong-tran-sy-thanh-noi-ve-nguyen-nhan-khien-thu-do-bi-ngap-lut-nang-185251013172800456.htm",
+      "summary": "Theo Chủ tịch Hà Nội Trần Sỹ Thanh, có nhiều nguyên nhân gây ngập lụt ở Hà Nội thời gian qua, trong đó có nguyên nhân do nhiều sông, hồ của thành phố những năm qua không được nạo vét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:57:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084541+07:00"
+    },
+    {
+      "id": "c8f44234c8379cb5aa79b7c66bf3ef7d",
+      "title": "Bắc Ninh cần 500 tỷ đồng khắc phục đê điều",
+      "link": "https://vnexpress.net/bac-ninh-can-500-ty-dong-khac-phuc-de-dieu-4950778.html",
+      "summary": "Mưa lũ gây ra hàng trăm sự cố trên các tuyến đê cấp III trở lên, dự kiến kinh phí khắc phục khoảng 500 tỷ đồng, theo Sở Nông nghiệp và Môi trường tỉnh Bắc Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:56:13+07:00",
+      "fetched": "2025-10-13T19:34:26.008231+07:00"
+    },
+    {
+      "id": "9f1fdd5d5f1857cdcadfadef0a3b0ac3",
+      "title": "Bộ Nội vụ phản hồi kiến nghị hạ tuổi hưởng trợ cấp hưu trí",
+      "link": "https://thanhnien.vn/bo-noi-vu-phan-hoi-kien-nghi-ha-tuoi-huong-tro-cap-huu-tri-185251013171613972.htm",
+      "summary": "Trả lời kiến nghị của cử tri, Bộ Nội vụ cho rằng việc giảm độ tuổi hưởng trợ cấp hưu trí xã hội cần được đánh giá toàn diện về tác động kinh tế - xã hội, bảo đảm tính khả thi và bền vững của hệ thống trợ cấp trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:55:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084693+07:00"
+    },
+    {
+      "id": "e61e054c3820fc437c8b96aa8e2e3593",
+      "title": "'Jeep Trung Quốc' - GMW Tank 300 giá từ 1,5 tỉ đồng tại Việt Nam",
+      "link": "https://thanhnien.vn/jeep-trung-quoc-gmw-tank-300-gia-tu-15-ti-dong-tai-viet-nam-185251012073154995.htm",
+      "summary": "Sau khi âm thầm có mặt tại Việt Nam, mẫu xe Trung Quốc mang phong cách off-road - GWM Tank 300 chào bán với giá từ 1,469 tỉ đồng, ngang với nhóm xe gầm cao cỡ D.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:55:00+07:00",
+      "fetched": "2025-10-13T19:34:29.084857+07:00"
+    },
+    {
+      "id": "67f2eebdd2135b1f6169e780bf8c1a5b",
+      "title": "Sinh viên trải nghiệm eSports, công nghệ và âm nhạc tại NSOC 2025",
+      "link": "https://vnexpress.net/sinh-vien-trai-nghiem-esports-cong-nghe-va-am-nhac-tai-nsoc-2025-4948844.html",
+      "summary": "Hơn 8.000 sinh viên tham gia chương trình NSOC Unitour tại trường Đại học Xây dựng Hà Nội, ngày 4/10, khuyến khích giải trí, học tập lành mạnh thông qua eSports, công nghệ và âm nhạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:52:56+07:00",
+      "fetched": "2025-10-13T19:34:26.008395+07:00"
+    },
+    {
+      "id": "fb461c6edae2afa3b5dbd6c8dfae5beb",
+      "title": "Quân đội Pakistan báo động cao sau vụ đụng độ nghiêm trọng dọc biên giới",
+      "link": "https://thanhnien.vn/quan-doi-pakistan-bao-dong-cao-sau-vu-dung-do-nghiem-trong-doc-bien-gioi-185251013172758544.htm",
+      "summary": "Quân đội Pakistan ngày 13.10 đã được đặt trong tình trạng báo động cao tại khu vực biên giới với Afghanistan, sau cuộc giao tranh nghiêm trọng khiến hàng chục người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:50:00+07:00",
+      "fetched": "2025-10-13T19:34:29.085034+07:00"
+    },
+    {
+      "id": "580bf35093555dd13a527768d3bc2883",
+      "title": "Báo Indonesia chỉ thẳng PSSI mất phương hướng, đương nhiên tan vỡ giấc mơ World Cup",
+      "link": "https://thanhnien.vn/bao-indonesia-chi-thang-pssi-mat-phuong-huong-duong-nhien-tan-vo-giac-mo-world-cup-185251013184049244.htm",
+      "summary": "Việc đội tuyển Indonesia không thể giành quyền tham dự World Cup 2026 là đỉnh điểm của sự mất phương hướng trong bóng đá quốc gia, tờ Bola khẳng định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:48:00+07:00",
+      "fetched": "2025-10-13T19:34:29.085198+07:00"
+    },
+    {
+      "id": "53677dd3007e2c141cc164d9f2fdc3d2",
+      "title": "Công an TP.HCM làm việc với Lương Bằng Quang, chồng của Ngân 98",
+      "link": "https://thanhnien.vn/cong-an-tphcm-da-lam-viec-voi-luong-bang-quang-chong-cua-ngan-98-185251013183304966.htm",
+      "summary": "Chiều 13.10, Cơ quan CSĐT Công an TP.HCM cho biết đã làm việc với ông Lương Bằng Quang (43 tuổi, chồng của Ngân 98) để làm rõ vai trò trong đường dây hoạt động sản xuất, buôn bán thực phẩm giả của thương hiệu ZuBu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:45:00+07:00",
+      "fetched": "2025-10-13T19:34:29.085352+07:00"
+    },
+    {
+      "id": "01754da7491b8f824d798781a0746120",
+      "title": "Đề nghị xem lại việc áp thuế thu nhập với mua bán vàng miếng",
+      "link": "https://vnexpress.net/de-nghi-xem-lai-viec-ap-thue-thu-nhap-voi-mua-ban-vang-mieng-4950885.html",
+      "summary": "Chính phủ đề xuất áp thuế thu nhập cá nhân khi chuyển nhượng vàng miếng nhưng Ủy ban Kinh tế và Tài chính đề nghị \"cân nhắc\" bởi nhiều người bán vàng không vì đầu cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:44:35+07:00",
+      "fetched": "2025-10-13T19:34:26.008554+07:00"
+    },
+    {
+      "id": "01754da7491b8f824d798781a0746120",
+      "title": "Đề nghị xem lại việc áp thuế thu nhập với mua bán vàng miếng",
+      "link": "https://vnexpress.net/de-nghi-xem-lai-viec-ap-thue-thu-nhap-voi-mua-ban-vang-mieng-4950885.html",
+      "summary": "Chính phủ đề xuất áp thuế thu nhập cá nhân khi chuyển nhượng vàng miếng nhưng Ủy ban Kinh tế và Tài chính đề nghị \"cân nhắc\" bởi nhiều người bán vàng không vì đầu cơ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-13T11:44:35+07:00",
+      "fetched": "2025-10-13T19:34:34.137702+07:00"
+    },
+    {
+      "id": "fed7360d152474d12fc10185ccd737d0",
+      "title": "Khánh thành nhà máy điện rác lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/khanh-thanh-nha-may-dien-rac-lon-nhat-viet-nam-4950806.html",
+      "summary": "Nhà máy điện rác Sóc Sơn có công suất tiếp nhận, xử lý 5.000 tấn rác sinh hoạt mỗi ngày, phát điện 90 MW/giờ, là nhà máy điện rác lớn nhất Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:37:26+07:00",
+      "fetched": "2025-10-13T19:34:26.008710+07:00"
+    },
+    {
+      "id": "b3be53c558c20564d258e977a9b0d8b1",
+      "title": "Tiến Linh không bận tâm vị trí trong lịch sử tuyển Việt Nam",
+      "link": "https://vnexpress.net/tien-linh-khong-ban-tam-vi-tri-trong-lich-su-tuyen-viet-nam-4950876.html",
+      "summary": "Trong cuộc họp báo trước trận đấu Nepal, tiền đạo Nguyễn Tiến Linh khẳng định không quan trọng thành tích cá nhân, và chỉ mong muốn cống hiến, ghi nhiều bàn thắng cho ĐTQG.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T11:19:51+07:00",
+      "fetched": "2025-10-13T19:34:26.008871+07:00"
+    },
+    {
+      "id": "b3be53c558c20564d258e977a9b0d8b1",
+      "title": "Tiến Linh không bận tâm vị trí trong lịch sử tuyển Việt Nam",
+      "link": "https://vnexpress.net/tien-linh-khong-ban-tam-vi-tri-trong-lich-su-tuyen-viet-nam-4950876.html",
+      "summary": "Trong cuộc họp báo trước trận đấu Nepal, tiền đạo Nguyễn Tiến Linh khẳng định không quan trọng thành tích cá nhân, và chỉ mong muốn cống hiến, ghi nhiều bàn thắng cho ĐTQG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T11:19:51+07:00",
+      "fetched": "2025-10-13T19:34:38.393810+07:00"
+    },
+    {
+      "id": "998c1566cfbdd45e02cc22a5604986a0",
+      "title": "HLV Kim Sang-sik mong Nguyễn Tiến Linh ghi nhiều bàn",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-mong-nguyen-tien-linh-ghi-nhieu-ban-4950865.html",
+      "summary": "Trong cuộc họp báo trước lượt về với Nepal ở vòng loại cuối Asian Cup 2027, HLV Kim Sang-sik nhấn mạnh vào tính hiệu quả trong khâu ghi bàn của tuyển Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T10:39:21+07:00",
+      "fetched": "2025-10-13T19:34:38.393985+07:00"
+    },
+    {
+      "id": "8a191db8601afbfd640081191ff0dba9",
+      "title": "'Gánh nặng với hộ kinh doanh sẽ tăng đáng kể khi bỏ thuế khoán'",
+      "link": "https://vnexpress.net/ganh-nang-voi-ho-kinh-doanh-se-tang-dang-ke-khi-bo-thue-khoan-4950861.html",
+      "summary": "Chủ nhiệm Ủy ban Kinh tế và Tài chính Phan Văn Mãi cho rằng doanh thu kê khai theo hóa đơn sẽ cao hơn mức khoán hiện hành, khiến tăng gánh nặng thuế của các hộ, cá nhân kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-13T10:24:11+07:00",
+      "fetched": "2025-10-13T19:34:34.137876+07:00"
     },
     {
       "id": "f7010bb2b9f1de903f70d85e655760d6",
