@@ -1,7 +1,157 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T21:17:29.434992+07:00",
+  "lastUpdated": "2025-10-13T23:20:38.085282+07:00",
   "articles": [
+    {
+      "id": "f5d8d680b0444aeaa3d1438f23dc800e",
+      "title": "Chơi quá hay, Thanh Thúy được CLB bóng chuyền Nhật Bản chọn làm người phát ngôn",
+      "link": "https://tuoitre.vn/choi-qua-hay-thanh-thuy-duoc-clb-bong-chuyen-nhat-ban-chon-lam-nguoi-phat-ngon-20251013182055876.htm",
+      "summary": "Phong độ ấn tượng tại CLB Gunma Green Wings giúp Trần Thị Thanh Thúy được vinh danh ở giải bóng chuyền Nhật Bản SV League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265989+07:00",
+      "fetched": "2025-10-13T23:20:31.266071+07:00"
+    },
+    {
+      "id": "3481b9275b839c328abb17d704afb8a2",
+      "title": "Quyền Bộ trưởng Trần Đức Thắng: Hoàn thành 100% dữ liệu đất đai vào 2026 với từng lô đất, thửa đất",
+      "link": "https://tuoitre.vn/quyen-bo-truong-tran-duc-thang-hoan-thanh-100-du-lieu-dat-dai-vao-2026-voi-tung-lo-dat-thua-dat-20251013181919075.htm",
+      "summary": "Việc hoàn thành 100% cơ sở dữ liệu đất đai được kỳ vọng mang lại hiệu quả tốt cho quản lý và tạo thuận lợi cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265899+07:00",
+      "fetched": "2025-10-13T23:20:31.265981+07:00"
+    },
+    {
+      "id": "61cee54780f7a3d4b26e09dbf1bc7fbf",
+      "title": "Tăng trưởng cao đòi hỏi cải cách bộ máy và tư duy mới",
+      "link": "https://tuoitre.vn/tang-truong-cao-doi-hoi-cai-cach-bo-may-va-tu-duy-moi-20251013190947728.htm",
+      "summary": "Nhiệm kỳ tới phải giải quyết các vấn đề kéo dài như ngập đô thị, ô nhiễm, tắc giao thông, nhiễm mặn và đê điều phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265809+07:00",
+      "fetched": "2025-10-13T23:20:31.265892+07:00"
+    },
+    {
+      "id": "74a2438e08363dc065a537787eb07a85",
+      "title": "Trở về từ Đức, U17 nữ Việt Nam thắng tưng bừng ở vòng loại châu Á",
+      "link": "https://tuoitre.vn/tro-ve-tu-duc-u17-nu-viet-nam-thang-tung-bung-o-vong-loai-chau-a-20251013195245467.htm",
+      "summary": "Đội tuyển U17 nữ Việt Nam đã thắng U17 nữ Guam 5-0 ở trận ra quân vòng loại U17 nữ châu Á 2026 diễn ra trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265719+07:00",
+      "fetched": "2025-10-13T23:20:31.265802+07:00"
+    },
+    {
+      "id": "ba304f1d873d8eafc134c471cd9c7daf",
+      "title": "Bị khởi tố, Ngân 98: 'Em quá tin tưởng vào nhà máy sản xuất sản phẩm giảm cân'",
+      "link": "https://tuoitre.vn/bi-khoi-to-ngan-98-em-qua-tin-tuong-vao-nha-may-san-xuat-san-pham-giam-can-20251013195802428.htm",
+      "summary": "Sau khi bị khởi tố, bắt tạm giam, Ngân 98 gửi lời xin lỗi đến những người mua hàng của mình vì \"quá tin tưởng vào nhà máy mà không kiểm tra lại\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265628+07:00",
+      "fetched": "2025-10-13T23:20:31.265711+07:00"
+    },
+    {
+      "id": "08d7f2e3c045324e872fd155e1684dba",
+      "title": "Tổng thống Pháp Macron cương quyết không từ chức",
+      "link": "https://tuoitre.vn/tong-thong-phap-macron-cuong-quyet-khong-tu-chuc-20251013195524088.htm",
+      "summary": "Tổng thống Macron phản bác những lời kêu gọi từ chức, đồng thời chỉ trích phe đối lập và cho rằng họ mới là bên gây bất ổn đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265533+07:00",
+      "fetched": "2025-10-13T23:20:31.265620+07:00"
+    },
+    {
+      "id": "a5c68b44ee2863f76e99cbb776603924",
+      "title": "Taylor Swift 'đánh úp' fan, công bố cùng lúc hai dự án mới vào tháng 12",
+      "link": "https://tuoitre.vn/taylor-swift-danh-up-fan-cong-bo-cung-luc-hai-du-an-moi-vao-thang-12-20251013202434357.htm",
+      "summary": "Sau nhiều đồn đoán, Taylor Swift chính thức xác nhận tung hai dự án khủng, bao gồm phim tài liệu và phim concert đặc biệt, dự kiến ra mắt vào ngày 12-12 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265438+07:00",
+      "fetched": "2025-10-13T23:20:31.265525+07:00"
+    },
+    {
+      "id": "abb5fbaeb34d854efe651cb227a3ae42",
+      "title": "Diane Keaton qua đời để lại khối tài sản 100 triệu USD",
+      "link": "https://tuoitre.vn/diane-keaton-qua-doi-de-lai-khoi-tai-san-100-trieu-usd-20251013201756055.htm",
+      "summary": "Bên cạnh tài năng diễn xuất, nữ diễn viên từng đoạt giải Oscar Diane Keaton là nhà đầu tư bất động sản tài ba, đặc biệt có niềm đam mê phục dựng các căn nhà cổ mang giá trị lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265338+07:00",
+      "fetched": "2025-10-13T23:20:31.265430+07:00"
+    },
+    {
+      "id": "0d2357db65e60eb0b1a13b1929c3e5ca",
+      "title": "Không Bích Tuyền, LPBank Ninh Bình vẫn hiên ngang vào chung kết bóng chuyền quốc gia",
+      "link": "https://tuoitre.vn/khong-bich-tuyen-lpbank-ninh-binh-van-hien-ngang-vao-chung-ket-bong-chuyen-quoc-gia-20251013202324547.htm",
+      "summary": "Bất chấp những khó khăn, LPBank Ninh Bình cuối cùng đã tìm ra giải pháp để đánh bại Binh Chủng Thông Tin Đông Bắc tối 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265239+07:00",
+      "fetched": "2025-10-13T23:20:31.265330+07:00"
+    },
+    {
+      "id": "ad6239d53176e0d7f83f964c748ba994",
+      "title": "Vụ nữ sinh ở Vĩnh Long tử vong: Phục hồi điều tra tin báo không truy cứu người có tội",
+      "link": "https://tuoitre.vn/vu-nu-sinh-o-vinh-long-tu-vong-phuc-hoi-dieu-tra-tin-bao-khong-truy-cuu-nguoi-co-toi-20251013202000341.htm",
+      "summary": "Cơ quan điều tra Viện KSND tối cao phục hồi điều tra tin báo không truy cứu trách nhiệm hình sự, sau khi nhận tài liệu từ Viện KSND khu vực 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265132+07:00",
+      "fetched": "2025-10-13T23:20:31.265225+07:00"
+    },
+    {
+      "id": "a129145e7736cded3f6f99a0d460da29",
+      "title": "Doanh nhân Sài Gòn vì sự phát triển của TP.HCM",
+      "link": "https://tuoitre.vn/doanh-nhan-sai-gon-vi-su-phat-trien-cua-tp-hcm-20251013203901778.htm",
+      "summary": "Hội Doanh nhân Sài Gòn cam kết xây dựng một tổ chức vững mạnh, là cánh tay nối dài của chính quyền trong việc thúc đẩy phát triển kinh tế tư nhân bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.265013+07:00",
+      "fetched": "2025-10-13T23:20:31.265122+07:00"
+    },
+    {
+      "id": "12ca028475f42e1daaa661f8eaa1de71",
+      "title": "Hamas gọi video, thả hết 20 con tin còn sống cho Israel",
+      "link": "https://tuoitre.vn/hamas-goi-video-tha-het-20-con-tin-con-song-cho-israel-20251013204037828.htm",
+      "summary": "Tất cả 20 con tin còn sống đã được trao trả cho Israel theo thỏa thuận giai đoạn đầu với Hamas ngày 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.264909+07:00",
+      "fetched": "2025-10-13T23:20:31.265004+07:00"
+    },
+    {
+      "id": "f2c830f8c99154be41ccff75e5f3b722",
+      "title": "Xôn xao hình ảnh DJ Ngân 98 xuất hiện trên poster hội chợ thương mại ở Khánh Hòa",
+      "link": "https://tuoitre.vn/xon-xao-hinh-anh-dj-ngan-98-xuat-hien-tren-poster-hoi-cho-thuong-mai-o-khanh-hoa-20251013205638015.htm",
+      "summary": "Sở Công Thương Khánh Hòa sẽ cùng các đơn vị điều chỉnh hình ảnh DJ Ngân 98 được quảng bá tại Hội chợ thương mại Katê 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.264801+07:00",
+      "fetched": "2025-10-13T23:20:31.264901+07:00"
+    },
+    {
+      "id": "fccbb721c202e81b106c502d85f8cf14",
+      "title": "Ông Trump nói Israel đã thắng Hamas, thế giới 'đang dần yêu Israel trở lại'",
+      "link": "https://tuoitre.vn/ong-trump-noi-israel-da-thang-hamas-the-gioi-dang-dan-yeu-israel-tro-lai-20251013211646022.htm",
+      "summary": "Tổng thống Mỹ Trump nhấn mạnh Israel đã thắng trong cuộc chiến với Hamas và đang dần lấy lại hình ảnh trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.264679+07:00",
+      "fetched": "2025-10-13T23:20:31.264791+07:00"
+    },
+    {
+      "id": "d4ebf5e097c207614d43e72f72ee6e4b",
+      "title": "Đội tình nguyện viên nghệ sĩ TP.HCM đoạt giải nhất cuộc thi sáng tạo nội dung của Viet Nam Love",
+      "link": "https://tuoitre.vn/doi-tinh-nguyen-vien-nghe-si-tp-hcm-doat-giai-nhat-cuoc-thi-sang-tao-noi-dung-cua-viet-nam-love-20251013212651149.htm",
+      "summary": "Hơn 80 thành viên đội tình nguyện viên nghệ sĩ TP.HCM hát Kiếp sau vẫn là người Việt Nam đoạt giải nhất hạng mục MV cuộc thi sáng tạo nội dung thuộc dự án Viet Nam Love.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:31.264449+07:00",
+      "fetched": "2025-10-13T23:20:31.264666+07:00"
+    },
     {
       "id": "4466bdab3d0f74cd4f75afc8fd034d93",
       "title": "Từ 1-12 bãi rác Đa Phước chỉ nhận rác từ 18h đến 6h",
@@ -453,6 +603,46 @@ window.newsData_2025_10_13 = {
       "fetched": "2025-10-13T17:19:54.065119+07:00"
     },
     {
+      "id": "b2e758714904ee7b8c1144338bddd629",
+      "title": "Rộ tin Tổng thống Madagascar ra nước ngoài giữa sức ép từ chức",
+      "link": "https://thanhnien.vn/ro-tin-tong-thong-madagascar-ra-nuoc-ngoai-giua-suc-ep-tu-chuc-185251013223101148.htm",
+      "summary": "Giữa áp lực kêu gọi từ chức từ người biểu tình, Tổng thống Madagascar Andry Rajoelina được cho là đã rời khỏi đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T16:01:00+07:00",
+      "fetched": "2025-10-13T23:20:30.295437+07:00"
+    },
+    {
+      "id": "9bb122649b03c6befe6dcaada238a819",
+      "title": "Hai ôtô chở công nhân bị bắn vỡ kính bằng ná cao su",
+      "link": "https://vnexpress.net/hai-oto-cho-cong-nhan-bi-ban-vo-kinh-bang-na-cao-su-4950923.html",
+      "summary": "Hai ôtô chở công nhân từ nhà máy xe điện về phường Dương Kinh bị 2 thiếu niên nấp trên mái nhà dùng ná cao su bắn vỡ kính, nhiều người hoang mang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:44:17+07:00",
+      "fetched": "2025-10-13T23:20:26.725902+07:00"
+    },
+    {
+      "id": "d9d923c9a50c0c5118737b8f8db00880",
+      "title": "'Thỏa thuận hòa bình Gaza gieo hy vọng cho Ukraine'",
+      "link": "https://vnexpress.net/thoa-thuan-hoa-binh-gaza-gieo-hy-vong-cho-ukraine-4950909.html",
+      "summary": "Tổng thống Zelensky ca ngợi lệnh ngừng bắn ở Gaza, cho rằng nó mang lại hy vọng ông Trump có thể giúp chấm dứt xung đột ở Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:39:20+07:00",
+      "fetched": "2025-10-13T23:20:26.726061+07:00"
+    },
+    {
+      "id": "d9d923c9a50c0c5118737b8f8db00880",
+      "title": "'Thỏa thuận hòa bình Gaza gieo hy vọng cho Ukraine'",
+      "link": "https://vnexpress.net/thoa-thuan-hoa-binh-gaza-gieo-hy-vong-cho-ukraine-4950909.html",
+      "summary": "Tổng thống Zelensky ca ngợi lệnh ngừng bắn ở Gaza, cho rằng nó mang lại hy vọng ông Trump có thể giúp chấm dứt xung đột ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T15:39:20+07:00",
+      "fetched": "2025-10-13T23:20:32.843303+07:00"
+    },
+    {
       "id": "d354dbc9d5dcf0490ba7eb41fbb0bad6",
       "title": "Độc đáo các sản phẩm công nghệ triển lãm tại Đại hội Đảng bộ TP.HCM lần I",
       "link": "https://tuoitre.vn/doc-dao-cac-san-pham-cong-nghe-trien-lam-tai-dai-hoi-dang-bo-tp-hcm-lan-i-20251013113943429.htm",
@@ -601,6 +791,116 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-13T15:24:17.555913+07:00",
       "fetched": "2025-10-13T15:24:17.556150+07:00"
+    },
+    {
+      "id": "7b9974ca932f92e2e52d34e0fbfc45ed",
+      "title": "NATO theo dõi tàu ngầm Nga nổi lên gần Pháp, Moscow bác tin có sự cố",
+      "link": "https://thanhnien.vn/nato-theo-doi-tau-ngam-nga-noi-len-gan-phap-moscow-bac-tin-co-su-co-18525101321333412.htm",
+      "summary": "Quân đội Nga đã bác bỏ thông tin tàu ngầm Kilo tên Novorossiysk của lực lượng này gặp sự cố và phải nổi lên ngoài khơi Pháp gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:23:00+07:00",
+      "fetched": "2025-10-13T23:20:30.295583+07:00"
+    },
+    {
+      "id": "6da784ecae18193bf9d54606ddef2f4b",
+      "title": "Mở cửa đường hầm bí mật của hoàng đế dưới Đấu trường La Mã",
+      "link": "https://vnexpress.net/mo-cua-duong-ham-bi-mat-cua-hoang-de-duoi-dau-truong-la-ma-4950919.html",
+      "summary": "Lối đi bí mật từng được các hoàng đế La Mã sử dụng để vào thẳng khu vực ghế VIP trong Đấu trường La Mã, sẽ mở cửa đón khách từ tháng 10, hé lộ góc nhìn hiếm hoi về hậu trường của đấu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:19:23+07:00",
+      "fetched": "2025-10-13T23:20:26.726229+07:00"
+    },
+    {
+      "id": "d26bcab2c5557abcd49a0c0ed7a87862",
+      "title": "Padel - môn thể thao khiến thế giới phát sốt: Có gì mà được dự báo ‘hot’ hơn cả pickleball?",
+      "link": "https://thanhnien.vn/padel-mon-the-thao-khien-the-gioi-phat-sot-co-gi-ma-duoc-du-bao-hot-hon-ca-pickleball-185251013184816167.htm",
+      "summary": "Từng bị xem là 'phiên bản lai' giữa tennis và bóng quần, padel đang trở thành cơn sốt thể thao toàn cầu, thu hút từ ngôi sao sân cỏ đến người chơi phong trào, và được dự báo sớm vượt mặt pickleball về độ phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:14:00+07:00",
+      "fetched": "2025-10-13T23:20:30.295713+07:00"
+    },
+    {
+      "id": "ff8e81b3ac5f84b25603f55f821c1ef4",
+      "title": "Ông chủ đất nghiện rượu ngồi nhìn hàng xóm xây nhà lầu",
+      "link": "https://vnexpress.net/ong-chu-dat-nghien-ruou-ngoi-nhin-hang-xom-xay-nha-lau-4950502.html",
+      "summary": "Người hàng xóm của tôi vẫn không hiểu vì sao mình ngồi uống rượu trong căn nhà cấp bốn chật chội sau khi cắt đất bán dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T15:00:00+07:00",
+      "fetched": "2025-10-13T23:20:26.726367+07:00"
+    },
+    {
+      "id": "4531297cee0f56ecdf72b53c105a43a1",
+      "title": "Tai nạn chết người ở vòng xoay Tân Ngãi",
+      "link": "https://thanhnien.vn/tai-nan-chet-nguoi-o-vong-xoay-tan-ngai-185251013183120904.htm",
+      "summary": "Tai nạn chết người xảy ra khi xe trộn bê tông đang lưu thông thì bất ngờ va chạm xe máy đi cùng chiều tại khu vực vòng xoay Tân Ngãi (P.Tân Ngãi, Vĩnh Long).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:48:00+07:00",
+      "fetched": "2025-10-13T23:20:30.295840+07:00"
+    },
+    {
+      "id": "108112bbda276e373754129c4a3212ef",
+      "title": "Hà Lan giành kiểm soát nhà sản xuất chip thuộc sở hữu Trung Quốc",
+      "link": "https://thanhnien.vn/ha-lan-gianh-kiem-soat-nha-san-xuat-chip-thuoc-so-huu-trung-quoc-185251013202428258.htm",
+      "summary": "Chính phủ Hà Lan cho biết đang nắm quyền kiểm soát Nexperia, công ty chuyên sản xuất chip máy tính cho ngành công nghiệp ô tô và điện tử tiêu dùng, do lo ngại về khả năng chuyển giao công nghệ quan trọng cho công ty mẹ tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:44:00+07:00",
+      "fetched": "2025-10-13T23:20:30.295961+07:00"
+    },
+    {
+      "id": "251faebbf9b2b189d834d12c8698e9df",
+      "title": "Đi lạc 4 ngày trong rừng sâu",
+      "link": "https://thanhnien.vn/di-lac-4-ngay-trong-rung-sau-185251013203908743.htm",
+      "summary": "Một phụ nữ 37 tuổi đi lạc trong rừng sâu 4 ngày, rơi vào tình trạng đói lả, kiệt sức, đã được lực lượng tuần tra Đồn biên phòng Đắk Ken (Lâm Đồng) tìm thấy và cứu sống kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:38:00+07:00",
+      "fetched": "2025-10-13T23:20:30.296080+07:00"
+    },
+    {
+      "id": "f690d8d4ce7e3fb5258286bd7be4ba88",
+      "title": "Son Heung-min thắng Ronaldo ở giải 'Cầu thủ hay nhất châu Á'",
+      "link": "https://vnexpress.net/son-heung-min-thang-ronaldo-o-giai-cau-thu-hay-nhat-chau-a-4950907.html",
+      "summary": "Tiền đạo Hàn Quốc Son Heung-min lần thứ 10 giành giải Cầu thủ hay nhất châu Á, trong khi siêu sao Cristiano Ronaldo đứng thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:22:13+07:00",
+      "fetched": "2025-10-13T23:20:26.726494+07:00"
+    },
+    {
+      "id": "f690d8d4ce7e3fb5258286bd7be4ba88",
+      "title": "Son Heung-min thắng Ronaldo ở giải 'Cầu thủ hay nhất châu Á'",
+      "link": "https://vnexpress.net/son-heung-min-thang-ronaldo-o-giai-cau-thu-hay-nhat-chau-a-4950907.html",
+      "summary": "Tiền đạo Hàn Quốc Son Heung-min lần thứ 10 giành giải Cầu thủ hay nhất châu Á, trong khi siêu sao Cristiano Ronaldo đứng thứ ba.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T14:22:13+07:00",
+      "fetched": "2025-10-13T23:20:38.071728+07:00"
+    },
+    {
+      "id": "eb7f9f53a81d6caa4d91c7c7d434df68",
+      "title": "Bộ trưởng Mỹ: Thuế 100% với Trung Quốc không nhất thiết thực thi",
+      "link": "https://vnexpress.net/bo-truong-my-thue-100-voi-trung-quoc-khong-nhat-thiet-thuc-thi-4950902.html",
+      "summary": "Bộ trưởng Tài chính Bessent nói căng thẳng Mỹ - Trung đã \"giảm đáng kể\" sau lời đe dọa áp thuế 100% của ông Trump và lãnh đạo hai nước sẽ gặp nhau tại APEC ở Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:18:41+07:00",
+      "fetched": "2025-10-13T23:20:26.726621+07:00"
+    },
+    {
+      "id": "eb7f9f53a81d6caa4d91c7c7d434df68",
+      "title": "Bộ trưởng Mỹ: Thuế 100% với Trung Quốc không nhất thiết thực thi",
+      "link": "https://vnexpress.net/bo-truong-my-thue-100-voi-trung-quoc-khong-nhat-thiet-thuc-thi-4950902.html",
+      "summary": "Bộ trưởng Tài chính Bessent nói căng thẳng Mỹ - Trung đã \"giảm đáng kể\" sau lời đe dọa áp thuế 100% của ông Trump và lãnh đạo hai nước sẽ gặp nhau tại APEC ở Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T14:18:41+07:00",
+      "fetched": "2025-10-13T23:20:32.843455+07:00"
     },
     {
       "id": "c4216457718fa6fd782d3fd031500a48",
