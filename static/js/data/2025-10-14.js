@@ -1,7 +1,157 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T19:36:25.266181+07:00",
+  "lastUpdated": "2025-10-14T21:17:33.119245+07:00",
   "articles": [
+    {
+      "id": "ed560191e383fc1da7a930a6b19200ef",
+      "title": "Bí thư Trần Lưu Quang: Nhiệm kỳ này phải chắt chiu mọi điều kiện, phát triển mạnh mẽ metro",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-nhiem-ky-nay-phai-chat-chiu-moi-dieu-kien-phat-trien-manh-me-metro-2025101418402209.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang cho rằng nhiệm kỳ này phát triển mạnh mẽ, tối đa, chắt chiu mọi điều kiện để làm đường sắt đô thị, vì đây là giải pháp gần như duy nhất để giải quyết kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452652+07:00",
+      "fetched": "2025-10-14T21:17:26.452755+07:00"
+    },
+    {
+      "id": "edc5ffb7e52d76bc56c448e7df580823",
+      "title": "Chủ tịch Nguyễn Văn Được: Nhiệm kỳ này làm cho bằng được các tuyến đường vành đai",
+      "link": "https://tuoitre.vn/chu-tich-nguyen-van-duoc-nhiem-ky-nay-lam-cho-bang-duoc-cac-tuyen-duong-vanh-dai-20251014184015835.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được cho hay trong nhiệm kỳ tới tập trung làm cho xong các tuyến vành đai 2, 3 và vành đai 4. Ô nhiễm, ngập nước, kẹt xe cũng sẽ kéo giảm trong nhiệm kỳ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452540+07:00",
+      "fetched": "2025-10-14T21:17:26.452643+07:00"
+    },
+    {
+      "id": "5cbe1504226005e793a6996729dee365",
+      "title": "Chuẩn bị 'siêu hội chợ quốc gia' khuyến mãi tới 100% cùng show diễn 30 năm ca hát của Đan Trường",
+      "link": "https://tuoitre.vn/chuan-bi-sieu-hoi-cho-quoc-gia-khuyen-mai-toi-100-cung-show-dien-30-nam-ca-hat-cua-dan-truong-20251014180650907.htm",
+      "summary": "Chiều 14-10, Bộ Công Thương tổ chức họp báo thông tin về Hội chợ Mùa Thu với chủ đề \"Kết nối con người với sản xuất, kinh doanh\", dự kiến diễn ra từ ngày 25-10 đến 4-11 tại Trung tâm Triển lãm Việt Nam (VEC).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452425+07:00",
+      "fetched": "2025-10-14T21:17:26.452530+07:00"
+    },
+    {
+      "id": "d43cd735465b9ddcedd261ac01e972f4",
+      "title": "Chủ tịch Cần Thơ: Cán bộ xã, phường thừa số lượng thiếu chất lượng",
+      "link": "https://tuoitre.vn/chu-tich-can-tho-can-bo-xa-phuong-thua-so-luong-thieu-chat-luong-20251014184247173.htm",
+      "summary": "Sau 3 tháng vận hành chính quyền địa phương 2 cấp, Chủ tịch UBND thành phố Cần Thơ cho rằng giám đốc các sở đã nắm được năng lực, sở trường của cán bộ, do đó phải sắp xếp lại bên trong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452320+07:00",
+      "fetched": "2025-10-14T21:17:26.452416+07:00"
+    },
+    {
+      "id": "a846cea51043233e4c73d9f25b3c473d",
+      "title": "6.500 con gà chết trắng sau lũ, chủ trại bật khóc: 'Tôi tay trắng rồi'",
+      "link": "https://tuoitre.vn/6-500-con-ga-chet-trang-sau-lu-chu-trai-bat-khoc-toi-tay-trang-roi-20251014171724747.htm",
+      "summary": "Trang trại của chị Dung nuôi hơn 6.500 con gà, chỉ còn 10 ngày nữa là xuất chuồng nhưng giờ chết hết, có con to như nồi cơm điện trôi lềnh phềnh. Bao năm làm ăn tích cóp coi như tay trắng, tiền mua chịu cám ăn, thuốc phòng bệnh vẫn còn đấy…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452215+07:00",
+      "fetched": "2025-10-14T21:17:26.452311+07:00"
+    },
+    {
+      "id": "673674700b8e8463c985f4e5bf59c565",
+      "title": "Nga hoan nghênh kế hoạch thúc đẩy hòa bình Ukraine của ông Trump",
+      "link": "https://tuoitre.vn/nga-hoan-nghenh-ke-hoach-thuc-day-hoa-binh-ukraine-cua-ong-trump-20251014184603156.htm",
+      "summary": "Phát biểu mới của ông Trump về mong muốn thúc đẩy hòa bình ở Ukraine được Nga đón nhận tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.452098+07:00",
+      "fetched": "2025-10-14T21:17:26.452206+07:00"
+    },
+    {
+      "id": "ede0baa08b34ffa10659e658a48fab57",
+      "title": "Nền tảng của người trẻ thời hội nhập trong... 6 chữ",
+      "link": "https://tuoitre.vn/nen-tang-cua-nguoi-tre-thoi-hoi-nhap-trong-6-chu-20251014154523944.htm",
+      "summary": "Đó là nhắn nhủ của PGS.TS Đào Ngọc Tiến - phó hiệu trưởng Trường đại học Ngoại thương cơ sở II - TP.HCM - cho tân thạc sĩ, cử nhân trong lễ tốt nghiệp năm 2025, chương trình đào tạo quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451992+07:00",
+      "fetched": "2025-10-14T21:17:26.452089+07:00"
+    },
+    {
+      "id": "38447e7e0985d2048807ef7794a5a4ab",
+      "title": "Hà Nội tạm cấm nhiều tuyến đường từ 15-10 đến 17-10",
+      "link": "https://tuoitre.vn/ha-noi-tam-cam-nhieu-tuyen-duong-tu-15-10-den-17-10-2025101419025899.htm",
+      "summary": "Chiều 14-10, Công an Hà Nội thông báo phân luồng giao thông, lịch tạm cấm một số tuyến đường -  phục vụ Đại hội Đại biểu lần thứ XVIII Đảng bộ thành phố Hà Nội, nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451883+07:00",
+      "fetched": "2025-10-14T21:17:26.451983+07:00"
+    },
+    {
+      "id": "db7a524d2ca8fc220d6db2ce65c36d73",
+      "title": "Micro vô tình tiết lộ Tổng thống Indonesia muốn gặp con trai ông Trump",
+      "link": "https://tuoitre.vn/micro-vo-tinh-tiet-lo-tong-thong-indonesia-muon-gap-con-trai-ong-trump-20251014192919477.htm",
+      "summary": "Cuộc trò chuyện riêng giữa hai nhà lãnh đạo Mỹ - Indonesia bên lề hội nghị thượng đỉnh tại Ai Cập vô tình bị ghi lại qua micro mở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451771+07:00",
+      "fetched": "2025-10-14T21:17:26.451874+07:00"
+    },
+    {
+      "id": "cb9feb6a4a90704781c9d39f4c171192",
+      "title": "Định vị doanh nghiệp nhà nước trong nền kinh tế",
+      "link": "https://tuoitre.vn/dinh-vi-doanh-nghiep-nha-nuoc-trong-nen-kinh-te-20251014185514196.htm",
+      "summary": "Ngày 14-10, hội thảo khoa học: Vai trò của doanh nghiệp nhà nước trong các ngành trọng điểm của nền kinh tế, góc nhìn từ ngành hàng không do Tạp chí Cộng sản tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451665+07:00",
+      "fetched": "2025-10-14T21:17:26.451761+07:00"
+    },
+    {
+      "id": "8f8479ecb7db7e5d672033aaa68d711c",
+      "title": "Việt Nam sẵn sàng tham gia vào nỗ lực nhằm tái thiết Dải Gaza",
+      "link": "https://tuoitre.vn/viet-nam-san-sang-tham-gia-vao-no-luc-nham-tai-thiet-dai-gaza-20251014193418751.htm",
+      "summary": "Việt Nam hoan nghênh thỏa thuận giữa Israel và Hamas nhằm sớm chấm dứt xung đột ở Dải Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451552+07:00",
+      "fetched": "2025-10-14T21:17:26.451656+07:00"
+    },
+    {
+      "id": "8182cd01d3e6cd9aa4a79dd1cdf63aaa",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Từ bóng tối vươn tới ước mơ",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-tu-bong-toi-vuon-toi-uoc-mo-20251014161621513.htm",
+      "summary": "Không có đôi mắt sáng từ lúc sinh ra, hành trình đến với con chữ của Võ Thành Nhân (Trường THPT Nguyễn Thượng Hiền, TP Đà Nẵng) nhọc nhằn hơn bạn bè cùng trang lứa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451430+07:00",
+      "fetched": "2025-10-14T21:17:26.451542+07:00"
+    },
+    {
+      "id": "07cb1e7c0213645d9b1cd7469ef0ad51",
+      "title": "Tâm Anh - VNVC ghi dấu ấn tại triển lãm công nghệ chiến lược quốc gia",
+      "link": "https://tuoitre.vn/tam-anh-vnvc-ghi-dau-an-tai-trien-lam-cong-nghe-chien-luoc-quoc-gia-20251014165937749.htm",
+      "summary": "Sáng 14-10, tại triển lãm Sản phẩm công nghệ chiến lược quốc gia chào mừng Đại hội đại biểu Đảng bộ TP.HCM nhiệm kỳ 2025 - 2030, hệ sinh thái Bệnh viện Tâm Anh - Vắc xin VNVC giới thiệu hàng loạt công nghệ y - sinh tiên tiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451320+07:00",
+      "fetched": "2025-10-14T21:17:26.451421+07:00"
+    },
+    {
+      "id": "7408c0c8dc89d3c37852eb872558a875",
+      "title": "Trường Đại học Văn Lang thu hút học sinh tài năng",
+      "link": "https://tuoitre.vn/truong-dai-hoc-van-lang-thu-hut-hoc-sinh-tai-nang-20251014193107795.htm",
+      "summary": "Ngày 12-10, Trường Đại học Văn Lang đã tổ chức chương trình chào đón tân sinh viên khóa 31.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.451193+07:00",
+      "fetched": "2025-10-14T21:17:26.451310+07:00"
+    },
+    {
+      "id": "6194ce7da9fc71b5329ac4e1ffea6a5e",
+      "title": "Sân Thống Nhất ngập nước mưa khiến trận Nepal đấu Việt Nam phải lùi giờ",
+      "link": "https://tuoitre.vn/san-thong-nhat-ngap-nuoc-mua-khien-tran-nepal-dau-viet-nam-phai-lui-gio-20251014193833702.htm",
+      "summary": "Chiều 14-10, cơn mưa lớn liên tục đã khiến sân Thống Nhất ngập nước, buộc trọng tài phải lùi 30 phút trận Nepal đấu Việt Nam để ban tổ chức sân thoát nước ra ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T21:17:26.450968+07:00",
+      "fetched": "2025-10-14T21:17:26.451176+07:00"
+    },
     {
       "id": "ec1ef65b3182b439c4ac3e951a69b389",
       "title": "Lúa 'chết tươi' từ bãi rác đen kịt chảy xuống",
@@ -453,6 +603,66 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T15:20:50.284081+07:00"
     },
     {
+      "id": "3431772d4230adc328a27b52009bfb89",
+      "title": "Cơn sốt Sora 2 sắp bùng nổ trên Android",
+      "link": "https://thanhnien.vn/con-sot-sora-2-sap-bung-no-tren-android-185251014110254827.htm",
+      "summary": "Sora 2 chính thức đổ bộ Google Play, nhưng vẫn cần 'vé mời' mới được trải nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:00:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647263+07:00"
+    },
+    {
+      "id": "a6cbe06910e288788402358ee8fd6104",
+      "title": "80 người Hàn Quốc 'mất dấu vết' khi đến Campuchia",
+      "link": "https://vnexpress.net/80-nguoi-han-quoc-mat-dau-vet-khi-den-campuchia-4951334.html",
+      "summary": "Hàn Quốc cho hay khoảng 80 công dân nước này chưa xác định được tung tích sau khi đến Campuchia, có thể đang bị nhốt hoặc làm việc trong các trung tâm lừa đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T14:00:00+07:00",
+      "fetched": "2025-10-14T21:17:27.863919+07:00"
+    },
+    {
+      "id": "5d7ac25cae5bd6934d23813ace3e920d",
+      "title": "Bí thư Trần Lưu Quang: TP.HCM sẽ chắt chiu để làm đường sắt đô thị",
+      "link": "https://thanhnien.vn/bi-thu-tran-luu-quang-tphcm-se-chat-chiu-de-lam-duong-sat-do-thi-185251014202722608.htm",
+      "summary": "Bí thư Trần Lưu Quang chia sẻ: \"Trong nhiệm kỳ này phải phát triển mạnh mẽ, tối đa, chắt chiu để làm đường sắt đô thị vì đây là giải pháp duy nhất giải quyết kẹt xe\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:56:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647420+07:00"
+    },
+    {
+      "id": "915bdd40da44dcb9305dd3922d7cbdf5",
+      "title": "Tân Hoa hậu Du lịch Lào 2025 và hành trình trở thành tân cử nhân dược Trường ĐH Nguyễn Tất Thành",
+      "link": "https://thanhnien.vn/tan-hoa-hau-du-lich-lao-2025-va-hanh-trinh-tro-thanh-tan-cu-nhan-duoc-truong-dh-nguyen-tat-thanh-185251014181948832.htm",
+      "summary": "Sithongchanh Phonethita, cựu sinh viên khoa Dược – Trường ĐH Nguyễn Tất Thành cũng là tân Hoa hậu Du lịch Lào 2025 đã chính thức nhận bằng cử nhân, khép lại một hành trình đầy nỗ lực và tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:52:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647570+07:00"
+    },
+    {
+      "id": "ff93b401e9b317ea7ff17a918ee68ef7",
+      "title": "Instagram tung cơ chế bảo vệ trẻ em theo kiểu 'PG-13' của phim",
+      "link": "https://thanhnien.vn/instagram-tung-co-che-bao-ve-tre-em-theo-kieu-pg-13-cua-phim-185251014204314356.htm",
+      "summary": "Mạng xã hội Instagram vừa công bố triển khai hệ thống an toàn mới, nhằm tăng cường kiểm soát nội dung hiển thị trên tài khoản của trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:46:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647699+07:00"
+    },
+    {
+      "id": "0a521f0920554595292cc40438393cff",
+      "title": "Rùng mình thủ đoạn làm nước Lavie giả: Gom vỏ bình trôi nổi, bơm nước máy vào",
+      "link": "https://thanhnien.vn/rung-minh-thu-doan-lam-nuoc-lavie-gia-gom-vo-binh-troi-noi-bom-nuoc-may-vao-185251014202516496.htm",
+      "summary": "Vỏ bình Lavie được chủ xưởng thu gom trôi nổi trên địa bàn Hà Nội, sau đó vận chuyển, tập kết về xưởng, rồi chỉ đạo nhân viên sục, rửa, làm sạch, để khô ráo rồi bơm trực tiếp nước máy vào bình nước Lavie giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:29:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647826+07:00"
+    },
+    {
       "id": "c3d8a06dd90b5e11f2dfa305250cb125",
       "title": "Mali đáp trả Mỹ, yêu cầu người Mỹ phải cọc 10.000 USD để xin visa vào Mali",
       "link": "https://tuoitre.vn/mali-dap-tra-my-yeu-cau-nguoi-my-phai-coc-10-000-usd-de-xin-visa-vao-mali-2025101410592753.htm",
@@ -603,6 +813,196 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T13:25:11.910772+07:00"
     },
     {
+      "id": "7412319a1e94d3f9423b756a6e8fbba2",
+      "title": "Việt Nam hoan nghênh thỏa thuận giữa Israel và lực lượng Hamas",
+      "link": "https://thanhnien.vn/viet-nam-hoan-nghenh-thoa-thuan-giua-israel-va-luc-luong-hamas-185251014195927116.htm",
+      "summary": "Việt Nam hoan nghênh thỏa thuận giữa Israel và lực lượng Hamas nhằm sớm chấm dứt cuộc xung đột hiện nay tại Dải Gaza và đánh giá cao nỗ lực trung gian, hòa giải của các nước đã giúp đạt được thỏa thuận này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:25:00+07:00",
+      "fetched": "2025-10-14T21:17:25.647953+07:00"
+    },
+    {
+      "id": "3e3e467b8ea8fd0d929ef0da53aab3de",
+      "title": "Thủ tướng: Xây trường nội trú bằng tất cả lòng yêu thương dành cho học sinh",
+      "link": "https://thanhnien.vn/thu-tuong-xay-truong-noi-tru-bang-tat-ca-long-yeu-thuong-danh-cho-hoc-sinh-185251014193447943.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu tỉnh Thanh Hóa nhanh chóng xây dựng trường nội trú cho học sinh vùng biên giới bằng tất cả lòng yêu thương, sự trong sáng để gieo chữ cho học sinh miền biên viễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:20:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648081+07:00"
+    },
+    {
+      "id": "ac307a06ba411dc5a2219a9568d06438",
+      "title": "Châu Âu tìm cách giúp Ukraine bằng tài sản đóng băng của Nga",
+      "link": "https://vnexpress.net/chau-au-tim-cach-giup-ukraine-bang-tai-san-dong-bang-cua-nga-4946498.html",
+      "summary": "EU vạch kế hoạch mới để biến tài sản đóng băng của Nga thành khoản vay bồi thường cho Ukraine, nhưng không khiến Kiev mang gánh nặng trả nợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:12:06+07:00",
+      "fetched": "2025-10-14T21:17:22.524296+07:00"
+    },
+    {
+      "id": "ac307a06ba411dc5a2219a9568d06438",
+      "title": "Châu Âu tìm cách giúp Ukraine bằng tài sản đóng băng của Nga",
+      "link": "https://vnexpress.net/chau-au-tim-cach-giup-ukraine-bang-tai-san-dong-bang-cua-nga-4946498.html",
+      "summary": "EU vạch kế hoạch mới để biến tài sản đóng băng của Nga thành khoản vay bồi thường cho Ukraine, nhưng không khiến Kiev mang gánh nặng trả nợ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T13:12:06+07:00",
+      "fetched": "2025-10-14T21:17:27.864075+07:00"
+    },
+    {
+      "id": "e516e2eaad419afe748b7668bec5dee9",
+      "title": "Omega-3 không chỉ tốt cho tim mạch mà còn giúp tăng sức mạnh khi tập luyện",
+      "link": "https://thanhnien.vn/omega-3-khong-chi-tot-cho-tim-mach-ma-con-giup-tang-suc-manh-khi-tap-luyen-185251014192259415.htm",
+      "summary": "Một nghiên cứu mới cho thấy việc bổ sung omega-3, loại axit béo có trong dầu cá có thể mang lại nhiều lợi ích cho người thường xuyên tập luyện thể thao, đặc biệt là các bài tập tăng sức mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:08:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648205+07:00"
+    },
+    {
+      "id": "71078697e1418396d549eb56603e9d5e",
+      "title": "Shark Bình và loạt lùm xùm của những 'cá mập' trong 'Thương vụ bạc tỉ'",
+      "link": "https://thanhnien.vn/shark-binh-va-loat-lum-xum-cua-nhung-ca-map-trong-thuong-vu-bac-ti-185251014193750843.htm",
+      "summary": "Không chỉ thu hút khán giả bởi những màn gọi vốn đầy kịch tính của các start-up, chương trình 'Thương vụ bạc tỉ' (Shark Tank Vietnam) còn liên tục là tâm điểm chú ý nhờ những câu chuyện và biến cố xoay quanh dàn 'Cá Mập'. Gần đây, thông tin về việc Shark Bình bị bắt đã thực sự làm cư dân mạng 'dậy s...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:07:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648332+07:00"
+    },
+    {
+      "id": "bcbc73d7deca8f0c1777092c5af0aaa7",
+      "title": "Đà Nẵng chi gần 10.000 tỷ đồng phát triển du lịch đường thủy",
+      "link": "https://vnexpress.net/da-nang-chi-gan-10-000-ty-dong-phat-trien-du-lich-duong-thuy-4951380.html",
+      "summary": "Thành phố kỳ vọng dự án sẽ tạo sản phẩm du lịch đặc trưng, hình thành mạng lưới bến thuỷ, phương tiện, không gian du lịch hiện đại dọc các con sông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:05:58+07:00",
+      "fetched": "2025-10-14T21:17:22.524451+07:00"
+    },
+    {
+      "id": "7436d12915acd3e1bd3986b28f15be6c",
+      "title": "Top 3 kem chống nắng trang điểm thoa da đẹp như dùng cushion ‘nhắm mắt mua luôn’",
+      "link": "https://thanhnien.vn/top-3-kem-chong-nang-trang-diem-thoa-da-dep-nhu-dung-cushion-nham-mat-mua-luon-185251014200229734.htm",
+      "summary": "Kem chống nắng trang điểm nào có thể tích hợp vừa chống nắng bảo vệ da tối ưu vừa dưỡng trắng, che khuyết điểm cho lớp finish căng mượt, trắng hồng tự nhiên. Đặc biệt, bám lâu không lo dính nước hay đổ mồ hôi và không tạo vệt trắng, không vón cục hay bóng nhờn. Không nên bỏ qua top 3 kem chống nắng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:04:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648458+07:00"
+    },
+    {
+      "id": "bb8fd734b52d779aa5d7e2fc11c50a94",
+      "title": "'Ma men' lái ô tô nổ 2 lốp đi ngược chiều ở Hà Nội",
+      "link": "https://thanhnien.vn/ma-men-lai-o-to-no-2-lop-di-nguoc-chieu-o-ha-noi-185251014194423267.htm",
+      "summary": "Xe ô tô đã nổ 2 lốp nhưng tài xế vẫn lái đi ngược chiều trên cầu vượt Mai Dịch (Hà Nội). Làm việc với tài xế, CSGT xác định người này vi phạm nồng độ cồn mức rất cao, gấp hơn 3 lần mức 'kịch khung'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:02:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648598+07:00"
+    },
+    {
+      "id": "e304eb095dd04dcda3aaf8ce7525a58a",
+      "title": "Phan Như Thảo tiết lộ cuộc sống bên đại gia hơn 26 tuổi",
+      "link": "https://thanhnien.vn/phan-nhu-thao-tiet-lo-cuoc-song-ben-dai-gia-hon-26-tuoi-185251014072320865.htm",
+      "summary": "Từng là người mẫu, diễn viên hoạt động năng nổ, Phan Như Thảo dần rút khỏi làng giải trí khi kết hôn với doanh nhân Đức An hơn cô 26 tuổi. Chịu nhiều đàm tiếu khi đến với nhau, sau 10 năm, Phan Như Thảo cho biết cả hai vẫn hạnh phúc viên mãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:00:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648730+07:00"
+    },
+    {
+      "id": "bdcb95cc099890a7fa95a9a3df97516d",
+      "title": "Sở hữu vẻ thần thái đắt giá nhất với phong cách hiện đại sang trọng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/so-huu-ve-than-thai-dat-gia-nhat-voi-phong-cach-hien-dai-sang-trong-185251013222429896.htm",
+      "summary": "Phong cách modern chic - sang trọng và hiện đại giúp các nữ tín đồ khẳng định vị thế bằng sự tinh giản đầy chủ đích qua vẻ chỉn chu từ từng đường cắt, gam màu đến các phụ kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:00:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648857+07:00"
+    },
+    {
+      "id": "4067890da844ccec64ca8e6e162600e5",
+      "title": "Người Israel, Palestine vỡ òa chào đón con tin, tù nhân trở về",
+      "link": "https://thanhnien.vn/nguoi-israel-palestine-vo-oa-chao-don-con-tin-tu-nhan-tro-ve-185251014193306716.htm",
+      "summary": "Hàng ngàn người đã tụ tập ở các thành phố tại Israel, cũng như ở Dải Gaza, để đón chào những người được thả theo thỏa thuận ngừng bắn và trao đổi con tin - tù nhân giữa Hamas và Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:58:00+07:00",
+      "fetched": "2025-10-14T21:17:25.648981+07:00"
+    },
+    {
+      "id": "680760e7ade04dd0a09901cc4f01e17b",
+      "title": "Đạo diễn tiết lộ lý do mời Đỗ Thị Hải Yến đóng Dương Vân Nga",
+      "link": "https://thanhnien.vn/dao-dien-tiet-lo-ly-do-moi-do-thi-hai-yen-dong-duong-van-nga-185251014185046953.htm",
+      "summary": "Bộ phim 'Hộ linh tráng sĩ - Bí ẩn mộ vua Đinh' do đạo diễn Nguyễn Phan Quang Bình cầm trịch đang khởi quay. Vai Hoàng hậu Dương Vân Nga trong phim được giao cho diễn viên Đỗ Thị Hải Yến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:57:00+07:00",
+      "fetched": "2025-10-14T21:17:25.649108+07:00"
+    },
+    {
+      "id": "8a32bf513708a88e6355239299c49cb6",
+      "title": "Nhật Bản lần đầu thắng Brazil",
+      "link": "https://vnexpress.net/nhat-ban-lan-dau-thang-brazil-4951395.html",
+      "summary": "Bị dẫn 0-2 ở hiệp một, Nhật Bản ghi liền ba bàn trong hiệp hai để ngược dòng hạ đội khách Brazil 3-2 ở trận giao hữu ngày 14/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:56:50+07:00",
+      "fetched": "2025-10-14T21:17:22.524626+07:00"
+    },
+    {
+      "id": "8a32bf513708a88e6355239299c49cb6",
+      "title": "Nhật Bản lần đầu thắng Brazil",
+      "link": "https://vnexpress.net/nhat-ban-lan-dau-thang-brazil-4951395.html",
+      "summary": "Bị dẫn 0-2 ở hiệp một, Nhật Bản ghi liền ba bàn trong hiệp hai để ngược dòng hạ đội khách Brazil 3-2 ở trận giao hữu ngày 14/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T12:56:50+07:00",
+      "fetched": "2025-10-14T21:17:33.106286+07:00"
+    },
+    {
+      "id": "0b73a34e7c3b954caace887c2c0b806f",
+      "title": "Chủ tịch Quốc hội: Cần học kinh nghiệm quốc tế để chống ngập đô thị",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-can-hoc-kinh-nghiem-quoc-te-de-chong-ngap-do-thi-4951379.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị Chính phủ học mô hình chống ngập của Hà Lan để giải quyết tình trạng ngập kéo dài ở Hà Nội, TP HCM và nhiều đô thị lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:53:23+07:00",
+      "fetched": "2025-10-14T21:17:22.524765+07:00"
+    },
+    {
+      "id": "401ffb0bdd7d39cdad853296bcc8bcc3",
+      "title": "Trường mua 1.300 suất ăn cho học sinh ở lại vì mưa lụt",
+      "link": "https://vnexpress.net/truong-mua-1-300-suat-an-cho-hoc-sinh-o-lai-vi-mua-lut-4951388.html",
+      "summary": "Ban giám hiệu trường THCS Hồng Bàng đã chuẩn bị 1.300 suất ăn để học sinh không phải về nhà buổi trưa trong mưa lụt, giao thông hỗn loạn,.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:43:06+07:00",
+      "fetched": "2025-10-14T21:17:22.524897+07:00"
+    },
+    {
+      "id": "959030c7018a87393d9f7357c1080435",
+      "title": "ĐH Bách khoa Hà Nội dự kiến 30.000 người học tại phân hiệu Hưng Yên",
+      "link": "https://vnexpress.net/dh-bach-khoa-ha-noi-du-kien-30-000-nguoi-hoc-tai-phan-hieu-hung-yen-4951159.html",
+      "summary": "Cơ sở 2 Đại học Bách khoa Hà Nội ở tỉnh Hưng Yên sẽ là trung tâm đào tạo, ứng dụng công nghệ hàng đầu khu vực với gần 30.000 người học và cán bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:42:35+07:00",
+      "fetched": "2025-10-14T21:17:22.525071+07:00"
+    },
+    {
+      "id": "e8d1c716f5470fc885923ea90b7840d6",
+      "title": "Cung văn hóa thiếu nhi hiện đại nhất Thanh Hóa hoàn thành",
+      "link": "https://vnexpress.net/cung-van-hoa-thieu-nhi-hien-dai-nhat-thanh-hoa-hoan-thanh-4951300.html",
+      "summary": "Cung văn hóa thiếu nhi và Trung tâm thể dục thể thao Hạc Thành rộng hơn 4 ha, vốn đầu tư gần 250 tỷ đồng đi vào vận hành sau hơn 15 tháng thi công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:40:00+07:00",
+      "fetched": "2025-10-14T21:17:22.525246+07:00"
+    },
+    {
       "id": "a1e6d680e38cace45bf033ea9868ece2",
       "title": "3 triệu bình chữa cháy giả được sản xuất, tiêu thụ thế nào?",
       "link": "https://thanhnien.vn/3-trieu-binh-chua-chay-gia-duoc-san-xuat-tieu-thu-the-nao-185251014175024364.htm",
@@ -613,6 +1013,26 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T19:36:17.628350+07:00"
     },
     {
+      "id": "72315ecad6714d722283701e2b0ecfb4",
+      "title": "Thắng Đài Loan 6-1, Thái Lan lên đầu bảng vòng loại cuối Asian Cup 2027",
+      "link": "https://vnexpress.net/thang-dai-loan-6-1-thai-lan-len-dau-bang-vong-loai-cuoi-asian-cup-2027-4951389.html",
+      "summary": "Thái Lan thắng đậm Đài Loan 6-1 ở lượt bốn để vươn lên dẫn đầu bảng D vòng loại cuối Asian Cup 2027, tối 14/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:28:43+07:00",
+      "fetched": "2025-10-14T21:17:22.525381+07:00"
+    },
+    {
+      "id": "72315ecad6714d722283701e2b0ecfb4",
+      "title": "Thắng Đài Loan 6-1, Thái Lan lên đầu bảng vòng loại cuối Asian Cup 2027",
+      "link": "https://vnexpress.net/thang-dai-loan-6-1-thai-lan-len-dau-bang-vong-loai-cuoi-asian-cup-2027-4951389.html",
+      "summary": "Thái Lan thắng đậm Đài Loan 6-1 ở lượt bốn để vươn lên dẫn đầu bảng D vòng loại cuối Asian Cup 2027, tối 14/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T12:28:43+07:00",
+      "fetched": "2025-10-14T21:17:33.106438+07:00"
+    },
+    {
       "id": "a60d86ea1efde1a8bcaf5ce30bb10e75",
       "title": "Việt Nam là thị trường trọng điểm của Korean Air",
       "link": "https://thanhnien.vn/viet-nam-la-thi-truong-trong-diem-cua-korean-air-185251014184754161.htm",
@@ -621,6 +1041,26 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T12:28:00+07:00",
       "fetched": "2025-10-14T19:36:17.628531+07:00"
+    },
+    {
+      "id": "a7d08f3a1ae9149267c23949463b7e6e",
+      "title": "VNPT và Qualcomm ra mắt trung tâm nghiên cứu, phát triển công nghệ lõi",
+      "link": "https://vnexpress.net/vnpt-va-qualcomm-ra-mat-trung-tam-nghien-cuu-phat-trien-cong-nghe-loi-4951352.html",
+      "summary": "Trung tâm Xuất sắc VNPT - Qualcomm (VQEC) là nơi các kỹ sư và chuyên gia của hai bên cùng nghiên cứu, phát triển công nghệ lõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:27:29+07:00",
+      "fetched": "2025-10-14T21:17:22.525524+07:00"
+    },
+    {
+      "id": "a7d08f3a1ae9149267c23949463b7e6e",
+      "title": "VNPT và Qualcomm ra mắt trung tâm nghiên cứu, phát triển công nghệ lõi",
+      "link": "https://vnexpress.net/vnpt-va-qualcomm-ra-mat-trung-tam-nghien-cuu-phat-trien-cong-nghe-loi-4951352.html",
+      "summary": "Trung tâm Xuất sắc VNPT - Qualcomm (VQEC) là nơi các kỹ sư và chuyên gia của hai bên cùng nghiên cứu, phát triển công nghệ lõi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T12:27:29+07:00",
+      "fetched": "2025-10-14T21:17:32.206089+07:00"
     },
     {
       "id": "7465a567329faf68ba2e18f3e715aff4",
@@ -641,6 +1081,16 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T12:21:00+07:00",
       "fetched": "2025-10-14T19:36:17.628878+07:00"
+    },
+    {
+      "id": "a3f189deb095302a43e8a4190277fdc1",
+      "title": "Hoài Lâm gây xúc động khi hát về tình mẹ",
+      "link": "https://vnexpress.net/hoai-lam-gay-xuc-dong-khi-hat-ve-tinh-me-4951345.html",
+      "summary": "Ca sĩ Hoài Lâm khiến khán giả xúc động khi thể hiện nhạc phẩm \"Má thương con hoài\" cùng nghệ sĩ Thanh Hằng ở sự kiện, chiều 14/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T12:19:18+07:00",
+      "fetched": "2025-10-14T21:17:22.525657+07:00"
     },
     {
       "id": "c37ada12b2152515e90908d0331a200d",
