@@ -1,7 +1,157 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T08:13:33.209000+07:00",
+  "lastUpdated": "2025-10-14T09:58:55.414928+07:00",
   "articles": [
+    {
+      "id": "c7e524a2c4751350c121c11088ff705c",
+      "title": "Giáo sư Lâm Quang Thiệp qua đời ở tuổi 86",
+      "link": "https://tuoitre.vn/giao-su-lam-quang-thiep-qua-doi-o-tuoi-86-2025101407530832.htm",
+      "summary": "Giáo sư, tiến sĩ khoa học Lâm Quang Thiệp - nguyên Vụ trưởng Vụ Giáo dục đại học (Bộ Giáo dục và Đào tạo) - đã từ trần vào tối 13-10, hưởng thọ 86 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.681449+07:00",
+      "fetched": "2025-10-14T09:58:48.681545+07:00"
+    },
+    {
+      "id": "4d25048b71e8022944fe054816c0a927",
+      "title": "CEO Nvidia viết thư xúc động vì nhân viên người Israel được Hamas trả tự do",
+      "link": "https://tuoitre.vn/ceo-nvidia-viet-thu-xuc-dong-vi-nhan-vien-nguoi-israel-duoc-hamas-tra-tu-do-20251014074753448.htm",
+      "summary": "Anh Avinatan Or, kỹ sư của Nvidia tại Israel, đã được trả tự do sau hai năm bị Hamas giam giữ. CEO Jensen Huang đã chia sẻ niềm vui này tới toàn thể nhân viên Nvidia vào ngày 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.681345+07:00",
+      "fetched": "2025-10-14T09:58:48.681440+07:00"
+    },
+    {
+      "id": "1d5aad87a41702be46b58d68402fed89",
+      "title": "Nữ sinh viên núi rừng Ia Pia chăm bò, nuôi tằm, gói bánh thuê… kiếm tiền đi học",
+      "link": "https://tuoitre.vn/nu-sinh-vien-nui-rung-ia-pia-cham-bo-nuoi-tam-goi-banh-thue-kiem-tien-di-hoc-20251014075135468.htm",
+      "summary": "Vừa làm xong thủ tục nhập học vào ngành quản trị kinh doanh, Trường cao đẳng Công Thương Việt Nam, tân sinh viên Tôn Nữ Minh Châu vội bắt xe quay về nhà tại xã Ia Pia, Gia Lai, tranh thủ phụ giúp ba mẹ, bận rộn với... bò, với tằm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.681239+07:00",
+      "fetched": "2025-10-14T09:58:48.681336+07:00"
+    },
+    {
+      "id": "8b6bc2de8a331fb1af6868ff7de2c732",
+      "title": "Hướng dẫn mới: Chậm trình bảo hiểm y tế có được chi trả tiền khám chữa bệnh?",
+      "link": "https://tuoitre.vn/huong-dan-moi-cham-trinh-bao-hiem-y-te-co-duoc-chi-tra-tien-kham-chua-benh-20251010103324934.htm",
+      "summary": "Quên mang thẻ bảo hiểm y tế hoặc chậm xuất trình thẻ, với những trường hợp này, Bộ Y tế vừa có hướng dẫn mới về chi trả khi khám chữa bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.681134+07:00",
+      "fetched": "2025-10-14T09:58:48.681230+07:00"
+    },
+    {
+      "id": "e64f447845efe53c67c7a9e7598510cc",
+      "title": "Gia đình bệnh nhân nghi bác sĩ tắc trách, bệnh viện nói chỉ thiếu sót khi in kết quả ra viện",
+      "link": "https://tuoitre.vn/gia-dinh-benh-nhan-nghi-bac-si-tac-trach-benh-vien-noi-chi-thieu-sot-khi-in-ket-qua-ra-vien-20251014072742438.htm",
+      "summary": "Người nhà bệnh nhân cho rằng bác sĩ tắc trách khi điều trị sau tai nạn giao thông, còn lãnh đạo bệnh viện khẳng định đó chỉ là thiếu sót kỹ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.681029+07:00",
+      "fetched": "2025-10-14T09:58:48.681125+07:00"
+    },
+    {
+      "id": "2222719cc2be40d2eb601bc10b0bad92",
+      "title": "Hà Nội có nơi đang mưa to, cảnh báo ngập úng nhiều tuyến phố",
+      "link": "https://tuoitre.vn/ha-noi-co-noi-dang-mua-to-canh-bao-ngap-ung-nhieu-tuyen-pho-20251014075847559.htm",
+      "summary": "Sáng 14-10, khu vực thành phố Hà Nội đang có mưa, mưa vừa, có nơi mưa to. Cơ quan khí tượng cảnh báo ngập úng cục bộ cho nhiều tuyến phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680922+07:00",
+      "fetched": "2025-10-14T09:58:48.681019+07:00"
+    },
+    {
+      "id": "ba7d0b54a3d66351c514569ad0efeae7",
+      "title": "Tay vợt bóng bàn số 2 Trung Quốc thua sốc đối thủ 15 tuổi",
+      "link": "https://tuoitre.vn/tay-vot-bong-ban-so-2-trung-quoc-thua-soc-doi-thu-15-tuoi-20251014080228063.htm",
+      "summary": "Bất ngờ lớn đã xuất hiện tại Giải vô địch bóng bàn đồng đội châu Á, đang diễn ra tại Ấn Độ. Tay vợt số 2 của Trung Quốc là Lâm Thi Đống (Lin Shidong) phải nhận trận thua bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680816+07:00",
+      "fetched": "2025-10-14T09:58:48.680913+07:00"
+    },
+    {
+      "id": "7915cc87365e94baf7250786680f0827",
+      "title": "Vượt nghìn cây số 'cứu' xe cho bà con vùng lũ",
+      "link": "https://tuoitre.vn/vuot-nghin-cay-so-cuu-xe-cho-ba-con-vung-lu-20251014083628981.htm",
+      "summary": "Hơn 100 thành viên Hội Kỹ thuật xe máy Sài Gòn vượt cả nghìn cây số đến với Thái Nguyên để sửa xe miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680696+07:00",
+      "fetched": "2025-10-14T09:58:48.680807+07:00"
+    },
+    {
+      "id": "53d8c179d887f4a968b6b9da7d361d9e",
+      "title": "Trung Quốc:ô tô gặp tai nạn rồi bốc cháy, không thể phá cửa cứu tài xế, nghi do tay nắm cửa dạng ẩn",
+      "link": "https://tuoitre.vn/trung-quoc-o-to-gap-tai-nan-roi-boc-chay-khong-the-pha-cua-cuu-tai-xe-nghi-do-tay-nam-cua-dang-an-20251013225555124.htm",
+      "summary": "Một vụ tai nạn giao thông nghiêm trọng đã thu hút sự chú ý lớn từ dư luận và gây ra nhiều tranh cãi xung quanh mức độ an toàn của các tính năng hiện đại như tay nắm cửa dạng ẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680578+07:00",
+      "fetched": "2025-10-14T09:58:48.680687+07:00"
+    },
+    {
+      "id": "b616eea887e8e0fa7005a643ce124dec",
+      "title": "OpenAI và 'canh bạc tỉ đô' biến ChatGPT thành hệ điều hành toàn cầu",
+      "link": "https://tuoitre.vn/openai-va-canh-bac-ti-do-bien-chatgpt-thanh-he-dieu-hanh-toan-cau-20251013171238161.htm",
+      "summary": "Mục tiêu lớn nhất của OpenAI là đưa ChatGPT vượt ra khỏi vai trò chatbot cơ bản để trở thành cổng kết nối chính của người dùng với internet, tương tự vai trò của iOS hay Android.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680471+07:00",
+      "fetched": "2025-10-14T09:58:48.680568+07:00"
+    },
+    {
+      "id": "8b9e42493f94250f66aca4408419e9b2",
+      "title": "Trao huy hiệu Tuổi trẻ dũng cảm cho thanh niên cứu cháu bé 7 tuổi bị lũ cuốn",
+      "link": "https://tuoitre.vn/trao-huy-hieu-tuoi-tre-dung-cam-cho-thanh-nien-cuu-chau-be-7-tuoi-bi-lu-cuon-2025101408311938.htm",
+      "summary": "Nghe tiếng kêu cứu có cháu bé bị lũ cuốn trôi, anh Hồ Quốc Hiệu đã không lao xuống dòng nước xiết kịp thời ứng cứu cháu bé an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680364+07:00",
+      "fetched": "2025-10-14T09:58:48.680462+07:00"
+    },
+    {
+      "id": "242daf170e42508894a330967074a119",
+      "title": "Doanh nhân hợp sức, công - tư đồng kiến quốc",
+      "link": "https://tuoitre.vn/doanh-nhan-hop-suc-cong-tu-dong-kien-quoc-20251014080823794.htm",
+      "summary": "Nghị quyết 68 đã khơi dậy mạnh mẽ tinh thần dân tộc và khát vọng cống hiến trong cộng đồng doanh nghiệp tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680255+07:00",
+      "fetched": "2025-10-14T09:58:48.680355+07:00"
+    },
+    {
+      "id": "00fcaaef3a942f1b3888735a6ace1e58",
+      "title": "Tổng Bí thư Tô Lâm và các lãnh đạo tham quan triển lãm thiết bị công nghệ, thành tựu báo chí",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-va-cac-lanh-dao-tham-quan-trien-lam-thiet-bi-cong-nghe-thanh-tuu-bao-chi-20251014074629239.htm",
+      "summary": "Sáng 14-10, Tổng Bí thư Tô Lâm cùng các lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước tham quan không gian triển lãm thiết bị công nghệ chiến lược và triển lãm thành tựu báo chí - xuất bản trong không gian Đại hội Đảng bộ TP.HCM lần I.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680143+07:00",
+      "fetched": "2025-10-14T09:58:48.680245+07:00"
+    },
+    {
+      "id": "501e2eca2c06d226fe6ded289063ee03",
+      "title": "Khai mạc Đại hội đại biểu Đảng bộ TP.HCM lần I, nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/khai-mac-dai-hoi-dai-bieu-dang-bo-tp-hcm-lan-i-nhiem-ky-2025-2030-20251014084316236.htm",
+      "summary": "Sáng nay 14-10, Đại hội đại biểu Đảng bộ TP.HCM lần I, nhiệm kỳ 2025 - 2030 chính thức khai mạc. Tổng Bí thư Tô Lâm dự và có phát biểu chỉ đạo đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.680021+07:00",
+      "fetched": "2025-10-14T09:58:48.680133+07:00"
+    },
+    {
+      "id": "749f02523c1e9ae54048d100285ad819",
+      "title": "Nobel Kinh tế 2025 gợi mở con đường phát triển cho Việt Nam",
+      "link": "https://tuoitre.vn/nobel-kinh-te-2025-goi-mo-con-duong-phat-trien-cho-viet-nam-20251014082651804.htm",
+      "summary": "Giải Nobel Kinh tế 2025 được trao cho bộ ba Joel Mokyr, Philippe Aghion và Peter Howitt vì đã giúp nhân loại hiểu rõ vì sao đổi mới có thể giúp kinh tế không ngừng lớn mạnh và vì sao những xã hội dám \"tháo cũ thay mới\" mới có thể tiến nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:58:48.679811+07:00",
+      "fetched": "2025-10-14T09:58:48.680008+07:00"
+    },
     {
       "id": "d49f8313ee0f2e1ed7276c821df7b406",
       "title": "Isak, Gyokeres sắp phải ở nhà xem World Cup 2026",
@@ -161,6 +311,326 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T03:18:13.929241+07:00",
       "fetched": "2025-10-14T03:18:13.929449+07:00"
+    },
+    {
+      "id": "332a8f405fb6e914324b5725a5c1216d",
+      "title": "Lãnh đạo Đảng, Nhà nước tham quan gian hàng Báo Thanh Niên tại ĐH Đảng bộ TP.HCM",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-tham-quan-gian-hang-bao-thanh-nien-tai-dh-dang-bo-tphcm-185251013201032321.htm",
+      "summary": "Trước khi bắt đầu phiên chính thức Đại hội đại biểu Đảng bộ TP.HCM, các lãnh đạo Đảng, Nhà nước đã tham quan khu triển lãm báo chí - xuất bản, trong đó có gian hàng Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:50:00+07:00",
+      "fetched": "2025-10-14T09:58:47.304632+07:00"
+    },
+    {
+      "id": "533a3c4a10001a263eb62e7e0faedde8",
+      "title": "Bóng đá Malaysia rối ren: HLV Cklamovski 'quay xe', chuyên gia yêu cầu FAM lên tiếng",
+      "link": "https://thanhnien.vn/bong-da-malaysia-roi-ren-hlv-cklamovski-chi-trich-fam-roi-quay-xe-chuyen-gia-doi-duoi-185251014093415892.htm",
+      "summary": "Nội bộ bóng đá Malaysia đang rối ren khi HLV Peter Cklamovski chỉ trích Liên đoàn Bóng đá Malaysia (FAM) rồi lại... xin lỗi, nhưng chưa thể dập đi cơn bão dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:41:00+07:00",
+      "fetched": "2025-10-14T09:58:47.304793+07:00"
+    },
+    {
+      "id": "952490f74dc0dcee34fe987eff5cbc18",
+      "title": "Kiến nghị gỡ vướng cách tính tiền sử dụng đất cho doanh nghiệp",
+      "link": "https://thanhnien.vn/kien-nghi-go-vuong-cach-tinh-tien-su-dung-dat-cho-doanh-nghiep-185251014080235093.htm",
+      "summary": "Hiệp hội Bất động sản TP.HCM (HoREA) kiến nghị, việc tính tiền sử dụng đất, tiền thuê đất được xác định tại thời điểm ký hợp đồng BT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:41:00+07:00",
+      "fetched": "2025-10-14T09:58:47.304927+07:00"
+    },
+    {
+      "id": "766332e69253660fbca33cdcadcb225c",
+      "title": "Chuyên gia gợi ý thời điểm tốt nhất để uống dầu cá omega-3",
+      "link": "https://thanhnien.vn/chuyen-gia-goi-y-thoi-diem-tot-nhat-de-uong-dau-ca-omega-3-185251013213948028.htm",
+      "summary": "Dầu cá omega-3 đóng vai trò quan trọng trong sức khỏe, từ giảm viêm, hạ huyết áp, giảm mức triglyceride, bảo vệ sức khỏe tim mạch, đến giảm viêm khớp, hỗ trợ điều trị ung thư đại trực tràng, cải thiện tâm trạng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:24:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305057+07:00"
+    },
+    {
+      "id": "0ff8261560df6794f5549983ee0a6af1",
+      "title": "Chữ 'C' có ý nghĩa gì trong USB-C",
+      "link": "https://thanhnien.vn/chu-c-co-y-nghia-gi-trong-usb-c-185251013130907859.htm",
+      "summary": "Nếu từng cắm cáp vào điện thoại hoặc máy tính xách tay và tự hỏi tại sao nó lại được gọi là USB-C, bạn không phải là người duy nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:21:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305183+07:00"
+    },
+    {
+      "id": "51d6501df44681f1a170021975535a55",
+      "title": "Hợp đồng bảo hiểm 'hiểu chết liền'",
+      "link": "https://vnexpress.net/bao-hiem-nhan-tho-bao-hiem-suc-khoe-bao-hiem-phi-nhan-tho-bao-hiem-trung-hop-dong-bao-hiem-hieu-chet-lien-4950997.html",
+      "summary": "Cầm hợp đồng bảo hiểm trên tay, tôi vừa đọc vừa cố giải mã mớ bòng bong thuật ngữ, có lúc tưởng đã hiểu, nhưng càng lúc càng lạc đề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:33+07:00",
+      "fetched": "2025-10-14T09:58:40.113114+07:00"
+    },
+    {
+      "id": "1f7f57a7259e572c9019aa5b1f85a629",
+      "title": "Chị gái em bình dị, ưa nhìn và giàu lòng trắc ẩn",
+      "link": "https://vnexpress.net/chi-gai-em-binh-di-ua-nhin-va-giau-long-trac-an-4950851.html",
+      "summary": "Anh yên tâm là không cần lo lắng nhà ngoại nhiề, ba mẹ chỉ mong chị xây dựng gia đình nhỏ hạnh phúc và ổn định là yên tâm rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:18+07:00",
+      "fetched": "2025-10-14T09:58:40.113216+07:00"
+    },
+    {
+      "id": "786d694c52b96c67c5cb406911808dc5",
+      "title": "Sau Cape Verde, những đội nào sẽ giành vé dự World Cup 2026?",
+      "link": "https://thanhnien.vn/sau-cape-verde-nhung-doi-nao-se-gianh-ve-du-world-cup-2026-185251014091052117.htm",
+      "summary": "Ngày 14.10, Cape Verde trở thành đội thứ 22 giành quyền dự World Cup 2026, đây là một trong ba đội lần đầu tiên góp mặt ngày hội bóng đá thế giới và là đội thứ hai có số dân ít nhất sau Iceland vào vòng chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305311+07:00"
+    },
+    {
+      "id": "a60c912e8053a0434f42f870425e38ae",
+      "title": "Chàng trai sống đơn giản, đã yêu là thật lòng",
+      "link": "https://vnexpress.net/chang-trai-song-don-gian-da-yeu-la-that-long-4950848.html",
+      "summary": "Không cần phải quá hoàn hảo, chỉ cần đủ chân thành để cùng nhau đi qua những ngày bình thường mà thấy vui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:08:18+07:00",
+      "fetched": "2025-10-14T09:58:40.113299+07:00"
+    },
+    {
+      "id": "3b1e8942e5f8dae64625061ac3715b9f",
+      "title": "Walmart chi 300 triệu USD xây trung tâm mới ở Bắc Carolina",
+      "link": "https://vnexpress.net/walmart-chi-300-trieu-usd-xay-trung-tam-moi-o-bac-carolina-4947881.html",
+      "summary": "Tập đoàn bán lẻ lớn nhất nước Mỹ sẽ xây dựng trung tâm rộng hơn 110.000 m2, chuyên xử lý các đơn hàng cồng kềnh, dự kiến tạo việc làm cho hơn 300 lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:07:12+07:00",
+      "fetched": "2025-10-14T09:58:40.113441+07:00"
+    },
+    {
+      "id": "6573cc2e4d63b36558190a55461944c7",
+      "title": "Rung động trước một Việt Nam tươi đẹp",
+      "link": "https://thanhnien.vn/rung-dong-truoc-mot-viet-nam-tuoi-dep-185251013135548934.htm",
+      "summary": "Truyền thông quốc tế và nhiều giải thưởng thế giới về du lịch trong nhiều năm qua không tiếc lời ca ngợi các điểm đến của Việt Nam, góp phần quan trọng trong quảng bá hình ảnh đất nước tươi đẹp ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:02:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305438+07:00"
+    },
+    {
+      "id": "e7986970c8f38ab5d40a495a563a94c2",
+      "title": "Giá vàng hôm nay 14.10.2025: Tăng vọt 2,8 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-14102025-tang-vot-28-trieu-dong-luong-185251014084623115.htm",
+      "summary": "Giá vàng miếng SJC tăng mạnh 2,3 - 2,8 triệu đồng mỗi lượng, lên mức cao kỷ lục 146,4 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:01:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305564+07:00"
+    },
+    {
+      "id": "85c20586982b649be4e0b71b6e146a29",
+      "title": "Giá USD hôm nay 14.10.2025: Ngân hàng tăng mạnh chiều mua",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-14102025-ngan-hang-tang-manh-chieu-mua-185251014075650591.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại tăng mạnh ở chiều mua vào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:01:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305689+07:00"
+    },
+    {
+      "id": "68d1478d123f6a2971cbea052cbbdff5",
+      "title": "Nhiều công dân Hàn Quốc mất tích ở Campuchia",
+      "link": "https://vnexpress.net/nhieu-cong-dan-han-quoc-mat-tich-o-campuchia-4950981.html",
+      "summary": "Hàn Quốc ghi nhận nhiều vụ công dân mất tích ở Campuchia, hầu hết bị bắt cóc tống tiền hoặc phải làm việc trong trung tâm lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:57+07:00",
+      "fetched": "2025-10-14T09:58:40.113579+07:00"
+    },
+    {
+      "id": "68d1478d123f6a2971cbea052cbbdff5",
+      "title": "Nhiều công dân Hàn Quốc mất tích ở Campuchia",
+      "link": "https://vnexpress.net/nhieu-cong-dan-han-quoc-mat-tich-o-campuchia-4950981.html",
+      "summary": "Hàn Quốc ghi nhận nhiều vụ công dân mất tích ở Campuchia, hầu hết bị bắt cóc tống tiền hoặc phải làm việc trong trung tâm lừa đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T02:00:57+07:00",
+      "fetched": "2025-10-14T09:58:49.598664+07:00"
+    },
+    {
+      "id": "7e38d96f2dd3777ff17c90b65cd1a0c7",
+      "title": "Chồng thờ ơ mặc tôi chạy vạy khắp nơi giữ cơ hội sống cho con",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-tho-o-mac-toi-chay-vay-khap-noi-giu-co-hoi-song-cho-con-4950916.html",
+      "summary": "Mỗi đêm, khi con ngủ, tôi ngồi một mình nhìn những tờ giấy viện phí, những hóa đơn vay mượn, nước mắt chỉ biết rơi trong lặng lẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.113733+07:00"
+    },
+    {
+      "id": "3c132d40e2bda9b4dc24622b620d70eb",
+      "title": "Bé chào đời nặng 5 kg nhờ 'gene trội' từ bố mẹ",
+      "link": "https://vnexpress.net/be-chao-doi-nang-5-kg-nho-gene-troi-tu-bo-me-4950987.html",
+      "summary": "Chị Linh sinh con đầu lòng nặng 5 kg, bác sĩ cho rằng bé hưởng \"gene trội\" từ bố mẹ bởi họ đều chào đời hơn 4,5 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.113870+07:00"
+    },
+    {
+      "id": "8e97e05dd69ac7d9952dff588f70feb8",
+      "title": "Người dân tăng cường tiêm vaccine cúm tại VNVC",
+      "link": "https://vnexpress.net/nguoi-dan-tang-cuong-tiem-vaccine-cum-tai-vnvc-4950766.html",
+      "summary": "Từ đầu tháng 10, số người tiêm vaccine cúm tại các chi nhánh VNVC ở TP HCM tăng 10% so với tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.114003+07:00"
+    },
+    {
+      "id": "b5250aad52fdd0ef511fdcc56699d0d8",
+      "title": "RMIT cùng chuyên gia thúc đẩy chăm sóc sức khỏe, an toàn học đường",
+      "link": "https://vnexpress.net/rmit-cung-chuyen-gia-thuc-day-cham-soc-suc-khoe-an-toan-hoc-duong-4950577.html",
+      "summary": "Hơn 500 người tham dự cùng chia sẻ kinh nghiệm, thúc đẩy hành động về chăm sóc sức khỏe và an toàn học đường tại hội nghị do RMIT đồng tổ chức ở TP HCM, Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.114134+07:00"
+    },
+    {
+      "id": "6a7d454fbf4271138dd042c1a526bc76",
+      "title": "Sennheiser và PGI ra mắt tai nghe Momentum 4 bản giới hạn",
+      "link": "https://vnexpress.net/sennheiser-va-pgi-ra-mat-tai-nghe-momentum-4-ban-gioi-han-4950524.html",
+      "summary": "Mẫu tai nghe wireless phiên bản giới hạn ra mắt dịp kỷ niệm 80 thương hiệu Sennheiser, tại triển lãm P.H.E Show 2025 hôm 11-12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.114266+07:00"
+    },
+    {
+      "id": "39f6c31baba60e1602467f7e40cde42b",
+      "title": "Thiết kế đồng hồ chính xác đến năm 3999 của IWC Schaffhausen",
+      "link": "https://vnexpress.net/thiet-ke-dong-ho-chinh-xac-den-nam-3999-cua-iwc-schaffhausen-4947910.html",
+      "summary": "Portugieser Eternal Calendar của IWC Schaffhausen có thể vận hành chuẩn xác đến năm 3999 nhờ chuyển hoá lịch Gregory và bộ bánh răng chu kỳ thế kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:40.114398+07:00"
+    },
+    {
+      "id": "06a796d6fb52b7b614f6fe8db34908aa",
+      "title": "Cảnh báo đường phố Hà Nội ngập lụt 0,4 m do mưa kéo dài",
+      "link": "https://thanhnien.vn/canh-bao-duong-pho-ha-noi-ngap-lut-04-m-do-mua-keo-dai-18525101408422184.htm",
+      "summary": "Dự báo thời tiết Hà Nội ngày 14.10 có mưa vừa, mưa to từ sáng đến chiều, nguy cơ ngập lụt ở nhiều tuyến phố, độ ngập sâu từ 0,1 - 0,3 m, có nơi ngập sâu nhất đến 0,4 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305832+07:00"
+    },
+    {
+      "id": "f6d7b21273bd98346940dcefb7d5013c",
+      "title": "Thượng viện Mỹ 'khuyến khích' mời Đài Loan tham gia RIMPAC, phát tín hiệu tới Trung Quốc?",
+      "link": "https://thanhnien.vn/thuong-vien-my-khuyen-khich-moi-dai-loan-tham-gia-rimpac-phat-tin-hieu-toi-trung-quoc-185251014075556294.htm",
+      "summary": "Thượng viện Mỹ đã thông qua dự luật chính sách quốc phòng cho tài khóa 2026, trong đó lần đầu tiên 'khuyến khích mạnh mẽ' việc mời lực lượng phòng vệ biển của Đài Loan tham gia cuộc tập trận Vành đai Thái Bình Dương (RIMPAC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.305960+07:00"
+    },
+    {
+      "id": "983b53f260d8d799b82d034180a5963b",
+      "title": "Quy trình điều trị suy giãn tĩnh mạch tại phòng khám Edopi Dr.Vein",
+      "link": "https://thanhnien.vn/quy-trinh-dieu-tri-suy-gian-tinh-mach-tai-phong-kham-edopi-drvein-185251013205349427.htm",
+      "summary": "Phòng khám chuyên khoa trị giãn tĩnh mạch Edopi Dr.Vein áp dụng các phương pháp can thiệp hiện đại, ưu tiên đóng lại các tĩnh mạch đã mất chức năng và điều hướng dòng máu về hệ tĩnh mạch khỏe mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.306089+07:00"
+    },
+    {
+      "id": "56642567ea57cff3e35f945c1449d71f",
+      "title": "The Gió Riverside ra mắt 35 căn shop khối đế thương mại",
+      "link": "https://thanhnien.vn/the-gio-riverside-ra-mat-35-can-shop-khoi-de-thuong-mai-1852510131714158.htm",
+      "summary": "Các sản phẩm căn hộ thương mại tại khối đế dự án The Gió Riverside được nhà đầu tư quan tâm, phù hợp kinh doanh, cho thuê tạo dòng tiền hoặc đầu tư tích lũy trong trung - dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.306219+07:00"
+    },
+    {
+      "id": "0010fe4a956350f5515505b4b0722f0b",
+      "title": "Chậm cháy - chống cháy lan: Giải pháp giảm thiểu rủi ro cháy nổ từ hệ thống điện",
+      "link": "https://thanhnien.vn/cham-chay-chong-chay-lan-giai-phap-giam-thieu-rui-ro-chay-no-tu-he-thong-dien-185251013171121545.htm",
+      "summary": "Nhiều vụ cháy nhà dân và công trình thời gian qua bắt nguồn từ sự cố điện. Các chuyên gia cảnh báo, chỉ một sợi dây kém chất lượng cũng có thể khiến ngọn lửa bùng phát và lan nhanh. Sử dụng dây điện đạt chuẩn chậm cháy, chống cháy lan ngay từ khâu thiết kế và thi công được xem là giải pháp tối ưu xâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.306346+07:00"
+    },
+    {
+      "id": "888b7771c64564f7d84180c3c9a428dc",
+      "title": "‘Dũng Khỉ’ giữ rừng",
+      "link": "https://thanhnien.vn/dung-khi-giu-rung-185251010162113548.htm",
+      "summary": "'Cứ coi mỗi cây đước, cây bần là một người bạn, rừng Cù Lao Dung là một gia đình, tự nhiên mình thấy thương quê hương mình hơn. Giữ rừng đương nhiên là giữ nhà, giữ của - rừng vàng biển bạc mà'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:47.306472+07:00"
+    },
+    {
+      "id": "39f6c31baba60e1602467f7e40cde42b",
+      "title": "Thiết kế đồng hồ chính xác đến năm 3999 của IWC Schaffhausen",
+      "link": "https://vnexpress.net/thiet-ke-dong-ho-chinh-xac-den-nam-3999-cua-iwc-schaffhausen-4947910.html",
+      "summary": "Portugieser Eternal Calendar của IWC Schaffhausen có thể vận hành chuẩn xác đến năm 3999 nhờ chuyển hoá lịch Gregory và bộ bánh răng chu kỳ thế kỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:58:51.325988+07:00"
+    },
+    {
+      "id": "e35d7e1f47daf87169f91afd9b22745d",
+      "title": "Ngày đoàn tụ của con tin Israel sau hai năm bị Hamas giam cầm",
+      "link": "https://vnexpress.net/ngay-doan-tu-cua-con-tin-israel-sau-hai-nam-bi-hamas-giam-cam-4950936.html",
+      "summary": "Cảm xúc vỡ òa khi các gia đình Israel ôm chầm lấy người thân trở về, sau hai năm con tin bị Hamas bắt cóc và giam giữ tại Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T01:57:58+07:00",
+      "fetched": "2025-10-14T09:58:40.114526+07:00"
+    },
+    {
+      "id": "caccab69237499c4f27caa1b65ae81f2",
+      "title": "Đường phố Hà Nội tắc cứng trong mưa",
+      "link": "https://vnexpress.net/duong-pho-ha-noi-tac-cung-trong-mua-4950994.html",
+      "summary": "Sáng 14/10, mưa rải rác 10-20 mm tại các phường nội đô khiến nhiều tuyến đường Hà Nội ùn tắc nghiêm trọng dù không xảy ra ngập úng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T01:51:31+07:00",
+      "fetched": "2025-10-14T09:58:40.114656+07:00"
+    },
+    {
+      "id": "1ff1d933e0f1f9a78333c1d4cc781941",
+      "title": "Cậu bé xăm kín mặt làm lại cuộc đời",
+      "link": "https://vnexpress.net/cau-be-xam-kin-mat-lam-lai-cuoc-doi-4950873.html",
+      "summary": "Từng bị cô lập xã hội vì gương mặt kín hình xăm, Xia Chaoyong nay bước sang chương mới cuộc đời khi quyết tâm xóa bỏ quá khứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T01:48:14+07:00",
+      "fetched": "2025-10-14T09:58:40.114799+07:00"
+    },
+    {
+      "id": "af2bc7e0cd27fce08e951291fc998c0b",
+      "title": "Lấn làn ở khúc cua, người đi xe máy lao thẳng vào đầu ôtô",
+      "link": "https://vnexpress.net/lan-lan-o-khuc-cua-nguoi-di-xe-may-lao-thang-vao-dau-oto-4950795.html",
+      "summary": "Lấn hẳn sang làn đường ngược chiều, người đi xe máy lao trực diện vào đầu ôtô, hôm 13/10 tại Thanh Tịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T01:41:30+07:00",
+      "fetched": "2025-10-14T09:58:40.114934+07:00"
     },
     {
       "id": "abb5fbaeb34d854efe651cb227a3ae42",
@@ -413,6 +883,16 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T08:13:29.860013+07:00"
     },
     {
+      "id": "46267f1731e2362ebcb5f95ab939d37a",
+      "title": "Nước mắt và sự cố ở chung kết Thượng Hải Masters",
+      "link": "https://vnexpress.net/nuoc-mat-va-su-co-o-chung-ket-thuong-hai-masters-4950901.html",
+      "summary": "Hai anh em họ Arthur Rinderknech và Valentin Vacherot khóc nức nở, thậm chí ngã khuỵu xuống ở lễ trao giải Thượng Hải Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T00:59:47+07:00",
+      "fetched": "2025-10-14T09:58:55.409422+07:00"
+    },
+    {
       "id": "06b617881e5150a104d1461d83243c29",
       "title": "Quảng Ngãi đấu thầu chọn nhà đầu tư dự án khu đô thị hơn 1.650 tỉ đồng",
       "link": "https://thanhnien.vn/quang-ngai-dau-thau-chon-nha-dau-tu-du-an-khu-do-thi-hon-1650-ti-dong-1852510140619238.htm",
@@ -511,6 +991,16 @@ window.newsData_2025_10_14 = {
       "category": "Thế giới",
       "published": "2025-10-14T00:34:28+07:00",
       "fetched": "2025-10-14T08:13:28.806643+07:00"
+    },
+    {
+      "id": "20930179867632d0ea6171ebc587dd01",
+      "title": "Vivo X300 Pro dùng cảm biến của cả Sony và Samsung",
+      "link": "https://vnexpress.net/vivo-x300-pro-dung-cam-bien-cua-ca-sony-va-samsung-4950939.html",
+      "summary": "Smartphone chuyên chụp ảnh Vivo X300 Pro có giá khởi điểm 5.299 CNY (19,6 triệu đồng) tại Trung Quốc, trang bị cụm camera tối ưu cho khả năng chụp xa, do Sony và Samsung phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T00:30:15+07:00",
+      "fetched": "2025-10-14T09:58:54.507452+07:00"
     },
     {
       "id": "2d7a5ad3e3837d8d2372c43cf2341d14",
