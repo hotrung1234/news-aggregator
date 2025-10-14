@@ -1,7 +1,117 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T21:17:33.119245+07:00",
+  "lastUpdated": "2025-10-14T23:20:55.625864+07:00",
   "articles": [
+    {
+      "id": "96f30d2f3818acea13330178183491d0",
+      "title": "Phó thủ tướng Hồ Đức Phớc: 'Cổ phần hóa không phải để bán đất'",
+      "link": "https://tuoitre.vn/pho-thu-tuong-ho-duc-phoc-co-phan-hoa-khong-phai-de-ban-dat-20251014191027865.htm",
+      "summary": "Phó thủ tướng Hồ Đức Phớc khẳng định việc cổ phần hóa không phải để bán đất, mà là để nâng cao năng lực của doanh nghiệp lên, để cho nền kinh tế phát triển vững mạnh hơn, cao hơn, vững và bền vững hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913757+07:00",
+      "fetched": "2025-10-14T23:20:46.913871+07:00"
+    },
+    {
+      "id": "584860aa75f43923f54b77232c19fd6c",
+      "title": "Chánh văn phòng Ủy ban An toàn giao thông nêu 5 lý do 'hễ mưa là Hà Nội kẹt khắp ngả'",
+      "link": "https://tuoitre.vn/chanh-van-phong-uy-ban-an-toan-giao-thong-neu-5-ly-do-he-mua-la-ha-noi-ket-khap-nga-20251014183952544.htm",
+      "summary": "\"Bên cạnh sự cố gắng của các cơ quan chức năng, mỗi người tham gia giao thông có thể và cần phải có trách nhiệm trong việc tuân thủ đúng quy tắc, để kéo giảm ùn tắc khi thời tiết bất lợi\", TS Trần Hữu Minh nói.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913634+07:00",
+      "fetched": "2025-10-14T23:20:46.913746+07:00"
+    },
+    {
+      "id": "74b1854a048ef01ad0f81ea357b4d92a",
+      "title": "Làm rõ vụ 2 nhóm đi trên 2 ô tô lao vào đánh nhau giữa quốc lộ sau va chạm",
+      "link": "https://tuoitre.vn/lam-ro-vu-2-nhom-di-tren-2-o-to-lao-vao-danh-nhau-giua-quoc-lo-sau-va-cham-20251014184113963.htm",
+      "summary": "Sau va chạm giao thông trên quốc lộ 28, hai nhóm người đi trên hai ô tô dừng lại giữa đường rồi lao vào đánh nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913501+07:00",
+      "fetched": "2025-10-14T23:20:46.913622+07:00"
+    },
+    {
+      "id": "f217c66b81f8273a2f9fa4e37603d151",
+      "title": "Lội ngược dòng ngoạn mục, Nhật Bản có chiến thắng lịch sử trước Brazil",
+      "link": "https://tuoitre.vn/loi-nguoc-dong-ngoan-muc-nhat-ban-co-chien-thang-lich-su-truoc-brazil-20251014201116914.htm",
+      "summary": "Đội tuyển Nhật Bản đã có màn lội ngược dòng đáng kinh ngạc trong hiệp hai để đánh bại đội tuyển Brazil với tỉ số 3-2 trong trận giao hữu tại sân vận động Tokyo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913372+07:00",
+      "fetched": "2025-10-14T23:20:46.913487+07:00"
+    },
+    {
+      "id": "0379c6d855c6c1676457f50987eba0c7",
+      "title": "Gọi nhầm Thủ tướng Canada là tổng thống, ông Trump đùa: 'Tôi đã không gọi ông là thống đốc'",
+      "link": "https://tuoitre.vn/goi-nham-thu-tuong-canada-la-tong-thong-ong-trump-dua-toi-da-khong-goi-ong-la-thong-doc-20251014194522142.htm",
+      "summary": "Sau khi vô tình gọi nhầm Thủ tướng Canada Mark Carney là tổng thống, câu đùa của ông Trump khiến hai nhà lãnh đạo cùng bật cười.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913230+07:00",
+      "fetched": "2025-10-14T23:20:46.913359+07:00"
+    },
+    {
+      "id": "255d986fc2c6cdca0a8d7be6e441a41b",
+      "title": "Báo Tuổi Trẻ hỗ trợ khẩn cấp 300 phần quà cho người dân vùng lũ Cao Bằng",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-gui-qua-ho-tro-khan-cap-nguoi-dan-vung-lu-cao-bang-20251014201953042.htm",
+      "summary": "Tỉnh đoàn Cao Bằng đã trao 300 phần quà do báo Tuổi Trẻ hỗ trợ, nhằm kịp thời giúp đỡ đồng bào vùng lũ trên địa bàn vượt qua khó khăn, sớm ổn định cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.913097+07:00",
+      "fetched": "2025-10-14T23:20:46.913218+07:00"
+    },
+    {
+      "id": "33b397b158f2fdb846b5aed78de80dcb",
+      "title": "Teerasak lập hat-trick giúp Thái Lan đè bẹp Đài Loan",
+      "link": "https://tuoitre.vn/teerasak-lap-hat-trick-giup-thai-lan-de-bep-dai-loan-20251014195220238.htm",
+      "summary": "Tiền đạo Teerasak Poeiphimai đã lập hat-trick, giúp tuyển Thái Lan đè bẹp Đài Loan 6-1 vào đêm 14-10 ở loạt trận thứ 4 bảng D vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.912946+07:00",
+      "fetched": "2025-10-14T23:20:46.913084+07:00"
+    },
+    {
+      "id": "81294b20450ddab6eaad9bd31557c634",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Hoài niệm về mùa nước nổi",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-hoai-niem-ve-mua-nuoc-noi-20251014164011073.htm",
+      "summary": "Mùa nước nổi từ lâu đã trở thành “đặc sản” của miền Tây Nam Bộ, không chỉ mang lại nguồn lợi thủy sản phong phú mà còn gieo vào lòng người bao cảm xúc khó tả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.912801+07:00",
+      "fetched": "2025-10-14T23:20:46.912928+07:00"
+    },
+    {
+      "id": "3da25d37e092d24c2875e84a65ad2958",
+      "title": "Liên hoan Chèo toàn quốc tổ chức ở quê hương quan họ",
+      "link": "https://tuoitre.vn/lien-hoan-cheo-toan-quoc-to-chuc-o-que-huong-quan-ho-20251014204337147.htm",
+      "summary": "Cục Nghệ thuật biểu diễn cho biết Liên hoan Chèo năm nay quy tụ 11 đoàn nghệ thuật chèo chuyên nghiệp đến từ nhiều tỉnh, thành phố trên cả nước (gần 900 nghệ sĩ, diễn viên và nhạc công), với 21 vở diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.912664+07:00",
+      "fetched": "2025-10-14T23:20:46.912789+07:00"
+    },
+    {
+      "id": "8123985f0b351e7563f84ea4d4203b88",
+      "title": "Thủ tướng Phạm Minh Chính đến vùng cao biên giới khởi công xây trường nội trú liên cấp",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-den-vung-cao-bien-gioi-khoi-cong-xay-truong-noi-tru-lien-cap-20251014195507377.htm",
+      "summary": "Chiều 14-10, tại xã biên giới Bát Mọt, tỉnh Thanh Hóa, Thủ tướng Phạm Minh Chính đã dự lễ khởi công Trường phổ thông nội trú liên cấp tiểu học và THCS xã Bát Mọt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.912511+07:00",
+      "fetched": "2025-10-14T23:20:46.912651+07:00"
+    },
+    {
+      "id": "bebc29a216de4092667a1c811bfa195c",
+      "title": "Phát hiện nhóm chăn dắt trẻ em 'ngậm dầu phun lửa' chia chác số tiền xin được",
+      "link": "https://tuoitre.vn/phat-hien-nhom-chan-dat-tre-em-ngam-dau-phun-lua-chia-chac-so-tien-xin-duoc-20251014210858452.htm",
+      "summary": "Ngày 14-10, thông tin từ Công an TP Cần Thơ xác nhận lực lượng cảnh sát hình sự vừa phát hiện và mời làm việc nhóm đối tượng có hoạt động chăn dắt trẻ em ăn xin, làm xiếc để thu lợi bất chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T23:20:46.912260+07:00",
+      "fetched": "2025-10-14T23:20:46.912493+07:00"
+    },
     {
       "id": "ed560191e383fc1da7a930a6b19200ef",
       "title": "Bí thư Trần Lưu Quang: Nhiệm kỳ này phải chắt chiu mọi điều kiện, phát triển mạnh mẽ metro",
@@ -453,6 +563,86 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T17:17:44.606361+07:00"
     },
     {
+      "id": "d40f06c7447b667eaf8f7c98614bdb75",
+      "title": "Người dân Bắc Ninh dọn bùn đất sau lũ",
+      "link": "https://vnexpress.net/nguoi-dan-bac-ninh-don-bun-dat-sau-lu-4951407.html",
+      "summary": "Lũ rút đi để lại lớp bùn dày 10 cm, đồ gia dụng hư hỏng, người dân Bắc Ninh đang tất bật lau rửa, mang đồ đi sửa chữa để ổn định cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T16:13:42+07:00",
+      "fetched": "2025-10-14T23:20:42.966206+07:00"
+    },
+    {
+      "id": "294219bb9750a213e6a225e8436a6fa0",
+      "title": "HLV Kim Sang-sik: 'Đội tuyển Việt Nam vẫn nóng vội, tôi rất tiếc...'",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-doi-tuyen-viet-nam-van-nong-voi-toi-rat-tiec-185251014220119321.htm",
+      "summary": "HLV Kim Sang-sik cho rằng các chân sút đội tuyển Việt Nam chưa biết cách tận dụng cơ hội, khi còn xử lý vội vàng trước cầu môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T16:07:00+07:00",
+      "fetched": "2025-10-14T23:20:45.971666+07:00"
+    },
+    {
+      "id": "aef81fd57c9eed9d01e21e601afe4db0",
+      "title": "Thêm quả bom trồi lên khi bờ sông sạt lở",
+      "link": "https://vnexpress.net/them-qua-bom-troi-len-khi-bo-song-sat-lo-4951424.html",
+      "summary": "Người dân xã Đô Lương phát hiện quả bom dài hơn 2 m, còn nguyên kíp nổ cắm sâu bên bờ sông Lam, lúc 14h30 ngày 14/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:53:15+07:00",
+      "fetched": "2025-10-14T23:20:42.966403+07:00"
+    },
+    {
+      "id": "29ddc096c997e5be0fafbcef62987dfa",
+      "title": "HLV Nepal bất ngờ nhận định: 'Việt Nam xứng đáng dự Asian Cup hơn Malaysia, hãy chờ án FIFA’'",
+      "link": "https://thanhnien.vn/hlv-nepal-bat-ngo-nhan-dinh-doi-tuyen-viet-nam-xung-dang-du-asian-cup-hon-malaysia-cho-an-fifa-185251014224434744.htm",
+      "summary": "Trợ lý HLV Salyan Khadgi của đội tuyển Nepal cho rằng đội tuyển Việt Nam xứng đáng được dự Asian Cup 2027 hơn Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:53:00+07:00",
+      "fetched": "2025-10-14T23:20:45.971843+07:00"
+    },
+    {
+      "id": "29278e0688c084b245f187f877e29346",
+      "title": "Băng Di 'Đất rừng phương Nam' nhận lời cầu hôn",
+      "link": "https://vnexpress.net/bang-di-dat-rung-phuong-nam-nhan-loi-cau-hon-4951415.html",
+      "summary": "Diễn viên Băng Di - từng đóng Tư Mắm trong \"Đất rừng phương Nam\" - nói hạnh phúc khi bạn trai Việt kiều cầu hôn sau gần 10 năm yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:34:34+07:00",
+      "fetched": "2025-10-14T23:20:42.966570+07:00"
+    },
+    {
+      "id": "c9d57e8228083999e3886daf3a5ea1b4",
+      "title": "Hàng công bất lực, đội tuyển Việt Nam chật vật lấy 3 điểm nhờ Nepal phản lưới nhà",
+      "link": "https://thanhnien.vn/hang-cong-bat-luc-doi-tuyen-viet-nam-chat-vat-lay-3-diem-nho-nepal-phan-luoi-nha-185251014222321583.htm",
+      "summary": "Trận đấu gặp Nepal tối 14.10 mang về cho đội tuyển Việt Nam 3 điểm quan trọng, nhưng màn trình diễn thiếu sắc sảo của hàng công vẫn khiến người hâm mộ chưa thể an tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:31:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972040+07:00"
+    },
+    {
+      "id": "f87eb9894251efa367d98f04a3f8a938",
+      "title": "Bạn trai muốn chúng tôi sống cùng mẹ và em gái anh sau kết hôn",
+      "link": "https://vnexpress.net/ban-trai-muon-chung-toi-song-cung-me-va-em-gai-anh-sau-ket-hon-4951408.html",
+      "summary": "Mẹ anh cho anh một khoản tiền để xây nhà nhưng khi xây xong, mẹ và em gái anh sẽ ở cùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:27:45+07:00",
+      "fetched": "2025-10-14T23:20:42.966731+07:00"
+    },
+    {
+      "id": "1e98e6905403f880ea90dc6f7ea25ff5",
+      "title": "Tiến Linh chỉ thẳng lý do đội tuyển Việt Nam sút nhiều nhưng không thể ghi bàn",
+      "link": "https://thanhnien.vn/tien-linh-chi-thang-ly-do-doi-tuyen-viet-nam-sut-nhieu-nhung-khong-the-ghi-ban-185251014215827265.htm",
+      "summary": "Tiền đạo Nguyến Tiến Linh đã có những chia sẻ sau chiến thắng chật vật 1-0 bằng bàn phản lưới nhà của đội tuyển Việt Nam, khi chạm trán với đối thủ Nepal bị đánh giá yếu hơn nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:25:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972210+07:00"
+    },
+    {
       "id": "a42a8e75ac677eee18538507b5441ebb",
       "title": "Ra mắt trang thông tin 'Net Zero Việt Nam'",
       "link": "https://tuoitre.vn/ra-mat-trang-thong-tin-net-zero-viet-nam-20251014131322099.htm",
@@ -603,6 +793,226 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T15:20:50.284081+07:00"
     },
     {
+      "id": "6c973a799523c59212cb5117e832b5c8",
+      "title": "Phó thủ tướng: Cổ phần hóa để doanh nghiệp nhà nước mạnh lên, không phải bán đất",
+      "link": "https://vnexpress.net/pho-thu-tuong-co-phan-hoa-de-doanh-nghiep-nha-nuoc-manh-len-khong-phai-ban-dat-4951412.html",
+      "summary": "Phó thủ tướng Hồ Đức Phớc nêu cổ phần hóa không phải để doanh nghiệp bán đất, mà giúp họ nâng cao năng lực, phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:11:34+07:00",
+      "fetched": "2025-10-14T23:20:42.966893+07:00"
+    },
+    {
+      "id": "6c973a799523c59212cb5117e832b5c8",
+      "title": "Phó thủ tướng: Cổ phần hóa để doanh nghiệp nhà nước mạnh lên, không phải bán đất",
+      "link": "https://vnexpress.net/pho-thu-tuong-co-phan-hoa-de-doanh-nghiep-nha-nuoc-manh-len-khong-phai-ban-dat-4951412.html",
+      "summary": "Phó thủ tướng Hồ Đức Phớc nêu cổ phần hóa không phải để doanh nghiệp bán đất, mà giúp họ nâng cao năng lực, phát triển bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T15:11:34+07:00",
+      "fetched": "2025-10-14T23:20:50.878056+07:00"
+    },
+    {
+      "id": "6ac3dc4520a0b2ba2191caeab27e0172",
+      "title": "Đồng minh ông Putin cảnh báo hậu quả với ông Trump nếu cấp Tomahawk cho Ukraine",
+      "link": "https://thanhnien.vn/dong-minh-ong-putin-canh-bao-hau-qua-voi-ong-trump-neu-cap-tomahawk-cho-ukraine-185251014213841252.htm",
+      "summary": "Cựu Tổng thống Nga Dmitry Medvedev hôm 13.10 cảnh báo việc Mỹ cung cấp tên lửa Tomahawk cho Ukraine có thể dẫn đến hậu quả xấu nhất cho tất cả các bên, đặc biệt là Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:11:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972365+07:00"
+    },
+    {
+      "id": "cd044d900b52b0e0d2d0d2e7b8b981c7",
+      "title": "Bảng xếp hạng vòng loại Asian Cup mới nhất: Đội tuyển Việt Nam phả hơi nóng lên Malaysia",
+      "link": "https://thanhnien.vn/bang-xep-hang-vong-loai-asian-cup-moi-nhat-doi-tuyen-viet-nam-pha-hoi-nong-len-malaysia-185251014220246897.htm",
+      "summary": "Đội tuyển Việt Nam đã hoàn thành nhiệm vụ gom đủ 6 điểm tối đa trước Nepal, phả thêm hơi nóng lên Malaysia đang ngày càng tuyệt vọng sau án phạt từ FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:07:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972521+07:00"
+    },
+    {
+      "id": "3499f8805db73941bffdf1e6958331c1",
+      "title": "Lịch thi đấu đội tuyển Việt Nam mới nhất: Xem đá chủ nhà Lào trên 2 kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-viet-nam-moi-nhat-xem-da-chu-nha-lao-tren-2-kenh-nao-185251014200458228.htm",
+      "summary": "Sau trận đấu với đội tuyển Nepal hôm nay trên sân Thống Nhất, đội tuyển Việt Nam có quãng nghỉ hơn 1 tháng trước khi thi đấu lượt trận tiếp theo của vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T15:06:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972685+07:00"
+    },
+    {
+      "id": "89138e8f6297562a2506c4ded0aa2e8d",
+      "title": "Trung Quốc áp thuế cảng trả đũa Mỹ, quyết ‘đấu đến cùng’",
+      "link": "https://thanhnien.vn/trung-quoc-ap-thue-cang-tra-dua-my-quyet-dau-den-cung-185251014185433781.htm",
+      "summary": "Trung Quốc đã chính thức bắt đầu thu phí cảng đặc biệt đối với các tàu do Mỹ sở hữu, vận hành, đóng hoặc treo cờ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:59:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972837+07:00"
+    },
+    {
+      "id": "9db6bc14ab604edcb05f081e3e6e0957",
+      "title": "Malaysia khiến Lào hết cửa dự Asian Cup 2027",
+      "link": "https://vnexpress.net/malaysia-khien-lao-het-cua-du-asian-cup-2027-4951393.html",
+      "summary": "Lào mở tỷ số nhưng không thể bảo toàn khi thua Malaysia 1-5 ở lượt bốn bảng F vòng loại cuối, qua đó hết cơ hội dự Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:57:11+07:00",
+      "fetched": "2025-10-14T23:20:42.967077+07:00"
+    },
+    {
+      "id": "9db6bc14ab604edcb05f081e3e6e0957",
+      "title": "Malaysia khiến Lào hết cửa dự Asian Cup 2027",
+      "link": "https://vnexpress.net/malaysia-khien-lao-het-cua-du-asian-cup-2027-4951393.html",
+      "summary": "Lào mở tỷ số nhưng không thể bảo toàn khi thua Malaysia 1-5 ở lượt bốn bảng F vòng loại cuối, qua đó hết cơ hội dự Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T14:57:11+07:00",
+      "fetched": "2025-10-14T23:20:55.610820+07:00"
+    },
+    {
+      "id": "3cb3c7ded06f726de65e3a3337a3f913",
+      "title": "Phung phí hàng tá cơ hội, Việt Nam chỉ thắng nổi Nepal nhờ bàn phản lưới nhà của đối phương",
+      "link": "https://thanhnien.vn/phung-phi-hang-ta-co-hoi-viet-nam-chi-thang-noi-nepal-nho-ban-phan-luoi-nha-cua-doi-phuong-185251014212135595.htm",
+      "summary": "Dù tạo ra được nhiều cơ hội và lấn lướt đối thủ trong phần lớn thời gian thi đấu, đội tuyển Việt Nam chỉ có thể dành trọn 3 điểm trước đội tuyển Nepal nhờ bàn phản lưới nhà của hậu vệ Suman Shrestha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:56:00+07:00",
+      "fetched": "2025-10-14T23:20:45.972993+07:00"
+    },
+    {
+      "id": "53f501b22d8d0916f20f5475bf5dda3c",
+      "title": "Bộ đội biên phòng Lâm Đồng bắt giữ 6 tàu cá giã cào trái phép trên biển",
+      "link": "https://thanhnien.vn/bo-doi-bien-phong-lam-dong-bat-giu-6-tau-ca-gia-cao-trai-phep-tren-bien-185251014213525952.htm",
+      "summary": "Trong một tuần, Đồn Biên phòng Thanh Hải (P.Phú Thủy, tỉnh Lâm Đồng) đã phối hợp với Hải đội 2 phát hiện, bắt giữ 6 tàu cá sử dụng lưới kéo đôi (giã cào bay) khai thác trái phép tại vùng biển Bình Thuận cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:54:00+07:00",
+      "fetched": "2025-10-14T23:20:45.973163+07:00"
+    },
+    {
+      "id": "d180f83cdbf9877663ffd241c1a87d7d",
+      "title": "Chủ tịch Nguyễn Văn Được: Trong 10 năm tới, TP.HCM sẽ đầu tư xong hệ thống metro",
+      "link": "https://thanhnien.vn/chu-tich-nguyen-van-duoc-trong-10-nam-toi-tphcm-se-dau-tu-xong-he-thong-metro-185251014211804604.htm",
+      "summary": "'Trong 10 năm tới, chúng ta sẽ đầu tư xong hệ thống đường sắt đô thị', Phó Bí thư Thành ủy, Chủ tịch UBND TP.HCM Nguyễn Văn Được nhấn mạnh tại tổ thảo luận số 3, Đại hội Đảng bộ TP.HCM lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:50:00+07:00",
+      "fetched": "2025-10-14T23:20:45.973325+07:00"
+    },
+    {
+      "id": "d66d9c6e77085993acb5a6d57f97338f",
+      "title": "Tổng thống Madagascar bị luận tội, quân đội tuyên bố nắm quyền",
+      "link": "https://vnexpress.net/tong-thong-madagascar-bi-luan-toi-quan-doi-tuyen-bo-nam-quyen-4951413.html",
+      "summary": "Đơn vị CAPSAT thuộc quân đội Madagascar tuyên bố kiểm soát đất nước sau khi quốc hội nước này bỏ phiếu luận tội Tổng thống Rajoelina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:46:33+07:00",
+      "fetched": "2025-10-14T23:20:42.967248+07:00"
+    },
+    {
+      "id": "d66d9c6e77085993acb5a6d57f97338f",
+      "title": "Tổng thống Madagascar bị luận tội, quân đội tuyên bố nắm quyền",
+      "link": "https://vnexpress.net/tong-thong-madagascar-bi-luan-toi-quan-doi-tuyen-bo-nam-quyen-4951413.html",
+      "summary": "Đơn vị CAPSAT thuộc quân đội Madagascar tuyên bố kiểm soát đất nước sau khi quốc hội nước này bỏ phiếu luận tội Tổng thống Rajoelina.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T14:46:33+07:00",
+      "fetched": "2025-10-14T23:20:48.558710+07:00"
+    },
+    {
+      "id": "0980dfed9ee6d9ebb7e758e9a9712728",
+      "title": "GM thiệt hại 1,6 tỷ USD vì giảm đầu tư xe điện",
+      "link": "https://vnexpress.net/gm-thiet-hai-1-6-ty-usd-vi-giam-dau-tu-xe-dien-4951404.html",
+      "summary": "GM thiệt hại 1,6 tỷ USD vì giảm công suất, hủy bỏ các mẫu xe điện và các khoản đầu tư trong lĩnh vực này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:43:54+07:00",
+      "fetched": "2025-10-14T23:20:42.967425+07:00"
+    },
+    {
+      "id": "0980dfed9ee6d9ebb7e758e9a9712728",
+      "title": "GM thiệt hại 1,6 tỷ USD vì giảm đầu tư xe điện",
+      "link": "https://vnexpress.net/gm-thiet-hai-1-6-ty-usd-vi-giam-dau-tu-xe-dien-4951404.html",
+      "summary": "GM thiệt hại 1,6 tỷ USD vì giảm công suất, hủy bỏ các mẫu xe điện và các khoản đầu tư trong lĩnh vực này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T14:43:54+07:00",
+      "fetched": "2025-10-14T23:20:50.878237+07:00"
+    },
+    {
+      "id": "5d7a074bc0b7fd801d3b077358183358",
+      "title": "‘Cha cõng con’ tái xuất màn ảnh rộng, lợi nhuận ủng hộ quỹ ‘Cùng con đi tiếp cuộc đời’",
+      "link": "https://thanhnien.vn/cha-cong-con-tai-xuat-man-anh-rong-loi-nhuan-ung-ho-quy-cung-con-di-tiep-cuoc-doi-185251014202903102.htm",
+      "summary": "Bộ phim Cha cõng con của đạo diễn Lương Đình Dũng sẽ chính thức trở lại rạp vào tháng 11 tới sau gần 8 năm ra mắt. Lợi nhuận từ doanh thu phòng vé sẽ được đóng góp vào quỹ “Cùng con đi tiếp cuộc đời” nhằm hỗ trợ trẻ em có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:43:00+07:00",
+      "fetched": "2025-10-14T23:20:45.973480+07:00"
+    },
+    {
+      "id": "9fc2fc15389f95024eb28cf05a048c12",
+      "title": "Công cụ hỗ trợ truy vết dòng tiền số AntEx trong vụ án Shark Bình",
+      "link": "https://vnexpress.net/cong-cu-ho-tro-truy-vet-dong-tien-so-antex-trong-vu-an-shark-binh-4951406.html",
+      "summary": "Nhiều giao dịch trong dự án AntEx, liên quan đến ông Nguyễn Hòa Bình (thường gọi là Shark Bình), đã được truy vết thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:39:03+07:00",
+      "fetched": "2025-10-14T23:20:42.967634+07:00"
+    },
+    {
+      "id": "9fc2fc15389f95024eb28cf05a048c12",
+      "title": "Công cụ hỗ trợ truy vết dòng tiền số AntEx trong vụ án Shark Bình",
+      "link": "https://vnexpress.net/cong-cu-ho-tro-truy-vet-dong-tien-so-antex-trong-vu-an-shark-binh-4951406.html",
+      "summary": "Nhiều giao dịch trong dự án AntEx, liên quan đến ông Nguyễn Hòa Bình (thường gọi là Shark Bình), đã được truy vết thành công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T14:39:03+07:00",
+      "fetched": "2025-10-14T23:20:53.637116+07:00"
+    },
+    {
+      "id": "977239cbbd37572fa02fe6efd7e952cf",
+      "title": "Phẫn nộ clip cướp vé số giữa ban ngày: Nghi can đã bị bắt giữ",
+      "link": "https://thanhnien.vn/phan-no-clip-cuop-ve-so-giua-ban-ngay-nghi-can-da-bi-bat-giu-185251014212559962.htm",
+      "summary": "Nghi can cướp vé số ở xã Xuân Lộc (Đồng Nai) đã bị lực lượng công an bắt giữ. Đây là người đã cướp vé số trong đoạn video clip gây phẫn nộ trên mạng xã hội những ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:35:00+07:00",
+      "fetched": "2025-10-14T23:20:45.973630+07:00"
+    },
+    {
+      "id": "e625763cd6ceb7ef007f3cef75f8a9a6",
+      "title": "Ông Trump chỉ trích tạp chí Mỹ vì 'bức ảnh tệ nhất mọi thời đại'",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-tap-chi-my-vi-buc-anh-te-nhat-moi-thoi-dai-4951392.html",
+      "summary": "Tổng thống Trump bày tỏ không hài lòng với Time khi tạp chí chọn bức ảnh chụp ông từ góc thấp để làm trang bìa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:21:02+07:00",
+      "fetched": "2025-10-14T23:20:42.967791+07:00"
+    },
+    {
+      "id": "e625763cd6ceb7ef007f3cef75f8a9a6",
+      "title": "Ông Trump chỉ trích tạp chí Mỹ vì 'bức ảnh tệ nhất mọi thời đại'",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-tap-chi-my-vi-buc-anh-te-nhat-moi-thoi-dai-4951392.html",
+      "summary": "Tổng thống Trump bày tỏ không hài lòng với Time khi tạp chí chọn bức ảnh chụp ông từ góc thấp để làm trang bìa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T14:21:02+07:00",
+      "fetched": "2025-10-14T23:20:48.558889+07:00"
+    },
+    {
+      "id": "97305a2c0fe889685a872583e3a4c756",
+      "title": "Hà Nội cấm một số tuyến đường quanh Trung tâm Hội nghị quốc gia",
+      "link": "https://vnexpress.net/ha-noi-cam-mot-so-tuyen-duong-quanh-trung-tam-hoi-nghi-quoc-gia-4951405.html",
+      "summary": "Phục vụ Đại hội Đảng bộ, Công an TP Hà Nội sẽ tạm cấm, hạn chế một số tuyến đường quanh Trung tâm Hội nghị quốc gia (số 2 đại lộ Thăng Long) ngày 15-17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:16:45+07:00",
+      "fetched": "2025-10-14T23:20:42.967967+07:00"
+    },
+    {
       "id": "3431772d4230adc328a27b52009bfb89",
       "title": "Cơn sốt Sora 2 sắp bùng nổ trên Android",
       "link": "https://thanhnien.vn/con-sot-sora-2-sap-bung-no-tren-android-185251014110254827.htm",
@@ -621,6 +1031,36 @@ window.newsData_2025_10_14 = {
       "category": "Thế giới",
       "published": "2025-10-14T14:00:00+07:00",
       "fetched": "2025-10-14T21:17:27.863919+07:00"
+    },
+    {
+      "id": "93ec3e271cb491502b014d9a8d2da139",
+      "title": "Cách phối đồ thu thanh lịch của Vương phi Kate Middleton",
+      "link": "https://vnexpress.net/cach-phoi-do-thu-thanh-lich-cua-vuong-phi-kate-middleton-4951256.html",
+      "summary": "Vương phi Anh Kate Middleton ưu tiên quần cạp cao ống suông nhẹ, váy áo dệt kim trong ngày se lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:00:00+07:00",
+      "fetched": "2025-10-14T23:20:42.968312+07:00"
+    },
+    {
+      "id": "88ae7084a58176cc6ae50c3199c2965f",
+      "title": "9 năm tôi kiểm soát bản thân nhờ tập gym",
+      "link": "https://vnexpress.net/cach-tap-gym-nguoi-moi-cac-dong-tac-gym-co-ban-tap-gym-co-nen-dung-whey-toi-thanh-con-nguoi-khac-sau-9-nam-tap-gym-4951328.html",
+      "summary": "Gym không chỉ là nâng tạ hay đổ mồ hôi, mà là một hành trình tôi học cách kiểm soát chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T14:00:00+07:00",
+      "fetched": "2025-10-14T23:20:42.968475+07:00"
+    },
+    {
+      "id": "134fb93425f028fe53acafccc577ac4f",
+      "title": "Tài xế lái ôtô nổ lốp đi ngược chiều trên cầu vượt Mai Dịch",
+      "link": "https://vnexpress.net/tai-xe-lai-oto-no-lop-di-nguoc-chieu-tren-cau-vuot-mai-dich-4951391.html",
+      "summary": "Người đàn ông 66 tuổi lái xe trong tình trạng say xỉn, đi ngược chiều trên cầu vượt Mai Dịch, bị cảnh sát giao thông ngăn chặn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T13:57:43+07:00",
+      "fetched": "2025-10-14T23:20:42.968638+07:00"
     },
     {
       "id": "5d7ac25cae5bd6934d23813ace3e920d",
@@ -963,6 +1403,16 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T21:17:33.106286+07:00"
     },
     {
+      "id": "25c2a89460d05497e5dec024a30c24f6",
+      "title": "Nhật Bản lần đầu thắng Brazil sau hơn 30 năm",
+      "link": "https://vnexpress.net/nhat-ban-lan-dau-thang-brazil-sau-hon-30-nam-4951395.html",
+      "summary": "Bị dẫn 0-2 trong hiệp một, nhưng đội bóng Đông Á kịp ghi liền ba bàn trong hiệp hai để ngược dòng hạ đội khách Brazil 3-2 ở trận giao hữu tối 14/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T12:56:50+07:00",
+      "fetched": "2025-10-14T23:20:55.611039+07:00"
+    },
+    {
       "id": "0b73a34e7c3b954caace887c2c0b806f",
       "title": "Chủ tịch Quốc hội: Cần học kinh nghiệm quốc tế để chống ngập đô thị",
       "link": "https://vnexpress.net/chu-tich-quoc-hoi-can-hoc-kinh-nghiem-quoc-te-de-chong-ngap-do-thi-4951379.html",
@@ -1031,6 +1481,16 @@ window.newsData_2025_10_14 = {
       "category": "Thể thao",
       "published": "2025-10-14T12:28:43+07:00",
       "fetched": "2025-10-14T21:17:33.106438+07:00"
+    },
+    {
+      "id": "d1af982e6b6b1c37486b27d651ae1dc3",
+      "title": "Thái Lan đại thắng ở vòng loại cuối Asian Cup 2027",
+      "link": "https://vnexpress.net/thai-lan-dai-thang-o-vong-loai-cuoi-asian-cup-2027-4951389.html",
+      "summary": "Thái Lan đè bẹp Đài Loan với tỷ số tương đương một ván tennis ở lượt bốn để vươn lên dẫn đầu bảng D vòng loại cuối Asian Cup 2027, tối 14/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T12:28:43+07:00",
+      "fetched": "2025-10-14T23:20:55.611214+07:00"
     },
     {
       "id": "a60d86ea1efde1a8bcaf5ce30bb10e75",
@@ -1351,6 +1811,16 @@ window.newsData_2025_10_14 = {
       "category": "Thể thao",
       "published": "2025-10-14T11:30:00+07:00",
       "fetched": "2025-10-14T19:36:25.253661+07:00"
+    },
+    {
+      "id": "7e35a2a17e9fc0ec986742fb9aab8ec4",
+      "title": "Việt Nam thắng nhờ bàn phản lưới ở vòng loại Asian Cup",
+      "link": "https://vnexpress.net/truc-tiep-tran-nepal-vs-viet-nam-o-vong-loai-asian-cup-2027-4951169-tong-thuat.html",
+      "summary": "Việt Nam phung phí cơ hội, chỉ thắng Nepal nhờ bàn phản lưới, ở lượt bốn bảng F, vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T11:30:00+07:00",
+      "fetched": "2025-10-14T23:20:55.611378+07:00"
     },
     {
       "id": "8e2cc43fe0bfbbfaaf9e77677a484d3c",
