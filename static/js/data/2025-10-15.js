@@ -1,7 +1,157 @@
 window.newsData_2025_10_15 = {
   "date": "2025-10-15",
-  "lastUpdated": "2025-10-15T17:18:45.681330+07:00",
+  "lastUpdated": "2025-10-15T19:36:21.611065+07:00",
   "articles": [
+    {
+      "id": "b38b321b0c52d6b6d5aa0b451dffa9a0",
+      "title": "'Phương án ứng phó với lũ lịch sử còn bị động'",
+      "link": "https://tuoitre.vn/phuong-an-ung-pho-voi-lu-lich-su-con-bi-dong-20251015164816018.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường đánh giá công tác ứng phó mưa lũ sau bão số 11 (Matmo) còn bộc lộ một số vấn đề tồn tại, trong đó có phương án ứng phó với lũ lịch sử còn bị động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.442612+07:00",
+      "fetched": "2025-10-15T19:36:12.442732+07:00"
+    },
+    {
+      "id": "952e328af2d5b4a96c3d6f19c04fd58a",
+      "title": "Việt Hương làm cô dâu, Hồng Đào là chú rể trong 'Cục vàng của ngoại'",
+      "link": "https://tuoitre.vn/viet-huong-lam-co-dau-hong-dao-la-chu-re-trong-cuc-vang-cua-ngoai-20251015170516358.htm",
+      "summary": "Việt Hương, Hồng Đào nói đùa nhân vật trong phim 'Cục vàng của ngoại' là bạn thân nhưng như vợ chồng. Ra mắt phim, hai nghệ sĩ mặc đồ như cô dâu chú rể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.442489+07:00",
+      "fetched": "2025-10-15T19:36:12.442601+07:00"
+    },
+    {
+      "id": "c04e5db567ac0c7ae99eeb512af8bc7d",
+      "title": "Campuchia công bố danh tính nghi phạm người Trung Quốc tra tấn, sát hại nam sinh Hàn Quốc",
+      "link": "https://tuoitre.vn/campuchia-cong-bo-danh-tinh-nghi-pham-nguoi-trung-quoc-tra-tan-sat-hai-nam-sinh-han-quoc-20251015171654864.htm",
+      "summary": "Ngày 15-10, Bộ Nội vụ Campuchia đã công bố danh tính hai nghi phạm người Trung Quốc liên quan đến vụ sát hại sinh viên người Hàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.442366+07:00",
+      "fetched": "2025-10-15T19:36:12.442477+07:00"
+    },
+    {
+      "id": "de297ae38ea87499822e7ba665ea358e",
+      "title": "Du học sinh đến Mỹ giảm mạnh mùa thu này",
+      "link": "https://tuoitre.vn/du-hoc-sinh-den-my-giam-manh-mua-thu-nay-20251015161500335.htm",
+      "summary": "Số lượng du học sinh đến Mỹ mùa thu năm nay giảm gần 19% so với cùng kỳ năm ngoái, mức giảm sâu nhất trong nhiều năm gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.442242+07:00",
+      "fetched": "2025-10-15T19:36:12.442355+07:00"
+    },
+    {
+      "id": "3139b1d7e21606df672d2cdd4e2c1f65",
+      "title": "Hết hồn với tượng 'rết người', 'cô gái ba mặt' gây tranh cãi tại công viên trẻ em ở Trung Quốc",
+      "link": "https://tuoitre.vn/het-hon-voi-tuong-ret-nguoi-co-gai-ba-mat-gay-tranh-cai-tai-cong-vien-tre-em-o-trung-quoc-20251015170044558.htm",
+      "summary": "Một công viên dành cho trẻ em ở Trung Quốc gây sốc khi trưng bày loạt tượng có hình ảnh kỳ dị. Trước làn sóng chỉ trích, ban quản lý lên tiếng xin lỗi, cam kết tháo dỡ một số tác phẩm gây tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.442110+07:00",
+      "fetched": "2025-10-15T19:36:12.442230+07:00"
+    },
+    {
+      "id": "b350128aaa84dccc30195dfc93481d8f",
+      "title": "Vietnam Airlines kiến nghị khai thác linh hoạt sân bay Long Thành giai đoạn đầu",
+      "link": "https://tuoitre.vn/vietnam-airlines-kien-nghi-khai-thac-linh-hoat-san-bay-long-thanh-giai-doan-dau-20251015171202832.htm",
+      "summary": "Vietnam Airlines kiến nghị Bộ Xây dựng cho phép các hãng hàng không được chủ động linh hoạt kế hoạch khai thác để đảm bảo nguồn lực cũng như đảm bảo nối chuyến trong giai đoạn đầu khai thác sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441957+07:00",
+      "fetched": "2025-10-15T19:36:12.442098+07:00"
+    },
+    {
+      "id": "fe2dd95f28523d94a8872a7a3b727418",
+      "title": "Bình quân du khách đến Cần Thơ xài gần 860.000 đồng",
+      "link": "https://tuoitre.vn/binh-quan-du-khach-den-can-tho-xai-gan-860-000-dong-20251015165432854.htm",
+      "summary": "Trong 9 tháng, Cần Thơ ước đón hơn 9,3 triệu lượt du khách, tổng doanh thu hơn 8.000 tỉ đồng. Trung bình du khách chi tiêu gần 860.000 đồng khi đến thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441831+07:00",
+      "fetched": "2025-10-15T19:36:12.441945+07:00"
+    },
+    {
+      "id": "4778d84468b6bb3cf5110dba4f85f6e9",
+      "title": "Startup Việt gọi vốn: Thay đổi suy nghĩ về khởi nghiệp",
+      "link": "https://tuoitre.vn/startup-viet-goi-von-thay-doi-suy-nghi-ve-khoi-nghiep-20251013153539892.htm",
+      "summary": "Không tài sản thế chấp, không bảo lãnh, nhiều startup Việt đã gọi vốn thành công bằng chính giá trị của ý tưởng và khả năng thuyết phục nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441699+07:00",
+      "fetched": "2025-10-15T19:36:12.441819+07:00"
+    },
+    {
+      "id": "0ac81420eb5d2a7fc08eb44d07eb4a69",
+      "title": "Về xứ dừa đổi 1 trái dừa lấy 1 ký tôm trong 2 ngày 1 đêm?",
+      "link": "https://tuoitre.vn/ve-xu-dua-doi-1-trai-dua-lay-1-ky-tom-trong-2-ngay-1-dem-20251015144028962.htm",
+      "summary": "Một số khán giả khi xem 2 ngày 1 đêm tập 84 cho rằng việc các nghệ sĩ dùng vài trái dừa, bánh tráng để đổi lấy thịt, tôm là lợi dụng lòng tốt, sự mến mộ của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441564+07:00",
+      "fetched": "2025-10-15T19:36:12.441687+07:00"
+    },
+    {
+      "id": "eac518479aea1ab2218aaff545b1ff56",
+      "title": "Thi Tiếng hát Hà Nội 2025, giải thưởng cao nhất có 1 chiếc ô tô",
+      "link": "https://tuoitre.vn/thi-tieng-hat-ha-noi-2025-giai-thuong-cao-nhat-co-1-chiec-o-to-20251015172343636.htm",
+      "summary": "‘Song giải thưởng quan trọng nhất vẫn là sự ghi nhận của giới chuyên môn, của công chúng và truyền thông, chứ không chỉ là giá trị vật chất’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441437+07:00",
+      "fetched": "2025-10-15T19:36:12.441553+07:00"
+    },
+    {
+      "id": "19cbbf09d401d69c05bfeca982eedd84",
+      "title": "Thủ tướng gửi thư khen Công an Phú Thọ đã triệt phá đường dây làm hàng triệu bình chữa cháy giả",
+      "link": "https://tuoitre.vn/thu-tuong-gui-thu-khen-cong-an-phu-tho-da-triet-pha-duong-day-lam-hang-trieu-binh-chua-chay-gia-20251015173344813.htm",
+      "summary": "Thủ tướng Phạm Minh Chính biểu dương Công an tỉnh Phú Thọ triệt phá đường dây sản xuất, buôn bán bình chữa cháy giả quy mô lớn tại Công ty TNHH PCCC Tomoken Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441308+07:00",
+      "fetched": "2025-10-15T19:36:12.441425+07:00"
+    },
+    {
+      "id": "663d0c8784c9b1c87c78c91ddaba138e",
+      "title": "Malaysia chính thức kháng án vụ cầu thủ gian lận nhập tịch",
+      "link": "https://tuoitre.vn/malaysia-chinh-thuc-khang-an-vu-cau-thu-gian-lan-nhap-tich-20251015174117075.htm",
+      "summary": "Ngày 15-10, Liên đoàn bóng đá Malaysia (FAM) cho biết đã đưa ra hành động liên quan vụ 7 cầu thủ nhập tịch trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441179+07:00",
+      "fetched": "2025-10-15T19:36:12.441296+07:00"
+    },
+    {
+      "id": "6d1efd88922be7c422bcb3245f1f9444",
+      "title": "Giải marathon Đất sen hồng, hành trình trải nghiệm văn hóa",
+      "link": "https://tuoitre.vn/giai-marathon-dat-sen-hong-hanh-trinh-trai-nghiem-van-hoa-20251010163250177.htm",
+      "summary": "Trong 3 ngày từ 10 đến 12-10, tại Quảng trường Văn Miếu, phường Cao Lãnh, tỉnh Đồng Tháp đã diễn ra giải marathon với tổng số 12.800 vận động viên tham dự. Đây là hành trình bứt phá, để lại nhiều cảm xúc đối với các vận động viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.441041+07:00",
+      "fetched": "2025-10-15T19:36:12.441166+07:00"
+    },
+    {
+      "id": "dc53c48c2adf7f7932f85d29d24039f5",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Giúp trẻ vận động, rời xa điện thoại",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-giup-tre-van-dong-roi-xa-dien-thoai-20251015144824154.htm",
+      "summary": "Một nỗi lo quen thuộc lại khiến nhiều bậc phụ huynh trăn trở: Làm sao để lan tỏa năng lượng tích cực, giúp con không dành quá nhiều thời gian trước màn hình tivi, điện thoại? Làm sao để các em có thể rời xa thiết bị công nghệ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.440876+07:00",
+      "fetched": "2025-10-15T19:36:12.441027+07:00"
+    },
+    {
+      "id": "619d4c28e3e4ef9c91c0fb0f5dd93e51",
+      "title": "Điểm tin 18h: Giá vàng miếng SJC xác lập đỉnh mới; Thương chiến Mỹ - Trung leo thang trên biển",
+      "link": "https://tuoitre.vn/diem-tin-18h-gia-vang-mieng-sjc-xac-lap-dinh-moi-thuong-chien-my-trung-leo-thang-tren-bien-20251015162305924.htm",
+      "summary": "Điểm tin 18h: Giá vàng miếng SJC xác lập đỉnh mới; Thương chiến Mỹ - Trung leo thang trên biển",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:36:12.440642+07:00",
+      "fetched": "2025-10-15T19:36:12.440861+07:00"
+    },
     {
       "id": "d8e199fc45befc661f301c5246da4641",
       "title": "Việt Nam và nhiều nước sẵn sàng hỗ trợ tái thiết Gaza",
@@ -453,6 +603,286 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T13:25:18.599114+07:00"
     },
     {
+      "id": "6dca0ec5cdc99742aa73d260059d2d21",
+      "title": "Vừa kháng cáo FIFA, FAM vừa tuyên bố cứng rắn: Sẽ trừng phạt HLV đội tuyển Malaysia vì…",
+      "link": "https://thanhnien.vn/vua-khang-cao-fifa-fam-vua-tuyen-bo-cung-ran-se-trung-phat-hlv-doi-tuyen-malaysia-vi-185251015191243729.htm",
+      "summary": "Sau khi gửi kháng cáo sát hạn chót FIFA quy định, lãnh đạo FAM khẳng định sẽ có biện pháp trừng phạt HLV đội Malaysia Peter Cklamovski nói xấu tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:31:00+07:00",
+      "fetched": "2025-10-15T19:36:11.236496+07:00"
+    },
+    {
+      "id": "7597abdfef5ef99aae738a779d4cb5df",
+      "title": "Campuchia bắt 8 người Việt với cáo buộc tham gia lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/campuchia-bat-8-nguoi-viet-voi-cao-buoc-tham-gia-lua-dao-truc-tuyen-4951811.html",
+      "summary": "Cảnh sát Phnom Penh đột kích một tụ điểm nghi lừa đảo trực tuyến, bắt 8 công dân Việt Nam, trong đó có ba phụ nữ, bị cáo buộc tham gia lừa tiền trên mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T12:24:35+07:00",
+      "fetched": "2025-10-15T19:36:14.084612+07:00"
+    },
+    {
+      "id": "e64e1d39f0a905d743cf51db2e12f6c0",
+      "title": "Vì sao Djokovic xếp trên Sinner ở Six Kings Slam?",
+      "link": "https://vnexpress.net/vi-sao-djokovic-xep-tren-sinner-o-six-kings-slam-4951847.html",
+      "summary": "Có thứ bậc thấp hơn Jannik Sinner, nhưng Novak Djokovic lại được chọn vào thẳng vòng bán kết Six Kings Slam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T12:19:53+07:00",
+      "fetched": "2025-10-15T19:36:21.598584+07:00"
+    },
+    {
+      "id": "da052bf37ae797d97507dad9ff2332ee",
+      "title": "4 ngày ra quân, CSGT TP.HCM phạt 1.800 người vi phạm nồng độ cồn",
+      "link": "https://thanhnien.vn/4-ngay-ra-quan-csgt-tphcm-phat-1800-nguoi-vi-pham-nong-do-con-185251015160458253.htm",
+      "summary": "Trong 4 ngày ra quân cao điểm, CSGT TP.HCM đã phạt 1.800 người vi phạm nồng độ cồn, gửi thông báo phạt nguội 1.900 trường hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:19:00+07:00",
+      "fetched": "2025-10-15T19:36:11.236663+07:00"
+    },
+    {
+      "id": "9a840275e50da30e0ecd68118c07d107",
+      "title": "Israel nói Hamas trao trả thi thể không phải của con tin",
+      "link": "https://vnexpress.net/israel-noi-hamas-trao-tra-thi-the-khong-phai-cua-con-tin-4951857.html",
+      "summary": "Quân đội Israel cho biết trong số những thi thể được Hamas trao trả theo thỏa thuận ngừng bắn, có một người không phải là con tin bị nhóm này bắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T12:17:08+07:00",
+      "fetched": "2025-10-15T19:36:14.084792+07:00"
+    },
+    {
+      "id": "81375530e4a7cfc91072acc73e2c8ec7",
+      "title": "Vingroup ra mắt 'Cộng đồng hưu trí' đẳng cấp quốc tế đầu tiên tại Việt Nam",
+      "link": "https://thanhnien.vn/vingroup-ra-mat-cong-dong-huu-tri-dang-cap-quoc-te-dau-tien-tai-viet-nam-18525101519052195.htm",
+      "summary": "Tập đoàn Vingroup vừa công bố ra mắt Vin New Horizon - chuỗi dịch vụ và đô thị hưu trí, dưỡng lão cao cấp theo tiêu chuẩn quốc tế đầu tiên tại Việt Nam. Đặc biệt, Cần Giờ (TP.HCM) sẽ là khu đô thị đầu tiên có sự hiện diện của Vin New Horizon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:17:00+07:00",
+      "fetched": "2025-10-15T19:36:11.236823+07:00"
+    },
+    {
+      "id": "386725af154bc97f4fd81c4081b708c1",
+      "title": "Đào tạo 25.000 - 35.000 kỹ sư, chuyên gia năng lượng hạt nhân, tái tạo...",
+      "link": "https://thanhnien.vn/dao-tao-25000-35000-ky-su-chuyen-gia-nang-luong-hat-nhan-tai-tao-185251015173649792.htm",
+      "summary": "Chính phủ vừa ban hành Nghị quyết 328 về Chương trình hành động của Chính phủ thực hiện Nghị quyết số 70 của Bộ Chính trị về bảo đảm an ninh năng lượng quốc gia đến năm 2030, tầm nhìn đến năm 2045.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:13:00+07:00",
+      "fetched": "2025-10-15T19:36:11.236996+07:00"
+    },
+    {
+      "id": "2cfed6b7f9d1ef34ecf6ba8e9488cd13",
+      "title": "Đà Nẵng 'siết' chống rửa tiền trong lĩnh vực bất động sản",
+      "link": "https://thanhnien.vn/da-nang-siet-chong-rua-tien-trong-linh-vuc-bat-dong-san-185251015142616613.htm",
+      "summary": "Sở Xây dựng Đà Nẵng vừa có công văn yêu cầu các ngân hàng, chi nhánh ngân hàng, chủ đầu tư... có trách nhiệm báo cáo Ngân hàng Nhà nước các giao dịch đáng ngờ nhằm chống rửa tiền trong lĩnh vực bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:11:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237157+07:00"
+    },
+    {
+      "id": "675b6d36763d546dccb903480ab22271",
+      "title": "Vietlott hỗ trợ 3 tỉnh miền Bắc sau bão số 11",
+      "link": "https://thanhnien.vn/vietlott-ho-tro-3-tinh-mien-bac-sau-bao-so-11-185251015135256006.htm",
+      "summary": "Ngày 14.10.2025, Công ty Xổ số điện toán Việt Nam (Vietlott) cùng Quỹ Tâm Tài Việt đã trao 2,3 tỉ đồng hỗ trợ 3 tỉnh Thái Nguyên, Bắc Ninh và Cao Bằng khắc phục hậu quả do bão số 11 gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:11:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237314+07:00"
+    },
+    {
+      "id": "cfc9309f2477c1c33dc74238093a4621",
+      "title": "Thu hút khách Singapore 'chi tiêu cao' tới TP.HCM",
+      "link": "https://thanhnien.vn/thu-hut-khach-singapore-chi-tieu-cao-toi-tphcm-185251015143413368.htm",
+      "summary": "Tại Hội chợ Du lịch quốc tế ITB Asia 2025 ở Singapore, TP.HCM đẩy mạnh quảng bá hình ảnh siêu đô thị năng động, hướng tới nhóm khách Singapore có khả năng chi tiêu cao và nhu cầu trải nghiệm độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:09:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237465+07:00"
+    },
+    {
+      "id": "6c090d4c15a6e8a7da28290461971547",
+      "title": "Hộ chiếu Việt Nam tụt 8 bậc trong bảng xếp hạng toàn cầu",
+      "link": "https://vnexpress.net/ho-chieu-viet-nam-tut-8-bac-trong-bang-xep-hang-toan-cau-4951859.html",
+      "summary": "Hộ chiếu Việt Nam xếp thứ 92 trên toàn cầu trong lần công bố quý IV của Henley Passport Index (HPI), tụt 8 bậc so với quý III.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:06:20+07:00",
+      "fetched": "2025-10-15T19:36:08.067749+07:00"
+    },
+    {
+      "id": "97a7fa961f6f929cbad4217976e29e63",
+      "title": "Ông Trump: 'Tôi nghĩ mình sẽ không được lên thiên đường'",
+      "link": "https://thanhnien.vn/ong-trump-toi-nghi-minh-se-khong-duoc-len-thien-duong-18525101517502809.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã ám chỉ rằng ông khó có thể lên thiên đường dù đã nỗ lực hòa giải giữa Israel và Hamas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:06:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237613+07:00"
+    },
+    {
+      "id": "85c5a3fd6424ac0bdb189e3a65339924",
+      "title": "Phong cách đời thường của vợ trùm bất động sản Hong Kong",
+      "link": "https://vnexpress.net/phong-cach-doi-thuong-cua-vo-trum-bat-dong-san-hong-kong-4951735.html",
+      "summary": "Trần Khải Vận - vợ tỷ phú Hong Kong Lưu Loan Hùng - thường mặc trang phục đan len thủ công, phối loạt túi Kelly, Birkin của Hermès.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.067933+07:00"
+    },
+    {
+      "id": "fc9fd0c9a03fde517e1f4a876baed4df",
+      "title": "Lý do nhiều thị trường khách lớn đến Việt Nam đồng loạt giảm",
+      "link": "https://vnexpress.net/ly-do-nhieu-thi-truong-khach-lon-den-viet-nam-dong-loat-giam-4950635.html",
+      "summary": "6 trên 10 thị trường gửi khách hàng đầu của Việt Nam cùng giảm tháng 9, đặt ra bài toán về đa dạng hóa sản phẩm, linh hoạt chiến lược để vượt qua \"nốt trầm\" mùa thấp điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.068123+07:00"
+    },
+    {
+      "id": "f45c5df1f427c8be423025981afd2dc7",
+      "title": "Tham vọng lấn sân thị trường Việt Nam của Mobile Legends",
+      "link": "https://vnexpress.net/tham-vong-lan-san-thi-truong-viet-nam-cua-mobile-legends-4951727.html",
+      "summary": "Moonton đang từng bước mở rộng hệ sinh thái Mobile Legends tại Việt Nam, kết hợp đầu tư giải đấu chuyên nghiệp, bản địa hóa nội dung và phát triển cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.068293+07:00"
+    },
+    {
+      "id": "c590b9047d2198c5e8228df8e1637769",
+      "title": "Khổ sở vì điều trị sùi mào gà dai dẳng",
+      "link": "https://vnexpress.net/kho-so-vi-dieu-tri-sui-mao-ga-dai-dang-4951603.html",
+      "summary": "Tám tháng qua, Huỳnh Thanh, 25 tuổi, hàng ngày bôi thuốc điều trị nhưng những nốt sùi nhỏ ở vùng kín chỉ biến mất một vài ngày rồi xuất hiện trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.068455+07:00"
+    },
+    {
+      "id": "86870548c9826a5b830b4d599e99b448",
+      "title": "KDI Holdings tôn vinh văn hóa Việt qua những công trình biểu tượng",
+      "link": "https://vnexpress.net/kdi-holdings-ton-vinh-van-hoa-viet-qua-nhung-cong-trinh-bieu-tuong-4948339.html",
+      "summary": "KDI Holdings chú trọng bảo tồn và tôn vinh các giá trị văn hóa, nghệ thuật truyền thống thông qua việc phát triển các công trình biểu tượng gắn với hình ảnh bản sắc văn hóa dân tộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.068614+07:00"
+    },
+    {
+      "id": "bb165ca59280e7538a1d9082d099f05f",
+      "title": "Các tổ chức, cá nhân hướng tới danh hiệu 'Vì cộng đồng'",
+      "link": "https://vnexpress.net/cac-to-chuc-ca-nhan-huong-toi-danh-hieu-vi-cong-dong-4948307.html",
+      "summary": "Hoa Sen Group, Sài Gòn Xanh vào đề cử \"Tổ chức vì cộng đồng\" tại Vietnam iContent Awards 2025, còn giải dành cho cá nhân có H'Hen Niê, Hòa Minzy, Phong Bụi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.068778+07:00"
+    },
+    {
+      "id": "9eaa8b0908cee932117ea46795bdd4a7",
+      "title": "Hàn Quốc cấm đi lại đối với một số khu vực của Campuchia",
+      "link": "https://thanhnien.vn/han-quoc-cam-di-lai-doi-voi-mot-so-khu-vuc-cua-campuchia-185251015181129957.htm",
+      "summary": "Hôm nay (15.10), Hàn Quốc thông báo cấm công dân nước này đi lại tại một số khu vực của Campuchia sau vụ một sinh viên đại học của Hàn Quốc bị tra tấn và sát hại tại quốc gia Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237763+07:00"
+    },
+    {
+      "id": "ef8b63a1ca4d3fc7a9c40ec741f602be",
+      "title": "Người dân trồng chuối mất tiền tỷ, suy sụp chờ hỗ trợ sau bão 11",
+      "link": "https://thanhnien.vn/nguoi-dan-trong-chuoi-mat-tien-ty-suy-sup-cho-ho-tro-sau-bao-11-185251015160510466.htm",
+      "summary": "Bão số 11 đi qua để lại thiệt hại nặng nề. Tình trạng ngập nặng làm hàng trăm hecta chuối tại Mê Linh, Hà Nội đổ rạp, hư hỏng nặng, tiền hỗ trợ chưa được nhận, khiến nhiều hộ nông dân trắng tay, người dân trồng chuối nợ ngày càng chồng chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:00:00+07:00",
+      "fetched": "2025-10-15T19:36:11.237921+07:00"
+    },
+    {
+      "id": "60bbcf5ba7802628563f6b5d142feb17",
+      "title": "Thêm văn bằng chứng chỉ số, giảm thời gian cấp bằng tốt nghiệp THPT",
+      "link": "https://thanhnien.vn/them-van-bang-chung-chi-so-giam-thoi-gian-cap-bang-tot-nghiep-thpt-185251015182710218.htm",
+      "summary": "Bộ GD-ĐT dự kiến thời hạn cấp bằng tốt nghiệp THPT (giấy) giảm từ 75 ngày xuống còn 30 ngày; thời hạn cấp văn bằng chứng chỉ số chỉ còn 5 ngày kể từ ngày có quyết định công nhận tốt nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:58:00+07:00",
+      "fetched": "2025-10-15T19:36:11.238095+07:00"
+    },
+    {
+      "id": "fe54452a6e1b25cf4d001384a5365a2a",
+      "title": "'Trung tâm tài chính có thể khai phóng làn sóng đổi mới sáng tạo'",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-co-the-khai-phong-lan-song-doi-moi-sang-tao-4951816.html",
+      "summary": "Trung tâm tài chính có thể khai phóng làn sóng đổi mới sáng tạo nếu đạt được 3 nguyên tắc: minh bạch, nhất quán và hợp tác, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:54:11+07:00",
+      "fetched": "2025-10-15T19:36:08.068937+07:00"
+    },
+    {
+      "id": "fe54452a6e1b25cf4d001384a5365a2a",
+      "title": "'Trung tâm tài chính có thể khai phóng làn sóng đổi mới sáng tạo'",
+      "link": "https://vnexpress.net/trung-tam-tai-chinh-co-the-khai-phong-lan-song-doi-moi-sang-tao-4951816.html",
+      "summary": "Trung tâm tài chính có thể khai phóng làn sóng đổi mới sáng tạo nếu đạt được 3 nguyên tắc: minh bạch, nhất quán và hợp tác, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T11:54:11+07:00",
+      "fetched": "2025-10-15T19:36:15.788434+07:00"
+    },
+    {
+      "id": "c617f5aa6e777b6e3a7f160dc89f0da3",
+      "title": "Hoàn thiện phác đồ với Cold Plasma: Bước tiến trong chăm sóc vết thương khoa học",
+      "link": "https://thanhnien.vn/hoan-thien-phac-do-voi-cold-plasma-buoc-tien-trong-cham-soc-vet-thuong-khoa-hoc-185251015185727853.htm",
+      "summary": "Trong y khoa hiện đại, vết thương mạn tính và khó lành vẫn là thách thức lớn. Từ nhu cầu kiểm soát viêm, hạn chế nhiễm trùng và thúc đẩy tái tạo mô, công nghệ Cold Plasma đang được kỳ vọng trở thành giải pháp tiên tiến trong chăm sóc vết thương toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:49:00+07:00",
+      "fetched": "2025-10-15T19:36:11.238263+07:00"
+    },
+    {
+      "id": "818f1c45cf6651063244b3dc4e3976ce",
+      "title": "3 mẫu xe Nhật được đánh giá cao nhưng người Việt không mặn mà",
+      "link": "https://thanhnien.vn/3-mau-xe-nhat-duoc-danh-gia-cao-nhung-nguoi-viet-khong-man-ma-185251013123927054.htm",
+      "summary": "Đều được đánh giá cao về độ bền, tiết kiệm nhiên liệu... thậm chí có thiết kế hiện đại nhưng những mẫu xe Nhật này lại bị khách Việt thờ ơ, doanh số thấp hơn các đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:44:00+07:00",
+      "fetched": "2025-10-15T19:36:11.238421+07:00"
+    },
+    {
+      "id": "01588e70103781fe13b0a36d4bfe0e02",
+      "title": "Đưa người nhà đi khám mắt, bất ngờ ngưng tim ở sảnh bệnh viện",
+      "link": "https://thanhnien.vn/dua-nguoi-nha-di-kham-mat-bat-ngo-ngung-tim-o-sanh-benh-vien-185251015160904823.htm",
+      "summary": "Một cụ ông 72 tuổi bị ngưng tim ngay tại sảnh Bệnh viện Mắt Nam Quảng Trị, trong lúc đưa người nhà đi khám. Nhờ phản xạ nhanh và kỹ năng vững của điều dưỡng Lê Thị Thu Hà, bệnh nhân đã được cứu kịp thời bằng phương pháp hồi sức tim phổi (CPR), qua cơn nguy kịch trước khi chuyển đến đơn vị hồi sức ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:41:00+07:00",
+      "fetched": "2025-10-15T19:36:11.238573+07:00"
+    },
+    {
+      "id": "14452ef02f621869873ca853eea34eb9",
+      "title": "Trioderma gợi ý chu trình chăm sóc da mụn toàn diện, chuẩn y khoa tại nhà",
+      "link": "https://thanhnien.vn/trioderma-goi-y-chu-trinh-cham-soc-da-mun-toan-dien-chuan-y-khoa-tai-nha-185251015184847246.htm",
+      "summary": "Bộ ba sản phẩm gồm gel rửa mặt, gel chấm mụn, serum phục hồi - mờ thâm đến từ Trioderma được gợi ý trong chu trình chăm da mụn chuẩn y khoa tại nhà. Giúp bạn vừa tiết kiệm thời gian, chi phí mà mang đến hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:35:00+07:00",
+      "fetched": "2025-10-15T19:36:11.238722+07:00"
+    },
+    {
+      "id": "6b1f291a77a847be10b4185a55f294c2",
+      "title": "Tổng Bí thư: Giải phóng tối đa nguồn lực tư nhân cho phát triển khoa học công nghệ",
+      "link": "https://vnexpress.net/tong-bi-thu-giai-phong-toi-da-nguon-luc-tu-nhan-cho-phat-trien-khoa-hoc-cong-nghe-4951678.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu chuyển từ \"Nhà nước làm\" sang \"Nhà nước kiến tạo\", tháo gỡ điểm nghẽn thể chế, khơi thông nguồn lực tư nhân thúc đẩy khoa học công nghệ và đổi mới sáng tạo quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:20:45+07:00",
+      "fetched": "2025-10-15T19:36:08.069125+07:00"
+    },
+    {
       "id": "8a8a14396e08694df59f9d4e2f80cc60",
       "title": "Sạt lở ven sông Tiền, di dời khẩn cấp một căn nhà",
       "link": "https://tuoitre.vn/sat-lo-ven-song-tien-di-doi-khan-cap-mot-can-nha-20251015084602695.htm",
@@ -603,6 +1033,126 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T11:19:38.423430+07:00"
     },
     {
+      "id": "d7e8f1a70bf9f6c6dadcff82cd40a598",
+      "title": "Malaysia đã nộp đơn kháng cáo án phạt của FIFA",
+      "link": "https://vnexpress.net/malaysia-da-nop-don-khang-cao-an-phat-cua-fifa-4951852.html",
+      "summary": "Quyền chủ tịch Datuk Yusoff Mahadi lạc quan khi LĐBĐ Malaysia nộp đơn lên Ủy ban khiếu nại FIFA (FAC) về án phạt của 7 cầu thủ nhập tịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:09:36+07:00",
+      "fetched": "2025-10-15T19:36:08.069284+07:00"
+    },
+    {
+      "id": "d7e8f1a70bf9f6c6dadcff82cd40a598",
+      "title": "Malaysia đã nộp đơn kháng cáo án phạt của FIFA",
+      "link": "https://vnexpress.net/malaysia-da-nop-don-khang-cao-an-phat-cua-fifa-4951852.html",
+      "summary": "Quyền chủ tịch Datuk Yusoff Mahadi lạc quan khi LĐBĐ Malaysia nộp đơn lên Ủy ban khiếu nại FIFA (FAC) về án phạt của 7 cầu thủ nhập tịch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T11:09:36+07:00",
+      "fetched": "2025-10-15T19:36:21.598757+07:00"
+    },
+    {
+      "id": "2f76567682ecb9f281922d424411fafb",
+      "title": "Có bằng lái ở Mỹ nhưng tôi vẫn chịu thua bài thi lái xe mô phỏng",
+      "link": "https://vnexpress.net/sat-hach-lai-xe-ha-noi-sat-hach-lai-xe-bo-cong-an-mo-phong-lai-xe-b1-mo-phong-lai-xe-bo-cong-an-co-bang-lai-o-my-toi-van-chiu-thua-bai-thi-lai-xe-mo-phong-4951774.html",
+      "summary": "Tôi từng có bằng lái và nhiều năm kinh nghiệm cầm lái ở nước ngoài, nhưng vẫn thi trượt phần thi mô phỏng sát hạch lái xe ở Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T11:00:00+07:00",
+      "fetched": "2025-10-15T19:36:08.069444+07:00"
+    },
+    {
+      "id": "bbe153fd90bf29e9bf12ca0f7902eb56",
+      "title": "Đậu nành Mỹ vào Việt Nam tăng gần 30%",
+      "link": "https://vnexpress.net/dau-nanh-my-vao-viet-nam-tang-gan-30-4951791.html",
+      "summary": "Đậu nành Mỹ vào Việt Nam tăng gần 30% về sản lượng trong 9 tháng đầu năm và đang nhắm đến việc cung ứng cho ngành thủy sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:54:16+07:00",
+      "fetched": "2025-10-15T19:36:08.069606+07:00"
+    },
+    {
+      "id": "bbe153fd90bf29e9bf12ca0f7902eb56",
+      "title": "Đậu nành Mỹ vào Việt Nam tăng gần 30%",
+      "link": "https://vnexpress.net/dau-nanh-my-vao-viet-nam-tang-gan-30-4951791.html",
+      "summary": "Đậu nành Mỹ vào Việt Nam tăng gần 30% về sản lượng trong 9 tháng đầu năm và đang nhắm đến việc cung ứng cho ngành thủy sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T10:54:16+07:00",
+      "fetched": "2025-10-15T19:36:15.788611+07:00"
+    },
+    {
+      "id": "176875f23855f3224efbc34e9f5b74bc",
+      "title": "Florida bị phản đối vì cấp đất vàng xây thư viện Tổng thống Trump",
+      "link": "https://vnexpress.net/florida-bi-phan-doi-vi-cap-dat-vang-xay-thu-vien-tong-thong-trump-4951484.html",
+      "summary": "Thống đốc Florida muốn chuyển nhượng khu đất 1,2 ha cho quỹ xây thư viện Tổng thống Trump nhưng bị phản đối và tòa án đã ra lệnh chặn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:49:50+07:00",
+      "fetched": "2025-10-15T19:36:08.069766+07:00"
+    },
+    {
+      "id": "176875f23855f3224efbc34e9f5b74bc",
+      "title": "Florida bị phản đối vì cấp đất vàng xây thư viện Tổng thống Trump",
+      "link": "https://vnexpress.net/florida-bi-phan-doi-vi-cap-dat-vang-xay-thu-vien-tong-thong-trump-4951484.html",
+      "summary": "Thống đốc Florida muốn chuyển nhượng khu đất 1,2 ha cho quỹ xây thư viện Tổng thống Trump nhưng bị phản đối và tòa án đã ra lệnh chặn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T10:49:50+07:00",
+      "fetched": "2025-10-15T19:36:14.084976+07:00"
+    },
+    {
+      "id": "40f6e94cd04a74089c562d30aba5bb34",
+      "title": "GPBank dự kiến lãi 500 tỷ đồng sau khi về tay VPBank",
+      "link": "https://vnexpress.net/gpbank-du-kien-lai-500-ty-dong-sau-khi-ve-tay-vpbank-4951812.html",
+      "summary": "Lãnh đạo VPBank cho biết, GPBank có lãi liên tục từ tháng 6 năm nay, kế hoạch lợi nhuận 500 tỷ cả năm là hoàn toàn khả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:32:54+07:00",
+      "fetched": "2025-10-15T19:36:08.069923+07:00"
+    },
+    {
+      "id": "40f6e94cd04a74089c562d30aba5bb34",
+      "title": "GPBank dự kiến lãi 500 tỷ đồng sau khi về tay VPBank",
+      "link": "https://vnexpress.net/gpbank-du-kien-lai-500-ty-dong-sau-khi-ve-tay-vpbank-4951812.html",
+      "summary": "Lãnh đạo VPBank cho biết, GPBank có lãi liên tục từ tháng 6 năm nay, kế hoạch lợi nhuận 500 tỷ cả năm là hoàn toàn khả thi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T10:32:54+07:00",
+      "fetched": "2025-10-15T19:36:15.788778+07:00"
+    },
+    {
+      "id": "8ea576af29151932b40f049add97e16c",
+      "title": "DNSE hoàn thành mục tiêu lợi nhuận năm sau 3 quý",
+      "link": "https://vnexpress.net/dnse-hoan-thanh-muc-tieu-loi-nhuan-nam-sau-3-quy-4951824.html",
+      "summary": "Chứng khoán DNSE ghi nhận lợi nhuận trước thuế 328,6 tỷ đồng, lợi nhuận sau thuế gần 263,3 tỷ đồng, tăng gấp 2 lần cùng kỳ năm ngoái, hoàn thành mục tiêu lợi nhuận cả năm, sau 3 quý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:30:00+07:00",
+      "fetched": "2025-10-15T19:36:08.070096+07:00"
+    },
+    {
+      "id": "8ea576af29151932b40f049add97e16c",
+      "title": "DNSE hoàn thành mục tiêu lợi nhuận năm sau 3 quý",
+      "link": "https://vnexpress.net/dnse-hoan-thanh-muc-tieu-loi-nhuan-nam-sau-3-quy-4951824.html",
+      "summary": "Chứng khoán DNSE ghi nhận lợi nhuận trước thuế 328,6 tỷ đồng, lợi nhuận sau thuế gần 263,3 tỷ đồng, tăng gấp 2 lần cùng kỳ năm ngoái, hoàn thành mục tiêu lợi nhuận cả năm, sau 3 quý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T10:30:00+07:00",
+      "fetched": "2025-10-15T19:36:15.790717+07:00"
+    },
+    {
+      "id": "41310b22f443c43a24979034fa572f11",
+      "title": "Trung Quốc chi hơn một tỷ USD mua rau quả Việt trong tháng 9",
+      "link": "https://vnexpress.net/trung-quoc-chi-hon-mot-ty-usd-mua-rau-qua-viet-trong-thang-9-4951759.html",
+      "summary": "Xuất khẩu rau quả sang Trung Quốc tiếp tục tăng mạnh, đạt gần 1,1 tỷ USD trong tháng 9 - mức cao nhất theo tháng từ trước đến nay, theo Cục Hải quan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T10:19:49+07:00",
+      "fetched": "2025-10-15T19:36:15.788938+07:00"
+    },
+    {
       "id": "57d069e0a493ce3c89e4801b4e1b6c1b",
       "title": "Băng đảng treo thưởng 50.000 USD để ám sát đặc vụ di trú Mỹ",
       "link": "https://vnexpress.net/bang-dang-treo-thuong-50-000-usd-de-am-sat-dac-vu-di-tru-my-4951758.html",
@@ -611,6 +1161,16 @@ window.newsData_2025_10_15 = {
       "category": "Thế giới",
       "published": "2025-10-15T10:17:01+07:00",
       "fetched": "2025-10-15T17:18:42.044617+07:00"
+    },
+    {
+      "id": "be97ebcc56a3cb8c14ae7cdc7ed99cf7",
+      "title": "Apple có thể sản xuất robot để bàn tại Việt Nam",
+      "link": "https://vnexpress.net/apple-co-the-san-xuat-robot-de-ban-tai-viet-nam-4951754.html",
+      "summary": "Apple được cho là sẽ sản xuất robot để bàn và màn hình điều khiển nhà thông minh tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T10:14:22+07:00",
+      "fetched": "2025-10-15T19:36:19.093578+07:00"
     },
     {
       "id": "54edabe2ad6e0c7fa5ff32c628e92b88",
@@ -871,6 +1431,16 @@ window.newsData_2025_10_15 = {
       "category": "Tổng hợp",
       "published": "2025-10-15T09:50:00+07:00",
       "fetched": "2025-10-15T17:18:39.705450+07:00"
+    },
+    {
+      "id": "7a3a1ba6ba6945c8519a00c86439e490",
+      "title": "Cà phê Lâm Đồng được chứng nhận Chỉ dẫn địa lý",
+      "link": "https://vnexpress.net/ca-phe-lam-dong-duoc-chung-nhan-chi-dan-dia-ly-4951741.html",
+      "summary": "Hai dòng cà phê truyền thống Arabica và Robusta canh tác tại tỉnh Lâm Đồng được Cục Sở hữu trí tuệ trao giấy chứng nhận Chỉ dẫn địa lý, ngày 15/10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T09:46:12+07:00",
+      "fetched": "2025-10-15T19:36:19.095035+07:00"
     },
     {
       "id": "7aee91ebec65fcb26207bd3682f6694d",
