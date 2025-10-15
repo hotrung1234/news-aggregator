@@ -1,7 +1,157 @@
 window.newsData_2025_10_15 = {
   "date": "2025-10-15",
-  "lastUpdated": "2025-10-15T19:36:21.611065+07:00",
+  "lastUpdated": "2025-10-15T21:18:06.059566+07:00",
   "articles": [
+    {
+      "id": "c13b68d9c8957fb8e24a74a28bdc0cdd",
+      "title": "9X cầm đầu đường dây ở Campuchia giả danh công an, điện lực lừa đảo người Việt lãnh án chung thân",
+      "link": "https://tuoitre.vn/9x-cam-dau-duong-day-o-campuchia-gia-danh-cong-an-dien-luc-lua-dao-nguoi-viet-linh-an-chung-than-20251015180418324.htm",
+      "summary": "Phượng tuyển hàng chục người, chủ yếu là người thân, bạn bè từ Việt Nam sang Campuchia lập đường dây xưng là công an thực hiện các cuộc gọi lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.525054+07:00",
+      "fetched": "2025-10-15T21:17:58.525168+07:00"
+    },
+    {
+      "id": "d7e2c18b6fbd4313e15fe9908783634e",
+      "title": "Người dân TP.HCM có thêm lựa chọn đăng ký bảo hiểm y tế ban đầu tại hai bệnh viện lớn",
+      "link": "https://tuoitre.vn/nguoi-dan-tp-hcm-co-them-lua-chon-dang-ky-bao-hiem-y-te-ban-dau-tai-hai-benh-vien-lon-20251015174833168.htm",
+      "summary": "Người dân TP.HCM có thể đăng ký khám, chữa bệnh bảo hiểm y tế ban đầu tại Bệnh viện Y học cổ truyền TP.HCM và Bệnh viện Đại học Y Dược TP.HCM - hai cơ sở y tế có năng lực chuyên sâu, giúp việc chăm sóc sức khỏe ban đầu trở nên thuận tiện hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524912+07:00",
+      "fetched": "2025-10-15T21:17:58.525042+07:00"
+    },
+    {
+      "id": "bc4f76856ec19c715133f4e2a1609d5e",
+      "title": "Tặng gói tầm soát ung thư và xét nghiệm HPV cho phụ nữ yếu thế",
+      "link": "https://tuoitre.vn/tang-goi-tam-soat-ung-thu-va-xet-nghiem-hpv-cho-phu-nu-yeu-the-20251015185720512.htm",
+      "summary": "Hơn 2.000 phụ nữ yếu thế được tầm soát ung thư và xét nghiệm HPV miễn phí. Đây là chương trình được Napas, Mastercard và Payoo phối hợp tổ chức nhân kỷ niệm Ngày phụ nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524790+07:00",
+      "fetched": "2025-10-15T21:17:58.524900+07:00"
+    },
+    {
+      "id": "6278ecc9776bfbe79f35055c83a26ec9",
+      "title": "La Nina xuất hiện, mưa bão những tháng tới sẽ ra sao?",
+      "link": "https://tuoitre.vn/la-nina-xuat-hien-mua-bao-nhung-thang-toi-se-ra-sao-20251015185255474.htm",
+      "summary": "Hiện tượng La Nina có thể duy trì tới tháng 1-2026. Dự báo lượng mưa, bão hoạt động trên khu vực Biển Đông và ảnh hưởng đến nước ta khả năng ở mức cao hơn so với trung bình nhiều năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524667+07:00",
+      "fetched": "2025-10-15T21:17:58.524779+07:00"
+    },
+    {
+      "id": "089c961a92801eff6ee77e52d84048b9",
+      "title": "Vì sao phải làm luật quản AI?",
+      "link": "https://tuoitre.vn/vi-sao-phai-lam-luat-quan-ai-20251015185527896.htm",
+      "summary": "Các nhà phát triển AI sẽ phải tuân thủ quy định của Luật AI để tránh các rủi ro về kinh tế, đạo đức, an ninh, an toàn, vi phạm quyền sở hữu trí tuệ, thông tin sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524538+07:00",
+      "fetched": "2025-10-15T21:17:58.524656+07:00"
+    },
+    {
+      "id": "7eba01190e5e8f2dc328d544e6087f19",
+      "title": "BUV đưa chương trình đào tạo từ đại học 200 năm ở Manchester về Việt Nam",
+      "link": "https://tuoitre.vn/buv-dua-chuong-trinh-dao-tao-tu-dai-hoc-200-nam-o-manchester-ve-viet-nam-2025101518211635.htm",
+      "summary": "Những chương trình đào tạo mới không chỉ đáp ứng xu hướng toàn cầu, mà còn mang đến cho sinh viên Việt Nam cơ hội thụ hưởng 200 năm di sản học thuật từ Đại học Manchester Metropolitan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524409+07:00",
+      "fetched": "2025-10-15T21:17:58.524527+07:00"
+    },
+    {
+      "id": "d15449de4217b4afb4e434621b307c6e",
+      "title": "Văn Phú mở rộng phát triển vào thị trường phía Nam",
+      "link": "https://tuoitre.vn/van-phu-mo-rong-phat-trien-vao-thi-truong-phia-nam-20251015183644794.htm",
+      "summary": "Thị trường bất động sản phía Nam, với tâm điểm là TP.HCM, đang đón nhận ‘làn sóng’ đầu tư lớn của các nhà phát triển bất động sản hàng đầu, với hoàng loạt dự án quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524280+07:00",
+      "fetched": "2025-10-15T21:17:58.524398+07:00"
+    },
+    {
+      "id": "460865ca0ee90dfa79960a986123af94",
+      "title": "Doanh nghiệp Việt biến ‘thách thức xanh’ thành ‘cơ hội vàng’ tăng trưởng",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-bien-thach-thuc-xanh-thanh-co-hoi-vang-tang-truong-20251015184603478.htm",
+      "summary": "Trong thập kỷ qua, Việt Nam liên tục khẳng định quyết tâm theo đuổi mục tiêu phát triển bền vững, hướng tới cam kết giảm phát thải ròng về 0 (Net Zero) vào năm 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524148+07:00",
+      "fetched": "2025-10-15T21:17:58.524268+07:00"
+    },
+    {
+      "id": "b63a0989e8e3a9e7f3bd3a424f09cbb1",
+      "title": "Học sinh đến bệnh viện hát, bệnh nhân nghẹn ngào 'như được ở bên người thân'",
+      "link": "https://tuoitre.vn/hoc-sinh-den-benh-vien-hat-benh-nhan-nghen-ngao-nhu-duoc-o-ben-nguoi-than-202510151750475.htm",
+      "summary": "Nhóm học sinh Nha Trang mang âm nhạc và quà tặng đến bệnh nhân Bệnh viện Đa khoa Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.524020+07:00",
+      "fetched": "2025-10-15T21:17:58.524137+07:00"
+    },
+    {
+      "id": "ffc331cdd9546329b270946f719427b5",
+      "title": "Bắc Kinh nói 'không bên nào thắng' sau khi Mỹ dọa ngừng nhập dầu ăn Trung Quốc",
+      "link": "https://tuoitre.vn/bac-kinh-noi-khong-ben-nao-thang-sau-khi-my-doa-ngung-nhap-dau-an-trung-quoc-20251015192751762.htm",
+      "summary": "Ngày 15-10, Bắc Kinh cho biết “sẽ không có bên nào chiến thắng” trong cuộc chiến thương mại sau khi ông Trump cảnh báo Mỹ có thể ngừng mua dầu ăn đã qua sử dụng từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523879+07:00",
+      "fetched": "2025-10-15T21:17:58.524007+07:00"
+    },
+    {
+      "id": "b8033d4afe54a6c3f61c40a8bbe1ee05",
+      "title": "Cứu sống người đàn ông rơi xuống giếng hoang khi đi rừng",
+      "link": "https://tuoitre.vn/cuu-song-nguoi-dan-ong-roi-xuong-gieng-hoang-khi-di-rung-20251015174817224.htm",
+      "summary": "Một người đàn ông tại Gia Lai bị rơi xuống giếng hoang giữa rừng keo khi đi bắt ong, hái ớt. Nạn nhân may mắn được phát hiện, giải cứu kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523752+07:00",
+      "fetched": "2025-10-15T21:17:58.523867+07:00"
+    },
+    {
+      "id": "7df2f6b2cecbb53e97110252d3506ea6",
+      "title": "Đường sắt tốc độ cao nối Cần Giờ của Vinspeed: TP.HCM lập hội đồng thẩm định dự án",
+      "link": "https://tuoitre.vn/duong-sat-toc-do-cao-noi-can-gio-cua-vinspeed-tp-hcm-lap-hoi-dong-tham-dinh-du-an-20251015191216659.htm",
+      "summary": "Chiều 15-10, UBND TP.HCM đã thành lập hội đồng thẩm định dự án tuyến đường sắt đô thị tốc độ cao do Công ty Vinspeed đầu tư từ trung tâm TP đến Cần Giờ. Với tuyến đường sắt này, dự kiến đi từ trung tâm TP đến Cần Giờ chỉ mất 12 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523623+07:00",
+      "fetched": "2025-10-15T21:17:58.523740+07:00"
+    },
+    {
+      "id": "0a80fa7d0584c1b5e192fc18636e56a8",
+      "title": "Vingroup ra mắt ‘cộng đồng hưu trí’ đẳng cấp quốc tế đầu tiên tại Việt Nam",
+      "link": "https://tuoitre.vn/vingroup-ra-mat-cong-dong-huu-tri-dang-cap-quoc-te-dau-tien-tai-viet-nam-20251015193603651.htm",
+      "summary": "Tập đoàn Vingroup sẽ ra mắt Vin New Horizon - chuỗi dịch vụ và đô thị hưu trí, dưỡng lão cao cấp theo tiêu chuẩn quốc tế đầu tiên tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523491+07:00",
+      "fetched": "2025-10-15T21:17:58.523611+07:00"
+    },
+    {
+      "id": "a6f2845a509f8fa27cc6b602e4fe5a4f",
+      "title": "Quốc Trường là đại sứ đầu tiên cho một bom tấn kinh dị Hollywood tại Việt Nam",
+      "link": "https://tuoitre.vn/quoc-truong-la-dai-su-dau-tien-cho-mot-bom-tan-kinh-di-hollywood-tai-viet-nam-20251015184316807.htm",
+      "summary": "Universal Pictures chọn diễn viên Quốc Trường, cũng là nghệ sĩ Việt Nam đầu tiên làm đại sứ chính thức cho bom tấn kinh dị Hollywood, mở ra cột mốc mới trong chiến lược quảng bá toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523351+07:00",
+      "fetched": "2025-10-15T21:17:58.523479+07:00"
+    },
+    {
+      "id": "1c391a04792e6b3b787c9d7c2fe163d2",
+      "title": "Ngôi sao cầu lông Trung Quốc thua sốc liên tiếp 5 giải",
+      "link": "https://tuoitre.vn/ngoi-sao-cau-long-trung-quoc-thua-soc-lien-tiep-5-giai-2025101519442655.htm",
+      "summary": "3 tháng trước, Wang Zheng Xing còn được xem là ngôi sao cầu lông thế hệ mới của Trung Quốc, nhưng rồi anh lại trải qua chuỗi ngày bại trận một cách khó hiểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:17:58.523125+07:00",
+      "fetched": "2025-10-15T21:17:58.523336+07:00"
+    },
     {
       "id": "b38b321b0c52d6b6d5aa0b451dffa9a0",
       "title": "'Phương án ứng phó với lũ lịch sử còn bị động'",
@@ -453,6 +603,126 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T15:23:10.802180+07:00"
     },
     {
+      "id": "9c3be98f501bdb1df38709514ef658c8",
+      "title": "Cần Thơ lần đầu tổ chức lễ hội sông nước",
+      "link": "https://thanhnien.vn/can-tho-lan-dau-to-chuc-le-hoi-song-nuoc-185251015184457807.htm",
+      "summary": "Dự kiến cuối tháng 12.2025, Cần Thơ sẽ lần đầu tiên tổ chức lễ hội sông nước. Đây là lễ hội được lãnh đạo thành phố \"ấp ủ nhiều năm\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T14:12:00+07:00",
+      "fetched": "2025-10-15T21:17:57.455935+07:00"
+    },
+    {
+      "id": "dfabf4476dfd37535a7e0025e3887a13",
+      "title": "Hé lộ chiếc áo dài đặc biệt của Hà Anh Tuấn trong show diễn tại Dolby Theatre",
+      "link": "https://thanhnien.vn/thoi-trang-tre/he-lo-chiec-ao-dai-dac-biet-cua-ha-anh-tuan-trong-show-dien-tai-dolby-theatre-185251015174831527.htm",
+      "summary": "Ngày 18.10, ca sĩ Hà Anh Tuấn mang live concert 'Sketch a Rose' đến Dolby Theatre, Hollywood (Mỹ). Đồng hành cùng anh trong cột mốc đặc biệt này là nhà thiết kế gốc Việt Peter Do, người sẽ sáng tạo hai bộ trang phục biểu diễn, biến sân khấu thành sàn diễn của niềm tự hào và di sản Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T14:00:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456121+07:00"
+    },
+    {
+      "id": "3c6073bcd137d234c6a222f129f99e4f",
+      "title": "10 nhà khoa học trẻ đoạt giải Quả cầu Vàng 2025",
+      "link": "https://vnexpress.net/10-nha-khoa-hoc-tre-doat-giai-qua-cau-vang-2025-4951826.html",
+      "summary": "10 nhà khoa học trẻ xuất sắc, lựa chọn từ gần 100 ứng viên trong và ngoài nước, được vinh danh giải Quả cầu Vàng 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T13:59:43+07:00",
+      "fetched": "2025-10-15T21:18:04.968333+07:00"
+    },
+    {
+      "id": "7eb77aab4924e090f27f80004c312620",
+      "title": "Apple ra MacBook Pro 14 inch dùng chip M5, pin 24 tiếng",
+      "link": "https://vnexpress.net/apple-ra-macbook-pro-14-inch-dung-chip-m5-pin-24-tieng-4951872.html",
+      "summary": "MacBook Pro 14 inch là model đầu tiên dùng chip xử lý hoàn toàn mới Apple M5 với thời lượng pin 24 tiếng, hiệu năng AI tăng 3,5 lần.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T13:49:24+07:00",
+      "fetched": "2025-10-15T21:18:04.967668+07:00"
+    },
+    {
+      "id": "73bbde1b48eb6f47ae0afbb7fec3ce70",
+      "title": "Các trùm lừa đảo Campuchia: Từ ‘bố già' bị Thái Lan truy nã đến tỉ phú bị Mỹ truy tố",
+      "link": "https://thanhnien.vn/cac-trum-lua-dao-campuchia-tu-bo-gia-bi-thai-lan-truy-na-den-ti-phu-bi-my-truy-to-185251015203726199.htm",
+      "summary": "Trong lúc Seoul cử đoàn làm việc đến Campuchia sau vụ sinh viên Hàn Quốc bị sát hại trong đường dây lừa đảo, một số nước hiện truy nã công dân Campuchia bị tố đứng đầu các mạng lưới lừa đảo xuyên quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:49:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456277+07:00"
+    },
+    {
+      "id": "194cb116e0e9571985852665011f0d9d",
+      "title": "Hơn một nửa người Việt mua ô tô hybrid chọn xe Toyota",
+      "link": "https://thanhnien.vn/hon-mot-nua-nguoi-viet-mua-o-to-hybrid-chon-xe-toyota-185251011153151162.htm",
+      "summary": "Tháng thứ tư liên tiếp lượng tiêu thụ ô tô hybrid tại Việt Nam tăng trưởng, trong đó hơn 54% người Việt mua ô tô hybrid trong tháng 9 chọn các mẫu mã của Toyota.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:48:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456427+07:00"
+    },
+    {
+      "id": "33c1cb02984decc14910fc6b45f55b83",
+      "title": "FAM chính thức kháng cáo lên FIFA về 7 cầu thủ nhập tịch: Liệu có cơ sở?",
+      "link": "https://thanhnien.vn/fam-chinh-thuc-khang-cao-len-fifa-ve-7-cau-thu-nhap-tich-lieu-co-co-so-1852510152022584.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đã chính thức nộp đơn kháng cáo lên Liên đoàn Bóng đá Thế giới (FIFA) liên quan đến án cấm thi đấu đối với 7 cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:45:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456575+07:00"
+    },
+    {
+      "id": "ee036c51d9230b97a38a9ec5d61a1f11",
+      "title": "Khám xét nhà Ngân 98, thu giữ 80 sổ đỏ, hơn 8.000 USD",
+      "link": "https://thanhnien.vn/kham-xet-nha-ngan-98-thu-giu-80-so-do-hon-8000-usd-185251015202441315.htm",
+      "summary": "Khám xét nhà của Ngân 98, cơ quan điều tra thu giữ két sắt nhưng Ngân 98 và người nhà không hợp tác, không cung cấp mật khẩu để mở. Khi đưa két sắt về trụ sở, công an mở khóa bên trong có 80 sổ đỏ, hơn 8.000 USD, 4 sổ tiết kiệm ngân hàng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:32:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456725+07:00"
+    },
+    {
+      "id": "6191304f8c07744007156a6bad49d836",
+      "title": "Thoát 'cửa tử' khi thuyên tắc phổi cấp sau cơn đột quỵ",
+      "link": "https://vnexpress.net/thoat-cua-tu-khi-thuyen-tac-phoi-cap-sau-con-dot-quy-4951722.html",
+      "summary": "Người đàn ông 58 tuổi từ Campuchia nhập viện vì liệt nửa người do đột quỵ xuất huyết não, sau đó rơi vào thuyên tắc phổi cấp, nguy kịch tính mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:27:55+07:00",
+      "fetched": "2025-10-15T21:17:39.794112+07:00"
+    },
+    {
+      "id": "fef2dd68db1bfc8cc0436b2ae74ca295",
+      "title": "Ông Hoàng Quốc Khánh giữ chức Bí thư Lạng Sơn",
+      "link": "https://vnexpress.net/ong-hoang-quoc-khanh-giu-chuc-bi-thu-lang-son-4951871.html",
+      "summary": "Bộ Chính trị ngày 15/10 điều động, chỉ định ông Hoàng Quốc Khánh, Bí thư Tỉnh ủy Sơn La, giữ chức Bí thư Tỉnh ủy Lạng Sơn nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:27:35+07:00",
+      "fetched": "2025-10-15T21:17:39.794288+07:00"
+    },
+    {
+      "id": "f68d44cb58b19bad9d36c92c8ef3d61e",
+      "title": "Người phụ nữ mang khối u to như thai 7 tháng",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mang-khoi-u-to-nhu-thai-7-thang-4951455.html",
+      "summary": "Người phụ nữ 46 tuổi phát hiện u xơ tử cung 10 năm trước nhưng sợ phẫu thuật, nghĩ rằng u sẽ teo nhỏ khi mãn kinh, đến khi bụng phình to như mang thai mới đi khám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:27:29+07:00",
+      "fetched": "2025-10-15T21:17:39.794450+07:00"
+    },
+    {
+      "id": "c8843f14f4384dd4aeac8151fcf3c59d",
+      "title": "Khoảnh khắc Starship rời bệ phóng trong lần bay thử thứ 11",
+      "link": "https://vnexpress.net/khoanh-khac-starship-roi-be-phong-trong-lan-bay-thu-thu-11-4951543.html",
+      "summary": "Tên lửa Starship – phương tiện phóng lớn và mạnh nhất thế giới của SpaceX vừa hoàn tất chuyến bay thử cận quỹ đạo lần thứ 11, hạ cánh an toàn xuống Trái Đất sau 66 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:26:25+07:00",
+      "fetched": "2025-10-15T21:17:39.794610+07:00"
+    },
+    {
       "id": "49c07d24851f933e8f94093143431ede",
       "title": "Dự Đại hội Đảng bộ Thanh Hóa, Thủ tướng yêu cầu cán bộ dám nghĩ dám làm",
       "link": "https://tuoitre.vn/du-dai-hoi-dang-bo-thanh-hoa-thu-tuong-yeu-cau-can-bo-dam-nghi-dam-lam-202510151032373.htm",
@@ -603,6 +873,216 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T13:25:18.599114+07:00"
     },
     {
+      "id": "92ba616459bb0458070914e9296496fd",
+      "title": "Israel đòi cắt viện trợ Gaza, ông Trump dọa dùng vũ lực giải giáp Hamas",
+      "link": "https://thanhnien.vn/israel-doi-cat-vien-tro-gaza-ong-trump-doa-dung-vu-luc-giai-giap-hamas-185251015190655903.htm",
+      "summary": "Hamas đã trao trả thêm thi thể con tin cho Israel, một dấu hiệu cho thấy sự tiến triển kể từ khi Tổng thống Mỹ Donald Trump công bố kế hoạch chấm dứt chiến tranh ở Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:21:00+07:00",
+      "fetched": "2025-10-15T21:17:57.456871+07:00"
+    },
+    {
+      "id": "a4cf28ff8de13dc220b5c21ac0fc0149",
+      "title": "Doanh nghiệp Việt đầu tiên vào nhóm tự chủ công nghệ thiết bị 5G",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-dau-tien-vao-nhom-tu-chu-cong-nghe-thiet-bi-5g-4951858.html",
+      "summary": "Tổ chức phân tích công nghệ hàng đầu thế giới Gartner ghi nhận Viettel trở thành nhà cung cấp thiết bị hạ tầng mạng truy nhập vô tuyến 5G (RAN) trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:16:04+07:00",
+      "fetched": "2025-10-15T21:17:39.794770+07:00"
+    },
+    {
+      "id": "a4cf28ff8de13dc220b5c21ac0fc0149",
+      "title": "Doanh nghiệp Việt đầu tiên vào nhóm tự chủ công nghệ thiết bị 5G",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-dau-tien-vao-nhom-tu-chu-cong-nghe-thiet-bi-5g-4951858.html",
+      "summary": "Tổ chức phân tích công nghệ hàng đầu thế giới Gartner ghi nhận Viettel trở thành nhà cung cấp thiết bị hạ tầng mạng truy nhập vô tuyến 5G (RAN) trên toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T13:16:04+07:00",
+      "fetched": "2025-10-15T21:18:04.967841+07:00"
+    },
+    {
+      "id": "d26a7b7b5d83a062c40fdab4c7fa9aff",
+      "title": "Tổng Bí thư đề nghị Murphy Oil đẩy nhanh các dự án dầu khí ở Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-murphy-oil-day-nhanh-cac-du-an-dau-khi-o-viet-nam-4951869.html",
+      "summary": "Tổng Bí thư đề nghị Murphy Oil đẩy nhanh tốc độ triển khai các dự án dầu khí, chuyển giao công nghệ và đào tạo nguồn nhân lực chất lượng cao tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:13:58+07:00",
+      "fetched": "2025-10-15T21:17:39.794925+07:00"
+    },
+    {
+      "id": "d26a7b7b5d83a062c40fdab4c7fa9aff",
+      "title": "Tổng Bí thư đề nghị Murphy Oil đẩy nhanh các dự án dầu khí ở Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-murphy-oil-day-nhanh-cac-du-an-dau-khi-o-viet-nam-4951869.html",
+      "summary": "Tổng Bí thư đề nghị Murphy Oil đẩy nhanh tốc độ triển khai các dự án dầu khí, chuyển giao công nghệ và đào tạo nguồn nhân lực chất lượng cao tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T13:13:58+07:00",
+      "fetched": "2025-10-15T21:18:01.948242+07:00"
+    },
+    {
+      "id": "03fbde97d03fbd7fde84c0d9adb3064e",
+      "title": "Hai lệnh giúp tăng tốc máy tính Windows",
+      "link": "https://thanhnien.vn/hai-lenh-giup-tang-toc-may-tinh-windows-185251009095245396.htm",
+      "summary": "Máy tính của bạn bỗng dưng ì ạch? Đã đến lúc dùng đến 'vũ khí bí mật' có sẵn trong Windows.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:09:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457032+07:00"
+    },
+    {
+      "id": "35dff80619bf9342f6e98bbbae6be5e1",
+      "title": "'Vi Tiểu Bảo' Trương Vệ Kiện và mối thù oán hận cha ruột",
+      "link": "https://thanhnien.vn/vi-tieu-bao-truong-ve-kien-va-moi-thu-oan-han-cha-ruot-185251015173459639.htm",
+      "summary": "Nam diễn viên Hồng Kông - Trương Vệ Kiện vừa có những chia sẻ thẳng thắn về tuổi thơ ám ảnh bởi bạo lực gia đình và hành trình tìm đến sự tha thứ nhờ lòng vị tha của mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:05:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457179+07:00"
+    },
+    {
+      "id": "1666c2b712eb7223724a013a58eb9244",
+      "title": "Đề xuất biến động tài sản 1 tỉ đồng/năm phải kê khai",
+      "link": "https://thanhnien.vn/de-xuat-bien-dong-tai-san-1-ti-dong-nam-phai-ke-khai-185251015191357241.htm",
+      "summary": "Luật Phòng, chống tham nhũng sửa đổi đề xuất nâng mức biến động tài sản lên 1 tỉ đồng/năm cán bộ mới phải kê khai tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:02:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457324+07:00"
+    },
+    {
+      "id": "8e7826c1a3fdb7817e432c9089cc1ab5",
+      "title": "Qualcomm hợp tác đào tạo sở hữu trí tuệ cho sinh viên Việt",
+      "link": "https://thanhnien.vn/qualcomm-hop-tac-dao-tao-so-huu-tri-tue-cho-sinh-vien-viet-185251015155217926.htm",
+      "summary": "Sở hữu trí tuệ được xem là nền tảng và việc đào tạo nhận thức của cộng đồng công nghệ sẽ tạo tiền đề để nâng cao năng lực cho hệ sinh thái khởi nghiệp công nghệ trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:01:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457472+07:00"
+    },
+    {
+      "id": "cc6c2ddc91135c6976129f274515f438",
+      "title": "Vợ cũ và nhân tình đang sống trong chính ngôi nhà của tôi, cùng với con tôi",
+      "link": "https://vnexpress.net/cuoi-lan-hai-van-chon-sai-vo-4951719.html",
+      "summary": "Công việc, gia đình, tôi gần như mất hết, trở thành kẻ thất bại thảm hại trong mắt mọi người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:00:00+07:00",
+      "fetched": "2025-10-15T21:17:39.795124+07:00"
+    },
+    {
+      "id": "274a009bdccadd16418cc0d2ae7a7bb6",
+      "title": "Xem nhanh 20h ngày 15.10: ĐH Bách Khoa HN nói gì vụ dán đè logo robot | Độc lạ nuôi chồn hương như thú cưng",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1510-dh-bach-khoa-hn-noi-gi-vu-dan-de-logo-robot-doc-la-nuoi-chon-huong-nhu-thu-cung-18525101514560424.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.10 có nhiều tin tức đáng chú ý về: Robot Trung Quốc gắn logo ĐH Bách khoa Hà Nội, nhà trường nói gì; người nông dân miền Tây làm đẹp, cưng chiều chồn hương như thú cưng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:00:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457622+07:00"
+    },
+    {
+      "id": "5c1e7734840acfb39da4d45cd17c696f",
+      "title": "Quần jeans và áo blazer, đẹp xuất sắc để đi chơi và đi làm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-jeans-va-ao-blazer-dep-xuat-sac-de-di-choi-va-di-lam-18525101416453388.htm",
+      "summary": "Không còn nghi ngờ gì nữa, sự kết hợp giữa áo blazer và quần jeans chính là công thức hoàn hảo để tôn lên vẻ thanh lịch và cuốn hút của phái đẹp. Từ văn phòng đến những buổi hẹn hò tối cùng bạn bè, bộ đôi kinh điển này không chỉ mang lại vẻ ngoài chỉn chu mà còn thể hiện phong thái tự tin, thời thượ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T13:00:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457772+07:00"
+    },
+    {
+      "id": "9d6582d98e47c5ba0b549f507d3c5ab7",
+      "title": "Nhan sắc gây kinh ngạc của Lý Nhược Đồng khi sắp chạm tuổi 60",
+      "link": "https://thanhnien.vn/nhan-sac-gay-kinh-ngac-cua-ly-nhuoc-dong-khi-sap-cham-tuoi-60-185251015175706928.htm",
+      "summary": "Gần ba thập niên trôi qua kể từ vai diễn kinh điển Tiểu Long Nữ, Lý Nhược Đồng vẫn là một biểu tượng sắc đẹp không thể thay thế trong lòng khán giả. Ở tuổi 59, cô không chỉ giữ được nét thanh xuân đáng ngưỡng mộ mà còn ngày càng tỏa sáng với phong thái tự tin, thần sắc rạng rỡ và một vóc dáng săn ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:56:00+07:00",
+      "fetched": "2025-10-15T21:17:57.457917+07:00"
+    },
+    {
+      "id": "2abc8412e59c871782c7c9c157d86d69",
+      "title": "Ngân hàng Nhà nước sẽ thí điểm sàn giao dịch vàng theo 3 giai đoạn",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-se-thi-diem-san-giao-dich-vang-theo-3-giai-doan-4951838.html",
+      "summary": "Đại diện Ngân hàng Nhà nước cho biết bước đầu sàn sẽ thí điểm giao dịch vàng nguyên liệu, sau đó có thêm vàng miếng, cuối cùng mới là sản phẩm phái sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:54:35+07:00",
+      "fetched": "2025-10-15T21:17:39.795304+07:00"
+    },
+    {
+      "id": "2abc8412e59c871782c7c9c157d86d69",
+      "title": "Ngân hàng Nhà nước sẽ thí điểm sàn giao dịch vàng theo 3 giai đoạn",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-se-thi-diem-san-giao-dich-vang-theo-3-giai-doan-4951838.html",
+      "summary": "Đại diện Ngân hàng Nhà nước cho biết bước đầu sàn sẽ thí điểm giao dịch vàng nguyên liệu, sau đó có thêm vàng miếng, cuối cùng mới là sản phẩm phái sinh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T12:54:35+07:00",
+      "fetched": "2025-10-15T21:18:01.948417+07:00"
+    },
+    {
+      "id": "f4dadc360a98ca7c9cbe2fe446f1e41e",
+      "title": "Đề xuất xác minh khi cán bộ không giải trình được tài sản tăng từ 1 tỷ đồng",
+      "link": "https://vnexpress.net/de-xuat-xac-minh-khi-can-bo-khong-giai-trinh-duoc-tai-san-tang-tu-1-ty-dong-4951815.html",
+      "summary": "Chính phủ đề xuất xác minh tài sản, thu nhập đối với cán bộ có tài sản tăng từ 1 tỷ đồng trong năm mà không giải trình hợp lý về nguồn gốc, thay mức 300 triệu đồng như hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:51:39+07:00",
+      "fetched": "2025-10-15T21:17:39.795466+07:00"
+    },
+    {
+      "id": "322f2371df4835deb3f797a84a7160bc",
+      "title": "Việt Hương tuyên bố tặng nhẫn kim cương cho đàn em giữa sự kiện",
+      "link": "https://thanhnien.vn/viet-huong-tuyen-bo-tang-nhan-kim-cuong-cho-dan-em-giua-su-kien-185251015182948889.htm",
+      "summary": "Hay tin diễn viên Băng Di vừa được bạn trai cầu hôn, nghệ sĩ Việt Hương gây bất ngờ khi tuyên bố sẽ tặng cho đàn em nhẫn kim cương với lời chúc hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:50:00+07:00",
+      "fetched": "2025-10-15T21:17:57.458088+07:00"
+    },
+    {
+      "id": "6fb292d1bf134ba482b6d57de0eeb52b",
+      "title": "Hệ lụy của thương chiến Mỹ - Trung với thế giới",
+      "link": "https://vnexpress.net/he-luy-cua-thuong-chien-my-trung-voi-the-gioi-4951458.html",
+      "summary": "Đòn thuế quan cùng các biện pháp \"ăn miếng trả miếng\" giữa Mỹ và Trung Quốc đang tạo ra những hệ lụy khó lường đối với nền kinh tế toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:45:57+07:00",
+      "fetched": "2025-10-15T21:17:39.795624+07:00"
+    },
+    {
+      "id": "6fb292d1bf134ba482b6d57de0eeb52b",
+      "title": "Hệ lụy của thương chiến Mỹ - Trung với thế giới",
+      "link": "https://vnexpress.net/he-luy-cua-thuong-chien-my-trung-voi-the-gioi-4951458.html",
+      "summary": "Đòn thuế quan cùng các biện pháp \"ăn miếng trả miếng\" giữa Mỹ và Trung Quốc đang tạo ra những hệ lụy khó lường đối với nền kinh tế toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T12:45:57+07:00",
+      "fetched": "2025-10-15T21:18:00.286563+07:00"
+    },
+    {
+      "id": "3bad6fd69eae7d2ce1ac6d833cc56a28",
+      "title": "Robot nhào lộn, nhảy điệu múa Trung Hoa",
+      "link": "https://vnexpress.net/robot-nhao-lon-nhay-dieu-mua-trung-hoa-4951863.html",
+      "summary": "Robot thực hiện nhiều động tác khó, khiến khán giả kinh ngạc trong màn múa kết hợp công nghệ và văn hóa truyền thống ở Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:33:32+07:00",
+      "fetched": "2025-10-15T21:17:39.795779+07:00"
+    },
+    {
+      "id": "3bad6fd69eae7d2ce1ac6d833cc56a28",
+      "title": "Robot nhào lộn, nhảy điệu múa Trung Hoa",
+      "link": "https://vnexpress.net/robot-nhao-lon-nhay-dieu-mua-trung-hoa-4951863.html",
+      "summary": "Robot thực hiện nhiều động tác khó, khiến khán giả kinh ngạc trong màn múa kết hợp công nghệ và văn hóa truyền thống ở Bắc Kinh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T12:33:32+07:00",
+      "fetched": "2025-10-15T21:18:04.968018+07:00"
+    },
+    {
       "id": "6dca0ec5cdc99742aa73d260059d2d21",
       "title": "Vừa kháng cáo FIFA, FAM vừa tuyên bố cứng rắn: Sẽ trừng phạt HLV đội tuyển Malaysia vì…",
       "link": "https://thanhnien.vn/vua-khang-cao-fifa-fam-vua-tuyen-bo-cung-ran-se-trung-phat-hlv-doi-tuyen-malaysia-vi-185251015191243729.htm",
@@ -611,6 +1091,46 @@ window.newsData_2025_10_15 = {
       "category": "Tổng hợp",
       "published": "2025-10-15T12:31:00+07:00",
       "fetched": "2025-10-15T19:36:11.236496+07:00"
+    },
+    {
+      "id": "1145edc5bdf9be7705ac28ddfc0c859d",
+      "title": "5 địa phương dự kiến sáp nhập hơn 30 đại học, cao đẳng",
+      "link": "https://vnexpress.net/5-dia-phuong-du-kien-sap-nhap-hon-30-dai-hoc-cao-dang-4951653.html",
+      "summary": "TP HCM, Cà Mau, Phú Thọ, Hà Tĩnh và Thanh Hóa đang đề xuất sáp nhập 32 trường, nhằm tinh gọn mạng lưới đại học, cao đẳng công lập theo định hướng của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:30:01+07:00",
+      "fetched": "2025-10-15T21:17:39.795932+07:00"
+    },
+    {
+      "id": "3e8c641e947fe6da79c79950085d0ae3",
+      "title": "Một công ty vàng bị phạt vì bán hàng giả mạo Chanel",
+      "link": "https://vnexpress.net/mot-cong-ty-vang-bi-phat-vi-ban-hang-gia-mao-chanel-4951840.html",
+      "summary": "Một công ty kinh doanh vàng tại Gia Lai vừa bị nhà chức trách phạt 55 triệu đồng và buộc tiêu hủy hàng vì bày bán trang sức giả mạo nhãn hiệu Chanel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:27:23+07:00",
+      "fetched": "2025-10-15T21:17:39.796107+07:00"
+    },
+    {
+      "id": "3e8c641e947fe6da79c79950085d0ae3",
+      "title": "Một công ty vàng bị phạt vì bán hàng giả mạo Chanel",
+      "link": "https://vnexpress.net/mot-cong-ty-vang-bi-phat-vi-ban-hang-gia-mao-chanel-4951840.html",
+      "summary": "Một công ty kinh doanh vàng tại Gia Lai vừa bị nhà chức trách phạt 55 triệu đồng và buộc tiêu hủy hàng vì bày bán trang sức giả mạo nhãn hiệu Chanel.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T12:27:23+07:00",
+      "fetched": "2025-10-15T21:18:01.948579+07:00"
+    },
+    {
+      "id": "fe0d3488c4fe3899710874c7159ef388",
+      "title": "Triết lý đọc sách của 'Đại hiệp' Kim Dung",
+      "link": "https://vnexpress.net/triet-ly-doc-sach-cua-dai-hiep-kim-dung-4951730.html",
+      "summary": "Sinh thời, tác gia Trung Quốc Kim Dung cho biết nếu phải chọn giữa ngồi tù mà được cho đọc sách hoặc ngược lại, ông thà ngồi tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T12:25:15+07:00",
+      "fetched": "2025-10-15T21:17:39.796262+07:00"
     },
     {
       "id": "7597abdfef5ef99aae738a779d4cb5df",
