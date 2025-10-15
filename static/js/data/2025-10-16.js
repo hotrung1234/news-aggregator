@@ -1,6 +1,6 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T01:24:52.235338+07:00",
+  "lastUpdated": "2025-10-16T03:19:09.075310+07:00",
   "articles": [
     {
       "id": "ed5a68381c9b333f2acb69631255f86d",
@@ -151,6 +151,46 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T01:24:43.571671+07:00",
       "fetched": "2025-10-16T01:24:43.571898+07:00"
+    },
+    {
+      "id": "234b0ac82e993c5bdf88ec834805e59a",
+      "title": "Sự rời rạc khó hiểu của đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/su-roi-rac-kho-hieu-cua-doi-tuyen-viet-nam-18525101522131664.htm",
+      "summary": "Trước đối thủ kém 62 bậc trên bảng xếp hạng FIFA như Nepal, đội tuyển VN không thể tạo ra chiến thắng cách biệt lớn và thuyết phục ở màn so tài tối 14.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T20:08:00+07:00",
+      "fetched": "2025-10-16T03:18:59.643829+07:00"
+    },
+    {
+      "id": "ea4149f8a3fb99da1c60ecc812dfd06b",
+      "title": "U.23 Việt Nam vững niềm tin trước chiến dịch lớn",
+      "link": "https://thanhnien.vn/u23-viet-nam-vung-niem-tin-truoc-chien-dich-lon-185251015222715724.htm",
+      "summary": "Ngày 15.10, đội tuyển U.23 VN đã trở về VN, khép lại đợt tập huấn quan trọng tại UAE với 2 trận giao hữu gặp U.23 Qatar - nền bóng đá cao hơn chúng ta đến 61 bậc trên bảng xếp hạng FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:16:00+07:00",
+      "fetched": "2025-10-16T03:18:59.643996+07:00"
+    },
+    {
+      "id": "f1053c6d299e98150093981f9ec12e2e",
+      "title": "12 thực phẩm giúp hạ huyết áp tự nhiên",
+      "link": "https://vnexpress.net/12-thuc-pham-giup-ha-huyet-ap-tu-nhien-4950769.html",
+      "summary": "Chuyên gia khuyên dùng cá béo, ngũ cốc nguyên hạt, trái cây họ cam quýt, rau lá xanh... để kiểm soát huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:01:00+07:00",
+      "fetched": "2025-10-16T03:18:52.832987+07:00"
+    },
+    {
+      "id": "1dff06fb473b9f7079c387e562e9401c",
+      "title": "Hà Nội hướng tới 'thành phố kết nối toàn cầu'",
+      "link": "https://vnexpress.net/ha-noi-huong-toi-thanh-pho-ket-noi-toan-cau-4951891.html",
+      "summary": "TP Hà Nội đặt mục tiêu đến năm 2030 trở thành “Thủ đô Văn hiến - Văn minh - Hiện đại”, hướng tới tầm vóc “thành phố kết nối toàn cầu” vào năm 2045.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T19:00:00+07:00",
+      "fetched": "2025-10-16T03:18:52.833165+07:00"
     },
     {
       "id": "d3db2e228044f37132d5cd8c51a945cd",
