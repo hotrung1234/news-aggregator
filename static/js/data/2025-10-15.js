@@ -1,7 +1,157 @@
 window.newsData_2025_10_15 = {
   "date": "2025-10-15",
-  "lastUpdated": "2025-10-15T15:23:23.769434+07:00",
+  "lastUpdated": "2025-10-15T17:18:45.681330+07:00",
   "articles": [
+    {
+      "id": "d8e199fc45befc661f301c5246da4641",
+      "title": "Việt Nam và nhiều nước sẵn sàng hỗ trợ tái thiết Gaza",
+      "link": "https://tuoitre.vn/viet-nam-va-nhieu-nuoc-san-sang-ho-tro-tai-thiet-gaza-20251015131418347.htm",
+      "summary": "Liên hợp quốc cho biết nhiều quốc gia bày tỏ sẵn sàng hỗ trợ kế hoạch tái thiết Dải Gaza trị giá khoảng 70 tỉ USD, sau khi Israel và Hamas ký thỏa thuận ngừng bắn, chấm dứt cuộc chiến kéo dài hai năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603797+07:00",
+      "fetched": "2025-10-15T17:18:40.603910+07:00"
+    },
+    {
+      "id": "8a95d11109358d4ec369d4f521d3c88f",
+      "title": "Mỹ không còn là điểm đến du lịch mong muốn của người Trung Quốc",
+      "link": "https://tuoitre.vn/my-khong-con-la-diem-den-du-lich-mong-muon-cua-nguoi-trung-quoc-20251015142527558.htm",
+      "summary": "Từng là điểm đến mơ ước của du khách Trung Quốc, Mỹ nay đang mất dần sức hút do thủ tục visa phức tạp, giá vé tăng và căng thẳng chính trị, khiến lượng khách Trung Quốc sụt giảm mạnh trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603671+07:00",
+      "fetched": "2025-10-15T17:18:40.603786+07:00"
+    },
+    {
+      "id": "07441ad0fe1fa08c465810da83b572a4",
+      "title": "Vụ cha ôm hai con nhảy cầu: Tìm thấy thi thể hai bé gái",
+      "link": "https://tuoitre.vn/vu-cha-om-hai-con-nhay-cau-tim-thay-thi-the-hai-be-gai-2025101514280236.htm",
+      "summary": "Sau hơn hai ngày tìm kiếm, lực lượng cứu hộ cứu nạn đã tìm thấy thi thể hai bé gái trong vụ việc người cha nghi ôm hai con nhảy cầu sông Lam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603533+07:00",
+      "fetched": "2025-10-15T17:18:40.603659+07:00"
+    },
+    {
+      "id": "2f01886800463952ae9a3dbfc472598c",
+      "title": "Hút hầm cầu tính theo tấn lấy 19 triệu đồng, một hộ dân tá hỏa trình báo công an",
+      "link": "https://tuoitre.vn/hut-ham-cau-tinh-theo-tan-lay-19-trieu-dong-mot-ho-dan-ta-hoa-trinh-bao-cong-an-2025101514351166.htm",
+      "summary": "Một hộ dân ở Đà Nẵng tá hỏa trình báo công an, sau khi nhận ra gia đình phải chi trả dịch vụ hút hầm cầu với mức giá cao phi lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603410+07:00",
+      "fetched": "2025-10-15T17:18:40.603522+07:00"
+    },
+    {
+      "id": "0f4072dad4e591bb7d36b2016ada960a",
+      "title": "Shark Bình: Từ phát ngôn dậy sóng '99% coin khiến nhà đầu tư mất tiền' tới cái kết",
+      "link": "https://tuoitre.vn/shark-binh-tu-phat-ngon-day-song-99-coin-khien-nha-dau-tu-mat-tien-toi-cai-ket-20251015145510631.htm",
+      "summary": "Từng gây bão mạng với phát ngôn \"99% coin khiến nhà đầu tư mất tiền, trong khi founder lại 'ôm tiền' hưởng lợi một cách hợp pháp\", Shark Bình nay lại trở thành tâm điểm chú ý với cáo buộc lừa đảo tiền số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603287+07:00",
+      "fetched": "2025-10-15T17:18:40.603399+07:00"
+    },
+    {
+      "id": "42f22cce19f9ccefdba7b137098cb7eb",
+      "title": "Cậu bé 14 tuổi bị liệt hai chân do đứt tủy sống sau tai nạn giao thông",
+      "link": "https://tuoitre.vn/cau-be-14-tuoi-bi-liet-hai-chan-do-dut-tuy-song-sau-tai-nan-giao-thong-20251015144332839.htm",
+      "summary": "Một cậu bé 14 tuổi ở Khánh Hòa bị liệt hai chân do đứt tủy sống sau tai nạn giao thông vừa được các bác sĩ Bệnh viện Nhi đồng 2 (TP.HCM) phẫu thuật cố định cột sống. Dù khả năng phục hồi vận động rất thấp, ê kíp vẫn nỗ lực cứu chữa...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603160+07:00",
+      "fetched": "2025-10-15T17:18:40.603276+07:00"
+    },
+    {
+      "id": "d6875ca27457e684344f08b3c2fa9bc0",
+      "title": "Dân đá bóng làm sao tránh chấn thương rách cơ đùi?",
+      "link": "https://tuoitre.vn/dan-da-bong-lam-sao-tranh-chan-thuong-rach-co-dui-202510142253302.htm",
+      "summary": "Với những người chơi bóng đá chuyên nghiệp hay phong trào như dân công nhân, viên chức - rách cơ đùi là một trong những chấn thương phổ biến và đáng lo ngại bậc nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.603035+07:00",
+      "fetched": "2025-10-15T17:18:40.603149+07:00"
+    },
+    {
+      "id": "5d6cdceac5bfaea9bd944b12d9010735",
+      "title": "Kim Tử Long làm show hỗ trợ em trai của nghệ sĩ Bửu Truyện",
+      "link": "https://tuoitre.vn/kim-tu-long-lam-show-ho-tro-em-trai-cua-nghe-si-buu-truyen-2025101514542486.htm",
+      "summary": "Nghệ sĩ Kim Tử Long cho Tuổi Trẻ Online hay anh sẽ tổ chức chương trình văn nghệ tổng hợp vào ngày 21-10 để giúp đỡ nghệ sĩ Bửu Khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602909+07:00",
+      "fetched": "2025-10-15T17:18:40.603023+07:00"
+    },
+    {
+      "id": "6989a232fe25541143e7bd21d4747f49",
+      "title": "Y-CONCERT công bố 55 nghệ sĩ biểu diễn trong đại nhạc hội kéo dài hơn 10 tiếng",
+      "link": "https://tuoitre.vn/y-concert-cong-bo-55-nghe-si-bieu-dien-trong-dai-nhac-hoi-keo-dai-hon-10-tieng-2025101515085725.htm",
+      "summary": "Đại nhạc hội Y-CONCERT công bố xong dàn line-up gồm 55 nghệ sĩ, kéo dài hơn 10 tiếng, được xem là concert có thời lượng dài nhất Việt Nam tính đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602771+07:00",
+      "fetched": "2025-10-15T17:18:40.602896+07:00"
+    },
+    {
+      "id": "f95d109acc61e8e070abc4317d01f9fb",
+      "title": "Các ‘ông lớn’ thời trang đua nhau mở quán cà phê",
+      "link": "https://tuoitre.vn/cac-ong-lon-thoi-trang-dua-nhau-mo-quan-ca-phe-20251015142725619.htm",
+      "summary": "Thay vì sở hữu một chiếc túi da tinh tế được may thủ công, người trẻ giờ đây có thể chạm tới tinh thần xa xỉ qua một ly cà phê, một miếng bánh hay một khoảnh khắc “sống ảo” trong không gian đẳng cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602617+07:00",
+      "fetched": "2025-10-15T17:18:40.602754+07:00"
+    },
+    {
+      "id": "e41f3c754cf956f9d6d80f4a3a608f01",
+      "title": "Các băng đảng ma túy Nam Mỹ trà trộn vào quân đội Ukraine để học điều khiển drone",
+      "link": "https://tuoitre.vn/cac-bang-dang-ma-tuy-nam-my-tra-tron-vao-quan-doi-ukraine-de-hoc-dieu-khien-drone-20251015145511894.htm",
+      "summary": "Tình báo Mexico và Ukraine phát hiện băng ma túy Mỹ Latin trà trộn học kỹ năng drone gây lo ngại về an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602490+07:00",
+      "fetched": "2025-10-15T17:18:40.602605+07:00"
+    },
+    {
+      "id": "a521e3c78c015e221645bc1f659021a1",
+      "title": "Quốc tế đánh giá Việt Nam đủ khả năng giúp nhiều nước tăng năng suất trong nông nghiệp",
+      "link": "https://tuoitre.vn/quoc-te-danh-gia-viet-nam-du-kha-nang-giup-nhieu-nuoc-tang-nang-suat-trong-nong-nghiep-20251015133322112.htm",
+      "summary": "Việt Nam không chỉ tận dụng tốt mà còn chia sẻ kinh nghiệm phát triển nông nghiệp với các nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602361+07:00",
+      "fetched": "2025-10-15T17:18:40.602478+07:00"
+    },
+    {
+      "id": "481c31114ec28b69f3f1d2a407e5d635",
+      "title": "Ông Nguyễn Doãn Anh tái cử Bí thư Tỉnh ủy Thanh Hóa nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/ong-nguyen-doan-anh-tai-cu-bi-thu-tinh-uy-thanh-hoa-nhiem-ky-2025-2030-20251015152411008.htm",
+      "summary": "Ông Nguyễn Doãn Anh, 58 tuổi, Ủy viên Trung ương Đảng vừa được Ban Chấp hành Đảng bộ tỉnh Thanh Hóa bầu giữ chức Bí thư Tỉnh ủy khóa XX, nhiệm kỳ 2025-2030 với 100% số phiếu bầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602226+07:00",
+      "fetched": "2025-10-15T17:18:40.602348+07:00"
+    },
+    {
+      "id": "d1fec03ad1016dfd1afa65f567536e7a",
+      "title": "Brad Pitt và bạn gái dọn về sống chung, không ngại làm cha ở tuổi 61",
+      "link": "https://tuoitre.vn/brad-pitt-va-ban-gai-don-ve-song-chung-khong-ngai-lam-cha-o-tuoi-61-20251015144426051.htm",
+      "summary": "Tài tử Brad Pitt và người yêu kém 29 tuổi - nhà thiết kế trang sức Ines de Ramon - vừa chính thức bước sang một giai đoạn mới sau 3 năm hẹn hò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.602083+07:00",
+      "fetched": "2025-10-15T17:18:40.602213+07:00"
+    },
+    {
+      "id": "ca3d586d1b3edd885ef74d748aac6b57",
+      "title": "Hong Kong sẽ đấu thầu đất ở Cửu Long để tập trung vào đô thị phía Bắc",
+      "link": "https://tuoitre.vn/hong-kong-se-dau-thau-dat-o-cuu-long-de-tap-trung-vao-do-thi-phia-bac-20251015093504734.htm",
+      "summary": "MTR Corp cũng đã đưa gói thầu phát triển bất động sản đầu tiên của Ga Tuen Mun A16 ra đấu thầu",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T17:18:40.601855+07:00",
+      "fetched": "2025-10-15T17:18:40.602068+07:00"
+    },
     {
       "id": "2674d93977e33d7ec1ba9bd908d393f4",
       "title": "Tái đắc cử Hội đồng Nhân quyền Liên hợp quốc: Việt Nam được quốc tế tín nhiệm cao",
@@ -453,6 +603,26 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T11:19:38.423430+07:00"
     },
     {
+      "id": "57d069e0a493ce3c89e4801b4e1b6c1b",
+      "title": "Băng đảng treo thưởng 50.000 USD để ám sát đặc vụ di trú Mỹ",
+      "link": "https://vnexpress.net/bang-dang-treo-thuong-50-000-usd-de-am-sat-dac-vu-di-tru-my-4951758.html",
+      "summary": "Các băng đảng Mexico treo thưởng tới 50.000 USD cho người ám sát đặc vụ từ các cơ quan phụ trách vấn đề di trú và bảo vệ biên giới Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T10:17:01+07:00",
+      "fetched": "2025-10-15T17:18:42.044617+07:00"
+    },
+    {
+      "id": "54edabe2ad6e0c7fa5ff32c628e92b88",
+      "title": "Hàn Quốc cấm công dân đến một số vùng ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-cam-cong-dan-den-mot-so-vung-o-campuchia-4951806.html",
+      "summary": "Hàn Quốc áp lệnh cấm công dân đến một số khu vực ở Campuchia, khi dư luận nước này vẫn bàng hoàng về vụ nam sinh bị tra tấn đến chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T10:03:26+07:00",
+      "fetched": "2025-10-15T17:18:42.044818+07:00"
+    },
+    {
       "id": "789800fa3d83afeed6517d7a39b07f1b",
       "title": "Hyundai Mighty N500 ra mắt Việt Nam: Thùng cao 1,9m, thêm đèn sương mù, vẫn đủ gọn để luồn phố",
       "link": "https://tuoitre.vn/hyundai-mighty-n500-ra-mat-viet-nam-thung-cao-1-9m-them-den-suong-mu-van-du-gon-de-luon-pho-20251014234325154.htm",
@@ -603,6 +773,386 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T10:02:31.710784+07:00"
     },
     {
+      "id": "55fd456d475158d2a258fe5e0c7d08b8",
+      "title": "Đề xuất quy chuẩn thu nhận giọng nói và mống mắt của người dân",
+      "link": "https://thanhnien.vn/de-xuat-quy-chuan-thu-nhan-giong-noi-va-mong-mat-cua-nguoi-dan-185251015164323962.htm",
+      "summary": "Theo Bộ Công an, sinh trắc học giọng nói và mống mắt là các thông tin cá nhân nhạy cảm, phải được quản lý chặt chẽ theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:01:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704198+07:00"
+    },
+    {
+      "id": "b0a5dcae0ac839959b86d20d5330eeee",
+      "title": "Toàn cảnh 17h 29.9: Lật tẩy thủ đoạn làm giả bò Wagyu | Lại sắp có bão số 12?",
+      "link": "https://thanhnien.vn/toan-canh-17h-299-lat-tay-thu-doan-lam-gia-bo-wagyu-lai-sap-co-bao-so-12-185251015161126888.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T10:00:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704369+07:00"
+    },
+    {
+      "id": "36b11593e4876d21955a395ac2b2bd33",
+      "title": "Nóng: U.23 Việt Nam chạm trán nhà vô địch U.23 châu Á ở đợt FIFA Days tháng 11",
+      "link": "https://thanhnien.vn/nong-u23-viet-nam-cham-tran-nha-vo-dich-u23-chau-a-o-dot-fifa-days-thang-11-185251015165649835.htm",
+      "summary": "Vào kỳ FIFA Days tháng 11 tới, đội tuyển U.23 Việt Nam sẽ đối đầu những đội mạnh hàng đầu châu Á ở giải tứ hùng tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:59:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704527+07:00"
+    },
+    {
+      "id": "2ef2c81fca6c6589438483f9b75afc58",
+      "title": "Bộ NN-MT thừa nhận chưa dự báo sớm được mưa, lũ cực đoan",
+      "link": "https://thanhnien.vn/bo-nn-mt-thua-nhan-chua-du-bao-som-duoc-mua-lu-cuc-doan-185251015161503654.htm",
+      "summary": "Báo cáo với Thủ tướng, Bộ NN-MT thừa nhận công tác dự báo mưa lớn cực đoan, lũ đặc biệt lớn, vượt lịch sử còn hạn chế, chưa dự báo sớm được các giá trị vượt lịch sử trong đợt mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:58:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704699+07:00"
+    },
+    {
+      "id": "18b3a39e74ec96e72b01c782e351baac",
+      "title": "Campuchia công bố danh tính nam sinh Hàn Quốc bị tra tấn tới chết",
+      "link": "https://vnexpress.net/campuchia-cong-bo-danh-tinh-nam-sinh-han-quoc-bi-tra-tan-toi-chet-4951728.html",
+      "summary": "Campuchia cập nhật quá trình điều tra vụ nam sinh Hàn Quốc bị tra tấn đến chết ở nước này, lần đầu công bố danh tính nạn nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T09:54:38+07:00",
+      "fetched": "2025-10-15T17:18:42.044983+07:00"
+    },
+    {
+      "id": "281b4a56867534462a419b14d4ae0478",
+      "title": "Robot Trung Quốc gắn logo ĐH Bách khoa Hà Nội: 'Chỉ đơn giản là đánh dấu tài sản'",
+      "link": "https://thanhnien.vn/robot-trung-quoc-gan-logo-dh-bach-khoa-ha-noi-chi-don-gian-la-danh-dau-tai-san-185251015162058803.htm",
+      "summary": "ĐH Bách khoa Hà Nội nói rằng, việc dán logo của nhà trường đè lên logo của nhà sản xuất trên robot Trung Quốc 'chỉ đơn giản là đánh dấu tài sản', và hiện không rõ ai, ê kíp nào đã thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:52:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704852+07:00"
+    },
+    {
+      "id": "f482b388e931020e42c66e728232f2e7",
+      "title": "Người dân ám ảnh vì đường tránh Đồng Xoài",
+      "link": "https://thanhnien.vn/vi-sao-duong-tranh-dong-xoai-thanh-noi-am-anh-cua-nguoi-di-duong-185251015163811081.htm",
+      "summary": "Những hố sâu, ổ gà trên đường tránh thành phố Đồng Xoài (cũ), nay thuộc P.Bình Phước, tỉnh Đồng Nai vốn là nỗi ám ảnh, lo sợ mỗi ngày của nhiều người khi tham gia lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:51:00+07:00",
+      "fetched": "2025-10-15T17:18:39.704999+07:00"
+    },
+    {
+      "id": "30c14f33246637e1407a6aae4701a0b2",
+      "title": "Từ 10.10.2025: Điều chỉnh lãi suất vay ưu đãi Chương trình cho vay nhà ở xã hội",
+      "link": "https://thanhnien.vn/tu-10102025-dieu-chinh-lai-suat-vay-uu-dai-chuong-trinh-cho-vay-nha-o-xa-hoi-185251015170455636.htm",
+      "summary": "Ngày 10.10.2025, Chính phủ ban hành Nghị định 261/2025/NĐ-CP sửa đổi, bổ sung Nghị định 100/2024/NĐ-CP ngày 26.7.2024 và Nghị định 192/2025/NĐ-CP ngày 1.7.2025, quy định chi tiết việc phát triển, quản lý nhà ở xã hội và triển khai các cơ chế, chính sách đặc thù theo Nghị quyết 201/2025/QH15 của Quốc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:50:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705149+07:00"
+    },
+    {
+      "id": "ae8d7dab53381404f3eace2dfc0730b1",
+      "title": "Truy nã đối tượng đâm người trọng thương ở TP.HCM",
+      "link": "https://thanhnien.vn/truy-na-doi-tuong-dam-nguoi-trong-thuong-o-tphcm-185251015162417059.htm",
+      "summary": "Công an TP.HCM phát lệnh truy nã Nguyễn Văn Lớp về tội cố ý gây thương tích sau khi thực hiện hành vi đâm người trọng thương tại quận 7 cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:50:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705297+07:00"
+    },
+    {
+      "id": "ae5844e15865714bcd4897465434193a",
+      "title": "Cô gái khiếm thị làm điều phi thường: Nghiên cứu ứng dụng AI để dạy tiếng Anh",
+      "link": "https://thanhnien.vn/co-gai-khiem-thi-lam-dieu-phi-thuong-nghien-cuu-ung-dung-ai-de-day-tieng-anh-185251015153220393.htm",
+      "summary": "Với đôi mắt không nhìn thấy ánh sáng cuộc đời từ khi chào đời, một cô gái khiếm thị, đã không để những khó khăn cản trở ước mơ và hành trình học hỏi của mình. Từ một cô bé mồ côi sống trong mái ấm dành cho trẻ em khiếm thị đến giáo viên tiếng Anh, Hậu đã chứng minh rằng với nghị lực, không có gì là ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:50:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705450+07:00"
+    },
+    {
+      "id": "7aee91ebec65fcb26207bd3682f6694d",
+      "title": "Bổ sung dầu cá omega-3 liều cao có thể giúp người trầm cảm minh mẫn hơn",
+      "link": "https://thanhnien.vn/bo-sung-dau-ca-omega-3-lieu-cao-co-the-giup-nguoi-tram-cam-minh-man-hon-185251015163437842.htm",
+      "summary": "Một nghiên cứu mới từ các nhà khoa học thuộc Bệnh viện Đa khoa Massachusetts - MGH (Mỹ) đã mở ra hướng điều trị tiềm năng cho người trầm cảm có tình trạng viêm cao trong cơ thể. Theo báo cáo đăng tải trên MGH Psychiatry News, việc bổ sung omega-3 liều cao trong vòng 12 tuần có thể giúp cải thiện độn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:42:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705596+07:00"
+    },
+    {
+      "id": "af6e11b329e4551c5c04d6b7cb61927f",
+      "title": "Chuẩn hóa bộ tiêu chí KPI cho công chức",
+      "link": "https://thanhnien.vn/chuan-hoa-bo-tieu-chi-kpi-cho-cong-chuc-18525101515323058.htm",
+      "summary": "Bộ Nội vụ đề xuất các tiêu chí chấm điểm KPI đối với công chức, riêng với người giữ chức vụ lãnh đạo, quản lý còn có những yêu cầu đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:42:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705770+07:00"
+    },
+    {
+      "id": "687b2fb09858744e7aa1e757b456e034",
+      "title": "Ngân hàng Hàn Quốc 'cháy' vàng bạc vì người dân đổ xô tích trữ",
+      "link": "https://vnexpress.net/ngan-hang-han-quoc-chay-vang-bac-vi-nguoi-dan-do-xo-tich-tru-4951748.html",
+      "summary": "Nhiều người Hàn Quốc tới ngân hàng để mua vàng, bạc thỏi tích trữ nhưng ra về tay không vì ngân hàng thiếu nguồn cung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T09:36:03+07:00",
+      "fetched": "2025-10-15T17:18:42.045143+07:00"
+    },
+    {
+      "id": "7b759d3b6cfb796b115a9d02687552dd",
+      "title": "Giai đoạn đầu sàn vàng chỉ áp dụng với vàng nguyên liệu nhập khẩu",
+      "link": "https://thanhnien.vn/giai-doan-dau-san-vang-chi-ap-dung-voi-vang-nguyen-lieu-nhap-khau-185251015153932606.htm",
+      "summary": "Thí điểm sàn giao dịch vàng tại Việt Nam sẽ được triển khai theo 3 giai đoạn. Giai đoạn đầu chỉ thực hiện giao dịch vàng nguyên liệu nhập khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:35:00+07:00",
+      "fetched": "2025-10-15T17:18:39.705919+07:00"
+    },
+    {
+      "id": "be6e5d764e8e12770f023b153aef1923",
+      "title": "Giải quyết chế độ BHXH ngay trên ứng dụng VNeID",
+      "link": "https://thanhnien.vn/giai-quyet-che-do-bhxh-ngay-tren-ung-dung-vneid-185251015155135951.htm",
+      "summary": "Từ nay, người lao động và người hưởng lương hưu có thể thực hiện thủ tục bảo hiểm xã hội (BHXH) ngay trên điện thoại thông qua ứng dụng VNeID, thay vì phải đến cơ quan BHXH như trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:33:00+07:00",
+      "fetched": "2025-10-15T17:18:39.706063+07:00"
+    },
+    {
+      "id": "69c729c620982bd6a41793191e8f07a5",
+      "title": "Cầu thủ Việt Nam lọt top 60 tài năng trẻ thế giới",
+      "link": "https://vnexpress.net/cau-thu-viet-nam-lot-top-60-tai-nang-tre-the-gioi-4951805.html",
+      "summary": "Tiền đạo Trần Gia Bảo, 17 tuổi của HAGL, được báo Anh Guardian chọn vào top 60 cầu thủ sinh năm 2008 sáng giá của bóng đá thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T09:31:03+07:00",
+      "fetched": "2025-10-15T17:18:45.669943+07:00"
+    },
+    {
+      "id": "c2d91a40c59d5e99b7170aa7aa375e0a",
+      "title": "Israel nói thi thể được trao trả không trùng khớp, bộ trưởng đòi xóa sổ Hamas",
+      "link": "https://thanhnien.vn/israel-noi-thi-the-duoc-trao-tra-khong-trung-khop-bo-truong-doi-xoa-so-hamas-185251015162722613.htm",
+      "summary": "Quân đội Israel thông báo một thi thể được Hamas trao trả không phải là con tin mà là một người Palestine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:30:00+07:00",
+      "fetched": "2025-10-15T17:18:39.706208+07:00"
+    },
+    {
+      "id": "83c54106e24b3562ea5618d5203b3ea1",
+      "title": "Nicole Kidman chuyển ra nước ngoài sinh sống sau ly hôn",
+      "link": "https://thanhnien.vn/nicole-kidman-chuyen-ra-nuoc-ngoai-sinh-song-sau-ly-hon-185251015143842355.htm",
+      "summary": "Sau khi thông báo ly hôn, thông tin Nicole Kidman nộp đơn xin cư trú tại Bồ Đào Nha bất ngờ được quan tâm trở lại. Điểm đến mà minh tinh 6X cân nhắc nằm ở khu nghỉ dưỡng nơi vợ chồng Hoàng tử Harry sinh sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:30:00+07:00",
+      "fetched": "2025-10-15T17:18:39.706363+07:00"
+    },
+    {
+      "id": "d46105d5279a12d36054bf3b66940db9",
+      "title": "10 sinh viên Hà Nội hỗn chiến vì mâu thuẫn 'nhắn tin không trả lời'",
+      "link": "https://vnexpress.net/10-sinh-vien-ha-noi-hon-chien-vi-mau-thuan-nhan-tin-khong-tra-loi-4951760.html",
+      "summary": "Nhắn tin rủ đi chơi bi-a nhưng bạn ngủ không trả lời, hai sinh viên kéo thêm chục bạn bè đến cổng trường Đại học Lao động Xã hội hỗn chiến, đâm dao vào lưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:25:19+07:00",
+      "fetched": "2025-10-15T17:18:36.862377+07:00"
+    },
+    {
+      "id": "a897949b94ad2507c196d3d159b67a27",
+      "title": "Jennifer Aniston vượt qua nỗi đau không thể sinh con",
+      "link": "https://vnexpress.net/jennifer-aniston-vuot-qua-noi-dau-khong-the-sinh-con-4951499.html",
+      "summary": "Minh tinh Jennifer Aniston tìm lại bình yên sau 20 năm nỗ lực mang thai, nhưng không nhận con nuôi vì chỉ muốn em bé mang huyết thống của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:19:59+07:00",
+      "fetched": "2025-10-15T17:18:36.862568+07:00"
+    },
+    {
+      "id": "48577e207e83bf31db1cd908da6bfa4d",
+      "title": "Giao tranh tái diễn ở biên giới Afghanistan - Pakistan, hàng chục người chết",
+      "link": "https://vnexpress.net/giao-tranh-tai-dien-o-bien-gioi-afghanistan-pakistan-hang-chuc-nguoi-chet-4951721.html",
+      "summary": "Đụng độ bùng phát trở lại dọc biên giới giữa Afghanistan và Pakistan, khiến hàng chục người của hai bên thiệt mạng, gồm cả binh sĩ và dân thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:16:16+07:00",
+      "fetched": "2025-10-15T17:18:36.862758+07:00"
+    },
+    {
+      "id": "48577e207e83bf31db1cd908da6bfa4d",
+      "title": "Giao tranh tái diễn ở biên giới Afghanistan - Pakistan, hàng chục người chết",
+      "link": "https://vnexpress.net/giao-tranh-tai-dien-o-bien-gioi-afghanistan-pakistan-hang-chuc-nguoi-chet-4951721.html",
+      "summary": "Đụng độ bùng phát trở lại dọc biên giới giữa Afghanistan và Pakistan, khiến hàng chục người của hai bên thiệt mạng, gồm cả binh sĩ và dân thường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T09:16:16+07:00",
+      "fetched": "2025-10-15T17:18:42.045302+07:00"
+    },
+    {
+      "id": "f8563289eb619ef5f27fdd4781519adc",
+      "title": "Sạt lở đe dọa khu tái định cư ở Lâm Đồng",
+      "link": "https://vnexpress.net/sat-lo-dat-o-lam-dong-4951789.html",
+      "summary": "Hơn 70 hộ dân ở khu tái định cư Đưng K’nớ 5, xã Đam Rông 4, sống trong lo lắng khi sạt lở đất diễn biến phức tạp, uy hiếp nhà cửa và tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:14:32+07:00",
+      "fetched": "2025-10-15T17:18:36.862925+07:00"
+    },
+    {
+      "id": "d8308aac3450f0bf2e3ef42f32cc68a5",
+      "title": "Chuỗi tội ác xảo quyệt của sát thủ tóc vàng",
+      "link": "https://vnexpress.net/vu-dau-doc-khien-sat-thu-toc-vang-sa-luoi-4951784.html",
+      "summary": "Nữ sinh viên tóc vàng Ana Paula Veloso Fernandes bị cáo buộc liên tiếp hạ độc giết bốn người, sau khi thử thuốc diệt chuột trên 10 con chó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:06:51+07:00",
+      "fetched": "2025-10-15T17:18:36.863089+07:00"
+    },
+    {
+      "id": "6efe8a264ad8f23ba6432fc2e11d55b1",
+      "title": "Isaac cùng Li-Ning ra mắt đôi giày hợp tác đầu tiên",
+      "link": "https://vnexpress.net/isaac-cung-li-ning-ra-mat-doi-giay-hop-tac-dau-tien-4951786.html",
+      "summary": "Li-Ning giới thiệu \"The Rizz\", đôi giày đầu tiên do thương hiệu và ca sĩ Isaac phát triển, mang ý nghĩa kết hợp sáng tạo giữa âm nhạc và thời trang, tạo dấu ấn riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:00:00+07:00",
+      "fetched": "2025-10-15T17:18:36.863247+07:00"
+    },
+    {
+      "id": "3dd03dd1d67682a04b889a3ed943b2de",
+      "title": "Ai nên hạn chế ăn hạt chia?",
+      "link": "https://vnexpress.net/ai-nen-han-che-an-hat-chia-4951747.html",
+      "summary": "Người bị huyết áp thấp, đang dùng thuốc làm loãng máu, có vấn đề về tiêu hóa hoặc dị ứng với vừng nên tham khảo ý kiến bác sĩ trước khi ăn hạt chia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:00:00+07:00",
+      "fetched": "2025-10-15T17:18:36.863410+07:00"
+    },
+    {
+      "id": "8a391adff4b020dd1961979a52555082",
+      "title": "5 chất dinh dưỡng bảo vệ phổi khi ô nhiễm không khí",
+      "link": "https://vnexpress.net/5-chat-dinh-duong-bao-ve-phoi-khi-o-nhiem-khong-khi-4951565.html",
+      "summary": "Vitamin C giúp cơ thể chống lại các gốc tự do, omega-3 hỗ trợ giảm viêm, magie làm thông thoáng đường thở, giảm ảnh hưởng của không khí ô nhiễm đến phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:00:00+07:00",
+      "fetched": "2025-10-15T17:18:36.863577+07:00"
+    },
+    {
+      "id": "5efb18124f4ac049a070c3c12196e771",
+      "title": "Phẫu thuật '2 trong 1' chữa bệnh nam khoa",
+      "link": "https://vnexpress.net/phau-thuat-2-trong-1-chua-benh-nam-khoa-4951528.html",
+      "summary": "Anh Cường, 27 tuổi, thường xuyên đau vùng kín nhiều năm, bác sĩ chẩn đoán giãn tĩnh mạch thừng tinh hai bên kèm cong dương vật, được phẫu thuật \"2 trong 1\" điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:00:00+07:00",
+      "fetched": "2025-10-15T17:18:36.863760+07:00"
+    },
+    {
+      "id": "fb3f43ed928a46b319df404c1ce6ecc6",
+      "title": "Chứng khoán giảm hai phiên liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-giam-hai-phien-lien-tiep-4951752.html",
+      "summary": "Vietjet tăng trần 3 phiên liền nhưng không đủ giúp chỉ số đại diện cho sàn TP HCM lấy lại sắc xanh bởi áp lực bán mạnh của 200 cổ phiếu khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:57:37+07:00",
+      "fetched": "2025-10-15T17:18:36.863921+07:00"
+    },
+    {
+      "id": "fb3f43ed928a46b319df404c1ce6ecc6",
+      "title": "Chứng khoán giảm hai phiên liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-giam-hai-phien-lien-tiep-4951752.html",
+      "summary": "Vietjet tăng trần 3 phiên liền nhưng không đủ giúp chỉ số đại diện cho sàn TP HCM lấy lại sắc xanh bởi áp lực bán mạnh của 200 cổ phiếu khác.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T08:57:37+07:00",
+      "fetched": "2025-10-15T17:18:43.103936+07:00"
+    },
+    {
+      "id": "8e7f95963ffcfce5d49d6189ed07e1ec",
+      "title": "Phát hiện hai loại ung thư sau dấu hiệu đau bụng",
+      "link": "https://vnexpress.net/phat-hien-hai-loai-ung-thu-sau-dau-hieu-dau-bung-4951298.html",
+      "summary": "Thấy đau bụng kèm đi ngoài, người đàn ông 62 tuổi đến viện, bác sĩ phát hiện mắc cùng lúc ung thư thực quản và đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:56:35+07:00",
+      "fetched": "2025-10-15T17:18:36.864080+07:00"
+    },
+    {
+      "id": "beeeab7b3a39c8c445de24358b07d825",
+      "title": "Thủ đoạn tạo vân mỡ, biến thịt trâu thành thịt bò giá 600.000 đồng",
+      "link": "https://vnexpress.net/thu-doan-tao-van-mo-bien-thit-trau-thanh-thit-bo-nhat-wagyu-gia-4951555.html",
+      "summary": "Công ty Hida bắt tay với SK Foods Việt Nam bơm tinh chất vào thịt trâu để tạo vân mỡ, \"phù phép\" thành thịt bò Nhật WAGYU giả, bán 400.000-600.000 đồng/kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:53:45+07:00",
+      "fetched": "2025-10-15T17:18:36.864234+07:00"
+    },
+    {
+      "id": "127abe02ea13531c7521eed177ae4505",
+      "title": "Hàng không Việt mở mô hình check-in trong phòng chờ thương gia",
+      "link": "https://vnexpress.net/hang-khong-viet-mo-mo-hinh-check-in-trong-phong-cho-thuong-gia-4951686.html",
+      "summary": "Vietnam Airlines vừa mở mô hình Check-in Lounge tại ga T3 sân bay Tân Sơn Nhất, cho phép hành khách làm thủ tục ngay trong phòng chờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:48:41+07:00",
+      "fetched": "2025-10-15T17:18:36.864387+07:00"
+    },
+    {
+      "id": "127abe02ea13531c7521eed177ae4505",
+      "title": "Hàng không Việt mở mô hình check-in trong phòng chờ thương gia",
+      "link": "https://vnexpress.net/hang-khong-viet-mo-mo-hinh-check-in-trong-phong-cho-thuong-gia-4951686.html",
+      "summary": "Vietnam Airlines vừa mở mô hình Check-in Lounge tại ga T3 sân bay Tân Sơn Nhất, cho phép hành khách làm thủ tục ngay trong phòng chờ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T08:48:41+07:00",
+      "fetched": "2025-10-15T17:18:43.104115+07:00"
+    },
+    {
+      "id": "bc419d1653efdfd32e13e6a35ed91282",
+      "title": "Giả thầy giáo tống tiền gia đình sau khi 'bắt cóc' nam sinh",
+      "link": "https://vnexpress.net/gia-thay-giao-tong-tien-gia-dinh-sau-khi-bat-coc-nam-sinh-4951685.html",
+      "summary": "Cha mẹ nam sinh nhận cuộc gọi của người xưng thầy giáo, thông báo con họ được học bổng đi du học Trung Quốc, yêu cầu chuyển 500 triệu đồng để chứng minh tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:47:20+07:00",
+      "fetched": "2025-10-15T17:18:36.864541+07:00"
+    },
+    {
+      "id": "871de3c2895535325552ebf26cf93e9e",
+      "title": "Bên trong xưởng 'phù phép' nước lã thành Lavie giả",
+      "link": "https://vnexpress.net/ben-trong-xuong-phu-phep-nuoc-la-thanh-lavie-gia-4951708.html",
+      "summary": "Gom vỏ bình Lavie trôi nổi, bơm nước máy rồi dán nhãn như hàng thật, Lê Văn Viết cùng ba người khác mỗi ngày tung ra thị trường khoảng 100 bình, bán 70.000 đồng trong khi chi phí chỉ 10.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:46:32+07:00",
+      "fetched": "2025-10-15T17:18:36.864736+07:00"
+    },
+    {
+      "id": "3fd7679c1fd059a28fd2a4e74d9656bd",
+      "title": "Phó thủ tướng: Cơ sở dữ liệu đất đai phải 'đúng, đủ, sạch và sống'",
+      "link": "https://vnexpress.net/pho-thu-tuong-co-so-du-lieu-dat-dai-phai-dung-du-sach-va-song-4951698.html",
+      "summary": "Phó thủ tướng nói việc xây dựng cơ sở dữ liệu đất đai phải thu thập \"đúng, đủ, sạch, sống\", gồm thông tin về thửa đất, người quản lý, mục đích và tình trạng sử dụng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T08:39:13+07:00",
+      "fetched": "2025-10-15T17:18:43.104280+07:00"
+    },
+    {
+      "id": "d73d9861f0fd9bbadba777ac5d7dcf26",
+      "title": "Nền tảng dạy cách khai thác tài sản trí tuệ",
+      "link": "https://vnexpress.net/nen-tang-day-cach-khai-thac-tai-san-tri-tue-4951739.html",
+      "summary": "Qualcomm ra mắt nền tảng đào tạo trực tuyến L2Pro, hướng dẫn người học cách đăng ký bằng sáng chế cũng như cách kêu gọi đầu tư, vận hành doanh nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T08:29:43+07:00",
+      "fetched": "2025-10-15T17:18:44.813420+07:00"
+    },
+    {
       "id": "50b078988ab2b47338ca9295be8aa9f1",
       "title": "Ùn ùn xếp hàng xem triển lãm dệt may quốc tế tại TP.HCM",
       "link": "https://thanhnien.vn/un-un-xep-hang-xem-trien-lam-det-may-quoc-te-tai-tphcm-18525101514415923.htm",
@@ -631,6 +1181,16 @@ window.newsData_2025_10_15 = {
       "category": "Tổng hợp",
       "published": "2025-10-15T08:17:00+07:00",
       "fetched": "2025-10-15T15:23:09.168476+07:00"
+    },
+    {
+      "id": "c874c819ad3743d697b5b2ee8772d789",
+      "title": "Hàn Quốc ước tính 1.000 công dân làm việc trong trung tâm lừa đảo ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-uoc-tinh-1-000-cong-dan-lam-viec-trong-trung-tam-lua-dao-o-campuchia-4951697.html",
+      "summary": "Hàn Quốc sẽ cử một nhóm đặc biệt đến Campuchia, sau khi ước tính khoảng 1.000 công dân nước này đang tham gia hoạt động lừa đảo trực tuyến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T08:15:19+07:00",
+      "fetched": "2025-10-15T17:18:42.045459+07:00"
     },
     {
       "id": "833993724e78bc908c077209cabb8e33",
