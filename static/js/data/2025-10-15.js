@@ -1,7 +1,127 @@
 window.newsData_2025_10_15 = {
   "date": "2025-10-15",
-  "lastUpdated": "2025-10-15T05:15:37.105577+07:00",
+  "lastUpdated": "2025-10-15T08:15:15.418691+07:00",
   "articles": [
+    {
+      "id": "833993724e78bc908c077209cabb8e33",
+      "title": "Sáng nay 15-10, Đại hội đại biểu Đảng bộ TP.HCM lần I họp phiên bế mạc",
+      "link": "https://tuoitre.vn/sang-nay-15-10-dai-hoi-dai-bieu-dang-bo-tp-hcm-lan-i-hop-phien-be-mac-20251014211917918.htm",
+      "summary": "Trong phiên bế mạc, Đại hội đại biểu Đảng bộ TP.HCM lần I sẽ công bố kết quả biểu quyết các chỉ tiêu nghị quyết đại hội, thông qua đại hội nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.755501+07:00",
+      "fetched": "2025-10-15T08:15:07.755632+07:00"
+    },
+    {
+      "id": "249bc54253d5ee627c51af0159224b19",
+      "title": "Thời tiết hôm nay 15-10: Bắc Bộ còn mưa to, Nam Bộ giảm mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-10-bac-bo-con-mua-to-nam-bo-giam-mua-20251014190737684.htm",
+      "summary": "Hôm nay 15-10, mưa to vẫn duy trì nhiều nơi tại Bắc Bộ. Nam Bộ giảm mưa, chỉ còn mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.755373+07:00",
+      "fetched": "2025-10-15T08:15:07.755489+07:00"
+    },
+    {
+      "id": "faf4a397c9d0961ef642326785318148",
+      "title": "Việt Nam được 180/190 phiếu, tái đắc cử Hội đồng Nhân quyền Liên hợp quốc",
+      "link": "https://tuoitre.vn/viet-nam-duoc-180-190-phieu-tai-dac-cu-hoi-dong-nhan-quyen-lien-hop-quoc-2025101500413423.htm",
+      "summary": "Số phiếu Việt Nam đạt được là 180 phiếu, cao nhất trong nhóm châu Á - Thái Bình Dương, đồng thời là nước duy nhất trong khu vực tái đắc cử nhiệm kỳ 2026 - 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.755145+07:00",
+      "fetched": "2025-10-15T08:15:07.755361+07:00"
+    },
+    {
+      "id": "cb62da2838e21b1e9ca37e304ac0a6ce",
+      "title": "Tin tức sáng 15-10: Tài sản ông Phạm Nhật Vượng sắp cán mốc 20 tỉ USD",
+      "link": "https://tuoitre.vn/tin-tuc-sang-15-10-tai-san-ong-pham-nhat-vuong-sap-can-moc-20-ti-usd-20251014194542609.htm",
+      "summary": "Một số tin tức đáng chú ý: Tạp chí Forbes ước tính ông Phạm Nhật Vượng hiện sở hữu tài sản lên đến 19,7 tỉ USD; Áp lực tỉ giá có thể kéo dài đến cuối năm 2025; 'Trùm' buôn xe sang Mercedes thua lỗ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.755010+07:00",
+      "fetched": "2025-10-15T08:15:07.755133+07:00"
+    },
+    {
+      "id": "10550260eab5d5012cfbbf5dd6430439",
+      "title": "Được AFC ưu ái, Saudi Arabia và Qatar chính thức giành vé đến World Cup 2026",
+      "link": "https://tuoitre.vn/duoc-afc-uu-ai-saudi-arabia-va-qatar-chinh-thuc-gianh-ve-den-world-cup-2026-20251015053301731.htm",
+      "summary": "Với quá nhiều lợi thế nhận được ở giai đoạn 4 vòng loại World Cup 2026 khu vực châu Á, 2 đại gia làng bóng đá là Saudi Arabia và Qatar đã giành vé đến ngày hội bóng đá hấp dẫn nhất hành tinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754873+07:00",
+      "fetched": "2025-10-15T08:15:07.754998+07:00"
+    },
+    {
+      "id": "a7a1c326038ffdf2bdc5d5335c2a4b7a",
+      "title": "Mạnh tay với hàng giả, hàng gian",
+      "link": "https://tuoitre.vn/manh-tay-voi-hang-gia-hang-gian-20251014230433804.htm",
+      "summary": "Ngân 98 bị khởi tố về tội \"sản xuất, buôn bán hàng giả là thực phẩm\". Vụ việc được lưu ý không chỉ vì số tiền \"trăm tỉ\" từ bán thực phẩm giả, mà còn vì sự nguy hiểm của hàng giả đã đến mức báo động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754745+07:00",
+      "fetched": "2025-10-15T08:15:07.754861+07:00"
+    },
+    {
+      "id": "f04db2406a2c8b22b861b83d20805c18",
+      "title": "Xác định 9 đội châu Phi giành vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/xac-dinh-9-doi-chau-phi-gianh-ve-du-world-cup-2026-20251015055106027.htm",
+      "summary": "Sáng 15-10 (giờ Việt Nam) đã diễn ra lượt trận cuối cùng của giai đoạn 1 vòng loại World Cup 2026 khu vực châu Phi, qua đó xác định đủ 9 đội \"lục địa đen\" giành vé chính thức đến World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754608+07:00",
+      "fetched": "2025-10-15T08:15:07.754733+07:00"
+    },
+    {
+      "id": "f4f0d6ed93b7d8dda6351bdb16a89975",
+      "title": "Ronaldo lập nên kỷ lục vĩ đại ở vòng loại World Cup",
+      "link": "https://tuoitre.vn/ronaldo-lap-nen-ky-luc-vi-dai-o-vong-loai-world-cup-20251015051359.htm",
+      "summary": "Ở tuổi 40, Ronaldo tiếp tục làm nên lịch sử với những cột mốc phi thường về số lượng bàn thắng trong màu áo tuyển Bồ Đào Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754462+07:00",
+      "fetched": "2025-10-15T08:15:07.754578+07:00"
+    },
+    {
+      "id": "723acf511e8cd63058887159298b41e9",
+      "title": "Kiệt tác Hồ thiên nga cháy vé, HBSO mở thêm suất diễn",
+      "link": "https://tuoitre.vn/kiet-tac-ho-thien-nga-chay-ve-hbso-mo-them-suat-dien-20251014142038521.htm",
+      "summary": "Sớm 'cháy vé' ngay sau khi mở bán, hai đêm công diễn trọn vở kiệt tác ballet Hồ thiên nga của HBSO vừa khép lại với cảm xúc thăng hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754332+07:00",
+      "fetched": "2025-10-15T08:15:07.754451+07:00"
+    },
+    {
+      "id": "1a65f7ba15790ae09214ec7cb5c3af6b",
+      "title": "Bầu thủ tướng Nhật: Gay cấn đến phút chót",
+      "link": "https://tuoitre.vn/bau-thu-tuong-nhat-gay-can-den-phut-chot-20251014230953278.htm",
+      "summary": "Sau khi liên minh 26 năm với Đảng Dân chủ tự do tan vỡ, bà Takaichi Sanae - tân Chủ tịch Đảng cầm quyền - đối mặt nguy cơ không thể trở thành nữ thủ tướng đầu tiên của Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754201+07:00",
+      "fetched": "2025-10-15T08:15:07.754320+07:00"
+    },
+    {
+      "id": "4d6d88dd69513c8e70a95fa8469f502a",
+      "title": "Đội châu Âu đầu tiên vượt qua vòng loại World Cup 2026",
+      "link": "https://tuoitre.vn/doi-chau-au-dau-tien-vuot-qua-vong-loai-world-cup-2026-20251015060614007.htm",
+      "summary": "Tuyển Anh trở thành đại diện đầu tiên của châu Âu giành vé dự World Cup 2026, sau khi đè bẹp Latvia với tỉ số 5-0 rạng sáng 15-10 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.754061+07:00",
+      "fetched": "2025-10-15T08:15:07.754188+07:00"
+    },
+    {
+      "id": "53b77510b0ec5e8b69d0a1f349f620ed",
+      "title": "Lịch thi đấu Giải bóng chuyền vô địch quốc gia ngày 15-10",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-chuyen-vo-dich-quoc-gia-ngay-15-10-20251015012043787.htm",
+      "summary": "Ngày 15-10, tâm điểm Giải bóng chuyền vô địch quốc gia 2025 sẽ là trận chung kết nam giữa hai đội Biên Phòng và Thể Công Tân Cảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T08:15:07.753882+07:00",
+      "fetched": "2025-10-15T08:15:07.754046+07:00"
+    },
     {
       "id": "08223c68d5e84cc53d2203b05ef27c6d",
       "title": "Tiến Linh: Mặt sân Thống Nhất không tốt để hàng công tuyển Việt Nam thi đấu",
@@ -171,6 +291,396 @@ window.newsData_2025_10_15 = {
       "category": "Tổng hợp",
       "published": "2025-10-15T01:23:59.646812+07:00",
       "fetched": "2025-10-15T01:23:59.647024+07:00"
+    },
+    {
+      "id": "da96fb24b4e5b8c0e79387fa662dccac",
+      "title": "Thói quen uống đồ nóng có liên quan đến một loại ung thư, bạn có mắc phải?",
+      "link": "https://thanhnien.vn/thoi-quen-uong-do-nong-co-lien-quan-den-mot-loai-ung-thu-ban-co-mac-phai-18525101423190746.htm",
+      "summary": "Năm 2016, Cơ quan Nghiên cứu Ung thư Quốc tế (IARC) phân loại: Việc uống đồ uống rất nóng (trên 65 độ C) có thể gây ung thư cho con người, cụ thể là ung thư thực quản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:13:00+07:00",
+      "fetched": "2025-10-15T08:15:05.055634+07:00"
+    },
+    {
+      "id": "8ec03f3113817d3f21e5b0f65469d861",
+      "title": "Đàn cá tai tượng 'ăn khế trả vàng'",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-tai-tuong-an-khe-tra-vang-4951254.html",
+      "summary": "Một chùm khế chín vàng ươm rủ xuống mặt hồ, ngay bên dưới, đàn cá tai tượng to lớn đang thong thả bơi quanh chờ quả ngọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.855873+07:00"
+    },
+    {
+      "id": "62389abc6629f8a89c8ddba95d4e4f2f",
+      "title": "Ưu điểm của phẫu thuật đường miệng trong điều trị ung thư tuyến giáp",
+      "link": "https://vnexpress.net/uu-diem-cua-phau-thuat-duong-mieng-trong-dieu-tri-ung-thu-tuyen-giap-4951383.html",
+      "summary": "Nhờ ít xâm lấn, không để lại sẹo, mang lại hiệu quả thẩm mỹ, phẫu thuật ung thư tuyến giáp qua đường miệng đang nổi lên như một bước tiến mới trong điều trị những năm gần đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856051+07:00"
+    },
+    {
+      "id": "e6ffe0cfb4426ca2aea12c0e8612c35b",
+      "title": "Vé bay Sun PhuQuoc Airways mở bán hôm nay",
+      "link": "https://vnexpress.net/ve-bay-sun-phuquoc-airways-mo-ban-hom-nay-4951373.html",
+      "summary": "Sun PhuQuoc Airways mở bán vé từ 8h08 ngày 15/10, tặng kèm vé Sun World, ưu đãi nhóm, cuối tuần, chính sách cho trẻ em, người cao tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856212+07:00"
+    },
+    {
+      "id": "80d47b5c99911339c353d23725142dd7",
+      "title": "Phân bón SenTra hỗ trợ cân bằng dinh dưỡng cây trồng",
+      "link": "https://vnexpress.net/phan-bon-sentra-ho-tro-can-bang-dinh-duong-cay-trong-4951343.html",
+      "summary": "SenTra cung cấp giải pháp phân bón giúp cây trồng hấp thụ dưỡng chất, cải thiện độ màu mỡ đất, tiết kiệm chi phí và hướng tới nền nông nghiệp xanh, bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856381+07:00"
+    },
+    {
+      "id": "4c0276b1d37ab92cdd6d475100a6bf2a",
+      "title": "Hyundai Mighty N500 series ra mắt, thùng hàng cao 1,9m",
+      "link": "https://vnexpress.net/hyundai-mighty-n500-series-ra-mat-thung-hang-cao-1-9m-4951341.html",
+      "summary": "Hyundai Thành Công thương mại (HTCV) giới thiệu ba mẫu xe tải trọng 1,9 – 2,7 tấn, thùng hàng cao 1,9 m, thiết kế linh hoạt theo mục đích sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856543+07:00"
+    },
+    {
+      "id": "691cb282af63a8b054d65bca54f81d3d",
+      "title": "Văn Phú mở bán phân khu mới tại Vlasta - Thủy Nguyên",
+      "link": "https://vnexpress.net/van-phu-mo-ban-phan-khu-moi-tai-vlasta-thuy-nguyen-4951338.html",
+      "summary": "Văn Phú mở bán phân khu Phú Quý thuộc dự án Vlsata - Thủy Nguyên hôm 11/10, thu hút hơn 400 khách hàng tham dự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856733+07:00"
+    },
+    {
+      "id": "1dae466e153d375cd09a84cdaaf53335",
+      "title": "Hơn 1.000 học viên xuất sắc được vinh danh tại Yola Faces",
+      "link": "https://vnexpress.net/hon-1-000-hoc-vien-xuat-sac-duoc-vinh-danh-tai-yola-faces-4951276.html",
+      "summary": "Trung tâm Anh ngữ Yola vinh danh 1.000 học viên xuất sắc về điểm số, tư duy phản biện, kiến thức nền lẫn thái độ cầu tiến, hôm 10/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.856893+07:00"
+    },
+    {
+      "id": "92cf9308cdf243d30040573b9104fe8a",
+      "title": "Giải IAV Run 2025 ra mắt áo finisher, huy chương",
+      "link": "https://vnexpress.net/giai-iav-run-2025-ra-mat-ao-finisher-huy-chuong-4951222.html",
+      "summary": "Giải chạy IAV Run 2025 trên nền tảng vRace giới thiệu huy chương điện tử và áo finisher lấy cảm hứng từ sắc xanh ngành bảo hiểm là phần quà cho runner xuất sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857049+07:00"
+    },
+    {
+      "id": "c0103c0d2b089e52b055f91e3cc8ac8c",
+      "title": "Chặn hormone testosterone triệt căn ung thư tuyến tiền liệt",
+      "link": "https://vnexpress.net/chan-hormone-testosterone-triet-can-ung-thu-tuyen-tien-liet-4951206.html",
+      "summary": "Ông Chuyên, 60 tuổi, ung thư tuyến tiền liệt, bác sĩ chỉ định dùng thuốc nội tiết kết hợp xạ trị chặn hormone testosterone, triệt căn ung thư trong hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857203+07:00"
+    },
+    {
+      "id": "254866188bf6b8b864c3b9f59a8062a3",
+      "title": "Bổ sung vi chất chủ động với Orthomol của Đức",
+      "link": "https://vnexpress.net/bo-sung-vi-chat-chu-dong-voi-orthomol-cua-duc-4950794.html",
+      "summary": "Orthomol ứng dụng liệu pháp dinh dưỡng Orthomolecular mang đến giải pháp bổ sung vi chất khoa học, hỗ trợ ngăn ngừa thiếu hụt, tăng cường sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857359+07:00"
+    },
+    {
+      "id": "f3db481ca52f9c2c6307f2410d2b38aa",
+      "title": "J&amp;T Express ra mắt mini app trên Zalo",
+      "link": "https://vnexpress.net/j-t-express-ra-mat-mini-app-tren-zalo-4950526.html",
+      "summary": "Mini app trên Zalo cho phép khách hàng tra cứu hành trình, tạo đơn ngay trong khung chat mà không cần tải ứng dụng hay đăng ký tài khoản",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857513+07:00"
+    },
+    {
+      "id": "34222722b7ed21a7d5774c06243e7f3e",
+      "title": "Lợi thế an cư tại đô thị 198 ha bên sông Sài Gòn",
+      "link": "https://vnexpress.net/loi-the-an-cu-tai-do-thi-198-ha-ben-song-sai-gon-4950508.html",
+      "summary": "Ngoài lợi thế ba mặt giáp sông Sài Gòn, khu đô thị Vạn Phúc còn sở hữu hồ cảnh quan 16 ha, tạo không gian sống gần gũi thiên nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857682+07:00"
+    },
+    {
+      "id": "d5812abc353808ba03ac86519ef66362",
+      "title": "Thép Miền Nam gắn phát triển kinh doanh với trách nhiệm cộng đồng",
+      "link": "https://vnexpress.net/thep-mien-nam-gan-phat-trien-kinh-doanh-voi-trach-nhiem-cong-dong-4948388.html",
+      "summary": "Thép Miền Nam không chỉ sản xuất thép cho công trình mà còn xây nhà, dựng cầu, trao học bổng, thể hiện tinh thần sẻ chia trên hành trình phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:01.857844+07:00"
+    },
+    {
+      "id": "27b455c134e663c145a4599d297c389a",
+      "title": "Thai kỳ khỏe mạnh - Khởi đầu vững chắc cho tương lai của con",
+      "link": "https://thanhnien.vn/thai-ky-khoe-manh-khoi-dau-vung-chac-cho-tuong-lai-cua-con-185251014202320871.htm",
+      "summary": "Việc theo dõi và quản lý thai kỳ an toàn giúp phát hiện sớm nguy cơ, biến chứng cho cả mẹ và bé, tăng cơ hội sống sót, đồng thời tạo nền tảng vững chắc cho trẻ phát triển toàn diện cả thể chất và trí tuệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.055804+07:00"
+    },
+    {
+      "id": "98fe08a07e744c8463cabca0635e899e",
+      "title": "Sennheiser cùng PGI trình làng MOMENTUM 4 phiên bản giới hạn 80 năm",
+      "link": "https://thanhnien.vn/sennheiser-cung-pgi-trinh-lang-momentum-4-phien-ban-gioi-han-80-nam-185251014165257256.htm",
+      "summary": "Sennheiser cùng Nhà phân phối Phúc Giang PGI vừa trình làng MOMENTUM 4 Wireless phiên bản giới hạn nhân dịp kỷ niệm 80 năm. Hoạt động ra mắt diễn ra trong khuôn khổ triển lãm P.H.E Show 2025, tổ chức ngày 11 – 12.10.2025 tại Khách sạn Saigon Prince (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.055961+07:00"
+    },
+    {
+      "id": "d150a35a834920222cf421793dcf607c",
+      "title": "Prince Hotel Đà Nẵng chính thức khai trương, nâng tầm trải nghiệm nghỉ dưỡng ven biển",
+      "link": "https://thanhnien.vn/prince-hotel-da-nang-chinh-thuc-khai-truong-nang-tam-trai-nghiem-nghi-duong-ven-bien-185251014162303195.htm",
+      "summary": "Seibu Prince Hotels & Resorts hân hạnh công bố khai trương chính thức Prince Hotel Đà Nẵng, tiền thân là Sel de Mer Hotel Suites, từ tháng 10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.056118+07:00"
+    },
+    {
+      "id": "0581e40de4d846c7b6e91320519ab868",
+      "title": "Vì sao khách hàng nên chọn mua nhà tại Van Phuc City",
+      "link": "https://thanhnien.vn/vi-sao-khach-hang-nen-chon-mua-nha-tai-van-phuc-city-185251014162049792.htm",
+      "summary": "Từ tầm nhìn chiến lược và nỗ lực bền bỉ, Khu đô thị Vạn Phúc (Van Phuc City) đã trở thành một đại đô thị hiện hữu, sầm uất và hoàn chỉnh tại TP.HCM. Nơi đây không chỉ tạo nên chốn an cư đẳng cấp, mà còn khẳng định vị thế khác biệt. Mọi tiêu chuẩn sống từ quy mô, cảnh quan đến tiện ích, đều được đầu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.056272+07:00"
+    },
+    {
+      "id": "120ef2b9ac9670fdb5607dd1cd816e9e",
+      "title": "The Pearl: Mỗi ngôi nhà trở thành ‘di sản’",
+      "link": "https://thanhnien.vn/the-pearl-moi-ngoi-nha-tro-thanh-di-san-185251014152332618.htm",
+      "summary": "Năm tháng chảy trôi, bốn mùa đơm hoa kết trái, dòng sông Vàm Cỏ Đông hàng trăm năm qua đã đắp bồi vùng đất Nam bộ. Nép mình bên dòng chảy huyền thoại ấy, chắt lọc những tinh túy ngọt lành, The Pearl được kiến tác từ chính thiên nhiên nguyên bản, để trở thành kiệt tác \"di sản độc bản\" ghi dấu ấn với ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.056421+07:00"
+    },
+    {
+      "id": "8a38e438122c514ca3ac4ab0b4c00e18",
+      "title": "Đầm dự tiệc đơn sắc, cách gây ấn tượng ngay từ cái nhìn đầu tiên",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-du-tiec-don-sac-cach-gay-an-tuong-ngay-tu-cai-nhin-dau-tien-185251011171333974.htm",
+      "summary": "Khi thời gian chuyển dần về cuối năm sẽ có vô số buổi tiệc mà nàng tham dự. Cách để gây ấn tượng ngay từ ánh nhìn đầu tiên nằm ở sự xuất sắc trên từng thiết kế đầm dự tiệc. Bảng màu đơn sắc tạo hiệu ứng thị giác mạnh mẽ nhờ phom dáng và những đường cắt sắc sảo, chuyên nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:05.056569+07:00"
+    },
+    {
+      "id": "92cf9308cdf243d30040573b9104fe8a",
+      "title": "Giải IAV Run 2025 ra mắt áo finisher, huy chương",
+      "link": "https://vnexpress.net/giai-iav-run-2025-ra-mat-ao-finisher-huy-chuong-4951222.html",
+      "summary": "Giải chạy IAV Run 2025 trên nền tảng vRace giới thiệu huy chương điện tử và áo finisher lấy cảm hứng từ sắc xanh ngành bảo hiểm là phần quà cho runner xuất sắc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T08:15:15.413799+07:00"
+    },
+    {
+      "id": "a210a8e1e5ab041816d889926dcaeea9",
+      "title": "Bỉ nhận tiêm kích F-35 đầu tiên, mở đường cho F-16 đến Ukraine",
+      "link": "https://vnexpress.net/bi-nhan-tiem-kich-f-35-dau-tien-mo-duong-cho-f-16-den-ukraine-4951265.html",
+      "summary": "Bỉ tiếp nhận những chiếc F-35 đầu tiên từ Mỹ, tạo điều kiện để loại biên tiêm kích F-16 và hướng tới chuyển giao cho Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:58:02+07:00",
+      "fetched": "2025-10-15T08:15:01.857999+07:00"
+    },
+    {
+      "id": "a210a8e1e5ab041816d889926dcaeea9",
+      "title": "Bỉ nhận tiêm kích F-35 đầu tiên, mở đường cho F-16 đến Ukraine",
+      "link": "https://vnexpress.net/bi-nhan-tiem-kich-f-35-dau-tien-mo-duong-cho-f-16-den-ukraine-4951265.html",
+      "summary": "Bỉ tiếp nhận những chiếc F-35 đầu tiên từ Mỹ, tạo điều kiện để loại biên tiêm kích F-16 và hướng tới chuyển giao cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T00:58:02+07:00",
+      "fetched": "2025-10-15T08:15:09.505226+07:00"
+    },
+    {
+      "id": "a67a65f845f8706488dbff9b00b275d6",
+      "title": "Mỹ thu hồi visa của 6 người vì bình luận trên mạng về vụ Charlie Kirk",
+      "link": "https://thanhnien.vn/my-thu-hoi-visa-cua-6-nguoi-vi-binh-luan-tren-mang-ve-vu-charlie-kirk-185251015074701185.htm",
+      "summary": "Bộ Ngoại giao Mỹ ngày 14.10 thông báo đã thu hồi thị thực (visa) của 6 người nước ngoài vì có những bình luận của họ trên mạng xã hội về vụ ám sát nhà hoạt động chính trị Charlie Kirk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:58:00+07:00",
+      "fetched": "2025-10-15T08:15:05.056744+07:00"
+    },
+    {
+      "id": "d2781b2e4f7e9b8e2aa86b0f8fcbfad5",
+      "title": "Mỹ truy tố chủ tịch tập đoàn Campuchia vì nghi lừa đảo hàng tỷ USD tiền số",
+      "link": "https://vnexpress.net/my-truy-to-chu-tich-tap-doan-campuchia-vi-nghi-lua-dao-hang-ty-usd-tien-so-4951451.html",
+      "summary": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:53:31+07:00",
+      "fetched": "2025-10-15T08:15:01.858149+07:00"
+    },
+    {
+      "id": "d2781b2e4f7e9b8e2aa86b0f8fcbfad5",
+      "title": "Mỹ truy tố chủ tịch tập đoàn Campuchia vì nghi lừa đảo hàng tỷ USD tiền số",
+      "link": "https://vnexpress.net/my-truy-to-chu-tich-tap-doan-campuchia-vi-nghi-lua-dao-hang-ty-usd-tien-so-4951451.html",
+      "summary": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T00:53:31+07:00",
+      "fetched": "2025-10-15T08:15:09.505403+07:00"
+    },
+    {
+      "id": "62f45d48808ac1109b6e5f7d1e7f247a",
+      "title": "Cấm vẫn đổ",
+      "link": "https://thanhnien.vn/cam-van-do-185251014185853656.htm",
+      "summary": "Tại giao lộ đường C và đường F, P.Đông Hưng Thuận (trước đây thuộc P.Tân Thới Nhất, Q.12), TP.HCM, có một bãi rác lớn gây ô nhiễm môi trường và mất mỹ quan đô thị. Đáng chú ý, rác đổ tràn lan ngay bên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:50:00+07:00",
+      "fetched": "2025-10-15T08:15:06.813337+07:00"
+    },
+    {
+      "id": "8408de7f92864a17fcb932c16fb16883",
+      "title": "Đường hư hỏng gây nguy hiểm",
+      "link": "https://thanhnien.vn/duong-hu-hong-gay-nguy-hiem-185251014185622092.htm",
+      "summary": "Đường Bến Nghé, đoạn qua P.Tân Thuận (trước đây thuộc P.Tân Thuận Đông, Q.7), TP.HCM, đang xuống cấp trầm trọng, gây nguy hiểm cho người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:50:00+07:00",
+      "fetched": "2025-10-15T08:15:06.813735+07:00"
+    },
+    {
+      "id": "6ace7a640f11fc5941ff71d666de751e",
+      "title": "Ấm lòng quán buffet chay trả tiền tùy tâm",
+      "link": "https://thanhnien.vn/am-long-quan-buffet-chay-tra-tien-tuy-tam-185251014185308604.htm",
+      "summary": "Hằng ngày, bếp ăn Mãn Tự (đường Nguyễn Thị Minh Khai, P.Cầu Ông Lãnh, TP.HCM) phục vụ hơn 30 món chay theo hình thức buffet, giúp bà con khó khăn có bữa cơm ngon miệng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:49:00+07:00",
+      "fetched": "2025-10-15T08:15:06.813901+07:00"
+    },
+    {
+      "id": "b937bc3ffbf451b355b56bdd0d346be6",
+      "title": "Roberto Lopes - từ LinkedIn đến vé dự World Cup 2026",
+      "link": "https://vnexpress.net/roberto-lopes-tu-linkedin-den-ve-du-world-cup-2026-4951120.html",
+      "summary": "Bắt đầu từ một tin nhắn tưởng là spam trên LinkedIn, Roberto Carlos Lopes - cầu thủ mang hai dòng máu Ireland và Cape Verde - trở thành biểu tượng cho nghị lực, góp phần đưa Cape Verde đến VCK World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T00:46:47+07:00",
+      "fetched": "2025-10-15T08:15:15.413950+07:00"
+    },
+    {
+      "id": "544915ceaca152accc7f43d79402625d",
+      "title": "Trào lưu 'xích' smartphone của giới trẻ",
+      "link": "https://vnexpress.net/trao-luu-xich-smartphone-cua-gioi-tre-4951382.html",
+      "summary": "Treo smartphone lên tường, chế thành điện thoại bàn Bluetooth, nhiều người trẻ đang tìm cách tạo ra những khoảng nghỉ trong thời đại kết nối liên tục.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T00:43:03+07:00",
+      "fetched": "2025-10-15T08:15:14.140320+07:00"
+    },
+    {
+      "id": "591d702ef1c7d9454839b855caff307d",
+      "title": "Lý do nghệ sĩ Thanh Hằng khóc nghẹn giữa sự kiện",
+      "link": "https://thanhnien.vn/ly-do-nghe-si-thanh-hang-khoc-nghen-giua-su-kien-185251015070520394.htm",
+      "summary": "Tại sự kiện công bố phim 'Nhà ma xó', nghệ sĩ Thanh Hằng không giấu được xúc động khi tái hiện lại nhân vật. Đồng thời, cô cũng có những chia sẻ về màn thử sức ở lĩnh vực điện ảnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:39:00+07:00",
+      "fetched": "2025-10-15T08:15:06.814075+07:00"
+    },
+    {
+      "id": "95d4cc2041c4420142d85e40c39dc12f",
+      "title": "Bài học về thu hút đầu tư",
+      "link": "https://thanhnien.vn/bai-hoc-ve-thu-hut-dau-tu-185251014190752314.htm",
+      "summary": "Thanh tra tỉnh Khánh Hòa vừa công bố kết luận thanh tra đối với 37 dự án được triển khai khoảng 10 năm trước, qua đó phát hiện hàng loạt sai phạm nghiêm trọng liên quan đến đấu thầu, đấu giá đất và ký kết hợp đồng BT (xây dựng - chuyển giao).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:31:00+07:00",
+      "fetched": "2025-10-15T08:15:06.814239+07:00"
+    },
+    {
+      "id": "390b3b3718b0336f45bce6322cb494a9",
+      "title": "Israel giới hạn viện trợ vào Gaza, ông Trump nói Hamas phải giải giáp",
+      "link": "https://thanhnien.vn/israel-gioi-han-vien-tro-vao-gaza-ong-trump-noi-hamas-phai-giai-giap-185251015072353414.htm",
+      "summary": "Israel thông báo sẽ chỉ cho phép một nửa số xe tải cứu trợ đã thỏa thuận trước đó vào Gaza kể từ ngày 15.10, làm giảm hy vọng về việc tăng nguồn hàng cứu trợ để giảm bớt nạn đói tại vùng lãnh thổ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:29:00+07:00",
+      "fetched": "2025-10-15T08:15:06.814395+07:00"
+    },
+    {
+      "id": "3038f2d0b77d68d6570a6531f0793862",
+      "title": "Binh biến tại Madagascar: tổng thống bị luận tội, quân đội tuyên bố nắm quyền",
+      "link": "https://thanhnien.vn/binh-bien-tai-madagascar-tong-thong-bi-luan-toi-quan-doi-tuyen-bo-nam-quyen-185251015071416846.htm",
+      "summary": "Tổng thống Madagascar Andry Rajoelina đã bị luận tội và ra nước ngoài, trong khi một đại tá quân đội tuyên bố kiểm soát quyền lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T00:26:00+07:00",
+      "fetched": "2025-10-15T08:15:06.814551+07:00"
+    },
+    {
+      "id": "d01881671703ac6c233c13dfbcd59ff7",
+      "title": "Ông Trump tuyên bố sẽ cưỡng chế giải giáp nếu Hamas không tự làm",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-cuong-che-giai-giap-neu-hamas-khong-tu-lam-4951449.html",
+      "summary": "Tổng thống Trump cho biết sẽ buộc Hamas giải giáp nếu nhóm không tự làm điều này, đồng thời kêu gọi họ trả thi thể các con tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T00:11:21+07:00",
+      "fetched": "2025-10-15T08:15:09.505569+07:00"
+    },
+    {
+      "id": "5081898a1238d8b24444d2d3c2f13565",
+      "title": "HLV Shin Tae-yong tức giận vì bị tố đánh, chửi cầu thủ Hàn Quốc",
+      "link": "https://vnexpress.net/hlv-shin-tae-yong-tuc-gian-vi-bi-to-danh-chui-cau-thu-han-quoc-4951344.html",
+      "summary": "65 ngày của HLV Shin Tae-yong tại Ulsan Hyundai kết thúc sau những bất hòa trong nội bộ, dẫn đến bị cầu thủ \"bẻ ghế\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T23:53:02+07:00",
+      "fetched": "2025-10-15T08:15:15.412830+07:00"
+    },
+    {
+      "id": "4c08fb7cb5f629025434a1a408aa8f83",
+      "title": "Việt Nam tái đắc cử vào Hội đồng Nhân quyền LHQ",
+      "link": "https://vnexpress.net/viet-nam-tai-dac-cu-vao-hoi-dong-nhan-quyen-lhq-4951446.html",
+      "summary": "Việt Nam tiếp tục được bầu vào Hội đồng Nhân quyền LHQ nhiệm kỳ 2026-2028 với số phiếu cao nhất nhóm châu Á - Thái Bình Dương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T23:29:20+07:00",
+      "fetched": "2025-10-15T08:15:09.505766+07:00"
+    },
+    {
+      "id": "67dcec0277ba93335410366491b49829",
+      "title": "Ronaldo lập kỷ lục ghi bàn ở vòng loại World Cup",
+      "link": "https://vnexpress.net/ronaldo-lap-ky-luc-ghi-ban-o-vong-loai-world-cup-4951443.html",
+      "summary": "Cú đúp vào lưới Hungary giúp tiền đạo 40 tuổi Cristiano Ronaldo lập kỷ lục ghi nhiều bàn nhất ở vòng loại World Cup, khi Bồ Đào Nha hòa 2-2 trên sân nhà tối 14/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T22:20:11+07:00",
+      "fetched": "2025-10-15T08:15:15.413006+07:00"
     },
     {
       "id": "cd786f6e48792c0e0aee0dc66ee14892",
