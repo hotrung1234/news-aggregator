@@ -1,7 +1,157 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T13:25:22.581622+07:00",
+  "lastUpdated": "2025-10-16T15:23:34.309487+07:00",
   "articles": [
+    {
+      "id": "922c05487d5f1f9574d78f037f8e6294",
+      "title": "Bảo vệ khách sạn giải cứu tài xế kẹt trong taxi đang bốc cháy",
+      "link": "https://tuoitre.vn/bao-ve-khach-san-giai-cuu-tai-xe-ket-trong-taxi-dang-boc-chay-20251016124933091.htm",
+      "summary": "Một đoạn video clip ghi lại cảnh tài xế taxi tại Đà Lạt được giải cứu trong xe đang bốc cháy như một đoạn phim hành động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.153146+07:00",
+      "fetched": "2025-10-16T15:23:26.153259+07:00"
+    },
+    {
+      "id": "4da11c5087c84b2c3b72e2b4679b9a4d",
+      "title": "Huế: Nước sông dâng cao, nhiều nhà dân bị ngập sâu",
+      "link": "https://tuoitre.vn/hue-nuoc-song-dang-cao-nhieu-nha-dan-bi-ngap-sau-20251016115635065.htm",
+      "summary": "Sáng 16-10 nước sông Bù Lu (xã Chân Mây - Lăng Cô, TP Huế) bất ngờ dâng cao khiến hàng chục hộ dân ven sông bị ngập sâu, có nơi hơn nửa mét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.153023+07:00",
+      "fetched": "2025-10-16T15:23:26.153135+07:00"
+    },
+    {
+      "id": "7e84ec96927b90f8c01d2a812fa84464",
+      "title": "Mê trà sữa và cơm chiên, ngôi sao cầu lông Thái Lan sa sút",
+      "link": "https://tuoitre.vn/me-tra-sua-va-com-chien-ngoi-sao-cau-long-thai-lan-sa-sut-20251016112703824.htm",
+      "summary": "Ở tuổi đỉnh cao phong độ, tay vợt số 1 làng cầu lông Thái Lan - Kunlavut Vitidsarn bất ngờ vướng phải một \"rào cản\" lạ lùng liên quan đến đam mê ăn uống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152901+07:00",
+      "fetched": "2025-10-16T15:23:26.153012+07:00"
+    },
+    {
+      "id": "600bcdd87768962ea9cc625746e118e0",
+      "title": "Việt Nam sẽ hết mang tiếng 'du lịch giá rẻ'?",
+      "link": "https://tuoitre.vn/viet-nam-se-het-mang-tieng-du-lich-gia-re-20251016122519472.htm",
+      "summary": "Du khách các nước rất thích trải nghiệm văn hóa, các thành phố của Việt Nam. Văn hóa là nguồn tài nguyên rất lớn mà du lịch Việt Nam đang có thế mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152774+07:00",
+      "fetched": "2025-10-16T15:23:26.152890+07:00"
+    },
+    {
+      "id": "2c7092269961e35789c603884a09f5ec",
+      "title": "Sân Thống Nhất bao giờ hết ngập vì mưa lớn?",
+      "link": "https://tuoitre.vn/san-thong-nhat-bao-gio-het-ngap-vi-mua-lon-20251016121442734.htm",
+      "summary": "Trận Nepal - Việt Nam ở vòng loại cuối Asian Cup 2027 diễn ra trên sân Thống Nhất tối 14-10 đã phải lùi lại 30 phút vì mặt sân ngập nước do mưa lớn. Bao giờ thì hình ảnh này không còn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152651+07:00",
+      "fetched": "2025-10-16T15:23:26.152763+07:00"
+    },
+    {
+      "id": "c56e588636ec6130c3c34da01d27a05e",
+      "title": "Đoàn công tác của Quốc hội Hàn Quốc tới Campuchia sau loạt vụ việc bắt cóc và lừa đảo",
+      "link": "https://tuoitre.vn/han-quoc-kiem-tra-dai-su-quan-tai-campuchia-sau-loat-vu-viec-chan-dong-lap-doi-dac-nhiem-20251016133554138.htm",
+      "summary": "Ủy ban Đối ngoại và Thống nhất Quốc hội Hàn Quốc sẽ có chuyến công tác đến Campuchia để kiểm tra tình hình tội phạm nhắm vào người Hàn, sau hàng loạt vụ bắt cóc và lừa đảo gây chấn động dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152520+07:00",
+      "fetched": "2025-10-16T15:23:26.152640+07:00"
+    },
+    {
+      "id": "c2a77389521e295ce28988a67d7d88f8",
+      "title": "Vụ nhận án tù vì 'làm chuyện ấy' khi vợ dưới 16 tuổi: Viện KSND tối cao thông báo rút kinh nghiệm",
+      "link": "https://tuoitre.vn/vu-nhan-an-tu-vi-lam-chuyen-ay-khi-vo-duoi-16-tuoi-vien-ksnd-toi-cao-thong-bao-rut-kinh-nghiem-20251016130946867.htm",
+      "summary": "Liên quan vụ chồng nhận án tù vì 'làm chuyện ấy' khi vợ dưới 16 tuổi, Viện Kiểm sát nhân dân tối cao cho rằng Tòa án nhân dân tỉnh Khánh Hòa áp dụng hình phạt tù có thời hạn đối với người chồng là chưa phù hợp, gây ảnh hưởng dư luận xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152385+07:00",
+      "fetched": "2025-10-16T15:23:26.152509+07:00"
+    },
+    {
+      "id": "f071b34cdf4284fad6ba2052f86d75a0",
+      "title": "Siết hạn mức vay cho người mua nhà thứ 2 trở lên: Giảm đầu cơ nhưng cũng lo ‘siết nhầm’",
+      "link": "https://tuoitre.vn/siet-han-muc-vay-cho-nguoi-mua-nha-thu-2-tro-len-giam-dau-co-nhung-cung-lo-siet-nham-20251016111123614.htm",
+      "summary": "Đề xuất siết hạn mức cho vay mua nhà thứ 2 đang tạo nên nhiều tranh luận. Dù được kỳ vọng sẽ kiềm chế giá nhà, giới chuyên gia cũng lo ngại chính sách này có thể tác động tiêu cực đến thanh khoản, thậm chí ‘siết nhầm’ cả người có nhu cầu ở thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152231+07:00",
+      "fetched": "2025-10-16T15:23:26.152367+07:00"
+    },
+    {
+      "id": "a6199c13a66e596232344ce96e05572a",
+      "title": "Hút hầm cầu lấy 19 triệu đồng, công ty nói 'vừa mua phải bán', luật sư nói nhiều nghi vấn",
+      "link": "https://tuoitre.vn/hut-ham-cau-lay-19-trieu-dong-cong-ty-noi-vua-mua-phai-ban-luat-su-noi-nhieu-nghi-van-20251016130007337.htm",
+      "summary": "Theo luật sư Hải Nhi, các dịch vụ như hút bồn cầu, thông tắc nhà vệ sinh… thường phát sinh trong tình huống khẩn cấp, rất khó xác định trước khối lượng công việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.152100+07:00",
+      "fetched": "2025-10-16T15:23:26.152219+07:00"
+    },
+    {
+      "id": "8e43ca02045261127819eb0685e9edfd",
+      "title": "Kiến nghị không thu hồi đất 32 hộ dân để mở rộng trụ sở tỉnh Khánh Hòa",
+      "link": "https://tuoitre.vn/kien-nghi-khong-thu-hoi-dat-32-ho-dan-de-mo-rong-tru-so-tinh-khanh-hoa-20251016123257849.htm",
+      "summary": "Liên quan vụ thu hồi đất của 32 hộ dân để mở rộng trụ sở làm việc của tỉnh Khánh Hòa, chính quyền phường Nha Trang kiến nghị không thu hồi đất của toàn bộ các hộ dân nêu trên để thực hiện việc này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151975+07:00",
+      "fetched": "2025-10-16T15:23:26.152089+07:00"
+    },
+    {
+      "id": "37a3fe40ed2866d28c8436017d4ed2c5",
+      "title": "Mua hàng bằng niềm tin từ 'hình ảnh' và 'câu chuyện': Cảnh tỉnh từ vụ Ngân 98",
+      "link": "https://tuoitre.vn/mua-hang-bang-niem-tin-tu-hinh-anh-va-cau-chuyen-canh-tinh-tu-vu-ngan-98-20251014151857352.htm",
+      "summary": "Vụ việc liên quan đến Ngân 98 không chỉ là câu chuyện cá nhân hay vấn đề đạo đức trong kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151848+07:00",
+      "fetched": "2025-10-16T15:23:26.151964+07:00"
+    },
+    {
+      "id": "cc162a40008487f50d255568f60b06e2",
+      "title": "Campuchia đăng video công dân Hàn Quốc ca ngợi đất nước 'yên bình và nồng hậu'",
+      "link": "https://tuoitre.vn/campuchia-dang-video-cong-dan-han-quoc-ca-ngoi-dat-nuoc-yen-binh-va-nong-hau-20251016133436886.htm",
+      "summary": "Bộ Nội vụ Campuchia đăng video phụ nữ Hàn Quốc ca ngợi đất nước nhằm trấn an người nước ngoài trước loạt báo cáo về lừa đảo và bắt cóc công dân nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151721+07:00",
+      "fetched": "2025-10-16T15:23:26.151837+07:00"
+    },
+    {
+      "id": "1ce4d1f1d60524640de4517ecafc6910",
+      "title": "Botox dầu tự chế có thật sự giúp da không còn nếp nhăn?",
+      "link": "https://tuoitre.vn/botox-dau-tu-che-co-that-su-giup-da-khong-con-nep-nhan-2025101613122541.htm",
+      "summary": "Theo bài đăng lan truyền trên mạng xã hội, công thức Botox dầu tự chế bao gồm các thành phần như: dầu em bé, đinh hương, viên nang vitamin E, gel nha đam và lá hương thảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151589+07:00",
+      "fetched": "2025-10-16T15:23:26.151710+07:00"
+    },
+    {
+      "id": "f8f0122d651cffee731fb55ba944a97c",
+      "title": "Thường mua vé số online, một phụ nữ ở Cần Thơ trúng độc đắc gần 26 tỉ đồng",
+      "link": "https://tuoitre.vn/thuong-mua-ve-so-online-mot-phu-nu-o-can-tho-trung-doc-dac-gan-26-ti-dong-20251016131106427.htm",
+      "summary": "Một người phụ nữ ở thành phố Cần Thơ thường xuyên mua vé số online của một đại lý, bất ngờ trúng 14 tờ giải độc đắc và giải phụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151449+07:00",
+      "fetched": "2025-10-16T15:23:26.151576+07:00"
+    },
+    {
+      "id": "b409786b1d964d0c5a959f487b30f2b5",
+      "title": "Cho viên chức làm việc tại doanh nghiệp tư, lợi ích hai chiều",
+      "link": "https://tuoitre.vn/cho-vien-chuc-lam-viec-tai-doanh-nghiep-tu-loi-ich-hai-chieu-20251006162041708.htm",
+      "summary": "Viên chức được làm việc ở các doanh nghiệp sẽ tạo tương tác hai chiều giữa khu vực công và tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:23:26.151210+07:00",
+      "fetched": "2025-10-16T15:23:26.151433+07:00"
+    },
     {
       "id": "c0955ac2875450158cee4e92e366b4fc",
       "title": "Thể thao Campuchia rúng động vì đường dây lừa đảo",
@@ -453,6 +603,46 @@ window.newsData_2025_10_16 = {
       "fetched": "2025-10-16T10:01:18.308332+07:00"
     },
     {
+      "id": "6d428af84d8808812da452452421dd45",
+      "title": "Quốc Thiên kể chuyện tình qua hình ảnh người lính cứu hỏa",
+      "link": "https://thanhnien.vn/quoc-thien-ke-chuyen-tinh-qua-hinh-anh-nguoi-linh-cuu-hoa-185251016151146082.htm",
+      "summary": "Sau khi gây chú ý với hình ảnh người lính cứu hỏa trong chương trình truyền hình thực tế 'Chiến sĩ quả cảm', Quốc Thiên tiếp tục khai thác hình tượng này trong MV 'Tự dưng thành người lạ' ra mắt hôm 15.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:18:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822109+07:00"
+    },
+    {
+      "id": "beba8aa92ac235845ce9b49d2b025ca7",
+      "title": "Vụ tàu đắm trên sông Lô, 2 vợ chồng tử vong: Cảnh sát trục vớt tàu",
+      "link": "https://thanhnien.vn/vu-tau-dam-tren-song-lo-2-vo-chong-tu-vong-canh-sat-truc-vot-tau-185251016143557827.htm",
+      "summary": "Lực lượng chức năng đã tìm thấy thi thể 2 vợ chồng trong vụ đắm tàu trên sông Lô và đang trục vớt chiếc tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:17:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822276+07:00"
+    },
+    {
+      "id": "61380c4c8735eb9e80d9e38e22ab84b4",
+      "title": "Lễ nạp tài của Hoa hậu Việt Nam 2020 Đỗ Thị Hà cùng thiếu gia Tập Đoàn Sơn Hải",
+      "link": "https://thanhnien.vn/le-nap-tai-cua-hoa-hau-viet-nam-2020-do-thi-ha-cung-thieu-gia-tap-doan-son-hai-185251016123512064.htm",
+      "summary": "Hoa hậu Việt Nam 2020 Đỗ Thị Hà cùng thiếu gia Nguyễn Viết Vương đã làm lễ nạp tài tại nhà riêng của hoa hậu, ở xã Đông Thành, tỉnh Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:16:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822460+07:00"
+    },
+    {
+      "id": "a5fe589887d717a50859f4a8e9126535",
+      "title": "Vẻ đẹp chân thực và huyền ảo trong triển lãm 'Đường lên mây'",
+      "link": "https://thanhnien.vn/ve-dep-chan-thuc-va-huyen-ao-trong-trien-lam-duong-len-may-185251016135324608.htm",
+      "summary": "Triển lãm tranh sơn mài Đường lên mây của họa sĩ Loan Phương diễn ra từ ngày 16 - 22.10 tại Hội Mỹ thuật TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:15:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822613+07:00"
+    },
+    {
       "id": "0a5823962d048c8f251cc3545d2a2625",
       "title": "Thời tiết hôm nay 16-10: Bắc Bộ giảm mưa, Nam Bộ chiều mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-10-bac-bo-giam-mua-nam-bo-chieu-mua-to-20251015192038125.htm",
@@ -531,6 +721,366 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T08:14:57.403860+07:00",
       "fetched": "2025-10-16T08:14:57.404107+07:00"
+    },
+    {
+      "id": "07851a4366d37d46220195135157bc9c",
+      "title": "Mối quan hệ 'căng thẳng' giữa Justin Bieber với mẹ ruột",
+      "link": "https://thanhnien.vn/moi-quan-he-cang-thang-giua-justin-bieber-voi-me-ruot-185251016130213747.htm",
+      "summary": "Mối quan hệ giữa Justin Bieber và mẹ ruột Pattie Mallette dường như trở nên căng thẳng hơn trong thời gian gần đây và điều này đang diễn ra một cách công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:12:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822770+07:00"
+    },
+    {
+      "id": "03b046a34c5825027c5506a8e26b5290",
+      "title": "'Quy trình không đạt chuẩn' dẫn đến thảm kịch tàu lặn Titan bị nghiền nát",
+      "link": "https://vnexpress.net/quy-trinh-khong-dat-chuan-dan-den-tham-kich-tau-lan-titan-bi-nghien-nat-4952187.html",
+      "summary": "Giới chức Mỹ kết luận OceanGate không đảm bảo an toàn vật liệu và kết cấu của tàu lặn Titan, dẫn đến thảm kịch trên Đại Tây Dương năm 2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:10:32+07:00",
+      "fetched": "2025-10-16T15:23:21.487325+07:00"
+    },
+    {
+      "id": "36059972bb236f9d45f891d333546aad",
+      "title": "Tay vợt bị cấm thi đấu vì một nụ hôn",
+      "link": "https://vnexpress.net/tay-vot-bi-cam-thi-dau-vi-mot-nu-hon-4952168.html",
+      "summary": "Tay vợt số 484 thế giới Goncalo Oliveira dương tính với chất cấm do hôn người lạ và phải lĩnh án phạt nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:10:10+07:00",
+      "fetched": "2025-10-16T15:23:21.487524+07:00"
+    },
+    {
+      "id": "36059972bb236f9d45f891d333546aad",
+      "title": "Tay vợt bị cấm thi đấu vì một nụ hôn",
+      "link": "https://vnexpress.net/tay-vot-bi-cam-thi-dau-vi-mot-nu-hon-4952168.html",
+      "summary": "Tay vợt số 484 thế giới Goncalo Oliveira dương tính với chất cấm do hôn người lạ và phải lĩnh án phạt nặng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-16T08:10:10+07:00",
+      "fetched": "2025-10-16T15:23:34.299766+07:00"
+    },
+    {
+      "id": "ccc2f68cb482089a811d72cf8186a70f",
+      "title": "Tôi tôn trọng Gen Z chủ động thất nghiệp thay vì chịu cực, hy sinh",
+      "link": "https://vnexpress.net/toi-ton-trong-gen-z-chu-dong-that-nghiep-thay-vi-chiu-cuc-hy-sinh-4952064.html",
+      "summary": "Nhiều Gen Z sẵn sàng làm việc chăm chỉ nếu cảm thấy được công nhận. Nhưng khi công sức không được ghi nhận xứng đáng, họ chọn rút lui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:10:04+07:00",
+      "fetched": "2025-10-16T15:23:21.487688+07:00"
+    },
+    {
+      "id": "cc09058350d9b00dcaf5d6099f6195ea",
+      "title": "Em tự tin và sống tích cực",
+      "link": "https://vnexpress.net/em-tu-tin-va-song-tich-cuc-4952028.html",
+      "summary": "Em muốn có một người bạn trai mà mình ngưỡng mộ, chỉ cần em luôn có thể hỏi và nhận được câu trả lời dịu dàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:09:44+07:00",
+      "fetched": "2025-10-16T15:23:21.487789+07:00"
+    },
+    {
+      "id": "45a4c8328dea73a332911e33d4f7d80e",
+      "title": "Mong anh có thể lắng nghe những câu chuyện không vội vã",
+      "link": "https://vnexpress.net/mong-anh-co-the-lang-nghe-nhung-cau-chuyen-khong-voi-va-4952024.html",
+      "summary": "Hy vọng anh đủ từng trải để thấu hiểu những phức tạp của cuộc đời, nhưng vẫn giữ vẹn nguyên vẹn trong tim sự dịu dàng và tử tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:08:38+07:00",
+      "fetched": "2025-10-16T15:23:21.487883+07:00"
+    },
+    {
+      "id": "da0090fcb6d948d0c1c8ef96e121adbe",
+      "title": "Xe máy cũng bị thủy kích, mất cả chục triệu sửa chữa nếu chủ quan",
+      "link": "https://thanhnien.vn/xe-may-cung-bi-thuy-kich-mat-ca-chuc-trieu-sua-chua-neu-chu-quan-185251014135437145.htm",
+      "summary": "Tương tự ô tô, xe máy đi qua các tuyến đường ngập nước cũng rất dễ gặp phải tình trạng thủy kích. Tuy nhiên, do tâm lý chủ quan, nhiều người vẫn cố khởi động máy và cho xe di chuyển tiếp, dẫn đến tình trạng hư hỏng nặng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:08:00+07:00",
+      "fetched": "2025-10-16T15:23:24.822919+07:00"
+    },
+    {
+      "id": "d3ca523737ba75417311a21e492be5bc",
+      "title": "Britney Spears mệt mỏi, tổn thương vì bị chồng cũ viết sách kể xấu",
+      "link": "https://thanhnien.vn/britney-spears-met-moi-ton-thuong-vi-bi-chong-cu-viet-sach-ke-xau-185251016144222358.htm",
+      "summary": "Trên mạng xã hội, Britney Spears chỉ trích chồng cũ - Kevin Federline, vì đã làm tổn thương cô bằng cuốn sách đầy những thông tin tiêu cực và sai lệch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:07:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823068+07:00"
+    },
+    {
+      "id": "503ba9a0fde5cbfb828201d07e878ac3",
+      "title": "Sự nhất quán của chính sách",
+      "link": "https://thanhnien.vn/su-nhat-quan-cua-chinh-sach-185251016135123983.htm",
+      "summary": "Trong bức tranh phục hồi kinh tế hiện nay, tháo gỡ khó khăn cho doanh nghiệp không chỉ là một chính sách hỗ trợ đơn lẻ, mà là nhiệm vụ mang tính sống còn để khơi thông nguồn lực xã hội, kích hoạt tăng trưởng và củng cố niềm tin của nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:05:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823217+07:00"
+    },
+    {
+      "id": "03b82f5ebf698cedc4a92f9c7b956632",
+      "title": "Shynh Premium hướng tới tiêu chuẩn quốc tế",
+      "link": "https://vnexpress.net/shynh-premium-huong-toi-tieu-chuan-quoc-te-4952225.html",
+      "summary": "Shynh Premium định hướng xây dựng trải nghiệm làm đẹp theo tiêu chuẩn quốc tế, đầu tư công nghệ cao, dịch vụ cá nhân hóa và đội ngũ bác sĩ chuyên môn cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:00:00+07:00",
+      "fetched": "2025-10-16T15:23:21.488045+07:00"
+    },
+    {
+      "id": "e5ce87cb3369fb2a6e55c9f6b62caeab",
+      "title": "Áp lực lên kế hoạch cưới",
+      "link": "https://vnexpress.net/ap-luc-len-ke-hoach-cuoi-4952209.html",
+      "summary": "Khánh Linh, 23 tuổi, ở Vĩnh Long, mô tả chuẩn bị cho lễ kết hôn vào tháng tới như đang \"chạy deadline không có hồi kết\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:00:00+07:00",
+      "fetched": "2025-10-16T15:23:21.488209+07:00"
+    },
+    {
+      "id": "f0c20ebffea012ddea8490aaedfbc3ec",
+      "title": "5 bài tập giảm mỏi mắt",
+      "link": "https://vnexpress.net/5-bai-tap-giam-moi-mat-4952140.html",
+      "summary": "Chớp mắt và ngáp, đảo mắt liên tục, massage ấm có thể giúp máu cùng dịch trong mắt lưu thông tốt hơn, giảm mỏi sau khi làm việc căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:00:00+07:00",
+      "fetched": "2025-10-16T15:23:21.488382+07:00"
+    },
+    {
+      "id": "781d4dd6ed166d21654dbe3220d505ee",
+      "title": "Vệt nắng trên bờ vai cha - Truyện ngắn dự thi của Dương Thị Mỹ Nhan",
+      "link": "https://thanhnien.vn/vet-nang-tren-bo-vai-cha-truyen-ngan-du-thi-cua-duong-thi-my-nhan-18525101512380187.htm",
+      "summary": "Hồi nhỏ, Hân hay ngồi bên hiên nhìn cha nhóm lửa bằng bó rơm khô. Mỗi lần gió lùa, khói bay quẩn lên trời, vệt nắng chiều xiên qua đụn khói như tấm lụa vàng treo ngang sân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T08:00:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823378+07:00"
+    },
+    {
+      "id": "ea930ce8cbdb2009f14784aaa96e9866",
+      "title": "Chủ hụi ở Cà Mau chiếm đoạt hơn 2 tỉ đồng",
+      "link": "https://thanhnien.vn/chu-hui-o-ca-mau-chiem-doat-hon-2-ti-dong-185251016120817397.htm",
+      "summary": "Chiếm đoạt hơn 2 tỉ đồng của hụi viên, chủ hụi Phạm Bé Em (47 tuổi, ở Cà Mau) bị Cơ quan CSĐT Công an tỉnh Cà Mau khởi tố, bắt tạm giam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:57:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823528+07:00"
+    },
+    {
+      "id": "61e9adb4f11ed38191e7354d1f48d75b",
+      "title": "Mercedes E-class 2025 có giá từ 2,449 tỉ đồng",
+      "link": "https://thanhnien.vn/mercedes-e-class-2025-co-gia-tu-2449-ti-dong-185251016134100954.htm",
+      "summary": "Sau gần 2 năm trình làng thế giới, Mercedes-Benz E-class 2025 chính thức tung ra thị trường Việt Nam 3 phiên bản E 200 Avantgarde, E 200 Exclusive và E 300 AMG, có giá từ 2,449 - 3,209 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:55:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823673+07:00"
+    },
+    {
+      "id": "6c96a20e299a9fbb5ed3b52c95729411",
+      "title": "Dự kiến thu thập sinh trắc giọng nói của công dân 6 tuổi trở lên",
+      "link": "https://vnexpress.net/du-kien-thu-thap-sinh-trac-giong-noi-cua-cong-dan-6-tuoi-tro-len-4952171.html",
+      "summary": "Bộ Công an đề xuất lấy mẫu giọng nói của công dân tại các mốc tuổi 6-14-25-40-60 và thu thập sinh trắc mống mắt khi làm căn cước để mã hóa, gắn cùng định danh cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:54:46+07:00",
+      "fetched": "2025-10-16T15:23:21.488539+07:00"
+    },
+    {
+      "id": "e3fd902a6136ca1465de72e2d334b12d",
+      "title": "Khó có con sau 15 năm hút thuốc lá",
+      "link": "https://vnexpress.net/kho-co-con-sau-15-nam-hut-thuoc-la-4951416.html",
+      "summary": "Anh Hùng, 36 tuổi, kết hôn 3 năm, phấn đấu có con bằng nhiều cách nhưng chưa thành công, bác sĩ phát hiện tinh trùng yếu và ít do hút thuốc nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:54:00+07:00",
+      "fetched": "2025-10-16T15:23:21.488704+07:00"
+    },
+    {
+      "id": "f59d26f3657dc4f30aa0015f750e6184",
+      "title": "Italy hưởng lợi nhờ quyết không bán kho vàng hơn 2.400 tấn",
+      "link": "https://vnexpress.net/italy-huong-loi-nho-quyet-khong-ban-kho-vang-hon-2-400-tan-4952155.html",
+      "summary": "Italy, quốc gia nhiều lần từ chối bán vàng dự trữ dù đối mặt khủng hoảng nợ công, đang hưởng lợi khi giá vàng tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:52:27+07:00",
+      "fetched": "2025-10-16T15:23:21.488863+07:00"
+    },
+    {
+      "id": "f59d26f3657dc4f30aa0015f750e6184",
+      "title": "Italy hưởng lợi nhờ quyết không bán kho vàng hơn 2.400 tấn",
+      "link": "https://vnexpress.net/italy-huong-loi-nho-quyet-khong-ban-kho-vang-hon-2-400-tan-4952155.html",
+      "summary": "Italy, quốc gia nhiều lần từ chối bán vàng dự trữ dù đối mặt khủng hoảng nợ công, đang hưởng lợi khi giá vàng tăng vọt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T07:52:27+07:00",
+      "fetched": "2025-10-16T15:23:27.773257+07:00"
+    },
+    {
+      "id": "e5323c9a88da5f495414c4882bce66de",
+      "title": "Thể thao - cầu nối hòa bình, hữu nghị và phát triển bền vững của ASEAN",
+      "link": "https://thanhnien.vn/the-thao-cau-noi-hoa-binh-huu-nghi-va-phat-trien-ben-vung-cua-asean-185251016143817809.htm",
+      "summary": "Hội nghị Bộ trưởng Thể thao ASEAN lần thứ 8 (AMMS 8) khai mạc sáng 16.10.2205 tại Hà Nội, nhấn mạnh vai trò của thể thao như một nhịp cầu gắn kết hòa bình, hữu nghị và hướng tới phát triển bền vững trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:52:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823829+07:00"
+    },
+    {
+      "id": "4b6fea7ec4f78096decdfe92a9140014",
+      "title": "Thanh Thủy và dàn mỹ nhân làm phù dâu",
+      "link": "https://vnexpress.net/thanh-thuy-va-dan-my-nhan-lam-phu-dau-4952200.html",
+      "summary": "Hoa hậu Thanh Thủy, Á hậu Ngọc Thảo, Minh Thư diện áo dài đồng điệu khi làm phù dâu của Đỗ Thị Hà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:51:03+07:00",
+      "fetched": "2025-10-16T15:23:21.489013+07:00"
+    },
+    {
+      "id": "3a9866621c2c0d3422532e63dc5724b9",
+      "title": "HLV Patrick Kluivert bị LĐBĐ Indonesia sa thải sau thất bại ở vòng loại World Cup",
+      "link": "https://thanhnien.vn/hlv-patrick-kluivert-bi-ldbd-indonesia-sa-thai-sau-that-bai-o-vong-loai-world-cup-185251016144223546.htm",
+      "summary": "Liên đoàn Bóng đá Indonesia (PSSI) vừa thông báo chấm dứt hợp đồng sớm với HLV Patrick Kluivert cùng toàn bộ ban huấn luyện đội tuyển quốc gia. Quyết định được đưa ra chỉ sau 9 tháng hợp tác ngay sau khi đội tuyển nước này hết cơ hội đến World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:51:00+07:00",
+      "fetched": "2025-10-16T15:23:24.823976+07:00"
+    },
+    {
+      "id": "5005ffc2ef5ccb9e0de070dc327193b6",
+      "title": "Mỹ ra mắt phiên bản diệt tăng của UAV tự sát 'Dao bấm'",
+      "link": "https://vnexpress.net/my-ra-mat-phien-ban-diet-tang-cua-uav-tu-sat-dao-bam-4952132.html",
+      "summary": "Công ty Mỹ giới thiệu UAV tự sát Switchblade 400 được thiết kế chuyên cho nhiệm vụ tấn công xe tăng và thiết giáp đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:50:39+07:00",
+      "fetched": "2025-10-16T15:23:21.489162+07:00"
+    },
+    {
+      "id": "5005ffc2ef5ccb9e0de070dc327193b6",
+      "title": "Mỹ ra mắt phiên bản diệt tăng của UAV tự sát 'Dao bấm'",
+      "link": "https://vnexpress.net/my-ra-mat-phien-ban-diet-tang-cua-uav-tu-sat-dao-bam-4952132.html",
+      "summary": "Công ty Mỹ giới thiệu UAV tự sát Switchblade 400 được thiết kế chuyên cho nhiệm vụ tấn công xe tăng và thiết giáp đối phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T07:50:39+07:00",
+      "fetched": "2025-10-16T15:23:27.773447+07:00"
+    },
+    {
+      "id": "9c933d8a663553ecfbc724785cea68ff",
+      "title": "Mặt bằng bán lẻ TP HCM giảm giá thuê",
+      "link": "https://vnexpress.net/mat-bang-ban-le-tp-hcm-giam-gia-thue-4952167.html",
+      "summary": "Giá chào thuê mặt bằng bán lẻ tại TP HCM quý III giảm 4% so với cùng kỳ năm ngoái do thị trường đón thêm nguồn cung mới, theo JLL Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:50:12+07:00",
+      "fetched": "2025-10-16T15:23:21.489316+07:00"
+    },
+    {
+      "id": "90cadc421556405bd7a7b8ed6b37cead",
+      "title": "Thiếu nữ 17 tuổi điều khiển xe máy gây tai nạn chết người",
+      "link": "https://thanhnien.vn/thieu-nu-17-tuoi-dieu-khien-xe-may-gay-tai-nan-chet-nguoi-185251016115441322.htm",
+      "summary": "Thiếu nữ 17 tuổi điều khiển xe máy gây tai nạn khiến 1 người tử vong, 2 người bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:48:00+07:00",
+      "fetched": "2025-10-16T15:23:24.824121+07:00"
+    },
+    {
+      "id": "551534a22feffe773a5cc8c86ddc2150",
+      "title": "Hải Phòng lập khu thương mại tự do",
+      "link": "https://vnexpress.net/hai-phong-lap-khu-thuong-mai-tu-do-4952189.html",
+      "summary": "Khu thương mại tự do Hải Phòng có quy mô khoảng 6.292 ha, chia làm 3 vị trí thuộc các khu kinh tế ven biển của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:46:46+07:00",
+      "fetched": "2025-10-16T15:23:21.489515+07:00"
+    },
+    {
+      "id": "551534a22feffe773a5cc8c86ddc2150",
+      "title": "Hải Phòng lập khu thương mại tự do",
+      "link": "https://vnexpress.net/hai-phong-lap-khu-thuong-mai-tu-do-4952189.html",
+      "summary": "Khu thương mại tự do Hải Phòng có quy mô khoảng 6.292 ha, chia làm 3 vị trí thuộc các khu kinh tế ven biển của thành phố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T07:46:46+07:00",
+      "fetched": "2025-10-16T15:23:29.464609+07:00"
+    },
+    {
+      "id": "56308f7bf4152570e55b63bccaee8728",
+      "title": "Cô gái xinh đẹp chinh phục giải thưởng Nữ sinh khoa học công nghệ",
+      "link": "https://thanhnien.vn/co-gai-xinh-dep-chinh-phuc-giai-thuong-nu-sinh-khoa-hoc-cong-nghe-185251016133735794.htm",
+      "summary": "Vượt qua hàng trăm hồ sơ từ các trường đại học trên cả nước, Trần Thị Cẩm Giang, sinh viên Khoa Khoa học Máy tính, Trường ĐH Công nghệ thông tin (ĐH Quốc gia TP.HCM) đã trở thành một trong 20 gương mặt tiêu biểu nhận giải thưởng Nữ sinh khoa học công nghệ Việt Nam năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:45:00+07:00",
+      "fetched": "2025-10-16T15:23:24.824267+07:00"
+    },
+    {
+      "id": "2969fe7cd84729d5f40d96c141d2e6a5",
+      "title": "Nga tập kích tên lửa quy mô lớn, Ukraine báo động toàn quốc",
+      "link": "https://vnexpress.net/nga-tap-kich-ten-lua-quy-mo-lon-ukraine-bao-dong-toan-quoc-4952130.html",
+      "summary": "Nhiều vụ nổ xảy ra ở các thành phố lớn tại Ukraine, sau khi nước này cảnh báo Nga tập kích quy mô lớn và sử dụng tên lửa Kinzhal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T07:28:21+07:00",
+      "fetched": "2025-10-16T15:23:27.773610+07:00"
+    },
+    {
+      "id": "30c59e83390d87d8bd0e67d756a69032",
+      "title": "Giá xăng tăng, dầu giảm",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-16-10-4952186.html",
+      "summary": "Giá xăng tăng, dầu giảm từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T07:26:45+07:00",
+      "fetched": "2025-10-16T15:23:29.464786+07:00"
+    },
+    {
+      "id": "4c878e8a5acf30ff39846dd96757e01d",
+      "title": "Phát hiện thi thể phụ nữ Việt ở chung cư Nhật Bản",
+      "link": "https://vnexpress.net/phat-hien-thi-the-phu-nu-viet-o-chung-cu-nhat-ban-4952144.html",
+      "summary": "Người chồng cho biết phát hiện thi thể người vợ Việt với vết thương trên đầu trong căn hộ ở Hiroshima, cảnh sát đang điều tra hướng giết người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T07:22:02+07:00",
+      "fetched": "2025-10-16T15:23:27.773770+07:00"
+    },
+    {
+      "id": "d7f3e280ce82315da1be3d04e3dd787d",
+      "title": "VPBank lãi hơn 20.000 tỷ đồng sau ba quý",
+      "link": "https://vnexpress.net/vpbank-lai-hon-20-000-ty-dong-sau-ba-quy-4952142.html",
+      "summary": "VPBank lãi trước thuế 20.396 tỷ đồng, tăng 47,1% so với cùng kỳ, hoàn thành 81% kế hoạch năm, sau ba quý.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T07:00:00+07:00",
+      "fetched": "2025-10-16T15:23:29.465911+07:00"
+    },
+    {
+      "id": "066448a14b1a4326b5189ad2420afc95",
+      "title": "Chứng khoán SBSI dự kiến phát hành thêm 166,1 triệu cổ phiếu",
+      "link": "https://vnexpress.net/chung-khoan-sbsi-du-kien-phat-hanh-them-166-1-trieu-co-phieu-4952139.html",
+      "summary": "Công ty Cổ phần Chứng khoán Stanley Brothers (SBSI) dự kiến phát hành thêm 166,1 triệu cổ phiếu trong giai đoạn 2025-2026, nhằm tăng vốn điều lệ, bổ sung nguồn lực cho các mảng kinh doanh cốt lõi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T07:00:00+07:00",
+      "fetched": "2025-10-16T15:23:29.466062+07:00"
+    },
+    {
+      "id": "f9be5427da074c08aaf61258ef433cbe",
+      "title": "Indonesia sa thải HLV Kluivert",
+      "link": "https://vnexpress.net/indonesia-sa-thai-hlv-kluivert-4952178.html",
+      "summary": "LĐBĐ Indonesia (PSSI) thông báo chấm dứt hợp đồng với HLV Patrick Kluivert sau 9 tháng tại vị, khi ông không thể giúp đội tuyển dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-16T06:44:42+07:00",
+      "fetched": "2025-10-16T15:23:34.299251+07:00"
     },
     {
       "id": "7b1dac2ee379ec24982d746253e63a03",
