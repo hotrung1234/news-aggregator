@@ -1,7 +1,157 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T17:19:06.733773+07:00",
+  "lastUpdated": "2025-10-16T19:36:33.821643+07:00",
   "articles": [
+    {
+      "id": "8ed9f1a0cb27398aab9c1da4e8ba3fd6",
+      "title": "Chuyển 2,8ha đất trồng tỏi ở Lý Sơn sang làm du lịch",
+      "link": "https://tuoitre.vn/chuyen-2-8ha-dat-trong-toi-o-ly-son-sang-lam-du-lich-20251016150319343.htm",
+      "summary": "UBND tỉnh Quảng Ngãi cho phép chuyển hơn 3ha đất, gồm 2,8ha đất trồng tỏi, để thực hiện dự án Tổ hợp du lịch văn hóa di sản Lý Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543889+07:00",
+      "fetched": "2025-10-16T19:36:26.544002+07:00"
+    },
+    {
+      "id": "44758ce6ff2aa1fb099566c8dcb59dbb",
+      "title": "Việt Nam hoan nghênh đánh giá tích cực của Mỹ về nỗ lực phòng chống mua bán người",
+      "link": "https://tuoitre.vn/viet-nam-hoan-nghenh-danh-gia-tich-cuc-cua-my-ve-no-luc-phong-chong-mua-ban-nguoi-202510161707002.htm",
+      "summary": "Bộ Ngoại giao Việt Nam mong muốn hợp tác chặt chẽ với phía Mỹ nhằm đánh giá toàn diện và tích cực hơn nữa các nỗ lực trong phòng chống mua bán người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543766+07:00",
+      "fetched": "2025-10-16T19:36:26.543878+07:00"
+    },
+    {
+      "id": "7326c9379771c65fc1486d7f1a57fba6",
+      "title": "TP.HCM sẽ lắp thêm camera ở các ‘nút thắt’ giao thông",
+      "link": "https://tuoitre.vn/tp-hcm-se-lap-them-camera-o-cac-nut-that-giao-thong-20251016170740729.htm",
+      "summary": "TP.HCM đang tháo gỡ hàng loạt 'nút thắt' giao thông ở các cửa ngõ như An Phú, Mỹ Thủy, quốc lộ 13, quốc lộ 1… Nhiều dự án trọng điểm được chỉ đạo tập trung đẩy nhanh tiến độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543640+07:00",
+      "fetched": "2025-10-16T19:36:26.543755+07:00"
+    },
+    {
+      "id": "1cda85d89e5a190ff516b99ee4bd5559",
+      "title": "Quảng Ngãi chi hơn 3.100 tỉ đồng cho hơn 3.800 cán bộ nghỉ chế độ",
+      "link": "https://tuoitre.vn/quang-ngai-chi-hon-3-100-ti-dong-cho-hon-3-800-can-bo-nghi-che-do-20251016155019151.htm",
+      "summary": "Tỉnh Quảng Ngãi đã chi hơn 3.126 tỉ đồng hỗ trợ hơn 3.800 cán bộ, công chức, viên chức và người hoạt động không chuyên trách nghỉ việc theo chế độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543496+07:00",
+      "fetched": "2025-10-16T19:36:26.543628+07:00"
+    },
+    {
+      "id": "f3ac9462309a694625b0821966c14315",
+      "title": "Indonesia xác nhận mua tiêm kích J-10 của Trung Quốc",
+      "link": "https://tuoitre.vn/indonesia-xac-nhan-mua-tiem-kich-j-10-cua-trung-quoc-20251016172101246.htm",
+      "summary": "Indonesia xác nhận mua tiêm kích J-10 của Trung Quốc, trở thành quốc gia thứ hai sở hữu dòng tiêm kích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543371+07:00",
+      "fetched": "2025-10-16T19:36:26.543485+07:00"
+    },
+    {
+      "id": "d7459df7011519bd76924ff009e5670b",
+      "title": "Mẹ không cùng nhóm máu vẫn có thể hiến gan cứu con gái 17 tuổi",
+      "link": "https://tuoitre.vn/me-khong-cung-nhom-mau-van-co-the-hien-gan-cuu-con-gai-17-tuoi-20251016170400316.htm",
+      "summary": "Mẹ nhóm máu B, con nhóm máu O, tưởng không thể ghép gan nhưng bác sĩ Bệnh viện 108 vẫn thực hiện thành công, cứu sống thiếu nữ 17 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543248+07:00",
+      "fetched": "2025-10-16T19:36:26.543359+07:00"
+    },
+    {
+      "id": "56d70b241c6f3dc228a7e26ae19d5bc3",
+      "title": "Bí thư tỉnh ủy Nghệ An: Rút gọn thủ tục làm nhà cho dân sau bão lũ",
+      "link": "https://tuoitre.vn/bi-thu-tinh-uy-nghe-an-rut-gon-thu-tuc-lam-nha-cho-dan-sau-bao-lu-20251016163358682.htm",
+      "summary": "Bí thư Tỉnh ủy Nghệ An Nguyễn Đức Trung cho rằng ở một số nơi việc xây dựng lại nhà ở cho người dân mất nhà chưa đạt yêu cầu và chỉ đạo nhanh chóng hỗ trợ người dân khôi phục nhà ở, nhất là những hộ mất nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.543120+07:00",
+      "fetched": "2025-10-16T19:36:26.543236+07:00"
+    },
+    {
+      "id": "538372931d8e51ee4a9b42b090d01bbc",
+      "title": "Giá vàng miếng SJC tiến sát mốc 150 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-tien-sat-moc-150-trieu-dong-luong-20251016173412119.htm",
+      "summary": "Giá vàng miếng SJC ngày 16-10 tăng thêm 1,1 triệu đồng/lượng và đạt kỷ lục mới: 149,1 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542990+07:00",
+      "fetched": "2025-10-16T19:36:26.543109+07:00"
+    },
+    {
+      "id": "7a68a4601100dc78f639bdb2c9cd891f",
+      "title": "Nga, Trung Quốc phản ứng sau phát biểu mới nhất của ông Trump về dầu mỏ",
+      "link": "https://tuoitre.vn/nga-trung-quoc-phan-ung-sau-phat-bieu-moi-nhat-cua-ong-trump-ve-dau-mo-20251016171704594.htm",
+      "summary": "Phó thủ tướng Nga Alexander Novak khẳng định Nga tự tin Ấn Độ sẽ tiếp tục hợp tác với nước này về cung cấp năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542851+07:00",
+      "fetched": "2025-10-16T19:36:26.542978+07:00"
+    },
+    {
+      "id": "318e78472e64a8356faefee4d88a07a7",
+      "title": "Lợi ích không ngờ của việc đi bộ lùi",
+      "link": "https://tuoitre.vn/loi-ich-khong-ngo-cua-viec-di-bo-lui-20251016164844717.htm",
+      "summary": "Đi bộ vốn là một bài tập đơn giản nhưng mang lại nhiều lợi ích ấn tượng cả về thể chất lẫn tinh thần: Xương và cơ bắp khỏe hơn, tăng cường sức khỏe tim mạch và giảm căng thẳng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542720+07:00",
+      "fetched": "2025-10-16T19:36:26.542840+07:00"
+    },
+    {
+      "id": "6bf28b95ba0204adefd10647cbf58606",
+      "title": "Điểm tin 18h: Mưa lớn ngập cục bộ ở Quảng Trị; NATO thử nghiệm vũ khí mới cho Ukraine",
+      "link": "https://tuoitre.vn/diem-tin-18h-mua-lon-ngap-cuc-bo-o-quang-tri-nato-thu-nghiem-vu-khi-moi-cho-ukraine-20251016163511736.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 16-10-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542568+07:00",
+      "fetched": "2025-10-16T19:36:26.542707+07:00"
+    },
+    {
+      "id": "8b716497e30e83209d514648dd0281a9",
+      "title": "Bốc hơi 86% vốn điều lệ, Ngân Lượng - 'chiếc ví' hệ sinh thái Shark Bình kinh doanh ra sao?",
+      "link": "https://tuoitre.vn/boc-hoi-86-von-dieu-le-ngan-luong-chiec-vi-he-sinh-thai-shark-binh-kinh-doanh-ra-sao-20251016174036177.htm",
+      "summary": "Ngân Lượng nằm trong nhóm doanh nghiệp có kết quả kinh doanh tốt nhất trong hệ sinh thái của Shark Nguyễn Hòa Bình, dù doanh thu và lợi nhuận có dấu hiệu sụt giảm trong vài năm gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542436+07:00",
+      "fetched": "2025-10-16T19:36:26.542556+07:00"
+    },
+    {
+      "id": "cbf49ffe099f6841c6c1844aa822ee9d",
+      "title": "Con trai cựu Tổng thống Hàn Quốc được bổ nhiệm làm Đại sứ tại Trung Quốc",
+      "link": "https://tuoitre.vn/con-trai-cuu-tong-thong-han-quoc-duoc-bo-nhiem-lam-dai-su-tai-trung-quoc-20251016172814416.htm",
+      "summary": "Con trai ông Roh Tae Woo chính thức trở thành đại sứ Hàn Quốc đầu tiên tại Trung Quốc dưới thời Tổng thống Lee Jae Myung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542302+07:00",
+      "fetched": "2025-10-16T19:36:26.542424+07:00"
+    },
+    {
+      "id": "9284e75089b57b80a3f4566effc1804f",
+      "title": "Bị kẻ lừa đảo giả danh công an đe dọa, cụ bà suýt mất 82 triệu đồng",
+      "link": "https://tuoitre.vn/bi-ke-lua-dao-gia-danh-cong-an-de-doa-cu-ba-suyt-mat-82-trieu-dong-20251016172945811.htm",
+      "summary": "Một cụ bà tại Quảng Trị bị nhóm lừa đảo qua mạng yêu cầu chuyển hết tiền trong sổ tiết kiệm vì liên quan đến vụ án ma túy. Khi cụ bà đến ngân hàng để chuyển thì được nhân viên ngân hàng cùng công an xã ngăn kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.542147+07:00",
+      "fetched": "2025-10-16T19:36:26.542289+07:00"
+    },
+    {
+      "id": "72210b2cc2d72083587fdd8fcf208613",
+      "title": "TP.HCM dùng camera và phản ánh từ người dân để xử lý vi phạm vỉa hè",
+      "link": "https://tuoitre.vn/tp-hcm-dung-camera-va-phan-anh-tu-nguoi-dan-de-xu-ly-vi-pham-via-he-20251016174318791.htm",
+      "summary": "Sở Xây dựng TP.HCM yêu cầu thu thập hình ảnh, video từ camera và người dân để làm cơ sở xử lý tình trạng chiếm dụng vỉa hè, lòng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T19:36:26.541925+07:00",
+      "fetched": "2025-10-16T19:36:26.542132+07:00"
+    },
     {
       "id": "85a1b439b87f7db35333e47298435f09",
       "title": "Không gian nghệ thuật Tinh Tuyển Phương Hoa: Mê hoặc và cảm xúc",
@@ -453,6 +603,306 @@ window.newsData_2025_10_16 = {
       "fetched": "2025-10-16T13:25:14.987848+07:00"
     },
     {
+      "id": "9ea6ae857b6656ddd03e0aedaf43dec2",
+      "title": "Nhan sắc mỹ nhân 'Cánh đồng bất tận' sau gần 10 năm dừng đóng phim",
+      "link": "https://thanhnien.vn/nhan-sac-my-nhan-canh-dong-bat-tan-sau-gan-10-nam-dung-dong-phim-185251016181055302.htm",
+      "summary": "Sau gần một thập kỷ ngưng đóng phim, Đỗ Hải Yến bất ngờ trở lại với điện ảnh. Khi tái xuất màn ảnh rộng, vẻ ngoài của cô vẫn khiến nhiều người xuýt xoa vì không thay đổi quá nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:30:00+07:00",
+      "fetched": "2025-10-16T19:36:05.939287+07:00"
+    },
+    {
+      "id": "b6de63df0c1d2572f0f272653ae25835",
+      "title": "Bộ trưởng Nội vụ: Mỗi xã có khoảng 30,5 chức danh lãnh đạo",
+      "link": "https://thanhnien.vn/bo-truong-noi-vu-moi-xa-co-khoang-305-chuc-danh-lanh-dao-185251016181234921.htm",
+      "summary": "Bộ trưởng Bộ Nội vụ Phạm Thị Thanh Trà cho biết, theo thống kê, mỗi xã hiện nay có khoảng 30,5 chức danh lãnh đạo, là rất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:29:00+07:00",
+      "fetched": "2025-10-16T19:36:05.939459+07:00"
+    },
+    {
+      "id": "b8ac952471f06715ac677a255b838011",
+      "title": "Chủ tịch VFF có mặt, AFC kêu gọi các thành viên làm điều đặc biệt",
+      "link": "https://thanhnien.vn/chu-tich-vff-co-mat-afc-keu-goi-cac-thanh-vien-lam-dieu-dac-biet-185251016191718241.htm",
+      "summary": "Ngày 15.10, tại Riyadh (Ả Rập Xê Út), Liên đoàn Bóng đá châu Á (AFC) tổ chức cuộc họp lần thứ 7 của Ban Chấp hành AFC. Cuộc họp diễn ra ngay trước thềm lễ trao giải AFC Awards Riyadh 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:26:00+07:00",
+      "fetched": "2025-10-16T19:36:05.939642+07:00"
+    },
+    {
+      "id": "de3536cdc23ac73080ce84b457054291",
+      "title": "Thủ tướng Pháp Lecornu vượt qua cuộc bỏ phiếu bất tín nhiệm",
+      "link": "https://thanhnien.vn/thu-tuong-phap-lecornu-vuot-qua-cuoc-bo-phieu-bat-tin-nhiem-185251016191142525.htm",
+      "summary": "Thủ tướng Pháp Sebastien Lecornu ngày 16.10 đã vượt qua 2 cuộc bỏ phiếu bất tín nhiệm tại quốc hội nước này, giành được sự ủng hộ quan trọng từ đảng Xã hội nhờ nhượng bộ về chính sách cải cách lương hưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:25:00+07:00",
+      "fetched": "2025-10-16T19:36:05.939804+07:00"
+    },
+    {
+      "id": "dd1354ee5be4bb2d73e29a4459ab9045",
+      "title": "Billiards: Trần Thanh Lực đánh bại cựu vô địch thế giới, thiên tài Caudron thắng chóng vánh",
+      "link": "https://thanhnien.vn/billiards-tran-thanh-luc-danh-bai-cuu-vo-dich-the-gioi-thien-tai-caudron-thang-chong-vanh-185251016191901406.htm",
+      "summary": "Ở cuộc đối đầu thuộc vòng đấu loại trực tiếp giải billiards carom 3 băng vô địch thế giới (World Championship) 2025, Trần Thanh Lực giành chiến thắng trước cơ thủ kỳ cựu người Nhật Bản. Qua đó, đại diện của Việt Nam đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:21:00+07:00",
+      "fetched": "2025-10-16T19:36:05.939962+07:00"
+    },
+    {
+      "id": "e68f337722c591e6780276f2ccede29f",
+      "title": "Cứu du khách nước ngoài bị đuối nước khi tắm biển Nha Trang",
+      "link": "https://thanhnien.vn/cuu-du-khach-nuoc-ngoai-bi-duoi-nuoc-khi-tam-bien-nha-trang-185251016182859807.htm",
+      "summary": "Bất chấp mưa lớn, một du khách nước ngoài vẫn xuống tắm biển ở Nha Trang (Khánh Hòa) và bị đuối nước, may mắn được lực lượng cảnh sát đường thủy cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:18:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940114+07:00"
+    },
+    {
+      "id": "2d92c7063d0c49645fd1e02bed22358f",
+      "title": "Lisa (BlackPink) đóng phim 'bom tấn' cùng Ma Dong Seok",
+      "link": "https://thanhnien.vn/lisa-blackpink-tro-lai-man-anh-dong-cung-ma-dong-seok-185251016181335403.htm",
+      "summary": "Lisa (BlackPink) sẽ tái xuất màn ảnh với vai diễn thứ hai trong sự nghiệp, sánh vai cùng 'ông hoàng hành động' Hàn Quốc Ma Dong Seok trong dự án bom tấn của Netflix mang tên 'Extraction: Tigo'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:16:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940265+07:00"
+    },
+    {
+      "id": "4745c61a997cb99896a3d4a600af946c",
+      "title": "Sản phẩm dưỡng da Exosomes Ampoule nhận giải từ tạp chí L’Officiel",
+      "link": "https://vnexpress.net/san-pham-duong-da-exosomes-ampoule-nhan-giai-tu-tap-chi-l-officiel-4949662.html",
+      "summary": "Lavish Derma Intensive Exosomes Ampoule của thương hiệu Lavish H Baby được vinh danh nhờ ứng dụng công nghệ tiên tiến, mang lại hiệu quả tái tạo, trẻ hóa da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:15:00+07:00",
+      "fetched": "2025-10-16T19:36:02.663801+07:00"
+    },
+    {
+      "id": "8e0ec03b591d38bd1124020d1ce85c22",
+      "title": "Phnom Penh đăng video phụ nữ Hàn Quốc ca ngợi cuộc sống ở Campuchia",
+      "link": "https://vnexpress.net/phnom-penh-dang-video-phu-nu-han-quoc-ca-ngoi-cuoc-song-o-campuchia-4952343.html",
+      "summary": "Campuchia công bố video phụ nữ Hàn Quốc bày tỏ tình yêu với quốc gia này, ca ngợi cuộc sống tại đây \"yên bình\", không giống truyền thông mô tả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:14:41+07:00",
+      "fetched": "2025-10-16T19:36:02.663982+07:00"
+    },
+    {
+      "id": "8e0ec03b591d38bd1124020d1ce85c22",
+      "title": "Phnom Penh đăng video phụ nữ Hàn Quốc ca ngợi cuộc sống ở Campuchia",
+      "link": "https://vnexpress.net/phnom-penh-dang-video-phu-nu-han-quoc-ca-ngoi-cuoc-song-o-campuchia-4952343.html",
+      "summary": "Campuchia công bố video phụ nữ Hàn Quốc bày tỏ tình yêu với quốc gia này, ca ngợi cuộc sống tại đây \"yên bình\", không giống truyền thông mô tả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T12:14:41+07:00",
+      "fetched": "2025-10-16T19:36:27.993556+07:00"
+    },
+    {
+      "id": "9024e55e4d38f233c01cc7b8fd88d1d7",
+      "title": "Lập kỷ lục mới ở tuổi 40, Ronaldo xứng danh huyền thoại sống",
+      "link": "https://thanhnien.vn/lap-ky-luc-moi-o-tuoi-40-ronaldo-xung-danh-huyen-thoai-song-185251016183909512.htm",
+      "summary": "Dù đã hơn 40 tuổi, Cristiano Ronaldo vẫn duy trì phong độ ghi bàn đáng kinh ngạc. Cú đúp vào lưới Hungary giúp anh trở thành cầu thủ ghi nhiều bàn nhất lịch sử vòng loại World Cup, tiếp tục khẳng định vị thế biểu tượng của bóng đá Bồ Đào Nha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:13:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940415+07:00"
+    },
+    {
+      "id": "80ae47e754ca23a1b6cc6da52efae3c5",
+      "title": "Ông Lâm Đông giữ chức Chủ tịch HĐND tỉnh Khánh Hòa",
+      "link": "https://thanhnien.vn/ong-lam-dong-giu-chuc-chu-tich-hdnd-tinh-khanh-hoa-185251016170729714.htm",
+      "summary": "HĐND tỉnh Khánh Hòa bầu ông Lâm Đông giữ chức Chủ tịch HĐND tỉnh, ông Lữ Thanh Hải làm Phó chủ tịch HĐND tỉnh nhiệm kỳ 2021 - 2026 và ông Nguyễn Thanh Hà giữ chức Phó chủ tịch UBND tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:10:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940562+07:00"
+    },
+    {
+      "id": "585771a699430de4b2b970474557a87e",
+      "title": "Vận hành Trung tâm giám sát an toàn, an ninh mạng tập trung tỉnh Lâm Đồng",
+      "link": "https://thanhnien.vn/van-hanh-trung-tam-giam-sat-an-toan-an-ninh-mang-tap-trung-tinh-lam-dong-185251016184518531.htm",
+      "summary": "Trung tâm giám sát an toàn, an ninh mạng tập trung (SOC) tỉnh Lâm Đồng do Công an tỉnh Lâm Đồng quản lý, chính thức ra mắt và đưa vào vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:09:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940739+07:00"
+    },
+    {
+      "id": "ebbacc64dadb2f9e55d326ad135804d2",
+      "title": "Ấn Độ nói cân nhắc mua dầu Mỹ nếu rẻ",
+      "link": "https://vnexpress.net/an-do-noi-can-nhac-mua-dau-my-neu-re-4952263.html",
+      "summary": "Ấn Độ cho biết sẽ cân nhắc mua thêm dầu Mỹ nếu giá cạnh tranh, sau khi ông Trump tuyên bố Thủ tướng Narendra Modi hứa dừng mua dầu Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:08:03+07:00",
+      "fetched": "2025-10-16T19:36:02.664150+07:00"
+    },
+    {
+      "id": "ebbacc64dadb2f9e55d326ad135804d2",
+      "title": "Ấn Độ nói cân nhắc mua dầu Mỹ nếu rẻ",
+      "link": "https://vnexpress.net/an-do-noi-can-nhac-mua-dau-my-neu-re-4952263.html",
+      "summary": "Ấn Độ cho biết sẽ cân nhắc mua thêm dầu Mỹ nếu giá cạnh tranh, sau khi ông Trump tuyên bố Thủ tướng Narendra Modi hứa dừng mua dầu Nga.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T12:08:03+07:00",
+      "fetched": "2025-10-16T19:36:28.869280+07:00"
+    },
+    {
+      "id": "44174b3154156e4444f8ed7247eda099",
+      "title": "Lâm Tâm Như, Hoắc Kiến Hoa tách biệt tài chính",
+      "link": "https://vnexpress.net/lam-tam-nhu-hoac-kien-hoa-tach-biet-tai-chinh-4952267.html",
+      "summary": "Diễn viên Đài Loan Lâm Tâm Như nói vợ chồng cô độc lập kinh tế, mỗi người tự quản lý thu nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:55+07:00",
+      "fetched": "2025-10-16T19:36:02.664308+07:00"
+    },
+    {
+      "id": "a1648f1b3a6c6b81e81f53f13d290e2d",
+      "title": "Nước nào có nhiều xe máy nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-nhieu-xe-may-nhat-dong-nam-a-4952309.html",
+      "summary": "Nước này có 112 triệu xe máy, nhiều nhất ở Đông Nam Á, top 2 thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:02.664465+07:00"
+    },
+    {
+      "id": "f1e1a6799a245879e100ec542172238b",
+      "title": "Honor hé lộ về 'điện thoại robot'",
+      "link": "https://vnexpress.net/honor-he-lo-ve-dien-thoai-robot-4952302.html",
+      "summary": "Honor giới thiệu ý tưởng Robot Phone - điện thoại có cánh tay robot gắn camera, kết hợp trí tuệ đa phương thức, để chụp ảnh kiểu mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:02.664638+07:00"
+    },
+    {
+      "id": "614cbb3cdabf26efc7ab1a63248c127e",
+      "title": "BEST sẽ mở trung tâm phân loại vệ tinh tại miền Bắc",
+      "link": "https://vnexpress.net/best-se-mo-trung-tam-phan-loai-ve-tinh-tai-mien-bac-4952288.html",
+      "summary": "Trung tâm phân loại vệ tinh tại miền Bắc sẽ giúp BEST Express tăng năng lực xử lý hàng hóa, rút ngắn thời gian giao nhận và nâng cao trải nghiệm khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:02.664796+07:00"
+    },
+    {
+      "id": "e5c83c948e6d2fbd7156d725ff0ce838",
+      "title": "Thụ tinh ống nghiệm sàng lọc phôi để sinh con khỏe mạnh",
+      "link": "https://vnexpress.net/thu-tinh-ong-nghiem-sang-loc-phoi-de-sinh-con-khoe-manh-4951850.html",
+      "summary": "Vợ chồng chị Hồng đều mắc rối loạn di truyền do đột biến gene, phải thụ tinh ống nghiệm và sàng lọc phôi để sinh con khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:02.664949+07:00"
+    },
+    {
+      "id": "50039c2900e8c8967b3e7a6267666ef4",
+      "title": "Những ứng viên đang dẫn đầu bình chọn Vietnam iContent Awards 2025",
+      "link": "https://vnexpress.net/nhung-ung-vien-dang-dan-dau-binh-chon-vietnam-icontent-awards-2025-4948304.html",
+      "summary": "TikToker Vẽ hạnh phúc đang dẫn đầu bình chọn \"Nhà sáng tạo nội dung triển vọng\", còn \"Những ngày trời bao la\" chiếm lĩnh \"Âm nhạc truyền cảm hứng\" tại Vietnam iContent Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:02.665121+07:00"
+    },
+    {
+      "id": "41d9d3b9ca2376980fcede609e40e4f6",
+      "title": "Cựu đối thủ lập quan hệ khi Tổng thống Putin tiếp Tổng thống Syria  al-Sharaa",
+      "link": "https://thanhnien.vn/cuu-doi-thu-lap-quan-he-khi-tong-thong-putin-tiep-tong-thong-syria-al-sharaa-185251016173637815.htm",
+      "summary": "Tổng thống lâm thời Syria Ahmed al-Sharaa đã có chuyến thăm chính thức đầu tiên tới Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:05.940890+07:00"
+    },
+    {
+      "id": "f1e1a6799a245879e100ec542172238b",
+      "title": "Honor hé lộ về 'điện thoại robot'",
+      "link": "https://vnexpress.net/honor-he-lo-ve-dien-thoai-robot-4952302.html",
+      "summary": "Honor giới thiệu ý tưởng Robot Phone - điện thoại có cánh tay robot gắn camera, kết hợp trí tuệ đa phương thức, để chụp ảnh kiểu mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-16T12:00:00+07:00",
+      "fetched": "2025-10-16T19:36:32.121278+07:00"
+    },
+    {
+      "id": "7f16f2ccc2d6ec3c85e8eeea96c3bd33",
+      "title": "Campuchia nói Thái Lan đã ngừng phát 'tiếng ma hú' ở biên giới",
+      "link": "https://vnexpress.net/campuchia-noi-thai-lan-da-ngung-phat-tieng-ma-hu-o-bien-gioi-4952250.html",
+      "summary": "Campuchia cho biết vùng biên giới với Thái Lan không còn âm thanh rùng rợn vào đêm và người dân đã được ngủ ngon giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:58:25+07:00",
+      "fetched": "2025-10-16T19:36:02.665286+07:00"
+    },
+    {
+      "id": "7f16f2ccc2d6ec3c85e8eeea96c3bd33",
+      "title": "Campuchia nói Thái Lan đã ngừng phát 'tiếng ma hú' ở biên giới",
+      "link": "https://vnexpress.net/campuchia-noi-thai-lan-da-ngung-phat-tieng-ma-hu-o-bien-gioi-4952250.html",
+      "summary": "Campuchia cho biết vùng biên giới với Thái Lan không còn âm thanh rùng rợn vào đêm và người dân đã được ngủ ngon giấc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T11:58:25+07:00",
+      "fetched": "2025-10-16T19:36:27.993762+07:00"
+    },
+    {
+      "id": "3f9f1cf3b966d6f527399363fa49d27a",
+      "title": "Chủ tịch VFF gặp lại Chủ tịch Liên đoàn Bóng đá Trung Quốc, U.23 Việt Nam có tin cực vui",
+      "link": "https://thanhnien.vn/chu-tich-vff-gap-lai-chu-tich-lien-doan-bong-da-trung-quoc-u23-viet-nam-co-tin-cuc-vui-185251016183609291.htm",
+      "summary": "Đội tuyển U.23 Việt Nam chuẩn bị giải đấu tập huấn rất chất lượng vào tháng 11 tới đây, gặp các đối thủ mạnh U.23 Hàn Quốc, Uzbekistan và chủ nhà U.23 Trung Quốc. Giải đấu này diễn ra ngay trước SEA Games và VCK U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:57:00+07:00",
+      "fetched": "2025-10-16T19:36:05.941038+07:00"
+    },
+    {
+      "id": "a987ef55b421cbb2e72fe4a0de278892",
+      "title": "Chủ tịch HĐND TP.HCM khảo sát các công trình trọng điểm kết nối Bà Rịa - Vũng Tàu cũ",
+      "link": "https://thanhnien.vn/chu-tich-hdnd-tphcm-khao-sat-cac-cong-trinh-trong-diem-ket-noi-ba-ria-vung-tau-cu-185251016181144505.htm",
+      "summary": "Đây là các công trình trọng điểm đã nêu trong Nghị quyết Đại hội đại biểu Đảng bộ TPHCM lần thứ I, nhiệm kỳ 2025 - 2030. Buổi khảo sát để phục vụ cho công tác thẩm tra đầu tư công tại kỳ họp HĐND TP.HCM sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:55:00+07:00",
+      "fetched": "2025-10-16T19:36:05.941184+07:00"
+    },
+    {
+      "id": "210ca7cfadbfe4498893d7ba7095bdfd",
+      "title": "Hơn 20.000 cán bộ nhân viên Vietcombank hỗ trợ đồng bào bị ảnh hưởng do bão lũ",
+      "link": "https://thanhnien.vn/hon-20000-can-bo-nhan-vien-vietcombank-ho-tro-dong-bao-bi-anh-huong-do-bao-lu-185251016175847044.htm",
+      "summary": "Hơn 20.000 cán bộ công nhân viên Ngân hàng TMCP Ngoại thương (Vietcombank) ủng hộ tối thiểu một ngày lương để chung tay khắc phục thiệt hại do bão, lũ gây ra tại miền Bắc và miền Trung với số tiền hơn 15 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:55:00+07:00",
+      "fetched": "2025-10-16T19:36:05.941337+07:00"
+    },
+    {
+      "id": "3877942f1e4bd4f0118c5e72b4388633",
+      "title": "Tưởng đau dạ dày hóa mảnh xương cá đâm thủng ruột non",
+      "link": "https://vnexpress.net/tuong-dau-da-day-hoa-manh-xuong-ca-dam-thung-ruot-non-4952276.html",
+      "summary": "Đau bụng âm ỉ, bà Xuyến, 68 tuổi, cứ nghĩ đau dạ dày, đến bệnh viện mới biết bị xương cá đâm thủng ruột non.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:47:52+07:00",
+      "fetched": "2025-10-16T19:36:02.665442+07:00"
+    },
+    {
+      "id": "39ed9affe38a1e04dc76b9e9cc7fa5da",
+      "title": "Tu bổ, tôn tạo di tích Thành Cổ Quảng Trị, phát hiện 32 hài cốt liệt sĩ",
+      "link": "https://thanhnien.vn/tu-bo-ton-tao-di-tich-thanh-co-quang-tri-phat-hien-32-hai-cot-liet-si-185251016150702251.htm",
+      "summary": "Trong quá trình tu bổ, tôn tạo tại Khu di tích quốc gia đặc biệt Thành Cổ Quảng Trị, Đội 584, Phòng Chính trị, Bộ Chỉ huy Quân sự tỉnh Quảng Trị đã quy tập được 32 hài cốt liệt sĩ cùng nhiều di vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:37:00+07:00",
+      "fetched": "2025-10-16T19:36:05.941485+07:00"
+    },
+    {
       "id": "d15bdcf56632132385f39e08369f3643",
       "title": "Chuyện đời của sác",
       "link": "https://tuoitre.vn/chuyen-doi-cua-sac-20251016084546405.htm",
@@ -603,6 +1053,86 @@ window.newsData_2025_10_16 = {
       "fetched": "2025-10-16T11:19:18.662039+07:00"
     },
     {
+      "id": "a6a24f8b13d635a9bb2ab991535a8be0",
+      "title": "Lũ ống làm chết 45 tấn cá tầm ở Măng Đen",
+      "link": "https://vnexpress.net/lu-ong-lam-chet-45-tan-ca-tam-o-mang-den-4952342.html",
+      "summary": "Mưa lớn kéo dài gây lũ ống tại thôn Đăk Tăng, khiến cá tầm của hai hộ chết hàng loạt, thiệt hại ước tính hơn 7,7 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:18:59+07:00",
+      "fetched": "2025-10-16T19:36:02.665637+07:00"
+    },
+    {
+      "id": "29b89a33e5408cfec19fad8ea1cf2d15",
+      "title": "Biển Đông còn khoảng ba cơn bão, áp thấp nhiệt đới",
+      "link": "https://vnexpress.net/bien-dong-con-khoang-ba-con-bao-ap-thap-nhiet-doi-4952323.html",
+      "summary": "Cục Khí tượng Thủy văn nhận định từ nay đến cuối năm Biển Đông còn khoảng ba cơn bão, áp thấp nhiệt đới, trong đó 1-2 cơn có thể ảnh hưởng đất liền Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:07:59+07:00",
+      "fetched": "2025-10-16T19:36:02.665803+07:00"
+    },
+    {
+      "id": "519ddf9b1327b172f4308d459075a806",
+      "title": "Việt Nam sẵn sàng trao đổi với Mỹ về thuế gỗ nhập khẩu",
+      "link": "https://vnexpress.net/viet-nam-san-sang-trao-doi-voi-my-ve-thue-go-nhap-khau-4952315.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao cho biết Việt Nam sẵn sàng trao đổi với Mỹ để giải quyết vướng mắc, trong đó có vấn đề về thuế gỗ nhập khẩu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:07:24+07:00",
+      "fetched": "2025-10-16T19:36:02.665955+07:00"
+    },
+    {
+      "id": "519ddf9b1327b172f4308d459075a806",
+      "title": "Việt Nam sẵn sàng trao đổi với Mỹ về thuế gỗ nhập khẩu",
+      "link": "https://vnexpress.net/viet-nam-san-sang-trao-doi-voi-my-ve-thue-go-nhap-khau-4952315.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao cho biết Việt Nam sẵn sàng trao đổi với Mỹ để giải quyết vướng mắc, trong đó có vấn đề về thuế gỗ nhập khẩu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T11:07:24+07:00",
+      "fetched": "2025-10-16T19:36:27.993952+07:00"
+    },
+    {
+      "id": "a5f6de197fd73c71a042ccaa6a7ce9f0",
+      "title": "Cứu du khách nước ngoài bị cuốn trôi ở biển Nha Trang",
+      "link": "https://vnexpress.net/cuu-du-khach-nuoc-ngoai-bi-cuon-troi-o-bien-nha-trang-4952344.html",
+      "summary": "Du khách quốc tịch Moldova bị nước cuốn ra xa khi tắm biển ở Nha Trang được cảnh sát cứu, chiều 16/10",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:06:48+07:00",
+      "fetched": "2025-10-16T19:36:02.666120+07:00"
+    },
+    {
+      "id": "6baad1ee437f2c2769c0dbab3448362c",
+      "title": "Việt Nam hoan nghênh đánh giá của Mỹ về nỗ lực phòng chống buôn người",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-danh-gia-cua-my-ve-no-luc-phong-chong-buon-nguoi-4952301.html",
+      "summary": "Việt Nam cho biết Mỹ đã đánh giá khách quan về những kết quả Việt Nam đạt được, mong muốn hai nước tăng cường hợp tác phòng chống nạn buôn người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T10:43:42+07:00",
+      "fetched": "2025-10-16T19:36:27.994126+07:00"
+    },
+    {
+      "id": "1491d85ce6d5de2c4ce3dc7d25f6ac4c",
+      "title": "Chấn thương tàn phá Djokovic thế nào hai năm qua",
+      "link": "https://vnexpress.net/chan-thuong-tan-pha-djokovic-the-nao-hai-nam-qua-4952169.html",
+      "summary": "Thành tích của Novak Djokovic bị ảnh hưởng nghiêm trọng bởi nhiều chấn thương suốt hai mùa gần nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-16T10:40:18+07:00",
+      "fetched": "2025-10-16T19:36:33.809026+07:00"
+    },
+    {
+      "id": "a5b066e98d1c49b271f17e21a458ca3d",
+      "title": "Việt Nam lên tiếng vụ tàu Trung Quốc, Philippines va chạm ở đảo Thị Tứ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-vu-tau-trung-quoc-philippines-va-cham-o-dao-thi-tu-4952316.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao kêu gọi các bên tôn trọng chủ quyền Việt Nam đối với quần đảo Trường Sa, kiềm chế và hành động có trách nhiệm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T10:28:02+07:00",
+      "fetched": "2025-10-16T19:36:27.994321+07:00"
+    },
+    {
       "id": "9a2c1ae16a6e7616834b912732a7cfd5",
       "title": "Thủ tướng Phạm Minh Chính: Phải bình đẳng về giáo dục, bình đẳng về y tế",
       "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-phai-binh-dang-ve-giao-duc-binh-dang-ve-y-te-185251016162256805.htm",
@@ -661,6 +1191,16 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T10:04:41+07:00",
       "fetched": "2025-10-16T17:18:53.274676+07:00"
+    },
+    {
+      "id": "dac0ece43d9c5ed2738048eebb200fcb",
+      "title": "Sớm hồi hương 8 người Việt bị bắt ở Campuchia",
+      "link": "https://vnexpress.net/som-hoi-huong-8-nguoi-viet-bi-bat-o-campuchia-4952295.html",
+      "summary": "Bộ Ngoại giao cho biết đã đề nghị phía Campuchia đảm bảo an ninh, an toàn cho 8 công dân Việt Nam bị bắt và sớm hồi hương nhóm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T10:04:41+07:00",
+      "fetched": "2025-10-16T19:36:27.994478+07:00"
     },
     {
       "id": "51726811f103970464d71da49d1b00b5",
