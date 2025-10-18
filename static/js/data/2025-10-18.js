@@ -1,7 +1,117 @@
 window.newsData_2025_10_18 = {
   "date": "2025-10-18",
-  "lastUpdated": "2025-10-18T05:14:50.918105+07:00",
+  "lastUpdated": "2025-10-18T08:11:16.765318+07:00",
   "articles": [
+    {
+      "id": "3c81130becee0e76c6d154eee6143614",
+      "title": "Đến Vietnam Phở Festival ăn phở Thìn, phở Khỏe và xem bà bán phở rang thảo mộc thơm lừng",
+      "link": "https://tuoitre.vn/den-vietnam-pho-festival-an-pho-thin-pho-khoe-va-xem-ba-ban-pho-rang-thao-moc-thom-lung-20251015162412177.htm",
+      "summary": "Các thương hiệu phở Việt đã sẵn sàng phục vụ những tô phở Việt nóng hổi tại sự kiện về phở lớn nhất hiện nay: Vietnam Phở Festival, diễn ra từ ngày 18 đến 19-10 tại Our Tampines Hub, Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.900009+07:00",
+      "fetched": "2025-10-18T08:11:08.900123+07:00"
+    },
+    {
+      "id": "6f9c5f675bbfffc73a8824f2b1917950",
+      "title": "Trang phục dân tộc của Yến Nhi vào top 20 tại Miss Grand International 2025",
+      "link": "https://tuoitre.vn/trang-phuc-dan-toc-cua-yen-nhi-vao-top-20-tai-miss-grand-international-2025-202510180227434.htm",
+      "summary": "Bộ trang phục dân tộc 'Thăng Long hội' do hoa hậu Yến Nhi trình diễn tại Miss Grand International 2025 được bình chọn vào top 20 trang phục dân tộc đẹp nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899862+07:00",
+      "fetched": "2025-10-18T08:11:08.899997+07:00"
+    },
+    {
+      "id": "5e3c92f48885e28d9cefb94880b41b65",
+      "title": "Thời tiết hôm nay 18-10: Hà Tĩnh tới Nam Bộ có mưa to, Bắc Bộ nắng trước đợt rét",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-18-10-ha-tinh-toi-nam-bo-co-mua-to-bac-bo-nang-truoc-dot-ret-20251017165653566.htm",
+      "summary": "Hôm nay 18-10, thời tiết từ Hà Tĩnh vào Nam Bộ có mưa to. Bắc Bộ ngày nắng, trời khô ráo trước khi đón đợt không khí lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899735+07:00",
+      "fetched": "2025-10-18T08:11:08.899851+07:00"
+    },
+    {
+      "id": "b05f75f108eadc57439c8a610e9a7dfe",
+      "title": "Đặt tên công ty ZUBU, Chị Em Rọt, Một mình tao... tào lao nhưng sao vẫn được cấp phép?",
+      "link": "https://tuoitre.vn/dat-ten-cong-ty-zubu-chi-em-rot-mot-minh-tao-tao-lao-nhung-sao-van-duoc-cap-phep-20251017212649246.htm",
+      "summary": "Một loạt tên doanh nghiệp 'lạ tai' như Cười lên cái coi, Tự nhiên thấy đói..., hay mới đây nhất là ZUBU của Ngân 98 gây xôn xao dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899615+07:00",
+      "fetched": "2025-10-18T08:11:08.899725+07:00"
+    },
+    {
+      "id": "6fb24e4437b77b192696ab4f898d62b0",
+      "title": "Nuôi con sau ly hôn nhưng hộ khẩu thường trú của bé ở nhà vợ, phải làm sao?",
+      "link": "https://tuoitre.vn/nuoi-con-sau-ly-hon-nhung-ho-khau-thuong-tru-cua-be-o-nha-vo-phai-lam-sao-20251016141611427.htm",
+      "summary": "Trước đây, con tôi nhập hộ khẩu vào gia đình tôi. Nay li hôn, tôi được tòa phán quyết quyền nuôi con nhưng phát hiện gia đình ngoại đã nhập khẩu cho bé về bên đó mà không thông qua tôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899493+07:00",
+      "fetched": "2025-10-18T08:11:08.899604+07:00"
+    },
+    {
+      "id": "f0a6f0fd9818b603cba877bdd19cda1a",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Man City thắng dễ, Arsenal cùng Chelsea gặp khó",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-man-city-thang-de-arsenal-cung-chelsea-gap-kho-20251017144607945.htm",
+      "summary": "Các ông lớn như Man City, Arsenal và Chelsea đều chỉ gặp các đối thủ dưới cơ ở vòng 8 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899369+07:00",
+      "fetched": "2025-10-18T08:11:08.899482+07:00"
+    },
+    {
+      "id": "5b7e45a02a0785e710ca9979193597e8",
+      "title": "Vàng tăng chóng mặt, nhiều cặp đôi 'đứng hình' trước ngày cưới",
+      "link": "https://tuoitre.vn/vang-tang-chong-mat-nhieu-cap-doi-dung-hinh-truoc-ngay-cuoi-20251017213253228.htm",
+      "summary": "Giá vàng leo thang đúng mùa cưới khiến nhiều cặp đôi trẻ phải tính toán lại chi phí, thậm chí hoãn ngày cưới để chờ 'vàng hạ nhiệt'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899239+07:00",
+      "fetched": "2025-10-18T08:11:08.899352+07:00"
+    },
+    {
+      "id": "1c199f9c5d55efbf499fa05f00a946be",
+      "title": "Lịch trực tiếp vòng 7 V-League: CLB Hà Nội đấu Ninh Bình",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-7-v-league-clb-ha-noi-dau-ninh-binh-20251016183623395.htm",
+      "summary": "Tâm điểm của vòng 7 V-League 2025-2026 sẽ là trận đấu giữa CLB Hà Nội với Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.899112+07:00",
+      "fetched": "2025-10-18T08:11:08.899228+07:00"
+    },
+    {
+      "id": "74cab66744a08950c6061c2003c6ecb0",
+      "title": "Tin tức sáng 18-10: Đề xuất quy định mới tuyển dụng giáo viên; Nơi nào có giá nhà chung cư cao nhất?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-18-10-de-xuat-quy-dinh-moi-tuyen-dung-giao-vien-noi-nao-co-gia-nha-chung-cu-cao-nhat-20251017231432593.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất quy định mới về thẩm quyền tuyển dụng giáo viên; Lộ diện nơi dẫn đầu cả nước về tốc độ tăng giá bán chung cư...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.898978+07:00",
+      "fetched": "2025-10-18T08:11:08.899100+07:00"
+    },
+    {
+      "id": "e7703b2037a336e30f3de48048722759",
+      "title": "Tin tức thế giới 18-10: Ông Trump nêu cách để Nga và Ukraine dừng chiến tranh, nhắn nhủ Venezuela",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-18-10-ong-trump-neu-cach-de-nga-va-ukraine-dung-chien-tranh-nhan-nhu-venezuela-20251018055114799.htm",
+      "summary": "Ông Trump yêu cầu Nga - Ukraine chấm dứt ở ranh giới hiện tại, thừa nhận ông Putin đang \"câu giờ\"; Mỹ - Trung tìm cách hạ nhiệt căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.898820+07:00",
+      "fetched": "2025-10-18T08:11:08.898965+07:00"
+    },
+    {
+      "id": "c2f4da73844a17276b13552f93b7e9ee",
+      "title": "Sếp Barca ngăn HLV Flick phạt Yamal?",
+      "link": "https://tuoitre.vn/sep-barca-ngan-hlv-flick-phat-yamal-20251018060127702.htm",
+      "summary": "HLV Hansi Flick đính chính tin đồn ông bị sếp ở Barca ngăn cản thi hành án kỷ luật với sao trẻ Lammie Yamal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T08:11:08.898648+07:00",
+      "fetched": "2025-10-18T08:11:08.898806+07:00"
+    },
     {
       "id": "8559adc78ef73f8c2bb2a32ab604a096",
       "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Mỗi đứa trẻ đều xứng đáng được yêu thương",
@@ -153,6 +263,416 @@ window.newsData_2025_10_18 = {
       "fetched": "2025-10-18T01:21:26.717290+07:00"
     },
     {
+      "id": "b30723f229f846b36988d3fafb36da86",
+      "title": "'Độc chiêu' thảo chữ trên sân khấu âm nhạc",
+      "link": "https://thanhnien.vn/doc-chieu-thao-chu-tren-san-khau-am-nhac-185251017221841539.htm",
+      "summary": "26 tuổi, là nghệ sĩ thư pháp, Võ Tuấn Xuân Thành chọn lối thảo chữ hiếm người theo. Cách lan tỏa nghệ thuật thư pháp của anh cũng đầy táo bạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:08:00+07:00",
+      "fetched": "2025-10-18T08:11:08.002532+07:00"
+    },
+    {
+      "id": "ef336ad3e394c30597815e8674ef4dff",
+      "title": "Ông Trump: Nga – Ukraine nên cùng tuyên bố chiến thắng và lịch sử sẽ phán xét",
+      "link": "https://thanhnien.vn/ong-trump-nga-ukraine-nen-cung-tuyen-bo-chien-thang-va-lich-su-se-phan-xet-185251018065846875.htm",
+      "summary": "Sau cuộc gặp với Tổng thống Ukraine Volodymyr Zelensky tại Nhà Trắng hôm 17.10, ông Donald Trump cho rằng cả Nga lẫn Ukraine nên tuyên bố chiến thắng và 'để lịch sử phán xét!'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:04:00+07:00",
+      "fetched": "2025-10-18T08:11:08.002700+07:00"
+    },
+    {
+      "id": "4eb5854fa42e0c16ccfe223ddde8f662",
+      "title": "VNPT TP.HCM và sở GD&ĐT bắt tay thúc đẩy chuyển đổi số giáo dục",
+      "link": "https://thanhnien.vn/vnpt-tphcm-va-so-gddt-bat-tay-thuc-day-chuyen-doi-so-giao-duc-185251017210538521.htm",
+      "summary": "Ngày 17.10.2025, VNPT TP.HCM và Sở GD&ĐT TP.HCM đã ký kết thỏa thuận hợp tác về chuyển đổi số trong giáo dục và đào tạo giai đoạn 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:00:00+07:00",
+      "fetched": "2025-10-18T08:11:08.002862+07:00"
+    },
+    {
+      "id": "f857cceaa51100fc8ebcf0482bf0fb80",
+      "title": "Tuổi trẻ Cao su Việt Nam góp phần xây dựng VRG phát triển bền vững trong giai đoạn mới",
+      "link": "https://thanhnien.vn/tuoi-tre-cao-su-viet-nam-gop-phan-xay-dung-vrg-phat-trien-ben-vung-trong-giai-doan-moi-185251017192435499.htm",
+      "summary": "Với khát vọng và nhiệt huyết, tuổi trẻ Tập đoàn Công nghiệp Cao su Việt Nam (VRG) đã và đang khẳng định mạnh mẽ vai trò xung kích, đổi mới, sáng tạo, góp phần vào sự phát triển bền vững của Tập đoàn trong giai đoạn mới, giai đoạn của chuyển đổi xanh, chuyển đổi số và hội nhập quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:00:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003039+07:00"
+    },
+    {
+      "id": "832d980b13f4893d0b7ab88c52709b47",
+      "title": "Trải nghiệm tiện nghi, đẳng cấp cùng THACO Cruizer 91S",
+      "link": "https://thanhnien.vn/trai-nghiem-tien-nghi-dang-cap-cung-thaco-cruizer-91s-185251017145638045.htm",
+      "summary": "Vừa qua, THACO AUTO chính thức giới thiệu dòng xe bus ghế ngồi cao cấp THACO Cruizer 91S thế hệ mới, với thiết kế hiện đại, trang bị nhiều tiện nghi cùng công nghệ vận hành tiên tiến, mang đến cho hành khách trải nghiệm an toàn, tiện nghi và đẳng cấp trên mọi hành trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:00:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003203+07:00"
+    },
+    {
+      "id": "59d7fe7c51f101f11ae4f98bb2168baf",
+      "title": "Đầm tay cánh tiên mềm mại giúp nàng thêm duyên dáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-tay-canh-tien-mem-mai-giup-nang-them-duyen-dang-185251016220932785.htm",
+      "summary": "Đầm tay cánh tiên mang đến vẻ đẹp tinh tế, chất liệu bay bổng ôm vừa vặn giúp tôn dáng, tạo cảm giác thanh thoát cho người mặc trong mọi khoảnh khắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T01:00:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003359+07:00"
+    },
+    {
+      "id": "35c3d045b9657da8b429a34593347870",
+      "title": "Hoàng tử Andrew từ bỏ tước hiệu hoàng gia Anh",
+      "link": "https://vnexpress.net/hoang-tu-andrew-tu-bo-tuoc-hieu-hoang-gia-anh-4952815.html",
+      "summary": "Hoàng tử Andrew tuyên bố từ bỏ các tước hiệu của hoàng gia Anh, khi ông ngày càng bị cuốn vào bê bối liên quan tỷ phú ấu dâm Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T00:48:41+07:00",
+      "fetched": "2025-10-18T08:11:10.626542+07:00"
+    },
+    {
+      "id": "c1fc35d99e26bb782e4e9700011a5d2f",
+      "title": "Lộ diện toàn bộ cấu hình Galaxy S26 Pro",
+      "link": "https://thanhnien.vn/lo-dien-toan-bo-cau-hinh-galaxy-s26-pro-185251017212807735.htm",
+      "summary": "Samsung đang toan tính điều gì với những nâng cấp 'chưa tới' trên Galaxy S26 Pro?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:48:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003506+07:00"
+    },
+    {
+      "id": "6d0d9cc40201073a6c7b31bfc39282ba",
+      "title": "Samsung bất ngờ tạm dừng triển khai One UI 8",
+      "link": "https://thanhnien.vn/samsung-bat-ngo-tam-dung-trien-khai-one-ui-8-185251018074051322.htm",
+      "summary": "Samsung vừa thông báo tạm dừng triển khai bản cập nhật One UI 8 cho một số dòng điện thoại Galaxy mà chưa đưa ra lý do cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:45:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003653+07:00"
+    },
+    {
+      "id": "774d156262b4b9743e4615772cc8fe47",
+      "title": "Doanh nghiệp Trung Quốc 'từ bỏ' thị trường Mỹ",
+      "link": "https://vnexpress.net/doanh-nghiep-trung-quoc-tu-bo-thi-truong-my-4952689.html",
+      "summary": "Một số doanh nghiệp Trung Quốc miễn cưỡng từ bỏ thị trường Mỹ và tìm cơ hội nơi khác do thuế quan cao, thiếu đơn hàng, thương chiến nóng lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:40:16+07:00",
+      "fetched": "2025-10-18T08:11:02.474849+07:00"
+    },
+    {
+      "id": "774d156262b4b9743e4615772cc8fe47",
+      "title": "Doanh nghiệp Trung Quốc 'từ bỏ' thị trường Mỹ",
+      "link": "https://vnexpress.net/doanh-nghiep-trung-quoc-tu-bo-thi-truong-my-4952689.html",
+      "summary": "Một số doanh nghiệp Trung Quốc miễn cưỡng từ bỏ thị trường Mỹ và tìm cơ hội nơi khác do thuế quan cao, thiếu đơn hàng, thương chiến nóng lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-18T00:40:16+07:00",
+      "fetched": "2025-10-18T08:11:12.378467+07:00"
+    },
+    {
+      "id": "1943e71d1844298052002467346ff38b",
+      "title": "Giá vàng thế giới quay đầu giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-4952822.html",
+      "summary": "Sau khi lập đỉnh gần 4.380 USD một ounce, giá vàng thế giới đảo chiều giảm mạnh, có thời điểm mất hơn 150 USD trong phiên cuối tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:33:20+07:00",
+      "fetched": "2025-10-18T08:11:02.475087+07:00"
+    },
+    {
+      "id": "1943e71d1844298052002467346ff38b",
+      "title": "Giá vàng thế giới quay đầu giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-4952822.html",
+      "summary": "Sau khi lập đỉnh gần 4.380 USD một ounce, giá vàng thế giới đảo chiều giảm mạnh, có thời điểm mất hơn 150 USD trong phiên cuối tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-18T00:33:20+07:00",
+      "fetched": "2025-10-18T08:11:12.378637+07:00"
+    },
+    {
+      "id": "aef04e48419da168f50ab731ffd0d1da",
+      "title": "Hàn Quốc điều máy bay đến Campuchia đưa 64 công dân về nước",
+      "link": "https://vnexpress.net/han-quoc-dieu-may-bay-den-campuchia-dua-64-cong-dan-ve-nuoc-4952812.html",
+      "summary": "Hàn Quốc điều máy bay đón 64 công dân bị bắt tại Campuchia vì hoạt động lừa đảo trực tuyến, hầu hết trong số này đang bị truy nã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:25:35+07:00",
+      "fetched": "2025-10-18T08:11:02.475258+07:00"
+    },
+    {
+      "id": "aef04e48419da168f50ab731ffd0d1da",
+      "title": "Hàn Quốc điều máy bay đến Campuchia đưa 64 công dân về nước",
+      "link": "https://vnexpress.net/han-quoc-dieu-may-bay-den-campuchia-dua-64-cong-dan-ve-nuoc-4952812.html",
+      "summary": "Hàn Quốc điều máy bay đón 64 công dân bị bắt tại Campuchia vì hoạt động lừa đảo trực tuyến, hầu hết trong số này đang bị truy nã.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T00:25:35+07:00",
+      "fetched": "2025-10-18T08:11:10.626712+07:00"
+    },
+    {
+      "id": "76761319e2398420f7c2c48ea594e197",
+      "title": "CLB VTV Bình Điền Long An được thưởng tiền tỉ vì vô địch bóng chuyền quốc gia 2025",
+      "link": "https://thanhnien.vn/clb-vtv-binh-dien-long-an-duoc-thuong-lon-khi-vo-dich-bong-chuyen-quoc-gia-2025-185251018070855144.htm",
+      "summary": "Xuất sắc đánh bại chủ nhà LPBank Ninh Bình để bảo vệ thành công danh hiệu vô địch bóng chuyền quốc gia, CLB VTV Bình Điền Long An tới tấp nhận thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:17:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003798+07:00"
+    },
+    {
+      "id": "d2a11c00e2eca33e38a4676c57d6ec4c",
+      "title": "Ngoại hạng Anh: Khó cản bước 'Pháo thủ'",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-kho-can-buoc-phao-thu-185251017190421056.htm",
+      "summary": "Đứng trước nguy cơ về nhì trong 4 mùa bóng liên tiếp (đấy sẽ là kỷ lục trong làng bóng Anh), Arsenal xem ra đã mạnh hẳn lên trong mùa bóng này. Họ sẽ bước vào vòng 8 với tư cách đội đầu bảng ở giải Ngoại hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:17:00+07:00",
+      "fetched": "2025-10-18T08:11:08.003966+07:00"
+    },
+    {
+      "id": "ce8cde47402bf8d6bd80bb69aec48be9",
+      "title": "TP HCM hợp tác sàn Nasdaq phát triển trung tâm tài chính",
+      "link": "https://vnexpress.net/tp-hcm-hop-tac-san-nasdaq-phat-trien-trung-tam-tai-chinh-4952793.html",
+      "summary": "Sở Tài chính TP HCM ký ghi nhớ hợp tác với sàn chứng khoán Nasdaq (Mỹ) về phát triển trung tâm tài chính quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:02:02+07:00",
+      "fetched": "2025-10-18T08:11:02.475416+07:00"
+    },
+    {
+      "id": "ce8cde47402bf8d6bd80bb69aec48be9",
+      "title": "TP HCM hợp tác sàn Nasdaq phát triển trung tâm tài chính",
+      "link": "https://vnexpress.net/tp-hcm-hop-tac-san-nasdaq-phat-trien-trung-tam-tai-chinh-4952793.html",
+      "summary": "Sở Tài chính TP HCM ký ghi nhớ hợp tác với sàn chứng khoán Nasdaq (Mỹ) về phát triển trung tâm tài chính quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-18T00:02:02+07:00",
+      "fetched": "2025-10-18T08:11:12.378795+07:00"
+    },
+    {
+      "id": "2275dfff73b9a13a68cf88f0a0019c00",
+      "title": "Pakistan tập kích biên giới Afghanistan, 10 người thiệt mạng",
+      "link": "https://vnexpress.net/pakistan-tap-kich-bien-gioi-afghanistan-10-nguoi-thiet-mang-4952813.html",
+      "summary": "Pakistan tiến hành \"các cuộc không kích chính xác\" nhằm vào biên giới Afghanistan làm 10 người thiệt mạng, khiến căng thẳng hai nước tiếp tục leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:01:38+07:00",
+      "fetched": "2025-10-18T08:11:02.475571+07:00"
+    },
+    {
+      "id": "2275dfff73b9a13a68cf88f0a0019c00",
+      "title": "Pakistan tập kích biên giới Afghanistan, 10 người thiệt mạng",
+      "link": "https://vnexpress.net/pakistan-tap-kich-bien-gioi-afghanistan-10-nguoi-thiet-mang-4952813.html",
+      "summary": "Pakistan tiến hành \"các cuộc không kích chính xác\" nhằm vào biên giới Afghanistan làm 10 người thiệt mạng, khiến căng thẳng hai nước tiếp tục leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T00:01:38+07:00",
+      "fetched": "2025-10-18T08:11:10.626874+07:00"
+    },
+    {
+      "id": "effc7141fade64d8c34891b094f37648",
+      "title": "Hàng loạt 'hố bom' ở hầm, đường vào cảng Cát Lái",
+      "link": "https://vnexpress.net/hang-loat-ho-bom-o-ham-duong-vao-cang-cat-lai-4952709.html",
+      "summary": "Hầm chui Mỹ Thuỷ và đường Đồng Văn Cống - tuyến chính vào cảng lớn nhất nước nhiều đoạn bong tróc, ổ gà gây khó khăn cho xe qua lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:00:34+07:00",
+      "fetched": "2025-10-18T08:11:02.475728+07:00"
+    },
+    {
+      "id": "9c016acc48c2b50cef9a4f93d5c6e1f6",
+      "title": "Bộ Chính trị ban hành quy định mới về công tác cán bộ",
+      "link": "https://vnexpress.net/bo-chinh-tri-ban-hanh-quy-dinh-moi-ve-cong-tac-can-bo-4952640.html",
+      "summary": "Quy định 377 làm rõ thẩm quyền của Bộ Chính trị trong giới thiệu nhân sự cấp cao, đồng thời điều chỉnh hàng loạt nội dung về quy hoạch, bổ nhiệm, miễn nhiệm, từ chức và kỷ luật cán bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:00:00+07:00",
+      "fetched": "2025-10-18T08:11:02.475889+07:00"
+    },
+    {
+      "id": "db9e45a9032470727b9a1d413bff5206",
+      "title": "Cư dân Sài Gòn Gateway thua kiện vụ 'mất lối đi chung'",
+      "link": "https://vnexpress.net/cu-dan-sai-gon-gateway-thua-kien-vu-mat-loi-di-chung-4952612.html",
+      "summary": "Tòa cho rằng giấy chứng nhận được cấp cho chủ đầu tư đối với khu đất thương mại dịch vụ thuộc dự án Sài Gòn Gateway là đúng pháp luật, nên bác yêu cầu của cư dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:00:00+07:00",
+      "fetched": "2025-10-18T08:11:02.476065+07:00"
+    },
+    {
+      "id": "27e973b060682e22fb0dd6d58ba3aa55",
+      "title": "Toyota tách Century thành thương hiệu riêng",
+      "link": "https://vnexpress.net/toyota-tach-century-thanh-thuong-hieu-rieng-4951953.html",
+      "summary": "Từ một dòng xe, Century đã trở thành thương hiệu chủ lực mới của Toyota và hướng đến thị trường cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:00:00+07:00",
+      "fetched": "2025-10-18T08:11:02.476231+07:00"
+    },
+    {
+      "id": "d854ca47a6d271e46e16e9da65df12e6",
+      "title": "'Bác sĩ' trong lòng dân",
+      "link": "https://thanhnien.vn/bac-si-trong-long-dan-185251017154517204.htm",
+      "summary": "Người dân ở các làng vùng sâu, vùng xa của tỉnh Gia Lai thỉnh thoảng lại thấy một người đàn ông trung niên, vóc người rắn chắc, nước da nâu sậm, mái tóc để dài kiểu lãng tử và nụ cười rạng rỡ, xuất hiện trên chiếc xe máy cũ, chở theo đồ đạc lỉnh kỉnh. Đó là anh Lê Quốc Trung, sinh năm 1975, ngụ P.Di...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T00:00:00+07:00",
+      "fetched": "2025-10-18T08:11:08.004119+07:00"
+    },
+    {
+      "id": "f367dca833196413a8a0f4c68ae4aa65",
+      "title": "Nhà 200 m2 lấy cảm hứng từ tàu vũ trụ",
+      "link": "https://vnexpress.net/nha-200-m2-lay-cam-hung-tu-tau-vu-tru-4952722.html",
+      "summary": "Lấy cảm hứng từ mô-đun sinh hoạt trong tàu vũ trụ, công trình tập trung các khu chức năng vào lõi trung tâm để tối ưu diện tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:57:01+07:00",
+      "fetched": "2025-10-18T08:11:02.476381+07:00"
+    },
+    {
+      "id": "f99d05c6b7ffd9cd1c0e5cd26385baf0",
+      "title": "Lãnh đạo TP.HCM thăm hỏi, tri ân văn nghệ sĩ tiêu biểu",
+      "link": "https://thanhnien.vn/lanh-dao-tphcm-tham-hoi-tri-an-van-nghe-si-tieu-bieu-185251017215106383.htm",
+      "summary": "Hôm qua 17.10, đoàn lãnh đạo TP.HCM có chuyến thăm và gặp gỡ các văn nghệ sĩ tiêu biểu, có nhiều cống hiến cho nghệ thuật. Dẫn đầu đoàn là ông Nguyễn Phước Lộc - Phó bí thư Thành ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:46:00+07:00",
+      "fetched": "2025-10-18T08:11:08.004272+07:00"
+    },
+    {
+      "id": "9ae87c6c8c914bd2ae82a418313a05eb",
+      "title": "Hôm nay áp thấp nhiệt đới gần Biển Đông sẽ mạnh lên thành bão",
+      "link": "https://vnexpress.net/hom-nay-ap-thap-nhiet-doi-gan-bien-dong-se-manh-len-thanh-bao-4952806.html",
+      "summary": "Trước khi vượt qua miền Trung Philippines vào Biển Đông, áp thấp nhiệt đới dự báo mạnh lên thành bão, sức gió mạnh nhất 74 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:44:01+07:00",
+      "fetched": "2025-10-18T08:11:02.476540+07:00"
+    },
+    {
+      "id": "11356e756f7c0cd38b83dfdf16977808",
+      "title": "Phá án thần tốc: Bắt bà trùm cung cấp súng cho 'xã hội đen'",
+      "link": "https://thanhnien.vn/pha-an-than-toc-bat-ba-trum-cung-cap-sung-cho-xa-hoi-den-185251010194328249.htm",
+      "summary": "Chuyên án 0822R, một cuộc chiến không khoan nhượng với tội phạm vũ khí, mà đến giờ, khi nhắc lại, các trinh sát trực tiếp tham gia phá án vẫn còn rùng mình trước sự liều lĩnh và tinh vi của băng nhóm tội phạm này trên địa bàn đặc khu Phú Quốc, tỉnh An Giang (thành phố Phú Quốc, tỉnh Kiên Giang cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:42:00+07:00",
+      "fetched": "2025-10-18T08:11:08.004420+07:00"
+    },
+    {
+      "id": "8722ffbafe8deb453042ea8e817dc1ea",
+      "title": "Vấn đề sống còn của ngành phát thanh, truyền hình",
+      "link": "https://thanhnien.vn/van-de-song-con-cua-nganh-phat-thanh-truyen-hinh-18525101722032789.htm",
+      "summary": "Ngày 17.10 tại TP.HCM, Bộ VH-TT-DL tổ chức Hội thảo giao ban quản lý hoạt động dịch vụ phát thanh, truyền hình giữa Bộ VH-TT-DL với các doanh nghiệp cung cấp dịch vụ phát thanh, truyền hình năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:40:00+07:00",
+      "fetched": "2025-10-18T08:11:08.004564+07:00"
+    },
+    {
+      "id": "20ce348cd36ad7e69f4b4ad90c4fa9a1",
+      "title": "Lịch thi đấu giải bóng chuyền Nhật Bản hôm nay: Chờ Thanh Thúy tỏa sáng",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-bong-chuyen-nhat-ban-hom-nay-cho-thanh-thuy-toa-sang-185251018062954118.htm",
+      "summary": "Hôm nay (18.10), Trần Thị Thanh Thúy cùng CLB Gunma Green Wings thi đấu lượt trận thứ 3 ở giải bóng chuyền Nhật Bản (SV.League) 2025, chạm trán CLB NEC Red Rockets.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:39:00+07:00",
+      "fetched": "2025-10-18T08:11:08.004707+07:00"
+    },
+    {
+      "id": "9c802979dbc39242027094149fe8da13",
+      "title": "Guardiola: 'Tôi chỉ nghỉ ngơi sau năm 2035'",
+      "link": "https://vnexpress.net/guardiola-toi-chi-nghi-ngoi-sau-nam-2035-4952802.html",
+      "summary": "HLV Pep Guardiola khẳng định vẫn còn năng lượng để chiến đấu, và nửa đùa nửa thật rằng sẽ chỉ nghĩ đến chuyện dừng huấn luyện vào năm 2035.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:38:37+07:00",
+      "fetched": "2025-10-18T08:11:02.476689+07:00"
+    },
+    {
+      "id": "9c802979dbc39242027094149fe8da13",
+      "title": "Guardiola: 'Tôi chỉ nghỉ ngơi sau năm 2035'",
+      "link": "https://vnexpress.net/guardiola-toi-chi-nghi-ngoi-sau-nam-2035-4952802.html",
+      "summary": "HLV Pep Guardiola khẳng định vẫn còn năng lượng để chiến đấu, và nửa đùa nửa thật rằng sẽ chỉ nghĩ đến chuyện dừng huấn luyện vào năm 2035.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-17T23:38:37+07:00",
+      "fetched": "2025-10-18T08:11:16.760040+07:00"
+    },
+    {
+      "id": "6745059725b1b8bc0893811b6aaeb207",
+      "title": "Ông Trump thúc giục Ukraine đạt thỏa thuận hòa bình với Nga",
+      "link": "https://vnexpress.net/ong-trump-thuc-giuc-ukraine-dat-thoa-thuan-hoa-binh-voi-nga-4952811.html",
+      "summary": "Tổng thống Trump kêu gọi người đồng cấp Zelensky đạt thỏa thuận với Nga, nhưng cũng không bác bỏ hoàn toàn khả năng cung cấp tên lửa Tomahawk cho Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:32:22+07:00",
+      "fetched": "2025-10-18T08:11:02.476837+07:00"
+    },
+    {
+      "id": "6745059725b1b8bc0893811b6aaeb207",
+      "title": "Ông Trump thúc giục Ukraine đạt thỏa thuận hòa bình với Nga",
+      "link": "https://vnexpress.net/ong-trump-thuc-giuc-ukraine-dat-thoa-thuan-hoa-binh-voi-nga-4952811.html",
+      "summary": "Tổng thống Trump kêu gọi người đồng cấp Zelensky đạt thỏa thuận với Nga, nhưng cũng không bác bỏ hoàn toàn khả năng cung cấp tên lửa Tomahawk cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T23:32:22+07:00",
+      "fetched": "2025-10-18T08:11:10.627058+07:00"
+    },
+    {
+      "id": "69b4523e725c814022839bc279380815",
+      "title": "8 điều đáng chờ đợi khi Ngoại hạng Anh trở lại",
+      "link": "https://vnexpress.net/8-dieu-dang-cho-doi-khi-ngoai-hang-anh-tro-lai-4952794.html",
+      "summary": "Cuộc chiến sinh tồn của Ruben Amorim, cơ hội bứt phá của Arsenal hay khởi đầu chông chênh của Ange Postecoglou là những điều đáng chờ đợi tại vòng 8 Ngoại hạng Anh cuối tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:24:07+07:00",
+      "fetched": "2025-10-18T08:11:02.477012+07:00"
+    },
+    {
+      "id": "69b4523e725c814022839bc279380815",
+      "title": "8 điều đáng chờ đợi khi Ngoại hạng Anh trở lại",
+      "link": "https://vnexpress.net/8-dieu-dang-cho-doi-khi-ngoai-hang-anh-tro-lai-4952794.html",
+      "summary": "Cuộc chiến sinh tồn của Ruben Amorim, cơ hội bứt phá của Arsenal hay khởi đầu chông chênh của Ange Postecoglou là những điều đáng chờ đợi tại vòng 8 Ngoại hạng Anh cuối tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-17T23:24:07+07:00",
+      "fetched": "2025-10-18T08:11:16.759693+07:00"
+    },
+    {
+      "id": "1731bdd11fb50015f1a9c88ed86c067e",
+      "title": "Khoảnh khắc tên lửa Iskander tập kích 'điểm chuẩn bị UAV tầm xa Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-diem-chuan-bi-uav-tam-xa-ukraine-4952785.html",
+      "summary": "Nga công bố video tên lửa đạn đạo Iskander-M tập kích \"điểm lắp ráp, chuẩn bị UAV tự sát tầm xa\" của Ukraine ở tỉnh Kharkov.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:20:41+07:00",
+      "fetched": "2025-10-18T08:11:02.477171+07:00"
+    },
+    {
+      "id": "1731bdd11fb50015f1a9c88ed86c067e",
+      "title": "Khoảnh khắc tên lửa Iskander tập kích 'điểm chuẩn bị UAV tầm xa Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iskander-tap-kich-diem-chuan-bi-uav-tam-xa-ukraine-4952785.html",
+      "summary": "Nga công bố video tên lửa đạn đạo Iskander-M tập kích \"điểm lắp ráp, chuẩn bị UAV tự sát tầm xa\" của Ukraine ở tỉnh Kharkov.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T23:20:41+07:00",
+      "fetched": "2025-10-18T08:11:10.627218+07:00"
+    },
+    {
+      "id": "b2fb9d1556c10caa81ec2607b628cea6",
+      "title": "Nhật Bản xem xét tách khỏi LĐBĐ châu Á",
+      "link": "https://vnexpress.net/nhat-ban-xem-xet-tach-khoi-ldbd-chau-a-4952800.html",
+      "summary": "LĐBĐ Nhật Bản (JFA) được cho đang tính tới khả năng rời LĐBĐ châu Á (AFC), do bất mãn với cách điều hành và các quyết định thiếu công bằng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-17T23:06:55+07:00",
+      "fetched": "2025-10-18T08:11:16.759861+07:00"
+    },
+    {
       "id": "6e4bf2ac97850114b88f39581fc0192f",
       "title": "Hamas - Israel mâu thuẫn về bàn giao thi thể con tin",
       "link": "https://thanhnien.vn/hamas-israel-mau-thuan-ve-ban-giao-thi-the-con-tin-185251017205334199.htm",
@@ -171,6 +691,16 @@ window.newsData_2025_10_18 = {
       "category": "Tổng hợp",
       "published": "2025-10-17T22:00:00+07:00",
       "fetched": "2025-10-18T05:14:41.891685+07:00"
+    },
+    {
+      "id": "30cd92e793cb95f27e9b59709077a46a",
+      "title": "Một số tính năng ẩn trên macOS 26 Tahoe",
+      "link": "https://vnexpress.net/mot-so-tinh-nang-an-tren-macos-26-tahoe-4952411.html",
+      "summary": "Hệ điều hành macOS 26 Tahoe mới ra của Apple cho phép tùy biến thanh menu, biểu tượng thư mục, đổi font chữ màn hình khóa, chạy tự động hóa với phím tắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-17T22:00:00+07:00",
+      "fetched": "2025-10-18T08:11:14.999536+07:00"
     },
     {
       "id": "3571197e98219511b5398ec42b1ccdc2",
