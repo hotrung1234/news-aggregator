@@ -1,7 +1,157 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T19:30:29.322267+07:00",
+  "lastUpdated": "2025-10-19T21:13:39.916052+07:00",
   "articles": [
+    {
+      "id": "02d650cb5f2d3b5432e43681f04a0bae",
+      "title": "Em bé sinh ở Gaza được đặt tên Singapore",
+      "link": "https://tuoitre.vn/em-be-sinh-o-gaza-duoc-dat-ten-singapore-20251019180645478.htm",
+      "summary": "Bé gái sơ sinh chào đời ngày 19-10 tại Gaza được đặt tên là “Singapore” để tri ân bếp ăn từ thiện nơi cha em làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899804+07:00",
+      "fetched": "2025-10-19T21:13:30.899920+07:00"
+    },
+    {
+      "id": "a4dd40de5b83aace9b5774bbcbe9a829",
+      "title": "Hãng chip Hà Lan bị cuốn vào căng thẳng Mỹ - Trung",
+      "link": "https://tuoitre.vn/hang-chip-ha-lan-bi-cuon-vao-cang-thang-my-trung-20251019181234749.htm",
+      "summary": "Nexperia cho biết nhân viên ở Trung Quốc vẫn truy cập hệ thống và nhận lương sau khi chi nhánh khẳng định quyền hoạt động độc lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899677+07:00",
+      "fetched": "2025-10-19T21:13:30.899793+07:00"
+    },
+    {
+      "id": "de7dc25942ae378f95d48c1ec4c0cc9c",
+      "title": "Bế mạc Vietnam Phở Festival ở Singapore: Từ tình cảm đến giao thương đều lời lớn",
+      "link": "https://tuoitre.vn/be-mac-vietnam-pho-festival-o-singapore-tu-tinh-cam-den-giao-thuong-deu-loi-lon-20251019180739532.htm",
+      "summary": "Chiều 19-10 tại Our Tampines Hub, Vietnam Phở Festival 2025 ở Singapore bế mạc, để lại nhiều tình cảm và ký ức trong lòng người dân Singapore, cũng như các thành quả thiết thực cho thương mại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899533+07:00",
+      "fetched": "2025-10-19T21:13:30.899665+07:00"
+    },
+    {
+      "id": "3141909aeed676eaaea8c68a208a3a42",
+      "title": "Hiện trạng khu đất Bến Nhà Rồng và Nhà khách Chính phủ sẽ làm công viên",
+      "link": "https://tuoitre.vn/hien-trang-khu-dat-ben-nha-rong-va-nha-khach-chinh-phu-se-lam-cong-vien-20251019164251947.htm",
+      "summary": "Chủ trương của Thường trực Thành ủy TP.HCM sẽ ưu tiên sử dụng khu đất Bến Nhà Rồng và khu đất Nhà khách Chính phủ phục vụ cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899407+07:00",
+      "fetched": "2025-10-19T21:13:30.899521+07:00"
+    },
+    {
+      "id": "d41549fbb4ee5ef0e262b2c4de2efe75",
+      "title": "Xác minh thông tin bé gái lớp 5 nghi bị bạo hành",
+      "link": "https://tuoitre.vn/xac-minh-thong-tin-be-gai-lop-5-nghi-bi-bao-hanh-20251019185233518.htm",
+      "summary": "Cơ quan công an đang xác minh thông tin một bé gái lớp 5 ở Hà Tĩnh bị nhiều vết bầm trên người nghi bị cha dượng bạo hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899283+07:00",
+      "fetched": "2025-10-19T21:13:30.899396+07:00"
+    },
+    {
+      "id": "af2f28c66a9d16dc59d605e5eb2d5194",
+      "title": "Bảo tàng Louvre bị cướp giữa ban ngày, mất bảo vật vô giá",
+      "link": "https://tuoitre.vn/bao-tang-louvre-bi-cuop-giua-ban-ngay-mat-bao-vat-vo-gia-2025101919062373.htm",
+      "summary": "Giới chức Pháp cho biết một băng cướp đã thực hiện phi vụ táo tợn tại Bảo tàng Louvre, đánh cắp nhiều trang sức thuộc Hoàng đế Napoleon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899160+07:00",
+      "fetched": "2025-10-19T21:13:30.899272+07:00"
+    },
+    {
+      "id": "f9ec7b7d473e4875cf9e0b30f26a87f9",
+      "title": "Chàng trai xuất khẩu món ăn dân dã đoạt giải nhất cuộc thi  Dự án khởi nghiệp thanh niên nông thôn",
+      "link": "https://tuoitre.vn/chang-trai-xuat-khau-mon-an-dan-da-doat-giai-nhat-cuoc-thi-du-an-khoi-nghiep-thanh-nien-nong-thon-2025101917374475.htm",
+      "summary": "Thí sinh Nguyễn Đức Nhật Thuận (TP.HCM) xuất khẩu món ăn dân dã như bánh canh, bún bò, miến lươn... giành giải nhất cuộc thi Dự án khởi nghiệp thanh niên nông thôn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.899035+07:00",
+      "fetched": "2025-10-19T21:13:30.899149+07:00"
+    },
+    {
+      "id": "1991da847306b95a1e3bd5d2b86f25b4",
+      "title": "Ở tuổi 85, giáo sư Trình Quang Phú vẫn viết về Bác Hồ như dòng sông cuộn chảy",
+      "link": "https://tuoitre.vn/o-tuoi-85-giao-su-trinh-quang-phu-van-viet-ve-bac-ho-nhu-dong-song-cuon-chay-20251019171459982.htm",
+      "summary": "Sau cuốn truyện ký 'Theo dấu chân Người' gây tiếng vang, giáo sư, nhà văn Trình Quang Phú đang ấp ủ thêm một cuốn sách nữa về Bác Hồ mang tên 'Người đi muôn trùng non nước'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898889+07:00",
+      "fetched": "2025-10-19T21:13:30.899023+07:00"
+    },
+    {
+      "id": "f187c7b726a1e0677766d7c4500951c3",
+      "title": "Người Việt đang ăn quá ít rau quả, HCDC kêu gọi hãy sống khỏe bắt đầu từ bữa cơm gia đình",
+      "link": "https://tuoitre.vn/nguoi-viet-dang-an-qua-it-rau-qua-hcdc-keu-goi-hay-song-khoe-bat-dau-tu-bua-com-gia-dinh-20251019173748306.htm",
+      "summary": "Mỗi gia đình hãy bắt đầu bằng những thay đổi nhỏ nhưng thiết thực: ăn đủ bốn nhóm thực phẩm, tăng cường rau củ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898761+07:00",
+      "fetched": "2025-10-19T21:13:30.898877+07:00"
+    },
+    {
+      "id": "9c007420d69c8718c026c9bb74ea461c",
+      "title": "Thần đồng Indonesia bị đồng đội tại châu Âu chế nhạo",
+      "link": "https://tuoitre.vn/than-dong-indonesia-bi-dong-doi-tai-chau-au-che-nhao-20251019192445953.htm",
+      "summary": "Tiền đạo trẻ Marselino Ferdinan của Indonesia đã có một khoảnh khắc đáng quên trong trận ra mắt CLB AS Trencin tại Giải vô địch quốc gia Slovakia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898620+07:00",
+      "fetched": "2025-10-19T21:13:30.898748+07:00"
+    },
+    {
+      "id": "af4121cc2edf39c75358f92e03ead44e",
+      "title": "Idecaf hạnh phúc diễn vở về Tả quân Lê Văn Duyệt trong Những ngày văn học nghệ thuật TP.HCM",
+      "link": "https://tuoitre.vn/idecaf-hanh-phuc-dien-vo-ve-ta-quan-le-van-duyet-trong-nhung-ngay-van-hoc-nghe-thuat-tp-hcm-20251019191026888.htm",
+      "summary": "Chiều 19-10, đông đảo khán giả đã đến xem vở kịch Đức thượng công Tả quân Lê Văn Duyệt - Người mang 9 án tử trong khuôn khổ Những ngày văn học nghệ thuật TP.HCM. Ngoài vở diễn còn có nhiều hoạt động khác phục vụ công chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898486+07:00",
+      "fetched": "2025-10-19T21:13:30.898603+07:00"
+    },
+    {
+      "id": "1076688ead0200db14e473c7e28a6d2b",
+      "title": "Lần đầu tiên một Tổng Bí thư Việt Nam đến Phần Lan",
+      "link": "https://tuoitre.vn/lan-dau-tien-mot-tong-bi-thu-viet-nam-den-phan-lan-20251019194740209.htm",
+      "summary": "Chuyến thăm của Tổng Bí thư Tô Lâm đánh dấu lần đầu tiên một người đứng đầu Đảng Cộng sản Việt Nam đến Phần Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898357+07:00",
+      "fetched": "2025-10-19T21:13:30.898474+07:00"
+    },
+    {
+      "id": "cc1c1c84c51153c4ee9bd607a07bb28f",
+      "title": "Y tế Phú Quốc thoát khỏi vùng trũng, kịp thời cứu nhiều bệnh nhân",
+      "link": "https://tuoitre.vn/y-te-phu-quoc-thoat-khoi-vung-trung-kip-thoi-cuu-nhieu-benh-nhan-20251019185151492.htm",
+      "summary": "Ngành y tế đặc khu Phú Quốc được bác sĩ Bệnh viện Chợ Rẫy (TP.HCM) hỗ trợ về chuyên môn nên đã thay đổi nhiều và kịp thời mổ cấp cứu nhiều bệnh nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898223+07:00",
+      "fetched": "2025-10-19T21:13:30.898345+07:00"
+    },
+    {
+      "id": "2b3f7787d9393b279246d9c7916e5a75",
+      "title": "Hai tuyển thủ U23 Việt Nam tỏa sáng giúp PVF-CAND cầm chân Thanh Hóa",
+      "link": "https://tuoitre.vn/hai-tuyen-thu-u23-viet-nam-toa-sang-giup-pvf-cand-cam-chan-thanh-hoa-20251019200657846.htm",
+      "summary": "CLB PVF-CAND giành 1 điểm trước Thanh Hóa với 2 bàn thắng của 2 tuyển thủ U23 Việt Nam là Nguyễn Xuân Bắc và Võ Anh Quân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.898077+07:00",
+      "fetched": "2025-10-19T21:13:30.898210+07:00"
+    },
+    {
+      "id": "1a24cc5a9a0e4bd3eb16c9e9a1df3a6e",
+      "title": "Việt Nam đang tiến gần 'điểm đến ẩm thực hàng đầu châu Á'",
+      "link": "https://tuoitre.vn/viet-nam-dang-tien-gan-diem-den-am-thuc-hang-dau-chau-a-20251019195404175.htm",
+      "summary": "Việt Nam, với di sản ẩm thực phong phú, đang trở thành điểm đến ẩm thực hàng đầu châu Á, nơi mỗi món ăn không chỉ ngon lành, mà còn kể một câu chuyện về văn hóa, con người và sự sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:13:30.897820+07:00",
+      "fetched": "2025-10-19T21:13:30.898060+07:00"
+    },
     {
       "id": "e7ba4c93fa86ac0163f1239fbf583bd1",
       "title": "Tuyển nữ Việt Nam gặp Philippines ở vòng bảng SEA Games 33",
@@ -433,6 +583,126 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T15:19:06.349454+07:00"
     },
     {
+      "id": "83074dfd13cc73c838047551e6599344",
+      "title": "'Màn kịch' lấy chồng Trung Quốc, chiếm đoạt 400 triệu đồng sính lễ",
+      "link": "https://vnexpress.net/man-kich-lay-chong-trung-quoc-chiem-doat-400-trieu-dong-sinh-le-4953239.html",
+      "summary": "Nhóm bị can dàn dựng kịch bản đưa một cô gái sang Trung Quốc vờ kết hôn với người bản địa rồi chiếm đoạt 400 triệu đồng tiền sính lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:10:24+07:00",
+      "fetched": "2025-10-19T21:13:26.887706+07:00"
+    },
+    {
+      "id": "8ff89d2b97b28b0ce115cd39582483a4",
+      "title": "Ông Trump âm thầm bỏ thuế cho nhiều mặt hàng nhập khẩu?",
+      "link": "https://thanhnien.vn/ong-trump-am-tham-bo-thue-cho-nhieu-mat-hang-nhap-khau-185251019194059143.htm",
+      "summary": "Chính quyền Mỹ được cho là đang âm thầm gỡ bỏ các mức thuế đối với hàng hóa nhập khẩu, vốn là công cụ then chốt trong chính sách kinh tế của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:06:00+07:00",
+      "fetched": "2025-10-19T21:13:30.029198+07:00"
+    },
+    {
+      "id": "3b8b3353fb5d5e1620d4cde7ff304c54",
+      "title": "Khủng hoảng rượu giả ám ảnh Brazil",
+      "link": "https://vnexpress.net/khung-hoang-ruou-gia-am-anh-brazil-4951277.html",
+      "summary": "Văn hóa quán bar của Brazil đang trải qua cú sốc khi nhà chức trách phát hiện vô số chai rượu chứa methanol gây chết người tràn lan trên thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:00:00+07:00",
+      "fetched": "2025-10-19T21:13:26.887890+07:00"
+    },
+    {
+      "id": "c8359dec77b5d8bfc967a0918722f192",
+      "title": "Lê Tuấn Khang trượt hạng mục video ấn tượng của năm, buồn vì sợ bị chửi",
+      "link": "https://thanhnien.vn/le-tuan-khang-truot-hang-muc-video-an-tuong-cua-nam-buon-vi-so-bi-chui-185251019175819125.htm",
+      "summary": "Tối 18.10, tại TP.HCM, đêm vinh danh TikTok Awards Việt Nam 2025 chính thức diễn ra, đánh dấu 5 năm đồng hành cùng cộng đồng sáng tạo nội dung. Lê Tuấn Khang gây ấn tượng khi 2 lần có tên trong danh sách đề cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:00:00+07:00",
+      "fetched": "2025-10-19T21:13:30.029383+07:00"
+    },
+    {
+      "id": "3b8b3353fb5d5e1620d4cde7ff304c54",
+      "title": "Khủng hoảng rượu giả ám ảnh Brazil",
+      "link": "https://vnexpress.net/khung-hoang-ruou-gia-am-anh-brazil-4951277.html",
+      "summary": "Văn hóa quán bar của Brazil đang trải qua cú sốc khi nhà chức trách phát hiện vô số chai rượu chứa methanol gây chết người tràn lan trên thị trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T14:00:00+07:00",
+      "fetched": "2025-10-19T21:13:33.308763+07:00"
+    },
+    {
+      "id": "ed7a00abda217e6d5d8c2ff239f6589d",
+      "title": "Tranh của Picasso bị mất",
+      "link": "https://vnexpress.net/tranh-cua-picasso-bi-mat-4953194.html",
+      "summary": "Tác phẩm trị giá hơn 650.000 USD của danh họa Picasso biến mất bí ẩn trong quá trình mang đi triển lãm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:53:50+07:00",
+      "fetched": "2025-10-19T21:13:26.888075+07:00"
+    },
+    {
+      "id": "eafaaf899970f5042714c88bf5cd1535",
+      "title": "Thủ tướng Phạm Minh Chính: Cao tốc ĐBSCL về đích đúng hẹn, không bàn lùi",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-cao-toc-dbscl-ve-dich-dung-hen-khong-ban-lui-185251019201443479.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh chỉ bàn làm, không bàn lùi đối với các dự án cao tốc ở ĐBSCL đã được ấn định thời gian hoàn thành vào ngày 19.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:39:00+07:00",
+      "fetched": "2025-10-19T21:13:30.029549+07:00"
+    },
+    {
+      "id": "41262991a9f88167367442705c392113",
+      "title": "Cúp tiết, lười học nhưng vẫn được điểm A ở Harvard",
+      "link": "https://vnexpress.net/cup-tiet-luoi-hoc-nhung-van-duoc-diem-a-o-harvard-4953235.html",
+      "summary": "Nhiều sinh viên Đại học Harvard cúp tiết, hoặc đi học mà chỉ chăm chú xem điện thoại, không phát biểu... nhưng vẫn được điểm A, khiến các giáo sư phải đau đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:35:00+07:00",
+      "fetched": "2025-10-19T21:13:26.888235+07:00"
+    },
+    {
+      "id": "6622d0d930da4e5ff81f673eb90fbf98",
+      "title": "HAGL lần thứ ba xuống cuối bảng V-League 2025-2026",
+      "link": "https://vnexpress.net/hagl-lan-thu-ba-xuong-cuoi-bang-v-league-2025-2026-4953244.html",
+      "summary": "HAGL thế chỗ Thanh Hóa ở đáy bảy V-League 2025-2026 sau khi thua Hải Phòng 0-3 ở vòng 7, tối 19/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:31:52+07:00",
+      "fetched": "2025-10-19T21:13:26.888396+07:00"
+    },
+    {
+      "id": "6622d0d930da4e5ff81f673eb90fbf98",
+      "title": "HAGL lần thứ ba xuống cuối bảng V-League 2025-2026",
+      "link": "https://vnexpress.net/hagl-lan-thu-ba-xuong-cuoi-bang-v-league-2025-2026-4953244.html",
+      "summary": "HAGL thế chỗ Thanh Hóa ở đáy bảy V-League 2025-2026 sau khi thua Hải Phòng 0-3 ở vòng 7, tối 19/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T13:31:52+07:00",
+      "fetched": "2025-10-19T21:13:39.903241+07:00"
+    },
+    {
+      "id": "6fa51061c36823a0087926713e132267",
+      "title": "Hàn Quốc tuyên bố bắt giữ lính Triều Tiên vượt biên",
+      "link": "https://vnexpress.net/han-quoc-tuyen-bo-bat-giu-linh-trieu-tien-vuot-bien-4953238.html",
+      "summary": "Quân đội Hàn Quốc thông báo đã bắt giữ một binh sĩ Triều Tiên sau khi người này vượt qua Khu phi quân sự giữa hai miền bán đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:25:37+07:00",
+      "fetched": "2025-10-19T21:13:26.888557+07:00"
+    },
+    {
+      "id": "6fa51061c36823a0087926713e132267",
+      "title": "Hàn Quốc tuyên bố bắt giữ lính Triều Tiên vượt biên",
+      "link": "https://vnexpress.net/han-quoc-tuyen-bo-bat-giu-linh-trieu-tien-vuot-bien-4953238.html",
+      "summary": "Quân đội Hàn Quốc thông báo đã bắt giữ một binh sĩ Triều Tiên sau khi người này vượt qua Khu phi quân sự giữa hai miền bán đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T13:25:37+07:00",
+      "fetched": "2025-10-19T21:13:33.308959+07:00"
+    },
+    {
       "id": "95b10259d9d299e4faea938cce207e6e",
       "title": "Sáng mai 20-10, khai mạc kỳ họp cuối cùng của Quốc hội khóa XV, xem xét, thông qua 49 dự luật",
       "link": "https://tuoitre.vn/sang-mai-20-10-khai-mac-ky-hop-cuoi-cung-cua-quoc-hoi-khoa-xv-xem-xet-thong-qua-49-du-luat-2025101910381747.htm",
@@ -583,6 +853,146 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T13:23:13.093528+07:00"
     },
     {
+      "id": "8be2cef7e8b0603cc8b49ece63f04c31",
+      "title": "MC Việt gây chú ý khi hướng dẫn mỹ nhân SNSD tạo dáng với nón lá",
+      "link": "https://thanhnien.vn/mc-viet-gay-chu-y-khi-huong-dan-my-nhan-snsd-tao-dang-voi-non-la-185251019200125009.htm",
+      "summary": "Không chỉ tạo sự kết nối giữa Yoona và khán giả Việt, MC Thanh Thanh Huyền còn gây chú ý khi hướng dẫn mỹ nhân Hàn Quốc tạo dáng với nón lá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:17:00+07:00",
+      "fetched": "2025-10-19T21:13:30.029706+07:00"
+    },
+    {
+      "id": "33f95371a5ab438f8ce14a08e0cda90e",
+      "title": "HAGL thất bại cay đắng tại Lạch Tray, thủ môn Trần Trung Kiên nói lời chua xót",
+      "link": "https://thanhnien.vn/hagl-that-bai-cay-dang-tai-lach-tray-thu-mon-trung-kien-noi-loi-chua-xot-18525101918504012.htm",
+      "summary": "CLB HAGL thất thủ 0-3 trước Hải Phòng ở vòng 7 V-League diễn ra hôm nay trên sân Lạch Tray, qua đó chìm sâu ở đáy bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:14:00+07:00",
+      "fetched": "2025-10-19T21:13:30.029862+07:00"
+    },
+    {
+      "id": "16ecc6301f3333f8ce2ef9944f07a385",
+      "title": "Trương Minh Cường chống nạng đi sự kiện, sắp phẫu thuật vì chấn thương",
+      "link": "https://thanhnien.vn/truong-minh-cuong-chong-nang-di-su-kien-sap-phau-thuat-vi-chan-thuong-185251019192926936.htm",
+      "summary": "Diễn viên Trương Minh Cường vừa gặp phải một chấn thương nghiêm trọng ở chân do chơi thể thao và sẽ sớm phải lên bàn mổ để nối gân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:12:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030049+07:00"
+    },
+    {
+      "id": "9508cea76ad0fac3633bcb1c3571b817",
+      "title": "Người đàn ông tử vong trong rừng Lâm Đồng, nghi bị voi rừng giẫm chết",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-tu-vong-trong-rung-lam-dong-nghi-bi-voi-rung-giam-chet-185251019165918182.htm",
+      "summary": "Chủ tịch UBND xã Đắk Wil, tỉnh Lâm Đồng xác nhận người đàn ông 66 tuổi tử vong trong rừng, không có dấu hiệu án mạng, nhưng xuất hiện nhiều dấu chân nghi của voi rừng gần thi thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:10:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030212+07:00"
+    },
+    {
+      "id": "7ca62904d3920bcba5a1a164bedcb77a",
+      "title": "MC Vũ Mạnh Cường: 'Tình yêu không cổ tích' là cuốn sách lan tỏa yêu thương",
+      "link": "https://thanhnien.vn/mc-vu-manh-cuong-tinh-yeu-khong-co-tich-la-cuon-sach-lan-toa-yeu-thuong-185251019190241632.htm",
+      "summary": "\"Đọc truyện dài 'Tình yêu không cổ tích' của tác giả Thỏ Trắng (nhà báo Minh Huỳnh), tôi rất thích vì nó đời và  rất thật. Cuốn sách còn lan tỏa yêu thương đến mọi người bằng những hoạt động thiện nguyện...\", MC Vũ Mạnh Cường chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:04:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030365+07:00"
+    },
+    {
+      "id": "142d8853d329fdb308894fb30f2f21a5",
+      "title": "Dấu hiệu ở tóc cảnh báo gan, thận không khỏe",
+      "link": "https://vnexpress.net/dau-hieu-o-toc-canh-bao-gan-than-khong-khoe-4952854.html",
+      "summary": "Gan lọc độc tố kém có thể khiến tóc thưa dần ở đỉnh đầu, còn tóc giòn và chẻ ngọn thường xuyên có thể do thận lọc chất dinh dưỡng không tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:00:00+07:00",
+      "fetched": "2025-10-19T21:13:26.888709+07:00"
+    },
+    {
+      "id": "a271f087aa1d5d82e290435b19620e76",
+      "title": "Sao U.23 Việt Nam thi nhau ghi bàn, PVF-CAND và Thanh Hóa đua tỷ số kịch tính",
+      "link": "https://thanhnien.vn/sao-u23-viet-nam-thi-nhau-ghi-ban-pvf-cand-va-thanh-hoa-dua-ty-so-kich-tinh-185251019195813237.htm",
+      "summary": "Xuân Bắc, Anh Quân ghi bàn, cùng rất nhiều sao trẻ U.23 Việt Nam đã tỏa sáng trong cuộc chạy đua tỷ số nghẹt thở giữa 2 CLB PVF-CAND và Thanh Hóa tại vòng 7 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:00:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030524+07:00"
+    },
+    {
+      "id": "998db50269cec23d7f337e490d3a03f4",
+      "title": "Xem nhanh 20h ngày 19.10: Không khí lạnh ngăn bão Fengshen đổ bộ? | Hàng hoa lề đường ế ẩm trước 20.10",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1910-khong-khi-lanh-ngan-bao-fengshen-do-bo-hang-hoa-le-duong-e-am-truoc-2010-185251019194219635.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.10 có nhiều tin tức đáng chú ý về: Không khí lạnh tạo thành 'bức tường' ngăn bão Fengshen đổ bộ vào miền Trung; hàng hoa lề đường mong 20.10 nắng ráo: ‘Khách vắng, chỉ mong đừng mưa’;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:00:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030677+07:00"
+    },
+    {
+      "id": "24d7804ceb358938ec7a77dd9f6a15d6",
+      "title": "Huỳnh Lập 'lạc lõng' giữa Đêm vinh danh TikTok Awards 2025 vì lý do này",
+      "link": "https://thanhnien.vn/huynh-lap-lac-long-giua-dem-vinh-danh-tiktok-awards-2025-vi-ly-do-nay-185251019170321027.htm",
+      "summary": "Tối 18.10, tại TikTok Awards Việt Nam 2025, diễn viên Huỳnh Lập xuất hiện với trang phục theo đúng dresscode của sự kiện. Tuy nhiên, anh cho biết khá bất ngờ khi nhận ra outfit của mình có phần trùng với trang phục của vũ đoàn biểu diễn mở màn, tạo nên khoảnh khắc vui nhộn bên lề đêm vinh danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:00:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030828+07:00"
+    },
+    {
+      "id": "0c6261c78b2a73ccab0d0502b5c8afe7",
+      "title": "Jisoo, Karina và loạt idol Hàn đang thổi bùng xu hướng trang điểm mắt khói",
+      "link": "https://thanhnien.vn/thoi-trang-tre/jisoo-karina-va-loat-idol-han-dang-thoi-bung-xu-huong-trang-diem-mat-khoi-185251019115705241.htm",
+      "summary": "Mắt khói từ lâu đã trở thành biểu tượng của xu hướng làm đẹp, nhưng giờ đây lại mang một diện mạo khác biệt. Nó chinh phục hội mỹ nhân xứ Hàn bằng một phong cách mới: hiện đại, sắc sảo và giàu biến hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:00:00+07:00",
+      "fetched": "2025-10-19T21:13:30.030999+07:00"
+    },
+    {
+      "id": "513347233c09dc030a5c05e86874b992",
+      "title": "Cơ hội hiếm: Cách để người Việt quan sát 2 sao chổi đang thắp sáng bầu trời",
+      "link": "https://thanhnien.vn/co-hoi-hiem-cach-de-nguoi-viet-quan-sat-2-sao-choi-dang-thap-sang-bau-troi-185251019132019237.htm",
+      "summary": "Có 2 sao chổi đang thắp sáng bầu trời Việt Nam và đây là cơ hội duy nhất trong đời để quan sát, bởi sau hàng trăm, thậm chí hàng ngàn năm, chúng ta mới 'hội ngộ' chúng. Dưới đây là mẹo để quan sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:51:00+07:00",
+      "fetched": "2025-10-19T21:13:30.031158+07:00"
+    },
+    {
+      "id": "80ce9fa678f0fc9f491cc9cfe560910f",
+      "title": "Ông Tập Cận Bình chúc mừng tân lãnh đạo Quốc dân đảng Đài Loan",
+      "link": "https://thanhnien.vn/ong-tap-can-binh-chuc-mung-tan-lanh-dao-quoc-dan-dang-dai-loan-185251019185403283.htm",
+      "summary": "Tổng Bí thư đảng Cộng sản Trung Quốc Tập Cận Bình đã chúc mừng bà Trịnh Lệ Văn đắc cử chức Chủ tịch Quốc dân đảng Đài Loan và kêu gọi thúc đẩy tái thống nhất hai bờ eo biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:46:00+07:00",
+      "fetched": "2025-10-19T21:13:30.031312+07:00"
+    },
+    {
+      "id": "aba6330064f16dac9600ba609ec283d9",
+      "title": "Tuổi 33 tính đường bỏ việc thành phố, về quê làm nông dân",
+      "link": "https://vnexpress.net/tuoi-33-tinh-duong-bo-viec-thanh-pho-ve-que-lam-nong-dan-4953158.html",
+      "summary": "Bố mẹ tôi muốn vợ chồng tôi về quê chăm mảnh vườn 7.000 m2 gồm cà phê và cây ăn quả, mỗi năm cho lãi khoảng 100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:45:50+07:00",
+      "fetched": "2025-10-19T21:13:26.888860+07:00"
+    },
+    {
+      "id": "d6b5cecd55d90ac474018356ed2b1502",
+      "title": "Hàng hoa lề đường mong 20.10 nắng ráo: ‘Khách vắng, chỉ mong đừng mưa’",
+      "link": "https://thanhnien.vn/hang-hoa-le-duong-mong-2010-nang-rao-khach-vang-chi-mong-dung-mua-185251019183018895.htm",
+      "summary": "Còn một ngày nữa là tới 20.10, khắp các tuyến đường ở TP.HCM lại rộn ràng sắc hoa. Giữa trưa nắng gắt, người bán hoa trùm kín từ đầu đến chân, cố bám vỉa hè để kịp phục vụ khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:39:00+07:00",
+      "fetched": "2025-10-19T21:13:30.031461+07:00"
+    },
+    {
       "id": "55b42cba05d36d9a44932f1d5b9d4997",
       "title": "Kết quả xổ số Mega 6/45 Vietlott tối 19.10, tiền cộng dồn lên đến 122 tỉ đồng",
       "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1910-tien-cong-don-len-den-122-ti-dong-185251019190950868.htm",
@@ -591,6 +1001,26 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T12:19:00+07:00",
       "fetched": "2025-10-19T19:30:20.218116+07:00"
+    },
+    {
+      "id": "0be5b035d9dfc7f4d0e5e2b61ae0e91c",
+      "title": "Israel không kích miền nam Gaza, cáo buộc Hamas nổ súng trước",
+      "link": "https://vnexpress.net/israel-khong-kich-mien-nam-gaza-cao-buoc-hamas-no-sung-truoc-4953228.html",
+      "summary": "Quân đội Israel không kích khu vực Rafah với cáo buộc Hamas vi phạm lệnh ngừng bắn, trong khi nhóm vũ trang ở Dải Gaza bác bỏ thông tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:15:14+07:00",
+      "fetched": "2025-10-19T21:13:26.889041+07:00"
+    },
+    {
+      "id": "0be5b035d9dfc7f4d0e5e2b61ae0e91c",
+      "title": "Israel không kích miền nam Gaza, cáo buộc Hamas nổ súng trước",
+      "link": "https://vnexpress.net/israel-khong-kich-mien-nam-gaza-cao-buoc-hamas-no-sung-truoc-4953228.html",
+      "summary": "Quân đội Israel không kích khu vực Rafah với cáo buộc Hamas vi phạm lệnh ngừng bắn, trong khi nhóm vũ trang ở Dải Gaza bác bỏ thông tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T12:15:14+07:00",
+      "fetched": "2025-10-19T21:13:33.309134+07:00"
     },
     {
       "id": "55ab6f0b35eca16c56e7d52050622e55",
@@ -613,6 +1043,46 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T19:30:27.481922+07:00"
     },
     {
+      "id": "4a94ad4c97d1f2700e33d2f218bfb78c",
+      "title": "Quốc gia Đông Nam Á nào miễn visa cho nhiều nước nhất?",
+      "link": "https://vnexpress.net/quoc-gia-dong-nam-a-nao-mien-visa-cho-nhieu-nuoc-nhat-4953107.html",
+      "summary": "Nước này miễn thị thực hoặc chỉ yêu cầu khai e-visa, visa cửa khẩu với du khách từ 198 quốc gia, vùng lãnh thổ. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:00:00+07:00",
+      "fetched": "2025-10-19T21:13:26.889360+07:00"
+    },
+    {
+      "id": "46eefded36bc4ac6d34d29ecbd87ccb9",
+      "title": "Hòa đàm Gaza tạo đà cho ông Trump xử lý xung đột Ukraine",
+      "link": "https://vnexpress.net/hoa-dam-gaza-tao-da-cho-ong-trump-xu-ly-xung-dot-ukraine-4951464.html",
+      "summary": "Kinh nghiệm từ dàn xếp chiến sự Gaza có thể giúp ông Trump thêm tự tin để thúc đẩy giải pháp cho xung đột Ukraine, dù điều này khó khăn hơn nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:00:00+07:00",
+      "fetched": "2025-10-19T21:13:26.889580+07:00"
+    },
+    {
+      "id": "46eefded36bc4ac6d34d29ecbd87ccb9",
+      "title": "Hòa đàm Gaza tạo đà cho ông Trump xử lý xung đột Ukraine",
+      "link": "https://vnexpress.net/hoa-dam-gaza-tao-da-cho-ong-trump-xu-ly-xung-dot-ukraine-4951464.html",
+      "summary": "Kinh nghiệm từ dàn xếp chiến sự Gaza có thể giúp ông Trump thêm tự tin để thúc đẩy giải pháp cho xung đột Ukraine, dù điều này khó khăn hơn nhiều.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T12:00:00+07:00",
+      "fetched": "2025-10-19T21:13:33.309297+07:00"
+    },
+    {
+      "id": "24b788d01a68bdc1712f65dc215bedd9",
+      "title": "Đấu giá toàn bộ khu đất sân vận động Chi Lăng để thi hành án",
+      "link": "https://vnexpress.net/dau-gia-toan-bo-khu-dat-san-van-dong-chi-lang-de-thi-hanh-an-4953226.html",
+      "summary": "Cục Thi hành án dân sự TP Đà Nẵng đang triển khai bán đấu giá toàn bộ quyền sử dụng đất Khu phức hợp thương mại và dịch vụ cao tầng Sân vận động Chi Lăng nhằm thu hồi tài sản vụ án Phạm Công Danh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:59:16+07:00",
+      "fetched": "2025-10-19T21:13:26.889736+07:00"
+    },
+    {
       "id": "1e4e9d6b009fb3bfd996a88289718db9",
       "title": "Ca sĩ Đan Trường đón tin vui kép",
       "link": "https://thanhnien.vn/ca-si-dan-truong-don-tin-vui-kep-185251019183847732.htm",
@@ -621,6 +1091,16 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T11:57:00+07:00",
       "fetched": "2025-10-19T19:30:20.218442+07:00"
+    },
+    {
+      "id": "cdaf196341e1f41745033781aa9c6b67",
+      "title": "Thời điểm vàng cho lá chanh giúp nâng vị món ăn",
+      "link": "https://vnexpress.net/thoi-diem-vang-cho-la-chanh-giup-nang-vi-mon-an-4953230.html",
+      "summary": "Chỉ một nhúm lá chanh thái chỉ cũng đủ khiến đĩa gà luộc, bát ốc hay tô phở \"dậy hương\", nhưng dùng sai thời điểm có thể phá hỏng cả món ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:52:58+07:00",
+      "fetched": "2025-10-19T21:13:26.889900+07:00"
     },
     {
       "id": "b81f647c9211e758995ef20dd52d0213",
