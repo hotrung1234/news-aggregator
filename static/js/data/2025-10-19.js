@@ -1,7 +1,157 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T15:19:14.091500+07:00",
+  "lastUpdated": "2025-10-19T17:15:27.208326+07:00",
   "articles": [
+    {
+      "id": "1459a9ead9da7ab95fb2dc6c72a1a457",
+      "title": "Tổng Bí thư Tô Lâm dự lễ khởi công sân vận động mái vòm hiện đại nhất Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-le-khoi-cong-san-van-dong-mai-vom-hien-dai-nhat-viet-nam-20251019141254569.htm",
+      "summary": "Sáng 19-10, Bộ Công an tổ chức lễ khởi công sân vận động PVF có sức chứa 60.000 chỗ ngồi, ứng dụng công nghệ mái vòm hiện đại nhất Việt Nam, tiên tiến hàng đầu thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.209298+07:00",
+      "fetched": "2025-10-19T17:15:18.209409+07:00"
+    },
+    {
+      "id": "6f13bf324b70ab2423fc8a64daec3e02",
+      "title": "Nghị sĩ Hàn Quốc kêu gọi dừng viện trợ cho Campuchia",
+      "link": "https://tuoitre.vn/nghi-si-han-quoc-keu-goi-dung-vien-tro-cho-campuchia-20251019141803451.htm",
+      "summary": "Một nghị sĩ Hàn Quốc kêu gọi dừng viện trợ cho Campuchia nếu Phnom Penh không giải quyết các quan ngại về an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.209177+07:00",
+      "fetched": "2025-10-19T17:15:18.209287+07:00"
+    },
+    {
+      "id": "0e20c8990f0697a137ba478f49564fc5",
+      "title": "Ngắm ảnh Nhà hát, UBND TP.HCM, sông Sài Gòn do bác sĩ người Hungary chụp hơn 100 năm trước",
+      "link": "https://tuoitre.vn/ngam-anh-nha-hat-ubnd-tp-hcm-song-sai-gon-do-bac-si-nguoi-hungary-chup-hon-100-nam-truoc-2025101914150675.htm",
+      "summary": "Những hình ảnh quý giá của bác sĩ hải quân Hungary chụp tại Việt Nam vào những năm đầu thế kỷ 20 đang trưng bày tại Bảo tàng TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.209054+07:00",
+      "fetched": "2025-10-19T17:15:18.209166+07:00"
+    },
+    {
+      "id": "a1d9ab6715bce2d060e015000dfdcb40",
+      "title": "Đường lên mây của Loan Phương",
+      "link": "https://tuoitre.vn/duong-len-may-cua-loan-phuong-20251019100407509.htm",
+      "summary": "Đường lên mây giới thiệu hơn 30 tác phẩm sơn mài được họa sĩ Loan Phương thực hiện trong bốn năm qua, trưng bày từ nay đến 22-10 tại Hội Mỹ thuật TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208913+07:00",
+      "fetched": "2025-10-19T17:15:18.209042+07:00"
+    },
+    {
+      "id": "2f9e8aba069f62c39310197755b4654e",
+      "title": "Nhật Bản phẫn nộ khi OpenAI ngang nhiên sao chép anime như Thanh gươm diệt quỷ, Pokémon",
+      "link": "https://tuoitre.vn/nhat-ban-phan-no-khi-openai-ngang-nhien-sao-chep-anime-nhu-thanh-guom-diet-quy-pokemon-202510191451107.htm",
+      "summary": "Chính phủ Nhật vừa chính thức gửi yêu cầu đến OpenAI, đề nghị không sử dụng nhân vật manga, game hay anime như Pokémon, Thanh gươm diệt quỷ, Bảy viên ngọc rồng... trong công cụ tạo video Sora 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208791+07:00",
+      "fetched": "2025-10-19T17:15:18.208902+07:00"
+    },
+    {
+      "id": "815be3700cc0b6aa80e5117530a1a346",
+      "title": "Ngày xưa có người tách biển",
+      "link": "https://tuoitre.vn/ngay-xua-co-nguoi-tach-bien-20251017092824891.htm",
+      "summary": "Song Tuyết Đào có thể còn xa lạ với độc giả Việt Nam, nhưng cái tên Moses trên bình nguyên hẳn ít nhiều quen thuộc với khán giả yêu thích phim Hoa ngữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208670+07:00",
+      "fetched": "2025-10-19T17:15:18.208780+07:00"
+    },
+    {
+      "id": "07b0656e629caacfedbdc3f43b94fcdb",
+      "title": "Bóng chuyền nữ Việt Nam vào bảng dễ, Thái Lan gặp khó ở SEA Games 33",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-vao-bang-de-thai-lan-gap-kho-o-sea-games-33-20251019143146091.htm",
+      "summary": "Tuyển bóng chuyền nữ Việt Nam sẽ không gặp quá nhiều thử thách tại vòng bảng của SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208548+07:00",
+      "fetched": "2025-10-19T17:15:18.208659+07:00"
+    },
+    {
+      "id": "08f1f9799e16da79dc67438ab88b61cc",
+      "title": "Phúc Huỳnh nếm vị 'đắng' ở giải đánh đơn tại Mỹ",
+      "link": "https://tuoitre.vn/phuc-huynh-nem-vi-dang-o-giai-danh-don-tai-my-20251019143954451.htm",
+      "summary": "Tay vợt pickleball Việt Nam Phúc Huỳnh bị loại sau 2 trận ở giải LT Open diễn ra tại thành phố Peachtree Cornes, bang Georgia, Mỹ, từ ngày 16-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208424+07:00",
+      "fetched": "2025-10-19T17:15:18.208536+07:00"
+    },
+    {
+      "id": "a05b46f46ed8158d310cc1dd79b9c8d3",
+      "title": "Âm luật của László Krasznahorkai",
+      "link": "https://tuoitre.vn/am-luat-cua-laszlo-krasznahorkai-20251019101049368.htm",
+      "summary": "Ở đoạn kết cuốn tiểu thuyết Az ellenállás melankóliája (tạm dịch: Nỗi buồn kháng cự), László Krasznahorkai đã để cho một trong những nhân vật chính của mình lên dây lại cây đàn piano đã lâu không ai chơi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208291+07:00",
+      "fetched": "2025-10-19T17:15:18.208412+07:00"
+    },
+    {
+      "id": "fb8f174ad8d44ac156872d5194da9aff",
+      "title": "Chủ tịch tỉnh Quảng Ngãi: Tiến độ dự án kiểm tra hằng tuần, điều chuyển cán bộ yếu",
+      "link": "https://tuoitre.vn/chu-tich-tinh-quang-ngai-tien-do-du-an-kiem-tra-hang-tuan-dieu-chuyen-can-bo-yeu-20251019140144716.htm",
+      "summary": "Chủ tịch UBND tỉnh Quảng Ngãi chưa hài lòng về giải ngân vốn đầu tư công và giao 2 phó chủ tịch đôn đốc các dự án, yêu cầu tiến độ các dự án phải kiểm tra hằng tuần, cán bộ không đáp ứng sẽ điều chuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208165+07:00",
+      "fetched": "2025-10-19T17:15:18.208280+07:00"
+    },
+    {
+      "id": "423dcd682caf747f3a3c76c4dcc011b0",
+      "title": "Bắt nghi phạm giả danh công an chặn xe cô gái, ép nhậu say đưa vào khách sạn hiếp dâm",
+      "link": "https://tuoitre.vn/bat-nghi-pham-gia-danh-cong-an-chan-xe-co-gai-ep-nhau-say-dua-vao-khach-san-hiep-dam-2025101914254516.htm",
+      "summary": "Nghi phạm đã cùng người bạn ở TP Đà Nẵng giả danh công an chặn xe một cô gái kiểm tra giấy tờ rồi ép nhậu say, đưa vào khách sạn hiếp dâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.208034+07:00",
+      "fetched": "2025-10-19T17:15:18.208153+07:00"
+    },
+    {
+      "id": "fb2a8997530084942c8625aadb508561",
+      "title": "Ông Tập Cận Bình chúc mừng lãnh đạo đảng đối lập lớn nhất Đài Loan",
+      "link": "https://tuoitre.vn/ong-tap-can-binh-chuc-mung-lanh-dao-dang-doi-lap-lon-nhat-dai-loan-2025101915265701.htm",
+      "summary": "Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình gửi điện chúc mừng bà Trịnh Lệ Văn, tân lãnh đạo Quốc Dân Đảng đối lập ở Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.207884+07:00",
+      "fetched": "2025-10-19T17:15:18.208020+07:00"
+    },
+    {
+      "id": "bc871fc371c84bfda2729748d300bf4d",
+      "title": "Thủ tướng chỉ đạo 'nóng' mua ngay máy xạ trị cho Bệnh viện Ung bướu Cần Thơ",
+      "link": "https://tuoitre.vn/thu-tuong-chi-dao-nong-mua-ngay-may-xa-tri-cho-benh-vien-ung-buou-can-tho-20251019151110348.htm",
+      "summary": "Trực tiếp chứng kiến cảnh 2-3 bệnh nhân một giường bệnh, người chăm nom phải ở vỉa hè, Thủ tướng đã chỉ đạo \"nóng\" mua ngay máy xạ trị cho Bệnh viện Ung bướu Cần Thơ và yêu cầu sớm khởi động dự án Bệnh viện Ung bướu mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.207752+07:00",
+      "fetched": "2025-10-19T17:15:18.207872+07:00"
+    },
+    {
+      "id": "89cef0474b76f570788f825cdf2b64ee",
+      "title": "Sự thật về câu chuyện 'tên trộm xe tốt bụng' ở Mỹ trả đứa bé sơ sinh rồi mới bỏ trốn",
+      "link": "https://tuoitre.vn/su-that-ve-cau-chuyen-ten-trom-xe-tot-bung-o-my-tra-dua-be-so-sinh-roi-moi-bo-tron-20251019153955748.htm",
+      "summary": "Mạng xã hội Mỹ đang lan truyền câu chuyện về “tên trộm xe tốt bụng\" đã trả đứa trẻ sơ sinh ở sau xe lại cho phụ huynh, thậm chí còn giáo huấn cha mẹ vì dám để con một mình trên xe, rồi mới lái xe bỏ trốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.207612+07:00",
+      "fetched": "2025-10-19T17:15:18.207740+07:00"
+    },
+    {
+      "id": "454a98880f927226dab97df3c2a649d0",
+      "title": "Món quà gì tặng mẹ, tặng vợ cho ngày 20-10 đáng nhớ?",
+      "link": "https://tuoitre.vn/mon-qua-gi-tang-me-tang-vo-cho-ngay-20-10-dang-nho-20251010191412751.htm",
+      "summary": "Chỉ với 100.000 đồng bạn vẫn có thể chọn được món quà 20-10 ý nghĩa mà mẹ, cô giáo, vợ hay người yêu sẽ cảm động từ chính tấm lòng của bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T17:15:18.207395+07:00",
+      "fetched": "2025-10-19T17:15:18.207597+07:00"
+    },
     {
       "id": "d0d74e937afc0b3c605583f0fe26d544",
       "title": "Phùng Khánh Linh: 'Tôi đã thôi cầu xin đám đông hãy nhìn thấy mình'",
@@ -503,6 +653,346 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T10:13:28.248869+07:00"
     },
     {
+      "id": "2140f649305525473f3e5ed76d4c1b74",
+      "title": "Apple bắt tay BYD sản xuất thiết bị gia dụng thông minh tại Việt Nam?",
+      "link": "https://thanhnien.vn/apple-bat-tay-byd-san-xuat-thiet-bi-gia-dung-thong-minh-tai-viet-nam-185251015161146041.htm",
+      "summary": "Apple được cho là đang mở rộng sang Việt Nam bằng cách bắt tay với BYD để sản xuất thiết bị gia dụng thông minh, mở ra kỷ nguyên mới sau iPhone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:13:00+07:00",
+      "fetched": "2025-10-19T17:15:17.109214+07:00"
+    },
+    {
+      "id": "f327619e087dba1717148ccdd2de9d1b",
+      "title": "Phố thị Sài Gòn hơn 100 năm trước dưới góc nhìn bác sĩ hải quân Hungary",
+      "link": "https://thanhnien.vn/pho-thi-sai-gon-hon-100-nam-truoc-duoi-goc-nhin-bac-si-hai-quan-hungary-185251019141300714.htm",
+      "summary": "Phố thị Sài Gòn hơn 100 năm trước qua ống kính của bác sĩ hải quân người Hungary Dezso Bozoky khá yên bình, đậm dấu ấn đô thị sông nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:12:00+07:00",
+      "fetched": "2025-10-19T17:15:17.109382+07:00"
+    },
+    {
+      "id": "3d108c8b15f60feb07e564529cefc783",
+      "title": "Thu ngân sách đến hết 16/10 vượt dự toán cả năm",
+      "link": "https://vnexpress.net/thu-ngan-sach-den-het-16-10-vuot-du-toan-ca-nam-4953174.html",
+      "summary": "Đến 16/10, lũy kế thu ngân sách nhà nước đạt hơn 2 triệu tỷ đồng, bằng 102,35% so với dự toán cả năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:10:00+07:00",
+      "fetched": "2025-10-19T17:15:13.566388+07:00"
+    },
+    {
+      "id": "f720d05296a41db943cf6f1150f291bb",
+      "title": "Trộm đột nhập Bảo tàng Louvre, Pháp ra lệnh đóng cửa",
+      "link": "https://thanhnien.vn/trom-dot-nhap-bao-tang-louvre-phap-ra-lenh-dong-cua-185251019170657325.htm",
+      "summary": "Bộ trưởng Văn hóa Pháp thông báo đã đóng cửa Bảo tàng Louvre trong ngày 19.10 sau khi phát hiện bị trộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:08:00+07:00",
+      "fetched": "2025-10-19T17:15:17.109538+07:00"
+    },
+    {
+      "id": "33a1cc761013cbd94873bd25481ebbf7",
+      "title": "Vừa xổ số miền Nam ngày 19 tháng 10: Khách trúng 'khủng' 420 triệu đài Tiền Giang",
+      "link": "https://thanhnien.vn/vua-xo-so-mien-nam-ngay-19-thang-10-khach-trung-khung-420-trieu-dai-tien-giang-185251019170219413.htm",
+      "summary": "Ngay khi có kết quả xổ số miền Nam ngày 19 tháng 10, nhiều khách trúng giải 'khủng' xổ số Tiền Giang hôm nay liền lộ diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:07:00+07:00",
+      "fetched": "2025-10-19T17:15:17.109699+07:00"
+    },
+    {
+      "id": "7cc7abcfc3db55ef485d50a59370c4c3",
+      "title": "Lực bán tăng lên, giá vàng nhẫn tiếp tục giảm",
+      "link": "https://thanhnien.vn/luc-ban-tang-len-gia-vang-nhan-tiep-tuc-giam-18525101916142674.htm",
+      "summary": "Ngày 19.10, giá vàng nhẫn trong nước tiếp tục giảm khi lực bán vàng tăng lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:06:00+07:00",
+      "fetched": "2025-10-19T17:15:17.109857+07:00"
+    },
+    {
+      "id": "2a597f4200dce404a977e1130faa7911",
+      "title": "Toàn cảnh 17h: Xem cảnh săn cá khủng ở Thủy điện trị An | Thị trường hoa 20.10 đìu hiu do bão lũ",
+      "link": "https://thanhnien.vn/toan-canh-17h-xem-canh-san-ca-khung-o-thuy-dien-tri-an-thi-truong-hoa-2010-diu-hiu-do-bao-lu-185251019165222707.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T10:00:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110036+07:00"
+    },
+    {
+      "id": "66f7d4458ef8abef72aa07729dcbd187",
+      "title": "Gia đình 5 người thiệt mạng vì bão Fengshen",
+      "link": "https://vnexpress.net/gia-dinh-5-nguoi-thiet-mang-vi-bao-fengshen-4953201.html",
+      "summary": "Bão Fengshen đổ bộ đảo chính Luzon gây mưa lớn, cây đổ, khiến 5 người trong một gia đình thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:54:41+07:00",
+      "fetched": "2025-10-19T17:15:13.566567+07:00"
+    },
+    {
+      "id": "213459013b5696084348910a1aeb331a",
+      "title": "Quy định mới về giảng viên ĐH, lần đầu có khái niệm ‘giảng viên đồng cơ hữu’",
+      "link": "https://thanhnien.vn/quy-dinh-moi-ve-giang-vien-dh-lan-dau-co-khai-niem-giang-vien-dong-co-huu-185251019163240994.htm",
+      "summary": "Giảng viên đồng cơ hữu lần đầu tiên được đề xuất trong dự thảo luật Giáo dục ĐH (sửa đổi), bên cạnh các vị trí giảng viên cơ hữu, giảng viên thỉnh giảng, giảng viên hợp đồng toàn thời gian sau khi nghỉ hưu. Vậy, giảng viên đồng cơ hữu là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:52:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110191+07:00"
+    },
+    {
+      "id": "917fa049de0f4115ca875522504861da",
+      "title": "Có 2 ngôi sao chính hiệu Malaysia thế này, sao FAM phải 'đi đường tắt', nhập tịch lậu!",
+      "link": "https://thanhnien.vn/co-2-ngoi-sao-chinh-hieu-malaysia-the-nay-sao-fam-phai-di-duong-tat-nhap-tich-lau-185251019164912346.htm",
+      "summary": "Giữa cơn hỗn loạn sau án phạt từ FIFA, bóng đá Malaysia vẫn chứng kiến những điểm sáng hiếm hoi: một ngôi sao trở lại sau vụ tấn công a xít, một tài năng trẻ vụt sáng,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:51:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110340+07:00"
+    },
+    {
+      "id": "79b4453dcf9111a7fa3c41bba90c4190",
+      "title": "Vì sao nhiều mẫu ô tô mới dùng đèn pha mảnh, phân tầng?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-mau-o-to-moi-dung-den-pha-manh-phan-tang-185251015141159327.htm",
+      "summary": "Kiểu thiết kế đèn pha \"đôi mắt\" trên ô tô đang dần trở thành dĩ vãng khi nhiều mẫu ô tô đời mới đang được các nhà sản xuất tạo dáng đèn pha thanh mảnh, tách thành đôi đồng thời tích hợp luôn trong lưới tản nhiệt, cản trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:46:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110496+07:00"
+    },
+    {
+      "id": "8ea254e3011f1cc03e0ae44dcc6d9b07",
+      "title": "PNJ đồng hành giải chạy dành cho cộng đồng dịp 20/10",
+      "link": "https://vnexpress.net/pnj-dong-hanh-giai-chay-danh-cho-cong-dong-dip-20-10-4953204.html",
+      "summary": "PNJ cùng \"Vietnam Women Run 2025\" lan tỏa thông điệp \"sống đẹp\" tới cộng đồng, khuyến khích phụ nữ rèn luyện sức khỏe, yêu thương và chăm sóc bản thân mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:30:00+07:00",
+      "fetched": "2025-10-19T17:15:13.566742+07:00"
+    },
+    {
+      "id": "8ea254e3011f1cc03e0ae44dcc6d9b07",
+      "title": "PNJ đồng hành giải chạy dành cho cộng đồng dịp 20/10",
+      "link": "https://vnexpress.net/pnj-dong-hanh-giai-chay-danh-cho-cong-dong-dip-20-10-4953204.html",
+      "summary": "PNJ cùng \"Vietnam Women Run 2025\" lan tỏa thông điệp \"sống đẹp\" tới cộng đồng, khuyến khích phụ nữ rèn luyện sức khỏe, yêu thương và chăm sóc bản thân mỗi ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-19T09:30:00+07:00",
+      "fetched": "2025-10-19T17:15:21.094842+07:00"
+    },
+    {
+      "id": "2f13b8c3661593948c83ae5b037cc02e",
+      "title": "Vào rừng hái măng, người đàn ông nghi bị voi rừng quật chết",
+      "link": "https://thanhnien.vn/vao-rung-hai-mang-nguoi-dan-ong-nghi-bi-voi-rung-quat-chet-185251019155428327.htm",
+      "summary": "Người đàn ông 66 tuổi đi hái măng, tử vong trong rừng, nghi bị voi rừng quật chết, bởi xuất hiện nhiều dấu chân của voi rừng gần thi thể nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:29:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110648+07:00"
+    },
+    {
+      "id": "33b535f29c7ae4dcdc1f65e007e28622",
+      "title": "U22 Timor Leste trách nhầm Thái Lan khi quên đăng ký dự SEA Games 33",
+      "link": "https://vnexpress.net/u22-timor-leste-trach-nham-thai-lan-khi-quen-dang-ky-du-sea-games-33-4953205.html",
+      "summary": "Timor Leste suýt không được dự bóng đá nam SEA Games 33 do quên đăng ký trên hệ thống, nhưng trách nhầm chủ nhà Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:27:31+07:00",
+      "fetched": "2025-10-19T17:15:13.566900+07:00"
+    },
+    {
+      "id": "33b535f29c7ae4dcdc1f65e007e28622",
+      "title": "U22 Timor Leste trách nhầm Thái Lan khi quên đăng ký dự SEA Games 33",
+      "link": "https://vnexpress.net/u22-timor-leste-trach-nham-thai-lan-khi-quen-dang-ky-du-sea-games-33-4953205.html",
+      "summary": "Timor Leste suýt không được dự bóng đá nam SEA Games 33 do quên đăng ký trên hệ thống, nhưng trách nhầm chủ nhà Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T09:27:31+07:00",
+      "fetched": "2025-10-19T17:15:27.198042+07:00"
+    },
+    {
+      "id": "5fbd306cb2b53fec14bb20e2f4e5d6cf",
+      "title": "Băng rừng đưa hàng cứu trợ cho hơn 1.000 người bị cô lập",
+      "link": "https://vnexpress.net/bang-rung-dua-hang-cuu-tro-cho-hon-1-000-nguoi-bi-co-lap-4953192.html",
+      "summary": "Chính quyền xã Nga My (Nghệ An) băng rừng, lội suối mang lương thực tiếp tế cho hơn 1.000 người ở hai bản Na Kho và Na Ngân đang bị cô lập do mưa lũ cuốn trôi cầu và đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:12:50+07:00",
+      "fetched": "2025-10-19T17:15:13.567107+07:00"
+    },
+    {
+      "id": "11d7f56f21732e0ff7324a1d5ebbd461",
+      "title": "Người Gaza sốc trước cảnh hoang tàn 'như vụ nổ bom hạt nhân'",
+      "link": "https://vnexpress.net/nguoi-gaza-soc-truoc-canh-hoang-tan-nhu-vu-no-bom-hat-nhan-4953181.html",
+      "summary": "Hàng chục nghìn người Palestine trở về miền bắc Gaza với hy vọng tái thiết cuộc sống, nhưng điều chờ họ là những khu phố tan hoang, nhà cửa đổ nát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:11:54+07:00",
+      "fetched": "2025-10-19T17:15:13.567270+07:00"
+    },
+    {
+      "id": "11d7f56f21732e0ff7324a1d5ebbd461",
+      "title": "Người Gaza sốc trước cảnh hoang tàn 'như vụ nổ bom hạt nhân'",
+      "link": "https://vnexpress.net/nguoi-gaza-soc-truoc-canh-hoang-tan-nhu-vu-no-bom-hat-nhan-4953181.html",
+      "summary": "Hàng chục nghìn người Palestine trở về miền bắc Gaza với hy vọng tái thiết cuộc sống, nhưng điều chờ họ là những khu phố tan hoang, nhà cửa đổ nát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T09:11:54+07:00",
+      "fetched": "2025-10-19T17:15:19.358157+07:00"
+    },
+    {
+      "id": "48c8ca5b5a68fd47caf3e85056fc552a",
+      "title": "Nếu muốn tham gia vào nhóm nghiên cứu các dự án liên quan đến ứng dụng AI...",
+      "link": "https://thanhnien.vn/neu-muon-tham-gia-vao-nhom-nghien-cuu-cac-du-an-lien-quan-den-ung-dung-ai-185251019145442279.htm",
+      "summary": "Những người trẻ Việt Nam có kiến thức và đam mê về trí tuệ nhân tạo, có thể ứng tuyển tham gia vào các hoạt động nghiên cứu những dự án liên quan đến ứng dụng AI và được thụ hưởng nhiều quyền lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:07:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110796+07:00"
+    },
+    {
+      "id": "afe8eeb72567b5807914e1e85972352b",
+      "title": "Bão Fengshen tiến gần Biển Đông sau khi gây chết chóc ở Philippines",
+      "link": "https://thanhnien.vn/bao-fengshen-tien-gan-bien-dong-sau-khi-gay-chet-choc-o-philippines-185251019155404732.htm",
+      "summary": "Hãng AFP ngày 19.10 đưa tin bão Fengshen hướng về phía Biển Đông sau khi quét qua Philippines khiến một gia đình 5 người thiệt mạng trên đảo chính Luzon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:06:00+07:00",
+      "fetched": "2025-10-19T17:15:17.110940+07:00"
+    },
+    {
+      "id": "acb6a824d803ca2598834f8f340c30d1",
+      "title": "Tôi từ chối nhận đơn vì shipper 'găm hàng' nửa tháng",
+      "link": "https://vnexpress.net/toi-tu-choi-nhan-don-vi-shipper-gam-hang-nua-thang-4953171.html",
+      "summary": "Dù hệ thống thông báo đơn hàng của mình đã được chuyển đến bưu cục gần nhà, nhưng 16 ngày sau tôi mới thấy shipper giao đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:13.567429+07:00"
+    },
+    {
+      "id": "6bcfdb2fbe650f6a192d9bbf2633fa67",
+      "title": "Nhà vô địch Olympic bỏ qua 3 dấu hiệu cảnh báo ung thư vì tưởng bệnh vặt",
+      "link": "https://vnexpress.net/nha-vo-dich-olympic-bo-qua-3-dau-hieu-canh-bao-ung-thu-vi-tuong-benh-vat-4952924.html",
+      "summary": "Từng 7 lần giành huy chương Olympic và luôn tự tin thấu hiểu cơ thể, Shannon Miller vẫn không ngờ mình đã bỏ qua những dấu hiệu cảnh báo của bệnh ung thư buồng trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:13.567583+07:00"
+    },
+    {
+      "id": "3693a454e8af0a5a8b80eb9ed23dfd8a",
+      "title": "Di chuyển 1 que diêm nào để '18 - 5 = 21' đúng?",
+      "link": "https://vnexpress.net/di-chuyen-1-que-diem-nao-de-18-5-21-dung-4951764.html",
+      "summary": "Thử xem bạn thuộc team ra ngay trong 10 giây hay nhìn mãi vẫn thấy sai nha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:13.567747+07:00"
+    },
+    {
+      "id": "4580e4da830b612010e9c11728a93e5b",
+      "title": "Vì sao mắc mưa, lạnh dễ bị ho?",
+      "link": "https://vnexpress.net/vi-sao-mac-mua-lanh-de-bi-ho-4953036.html",
+      "summary": "Cứ gặp mưa, thời tiết lạnh, tôi sẽ bị ho, có phải ai cũng như vậy không? Tôi nên phòng thế nào? (Vũ Thắm, 45 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:13.567898+07:00"
+    },
+    {
+      "id": "6ef1332089baf14c6f5b550771fbc397",
+      "title": "Điểm nhấn giúp Limo Green chiếm ngồi đầu phân khúc MPV",
+      "link": "https://vnexpress.net/diem-nhan-giup-limo-green-chiem-ngoi-dau-phan-khuc-mpv-4947873.html",
+      "summary": "Limo Green thiết kế tối ưu cho mục đích kinh doanh vận tải hành khách, chi phí sạc năng lượng bằng 0 đến 6/2027, bán chạy nhất phân khúc tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:13.568072+07:00"
+    },
+    {
+      "id": "39e34dd492cacd63fc2cd8664cf0d3a6",
+      "title": "Xổ số miền Nam ngày 19 tháng 10 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-10-ket-qua-xo-so-hom-nay-chu-nhat-185251019152647769.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 19 tháng 10; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 19.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:17.111118+07:00"
+    },
+    {
+      "id": "e6efcd4557f57fbb82a1365cd2a05862",
+      "title": "Áo khoác dáng ngắn, món đồ tôn dáng sành điệu nhất đường phố thu đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-dang-ngan-mon-do-ton-dang-sanh-dieu-nhat-duong-pho-thu-dong-185251009112119257.htm",
+      "summary": "Áo khoác dáng ngắn là kiểu áo khoác 'must have' của mọi cô gái. Thiết kế thông minh này giúp hình dáng tổng thể của trang phục có tỷ lệ cân đối và hài hòa hơn. Nhờ vậy mọi bản phối cùng áo khoác dáng ngắn đều trở nên sành điệu và hợp mốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T09:00:00+07:00",
+      "fetched": "2025-10-19T17:15:17.111275+07:00"
+    },
+    {
+      "id": "07cd170d25562363025594b87f8dcd57",
+      "title": "Nghệ sĩ Ái Như hạnh phúc khi lần đầu đóng chính",
+      "link": "https://vnexpress.net/nghe-si-ai-nhu-hanh-phuc-khi-lan-dau-dong-chinh-4953125.html",
+      "summary": "Nghệ sĩ Ái Như nói xúc động khi có vai chính điện ảnh đầu tiên ở tuổi 65, sau hơn 10 năm dồn tâm sức cho sân khấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:57:51+07:00",
+      "fetched": "2025-10-19T17:15:13.568234+07:00"
+    },
+    {
+      "id": "9e759508a005c13dc6398f8c00999746",
+      "title": "Nâng niu từng điểm chạm cùng sân bay Quốc tế Đà Nẵng",
+      "link": "https://thanhnien.vn/nang-niu-tung-diem-cham-cung-san-bay-quoc-te-da-nang-185251019160030313.htm",
+      "summary": "Là một trong những cửa ngõ ra thế giới quan trọng của Việt Nam, sân bay Quốc tế Đà Nẵng luôn nỗ lực nâng cao chất lượng dịch vụ và trải nghiệm của hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:56:00+07:00",
+      "fetched": "2025-10-19T17:15:17.111423+07:00"
+    },
+    {
+      "id": "656ba65b15fa4abf73ff48616e312d9a",
+      "title": "Angelina Jolie diện váy lộ hình xăm hổ",
+      "link": "https://vnexpress.net/angelina-jolie-dien-vay-lo-hinh-xam-ho-4953186.html",
+      "summary": "Diễn viên Angelina Jolie gây chú ý khi diện trang phục hở trọn phần lưng, để lộ nhiều hình xăm lớn như hổ Bengal, kinh Phật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:54:04+07:00",
+      "fetched": "2025-10-19T17:15:13.568384+07:00"
+    },
+    {
+      "id": "4aae6a2fa135dbd132ed9593bd2dd536",
+      "title": "Ẩn hoạ ma tuý 'núp bóng' đồ uống",
+      "link": "https://vnexpress.net/an-hoa-ma-tuy-nup-bong-do-uong-4953185.html",
+      "summary": "Trước tình trạng ma túy ngày càng \"ngụy trang tinh vi\" trong đồ uống, bánh kẹo, thuốc lá điện tử nhắm đến học sinh, Bộ Công an tổ chức cuộc thi trường học không ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:39:44+07:00",
+      "fetched": "2025-10-19T17:15:13.568480+07:00"
+    },
+    {
+      "id": "d3b15cb36939fec0db84022e5f75ba83",
+      "title": "Người đàn ông lên rừng bẻ măng nghi bị voi giẫm chết",
+      "link": "https://vnexpress.net/nguoi-dan-ong-len-rung-be-mang-nghi-bi-voi-giam-chet-4953170.html",
+      "summary": "Người đàn ông 66 tuổi trú xã Đắk Wil (huyện Cư Jút, Đắk Nông cũ) được phát hiện chết trong rừng sau khi đi hái măng, cạnh đó có nhiều dấu vết giống chân voi giẫm đạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:37:54+07:00",
+      "fetched": "2025-10-19T17:15:13.568644+07:00"
+    },
+    {
+      "id": "1ff30a3d2d934b60eb8412300df61a34",
+      "title": "Tuyển nữ Việt Nam vào bảng khó tại SEA Games 33",
+      "link": "https://vnexpress.net/tuyen-nu-viet-nam-vao-bang-kho-tai-sea-games-33-4953189.html",
+      "summary": "Thầy trò HLV Mai Đức Chung gặp hai đối thủ khó nhằn ở bảng B, sau lễ bốc thăm bóng đá nữ SEA Games 33 diễn ra tại Thái Lan, trưa 19/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T08:28:24+07:00",
+      "fetched": "2025-10-19T17:15:27.198218+07:00"
+    },
+    {
       "id": "538d0c885ee60222cfe155d23d5df4f0",
       "title": "Thời tiết hôm nay 19-10: Biển Đông đón bão số 12, Trung Bộ mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-10-bien-dong-don-bao-so-12-trung-bo-mua-to-2025101816232162.htm",
@@ -721,6 +1211,16 @@ window.newsData_2025_10_19 = {
       "category": "Thể thao",
       "published": "2025-10-19T07:24:29+07:00",
       "fetched": "2025-10-19T15:19:14.082044+07:00"
+    },
+    {
+      "id": "e7379c3604cf43fccc3d4ec8b3d288ae",
+      "title": "Khởi công sân vận động lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-4953162.html",
+      "summary": "Bộ Công an khởi công xây dựng sân PVF đa năng với sức chứa 60.000 chỗ ngồi, được xem là biểu tượng mới của thể thao Việt Nam, sáng 19/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T07:24:29+07:00",
+      "fetched": "2025-10-19T17:15:27.198387+07:00"
     },
     {
       "id": "b94253853801d3906595eb3842a9a8b4",
