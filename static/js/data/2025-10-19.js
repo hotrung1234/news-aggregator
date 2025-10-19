@@ -1,7 +1,77 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T10:13:38.679233+07:00",
+  "lastUpdated": "2025-10-19T11:20:20.182524+07:00",
   "articles": [
+    {
+      "id": "b0f92770c7039b690ad1931f7f017812",
+      "title": "Ngày Phụ nữ Việt Nam 20-10: Nhiều nơi trang hoàng rực rỡ, đa dạng dịch vụ",
+      "link": "https://tuoitre.vn/ngay-phu-nu-viet-nam-20-10-nhieu-noi-trang-hoang-ruc-ro-da-dang-dich-vu-20251019093026196.htm",
+      "summary": "Theo ghi nhận từ các hệ thống bán lẻ ở TP.HCM, thị trường quà tặng dịp 20-10 năm nay tăng 10-15% so với cùng kỳ. Những dịch vụ như massage cho nữ cũng đắt hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.516530+07:00",
+      "fetched": "2025-10-19T11:20:10.516645+07:00"
+    },
+    {
+      "id": "10569bb03f3e144df123450c66062752",
+      "title": "Doanh nghiệp liên quan sản phẩm Ngân Collagen quảng cáo đồng loạt giải thể",
+      "link": "https://tuoitre.vn/doanh-nghiep-lien-quan-san-pham-ngan-collagen-quang-cao-dong-loat-giai-the-20251019100208153.htm",
+      "summary": "Công ty TNHH Hoàng Châu Pharm, Công ty TNHH BEQUEN đều đã có thông báo giải thể doanh nghiệp với lý do kinh doanh không hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.516402+07:00",
+      "fetched": "2025-10-19T11:20:10.516518+07:00"
+    },
+    {
+      "id": "9e9fcb216af6a1a9411e1f34504e9835",
+      "title": "Cục CSGT: Phát hiện 3.829 lái xe có cồn trong ngày đầu cao điểm, sẽ làm liên tục kể cả ngày nghỉ",
+      "link": "https://tuoitre.vn/cuc-csgt-phat-hien-3-829-lai-xe-co-con-trong-ngay-dau-cao-diem-se-lam-lien-tuc-ke-ca-ngay-nghi-20251019092324158.htm",
+      "summary": "Trong ngày đầu thực hiện đợt kiểm soát nồng độ cồn một thời điểm trên toàn quốc, cảnh sát phát hiện 3.829 trường hợp vi phạm. Cục trưởng Cục Cảnh sát giao thông nhận định đây là con số đáng báo động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.516268+07:00",
+      "fetched": "2025-10-19T11:20:10.516389+07:00"
+    },
+    {
+      "id": "0fa01fe3282ffd13ea2f8f452335bf77",
+      "title": "Seoul mở rộng mô hình ‘sân chơi cho người cao tuổi’",
+      "link": "https://tuoitre.vn/seoul-mo-rong-mo-hinh-san-choi-cho-nguoi-cao-tuoi-20251019100848777.htm",
+      "summary": "Khoảng 20% dân Seoul trên 65 tuổi, chính quyền sẽ mở rộng các “sân chơi” dành cho người cao tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.516122+07:00",
+      "fetched": "2025-10-19T11:20:10.516255+07:00"
+    },
+    {
+      "id": "815850ae3fa269ec2f197c0e02a54e2b",
+      "title": "Hàng chục ngàn người đến Vietnam Phở Festival, người Singapore quá mê phở Việt",
+      "link": "https://tuoitre.vn/hang-chuc-ngan-nguoi-den-vietnam-pho-festival-nguoi-singapore-qua-me-pho-viet-202510190801516.htm",
+      "summary": "Hàng chục ngàn người có mặt tại Vietnam Phở Festival và thưởng thức phở cũng như trải nghiệm các món ăn Việt Nam khác trong ngày đầu tiên 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.515990+07:00",
+      "fetched": "2025-10-19T11:20:10.516110+07:00"
+    },
+    {
+      "id": "7420cc8221dd4cdd4a520a19415865ed",
+      "title": "Mở nắp két nước làm mát ô tô sai cách, cô gái gặp tai nạn đau đớn",
+      "link": "https://tuoitre.vn/mo-nap-ket-nuoc-lam-mat-o-to-sai-cach-co-gai-gap-tai-nan-dau-don-20251018172145399.htm",
+      "summary": "Một phụ nữ đã có một bài học đau đớn về việc tự bảo dưỡng ô tô sau khi cố gắng kiểm tra két nước làm mát và gây ra một vụ nổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.515848+07:00",
+      "fetched": "2025-10-19T11:20:10.515977+07:00"
+    },
+    {
+      "id": "be58587ab855ba6d37183361ef7768c2",
+      "title": "Những lời chúc 20-10 'thả thính cực dính' tặng vợ, tặng mẹ",
+      "link": "https://tuoitre.vn/nhung-loi-chuc-20-10-tha-thinh-cuc-dinh-tang-vo-tang-me-20251009120411263.htm",
+      "summary": "Tuổi Trẻ Online mời bạn đọc tham khảo những lời chúc 20-10 ý nghĩa dành cho mẹ, cô giáo, vợ và người yêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T11:20:10.515626+07:00",
+      "fetched": "2025-10-19T11:20:10.515834+07:00"
+    },
     {
       "id": "8a42dea5f88c5927b55f953f9b9e4eaf",
       "title": "Vì sao mức giảm trừ gia cảnh mới lại áp dụng từ năm 2026?",
@@ -303,6 +373,146 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T08:23:07.374011+07:00"
     },
     {
+      "id": "10724412d16b05e8162b18daead75fc6",
+      "title": "Trước thềm 20.10: Bất ngờ ở chợ hoa lớn nhất TP.HCM, hoa hồng Sophia 'cháy hàng'",
+      "link": "https://thanhnien.vn/truoc-them-2010-bat-ngo-o-cho-hoa-lon-nhat-tphcm-hoa-hong-sophia-chay-hang-18525101909243834.htm",
+      "summary": "Sáng nay, chợ hoa Hồ Thị Kỷ, được xem là chợ hoa lớn nhất TP.HCM rực rỡ dịp 20.10. Một số người đến đây mua hoa rất bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:15:00+07:00",
+      "fetched": "2025-10-19T11:20:09.540784+07:00"
+    },
+    {
+      "id": "e5a4257cec3c0f83cc43963a9080f835",
+      "title": "Không nhận ra O Hồng trong phim 'Mưa đỏ'",
+      "link": "https://thanhnien.vn/khong-nhan-ra-o-hong-trong-phim-mua-do-185251019104845891.htm",
+      "summary": "Khác với hình ảnh giản dị của O Hồng trong phim 'Mưa đỏ', diễn viên Hạ Anh có màn thay đổi ấn tượng trong bộ ảnh vừa trình làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:05:00+07:00",
+      "fetched": "2025-10-19T11:20:09.540952+07:00"
+    },
+    {
+      "id": "2a648a2bf1ad85a143083b992fc2b52d",
+      "title": "Một ngày thực hiện mệnh lệnh của cục trưởng, CSGT toàn quốc xử lý 3.829 'ma men'",
+      "link": "https://thanhnien.vn/mot-ngay-thuc-hien-menh-lenh-cua-cuc-truong-csgt-toan-quoc-xu-ly-3829-ma-men-185251019094749887.htm",
+      "summary": "Thực hiện mệnh lệnh kiểm tra chuyên đề nồng độ cồn trong cùng 1 thời điểm trên toàn quốc của Cục trưởng Cục CSGT (Bộ Công an), lực lượng CSGT toàn quốc đã kiểm soát đối với hơn 111.000 tài xế, qua đó phát hiện, xử lý 3.829 trường hợp vi phạm nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:04:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541110+07:00"
+    },
+    {
+      "id": "8d27687487d3850c9c2bf2c8cd3dc257",
+      "title": "XEM NHANH 12H: Bão Fengshen còn mạnh thêm | Thực hư vụ '28 triệu đồng cho 2 giờ hát karaoke'",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bao-fengshen-con-manh-them-thuc-hu-vu-28-trieu-dong-cho-2-gio-hat-karaoke-185251019104948528.htm",
+      "summary": "Bão số 12, thực hư vụ '28 triệu đồng cho 2 giờ hát karaoke', giá vàng… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 19.10.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:00:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541292+07:00"
+    },
+    {
+      "id": "335f6713fb60b71b0f5e0b5cabd7daf9",
+      "title": "Nữ y sĩ đầu tư 1 tỉ đồng mở rộng 2.000 mét vuông đất trồng rau…",
+      "link": "https://thanhnien.vn/nu-y-si-dau-tu-1-ti-dong-mo-rong-2000-met-vuong-dat-trong-rau-185251019092727543.htm",
+      "summary": "Ứng dụng công nghệ số vào mô hình trồng rau sạch, chị Nguyễn Thị Cẩm Nhung (32 tuổi, ngụ P.Sóc Trăng, TP.Cần Thơ - trước đây là P.5, TP.Sóc Trăng, Sóc Trăng) thu nhập hơn 20 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:00:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541455+07:00"
+    },
+    {
+      "id": "85783eef611f9ddb0a041944fbb12d81",
+      "title": "Danh sách giao lộ ở TP.HCM nơi camera AI bắt lỗi rẽ trái khi đèn đỏ",
+      "link": "https://thanhnien.vn/danh-sach-giao-lo-o-tphcm-noi-camera-ai-bat-loi-re-trai-khi-den-do-185251018211536935.htm",
+      "summary": "Camera AI của CSGT TP.HCM phát hiện được khoảng 20 lỗi vi phạm thường gặp. Hàng loạt người có thói quen rẽ trái khi đèn đỏ ở đường một chiều đã bị camera AI này 'tóm gọn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:00:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541614+07:00"
+    },
+    {
+      "id": "12e834328040ca5407f173b7aa8c0d5e",
+      "title": "Một thập kỷ cay đắng của Man Utd tại Anfield",
+      "link": "https://vnexpress.net/mot-thap-ky-cay-dang-cua-man-utd-tai-anfield-4953068.html",
+      "summary": "Kể từ chiến thắng dưới thời Louis van Gaal hồi tháng 1/2016, Man Utd toàn hòa và thua khi làm khách của Liverpool ở Ngoại hạng Anh - chuỗi trận kéo dài gần 10 năm, phản ánh rõ khoảng cách giữa hai kình địch lớn nhất bóng đá Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T04:00:00+07:00",
+      "fetched": "2025-10-19T11:20:20.175032+07:00"
+    },
+    {
+      "id": "ec50478d229ba34c654d0b59df252aa3",
+      "title": "Minh Khoa ghi bàn và kiến tạo, đội tuyển Việt Nam có thêm ý tưởng tấn công",
+      "link": "https://thanhnien.vn/minh-khoa-ghi-ban-va-kien-tao-doi-tuyen-viet-nam-co-them-y-tuong-tan-cong-185251018231243908.htm",
+      "summary": "Minh Khoa tỏa sáng ngày trở lại bằng bàn thắng và kiến tạo xuất sắc giúp Becamex TP.HCM đánh bại đối thủ mạnh Nam Định. HLV Kim Sang-sik sẽ có thêm ý tưởng tấn công cho đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:55:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541769+07:00"
+    },
+    {
+      "id": "8e91ca8eb8987fdd43c389715f734589",
+      "title": "97% phụ nữ bổ sung collagen đúng cách da căng sáng trẻ hơn chục tuổi là thật!",
+      "link": "https://thanhnien.vn/97-phu-nu-bo-sung-collagen-dung-cach-da-cang-sang-tre-hon-chuc-tuoi-la-that-185251019105620142.htm",
+      "summary": "Nếu trước đây phụ nữ chỉ quan tâm đến kem chống nắng hay serum chống lão hóa, thì giờ đây, collagen mới là ‘chìa khóa vàng’ được nhắc đến nhiều trong hành trình giữ gìn tuổi xuân. Và có đến 97% phụ nữ khi bổ sung collagen đúng cách đều nhận thấy da căng sáng, đàn hồi và trẻ trung hơn cả chục tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:43:00+07:00",
+      "fetched": "2025-10-19T11:20:09.541920+07:00"
+    },
+    {
+      "id": "ac0b1d16ac5420a4ef427d7230583b37",
+      "title": "Đảng cầm quyền Nhật Bản tìm được đối tác, bà Takaichi lại sáng cửa thành thủ tướng",
+      "link": "https://thanhnien.vn/dang-cam-quyen-nhat-ban-tim-duoc-doi-tac-ba-takaichi-lai-sang-cua-thanh-thu-tuong-185251019103853181.htm",
+      "summary": "Đảng Dân chủ tự do (LDP) cầm quyền tại Nhật Bản đã đạt thỏa thuận lập chính phủ cùng đảng Đổi mới Nhật Bản (JIP), mở đường cho bà Takaichi Sanae trở thành nữ thủ tướng đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:40:00+07:00",
+      "fetched": "2025-10-19T11:20:09.542073+07:00"
+    },
+    {
+      "id": "440a4dd1bcdcd6a667975a195289bf72",
+      "title": "Thế Giới Di Động, Chứng khoán Quốc gia chi tiền tỉ gom cổ phiếu",
+      "link": "https://thanhnien.vn/the-gioi-di-dong-chung-khoan-quoc-gia-chi-tien-ti-gom-co-phieu-185251019082027255.htm",
+      "summary": "Một số doanh nghiệp và lãnh đạo công ty như Thế giới Di động, Công ty Chứng khoán Quốc gia chi tiền tỉ mua vào cổ phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:33:00+07:00",
+      "fetched": "2025-10-19T11:20:09.542223+07:00"
+    },
+    {
+      "id": "c1cbe1136c92d991257e552048089689",
+      "title": "Top 3 kem dưỡng mắt giảm quầng thâm, lấp đầy nếp nhăn đỉnh, top đầu chứa Retinol",
+      "link": "https://thanhnien.vn/top-3-kem-duong-mat-giam-quang-tham-lap-day-nep-nhan-dinh-top-dau-chua-retinol-185251019102855417.htm",
+      "summary": "Vùng da quanh mắt thâm quầng, bọng mắt, nếp nhăn... sẽ tố cáo sự già nua, mệt mỏi của bạn rõ nét. Vậy nên, sử dụng kem dưỡng mắt chuyên biệt là điều bắt buộc. Nhưng kem dưỡng mắt nào vừa hiệu quả mà lành tính, không gây kích ứng. Bởi vùng da quanh mắt cực mỏng và nhạy cảm nên rất dễ kích ứng. Tìm hi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:18:00+07:00",
+      "fetched": "2025-10-19T11:20:09.542398+07:00"
+    },
+    {
+      "id": "a9e52c039509c294c81afd3a1a616c5e",
+      "title": "Giá đất Cần Giờ tăng gấp 2-3 lần sau một năm",
+      "link": "https://vnexpress.net/gia-dat-can-gio-tang-gap-2-3-lan-sau-mot-nam-4952704.html",
+      "summary": "Hiệu ứng từ Khu đô thị lấn biển Cần Giờ khởi công cùng làn sóng găm hàng đang khiến giá đất Cần Giờ tăng 30-60% trong một quý và gấp 2 lần trong gần một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:09:00+07:00",
+      "fetched": "2025-10-19T11:19:56.905129+07:00"
+    },
+    {
+      "id": "b26f66d8ff1c82dcfc0e5f2c8b5cbf65",
+      "title": "Tôi bất lực vì nhóm người kéo loa thể dục, pickleball từ sáng đến đêm",
+      "link": "https://vnexpress.net/toi-bat-luc-vi-nhom-nguoi-keo-loa-the-duc-pickleball-tu-sang-den-dem-4953120.html",
+      "summary": "Nhiều người mang cả loa thùng ra tập thể dục, khiêu vũ từ 5h30 sáng; các nhóm chơi Pickleball thì bất kể giờ nào, gần nửa đêm vẫn hò hét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:07:57+07:00",
+      "fetched": "2025-10-19T11:19:56.905337+07:00"
+    },
+    {
       "id": "ea82ce9e034dc1c2eefc6bfbc9383d04",
       "title": "Kim Thư bật khóc nhắc về biến cố, tiết lộ mối quan hệ với Phước Sang",
       "link": "https://thanhnien.vn/kim-thu-bat-khoc-nhac-ve-bien-co-tiet-lo-moi-quan-he-voi-phuoc-sang-185251019075918168.htm",
@@ -373,6 +583,36 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T10:13:26.505867+07:00"
     },
     {
+      "id": "dc3eb4092b324a7a0cefb9bbd5ce1d04",
+      "title": "Ba 'mỹ vị nhân gian' nhất định phải thử ở Hong Kong",
+      "link": "https://vnexpress.net/ba-my-vi-nhan-gian-nhat-dinh-phai-thu-o-hong-kong-4952980.html",
+      "summary": "Du khách dễ bị thu hút bởi mùi vịt quay khi dạo bước trên những con phố ở Hong Kong vào chiều tối mùa thu, khi tiết trời mát mẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:00:00+07:00",
+      "fetched": "2025-10-19T11:19:56.905509+07:00"
+    },
+    {
+      "id": "4cafe8fc1fcc649a7542a1792d9f3425",
+      "title": "Từ gì để nguyên là nhà, thêm huyền tóc trắng, bạc râu?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-gi-de-nguyen-la-nha-them-huyen-toc-trang-bac-rau-4952525.html",
+      "summary": "Một câu đố nhỏ nhưng “có võ”, khiến người nghe vừa ngẩn ngơ, vừa bật cười trước sự kỳ diệu và tinh nghịch của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:00:00+07:00",
+      "fetched": "2025-10-19T11:19:56.905678+07:00"
+    },
+    {
+      "id": "8e10d204136e07e41e35eb383bfccf2f",
+      "title": "Những điểm ăn uống bình dân ở Nhật Bản",
+      "link": "https://vnexpress.net/nhung-diem-an-uong-binh-dan-o-nhat-ban-4952487.html",
+      "summary": "Cửa hàng tiện lợi, khu chợ, quầy thức ăn ngoài trời, tầng hầm các tòa nhà, quán nhậu Izayaka là những điểm ăn uống giá cả phải chăng ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T03:00:00+07:00",
+      "fetched": "2025-10-19T11:19:56.905842+07:00"
+    },
+    {
       "id": "48ad702b8a46327b185b26a35466ea53",
       "title": "Những rắc rối tiềm ẩn khi dùng hub USB",
       "link": "https://thanhnien.vn/nhung-rac-roi-tiem-an-khi-dung-hub-usb-185251018211131449.htm",
@@ -391,6 +631,16 @@ window.newsData_2025_10_19 = {
       "category": "Thế giới",
       "published": "2025-10-19T02:52:32+07:00",
       "fetched": "2025-10-19T10:13:31.830530+07:00"
+    },
+    {
+      "id": "f0809836b4e31e7f3f5af1bfd91b229e",
+      "title": "Liên Bỉnh Phát: Hãnh diện mặc áo dài nhận cúp Thị đế",
+      "link": "https://vnexpress.net/lien-binh-phat-hanh-dien-mac-ao-dai-nhan-cup-thi-de-4953109.html",
+      "summary": "Diễn viên Liên Bỉnh Phát nói tự hào khi mặc Việt phục nhận giải Nam diễn viên chính xuất sắc tại giải Kim Chung, Đài Loan (Trung Quốc).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T02:46:08+07:00",
+      "fetched": "2025-10-19T11:19:56.906158+07:00"
     },
     {
       "id": "0ec31587e328d4d58103412daeea2e5f",
