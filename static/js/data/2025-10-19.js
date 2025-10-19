@@ -1,7 +1,157 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T05:14:15.618558+07:00",
+  "lastUpdated": "2025-10-19T08:23:13.983362+07:00",
   "articles": [
+    {
+      "id": "538d0c885ee60222cfe155d23d5df4f0",
+      "title": "Thời tiết hôm nay 19-10: Biển Đông đón bão số 12, Trung Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-10-bien-dong-don-bao-so-12-trung-bo-mua-to-2025101816232162.htm",
+      "summary": "Hôm nay 19-10, bão Fengshen sẽ vào Biển Đông thành cơn bão số 12, trên đất liền thời tiết Trung Bộ có nơi mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375799+07:00",
+      "fetched": "2025-10-19T08:23:07.375922+07:00"
+    },
+    {
+      "id": "706b415491117b631a708b128a12e301",
+      "title": "Mạch sống trong con: Chàng trai sống sót từ quả thận mẹ hiến",
+      "link": "https://tuoitre.vn/mach-song-trong-con-chang-trai-song-sot-tu-qua-than-me-hien-20251018214643454.htm",
+      "summary": "Sáu năm qua - một quãng đời không dài nhưng với Thanh, đó là cả hành trình giành giật sự sống. Và hơn hết, đó là sáu năm mang trong mình một phần cơ thể của mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375666+07:00",
+      "fetched": "2025-10-19T08:23:07.375787+07:00"
+    },
+    {
+      "id": "5e498ddcc4f5bc68a1445cbdc75af382",
+      "title": "Trật tự giao thông mới từ khi có camera AI",
+      "link": "https://tuoitre.vn/trat-tu-giao-thong-moi-tu-khi-co-camera-ai-20251018220254202.htm",
+      "summary": "Hệ thống camera bắt lỗi chính xác đến từng centimet sẽ dần thay đổi ý thức chấp hành giao thông của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375537+07:00",
+      "fetched": "2025-10-19T08:23:07.375655+07:00"
+    },
+    {
+      "id": "0504f7cc0bc41fec46d2f6153298cf10",
+      "title": "Tin tức sáng 19-10: Bà Đỗ Thị Thu Thảo là tân Chủ tịch Trung ương Hội Chữ thập đỏ Việt Nam",
+      "link": "https://tuoitre.vn/tin-tuc-sang-19-10-ba-do-thi-thu-thao-la-tan-chu-tich-trung-uong-hoi-chu-thap-do-viet-nam-20251018224742487.htm",
+      "summary": "Tin tức đáng chú ý: Bà Đỗ Thị Thu Thảo là tân Chủ tịch Trung ương Hội Chữ thập đỏ Việt Nam, sau 7 tháng hội thiếu người nắm giữ vị trí này; Quy hoạch thủy lợi lưu vực sông Cửu Long thành các vùng sinh thái...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375410+07:00",
+      "fetched": "2025-10-19T08:23:07.375522+07:00"
+    },
+    {
+      "id": "69d8fe04680e887eb22f7443e750336b",
+      "title": "Lung linh Lễ hội Ánh sáng Diwali giữa TP.HCM",
+      "link": "https://tuoitre.vn/lung-linh-le-hoi-anh-sang-diwali-giua-tp-hcm-20251018234508501.htm",
+      "summary": "Lễ hội Ánh sáng Diwali là dịp sum họp cho cộng đồng người Ấn Độ tại TP và điểm hẹn văn hóa cùng bạn bè Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375280+07:00",
+      "fetched": "2025-10-19T08:23:07.375398+07:00"
+    },
+    {
+      "id": "1caee26769e4833ebabb57145686a7c3",
+      "title": "Arsenal lại thắng bằng phạt góc, giữ vững ngôi đầu Premier League",
+      "link": "https://tuoitre.vn/arsenal-lai-thang-bang-phat-goc-giu-vung-ngoi-dau-premier-league-20251019015519998.htm",
+      "summary": "Arsenal đánh bại Fulham 1-0 ở vòng 8 Giải ngoại hạng Anh (Premier League) để củng cố vững chắc ngôi đầu bảng tối 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.375121+07:00",
+      "fetched": "2025-10-19T08:23:07.375267+07:00"
+    },
+    {
+      "id": "36c266692e3c9c467a4ec46345866cef",
+      "title": "Văn hóa dân gian là văn hóa gốc, văn hóa mẹ",
+      "link": "https://tuoitre.vn/van-hoa-dan-gian-la-van-hoa-goc-van-hoa-me-2025101821561053.htm",
+      "summary": "Văn nghệ sĩ nếu biết khai thác \"văn hóa mẹ\" này vào sáng tạo chuyên nghiệp của mình thì có thể nhận được hiệu quả rất lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374971+07:00",
+      "fetched": "2025-10-19T08:23:07.375108+07:00"
+    },
+    {
+      "id": "00e8c4f0c328480ead5c52e5f5dcd274",
+      "title": "Tưng bừng khai mạc Những ngày Văn học - Nghệ thuật TP.HCM",
+      "link": "https://tuoitre.vn/tung-bung-khai-mac-nhung-ngay-van-hoc-nghe-thuat-tp-hcm-20251018150848179.htm",
+      "summary": "Tối 18-10, lễ khai mạc Những ngày Văn học - Nghệ thuật TP.HCM diễn ra tại Nhà văn hóa Thanh niên. Trong chương trình, ban tổ chức tuyên dương 50 tác phẩm văn học nghệ thuật tiêu biểu TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374843+07:00",
+      "fetched": "2025-10-19T08:23:07.374959+07:00"
+    },
+    {
+      "id": "fc6d94e1abedcee7c38aae2d4bd2bd21",
+      "title": "Nghệ sĩ cải lương Trường Sơn rất lửa với Lý Đạo Thành, hỗ trợ con gái Lê Thanh Thảo",
+      "link": "https://tuoitre.vn/nghe-si-cai-luong-truong-son-rat-lua-voi-ly-dao-thanh-ho-tro-con-gai-le-thanh-thao-20251019032858593.htm",
+      "summary": "Tối 18-10, khán giả vỗ tay không dứt khi nghệ sĩ cải lương tuồng cổ kỳ cựu Trường Sơn xuất hiện trong chương trình Tâm hoa nghiệp tổ của con gái út Lê Thanh Thảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374714+07:00",
+      "fetched": "2025-10-19T08:23:07.374832+07:00"
+    },
+    {
+      "id": "dd2c820868daef1c220c6fd257d952ea",
+      "title": "Người đẹp Philippines đăng quang Miss Grand International 2025, Yến Nhi trắng tay",
+      "link": "https://tuoitre.vn/nguoi-dep-philippines-dang-quang-miss-grand-international-2025-yen-nhi-trang-tay-20251018125419448.htm",
+      "summary": "Sau 20 ngày chinh chiến, đại diện Việt Nam - Nguyễn Thị Yến Nhi chính thức trượt top 22 Miss Grand International 2025. Ngôi vị cao nhất thuộc về người đẹp Emma Tiglao đến từ Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374586+07:00",
+      "fetched": "2025-10-19T08:23:07.374702+07:00"
+    },
+    {
+      "id": "a20132732b564804e8a66ef16908c000",
+      "title": "Live stage 2 Anh trai say hi không loại ai; Trấn Thành bảo đàn ông không khóc rất khổ",
+      "link": "https://tuoitre.vn/live-stage-2-anh-trai-say-hi-khong-loai-ai-tran-thanh-bao-dan-ong-khong-khoc-rat-kho-2025101902254508.htm",
+      "summary": "Khi MC Trấn Thành công bố 6 tên bị loại sau Live stage 2 Anh trai say hi, những giọt nước mắt rơi, lời tâm sự, gửi gắm nghẹn ngào trao nhau. Nhưng cuối cùng, không ai bị loại ở vòng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374458+07:00",
+      "fetched": "2025-10-19T08:23:07.374575+07:00"
+    },
+    {
+      "id": "acae993151a73a197c8192a7b18569a1",
+      "title": "(S)TRONG Trọng Hiếu hóa 'thầy giáo khó tính' trong Tân binh toàn năng",
+      "link": "https://tuoitre.vn/s-trong-trong-hieu-hoa-thay-giao-kho-tinh-trong-tan-binh-toan-nang-20251018232129904.htm",
+      "summary": "(S)TRONG Trọng Hiếu bất ngờ xuất hiện trong tập 3 Tân binh toàn năng với vai trò khách mời. Tại đây, anh chia sẻ nhiều kinh nghiệm, giúp các tân binh tự tin hơn trong vòng công diễn 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374326+07:00",
+      "fetched": "2025-10-19T08:23:07.374446+07:00"
+    },
+    {
+      "id": "234a38400395a7437d15e46c1094d20f",
+      "title": "Phong cách thời trang mùa thu của Victoria Beckham",
+      "link": "https://tuoitre.vn/phong-cach-thoi-trang-mua-thu-cua-victoria-beckham-20251018111634972.htm",
+      "summary": "Từ đầm hồng pastel dịu dàng, chân váy midi mềm mại đến bộ suit quyền lực, Victoria Beckham đang truyền cảm hứng cho xu hướng thời trang mùa thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374192+07:00",
+      "fetched": "2025-10-19T08:23:07.374314+07:00"
+    },
+    {
+      "id": "1ef6bfe97a0ddb522755ce7c7c1739ff",
+      "title": "Arc hay nhất của One Piece không phải Marineford",
+      "link": "https://tuoitre.vn/arc-hay-nhat-cua-one-piece-khong-phai-marineford-20251017161454579.htm",
+      "summary": "Từ lâu, các fan One Piece đã liên tục tranh luận xem arc (tuyến truyện) nào của One Piece là hay nhất, Marineford hay Enies Lobby, tuy nhiên, câu trả lời có thể nằm ở chuyến phiêu lưu ít ai ngờ nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.374026+07:00",
+      "fetched": "2025-10-19T08:23:07.374178+07:00"
+    },
+    {
+      "id": "bd3e757f42bdc82a7d3285ecc89e67ab",
+      "title": "Sinh tháng 1-1998, đến nay còn tuổi đi nghĩa vụ quân sự không?",
+      "link": "https://tuoitre.vn/sinh-thang-1-1998-den-nay-con-tuoi-di-nghia-vu-quan-su-khong-20251012231909723.htm",
+      "summary": "Con trai tôi sinh ngày 12-1-1998, đến nay đã 27 tuổi. Vậy không thuộc diện gọi đi nghĩa vụ quân sự năm 2026 đúng không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:23:07.373804+07:00",
+      "fetched": "2025-10-19T08:23:07.374011+07:00"
+    },
     {
       "id": "80815122e1c287488dc471671912945c",
       "title": "Tổng Bí thư Tô Lâm: Văn phòng Trung ương cần đóng vai trò 'nhạc trưởng'",
@@ -153,6 +303,396 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T01:20:46.503779+07:00"
     },
     {
+      "id": "b0878b9dca0e9e454b23d492e59fda16",
+      "title": "Ông Trump đăng video bắn nổ 'tàu ngầm chở ma túy' ngoài khơi Venezuela",
+      "link": "https://vnexpress.net/ong-trump-dang-video-ban-no-tau-ngam-cho-ma-tuy-ngoai-khoi-venezuela-4953087.html",
+      "summary": "Ông Trump thông báo Mỹ đã phá hủy một \"tàu ngầm chở ma túy\", hạ hai người và đưa hai người sống sót về quốc gia của họ để truy tố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T01:14:13+07:00",
+      "fetched": "2025-10-19T08:23:08.923833+07:00"
+    },
+    {
+      "id": "f813389bc11acc37804529e798cd21d5",
+      "title": "Khi HLV Harry Kewell dám 'thay máu' CLB Hà Nội tận gốc rễ",
+      "link": "https://thanhnien.vn/khi-hlv-harry-kewell-dam-thay-mau-clb-ha-noi-tan-goc-re-185251019074036118.htm",
+      "summary": "Xếp đội trưởng Văn Quyết ngồi dự bị, cải tiến lối chơi theo hướng trực diện và chủ động, dứt điểm áp đảo đội đầu bảng Ninh Bình, đó là những gì CLB Hà Nội đã làm trong ngày HLV Harry Kewell chào sân V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:14:00+07:00",
+      "fetched": "2025-10-19T08:23:03.532809+07:00"
+    },
+    {
+      "id": "31b600dbe566dacb5d31bfe25197c7ce",
+      "title": "Vì sao giọng nói được coi là 'dấu vân tay âm thanh'?",
+      "link": "https://thanhnien.vn/vi-sao-giong-noi-duoc-coi-la-dau-van-tay-am-thanh-18525101819195149.htm",
+      "summary": "Giọng nói là 'đặc điểm sinh trắc học duy nhất' của mỗi cá nhân. Không có hai người nào có giọng hoàn toàn giống nhau, kể cả sinh đôi cùng trứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:14:00+07:00",
+      "fetched": "2025-10-19T08:23:03.532978+07:00"
+    },
+    {
+      "id": "15577c6318b8a6903c507716a074a489",
+      "title": "Messi ghi hat-trick lập kỷ lục bóng đá Mỹ, siêu phẩm của Ronaldo cũng chào thua",
+      "link": "https://thanhnien.vn/messi-ghi-hat-trick-lap-ky-luc-bong-da-my-sieu-pham-cua-ronaldo-cung-chao-thua-185251019081138563.htm",
+      "summary": "Sáng 19.10 (giờ Việt Nam), Messi ghi cú hat-trick ngoạn mục để lập kỷ lục lịch sử bóng đá Mỹ giúp Inter Miami thắng đậm Nashville SC tỷ số 5-2 trong trận cuối vòng tính điểm MLS. Qua đó, làm lu mờ bàn thắng siêu phẩm của Ronaldo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:13:00+07:00",
+      "fetched": "2025-10-19T08:23:03.533156+07:00"
+    },
+    {
+      "id": "62b277bb4e96ce373b0b4d0647ccc977",
+      "title": "Hàng triệu người biểu tình trên khắp nước Mỹ",
+      "link": "https://thanhnien.vn/hang-trieu-nguoi-bieu-tinh-tren-khap-nuoc-my-185251019080258005.htm",
+      "summary": "Ước tính có đến 2.700 cuộc tuần hành diễn ra trên khắp 50 tiểu bang ở Mỹ, với hàng triệu người xuống đường trong ngày 18.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:11:00+07:00",
+      "fetched": "2025-10-19T08:23:03.533309+07:00"
+    },
+    {
+      "id": "e4cd9c1bf2e24d16c0e87773f5c158f2",
+      "title": "Google Maps mang đến cải tiến thú vị cho người lái xe",
+      "link": "https://thanhnien.vn/google-maps-mang-den-cai-tien-thu-vi-cho-nguoi-lai-xe-185251018171945375.htm",
+      "summary": "Google Maps đã cập nhật tính năng cho phép người dùng thay đổi biểu tượng vị trí của mình thành hình ảnh xe của họ, từ hatchback thể thao đến xe bán tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:09:00+07:00",
+      "fetched": "2025-10-19T08:23:03.533460+07:00"
+    },
+    {
+      "id": "bec50910780c66de78e9a58343dd4c61",
+      "title": "Giá USD hôm nay 19.10.2025: Giảm suốt tuần, ngược chiều euro và bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-19102025-giam-suot-tuan-nguoc-chieu-euro-va-bang-anh-185251019071808903.htm",
+      "summary": "Giá USD tiếp tục đi xuống trong tuần khi các ngoại tệ khác như euro, bảng Anh... tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:06:00+07:00",
+      "fetched": "2025-10-19T08:23:03.533617+07:00"
+    },
+    {
+      "id": "47b0ebaa894f1dfd4e559fe6440e12d0",
+      "title": "Gemini 3.0 có thể tạo ra iOS và Windows giả lập chỉ bằng một câu lệnh?",
+      "link": "https://thanhnien.vn/gemini-30-co-the-tao-ra-ios-va-windows-gia-lap-chi-bang-mot-cau-lenh-185251018185044089.htm",
+      "summary": "Theo thông tin chưa được xác nhận, Google dự kiến sẽ phát hành phiên bản Gemini 3.0 vào ngày 22.10 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:06:00+07:00",
+      "fetched": "2025-10-19T08:23:03.533766+07:00"
+    },
+    {
+      "id": "ad4a6da3ba23edeaa3fc7d09b3ff59ec",
+      "title": "Con thèm tiếng mẹ ru nôi - Thơ của Hoàng Thân",
+      "link": "https://thanhnien.vn/con-them-tieng-me-ru-noi-tho-cua-hoang-than-185251018183228246.htm",
+      "summary": "Chạn buồnthương cả nồi niêuBếp buồnthương cả khói chiềuvào không",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:05:00+07:00",
+      "fetched": "2025-10-19T08:23:05.065380+07:00"
+    },
+    {
+      "id": "49be0ce1bd1a0a9fe28048c31ab929f1",
+      "title": "Trung du - Thơ của Đinh Lê Vũ",
+      "link": "https://thanhnien.vn/trung-du-tho-cua-dinh-le-vu-185251018182946653.htm",
+      "summary": "Nơi em sốngMở mắt ra thấy núi, thấy rừngBuổi sáng trong veoVì những tiếng chim…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:05:00+07:00",
+      "fetched": "2025-10-19T08:23:06.501557+07:00"
+    },
+    {
+      "id": "28c4893bf3757fe3c5a86f6ee2d3b00a",
+      "title": "Hôm nay bão Fengshen vào Biển Đông, không khí lạnh tràn xuống miền Bắc",
+      "link": "https://thanhnien.vn/hom-nay-bao-fengshen-vao-bien-dong-khong-khi-lanh-tran-xuong-mien-bac-185251019072643814.htm",
+      "summary": "Dự báo chiều tối nay 19.10, bão Fengshen đi vào Biển Đông. Không khí lạnh đang áp sát biên giới phía bắc, trưa nay bắt đầu ảnh hưởng đến các tỉnh khu vực phía đông bắc Bắc bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:04:00+07:00",
+      "fetched": "2025-10-19T08:23:06.501962+07:00"
+    },
+    {
+      "id": "b905cf8dd953c5229017ab42ff99f7d0",
+      "title": "CEO Starbucks: 'AI tương lai sẽ đoán trước được đơn hàng'",
+      "link": "https://vnexpress.net/ceo-starbucks-ai-tuong-lai-se-doan-truoc-duoc-don-hang-4952933.html",
+      "summary": "Brian Niccol, CEO Starbucks, xác nhận đang dùng AI hỗ trợ nhân viên và nêu viễn cảnh AI dự đoán món trước khi khách hàng đặt đơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.135414+07:00"
+    },
+    {
+      "id": "a04d84a5603a3fe71ccd8b65f2aa78e5",
+      "title": "Cá trê 'yêu tinh' xuất hiện trong vườn",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ca-tre-yeu-tinh-xuat-hien-trong-vuon-4952619.html",
+      "summary": "Cặp cá trê khổng lồ ghé thăm khu vườn, mỗi con dài gần 1 mét, tung tăng đi lại khiến gia chủ ngỡ là yêu tinh hiện hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.135592+07:00"
+    },
+    {
+      "id": "f5a7b84e4e52c6baf13ff5d21a5f1385",
+      "title": "Thủ phủ nội thất Mỹ bất an với đòn thuế của ông Trump",
+      "link": "https://vnexpress.net/thu-phu-noi-that-my-bat-an-voi-don-thue-cua-ong-trump-4951467.html",
+      "summary": "Tổng thống Trump tung đòn thuế quan với mục tiêu đưa sản xuất trở lại Mỹ, nhưng nỗ lực này lại khiến \"thủ phủ nội thất\" Bắc Carolina lao đao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.135756+07:00"
+    },
+    {
+      "id": "9625eb9cf001439a8fd8af6b8fda954d",
+      "title": "Doanh nghiệp đề xuất tăng gấp 10 lần sinh viên ngành AI",
+      "link": "https://vnexpress.net/doanh-nghiep-de-xuat-tang-gap-10-lan-sinh-vien-nganh-ai-4953018.html",
+      "summary": "Để phát triển và thu hút doanh nghiệp AI ở Việt Nam, quy mô sinh viên ngành này cần đông gấp 10 lần hiện nay, theo lãnh đạo Tập đoàn công nghệ TMA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.135923+07:00"
+    },
+    {
+      "id": "53eea8efe8858fad9d0785161883f114",
+      "title": "VinFast có đối tác mới tại châu Âu",
+      "link": "https://vnexpress.net/vinfast-co-doi-tac-moi-tai-chau-au-4953081.html",
+      "summary": "VinFast ký hợp tác nhà phân phối Loret Group, hướng đến mở rộng mạng lưới bán hàng và tối ưu hiệu quả vận hành, hôm 16/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136105+07:00"
+    },
+    {
+      "id": "66d494a5c0ea122f6f81f6acff08d2cb",
+      "title": "Tiêm botox lâu dài có gây hại không?",
+      "link": "https://vnexpress.net/tiem-botox-lau-dai-co-gay-hai-khong-4953059.html",
+      "summary": "Tôi 28 tuổi, đã tiêm botox thon gọn hàm 6 lần trong hai năm qua. Gần đây, tôi thấy cơ hàm hơi yếu, không biết tiêm lâu dài có ảnh hưởng gì đến cơ mặt hay việc nhai không? (Vân Anh, An Giang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136285+07:00"
+    },
+    {
+      "id": "c3cfba48de9f82256ae397341443c1ba",
+      "title": "Vặn người 'răng rắc' có nguy hiểm không?",
+      "link": "https://vnexpress.net/van-nguoi-rang-rac-co-nguy-hiem-khong-4953057.html",
+      "summary": "Tôi thường vặn người khi ngồi lâu cho đỡ mỏi nhưng gần đây cột sống phát ra tiếng kêu răng rắc ngày càng lớn, có nguy hiểm không? (Nguyễn Huy, Đồng Tháp)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136446+07:00"
+    },
+    {
+      "id": "707f8eb705c4b467561c3d6f37c8e245",
+      "title": "An Gia Solar triển khai mô hình đầu tư điện mặt trời 0 đồng",
+      "link": "https://vnexpress.net/an-gia-solar-trien-khai-mo-hinh-dau-tu-dien-mat-troi-0-dong-4953044.html",
+      "summary": "An Gia Solar phối hợp cùng Shinhan Finance triển khai mô hình điện mặt trời \"0 đồng đầu tư ban đầu\", giúp hộ gia đình tiết kiệm chi phí điện và góp phần thúc đẩy mục tiêu chuyển đổi xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136601+07:00"
+    },
+    {
+      "id": "dedf23339d69dadcc28a5cc49bf8fe7c",
+      "title": "Honda Việt Nam vinh danh nhân viên dịch vụ khách hàng xuất sắc",
+      "link": "https://vnexpress.net/honda-viet-nam-vinh-danh-nhan-vien-dich-vu-khach-hang-xuat-sac-4953034.html",
+      "summary": "15 nhân viên đạt giải trong hội thi Nhân viên Dịch vụ khách hàng xuất sắc của Công ty Honda Việt Nam, được trao thưởng hôm 17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136755+07:00"
+    },
+    {
+      "id": "659fa67e20e5f3cfa615d0a23d00aa3b",
+      "title": "Bị tăng huyết áp nhẹ có cần dùng thuốc?",
+      "link": "https://vnexpress.net/bi-tang-huyet-ap-nhe-co-can-dung-thuoc-4952990.html",
+      "summary": "Tôi khám sức khỏe phát hiện huyết áp tăng nhẹ khoảng 135/85 mmHg, mức này có cần dùng thuốc không, lưu ý gì? (Tấn Đạt, 45 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.136909+07:00"
+    },
+    {
+      "id": "d28e79aceac77154c1d4281140313149",
+      "title": "Nghệ có giúp hạ men gan?",
+      "link": "https://vnexpress.net/nghe-co-giup-ha-men-gan-4952877.html",
+      "summary": "Tôi bị men gan cao, uống nghệ có thể hạ chỉ số men gan không, nên dùng thế nào? (Thanh Bình, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.137062+07:00"
+    },
+    {
+      "id": "c1ac34d8d8b644e9f90565d27afa3ecc",
+      "title": "90% thí sinh trượt bằng lái sau khi nâng cấp phần mềm lý thuyết",
+      "link": "https://vnexpress.net/90-thi-sinh-truot-bang-lai-sau-khi-nang-cap-phan-mem-ly-thuyet-4951013.html",
+      "summary": "Những thay đổi gồm câu hỏi dài hơn, các lựa chọn bị lặp lại, và cứ sau 2-3 câu hỏi, một mã captcha lại xuất hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:22:58.137243+07:00"
+    },
+    {
+      "id": "944494defda9e644395439c7b5bbbef1",
+      "title": "FC Mobile Việt Nam đạt TOP 1 App Store, Google Play sau hơn 48 giờ ra mắt",
+      "link": "https://thanhnien.vn/fc-mobile-viet-nam-dat-top-1-app-store-google-play-sau-hon-48-gio-ra-mat-185251018213423869.htm",
+      "summary": "Chỉ trong vòng hơn 48 giờ sau khi chính thức ra mắt, EA SPORTS™ FC Mobile Việt Nam đã nhanh chóng nằm ngay ở vị trí TOP 1 trên bảng xếp hạng game miễn phí của cả App Store và Google Play.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:06.502145+07:00"
+    },
+    {
+      "id": "439f6484fa802b6543614e79a0323844",
+      "title": "Từng sợ không có tiền đi học, nay nhận học bổng hơn 600 triệu đồng",
+      "link": "https://thanhnien.vn/tung-so-khong-co-tien-di-hoc-nay-nhan-hoc-bong-hon-600-trieu-dong-185251018194343315.htm",
+      "summary": "Cuối chương trình trao học bổng Nghị lực mùa thi 2025 diễn ra ngày 17.10 tại tòa soạn Báo Thanh Niên, bà Trần Thị Xem cứ nắm chặt lấy tay tôi, vỡ òa vì xúc động khi 2 đứa cháu nội không chỉ được viết tiếp ước mơ vào giảng đường mà cuộc đời của 3 bà cháu cũng sang một trang đời mới nhờ học bổng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:06.502301+07:00"
+    },
+    {
+      "id": "1aaec897df8be9e25e40ac65ba12b20f",
+      "title": "Nhàn đàm: Ký ức... bờ rào",
+      "link": "https://thanhnien.vn/nhan-dam-ky-uc-bo-rao-185251018182605622.htm",
+      "summary": "Phòng trọ bên trong khu công nghiệp có mấy công nhân trẻ. Họ rời quê, đầu quân vào nhà máy chế biến thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:06.502450+07:00"
+    },
+    {
+      "id": "c7606407ef2dcfe5b95d276b19f9ba99",
+      "title": "Đầm dự tiệc tối giản nhưng vẫn cuốn hút, trẻ trung",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-du-tiec-toi-gian-nhung-van-cuon-hut-tre-trung-185251010170444856.htm",
+      "summary": "Dù không phải là quý cô tiệc tùng nhưng mỗi cô gái đều cần sở hữu một vài thiết kế đầm dự tiệc để sử dụng ngay khi cần thiết. Những thiết kế tối giản là lựa chọn phù hợp khi nàng ưu tiên cho vẻ ngoài cuốn hút, trẻ trung nhưng vẫn linh động và giàu tính sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:06.502603+07:00"
+    },
+    {
+      "id": "f5a7b84e4e52c6baf13ff5d21a5f1385",
+      "title": "Thủ phủ nội thất Mỹ bất an với đòn thuế của ông Trump",
+      "link": "https://vnexpress.net/thu-phu-noi-that-my-bat-an-voi-don-thue-cua-ong-trump-4951467.html",
+      "summary": "Tổng thống Trump tung đòn thuế quan với mục tiêu đưa sản xuất trở lại Mỹ, nhưng nỗ lực này lại khiến \"thủ phủ nội thất\" Bắc Carolina lao đao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:08.924006+07:00"
+    },
+    {
+      "id": "b905cf8dd953c5229017ab42ff99f7d0",
+      "title": "CEO Starbucks: 'AI tương lai sẽ đoán trước được đơn hàng'",
+      "link": "https://vnexpress.net/ceo-starbucks-ai-tuong-lai-se-doan-truoc-duoc-don-hang-4952933.html",
+      "summary": "Brian Niccol, CEO Starbucks, xác nhận đang dùng AI hỗ trợ nhân viên và nêu viễn cảnh AI dự đoán món trước khi khách hàng đặt đơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-19T01:00:00+07:00",
+      "fetched": "2025-10-19T08:23:12.907526+07:00"
+    },
+    {
+      "id": "26ed200de1553f6bd52b1cf554867161",
+      "title": "Giá vàng hôm nay 19.10.2025: Vàng nhẫn tăng 18 triệu đồng trong tuần",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-19102025-vang-nhan-tang-18-trieu-dong-trong-tuan-185251019071552358.htm",
+      "summary": "Giá vàng tăng cao trong tuần cả trên thế giới lẫn trong nước khi nhà đầu tư vẫn tiếp tục đổ tiền vào tài sản trú ẩn an toàn này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T00:54:00+07:00",
+      "fetched": "2025-10-19T08:23:06.502752+07:00"
+    },
+    {
+      "id": "f69277b20ba1f0d8a6c629a19d433eeb",
+      "title": "Greenwood ghi 4 bàn, Marseille chiếm đỉnh bảng Ligue 1",
+      "link": "https://vnexpress.net/greenwood-ghi-4-ban-marseille-chiem-dinh-bang-ligue-1-4953088.html",
+      "summary": "Tiền đạo Mason Greenwood ghi 4 bàn giúp Marseille vùi dập Le Havre 6-2 ở vòng 8 để vượt qua PSG, dẫn đầu bảng Ligue 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T00:53:20+07:00",
+      "fetched": "2025-10-19T08:22:58.137401+07:00"
+    },
+    {
+      "id": "f69277b20ba1f0d8a6c629a19d433eeb",
+      "title": "Greenwood ghi 4 bàn, Marseille chiếm đỉnh bảng Ligue 1",
+      "link": "https://vnexpress.net/greenwood-ghi-4-ban-marseille-chiem-dinh-bang-ligue-1-4953088.html",
+      "summary": "Tiền đạo Mason Greenwood ghi 4 bàn giúp Marseille vùi dập Le Havre 6-2 ở vòng 8 để vượt qua PSG, dẫn đầu bảng Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T00:53:20+07:00",
+      "fetched": "2025-10-19T08:23:13.978104+07:00"
+    },
+    {
+      "id": "6b6d3b2be56fc871813415313d79e88a",
+      "title": "Messi chạm một tay vào ngôi Vua phá lưới MLS",
+      "link": "https://vnexpress.net/messi-cham-mot-tay-vao-ngoi-vua-pha-luoi-mls-4953086.html",
+      "summary": "Hat-trick trong trận Inter Miami thắng SC Nashville 5-2 giúp Lionel Messi tiến gần tới danh hiệu Vua phá lưới MLS đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T00:51:00+07:00",
+      "fetched": "2025-10-19T08:22:58.137553+07:00"
+    },
+    {
+      "id": "6b6d3b2be56fc871813415313d79e88a",
+      "title": "Messi chạm một tay vào ngôi Vua phá lưới MLS",
+      "link": "https://vnexpress.net/messi-cham-mot-tay-vao-ngoi-vua-pha-luoi-mls-4953086.html",
+      "summary": "Hat-trick trong trận Inter Miami thắng SC Nashville 5-2 giúp Lionel Messi tiến gần tới danh hiệu Vua phá lưới MLS đầu tiên.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T00:51:00+07:00",
+      "fetched": "2025-10-19T08:23:13.978262+07:00"
+    },
+    {
+      "id": "b4463ba8f7f06d778b995d2f184f813a",
+      "title": "HLV Harry Kewell: 'Hà Nội FC chơi đẹp, nhưng không may'",
+      "link": "https://vnexpress.net/hlv-harry-kewell-ha-noi-fc-choi-dep-nhung-khong-may-4953053.html",
+      "summary": "HLV Harry Kewell tiếc nuối khi Hà Nội FC thua Ninh Bình 1-2 ở trận ra mắt, nhưng tin rằng đội bóng đang đi đúng hướng và cần làm việc chăm chỉ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T00:03:00+07:00",
+      "fetched": "2025-10-19T08:22:58.137714+07:00"
+    },
+    {
+      "id": "b4463ba8f7f06d778b995d2f184f813a",
+      "title": "HLV Harry Kewell: 'Hà Nội FC chơi đẹp, nhưng không may'",
+      "link": "https://vnexpress.net/hlv-harry-kewell-ha-noi-fc-choi-dep-nhung-khong-may-4953053.html",
+      "summary": "HLV Harry Kewell tiếc nuối khi Hà Nội FC thua Ninh Bình 1-2 ở trận ra mắt, nhưng tin rằng đội bóng đang đi đúng hướng và cần làm việc chăm chỉ hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T00:03:00+07:00",
+      "fetched": "2025-10-19T08:23:13.978416+07:00"
+    },
+    {
+      "id": "5192efb4daaecb603d428fc213fdf45a",
+      "title": "iPhone gập có thể trễ hẹn ra mắt năm 2026",
+      "link": "https://vnexpress.net/iphone-gap-co-the-tre-hen-ra-mat-nam-2026-4952795.html",
+      "summary": "Mẫu iPhone gập đầu tiên được cho là không thể trình làng cuối 2026 do Apple cần thêm thời gian để quyết định về thiết kế và thông số kỹ thuật của phần bản lề.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-19T00:00:00+07:00",
+      "fetched": "2025-10-19T08:23:12.907860+07:00"
+    },
+    {
+      "id": "93f204478f4de1b261d60d97fc8bc5e7",
+      "title": "Hàng triệu người biểu tình khắp nước Mỹ phản đối ông Trump",
+      "link": "https://vnexpress.net/hang-trieu-nguoi-bieu-tinh-khap-nuoc-my-phan-doi-ong-trump-4953085.html",
+      "summary": "Hàng triệu người tham gia các cuộc biểu tình ôn hòa trên khắp nước Mỹ để phản đối một số chính sách của Tổng thống Donald Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T23:58:40+07:00",
+      "fetched": "2025-10-19T08:23:08.924185+07:00"
+    },
+    {
+      "id": "a3ec11b90867d19d4dec827ed3aa432d",
+      "title": "EU có thể dùng tài sản Nga để mua vũ khí cho Ukraine",
+      "link": "https://vnexpress.net/eu-co-the-dung-tai-san-nga-de-mua-vu-khi-cho-ukraine-4952875.html",
+      "summary": "EU đề xuất dùng tài sản Nga bị đóng băng tại Bỉ để tạo khoản vay 163 tỷ USD nhằm mua sắm vũ khí cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T23:51:32+07:00",
+      "fetched": "2025-10-19T08:23:08.924342+07:00"
+    },
+    {
       "id": "b618b99a31ebd0c64f4ca48b74c45792",
       "title": "Ngày ra trận của những kẻ cùng khổ: HAGL khó thắng, Thanh Hóa liệu có thoát thua?",
       "link": "https://thanhnien.vn/ngay-ra-tran-cua-nhung-ke-cung-kho-hagl-kho-thang-thanh-hoa-lieu-co-thoat-thua-185251018221714446.htm",
@@ -221,6 +761,16 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-18T22:00:00+07:00",
       "fetched": "2025-10-19T05:14:07.154633+07:00"
+    },
+    {
+      "id": "493577c20db6c0e2bf6a46b713921d72",
+      "title": "Lý do ông Trump - Putin chọn họp thượng đỉnh ở Budapest",
+      "link": "https://vnexpress.net/ly-do-ong-trump-putin-chon-hop-thuong-dinh-o-budapest-4952779.html",
+      "summary": "Thủ đô Hungary được chọn làm nơi tổ chức hội nghị thượng đỉnh Nga - Mỹ lần hai bởi đây được coi là nơi phù hợp nhất về an ninh và chính trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T22:00:00+07:00",
+      "fetched": "2025-10-19T08:23:08.924496+07:00"
     },
     {
       "id": "9f41631b3247534e277f771b07d8ca5b",
@@ -451,6 +1001,16 @@ window.newsData_2025_10_19 = {
       "category": "Thể thao",
       "published": "2025-10-18T19:10:21+07:00",
       "fetched": "2025-10-19T03:16:17.178172+07:00"
+    },
+    {
+      "id": "5333e87134a21d237fe93c2f97211f8d",
+      "title": "Arsenal bỏ cách Liverpool 4 điểm",
+      "link": "https://vnexpress.net/arsenal-bo-cach-liverpool-4-diem-4953073.html",
+      "summary": "Arsenal thắng chủ nhà Fulham 1-0 ở vòng 8 để củng cố đỉnh bảng Ngoại hạng Anh và gây áp lực lên Liverpool - đội sẽ gặp Man Utd hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-18T19:10:21+07:00",
+      "fetched": "2025-10-19T08:23:13.977934+07:00"
     },
     {
       "id": "9ca2536cd646bf687a59f94d70b5131c",
