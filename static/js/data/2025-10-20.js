@@ -1,7 +1,27 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T01:21:07.552934+07:00",
+  "lastUpdated": "2025-10-20T03:17:15.320909+07:00",
   "articles": [
+    {
+      "id": "4da0bb2fa7527945944e755fccc74cd9",
+      "title": "Tài xế vi phạm nồng độ cồn ở TP.HCM: ‘Rút kinh nghiệm, cho dù uống 1 lon cũng không tự lái xe về’",
+      "link": "https://tuoitre.vn/tai-xe-vi-pham-nong-do-con-o-tp-hcm-rut-kinh-nghiem-cho-du-uong-1-lon-cung-khong-tu-lai-xe-ve-20251020000034267.htm",
+      "summary": "Tối 19-10, nhiều trường hợp vi phạm nồng độ cồn bị lực lượng cảnh sát giao thông TP.HCM kiểm tra, xử lý. Nhiều người viện các lý do khác nhau để biện minh cho hành vi vi phạm của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:17:09.719262+07:00",
+      "fetched": "2025-10-20T03:17:09.719394+07:00"
+    },
+    {
+      "id": "62665ed2f4a294c7d60296b118629c41",
+      "title": "Tay vợt Trung Quốc thua ê chề ở 2 trận chung kết cầu lông",
+      "link": "https://tuoitre.vn/tay-vot-trung-quoc-thua-e-che-o-2-tran-chung-ket-cau-long-20251019232705506.htm",
+      "summary": "Dù hiện diện ở cả hai trận chung kết đơn nam lẫn đơn nữ Giải cầu lông Đan Mạch mở rộng 2025, Trung Quốc lại không thể giành được chiến thắng nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:17:09.718999+07:00",
+      "fetched": "2025-10-20T03:17:09.719246+07:00"
+    },
     {
       "id": "2b3f7787d9393b279246d9c7916e5a75",
       "title": "Hai tuyển thủ U23 Việt Nam tỏa sáng giúp PVF-CAND cầm chân Thanh Hóa",
@@ -151,6 +171,36 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T01:21:01.843429+07:00",
       "fetched": "2025-10-20T01:21:01.843636+07:00"
+    },
+    {
+      "id": "ce4351351ee9431ffa9cf025c06eec72",
+      "title": "Tottenham thua ngược trên sân nhà",
+      "link": "https://vnexpress.net/tottenham-thua-nguoc-tren-san-nha-4953283.html",
+      "summary": "Dẫn trước ngay phút thứ 5, nhưng Tottenham vẫn thua Aston Villa 1-2 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T20:04:27+07:00",
+      "fetched": "2025-10-20T03:17:15.316087+07:00"
+    },
+    {
+      "id": "d7c9a8cf3b4eb9e3ac111e5b140ecb23",
+      "title": "Bạn nhảy hoàn hảo của Phan Hiển",
+      "link": "https://thanhnien.vn/ban-nhay-hoan-hao-cua-phan-hien-185251019211918541.htm",
+      "summary": "Kiện tướng dancesport Đặng Thu Hương, chủ nhân tấm HCĐ giải vô địch thế giới World Showdance Latin 2025 (cùng bạn nhảy Phan Hiển) kỳ vọng sẽ lọt tốp 24 thế giới trước khi giải nghệ vào cuối năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T19:59:00+07:00",
+      "fetched": "2025-10-20T03:17:08.681827+07:00"
+    },
+    {
+      "id": "a99018f2dd2208bc78c09d9b206a95cc",
+      "title": "8 món không nên ăn uống khi bụng đói",
+      "link": "https://vnexpress.net/8-mon-khong-nen-an-uong-khi-bung-doi-4952829.html",
+      "summary": "Sử dụng cà phê, quả họ cam quýt, sữa chua, nước có gas... khi đói dễ gây rối loạn tiêu hóa, thừa axit dạ dày, chướng bụng đầy hơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T19:00:00+07:00",
+      "fetched": "2025-10-20T03:17:04.564474+07:00"
     },
     {
       "id": "253ab7df3109ae4180cba8784e61f835",
