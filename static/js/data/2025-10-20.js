@@ -1,7 +1,157 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T17:18:52.370014+07:00",
+  "lastUpdated": "2025-10-20T19:35:36.099742+07:00",
   "articles": [
+    {
+      "id": "99f38968117062cdfa564eae5168bd06",
+      "title": "Công an Thanh Hóa khuyến cáo phòng ngừa bạo lực học đường",
+      "link": "https://tuoitre.vn/cong-an-thanh-hoa-khuyen-cao-phong-ngua-bao-luc-hoc-duong-20251020170321415.htm",
+      "summary": "Công an Thanh Hóa cảnh báo bạo lực học đường diễn biến phức tạp, nguy hiểm tính mạng học sinh và khuyến cáo phòng ngừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.685612+07:00",
+      "fetched": "2025-10-20T19:35:30.685726+07:00"
+    },
+    {
+      "id": "fc8e97099d44fd6911cda3cddb20a49f",
+      "title": "Buôn lậu 250 ủng cao su và 405.000 bao thuốc lá ESSE, giám đốc người Hàn Quốc bị đề nghị truy tố",
+      "link": "https://tuoitre.vn/buon-lau-250-ung-cao-su-va-405-000-bao-thuoc-la-esse-giam-doc-nguoi-han-quoc-bi-de-nghi-truy-to-20251020171037281.htm",
+      "summary": "5 bị can Trần Ngọc Thùy Linh, Phạm Hữu Dũng, Nguyễn Thị Hoàng Mai, Kwon Chang Yeol, Trần Như Vũ bị truy tố về tội buôn lậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.685487+07:00",
+      "fetched": "2025-10-20T19:35:30.685600+07:00"
+    },
+    {
+      "id": "eb07e9a45bdf53e807af18a516188ff7",
+      "title": "Ukraine chuẩn bị mua 25 Patriot, nhập khẩu khí đốt kỷ lục để đối phó Nga",
+      "link": "https://tuoitre.vn/ukraine-chuan-bi-mua-25-patriot-nhap-khau-khi-dot-ky-luc-de-doi-pho-nga-20251020171633399.htm",
+      "summary": "Tổng thống Zelensky tuyên bố nước này đang khẩn trương tăng cường năng lực phòng thủ và đảm bảo an ninh năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.685358+07:00",
+      "fetched": "2025-10-20T19:35:30.685476+07:00"
+    },
+    {
+      "id": "97a7897b43ed5fb41b6e7d5fbc15e463",
+      "title": "Làm thêm 2 cống ngăn mặn dọc sông Tiền để bảo vệ vùng chuyên canh sầu riêng",
+      "link": "https://tuoitre.vn/lam-them-2-cong-ngan-man-doc-song-tien-de-bao-ve-vung-chuyen-canh-sau-rieng-20251020142640507.htm",
+      "summary": "Đồng Tháp khởi công hai cống ngăn mặn trên sông Tiền, dự kiến hoàn thành năm tới để bảo vệ vùng chuyên canh sầu riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.685199+07:00",
+      "fetched": "2025-10-20T19:35:30.685344+07:00"
+    },
+    {
+      "id": "fedc8255c6236105adbdd9fd15421e1e",
+      "title": "Đóng cống Tha La và một phần cống Trà Sư để bảo vệ lúa thu đông",
+      "link": "https://tuoitre.vn/dong-cong-tha-la-va-mot-phan-cong-tra-su-de-bao-ve-lua-thu-dong-20251020143115293.htm",
+      "summary": "Ngày 20-10, An Giang đóng cống Tha La và một phần Trà Sư để bảo vệ lúa vụ thu đông trước lũ dâng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.685070+07:00",
+      "fetched": "2025-10-20T19:35:30.685188+07:00"
+    },
+    {
+      "id": "e641c988259fd24c5542c9a8ef567ae2",
+      "title": "Chứng khoán Việt giảm kỷ lục giữa sắc xanh toàn châu Á: Chuyên gia giải mã",
+      "link": "https://tuoitre.vn/chung-khoan-viet-giam-ky-luc-giua-sac-xanh-toan-chau-a-chuyen-gia-giai-ma-20251020171456195.htm",
+      "summary": "Trong khi chứng khoán châu Á đồng loạt tăng, thị trường Việt Nam lại trải qua một phiên \"choáng váng\" với cú giảm điểm kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684919+07:00",
+      "fetched": "2025-10-20T19:35:30.685057+07:00"
+    },
+    {
+      "id": "6e825e9c2e6270cf438f6a1eeeecc983",
+      "title": "Điểm tin 18h: Khách đặt hoa tươi 20-10 giảm một nửa; Sét đánh trúng cổng trường",
+      "link": "https://tuoitre.vn/diem-tin-18h-khach-dat-hoa-tuoi-20-10-giam-mot-nua-set-danh-trung-cong-truong-20251020172337244.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 20-10-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684793+07:00",
+      "fetched": "2025-10-20T19:35:30.684908+07:00"
+    },
+    {
+      "id": "55deed26c29a9f772ccbdce7dd9141fb",
+      "title": "Mật vụ Mỹ phát hiện đài quan sát bí ẩn 'rình rập' chuyên cơ của ông Trump",
+      "link": "https://tuoitre.vn/mat-vu-my-phat-hien-dai-quan-sat-bi-an-rinh-rap-chuyen-co-cua-ong-trump-20251020174441536.htm",
+      "summary": "Cuộc điều tra đang được tiến hành làm rõ mục đích của đài quan sát này và khả năng liên quan đến âm mưu nhắm vào ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684665+07:00",
+      "fetched": "2025-10-20T19:35:30.684782+07:00"
+    },
+    {
+      "id": "e1685bb33688011988845fa9e43c2109",
+      "title": "Năng suất lao động Việt Nam chỉ bằng 11,2% Singapore, đối mặt bẫy thu nhập trung bình",
+      "link": "https://tuoitre.vn/nang-suat-lao-dong-viet-nam-chi-bang-11-2-singapore-doi-mat-bay-thu-nhap-trung-binh-20251020151606001.htm",
+      "summary": "Chiều 20-10, Phó Thủ tướng Hồ Đức Phớc trình bày trước Quốc hội báo cáo tổng kết công tác nhiệm kỳ 2021-2026 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684531+07:00",
+      "fetched": "2025-10-20T19:35:30.684654+07:00"
+    },
+    {
+      "id": "018c7cac5f2706e85dc2fbe3d02dfb21",
+      "title": "Hãng bay giá rẻ Singapore mở đường bay 3 chuyến/tuần đến Đà Nẵng",
+      "link": "https://tuoitre.vn/hang-bay-gia-re-singapore-mo-duong-bay-3-chuyen-tuan-den-da-nang-20251020175329487.htm",
+      "summary": "Chiều 20-10, chuyến bay đầu tiên chở 174 khách của Scoot Airlines từ Singapore hạ cánh xuống sân bay Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684402+07:00",
+      "fetched": "2025-10-20T19:35:30.684519+07:00"
+    },
+    {
+      "id": "9d58f4a2a277901a7038034989cb0384",
+      "title": "Nhập viện không có người thân, bệnh viện có được từ chối cấp cứu không?",
+      "link": "https://tuoitre.vn/nhap-vien-khong-co-nguoi-than-benh-vien-co-duoc-tu-choi-cap-cuu-khong-20251020174743322.htm",
+      "summary": "Nhiều nạn nhân tai nạn nhập viện nguy kịch không có người thân đi cùng, vậy bệnh viện tiếp nhận ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684273+07:00",
+      "fetched": "2025-10-20T19:35:30.684391+07:00"
+    },
+    {
+      "id": "26cd156cca7cd9e609a8f0a22ee9debf",
+      "title": "Vụ bếp ăn bán trú phát hiện trứng cút bốc mùi: Gần 200 học sinh nghỉ học, địa phương tìm phương án",
+      "link": "https://tuoitre.vn/vu-bep-an-ban-tru-phat-hien-trung-cut-boc-mui-gan-200-hoc-sinh-nghi-hoc-dia-phuong-tim-phuong-an-20251020173118673.htm",
+      "summary": "Sau khi phát hiện thực phẩm không đảm bảo an toàn tại bếp ăn bán trú của Trường tiểu học Cự Khê, ngày 20-10 đã có gần 200 học sinh nghỉ học. Địa phương đang đưa ra phương hướng để giải quyết, cung cấp bữa ăn trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.684137+07:00",
+      "fetched": "2025-10-20T19:35:30.684261+07:00"
+    },
+    {
+      "id": "6466336e7c59a124a765c4ee5cb1040f",
+      "title": "Nữ cán bộ chiến sĩ Quân khu 7 ‘trí tuệ, bản lĩnh, hậu phương vững chắc’",
+      "link": "https://tuoitre.vn/nu-can-bo-chien-si-quan-khu-7-tri-tue-ban-linh-hau-phuong-vung-chac-20251020180500571.htm",
+      "summary": "Chiều 20-10, Quân khu 7 kỷ niệm 95 năm Hội Liên hiệp phụ nữ Việt Nam và 15 năm Ngày Phụ nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.683976+07:00",
+      "fetched": "2025-10-20T19:35:30.684124+07:00"
+    },
+    {
+      "id": "b78908604be7d331d69a1bdb03578662",
+      "title": "Sinh viên tự làm quà gửi yêu thương đến các cô lao công ngày 20-10",
+      "link": "https://tuoitre.vn/sinh-vien-tu-lam-qua-gui-yeu-thuong-den-cac-co-lao-cong-ngay-20-10-2025102017121369.htm",
+      "summary": "Sinh viên tự làm quà gửi các cô lao công dịp 20-10 để tri ân những người đã giữ gìn khuôn viên trường sạch đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.683829+07:00",
+      "fetched": "2025-10-20T19:35:30.683964+07:00"
+    },
+    {
+      "id": "2c6e87b83080ea2c0300f1336728f56d",
+      "title": "Cùng là nhập tịch cầu thủ, Malaysia và Indonesia cần học hỏi người Morocco",
+      "link": "https://tuoitre.vn/cung-la-nhap-tich-cau-thu-malaysia-va-indonesia-can-hoc-hoi-nguoi-morocco-20251020171255373.htm",
+      "summary": "Với người Morocco, khoảnh khắc Hakimi ôm hôn mẹ sau trận thắng Tây Ban Nha World Cup 2022 đã trở thành hình ảnh lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T19:35:30.683598+07:00",
+      "fetched": "2025-10-20T19:35:30.683814+07:00"
+    },
     {
       "id": "7158a500bad202ea4726f02ec4b73924",
       "title": "Rào cản ngôn ngữ cản trở hệ thống tài chính Israel hội nhập quốc tế",
@@ -453,6 +603,186 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T13:25:56.033632+07:00"
     },
     {
+      "id": "65b3639033c12196fb53e8098ed886a6",
+      "title": "Hợp tác quảng bá du lịch sinh thái Phong Nha - Kè Bàng",
+      "link": "https://thanhnien.vn/hop-tac-quang-ba-du-lich-sinh-thai-phong-nha-ke-bang-185251020190650882.htm",
+      "summary": "Ngày 20.10, Ngân hàng UOB Việt Nam phối hợp cùng Oxalis Adventure dưới sự bảo trợ của Ban Quản lý Vườn quốc gia Phong Nha - Kẻ Bàng công bố hợp tác chiến lược quảng bá \"Vương quốc hang động - Vườn quốc gia Phong Nha - Kẻ Bàng\" và du lịch sinh thái tại Việt Nam đến các khách hàng của UOB tại 5 nước t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:33:00+07:00",
+      "fetched": "2025-10-20T19:35:29.791739+07:00"
+    },
+    {
+      "id": "8e9cbcfb26d9fff4d7005f8487debf76",
+      "title": "Nguyên nhân nào khiến pin điện thoại bốc cháy và phát nổ?",
+      "link": "https://thanhnien.vn/nguyen-nhan-nao-khien-pin-dien-thoai-boc-chay-va-phat-no-185251020151851088.htm",
+      "summary": "Gần đây, một sự cố đáng chú ý xảy ra với chiếc Pixel 10 Pro Fold khi pin của điện thoại phát nổ trong một bài kiểm tra độ bền do kênh YouTube Jerry Rig Everything thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:32:00+07:00",
+      "fetched": "2025-10-20T19:35:29.791922+07:00"
+    },
+    {
+      "id": "43ede0b2e1df702d4ef340c5d313577a",
+      "title": "Lý do cùng nhiều ứng dụng đồng loạt 'sập' toàn cầu",
+      "link": "https://thanhnien.vn/ly-do-cung-nhieu-ung-dung-dong-loat-sap-toan-cau-185251020191651462.htm",
+      "summary": "Dịch vụ đám mây Amazon Web Services (AWS) của Công ty Amazon gặp sự cố nghiêm trọng trong ngày 20.10, khiến hàng loạt ứng dụng không thể truy cập được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:31:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792107+07:00"
+    },
+    {
+      "id": "1a5cb9224a86f4e0feaf545e045f573b",
+      "title": "18.000 viên ma túy trong bao tải",
+      "link": "https://thanhnien.vn/18000-vien-ma-tuy-trong-bao-tai-185251020145435518.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Trị vừa bắt giữ một nghi phạm vận chuyển trái phép 18.000 viên ma túy bỏ trong bao tải ở khu vực biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:31:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792274+07:00"
+    },
+    {
+      "id": "7e738976ea3b5e02da26b1f42f8bb3c3",
+      "title": "Phiên chợ Từ Tâm ngày 20.10: Rộn ràng màu sắc, trọn vẹn nghĩa tình",
+      "link": "https://thanhnien.vn/phien-cho-tu-tam-ngay-2010-ron-rang-mau-sac-tron-ven-nghia-tinh-185251020142739046.htm",
+      "summary": "Chào mừng Ngày phụ nữ Việt Nam 20.10, Công đoàn Báo Thanh Niên tổ chức họp mặt chúc mừng đoàn viên, người lao động nữ và mở Phiên chợ Từ Tâm lần thứ 11 trọn vẹn nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:25:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792428+07:00"
+    },
+    {
+      "id": "5723b29f8c93bb81bf8aaa398f316110",
+      "title": "Hai giáo viên Việt Nam nhận giải thưởng Nhà giáo dục số",
+      "link": "https://thanhnien.vn/hai-giao-vien-viet-nam-nhan-giai-thuong-nha-giao-duc-so-185251020185859706.htm",
+      "summary": "Tại diễn đàn Năng lực công nghệ số khu vực châu Á 2025 được tổ chức ở Trung Quốc vừa qua, có 2 giáo viên Việt Nam nhận giải thưởng Nhà giáo dục số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:24:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792591+07:00"
+    },
+    {
+      "id": "bc055e8e71faa3fc62daa685716c18f2",
+      "title": "Uống ca cao nguyên chất: lợi ích kép cho tim và não",
+      "link": "https://thanhnien.vn/uong-ca-cao-nguyen-chat-loi-ich-kep-cho-tim-va-nao-185251018140503542.htm",
+      "summary": "Ca cao nguyên chất là loại ca cao không pha đường hoặc qua chế biến nhiều. Chúng không chỉ có hương vị thơm tự nhiên mà còn lưu giữ gần như nguyên vẹn các hợp chất sinh học có lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:20:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792749+07:00"
+    },
+    {
+      "id": "8867abbb0d010dae9de1bbdec283150f",
+      "title": "Nhu cầu lao động thời vụ tại Hàn Quốc tăng 41%, cơ hội cho lao động Việt",
+      "link": "https://thanhnien.vn/nhu-cau-lao-dong-thoi-vu-tai-han-quoc-tang-41-co-hoi-cho-lao-dong-viet-185251020185429339.htm",
+      "summary": "Nhu cầu tuyển dụng lao động thời vụ trong lĩnh vực nông nghiệp tại Hàn Quốc đang tăng cao. Tính đến tháng 9, có hơn 10.000 lượt lao động Việt Nam tại 16 tỉnh, thành phố sang làm việc thời vụ tại Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:18:00+07:00",
+      "fetched": "2025-10-20T19:35:29.792910+07:00"
+    },
+    {
+      "id": "93901c30870cf5cbd2948776976dc7fd",
+      "title": "Ông Zelensky sẵn sàng gặp ông Trump - Putin tại Hungary",
+      "link": "https://vnexpress.net/ong-zelensky-san-sang-gap-ong-trump-putin-tai-hungary-4953678.html",
+      "summary": "Tổng thống Ukraine nói sẵn sàng dự hội nghị thượng đỉnh của ông Trump và ông Putin tại Hungary nếu được mời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T12:12:42+07:00",
+      "fetched": "2025-10-20T19:35:31.550719+07:00"
+    },
+    {
+      "id": "c68687866fd0763bc27319f9aba39157",
+      "title": "Tiền đạo ‘khổng lồ’ 2,06 m của Nam Định bị đồn chấn thương nặng, sự thật là gì?",
+      "link": "https://thanhnien.vn/tien-dao-khong-lo-206-m-cua-nam-dinh-bi-don-chan-thuong-nang-su-that-la-gi-185251020185842561.htm",
+      "summary": "CLB Nam Định xác nhận đội bóng đang tổn thất lực lượng khá nặng khi một số nhân tố quan trọng dính chấn thương. Tuy nhiên, trong nhóm này không có Kyle Hudlin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:00:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793080+07:00"
+    },
+    {
+      "id": "0a29ff758abf816101f50fb10617f5a7",
+      "title": "BYD Seal 5 có gì hấp dẫn khách Việt vốn đang 'chán' xe sedan?",
+      "link": "https://thanhnien.vn/byd-seal-5-co-gi-hap-dan-khach-viet-von-dang-chan-xe-sedan-185251019151937411.htm",
+      "summary": "Định vị ở phân khúc sedan hạng C, BYD Seal 5 mang trên mình những điểm khác biệt về thiết kế, vận hành… được kỳ vọng có thể hấp dẫn khách hàng, tạo lợi thế cạnh tranh so với đối thủ cùng phân khúc vốn đang mất dần sức hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:00:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793234+07:00"
+    },
+    {
+      "id": "18196432deb750af987e52956fce464e",
+      "title": "Nhà ở xã hội tại Quảng Trị của Vingroup giá khoảng bao nhiêu mỗi căn?",
+      "link": "https://thanhnien.vn/nha-o-xa-hoi-tai-quang-tri-cua-vingroup-gia-khoang-bao-nhieu-moi-can-185251020183621091.htm",
+      "summary": "Mặc dù chưa chính thức mở bán nhưng một số người môi giới nhà ở xã hội thuộc dự án Khu đô thị thương mại - dịch vụ Nam Đông Hà của Vingroup đã dự kiến mức giá từ 1,1 tỉ đồng/căn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:59:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793398+07:00"
+    },
+    {
+      "id": "e550545b46016f2141cb55210e929d26",
+      "title": "Một nam sinh bị bắt quỳ liếm biển số xe máy",
+      "link": "https://thanhnien.vn/mot-nam-sinh-bi-bat-quy-liem-bien-so-xe-may-18525102018301308.htm",
+      "summary": "Một học sinh lớp 10 ở Sóc Sơn (Hà Nội) bị nhóm thanh thiếu niên đánh đập, bắt quỳ và thậm chí bắt liếm biển số xe máy, khiến dư luận hết sức phẫn nộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:58:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793548+07:00"
+    },
+    {
+      "id": "66c404620a42ead94f67af2baa144073",
+      "title": "Thách thức khi đưa người đi làm việc tại Hàn Quốc",
+      "link": "https://vnexpress.net/thach-thuc-khi-dua-nguoi-di-lam-viec-tai-han-quoc-4953538.html",
+      "summary": "Lao động hết hợp đồng không về nước đúng hạn, về nước khó tìm việc như ý trở thành những thách thức đưa người đi làm việc tại Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:55:47+07:00",
+      "fetched": "2025-10-20T19:35:26.782278+07:00"
+    },
+    {
+      "id": "f96302c864e446cb6200e59f78eb66f5",
+      "title": "Giá bất động sản Hà Nội, TP.HCM đắt đỏ thuộc top 8 thế giới",
+      "link": "https://thanhnien.vn/gia-bat-dong-san-ha-noi-tphcm-dat-do-thuoc-top-8-the-gioi-185251020103100762.htm",
+      "summary": "Giá bất động sản tại Hà Nội và TP.HCM tăng nhanh, nằm ở top 8 trong số 220 thành phố lớn trên thế giới về mức độ đắt đỏ của bất động sản so với thu nhập - báo cáo giám sát của Ủy ban Kinh tế và Tài chính Quốc hội chỉ rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:38:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793702+07:00"
+    },
+    {
+      "id": "4921ac337516ffbbe685192b428071c9",
+      "title": "Ca khúc mới của Jack vấp chỉ trích",
+      "link": "https://vnexpress.net/ca-khuc-moi-cua-jack-vap-chi-trich-4953648.html",
+      "summary": "Nhiều khán giả phản đối khi cho rằng ca khúc mới của Jack sử dụng cách nói lái \"tục tĩu, phản cảm\", ca từ vô nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:37:45+07:00",
+      "fetched": "2025-10-20T19:35:26.782456+07:00"
+    },
+    {
+      "id": "ffb24d2128bbd052a736b13f8e600a15",
+      "title": "Ngành công thương phía nam: Quy mô lớn, tiềm năng mạnh nhưng nhiều điểm nghẽn",
+      "link": "https://thanhnien.vn/nganh-cong-thuong-phia-nam-quy-mo-lon-tiem-nang-manh-nhung-nhieu-diem-nghen-185251020151435508.htm",
+      "summary": "Với quy mô gần 41 triệu dân và đóng góp hơn 35% kim ngạch xuất khẩu cả nước, ngành công thương khu vực phía nam tiếp tục là đầu tàu tăng trưởng, song về hạ tầng, công nghiệp hỗ trợ… còn hạn chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:37:00+07:00",
+      "fetched": "2025-10-20T19:35:29.793852+07:00"
+    },
+    {
+      "id": "6375104888de45c7bcabe636b96fa575",
+      "title": "TP.HCM: Vì sao xe đạp công cộng bị 'thất sủng'?",
+      "link": "https://thanhnien.vn/tphcm-vi-sao-xe-dap-cong-cong-bi-that-sung-185251020165610629.htm",
+      "summary": "Sau gần 4 năm triển khai, dịch vụ xe đạp công cộng tại TP.HCM, từng được kỳ vọng góp phần giảm phương tiện cá nhân, xây dựng lối sống xanh, nay đang đối mặt với tình trạng vắng khách rõ rệt, chỉ còn được duy trì bởi một bộ phận nhỏ người dùng. Mục đích \"đi dạo, tập thể dục\" dường như đã thay thế hoà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:35:00+07:00",
+      "fetched": "2025-10-20T19:35:29.794009+07:00"
+    },
+    {
       "id": "962ccbcb13587ec6586fbffd1dff4c4e",
       "title": "Vụ tờ vé số trúng 2 tỉ bị rách ở Quảng Ngãi: Chủ nhân tờ vé tìm đến luật sư 'có kinh nghiệm'",
       "link": "https://tuoitre.vn/vu-to-ve-so-trung-2-ti-bi-rach-o-quang-ngai-chu-nhan-to-ve-tim-den-luat-su-co-kinh-nghiem-20251020091736705.htm",
@@ -601,6 +931,176 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T11:22:41.891425+07:00",
       "fetched": "2025-10-20T11:22:41.891642+07:00"
+    },
+    {
+      "id": "53dbf0c4998fc7ad33142fb938285fc4",
+      "title": "Liverpool - hiệp sĩ không gặp thời ở Ngoại hạng Anh mùa mới",
+      "link": "https://vnexpress.net/liverpool-hiep-si-khong-gap-thoi-o-ngoai-hang-anh-mua-moi-4953679.html",
+      "summary": "HLV Arne Slot không thỏa hiệp trước trào lưu chơi chuyền dài và ghi bàn từ các pha cố định đang thịnh hành ở Ngoại hạng Anh, nhưng Liverpool đã thua trước Man Utd từ những tình huống đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:22:34+07:00",
+      "fetched": "2025-10-20T19:35:26.782618+07:00"
+    },
+    {
+      "id": "53dbf0c4998fc7ad33142fb938285fc4",
+      "title": "Liverpool - hiệp sĩ không gặp thời ở Ngoại hạng Anh mùa mới",
+      "link": "https://vnexpress.net/liverpool-hiep-si-khong-gap-thoi-o-ngoai-hang-anh-mua-moi-4953679.html",
+      "summary": "HLV Arne Slot không thỏa hiệp trước trào lưu chơi chuyền dài và ghi bàn từ các pha cố định đang thịnh hành ở Ngoại hạng Anh, nhưng Liverpool đã thua trước Man Utd từ những tình huống đó.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T11:22:34+07:00",
+      "fetched": "2025-10-20T19:35:36.087217+07:00"
+    },
+    {
+      "id": "69b33fe1786a445e1a012a6febc03ff9",
+      "title": "Vì sao chứng khoán giảm kỷ lục?",
+      "link": "https://vnexpress.net/vi-sao-chung-khoan-giam-ky-luc-4953674.html",
+      "summary": "Kết quả thanh tra về trái phiếu kết hợp khối ngoại bán ròng mạnh đã khiến nhà đầu tư đua lệnh bán tháo, làm chứng khoán giảm gần 95 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:13:28+07:00",
+      "fetched": "2025-10-20T19:35:26.782775+07:00"
+    },
+    {
+      "id": "69b33fe1786a445e1a012a6febc03ff9",
+      "title": "Vì sao chứng khoán giảm kỷ lục?",
+      "link": "https://vnexpress.net/vi-sao-chung-khoan-giam-ky-luc-4953674.html",
+      "summary": "Kết quả thanh tra về trái phiếu kết hợp khối ngoại bán ròng mạnh đã khiến nhà đầu tư đua lệnh bán tháo, làm chứng khoán giảm gần 95 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T11:13:28+07:00",
+      "fetched": "2025-10-20T19:35:32.446062+07:00"
+    },
+    {
+      "id": "2de50ba6984e0bc4993a627ccce28fb0",
+      "title": "Chủ tịch Coteccons: 'Ra thị trường nước ngoài không phải chiến lược mì ăn liền'",
+      "link": "https://vnexpress.net/chu-tich-coteccons-ra-thi-truong-nuoc-ngoai-khong-phai-chien-luoc-mi-an-lien-4953633.html",
+      "summary": "Ông Bolat Duisenov, Chủ tịch HĐQT Coteccons, nói việc đi ra quốc tế là chiến lược cần thiết và kéo dài nhiều năm, không vì mục tiêu lợi nhuận trước mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:05:14+07:00",
+      "fetched": "2025-10-20T19:35:26.782940+07:00"
+    },
+    {
+      "id": "2de50ba6984e0bc4993a627ccce28fb0",
+      "title": "Chủ tịch Coteccons: 'Ra thị trường nước ngoài không phải chiến lược mì ăn liền'",
+      "link": "https://vnexpress.net/chu-tich-coteccons-ra-thi-truong-nuoc-ngoai-khong-phai-chien-luoc-mi-an-lien-4953633.html",
+      "summary": "Ông Bolat Duisenov, Chủ tịch HĐQT Coteccons, nói việc đi ra quốc tế là chiến lược cần thiết và kéo dài nhiều năm, không vì mục tiêu lợi nhuận trước mắt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T11:05:14+07:00",
+      "fetched": "2025-10-20T19:35:32.446240+07:00"
+    },
+    {
+      "id": "c44e921ee5a6d331ccdf936cfdf3c2ed",
+      "title": "Khách chuyển khoản 500 nghìn rồi bắt chủ quán thối 445 nghìn đồng",
+      "link": "https://vnexpress.net/chuyen-khoan-qr-code-thanh-toan-atm-gan-day-chuyen-khoan-500-nghin-roi-bat-chu-quan-thoi-lai-445-nghin-4953624.html",
+      "summary": "Thanh toán tô bún 55 K, nam thanh niên chuyển 500 nghìn rồi đứng chờ bà chủ tiệm thối lại tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:00:00+07:00",
+      "fetched": "2025-10-20T19:35:26.783119+07:00"
+    },
+    {
+      "id": "b9c9326399dbc6f2c54a07714afb81e0",
+      "title": "Thấy có lỗi với bản thân khi 35 tuổi vẫn ế",
+      "link": "https://vnexpress.net/thay-co-loi-voi-ban-than-khi-35-tuoi-van-e-4953398.html",
+      "summary": "Thực sự không biết phải nói thế nào nhưng để bước chân ra ngoài kia giao lưu rất khó vì tôi thấy mình yếu đuối, lạc lõng thật rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:00:00+07:00",
+      "fetched": "2025-10-20T19:35:26.783285+07:00"
+    },
+    {
+      "id": "fb83d9a417251068d08b65aab814c7c3",
+      "title": "Acecook Việt Nam tổ chức sự kiện kết hợp chạy bộ và phở",
+      "link": "https://vnexpress.net/acecook-viet-nam-to-chuc-su-kien-ket-hop-chay-bo-va-pho-4953656.html",
+      "summary": "Acecook Việt Nam tổ chức sự kiện \"Chạy cùng Phở Đệ Nhất\" góp phần cùng cộng đồng rèn luyện sức khỏe và tôn vinh di sản ẩm thực phở, tại Công viên Thống Nhất, ngày 1-2/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:00:00+07:00",
+      "fetched": "2025-10-20T19:35:26.783442+07:00"
+    },
+    {
+      "id": "f20f710bb5c6a4f9ed73df339388dee0",
+      "title": "Chuỗi dịch vụ cho người cao tuổi tại đô thị Vinhomes",
+      "link": "https://vnexpress.net/chuoi-dich-vu-cho-nguoi-cao-tuoi-tai-do-thi-vinhomes-4953617.html",
+      "summary": "Vingroup giới thiệu Vin New Horizon, mô hình đô thị và dịch vụ dành cho người cao tuổi, khởi đầu tại Vinhomes Green Paradise Cần Giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:00:00+07:00",
+      "fetched": "2025-10-20T19:35:26.783597+07:00"
+    },
+    {
+      "id": "0c93e9c40ff0d7adbed495d696621f99",
+      "title": "Làm gì khi biến chứng da do dùng kem trộn?",
+      "link": "https://vnexpress.net/lam-gi-khi-bien-chung-da-do-dung-kem-tron-4953598.html",
+      "summary": "Tôi dùng kem làm trắng da mua trên mạng, sau vài tháng da chảy xệ, không đều màu, nám và nổi gân máu. Tình trạng này nguy hiểm không, điều trị thế nào? (Ánh Mai, 45 tuổi, Đồng Tháp)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T11:00:00+07:00",
+      "fetched": "2025-10-20T19:35:26.783756+07:00"
+    },
+    {
+      "id": "116c2ec69cab547c2a1304c154529b40",
+      "title": "Những món trang sức bị đánh cắp ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/nhung-mon-trang-suc-bi-danh-cap-o-bao-tang-louvre-4953374.html",
+      "summary": "Những món trang sức quý giá gồm vương miện, vòng cổ, hoa tai, trâm cài, có niên đại từ thế kỷ 19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:57:09+07:00",
+      "fetched": "2025-10-20T19:35:26.783915+07:00"
+    },
+    {
+      "id": "116c2ec69cab547c2a1304c154529b40",
+      "title": "Những món trang sức bị đánh cắp ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/nhung-mon-trang-suc-bi-danh-cap-o-bao-tang-louvre-4953374.html",
+      "summary": "Những món trang sức quý giá gồm vương miện, vòng cổ, hoa tai, trâm cài, có niên đại từ thế kỷ 19.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T10:57:09+07:00",
+      "fetched": "2025-10-20T19:35:31.550895+07:00"
+    },
+    {
+      "id": "8cd57f02028b8cf7fb45ceb6072b0127",
+      "title": "Tổ hợp sân golf gần 24.800 tỷ đồng giáp vịnh Bái Tử Long dự kiến vận hành từ 2029",
+      "link": "https://vnexpress.net/to-hop-san-golf-gan-24-800-ty-dong-giap-vinh-bai-tu-long-du-kien-van-hanh-tu-2029-4953658.html",
+      "summary": "Tổ hợp du lịch, nghỉ dưỡng, sân golf và khu dân cư Monbay Vân Đồn của HD Mon dự kiến triển khai trong 6 năm, vận hành từ 2029.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:43:23+07:00",
+      "fetched": "2025-10-20T19:35:26.784113+07:00"
+    },
+    {
+      "id": "91b80497dd72b693dcdeb7864b4651b2",
+      "title": "Lập đường dây nóng tiếp nhận phản ánh tiêu cực của kiểm toán viên",
+      "link": "https://vnexpress.net/lap-duong-day-nong-tiep-nhan-phan-anh-tieu-cuc-cua-kiem-toan-vien-4953642.html",
+      "summary": "Tổng kiểm toán Nhà nước Ngô Văn Tuấn cho biết đường dây nóng có tính năng ghi âm cuộc gọi đã được thiết lập để tiếp nhận phản ánh về hành vi tham nhũng, tiêu cực của kiểm toán viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:41:10+07:00",
+      "fetched": "2025-10-20T19:35:26.784292+07:00"
+    },
+    {
+      "id": "abaab877515b76374d580acb5a26f768",
+      "title": "Tịch thu hơn 2 tỷ đồng tại tiệm vàng mua bán ngoại tệ trái phép",
+      "link": "https://vnexpress.net/tich-thu-hon-2-ty-dong-tai-tiem-vang-mua-ban-ngoai-te-trai-phep-4953446.html",
+      "summary": "Công an Đà Nẵng phát hiện tiệm vàng giao dịch ngoại tệ trái phép nên phạt hành chính và tịch thu lượng tiền quy đổi trị giá hơn 2 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:32:41+07:00",
+      "fetched": "2025-10-20T19:35:26.784460+07:00"
+    },
+    {
+      "id": "d7d59d0aae6fca50ed4140007e6f1f18",
+      "title": "Điểm tin 17h: Chứng khoán giảm kỷ lục hơn 94 điểm | Cựu Tổng giám đốc SJC xin tòa xem lại việc phải nộp 10.800 lượng vàng",
+      "link": "https://vnexpress.net/diem-tin-17h-chung-khoan-giam-ky-luc-hon-94-diem-cuu-tong-giam-doc-sjc-xin-toa-xem-lai-viec-phai-nop-10-800-luong-vang-4953662.html",
+      "summary": "Giá vàng trong nước đi ngang; Ông Trump đề xuất Ukraine cắt một phần Donbass để ngừng xung đột...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:26:00+07:00",
+      "fetched": "2025-10-20T19:35:26.784615+07:00"
     },
     {
       "id": "110761c170240c26bafc9591c3dbb8a8",
@@ -761,6 +1261,16 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T10:03:00+07:00",
       "fetched": "2025-10-20T17:18:45.068269+07:00"
+    },
+    {
+      "id": "edec34cc9bd570363d13a386b37d5d5b",
+      "title": "Hàng loạt dịch vụ hàng đầu thế giới 'sập' vì sự cố AWS",
+      "link": "https://vnexpress.net/hang-loat-dich-vu-hang-dau-the-gioi-sap-vi-su-co-aws-4953643.html",
+      "summary": "Nền tảng điện toán đám mây Amazon Web Services (AWS) gặp sự cố khiến hàng chục dịch vụ với hàng trăm triệu người dùng như Canvas, Snapchat, Fortnite bị ảnh hưởng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-20T10:01:17+07:00",
+      "fetched": "2025-10-20T19:35:34.980716+07:00"
     },
     {
       "id": "e4ea98067cb24737ec935fa0204dfdb5",
