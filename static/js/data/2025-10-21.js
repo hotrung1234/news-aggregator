@@ -1,7 +1,157 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T10:03:48.007911+07:00",
+  "lastUpdated": "2025-10-21T11:19:56.600607+07:00",
   "articles": [
+    {
+      "id": "b65d85cabd4ddfdf3604b6ebfc3a272b",
+      "title": "Paradise Legacy - hải trình chạm cảm xúc giữa vịnh di sản",
+      "link": "https://tuoitre.vn/paradise-legacy-hai-trinh-cham-cam-xuc-giua-vinh-di-san-20251021090527252.htm",
+      "summary": "Trải nghiệm sự tiện nghi, sang trọng trên du thuyền Paradise Legacy - nơi dấu ấn văn hóa hiện diện trên từng đường nét kiến trúc mang đến hải trình trọn vẹn, chạm cảm xúc giữa lòng vịnh Hạ Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786751+07:00",
+      "fetched": "2025-10-21T11:19:48.786891+07:00"
+    },
+    {
+      "id": "333b65f05d46582aa0026e66acf6b048",
+      "title": "Jack phủ nhận hát ca từ tục tĩu và phản cảm: Đừng 'bẫy' khán giả",
+      "link": "https://tuoitre.vn/jack-phu-nhan-hat-ca-tu-tuc-tiu-va-phan-cam-dung-bay-khan-gia-20251021094012021.htm",
+      "summary": "Phía Jack giải thích các bản ghi âm về ca khúc gây tranh cãi của anh bị sai lệch về cách diễn giải nhưng khán giả lại đặt nghi vấn: 'Ngẫu hứng nhưng lại có hát bè? Đừng bẫy khán giả'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786621+07:00",
+      "fetched": "2025-10-21T11:19:48.786738+07:00"
+    },
+    {
+      "id": "9cd0ca0b499c8a2e76a60ffbf9d3a9b2",
+      "title": "Khu di tích lịch sử cấp quốc gia ở Cần Thơ xuống cấp nghiêm trọng",
+      "link": "https://tuoitre.vn/khu-di-tich-lich-su-cap-quoc-gia-o-can-tho-xuong-cap-nghiem-trong-20251021100045049.htm",
+      "summary": "Xung quanh khuôn viên Khu di tích căn cứ Tỉnh ủy Sóc Trăng (xã Mỹ Phước, TP Cần Thơ) bị ngập nước, cỏ dại mọc um tùm và nhiều hạng mục bị nứt, sụp lún.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786481+07:00",
+      "fetched": "2025-10-21T11:19:48.786605+07:00"
+    },
+    {
+      "id": "ae9913fbcc395b883ab43767b31855dd",
+      "title": "ABB mở rộng danh mục, ủy quyền nhà phân phối mới tại Việt Nam",
+      "link": "https://tuoitre.vn/abb-mo-rong-danh-muc-uy-quyen-nha-phan-phoi-moi-tai-viet-nam-20251020125648357.htm",
+      "summary": "Tập đoàn Công nghệ điện và Tự động hóa ABB mở rộng danh mục giải pháp tòa nhà thông minh, nhà dân dụng, đồng thời ủy quyền Công ty TNHH Thiết bị điện Viễn Đông là nhà phân phối chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786358+07:00",
+      "fetched": "2025-10-21T11:19:48.786470+07:00"
+    },
+    {
+      "id": "1723a42dfcc602f189d41caa865a779c",
+      "title": "Kiến nghị giữ các thương hiệu vé số truyền thống",
+      "link": "https://tuoitre.vn/kien-nghi-giu-cac-thuong-hieu-ve-so-truyen-thong-2025102109403007.htm",
+      "summary": "“Tôi cho rằng cần giữ các thương hiệu vé số truyền thống ở phía Nam. Vé số không chỉ là hoạt động kinh doanh, mà còn là một nét văn hoá-giải trí của người dân hàng chục năm qua”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786236+07:00",
+      "fetched": "2025-10-21T11:19:48.786347+07:00"
+    },
+    {
+      "id": "ed24b9e47f626ba819a2846788198ff9",
+      "title": "Hoàng Anh Gia Lai lầm lũi ở cuối bảng: Có gì phải ầm ĩ!",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-lam-lui-o-cuoi-bang-co-gi-phai-am-i-20251021094319424.htm",
+      "summary": "Bán hết cầu thủ giỏi, thậm chí là cầu thủ trẻ mới nổi, CLB Hoàng Anh Gia Lai đang xếp chót bảng V-League 2025-2026 chỉ sau 6 trận đầu mùa. Nhưng đó là lựa chọn của họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.786112+07:00",
+      "fetched": "2025-10-21T11:19:48.786224+07:00"
+    },
+    {
+      "id": "be576b02c3a2b49d5477a0d09dab4d7c",
+      "title": "Muốn sang tên sổ đỏ khi mẹ còn sống, phải làm thủ tục gì?",
+      "link": "https://tuoitre.vn/muon-sang-ten-so-do-khi-me-con-song-phai-lam-thu-tuc-gi-20251021093632466.htm",
+      "summary": "Mẹ tôi còn sống, cha tôi đã mất. Tôi là con một, mẹ muốn chuyển tên chủ quyền sở hữu nhà và đất sang tôi. Vậy chúng tôi phải làm những thủ tục gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785982+07:00",
+      "fetched": "2025-10-21T11:19:48.786100+07:00"
+    },
+    {
+      "id": "d9e5558594f0050d4daf678b4a19ef14",
+      "title": "Góp ý văn kiện Đại hội Đảng XIV: 4 đề xuất cho phát triển",
+      "link": "https://tuoitre.vn/gop-y-van-kien-dai-hoi-dang-xiv-4-de-xuat-cho-phat-trien-20251021094116356.htm",
+      "summary": "Tôi đã được nghiên cứu bộ dự thảo các văn kiện trình Đại hội Đảng lần thứ XIV. Các dự thảo văn kiện đã thể hiện một tầm nhìn chiến lược, một khát vọng mạnh mẽ về kỷ nguyên vươn mình của dân tộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785851+07:00",
+      "fetched": "2025-10-21T11:19:48.785971+07:00"
+    },
+    {
+      "id": "f647d27eea881da3059fc7927d83c091",
+      "title": "Sóng phủ vỉa hè bờ sông Hàn Đà Nẵng, bọt bắn tung trắng xóa",
+      "link": "https://tuoitre.vn/song-phu-via-he-bo-song-han-da-nang-bot-ban-tung-trang-xoa-2025102110121211.htm",
+      "summary": "Liên tục các đợt nước đục ngầu ập vào vỉa hè ven sông Hàn tung bọt trắng xóa, nước tràn qua và đã gây ngập một đoạn đường Như Nguyệt (Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785699+07:00",
+      "fetched": "2025-10-21T11:19:48.785837+07:00"
+    },
+    {
+      "id": "aaf66e6d914919184019bc5635fc1263",
+      "title": "Làm thế nào cho con tuổi thơ hạnh phúc? - Kỳ 4: 'Thả' con vào rừng",
+      "link": "https://tuoitre.vn/lam-the-nao-cho-con-tuoi-tho-hanh-phuc-ky-4-tha-con-vao-rung-20251020230644514.htm",
+      "summary": "Rừng đã trở thành một 'trường học' thú vị với nhiều lợi ích thực chất mà phụ huynh lựa chọn từ niềm yêu thích của gia đình đến những mục tiêu xa hơn vì con cái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785567+07:00",
+      "fetched": "2025-10-21T11:19:48.785687+07:00"
+    },
+    {
+      "id": "4d2efee7e029ac31d1915bcbdc839b8e",
+      "title": "Messi hay Ronaldo được vào top 'huyền thoại đáng kính'?",
+      "link": "https://tuoitre.vn/messi-hay-ronaldo-duoc-vao-top-huyen-thoai-dang-kinh-202510211007329.htm",
+      "summary": "Chuyên trang thể thao uy tín Givemesport mới đây đã tổ chức bình chọn top 15 ngôi sao thể thao được kính trọng nhất mọi thời đại, và Messi là 1 trong 2 cầu thủ bóng đá xuất hiện trong danh sách này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785438+07:00",
+      "fetched": "2025-10-21T11:19:48.785555+07:00"
+    },
+    {
+      "id": "a22fecd4559d9a90a9428807ff6fe7c8",
+      "title": "Đại biểu Quốc hội: Cán bộ làm việc gấp 2-3 lần mà lương, phụ cấp như cũ sẽ khó giữ chân người giỏi",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-can-bo-lam-viec-gap-2-3-lan-ma-luong-phu-cap-nhu-cu-se-kho-giu-chan-nguoi-gioi-20251021094221096.htm",
+      "summary": "Đại biểu Quốc hội đề nghị có chính sách lương, phụ cấp, hỗ trợ xứng đáng, nhất là đối với cán bộ, công chức cấp xã, phường, đặc khu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785308+07:00",
+      "fetched": "2025-10-21T11:19:48.785426+07:00"
+    },
+    {
+      "id": "77c83201ffcbf25d00f8eb5c115f37a3",
+      "title": "Đơn vị nào được nhận giải ICDL Premier Partner lần thứ hai?",
+      "link": "https://tuoitre.vn/don-vi-nao-duoc-nhan-giai-icdl-premier-partner-lan-thu-hai-20251021101444506.htm",
+      "summary": "Tại Diễn đàn năng lực công nghệ số khu vực châu Á 2025, EMG Education đã được trao giải ICDL Premier Partner. Ngoài ra, còn có 2 giáo viên trường công lập của TP.HCM được trao giải \"Nhà giáo dục số\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785168+07:00",
+      "fetched": "2025-10-21T11:19:48.785294+07:00"
+    },
+    {
+      "id": "5a2b3d1d1235de835713d9b92d6233e9",
+      "title": "Ông Trump kỳ vọng đạt thỏa thuận thương mại với Trung Quốc",
+      "link": "https://tuoitre.vn/ong-trump-ky-vong-dat-thoa-thuan-thuong-mai-voi-trung-quoc-20251021095558259.htm",
+      "summary": "Ông Trump kỳ vọng đạt được thỏa thuận thương mại công bằng với Trung Quốc và xem nhẹ nguy cơ xung đột về vấn đề Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.785026+07:00",
+      "fetched": "2025-10-21T11:19:48.785155+07:00"
+    },
+    {
+      "id": "48e31bb3e30066fec45d45b5ffdfcb56",
+      "title": "Bắn pháo hiệu khẩn cấp, kêu gọi tàu thuyền vào bờ tránh bão Thần Gió",
+      "link": "https://tuoitre.vn/ban-phao-hieu-khan-cap-keu-goi-tau-thuyen-vao-bo-tranh-bao-than-gio-20251021102738709.htm",
+      "summary": "Trước diễn biến phức tạp của bão Thần Gió (bão số 12), Bộ đội biên phòng Quảng Ngãi đã đồng loạt bắn pháo hiệu báo bão tại bốn cửa biển Sa Kỳ, Sa Cần, Sa Huỳnh và đặc khu Lý Sơn, kêu gọi tàu thuyền khẩn trương vào bờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:19:48.784772+07:00",
+      "fetched": "2025-10-21T11:19:48.785010+07:00"
+    },
     {
       "id": "bd99bdfc2bee7ffb30c26d9cd4f112d9",
       "title": "Cháy chung cư ở phường Khánh Hội: Cứu 2 người mắc kẹt và hướng dẫn 300 người thoát ra ngoài an toàn",
@@ -221,6 +371,376 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T08:16:50.916441+07:00",
       "fetched": "2025-10-21T08:16:50.916639+07:00"
+    },
+    {
+      "id": "81dc62a0df1cc1a5e6e4ac9137056613",
+      "title": "Vua Việt nào ngồi ngai vàng ngắn nhất trong lịch sử?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vua-viet-nao-ngoi-ngai-vang-ngan-nhat-trong-lich-su-4953521.html",
+      "summary": "Nối ngôi vua Lê Đại Hành, nhưng vị vua này chỉ ngồi trên ngai vàng được 3 ngày thì bị người em cùng mẹ cho người vào cung ám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:13:15+07:00",
+      "fetched": "2025-10-21T11:19:44.560397+07:00"
+    },
+    {
+      "id": "43f8c7d4092a63081c1e3cbfb5dba67a",
+      "title": "Chuyển tinh dịch cho bạn tù qua lỗ thông hơi để thụ thai",
+      "link": "https://vnexpress.net/chuyen-tinh-trung-cho-ban-tu-qua-lo-thong-hoi-de-thu-thai-4953851.html",
+      "summary": "Trong khu giam giữ, hai nghi phạm chưa từng gặp gỡ nhưng đã có con chung khi người đàn ông lén chuyển tinh dịch qua lỗ thông gió để thụ thai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:06:20+07:00",
+      "fetched": "2025-10-21T11:19:44.560572+07:00"
+    },
+    {
+      "id": "24be6df97ea6e5ddff5c780370d45aa5",
+      "title": "Việt Nam tổ chức Hội nghị bàn tròn cấp Bộ trưởng về AI",
+      "link": "https://vnexpress.net/viet-nam-to-chuc-hoi-nghi-ban-tron-cap-bo-truong-ve-ai-4953603.html",
+      "summary": "Đại diện hơn 30 quốc gia và tổ chức quốc tế, doanh nghiệp sẽ tới Việt Nam, dự Hội nghị bàn tròn cấp Bộ trưởng, chia sẻ kinh nghiệm về quản lý trí tuệ nhân tạo (AI).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:05:43+07:00",
+      "fetched": "2025-10-21T11:19:44.560734+07:00"
+    },
+    {
+      "id": "00f59d6f6e3b70b711c1790777f6c604",
+      "title": "Toyota ra mắt Land Cruiser FJ mới, bán từ 2026",
+      "link": "https://vnexpress.net/toyota-ra-mat-land-cruiser-fj-moi-ban-tu-2026-4953762.html",
+      "summary": "Mẫu SUV địa hình mang phong cách cổ điển sẽ được sản xuất ở Thái Lan để bán tại Đông Nam Á và một số thị trường khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:05:40+07:00",
+      "fetched": "2025-10-21T11:19:44.560915+07:00"
+    },
+    {
+      "id": "afc25edcba5436a1cdc73adaef7cbb6f",
+      "title": "Khối tài sản của trùm sòng bạc lừa đảo tại Campuchia",
+      "link": "https://vnexpress.net/khoi-tai-san-cua-trum-song-bac-lua-dao-tai-campuchia-4953310.html",
+      "summary": "Zhu Zhongbiao, ông trùm quản lý các sòng bạc trong đế chế lừa đảo Prince Group tại Campuchia, sở hữu loạt bất động sản cao cấp trị giá hàng triệu USD ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:02:22+07:00",
+      "fetched": "2025-10-21T11:19:44.561074+07:00"
+    },
+    {
+      "id": "afc25edcba5436a1cdc73adaef7cbb6f",
+      "title": "Khối tài sản của trùm sòng bạc lừa đảo tại Campuchia",
+      "link": "https://vnexpress.net/khoi-tai-san-cua-trum-song-bac-lua-dao-tai-campuchia-4953310.html",
+      "summary": "Zhu Zhongbiao, ông trùm quản lý các sòng bạc trong đế chế lừa đảo Prince Group tại Campuchia, sở hữu loạt bất động sản cao cấp trị giá hàng triệu USD ở nước ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T04:02:22+07:00",
+      "fetched": "2025-10-21T11:19:50.362206+07:00"
+    },
+    {
+      "id": "def9bbb93d321ba7521efeda871e2154",
+      "title": "Hai công trình làm cảm hứng cho SVĐ lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/hai-cong-trinh-lam-cam-hung-cho-svd-lon-nhat-viet-nam-4953744.html",
+      "summary": "AT&T (Mỹ) và Quốc gia (Singapore) là hai sân vận động có mái vòm lớn nhất thế giới, được xem là cảm hứng để Việt Nam xây dựng sân PVF đa năng có sức chứa 60.000 chỗ ngồi tại Hưng Yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:01:18+07:00",
+      "fetched": "2025-10-21T11:19:44.561237+07:00"
+    },
+    {
+      "id": "def9bbb93d321ba7521efeda871e2154",
+      "title": "Hai công trình làm cảm hứng cho SVĐ lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/hai-cong-trinh-lam-cam-hung-cho-svd-lon-nhat-viet-nam-4953744.html",
+      "summary": "AT&T (Mỹ) và Quốc gia (Singapore) là hai sân vận động có mái vòm lớn nhất thế giới, được xem là cảm hứng để Việt Nam xây dựng sân PVF đa năng có sức chứa 60.000 chỗ ngồi tại Hưng Yên.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T04:01:18+07:00",
+      "fetched": "2025-10-21T11:19:56.592695+07:00"
+    },
+    {
+      "id": "cd5911dd03c7efb60b9c9f939b5ef6b9",
+      "title": "Phong cách 'nữ tướng' công nghệ Mira Murati",
+      "link": "https://vnexpress.net/phong-cach-nu-tuong-cong-nghe-mira-murati-4953860.html",
+      "summary": "Mira Murati - lãnh đạo công nghệ nổi tiếng Mỹ - theo đuổi phong cách thanh lịch, linh hoạt ở từng hoàn cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:01:09+07:00",
+      "fetched": "2025-10-21T11:19:44.561398+07:00"
+    },
+    {
+      "id": "1aa55510dfd6c52af0465b9dac065c30",
+      "title": "Tuổi 33 cay đắng phỏng vấn xin việc giữa một rừng Gen Z",
+      "link": "https://vnexpress.net/tuoi-33-lac-que-khi-phong-van-xin-viec-giua-mot-rung-gen-z-4953819.html",
+      "summary": "Tôi tự tin có 10 năm kinh nghiệm, năng lực thực chiến, nhưng dường như các nhà tuyển dụng bây giờ chuộng người trẻ tuổi hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.561631+07:00"
+    },
+    {
+      "id": "ad6d8e25223c26c0e4bed6cacfc55828",
+      "title": "Musk thách chuyên gia AI thi lập trình với Grok 5",
+      "link": "https://vnexpress.net/musk-thach-chuyen-gia-ai-thi-lap-trinh-voi-grok-5-4953738.html",
+      "summary": "Elon Musk thách thức nhà nghiên cứu AI nổi tiếng Andrej Karpathy thi đấu lập trình với mô hình Grok 5 của xAI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.561849+07:00"
+    },
+    {
+      "id": "164008cc558381710a11dc51a3bd2f26",
+      "title": "LPBank báo lãi hơn 9.600 tỷ đồng sau 9 tháng",
+      "link": "https://vnexpress.net/lpbank-bao-lai-hon-9-600-ty-dong-sau-9-thang-4953839.html",
+      "summary": "Ngân hàng Lộc Phát (LPBank) đạt lợi nhuận trước thuế 9.612 tỷ đồng trong 9 tháng đầu năm, tăng 9% so với cùng kỳ, cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.562031+07:00"
+    },
+    {
+      "id": "81df9a471cbb9ee3303d337f2b6bcf0f",
+      "title": "Vô tình biết ơn kẻ sát hại con mình",
+      "link": "https://vnexpress.net/vo-tinh-biet-on-ke-sat-hai-con-minh-4953834.html",
+      "summary": "Bà Lưu Kiệt nhớ hôm con gái mất tích vào một ngày năm 2020, ánh mắt hắn tỏ ra lo lắng, bà còn rót cho cốc nước khẽ bảo “con nghỉ chút đi”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.562223+07:00"
+    },
+    {
+      "id": "148becb95d3dee6208fb6f83932be6b3",
+      "title": "Những bệnh xương khớp gây đau lưng dưới",
+      "link": "https://vnexpress.net/nhung-benh-xuong-khop-gay-dau-lung-duoi-4953805.html",
+      "summary": "Thoái hóa cột sống, thoát vị đĩa đệm, hẹp ống sống, viêm cột sống dính khớp là những nguyên nhân gây đau lưng dưới, có thể làm giảm khả năng vận động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.562388+07:00"
+    },
+    {
+      "id": "6bd0ffeaede738be6b213de4ce705f82",
+      "title": "Trẻ nhỏ nhiễm virus hợp bào hô hấp khi chuyển mùa",
+      "link": "https://vnexpress.net/tre-nho-nhiem-virus-hop-bao-ho-hap-khi-chuyen-mua-4953786.html",
+      "summary": "Bé Đức và Minh, 2 tháng tuổi, ho đờm, thở khò khè khi thời tiết chuyển mùa, bác sĩ khám chẩn đoán nhiễm virus hợp bào hô hấp (RSV).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:44.562540+07:00"
+    },
+    {
+      "id": "527fbeb7b4c91c5aa06a9c0bc2e7dffa",
+      "title": "Xem nhanh 12h: Giá vàng lập đỉnh mới | Bão 'Phong Thần' đổi hướng liên tục",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-gia-vang-lap-dinh-moi-bao-phong-than-doi-huong-lien-tuc-185251021104118036.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 21.10.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:47.746642+07:00"
+    },
+    {
+      "id": "164008cc558381710a11dc51a3bd2f26",
+      "title": "LPBank báo lãi hơn 9.600 tỷ đồng sau 9 tháng",
+      "link": "https://vnexpress.net/lpbank-bao-lai-hon-9-600-ty-dong-sau-9-thang-4953839.html",
+      "summary": "Ngân hàng Lộc Phát (LPBank) đạt lợi nhuận trước thuế 9.612 tỷ đồng trong 9 tháng đầu năm, tăng 9% so với cùng kỳ, cao nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T04:00:00+07:00",
+      "fetched": "2025-10-21T11:19:52.058436+07:00"
+    },
+    {
+      "id": "81672f74e5398fedae2029abbb01b26c",
+      "title": "Bé trai sinh ở Nhật nghi bị bỏ rơi tại Nha Trang: Người mẹ đã trình diện",
+      "link": "https://thanhnien.vn/be-trai-sinh-o-nhat-nghi-bi-bo-roi-tai-nha-trang-nguoi-me-da-trinh-dien-18525102109575169.htm",
+      "summary": "Liên quan đến việc một bé trai sinh ở Nhật nghi bị bỏ rơi tại Nha Trang, sáng nay 21.10, một nguồn tin của PV Thanh Niên cho hay mẹ của bé đã trình diện cơ quan chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:59:00+07:00",
+      "fetched": "2025-10-21T11:19:47.746827+07:00"
+    },
+    {
+      "id": "c0417291f853be8c8f62569a7a260d45",
+      "title": "U.23 Việt Nam cứng cáp nhờ V-League",
+      "link": "https://thanhnien.vn/u23-viet-nam-cung-cap-nho-v-league-185251020210149295.htm",
+      "summary": "HLV Kim Sang-sik sẽ rất vui khi các sao trẻ U.23 VN đồng loạt tỏa sáng ở V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:58:00+07:00",
+      "fetched": "2025-10-21T11:19:47.746990+07:00"
+    },
+    {
+      "id": "612ee7e2cbd49df9095dfeacef233940",
+      "title": "Tại sao lốp Run-flat được đánh giá cao nhưng kén khách tại Việt Nam?",
+      "link": "https://thanhnien.vn/tai-sao-lop-run-flat-duoc-danh-gia-cao-nhung-ken-khach-tai-viet-nam-185251020103457133.htm",
+      "summary": "Lốp Run-flat giúp ô tô có thể di chuyển khi bị thủng, được đánh giá cao về độ an toàn nhưng tại Việt Nam lại rất kén người dùng vì nhiều lý do khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:57:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747143+07:00"
+    },
+    {
+      "id": "f398a9f82c0b2751d2c191e8bdb6f487",
+      "title": "Á hậu Quỳnh Anh hẹn hò TikToker",
+      "link": "https://vnexpress.net/a-hau-quynh-anh-hen-ho-tiktoker-4953207.html",
+      "summary": "Người đẹp Quỳnh Anh, 25 tuổi, công khai yêu Neyun - TikToker triệu view, nhận nhiều lời chúc mừng của bạn bè, đồng nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:55:33+07:00",
+      "fetched": "2025-10-21T11:19:44.562693+07:00"
+    },
+    {
+      "id": "28709efa2e9f725d22755f56c978e8f7",
+      "title": "Nghịch lý hôn nhân lung lay vì vợ kiếm tiền giỏi hơn chồng",
+      "link": "https://vnexpress.net/nghich-ly-hon-nhan-lung-lay-vi-vo-kiem-tien-gioi-hon-chong-4953451.html",
+      "summary": "Khi mới hẹn hò, Kim Dhatt và bạn trai có thu nhập bằng nhau nhưng khi cô liên tục được thăng chức, lương tăng gấp ba, mối quan hệ bắt đầu rạn nứt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:52:44+07:00",
+      "fetched": "2025-10-21T11:19:44.562868+07:00"
+    },
+    {
+      "id": "90bd4500baeaaf087d34ecbebd7b154f",
+      "title": "Trung Quốc thử nghiệm máy phát giấy vệ sinh mới",
+      "link": "https://thanhnien.vn/trung-quoc-thu-nghiem-may-phat-giay-ve-sinh-moi-185251020165552629.htm",
+      "summary": "Một số khu vực tại Trung Quốc đang triển khai thử nghiệm máy phát giấy vệ sinh mới, yêu cầu người dùng quét mã QR và xem quảng cáo trực tuyến trước khi nhận giấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:51:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747293+07:00"
+    },
+    {
+      "id": "fd8eae55b749cbb274320d4e993ea7d8",
+      "title": "Nữ diễn viên từng chịu cảnh ế show và màn ‘đổi đời’ nhờ NSƯT Thành Lộc",
+      "link": "https://thanhnien.vn/nu-dien-vien-tung-chiu-canh-e-show-va-man-doi-doi-nho-nsut-thanh-loc-185251021082125364.htm",
+      "summary": "Từng trải qua nhiều thăng trầm trong nghề, Ngọc Xuyên giờ đây dần được khán giả biết đến, đặc biệt là sau vai diễn trong vở 'Alo! lộ hàng' do NSƯT Thành Lộc làm đạo diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:50:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747444+07:00"
+    },
+    {
+      "id": "885a13edd1b61d63668408bbfe9a86f0",
+      "title": "Mỹ ký thỏa thuận đất hiếm với Australia",
+      "link": "https://vnexpress.net/my-ky-thoa-thuan-dat-hiem-voi-australia-4953763.html",
+      "summary": "Ngày 20/10, Tổng thống Mỹ Donald Trump và Thủ tướng Australia Anthony Albanese ký thỏa thuận hợp tác về các khoáng sản thiết yếu, trong đó có đất hiếm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T03:46:27+07:00",
+      "fetched": "2025-10-21T11:19:52.057254+07:00"
+    },
+    {
+      "id": "ac9c7192da11347a9a39b56ec4c22578",
+      "title": "Trung Quốc, Úc đấu khẩu quyết liệt sau vụ chạm trán trên Biển Đông",
+      "link": "https://thanhnien.vn/trung-quoc-uc-dau-khau-quyet-liet-sau-vu-cham-tran-tren-bien-dong-185251021101330618.htm",
+      "summary": "Trung Quốc và Úc ngày 20.10 cáo buộc lẫn nhau sau một vụ chạm trán giữa máy bay quân sự 2 nước trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:45:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747597+07:00"
+    },
+    {
+      "id": "b82c188dc8366fcc99942eadba54b7c5",
+      "title": "Hà Tĩnh: Giải cứu một thanh niên bị 'bắt cóc online'",
+      "link": "https://thanhnien.vn/ha-tinh-giai-cuu-mot-thanh-nien-bi-bat-coc-online-185251021095632492.htm",
+      "summary": "Sau khi bị kẻ lừa đảo giả danh cán bộ công an đe dọa, một nam thanh niên ở Hà Tĩnh đã tự nhốt mình trong nhà nghỉ, còn người thân của nam thanh niên này bị nhóm lừa đảo nhắn tin đòi 300 triệu đồng tiền chuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:44:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747750+07:00"
+    },
+    {
+      "id": "f49a89db43c443e83ce048efaec9ed32",
+      "title": "Hà Nội lắp 300 màn hình LED dưới gầm cầu cạn",
+      "link": "https://thanhnien.vn/ha-noi-lap-300-man-hinh-led-duoi-gam-cau-can-185251021101529571.htm",
+      "summary": "Hà Nội đang thí điểm cho phép doanh nghiệp lắp 300 màn hình LED dưới gầm cầu cạn Vành đai 2 trên cao để quảng cáo, tuyên truyền. Đổi lại, doanh nghiệp sẽ dọn vệ sinh, chăm sóc hệ thống cây xanh…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:41:00+07:00",
+      "fetched": "2025-10-21T11:19:47.747925+07:00"
+    },
+    {
+      "id": "1425c048a4e669d294999b11f849d29a",
+      "title": "Người Hà Nội khoác áo ấm trong gió lạnh đầu mùa",
+      "link": "https://thanhnien.vn/nguoi-ha-noi-khoac-ao-am-trong-gio-lanh-dau-mua-18525102109234726.htm",
+      "summary": "Sáng nay (21.10), Hà Nội đón đợt không khí lạnh đầu tiên trong năm. Trời vẫn nắng, nhưng có gió lạnh, nhiều người ra đường vào buổi sáng đã khoác áo ấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:33:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748080+07:00"
+    },
+    {
+      "id": "b21ae007c81b5202a35c67ba0a19d693",
+      "title": "Không khí lạnh đẩy bão Fengshen đi lệch hướng, vùng núi miền Bắc rét dưới 16°C",
+      "link": "https://thanhnien.vn/khong-khi-lanh-day-bao-fengshen-di-lech-huong-vung-nui-mien-bac-ret-duoi-16c-185251021090520809.htm",
+      "summary": "Không khí lạnh tăng cường đang tràn xuống miền Bắc và Biển Đông đã đẩy bão Fengshen (bão số 12) đi lệch sang hướng tây, tốc độ bão di chuyển chậm lại. Vùng núi miền Bắc từ đêm nay rét dưới 16 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:32:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748229+07:00"
+    },
+    {
+      "id": "14e88c3871f9fbade56b6420b9d667a7",
+      "title": "Người Việt dành gần 300 triệu giờ cho ứng dụng AI trong nửa năm",
+      "link": "https://vnexpress.net/nguoi-viet-danh-gan-300-trieu-gio-cho-ung-dung-ai-trong-nua-nam-4953672.html",
+      "summary": "Tổng thời gian người Việt dùng ứng dụng AI trong nửa năm đạt 283 triệu giờ, hay gần 1,6 triệu giờ mỗi ngày, nhiều hơn trung bình thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-21T03:30:00+07:00",
+      "fetched": "2025-10-21T11:19:54.252709+07:00"
+    },
+    {
+      "id": "44bc97144a9f0ad541b22bac798ae93d",
+      "title": "Chính phủ Mỹ đồng ý xóa nợ sinh viên cho hàng triệu người",
+      "link": "https://vnexpress.net/chinh-phu-my-dong-y-xoa-no-sinh-vien-cho-hang-trieu-nguoi-4953830.html",
+      "summary": "Chính quyền Trump thay đổi quan điểm, cho phép tiếp tục chương trình xóa nợ sinh viên cho hàng triệu người Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T03:26:14+07:00",
+      "fetched": "2025-10-21T11:19:50.362379+07:00"
+    },
+    {
+      "id": "cd85f06ef5481cdc66aea74182bd002c",
+      "title": "Ông Trump hoài nghi khả năng Ukraine chiến thắng Nga",
+      "link": "https://vnexpress.net/ong-trump-hoai-nghi-kha-nang-ukraine-chien-thang-nga-4953807.html",
+      "summary": "Tổng thống Trump từng nghĩ rằng Ukraine có cơ hội giành chiến thắng trong xung đột với Nga, nhưng đang nghi ngờ khả năng kịch bản này thành hiện thực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T03:24:54+07:00",
+      "fetched": "2025-10-21T11:19:50.362542+07:00"
+    },
+    {
+      "id": "e54802005abd92b64cf40c7d7d930a34",
+      "title": "OpenEvidence đạt định giá 6 tỉ USD - AI cho lĩnh vực y tế lên ngôi",
+      "link": "https://thanhnien.vn/openevidence-dat-dinh-gia-6-ti-usd-ai-cho-linh-vuc-y-te-len-ngoi-185251020225736616.htm",
+      "summary": "Startup OpenEvidence, được ví như \"ChatGPT dành cho giới y khoa\", vừa huy động thành công 200 triệu USD, nâng định giá lên 6 tỉ USD, phản ánh sức nóng của xu hướng trí tuệ nhân tạo trong y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:23:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748387+07:00"
+    },
+    {
+      "id": "b77274ca82a935cab323fbcfb96722e8",
+      "title": "Tiền làm phần mềm điện thoại còn đắt hơn cả phần cứng flagship",
+      "link": "https://thanhnien.vn/tien-lam-phan-mem-dien-thoai-con-dat-hon-ca-phan-cung-flagship-185251017104853329.htm",
+      "summary": "Con số 'khủng' 40 triệu USD và bí mật đằng sau việc phát triển phần mềm cho hệ điều hành cho smartphone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:19:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748536+07:00"
+    },
+    {
+      "id": "ba19e74e37d4363701c97900bdf7fc5b",
+      "title": "Mỹ - Úc ký thỏa thuận khoáng sản tỉ đô để giảm phụ thuộc Trung Quốc",
+      "link": "https://thanhnien.vn/my-uc-ky-thoa-thuan-khoang-san-ti-do-de-giam-phu-thuoc-trung-quoc-185251021094807322.htm",
+      "summary": "Tổng thống Mỹ Donald Trump và Thủ tướng Úc Anthony Albanese ngày 20.10 ký thỏa thuận mới về hợp tác đất hiếm và khoáng sản quan trọng, nhằm giảm sự phụ thuộc của chuỗi cung ứng toàn cầu vào Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:17:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748683+07:00"
+    },
+    {
+      "id": "df2b0487207ee75d12e8c14f9e08645b",
+      "title": "Hàn Quốc bắt 49 nghi phạm lừa đảo trực tuyến sau khi hồi hương từ Campuchia",
+      "link": "https://thanhnien.vn/han-quoc-bat-49-nghi-pham-lua-dao-truc-tuyen-sau-khi-hoi-huong-tu-campuchia-185251021093534875.htm",
+      "summary": "Cảnh sát Hàn Quốc hôm nay 21.10 thông báo có thêm 48 nghi phạm đã bị bắt giữ sau khi hồi hương từ Campuchia vì cáo buộc tham gia các đường dây lừa đảo trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:14:00+07:00",
+      "fetched": "2025-10-21T11:19:47.748845+07:00"
     },
     {
       "id": "00f75db1b0ff4c38d4b851cf790be24a",
