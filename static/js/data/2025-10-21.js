@@ -1,7 +1,157 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T17:18:12.717881+07:00",
+  "lastUpdated": "2025-10-21T19:36:05.786093+07:00",
   "articles": [
+    {
+      "id": "f23058b33cf5fbdab13a4f9522ddfd10",
+      "title": "Trường đại học Kinh tế Đà Nẵng tuyển dụng giảng viên trình độ tiến sĩ",
+      "link": "https://tuoitre.vn/truong-dai-hoc-kinh-te-da-nang-tuyen-dung-giang-vien-trinh-do-tien-si-20251021161808172.htm",
+      "summary": "Trường đại học Kinh tế (Đại học Đà Nẵng) vừa thông báo tuyển dụng giảng viên trình độ tiến sĩ đợt 1 năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085816+07:00",
+      "fetched": "2025-10-21T19:35:59.085931+07:00"
+    },
+    {
+      "id": "fff34a7c1d364750f537380ec731757d",
+      "title": "Tớ và Roboco, anime 'nhái' cả Doraemon đổ bộ rạp Việt",
+      "link": "https://tuoitre.vn/to-va-roboco-anime-nhai-ca-doraemon-do-bo-rap-viet-20251021170038498.htm",
+      "summary": "Sau khi gây sốt tại Nhật Bản và Đài Loan, Tớ và Roboco: Siêu cấp đa vũ trụ - anime chuyên 'nhái' lại những cái tên kinh điển như Doraemon, Shin cậu bé bút chì... - sẽ khởi chiếu tại Việt Nam từ 24-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085687+07:00",
+      "fetched": "2025-10-21T19:35:59.085804+07:00"
+    },
+    {
+      "id": "16948e1ed52856f2f4c599a12385949d",
+      "title": "Thái Lan sa thải HLV Masatada Ishii: Sự tàn nhẫn cần thiết?",
+      "link": "https://tuoitre.vn/thai-lan-sa-thai-hlv-masatada-ishii-su-tan-nhan-can-thiet-20251021172115311.htm",
+      "summary": "Chiều 21-10, Liên đoàn Bóng đá Thái Lan (FAT) đã sa thải HLV trưởng Masatada Ishii. Khép lại hành trình gần hai năm của chiến lược gia người Nhật Bản trên cương vị thuyền trưởng \"voi chiến\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085549+07:00",
+      "fetched": "2025-10-21T19:35:59.085676+07:00"
+    },
+    {
+      "id": "eccbe42a166c7d739fa87fb91503b636",
+      "title": "Điểm tin 18h: Sắp xếp thôn, tổ dân phố vào tháng 5-2026; Nhật có nữ thủ tướng đầu tiên trong lịch sử",
+      "link": "https://tuoitre.vn/diem-tin-18h-sap-xep-thon-to-dan-pho-vao-thang-5-2026-nhat-co-nu-thu-tuong-dau-tien-trong-lich-su-20251021164604971.htm",
+      "summary": "Điểm tin 18h: Sắp xếp thôn, tổ dân phố vào tháng 5-2026; Nhật có nữ thủ tướng đầu tiên trong lịch sử",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085426+07:00",
+      "fetched": "2025-10-21T19:35:59.085538+07:00"
+    },
+    {
+      "id": "55dca56018dc9986cd863aeed9a7371d",
+      "title": "Tạm giữ tài xế hất thiếu tá cảnh sát giao thông lên ca pô xe ô tô",
+      "link": "https://tuoitre.vn/tam-giu-tai-xe-hat-thieu-ta-canh-sat-giao-thong-len-capo-xe-o-to-20251021173734984.htm",
+      "summary": "Nam tài xế khai nhận do mất bình tĩnh nên đã lao xe, hất thiếu tá cảnh sát giao thông Nghệ An lên ca pô xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085305+07:00",
+      "fetched": "2025-10-21T19:35:59.085415+07:00"
+    },
+    {
+      "id": "b688ee381933d34714bd640b5084a292",
+      "title": "Techcombank đồng hành cùng doanh nghiệp và hộ kinh doanh tại Vũng Tàu, Tam Thắng và Rạch Dừa",
+      "link": "https://tuoitre.vn/techcombank-dong-hanh-cung-doanh-nghiep-va-ho-kinh-doanh-tai-vung-tau-tam-thang-va-rach-dua-20251021180502304.htm",
+      "summary": "Đây là minh chứng cho cam kết dài hạn của Techcombank trong việc đồng hành cùng “siêu đô thị quốc tế tương lai TP.HCM” trên hành trình chuyển đổi số, nâng cao năng lực cạnh tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085181+07:00",
+      "fetched": "2025-10-21T19:35:59.085294+07:00"
+    },
+    {
+      "id": "72b7a8c9cbbdacdf9d5288f49e85c35a",
+      "title": "Người đàn ông Trung Quốc gây án ở trong nước rồi trốn sang khách sạn tại Nha Trang",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-trung-quoc-gay-an-o-trong-nuoc-roi-tron-sang-khach-san-tai-nha-trang-20251021175036914.htm",
+      "summary": "Công an tỉnh Khánh Hòa vừa bàn giao cho Công an Trung Quốc một người đàn ông có lệnh truy nã, tình nghi tiếp tay cho đường dây lừa đảo trên mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.085051+07:00",
+      "fetched": "2025-10-21T19:35:59.085169+07:00"
+    },
+    {
+      "id": "6cd95e47bb489fedce01b1e9e1f5e739",
+      "title": "Lần đầu Hà Nội dẫn đầu cả nước về chuyển đổi số",
+      "link": "https://tuoitre.vn/lan-dau-ha-noi-dan-dau-ca-nuoc-ve-chuyen-doi-so-20251021171040551.htm",
+      "summary": "Ngày 21-10, tại chương trình chào mừng Ngày Chuyển đổi số quốc gia năm 2025, Bộ Khoa học và Công nghệ đã công bố kết quả chỉ số chuyển đổi số năm 2024, xếp hạng theo 34 tỉnh, thành phố sau sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084914+07:00",
+      "fetched": "2025-10-21T19:35:59.085025+07:00"
+    },
+    {
+      "id": "2d57e3e537027e54e1d8bb3fab0d418b",
+      "title": "Nhiều bà mẹ vừa sinh đã bị chào mời mua sữa công thức",
+      "link": "https://tuoitre.vn/nhieu-ba-me-vua-sinh-da-bi-chao-moi-mua-sua-cong-thuc-20251021174512346.htm",
+      "summary": "Nhiều bà mẹ vừa sinh vài giờ đã bị gọi mời mua sữa công thức, vô tình tạo áp lực tâm lý và ảnh hưởng đến việc nuôi con bằng sữa mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084793+07:00",
+      "fetched": "2025-10-21T19:35:59.084903+07:00"
+    },
+    {
+      "id": "e2553c6c786e5af038385000b7e41ac5",
+      "title": "Tạm giữ hình sự chủ fanpage 'Hà và Việt Nam' để điều tra hành vi chiếm đoạt tiền từ thiện",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-chu-fanpage-ha-va-viet-nam-de-dieu-tra-hanh-vi-chiem-doat-tien-tu-thien-20251021174142791.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an tỉnh Thanh Hóa vừa mở rộng điều tra và đang tạm giữ hình sự Đào Quang Hà (24 tuổi, trú tại tỉnh Hưng Yên) để điều tra, làm rõ hành vi chiếm đoạt tiền kêu gọi từ thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084668+07:00",
+      "fetched": "2025-10-21T19:35:59.084781+07:00"
+    },
+    {
+      "id": "131f64f435bdafbe7fd71bd051f17123",
+      "title": "Phú Quốc quyết liệt giải phóng mặt bằng để mở rộng sân bay đón APEC 2027",
+      "link": "https://tuoitre.vn/phu-quoc-quyet-liet-giai-phong-mat-bang-de-mo-rong-san-bay-don-apec-2027-2025102117234306.htm",
+      "summary": "Ngoài tuyên truyền vận động người dân tự nguyện giao đất, Phú Quốc quyết liệt cưỡng chế giải phóng mặt bằng, giao đất cho nhà đầu tư mở rộng Cảng hàng không quốc tế Phú Quốc đón APEC 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084540+07:00",
+      "fetched": "2025-10-21T19:35:59.084656+07:00"
+    },
+    {
+      "id": "07b332b285ee1b5b2f549c23ba5115c4",
+      "title": "Người dẫn chương trình AI lên sóng truyền hình Anh gây bất ngờ",
+      "link": "https://tuoitre.vn/nguoi-dan-chuong-trinh-ai-len-song-truyen-hinh-anh-gay-bat-ngo-20251021171058772.htm",
+      "summary": "Kênh Channel 4 của Anh khiến khán giả bất ngờ khi cho phát sóng chương trình thời sự do người dẫn ảo đảm nhiệm, và chỉ tiết lộ sự thật ở phút cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084412+07:00",
+      "fetched": "2025-10-21T19:35:59.084529+07:00"
+    },
+    {
+      "id": "e8485c3ad210887829e7c02b8db48295",
+      "title": "Phát hiện bất ngờ: Độc chất chì có thể đã góp phần tạo nên bộ não thông minh của loài người",
+      "link": "https://tuoitre.vn/phat-hien-bat-ngo-doc-chat-chi-co-the-da-gop-phan-tao-nen-bo-nao-thong-minh-cua-loai-nguoi-20251021084218438.htm",
+      "summary": "Nghiên cứu quốc tế hé lộ tổ tiên loài người đã phơi nhiễm chì suốt hơn 2 triệu năm, và chính độc chất này có thể góp phần tạo nên bộ não thông minh ngày nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084280+07:00",
+      "fetched": "2025-10-21T19:35:59.084400+07:00"
+    },
+    {
+      "id": "252ab6ca5e357aea5b5e95633aacf212",
+      "title": "YoonA, Lee Chae Min và đoàn phim Ngự trù của bạo chúa đến Việt Nam",
+      "link": "https://tuoitre.vn/yoona-lee-chae-min-va-doan-phim-ngu-tru-cua-bao-chua-den-viet-nam-20251021182922704.htm",
+      "summary": "Sau thành công của fanmeeting, YoonA trở lại Việt Nam để nghỉ dưỡng cùng đoàn phim Ngự trù của bạo chúa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.084139+07:00",
+      "fetched": "2025-10-21T19:35:59.084267+07:00"
+    },
+    {
+      "id": "ae02142988cdbadaec0cc813d8407342",
+      "title": "Nữ sinh 'cãi tay đôi' với giảng viên vì bị nhắc ăn mì trong lớp",
+      "link": "https://tuoitre.vn/nu-sinh-cai-tay-doi-voi-giang-vien-vi-bi-nhac-an-mi-trong-lop-20251021181318744.htm",
+      "summary": "Sau sự việc video sinh viên đứng \"cãi tay đôi\" với giảng viên lan truyền trên mạng, Đại học Phenikaa (Hà Nội), cho biết nữ sinh đã bày tỏ lời xin lỗi tới giảng viên và các bạn trong lớp, đồng thời cam kết rút kinh nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:35:59.083889+07:00",
+      "fetched": "2025-10-21T19:35:59.084123+07:00"
+    },
     {
       "id": "ba6f81b516bf898785f14f1695aead13",
       "title": "Indonesia ghi dấu với Giải thể dục dụng cụ thế giới",
@@ -453,6 +603,286 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T13:25:18.485613+07:00"
     },
     {
+      "id": "d41d33cb6d8c906756c0e4babef7650d",
+      "title": "Triều cường dâng cao, đường Trần Xuân Soạn ở TP.HCM lại biến thành sông",
+      "link": "https://thanhnien.vn/trieu-cuong-dang-cao-duong-tran-xuan-soan-o-tphcm-lai-bien-thanh-song-185251021174635874.htm",
+      "summary": "Chiều 21.10, triều cường dâng cao khiến một đoạn trên đường Trần Xuân Soạn (phường Tân Thuận, TP.HCM) ngập sâu, việc đi lại của người dân bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:29:00+07:00",
+      "fetched": "2025-10-21T19:35:58.013345+07:00"
+    },
+    {
+      "id": "1090671b5cdc972ce9e3b05554cd0517",
+      "title": "Người dùng Windows 11 mất 3 TB dữ liệu vì BitLocker 'gây họa'",
+      "link": "https://thanhnien.vn/nguoi-dung-windows-11-mat-3-tb-du-lieu-vi-bitlocker-gay-hoa-185251020132917948.htm",
+      "summary": "Một biện pháp an toàn được thiết kế để bảo vệ người dùng lại vô tình trở thành một rào cản không thể vượt qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:23:00+07:00",
+      "fetched": "2025-10-21T19:35:58.013510+07:00"
+    },
+    {
+      "id": "ee02784d41db58b7c8da49ce5a3794ca",
+      "title": "Nữ diễn viên hát cùng nghệ sĩ cải lương Thanh Hằng, gây xúc động ở 'Tình bolero'",
+      "link": "https://thanhnien.vn/nu-dien-vien-hat-cung-nghe-si-cai-luong-thanh-hang-gay-xuc-dong-o-tinh-bolero-185251021185307289.htm",
+      "summary": "Nhận được sự hỗ trợ của nghệ sĩ cải lương Thanh Hằng, diễn viên Hiền Trang được đánh giá cao khi kể câu chuyện về tình mẫu tử trên sân khấu 'Tình bolero 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:18:00+07:00",
+      "fetched": "2025-10-21T19:35:58.013667+07:00"
+    },
+    {
+      "id": "47754975352c2758d3bab65cc593841f",
+      "title": "Bắt tạm giam 8 bị can mua bán người",
+      "link": "https://thanhnien.vn/bat-tam-giam-8-bi-can-mua-ban-nguoi-185251021162020381.htm",
+      "summary": "Công an tỉnh Đắk Lắk khởi tố, bắt tạm giam 8 bị can về hành vi mua bán người dưới 16 tuổi với thủ đoạn núp bóng cơ sở kinh doanh giải trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:17:00+07:00",
+      "fetched": "2025-10-21T19:35:58.013820+07:00"
+    },
+    {
+      "id": "e2d810bc419b347cad4796cfa87bae02",
+      "title": "iOS 26.1 giúp giao diện Liquid Glass dễ đọc hơn",
+      "link": "https://thanhnien.vn/ios-261-giup-giao-dien-liquid-glass-de-doc-hon-185251021161345897.htm",
+      "summary": "Apple sắp mang đến cho người dùng nhiều quyền kiểm soát hơn đối với giao diện Liquid Glass trong suốt quen thuộc trên iPhone và Mac.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:08:00+07:00",
+      "fetched": "2025-10-21T19:35:58.013968+07:00"
+    },
+    {
+      "id": "2a6b665275d9a57922144e421320caf4",
+      "title": "Phụ huynh giám sát bếp ăn bán trú, trường học công khai bữa ăn",
+      "link": "https://thanhnien.vn/phu-huynh-giam-sat-bep-an-ban-tru-truong-hoc-cong-khai-bua-an-185251021180538534.htm",
+      "summary": "Trường mầm non ở TP.HCM công khai bữa ăn của trẻ tới phụ huynh học sinh qua nhiều kênh, trực tiếp và trực tuyến, đồng thời cho phép phụ huynh tham quan, giám sát bếp ăn bán trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:07:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014136+07:00"
+    },
+    {
+      "id": "65e514074e660a2f3a79268d03ac21f3",
+      "title": "Từ bãi đất lầy thành làng du lịch Pả Vi nổi tiếng thế giới",
+      "link": "https://vnexpress.net/tu-bai-dat-lay-thanh-lang-du-lich-pa-vi-noi-tieng-the-gioi-4951713.html",
+      "summary": "Làng du lịch Pả Vi 'lột xác' từ bãi đất trống, lầy lội 10 năm trước, thành điểm du lịch cộng đồng nổi tiếng, thu hút hàng nghìn khách trong nước và quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.691461+07:00"
+    },
+    {
+      "id": "46063e22c0388e19401e2149ccf7a0fa",
+      "title": "Chuyến bay xanh từ TP HCM đến Hà Nội của Vietnam Airlines",
+      "link": "https://vnexpress.net/chuyen-bay-xanh-tu-tp-hcm-den-ha-noi-cua-vietnam-airlines-4954106.html",
+      "summary": "Chuyến bay VN248 từ TP HCM đến Hà Nội được Vietnam Airlines áp dụng đồng bộ nhiều giải pháp xanh trong vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.691640+07:00"
+    },
+    {
+      "id": "fd7f7f661343fef00f0681614adc86ca",
+      "title": "Ba cách theo dõi sức khỏe tim tại nhà",
+      "link": "https://vnexpress.net/ba-cach-theo-doi-suc-khoe-tim-tai-nha-4953953.html",
+      "summary": "Đếm nhịp tim, leo cầu thang, sử dụng ứng dụng và thiết bị thông minh giúp theo dõi tình trạng tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.691805+07:00"
+    },
+    {
+      "id": "a330bb996e288f8fc2372a877dd27555",
+      "title": "Hút thuốc lá không được bế em bé sơ sinh, có đúng không?",
+      "link": "https://vnexpress.net/hut-thuoc-la-khong-duoc-be-em-be-so-sinh-co-dung-khong-4953596.html",
+      "summary": "Con dâu tôi mới sinh, không cho ông nội bế cháu vì hút thuốc lá, có phải là cố tình không cho ông cháu tôi gần gũi? (Đặng Nguyên, 57 tuổi, Nghệ An)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.691965+07:00"
+    },
+    {
+      "id": "11b9219876dbb4c285803b3155ecc2f0",
+      "title": "Doanh số sedan hạng D lại lao dốc, Toyota Camry bán chưa tới 80 xe",
+      "link": "https://thanhnien.vn/doanh-so-sedan-hang-d-lai-lao-doc-toyota-camry-ban-chua-toi-80-xe-185251021144647253.htm",
+      "summary": "Các dòng xe sedan hạng D tại Việt Nam có tháng thứ 4 liên tiếp sụt giảm doanh số, ngay cả mẫu xe dẫn đầu phân khúc như Toyota Camry cũng chỉ bán ra chưa đến 80 xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T12:00:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014286+07:00"
+    },
+    {
+      "id": "46cecacff199e19e280c3edc7080192b",
+      "title": "Lễ tắm rửa Linga - Yoni trong tháp cổ người Chăm",
+      "link": "https://vnexpress.net/le-tam-rua-linga-yoni-trong-thap-co-nguoi-cham-4954031.html",
+      "summary": "Người Chăm rước y trang từ chân đồi lên đền tháp Pô Sah Inư, làm lễ tắm rửa bệ thờ Linga – Yoni, cầu mong mùa màng bội thu, xứ sở thanh bình trong lễ Kate.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:57:46+07:00",
+      "fetched": "2025-10-21T19:35:54.692142+07:00"
+    },
+    {
+      "id": "e4ce350ca5171c63f96e143e4358ce41",
+      "title": "Lâm Đồng xử lý 'điểm nghẽn lớn nhất', thúc đẩy giải ngân đầu tư công",
+      "link": "https://thanhnien.vn/lam-dong-xu-ly-diem-nghen-lon-nhat-thuc-day-giai-ngan-dau-tu-cong-185251021170011572.htm",
+      "summary": "Chủ tịch UBND tỉnh Lâm Đồng Hồ Văn Mười khẳng định sẽ tính tới phương án thay cán bộ, không loại trừ việc thay giám đốc sở, nếu các đơn vị không tháo gỡ được 'điểm nghẽn lớn nhất' là khâu giải phóng mặt bằng, để quyết nâng tỉ lệ giải ngân vốn đầu tư công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:55:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014440+07:00"
+    },
+    {
+      "id": "e44b6d2adc66658efb3eb70586f9c340",
+      "title": "Sóng cao 6 m đánh liên tiếp vào kè sông Hàn",
+      "link": "https://vnexpress.net/song-cao-6-m-danh-lien-tiep-vao-ke-song-han-4954117.html",
+      "summary": "Sóng cao 4–6 m liên tiếp đánh vào bờ sông Hàn, làm hư hỏng kè và ngập đường, dù tâm bão Fengshen vẫn chưa vào đất liền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:52:20+07:00",
+      "fetched": "2025-10-21T19:35:54.692304+07:00"
+    },
+    {
+      "id": "09eaaa6e9ac5a1176df1ffdef3323df1",
+      "title": "Đôi vợ chồng Trung Quốc chiếm lĩnh thị trường bỉm tã châu Phi",
+      "link": "https://vnexpress.net/doi-vo-chong-trung-quoc-chiem-linh-thi-truong-bim-ta-chau-phi-4954020.html",
+      "summary": "Đôi vợ chồng Thẩm Duyên Xương và Dương Diễm Quyên xây dựng công ty bán băng vệ sinh, bỉm tã lớn nhất châu Phi với các sản phẩm giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:50:27+07:00",
+      "fetched": "2025-10-21T19:35:54.692460+07:00"
+    },
+    {
+      "id": "09eaaa6e9ac5a1176df1ffdef3323df1",
+      "title": "Đôi vợ chồng Trung Quốc chiếm lĩnh thị trường bỉm tã châu Phi",
+      "link": "https://vnexpress.net/doi-vo-chong-trung-quoc-chiem-linh-thi-truong-bim-ta-chau-phi-4954020.html",
+      "summary": "Đôi vợ chồng Thẩm Duyên Xương và Dương Diễm Quyên xây dựng công ty bán băng vệ sinh, bỉm tã lớn nhất châu Phi với các sản phẩm giá rẻ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T11:50:27+07:00",
+      "fetched": "2025-10-21T19:36:00.159096+07:00"
+    },
+    {
+      "id": "e5bc4484b861e074811aebb2e0d0cac4",
+      "title": "Chạy ngược chiều trên QL1, tài xế 60 tuổi bị phạt 19 triệu đồng",
+      "link": "https://thanhnien.vn/chay-nguoc-chieu-tren-ql1-tai-xe-60-tuoi-bi-phat-19-trieu-dong-185251021173318917.htm",
+      "summary": "Tài xế ngang nhiên lái ô tô chạy ngược chiều trên QL1, đoạn qua xã Ninh Hòa (Khánh Hòa), bị phạt 19 triệu đồng và trừ 4 điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:45:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014599+07:00"
+    },
+    {
+      "id": "b951a826d1d83bbb0a2b4aed6ffbb124",
+      "title": "Vừa có kết quả xổ số miền Nam ngày 21 tháng 10, khách TP.HCM liền đi đổi thưởng",
+      "link": "https://thanhnien.vn/vua-co-ket-qua-xo-so-mien-nam-ngay-21-thang-10-khach-tphcm-lien-di-doi-thuong-185251021181350193.htm",
+      "summary": "Người đàn ông ở TP.HCM bất ngờ trúng 2 tờ vé số an ủi trị giá 100 triệu đồng đài Vũng Tàu sau kết quả xổ số miền Nam ngày 21 tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:43:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014750+07:00"
+    },
+    {
+      "id": "ed71611fab149ce98c6e94472404a780",
+      "title": "Tài xế ngáo đá chạy xe lạng lách, cầm dao chống trả công an",
+      "link": "https://thanhnien.vn/tai-xe-ngao-da-chay-xe-lang-lach-cam-dao-chong-tra-cong-an-185251021164612892.htm",
+      "summary": "Tài xế ngáo đá chạy xe tải lạng lách trên tỉnh lộ 786B và cầm dao chống trả lực lượng CSGT Công an tỉnh Tây Ninh đã bị khống chế sau gần một giờ truy đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:42:00+07:00",
+      "fetched": "2025-10-21T19:35:58.014896+07:00"
+    },
+    {
+      "id": "f8ed8544f4c783f36ea785c46bdac96a",
+      "title": "Phê duyệt dự án FDI gần 700 tỉ cho một KCN ở Khánh Hòa",
+      "link": "https://thanhnien.vn/phe-duyet-du-an-fdi-gan-700-ti-cho-mot-kcn-o-khanh-hoa-185251021185433571.htm",
+      "summary": "Ngày 9.10.2025, Ban Quản lý Khu Kinh tế và Khu Công nghiệp tỉnh Khánh Hòa đã phê duyệt dự án đầu tư Nhà máy sản xuất vải Spandex Derun tại Khu công nghiệp ở xã Thuận Bắc, tỉnh Khánh Hòa. Dự án có tổng vốn đầu tư hơn 681 tỉ đồng (tương đương gần 26 triệu USD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:40:00+07:00",
+      "fetched": "2025-10-21T19:35:58.015066+07:00"
+    },
+    {
+      "id": "c302d24d2b2ee6d13d54397af8360391",
+      "title": "Ca nô biên phòng Quảng Trị quần thảo cửa biển, giúp tàu thuyền tránh bão Fengshen",
+      "link": "https://thanhnien.vn/ca-no-bien-phong-quang-tri-quan-thao-cua-bien-giup-tau-thuyen-tranh-bao-fengshen-185251021171747704.htm",
+      "summary": "Ứng phó bão Fengshen (bão số 12), lực lượng biên phòng Quảng Trị quần thảo nơi cửa biển, khẩn trương kêu gọi và sắp xếp tàu thuyền vào tránh trú bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:36:00+07:00",
+      "fetched": "2025-10-21T19:35:58.015225+07:00"
+    },
+    {
+      "id": "282889005521ac20d566be45960e3c6e",
+      "title": "Ra mắt phim hoạt hình 3D thuần Việt cho tuổi teen",
+      "link": "https://thanhnien.vn/ra-mat-phim-hoat-hinh-3d-thuan-viet-cho-tuoi-teen-185251021174312743.htm",
+      "summary": "Series phim hoạt hình 3D dành cho tuổi teen 'Sức mạnh song sinh' sẽ ra mắt khán giả vào 21 giờ 30 thứ hai hằng tuần từ ngày 3.11 trên HTV7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:34:00+07:00",
+      "fetched": "2025-10-21T19:35:58.015372+07:00"
+    },
+    {
+      "id": "853e8a57c1615082199a268ac6535ae2",
+      "title": "Hôn nhân đồng điệu của Việt Hoa và Vương Trọng Trí",
+      "link": "https://vnexpress.net/hon-nhan-dong-dieu-cua-viet-hoa-va-vuong-trong-tri-4953803.html",
+      "summary": "Diễn viên Việt Hoa và Vương Trọng Trí, cùng 29 tuổi, nên duyên từ lớp đại học, duy trì tình yêu nhiều năm nhờ thấu hiểu, tôn trọng nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:31:00+07:00",
+      "fetched": "2025-10-21T19:35:54.692616+07:00"
+    },
+    {
+      "id": "eb8531a100ed36eff2734ae059cc2370",
+      "title": "Anh sử dụng mạng lưới giao bưu kiện bằng điện",
+      "link": "https://vnexpress.net/anh-su-dung-mang-luoi-giao-buu-kien-bang-dien-4951055.html",
+      "summary": "TEG hợp tác Hived triển khai dịch vụ vận chuyển không phát thải bằng xe tải điện giúp giảm 76% khí thải mỗi bưu kiện, giao hàng đúng hạn 99%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:30:41+07:00",
+      "fetched": "2025-10-21T19:35:54.692774+07:00"
+    },
+    {
+      "id": "ebf2a8fbc511edba86bdaecbc0591a3b",
+      "title": "Quảng Ngãi: Nhiều người tắm biển Mỹ Khê khi sóng cao 1 - 2 mét",
+      "link": "https://thanhnien.vn/quang-ngai-nhieu-nguoi-tam-bien-my-khe-khi-song-cao-1-2-met-185251021164203118.htm",
+      "summary": "Nhiều người dân ở Quảng Ngãi tắm biển Mỹ Khê, bất chấp nguy hiểm khi có sóng cao 1 - 2 m do ảnh hưởng bão Fengshen (bão số 12).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:30:00+07:00",
+      "fetched": "2025-10-21T19:35:58.015523+07:00"
+    },
+    {
+      "id": "68edced9bb6e5aa75efe39af09fe16da",
+      "title": "HLV tuyển Thái Lan tức giận vì bị sa thải đột ngột",
+      "link": "https://vnexpress.net/hlv-tuyen-thai-lan-tuc-gian-vi-bi-sa-thai-dot-ngot-4954122.html",
+      "summary": "HLV Masatada Ishii mô tả lãnh đạo LĐBĐ Thái Lan (FAT) là những người thiếu trung thực, sau quyết định sa thải ông vào chiều nay 21/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:24:16+07:00",
+      "fetched": "2025-10-21T19:35:54.692954+07:00"
+    },
+    {
+      "id": "68edced9bb6e5aa75efe39af09fe16da",
+      "title": "HLV tuyển Thái Lan tức giận vì bị sa thải đột ngột",
+      "link": "https://vnexpress.net/hlv-tuyen-thai-lan-tuc-gian-vi-bi-sa-thai-dot-ngot-4954122.html",
+      "summary": "HLV Masatada Ishii mô tả lãnh đạo LĐBĐ Thái Lan (FAT) là những người thiếu trung thực, sau quyết định sa thải ông vào chiều nay 21/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T11:24:16+07:00",
+      "fetched": "2025-10-21T19:36:05.773940+07:00"
+    },
+    {
+      "id": "a16a0bf172435d659246e7b2737d36dd",
+      "title": "Tài xế hất cảnh sát giao thông lên nắp capo bị tạm giữ",
+      "link": "https://vnexpress.net/tai-xe-hat-canh-sat-giao-thong-len-nap-capo-bi-tam-giu-4954119.html",
+      "summary": "Lê Thành Công, 45 tuổi, khai việc lái ôtô 7 chỗ hất thiếu tá cảnh sát giao thông lên nắp capo, đẩy đi 20 m là do mất bình tĩnh, không làm chủ được hành vi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:21:24+07:00",
+      "fetched": "2025-10-21T19:35:54.693158+07:00"
+    },
+    {
       "id": "b65d85cabd4ddfdf3604b6ebfc3a272b",
       "title": "Paradise Legacy - hải trình chạm cảm xúc giữa vịnh di sản",
       "link": "https://tuoitre.vn/paradise-legacy-hai-trinh-cham-cam-xuc-giua-vinh-di-san-20251021090527252.htm",
@@ -603,6 +1033,76 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T11:19:48.785010+07:00"
     },
     {
+      "id": "a43a117a30a8f75ce53874d7e61bfd95",
+      "title": "Cảnh sát khống chế nghi phạm âm mưu xả súng ở sân bay Mỹ",
+      "link": "https://vnexpress.net/canh-sat-khong-che-nghi-pham-am-muu-xa-sung-o-san-bay-my-4954111.html",
+      "summary": "Cảnh sát Atlanta khống chế người đàn ông 49 tuổi giữa sân bay, kịp thời ngăn chặn nguy cơ xả súng, sau khi nghi phạm livestream trên mạng xã hội cùng lời đe doạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:12:24+07:00",
+      "fetched": "2025-10-21T19:35:54.693319+07:00"
+    },
+    {
+      "id": "144c227ed1d19687a3e507514dc27888",
+      "title": "Đường huyết trong máu cao ăn uống thế nào?",
+      "link": "https://vnexpress.net/duong-huyet-trong-mau-cao-an-uong-the-nao-4953602.html",
+      "summary": "Tôi làm xét nghiệm cho kết quả chỉ số đường huyết trong máu cao, bác sĩ nói bị tiền đái tháo đường, nên ăn uống thế nào để cải thiện? (Tiến, 42 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.693470+07:00"
+    },
+    {
+      "id": "ecbc0ca06f1939680ce33b742cb0a83e",
+      "title": "VinFast muốn nhận ý kiến từ gần 300.000 chủ xe",
+      "link": "https://vnexpress.net/vinfast-muon-nhan-y-kien-tu-gan-300-000-chu-xe-4954108.html",
+      "summary": "VinFast triển khai chương trình khảo sát toàn bộ chủ ôtô của hãng trong một tuần, nhằm nâng chất lượng phục vụ, từ 20/10 đến 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.693624+07:00"
+    },
+    {
+      "id": "4ff81b8d33f37a5c22f943cb7af10ef5",
+      "title": "VPBank dẫn đầu thị trường thẻ tín dụng Việt Nam nửa đầu năm",
+      "link": "https://vnexpress.net/vpbank-dan-dau-thi-truong-the-tin-dung-viet-nam-nua-dau-nam-4954101.html",
+      "summary": "VPBank dẫn đầu thị trường thẻ tín dụng cá nhân trong 6 tháng đầu năm 2025, với tổng doanh số sử dụng vượt 90.000 tỷ đồng, chiếm 16% toàn ngành, theo Chi hội Thẻ Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T11:00:00+07:00",
+      "fetched": "2025-10-21T19:35:54.693780+07:00"
+    },
+    {
+      "id": "0c2c06f1462865f658a9757ee4204620",
+      "title": "Hansi Flick: 'Tôi phải cư xử lại, làm gương cho con cháu'",
+      "link": "https://vnexpress.net/hansi-flick-toi-phai-cu-xu-lai-lam-guong-cho-con-chau-4954103.html",
+      "summary": "Bị truất quyền chỉ đạo vì phản ứng trọng tài rồi mừng bàn thắng theo kiểu thô tục ở La Liga cuối tuần qua, HLV Barca Hansi Flick tự nhận bản thân phải thay đổi cách cư xử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T10:49:07+07:00",
+      "fetched": "2025-10-21T19:36:05.775272+07:00"
+    },
+    {
+      "id": "94b0b6be2448f7ebba515cd7791a1185",
+      "title": "Chính sách ưu tiên 'kiềm chế lạm phát, tăng lương' của nữ thủ tướng Nhật Bản",
+      "link": "https://vnexpress.net/chinh-sach-uu-tien-kiem-che-lam-phat-tang-luong-cua-nu-thu-tuong-nhat-ban-4953950.html",
+      "summary": "Nữ thủ tướng Nhật Bản Sanae Takaichi ưu tiên nâng lương, kiềm chế lạm phát và thân thiện với Mỹ, tương tự chính sách \"Abenomics\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T10:32:46+07:00",
+      "fetched": "2025-10-21T19:36:01.885661+07:00"
+    },
+    {
+      "id": "b27c6903ae4b34b75e10589b0a581bca",
+      "title": "'Chuyển đổi số phải nhanh, hiệu quả, gần dân hơn'",
+      "link": "https://vnexpress.net/chuyen-doi-so-phai-nhanh-hieu-qua-gan-dan-hon-4954069.html",
+      "summary": "Thứ trưởng Vũ Hải Quân nhấn mạnh thông điệp cũng như lời hiệu triệu của Ngày Chuyển đổi số Quốc gia 2025 là \"chuyển đổi số nhanh hơn, hiệu quả hơn, gần dân hơn\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-21T10:28:08+07:00",
+      "fetched": "2025-10-21T19:36:04.090463+07:00"
+    },
+    {
       "id": "1b29888b4679d5a630198b59445203fe",
       "title": "Lợi nhuận 9 tháng đầu năm Techcombank đạt 23.400 tỉ đồng",
       "link": "https://thanhnien.vn/loi-nhuan-9-thang-dau-nam-techcombank-dat-23400-ti-dong-185251021171120286.htm",
@@ -621,6 +1121,16 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T10:15:00+07:00",
       "fetched": "2025-10-21T17:18:05.641180+07:00"
+    },
+    {
+      "id": "0d5c9ce3b8d7cc55045d705d52b30e92",
+      "title": "Qatar cáo buộc Israel liên tục vi phạm lệnh ngừng bắn ở Gaza",
+      "link": "https://vnexpress.net/qatar-cao-buoc-israel-lien-tuc-vi-pham-lenh-ngung-ban-o-gaza-4953937.html",
+      "summary": "Quốc vương Qatar lên án loạt cuộc tấn công của Israel nhằm vào vị trí của Hamas, nhấn mạnh đây là hành động vi phạm lệnh ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T10:07:07+07:00",
+      "fetched": "2025-10-21T19:36:00.159272+07:00"
     },
     {
       "id": "0371b7ad63ee4e326baa3e1d21cc6b84",
@@ -833,6 +1343,16 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T17:18:05.641976+07:00"
     },
     {
+      "id": "20be73627374e5e5b72c2859501c54da",
+      "title": "Tổng thống Phần Lan chủ trì lễ đón Tổng Bí thư Tô Lâm",
+      "link": "https://vnexpress.net/tong-thong-phan-lan-chu-tri-le-don-tong-bi-thu-to-lam-4954082.html",
+      "summary": "Tổng thống Alexander Stubb chủ trì lễ đón Tổng Bí thư Tô Lâm thăm chính thức Phần Lan ngày 20-22/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T09:57:25+07:00",
+      "fetched": "2025-10-21T19:36:00.159435+07:00"
+    },
+    {
       "id": "65422734779b192a24ae957b44421a2a",
       "title": "Đại hội Đoàn Thanh niên VRG: Sẽ tiếp tục tiên phong trong chuyển đổi số",
       "link": "https://thanhnien.vn/dai-hoi-doan-thanh-nien-vrg-se-tiep-tuc-tien-phong-trong-chuyen-doi-so-185251021143317847.htm",
@@ -851,6 +1371,16 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T09:50:00+07:00",
       "fetched": "2025-10-21T17:18:05.642242+07:00"
+    },
+    {
+      "id": "6ac71d2d3336f64d843b96dfcf27a7c0",
+      "title": "Ukraine không chặn được loạt tên lửa Nga, hàng trăm nghìn người mất điện",
+      "link": "https://vnexpress.net/ukraine-khong-chan-duoc-loat-ten-lua-nga-hang-tram-nghin-nguoi-mat-dien-4954032.html",
+      "summary": "Hàng trăm nghìn người ở tỉnh Chernihiv mất điện sau cuộc tập kích của Nga, không quân Ukraine thừa nhận để lọt toàn bộ tên lửa và hàng chục UAV.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T09:49:31+07:00",
+      "fetched": "2025-10-21T19:36:00.159600+07:00"
     },
     {
       "id": "005c8154d00c3f051874c637c4ab4ada",
