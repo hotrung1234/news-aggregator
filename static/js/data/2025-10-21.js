@@ -1,7 +1,147 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T21:16:12.358956+07:00",
+  "lastUpdated": "2025-10-21T23:22:02.063052+07:00",
   "articles": [
+    {
+      "id": "4dcb5b12edd1d592b6991d241215537c",
+      "title": "Việt Nam và Phần Lan thiết lập quan hệ Đối tác chiến lược",
+      "link": "https://tuoitre.vn/viet-nam-va-phan-lan-thiet-lap-quan-he-doi-tac-chien-luoc-20251021203058476.htm",
+      "summary": "Việc nâng cấp quan hệ diễn ra ngày 21-10, trong khuôn khổ chuyến thăm đầu tiên của Tổng Bí thư Tô Lâm tới Phần Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617741+07:00",
+      "fetched": "2025-10-21T23:21:55.617854+07:00"
+    },
+    {
+      "id": "657c5f4563255d6343c3ef9ed35e43ca",
+      "title": "Chủ tịch FIFA đến thăm Malaysia giữa xì căng đan 'nhập tịch gian dối'",
+      "link": "https://tuoitre.vn/chu-tich-fifa-den-tham-malaysia-giua-xi-cang-dan-nhap-tich-gian-doi-20251021203446502.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá thế giới (FIFA) Gianni Infantino dự kiến ​​sẽ có chuyến thăm chính thức tới Malaysia, nhân dịp Hội nghị thượng đỉnh ASEAN lần thứ 47.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617614+07:00",
+      "fetched": "2025-10-21T23:21:55.617725+07:00"
+    },
+    {
+      "id": "564d0fa7e0167da3952786109069184f",
+      "title": "Thầy giáo ở Đà Nẵng trúng vé số độc đắc của Vietlott hơn 179 tỉ đồng",
+      "link": "https://tuoitre.vn/thay-giao-o-da-nang-trung-ve-so-doc-dac-cua-vietlott-hon-179-ti-dong-2025102120590744.htm",
+      "summary": "Hôm nay 21-10, Vietlott đã trao giải Jackpot 1 trị giá hơn 179 tỉ đồng cho anh N.V.H. - giáo viên ở Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617490+07:00",
+      "fetched": "2025-10-21T23:21:55.617603+07:00"
+    },
+    {
+      "id": "a38ee3f54e2c84d1ad00ec10dfb28faa",
+      "title": "Tân sinh viên được tiếp sức đến trường không có suy nghĩ bỏ cuộc",
+      "link": "https://tuoitre.vn/tan-sinh-vien-duoc-tiep-suc-den-truong-khong-co-suy-nghi-bo-cuoc-20251020222614142.htm",
+      "summary": "Tại Trường đại học Nam Cần Thơ, lễ trao học bổng Tiếp sức đến trường cho 72 tân sinh viên nghèo chiều 20-10 chứng kiến câu chuyện nghị lực vượt khó phi thường của những gương mặt tuổi 18.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617363+07:00",
+      "fetched": "2025-10-21T23:21:55.617479+07:00"
+    },
+    {
+      "id": "ad12518a8b546794c7be2f55f172ed82",
+      "title": "Đà Nẵng: Người dân đổ xô mua thực phẩm tích trữ trước bão, rau xanh 'cháy hàng'",
+      "link": "https://tuoitre.vn/da-nang-nguoi-dan-do-xo-mua-thuc-pham-tich-tru-truoc-bao-rau-xanh-chay-hang-202510212059402.htm",
+      "summary": "Để chủ động ứng phó với bão số 12 (bão Thần Gió), nhiều người dân Đà Nẵng đã đổ xô đến các chợ, siêu thị và cửa hàng tiện lợi để mua thực phẩm cần thiết về tích trữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617225+07:00",
+      "fetched": "2025-10-21T23:21:55.617351+07:00"
+    },
+    {
+      "id": "5537b7a5fc801865ef19540b6d7152e7",
+      "title": "Nga không kích cơ sở năng lượng Ukraine, hàng trăm nghìn người mất điện giữa trời lạnh",
+      "link": "https://tuoitre.vn/nga-khong-kich-co-so-nang-luong-ukraine-hang-tram-nghin-nguoi-mat-dien-giua-troi-lanh-20251021204907483.htm",
+      "summary": "Nga tiếp tục leo thang chiến dịch tấn công vào hạ tầng năng lượng Ukraine, khiến người dân tại tỉnh Chernihiv mất điện và nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.617080+07:00",
+      "fetched": "2025-10-21T23:21:55.617205+07:00"
+    },
+    {
+      "id": "69ddaba6ffbd7d3e4f4ab90092717df7",
+      "title": "Lễ tang nguyên Phó chủ tịch Hội đồng Bộ trưởng Trần Phương tổ chức với nghi thức cấp Nhà nước",
+      "link": "https://tuoitre.vn/le-tang-nguyen-pho-chu-tich-hoi-dong-bo-truong-tran-phuong-to-chuc-voi-nghi-thuc-cap-nha-nuoc-20251021204149918.htm",
+      "summary": "Lễ tang nguyên Phó chủ tịch Hội đồng Bộ trưởng Trần Phương được tổ chức với nghi thức lễ tang cấp Nhà nước tại Nhà tang lễ quốc gia vào ngày 24-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616944+07:00",
+      "fetched": "2025-10-21T23:21:55.617068+07:00"
+    },
+    {
+      "id": "f72518e5f378ed8b516fbf114215ae4d",
+      "title": "Nhân viên hàng không lấy trộm 50 triệu đồng trong hành lý ký gửi của khách tại sân bay Tân Sơn Nhất",
+      "link": "https://tuoitre.vn/nhan-vien-hang-khong-lay-trom-50-trieu-dong-trong-hanh-ly-ky-gui-cua-khach-tai-san-bay-tan-son-nhat-20251021210610602.htm",
+      "summary": "Công an xác định Phương Anh Vũ lợi dụng sơ hở trong quá trình phục vụ hành lý tại sân bay Tân Sơn Nhất, đã lục lọi hành lý ký gửi của khách hàng để lấy trộm tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616795+07:00",
+      "fetched": "2025-10-21T23:21:55.616915+07:00"
+    },
+    {
+      "id": "807a015fffb8807a625da69324bb11ca",
+      "title": "Nâng mức hỗ trợ xây nhà cho hộ nghèo tại TP.HCM lên 100-150 triệu/căn",
+      "link": "https://tuoitre.vn/nang-muc-ho-tro-xay-nha-cho-ho-ngheo-tai-tp-hcm-len-100-150-trieu-can-20251021211811807.htm",
+      "summary": "Ban Thường vụ Thành ủy TP.HCM đồng ý nâng mức hỗ trợ xây nhà cho hộ nghèo, cận nghèo và hộ khó khăn, đảm bảo đúng đối tượng và thủ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616660+07:00",
+      "fetched": "2025-10-21T23:21:55.616782+07:00"
+    },
+    {
+      "id": "fbec9fd74657b42289ba823797139699",
+      "title": "Ngày 22-10, Tổng Bí thư Tô Lâm và Phu nhân thăm Bulgaria",
+      "link": "https://tuoitre.vn/ngay-22-10-tong-bi-thu-to-lam-va-phu-nhan-tham-bulgaria-2025102120570785.htm",
+      "summary": "Sau Phần Lan, Tổng Bí thư Tô Lâm và Phu nhân sẽ thăm chính thức Bulgaria trong 3 ngày, bắt đầu từ ngày 22-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616531+07:00",
+      "fetched": "2025-10-21T23:21:55.616649+07:00"
+    },
+    {
+      "id": "7079e0a2ced4efd55f5c2b525b51f215",
+      "title": "Từ hội nghị mạng lưới Pasteur, Bộ trưởng Bộ Y tế nhấn mạnh phòng bệnh rất quan trọng",
+      "link": "https://tuoitre.vn/tu-hoi-nghi-mang-luoi-pasteur-bo-truong-bo-y-te-nhan-manh-phong-benh-rat-quan-trong-2025102121114321.htm",
+      "summary": "Tại Hội nghị thường niên Mạng lưới Pasteur 2025, Bộ trưởng Bộ Y tế Đào Hồng Lan nhấn mạnh công tác phòng bệnh rất quan trọng và cho rằng hội nghị này sẽ mở ra cơ hội hợp tác, đóng góp cho sự phát triển y tế dự phòng nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616401+07:00",
+      "fetched": "2025-10-21T23:21:55.616519+07:00"
+    },
+    {
+      "id": "2941f7856b9c2248549671cd06003fff",
+      "title": "Người đàn ông ở Đà Nẵng bị gấu tấn công trên đường đi làm rẫy về",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-o-da-nang-bi-gau-tan-cong-tren-duong-di-lam-ray-ve-20251021212408896.htm",
+      "summary": "Trên đường đi rẫy về, một người đàn ông ở xã biên giới thành phố Đà Nẵng bị gấu tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616267+07:00",
+      "fetched": "2025-10-21T23:21:55.616388+07:00"
+    },
+    {
+      "id": "8c1b18f7e342a1f843db5446c1447765",
+      "title": "Thái Lan cam kết tạo điều kiện tốt nhất cho doanh nghiệp Việt Nam",
+      "link": "https://tuoitre.vn/thai-lan-cam-ket-tao-dieu-kien-tot-nhat-cho-doanh-nghiep-viet-nam-20251021212932207.htm",
+      "summary": "Đó là những chia sẻ của Thủ tướng Thái Lan trong cuộc điện đàm với Thủ tướng Phạm Minh Chính vào ngày 21-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.616125+07:00",
+      "fetched": "2025-10-21T23:21:55.616254+07:00"
+    },
+    {
+      "id": "b80d679584002fc7da58c2bb430611c1",
+      "title": "Tay vợt gốc Việt lại gây ấn tượng ở giải cầu lông danh giá",
+      "link": "https://tuoitre.vn/tay-vot-goc-viet-lai-gay-an-tuong-o-giai-cau-long-danh-gia-20251021214256672.htm",
+      "summary": "Tối 21-10 (giờ Việt Nam), tay vợt người Ireland gốc Việt Nhat Nguyen (tên khai sinh Nguyễn Nhật) tiếp tục ghi dấu ấn trong làng cầu lông đỉnh cao khi thắng trận ra quân Giải Pháp Mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:55.615876+07:00",
+      "fetched": "2025-10-21T23:21:55.616109+07:00"
+    },
     {
       "id": "d12c25f655d7ad45141dea04c72e18ae",
       "title": "Honda và nhiều hãng Nhật kiến nghị cần có 2-3 năm chuẩn bị để cấm xe máy chạy xăng",
@@ -453,6 +593,56 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T17:18:06.542050+07:00"
     },
     {
+      "id": "72eafa12c1c1bdcc5ccbfffa5f1e4136",
+      "title": "Nhiều người ở Quảng Ngãi liều mình tắm biển, sóng cao từ 1 - 2 m",
+      "link": "https://thanhnien.vn/nhieu-nguoi-o-quang-ngai-lieu-minh-tam-bien-song-cao-tu-1-2-m-185251021220049437.htm",
+      "summary": "Dù trời có mưa và sóng biển dâng cao do ảnh hưởng của bão số 12, còn có tên gọi khác là bão Zhengshen, nhiều người dân vẫn bất chấp nguy hiểm xuống tắm biển Mỹ Khê (xã Tịnh Khê, tỉnh Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:52:00+07:00",
+      "fetched": "2025-10-21T23:21:54.691279+07:00"
+    },
+    {
+      "id": "b1dc0f992c95934d80daf7ca4daca7fe",
+      "title": "TP.HCM: Ngập triền miên cạnh công trình ‘chống ngập’ ?",
+      "link": "https://thanhnien.vn/tphcm-ngap-trien-mien-canh-cong-trinh-chong-ngap-185251021223112494.htm",
+      "summary": "Dù nằm ngay cạnh công trình chống ngập có vốn đầu tư hàng chục nghìn tỷ đồng, người dân khu vực P.Phú Định, TP.HCM vẫn phải sống chung với triều cường suốt nhiều năm. Nước tràn vào nhà, cuộc sống sinh hoạt của người dân rơi vào cảnh đảo lộn triền miên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:51:00+07:00",
+      "fetched": "2025-10-21T23:21:54.691454+07:00"
+    },
+    {
+      "id": "923c72f4178665f1ba85eaeb04c2b7bf",
+      "title": "Không khí lạnh cản bão số 12 đi chậm lại, mưa lớn diện rộng kéo dài",
+      "link": "https://thanhnien.vn/khong-khi-lanh-can-bao-so-12-di-cham-lai-mua-lon-dien-rong-keo-dai-185251021223358568.htm",
+      "summary": "Bão số 12 (bão Fengshen) đã bị không khí lạnh tác động khiến tốc độ di chuyển chậm lại chỉ còn 10 km/giờ. Mưa lớn trên diện rộng không chỉ tập trung trong ngày 22 - 23.10 mà còn kéo dài trong nhiều ngày, dự báo đến hết tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:50:00+07:00",
+      "fetched": "2025-10-21T23:21:54.691623+07:00"
+    },
+    {
+      "id": "965a88c48a83b0d9a91dc757ef76efc1",
+      "title": "Chuyển lậu hàng trăm cân vàng giấu trong giày từ Trung Quốc về Việt Nam",
+      "link": "https://vnexpress.net/chieu-chuyen-lau-564-kg-vang-tu-trung-quoc-ve-viet-nam-4954171.html",
+      "summary": "Sau khi tổ chức giấu 564 kg vàng (trị giá 1.208 tỷ đồng) trong người hoặc các lô giày nhập lậu từ Trung Quốc, chủ tiệm Trần Thị Hoàn chỉ đạo xóa thông tin nguồn gốc trên bề mặt các thỏi vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:44:50+07:00",
+      "fetched": "2025-10-21T23:21:51.587941+07:00"
+    },
+    {
+      "id": "df878340c900045ab616ba24cc3be136",
+      "title": "Photo sổ đỏ: làm sạch hay làm phiền?",
+      "link": "https://vnexpress.net/photo-so-do-lam-sach-hay-lam-phien-4954166.html",
+      "summary": "Bà hàng xóm cạnh nhà bố mẹ tôi lập cập đi lên xã, rồi thất thểu trở về. Cán bộ nói: chờ đấy đã, trường hợp nhà bà chúng tôi phải hỏi trên rồi trả lời sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:25:23+07:00",
+      "fetched": "2025-10-21T23:21:51.588125+07:00"
+    },
+    {
       "id": "252893d083610d1fa5e5aa1f9225cf7d",
       "title": "Thời cơ để hồi sinh Inuyasha, anime tuổi thơ của hàng triệu khán giả",
       "link": "https://tuoitre.vn/thoi-co-de-hoi-sinh-inuyasha-anime-tuoi-tho-cua-hang-trieu-khan-gia-20251021132343944.htm",
@@ -603,6 +793,166 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T15:23:24.440847+07:00"
     },
     {
+      "id": "9a82c3bc956206099554e6c00c075ffc",
+      "title": "Tổng Bí thư Tô Lâm và phu nhân sẽ thăm chính thức Bulgaria",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-va-phu-nhan-se-tham-chinh-thuc-bulgaria-185251021220028233.htm",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân sẽ thăm chính thức Bulgaria từ ngày 22 - 24.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:22:00+07:00",
+      "fetched": "2025-10-21T23:21:54.691776+07:00"
+    },
+    {
+      "id": "5d4ccbabc69270918cb12d2a10cd8da7",
+      "title": "Bị gấu rừng tấn công khi đang trên đường về nhà",
+      "link": "https://thanhnien.vn/bi-gau-rung-tan-cong-khi-dang-tren-duong-ve-nha-185251021205416186.htm",
+      "summary": "Trên đường về nhà, một người đàn ông ở xã vùng cao TP.Đà Nẵng bị gấu rừng tấn công, gây thương tích nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T15:17:00+07:00",
+      "fetched": "2025-10-21T23:21:54.691956+07:00"
+    },
+    {
+      "id": "4e28631d64d8779ecc14e60b4fed1478",
+      "title": "Giáo viên ở Đà Nẵng trúng Jackpot gần 180 tỷ đồng",
+      "link": "https://vnexpress.net/giao-vien-o-da-nang-trung-jackpot-gan-180-ty-dong-4954162.html",
+      "summary": "Anh N.V.H, giáo viên đang sống ở Đà Nẵng trúng giải Jackpot gần 180 tỷ đồng và làm từ thiện hơn 2,5 tỷ sau nhận giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:54:55+07:00",
+      "fetched": "2025-10-21T23:21:51.588296+07:00"
+    },
+    {
+      "id": "4e28631d64d8779ecc14e60b4fed1478",
+      "title": "Giáo viên ở Đà Nẵng trúng Jackpot gần 180 tỷ đồng",
+      "link": "https://vnexpress.net/giao-vien-o-da-nang-trung-jackpot-gan-180-ty-dong-4954162.html",
+      "summary": "Anh N.V.H, giáo viên đang sống ở Đà Nẵng trúng giải Jackpot gần 180 tỷ đồng và làm từ thiện hơn 2,5 tỷ sau nhận giải.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T14:54:55+07:00",
+      "fetched": "2025-10-21T23:21:58.398801+07:00"
+    },
+    {
+      "id": "cffeb4f0ceb1831b484795ddf1720915",
+      "title": "Diễn viên Lan Phương cùng Vietnam Women Run lan tỏa cảm hứng",
+      "link": "https://thanhnien.vn/dien-vien-lan-phuong-cung-vietnam-women-run-lan-toa-cam-hung-185251021213058902.htm",
+      "summary": "Vietnam Women Run 2025 trở lại mạnh mẽ với thông điệp 'Run For You - Khởi đầu vì phiên bản tốt hơn của bạn', cùng nữ diễn viên Lan Phương truyền cảm hứng sống đẹp và tinh thần thể thao dành cho phụ nữ nhân ngày 20.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:54:00+07:00",
+      "fetched": "2025-10-21T23:21:54.692111+07:00"
+    },
+    {
+      "id": "cc9f5d4376c327e08c3181da0a17a2d4",
+      "title": "Vây bắt tài xế ngáo đá cầm dao cố thủ trong cabin",
+      "link": "https://vnexpress.net/vay-bat-tai-xe-ngao-da-cam-dao-co-thu-trong-cabin-4954140.html",
+      "summary": "Nguyễn Thanh Tùng, 40 tuổi, lái xe tải với tốc độ cao trên đường, sau đó cầm dao cố thủ trong cabin, tấn công cảnh sát trong trạng thái ngáo đá, chiều 21/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:51:03+07:00",
+      "fetched": "2025-10-21T23:21:51.588460+07:00"
+    },
+    {
+      "id": "721358b6d4b0277fc5e418d0b56d64c3",
+      "title": "Bắt chủ lò mổ trữ đông 38 tấn thịt heo nhiễm bệnh để tuồn ra thị trường",
+      "link": "https://thanhnien.vn/bat-chu-lo-mo-tru-dong-38-tan-thit-heo-nhiem-benh-de-tuon-ra-thi-truong-185251021210343866.htm",
+      "summary": "Chủ lò mổ bị bắt giam với cáo buộc thu mua, giết mổ, tích trữ gần 38 tấn thịt heo nhiễm bệnh tả châu Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:46:00+07:00",
+      "fetched": "2025-10-21T23:21:54.692261+07:00"
+    },
+    {
+      "id": "713b355b8716e31da90e026ea4e1935d",
+      "title": "Tối hậu thư trước 17 giờ ngày 22.10, Đà Nẵng hoàn tất sơ tán dân vùng nguy hiểm",
+      "link": "https://thanhnien.vn/toi-hau-thu-truoc-17-gio-ngay-2210-da-nang-hoan-tat-so-tan-dan-vung-nguy-hiem-185251021205009201.htm",
+      "summary": "Chủ tịch UBND TP.Đà Nẵng Phạm Đức Ấn đã ký ban hành Công điện số 08, yêu cầu toàn bộ sở, ngành, địa phương khẩn trương, quyết liệt triển khai các biện pháp ứng phó với mưa rất lớn và bão số 12 (Fengshen) đang tiến gần đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:45:00+07:00",
+      "fetched": "2025-10-21T23:21:54.692411+07:00"
+    },
+    {
+      "id": "63c5ae0d2fc1f5d45eba1b73e12c68cc",
+      "title": "Thu Trang làm phim về chuyện tình miền Tây",
+      "link": "https://vnexpress.net/thu-trang-lam-phim-ve-chuyen-tinh-mien-tay-4953933.html",
+      "summary": "Đạo diễn Thu Trang làm phim điện ảnh \"Ai thương ai mến\", xoay quanh chuyện tình miền Tây xưa, do Trâm Anh, Võ Điền Gia Huy đóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:36:27+07:00",
+      "fetched": "2025-10-21T23:21:51.588621+07:00"
+    },
+    {
+      "id": "57bf1bdc1c2dbd53bf7e3251b8a9516b",
+      "title": "Chủ lò mổ găm 38 tấn thịt nhiễm dịch tả lợn châu Phi chờ bán",
+      "link": "https://vnexpress.net/chu-lo-mo-gam-38-tan-thit-nhiem-dich-ta-lon-chau-phi-cho-ban-4954156.html",
+      "summary": "Phan Văn Phòng thu mua giá rẻ hoặc xin lợn chết vì nhiễm virus dịch tả lợn châu Phi về lò giết mổ, cấp đông chờ bán ra thị trường với giá cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:36:23+07:00",
+      "fetched": "2025-10-21T23:21:51.588778+07:00"
+    },
+    {
+      "id": "6b578189d70db2f57e35d73207dee34d",
+      "title": "Trưởng phòng CSGT Hà Nội: Nghiên cứu đi làm theo khung giờ để giảm ùn tắc",
+      "link": "https://thanhnien.vn/truong-phong-csgt-ha-noi-nghien-cuu-di-lam-theo-khung-gio-de-giam-un-tac-185251021205339104.htm",
+      "summary": "Trưởng phòng CSGT Công an TP.Hà Nội cho rằng, để giảm thiểu ùn tắc giao thông nội đô cần thực hiện nhiều giải pháp, trong đó cần nghiên cứu việc đi làm theo khung giờ để giảm người và phương tiện giao thông vào giờ cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:35:00+07:00",
+      "fetched": "2025-10-21T23:21:54.692565+07:00"
+    },
+    {
+      "id": "6d346d1b3c2ac81f6fd818eb4d61a861",
+      "title": "Bão Fengshen cách Đà Nẵng 390 km",
+      "link": "https://vnexpress.net/bao-fengshen-cach-da-nang-390-km-4954149.html",
+      "summary": "Gặp không khí lạnh, bão Fengshen bắt đầu giảm cường độ nhưng lại tương tác với nhiều yếu tố khác gây mưa lớn cho miền Trung trong 5 ngày tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:34:26+07:00",
+      "fetched": "2025-10-21T23:21:51.588969+07:00"
+    },
+    {
+      "id": "16dae1018492dec69780cdd478bbc6fd",
+      "title": "Nhân viên sân bay lục hành lý ký gửi, lấy trộm 50 triệu đồng",
+      "link": "https://vnexpress.net/nhan-vien-san-bay-luc-hanh-ly-ky-gui-lay-trom-50-trieu-dong-4954152.html",
+      "summary": "Trần Anh Phương Vũ, 26 tuổi, trong quá trình phục vụ hành lý tại sân bay đã lục hành lý ký gửi của một hành khách, lấy cắp 50 triệu đồng tiền mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:29:27+07:00",
+      "fetched": "2025-10-21T23:21:51.589158+07:00"
+    },
+    {
+      "id": "8f37eb4b6993b83b2678dd0b4e7111f6",
+      "title": "Trưởng thôn bị gấu hoang dã tấn công",
+      "link": "https://vnexpress.net/truong-thon-bi-gau-hoang-da-tan-cong-4954153.html",
+      "summary": "Ông Pơloong Nhương, 48 tuổi, Trưởng thôn A Tu 1, xã Hùng Sơn trên đường đi làm rẫy về bị con gấu ở rừng gần biên giới Lào tấn công vùng mặt, cổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:24:19+07:00",
+      "fetched": "2025-10-21T23:21:51.589329+07:00"
+    },
+    {
+      "id": "bd3aeae86dc5714544871481537ff098",
+      "title": "Việt Nam - Phần Lan thiết lập quan hệ Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-phan-lan-thiet-lap-quan-he-doi-tac-chien-luoc-4954142.html",
+      "summary": "Việt Nam và Phần Lan thiết lập quan hệ Đối tác Chiến lược, trong chuyến thăm chính thức của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:15:45+07:00",
+      "fetched": "2025-10-21T23:21:51.589500+07:00"
+    },
+    {
+      "id": "bd3aeae86dc5714544871481537ff098",
+      "title": "Việt Nam - Phần Lan thiết lập quan hệ Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-phan-lan-thiet-lap-quan-he-doi-tac-chien-luoc-4954142.html",
+      "summary": "Việt Nam và Phần Lan thiết lập quan hệ Đối tác Chiến lược, trong chuyến thăm chính thức của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T14:15:45+07:00",
+      "fetched": "2025-10-21T23:21:57.177640+07:00"
+    },
+    {
       "id": "a3dc5c7664c422e08f4a287515431d06",
       "title": "Sử dụng súng massage quá nhiều, coi chừng tổn thương cổ và mạch máu",
       "link": "https://thanhnien.vn/su-dung-sung-massage-qua-nhieu-coi-chung-ton-thuong-co-va-mach-mau-185251021193455646.htm",
@@ -611,6 +961,16 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T14:15:00+07:00",
       "fetched": "2025-10-21T21:16:02.620796+07:00"
+    },
+    {
+      "id": "5ea929667184bae805567ae90fa59c20",
+      "title": "Nước nào từng bán sạch kho vàng?",
+      "link": "https://vnexpress.net/nuoc-nao-tung-ban-sach-kho-vang-4954068.html",
+      "summary": "Giá vàng thế giới liên tục lập kỷ lục nhưng nước này đã bán sạch kho vàng hàng nghìn tấn hồi năm 2016. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:08:01+07:00",
+      "fetched": "2025-10-21T23:21:51.589657+07:00"
     },
     {
       "id": "bfc985504b3093c37170c64531138f6b",
@@ -623,6 +983,16 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T21:16:02.620980+07:00"
     },
     {
+      "id": "80fdd85652f5c955c463836dbde252a1",
+      "title": "3 năm làm mẹ đơn thân vì không muốn con có thêm cha dượng",
+      "link": "https://vnexpress.net/cha-duong-danh-be-lop-5-cha-duong-ha-tinh-di-ghe-con-chong-3-nam-lam-me-don-than-vi-khong-muon-con-co-them-cha-duong-4954021.html",
+      "summary": "Sau ly hôn, nhiều người sợ cô đơn nên vội vàng đi bước nữa, chẳng kịp bình tĩnh suy nghĩ kỹ xem người mới có đủ bao dung con mình?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T14:00:00+07:00",
+      "fetched": "2025-10-21T23:21:51.589810+07:00"
+    },
+    {
       "id": "b88bcbfaff8ae91660aee2bf3c98d322",
       "title": "Việt Nam tăng cường hợp tác với cơ quan LHQ trong phòng chống tội phạm mạng",
       "link": "https://vnexpress.net/viet-nam-tang-cuong-hop-tac-voi-co-quan-lhq-trong-phong-chong-toi-pham-mang-4954134.html",
@@ -633,6 +1003,16 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T21:16:05.439835+07:00"
     },
     {
+      "id": "299f51d3cabfabf55bad9049637f15e9",
+      "title": "Người Đà Nẵng tích trữ lương thực, áo phao phòng mưa lụt",
+      "link": "https://vnexpress.net/nguoi-da-nang-tich-tru-luong-thuc-ao-phao-phong-mua-lut-4954145.html",
+      "summary": "Người dân đổ đến siêu thị mua mì gói, thịt hộp, bánh mì, hoa quả dự trữ, nhiều người sắm áo phao, đèn pin ứng phó với đợt mưa lũ dự báo kéo dài ít nhất 5 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:57:19+07:00",
+      "fetched": "2025-10-21T23:21:51.590144+07:00"
+    },
+    {
       "id": "41f3b404a521a11774330afec7c2bd52",
       "title": "Việt Nam và Phần Lan nâng cấp quan hệ lên Đối tác chiến lược",
       "link": "https://thanhnien.vn/viet-nam-va-phan-lan-nang-cap-quan-he-len-doi-tac-chien-luoc-18525102120255722.htm",
@@ -641,6 +1021,16 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T13:48:00+07:00",
       "fetched": "2025-10-21T21:16:02.621140+07:00"
+    },
+    {
+      "id": "a9ef66f82151da0ba30ec9ee8e2a71b6",
+      "title": "Cô giáo Hàn Quốc lãnh án chung thân trong tội ác 'không thể dung thứ'",
+      "link": "https://vnexpress.net/co-giao-han-quoc-lanh-an-chung-than-trong-toi-ac-khong-the-dung-thu-4954123.html",
+      "summary": "Tòa án đánh giá tội ác của cô giáo Myeong Jae-wan \"chưa từng có tiền lệ\", dù chịu áp lực, bất hòa gia đình thì việc trút giận lên đứa trẻ yếu đuối là không thể dung thứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:43:24+07:00",
+      "fetched": "2025-10-21T23:21:51.590295+07:00"
     },
     {
       "id": "661de2c981d05dcfdaecfe6d5485cdde",
