@@ -1,7 +1,157 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T11:19:56.600607+07:00",
+  "lastUpdated": "2025-10-21T13:25:26.163418+07:00",
   "articles": [
+    {
+      "id": "744ea759956977906c0ea214887f637e",
+      "title": "Đừng để nói tục, chửi thề trở thành thói quen giao tiếp",
+      "link": "https://tuoitre.vn/dung-de-noi-tuc-chui-the-tro-thanh-thoi-quen-giao-tiep-20251019094327436.htm",
+      "summary": "Nói tục, chửi thề trong cộng đồng, đặc biệt ở một bộ phận người trẻ là hiện tượng đáng lo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.487351+07:00",
+      "fetched": "2025-10-21T13:25:18.487461+07:00"
+    },
+    {
+      "id": "12c574b434063b73e6e4d620ff61e603",
+      "title": "Quản lý crypto: Bài học từ Trung Quốc",
+      "link": "https://tuoitre.vn/quan-ly-crypto-bai-hoc-tu-trung-quoc-20251021093120728.htm",
+      "summary": "Trong khi thế giới đang chứng kiến làn sóng tiền mã hóa (crypto) lan rộng từ phố Wall đến cả các ngõ ngách làng quê ở nhiều quốc gia, nền kinh tế lớn thứ hai thế giới Trung Quốc lại đang bấm nút \"pause\" (tạm dừng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.487225+07:00",
+      "fetched": "2025-10-21T13:25:18.487340+07:00"
+    },
+    {
+      "id": "bf1eb3c9938d546cba8bd7dd30925b04",
+      "title": "Atletico Madrid 'kiện' Arsenal vì... không có nước nóng để tắm",
+      "link": "https://tuoitre.vn/atletico-madrid-kien-arsenal-vi-khong-co-nuoc-nong-de-tam-20251021112923821.htm",
+      "summary": "Tối 20-10, Arsenal đang phải đối mặt với đơn khiếu nại chính thức từ Atletico Madrid sau một sự cố hy hữu tại sân Emirates.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.487095+07:00",
+      "fetched": "2025-10-21T13:25:18.487213+07:00"
+    },
+    {
+      "id": "bcce03b8af610c56e3fc015075565945",
+      "title": "Nhiều xe khách hợp đồng 'trá hình' vi phạm ở trung tâm TP.HCM",
+      "link": "https://tuoitre.vn/nhieu-xe-khach-hop-dong-tra-hinh-vi-pham-o-trung-tam-tp-hcm-20251020161336326.htm",
+      "summary": "Gần đây, bạn đọc Tuổi Trẻ Online phản ánh tình trạng xe khách hợp đồng 'trá hình' hoạt động rầm rộ tại khu vực trung tâm TP.HCM, gây mất trật tự an toàn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486971+07:00",
+      "fetched": "2025-10-21T13:25:18.487084+07:00"
+    },
+    {
+      "id": "3e282315521429f018df4ca3e6184e5e",
+      "title": "Ngoại giao thỏa hiệp của ông Trump",
+      "link": "https://tuoitre.vn/ngoai-giao-thoa-hiep-cua-ong-trump-20251020231418537.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã trao đổi riêng với các lãnh đạo Nga, Ukraine, đề xuất “kế hoạch hòa bình” nhằm chấm dứt xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486842+07:00",
+      "fetched": "2025-10-21T13:25:18.486960+07:00"
+    },
+    {
+      "id": "c910a02810fe5ef43f9836297e7701b1",
+      "title": "Vì sao đi bộ không giảm cân như bác sĩ hứa hẹn?",
+      "link": "https://tuoitre.vn/vi-sao-di-bo-khong-giam-can-nhu-bac-si-hua-hen-20251020215942509.htm",
+      "summary": "Trong nhiều năm qua, đi bộ luôn được các tổ chức y tế, bác sĩ, chuyên gia thể hình ca ngợi như một “liều thuốc miễn phí, đơn giản” cho sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486716+07:00",
+      "fetched": "2025-10-21T13:25:18.486831+07:00"
+    },
+    {
+      "id": "0aa0b5a81a34607e1ee193de269f8133",
+      "title": "Thiếu tá cảnh sát giao thông bị hất lên nắp capô giờ tan tầm",
+      "link": "https://tuoitre.vn/thieu-ta-canh-sat-giao-thong-bi-hat-len-nap-capo-gio-tan-tam-20251021114709394.htm",
+      "summary": "Đang làm nhiệm vụ phân làn giao thông, một thiếu tá cảnh sát giao thông ở Nghệ An bị nam tài xế ô tô hất lên nắp capô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486556+07:00",
+      "fetched": "2025-10-21T13:25:18.486703+07:00"
+    },
+    {
+      "id": "f4fd6df5a80258a8be2da2dd20bea759",
+      "title": "Phải xin kinh phí khắc phục ngập lụt sau khi... nâng cấp đường cao hơn nhà dân",
+      "link": "https://tuoitre.vn/phai-xin-kinh-phi-khac-phuc-ngap-lut-sau-khi-nang-cap-duong-cao-hon-nha-dan-20251021111757702.htm",
+      "summary": "Tuyến đường nâng cấp xong thì cao hơn nhà dân, hệ thống thoát nước kém khiến cứ mưa là ngập, phường phải đề xuất kinh phí 3 tỉ đồng để khắc phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486430+07:00",
+      "fetched": "2025-10-21T13:25:18.486545+07:00"
+    },
+    {
+      "id": "bf29700656817193804802c193eb086a",
+      "title": "Bộ trưởng Phạm Thị Thanh Trà: Sắp xếp thôn, tổ dân phố vào tháng 5-2026",
+      "link": "https://tuoitre.vn/bo-truong-pham-thi-thanh-tra-sap-xep-thon-to-dan-pho-vao-thang-5-2026-20251021115119301.htm",
+      "summary": "Bộ trưởng Phạm Thị Thanh Trà khẳng định tới đây sẽ phải rà soát lại tiếp để thực hiện việc sắp xếp thôn, bản, tổ dân phố theo kế hoạch vào tháng 5-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486303+07:00",
+      "fetched": "2025-10-21T13:25:18.486419+07:00"
+    },
+    {
+      "id": "c470524c27d75724677e3f6ffd5247bc",
+      "title": "Nửa đêm, dân tháo chạy vì bùn đất từ công trường cao tốc Quy Nhơn - Chí Thạnh ập xuống nhà",
+      "link": "https://tuoitre.vn/nua-dem-dan-thao-chay-vi-bun-dat-tu-cong-truong-cao-toc-quy-nhon-chi-thanh-ap-xuong-nha-20251021104234187.htm",
+      "summary": "Mỗi khi có mưa lớn, bùn đất từ cao tốc Quy Nhơn - Chí Thạnh (xã Tuy An Bắc, Đắk Lắk) lại chảy dồn vào khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486175+07:00",
+      "fetched": "2025-10-21T13:25:18.486291+07:00"
+    },
+    {
+      "id": "5404e51064059dd7cd2af71d91b2e524",
+      "title": "Giá nhà tăng phi mã, đại biểu kiến nghị đánh thuế biến động đất đai",
+      "link": "https://tuoitre.vn/gia-nha-tang-phi-ma-dai-bieu-kien-nghi-danh-thue-bien-dong-dat-dai-202510211135297.htm",
+      "summary": "Nhiều đại biểu Quốc hội bày tỏ lo lắng khi giá nhà đất, giá vàng tăng mạnh gần như không kiểm soát được nên đề nghị cần có biện pháp quản lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.486045+07:00",
+      "fetched": "2025-10-21T13:25:18.486163+07:00"
+    },
+    {
+      "id": "6167dcbd9d27b5f82b5e9aa32a7a3d3f",
+      "title": "Nhật Bản có nữ thủ tướng đầu tiên trong lịch sử",
+      "link": "https://tuoitre.vn/nhat-ban-co-nu-thu-tuong-moi-20251021094854732.htm",
+      "summary": "Ngày 21-10, bà Takaichi Sanae (64 tuổi) chính thức trở thành nữ thủ tướng đầu tiên của Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.485915+07:00",
+      "fetched": "2025-10-21T13:25:18.486034+07:00"
+    },
+    {
+      "id": "7474535d046513c3127c7601ed044f23",
+      "title": "Quân chủng Phòng không - Không quân đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân",
+      "link": "https://tuoitre.vn/quan-chung-phong-khong-khong-quan-don-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-2025102111360274.htm",
+      "summary": "Sáng 21-10, Bộ Tư lệnh Quân chủng Phòng không - Không quân long trọng kỷ niệm 62 năm Ngày truyền thống và đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân. Thủ tướng Phạm Minh Chính đã dự, phát biểu và trao danh hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.485779+07:00",
+      "fetched": "2025-10-21T13:25:18.485903+07:00"
+    },
+    {
+      "id": "93827478e7fd6cc304ea83cd1eb86956",
+      "title": "Tin tức giá xe: Hết thời 'kèm lạc', Toyota Land Cruiser Prado giảm giá hàng chục triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-het-thoi-kem-lac-toyota-land-cruiser-prado-giam-gia-hang-chuc-trieu-dong-20251021080912993.htm",
+      "summary": "Toyota Land Cruiser Prado hiện được đại lý tặng quà là 1 năm bảo hiểm vật chất trị giá 35 triệu đồng, hoặc giảm giá 50 triệu đồng nếu mua ở các salon tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.485629+07:00",
+      "fetched": "2025-10-21T13:25:18.485765+07:00"
+    },
+    {
+      "id": "e1909854c06a8774958e1cc7f0cdd49c",
+      "title": "Jurgen Klopp không đến Man United vì Ronaldo và Pogba",
+      "link": "https://tuoitre.vn/jurgen-klopp-khong-den-man-united-vi-ronaldo-va-pogba-20251021102820642.htm",
+      "summary": "Cựu HLV huyền thoại Liverpool - Jurgen Klopp tiết lộ ông từng được Man United mời về làm HLV trưởng vào năm 2013. Một trong những lý do khiến ông từ chối vì đội bóng có ý định mang về những ngôi sao như Cristiano Ronaldo, Paul Pogba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T13:25:18.485382+07:00",
+      "fetched": "2025-10-21T13:25:18.485613+07:00"
+    },
     {
       "id": "b65d85cabd4ddfdf3604b6ebfc3a272b",
       "title": "Paradise Legacy - hải trình chạm cảm xúc giữa vịnh di sản",
@@ -371,6 +521,386 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T08:16:50.916441+07:00",
       "fetched": "2025-10-21T08:16:50.916639+07:00"
+    },
+    {
+      "id": "a02a3e4be21bdc9f33e0abca75e3cce4",
+      "title": "Nữ tài xế phớt lờ hiệu lệnh CSGT, hút bóng cười ngay trên ô tô",
+      "link": "https://thanhnien.vn/nu-tai-xe-phot-lo-hieu-lenh-csgt-hut-bong-cuoi-ngay-tren-o-to-185251021125411212.htm",
+      "summary": "Một nữ tài xế vừa bị Công an TP.Đà Nẵng xử phạt gần 40 triệu đồng vì không có giấy phép lái xe và phớt lờ hiệu lệnh của CSGT, thậm chí sử dụng 'bóng cười' khi đã bị dừng xe kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T06:22:00+07:00",
+      "fetched": "2025-10-21T13:25:17.531897+07:00"
+    },
+    {
+      "id": "2a318f85783cda3a37519049a50528d9",
+      "title": "Vật thể bí ẩn rơi xuống Tây Úc có thể là mảnh vỡ tên lửa Trung Quốc",
+      "link": "https://thanhnien.vn/vat-the-bi-an-roi-xuong-tay-uc-co-the-la-manh-vo-ten-lua-trung-quoc-18525102112255629.htm",
+      "summary": "Cuối tuần qua, các thợ mỏ Úc đã phát hiện một vật thể bí ẩn trong tình trạng bị cháy đen và bốc khói nghi ngút gần một con đường cách Newman (Tây Úc) khoảng 30 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T06:12:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532069+07:00"
+    },
+    {
+      "id": "7587f9856cb2db8a7da4d522ab69265b",
+      "title": "Man City và hội chứng phụ thuộc Haaland cấp tính",
+      "link": "https://vnexpress.net/man-city-va-hoi-chung-phu-thuoc-haaland-cap-tinh-4953930.html",
+      "summary": "Trong danh sách ghi bàn của Man City ở Ngoại hạng Anh lúc này, Erling Haaland dẫn đầu, còn người đứng thứ hai là… Maxime Esteve của Burnley với hai pha phản lưới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T06:05:10+07:00",
+      "fetched": "2025-10-21T13:25:26.154549+07:00"
+    },
+    {
+      "id": "e1c5a1060c1197a723bb73c11a6cf01b",
+      "title": "Vòng nguyệt quế chung kết năm Đường lên đỉnh Olympia 2025 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/vong-nguyet-que-chung-ket-nam-duong-len-dinh-olympia-2025-co-gi-dac-biet-185251021122638625.htm",
+      "summary": "Nhà thiết kế Đỗ Vân Trí (ngụ ở xã Hồ Tràm, TP.HCM; trước đây là H.Xuyên Mộc, tỉnh Bà Rịa – Vũng Tàu) là người thiết kế vòng nguyệt quế chung kết năm Đường lên đỉnh Olympia 2025. Sản phẩm dành cho thí sinh xuất sắc nhất có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T06:00:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532230+07:00"
+    },
+    {
+      "id": "463a40731fc94d43ffe12f63e17b7970",
+      "title": "Xây nền vững chắc tiến vào kỷ nguyên xanh",
+      "link": "https://thanhnien.vn/xay-nen-vung-chac-tien-vao-ky-nguyen-xanh-185251008211759989.htm",
+      "summary": "Với tinh thần \"vừa chạy vừa xếp hàng\", trong năm 2025 Việt Nam đã cơ bản hoàn thiện việc xây dựng nền móng để đưa nền kinh tế tiến vào kỷ nguyên xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:50:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532387+07:00"
+    },
+    {
+      "id": "6e8df8bfc4b8f1ac03ae4eb91758b139",
+      "title": "Khơi dậy khát vọng làm giàu trong xã hội",
+      "link": "https://thanhnien.vn/khoi-day-khat-vong-lam-giau-trong-xa-hoi-18525100820505721.htm",
+      "summary": "Sau gần 6 tháng có hiệu lực, Nghị định 68 về phát triển kinh tế tư nhân đã thổi bùng ngọn lửa khởi nghiệp, khát vọng làm giàu của người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:50:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532541+07:00"
+    },
+    {
+      "id": "e8b39f0be044bcec47d2138c8ab8913f",
+      "title": "Lễ hội Katê rực rỡ dưới chân tháp PôSahInư: Hồn văn hóa xưa hồi sinh",
+      "link": "https://thanhnien.vn/le-hoi-kate-ruc-ro-duoi-chan-thap-posahinu-hon-van-hoa-xua-hoi-sinh-185251021121407278.htm",
+      "summary": "Lễ hội Katê 2025 diễn ra dưới chân tháp PôSahInư, nơi đồng bào Chăm cùng du khách hòa mình trong không gian linh thiêng, tái hiện nét văn hóa truyền thống được gìn giữ qua bao thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:47:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532717+07:00"
+    },
+    {
+      "id": "52fecc45ce7d38511a8656e52b845010",
+      "title": "HLV Vũ Hồng Việt và trung vệ Nam Định 'nói cứng': 'Gamba Osaka cực mạnh, nhưng sẽ có bất ngờ'",
+      "link": "https://thanhnien.vn/hlv-vu-hong-viet-va-trung-ve-nam-dinh-noi-cung-gamba-osaka-cuc-manh-nhung-se-co-bat-ngo-185251021123759229.htm",
+      "summary": "HLV Vũ Hồng Việt tin rằng CLB Nam Định sẽ nỗ lực để gây bất ngờ trên sân Gamba Osaka, ở lượt đấu thứ ba vòng bảng AFC Champions League 2, diễn ra lúc 17 giờ ngày mai (22.10).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:41:00+07:00",
+      "fetched": "2025-10-21T13:25:17.532870+07:00"
+    },
+    {
+      "id": "72cf51b81cdc37fbcc1103872c3e6f06",
+      "title": "Sơ tán hơn 100 người dân khỏi vùng núi nguy cơ sạt lở",
+      "link": "https://vnexpress.net/so-tan-hon-100-nguoi-dan-khoi-vung-nui-nguy-co-sat-lo-4953919.html",
+      "summary": "Lực lượng chức năng xã Trà Linh soi đèn pin, sơ tán người dân và tài sản khỏi nóc Kon Pin khi có vết sụt đất kéo dài hơn 50 m đe dọa khu dân cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:40:26+07:00",
+      "fetched": "2025-10-21T13:25:14.383689+07:00"
+    },
+    {
+      "id": "16d1625eed686c2d42efe3d9d0a4bb75",
+      "title": "Bánh mì Việt Nam không nằm trong top 50 loại ngon nhất thế giới",
+      "link": "https://vnexpress.net/banh-mi-viet-nam-khong-nam-trong-top-50-loai-ngon-nhat-the-gioi-4953879.html",
+      "summary": "Danh sách 50 loại bánh mì ngon nhất thế giới của CNN không có đại diện từ Việt Nam, dù món bánh mì từng nhiều lần được vinh danh toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:40:04+07:00",
+      "fetched": "2025-10-21T13:25:14.383874+07:00"
+    },
+    {
+      "id": "0d063f58753b92a65114a2f5f5e94aa1",
+      "title": "Bà Takaichi Sanae được bầu làm Thủ tướng Nhật Bản",
+      "link": "https://thanhnien.vn/ba-takaichi-sanae-duoc-bau-lam-thu-tuong-nhat-ban-185251021122834563.htm",
+      "summary": "Sáng 21.10, Hạ viện Nhật Bản đã tạo cột mốc lịch sử khi bỏ phiếu bầu bà Takaichi Sanae làm nữ thủ tướng đầu tiên của đất nước mặt trời mọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:37:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533031+07:00"
+    },
+    {
+      "id": "c21d378eea654e96341e30be580dc287",
+      "title": "Tờ vé số trúng độc đắc bị rách: Chuyển công an giám định",
+      "link": "https://thanhnien.vn/to-ve-so-trung-doc-dac-bi-rach-chuyen-cong-an-giam-dinh-185251021121948324.htm",
+      "summary": "Công ty TNHH Xổ số kiến thiết Gia Lai cùng đại diện của người có tờ vé số trúng độc đắc bị rách đã đến Công an tỉnh Quảng Ngãi giám định tờ vé số trên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:32:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533204+07:00"
+    },
+    {
+      "id": "5b6ba76fe2768bf5f6ed7a50be5f889a",
+      "title": "5 loại thảo mộc tốt cho mắt",
+      "link": "https://vnexpress.net/5-loai-thao-moc-tot-cho-mat-4953859.html",
+      "summary": "Ăn húng quế kết hợp với nghệ, nhuỵ hoa nghệ tây cung cấp các chất chống oxy hóa, góp phần bảo vệ mắt khỏi các yếu tố gây hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:30:00+07:00",
+      "fetched": "2025-10-21T13:25:14.384039+07:00"
+    },
+    {
+      "id": "5f4fa8ced9a9efbf4d92b9b79929d19a",
+      "title": "Dapharco mang ‘chuẩn châu Âu’ đến thị trường Việt Nam",
+      "link": "https://thanhnien.vn/dapharco-mang-chuan-chau-au-den-thi-truong-viet-nam-185251021120613238.htm",
+      "summary": "Trong bối cảnh người tiêu dùng ngày càng quan tâm đến việc chăm sóc sức khỏe chủ động, câu hỏi về chất lượng và nguồn gốc sản phẩm thực phẩm bảo vệ sức khỏe luôn là mối băn khoăn lớn nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:30:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533357+07:00"
+    },
+    {
+      "id": "8667194f69dbf27baf08eb661132345d",
+      "title": "Lãnh tụ tối cao Iran bác đề nghị đàm phán từ ông Trump",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-bac-de-nghi-dam-phan-tu-ong-trump-185251021112604539.htm",
+      "summary": "Lãnh tụ tối cao Iran hôm 20.10 đã bác bỏ đề nghị nối lại đàm phán từ Tổng thống Mỹ Donald Trump và chế nhạo ý tưởng rằng các cuộc không kích của Mỹ đã phá hủy năng lực hạt nhân của Tehran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:24:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533505+07:00"
+    },
+    {
+      "id": "9b2c3d40a570b62db37e61679847a6c8",
+      "title": "Đại biểu lo lắng trước 'ma trận' lừa đảo bắt cóc online, bán người qua biên giới",
+      "link": "https://thanhnien.vn/dai-bieu-lo-lang-truoc-ma-tran-lua-dao-bat-coc-online-ban-nguoi-qua-bien-gioi-185251021112434648.htm",
+      "summary": "Đại biểu Hà Sỹ Đồng cho rằng, báo cáo kinh tế xã hội cần nhấn mạnh vấn đề xã hội nhức nhối hiện nay như tình trạng lừa đảo trên không gian mạng, nhất là lừa đưa người sang Campuchia, Myanmar...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:20:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533678+07:00"
+    },
+    {
+      "id": "90b043ede9a3f9129233feaea6ef7895",
+      "title": "Chủ nhà hàng đoạt giải Michelin ở Hà Nội bị truy tố trốn thuế",
+      "link": "https://vnexpress.net/chu-nha-hang-doat-giai-michelin-o-ha-noi-bi-truy-to-tron-thue-4953883.html",
+      "summary": "Hoàng Tùng, chủ nhà hàng Tung Dinning, và cổ đông Nguyệt Ánh bị cáo buộc trốn thuế hơn 2,4 tỷ đồng khi doanh thu 53 tỷ nhưng kê khai 29 tỷ, dùng tài khoản cá nhân nhận thanh toán 23 tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:14:15+07:00",
+      "fetched": "2025-10-21T13:25:14.384201+07:00"
+    },
+    {
+      "id": "6967f4eeba53f35fe47b1a91c9498384",
+      "title": "Ứng phó bão Fengshen: Nông dân tất bật 'cứu hộ' hành Lý Sơn",
+      "link": "https://thanhnien.vn/ung-pho-bao-fengshen-nong-dan-tat-bat-cuu-ho-hanh-ly-son-185251021113516011.htm",
+      "summary": "Hàng trăm hộ dân ở đặc khu Lý Sơn (Quảng Ngãi) đang 'chạy đua' nhổ hành, phơi rồi chuyển về nơi khô ráo để kịp tránh mưa trước khi bão Fengshen (bão số 12) đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:06:00+07:00",
+      "fetched": "2025-10-21T13:25:17.533861+07:00"
+    },
+    {
+      "id": "082d4a3c41d0297553a880a43457a38e",
+      "title": "Nhật Bản có nữ thủ tướng đầu tiên",
+      "link": "https://vnexpress.net/nhat-ban-co-nu-thu-tuong-dau-tien-4953912.html",
+      "summary": "Hạ viện Nhật Bản bổ nhiệm bà Sanae Takaichi làm Thủ tướng, đánh dấu lần đầu tiên một phụ nữ lãnh đạo chính phủ nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:05:40+07:00",
+      "fetched": "2025-10-21T13:25:14.384364+07:00"
+    },
+    {
+      "id": "082d4a3c41d0297553a880a43457a38e",
+      "title": "Nhật Bản có nữ thủ tướng đầu tiên",
+      "link": "https://vnexpress.net/nhat-ban-co-nu-thu-tuong-dau-tien-4953912.html",
+      "summary": "Hạ viện Nhật Bản bổ nhiệm bà Sanae Takaichi làm Thủ tướng, đánh dấu lần đầu tiên một phụ nữ lãnh đạo chính phủ nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T05:05:40+07:00",
+      "fetched": "2025-10-21T13:25:20.124071+07:00"
+    },
+    {
+      "id": "9de8fe5a1c754f28093eb5db736ac8d9",
+      "title": "Mới: Đề xuất nâng mức đặt cược bóng đá lên tối đa 100 triệu đồng/ngày",
+      "link": "https://thanhnien.vn/moi-de-xuat-nang-muc-dat-cuoc-bong-da-len-toi-da-100-trieu-dong-ngay-185251021114719689.htm",
+      "summary": "Các doanh nghiệp đề xuất nâng mức đặt cược bóng đá quốc tế tối đa lên 100 triệu đồng/người/ngày hoặc ít nhất cho phép doanh nghiệp được áp dụng mức 10 triệu đồng/ngày cho từng sản phẩm đặt cược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:03:00+07:00",
+      "fetched": "2025-10-21T13:25:17.534035+07:00"
+    },
+    {
+      "id": "f3c0ec6ae9f095e306357668ca41b2f9",
+      "title": "Tàu viên đạn nhanh nhất thế giới chạy thử nghiệm",
+      "link": "https://vnexpress.net/tau-vien-dan-nhanh-nhat-the-gioi-chay-thu-nghiem-4953869.html",
+      "summary": "CR450, tàu điện nhanh nhất thế giới, đang chạy thử nghiệm để đánh giá hoạt động trên tuyến đường sắt cao tốc Thượng Hải - Trùng Khánh - Thành Đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:01:23+07:00",
+      "fetched": "2025-10-21T13:25:14.384522+07:00"
+    },
+    {
+      "id": "f3c0ec6ae9f095e306357668ca41b2f9",
+      "title": "Tàu viên đạn nhanh nhất thế giới chạy thử nghiệm",
+      "link": "https://vnexpress.net/tau-vien-dan-nhanh-nhat-the-gioi-chay-thu-nghiem-4953869.html",
+      "summary": "CR450, tàu điện nhanh nhất thế giới, đang chạy thử nghiệm để đánh giá hoạt động trên tuyến đường sắt cao tốc Thượng Hải - Trùng Khánh - Thành Đô.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-21T05:01:23+07:00",
+      "fetched": "2025-10-21T13:25:24.564636+07:00"
+    },
+    {
+      "id": "19c2a105cc06cb86e51c58115dd280ec",
+      "title": "Chồng bảo tôi không đứng đắn khi rủ người kém tuổi về nhà hát karaoke",
+      "link": "https://vnexpress.net/chong-bao-toi-khong-dung-dan-khi-ru-nguoi-kem-tuoi-ve-nha-hat-karaoke-4953592.html",
+      "summary": "Ngoài ra, mấy năm trước có người nhắn trêu ghẹo tôi, chồng thấy vậy đập điện thoại và ném quần áo của tôi đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:00:00+07:00",
+      "fetched": "2025-10-21T13:25:14.384697+07:00"
+    },
+    {
+      "id": "e96e4429550ccbae7b04bffa2f603a16",
+      "title": "U rải khắp cơ thể do đột biến gene",
+      "link": "https://vnexpress.net/u-rai-khap-co-the-do-dot-bien-gene-4953555.html",
+      "summary": "Bà Long, 65 tuổi, đau nhức cơ thể, sụt cân gần nửa năm, bác sĩ phát hiện 6 u ở cổ, ngực, gan, tụy do đột biến gene MEN1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:00:00+07:00",
+      "fetched": "2025-10-21T13:25:14.384859+07:00"
+    },
+    {
+      "id": "5ba4402cf595d5d439f56d1e19ecbcf5",
+      "title": "Bermuda là kiểu quần tái định nghĩa sự thanh lịch trong thời trang",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bermuda-la-kieu-quan-tai-dinh-nghia-su-thanh-lich-trong-thoi-trang-185251020114215798.htm",
+      "summary": "Quần bermuda đang dần thoát khỏi định nghĩa chỉ dành cho mùa hè để trở thành món đồ thời trang linh hoạt suốt quanh năm. Với chiều dài lửng lơ chạm gối, thiết kế thoải mái nhưng vẫn giữ được sự chỉn chu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T05:00:00+07:00",
+      "fetched": "2025-10-21T13:25:17.534191+07:00"
+    },
+    {
+      "id": "874b25ea29496bcdbf2e0b5b7eeae208",
+      "title": "Trung Nam đề xuất thêm 4 khu đất thanh toán dự án chống ngập 10.000 tỷ",
+      "link": "https://vnexpress.net/trung-nam-de-xuat-them-4-khu-dat-thanh-toan-du-an-chong-ngap-10-000-ty-4953856.html",
+      "summary": "Trungnam Group kiến nghị bổ sung 4 khu đất để thanh toán hợp đồng BT của dự án chống ngập 10.000 tỷ, cam kết hoàn thành công trình vào cuối năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:59:42+07:00",
+      "fetched": "2025-10-21T13:25:14.385026+07:00"
+    },
+    {
+      "id": "e7f4592cfd46046c9e0c7fffb3982fec",
+      "title": "Bộ trưởng Nội vụ: Hoàn thiện phân loại đơn vị hành chính để triển khai chính sách",
+      "link": "https://vnexpress.net/bo-truong-noi-vu-hoan-thien-phan-loai-don-vi-hanh-chinh-de-trien-khai-chinh-sach-4953821.html",
+      "summary": "Bộ trưởng Phạm Thị Thanh Trà cho biết Bộ Nội vụ sẽ sớm hoàn thiện tiêu chuẩn để phân loại đơn vị hành chính, làm cơ sở triển khai chính sách và quy hoạch phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:41:43+07:00",
+      "fetched": "2025-10-21T13:25:14.385181+07:00"
+    },
+    {
+      "id": "f1d5650f5c35802348f666f734b7e17d",
+      "title": "Thắng Liverpool 2-1, fan 'quỷ đỏ' Man Utd được chữa lành",
+      "link": "https://vnexpress.net/ket-qua-ngoai-hang-anh-lich-da-ngoai-hang-anh-liverpool-man-utd-4953817.html",
+      "summary": "Man Utd có ba điểm, 'quỷ đỏ' đang dần trở lại với hình ảnh của một đội bóng dám mơ mộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:41:19+07:00",
+      "fetched": "2025-10-21T13:25:14.385333+07:00"
+    },
+    {
+      "id": "6ec967ca539ac364374106166ee37211",
+      "title": "Quán phở đêm đông kín khách ở phố cổ Hà Nội",
+      "link": "https://vnexpress.net/quan-pho-dem-dong-kin-khach-o-pho-co-ha-noi-4952915.html",
+      "summary": "Quán phở trên phố Hàng Chiếu mở cửa sau 22h, luôn đông kín khách thưởng thức nhờ món tái lăn, sốt vang nóng hổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:39:05+07:00",
+      "fetched": "2025-10-21T13:25:14.385487+07:00"
+    },
+    {
+      "id": "03a6faaae479b8ec01cca4826a153757",
+      "title": "Atletico tố Arsenal 'chơi xấu' vì tắm nước lạnh ở Emirates",
+      "link": "https://vnexpress.net/atletico-to-arsenal-choi-xau-vi-tam-nuoc-lanh-o-emirates-4953848.html",
+      "summary": "Đội bóng của HLV Diego Simeone gửi đơn khiếu nại lên UEFA vì phải tắm nước lạnh trong buổi tập trước trận gặp Arsenal ở lượt ba Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:37:56+07:00",
+      "fetched": "2025-10-21T13:25:14.385666+07:00"
+    },
+    {
+      "id": "03a6faaae479b8ec01cca4826a153757",
+      "title": "Atletico tố Arsenal 'chơi xấu' vì tắm nước lạnh ở Emirates",
+      "link": "https://vnexpress.net/atletico-to-arsenal-choi-xau-vi-tam-nuoc-lanh-o-emirates-4953848.html",
+      "summary": "Đội bóng của HLV Diego Simeone gửi đơn khiếu nại lên UEFA vì phải tắm nước lạnh trong buổi tập trước trận gặp Arsenal ở lượt ba Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T04:37:56+07:00",
+      "fetched": "2025-10-21T13:25:26.155393+07:00"
+    },
+    {
+      "id": "42b872224bf6d3b65bb650f004b16888",
+      "title": "Công an khuyến khích người dân đổi bằng lái giấy sang thẻ nhựa PET",
+      "link": "https://vnexpress.net/cong-an-khuyen-khich-nguoi-dan-doi-bang-lai-giay-sang-the-nhua-pet-4953876.html",
+      "summary": "Công an thành phố khuyến khích người dân đổi bằng lái loại giấy bìa truyền thống sang thẻ nhựa PET để hưởng 'ưu điểm vượt trội, bảo mật, độ bền cao'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:36:27+07:00",
+      "fetched": "2025-10-21T13:25:14.385820+07:00"
+    },
+    {
+      "id": "b39efcc8abe4fa4fa84a750483019919",
+      "title": "Amorim táo bạo thế nào trong trận thắng Liverpool?",
+      "link": "https://vnexpress.net/amorim-tao-bao-the-nao-trong-tran-thang-liverpool-4953612.html",
+      "summary": "Ba quyết định thay đổi nhân sự của Ruben Amorim vấp phải chỉ trích từ người hâm mộ Man Utd, nhưng chiến thắng trước Liverpool ở Ngoại hạng Anh cuối tuần qua cho thấy ông đã đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T04:34:00+07:00",
+      "fetched": "2025-10-21T13:25:14.385990+07:00"
+    },
+    {
+      "id": "b39efcc8abe4fa4fa84a750483019919",
+      "title": "Amorim táo bạo thế nào trong trận thắng Liverpool?",
+      "link": "https://vnexpress.net/amorim-tao-bao-the-nao-trong-tran-thang-liverpool-4953612.html",
+      "summary": "Ba quyết định thay đổi nhân sự của Ruben Amorim vấp phải chỉ trích từ người hâm mộ Man Utd, nhưng chiến thắng trước Liverpool ở Ngoại hạng Anh cuối tuần qua cho thấy ông đã đúng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T04:34:00+07:00",
+      "fetched": "2025-10-21T13:25:26.154744+07:00"
+    },
+    {
+      "id": "14c4dd131112e498616aef06acc7ac27",
+      "title": "Rủi ro khi 45% tài sản người Mỹ nằm trong cổ phiếu",
+      "link": "https://vnexpress.net/rui-ro-khi-45-tai-san-nguoi-my-nam-trong-co-phieu-4951981.html",
+      "summary": "Người Mỹ đang đổ lượng tiền lớn kỷ lục vào đầu tư cổ phiếu, nhưng điều đó khiến họ đối mặt rủi ro lớn hơn bao giờ hết nếu thị trường lao dốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T04:31:57+07:00",
+      "fetched": "2025-10-21T13:25:20.124246+07:00"
+    },
+    {
+      "id": "4a54b90bfe9b97df1528a90ed8deb363",
+      "title": "Quân đội Anh sẽ được 'gỡ rào' để bắn hạ drone gần căn cứ",
+      "link": "https://vnexpress.net/quan-doi-anh-se-duoc-go-rao-de-ban-ha-drone-gan-can-cu-4953846.html",
+      "summary": "Quân đội Anh sẽ được trao thêm quyền hạn để bắn hạ drone gần căn cứ, phương án hiện chỉ được áp dụng trong trường hợp rất nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T04:31:20+07:00",
+      "fetched": "2025-10-21T13:25:20.124409+07:00"
+    },
+    {
+      "id": "f87a68bb724cd6e3654d084a6e066544",
+      "title": "Nguy cơ báu vật bảo tàng Lourve biến mất vĩnh viễn sau vụ cướp",
+      "link": "https://vnexpress.net/nguy-co-bau-vat-bao-tang-lourve-bien-mat-vinh-vien-sau-vu-cuop-4953766.html",
+      "summary": "Số trang sức bị cướp từ bảo tàng Louvre có thể bị nhóm nghi phạm cắt nhỏ, tháo rời đá quý để bán trên chợ đen, khiến giá trị văn hóa, lịch sử của chúng biến mất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T04:30:14+07:00",
+      "fetched": "2025-10-21T13:25:20.124571+07:00"
     },
     {
       "id": "81dc62a0df1cc1a5e6e4ac9137056613",
@@ -893,6 +1423,16 @@ window.newsData_2025_10_21 = {
       "fetched": "2025-10-21T10:03:44.051502+07:00"
     },
     {
+      "id": "80aab26be07e5a06a7d8cb7a5f41c94f",
+      "title": "Giá vàng miếng trong nước tăng hơn 3 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-trong-nuoc-tang-hon-3-trieu-dong-4953808.html",
+      "summary": "Các thương hiệu đồng loạt bán ra vàng miếng ở mức 154,6 triệu đồng, theo đà tăng của mặt hàng này trên thị trường quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T02:35:35+07:00",
+      "fetched": "2025-10-21T13:25:21.861710+07:00"
+    },
+    {
       "id": "cae3cfeceb43450b6059e6e215d2db3d",
       "title": "Nụ hôn cuối của người mẹ bạo bệnh dành cho con trai",
       "link": "https://vnexpress.net/nu-hon-cuoi-cua-nguoi-me-bao-benh-danh-cho-con-trai-4953799.html",
@@ -941,6 +1481,16 @@ window.newsData_2025_10_21 = {
       "category": "Thể thao",
       "published": "2025-10-21T02:32:44+07:00",
       "fetched": "2025-10-21T10:03:48.001239+07:00"
+    },
+    {
+      "id": "057423c6297d3402ae5935495381146a",
+      "title": "Chạy hơn 362 km trong 2 ngày, Đăng Trung phá kỷ lục Backyard Việt Nam",
+      "link": "https://vnexpress.net/chay-hon-362-km-trong-2-ngay-dang-trung-pha-ky-luc-backyard-viet-nam-4953811.html",
+      "summary": "Runner Việt Nam Nguyễn Đăng Trung đạt thành tích chạy 54 vòng tại giải Big Backyard Individual World Championship 2025, phá kỷ lục quốc gia đến 16 vòng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T02:32:44+07:00",
+      "fetched": "2025-10-21T13:25:26.155080+07:00"
     },
     {
       "id": "60bed33f818b069f46d423fbb0773a78",
