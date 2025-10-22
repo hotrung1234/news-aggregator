@@ -1,7 +1,137 @@
 window.newsData_2025_10_22 = {
   "date": "2025-10-22",
-  "lastUpdated": "2025-10-22T08:18:25.138709+07:00",
+  "lastUpdated": "2025-10-22T10:08:49.516617+07:00",
   "articles": [
+    {
+      "id": "c26a4786383f4b62f03eea2a85a10fd1",
+      "title": "CLB Nam Định đấu Gamba Osaka: Đâm lao thì phải theo lao",
+      "link": "https://tuoitre.vn/clb-nam-dinh-dau-gamba-osaka-dam-lao-thi-phai-theo-lao-20251022064308825.htm",
+      "summary": "CLB Nam Định đã chấp nhận hy sinh V-League để tiến sâu ở đấu trường quốc tế. Họ đang hướng đến một trận ra trò với Gamba Osaka, đối thủ lớn nhất ở bảng F AFC Champions League Two.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.352332+07:00",
+      "fetched": "2025-10-22T10:08:42.352447+07:00"
+    },
+    {
+      "id": "3ea11d9e2ed74c11753b57e980276ebc",
+      "title": "Hồng Gia Ban - nhóm võ thuật Hong Kong làm thay đổi làng điện ảnh",
+      "link": "https://tuoitre.vn/hong-gia-ban-nhom-vo-thuat-hong-kong-lam-thay-doi-lang-dien-anh-20251021105441623.htm",
+      "summary": "Từ thập niên 1970, Hong Kong đi tiên phong trong việc thành lập những hội nhóm võ thuật cascadeur. Và trào lưu đó được gầy dựng bởi một nhân vật trứ danh trong làng điện ảnh - Hồng Kim Bảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.352207+07:00",
+      "fetched": "2025-10-22T10:08:42.352321+07:00"
+    },
+    {
+      "id": "d8d49661ff6871380736071d17cb6f85",
+      "title": "Nhà thiết kế Trung Đinh muốn thế giới công nhận áo dài là của Việt Nam",
+      "link": "https://tuoitre.vn/nha-thiet-ke-trung-dinh-muon-the-gioi-cong-nhan-ao-dai-la-cua-viet-nam-20251022060631312.htm",
+      "summary": "13 năm theo đuổi thời trang, nghệ nhân - nhà thiết kế Trung Đinh trung thành với thiết kế áo dài truyền thống, để thế giới biết, nhận diện và công nhận áo dài là của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.352084+07:00",
+      "fetched": "2025-10-22T10:08:42.352197+07:00"
+    },
+    {
+      "id": "133ed42840c7ef3ab0deada5b742abd0",
+      "title": "Tin tức giá xe: Hàng loạt sedan cỡ B giảm giá, xuống rẻ ngang Kia Morning, Hyundai Grand i10",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-hang-loat-sedan-co-b-giam-gia-xuong-re-ngang-kia-morning-hyundai-grand-i10-20251021171357112.htm",
+      "summary": "Có mẫu sedan cỡ B có giá thực tế thấp hơn cả bản tiêu chuẩn của hatchback hạng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351960+07:00",
+      "fetched": "2025-10-22T10:08:42.352073+07:00"
+    },
+    {
+      "id": "a4193dec7939c384db430eddb24e739b",
+      "title": "Haus Private Club tuyển chọn nhân sự cho giai đoạn vận hành",
+      "link": "https://tuoitre.vn/haus-private-club-tuyen-chon-nhan-su-cho-giai-doan-van-hanh-20251021181756378.htm",
+      "summary": "Haus Private Club, câu lạc bộ tư nhân kín tiếng tại Việt Nam, chính thức khởi động “Recruitment Day” - chương trình tuyển chọn người đồng hành cho giai đoạn vận hành vào đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351832+07:00",
+      "fetched": "2025-10-22T10:08:42.351948+07:00"
+    },
+    {
+      "id": "e0830324189ec51a9c0ec168abb46203",
+      "title": "Điểm tin cùng bạn 8h: Kiến nghị cần 2-3 năm để cấm xe máy chạy xăng; Cựu Tổng thống Pháp ngồi tù",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-kien-nghi-can-2-3-nam-de-cam-xe-may-chay-xang-cuu-tong-thong-phap-ngoi-tu-20251022043456023.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 22-10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351704+07:00",
+      "fetched": "2025-10-22T10:08:42.351820+07:00"
+    },
+    {
+      "id": "d90803fc003451a090c5822d3465d666",
+      "title": "TP.HCM công bố đề minh họa tuyển sinh lớp 10 năm 2026",
+      "link": "https://tuoitre.vn/tp-hcm-cong-bo-de-minh-hoa-tuyen-sinh-lop-10-nam-2026-20251022074853311.htm",
+      "summary": "Sáng 22-10, Sở Giáo dục và Đào tạo TP.HCM đã công bố cấu trúc và đề minh họa 3 môn thi tuyển sinh lớp 10 năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351573+07:00",
+      "fetched": "2025-10-22T10:08:42.351692+07:00"
+    },
+    {
+      "id": "1883934245793b34b7384057b1ad3646",
+      "title": "Miền Trung đối mặt với mưa to, lũ lụt",
+      "link": "https://tuoitre.vn/mien-trung-doi-mat-voi-mua-to-lu-lut-2025102123144198.htm",
+      "summary": "Bão số 12 được dự báo gây mưa cực lớn khi có nơi sẽ hứng lượng mưa lớn lên tới 900mm trong những ngày sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351420+07:00",
+      "fetched": "2025-10-22T10:08:42.351556+07:00"
+    },
+    {
+      "id": "a0e4ab46dc52c163adc266514b821de8",
+      "title": "Cột mốc mới trong quan hệ Việt Nam - Phần Lan",
+      "link": "https://tuoitre.vn/cot-moc-moi-trong-quan-he-viet-nam-phan-lan-20251022074735935.htm",
+      "summary": "Chuyến thăm lịch sử của Tổng Bí thư Tô Lâm đến Phần Lan đánh dấu việc quốc gia Bắc Âu này trở thành Đối tác chiến lược của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351272+07:00",
+      "fetched": "2025-10-22T10:08:42.351407+07:00"
+    },
+    {
+      "id": "a3c9a5fcbd69d3c03963ef2c4d124256",
+      "title": "Thời tiết chuyển lạnh, cẩn trọng bệnh đột quỵ",
+      "link": "https://tuoitre.vn/thoi-tiet-chuyen-lanh-can-trong-benh-dot-quy-20251021192452725.htm",
+      "summary": "Chính sự thay đổi nhiệt độ đột ngột vào buổi sáng và ban đêm có thể khiến nhiều người có nguy cơ đột quỵ nếu chủ quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351140+07:00",
+      "fetched": "2025-10-22T10:08:42.351260+07:00"
+    },
+    {
+      "id": "6e81b6c621a209e8a37108b97c64f1ba",
+      "title": "Xanh SM và Grab mở rộng đội hình xe điện",
+      "link": "https://tuoitre.vn/xanh-sm-va-grab-mo-rong-doi-hinh-xe-dien-20251021234158713.htm",
+      "summary": "Xanh SM của tỉ phú Phạm Nhật Vượng chính thức mở rộng dịch vụ taxi công nghệ 7 chỗ cao cấp Xanh SM Limo tại Hà Nội và TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.351005+07:00",
+      "fetched": "2025-10-22T10:08:42.351128+07:00"
+    },
+    {
+      "id": "02e833b7e1bf0b749ecb6683efb72b1e",
+      "title": "Tân Thủ tướng Nhật Bản Takaichi Sanae - truyền nhân của Abenomics",
+      "link": "https://tuoitre.vn/tan-thu-tuong-nhat-ban-takaichi-sanae-truyen-nhan-cua-abenomics-20251022075715171.htm",
+      "summary": "Bà Sanae trở thành nữ thủ tướng đầu tiên của Nhật, thị trường chứng khoán tăng kỳ vọng chính sách kích thích kinh tế mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.350860+07:00",
+      "fetched": "2025-10-22T10:08:42.350993+07:00"
+    },
+    {
+      "id": "ff93084b2de4a5be4b71ffc374dbe436",
+      "title": "Ấu trùng sán xâm lấn não, người bệnh thành 'người gạo'",
+      "link": "https://tuoitre.vn/au-trung-san-xam-lan-nao-nguoi-benh-thanh-nguoi-gao-20251021232658002.htm",
+      "summary": "Sán ở trong người từ 10 - 20 năm, người ăn \"thịt heo gạo\" bị nhiễm sán dây lợn hay được gọi là \"người gạo\". Sán xâm lấn gây u cục, khiến \"người gạo\" bị rối loạn ý thức, suy hô hấp. Làm sao tránh loại ký sinh trùng gây bệnh ở người này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T10:08:42.350637+07:00",
+      "fetched": "2025-10-22T10:08:42.350845+07:00"
+    },
     {
       "id": "d760876ef02090fd4dbe751a9b5de610",
       "title": "Tượng đài tưởng niệm nạn nhân COVID-19: Nhớ quá khứ, bài học hiện tại, hướng về tương lai",
@@ -151,6 +281,336 @@ window.newsData_2025_10_22 = {
       "category": "Tổng hợp",
       "published": "2025-10-22T08:18:19.065901+07:00",
       "fetched": "2025-10-22T08:18:19.066109+07:00"
+    },
+    {
+      "id": "3453532694100b4dbeb27b87f010ff1b",
+      "title": "Đồng Nai: Từ 1.11, tổ chức công chứng 'gánh' chứng thực giao dịch cho UBND cấp xã",
+      "link": "https://thanhnien.vn/dong-nai-tu-111-to-chuc-cong-chung-ganh-chung-thuc-giao-dich-cho-ubnd-cap-xa-185251022090951103.htm",
+      "summary": "Từ 1.11, các tổ chức hành nghề công chứng sẽ chứng thực các giao dịch, hợp đồng thay cho 42 UBND xã, phường trên địa bàn tỉnh Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T03:03:00+07:00",
+      "fetched": "2025-10-22T10:08:41.443850+07:00"
+    },
+    {
+      "id": "5678bf81e7dce047606da8750dbacc26",
+      "title": "Nghệ sĩ nước ngoài hội ngộ tại Việt Nam cùng triển lãm nghệ thuật 'Lotus Van 2025'",
+      "link": "https://thanhnien.vn/nghe-si-nuoc-ngoai-hoi-ngo-tai-viet-nam-cung-trien-lam-nghe-thuat-lotus-van-2025-185251022084159272.htm",
+      "summary": "\"Từ Nhật Bản, Indonesia, Brazil, các bạn đã đến Việt Nam – dù khác biệt về văn hóa, ngôn ngữ và lịch sử, để chúng ta gặp gỡ nhau trong ngôn ngữ chung của nghệ thuật và tình bạn\", họa sĩ Nguyễn Minh Quang chia sẻ tại lễ khai mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T03:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444020+07:00"
+    },
+    {
+      "id": "f15feaef8c6e5fe41782e4db44cff144",
+      "title": "'Soi' tiêu chuẩn bàn giao của căn hộ resort Khải Hoàn Prime",
+      "link": "https://thanhnien.vn/soi-tieu-chuan-ban-giao-cua-can-ho-resort-khai-hoan-prime-185251022083412138.htm",
+      "summary": "Là căn hộ có chính sách mức giá hợp lý tại khu Nam TP.HCM trong thời điểm hiện tại, Khải Hoàn Prime tiếp tục hút khách nhờ tiêu chuẩn bàn giao cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T03:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444176+07:00"
+    },
+    {
+      "id": "7032bd31bcb83ced4474ed47ca6d7acb",
+      "title": "Cơ hội trở thành một phần của Private club dành cho giới siêu giàu tại Việt Nam",
+      "link": "https://thanhnien.vn/co-hoi-tro-thanh-mot-phan-cua-private-club-danh-cho-gioi-sieu-giau-tai-viet-nam-185251021162521433.htm",
+      "summary": "Haus Private Club - câu lạc bộ tư nhân kín tiếng tiên phong tại Việt Nam, chính thức khởi động \"Recruitment Day\" - chương trình tuyển chọn người đồng hành cho giai đoạn vận hành. Sự kiện diễn ra vào ngày 3.11 tại khách sạn Mercure, Đà Lạt; ngày 5.11 tại khách sạn Park Hyatt, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T03:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444329+07:00"
+    },
+    {
+      "id": "26e7763f886140168bc4edb5d7ceb1da",
+      "title": "Diện sắc hồng đa phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-sac-hong-da-phong-cach-185251021085344739.htm",
+      "summary": "Bất cứ khi nào cảm thấy buồn chán, 'tuột mood' hay không muốn chìm đắm trong cảm giác uể oải, nàng hãy mặc vào những bộ trang phục mang sắc hồng. Không chỉ có thể giúp người mặc thay đổi tâm trạng, váy áo mang gam màu hồng nhiều sắc độ còn mang đến khả năng biến hóa phong cách, phản ánh phong thái v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T03:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444481+07:00"
+    },
+    {
+      "id": "710325dc3c07e391a4ddc8ded39d9f83",
+      "title": "Những tính năng trên Galaxy S25 FE cho giải trí cuối năm",
+      "link": "https://vnexpress.net/nhung-tinh-nang-tren-galaxy-s25-fe-cho-giai-tri-cuoi-nam-4954264.html",
+      "summary": "Thiết kế mỏng nhẹ, camera 50 megapixel, loạt tính năng AI chỉnh sửa ảnh, video cùng pin 4.900 mAh giúp Galaxy S25 đồng hành người dùng trong những chuyến đi, hoạt động cuối năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-22T03:00:00+07:00",
+      "fetched": "2025-10-22T10:08:47.678277+07:00"
+    },
+    {
+      "id": "768fd7d53e4ba6aee5ec4329b1935d4f",
+      "title": "Lần đầu tiên phát hiện muỗi tại Iceland",
+      "link": "https://thanhnien.vn/lan-dau-tien-phat-hien-muoi-tai-iceland-185251022091954919.htm",
+      "summary": "Muỗi đã lần đầu tiên xuất hiện tại Iceland khi tình trạng nóng lên toàn cầu khiến cho quốc đảo này trở thành nơi dễ sinh sống hơn cho loài côn trùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:56:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444652+07:00"
+    },
+    {
+      "id": "3792ff4c6efd636eadd56691c29586ed",
+      "title": "Một số vấn đề mới, quan trọng trong dự thảo các Văn kiện Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/mot-so-van-de-moi-quan-trong-trong-du-thao-cac-van-kien-dai-hoi-xiv-cua-dang-185251022090752743.htm",
+      "summary": "Báo cáo một số vấn đề mới, quan trọng trong Dự thảo các Văn kiện trình Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:48:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444800+07:00"
+    },
+    {
+      "id": "bae1219c215d423dcb1fa4cd6c765bda",
+      "title": "Cuộc chạy đua cứu thỏa thuận hòa bình Gaza",
+      "link": "https://vnexpress.net/cuoc-chay-dua-cuu-thoa-thuan-hoa-binh-gaza-4953769.html",
+      "summary": "Các quan chức trong chính quyền Trump nỗ lực gây sức ép để Israel và Hamas duy trì thỏa thuận ngừng bắn mong manh, sau cuộc giao tranh, tập kích ở Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T02:38:48+07:00",
+      "fetched": "2025-10-22T10:08:43.237542+07:00"
+    },
+    {
+      "id": "2f3de03643579c66a5e8724562019ee4",
+      "title": "Ukraine tuyên bố tập kích nhà máy Nga bằng tên lửa Storm Shadow",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-nga-bang-ten-lua-storm-shadow-4954233.html",
+      "summary": "Quân đội Ukraine thông báo triển khai nhiều vũ khí, trong đó có tên lửa Storm Shadow, để tập kích nhà máy hóa chất ở tỉnh Bryansk của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T02:32:29+07:00",
+      "fetched": "2025-10-22T10:08:43.237720+07:00"
+    },
+    {
+      "id": "5318e9e10a408db8fd944f1ac282fd3a",
+      "title": "Cầu thủ nhập tịch lậu bị FIFA xử phạt, bất ngờ ‘biến mất’: Bóng đá Malaysia nhiễu loạn",
+      "link": "https://thanhnien.vn/cau-thu-nhap-tich-lau-bi-fifa-xu-phat-bat-ngo-bien-mat-bong-da-malaysia-nhieu-loan-185251022091515767.htm",
+      "summary": "Theo HLV Eduardo Coudet của CLB Deportivo Alaves, cầu thủ Facundo Garces gốc Argentina nhập tịch Malaysia đang bị FIFA cấm thi đấu 12 tháng với cáo buộc làm giả hồ sơ, hiện không rõ tung tích ở đâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:28:00+07:00",
+      "fetched": "2025-10-22T10:08:41.444949+07:00"
+    },
+    {
+      "id": "cc78ce40308a0a2e1056f1be99f00c34",
+      "title": "Thứ trưởng Thái Lan bị cáo buộc liên quan lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/thu-truong-thai-lan-bi-cao-buoc-lien-quan-lua-dao-truc-tuyen-4954239.html",
+      "summary": "Thủ tướng Anutin yêu cầu Thứ trưởng Tài chính Thái Lan Vorapak giải trình cáo buộc liên quan tới đường dây lừa đảo trực tuyến xuyên biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T02:19:34+07:00",
+      "fetched": "2025-10-22T10:08:43.237888+07:00"
+    },
+    {
+      "id": "d2189bf8ab80c4c690659f5a81b63b9a",
+      "title": "20 năm bán vé số nuôi 6 con ăn học: Rồi mẹ cũng 'tốt nghiệp' trường đời...",
+      "link": "https://thanhnien.vn/20-nam-ban-ve-so-nuoi-6-con-an-hoc-roi-me-cung-tot-nghiep-truong-doi-185251021145738759.htm",
+      "summary": "Bà Lê Thị Lời, người từng rời làng quê nghèo ở thôn Thanh Sơn, xã Khánh Cường (Quảng Ngãi) 20 năm để vào TP.HCM mưu sinh bằng nghề bán vé số, đã 'vẽ' lại hành trình đẫm mồ hôi và nước mắt để nuôi 6 đứa con ăn học thành người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:11:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445097+07:00"
+    },
+    {
+      "id": "1fd26fdc8e2acd3ee2c49f0b28ef074e",
+      "title": "Bão số 12 (Fengshen) áp sát Đà Nẵng, sắp dội mưa lớn dọc miền Trung",
+      "link": "https://thanhnien.vn/bao-so-12-fengshen-ap-sat-da-nang-sap-doi-mua-lon-doc-mien-trung-185251022090607167.htm",
+      "summary": "Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, lúc 7 giờ ngày 22.10, vị trí tâm bão số 12 (Fengshen) ở trên vùng biển phía tây bắc đặc khu Hoàng Sa, cách thành phố Đà Nẵng khoảng 280 km về phía đông đông bắc. Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 10 (89-102 km/giờ), giật cấp 12. Bão di chu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:06:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445244+07:00"
+    },
+    {
+      "id": "4476b98214896e244590c2df10195695",
+      "title": "CEO Sun PhuQuoc Airways: Chúng tôi gắn việc phát triển hàng không với phát triển điểm đến",
+      "link": "https://thanhnien.vn/ceo-sun-phuquoc-airways-chung-toi-gan-viec-phat-trien-hang-khong-voi-phat-trien-diem-den-18525102208574557.htm",
+      "summary": "Từ tầm nhìn của Sun Group, Sun PhuQuoc Airways (SPA) ra đời để đưa hàng không trở thành động lực cho du lịch Việt Nam, bắt đầu từ đảo Ngọc Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:05:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445396+07:00"
+    },
+    {
+      "id": "b6a8ccbe963d35a397b2bb1cd8a5dcbe",
+      "title": "Bệnh tổ lông vùng cùng cụt",
+      "link": "https://thanhnien.vn/benh-to-long-vung-cung-cut-185251021200412941.htm",
+      "summary": "Bệnh tổ lông (còn gọi là bệnh xoang tổ lông) vùng cùng cụt gặp ngày càng nhiều trong thực tế tại cơ sở điều trị chuyên khoa. Hình ảnh tổ lông là các lõm da trong rãnh giữa 2 mông và lông ở bên trong. Bệnh nhân thường ở độ tuổi 15 - 30.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:05:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445566+07:00"
+    },
+    {
+      "id": "3a3b75c7161ab303bb2aa9b9cd23e970",
+      "title": "Giá xăng dầu hôm nay 22.10.2025: Đổi chiều, bật tăng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-22102025-doi-chieu-bat-tang-185251022083311293.htm",
+      "summary": "Giá dầu thế giới tăng gần 1%, chấm dứt đà giảm mạnh từ trước đó. Tuy vậy, dự báo giá trong nước tại kỳ điều hành ngày mai (23.10) vẫn giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:02:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445719+07:00"
+    },
+    {
+      "id": "31ffc32946aa3cfe0a57b310730ad946",
+      "title": "Có nên uống thuốc giảm đau khi đau đầu?",
+      "link": "https://vnexpress.net/co-nen-uong-thuoc-giam-dau-khi-dau-dau-4954225.html",
+      "summary": "Tôi thường xuyên bị đau đầu, mỗi lần như vậy chỉ cần uống thuốc giảm đau là bớt. Uống lâu dài có ảnh hưởng gì không? (Bình Minh, Phú Thọ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.689692+07:00"
+    },
+    {
+      "id": "7d17e920e78d3f0689a06abe21bf0af3",
+      "title": "Nang giáp 40 năm to bằng quả cam",
+      "link": "https://vnexpress.net/nang-giap-40-nam-to-bang-qua-cam-4954160.html",
+      "summary": "Ông Nghề, 71 tuổi, bị nang giáp 40 năm, nay tổn thương khoảng 7 cm to bằng quả cam, được bác sĩ phẫu thuật loại bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.689881+07:00"
+    },
+    {
+      "id": "dd27ce0b672aec316bd2545f4ea498f2",
+      "title": "Soobin, Binz, Rhymastic tham gia 5AM Concert mùa 3",
+      "link": "https://vnexpress.net/soobin-binz-rhymastic-tham-gia-5am-concert-mua-3-4954104.html",
+      "summary": "5AM mùa 3 có sự góp mặt của Soobin, Binz, Rhymastic, Cường Seven và APJ cùng nhiều khách mời nghệ sĩ hứa hẹn các màn trình diễn truyền thống kết hợp hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.690052+07:00"
+    },
+    {
+      "id": "903463e2579221bc451aa714bf6e523c",
+      "title": "Biến chứng tiểu đường gây đục thủy tinh thể",
+      "link": "https://vnexpress.net/bien-chung-tieu-duong-gay-duc-thuy-tinh-the-4954102.html",
+      "summary": "Bà Ngân, 69 tuổi, nhìn mọi vật đều ám vàng và nhòe, bác sĩ chẩn đoán đục thủy tinh thể do biến chứng tiểu đường và lão hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.690211+07:00"
+    },
+    {
+      "id": "d6cb0bec11535af738f8ec9a9facd794",
+      "title": "Flamingo Maison 108 tích hợp mô hình nghỉ dưỡng du thuyền Hồ Núi Cốc",
+      "link": "https://vnexpress.net/flamingo-maison-108-tich-hop-mo-hinh-nghi-duong-du-thuyen-ho-nui-coc-4953853.html",
+      "summary": "Flamingo Maison 108 Hồ Núi Cốc dự kiến vận hành câu lạc bộ du thuyền cùng cụm tiện ích trên ba đảo, hướng tới nghỉ dưỡng xanh kết hợp trải nghiệm sinh thái, trị liệu, nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.690369+07:00"
+    },
+    {
+      "id": "bd87e8975dae3322758ba961c164e3b3",
+      "title": "Ra mắt chuỗi vodcast về tài chính 'Dẫn đầu xu thế sinh lời'",
+      "link": "https://vnexpress.net/ra-mat-chuoi-vodcast-ve-tai-chinh-dan-dau-xu-the-sinh-loi-4952698.html",
+      "summary": "Chuỗi vodcast \"Dẫn đầu xu thế sinh lời\" gồm 4 tập, giới thiệu cách người trẻ tối ưu nguồn lực và xây dựng phong cách tài chính, phát sóng trên VnExpress từ ngày 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:38.690548+07:00"
+    },
+    {
+      "id": "e32f38c3569a4d45d432bdac69fb4181",
+      "title": "Phi công hạ cánh khẩn cấp vì nhầm tưởng bị cướp máy bay",
+      "link": "https://thanhnien.vn/phi-cong-ha-canh-khan-cap-vi-nham-tuong-bi-cuop-may-bay-185251022085552047.htm",
+      "summary": "Phi công hạ cánh khẩn cấp vì nhầm tưởng xảy ra cướp máy bay, sau khi hệ thống liên lạc với các tiếp viên bị trục trặc và có những tiếng gõ mạnh vào cửa buồng lái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.445870+07:00"
+    },
+    {
+      "id": "d9315016cc041afb3e1b230cfdae16bb",
+      "title": "Ông Phạm Thành Kiên làm Trưởng ban Tổ chức Thành ủy TP.HCM",
+      "link": "https://thanhnien.vn/ong-pham-thanh-kien-lam-truong-ban-to-chuc-thanh-uy-tphcm-185251022084918519.htm",
+      "summary": "Ông Phạm Thành Kiên, 54 tuổi, Phó chủ tịch HĐND TP.HCM được bổ nhiệm giữ chức Trưởng ban Tổ chức Thành ủy TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T02:00:00+07:00",
+      "fetched": "2025-10-22T10:08:41.446015+07:00"
+    },
+    {
+      "id": "1ef6032ae0e74fb394172f24862d6334",
+      "title": "TP HCM công bố đề minh họa thi lớp 10 năm 2026",
+      "link": "https://vnexpress.net/minh-hoa-de-thi-lop-10-cua-tp-hcm-mon-toan-van-anh-nam-2026-4954238.html",
+      "summary": "Đề minh họa Toán, Văn, Tiếng Anh thi lớp 10 năm 2026 được Sở Giáo dục và Đào tạo TP HCM công bố sáng 22/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:57:26+07:00",
+      "fetched": "2025-10-22T10:08:38.690710+07:00"
+    },
+    {
+      "id": "08a247a30f5e6fa96f3616af4d87a278",
+      "title": "70 máy bay, 2.000 binh sĩ NATO tham gia diễn tập hạt nhân",
+      "link": "https://vnexpress.net/70-may-bay-2-000-binh-si-nato-tham-gia-dien-tap-hat-nhan-4954203.html",
+      "summary": "Các nước thành viên NATO điều 70 máy bay và khoảng 2.000 binh sĩ tham gia diễn tập hạt nhân, hoạt động tập trung vào khu vực Biển Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:41:13+07:00",
+      "fetched": "2025-10-22T10:08:38.690867+07:00"
+    },
+    {
+      "id": "08a247a30f5e6fa96f3616af4d87a278",
+      "title": "70 máy bay, 2.000 binh sĩ NATO tham gia diễn tập hạt nhân",
+      "link": "https://vnexpress.net/70-may-bay-2-000-binh-si-nato-tham-gia-dien-tap-hat-nhan-4954203.html",
+      "summary": "Các nước thành viên NATO điều 70 máy bay và khoảng 2.000 binh sĩ tham gia diễn tập hạt nhân, hoạt động tập trung vào khu vực Biển Bắc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T01:41:13+07:00",
+      "fetched": "2025-10-22T10:08:43.238058+07:00"
+    },
+    {
+      "id": "eec6b42d4761da54a7d63d037385ceaa",
+      "title": "Thành ủy TP HCM có tân Trưởng ban Tổ chức",
+      "link": "https://vnexpress.net/thanh-uy-tp-hcm-co-tan-truong-ban-to-chuc-4954234.html",
+      "summary": "Ông Phạm Thành Kiên, Phó chủ tịch HĐND TP HCM, 54 tuổi được điều động, phân công làm Trưởng ban Tổ chức Thành ủy TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:36:06+07:00",
+      "fetched": "2025-10-22T10:08:38.691030+07:00"
+    },
+    {
+      "id": "0679ae1ac7cdbb7a2ba00d0113312fa1",
+      "title": "Cuộc chiến sinh tồn trong căn hộ 'chuồng chim'",
+      "link": "https://vnexpress.net/cuoc-chien-sinh-ton-trong-can-ho-chuong-chim-4954185.html",
+      "summary": "Bốn người của gia đình chị Tam sống trong căn hộ \"chuồng chim\" 7 m2 ở Sham Shui Po, nơi có tỷ lệ đói nghèo cao nhất Hong Kong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:31:06+07:00",
+      "fetched": "2025-10-22T10:08:38.691192+07:00"
+    },
+    {
+      "id": "299e8bed397467feccc622b3ad825d7a",
+      "title": "Nhã Phương ôm bụng bầu dự sự kiện của Lý Thùy Chang",
+      "link": "https://vnexpress.net/nha-phuong-om-bung-bau-du-su-kien-cua-ly-thuy-chang-4954222.html",
+      "summary": "Nhã Phương diện sắc đen khoe khéo bụng bầu 5 tháng khi dự sự kiện làm đẹp của Lý Thùy Chang, tối 21/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:30:00+07:00",
+      "fetched": "2025-10-22T10:08:38.691344+07:00"
+    },
+    {
+      "id": "f78d7d29cafdd24872ea07cbeca354b4",
+      "title": "10 điều nên làm ngay khi Hà Nội vào thu",
+      "link": "https://vnexpress.net/10-dieu-nen-lam-ngay-khi-ha-noi-vao-thu-4952723.html",
+      "summary": "Khi đợt gió mùa Đông Bắc đầu tiên tràn về, Hà Nội bước vào mùa đẹp nhất năm với tiết trời se lạnh, nắng vàng và nhiều trải nghiệm nên thử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:29:00+07:00",
+      "fetched": "2025-10-22T10:08:38.691518+07:00"
+    },
+    {
+      "id": "c1d388102a7fd8e36cd2c23f82bcc2f9",
+      "title": "Chồng nói 'bệnh gan' để giấu nhiễm HIV suốt 10 năm",
+      "link": "https://vnexpress.net/chong-noi-benh-gan-de-giau-nhiem-hiv-suot-10-nam-4954024.html",
+      "summary": "Một phụ nữ được tòa án chấp thuận ly hôn sau khi phát hiện chồng đã giấu kín việc nhiễm HIV suốt 10 năm chung sống, nói dối rằng mình bị \"bệnh gan\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T01:26:13+07:00",
+      "fetched": "2025-10-22T10:08:38.691681+07:00"
     },
     {
       "id": "69ddaba6ffbd7d3e4f4ab90092717df7",
