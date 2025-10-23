@@ -1,7 +1,157 @@
 window.newsData_2025_10_23 = {
   "date": "2025-10-23",
-  "lastUpdated": "2025-10-23T21:17:46.773353+07:00",
+  "lastUpdated": "2025-10-23T23:20:55.466412+07:00",
   "articles": [
+    {
+      "id": "5a3c3a46a85e49fa07eee17685e382cc",
+      "title": "Đại hội XIV của Đảng dự kiến diễn ra từ ngày 19 đến 25-1-2026",
+      "link": "https://tuoitre.vn/dai-hoi-xiv-cua-dang-du-kien-dien-ra-tu-ngay-19-den-25-1-2026-2025102320300082.htm",
+      "summary": "Theo Ban Tuyên giáo và Dân vận Trung ương, Đại hội lần thứ XIV của Đảng dự kiến diễn ra trong thời gian 7 ngày, từ 19 đến 25-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.990311+07:00",
+      "fetched": "2025-10-23T23:20:48.990409+07:00"
+    },
+    {
+      "id": "2f1a5538045f3f6b879ab56a478d7dc4",
+      "title": "Hai trường cao đẳng y tế sáp nhập vào hai trường đại học",
+      "link": "https://tuoitre.vn/hai-truong-cao-dang-y-te-sap-nhap-vao-hai-truong-dai-hoc-20251023200440466.htm",
+      "summary": "Phó thủ tướng Lê Thành Long vừa ký các quyết định sáp nhập Trường cao đẳng Y tế Thái Nguyên vào Trường đại học Y - Dược (Đại học Thái Nguyên); Trường cao đẳng Y tế Huế sáp nhập vào Trường đại học Y - Dược (Đại học Huế).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.990204+07:00",
+      "fetched": "2025-10-23T23:20:48.990299+07:00"
+    },
+    {
+      "id": "5b102b73831153056f0006d15a3e2174",
+      "title": "Trường đại học Tài chính - Marketing sắp xếp lại bộ máy lãnh đạo theo quy định mới",
+      "link": "https://tuoitre.vn/truong-dai-hoc-tai-chinh-marketing-sap-xep-lai-bo-may-lanh-dao-theo-quy-dinh-moi-20251023203156932.htm",
+      "summary": "Trường đại học Tài chính - Marketing vừa thay đổi chức vụ lãnh đạo Đảng ủy trường sau đại hội 4 tháng, sắp xếp lại toàn diện bộ máy lãnh đạo theo quy định mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.990099+07:00",
+      "fetched": "2025-10-23T23:20:48.990195+07:00"
+    },
+    {
+      "id": "b99b26313197b89c32d92824819db666",
+      "title": "Thái Lan truy dấu Prince Group, khẳng định không có chính trị gia nào liên quan",
+      "link": "https://tuoitre.vn/thai-lan-truy-dau-prince-group-khang-dinh-khong-co-chinh-tri-gia-nao-lien-quan-20251023202445318.htm",
+      "summary": "Thái Lan cho biết không có chính trị gia nào của nước này dính đến mạng lưới Prince Group, trong lúc nước này truy dấu tài chính của tập đoàn có trụ sở ở Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989993+07:00",
+      "fetched": "2025-10-23T23:20:48.990090+07:00"
+    },
+    {
+      "id": "3cd3cca9fc071d04a17ded7ed2f44a21",
+      "title": "Triều cường TP.HCM dâng cao, may là không có mưa",
+      "link": "https://tuoitre.vn/trieu-cuong-tp-hcm-dang-cao-may-la-khong-co-mua-20251023204123385.htm",
+      "summary": "Ảnh hưởng bởi triều cường TP.HCM dâng cao khiến nhiều tuyến đường bị ngập, nhiều người vất vả bì bõm trên đường ngập về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989886+07:00",
+      "fetched": "2025-10-23T23:20:48.989984+07:00"
+    },
+    {
+      "id": "9f95e6526a2111eacc4f36b1aafb395e",
+      "title": "Sớm nâng cấp quan hệ Việt Nam - Nam Phi lên Đối tác chiến lược",
+      "link": "https://tuoitre.vn/som-nang-cap-quan-he-viet-nam-nam-phi-len-doi-tac-chien-luoc-20251023210241368.htm",
+      "summary": "Tổng thống Nam Phi Cyril Ramaphosa khẳng định sớm hoàn tất thủ tục nội bộ để nâng cấp quan hệ với Việt Nam lên Đối tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989771+07:00",
+      "fetched": "2025-10-23T23:20:48.989867+07:00"
+    },
+    {
+      "id": "bf140bcd275cd11a32c8d83cd381453a",
+      "title": "TP.HCM yêu cầu 100% hồ sơ hành chính được ký số, trả kết quả điện tử",
+      "link": "https://tuoitre.vn/tp-hcm-yeu-cau-100-ho-so-hanh-chinh-duoc-ky-so-tra-ket-qua-dien-tu-20251023211004645.htm",
+      "summary": "UBND TP.HCM vừa chỉ đạo yêu cầu các sở, ban, ngành và UBND cấp xã triển khai chữ ký số và trả kết quả điện tử đối với toàn bộ hồ sơ thủ tục hành chính cho người dân, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989665+07:00",
+      "fetched": "2025-10-23T23:20:48.989762+07:00"
+    },
+    {
+      "id": "6b7e23bc226f7e8912adf128c8c9b81c",
+      "title": "Tháng 11 có phương án sắp xếp, sáp nhập các trường cao đẳng, trường nghề",
+      "link": "https://tuoitre.vn/thang-11-co-phuong-an-sap-xep-sap-nhap-cac-truong-cao-dang-truong-nghe-20251023210437698.htm",
+      "summary": "Theo Bộ trưởng Bộ Giáo dục và Đào tạo Nguyễn Kim Sơn, việc tái cấu trúc, sắp xếp chỉ nhằm vào những trường cao đẳng yếu, nhỏ, không tuyển sinh được, khó tồn tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989559+07:00",
+      "fetched": "2025-10-23T23:20:48.989656+07:00"
+    },
+    {
+      "id": "caa28f9d1bdd4a2aa423a89f4c99ca7a",
+      "title": "CLB Công An Hà Nội mất chiến thắng trong ngày Nguyễn Filip bị thay ra",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-mat-chien-thang-trong-ngay-nguyen-filip-bi-thay-ra-20251023203604395.htm",
+      "summary": "Đang dẫn đối thủ 1-0, ban huấn luyện CLB Công An Hà Nội bỗng rút Nguyễn Filip ra nghỉ và bị Macarthur FC gỡ hòa 1-1 ở trận đấu tối 23-10 trên sân Hàng Đẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989453+07:00",
+      "fetched": "2025-10-23T23:20:48.989550+07:00"
+    },
+    {
+      "id": "ce9ba96fd2fabe329d329fe595a7d595",
+      "title": "Phó thủ tướng: Việt Nam sẽ tiếp tục tăng mua hàng Mỹ, máy bay, bán dẫn",
+      "link": "https://tuoitre.vn/pho-thu-tuong-viet-nam-se-tiep-tuc-tang-mua-hang-my-may-bay-ban-dan-20251023212345288.htm",
+      "summary": "Việt Nam sẽ tiếp tục tăng mua hàng hóa Mỹ, nhất là các mặt hàng công nghệ cao như máy bay, sản phẩm bán dẫn, theo Phó thủ tướng Bùi Thanh Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989344+07:00",
+      "fetched": "2025-10-23T23:20:48.989442+07:00"
+    },
+    {
+      "id": "be048d5e7d485a37322b8494b97e1670",
+      "title": "Chiếu miễn phí phim Mưa đỏ, Tử chiến trên không ở Hội chợ mùa thu",
+      "link": "https://tuoitre.vn/chieu-mien-phi-phim-mua-do-tu-chien-tren-khong-o-hoi-cho-mua-thu-20251023184217455.htm",
+      "summary": "Hai phim nổi bật của điện ảnh Việt Nam gần đây là ‘Mưa đỏ’ và ‘Tử chiến trên không’ sẽ được chiếu miễn phí cho khán giả tại Hội chợ mùa thu 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989233+07:00",
+      "fetched": "2025-10-23T23:20:48.989334+07:00"
+    },
+    {
+      "id": "673ac95cf90d7d9c2314851cd773932f",
+      "title": "Nhiều công ty dầu khí quốc doanh Trung Quốc ngừng mua dầu Nga",
+      "link": "https://tuoitre.vn/nhieu-cong-ty-dau-khi-quoc-doanh-trung-quoc-ngung-mua-dau-nga-20251023213253293.htm",
+      "summary": "Các nguồn thương mại tiết lộ các công ty dầu mỏ nhà nước của Trung Quốc ngừng mua dầu từ Nga sau khi Mỹ trừng phạt hai công ty Rosneft và Lukoil của Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.989117+07:00",
+      "fetched": "2025-10-23T23:20:48.989223+07:00"
+    },
+    {
+      "id": "42ed709098f9718da682c017a01bec36",
+      "title": "Lý do Nguyễn Filip bị thay ra ở trận đấu với Macarthur FC",
+      "link": "https://tuoitre.vn/ly-do-nguyen-filip-bi-thay-ra-o-tran-dau-voi-macarthur-fc-2025102321452459.htm",
+      "summary": "HLV trưởng Alexandre Polking tiết lộ lý do bất ngờ rút thủ môn Nguyễn Filip ra để thay thủ môn 20 tuổi vào sân trận CLB Công An Hà Nội hòa 1-1 trước Macarthur tối 23-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.988998+07:00",
+      "fetched": "2025-10-23T23:20:48.989107+07:00"
+    },
+    {
+      "id": "eae77526c3f71b713d6a898cff7c53c1",
+      "title": "Phó tổng thống Mỹ bật lại giới chính trị gia Israel chuyện sáp nhập Bờ Tây",
+      "link": "https://tuoitre.vn/pho-tong-thong-my-bat-lai-gioi-chinh-tri-gia-israel-chuyen-sap-nhap-bo-tay-20251023220408496.htm",
+      "summary": "Phó tổng thống Mỹ JD Vance nói cảm thấy bị sỉ nhục khi Israel thúc đẩy dự luật sáp nhập Bờ Tây, khẳng định chính sách của ông Trump không cho phép điều này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.988850+07:00",
+      "fetched": "2025-10-23T23:20:48.988985+07:00"
+    },
+    {
+      "id": "9b84a354c32ff3fc438719fd17c80b44",
+      "title": "‘Giọng hát không dầu mỡ’ Khánh Thy ra album mới",
+      "link": "https://tuoitre.vn/giong-hat-khong-dau-mo-khanh-thy-ra-album-moi-20251023215737266.htm",
+      "summary": "Nghệ sĩ nhân dân Quang Vinh - nguyên Cục trưởng Cục Nghệ thuật biểu diễn, Chủ tịch Hội Âm nhạc Hà Nội - nói điều ông ấn tượng nhất ở Khánh Thy, giải ba cuộc thi Tiếng hát Hà Nội 2023 mà ông làm giám khảo, là giọng hát ‘không dầu mỡ’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:20:48.988639+07:00",
+      "fetched": "2025-10-23T23:20:48.988837+07:00"
+    },
     {
       "id": "58a127b1a01590416ea5f58a464ec22b",
       "title": "Lãnh đạo Hà Nội kiểm tra đột xuất các cơ sở chế biến suất ăn bán trú cho học sinh",
@@ -453,6 +603,26 @@ window.newsData_2025_10_23 = {
       "fetched": "2025-10-23T17:18:18.914391+07:00"
     },
     {
+      "id": "bbe56fe6ab60b51f8f207b4a7b13a1ae",
+      "title": "Lương Bằng Quang trước khi bị bắt: Từ nhạc sĩ nổi tiếng đến 'ngụp lặn' trong scandal",
+      "link": "https://thanhnien.vn/luong-bang-quang-truoc-khi-bi-bat-tu-nhac-si-noi-tieng-den-ngup-lan-trong-scandal-18525102322410015.htm",
+      "summary": "Trước khi bị khởi tố, bắt tạm giam vì tội hối lộ, Lương Bằng Quang được đánh giá là một nhạc sĩ tài năng và có tư duy âm nhạc hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T16:19:00+07:00",
+      "fetched": "2025-10-23T23:20:47.942994+07:00"
+    },
+    {
+      "id": "0347b158252f631f1fbd22cd1591a587",
+      "title": "Sớm nâng cấp quan hệ Việt Nam - Nam Phi",
+      "link": "https://thanhnien.vn/som-nang-cap-quan-he-viet-nam-nam-phi-18525102322123187.htm",
+      "summary": "Chiều 23.10, sau lễ đón trọng thể tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã hội đàm với Tổng thống Nam Phi Cyril Ramaphosa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:48:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943143+07:00"
+    },
+    {
       "id": "b0ba9fff8a55bcf1a183dd8cbe3a7f71",
       "title": "Đan - móc len: Thú vui tuổi già thành liệu pháp cho tuổi trẻ",
       "link": "https://tuoitre.vn/dan-moc-len-thu-vui-tuoi-gia-thanh-lieu-phap-cho-tuoi-tre-20251017135542858.htm",
@@ -603,6 +773,206 @@ window.newsData_2025_10_23 = {
       "fetched": "2025-10-23T15:23:14.880833+07:00"
     },
     {
+      "id": "2a483b271371e9ca2fa78d26caf7184f",
+      "title": "TP.Huế đang mưa rất to, dự báo mưa lũ sẽ phức tạp và kéo dài",
+      "link": "https://thanhnien.vn/tphue-dang-mua-rat-to-du-bao-mua-lu-se-phuc-tap-va-keo-dai-185251023214132745.htm",
+      "summary": "Tối 23.10, tại TP.Huế bắt đầu có mưa rất to. Nhiều vùng hạ du các sông đã ngập kèm với đợt mưa lớn này gây nguy cơ ngập lụt diện rộng. Cơ quan chức năng cảnh báo, mưa lớn sẽ còn kéo dài và phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:16:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943274+07:00"
+    },
+    {
+      "id": "1f53f33fa1d2285a7f5c104f865e5f97",
+      "title": "Không khí lạnh 'đánh tan' bão số 12, miền Trung thoát mưa lớn dữ dội 900 mm",
+      "link": "https://thanhnien.vn/khong-khi-lanh-danh-tan-bao-so-12-mien-trung-thoat-mua-lon-du-doi-900-mm-185251023213114537.htm",
+      "summary": "Không khí lạnh khô, cường độ mạnh tác động khiến bão số 12 (bão Fengshen) suy yếu rất nhanh và tan trên biển. Miền Trung không còn mưa lớn dữ dội có nơi trên 900 mm như dự báo ban đầu nhưng vẫn còn mưa kéo dài, diễn biến phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:16:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943402+07:00"
+    },
+    {
+      "id": "20a8c27ad2cb6f820adc81381713d037",
+      "title": "Đề xuất chung cư hỗn hợp mới được cho thuê lưu trú du lịch ngắn ngày",
+      "link": "https://vnexpress.net/de-xuat-chung-cu-hon-hop-moi-duoc-cho-thue-luu-tru-du-lich-ngan-ngay-4955091.html",
+      "summary": "Theo dự thảo của Sở Xây dựng, chỉ các căn hộ trong chung cư hỗn hợp, đáp ứng điều kiện kỹ thuật, pháp lý và được công bố đủ tiêu chuẩn mới được phép cho thuê lưu trú du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:14:56+07:00",
+      "fetched": "2025-10-23T23:20:45.026168+07:00"
+    },
+    {
+      "id": "5245cf4a4ecc09950c2dbe558f42fbc8",
+      "title": "Lâm Đồng: Bắt giữ chồng cũ nạn nhân trong vụ ‘tra tấn em dâu để trừ tà’",
+      "link": "https://thanhnien.vn/lam-dong-bat-giu-chong-cu-nan-nhan-trong-vu-tra-tan-em-dau-de-tru-ta-185251023200615111.htm",
+      "summary": "Công an tỉnh Lâm Đồng vừa bắt giam Nguyễn Tự Tín, chồng cũ của nạn nhân trong vụ 'tra tấn em dâu để trừ tà', liên quan việc điều tra bổ sung vụ án 'tà đạo' từng gây chấn động TP.Phan Thiết (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:08:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943530+07:00"
+    },
+    {
+      "id": "df50e9b42d5fe995d3e17154d9edc687",
+      "title": "Trang phục vải ren: Nét gợi cảm của sự tự tin và thanh lịch",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-vai-ren-net-goi-cam-cua-su-tu-tin-va-thanh-lich-185251023194232933.htm",
+      "summary": "Ren - chất liệu tưởng chỉ dành cho sự dịu dàng, nay trở thành biểu tượng của nét nữ tính. Bước qua những định nghĩa cũ kỹ, vải ren không chỉ là ngôn ngữ của sự gợi cảm, mà còn là tuyên ngôn cho khí chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T15:00:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943658+07:00"
+    },
+    {
+      "id": "2a7b3d1f8d8c01515d259a753ce907d6",
+      "title": "Tiêu hủy hơn 600 kg ngà voi buôn lậu từ châu Phi",
+      "link": "https://vnexpress.net/tieu-huy-hon-600-kg-nga-voi-buon-lau-tu-chau-phi-4955078.html",
+      "summary": "Chiều 23/10, Cục Thi hành án dân sự TP Hải Phòng tổ chức tiêu hủy 615 kg ngà voi trong vụ án buôn lậu từ châu Phi về Việt Nam tại một lò đốt ở tỉnh Phú Thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:56:24+07:00",
+      "fetched": "2025-10-23T23:20:45.026325+07:00"
+    },
+    {
+      "id": "bfc3dd2ca3a27caa3498abf6996607f4",
+      "title": "Nam Phi coi Việt Nam là người bạn thân thiết ở châu Á",
+      "link": "https://vnexpress.net/nam-phi-coi-viet-nam-la-nguoi-ban-than-thiet-o-chau-a-4955104.html",
+      "summary": "Tổng thống Ramaphosa cho biết Việt Nam là \"người bạn thân thiết, đối tác quan trọng\" của Nam Phi ở châu Á, mong muốn phát triển quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:55:28+07:00",
+      "fetched": "2025-10-23T23:20:45.026465+07:00"
+    },
+    {
+      "id": "bfc3dd2ca3a27caa3498abf6996607f4",
+      "title": "Nam Phi coi Việt Nam là người bạn thân thiết ở châu Á",
+      "link": "https://vnexpress.net/nam-phi-coi-viet-nam-la-nguoi-ban-than-thiet-o-chau-a-4955104.html",
+      "summary": "Tổng thống Ramaphosa cho biết Việt Nam là \"người bạn thân thiết, đối tác quan trọng\" của Nam Phi ở châu Á, mong muốn phát triển quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-23T14:55:28+07:00",
+      "fetched": "2025-10-23T23:20:50.503729+07:00"
+    },
+    {
+      "id": "bcf75332e19dd08425deaf9287fa964c",
+      "title": "Tác dụng của collagen trong việc làm đẹp khiến phụ nữ 30+ ‘yêu’ hơn cả skincare high-end",
+      "link": "https://thanhnien.vn/tac-dung-cua-collagen-trong-viec-lam-dep-khien-phu-nu-30-yeu-hon-ca-skincare-high-end-185251023215032625.htm",
+      "summary": "Ở tuổi đôi mươi, làn da căng tràn sức sống, mỗi sáng thức dậy chẳng cần kem dưỡng vẫn mịn màng, rạng rỡ. Nhưng vài năm sau, khi bước sang 30, những dấu hiệu lão hóa như nếp nhăn, da chảy xệ, khô ráp, xỉn màu bắt đầu \"ghé thăm\". Đó chính là lúc collagen - \"chìa khóa vàng\" của làn da không tuổi và đan...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:50:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943789+07:00"
+    },
+    {
+      "id": "42990e09eaa8056889ea1464e021c47b",
+      "title": "TP HCM muốn miễn phí bảo hiểm y tế cho học sinh và người già",
+      "link": "https://vnexpress.net/tp-hcm-muon-mien-phi-bao-hiem-y-te-cho-hoc-sinh-va-nguoi-gia-4955097.html",
+      "summary": "Chính quyền TP HCM đề xuất chi hơn 2.100 tỷ đồng để miễn phí bảo hiểm y tế cho hơn 2 triệu học sinh và gần 700.000 người trên 65 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:43:35+07:00",
+      "fetched": "2025-10-23T23:20:45.026605+07:00"
+    },
+    {
+      "id": "51647b864dab0c17e73356b53de7a456",
+      "title": "Ba điều dưỡng Nghệ An bị truy sát đã qua nguy kịch",
+      "link": "https://vnexpress.net/ba-dieu-duong-nghe-an-bi-truy-sat-da-qua-nguy-kich-4955112.html",
+      "summary": "Ba nữ điều dưỡng Bệnh viện Sản Nhi Nghệ An bị Bàn Văn Vỹ dùng dao tấn công đã qua cơn nguy kịch sau phẫu thuật, song tinh thần còn hoảng loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:42:30+07:00",
+      "fetched": "2025-10-23T23:20:45.026745+07:00"
+    },
+    {
+      "id": "875367f8201a017ef569315a864dfcf1",
+      "title": "CEO Musk chê giám đốc NASA ‘IQ hai chữ số’",
+      "link": "https://thanhnien.vn/ceo-musk-che-giam-doc-nasa-iq-hai-chu-so-185251023212945132.htm",
+      "summary": "Quyền giám đốc NASA Sean Duffy và tỉ phú Elon Musk hôm 21.10 có màn đấu khẩu trực tuyến về việc ai sẽ lãnh đạo cơ quan không gian Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:41:00+07:00",
+      "fetched": "2025-10-23T23:20:47.943926+07:00"
+    },
+    {
+      "id": "45d470a8535dda566f3cd2a09f3d52c1",
+      "title": "Việt Nam - Bulgaria thiết lập quan hệ Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-bulgaria-thiet-lap-quan-he-doi-tac-chien-luoc-4955111.html",
+      "summary": "Việt Nam và Bulgaria thống nhất thiết lập quan hệ Đối tác chiến lược, trong chuyến thăm chính thức của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:33:31+07:00",
+      "fetched": "2025-10-23T23:20:45.026892+07:00"
+    },
+    {
+      "id": "45d470a8535dda566f3cd2a09f3d52c1",
+      "title": "Việt Nam - Bulgaria thiết lập quan hệ Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-bulgaria-thiet-lap-quan-he-doi-tac-chien-luoc-4955111.html",
+      "summary": "Việt Nam và Bulgaria thống nhất thiết lập quan hệ Đối tác chiến lược, trong chuyến thăm chính thức của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-23T14:33:31+07:00",
+      "fetched": "2025-10-23T23:20:50.503901+07:00"
+    },
+    {
+      "id": "d790298d81daf8a88c5200c42b00c0f4",
+      "title": "Công an Hà Nội tuột chiến thắng trước CLB Australia",
+      "link": "https://vnexpress.net/cong-an-ha-noi-tuot-chien-thang-truoc-clb-australia-4955109.html",
+      "summary": "Công an Hà Nội (CAHN) chơi lấn lướt nhưng hòa Macarthur 1-1 ở lượt ba bảng E AFC Champions League (ACL) Two 2025-2026, tối 23/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:31:23+07:00",
+      "fetched": "2025-10-23T23:20:45.027024+07:00"
+    },
+    {
+      "id": "d790298d81daf8a88c5200c42b00c0f4",
+      "title": "Công an Hà Nội tuột chiến thắng trước CLB Australia",
+      "link": "https://vnexpress.net/cong-an-ha-noi-tuot-chien-thang-truoc-clb-australia-4955109.html",
+      "summary": "Công an Hà Nội (CAHN) chơi lấn lướt nhưng hòa Macarthur 1-1 ở lượt ba bảng E AFC Champions League (ACL) Two 2025-2026, tối 23/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-23T14:31:23+07:00",
+      "fetched": "2025-10-23T23:20:55.452888+07:00"
+    },
+    {
+      "id": "d2935a59c83a80eea295e598e0d2cda0",
+      "title": "Người TP HCM sống trong ngập sâu sau 15 giờ lũ ập tới",
+      "link": "https://vnexpress.net/nguoi-tp-hcm-song-trong-ngap-sau-sau-15-gio-lu-ap-toi-4954991.html",
+      "summary": "Nước từ thượng nguồn sông Thị Tính đổ về gây ngập, người dân Bến Cát - Bàu Bàng (Bình Dương cũ) sống với ngập lụt nhiều giờ, chèo thuyền trong nhà để sinh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:22:46+07:00",
+      "fetched": "2025-10-23T23:20:45.027156+07:00"
+    },
+    {
+      "id": "68369ccacda01e88e41a480fa9ff4065",
+      "title": "Các hãng dầu quốc doanh Trung Quốc ngừng mua dầu Nga",
+      "link": "https://vnexpress.net/cac-hang-dau-quoc-doanh-trung-quoc-ngung-mua-dau-nga-4955107.html",
+      "summary": "Các hãng dầu quốc doanh lớn của Trung Quốc đã dừng mua dầu Nga bằng đường biển, do lo ngại các lệnh trừng phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:18:54+07:00",
+      "fetched": "2025-10-23T23:20:45.027285+07:00"
+    },
+    {
+      "id": "68369ccacda01e88e41a480fa9ff4065",
+      "title": "Các hãng dầu quốc doanh Trung Quốc ngừng mua dầu Nga",
+      "link": "https://vnexpress.net/cac-hang-dau-quoc-doanh-trung-quoc-ngung-mua-dau-nga-4955107.html",
+      "summary": "Các hãng dầu quốc doanh lớn của Trung Quốc đã dừng mua dầu Nga bằng đường biển, do lo ngại các lệnh trừng phạt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-23T14:18:54+07:00",
+      "fetched": "2025-10-23T23:20:52.218599+07:00"
+    },
+    {
+      "id": "d1c13395afe1c9d28d36fc63971ee38f",
+      "title": "Iran phản ứng về khả năng đối diện làn sóng tấn công mới",
+      "link": "https://thanhnien.vn/iran-phan-ung-ve-kha-nang-doi-dien-lan-song-tan-cong-moi-185251023204852172.htm",
+      "summary": "Iran tuyên bố rằng những bên nào đưa ra các lời đe dọa tái sử dụng vũ lực với nước này 'cần hiểu rằng việc lặp lại một kinh nghiệm thất bại sẽ chỉ dẫn đến một thất bại khác'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:18:00+07:00",
+      "fetched": "2025-10-23T23:20:47.944053+07:00"
+    },
+    {
       "id": "adf8ee28d971a3856444fe7aa974ed9b",
       "title": "CLB CAHN rơi chiến thắng cực đáng tiếc trước đối thủ Úc: Vẫn giữ ngôi đầu!",
       "link": "https://thanhnien.vn/clb-cahn-roi-chien-thang-cuc-dang-tiec-truoc-doi-thu-uc-van-giu-ngoi-dau-185251023201731275.htm",
@@ -631,6 +1001,16 @@ window.newsData_2025_10_23 = {
       "category": "Tổng hợp",
       "published": "2025-10-23T14:10:00+07:00",
       "fetched": "2025-10-23T21:17:38.448163+07:00"
+    },
+    {
+      "id": "fa3beec3e476d9ed07d21e8d381f2971",
+      "title": "Cơ quan thuế cam kết đồng hành cùng hộ kinh doanh trong xóa thuế khoán",
+      "link": "https://thanhnien.vn/co-quan-thue-cam-ket-dong-hanh-cung-ho-kinh-doanh-trong-xoa-thue-khoan-185251023211403763.htm",
+      "summary": "Ngành thuế khẳng định đã, đang và sẽ tiếp tục đồng hành cùng hộ kinh doanh xuyên suốt quá trình xóa thuế khoán, chuyển sang kê khai thuế, nộp thuế trên doanh thu thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T14:09:00+07:00",
+      "fetched": "2025-10-23T23:20:47.944443+07:00"
     },
     {
       "id": "87275a92ea143de334484a0c39df5686",
