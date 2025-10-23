@@ -1,6 +1,6 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T01:24:45.759967+07:00",
+  "lastUpdated": "2025-10-24T03:18:06.019068+07:00",
   "articles": [
     {
       "id": "b99b26313197b89c32d92824819db666",
@@ -153,6 +153,26 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T01:24:37.354190+07:00"
     },
     {
+      "id": "1e2db29a11c5b8495589bf2f75073093",
+      "title": "Vì sao nhiều nhà lãnh đạo chuộng khoe sức mạnh cơ bắp?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-nha-lanh-dao-chuong-khoe-suc-manh-co-bap-4954790.html",
+      "summary": "Các chính trị gia ngày càng chuộng phô diễn sức mạnh thể chất như một chiến lược tạo cảm giác ổn định, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T19:00:00+07:00",
+      "fetched": "2025-10-24T03:17:55.612573+07:00"
+    },
+    {
+      "id": "78033f2a20b047a8aa337d3c5d0cd197",
+      "title": "Nhà 30 năm tuổi cải tạo với khoảng trống xuyên tầng cho trẻ em chơi đùa",
+      "link": "https://vnexpress.net/nha-30-nam-tuoi-cai-tao-voi-khoang-trong-xuyen-tang-cho-tre-em-choi-dua-4954560.html",
+      "summary": "Giải pháp cải tạo tập trung vào việc mở một khoảng trống kéo dài theo chiều cao công trình, giúp không gian sống thông thoáng, linh hoạt và dễ quan sát giữa các tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T18:05:07+07:00",
+      "fetched": "2025-10-24T03:17:55.612733+07:00"
+    },
+    {
       "id": "e308b98e7712d4c776798a21e3cd5821",
       "title": "Mẫu tên lửa 'sát thủ diệt hạm' có thể giúp Venezuela răn đe tàu chiến Mỹ",
       "link": "https://vnexpress.net/mau-ten-lua-sat-thu-diet-ham-co-the-giup-venezuela-ran-de-tau-chien-my-4954019.html",
@@ -161,6 +181,36 @@ window.newsData_2025_10_24 = {
       "category": "Thế giới",
       "published": "2025-10-23T18:00:00+07:00",
       "fetched": "2025-10-24T01:24:39.322817+07:00"
+    },
+    {
+      "id": "d29d5396948f1699552f55712fb357fc",
+      "title": "Căng thẳng có làm tăng đường huyết?",
+      "link": "https://vnexpress.net/cang-thang-co-lam-tang-duong-huyet-4955010.html",
+      "summary": "Căng thẳng về tinh thần và thể chất có thể làm tăng lượng đường trong máu theo nhiều cách như giảm tiết hormone insulin, thúc đẩy ăn quá nhiều thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T18:00:00+07:00",
+      "fetched": "2025-10-24T03:17:55.612874+07:00"
+    },
+    {
+      "id": "38afebd3e4d29d912f8f64049d26ede2",
+      "title": "Cổ phiếu hãng phân phối ôtô tăng 50% trong một tuần",
+      "link": "https://vnexpress.net/co-phieu-hang-phan-phoi-oto-tang-50-trong-mot-tuan-4955123.html",
+      "summary": "Cổ phiếu của Savico tăng trần 6 phiên liên tiếp, đưa thị giá từ 20.000 đồng lên gần 30.000 đồng trong một tuần, bất chấp thị trường có nhiều phiên giảm sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T17:59:18+07:00",
+      "fetched": "2025-10-24T03:17:55.613148+07:00"
+    },
+    {
+      "id": "38afebd3e4d29d912f8f64049d26ede2",
+      "title": "Cổ phiếu hãng phân phối ôtô tăng 50% trong một tuần",
+      "link": "https://vnexpress.net/co-phieu-hang-phan-phoi-oto-tang-50-trong-mot-tuan-4955123.html",
+      "summary": "Cổ phiếu của Savico tăng trần 6 phiên liên tiếp, đưa thị giá từ 20.000 đồng lên gần 30.000 đồng trong một tuần, bất chấp thị trường có nhiều phiên giảm sâu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-23T17:59:18+07:00",
+      "fetched": "2025-10-24T03:18:02.316054+07:00"
     },
     {
       "id": "1ed189ebd98163d1577eef1915c882b8",
