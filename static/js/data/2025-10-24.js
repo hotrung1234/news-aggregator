@@ -1,7 +1,157 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T08:12:59.096450+07:00",
+  "lastUpdated": "2025-10-24T09:58:32.726106+07:00",
   "articles": [
+    {
+      "id": "9e52ab42268c00f56ac2e9c48fd95042",
+      "title": "Thấy người nhảy cầu La Ngà, vội quay xe lao xuống cứu",
+      "link": "https://tuoitre.vn/thay-nguoi-nhay-cau-la-nga-voi-quay-xe-lao-xuong-cuu-20251024072550356.htm",
+      "summary": "Thấy người phụ nữ leo lên lan can cầu La Ngà nhảy xuống sông, người đàn ông vội quay xe, hô hoán người xung quanh và lao xuống, phối hợp cứu người trong tích tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.049424+07:00",
+      "fetched": "2025-10-24T09:58:24.049542+07:00"
+    },
+    {
+      "id": "f5940da6bf500a04275922f08eef321d",
+      "title": "Mở rộng đường Nguyễn Tất Thành hướng ra sông Sài Gòn, 60% khu Bến Nhà Rồng dành cho công viên",
+      "link": "https://tuoitre.vn/mo-rong-duong-nguyen-tat-thanh-huong-ra-song-sai-gon-60-khu-ben-nha-rong-danh-cho-cong-vien-20251024001628233.htm",
+      "summary": "Sở Quy hoạch - Kiến trúc TP.HCM vừa đề xuất phương án sơ bộ quy hoạch khu Bến Nhà Rồng - Khánh Hội, gắn với mở rộng đường Nguyễn Tất Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.049276+07:00",
+      "fetched": "2025-10-24T09:58:24.049411+07:00"
+    },
+    {
+      "id": "1de449ec29556967d1aa493af3f2c398",
+      "title": "Cơ hội giảm gánh nặng bệnh phổi nhờ phòng bệnh và tầm soát sớm",
+      "link": "https://tuoitre.vn/co-hoi-giam-ganh-nang-benh-phoi-nho-phong-benh-va-tam-soat-som-20251023231347603.htm",
+      "summary": "Các bệnh không lây nhiễm, đặc biệt là các bệnh lý về phổi như bệnh phổi tắc nghẽn mạn tính, hen phế quản và ung thư phổi, đã và đang trở thành nguyên nhân hàng đầu gây tử vong và tàn tật tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.049145+07:00",
+      "fetched": "2025-10-24T09:58:24.049264+07:00"
+    },
+    {
+      "id": "312a52c6043cca33c399d36d762d56e7",
+      "title": "Căn hộ bên sông trung tâm Biên Hòa giá 1,79 tỉ đồng",
+      "link": "https://tuoitre.vn/can-ho-ben-song-trung-tam-bien-hoa-gia-1-79-ti-dong-20251023170553534.htm",
+      "summary": "Fresia Riverside (tên pháp lý chung cư cao tầng Tân Vạn Tower) mức giá chỉ từ 1,79 tỉ đồng sở hữu vị trí chiến lược tại ‘tam giác vàng’ Thủ Đức - Biên Hòa - Dĩ An cùng hệ sinh thái hạ tầng hoàn chỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.049021+07:00",
+      "fetched": "2025-10-24T09:58:24.049133+07:00"
+    },
+    {
+      "id": "371b33c443f0e59e7cb180c16feb1f55",
+      "title": "SUV linh hoạt giải bài toán di chuyển đô thị",
+      "link": "https://tuoitre.vn/suv-linh-hoat-giai-bai-toan-di-chuyen-do-thi-20251023172859743.htm",
+      "summary": "Áp lực giao thông và hạ tầng đô thị khiến người dùng chuộng xe nhỏ gọn, linh hoạt và tiết kiệm nhiên liệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048887+07:00",
+      "fetched": "2025-10-24T09:58:24.049002+07:00"
+    },
+    {
+      "id": "44842b4ec41f6e6a8f7ced68adb2e45d",
+      "title": "Amway và hành trình ứng dụng công nghệ kiến tạo thói quen sống khỏe",
+      "link": "https://tuoitre.vn/amway-va-hanh-trinh-ung-dung-cong-nghe-kien-tao-thoi-quen-song-khoe-20251024061549755.htm",
+      "summary": "Tại Tech Awards 2025, Amway gây chú ý khi giành chiến thắng kép trong hạng mục ‘Sản phẩm tôi yêu’ với máy lọc nước New eSpring™ và máy lọc không khí Atmosphere Mini™ .",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048757+07:00",
+      "fetched": "2025-10-24T09:58:24.048876+07:00"
+    },
+    {
+      "id": "c4b4d288438423e4776e1eec14b52908",
+      "title": "PNJ đạt doanh thu 25.353 tỉ đồng trong 9 tháng đầu năm",
+      "link": "https://tuoitre.vn/pnj-dat-doanh-thu-25353-ti-dong-trong-9-thang-dau-nam-20251024072133335.htm",
+      "summary": "Công ty Cổ Phần Vàng Bạc Đá Quý Phú Nhuận (PNJ) công bố kết quả kinh doanh 9 tháng với doanh thu thuần đạt 25.353 tỉ đồng và lợi nhuận sau thuế đạt 1.610 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048627+07:00",
+      "fetched": "2025-10-24T09:58:24.048746+07:00"
+    },
+    {
+      "id": "21e6103c8625d68fe60eefc4402b1b94",
+      "title": "Phụ nữ khi viết văn 'tự ăn' mình?",
+      "link": "https://tuoitre.vn/phu-nu-khi-viet-van-tu-an-minh-20251024073348114.htm",
+      "summary": "Trong buổi giao lưu, gặp gỡ giữa nhà văn Camille Laurens, thành viên Viện Hàn lâm Goncourt, với sinh viên Trường đại học Khoa học xã hội và Nhân văn TP.HCM, nhiều vấn đề được đặt ra khi phụ nữ viết văn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048478+07:00",
+      "fetched": "2025-10-24T09:58:24.048611+07:00"
+    },
+    {
+      "id": "8742b1f9ce1e0cf629d97cdf89223904",
+      "title": "Rộ tin Mỹ điều máy bay ném bom B-1 đến gần Venezuela, ông Trump lên tiếng",
+      "link": "https://tuoitre.vn/ro-tin-my-dieu-may-bay-nem-bom-b-1-den-gan-venezuela-ong-trump-len-tieng-20251024074850201.htm",
+      "summary": "Báo Wall Street Journal (Mỹ) đưa tin Mỹ đã điều các máy bay ném bom B-1 của không quân nước này đến gần Venezuela vào ngày 23-10. Tuy nhiên, ông Trump đã bác bỏ thông tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048325+07:00",
+      "fetched": "2025-10-24T09:58:24.048465+07:00"
+    },
+    {
+      "id": "f9d4f90f526c0b2cf15c5b02badb2d5c",
+      "title": "Vì sao bão Thần Gió không lớn như dự kiến?",
+      "link": "https://tuoitre.vn/vi-sao-bao-than-gio-khong-lon-nhu-du-kien-20251024075729557.htm",
+      "summary": "Các dự báo ban đầu thiên về kịch bản bão số 12 (bão Thần Gió) di chuyển ổn định, hướng về vùng biển Huế - Đà Nẵng trong chiều 22-10, với cường độ suy yếu chỉ 1 - 2 cấp so với khi còn trên biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048184+07:00",
+      "fetched": "2025-10-24T09:58:24.048303+07:00"
+    },
+    {
+      "id": "dfba648349e06df8e10d6902b6862974",
+      "title": "Hai học sinh bị điện giật tử vong, nghi rò rỉ từ điện chiếu sáng công viên khi nước ngập",
+      "link": "https://tuoitre.vn/hai-hoc-sinh-bi-dien-giat-tu-vong-nghi-ro-ri-tu-dien-chieu-sang-cong-vien-khi-nuoc-ngap-20251024075711617.htm",
+      "summary": "Ngày 24-10, thông tin từ Công an TP Cần Thơ cho biết các lực lượng nghiệp vụ đang phối hợp làm rõ vụ việc rò rỉ từ điện chiếu sáng, khiến 2 người chết tại xã Phong Điền (TP Cần Thơ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.048045+07:00",
+      "fetched": "2025-10-24T09:58:24.048172+07:00"
+    },
+    {
+      "id": "f74f519b1df7aef805910b300e79bcc2",
+      "title": "Dự lễ cưới tập thể để một lần trong đời khoác áo cô dâu",
+      "link": "https://tuoitre.vn/du-le-cuoi-tap-the-de-mot-lan-trong-doi-khoac-ao-co-dau-20251023231935034.htm",
+      "summary": "Ngày 24-10, có 50 cặp đôi công nhân, lao động trẻ có mặt trong lễ cưới tập thể năm 2025 tại TP.HCM do Thành Đoàn cùng Trung tâm Hỗ trợ thanh niên công nhân TP.HCM (YEAC) tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.047910+07:00",
+      "fetched": "2025-10-24T09:58:24.048033+07:00"
+    },
+    {
+      "id": "1d3ee1605c70e276dab85a84ba7e943c",
+      "title": "Ủng hộ tờ báo thương hiệu và tự chủ",
+      "link": "https://tuoitre.vn/ung-ho-to-bao-thuong-hieu-va-tu-chu-20251024081230396.htm",
+      "summary": "Đề xuất bổ sung cơ quan báo chí truyền thông chủ lực đa phương tiện: Ủng hộ tờ báo thương hiệu và tự chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.047778+07:00",
+      "fetched": "2025-10-24T09:58:24.047898+07:00"
+    },
+    {
+      "id": "c9cd87a11a5e5f52971e607393507c14",
+      "title": "Sẽ cho phép công ty chứng khoán quốc tế đặt lệnh trực tiếp?",
+      "link": "https://tuoitre.vn/se-cho-phep-cong-ty-chung-khoan-quoc-te-dat-lenh-truc-tiep-20251023230602361.htm",
+      "summary": "Cơ quan quản lý thị trường chứng khoán đang xây dựng khung pháp lý cho phép các công ty chứng khoán toàn cầu được thực hiện lệnh giao dịch trực tiếp cho nhà đầu tư tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.047634+07:00",
+      "fetched": "2025-10-24T09:58:24.047764+07:00"
+    },
+    {
+      "id": "e972787c899bb60a0639ffb19f1eb360",
+      "title": "Huế mưa lớn, nhiều nơi ngập sâu trong nước, cuốn trôi xe taxi",
+      "link": "https://tuoitre.vn/hue-mua-lon-nhieu-noi-ngap-sau-trong-nuoc-cuon-troi-xe-taxi-20251024081922397.htm",
+      "summary": "Từ tối 23-10 đến sáng 24-10, trên địa bàn TP Huế có mưa lớn khiến nhiều nơi bị ngập lụt. Một số trường học trên địa bàn đã cho học sinh nghỉ học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T09:58:24.047402+07:00",
+      "fetched": "2025-10-24T09:58:24.047619+07:00"
+    },
     {
       "id": "c2c88589e813d0e901d8c5bd66d56699",
       "title": "Rúng động: Cầu thủ và HLV ở NBA bị FBI bắt giữ vì cờ bạc bất hợp pháp do mafia hậu thuẫn",
@@ -131,6 +281,346 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T08:12:52.829016+07:00",
       "fetched": "2025-10-24T08:12:52.829220+07:00"
+    },
+    {
+      "id": "f7f487a9b34938b77e1e44cbd037eb50",
+      "title": "Đề xuất thí điểm xét công nhận GS, PGS và tự quyết số lượng phó hiệu trưởng",
+      "link": "https://thanhnien.vn/de-xuat-thi-diem-xet-cong-nhan-gs-pgs-va-tu-quyet-so-luong-pho-hieu-truong-185251024093220383.htm",
+      "summary": "Đề xuất cho phép thí điểm trong việc xét công nhận chức danh GS, PGS và tự quyết số lượng phó hiệu trưởng tại một số trường ĐH trọng điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:56:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146067+07:00"
+    },
+    {
+      "id": "53f6188eb32d97914c4ef20920c3753e",
+      "title": "Ông Trump xác nhận gặp ông Tập, hé lộ câu hỏi đầu tiên",
+      "link": "https://thanhnien.vn/ong-trump-xac-nhan-gap-ong-tap-he-lo-cau-hoi-dau-tien-185251024095037278.htm",
+      "summary": "Nhà Trắng xác nhận Tổng thống Mỹ Donald Trump sẽ gặp Chủ tịch nước Trung Quốc Tập Cận Bình bên lề hội nghị APEC ở Hàn Quốc vào tuần sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:51:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146240+07:00"
+    },
+    {
+      "id": "be98d6b3b96b1de178dcff9872dfadc9",
+      "title": "Nga bí mật mua công nghệ phương Tây để bảo vệ đội tàu ngầm hạt nhân?",
+      "link": "https://thanhnien.vn/nga-bi-mat-mua-cong-nghe-phuong-tay-de-bao-ve-doi-tau-ngam-hat-nhan-185251024094350166.htm",
+      "summary": "Theo phóng sự điều tra của tờ The Washington Post, Nga đã sử dụng những công ty bình phong để bí mật mua công nghệ phương Tây và dựng nên một mạng lưới giám sát ở Bắc Cực, nơi hạm đội tàu ngầm của nước này hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:50:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146420+07:00"
+    },
+    {
+      "id": "9bacc5c16b7102836440968a67f9ae81",
+      "title": "Bóng đá Malaysia trước ngày phán quyết kháng cáo: Sự im lặng đáng sợ của 7 cầu thủ",
+      "link": "https://thanhnien.vn/bong-da-malaysia-truoc-ngay-phan-quyet-khang-cao-su-im-lang-dang-so-cua-7-cau-thu-185251024094345814.htm",
+      "summary": "Khi FIFA chuẩn bị ra phán quyết vào ngày 30.10, bóng đá Malaysia rơi vào căng thẳng tột độ: FAM đang chờ hy vọng mong manh từ đơn kháng cáo, còn bảy cầu thủ nhập tịch vướng án cấm vẫn chọn im lặng giữa làn sóng chỉ trích dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:43:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146585+07:00"
+    },
+    {
+      "id": "3f9b71c68edd9f761753a47c5789024a",
+      "title": "Nghi vấn phá hoại sau các vụ nổ nhà máy lọc dầu ở Hungary và Romania",
+      "link": "https://thanhnien.vn/nghi-van-pha-hoai-sau-cac-vu-no-nha-may-loc-dau-o-hungary-va-romania-18525102409371281.htm",
+      "summary": "Hai vụ nổ liên tiếp xảy ra các nhà máy lọc dầu ở Romania và Hungary, làm dấy lên nghi ngờ về khả năng phá hoại trong bối cảnh căng thẳng năng lượng giữa Nga và châu Âu leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:43:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146742+07:00"
+    },
+    {
+      "id": "654ecf56b8360672528d219b0406d674",
+      "title": "Israel hoãn luật sáp nhập Bờ Tây sau chỉ trích từ Mỹ",
+      "link": "https://vnexpress.net/israel-hoan-luat-sap-nhap-bo-tay-sau-chi-trich-tu-my-4955204.html",
+      "summary": "Thủ tướng Israel yêu cầu Quốc hội ngừng các hoạt động lập pháp liên quan sáp nhập Bờ Tây sau loạt chỉ trích từ lãnh đạo Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T02:39:40+07:00",
+      "fetched": "2025-10-24T09:58:25.880365+07:00"
+    },
+    {
+      "id": "fbff54e0c4ebb0d52992295abf1f3dd0",
+      "title": "Ẩm thực Việt và màn công diễn đẹp mắt tại TP.HCM: Món ngon từ 100 loại cá",
+      "link": "https://thanhnien.vn/am-thuc-viet-va-man-cong-dien-dep-mat-tai-tphcm-mon-ngon-tu-100-loai-ca-185251023143936545.htm",
+      "summary": "Ngày hội ẩm thực Việt tại TP.HCM quy tụ 100 loại cá được chế biến và công diễn đẹp mắt, tạo nên bữa tiệc món ngon độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:38:00+07:00",
+      "fetched": "2025-10-24T09:58:23.146897+07:00"
+    },
+    {
+      "id": "f4ee999affbea96642fbeaef81f23d53",
+      "title": "EU tham vọng lớn, kỳ vọng nhiều",
+      "link": "https://thanhnien.vn/eu-tham-vong-lon-ky-vong-nhieu-185251023210923383.htm",
+      "summary": "Ủy ban Châu Âu (EC) đã đưa ra và EU tại cuộc gặp cấp cao tới sẽ bàn thảo, thông qua văn kiện \"Lộ trình về sẵn sàng phòng thủ tới năm 2030\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:36:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147051+07:00"
+    },
+    {
+      "id": "b0d5bdd0b325b679246ec39fe7b438f0",
+      "title": "Nụ cười hiếu khách, bí quyết của Nhà ga Quốc tế Đà Nẵng",
+      "link": "https://thanhnien.vn/nu-cuoi-hieu-khach-bi-quyet-cua-nha-ga-quoc-te-da-nang-185251024094535904.htm",
+      "summary": "Nụ cười, tấm lòng hiếu khách đã góp phần đưa Nhà ga Quốc tế Đà Nẵng 2 năm liên tiếp đạt chuẩn 5 sao Skytrax.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:34:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147215+07:00"
+    },
+    {
+      "id": "521bc5f8534e8f726f289228451ddd94",
+      "title": "Mở trạm để chó, mèo có nhà ở",
+      "link": "https://thanhnien.vn/mo-tram-de-cho-meo-co-nha-o-185251024092144622.htm",
+      "summary": "Nhiều bạn trẻ chọn sống chậm lại và dành thời gian cho chó, bé mèo bị bỏ rơi. Từ niềm yêu thương nhỏ bé đó đã tạo thành động lực lớn, để rồi các trung tâm cứu hộ ra đời, trở thành gia đình của chó, mèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:22:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147371+07:00"
+    },
+    {
+      "id": "7b75c09866b5a1a84c182e99394b9d93",
+      "title": "Cốm Hà Nội bị ảnh hưởng sau bão: Người bán, người mua đều tiếc nuối",
+      "link": "https://thanhnien.vn/com-ha-noi-bi-anh-huong-sau-bao-nguoi-ban-nguoi-mua-deu-tiec-nuoi-185251017173234953.htm",
+      "summary": "Giữa những đợt mưa giông kéo dài triền miên do ảnh hưởng của 2 cơn bão lớn, người dân Hà Nội vẫn đi tìm sắc thu trên những gánh cốm đang dần thưa thớt trên hè phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:19:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147546+07:00"
+    },
+    {
+      "id": "c09f3714e5dd8fa216f6af5a7af20d89",
+      "title": "Tổng thống Putin tuyên bố không khuất phục trước áp lực từ Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-putin-tuyen-bo-khong-khuat-phuc-truoc-ap-luc-tu-my-185251024090350184.htm",
+      "summary": "Tổng thống Nga Vladimir Putin tuyên bố Moscow sẽ không khuất phục trước áp lực của Mỹ hay bất kỳ thế lực nước ngoài nào, đồng thời cảnh báo Nga sẽ đáp trả mạnh mẽ bất kỳ cuộc tấn công quân sự nào nhằm sâu vào lãnh thổ nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:16:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147700+07:00"
+    },
+    {
+      "id": "af6d2e9fd521804946819b31e79e97ae",
+      "title": "Ông Trump nói sắp tới sẽ chống ma túy trên bộ, Venezuela cảnh báo",
+      "link": "https://thanhnien.vn/ong-trump-noi-sap-toi-se-chong-ma-tuy-tren-bo-venezuela-canh-bao-185251024085833545.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết sắp tới sẽ tấn công lực lượng buôn ma túy trên bộ trong lãnh thổ nước ngoài, nhưng cho rằng không cần phải làm thủ tục tuyên chiến để tiến hành hoạt động đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:11:00+07:00",
+      "fetched": "2025-10-24T09:58:23.147856+07:00"
+    },
+    {
+      "id": "31cbec750453dfd36c3c07c826b35dbc",
+      "title": "Việt Nam tìm hướng phát triển 3 sản phẩm chiến lược về AI",
+      "link": "https://vnexpress.net/viet-nam-tim-huong-phat-trien-3-san-pham-chien-luoc-ve-ai-4955070.html",
+      "summary": "Chuyên gia trong nước và quốc tế sẽ đến Việt Nam bàn cách phát triển các sản phẩm AI, tại Diễn đàn quốc tế về công nghệ chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:10:59+07:00",
+      "fetched": "2025-10-24T09:58:19.776148+07:00"
+    },
+    {
+      "id": "31cbec750453dfd36c3c07c826b35dbc",
+      "title": "Việt Nam tìm hướng phát triển 3 sản phẩm chiến lược về AI",
+      "link": "https://vnexpress.net/viet-nam-tim-huong-phat-trien-3-san-pham-chien-luoc-ve-ai-4955070.html",
+      "summary": "Chuyên gia trong nước và quốc tế sẽ đến Việt Nam bàn cách phát triển các sản phẩm AI, tại Diễn đàn quốc tế về công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T02:10:59+07:00",
+      "fetched": "2025-10-24T09:58:30.966875+07:00"
+    },
+    {
+      "id": "4555b3df4743184b23894b56d103aec5",
+      "title": "Hai trẻ bị điện giật tử vong khi chơi trong công viên ngập nước",
+      "link": "https://vnexpress.net/hai-tre-bi-dien-giat-tu-vong-khi-choi-trong-cong-vien-ngap-nuoc-4955173.html",
+      "summary": "Ba thiếu niên 10-15 tuổi vào khu công viên ngập sâu do triều cường chơi, bị điện rò rỉ từ trụ đèn chiếu sáng giật, hai nạn nhân tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:09:45+07:00",
+      "fetched": "2025-10-24T09:58:19.776326+07:00"
+    },
+    {
+      "id": "54ee98bbe1fdd4fdf26701562657ea74",
+      "title": "Kỷ lục gia marathon nữ bị cấm 3 năm vì doping",
+      "link": "https://vnexpress.net/ky-luc-gia-marathon-nu-bi-cam-3-nam-vi-doping-4955150.html",
+      "summary": "Runner Kenya Ruth Chepngetich bị cấm thi đấu ba năm vì sử dụng chất cấm, nhưng vẫn được giữ kỷ lục marathon nữ thế giới mà cô thiết lập tại Chicago 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:07:44+07:00",
+      "fetched": "2025-10-24T09:58:19.776513+07:00"
+    },
+    {
+      "id": "d51941290da346d3d3b9ad88a8cae4a6",
+      "title": "Nữ kỷ lục gia marathon bị cấm 3 năm vì doping",
+      "link": "https://vnexpress.net/nu-ky-luc-gia-marathon-bi-cam-3-nam-vi-doping-4955150.html",
+      "summary": "Runner người Kenya Ruth Chepngetich bị cấm thi đấu ba năm vì sử dụng chất cấm, nhưng vẫn được giữ kỷ lục marathon nữ thế giới thiết lập tại Chicago 2024.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T02:07:44+07:00",
+      "fetched": "2025-10-24T09:58:32.720160+07:00"
+    },
+    {
+      "id": "f2a07acbf5dc7ccdf3a74fd1664a22ca",
+      "title": "Đánh giá camera Xiaomi 15T Pro: nâng cấp mạnh ở phần cứng, trải nghiệm thực tế ra sao?",
+      "link": "https://thanhnien.vn/danh-gia-camera-xiaomi-15t-pro-nang-cap-manh-o-phan-cung-trai-nghiem-thuc-te-ra-sao-18525102314445548.htm",
+      "summary": "Sở hữu cảm biến Light Fusion 900, ống kính Leica Summilux và camera tele 5X có chống rung quang học, Xiaomi 15T Pro đặt ra câu hỏi liệu một thiết bị tầm trung có thể mang lại chất lượng hình ảnh của flagship hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:02:00+07:00",
+      "fetched": "2025-10-24T09:58:23.148011+07:00"
+    },
+    {
+      "id": "08f0958ff3696a3ea987e13549817878",
+      "title": "Cứu sống người 4 lần ngừng tim do nhồi máu cơ tim",
+      "link": "https://vnexpress.net/cuu-song-nguoi-4-lan-ngung-tim-do-nhoi-mau-co-tim-4955145.html",
+      "summary": "Bà Hòa, 65 tuổi, bị nhồi máu cơ tim cấp, bác sĩ 4 lần cấp cứu ngừng tuần hoàn trong quá trình tái thông mạch, giành lại sự sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:00:00+07:00",
+      "fetched": "2025-10-24T09:58:19.776680+07:00"
+    },
+    {
+      "id": "b173f5793c49da8b71f46a4fdde1c39a",
+      "title": "VnExpress Marathon All-Star trở lại vào tháng 1/2026",
+      "link": "https://vnexpress.net/vnexpress-marathon-all-star-tro-lai-vao-thang-1-2026-4954982.html",
+      "summary": "Giải chạy áp chuẩn đầu vào duy nhất Việt Nam trở lại ngày 25/1 tại Hà Nội, dự kiến trong điều kiện thời tiết lạnh dưới 20 độ C - lý tưởng cho runner săn PR.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:00:00+07:00",
+      "fetched": "2025-10-24T09:58:19.776843+07:00"
+    },
+    {
+      "id": "cd58914d2285a9f20f6efca098757a7d",
+      "title": "Miếng dán vaccine tiềm năng ứng dụng vào tiêm chủng",
+      "link": "https://vnexpress.net/mieng-dan-vaccine-tiem-nang-ung-dung-vao-tiem-chung-4953669.html",
+      "summary": "Vaccine dạng miếng dán vi mạch (MAP) ít gây đau, dễ sử dụng và bảo quản, được Gavi và các tổ chức y tế đánh giá có tiềm năng ứng dụng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:00:00+07:00",
+      "fetched": "2025-10-24T09:58:19.777000+07:00"
+    },
+    {
+      "id": "239bb9e7052cb6928e773646293f197a",
+      "title": "Đội ngũ nhân sự 247Express: Hành trình 20 năm gắn kết, trưởng thành và bứt phá",
+      "link": "https://thanhnien.vn/doi-ngu-nhan-su-247express-hanh-trinh-20-nam-gan-ket-truong-thanh-va-but-pha-185251023191209592.htm",
+      "summary": "Từ những ngày đầu 'nối mạch kinh doanh', đến khi \"mở mạch\" vươn xa khắp mọi miền, 247Express đã đi qua 20 năm với vô vàn dấu chân. Mỗi câu chuyện, mỗi gương mặt gắn bó nơi đây đều là một mảnh ghép quý giá, tạo nên bức tranh sống động về tinh thần gắn kết, bền bỉ và dám bứt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:00:00+07:00",
+      "fetched": "2025-10-24T09:58:23.148168+07:00"
+    },
+    {
+      "id": "43024fa3a516964095c849495c8f6836",
+      "title": "Những 'cánh tay thầm lặng' của người khuyết tật",
+      "link": "https://thanhnien.vn/nhung-canh-tay-tham-lang-cua-nguoi-khuyet-tat-185251014152546353.htm",
+      "summary": "Từ ngày 9 - 14.9, tại Trung tâm Cung ứng dịch vụ văn hóa - thể thao phường Tân Sơn Nhất, TP.HCM đã diễn ra giải Vô địch quốc gia các môn bơi, cờ vua, bắn cung, judo, boccia người khuyết tật năm 2025, quy tụ các đoàn thể thao từ các tỉnh, thành trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T02:00:00+07:00",
+      "fetched": "2025-10-24T09:58:23.148322+07:00"
+    },
+    {
+      "id": "96722e7ffebd09196d74ea232e5ab7a5",
+      "title": "Tổng Bí thư thăm nơi Chủ tịch Hồ Chí Minh từng lưu trú tại Bulgaria",
+      "link": "https://vnexpress.net/tong-bi-thu-tham-noi-chu-tich-ho-chi-minh-tung-luu-tru-tai-bulgaria-4955160.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân thăm cung điện Vrana ở ngoại ô thủ đô Sofia, nơi Chủ tịch Hồ Chí Minh từng ở tại Bulgaria.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:56:40+07:00",
+      "fetched": "2025-10-24T09:58:19.777160+07:00"
+    },
+    {
+      "id": "96722e7ffebd09196d74ea232e5ab7a5",
+      "title": "Tổng Bí thư thăm nơi Chủ tịch Hồ Chí Minh từng lưu trú tại Bulgaria",
+      "link": "https://vnexpress.net/tong-bi-thu-tham-noi-chu-tich-ho-chi-minh-tung-luu-tru-tai-bulgaria-4955160.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân thăm cung điện Vrana ở ngoại ô thủ đô Sofia, nơi Chủ tịch Hồ Chí Minh từng ở tại Bulgaria.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T01:56:40+07:00",
+      "fetched": "2025-10-24T09:58:25.880566+07:00"
+    },
+    {
+      "id": "36ec34c3a8bf0eaff42b572f57bdde91",
+      "title": "Lưu Diệc Phi hóa 'nàng tiên hoa'",
+      "link": "https://vnexpress.net/luu-diec-phi-hoa-nang-tien-hoa-4955005.html",
+      "summary": "Minh tinh Trung Quốc Lưu Diệc Phi mặc trang phục, làm tóc phong cách lãng mạn dự sự kiện cùng Dương Mịch, Cổ Lực Na Trát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:49:53+07:00",
+      "fetched": "2025-10-24T09:58:19.777314+07:00"
+    },
+    {
+      "id": "40e4562911ef76246d4c1090873e9431",
+      "title": "Trốn trong thùng chuyển phát nhanh để đột nhập nhà dân, cướp vàng",
+      "link": "https://vnexpress.net/tron-trong-thung-chuyen-phat-nhanh-de-dot-nhap-nha-cuop-vang-4955167.html",
+      "summary": "Học theo phim truyền hình, nghi phạm trốn trong thùng hàng, thuê người vận chuyển vào khu dân cư, chờ cơ hội bám theo chủ nhà để cướp tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:49:48+07:00",
+      "fetched": "2025-10-24T09:58:19.777493+07:00"
+    },
+    {
+      "id": "f13f9ac5e5a77c8484d51fee270bc953",
+      "title": "Su-30 Nga bị tố xâm phạm không phận quốc gia NATO",
+      "link": "https://vnexpress.net/su-30-nga-bi-to-xam-pham-khong-phan-quoc-gia-nato-4955135.html",
+      "summary": "Litva cáo buộc hai máy quân sự Nga xâm phạm không phận nước này trong 18 giây và triệu đại biện để phản đối, song Moskva bác bỏ thông tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:46:36+07:00",
+      "fetched": "2025-10-24T09:58:19.777647+07:00"
+    },
+    {
+      "id": "f13f9ac5e5a77c8484d51fee270bc953",
+      "title": "Su-30 Nga bị tố xâm phạm không phận quốc gia NATO",
+      "link": "https://vnexpress.net/su-30-nga-bi-to-xam-pham-khong-phan-quoc-gia-nato-4955135.html",
+      "summary": "Litva cáo buộc hai máy quân sự Nga xâm phạm không phận nước này trong 18 giây và triệu đại biện để phản đối, song Moskva bác bỏ thông tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T01:46:36+07:00",
+      "fetched": "2025-10-24T09:58:25.880735+07:00"
+    },
+    {
+      "id": "8ca0576d1d7e06935e07bd897b43a58e",
+      "title": "Vượt ẩu, ôtô đâm bay hai người đi xe máy",
+      "link": "https://vnexpress.net/vuot-au-oto-dam-bay-hai-nguoi-di-xe-may-4955157.html",
+      "summary": "Lấn làn, lái xe màu đỏ đâm bay hai người đi xe máy rẽ phải từ nút giao hôm 22/10 tại quốc lộ 14C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:37:55+07:00",
+      "fetched": "2025-10-24T09:58:19.777797+07:00"
+    },
+    {
+      "id": "562dcc8d56d979dee9eb8b186eff80ba",
+      "title": "Trộm khoét mái trung tâm thương mại Mỹ, cuỗm hàng trăm đôi giày",
+      "link": "https://vnexpress.net/trom-khoet-mai-trung-tam-thuong-mai-my-cuom-hang-tram-doi-giay-4955153.html",
+      "summary": "Những tên trộm bịt mặt đã khoét một lỗ trên phần mái bê tông của trung tâm thương mại ở Florida, đột nhập và đánh cắp 400-500 đôi giày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:33:56+07:00",
+      "fetched": "2025-10-24T09:58:19.777961+07:00"
+    },
+    {
+      "id": "562dcc8d56d979dee9eb8b186eff80ba",
+      "title": "Trộm khoét mái trung tâm thương mại Mỹ, cuỗm hàng trăm đôi giày",
+      "link": "https://vnexpress.net/trom-khoet-mai-trung-tam-thuong-mai-my-cuom-hang-tram-doi-giay-4955153.html",
+      "summary": "Những tên trộm bịt mặt đã khoét một lỗ trên phần mái bê tông của trung tâm thương mại ở Florida, đột nhập và đánh cắp 400-500 đôi giày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T01:33:56+07:00",
+      "fetched": "2025-10-24T09:58:25.880897+07:00"
+    },
+    {
+      "id": "8d4f0116a33a7c893fa85dbc46d268fc",
+      "title": "Chế biến bánh mì nặng gần 7 kg cho hàng chục người ăn",
+      "link": "https://vnexpress.net/che-bien-banh-mi-nang-gan-7-kg-cho-hang-chuc-nguoi-an-4955007.html",
+      "summary": "Hai bánh mì, mỗi chiếc nặng khoảng 7 kg, dài một mét, nhân cá, xíu mại, được đầu bếp chế biến cho hàng chục người thưởng thức tại khách sạn ở quận Tân Bình cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:29:00+07:00",
+      "fetched": "2025-10-24T09:58:19.778119+07:00"
     },
     {
       "id": "b99b26313197b89c32d92824819db666",
@@ -281,6 +771,36 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T01:24:37.353984+07:00",
       "fetched": "2025-10-24T01:24:37.354190+07:00"
+    },
+    {
+      "id": "2cb3faa5ae793de2d551473c5910142a",
+      "title": "HLV và cầu thủ NBA bị bắt vì dính líu cá cược",
+      "link": "https://vnexpress.net/hlv-va-cau-thu-nba-bi-bat-vi-dinh-liu-ca-cuoc-4955127.html",
+      "summary": "HLV Chauncey Billups và hậu vệ Terry Rozier bị bắt ngay trong ngày đấu thứ hai của NBA mùa mới, vì dính đến đường dây cá cược bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:19:32+07:00",
+      "fetched": "2025-10-24T09:58:19.778269+07:00"
+    },
+    {
+      "id": "2cb3faa5ae793de2d551473c5910142a",
+      "title": "HLV và cầu thủ NBA bị bắt vì dính líu cá cược",
+      "link": "https://vnexpress.net/hlv-va-cau-thu-nba-bi-bat-vi-dinh-liu-ca-cuoc-4955127.html",
+      "summary": "HLV Chauncey Billups và hậu vệ Terry Rozier bị bắt ngay trong ngày đấu thứ hai của NBA mùa mới, vì dính đến đường dây cá cược bất hợp pháp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T01:19:32+07:00",
+      "fetched": "2025-10-24T09:58:32.719168+07:00"
+    },
+    {
+      "id": "77caf6cd0b340d8af57329d1be7a2c6c",
+      "title": "Có người đồng hành và sẻ chia, cuộc sống sẽ tuyệt vời biết bao",
+      "link": "https://vnexpress.net/co-nguoi-dong-hanh-va-se-chia-cuoc-song-se-tuyet-voi-biet-bao-4954896.html",
+      "summary": "Em tự thấy bản thân là người đơn giản, sống hòa đồng, tình cảm và chân thành với mọi người, nhan sắc chỉ ở mức trung bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:15:42+07:00",
+      "fetched": "2025-10-24T09:58:19.778366+07:00"
     },
     {
       "id": "6f6d2312fa4cc92217061d0e37c842bc",
@@ -463,6 +983,16 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T08:12:47.600868+07:00"
     },
     {
+      "id": "28b709811f09c8350312bd5226b3040f",
+      "title": "Mạng xã hội - từ nơi kết nối con người thành 'thiên đường cho AI'",
+      "link": "https://vnexpress.net/mang-xa-hoi-tu-noi-ket-noi-con-nguoi-thanh-thien-duong-cho-ai-4955063.html",
+      "summary": "Em bé chạy trốn khủng long, mèo đứng hai chân nhảy múa, cảnh sát bắt giữ mì ống phô mai - những video kỳ quái đang xuất hiện khắp mạng xã hội nhờ AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T00:52:02+07:00",
+      "fetched": "2025-10-24T09:58:30.966698+07:00"
+    },
+    {
       "id": "3b7fb0568ffc0b88870dc5e65a77a3e6",
       "title": "Khi show thực tế vượt khỏi khuôn khổ giải trí",
       "link": "https://thanhnien.vn/khi-show-thuc-te-vuot-khoi-khuon-kho-giai-tri-185251023232010075.htm",
@@ -551,6 +1081,16 @@ window.newsData_2025_10_24 = {
       "category": "Thể thao",
       "published": "2025-10-24T00:21:43+07:00",
       "fetched": "2025-10-24T08:12:59.091042+07:00"
+    },
+    {
+      "id": "e4417ce0cf315e0b802027a6c820d4c6",
+      "title": "Aston Villa thua sốc ở Europa League",
+      "link": "https://vnexpress.net/aston-villa-thua-soc-o-europa-league-4955144.html",
+      "summary": "Đội bóng của Ngoại hạng Anh thua ngược 1-2 trên sân Go Ahead Eagles, đội có giá trị đội hình kém 25 lần, ở lượt ba vòng bảng Europa League tối 23/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T00:21:43+07:00",
+      "fetched": "2025-10-24T09:58:32.719344+07:00"
     },
     {
       "id": "291c7994bd8ece90b446ad344bf86edf",
@@ -811,6 +1351,16 @@ window.newsData_2025_10_24 = {
       "category": "Thể thao",
       "published": "2025-10-23T20:45:05+07:00",
       "fetched": "2025-10-24T05:15:18.001546+07:00"
+    },
+    {
+      "id": "a6814ea88d0a057232106780d88034f3",
+      "title": "Cựu danh thủ Anh: 'Rashford không nằm trong đội hình lý tưởng của Barca'",
+      "link": "https://vnexpress.net/cuu-danh-thu-anh-rashford-khong-nam-trong-doi-hinh-ly-tuong-cua-barca-4955108.html",
+      "summary": "Cựu hậu vệ Man Utd Paul Parker có cái nhìn thiếu tích cực về Marcus Rashford, dù tiền đạo người Anh đang đạt phong độ tốt ở Barca.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-23T20:45:05+07:00",
+      "fetched": "2025-10-24T09:58:32.719529+07:00"
     },
     {
       "id": "67c4f171470afdaa800d7274170a977a",
