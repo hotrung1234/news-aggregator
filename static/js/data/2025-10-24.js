@@ -1,7 +1,157 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T11:20:01.475371+07:00",
+  "lastUpdated": "2025-10-24T13:24:33.940323+07:00",
   "articles": [
+    {
+      "id": "bced2c544f9b401b31a9a2150b7ce07d",
+      "title": "Ứng dụng AI trong dạy học ra sao? - Kỳ 1: AI hỗ trợ soạn bài, ra đề kiểm tra",
+      "link": "https://tuoitre.vn/ung-dung-ai-trong-day-hoc-ra-sao-ky-1-ai-ho-tro-soan-bai-ra-de-kiem-tra-20251024084243658.htm",
+      "summary": "Trí tuệ nhân tạo (AI) đã len lỏi vào mọi ngóc ngách trong nhà trường, đặc biệt là hoạt động giảng dạy của giảng viên và học tập của học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.722374+07:00",
+      "fetched": "2025-10-24T13:24:25.722486+07:00"
+    },
+    {
+      "id": "df17940a9e2560a9e18d8b36092c1141",
+      "title": "Diễn tập phòng cháy chữa cháy tại tòa nhà mPlaza",
+      "link": "https://tuoitre.vn/dien-tap-phong-chay-chua-chay-tai-toa-nha-mplaza-20251024110252919.htm",
+      "summary": "Xe trong tầng hầm tòa nhà mPlaza đường Lê Duẩn (phường Sài Gòn, TP.HCM) bốc cháy dữ dội, khói lửa bùng phát khiến 1.000 người hốt hoảng, bỏ chạy tán loạn là tình huống giả định diễn tập phòng cháy chữa cháy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.722250+07:00",
+      "fetched": "2025-10-24T13:24:25.722363+07:00"
+    },
+    {
+      "id": "a04cdbf00d9edc41823aa0030964364e",
+      "title": "Ông Trump dọa tấn công lãnh thổ Venezuela, Caracas sẵn sàng 'tổng nổi dậy'",
+      "link": "https://tuoitre.vn/ong-trump-doa-tan-cong-lanh-tho-venezuela-caracas-san-sang-tong-noi-day-20251024113635307.htm",
+      "summary": "Ông Trump muốn mở rộng chiến dịch chống ma túy ở Venezuela, còn Tổng thống Maduro cảnh báo Mỹ không nên gây chiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.722127+07:00",
+      "fetched": "2025-10-24T13:24:25.722239+07:00"
+    },
+    {
+      "id": "11fd475e221454b90fdbabdff3ca2a3e",
+      "title": "Choáng với các đặc quyền của Messi khi gia hạn với Inter Miami",
+      "link": "https://tuoitre.vn/choang-voi-cac-dac-quyen-cua-messi-khi-gia-han-voi-inter-miami-20251024111432068.htm",
+      "summary": "Rạng sáng 24-10, Lionel Messi đã chính thức gia hạn hợp đồng với CLB Inter Miami đến năm 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721982+07:00",
+      "fetched": "2025-10-24T13:24:25.722115+07:00"
+    },
+    {
+      "id": "7c63fe5b1cef1127a43bb22819cc4bb5",
+      "title": "Thủ tướng: Không để người mua nhà ở xã hội phải chen chúc, chạy vạy mới được mua",
+      "link": "https://tuoitre.vn/thu-tuong-khong-de-nguoi-mua-mua-nha-o-xa-hoi-phai-chen-chuc-chay-vay-moi-duoc-mua-20251024110434555.htm",
+      "summary": "Sáng 24-10, Thủ tướng Phạm Minh Chính, Trưởng Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản - chủ trì hội nghị về các giải pháp phát triển đột phá nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721850+07:00",
+      "fetched": "2025-10-24T13:24:25.721970+07:00"
+    },
+    {
+      "id": "a002523bb76bb97831c5c48916d661a0",
+      "title": "‘Xẻ thịt’ một lô đất thành 75 lô để bán tại Đà Nẵng",
+      "link": "https://tuoitre.vn/xe-thit-mot-lo-dat-thanh-75-lo-de-ban-tai-da-nang-20251023180710262.htm",
+      "summary": "Không lập dự án, một hộ dân tại Đà Nẵng đã “xẻ thịt” một lô đất thành 75 lô nền để bán. Việc tách thửa vô tội vạ, hạ tầng không đảm bảo tiềm ẩn nhiều nguy cơ về sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721726+07:00",
+      "fetched": "2025-10-24T13:24:25.721839+07:00"
+    },
+    {
+      "id": "cfc340910731f227193c39a1d4272e07",
+      "title": "Phạt tiền kèm lao động công ích để người vi phạm giao thông không tái phạm?",
+      "link": "https://tuoitre.vn/phat-tien-kem-lao-dong-cong-ich-de-nguoi-vi-pham-giao-thong-khong-tai-pham-2025102109334099.htm",
+      "summary": "Vi phạm giao thông cần thêm chế tài đi kèm, chẳng hạn như lao động công ích?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721600+07:00",
+      "fetched": "2025-10-24T13:24:25.721714+07:00"
+    },
+    {
+      "id": "35ec9b9ef8a9e1cb70562562bdc41219",
+      "title": "Người phụ nữ quật ngã cụ ông 89 tuổi để cướp điện thoại và 9 nhẫn vàng",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-quat-nga-cu-ong-89-tuoi-de-cuop-dien-thoai-va-9-nhan-vang-20251024110653566.htm",
+      "summary": "Thư dẫn ông cụ vào một chòi nuôi bò trong khu đất trồng dừa vắng người, bất ngờ quật ngã ông L., đè xuống nền xi măng để cướp 9 chiếc nhẫn vàng và 1 điện thoại di động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721467+07:00",
+      "fetched": "2025-10-24T13:24:25.721588+07:00"
+    },
+    {
+      "id": "82ca24d72191172e1d5ac8c9247105a7",
+      "title": "Khởi công nhà máy nước thô liên vùng đầu tiên ở miền Tây",
+      "link": "https://tuoitre.vn/khoi-cong-nha-may-nuoc-tho-lien-vung-dau-tien-o-mien-tay-20251024105204188.htm",
+      "summary": "Nhà máy nước thô liên vùng Đồng Tháp - Tây Ninh - Vĩnh Long chính thức khởi công với kỳ vọng cung cấp đủ nguồn nước cho khoảng hơn 2 triệu người dân trong những giai đoạn xảy ra hạn, mặn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721331+07:00",
+      "fetched": "2025-10-24T13:24:25.721455+07:00"
+    },
+    {
+      "id": "73f0ba27e386d1461561facfa17396ac",
+      "title": "Không chỉ Vũ. mà Lohan, Lâm Bảo Ngọc cũng từng khoác áo lính",
+      "link": "https://tuoitre.vn/khong-chi-vu-ma-lohan-lam-bao-ngoc-cung-tung-khoac-ao-linh-20251024073408254.htm",
+      "summary": "Ít ai biết rằng, trước khi tỏa sáng trên sân khấu, những nghệ sĩ trẻ này đã từng là chiến sĩ, có người còn đeo quân hàm Thượng úy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721196+07:00",
+      "fetched": "2025-10-24T13:24:25.721314+07:00"
+    },
+    {
+      "id": "6b1e984cf3e78c827e62eebdfdfa1a7d",
+      "title": "Thông qua nghị quyết đầu tư dự án tàu điện Phú Quốc gần 9.000 tỉ đồng",
+      "link": "https://tuoitre.vn/thong-qua-nghi-quyet-dau-tu-du-an-tau-dien-phu-quoc-gan-9-000-ti-dong-20251024111026445.htm",
+      "summary": "HĐND tỉnh An Giang thông qua quyết định chủ trương đầu tư dự án tuyến tàu điện đô thị Phú Quốc giai đoạn 1, tốc độ từ 70-100km/h, tổng mức đầu tư gần 9.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.721056+07:00",
+      "fetched": "2025-10-24T13:24:25.721183+07:00"
+    },
+    {
+      "id": "c9222afbb61dafd9ff4204c4c24de29e",
+      "title": "Báo động cuộc 'đại tuyệt chủng' lớn nhất từ thời khủng long",
+      "link": "https://tuoitre.vn/bao-dong-cuoc-dai-tuyet-chung-lon-nhat-tu-thoi-khung-long-20251024111809284.htm",
+      "summary": "Các nhà khoa học Anh cảnh báo Trái đất đang tiến gần tới một cuộc tuyệt chủng hàng loạt, lần đầu tiên kể từ khi khủng long biến mất cách đây 66 triệu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.720906+07:00",
+      "fetched": "2025-10-24T13:24:25.721042+07:00"
+    },
+    {
+      "id": "13a1e6b0d23b28329546152991f63c12",
+      "title": "Trước khi bị tạm giam vì chạy án, ca sĩ Lương Bằng Quang  kinh doanh ra sao?",
+      "link": "https://tuoitre.vn/truoc-khi-bi-tam-giam-vi-chay-an-ca-si-luong-bang-quang-kinh-doanh-ra-sao-2025102412004789.htm",
+      "summary": "Trước khi bị tạm giam, Lương Bằng Quang không chỉ hoạt động trong lĩnh vực nghệ thuật, mà còn lấn sân sang kinh doanh với việc góp vốn lập các công ty riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.720771+07:00",
+      "fetched": "2025-10-24T13:24:25.720894+07:00"
+    },
+    {
+      "id": "97e57bc8356199fe02f7136317d4e554",
+      "title": "Hiệu trưởng nói về các khoản vận động xã hội hóa gây xôn xao",
+      "link": "https://tuoitre.vn/hieu-truong-noi-ve-cac-khoan-van-dong-xa-hoi-hoa-gay-xon-xao-20251024111207424.htm",
+      "summary": "Dư luận ở Hà Tĩnh đang xôn xao một ngôi trường ở địa phương này vận động doanh nghiệp, cá nhân, phụ huynh tài trợ hơn 800 triệu đồng để mua sắm bàn ghế, thiết bị; cải tạo, trang trí cơ sở vật chất; trồng 10 cây giáng hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.720625+07:00",
+      "fetched": "2025-10-24T13:24:25.720758+07:00"
+    },
+    {
+      "id": "a4cb7857b700ba507d4aadaa1d774b51",
+      "title": "Miễn phí xe đưa đón tham quan Hội chợ mùa thu 2025",
+      "link": "https://tuoitre.vn/mien-phi-xe-dua-don-tham-quan-hoi-cho-mua-thu-2025-20251024104538519.htm",
+      "summary": "Sáng 24-10, Sở Văn hóa, Thể thao và Du lịch tỉnh Bắc Ninh cho biết kế hoạch tổ chức xe miễn phí đưa đón nhân dân và du khách tham quan Hội chợ mùa thu 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:24:25.720395+07:00",
+      "fetched": "2025-10-24T13:24:25.720609+07:00"
+    },
     {
       "id": "c8fb9b35ad852378f08a83a9cd100ece",
       "title": "Ông Trump gây sốc khi ân xá cho ông trùm tiền mã hóa CZ, người sáng lập sàn Binance",
@@ -433,6 +583,396 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T08:12:52.829220+07:00"
     },
     {
+      "id": "87348f8a075ec01038fb17f9fa897e9e",
+      "title": "Người đàn ông tử vong trong tư thế treo cổ ở tiệm tạp hóa",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-tu-vong-trong-tu-the-treo-co-o-tiem-tap-hoa-185251024125540227.htm",
+      "summary": "Một người đàn ông tử vong được phát hiện trong tư thế treo cổ ở một tiệm tạp hóa trên đường Bùi Thị Xuân (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:22:00+07:00",
+      "fetched": "2025-10-24T13:24:24.478711+07:00"
+    },
+    {
+      "id": "986405929ddb6fbffe0b15d20b2d23f9",
+      "title": "Loạt ồn ào của Lương Bằng Quang trước khi bị bắt",
+      "link": "https://thanhnien.vn/loat-on-ao-cua-luong-bang-quang-truoc-khi-bi-bat-18525102412242602.htm",
+      "summary": "Trước khi bị bắt tạm giam, Lương Bằng Quang hoạt động trong vai trò ca sĩ, nhạc sĩ. Tuy nhiên, tên tuổi của anh thường gắn với những thị phi, ồn ào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:18:00+07:00",
+      "fetched": "2025-10-24T13:24:24.478901+07:00"
+    },
+    {
+      "id": "3712ea12e9d71680e15f5c97b74e09cc",
+      "title": "Phó tổng thống Mỹ 'bị xúc phạm' vì 'tấn trò chính trị' ở quốc hội Israel",
+      "link": "https://thanhnien.vn/pho-tong-thong-my-bi-xuc-pham-vi-tan-tro-chinh-tri-o-quoc-hoi-israel-185251024121130614.htm",
+      "summary": "Phó tổng thống Mỹ JD Vance đã lên án mạnh mẽ một dự luật sơ bộ của Quốc hội Israel nhằm áp dụng luật nước này lên Bờ Tây, một động thái được xem như sáp nhập trên thực tế. Ông Vance gọi đây là \"tấn trò chính trị rất ngu ngốc\" và khẳng định chính sách của Tổng thống Trump là phản đối việc sáp nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:15:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479084+07:00"
+    },
+    {
+      "id": "408d1e23e9d42f89f45cd2cc2f32730d",
+      "title": "Rừng tre nổi tiếng Nhật Bản bị khắc chữ chi chít, có cả tiếng Việt",
+      "link": "https://thanhnien.vn/rung-tre-noi-tieng-nhat-ban-bi-khac-chu-chi-chit-co-ca-tieng-viet-185251024120910986.htm",
+      "summary": "Con đường tre nổi tiếng ở Arashiyama, Kyoto (Nhật Bản) bị đe dọa khi hơn 300 cây tre bị khách tham quan khắc chữ chi chít. Theo các chuyên gia, tình trạng hư hại này không thể tái tạo thậm chí họ phải đốn bỏ những cây tre bị phá hoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:15:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479248+07:00"
+    },
+    {
+      "id": "ca0a2c03f45cc8595aefc8a61b80e65c",
+      "title": "Hụt hẫng vì 20/10 chồng không tặng quà cũng không chúc mừng",
+      "link": "https://vnexpress.net/chong-vo-tam-hut-hang-vi-20-10-chong-khong-tang-qua-cung-khong-chuc-mung-4955187.html",
+      "summary": "Tôi chỉ biết tự động viên là chồng không quá quan tâm hay lãng mạn cũng được, miễn anh vẫn sống vì vợ con, vì gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.234181+07:00"
+    },
+    {
+      "id": "c4712b9c81600b7c62a5f19d70180437",
+      "title": "Vì sao cờ tướng có nhiều rào cản luật lệ?",
+      "link": "https://vnexpress.net/vi-sao-co-tuong-co-nhieu-rao-can-luat-le-4954257.html",
+      "summary": "Không \"tự do\" như cờ vua, cờ tướng có nhiều rào cản luật lệ khiến có người cảm thấy gò bó, nhưng cũng làm cho nhiều người say mê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.234363+07:00"
+    },
+    {
+      "id": "b28f91cfd3aafe36a2ba70787841bff0",
+      "title": "Grab khởi động chương trình 'Vững - Xanh' thúc đẩy bảo vệ môi trường",
+      "link": "https://vnexpress.net/grab-khoi-dong-chuong-trinh-vung-xanh-thuc-day-bao-ve-moi-truong-4955305.html",
+      "summary": "Grab Việt Nam hợp tác các cơ quan ban ngành, đối tác và người dùng triển khai chương trình \"Vững - Xanh\" gồm các dự án trồng rừng, tiết kiệm năng lượng, giảm phát thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.234528+07:00"
+    },
+    {
+      "id": "704eba2b03ed44902a67bbdc2b8655eb",
+      "title": "Căn hộ ven sông tại trung tâm Biên Hòa giá từ 1,7 tỷ đồng",
+      "link": "https://vnexpress.net/can-ho-ven-song-tai-trung-tam-bien-hoa-gia-tu-1-7-ty-dong-4955271.html",
+      "summary": "Fresia Riverside mang đến lựa chọn an cư ven sông trong trung tâm Biên Hòa, giá từ 1,79 tỷ đồng, hưởng lợi từ hạ tầng và vị trí kết nối phía Đông TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.234686+07:00"
+    },
+    {
+      "id": "cf0feb5c9d79aa7d40ec8b6ef4434bb3",
+      "title": "Visa VMC Winter 2025 mở lối cho Esports học đường Việt Nam",
+      "link": "https://vnexpress.net/esports-visa-vmc-winter-2025-esports-hoc-duong-viet-nam-4955121.html",
+      "summary": "Không chỉ tìm ra nhà vô địch quốc gia Mobile Legends: Bang Bang, Visa VMC Winter 2025 còn là bước ngoặt đưa thể thao điện tử vào môi trường học đường, mở hướng phát triển bền vững cho Esports Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.234849+07:00"
+    },
+    {
+      "id": "081cd5d2bb665170fd684afde111fd20",
+      "title": "Hành trình thương hiệu Việt vươn ra thế giới tại tuyến Metro Manila",
+      "link": "https://thanhnien.vn/hanh-trinh-thuong-hieu-viet-vuon-ra-the-gioi-tai-tuyen-metro-manila-185251024121500091.htm",
+      "summary": "Trong bối cảnh toàn cầu hóa mạnh mẽ, nhiều doanh nghiệp Việt Nam đang nỗ lực tìm kiếm lối đi để khẳng định thương hiệu trên thương trường quốc tế. Giữa làn sóng đó, một thương hiệu Việt đã tiên phong, bằng cách tập trung vào chuẩn hóa chất lượng sản phẩm để nhanh chóng tham gia sâu vào chuỗi cung ứn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479407+07:00"
+    },
+    {
+      "id": "6d314832be7c5e05bbf28f275366907f",
+      "title": "Rừng trên mái - Triết lý kiến trúc vượt thời gian của Flamingo Holdings",
+      "link": "https://thanhnien.vn/rung-tren-mai-triet-ly-kien-truc-vuot-thoi-gian-cua-flamingo-holdings-185251024120116581.htm",
+      "summary": "Từ những khu vườn treo trên cao đến những tán cây cổ thụ vươn mình giữa không trung, Rừng trên mái của Flamingo Holdings không chỉ là kiến trúc, mà là một tuyên ngôn về sự hòa hợp giữa con người và thiên nhiên. Cùng khám phá hành trình kiến tạo những biểu tượng sống xanh độc đáo, nơi sự xa hoa được ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479564+07:00"
+    },
+    {
+      "id": "c4712b9c81600b7c62a5f19d70180437",
+      "title": "Vì sao cờ tướng có nhiều rào cản luật lệ?",
+      "link": "https://vnexpress.net/vi-sao-co-tuong-co-nhieu-rao-can-luat-le-4954257.html",
+      "summary": "Không \"tự do\" như cờ vua, cờ tướng có nhiều rào cản luật lệ khiến có người cảm thấy gò bó, nhưng cũng làm cho nhiều người say mê.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T06:00:00+07:00",
+      "fetched": "2025-10-24T13:24:33.931270+07:00"
+    },
+    {
+      "id": "01ff489f941912e297e5090c5cacbb9f",
+      "title": "Tìm anh cùng tạo nên tổ ấm giản dị nhưng đầy yêu thương",
+      "link": "https://vnexpress.net/tim-anh-cung-tao-nen-to-am-gian-di-nhung-day-yeu-thuong-4955230.html",
+      "summary": "Em tự chủ tài chính, đủ vững vàng để chăm lo cho bản thân và những người mình yêu thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:50:48+07:00",
+      "fetched": "2025-10-24T13:24:21.234950+07:00"
+    },
+    {
+      "id": "2440bf5d82ec8ca2474066cff9a0d7fe",
+      "title": "Mong khi gặp và ở bên em, anh sẽ là người hạnh phúc",
+      "link": "https://vnexpress.net/mong-khi-gap-va-o-ben-em-anh-se-la-nguoi-hanh-phuc-4955231.html",
+      "summary": "Em không tự nhận mình là một người hoàn hảo nhưng em vẫn luôn cố gắng để mình có thể trở thành người hoàn hảo với chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:50:34+07:00",
+      "fetched": "2025-10-24T13:24:21.235066+07:00"
+    },
+    {
+      "id": "08070e7e92a0c2f6d49bd0c80404909c",
+      "title": "Khu đất Bến Nhà Rồng - Khánh Hội sẽ dành 60% làm công viên",
+      "link": "https://vnexpress.net/khu-dat-ben-nha-rong-khanh-hoi-se-danh-60-lam-cong-vien-4955337.html",
+      "summary": "TP HCM –Gần 60% diện tích khu đất \"vàng\" Bến Nhà Rồng – Cảng Khánh Hội sẽ làm công viên, tăng 15 lần so với trước, theo đề xuất của Sở Quy hoạch – Kiến trúc TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:47:10+07:00",
+      "fetched": "2025-10-24T13:24:21.235226+07:00"
+    },
+    {
+      "id": "20f9851dfbd9a2cf487092c317dd4926",
+      "title": "Ông Putin nói Nga sẽ phản ứng mạnh nếu bị Tomahawk tấn công",
+      "link": "https://thanhnien.vn/ong-putin-noi-nga-se-phan-ung-manh-neu-bi-tomahawk-tan-cong-185251024120638875.htm",
+      "summary": "Tổng thống Vladimir Putin hôm 23.10 cảnh báo Nga sẽ đưa ra một phản ứng 'rất nghiêm trọng' nếu Ukraine sử dụng tên lửa Tomahawk do Mỹ sản xuất để tấn công Nga. Ông cũng đồng thời gọi áp lực yêu cầu Washington cung cấp loại vũ khí này là 'một nỗ lực leo thang'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:42:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479715+07:00"
+    },
+    {
+      "id": "ab877a6a81ba471dd4ec726316fe442c",
+      "title": "1.800 tỷ đồng xây nhà máy cấp nước cho 2 triệu dân miền Tây",
+      "link": "https://vnexpress.net/1-800-ty-dong-xay-nha-may-cap-nuoc-cho-2-trieu-dan-mien-tay-4955352.html",
+      "summary": "Trạm bơm và hệ thống ống truyền tải nước từ sông Tiền, tổng vốn đầu tư 1.800 tỷ đồng, dự kiến hoàn thành cuối năm 2026, cấp nước cho khoảng 2 triệu dân Tây Nam Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:35:15+07:00",
+      "fetched": "2025-10-24T13:24:21.235380+07:00"
+    },
+    {
+      "id": "0ad86c6ae35daf672da8ce19f6cc50a5",
+      "title": "Ông Phan Nguyễn Hoàng Tân làm Giám đốc Sở NN-MT Lâm Đồng",
+      "link": "https://thanhnien.vn/ong-phan-nguyen-hoang-tan-lam-giam-doc-so-nn-mt-lam-dong-185251024113345503.htm",
+      "summary": "UBND tỉnh Lâm Đồng vừa công bố quyết định tiếp nhận và bổ nhiệm ông Phan Nguyễn Hoàng Tân, Bí thư Đảng ủy P.Phú Thủy, làm Giám đốc Sở NN-MT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:25:00+07:00",
+      "fetched": "2025-10-24T13:24:24.479866+07:00"
+    },
+    {
+      "id": "cb33ea7b16b9d729d1798ce8462e3215",
+      "title": "Chồng của nạn nhân vụ 'trừ tà' ở Phan Thiết bị bắt",
+      "link": "https://vnexpress.net/chong-cua-nan-nhan-vu-tru-ta-o-phan-thiet-bi-bat-4955312.html",
+      "summary": "Cảnh sát bắt giam Nguyễn Tự Tín, 34 tuổi, chồng cũ của nạn nhân bị các chị chồng giam lỏng để \"trừ tà\", sau khi điều tra bổ sung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:22:22+07:00",
+      "fetched": "2025-10-24T13:24:21.235550+07:00"
+    },
+    {
+      "id": "0333c09e0092b637e110e830f2ee6333",
+      "title": "Kén khách, sedan số sàn giá gần 3 tỉ của Honda 'bật' khỏi thị trường Việt Nam",
+      "link": "https://thanhnien.vn/ken-khach-sedan-so-san-gia-gan-3-ti-cua-honda-bat-khoi-thi-truong-viet-nam-185251024103621364.htm",
+      "summary": "Sau 3 năm gia nhập thị trường Việt Nam, mẫu sedan số sàn thuộc phiên bản hiệu suất cao - Honda Civic Type R sẽ được Honda Việt Nam (HVN) nhận đơn hàng cuối cùng trước khi chính thức ngừng phân phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:17:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480032+07:00"
+    },
+    {
+      "id": "e56a2d06995d3d257c0b2482929a8e2c",
+      "title": "Lễ hội khinh khí cầu Đà Lạt 2025 thu hút hàng ngàn du khách và người dân",
+      "link": "https://thanhnien.vn/le-hoi-khinh-khi-cau-da-lat-2025-thu-hut-hang-ngan-du-khach-va-nguoi-dan-185251024111651634.htm",
+      "summary": "Hàng ngàn người dân và du khách háo hức đổ về quảng trường Lâm Viên, bên hồ Xuân Hương thơ mộng, để chiêm ngưỡng lễ hội khinh khí cầu Đà Lạt 2025 rực rỡ sắc màu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:15:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480203+07:00"
+    },
+    {
+      "id": "222e2f2c28ec5a0b730383cdb32feeb4",
+      "title": "Ông Nguyễn Trọng Nghĩa: Chi giáo dục ĐH cần đạt ít nhất 3% tổng chi ngân sách",
+      "link": "https://thanhnien.vn/ong-nguyen-trong-nghia-chi-giao-duc-dh-can-dat-it-nhat-3-tong-chi-ngan-sach-18525102411012706.htm",
+      "summary": "Cần tập trung hoàn thiện thể chế, cơ chế, chính sách, nhất là cơ chế, chính sách đặc thù, vượt trội, khung chiến lược phát triển giáo dục và đào tạo ĐH. Chi cho giáo dục ĐH cần đạt ít nhất 3% tổng chi ngân sách nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:14:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480355+07:00"
+    },
+    {
+      "id": "b06d5d828420bd5d9d48a3f5b67f5e56",
+      "title": "Ông Trump đột ngột dừng đàm phán thương mại với Canada",
+      "link": "https://thanhnien.vn/ong-trump-dot-ngot-dung-dam-phan-thuong-mai-voi-canada-185251024115236383.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đột ngột chấm dứt tất cả các cuộc đàm phán thương mại với Canada vì không hài lòng về một mẩu quảng cáo tại nước láng giềng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:07:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480511+07:00"
+    },
+    {
+      "id": "633ce635775b9509a69dd042a8f8440e",
+      "title": "Giá xăng - thách thức của ông Trump khi trừng phạt Nga",
+      "link": "https://vnexpress.net/gia-xang-thach-thuc-cua-ong-trump-khi-trung-phat-nga-4955208.html",
+      "summary": "Việc ông Trump trừng phạt hai hãng dầu Nga có thể đe dọa một trong các điểm sáng của nền kinh tế Mỹ, đó là giá xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:05:00+07:00",
+      "fetched": "2025-10-24T13:24:21.235706+07:00"
+    },
+    {
+      "id": "633ce635775b9509a69dd042a8f8440e",
+      "title": "Giá xăng - thách thức của ông Trump khi trừng phạt Nga",
+      "link": "https://vnexpress.net/gia-xang-thach-thuc-cua-ong-trump-khi-trung-phat-nga-4955208.html",
+      "summary": "Việc ông Trump trừng phạt hai hãng dầu Nga có thể đe dọa một trong các điểm sáng của nền kinh tế Mỹ, đó là giá xăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T05:05:00+07:00",
+      "fetched": "2025-10-24T13:24:28.751065+07:00"
+    },
+    {
+      "id": "ce8634f2011208760ee449d6d6cc462e",
+      "title": "Đường lên đỉnh Olympia, gameshow lâu đời nhất của VTV vẫn 'nóng' sau 25 năm",
+      "link": "https://thanhnien.vn/duong-len-dinh-olympia-gameshow-lau-doi-nhat-cua-vtv-van-nong-sau-25-nam-185251023091643894.htm",
+      "summary": "Chung kết Đường lên đỉnh Olympia năm thứ 25 được truyền hình trực tiếp lúc 8 giờ 30 sáng chủ nhật, 26.10 trên VTV3. Với hành trình 25 năm, Đường lên đỉnh Olympia là gameshow lâu đời nhất của Đài truyền hình Việt Nam tính tới thời điểm hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:04:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480668+07:00"
+    },
+    {
+      "id": "be2f711712d1b739fc88db2fde2fbb8a",
+      "title": "Uống nước chảy ngược lên mũi sau nhổ răng khôn",
+      "link": "https://vnexpress.net/sau-nho-rang-khon-nguoi-dan-ong-uong-nuoc-chay-nguoc-len-mui-4955051.html",
+      "summary": "Sau khi nhổ răng khôn, người đàn ông 47 tuổi gặp biến chứng khiến nước uống chảy ngược lên mũi gây viêm xoang kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:03:21+07:00",
+      "fetched": "2025-10-24T13:24:21.235869+07:00"
+    },
+    {
+      "id": "6b81e570ccf3f7fee9369ea4bc511ab5",
+      "title": "Robot hình người 'rẻ ngang smartphone'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-re-ngang-smartphone-4955190.html",
+      "summary": "Mẫu robot hình người Bumi, do công ty Noetix Robotics tại Bắc Kinh sản xuất, được bán với giá 1.400 USD, tương đương laptop hay smartphone cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.236046+07:00"
+    },
+    {
+      "id": "3f6b4556f503e28174c14330b31998cb",
+      "title": "Mặc gì giữ ấm cơ thể khi trời lạnh đột ngột?",
+      "link": "https://vnexpress.net/mac-gi-giu-am-co-the-khi-troi-lanh-dot-ngot-4955175.html",
+      "summary": "Miền Bắc đang ghi nhận nhiệt độ xuống thấp, rét đột ngột, vậy nên mặc gì để giữ ấm cơ thể được hiệu quả nhất? (Loan, 37 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.236204+07:00"
+    },
+    {
+      "id": "68db680efd46fd2ef0d2d727500f2e7f",
+      "title": "Honda Việt Nam bán 10 chiếc Civic Type R cuối cùng",
+      "link": "https://vnexpress.net/honda-viet-nam-ban-10-chiec-civic-type-r-cuoi-cung-4955298.html",
+      "summary": "Mẫu hatchback thể thao dừng bán sau ba năm tham gia thị trường bởi doanh số thấp và kén khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:21.236365+07:00"
+    },
+    {
+      "id": "efb6ccf76a2db36bfeb2a9c542587308",
+      "title": "Phó bí thư Đảng ủy UBND TP.HCM nhận nhiệm vụ mới",
+      "link": "https://thanhnien.vn/pho-bi-thu-dang-uy-ubnd-tphcm-nhan-nhiem-vu-moi-185251024112859156.htm",
+      "summary": "Ông Ngô Thành Tuấn, Phó bí thư chuyên trách Đảng ủy UBND TP.HCM được điều động, bổ nhiệm chức Chủ tịch Hội đồng thành viên Công ty TNHH MTV Dịch vụ công ích Thanh niên xung phong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480819+07:00"
+    },
+    {
+      "id": "368b275dc4ba6349179cf2e3ae58f465",
+      "title": "Khoảnh khắc tỏa sáng bắt đầu từ một chiếc váy tiệc hoàn hảo",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khoanh-khac-toa-sang-bat-dau-tu-mot-chiec-vay-tiec-hoan-hao-185251023200723708.htm",
+      "summary": "Không chỉ là trang phục dành cho những buổi dạ tiệc hay sự kiện quan trọng, váy tiệc ngày nay đã trở thành biểu tượng cho phong thái, khí chất và vẻ đẹp người phụ nữ trong xã hội hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:24.480970+07:00"
+    },
+    {
+      "id": "6b81e570ccf3f7fee9369ea4bc511ab5",
+      "title": "Robot hình người 'rẻ ngang smartphone'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-re-ngang-smartphone-4955190.html",
+      "summary": "Mẫu robot hình người Bumi, do công ty Noetix Robotics tại Bắc Kinh sản xuất, được bán với giá 1.400 USD, tương đương laptop hay smartphone cao cấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T05:00:00+07:00",
+      "fetched": "2025-10-24T13:24:32.172757+07:00"
+    },
+    {
+      "id": "4c5a7aada6d309cb13f3fae589f0489c",
+      "title": "Triều Tiên xây bảo tàng tưởng niệm binh sĩ tử trận ở Nga",
+      "link": "https://vnexpress.net/trieu-tien-xay-bao-tang-tuong-niem-binh-si-tu-tran-o-nga-4955280.html",
+      "summary": "Lãnh đạo Triều Tiên ca ngợi tinh thần chiến đấu của quân đội trong lễ động thổ công trình tưởng niệm binh sĩ tử trận ở Nga tại Bình Nhưỡng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T04:59:22+07:00",
+      "fetched": "2025-10-24T13:24:26.759793+07:00"
+    },
+    {
+      "id": "9a7ff1b4f043d3b8105d389a1f31d1c1",
+      "title": "Thông điệp cứng rắn của Nga khi diễn tập khai hỏa 'bộ ba hạt nhân'",
+      "link": "https://vnexpress.net/thong-diep-cung-ran-cua-nga-khi-dien-tap-khai-hoa-bo-ba-hat-nhan-4955069.html",
+      "summary": "Cuộc diễn tập \"bộ ba hạt nhân\" của Nga dường như là thông điệp cảnh báo đến phương Tây, sau những động thái được coi là leo thang căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T04:54:42+07:00",
+      "fetched": "2025-10-24T13:24:26.759972+07:00"
+    },
+    {
+      "id": "9438e09307b9ccc0e14c8139456708f1",
+      "title": "LPBank cùng APED thúc đẩy chuyển đổi số - xanh cho SME",
+      "link": "https://vnexpress.net/lpbank-cung-aped-thuc-day-chuyen-doi-so-xanh-cho-sme-4955311.html",
+      "summary": "LPBank ký hợp tác APED nhằm xây dựng Trung tâm chuyển đổi kép, phát triển gói tín dụng xanh, tư vấn, đào tạo và hỗ trợ SME chuyển đổi số - xanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T04:45:00+07:00",
+      "fetched": "2025-10-24T13:24:28.752565+07:00"
+    },
+    {
+      "id": "7f514bac445a2d8e665258882be418ad",
+      "title": "Tổng thống Ecuador nói 'bị đầu độc bất thành'",
+      "link": "https://vnexpress.net/tong-thong-ecuador-noi-bi-dau-doc-bat-thanh-4955255.html",
+      "summary": "Tổng thống Ecuador Daniel Noboa cho biết kẻ tấn công chưa rõ danh tính định đầu độc ông bằng chocolate và mứt tẩm hóa chất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T04:43:19+07:00",
+      "fetched": "2025-10-24T13:24:26.760167+07:00"
+    },
+    {
+      "id": "4a9c2f33f531100b1cc646ddf64365c4",
+      "title": "Những sai lầm thường gặp khi chạy bộ để giảm cân",
+      "link": "https://vnexpress.net/nhung-sai-lam-thuong-gap-khi-chay-bo-de-giam-can-4955297.html",
+      "summary": "Chạy bộ là một trong những cách hiệu quả để đốt mỡ và cải thiện vóc dáng, nhưng nếu tập không đúng khoa học, runner có thể chấn thương, kiệt sức hoặc bị tăng cân ngược.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T04:41:39+07:00",
+      "fetched": "2025-10-24T13:24:33.932273+07:00"
+    },
+    {
+      "id": "df9f7450d055bfbb2ae7d12eea11b9b8",
+      "title": "Elon Musk nói cần 1.000 tỷ USD để kiểm soát đội quân robot",
+      "link": "https://vnexpress.net/elon-musk-noi-can-1-000-ty-usd-de-kiem-soat-doi-quan-robot-4955292.html",
+      "summary": "Elon Musk cho biết ông cần quyền kiểm soát Tesla nhiều hơn cùng gói 1.000 tỷ USD để xây dựng đội quân robot hình người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T04:19:09+07:00",
+      "fetched": "2025-10-24T13:24:32.173127+07:00"
+    },
+    {
       "id": "341478baf9bfe3ac32d611ae1009ee9a",
       "title": "Phát hiện siêu trái đất gợi manh mối cho hành trình tìm kiếm sự sống",
       "link": "https://thanhnien.vn/phat-hien-sieu-trai-dat-goi-manh-moi-cho-hanh-trinh-tim-kiem-su-song-185251024104952432.htm",
@@ -441,6 +981,16 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T04:19:00+07:00",
       "fetched": "2025-10-24T11:19:54.861936+07:00"
+    },
+    {
+      "id": "ebda937fd71d78258f11d5c34ac35526",
+      "title": "Cuộc sống trong tù của cựu tổng thống Pháp Sarkozy",
+      "link": "https://vnexpress.net/cuoc-song-trong-tu-cua-cuu-tong-thong-phap-sarkozy-4954209.html",
+      "summary": "Cựu tổng thống Sarkozy ở phòng giam biệt lập, vẫn được nghe nhạc, xem TV nếu trả phí và không tiếp xúc các phạm nhân khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T04:17:08+07:00",
+      "fetched": "2025-10-24T13:24:26.760331+07:00"
     },
     {
       "id": "7ac46468b1fd0db84a88a26dec3d8d31",
@@ -991,6 +1541,16 @@ window.newsData_2025_10_24 = {
       "category": "Thể thao",
       "published": "2025-10-24T02:07:44+07:00",
       "fetched": "2025-10-24T09:58:32.720160+07:00"
+    },
+    {
+      "id": "c1f59b44fdbe736727fcc0c949f80220",
+      "title": "Chepgnetich không bị tước kỷ lục marathon nữ vì doping",
+      "link": "https://vnexpress.net/chepgnetich-khong-bi-tuoc-ky-luc-marathon-nu-vi-doping-4955150.html",
+      "summary": "Runner người Kenya Ruth Chepngetich bị cấm thi đấu ba năm vì sử dụng chất cấm, nhưng vẫn được giữ kỷ lục marathon nữ thế giới thiết lập tại Chicago 2024.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T02:07:44+07:00",
+      "fetched": "2025-10-24T13:24:33.933093+07:00"
     },
     {
       "id": "f2a07acbf5dc7ccdf3a74fd1664a22ca",
