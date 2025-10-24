@@ -1,7 +1,157 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T09:58:32.726106+07:00",
+  "lastUpdated": "2025-10-24T11:20:01.475371+07:00",
   "articles": [
+    {
+      "id": "c8fb9b35ad852378f08a83a9cd100ece",
+      "title": "Ông Trump gây sốc khi ân xá cho ông trùm tiền mã hóa CZ, người sáng lập sàn Binance",
+      "link": "https://tuoitre.vn/ong-trump-gay-soc-khi-an-xa-cho-ong-trum-tien-ma-hoa-cz-nguoi-sang-lap-san-binance-20251024094537755.htm",
+      "summary": "Ngày 23-10, Nhà Trắng thông báo ông Trump đã ân xá cho Changpeng Zhao, nhà sáng lập sàn giao dịch tiền mã hóa Binance.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.530127+07:00",
+      "fetched": "2025-10-24T11:19:55.530247+07:00"
+    },
+    {
+      "id": "37dc704a60c7b84cb504313b867fcc87",
+      "title": "Quan hệ Việt Nam - Bulgaria bước sang trang mới",
+      "link": "https://tuoitre.vn/quan-he-viet-nam-bulgaria-buoc-sang-trang-moi-20251024073722349.htm",
+      "summary": "Bulgaria trở thành đối tác chiến lược mới nhất của Việt Nam năm 2025, là nước Balkan đầu tiên đạt tầm quan hệ này với Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529993+07:00",
+      "fetched": "2025-10-24T11:19:55.530116+07:00"
+    },
+    {
+      "id": "28b2f4726b7d5f75d272d744d464a617",
+      "title": "Quảng Trị chấp thuận 2 dự án điện gió mới hơn 3.500 tỉ đồng",
+      "link": "https://tuoitre.vn/quang-tri-chap-thuan-2-du-an-dien-gio-moi-hon-3-500-ti-dong-20251024095442559.htm",
+      "summary": "Hai dự án điện gió Tân Hợp 1 và Phong Liệu mở rộng, tổng vốn hơn 3.500 tỉ đồng vừa được tỉnh Quảng Trị chấp thuận chủ trương để tìm kiếm nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529848+07:00",
+      "fetched": "2025-10-24T11:19:55.529966+07:00"
+    },
+    {
+      "id": "48153154c4b1d21b6bc78f3e61f49f08",
+      "title": "Đôi nam nữ đang ngủ trong nhà bị người đàn ông buộc cửa rồi đổ xăng đốt nhà",
+      "link": "https://tuoitre.vn/doi-nam-nu-dang-ngu-trong-nha-bi-nguoi-dan-ong-buoc-cua-roi-do-xang-dot-nha-2025102409541543.htm",
+      "summary": "Người đàn ông 41 tuổi cùng một phụ nữ đang ngủ trong nhà thì bất ngờ bị một người buộc cửa bên ngoài bằng sợi dây kim loại rồi đổ xăng đốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529724+07:00",
+      "fetched": "2025-10-24T11:19:55.529837+07:00"
+    },
+    {
+      "id": "4edf88420f3d8ed0daa1c7ba2e38d60c",
+      "title": "HLV Vũ Hồng Việt xin thôi dẫn dắt CLB Nam Định",
+      "link": "https://tuoitre.vn/hlv-vu-hong-viet-xin-thoi-dan-dat-clb-nam-dinh-20251024093126723.htm",
+      "summary": "Ông Vũ Hồng Việt từ chức HLV trưởng CLB Nam Định sau trận thua Gamba Osaka hôm 22-10 tại cúp châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529599+07:00",
+      "fetched": "2025-10-24T11:19:55.529713+07:00"
+    },
+    {
+      "id": "8f62f73424009040bf827613fdd98423",
+      "title": "Tuyết Thu hóa thân thành Thái hậu Dương Vân Nga",
+      "link": "https://tuoitre.vn/tuyet-thu-hoa-than-thanh-thai-hau-duong-van-nga-20251024091840961.htm",
+      "summary": "Kịch bản Hoàng hậu hai vua sẽ trở lại với tên gọi Sơn hà. Nghệ sĩ Tuyết Thu vào vai Thái hậu Dương Vân Nga trong vở, độc diễn suốt 75 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529469+07:00",
+      "fetched": "2025-10-24T11:19:55.529582+07:00"
+    },
+    {
+      "id": "6b754f312f52e33cfb6650683ef3e54e",
+      "title": "‘Công nghệ từ trái tim’ - khi sáng tạo chạm đến cảm xúc con người",
+      "link": "https://tuoitre.vn/cong-nghe-tu-trai-tim-khi-sang-tao-cham-den-cam-xuc-con-nguoi-20251024092456831.htm",
+      "summary": "Những tác phẩm được giải “Công nghệ từ trái tim” phản chiếu chân thực hành trình chuyển đổi số đang diễn ra khắp đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529344+07:00",
+      "fetched": "2025-10-24T11:19:55.529458+07:00"
+    },
+    {
+      "id": "0862a7f2c946385aefc741e14f7f0537",
+      "title": "Cựu phó tướng mafia: 'Thể thao và NBA đã bị thao túng từ lâu'",
+      "link": "https://tuoitre.vn/cuu-pho-tuong-mafia-the-thao-va-nba-da-bi-thao-tung-tu-lau-20251024095756372.htm",
+      "summary": "Từng là cái tên khét tiếng trong giới mafia tại Mỹ, Salvatore Gravano không hề bất ngờ trước các hoạt động cờ bạc phi pháp rúng động mới đây của NBA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529218+07:00",
+      "fetched": "2025-10-24T11:19:55.529333+07:00"
+    },
+    {
+      "id": "abb097071f9753b38c08170ecbd05b71",
+      "title": "Úc sắp xóa hơn 1,5 triệu tài khoản mạng xã hội của người dưới 16 tuổi",
+      "link": "https://tuoitre.vn/uc-sap-xoa-hon-1-5-trieu-tai-khoan-mang-xa-hoi-cua-nguoi-duoi-16-tuoi-20251024101002121.htm",
+      "summary": "Từ ngày 10-12, các nền tảng như Facebook, TikTok, YouTube buộc phải chặn hoặc xóa tài khoản người dùng dưới 16 tuổi theo luật mới bảo vệ trẻ em trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.529091+07:00",
+      "fetched": "2025-10-24T11:19:55.529206+07:00"
+    },
+    {
+      "id": "d3f96463bf155085bf2658eef3695e36",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Vòng chung kết hứa hẹn tưng bừng",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-vong-chung-ket-hua-hen-tung-bung-20251024092308223.htm",
+      "summary": "Với những gì đã thể hiện, 16 đội bóng giành quyền tham dự vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025 hứa hẹn sẽ cống hiến những trận đấu hấp dẫn và tưng bừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528942+07:00",
+      "fetched": "2025-10-24T11:19:55.529079+07:00"
+    },
+    {
+      "id": "205aa8c97d1fd4d7c81c49203152ed2e",
+      "title": "Các đại gia giải mã Champions League",
+      "link": "https://tuoitre.vn/cac-dai-gia-giai-ma-champions-league-20251024092719532.htm",
+      "summary": "Sau 3 vòng đấu đầu tiên của Champions League mùa giải năm nay, có đến 5 đội bóng lớn giữ trọn vẹn thành tích toàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528817+07:00",
+      "fetched": "2025-10-24T11:19:55.528931+07:00"
+    },
+    {
+      "id": "18758a2d7832da91aa6fadf193e639d6",
+      "title": "Thái Lan đặt mục tiêu 'khủng' cho SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-dat-muc-tieu-khung-cho-sea-games-33-20251024093143696.htm",
+      "summary": "Là chủ nhà của SEA Games 33 diễn ra vào cuối năm nay, thể thao Thái Lan tự tin hướng đến mục tiêu chưa ai từng đạt được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528689+07:00",
+      "fetched": "2025-10-24T11:19:55.528805+07:00"
+    },
+    {
+      "id": "ba2b3168369c31f54b7e3d5d7eec4cd5",
+      "title": "Triều cường TP.HCM hôm nay gần 1,8m, mạng đăng vỡ kè Bình Quới là thất thiệt",
+      "link": "https://tuoitre.vn/trieu-cuong-tp-hcm-hom-nay-gan-1-8m-mang-dang-vo-ke-binh-quoi-la-that-thiet-20251024095316884.htm",
+      "summary": "Tối nay 24-10, dự báo đỉnh triều cường tại TP.HCM vẫn ở mức cao, thời gian triều ngay giờ tan tầm sẽ ảnh hưởng nhiều đến sinh hoạt của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528557+07:00",
+      "fetched": "2025-10-24T11:19:55.528676+07:00"
+    },
+    {
+      "id": "21e33ca45d00d8d7bda7684462954e3a",
+      "title": "UBND TP.HCM ưu tiên khu đất số 1 Lý Thái Tổ làm công viên và không gian tưởng niệm",
+      "link": "https://tuoitre.vn/ubnd-tp-hcm-uu-tien-khu-dat-so-1-ly-thai-to-lam-cong-vien-va-khong-gian-tuong-niem-20251024092614369.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được chỉ đạo ưu tiên quy hoạch khu đất số 1 đường Lý Thái Tổ (phường Vườn Lài) thành công viên công cộng, có không gian tưởng niệm nạn nhân COVID-19.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528412+07:00",
+      "fetched": "2025-10-24T11:19:55.528545+07:00"
+    },
+    {
+      "id": "3ef2fc0bdf83369c05a7e300fcd163f1",
+      "title": "Lừa đảo giả mạo cơ quan thuế: Cảnh báo nóng tại Gia Lai",
+      "link": "https://tuoitre.vn/lua-dao-gia-mao-co-quan-thue-canh-bao-nong-tai-gia-lai-20251024102001974.htm",
+      "summary": "Hàng chục người ở Gia Lai mất hàng trăm triệu đồng trong quý 3-2025 vì sập bẫy tin nhắn, cuộc gọi giả danh “cán bộ thuế”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T11:19:55.528179+07:00",
+      "fetched": "2025-10-24T11:19:55.528396+07:00"
+    },
     {
       "id": "9e52ab42268c00f56ac2e9c48fd95042",
       "title": "Thấy người nhảy cầu La Ngà, vội quay xe lao xuống cứu",
@@ -283,6 +433,386 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T08:12:52.829220+07:00"
     },
     {
+      "id": "341478baf9bfe3ac32d611ae1009ee9a",
+      "title": "Phát hiện siêu trái đất gợi manh mối cho hành trình tìm kiếm sự sống",
+      "link": "https://thanhnien.vn/phat-hien-sieu-trai-dat-goi-manh-moi-cho-hanh-trinh-tim-kiem-su-song-185251024104952432.htm",
+      "summary": "Hành tinh mới được phát hiện được đặt tên GJ 251c và là một siêu trái đất đang xoay quanh sao lùn đỏ cách địa cầu chưa đầy 20 năm ánh sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:19:00+07:00",
+      "fetched": "2025-10-24T11:19:54.861936+07:00"
+    },
+    {
+      "id": "7ac46468b1fd0db84a88a26dec3d8d31",
+      "title": "Nhân sự TP.HCM: Phường Vũng Tàu và 2 xã Bình Châu, Đất Đỏ có tân chủ tịch",
+      "link": "https://thanhnien.vn/nhan-su-tphcm-phuong-vung-tau-va-2-xa-binh-chau-dat-do-co-tan-chu-tich-185251024110551231.htm",
+      "summary": "Phó bí thư Đảng ủy phường Vũng Tàu và 2 xã Bình Châu, Đất Đỏ được phê chuẩn kết quả bầu giữ chức chủ tịch UBND phường, xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:17:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862129+07:00"
+    },
+    {
+      "id": "b4e11a79ff72ca0693a1d9b6005426b1",
+      "title": "Cần Thơ: Hai học sinh tử vong do rò rỉ điện chiếu sáng khi triều cường dâng",
+      "link": "https://thanhnien.vn/can-tho-hai-hoc-sinh-tu-vong-do-ro-ri-dien-chieu-sang-khi-trieu-cuong-dang-185251024104701403.htm",
+      "summary": "Triều cường dâng cao khiến công viên Nguyễn Phương Danh bị ngập sâu, hệ thống chiếu sáng tại đây bất ngờ rò điện, khiến hai học sinh tử vong thương tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:13:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862291+07:00"
+    },
+    {
+      "id": "eec5a7ef9fbdba3415dd9748b65a0b49",
+      "title": "Vướng mắc hoàn thuế, kiến nghị xây dựng cơ chế hoàn tự động",
+      "link": "https://thanhnien.vn/vuong-mac-hoan-thue-kien-nghi-xay-dung-co-che-hoan-tu-dong-185251024104905636.htm",
+      "summary": "VCCI kiến nghị Chính phủ chỉ đạo Bộ Tài chính xây dựng cơ chế hoàn thuế giá trị gia tăng tự động đối với các hồ sơ hợp lệ, không có dấu hiệu gian lận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:07:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862447+07:00"
+    },
+    {
+      "id": "4bfdf9f965df12d111c9042f77abf2d5",
+      "title": "Lịch thi đấu giải hạng nhất: Công Phượng và Minh Vương ‘chạm trán’ HLV Park Hang-seo",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-hang-nhat-cong-phuong-va-minh-vuong-cham-tran-hlv-park-hang-seo-185251024110000522.htm",
+      "summary": "Ở vòng 5 giải hạng nhất 2025-2026, CLB Trường Tươi Đồng Nai sẽ chạm trán một trong những ứng cử viên vô địch là Bắc Ninh, đội bóng có HLV Park Hang-seo làm cố vấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:04:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862610+07:00"
+    },
+    {
+      "id": "54bbea5d7cb2e18b67fa399b0efd4233",
+      "title": "Nhà phố 100 m2 chốt giao dịch sau một giờ trên sóng livestream",
+      "link": "https://vnexpress.net/nha-pho-100-m2-chot-giao-dich-sau-mot-gio-tren-song-livestream-4955291.html",
+      "summary": "Phiên livestream của Sunshine Group tối 21/10 ghi nhận giao dịch thành công căn nhà phố 100 m2 trị giá 34 tỷ đồng tại Noble Palace Tay Thang Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:50.991537+07:00"
+    },
+    {
+      "id": "cb6cf8eab5811793decc697967b877ca",
+      "title": "Manh mối 'sống lại' từ tro bụi",
+      "link": "https://vnexpress.net/manh-moi-song-lai-tu-tro-bui-4955268.html",
+      "summary": "Năm 2008, Kim Ki Jong đốt xác nữ sinh, tin tro bụi chôn vùi tội ác. Hắn không ngờ cuốn sổ than hóa \"sống lại\", hé lộ lời thú tội \"tôi và người chết đã....\"",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:50.991717+07:00"
+    },
+    {
+      "id": "48c7a98e85a8e968cca3e9b16b28f36f",
+      "title": "Mắt trắng xóa do đục thủy tinh thể",
+      "link": "https://vnexpress.net/mat-trang-xoa-do-duc-thuy-tinh-the-4955216.html",
+      "summary": "Ông Phong, 75 tuổi, nhìn rất kém cả hai mắt, mắt trái chuyển màu trắng đục, bác sĩ chẩn đoán bị đục thể tinh thể nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:50.991890+07:00"
+    },
+    {
+      "id": "ca17efe254a44179723723bcb418a982",
+      "title": "Bimunica đồng hành Bệnh viện Phụ sản Trung ương chăm sóc mẹ bầu",
+      "link": "https://vnexpress.net/bimunica-dong-hanh-benh-vien-phu-san-trung-uong-cham-soc-me-bau-4955065.html",
+      "summary": "Thương hiệu chăm sóc da cho mẹ và bé Bimunica phối hợp Bệnh viện Phụ sản Trung ương triển khai chương trình \"Khám phụ khoa miễn phí cho mẹ bầu\" từ ngày 20 đến 31/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:50.992099+07:00"
+    },
+    {
+      "id": "5ebe8d0a4d8339eb19a8b66675565cba",
+      "title": "Xem nhanh 12h: Ngân 98, Lương Bằng Quang đưa hối lộ | Bi kịch rò rỉ điện khi triều cường dâng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ngan-98-luong-bang-quang-dua-hoi-lo-bi-kich-ro-ri-dien-khi-trieu-cuong-dang-185251024105639178.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 24.10.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý: Rò rỉ điện chiếu sáng ở công viên, 2 bé trai bị điện giật tử vong; Lương Bằng Quang và Ngân 98 đưa hối lộ 'chạy án'; Bác sĩ Việt Nam phẫu thuật gân gót thành công cho sĩ quan Mông Cổ;....",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862769+07:00"
+    },
+    {
+      "id": "ec0a58a1cfc538b5fb260f0dcdd960af",
+      "title": "BYD Seal 5 DM-i Super Hybrid định nghĩa lại xe lai điện",
+      "link": "https://thanhnien.vn/byd-seal-5-dm-i-super-hybrid-dinh-nghia-lai-xe-lai-dien-185251024102533095.htm",
+      "summary": "Sáng 25.10, BYD Harmony Sài Gòn sẽ tổ chức lễ ra mắt mẫu Sedan mới - BYD Seal 5, thuộc thế hệ DM-i Super Hybrid, tại showroom 619 Huỳnh Tấn Phát, P.Tân Thuận, TP.HCM. Sự kiện diễn ra từ 8:00 đến 11:00, được kỳ vọng trở thành dấu mốc quan trọng, mở ra chuẩn mực mới cho dòng xe lai điện thông minh tại...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:54.862924+07:00"
+    },
+    {
+      "id": "04bda9a0b20c8918270d07b7304eda02",
+      "title": "Nền tảng bán vé CTicket được nhiều đối tác quốc tế lựa chọn",
+      "link": "https://thanhnien.vn/nen-tang-ban-ve-cticket-duoc-nhieu-doi-tac-quoc-te-lua-chon-185251024100416054.htm",
+      "summary": "Là đối tác bán vé chính thức cho đợt VPBank Pre-sale của G-DRAGON 2025 WORLD TOUR [Übermensch] IN HANOI, CTicket ghi nhận toàn bộ vé hai đêm 8 và 9.11.2025 được bán hết nhanh chóng. Nền tảng cho biết đã đầu tư hạ tầng mạnh mẽ để đảm bảo người hâm mộ thao tác thuận lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T04:00:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863097+07:00"
+    },
+    {
+      "id": "62591f1b1470c94d0e79b9fab31e9859",
+      "title": "Dự kiến đầu tư hơn 196.000 tỷ đồng xây sân bay quốc tế Gia Bình",
+      "link": "https://vnexpress.net/du-kien-dau-tu-hon-196-000-ty-dong-xay-san-bay-quoc-te-gia-binh-4955246.html",
+      "summary": "Sân bay quốc tế Gia Bình (Bắc Ninh) dự kiến được đầu tư 4 đường cất hạ cánh, nhà ga công suất 30 triệu hành khách, tổng mức đầu tư hơn 196.370 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:58:52+07:00",
+      "fetched": "2025-10-24T11:19:50.992266+07:00"
+    },
+    {
+      "id": "38f57851f30d414e4d347f2f82aeeb6d",
+      "title": "Tổng Bí thư Tô Lâm thăm nơi Bác Hồ từng ở tại Bulgaria",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-tham-noi-bac-ho-tung-o-tai-bulgaria-185251024102003896.htm",
+      "summary": "Chiều 23.10 (theo giờ địa phương), Tổng Bí thư Tô Lâm và phu nhân Ngô Phương Ly cùng đoàn đại biểu cấp cao Việt Nam đã đến thăm Cung điện Vrana ở ngoại ô thủ đô Sofia, Bulgaria.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:54:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863251+07:00"
+    },
+    {
+      "id": "7a5bb231322ae72ff4e1d91d1fd1eed8",
+      "title": "Công cụ AI mới có thể dự đoán bệnh tật trước 20 năm",
+      "link": "https://thanhnien.vn/cong-cu-ai-moi-co-the-du-doan-benh-tat-truoc-20-nam-185251020143659502.htm",
+      "summary": "Các nhà khoa học tạo ra được AI dự báo hơn 1.000 căn bệnh hàng thập kỷ trước khi triệu chứng xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:52:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863401+07:00"
+    },
+    {
+      "id": "bd58e53821ecc3bb3ec9a9b11a092f6d",
+      "title": "Hai binh sĩ Triều Tiên vượt giới tuyến, Hàn Quốc nổ súng?",
+      "link": "https://thanhnien.vn/hai-binh-si-trieu-tien-vuot-gioi-tuyen-han-quoc-no-sung-185251024103106852.htm",
+      "summary": "Hãng tin Yonhap hôm nay 24.10 dẫn một số nguồn tin hé lộ lý do hai binh sĩ của CHDCND Triều Tiên vượt qua ranh giới quân sự liên Triều được bố phòng nghiêm ngặt trong tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:50:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863554+07:00"
+    },
+    {
+      "id": "5e125db61966bf8fc3489b947e62dd03",
+      "title": "Nhạc rap hay nhạc rác?",
+      "link": "https://vnexpress.net/bai-trinh-cua-rapper-hieu-thu-hai-ca-tu-dung-tuc-rap-viet-rapper-viet-jack-j97-4955272.html",
+      "summary": "Rap có thể thô, có thể gai góc, nhưng đừng bẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:49:13+07:00",
+      "fetched": "2025-10-24T11:19:52.223754+07:00"
+    },
+    {
+      "id": "812be664841ce387a100d95ee53d5280",
+      "title": "Tàu rải dây cáp lớn nhất thế giới",
+      "link": "https://vnexpress.net/tau-rai-day-cap-lon-nhat-the-gioi-4954875.html",
+      "summary": "Công ty xây dựng hàng hải Fleeming Jenkin ra mắt tàu rải cáp lớn và tiên tiến nhất thế giới có khả năng chở và lắp đặt 28.000 tấn dây cáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:48:13+07:00",
+      "fetched": "2025-10-24T11:19:52.224253+07:00"
+    },
+    {
+      "id": "812be664841ce387a100d95ee53d5280",
+      "title": "Tàu rải dây cáp lớn nhất thế giới",
+      "link": "https://vnexpress.net/tau-rai-day-cap-lon-nhat-the-gioi-4954875.html",
+      "summary": "Công ty xây dựng hàng hải Fleeming Jenkin ra mắt tàu rải cáp lớn và tiên tiến nhất thế giới có khả năng chở và lắp đặt 28.000 tấn dây cáp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T03:48:13+07:00",
+      "fetched": "2025-10-24T11:20:00.414403+07:00"
+    },
+    {
+      "id": "c115b8aabc1a546d61398c4bb01db1b6",
+      "title": "Smartphone 4 triệu đồng có màn hình 144 Hz, pin 7.000 mAh",
+      "link": "https://vnexpress.net/smartphone-4-trieu-dong-co-man-hinh-144-hz-pin-7-000-mah-4955100.html",
+      "summary": "Poco M7 trang bị màn hình 6,9 inch lớn nhất tầm giá 4 triệu đồng, pin 7.000 có thể sạc ngược 18 W.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:48:08+07:00",
+      "fetched": "2025-10-24T11:19:52.224428+07:00"
+    },
+    {
+      "id": "c115b8aabc1a546d61398c4bb01db1b6",
+      "title": "Smartphone 4 triệu đồng có màn hình 144 Hz, pin 7.000 mAh",
+      "link": "https://vnexpress.net/smartphone-4-trieu-dong-co-man-hinh-144-hz-pin-7-000-mah-4955100.html",
+      "summary": "Poco M7 trang bị màn hình 6,9 inch lớn nhất tầm giá 4 triệu đồng, pin 7.000 có thể sạc ngược 18 W.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T03:48:08+07:00",
+      "fetched": "2025-10-24T11:20:00.414909+07:00"
+    },
+    {
+      "id": "b92306198aa82950223848d08e0c3d54",
+      "title": "Anh thích đạp xe, yêu sách, tìm bạn đồng hành",
+      "link": "https://vnexpress.net/anh-thich-dap-xe-yeu-sach-tim-ban-dong-hanh-4955234.html",
+      "summary": "Mong gặp người yêu sự chân thành, biết trân trọng những khoảnh khắc giản đơn, sẵn sàng cùng mình bước qua mọi hành trình của cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:46:51+07:00",
+      "fetched": "2025-10-24T11:19:52.224534+07:00"
+    },
+    {
+      "id": "e2a2d2a6f635a6a1e7e40c7845fe8cc7",
+      "title": "Ngân hàng NCB hoàn thành tăng vốn điều lệ lên 19.280 tỉ đồng",
+      "link": "https://thanhnien.vn/ngan-hang-ncb-hoan-thanh-tang-von-dieu-le-len-19280-ti-dong-185251024105550824.htm",
+      "summary": "Ngân hàng TMCP Quốc Dân (NCB) vừa hoàn tất việc phát hành riêng lẻ 750 triệu cổ phần, chính thức nâng vốn điều lệ lên 19.280 tỉ đồng, sớm hơn 1 năm so với lộ trình tại PACCL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:44:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863706+07:00"
+    },
+    {
+      "id": "b0077399f053b2281f6741ba019502e4",
+      "title": "Bạn trai dẫn theo con gái riêng trong buổi hẹn hò đầu tiên",
+      "link": "https://vnexpress.net/yeu-nguoi-tung-co-gia-dinh-ban-trai-dan-theo-con-gai-rieng-trong-buoi-hen-ho-dau-tien-4955236.html",
+      "summary": "Dù biết khi quen anh, sẽ có ngày tôi và con anh gặp nhau, nhưng không ngờ điều đó đến nhanh như thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:42:09+07:00",
+      "fetched": "2025-10-24T11:19:52.224691+07:00"
+    },
+    {
+      "id": "c37d07766e5c3ae57a28b9fe374afe86",
+      "title": "Lộ diện ngày U.23 Việt Nam đấu Hàn Quốc, lý do thầy Kim không thể có mặt",
+      "link": "https://thanhnien.vn/lo-dien-ngay-u23-viet-nam-dau-han-quoc-ly-do-thay-kim-khong-the-co-mat-185251023212135783.htm",
+      "summary": "Chuyến du đấu tại Trung Quốc vào tháng 11 tới là cữ dượt quan trọng của đội tuyển U.23 VN, trước khi bắt đầu hành trình chinh phục tấm HCV môn bóng đá nam tại SEA Games 33 diễn ra vào cuối năm nay ở Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:42:00+07:00",
+      "fetched": "2025-10-24T11:19:54.863856+07:00"
+    },
+    {
+      "id": "504a0cad45573601f9340d1aaa286820",
+      "title": "Apple bất ngờ giúp người dùng rời iPhone dễ dàng hơn",
+      "link": "https://thanhnien.vn/apple-bat-ngo-giup-nguoi-dung-roi-iphone-de-dang-hon-185251023210955734.htm",
+      "summary": "Apple vừa lặng lẽ phát triển công cụ mới mang tên AppMigrationKit nhằm đơn giản hóa việc chuyển dữ liệu ứng dụng của bên thứ ba giữa các nền tảng iOS và Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:35:00+07:00",
+      "fetched": "2025-10-24T11:19:54.864028+07:00"
+    },
+    {
+      "id": "5055a184129a0c19f01d36d02263ce66",
+      "title": "Trung Quốc có Phó chủ tịch Quân ủy trung ương mới",
+      "link": "https://thanhnien.vn/trung-quoc-co-pho-chu-tich-quan-uy-trung-uong-moi-185251024103545982.htm",
+      "summary": "Tân Hoa xã ngày 23.10 đưa tin Trung Quốc đã bổ nhiệm thượng tướng Trương Thăng Dân làm Phó chủ tịch Quân ủy trung ương, thay thế người bị cách chức trước đó là ông Hà Vệ Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:32:00+07:00",
+      "fetched": "2025-10-24T11:19:54.864181+07:00"
+    },
+    {
+      "id": "fefb9325ddf3a48ed2310a6eac4c4b80",
+      "title": "Mỹ chấm dứt đàm phán thương mại với Canada",
+      "link": "https://vnexpress.net/my-cham-dut-dam-phan-thuong-mai-voi-canada-4955269.html",
+      "summary": "Tổng thống Trump thông báo dừng đàm phán với Canada lần thứ 2 trong năm nay, vì không hài lòng với các động thái của nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:31:41+07:00",
+      "fetched": "2025-10-24T11:19:52.224845+07:00"
+    },
+    {
+      "id": "fefb9325ddf3a48ed2310a6eac4c4b80",
+      "title": "Mỹ chấm dứt đàm phán thương mại với Canada",
+      "link": "https://vnexpress.net/my-cham-dut-dam-phan-thuong-mai-voi-canada-4955269.html",
+      "summary": "Tổng thống Trump thông báo dừng đàm phán với Canada lần thứ 2 trong năm nay, vì không hài lòng với các động thái của nước láng giềng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T03:31:41+07:00",
+      "fetched": "2025-10-24T11:19:57.974735+07:00"
+    },
+    {
+      "id": "a31be4800c2e40cf2e0b91916f0c0144",
+      "title": "Sinh viên phản ứng khi trường dự kiến vào học từ 6h30",
+      "link": "https://vnexpress.net/dai-hoc-cong-thuong-tp-hcm-doi-gio-vao-hoc-sinh-vien-phan-ung-4955122.html",
+      "summary": "Nhiều sinh viên phản đối khi Đại học Công thương TP HCM (HUIT) dự kiến giờ vào lớp buổi sáng là 6h30, sớm 30 phút so với hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:27:25+07:00",
+      "fetched": "2025-10-24T11:19:52.225017+07:00"
+    },
+    {
+      "id": "af42ed49cbd7a7932276bcaa621708aa",
+      "title": "HLV Benitez trở lại với mức lương kỷ lục ở Hy Lạp",
+      "link": "https://vnexpress.net/hlv-benitez-tro-lai-voi-muc-luong-ky-luc-o-hy-lap-4955180.html",
+      "summary": "Cựu HLV Liverpool và Real Madrid, Rafa Benitez sẽ nhận mức lương cao nhất tại giải vô địch Hy Lạp dành cho HLV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:24:46+07:00",
+      "fetched": "2025-10-24T11:19:52.225174+07:00"
+    },
+    {
+      "id": "af42ed49cbd7a7932276bcaa621708aa",
+      "title": "HLV Benitez trở lại với mức lương kỷ lục ở Hy Lạp",
+      "link": "https://vnexpress.net/hlv-benitez-tro-lai-voi-muc-luong-ky-luc-o-hy-lap-4955180.html",
+      "summary": "Cựu HLV Liverpool và Real Madrid, Rafa Benitez sẽ nhận mức lương cao nhất tại giải vô địch Hy Lạp dành cho HLV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T03:24:46+07:00",
+      "fetched": "2025-10-24T11:20:01.468597+07:00"
+    },
+    {
+      "id": "ea1163bcae63b404b685c257b42b4259",
+      "title": "Ông Trump ân xá cho nhà sáng lập Binance CZ",
+      "link": "https://vnexpress.net/ong-trump-an-xa-cho-nha-sang-lap-binance-cz-4955143.html",
+      "summary": "Tổng thống Mỹ Donald Trump đã ân xá cho CZ, nhà sáng lập sàn giao dịch Binance, trong kế hoạch thúc đẩy ngành công nghiệp tiền số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:23:58+07:00",
+      "fetched": "2025-10-24T11:19:52.225325+07:00"
+    },
+    {
+      "id": "ea1163bcae63b404b685c257b42b4259",
+      "title": "Ông Trump ân xá cho nhà sáng lập Binance CZ",
+      "link": "https://vnexpress.net/ong-trump-an-xa-cho-nha-sang-lap-binance-cz-4955143.html",
+      "summary": "Tổng thống Mỹ Donald Trump đã ân xá cho CZ, nhà sáng lập sàn giao dịch Binance, trong kế hoạch thúc đẩy ngành công nghiệp tiền số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T03:23:58+07:00",
+      "fetched": "2025-10-24T11:19:57.974914+07:00"
+    },
+    {
+      "id": "54301d9ab032ecd825996d73bba65059",
+      "title": "Tổng Bí thư đề nghị doanh nghiệp Việt - Bulgaria tăng hợp tác về khoa học công nghệ, nhân lực",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-doanh-nghiep-viet-bulgaria-tang-hop-tac-ve-khoa-hoc-cong-nghe-nhan-luc-4955156.html",
+      "summary": "Tổng Bí thư đề nghị hai bên cần tăng hợp tác trong lĩnh vực khoa học công nghệ, chuyển đổi số, nguồn nhân lực, tạo điều kiện doanh nghiệp kinh doanh, đầu tư tại mỗi nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T03:22:08+07:00",
+      "fetched": "2025-10-24T11:19:52.225475+07:00"
+    },
+    {
+      "id": "54301d9ab032ecd825996d73bba65059",
+      "title": "Tổng Bí thư đề nghị doanh nghiệp Việt - Bulgaria tăng hợp tác về khoa học công nghệ, nhân lực",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-doanh-nghiep-viet-bulgaria-tang-hop-tac-ve-khoa-hoc-cong-nghe-nhan-luc-4955156.html",
+      "summary": "Tổng Bí thư đề nghị hai bên cần tăng hợp tác trong lĩnh vực khoa học công nghệ, chuyển đổi số, nguồn nhân lực, tạo điều kiện doanh nghiệp kinh doanh, đầu tư tại mỗi nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T03:22:08+07:00",
+      "fetched": "2025-10-24T11:19:57.975106+07:00"
+    },
+    {
+      "id": "45fecf159d10a4f046ebcb5a2182eee1",
+      "title": "Enzo Fernandez từ chối lời 'thả thính' của Wanda Nara",
+      "link": "https://vnexpress.net/enzo-fernandez-tu-choi-loi-tha-thinh-cua-wanda-nara-4955182.html",
+      "summary": "Tiền vệ tuyển Argentina Enzo Fernandez cho bạn gái xem tin nhắn của người đẹp lẳng lơ Wanda Nara, cũng là vợ cũ của tiền đạo đồng hương Mauro Icardi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T03:09:58+07:00",
+      "fetched": "2025-10-24T11:20:01.467247+07:00"
+    },
+    {
+      "id": "0374b35d4878635cf869b82248910ee9",
+      "title": "Sony giới thiệu ống kính macro đầu tiên của dòng G Master",
+      "link": "https://vnexpress.net/sony-gioi-thieu-ong-kinh-macro-dau-tien-cua-dong-g-master-4954265.html",
+      "summary": "Sony FE 100mm F2.8 Macro GM OSS có độ phóng đại 1,4x, chống rung quang học và hệ thống lấy nét nhanh, chụp - quay cận cảnh khoảng cách 26 cm, mở bán từ 3/11.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T03:00:00+07:00",
+      "fetched": "2025-10-24T11:20:00.415255+07:00"
+    },
+    {
       "id": "f7f487a9b34938b77e1e44cbd037eb50",
       "title": "Đề xuất thí điểm xét công nhận GS, PGS và tự quyết số lượng phó hiệu trưởng",
       "link": "https://thanhnien.vn/de-xuat-thi-diem-xet-cong-nhan-gs-pgs-va-tu-quyet-so-luong-pho-hieu-truong-185251024093220383.htm",
@@ -471,6 +1001,16 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T02:02:00+07:00",
       "fetched": "2025-10-24T09:58:23.148011+07:00"
+    },
+    {
+      "id": "b8106024efcf7c9683ddb8a47ab9e0a0",
+      "title": "Golfer Việt khởi đầu mạnh mẽ ở APAC 2025",
+      "link": "https://vnexpress.net/golfer-viet-khoi-dau-manh-me-o-apac-2025-4955288.html",
+      "summary": "Lê Khánh Hưng chiếm đỉnh bảng khi đánh 66 gậy, tại vòng 1 giải vô địch golf nghiệp dư châu Á – Thái Bình Dương (APAC), ngày 23/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T02:00:02+07:00",
+      "fetched": "2025-10-24T11:20:01.468112+07:00"
     },
     {
       "id": "08f0958ff3696a3ea987e13549817878",
