@@ -1,6 +1,6 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T19:36:31.259431+07:00",
+  "lastUpdated": "2025-10-24T21:17:23.594614+07:00",
   "articles": [
     {
       "id": "5b3cec0286b8f25030d511f7e3951a18",
@@ -453,6 +453,156 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T15:23:19.873965+07:00"
     },
     {
+      "id": "6aa411bb7b3bbe6b1283f8667816cde9",
+      "title": "Hai người bị sóng cuốn mất tích ở biển Đắk Lắk",
+      "link": "https://thanhnien.vn/hai-nguoi-bi-song-cuon-mat-tich-o-bien-dak-lak-185251024200929024.htm",
+      "summary": "Nhóm 5 thiếu niên rủ nhau đi tắm biển ở P.Xuân Đài (Đắk Lắk), bất ngờ 2 em bị sóng cuốn mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T14:05:00+07:00",
+      "fetched": "2025-10-24T21:17:14.537791+07:00"
+    },
+    {
+      "id": "d7689b4794ab67b62b21b283e4d8d2a0",
+      "title": "Sắc đỏ burgundy và những gam màu tôn khí chất, sự tự tin của nàng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-do-burgundy-va-nhung-gam-mau-ton-khi-chat-su-tu-tin-cua-nang-185251023152650257.htm",
+      "summary": "Từ đầm dự tiệc tối đến váy cocktail, từ mini dress đến váy midi tôn đường cong mang sắc đỏ burgundy đều khéo léo tôn khí chất quyến rũ, vẻ gợi cảm thanh lịch đi cùng sự tự tin nơi mỗi quý cô hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T14:00:00+07:00",
+      "fetched": "2025-10-24T21:17:14.537966+07:00"
+    },
+    {
+      "id": "5754fadda9135dfc50af930ad5e951aa",
+      "title": "Nhật ký online 'triệu view' của hai cha con",
+      "link": "https://thanhnien.vn/nhat-ky-online-trieu-view-cua-hai-cha-con-18525102221520894.htm",
+      "summary": "Chia sẻ những khoảnh khắc thường nhật cùng con lên mạng xã hội như một cuốn nhật ký online, hai cha con ở Đắk Lắk nhận về hàng triệu lượt xem vì quá dễ thương và tình cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T14:00:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538122+07:00"
+    },
+    {
+      "id": "edc620eb41539b28bfc62e684a9bf36c",
+      "title": "Anh nông dân nuôi thành công loại cá đang dần biến mất ở miền Tây",
+      "link": "https://thanhnien.vn/anh-nong-dan-nuoi-thanh-cong-loai-ca-dang-dan-bien-mat-o-mien-tay-185251024151528459.htm",
+      "summary": "Từ niềm đam mê với loài cá quê hương đang dần biến mất ngoài tự nhiên, anh Phạm Văn Phúc (39 tuổi, ngụ ấp Đông Thạnh, xã Đông Thuận, TP.Cần Thơ – trước đây là xã Đông Thuận, H.Thới Lai, TP.Cần Thơ) đã mạnh dạn thử nghiệm và nhân giống thành công cá dầy trong bể bạt, ếch cùng cá rô mở hướng đi mới ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:55:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538276+07:00"
+    },
+    {
+      "id": "f43c3027f915489b4923f8c53a58d3ab",
+      "title": "Bộ GD-ĐT: Có địa phương ngang nhiên vi phạm quản lý nhà nước về GD-ĐT",
+      "link": "https://thanhnien.vn/bo-gd-dt-co-dia-phuong-ngang-nhien-vi-pham-quan-ly-nha-nuoc-ve-gd-dt-18525102418354808.htm",
+      "summary": "Lãnh đạo Bộ GD-ĐT cho biết có địa phương ngang nhiên vi phạm quản lý nhà nước về GD-ĐT do cực đoan, máy móc trong sắp xếp, tinh gọn đầu mối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:52:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538444+07:00"
+    },
+    {
+      "id": "a09b82e228f4ca5e2ee54bd1f02ee0dd",
+      "title": "Việt Nam đề xuất 5 lĩnh vực trọng tâm trong hợp tác với Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/viet-nam-de-xuat-5-linh-vuc-trong-tam-trong-hop-tac-voi-lien-hiep-quoc-185251024202825441.htm",
+      "summary": "Chiều 24.10, sau lễ đón chính thức được tổ chức trọng thể tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã hội đàm với Tổng thư ký Liên Hiệp Quốc António Guterres.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:51:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538596+07:00"
+    },
+    {
+      "id": "cc09602801fe06301d027307a47b6936",
+      "title": "Bộ trưởng GD-ĐT: Đầu tháng 12 các trường ĐH công phải có lãnh đạo theo mô hình mới",
+      "link": "https://thanhnien.vn/bo-truong-gd-dt-dau-thang-12-cac-truong-dh-cong-phai-co-lanh-dao-theo-mo-hinh-moi-185251024195123754.htm",
+      "summary": "Bộ trưởng GD-ĐT cho biết đầu tháng 12 các trường ĐH, CĐ công lập phải có lãnh đạo theo mô hình mới, đảm bảo có bộ máy mới ngay khi các luật về GD-ĐT được thực thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:50:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538742+07:00"
+    },
+    {
+      "id": "0d036717cb26f5042164483802044e2e",
+      "title": "Triều cường tràn bờ kè gây ngập khu dân cư TP HCM",
+      "link": "https://vnexpress.net/trieu-cuong-tran-bo-ke-gay-ngap-khu-dan-cu-tp-hcm-4955511.html",
+      "summary": "Nước từ sông Sài Gòn tràn qua bờ kè, chảy vào các con hẻm khu vực Thanh Đa, phường Bình Quới, hàng chục hộ dân ngập sâu, đồ đạc hư hỏng, tối 24/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:45:48+07:00",
+      "fetched": "2025-10-24T21:17:10.615190+07:00"
+    },
+    {
+      "id": "8ddcb05f9155780d4f9568bd05b44281",
+      "title": "Tổng Bí thư nêu các trụ cột hợp tác trong quan hệ Việt Nam - Bulgaria",
+      "link": "https://vnexpress.net/tong-bi-thu-neu-cac-tru-cot-hop-tac-trong-quan-he-viet-nam-bulgaria-4955503.html",
+      "summary": "Tổng Bí thư Tô Lâm nêu các trụ cột hợp tác chiến lược trong quan hệ Việt Nam - Bulgaria khi phát biểu tại Đại học Tổng hợp Sofia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:44:12+07:00",
+      "fetched": "2025-10-24T21:17:10.615372+07:00"
+    },
+    {
+      "id": "8ddcb05f9155780d4f9568bd05b44281",
+      "title": "Tổng Bí thư nêu các trụ cột hợp tác trong quan hệ Việt Nam - Bulgaria",
+      "link": "https://vnexpress.net/tong-bi-thu-neu-cac-tru-cot-hop-tac-trong-quan-he-viet-nam-bulgaria-4955503.html",
+      "summary": "Tổng Bí thư Tô Lâm nêu các trụ cột hợp tác chiến lược trong quan hệ Việt Nam - Bulgaria khi phát biểu tại Đại học Tổng hợp Sofia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T13:44:12+07:00",
+      "fetched": "2025-10-24T21:17:17.290347+07:00"
+    },
+    {
+      "id": "9b40c5d5f8cbbe1166f4ec8b00c0a456",
+      "title": "Người giới thiệu 7 cầu thủ nhập tịch Malaysia thanh minh: 'Tôi xuất phát từ thiện chí'",
+      "link": "https://thanhnien.vn/nguoi-gioi-thieu-7-cau-thu-nhap-tich-malaysia-thanh-minh-toi-xuat-phat-tu-thien-chi-185251024203145223.htm",
+      "summary": "Người giới thiệu 7 cầu thủ nhập tịch Malaysia khẳng định ông chỉ mong muốn giúp đội tuyển quốc gia mạnh hơn, sau khi FIFA phanh phui vụ bê bối nhập tịch cầu thủ gây chấn động bóng đá nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:41:00+07:00",
+      "fetched": "2025-10-24T21:17:14.538887+07:00"
+    },
+    {
+      "id": "c131c69b82d7c93cf2925a54f4618a3c",
+      "title": "Hy hữu: Sao chổi 10 tỉ năm 'ghé thăm' trái đất cùng 2 sao chổi khác",
+      "link": "https://thanhnien.vn/hy-huu-sao-choi-10-ti-nam-ghe-tham-trai-dat-cung-2-sao-choi-khac-185251023160203935.htm",
+      "summary": "Sao chổi Lemmon (C/2025 A6), sao chổi SWAN (C/2025 R2) và sao chổi 3I/ATLAS cùng \"ghé thăm\" trái đất tạo nên sự kiện đặc biệt dành cho những người yêu thiên văn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:35:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539033+07:00"
+    },
+    {
+      "id": "0cd614654a5b3ddb39f1e81243a213a7",
+      "title": "Một trường ĐH quyên góp 500 triệu đồng giúp đồng bào vùng bão lũ",
+      "link": "https://thanhnien.vn/mot-truong-dh-quyen-gop-500-trieu-dong-giup-dong-bao-vung-bao-lu-185251024182610818.htm",
+      "summary": "Tập thể cán bộ, giảng viên, nhân viên, sinh viên Trường ĐH Nam Cần Thơ cùng nhau quyên góp 500 triệu đồng giúp đồng bào miền Bắc bị ảnh hưởng bão, lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:29:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539187+07:00"
+    },
+    {
+      "id": "b4164a3ebb0878137ced65981d54c718",
+      "title": "Yamal khiêu khích Real trước trận El Clasico",
+      "link": "https://vnexpress.net/yamal-khieu-khich-real-truoc-tran-el-clasico-4955401.html",
+      "summary": "Tiền đạo Lamine Yamal nhắc lại trận thua đậm của Real khi tiếp Barca trên sân Bernabeu ở La Liga mùa trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:28:19+07:00",
+      "fetched": "2025-10-24T21:17:10.615585+07:00"
+    },
+    {
+      "id": "b4164a3ebb0878137ced65981d54c718",
+      "title": "Yamal khiêu khích Real trước trận El Clasico",
+      "link": "https://vnexpress.net/yamal-khieu-khich-real-truoc-tran-el-clasico-4955401.html",
+      "summary": "Tiền đạo Lamine Yamal nhắc lại trận thua đậm của Real khi tiếp Barca trên sân Bernabeu ở La Liga mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T13:28:19+07:00",
+      "fetched": "2025-10-24T21:17:23.581221+07:00"
+    },
+    {
       "id": "bced2c544f9b401b31a9a2150b7ce07d",
       "title": "Ứng dụng AI trong dạy học ra sao? - Kỳ 1: AI hỗ trợ soạn bài, ra đề kiểm tra",
       "link": "https://tuoitre.vn/ung-dung-ai-trong-day-hoc-ra-sao-ky-1-ai-ho-tro-soan-bai-ra-de-kiem-tra-20251024084243658.htm",
@@ -603,6 +753,186 @@ window.newsData_2025_10_24 = {
       "fetched": "2025-10-24T13:24:25.720609+07:00"
     },
     {
+      "id": "88f41907f1de8d7b9afcb02d82180d01",
+      "title": "Thông điệp của ông Tập khi chọn cấp phó trong Quân ủy Trung ương",
+      "link": "https://vnexpress.net/thong-diep-cua-ong-tap-khi-chon-cap-pho-trong-quan-uy-trung-uong-4955148.html",
+      "summary": "Chọn tướng chuyên chống tham nhũng làm Phó chủ tịch Quân ủy Trung ương, ông Tập dường như đang phát tín hiệu mạnh mẽ về chiến dịch \"đả hổ, diệt ruồi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:23:00+07:00",
+      "fetched": "2025-10-24T21:17:10.615755+07:00"
+    },
+    {
+      "id": "88f41907f1de8d7b9afcb02d82180d01",
+      "title": "Thông điệp của ông Tập khi chọn cấp phó trong Quân ủy Trung ương",
+      "link": "https://vnexpress.net/thong-diep-cua-ong-tap-khi-chon-cap-pho-trong-quan-uy-trung-uong-4955148.html",
+      "summary": "Chọn tướng chuyên chống tham nhũng làm Phó chủ tịch Quân ủy Trung ương, ông Tập dường như đang phát tín hiệu mạnh mẽ về chiến dịch \"đả hổ, diệt ruồi\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T13:23:00+07:00",
+      "fetched": "2025-10-24T21:17:17.290548+07:00"
+    },
+    {
+      "id": "aa95e57454e9597d4cf641ab21cada3e",
+      "title": "Triều cường dâng cao ở TP.HCM: Nước tràn bờ đê, cuồn cuộn chảy vào nhà dân khu Thanh Đa",
+      "link": "https://thanhnien.vn/trieu-cuong-dang-cao-o-tphcm-nuoc-tran-bo-de-cuon-cuon-chay-vao-nha-dan-khu-thanh-da-185251024194232344.htm",
+      "summary": "Chiều tối 24.10, triều cường dâng cao gây ngập nặng. Người dân sống dọc bờ đê khu Thanh Đa (TP.HCM) cuống cuồng đắp bao cát, kê cao đồ chống ngập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:11:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539332+07:00"
+    },
+    {
+      "id": "ab16a906cad010d8793aa46b77b70f3a",
+      "title": "Chủ tịch nước Lương Cường sắp dự APEC tại Hàn Quốc",
+      "link": "https://vnexpress.net/chu-tich-nuoc-luong-cuong-sap-du-apec-tai-han-quoc-4955504.html",
+      "summary": "Chủ tịch nước Lương Cường tuần sau tham dự Tuần lễ Cấp cao APEC và làm việc song phương tại Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:06:08+07:00",
+      "fetched": "2025-10-24T21:17:10.615922+07:00"
+    },
+    {
+      "id": "ab16a906cad010d8793aa46b77b70f3a",
+      "title": "Chủ tịch nước Lương Cường sắp dự APEC tại Hàn Quốc",
+      "link": "https://vnexpress.net/chu-tich-nuoc-luong-cuong-sap-du-apec-tai-han-quoc-4955504.html",
+      "summary": "Chủ tịch nước Lương Cường tuần sau tham dự Tuần lễ Cấp cao APEC và làm việc song phương tại Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T13:06:08+07:00",
+      "fetched": "2025-10-24T21:17:17.290715+07:00"
+    },
+    {
+      "id": "4dd2e0710584a7e08dddfa3e895c3617",
+      "title": "Máy bay ném bom chiến lược Nga bay hơn 11 giờ trên vùng biển gần Nhật",
+      "link": "https://thanhnien.vn/may-bay-nem-bom-chien-luoc-nga-bay-hon-11-gio-tren-vung-bien-gan-nhat-185251024195230739.htm",
+      "summary": "Bộ Quốc phòng Nga hôm nay 24.10 thông báo máy bay ném bom chiến lược Tu-95MS đã thực hiện chuyến bay thường lệ trên vùng trung lập thuộc vùng biển nằm giữa Nhật Bản và bán đảo Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:06:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539506+07:00"
+    },
+    {
+      "id": "bfa975c511b49ce2aee15809ebf79b4d",
+      "title": "Hành trình đưa CLB Nam Định lên đỉnh V-League của HLV Vũ Hồng Việt trước khi ‘rời ghế nóng’",
+      "link": "https://thanhnien.vn/hanh-trinh-dua-clb-nam-dinh-len-dinh-v-league-cua-hlv-vu-hong-viet-truoc-khi-roi-ghe-nong-185251024190316683.htm",
+      "summary": "Theo thông báo chính thức trên fanpage CLB, kể từ ngày 24.10.2025, ông Nguyễn Trung Kiên được bổ nhiệm giữ chức HLV trưởng CLB Thép Xanh Nam Định, trong khi ông Vũ Hồng Việt chuyển sang đảm nhận vai trò giám đốc kỹ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:05:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539665+07:00"
+    },
+    {
+      "id": "f3a53ec8a948bb47b2e402a1001a7d87",
+      "title": "Xem nhanh 20h ngày 24.10: Giám đốc nhận chạy án cho Lương Bằng Quang, Ngân 98 là ai | CLB Nam Định thay 'tướng'",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2410-giam-doc-nhan-chay-an-cho-luong-bang-quang-ngan-98-la-ai-clb-nam-dinh-thay-tuong-185251024200142426.htm",
+      "summary": "Giám đốc nhận 8 tỉ 'chạy án' cho Ngân 98 và Lương Bằng Quang là ai?; Hành trình đưa CLB Nam Định lên đỉnh V-League của HLV Vũ Hồng Việt trước khi 'rời ghế nóng';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:01:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539819+07:00"
+    },
+    {
+      "id": "32bb6a815093bb6b918639a06bbb6070",
+      "title": "Tổng thống Nam Phi kêu gọi doanh nghiệp Việt tăng hợp tác, đầu tư",
+      "link": "https://vnexpress.net/tong-thong-nam-phi-keu-goi-doanh-nghiep-viet-tang-hop-tac-dau-tu-4955509.html",
+      "summary": "Tổng thống Nam Phi kêu gọi doanh nghiệp Việt Nam nắm bắt cơ hội, thiết lập quan hệ hợp tác cụ thể với các doanh nghiệp Nam Phi qua những hợp đồng, dự án thiết thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:00:20+07:00",
+      "fetched": "2025-10-24T21:17:10.616085+07:00"
+    },
+    {
+      "id": "32bb6a815093bb6b918639a06bbb6070",
+      "title": "Tổng thống Nam Phi kêu gọi doanh nghiệp Việt tăng hợp tác, đầu tư",
+      "link": "https://vnexpress.net/tong-thong-nam-phi-keu-goi-doanh-nghiep-viet-tang-hop-tac-dau-tu-4955509.html",
+      "summary": "Tổng thống Nam Phi kêu gọi doanh nghiệp Việt Nam nắm bắt cơ hội, thiết lập quan hệ hợp tác cụ thể với các doanh nghiệp Nam Phi qua những hợp đồng, dự án thiết thực.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T13:00:20+07:00",
+      "fetched": "2025-10-24T21:17:19.009116+07:00"
+    },
+    {
+      "id": "e0e6c59c7fcaa6a9df8284673d963a67",
+      "title": "Tôi nhất quyết cho con học trường công dù dư tiền vào trường quốc tế",
+      "link": "https://vnexpress.net/toi-nhat-quyet-cho-con-hoc-truong-cong-du-du-tien-vao-truong-quoc-te-4955420.html",
+      "summary": "Tôi là sản phẩm của nền giáo dục công lập, vậy mà khi ra nước ngoài học tập và làm việc, vẫn không hề thua kém bạn bè quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:00:00+07:00",
+      "fetched": "2025-10-24T21:17:10.616252+07:00"
+    },
+    {
+      "id": "8a999654ae434f87c4a01210b7800a4b",
+      "title": "VNPT đưa loa thanh toán thông minh đến gần tiểu thương",
+      "link": "https://vnexpress.net/vnpt-dua-loa-thanh-toan-thong-minh-den-gan-tieu-thuong-4955501.html",
+      "summary": "VNPT mang đến giải pháp thanh toán hiện đại với chiếc loa nhỏ gọn, kết nối ổn định và hỗ trợ tận tâm, giúp tiểu thương, hộ kinh doanh an tâm trong từng giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:00:00+07:00",
+      "fetched": "2025-10-24T21:17:10.616430+07:00"
+    },
+    {
+      "id": "4f708c72683766cc180d61d55f36678e",
+      "title": "Coteccons làm tổng thầu thi công dự án Jade Square",
+      "link": "https://vnexpress.net/coteccons-lam-tong-thau-thi-cong-du-an-jade-square-4955302.html",
+      "summary": "Công ty CP Bất động sản JS công bố Coteccons làm tổng thầu thi công dự án Jade Square trong sự kiện ngày 24/10 tại trung tâm hội nghị quốc tế VICC, khu đô thị Nam An Khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:00:00+07:00",
+      "fetched": "2025-10-24T21:17:10.616596+07:00"
+    },
+    {
+      "id": "a690f71d50fcca99af41bc6ccf206b66",
+      "title": "Mùa thu và những mẫu túi tote không thể bỏ qua",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-thu-va-nhung-mau-tui-tote-khong-the-bo-qua-185251024101810104.htm",
+      "summary": "Nhắc đến những món phụ kiện vừa thời thượng, vừa tiện dụng chắc chắn không thể không kể đến những mẫu túi tote sành điệu và phóng khoáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T13:00:00+07:00",
+      "fetched": "2025-10-24T21:17:14.539975+07:00"
+    },
+    {
+      "id": "04452b543e94163f8ea3af6218816dda",
+      "title": "Nga dọa đáp trả loạt lệnh trừng phạt của phương Tây",
+      "link": "https://vnexpress.net/nga-doa-dap-tra-loat-lenh-trung-phat-cua-phuong-tay-4955482.html",
+      "summary": "Điện Kremlin cho biết Nga đang phân tích các lệnh trừng phạt của phương Tây và sẽ hành động để bảo vệ lợi ích quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:52:21+07:00",
+      "fetched": "2025-10-24T21:17:10.616760+07:00"
+    },
+    {
+      "id": "04452b543e94163f8ea3af6218816dda",
+      "title": "Nga dọa đáp trả loạt lệnh trừng phạt của phương Tây",
+      "link": "https://vnexpress.net/nga-doa-dap-tra-loat-lenh-trung-phat-cua-phuong-tay-4955482.html",
+      "summary": "Điện Kremlin cho biết Nga đang phân tích các lệnh trừng phạt của phương Tây và sẽ hành động để bảo vệ lợi ích quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T12:52:21+07:00",
+      "fetched": "2025-10-24T21:17:17.290880+07:00"
+    },
+    {
+      "id": "c4d56b89bf4f33592624e915e86e7ea4",
+      "title": "Đảo nào bị hai nước tranh giành bằng rượu?",
+      "link": "https://vnexpress.net/dao-nao-bi-hai-nuoc-tranh-gianh-bang-ruou-4955484.html",
+      "summary": "Một đảo hoang rộng khoảng 1,3 km2 là nơi diễn ra cuộc chiến giành lãnh thổ bằng rượu - kỳ lạ nhất thế giới. Bạn có biết đây là đảo nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:48:43+07:00",
+      "fetched": "2025-10-24T21:17:10.616913+07:00"
+    },
+    {
+      "id": "0170cf85d2633f81b3ab3f3e8a03771e",
+      "title": "Yêu cầu làm rõ trách nhiệm vụ rò điện công viên khiến 2 trẻ tử vong",
+      "link": "https://vnexpress.net/yeu-cau-lam-ro-trach-nhiem-vu-ro-dien-cong-vien-khien-2-tre-tu-vong-4955386.html",
+      "summary": "UBND TP Cần Thơ chỉ đạo điều tra, làm rõ nguyên nhân và trách nhiệm vụ rò điện tại công viên Nguyễn Phương Danh (xã Phong Điền) khiến hai trẻ tử vong vào tối qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:41:20+07:00",
+      "fetched": "2025-10-24T21:17:10.617072+07:00"
+    },
+    {
       "id": "3612d3978208b8fbcdbf3bcf36246225",
       "title": "Gần đến ngày thông xe kỹ thuật, vẫn còn nhiều nhà thầu vi phạm cam kết",
       "link": "https://thanhnien.vn/gan-den-ngay-thong-xe-ky-thuat-van-con-nhieu-nha-thau-vi-pham-cam-ket-185251024182736094.htm",
@@ -611,6 +941,26 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T12:34:00+07:00",
       "fetched": "2025-10-24T19:36:22.814967+07:00"
+    },
+    {
+      "id": "ab810be72dfdfd05bbf2fa2d714594e2",
+      "title": "Bơi qua sông sang Thái Lan trốn khỏi ổ lừa đảo Myanmar",
+      "link": "https://vnexpress.net/boi-qua-song-sang-thai-lan-tron-khoi-o-lua-dao-myanmar-4955499.html",
+      "summary": "Nhóm người ôm thùng xốp, bơi qua sông Moei để vào Thái Lan, sau khi quân đội Myanmar đột kích trung tâm lừa đảo trực tuyến KK Park.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:31:31+07:00",
+      "fetched": "2025-10-24T21:17:10.617224+07:00"
+    },
+    {
+      "id": "91ac05701108bbaad14d7ea2572f679e",
+      "title": "Garmin ứng dụng công nghệ MicroLED trên đồng hồ thông minh",
+      "link": "https://vnexpress.net/garmin-ung-dung-cong-nghe-microled-tren-dong-ho-thong-minh-4953980.html",
+      "summary": "fēnix 8 MicroLED là dòng đồng hồ đầu tiên của Garmin ứng dụng công nghệ hiển thị MicroLED, hướng đến nhóm người dùng thường xuyên luyện tập và hoạt động ngoài trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:30:00+07:00",
+      "fetched": "2025-10-24T21:17:10.617382+07:00"
     },
     {
       "id": "e527bb390cd611af9322ace6bf919c97",
@@ -641,6 +991,26 @@ window.newsData_2025_10_24 = {
       "category": "Kinh doanh",
       "published": "2025-10-24T12:17:48+07:00",
       "fetched": "2025-10-24T19:36:26.686724+07:00"
+    },
+    {
+      "id": "c210d70ee4831a765dddaef183b38763",
+      "title": "Ít sản phẩm vật liệu xây dựng minh bạch thông tin bền vững",
+      "link": "https://vnexpress.net/it-san-pham-vat-lieu-xay-dung-minh-bach-thong-tin-ben-vung-4955370.html",
+      "summary": "Doanh nghiệp vật liệu xây dựng Việt Nam mới có gần 40 Tuyên bố Sản phẩm Môi trường (EPD) - công cụ về minh bạch thông tin giảm phát thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T12:17:48+07:00",
+      "fetched": "2025-10-24T21:17:10.617570+07:00"
+    },
+    {
+      "id": "c210d70ee4831a765dddaef183b38763",
+      "title": "Ít sản phẩm vật liệu xây dựng minh bạch thông tin bền vững",
+      "link": "https://vnexpress.net/it-san-pham-vat-lieu-xay-dung-minh-bach-thong-tin-ben-vung-4955370.html",
+      "summary": "Doanh nghiệp vật liệu xây dựng Việt Nam mới có gần 40 Tuyên bố Sản phẩm Môi trường (EPD) - công cụ về minh bạch thông tin giảm phát thải.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T12:17:48+07:00",
+      "fetched": "2025-10-24T21:17:19.009289+07:00"
     },
     {
       "id": "cd5b67f10fd771272ef8b326a9b40564",
