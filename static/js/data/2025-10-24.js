@@ -1,7 +1,137 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T05:15:18.006370+07:00",
+  "lastUpdated": "2025-10-24T08:12:59.096450+07:00",
   "articles": [
+    {
+      "id": "c2c88589e813d0e901d8c5bd66d56699",
+      "title": "Rúng động: Cầu thủ và HLV ở NBA bị FBI bắt giữ vì cờ bạc bất hợp pháp do mafia hậu thuẫn",
+      "link": "https://tuoitre.vn/rung-dong-cau-thu-va-hlv-o-nba-bi-fbi-bat-giu-vi-co-bac-bat-hop-phap-do-mafia-hau-thuan-20251024031651241.htm",
+      "summary": "FBI đã bắt giữ HLV Chauncey Billups của Portland Trail Blazers và cầu thủ Terry Rozier (Miami Heat) cùng với hơn 30 người khác vì cáo buộc gian lận cá cược thể thao và trò chơi poker do các gia đình mafia hậu thuẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.830499+07:00",
+      "fetched": "2025-10-24T08:12:52.830598+07:00"
+    },
+    {
+      "id": "93d06a68432d8603712f7aa4ffb88f07",
+      "title": "Kỷ lục gia marathon thế giới Ruth Chepngetich bị cấm thi đấu 3 năm vì sử dụng doping",
+      "link": "https://tuoitre.vn/ky-luc-gia-marathon-the-gioi-ruth-chepngetich-bi-cam-thi-dau-3-nam-vi-su-dung-doping-2025102404124925.htm",
+      "summary": "Cơ quan liêm chính điền kinh (AIU) đã thông báo nữ kỷ lục gia marathon thế giới Ruth Chepngetich sẽ bị cấm thi đấu 3 năm, sau khi cô thừa nhận vi phạm luật chống doping.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.830391+07:00",
+      "fetched": "2025-10-24T08:12:52.830490+07:00"
+    },
+    {
+      "id": "34253153a1c4be66b92bf7d88eda52e7",
+      "title": "Messi gia hạn hợp đồng với Inter Miami và sẵn sàng cho World Cup 2026",
+      "link": "https://tuoitre.vn/messi-gia-han-hop-dong-voi-inter-miami-va-san-sang-cho-world-cup-2026-2025102403461345.htm",
+      "summary": "Ngôi sao người Argentina Lionel Messi đã gia hạn hợp đồng với Inter Miami đến năm 2028 nhằm có thể đạt phong độ cao nhất cho World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.830283+07:00",
+      "fetched": "2025-10-24T08:12:52.830381+07:00"
+    },
+    {
+      "id": "2b214f1c7490d5ff0e85e084903f7eaa",
+      "title": "Thời tiết hôm nay 24-10: Nam Bộ tăng mưa, Bắc Bộ lạnh, Trung Bộ còn mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-10-nam-bo-tang-mua-bac-bo-lanh-trung-bo-con-mua-to-20251023205222689.htm",
+      "summary": "Hôm nay 24-10, do rãnh áp thấp nên Nam Bộ mưa tăng, Trung Bộ vẫn còn mưa to, còn Bắc Bộ lạnh đến rét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.830167+07:00",
+      "fetched": "2025-10-24T08:12:52.830273+07:00"
+    },
+    {
+      "id": "797e6485aa410d3e3af92a8063fed30d",
+      "title": "Công an giám định 'thật - giả' tờ vé số trúng độc đắc bị rách thế nào?",
+      "link": "https://tuoitre.vn/cong-an-giam-dinh-that-gia-to-ve-so-trung-doc-dac-bi-rach-the-nao-20251023211310972.htm",
+      "summary": "Nhiều người tò mò việc Công an tỉnh Quảng Ngãi giám định thế nào để xác thực thật - giả của tờ vé số độc đắc bị rách. Rất nhiều biện pháp giám định khoa học được áp dụng, đảm bảo tính chính xác tuyệt đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.830059+07:00",
+      "fetched": "2025-10-24T08:12:52.830158+07:00"
+    },
+    {
+      "id": "8604782974f6a1fdc75bc7e3a31e063b",
+      "title": "Khi ông Trump 'vỡ mộng' chấm dứt nhanh cuộc chiến ở Ukraine",
+      "link": "https://tuoitre.vn/khi-ong-trump-vo-mong-cham-dut-nhanh-cuoc-chien-o-ukraine-20251023225301136.htm",
+      "summary": "Sau nhiều lần trao cơ hội cho Nga đàm phán, chính quyền Tổng thống Trump đã có động thái cứng rắn đầu tiên trong nhiệm kỳ thứ hai: trừng phạt nặng nề ngành dầu mỏ Nga - huyết mạch của nền kinh tế Matxcơva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829948+07:00",
+      "fetched": "2025-10-24T08:12:52.830049+07:00"
+    },
+    {
+      "id": "d2e7155ecd18695355a01c91d14e6005",
+      "title": "Hơn 74.400 chuyến bay bị chậm, hủy chuyến: Mua vé máy bay kèm nỗi lo delay",
+      "link": "https://tuoitre.vn/hon-74-400-chuyen-bay-bi-cham-huy-chuyen-mua-ve-may-bay-kem-noi-lo-delay-20251023225848478.htm",
+      "summary": "Nhiều hành khách than phiền, mỗi lần mua vé máy bay là thêm một lần thấp thỏm không biết chuyến bay của mình có cất cánh đúng giờ hay lại ngồi nhìn bảng điện tử nhấp nháy, mong đừng bị trễ thêm lần nữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829837+07:00",
+      "fetched": "2025-10-24T08:12:52.829939+07:00"
+    },
+    {
+      "id": "7422ac12a30428bce214f16851952c65",
+      "title": "Chạm văn Hàn - Kết nối trái tim",
+      "link": "https://tuoitre.vn/cham-van-han-ket-noi-trai-tim-20251024000658379.htm",
+      "summary": "Ngày 23-10, Ngày Văn học Hàn Quốc 2025 được tổ chức tại Trường đại học Văn Lang (TP.HCM), hướng đến mục tiêu tăng cường giao lưu và hiểu biết văn hóa giữa hai quốc gia Hàn Quốc và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829717+07:00",
+      "fetched": "2025-10-24T08:12:52.829827+07:00"
+    },
+    {
+      "id": "b077ba2d24b9a67d426327cc4c3e3425",
+      "title": "Lịch trực tiếp vòng 5 Giải hạng nhất: Trường Tươi Đồng Nai chạm trán Bắc Ninh",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-5-giai-hang-nhat-truong-tuoi-dong-nai-cham-tran-bac-ninh-20251023171552748.htm",
+      "summary": "Tâm điểm của vòng 5 Giải hạng nhất quốc gia 2025-2026 sẽ là cuộc đấu giữa Trường Tươi Đồng Nai và CLB Bắc Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829607+07:00",
+      "fetched": "2025-10-24T08:12:52.829707+07:00"
+    },
+    {
+      "id": "36d5d2d2c11d87e6ca8fb9cb226ee3f4",
+      "title": "Tin tức sáng 24-10: Quốc hội bắt đầu thực hiện quy trình công tác nhân sự",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-10-quoc-hoi-bat-dau-thuc-hien-quy-trinh-cong-tac-nhan-su-20251023174153475.htm",
+      "summary": "Một số tin tức đáng chú ý: Giá trị trái phiếu doanh nghiệp sụt giảm; Cấp xã phải lập danh sách cấp thẻ bảo hiểm y tế cho trẻ khi cấp giấy khai sinh; Phẫu thuật cấp cứu nhiều ca tại Côn Đảo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829494+07:00",
+      "fetched": "2025-10-24T08:12:52.829597+07:00"
+    },
+    {
+      "id": "5268976d3bce9cfbaaf52c6fe1f2d466",
+      "title": "Tin tức thế giới 24-10: Ông Trump gặp ông Tập sáng 30-10; Ukraine nhận 1.000 thi thể binh sĩ từ Nga",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-24-10-ong-trump-gap-ong-tap-sang-30-10-ukraine-nhan-1-000-thi-the-binh-si-tu-nga-20251024060054916.htm",
+      "summary": "Ông Trump gặp ông Tập sáng 30-10 tại Hàn Quốc; Ông Putin cảnh báo sẽ đáp trả \"áp đảo\" nếu Ukraine dùng tên lửa Tomahawk của Mỹ đánh Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829375+07:00",
+      "fetched": "2025-10-24T08:12:52.829485+07:00"
+    },
+    {
+      "id": "82b0aa5c0422f07b98f7219e0052c939",
+      "title": "Trung Quốc chọn dừa Việt Nam, nông dân Thái Lan đứng ngồi không yên",
+      "link": "https://tuoitre.vn/trung-quoc-chon-dua-viet-nam-nong-dan-thai-lan-dung-ngoi-khong-yen-20251023175413883.htm",
+      "summary": "Ngành dừa dứa Thái Lan đang đối mặt với cơn khủng hoảng nghiêm trọng khi đối thủ Việt Nam giành được khách hàng “béo bở” trước đây của họ - Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829246+07:00",
+      "fetched": "2025-10-24T08:12:52.829363+07:00"
+    },
+    {
+      "id": "aef86be3ffbb02ec9869219896a088b3",
+      "title": "Hát xẩm kết hợp rap, đội của Đoan Trang giành giải quán quân Đấu trường ngôi sao 2025",
+      "link": "https://tuoitre.vn/hat-xam-ket-hop-rap-doi-cua-doan-trang-gianh-giai-quan-quan-dau-truong-ngoi-sao-2025-20251024060115883.htm",
+      "summary": "Ca sĩ Trương Thúy Quỳnh, Trương Bảo Yến thuộc đội Đoan Trang giành ngôi vị quán quân Đấu trường ngôi sao 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T08:12:52.829016+07:00",
+      "fetched": "2025-10-24T08:12:52.829220+07:00"
+    },
     {
       "id": "b99b26313197b89c32d92824819db666",
       "title": "Thái Lan truy dấu Prince Group, khẳng định không có chính trị gia nào liên quan",
@@ -151,6 +281,366 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T01:24:37.353984+07:00",
       "fetched": "2025-10-24T01:24:37.354190+07:00"
+    },
+    {
+      "id": "6f6d2312fa4cc92217061d0e37c842bc",
+      "title": "Becamex khởi động hàng loạt dự án tại Gia Lai",
+      "link": "https://thanhnien.vn/becamex-khoi-dong-hang-loat-du-an-tai-gia-lai-185251023132858133.htm",
+      "summary": "Becamex Bình Định khởi động loạt dự án tại Gia Lai, tạo động lực mới trong thu hút nhà đầu tư Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:11:00+07:00",
+      "fetched": "2025-10-24T08:12:50.311063+07:00"
+    },
+    {
+      "id": "c93b942c029d38fccecfb59b66c0caf4",
+      "title": "Hố sâu ven đường",
+      "link": "https://thanhnien.vn/ho-sau-ven-duong-185251022194319974.htm",
+      "summary": "Bạn đọc phản ánh qua Báo Thanh Niên, trên QL51, tại Km 36, thuộc xã Phước Thái (trước đây thuộc H.Long Thành), tỉnh Đồng Nai, hiện có những hố sâu trên mương thoát nước, do bị sụp đan mà tạo thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:08:00+07:00",
+      "fetched": "2025-10-24T08:12:51.790536+07:00"
+    },
+    {
+      "id": "4d1488e39507cd353a6df5d4035f1fdf",
+      "title": "Đá dăm lởm chởm và bụi bặm",
+      "link": "https://thanhnien.vn/da-dam-lom-chom-va-bui-bam-185251023173207284.htm",
+      "summary": "Bạn đọc phản ánh thời gian gần đây trên đường Trung Mỹ, xã Hóc Môn (trước đây thuộc xã Tân Xuân, H.Hóc Môn), TP.HCM, nhiều xe ben chở vật liệu không che chắn cẩn thận làm rơi đất đá xuống đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:07:00+07:00",
+      "fetched": "2025-10-24T08:12:51.790957+07:00"
+    },
+    {
+      "id": "ae29d47b284d7c434b606f41e84ff14d",
+      "title": "Rác tràn lan trên đường và trước trường học",
+      "link": "https://thanhnien.vn/rac-tran-lan-tren-duong-va-truoc-truong-hoc-18525102317283944.htm",
+      "summary": "Mỗi lần đi qua đường Trường Sa, P.Gia Định (trước đây thuộc P.3, Q.Bình Thạnh), TP.HCM, nhiều người rất khó chịu bởi bãi rác tự phát đổ tràn lan xuống đường, gây ô nhiễm môi trường và vô cùng nhếch nhác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:07:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791107+07:00"
+    },
+    {
+      "id": "1cd5a0144e7eb861edb13ac3ccc9e46a",
+      "title": "Báo Thanh Niên khởi công 2 căn nhà nhân ái tại Đồng Nai",
+      "link": "https://thanhnien.vn/bao-thanh-nien-khoi-cong-2-can-nha-nhan-ai-tai-dong-nai-185251022194001002.htm",
+      "summary": "Sáng 22.10, Báo Thanh Niên phối hợp Phòng khám đa khoa Tâm Đức và UBND xã Đồng Phú (Đồng Nai) khởi công 2 căn nhà nhân ái cho gia đình ông Nguyễn Văn Sáng và chị Cao Thị Thái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:07:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791262+07:00"
+    },
+    {
+      "id": "64de8e97bc7834650bcb408c065cadc4",
+      "title": "Trường mầm non xây dở rồi bỏ hoang",
+      "link": "https://thanhnien.vn/truong-mam-non-xay-do-roi-bo-hoang-185251023172514235.htm",
+      "summary": "Khi đã xây dựng được khoảng 90% khối lượng công trình, dự án Trường mầm non Hà Đông (xã Hà Trung, Thanh Hóa) lại dừng thi công hơn 1 năm qua. Trường mới dở dang, hoang phí còn trường cũ - nơi hàng trăm học sinh mầm non đang theo học thì xuống cấp, chật hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:06:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791396+07:00"
+    },
+    {
+      "id": "9dd95300a031362ac675a029bac56a18",
+      "title": "Giá vàng thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-4955147.html",
+      "summary": "Sau 2 phiên giảm liên tiếp, giá vàng thế giới đảo chiều tăng gần 30 USD một ounce, do căng thẳng địa chính trị mới giữa các nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:02:26+07:00",
+      "fetched": "2025-10-24T08:12:47.600151+07:00"
+    },
+    {
+      "id": "9dd95300a031362ac675a029bac56a18",
+      "title": "Giá vàng thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-tro-lai-4955147.html",
+      "summary": "Sau 2 phiên giảm liên tiếp, giá vàng thế giới đảo chiều tăng gần 30 USD một ounce, do căng thẳng địa chính trị mới giữa các nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-24T01:02:26+07:00",
+      "fetched": "2025-10-24T08:12:55.192754+07:00"
+    },
+    {
+      "id": "dca3ba0889f56fa85b46c8f4d995ed14",
+      "title": "Khách Trung Quốc chuộng xu hướng du lịch 'đặc nhiệm'",
+      "link": "https://vnexpress.net/khach-trung-quoc-chuong-xu-huong-du-lich-dac-nhiem-4954719.html",
+      "summary": "Giới trẻ Trung Quốc chuộng du lịch \"đặc nhiệm\" với lịch trình dày đặc, chi tiêu tiết kiệm, lấy cảm hứng từ tinh thần kỷ luật quân đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:02+07:00",
+      "fetched": "2025-10-24T08:12:47.600324+07:00"
+    },
+    {
+      "id": "a3ec01c6f7789c90a76638689be55aef",
+      "title": "Vợt trúng 'mỏ vàng' mùa nước lũ",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-vot-trung-mo-vang-mua-nuoc-lu-4954914.html",
+      "summary": "Nước lũ không chỉ chở phù sa mà còn mang đến 'mùa vàng' của dân săn cá, những con cá chép béo ngậy, vàng óng như món quà trời ban.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.600466+07:00"
+    },
+    {
+      "id": "243f3849118f1b2480d0551ba6dffad0",
+      "title": "Nguy cơ biến chứng do cúm mùa ở mẹ bầu và trẻ nhỏ",
+      "link": "https://vnexpress.net/nguy-co-bien-chung-do-cum-mua-o-me-bau-va-tre-nho-4955059.html",
+      "summary": "Mẹ bầu và trẻ nhỏ là những nhóm dễ bị lây nhiễm cúm mùa nhất, nếu bị nhiễm bệnh dễ trở nặng, đặc biệt mẹ bầu nhiễm cúm mùa có thể khiến thai nhi dị tật, sinh non.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.600603+07:00"
+    },
+    {
+      "id": "f87fc216b72c0634ca247b1215687158",
+      "title": "SJ Group làm vỉa hè rộng tới 7,5 m tại Vista Nam An Khánh",
+      "link": "https://vnexpress.net/sj-group-lam-via-he-rong-toi-7-5-m-tai-vista-nam-an-khanh-4955012.html",
+      "summary": "Chủ đầu tư Vista Nam An Khánh thiết kế vỉa hè trên các tuyến chính rộng 7,5 m, nhằm tăng không gian đi bộ, cây xanh và hỗ trợ hoạt động thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.600736+07:00"
+    },
+    {
+      "id": "d95b01573ecbc7173a355a9412509f7e",
+      "title": "Bác sĩ Việt Nam phẫu thuật gân gót thành công cho sĩ quan Mông Cổ ở Nam Sudan",
+      "link": "https://thanhnien.vn/bac-si-viet-nam-phau-thuat-gan-got-thanh-cong-cho-si-quan-mong-co-o-nam-sudan-185251024002347445.htm",
+      "summary": "Các bác sĩ của Bệnh viện dã chiến cấp 2 số 7 tại Nam Sudan vừa thực hiện thành công ca phẫu thuật nối gân gót chân cho một sĩ quan chỉ huy Mông Cổ, đánh dấu bước tiến quan trọng trong năng lực y tế của lực lượng gìn giữ hòa bình Việt Nam tại Liên Hiệp Quốc",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791529+07:00"
+    },
+    {
+      "id": "424b2fa96ddbad30a91343a1c06cefff",
+      "title": "Xạ trị và miễn dịch ‘cặp đôi hoàn hảo’ trong điều trị bệnh K",
+      "link": "https://thanhnien.vn/xa-tri-va-mien-dich-cap-doi-hoan-hao-trong-dieu-tri-benh-k-185251023185754461.htm",
+      "summary": "Mỗi năm, Việt Nam ghi nhận hơn 180.000 ca ung thư (GLOBOCAN 2022), phần lớn phát hiện muộn khiến việc điều trị khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791659+07:00"
+    },
+    {
+      "id": "9bc7e648192bf6909f4095f00af92574",
+      "title": "Cách lên đồ sang xịn với màu trắng tinh khôi mà không sợ nhạt nhòa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-len-do-sang-xin-voi-mau-trang-tinh-khoi-ma-khong-so-nhat-nhoa-185251022144617957.htm",
+      "summary": "Gam màu trắng luôn là biểu tượng của sự tinh khôi và thanh lịch, nhưng cũng dễ khiến người mặc trông nhạt nhòa nếu thiếu điểm nhấn. Chỉ cần vài bí quyết nhỏ, nàng sẽ biến sắc trắng trở thành điểm sáng cuốn hút trong mọi bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T01:00:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791791+07:00"
+    },
+    {
+      "id": "2e4eccaed890f49baf3297f74ac4bfc8",
+      "title": "Rộ tin CLB của 7 cầu thủ nhập tịch Malaysia sẽ đòi Malaysia bồi thường: FAM càng tổn thất nặng?",
+      "link": "https://thanhnien.vn/ro-tin-clb-cua-7-cau-thu-nhap-tich-malaysia-se-doi-malaysia-boi-thuong-fam-cang-ton-that-nang-185251024074749031.htm",
+      "summary": "Khi thời hạn 30.10 - ngày FIFA ra phán quyết về đơn kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) - đang đến gần, 7 cầu thủ liên quan đến bê bối tư cách thi đấu vẫn chọn im lặng, khiến dư luận trong nước thêm dậy sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:59:00+07:00",
+      "fetched": "2025-10-24T08:12:51.791920+07:00"
+    },
+    {
+      "id": "6ff93701da4e564f0846be8744db2a93",
+      "title": "Phụ nữ, giới và văn chương qua góc nhìn của nhà văn Camille Laurens",
+      "link": "https://thanhnien.vn/phu-nu-gioi-va-van-chuong-qua-goc-nhin-cua-nha-van-camille-laurens-185251023231425207.htm",
+      "summary": "Tối 23.10, Viện Pháp phối hợp Nhà xuất bản Phụ nữ Việt Nam, Khoa Văn học - Trường ĐH Khoa học xã hội và nhân văn (ĐH Quốc gia TP.HCM) tổ chức buổi tọa đàm Phụ nữ, giới và văn chương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:53:00+07:00",
+      "fetched": "2025-10-24T08:12:51.792049+07:00"
+    },
+    {
+      "id": "240b8ecd4ef65f90a68b9fe24d90ed1b",
+      "title": "Mạng xã hội - từ nơi kết nối con người thành 'thiên đường AI'",
+      "link": "https://vnexpress.net/mang-xa-hoi-tu-noi-ket-noi-con-nguoi-thanh-thien-duong-ai-4955063.html",
+      "summary": "Em bé chạy trốn khủng long, mèo đứng hai chân nhảy múa, cảnh sát bắt giữ mì ống phô mai - những video kỳ quái đang xuất hiện khắp mạng xã hội nhờ AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:52:02+07:00",
+      "fetched": "2025-10-24T08:12:47.600868+07:00"
+    },
+    {
+      "id": "3b7fb0568ffc0b88870dc5e65a77a3e6",
+      "title": "Khi show thực tế vượt khỏi khuôn khổ giải trí",
+      "link": "https://thanhnien.vn/khi-show-thuc-te-vuot-khoi-khuon-kho-giai-tri-185251023232010075.htm",
+      "summary": "Với sự phát triển của nền công nghiệp giải trí trong nước cùng tiêu chuẩn thưởng thức ngày càng cao của khán giả, nhiều show thực tế ngày nay không chỉ mang đến giá trị giải trí mà còn hướng đến những mục tiêu sâu sắc hơn, như: lan tỏa lối sống tích cực, hành động vì cộng đồng, tôn vinh văn hóa truy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:52:00+07:00",
+      "fetched": "2025-10-24T08:12:51.792181+07:00"
+    },
+    {
+      "id": "5d4fdbd0cc331060437bf789a9cbcf28",
+      "title": "Người mẫu OnlyFans kiếm nhiều tiền hơn Haaland",
+      "link": "https://vnexpress.net/nguoi-mau-onlyfans-kiem-nhieu-tien-hon-haaland-4955131.html",
+      "summary": "Sophie Rain hé lộ mức thu nhập 40 triệu USD mỗi năm, nhiều hơn tiền đạo Erling Haaland - cầu thủ nhận lương cao nhất Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:51:24+07:00",
+      "fetched": "2025-10-24T08:12:47.601003+07:00"
+    },
+    {
+      "id": "1a9164110ade732d486bc251f98dc080",
+      "title": "NATO cáo buộc máy bay quân sự Nga xâm nhập, điều tiêm kích ứng phó",
+      "link": "https://thanhnien.vn/nato-to-cao-may-bay-quan-su-nga-xam-nhap-dieu-tiem-kich-ung-pho-185251024070207029.htm",
+      "summary": "Lithuania tố cáo 2 máy bay quân sự Nga đã bay vào không phận nước này và đã yêu cầu NATO phản ứng trong khi Moscow bác bỏ thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:51:00+07:00",
+      "fetched": "2025-10-24T08:12:51.792320+07:00"
+    },
+    {
+      "id": "09da3f18982b1c60157c060f129c4967",
+      "title": "Bóng dáng Champa trong hồn thơ Bàn Thành tứ hữu",
+      "link": "https://thanhnien.vn/bong-dang-champa-trong-hon-tho-ban-thanh-tu-huu-185251023230501315.htm",
+      "summary": "Thành Đồ Bàn (thời Tây Sơn gọi là thành Hoàng Đế, nay thuộc P.An Nhơn, Gia Lai) không chỉ là chứng tích lịch sử, nơi rêu phong còn phảng phất hơi thở Champa, mà còn được xem như \"thánh địa\" của thi ca và tình bạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:51:00+07:00",
+      "fetched": "2025-10-24T08:12:51.792450+07:00"
+    },
+    {
+      "id": "43e2be79dc40f2edd869e600d96625e2",
+      "title": "Toàn bộ Cánh Đông của Nhà Trắng đã bị phá hủy",
+      "link": "https://thanhnien.vn/toan-bo-canh-dong-cua-nha-trang-da-bi-pha-huy-185251024064258706.htm",
+      "summary": "Toàn bộ Cánh Đông của Nhà Trắng, bao gồm hành lang có hàng cột nổi tiếng, đã bị tháo dỡ, trong bối cảnh Tổng thống Donald Trump Mỹ đẩy nhanh kế hoạch khởi công xây dựng đại sảnh khiêu vũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:50:00+07:00",
+      "fetched": "2025-10-24T08:12:51.792580+07:00"
+    },
+    {
+      "id": "4979afb59053c734218cd9ec9fa7773f",
+      "title": "Ông Trump dọa tiêu diệt 'những kẻ buôn ma túy trên đất liền'",
+      "link": "https://vnexpress.net/ong-trump-doa-tieu-diet-nhung-ke-buon-ma-tuy-tren-dat-lien-4955142.html",
+      "summary": "Tổng thống Trump cảnh báo rằng Mỹ sẽ tập kích những nghi phạm vận chuyển ma túy trên bộ và thông báo cho quốc hội về hoạt động này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:44:46+07:00",
+      "fetched": "2025-10-24T08:12:47.601133+07:00"
+    },
+    {
+      "id": "4979afb59053c734218cd9ec9fa7773f",
+      "title": "Ông Trump dọa tiêu diệt 'những kẻ buôn ma túy trên đất liền'",
+      "link": "https://vnexpress.net/ong-trump-doa-tieu-diet-nhung-ke-buon-ma-tuy-tren-dat-lien-4955142.html",
+      "summary": "Tổng thống Trump cảnh báo rằng Mỹ sẽ tập kích những nghi phạm vận chuyển ma túy trên bộ và thông báo cho quốc hội về hoạt động này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T00:44:46+07:00",
+      "fetched": "2025-10-24T08:12:54.238451+07:00"
+    },
+    {
+      "id": "a8801319b797164c00729c9f4ebfb97d",
+      "title": "Aston Villa thua sốc dù đội hình đắt gấp 25 lần đối thủ",
+      "link": "https://vnexpress.net/aston-villa-thua-soc-du-doi-hinh-dat-gap-25-lan-doi-thu-4955144.html",
+      "summary": "Đại diện Ngoại hạng Anh thua ngược 1-2 trên sân Go Ahead Eagles ở lượt ba vòng bảng Europa League tối 23/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:21:43+07:00",
+      "fetched": "2025-10-24T08:12:47.601279+07:00"
+    },
+    {
+      "id": "a8801319b797164c00729c9f4ebfb97d",
+      "title": "Aston Villa thua sốc dù đội hình đắt gấp 25 lần đối thủ",
+      "link": "https://vnexpress.net/aston-villa-thua-soc-du-doi-hinh-dat-gap-25-lan-doi-thu-4955144.html",
+      "summary": "Đại diện Ngoại hạng Anh thua ngược 1-2 trên sân Go Ahead Eagles ở lượt ba vòng bảng Europa League tối 23/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T00:21:43+07:00",
+      "fetched": "2025-10-24T08:12:59.091042+07:00"
+    },
+    {
+      "id": "291c7994bd8ece90b446ad344bf86edf",
+      "title": "Nhà Trắng thông báo thời điểm ông Trump gặp ông Tập",
+      "link": "https://vnexpress.net/nha-trang-thong-bao-thoi-diem-ong-trump-gap-ong-tap-4955129.html",
+      "summary": "Nhà Trắng thông báo Tổng thống Trump sẽ gặp Chủ tịch Tập ngày 30/10, bên lề hội nghị thượng đỉnh APEC tại Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:05:39+07:00",
+      "fetched": "2025-10-24T08:12:47.601408+07:00"
+    },
+    {
+      "id": "291c7994bd8ece90b446ad344bf86edf",
+      "title": "Nhà Trắng thông báo thời điểm ông Trump gặp ông Tập",
+      "link": "https://vnexpress.net/nha-trang-thong-bao-thoi-diem-ong-trump-gap-ong-tap-4955129.html",
+      "summary": "Nhà Trắng thông báo Tổng thống Trump sẽ gặp Chủ tịch Tập ngày 30/10, bên lề hội nghị thượng đỉnh APEC tại Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T00:05:39+07:00",
+      "fetched": "2025-10-24T08:12:54.238611+07:00"
+    },
+    {
+      "id": "47f01749ae52b8b8ef6150096ccdc960",
+      "title": "Hôm nay Quốc hội bắt đầu xem xét công tác nhân sự",
+      "link": "https://vnexpress.net/hom-nay-quoc-hoi-bat-dau-xem-xet-cong-tac-nhan-su-4955139.html",
+      "summary": "Sáng 23/10, Quốc hội thảo luận ở hội trường về các nội dung còn ý kiến khác nhau của dự thảo Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân (sửa đổi); buổi chiều họp riêng để thực hiện công tác nhân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.601545+07:00"
+    },
+    {
+      "id": "8ac4dc8be5f440fb4b255cd337bfd978",
+      "title": "Ca mổ hiểm hóc cắt u trong tim cô gái",
+      "link": "https://vnexpress.net/ca-mo-di-tren-day-cuu-co-gai-mang-u-hiem-trong-tim-4955093.html",
+      "summary": "Cô gái 25 tuổi mang khối u nhầy ở tâm thất là vị trí hiểm hóc khó tiếp cận, bác sĩ Bệnh viện Chợ Rẫy mất 4 giờ phẫu thuật trong buồng tim để bóc tách u thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.601677+07:00"
+    },
+    {
+      "id": "f8ad5b412f104473b5fc96c42ea088a3",
+      "title": "Những hộ chiếu xếp cuối bảng 'quyền lực nhất thế giới'",
+      "link": "https://vnexpress.net/nhung-ho-chieu-xep-cuoi-bang-quyen-luc-nhat-the-gioi-4954975.html",
+      "summary": "Singapore có hộ chiếu \"quyền lực nhất thế giới\" khi được 198 nơi miễn thị thực, trong khi Afghanistan xếp cuối bảng, chỉ với 24 điểm đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.601810+07:00"
+    },
+    {
+      "id": "bb89d8860adf239a4b971bf0b5ef6627",
+      "title": "Rolls-Royce Phantom Centenary - tinh hoa 100 năm sedan siêu sang",
+      "link": "https://vnexpress.net/rolls-royce-phantom-centenary-tinh-hoa-100-nam-sedan-sieu-sang-4954941.html",
+      "summary": "Mẫu sedan siêu sang bản đặc biệt trang trí vàng nguyên khối, tôn vinh nghề thủ công, sản xuất giới hạn 25 xe toàn thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T00:00:00+07:00",
+      "fetched": "2025-10-24T08:12:47.601938+07:00"
+    },
+    {
+      "id": "0c735b81d7d661a399206a048076292f",
+      "title": "Apple có thể ra ba mẫu iPhone hoàn toàn mới",
+      "link": "https://vnexpress.net/apple-co-the-ra-ba-mau-iphone-hoan-toan-moi-4954654.html",
+      "summary": "Một số nguồn tin cho biết Apple đang lên kế hoạch thay đổi hoàn toàn iPhone tương lai bằng việc giới thiệu các dòng mới trong ba năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T23:40:00+07:00",
+      "fetched": "2025-10-24T08:12:47.602073+07:00"
+    },
+    {
+      "id": "0c735b81d7d661a399206a048076292f",
+      "title": "Apple có thể ra ba mẫu iPhone hoàn toàn mới",
+      "link": "https://vnexpress.net/apple-co-the-ra-ba-mau-iphone-hoan-toan-moi-4954654.html",
+      "summary": "Một số nguồn tin cho biết Apple đang lên kế hoạch thay đổi hoàn toàn iPhone tương lai bằng việc giới thiệu các dòng mới trong ba năm tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-23T23:40:00+07:00",
+      "fetched": "2025-10-24T08:12:57.607799+07:00"
+    },
+    {
+      "id": "f510a0d9ca22a6c33d56de919bb8686f",
+      "title": "Ông Putin: Lệnh trừng phạt mới của Mỹ sẽ ít ảnh hưởng tới kinh tế Nga",
+      "link": "https://vnexpress.net/ong-putin-lenh-trung-phat-moi-cua-my-se-it-anh-huong-toi-kinh-te-nga-4955124.html",
+      "summary": "Ông Putin cho rằng lệnh trừng phạt Rosneft và Lukoil rất nghiêm trọng, nhưng ít ảnh hưởng tới kinh tế Nga và có thể gây tác động ngược đến Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-23T23:29:48+07:00",
+      "fetched": "2025-10-24T08:12:54.238756+07:00"
     },
     {
       "id": "bccf8f8077c0d2550288537d79ce727e",
