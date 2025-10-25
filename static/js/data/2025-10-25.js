@@ -1,7 +1,157 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T15:19:21.058994+07:00",
+  "lastUpdated": "2025-10-25T17:15:32.155962+07:00",
   "articles": [
+    {
+      "id": "6dfac487cf66c6973c4d268301276ba1",
+      "title": "Nghệ sĩ Tự Long livestream bán nông sản, khách chốt đơn 6 tấn gạo ST25",
+      "link": "https://tuoitre.vn/nghe-si-tu-long-livestream-ban-nong-san-khach-chot-don-6-tan-gao-st25-20251025133940218.htm",
+      "summary": "Phiên livestream bán gạo ST25 tại Tràng Tiền trên kênh TikTok Hello Vietnam do Bộ Công Thương tổ chức thu hút lượng lớn khách đặt mua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.985292+07:00",
+      "fetched": "2025-10-25T17:15:25.985405+07:00"
+    },
+    {
+      "id": "b52d24b761541be7530d010c900bb745",
+      "title": "Dự án thủy cung lấn biển khiến Tổng giám đốc Công ty Cáp treo Vũng Tàu bị khởi tố nay ra sao?",
+      "link": "https://tuoitre.vn/du-an-thuy-cung-lan-bien-khien-tong-giam-doc-cong-ty-cap-treo-vung-tau-bi-khoi-to-nay-ra-sao-20251025113555095.htm",
+      "summary": "Liên quan vụ Tổng giám đốc Công ty Cáp treo Vũng Tàu bị khởi tố vì đổ chất thải lấp biển, Tuổi Trẻ Online ghi nhận hiện trạng Thủy cung Hòn Ngưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.985171+07:00",
+      "fetched": "2025-10-25T17:15:25.985281+07:00"
+    },
+    {
+      "id": "f2c9df7bac7c38f5888cf5f79cccc88a",
+      "title": "Chủ tịch nước Lương Cường tiếp Tổng công tố Nga tại Hà Nội",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-tiep-tong-cong-to-nga-tai-ha-noi-20251025135108977.htm",
+      "summary": "Nhân dịp lễ mở ký Công ước Hà Nội, sáng 25-10, tại Hà Nội, Chủ tịch nước Lương Cường tiếp Tổng công tố Nga A.V. Gutsan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.985047+07:00",
+      "fetched": "2025-10-25T17:15:25.985160+07:00"
+    },
+    {
+      "id": "bceb71236666aa0a819d9cefa0a8d54a",
+      "title": "Mỹ bác khả năng ông Trump gặp ông Kim Jong Un tại Hàn Quốc",
+      "link": "https://tuoitre.vn/my-bac-kha-nang-ong-trump-gap-ong-kim-jong-un-tai-han-quoc-20251025133505266.htm",
+      "summary": "Một quan chức cấp cao Mỹ cho biết ông Trump không có kế hoạch gặp ông Kim Jong Un trong thời gian thăm Hàn Quốc vào tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984905+07:00",
+      "fetched": "2025-10-25T17:15:25.985034+07:00"
+    },
+    {
+      "id": "479980df745601c76e3335c18f29951d",
+      "title": "Nhà đang xây bất ngờ sập móng đè nhà hàng xóm, 2 người chết, 2 bị thương",
+      "link": "https://tuoitre.vn/nha-dang-xay-bat-ngo-sap-mong-de-nha-hang-xom-2-nguoi-chet-2-bi-thuong-20251025143559238.htm",
+      "summary": "Một ngôi nhà đang thi công ở xã Yang Mao (Đắk Lắk) bất ngờ sập móng, đổ sang nhà bên cạnh khiến 2 người chết, 2 người khác kịp thoát nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984781+07:00",
+      "fetched": "2025-10-25T17:15:25.984894+07:00"
+    },
+    {
+      "id": "e81c16b1d31481f64bbe5f0ed9fc9728",
+      "title": "Học sinh phổ thông tham gia ngày hội việc làm ở đại học",
+      "link": "https://tuoitre.vn/hoc-sinh-pho-thong-tham-gia-ngay-hoi-viec-lam-o-dai-hoc-20251025142007126.htm",
+      "summary": "Học sinh THPT tham gia ngày hội việc làm do Trường đại học Quốc tế Sài Gòn tổ chức, giúp các em trải nghiệm phỏng vấn và định hướng nghề nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984650+07:00",
+      "fetched": "2025-10-25T17:15:25.984769+07:00"
+    },
+    {
+      "id": "ff791726eb10d6df7a5694e6734b0cad",
+      "title": "Kỳ thi công nghệ 2025: Doanh nghiệp kết nối nhân tài",
+      "link": "https://tuoitre.vn/ky-thi-cong-nghe-2025-doanh-nghiep-ket-noi-nhan-tai-20251025115010801.htm",
+      "summary": "Đây là nơi ươm mầm tài năng công nghệ trẻ, đồng thời là cầu nối chiến lược giữa các trường đại học và doanh nghiệp công nghệ hàng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984522+07:00",
+      "fetched": "2025-10-25T17:15:25.984638+07:00"
+    },
+    {
+      "id": "22678003cbb0634be1bca2d49a869a8a",
+      "title": "Phút kinh hoàng trong vụ xe tải lật trên đèo Ngọc Vin, hai vợ chồng tử nạn",
+      "link": "https://tuoitre.vn/phut-kinh-hoang-trong-vu-xe-tai-lat-tren-deo-ngoc-vin-hai-vo-chong-tu-nan-20251025132051407.htm",
+      "summary": "Tài xế lái xe vượt qua hai khúc cua tìm đường lánh nạn. Nhưng đến khúc cua thứ 3, xe lao qua bên kia đường lật úp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984385+07:00",
+      "fetched": "2025-10-25T17:15:25.984510+07:00"
+    },
+    {
+      "id": "2ec67d2604bce25d7d54bb898a7f7b59",
+      "title": "AI vào trường học, cần chuẩn bị gì?",
+      "link": "https://tuoitre.vn/ai-vao-truong-hoc-can-chuan-bi-gi-20251025130313225.htm",
+      "summary": "Trí tuệ nhân tạo (AI) mở ra cơ hội đổi mới lớn cho ngành giáo dục, nhưng cũng đặt ra nhiều thách thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984259+07:00",
+      "fetched": "2025-10-25T17:15:25.984374+07:00"
+    },
+    {
+      "id": "159f928d4ace329124f3281cd0492caf",
+      "title": "Huế ban bố tình huống khẩn cấp vì sạt lở bờ biển sau bão Thần Gió",
+      "link": "https://tuoitre.vn/hue-ban-bo-tinh-huong-khan-cap-vi-sat-lo-bo-bien-sau-bao-than-gio-20251025135226415.htm",
+      "summary": "Sau bão Thần Gió, sóng lớn và triều cường đã khiến bờ biển thôn Tân An Hải (xã Phú Lộc, TP Huế) bị sạt lở nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.984133+07:00",
+      "fetched": "2025-10-25T17:15:25.984248+07:00"
+    },
+    {
+      "id": "b7942c1f4cc2f096627ba027172730e9",
+      "title": "Tìm thấy thi thể bé trai 13 tuổi mất tích do lặn biển bắt cá ở Phú Quốc",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-be-trai-13-tuoi-mat-tich-do-lan-bien-bat-ca-o-phu-quoc-20251025141416281.htm",
+      "summary": "Lực lượng chức năng và gia đình đã tìm thấy em  T. (13 tuổi), mất tích do lặn biển bắt cá ở Phú Quốc, nhưng không có phép màu đến với em.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.983997+07:00",
+      "fetched": "2025-10-25T17:15:25.984121+07:00"
+    },
+    {
+      "id": "5ac2848a65abfd48a050f97067e6a520",
+      "title": "SEA Games 33 không hoãn, chỉ điều chỉnh sau khi Vương thái hậu Thái Lan qua đời",
+      "link": "https://tuoitre.vn/sea-games-33-khong-hoan-chi-dieu-chinh-sau-khi-vuong-thai-hau-thai-lan-qua-doi-20251025140823814.htm",
+      "summary": "Việc Vương thái hậu Thái Lan Sirikit băng hà hôm 25-10 làm dấy lên lo ngại về việc SEA Games 33 cuối năm nay có thể bị hoãn hoặc hủy hoàn toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.983845+07:00",
+      "fetched": "2025-10-25T17:15:25.983984+07:00"
+    },
+    {
+      "id": "2fd88d4a983962ac65396db39506737d",
+      "title": "Đề xuất giữ mức đóng bảo hiểm thất nghiệp 1%, doanh nghiệp đặc thù giảm về 0%",
+      "link": "https://tuoitre.vn/de-xuat-giu-muc-dong-bao-hiem-that-nghiep-1-doanh-nghiep-dac-thu-giam-ve-0-20251025124222561.htm",
+      "summary": "Bộ Tư pháp đang thẩm định hồ sơ của Bộ Nội vụ về dự thảo nghị định của Chính phủ quy định chi tiết Luật Việc làm về bảo hiểm thất nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.983712+07:00",
+      "fetched": "2025-10-25T17:15:25.983833+07:00"
+    },
+    {
+      "id": "e33be7a9865974e43ec7504f0caea403",
+      "title": "Thủ tướng: 65 nước ký Công ước Hà Nội thể hiện niềm tin quốc tế với Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-65-nuoc-ky-cong-uoc-ha-noi-the-hien-niem-tin-quoc-te-voi-viet-nam-20251025150415178.htm",
+      "summary": "Theo Thủ tướng Phạm Minh Chính, lễ mở ký Công ước Hà Nội đã thể hiện sự ủng hộ của Liên hợp quốc và các nước với Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.983567+07:00",
+      "fetched": "2025-10-25T17:15:25.983699+07:00"
+    },
+    {
+      "id": "d4abca63c41ed7cf37b5861bef5d9671",
+      "title": "Khu vực ASEAN tăng cường hội nhập và phát triển bền vững",
+      "link": "https://tuoitre.vn/khu-vuc-asean-tang-cuong-hoi-nhap-va-phat-trien-ben-vung-20251025113159067.htm",
+      "summary": "Trong bối cảnh thế giới chuyển mình mạnh mẽ bởi làn sóng công nghệ, xu hướng xanh và những biến động địa chính trị, ASEAN đang đứng trước cơ hội thuận lợi để khẳng định vị thế là một khu vực năng động, tự cường và hội nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T17:15:25.983330+07:00",
+      "fetched": "2025-10-25T17:15:25.983551+07:00"
+    },
     {
       "id": "fea0fa00bcb78d3e662cddb83fa16963",
       "title": "Sức mạnh song sinh: Phim hoạt hình 13+ lên sóng",
@@ -303,6 +453,66 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T13:22:18.271793+07:00"
     },
     {
+      "id": "c70bf9f4e601d0b9e377af0f16b81345",
+      "title": "Tây Ninh: Tài xế xe tải vượt ẩu gây tai nạn chết người",
+      "link": "https://thanhnien.vn/tay-ninh-tai-xe-xe-tai-vuot-au-gay-tai-nan-chet-nguoi-185251025162442692.htm",
+      "summary": "Chiếc xe tải do tài xế ngụ tỉnh Tây Ninh điều khiển vượt ẩu trên QL.1 đã va chạm với chiếc xe máy do một người đàn ông ngụ tỉnh Vĩnh Long chạy cùng chiều khiến người này tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:14:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874068+07:00"
+    },
+    {
+      "id": "7c9c88a7a11d834032d58aabae42cbe3",
+      "title": "Tổng Bí thư Tô Lâm: Việt Nam sẵn sàng tham gia giải quyết các vấn đề toàn cầu",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-viet-nam-san-sang-tham-gia-giai-quyet-cac-van-de-toan-cau-18525102516542033.htm",
+      "summary": "Sáng 25.10, Tổng Bí thư Tô Lâm đã tiếp Tổng thư ký Liên Hiệp Quốc António Guterres.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:11:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874245+07:00"
+    },
+    {
+      "id": "cf4ed2a3c2427fdb142c7426084b257c",
+      "title": "'Khát' lao động tại Mỹ Yên, xã 'cửa ngõ trọng điểm' của Miền Tây",
+      "link": "https://thanhnien.vn/khat-lao-dong-tai-my-yen-xa-cua-ngo-trong-diem-cua-mien-tay-185251025143959577.htm",
+      "summary": "Doanh nghiệp đang 'khát' lao động, đó là câu chuyện đang diễn ra tại xã Mỹ Yên (Tây Ninh), nơi có nút giao thông chiến lược kết nối Đông Nam bộ và đồng bằng sông Cửu Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:11:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874404+07:00"
+    },
+    {
+      "id": "eb2e89c2f858b5cc76cae3755698c6f9",
+      "title": "Ồ ạt ưu đãi giảm giá, xe máy xăng vẫn bán chậm hơn xe điện",
+      "link": "https://thanhnien.vn/o-at-uu-dai-giam-gia-xe-may-xang-van-ban-cham-hon-xe-dien-185251024153936787.htm",
+      "summary": "Liên tục được các nhà sản xuất, phân phối áp dụng các chương trình ưu đãi, giảm giá bằng nhiều hình thức khác nhau nhưng lượng tiêu thụ xe máy xăng vẫn sụt giảm đồng thời đang xếp sau xe điện về tốc độ tăng trưởng doanh số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:02:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874561+07:00"
+    },
+    {
+      "id": "cfb0f113a0c0cb71bbefe2ed6fa39379",
+      "title": "5.000 người cổ vũ Trần Bùi Bảo Khánh thi chung kết Đường lên đỉnh Olympia",
+      "link": "https://thanhnien.vn/5000-nguoi-co-vu-tran-bui-bao-khanh-thi-chung-ket-duong-len-dinh-olympia-185251025162205253.htm",
+      "summary": "Hoàng Thành Thăng Long được chọn làm điểm cầu 'sân nhà' của Trường THPT chuyên Hà Nội - Amsterdam và sẽ có 5.000 người gồm toàn thể học sinh, giáo viên và nhiều phụ huynh đến cổ vũ Trần Bùi Bảo Khánh, học sinh lớp 12 chuyên sinh, so tài tại chung kết Đường lên đỉnh Olympia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:01:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874717+07:00"
+    },
+    {
+      "id": "4af525982e681da1cf6349351a4e4dea",
+      "title": "Toàn cảnh 17h: Hoàng thái hậu Thái Lan băng hà | Khởi tố người đánh nữ điều dưỡng ở Vũng Tàu",
+      "link": "https://thanhnien.vn/toan-canh-17h-hoang-thai-hau-thai-lan-bang-ha-khoi-to-nguoi-danh-nu-dieu-duong-o-vung-tau-185251025154744314.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T10:00:00+07:00",
+      "fetched": "2025-10-25T17:15:24.874873+07:00"
+    },
+    {
       "id": "7fddeda3c9de8dc3daf998828824fbf0",
       "title": "Dự đoán tỉ số Ngoại hạng Anh: Tiếp đà thăng hoa, Man United đánh bại Brighton",
       "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-tiep-da-thang-hoa-man-united-danh-bai-brighton-202510241957535.htm",
@@ -451,6 +661,206 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T09:59:54.264195+07:00",
       "fetched": "2025-10-25T09:59:54.264411+07:00"
+    },
+    {
+      "id": "e0f24956ed21ae3751cc960726697cc7",
+      "title": "631 ổ bánh mì Việt Nam xếp số '25' xác lập kỷ lục thế giới",
+      "link": "https://thanhnien.vn/631-o-banh-mi-viet-nam-xep-so-25-xac-lap-ky-luc-the-gioi-185251025165144339.htm",
+      "summary": "Số \"25\" được xếp bởi 631 ổ bánh mì, không chỉ lập kỉ lục Guinness thế giới mà còn nhằm mục đích gây quỹ cho thanh thiếu niên khó khăn bằng món ăn biểu tượng của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:59:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875046+07:00"
+    },
+    {
+      "id": "704461b44f0432207780201550e5232a",
+      "title": "Đắk Lắk: Sập nhà khiến 2 người tử vong, 3 người bị thương",
+      "link": "https://thanhnien.vn/dak-lak-sap-nha-khien-2-nguoi-tu-vong-3-nguoi-bi-thuong-185251025160803149.htm",
+      "summary": "Một vụ sập nhà xảy ra ở Đắk Lắk khi tường chắn của nhà hàng xóm bất ngờ đổ sập, vùi lấp khiến 2 người tử vong và 3 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:57:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875200+07:00"
+    },
+    {
+      "id": "34d80cdf3172e83fc10e8af49640d309",
+      "title": "Khoảnh khắc 'loạt tên lửa Iskander-M' lao xuống Kiev",
+      "link": "https://vnexpress.net/khoanh-khac-loat-ten-lua-iskander-m-lao-xuong-kiev-4955713.html",
+      "summary": "Video mới đăng cho thấy những vụ nổ lớn ở thủ đô Kiev của Ukraine, dường như do tên lửa Iskander-M gây ra trong đòn tập kích ban đêm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T09:50:38+07:00",
+      "fetched": "2025-10-25T17:15:27.260142+07:00"
+    },
+    {
+      "id": "f2b78c1125853e97cdcc643961d76bf1",
+      "title": "Giá vàng trong nước tiếp tục tăng nhưng người mua vẫn lỗ",
+      "link": "https://thanhnien.vn/gia-vang-trong-nuoc-tiep-tuc-tang-nhung-nguoi-mua-van-lo-185251025162945108.htm",
+      "summary": "Giá vàng trong nước chiều cuối tuần tiếp tục tăng và vượt lên ngưỡng 149 triệu đồng mỗi lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:50:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875353+07:00"
+    },
+    {
+      "id": "fa8a9367b8787d71976d16c278c5af4a",
+      "title": "Khách sạn 95 năm tuổi trên đường Catinat cũ: Nơi lưu giữ ký ức Sài Gòn",
+      "link": "https://thanhnien.vn/khach-san-95-nam-tuoi-tren-duong-catinat-cu-noi-luu-giu-ky-uc-sai-gon-185251025163449309.htm",
+      "summary": "Khách sạn Grand Saigon nằm trên đường Đồng Khởi (trước từng mang tên Catinat) như một lát cắt của ký ức Sài Gòn với lối kiến trúc Đông Dương tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:39:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875501+07:00"
+    },
+    {
+      "id": "346a182a3484de7237460bec6ab6641d",
+      "title": "6 khuyến nghị về ứng dụng trí tuệ nhân tạo trong giáo dục",
+      "link": "https://thanhnien.vn/6-khuyen-nghi-ve-ung-dung-tri-tue-nhan-tao-trong-giao-duc-185251025154150114.htm",
+      "summary": "Tại tọa đàm 'Đẩy mạnh ứng dụng AI trong giáo dục và đào tạo - Những lợi ích và thách thức', chuyên gia về trí tuệ nhân tạo đã đưa ra các khuyến nghị khi tổ chức nội dung này trong các trường phổ thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:37:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875653+07:00"
+    },
+    {
+      "id": "99483a47fb3985ef64285e5ba83851cd",
+      "title": "Câu chuyện xúc động của vị bác sĩ trong Đại hội Thi đua yêu nước TP.HCM",
+      "link": "https://thanhnien.vn/cau-chuyen-xuc-dong-cua-vi-bac-si-trong-dai-hoi-thi-dua-yeu-nuoc-tphcm-185251025150955457.htm",
+      "summary": "Tại Đại hội Thi đua yêu nước TP.HCM lần thứ I (2025 - 2030), phần giao lưu gây xúc động mạnh mẽ với câu chuyện của Thầy thuốc nhân dân - bác sĩ Nguyễn Viết Giáp, Giám đốc Bệnh viện Mắt Bà Rịa - Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:33:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875804+07:00"
+    },
+    {
+      "id": "dc59a18f2fbb84ebe31d0be545776537",
+      "title": "Thủ tướng: An ninh mạng không phải là vấn đề của riêng một quốc gia nào",
+      "link": "https://thanhnien.vn/thu-tuong-an-ninh-mang-khong-phai-la-van-de-cua-rieng-mot-quoc-gia-nao-185251025160509346.htm",
+      "summary": "Ngày 25.10, trong khuôn khổ Lễ mở ký và Hội nghị cấp cao Công ước của Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội), Thủ tướng Phạm Minh Chính cùng Tổng thư ký Liên Hiệp Quốc António Guterres đã có cuộc gặp gỡ báo chí thông tin về Lễ mở ký Công ước Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:28:00+07:00",
+      "fetched": "2025-10-25T17:15:24.875981+07:00"
+    },
+    {
+      "id": "ca9273f293f34600cf49215a39de0fc3",
+      "title": "Nữ thủ tướng Nhật Bản nói gì về quan hệ với Nga?",
+      "link": "https://thanhnien.vn/nu-thu-tuong-nhat-ban-noi-gi-ve-quan-he-voi-nga-185251025161204657.htm",
+      "summary": "Tân Thủ tướng Nhật Bản Sanae Takaichi khẳng định Tokyo sẽ tiếp tục theo đuổi mục tiêu ký kết hiệp ước hòa bình với Nga, bất chấp tình trạng căng thẳng trong quan hệ song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:25:00+07:00",
+      "fetched": "2025-10-25T17:15:24.876153+07:00"
+    },
+    {
+      "id": "9aa7cd39f330314800e706cc72249245",
+      "title": "Đồng Nai: Bắt giữ pháo hoa lậu, 'lòi' ra ma túy trong phòng ngủ",
+      "link": "https://thanhnien.vn/dong-nai-bat-giu-phao-hoa-lau-loi-ra-ma-tuy-trong-phong-ngu-185251025134159634.htm",
+      "summary": "Người đàn ông nghiện ma túy mua hơn 3 tạ pháo hoa nổ lậu để về bán kiếm lời, nhưng chưa kịp bán thì công an phát hiện, bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:23:00+07:00",
+      "fetched": "2025-10-25T17:15:24.876304+07:00"
+    },
+    {
+      "id": "20a42e6b5327da2500753025ddfdce9c",
+      "title": "Arsenal đang phòng ngự xuất sắc thế nào",
+      "link": "https://vnexpress.net/arsenal-dang-phong-ngu-xuat-sac-the-nao-4955694.html",
+      "summary": "Với trung bình mỗi bàn thua qua 4 trận trên mọi đấu trường mùa này, Arsenal đang đứng trước cơ hội vượt hoặc tiệm cận những kỷ lục phòng ngự hiếm có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.299744+07:00"
+    },
+    {
+      "id": "df8c77af1bd848b1a6b45f353320fc45",
+      "title": "Việt Nam lần đầu sử dụng kháng thể đơn dòng phòng RSV cho trẻ đến hai tuổi",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-su-dung-khang-the-don-dong-phong-rsv-cho-tre-den-hai-tuoi-4955737.html",
+      "summary": "Nirsevimab là kháng thể đơn dòng đầu tiên phòng virus hợp bào hô hấp RSV cho mọi trẻ từ sơ sinh đến hai tuổi tại Việt Nam, ra mắt ngày 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.299929+07:00"
+    },
+    {
+      "id": "55d51fc1e2a901145755fb16fc79a627",
+      "title": "Những nhóm thực phẩm người cao huyết áp nên hạn chế",
+      "link": "https://vnexpress.net/nhung-nhom-thuc-pham-nguoi-cao-huyet-ap-nen-han-che-4955671.html",
+      "summary": "Đồ ăn mặn, các món chiên rán, thịt đỏ, cà phê có thể làm tăng huyết áp, gây gánh nặng tim mạch, cần hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.300132+07:00"
+    },
+    {
+      "id": "aa340d45cefcf643b5745de6debc6cad",
+      "title": "Điều gì xảy ra khi uống matcha hàng ngày?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-matcha-hang-ngay-4955652.html",
+      "summary": "Matcha chứa nhiều chất chống oxy hóa, caffein, góp phần giảm viêm, thúc đẩy nhu động ruột song uống nhiều có thể gây cồn cào, khó chịu bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T09:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.300293+07:00"
+    },
+    {
+      "id": "20a42e6b5327da2500753025ddfdce9c",
+      "title": "Arsenal đang phòng ngự xuất sắc thế nào",
+      "link": "https://vnexpress.net/arsenal-dang-phong-ngu-xuat-sac-the-nao-4955694.html",
+      "summary": "Với trung bình mỗi bàn thua qua 4 trận trên mọi đấu trường mùa này, Arsenal đang đứng trước cơ hội vượt hoặc tiệm cận những kỷ lục phòng ngự hiếm có.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T09:00:00+07:00",
+      "fetched": "2025-10-25T17:15:32.145014+07:00"
+    },
+    {
+      "id": "74e21c693528b620114ee46352fea517",
+      "title": "Nhật bắt được nghi phạm sát hại phụ nữ Việt trong chung cư",
+      "link": "https://vnexpress.net/nhat-bat-duoc-nghi-pham-sat-hai-phu-nu-viet-trong-chung-cu-4955706.html",
+      "summary": "Cảnh sát Nhật Bản bắt giữ Huong, 32 tuổi, với cáo buộc sát hại người phụ nữ Việt Nam trong căn hộ chung cư ở Hiroshima cách đây 10 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:41:35+07:00",
+      "fetched": "2025-10-25T17:15:21.300464+07:00"
+    },
+    {
+      "id": "74e21c693528b620114ee46352fea517",
+      "title": "Nhật bắt được nghi phạm sát hại phụ nữ Việt trong chung cư",
+      "link": "https://vnexpress.net/nhat-bat-duoc-nghi-pham-sat-hai-phu-nu-viet-trong-chung-cu-4955706.html",
+      "summary": "Cảnh sát Nhật Bản bắt giữ Huong, 32 tuổi, với cáo buộc sát hại người phụ nữ Việt Nam trong căn hộ chung cư ở Hiroshima cách đây 10 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T08:41:35+07:00",
+      "fetched": "2025-10-25T17:15:27.260320+07:00"
+    },
+    {
+      "id": "fd450c288c6677962049eef9a67282b0",
+      "title": "Vì sao đàn ông Hàn không để râu?",
+      "link": "https://vnexpress.net/vi-sao-dan-ong-han-khong-de-rau-4955729.html",
+      "summary": "Khuôn mặt nhẵn nhụi trở thành chuẩn mực thẩm mỹ ở Hàn Quốc do quan niệm về sự gọn gàng và đặc điểm sinh học, dù trong quá khứ, râu từng là niềm tự hào nam giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:33:54+07:00",
+      "fetched": "2025-10-25T17:15:21.300638+07:00"
+    },
+    {
+      "id": "ad782ad2dc32d343c7e52e3001c541e2",
+      "title": "Học sinh Việt đưa AI vào dự án cứu trợ thiên tai, giao thông",
+      "link": "https://vnexpress.net/hoc-sinh-viet-dua-ai-vao-du-an-cuu-tro-thien-tai-giao-thong-4955736.html",
+      "summary": "Học sinh trung học trên toàn quốc mang đến nhiều dự án ứng dụng trí tuệ nhân tạo (AI) hướng tới cuộc sống an toàn, bền vững, tại cuộc thi Innovation Challenge 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:30:00+07:00",
+      "fetched": "2025-10-25T17:15:21.300804+07:00"
+    },
+    {
+      "id": "67fd7a7e6adec1fa954e4861e4f78988",
+      "title": "TP HCM xây đài tưởng niệm nạn nhân Covid-19 tại khu đất số 1 Lý Thái Tổ",
+      "link": "https://vnexpress.net/tp-hcm-xay-dai-tuong-niem-nan-nhan-covid-19-tai-khu-dat-so-1-ly-thai-to-4955728.html",
+      "summary": "Khu đất 4,3 ha ở số 1 Lý Thái Tổ, bỏ hoang nhiều năm, sẽ được điều chỉnh quy hoạch thành công viên và đài tưởng niệm nạn nhân Covid-19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:24:34+07:00",
+      "fetched": "2025-10-25T17:15:21.300987+07:00"
     },
     {
       "id": "4941b9bb9144dd1c318ef96ae795fd1d",
@@ -643,6 +1053,16 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T15:19:11.626653+07:00"
     },
     {
+      "id": "5d4705333768644c747d8a95720bda72",
+      "title": "Lễ vu quy của Á hậu Quỳnh Châu",
+      "link": "https://vnexpress.net/le-vu-quy-cua-a-hau-quynh-chau-4955710.html",
+      "summary": "Á hậu Chế Nguyễn Quỳnh Châu và doanh nhân Phát Nguyễn làm lễ vu quy, rước dâu theo phong cách truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:03:14+07:00",
+      "fetched": "2025-10-25T17:15:21.301310+07:00"
+    },
+    {
       "id": "01d771fd6776bf3c517f1381f2f02e17",
       "title": "Thanh Đa, Bình Quới vẫn ngập đến trưa 25.10: Người dân bơm nước, đắp bao cát",
       "link": "https://thanhnien.vn/thanh-da-binh-quoi-van-ngap-den-trua-2510-nguoi-dan-bom-nuoc-dap-bao-cat-18525102514474222.htm",
@@ -651,6 +1071,16 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T08:03:00+07:00",
       "fetched": "2025-10-25T15:19:11.626834+07:00"
+    },
+    {
+      "id": "e19ce5b268d1f8ce1bb217adaedf4745",
+      "title": "Thu hồi hơn 2.300 m2 đất ven biển Nha Trang",
+      "link": "https://vnexpress.net/thu-hoi-hon-2-300-m2-dat-ven-bien-nha-trang-4955722.html",
+      "summary": "Hơn 2.300 m2 đất ven biển Trần Phú, nơi đặt nhà hàng Sailing Club, vừa được UBND phường Nha Trang thông báo thu hồi để đấu giá theo quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:01:04+07:00",
+      "fetched": "2025-10-25T17:15:21.301472+07:00"
     },
     {
       "id": "4e3aecd8c344caffc8db42f23c3e030c",
@@ -671,6 +1101,36 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T08:00:00+07:00",
       "fetched": "2025-10-25T15:19:11.627151+07:00"
+    },
+    {
+      "id": "ca5e28a52dd4c18f79bed7c69dd5cd17",
+      "title": "Vừa thắng 50 triệu đồng, vài tiếng sau tôi thua sạch",
+      "link": "https://vnexpress.net/vua-thang-50-trieu-dong-vai-tieng-sau-toi-thua-sach-4951489.html",
+      "summary": "Nếu ai hỏi tôi bây giờ: \"Có muốn quay lại không\", tôi sẽ mỉm cười: \"Không, vì giờ tôi không cần thắng nữa, tôi chỉ cần bình yên\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.301632+07:00"
+    },
+    {
+      "id": "0ce418d6c483118b72738c5f46189594",
+      "title": "4 nhóm bài tập cải thiện trí nhớ cho trẻ",
+      "link": "https://vnexpress.net/4-nhom-bai-tap-cai-thien-tri-nho-cho-tre-4955645.html",
+      "summary": "Chạy bộ, đạp xe, yoga giúp tăng cường trí nhớ và sự tập trung, cải thiện khả năng phối hợp tay mắt, ghi nhớ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.301781+07:00"
+    },
+    {
+      "id": "1de113c18dacad58f45732a793bbcfb4",
+      "title": "MobiFone hợp tác SeABank mở rộng hệ sinh thái số",
+      "link": "https://vnexpress.net/mobifone-hop-tac-seabank-mo-rong-he-sinh-thai-so-4955641.html",
+      "summary": "MobiFone và SeABank ký thỏa thuận hợp tác chiến lược nhằm phát triển hệ sinh thái dịch vụ tích hợp viễn thông - công nghệ với tài chính - ngân hàng, ngày 24/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T08:00:00+07:00",
+      "fetched": "2025-10-25T17:15:21.301929+07:00"
     },
     {
       "id": "dc13a014d6c5669933e46924230dc7f8",
