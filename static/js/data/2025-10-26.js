@@ -1,7 +1,157 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T19:31:06.062962+07:00",
+  "lastUpdated": "2025-10-26T21:14:07.775303+07:00",
   "articles": [
+    {
+      "id": "09a7f081c9738135d975b046a6cadf76",
+      "title": "Hai nghi phạm bị bắt trong vụ trộm táo tợn tại Bảo tàng Louvre",
+      "link": "https://tuoitre.vn/hai-nghi-pham-bi-bat-trong-vu-trom-tao-ton-tai-bao-tang-louvre-20251026175718283.htm",
+      "summary": "Pháp đã bắt giữ hai nghi phạm liên quan đến vụ trộm chấn động tại Bảo tàng Louvre, trong khi hai nghi phạm khác vẫn đang lẩn trốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.227425+07:00",
+      "fetched": "2025-10-26T21:13:59.227523+07:00"
+    },
+    {
+      "id": "804f561fc902aad17315e7fafe474e99",
+      "title": "Saigontourist Group tham gia Hội chợ mùa Thu 2025",
+      "link": "https://tuoitre.vn/saigontourist-group-tham-gia-hoi-cho-mua-thu-2025-20251026175843787.htm",
+      "summary": "Tổng Công ty Du lịch Sài Gòn (Saigontourist Group) chính thức góp mặt tại Hội chợ mùa Thu 2025, một sự kiện xúc tiến thương mại đầu tiên ở tầm quốc gia, do Thủ tướng Chính phủ trực tiếp chỉ đạo triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.227309+07:00",
+      "fetched": "2025-10-26T21:13:59.227415+07:00"
+    },
+    {
+      "id": "b4c748e6a57cfeb17abe8f22252d65f0",
+      "title": "Tổng thống Trump nhận lời thăm Việt Nam, đề nghị sớm thông báo chuyến thăm của Tổng Bí thư",
+      "link": "https://tuoitre.vn/tong-thong-trump-nhan-loi-tham-viet-nam-de-nghi-som-thong-bao-chuyen-tham-cua-tong-bi-thu-20251026162232724.htm",
+      "summary": "Tổng thống Trump vui vẻ nhận lời mời thăm Việt Nam của Tổng Bí thư Tô Lâm, đồng thời đề nghị sớm thông báo chuyến thăm của Tổng Bí thư cho phía Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.227203+07:00",
+      "fetched": "2025-10-26T21:13:59.227298+07:00"
+    },
+    {
+      "id": "db054df069e8898dcd464af47cf3b4f9",
+      "title": "Đàm phán thuế đối ứng Việt Nam - Mỹ có thêm thỏa thuận mới, hé lộ nhiều hợp tác tỉ USD",
+      "link": "https://tuoitre.vn/dam-phan-thue-doi-ung-viet-nam-my-co-them-thoa-thuan-moi-he-lo-nhieu-hop-tac-ti-usd-20251026174632996.htm",
+      "summary": "Thông tin từ Bộ Công Thương, Việt Nam và Mỹ đã đồng ý công bố Tuyên bố chung Việt Nam và Mỹ về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.227095+07:00",
+      "fetched": "2025-10-26T21:13:59.227193+07:00"
+    },
+    {
+      "id": "7778a4321c1d9f244921f28f37c84c25",
+      "title": "Huế cho học sinh toàn thành phố nghỉ học trong ngày 27-10 do mưa lớn",
+      "link": "https://tuoitre.vn/hue-cho-hoc-sinh-toan-thanh-pho-nghi-hoc-trong-ngay-27-10-do-mua-lon-20251026181014692.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP Huế đã phát thông báo cho học sinh toàn thành phố nghỉ học do mưa lớn, gây nguy cơ ngập lụt diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226988+07:00",
+      "fetched": "2025-10-26T21:13:59.227085+07:00"
+    },
+    {
+      "id": "8ac9cc1e652de4745ae769451ac68e3d",
+      "title": "Nước lũ làm lở mố cầu khiến xe máy rơi xuống hố ở Đà Nẵng",
+      "link": "https://tuoitre.vn/nuoc-lu-lam-lo-mo-cau-khien-xe-may-roi-xuong-ho-o-da-nang-20251026173749724.htm",
+      "summary": "Nước lũ đã khiến mố cầu ở miền núi Đà Nẵng bị sạt lở nghiêm trọng, người đi xe máy rơi xuống hố sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226883+07:00",
+      "fetched": "2025-10-26T21:13:59.226979+07:00"
+    },
+    {
+      "id": "08a4f931017c4f701d704aa108726781",
+      "title": "Đồng Tháp vô địch vòng loại bóng đá sinh viên toàn quốc 2025",
+      "link": "https://tuoitre.vn/dong-thap-vo-dich-vong-loai-bong-da-sinh-vien-toan-quoc-2025-20251026182101725.htm",
+      "summary": "Trường đại học Đồng Tháp đã vô địch vòng loại Giải bóng đá nam sinh viên toàn quốc 2025 - Cúp TV360 khi thắng Đại học Cần Thơ 2-0 trong trận chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226778+07:00",
+      "fetched": "2025-10-26T21:13:59.226874+07:00"
+    },
+    {
+      "id": "457a2634dda05230763584dc29c61347",
+      "title": "Chủ công viên Đầm Sen lỗ nặng, Cáp treo Núi Bà Tây Ninh lãi tăng",
+      "link": "https://tuoitre.vn/chu-cong-vien-dam-sen-lo-nang-cap-treo-nui-ba-tay-ninh-lai-tang-20251026180323427.htm",
+      "summary": "Một số doanh nghiệp hoạt động trong lĩnh vực du lịch - dịch vụ đã công bố báo cáo tài chính quý 3-2025, cho thấy bức tranh kết quả kinh doanh phân hóa rõ nét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226670+07:00",
+      "fetched": "2025-10-26T21:13:59.226769+07:00"
+    },
+    {
+      "id": "5212bfed703d72a5b1ecf24e2fc40075",
+      "title": "Công ước Hà Nội mở ra kỷ nguyên hợp tác mới vì hòa bình, ổn định, phát triển bền vững",
+      "link": "https://tuoitre.vn/cong-uoc-ha-noi-mo-ra-ky-nguyen-hop-tac-moi-vi-hoa-binh-on-dinh-phat-trien-ben-vung-20251026182802837.htm",
+      "summary": "Theo Bộ trưởng Bộ Công an, Việt Nam tin tưởng sâu sắc Lễ mở ký Công ước của Liên hợp quốc về chống tội phạm mạng sẽ là cột mốc lịch sử mở ra kỷ nguyên hợp tác mới trong nỗ lực bảo vệ hòa bình, ổn định và phát triển bền vững của nhân loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226561+07:00",
+      "fetched": "2025-10-26T21:13:59.226661+07:00"
+    },
+    {
+      "id": "d3925babbdaa0793a7a58296b987ba73",
+      "title": "CLB Quảng Ninh làm 'nóng ghế' HLV Phan Thanh Bình",
+      "link": "https://tuoitre.vn/clb-quang-ninh-lam-nong-ghe-hlv-phan-thanh-binh-20251026184537337.htm",
+      "summary": "Quảng Ninh đã giành chiến thắng tối thiểu trên sân Cao Lãnh và khiến CLB Đồng Tháp của HLV Phan Thanh Bình rơi xuống áp chót bảng xếp hạng Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226453+07:00",
+      "fetched": "2025-10-26T21:13:59.226551+07:00"
+    },
+    {
+      "id": "350a83cc29241d9f48fde851b6b0176a",
+      "title": "Cơ hội săn Mon vàng bản giới hạn và nhận quà",
+      "link": "https://tuoitre.vn/co-hoi-san-mon-vang-ban-gioi-han-va-nhan-qua-20251025163146561.htm",
+      "summary": "Thời gian qua, mạng xã hội ghi lại khoảnh khắc nhiều gia đình cùng nhau khám phá sản phẩm kẹo gum không đường Lotte Xylitol Doraemon hương dâu 3g.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226322+07:00",
+      "fetched": "2025-10-26T21:13:59.226441+07:00"
+    },
+    {
+      "id": "1551e07c8eacdb4b15ce8225aa1f967c",
+      "title": "Trung Quốc và Mỹ đạt đồng thuận sơ bộ trong đàm phán thương mại",
+      "link": "https://tuoitre.vn/trung-quoc-va-my-dat-dong-thuan-so-bo-trong-dam-phan-thuong-mai-20251026185940679.htm",
+      "summary": "Đây được xem là bước tiến quan trọng trước cuộc gặp sắp tới giữa Tổng thống Donald Trump và Chủ tịch Tập Cận Bình tại Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226212+07:00",
+      "fetched": "2025-10-26T21:13:59.226313+07:00"
+    },
+    {
+      "id": "fcd202eb6a33794d111d6dfbcbbc5960",
+      "title": "Xã, phường ở Đà Nẵng được tự quyết cho học sinh nghỉ học tránh mưa lũ",
+      "link": "https://tuoitre.vn/xa-phuong-o-da-nang-duoc-tu-quyet-cho-hoc-sinh-nghi-hoc-tranh-mua-lu-20251026190304536.htm",
+      "summary": "Trước diễn biến mưa lớn có nguy cơ gây ngập úng, sạt lở tại nhiều địa phương, Sở Giáo dục và Đào tạo Đà Nẵng đề nghị các đơn vị chủ động quyết định việc cho học sinh nghỉ học để đảm bảo an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.226100+07:00",
+      "fetched": "2025-10-26T21:13:59.226202+07:00"
+    },
+    {
+      "id": "9c4574e589e91ffb54bf07413af36da3",
+      "title": "Tổng Bí thư Tô Lâm sắp thăm Vương quốc Anh và Bắc Ireland",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-sap-tham-vuong-quoc-anh-va-bac-ireland-2025102618135417.htm",
+      "summary": "Tổng Bí thư Tô Lâm và Phu nhân sẽ thăm Vương quốc Anh và Bắc Ireland trong 3 ngày, bắt đầu từ ngày 28-10 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.225979+07:00",
+      "fetched": "2025-10-26T21:13:59.226089+07:00"
+    },
+    {
+      "id": "4e62b351f58370b69831e3d4d808c1eb",
+      "title": "Việt Nam tổ chức thành công một trong những lễ mở ký lớn nhất của Liên hợp quốc",
+      "link": "https://tuoitre.vn/viet-nam-to-chuc-thanh-cong-mot-trong-nhung-le-mo-ky-lon-nhat-cua-lien-hop-quoc-20251026180449851.htm",
+      "summary": "Thứ trưởng Bộ Công an Phạm Thế Tùng cho biết theo thông tin của Liên Hợp Quốc, lễ mở ký Công ước Hà Nội là một trong những lễ mở ký lớn nhất trong 10 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:13:59.225767+07:00",
+      "fetched": "2025-10-26T21:13:59.225965+07:00"
+    },
     {
       "id": "e92890849d503be4d8a4554104c85dd7",
       "title": "Kịp thời dập tắt 2 đám cháy tại Lâm Đồng, 6 người thoát nạn",
@@ -453,6 +603,126 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T15:19:52.114796+07:00"
     },
     {
+      "id": "a100416b6f33ba66a68df79ab89f5522",
+      "title": "Đỗ Minh Quân và Trương Vinh Hiển đăng quang giải pickleball VTV Open",
+      "link": "https://thanhnien.vn/do-minh-quan-va-truong-vinh-hien-dang-quang-giai-pickleball-vtv-open-185251026203323164.htm",
+      "summary": "Đông đảo người hâm mộ đến sân Happyland (Hà Nội) đón xem trận chung kết nội dung hấp dẫn nhất của giải VTV A.O.SMITH Pickleball Open 2025 giữa Quang Dương-Bảo Dương với Trương Vinh Hiển-Đỗ Minh Quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:12:00+07:00",
+      "fetched": "2025-10-26T21:13:58.139290+07:00"
+    },
+    {
+      "id": "368deb6e34b70a08cb869bce14eb582e",
+      "title": "Highlight Trường Tươi Đồng Nai 0-0 Bắc Ninh: Đội của Công Phượng mất ngôi đầu",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-0-0-bac-ninh-doi-cua-cong-phuong-mat-ngoi-dau-185251026211024288.htm",
+      "summary": "Trận cầu tâm điểm vòng 5 giải hạng nhất quốc gia 2025-2026 giữa Trường Tươi Đồng Nai và Bắc Ninh đã khép lại với tỷ số hòa 0-0",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:10:00+07:00",
+      "fetched": "2025-10-26T21:13:58.139495+07:00"
+    },
+    {
+      "id": "7fbb22322f906f115732780ab87bf454",
+      "title": "Highlight Hải Phòng 2-1 Hà Tĩnh: Ngược dòng ngoạn mục",
+      "link": "https://thanhnien.vn/highlight-hai-phong-2-1-ha-tinh-nguoc-dong-ngoan-muc-185251026210752091.htm",
+      "summary": "Trên sân nhà Lạch Tray, Hải Phòng đã có màn lội ngược dòng đầy kịch tính để giành chiến thắng 2-1 trước Hồng Lĩnh Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:07:00+07:00",
+      "fetched": "2025-10-26T21:13:58.139631+07:00"
+    },
+    {
+      "id": "5417e03f6ddcdbc7d916b2fee11dec79",
+      "title": "Highlight SLNA 0-1 Thanh Hóa: Cú vô lê tuyệt đẹp của Rimario",
+      "link": "https://thanhnien.vn/highlight-slna-0-1-thanh-hoa-cu-vo-le-tuyet-dep-cua-rimario-185251026210547376.htm",
+      "summary": "Chiến thắng tối thiểu nhưng xứng đáng dành cho CLB Thanh Hóa ngay tại chảo lửa Vinh của SLNA với cú vô lê đẹp mắt của ngoại binh Rimario.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:05:00+07:00",
+      "fetched": "2025-10-26T21:13:58.139760+07:00"
+    },
+    {
+      "id": "d73141029a372aa18c5c15cc2e2f9942",
+      "title": "Hai lần giúp người trong ngày, tôi không nhận được lời cảm ơn",
+      "link": "https://vnexpress.net/hai-lan-giup-nguoi-trong-ngay-toi-khong-nhan-duoc-loi-cam-on-4955277.html",
+      "summary": "Tôi không buồn vì họ không biết ơn tôi, chỉ buồn vì xã hội ngày nay, những phép lịch sự bình thường nhất dường như dần bị quên lãng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:00:00+07:00",
+      "fetched": "2025-10-26T21:13:54.668810+07:00"
+    },
+    {
+      "id": "149a67f4b27e761865d60274510f6789",
+      "title": "Công ước Hà Nội: 72 quốc gia ký kết, lễ mở ký lớn nhất 10 năm qua",
+      "link": "https://thanhnien.vn/cong-uoc-ha-noi-72-quoc-gia-ky-ket-le-mo-ky-lon-nhat-10-nam-qua-185251026200206089.htm",
+      "summary": "Chiều 26.10, tại Trung tâm Hội nghị quốc gia (Hà Nội) đã diễn ra phiên bế mạc Lễ mở ký Công ước của Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội). Đại tướng Lương Tam Quang, Bộ trưởng Bộ Công an Việt Nam phát biểu bế mạc sự kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:59:00+07:00",
+      "fetched": "2025-10-26T21:13:58.139891+07:00"
+    },
+    {
+      "id": "2a16a25e9e3e56b6e19d0af6f87a7c5e",
+      "title": "Thanh Hóa ngắt mạch 15 trận không thắng",
+      "link": "https://vnexpress.net/thanh-hoa-ngat-mach-15-tran-khong-thang-4956003.html",
+      "summary": "Thanh Hóa hạ SLNA 1-0 ở vòng 8 V-League, qua đó có chiến thắng đầu tiên trong mùa giải 2025-2026, tối 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:47:46+07:00",
+      "fetched": "2025-10-26T21:13:54.668970+07:00"
+    },
+    {
+      "id": "a6aee986541c0eccf51a11e7fbea8a07",
+      "title": "'Tái sinh': Câu chuyện của 20 bức tranh làm từ vật liệu phế thải",
+      "link": "https://thanhnien.vn/tai-sinh-cau-chuyen-cua-20-buc-tranh-lam-tu-vat-lieu-phe-thai-18525102619321767.htm",
+      "summary": "Triển lãm 'Tái sinh' của họa sĩ Ngô Quỳnh Liên giới thiệu 20 tác phẩm nghệ thuật từ chất liệu tái chế, lan tỏa thông điệp về nghị lực sống và nâng cao nhận thức về ung thư vú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:43:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140020+07:00"
+    },
+    {
+      "id": "24dbef475c0a885aad1f718542b3204d",
+      "title": "Cận cảnh xưởng nghi sản xuất cà phê bột giả: Tạm giữ giám đốc",
+      "link": "https://thanhnien.vn/can-canh-xuong-nghi-san-xuat-ca-phe-bot-gia-tam-giu-giam-doc-185251026203435065.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Gia Lai vừa tạm giữ hình sự giám đốc một công ty nghi sản xuất, buôn bán cà phê bột giả với quy mô lớn. Hàng tấn nguyên liệu, máy móc và sản phẩm nghi làm giả bị thu giữ để phục vụ điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:36:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140148+07:00"
+    },
+    {
+      "id": "b1292aade8ec9ce86315827791d30813",
+      "title": "Mưa lớn gây ngập sâu, sạt lở ở Quảng Ngãi phải di dời dân",
+      "link": "https://thanhnien.vn/mua-lon-gay-ngap-sau-sat-lo-o-quang-ngai-phai-di-doi-dan-185251026195640591.htm",
+      "summary": "Tối 26.10, Chi cục Thủy lợi tỉnh Quảng Ngãi cho biết, do ảnh hưởng của mưa lớn kéo dài trên địa bàn tỉnh đã xảy ra tình trạng ngập úng, sạt lở nhiều nơi, khiến giao thông bị chia cắt, nhiều công trình hư hỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:36:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140274+07:00"
+    },
+    {
+      "id": "3e892f5b2da40a9f9b3e7cfdc31080be",
+      "title": "'Trùm phản diện' Hoàng Phúc tiết lộ cuộc sống bên vợ doanh nhân",
+      "link": "https://thanhnien.vn/trum-phan-dien-hoang-phuc-tiet-lo-cuoc-song-ben-vo-doanh-nhan-185251026193812905.htm",
+      "summary": "Sau ánh hào quang, diễn viên Hoàng Phúc chọn cho mình cuộc sống bình yên bên vợ doanh nhân và ba con nhỏ. Ở tuổi 58, 'trùm phản diện' tự nhận bản thân đã trở thành 'ông bố bỉm sữa chính hiệu', tìm thấy niềm vui trong mái ấm gia đình hơn là những ồn ào của showbiz.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:36:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140412+07:00"
+    },
+    {
+      "id": "df35a7e3ae1a025a7c8d5696807c0297",
+      "title": "'Sự hưởng ứng với Công ước Hà Nội có tầm bao phủ toàn cầu'",
+      "link": "https://vnexpress.net/su-huong-ung-voi-cong-uoc-ha-noi-co-tam-bao-phu-toan-cau-4955979.html",
+      "summary": "Thứ trưởng Công an Phạm Thế Tùng cho biết sự hưởng ứng với Công ước Hà Nội có tầm bao phủ toàn cầu, đồng đều các khu vực địa lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:34:38+07:00",
+      "fetched": "2025-10-26T21:13:54.669111+07:00"
+    },
+    {
       "id": "c08125a7723290315918425d8600109c",
       "title": "Tôi muốn MTV",
       "link": "https://tuoitre.vn/toi-muon-mtv-20251026101340124.htm",
@@ -603,6 +873,116 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T13:22:56.480755+07:00"
     },
     {
+      "id": "7b4c9a2d7b1986d519e0d10b851a9ed5",
+      "title": "Ông Trump tuyên bố sẽ sớm giải quyết xung đột Afghanistan - Pakistan",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-se-som-giai-quyet-xung-dot-afghanistan-pakistan-18525102619353228.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 26.10 khẳng định sẽ nhanh chóng giải quyết căng thẳng giữa Pakistan và Afghanistan, trong bối cảnh hai nước đang đàm phán tìm giải pháp hòa bình lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:14:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140541+07:00"
+    },
+    {
+      "id": "76a694d4b1716c8060e3610c8992b13a",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL thoát đáy ngoạn mục, cực bất ngờ với tốp 4",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-thoat-day-ngoan-muc-cuc-bat-ngo-voi-top-4-185251026200834427.htm",
+      "summary": "Bảng xếp hạng V-League xuất hiện xáo trộn lớn sau khi loạt trận diễn ra chiều tối 26.10 khép lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:11:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140666+07:00"
+    },
+    {
+      "id": "6c91f78780a5ca088cfdc3a5460f3c65",
+      "title": "Những ngày hội thể thao rèn đức luyện tài của học sinh TP.HCM",
+      "link": "https://thanhnien.vn/nhung-ngay-hoi-the-thao-ren-duc-luyen-tai-cua-hoc-sinh-tphcm-1852510261740548.htm",
+      "summary": "Tiếp nối tinh thần 'Khỏe để học tập - Khỏe để cống hiến - Khỏe để lập nghiệp', trong những ngày qua, nhiều trường phổ thông tại TP.HCM tổ chức khai mạc ngày hội thể thao, dịp lý tưởng để các em học sinh rèn đức, luyện tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:09:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140792+07:00"
+    },
+    {
+      "id": "4a234d52aa61682685681a32a384ad4d",
+      "title": "Tranh tài hấp dẫn ở giải pickleball UAP 2025",
+      "link": "https://thanhnien.vn/tranh-tai-hap-dan-o-giai-pickleball-uap-2025-185251026194731063.htm",
+      "summary": "Ngày 26.10, giải đấu pickleball liên hiệp hội (UAP) 2025 tranh tài hấp dẫn với khoảng 100 VĐV tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:08:00+07:00",
+      "fetched": "2025-10-26T21:13:58.140922+07:00"
+    },
+    {
+      "id": "55e11b1fa1613705f14ce863e9cc5850",
+      "title": "Rimario tỏa sáng giúp Thanh Hóa 'giải hạn', thắng nghẹt thở SLNA: Vui sao nước mắt lại trào!",
+      "link": "https://thanhnien.vn/rimario-toa-sang-giup-thanh-hoa-giai-han-thang-nghet-tho-slna-vui-sao-nuoc-mat-lai-trao-185251026184211516.htm",
+      "summary": "Tiền đạo Rimario tỏa sáng giúp CLB Thanh Hóa giành chiến thắng 1-0 trước SLNA ở vòng 8 V-League 2025-2026 diễn ra hôm nay trên sân Vinh. Đây là trận thắng đầu tiên của đội Thanh Hóa ở mùa giải này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:07:00+07:00",
+      "fetched": "2025-10-26T21:13:58.141055+07:00"
+    },
+    {
+      "id": "d917851dc87912b1ae65ad6339b4470a",
+      "title": "Trường Tươi Đồng Nai hòa nhạt nhòa Bắc Ninh: Bị soán ngôi đầu, rơi xuống tốp 3",
+      "link": "https://thanhnien.vn/truong-tuoi-dong-nai-hoa-nhat-nhoa-bac-ninh-bi-soan-ngoi-dau-roi-xuong-top-3-185251026195803825.htm",
+      "summary": "Tối 26.10, CLB Trường Tươi Đồng Nai chỉ có trận hòa 0-0 trước đội Bắc Ninh ở vòng 5 giải hạng nhất mùa giải 2025-2026 và bị tụt xuống vị trí thứ 3 trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:01:00+07:00",
+      "fetched": "2025-10-26T21:13:58.141182+07:00"
+    },
+    {
+      "id": "f2a9282125796735c145047b6dbb88b8",
+      "title": "Bí quyết vẻ đẹp 'không dao kéo' của người mẫu Hailey Bieber",
+      "link": "https://vnexpress.net/bi-quyet-ve-dep-khong-dao-keo-cua-nguoi-mau-hailey-bieber-4955896.html",
+      "summary": "Hailey Bieber tiết lộ bí quyết nhan sắc là siêng năng chăm sóc da, ưu tiên làm đẹp không xâm lấn bằng huyết tương tự thân và trì hoãn botox thẩm mỹ đến 30 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:00:00+07:00",
+      "fetched": "2025-10-26T21:13:54.669247+07:00"
+    },
+    {
+      "id": "2e501a4e66d10e5a7a8db80f60f38df5",
+      "title": "HAGL lần đầu thắng tại V-League mùa này",
+      "link": "https://vnexpress.net/hagl-lan-dau-thang-tai-v-league-mua-nay-4955994.html",
+      "summary": "Đội bóng phố Núi có chiến thắng đầu tiên V-League 2025-2026 khi bất ngờ hạ Thể Công 2-1 ở vòng 8, chiều 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:59:03+07:00",
+      "fetched": "2025-10-26T21:13:54.669402+07:00"
+    },
+    {
+      "id": "2e501a4e66d10e5a7a8db80f60f38df5",
+      "title": "HAGL lần đầu thắng tại V-League mùa này",
+      "link": "https://vnexpress.net/hagl-lan-dau-thang-tai-v-league-mua-nay-4955994.html",
+      "summary": "Đội bóng phố Núi có chiến thắng đầu tiên V-League 2025-2026 khi bất ngờ hạ Thể Công 2-1 ở vòng 8, chiều 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T12:59:03+07:00",
+      "fetched": "2025-10-26T21:14:07.764582+07:00"
+    },
+    {
+      "id": "20d1d51f4134f2612cfca894b2956ea7",
+      "title": "Thủ tướng Phạm Minh Chính gặp Tổng thống Trump",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-gap-tong-thong-trump-4955987.html",
+      "summary": "Thủ tướng Phạm Minh Chính tiếp xúc ngắn với Tổng thống Trump và gặp lãnh đạo nhiều nước trong khuôn khổ Hội nghị Cấp cao ASEAN lần thứ 47.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:37:41+07:00",
+      "fetched": "2025-10-26T21:13:54.669535+07:00"
+    },
+    {
+      "id": "20d1d51f4134f2612cfca894b2956ea7",
+      "title": "Thủ tướng Phạm Minh Chính gặp Tổng thống Trump",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-gap-tong-thong-trump-4955987.html",
+      "summary": "Thủ tướng Phạm Minh Chính tiếp xúc ngắn với Tổng thống Trump và gặp lãnh đạo nhiều nước trong khuôn khổ Hội nghị Cấp cao ASEAN lần thứ 47.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T12:37:41+07:00",
+      "fetched": "2025-10-26T21:14:00.517236+07:00"
+    },
+    {
       "id": "6fde9b0cb26b7053073b550392ee2374",
       "title": "Đà Nẵng ủy quyền cho cơ sở quyết định việc nghỉ học phòng tránh mưa lũ",
       "link": "https://thanhnien.vn/da-nang-uy-quyen-cho-co-so-quyet-dinh-viec-nghi-hoc-phong-tranh-mua-lu-185251026190315136.htm",
@@ -621,6 +1001,16 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T12:24:00+07:00",
       "fetched": "2025-10-26T19:30:58.269260+07:00"
+    },
+    {
+      "id": "7f94cb15fec022069ceebda139f11898",
+      "title": "Cảnh sắc mùa thu làm 'say lòng người' khắp Trung Quốc",
+      "link": "https://vnexpress.net/canh-sac-mua-thu-lam-say-long-nguoi-khap-trung-quoc-4955918.html",
+      "summary": "Từ những cánh rừng lá đỏ, biển hoa ở Giang Tô, Hà Bắc đến tuyết đầu mùa ở Cam Túc, Trung Quốc đang vào những ngày thu quyến rũ nhất, thu hút du khách tới thưởng ngoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:19:15+07:00",
+      "fetched": "2025-10-26T21:13:54.669674+07:00"
     },
     {
       "id": "24564f06ffeb1a2ff42a9da17fa01e2c",
@@ -653,6 +1043,26 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T19:30:58.269746+07:00"
     },
     {
+      "id": "3e33ee704769075c05aac50d636c9656",
+      "title": "Nước nào dùng lịch nhanh hơn gần 57 năm so với thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-dung-lich-nhanh-hon-gan-57-nam-so-voi-the-gioi-4955986.html",
+      "summary": "Dương lịch hiện là tháng 11/2025, nhưng lịch của nước này đã ở năm 2082, chênh lệch gần 57 năm. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:05:35+07:00",
+      "fetched": "2025-10-26T21:13:54.669804+07:00"
+    },
+    {
+      "id": "8024efd05a0f67c300e736cde4b76596",
+      "title": "Có 20 lượng vàng vẫn bị bạn gái chia tay để lấy Việt kiều Australia",
+      "link": "https://vnexpress.net/co-20-luong-vang-van-bi-ban-gai-chia-tay-de-lay-viet-kieu-australia-4955942.html",
+      "summary": "Đôi khi tình yêu lãng mạn tan vỡ vì những 'ưu tiên thực tế'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:01:07+07:00",
+      "fetched": "2025-10-26T21:13:54.669935+07:00"
+    },
+    {
       "id": "f676e9af54d9b875451a2777b76a1b64",
       "title": "Doanh nghiệp Việt trình diễn robot tự giao hàng, UAV quân sự",
       "link": "https://vnexpress.net/doanh-nghiep-viet-trinh-dien-robot-tu-giao-hang-uav-quan-su-4955920.html",
@@ -681,6 +1091,16 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T12:00:00+07:00",
       "fetched": "2025-10-26T19:30:55.300056+07:00"
+    },
+    {
+      "id": "71dd42764ed9201caacc2d7a795820cd",
+      "title": "Khương Ngọc chấp nhận lời chê dành cho 'Cục vàng của ngoại'",
+      "link": "https://vnexpress.net/khuong-ngoc-chap-nhan-loi-che-danh-cho-cuc-vang-cua-ngoai-4952261.html",
+      "summary": "Đạo diễn Khương Ngọc nói làm phim \"Cục vàng của ngoại\" từ cảm hứng về bà và mẹ, đón nhận khen chê để tiếp tục cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:00:00+07:00",
+      "fetched": "2025-10-26T21:13:54.670322+07:00"
     },
     {
       "id": "197e7c550338903ad333d12f6febbc49",
@@ -781,6 +1201,16 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T11:39:12+07:00",
       "fetched": "2025-10-26T19:30:55.300592+07:00"
+    },
+    {
+      "id": "5163d343e09f9c9acf55b9b67b0d6745",
+      "title": "Lũ tràn về đô thị Huế, Hội An",
+      "link": "https://vnexpress.net/lu-tran-ve-do-thi-hue-hoi-an-4955977.html",
+      "summary": "Mưa lớn, hồ thủy điện ở thượng nguồn các sông Hương, Bồ, Vu Gia, Thu Bồn xả lũ, nước tràn về gây ngập nhiều tuyến đường, khu dân cư ở Huế và Hội An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:39:12+07:00",
+      "fetched": "2025-10-26T21:13:54.670726+07:00"
     },
     {
       "id": "56d8fa8aaa1daf43188bf11125b60cab",
