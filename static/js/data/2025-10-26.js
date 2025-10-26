@@ -1,7 +1,157 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T21:14:07.775303+07:00",
+  "lastUpdated": "2025-10-26T23:18:44.010652+07:00",
   "articles": [
+    {
+      "id": "9bfec81758d55d529bfd049914d7bf33",
+      "title": "Chấn chỉnh nghệ sĩ, ca từ có biểu hiện lệch chuẩn: TP.HCM tiên phong, kiên quyết bảo vệ cái đẹp",
+      "link": "https://tuoitre.vn/chan-chinh-nghe-si-ca-tu-co-bieu-hien-lech-chuan-tp-hcm-tien-phong-kien-quyet-bao-ve-cai-dep-20251026174335873.htm",
+      "summary": "Về đề nghị chấn chỉnh nghệ sĩ, ca từ có biểu hiện lệch chuẩn, đại biểu Quốc hội Bùi Hoài Sơn và bạn đọc Tuổi Trẻ Online tiếp tục nêu ý kiến đồng tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.984032+07:00",
+      "fetched": "2025-10-26T23:18:35.984141+07:00"
+    },
+    {
+      "id": "87d2c7fff2bca9a0af01bce51fe7e34b",
+      "title": "Học sinh lớp 3 bị trượt chân vào cống nước bên đường tử vong",
+      "link": "https://tuoitre.vn/hoc-sinh-lop-3-bi-truot-chan-vao-cong-nuoc-ben-duong-tu-vong-20251026192703798.htm",
+      "summary": "Một bé trai ở xã miền núi Đà Nẵng trong lúc ra đường chơi đùa ở mương thoát nước lúc trời mưa lớn, không may trượt chân vào cống chết đuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983922+07:00",
+      "fetched": "2025-10-26T23:18:35.984021+07:00"
+    },
+    {
+      "id": "5df30c40d1a3c6c04d2375a5bef8b594",
+      "title": "'Nàng thơ bị lãng quên' của Picasso trở lại sau hơn 80 năm",
+      "link": "https://tuoitre.vn/nang-tho-bi-lang-quen-cua-picasso-tro-lai-sau-hon-80-nam-20251026194117407.htm",
+      "summary": "Bức chân dung Dora Maar, nàng thơ và người tình của danh họa Picasso vừa được bán với giá 32 triệu euro tại một cuộc đấu giá ở Paris sau hơn 80 năm vắng bóng trước công chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983815+07:00",
+      "fetched": "2025-10-26T23:18:35.983912+07:00"
+    },
+    {
+      "id": "a3dcc378a27b275553407d93bcacf260",
+      "title": "Hoàng Anh Gia Lai gây chấn động tại Pleiku",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-gay-chan-dong-tai-pleiku-20251026163409762.htm",
+      "summary": "CLB Hoàng Anh Gia Lai đã có trận thắng đầu tiên tại V-League 2025-2026 khi đánh bại ứng viên vô địch Thể Công - Viettel trên sân Pleiku ở vòng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983709+07:00",
+      "fetched": "2025-10-26T23:18:35.983806+07:00"
+    },
+    {
+      "id": "ba07715dc9587cc44dcbcc459d273aa4",
+      "title": "Mùa hoa súng rực rỡ ở Ninh Bình khiến du khách ngỡ ngàng",
+      "link": "https://tuoitre.vn/mua-hoa-sung-ruc-ro-o-ninh-binh-khien-du-khach-ngo-ngang-20251026154627142.htm",
+      "summary": "Hết mùa lúa vàng, cánh đồng Tam Cốc (Ninh Bình) lại khiến du khách mê mẩn bởi sắc hồng của hoa súng tô điểm bên dòng sông Ngô Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983604+07:00",
+      "fetched": "2025-10-26T23:18:35.983700+07:00"
+    },
+    {
+      "id": "ebe838f7f56deaa75103f8b3ff7abd47",
+      "title": "Cầu thủ Việt kiều Viktor Lê mờ nhạt, Hà Tĩnh thua ngược CLB Hải Phòng",
+      "link": "https://tuoitre.vn/cau-thu-viet-kieu-viktor-le-mo-nhat-ha-tinh-thua-nguoc-clb-hai-phong-20251026200548916.htm",
+      "summary": "Viktor Lê thi đấu không như kỳ vọng và không thể giúp Hà Tĩnh tránh khỏi thất bại 1-2 trước Hải Phòng tối 26-10 tại vòng 8 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983499+07:00",
+      "fetched": "2025-10-26T23:18:35.983595+07:00"
+    },
+    {
+      "id": "61605b10da76a7260c9d10a44ce15e0c",
+      "title": "Belinda Bencic giành danh hiệu WTA thứ hai kể từ khi làm mẹ",
+      "link": "https://tuoitre.vn/belinda-bencic-gianh-danh-hieu-wta-thu-hai-ke-tu-khi-lam-me-2025102620155529.htm",
+      "summary": "Tay vợt người Thụy Sĩ Belinda Bencic đã đánh bại Linda Noskova 2-0 (6-2, 6-3) ngày 26-10 trong trận chung kết Pan Pacific Open. Đây là danh hiệu WTA thứ hai của tay vợt 28 tuổi này sau khi cô sinh đứa con đầu lòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983393+07:00",
+      "fetched": "2025-10-26T23:18:35.983489+07:00"
+    },
+    {
+      "id": "c1fa6dd88478cd24dbdfa78bbe044566",
+      "title": "Điện Kremlin: 'Nói cuộc gặp giữa hai ông Putin - Trump bị hủy là sai lầm'",
+      "link": "https://tuoitre.vn/dien-kremlin-noi-cuoc-gap-giua-hai-ong-putin-trump-bi-huy-la-sai-lam-20251026202622947.htm",
+      "summary": "Điện Kremlin khẳng định công tác chuẩn bị cho cuộc gặp giữa lãnh đạo Nga - Mỹ vẫn tiến triển, trong khi Thủ tướng Slovakia tuyên bố không tham gia sáng kiến hỗ trợ quân sự Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983286+07:00",
+      "fetched": "2025-10-26T23:18:35.983384+07:00"
+    },
+    {
+      "id": "64f2fefb1839c384c62be6e0a8c7a0ec",
+      "title": "‘Người cũ’ Vũ Quang Trung đã trở về, làm mới hit ‘Còn gì đẹp hơn’ của Nguyễn Hùng",
+      "link": "https://tuoitre.vn/nguoi-cu-vu-quang-trung-da-tro-ve-lam-moi-hit-con-gi-dep-hon-cua-nguyen-hung-20251026200852076.htm",
+      "summary": "Nhạc sĩ Vũ Quang Trung, đứng sau nhiều hit của ca sĩ Hà Trần, Mỹ Linh, vừa làm mới ca khúc Còn gì đẹp hơn được biết đến rộng khắp bởi ca, nhạc sĩ Nguyễn Hùng của MAYDAYs.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983171+07:00",
+      "fetched": "2025-10-26T23:18:35.983276+07:00"
+    },
+    {
+      "id": "9e3d33d518ad6b76f2f4b96896ece3d8",
+      "title": "Mưa lớn, sạt lở, lũ bủa vây, nhiều xã ở Quảng Ngãi cho học sinh nghỉ học, di dời dân",
+      "link": "https://tuoitre.vn/mua-lon-sat-lo-lu-bua-vay-nhieu-xa-o-quang-ngai-cho-hoc-sinh-nghi-hoc-di-doi-dan-20251026201313861.htm",
+      "summary": "Do mưa lớn kéo dài, sạt lở bủa vây, chính quyền nhiều xã miền núi Quảng Ngãi tính toán phương án ứng phó phù hợp thực tế. Có xã cho học sinh nghỉ học, có xã khẩn trương di dời dân trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.983059+07:00",
+      "fetched": "2025-10-26T23:18:35.983161+07:00"
+    },
+    {
+      "id": "ef1509ef5d0b33f86449501b3635b076",
+      "title": "Minh Vương 'tịt ngòi', Trường Tươi Đồng Nai mất thắng",
+      "link": "https://tuoitre.vn/minh-vuong-tit-ngoi-truong-tuoi-dong-nai-mat-thang-20251026163815619.htm",
+      "summary": "Ngôi sao Minh Vương không thể tỏa sáng, CLB Trường Tươi Đồng Nai đã bị Bắc Ninh cầm hòa trên sân nhà ở vòng 5 Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.982938+07:00",
+      "fetched": "2025-10-26T23:18:35.983049+07:00"
+    },
+    {
+      "id": "871a584337efa1f2208f4c0577fea44f",
+      "title": "Rimario trừng phạt sai lầm của thủ môn Cao Văn Bình",
+      "link": "https://tuoitre.vn/rimario-trung-phat-sai-lam-cua-thu-mon-cao-van-binh-2025102620352072.htm",
+      "summary": "Thủ môn Cao Văn Bình bỏ khung thành trống giúp tiền đạo Rimario Gordon ghi bàn thắng giúp Thanh Hóa \"kết liễu\" Sông Lam Nghệ An ở vòng 8 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.982829+07:00",
+      "fetched": "2025-10-26T23:18:35.982928+07:00"
+    },
+    {
+      "id": "fcb170def9f33d593fa653a81acc68b2",
+      "title": "Quang Dương trắng tay ở Giải pickleball VTV A.O Smith 2025",
+      "link": "https://tuoitre.vn/quang-duong-trang-tay-o-giai-pickleball-vtv-a-o-smith-2025-20251026205211117.htm",
+      "summary": "Tay vợt Việt kiều đình đám Quang Dương (Dương Thiên Quang) không thể có danh hiệu vô địch nào khi tham dự Giải pickleball VTV A.O Smith 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.982719+07:00",
+      "fetched": "2025-10-26T23:18:35.982820+07:00"
+    },
+    {
+      "id": "80a275d5cfd31aa62a4eb5a73f642c97",
+      "title": "Bạn trẻ Timor-Leste: 'Tự hào khi được sánh vai cùng gia đình ASEAN'",
+      "link": "https://tuoitre.vn/ban-tre-timor-leste-tu-hao-khi-duoc-sanh-vai-cung-gia-dinh-asean-20251026211624195.htm",
+      "summary": "Các bạn trẻ Timor-Leste, doanh nhân trẻ của nước này bày tỏ hạnh phúc và lạc quan với sự kiện trọng đại của đất nước mình thế nào? Một số bạn trẻ Việt Nam cũng chia sẻ quan điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.982598+07:00",
+      "fetched": "2025-10-26T23:18:35.982709+07:00"
+    },
+    {
+      "id": "00d6dcefb4aec9855effda6c7f9b68f0",
+      "title": "FIFA tổ chức riêng giải đấu cho Đông Nam Á",
+      "link": "https://tuoitre.vn/fifa-to-chuc-rieng-giai-dau-cho-dong-nam-a-20251026211831507.htm",
+      "summary": "Liên đoàn bóng đá thế giới (FIFA) sẽ ra mắt Giải bóng đá FIFA ASEAN Cup - một giải đấu khu vực nhằm thúc đẩy sự phát triển bóng đá tại Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:18:35.982333+07:00",
+      "fetched": "2025-10-26T23:18:35.982584+07:00"
+    },
     {
       "id": "09a7f081c9738135d975b046a6cadf76",
       "title": "Hai nghi phạm bị bắt trong vụ trộm táo tợn tại Bảo tàng Louvre",
@@ -453,6 +603,86 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T17:15:55.618469+07:00"
     },
     {
+      "id": "ce071acf88331e0455a2276a1cdde7eb",
+      "title": "Arsenal lại thắng nhờ 'bóng chết'",
+      "link": "https://vnexpress.net/arsenal-lai-thang-nho-bong-chet-4956028.html",
+      "summary": "Từ quả phạt cố định, Eberechi Eze ghi bàn duy nhất giúp Arsenal thắng đội khách Crystal Palace 1-0 ở vòng 9 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T16:09:10+07:00",
+      "fetched": "2025-10-26T23:18:43.998581+07:00"
+    },
+    {
+      "id": "118d6c5534898cfd8e4c555de151c4a1",
+      "title": "Man City gục ngã trước Aston Villa",
+      "link": "https://vnexpress.net/man-city-guc-nga-truoc-aston-villa-4956030.html",
+      "summary": "Man City thua trận thứ ba mùa này, với tỷ số 0-1 trước chủ nhà Aston Villa ở vòng 9 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T16:05:09+07:00",
+      "fetched": "2025-10-26T23:18:43.998734+07:00"
+    },
+    {
+      "id": "69cecb08df1892727b8ec3167763a965",
+      "title": "Bảo vệ bị hành hung trên tàu metro vì nhắc khách giữ trật tự",
+      "link": "https://vnexpress.net/bao-ve-bi-hanh-hung-tren-tau-metro-vi-nhac-khach-giu-trat-tu-4956016.html",
+      "summary": "Nam bảo vệ 35 tuổi bị hai thanh niên tấn công trên tàu metro Bến Thành - Suối Tiên, sau khi nhắc nhóm hành khách giữ trật tự, chiều 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T16:03:01+07:00",
+      "fetched": "2025-10-26T23:18:31.680538+07:00"
+    },
+    {
+      "id": "3390813e10427273d88ec78fe868a1b1",
+      "title": "Dàn sao dự đám cưới Á hậu Quỳnh Châu",
+      "link": "https://vnexpress.net/dan-sao-du-dam-cuoi-a-hau-quynh-chau-4955983.html",
+      "summary": "Hoa hậu Ngọc Châu, Lê Hoàng Phương, ca sĩ Hòa Minzy chúc phúc cho Quỳnh Châu và doanh nhân Phát Nguyễn tại tiệc cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:59:27+07:00",
+      "fetched": "2025-10-26T23:18:31.680691+07:00"
+    },
+    {
+      "id": "83350659b2f85c9135a4e5890af247ed",
+      "title": "Bí quyết giúp HAGL đánh bại Thể Công Viettel, HLV Popov nói  điều rất bất ngờ",
+      "link": "https://thanhnien.vn/bi-quyet-giup-hagl-danh-bai-the-cong-viettel-hlv-popov-noi-dieu-rat-bat-ngo-18525102620544699.htm",
+      "summary": "HAGL có trận thắng đầu tiên tại V-League 2025-2026. 'Nạn nhân' đầu tiên của họ ở mùa giải năm nay lại là đội bóng rất mạnh Thể Công Viettel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:46:00+07:00",
+      "fetched": "2025-10-26T23:18:35.033579+07:00"
+    },
+    {
+      "id": "0db64724d35f1a952ef9ebdc54d43090",
+      "title": "Những điểm nhấn tại hội chợ mùa Thu 2025",
+      "link": "https://vnexpress.net/nhung-diem-nhan-tai-hoi-cho-mua-thu-2025-4956020.html",
+      "summary": "Hội chợ Mùa Thu 2025 khai mạc sáng 26/10 tại Trung tâm Triển lãm Việt Nam, tạo dấu ấn bằng hệ sinh thái đa lĩnh vực, biểu diễn nghệ thuật, hút hàng nghìn khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:45:00+07:00",
+      "fetched": "2025-10-26T23:18:31.680835+07:00"
+    },
+    {
+      "id": "1b26ff22284635bcb0ae5e4fb6556299",
+      "title": "Honda CT125 giá 87,4 triệu đồng: xe số cho người thích phượt",
+      "link": "https://vnexpress.net/honda-ct125-gia-87-4-trieu-dong-xe-so-cho-nguoi-thich-phuot-4955921.html",
+      "summary": "Mẫu \"xế phượt\" mới chào thị trường Việt Nam, lắp động cơ 125 phân khối, phanh ABS một kênh, bán từ 4/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:34:14+07:00",
+      "fetched": "2025-10-26T23:18:31.680971+07:00"
+    },
+    {
+      "id": "23e521bcc8e0b3f6e204e7ecf722d50d",
+      "title": "Hai người tử vong trong mưa lớn ở Đà Nẵng",
+      "link": "https://vnexpress.net/hai-nguoi-tu-vong-trong-mua-lon-o-da-nang-4956014.html",
+      "summary": "Trong mưa lớn, nam sinh lớp 3 ra tắm mưa trước nhà không may trượt chân rơi vào ống nước, một phụ nữ chạy xe máy lao xuống vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:32:27+07:00",
+      "fetched": "2025-10-26T23:18:31.681137+07:00"
+    },
+    {
       "id": "d33c028394cce73afc899a9b5938652d",
       "title": "Nghệ sĩ Thái Lan bày tỏ tiếc thương Vương Thái hậu Sirikit",
       "link": "https://tuoitre.vn/nghe-si-thai-lan-bay-to-tiec-thuong-vuong-thai-hau-sirikit-20251026112606969.htm",
@@ -603,6 +833,116 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T15:19:52.114796+07:00"
     },
     {
+      "id": "f1b41099172c43ed72fa2671feecf887",
+      "title": "Chanathip bị đuổi vì giật chỏ vào mặt đối thủ ở Thai League 1",
+      "link": "https://vnexpress.net/chanathip-bi-duoi-vi-giat-cho-vao-mat-doi-thu-o-thai-league-1-4956012.html",
+      "summary": "Chanathip Songkrasin nhận thẻ đỏ trực tiếp trong trận BG Pathum United thua Sukhothai 1-3 ở vòng 9 Thai League 1 2025-2026, tối 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:10:20+07:00",
+      "fetched": "2025-10-26T23:18:31.681272+07:00"
+    },
+    {
+      "id": "f1b41099172c43ed72fa2671feecf887",
+      "title": "Chanathip bị đuổi vì giật chỏ vào mặt đối thủ ở Thai League 1",
+      "link": "https://vnexpress.net/chanathip-bi-duoi-vi-giat-cho-vao-mat-doi-thu-o-thai-league-1-4956012.html",
+      "summary": "Chanathip Songkrasin nhận thẻ đỏ trực tiếp trong trận BG Pathum United thua Sukhothai 1-3 ở vòng 9 Thai League 1 2025-2026, tối 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T15:10:20+07:00",
+      "fetched": "2025-10-26T23:18:43.998877+07:00"
+    },
+    {
+      "id": "a9ae5624e6678f1c28c5af103a17eea9",
+      "title": "Lan tỏa những hình ảnh đẹp của thanh niên công nhân",
+      "link": "https://thanhnien.vn/lan-toa-nhung-hinh-anh-dep-cua-thanh-nien-cong-nhan-185251026212318081.htm",
+      "summary": "Tối 26.10, tại nhà văn hóa thanh niên TP.HCM đã diễn ra lễ kỷ niệm 69 năm ngày truyền thống Hội Liên hiệp thanh niên Việt Nam và 43 năm Ngày Truyền thống thanh niên công nhân TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:09:00+07:00",
+      "fetched": "2025-10-26T23:18:35.033727+07:00"
+    },
+    {
+      "id": "30135348bf53e75da0cfbd713183b5ff",
+      "title": "Katy Perry và cựu Thủ tướng Canada công khai hẹn hò",
+      "link": "https://thanhnien.vn/katy-perry-va-cuu-thu-tuong-canada-cong-khai-hen-ho-185251026214954892.htm",
+      "summary": "Nữ ca sĩ Katy Perry và cựu Thủ tướng Canada Justin Trudeau cùng xem biểu diễn tạp kỹ ở Paris (Pháp) dịp sinh nhật của ngôi sao Mỹ. Đây là lần đầu tiên cả hai xuất hiện công khai trước công chúng với tư cách là một cặp đôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:05:00+07:00",
+      "fetched": "2025-10-26T23:18:35.033865+07:00"
+    },
+    {
+      "id": "dc6228d2c3f2b7590a3d366ddfa0a567",
+      "title": "Kỹ sư lập trình 39 tuổi chưa hẹn hò ai từ chối cô gái xinh đẹp",
+      "link": "https://thanhnien.vn/ky-su-lap-trinh-39-tuoi-chua-hen-ho-ai-tu-choi-co-gai-xinh-dep-185251026204512114.htm",
+      "summary": "Kỹ sư lập trình còn độc thân tuổi 39 đến 'Bạn muốn hẹn hò' tìm vợ, được mai mối với nữ thạc sĩ trẻ trung, xinh đẹp. Sau quá trình trò chuyện trên chương trình, cả hai đều từ chối hẹn hò vì thấy không phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:01:00+07:00",
+      "fetched": "2025-10-26T23:18:35.033996+07:00"
+    },
+    {
+      "id": "b7691009d035a3e6c29a9c9dc574b60b",
+      "title": "Mỹ nói Trung Quốc sẽ mua 'đáng kể' đậu nành nước này",
+      "link": "https://vnexpress.net/my-noi-trung-quoc-se-mua-dang-ke-dau-nanh-nuoc-nay-4956000.html",
+      "summary": "Bộ trưởng Tài chính Mỹ nói Trung Quốc sẽ mua \"đáng kể\" đậu nành nước này, một phần trong \"đồng thuận sơ bộ\" vòng đàm phán mới nhất giữa hai nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:00:28+07:00",
+      "fetched": "2025-10-26T23:18:31.681404+07:00"
+    },
+    {
+      "id": "b7691009d035a3e6c29a9c9dc574b60b",
+      "title": "Mỹ nói Trung Quốc sẽ mua 'đáng kể' đậu nành nước này",
+      "link": "https://vnexpress.net/my-noi-trung-quoc-se-mua-dang-ke-dau-nanh-nuoc-nay-4956000.html",
+      "summary": "Bộ trưởng Tài chính Mỹ nói Trung Quốc sẽ mua \"đáng kể\" đậu nành nước này, một phần trong \"đồng thuận sơ bộ\" vòng đàm phán mới nhất giữa hai nền kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T15:00:28+07:00",
+      "fetched": "2025-10-26T23:18:39.388274+07:00"
+    },
+    {
+      "id": "3583928651cd95f8becfeb98c64923fc",
+      "title": "Giày cao gót màu đỏ tía thanh lịch 'thắp sáng' phong cách mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giay-cao-got-mau-do-tia-thanh-lich-thap-sang-phong-cach-mua-thu-18525102613492364.htm",
+      "summary": "Với chất liệu da, da bóng hoặc da lộn, cùng gót vuông hoặc gót nhọn: giày cao gót kiểu dáng décolleté (giày hở gót) màu đỏ tía đã trở lại như một món đồ chủ đạo trong mùa thu năm nay với vẻ đẹp vượt thời gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T15:00:00+07:00",
+      "fetched": "2025-10-26T23:18:35.034142+07:00"
+    },
+    {
+      "id": "50dbe433cb1858db67127c7f07e9fd1d",
+      "title": "Á hậu Quỳnh Châu nói yêu chồng kể cả lúc khó khăn",
+      "link": "https://vnexpress.net/a-hau-quynh-chau-noi-yeu-chong-ke-ca-luc-kho-khan-4955984.html",
+      "summary": "Á hậu Quỳnh Châu, doanh nhân Phát Nguyễn cho biết vượt qua khó khăn, thất bại để yêu nhau bằng sự chân thành, ở lễ cưới tối 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:52:30+07:00",
+      "fetched": "2025-10-26T23:18:31.681536+07:00"
+    },
+    {
+      "id": "499eb2ec6289c4574787174bf544ef77",
+      "title": "Khổ tâm vì vợ lương 12 triệu mua mỹ phẩm, quần áo hết 3 triệu",
+      "link": "https://vnexpress.net/kho-tam-vi-vo-luong-12-trieu-mua-my-pham-quan-ao-het-3-trieu-4955936.html",
+      "summary": "Mỗi khi tôi đề cập đến chuyện chi tiêu này, vợ luôn nói là 'làm đẹp cho bản thân'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:30:23+07:00",
+      "fetched": "2025-10-26T23:18:31.681666+07:00"
+    },
+    {
+      "id": "3f4bfe3fe0113732b8bd91b43c249d61",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 26.10, 15 tỉ đồng chưa tìm được 'chủ nhân'",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-2610-15-ti-dong-chua-tim-duoc-chu-nhan-185251026190907499.htm",
+      "summary": "Tối 26.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, không ghi nhận người trúng nên tiền cộng dồn lên hơn 15 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:17:00+07:00",
+      "fetched": "2025-10-26T23:18:35.034272+07:00"
+    },
+    {
       "id": "a100416b6f33ba66a68df79ab89f5522",
       "title": "Đỗ Minh Quân và Trương Vinh Hiển đăng quang giải pickleball VTV Open",
       "link": "https://thanhnien.vn/do-minh-quan-va-truong-vinh-hien-dang-quang-giai-pickleball-vtv-open-185251026203323164.htm",
@@ -643,6 +983,26 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T21:13:58.139760+07:00"
     },
     {
+      "id": "9ed92d736645d74340539cdfa1212ea4",
+      "title": "FIFA sẽ tổ chức giải đấu đặc biệt cho Đông Nam Á",
+      "link": "https://vnexpress.net/fifa-se-to-chuc-giai-dau-dac-biet-cho-dong-nam-a-4956004.html",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) xác nhận sẽ tổ chức giải đấu đặc biệt FIFA ASEAN Cup cho 11 đội tuyển Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T14:04:30+07:00",
+      "fetched": "2025-10-26T23:18:31.681796+07:00"
+    },
+    {
+      "id": "9ed92d736645d74340539cdfa1212ea4",
+      "title": "FIFA sẽ tổ chức giải đấu đặc biệt cho Đông Nam Á",
+      "link": "https://vnexpress.net/fifa-se-to-chuc-giai-dau-dac-biet-cho-dong-nam-a-4956004.html",
+      "summary": "Liên đoàn Bóng đá Thế giới (FIFA) xác nhận sẽ tổ chức giải đấu đặc biệt FIFA ASEAN Cup cho 11 đội tuyển Đông Nam Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T14:04:30+07:00",
+      "fetched": "2025-10-26T23:18:43.999012+07:00"
+    },
+    {
       "id": "d73141029a372aa18c5c15cc2e2f9942",
       "title": "Hai lần giúp người trong ngày, tôi không nhận được lời cảm ơn",
       "link": "https://vnexpress.net/hai-lan-giup-nguoi-trong-ngay-toi-khong-nhan-duoc-loi-cam-on-4955277.html",
@@ -671,6 +1031,26 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T13:47:46+07:00",
       "fetched": "2025-10-26T21:13:54.668970+07:00"
+    },
+    {
+      "id": "7c0babc8ad510d55ebb54cbcb704a15d",
+      "title": "Thanh Hóa ngắt mạch 15 trận không thắng ở V-League",
+      "link": "https://vnexpress.net/thanh-hoa-ngat-mach-15-tran-khong-thang-o-v-league-4956003.html",
+      "summary": "Thanh Hóa hạ SLNA 1-0 ở vòng 8 V-League, qua đó có chiến thắng đầu tiên trong mùa giải 2025-2026, tối 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T13:47:46+07:00",
+      "fetched": "2025-10-26T23:18:31.682103+07:00"
+    },
+    {
+      "id": "7c0babc8ad510d55ebb54cbcb704a15d",
+      "title": "Thanh Hóa ngắt mạch 15 trận không thắng ở V-League",
+      "link": "https://vnexpress.net/thanh-hoa-ngat-mach-15-tran-khong-thang-o-v-league-4956003.html",
+      "summary": "Thanh Hóa hạ SLNA 1-0 ở vòng 8 V-League, qua đó có chiến thắng đầu tiên trong mùa giải 2025-2026, tối 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T13:47:46+07:00",
+      "fetched": "2025-10-26T23:18:43.999168+07:00"
     },
     {
       "id": "a6aee986541c0eccf51a11e7fbea8a07",
