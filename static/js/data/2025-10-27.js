@@ -1,7 +1,157 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T21:18:02.306863+07:00",
+  "lastUpdated": "2025-10-27T23:22:01.865055+07:00",
   "articles": [
+    {
+      "id": "a430e456e24d033e4f3114ea0afe0cec",
+      "title": "Gần 1.000 tỉ đồng làm đường kết nối hai khu công nghiệp ở 'thủ phủ công nghiệp' Bắc Ninh",
+      "link": "https://tuoitre.vn/gan-1-000-ti-dong-lam-duong-ket-noi-hai-khu-cong-nghiep-o-thu-phu-cong-nghiep-bac-ninh-20251027201307969.htm",
+      "summary": "UBND tỉnh Bắc Ninh vừa có quyết định chủ trương đầu tư gần 1.000 tỉ đồng làm đường mới, kết nối hai khu công nghiệp Quang Châu và Vân Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739750+07:00",
+      "fetched": "2025-10-27T23:21:44.739860+07:00"
+    },
+    {
+      "id": "51354dab5d36f93d43989acb31c8d03e",
+      "title": "Cấm xe tải trên 7,5 tấn, xe khách trên 29 chỗ chạy làn 1 đường cao tốc TP.HCM - Trung Lương",
+      "link": "https://tuoitre.vn/cam-xe-tai-tren-7-5-tan-xe-khach-tren-29-cho-chay-lan-1-duong-cao-toc-tp-hcm-trung-luong-20251027212343414.htm",
+      "summary": "Việc cấm xe tải trên 7,5 tấn và xe khách trên 29 chỗ chạy làn 1 đường cao tốc TP.HCM - Trung Lương được thí điểm trong 1 tháng kể từ ngày 27-10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739622+07:00",
+      "fetched": "2025-10-27T23:21:44.739739+07:00"
+    },
+    {
+      "id": "da7b466bc857c25faa1a2c9739904c82",
+      "title": "Thủ tướng: Việt Nam sẵn sàng đóng góp cho tiến trình hòa bình bán đảo Triều Tiên",
+      "link": "https://tuoitre.vn/thu-tuong-viet-nam-san-sang-dong-gop-cho-tien-trinh-hoa-binh-ban-dao-trieu-tien-20251027212211576.htm",
+      "summary": "Thông điệp được Thủ tướng Phạm Minh Chính nêu trong Hội nghị cấp cao Đông Á (EAS) có sự tham dự của lãnh đạo nhiều nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739482+07:00",
+      "fetched": "2025-10-27T23:21:44.739610+07:00"
+    },
+    {
+      "id": "b20f8063fd645e10dbecc7f76cfa9cd1",
+      "title": "Hà Nội bốc thăm lựa chọn ngẫu nhiên 56 cán bộ để xác minh tài sản",
+      "link": "https://tuoitre.vn/ha-noi-boc-tham-lua-chon-ngau-nhien-56-can-bo-de-xac-minh-tai-san-20251027204650354.htm",
+      "summary": "56 người tại 19 cơ quan, đơn vị tại Hà Nội đã được lựa chọn ngẫu nhiên để xác minh tài sản, thu nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739356+07:00",
+      "fetched": "2025-10-27T23:21:44.739471+07:00"
+    },
+    {
+      "id": "78402b70ecefae46e6d794c8acbd423f",
+      "title": "Vụ nam sinh lớp 9 bị bạn đâm tử vong: Mâu thuẫn từ lời rủ đi chơi bất thành",
+      "link": "https://tuoitre.vn/vu-nam-sinh-lop-9-bi-ban-dam-tu-vong-mau-thuan-tu-loi-ru-di-choi-bat-thanh-20251027212123356.htm",
+      "summary": "Sau khi rủ bạn đi chơi bất thành rồi thách thức đánh nhau qua điện thoại, nam thiếu niên 14 tuổi ở Hà Nội hẹn gặp rồi đâm bạn cùng tuổi tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739234+07:00",
+      "fetched": "2025-10-27T23:21:44.739345+07:00"
+    },
+    {
+      "id": "6ba578cf963d107aa2f76dcd1b7c4d99",
+      "title": "Nhiều tuyến đường trung tâm Phan Thiết ngập nặng sau mưa",
+      "link": "https://tuoitre.vn/nhieu-tuyen-duong-trung-tam-phan-thiet-ngap-nang-sau-mua-20251027210012297.htm",
+      "summary": "Cơn mưa lớn chiều 27-10 khiến nhiều tuyến đường tại các phường Phan Thiết, Phú Thủy, Bình Thuận, tỉnh Lâm Đồng ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.739110+07:00",
+      "fetched": "2025-10-27T23:21:44.739222+07:00"
+    },
+    {
+      "id": "31a4b2525e01a55b0faf9c0418f29e7f",
+      "title": "Đá hơn người vẫn thua, HLV CLB Công An TP.HCM nói gì?",
+      "link": "https://tuoitre.vn/da-hon-nguoi-van-thua-hlv-clb-cong-an-tp-hcm-noi-gi-20251027214201533.htm",
+      "summary": "HLV trưởng Lê Huỳnh Đức của Công An TP.HCM nhận trách nhiệm khi đội thua 0-1 trước Công An Hà Nội tối 27-10 thuộc vòng 8 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738985+07:00",
+      "fetched": "2025-10-27T23:21:44.739099+07:00"
+    },
+    {
+      "id": "241e6df294a3ec9d8e8067efc4965a76",
+      "title": "3 hình thế thời tiết gây mưa đặc biệt lớn ở miền Trung",
+      "link": "https://tuoitre.vn/3-hinh-the-thoi-tiet-gay-mua-dac-biet-lon-o-mien-trung-20251027140040117.htm",
+      "summary": "Tổ hợp hình thế thời tiết không khí lạnh tầng thấp, dải hội tụ nhiệt đới dâng trục từ phía nam lên, cộng thêm trường gió đông ẩm gây ra mưa đặc biệt lớn ở miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738855+07:00",
+      "fetched": "2025-10-27T23:21:44.738974+07:00"
+    },
+    {
+      "id": "7e79caa33b757408189d737c17d769ac",
+      "title": "Mưa lớn gây sạt lở trên đèo Ngoạn Ngục nối Khánh Hòa và Lâm Đồng",
+      "link": "https://tuoitre.vn/mua-lon-gay-sat-lo-tren-deo-ngoan-nguc-noi-khanh-hoa-va-lam-dong-20251027213601965.htm",
+      "summary": "Mưa lớn đã gây sạt lở trên quốc lộ 27 nối Khánh Hòa và Lâm Đồng đoạn qua đèo Ngoạn Ngục thuộc địa phận xã Lâm Sơn (tỉnh Khánh Hòa). Hiện lực lượng chức năng đang chốt chặn, không cho các phương tiện qua lại để đảm bảo an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738713+07:00",
+      "fetched": "2025-10-27T23:21:44.738843+07:00"
+    },
+    {
+      "id": "8d9da9ad065034da54a8a1923d24efce",
+      "title": "Đầu tư khu lấn biển, sân bay và 73 dự án gần 21.650 tỉ cho Côn Đảo từ nay đến 2030",
+      "link": "https://tuoitre.vn/dau-tu-khu-lan-bien-san-bay-va-73-du-an-gan-21-650-ti-cho-con-dao-tu-nay-den-2030-20251027212203573.htm",
+      "summary": "Hai dự án lấn biển, cảng hàng không cùng 73 dự án hạ tầng kỹ thuật, hạ tầng xã hội và dự án khác với tổng vốn đầu tư công dự kiến gần 21.650 tỉ đồng cho Côn Đảo \"cất cánh\" đến năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738559+07:00",
+      "fetched": "2025-10-27T23:21:44.738696+07:00"
+    },
+    {
+      "id": "9ebe0acdd68df1185ab4e136023f579c",
+      "title": "Giá thuê nhà ở Anh leo thang kỷ lục, chiếm 44% mỗi tháng lương",
+      "link": "https://tuoitre.vn/gia-thue-nha-o-anh-leo-thang-ky-luc-chiem-44-moi-thang-luong-20251027143507321.htm",
+      "summary": "Số tiền mà người thuê phải trả tại một số nơi ở Anh đã tăng hơn 25% chỉ trong vòng một năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738432+07:00",
+      "fetched": "2025-10-27T23:21:44.738547+07:00"
+    },
+    {
+      "id": "58d4dda03b1f6f582bba59118bcce9cf",
+      "title": "Bảng xếp hạng V-League vòng 8: CLB Công An Hà Nội áp sát Ninh Bình",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-8-clb-cong-an-ha-noi-ap-sat-ninh-binh-20251027212918226.htm",
+      "summary": "CLB Công An Hà Nội bám đuổi sát sao Ninh Bình sau khi vòng 9 V-League 2025-2026 kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738304+07:00",
+      "fetched": "2025-10-27T23:21:44.738421+07:00"
+    },
+    {
+      "id": "e4c78853997535634e9aa622170b0c44",
+      "title": "Bộ Quốc phòng: Điều động lực lượng, phương tiện cao nhất ứng phó mưa lũ tại Trung Bộ",
+      "link": "https://tuoitre.vn/bo-quoc-phong-dieu-dong-luc-luong-phuong-tien-cao-nhat-ung-pho-mua-lu-tai-trung-bo-20251027220638944.htm",
+      "summary": "Bộ Quốc phòng vừa có công điện hỏa tốc gửi các đơn vị, về việc tập trung ứng phó khẩn cấp và khắc phục hậu quả mưa lũ lớn tại khu vực Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738170+07:00",
+      "fetched": "2025-10-27T23:21:44.738292+07:00"
+    },
+    {
+      "id": "e7c028d0081df5a89286d83b4dc9663d",
+      "title": "Quốc lộ 20 dẫn vào Đà Lạt ngập sâu do mưa lớn",
+      "link": "https://tuoitre.vn/quoc-lo-20-dan-vao-da-lat-ngap-sau-do-mua-lon-20251027221026876.htm",
+      "summary": "Quốc lộ 20 đoạn quã xã Hiệp Thạnh (giáp Đà Lạt) ngập sâu do mưa lớn kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.738027+07:00",
+      "fetched": "2025-10-27T23:21:44.738156+07:00"
+    },
+    {
+      "id": "c001b56248f0910993f1f78bd28952c9",
+      "title": "Liên hoan Âm nhạc toàn quốc mở rộng 2025 khởi động Năm Giao lưu Nhân văn Việt - Trung",
+      "link": "https://tuoitre.vn/lien-hoan-am-nhac-toan-quoc-mo-rong-2025-khoi-dong-nam-giao-luu-nhan-van-viet-trung-20251027221946872.htm",
+      "summary": "Liên hoan Âm nhạc toàn quốc mở rộng 2025 với chủ đề Âm nhạc hội tụ và lan tỏa, khởi động Năm Giao lưu Nhân văn Việt - Trung sẽ diễn ra tại Nhà hát Quân đội phía Nam và Nhà hát TP.HCM, từ ngày 29-10 đến 2-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:21:44.737797+07:00",
+      "fetched": "2025-10-27T23:21:44.738011+07:00"
+    },
     {
       "id": "677b9730d106272d614b4b8f66160e1c",
       "title": "Tê tê Java quý hiếm 5kg 'đi lạc' ở phường An Lạc, người dân bắt lại giao kiểm lâm",
@@ -393,6 +543,76 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T17:20:04.971807+07:00"
     },
     {
+      "id": "7b186083c2494539b27375caab956bec",
+      "title": "Tin cực vui: Việt Nam đoạt HCV đầu tiên ở Đại hội thể thao trẻ châu Á",
+      "link": "https://thanhnien.vn/tin-cuc-vui-viet-nam-doat-hcv-dau-tien-o-dai-hoi-the-thao-tre-chau-a-185251027230258194.htm",
+      "summary": "Tin vui từ Bahrain hôm nay khi đô cử người Khánh Hòa Nguyễn Thành Duy xuất sắc mang về cho thể thao Việt Nam tấm HCV đầu tiên ở Đại hội thể thao trẻ châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T16:08:00+07:00",
+      "fetched": "2025-10-27T23:21:43.823703+07:00"
+    },
+    {
+      "id": "737bb9984de38ea7fb916a12410c4d7e",
+      "title": "Điều tàu hàng 700 tấn ngăn lũ cuốn trôi cầu Bạch Hổ",
+      "link": "https://vnexpress.net/dieu-tau-hang-700-tan-ngan-lu-cuon-troi-cau-bach-ho-4956503.html",
+      "summary": "Tổng công ty Đường sắt Việt Nam điều 19 toa xe chở gần 700 tấn đá án ngữ trên cầu Bạch Hổ để tăng tải trọng, tránh nguy cơ bị lũ cuốn trôi cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:56:42+07:00",
+      "fetched": "2025-10-27T23:21:40.172195+07:00"
+    },
+    {
+      "id": "b2689c497bc6206a0158a2a64cc21273",
+      "title": "Đà Nẵng: Ô tô 7 chỗ bị đất đá vùi lấp trên đường Hồ Chí Minh",
+      "link": "https://thanhnien.vn/da-nang-o-to-7-cho-bi-dat-da-vui-lap-tren-duong-ho-chi-minh-185251027215808507.htm",
+      "summary": "Ô tô 7 chỗ bị đất đá sạt lở vùi lấp trên đường Hồ Chí Minh đoạn qua địa bàn TP.Đà Nẵng, rất may 2 người trên xe thoát nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:40:00+07:00",
+      "fetched": "2025-10-27T23:21:43.823873+07:00"
+    },
+    {
+      "id": "512c0cd2763f3f93315b39d15a61f0e9",
+      "title": "H'Hen Niê lên tiếng về tin đồn ‘biến dạng ngoại hình’ sau khi sinh",
+      "link": "https://thanhnien.vn/hhen-nie-len-tieng-ve-tin-don-bien-dang-ngoai-hinh-sau-khi-sinh-185251027204453026.htm",
+      "summary": "H'Hen Niê vừa có những chia sẻ về hành trình làm mẹ, đồng thời lên tiếng trước những tin đồn không đúng về mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:36:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824029+07:00"
+    },
+    {
+      "id": "a9ea5b2c68877c0f14198855acbcb1f1",
+      "title": "'Trùm vai phụ' Hứa Thiệu Hùng nguy kịch, loạt sao Hồng Kông tức tốc đến bệnh viện",
+      "link": "https://thanhnien.vn/trum-vai-phu-hua-thieu-hung-nguy-kich-loat-sao-hong-kong-tuc-toc-den-benh-vien-185251027220957648.htm",
+      "summary": "Thông tin Hứa Thiệu Hùng nhập viện trong tình trạng nguy kịch đang gây xôn xao làng giải trí Hồng Kông. Miêu Kiều Vỹ, Âu Dương Chấn Hoa, Huỳnh Tông Trạch, Lâm Phong… vội vã đến bệnh viện, Xa Thi Mạn hủy sự kiện, tức tốc về gặp 'trùm vai phụ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:35:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824183+07:00"
+    },
+    {
+      "id": "1f53dd6158772f550abec871afbeb4ee",
+      "title": "Đưa đoàn tàu chở gần 700 tấn đá, ngăn lũ cuốn cầu đường sắt trên sông Hương",
+      "link": "https://thanhnien.vn/dua-doan-tau-cho-gan-700-tan-da-ngan-lu-cuon-cau-duong-sat-tren-song-huong-185251027213834941.htm",
+      "summary": "Tổng công ty đường sắt Việt Nam cho biết, để bảo vệ cầu đường sắt Bạch Hổ trên sông Hương trước mưa lũ lớn lịch sử, đoàn tàu 19 toa xe chở gần 700 tấn đã được đưa ra trấn giữ cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:32:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824335+07:00"
+    },
+    {
+      "id": "21bbf41bd4cef7de6a7e822fa9d5fe22",
+      "title": "Lũ lịch sử, bủa vây khắp Huế: Người già, phụ nữ... bị mắc kẹt lên mạng kêu cứu",
+      "link": "https://thanhnien.vn/lu-lich-su-bua-vay-khap-hue-nguoi-gia-phu-nu-bi-mac-ket-len-mang-keu-cuu-185251027213207117.htm",
+      "summary": "Ngập lụt diện rộng ở TP.Huế khiến đảo lộn sinh hoạt của người dân, nhiều người lên mạng xã hội kêu cứu, cả bệnh nhân cũng phải di chuyển...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:27:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824486+07:00"
+    },
+    {
       "id": "9a8240ba80a394e9e41af84847320aff",
       "title": "Venezuela chỉ trích Mỹ gây hấn khi điều tàu chiến diễn tập sát bên",
       "link": "https://tuoitre.vn/venezuela-chi-trich-my-gay-han-khi-dieu-tau-chien-dien-tap-sat-ben-20251027093729453.htm",
@@ -543,6 +763,146 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T15:23:23.961930+07:00"
     },
     {
+      "id": "c4af2654a50b7762bb93040a70e6100a",
+      "title": "4 người nước ngoài sát hại tài xế taxi",
+      "link": "https://vnexpress.net/4-nguoi-nuoc-ngoai-sat-hai-tai-xe-taxi-4956303.html",
+      "summary": "Bốn người nước ngoài khai nhập cảnh cảnh trái phép vào Việt Nam tìm việc làm, được taxi chở đi nhưng bất ngờ tấn công vào cùng cổ tài xế vì \"tưởng bị lừa bán\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:12:39+07:00",
+      "fetched": "2025-10-27T23:21:40.172312+07:00"
+    },
+    {
+      "id": "126ad95c1fee982e26bbde08d6c46b2d",
+      "title": "Duy trì chế độ ăn này có thể giúp bạn khỏe mạnh khi về già",
+      "link": "https://thanhnien.vn/duy-tri-che-do-an-nay-co-the-giup-ban-khoe-manh-khi-ve-gia-185251027171911294.htm",
+      "summary": "Chế độ ăn uống lành mạnh ở độ tuổi 40 có thể giúp bạn duy trì sức khỏe tinh thần và thể chất ở độ tuổi 70.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:11:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824653+07:00"
+    },
+    {
+      "id": "c7bebf1ad919de2d0affa928e63b8640",
+      "title": "Lâm Đồng: Mưa lớn, QL20 qua xã Hiệp Thạnh ngập nặng",
+      "link": "https://thanhnien.vn/lam-dong-mua-lon-ql20-qua-xa-hiep-thanh-ngap-nang-185251027213406288.htm",
+      "summary": "Do mưa lớn kéo dài, đoạn QL20 đi qua xã Hiệp Thạnh (Lâm Đồng) hiện đang bị ngập sâu, giao thông bị chia cắt cục bộ, nhiều nhà dân ngập nước, chính quyền địa phương phát đi thông báo khẩn cấp",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:10:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824804+07:00"
+    },
+    {
+      "id": "0bbba1b885bc9e6205ac0b34b5a3a8f9",
+      "title": "HLV Lê Huỳnh Đức chê học trò nôn nóng, HLV Polking 'Tiến Linh hay nhất Việt Nam, nhưng...'",
+      "link": "https://thanhnien.vn/hlv-le-huynh-duc-che-hoc-tro-non-nong-hlv-polking-tien-linh-hay-nhat-viet-nam-nhung-185251027220337291.htm",
+      "summary": "HLV Lê Huỳnh Đức cho rằng CLB Công an TP.HCM thua CLB CAHN bởi sự non nớt, trong khi HLV Polking tự hào vì học trò đã thắng trong thế thiếu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:08:00+07:00",
+      "fetched": "2025-10-27T23:21:43.824950+07:00"
+    },
+    {
+      "id": "6e137ec3b09ecc1bf18713ef11048bfd",
+      "title": "Đi sai bất chấp CSGT ghi hình phạt nguội 'vi phạm vì chạy theo thói quen'",
+      "link": "https://thanhnien.vn/di-sai-bat-chap-csgt-ghi-hinh-phat-nguoi-vi-pham-vi-chay-theo-thoi-quen-185251027215436481.htm",
+      "summary": "Dù CSGT công khai cầm camera đứng trước biển báo ghi hình phạt nguội nhưng nhiều người chạy xe đến nhìn thấy lực lượng nhưng vẫn bất chấp vi phạm. Tất cả những trường hợp vi phạm đều lọt vào camera của CSGT. Sau khi trích xuất thông tin, CSGT sẽ gửi thông báo vi phạm đến các chủ xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:06:00+07:00",
+      "fetched": "2025-10-27T23:21:43.825096+07:00"
+    },
+    {
+      "id": "babc6d3e98739233bae9d95577895896",
+      "title": "Việt - Nga sớm ký thoả thuận để khởi công nhà máy điện hat nhân",
+      "link": "https://vnexpress.net/viet-nga-som-ky-thoa-thuan-de-khoi-cong-nha-may-dien-hat-nhan-4956487.html",
+      "summary": "Việt Nam - Nga nhất trí đẩy nhanh trao đổi, đàm phán, sớm ký kết các thỏa thuận cần thiết để có thể khởi công nhà máy điện hạt nhân Ninh Thuận theo kế hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:05:25+07:00",
+      "fetched": "2025-10-27T23:21:40.172485+07:00"
+    },
+    {
+      "id": "babc6d3e98739233bae9d95577895896",
+      "title": "Việt - Nga sớm ký thoả thuận để khởi công nhà máy điện hat nhân",
+      "link": "https://vnexpress.net/viet-nga-som-ky-thoa-thuan-de-khoi-cong-nha-may-dien-hat-nhan-4956487.html",
+      "summary": "Việt Nam - Nga nhất trí đẩy nhanh trao đổi, đàm phán, sớm ký kết các thỏa thuận cần thiết để có thể khởi công nhà máy điện hạt nhân Ninh Thuận theo kế hoạch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T15:05:25+07:00",
+      "fetched": "2025-10-27T23:21:52.070062+07:00"
+    },
+    {
+      "id": "693ef9e9cdebf1ce2099397281f19b7c",
+      "title": "10 người ra tòa vì bôi nhọ hình ảnh Đệ nhất phu nhân Pháp",
+      "link": "https://thanhnien.vn/10-nguoi-ra-toa-vi-boi-nho-hinh-anh-de-nhat-phu-nhan-phap-18525102720352296.htm",
+      "summary": "AP hôm 27.10 đưa tin tòa án Paris đã tổ chức phiên xét xử tổng cộng 10 người can tội quấy rối trên mạng đối với Đệ nhất phu nhân Pháp Brigitte Macron, theo đó các bị cáo phát tán tin giả về giới tính của bà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:02:00+07:00",
+      "fetched": "2025-10-27T23:21:43.825241+07:00"
+    },
+    {
+      "id": "67925957ec62219cf8852a2e7d00dcfe",
+      "title": "1001 thiết kế sơ mi để nàng nổi bật và hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/1001-thiet-ke-so-mi-de-nang-noi-bat-va-hien-dai-18525102707552944.htm",
+      "summary": "Chiếc sơ mi cổ điển - biểu tượng của sự thanh lịch đang được giới mộ điệu \"thức tỉnh\" trong một diện mạo hoàn toàn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T15:00:00+07:00",
+      "fetched": "2025-10-27T23:21:43.825389+07:00"
+    },
+    {
+      "id": "891162cea27b004902751b271a48231f",
+      "title": "Đà Nẵng: Xót xa cảnh người dân khiêng quan tài vượt lũ dữ đi an táng",
+      "link": "https://thanhnien.vn/da-nang-xot-xa-canh-nguoi-dan-khieng-quan-tai-vuot-lu-du-di-an-tang-185251027213132609.htm",
+      "summary": "Hình ảnh nhóm người dân vùng cao ở TP.Đà Nẵng phải gồng mình khiêng quan tài băng qua dòng suối chảy xiết để đưa đi an táng đang lan truyền trên mạng xã hội, gây xúc động mạnh và xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:57:00+07:00",
+      "fetched": "2025-10-27T23:21:43.825542+07:00"
+    },
+    {
+      "id": "e745056c27e2e85e0ffd3a2798bf9a6f",
+      "title": "Bệnh viện Huế ngập sâu, bệnh nhân được di dời khẩn cấp",
+      "link": "https://vnexpress.net/benh-vien-hue-ngap-sau-benh-nhan-duoc-di-doi-khan-cap-4956493.html",
+      "summary": "Mưa lớn kéo dài và nước sông Hương dâng cao trong ngày 27/10 làm nhiều bệnh viện ở Huế ngập sâu, buộc các y bác sĩ phải khẩn cấp di dời hàng nghìn bệnh nhân cùng trang thiết bị lên các tầng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:55:45+07:00",
+      "fetched": "2025-10-27T23:21:40.172673+07:00"
+    },
+    {
+      "id": "7ccebd9ee15fd5f2937fe6f456b298cf",
+      "title": "Cựu tuyển thủ U23 Việt Nam bị đuổi vì đánh nguội ở V-League",
+      "link": "https://vnexpress.net/cuu-tuyen-thu-u23-viet-nam-bi-duoi-vi-danh-nguoi-o-v-league-4956499.html",
+      "summary": "Lê Văn Đô nhận thẻ đỏ sớm nhưng Công an Hà Nội vẫn vượt khó để thắng Công an TP HCM 1-0 tại vòng 8 V-League 2025-2026, tối 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:55:18+07:00",
+      "fetched": "2025-10-27T23:21:40.172833+07:00"
+    },
+    {
+      "id": "7ccebd9ee15fd5f2937fe6f456b298cf",
+      "title": "Cựu tuyển thủ U23 Việt Nam bị đuổi vì đánh nguội ở V-League",
+      "link": "https://vnexpress.net/cuu-tuyen-thu-u23-viet-nam-bi-duoi-vi-danh-nguoi-o-v-league-4956499.html",
+      "summary": "Lê Văn Đô nhận thẻ đỏ sớm nhưng Công an Hà Nội vẫn vượt khó để thắng Công an TP HCM 1-0 tại vòng 8 V-League 2025-2026, tối 27/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T14:55:18+07:00",
+      "fetched": "2025-10-27T23:22:01.851758+07:00"
+    },
+    {
+      "id": "b30f506a5a3b2cd5601b679930af02ba",
+      "title": "Bảng xếp hạng V-League mới nhất: CLB CAHN chạy thẳng lên tốp 2, HAGL bị đẩy xuống tận đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-clb-cahn-len-nhi-bang-clb-nam-dinh-van-ngu-me-185251027211302862.htm",
+      "summary": "CLB CAHN vươn lên nhì bảng sau chiến thắng quả cảm trước CLB CA TP.HCM, trong khi CLB Nam Định vẫn tiếp tục 'ngủ mê' sau 2 tháng liên tiếp không biết mùi chiến thắng tại V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:22:00+07:00",
+      "fetched": "2025-10-27T23:21:43.825715+07:00"
+    },
+    {
       "id": "5db5c94004faaf6b635b6f496507cb5e",
       "title": "Đá thiếu người, CLB CAHN vẫn thắng CLB Công an TP.HCM: Đua vô địch rất 'nóng'",
       "link": "https://thanhnien.vn/da-thieu-nguoi-clb-cahn-van-thang-clb-cong-an-tphcm-dua-vo-dich-rat-nong-185251027201127528.htm",
@@ -561,6 +921,26 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T14:06:00+07:00",
       "fetched": "2025-10-27T21:17:54.845949+07:00"
+    },
+    {
+      "id": "a50ead7228244a878114bcebcaaa388f",
+      "title": "Ông Trump nói Mỹ giúp đảng của Tổng thống Argentina thắng lớn",
+      "link": "https://vnexpress.net/ong-trump-noi-my-giup-dang-cua-tong-thong-argentina-thang-lon-4956391.html",
+      "summary": "Ông Trump tuyên bố đảng của Tổng thống Milei nhận \"rất nhiều sự hỗ trợ\" từ Mỹ để giành chiến thắng áp đảo trong bầu cử giữa kỳ ở Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:04:22+07:00",
+      "fetched": "2025-10-27T23:21:40.172988+07:00"
+    },
+    {
+      "id": "a50ead7228244a878114bcebcaaa388f",
+      "title": "Ông Trump nói Mỹ giúp đảng của Tổng thống Argentina thắng lớn",
+      "link": "https://vnexpress.net/ong-trump-noi-my-giup-dang-cua-tong-thong-argentina-thang-lon-4956391.html",
+      "summary": "Ông Trump tuyên bố đảng của Tổng thống Milei nhận \"rất nhiều sự hỗ trợ\" từ Mỹ để giành chiến thắng áp đảo trong bầu cử giữa kỳ ở Argentina.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T14:04:22+07:00",
+      "fetched": "2025-10-27T23:21:50.429896+07:00"
     },
     {
       "id": "48627fe561098787bce7d90e30dda8aa",
