@@ -1,7 +1,97 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T17:20:11.554033+07:00",
+  "lastUpdated": "2025-10-27T19:36:46.205192+07:00",
   "articles": [
+    {
+      "id": "691d5dd6bce6743740969bd37353f94f",
+      "title": "Song Joong Ki muốn 'hẹn hò' với Kim Ji Won một lần nữa",
+      "link": "https://tuoitre.vn/song-joong-ki-muon-hen-ho-voi-kim-ji-won-mot-lan-nua-20251027144823658.htm",
+      "summary": "Tại fan meeting của mình, Song Joong Ki chia sẻ về tình bạn 10 năm với Kim Ji Won và bày tỏ muốn tái hợp với nữ diễn viên trong một bộ phim tình cảm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.958231+07:00",
+      "fetched": "2025-10-27T19:36:37.958348+07:00"
+    },
+    {
+      "id": "a34d41b3d2df9116f24c3dec1cff0fb3",
+      "title": "VETC cảnh báo lừa đảo, chiếm đoạt tài sản qua tài khoản giao thông",
+      "link": "https://tuoitre.vn/vetc-canh-bao-lua-dao-chiem-doat-tai-san-qua-tai-khoan-giao-thong-20251027165706476.htm",
+      "summary": "Công ty TNHH thu phí tự động VETC (VETC) vừa thông tin cảnh báo tình trạng mạo danh VETC để lừa đảo, người dân cần lưu ý tránh mất thông tin và tài sản. Nhất là trong thời gian nhiều chủ xe đang chuyển đổi tài khoản giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.958105+07:00",
+      "fetched": "2025-10-27T19:36:37.958220+07:00"
+    },
+    {
+      "id": "c01f4fcf8d7f0c8bc72e09e5db98c115",
+      "title": "Kim Kardashian sắp hành nghề luật sư sau 3 lần thi trượt",
+      "link": "https://tuoitre.vn/kim-kardashian-sap-hanh-nghe-luat-su-sau-3-lan-thi-truot-20251027163336726.htm",
+      "summary": "Sau 6 năm theo đuổi chương trình Luật, Kim Kardashian gây bất ngờ khi tiết lộ thời điểm cô sẽ chính thức đủ điều kiện trở thành luật sư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957968+07:00",
+      "fetched": "2025-10-27T19:36:37.958094+07:00"
+    },
+    {
+      "id": "bbcbf966da46272b9553128a7a8b3f00",
+      "title": "TP.HCM: Cầu Tân Kiên cấm ô tô từ ngày 28-10 để sửa chữa",
+      "link": "https://tuoitre.vn/tp-hcm-cau-tan-kien-cam-o-to-tu-ngay-28-10-de-sua-chua-20251027170220979.htm",
+      "summary": "Từ ngày 28-10, cầu Tân Kiên trên đường Dương Đình Cúc (xã Tân Nhựt, TP.HCM) cấm ô tô đi lại để phục vụ công tác sửa chữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957842+07:00",
+      "fetched": "2025-10-27T19:36:37.957956+07:00"
+    },
+    {
+      "id": "b7e8e406cf9773e262ba857fb7ae1d1d",
+      "title": "Ông Trịnh Văn Quyết đã hoàn thành nghĩa vụ thi hành án dân sự",
+      "link": "https://tuoitre.vn/ong-trinh-van-quyet-da-hoan-thanh-nghia-vu-thi-hanh-an-dan-su-20251027140734538.htm",
+      "summary": "Phó cục trưởng Cục Quản lý thi hành án dân sự cho biết ông Trịnh Văn Quyết, cựu Chủ tịch Tập đoàn FLC, đã hoàn thành xong nghĩa vụ thi hành án dân sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957714+07:00",
+      "fetched": "2025-10-27T19:36:37.957831+07:00"
+    },
+    {
+      "id": "a5f2f110b1b7f4142c2fe493d6af823c",
+      "title": "Quân khu 7 cảnh báo thủ đoạn mạo danh cán bộ quân đội để lừa đảo",
+      "link": "https://tuoitre.vn/quan-khu-7-canh-bao-thu-doan-mao-danh-can-bo-quan-doi-de-lua-dao-20251027143226749.htm",
+      "summary": "Quân khu 7 cảnh báo về việc một số nơi đã xảy ra tình trạng các đối tượng giả danh, mạo danh quân nhân, cơ quan, đơn vị trong quân đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957582+07:00",
+      "fetched": "2025-10-27T19:36:37.957702+07:00"
+    },
+    {
+      "id": "cd4f510fe89afc8cb4cf8418bd77d981",
+      "title": "Đỉnh lũ Đồng Tháp Mười khiến dân mất trắng hơn 600ha lúa và cây ăn trái, còn hơn 8.000 ha bị uy hiếp",
+      "link": "https://tuoitre.vn/dinh-lu-dong-thap-muoi-khien-dan-mat-trang-hon-600ha-lua-va-cay-an-trai-con-hon-8-000-ha-bi-uy-hiep-20251027170315392.htm",
+      "summary": "Sau ngày đỉnh lũ 23-10, mực nước tại các khu vực Đồng Tháp Mười vẫn còn duy trì ở mức cao. Những ngày tới nước sông Vàm Cỏ Tây ở Mộc Hóa vẫn trên mức báo động III từ 14cm đến 17cm. Bộ đội Tây Ninh vẫn miệt mài giúp người dân gia cố đê bao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957425+07:00",
+      "fetched": "2025-10-27T19:36:37.957570+07:00"
+    },
+    {
+      "id": "faf9e2e432f235401b9b3fed75617281",
+      "title": "Microsoft bị kiện vì ‘đánh lừa’ người dùng về Copilot",
+      "link": "https://tuoitre.vn/microsoft-bi-kien-vi-danh-lua-nguoi-dung-ve-copilot-20251027171838353.htm",
+      "summary": "Úc kiện Microsoft vì gây hiểu lầm về Copilot, đồng thời khẳng định không nới luật bản quyền cho AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957283+07:00",
+      "fetched": "2025-10-27T19:36:37.957413+07:00"
+    },
+    {
+      "id": "0be9b5890321053ec90b9b12da389aa9",
+      "title": "Trung Thủy Lancaster chiếm 1.273m2 đất công, sở ngành\nTP.HCM tìm hướng tháo gỡ ra sao?",
+      "link": "https://tuoitre.vn/trung-thuy-lancaster-chiem-1-273m2-dat-cong-so-nganhtp-hcm-tim-huong-thao-go-ra-sao-20251026091721006.htm",
+      "summary": "Một trong những sai phạm tại dự án Lancaster Lincoln là xây dựng chiếm đất giao thông và quy hoạch lộ giới 1.273m² do nhà nước quản lý. Việc này tháo gỡ ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:36:37.957044+07:00",
+      "fetched": "2025-10-27T19:36:37.957267+07:00"
+    },
     {
       "id": "48f125e90e35e33553af34eeafce33d4",
       "title": "Nghi vấn nhóm người Hàn Quốc bị giam giữ trong chung cư cao cấp ở Campuchia",
@@ -453,6 +543,396 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T13:28:06.537891+07:00"
     },
     {
+      "id": "8581f8caac19cfc92a5034e63c5790be",
+      "title": "An Giang: Trốn truy nã về tội lừa đảo, tiếp tục đổi tên để lừa đảo",
+      "link": "https://thanhnien.vn/an-giang-tron-truy-na-ve-toi-lua-dao-tiep-tuc-doi-ten-de-lua-dao-185251027145109785.htm",
+      "summary": "Phạm Văn Túc từ Hà Nội vào tỉnh An Giang thực hiện hành vi lừa đảo mua bán đất đai, chiếm đoạt số tiền 1,1 tỉ đồng rồi bỏ trốn. Sau đó, khi trốn lệnh truy nã, Túc lấy một tên mới rồi tiếp tục lừa đảo người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:33:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612079+07:00"
+    },
+    {
+      "id": "2ef319cc9e181c3120fbf6242f8b2705",
+      "title": "Đà Nẵng đối mặt mưa lũ lịch sử, nhiều người lên mạng cầu cứu",
+      "link": "https://thanhnien.vn/da-nang-doi-mat-mua-lu-lich-su-nhieu-nguoi-len-mang-cau-cuu-185251027190255244.htm",
+      "summary": "Vùng hạ du TP.Đà Nẵng đang ngập sâu, đối mặt mưa lũ lịch sử. Nhiều người lên mạng cầu cứu nên các đội cứu hộ đang ra sức cùng chính quyền địa phương hỗ trợ người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:31:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612247+07:00"
+    },
+    {
+      "id": "945a017a4874f9b1993b8004c103db9a",
+      "title": "Người Việt dậy sớm nên cần 'văn hóa ngủ trưa' 1h30 phút ở nơi làm",
+      "link": "https://vnexpress.net/nguoi-viet-day-som-nen-can-van-hoa-ngu-trua-1h30-phut-o-noi-lam-4956403.html",
+      "summary": "Lúc mới về nước, tôi còn trẻ, chưa hòa nhập nên đã không ủng hộ nghỉ trưa quá lâu. Bây giờ thì khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:27:07+07:00",
+      "fetched": "2025-10-27T19:36:33.585242+07:00"
+    },
+    {
+      "id": "545480e7dcb99d79cd9ac597ca2cbd01",
+      "title": "Xổ số miền Nam ngày 27 tháng 10: Vé trúng độc đắc đài Cà Mau về... Cần Thơ",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-27-thang-10-ve-trung-doc-dac-dai-ca-mau-ve-can-tho-185251027192115097.htm",
+      "summary": "Những tờ vé trúng độc đắc xổ số miền Nam ngày 27 tháng 10 của đài Cà Mau vừa xuất hiện ở Cần Thơ. Người trúng số mới ngoài 20 tuổi, tiết lộ điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:27:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612405+07:00"
+    },
+    {
+      "id": "d45a9c625e527742d140e6f68bc08be1",
+      "title": "Tổng thống Trump lần đầu đến Nhật sau 6 năm",
+      "link": "https://vnexpress.net/tong-thong-trump-lan-dau-den-nhat-sau-6-nam-4956461.html",
+      "summary": "Tổng thống Trump hôm nay đến Tokyo, bắt đầu chuyến thăm Nhật Bản đầu tiên kể từ năm 2019.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:23:47+07:00",
+      "fetched": "2025-10-27T19:36:33.585420+07:00"
+    },
+    {
+      "id": "df70a6a5cb5476b3f59784b83877bebd",
+      "title": "Phòng xét nghiệm hoạt động trở lại, tháo gỡ ùn ứ gần 2.000 container sầu riêng",
+      "link": "https://thanhnien.vn/phong-xet-nghiem-hoat-dong-tro-lai-thao-go-un-u-gan-2000-container-sau-rieng-185251027184003537.htm",
+      "summary": "Các phòng xét nghiệm dư lượng hóa chất sầu riêng xuất khẩu đã hoạt động trở lại, tháo gỡ tình trạng gần 2.000 container sầu riêng bị ùn ứ ở Đắk Lắk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:15:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612578+07:00"
+    },
+    {
+      "id": "685ab722ea711531e07d0ab20a4b6620",
+      "title": "Điểm mấu chốt để giành học bổng du học Pháp",
+      "link": "https://vnexpress.net/diem-mau-chot-de-gianh-hoc-bong-du-hoc-phap-4956460.html",
+      "summary": "Ngoài thành tích học tập, du học sinh cần thư động lực cá nhân thuyết phục để giành học bổng có giá trị lớn, cả của trường và chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:13:30+07:00",
+      "fetched": "2025-10-27T19:36:33.585618+07:00"
+    },
+    {
+      "id": "dbac6f180120278fc2a834452b7cd40d",
+      "title": "‘Liều mình’ bỏ nghề cũ, chàng trai có thu nhập cao từ hồ thủy sinh",
+      "link": "https://thanhnien.vn/lieu-minh-bo-nghe-cu-chang-trai-co-thu-nhap-cao-tu-ho-thuy-sinh-18525102715060367.htm",
+      "summary": "Với niềm đam mê mãnh liệt dành cho hồ thủy sinh, anh Lư Hoàng Hiệp (39 tuổi, ngụ P.Bình Thủy, TP.Cần Thơ) đã biến sở thích thành công việc kinh doanh, mang lại thu nhập ổn định từ 15 - 20 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:12:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612727+07:00"
+    },
+    {
+      "id": "0142b1d1ca357e72678271003fdbea2e",
+      "title": "Sạt trượt ta luy, bờ kè quanh hồ Xuân Hương Đà Lạt",
+      "link": "https://thanhnien.vn/sat-truot-ta-luy-bo-ke-quanh-ho-xuan-huong-da-lat-185251027143916411.htm",
+      "summary": "Tỉnh Lâm Đồng giao Ban Quản lý dự án đầu tư xây dựng số 1, chủ trì phối hợp với các đơn vị liên quan khảo sát, lập hồ sơ khắc phục tình trạng sạt trượt ta luy, bờ kè quanh hồ Xuân Hương Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:12:00+07:00",
+      "fetched": "2025-10-27T19:36:36.612875+07:00"
+    },
+    {
+      "id": "e34e8c60dc9694d3141f62525606cbce",
+      "title": "Mưa lớn kéo dài, phố cổ Hội An chìm trong biển nước",
+      "link": "https://thanhnien.vn/mua-lon-keo-dai-pho-co-hoi-an-chim-trong-bien-nuoc-185251027172744146.htm",
+      "summary": "Tình hình mưa lũ miền Trung diễn biến phức tạp, mưa lớn kéo dài cộng với các hồ thủy điện xả nước điều tiết gây ngập lụt ở các vùng trũng thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:11:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613027+07:00"
+    },
+    {
+      "id": "c1b1ffd60b0e852a76cafdd79dd55a0d",
+      "title": "Nhà hàng ở Hội An nấu hàng trăm suất cơm miễn phí giúp người dân vùng ngập",
+      "link": "https://thanhnien.vn/nha-hang-o-hoi-an-nau-com-hang-tram-suat-mien-phi-giup-nguoi-dan-vung-ngap-18525102715464751.htm",
+      "summary": "Giữa lúc mưa lũ diễn biến phức tạp, một nhà hàng ở Hội An nấu hàng trăm suất cơm miễn phí, giúp người dân vùng ngập lụt ấm lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:07:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613179+07:00"
+    },
+    {
+      "id": "63c221d1bfe6a23c38a7343519f262a8",
+      "title": "Đường nối Mũi Né - Đà Lạt ùn tắc do sạt lở đèo Đại Ninh",
+      "link": "https://vnexpress.net/duong-noi-mui-ne-da-lat-un-tac-do-sat-lo-deo-dai-ninh-4956470.html",
+      "summary": "Mưa lớn khiến lượng lớn đất đá từ phía núi sạt lở xuống đường đèo Đại Ninh trên quốc lộ 28B, giao thông ùn tắc, xe phải quay đầu, chiều 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:04:02+07:00",
+      "fetched": "2025-10-27T19:36:33.585786+07:00"
+    },
+    {
+      "id": "cbdb1b846324576d7d24fb3446eb14b2",
+      "title": "TP.HCM: Xe đầu kéo chở sắt gặp sự cố, đường Lê Đức Anh ùn ứ",
+      "link": "https://thanhnien.vn/tphcm-xe-dau-keo-cho-sat-gap-su-co-duong-le-duc-anh-un-u-185251027174322373.htm",
+      "summary": "Một xe đầu kéo chở sắt gặp sự cố trên đường Lê Đức Anh (TP.HCM) khiến giao thông ùn ứ nhiều giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:02:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613324+07:00"
+    },
+    {
+      "id": "edec077ffddbf677077563f03546b76a",
+      "title": "Hãng bay hàng đầu Mỹ trở lại Việt Nam",
+      "link": "https://vnexpress.net/hang-bay-hang-dau-my-tro-lai-viet-nam-4956462.html",
+      "summary": "United Airlines, một trong 3 hãng lớn nhất Mỹ về quy mô đội bay, vừa khai thác trở lại đường bay đến TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:01:29+07:00",
+      "fetched": "2025-10-27T19:36:33.585947+07:00"
+    },
+    {
+      "id": "edec077ffddbf677077563f03546b76a",
+      "title": "Hãng bay hàng đầu Mỹ trở lại Việt Nam",
+      "link": "https://vnexpress.net/hang-bay-hang-dau-my-tro-lai-viet-nam-4956462.html",
+      "summary": "United Airlines, một trong 3 hãng lớn nhất Mỹ về quy mô đội bay, vừa khai thác trở lại đường bay đến TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T12:01:29+07:00",
+      "fetched": "2025-10-27T19:36:40.697600+07:00"
+    },
+    {
+      "id": "4894df732e8c75bbfcae1483f922ce7b",
+      "title": "Tân Thủ tướng Nhật đối mặt 'bài toán Trump' trong thử thách đối ngoại đầu tiên",
+      "link": "https://vnexpress.net/tan-thu-tuong-nhat-doi-mat-bai-toan-trump-trong-thu-thach-doi-ngoai-dau-tien-4956080.html",
+      "summary": "Bà Takaichi sẽ tiếp đón ông Trump vài ngày sau khi nhậm chức, đối mặt thử thách đối ngoại lớn đầu tiên có thể định hình tương lai mối quan hệ của hai đồng minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586102+07:00"
+    },
+    {
+      "id": "6173c7e6b33ddb9f2c5851e9fed87088",
+      "title": "Nhận ra mình chia tay bạn gái là sai, mọi thứ đã quá muộn",
+      "link": "https://vnexpress.net/nhan-ra-minh-chia-tay-ban-gai-la-sai-moi-thu-da-qua-muon-4955726.html",
+      "summary": "Tôi chạy đến tìm em, cầu xin cơ hội, em bảo đã vượt qua, bình tâm rồi, không còn muốn quay lại nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586253+07:00"
+    },
+    {
+      "id": "0e5381e365d40b718eea31468fd64980",
+      "title": "Thử phân biệt giày đắt tiền và bình dân",
+      "link": "https://vnexpress.net/thu-phan-biet-giay-dat-tien-va-binh-dan-4953626.html",
+      "summary": "Bạn hãy chỉ ra mẫu thiết kế nào đắt hơn khi nhìn vào các cặp giày dưới đây, thông qua đường may, chất liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586404+07:00"
+    },
+    {
+      "id": "16d9b4195ec443d65205374bd4b44cd7",
+      "title": "Vết chó cắn nhức, mưng mủ có phải nhiễm trùng không?",
+      "link": "https://vnexpress.net/vet-cho-can-nhuc-mung-mu-co-phai-nhiem-trung-khong-4956457.html",
+      "summary": "Tôi bị chó cắn vào bắp chân, hiện vết thương sưng đau, mưng mủ, có phải đã nhiễm trùng không và nên làm gì? (Nhã Quyên, 25 tuổi, Cà Mau)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586583+07:00"
+    },
+    {
+      "id": "0f7a16b9e6750b99461eeb4d0b3ac5c7",
+      "title": "MSB đồng hành đêm nhạc 'La Traviata'",
+      "link": "https://vnexpress.net/msb-dong-hanh-dem-nhac-la-traviata-4956449.html",
+      "summary": "Ngân hàng MSB đồng hành đêm opera \"La Traviata\", mang đến trải nghiệm nghệ thuật hàn lâm cho khách hàng, hướng tới mục tiêu kết nối văn hóa - cảm xúc - phong cách sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586738+07:00"
+    },
+    {
+      "id": "e839e20b4736ac87e38a39109c88b07f",
+      "title": "Phẫu thuật '2 trong 1' tạo hình niệu đạo",
+      "link": "https://vnexpress.net/phau-thuat-2-trong-1-tao-hinh-nieu-dao-4956343.html",
+      "summary": "Ông Nhân, 66 tuổi, hẹp niệu đạo gây bí tiểu, nhiễm khuẩn nhiều lần, được bác sĩ phẫu thuật \"2 trong 1\" thông và tạo hình niệu đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:33.586895+07:00"
+    },
+    {
+      "id": "4894df732e8c75bbfcae1483f922ce7b",
+      "title": "Tân Thủ tướng Nhật đối mặt 'bài toán Trump' trong thử thách đối ngoại đầu tiên",
+      "link": "https://vnexpress.net/tan-thu-tuong-nhat-doi-mat-bai-toan-trump-trong-thu-thach-doi-ngoai-dau-tien-4956080.html",
+      "summary": "Bà Takaichi sẽ tiếp đón ông Trump vài ngày sau khi nhậm chức, đối mặt thử thách đối ngoại lớn đầu tiên có thể định hình tương lai mối quan hệ của hai đồng minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T19:36:39.640781+07:00"
+    },
+    {
+      "id": "8fcca36f1eb7570881368026690b0c7f",
+      "title": "Ca cấp cứu bằng ECMO di động đầu tiên tại TP.HCM, bệnh nhân được cứu sống",
+      "link": "https://thanhnien.vn/ca-cap-cuu-bang-ecmo-di-dong-dau-tien-tai-tphcm-benh-nhan-duoc-cuu-song-185251027181518864.htm",
+      "summary": "Báo động đỏ liên viện, 2 bệnh viện phối hợp cấp cứu bằng ECMO di động đầu tiên đánh dấu bước tiến mới trong chiến lược phát triển cấp cứu chuyên sâu của ngành y tế TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:59:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613495+07:00"
+    },
+    {
+      "id": "6ed852a1ea7e25e6b067636c5f0ebb9d",
+      "title": "Nguyên nhân tăng nguy cơ đột quỵ khi thời tiết chuyển lạnh",
+      "link": "https://thanhnien.vn/nguyen-nhan-tang-nguy-co-dot-quy-khi-thoi-tiet-chuyen-lanh-185251027182641717.htm",
+      "summary": "7 ca đột quỵ, trong đó có tới 4 ca đột quỵ do xuất huyết não vào cấp cứu tại tại Bệnh viện đa khoa Xanh Pôn trong 3 ngày cuối tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:57:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613646+07:00"
+    },
+    {
+      "id": "77d4ba584d3020302b66ad2db34bd64e",
+      "title": "Hàng thủ Arsenal có đang mạnh nhất mọi thời?",
+      "link": "https://vnexpress.net/hang-thu-arsenal-co-dang-manh-nhat-moi-thoi-4956388.html",
+      "summary": "Với chỉ ba bàn thua sau 9 trận, thành tích phòng ngự của Arsenal sánh ngang nhiều hàng thủ huyền thoại trong lịch sử Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:55:36+07:00",
+      "fetched": "2025-10-27T19:36:33.587045+07:00"
+    },
+    {
+      "id": "77d4ba584d3020302b66ad2db34bd64e",
+      "title": "Hàng thủ Arsenal có đang mạnh nhất mọi thời?",
+      "link": "https://vnexpress.net/hang-thu-arsenal-co-dang-manh-nhat-moi-thoi-4956388.html",
+      "summary": "Với chỉ ba bàn thua sau 9 trận, thành tích phòng ngự của Arsenal sánh ngang nhiều hàng thủ huyền thoại trong lịch sử Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T11:55:36+07:00",
+      "fetched": "2025-10-27T19:36:46.193332+07:00"
+    },
+    {
+      "id": "e7f77751a9f22cecb05f95ad3fb51d49",
+      "title": "Bộ đôi Hoàng Đức - Hoàng Hên sẽ thổi bùng sức sáng tạo đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/bo-doi-hoang-duc-hoang-hen-se-thoi-bung-suc-sang-tao-doi-tuyen-viet-nam-185251027183406205.htm",
+      "summary": "Phong độ cao với các bàn thắng và kiến tạo đẳng cấp của Hoàng Đức và Hoàng Hên được kỳ vọng sẽ nâng tầm hàng công đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:52:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613796+07:00"
+    },
+    {
+      "id": "75d829c29bc79c1a37301d161f5415fc",
+      "title": "Bộ trưởng Phan Văn Giang: Đã là thảm họa thì nhà giàu cũng thành nhà nghèo",
+      "link": "https://thanhnien.vn/bo-truong-phan-van-giang-da-la-tham-hoa-thi-nha-giau-cung-thanh-nha-ngheo-185251027183301488.htm",
+      "summary": "Nói về tình trạng khẩn cấp, Bộ trưởng Quốc phòng Phan Văn Giang nhấn mạnh 'đã là thảm họa thì cuốn đi tất. Nhà giàu cũng trở thành nhà nghèo, bằng không hết'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:52:00+07:00",
+      "fetched": "2025-10-27T19:36:36.613946+07:00"
+    },
+    {
+      "id": "0f983a1001a28d330d6d4afb058f86d0",
+      "title": "BlackPink nóng bỏng trong thiết kế Việt tại Word Tour 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/blackpink-nong-bong-trong-thiet-ke-viet-tai-word-tour-2025-185251027171828059.htm",
+      "summary": "Trong khuôn khổ World Tour 2025, bốn cô gái của nhóm nhạc toàn cầu BlackPink một lần nữa khiến người hâm mộ Việt nức lòng khi diện các thiết kế được đặt hàng riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:49:00+07:00",
+      "fetched": "2025-10-27T19:36:36.614093+07:00"
+    },
+    {
+      "id": "80e135284709bb9aa48a57d184cef7a8",
+      "title": "Nga nói tên lửa Burevestnik 'không ảnh hưởng quan hệ với Mỹ'",
+      "link": "https://vnexpress.net/nga-noi-ten-lua-burevestnik-khong-anh-huong-quan-he-voi-my-4956451.html",
+      "summary": "Điện Kremlin khẳng định Nga thử tên lửa Burevestnik vì lợi ích quốc gia, cho rằng sự kiện sẽ không gây thêm căng thẳng trong quan hệ Nga - Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:47:35+07:00",
+      "fetched": "2025-10-27T19:36:33.587201+07:00"
+    },
+    {
+      "id": "80e135284709bb9aa48a57d184cef7a8",
+      "title": "Nga nói tên lửa Burevestnik 'không ảnh hưởng quan hệ với Mỹ'",
+      "link": "https://vnexpress.net/nga-noi-ten-lua-burevestnik-khong-anh-huong-quan-he-voi-my-4956451.html",
+      "summary": "Điện Kremlin khẳng định Nga thử tên lửa Burevestnik vì lợi ích quốc gia, cho rằng sự kiện sẽ không gây thêm căng thẳng trong quan hệ Nga - Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T11:47:35+07:00",
+      "fetched": "2025-10-27T19:36:39.640955+07:00"
+    },
+    {
+      "id": "cd7fb6a5ace86415a6e7605493e4dd56",
+      "title": "Hôn mê sau uống vài chén rượu",
+      "link": "https://vnexpress.net/hon-me-sau-uong-vai-chen-ruou-4956423.html",
+      "summary": "Sau khi uống rượu không rõ nguồn gốc, người đàn ông 63 tuổi hôn mê, suy hô hấp, bác sĩ xác định ngộ độc methanol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:46:50+07:00",
+      "fetched": "2025-10-27T19:36:33.587357+07:00"
+    },
+    {
+      "id": "e38004c13ba6e96f16e6d2c14d64fbd4",
+      "title": "Lộ diện các đại diện miền Bắc tới VCK giải bóng rổ sinh viên toàn quốc",
+      "link": "https://thanhnien.vn/lo-dien-cac-dai-dien-mien-bac-toi-vck-giai-bong-ro-sinh-vien-toan-quoc-185251027184308956.htm",
+      "summary": "Sau hơn 10 ngày tranh tài sôi động, vòng loại khu vực miền Bắc của giải bóng rổ sinh viên toàn quốc 2025 - cúp TV360 đã xác định được những đội bóng xuất sắc giành vé vào VCK.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:45:00+07:00",
+      "fetched": "2025-10-27T19:36:36.614248+07:00"
+    },
+    {
+      "id": "c7f1473a07260dd3e2eb15573d223a18",
+      "title": "Nhiều chuyến tàu Bắc - Nam ngừng chạy do lũ lớn ở miền Trung",
+      "link": "https://vnexpress.net/nhieu-chuyen-tau-bac-nam-ngung-chay-do-lu-lon-o-mien-trung-4956443.html",
+      "summary": "Khoảng 2.700 hành khách bị ảnh hưởng khi ngành đường sắt tạm dừng hàng loạt tàu Thống Nhất và tàu du lịch tối 27/10, do ảnh hưởng của mưa lũ tại miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T11:44:22+07:00",
+      "fetched": "2025-10-27T19:36:33.587572+07:00"
+    },
+    {
+      "id": "a4760c8f2bf31a782ddc761c2035cbd8",
+      "title": "Hai con trai ông Phạm Nhật Vượng góp 200 tỷ vào công ty thép của Vingroup",
+      "link": "https://vnexpress.net/hai-con-trai-ong-pham-nhat-vuong-gop-200-ty-vao-cong-ty-thep-cua-vingroup-4956464.html",
+      "summary": "Ông Phạm Nhật Quân Anh và Phạm Nhật Minh Hoàng, hai con trai của ông Phạm Nhật Vượng, góp 200 tỷ đồng vào VinMetal, tương đương 2% vốn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T11:26:30+07:00",
+      "fetched": "2025-10-27T19:36:40.697775+07:00"
+    },
+    {
+      "id": "c098c2cdfe5a196660a4b547c98a3e32",
+      "title": "Vinicius doạ rời Real khi bị thay ra ở El Clasico",
+      "link": "https://vnexpress.net/vinicius-doa-roi-real-khi-bi-thay-ra-o-el-clasico-4956414.html",
+      "summary": "Vinicius được cho là tuyên bố \"rời Real\" sau khi bị HLV Xabi Alonso thay ra giữa trận thắng Barca 2-1 ở La Liga tối 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T11:01:58+07:00",
+      "fetched": "2025-10-27T19:36:46.193525+07:00"
+    },
+    {
+      "id": "63300867d30243b288c55b6b363dcb8c",
+      "title": "Quyết Chiến có đường cơ cao nhất sự nghiệp",
+      "link": "https://vnexpress.net/quyet-chien-co-duong-co-cao-nhat-su-nghiep-4956427.html",
+      "summary": "Cơ thủ số một Việt Nam đi đường cơ 27 điểm trong trận chung kết giải phong trào US billiards Handicap Tournament hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T10:57:49+07:00",
+      "fetched": "2025-10-27T19:36:46.194634+07:00"
+    },
+    {
+      "id": "abdceb73cb735b2911d887cbe95326fc",
+      "title": "Ukraine thừa nhận dự án tên lửa 3.000 km gặp loạt trở ngại",
+      "link": "https://vnexpress.net/ukraine-thua-nhan-du-an-ten-lua-3-000-km-gap-loat-tro-ngai-4956377.html",
+      "summary": "Tổng thống Ukraine cho biết chương trình sản xuất tên lửa nội địa Flamingo đang gặp khó khăn kỹ thuật và thiếu kinh phí từ nước ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T10:50:57+07:00",
+      "fetched": "2025-10-27T19:36:39.641115+07:00"
+    },
+    {
+      "id": "0de57df15902893a2295e589385d6779",
+      "title": "Ông Trump sẵn sàng giúp giải quyết xung đột Pakistan - Afghanistan",
+      "link": "https://vnexpress.net/ong-trump-san-sang-giup-giai-quyet-xung-dot-pakistan-afghanistan-4956345.html",
+      "summary": "Tổng thống Trump bày tỏ sẵn sàng làm trung gian để tìm ra giải pháp cho xung đột biên giới Pakistan - Afghanistan, khi phái đoàn hai nước đang đàm phán ở Thổ Nhĩ Kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T10:38:10+07:00",
+      "fetched": "2025-10-27T19:36:39.641271+07:00"
+    },
+    {
       "id": "50730ad73eaf27e04008e868171db39e",
       "title": "Giải đáp nỗi lo bị truy thu của hộ kinh doanh",
       "link": "https://tuoitre.vn/giai-dap-noi-lo-bi-truy-thu-cua-ho-kinh-doanh-20251027075041568.htm",
@@ -623,6 +1103,16 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T17:20:11.543224+07:00"
     },
     {
+      "id": "772a2e813375e3371611ce1482c29851",
+      "title": "Tay vợt nữ số sáu thế giới bỏ SEA Games 33 vì bất mãn",
+      "link": "https://vnexpress.net/tay-vot-nu-so-sau-the-gioi-bo-sea-games-33-vi-bat-man-4956446.html",
+      "summary": "VĐV cầu lông số sáu thế giới Pornpawee Chochuwong đã đến Cục Thể thao Thái Lan (SAT) để nộp đơn từ chối dự SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T10:10:13+07:00",
+      "fetched": "2025-10-27T19:36:46.193688+07:00"
+    },
+    {
       "id": "d1b8cec8604afc44a587482df53164d5",
       "title": "Thống đốc California cân nhắc chuyện tranh cử Tổng thống Mỹ 2028, ông Trump thì sao?",
       "link": "https://thanhnien.vn/thong-doc-california-can-nhac-chuyen-tranh-cu-tong-thong-my-2028-ong-trump-thi-sao-185251027165705491.htm",
@@ -631,6 +1121,16 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T10:09:00+07:00",
       "fetched": "2025-10-27T17:20:03.893677+07:00"
+    },
+    {
+      "id": "c59fa3cf06b66bad82083ac112ab86a3",
+      "title": "Mỹ sẽ dỡ cấm vận vũ khí với Campuchia",
+      "link": "https://vnexpress.net/my-se-do-cam-van-vu-khi-voi-campuchia-4956362.html",
+      "summary": "Mỹ sẽ dỡ lệnh cấm vận vũ khí đối với Campuchia và nối lại các cuộc tập trận chung, tăng hợp tác đào tạo quốc phòng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T10:05:56+07:00",
+      "fetched": "2025-10-27T19:36:39.641447+07:00"
     },
     {
       "id": "7afc5a2c15f74165e5f97785ad3d2bd2",
@@ -681,6 +1181,16 @@ window.newsData_2025_10_27 = {
       "category": "Kinh doanh",
       "published": "2025-10-27T10:00:00+07:00",
       "fetched": "2025-10-27T17:20:08.396488+07:00"
+    },
+    {
+      "id": "e886c8b1a0404b4aef4781d1094ab90b",
+      "title": "'VinFuture truyền cảm hứng cho người Việt trẻ'",
+      "link": "https://vnexpress.net/vinfuture-truyen-cam-hung-cho-nguoi-viet-tre-4956359.html",
+      "summary": "GS Richard Henry Friend đánh giá Việt Nam là quốc gia chủ động nắm bắt cơ hội, giới trẻ tự tin hơn khi gặp gỡ các nhà khoa học hàng đầu thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T10:00:00+07:00",
+      "fetched": "2025-10-27T19:36:43.388828+07:00"
     },
     {
       "id": "0c141d15d06382324572f9cc1b409805",
