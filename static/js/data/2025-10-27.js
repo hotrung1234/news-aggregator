@@ -1,7 +1,157 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T15:23:30.985943+07:00",
+  "lastUpdated": "2025-10-27T17:20:11.554033+07:00",
   "articles": [
+    {
+      "id": "48f125e90e35e33553af34eeafce33d4",
+      "title": "Nghi vấn nhóm người Hàn Quốc bị giam giữ trong chung cư cao cấp ở Campuchia",
+      "link": "https://tuoitre.vn/nghi-van-nhom-nguoi-han-quoc-bi-giam-giu-trong-chung-cu-cao-cap-o-campuchia-20251027162135358.htm",
+      "summary": "Một người Hàn Quốc tại Campuchia tiết lộ nhóm thanh niên đồng hương bị ép làm việc, giam giữ trong chung cư cao cấp chỉ cách đại sứ quán 3km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.973516+07:00",
+      "fetched": "2025-10-27T17:20:04.973626+07:00"
+    },
+    {
+      "id": "38493c8c836be5e82d2fcfe6523794ef",
+      "title": "Nhiều bãi rác tại An Giang quá tải, ô nhiễm nặng",
+      "link": "https://tuoitre.vn/nhieu-bai-rac-tai-an-giang-qua-tai-o-nhiem-nang-20251027154217257.htm",
+      "summary": "Hàng loạt bãi rác tại An Giang đang quá tải, ô nhiễm nặng vài năm qua nhưng chính quyền chưa xử lý dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.973395+07:00",
+      "fetched": "2025-10-27T17:20:04.973505+07:00"
+    },
+    {
+      "id": "92589239afd6dd3ee118985f28e2d89e",
+      "title": "TP.HCM: Biển báo bị tán cây che mất, người đi đường khó thấy",
+      "link": "https://tuoitre.vn/tp-hcm-bien-bao-bi-tan-cay-che-mat-nguoi-di-duong-kho-thay-20251027111350912.htm",
+      "summary": "Dọc theo nhiều tuyến đường đông đúc của TP.HCM, không khó để bắt gặp những biển báo 'núp lùm' sau tán cây hay mái che quán xá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.973274+07:00",
+      "fetched": "2025-10-27T17:20:04.973383+07:00"
+    },
+    {
+      "id": "fcdb6fb423249e8c26f7bb702c4798e9",
+      "title": "Choáng với lượng tiền 'tươi' của Hóa chất Đức Giang và PVS, lãi ngân hàng cũng vài trăm tỉ",
+      "link": "https://tuoitre.vn/choang-voi-luong-tien-tuoi-cua-hoa-chat-duc-giang-va-pvs-lai-ngan-hang-cung-vai-tram-ti-20251027150910653.htm",
+      "summary": "Hóa chất Đức Giang đang sở hữu hơn 13.100 tỉ đồng tiền mặt và tiền gửi ngân hàng (gần 500 triệu USD).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.973152+07:00",
+      "fetched": "2025-10-27T17:20:04.973263+07:00"
+    },
+    {
+      "id": "69b433af95e1b7f2a69ec32aa5f7ec4a",
+      "title": "Việt Nam xây đài phát thanh - phát hình hiện đại tặng nước bạn Lào",
+      "link": "https://tuoitre.vn/viet-nam-xay-dai-phat-thanh-phat-hinh-hien-dai-tang-nuoc-ban-lao-2025102716225186.htm",
+      "summary": "Dự án không chỉ mang giá trị về mặt kinh tế - xã hội mà còn là biểu tượng sinh động cho mối quan hệ hữu nghị vĩ đại giữa Việt Nam và Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.973029+07:00",
+      "fetched": "2025-10-27T17:20:04.973140+07:00"
+    },
+    {
+      "id": "283157b50faf2c06ed2360658e1c4fbe",
+      "title": "Malaysia nhận thua vụ nhập tịch, tập trung tìm người chịu trách nhiệm?",
+      "link": "https://tuoitre.vn/malaysia-nhan-thua-vu-nhap-tich-tap-trung-tim-nguoi-chiu-trach-nhiem-20251027141313325.htm",
+      "summary": "Sau những nỗ lực kháng cáo và khăng khăng cho rằng mình vô tội, Liên đoàn Bóng đá Malaysia (FAM) đang dần thay đổi cách hành xử trong vụ việc bị FIFA phạt vì cho nhập tịch cầu thủ trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972903+07:00",
+      "fetched": "2025-10-27T17:20:04.973017+07:00"
+    },
+    {
+      "id": "e27483a98610b1d9b80df40fd98a842a",
+      "title": "Ông Đinh La Thăng đang chấp hành án tù, 'không còn tài sản nào khác' để thi hành 825 tỉ đồng",
+      "link": "https://tuoitre.vn/ong-dinh-la-thang-dang-chap-hanh-an-tu-khong-con-tai-san-nao-khac-de-thi-hanh-825-ti-dong-20251027152558866.htm",
+      "summary": "Phó cục trưởng Cục Quản lý thi hành án dân sự cho biết khó khăn lớn nhất trong việc thu hồi tài sản là hiện ông Đinh La Thăng đang thi hành hình phạt tù, trong khi đó tài sản của ông không đủ để thực hiện nghĩa vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972774+07:00",
+      "fetched": "2025-10-27T17:20:04.972891+07:00"
+    },
+    {
+      "id": "8d4677bfe709c2f829539f24cd7524a5",
+      "title": "Ông Trump muốn gặp ông Kim Jong Un, kêu gọi ông Putin không thử tên lửa",
+      "link": "https://tuoitre.vn/ong-trump-muon-gap-ong-kim-jong-un-keu-goi-ong-putin-khong-thu-ten-lua-20251027164456935.htm",
+      "summary": "Ông Trump cho biết ông rất muốn gặp ông Kim Jong Un, đồng thời cảnh báo Nga về các thử nghiệm tên lửa hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972605+07:00",
+      "fetched": "2025-10-27T17:20:04.972759+07:00"
+    },
+    {
+      "id": "2114b09bed8b1e2dda4540861aecd113",
+      "title": "Masterise Homes thắng 2 giải 'Luxury' tại PropertyGuru Vietnam Property Awards 2025",
+      "link": "https://tuoitre.vn/masterise-homes-thang-2-giai-luxury-tai-propertyguru-vietnam-property-awards-2025-20251027155049896.htm",
+      "summary": "Masterise Homes được vinh danh ở hạng mục “Best Luxury Developer” (Nhà phát triển bất động sản hạng sang tốt nhất Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972481+07:00",
+      "fetched": "2025-10-27T17:20:04.972594+07:00"
+    },
+    {
+      "id": "41665aa86998f14283a1ef407c6ce865",
+      "title": "New Zealand, IMF sẵn sàng hỗ trợ Việt Nam trong các lĩnh vực thiết yếu",
+      "link": "https://tuoitre.vn/new-zealand-imf-san-sang-ho-tro-viet-nam-trong-cac-linh-vuc-thiet-yeu-20251027163652569.htm",
+      "summary": "Đó là chia sẻ của Thủ tướng New Zealand và Tổng giám đốc IMF trong cuộc gặp với Thủ tướng Phạm Minh Chính tại Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972354+07:00",
+      "fetched": "2025-10-27T17:20:04.972469+07:00"
+    },
+    {
+      "id": "9092ba2e32584b97ddbcbafc980c7fd6",
+      "title": "Dừng chủ trương đầu tư BOT sân bay Phan Thiết",
+      "link": "https://tuoitre.vn/dung-chu-truong-dau-tu-bot-san-bay-phan-thiet-20251027165808018.htm",
+      "summary": "HĐND tỉnh Lâm Đồng thông qua nghị quyết dừng chủ trương BOT hạng mục dân dụng sân bay Phan Thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972227+07:00",
+      "fetched": "2025-10-27T17:20:04.972342+07:00"
+    },
+    {
+      "id": "383386b4f791d7ace4d9324e6b949a6d",
+      "title": "Lê Phương 'mỏ hỗn, ồn ào' mà được thương trong Cuộc chiến hạ lưu",
+      "link": "https://tuoitre.vn/le-phuong-mo-hon-on-ao-ma-duoc-thuong-trong-cuoc-chien-ha-luu-20251027135112395.htm",
+      "summary": "Cuộc chiến hạ lưu mới phát sóng 2 tập được khán giả khen 'nhà ồn ào mà dễ thương'. Người gây ấn tượng mạnh nhất là Bé Gái - vai diễn do Lê Phương đảm nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.972099+07:00",
+      "fetched": "2025-10-27T17:20:04.972215+07:00"
+    },
+    {
+      "id": "51549965bd3c39f557975078fe5a3fc3",
+      "title": "Các khu tái định cư cho dự án đường sắt tốc độ cao tại Lâm Đồng dự kiến xong vào giữa năm 2026",
+      "link": "https://tuoitre.vn/cac-khu-tai-dinh-cu-cho-du-an-duong-sat-toc-do-cao-tai-lam-dong-du-kien-xong-vao-giua-nam-2026-20251027160326176.htm",
+      "summary": "Tỉnh Lâm Đồng cho biết, dự kiến đến giữa năm 2026 sẽ hoàn thành tất cả các khu tái định cư phục vụ cho dự án đường sắt tốc độ cao trục Bắc - Nam đi qua địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.971967+07:00",
+      "fetched": "2025-10-27T17:20:04.972087+07:00"
+    },
+    {
+      "id": "c4893acdb9a518310d8505467792a6ba",
+      "title": "Truy trách nhiệm vụ 2 trẻ em bị điện giật chết",
+      "link": "https://tuoitre.vn/truy-trach-nhiem-vu-2-tre-em-bi-dien-giat-chet-2025102715102995.htm",
+      "summary": "Lãnh đạo xã Phong Điền cho biết bên cạnh động viên tinh thần gia đình nạn nhân, đồng thời làm rõ trách nhiệm các bên liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.971823+07:00",
+      "fetched": "2025-10-27T17:20:04.971953+07:00"
+    },
+    {
+      "id": "837f571382dcd0737c1eb313d954eafe",
+      "title": "'Quẩy' ở đấu trường La Mã cổ đại?",
+      "link": "https://tuoitre.vn/quay-o-dau-truong-la-ma-co-dai-20251027110517764.htm",
+      "summary": "Giám đốc mới của đấu trường La Mã Colosseum đã bác bỏ tin đồn về việc sẽ tổ chức tiệc nhạc điện tử tại di tích gần 2000 năm tuổi, khằng định đấu trường chỉ dành cho các hoạt động văn hóa mang tính tôn trọng lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T17:20:04.971559+07:00",
+      "fetched": "2025-10-27T17:20:04.971807+07:00"
+    },
     {
       "id": "9a8240ba80a394e9e41af84847320aff",
       "title": "Venezuela chỉ trích Mỹ gây hấn khi điều tàu chiến diễn tập sát bên",
@@ -451,6 +601,396 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T10:17:27.288565+07:00",
       "fetched": "2025-10-27T10:17:27.288776+07:00"
+    },
+    {
+      "id": "70677be12a8ebd575494de016f416ec1",
+      "title": "Khó gập duỗi sau phẫu thuật thay khớp, vì sao?",
+      "link": "https://thanhnien.vn/kho-gap-duoi-sau-phau-thuat-thay-khop-vi-sao-18525102717174277.htm",
+      "summary": "Sau phẫu thuật thay khớp gối, bà Mai (55 tuổi, ở TP.HCM) nghĩ rằng mình sẽ sớm đi lại như trước. Thế nhưng, 3 tháng trôi qua, khớp gối của bà vẫn khó gập duỗi. Cảm giác cứng khớp khiến việc mỗi bước đi trở nên khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:17:00+07:00",
+      "fetched": "2025-10-27T17:20:03.893490+07:00"
+    },
+    {
+      "id": "e233e70275562ac4763693ffe75b7afc",
+      "title": "Tay vợt nữ số một Thái Lan bỏ SEA Games 33 vì bất mãn",
+      "link": "https://vnexpress.net/tay-vot-nu-so-mot-thai-lan-bo-sea-games-33-vi-bat-man-4956446.html",
+      "summary": "VĐV cầu lông số sáu thế giới Pornpawee Chochuwong đã đến Cục Thể thao Thái Lan (SAT) để nộp đơn từ chối dự SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T10:10:13+07:00",
+      "fetched": "2025-10-27T17:20:11.543224+07:00"
+    },
+    {
+      "id": "d1b8cec8604afc44a587482df53164d5",
+      "title": "Thống đốc California cân nhắc chuyện tranh cử Tổng thống Mỹ 2028, ông Trump thì sao?",
+      "link": "https://thanhnien.vn/thong-doc-california-can-nhac-chuyen-tranh-cu-tong-thong-my-2028-ong-trump-thi-sao-185251027165705491.htm",
+      "summary": "Thống đốc bang California Gavin Newsom cho biết ông sẽ cân nhắc khả năng chạy đua vào Nhà Trắng sau cuộc bầu cử giữa kỳ năm 2026, để ngỏ việc trở thành ứng viên đầu tiên của đảng Dân chủ tranh cử vào năm 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:09:00+07:00",
+      "fetched": "2025-10-27T17:20:03.893677+07:00"
+    },
+    {
+      "id": "7afc5a2c15f74165e5f97785ad3d2bd2",
+      "title": "Tổng Bí thư Tô Lâm thăm Anh: Đưa quan hệ hai nước lên tầm cao mới",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-tham-anh-dua-quan-he-hai-nuoc-len-tam-cao-moi-185251027164041817.htm",
+      "summary": "Thứ trưởng Bộ Ngoại giao Lê Thị Thu Hằng kỳ vọng, chuyến thăm chính thức Anh tới đây của Tổng Bí thư Tô Lâm sẽ đưa quan hệ song phương hai nước lên tầm cao mới, toàn diện và mạnh mẽ hơn",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:03:00+07:00",
+      "fetched": "2025-10-27T17:20:03.893839+07:00"
+    },
+    {
+      "id": "9cf59a84069438555425a90056bd3f1e",
+      "title": "Toàn cảnh 17h: Lũ ở Huế vượt mức lịch sử | Tạm giữ người đánh tài xế taxi tại Nha Trang",
+      "link": "https://thanhnien.vn/toan-canh-17h-lu-o-hue-vuot-muc-lich-su-tam-giu-nguoi-danh-tai-xe-taxi-tai-nha-trang-185251027162617968.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:00:00+07:00",
+      "fetched": "2025-10-27T17:20:03.893996+07:00"
+    },
+    {
+      "id": "924e55307ed1c3b7483194df52749dc5",
+      "title": "Hành trình tìm lại nụ cười sau hơn 1 năm bị co giật nửa mặt",
+      "link": "https://thanhnien.vn/hanh-trinh-tim-lai-nu-cuoi-sau-hon-1-nam-bi-co-giat-nua-mat-185251027154013406.htm",
+      "summary": "'Hơn một năm sống chung với những đợt co giật nửa mặt, khởi đầu từ những cơn co giật nhẹ ở mí mắt đến khi lan tới cả nửa khuôn mặt khiến cho vợ tôi cảm thấy mặc cảm không muốn ra ngoài' - Anh A., chồng chị T. chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:00:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894149+07:00"
+    },
+    {
+      "id": "016a57f5653df2449cee637c870d8dcb",
+      "title": "Áo khoác dáng ngắn mẫu áo lý tưởng giúp nàng đón gió  mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-dang-ngan-mau-ao-ly-tuong-giup-nang-don-gio-mua-185251027130459177.htm",
+      "summary": "Đón những ngày có tiết trời se se, một chiếc cropped jacket - áo khoác dáng ngắn năng động sẽ giúp làm bừng sáng diện mạo và mang đến cảm giác sành điệu đúng chất thời trang cuối thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T10:00:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894301+07:00"
+    },
+    {
+      "id": "3077428a11657168d62e45c45fc7a47d",
+      "title": "Vietjet chia cổ tức 20% bằng cổ phiếu",
+      "link": "https://vnexpress.net/vietjet-chia-co-tuc-20-bang-co-phieu-4956421.html",
+      "summary": "Vietjet sẽ phát hành 118,3 triệu cổ phiếu để trả cổ tức cho cổ đông với tỷ lệ 20%, tương ứng mỗi cổ đông nắm giữ 100 cổ phiếu sẽ nhận thêm 20 cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T10:00:00+07:00",
+      "fetched": "2025-10-27T17:20:08.396488+07:00"
+    },
+    {
+      "id": "0c141d15d06382324572f9cc1b409805",
+      "title": "Ông Đinh La Thăng phải bồi thường hơn 830 tỉ, mới khắc phục hơn 4 tỉ",
+      "link": "https://thanhnien.vn/ong-dinh-la-thang-phai-boi-thuong-hon-830-ti-moi-khac-phuc-hon-4-ti-185251027163744941.htm",
+      "summary": "Theo lãnh đạo Cục Quản lý thi hành án dân sự, ông Đinh La Thăng phải bồi thường tổng cộng hơn 830 tỉ đồng nhưng đến nay mới khắc phục hơn 4 tỉ đồng và không còn tài sản nào khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:59:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894457+07:00"
+    },
+    {
+      "id": "b4a121dbe664b0e8d59bbde54c4f4004",
+      "title": "Đêm trắng giữa tâm lũ Đà Nẵng: Những người lính băng rừng, đội mưa cứu dân",
+      "link": "https://thanhnien.vn/dem-trang-giua-tam-lu-da-nang-nhung-nguoi-linh-bang-rung-doi-mua-cuu-dan-185251027162243259.htm",
+      "summary": "Mưa lớn, sạt lở chia cắt nhiều xã miền núi ở TP.Đà Nẵng. Trong cơn lũ cuồn cuộn, những người lính và dân quân vẫn bám dân, đội mưa xuyên đêm đưa người dân ra khỏi vùng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:58:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894608+07:00"
+    },
+    {
+      "id": "4fa416c4a89f5c4e16247c4ef7d085df",
+      "title": "Ca sĩ Siu Black nhập viện",
+      "link": "https://thanhnien.vn/ca-si-siu-black-nhap-vien-185251027164419925.htm",
+      "summary": "Theo cháu trai, nữ ca sĩ Siu Black hiện đang được điều trị tại Bệnh viện Hùng Vương (Gia Lai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:57:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894777+07:00"
+    },
+    {
+      "id": "9686e383a43ee7300b83267bb6832f79",
+      "title": "CEO OpenAI gây tranh cãi khi ví công việc văn phòng với 'rác'",
+      "link": "https://thanhnien.vn/ceo-openai-gay-tranh-cai-khi-vi-cong-viec-van-phong-voi-rac-185251027114142915.htm",
+      "summary": "Tranh cãi dữ dội khi CEO Sam Altman tuyên bố AI (trí tuệ nhân tạo) sẽ xóa sổ những công việc không cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:52:00+07:00",
+      "fetched": "2025-10-27T17:20:03.894935+07:00"
+    },
+    {
+      "id": "56e66a997bcfb903c4c256ce23ec96ff",
+      "title": "Masterise Homes thắng 2 giải ‘Luxury’ tại PropertyGuru Vietnam Property Awards 2025",
+      "link": "https://thanhnien.vn/masterise-homes-thang-2-giai-luxury-tai-propertyguru-vietnam-property-awards-2025-185251027170151401.htm",
+      "summary": "Tối 24.10.2025, tại lễ trao giải PropertyGuru Vietnam Property Awards 2025, Masterise Homes đã xuất sắc được vinh danh ở hạng mục quan trọng 'Best Luxury Developer' (Nhà phát triển bất động sản hạng sang tốt nhất Việt Nam).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:49:00+07:00",
+      "fetched": "2025-10-27T17:20:03.895085+07:00"
+    },
+    {
+      "id": "7987a7bbf3639934103e8c868433abca",
+      "title": "Ông Trump phản ứng sao khi ông Putin thông báo về tên lửa 'bất khả chiến bại'?",
+      "link": "https://thanhnien.vn/ong-trump-phan-ung-sao-khi-ong-putin-thong-bao-ve-ten-lua-bat-kha-chien-bai-185251027164143033.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm nay 27.10 đã có phản ứng sau khi Tổng thống Nga Vladimir Putin thông báo nước này đã thử tên lửa hành trình có khả năng mang đầu đạn hạt nhân 9M730 Burevestnik.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:49:00+07:00",
+      "fetched": "2025-10-27T17:20:03.895236+07:00"
+    },
+    {
+      "id": "c57ba7c706a1904318957aceeb5e8acc",
+      "title": "Bộ trưởng AI của Albania 'mang thai 83 con'",
+      "link": "https://vnexpress.net/bo-truong-ai-cua-albania-mang-thai-83-con-4956402.html",
+      "summary": "Thủ tướng Albania ví von nữ Bộ trưởng AI Diella \"mang thai\", khi công bố kế hoạch tạo \"83 đứa con\" là trợ lý ảo cho các nghị sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T09:45:33+07:00",
+      "fetched": "2025-10-27T17:20:06.719390+07:00"
+    },
+    {
+      "id": "f7b158fd742fe2d26f6777a7507e7562",
+      "title": "Nhiệt điện Mông Dương kỷ niệm 95 năm Ngày thành lập Hội Liên hiệp phụ nữ Việt Nam",
+      "link": "https://thanhnien.vn/nhiet-dien-mong-duong-ky-niem-95-nam-ngay-thanh-lap-hoi-lien-hiep-phu-nu-viet-nam-185251027165419694.htm",
+      "summary": "Hướng tới kỷ niệm 95 năm Ngày thành lập Hội Liên hiệp phụ nữ Việt Nam (20.10.1930 - 20.10.2025), được sự cho phép của Đảng ủy, Ban Giám đốc Công ty, Ban Nữ công Công ty nhiệt điện Mông Dương đã tổ chức những hoạt động ý nghĩa, sôi nổi, nhằm tôn vinh vai trò của phụ nữ trong công việc và cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:44:00+07:00",
+      "fetched": "2025-10-27T17:20:03.895390+07:00"
+    },
+    {
+      "id": "7b340698b000bc332104ff4a9827c46b",
+      "title": "'Trong thảm họa, nhà giàu hay nghèo đều cần được cứu trợ'",
+      "link": "https://vnexpress.net/trong-tham-hoa-nha-giau-hay-ngheo-deu-can-duoc-cuu-tro-4956385.html",
+      "summary": "Bộ trưởng Quốc phòng Phan Văn Giang nói trong tình huống thảm họa, dù giàu hay nghèo, mọi người đều có thể thiếu thốn, nguy hiểm và cần được cứu trợ bình đẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:40:13+07:00",
+      "fetched": "2025-10-27T17:20:00.808209+07:00"
+    },
+    {
+      "id": "88602f59e6c70e9db3f16713aa067b17",
+      "title": "Lũ lên nhanh, giao thông qua Huế tê liệt",
+      "link": "https://vnexpress.net/lu-len-nhanh-giao-thong-qua-hue-te-liet-4956426.html",
+      "summary": "Chiều 27/10, Huế đang mưa to, lũ các sông Hương, sông Bồ lên nhanh, gây ngập ở 32/40 xã, phường, nơi sâu nhất 1,5 m; đường sắt, đường bộ qua thành phố tê liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:39:09+07:00",
+      "fetched": "2025-10-27T17:20:00.808396+07:00"
+    },
+    {
+      "id": "04645cc2e46539766716b108609a29e5",
+      "title": "Còn 3 tháng nữa là tết, có nên nghỉ việc?",
+      "link": "https://thanhnien.vn/con-3-thang-nua-la-tet-co-nen-nghi-viec-185251027134905045.htm",
+      "summary": "Các hội nhóm việc làm trên mạng xã hội hiện bắt đầu \"nóng\" lên với câu hỏi tưởng đơn giản mà khiến nhiều người trăn trở: \"Còn 3 tháng nữa là tết, có nên nghỉ việc không?\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:34:00+07:00",
+      "fetched": "2025-10-27T17:20:03.895543+07:00"
+    },
+    {
+      "id": "923c554bc01ffa5b6f06ffb0baa44e6c",
+      "title": "Cục trưởng Xuân Bắc: Phải xử lý nghiêm khắc đối với những ca sĩ 'lệch chuẩn'",
+      "link": "https://thanhnien.vn/cuc-truong-xuan-bac-phai-xu-ly-nghiem-khac-doi-voi-nhung-ca-si-lech-chuan-185251027162907594.htm",
+      "summary": "Ngày 27.10, tại Hà Nội, Cục Nghệ thuật biểu diễn và Cục Phát thanh, Truyền hình và Thông tin điện tử (Bộ VH-TT-DL) đã có buổi làm việc về phương án chấn chỉnh, xử lý nghiêm tình trạng gần đây xuất hiện nhiều ca khúc có lời lẽ phản cảm, lệch chuẩn văn hóa phát tán trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:33:00+07:00",
+      "fetched": "2025-10-27T17:20:03.895709+07:00"
+    },
+    {
+      "id": "c233f8e43f8e43f66d6c1ce76dca0bdf",
+      "title": "Myanmar kích nổ khu phức hợp lừa đảo",
+      "link": "https://vnexpress.net/myanmar-kich-no-khu-phuc-hop-lua-dao-4956383.html",
+      "summary": "Quân đội Myanmar cho nổ phá hàng loạt tòa nhà trong khu phức hợp lừa đảo KK Park, thị trấn Myawaddy, sau khi thông báo kế hoạch cho phía Thái Lan và phát cảnh báo đến người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:28:49+07:00",
+      "fetched": "2025-10-27T17:20:00.808569+07:00"
+    },
+    {
+      "id": "185761ac1b368094c6424748f610b6e2",
+      "title": "Hơn 500 học sinh tham gia Media Day giải bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/hon-500-hoc-sinh-tham-gia-media-day-giai-bong-ro-tre-vnexpress-4956161.html",
+      "summary": "Hàng trăm gương mặt nam, nữ sinh tham dự Media Day giải bóng rổ Trẻ VnExpress - Cup Ziaja 2024, thể hiện phong thái tự tin và năng lượng tuổi học trò trước ngày tranh tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:27:07+07:00",
+      "fetched": "2025-10-27T17:20:00.809713+07:00"
+    },
+    {
+      "id": "502df0fecc132a49e7ea4a79cef86485",
+      "title": "Ông Đinh La Thăng 'đang chấp hành án tù', không còn tài sản",
+      "link": "https://vnexpress.net/ong-dinh-la-thang-dang-chap-hanh-an-tu-khong-con-tai-san-4956384.html",
+      "summary": "Cơ quan thi hành án mới thu được 4,5 tỷ đồng từ \"căn nhà duy nhất đứng tên vợ chồng ông Đinh La Thăng\" và hiện ông không còn tài sản nào khác để khắc phục 825 tỷ đồng còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:26:24+07:00",
+      "fetched": "2025-10-27T17:20:00.809884+07:00"
+    },
+    {
+      "id": "57b750e2ce65a09110ed5b43feae7a9b",
+      "title": "Ca sĩ Siu Black nhập viện cấp cứu",
+      "link": "https://vnexpress.net/ca-si-siu-black-nhap-vien-cap-cuu-4956405.html",
+      "summary": "Ca sĩ Siu Black, 58 tuổi, nhập viện cấp cứu sau khi ngất xỉu tại nhà, hiện vẫn hôn mê, theo người thân cho biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:26:23+07:00",
+      "fetched": "2025-10-27T17:20:00.810044+07:00"
+    },
+    {
+      "id": "02b9f347981e0b28fb11e0db4e45fc6b",
+      "title": "Loạt sản phẩm công nghệ Việt trình diễn tại Tuần lễ Số",
+      "link": "https://vnexpress.net/loat-san-pham-cong-nghe-viet-trinh-dien-tai-tuan-le-so-4956281.html",
+      "summary": "Các giải pháp số hóa dữ liệu, ứng dụng AI, thiết bị bay... do kỹ sư Việt phát triển, được trưng bày tại Tuần lễ Số quốc tế Việt Nam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:19:53+07:00",
+      "fetched": "2025-10-27T17:20:00.810203+07:00"
+    },
+    {
+      "id": "02b9f347981e0b28fb11e0db4e45fc6b",
+      "title": "Loạt sản phẩm công nghệ Việt trình diễn tại Tuần lễ Số",
+      "link": "https://vnexpress.net/loat-san-pham-cong-nghe-viet-trinh-dien-tai-tuan-le-so-4956281.html",
+      "summary": "Các giải pháp số hóa dữ liệu, ứng dụng AI, thiết bị bay... do kỹ sư Việt phát triển, được trưng bày tại Tuần lễ Số quốc tế Việt Nam 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T09:19:53+07:00",
+      "fetched": "2025-10-27T17:20:10.503141+07:00"
+    },
+    {
+      "id": "563ee49b5fb643039a357de3ecee920f",
+      "title": "Lắp đặt biểu tượng Cá Ông 50 tỷ đồng ở Bãi Sau Vũng Tàu",
+      "link": "https://vnexpress.net/quang-truong-cot-co-bai-sau-vung-tau-4956410.html",
+      "summary": "Biểu tượng Cá Ông cao 8 m, đúc bằng đồng đỏ, dự kiến lắp đặt tại quảng trường Cột Cờ Bãi Sau và hoàn thành trước Tết Nguyên đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:15:42+07:00",
+      "fetched": "2025-10-27T17:20:00.810359+07:00"
+    },
+    {
+      "id": "ee21fbc04da9650903901b1fda08046d",
+      "title": "Tìm bạn gái để cùng cảm nhận yêu thương là thế nào",
+      "link": "https://vnexpress.net/tim-ban-gai-de-cung-cam-nhan-yeu-thuong-la-the-nao-4956211.html",
+      "summary": "Anh thích xây dựng gia đình luôn tràn đầy tiếng cười nhưng vẫn giữ sự tôn trọng lẫn nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:11:48+07:00",
+      "fetched": "2025-10-27T17:20:00.810459+07:00"
+    },
+    {
+      "id": "38b4fc5c84728537c4b8bec0ac107915",
+      "title": "Khách đến Hà Nội 10 tháng đầu năm vượt cả năm 2024",
+      "link": "https://vnexpress.net/khach-den-ha-noi-10-thang-dau-nam-vuot-ca-nam-2024-4956165.html",
+      "summary": "Trong 10 tháng đầu năm, Hà Nội đón hơn 28,2 triệu lượt khách, đạt 91% so mục tiêu năm, cao hơn tổng lượt khách cả năm 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:08:40+07:00",
+      "fetched": "2025-10-27T17:20:00.810616+07:00"
+    },
+    {
+      "id": "dcfca8150f6d6902b7b57ada935e44c7",
+      "title": "Đề xuất đưa sở hữu trí tuệ thành tài sản sinh lời",
+      "link": "https://vnexpress.net/de-xuat-dua-so-huu-tri-tue-thanh-tai-san-sinh-loi-4956322.html",
+      "summary": "Dự thảo Luật Sở hữu trí tuệ sửa đổi mở đường để quyền sáng chế, tác phẩm và giải pháp công nghệ có thể định giá, giao dịch và thế chấp như tài sản kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:03:16+07:00",
+      "fetched": "2025-10-27T17:20:00.810799+07:00"
+    },
+    {
+      "id": "dcfca8150f6d6902b7b57ada935e44c7",
+      "title": "Đề xuất đưa sở hữu trí tuệ thành tài sản sinh lời",
+      "link": "https://vnexpress.net/de-xuat-dua-so-huu-tri-tue-thanh-tai-san-sinh-loi-4956322.html",
+      "summary": "Dự thảo Luật Sở hữu trí tuệ sửa đổi mở đường để quyền sáng chế, tác phẩm và giải pháp công nghệ có thể định giá, giao dịch và thế chấp như tài sản kinh tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T09:03:16+07:00",
+      "fetched": "2025-10-27T17:20:10.503313+07:00"
+    },
+    {
+      "id": "58132c6890d92dbe240f387fc30028d2",
+      "title": "Dấu ấn trong lễ kỷ niệm 30 năm thành lập KienlongBank",
+      "link": "https://vnexpress.net/dau-an-trong-le-ky-niem-30-nam-thanh-lap-kienlongbank-4956394.html",
+      "summary": "Ông Trần Ngọc Minh, Chủ tịch HĐQT KienlongBank, gây ấn tượng với màn trình diễn ca khúc \"Kết nối\" cùng ca sĩ Bùi Công Nam trong đêm gala kỷ niệm 30 năm thành lập ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:00:00+07:00",
+      "fetched": "2025-10-27T17:20:00.810961+07:00"
+    },
+    {
+      "id": "22375ad2c1fcd2ced8b1bb3f329ec1a1",
+      "title": "Lý do Vingroup đầu tư tại Congo",
+      "link": "https://vnexpress.net/ly-do-vingroup-dau-tu-tai-congo-4956354.html",
+      "summary": "Nguồn khoáng sản dồi dào, tốc độ tăng trưởng kinh tế hàng đầu khu vực và chính sách mở cửa được xem là các yếu tố thu hút Vingroup đầu tư vào Congo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:00:00+07:00",
+      "fetched": "2025-10-27T17:20:00.811130+07:00"
+    },
+    {
+      "id": "4f467dc21a3a408f3b438912bbcffc86",
+      "title": "Sẹo lồi như hạt đậu sau xỏ khuyên tai",
+      "link": "https://vnexpress.net/seo-loi-nhu-hat-dau-sau-xo-khuyen-tai-4956340.html",
+      "summary": "Chị Thi, 30 tuổi, nổi cục sẹo lồi lớn sau hai năm sau xỏ khuyên tai, được bác sĩ tiêm hoạt chất triamcinolone thu nhỏ sẹo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:00:00+07:00",
+      "fetched": "2025-10-27T17:20:00.811298+07:00"
+    },
+    {
+      "id": "f3f39fb1554053cd71b7a0af69a8a167",
+      "title": "Những món ăn uống âm thầm gây rụng tóc",
+      "link": "https://vnexpress.net/nhung-mon-an-uong-am-tham-gay-rung-toc-4956197.html",
+      "summary": "Ăn các món nhiều đường, carbohydrate tinh chế, đồ chiên rán có thể gây mất cân bằng nội tiết tố, tắc nghẽn nang tóc dẫn đến gãy rụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T09:00:00+07:00",
+      "fetched": "2025-10-27T17:20:00.811450+07:00"
+    },
+    {
+      "id": "22375ad2c1fcd2ced8b1bb3f329ec1a1",
+      "title": "Lý do Vingroup đầu tư tại Congo",
+      "link": "https://vnexpress.net/ly-do-vingroup-dau-tu-tai-congo-4956354.html",
+      "summary": "Nguồn khoáng sản dồi dào, tốc độ tăng trưởng kinh tế hàng đầu khu vực và chính sách mở cửa được xem là các yếu tố thu hút Vingroup đầu tư vào Congo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T09:00:00+07:00",
+      "fetched": "2025-10-27T17:20:08.396662+07:00"
+    },
+    {
+      "id": "48ece5ad3d2cac4dc3dd847d6dfe6cc2",
+      "title": "Thủ tướng nêu định hướng tăng cường hợp tác giữa các nước Đông Á và ASEAN",
+      "link": "https://vnexpress.net/thu-tuong-neu-dinh-huong-tang-cuong-hop-tac-giua-cac-nuoc-dong-a-va-asean-4956327.html",
+      "summary": "Thủ tướng Phạm Minh Chính đề xuất Trung Quốc, Nhật Bản, Hàn Quốc cùng ASEAN nâng cao hợp tác trong nhiều lĩnh vực như chuyển đổi số, chuyển đổi xanh, điện hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T08:43:52+07:00",
+      "fetched": "2025-10-27T17:20:06.719567+07:00"
+    },
+    {
+      "id": "be3966516a3dbc1f1536777fc06b6792",
+      "title": "'Sự phát triển AI của Việt Nam trên bản đồ thế giới rất ấn tượng'",
+      "link": "https://vnexpress.net/su-phat-trien-ai-cua-viet-nam-tren-ban-do-the-gioi-rat-an-tuong-4956254.html",
+      "summary": "Ông Jonathan Baker, đại diện Tổ chức Giáo dục, Khoa học và Văn hóa của Liên Hợp Quốc (UNESCO) bày tỏ ấn tượng với sự phát triển AI tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T08:39:25+07:00",
+      "fetched": "2025-10-27T17:20:10.503476+07:00"
+    },
+    {
+      "id": "d1dea376bc6767ca6e99566124dfba2a",
+      "title": "VN-Index giảm hơn 30 điểm",
+      "link": "https://vnexpress.net/vn-index-giam-hon-30-diem-4956378.html",
+      "summary": "Nhà đầu tư ồ ạt xả hàng nhiều cổ phiếu vốn hóa lớn như VHM, VRE, MWG khiến chỉ số lao nhanh trong những phút cuối phiên, mất hơn 30 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-27T08:37:53+07:00",
+      "fetched": "2025-10-27T17:20:08.394844+07:00"
     },
     {
       "id": "09ce2875cd1d40168cd1cee8548ef7f6",
