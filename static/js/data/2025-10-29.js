@@ -1,7 +1,57 @@
 window.newsData_2025_10_29 = {
   "date": "2025-10-29",
-  "lastUpdated": "2025-10-29T01:25:51.839729+07:00",
+  "lastUpdated": "2025-10-29T03:19:57.801253+07:00",
   "articles": [
+    {
+      "id": "add5f51b802dc34556c2e8edb197ebc4",
+      "title": "Tổng Bí thư mời các nhà chiến lược AI hàng đầu Anh và thế giới đến Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-moi-cac-nha-chien-luoc-ai-hang-dau-anh-va-the-gioi-den-viet-nam-20251028234245373.htm",
+      "summary": "Trong cuộc tọa đàm ngày 28-10, Tổng Bí thư Tô Lâm mời các nhà chiến lược, chuyên gia và học giả hàng đầu về AI, công nghệ đến Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:19:52.251870+07:00",
+      "fetched": "2025-10-29T03:19:52.251988+07:00"
+    },
+    {
+      "id": "d1a2cf1f6312dccf34780064b900e36f",
+      "title": "Thủ tướng Israel ra lệnh tấn công Gaza ngay lập tức",
+      "link": "https://tuoitre.vn/thu-tuong-israel-ra-lenh-tan-cong-gaza-ngay-lap-tuc-20251029000410623.htm",
+      "summary": "Căng thẳng giữa Israel và Hamas tiếp tục leo thang khi Thủ tướng Benjamin Netanyahu ra lệnh tấn công Gaza trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:19:52.251739+07:00",
+      "fetched": "2025-10-29T03:19:52.251858+07:00"
+    },
+    {
+      "id": "65135d73e85da8176374bcff5a78560b",
+      "title": "Đội đầu tiên bay vào TP.HCM dự vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025",
+      "link": "https://tuoitre.vn/doi-dau-tien-bay-vao-tp-hcm-du-vong-chung-ket-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-20251028235541255.htm",
+      "summary": "Công đoàn Hà Nội là đội bóng đầu tiên có mặt tại TP.HCM để tham dự vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025 diễn ra cuối tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:19:52.251598+07:00",
+      "fetched": "2025-10-29T03:19:52.251726+07:00"
+    },
+    {
+      "id": "08890326cd4e9c656d4ec042e70b64c7",
+      "title": "Mỹ bắn nổ 4 tàu nghi chở ma túy ở Thái Bình Dương, 14 người thiệt mạng",
+      "link": "https://tuoitre.vn/my-ban-no-4-tau-nghi-cho-ma-tuy-o-thai-binh-duong-14-nguoi-thiet-mang-20251029001844117.htm",
+      "summary": "Cuộc không kích mới nhất của Mỹ ngày 28-10 tại vùng biển Thái Bình Dương đã khiến 14 nghi phạm buôn ma túy thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:19:52.251426+07:00",
+      "fetched": "2025-10-29T03:19:52.251584+07:00"
+    },
+    {
+      "id": "f0b522875d42b481e3643ba819b1f00b",
+      "title": "Tại Anh, Tổng Bí thư Tô Lâm nói về câu hỏi sinh tử và lựa chọn của Việt Nam",
+      "link": "https://tuoitre.vn/tai-anh-tong-bi-thu-to-lam-noi-ve-cau-hoi-sinh-tu-va-lua-chon-cua-viet-nam-20251029013146822.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh Việt Nam không cổ vũ đối đầu hay phát triển dựa trên đối kháng mà tin vào đối thoại và luật quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:19:52.251166+07:00",
+      "fetched": "2025-10-29T03:19:52.251409+07:00"
+    },
     {
       "id": "c82d9344845f5bc855134c6d2f83c4d8",
       "title": "Sau tiếng nổ lớn, xe bồn bốc cháy ngùn ngụt, công an đang làm rõ thương vong",
@@ -153,6 +203,26 @@ window.newsData_2025_10_29 = {
       "fetched": "2025-10-29T01:25:45.820701+07:00"
     },
     {
+      "id": "ac32681daac127eb8cb0e67dde72bd55",
+      "title": "Nên ăn uống gì để thận khỏe?",
+      "link": "https://vnexpress.net/nen-an-uong-gi-de-than-khoe-4956293.html",
+      "summary": "Nên ăn việt quất, cá béo, ớt chuông đỏ, dầu ô liu; tránh thực phẩm mặn, thịt đỏ, nước ngọt, rượu để bảo vệ thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:00:00+07:00",
+      "fetched": "2025-10-29T03:19:48.727571+07:00"
+    },
+    {
+      "id": "5b07d4185b17b2cc93c69ebb4a73def1",
+      "title": "Bộ Công thương đề xuất lập 2 quỹ hỗ trợ doanh nghiệp chuyển đổi xanh",
+      "link": "https://thanhnien.vn/bo-cong-thuong-de-xuat-lap-2-quy-ho-tro-doanh-nghiep-chuyen-doi-xanh-185251028170415706.htm",
+      "summary": "Bộ Công thương đang xây dựng đề án đề xuất Chính phủ cho phép thành lập 2 quỹ để có cơ chế tài chính hỗ trợ doanh nghiệp chuyển đổi xanh và đầu tư nghiên cứu khoa học, ứng dụng công nghệ xanh vào sản xuất công nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T18:56:00+07:00",
+      "fetched": "2025-10-29T03:19:51.393164+07:00"
+    },
+    {
       "id": "30207225dcb648d46a17e6e37c75b249",
       "title": "FAT thành lập Ủy ban điều tra vụ sai Quốc kỳ, sang Việt Nam trực tiếp xin lỗi VFF",
       "link": "https://thanhnien.vn/fat-thanh-lap-uy-ban-dieu-tra-vu-sai-quoc-ky-sang-viet-nam-truc-tiep-xin-loi-vff-185251029011827299.htm",
@@ -161,6 +231,16 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-28T18:18:00+07:00",
       "fetched": "2025-10-29T01:25:44.934142+07:00"
+    },
+    {
+      "id": "d0e4165267118123e1f1cdbf4f8891b7",
+      "title": "Uống thuốc gì chữa zona thần kinh?",
+      "link": "https://vnexpress.net/uong-thuoc-gi-chua-zona-than-kinh-4947621.html",
+      "summary": "Điều trị bệnh zona gồm thuốc kháng virus, kem bôi da để làm chậm tiến triển của hồng ban, mụn nước, dùng thuốc giảm đau ngăn chứng đau dây thần kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T18:00:00+07:00",
+      "fetched": "2025-10-29T03:19:48.727757+07:00"
     },
     {
       "id": "cf0edb33d8bd08533e2b34920f2fdf6c",
@@ -431,6 +511,16 @@ window.newsData_2025_10_29 = {
       "category": "Công nghệ",
       "published": "2025-10-28T17:00:00+07:00",
       "fetched": "2025-10-29T01:25:50.866477+07:00"
+    },
+    {
+      "id": "c38ba3e0a6fb4184d6aa024c91a2e54a",
+      "title": "Dùng drone tiếp tế hành khách mắc kẹt ba ngày giữa đèo Lò Xo",
+      "link": "https://vnexpress.net/dung-drone-tiep-te-hanh-khach-mac-ket-ba-ngay-giua-deo-lo-xo-4957042.html",
+      "summary": "Trong lúc chờ lực lượng chức năng thông tuyến, người dân địa phương dùng drone vận chuyển đồ ăn, nước uống cho hàng chục tài xế, hành khách bị mắc kẹt trên đèo do sạt lở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T17:00:00+07:00",
+      "fetched": "2025-10-29T03:19:48.729828+07:00"
     },
     {
       "id": "3495cd508d38a7259253b392e6dca472",
