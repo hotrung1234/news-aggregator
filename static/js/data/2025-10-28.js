@@ -1,7 +1,157 @@
 window.newsData_2025_10_28 = {
   "date": "2025-10-28",
-  "lastUpdated": "2025-10-28T05:15:14.697140+07:00",
+  "lastUpdated": "2025-10-28T08:15:02.682285+07:00",
   "articles": [
+    {
+      "id": "755934f17f9a7c54e50b20f07861b585",
+      "title": "Trịnh Mỹ Anh mang trang phục dân tộc lấy cảm hứng hình tượng phụ nữ Việt đến Miss Earth 2025",
+      "link": "https://tuoitre.vn/trinh-my-anh-mang-trang-phuc-dan-toc-lay-cam-hung-hinh-tuong-phu-nu-viet-den-miss-earth-2025-20251028002338055.htm",
+      "summary": "'Hoa lửa' là tên gọi bộ trang phục dân tộc được người đẹp Trịnh Mỹ Anh mang đến tranh tài tại Miss Earth 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.422515+07:00",
+      "fetched": "2025-10-28T08:14:55.422660+07:00"
+    },
+    {
+      "id": "71dab2f45ea5b0de9c0f5a51c2f4f2b7",
+      "title": "Nga gây sốc khi muốn đăng cai Euro 2032",
+      "link": "https://tuoitre.vn/nga-gay-soc-khi-muon-dang-cai-euro-2032-20251028054436953.htm",
+      "summary": "Quan chức bóng đá Nga muốn thay Ý đăng cai Euro 2032 bất chấp lệnh cấm tham dự các sự kiện bóng đá quốc tế vì cuộc xung đột với Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.422391+07:00",
+      "fetched": "2025-10-28T08:14:55.422503+07:00"
+    },
+    {
+      "id": "a583212353a8f837268d43fe4d7904fd",
+      "title": "Tin tức sáng 28-10: Phó thủ tướng Phạm Thị Thanh Trà chỉ đạo Bộ Nội vụ, lĩnh vực lao động, việc làm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-10-pho-thu-tuong-pham-thi-thanh-tra-chi-dao-bo-noi-vu-linh-vuc-lao-dong-viec-lam-202510272156468.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội dành cả ngày thảo luận giám sát tối cao về bảo vệ môi trường; Phó thủ tướng Phạm Thị Thanh Trà được phân công chỉ đạo Bộ Nội vụ, lĩnh vực lao động, việc làm; 10 năm nữa người cao tuổi sẽ chiếm 20% dân số Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.422262+07:00",
+      "fetched": "2025-10-28T08:14:55.422380+07:00"
+    },
+    {
+      "id": "a7634ce5f6c0db2795bf1820bcaa16d0",
+      "title": "Đội hình FIFPro 2024-2025: Có Ronaldo, Messi nhưng không có Vinicius",
+      "link": "https://tuoitre.vn/doi-hinh-fifpro-2024-2025-co-ronaldo-messi-nhung-khong-co-vinicius-20251028062054374.htm",
+      "summary": "Hiệp hội cầu thủ chuyên nghiệp (FIFPro) công bố 26 ứng viên cho Đội hình tiêu biểu bóng đá thế giới 2024-2025 (World 11). Khá bất ngờ khi chân sút của Real Madrid là Vinicius không được nêu tên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.422140+07:00",
+      "fetched": "2025-10-28T08:14:55.422251+07:00"
+    },
+    {
+      "id": "0057e71f1b111b43e4f637ef5b4b612d",
+      "title": "Tin tức thế giới 28-10: Quân Nga lấy thêm 3 làng Ukraine; Ông Putin gặp Ngoại trưởng Triều Tiên",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-28-10-quan-nga-lay-them-3-lang-ukraine-ong-putin-gap-ngoai-truong-trieu-tien-2025102806122966.htm",
+      "summary": "Triều Tiên bày tỏ ủng hộ các biện pháp của Nga nhằm \"xóa bỏ tận gốc rễ cuộc xung đột Ukraine\"; Ông Trump đến Nhật, gặp Nhật hoàng Naruhito.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.422011+07:00",
+      "fetched": "2025-10-28T08:14:55.422128+07:00"
+    },
+    {
+      "id": "f5e9cc15c7b9b02a58d2373b5887356b",
+      "title": "Kết hôn, ly hôn ở nước ngoài, ai xác nhận tình trạng hôn nhân?",
+      "link": "https://tuoitre.vn/ket-hon-ly-hon-o-nuoc-ngoai-ai-xac-nhan-tinh-trang-hon-nhan-20251017150545363.htm",
+      "summary": "Tôi kết hôn ở Pháp năm 2000 và ly hôn ở Pháp tháng 2-2025. Khi về Việt Nam mua bất động sản, tôi cần xác nhận tình trạng hôn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421889+07:00",
+      "fetched": "2025-10-28T08:14:55.422000+07:00"
+    },
+    {
+      "id": "a4de118b3c1ebe629ba83cd09ebdb6d3",
+      "title": "Cập nhật lũ sáng 28-10: Lũ sông Thu Bồn, Vu Gia xuống chậm, nhiều nơi vẫn còn ngập rất sâu",
+      "link": "https://tuoitre.vn/cap-nhat-lu-sang-28-10-lu-song-thu-bon-vu-gia-xuong-cham-nhieu-noi-van-con-ngap-rat-sau-20251028061529219.htm",
+      "summary": "Nước lũ sông Thu Bồn, Vu Gia ở thành phố Đà Nẵng đến sáng nay xuống chậm, tuy nhiên nhiều khu vực nhà dân vẫn còn ngập rất sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421763+07:00",
+      "fetched": "2025-10-28T08:14:55.421878+07:00"
+    },
+    {
+      "id": "8ed5ccc2efbd72b91fd50eff7ece1d3e",
+      "title": "Tập đoàn dầu mỏ Lukoil của Nga bán tài sản ở nước ngoài do lệnh trừng phạt của Mỹ",
+      "link": "https://tuoitre.vn/tap-doan-dau-mo-lukoil-cua-nga-ban-tai-san-o-nuoc-ngoai-do-lenh-trung-phat-cua-my-20251028064826552.htm",
+      "summary": "Tập đoàn dầu mỏ Lukoil của Nga sẽ bán các tài sản ở nước ngoài sau khi Mỹ công bố lệnh trừng phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421617+07:00",
+      "fetched": "2025-10-28T08:14:55.421750+07:00"
+    },
+    {
+      "id": "65cafb005812c5c1bf50d61fda3c5199",
+      "title": "Bê bối bóng đá Thổ Nhĩ Kỳ: Một trọng tài đặt cược 18.227 trận đấu",
+      "link": "https://tuoitre.vn/be-boi-bong-da-tho-nhi-ky-mot-trong-tai-dat-cuoc-18-227-tran-dau-20251028064207157.htm",
+      "summary": "Hôm 27-10, Liên đoàn Bóng đá Thổ Nhĩ Kỳ (TFF) cho biết tổ chức này đang điều tra hơn 150 trọng tài ở các giải đấu chuyên nghiệp vì cáo buộc tham gia cá cược vào các trận bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421488+07:00",
+      "fetched": "2025-10-28T08:14:55.421606+07:00"
+    },
+    {
+      "id": "7bf14a33621bf868b024bd92927ccfff",
+      "title": "Xe ô tô tự dự báo trời mưa bão bằng cách 'nghe' tiếng sấm",
+      "link": "https://tuoitre.vn/xe-o-to-tu-du-bao-troi-mua-bao-bang-cach-nghe-tieng-sam-20251027232532688.htm",
+      "summary": "Mercedes-Benz đăng ký bằng sáng chế cho một công nghệ giúp xe mui trần có khả năng tự động đóng mui trước khi trời mưa bão, bằng cách sử dụng hàng loạt cảm biến để \"nghe\" tiếng sấm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421356+07:00",
+      "fetched": "2025-10-28T08:14:55.421472+07:00"
+    },
+    {
+      "id": "abfa9198d457acb2d13d83b8e11fc129",
+      "title": "Ngoại trưởng Mỹ - Trung điện đàm, Bắc Kinh kêu gọi từ bỏ cách gây áp lực tùy tiện",
+      "link": "https://tuoitre.vn/ngoai-truong-my-trung-dien-dam-bac-kinh-keu-goi-tu-bo-cach-gay-ap-luc-tuy-tien-20251028071925575.htm",
+      "summary": "Ngoại trưởng Mỹ - Trung điện đàm trước thềm cuộc gặp Trump - Tập tại Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421226+07:00",
+      "fetched": "2025-10-28T08:14:55.421345+07:00"
+    },
+    {
+      "id": "0a95be3d6628c1b5193067906f525678",
+      "title": "Khi nào Malaysia nhận phán quyết sau cùng của FIFA?",
+      "link": "https://tuoitre.vn/khi-nao-malaysia-nhan-phan-quyet-sau-cung-cua-fifa-20251027073102075.htm",
+      "summary": "Truyền thông Malaysia cho biết trong tuần này, Liên đoàn Bóng đá Malaysia sẽ nhận được phán quyết từ Ủy ban kháng cáo của FIFA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.421095+07:00",
+      "fetched": "2025-10-28T08:14:55.421214+07:00"
+    },
+    {
+      "id": "33c5c2f56b1992fa58b9bf96c4b5fd61",
+      "title": "Thầy giáo ‘không rõ tên’ ở ĐH Tài chính - Marketing rút ví cho SV nghèo mượn 15 triệu nhập học",
+      "link": "https://tuoitre.vn/thay-giao-khong-ro-ten-o-dh-tai-chinh-marketing-rut-vi-cho-sv-ngheo-muon-15-trieu-nhap-hoc-20251027081254939.htm",
+      "summary": "Vì quá nghèo, Nguyễn Ngọc Hồng Thy, từ bỏ nhập học Trường đại học Tài chính - Marketing. Tuổi Trẻ đã hướng dẫn cô liên hệ ngân hàng vay vốn và quay lại trường xin gia hạn thời điểm đóng học phí. Tại trường, một câu chuyện cảm động đã xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.420961+07:00",
+      "fetched": "2025-10-28T08:14:55.421082+07:00"
+    },
+    {
+      "id": "a1227633116139986a2f8073beebd661",
+      "title": "Lũ bủa vây miền Trung",
+      "link": "https://tuoitre.vn/lu-bua-vay-mien-trung-20251028073107113.htm",
+      "summary": "Nhờ phòng bị từ trước nên người dân miền Trung không bất ngờ với đợt lũ lớn từ ngày 26-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.420818+07:00",
+      "fetched": "2025-10-28T08:14:55.420947+07:00"
+    },
+    {
+      "id": "92e517cff96f757d6f31e3fd4740f668",
+      "title": "Dân chơi pickleball đối mặt thêm hiểm họa mới",
+      "link": "https://tuoitre.vn/dan-choi-pickleball-doi-mat-them-hiem-hoa-moi-2025102721423707.htm",
+      "summary": "Bên cạnh những vấn đề về khớp gối, khuỷu tay, mắt cá, dân chơi pickleball hiện tại đối diện một hiểm họa chấn thương đang ngày càng xuất hiện nhiều - chấn thương mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T08:14:55.420576+07:00",
+      "fetched": "2025-10-28T08:14:55.420802+07:00"
+    },
     {
       "id": "827aedd1a4db20f5051492ac0f9014bf",
       "title": "Giá vàng thế giới rơi khỏi ngưỡng 4.000 USD/ounce",
@@ -193,6 +343,426 @@ window.newsData_2025_10_28 = {
       "fetched": "2025-10-28T01:25:01.638818+07:00"
     },
     {
+      "id": "822b53c67216fb672c0a4dc0e8352eb8",
+      "title": "Đà Nẵng: Nguy cơ sạt lở đồi, xã Trà Leng di dời khẩn cấp",
+      "link": "https://thanhnien.vn/da-nang-nguy-co-sat-lo-doi-xa-tra-leng-di-doi-khan-cap-185251028071841672.htm",
+      "summary": "Trước nguy cơ sạt lở ngọn đồi phía sau trụ sở UBND xã Trà Leng (TP.Đà Nẵng), lãnh đạo xã quyết định di dời tài sản, máy móc, thiết bị trong đêm. Nhiều nơi khác ở TP.Đà Nẵng cũng cấp tập di dời dân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:11:00+07:00",
+      "fetched": "2025-10-28T08:14:54.584910+07:00"
+    },
+    {
+      "id": "c3734cf9c5414536c3e4d1c234be1b46",
+      "title": "Mẹ bệnh tim nuôi hai con bị tâm thần",
+      "link": "https://thanhnien.vn/me-benh-tim-nuoi-hai-con-bi-tam-than-185251027191712309.htm",
+      "summary": "Chồng mất do ung thư gan, bản thân bị bệnh tim, bà Nguyễn Thị Thanh Tuyền (42 tuổi, ngụ khu vực Bình Hưng, P.Phước Thới, TP.Cần Thơ) làm lụng đủ nghề để nuôi hai đứa con bệnh tâm thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:09:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585080+07:00"
+    },
+    {
+      "id": "6a9229336c8f31e3b15f47e32a0925f4",
+      "title": "Tổng trấn quyền lực nhất trong lịch sử nhà Nguyễn",
+      "link": "https://thanhnien.vn/tong-tran-quyen-luc-nhat-trong-lich-su-nha-nguyen-185251027233047685.htm",
+      "summary": "Nhờ tinh thần gan dạ, dám nghĩ dám làm, Lê Văn Duyệt từ một thái giám lo việc bên trong, dần dần chuyển sang ngạch võ, trở thành đại tướng, được phong tước quận công, cuối cùng trở thành người quản lý một trong hai đại thành của nước VN dưới triều Nguyễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585243+07:00"
+    },
+    {
+      "id": "02942a9c5f89368397cbf047d805fdbe",
+      "title": "Ecopark ra mắt căn hộ tiêu chuẩn resort 5 sao view trực diện hồ Thiên Nga",
+      "link": "https://thanhnien.vn/ecopark-ra-mat-can-ho-tieu-chuan-resort-5-sao-view-truc-dien-ho-thien-nga-185251027203956422.htm",
+      "summary": "Cư dân Swanlake Residences được thưởng thức cuộc sống với tầm view trực diện hồ Thiên Nga, sông Lam - nơi ngắm bình minh đẹp bậc nhất Nghệ An; thư giãn chăm sóc bản thân và gia đình với hệ tiện ích tiêu chuẩn resort 5 sao: bể bơi bốn mùa trong nhà theo công nghệ điện phân muối, phòng gym/yoga, phòng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585397+07:00"
+    },
+    {
+      "id": "06e47d2a6e626ce404a4f1f724266db7",
+      "title": "Nhiều người trẻ dù sở hữu bằng đại học danh giá vẫn loay hoay tìm việc",
+      "link": "https://thanhnien.vn/nhieu-nguoi-tre-du-so-huu-bang-dai-hoc-danh-gia-van-loay-hoay-tim-viec-185251027194426882.htm",
+      "summary": "Ra trường với nhiều kỳ vọng, nhưng chỉ sau vài tháng gửi hồ sơ không phản hồi, phỏng vấn liên tục trượt, nhiều bạn trẻ đành \"nghỉ tạm\" rồi rơi vào cảnh không học, không làm, không đào tạo. Ở tuổi đôi mươi, họ đối diện cảm giác mất phương hướng, tự ti vì bị gán mác \"lười biếng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585551+07:00"
+    },
+    {
+      "id": "2a501f48078c34afc4930c931943cf21",
+      "title": "Công đoàn BSR: Điểm tựa tinh thần và sáng tạo của người lao động",
+      "link": "https://thanhnien.vn/cong-doan-bsr-diem-tua-tinh-than-va-sang-tao-cua-nguoi-lao-dong-185251027174746971.htm",
+      "summary": "Nhiều năm qua, Công đoàn Công ty CP Lọc hóa dầu Bình Sơn (BSR) đã trở thành điểm tựa tinh thần, là nơi gửi gắm niềm tin, khơi nguồn sáng tạo cho hàng ngàn cán bộ, kỹ sư, công nhân tại Nhà máy Lọc dầu Dung Quất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585723+07:00"
+    },
+    {
+      "id": "3277fdbef8803bac861440037805c63f",
+      "title": "Đan Phượng bứt tốc: Vươn mình thành điểm sáng mới trên bản đồ bất động sản Hà Nội",
+      "link": "https://thanhnien.vn/dan-phuong-but-toc-vuon-minh-thanh-diem-sang-moi-tren-ban-do-bat-dong-san-ha-noi-185251027173323873.htm",
+      "summary": "Đan Phượng bước vào giai đoạn bứt phá với hạ tầng kết nối chiến lược, quy hoạch đồng bộ và làn sóng cư dân toàn cầu tìm kiếm không gian sống chất lượng quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.585877+07:00"
+    },
+    {
+      "id": "3d84ac28cf1d78b9110596cdc881a976",
+      "title": "TT AVIO: Dấu ấn Nhật Bản trên hành trình “Next Good” tại Việt Nam",
+      "link": "https://thanhnien.vn/tt-avio-dau-an-nhat-ban-tren-hanh-trinh-next-good-tai-viet-nam-185251027171546692.htm",
+      "summary": "Một năm trước, giữa thị trường bất động sản đang khó khăn tìm lại nhịp cân bằng, TT AVIO xuất hiện không ồn ào nhưng đầy khác biệt. Bằng sứ mệnh không chỉ xây nhà, mà kiến tạo một chuẩn sống bền vững, nơi 'chất lượng Nhật Bản' trở thành ngôn ngữ chung của niềm tin và khát vọng an cư của người Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586028+07:00"
+    },
+    {
+      "id": "bd8a9c2fcf196c22d42f8e840db52f99",
+      "title": "Tuyển sinh Trường Đại học Fulbright Việt Nam: Học gì trước một thế giới luôn thay đổi?",
+      "link": "https://thanhnien.vn/tuyen-sinh-truong-dai-hoc-fulbright-viet-nam-hoc-gi-truoc-mot-the-gioi-luon-thay-doi-185251027164703619.htm",
+      "summary": "Trường Đại học Fulbright Việt Nam vừa công bố chương trình tuyển sinh và học bổng niên khóa 2026 - 2030 với nhiều thông tin mới. Tất cả đều được thiết kế hướng đến sinh viên để chuẩn bị cho một tương lai thay đổi không ngừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586174+07:00"
+    },
+    {
+      "id": "db8cea814b361dd6749f07496301e42e",
+      "title": "Trẻ sơ sinh có thể đối mặt với tim bẩm sinh và các dị tật nguy hiểm",
+      "link": "https://thanhnien.vn/tre-so-sinh-co-the-doi-mat-voi-tim-bam-sinh-va-cac-di-tat-nguy-hiem-185251027154146693.htm",
+      "summary": "Bệnh tim bẩm sinh và các dị tật là một trong những nguyên nhân gây tử vong hàng đầu ở trẻ nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586319+07:00"
+    },
+    {
+      "id": "d1cb5a1cfa938b57936be1b465d91d2e",
+      "title": "Vì sao nhiều người nhầm lẫn biển 'cấm rẽ trái' đồng nghĩa 'cấm quay đầu'?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-nham-lan-bien-cam-re-trai-dong-nghia-cam-quay-dau-185251027141326556.htm",
+      "summary": "Không ít người vẫn giữ suy nghĩ rằng biển cấm rẽ trái cũng cấm quay đầu xe. Đây là nhầm lẫn phổ biến bắt nguồn từ quy định trước năm 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586464+07:00"
+    },
+    {
+      "id": "f98fb268ff708e7548a793dd95139a32",
+      "title": "S P Setia, hành trình chinh phục châu Âu và chuẩn mực ‘đúng giá trị’ Việt Nam",
+      "link": "https://thanhnien.vn/s-p-setia-hanh-trinh-chinh-phuc-chau-au-va-chuan-muc-dung-gia-tri-viet-nam-185251027112315054.htm",
+      "summary": "Năm 1974, khi các nền kinh tế tại châu Á bắt đầu bước vào giai đoạn phát triển mạnh mẽ, S P Setia Berhad đã ra đời ở Malaysia. Khi đó, khái niệm 'phát triển bền vững' vừa manh nha xuất hiện, các khu dân cư hiện đại, thông minh  vẫn còn khá mới mẻ với nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586609+07:00"
+    },
+    {
+      "id": "1cce23c5c0925520f8cc6e0ad21e1308",
+      "title": "Cách diện áo hoa, váy hoa sang mà không sến",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-dien-ao-hoa-vay-hoa-sang-ma-khong-sen-185251024115519215.htm",
+      "summary": "Trang phục hoa lá trẻ trung, hiện đại nhưng dễ bị gắn mác 'sến' và 'bánh bèo' nếu người mặc không tinh ý. Những bí quyết diện áo hoa, váy hoa dưới đây góp thêm góc nhìn để nàng có thể tạo nên các bản phối sang xịn từ tủ đồ họa tiết hoa lá yêu thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T01:00:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586778+07:00"
+    },
+    {
+      "id": "2325317a3d88755cb5596f96068a5612",
+      "title": "Quách Ngọc Tuyên nói về hôn nhân với vợ kém 16 tuổi",
+      "link": "https://thanhnien.vn/quach-ngoc-tuyen-noi-ve-hon-nhan-voi-vo-kem-16-tuoi-185251028013150794.htm",
+      "summary": "Quách Ngọc Tuyên thấy bản thân thay đổi nhiều sau khi lập gia đình. Ngoài là hậu phương, vợ kém tuổi còn hỗ trợ nam diễn viên trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:48:00+07:00",
+      "fetched": "2025-10-28T08:14:54.586934+07:00"
+    },
+    {
+      "id": "d7de7668a1d0e67c0def0c4eadb19ada",
+      "title": "Mỹ đưa B-1B áp sát, Venezuela tố CIA mưu toan tạo cớ gây chiến",
+      "link": "https://thanhnien.vn/my-dua-b-1b-ap-sat-venezuela-to-cia-muu-toan-tao-co-gay-chien-185251028072221168.htm",
+      "summary": "Mỹ điều 2 máy bay ném bom B-1B bay dọc bờ biển Venezuela, trong bối cảnh Caracas cáo buộc CIA ưu toan dàn dựng một vụ tấn công giả vào tàu khu trục USS Gravely để có cớ gây sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:40:00+07:00",
+      "fetched": "2025-10-28T08:14:54.587088+07:00"
+    },
+    {
+      "id": "6081f1b575b2cf01bba96f06eea245b6",
+      "title": "Venezuela tuyên bố phá âm mưu 'dàn dựng tấn công chiến hạm Mỹ'",
+      "link": "https://vnexpress.net/venezuela-tuyen-bo-pha-am-muu-dan-dung-tan-cong-chien-ham-my-4956549.html",
+      "summary": "Venezuela thông báo ngăn chặn \"âm mưu do CIA tài trợ\", trong đó dàn dựng cuộc tập kích chiến hạm USS Gravely ở biển Caribe để đổ lỗi cho Caracas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:32:27+07:00",
+      "fetched": "2025-10-28T08:14:51.221609+07:00"
+    },
+    {
+      "id": "6081f1b575b2cf01bba96f06eea245b6",
+      "title": "Venezuela tuyên bố phá âm mưu 'dàn dựng tấn công chiến hạm Mỹ'",
+      "link": "https://vnexpress.net/venezuela-tuyen-bo-pha-am-muu-dan-dung-tan-cong-chien-ham-my-4956549.html",
+      "summary": "Venezuela thông báo ngăn chặn \"âm mưu do CIA tài trợ\", trong đó dàn dựng cuộc tập kích chiến hạm USS Gravely ở biển Caribe để đổ lỗi cho Caracas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-28T00:32:27+07:00",
+      "fetched": "2025-10-28T08:14:56.904188+07:00"
+    },
+    {
+      "id": "bec22c163bf9ab0bb6eca8172f76876d",
+      "title": "Lũ sông Hương qua đỉnh, mức ngập giảm dần",
+      "link": "https://vnexpress.net/lu-song-huong-qua-dinh-muc-ngap-giam-dan-4956554.html",
+      "summary": "Sau khi đạt đỉnh vào đêm qua, lũ các sông Hương (TP Huế), Vu Gia - Thu Bồn (Đà Nẵng) đang xuống chậm, phạm vi và mức độ ngập giảm dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:29:01+07:00",
+      "fetched": "2025-10-28T08:14:51.221833+07:00"
+    },
+    {
+      "id": "73d9fe8ea0623330244c5e8e6ae4dd7c",
+      "title": "Giá vàng thế giới lao dốc, Wall Street tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-wall-street-tang-manh-4956559.html",
+      "summary": "Mỗi ounce vàng giảm tới 130 USD phiên đầu tuần, trong khi cả ba chỉ số của chứng khoán Mỹ cùng lên mức cao kỷ lục mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:26:38+07:00",
+      "fetched": "2025-10-28T08:14:51.221999+07:00"
+    },
+    {
+      "id": "73d9fe8ea0623330244c5e8e6ae4dd7c",
+      "title": "Giá vàng thế giới lao dốc, Wall Street tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-wall-street-tang-manh-4956559.html",
+      "summary": "Mỗi ounce vàng giảm tới 130 USD phiên đầu tuần, trong khi cả ba chỉ số của chứng khoán Mỹ cùng lên mức cao kỷ lục mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-28T00:26:38+07:00",
+      "fetched": "2025-10-28T08:14:58.500602+07:00"
+    },
+    {
+      "id": "a1aa99995567d0e4eeed97e43504b479",
+      "title": "Chờ cứu hộ giữa nước lũ",
+      "link": "https://vnexpress.net/cho-cuu-ho-giua-nuoc-lu-4956531.html",
+      "summary": "Phía trước nước lũ chảy xiết, sau lưng núi lở, 30 người ở xã Quế Phước bị cô lập, cạn pin điện thoại, chờ được cứu suốt đêm 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:17:56+07:00",
+      "fetched": "2025-10-28T08:14:51.222164+07:00"
+    },
+    {
+      "id": "3a09056b55276274cfd6d05e799c68b5",
+      "title": "Bí quyết giúp tốc độ Internet di động Việt Nam nhảy vọt",
+      "link": "https://vnexpress.net/bi-quyet-giup-toc-do-internet-di-dong-viet-nam-nhay-vot-4956509.html",
+      "summary": "Chỉ sau vài năm triển khai 5G, tốc độ Internet di động của Việt Nam đã tăng hơn sáu lần, Cục trưởng Tần số Lê Văn Tuấn cho biết có bí quyết quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:07:15+07:00",
+      "fetched": "2025-10-28T08:14:51.222335+07:00"
+    },
+    {
+      "id": "3a09056b55276274cfd6d05e799c68b5",
+      "title": "Bí quyết giúp tốc độ Internet di động Việt Nam nhảy vọt",
+      "link": "https://vnexpress.net/bi-quyet-giup-toc-do-internet-di-dong-viet-nam-nhay-vot-4956509.html",
+      "summary": "Chỉ sau vài năm triển khai 5G, tốc độ Internet di động của Việt Nam đã tăng hơn sáu lần, Cục trưởng Tần số Lê Văn Tuấn cho biết có bí quyết quan trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-28T00:07:15+07:00",
+      "fetched": "2025-10-28T08:15:01.121000+07:00"
+    },
+    {
+      "id": "f17e17591b0944a16fa1b3e55c45e033",
+      "title": "Lợi ích khi ăn dưa chuột thường xuyên",
+      "link": "https://vnexpress.net/loi-ich-khi-an-dua-chuot-thuong-xuyen-4956298.html",
+      "summary": "Dưa chuột ít calo, nhiều chất dinh dưỡng, hợp chất thực vật có lợi, chất chống oxy hóa, có thể giúp hạ đường huyết, ngăn ngừa táo bón, hỗ trợ giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:00:00+07:00",
+      "fetched": "2025-10-28T08:14:51.222490+07:00"
+    },
+    {
+      "id": "e91f827af8ff64aa16cca2f160dab603",
+      "title": "Mất 10 tháng để bật một đèn giao thông",
+      "link": "https://vnexpress.net/mat-10-thang-de-bat-mot-den-giao-thong-4956073.html",
+      "summary": "Thủ tục hành chính liên quan đến cấp thành phố khiến đèn giao thông ở ngã tư thuộc hạt Fresno, California, mất gần một năm để đi vào hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T00:00:00+07:00",
+      "fetched": "2025-10-28T08:14:51.222657+07:00"
+    },
+    {
+      "id": "4f7897ab445c829aa9a13dcb908934fb",
+      "title": "Ford Ranger 2022 giá 540 triệu nên mua?",
+      "link": "https://vnexpress.net/ford-ranger-2022-gia-540-trieu-nen-mua-4956553.html",
+      "summary": "Xe bản XLS 2.2L 4x2 AT, chạy khoảng 90.000 km, xin hỏi giá trên mua lại có hợp lý. (Tuấn Ngọc)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:56:30+07:00",
+      "fetched": "2025-10-28T08:14:51.222822+07:00"
+    },
+    {
+      "id": "3b18b4eebf7a66837e22719654ade4d4",
+      "title": "Điểm đến mùa thu 'đẹp như tranh' cho khách Việt đi tự túc",
+      "link": "https://vnexpress.net/diem-den-mua-thu-dep-nhu-tranh-cho-khach-viet-di-tu-tuc-4954110.html",
+      "summary": "Đến Nga ngắm \"mùa thu vàng\" như trong tranh của Levitan hay thả bộ ở cổ trấn nghìn năm tuổi ở Trung Quốc là một số gợi ý dành cho khách Việt du lịch mùa thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:48:43+07:00",
+      "fetched": "2025-10-28T08:14:51.222975+07:00"
+    },
+    {
+      "id": "162fffbbd8c565deaf3a805d2fa9a344",
+      "title": "Từ làng trẻ mồ côi tới đại học hàng đầu thế giới",
+      "link": "https://vnexpress.net/tu-lang-tre-mo-coi-toi-dai-hoc-hang-dau-the-gioi-4956547.html",
+      "summary": "Mất cha mẹ khi chưa tròn một tháng tuổi, từng vất vả mưu sinh, Lê Hoàng Phong đã trải qua một hành trình \"nhiệm màu\", giành học bổng nhiều ngôi trường danh tiếng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:47:14+07:00",
+      "fetched": "2025-10-28T08:14:51.223131+07:00"
+    },
+    {
+      "id": "f1dc9adee9f058dc41d0f990b8e5870b",
+      "title": "Tập đoàn dầu Nga bán tài sản nước ngoài vì lệnh trừng phạt của Mỹ",
+      "link": "https://vnexpress.net/tap-doan-dau-nga-ban-tai-san-nuoc-ngoai-vi-lenh-trung-phat-cua-my-4956544.html",
+      "summary": "Doanh nghiệp dầu mỏ lớn thứ hai Nga Lukoil thông báo sẽ bán tài sản ở nước ngoài sau khi bị Mỹ áp trừng phạt hồi tuần trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:40:13+07:00",
+      "fetched": "2025-10-28T08:14:51.223285+07:00"
+    },
+    {
+      "id": "f1dc9adee9f058dc41d0f990b8e5870b",
+      "title": "Tập đoàn dầu Nga bán tài sản nước ngoài vì lệnh trừng phạt của Mỹ",
+      "link": "https://vnexpress.net/tap-doan-dau-nga-ban-tai-san-nuoc-ngoai-vi-lenh-trung-phat-cua-my-4956544.html",
+      "summary": "Doanh nghiệp dầu mỏ lớn thứ hai Nga Lukoil thông báo sẽ bán tài sản ở nước ngoài sau khi bị Mỹ áp trừng phạt hồi tuần trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T23:40:13+07:00",
+      "fetched": "2025-10-28T08:14:56.904365+07:00"
+    },
+    {
+      "id": "40e3b0c94bdaea55486dd467db33a59b",
+      "title": "Tổng Bí thư Tô Lâm và phu nhân lên đường thăm Anh",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-va-phu-nhan-len-duong-tham-anh-4956541.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân rời Hà Nội, lên đường thăm chính thức Liên hiệp Vương quốc Anh và Bắc Ireland ngày 28-30/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:22:34+07:00",
+      "fetched": "2025-10-28T08:14:51.223437+07:00"
+    },
+    {
+      "id": "40e3b0c94bdaea55486dd467db33a59b",
+      "title": "Tổng Bí thư Tô Lâm và phu nhân lên đường thăm Anh",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-va-phu-nhan-len-duong-tham-anh-4956541.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân rời Hà Nội, lên đường thăm chính thức Liên hiệp Vương quốc Anh và Bắc Ireland ngày 28-30/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T23:22:34+07:00",
+      "fetched": "2025-10-28T08:14:56.904529+07:00"
+    },
+    {
+      "id": "b87da1e72cf7baac893cfa5d0fb98e0d",
+      "title": "Mắc kẹt trong lũ lớn",
+      "link": "https://vnexpress.net/mac-ket-trong-lu-lon-4956532.html",
+      "summary": "Nước dâng nhanh ngập lút tầng một, chị Thúy Vy, phường Phú Xuân, TP Huế, chỉ kịp ôm hai con nhỏ chạy lên gác, cầu cứu hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:11:13+07:00",
+      "fetched": "2025-10-28T08:14:51.223590+07:00"
+    },
+    {
+      "id": "297a968da03e2e5870612452c7928e86",
+      "title": "Điểm tin 6h: Điều tàu hàng 700 tấn ngăn lũ cuốn trôi cầu Bạch Hổ | Việt - Nga sớm ký thoả thuận để khởi công nhà máy điện hạt nhân",
+      "link": "https://vnexpress.net/diem-tin-6h-dieu-tau-hang-700-tan-ngan-lu-cuon-troi-cau-bach-ho-viet-nga-som-ky-thoa-thuan-de-khoi-cong-nha-may-dien-hat-nhan-4956546.html",
+      "summary": "Lũ sông Bồ đạt đỉnh, bằng mức lịch sử 2020; Giá căn hộ Bình Dương cũ trung bình 46 triệu đồng mỗi m2...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:01:58+07:00",
+      "fetched": "2025-10-28T08:14:51.223778+07:00"
+    },
+    {
+      "id": "bd2d9b841d67962aa981345f5968f03b",
+      "title": "Yamal bình thản giữa tâm bão sau El Clasico",
+      "link": "https://vnexpress.net/yamal-binh-than-giua-tam-bao-sau-el-clasico-4956536.html",
+      "summary": "Là tâm điểm của các tranh cãi sau trận đại chiến ở vòng 10 La Liga, Lamine Yamal vẫn giữ được sự bình thản, đúng như hình ảnh quen thuộc của anh từ ngày ra mắt đội một Barca.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T23:01:47+07:00",
+      "fetched": "2025-10-28T08:14:51.223930+07:00"
+    },
+    {
+      "id": "bd2d9b841d67962aa981345f5968f03b",
+      "title": "Yamal bình thản giữa tâm bão sau El Clasico",
+      "link": "https://vnexpress.net/yamal-binh-than-giua-tam-bao-sau-el-clasico-4956536.html",
+      "summary": "Là tâm điểm của các tranh cãi sau trận đại chiến ở vòng 10 La Liga, Lamine Yamal vẫn giữ được sự bình thản, đúng như hình ảnh quen thuộc của anh từ ngày ra mắt đội một Barca.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T23:01:47+07:00",
+      "fetched": "2025-10-28T08:15:02.676381+07:00"
+    },
+    {
+      "id": "a3736bb02d311da66b72d2168def81c9",
+      "title": "Nga xin đăng cai Euro 2032 dù đang bị cấm thi đấu",
+      "link": "https://vnexpress.net/nga-xin-dang-cai-euro-2032-du-dang-bi-cam-thi-dau-4956530.html",
+      "summary": "Nga tuyên bố sẵn sàng đăng cai Euro 2032 thay thế Italy, khi các sân bóng ở quốc gia Nam Âu đang xuống cấp và khó đáp ứng yêu cầu của UEFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:58:12+07:00",
+      "fetched": "2025-10-28T08:15:02.676032+07:00"
+    },
+    {
+      "id": "0dc64b9d3d4a4b65bed944ce591843f0",
+      "title": "Carragher: 'Liverpool đang khủng hoảng'",
+      "link": "https://vnexpress.net/carragher-liverpool-dang-khung-hoang-4956533.html",
+      "summary": "Cựu hậu vệ Jamie Carragher ngạc nhiên vì Liverpool đang rơi vào khủng hoảng, dù vung tiền mua cầu thủ trước mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:54:59+07:00",
+      "fetched": "2025-10-28T08:15:02.676543+07:00"
+    },
+    {
+      "id": "4aa24a47d20b0942f4f281bd61f5e37b",
+      "title": "Ra mắt giải vô địch thế giới chạy trên máy từ 2026",
+      "link": "https://vnexpress.net/ra-mat-giai-vo-dich-the-gioi-chay-tren-may-tu-2026-4956537.html",
+      "summary": "Liên đoàn Điền kinh thế giới (World Athletics) sắp tổ chức giải vô địch chạy trên máy World Treadmill Championships - sự kiện đầu tiên trên thế giới dành cho các VĐV thi đấu trên máy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:49:44+07:00",
+      "fetched": "2025-10-28T08:15:02.677368+07:00"
+    },
+    {
+      "id": "5eb422c3325cb32742898f93cb8a70e1",
+      "title": "Sinner 'phả hơi nóng' vào vị trí số 1 của Alcaraz",
+      "link": "https://vnexpress.net/sinner-pha-hoi-nong-vao-vi-tri-so-1-cua-alcaraz-4956535.html",
+      "summary": "Chiến thắng ở Vienna Mở rộng tuần qua giúp Jannik Sinner chỉ còn kém kình địch Carlos Alcaraz chưa tới 1.000 điểm khi mùa giải vào chặng cuối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:43:54+07:00",
+      "fetched": "2025-10-28T08:15:02.676724+07:00"
+    },
+    {
+      "id": "cc6fc7ab74f9280eab0bfefb9625a9e4",
+      "title": "Beckham khoe thú vui điền viên",
+      "link": "https://vnexpress.net/beckham-khoe-thu-vui-dien-vien-4956534.html",
+      "summary": "Đồng sở hữu CLB Inter Miami, David Beckham gây chú ý với hình ảnh một quý ông mê ruộng vườn, trong căn điền trang ở vùng quê nước Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:40:23+07:00",
+      "fetched": "2025-10-28T08:15:02.676213+07:00"
+    },
+    {
+      "id": "699d998b17bc4630456081dc515df2f0",
+      "title": "Vinicius bị lãng quên ở bình chọn đội hình FIFPro",
+      "link": "https://vnexpress.net/vinicius-bi-lang-quen-o-binh-chon-doi-hinh-fifpro-4956540.html",
+      "summary": "Tiền đạo Real, Vinicius Junior không có tên trong danh sách 26 ứng viên cho đội hình hay nhất mùa 2024-2025, do Hiệp hội cầu thủ chuyên nghiệp (FIFPro) bầu chọn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T22:38:18+07:00",
+      "fetched": "2025-10-28T08:15:02.676884+07:00"
+    },
+    {
       "id": "6a7497f5ad770681bd06fd2ff569b02b",
       "title": "Người dân vùng cao Đà Nẵng gồng mình khiêng quan tài vượt suối lũ đi an táng",
       "link": "https://thanhnien.vn/nguoi-dan-vung-cao-da-nang-gong-minh-khieng-quan-tai-vuot-suoi-lu-di-an-tang-18525102723483925.htm",
@@ -241,6 +811,16 @@ window.newsData_2025_10_28 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T22:00:00+07:00",
       "fetched": "2025-10-28T05:15:08.206526+07:00"
+    },
+    {
+      "id": "1d0561d4e385e2a96c960d0f3d576f6e",
+      "title": "AI có thể đang phát triển cơ chế 'chống tắt máy'",
+      "link": "https://vnexpress.net/ai-co-the-dang-phat-trien-co-che-chong-tat-may-4956147.html",
+      "summary": "Nghiên cứu mới cho thấy một số mô hình AI hàng đầu cố gắng ngăn việc tắt chúng, thậm chí \"phá hoại\" quy trình này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T22:00:00+07:00",
+      "fetched": "2025-10-28T08:15:01.121177+07:00"
     },
     {
       "id": "e4f403f5b62ffc23059011b61571e32c",
