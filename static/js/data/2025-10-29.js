@@ -1,6 +1,6 @@
 window.newsData_2025_10_29 = {
   "date": "2025-10-29",
-  "lastUpdated": "2025-10-29T10:13:35.364066+07:00",
+  "lastUpdated": "2025-10-29T11:23:38.447635+07:00",
   "articles": [
     {
       "id": "b91f7f52958afc0448348b97aedf323f",
@@ -303,6 +303,376 @@ window.newsData_2025_10_29 = {
       "fetched": "2025-10-29T08:20:20.865368+07:00"
     },
     {
+      "id": "60783e757c89d63e642138ef87362b20",
+      "title": "Bóng đá Thái Lan nổi sóng, thành viên chủ chốt FAT sẵn sàng từ chức: Tại sao?",
+      "link": "https://thanhnien.vn/bong-da-thai-lan-noi-song-thanh-vien-chu-chot-fat-san-sang-tu-chuc-tai-sao-185251029112000284.htm",
+      "summary": "Cựu danh thủ Piyapong Pue-on, thành viên chủ chốt của Liên đoàn Bóng đá Thái Lan (FAT), tuyên bố sẵn sàng từ chức vì có liên quan vụ sa thải HLV Masatada Ishii và đội tuyển nước này không giành vé dự Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:21:00+07:00",
+      "fetched": "2025-10-29T11:23:30.638671+07:00"
+    },
+    {
+      "id": "b1ecb6737d3542edd5ccc1e8fc5feae6",
+      "title": "Tuyến metro Cần Giờ sẽ bắt đầu ngay từ ga Bến Thành",
+      "link": "https://thanhnien.vn/tuyen-metro-can-gio-se-bat-dau-ngay-tu-ga-ben-thanh-185251029111258585.htm",
+      "summary": "Công ty CP Đầu tư và Phát triển đường sắt cao tốc VinSpeed (thuộc Tập đoàn Vingroup) vừa có văn bản gửi UBND TP.HCM đề xuất điều chỉnh tuyến metro nối trung tâm TP.HCM với Cần Giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:14:00+07:00",
+      "fetched": "2025-10-29T11:23:30.638861+07:00"
+    },
+    {
+      "id": "cde3ae104af5234851ee5ad34bcf8af7",
+      "title": "Cao tốc Phan Thiết - Dầu Giây: Còn 14 km đường dân sinh chưa thể thi công",
+      "link": "https://thanhnien.vn/cao-toc-phan-thiet-dau-giay-con-14-km-duong-dan-sinh-chua-the-thi-cong-185251029101609748.htm",
+      "summary": "Do chưa có mặt bằng, khoảng 14 km đường gom dân sinh dọc cao tốc Phan Thiết - Dầu Giây (đoạn qua Đồng Nai) chưa thể thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:08:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639016+07:00"
+    },
+    {
+      "id": "1d3b39886119c7a63da0870c7aa43446",
+      "title": "Amazon công bố đợt sa thải nhân sự lớn nhất lịch sử",
+      "link": "https://thanhnien.vn/amazon-cong-bo-dot-sa-thai-nhan-su-lon-nhat-lich-su-185251029091703655.htm",
+      "summary": "Amazon sắp sa thải 30.000 nhân viên, đợt cắt giảm lớn nhất lịch sử công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:07:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639165+07:00"
+    },
+    {
+      "id": "75dff84fe048924d64d6d4cf4823b454",
+      "title": "Hà Nội tập trung triển khai đề án tổng thể phát triển làng nghề bền vững",
+      "link": "https://thanhnien.vn/ha-noi-tap-trung-trien-khai-de-an-tong-the-phat-trien-lang-nghe-ben-vung-185251029111055741.htm",
+      "summary": "Chiều 27.10, Sở Nông nghiệp và Môi trường Hà Nội tổ chức Hội thảo 'Giải pháp triển khai Đề án tổng thể phát triển làng nghề trên địa bàn TP.Hà Nội giai đoạn 2025 - 2030, tầm nhìn đến năm 2050'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:04:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639342+07:00"
+    },
+    {
+      "id": "ea1252f65de7d87f7fb7ab6cf31ad3b6",
+      "title": "Lính Ukraine dùng súng trường hạ 'drone cáp quang Nga'",
+      "link": "https://vnexpress.net/linh-ukraine-dung-sung-truong-ha-drone-cap-quang-nga-4957169.html",
+      "summary": "Ukraine đăng video binh sĩ nổ súng, bắn rơi drone Nga khi làm nhiệm vụ hộ tống nhà báo nước ngoài ở tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T04:00:47+07:00",
+      "fetched": "2025-10-29T11:23:33.569259+07:00"
+    },
+    {
+      "id": "ea63f52be9dd68fa84c89238f7e0a5eb",
+      "title": "XEM NHANH 12H: Nghẹt thở cứu người giữa dòng lũ dữ | FAT đến Việt Nam xin lỗi vụ sai quốc kỳ",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-nghet-tho-cuu-nguoi-giua-dong-lu-du-fat-den-viet-nam-xin-loi-vu-sai-quoc-ky-185251029103955596.htm",
+      "summary": "Tình hình lũ lụt, tin tức thời tiết, FAT đến Việt Nam xin lỗi vụ sai quốc kỳ… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 29.10.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:00:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639507+07:00"
+    },
+    {
+      "id": "d9c69254e4e7ca522c9cbf544f655690",
+      "title": "Chính thức ra mắt Risa by La Pura, tòa tháp thiết kế dành cho trẻ em",
+      "link": "https://thanhnien.vn/chinh-thuc-ra-mat-risa-by-la-pura-toa-thap-thiet-ke-danh-cho-tre-em-185251029102735862.htm",
+      "summary": "Sau thành công của phân khu Zenia, sáng ngày 28.10, Phát Đạt chính thức giới thiệu ra thị trường Risa by La Pura, tòa tháp được thiết kế riêng cho trẻ em với triết lý 'cho trẻ con, do trẻ con'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:00:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639657+07:00"
+    },
+    {
+      "id": "e37cc4d8362338d9124ff33054685fff",
+      "title": "Những đường kim mũi chỉ yêu đời, thương người",
+      "link": "https://thanhnien.vn/nhung-duong-kim-mui-chi-yeu-doi-thuong-nguoi-185251028115753654.htm",
+      "summary": "Suốt 5 năm qua, tại phường Gò Dầu, tỉnh Tây Ninh có một người thợ may tận tụy dạy nghề miễn phí cho nhiều người khuyết tật, người khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T04:00:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639832+07:00"
+    },
+    {
+      "id": "b6da051bef0cc4973e59acdfbd8d5c5a",
+      "title": "EVNHCMC đảm bảo cấp điện ổn định cho nhà máy Intel",
+      "link": "https://vnexpress.net/evnhcmc-dam-bao-cap-dien-on-dinh-cho-nha-may-intel-4957239.html",
+      "summary": "EVNHCMC và Intel phối hợp đảm bảo cung cấp điện ổn định, liên tục cho nhà máy tại Khu Công nghệ cao TP HCM, thống nhất kế hoạch bảo trì, tiết giảm chi phí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T04:00:00+07:00",
+      "fetched": "2025-10-29T11:23:35.123143+07:00"
+    },
+    {
+      "id": "8389a1c38046d74675aec96077ead717",
+      "title": "Sự sáng tạo của Xabi Alonso ở El Clasico",
+      "link": "https://vnexpress.net/su-sang-tao-cua-xabi-alonso-o-el-clasico-4956869.html",
+      "summary": "Kylian Mbappe và Jude Bellingham ghi bàn giúp Real hạ Barca 2-1 ở La Liga, nhưng vị trí đặc biệt mà HLV Xabi Alonso trao cho Eduardo Camavinga mới làm nên dấu ấn quan trọng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T04:00:00+07:00",
+      "fetched": "2025-10-29T11:23:38.439823+07:00"
+    },
+    {
+      "id": "d7467b0d0ae3d9217ad11b07fdd37be0",
+      "title": "Tranh cãi về SVĐ chọc trời ở World Cup 2034",
+      "link": "https://vnexpress.net/tranh-cai-ve-svd-choc-troi-o-world-cup-2034-4957076.html",
+      "summary": "Theo bản thiết kế của siêu dự án Neom Sky, Arab Saudi có thể khai trương sân vận động chọc trời đầu tiên trên thế giới vào dịp World Cup 2034.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T03:57:14+07:00",
+      "fetched": "2025-10-29T11:23:38.440941+07:00"
+    },
+    {
+      "id": "3719d1ab72ef9c1da8bff287875641c3",
+      "title": "Hoa tươi, gà, cá, hàu đông lạnh để tồn quá 90 ngày hải quan Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/hoa-tuoi-ga-ca-hau-dong-lanh-de-ton-qua-90-ngay-hai-quan-tan-son-nhat-185251029094824603.htm",
+      "summary": "Hải quan cửa khẩu sân bay Tân Sơn Nhất (Chi cục Hải quan Khu vực II) vừa có thông báo tìm chủ sở hữu 28 lô hàng đang được lưu giữ tại kho hàng nhập khẩu đã quá thời hạn 90 ngày nhưng chưa làm thủ tục. Đáng nói, trong số này có nhiều lô hàng là hàng động vực, thực vật tươi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:54:00+07:00",
+      "fetched": "2025-10-29T11:23:30.639981+07:00"
+    },
+    {
+      "id": "890ba4738084d58df117b9a4294b9131",
+      "title": "CSGT Đà Nẵng vượt lũ đưa sản phụ vỡ ối đến bệnh viện cấp cứu",
+      "link": "https://thanhnien.vn/csgt-da-nang-vuot-lu-dua-san-phu-vo-oi-den-benh-vien-cap-cuu-185251029102019391.htm",
+      "summary": "Giữa mưa lũ TP.Đà Nẵng, lực lượng công an vượt dòng nước xiết cứu dân, kịp thời đưa sản phụ vỡ ối đến bệnh viện và di dời hàng chục hộ dân vùng ngập trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:52:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640125+07:00"
+    },
+    {
+      "id": "d947ee00435eaab86359bc91be04e540",
+      "title": "Hà Nội đề xuất thu tiền trông học sinh ngoài giờ học 12.000 đồng/60 phút",
+      "link": "https://thanhnien.vn/ha-noi-de-xuat-thu-tien-trong-hoc-sinh-ngoai-gio-hoc-12000-dong-60-phut-185251029102758567.htm",
+      "summary": "Dự thảo nghị quyết về mức thu chi đối với các dịch vụ phục vụ, hỗ trợ hoạt động giáo dục từ năm học 2025 - 2026 cho phép các trường mầm non, phổ thông công lập ở Hà Nội được tổ chức trông học sinh ngoài giờ học chính khóa với mức thu tối đa là 12.000 đồng/60 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:51:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640282+07:00"
+    },
+    {
+      "id": "5225c617794e192e02f0413d339c4413",
+      "title": "Căng thẳng thương mại sẽ đốt nóng cuộc gặp ông Trump - ông Tập",
+      "link": "https://vnexpress.net/cang-thang-thuong-mai-se-dot-nong-cuoc-gap-ong-trump-ong-tap-4956566.html",
+      "summary": "Mỹ - Trung Quốc đã đạt đồng thuận sơ bộ về thương mại trước khi ông Trump gặp ông Tập, nhưng đây vẫn sẽ là vấn đề thảo luận trọng tâm trong cuộc gặp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T03:46:17+07:00",
+      "fetched": "2025-10-29T11:23:33.569429+07:00"
+    },
+    {
+      "id": "269944ae6b217463f9160a88beb44e3e",
+      "title": "Top 6 kem dưỡng ẩm cho da dầu mụn mua 1 lại muốn 2 'ưng quá chừng'",
+      "link": "https://thanhnien.vn/top-6-kem-duong-am-cho-da-dau-mun-mua-1-lai-muon-2-ung-qua-chung-185251029105834984.htm",
+      "summary": "Sai lầm phổ biến khiến mụn mãi không hết, dai dẳng và tái đi tái lại là team da mụn bỏ qua bước dưỡng ẩm. Và theo chuyên gia da liễu, dù da mụn hay bất cứ làn da nào cũng cần phải sử dụng kem dưỡng ẩm. Vậy đâu là kem dưỡng ẩm cho da dầu mụn luôn khô thoáng, ngừa mụn hiệu quả mà vẫn căng mịn, tươi tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:46:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640465+07:00"
+    },
+    {
+      "id": "8829c836ee543ab94c4c68b408c90770",
+      "title": "AFC quyết định nóng trận Malaysia: Bukit Jalil thành sân nhà của Nepal, vắng bóng cầu thủ bị FIFA phạt",
+      "link": "https://thanhnien.vn/afc-quyet-dinh-nong-tran-malaysia-bukit-jalil-thanh-san-nha-cua-nepal-vang-bong-cau-thu-bi-fifa-phat-185251029103321078.htm",
+      "summary": "Thêm một lần nữa, đội tuyển Nepal mất lợi thế sân nhà. Trận lượt về giữa Nepal và Malaysia tại vòng loại cuối Asian Cup 2027 sẽ diễn ra trên sân Bukit Jalil (Malaysia), sau khi Liên đoàn Bóng đá châu Á (AFC) chính thức chốt phương án này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:42:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640623+07:00"
+    },
+    {
+      "id": "42c16180b1063e4e1f790c0e13a32107",
+      "title": "Trung Quốc diễn tập phóng phi cơ giống UAV tự sát Iran",
+      "link": "https://vnexpress.net/trung-quoc-dien-tap-phong-phi-co-giong-uav-tu-sat-iran-4957194.html",
+      "summary": "Binh sĩ Trung Quốc diễn tập bắn đạn thật, thực hành phóng UAV có hình dáng giống mẫu Shahed do Iran phát triển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T03:40:17+07:00",
+      "fetched": "2025-10-29T11:23:33.569599+07:00"
+    },
+    {
+      "id": "16c13b2c61714f02e5ddbf42334ad9e7",
+      "title": "Hải Phòng có thêm hơn 1.000 căn nhà xã hội từ 760 triệu đồng",
+      "link": "https://vnexpress.net/hai-phong-co-them-hon-1-000-can-nha-xa-hoi-tu-760-trieu-dong-4957138.html",
+      "summary": "1.479 căn nhà ở xã hội tại khu đô thị Tân Phú Hưng (TP Hải Dương cũ), nằm ở phía tây thành phố, đủ điều kiện mở bán với giá 17,6 triệu đồng một m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:39:18+07:00",
+      "fetched": "2025-10-29T11:23:27.776540+07:00"
+    },
+    {
+      "id": "e4b6296d06f20a833130840ea494f797",
+      "title": "Chủ tịch nước Lương Cường lên đường dự Tuần lễ Cấp cao APEC lần thứ 32",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-len-duong-du-tuan-le-cap-cao-apec-lan-thu-32-185251029102349532.htm",
+      "summary": "Chủ tịch nước Lương Cường đã lên đường tham dự Tuần lễ cấp cao Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương (APEC) 2025 tại thành phố Gyeongju và làm việc song phương tại Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:39:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640794+07:00"
+    },
+    {
+      "id": "74b3465fad974e30d8ec2d6ebb599946",
+      "title": "Chính phủ hỗ trợ Huế hai tấn lương khô và 150 tỷ đồng",
+      "link": "https://vnexpress.net/chinh-phu-ho-tro-hue-hai-tan-luong-kho-va-150-ty-dong-4957192.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu hỗ trợ ngay hai tấn lương khô và 150 tỷ đồng cho TP Huế để tiếp tế người dân khu vực ngập sâu, chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:38:47+07:00",
+      "fetched": "2025-10-29T11:23:27.776746+07:00"
+    },
+    {
+      "id": "b3cd21f2f7dfa01e30ad3bbc0a432e4d",
+      "title": "Cú bắt tay tỷ USD giữa Nvidia và Nokia",
+      "link": "https://vnexpress.net/cu-bat-tay-ty-usd-giua-nvidia-va-nokia-4957173.html",
+      "summary": "Nvidia sẽ đầu tư một tỷ USD để mua 2,9% cổ phần của Nokia với mục tiêu phát triển mạng di động tích hợp AI tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:36:01+07:00",
+      "fetched": "2025-10-29T11:23:27.776925+07:00"
+    },
+    {
+      "id": "b3cd21f2f7dfa01e30ad3bbc0a432e4d",
+      "title": "Cú bắt tay tỷ USD giữa Nvidia và Nokia",
+      "link": "https://vnexpress.net/cu-bat-tay-ty-usd-giua-nvidia-va-nokia-4957173.html",
+      "summary": "Nvidia sẽ đầu tư một tỷ USD để mua 2,9% cổ phần của Nokia với mục tiêu phát triển mạng di động tích hợp AI tại Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-29T03:36:01+07:00",
+      "fetched": "2025-10-29T11:23:37.438110+07:00"
+    },
+    {
+      "id": "9e7705906f353e9790f2121bcb8b82db",
+      "title": "Công an tỉnh Hưng Yên thông tin về vụ cháy xe bồn khiến tài xế bị thương",
+      "link": "https://thanhnien.vn/cong-an-tinh-hung-yen-thong-tin-ve-vu-chay-xe-bon-khien-tai-xe-bi-thuong-185251029102009717.htm",
+      "summary": "Vụ cháy xe bồn chở khí hóa lỏng LPG ở Hưng Yên tối 28.10 khiến tài xế bị thương, đã được đưa vào Bệnh viện Bỏng quốc gia điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:33:00+07:00",
+      "fetched": "2025-10-29T11:23:30.640942+07:00"
+    },
+    {
+      "id": "d6a483b08e25aa92eee8dd6e19635a18",
+      "title": "Nữ sinh công bố quốc tế từ nghiên cứu về rơm, rạ, vỏ trấu",
+      "link": "https://vnexpress.net/nu-sinh-cong-bo-quoc-te-tu-nghien-cuu-ve-rom-ra-vo-trau-4955469.html",
+      "summary": "Nghiên cứu vật liệu xanh từ phụ phẩm nông nghiệp như rơm, rạ hay vỏ trấu, giúp Thanh Hoa, 22 tuổi, giành giải Nữ sinh Khoa học công nghệ Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:32:39+07:00",
+      "fetched": "2025-10-29T11:23:27.777086+07:00"
+    },
+    {
+      "id": "cce727c8a62a9dcc6a160cfccf73ca8d",
+      "title": "VPBankS lần đầu lọt top 10 doanh thu môi giới quý III",
+      "link": "https://vnexpress.net/vpbanks-lan-dau-lot-top-10-doanh-thu-moi-gioi-quy-iii-4957211.html",
+      "summary": "Công ty Chứng khoán VPBank (VPBankS) ghi nhận hơn 185 tỷ đồng doanh thu môi giới trong quý III, chiếm 2,61% toàn ngành, lần đầu góp mặt trong top 10 doanh nghiệp có doanh thu môi giới cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:30:00+07:00",
+      "fetched": "2025-10-29T11:23:27.777248+07:00"
+    },
+    {
+      "id": "8cec817c61df30eb45de7acf155d7a18",
+      "title": "BVBank báo lãi hơn 430 tỷ đồng trong 9 tháng",
+      "link": "https://vnexpress.net/bvbank-bao-lai-hon-430-ty-dong-trong-9-thang-4957158.html",
+      "summary": "BVBank ghi nhận lợi nhuận trước thuế hơn 430 tỷ đồng sau ba quý kinh doanh, tăng 140% so với cùng kỳ, hoàn thành 79% kế hoạch năm nhờ chiến lược bán lẻ, quản trị hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:30:00+07:00",
+      "fetched": "2025-10-29T11:23:27.777403+07:00"
+    },
+    {
+      "id": "dbdacd0ff25d2422762956b551dad6df",
+      "title": "'Concert công nghệ' kỷ niệm 30 năm thành lập KienlongBank",
+      "link": "https://vnexpress.net/concert-cong-nghe-ky-niem-30-nam-thanh-lap-kienlongbank-4957036.html",
+      "summary": "Lễ kỷ niệm 30 năm thành lập KienlongBank hội tụ âm nhạc, ánh sáng và AI, kể câu chuyện về hành trình phát triển và khát vọng bứt phá trong kỷ nguyên số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:30:00+07:00",
+      "fetched": "2025-10-29T11:23:27.777568+07:00"
+    },
+    {
+      "id": "2fff15025a74ef653427e4d5ad311ba5",
+      "title": "Cầu thủ trẻ Việt Nam gửi thông điệp 'xin cha bỏ bia'",
+      "link": "https://vnexpress.net/cau-thu-tre-viet-nam-gui-thong-diep-xin-cha-bo-bia-4956979.html",
+      "summary": "Lý Trung Hiếu gây chú ý với thông điệp đặc biệt gửi đến bố ruột, ở trận Hà Nội thắng Hoài Đức 6-0 tại vòng ba giải U14 các CLB chuyên nghiệp phía Bắc 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:28:33+07:00",
+      "fetched": "2025-10-29T11:23:27.777739+07:00"
+    },
+    {
+      "id": "2fff15025a74ef653427e4d5ad311ba5",
+      "title": "Cầu thủ trẻ Việt Nam gửi thông điệp 'xin cha bỏ bia'",
+      "link": "https://vnexpress.net/cau-thu-tre-viet-nam-gui-thong-diep-xin-cha-bo-bia-4956979.html",
+      "summary": "Lý Trung Hiếu gây chú ý với thông điệp đặc biệt gửi đến bố ruột, ở trận Hà Nội thắng Hoài Đức 6-0 tại vòng ba giải U14 các CLB chuyên nghiệp phía Bắc 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T03:28:33+07:00",
+      "fetched": "2025-10-29T11:23:38.441091+07:00"
+    },
+    {
+      "id": "434c3b6ab951ac3d4c2537a136d3b80d",
+      "title": "Thương hiệu Trung Quốc 'phủ sóng' trung tâm thương mại TP HCM",
+      "link": "https://vnexpress.net/thuong-hieu-trung-quoc-phu-song-trung-tam-thuong-mai-tp-hcm-4956613.html",
+      "summary": "Chỉ hơn một năm, các thương hiệu Trung Quốc phủ khắp trung tâm thương mại TP HCM, tạo cuộc cạnh tranh mặt bằng sôi động, làm thay đổi cục diện thị trường bán lẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:23:34+07:00",
+      "fetched": "2025-10-29T11:23:27.777907+07:00"
+    },
+    {
+      "id": "10e41a709dd0562e36a066bd6a0bc81c",
+      "title": "Carlsen gieo thêm sầu cho Vua cờ Gukesh",
+      "link": "https://vnexpress.net/carlsen-gieo-them-sau-cho-vua-co-gukesh-4957215.html",
+      "summary": "Kỳ thủ số một thế giới Magnus Carlsen toàn thắng hai ván gặp Gukesh Dommaraju, ở ngày thi áp chót siêu giải Clutch Chess: Champions Showdown.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:23:30+07:00",
+      "fetched": "2025-10-29T11:23:27.778068+07:00"
+    },
+    {
+      "id": "10e41a709dd0562e36a066bd6a0bc81c",
+      "title": "Carlsen gieo thêm sầu cho Vua cờ Gukesh",
+      "link": "https://vnexpress.net/carlsen-gieo-them-sau-cho-vua-co-gukesh-4957215.html",
+      "summary": "Kỳ thủ số một thế giới Magnus Carlsen toàn thắng hai ván gặp Gukesh Dommaraju, ở ngày thi áp chót siêu giải Clutch Chess: Champions Showdown.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T03:23:30+07:00",
+      "fetched": "2025-10-29T11:23:38.439995+07:00"
+    },
+    {
+      "id": "c4b8f278822f0bbe1f2eed53bc209383",
+      "title": "Vợ chưa từng than trách dù nhiều lần tôi khiến em vất vả",
+      "link": "https://vnexpress.net/vo-chua-tung-than-trach-du-nhieu-lan-toi-khien-em-vat-va-4956361.html",
+      "summary": "Người phụ nữ ấy xứng đáng được trân trọng, không chỉ vì đã ở lại, mà vì đã tin, hiểu và cùng tôi đi qua những ngày tối tăm nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:21:58+07:00",
+      "fetched": "2025-10-29T11:23:27.778226+07:00"
+    },
+    {
+      "id": "6be13a02058abcfd863cdd12d48307dd",
+      "title": "Giá vàng miếng trong nước tăng gần 2 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-10-4957216.html",
+      "summary": "Các thương hiệu tăng giá bán ra mỗi lượng vàng miếng thêm 1,8 triệu đồng, sau khi đã giảm hơn 3 triệu đồng hôm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:20:53+07:00",
+      "fetched": "2025-10-29T11:23:27.778383+07:00"
+    },
+    {
+      "id": "6be13a02058abcfd863cdd12d48307dd",
+      "title": "Giá vàng miếng trong nước tăng gần 2 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-29-10-4957216.html",
+      "summary": "Các thương hiệu tăng giá bán ra mỗi lượng vàng miếng thêm 1,8 triệu đồng, sau khi đã giảm hơn 3 triệu đồng hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T03:20:53+07:00",
+      "fetched": "2025-10-29T11:23:35.121859+07:00"
+    },
+    {
       "id": "add5f51b802dc34556c2e8edb197ebc4",
       "title": "Tổng Bí thư mời các nhà chiến lược AI hàng đầu Anh và thế giới đến Việt Nam",
       "link": "https://tuoitre.vn/tong-bi-thu-moi-cac-nha-chien-luoc-ai-hang-dau-anh-va-the-gioi-den-viet-nam-20251028234245373.htm",
@@ -353,6 +723,26 @@ window.newsData_2025_10_29 = {
       "fetched": "2025-10-29T03:19:52.251409+07:00"
     },
     {
+      "id": "49d82972b931e33e87d08b0a7e737515",
+      "title": "Thắng kiện 11 triệu USD khi vấp ngã trong bãi đậu xe",
+      "link": "https://vnexpress.net/thang-kien-11-trieu-usd-khi-vap-nga-trong-bai-dau-xe-o-sieu-thi-4957195.html",
+      "summary": "Vị khách mua sắm tại siêu thi bị ngã trẹo chân khi đang bế con nhỏ đã thắng kiện, được bồi thường 11,4 triệu USD với lý do thiết kế mặt sàn bãi đậu xe vi phạm quy định xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:15:24+07:00",
+      "fetched": "2025-10-29T11:23:27.778535+07:00"
+    },
+    {
+      "id": "3fcb8753b8e49b51a3a5c5fb251d1e9f",
+      "title": "8 người chết, 5 người mất tích do lũ miền Trung",
+      "link": "https://vnexpress.net/8-nguoi-chet-5-nguoi-mat-tich-do-lu-mien-trung-4957198.html",
+      "summary": "Riêng TP Đà Nẵng, mưa lũ đã làm 6 người chết, 4 người mất tích, Huế hai người, Quảng Ngãi một người, 71 xã phường đang ngập sâu, chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:15:06+07:00",
+      "fetched": "2025-10-29T11:23:27.778733+07:00"
+    },
+    {
       "id": "db2995df8a714590e2089dfd3ee760b6",
       "title": "Những chính sách nổi bật có hiệu lực từ tháng 11",
       "link": "https://thanhnien.vn/nhung-chinh-sach-noi-bat-co-hieu-luc-tu-thang-11-185251029094302586.htm",
@@ -381,6 +771,16 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T03:11:00+07:00",
       "fetched": "2025-10-29T10:13:28.272858+07:00"
+    },
+    {
+      "id": "cdc0acb5f4cd9dd4ccb2db06b1762e0b",
+      "title": "Tôi bị delay ba chuyến bay trong một tháng",
+      "link": "https://vnexpress.net/chuyen-bay-delay-hom-nay-check-chuyen-bay-delay-chuyen-bay-vietjet-delay-toi-bi-delay-ba-chuyen-bay-trong-mot-thang-4957153.html",
+      "summary": "Có chuyến bị delay 30 phút, nhưng cũng có chuyến bị trễ đến ba tiếng, trong khi thứ tôi nhận lại được chỉ là thông báo mơ hồ của hãng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:05:11+07:00",
+      "fetched": "2025-10-29T11:23:27.778940+07:00"
     },
     {
       "id": "7c75dedaadd29ceb67721fa4c125903a",
@@ -473,6 +873,26 @@ window.newsData_2025_10_29 = {
       "fetched": "2025-10-29T10:13:28.274021+07:00"
     },
     {
+      "id": "3be00e040c2baa1144f728091b9b9f46",
+      "title": "Dự án khoa học công nghệ Việt có cơ hội nhận tài trợ từ châu Âu",
+      "link": "https://vnexpress.net/du-an-khoa-hoc-cong-nghe-viet-co-co-hoi-nhan-tai-tro-tu-chau-au-4957069.html",
+      "summary": "Các dự án khoa học và công nghệ Việt Nam có thể tiếp cận nguồn đầu tư gần 100 tỷ euro từ châu Âu của chương trình Horizon Europe, đặc biệt ở các lĩnh vực AI, lượng tử.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-29T02:54:54+07:00",
+      "fetched": "2025-10-29T11:23:37.438796+07:00"
+    },
+    {
+      "id": "1965a38d86d6302c551ce98926b963e6",
+      "title": "Chủ tịch nước lên đường dự Tuần lễ cấp cao APEC",
+      "link": "https://vnexpress.net/chu-tich-nuoc-len-duong-du-tuan-le-cap-cao-apec-4957171.html",
+      "summary": "Chủ tịch nước Lương Cường sáng nay rời Hà Nội, lên đường tham dự Tuần lễ cấp cao APEC 2025 và làm việc song phương tại Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:53:51+07:00",
+      "fetched": "2025-10-29T11:23:33.569782+07:00"
+    },
+    {
       "id": "2e352386012c8b57be84d3aac8f77603",
       "title": "Katy Perry không ngờ sẽ hẹn hò cựu Thủ tướng Canada",
       "link": "https://thanhnien.vn/katy-perry-khong-ngo-se-hen-ho-cuu-thu-tuong-canada-185251029094615274.htm",
@@ -503,6 +923,16 @@ window.newsData_2025_10_29 = {
       "fetched": "2025-10-29T10:13:28.274405+07:00"
     },
     {
+      "id": "1616ee7e7db21d104d7ee990f57af95d",
+      "title": "Đệ nhất phu nhân Pháp bị ám ảnh vì những lời đồn về giới tính",
+      "link": "https://vnexpress.net/de-nhat-phu-nhan-phap-bi-am-anh-vi-nhung-loi-don-ve-gioi-tinh-4957117.html",
+      "summary": "Auziere, con gái của Đệ nhất phu nhân Pháp, nói rằng mẹ cô đang bị \"lo âu sâu sắc\" xoay quanh những tin đồn thất thiệt về giới tính.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:42:19+07:00",
+      "fetched": "2025-10-29T11:23:33.569941+07:00"
+    },
+    {
       "id": "b58bc7a7f65d72d71668c682f930ec3b",
       "title": "Ông Trump nói có thể giảm thuế nhập khẩu cho Trung Quốc",
       "link": "https://vnexpress.net/ong-trump-noi-co-the-giam-thue-nhap-khau-cho-trung-quoc-4957183.html",
@@ -511,6 +941,16 @@ window.newsData_2025_10_29 = {
       "category": "Kinh doanh",
       "published": "2025-10-29T02:40:29+07:00",
       "fetched": "2025-10-29T10:13:32.262257+07:00"
+    },
+    {
+      "id": "3daf8872cb07c355676311771a9ed4a2",
+      "title": "Ông Trump nói có thể giảm thuế nhập khẩu liên quan fentanyl cho hàng Trung Quốc",
+      "link": "https://vnexpress.net/ong-trump-noi-co-the-giam-thue-nhap-khau-lien-quan-fentanyl-cho-hang-trung-quoc-4957183.html",
+      "summary": "Tổng thống Mỹ dự định giảm thuế nhập khẩu liên quan đến vấn đề fentanyl cho hàng hóa Trung Quốc, hiện ở mức 20%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T02:40:29+07:00",
+      "fetched": "2025-10-29T11:23:35.122030+07:00"
     },
     {
       "id": "bc48d988d1ba46aa0947641fae5a2fee",
@@ -851,6 +1291,16 @@ window.newsData_2025_10_29 = {
       "category": "Thế giới",
       "published": "2025-10-29T01:07:16+07:00",
       "fetched": "2025-10-29T10:13:30.679290+07:00"
+    },
+    {
+      "id": "a654a7657f5ec8dea75c394c1c72b869",
+      "title": "Pakistan tuyên bố đàm phán hòa bình với Afghanistan đã thất bại",
+      "link": "https://vnexpress.net/pakistan-tuyen-bo-dam-phan-hoa-binh-voi-afghanistan-da-that-bai-4957104.html",
+      "summary": "Quan chức Pakistan nói rằng đàm phán về thỏa thuận hòa bình với Afghanistan đã kết thúc mà không đạt được giải pháp khả thi nào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T01:07:16+07:00",
+      "fetched": "2025-10-29T11:23:33.570547+07:00"
     },
     {
       "id": "5d07013a829fa33894510e9ea9306848",
