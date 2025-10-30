@@ -1,6 +1,6 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T01:24:04.428635+07:00",
+  "lastUpdated": "2025-10-31T03:18:41.862595+07:00",
   "articles": [
     {
       "id": "dd946ca833a5727f6ce78a1f73181c9f",
@@ -151,6 +151,26 @@ window.newsData_2025_10_31 = {
       "category": "Tổng hợp",
       "published": "2025-10-31T01:23:57.621914+07:00",
       "fetched": "2025-10-31T01:23:57.622145+07:00"
+    },
+    {
+      "id": "2f5a25cb86f33c18229fb9c325b058a2",
+      "title": "Người New York bức xúc vì đường chạy bộ biến thành bãi đỗ xe",
+      "link": "https://vnexpress.net/nguoi-new-york-buc-xuc-vi-duong-chay-bo-bien-thanh-bai-do-xe-4957948.html",
+      "summary": "Lối đi trong Công viên Trung tâm New York vốn dành cho người chạy bộ và cưỡi ngựa nay bị lấn chiếm làm nơi đỗ xe, khiến nhiều người bức xúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T20:00:00+07:00",
+      "fetched": "2025-10-31T03:18:36.480434+07:00"
+    },
+    {
+      "id": "c4d602cd599314b2cdc6d0ec413d70f1",
+      "title": "FIFA vẫn chưa ra quyết định cuối cùng vụ bóng đá Malaysia nhập tịch lậu: Lại phải thấp thỏm chờ",
+      "link": "https://thanhnien.vn/fifa-van-chua-ra-quyet-dinh-cuoi-cung-vu-bong-da-malaysia-nhap-tich-lau-lai-phai-thap-thom-cho-185251029193230585.htm",
+      "summary": "Tính đến 1 giờ 30 ngày 31.10 (giờ Việt Nam), FIFA chưa đưa ra phán quyết cuối cùng cho vụ bê bối dùng giấy tờ giả mạo trong khâu nhập tịch 7 cầu thủ nước ngoài của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T18:43:00+07:00",
+      "fetched": "2025-10-31T03:18:33.976073+07:00"
     },
     {
       "id": "aa269c156eb25c184cdb03a5f9129e31",
