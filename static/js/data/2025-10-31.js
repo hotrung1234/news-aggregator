@@ -1,7 +1,47 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T08:17:33.077551+07:00",
+  "lastUpdated": "2025-10-31T10:08:37.274128+07:00",
   "articles": [
+    {
+      "id": "f0c3e074c04990317169b5519515fba8",
+      "title": "Miền Trung còn mưa lớn phức tạp, Thủ tướng yêu cầu chủ động sơ tán dân đến nơi an toàn",
+      "link": "https://tuoitre.vn/mien-trung-con-mua-lon-phuc-tap-thu-tuong-yeu-cau-chu-dong-so-tan-dan-den-noi-an-toan-20251031010546343.htm",
+      "summary": "Trước diễn biến mưa lớn ở miền Trung còn phức tạp, Thủ tướng yêu cầu rà soát khu vực có nguy cơ xảy ra lũ ống, lũ quét, sạt lở đất, ngập lụt sâu để kịp thời cảnh báo và chủ động sơ tán người dân đến nơi an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T10:08:29.383433+07:00",
+      "fetched": "2025-10-31T10:08:29.383548+07:00"
+    },
+    {
+      "id": "c1211581ca2fe1936aff2698bb073c75",
+      "title": "Con trai NSND Y Moan hát 'Xôn xang mênh mang cao nguyên Đắk Lắk' ở TP.HCM",
+      "link": "https://tuoitre.vn/con-trai-nsnd-y-moan-hat-xon-xang-menh-mang-cao-nguyen-dak-lak-o-tp-hcm-202510310627369.htm",
+      "summary": "Ca sĩ Y Garia - con trai cố NSND Y Moan - và nhiều ca sĩ, nghệ sĩ biểu diễn ở lễ khai mạc Liên hoan Âm nhạc toàn quốc mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T10:08:29.383311+07:00",
+      "fetched": "2025-10-31T10:08:29.383421+07:00"
+    },
+    {
+      "id": "6b81b649a8273a09cac97c9de472beee",
+      "title": "Alicia Keys, Dimash và aespa cùng tạo 'bản giao hưởng mùa đông' tại 8Wonder Winter 2025",
+      "link": "https://tuoitre.vn/alicia-keys-dimash-va-aespa-cung-tao-ban-giao-huong-mua-dong-tai-8wonder-winter-2025-20251031003806499.htm",
+      "summary": "Ba nghệ sĩ đình đám là Alicia Keys, Dimash Kudaibergen và aespa sẽ cùng góp mặt tại 8Wonder Winter 2025 diễn ra ở Hà Nội vào tháng 12 tới, hứa hẹn tạo nên đêm hội đa trải nghiệm âm nhạc dành cho khán giả Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T10:08:29.383190+07:00",
+      "fetched": "2025-10-31T10:08:29.383300+07:00"
+    },
+    {
+      "id": "bfe3321a8b90aed056421f47d88d4229",
+      "title": "Từ 'ông lớn' ngành may, giờ Garmex Sài Gòn trông cậy vào sân pickleball",
+      "link": "https://tuoitre.vn/tu-ong-lon-nganh-may-gio-garmex-sai-gon-trong-cay-vao-san-pickleball-2025103019203017.htm",
+      "summary": "Một thời là tên tuổi lớn trong ngành may, Garmex Sài Gòn hiện chỉ duy trì hoạt động nhờ nguồn thu từ sân pickleball, trung bình chưa tới 5 triệu đồng/ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T10:08:29.383066+07:00",
+      "fetched": "2025-10-31T10:08:29.383179+07:00"
+    },
     {
       "id": "d806fe50d40a79f0052f12f8bbe9874b",
       "title": "Cơ hội trải nghiệm ‘tour không gian’ đặc biệt",
@@ -153,6 +193,376 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T08:17:25.092183+07:00"
     },
     {
+      "id": "76463ee450ac82f5f2787cb7d9c54010",
+      "title": "Cận cảnh ghe cà hâu hơn 300 năm tuổi của đồng bào Khmer Nam bộ",
+      "link": "https://thanhnien.vn/can-canh-ghe-ca-hau-hon-300-nam-tuoi-cua-dong-bao-khmer-nam-bo-185251031093858503.htm",
+      "summary": "Không còn hiện diện trong những cuộc đua ghe ngo sôi động, những chiếc ghe cà hâu cổ vẫn được gìn giữ như báu vật, gắn liền với đời sống tinh thần của đồng bào Khmer Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:05:00+07:00",
+      "fetched": "2025-10-31T10:08:28.508387+07:00"
+    },
+    {
+      "id": "d4604d7def88e22b00b67c22d5067820",
+      "title": "Đề xuất tách Quỹ công nghiệp quốc phòng, an ninh thành 2 quỹ độc lập",
+      "link": "https://thanhnien.vn/de-xuat-tach-quy-cong-nghiep-quoc-phong-an-ninh-thanh-2-quy-doc-lap-185251031093424239.htm",
+      "summary": "Quỹ công nghiệp quốc phòng, an ninh được đề xuất tách thành 2 quỹ độc lập, gồm Quỹ đầu tư phát triển công nghiệp an ninh do Bộ Công an quản lý và Quỹ công nghiệp quốc phòng do Bộ Quốc phòng quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:05:00+07:00",
+      "fetched": "2025-10-31T10:08:28.508561+07:00"
+    },
+    {
+      "id": "20af9d6115c76d3c30ce53c44cfc619e",
+      "title": "Thêm cú sốc: CLB của Hoàng thân Malaysia nguy cơ bị phạt nặng vì dùng cầu thủ nhập tịch lậu?",
+      "link": "https://thanhnien.vn/them-cu-soc-clb-cua-hoang-than-malaysia-nguy-co-bi-phat-nang-vi-dung-cau-thu-nhap-tich-lau-185251031095518762.htm",
+      "summary": "Liên quan đến vụ bóng đá Malaysia nhập tịch cầu thủ sai quy định, CLB trong nước Johor Darul Ta'zim nhiều khả năng cũng bị liên đới, khi vi phạm điều lệ tại Cúp C1 Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:02:00+07:00",
+      "fetched": "2025-10-31T10:08:28.508718+07:00"
+    },
+    {
+      "id": "7698ea586d906ddbbca7e2fbc2aecbca",
+      "title": "Hệ sinh thái Daikin hai chiều - tối ưu từng không gian, ứng phó mọi khí hậu",
+      "link": "https://thanhnien.vn/he-sinh-thai-daikin-hai-chieu-toi-uu-tung-khong-gian-ung-pho-moi-khi-hau-185251031083642343.htm",
+      "summary": "Không chỉ dừng lại ở khả năng làm mát hay sưởi ấm, điều hòa hai chiều ngày nay được người dùng kỳ vọng nhiều hơn về tính năng, hiệu suất và sự tiện lợi. Với Daikin, một chiếc điều hòa cần thích ứng linh hoạt với nhu cầu sử dụng, mang đến chất lượng không khí tối ưu trong các điều kiện thời tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:00:00+07:00",
+      "fetched": "2025-10-31T10:08:28.508890+07:00"
+    },
+    {
+      "id": "6f1763df2c0ae7c8ef74551de386a533",
+      "title": "Thông báo thay đổi tên công ty",
+      "link": "https://thanhnien.vn/thong-bao-thay-doi-ten-cong-ty-185251031082437426.htm",
+      "summary": "Được sự chấp thuận của Ngân hàng Nhà nước Việt Nam về việc thay đổi tên công ty, Công ty Tài chính tín dụng tiêu dùng trách nhiệm hữu hạn một thành viên AEON (trước đây là Công ty Tài chính TNHH một thành viên Bưu Điện) trân trọng thông báo như sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:00:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509048+07:00"
+    },
+    {
+      "id": "0f1f0dbe2dec853fc5dee07594f9a422",
+      "title": "Có một Vũng Tàu tử tế và đáng sống",
+      "link": "https://thanhnien.vn/co-mot-vung-tau-tu-te-va-dang-song-185251028214726601.htm",
+      "summary": "Nhắc đến Vũng Tàu (cũ), người ta không chỉ nghĩ về những bãi biển đẹp, những địa danh, di tích nổi tiếng, khí hậu ôn hòa... mà còn nhớ đến nơi đây với những con người mang đậm dấu ấn của biển: chất phác, thân thiện và tử tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:00:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509200+07:00"
+    },
+    {
+      "id": "facfb39cee0d35c07b77811ef6838ce4",
+      "title": "Đón gió lạnh đầu mùa, nàng công sở tỏa sáng với những lựa chọn này",
+      "link": "https://thanhnien.vn/thoi-trang-tre/don-gio-lanh-dau-mua-nang-cong-so-toa-sang-voi-nhung-lua-chon-nay-185251024140053191.htm",
+      "summary": "Thông minh trong việc kết hợp nhiều chất liệu cho một bộ trang phục, ưu tiên những gam màu xu hướng, thêm cardigan và blazer vào bản phối là những cách để quý cô công sở tỏa sáng khi đón gió lạnh đầu mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T03:00:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509353+07:00"
+    },
+    {
+      "id": "e07b849a0ba63a653e4724e50adb9413",
+      "title": "Ung thư vú không còn là án tử nhờ phát hiện sớm",
+      "link": "https://vnexpress.net/ung-thu-vu-khong-con-la-an-tu-nho-phat-hien-som-4958094.html",
+      "summary": "Nhờ thói quen tự kiểm tra hàng ngày cùng tầm soát sớm bệnh, tuân thủ phác đồ điều trị, nhiều phụ nữ bị ung thư vú có thể khỏi hoàn toàn, không cần hóa xạ trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:57:05+07:00",
+      "fetched": "2025-10-31T10:08:20.833905+07:00"
+    },
+    {
+      "id": "227fefd61b97a31f9b4769f2bda9994a",
+      "title": "Cô gái 21 tuổi khiến Ngọc Sơn bị 'hớp hồn', tuyên bố cho điểm tuyệt đối",
+      "link": "https://thanhnien.vn/co-gai-21-tuoi-khien-ngoc-son-bi-hop-hon-tuyen-bo-cho-diem-tuyet-doi-185251031083119224.htm",
+      "summary": "Thể hiện ca khúc 'Đêm huyền diệu' trong phần chào sân 'Người kể chuyện tình', thí sinh Quỳnh Cầm bất ngờ nhận điểm tuyệt đối từ nghệ sĩ Ngọc Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:55:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509504+07:00"
+    },
+    {
+      "id": "070ad1f41c55dd63fbcd279537509112",
+      "title": "Phấn đấu đưa cao tốc Gia Nghĩa - Chơn Thành về đích đúng kế hoạch",
+      "link": "https://thanhnien.vn/phan-dau-dua-cao-toc-gia-nghia-chon-thanh-ve-dich-dung-ke-hoach-185251030184601395.htm",
+      "summary": "Sau khi kiểm tra thực địa cao tốc Gia Nghĩa - Chơn Thành, Chủ tịch HĐND tỉnh Đồng Nai Tôn Ngọc Hạnh đề nghị nhà thầu, các sở, ngành, địa phương phối hợp nhịp nhàng, phấn đấu đưa dự án về đích đúng kế hoạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:50:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509660+07:00"
+    },
+    {
+      "id": "1a1134adb91972ba159806586d4d2f1b",
+      "title": "Campuchia nói không thể đổ lỗi riêng Campuchia về lừa đảo trực tuyến, kêu gọi phối hợp quốc tế",
+      "link": "https://thanhnien.vn/campuchia-noi-khong-the-do-loi-rieng-campuchia-ve-lua-dao-truc-tuyen-keu-goi-phoi-hop-quoc-te-185251031093332353.htm",
+      "summary": "Theo phát ngôn viên Bộ Nội vụ Campuchia Khieu Sopheak, không thể đổ lỗi cho riêng Campuchia về lừa đảo trực tuyến, vì đây là vấn đề xuyên quốc gia và cần có sự phối hợp quốc tế để đối phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:45:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509807+07:00"
+    },
+    {
+      "id": "fe83465eedf1fac2a94a277885633768",
+      "title": "Yaris Cross, Xforce, Creta đua giảm giá hàng chục triệu đồng",
+      "link": "https://vnexpress.net/yaris-cross-xforce-creta-dua-giam-gia-hang-chuc-trieu-dong-4957879.html",
+      "summary": "Cuối tháng 10, hàng loạt mẫu xe gầm cao cỡ B tung ưu đãi 50-100% lệ phí trước bạ, đua doanh số mùa cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:44:46+07:00",
+      "fetched": "2025-10-31T10:08:20.834112+07:00"
+    },
+    {
+      "id": "228b63c0781a3cbf3b86fb345dfabc37",
+      "title": "New York ban bố tình trạng khẩn cấp do nguy cơ mất tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/new-york-ban-bo-tinh-trang-khan-cap-do-nguy-co-mat-tem-phieu-thuc-pham-4958084.html",
+      "summary": "Bang New York ban bố tình trạng khẩn cấp, nhằm giải ngân 65 triệu USD để hỗ trợ các ngân hàng thực phẩm do chương trình SNAP sắp hết hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:42:11+07:00",
+      "fetched": "2025-10-31T10:08:20.834280+07:00"
+    },
+    {
+      "id": "228b63c0781a3cbf3b86fb345dfabc37",
+      "title": "New York ban bố tình trạng khẩn cấp do nguy cơ mất tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/new-york-ban-bo-tinh-trang-khan-cap-do-nguy-co-mat-tem-phieu-thuc-pham-4958084.html",
+      "summary": "Bang New York ban bố tình trạng khẩn cấp, nhằm giải ngân 65 triệu USD để hỗ trợ các ngân hàng thực phẩm do chương trình SNAP sắp hết hạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T02:42:11+07:00",
+      "fetched": "2025-10-31T10:08:31.066402+07:00"
+    },
+    {
+      "id": "443a8f743814ed7ce66dd63faeeaef54",
+      "title": "Báo Malaysia vẫn khuyên FAM chấp nhận án phạt của FIFA, bằng chứng sai trái mới quá đanh thép",
+      "link": "https://thanhnien.vn/bao-malaysia-van-khuyen-fam-chap-nhan-an-phat-cua-fifa-bang-chung-sai-trai-moi-qua-danh-thep-185251031093745573.htm",
+      "summary": "Kênh Astro Arena trong chương trình bình luận cùng luật sư Suhail Rahimi ngày 31.10, đánh giá về 'ngày phán quyết' khi FIFA sắp công bố kết quả kháng cáo của Liên đoàn Bóng đá Malaysia (FAM), cho rằng cơ quan này nên chấp nhận mọi án phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:42:00+07:00",
+      "fetched": "2025-10-31T10:08:28.509971+07:00"
+    },
+    {
+      "id": "2734ce3075355e33daa7780761a882a2",
+      "title": "NSND Minh Vương, NSND Lệ Thủy cùng nhiều nghệ sĩ tôn vinh soạn giả Viễn Châu",
+      "link": "https://thanhnien.vn/nsnd-minh-vuong-nsnd-le-thuy-cung-nhieu-nghe-si-ton-vinh-soan-gia-vien-chau-185251031092638704.htm",
+      "summary": "Chương trình nghệ thuật 'Giới thiệu chân dung NSND, soạn giả Viễn Châu' có sự tham gia của đông đảo nghệ sĩ sẽ diễn ra lúc 19 giờ ngày 31.10 tại Trung tâm Văn hóa, Thông tin, Thể thao và Du lịch xã Đất Đỏ (xã Đất Đỏ, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:42:00+07:00",
+      "fetched": "2025-10-31T10:08:28.510127+07:00"
+    },
+    {
+      "id": "54540385ab2c64f8c40ddf34b4eb47cd",
+      "title": "Đề xuất giao Bộ Công an quản lý định danh địa chỉ IP",
+      "link": "https://vnexpress.net/de-xuat-giao-bo-cong-an-quan-ly-dinh-danh-dia-chi-ip-4958090.html",
+      "summary": "Chính phủ đề xuất giao Bộ Công an quản lý định danh địa chỉ IP, bảo đảm an ninh dữ liệu và an ninh thông tin trên không gian mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:39:05+07:00",
+      "fetched": "2025-10-31T10:08:20.834447+07:00"
+    },
+    {
+      "id": "282ca2cc4b379498b4496641f4abdc8b",
+      "title": "Chữ gì thêm sắc là con vật, thêm huyền là trái cây?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-chu-gi-them-sac-la-con-vat-them-huyen-la-trai-cay-4954748.html",
+      "summary": "Một câu đố tưởng chỉ là trò vui ngôn ngữ, nhưng lại khiến bao người 'lú' vì sự biến hóa tài tình của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:37:40+07:00",
+      "fetched": "2025-10-31T10:08:20.834607+07:00"
+    },
+    {
+      "id": "aa466d515464462cc1bb0a3fa88d2c9d",
+      "title": "Mỹ - Hàn Quốc: một vốn, bốn lời",
+      "link": "https://thanhnien.vn/my-han-quoc-mot-von-bon-loi-185251030202056902.htm",
+      "summary": "Việc Mỹ chia sẻ công nghệ chế tạo tàu ngầm hạt nhân cho Hàn Quốc là kết quả có ý nghĩa đặc biệt quan trọng trong chuyến thăm Hàn Quốc của Tổng thống Donald Trump. Đối với cả hai bên, đây là chuyện bỏ ra một vốn để thu về bốn lời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:37:00+07:00",
+      "fetched": "2025-10-31T10:08:28.510281+07:00"
+    },
+    {
+      "id": "45a3fc8d88ae9cfff3830d31d4d2f715",
+      "title": "Nguy cơ bùng phát chạy đua vũ trang nếu Mỹ nối lại thử hạt nhân",
+      "link": "https://vnexpress.net/nguy-co-bung-phat-chay-dua-vu-trang-neu-my-noi-lai-thu-hat-nhan-4957848.html",
+      "summary": "Mỹ nối lại thử nghiệm vũ khí hạt nhân sẽ khiến các cường quốc khác thực hiện theo và dẫn tới cuộc chạy đua vũ trang mới, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:36:02+07:00",
+      "fetched": "2025-10-31T10:08:20.834767+07:00"
+    },
+    {
+      "id": "45a3fc8d88ae9cfff3830d31d4d2f715",
+      "title": "Nguy cơ bùng phát chạy đua vũ trang nếu Mỹ nối lại thử hạt nhân",
+      "link": "https://vnexpress.net/nguy-co-bung-phat-chay-dua-vu-trang-neu-my-noi-lai-thu-hat-nhan-4957848.html",
+      "summary": "Mỹ nối lại thử nghiệm vũ khí hạt nhân sẽ khiến các cường quốc khác thực hiện theo và dẫn tới cuộc chạy đua vũ trang mới, theo chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T02:36:02+07:00",
+      "fetched": "2025-10-31T10:08:31.066581+07:00"
+    },
+    {
+      "id": "e63d4ca238e3d567f5be72e972193afc",
+      "title": "GippsNature kết hợp khoa học dinh dưỡng và công nghệ sản xuất 130 năm",
+      "link": "https://vnexpress.net/gippsnature-ket-hop-khoa-hoc-dinh-duong-va-cong-nghe-san-xuat-130-nam-4958115.html",
+      "summary": "Thương hiệu GippsNature là sản phẩm đầu tiên của liên doanh Nutifood và ViPlus Dairy - công ty sữa hơn 130 năm tuổi tại Australia, được hãng Việt công bố ra thị trường cuối tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:30:00+07:00",
+      "fetched": "2025-10-31T10:08:20.834948+07:00"
+    },
+    {
+      "id": "4c6e06fa853351bee13d892545591935",
+      "title": "HDBank: Lợi nhuận 9 tháng vượt 14.800 tỉ đồng; chia cổ tức, cổ phiếu thưởng đến 30%",
+      "link": "https://thanhnien.vn/hdbank-loi-nhuan-9-thang-vuot-14800-ti-dong-chia-co-tuc-co-phieu-thuong-den-30-185251031094227013.htm",
+      "summary": "Ngân hàng TMCP Phát triển TP.HCM (HDBank, mã chứng khoán HDB) công bố lợi nhuận trước thuế hợp nhất 9 tháng đầu năm 2025 đạt 14.803 tỉ đồng, tăng 17% so với cùng kỳ. Các chỉ tiêu sinh lời tiếp tục dẫn đầu hệ thống, với ROE đạt 25,2% và ROA 2,1%, phản ánh năng lực vận hành hiệu quả và nền tảng tài ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:30:00+07:00",
+      "fetched": "2025-10-31T10:08:28.510429+07:00"
+    },
+    {
+      "id": "20edd321c452da0617b0f03c8d7505b8",
+      "title": "Ca sĩ Bảo Anh xin lỗi vụ sự cố trang phục",
+      "link": "https://thanhnien.vn/ca-si-bao-anh-xin-loi-vu-su-co-trang-phuc-185251031090610716.htm",
+      "summary": "Sau đêm diễn ở Quảng Ninh, ca sĩ Bảo Anh có bài đăng chia sẻ về sự cố trang phục, đồng thời gửi lời xin lỗi đến khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:20:00+07:00",
+      "fetched": "2025-10-31T10:08:28.510584+07:00"
+    },
+    {
+      "id": "c569fc05a6fa92f77bc3c795b00fc184",
+      "title": "Yeah1 lãi thấp nhất hai năm",
+      "link": "https://vnexpress.net/yeah1-lai-thap-nhat-hai-nam-4958093.html",
+      "summary": "Tăng giá vốn khiến Yeah1 - nhà sản xuất \"Gia đình Haha\" và \"Tân Binh toàn năng\" - chỉ lãi 7,3 tỷ đồng trong quý III, mức thấp nhất hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:18:31+07:00",
+      "fetched": "2025-10-31T10:08:20.835122+07:00"
+    },
+    {
+      "id": "c569fc05a6fa92f77bc3c795b00fc184",
+      "title": "Yeah1 lãi thấp nhất hai năm",
+      "link": "https://vnexpress.net/yeah1-lai-thap-nhat-hai-nam-4958093.html",
+      "summary": "Tăng giá vốn khiến Yeah1 - nhà sản xuất \"Gia đình Haha\" và \"Tân Binh toàn năng\" - chỉ lãi 7,3 tỷ đồng trong quý III, mức thấp nhất hai năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-31T02:18:31+07:00",
+      "fetched": "2025-10-31T10:08:32.711704+07:00"
+    },
+    {
+      "id": "53b7628addb099e777cec37891ea85a5",
+      "title": "Sự thật về video SVĐ World Cup chọc trời ở Arab Saudi",
+      "link": "https://vnexpress.net/su-that-ve-video-svd-world-cup-choc-troi-o-arab-saudi-4958067.html",
+      "summary": "Video mô phỏng SVĐ chọc trời gây sốt gần đây là sản phẩm AI, được một người đàn ông ở Anh tạo ra trong vòng hai phút bằng điện thoại trước khi đi ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:04:46+07:00",
+      "fetched": "2025-10-31T10:08:20.835280+07:00"
+    },
+    {
+      "id": "53b7628addb099e777cec37891ea85a5",
+      "title": "Sự thật về video SVĐ World Cup chọc trời ở Arab Saudi",
+      "link": "https://vnexpress.net/su-that-ve-video-svd-world-cup-choc-troi-o-arab-saudi-4958067.html",
+      "summary": "Video mô phỏng SVĐ chọc trời gây sốt gần đây là sản phẩm AI, được một người đàn ông ở Anh tạo ra trong vòng hai phút bằng điện thoại trước khi đi ngủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T02:04:46+07:00",
+      "fetched": "2025-10-31T10:08:37.267713+07:00"
+    },
+    {
+      "id": "614ed1b09a3dee87bcb6104fb95bec7f",
+      "title": "'Bộ tứ' du học dần mất thế độc tôn",
+      "link": "https://vnexpress.net/bo-tu-du-hoc-dan-mat-the-doc-ton-4958078.html",
+      "summary": "\"Bộ tứ\" điểm đến du học là Mỹ, Anh, Australia, Canada đang mất dần vị thế, thay vào đó là sự nổi lên của ít nhất hàng chục quốc gia khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:01:38+07:00",
+      "fetched": "2025-10-31T10:08:20.835438+07:00"
+    },
+    {
+      "id": "61358df7519035241271791c44e6fb70",
+      "title": "Nếu cắt đứt với bồ, tôi sẽ không có đủ khả năng nuôi vợ con",
+      "link": "https://vnexpress.net/neu-cat-dut-voi-bo-toi-se-khong-co-du-kha-nang-nuoi-vo-con-4957856.html",
+      "summary": "Người thứ ba đã giúp tôi khi khó khăn, hiện tại nhờ cô ấy mà tôi có cơ sở làm ăn, có tiền lo cho vợ con và cha mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:00:00+07:00",
+      "fetched": "2025-10-31T10:08:20.835596+07:00"
+    },
+    {
+      "id": "06951ff5e27b70d409de05eb5d59cad9",
+      "title": "Vì sao bánh mì Việt không vào top ngon nhất thế giới của CNN?",
+      "link": "https://vnexpress.net/vi-sao-banh-mi-viet-khong-vao-top-ngon-nhat-the-gioi-cua-cnn-4954092.html",
+      "summary": "Bánh mì Việt Nam không có tên trong danh sách 50 loại bánh mì ngon nhất thế giới của CNN vì được xem là món bánh kẹp (sandwich), không phải bánh mì trơn (bread).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:00:00+07:00",
+      "fetched": "2025-10-31T10:08:20.835747+07:00"
+    },
+    {
+      "id": "2ef429fc1dfc0afea955dcebf3499ae2",
+      "title": "Cấy máy tạo nhịp kịp thời cứu sống người bị ngưng tim",
+      "link": "https://vnexpress.net/cay-may-tao-nhip-kip-thoi-cuu-song-nguoi-bi-ngung-tim-4958000.html",
+      "summary": "Người đàn ông 59 tuổi thường choáng váng, hoa mắt, ngất xỉu tại nhà, bác sĩ chẩn đoán rối loạn nhịp tim và kịp thời đặt máy tạo nhịp ngăn đột tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:00:00+07:00",
+      "fetched": "2025-10-31T10:08:20.835927+07:00"
+    },
+    {
+      "id": "10b540e32added8e987557b5cfb864c2",
+      "title": "Phim 'Cải mả' khai thác chủ đề nghiệp báo truyền đời",
+      "link": "https://vnexpress.net/phim-cai-ma-khai-thac-chu-de-nghiep-bao-truyen-doi-4957960.html",
+      "summary": "Bên cạnh tái hiện chi tiết tục cải táng, phim điện ảnh \"Cải mả\" còn khai thác mô tuýp sự trả giá của con người trước nghiệp báo truyền đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:00:00+07:00",
+      "fetched": "2025-10-31T10:08:20.836087+07:00"
+    },
+    {
+      "id": "e224d5d58243c75de9f648483ba6d847",
+      "title": "Ba diễn viên 'Mưa đỏ' hội ngộ dàn sao ở sự kiện Tumi",
+      "link": "https://vnexpress.net/ba-dien-vien-mua-do-hoi-ngo-dan-sao-o-su-kien-tumi-4957782.html",
+      "summary": "Steven Nguyễn, Nhật Hoàng, Đình Khang - sao phim \"Mưa đỏ\" cùng dàn ca sĩ, người mẫu dự ra mắt BST Thu 2025 và không gian pop-up Tumi, ngày 24/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T02:00:00+07:00",
+      "fetched": "2025-10-31T10:08:20.836245+07:00"
+    },
+    {
+      "id": "7c015a2934c3f89f6ba0a1310e7888f0",
+      "title": "Sinner lần đầu vào tứ kết Paris Masters",
+      "link": "https://vnexpress.net/sinner-lan-dau-vao-tu-ket-paris-masters-4958101.html",
+      "summary": "Jannik Sinner trở thành tay vợt Italy đầu tiên vào tứ kết cả chín giải Masters 1000, khi anh vượt qua Francisco Cerundolo 7-5, 6-1 ở vòng ba Paris Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T01:58:01+07:00",
+      "fetched": "2025-10-31T10:08:37.267870+07:00"
+    },
+    {
+      "id": "fe98027a89e3de179889c4032d82cb74",
+      "title": "Mỹ giới hạn tiếp nhận 7.500 người tị nạn mỗi năm",
+      "link": "https://vnexpress.net/my-gioi-han-tiep-nhan-7-500-nguoi-ti-nan-moi-nam-4958077.html",
+      "summary": "Chính quyền Tổng thống Trump thông báo sẽ tiếp nhận 7.500 người tị nạn cho năm tài khóa 2026, ưu tiên người Nam Phi da trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T01:41:18+07:00",
+      "fetched": "2025-10-31T10:08:31.066746+07:00"
+    },
+    {
+      "id": "751ff8f3ad58c0c3ad91c6ec57e2e643",
+      "title": "55 runner chạy marathon ở độ sâu 1.120 mét",
+      "link": "https://vnexpress.net/55-runner-chay-marathon-o-do-sau-1-120-met-4957962.html",
+      "summary": "Bất chấp nhiệt độ lên tới 30 độ C, độ ẩm cao và bóng tối dưới mực nước biển 1.120 mét, 55 runner hoàn thành cuộc đua được xem là giải marathon sâu nhất thế giới trong hầm mỏ Garpenberg, nơi từng chỉ dành cho những thợ khai khoáng chứ không phải các VĐV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T01:24:13+07:00",
+      "fetched": "2025-10-31T10:08:37.268047+07:00"
+    },
+    {
       "id": "dd946ca833a5727f6ce78a1f73181c9f",
       "title": "Tổng Bí thư Tô Lâm phát biểu tại Hội nghị Kinh tế cấp cao Việt Nam - Anh",
       "link": "https://tuoitre.vn/tong-bi-thu-to-lam-phat-bieu-tai-hoi-nghi-kinh-te-cap-cao-viet-nam-anh-20251030213855409.htm",
@@ -301,6 +711,16 @@ window.newsData_2025_10_31 = {
       "category": "Tổng hợp",
       "published": "2025-10-31T01:23:57.621914+07:00",
       "fetched": "2025-10-31T01:23:57.622145+07:00"
+    },
+    {
+      "id": "33e191750fc8c8949ae4471c35e7b899",
+      "title": "Ông Putin mời nhà báo nước ngoài đến thành trì Ukraine bị bao vây",
+      "link": "https://vnexpress.net/ong-putin-moi-nha-bao-nuoc-ngoai-den-thanh-tri-ukraine-bi-bao-vay-4958066.html",
+      "summary": "Ông Putin lệnh cho quân đội Nga mở hành lang an toàn cho nhà báo nước ngoài muốn thăm hai thành trì Ukraine đang bị bao vây là Pokrovsk, Kupyansk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T01:15:26+07:00",
+      "fetched": "2025-10-31T10:08:31.066925+07:00"
     },
     {
       "id": "62aae1a50b49d9c983d153c73984f467",
