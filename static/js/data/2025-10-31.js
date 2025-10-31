@@ -1,7 +1,157 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T21:17:18.419948+07:00",
+  "lastUpdated": "2025-10-31T23:20:59.115395+07:00",
   "articles": [
+    {
+      "id": "04de7018b083302f9578964027c47758",
+      "title": "NASA gây sức ép, SpaceX tung kế hoạch rút gọn đưa người trở lại Mặt trăng trước Trung Quốc",
+      "link": "https://tuoitre.vn/nasa-gay-suc-ep-spacex-tung-ke-hoach-rut-gon-dua-nguoi-tro-lai-mat-trang-truoc-trung-quoc-20251031195049113.htm",
+      "summary": "SpaceX của Elon Musk trình NASA kế hoạch rút gọn đưa người trở lại Mặt trăng, khi cơ quan này gây sức ép tăng tốc để vượt Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.411256+07:00",
+      "fetched": "2025-10-31T23:20:50.411385+07:00"
+    },
+    {
+      "id": "321bf3be2401120b1e731a9b0169f2e6",
+      "title": "34 người chết và mất tích do mưa lũ ở miền Trung",
+      "link": "https://tuoitre.vn/34-nguoi-chet-va-mat-tich-do-mua-lu-o-mien-trung-20251031200431319.htm",
+      "summary": "Đến tối 31-10, mưa lũ ở miền Trung đã làm 28 người chết, 6 người mất tích và 43 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.411058+07:00",
+      "fetched": "2025-10-31T23:20:50.411234+07:00"
+    },
+    {
+      "id": "2ff6c263a692fa754d9343f5345b799b",
+      "title": "TP.HCM đề xuất cơ cấu, giải thể các bệnh viện, trung tâm y tế, trạm y tế ra sao?",
+      "link": "https://tuoitre.vn/tp-hcm-de-xuat-co-cau-giai-the-cac-benh-vien-trung-tam-y-te-tram-y-te-ra-sao-20251031192950416.htm",
+      "summary": "Sở Y tế TP.HCM vừa hoàn chỉnh phương án sắp xếp, tinh gọn bộ máy đơn vị sự nghiệp y tế công lập. Trong đó đề xuất sáp nhập, giải thể nhiều bệnh viện, trung tâm y tế khu vực...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410936+07:00",
+      "fetched": "2025-10-31T23:20:50.411047+07:00"
+    },
+    {
+      "id": "580e90f311a6c863e19a92d5dae8f1c4",
+      "title": "Mẹ Jack thay con trai làm việc với Sở Văn hóa và Thể thao Hà Nội",
+      "link": "https://tuoitre.vn/me-jack-thay-con-trai-lam-viec-voi-so-van-hoa-va-the-thao-ha-noi-20251031202115386.htm",
+      "summary": "Sở Văn hóa và Thể thao Hà Nội đã lập biên bản vi phạm hành chính với ca sĩ Jack, vì biểu diễn bài hát có sử dụng từ ngữ trái với thuần phong mỹ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410813+07:00",
+      "fetched": "2025-10-31T23:20:50.410925+07:00"
+    },
+    {
+      "id": "1764804cbe3b4874c8430367be93a6ca",
+      "title": "Cưỡng chế khắc phục hậu quả chiếm đất tại đảo du lịch Trí Nguyên, Nha Trang",
+      "link": "https://tuoitre.vn/nha-trang-se-cuong-che-khac-phuc-hau-qua-chiem-dat-tai-dao-du-lich-tri-nguyen-20251031194956556.htm",
+      "summary": "Phường Nha Trang, tỉnh Khánh Hòa đang lập kế hoạch cưỡng chế doanh nghiệp đã bị xử phạt vi phạm về hành vi chiếm đất bãi bồi ven biển tại Bãi Tranh, đảo Trí Nguyên trong vịnh Nha Trang, để buộc khắc phục hậu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410691+07:00",
+      "fetched": "2025-10-31T23:20:50.410802+07:00"
+    },
+    {
+      "id": "95337153eda99238194ebc79196fe9d1",
+      "title": "Hong Kong sẵn sàng hỗ trợ Việt Nam xây dựng trung tâm tài chính",
+      "link": "https://tuoitre.vn/hongkong-san-sang-ho-tro-viet-nam-xay-dung-trung-tam-tai-chinh-20251031190553131.htm",
+      "summary": "Ngày 31-10, Chủ tịch nước Lương Cường gặp lãnh đạo một số thành viên APEC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410571+07:00",
+      "fetched": "2025-10-31T23:20:50.410681+07:00"
+    },
+    {
+      "id": "a95ffe40c3f65269baf10a50aadc560c",
+      "title": "Viktor Lê khiến CLB Hà Nội thua vì bàn phản lưới nhà",
+      "link": "https://tuoitre.vn/viktor-le-khien-clb-ha-noi-thua-vi-ban-phan-luoi-nha-20251031203953369.htm",
+      "summary": "Tiền vệ Việt kiều Viktor Lê ghi một bàn và khiến cho trung vệ CLB Hà Nội đá phản lưới trong trận thắng 2-1 của CLB Hồng Lĩnh Hà Tĩnh trước Hà Nội ở vòng 9 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410445+07:00",
+      "fetched": "2025-10-31T23:20:50.410559+07:00"
+    },
+    {
+      "id": "930b75f002506944b3e1d4d38d4ff654",
+      "title": "Sự việc phức tạp, FIFA có thể hoãn ra phán quyết với Malaysia",
+      "link": "https://tuoitre.vn/su-viec-phuc-tap-fifa-co-the-hoan-ra-phan-quyet-voi-malaysia-20251031202316785.htm",
+      "summary": "Truyền thông Indonesia cho biết FIFA đã thay đổi ý định, và có thể sẽ tạm hoãn việc ra phán quyết với vụ kháng cáo của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410310+07:00",
+      "fetched": "2025-10-31T23:20:50.410433+07:00"
+    },
+    {
+      "id": "683aedee9e199b422469d5ed5308de89",
+      "title": "Khả năng có áp thấp hoặc bão vào Biển Đông tuần đầu tháng 11",
+      "link": "https://tuoitre.vn/kha-nang-co-ap-thap-hoac-bao-vao-bien-dong-tuan-dau-thang-11-20251031191307077.htm",
+      "summary": "Khả năng xuất hiện xoáy thuận nhiệt đới từ Thái Bình Dương băng qua Philippines vào Biển Đông sau đó thành áp thấp hoặc bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410179+07:00",
+      "fetched": "2025-10-31T23:20:50.410299+07:00"
+    },
+    {
+      "id": "afaec20b72a41fb694887205a6697aa8",
+      "title": "Góp ý văn kiện Đại hội Đảng XIV: Giải pháp đột phá để phát triển đất nước nhanh, bền vững",
+      "link": "https://tuoitre.vn/gop-y-van-kien-dai-hoi-dang-xiv-giai-phap-dot-pha-de-phat-trien-dat-nuoc-nhanh-ben-vung-20251031180418448.htm",
+      "summary": "Các dự thảo văn kiện trình Đại hội XIV thể hiện tinh thần nhìn thẳng vào sự thật, đánh giá khách quan tình hình, trên cơ sở đó đề ra hệ quan điểm chỉ đạo, mục tiêu phát triển đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.410028+07:00",
+      "fetched": "2025-10-31T23:20:50.410165+07:00"
+    },
+    {
+      "id": "9a10c2c353147e23bfb991f5c1cbeb75",
+      "title": "Hơn 1.500 thanh niên Đà Nẵng cùng người dân khắc phục hậu quả sau lũ",
+      "link": "https://tuoitre.vn/hon-1-500-thanh-nien-da-nang-cung-nguoi-dan-khac-phuc-hau-qua-sau-lu-20251031203311606.htm",
+      "summary": "Ngày 31-10, hơn 1.500 đoàn viên, thanh niên và sinh viên từ các trường đại học, cao đẳng cùng các cơ sở Đoàn trực thuộc Thành Đoàn Đà Nẵng đã đồng loạt ra quân hỗ trợ người dân khắc phục hậu quả sau đợt mưa lũ kéo dài những ngày qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.409896+07:00",
+      "fetched": "2025-10-31T23:20:50.410016+07:00"
+    },
+    {
+      "id": "7ef86f014eecf77a20de6f48ffa321bd",
+      "title": "Tiểu thương kinh doanh trong phố cổ Hội An thiệt hại nặng sau lũ lịch sử",
+      "link": "https://tuoitre.vn/tieu-thuong-kinh-doanh-trong-pho-co-hoi-an-thiet-hai-nang-sau-lu-lich-su-20251031170438414.htm",
+      "summary": "Nhiều tiểu thương kinh doanh trong phố cổ Hội An (TP Đà Nẵng) thiệt hại nặng nề do hàng hóa ngâm lâu trong nước lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.409757+07:00",
+      "fetched": "2025-10-31T23:20:50.409875+07:00"
+    },
+    {
+      "id": "b1cdb65f9761621410e08061a500c8ba",
+      "title": "Thắng PVF-CAND, CLB Công An Hà Nội tiếp tục nối dài chuỗi bất bại",
+      "link": "https://tuoitre.vn/thang-pvf-cand-clb-cong-an-ha-noi-tiep-tuc-noi-dai-chuoi-bat-bai-20251031213232115.htm",
+      "summary": "Tối 31-10, CLB Công An Hà Nội thắng PVF-CAND 2-0 trên sân Hàng Đẫy thuộc vòng 9 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.409625+07:00",
+      "fetched": "2025-10-31T23:20:50.409745+07:00"
+    },
+    {
+      "id": "bdaa5199888e2f513ee6016241efd2dc",
+      "title": "Lo ngại chạy đua vũ trang khi Mỹ nối lại thử nghiệm hạt nhân",
+      "link": "https://tuoitre.vn/lo-ngai-chay-dua-vu-trang-khi-my-noi-lai-thu-nghiem-hat-nhan-20251031214134497.htm",
+      "summary": "Nhiều chuyên gia cho rằng kế hoạch nối lại thử nghiệm hạt nhân của ông Trump sẽ rất tốn kém, kéo dài nhiều năm và thúc đẩy chạy đua vũ trang toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.409481+07:00",
+      "fetched": "2025-10-31T23:20:50.409612+07:00"
+    },
+    {
+      "id": "7e030e84d7900e52a79eec397d7a5ee7",
+      "title": "Cổ phiếu giảm 30% sau chuỗi tăng nóng, VIX lên tiếng về tin đồn lan truyền",
+      "link": "https://tuoitre.vn/co-phieu-giam-30-sau-chuoi-tang-nong-vix-len-tieng-ve-tin-don-lan-truyen-20251031203204744.htm",
+      "summary": "Sau khi xuất hiện thông tin lan truyền trên mạng xã hội liên quan đến doanh nghiệp, đại diện VIX khẳng định đây là các thông tin sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T23:20:50.409261+07:00",
+      "fetched": "2025-10-31T23:20:50.409466+07:00"
+    },
     {
       "id": "d271c90244119c1e7b4ab29f32f82580",
       "title": "Livestream bán được hơn 300 tấn sâm đất cho dân tộc vùng cao, thiểu số",
@@ -453,6 +603,106 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T17:17:59.813474+07:00"
     },
     {
+      "id": "573dd777b72199a20b6203dfb627e572",
+      "title": "Ukraine tuyên bố từng phá hủy tên lửa Oreshnik của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tung-pha-huy-ten-lua-oreshnik-cua-nga-4958469.html",
+      "summary": "Lãnh đạo Cơ quan An ninh Ukraine cho biết lực lượng nước này đã phá hủy một tên lửa Oreshnik của Nga trong chiến dịch mùa hè 2023.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T16:01:51+07:00",
+      "fetched": "2025-10-31T23:20:51.755958+07:00"
+    },
+    {
+      "id": "da22d19c86ed263ea81a49f5d618a719",
+      "title": "Bố trí 100% chủ tịch UBND tỉnh không phải người địa phương trước 15.12",
+      "link": "https://thanhnien.vn/bo-tri-100-chu-tich-ubnd-tinh-khong-phai-nguoi-dia-phuong-truoc-1512-185251031184210985.htm",
+      "summary": "Bộ Chính trị, Ban Bí thư yêu cầu hoàn thành bố trí 100% chủ tịch UBND không phải người địa phương trước 15.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:51:00+07:00",
+      "fetched": "2025-10-31T23:20:49.088584+07:00"
+    },
+    {
+      "id": "e160ec269fc142a068b9c65a18292882",
+      "title": "Chỉ định thượng tá Đồng Đức Vũ giữ chức Trưởng ban Ban Thanh niên Công an",
+      "link": "https://thanhnien.vn/chi-dinh-thuong-ta-dong-duc-vu-giu-chuc-truong-ban-ban-thanh-nien-cong-an-185251031202950412.htm",
+      "summary": "Ban Bí thư T.Ư Đoàn đã công bố quyết định chỉ định 22 nhân sự tham gia Ban Thanh niên Công an nhân dân khóa XXII, nhiệm kỳ 2022 - 2027. Thượng tá Đồng Đức Vũ được chỉ định giữ chức trưởng ban.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:46:00+07:00",
+      "fetched": "2025-10-31T23:20:49.088751+07:00"
+    },
+    {
+      "id": "dfd3bb3f92102f57e6e251c3f1eef618",
+      "title": "Thủ tướng chỉ đạo xuất gạo cứu đói, lương khô đến người dân vùng lũ miền Trung",
+      "link": "https://thanhnien.vn/thu-tuong-chi-dao-xuat-gao-cuu-doi-luong-kho-den-nguoi-dan-vung-lu-mien-trung-185251031191925377.htm",
+      "summary": "Thủ tướng Chính phủ yêu cầu Bộ Tài chính, Bộ Quốc phòng, Bộ Công an xuất cấp gạo cứu đói, lương khô và phải phát tận tay người dân vùng lũ miền Trung có nhu cầu được cứu trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:45:00+07:00",
+      "fetched": "2025-10-31T23:20:49.088905+07:00"
+    },
+    {
+      "id": "479f85fff39ce8a28dc22894cd1070c3",
+      "title": "Đề xuất phạt đến 100 triệu đồng nếu bán thực phẩm gây ngộ độc",
+      "link": "https://thanhnien.vn/de-xuat-phat-den-100-trieu-dong-neu-ban-thuc-pham-gay-ngo-doc-185251031131059187.htm",
+      "summary": "Theo đề xuất mới nhất của Bộ Y tế, nâng mức được xử phạt với cấp thẩm quyền; người bán thực phẩm gây ngộ độc chịu phạt thấp nhất 90 triệu đồng. Áp dụng mức phạt đến 15 triệu đồng nếu người trực tiếp chế biến thức ăn tại các cơ sở kinh doanh bị một trong các bệnh về đường ruột, lao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:45:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089055+07:00"
+    },
+    {
+      "id": "ab569f0463956791b5cbe12366322a2a",
+      "title": "Trọng Hoàng bị giẫm rách tai ở V-League",
+      "link": "https://vnexpress.net/trong-hoang-bi-giam-rach-tai-o-v-league-4958507.html",
+      "summary": "Nguyễn Trọng Hoàng không may bị tiền vệ nhập tịch Đỗ Hoàng Hên giẫm vào tai trong trận Hà Tĩnh thắng Hà Nội FC 2-1 ở vòng 9 V-League 2025-2026, tối 31/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T15:42:35+07:00",
+      "fetched": "2025-10-31T23:20:59.101066+07:00"
+    },
+    {
+      "id": "73ececf983cb4169e371e7f0dcf42677",
+      "title": "Xác định chung kết nam, nữ giải bóng chuyền hạng A toàn quốc: Chạm trán nảy lửa!",
+      "link": "https://thanhnien.vn/xac-dinh-chung-ket-nam-nu-giai-bong-chuyen-hang-a-toan-quoc-cham-tran-nay-lua-185251031223920659.htm",
+      "summary": "Hôm nay (31.10) tại Hà Tĩnh, giải bóng chuyền hạng A toàn quốc 2025 đã xác định được các cặp đấu chung kết nam, nữ nhằm xác định suất lên chơi ở giải bóng chuyền vô địch quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:40:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089227+07:00"
+    },
+    {
+      "id": "7a01d6c933e9ec9b4e2e75002e9f7418",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 31.10, vẫn chưa có người trúng độc đắc",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-3110-van-chua-co-nguoi-trung-doc-dac-185251031204316169.htm",
+      "summary": "Tối 31.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc, tiền cộng dồn lên 18,9 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:40:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089388+07:00"
+    },
+    {
+      "id": "f4dbce89e644b5a192be37a10272be2d",
+      "title": "Highlight CLB Công an Hà Nội 2-0 CLB PVF-CAND: Alan lại lập công",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-ha-noi-2-0-clb-pvf-cand-alan-lai-lap-cong-185251031223241895.htm",
+      "summary": "CLB Công an Hà Nội giành chiến thắng 2-0 trước CLB PVF-CAND trong trận đấu đáng chú ý, khi Alan tiếp tục tỏa sáng với bàn thắng từ chấm phạt đền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:32:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089539+07:00"
+    },
+    {
+      "id": "3c5516ef07902d7b49d66aac18e8dc3b",
+      "title": "Dân mạng 'dậy sóng' vụ Trương Ngọc Ánh bị bắt",
+      "link": "https://thanhnien.vn/dan-mang-day-song-vu-truong-ngoc-anh-bi-bat-185251031213936664.htm",
+      "summary": "Sau khi thông tin diễn viên Trương Ngọc Ánh bị bắt, lượt tìm kiếm trên google về nữ diễn viên tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:30:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089687+07:00"
+    },
+    {
       "id": "3bbb80a88912bcc1c4a3575c1387acda",
       "title": "Trung Quốc cam kết mua 75 triệu tấn đậu nành Mỹ trong 3 năm tới",
       "link": "https://tuoitre.vn/trung-quoc-cam-ket-mua-75-trieu-tan-dau-nanh-my-trong-3-nam-toi-20251031110443694.htm",
@@ -603,6 +853,156 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T15:21:40.748145+07:00"
     },
     {
+      "id": "3cedaca29e556955d8ddcc8d7b58f13b",
+      "title": "Tan hoang sau đợt lũ, người Hội An hối hả ‘nước rút đến đâu, dọn đến đó’",
+      "link": "https://thanhnien.vn/tan-hoang-sau-dot-lu-nguoi-hoi-an-hoi-ha-nuoc-rut-den-dau-don-den-do-185251031221841393.htm",
+      "summary": "Sau khi nước lũ rút dần, phố cổ Hội An lại bước vào giai đoạn hồi sinh. Tiếng chổi tre, tiếng xô nước và những bước chân hối hả dọn dẹp vang lên từ rạng sáng đến tối muộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:20:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089844+07:00"
+    },
+    {
+      "id": "2c5357fc9fefc59253b097c45d5968dd",
+      "title": "Hồng Diễm đón tin vui",
+      "link": "https://thanhnien.vn/hong-diem-don-tin-vui-185251031214139216.htm",
+      "summary": "Sau thời gian vắng bóng, Hồng Diễm trở lại màn ảnh nhỏ với phim 'Lằn ranh'. Cô vừa đón tin vui khi nhận giải Nữ diễn viên của năm - mảng phim truyền hình do một tạp chí trao tặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:13:00+07:00",
+      "fetched": "2025-10-31T23:20:49.089991+07:00"
+    },
+    {
+      "id": "0265f19430cbca8d0d6068aad8393443",
+      "title": "Cứ diện váy ngắn cùng bốt là tổng thể sẽ sang và chất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cu-dien-vay-ngan-cung-bot-la-tong-the-se-sang-va-chat-185251030134309543.htm",
+      "summary": "Váy ngắn và bốt: sự kết hợp vĩnh cửu, phóng khoáng mà vẫn sang trọng, mang đến phong cách và cảm giác tươi mới cho mùa thu 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T15:00:00+07:00",
+      "fetched": "2025-10-31T23:20:49.090153+07:00"
+    },
+    {
+      "id": "e15993048f23edff48842e79ae8ad4f0",
+      "title": "Vì sao mới ngoài 30 tuổi đã bị mỡ máu cao, tiểu đường?",
+      "link": "https://thanhnien.vn/vi-sao-moi-ngoai-30-tuoi-da-bi-mo-mau-cao-tieu-duong-185251031195554311.htm",
+      "summary": "'Trước đây em nghĩ bệnh mỡ máu cao hay tiểu đường là của người trung niên, nhưng giờ bạn bè em còn trẻ mà đã có người mắc. Cho em hỏi nguyên nhân vì sao?'. Anh Quân (35 tuổi, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:54:00+07:00",
+      "fetched": "2025-10-31T23:20:49.090303+07:00"
+    },
+    {
+      "id": "f2e441d550e7c16603b857fde8317c88",
+      "title": "Hàm Thuận hoang tàn trong lũ lịch sử, Hàm Thắng dân chạy thâu đêm",
+      "link": "https://thanhnien.vn/ham-thuan-hoang-tan-trong-lu-lich-su-ham-thang-dan-chay-thau-dem-185251031200108542.htm",
+      "summary": "Mưa lớn kết hợp xả lũ hồ Sông Quao, Suối Đá khiến xã Hàm Thuận chìm trong nước, giao thông tê liệt, hàng nghìn nhà dân ngập sâu trong nước lũ, lực lượng địa phương xuyên đêm cứu dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:53:00+07:00",
+      "fetched": "2025-10-31T23:20:49.090451+07:00"
+    },
+    {
+      "id": "1749b87fa75f535cce75861069db2c6d",
+      "title": "Sự kiện quan trọng của Zaha Việt Nam và đối tác: Vì sức khỏe cộng đồng",
+      "link": "https://thanhnien.vn/su-kien-quan-trong-cua-zaha-viet-nam-va-doi-tac-vi-suc-khoe-cong-dong-185251031213206196.htm",
+      "summary": "Một bước tiến quan trọng trong lĩnh vực thể thao cộng đồng khi Công ty Cổ phần Zaha Việt Nam và Công ty Cổ phần PR Sport chính thức ký kết biên bản ghi nhớ thỏa thuận hợp tác chiến lược toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:52:00+07:00",
+      "fetched": "2025-10-31T23:20:49.090602+07:00"
+    },
+    {
+      "id": "b0e58c05b2f805477b025a9660963892",
+      "title": "Du khách tham quan trở lại Kinh thành Huế sau 4 ngày bị lũ bủa vây",
+      "link": "https://vnexpress.net/du-khach-tham-quan-tro-lai-kinh-thanh-hue-sau-4-ngay-bi-lu-bua-vay-4958470.html",
+      "summary": "Nước rút gần hết tại các di tích cố đô Huế, nhiều đoàn khách quốc tế đến tham quan Đại nội, lăng vua trong ngày đầu mở cửa trở lại sau 4 ngày bị nước lũ nhấn chìm hơn 2 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:41:00+07:00",
+      "fetched": "2025-10-31T23:20:45.913765+07:00"
+    },
+    {
+      "id": "0d67a0a5b9f517b8103645c1881a5fee",
+      "title": "Cận cảnh diễn viên Trương Ngọc Ánh nghe đọc lệnh khởi tố",
+      "link": "https://thanhnien.vn/can-canh-dien-vien-truong-ngoc-anh-nghe-doc-lenh-khoi-to-185251031214119342.htm",
+      "summary": "Tại cơ quan điều tra, bị can Trương Ngọc Ánh (nghệ sĩ, diễn viên) nghe công bố quyết định khởi tố và lệnh tạm giam. Bị can giữ thái độ bình tĩnh, lắng nghe cán bộ đọc lệnh khởi tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:41:00+07:00",
+      "fetched": "2025-10-31T23:20:49.090751+07:00"
+    },
+    {
+      "id": "6af47e744780f6c6de05fc0d59bfce2f",
+      "title": "Bắt tạm giam diễn viên Trương Ngọc Ánh",
+      "link": "https://vnexpress.net/bat-tam-giam-dien-vien-truong-ngoc-anh-4958494.html",
+      "summary": "Ngày 31/10, diễn viên Trương Ngọc Ánh bị Công an TP HCM bắt tạm giam để điều tra hành vi Lạm dụng tín nhiệm chiếm đoạt tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:30:18+07:00",
+      "fetched": "2025-10-31T23:20:45.913945+07:00"
+    },
+    {
+      "id": "d77ecd76f22efe1a94330fa4a1caa336",
+      "title": "Phó thủ tướng đề nghị tập đoàn bán dẫn Anh mở trung tâm R&amp;D tại Hòa Lạc",
+      "link": "https://vnexpress.net/pho-thu-tuong-de-nghi-tap-doan-ban-dan-anh-mo-trung-tam-r-d-tai-hoa-lac-4958477.html",
+      "summary": "Phó thủ tướng Nguyễn Chí Dũng đề nghị Tập đoàn ARM mở trung tâm R&D ở Hòa Lạc, đồng thời hỗ trợ Việt Nam đào tạo đội ngũ kỹ sư thiết kế vi mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:28:37+07:00",
+      "fetched": "2025-10-31T23:20:45.914116+07:00"
+    },
+    {
+      "id": "d77ecd76f22efe1a94330fa4a1caa336",
+      "title": "Phó thủ tướng đề nghị tập đoàn bán dẫn Anh mở trung tâm R&amp;D tại Hòa Lạc",
+      "link": "https://vnexpress.net/pho-thu-tuong-de-nghi-tap-doan-ban-dan-anh-mo-trung-tam-r-d-tai-hoa-lac-4958477.html",
+      "summary": "Phó thủ tướng Nguyễn Chí Dũng đề nghị Tập đoàn ARM mở trung tâm R&D ở Hòa Lạc, đồng thời hỗ trợ Việt Nam đào tạo đội ngũ kỹ sư thiết kế vi mạch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-31T14:28:37+07:00",
+      "fetched": "2025-10-31T23:20:53.839522+07:00"
+    },
+    {
+      "id": "7bcddb5d1d665a50efd247bb54b1a47a",
+      "title": "Chủ tịch nước Lương Cường gặp Chủ tịch Trung Quốc Tập Cận Bình",
+      "link": "https://vnexpress.net/chu-tich-nuoc-luong-cuong-gap-chu-tich-trung-quoc-tap-can-binh-4958481.html",
+      "summary": "Chủ tịch nước Lương Cường đã có cuộc gặp Chủ tịch Trung Quốc Tập Cận Bình trong khuôn khổ APEC tại Hàn Quốc, nhất trí tăng cường hợp tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:22:17+07:00",
+      "fetched": "2025-10-31T23:20:45.914307+07:00"
+    },
+    {
+      "id": "7bcddb5d1d665a50efd247bb54b1a47a",
+      "title": "Chủ tịch nước Lương Cường gặp Chủ tịch Trung Quốc Tập Cận Bình",
+      "link": "https://vnexpress.net/chu-tich-nuoc-luong-cuong-gap-chu-tich-trung-quoc-tap-can-binh-4958481.html",
+      "summary": "Chủ tịch nước Lương Cường đã có cuộc gặp Chủ tịch Trung Quốc Tập Cận Bình trong khuôn khổ APEC tại Hàn Quốc, nhất trí tăng cường hợp tác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T14:22:17+07:00",
+      "fetched": "2025-10-31T23:20:51.756163+07:00"
+    },
+    {
+      "id": "0c02677c80d10a3c5024b605e89fca00",
+      "title": "Công ty Nhật chiêu mộ lực sĩ chăm sóc người cao tuổi",
+      "link": "https://vnexpress.net/cong-ty-nhat-chieu-mo-luc-si-cham-soc-nguoi-cao-tuoi-4958414.html",
+      "summary": "Visionary, công ty có trụ sở tại Nagoya, thu hút người yêu thể hình tham gia chăm sóc người cao tuổi bằng trợ cấp bột protein, tập gym miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:20:20+07:00",
+      "fetched": "2025-10-31T23:20:45.914472+07:00"
+    },
+    {
+      "id": "0c02677c80d10a3c5024b605e89fca00",
+      "title": "Công ty Nhật chiêu mộ lực sĩ chăm sóc người cao tuổi",
+      "link": "https://vnexpress.net/cong-ty-nhat-chieu-mo-luc-si-cham-soc-nguoi-cao-tuoi-4958414.html",
+      "summary": "Visionary, công ty có trụ sở tại Nagoya, thu hút người yêu thể hình tham gia chăm sóc người cao tuổi bằng trợ cấp bột protein, tập gym miễn phí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T14:20:20+07:00",
+      "fetched": "2025-10-31T23:20:51.756341+07:00"
+    },
+    {
       "id": "26c5ed6b60d293a27d927673e356f276",
       "title": "Giá vàng thế giới tăng vọt trong đêm Halloween",
       "link": "https://thanhnien.vn/gia-vang-the-gioi-tang-vot-trong-dem-halloween-185251031204330669.htm",
@@ -693,6 +1093,16 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T21:17:11.368329+07:00"
     },
     {
+      "id": "5159ef4c592a71ed59af53005dd1323f",
+      "title": "Vietjet ký hợp đồng 3,8 tỷ USD mua động cơ Rolls-Royce Trent 7000",
+      "link": "https://vnexpress.net/vietjet-ky-hop-dong-3-8-ty-usd-mua-dong-co-rolls-royce-trent-7000-4958466.html",
+      "summary": "Vietjet và Rolls-Royce ký hợp đồng cung cấp 92 động cơ Trent 7000 cùng dịch vụ bảo dưỡng toàn diện, tổng trị giá 3,8 tỷ USD, ngày 30/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:00:00+07:00",
+      "fetched": "2025-10-31T23:20:45.914628+07:00"
+    },
+    {
       "id": "001bf5d53fae7ea9f5240d9165a84ca2",
       "title": "Mỹ - Philippines lập lực lượng đặc nhiệm tại Biển Đông",
       "link": "https://thanhnien.vn/my-philippines-lap-luc-luong-dac-nhiem-tai-bien-dong-185251031204650465.htm",
@@ -733,6 +1143,26 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T21:17:18.408736+07:00"
     },
     {
+      "id": "70ae7b0c2fc9b576e7f64fe27cd84ebc",
+      "title": "'Thủ phạm' gây đau đầu nhưng dễ bị chẩn đoán nhầm",
+      "link": "https://vnexpress.net/thu-pham-gay-dau-dau-nhung-de-bi-chan-doan-nham-4958479.html",
+      "summary": "Đau đầu, ù tai kéo dài tưởng do stress, nhiều người không ngờ thủ phạm lại là thói quen nghiến răng khiến khớp thái dương hàm bị rối loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:46:55+07:00",
+      "fetched": "2025-10-31T23:20:45.914952+07:00"
+    },
+    {
+      "id": "0406b24acdadfe0353f79c7cfdde4e44",
+      "title": "Vụ nổ trên ruộng lúa ở Quảng Trị",
+      "link": "https://vnexpress.net/vu-no-tren-ruong-lua-o-quang-tri-4958472.html",
+      "summary": "Người dân làng Lệ Xuyên, xã Nam Cửa Việt nghe tiếng nổ lớn phát ra từ ruộng lúa, cách nhà dân khoảng 5 m, nghi do bom đạn còn sót lại sau chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:46:29+07:00",
+      "fetched": "2025-10-31T23:20:45.915120+07:00"
+    },
+    {
       "id": "1a5bd4c6e79868d7307988bba5de60ca",
       "title": "Nhà sản xuất '2 ngày 1 đêm' xin lỗi",
       "link": "https://thanhnien.vn/nha-san-xuat-2-ngay-1-dem-xin-loi-185251031202039121.htm",
@@ -753,6 +1183,16 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T21:17:18.406985+07:00"
     },
     {
+      "id": "882d12e8811d3dca763d8f3ebd5917f2",
+      "title": "Con gái 10 tuổi của Hà Kiều Anh",
+      "link": "https://vnexpress.net/con-gai-10-tuoi-cua-ha-kieu-anh-4957409.html",
+      "summary": "Con gái Hoa hậu Hà Kiều Anh, Viann, 10 tuổi, có năng khiếu bơi lội, vẽ, múa ballet, mơ ước trở thành doanh nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:42:23+07:00",
+      "fetched": "2025-10-31T23:20:45.915460+07:00"
+    },
+    {
       "id": "5fdd56dd12b8c9e13ae47aa3524422a6",
       "title": "Ngày đầu lễ hội ẩm thực chay ở TP.HCM: Hấp dẫn hàng trăm món 'đẹp như tranh'",
       "link": "https://thanhnien.vn/ngay-dau-le-hoi-am-thuc-chay-o-tphcm-hap-dan-hang-tram-mon-dep-nhu-tranh-185251031202116844.htm",
@@ -761,6 +1201,16 @@ window.newsData_2025_10_31 = {
       "category": "Tổng hợp",
       "published": "2025-10-31T13:42:00+07:00",
       "fetched": "2025-10-31T21:17:11.369184+07:00"
+    },
+    {
+      "id": "db1d89136b70b0427acfa438809567fe",
+      "title": "Mở đường tiếp tế 1.700 người bị cô lập 4 ngày do lở núi",
+      "link": "https://vnexpress.net/mo-duong-tiep-te-1-700-nguoi-bi-co-lap-4-ngay-do-lo-nui-4958473.html",
+      "summary": "Hơn 100 người mở đường qua các điểm sạt lở, mang nhu yếu phẩm tiếp tế cho 5 thôn xã Ngọc Linh bị cô lập 4 ngày sau lở núi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:41:31+07:00",
+      "fetched": "2025-10-31T23:20:45.915611+07:00"
     },
     {
       "id": "6c2fdd3388f6dd33fc1e242c917767d5",
