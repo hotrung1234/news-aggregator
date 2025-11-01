@@ -1,7 +1,27 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T01:21:16.860475+07:00",
+  "lastUpdated": "2025-11-02T03:16:09.483987+07:00",
   "articles": [
+    {
+      "id": "c4cb7e67275efdfb8c31f8b5efb36381",
+      "title": "Arsenal lập kỷ lục ghi bàn từ chấm phạt góc, vững ngôi đầu bảng Premier League",
+      "link": "https://tuoitre.vn/arsenal-lap-ky-luc-ghi-ban-tu-cham-phat-goc-vung-ngoi-dau-bang-premier-league-20251101233707321.htm",
+      "summary": "Đêm 1-11, Arsenal một lần nữa sử dụng \"vũ khí phạt góc\" để đánh bại Burnley 2-0 ở vòng 10 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:16:04.181963+07:00",
+      "fetched": "2025-11-02T03:16:04.182095+07:00"
+    },
+    {
+      "id": "05353977df6620da81d9881468bd087b",
+      "title": "Yamal chia tay bạn gái sau 2 tháng quen nhau",
+      "link": "https://tuoitre.vn/yamal-chia-tay-ban-gai-sau-2-thang-quen-nhau-20251101222521721.htm",
+      "summary": "Tối 1-11, ngôi sao 18 tuổi Lamine Yamal bất ngờ ra thông báo khẳng định đã chia tay nữ ca sĩ người Argentina Nicki Nicole sau khoảng hơn 2 tháng công khai hẹn hò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:16:04.181737+07:00",
+      "fetched": "2025-11-02T03:16:04.181948+07:00"
+    },
     {
       "id": "8244201f8752186db467b64c73432faa",
       "title": "30 giây nghiệt ngã, trung vệ Hàn Quốc thành người hùng của CLB Đà Nẵng",
@@ -151,6 +171,96 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T01:21:08.897471+07:00",
       "fetched": "2025-11-02T01:21:08.897693+07:00"
+    },
+    {
+      "id": "f05d2e46fad37b99e81545f25ecd7e5b",
+      "title": "PSG thắng phút cuối ở Ligue 1",
+      "link": "https://vnexpress.net/psg-thang-phut-cuoi-o-ligue-1-4958815.html",
+      "summary": "Tiền đạo vào sân thay người Goncalo Ramos ghi bàn phút bù thứ năm giúp PSG thắng đội khách Nice 1-0 ở vòng 11 Ligue 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:49:44+07:00",
+      "fetched": "2025-11-02T03:15:59.656545+07:00"
+    },
+    {
+      "id": "f05d2e46fad37b99e81545f25ecd7e5b",
+      "title": "PSG thắng phút cuối ở Ligue 1",
+      "link": "https://vnexpress.net/psg-thang-phut-cuoi-o-ligue-1-4958815.html",
+      "summary": "Tiền đạo vào sân thay người Goncalo Ramos ghi bàn phút bù thứ năm giúp PSG thắng đội khách Nice 1-0 ở vòng 11 Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:49:44+07:00",
+      "fetched": "2025-11-02T03:16:09.479544+07:00"
+    },
+    {
+      "id": "3fb3e19c523f7aa9aec5e30e0db30619",
+      "title": "Ronaldo và con trai ghi bàn cùng ngày",
+      "link": "https://vnexpress.net/ronaldo-va-con-trai-ghi-ban-cung-ngay-4958811.html",
+      "summary": "Vài tiếng sau khi con trai ghi bàn cho U16 Bồ Đào Nha, Cristiano Ronaldo lập cú đúp giúp Al Nassr thắng Al Fateh 2-1 ở vòng 7 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:42:55+07:00",
+      "fetched": "2025-11-02T03:15:59.656752+07:00"
+    },
+    {
+      "id": "3fb3e19c523f7aa9aec5e30e0db30619",
+      "title": "Ronaldo và con trai ghi bàn cùng ngày",
+      "link": "https://vnexpress.net/ronaldo-va-con-trai-ghi-ban-cung-ngay-4958811.html",
+      "summary": "Vài tiếng sau khi con trai ghi bàn cho U16 Bồ Đào Nha, Cristiano Ronaldo lập cú đúp giúp Al Nassr thắng Al Fateh 2-1 ở vòng 7 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:42:55+07:00",
+      "fetched": "2025-11-02T03:16:09.479055+07:00"
+    },
+    {
+      "id": "2d2007be93ab5d5ac3359fcef4fb64fd",
+      "title": "Arsenal thắng 9 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-9-tran-lien-tiep-4958812.html",
+      "summary": "Hai cú đánh đầu của Viktor Gyokeres và Declan Rice giúp Arsenal thắng chủ nhà Burnley 2-0 ở vòng 10 để gia cố đỉnh bảng Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:10:29+07:00",
+      "fetched": "2025-11-02T03:15:59.656923+07:00"
+    },
+    {
+      "id": "2d2007be93ab5d5ac3359fcef4fb64fd",
+      "title": "Arsenal thắng 9 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-9-tran-lien-tiep-4958812.html",
+      "summary": "Hai cú đánh đầu của Viktor Gyokeres và Declan Rice giúp Arsenal thắng chủ nhà Burnley 2-0 ở vòng 10 để gia cố đỉnh bảng Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:10:29+07:00",
+      "fetched": "2025-11-02T03:16:09.479387+07:00"
+    },
+    {
+      "id": "3ed68ae0dc48e51422ac2bd5fb16cc7d",
+      "title": "Liên danh Geleximco làm khu đô thị 22.000 tỷ đồng ở Quy Nhơn",
+      "link": "https://vnexpress.net/lien-danh-geleximco-lam-khu-do-thi-22-000-ty-dong-o-quy-nhon-4958805.html",
+      "summary": "Khu đô thị, du lịch, văn hóa, thể thao hồ Phú Hòa do liên danh Geleximco đầu tư có quy mô gần 280 ha, tổng vốn gần 22.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:03:29+07:00",
+      "fetched": "2025-11-02T03:15:59.657087+07:00"
+    },
+    {
+      "id": "f46f8eb31e097772ed4ad673e4ecb90c",
+      "title": "Thủ tướng: Tạo điều kiện khi doanh nghiệp tư nhân tham gia các dự án lớn",
+      "link": "https://vnexpress.net/thu-tuong-tao-dieu-kien-khi-doanh-nghiep-tu-nhan-tham-gia-cac-du-an-lon-4958808.html",
+      "summary": "Thủ tướng yêu cầu tạo điều kiện nếu doanh nghiệp tư nhân nhận nhiệm vụ khó khăn ở những dự án lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:01:18+07:00",
+      "fetched": "2025-11-02T03:15:59.657246+07:00"
+    },
+    {
+      "id": "f46f8eb31e097772ed4ad673e4ecb90c",
+      "title": "Thủ tướng: Tạo điều kiện khi doanh nghiệp tư nhân tham gia các dự án lớn",
+      "link": "https://vnexpress.net/thu-tuong-tao-dieu-kien-khi-doanh-nghiep-tu-nhan-tham-gia-cac-du-an-lon-4958808.html",
+      "summary": "Thủ tướng yêu cầu tạo điều kiện nếu doanh nghiệp tư nhân nhận nhiệm vụ khó khăn ở những dự án lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-01T19:01:18+07:00",
+      "fetched": "2025-11-02T03:16:06.777170+07:00"
     },
     {
       "id": "e67327c4082e42af04d522c203b93b02",
