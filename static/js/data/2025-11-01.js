@@ -1,7 +1,157 @@
 window.newsData_2025_11_01 = {
   "date": "2025-11-01",
-  "lastUpdated": "2025-11-01T08:21:29.649200+07:00",
+  "lastUpdated": "2025-11-01T10:09:11.855925+07:00",
   "articles": [
+    {
+      "id": "651fb2d4dcdf0503d7c1cfa5edfade52",
+      "title": "BTOB hạnh phúc vì fan Việt, nhóm nhạc Hàn Quốc hát nhạc Sơn Tùng M-TP",
+      "link": "https://tuoitre.vn/btob-hanh-phuc-vi-fan-viet-nhom-nhac-han-quoc-hat-nhac-son-tung-m-tp-20251101062319949.htm",
+      "summary": "Một 'đặc sản' ở concert Việt Nam khiến các nghệ sĩ Hàn Quốc bất ngờ là khán giả hát theo nghệ sĩ rất nhiều. Tối qua, nhóm nhạc BTOB có trải nghiệm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.614107+07:00",
+      "fetched": "2025-11-01T10:09:03.614245+07:00"
+    },
+    {
+      "id": "451849543f6a373fee7b868516d82c31",
+      "title": "CNN: Lầu Năm Góc đồng ý cung cấp tên lửa Tomahawk cho Ukraine, chờ ông Trump 'gật đầu'",
+      "link": "https://tuoitre.vn/cnn-lau-nam-goc-dong-y-cung-cap-ten-lua-tomahawk-cho-ukraine-cho-ong-trump-gat-dau-2025110107074184.htm",
+      "summary": "Lầu Năm Góc được cho là đã bật đèn xanh trước kế hoạch cung cấp tên lửa hành trình tầm xa Tomahawk cho Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613982+07:00",
+      "fetched": "2025-11-01T10:09:03.614096+07:00"
+    },
+    {
+      "id": "53cc9ee4245336dc04e0eec451ac8717",
+      "title": "Loạt công ty lãi đột biến nhờ chuyển nhượng bất động sản, 'chơi' chứng khoán",
+      "link": "https://tuoitre.vn/loat-cong-ty-lai-dot-bien-nho-chuyen-nhuong-bat-dong-san-choi-chung-khoan-2025103116075178.htm",
+      "summary": "Nhiều công ty bất động sản lãi đột biến trong quý 3-2025. Có bên do kinh doanh thuận lợi, cũng có bên do bán công ty con, \"mát tay\" trong đầu tư cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613855+07:00",
+      "fetched": "2025-11-01T10:09:03.613970+07:00"
+    },
+    {
+      "id": "eacab3f12373f307065ab3655dd40b13",
+      "title": "Loạt xe mới của Suzuki dễ gây sốt nếu đến Việt Nam: Ô tô điện mini, xe máy như 'Chaly cúc cu điện'",
+      "link": "https://tuoitre.vn/loat-xe-moi-cua-suzuki-de-gay-sot-neu-den-viet-nam-o-to-dien-mini-xe-may-nhu-chaly-cuc-cu-dien-20251031173429277.htm",
+      "summary": "Suzuki công bố loạt concept xe điện thế hệ mới Vision e-Sky (ô tô) và e-VanVan (xe máy) tại Japan Mobility Show 2025. Trong đó, mẫu Vision e-Sky Concept BEV cỡ nhỏ đã được ấn định lộ trình thương mại hóa trong năm tài chính 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613725+07:00",
+      "fetched": "2025-11-01T10:09:03.613843+07:00"
+    },
+    {
+      "id": "b4f233c3fdc319b78189f92646d08bcd",
+      "title": "TP.HCM: Mời nhân dân góp ý kiến về công trình Đài tưởng niệm nạn nhân COVID-19",
+      "link": "https://tuoitre.vn/tp-hcm-moi-nhan-dan-gop-y-kien-ve-cong-trinh-dai-tuong-niem-nan-nhan-covid-19-2025110100060082.htm",
+      "summary": "TP.HCM đang tổ chức lấy ý kiến người dân cả nước về Đài tưởng niệm nạn nhân COVID-19, công trình biểu tượng ghi nhận sự chung sức, đồng lòng của người dân thành phố vượt qua đại dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613596+07:00",
+      "fetched": "2025-11-01T10:09:03.613713+07:00"
+    },
+    {
+      "id": "7e195c9d74b4aa38da8928e4e738decd",
+      "title": "Cơ sở 2 Bệnh viện Từ Dũ ở Cần Giờ sẽ chính thức hoạt động ngày 10-11",
+      "link": "https://tuoitre.vn/co-so-2-benh-vien-tu-du-o-can-gio-se-chinh-thuc-hoat-dong-ngay-10-11-2025110107144663.htm",
+      "summary": "Ngày 10-11 tới, cơ sở 2 của Bệnh viện Từ Dũ sẽ chính thức đi vào hoạt động tại huyện Cần Giờ. Đây là mô hình bệnh viện đa khoa liên kết được triển khai theo Đề án nâng cao năng lực y tế Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613464+07:00",
+      "fetched": "2025-11-01T10:09:03.613584+07:00"
+    },
+    {
+      "id": "4779a14c30f668fb3acaab6262a80f3e",
+      "title": "Điểm tin 8h: Lũ ở Đà Nẵng, Huế có khả năng lên lại; Nhiều AI 'nịnh hót’ người dùng quá đà",
+      "link": "https://tuoitre.vn/diem-tin-8h-lu-o-da-nang-hue-co-kha-nang-len-lai-nhieu-ai-ninh-hot-nguoi-dung-qua-da-20251031230933023.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 1-11-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613338+07:00",
+      "fetched": "2025-11-01T10:09:03.613452+07:00"
+    },
+    {
+      "id": "20574c38140f1657ab1ff9f21f2b9cdb",
+      "title": "Jamtara: Thị trấn lừa đảo qua mạng của Ấn Độ",
+      "link": "https://tuoitre.vn/jamtara-thi-tran-lua-dao-qua-mang-cua-an-do-20251031153302536.htm",
+      "summary": "Hơn 10 năm qua, Jamtara (Ấn Độ) thành ổ tội phạm mạng, nơi thanh niên dùng điện thoại giá rẻ lừa chiếm tiền của hàng triệu người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613208+07:00",
+      "fetched": "2025-11-01T10:09:03.613326+07:00"
+    },
+    {
+      "id": "8cf84a0ed81eaf3918625055143de717",
+      "title": "AI không còn cần dữ liệu khổng lồ: Cuộc đua huấn luyện AI tiết kiệm năng lượng",
+      "link": "https://tuoitre.vn/ai-khong-con-can-du-lieu-khong-lo-cuoc-dua-huan-luyen-ai-tiet-kiem-nang-luong-20251031115025169.htm",
+      "summary": "Các mô hình AI giờ đây không cần dữ liệu khổng lồ hay máy tính siêu mạnh để học. Cuộc đua huấn luyện AI tiết kiệm năng lượng đang mở ra cách tiếp cận mới, gần gũi hơn với người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.613056+07:00",
+      "fetched": "2025-11-01T10:09:03.613194+07:00"
+    },
+    {
+      "id": "df34901e17b94f1b8e7a0b4d5f8c924b",
+      "title": "Đầu tư sớm cho phòng ngừa để giảm thiểu thiệt hại thiên tai",
+      "link": "https://tuoitre.vn/dau-tu-som-cho-phong-ngua-de-giam-thieu-thiet-hai-thien-tai-20251030160800488.htm",
+      "summary": "Người dân vùng nguy cơ được sơ tán, cứu trợ cho thấy nỗ lực lớn của toàn xã hội trong ứng phó thiên tai, nhưng công tác phòng ngừa vẫn chưa đúng mức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612921+07:00",
+      "fetched": "2025-11-01T10:09:03.613043+07:00"
+    },
+    {
+      "id": "9b6efd0246e5f5e37e107264cb7452d9",
+      "title": "Bắt nhóm lừa đảo đầu tư tiền ảo, giả mạo các sàn giao dịch quốc tế",
+      "link": "https://tuoitre.vn/cong-an-triet-xoa-nhom-lua-dao-dau-tu-tien-ao-gia-mao-cac-san-giao-dich-quoc-te-20251101074216137.htm",
+      "summary": "Công an Khánh Hòa bắt 5 người lập sàn tiền ảo giả, mạo danh nền tảng quốc tế lừa đảo hàng loạt nhà đầu tư trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612789+07:00",
+      "fetched": "2025-11-01T10:09:03.612909+07:00"
+    },
+    {
+      "id": "92cb9df3ec76e5b730ccc36fb681d7df",
+      "title": "American Horror Story mùa 13 trở lại, hé lộ dàn diễn viên 'khủng'",
+      "link": "https://tuoitre.vn/american-horror-story-mua-13-tro-lai-he-lo-dan-dien-vien-khung-20251101073750874.htm",
+      "summary": "Đạo diễn Ryan Murphy vừa khiến người hâm mộ phấn khích khi công bố dàn cast 'toàn sao' cho mùa 13 của loạt phim kinh dị nổi tiếng American Horror Story.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612647+07:00",
+      "fetched": "2025-11-01T10:09:03.612776+07:00"
+    },
+    {
+      "id": "f9ae0ce8ba30005ee797090f9503e2a2",
+      "title": "'Đêm bảo tàng' có gì mà hấp dẫn hàng trăm bạn trẻ đội mưa lạnh đến xem?",
+      "link": "https://tuoitre.vn/dem-bao-tang-co-gi-ma-hap-dan-hang-tram-ban-tre-doi-mua-lanh-den-xem-20251101075119189.htm",
+      "summary": "Cơn mưa lạnh tối 31-10 ở Hà Nội không ngăn bước hàng trăm bạn trẻ đến với Bảo tàng Mỹ thuật Việt Nam để thưởng thức thơ, nhạc, họa theo một cách khác, gần gũi, thân tình và trẻ trung hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612509+07:00",
+      "fetched": "2025-11-01T10:09:03.612635+07:00"
+    },
+    {
+      "id": "6f642f2135e14de89453ea71973eb300",
+      "title": "G7 công bố 26 dự án, quyết tâm giảm phụ thuộc vào đất hiếm Trung Quốc",
+      "link": "https://tuoitre.vn/g7-cong-bo-26-du-an-quyet-tam-giam-phu-thuoc-vao-dat-hiem-trung-quoc-20251101075814923.htm",
+      "summary": "Các nước G7 khẳng định quyết tâm giảm sự phụ thuộc vào Trung Quốc trong chuỗi cung ứng khoáng sản chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612352+07:00",
+      "fetched": "2025-11-01T10:09:03.612496+07:00"
+    },
+    {
+      "id": "7cfe2fcd7866711440f952e7bfee77ef",
+      "title": "Bác sĩ chỉ cách ăn uống ngừa ung thư dạ dày",
+      "link": "https://tuoitre.vn/bac-si-chi-cach-an-uong-ngua-ung-thu-da-day-20251101083259843.htm",
+      "summary": "Nhiều nghiên cứu đã chỉ ra rằng những thói quen ăn uống không hợp lý có thể làm gia tăng đáng kể nguy cơ mắc ung thư dạ dày. Ngược lại, một chế độ ăn cân bằng, giàu dinh dưỡng góp phần giảm thiểu khả năng hình thành các khối u ác tính ở dạ dày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:03.612089+07:00",
+      "fetched": "2025-11-01T10:09:03.612334+07:00"
+    },
     {
       "id": "024c21bae2a0faf03cd31505d11e4bf3",
       "title": "Thời tiết hôm nay 1-11: Nghệ An đến Quảng Ngãi còn mưa to",
@@ -151,6 +301,396 @@ window.newsData_2025_11_01 = {
       "category": "Tổng hợp",
       "published": "2025-11-01T03:18:54.681773+07:00",
       "fetched": "2025-11-01T03:18:54.681984+07:00"
+    },
+    {
+      "id": "e3bb800c858a8bca3e7397d4750627f5",
+      "title": "Tê tê quý hiếm xuất hiện bất ngờ giữa đường phố Quảng Trị",
+      "link": "https://thanhnien.vn/te-te-quy-hiem-xuat-hien-bat-ngo-giua-duong-pho-quang-tri-185251101090540096.htm",
+      "summary": "Một con tê tê quý hiếm bất ngờ xuất hiện trên một tuyến đường ở P.Nam Đông Hà (Quảng Trị), người dân phát hiện đã kịp bắt giữ và trình báo cơ quan chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T03:07:00+07:00",
+      "fetched": "2025-11-01T10:09:02.712744+07:00"
+    },
+    {
+      "id": "0d10ed58f4b973614e120e6b7c64e184",
+      "title": "Kyiv tố Nga dùng loại tên lửa từng khiến Mỹ rút khỏi hiệp ước hạt nhân",
+      "link": "https://thanhnien.vn/kyiv-to-nga-dung-loai-ten-lua-tung-khien-my-rut-khoi-hiep-uoc-hat-nhan-185251101004831221.htm",
+      "summary": "Ukraine mới đây cáo buộc Nga đã tấn công Ukraine bằng tên lửa hành trình 9M729, loại tên lửa đã khiến ông Donald Trump từ bỏ hiệp ước kiểm soát vũ khí hạt nhân với Nga trong nhiệm kỳ tổng thống Mỹ đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T03:07:00+07:00",
+      "fetched": "2025-11-01T10:09:02.712921+07:00"
+    },
+    {
+      "id": "7898e9c5b12c3d0000a119bd657c660c",
+      "title": "Kim Kardashian nói cuộc đổ bộ lên mặt trăng là 'giả', NASA phản ứng",
+      "link": "https://thanhnien.vn/kim-kardashian-noi-cuoc-do-bo-len-mat-trang-la-gia-nasa-phan-ung-185251101095633137.htm",
+      "summary": "Bộ trưởng Giao thông vận tải Mỹ kiêm Quyền Giám đốc NASA Sean Duffy đã có phản ứng về tuyên bố của nhân vật nổi tiếng Kim Kardashian rằng cuộc đổ bộ lên mặt trăng năm 1969 'không hề xảy ra\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T03:06:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713082+07:00"
+    },
+    {
+      "id": "87a1caf2e3e37c7e9a8d92d97e26e3c7",
+      "title": "Nhận định Tottenham vs Chelsea 0 giờ 30 ngày 2.11: Khi bản lĩnh là tất cả",
+      "link": "https://thanhnien.vn/nhan-dinh-tottenham-vs-chelsea-0-gio-30-ngay-211-khi-ban-linh-la-tat-ca-185251031194821567.htm",
+      "summary": "Phân tích chuyên sâu trận derby London Tottenham vs Chelsea vào 0 giờ 30 ngày 2.11.2025 vòng 10 Ngoại hạng Anh. Cuộc đối đầu giữa triết lý mới của Thomas Frank và lối chơi tấn công của Enzo Maresca hứa hẹn những khoảnh khắc kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T03:06:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713267+07:00"
+    },
+    {
+      "id": "5a261d197231a690c7ba90f287922e50",
+      "title": "Đồng Nai: Khu đất 'vàng' hãng dầu sắp được bán đấu giá để xây chung cư",
+      "link": "https://thanhnien.vn/dong-nai-khu-dat-vang-hang-dau-sap-duoc-ban-dau-gia-de-xay-chung-cu-185251101091326084.htm",
+      "summary": "Khu \"đất vàng\" nằm ở trung tâm phường Trấn Biên (Đồng Nai) sắp được đưa ra bán đấu giá. Theo quy hoạch, nơi đây sẽ xây dựng chung cư hỗn hợp cao tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T03:05:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713434+07:00"
+    },
+    {
+      "id": "0af0f5cfec7dbec5bc54e2019025f924",
+      "title": "Bí quyết sống lâu của loài cá voi thọ nhất thế giới",
+      "link": "https://vnexpress.net/bi-quyet-song-lau-cua-loai-ca-voi-tho-nhat-the-gioi-4958445.html",
+      "summary": "Các nhà nghiên cứu phát hiện cá voi đầu cong có thể sống hơn 200 năm nhờ khả năng sửa chữa ADN cực kỳ tốt với sự hỗ trợ của môi trường nước lạnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-01T03:00:00+07:00",
+      "fetched": "2025-11-01T10:09:10.130580+07:00"
+    },
+    {
+      "id": "21e14663b5c252f373248a51d5404c76",
+      "title": "Ông Trump nói gì về thông tin Mỹ có thể tấn công Venezuela?",
+      "link": "https://thanhnien.vn/ong-trump-noi-gi-ve-thong-tin-my-co-the-tan-cong-venezuela-185251101095047481.htm",
+      "summary": "Tổng thống Mỹ Donald Trump và Phó tổng thống JD Vance lên tiếng sau khi có thông tin Mỹ có thể tấn công các căn cứ quân sự ở Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:57:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713605+07:00"
+    },
+    {
+      "id": "492e570f49ae9562ca916ae66da0d4f4",
+      "title": "BHXH TP.HCM thay đổi địa điểm làm việc một số cơ sở, người dân cần lưu ý",
+      "link": "https://thanhnien.vn/bhxh-tphcm-thay-doi-dia-diem-lam-viec-mot-so-co-so-nguoi-dan-can-luu-y-18525110108380389.htm",
+      "summary": "Bảo hiểm xã hội TP.HCM (BHXH TP.HCM) vừa thông báo thay đổi địa điểm làm việc một số cơ sở trực thuộc nhằm tạo thuận lợi cho người dân và tổ chức đến giao dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:56:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713763+07:00"
+    },
+    {
+      "id": "2c7d86d110413fbcb21f698dda5f3c1c",
+      "title": "Thủ tướng Anh bỏ tiền túi giữ lại dây chuyền được ông Trump tặng",
+      "link": "https://vnexpress.net/thu-tuong-anh-bo-tien-tui-giu-lai-day-chuyen-duoc-ong-trump-tang-4958579.html",
+      "summary": "Thủ tướng Starmer quyết định chi tiền túi để được giữ lại sợi dây chuyền bạc mà Tổng thống Trump tặng ông trong chuyến thăm Anh hồi tháng 9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T02:49:45+07:00",
+      "fetched": "2025-11-01T10:09:05.349763+07:00"
+    },
+    {
+      "id": "26662b3fd4c1dfda4fade214f4db1319",
+      "title": "EVNCPC đã khôi phục cấp điện cho hơn 84% khách hàng bị ảnh hưởng do mưa lũ",
+      "link": "https://thanhnien.vn/evncpc-da-khoi-phuc-cap-dien-cho-hon-84-khach-hang-bi-anh-huong-do-mua-lu-185251101094128954.htm",
+      "summary": "Đến 7 giờ sáng nay (1.11), Tổng công ty Điện lực miền Trung (EVNCPC) đã khôi phục cấp điện cho hơn 400.000 khách hàng, tương đương hơn 84% tổng số khách hàng bị ảnh hưởng trong đợt mưa lũ lịch sử vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:42:00+07:00",
+      "fetched": "2025-11-01T10:09:02.713918+07:00"
+    },
+    {
+      "id": "d4f1a0d7ac74a985063972b26ab983a7",
+      "title": "Bùn đất ngập bệnh viện ở Đà Nẵng, bộ đội giúp dân dọn dẹp khử khuẩn",
+      "link": "https://thanhnien.vn/bun-dat-ngap-benh-vien-o-da-nang-bo-doi-giup-dan-don-dep-khu-khuan-185251101085606795.htm",
+      "summary": "Sau khi nước rút, hàng trăm cán bộ, chiến sĩ các lực lượng vũ trang Quân khu 5 khẩn trương có mặt tại Bệnh viện Đa khoa khu vực Điện Bàn (TP.Đà Nẵng) để tổng dọn vệ sinh, khử khuẩn và tất bật giúp dân dọn dẹp bùn đất sau lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:42:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714074+07:00"
+    },
+    {
+      "id": "d985b6a623e7673da018bbd78101b5fd",
+      "title": "Ảnh vệ tinh những vệt máu trong vụ thảm sát ở Sudan",
+      "link": "https://vnexpress.net/anh-ve-tinh-nhung-vet-mau-trong-vu-tham-sat-o-sudan-4958574.html",
+      "summary": "Vụ thảm sát do nhóm RSF gây ra ở Sudan có quy mô lớn đến mức các vệt máu và loạt thi thể hiển thị rõ ràng trên ảnh vệ tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:35:59+07:00",
+      "fetched": "2025-11-01T10:08:59.499518+07:00"
+    },
+    {
+      "id": "d985b6a623e7673da018bbd78101b5fd",
+      "title": "Ảnh vệ tinh những vệt máu trong vụ thảm sát ở Sudan",
+      "link": "https://vnexpress.net/anh-ve-tinh-nhung-vet-mau-trong-vu-tham-sat-o-sudan-4958574.html",
+      "summary": "Vụ thảm sát do nhóm RSF gây ra ở Sudan có quy mô lớn đến mức các vệt máu và loạt thi thể hiển thị rõ ràng trên ảnh vệ tinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T02:35:59+07:00",
+      "fetched": "2025-11-01T10:09:05.349948+07:00"
+    },
+    {
+      "id": "5af29e15caa03449346d457dcd291982",
+      "title": "Quảng Trị: Nổ lớn tại ruộng lúa, nghi do bom đạn sót lại",
+      "link": "https://thanhnien.vn/quang-tri-no-lon-tai-ruong-lua-nghi-do-bom-dan-sot-lai-185251101085000303.htm",
+      "summary": "Một vụ nổ lớn tại ruộng trồng lúa chỉ cách nhà dân khoảng 5 m đã để lại hố sâu, nghi do bom đạn sót lại từ chiến tranh. May mắn vụ nổ không có thiệt hại về người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:35:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714256+07:00"
+    },
+    {
+      "id": "6d1ce2151e6db34e91ffd1a9bc5619c3",
+      "title": "Chăm sóc sai cách khiến trẻ nhiễm RSV trở nặng",
+      "link": "https://vnexpress.net/cham-soc-sai-cach-khien-tre-nhiem-rsv-tro-nang-4958565.html",
+      "summary": "Virus RSV gây cảm lạnh thông thường, không cần điều trị, chỉ cần nghỉ ngơi đủ... là những hiểu sai khiến chăm sóc bệnh nhân không đúng cách, tăng nguy cơ trở nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:30:00+07:00",
+      "fetched": "2025-11-01T10:08:59.499735+07:00"
+    },
+    {
+      "id": "02794748c8f1e3056cbbc856259ee786",
+      "title": "Ông Trump cải tạo phòng tắm trong Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-cai-tao-phong-tam-trong-nha-trang-4958543.html",
+      "summary": "Tổng thống Trump tiếp tục cải tạo Phòng tắm Lincoln trong Nhà Trắng, sau khi vướng ý kiến trái chiều vì xây phòng khiêu vũ ở Cánh Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:29:07+07:00",
+      "fetched": "2025-11-01T10:08:59.499905+07:00"
+    },
+    {
+      "id": "02794748c8f1e3056cbbc856259ee786",
+      "title": "Ông Trump cải tạo phòng tắm trong Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-cai-tao-phong-tam-trong-nha-trang-4958543.html",
+      "summary": "Tổng thống Trump tiếp tục cải tạo Phòng tắm Lincoln trong Nhà Trắng, sau khi vướng ý kiến trái chiều vì xây phòng khiêu vũ ở Cánh Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T02:29:07+07:00",
+      "fetched": "2025-11-01T10:09:05.350133+07:00"
+    },
+    {
+      "id": "33b0ed2b2fc515f4dd92b4357190fd43",
+      "title": "FIFA vẫn im lặng, FAM càng ‘hoang mang’ tột độ: Tính nước cờ bỏ kiện lên CAS cho lành?",
+      "link": "https://thanhnien.vn/fifa-van-im-lang-fam-cang-hoang-mang-tot-do-tinh-nuoc-co-bo-khang-cao-len-cas-cho-lanh-18525110109142797.htm",
+      "summary": "Theo New Straits Times, tính đến sáng 1.11, Liên đoàn Bóng đá thế giới (FIFA) vẫn chưa đưa ra tuyên bố chính thức về đơn kháng cáo của phía Malaysia (FAM) liên quan 7 cầu thủ nhập tịch. Khả năng kiện lên CAS cũng cực thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:26:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714414+07:00"
+    },
+    {
+      "id": "95c873ace65ac1f9db3d73971537805b",
+      "title": "19 phút lập hồ sơ bệnh nhân nhờ chuyển đổi số bệnh viện",
+      "link": "https://vnexpress.net/19-phut-lap-ho-so-benh-nhan-nho-chuyen-doi-so-benh-vien-4958427.html",
+      "summary": "Bác sĩ mất chỉ 19 phút để lập một hồ sơ bệnh án của bệnh nhân trong khi trước đây cần hơn nửa giờ, nhờ bệnh viện ứng dụng bệnh án điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:24:13+07:00",
+      "fetched": "2025-11-01T10:08:59.500067+07:00"
+    },
+    {
+      "id": "d9cb5d0eed49dd6682a420b67124fd03",
+      "title": "Khi Man Utd trở nên thực dụng",
+      "link": "https://vnexpress.net/khi-man-utd-tro-nen-thuc-dung-4958113.html",
+      "summary": "HLV Ruben Amorim không thay đổi triết lý, nhưng việc chuyển sang lối đá trực diện đã giúp Man Utd tìm lại mạch thắng ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:23:47+07:00",
+      "fetched": "2025-11-01T10:08:59.500247+07:00"
+    },
+    {
+      "id": "d9cb5d0eed49dd6682a420b67124fd03",
+      "title": "Khi Man Utd trở nên thực dụng",
+      "link": "https://vnexpress.net/khi-man-utd-tro-nen-thuc-dung-4958113.html",
+      "summary": "HLV Ruben Amorim không thay đổi triết lý, nhưng việc chuyển sang lối đá trực diện đã giúp Man Utd tìm lại mạch thắng ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T02:23:47+07:00",
+      "fetched": "2025-11-01T10:09:11.849990+07:00"
+    },
+    {
+      "id": "e9b3bb757c63e2f8033cd1d799954c70",
+      "title": "Nga tuyên bố tập kích xưởng lắp ráp tên lửa Flamingo của Ukraine",
+      "link": "https://vnexpress.net/nga-tuyen-bo-tap-kich-xuong-lap-rap-ten-lua-flamingo-cua-ukraine-4958561.html",
+      "summary": "Bộ Quốc phòng Nga cho biết quân đội nước này tấn công các xưởng lắp ráp tên lửa Flamingo, UAV tầm xa cùng nhiều mục tiêu khác tại Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:23:10+07:00",
+      "fetched": "2025-11-01T10:08:59.500432+07:00"
+    },
+    {
+      "id": "e9b3bb757c63e2f8033cd1d799954c70",
+      "title": "Nga tuyên bố tập kích xưởng lắp ráp tên lửa Flamingo của Ukraine",
+      "link": "https://vnexpress.net/nga-tuyen-bo-tap-kich-xuong-lap-rap-ten-lua-flamingo-cua-ukraine-4958561.html",
+      "summary": "Bộ Quốc phòng Nga cho biết quân đội nước này tấn công các xưởng lắp ráp tên lửa Flamingo, UAV tầm xa cùng nhiều mục tiêu khác tại Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T02:23:10+07:00",
+      "fetched": "2025-11-01T10:09:05.350306+07:00"
+    },
+    {
+      "id": "2f8a402a82524f780b6e96a96eb633d0",
+      "title": "Đảo Giáng Sinh 'nhuộm' màu trong mùa di cư cua đỏ",
+      "link": "https://vnexpress.net/dao-giang-sinh-nhuom-mau-trong-mua-di-cu-cua-do-4957477.html",
+      "summary": "Đến mùa mưa, những con đường trên đảo Giáng sinh lại biến thành “cuộc diễu hành tự nhiên”, khi hàng chục triệu cua đỏ đồng loạt tiến ra biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:19:39+07:00",
+      "fetched": "2025-11-01T10:08:59.500608+07:00"
+    },
+    {
+      "id": "576b62011837548f0dbd7ed79156fd94",
+      "title": "Trung Quốc đưa phi hành gia trẻ nhất lên không gian",
+      "link": "https://thanhnien.vn/trung-quoc-dua-phi-hanh-gia-tre-nhat-len-khong-gian-185251101090633136.htm",
+      "summary": "Một tổ gồm 3 phi hành gia Trung Quốc, bao gồm thành viên trẻ tuổi nhất từng tham gia sứ mệnh có người lái của nước này, đã kết nối với trạm không gian Thiên Cung vào rạng sáng 1.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:17:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714566+07:00"
+    },
+    {
+      "id": "e9a1faad8a739287e5a131bc12de5035",
+      "title": "Nguy cơ lũ chồng lũ, Đà Nẵng yêu cầu các thủy điện xả lũ từ sáng nay 1.11",
+      "link": "https://thanhnien.vn/nguy-co-lu-chong-lu-da-nang-yeu-cau-cac-thuy-dien-xa-lu-tu-sang-nay-111-185251101071452643.htm",
+      "summary": "Nguy cơ lũ chồng lũ khi dự báo sẽ tiếp tục hứng chịu mưa lớn, Đà Nẵng yêu cầu loạt thủy điện lớn trên sông Vu Gia - Thu Bồn bắt đầu điều tiết xả lũ từ sáng nay (1.11).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:13:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714717+07:00"
+    },
+    {
+      "id": "6d14d94c2ae07c7b1272d44356777ab6",
+      "title": "IRONMAN 70.3 Phú Quốc 2025: Hàng ngàn 'người thép' so tài tại đảo ngọc Việt Nam",
+      "link": "https://thanhnien.vn/ironman-703-phu-quoc-2025-hang-ngan-nguoi-thep-so-tai-tai-dao-ngoc-viet-nam-185251031185737611.htm",
+      "summary": "Giải ba môn phối hợp BIM Group IRONMAN 70.3 Phú Quốc 2025 sẽ diễn ra từ ngày 14 đến 16.11, quy tụ hàng ngàn VĐV trong nước và quốc tế. Điều này một lần nữa khẳng định giải đấu là sân chơi thể thao sức bền hàng đầu khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:10:00+07:00",
+      "fetched": "2025-11-01T10:09:02.714868+07:00"
+    },
+    {
+      "id": "8f0a1f05fff4fbab9bcb521787dce0cd",
+      "title": "Ba trường hợp án tử hình được chuyển thành chung thân theo quy định mới",
+      "link": "https://vnexpress.net/ba-truong-hop-an-tu-hinh-duoc-chuyen-thanh-chung-than-theo-quy-dinh-moi-4958248.html",
+      "summary": "Từ hôm nay, người mắc ung thư giai đoạn cuối bị kết án tử hình trước 1/7 mà chưa thi hành án có thể được chuyển thành tù chung thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:09:13+07:00",
+      "fetched": "2025-11-01T10:08:59.500773+07:00"
+    },
+    {
+      "id": "a19168eb796283d13ee7748c8048dc28",
+      "title": "Ukraine tung lực lượng đặc nhiệm đến Pokrovsk, đẩy mạnh tấn công cơ sở năng lượng Nga",
+      "link": "https://thanhnien.vn/ukraine-tung-luc-luong-dac-nhiem-den-pokrovsk-day-manh-tan-cong-co-so-nang-luong-nga-185251101082635874.htm",
+      "summary": "Ukraine đã điều động lực lượng đặc nhiệm đến chiến đấu tại các khu vực giao tranh ác liệt ở thành phố Pokrovsk thuộc miền đông trong tuần này, theo Reuters hôm nay 1.11 dẫn hai nguồn tin quân sự Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:04:00+07:00",
+      "fetched": "2025-11-01T10:09:02.715027+07:00"
+    },
+    {
+      "id": "f83e38b1b42954b2aa821bb078a599c9",
+      "title": "Phát hiện năm nào chồng cũng chúc mừng sinh nhật người cũ",
+      "link": "https://vnexpress.net/phat-hien-nam-nao-chong-cung-chuc-mung-sinh-nhat-nguoi-cu-4958557.html",
+      "summary": "Sáu năm bên nhau, tôi chưa từng thấy anh quên ngày sinh nhật của người cũ, nhưng lại đôi khi quên sinh nhật của tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:00:00+07:00",
+      "fetched": "2025-11-01T10:08:59.500934+07:00"
+    },
+    {
+      "id": "a65a2da40318833f3ae5d2ddea604432",
+      "title": "Tháng 11 đi đâu chơi gì?",
+      "link": "https://vnexpress.net/thang-11-di-dau-choi-gi-4957721.html",
+      "summary": "Tháng 11 là thời điểm chính vụ của hoa tam giác mạch, lễ hội đèn trời diễn ra tại Chiang Mai và mùa đẹp nhất để trải nghiệm sa mạc Dubai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:00:00+07:00",
+      "fetched": "2025-11-01T10:08:59.501086+07:00"
+    },
+    {
+      "id": "9677cef3a2f1e14fc20956f5c0723562",
+      "title": "Điểm nhấn trên MPV 7 chỗ Hyundai Stargazer",
+      "link": "https://vnexpress.net/diem-nhan-tren-mpv-7-cho-hyundai-stargazer-4958394.html",
+      "summary": "Mẫu MPV cỡ B của Hyundai giá bán từ 489 triệu đồng, đáp ứng nhu cầu gia đình 7 người, sở hữu nhiều trang bị an toàn ở 2 bản cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:00:00+07:00",
+      "fetched": "2025-11-01T10:08:59.501270+07:00"
+    },
+    {
+      "id": "6100c578177df24c37719a0a5020174b",
+      "title": "Lợi ích của men vi sinh đối với đường tiêu hóa",
+      "link": "https://vnexpress.net/loi-ich-cua-men-vi-sinh-doi-voi-duong-tieu-hoa-4958385.html",
+      "summary": "Men vi sinh giúp tăng cường hệ miễn dịch và cân bằng hệ vi sinh đường ruột, phòng ngừa các tác nhân gây bệnh, phòng ngừa các rối loạn tiêu hóa chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T02:00:00+07:00",
+      "fetched": "2025-11-01T10:08:59.501431+07:00"
+    },
+    {
+      "id": "01687f0634c76facf5d58d9379fa92cc",
+      "title": "Sinner vào bán kết Paris Masters",
+      "link": "https://vnexpress.net/sinner-vao-ban-ket-paris-masters-4958560.html",
+      "summary": "Tay vợt số hai thế giới thắng dễ Ben Shelton 6-3, 6-3, để lần đầu vào bán kết giải Masters 1000 ở Paris.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T01:53:39+07:00",
+      "fetched": "2025-11-01T10:08:59.501584+07:00"
+    },
+    {
+      "id": "01687f0634c76facf5d58d9379fa92cc",
+      "title": "Sinner vào bán kết Paris Masters",
+      "link": "https://vnexpress.net/sinner-vao-ban-ket-paris-masters-4958560.html",
+      "summary": "Tay vợt số hai thế giới thắng dễ Ben Shelton 6-3, 6-3, để lần đầu vào bán kết giải Masters 1000 ở Paris.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T01:53:39+07:00",
+      "fetched": "2025-11-01T10:09:11.848634+07:00"
+    },
+    {
+      "id": "1f99290cd3d126583890004cf87376ae",
+      "title": "Tách cà phê gần 1.000 USD ở Dubai",
+      "link": "https://vnexpress.net/tach-ca-phe-gan-1-000-usd-o-dubai-4958541.html",
+      "summary": "Cà phê đắt nhất thế giới được pha chế từ hạt cà phê trồng gần núi lửa ở Panama và được bán với giá gần 1.000 USD mỗi tách tại Dubai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T01:45:08+07:00",
+      "fetched": "2025-11-01T10:08:59.501749+07:00"
+    },
+    {
+      "id": "1f99290cd3d126583890004cf87376ae",
+      "title": "Tách cà phê gần 1.000 USD ở Dubai",
+      "link": "https://vnexpress.net/tach-ca-phe-gan-1-000-usd-o-dubai-4958541.html",
+      "summary": "Cà phê đắt nhất thế giới được pha chế từ hạt cà phê trồng gần núi lửa ở Panama và được bán với giá gần 1.000 USD mỗi tách tại Dubai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T01:45:08+07:00",
+      "fetched": "2025-11-01T10:09:05.350469+07:00"
+    },
+    {
+      "id": "812f40a93d2e51cc70493c9feddbe78a",
+      "title": "Trạm giặt sấy 'siêu rẻ' trong ký túc xá Xây dựng",
+      "link": "https://vnexpress.net/tram-giat-say-sieu-re-trong-ky-tuc-xa-xay-dung-4958384.html",
+      "summary": "Thấy quần áo phơi phóng khắp ký túc xá, nhóm cựu sinh viên Đại học Xây dựng Hà Nội lắp trạm giặt sấy tự động, phí mỗi lượt dùng chỉ 2.000-4.000 đồng, rẻ 3-6 lần so với bên ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T01:36:48+07:00",
+      "fetched": "2025-11-01T10:08:59.501909+07:00"
+    },
+    {
+      "id": "f2491180fdafa2a7e535b96845e04c34",
+      "title": "Thẩm phán Mỹ yêu cầu chính quyền duy trì tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/tham-phan-my-yeu-cau-chinh-quyen-duy-tri-tem-phieu-thuc-pham-4958535.html",
+      "summary": "Hai thẩm phán liên bang ra phán quyết yêu cầu chính quyền Trump cấp ngân sách khẩn cấp để duy trì chương trình tem phiếu thực phẩm hỗ trợ người Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T01:27:59+07:00",
+      "fetched": "2025-11-01T10:09:05.350629+07:00"
     },
     {
       "id": "a95ffe40c3f65269baf10a50aadc560c",
