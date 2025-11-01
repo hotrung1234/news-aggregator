@@ -1,7 +1,157 @@
 window.newsData_2025_11_01 = {
   "date": "2025-11-01",
-  "lastUpdated": "2025-11-01T11:18:09.059528+07:00",
+  "lastUpdated": "2025-11-01T13:22:34.290854+07:00",
   "articles": [
+    {
+      "id": "a15fb33ebbd882320e72865a7d890707",
+      "title": "Trang trọng lễ dâng y Kathina Hoàng gia Thái Lan tại Việt Nam Quốc Tự",
+      "link": "https://tuoitre.vn/trang-trong-le-dang-y-kathina-hoang-gia-thai-lan-tai-viet-nam-quoc-tu-20251101114228542.htm",
+      "summary": "Lễ dâng y Kathina Hoàng gia Thái Lan lần thứ 18 diễn ra tại Việt Nam Quốc Tự, nhằm tăng cường tình hữu nghị giữa Việt Nam và Thái Lan thông qua Phật giáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.097027+07:00",
+      "fetched": "2025-11-01T13:22:28.097139+07:00"
+    },
+    {
+      "id": "1ff6bd1adcb4fa86e0ebd11d3f1bf79b",
+      "title": "Công an thu giữ 44 vòng đeo tay nghi chế tác từ ngà voi",
+      "link": "https://tuoitre.vn/cong-an-thu-giu-44-vong-deo-tay-nghi-che-tac-tu-nga-voi-20251101114208059.htm",
+      "summary": "Công an phường Cao Lãnh, tỉnh Đồng Tháp đã tạm giữ tang vật nghi vấn chế tác từ ngà voi do Lê Hoài Nam rao bán trên mạng. Trong lúc Nam đang giao dịch mua bán thì bị công an bắt quả tang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096905+07:00",
+      "fetched": "2025-11-01T13:22:28.097016+07:00"
+    },
+    {
+      "id": "1c6c1084103c7112412389f33dc47a47",
+      "title": "Đề xuất thanh tra toàn diện dự án Nâng cấp di tích kiến trúc nghệ thuật Dinh tỉnh Gò Công",
+      "link": "https://tuoitre.vn/de-xuat-thanh-tra-toan-dien-du-an-nang-cap-di-tich-kien-truc-nghe-thuat-dinh-tinh-go-cong-20251101110450992.htm",
+      "summary": "Xác định dự án Nâng cấp di tích kiến trúc nghệ thuật Dinh tỉnh Gò Công có nhiều sai phạm, UBND tỉnh Đồng Tháp đề xuất giao Thanh tra tỉnh thanh tra toàn diện đối với dự án này để làm rõ trách nhiệm của các tập thể, cá nhân....",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096779+07:00",
+      "fetched": "2025-11-01T13:22:28.096894+07:00"
+    },
+    {
+      "id": "c12109e44ca597e56ad3bf1636cc16c5",
+      "title": "Vào mùa đánh bắt cao điểm, ngư dân nhộn nhịp cân cả trăm tấn cá biển ở cảng cá Tắc Cậu",
+      "link": "https://tuoitre.vn/vao-mua-danh-bat-cao-diem-ngu-dan-nhon-nhip-can-ca-tram-tan-ca-bien-o-cang-ca-tac-cau-20251101114406182.htm",
+      "summary": "Cảng cá Tắc Cậu (xã Châu Thành, An Giang) là cảng cá sầm uất và đặc biệt ngay thời điểm này người dân và các chủ tàu ghe nhộn nhịp mua bán hàng trăm tấn cá biển tươi ngon.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096633+07:00",
+      "fetched": "2025-11-01T13:22:28.096766+07:00"
+    },
+    {
+      "id": "4e9b1dc6f959ed77ea046fa88e309484",
+      "title": "Nvidia cung cấp 260.000 chip cho Hàn Quốc xây siêu nhà máy AI",
+      "link": "https://tuoitre.vn/nvidia-cung-cap-260-000-chip-cho-han-quoc-xay-sieu-nha-may-ai-20251101124000455.htm",
+      "summary": "Nvidia sẽ cung cấp 260.000 chip đồ họa Blackwell cho chính phủ Hàn Quốc và các tập đoàn hàng đầu nước này để xây dựng nhà máy trí tuệ nhân tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096507+07:00",
+      "fetched": "2025-11-01T13:22:28.096621+07:00"
+    },
+    {
+      "id": "5866bb5e8362e5fc0f150bf46322e998",
+      "title": "Theo dấu tình báo, Thái Lan bắt nhóm lừa đảo trốn từ Myanmar, chuẩn bị sang Campuchia",
+      "link": "https://tuoitre.vn/theo-dau-tinh-bao-thai-lan-bat-nhom-lua-dao-tron-tu-myanmar-chuan-bi-sang-campuchia-20251101122715281.htm",
+      "summary": "Cảnh sát Thái Lan vừa bắt giữ 24 nghi phạm lừa đảo nước ngoài, phần lớn là người Philippines, những người đã chạy khỏi Myanmar và ẩn náu trong các biệt thự sang trọng tại Samut Prakan và Bangkok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096370+07:00",
+      "fetched": "2025-11-01T13:22:28.096495+07:00"
+    },
+    {
+      "id": "0506d7a5a53910b29ae7c329ced45794",
+      "title": "TP.HCM: nhiều chung cư vẫn 'trắng' sổ hồng",
+      "link": "https://tuoitre.vn/tp-hcm-nhieu-chung-cu-van-trang-so-hong-20251101075923969.htm",
+      "summary": "Hơn 58.000 căn hộ TP.HCM chưa có sổ hồng do chủ đầu tư chậm nghĩa vụ tài chính, thế chấp sổ đỏ, khiến cư dân bức xúc phản ánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096244+07:00",
+      "fetched": "2025-11-01T13:22:28.096358+07:00"
+    },
+    {
+      "id": "a17d69782ce45efe4a30c293badb9b59",
+      "title": "'5 chữ tự' - nguồn lực để đất nước bước vào kỷ nguyên mới",
+      "link": "https://tuoitre.vn/5-chu-tu-nguon-luc-de-dat-nuoc-buoc-vao-ky-nguyen-moi-20251101085231302.htm",
+      "summary": "Học viện Chính trị quốc gia Hồ Chí Minh và Hội đồng Lý luận Trung ương tổ chức hội thảo góp ý dự thảo văn kiện Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.096121+07:00",
+      "fetched": "2025-11-01T13:22:28.096232+07:00"
+    },
+    {
+      "id": "6192af3ef14361cff303799ee329b63a",
+      "title": "Chuyện của những người tư vấn du học",
+      "link": "https://tuoitre.vn/chuyen-cua-nhung-nguoi-tu-van-du-hoc-20251101091426402.htm",
+      "summary": "Tư vấn du học không chỉ dừng ở chọn ngành, chọn trường mà còn là hành trình dài giúp học sinh định hướng, tăng cơ hội học bổng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095997+07:00",
+      "fetched": "2025-11-01T13:22:28.096110+07:00"
+    },
+    {
+      "id": "47882d08b21a711cdf6ea306446e6da9",
+      "title": "Những trận bão lũ khủng khiếp - Kỳ cuối: Bài học đau xót từ cuồng phong Linda",
+      "link": "https://tuoitre.vn/nhung-tran-bao-lu-khung-khiep-ky-cuoi-bai-hoc-dau-xot-tu-cuong-phong-linda-20251031232310234.htm",
+      "summary": "Đúng 28 năm trước, bão Linda hình thành ở Biển Đông rồi tàn phá Côn Đảo, Kiên Giang, Bạc Liêu và Cà Mau, gây thiệt hại nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095869+07:00",
+      "fetched": "2025-11-01T13:22:28.095985+07:00"
+    },
+    {
+      "id": "e898c27efe114664ba85dcd86d553c8d",
+      "title": "Làm ánh sáng cho mẹ và tự 'chiếu sáng' đời mình, hai tân SV nhận học bổng đặc biệt",
+      "link": "https://tuoitre.vn/lam-anh-sang-cho-me-va-tu-chieu-sang-doi-minh-hai-tan-sv-nhan-hoc-bong-dac-biet-20251101000559307.htm",
+      "summary": "Từ ánh sáng của người mẹ mù, từ nỗi đau mất cha mẹ đến hành trình vượt nghịch cảnh, mỗi suất học bổng là lời nhắn đừng vì khó mà dừng bước, tương lai vẫn mở cho người dám đi tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095735+07:00",
+      "fetched": "2025-11-01T13:22:28.095858+07:00"
+    },
+    {
+      "id": "3e4f3e4e91dc11e59e5ed5ca19cf193c",
+      "title": "Vòng 10 Premier League: Đi tìm các đại gia",
+      "link": "https://tuoitre.vn/vong-10-premier-league-di-tim-cac-dai-gia-20251101102213484.htm",
+      "summary": "Trừ Arsenal băng băng thăng tiến với tư cách ứng viên số 1 cho chức vô địch, hầu hết các đội bóng được xem là \"đại gia\" của Premier League vẫn chưa cho thấy sức mạnh vượt trội sau 9 vòng đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095585+07:00",
+      "fetched": "2025-11-01T13:22:28.095722+07:00"
+    },
+    {
+      "id": "4e2d71ab1382de7db4fa61815ba032f9",
+      "title": "Hoạt động âm nhạc lệch chuẩn: Sai và sửa",
+      "link": "https://tuoitre.vn/hoat-dong-am-nhac-lech-chuan-sai-va-sua-20251101093305124.htm",
+      "summary": "Đã có những nghệ sĩ 'tự kiểm' về những sản phẩm âm nhạc có biểu hiện lệch chuẩn của chính mình, nhưng cần có hành lang pháp lý rõ ràng để họ yên tâm làm nghề và hiểu trách nhiệm của nghệ sĩ đến đâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095453+07:00",
+      "fetched": "2025-11-01T13:22:28.095573+07:00"
+    },
+    {
+      "id": "079018df368e4d5924c6e5080994a11d",
+      "title": "VinFast ra mắt 2 xe máy điện: Giá từ 14,9 triệu đồng, pin rời, chạy tới 135km/sạc",
+      "link": "https://tuoitre.vn/vinfast-ra-mat-2-xe-may-dien-gia-tu-14-9-trieu-dong-pin-roi-chay-toi-135km-sac-20251101105207324.htm",
+      "summary": "Hai mẫu xe máy điện mới của VinFast hướng tới đối tượng học sinh, sinh viên là chủ yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095312+07:00",
+      "fetched": "2025-11-01T13:22:28.095440+07:00"
+    },
+    {
+      "id": "2562f223d40a9f57f21ecafc173dd304",
+      "title": "Thương hiệu Việt lọt vào 'mắt xanh' của sàn giao dịch kim cương",
+      "link": "https://tuoitre.vn/thuong-hieu-viet-lot-vao-mat-xanh-cua-san-giao-dich-kim-cuong-20251101112749171.htm",
+      "summary": "Tierra Diamond thể hiện sẵn sàng trên hành trình hội nhập và khẳng định vị thế trên bản đồ xa xỉ toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T13:22:28.095085+07:00",
+      "fetched": "2025-11-01T13:22:28.095297+07:00"
+    },
     {
       "id": "f8f935a44ed991de7f3182ee7cc0d971",
       "title": "TP.HCM sẽ chi trả lương hưu qua tài khoản cá nhân từ 3-11",
@@ -443,6 +593,356 @@ window.newsData_2025_11_01 = {
       "fetched": "2025-11-01T08:21:22.524762+07:00"
     },
     {
+      "id": "b993ba326166804a2e2509b17ba080c6",
+      "title": "TP.HCM mưa lớn giữa trưa 1.11, đường Lê Văn Lương ngập sâu",
+      "link": "https://thanhnien.vn/tphcm-mua-lon-giua-trua-111-duong-le-van-luong-ngap-sau-185251101130358551.htm",
+      "summary": "Cơn mưa lớn vào giữa trưa 1.11 khiến nhiều tuyến đường, trong đó có đường Lê Văn Lương (phường Tân Hưng, TP.HCM) ngập sâu, người dân đi lại hết sức khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:20:00+07:00",
+      "fetched": "2025-11-01T13:22:27.248505+07:00"
+    },
+    {
+      "id": "2a7b106044ebafbc0a8894626dab11f8",
+      "title": "Mẹ thả con xuống giếng khiến bé tử vong",
+      "link": "https://thanhnien.vn/me-tha-con-xuong-gieng-khien-be-tu-vong-185251101121014477.htm",
+      "summary": "Công an tỉnh Đắk Lắk bắt khẩn cấp nghi phạm Nguyễn Thị Lê để điều tra về hành vi giết người, sau khi người này thả con ruột 1 tuổi xuống giếng khiến bé tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:20:00+07:00",
+      "fetched": "2025-11-01T13:22:27.248678+07:00"
+    },
+    {
+      "id": "7e5bceb9c4d5536a8469005a6497ee89",
+      "title": "Nghề làm mão, mặt nạ của đồng bào Khmer là di sản văn hóa phi vật thể",
+      "link": "https://thanhnien.vn/nghe-lam-mao-mat-na-cua-dong-bao-khmer-la-di-san-van-hoa-phi-vat-the-185251101124810696.htm",
+      "summary": "Bộ VH-TT-DL vừa có quyết định đưa vào danh mục di sản văn hóa phi vật thể quốc gia \"Nghề làm mão (mũ), mặt nạ của đồng bào Khmer\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:15:00+07:00",
+      "fetched": "2025-11-01T13:22:27.248880+07:00"
+    },
+    {
+      "id": "9d3e37d54fe21aad82d9e757334b8cd4",
+      "title": "Tây Ninh phát triển khu đô thị gần 10.000 tỷ đồng",
+      "link": "https://vnexpress.net/tay-ninh-phat-trien-khu-do-thi-gan-10-000-ty-dong-4958649.html",
+      "summary": "Liên danh Thắng Lợi Group, Gỗ An Cường và Central vừa khởi công khu đô thị Bình An Đức Hòa (The Win City) tại cửa ngõ phía Tây TP HCM, với tổng mức đầu tư gần 10.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:10:45+07:00",
+      "fetched": "2025-11-01T13:22:24.578019+07:00"
+    },
+    {
+      "id": "3c1f50fa3ef9a7500d6e43d4c021c1a9",
+      "title": "Quảng Trị: Ngập sâu, người dân Phong Nha khiêng heo chạy lũ",
+      "link": "https://thanhnien.vn/quang-tri-ngap-sau-nguoi-dan-phong-nha-khieng-heo-chay-lu-185251101115658312.htm",
+      "summary": "Mưa lớn, nhiều vùng ngập sâu, người dân ở xã Phong Nha (Quảng Trị) phải khiêng heo đến nơi cao ráo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:10:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249038+07:00"
+    },
+    {
+      "id": "6cdb6cba38a94f592636160f66562bdb",
+      "title": "Hướng về miền Trung",
+      "link": "https://vnexpress.net/huong-ve-mien-trung-4958456.html",
+      "summary": "Từ Nam ra Bắc, những chuyến xe nối đuôi nhau mang theo nhu yếu phẩm, quần áo... cùng lời nhắn gửi yêu thương của người dân, tất cả cùng hướng về miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:09:22+07:00",
+      "fetched": "2025-11-01T13:22:24.578200+07:00"
+    },
+    {
+      "id": "50b5d735c97c0fef78693ca4fe2f0997",
+      "title": "Bí ẩn người phụ nữ tử vong trong ô tô của người khác",
+      "link": "https://thanhnien.vn/bi-an-nguoi-phu-nu-tu-vong-trong-o-to-cua-nguoi-khac-185251101130803497.htm",
+      "summary": "Phát hiện chiếc ô tô đậu bên đường có dấu hiệu nghi vấn, người dân báo chủ xe đến kiểm tra thì phát hiện có người phụ nữ tử vong bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:08:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249192+07:00"
+    },
+    {
+      "id": "a00398e6e26b69bf80ff443060ffa4ac",
+      "title": "Sun PhuQuoc Airways chính thức bay tới Phú Quốc",
+      "link": "https://thanhnien.vn/sun-phuquoc-airways-chinh-thuc-bay-toi-phu-quoc-185251101130721304.htm",
+      "summary": "Sáng nay 1.11, Sun PhuQuoc Airways chính thức cất cánh những chuyến bay đầu tiên đến Phú Quốc, đánh dấu bước khởi đầu cho hãng hàng không nghỉ dưỡng đầu tiên của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:08:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249365+07:00"
+    },
+    {
+      "id": "2c22d6249a3a39a2455df0d5ec4b904e",
+      "title": "Ly cà phê kiểu gì giá gần 26 triệu đồng?",
+      "link": "https://thanhnien.vn/ly-ca-phe-kieu-gi-gia-gan-26-trieu-dong-185251101124012025.htm",
+      "summary": "Quán cà phê Julith ở Dubai đang chào bán loại cà phê đắt nhất thế giới, được pha chế từ hạt cà phê Panama, với giá 3.600 AED (gần 26 triệu đồng)/ly theo AFP hôm nay 1.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:07:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249519+07:00"
+    },
+    {
+      "id": "96efe0acc913d675e1f38f00ee7d2573",
+      "title": "Nhiều trẻ ở Hà Nội nhiễm cúm A",
+      "link": "https://vnexpress.net/nhieu-tre-o-ha-noi-nhiem-cum-a-4958650.html",
+      "summary": "Miền Bắc đang chuyển mùa, thời tiết mưa lạnh khiến virus cúm bùng phát, nhiều trẻ nhập viện trong tình trạng sốt cao, ho và sổ mũi, biến chứng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:06:21+07:00",
+      "fetched": "2025-11-01T13:22:24.578364+07:00"
+    },
+    {
+      "id": "7726e30f9c7ee43d65af057f2b6e1d92",
+      "title": "Show Bản giao hưởng đại dương 'tốt nhất thế giới' sắp diễn ra tại Phú Quốc",
+      "link": "https://thanhnien.vn/show-ban-giao-huong-dai-duong-tot-nhat-the-gioi-sap-dien-ra-tai-phu-quoc-185251101125733335.htm",
+      "summary": "Tháng 11 này, show diễn Bản giao hưởng đại dương chính thức quay trở lại Thị trấn Hoàng Hôn vào lúc 19 giờ 50 mỗi tối. Đây sẽ là màn trình diễn nghệ thuật pháo hoa, ánh sáng và thể thao mạo hiểm với quy mô lớn chưa từng có cùng công nghệ vượt trội và hệ thống ánh sáng tối tân cùng đội ngũ vận động v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:05:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249676+07:00"
+    },
+    {
+      "id": "a717f14b0ba37356f6b7a8ba00bbbbd5",
+      "title": "Đà Nẵng: Sạt lở, ngọn đồi đổ ầm ầm, tài xế xe múc may mắn thoát nạn",
+      "link": "https://thanhnien.vn/da-nang-sat-lo-ngon-doi-do-am-am-tai-xe-xe-muc-may-man-thoat-nan-185251101122525503.htm",
+      "summary": "Trong lúc đang xúc dọn đất do sạt lở trên QL40B, thuộc địa phận TP.Đà Nẵng, để thông tuyến, đất đá trên ngọn đồi cao bất ngờ sạt lở, đổ xuống ầm ầm, may mắn tài xế xe múc đang làm việc ở khu vực này được an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:05:00+07:00",
+      "fetched": "2025-11-01T13:22:27.249872+07:00"
+    },
+    {
+      "id": "5cea79837b943288321e840ce5af0fdf",
+      "title": "Đông Nam Á có thể thiệt hại lớn ra sao vì ô nhiễm không khí?",
+      "link": "https://thanhnien.vn/dong-nam-a-co-the-thiet-hai-lon-ra-sao-vi-o-nhiem-khong-khi-185251101110208627.htm",
+      "summary": "Một nghiên cứu mới cảnh báo rằng số ca tử vong do ô nhiễm không khí ở Đông Nam Á có thể tăng gần 10% và gây thiệt hại hơn 1.000 tỉ USD cho khu vực này vào năm 2050 nếu không có hành động hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:05:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250028+07:00"
+    },
+    {
+      "id": "18effa55920a5ddcdbd87ebcc3a1902a",
+      "title": "Hàng nghìn hộ dân hạ du hồ Kẻ Gỗ ngập lụt do mưa lớn",
+      "link": "https://thanhnien.vn/hang-nghin-ho-dan-ha-du-ho-ke-go-ngap-lut-do-mua-lon-185251101121143443.htm",
+      "summary": "Mưa lớn cộng với hồ Kẻ Gỗ tăng lưu lượng xả tràn khiến hàng nghìn hộ dân ở Hà Tĩnh bị ngập lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:02:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250178+07:00"
+    },
+    {
+      "id": "abfd004f8155df9e82c34ff499d3aa4a",
+      "title": "Hát 'Chuyến tàu hoàng hôn', TikToker 'triệu view' gây chú ý ở 'Tình bolero'",
+      "link": "https://thanhnien.vn/hat-chuyen-tau-hoang-hon-tiktoker-trieu-view-gay-chu-y-o-tinh-bolero-185251101104936055.htm",
+      "summary": "Kết hợp cùng Ưng Hoàng Phúc trong loạt ca khúc kinh điển, Hái Gia Liu nhận điểm tuyệt đối từ Hamlet Trương trong tập phát sóng mới đây của 'Tình bolero'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:01:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250332+07:00"
+    },
+    {
+      "id": "c5457f2a724e5b7199494258ef546e1e",
+      "title": "Giá vàng hôm nay 1.11.2025: Đứng yên nhưng người mua vẫn lỗ 3 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1112025-dung-yen-nhung-nguoi-mua-van-lo-3-trieu-dong-mot-luong-185251101061537176.htm",
+      "summary": "Giá vàng trong nước đứng yên dù thế giới quay đầu giảm khi nhà đầu tư bớt lo lắng về căng thẳng thương mại Mỹ - Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:01:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250485+07:00"
+    },
+    {
+      "id": "5324ad6682a368d85065055ffa77a92b",
+      "title": "Rầm rộ tuyển chọn người mẫu cho mùa thời trang cuối năm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ram-ro-tuyen-chon-nguoi-mau-cho-mua-thoi-trang-cuoi-nam-185251101085016262.htm",
+      "summary": "Hàng dài người mẫu xếp hàng đến 10 giờ đêm tham gia casting tìm cơ hội trình diễn tại Tuần lễ thời trang Quốc tế Việt Nam thu đông 2025; hơn 300 thí sinh tham gia buổi casting call của NTK Đỗ Long cho thấy sự sôi động của sàn diễn Việt mùa cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:00:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250640+07:00"
+    },
+    {
+      "id": "736fb419babcf8f17734d7d02a863bc4",
+      "title": "TP.HCM có nơi luộc trứng không cần đun nước, ăn lòng đào siêu ngon!",
+      "link": "https://thanhnien.vn/tphcm-co-noi-luoc-trung-khong-can-dun-nuoc-an-long-dao-sieu-ngon-185251031170132402.htm",
+      "summary": "Chỉ mất từ 7-10 phút, du khách có thể vớt trứng từ những hố nước suối khoáng nóng tới 82 độ C, trứng vớt lên lòng đào dẻo quẹo, ăn với rau răm và muối tiêu tắc siêu thơm ngon, nóng hổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T06:00:00+07:00",
+      "fetched": "2025-11-01T13:22:27.250826+07:00"
+    },
+    {
+      "id": "871155f7c9bc6fe89f71af8f609603b2",
+      "title": "Nguyễn Xuân Son có thể lên tuyển Việt Nam đấu Lào",
+      "link": "https://vnexpress.net/nguyen-xuan-son-co-the-len-tuyen-viet-nam-dau-lao-4958660.html",
+      "summary": "HLV Kim Sang-sik đề xuất triệu tập tiền đạo nhập tịch Nguyễn Xuân Son trong đợt tập trung đội tuyển Việt Nam tháng 11, chuẩn bị cho vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:39:50+07:00",
+      "fetched": "2025-11-01T13:22:24.578525+07:00"
+    },
+    {
+      "id": "871155f7c9bc6fe89f71af8f609603b2",
+      "title": "Nguyễn Xuân Son có thể lên tuyển Việt Nam đấu Lào",
+      "link": "https://vnexpress.net/nguyen-xuan-son-co-the-len-tuyen-viet-nam-dau-lao-4958660.html",
+      "summary": "HLV Kim Sang-sik đề xuất triệu tập tiền đạo nhập tịch Nguyễn Xuân Son trong đợt tập trung đội tuyển Việt Nam tháng 11, chuẩn bị cho vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T05:39:50+07:00",
+      "fetched": "2025-11-01T13:22:34.281545+07:00"
+    },
+    {
+      "id": "fd5c4d07cbb6ef5d1f40493e309a4619",
+      "title": "Biệt thự của diễn viên Trương Ngọc Ánh bị khám xét",
+      "link": "https://vnexpress.net/biet-thu-cua-dien-vien-truong-ngoc-anh-bi-kham-xet-4958654.html",
+      "summary": "Cơ quan điều tra đã khám xét biệt thự ở phường An Khánh (TP Thủ Đức cũ) của diễn viên Trương Ngọc Ánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:33:56+07:00",
+      "fetched": "2025-11-01T13:22:24.578682+07:00"
+    },
+    {
+      "id": "aecb43b2405150d732c95624bbe87433",
+      "title": "Trào lưu ném biên trỗi dậy ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/trao-luu-nem-bien-troi-day-o-ngoai-hang-anh-4958459.html",
+      "summary": "Từng bị xem là chiêu thức lỗi thời, những pha ném biên dài nay trở lại mạnh mẽ ở Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:15:53+07:00",
+      "fetched": "2025-11-01T13:22:24.578869+07:00"
+    },
+    {
+      "id": "aecb43b2405150d732c95624bbe87433",
+      "title": "Trào lưu ném biên trỗi dậy ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/trao-luu-nem-bien-troi-day-o-ngoai-hang-anh-4958459.html",
+      "summary": "Từng bị xem là chiêu thức lỗi thời, những pha ném biên dài nay trở lại mạnh mẽ ở Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T05:15:53+07:00",
+      "fetched": "2025-11-01T13:22:34.281741+07:00"
+    },
+    {
+      "id": "d51de79b0b014ecb125cf75447f36ebb",
+      "title": "6 bí mật về khoảng cách tuổi tác vợ chồng",
+      "link": "https://vnexpress.net/6-bi-mat-ve-khoang-cach-tuoi-tac-vo-chong-4958646.html",
+      "summary": "Đàn ông lấy vợ trẻ hơn có xu hướng sống lâu hơn, trong khi phụ nữ sống thọ nhất khi bạn đời bằng tuổi, theo một nghiên cứu tại Đan Mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:15:32+07:00",
+      "fetched": "2025-11-01T13:22:24.579030+07:00"
+    },
+    {
+      "id": "0c53ce42a30c39feb0bb415a3da0dc56",
+      "title": "10 kiểu mặc áo khoác len đi làm",
+      "link": "https://vnexpress.net/10-kieu-mac-ao-khoac-len-di-lam-4958226.html",
+      "summary": "Áo khoác len và chân váy mini là một trong những kiểu kết hợp phổ biến, được các fashionista ưa chuộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:09:39+07:00",
+      "fetched": "2025-11-01T13:22:24.579190+07:00"
+    },
+    {
+      "id": "cc80298d2575a449f332208d09080078",
+      "title": "Arsenal đang hay hơn mùa giải Bất bại?",
+      "link": "https://vnexpress.net/arsenal-dang-hay-hon-mua-giai-bat-bai-4958387.html",
+      "summary": "Không thể tái lập thành tích bất bại như mùa giải Ngoại hạng Anh 2003-2004, nhưng Arsenal đang chơi bóng theo cách gần như không thể bị xuyên thủng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:06:16+07:00",
+      "fetched": "2025-11-01T13:22:24.579344+07:00"
+    },
+    {
+      "id": "cc80298d2575a449f332208d09080078",
+      "title": "Arsenal đang hay hơn mùa giải Bất bại?",
+      "link": "https://vnexpress.net/arsenal-dang-hay-hon-mua-giai-bat-bai-4958387.html",
+      "summary": "Không thể tái lập thành tích bất bại như mùa giải Ngoại hạng Anh 2003-2004, nhưng Arsenal đang chơi bóng theo cách gần như không thể bị xuyên thủng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T05:06:16+07:00",
+      "fetched": "2025-11-01T13:22:34.281908+07:00"
+    },
+    {
+      "id": "cf685b9ad9b790c9dee70630027604f3",
+      "title": "Trung Quốc chi gần tỷ USD mua sầu riêng Việt trong một tháng",
+      "link": "https://vnexpress.net/trung-quoc-chi-gan-ty-usd-mua-sau-rieng-viet-trong-mot-thang-4958596.html",
+      "summary": "Tháng 9, Trung Quốc chi gần 1 tỷ USD nhập sầu riêng Việt, tăng 67,7% so với tháng trước và chiếm tới 93,6% tổng kim ngạch xuất khẩu mặt hàng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:14+07:00",
+      "fetched": "2025-11-01T13:22:24.579513+07:00"
+    },
+    {
+      "id": "cf685b9ad9b790c9dee70630027604f3",
+      "title": "Trung Quốc chi gần tỷ USD mua sầu riêng Việt trong một tháng",
+      "link": "https://vnexpress.net/trung-quoc-chi-gan-ty-usd-mua-sau-rieng-viet-trong-mot-thang-4958596.html",
+      "summary": "Tháng 9, Trung Quốc chi gần 1 tỷ USD nhập sầu riêng Việt, tăng 67,7% so với tháng trước và chiếm tới 93,6% tổng kim ngạch xuất khẩu mặt hàng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-01T05:00:14+07:00",
+      "fetched": "2025-11-01T13:22:30.954993+07:00"
+    },
+    {
+      "id": "467697a916db4308624e5312758430ee",
+      "title": "Tôi phải xin lỗi vợ sau hai ngày tự cầm tiền chi tiêu gia đình",
+      "link": "https://vnexpress.net/toi-phai-xin-loi-vo-sau-hai-ngay-tu-cam-tien-chi-tieu-gia-dinh-4958349.html",
+      "summary": "Tôi từng bảo vợ tiêu gì mà nhiều thế, vậy là hôm sau cô ấy cho tôi cầm tài chính, chi tiêu được hai hôm, tôi phải xin lỗi vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:24.579671+07:00"
+    },
+    {
+      "id": "fa69beb3cf541bcf7ff14b7252161f5e",
+      "title": "Đồng tiền nào có giá nhất thế giới?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-dong-tien-nao-co-gia-nhat-the-gioi-4958198.html",
+      "summary": "Khi nhắc đến những đồng tiền mạnh nhất, nhiều người thường nghĩ đến Đô la Mỹ, Bảng Anh hay Euro, nhưng giá trị của chúng đã cao nhất thế giới?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:24.579858+07:00"
+    },
+    {
+      "id": "61ba3024b92b55888dbfdc85e722dc73",
+      "title": "Nước nào có biên giới giáp nhiều quốc gia nhất hành tinh?",
+      "link": "https://vnexpress.net/nuoc-nao-co-bien-gioi-giap-nhieu-quoc-gia-nhat-hanh-tinh-4951035.html",
+      "summary": "Nhiều quốc gia trên thế giới có đường biên dài lên đến 24.000 km, gấp gần 6 lần đường biên giới của Việt Nam trên đất liền, với hơn 4.600 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:24.580025+07:00"
+    },
+    {
+      "id": "5fc4e690ea043371f3187526464cf7e8",
+      "title": "Sun PhuQuoc Airways cất cánh chuyến bay đầu tiên",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-cat-canh-chuyen-bay-dau-tien-4958634.html",
+      "summary": "Chuyến bay đầu tiên của Sun PhuQuoc Airways khởi hành từ Nội Bài, đưa 220 hành khách đầu tiên trên Airbus A321 đến Phú Quốc, sáng 1/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:24.580177+07:00"
+    },
+    {
+      "id": "2fda3f1ea83b62ee81c5dd55bc53059e",
+      "title": "Vinhomes Green Paradise ứng dụng công nghệ gia cố bùn của Nhật",
+      "link": "https://vnexpress.net/vinhomes-green-paradise-ung-dung-cong-nghe-gia-co-bun-cua-nhat-4958623.html",
+      "summary": "Công ty cổ phần Đô thị Du lịch Cần Giờ (thuộc Vingroup) hợp tác liên danh nhà thầu do MCIC Vietnam đại diện, ứng dụng công nghệ K-DPM gia cố nền bùn cho Vinhomes Green Paradise Cần Giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:24.580335+07:00"
+    },
+    {
+      "id": "5fc4e690ea043371f3187526464cf7e8",
+      "title": "Sun PhuQuoc Airways cất cánh chuyến bay đầu tiên",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-cat-canh-chuyen-bay-dau-tien-4958634.html",
+      "summary": "Chuyến bay đầu tiên của Sun PhuQuoc Airways khởi hành từ Nội Bài, đưa 220 hành khách đầu tiên trên Airbus A321 đến Phú Quốc, sáng 1/11.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-01T05:00:00+07:00",
+      "fetched": "2025-11-01T13:22:30.956169+07:00"
+    },
+    {
       "id": "7b991ae5b20089b77e7c5f791456c3e3",
       "title": "Thủ tướng họp về trung tâm tài chính quốc tế với tư vấn từ Anh, Hồng Kông",
       "link": "https://thanhnien.vn/thu-tuong-hop-ve-trung-tam-tai-chinh-quoc-te-voi-tu-van-tu-anh-hong-kong-185251101102048847.htm",
@@ -591,6 +1091,16 @@ window.newsData_2025_11_01 = {
       "category": "Thế giới",
       "published": "2025-11-01T03:59:11+07:00",
       "fetched": "2025-11-01T11:18:01.945653+07:00"
+    },
+    {
+      "id": "77eac460df68666dc7efcb3dfd0d559e",
+      "title": "Hoạt động tài chính đáng ngờ của ông trùm Chen Zhi ở Singapore",
+      "link": "https://vnexpress.net/hoat-dong-tai-chinh-dang-ngo-cua-ong-trum-chen-zhi-o-singapore-4956873.html",
+      "summary": "Lợi dụng môi trường kinh doanh ở Singapore, ông trùm Chen Zhi bị cáo buộc đã tìm cách \"hợp pháp hóa\" nhiều tài sản thu được từ hoạt động lừa đảo trực tuyến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T03:59:11+07:00",
+      "fetched": "2025-11-01T13:22:29.548667+07:00"
     },
     {
       "id": "dc241d637539bc6a979d448b6a02ed41",
