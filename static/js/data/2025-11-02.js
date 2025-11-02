@@ -1,7 +1,157 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T17:15:43.865727+07:00",
+  "lastUpdated": "2025-11-02T19:30:05.522176+07:00",
   "articles": [
+    {
+      "id": "33cf16ce2ded629f1cf32301d8500408",
+      "title": "Tài xế dừng xe giúp người khiếm thị qua đường nhận cơn 'mưa tim'",
+      "link": "https://tuoitre.vn/tai-xe-dung-xe-giup-nguoi-khiem-thi-qua-duong-nhan-con-mua-tim-20251102153947466.htm",
+      "summary": "Thấy đèn giao thông chuyển xanh mà người đàn ông khiếm thị vẫn chưa qua đường được, tài xế xe ôm công nghệ nhanh chóng chạy đến hỗ trợ người này qua hết phần đường còn lại. Hành động của nam tài xế khiến nhiều người thích thú và hết lời khen ngợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.666607+07:00",
+      "fetched": "2025-11-02T19:29:58.666721+07:00"
+    },
+    {
+      "id": "39495a64b0e8fe753cc660a4f6dc606c",
+      "title": "Cao tốc Biên Hòa - Vũng Tàu: Dốc toàn lực thông xe kỹ thuật ngày 19-12 tới",
+      "link": "https://tuoitre.vn/cao-toc-bien-hoa-vung-tau-doc-toan-luc-thong-xe-ky-thuat-ngay-19-12-toi-20251102162033719.htm",
+      "summary": "Bộ trưởng Bộ Xây dựng Trần Hồng Minh yêu cầu các nhà thầu dốc toàn lực, quyết cao nhất để thông xe kỹ thuật cao tốc Biên Hòa - Vũng Tàu đúng tiến độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.666480+07:00",
+      "fetched": "2025-11-02T19:29:58.666596+07:00"
+    },
+    {
+      "id": "004d8ce1614c80f78029f19cf137b8a9",
+      "title": "Bất chấp đe dọa của ông Trump, Iran tuyên bố tái thiết hạt nhân mạnh hơn",
+      "link": "https://tuoitre.vn/bat-chap-de-doa-cua-ong-trump-iran-tuyen-bo-tai-thiet-hat-nhan-manh-hon-20251102162722667.htm",
+      "summary": "Tổng thống Iran tuyên bố sẽ tái xây dựng các cơ sở hạt nhân “với sức mạnh lớn hơn”, dù những cơ sở này đã bị Mỹ oanh kích hồi tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.666350+07:00",
+      "fetched": "2025-11-02T19:29:58.666465+07:00"
+    },
+    {
+      "id": "09ba0302d1ad07d37b99ebc24b1569b3",
+      "title": "Vũ Thị Trang vô địch 2 giải cầu lông quốc tế ở tuổi 33",
+      "link": "https://tuoitre.vn/vu-thi-trang-vo-dich-2-giai-cau-long-quoc-te-o-tuoi-33-2025110217030515.htm",
+      "summary": "Ở tuổi 33, tay vợt cầu lông Vũ Thị Trang đang có màn hồi xuân mạnh mẽ khi vô địch liên tiếp 2 giải quốc tế diễn ra trên sân nhà Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.666226+07:00",
+      "fetched": "2025-11-02T19:29:58.666339+07:00"
+    },
+    {
+      "id": "aa9602743757064e80fa1de28bb6ed76",
+      "title": "Bộ đội biên phòng Cà Mau cứu được 2 vợ chồng bị chìm tàu trên biển",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-ca-mau-cuu-duoc-2-vo-chong-bi-chim-tau-tren-bien-20251102170912718.htm",
+      "summary": "Chiều 2-11, Đồn biên phòng Khánh Hội (Bộ đội biên phòng Cà Mau) cho biết đơn vị vừa cứu kịp thời 2 ngư dân gặp nạn trên biển do sóng to gió lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.666099+07:00",
+      "fetched": "2025-11-02T19:29:58.666215+07:00"
+    },
+    {
+      "id": "8f3bd94f29ce9e33fe53611b28132415",
+      "title": "Hàng trăm drone Ukraine 'tổng tấn công' cảng dầu Nga ở Biển Đen",
+      "link": "https://tuoitre.vn/hang-tram-drone-ukraine-tong-tan-cong-cang-dau-nga-o-bien-den-20251102165817158.htm",
+      "summary": "Một cuộc tấn công bằng drone của Ukraine đã làm hư hại một tàu chở dầu và nhiều cơ sở hạ tầng tại cảng dầu của Nga ở Biển Đen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665959+07:00",
+      "fetched": "2025-11-02T19:29:58.666087+07:00"
+    },
+    {
+      "id": "afb2d5d0aba55f356db2de211f72ee25",
+      "title": "Nhiều đường ở Huế lại ngập do mưa lớn, nước sông dâng cao, dự báo tối nay có mưa nữa",
+      "link": "https://tuoitre.vn/nhieu-duong-o-hue-lai-ngap-do-mua-lon-nuoc-song-dang-cao-du-bao-toi-nay-co-mua-nua-20251102170330937.htm",
+      "summary": "Nhiều tuyến đường ở TP Huế lại tái ngập lụt do nước trên các sông dâng lên và mưa lớn diện rộng. Đây là trận lụt thứ 3 ở Huế chỉ trong vòng 1 tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665823+07:00",
+      "fetched": "2025-11-02T19:29:58.665948+07:00"
+    },
+    {
+      "id": "a341b12491dba25062c7aaeb926a14b3",
+      "title": "Nữ sinh lớp 8 bị đánh hội đồng ở An Giang: Chuyển hồ sơ qua công an điều tra, giám định thương tích",
+      "link": "https://tuoitre.vn/nu-sinh-lop-8-bi-danh-hoi-dong-o-an-giang-chuyen-ho-so-qua-cong-an-dieu-tra-giam-dinh-thuong-tich-20251102145635169.htm",
+      "summary": "Với vụ em D.T.A. - học sinh lớp 8 ở Trường THCS và THPT Vân Khánh (xã Vân Khánh, An Giang) bị đánh hội đồng, gây xôn xao dư luận, địa phương đã chuyển hồ sơ sang công an điều tra, giám định thương tích để xử lý, không bao che.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665681+07:00",
+      "fetched": "2025-11-02T19:29:58.665797+07:00"
+    },
+    {
+      "id": "5c03a87f1a92d389f4756fcff4a7b16b",
+      "title": "Hàng trăm ngàn người đổ về Hội chợ mùa thu cuối tuần ‘mua’ cả thế giới, vừa ăn vừa chơi tẹt ga",
+      "link": "https://tuoitre.vn/hang-tram-ngan-nguoi-do-ve-hoi-cho-mua-thu-cuoi-tuan-mua-ca-the-gioi-vua-an-vua-choi-tet-ga-2025110216334742.htm",
+      "summary": "Hàng trăm ngàn người đổ về Hội chợ Mùa thu dịp cuối tuần để mua sắm, vui chơi không giới hạn cùng thưởng thức ẩm thực với các Master Chef, hơn 100 loại bia cùng hàng vạn món nướng Âu - Á cũng như một vòng 'mỹ vị' Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665554+07:00",
+      "fetched": "2025-11-02T19:29:58.665670+07:00"
+    },
+    {
+      "id": "f0f91a3aa50d14caaf76e607809d76e2",
+      "title": "Xuất khẩu hồ tiêu của Việt Nam dự báo đạt 1,5 tỉ USD",
+      "link": "https://tuoitre.vn/xuat-khau-ho-tieu-cua-viet-nam-du-bao-dat-1-5-ti-usd-20251102165052785.htm",
+      "summary": "Được mệnh danh là \"vàng đen\", giá trị xuất khẩu của hồ tiêu Việt Nam đã lập kỷ lục mới và dự báo đến hết năm nay có thể đạt 1,5 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665424+07:00",
+      "fetched": "2025-11-02T19:29:58.665542+07:00"
+    },
+    {
+      "id": "eabaf84ceb995b38151da76b1d9f9dea",
+      "title": "Điểm tin 18h: Nhiều 'ông lớn' ngành xây dựng báo lãi tăng đột biến; Nvidia đạt 5.000 tỉ USD",
+      "link": "https://tuoitre.vn/diem-tin-18h-nhieu-ong-lon-nganh-xay-dung-bao-lai-tang-dot-bien-nvidia-dat-5-000-ti-usd-2025110216361634.htm",
+      "summary": "Điểm tin 18h: Nhiều 'ông lớn' ngành xây dựng báo lãi tăng đột biến; Nvidia đạt 5.000 tỉ USD",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665294+07:00",
+      "fetched": "2025-11-02T19:29:58.665412+07:00"
+    },
+    {
+      "id": "9485233b78deb5a0513b422bea2efe31",
+      "title": "Thị trưởng ở Mexico bị ám sát giữa chốn đông người",
+      "link": "https://tuoitre.vn/thi-truong-o-mexico-bi-am-sat-giua-chon-dong-nguoi-20251102172552494.htm",
+      "summary": "Thị trưởng thành phố Uruapan (Mexico), nổi tiếng chống băng đảng, bị ám sát bên ngoài nhà thờ khi tham dự dịp lễ “Ngày của Người chết”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665153+07:00",
+      "fetched": "2025-11-02T19:29:58.665272+07:00"
+    },
+    {
+      "id": "afb9669eed82a634eb54487c5b7e1e50",
+      "title": "Lãnh đạo Lâm Đồng yêu cầu công an khẩn trương điều tra vụ vỡ hồ nước tự xây trên núi gây chết người",
+      "link": "https://tuoitre.vn/lanh-dao-lam-dong-yeu-cau-cong-an-khan-truong-dieu-tra-vu-vo-ho-nuoc-tu-xay-tren-nui-gay-chet-nguoi-20251102170010944.htm",
+      "summary": "\"Bom nước\" càn quét qua thôn 2 Phong Phú, xã Tuy Phong (Lâm Đồng) trong đêm khiến em L.T.B.T., 13 tuổi, nạn nhân bị cuốn trôi, tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.665016+07:00",
+      "fetched": "2025-11-02T19:29:58.665140+07:00"
+    },
+    {
+      "id": "a73b6e94c9170c64f902773e7ac0b92f",
+      "title": "Sạt lở đất vùi lấp 6 căn nhà, cứu sống một người dân",
+      "link": "https://tuoitre.vn/sat-lo-dat-vui-lap-6-can-nha-cuu-song-mot-nguoi-dan-2025110217515521.htm",
+      "summary": "Vụ sạt lở đất ở xã miền núi Đà Nẵng vùi lấp 6 căn nhà, một người may mắn được lực lượng chức năng cứu kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.664867+07:00",
+      "fetched": "2025-11-02T19:29:58.665003+07:00"
+    },
+    {
+      "id": "72b9f43a51e4b34cb72eb9a03237e523",
+      "title": "Bão Kalmaegi có thể mạnh tới cấp 14 ở Biển Đông",
+      "link": "https://tuoitre.vn/bao-kalmaegi-co-the-manh-toi-cap-14-o-bien-dong-20251102173826063.htm",
+      "summary": "Dự báo khoảng ngày 5-11, bão Kalmaegi có khả năng đi vào Biển Đông và trở thành cơn bão số 13 trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T19:29:58.664615+07:00",
+      "fetched": "2025-11-02T19:29:58.664850+07:00"
+    },
     {
       "id": "02c942488b32f78ab457897f1d229d09",
       "title": "Những vòng xe đạp chở ước mơ đến trường",
@@ -453,6 +603,166 @@ window.newsData_2025_11_02 = {
       "fetched": "2025-11-02T13:23:46.569390+07:00"
     },
     {
+      "id": "74942280bcd0f79f15cc9f26625dbd25",
+      "title": "Cận cảnh cầu Cây Sung ở Quảng Ngãi bị lũ cuốn trôi, chia cắt 250 hộ dân",
+      "link": "https://thanhnien.vn/can-canh-cau-cay-sung-o-quang-ngai-bi-lu-cuon-troi-chia-cat-250-ho-dan-185251102174459981.htm",
+      "summary": "Sáng 2.11, trao đổi với PV Thanh Niên, ông Phạm Quang Sự, Chủ tịch UBND xã Bình Minh (Quảng Ngãi), cho biết vụ sập cầu Cây Sung xảy ra khoảng 5 giờ 15 cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:19:00+07:00",
+      "fetched": "2025-11-02T19:29:57.279499+07:00"
+    },
+    {
+      "id": "0cd3d3940aa88b8e78fdff9d5715faef",
+      "title": "Thót tim cảnh giải cứu người dân bị vùi lấp do sạt lở",
+      "link": "https://thanhnien.vn/thot-tim-canh-giai-cuu-nguoi-dan-bi-vui-lap-do-sat-lo-185251102191349606.htm",
+      "summary": "Theo thông tin ban đầu, vào khoảng 15 giờ ngày 2.11.2025, tại thôn 4, xã Phước Thành (TP Đà Nẵng, địa bàn trước đây thuộc huyện Phước Sơn, Quảng Nam) xảy ra vụ sạt lở đất nghiêm trọng. Khối lượng đất đá lớn từ ta luy bất ngờ đổ xuống, vùi lấp 6 căn nhà và một người dân đang ở bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:16:00+07:00",
+      "fetched": "2025-11-02T19:29:57.279672+07:00"
+    },
+    {
+      "id": "2a72a5cc4fb539c7bdb784304c539245",
+      "title": "Đà Nẵng: Mưa lớn gây sạt lở, vùi lấp 6 nhà dân",
+      "link": "https://thanhnien.vn/da-nang-mua-lon-gay-sat-lo-vui-lap-6-nha-dan-185251102184150531.htm",
+      "summary": "Mưa lớn trở lại, gây sạt lở đất nghiêm trọng tại xã Phước Thành (TP.Đà Nẵng) vùi lấp 6 nhà dân. Công an xã lao vào vùng nguy hiểm cứu người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:09:00+07:00",
+      "fetched": "2025-11-02T19:29:57.279849+07:00"
+    },
+    {
+      "id": "e5f6e312966ac0a0aca901d7746765a5",
+      "title": "Mưa lớn trở lại, học sinh toàn TP.Huế tiếp tục nghỉ học",
+      "link": "https://thanhnien.vn/mua-lon-tro-lai-hoc-sinh-toan-tphue-tiep-tuc-nghi-hoc-185251102174958597.htm",
+      "summary": "Do tình hình mưa lũ diễn biến phức tạp, nước các sông tiếp tục dâng cao, để đảm bảo an toàn cho giáo viên và học sinh, ngày 2.11, Sở GD-ĐT TP.Huế tiếp tục cho học sinh nghỉ học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:07:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280008+07:00"
+    },
+    {
+      "id": "5a557d2092cf0c7ca1bea10dd80200f6",
+      "title": "Nổ tại siêu thị Mexico, 23 người thiệt mạng",
+      "link": "https://vnexpress.net/no-tai-sieu-thi-mexico-23-nguoi-thiet-mang-4958959.html",
+      "summary": "Vụ nổ tại siêu thị ở miền bắc Mexico, nghi do máy biến áp gặp sự cố, khiến ít nhất 23 người thiệt mạng và 12 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T12:03:46+07:00",
+      "fetched": "2025-11-02T19:30:00.459466+07:00"
+    },
+    {
+      "id": "fa0918d6855154676ab9bbdcb40d9377",
+      "title": "Quảng Ngãi: Làm cầu sắt tạm giúp hơn 1.800 người dân tránh bị cô lập",
+      "link": "https://thanhnien.vn/quang-ngai-lam-cau-sat-tam-giup-hon-1800-nguoi-dan-tranh-bi-co-lap-185251102180540386.htm",
+      "summary": "Các đơn vị đang khẩn trương làm cầu sắt tạm, khắc phục tình trạng cô lập của 316 hộ dân (với 1.820 nhân khẩu) ở thôn Phước An, xã Bình Minh (Quảng Ngãi), sau khi cầu Cây Sung bị sập do mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:03:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280163+07:00"
+    },
+    {
+      "id": "b3476e99f227c7aef245bafdb36264bb",
+      "title": "Đại tướng Phan Văn Giang hội đàm với Bộ trưởng Bộ Chiến tranh Mỹ",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-hoi-dam-voi-bo-truong-bo-chien-tranh-my-185251102164155773.htm",
+      "summary": "Ngày 2.11, tại Hà Nội, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng chủ trì lễ đón ông Pete Hegseth, Bộ trưởng Bộ Chiến tranh Mỹ sang thăm Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T12:02:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280314+07:00"
+    },
+    {
+      "id": "571bcd50a82d0e5e43b86f624abbe812",
+      "title": "Tên lửa hành trình khác đạn đạo thế nào",
+      "link": "https://vnexpress.net/ten-lua-hanh-trinh-khac-dan-dao-the-nao-4957468.html",
+      "summary": "Tên lửa hành trình có độ chính xác cao và tránh được radar, trong khi tên lửa đạn đạo bay nhanh và đủ sức xuyên thủng lá chắn phòng không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T12:00:00+07:00",
+      "fetched": "2025-11-02T19:30:00.459644+07:00"
+    },
+    {
+      "id": "99e0b68c4077d4a75af913a768a7320a",
+      "title": "Giá vàng tuần tới có thể đi ngang",
+      "link": "https://vnexpress.net/gia-vang-tuan-toi-co-the-di-ngang-4958939.html",
+      "summary": "Giới chuyên gia cho rằng giá vàng vẫn chưa có xu hướng rõ ràng và có thể đi ngang như giai đoạn tháng 1-4 năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T12:00:00+07:00",
+      "fetched": "2025-11-02T19:30:02.203247+07:00"
+    },
+    {
+      "id": "1ad507761eb919947851565e696d14a3",
+      "title": "Vụ vỡ hồ chứa nước ở Tuy Phong: Chủ tịch UBND tỉnh yêu cầu điều tra, làm rõ",
+      "link": "https://thanhnien.vn/vu-vo-ho-chua-nuoc-o-tuy-phong-chu-tich-ubnd-tinh-yeu-cau-dieu-tra-lam-ro-185251102173433838.htm",
+      "summary": "Vụ vỡ hồ chứa nước trên núi Tân Lai (xã Tuy Phong, Lâm Đồng) đêm 1.11 khiến bé gái 13 tuổi bị nước cuốn tử vong và nhiều nhà dân tan hoang. Trưa 2.11, Chủ tịch UBND tỉnh Lâm Đồng Hồ Văn Mười đến hiện trường, yêu cầu điều tra làm rõ tính pháp lý công trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:52:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280464+07:00"
+    },
+    {
+      "id": "6537ea9689b909ae419066f8f51a3689",
+      "title": "Có nên thổ lộ tình cảm với người yêu đầu khi em chuẩn bị bỏ chồng",
+      "link": "https://vnexpress.net/co-nen-tho-lo-tinh-cam-voi-nguoi-yeu-dau-khi-em-chuan-bi-bo-chong-4957442.html",
+      "summary": "Tôi nên im lặng để quá khứ ngủ yên hay lần nữa chủ động thổ lộ tình cảm với em, hỏi em xem hai đứa có thể bắt đầu lại?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:45:07+07:00",
+      "fetched": "2025-11-02T19:29:54.318788+07:00"
+    },
+    {
+      "id": "76305b3fb5dd0d405e1513b6f67fa8ae",
+      "title": "Trang phục ở sân bay của Lisa vấp phản ứng",
+      "link": "https://vnexpress.net/trang-phuc-o-san-bay-cua-lisa-vap-phan-ung-4958952.html",
+      "summary": "Lisa của Blackpink diện mốt áo khoác in hình nội y khiến nhiều người nói lầm tưởng cô \"mặc đồ lót ra sân bay\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:43:42+07:00",
+      "fetched": "2025-11-02T19:29:54.318998+07:00"
+    },
+    {
+      "id": "8568b916b688fc2e45e97159a1132da4",
+      "title": "Giải bóng đá người Việt tại Nhật ủng hộ đồng bào miền Trung gặp thiên tai",
+      "link": "https://thanhnien.vn/giai-bong-da-nguoi-viet-tai-nhat-ung-ho-dong-bao-mien-trung-gap-thien-tai-18525110218165437.htm",
+      "summary": "Ngày 9.11 tới đây, tại Khu liên hiệp thể thao Redsland, thành phố Saitama Nhật Bản, sẽ diễn ra đại hội bóng đá tranh cúp vô địch toàn quốc dành cho cộng đồng người Việt tại Nhật. Giải sẽ phát động quyên góp gửi về giúp đỡ bà con miền Trung đang gặp khó khăn do thiên tai, bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:39:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280621+07:00"
+    },
+    {
+      "id": "30d4a6ecc4db9a3ee68cbd3c2a2aae7a",
+      "title": "Sạt lở núi nghiêm trọng ở Quảng Ngãi: Bộ đội mở đường phá thế cô lập",
+      "link": "https://thanhnien.vn/sat-lo-nui-nghiem-trong-o-quang-ngai-bo-doi-mo-duong-pha-the-co-lap-185251102183707778.htm",
+      "summary": "Sau nhiều ngày bị cô lập do sạt lở núi nghiêm trọng, gần 200 cán bộ, chiến sĩ Sư đoàn 10 (Quân đoàn 3) đã khẩn trương có mặt tại xã Ngọc Linh (tỉnh Quảng Ngãi) để mở đường tạm, nối lại tuyến giao thông vào 5 thôn bị chia cắt",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:37:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280778+07:00"
+    },
+    {
+      "id": "3b2378011406d91611a5c4721b204171",
+      "title": "12 đội bóng tranh tài tại THACO CUP 2025: Sân chơi lớn của sinh viên TP.HCM",
+      "link": "https://thanhnien.vn/12-doi-bong-tranh-tai-tai-thaco-cup-2025-san-choi-lon-cua-sinh-vien-tphcm-185251102171108163.htm",
+      "summary": "Hai giải bóng đá lớn dành cho sinh viên, giải bóng đá sinh viên ĐH Quốc gia TP.HCM mở rộng - THACO CUP 2025 và giải bóng đá futsal sinh viên ĐH Quốc gia TP.HCM - THACO CUP 2025, đã chính thức khởi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:31:00+07:00",
+      "fetched": "2025-11-02T19:29:57.280955+07:00"
+    },
+    {
+      "id": "61126a4be256eac76a26ed05be8129c2",
+      "title": "Bão Kalmaegi vào Biển Đông trưa ngày 5.11, giật cấp siêu bão",
+      "link": "https://thanhnien.vn/bao-kalmaegi-vao-bien-dong-trua-ngay-511-giat-cap-sieu-bao-185251102182204935.htm",
+      "summary": "Chiều nay, Trung tâm Dự báo khí tượng thủy văn quốc gia (NCHMF) vừa phát bản tin cảnh báo về cơn bão Kalmaegi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:24:00+07:00",
+      "fetched": "2025-11-02T19:29:57.281115+07:00"
+    },
+    {
       "id": "3ac99ef5a035f447cfa7b22d9014c5fc",
       "title": "Bão Kalmaegi là cơn bão mạnh trên Biển Đông, có thể ảnh hưởng Đà Nẵng - Khánh Hòa",
       "link": "https://tuoitre.vn/bao-kalmaegi-la-con-bao-manh-tren-bien-dong-co-the-anh-huong-da-nang-khanh-hoa-2025110208305903.htm",
@@ -601,6 +911,176 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T11:19:56.216738+07:00",
       "fetched": "2025-11-02T11:19:56.216952+07:00"
+    },
+    {
+      "id": "17cd10d5bef6d8ee4073c1b0cd73d7c5",
+      "title": "Chế ròng rọc tiếp tế người dân sau khi cầu bị lũ cuốn sập",
+      "link": "https://vnexpress.net/che-rong-roc-tiep-te-nguoi-dan-sau-khi-cau-bi-lu-cuon-sap-4958956.html",
+      "summary": "Người dân, chính quyền xã Bình Minh chế ròng rọc chuyền từng gói mì, túi gạo, bình nước sang bên kia bờ, sau khi cầu bị lũ cuốn sập, cô lập hơn 1.300 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:17:04+07:00",
+      "fetched": "2025-11-02T19:29:54.319165+07:00"
+    },
+    {
+      "id": "6636ba6147b7fdcc44d3354eb4e12c1e",
+      "title": "Y-Fest TP.HCM: Màn trình diễn ấn tượng và cảm xúc từ các nghệ sĩ quốc tế",
+      "link": "https://thanhnien.vn/y-fest-tphcm-man-trinh-dien-an-tuong-va-cam-xuc-tu-cac-nghe-si-quoc-te-185251102180351545.htm",
+      "summary": "Lần đầu tiên, sự kiện được kết nối với điểm cầu phố đi bộ Hà Nội nối liền và thăng hoa cảm xúc cho khán giả hai miền Bắc - Nam. Đặc biệt, màn trình diễn không trọng lực xuất hiện ấn tượng ngay trên sân khấu Y-FEST sẽ đưa khán giả bay lên cùng âm nhạc theo đúng nghĩa đen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:02:00+07:00",
+      "fetched": "2025-11-02T19:29:57.281265+07:00"
+    },
+    {
+      "id": "65ae2d44d7d6d5c992a84ad3b627a188",
+      "title": "Biển Đông gió giật cấp 9, sóng cao 5 m trước bão Kalmaegi",
+      "link": "https://thanhnien.vn/bien-dong-gio-giat-cap-9-song-cao-5-m-truoc-bao-kalmaegi-185251102170120907.htm",
+      "summary": "Vùng biển khu vực bắc Biển Đông, nam Quảng Trị - Quảng Ngãi, vịnh Thái Lan có gió giật cấp 9, sóng cao đến 5 m trước khi cơn bão Kalmaegi (bão số 13) đi vào Biển Đông, đây sẽ là cơn bão số 13 trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:02:00+07:00",
+      "fetched": "2025-11-02T19:29:57.281420+07:00"
+    },
+    {
+      "id": "dfc7fef83976f86e0df9930282433a4a",
+      "title": "'Black Phone 2' - đối diện nỗi đau",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/black-phone-2-851",
+      "summary": "Phim \"Black Phone 2\" ẩn dụ về quá trình con người đối diện và giải quyết nỗi đau thay vì trốn chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T11:00:00+07:00",
+      "fetched": "2025-11-02T19:29:54.319326+07:00"
+    },
+    {
+      "id": "4a5eb87c75da879aebe5fee702391eff",
+      "title": "Bão Kalmaegi có thể đạt cấp 14 khi vào Biển Đông",
+      "link": "https://vnexpress.net/bao-kalmaegi-co-the-dat-cap-14-khi-vao-bien-dong-4958957.html",
+      "summary": "Bão Kalmaegi đang mạnh cấp 9, di chuyển nhanh hướng tây với tốc độ 25 km/h, dự kiến vào Biển Đông ngày 5/11 và có thể đạt cực đại cấp 14.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:59:18+07:00",
+      "fetched": "2025-11-02T19:29:54.319485+07:00"
+    },
+    {
+      "id": "26a7e5366bbbad2e21ad60d4f10e991f",
+      "title": "TP.HCM tiếp tục 'nổ' 28 tỉ giải độc đắc xổ số miền Nam ngày 2 tháng 11",
+      "link": "https://thanhnien.vn/tphcm-tiep-tuc-no-28-ti-giai-doc-dac-xo-so-mien-nam-ngay-2-thang-11-185251102175338135.htm",
+      "summary": "14 vé trúng giải độc đắc 28 tỉ và hàng loạt vé trúng an ủi xổ số miền Nam ngày 2 tháng 11 đài Tiền Giang vừa 'nổ' tại TP.HCM. Đại lý bán trúng gây bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:56:00+07:00",
+      "fetched": "2025-11-02T19:29:57.281573+07:00"
+    },
+    {
+      "id": "d12a64cc6112cb7a04502ca808c28f23",
+      "title": "Việt Nam - Mỹ tăng cường hợp tác quốc phòng",
+      "link": "https://vnexpress.net/viet-nam-my-tang-cuong-hop-tac-quoc-phong-4958947.html",
+      "summary": "Bộ trưởng Phan Văn Giang và Bộ trưởng Chiến tranh Mỹ Pete Hegseth thống nhất mở rộng hợp tác công nghiệp quốc phòng, an ninh mạng và khắc phục hậu quả chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:49:47+07:00",
+      "fetched": "2025-11-02T19:29:54.319642+07:00"
+    },
+    {
+      "id": "d91d2064696d385c665109f1b797f609",
+      "title": "Ronaldo: 'Thành tích cá nhân không có ý nghĩa gì với tôi'",
+      "link": "https://vnexpress.net/ronaldo-thanh-tich-ca-nhan-khong-co-y-nghia-gi-voi-toi-4958951.html",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo chỉ muốn cùng Al Nassr vô địch Saudi Pro League, chứ không quan tâm tới các giải thưởng cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:48:34+07:00",
+      "fetched": "2025-11-02T19:29:54.319795+07:00"
+    },
+    {
+      "id": "d91d2064696d385c665109f1b797f609",
+      "title": "Ronaldo: 'Thành tích cá nhân không có ý nghĩa gì với tôi'",
+      "link": "https://vnexpress.net/ronaldo-thanh-tich-ca-nhan-khong-co-y-nghia-gi-voi-toi-4958951.html",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo chỉ muốn cùng Al Nassr vô địch Saudi Pro League, chứ không quan tâm tới các giải thưởng cá nhân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T10:48:34+07:00",
+      "fetched": "2025-11-02T19:30:05.510922+07:00"
+    },
+    {
+      "id": "eef20c42015954f70e2553723837149c",
+      "title": "Bố bé gái bị nước vỡ hồ cuốn: 'Tôi dắt con chạy nhưng không kịp'",
+      "link": "https://vnexpress.net/bo-be-gai-bi-nuoc-vo-ho-cuon-toi-dat-con-chay-nhung-khong-kip-4958904.html",
+      "summary": "Chỉ 30 giây sau tiếng nổ \"đùng đùng\" từ dãy núi gần nhà, ông Anh Kha, 46 tuổi, thấy nước ập xuống như thác, vội dẫn vợ con chạy nhưng không kịp, bị cuốn trôi khoảng 300 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:30:51+07:00",
+      "fetched": "2025-11-02T19:29:54.319974+07:00"
+    },
+    {
+      "id": "332910432ac72909794da91437e12e54",
+      "title": "Nga hạ thủy tàu ngầm mang được ngư lôi 'sóng thần phóng xạ'",
+      "link": "https://vnexpress.net/nga-ha-thuy-tau-ngam-mang-duoc-ngu-loi-song-than-phong-xa-4958938.html",
+      "summary": "Nga bắt đầu chạy thử nghiệm tàu ngầm hạt nhân thế hệ mới Khabarovsk, có khả năng trang bị siêu ngư lôi Poseidon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:29:13+07:00",
+      "fetched": "2025-11-02T19:29:54.320136+07:00"
+    },
+    {
+      "id": "332910432ac72909794da91437e12e54",
+      "title": "Nga hạ thủy tàu ngầm mang được ngư lôi 'sóng thần phóng xạ'",
+      "link": "https://vnexpress.net/nga-ha-thuy-tau-ngam-mang-duoc-ngu-loi-song-than-phong-xa-4958938.html",
+      "summary": "Nga bắt đầu chạy thử nghiệm tàu ngầm hạt nhân thế hệ mới Khabarovsk, có khả năng trang bị siêu ngư lôi Poseidon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T10:29:13+07:00",
+      "fetched": "2025-11-02T19:30:00.459823+07:00"
+    },
+    {
+      "id": "64362b3cdb939cc4861aa72246b43837",
+      "title": "Cách làm món ba chỉ nướng riềng mẻ",
+      "link": "https://vnexpress.net/doi-song-cooking-cach-lam-mon-ba-chi-nuong-rieng-me-4958953.html",
+      "summary": "Thịt ba chỉ có mặt ngoài xém nhẹ, dậy mùi thơm riềng, mẻ, mắm tôm quyện khói nướng. Khi ăn, phần da hơi giòn, nạc mềm ẩm, vị đậm đà. Món này đặc biệt hấp dẫn trong ngày se lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:28:30+07:00",
+      "fetched": "2025-11-02T19:29:54.320298+07:00"
+    },
+    {
+      "id": "2e3bcc667de959412438a848f120541a",
+      "title": "Hai năm mở quán cà phê, tôi mất trắng 600 triệu",
+      "link": "https://vnexpress.net/hai-nam-mo-quan-ca-phe-toi-mat-trang-600-trieu-4958945.html",
+      "summary": "Nghĩ đơn giản: 'Chỉ cần cà phê ngon, không gian đẹp thì kiểu gì cũng có khách', nên tôi tiêu gần 600 triệu trước khi bán được ly đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:27:49+07:00",
+      "fetched": "2025-11-02T19:29:54.320464+07:00"
+    },
+    {
+      "id": "8348cb29a543bdd28c3f33d4f32e8f8d",
+      "title": "Nghi phạm người Trung Quốc bỏ trốn khi được chữa bệnh",
+      "link": "https://vnexpress.net/nghi-pham-nguoi-trung-quoc-bo-tron-khi-duoc-chua-benh-4958946.html",
+      "summary": "Li Shang Ze, 31 tuổi, bị bệnh trong thời gian bị tạm giam, được đưa đến bệnh viện điều trị nhưng đã bỏ trốn khi một bên chân vẫn còn còng số 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:25:28+07:00",
+      "fetched": "2025-11-02T19:29:54.320614+07:00"
+    },
+    {
+      "id": "e2ecdd84ba4abb24c48039f562f2ceab",
+      "title": "Vì sao người dùng thờ ơ với điện thoại siêu mỏng?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-dung-tho-o-voi-dien-thoai-sieu-mong-185251101160650591.htm",
+      "summary": "Việc iPhone Air với độ dày chỉ 5,6 mm không có doanh số cao đã khiến nhiều người phải suy nghĩ lại về vai trò điện thoại siêu mỏng hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:19:00+07:00",
+      "fetched": "2025-11-02T19:29:57.281727+07:00"
+    },
+    {
+      "id": "0bb207c6fa7c189ef3f8b6015e06a182",
+      "title": "Điểm tin 17h: Bão Kalmaegi vào Biển Đông sẽ tăng cấp nhanh | Lũ các sông miền Trung lại lên",
+      "link": "https://vnexpress.net/diem-tin-17h-bao-kalmaegi-vao-bien-dong-se-tang-cap-nhanh-lu-cac-song-mien-trung-lai-len-4958948.html",
+      "summary": "35 kỷ lục mưa bị phá vỡ trong tháng 10; Hồ bị vỡ ở Lâm Đồng chứa 900.000 m3 nước, không có giấy phép;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:15:09+07:00",
+      "fetched": "2025-11-02T19:29:54.320773+07:00"
     },
     {
       "id": "5c5b8fe0b8353fd8c23fc46026d372c4",
@@ -801,6 +1281,16 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T10:00:00+07:00",
       "fetched": "2025-11-02T17:15:35.445187+07:00"
+    },
+    {
+      "id": "a3de61222ecd20316ada0f2aaa618080",
+      "title": "Lùi thời hạn hoàn thành cầu Đuống mới đến năm 2026",
+      "link": "https://vnexpress.net/lui-thoi-han-hoan-thanh-cau-duong-moi-den-nam-2026-4957413.html",
+      "summary": "Do chậm giải phóng mặt bằng, Bộ Xây dựng điều chỉnh thời gian hoàn thành hai cầu đường sắt và đường bộ qua sông Đuống vào năm 2026, lùi một năm so với kế hoạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:55:35+07:00",
+      "fetched": "2025-11-02T19:29:54.321099+07:00"
     },
     {
       "id": "794f61a471d5d20bd68e76580156d721",
