@@ -1,6 +1,6 @@
 window.newsData_2025_11_04 = {
   "date": "2025-11-04",
-  "lastUpdated": "2025-11-04T01:24:14.021948+07:00",
+  "lastUpdated": "2025-11-04T03:19:27.233425+07:00",
   "articles": [
     {
       "id": "5040076cea5d8ca92a8d59463d64280e",
@@ -151,6 +151,46 @@ window.newsData_2025_11_04 = {
       "category": "Tổng hợp",
       "published": "2025-11-04T01:24:05.770714+07:00",
       "fetched": "2025-11-04T01:24:05.770924+07:00"
+    },
+    {
+      "id": "f07c277404c8a54bdecfe50c135abe6a",
+      "title": "Mẹ bắn chết khỉ xổng chuồng để bảo vệ con",
+      "link": "https://vnexpress.net/me-ban-chet-khi-xong-chuong-de-bao-ve-con-4959417.html",
+      "summary": "Một phụ nữ ở Mississippi bắn chết con khỉ xổng chuồng chạy vào sân nhà do sợ nó lây truyền mầm bệnh cho các con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T20:00:00+07:00",
+      "fetched": "2025-11-04T03:19:15.191212+07:00"
+    },
+    {
+      "id": "ddef523b2402891882ff5e330a1cf03a",
+      "title": "Dòng người xếp hàng chờ nhận thực phẩm hỗ trợ ở California",
+      "link": "https://vnexpress.net/dong-nguoi-xep-hang-cho-nhan-thuc-pham-ho-tro-o-california-4958865.html",
+      "summary": "Lái xe bán tải đến ngân hàng thực phẩm, ông Genaro Alfonzo, 70 tuổi, vẫn chưa ăn gì dù đã gần 11 giờ sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T19:00:00+07:00",
+      "fetched": "2025-11-04T03:19:15.191409+07:00"
+    },
+    {
+      "id": "4930a8cdf70b36b117616ba3d5941cea",
+      "title": "10 thực phẩm 'cứu nguy' chứng táo bón",
+      "link": "https://vnexpress.net/10-thuc-pham-cuu-nguy-chung-tao-bon-4955179.html",
+      "summary": "Bổ sung kiwi, đu đủ, mận khô, hạt lanh... vào bữa ăn hằng ngày góp phần cải thiện tình trạng táo bón, duy trì sức khỏe ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T19:00:00+07:00",
+      "fetched": "2025-11-04T03:19:15.191620+07:00"
+    },
+    {
+      "id": "ddef523b2402891882ff5e330a1cf03a",
+      "title": "Dòng người xếp hàng chờ nhận thực phẩm hỗ trợ ở California",
+      "link": "https://vnexpress.net/dong-nguoi-xep-hang-cho-nhan-thuc-pham-ho-tro-o-california-4958865.html",
+      "summary": "Lái xe bán tải đến ngân hàng thực phẩm, ông Genaro Alfonzo, 70 tuổi, vẫn chưa ăn gì dù đã gần 11 giờ sáng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T19:00:00+07:00",
+      "fetched": "2025-11-04T03:19:20.371412+07:00"
     },
     {
       "id": "7d23a268485c2caec329b9c20ae1ab8b",
