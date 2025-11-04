@@ -1,7 +1,157 @@
 window.newsData_2025_11_04 = {
   "date": "2025-11-04",
-  "lastUpdated": "2025-11-04T21:17:48.810055+07:00",
+  "lastUpdated": "2025-11-04T23:20:44.773638+07:00",
   "articles": [
+    {
+      "id": "c27f1cdae3f3e77b2f88105cfe4b07de",
+      "title": "Nghệ sĩ Thành Hội: Nghệ sĩ là những kẻ điên nhất, nhưng cũng là những kẻ tỉnh nhất",
+      "link": "https://tuoitre.vn/nghe-si-thanh-hoi-nghe-si-la-nhung-ke-dien-nhat-nhung-cung-la-nhung-ke-tinh-nhat-20251104195801116.htm",
+      "summary": "Hơn 30 năm, NSƯT Thành Hội mới tái xuất trên màn ảnh rộng. Anh bảo: Tôi còn sống, còn làm nghề tới ngày hôm nay cũng là nhờ má.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050871+07:00",
+      "fetched": "2025-11-04T23:20:39.050992+07:00"
+    },
+    {
+      "id": "aaef2987b8cd121f74494fa4d087557f",
+      "title": "Cần mô hình 'Trung tâm điều phối sáng tạo' cho Hội An, Đà Lạt",
+      "link": "https://tuoitre.vn/can-mo-hinh-trung-tam-dieu-phoi-sang-tao-cho-hoi-an-da-lat-20251104195728449.htm",
+      "summary": "Hội An, Đà Lạt là thành viên chính thức của Mạng lưới các thành phố sáng tạo của UNESCO nhưng cách nào để giữ danh hiệu khi đang từ cấp thành phố chuyển sang cấp phường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050742+07:00",
+      "fetched": "2025-11-04T23:20:39.050856+07:00"
+    },
+    {
+      "id": "0b4a84d699429de7c07effa2bbe4681c",
+      "title": "Nữ bác sĩ được thăng quân hàm Trung tướng Quân đội nhân dân Việt Nam",
+      "link": "https://tuoitre.vn/nu-bac-si-duoc-thang-quan-ham-trung-tuong-quan-doi-nhan-dan-viet-nam-20251104200800614.htm",
+      "summary": "Trung tướng Nguyễn Hoàng Ngọc là 1 trong số 7 phụ nữ được phong hàm cấp tướng của Quân đội nhân dân Việt Nam và cũng là 1 trong 2 nữ tướng được phong hàm Trung tướng cho đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050616+07:00",
+      "fetched": "2025-11-04T23:20:39.050731+07:00"
+    },
+    {
+      "id": "c280d33a2a1a001e974343a652c6f0ae",
+      "title": "Đừng nặng hình thức, chỉ cần học sinh đến trường an toàn sau lũ",
+      "link": "https://tuoitre.vn/dung-nang-hinh-thuc-chi-can-hoc-sinh-den-truong-an-toan-sau-lu-20251104202414622.htm",
+      "summary": "Thứ trưởng Bộ Giáo dục và Đào tạo Phạm Ngọc Thưởng nhắn nhủ đầy xúc động rằng sau lũ, khi học sinh đã có thể đến trường, đừng quá đặt nặng hình thức hay quy định cứng nhắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050483+07:00",
+      "fetched": "2025-11-04T23:20:39.050604+07:00"
+    },
+    {
+      "id": "f2c9bedb413f745828af3a4cd3779c36",
+      "title": "Sao trẻ mắc lỗi ở trận thua penalty của Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/sao-tre-mac-loi-o-tran-thua-penalty-cua-hoang-anh-gia-lai-20251104202832142.htm",
+      "summary": "Trần Gia Bảo phạm lỗi dẫn đến quả phạt đền giúp Hồng Lĩnh Hà Tĩnh thắng Hoàng Anh Gia Lai 1-0 ở vòng 10 V-League 2025-2026 tối 4-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050354+07:00",
+      "fetched": "2025-11-04T23:20:39.050472+07:00"
+    },
+    {
+      "id": "fb3e74df224d8c9a4c38ebc1b87b33d9",
+      "title": "Ứng dụng AI để xây dựng bệnh viện thông minh, hướng tới làm chủ công nghệ y tế",
+      "link": "https://tuoitre.vn/ung-dung-ai-de-xay-dung-benh-vien-thong-minh-huong-toi-lam-chu-cong-nghe-y-te-20251104204320811.htm",
+      "summary": "Lãnh đạo Bệnh viện Bạch Mai kỳ vọng việc ứng dụng công nghệ thông tin, trí tuệ nhân tạo (AI) vào y tế sẽ giúp các bệnh viện đạt xây dựng mô hình 'bệnh viện thông minh', kho dữ liệu y khoa và hướng tới làm chủ công nghệ y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050224+07:00",
+      "fetched": "2025-11-04T23:20:39.050342+07:00"
+    },
+    {
+      "id": "f57a9548ad53e4c88e5fc3dcbe5aff9f",
+      "title": "Đỗ Hoàng Hên rực sáng, CLB Hà Nội đẩy PVF-CAND xuống đáy bảng",
+      "link": "https://tuoitre.vn/do-hoang-hen-ruc-sang-clb-ha-noi-day-pvf-cand-xuong-day-bang-20251104210916181.htm",
+      "summary": "Cầu thủ nhập tịch Đỗ Hoàng Hên lập cú đúp trong chiến thắng 4-0 của CLB Hà Nội trước PVF-CAND, thuộc vòng 10 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.050094+07:00",
+      "fetched": "2025-11-04T23:20:39.050213+07:00"
+    },
+    {
+      "id": "53d873d57e3f494a1f1b9f324efef16c",
+      "title": "Trung Quốc cảnh báo Mỹ không vượt bốn lằn ranh đỏ, trong đó có Đài Loan",
+      "link": "https://tuoitre.vn/trung-quoc-canh-bao-my-khong-vuot-bon-lan-ranh-do-trong-do-co-dai-loan-20251104212245901.htm",
+      "summary": "Trung Quốc đưa ra cảnh báo với Mỹ về bốn lằn ranh đỏ, chỉ vài ngày sau cuộc gặp giữa Chủ tịch Tập Cận Bình và Tổng thống Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049947+07:00",
+      "fetched": "2025-11-04T23:20:39.050082+07:00"
+    },
+    {
+      "id": "7e404f1f06cb684561c24ac02c68a222",
+      "title": "Chuyên gia cảnh báo những hiểm họa bão Kalmaegi có thể gây ra",
+      "link": "https://tuoitre.vn/chuyen-gia-canh-bao-nhung-hiem-hoa-bao-kalmaegi-co-the-gay-ra-20251104212458502.htm",
+      "summary": "Dự báo khi đổ bộ, bão Kalmaegi có thể gây ra gió mạnh cấp 10-12, giật cấp 14-15 ở vùng gần tâm bão, cùng với đó là sóng lớn, nước biển dâng, mưa lớn và dông lốc trước bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049815+07:00",
+      "fetched": "2025-11-04T23:20:39.049935+07:00"
+    },
+    {
+      "id": "e8a0693d02b12bfacb451143cc1b90e8",
+      "title": "Người dân Quy Nhơn ùn ùn đi siêu thị sắm thực phẩm tránh bão Kalmaegi",
+      "link": "https://tuoitre.vn/nguoi-dan-quy-nhon-un-un-di-sieu-thi-sam-thuc-pham-tranh-bao-kalmaegi-20251104211820372.htm",
+      "summary": "Tối 4-11, các siêu thị tại Quy Nhơn (Gia Lai) đông nghịt người xếp hàng mua lương thực, thực phẩm để dự trữ phòng những ngày bão Kalmaegi đổ bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049681+07:00",
+      "fetched": "2025-11-04T23:20:39.049804+07:00"
+    },
+    {
+      "id": "3cde33cf74cabb4caebb5144254d42b0",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Lớp học nhỏ, ước mơ lớn",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-lop-hoc-nho-uoc-mo-lon-20251104130440702.htm",
+      "summary": "Giữa miền quê yên bình Vĩnh Long, có một lớp học đặc biệt suốt gần chục năm qua vẫn đều đặn sáng đèn mỗi chiều. Đó là lớp học miễn phí do thầy Nguyễn Khánh khởi xướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049550+07:00",
+      "fetched": "2025-11-04T23:20:39.049670+07:00"
+    },
+    {
+      "id": "623fb0575e6061d70dadef6a518ff960",
+      "title": "Sửa đổi một số quy định về cho thuê nhà là tài sản công",
+      "link": "https://tuoitre.vn/sua-doi-mot-so-quy-dinh-ve-cho-thue-nha-la-tai-san-cong-20251104222152464.htm",
+      "summary": "Chính phủ ban hành nghị định sửa đổi, bổ sung một số điều của các nghị định trong lĩnh vực quản lý, sử dụng tài sản công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049411+07:00",
+      "fetched": "2025-11-04T23:20:39.049538+07:00"
+    },
+    {
+      "id": "604871536ad1659878b8d2d557d4d698",
+      "title": "Trực thăng cứu hộ bão Kalmaegi rơi tại Philippines, 6 người thiệt mạng",
+      "link": "https://tuoitre.vn/truc-thang-cuu-ho-bao-kalmaegi-roi-tai-philippines-6-nguoi-thiet-mang-20251104221313105.htm",
+      "summary": "Trực thăng cứu hộ của Lực lượng Không quân Philippines rơi khi đang thực hiện nhiệm vụ hỗ trợ khắc phục hậu quả bão Kalmaegi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049278+07:00",
+      "fetched": "2025-11-04T23:20:39.049400+07:00"
+    },
+    {
+      "id": "df6e594f28e103ae30f4a261be22edae",
+      "title": "Đỗ Hoàng Hên: 'Tôi đã sẵn sàng lên tuyển Việt Nam'",
+      "link": "https://tuoitre.vn/do-hoang-hen-toi-da-san-sang-len-tuyen-viet-nam-20251104220020872.htm",
+      "summary": "Cầu thủ nhập tịch Đỗ Hoàng Hên (CLB Hà Nội) bày tỏ khát khao cống hiến cho đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.049130+07:00",
+      "fetched": "2025-11-04T23:20:39.049265+07:00"
+    },
+    {
+      "id": "1d6dd9cf047f029986dbfd9c19d8fcbd",
+      "title": "Ronaldo: 'Cứ gọi tôi là kẻ kiêu ngạo nhưng những con số không biết nói dối'",
+      "link": "https://tuoitre.vn/ronaldo-cu-goi-toi-la-ke-kieu-ngao-nhung-nhung-con-so-khong-biet-noi-doi-20251104215428782.htm",
+      "summary": "Cristiano Ronaldo khẳng định anh là tỷ phú duy nhất của bóng đá khi trả lời phỏng vấn với nhà báo nổi tiếng người Anh Piers Morgan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:39.048876+07:00",
+      "fetched": "2025-11-04T23:20:39.049113+07:00"
+    },
     {
       "id": "a4f19d5c35cb4873ea14571bc6586cf3",
       "title": "Cảnh sát thông tin về 2 chiếc xe máy có biển số giống nhau cùng xuất hiện trên đường",
@@ -453,6 +603,236 @@ window.newsData_2025_11_04 = {
       "fetched": "2025-11-04T17:19:58.484534+07:00"
     },
     {
+      "id": "bd0f1d7a8a5ade529c76914bfc997b3b",
+      "title": "Đài Loan bắt 25 người liên quan tập đoàn của ông trùm Chen Zhi",
+      "link": "https://vnexpress.net/dai-loan-bat-25-nguoi-lien-quan-tap-doan-cua-ong-trum-chen-zhi-4959972.html",
+      "summary": "Điều tra viên Đài Loan bắt 25 người và tịch thu khối tài sản trị giá 145 triệu USD liên quan đến tập đoàn Prince của ông trùm Chen Zhi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T16:11:14+07:00",
+      "fetched": "2025-11-04T23:20:40.310767+07:00"
+    },
+    {
+      "id": "7a69d5cf48c118326796961dfd6c257b",
+      "title": "Giáo viên vùng rốn lũ Đà Nẵng tất tả dọn bùn: 'Nhớ học sinh lắm rồi!'",
+      "link": "https://thanhnien.vn/giao-vien-vung-ron-lu-da-nang-tat-ta-don-bun-nho-hoc-sinh-lam-roi-18525110422185449.htm",
+      "summary": "Sau lũ dữ, trường học ở vùng rốn lũ Đà Nẵng ngập bùn đất, thầy cô gian nan dọn dẹp. 'Nhớ học sinh lắm rồi, mong mai các em được trở lại lớp', cô Phạm Thị Hiền, Hiệu trưởng Trường tiểu học Đoàn Nghiên nghẹn ngào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T16:06:00+07:00",
+      "fetched": "2025-11-04T23:20:38.220453+07:00"
+    },
+    {
+      "id": "6cf4bcdba3dee3e51af8e86848b45f55",
+      "title": "Ứng phó bão số 13 Kalmaegi: Người dân đổ xô mua mì gói, nước lọc... tích trữ",
+      "link": "https://thanhnien.vn/ung-pho-bao-so-13-kalmaegi-nguoi-dan-do-xo-mua-mi-goi-nuoc-loc-tich-tru-185251104221536723.htm",
+      "summary": "Tối 4.11, nhiều siêu thị và cửa hàng ở phường Tuy Hòa, Đắk Lắk đông nghẹt người mua thực phẩm, mì gói, nước lọc để dự trữ trước khi bão số 13 Kalmaegi đổ bộ. Một số mặt hàng thiết yếu 'cháy hàng' chỉ trong vài giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T16:01:00+07:00",
+      "fetched": "2025-11-04T23:20:38.220635+07:00"
+    },
+    {
+      "id": "a2e2f00d0876114e8fb73b34201213bf",
+      "title": "Ghe cà hâu và Protip khoe sắc trên dòng sông Maspero",
+      "link": "https://thanhnien.vn/ghe-ca-hau-va-protip-khoe-sac-tren-dong-song-maspero-185251104130224239.htm",
+      "summary": "Không gian lễ hội Óoc Om Bóc – Đua ghe Ngo TP.Cần Thơ năm 2025 rực rỡ sắc màu với những chiếc đèn nước (Lôi Protip) và ghe cà hâu truyền thống của đồng bào Khmer, tạo nên bức tranh văn hóa đặc sắc trên dòng sông Maspero.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:59:00+07:00",
+      "fetched": "2025-11-04T23:20:38.220793+07:00"
+    },
+    {
+      "id": "f5cbeea22fd495b5e79d7ab5baf9bdd5",
+      "title": "Cuộc thi tìm hiểu 80 năm Ngày Tổng tuyển cử đạt hơn 7 triệu lượt thi",
+      "link": "https://thanhnien.vn/cuoc-thi-tim-hieu-80-nam-ngay-tong-tuyen-cu-dat-hon-7-trieu-luot-thi-185251104205538033.htm",
+      "summary": "Ban tổ chức Cuộc thi trắc nghiệm tương tác trực tuyến tìm hiểu '80 năm Ngày Tổng tuyển cử đầu tiên bầu Quốc hội Việt Nam' cho biết kết thúc chặng 1 có 2.032.004 thí sinh tham gia với 7.147.441 lượt thi, gấp đôi chỉ tiêu đề ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:28:00+07:00",
+      "fetched": "2025-11-04T23:20:38.220953+07:00"
+    },
+    {
+      "id": "3b8969a9107cd1ffc6720b789ee3c1d8",
+      "title": "Vua Anh phong tước hiệp sĩ cho David Beckham",
+      "link": "https://vnexpress.net/vua-anh-phong-tuoc-hiep-si-cho-david-beckham-4959982.html",
+      "summary": "Tại Lâu đài Windsor ngày 4/11, Nhà vua Vương quốc Anh Charles III đã làm lễ phong tước hiệp sĩ cho cựu tiền vệ Man Utd và tuyển Anh David Beckham.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:27:58+07:00",
+      "fetched": "2025-11-04T23:20:35.467019+07:00"
+    },
+    {
+      "id": "3b8969a9107cd1ffc6720b789ee3c1d8",
+      "title": "Vua Anh phong tước hiệp sĩ cho David Beckham",
+      "link": "https://vnexpress.net/vua-anh-phong-tuoc-hiep-si-cho-david-beckham-4959982.html",
+      "summary": "Tại Lâu đài Windsor ngày 4/11, Nhà vua Vương quốc Anh Charles III đã làm lễ phong tước hiệp sĩ cho cựu tiền vệ Man Utd và tuyển Anh David Beckham.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T15:27:58+07:00",
+      "fetched": "2025-11-04T23:20:44.760222+07:00"
+    },
+    {
+      "id": "ff644a328c3ce714c995ab019690fd5b",
+      "title": "Malaysia lập tổ công tác đặc biệt điều tra bê bối nhập tịch của FAM",
+      "link": "https://thanhnien.vn/malaysia-lap-to-cong-tac-dac-biet-dieu-tra-be-boi-nhap-tich-cua-fam-185251104213030312.htm",
+      "summary": "Sau khi FIFA giữ nguyên án phạt đối với FAM và bảy cầu thủ nhập tịch vì làm giả hồ sơ, Ủy ban Liêm chính Cơ quan Thực thi pháp luật Malaysia (EAIC) đã lập tổ công tác đặc biệt để điều tra quy trình xác minh tư cách cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:21:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221131+07:00"
+    },
+    {
+      "id": "249867f381eb8dcbef453d46e1989a53",
+      "title": "Nga thả lượng bom lượn kỷ lục vào Ukraine trong tháng 10",
+      "link": "https://vnexpress.net/nga-tha-luong-bom-luon-ky-luc-vao-ukraine-trong-thang-10-4959960.html",
+      "summary": "Ukraine nói bị Nga tập kích bằng hơn 5.300 bom dẫn đường trong tháng 10, mức cao nhất trong một tháng kể từ đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:13:34+07:00",
+      "fetched": "2025-11-04T23:20:35.467230+07:00"
+    },
+    {
+      "id": "249867f381eb8dcbef453d46e1989a53",
+      "title": "Nga thả lượng bom lượn kỷ lục vào Ukraine trong tháng 10",
+      "link": "https://vnexpress.net/nga-tha-luong-bom-luon-ky-luc-vao-ukraine-trong-thang-10-4959960.html",
+      "summary": "Ukraine nói bị Nga tập kích bằng hơn 5.300 bom dẫn đường trong tháng 10, mức cao nhất trong một tháng kể từ đầu năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T15:13:34+07:00",
+      "fetched": "2025-11-04T23:20:40.310946+07:00"
+    },
+    {
+      "id": "278679c1b90520f3fc8ff08882c47eb8",
+      "title": "Hà Nội FC thắng đậm nhất từ đầu mùa 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-thang-dam-nhat-tu-dau-mua-2025-2026-4959985.html",
+      "summary": "Hà Nội FC hạ PVF-CAND 4-0 ở vòng 10 V-League 2025-2026, để có trận thắng đậm nhất dưới thời tân Harry Kewell, tối 4/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:09:39+07:00",
+      "fetched": "2025-11-04T23:20:35.467396+07:00"
+    },
+    {
+      "id": "278679c1b90520f3fc8ff08882c47eb8",
+      "title": "Hà Nội FC thắng đậm nhất từ đầu mùa 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-thang-dam-nhat-tu-dau-mua-2025-2026-4959985.html",
+      "summary": "Hà Nội FC hạ PVF-CAND 4-0 ở vòng 10 tối 4/11, để có trận thắng đậm nhất dưới thời HLV Harry Kewell.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T15:09:39+07:00",
+      "fetched": "2025-11-04T23:20:44.760403+07:00"
+    },
+    {
+      "id": "7c3a2d238f9a6413b076ac0adbb141e6",
+      "title": "Hơn 150 chiến sĩ gia cố bờ kè biển Cửa Đại trước bão số 13",
+      "link": "https://thanhnien.vn/hon-150-chien-si-gia-co-bo-ke-bien-cua-dai-truoc-bao-so-13-185251104211924776.htm",
+      "summary": "Trên bờ biển sáng 4.11.2025 ở phường Hội An Tây (thành phố Đà Nẵng), trước đây là thành phố Hội An, thuộc tỉnh Quảng Nam cũ, hơn 150 cán bộ, chiến sĩ vẫn miệt mài từng bao cát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T15:04:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221288+07:00"
+    },
+    {
+      "id": "88fb9419e49bec8814242ac09c8adb3f",
+      "title": "64 lao động trốn thoát từ cơ sở lừa đảo Campuchia",
+      "link": "https://vnexpress.net/64-lao-dong-tron-thoat-tu-co-so-lua-dao-campuchia-4959976.html",
+      "summary": "Đồn Biên phòng cửa khẩu Quốc tế Hoa Lư tiếp nhận 64 lao động vừa trốn thoát tại cơ sở lừa đảo trực tuyến Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:59:10+07:00",
+      "fetched": "2025-11-04T23:20:35.467557+07:00"
+    },
+    {
+      "id": "c76cbca9ab4959c47e8eebb8c6b060eb",
+      "title": "Trọng tài ngăn trung vệ cao 1,96 m của HAGL cắn lưỡi: Hành động anh hùng",
+      "link": "https://thanhnien.vn/trong-tai-ngan-trung-ve-cao-196-m-cua-hagl-can-luoi-hanh-dong-anh-hung-185251104215537027.htm",
+      "summary": "Trọng tài Nguyễn Mạnh Hải đã sơ cứu kịp thời trên sân, khi trung vệ Đinh Quang Kiệt của HAGL mất ý thức ở tình huống va chạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:58:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221442+07:00"
+    },
+    {
+      "id": "131469b05c45901e8191b362e377e4d6",
+      "title": "Lê Quang Liêm cầm hòa đối thủ giàu kinh nghiệm ở World Cup cờ vua",
+      "link": "https://thanhnien.vn/le-quang-liem-cam-hoa-doi-thu-giau-kinh-nghiem-o-world-cup-co-vua-1852511042002019.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm khởi đầu World Cup cờ vua 2025 tại Ấn Độ bằng trận hòa trước kỳ thủ giàu kinh nghiệm Baadur Jobava (Georgia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:58:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221598+07:00"
+    },
+    {
+      "id": "42d1e49e6025a310210f9c86b37ad3ca",
+      "title": "Highlight CLB Hà Nội 4-0 CLB PVF-CAND: Siêu phẩm của Đỗ Hoàng Hên",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-4-0-clb-pvf-cand-sieu-pham-cua-do-hoang-hen-185251104214747446.htm",
+      "summary": "Hoàng Hên chói sáng với cú đúp trong trận CLB Hà Nội tiếp đón CLB PVF-CAND, trong đó bàn thắng thứ hai của anh là một siêu phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:47:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221747+07:00"
+    },
+    {
+      "id": "320097a021c0032df6f2e0bff90dca4f",
+      "title": "Highlight Hà Tĩnh 1-0 HAGL: Trận đấu của VAR và penalty",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-0-hagl-tran-dau-cua-var-va-penalty-185251104214623758.htm",
+      "summary": "Thua chung cuộc 0-1, HAGL tiếp tục đứng cuối bảng sau vòng 10. Trong khi đó, CLB Hà Tĩnh của HLV Công Mạnh đã vươn lên hạng 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:46:00+07:00",
+      "fetched": "2025-11-04T23:20:38.221897+07:00"
+    },
+    {
+      "id": "74251a9f1f550b7fa86d330526695376",
+      "title": "Nghệ sĩ Kiều Hưng qua đời",
+      "link": "https://vnexpress.net/nghe-si-kieu-hung-qua-doi-4959970.html",
+      "summary": "Nghệ sĩ Ưu tú Kiều Hưng - giọng ca nổi tiếng dòng nhạc đỏ thập niên 1970, 1980 - qua đời ở tuổi 88 sau thời gian suy giảm sức khỏe do tai biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:42:37+07:00",
+      "fetched": "2025-11-04T23:20:35.467721+07:00"
+    },
+    {
+      "id": "159e5b6f889192b9fbe8903e5af4e850",
+      "title": "Tiền vệ Việt kiều Trần Thành Trung tăng tốc cùng U.23 Việt Nam: Giấc mơ SEA Games 33",
+      "link": "https://thanhnien.vn/tien-ve-viet-kieu-tran-thanh-trung-tang-toc-cung-u23-viet-nam-giac-mo-sea-games33-185251104212915577.htm",
+      "summary": "Trần Thành Trung sẽ cần ghi điểm quyết liệt với HLV Kim Sang-sik khi U.23 Việt Nam có đợt tập trung quyết định chuẩn bị cho SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:31:00+07:00",
+      "fetched": "2025-11-04T23:20:38.222063+07:00"
+    },
+    {
+      "id": "fa641088d36ccae27edc6a370cbfd191",
+      "title": "Thường vụ Quốc hội sắp họp xem xét công tác nhân sự",
+      "link": "https://thanhnien.vn/thuong-vu-quoc-hoi-sap-hop-xem-xet-cong-tac-nhan-su-185251104210816635.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội sẽ bắt đầu phiên họp 51 (tháng 11) từ chiều 5.11 để xem xét, quyết định nhiều nội dung quan trọng, trong đó có công tác nhân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:28:00+07:00",
+      "fetched": "2025-11-04T23:20:38.222224+07:00"
+    },
+    {
+      "id": "d5cd9288f88b50511989cafc99ed42b6",
+      "title": "Bảng xếp hạng V-League mới nhất: HAGL bất ngờ thoát đáy bảng, nguy cơ rớt hạng vẫn cực cao",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-hagl-bat-ngo-thoat-day-bang-nguy-co-rot-hang-van-cuc-cao-185251104211312687.htm",
+      "summary": "Không có bất ngờ ở loạt trận đầu tiên vòng 10 V-League 2025-2026 diễn ra hôm nay khi các đội Hà Tĩnh, Hà Nội lần lượt đánh bại HAGL, PVF-CAND để cải thiện vị trí trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:20:00+07:00",
+      "fetched": "2025-11-04T23:20:38.222378+07:00"
+    },
+    {
+      "id": "0305d4ea84c69393c92e1f46c9721b99",
+      "title": "Nghệ sĩ Tấn Beo thoát cảnh chạy thận",
+      "link": "https://thanhnien.vn/nghe-si-tan-beo-thoat-canh-chay-than-185251104211845344.htm",
+      "summary": "Các bác sĩ Bệnh viện đa khoa Tâm Anh lên phác đồ điều trị cá thể hóa, bảo tồn chức năng thận giúp nghệ sĩ Tấn Beo, 59 tuổi, không phải chạy thận khi đang bị suy thận giai đoạn 4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T14:18:00+07:00",
+      "fetched": "2025-11-04T23:20:38.222529+07:00"
+    },
+    {
       "id": "c48c12b48d7f28448cabbd944c665d17",
       "title": "Đỗ Hoàng Hên lập siêu phẩm, Hà Nội thắng ấn tượng PVF-CAND: Chưa từ bỏ đua vô địch",
       "link": "https://thanhnien.vn/do-hoang-hen-lap-sieu-pham-clb-ha-noi-thang-an-tuong-pvf-cand-185251104210658725.htm",
@@ -471,6 +851,16 @@ window.newsData_2025_11_04 = {
       "category": "Tổng hợp",
       "published": "2025-11-04T13:51:00+07:00",
       "fetched": "2025-11-04T21:17:39.580870+07:00"
+    },
+    {
+      "id": "c1fb50af00bd06d2c1c615eec821a4df",
+      "title": "Các thủy điện hạ mức nước đón lũ trước bão Kalmaegi",
+      "link": "https://vnexpress.net/cac-thuy-dien-ha-muc-nuoc-don-lu-truoc-bao-kalmaegi-4959953.html",
+      "summary": "Bộ Nông nghiệp và Môi trường yêu cầu các nhà máy thủy điện trên lưu vực sông Vu Gia - Thu Bồn hạ thấp mực nước để đón lũ, tránh ngập nặng như đợt vừa qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T13:50:31+07:00",
+      "fetched": "2025-11-04T23:20:35.467886+07:00"
     },
     {
       "id": "bfca3cf0b03e937bff989268a9831a75",
