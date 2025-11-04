@@ -1,7 +1,87 @@
 window.newsData_2025_11_04 = {
   "date": "2025-11-04",
-  "lastUpdated": "2025-11-04T10:07:46.633816+07:00",
+  "lastUpdated": "2025-11-04T11:19:51.641477+07:00",
   "articles": [
+    {
+      "id": "814b9487a314629f7b7144e51f2f2cd7",
+      "title": "Gian hàng C.P. Việt Nam - Điểm hẹn trải nghiệm và mua sắm tại Hội chợ mùa Thu",
+      "link": "https://tuoitre.vn/gian-hang-c-p-viet-nam-diem-hen-trai-nghiem-va-mua-sam-tai-hoi-cho-mua-thu-20251103202148438.htm",
+      "summary": "Công ty Cổ phần Chăn nuôi C.P. Việt Nam (CPV) đã mang đến một không gian trải nghiệm đặc sắc, thu hút người tiêu dùng mọi lứa tuổi đến tham quan, mua sắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.945221+07:00",
+      "fetched": "2025-11-04T11:19:42.945344+07:00"
+    },
+    {
+      "id": "a09961121c1ff7694e5fb9856bbc8e89",
+      "title": "Ông Hà Quang Văn, nghệ sĩ kỳ cựu của Đoàn cải lương Nam Bộ lừng lẫy, qua đời",
+      "link": "https://tuoitre.vn/ong-ha-quang-van-nghe-si-ky-cuu-cua-doan-cai-luong-nam-bo-lung-lay-qua-doi-20251104081407956.htm",
+      "summary": "Ông Hà Quang Văn, nguyên Hiệu trưởng Trường nghệ thuật Sân khấu II (nay là Trường đại học Sân khấu - Điện ảnh TP.HCM), là con trai nghệ sĩ cải lương Ái Liên, em trai ca sĩ Ái Vân và là anh trai ca sĩ Ái Xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.945076+07:00",
+      "fetched": "2025-11-04T11:19:42.945209+07:00"
+    },
+    {
+      "id": "db7b1ef647fe80aa2171dde4fbdc19e3",
+      "title": "Bí thư Hà Nội Bùi Thị Minh Hoài làm Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-bui-thi-minh-hoai-lam-bi-thu-dang-uy-mat-tran-to-quoc-cac-doan-the-trung-uong-20251103212005257.htm",
+      "summary": "Bí thư Hà Nội Bùi Thị Minh Hoài được Bộ Chính trị điều động, phân công, chỉ định làm Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944924+07:00",
+      "fetched": "2025-11-04T11:19:42.945048+07:00"
+    },
+    {
+      "id": "f7bbfc190ed193869b25dce9f1428a95",
+      "title": "Vụ thu giữ 78 tỉ trái bản án: Viện kiểm sát kháng nghị, sau 10 tháng Thi hành án TP.HCM vẫn giữ tiền",
+      "link": "https://tuoitre.vn/vu-thu-giu-78-ti-trai-ban-an-vien-kiem-sat-khang-nghi-sau-10-thang-thi-hanh-an-tp-hcm-van-giu-tien-20251104074254144.htm",
+      "summary": "Sau gần 10 tháng kể từ khi Viện kiểm sát nhân dân TP.HCM ra quyết định kháng nghị việc Thi hành án dân sự TP.HCM thu giữ trái bản án 78 tỉ đồng, cơ quan này vẫn chưa phân chia số tiền thu giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944788+07:00",
+      "fetched": "2025-11-04T11:19:42.944905+07:00"
+    },
+    {
+      "id": "658db6fabf362efd6aac0421c49883e6",
+      "title": "Kỷ lục mưa bị xô đổ, nước từ đâu mà nhiều thế?",
+      "link": "https://tuoitre.vn/ky-luc-mua-bi-xo-do-nuoc-tu-dau-ma-nhieu-the-20251104082823519.htm",
+      "summary": "Trong cao điểm mưa lũ đang đổ xuống miền Trung, các kỷ lục về lượng mưa và mực nước lũ lịch sử đều bị phá vỡ. Thời tiết quá dị thường, nguyên nhân do đâu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944658+07:00",
+      "fetched": "2025-11-04T11:19:42.944776+07:00"
+    },
+    {
+      "id": "4ab4c18812f6bd93e9fa434ecbf6de37",
+      "title": "Lộ trình 'chiến đấu đến cùng' của bóng đá Malaysia",
+      "link": "https://tuoitre.vn/lo-trinh-chien-dau-den-cung-cua-bong-da-malaysia-20251104082350915.htm",
+      "summary": "Dù đã nhận phán quyết sau cùng từ FIFA, Liên đoàn Bóng đá Malaysia (FAM) vẫn còn cơ hội lật ngược tình thế nếu đưa vụ việc lên Tòa án Trọng tài thể thao quốc tế (CAS).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944524+07:00",
+      "fetched": "2025-11-04T11:19:42.944646+07:00"
+    },
+    {
+      "id": "ac9beec468a0fb64c15280e267dedd82",
+      "title": "Lũ chồng lũ, thêm âu lo bão số 13",
+      "link": "https://tuoitre.vn/lu-chong-lu-them-au-lo-bao-so-13-20251104085022349.htm",
+      "summary": "Lụt chồng lụt, người dân miền Trung đang kiệt sức lại phải lo đối mặt trước một đợt thiên tai mới từ bão số 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944379+07:00",
+      "fetched": "2025-11-04T11:19:42.944512+07:00"
+    },
+    {
+      "id": "8aa16ae79c44c834fb92ff164c0b60f3",
+      "title": "La Vie công bố cách thức mua hàng chính hãng trực tuyến",
+      "link": "https://tuoitre.vn/la-vie-cong-bo-cach-thuc-mua-hang-chinh-hang-truc-tuyen-20251103223614012.htm",
+      "summary": "La Vie giới thiệu cách mua sản phẩm chính hãng dễ dàng, tiện lợi qua Zalo OA, website và hotline.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T11:19:42.944144+07:00",
+      "fetched": "2025-11-04T11:19:42.944363+07:00"
+    },
     {
       "id": "7c4b592dda823d3a26af936d81035d2e",
       "title": "Đã có giải pháp căn cơ cho xuất khẩu sầu riêng",
@@ -233,6 +313,286 @@ window.newsData_2025_11_04 = {
       "fetched": "2025-11-04T08:17:49.909120+07:00"
     },
     {
+      "id": "c545d501d4ea7993601183284ddd6cc6",
+      "title": "Hòa Minzy: Đan Trường chuyển tiền ngay khi nghe bài hát mới của tôi",
+      "link": "https://thanhnien.vn/hoa-minzy-dan-truong-chuyen-tien-ngay-khi-nghe-bai-hat-moi-cua-toi-185251104103303601.htm",
+      "summary": "Đối với Hòa Minzy, được xuất hiện trong liveshow kỷ niệm 30 năm ca hát của Đan Trường là một giấc mơ vì cô đã thần tượng anh từ khi còn nhỏ. Đan Trường tỏ ra thích thú khi được song ca bài mới với đàn em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:16:00+07:00",
+      "fetched": "2025-11-04T11:19:41.915265+07:00"
+    },
+    {
+      "id": "7e669bb9d208e90e9ef771eeb59b12d1",
+      "title": "Ông Lê Minh Trí làm Phó trưởng ban thường trực Ban Nội chính Trung ương",
+      "link": "https://thanhnien.vn/ong-le-minh-tri-lam-pho-truong-ban-thuong-truc-ban-noi-chinh-trung-uong-185251104110950017.htm",
+      "summary": "Ông Lê Minh Trí, Chánh án TAND tối cao, được Bộ Chính trị bổ nhiệm làm Phó trưởng ban thường trực Ban Nội chính Trung ương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:13:00+07:00",
+      "fetched": "2025-11-04T11:19:41.915432+07:00"
+    },
+    {
+      "id": "eb6e7470438568d6ee713b5811d48d42",
+      "title": "Ông Trịnh Văn Quyết giữ chức Trưởng ban Tuyên giáo - Dân vận Trung ương",
+      "link": "https://thanhnien.vn/ong-trinh-van-quyet-giu-chuc-truong-ban-tuyen-giao-dan-van-trung-uong-185251104110122115.htm",
+      "summary": "Ông Trịnh Văn Quyết, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, được Bộ Chính trị bổ nhiệm giữ chức Trưởng ban Tuyên giáo - Dân vận Trung ương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:08:00+07:00",
+      "fetched": "2025-11-04T11:19:41.915589+07:00"
+    },
+    {
+      "id": "618c80636f01c80641347caf262c0655",
+      "title": "Minh Hằng tái xuất sau 7 năm",
+      "link": "https://thanhnien.vn/minh-hang-tai-xuat-sau-7-nam-185251104095512217.htm",
+      "summary": "Sau 7 năm vắng bóng trên đường đua nhạc Việt, Minh Hằng chính thức trở lại với dự án âm nhạc 'DIRECTOR'. Teaser poster vừa được công bố tối 3.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:08:00+07:00",
+      "fetched": "2025-11-04T11:19:41.915743+07:00"
+    },
+    {
+      "id": "1427561768ff4f0299ff01e307bd3c55",
+      "title": "Chiếu miễn phí ‘Mưa đỏ’ ở 9 tỉnh thành",
+      "link": "https://thanhnien.vn/chieu-mien-phi-mua-do-o-9-tinh-thanh-185251104103355419.htm",
+      "summary": "Chào mừng Liên hoan phim Việt Nam lần thứ 24, bộ phim điện ảnh Mưa đỏ - tác phẩm đề tài chiến tranh cách mạng từng tạo nên cơn sốt phòng vé - sẽ được chiếu miễn phí tại 9 tỉnh, thành trên cả nước từ ngày 15 - 20.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:06:00+07:00",
+      "fetched": "2025-11-04T11:19:41.915893+07:00"
+    },
+    {
+      "id": "92253e927ab14f90f499d10a8a177086",
+      "title": "Xem nhanh 12h: Đà Nẵng đã có nắng, bão số 13 khi nào đổ bộ? | Bẫy tuyển dụng lao động nghèo",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-da-nang-da-co-nang-bao-so-13-khi-nao-do-bo-bay-tuyen-dung-lao-dong-ngheo-1852511041105016.htm",
+      "summary": "Bản tin Xem nhanh 12h trưa 4.11 cùng quý vị cập nhật tình hình lũ lớn tại các tỉnh miền Trung cũng như những tin tức thời sự đáng chú ý trong và ngoài nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:05:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916063+07:00"
+    },
+    {
+      "id": "cde98171238764e3567280bbf0e7a4c6",
+      "title": "Khẩn trương xử lý tàu chở 175.000 tấn quặng sắt mắc cạn ở Dung Quất trước bão",
+      "link": "https://thanhnien.vn/khan-truong-xu-ly-tau-cho-175000-tan-quang-sat-mac-can-o-dung-quat-truoc-bao-185251104100242829.htm",
+      "summary": "Cơ quan chức năng tỉnh Quảng Ngãi đang phối hợp, tìm phương án xử lý tàu biển Star Bueno chở gần 175.000 tấn quặng sắt bị mắc cạn ở cảng Dung Quất, khi bão Kalmaegi (bão số 13) sắp đổ bộ vào miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:05:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916226+07:00"
+    },
+    {
+      "id": "a020bfba6de28da2f0158714100c9633",
+      "title": "Cựu danh thủ Malaysia kêu gọi FAM hãy yêu bóng đá chân thành, chấp nhận sai lầm: Đừng kiện FIFA nữa!",
+      "link": "https://thanhnien.vn/cuu-danh-thu-malaysia-keu-goi-fam-hay-yeu-bong-da-chan-thanh-chap-nhan-sai-lam-dung-kien-fifa-nua-185251104105749568.htm",
+      "summary": "Cựu tiền đạo Safee Sali - biểu tượng một thời của bóng đá Malaysia - cho rằng FAM cần nhìn nhận sai lầm, chấp nhận án phạt và hướng đến tương lai sau khi FIFA bác đơn kháng cáo liên quan đến vụ bê bối cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:04:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916376+07:00"
+    },
+    {
+      "id": "7e76ff1006f726a13bb6c2842a637f70",
+      "title": "Giải pháp phiên dịch bằng AI của kỹ sư Việt",
+      "link": "https://vnexpress.net/giai-phap-phien-dich-bang-ai-cua-ky-su-viet-4958799.html",
+      "summary": "Cabin AI, do kỹ sư Việt phát triển, có khả năng dịch lời nói sau 3-5 giây nhờ giải pháp học trước ngữ cảnh của cuộc hội thoại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-04T04:00:19+07:00",
+      "fetched": "2025-11-04T11:19:49.829671+07:00"
+    },
+    {
+      "id": "624caa7f0ac383234c84f2acab80dfbb",
+      "title": "Việt Hương tiết lộ lý do hạn chế tham gia gameshow",
+      "link": "https://thanhnien.vn/viet-huong-tiet-lo-ly-do-han-che-tham-gia-gameshow-185251104102333337.htm",
+      "summary": "Việt Hương vừa trở lại truyền hình thực tế sau thời gian vắng bóng, đảm nhận vai trò dẫn dắt chương trình 'Điều ước của mẹ'. Nữ nghệ sĩ có những chia sẻ về chương trình mới, đồng thời tiết lộ lý do không còn xuất hiện nhiều ở các gameshow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T04:00:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916526+07:00"
+    },
+    {
+      "id": "9e76d9f4baa7f3de5f198e85c220cf84",
+      "title": "Những ứng dụng Android bí mật ghi âm cuộc gọi cần xóa gấp",
+      "link": "https://thanhnien.vn/nhung-ung-dung-android-bi-mat-ghi-am-cuoc-goi-can-xoa-gap-185251103221649353.htm",
+      "summary": "Các nhà nghiên cứu bảo mật tại ESET vừa phát hiện một nhóm gồm 12 ứng dụng Android có khả năng ghi âm lén lút trong nền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:47:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916674+07:00"
+    },
+    {
+      "id": "3187f29f6152a907b8f37b070b56ad02",
+      "title": "Neville: 'Sesko kém xa tiêu chuẩn Man Utd'",
+      "link": "https://vnexpress.net/neville-sesko-kem-xa-tieu-chuan-man-utd-4959591.html",
+      "summary": "Cựu danh thủ Gary Neville cho rằng tiền đạo Benjamin Sesko đang thể hiện phong độ kém xa kỳ vọng của Man Utd ở một trung phong 89 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T03:46:08+07:00",
+      "fetched": "2025-11-04T11:19:51.634368+07:00"
+    },
+    {
+      "id": "521523cd14d99eaaae6dabdbf739d1f4",
+      "title": "Đà Nẵng: Mưa lớn gây sụt lún điểm trường, khẩn cấp di dời học sinh",
+      "link": "https://thanhnien.vn/da-nang-mua-lon-gay-sut-lun-diem-truong-khan-cap-di-doi-hoc-sinh-185251104095002678.htm",
+      "summary": "Mưa lớn kéo dài khiến điểm trường Tak Ngo (xã Trà Linh, TP.Đà Nẵng) bị sụt lún, có nguy cơ sạt lở, buộc phải di dời trang thiết bị và học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:45:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916825+07:00"
+    },
+    {
+      "id": "5830ebee93e4d7727b881a8bc4e0f5c5",
+      "title": "HLV Enrique nhăm nhe cắt chuỗi 15 trận thắng của Bayern",
+      "link": "https://vnexpress.net/hlv-enrique-nham-nhe-cat-chuoi-15-tran-thang-cua-bayern-4959660.html",
+      "summary": "Theo HLV Luis Enrique, PSG có đủ cơ sở để trở thành đội bóng đầu tiên thắng Bayern Munich từ đầu mùa, khi gặp nhau ở lượt bốn Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T03:42:11+07:00",
+      "fetched": "2025-11-04T11:19:51.634526+07:00"
+    },
+    {
+      "id": "ce8e9ad3ab5cbf817e8771fbd5df7840",
+      "title": "Sàn thương mại điện tử Shein cấm bán búp bê tình dục giống trẻ em",
+      "link": "https://thanhnien.vn/san-thuong-mai-dien-tu-shein-cam-ban-bup-be-tinh-duc-giong-tre-em-185251104102253007.htm",
+      "summary": "Sàn thương mại điện tử Shein thông báo cấm bán búp bê tình dục, sau khi bị chỉ trích gay gắt tại Pháp về việc bán búp bê tình dục giống trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:41:00+07:00",
+      "fetched": "2025-11-04T11:19:41.916972+07:00"
+    },
+    {
+      "id": "9e7ec826e0804f988f02e3003e040dfb",
+      "title": "Cần phải rút kinh nghiệm vụ phạt người nuôi gà lôi trắng 6 năm tù",
+      "link": "https://thanhnien.vn/can-phai-rut-kinh-nghiem-vu-phat-nguoi-nuoi-ga-loi-trang-6-nam-tu-185251104101149136.htm",
+      "summary": "Theo Viện KSND tối cao, cấp sơ thẩm đã sai lầm nghiêm trọng trong áp dụng pháp luật, khi đề nghị và tuyên phạt anh Thái Khắc Thành 6 năm tù vì nuôi gà lôi trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:37:00+07:00",
+      "fetched": "2025-11-04T11:19:41.917139+07:00"
+    },
+    {
+      "id": "70dbc4586e644aa2da20a96e804ebce5",
+      "title": "Vì sao năm nay lạnh sớm?",
+      "link": "https://vnexpress.net/vi-sao-nam-nay-lanh-som-4959492.html",
+      "summary": "Mùa đông không đến sớm hơn mọi năm, song không khí lạnh cường độ mạnh ngay từ những đợt đầu khiến người dân cảm nhận rõ rệt hơn cái lạnh đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:31:47+07:00",
+      "fetched": "2025-11-04T11:19:38.800393+07:00"
+    },
+    {
+      "id": "15f10bd2533192012e0ce60104e2c7be",
+      "title": "Hồ sơ xét giáo sư của tỉ phú Hồ Xuân Năng được cấp nhà nước thông qua",
+      "link": "https://thanhnien.vn/ho-so-xet-giao-su-cua-ti-phu-ho-xuan-nang-duoc-cap-nha-nuoc-thong-qua-185251104100905686.htm",
+      "summary": "Hội đồng Giáo sư nhà nước đã công bố đầy đủ danh sách ứng viên giáo sư, phó giáo sư của 26 ngành, liên ngành đã được cấp nhà nước thông qua. Hồ sơ xét giáo sư của tỉ phú Hồ Xuân Năng đã được thông qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:30:00+07:00",
+      "fetched": "2025-11-04T11:19:41.917287+07:00"
+    },
+    {
+      "id": "3ddeacb57495248c09d9416269987d92",
+      "title": "Samsung 'mở' cập nhật One UI 8 trở lại cho dòng Galaxy S23",
+      "link": "https://thanhnien.vn/samsung-mo-cap-nhat-one-ui-8-tro-lai-cho-dong-galaxy-s23-185251104093537176.htm",
+      "summary": "One UI 8 (Android 16) đã quay trở lại trên dòng Galaxy S23 sau một thời gian tạm hoãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:29:00+07:00",
+      "fetched": "2025-11-04T11:19:41.917432+07:00"
+    },
+    {
+      "id": "9655b00c202c7413cf958e5434beb6ad",
+      "title": "Chứng khoán Công thương ra mắt nhận diện thương hiệu mới",
+      "link": "https://vnexpress.net/chung-khoan-cong-thuong-ra-mat-nhan-dien-thuong-hieu-moi-4959636.html",
+      "summary": "Chứng khoán Ngân hàng Công thương Việt Nam (VietinBank Securities) đổi tên viết tắt thành VBSE, nâng cấp hàng loạt tính năng cho nền tảng giao dịch trực tuyến, từ ngày 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:15:00+07:00",
+      "fetched": "2025-11-04T11:19:38.800571+07:00"
+    },
+    {
+      "id": "9655b00c202c7413cf958e5434beb6ad",
+      "title": "Chứng khoán Công thương ra mắt nhận diện thương hiệu mới",
+      "link": "https://vnexpress.net/chung-khoan-cong-thuong-ra-mat-nhan-dien-thuong-hieu-moi-4959636.html",
+      "summary": "Chứng khoán Ngân hàng Công thương Việt Nam (VietinBank Securities) đổi tên viết tắt thành VBSE, nâng cấp hàng loạt tính năng cho nền tảng giao dịch trực tuyến, từ ngày 22/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T03:15:00+07:00",
+      "fetched": "2025-11-04T11:19:46.227378+07:00"
+    },
+    {
+      "id": "a07a2b5dfd1a82e76689d987656b8562",
+      "title": "Đi đâu ngắm trọn cảnh đẹp mùa thu Việt Nam",
+      "link": "https://vnexpress.net/di-dau-ngam-tron-canh-dep-mua-thu-viet-nam-4956837.html",
+      "summary": "Ghé vùng núi tây bắc săn mây, đến Đà Lạt ngắm cỏ hồng hay tới Cần Thơ mùa nước nổi là những gợi ý dành cho khách muốn tận hưởng không khí, cảnh sắc mùa thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:11:58+07:00",
+      "fetched": "2025-11-04T11:19:38.800735+07:00"
+    },
+    {
+      "id": "080f71dcd31dd0f2d2b0e00f8a39fc21",
+      "title": "Chính quyền Trump nối lại một phần trợ cấp tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/chinh-quyen-trump-noi-lai-mot-phan-tro-cap-tem-phieu-thuc-pham-4959575.html",
+      "summary": "Chính phủ Mỹ sẽ chi một nửa trợ cấp SNAP trong tháng 11, sau khi thẩm phán liên bang ra phán quyết yêu cầu chính phủ duy trì khoản hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:09:42+07:00",
+      "fetched": "2025-11-04T11:19:38.800899+07:00"
+    },
+    {
+      "id": "080f71dcd31dd0f2d2b0e00f8a39fc21",
+      "title": "Chính quyền Trump nối lại một phần trợ cấp tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/chinh-quyen-trump-noi-lai-mot-phan-tro-cap-tem-phieu-thuc-pham-4959575.html",
+      "summary": "Chính phủ Mỹ sẽ chi một nửa trợ cấp SNAP trong tháng 11, sau khi thẩm phán liên bang ra phán quyết yêu cầu chính phủ duy trì khoản hỗ trợ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T03:09:42+07:00",
+      "fetched": "2025-11-04T11:19:44.925494+07:00"
+    },
+    {
+      "id": "27ad8a1fdf08b5448b429ac28f88c6dd",
+      "title": "Bộ trưởng Bỉ kêu gọi 'bình tĩnh' sau lời đe dọa của ông Medvedev",
+      "link": "https://vnexpress.net/bo-truong-bi-keu-goi-binh-tinh-sau-loi-de-doa-cua-ong-medvedev-4959567.html",
+      "summary": "Bộ trưởng Quốc phòng Bỉ Francken kêu gọi ông Medvedev \"bình tĩnh\", sau khi quan chức này nói rằng Bỉ \"có thể biến mất\" vì siêu vũ khí mới của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:09:28+07:00",
+      "fetched": "2025-11-04T11:19:38.801079+07:00"
+    },
+    {
+      "id": "27ad8a1fdf08b5448b429ac28f88c6dd",
+      "title": "Bộ trưởng Bỉ kêu gọi 'bình tĩnh' sau lời đe dọa của ông Medvedev",
+      "link": "https://vnexpress.net/bo-truong-bi-keu-goi-binh-tinh-sau-loi-de-doa-cua-ong-medvedev-4959567.html",
+      "summary": "Bộ trưởng Quốc phòng Bỉ Francken kêu gọi ông Medvedev \"bình tĩnh\", sau khi quan chức này nói rằng Bỉ \"có thể biến mất\" vì siêu vũ khí mới của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T03:09:28+07:00",
+      "fetched": "2025-11-04T11:19:44.925678+07:00"
+    },
+    {
+      "id": "c288169ff740c355e8484dd9b58b1be5",
+      "title": "Anh có thể đã chuyển thêm tên lửa Storm Shadow cho Ukraine",
+      "link": "https://vnexpress.net/anh-co-the-da-chuyen-them-ten-lua-storm-shadow-cho-ukraine-4959549.html",
+      "summary": "Anh dường như đã viện trợ Ukraine thêm loạt tên lửa Storm Shadow, có tầm bắn tới 560 km, nhằm giúp nước này tiếp tục tập kích lãnh thổ Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:08:54+07:00",
+      "fetched": "2025-11-04T11:19:38.801239+07:00"
+    },
+    {
+      "id": "c288169ff740c355e8484dd9b58b1be5",
+      "title": "Anh có thể đã chuyển thêm tên lửa Storm Shadow cho Ukraine",
+      "link": "https://vnexpress.net/anh-co-the-da-chuyen-them-ten-lua-storm-shadow-cho-ukraine-4959549.html",
+      "summary": "Anh dường như đã viện trợ Ukraine thêm loạt tên lửa Storm Shadow, có tầm bắn tới 560 km, nhằm giúp nước này tiếp tục tập kích lãnh thổ Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T03:08:54+07:00",
+      "fetched": "2025-11-04T11:19:44.925844+07:00"
+    },
+    {
       "id": "08eb0c0bb5362328b69a21a511913815",
       "title": "Mỹ tính đưa lính, đặc vụ CIA vào lãnh thổ Mexico chống ma túy?",
       "link": "https://thanhnien.vn/my-tinh-dua-linh-dac-vu-cia-vao-lanh-tho-mexico-chong-ma-tuy-185251104091938895.htm",
@@ -243,6 +603,16 @@ window.newsData_2025_11_04 = {
       "fetched": "2025-11-04T10:07:34.446381+07:00"
     },
     {
+      "id": "4f32f2aa1e0e31306b8535013e585d6b",
+      "title": "Người dân tháo chạy sau trận động đất 6,3 độ ở Afghanistan",
+      "link": "https://vnexpress.net/nguoi-dan-thao-chay-sau-tran-dong-dat-6-3-do-o-afghanistan-4959488.html",
+      "summary": "Trận động đất 6,3 độ xảy ra miền bắc Afghanistan khiến ít nhất 20 người thiệt mạng, 600 người bị thương và làm hư hại nhiều công trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:01:03+07:00",
+      "fetched": "2025-11-04T11:19:38.801396+07:00"
+    },
+    {
       "id": "9383d708fb98cecfff653e8f5ec53ec2",
       "title": "Chính phủ đề xuất xóa bỏ thuế khoán với cá nhân, hộ kinh doanh",
       "link": "https://thanhnien.vn/chinh-phu-de-xuat-xoa-bo-thue-khoan-voi-ca-nhan-ho-kinh-doanh-185251104092807786.htm",
@@ -251,6 +621,26 @@ window.newsData_2025_11_04 = {
       "category": "Tổng hợp",
       "published": "2025-11-04T03:01:00+07:00",
       "fetched": "2025-11-04T10:07:34.446546+07:00"
+    },
+    {
+      "id": "4ddfd5ea3f1cae675878407e8ca7ca7d",
+      "title": "Nền bóng đá Malaysia bị ví như 'đống đổ nát'",
+      "link": "https://vnexpress.net/nen-bong-da-malaysia-bi-vi-nhu-dong-do-nat-4959629.html",
+      "summary": "Việc Liên đoàn bóng đá Malaysia bị FIFA bác đơn kháng cáo trong vụ giả mạo hồ sơ của 7 cầu thủ nhập tịch khiến truyền thông nước này bi quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:00:22+07:00",
+      "fetched": "2025-11-04T11:19:38.801548+07:00"
+    },
+    {
+      "id": "4ddfd5ea3f1cae675878407e8ca7ca7d",
+      "title": "Nền bóng đá Malaysia bị ví như 'đống đổ nát'",
+      "link": "https://vnexpress.net/nen-bong-da-malaysia-bi-vi-nhu-dong-do-nat-4959629.html",
+      "summary": "Việc Liên đoàn bóng đá Malaysia bị FIFA bác đơn kháng cáo trong vụ giả mạo hồ sơ của 7 cầu thủ nhập tịch khiến truyền thông nước này bi quan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T03:00:22+07:00",
+      "fetched": "2025-11-04T11:19:51.633677+07:00"
     },
     {
       "id": "4ca43c1bf0847c81f80aa87bf40c3c7a",
