@@ -1,6 +1,6 @@
 window.newsData_2025_11_04 = {
   "date": "2025-11-04",
-  "lastUpdated": "2025-11-04T13:26:51.167076+07:00",
+  "lastUpdated": "2025-11-04T15:23:53.614110+07:00",
   "articles": [
     {
       "id": "0962012ad3193563107f415f8a48f95c",
@@ -383,6 +383,26 @@ window.newsData_2025_11_04 = {
       "fetched": "2025-11-04T10:07:37.343148+07:00"
     },
     {
+      "id": "de933bd8be573b67a0dd42838799b4a4",
+      "title": "Cựu danh thủ, chuyên gia bóng đá kêu gọi FAM nhận trách nhiệm: ‘Đã thua FIFA 0-2 rồi’",
+      "link": "https://thanhnien.vn/cuu-danh-thu-chuyen-gia-bong-da-keu-goi-fam-nhan-trach-nhiem-da-thua-fifa-0-2-roi-185251104151315496.htm",
+      "summary": "Sau khi FIFA bác đơn kháng cáo về vụ bê bối cầu thủ nhập tịch, hai gương mặt uy tín của bóng đá Malaysia - huyền thoại Safee Sali và chuyên gia Datuk Pekan Ramli - cùng lên tiếng kêu gọi FAM nhìn nhận sai lầm, chấp nhận án phạt và tập trung khôi phục hình ảnh bóng đá nước nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:20:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026068+07:00"
+    },
+    {
+      "id": "6211a8a900a5d4aa7c2112b801fc4589",
+      "title": "Chán siêu xe, ông Đặng Lê Nguyên Vũ tậu xế cổ Toyota Celica gần 50 tuổi",
+      "link": "https://thanhnien.vn/chan-sieu-xe-ong-dang-le-nguyen-vu-tau-xe-co-toyota-celica-gan-50-tuoi-185251031153636655.htm",
+      "summary": "Thay vì những siêu xe quen thuộc, doanh nhân Đặng Lê Nguyên Vũ - người sáng lập, Chủ tịch kiêm Tổng Giám đốc Tập đoàn Trung Nguyên mới đây khiến giới chơi xe bất ngờ khi xuất hiện trên phố cùng chiếc coupe 2 cửa thuộc diện \"hàng hiếm\" Toyota Celica.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:20:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026238+07:00"
+    },
+    {
       "id": "ef7410b9cacbb39f2e901e960b7a0ec0",
       "title": "Thời tiết hôm nay 4-11: Bắc Bộ rét đậm, Trung Bộ mưa dầm, Nam Bộ triều lên",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-11-bac-bo-ret-dam-trung-bo-mua-dam-nam-bo-trieu-len-20251103200717297.htm",
@@ -461,6 +481,396 @@ window.newsData_2025_11_04 = {
       "category": "Tổng hợp",
       "published": "2025-11-04T08:17:49.908917+07:00",
       "fetched": "2025-11-04T08:17:49.909120+07:00"
+    },
+    {
+      "id": "5a2344bd5ff22d56bdf4ce1fb1ce4834",
+      "title": "Chuyến du lịch 'có một không hai': Nước ngập ngang bụng, đi xe công nông ra sân bay",
+      "link": "https://thanhnien.vn/chuyen-du-lich-co-mot-khong-hai-nuoc-ngap-ngang-bung-di-xe-cong-nong-ra-san-bay-185251104151159399.htm",
+      "summary": "Một nhóm bạn trẻ đến Huế trong những ngày mưa ngập cuối tháng 10 vừa qua đã có chuyến du lịch “nhớ đời” khi nước ngập ngang bụng, phải đi ghe mua đồ ăn, và ra sân bay bằng… xe công nông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:17:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026417+07:00"
+    },
+    {
+      "id": "8c1f37d3923e2672092667c72de33a0c",
+      "title": "Triệt xóa đường dây đưa khí cười từ nước ngoài vào Việt Nam",
+      "link": "https://thanhnien.vn/triet-xoa-duong-day-dua-khi-cuoi-tu-nuoc-ngoai-vao-viet-nam-185251104145947571.htm",
+      "summary": "Các lực lượng chức năng của tỉnh Quảng Ninh vừa triệt phá một đường dây đưa khí cười từ nước ngoài qua khu vực biên giới Bình Liêu vào Việt Nam tiêu thụ, thu giữ hơn 600 bình N2O cùng nhiều phương tiện vận chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:16:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026573+07:00"
+    },
+    {
+      "id": "7fd430671bd492ac2c4a3cfeaadcf84a",
+      "title": "Tàu chở 175.000 tấn quặng sắt mắc cạn: Ưu tiên xử lý 2.200 khối dầu trên tàu",
+      "link": "https://thanhnien.vn/tau-cho-175000-tan-quang-sat-mac-can-uu-tien-xu-ly-2200-khoi-dau-tren-tau-185251104144658066.htm",
+      "summary": "UBND tỉnh Quảng Ngãi yêu cầu Cảng vụ Hàng hải Quảng Ngãi và các đơn vị liên quan đưa phương án ứng phó, xử lý sự cố tàu Star Bueno mắc cạn trước 15 giờ ngày 4.11, không để sự cố tràn dầu xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:13:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026725+07:00"
+    },
+    {
+      "id": "7d08ab95004d419f77190c227b6067d2",
+      "title": "Gần 20.000 học sinh 30 tỉnh, thành không đủ điều kiện vẫn lái xe đi học",
+      "link": "https://thanhnien.vn/gan-20000-hoc-sinh-30-tinh-thanh-khong-du-dieu-kien-van-lai-xe-di-hoc-185251104144705613.htm",
+      "summary": "Qua kiểm tra, CSGT 30/34 tỉnh, thành phát hiện gần 20.000 học sinh không đủ điều kiện điều khiển phương tiện đến trường nhưng vẫn vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:10:00+07:00",
+      "fetched": "2025-11-04T15:23:45.026878+07:00"
+    },
+    {
+      "id": "136279fbcc4b128923492bce0dc9b7b8",
+      "title": "TP.HCM tiếp nhận hơn 204 tỉ đồng hỗ trợ đồng bào vùng bão lũ",
+      "link": "https://thanhnien.vn/tphcm-tiep-nhan-hon-204-ti-dong-ho-tro-dong-bao-vung-bao-lu-185251104142723116.htm",
+      "summary": "Ủy ban MTTQ Việt Nam TP.HCM cho biết đến ngày 2.11, tổng kinh phí vận động hỗ trợ đồng bào là hơn 204 tỉ đồng, cùng hàng trăm tấn hàng hóa, nhu yếu phẩm được chuyển kịp thời đến 18 tỉnh, thành phố chịu ảnh hưởng nặng nề do bão, lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:10:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027031+07:00"
+    },
+    {
+      "id": "7f499adb5a575907893b0dc567251e5c",
+      "title": "Hàng loạt mẫu mã giảm giá, xe Toyota hút khách Yaris Cross bán chạy nhất",
+      "link": "https://thanhnien.vn/hang-loat-mau-ma-giam-gia-xe-toyota-hut-khach-yaris-cross-ban-chay-nhat-185251103151242078.htm",
+      "summary": "Nỗ lực áp dụng chương trình ưu đãi, giảm giá với nhiều mẫu mã giúp xe Toyota hút khách, doanh số bán tăng trưởng tháng thứ hai liên tiếp, trong đó Yaris Cross vẫn vượt Vios để trở thành mẫu xe Toyota bán chạy nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:10:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027196+07:00"
+    },
+    {
+      "id": "0bb6dc476889e4c4c67e25a5b9d06a10",
+      "title": "Sáng sớm mai 5.11, bão Kalmaegi vào Biển Đông, sẽ mạnh lên cấp 14",
+      "link": "https://thanhnien.vn/sang-som-mai-511-bao-kalmaegi-vao-bien-dong-se-manh-len-cap-14-185251104145025677.htm",
+      "summary": "Bão Kalmaegi đang ở cường độ gió mạnh cấp 13, giật cấp 16 và dự báo trong sáng sớm mai 5.11 sẽ đi vào Biển Đông, là cơn bão số 13 trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:06:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027366+07:00"
+    },
+    {
+      "id": "3bd0b1e7b36112f00ab01423b4526be7",
+      "title": "Đà Nẵng: Công an, biên phòng vượt đèo sạt lở đưa 4 người dân đi cấp cứu",
+      "link": "https://thanhnien.vn/da-nang-cong-an-bien-phong-vuot-deo-sat-lo-dua-4-nguoi-dan-di-cap-cuu-185251104144108565.htm",
+      "summary": "Lực lượng công an, bộ đội biên phòng đã lội bộ, băng đèo sạt lở đưa 3 bệnh nhân cùng sản phụ ở xã vùng cao Đà Nẵng đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T08:01:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027520+07:00"
+    },
+    {
+      "id": "63d3242b03de389881ff55ea3006c909",
+      "title": "Sóng đánh chìm thuyền, đang tìm kiếm ngư dân mất ở cửa sông Roòn",
+      "link": "https://thanhnien.vn/song-danh-chim-thuyen-dang-tim-kiem-ngu-dan-mat-o-cua-song-roon-185251104141657997.htm",
+      "summary": "Ngày 4.11, thông tin từ Đồn Biên phòng Roòn cho biết, đơn vị đang triển khai lực lượng, phương tiện, phối hợp với địa phương và gia đình tìm kiếm ngư dân bị mất tích do sóng đánh chìm thuyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:56:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027672+07:00"
+    },
+    {
+      "id": "74f676c96a7e65de2526c2a88d0c6bba",
+      "title": "Số hóa vàng để huy động vốn - phù hợp nhưng cần lộ trình thận trọng",
+      "link": "https://vnexpress.net/cong-nghe-vang-de-huy-dong-von-phu-hop-nhung-can-lo-trinh-than-trong-4959775.html",
+      "summary": "Chuyên gia cho rằng số hóa vàng giúp huy động nguồn lực trong dân, nhưng cần cơ chế minh bạch và lộ trình thận trọng để giữ ổn định kinh tế vĩ mô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:54:08+07:00",
+      "fetched": "2025-11-04T15:23:41.795647+07:00"
+    },
+    {
+      "id": "74f676c96a7e65de2526c2a88d0c6bba",
+      "title": "Số hóa vàng để huy động vốn - phù hợp nhưng cần lộ trình thận trọng",
+      "link": "https://vnexpress.net/cong-nghe-vang-de-huy-dong-von-phu-hop-nhung-can-lo-trinh-than-trong-4959775.html",
+      "summary": "Chuyên gia cho rằng số hóa vàng giúp huy động nguồn lực trong dân, nhưng cần cơ chế minh bạch và lộ trình thận trọng để giữ ổn định kinh tế vĩ mô.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T07:54:08+07:00",
+      "fetched": "2025-11-04T15:23:49.511488+07:00"
+    },
+    {
+      "id": "9a642e7d0347d8025c78983020e2376c",
+      "title": "Nhiếp chính vương Malaysia tuyên bố sốc, úp mở mong muốn FIFA không trừng phạt 7 cầu thủ",
+      "link": "https://thanhnien.vn/nhiep-chinh-vuong-malaysia-tuyen-bo-soc-up-mo-mong-muon-fifa-khong-trung-phat-7-cau-thu-185251104144315986.htm",
+      "summary": "Trưa 4.11, Nhiếp chính vương Malaysia Johor Tunku Ismail đăng tải trạng thái bất ngờ trên trang cá nhân sau khi Liên đoàn Bóng đá thế giới (FIFA) công bố án phạt với Liên đoàn Bóng đá Malaysia (FAM) vụ nhập tịch lậu 7 cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:51:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027826+07:00"
+    },
+    {
+      "id": "14934f390e9aead33cccd2c4e4e12197",
+      "title": "Khởi tố hai bị can tham gia làm giả hồ sơ cấp phép môi trường",
+      "link": "https://thanhnien.vn/khoi-to-hai-bi-can-tham-gia-lam-gia-ho-so-cap-phep-moi-truong-185251104140812104.htm",
+      "summary": "Công ty TNHH Minh Phú Gia Lai (P.Thống Nhất, Gia Lai) và Công ty TNHH MTV Lâm Nghiệp Nhật An Gia Lai (P.Diên Hồng, Gia Lai) bị phát hiện làm giả hồ sơ cấp giấy phép về môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:47:00+07:00",
+      "fetched": "2025-11-04T15:23:45.027975+07:00"
+    },
+    {
+      "id": "c90edbccf294058d9caad48c193faff7",
+      "title": "Sinner: 'Tôi không thể tự quyết ngôi số một'",
+      "link": "https://vnexpress.net/sinner-toi-khong-the-tu-quyet-ngoi-so-mot-4959807.html",
+      "summary": "Vừa lấy lại vị trí số một thế giới từ Carlos Alcaraz, tay vợt người Italy Jannik Sinner vẫn rất thận trọng khi nhận định về cơ hội giữ đỉnh bảng ATP.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:46:09+07:00",
+      "fetched": "2025-11-04T15:23:41.795846+07:00"
+    },
+    {
+      "id": "c90edbccf294058d9caad48c193faff7",
+      "title": "Sinner: 'Tôi không thể tự quyết ngôi số một'",
+      "link": "https://vnexpress.net/sinner-toi-khong-the-tu-quyet-ngoi-so-mot-4959807.html",
+      "summary": "Vừa lấy lại vị trí số một thế giới từ Carlos Alcaraz, tay vợt người Italy Jannik Sinner vẫn rất thận trọng khi nhận định về cơ hội giữ đỉnh bảng ATP.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T07:46:09+07:00",
+      "fetched": "2025-11-04T15:23:53.605517+07:00"
+    },
+    {
+      "id": "50cc405d7354950970da4cb6713ee791",
+      "title": "Dọn khu biệt thự từng của Chú Hỏa để làm đài tưởng niệm",
+      "link": "https://vnexpress.net/don-khu-biet-thu-tung-cua-chu-hoa-de-lam-dai-tuong-niem-4959767.html",
+      "summary": "Khu biệt thự số 1 Lý Thái Tổ, phường Vườn Lài, vốn là chỗ ở gia đình Chú Hỏa, bỏ hoang nhiều năm qua, đang được dọn dẹp để xây đài tưởng niệm, công viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:45:22+07:00",
+      "fetched": "2025-11-04T15:23:41.796009+07:00"
+    },
+    {
+      "id": "6b533ef553486f8ba02bc50ad3bfeb54",
+      "title": "Trương Mạn Ngọc, Trương Quốc Vinh từng kiệt quệ khi làm việc với Vương Gia Vệ",
+      "link": "https://thanhnien.vn/truong-man-ngoc-truong-quoc-vinh-tung-kiet-que-khi-lam-viec-voi-vuong-gia-ve-185251104133432648.htm",
+      "summary": "Đoạn ghi âm giữa đạo diễn Vương Gia Vệ và biên kịch Tần Văn đã khiến nhiều sao Hoa ngữ bị ảnh hưởng. Các tên tuổi lớn như Trương Quốc Vinh, Trương Mạn Ngọc cũng bị kéo vào vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:39:00+07:00",
+      "fetched": "2025-11-04T15:23:45.028126+07:00"
+    },
+    {
+      "id": "fb1070ccba718e7be7797b3888546f93",
+      "title": "Từ 1.1.2026, lương của giảng viên ĐH tính thế nào và cao nhất bao nhiêu?",
+      "link": "https://thanhnien.vn/tu-112026-luong-cua-giang-vien-dh-tinh-the-nao-va-cao-nhat-bao-nhieu-185251104132114817.htm",
+      "summary": "Dự thảo về chính sách tiền lương mà Bộ GD-ĐT vừa đưa ra để lấy ý kiến đóng góp có điểm mới quan trọng là nhà giáo sẽ được hưởng hệ số lương đặc thù và giáo sư sẽ được áp dụng bảng lương của chuyên gia cao cấp. Như vậy lương của giảng viên ĐH được tính ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:37:00+07:00",
+      "fetched": "2025-11-04T15:23:45.028279+07:00"
+    },
+    {
+      "id": "3578ce45a4dca93fc5ec2ef1f0d71349",
+      "title": "Phi hành gia Trung Quốc nướng gà giữa trạm không gian",
+      "link": "https://vnexpress.net/phi-hanh-gia-trung-quoc-nuong-ga-giua-tram-khong-gian-4959751.html",
+      "summary": "Ba phi hành gia Trung Quốc vừa đặt chân lên trên trạm không gian Thiên Cung có trải nghiệm đặc biệt khi lần đầu tiên nướng thịt giữa vũ trụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:34:26+07:00",
+      "fetched": "2025-11-04T15:23:41.796174+07:00"
+    },
+    {
+      "id": "3578ce45a4dca93fc5ec2ef1f0d71349",
+      "title": "Phi hành gia Trung Quốc nướng gà giữa trạm không gian",
+      "link": "https://vnexpress.net/phi-hanh-gia-trung-quoc-nuong-ga-giua-tram-khong-gian-4959751.html",
+      "summary": "Ba phi hành gia Trung Quốc vừa đặt chân lên trên trạm không gian Thiên Cung có trải nghiệm đặc biệt khi lần đầu tiên nướng thịt giữa vũ trụ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T07:34:26+07:00",
+      "fetched": "2025-11-04T15:23:47.672720+07:00"
+    },
+    {
+      "id": "1a67d332cf526eb4ffd4ba9b40b40292",
+      "title": "Hẹn hò đi anh, mùa đông tới rồi",
+      "link": "https://vnexpress.net/hen-ho-di-anh-mua-dong-toi-roi-4959595.html",
+      "summary": "Mùa đông đã đến rồi, mình cùng hẹn hò để sưởi ấm hai trái tim cô đơn, anh nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:34:09+07:00",
+      "fetched": "2025-11-04T15:23:41.796275+07:00"
+    },
+    {
+      "id": "c21203859dbe808556e4ae86eeb83a9f",
+      "title": "Liverpool có cảm thấy nhớ Alexander-Arnold?",
+      "link": "https://vnexpress.net/liverpool-co-cam-thay-nho-alexander-arnold-4959749.html",
+      "summary": "Trent Alexander-Arnold sẽ lần đầu trở lại Liverpool sau khi gia nhập Real Madrid, và 90 phút tại Anfield hôm nay cho thấy liệu đội bóng cũ có nhớ anh hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:30:04+07:00",
+      "fetched": "2025-11-04T15:23:41.796482+07:00"
+    },
+    {
+      "id": "c21203859dbe808556e4ae86eeb83a9f",
+      "title": "Liverpool có cảm thấy nhớ Alexander-Arnold?",
+      "link": "https://vnexpress.net/liverpool-co-cam-thay-nho-alexander-arnold-4959749.html",
+      "summary": "Trent Alexander-Arnold sẽ lần đầu trở lại Liverpool sau khi gia nhập Real Madrid, và 90 phút tại Anfield hôm nay cho thấy liệu đội bóng cũ có nhớ anh hay không.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T07:30:04+07:00",
+      "fetched": "2025-11-04T15:23:53.604510+07:00"
+    },
+    {
+      "id": "769a3e8b6c17c34b9dd3f1dd415bdeb3",
+      "title": "Đất vàng và tượng đài Covid",
+      "link": "https://vnexpress.net/dat-vang-va-tuong-dai-covid-4959750.html",
+      "summary": "Tôi vừa trải qua một tuần nằm bẹp dí ở nhà vì cúm mùa. Sốt, đau họng, những cơn ho liên tục, kéo dài khiến cơ thể mệt mỏi. Không chỉ vậy, tất cả triệu chứng quen thuộc ấy còn khơi lại nỗi ám ảnh kinh hoàng của những ngày bị nhiễm Covid-19 bốn năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:30:00+07:00",
+      "fetched": "2025-11-04T15:23:41.796647+07:00"
+    },
+    {
+      "id": "8960169793e0e34cce11d5fba9bac9bf",
+      "title": "Những ứng dụng công nghệ tiên tiến trong tạo hình thẩm mỹ",
+      "link": "https://vnexpress.net/nhung-ung-dung-cong-nghe-tien-tien-trong-tao-hinh-tham-my-4956863.html",
+      "summary": "Theo bác sĩ Đạt Nguyễn, trong phẫu thuật thẩm mỹ hiện đại, công nghệ như Q-Lean Lipo, Vectra XT… đóng vai trò quan trọng, góp phần quyết định độ chính xác, an toàn và kết quả thẩm mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:30:00+07:00",
+      "fetched": "2025-11-04T15:23:41.796815+07:00"
+    },
+    {
+      "id": "c8110ca0ec412ac20f3fb0ff41e5f6b2",
+      "title": "Người Mỹ sử dụng tem phiếu thực phẩm thế nào",
+      "link": "https://vnexpress.net/nguoi-my-su-dung-tem-phieu-thuc-pham-the-nao-4959544.html",
+      "summary": "Chương trình tem phiếu SNAP cấp tiền hỗ trợ để 42 triệu người Mỹ có hoàn cảnh khó khăn mua thực phẩm, nhưng đang đình trệ vì cạn ngân sách hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:28:50+07:00",
+      "fetched": "2025-11-04T15:23:41.796975+07:00"
+    },
+    {
+      "id": "c8110ca0ec412ac20f3fb0ff41e5f6b2",
+      "title": "Người Mỹ sử dụng tem phiếu thực phẩm thế nào",
+      "link": "https://vnexpress.net/nguoi-my-su-dung-tem-phieu-thuc-pham-the-nao-4959544.html",
+      "summary": "Chương trình tem phiếu SNAP cấp tiền hỗ trợ để 42 triệu người Mỹ có hoàn cảnh khó khăn mua thực phẩm, nhưng đang đình trệ vì cạn ngân sách hoạt động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T07:28:50+07:00",
+      "fetched": "2025-11-04T15:23:47.672903+07:00"
+    },
+    {
+      "id": "80b163906b3ef7c77405d6dae09a088c",
+      "title": "Đoạn tường thành Huế đổ sụp do mưa lũ",
+      "link": "https://vnexpress.net/doan-tuong-thanh-hue-do-sup-do-mua-lu-4959785.html",
+      "summary": "Mưa lớn kéo dài nhiều ngày khiến một đoạn tường dài khoảng 15 m của Hoàng thành Huế, nằm gần cổng Hòa Bình, bất ngờ đổ sập vào tối 2/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:28:21+07:00",
+      "fetched": "2025-11-04T15:23:41.797151+07:00"
+    },
+    {
+      "id": "8a2bde952499229f88f548ed748609d1",
+      "title": "Hãng máy lạnh duy nhất trên sàn chứng khoán lãi kỷ lục",
+      "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-chung-khoan-lai-ky-luc-4959659.html",
+      "summary": "Nagakawa, doanh nghiệp bán máy lạnh duy nhất niêm yết trên sàn, lãi hơn 30 tỷ đồng trong 9 tháng đầu năm, mức kỷ lục trong lịch sử hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:27:09+07:00",
+      "fetched": "2025-11-04T15:23:41.797334+07:00"
+    },
+    {
+      "id": "8a2bde952499229f88f548ed748609d1",
+      "title": "Hãng máy lạnh duy nhất trên sàn chứng khoán lãi kỷ lục",
+      "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-chung-khoan-lai-ky-luc-4959659.html",
+      "summary": "Nagakawa, doanh nghiệp bán máy lạnh duy nhất niêm yết trên sàn, lãi hơn 30 tỷ đồng trong 9 tháng đầu năm, mức kỷ lục trong lịch sử hoạt động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T07:27:09+07:00",
+      "fetched": "2025-11-04T15:23:49.511666+07:00"
+    },
+    {
+      "id": "bb6fec498808d47fb9766aa8789ef486",
+      "title": "Tiếng 'bốp chát' từ sân pickleball châm ngòi mâu thuẫn",
+      "link": "https://vnexpress.net/tieng-bop-chat-tu-san-pickleball-cham-ngoi-mau-thuan-4959703.html",
+      "summary": "Tiếng đập bóng đặc trưng của pickleball khiến người chơi phấn khích nhưng hàng xóm sống quanh sân gọi là \"thảm họa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:26:48+07:00",
+      "fetched": "2025-11-04T15:23:41.797496+07:00"
+    },
+    {
+      "id": "7fa6270bbb74cefe32d3e97e13bd7644",
+      "title": "Tro cốt huyền thoại võ thuật Lưu Gia Lương bị trộm",
+      "link": "https://vnexpress.net/tro-cot-huyen-thoai-vo-thuat-luu-gia-luong-bi-trom-4959773.html",
+      "summary": "Cựu diễn viên Ông Tĩnh Tinh, vợ tài tử Lưu Gia Lương, cho biết tro cốt của chồng bà đã bị đánh cắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:25:56+07:00",
+      "fetched": "2025-11-04T15:23:41.797651+07:00"
+    },
+    {
+      "id": "c9b0cca30285e809c5a8b59cfb8695a2",
+      "title": "Bách khoa Hà Nội trả lương đến 150 triệu đồng cho tiến sĩ đại học top đầu thế giới",
+      "link": "https://vnexpress.net/bach-khoa-ha-noi-tra-luong-den-150-trieu-dong-cho-tien-si-dai-hoc-top-dau-the-gioi-4959752.html",
+      "summary": "Tiến sĩ trẻ tốt nghiệp từ các đại học hàng đầu thế giới được trả lương tháng 40-150 triệu đồng cùng nhiều đãi ngộ nếu về làm ở Bách khoa Hà Nội, trong chiến lược để trường vào top 150 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:24:52+07:00",
+      "fetched": "2025-11-04T15:23:41.797808+07:00"
+    },
+    {
+      "id": "93627b8e2f32b283ce63c67235e254a3",
+      "title": "Cô gái nào trộm dưa hấu trong siêu thị?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-co-gai-nao-trom-dua-hau-trong-sieu-thi-4959679.html",
+      "summary": "Một vụ mất cắp dưa hấu vừa được phát hiện tại siêu thị vui nhộn nhất năm, và nghi phạm lại là... ba người phụ nữ đáng ngờ!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T07:23:54+07:00",
+      "fetched": "2025-11-04T15:23:41.797958+07:00"
+    },
+    {
+      "id": "0b310ddb33db839890b28027d6ffef15",
+      "title": "Mỹ có thể đưa đặc nhiệm đến Mexico diệt băng đảng ma túy",
+      "link": "https://vnexpress.net/my-co-the-dua-dac-nhiem-den-mexico-diet-bang-dang-ma-tuy-4959604.html",
+      "summary": "Chính quyền Tổng thống Trump đang nghiên cứu khả năng triển khai đặc nhiệm, nhân viên tình báo đến Mexico trực tiếp tiêu diệt các băng đảng ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T07:12:40+07:00",
+      "fetched": "2025-11-04T15:23:47.673070+07:00"
+    },
+    {
+      "id": "55f746e4e402c03c204ea74b11ee5561",
+      "title": "Indonesia có thể chi gần một tỷ USD để mua vận tải cơ châu Âu",
+      "link": "https://vnexpress.net/indonesia-co-the-chi-gan-mot-ty-usd-de-mua-van-tai-co-chau-au-4959643.html",
+      "summary": "Indonesia nhận vận tải cơ A400M đầu tiên trong đơn hàng hai chiếc, mỗi máy bay có giá ước tính 200 triệu USD, và có thể mua thêm 4 phi cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T07:07:47+07:00",
+      "fetched": "2025-11-04T15:23:47.673231+07:00"
+    },
+    {
+      "id": "df32c1daa63bba29109eedbccc1e4c8d",
+      "title": "Carragher: 'Ngay từ đầu, tôi đã nghi ngờ việc Liverpool mua Isak và Ekitike'",
+      "link": "https://vnexpress.net/carragher-ngay-tu-dau-toi-da-nghi-ngo-viec-liverpool-mua-isak-va-ekitike-4959683.html",
+      "summary": "Theo cựu trung vệ Jamie Carragher, HLV Arne Slot đang đau đầu vì chưa tìm ra giải pháp hữu hiệu để kết hợp hai tân binh đắt giá Alexander Isak và Hugo Ekitike.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T07:06:09+07:00",
+      "fetched": "2025-11-04T15:23:53.605673+07:00"
+    },
+    {
+      "id": "a069358f2eee623c26976b63a1da6b08",
+      "title": "CEO ExxonMobil và QatarEnergy dọa ngừng cấp khí đốt cho EU",
+      "link": "https://vnexpress.net/ceo-exxonmobil-va-qatarenergy-doa-ngung-cap-khi-dot-cho-eu-4959743.html",
+      "summary": "Lãnh đạo hai tập đoàn khí đốt hàng đầu thế giới cảnh báo ngừng cấp hàng cho châu Âu, và cho rằng chính sách tuân thủ cam kết Net Zero là không khả thi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T07:03:40+07:00",
+      "fetched": "2025-11-04T15:23:49.513114+07:00"
+    },
+    {
+      "id": "1673d4b0336006a8c55f4477f041fffe",
+      "title": "Bão Kalmaegi tàn phá Philippines",
+      "link": "https://vnexpress.net/bao-kalmaegi-tan-pha-philippines-4959744.html",
+      "summary": "Bão Kalmaegi càn quét miền trung Philippines, gây mưa to, gió lớn, làm tốc mái nhiều nhà cửa và ngập lụt diện rộng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T07:02:34+07:00",
+      "fetched": "2025-11-04T15:23:47.673412+07:00"
     },
     {
       "id": "e9b1de0a7b0a3b26146f5a08a7603b79",
