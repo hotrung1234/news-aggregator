@@ -1,7 +1,87 @@
 window.newsData_2025_11_05 = {
   "date": "2025-11-05",
-  "lastUpdated": "2025-11-05T10:09:16.802945+07:00",
+  "lastUpdated": "2025-11-05T11:20:32.372052+07:00",
   "articles": [
+    {
+      "id": "7f46ccd634ffd3ff693829c9964a96ab",
+      "title": "CPTPP - lựa chọn hấp dẫn giữa làn sóng bảo hộ",
+      "link": "https://tuoitre.vn/cptpp-lua-chon-hap-dan-giua-lan-song-bao-ho-2025110508054489.htm",
+      "summary": "Giữa lo ngại về chính sách thuế quan của Tổng thống Mỹ Donald Trump, Philippines và UAE vừa nộp đơn xin gia nhập CPTPP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:26.519893+07:00",
+      "fetched": "2025-11-05T11:20:26.520011+07:00"
+    },
+    {
+      "id": "f8b92b3cc592d38d1f09885b122dd260",
+      "title": "Tai nạn xe máy: 2 người chết, 2 người bị thương nặng",
+      "link": "https://tuoitre.vn/tai-nan-xe-may-2-nguoi-chet-2-nguoi-bi-thuong-nang-20251105082910727.htm",
+      "summary": "Một vụ tai nạn giao thông giữa 2 xe máy vừa xảy ra trên quốc lộ 19, đoạn qua xã Bàu Cạn (Gia Lai), làm 2 người chết, 2 người bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:26.519754+07:00",
+      "fetched": "2025-11-05T11:20:26.519881+07:00"
+    },
+    {
+      "id": "be7605aabc15ab44f630ba215f3516af",
+      "title": "Việt kiều và chuyên gia đầu tư vào bất động sản Việt Nam",
+      "link": "https://tuoitre.vn/viet-kieu-va-chuyen-gia-dau-tu-vao-bat-dong-san-viet-nam-20251104230303094.htm",
+      "summary": "Những cải cách pháp lý gần đây tạo cơ hội lớn cho Việt kiều có thể tham gia sâu hơn vào phân khúc bất động sản cao cấp tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:26.519388+07:00",
+      "fetched": "2025-11-05T11:20:26.519740+07:00"
+    },
+    {
+      "id": "51f656ecebc1ff5d434a92498c2f3fdb",
+      "title": "Điện về thắp sáng những mùa điều vàng Bình Phước",
+      "link": "https://tuoitre.vn/dien-ve-thap-sang-nhung-mua-dieu-vang-binh-phuoc-20251105045208444.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:25.251992+07:00",
+      "fetched": "2025-11-05T11:20:26.519357+07:00"
+    },
+    {
+      "id": "abcd60433229dfeda9003841b27734a0",
+      "title": "Nga nói chờ Mỹ làm rõ tuyên bố của ông Trump về thử nghiệm hạt nhân",
+      "link": "https://tuoitre.vn/nga-noi-cho-my-lam-ro-tuyen-bo-cua-ong-trump-ve-thu-nghiem-hat-nhan-20251105084612991.htm",
+      "summary": "Điện Kremlin nhấn mạnh đang đợi Washington làm rõ tuyên bố Mỹ sẽ thử nghiệm hạt nhân \"vì Nga cũng làm thế\" của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:25.251862+07:00",
+      "fetched": "2025-11-05T11:20:25.251980+07:00"
+    },
+    {
+      "id": "dad1e66489a2e67fea7645844c348ef2",
+      "title": "Khai mạc Hội nghị Trung ương 14: Tập trung hai nội dung lớn",
+      "link": "https://tuoitre.vn/khai-mac-hoi-nghi-trung-uong-14-tap-trung-hai-noi-dung-lon-20251105085602986.htm",
+      "summary": "Sáng 5-11, Hội nghị lần thứ 14 Ban Chấp hành Trung ương Đảng khóa XIII khai mạc, tập trung vào hai nội dung lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:25.251721+07:00",
+      "fetched": "2025-11-05T11:20:25.251849+07:00"
+    },
+    {
+      "id": "61c1992182441b84b503a246f34aedb2",
+      "title": "Sạt lở núi xô nghiêng máy múc và xe tải, hai công nhân bị thương",
+      "link": "https://tuoitre.vn/sat-lo-nui-xo-nghieng-mai-muc-va-xe-tai-hai-cong-nhan-bi-thuong-20251105084028759.htm",
+      "summary": "Trong lúc công nhân dọn dẹp đất đá trên tuyến đường ven biển đã xảy ra vụ sạt lở làm hai người bị thương, máy móc bị xô đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:25.251580+07:00",
+      "fetched": "2025-11-05T11:20:25.251709+07:00"
+    },
+    {
+      "id": "d264cd4b04d1010f9d41270968f28fab",
+      "title": "Giảm lãi vay tới 2%/năm cho khách hàng bị thiệt hại bởi bão lũ",
+      "link": "https://tuoitre.vn/giam-lai-vay-toi-2-nam-cho-khach-hang-bi-thiet-hai-boi-bao-lu-20251105090627521.htm",
+      "summary": "Ngân hàng Nhà nước vừa yêu cầu giảm lãi suất cho vay 0,5%-2%/năm trong 3-6 tháng với dư nợ hiện hữu của khách hàng bị thiệt hại bởi bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:20:25.251352+07:00",
+      "fetched": "2025-11-05T11:20:25.251565+07:00"
+    },
     {
       "id": "b7358bd237bea66dcc2c18501b0fda4c",
       "title": "5 ngày hội ẩm thực chay trời mưa tầm tã nhưng bãi xe vẫn quá tải người đến thưởng thức",
@@ -263,6 +343,376 @@ window.newsData_2025_11_05 = {
       "fetched": "2025-11-05T08:19:04.337459+07:00"
     },
     {
+      "id": "88c7728d9eb4873ae9e27a0d2e60fb15",
+      "title": "Thực hư mẹo dùng dầu gội để ngăn kính ô tô bị mờ hơi sương",
+      "link": "https://thanhnien.vn/thuc-hu-meo-dung-dau-goi-de-ngan-kinh-o-to-bi-mo-hoi-suong-185251104214028383.htm",
+      "summary": "Một số người dùng ô tô truyền tai nhau mẹo bôi dầu gội đầu, bọt cạo râu lên kính để ngăn ngừa tình trạng kính ô tô bị mờ hơi sương khi sử dụng xe trong những ngày mưa hay thời tiết lạnh giá; tuy nhiên cách làm đơn giản này liệu có thực sự hiệu quả và an toàn cho kính xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:18:00+07:00",
+      "fetched": "2025-11-05T11:20:23.938819+07:00"
+    },
+    {
+      "id": "7541e715a35c95d4121bdaae7db8dfca",
+      "title": "Enrique: 'PSG tự tặng quà cho Bayern'",
+      "link": "https://vnexpress.net/enrique-psg-tu-tang-qua-cho-bayern-4960136.html",
+      "summary": "Sau trận thua Bayern 1-2 ở lượt bốn Champions League, HLV Luis Enrique thừa nhận PSG mắc quá nhiều sai lầm và có thể đã nhận thất bại nặng nề hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:16:17+07:00",
+      "fetched": "2025-11-05T11:20:21.107142+07:00"
+    },
+    {
+      "id": "7541e715a35c95d4121bdaae7db8dfca",
+      "title": "Enrique: 'PSG tự tặng quà cho Bayern'",
+      "link": "https://vnexpress.net/enrique-psg-tu-tang-qua-cho-bayern-4960136.html",
+      "summary": "Sau trận thua Bayern 1-2 ở lượt bốn Champions League, HLV Luis Enrique thừa nhận PSG mắc quá nhiều sai lầm và có thể đã nhận thất bại nặng nề hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T04:16:17+07:00",
+      "fetched": "2025-11-05T11:20:32.364068+07:00"
+    },
+    {
+      "id": "cb75b35c98443ca7e1de2d52e384aa01",
+      "title": "'Bài hát thu về' - Dương Thụ yêu và sống",
+      "link": "https://vnexpress.net/bai-hat-thu-ve-duong-thu-yeu-va-song-4960022.html",
+      "summary": "Mong muốn yêu người, yêu đời của nhạc sĩ Dương Thụ trong những năm tháng tuổi trẻ được gợi lại ở show ''Bài hát thu về''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:15:48+07:00",
+      "fetched": "2025-11-05T11:20:21.107357+07:00"
+    },
+    {
+      "id": "6924649f48bf70f5a9b832d448ddef7e",
+      "title": "Bộ ba tay ga Honda Lead, Air Blade, SH 2026 chốt giá từ 40,29 triệu đồng",
+      "link": "https://thanhnien.vn/bo-ba-tay-ga-honda-lead-air-blade-sh-2026-chot-gia-tu-4029-trieu-dong-18525110510380429.htm",
+      "summary": "Bộ ba xe tay ga chủ lực của Honda chính thức tung ra thị trường Việt Nam bản nâng cấp với thay đổi đáng kể về thiết kế, trang bị tiện ích; trong đó Lead có giá từ 40,29 triệu, Air Blade giá từ 42,99 triệu và SH125i giá từ 77,89 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:15:00+07:00",
+      "fetched": "2025-11-05T11:20:23.938987+07:00"
+    },
+    {
+      "id": "c52f1d5dab9bc0750f680b1441a695fc",
+      "title": "Philippines nguy cơ đối mặt thêm siêu bão",
+      "link": "https://vnexpress.net/philippines-nguy-co-doi-mat-them-sieu-bao-4960162.html",
+      "summary": "Một áp thấp nhiệt đới đang hoạt động ở vùng biển phía đông Philippines và có nguy cơ mạnh lên thành siêu bão tiến vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:12:55+07:00",
+      "fetched": "2025-11-05T11:20:21.107521+07:00"
+    },
+    {
+      "id": "c52f1d5dab9bc0750f680b1441a695fc",
+      "title": "Philippines nguy cơ đối mặt thêm siêu bão",
+      "link": "https://vnexpress.net/philippines-nguy-co-doi-mat-them-sieu-bao-4960162.html",
+      "summary": "Một áp thấp nhiệt đới đang hoạt động ở vùng biển phía đông Philippines và có nguy cơ mạnh lên thành siêu bão tiến vào nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T04:12:55+07:00",
+      "fetched": "2025-11-05T11:20:27.615629+07:00"
+    },
+    {
+      "id": "5c45fa14de9990ad512075265da0f3d5",
+      "title": "Honda Air Blade 2025 ra mắt, giá từ 42,3 triệu đồng",
+      "link": "https://vnexpress.net/honda-air-blade-2025-ra-mat-gia-tu-42-3-trieu-dong-4960110.html",
+      "summary": "Mẫu xe ga hướng đến nam giới có thiết kế mới, động cơ giữ nguyên như bản cũ, giá cao nhất 58,6 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:10:08+07:00",
+      "fetched": "2025-11-05T11:20:21.107678+07:00"
+    },
+    {
+      "id": "d015b975661a578ce4a9dab62e95914f",
+      "title": "Courtois: 'Real phạm quá nhiều lỗi với Liverpool'",
+      "link": "https://vnexpress.net/courtois-real-pham-qua-nhieu-loi-voi-liverpool-4960077.html",
+      "summary": "Thủ môn Thibaut Courtois trách đồng đội sau khi Real thua Liverpool 0-1 ở lượt bốn vòng bảng Champions League tối 4/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:09:01+07:00",
+      "fetched": "2025-11-05T11:20:21.107834+07:00"
+    },
+    {
+      "id": "d015b975661a578ce4a9dab62e95914f",
+      "title": "Courtois: 'Real phạm quá nhiều lỗi với Liverpool'",
+      "link": "https://vnexpress.net/courtois-real-pham-qua-nhieu-loi-voi-liverpool-4960077.html",
+      "summary": "Thủ môn Thibaut Courtois trách đồng đội sau khi Real thua Liverpool 0-1 ở lượt bốn vòng bảng Champions League tối 4/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T04:09:01+07:00",
+      "fetched": "2025-11-05T11:20:32.364250+07:00"
+    },
+    {
+      "id": "4e68a6b83cd217ac33ab960e6b14e732",
+      "title": "Lâm Đồng buộc doanh nghiệp phá tất cả hồ nước trên núi",
+      "link": "https://vnexpress.net/lam-dong-buoc-doanh-nghiep-pha-tat-ca-ho-nuoc-tren-nui-4960192.html",
+      "summary": "Công ty Trang Trại Việt phải phá bỏ các đập ngăn, không được tích nước trên núi để tránh thảm họa vỡ hồ chứa uy hiếp người dân phía dưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:08:19+07:00",
+      "fetched": "2025-11-05T11:20:21.107987+07:00"
+    },
+    {
+      "id": "f073cbec1a0984fc4995f0bb76d7547a",
+      "title": "Khánh Hòa: Buộc sơ tán người nuôi trồng thủy sản vào bờ tránh bão số 13",
+      "link": "https://thanhnien.vn/khanh-hoa-buoc-so-tan-nguoi-nuoi-trong-thuy-san-vao-bo-tranh-bao-so-13-18525110510001266.htm",
+      "summary": "Trước diễn biến phức tạp của bão Kalmaegi (bão số 13), sáng 5.1, UBND tỉnh Khánh Hòa đã phát công điện khẩn, yêu cầu các sở, ngành và địa phương đồng loạt triển khai các biện pháp ứng phó nhằm bảo vệ tính mạng và tài sản của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:08:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939146+07:00"
+    },
+    {
+      "id": "05c9164c30d2d74bcb336654d272e29e",
+      "title": "Bộ GD-ĐT yêu cầu Quảng Ninh tạm dừng sáp nhập trường học",
+      "link": "https://thanhnien.vn/bo-gd-dt-yeu-cau-quang-ninh-tam-dung-sap-nhap-truong-hoc-185251105092553504.htm",
+      "summary": "Bộ GD-ĐT vừa yêu cầu Quảng Ninh tạm dừng triển khai các phương án sáp nhập trường công lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:08:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939324+07:00"
+    },
+    {
+      "id": "b14178deda3ef24b998bba4b2e39eec7",
+      "title": "Dòng họ cực hiếm nào có thầy dạy học cho 4 vị vua nhà Trần?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-dong-ho-cuc-hiem-nao-co-thay-day-hoc-cho-4-vi-vua-nha-tran-4959713.html",
+      "summary": "Dù chưa đến 1% dân số nhưng dòng họ này có truyền thống hiếu học, sản sinh ra nhiều danh tướng, đặc biệt là người thầy của mọi thời đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:05:14+07:00",
+      "fetched": "2025-11-05T11:20:21.108136+07:00"
+    },
+    {
+      "id": "46ca4971990187174e2e459e2fd071d8",
+      "title": "Google Maps sắp có khả năng dùng AI để 'nhìn đường'",
+      "link": "https://thanhnien.vn/google-maps-sap-co-kha-nang-dung-ai-de-nhin-duong-185251105101350628.htm",
+      "summary": "Google Maps sắp dùng camera và AI (trí tuệ nhân tạo) để 'nhìn' bạn đang ở làn nào, chỉ đường chuẩn xác hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:03:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939477+07:00"
+    },
+    {
+      "id": "4eca3ae3a83973128e45808b33c207b4",
+      "title": "XEM NHANH 12H: Bão Kalmaegi giật cấp 15 khi đổ bộ? | Lạ lùng 2 xe SH trùng biển số tứ quý 9",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bao-kalmaegi-giat-cap-15-khi-do-bo-la-lung-2-xe-sh-trung-bien-so-tu-quy-9-185251105110210334.htm",
+      "summary": "Bão số 13 (Kalmaegi), tình hình lũ lụt, thảm sát tại Sudan… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 5.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:02:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939628+07:00"
+    },
+    {
+      "id": "74d9f4552d94e2cec23a8deb52764ecf",
+      "title": "Billiards: Cơ thủ Việt Nam cực bình tĩnh, đánh bại cựu vô địch thế giới người Nhật Bản",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-cuc-binh-tinh-danh-bai-cuu-vo-dich-the-gioi-nguoi-nhat-ban-185251105105623291.htm",
+      "summary": "Các cơ thủ Việt Nam có lượt trận ra quân với những kết quả tích cực tại vòng loại thứ ba World Cup billiards Gwangju 2025 đang diễn ra tại Hàn Quốc. Trong đó, Thón Viết Hoàng Minh đánh bại nhà cựu vô địch thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:02:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939777+07:00"
+    },
+    {
+      "id": "a028175585a4093aeeba73f43b9ea324",
+      "title": "Chủ tịch FIFA gửi quà đặc biệt, cảm ơn Chủ tịch VFF và chúc mừng đội nữ TP.HCM I",
+      "link": "https://thanhnien.vn/chu-tich-fifa-gui-qua-dac-biet-cam-on-chu-tich-vff-va-chuc-mung-doi-nu-tphcm-i-185251105110124324.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá thế giới (FIFA) Gianni Infantino đã gửi thư chúc mừng tới Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn và CLB bóng đá nữ TP.HCM I.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:01:00+07:00",
+      "fetched": "2025-11-05T11:20:23.939925+07:00"
+    },
+    {
+      "id": "20617334ee8b411e7683e32b826d9d3a",
+      "title": "Hyundai Santa Fe ưu đãi 180 triệu đồng, bảo hành 8 năm",
+      "link": "https://vnexpress.net/hyundai-santa-fe-uu-dai-180-trieu-dong-bao-hanh-8-nam-4960185.html",
+      "summary": "Hyundai Thành Công (HTV) tung loạt ưu đãi cho các dòng xe, gồm mức giảm tiền mặt và tăng quyền lợi bảo hành lên 8 năm, áp dụng trong tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:00:00+07:00",
+      "fetched": "2025-11-05T11:20:21.108329+07:00"
+    },
+    {
+      "id": "52314d9e22ff6ad7ab82820dfa804143",
+      "title": "Giá vàng giảm, liệu đã dứt chu kỳ tăng?",
+      "link": "https://vnexpress.net/gia-vang-giam-lieu-da-dut-chu-ky-tang-4960169.html",
+      "summary": "Sau khi giảm gần 10% từ đỉnh, giá vàng đã đi ngang suốt hai tuần. Nhưng theo chuyên gia, 60% khả năng vàng vẫn tăng giá do nhu cầu tìm nơi trú ẩn cho tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:00:00+07:00",
+      "fetched": "2025-11-05T11:20:21.108503+07:00"
+    },
+    {
+      "id": "3b320f73fff1ecfb05303da44f672400",
+      "title": "Rụng tóc hói đầu ở tuổi đôi mươi",
+      "link": "https://vnexpress.net/rung-toc-hoi-dau-o-tuoi-doi-muoi-4960134.html",
+      "summary": "Nhiều nam thanh niên 20-30 tuổi đến bệnh viện khám bởi rụng tóc do căng thẳng hay rối loạn nội tiết tố, bác sĩ ghi nhận tình trạng hói đầu có xu hướng trẻ hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:00:00+07:00",
+      "fetched": "2025-11-05T11:20:21.108666+07:00"
+    },
+    {
+      "id": "3432ccb4b4b8ba2299e6c7ebaf4e897c",
+      "title": "Tưởng bệnh trĩ hóa ung thư đại tràng",
+      "link": "https://vnexpress.net/tuong-benh-tri-hoa-ung-thu-dai-trang-4960064.html",
+      "summary": "Ông Tùng, 78 tuổi, đi đại tiện lẫn máu tưởng do bệnh trĩ, nội soi phát hiện khối ung thư chiếm toàn bộ lòng đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T04:00:00+07:00",
+      "fetched": "2025-11-05T11:20:21.108817+07:00"
+    },
+    {
+      "id": "3b3f4c82f7170f2f348d74dbb63b8ff0",
+      "title": "Dại dột khi dồn hết tiền xây nhà trên đất của bố mẹ chồng",
+      "link": "https://vnexpress.net/tai-san-thua-ke-dai-dot-khi-don-het-tien-xay-nha-tren-dat-cua-bo-me-chong-4960159.html",
+      "summary": "Em trai chồng đột nhiên nói phần đất chúng tôi đang ở là \"đất của bố mẹ\", giờ ông bà mất, hai anh em phải chia đều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:59:24+07:00",
+      "fetched": "2025-11-05T11:20:21.108971+07:00"
+    },
+    {
+      "id": "a3cb3b6ceb02127f9833629914ef1898",
+      "title": "Quảng Trị: Tìm thấy hai nạn nhân mất tích do mưa lũ",
+      "link": "https://thanhnien.vn/quang-tri-tim-thay-hai-nan-nhan-mat-tich-do-mua-lu-185251105100046918.htm",
+      "summary": "Bộ đội biên phòng tỉnh Quảng Trị vừa phát hiện thi thể của 2 nạn nhân mất tích do mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:59:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940071+07:00"
+    },
+    {
+      "id": "6b90c9b9a8d1453cb55f055acb0f6495",
+      "title": "TP.Huế: Thông điểm sạt lở trên đường Hồ Chí Minh nối Quảng Trị",
+      "link": "https://thanhnien.vn/tphue-thong-diem-sat-lo-tren-duong-ho-chi-minh-noi-quang-tri-185251105101050687.htm",
+      "summary": "Mưa lớn đã khiến một đoạn trên đường Hồ Chí Minh (địa phận xã A Lưới 1, TP.Huế) bị sạt lở nghiêm trọng. Hàng tá đất đá từ núi đổ xuống đường khiến giao thông tê liệt trong nhiều giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:55:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940235+07:00"
+    },
+    {
+      "id": "c3a1ad900e2e5aa1c0edff174f29ce6c",
+      "title": "Lân Nhã lên tiếng khi giá vé concert cao ngang ngửa Mỹ Tâm, Hà Anh Tuấn",
+      "link": "https://thanhnien.vn/lan-nha-len-tieng-khi-gia-ve-concert-cao-ngang-ngua-my-tam-ha-anh-tuan-185251105104450068.htm",
+      "summary": "Sau 15 năm làm nghề, Lân Nhã tổ chức concert riêng, nhưng vướng tranh luận vì mức giá cao. Nam ca sĩ đã gửi lời xin lỗi khán giả, đồng thời giải thích lý do và tiết lộ những điều bất ngờ trong đêm nhạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:53:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940392+07:00"
+    },
+    {
+      "id": "38964a84c58a4c1322743313051723eb",
+      "title": "Bão Kalmaegi nhấn chìm một nửa thành phố Cebu",
+      "link": "https://vnexpress.net/bao-kalmaegi-nhan-chim-mot-nua-thanh-pho-cebu-4960109.html",
+      "summary": "Bão Kalmaegi gây mưa lớn, nhấn chìm một nửa thành phố Cebu, khiến hàng chục người chết đuối, cuốn trôi nhiều xe cộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:52:14+07:00",
+      "fetched": "2025-11-05T11:20:21.109120+07:00"
+    },
+    {
+      "id": "38964a84c58a4c1322743313051723eb",
+      "title": "Bão Kalmaegi nhấn chìm một nửa thành phố Cebu",
+      "link": "https://vnexpress.net/bao-kalmaegi-nhan-chim-mot-nua-thanh-pho-cebu-4960109.html",
+      "summary": "Bão Kalmaegi gây mưa lớn, nhấn chìm một nửa thành phố Cebu, khiến hàng chục người chết đuối, cuốn trôi nhiều xe cộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T03:52:14+07:00",
+      "fetched": "2025-11-05T11:20:27.615802+07:00"
+    },
+    {
+      "id": "e65836e22bc019e0775f6cf997938464",
+      "title": "Không phải bóng đá, đây mới là khoảnh khắc tự hào nhất của David Beckham",
+      "link": "https://thanhnien.vn/khong-phai-bong-da-day-moi-la-khoanh-khac-tu-hao-nhat-cua-david-beckham-185251105103027494.htm",
+      "summary": "25 danh hiệu, 115 lần khoác áo đội tuyển bóng đá Anh, 5 kỳ giải quốc tế và vô số bàn thắng để đời. Tuy nhiên, ngày 4.11.2025 mới là thời khắc tự hào nhất của David Beckham khi anh được phong tặng tước hiệp sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:51:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940559+07:00"
+    },
+    {
+      "id": "a581e7bc8951ab3c0dc9a719cc9d3484",
+      "title": "Đổ tội oan cho sinh viên vì AI",
+      "link": "https://vnexpress.net/do-toi-oan-cho-sinh-vien-vi-ai-4959436.html",
+      "summary": "Hàng nghìn sinh viên Australia bị cáo buộc gian lận khi làm bài tập, song thực tế là do phần mềm AI của các đại học có vấn đề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:50:24+07:00",
+      "fetched": "2025-11-05T11:20:21.109291+07:00"
+    },
+    {
+      "id": "5cd5a74a14142bf0f1bd8eebc6c6b2a4",
+      "title": "Xúc động: Xe tải mới mua chưa 'mở hàng' đã lao vào tâm lũ chở hàng cứu trợ",
+      "link": "https://thanhnien.vn/xuc-dong-xe-tai-moi-mua-chua-mo-hang-da-lao-vao-tam-lu-cho-hang-cuu-tro-185251105102801352.htm",
+      "summary": "Giữa những hiểm nguy ngày mưa lũ, một người tài xế đã vận chuyển những chuyến hàng miễn phí hỗ trợ người dân. Chiếc xe tải vừa mới mua chưa chạy “mở hàng” cũng được lấy đi chở hàng từ thiện trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:48:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940718+07:00"
+    },
+    {
+      "id": "7f89c9df0b1b0047f01f0827238d7ce5",
+      "title": "HDBank quyên góp hỗ trợ người dân vùng lũ",
+      "link": "https://vnexpress.net/hdbank-quyen-gop-ho-tro-nguoi-dan-vung-lu-4960127.html",
+      "summary": "HDBank đóng góp 10 tỷ đồng tại lễ bế mạc Hội chợ mùa thu 2025, ngày 3/11 nhằm hỗ trợ người dân miền núi phía Bắc và miền Trung khắc phục thiệt hại do bão lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:45:00+07:00",
+      "fetched": "2025-11-05T11:20:21.109451+07:00"
+    },
+    {
+      "id": "f4dcabda13baf35f2a9cae46d36df302",
+      "title": "Từ hạt lúa mì đến gói mì quốc dân",
+      "link": "https://thanhnien.vn/tu-hat-lua-mi-den-goi-mi-quoc-dan-185251105104901675.htm",
+      "summary": "Từ những hạt lúa mì vàng óng đến từng gói Hảo Hảo thơm ngon trên bàn ăn, Acecook Việt Nam đã viết nên hành trình gần ba thập kỷ đầy tâm huyết. Không chỉ dừng ở việc tạo nên một biểu tượng ẩm thực đại chúng, Acecook còn kiến tạo niềm tin bền vững qua quy trình sản xuất khép kín, hệ thống kiểm nghiệm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:38:00+07:00",
+      "fetched": "2025-11-05T11:20:23.940876+07:00"
+    },
+    {
+      "id": "eea9761d9a33b3441705ef489a624346",
+      "title": "Từ 15.12, cha mẹ bị phạt đến 10 triệu nếu ép con học quá sức",
+      "link": "https://thanhnien.vn/tu-1512-cha-me-bi-phat-den-10-trieu-neu-ep-con-hoc-qua-suc-185251105094616397.htm",
+      "summary": "Theo quy định mới, cha mẹ có thể bị xử phạt hành chính đến 10 triệu đồng nếu ép con học quá sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:32:00+07:00",
+      "fetched": "2025-11-05T11:20:23.941032+07:00"
+    },
+    {
+      "id": "dedfe240c9c6a9fe1f2b6c33b9ff1237",
+      "title": "Người dùng Android tại Việt Nam có thể tải Sora 2",
+      "link": "https://vnexpress.net/nguoi-dung-android-tai-viet-nam-co-the-tai-sora-2-4960113.html",
+      "summary": "OpenAI đưa ứng dụng tạo video Sora 2 lên cửa hàng Google Play dành cho thị trường Mỹ, Canada, Nhật Bản, Hàn Quốc, Đài Loan, Thái Lan và Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-05T03:28:34+07:00",
+      "fetched": "2025-11-05T11:20:31.484422+07:00"
+    },
+    {
+      "id": "eb17a76e7c1a8069d6e314483387d3b5",
+      "title": "Nga, Italy đấu khẩu liên quan vụ tháp Rome bị sập",
+      "link": "https://vnexpress.net/nga-italy-dau-khau-lien-quan-vu-thap-rome-bi-sap-4959989.html",
+      "summary": "Nga và Italy chỉ trích lẫn nhau sau khi Moskva liên hệ vụ tháp cổ ở Rome bị sập với hỗ trợ quân sự của Italy cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T03:27:40+07:00",
+      "fetched": "2025-11-05T11:20:27.615962+07:00"
+    },
+    {
+      "id": "bda6ea4a9b645cfcb8c4d610281d986e",
+      "title": "Romania mua 18 tiêm kích F-16 với giá một euro",
+      "link": "https://vnexpress.net/romania-mua-18-tiem-kich-f-16-voi-gia-mot-euro-4959736.html",
+      "summary": "Romania ký hợp đồng mua 18 tiêm kích F-16 Hà Lan với giá trị tượng trưng một euro để huấn luyện phi công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T03:22:03+07:00",
+      "fetched": "2025-11-05T11:20:27.616127+07:00"
+    },
+    {
       "id": "f183be496c7c256bff531e54ffd76056",
       "title": "Thời tiết hôm nay 5-11: Biển Đông có bão số 13, miền Trung giảm mưa trước đợt mưa rất lớn",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-11-bien-dong-co-bao-so-13-mien-trung-giam-mua-truoc-dot-mua-rat-lon-20251104170549234.htm",
@@ -271,6 +721,16 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T03:19:44.942706+07:00",
       "fetched": "2025-11-05T03:19:44.942910+07:00"
+    },
+    {
+      "id": "bfcba92d431d5150d42a442cad36150a",
+      "title": "Chăm sóc cha mẹ già trở thành gánh nặng với nhiều người Mỹ",
+      "link": "https://vnexpress.net/cham-soc-cha-me-gia-tro-thanh-ganh-nang-voi-nhieu-nguoi-my-4959915.html",
+      "summary": "Melissa Rogers, 48 tuổi, không muốn mẹ sống cùng nhà mình trong những ngày cuối đời, nhưng cũng không tìm được trại dưỡng lão chăm sóc người mất trí nhớ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T03:08:55+07:00",
+      "fetched": "2025-11-05T11:20:27.616302+07:00"
     },
     {
       "id": "c299a5f3b409868f02f3102680c66b17",
@@ -301,6 +761,16 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T03:00:00+07:00",
       "fetched": "2025-11-05T10:09:10.494714+07:00"
+    },
+    {
+      "id": "5781e2a9155858f6f05c033fa1e3e281",
+      "title": "Tam Sơn nâng tầm phong cách sống qua trải nghiệm khách hàng",
+      "link": "https://vnexpress.net/tam-son-nang-tam-phong-cach-song-qua-trai-nghiem-khach-hang-4959471.html",
+      "summary": "Triển lãm \"Giao điểm tinh hoa\" của Tam Sơn như một cách kết nối khách hàng Việt Nam với cộng đồng sáng tạo và thương hiệu quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T03:00:00+07:00",
+      "fetched": "2025-11-05T11:20:29.181717+07:00"
     },
     {
       "id": "f68fecd43a189c39da4fb64db9e6ec46",
@@ -1011,6 +1481,16 @@ window.newsData_2025_11_05 = {
       "category": "Thể thao",
       "published": "2025-11-05T00:40:29+07:00",
       "fetched": "2025-11-05T08:19:12.873153+07:00"
+    },
+    {
+      "id": "9a6e70307a6573076970cb1df637bbc9",
+      "title": "Thần đồng 15 tuổi của Arsenal lập kỷ lục ở Champions League",
+      "link": "https://vnexpress.net/than-dong-15-tuoi-cua-arsenal-lap-ky-luc-o-champions-league-4960018.html",
+      "summary": "Vào sân trong trận Arsenal thắng Slavia Prague 3-0 tối 4/11, Max Dowman trở thành cầu thủ trẻ nhất thi đấu tại Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T00:40:29+07:00",
+      "fetched": "2025-11-05T11:20:32.364728+07:00"
     },
     {
       "id": "9df5f9d7779deb54a563282daaa3fd71",
