@@ -1,6 +1,6 @@
 window.newsData_2025_11_06 = {
   "date": "2025-11-06",
-  "lastUpdated": "2025-11-06T01:24:37.721133+07:00",
+  "lastUpdated": "2025-11-06T03:19:50.476553+07:00",
   "articles": [
     {
       "id": "efbc71c6e6bbe4ce410158609dabe83f",
@@ -153,6 +153,46 @@ window.newsData_2025_11_06 = {
       "fetched": "2025-11-06T01:24:31.782806+07:00"
     },
     {
+      "id": "2fe9817328695fc706e198b9aa5e59e8",
+      "title": "Chính phủ Malaysia không được can thiệp vào bê bối nhập tịch, FIFA mở rộng điều tra",
+      "link": "https://thanhnien.vn/chinh-phu-malaysia-khong-duoc-can-thiep-vao-be-boi-nhap-tich-fifa-mo-rong-dieu-tra-185251105201557921.htm",
+      "summary": "Nếu chính phủ Malaysia can thiệp sâu vào việc xử lý bê bối nhập tịch của Liên đoàn Bóng đá Malaysia (FAM), FIFA sẽ có những động thái cứng rắn, thậm chí trừng phạt rất nặng cả nền bóng đá nước này. Chính điều đó đang gây khó xử cho cơ quan quản lý thể thao Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T20:12:00+07:00",
+      "fetched": "2025-11-06T03:19:41.967410+07:00"
+    },
+    {
+      "id": "aa70872b62acc158c28badab1974d185",
+      "title": "U.23 Việt Nam: Đua trụ hạng rèn bản lĩnh",
+      "link": "https://thanhnien.vn/u23-viet-nam-dua-tru-hang-ren-ban-linh-185251105221202897.htm",
+      "summary": "Việc phải đua trụ hạng khốc liệt ở V-League sẽ giúp các nhân tố U.23 VN rèn luyện bản lĩnh và lối chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:10:00+07:00",
+      "fetched": "2025-11-06T03:19:41.967602+07:00"
+    },
+    {
+      "id": "798d2624a6ae2c58998cb178b9eadf2c",
+      "title": "Hồng Kim Bảo ngồi xe lăn khi đến Việt Nam",
+      "link": "https://vnexpress.net/hong-kim-bao-ngoi-xe-lan-khi-den-viet-nam-4960527.html",
+      "summary": "Tài tử võ thuật Hồng Kim Bảo ngồi xe lăn, được vệ sĩ tháp tùng, cùng diễn viên Cổ Thiên Lạc đến sân bay Tân Sơn Nhất tối 5/11 để dự sự kiện điện ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:02:44+07:00",
+      "fetched": "2025-11-06T03:19:38.571381+07:00"
+    },
+    {
+      "id": "ebeceae547dc4f988d7efaea954afd65",
+      "title": "Tài xế ôtô tải gây tai nạn liên hoàn, phóng xe bỏ chạy 4 km",
+      "link": "https://vnexpress.net/tai-xe-oto-tai-gay-tai-nan-lien-hoan-phong-xe-bo-chay-4-km-4960530.html",
+      "summary": "Camera ghi cảnh tài xế xe tải gây tai nạn liên hoàn trong ngõ phường Tương Mai, sau đó lái ôtô bỏ chạy hơn 4 km rồi rời khỏi hiện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T18:50:47+07:00",
+      "fetched": "2025-11-06T03:19:38.571583+07:00"
+    },
+    {
       "id": "421d3ee266a4d3bd9151f91ae07843f3",
       "title": "Nóng: Báo Argentina phanh phui thêm nguồn gốc sao nhập tịch Malaysia, chỉ thẳng FAM dối trá",
       "link": "https://thanhnien.vn/nong-bao-argentina-phanh-phui-them-nguon-goc-sao-nhap-tich-malaysia-chi-thang-fam-doi-tra-185251106010022151.htm",
@@ -161,6 +201,46 @@ window.newsData_2025_11_06 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T18:09:00+07:00",
       "fetched": "2025-11-06T01:24:30.695285+07:00"
+    },
+    {
+      "id": "673c9931c806e102b87c502c865d739b",
+      "title": "Động lực thúc đẩy Nga phát triển siêu ngư lôi Poseidon",
+      "link": "https://vnexpress.net/dong-luc-thuc-day-nga-phat-trien-sieu-ngu-loi-poseidon-4959997.html",
+      "summary": "Siêu ngư lôi Poseidon giúp Nga sở hữu khả năng xuyên phá lưới phòng thủ của Mỹ và đồng minh, cũng như phát thông điệp cảnh báo đến NATO.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T18:00:00+07:00",
+      "fetched": "2025-11-06T03:19:38.571756+07:00"
+    },
+    {
+      "id": "b2cb536d965409409b580560968ddbbd",
+      "title": "Hội chứng Klinefelter",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-klinefelter-380",
+      "summary": "Hội chứng Klinefelter là rối loạn nhiễm sắc thể ở nam giới, ảnh hưởng đến cả sự phát triển thể chất, nhận thức cũng như khả năng sinh sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T18:00:00+07:00",
+      "fetched": "2025-11-06T03:19:38.571921+07:00"
+    },
+    {
+      "id": "673c9931c806e102b87c502c865d739b",
+      "title": "Động lực thúc đẩy Nga phát triển siêu ngư lôi Poseidon",
+      "link": "https://vnexpress.net/dong-luc-thuc-day-nga-phat-trien-sieu-ngu-loi-poseidon-4959997.html",
+      "summary": "Siêu ngư lôi Poseidon giúp Nga sở hữu khả năng xuyên phá lưới phòng thủ của Mỹ và đồng minh, cũng như phát thông điệp cảnh báo đến NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T18:00:00+07:00",
+      "fetched": "2025-11-06T03:19:44.749052+07:00"
+    },
+    {
+      "id": "21e22b625b008d4548f646a695b647c9",
+      "title": "Chịu tổn thất nặng vì lao động đi Hàn bỏ trốn",
+      "link": "https://vnexpress.net/chiu-ton-that-nang-vi-lao-dong-di-han-bo-tron-4959419.html",
+      "summary": "Thuyền viên nhảy xuống biển bơi vào bờ bỏ trốn nhưng suýt bị nước cuốn phải nhập viện, sự việc khiến doanh nghiệp chịu tổn thất 2,2 tỷ đồng các loại chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T17:58:35+07:00",
+      "fetched": "2025-11-06T03:19:38.572084+07:00"
     },
     {
       "id": "4c6462f509340233330988382502c76a",
