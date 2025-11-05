@@ -1,7 +1,157 @@
 window.newsData_2025_11_05 = {
   "date": "2025-11-05",
-  "lastUpdated": "2025-11-05T17:19:25.608812+07:00",
+  "lastUpdated": "2025-11-05T19:36:17.054776+07:00",
   "articles": [
+    {
+      "id": "832a03ba80b75f3b86bd3be0c86d33c8",
+      "title": "Năng lượng sẽ là 'động cơ thịnh vượng' mới cho nền kinh tế",
+      "link": "https://tuoitre.vn/nang-luong-se-la-dong-co-thinh-vuong-moi-cho-nen-kinh-te-20251105174003709.htm",
+      "summary": "Tại Hội nghị Thượng đỉnh Doanh nghiệp Anh - Việt Nam 2025, các doanh nghiệp hai bên đều có chung nhận định năng lượng sạch sẽ là thế mạnh và động lực của nền kinh tế Việt Nam trong kỷ nguyên sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549690+07:00",
+      "fetched": "2025-11-05T19:36:10.549808+07:00"
+    },
+    {
+      "id": "4316ed4bb6d25148e29051d967d3f71a",
+      "title": "Cảnh sát giao thông TP.HCM kiểm tra bãi xe ở trường học, phát hiện nhiều học sinh vi phạm",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-tp-hcm-kiem-tra-bai-xe-o-truong-hoc-phat-hien-nhieu-hoc-sinh-vi-pham-20251105174945418.htm",
+      "summary": "Ngày 5-11, Cảnh sát giao thông TP.HCM phối hợp công an cấp xã vào bãi xe trong trường học kiểm tra đã phát hiện nhiều học sinh \"mượn\" xe máy của ba mẹ đến trường nên bị lập biên bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549556+07:00",
+      "fetched": "2025-11-05T19:36:10.549678+07:00"
+    },
+    {
+      "id": "3ff6f85a6e0cbce8eb1fd378364450a7",
+      "title": "Bảo hiểm xã hội TP.HCM phát động chương trình 'Mang Tết ấm đến với người nghèo'",
+      "link": "https://tuoitre.vn/bao-hiem-xa-hoi-tp-hcm-phat-dong-chuong-trinh-mang-tet-am-den-voi-nguoi-ngheo-20251105151659307.htm",
+      "summary": "Để mang hơi ấm mùa xuân đến với những mảnh đời còn khó khăn, chương trình kêu gọi các tổ chức, doanh nghiệp, mạnh thường quân chung tay trao tặng sổ Bảo hiểm xã hội, thẻ Bảo hiểm y tế giúp người dân yên tâm chăm sóc sức khỏe và đón Tết trọn vẹn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549423+07:00",
+      "fetched": "2025-11-05T19:36:10.549544+07:00"
+    },
+    {
+      "id": "c28259639b96f03ee6506c531cb6f955",
+      "title": "Thả 4 con mèo rừng quý hiếm về rừng U Minh Hạ",
+      "link": "https://tuoitre.vn/tha-4-con-meo-rung-quy-hiem-ve-rung-u-minh-ha-20251105175335429.htm",
+      "summary": "Ngày 5-11, Vườn quốc gia U Minh Hạ (xã Đá Bạc, tỉnh Cà Mau) phối hợp với chùa Phật Quang (phường Hiệp Thành, TP Cà Mau) thả 4 cá thể mèo rừng quý hiếm về môi trường tự nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549287+07:00",
+      "fetched": "2025-11-05T19:36:10.549411+07:00"
+    },
+    {
+      "id": "13460b967ae433010dcc39a6678214e4",
+      "title": "EVNHCMC đồng hành cùng Triển lãm Ngành năng lượng, công nghiệp hỗ trợ",
+      "link": "https://tuoitre.vn/evnhcmc-dong-hanh-cung-trien-lam-nganh-nang-luong-cong-nghiep-ho-tro-20251105175308172.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM (EVNHCMC) là đơn vị đồng hành cùng Triển lãm Ngành năng lượng, công nghiệp hỗ trợ - HVACR Vietnam 2025 vừa khai mạc sáng 5-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549154+07:00",
+      "fetched": "2025-11-05T19:36:10.549275+07:00"
+    },
+    {
+      "id": "c6d110415dafa47a6609e380b595ee69",
+      "title": "Trung ương giới thiệu nhân sự để bầu Phó chủ tịch Quốc hội, Chánh án TAND tối cao",
+      "link": "https://tuoitre.vn/trung-uong-gioi-thieu-nhan-su-de-bau-pho-chu-tich-quoc-hoi-chanh-an-tand-toi-cao-20251105181211982.htm",
+      "summary": "Hội nghị Trung ương 14 thực hiện quy trình giới thiệu nhân sự một số chức danh như Phó Chủ tịch Quốc hội, Chánh án Tòa án nhân dân tối cao để bầu theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.549015+07:00",
+      "fetched": "2025-11-05T19:36:10.549142+07:00"
+    },
+    {
+      "id": "4d93a936b1b44afd14a11e64701b9307",
+      "title": "Ngập cục bộ nhiều tuyến đường TP.HCM do triều cường đạt đỉnh",
+      "link": "https://tuoitre.vn/ngap-cuc-bo-nhieu-tuyen-duong-tp-hcm-do-trieu-cuong-dat-dinh-20251105175648916.htm",
+      "summary": "Triều cường dâng cao chiều 5-11 khiến nhiều tuyến đường TP.HCM ngập nặng giờ tan tầm. Người dân bì bõm lội qua chỗ nước sâu, thậm chí đi ngược chiều trên vỉa hè để mau về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.548837+07:00",
+      "fetched": "2025-11-05T19:36:10.548997+07:00"
+    },
+    {
+      "id": "1469f095b66431b864f1ffd42f798018",
+      "title": "Giám đốc khối tiếp thị Techcombank sẽ tham gia đối thoại tại Diễn đàn thương hiệu hàng đầu châu Á",
+      "link": "https://tuoitre.vn/giam-doc-khoi-tiep-thi-techcombank-se-tham-gia-doi-thoai-tai-dien-dan-thuong-hieu-hang-dau-chau-a-20251105173104041.htm",
+      "summary": "Diễn đàn thương hiệu châu Á 2025 sẽ diễn ra vào ngày 7-11, tại Singapore, do tổ chức quốc tế Brand Finance chủ trì. Techcombank là đại diện duy nhất trong ngành ngân hàng Việt Nam góp mặt, chia sẻ câu chuyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:10.548466+07:00",
+      "fetched": "2025-11-05T19:36:10.548823+07:00"
+    },
+    {
+      "id": "9f7b745384fc8e815590e7f945bfb632",
+      "title": "Nga khuyên quân đội Ukraine 'nên đầu hàng để tự cứu mình'",
+      "link": "https://tuoitre.vn/nga-khuyen-quan-doi-ukraine-nen-dau-hang-de-tu-cuu-minh-20251105181917629.htm",
+      "summary": "Các thành viên của đơn vị White Angel gồm các sĩ quan cảnh sát Ukraine sơ tán người dân khỏi các thị trấn và làng mạc tại thị trấn tiền tuyến Pokrovsk, vùng Donetsk - Ảnh: REUTERS",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991667+07:00",
+      "fetched": "2025-11-05T19:36:10.548435+07:00"
+    },
+    {
+      "id": "98f67b07aca67a2d85f558afd798f0b0",
+      "title": "Đà Nẵng cho học sinh nghỉ học để phòng bão số 13",
+      "link": "https://tuoitre.vn/da-nang-cho-hoc-sinh-nghi-hoc-de-phong-bao-so-13-20251105181324132.htm",
+      "summary": "Chiều 5-11, Sở Giáo dục và Đào tạo TP Đà Nẵng có công văn yêu cầu cho học sinh nghỉ học chiều 6-11-2025 do ảnh hưởng của bão số 13 (Kalmaegi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991542+07:00",
+      "fetched": "2025-11-05T19:36:08.991656+07:00"
+    },
+    {
+      "id": "56936d94547b31690f422a3bf1402c27",
+      "title": "TP.HCM: Các trường dạy online nếu bão Kalmaegi diễn biến phức tạp",
+      "link": "https://tuoitre.vn/tp-hcm-cac-truong-day-online-neu-bao-kalmaegi-dien-bien-phuc-tap-20251105182446867.htm",
+      "summary": "Ngày 5-11, Sở Giáo dục và Đào tạo TP.HCM có văn bản gửi các trường về việc khẩn trương triển khai các phương án, biện pháp ứng phó do ảnh hưởng của bão Kalmaegi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991413+07:00",
+      "fetched": "2025-11-05T19:36:08.991530+07:00"
+    },
+    {
+      "id": "6ce4fa6784d54fe20d22cc5c1a4283ae",
+      "title": "Phục hồi điều tra, bắt nghi phạm vụ cố ý gây thương tích xảy ra 11 năm trước",
+      "link": "https://tuoitre.vn/phuc-hoi-dieu-tra-bat-nghi-pham-vu-co-y-gay-thuong-tich-xay-ra-11-nam-truoc-20251105175555482.htm",
+      "summary": "Công an đã bắt tạm giam một nghi phạm liên quan vụ cố ý gây thương tích xảy ra tại quán nhậu Anh Em (Đà Nẵng) vào năm 2014.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991284+07:00",
+      "fetched": "2025-11-05T19:36:08.991402+07:00"
+    },
+    {
+      "id": "0c9bf1ea97e87e40f7a7e824d51d70c1",
+      "title": "Khởi tố giám đốc trốn thuế gần 1 tỉ đồng",
+      "link": "https://tuoitre.vn/khoi-to-giam-doc-tron-thue-gan-1-ti-dong-20251105181823699.htm",
+      "summary": "Cảnh sát đã khổ tố và cấm đi khỏi nơi cư trú đối với một giám đốc công ty đã mua 41 hóa đơn khống để trốn thuế gần 1 tỷ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991154+07:00",
+      "fetched": "2025-11-05T19:36:08.991272+07:00"
+    },
+    {
+      "id": "95647be7149db6014123892a63458dc7",
+      "title": "Hội Liên hiệp Phụ nữ TP Đà Nẵng xin giữ lại trụ sở kiến trúc Pháp hơn trăm năm tuổi",
+      "link": "https://tuoitre.vn/hoi-lien-hiep-phu-nu-tp-da-nang-xin-giu-lai-tru-so-kien-truc-phap-hon-tram-nam-tuoi-20251105174955543.htm",
+      "summary": "Hội Liên hiệp Phụ nữ TP Đà Nẵng đã có tờ trình đề nghị được tiếp tục sử dụng tòa nhà công trình kiến trúc Pháp cổ số 1 Pasteur sau khi có chủ trương bàn giao nơi này cho Công an phường Hải Châu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.991010+07:00",
+      "fetched": "2025-11-05T19:36:08.991141+07:00"
+    },
+    {
+      "id": "fff743646825ffc8440385cba9675095",
+      "title": "TP.HCM biệt phái công chức kiểm tra chuyên ngành đi quản lý trật tự xây dựng và đô thị",
+      "link": "https://tuoitre.vn/tp-hcm-biet-phai-cong-chuc-kiem-tra-chuyen-nganh-di-quan-ly-trat-tu-xay-dung-va-do-thi-2025110517515716.htm",
+      "summary": "Công chức Kiểm tra chuyên ngành thuộc Sở Xây dựng sẽ biệt phái đi 168 phường, xã, đặc khu để thực hiện cả quản lý trật tự xây dựng (nhiệm vụ chính) và đô thị (nhiệm vụ phối hợp).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:36:08.990772+07:00",
+      "fetched": "2025-11-05T19:36:08.990995+07:00"
+    },
     {
       "id": "cc91d9af0f944ef934b58267d4808df6",
       "title": "Cảnh báo trẻ bị áp xe hốc mắt do viêm xoang dễ nhầm lẫn với cảm cúm",
@@ -453,6 +603,336 @@ window.newsData_2025_11_05 = {
       "fetched": "2025-11-05T13:26:12.025051+07:00"
     },
     {
+      "id": "84b2e23105249a90371eab96a247439c",
+      "title": "Sao chổi thiên niên kỷ xuất hiện ở Đắk Lắk: Chàng trai 'săn' được khoảnh khắc hiếm",
+      "link": "https://thanhnien.vn/sao-choi-thien-nien-ky-xuat-hien-o-dak-lak-chang-trai-san-duoc-khoanh-khac-hiem-185251105091420301.htm",
+      "summary": "Mới đây, một chàng trai ở Đắk Lắk (Phú Yên cũ) bất ngờ chụp được sao chổi xanh xuất hiện trên bầu trời sau gần 1 tháng \"săn\" ảnh gặp khó khăn vì thời tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:36:00+07:00",
+      "fetched": "2025-11-05T19:36:08.095242+07:00"
+    },
+    {
+      "id": "30021ba2a6a630c26ba11ae0244ec298",
+      "title": "Đảng Dân chủ tìm đường trở lại trong ngày bầu cử Mỹ",
+      "link": "https://thanhnien.vn/dang-dan-chu-tim-duong-tro-lai-trong-ngay-bau-cu-my-185251105185004926.htm",
+      "summary": "Ông Zohran Mamdani, một chính trị gia cấp tiến, đã giành chiến thắng trong cuộc đua giành chức thị trưởng thành phố New York, đánh dấu sự thăng tiến vượt bậc để trở thành một trong những nhân vật đảng Dân chủ nổi bật nhất nước Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:30:00+07:00",
+      "fetched": "2025-11-05T19:36:08.095420+07:00"
+    },
+    {
+      "id": "61aa4431c17bee29fa6def3b6b2d35ec",
+      "title": "Chùa Tum Núp đoạt hat-trick vô địch ghe ngo nam và nữ",
+      "link": "https://thanhnien.vn/chua-tum-nup-doat-hat-trick-vo-dich-ghe-ngo-nam-va-nu-185251105184812447.htm",
+      "summary": "Giải đua ghe ngo TP.Cần Thơ năm 2025 khép lại sau 2 ngày tranh tài sôi nổi trên sông Maspero, thu hút sự cổ vũ nồng nhiệt của hàng chục ngàn khán giả và du khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:29:00+07:00",
+      "fetched": "2025-11-05T19:36:08.095577+07:00"
+    },
+    {
+      "id": "a0b0e9735b6a18f3effc3b16fe166d10",
+      "title": "Bác sĩ cứu bé gái 5 tuổi thoát mù do ổ áp xe hốc mắt nghiêm trọng",
+      "link": "https://thanhnien.vn/bac-si-cuu-be-gai-5-tuoi-thoat-mu-do-o-ap-xe-hoc-mat-nghiem-trong-1852511051926258.htm",
+      "summary": "Các bác sĩ mắt, tai mũi họng, nhi và truyền nhiễm, Bệnh viện FV đã phối hợp thực hiện ca phẫu thuật dẫn lưu ổ áp xe hốc mắt, loại bỏ ổ nhiễm trùng, cứu thành công mắt trái cho bé gái 5 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:26:00+07:00",
+      "fetched": "2025-11-05T19:36:08.095730+07:00"
+    },
+    {
+      "id": "efd2e44a9d85a401df50969db0e17725",
+      "title": "Tin 'công an rởm', cụ bà suýt mất gần 1,3 tỉ đồng",
+      "link": "https://thanhnien.vn/tin-cong-an-rom-cu-ba-suyt-mat-gan-13-ti-dong-185251105182040872.htm",
+      "summary": "Một cụ bà ở Nghệ An bị \"công an rổm\" thao túng tâm lý để lừa đảo. Rất may, sự việc được nhân viên ngân hàng phát hiện, báo cho công an xã kịp thời ngăn chặn nạn nhân chuyển gần 1,3 tỉ đồng cho kẻ lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:24:00+07:00",
+      "fetched": "2025-11-05T19:36:08.095883+07:00"
+    },
+    {
+      "id": "4d551b187917cfd89d1bfb4146b866bf",
+      "title": "Công an TP.HCM bắt nhanh 2 nghi can cướp giật 1 lượng vàng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-nhanh-2-nghi-can-cuop-giat-1-luong-vang-185251105185655641.htm",
+      "summary": "Sau khi cướp giật 1 lượng vàng tại tiệm vàng trên đường Phan Đình Giót (phường An Phú), 2 thanh niên  bị lực lượng Cảnh sát hình sự Công an TP.HCM bắt giữ trên đường trốn chạy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:21:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096074+07:00"
+    },
+    {
+      "id": "0c83d94c92acc3f061851b7631b8f31a",
+      "title": "Quân đội thành lập sở chỉ huy tiền phương, huy động 268.745 người ứng phó bão Kalmaegi",
+      "link": "https://thanhnien.vn/quan-doi-thanh-lap-so-chi-huy-tien-phuong-huy-dong-268745-nguoi-ung-pho-bao-kalmaegi-185251105180019343.htm",
+      "summary": "Cục Cứu hộ, Cứu nạn (Bộ Tổng tham mưu Quân đội nhân dân Việt Nam) ban hành Công văn số 3841/CHCN-TT về việc thành lập sở chỉ huy tiền phương phục vụ chỉ đạo, điều hành ứng phó bão Kalmaegi (bão số 13). Sở chỉ huy tiền phương được đặt tại Bộ Chỉ huy quân sự tỉnh Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:21:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096227+07:00"
+    },
+    {
+      "id": "25f091b0dc990d8046479b4b4762cc15",
+      "title": "CSGT TP.HCM kiểm tra bãi xe trường học: Nhận giấy phạt 9 triệu, nữ sinh bật khóc",
+      "link": "https://thanhnien.vn/csgt-tphcm-kiem-tra-bai-xe-truong-hoc-nhan-giay-phat-9-trieu-nu-sinh-bat-khoc-18525110515252973.htm",
+      "summary": "CSGT TP.HCM kiểm tra bãi xe trong trường học, phát hiện nhiều học sinh đi xe máy khi chưa đủ tuổi. Một nữ sinh bật khóc khi biết cha mẹ bị phạt 9 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:19:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096389+07:00"
+    },
+    {
+      "id": "979fd458e34f68f163cd949c9d53de75",
+      "title": "Lý Bình: Nếu nghe dân mạng, tôi và Phương Trinh Jolie đã không thành vợ chồng",
+      "link": "https://thanhnien.vn/ly-binh-neu-nghe-dan-mang-toi-va-phuong-trinh-jolie-da-khong-thanh-vo-chong-185251105191251696.htm",
+      "summary": "Phương Trinh Jolie chính thức tái xuất đường đua âm nhạc sau 5 năm vắng bóng. Có mặt tại sự kiện ra mắt MV, diễn viên Lý Bình cho biết sẵn sàng lui về hậu phương làm điểm tựa vững chắc để vợ yên tâm hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:15:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096547+07:00"
+    },
+    {
+      "id": "cf07e7cc2471735b3c8cafc1a243e1ed",
+      "title": "OpenAI đưa ứng dụng Sora đến người dùng Android Việt Nam",
+      "link": "https://thanhnien.vn/openai-dua-ung-dung-sora-den-nguoi-dung-android-viet-nam-185251105174109299.htm",
+      "summary": "OpenAI đã chính thức phát hành ứng dụng chuyên tạo video bằng AI (trí tuệ nhân tạo), Sora, đến các thiết bị Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:08:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096697+07:00"
+    },
+    {
+      "id": "3a2565fcba0db30bdb981835edbb9c41",
+      "title": "Đà Nẵng cho học sinh nghỉ học từ chiều mai để ứng phó bão Kalmaegi",
+      "link": "https://thanhnien.vn/da-nang-cho-hoc-sinh-nghi-hoc-tu-chieu-mai-de-ung-pho-bao-kalmaegi-18525110518471713.htm",
+      "summary": "Trước ảnh hưởng của bão Kalmaegi (bão số 13), Sở GD-ĐT TP.Đà Nẵng quyết định cho học sinh toàn thành phố nghỉ học từ chiều mai 6.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:03:00+07:00",
+      "fetched": "2025-11-05T19:36:08.096844+07:00"
+    },
+    {
+      "id": "c4264bd800ff0caca80ead50986d97e8",
+      "title": "Trung Quốc thử nghiệm 'nhà máy di động' trên quỹ đạo",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-nha-may-di-dong-tren-quy-dao-4960456.html",
+      "summary": "Các nhà nghiên cứu Trung Quốc đang phát triển module bơm phồng như một nhà máy để sản xuất dược phẩm sinh học, vật liệu mới và in 3D trên quỹ đạo Trái Đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.290853+07:00"
+    },
+    {
+      "id": "400344ad985cc7b19a010ab4964032ed",
+      "title": "Khó xử với những người bạn rủ người lạ tới nhà tôi không báo trước",
+      "link": "https://vnexpress.net/kho-xu-voi-nhung-nguoi-ban-ru-nguoi-la-toi-nha-toi-khong-bao-truoc-4960361.html",
+      "summary": "Tôi mời bạn bè qua nhà ăn uống, nhưng họ lại rủ thêm người lạ và muốn tôi lo cho những người này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291064+07:00"
+    },
+    {
+      "id": "438bb726fecd354932e89915d0f912b9",
+      "title": "Vụ ám sát thổi bùng tranh cãi về chiến thuật chống băng đảng ở Mexico",
+      "link": "https://vnexpress.net/vu-am-sat-thoi-bung-tranh-cai-ve-chien-thuat-chong-bang-dang-o-mexico-4960042.html",
+      "summary": "Vụ ám sát thị trưởng Carlos Manzo khiến Mexico rúng động, dấy lên tranh cãi về cách đối phó băng đảng tội phạm bằng súng đạn hay \"những cái ôm\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291236+07:00"
+    },
+    {
+      "id": "42d524764ab533b2090a4b7a2bb93b74",
+      "title": "Nhân tài STEM Hàn Quốc đổ ra nước ngoài",
+      "link": "https://vnexpress.net/nhan-tai-stem-han-quoc-do-ra-nuoc-ngoai-4959711.html",
+      "summary": "Hàng chục nghìn thạc sĩ, tiến sĩ STEM ở Hàn Quốc rời đất nước mỗi năm, nguyên nhân chính là do lương thấp, trung bình chỉ 40.000 USD hàng năm, trong khi tại Mỹ gần gấp ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291398+07:00"
+    },
+    {
+      "id": "279a15ac40a21a230c2bdb8424a3b5a2",
+      "title": "Tetra Pak mở rộng giải pháp bền vững ngành cà phê uống liền",
+      "link": "https://vnexpress.net/tetra-pak-mo-rong-giai-phap-ben-vung-nganh-ca-phe-uong-lien-4960446.html",
+      "summary": "Tetra Pak giới thiệu mô hình End-to-End kết hợp công nghệ chế biến, quy trình đóng gói linh hoạt trong bao bì giấy tiệt trùng, giúp doanh nghiệp tối ưu chi phí, giảm phát thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291559+07:00"
+    },
+    {
+      "id": "0ae4a6fe27efe5f6d1126278827ce3da",
+      "title": "Có phải kiêng quan hệ khi tiêm vaccine viêm gan B không?",
+      "link": "https://vnexpress.net/co-phai-kieng-quan-he-khi-tiem-vaccine-viem-gan-b-khong-4960270.html",
+      "summary": "Tôi có lịch tiêm ba mũi viêm gan B trong 6 tháng, đã hoàn thành mũi đầu tiên, có cần kiêng quan hệ tình dục không? (Đăng Dương, 27 tuổi, Hà Giang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291717+07:00"
+    },
+    {
+      "id": "c3caacc4f40fb0a4ce85f00bd12ba614",
+      "title": "Vĩnh Long số hóa quản lý nước sạch nông thôn",
+      "link": "https://vnexpress.net/vinh-long-so-hoa-quan-ly-nuoc-sach-nong-thon-4959871.html",
+      "summary": "Vĩnh Long là một trong những địa phương tiên phong áp dụng chuyển đổi số trong quản lý, vận hành công trình cấp nước nông thôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:35:58.291870+07:00"
+    },
+    {
+      "id": "2adc47978a6d292be8c109fa14efc348",
+      "title": "Chỉ với tông trắng, nàng vẫn đủ nổi bật giữa đám đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chi-voi-tong-trang-nang-van-du-noi-bat-giua-dam-dong-185251104235643449.htm",
+      "summary": "Giữa muôn sắc màu rực rỡ, tông trắng vẫn có cách riêng để khiến nàng tỏa sáng. Gam màu tưởng chừng đơn giản ấy lại mang đến vẻ tinh khôi và giúp nàng khẳng định phong thái tự tin cùng gu thẩm mỹ tinh tế trong mọi dịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:36:08.097029+07:00"
+    },
+    {
+      "id": "a2d39ce285a2b099c2e266e04bb4b4cf",
+      "title": "Xe thể thao Toyota nhiều đại gia Việt sở hữu sẽ khai tử vào năm 2026",
+      "link": "https://thanhnien.vn/xe-the-thao-toyota-nhieu-dai-gia-viet-so-huu-se-khai-tu-vao-nam-2026-185251028142503102.htm",
+      "summary": "Vốn đã hiếm có khó tìm tại Việt Nam, xe thể thao Toyota GR Supra càng trở nên giá trị hơn sau khi hãng xe Nhật Bản công bố thời điểm ngừng sản xuất vào năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:36:08.097187+07:00"
+    },
+    {
+      "id": "438bb726fecd354932e89915d0f912b9",
+      "title": "Vụ ám sát thổi bùng tranh cãi về chiến thuật chống băng đảng ở Mexico",
+      "link": "https://vnexpress.net/vu-am-sat-thoi-bung-tranh-cai-ve-chien-thuat-chong-bang-dang-o-mexico-4960042.html",
+      "summary": "Vụ ám sát thị trưởng Carlos Manzo khiến Mexico rúng động, dấy lên tranh cãi về cách đối phó băng đảng tội phạm bằng súng đạn hay \"những cái ôm\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:36:11.969400+07:00"
+    },
+    {
+      "id": "c4264bd800ff0caca80ead50986d97e8",
+      "title": "Trung Quốc thử nghiệm 'nhà máy di động' trên quỹ đạo",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-nha-may-di-dong-tren-quy-dao-4960456.html",
+      "summary": "Các nhà nghiên cứu Trung Quốc đang phát triển module bơm phồng như một nhà máy để sản xuất dược phẩm sinh học, vật liệu mới và in 3D trên quỹ đạo Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-05T12:00:00+07:00",
+      "fetched": "2025-11-05T19:36:15.987585+07:00"
+    },
+    {
+      "id": "882d7dba548c2888ce72853020d18cc0",
+      "title": "Cầu thủ đột nhiên co giật ở giải hạng Ba Quốc gia 2025",
+      "link": "https://vnexpress.net/cau-thu-dot-nhien-co-giat-o-giai-hang-ba-quoc-gia-2025-4960457.html",
+      "summary": "Nguyễn Anh Tuấn của Trẻ Phù Đổng gặp vấn đề sức khỏe trong trận thắng Hà Nội Bulls 2-1 ở lượt bốn bảng A giải hạng Ba Quốc gia 2025, chiều 5/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:58:09+07:00",
+      "fetched": "2025-11-05T19:35:58.292044+07:00"
+    },
+    {
+      "id": "882d7dba548c2888ce72853020d18cc0",
+      "title": "Cầu thủ đột nhiên co giật ở giải hạng Ba Quốc gia 2025",
+      "link": "https://vnexpress.net/cau-thu-dot-nhien-co-giat-o-giai-hang-ba-quoc-gia-2025-4960457.html",
+      "summary": "Nguyễn Anh Tuấn của Trẻ Phù Đổng gặp vấn đề sức khỏe trong trận thắng Hà Nội Bulls 2-1 ở lượt bốn bảng A giải hạng Ba Quốc gia 2025, chiều 5/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T11:58:09+07:00",
+      "fetched": "2025-11-05T19:36:17.042255+07:00"
+    },
+    {
+      "id": "9cdd2a8c5a54eb7429ce71f2f7506f0b",
+      "title": "Áp bảng giá thay giá đất cụ thể, cần tránh tạo gánh nặng cho người dân",
+      "link": "https://thanhnien.vn/ap-bang-gia-thay-gia-dat-cu-the-can-tranh-tao-ganh-nang-cho-nguoi-dan-18525110517544736.htm",
+      "summary": "Chính phủ đề xuất áp dụng bảng giá đất thay cho giá đất cụ thể, tuy nhiên, cơ quan thẩm tra cho rằng cần tránh gây gánh nặng tài chính cho người dân và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:58:00+07:00",
+      "fetched": "2025-11-05T19:36:08.097338+07:00"
+    },
+    {
+      "id": "3b259f16323715bd2c54b9d21e523573",
+      "title": "Dự báo khu vực có gió mạnh nhất trong bão Kalmaegi (bão số 13)",
+      "link": "https://thanhnien.vn/du-bao-khu-vuc-co-gio-manh-nhat-trong-bao-kalmaegi-bao-so-13-185251105181230829.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia đã nhận định về thời điểm, khu vực sẽ có gió mạnh nhất trong cơn bão Kalmaegi,",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:57:00+07:00",
+      "fetched": "2025-11-05T19:36:08.097486+07:00"
+    },
+    {
+      "id": "5f5c78728e82e90fc6b8485ad8fc5f7a",
+      "title": "California vẽ lại bản đồ bầu cử để đối phó ông Trump",
+      "link": "https://vnexpress.net/california-ve-lai-ban-do-bau-cu-de-doi-pho-ong-trump-4960376.html",
+      "summary": "Cử tri California chấp thuận kế hoạch vẽ lại bản đồ bầu cử của Thống đốc Newsom, giúp đảng Dân chủ thêm lợi thế nhằm đối phó với ông Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:51:10+07:00",
+      "fetched": "2025-11-05T19:35:58.292202+07:00"
+    },
+    {
+      "id": "5f5c78728e82e90fc6b8485ad8fc5f7a",
+      "title": "California vẽ lại bản đồ bầu cử để đối phó ông Trump",
+      "link": "https://vnexpress.net/california-ve-lai-ban-do-bau-cu-de-doi-pho-ong-trump-4960376.html",
+      "summary": "Cử tri California chấp thuận kế hoạch vẽ lại bản đồ bầu cử của Thống đốc Newsom, giúp đảng Dân chủ thêm lợi thế nhằm đối phó với ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T11:51:10+07:00",
+      "fetched": "2025-11-05T19:36:11.969574+07:00"
+    },
+    {
+      "id": "b0e7a5e80944cf42790ac459272e3e29",
+      "title": "Giới thiệu nhân sự tham gia Bộ Chính trị, Ban Bí thư khóa 14",
+      "link": "https://vnexpress.net/gioi-thieu-nhan-su-tham-gia-bo-chinh-tri-ban-bi-thu-khoa-14-4960451.html",
+      "summary": "Trong ngày làm việc đầu tiên, Hội nghị Trung ương 14 đã thực hiện quy trình giới thiệu nhân sự tham gia Bộ Chính trị, Ban Bí thư khóa 14, gồm cả tái cử và lần đầu tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:35:42+07:00",
+      "fetched": "2025-11-05T19:35:58.292364+07:00"
+    },
+    {
+      "id": "9ca90d517e3c3460c2f30752feaabb8b",
+      "title": "Nhật triển khai binh sĩ đối phó bầy gấu tấn công người",
+      "link": "https://vnexpress.net/nhat-trien-khai-binh-si-doi-pho-bay-gau-tan-cong-nguoi-4960437.html",
+      "summary": "Nhật Bản thông báo điều động binh sĩ cùng thợ săn để đối phó những con gấu tấn công người ở khu vực phía bắc đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:32:59+07:00",
+      "fetched": "2025-11-05T19:35:58.292520+07:00"
+    },
+    {
+      "id": "9ca90d517e3c3460c2f30752feaabb8b",
+      "title": "Nhật triển khai binh sĩ đối phó bầy gấu tấn công người",
+      "link": "https://vnexpress.net/nhat-trien-khai-binh-si-doi-pho-bay-gau-tan-cong-nguoi-4960437.html",
+      "summary": "Nhật Bản thông báo điều động binh sĩ cùng thợ săn để đối phó những con gấu tấn công người ở khu vực phía bắc đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T11:32:59+07:00",
+      "fetched": "2025-11-05T19:36:11.969740+07:00"
+    },
+    {
+      "id": "4046c80687809e7377905a3c5c284822",
+      "title": "Saigontourist Group kết nối thị trường châu Âu tại WTM London 2025",
+      "link": "https://vnexpress.net/saigontourist-group-ket-noi-thi-truong-chau-au-tai-wtm-london-2025-4960347.html",
+      "summary": "Tổng Công ty Du lịch Sài Gòn cùng Vietnam Airlines tổ chức gian hàng tại hội chợ WTM London 2025 quảng bá du lịch Việt, kết nối thị trường châu Âu và Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:30:00+07:00",
+      "fetched": "2025-11-05T19:35:58.292684+07:00"
+    },
+    {
+      "id": "4046c80687809e7377905a3c5c284822",
+      "title": "Saigontourist Group kết nối thị trường châu Âu tại WTM London 2025",
+      "link": "https://vnexpress.net/saigontourist-group-ket-noi-thi-truong-chau-au-tai-wtm-london-2025-4960347.html",
+      "summary": "Tổng Công ty Du lịch Sài Gòn cùng Vietnam Airlines tổ chức gian hàng tại hội chợ WTM London 2025 quảng bá du lịch Việt, kết nối thị trường châu Âu và Anh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T11:30:00+07:00",
+      "fetched": "2025-11-05T19:36:13.216689+07:00"
+    },
+    {
       "id": "7f46ccd634ffd3ff693829c9964a96ab",
       "title": "CPTPP - lựa chọn hấp dẫn giữa làn sóng bảo hộ",
       "link": "https://tuoitre.vn/cptpp-lua-chon-hap-dan-giua-lan-song-bao-ho-2025110508054489.htm",
@@ -531,6 +1011,56 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T11:20:25.251352+07:00",
       "fetched": "2025-11-05T11:20:25.251565+07:00"
+    },
+    {
+      "id": "b4f90741777137ed472e522f84ef74ed",
+      "title": "Giây phút máy bay chở hàng Mỹ phát nổ, ít nhất 7 người tử vong",
+      "link": "https://vnexpress.net/giay-phut-may-bay-cho-hang-my-phat-no-it-nhat-7-nguoi-tu-vong-4960425.html",
+      "summary": "Máy bay chở hàng MD-11 thuộc hãng vận tải UPS bất ngờ bốc cháy ở cánh trái khi đang cất cánh tại sân bay Muhammad Ali khiến ít nhất 7 người tử vong, 11 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:18:41+07:00",
+      "fetched": "2025-11-05T19:35:58.292846+07:00"
+    },
+    {
+      "id": "63a2f44954e7fb6387580979cd68e5ca",
+      "title": "Nam sinh Bách khoa gây sốt với game 'Phở anh Hai'",
+      "link": "https://vnexpress.net/nam-sinh-bach-khoa-ha-noi-gay-sot-voi-pho-anh-hai-la-ai-4960428.html",
+      "summary": "Tác giả \"Phở anh Hai\" hầu như không chơi game, song mày mò lập trình trò chơi từ lớp 10 bằng laptop cũ, đã làm không dưới 200 dự án nhưng phần lớn thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:17:20+07:00",
+      "fetched": "2025-11-05T19:35:58.293018+07:00"
+    },
+    {
+      "id": "51318b752e973c98712e5be061decf91",
+      "title": "Trung ương giới thiệu nhân sự bầu Chánh án, Phó chủ tịch Quốc hội",
+      "link": "https://vnexpress.net/trung-uong-gioi-thieu-nhan-su-bau-chanh-an-pho-chu-tich-quoc-hoi-4960381.html",
+      "summary": "Hội nghị Trung ương 14 thực hiện quy trình giới thiệu nhân sự để Quốc hội bầu chức danh Chánh án Tòa án nhân dân Tối cao và Phó chủ tịch Quốc hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T11:13:21+07:00",
+      "fetched": "2025-11-05T19:35:58.293181+07:00"
+    },
+    {
+      "id": "c9e6199e7211837aa08a94db94786fc0",
+      "title": "Tủ lạnh Samsung dùng AI dự đoán thói quen, tiết kiệm điện 20%",
+      "link": "https://vnexpress.net/tu-lanh-samsung-dung-ai-du-doan-thoi-quen-tiet-kiem-dien-20-4960436.html",
+      "summary": "AI Hybrid Cooling kết hợp AI và bán dẫn, giúp tủ lạnh Samsung dự đoán thói quen sử dụng, làm lạnh chính xác và tiết kiệm tới 20% điện năng so với mẫu truyền thống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-05T11:00:00+07:00",
+      "fetched": "2025-11-05T19:36:15.989351+07:00"
+    },
+    {
+      "id": "8552ec0171d3b113d6dec387a9d9f74b",
+      "title": "Nền tảng Việt hỗ trợ phát triển AI chạy GPU Nvidia",
+      "link": "https://vnexpress.net/nen-tang-viet-ho-tro-phat-trien-ai-chay-gpu-nvidia-4960367.html",
+      "summary": "AI Notebook của FPT cung cấp môi trường lập trình AI, kết hợp sức mạnh tính toán từ GPU Nvidia, đáp ứng việc nghiên cứu, đào tạo chuyên biệt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-05T10:30:24+07:00",
+      "fetched": "2025-11-05T19:36:15.988407+07:00"
     },
     {
       "id": "fecb68ae1626811c60e3d5f7fd51b2f1",
@@ -771,6 +1301,26 @@ window.newsData_2025_11_05 = {
       "category": "Thể thao",
       "published": "2025-11-05T10:00:00+07:00",
       "fetched": "2025-11-05T17:19:25.598606+07:00"
+    },
+    {
+      "id": "7e5ba76574eb80fa2311e4f63af20dcd",
+      "title": "Bảo hiểm PVI ghi danh tại Giải thưởng Bảo hiểm châu Á",
+      "link": "https://vnexpress.net/bao-hiem-pvi-ghi-danh-tai-giai-thuong-bao-hiem-chau-a-4960382.html",
+      "summary": "Bảo hiểm PVI được trao giải top 3 \"Công ty Bảo hiểm Phi nhân thọ của năm\" tại Giải thưởng Bảo hiểm châu Á (AIIA) lần thứ 29, nhờ năng lực quản trị và chuyển đổi số toàn diện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T10:00:00+07:00",
+      "fetched": "2025-11-05T19:36:13.216846+07:00"
+    },
+    {
+      "id": "ed05582463200af46bd7593a5ac87d3c",
+      "title": "Bà Thái Hương nhận Huân chương hữu nghị từ Tổng thống Nga",
+      "link": "https://vnexpress.net/ba-thai-huong-nhan-huan-chuong-huu-nghi-tu-tong-thong-nga-4960278.html",
+      "summary": "Bà Thái Hương, Chủ tịch Hội đồng Chiến lược Tập đoàn TH, CEO Bắc Á Bank được Tổng thống Vladimir Putin trao tặng Huân chương hữu nghị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T10:00:00+07:00",
+      "fetched": "2025-11-05T19:36:13.217020+07:00"
     },
     {
       "id": "48ab480cd0afa53245755e9c4f331a42",
