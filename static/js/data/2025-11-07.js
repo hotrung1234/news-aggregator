@@ -1,7 +1,47 @@
 window.newsData_2025_11_07 = {
   "date": "2025-11-07",
-  "lastUpdated": "2025-11-07T01:25:50.587407+07:00",
+  "lastUpdated": "2025-11-07T03:19:22.678831+07:00",
   "articles": [
+    {
+      "id": "d069d42516f27304e6eab028a968bd72",
+      "title": "Bão Kalmaegi gây thiệt hại nặng nề tại nhiều nơi",
+      "link": "https://tuoitre.vn/bao-kalmaegi-gay-thiet-hai-nang-ne-tai-nhieu-noi-20251106232940411.htm",
+      "summary": "Bão Kalmaegi quét qua khu ven biển và hạ du phía đông Đắk Lắk, phía đông Gia Lai gây thiệt hại nghiêm trọng. Lực lượng chức năng triển khai ca nô cứu hộ xuyên đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T03:19:14.192826+07:00",
+      "fetched": "2025-11-07T03:19:14.192953+07:00"
+    },
+    {
+      "id": "0ff7151b339bc2c0dca4787e84630c1a",
+      "title": "Cống ngăn triều ở quận 12 cũ bị bể giữa đỉnh triều cường cao nhất năm",
+      "link": "https://tuoitre.vn/cong-ngan-trieu-o-quan-12-cu-bi-be-giua-dinh-trieu-cuong-cao-nhat-nam-20251106234212879.htm",
+      "summary": "Sự cố xảy ra chiều 6-11 tại rạch Ba Thôn, quận 12 trước đây (TP.HCM). Lực lượng chức năng khẩn trương khắc phục, xuyên đêm gia cố đoạn cống bị bể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T03:19:14.192681+07:00",
+      "fetched": "2025-11-07T03:19:14.192799+07:00"
+    },
+    {
+      "id": "fbeee937a0d3164ba15460cc1d2332dc",
+      "title": "Viện dưỡng lão bán trú: Lối ra khi dân số già",
+      "link": "https://tuoitre.vn/vien-duong-lao-ban-tru-loi-ra-khi-dan-so-gia-20251106223922384.htm",
+      "summary": "Tổng Bí thư Tô Lâm khi phát biểu quán triệt nghị quyết 72 đã gợi ý xây dựng mô hình viện dưỡng lão bán trú (adult daycare) với hình thức \"sáng ô tô đưa đi, chiều ô tô đón về\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T03:19:14.192541+07:00",
+      "fetched": "2025-11-07T03:19:14.192668+07:00"
+    },
+    {
+      "id": "af5f2709266d1f93efc5ab46389de894",
+      "title": "Chạm vào hồn thảo nguyên Mông Cổ",
+      "link": "https://tuoitre.vn/cham-vao-hon-thao-nguyen-mong-co-20251106223205443.htm",
+      "summary": "Sáng sớm, khi ánh nắng đầu tiên hé rạng trên đỉnh núi, thảo nguyên Mông Cổ trải dài như tấm lụa khổng lồ phẳng lặng. Xa xa, những cụm lều trắng nổi bật giữa vùng đất mênh mông chỉ có tiếng vó ngựa lẫn trong gió.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T03:19:14.192308+07:00",
+      "fetched": "2025-11-07T03:19:14.192525+07:00"
+    },
     {
       "id": "036d80437653c19860dec37755384473",
       "title": "Amazon muốn đưa Việt Nam trở thành trung tâm xuất khẩu chất lượng cao của Đông Nam Á",
@@ -151,6 +191,56 @@ window.newsData_2025_11_07 = {
       "category": "Tổng hợp",
       "published": "2025-11-07T01:25:44.856486+07:00",
       "fetched": "2025-11-07T01:25:44.856707+07:00"
+    },
+    {
+      "id": "0d20a2b35aea672da1dbd0d36dc7c3b0",
+      "title": "Thoát vòng luẩn quẩn đau nửa đầu sau hơn 20 năm",
+      "link": "https://vnexpress.net/thoat-vong-luan-quan-dau-nua-dau-sau-hon-20-nam-4960238.html",
+      "summary": "Hơn hai thập kỷ chịu đựng những cơn đau nửa đầu migraine triền miên, người phụ nữ 50 tuổi được phẫu thuật giải ép thần kinh, thoát khỏi những mệt mỏi dai dẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T20:00:00+07:00",
+      "fetched": "2025-11-07T03:19:09.762160+07:00"
+    },
+    {
+      "id": "2168f6b677e7d11d9b1cbfe4d3ba90f7",
+      "title": "Không thể giải cứu bóng đá Malaysia bằng tiền",
+      "link": "https://thanhnien.vn/khong-the-giai-cuu-bong-da-malaysia-bang-tien-185251106230135749.htm",
+      "summary": "Đúng thời điểm nhân vật quan trọng bậc nhất của bóng đá Malaysia tuyên bố sẽ chi trả toàn bộ khoản tiền giúp Liên đoàn Bóng đá Malaysia (FAM) kiện FIFA lên Tòa án trọng tài thể thao quốc tế (CAS), sự thật về hồ sơ gốc của cầu thủ nhập tịch lại được tiết lộ, giáng thêm một đòn mạnh vào nền bóng đá nư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T20:00:00+07:00",
+      "fetched": "2025-11-07T03:19:13.074606+07:00"
+    },
+    {
+      "id": "33eece68bfee5d94f776e9c5cf25d767",
+      "title": "Đặc vụ ICE bám theo, bắt cô giáo ngay tại trường mầm non",
+      "link": "https://vnexpress.net/dac-vu-ice-bam-theo-bat-co-giao-ngay-tai-truong-mam-non-4960815.html",
+      "summary": "Một giáo viên mầm non bị các đặc vụ ICE ở Chicago bám theo và bắt tại trường trong giờ đón trẻ, khiến nhiều người phản ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T19:00:00+07:00",
+      "fetched": "2025-11-07T03:19:09.762336+07:00"
+    },
+    {
+      "id": "33eece68bfee5d94f776e9c5cf25d767",
+      "title": "Đặc vụ ICE bám theo, bắt cô giáo ngay tại trường mầm non",
+      "link": "https://vnexpress.net/dac-vu-ice-bam-theo-bat-co-giao-ngay-tai-truong-mam-non-4960815.html",
+      "summary": "Một giáo viên mầm non bị các đặc vụ ICE ở Chicago bám theo và bắt tại trường trong giờ đón trẻ, khiến nhiều người phản ứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-06T19:00:00+07:00",
+      "fetched": "2025-11-07T03:19:16.151065+07:00"
+    },
+    {
+      "id": "2c1f99aed53828aa014444938e315c94",
+      "title": "450 triệu đồng hoàn thiện căn hộ 80 m2 với màu sắc quả bơ",
+      "link": "https://vnexpress.net/450-trieu-dong-hoan-thien-can-ho-80-m2-voi-mau-sac-qua-bo-4960830.html",
+      "summary": "Căn hộ sử dụng bảng màu xanh bơ và kem làm chủ đạo, kết hợp đường cong, ánh sáng tự nhiên để tạo nên không gian sống thư giãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T18:05:44+07:00",
+      "fetched": "2025-11-07T03:19:09.762504+07:00"
     },
     {
       "id": "3c2b93c9636151f6bf223e13162c1efc",
