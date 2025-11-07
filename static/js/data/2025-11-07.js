@@ -1,7 +1,137 @@
 window.newsData_2025_11_07 = {
   "date": "2025-11-07",
-  "lastUpdated": "2025-11-07T13:26:13.523244+07:00",
+  "lastUpdated": "2025-11-07T15:23:34.830101+07:00",
   "articles": [
+    {
+      "id": "f4c61f5b7b1c4a263b41f27bfb563a89",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Khi phù sa gọi về ký ức",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-khi-phu-sa-goi-ve-ky-uc-20251107121724684.htm",
+      "summary": "Nước nổi đã về tràn ngập các cánh đồng đầu nguồn An Giang, mang theo nhịp sống rộn ràng và ký ức thân thương của người dân miền Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.354207+07:00",
+      "fetched": "2025-11-07T15:23:26.354331+07:00"
+    },
+    {
+      "id": "07eab4b0517e8e1c6014a7aacf0ae35f",
+      "title": "Lương Thế Thành ở trần, quay phim 4 ngày giữa thời tiết lạnh giá",
+      "link": "https://tuoitre.vn/luong-the-thanh-o-tran-quay-phim-4-ngay-giua-thoi-tiet-lanh-gia-20251107115746847.htm",
+      "summary": "Lương Thế Thành ở trần, đấu vật liên tiếp 4 ngày để quay phim giữa thời tiết lạnh giá của Đà Lạt cho bộ phim 'Hoàng tử quỷ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353930+07:00",
+      "fetched": "2025-11-07T15:23:26.354053+07:00"
+    },
+    {
+      "id": "3dd94c086bac42f78bfcf94e1a4b5d12",
+      "title": "Người dân báo thấy cá sấu trong mương nước ở Cần Thơ",
+      "link": "https://tuoitre.vn/nguoi-dan-bao-thay-ca-sau-trong-muong-nuoc-o-can-tho-20251107123807911.htm",
+      "summary": "Ngày 7-11, thông tin từ UBND xã Nhơn Mỹ (TP Cần Thơ) cho hay đang xác minh và cử lực lượng tổ chức truy bắt một con cá sấu, được người dân phát hiện tại một con kênh khi nước ngập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353795+07:00",
+      "fetched": "2025-11-07T15:23:26.353915+07:00"
+    },
+    {
+      "id": "5f1b93138080298d80794198e579a3ad",
+      "title": "Hôm nay TP.HCM vẫn ngập do triều cường trên 1,8m cộng mưa to",
+      "link": "https://tuoitre.vn/hom-nay-tphcm-van-ngap-do-trieu-cuong-tren-18m-cong-mua-to-20251107131712415.htm",
+      "summary": "Mức triều cường hôm nay tại TP.HCM vẫn còn ở mức cao, có trạm còn trên 1,8m, dự báo ngập nước sẽ xảy ra nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353670+07:00",
+      "fetched": "2025-11-07T15:23:26.353784+07:00"
+    },
+    {
+      "id": "ce190ba7c17ae7f5da39083dfb1111a9",
+      "title": "Liên tục xảy ra tai nạn, TP.HCM yêu cầu khẩn trương phân lại làn đường Mỹ Phước - Tân Vạn, ĐT 743",
+      "link": "https://tuoitre.vn/lien-tuc-xay-ra-tai-nan-tp-hcm-yeu-cau-khan-truong-phan-lai-lan-duong-my-phuoc-tan-van-dt-743-20251107131002148.htm",
+      "summary": "TP.HCM đề nghị Tập đoàn Đầu tư và Phát triển công nghiệp Becamex - CTCP điều chỉnh biển báo phân làn, phân lại làn đường tuyến đường Mỹ Phước - Tân Vạn, ĐT 743A trước ngày 15-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353545+07:00",
+      "fetched": "2025-11-07T15:23:26.353658+07:00"
+    },
+    {
+      "id": "335963b4cfeebbad16671991fb3a73a6",
+      "title": "Bé gái sinh non nặng 850g được xuất viện khỏe mạnh",
+      "link": "https://tuoitre.vn/be-gai-sinh-non-nang-850g-duoc-xuat-vien-khoe-manh-20251107123148851.htm",
+      "summary": "Ngày 7-11, bác sĩ Võ Phi Ấu, trưởng khoa sơ sinh Bệnh viện Sản Nhi tỉnh Cà Mau - cho biết đơn vị vừa cho xuất viện một bé gái sinh cực non ở tuổi thai 25 tuần, cân nặng chỉ 850g, sau hơn 80 ngày điều trị tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353419+07:00",
+      "fetched": "2025-11-07T15:23:26.353533+07:00"
+    },
+    {
+      "id": "aa2d5b0ab17b09549c30a834ff03dbf8",
+      "title": "Bắt 4 người chuyên đi trộm trái khóm và vỏ lãi của người dân",
+      "link": "https://tuoitre.vn/bat-4-nguoi-chuyen-di-trom-trai-khom-va-vo-lai-cua-nguoi-dan-20251107121437949.htm",
+      "summary": "Thời gian gần đây, trên địa bàn xã Tân Phước 1, tỉnh Đồng Tháp và các xã giáp ranh xuất hiện tình trạng một số hộ dân trồng khóm phản ánh bị mất trộm trái khóm sắp đến ngày thu hoạch, gây thiệt hại về kinh tế và bức xúc trong nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353294+07:00",
+      "fetched": "2025-11-07T15:23:26.353408+07:00"
+    },
+    {
+      "id": "5258562ae9a1229d33438eb4a9deab5c",
+      "title": "Hơn 40 người đi cấp cứu do ngộ độc sau khi ăn bánh mì tại phường Hạnh Thông, TP.HCM",
+      "link": "https://tuoitre.vn/hon-40-nguoi-di-cap-cuu-do-ngo-doc-sau-khi-an-banh-mi-tai-phuong-hanh-thong-tp-hcm-20251107132725273.htm",
+      "summary": "Sở An toàn thực phẩm TP.HCM cho hay đang xác minh, làm rõ thông tin liên quan đến vụ việc nhiều bệnh nhân bị ngộ độc thực phẩm sau khi ăn bánh mì tại phường Hạnh Thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353145+07:00",
+      "fetched": "2025-11-07T15:23:26.353281+07:00"
+    },
+    {
+      "id": "de702d13acad21d34ef2b0b84b9341fe",
+      "title": "Khởi tố 27 bị can liên quan đến 314 học viên cai nghiện bỏ trốn",
+      "link": "https://tuoitre.vn/khoi-to-27-bi-can-lien-quan-den-314-hoc-vien-cai-nghien-bo-tron-20251107132827813.htm",
+      "summary": "Công an tỉnh An Giang đã khởi tố 27 bị can về tội \"chống người thi hành công vụ\" và \"gây rối trật tự công cộng\", liên quan đến 314 học viên bỏ trốn khỏi Cơ sở cai nghiện ma túy số 2 vào đầu tháng 10 vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.353018+07:00",
+      "fetched": "2025-11-07T15:23:26.353133+07:00"
+    },
+    {
+      "id": "69bb79137637283b04c5b1ecceb5481c",
+      "title": "Đẩy nhanh tiến độ xây dựng thêm bệnh viện ung bướu tại Hà Nội",
+      "link": "https://tuoitre.vn/day-nhanh-tien-do-xay-dung-them-benh-vien-ung-buou-tai-ha-noi-20251107133445912.htm",
+      "summary": "Thứ trưởng Bộ Y tế Đỗ Xuân Tuyên đề nghị Bệnh viện Ung bướu Hà Nội đẩy nhanh đề án xây dựng cơ sở 2, hướng tới mô hình bệnh viện - đào tạo - nghiên cứu chuyên sâu, đáp ứng nhu cầu chăm sóc sức khỏe của người dân thủ đô và khu vực lân cận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.352887+07:00",
+      "fetched": "2025-11-07T15:23:26.353007+07:00"
+    },
+    {
+      "id": "8cb04ad291a7f71f2025ca82d9e014a7",
+      "title": "Ứng dụng công nghệ sinh học trong sản xuất tương ớt ‘tươi’ ChiliCa",
+      "link": "https://tuoitre.vn/ung-dung-cong-nghe-sinh-hoc-trong-san-xuat-tuong-ot-tuoi-chilica-20251106181812416.htm",
+      "summary": "ChiliCa cho biết thông thường, tương ớt phải trải qua công đoạn gia nhiệt (nấu) nhằm giúp bảo quản lâu hơn. Tuy nhiên, công đoạn này sẽ làm giảm màu sắc, hương vị và các giá trị nguyên bản của ớt tươi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.352754+07:00",
+      "fetched": "2025-11-07T15:23:26.352875+07:00"
+    },
+    {
+      "id": "66ae4825a7096ca944fc6e28e23fcdce",
+      "title": "Cora Tower kiến tạo phong cách sống như nghỉ dưỡng giữa lòng đô thị",
+      "link": "https://tuoitre.vn/cora-tower-kien-tao-phong-cach-song-nhu-nghi-duong-giua-long-do-thi-20251107114044267.htm",
+      "summary": "Giữa lòng khu đô thị sinh thái Sun NeO City, Cora Tower là biểu tượng của lối sống hiện đại và nghỉ dưỡng mỗi ngày. Dự án sở hữu hệ tiện ích nội tòa đẳng cấp cũng như thừa hưởng trọn vẹn tiện ích quy mô của toàn tổ hợp đô thị Nam Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.352614+07:00",
+      "fetched": "2025-11-07T15:23:26.352742+07:00"
+    },
+    {
+      "id": "8a4cd87e3d5b7fa919cd9071df016438",
+      "title": "Huy động trực thăng tìm 3 người mất tích trên vùng biển Lý Sơn",
+      "link": "https://tuoitre.vn/huy-dong-truc-thang-tim-3-nguoi-mat-tich-tren-vung-bien-ly-son-20251107135527719.htm",
+      "summary": "Máy bay trực thăng của Sư đoàn 372 (Quân chủng Phòng không - Không quân) đã được huy động từ Đà Nẵng ra vùng biển Lý Sơn (tỉnh Quảng Ngãi) để tìm kiếm ba người đàn ông mất tích hơn 20 giờ qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T15:23:26.352371+07:00",
+      "fetched": "2025-11-07T15:23:26.352598+07:00"
+    },
     {
       "id": "786bf912ab67ab613870ad4e07afff18",
       "title": "Nikkei Asia: Việt Nam đón 'cơn sóng vàng' du khách Trung Quốc",
@@ -581,6 +711,246 @@ window.newsData_2025_11_07 = {
       "category": "Tổng hợp",
       "published": "2025-11-07T08:17:59.310194+07:00",
       "fetched": "2025-11-07T08:17:59.310402+07:00"
+    },
+    {
+      "id": "55838460ce9cd4b3ff667f6b10cbc6c2",
+      "title": "Trung Quốc biên chế tàu sân bay đầu tiên mang máy phóng điện từ",
+      "link": "https://vnexpress.net/trung-quoc-bien-che-tau-san-bay-dau-tien-mang-may-phong-dien-tu-4961234.html",
+      "summary": "Hải quân Trung Quốc biên chế tàu sân bay Phúc Kiến trang bị máy phóng điện từ, được đánh giá là bước nhảy vọt về công nghệ của Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-07T08:01:53+07:00",
+      "fetched": "2025-11-07T15:23:28.066247+07:00"
+    },
+    {
+      "id": "a547b1adc1e2c990d945b5f6d5cef658",
+      "title": "Ông Trump: Nhiều nước 'xếp hàng' xin tham gia Hiệp định Abraham",
+      "link": "https://vnexpress.net/ong-trump-nhieu-nuoc-xep-hang-xin-tham-gia-hiep-dinh-abraham-4961240.html",
+      "summary": "Ông Trump thông báo Kazakhstan đã tham gia Hiệp định Abraham bình thường hóa quan hệ với Israel, thêm rằng nhiều nước đang \"xếp hàng\" để làm vậy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-07T07:47:33+07:00",
+      "fetched": "2025-11-07T15:23:28.066424+07:00"
+    },
+    {
+      "id": "1d1bd2c95981161cf29de6a84d5d7c7d",
+      "title": "Quảng Trị chấp thuận đầu tư nhà máy điện gió hơn 9.000 tỷ đồng",
+      "link": "https://vnexpress.net/quang-tri-chap-thuan-dau-tu-nha-may-dien-gio-hon-9-000-ty-dong-4961196.html",
+      "summary": "UBND tỉnh Quảng Trị vừa chấp thuận chủ trương đầu tư dự án nhà máy điện gió Halcom Hồng Đức, tổng vốn đầu tư gần 9.127 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-07T07:42:19+07:00",
+      "fetched": "2025-11-07T15:23:29.402706+07:00"
+    },
+    {
+      "id": "7e036923f75f672334c16092ede6c061",
+      "title": "Nhiều người tại căn cứ Mỹ nhập viện vì 'gói hàng chứa bột trắng'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tai-can-cu-my-nhap-vien-vi-goi-hang-chua-bot-trang-4961217.html",
+      "summary": "Gói hàng khả nghi chứa bột trắng được chuyển đến căn cứ liên hợp Andrews ở bang Maryland của Mỹ, khiến nhiều người đổ bệnh và nhập viện, theo CNN.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-07T07:31:53+07:00",
+      "fetched": "2025-11-07T15:23:28.066592+07:00"
+    },
+    {
+      "id": "711868e8ce72cb334f41d9a4710806a2",
+      "title": "Dấu ấn 15 năm phát triển của FE Credit",
+      "link": "https://vnexpress.net/dau-an-15-nam-phat-trien-cua-fe-credit-4961236.html",
+      "summary": "Sau 15 năm hoạt động, FE Credit phục vụ hơn 17 triệu khách hàng, mở rộng mạng lưới hợp tác và thúc đẩy chuyển đổi số trong lĩnh vực cho vay tiêu dùng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:30:00+07:00",
+      "fetched": "2025-11-07T15:23:21.990630+07:00"
+    },
+    {
+      "id": "4870264c7c7c67cd23975d00c70f5a04",
+      "title": "Hội thảo về IncoBotulinum Toxin A trong thẩm mỹ nội khoa",
+      "link": "https://vnexpress.net/hoi-thao-ve-incobotulinum-toxin-a-trong-tham-my-noi-khoa-4961227.html",
+      "summary": "Các chuyên gia trong nước lẫn quốc tế lần lượt trình bày báo cáo khoa học liên quan hoạt chất IncoBotulinum Toxin A trong ứng dụng giảm nhăn, nâng cơ, trẻ hóa da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:30:00+07:00",
+      "fetched": "2025-11-07T15:23:21.990805+07:00"
+    },
+    {
+      "id": "0a75cac657bd8f673b744485f5b7971e",
+      "title": "Những món không nên ăn uống trước khi ngủ",
+      "link": "https://vnexpress.net/nhung-mon-khong-nen-an-uong-truoc-khi-ngu-4961179.html",
+      "summary": "Ăn món cay, chiên rán, nhiều đường, trái cây họ cam quýt gần giờ ngủ khiến cơ thể khó thư giãn, trằn trọc suốt đêm, không sâu giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:30:00+07:00",
+      "fetched": "2025-11-07T15:23:21.990973+07:00"
+    },
+    {
+      "id": "c087132fd691c99094625410978e162b",
+      "title": "Phong cách gợi cảm của Hoa hậu Trái Đất 2025",
+      "link": "https://vnexpress.net/phong-cach-goi-cam-cua-hoa-hau-trai-dat-2025-4961151.html",
+      "summary": "Miss Earth 2025 Natálie Puškinová ưu tiên những thiết kế hở lưng, cut-out, tôn vóc dáng và làn da săn chắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:30:00+07:00",
+      "fetched": "2025-11-07T15:23:21.991129+07:00"
+    },
+    {
+      "id": "614ba9ed662343f6096fd46547b40040",
+      "title": "Chuyện 'không còn bình thường'",
+      "link": "https://vnexpress.net/chuyen-khong-con-binh-thuong-4961224.html",
+      "summary": "Tôi vẫn nhớ cách trả lời hóm hỉnh mà thực chất là nghiêm túc của Bộ trưởng Nguyễn Kim Sơn khi ông nhận được câu hỏi “bao giờ hết bạo lực học đường” tại phiên chất vấn ở Quốc hội nửa năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:15:39+07:00",
+      "fetched": "2025-11-07T15:23:21.991321+07:00"
+    },
+    {
+      "id": "a2b23d85244629e9a56d7ae1bb11b231",
+      "title": "'Hộ kinh doanh không lấy hóa đơn đầu vào có thể bị nghi trốn thuế'",
+      "link": "https://vnexpress.net/ho-kinh-doanh-khong-lay-hoa-don-dau-vao-co-the-bi-nghi-tron-thue-4961193.html",
+      "summary": "Hộ kinh doanh không lấy hóa đơn đầu vào có thể bị xem là bán hàng không rõ nguồn gốc, bị truy thu, xử phạt, thậm chí nghi ngờ trốn thuế, theo cảnh báo của cơ quan thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:15:30+07:00",
+      "fetched": "2025-11-07T15:23:21.991478+07:00"
+    },
+    {
+      "id": "a2b23d85244629e9a56d7ae1bb11b231",
+      "title": "'Hộ kinh doanh không lấy hóa đơn đầu vào có thể bị nghi trốn thuế'",
+      "link": "https://vnexpress.net/ho-kinh-doanh-khong-lay-hoa-don-dau-vao-co-the-bi-nghi-tron-thue-4961193.html",
+      "summary": "Hộ kinh doanh không lấy hóa đơn đầu vào có thể bị xem là bán hàng không rõ nguồn gốc, bị truy thu, xử phạt, thậm chí nghi ngờ trốn thuế, theo cảnh báo của cơ quan thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-07T07:15:30+07:00",
+      "fetched": "2025-11-07T15:23:29.402880+07:00"
+    },
+    {
+      "id": "7e64319e92636876ae0f43d4853716ef",
+      "title": "Siêu tụ điện - tương lai của xe hybrid",
+      "link": "https://vnexpress.net/sieu-tu-dien-tuong-lai-cua-xe-hybrid-4960565.html",
+      "summary": "Chiếc hộp chỉ 4 kg có thể tăng gấp đôi công suất của những mẫu xe gia đình thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:15:00+07:00",
+      "fetched": "2025-11-07T15:23:21.991630+07:00"
+    },
+    {
+      "id": "4011ce05f5525f09b7a6a41ef6375043",
+      "title": "Enzyco - thương hiệu Việt Nam đầu tiên đạt chứng nhận quốc tế Ecodetergent",
+      "link": "https://vnexpress.net/enzyco-thuong-hieu-viet-nam-dau-tien-dat-chung-nhan-quoc-te-ecodetergent-4961180.html",
+      "summary": "Thương hiệu Enzyco của Việt Nam được tổ chức Ecocert trao chứng nhận quốc tế Ecodetergent - chứng nhận có tiêu chuẩn cao cho sản phẩm tẩy rửa sinh học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:10:00+07:00",
+      "fetched": "2025-11-07T15:23:21.991785+07:00"
+    },
+    {
+      "id": "2eff10f976f7e673a916ac5722c46fbe",
+      "title": "KienlongBank ra mắt hệ thống tích điểm, đổi quà trên nền tảng số",
+      "link": "https://vnexpress.net/kienlongbank-ra-mat-he-thong-tich-diem-doi-qua-tren-nen-tang-so-4961155.html",
+      "summary": "KienlongBank vừa ra mắt K-Rewards - hệ thống điểm thưởng được tích hợp trực tiếp trên ứng dụng ngân hàng số KienlongBank Plus nhân kỷ niệm 30 năm thành lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:00:00+07:00",
+      "fetched": "2025-11-07T15:23:21.991936+07:00"
+    },
+    {
+      "id": "a970217e892cb46020f1be37ceabc9ec",
+      "title": "'Vibe coding' trở thành Từ của năm 2025",
+      "link": "https://vnexpress.net/vibe-coding-tro-thanh-tu-cua-nam-2025-4961135.html",
+      "summary": "Từ điển Collins chọn vibe coding, thuật ngữ chỉ một hình thức phát triển phần mềm gắn với trí tuệ nhân tạo, làm từ tiêu biểu của năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:00:00+07:00",
+      "fetched": "2025-11-07T15:23:21.992090+07:00"
+    },
+    {
+      "id": "c87cdc7393a059c97566f031fbaa4bb9",
+      "title": "Con học ngày càng kém vì tôi bắt làm Toán mỗi tối",
+      "link": "https://vnexpress.net/con-hoc-ngay-cang-kem-vi-toi-bat-lam-toan-moi-toi-4961050.html",
+      "summary": "Con tôi từng có thời gian bị mẹ bắt học Toán mỗi tối, dù chỉ muốn đọc sách, chơi thể thao. Kết quả là con học ngày càng tệ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T07:00:00+07:00",
+      "fetched": "2025-11-07T15:23:21.992263+07:00"
+    },
+    {
+      "id": "a970217e892cb46020f1be37ceabc9ec",
+      "title": "'Vibe coding' trở thành Từ của năm 2025",
+      "link": "https://vnexpress.net/vibe-coding-tro-thanh-tu-cua-nam-2025-4961135.html",
+      "summary": "Từ điển Collins chọn vibe coding, thuật ngữ chỉ một hình thức phát triển phần mềm gắn với trí tuệ nhân tạo, làm từ tiêu biểu của năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-07T07:00:00+07:00",
+      "fetched": "2025-11-07T15:23:32.646548+07:00"
+    },
+    {
+      "id": "084b9d75b2485b5cf4ca9ee81cb32792",
+      "title": "Ông Trump được ca ngợi về cách xử lý tình huống khách mời ngất ở Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-duoc-ca-ngoi-ve-cach-xu-ly-tinh-huong-khach-moi-ngat-o-nha-trang-4961116.html",
+      "summary": "Bác sĩ Mehmet Oz, người tham gia cấp cứu giám đốc hãng dược ngất tại phòng Bầu dục, ca ngợi việc ông Trump đã trò chuyện điện thoại để trấn an vợ của khách mời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T06:58:47+07:00",
+      "fetched": "2025-11-07T15:23:21.992417+07:00"
+    },
+    {
+      "id": "084b9d75b2485b5cf4ca9ee81cb32792",
+      "title": "Ông Trump được ca ngợi về cách xử lý tình huống khách mời ngất ở Nhà Trắng",
+      "link": "https://vnexpress.net/ong-trump-duoc-ca-ngoi-ve-cach-xu-ly-tinh-huong-khach-moi-ngat-o-nha-trang-4961116.html",
+      "summary": "Bác sĩ Mehmet Oz, người tham gia cấp cứu giám đốc hãng dược ngất tại phòng Bầu dục, ca ngợi việc ông Trump đã trò chuyện điện thoại để trấn an vợ của khách mời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-07T06:58:47+07:00",
+      "fetched": "2025-11-07T15:23:28.066751+07:00"
+    },
+    {
+      "id": "289a6e48e2858b89a63b2aff4bbdb756",
+      "title": "Thùy Linh vào bán kết giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-vao-ban-ket-giai-cau-long-han-quoc-4961203.html",
+      "summary": "Hạt giống số hai Nguyễn Thùy Linh cứu 6 set-point để thắng tay vợt chủ nhà Lee So Yul 2-0, vào bán kết giải Korea Masters 2025, chiều 7/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T06:51:50+07:00",
+      "fetched": "2025-11-07T15:23:21.992577+07:00"
+    },
+    {
+      "id": "289a6e48e2858b89a63b2aff4bbdb756",
+      "title": "Thùy Linh vào bán kết giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-vao-ban-ket-giai-cau-long-han-quoc-4961203.html",
+      "summary": "Hạt giống số hai Nguyễn Thùy Linh cứu 6 set-point để thắng tay vợt chủ nhà Lee So Yul 2-0, vào bán kết giải Korea Masters 2025, chiều 7/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-07T06:51:50+07:00",
+      "fetched": "2025-11-07T15:23:34.820282+07:00"
+    },
+    {
+      "id": "c9149319f8f904091f6cde33612f17b5",
+      "title": "Toyota Camry giảm giá hơn 150 triệu đồng",
+      "link": "https://vnexpress.net/toyota-camry-giam-gia-hon-150-trieu-dong-4959829.html",
+      "summary": "Tháng 11, Camry cùng nhiều mẫu xe khác của Toyota giảm giá hàng chục đến hàng trăm triệu đồng bằng hình thức ưu đãi lệ phí trước bạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T06:44:16+07:00",
+      "fetched": "2025-11-07T15:23:21.992734+07:00"
+    },
+    {
+      "id": "97430cb09f69026e0e951d2ea2ce9d99",
+      "title": "Thế hệ 'đi làm còn khổ hơn thất nghiệp'",
+      "link": "https://vnexpress.net/the-he-di-lam-con-kho-hon-that-nghiep-4961126.html",
+      "summary": "Nghiên cứu chỉ ra sức khỏe tinh thần của lao động dưới 25 tuổi tệ đến mức họ tuyệt vọng như người không có việc làm, do áp lực từ AI và phần mềm giám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T06:31:00+07:00",
+      "fetched": "2025-11-07T15:23:21.992890+07:00"
+    },
+    {
+      "id": "77e7879641b4a92686dd6889d42287f2",
+      "title": "Bốn tư tưởng phát triển ngành công nghiệp bán dẫn Việt Nam",
+      "link": "https://vnexpress.net/bon-tu-tuong-phat-trien-nganh-cong-nghiep-ban-dan-viet-nam-4961168.html",
+      "summary": "Thứ trưởng Khoa học và Công nghệ Bùi Hoàng Phương cho biết Việt Nam phát triển ngành công nghiệp bán dẫn với bốn tư tưởng cốt lõi, khái quát qua công thức C = SET + 1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-07T06:22:22+07:00",
+      "fetched": "2025-11-07T15:23:32.646208+07:00"
     },
     {
       "id": "f323776ef9c9b9145fb2a9aa48253668",
