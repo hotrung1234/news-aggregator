@@ -1,7 +1,137 @@
 window.newsData_2025_11_08 = {
   "date": "2025-11-08",
-  "lastUpdated": "2025-11-08T19:30:46.067640+07:00",
+  "lastUpdated": "2025-11-08T21:13:56.668880+07:00",
   "articles": [
+    {
+      "id": "e0f92387f27ee065dd3eca1f229f2547",
+      "title": "Phó thủ tướng Hồ Quốc Dũng vận động 3 ngân hàng trao 9 tỉ đồng cho bà con Gia Lai",
+      "link": "https://tuoitre.vn/pho-thu-tuong-ho-quoc-dung-van-dong-3-ngan-hang-trao-9-ti-dong-cho-ba-con-gia-lai-20251108190140904.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng vận động 3 ngân hàng Vietcombank, Agribank và Ngân hàng Chính sách xã hội trao tặng 9 tỉ đồng cho nhân dân Gia Lai khắc phục hậu quả bão số 13 - Kalmaegi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290792+07:00",
+      "fetched": "2025-11-08T21:13:49.290914+07:00"
+    },
+    {
+      "id": "9110ae095807f294a31c95862001f8c4",
+      "title": "Bí thư Trần Lưu Quang khảo sát đô thị lấn biển Cần Giờ, yêu cầu thi công nhanh, đúng tiến độ",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-khao-sat-do-thi-lan-bien-can-gio-yeu-cau-thi-cong-nhanh-dung-tien-do-20251108182711266.htm",
+      "summary": "Bí thư Thành ủy TP.HCM lưu ý đẩy nhanh tiến độ thi công dự án, hoàn thành đúng tiến độ đề ra. Các sở ban ngành, chính quyền địa phương giải quyết nhanh các thủ tục, tạo điều kiện tốt nhất về hạ tầng kết nối và môi trường đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290659+07:00",
+      "fetched": "2025-11-08T21:13:49.290781+07:00"
+    },
+    {
+      "id": "641d64131e72f14467ceef89dd640425",
+      "title": "Ukraine lên tiếng sau khi Nga phóng 450 drone một ngày",
+      "link": "https://tuoitre.vn/ukraine-len-tieng-sau-khi-nga-phong-450-drone-mot-ngay-20251108190931885.htm",
+      "summary": "Giới chức Ukraine cho biết Nga đã phóng hàng trăm máy bay không người lái (drone) và tên lửa để tấn công nước này, gây hư hại cho các cơ sở hạ tầng năng lượng ngay trước mùa đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290526+07:00",
+      "fetched": "2025-11-08T21:13:49.290647+07:00"
+    },
+    {
+      "id": "75a7e1a514489fe3ed889d486c2fc124",
+      "title": "Tắc đường khiến trận đấu của Thể Công - Viettel lùi 1 tiếng",
+      "link": "https://tuoitre.vn/tac-duong-khien-tran-dau-cua-the-cong-viettel-lui-1-tieng-20251108193649092.htm",
+      "summary": "Trận PVF - CAND gặp Thể Công - Viettel phải lùi giờ thi đấu 1 tiếng do đội bóng áo lính đến sân muộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290390+07:00",
+      "fetched": "2025-11-08T21:13:49.290515+07:00"
+    },
+    {
+      "id": "d61a282a12f874eee7fc5fc391c2964a",
+      "title": "Cà Mau thưởng 100 triệu đồng cho giải nhất cuộc thi thiết kế logo mới cho tỉnh",
+      "link": "https://tuoitre.vn/ca-mau-thuong-100-trieu-dong-cho-giai-nhat-cuoc-thi-thiet-ke-logo-moi-cho-tinh-20251108190802325.htm",
+      "summary": "Tỉnh Cà Mau phát động cuộc thi thiết kế logo mới của tỉnh, với ý tưởng kết hợp giữa logo tỉnh Cà Mau (cũ) và tỉnh Bạc Liêu (cũ), giải nhất 100 triệu đồng kèm bằng khen của chủ tịch UBND tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290241+07:00",
+      "fetched": "2025-11-08T21:13:49.290377+07:00"
+    },
+    {
+      "id": "bb8e17583ec1436d4b3d3965e86f22fa",
+      "title": "CLB Bắc Ninh 3 trận liên tiếp không thắng, thầy Tây chịu sức ép",
+      "link": "https://tuoitre.vn/clb-bac-ninh-3-tran-lien-tiep-khong-thang-thay-tay-chiu-suc-ep-20251108184117788.htm",
+      "summary": "CLB Bắc Ninh một lần nữa đánh rơi chiến thắng bởi sai sót ở hàng thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.290103+07:00",
+      "fetched": "2025-11-08T21:13:49.290230+07:00"
+    },
+    {
+      "id": "9a8251f2104fd2462137f2d9fbb132dc",
+      "title": "Bị khởi tố, TikToker 'Dù Bầu Trời' đổ lỗi do TikTok không cảnh báo",
+      "link": "https://tuoitre.vn/bi-khoi-to-tiktoker-du-bau-troi-do-loi-do-tiktok-khong-canh-bao-20251108194551629.htm",
+      "summary": "Sau 'Tàng Keng Ông Trùm', 'Dù Bầu Trời' cũng bị Công an TP.HCM tạm giam do xúc phạm người miền Bắc, miền Nam, gây chia rẽ dân tộc. Nam TikToker khai không biết mình sai vì TikTok không phát dấu hiệu cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289959+07:00",
+      "fetched": "2025-11-08T21:13:49.290089+07:00"
+    },
+    {
+      "id": "fd66f89be93f92300a71b5e2432aaa60",
+      "title": "Đau lòng cây si hơn 100 tuổi trên di tích Tháp Nhạn bị bão Kalmaegi đánh ngã: Nỗ lực cứu!",
+      "link": "https://tuoitre.vn/dau-long-cay-si-hon-100-tuoi-tren-di-tich-thap-nhan-bi-bao-kalmaegi-danh-nga-no-luc-cuu-20251108191245391.htm",
+      "summary": "Cây si già tại khuôn viên di tích quốc gia đặc biệt Tháp Nhạn (phường Tuy Hòa, Đắk Lắk) bị bật gốc do bão Kalmaegi đã được lực lượng chức năng nỗ lực cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289817+07:00",
+      "fetched": "2025-11-08T21:13:49.289947+07:00"
+    },
+    {
+      "id": "680c1e576e5fac7349af30ca3d0252df",
+      "title": "45 thanh thiếu niên mang hung khí, chia làm 2 phe hỗn chiến",
+      "link": "https://tuoitre.vn/45-thanh-thieu-nien-mang-hung-khi-chia-lam-2-phe-hon-chien-20251108181157166.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa khởi tố 38 thanh thiếu niên mang theo hung khí để hỗn chiến, gây rối trật tự công cộng tại xã Cam Lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289680+07:00",
+      "fetched": "2025-11-08T21:13:49.289801+07:00"
+    },
+    {
+      "id": "79da4d338022d522878a3479265918d8",
+      "title": "Nhiều nơi tại Gia Lai, Đắk Lắk đã có điện trở lại",
+      "link": "https://tuoitre.vn/nhieu-noi-tai-gia-lai-dak-lak-da-co-dien-tro-lai-20251108193343327.htm",
+      "summary": "Đến tối 8-11, người dân nhiều khu vực lưới điện bị ảnh hưởng bởi bão số 13 (Kalmaegi) tại ven biển Gia Lai, Đắk Lắk, đã được đóng điện trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289542+07:00",
+      "fetched": "2025-11-08T21:13:49.289668+07:00"
+    },
+    {
+      "id": "fd8ba105d228c32290575cccf2d9b375",
+      "title": "Cắt giảm 50% công suất, nhiều doanh nghiệp điện gió lo rủi ro tài chính, phá sản",
+      "link": "https://tuoitre.vn/cat-giam-50-cong-suat-nhieu-doanh-nghiep-dien-gio-lo-rui-ro-tai-chinh-pha-san-20251108190421038.htm",
+      "summary": "6 công ty điện gió ở Quảng Trị cùng đứng đơn gửi Bộ Công thương kiến nghị xem xét lại việc bị cắt giảm công suất khả dụng từ 20 - 90%, khiến gặp rủi ro tài chính, có nguy cơ phá sản nếu kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289401+07:00",
+      "fetched": "2025-11-08T21:13:49.289529+07:00"
+    },
+    {
+      "id": "c86389adb2c5873814f9fcac05194a73",
+      "title": "U17 Việt Nam thắng đội J-League 2",
+      "link": "https://tuoitre.vn/u17-viet-nam-thang-doi-j-league-2-20251108203315266.htm",
+      "summary": "Chiều 8-11, U17 Việt Nam có trận đấu giao hữu đầu tiên trong chuyến tập huấn ở Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.289231+07:00",
+      "fetched": "2025-11-08T21:13:49.289384+07:00"
+    },
+    {
+      "id": "640eb51cafc8ebb4a90cea02cb400976",
+      "title": "Bộ trưởng Bộ Xây dựng: Có tình trạng xếp chỗ mua bán nhà ở xã hội, ăn chênh lệch 200-500 triệu",
+      "link": "https://tuoitre.vn/bo-truong-bo-xay-dung-co-tinh-trang-xep-cho-mua-ban-nha-o-xa-hoi-an-chenh-lech-200-500-trieu-20251108190759751.htm",
+      "summary": "Thông tin được nêu ra tại phiên họp Chính phủ thường kỳ tháng 10-2025 trực tuyến với các địa phương do Thủ tướng Phạm Minh Chính chủ trì ngày 8-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:13:49.288997+07:00",
+      "fetched": "2025-11-08T21:13:49.289216+07:00"
+    },
     {
       "id": "9264416f96222de53d3e7264287b4470",
       "title": "Ngầm tràn Ia Rsai bị trôi sau bão Kalmaegi, cô lập 521 người dân",
@@ -453,6 +583,106 @@ window.newsData_2025_11_08 = {
       "fetched": "2025-11-08T15:20:06.085352+07:00"
     },
     {
+      "id": "3bc36243b05b681568312952cb15489f",
+      "title": "Bảng xếp hạng V-League mới nhất: PVF-CAND thoát đáy nhờ trận hòa cực hay Thể Công Viettel, HAGL chìm lỉm",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-pvf-cand-thoat-day-nho-tran-hoa-cuc-hay-the-cong-viettel-hagl-chim-lim-185251108210919493.htm",
+      "summary": "Thể Công Viettel và PVF-CAND chia điểm (hòa 2-2) sau màn rượt đuổi tỷ số kịch tính. Trên bảng xếp hạng V-League tính đến lúc này, PVF-CAND tạm thoát đáy, còn HAGL bị đẩy xuống vị trí cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T14:12:00+07:00",
+      "fetched": "2025-11-08T21:13:47.858441+07:00"
+    },
+    {
+      "id": "d6832f922ee3288cd69ef261a0646278",
+      "title": "Khả năng Mặt trăng sao Thổ có sự sống gia tăng",
+      "link": "https://thanhnien.vn/kha-nang-mat-trang-sao-tho-co-su-song-gia-tang-18525110819270252.htm",
+      "summary": "Đại dương nằm bên dưới lớp băng dày của mặt trăng sao Thổ là Enceladus dường như duy trì được ổn định trong những khoảng thời gian vô cùng dài, giúp nơi đây 'thăng hạng' trên danh sách địa điểm được tìm kiếm sự sống ngoài trái đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T14:06:00+07:00",
+      "fetched": "2025-11-08T21:13:47.858633+07:00"
+    },
+    {
+      "id": "6301b879b60a43562a29f12a11ab5162",
+      "title": "Highlight Bắc Ninh 1-1 Phú Thọ: Cú twist bất ngờ, chia điểm kịch tính",
+      "link": "https://thanhnien.vn/highlight-bac-ninh-1-1-phu-tho-cu-twist-bat-ngo-chia-diem-kich-tinh-185251108205343981.htm",
+      "summary": "Tưởng chừng chiến thắng đã nằm trong tay Bắc Ninh, nhưng một cú twist giúp Phú Thọ giành lại 1 điểm đầy kịch tính trong trận hòa 1-1 ở vòng 7 giải hạng nhất 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:53:00+07:00",
+      "fetched": "2025-11-08T21:13:47.858792+07:00"
+    },
+    {
+      "id": "c7d82bae35032bea2b8be2777ba2c841",
+      "title": "Quang Liêm chạm kỷ lục cá nhân ở World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-cham-ky-luc-ca-nhan-o-world-cup-co-vua-4961693.html",
+      "summary": "Lê Quang Liêm thắng đối thủ Mỹ Jeffery Xiong 1,5-0,5 đã cân bằng thành tích tốt nhất sự nghiệp tại World Cup cờ vua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T13:52:24+07:00",
+      "fetched": "2025-11-08T21:13:56.655040+07:00"
+    },
+    {
+      "id": "fdd6168f06b4f5888285b6b2d1786ce2",
+      "title": "Higlight TP.HCM 1-0 Quảng Ninh: Thẻ đỏ cho HLV đội khách",
+      "link": "https://thanhnien.vn/higlight-tphcm-1-0-quang-ninh-the-do-cho-hlv-doi-khach-185251108205147349.htm",
+      "summary": "Trận đấu giữa TP.HCM và Quảng Ninh ở vòng 7 giải hạng nhất 2025-2026 khép lại với chiến thắng tối thiểu cho đội chủ nhà, trong khi HLV đội khách bị truất quyền chỉ đạo vì phản ứng quá mức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:51:00+07:00",
+      "fetched": "2025-11-08T21:13:47.858950+07:00"
+    },
+    {
+      "id": "d783918249fb752b040014eff1f4dfc0",
+      "title": "FIFA phạt nặng Indonesia ở vòng loại World Cup 2026",
+      "link": "https://vnexpress.net/fifa-phat-nang-indonesia-o-vong-loai-world-cup-2026-4961694.html",
+      "summary": "LĐBĐ Indonesia (PSSI) phải nộp tiền phạt, còn hai cầu thủ bị cấm thi đấu sau những phản ứng ở trận thua Iraq 0-1 tại vòng loại bốn World Cup 2026 – khu vực châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T13:51:00+07:00",
+      "fetched": "2025-11-08T21:13:56.655220+07:00"
+    },
+    {
+      "id": "fa511d619616fd4b89a75e1c3839e849",
+      "title": "Highlight Trường Tươi Đồng Nai 1-0 Quy Nhơn: Hồ Thanh Minh tỏa sáng đúng lúc",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-1-0-quy-nhon-ho-thanh-minh-toa-sang-dung-luc-185251108204620679.htm",
+      "summary": "Tối 8.11, CLB Trường Tươi Đồng Nai thoát hiểm ngoạn mục trước Quy Nhơn ở vòng 7 giải hạng nhất 2025-2026 nhờ khoảnh khắc lóe sáng đúng lúc của Hồ Thanh Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:48:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859105+07:00"
+    },
+    {
+      "id": "72d6f230fd8814962d0a0b0b3f78fe1e",
+      "title": "TP.HCM: Phường An Đông chuyển đổi số, hướng dẫn người dân cách làm thủ tục nhanh",
+      "link": "https://thanhnien.vn/tphcm-phuong-an-dong-chuyen-doi-so-huong-dan-nguoi-dan-cach-lam-thu-tuc-nhanh-185251108155302911.htm",
+      "summary": "Trong ngày hội chuyển đổi số, phường An Đông (TP.HCM) đã bố trí các quầy hỗ trợ người dân đăng ký VNeID, nộp hồ sơ trực tuyến... giúp tiết kiệm thời gian giải quyết thủ tục hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:43:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859269+07:00"
+    },
+    {
+      "id": "37ca096d7e24e5baaa1729d0390830cb",
+      "title": "Giữ vững ưu thế, Lê Quang Liêm đoạt vé vào vòng 4 World Cup cờ vua 2025",
+      "link": "https://thanhnien.vn/giu-vung-uu-the-le-quang-liem-doat-ve-vao-vong-4-world-cup-co-vua-2025-185251108192813128.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm (elo 2.729) giành quyền vào vòng 4 World Cup cờ vua 2025 tại Ấn Độ sau chiến thắng chung cuộc trước kỳ thủ Jeffery Xiong (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:40:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859438+07:00"
+    },
+    {
+      "id": "3083cfac85db76c4af676bacd32b70a5",
+      "title": "Tiến sĩ cảnh báo chữa lành tâm lý biến thành trò đùa  'quán nhậu chữa lành'",
+      "link": "https://thanhnien.vn/tien-si-canh-bao-chua-lanh-tam-ly-bien-thanh-tro-dua-quan-nhau-chua-lanh-185251108184524893.htm",
+      "summary": "Tiến sĩ Lê Nguyên Phương cảnh báo 'chữa lành' tại Việt Nam đang bị biến thành một trò đùa, như có 'quán nhậu chữa lành'. Lời cảnh báo đặt ra yêu cầu về việc định nghĩa lại khái niệm tâm lý đúng đắn, tránh hiểu lầm mang tính thương mại hoặc giải trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:31:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859590+07:00"
+    },
+    {
       "id": "09951435c60308111d0abcfae1ab75c3",
       "title": "Bộ đội, công an và đoàn viên thanh niên dọn cây xanh, lợp lại nhà sau bão Kalmaegi",
       "link": "https://tuoitre.vn/bo-doi-cong-an-va-doan-vien-thanh-nien-don-cay-xanh-lop-lai-nha-sau-bao-kalmaegi-2025110811261423.htm",
@@ -601,6 +831,166 @@ window.newsData_2025_11_08 = {
       "category": "Tổng hợp",
       "published": "2025-11-08T13:23:03.348517+07:00",
       "fetched": "2025-11-08T13:23:03.348741+07:00"
+    },
+    {
+      "id": "76c52c16739675f5de1b6d92283e2e18",
+      "title": "Billiards: Eddy Merckx tung sê-ri lớn hạ thiên tài Caudron, thần đồng Hàn Quốc vào bán kết",
+      "link": "https://thanhnien.vn/billiards-eddy-merckx-tung-se-ri-lon-ha-thien-tai-caudron-than-dong-han-quoc-vao-ban-ket-185251108201758144.htm",
+      "summary": "Trước tay cơ đồng hương Eddy Merckx thi đấu quá thăng hoa, đương kim vô địch thế giới Frederic Caudron đành phải dừng bước ở tứ kết World Cup billiards Gwangju 2025 đang diễn ra ở Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:21:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859741+07:00"
+    },
+    {
+      "id": "4fbc06e29f992b583474d6e46fc23f41",
+      "title": "Béo phì, tiểu đường có thể bị Mỹ từ chối cấp visa",
+      "link": "https://thanhnien.vn/beo-phi-tieu-duong-co-the-bi-my-tu-choi-cap-visa-185251108182724061.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đã ra chỉ thị không cấp thị thực (visa) cho người nước ngoài mắc bệnh tiểu đường hoặc béo phì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:21:00+07:00",
+      "fetched": "2025-11-08T21:13:47.859895+07:00"
+    },
+    {
+      "id": "6f31907d33ffecd588ea26061295818e",
+      "title": "Độc đáo chợ cỏ Ô Lâm, nơi nuôi sống hàng trăm hộ dân vùng Bảy Núi",
+      "link": "https://thanhnien.vn/doc-dao-cho-co-o-lam-noi-nuoi-song-hang-tram-ho-dan-vung-bay-nui-185251108152605665.htm",
+      "summary": "Hơn nửa thế kỷ tồn tại, chợ cỏ Ô Lâm (xã Ô Lâm, tỉnh An Giang - trước đây là xã Ô Lâm, H.Tri Tôn, An Giang) đã trở thành điểm giao thương đặc biệt của đồng bào Khmer, nơi những bó cỏ dại trở thành \"nồi cơm\" cho hàng trăm gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:17:00+07:00",
+      "fetched": "2025-11-08T21:13:47.860040+07:00"
+    },
+    {
+      "id": "4fef57d29785a148574a25bd94400c4d",
+      "title": "Trường Tươi Đồng Nai thắng sát nút Quy Nhơn: Cựu tiền đạo U.23 Việt Nam sắm vai người hùng",
+      "link": "https://thanhnien.vn/cuu-tuyen-thu-u23-viet-nam-sam-vai-nguoi-hung-giup-truong-tuoi-dong-nai-thang-1-0-185251108185727746.htm",
+      "summary": "Tối 8.11, CLB Trường Tươi Đồng Nai suýt phải chia điểm với đội Quy Nhơn ở vòng 7 giải hạng nhất 2025-2026, nếu không có khoảnh khắc tỏa sáng của Hồ Thanh Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:10:00+07:00",
+      "fetched": "2025-11-08T21:13:47.860202+07:00"
+    },
+    {
+      "id": "0c6cff693c3b84686ae3a9be65bb777c",
+      "title": "Trường ĐH Đồng Tháp sắp ra mắt sân bóng chất lượng cao phục vụ TNSV Việt Nam",
+      "link": "https://thanhnien.vn/truong-dh-dong-thap-sap-ra-mat-san-bong-chat-luong-cao-phuc-vu-tnsv-viet-nam-185251108185034369.htm",
+      "summary": "Để chuẩn bị cho vòng loại khu vực Tây Nam bộ giải bóng đá Thanh Niên sinh viên (TNSV) Việt Nam lần thứ IV - năm 2026 Cúp THACO, Trường ĐH Đồng Tháp đang đẩy nhanh tiến độ hoàn thiện hạ tầng kỹ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:07:00+07:00",
+      "fetched": "2025-11-08T21:13:47.860347+07:00"
+    },
+    {
+      "id": "923ab93fe4b1436e37ee9d672e20a047",
+      "title": "Nga đăng video Iskander-M tập kích 'trung đoàn drone Ukraine'",
+      "link": "https://vnexpress.net/nga-dang-video-iskander-m-tap-kich-trung-doan-drone-ukraine-4961660.html",
+      "summary": "Video mới công bố cho thấy tên lửa Iskander-M lao xuống địa điểm nghi là nơi tập kết của đơn vị drone Ukraine tại tỉnh Donetsk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:04:15+07:00",
+      "fetched": "2025-11-08T21:13:44.482584+07:00"
+    },
+    {
+      "id": "923ab93fe4b1436e37ee9d672e20a047",
+      "title": "Nga đăng video Iskander-M tập kích 'trung đoàn drone Ukraine'",
+      "link": "https://vnexpress.net/nga-dang-video-iskander-m-tap-kich-trung-doan-drone-ukraine-4961660.html",
+      "summary": "Video mới công bố cho thấy tên lửa Iskander-M lao xuống địa điểm nghi là nơi tập kết của đơn vị drone Ukraine tại tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T13:04:15+07:00",
+      "fetched": "2025-11-08T21:13:50.847258+07:00"
+    },
+    {
+      "id": "1f90d13a4907ae404f796b0617c0c748",
+      "title": "Ca ngộ độc sau ăn bánh mì tăng lên hơn 160, một thai phụ dọa sinh non",
+      "link": "https://vnexpress.net/ca-ngo-doc-sau-an-banh-mi-tang-len-hon-160-mot-thai-phu-doa-sinh-non-4961675.html",
+      "summary": "Đến tối 8/11, ít nhất 162 người nhập viện sau khi ăn bánh mì từ hai tiệm cùng hệ thống ở Gò Vấp và Bình Thạnh (cũ), trong đó một thai phụ 34 tuần có dấu hiệu dọa sinh non.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:01:55+07:00",
+      "fetched": "2025-11-08T21:13:44.482776+07:00"
+    },
+    {
+      "id": "4095bb9abf606fe2de125c4ce42fb550",
+      "title": "Hàng chục nghìn fan 'nóng lòng' xem G-DRAGON biểu diễn",
+      "link": "https://vnexpress.net/hang-chuc-nghin-fan-nong-long-xem-g-dragon-bieu-dien-4961682.html",
+      "summary": "Chiều 8/11, hàng chục nghìn fan G-DRAGON xếp hàng chờ tới giờ xem thần tượng tổng duyệt (sound-check) và diễn chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:00:00+07:00",
+      "fetched": "2025-11-08T21:13:44.482971+07:00"
+    },
+    {
+      "id": "1bbf85e3290abda9921a3e196c20e7e3",
+      "title": "Xem nhanh 20h ngày 8.11: Siêu bão Fung Wong ‘dị’ cỡ nào? | Bắt tikToker Dù Bầu Trời",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-811-sieu-bao-fung-wong-di-co-nao-bat-tiktoker-du-bau-troi-18525110819415921.htm",
+      "summary": "'Xem nhanh 20h' ngày 8.11 có nhiều tin tức đáng chú ý về: Siêu bão Fung wong (bão số 14) có điểm gì bất thường?; TikToker Dù Bầu Trời bị bắt vì học theo 'Tàng Keng Ông Trùm';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:00:00+07:00",
+      "fetched": "2025-11-08T21:13:47.860543+07:00"
+    },
+    {
+      "id": "9186f881895777fddb82a1c19a605948",
+      "title": "Áo khoác bomber là mảnh ghép ‘phá đảo’ thời trang đường phố",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-bomber-la-manh-ghep-pha-dao-thoi-trang-duong-pho-185251107160526404.htm",
+      "summary": "Từ sàn diễn thời trang đến đường phố năng động, áo khoác bomber đã trở thành biểu tượng cho phong cách trẻ trung, cá tính. Dù là phong cách sporty khỏe khoắn hay đường phố phóng khoáng, chiếc áo này luôn chứng minh sức hút mạnh mẽ khi giúp người mặc dễ dàng 'nâng cấp' diện mạo chỉ trong tích tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T13:00:00+07:00",
+      "fetched": "2025-11-08T21:13:47.860713+07:00"
+    },
+    {
+      "id": "058eebbb4538725562730e824247fb28",
+      "title": "Ngọn đồi phát nổ, tràn đất đá xuống đường sau động đất",
+      "link": "https://vnexpress.net/ngon-doi-phat-no-tran-dat-da-xuong-duong-sau-dong-dat-4961681.html",
+      "summary": "Hàng nghìn khối đất đá từ ngọn đồi cao gần 90 m ở xã Măng Ri đổ xuống vùi lấp đường sau tiếng nổ lớn, nghi do ảnh hưởng trận động đất 4,0 độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:54:08+07:00",
+      "fetched": "2025-11-08T21:13:44.483147+07:00"
+    },
+    {
+      "id": "eea5e87f6896c3c0d2a751905f8c2e62",
+      "title": "Serbia cho phép con rể ông Trump xây tổ hợp bất động sản xa xỉ",
+      "link": "https://vnexpress.net/serbia-cho-phep-con-re-ong-trump-xay-to-hop-bat-dong-san-xa-xi-4961486.html",
+      "summary": "Các nhà lập pháp Serbia thông qua dự luật đặc biệt, mở đường cho dự án bất động sản liên quan đến con rể Tổng thống Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:52:28+07:00",
+      "fetched": "2025-11-08T21:13:44.483314+07:00"
+    },
+    {
+      "id": "eea5e87f6896c3c0d2a751905f8c2e62",
+      "title": "Serbia cho phép con rể ông Trump xây tổ hợp bất động sản xa xỉ",
+      "link": "https://vnexpress.net/serbia-cho-phep-con-re-ong-trump-xay-to-hop-bat-dong-san-xa-xi-4961486.html",
+      "summary": "Các nhà lập pháp Serbia thông qua dự luật đặc biệt, mở đường cho dự án bất động sản liên quan đến con rể Tổng thống Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T12:52:28+07:00",
+      "fetched": "2025-11-08T21:13:50.847452+07:00"
+    },
+    {
+      "id": "2d38911e9f0a82b6729d1709b0ce1213",
+      "title": "Nước nào nợ nhiều nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-no-nhieu-nhat-dong-nam-a-4961650.html",
+      "summary": "Khoản nợ công ước tính 1.000 tỷ USD của nước này đứng đầu Đông Nam Á và top 15 thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:36:25+07:00",
+      "fetched": "2025-11-08T21:13:44.483495+07:00"
+    },
+    {
+      "id": "f5c866eaa9c80bc7c304db8c6b2d40fd",
+      "title": "Xôi nào trong những món xôi ngon nhất Việt Nam năm 2025",
+      "link": "https://vnexpress.net/xoi-nao-trong-nhung-mon-xoi-ngon-nhat-viet-nam-nam-2025-4961530.html",
+      "summary": "Món xôi quen thuộc được bản đồ ẩm thực Taste Atlas bình chọn là một trong những món xôi ngon nhất Việt Nam vào tháng 2/2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:29:00+07:00",
+      "fetched": "2025-11-08T21:13:44.483654+07:00"
     },
     {
       "id": "c5bc64191907ed2ebb2d1fda038b7d5e",
