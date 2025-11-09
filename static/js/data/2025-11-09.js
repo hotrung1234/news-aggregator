@@ -1,7 +1,157 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T11:19:38.709220+07:00",
+  "lastUpdated": "2025-11-09T13:23:24.184161+07:00",
   "articles": [
+    {
+      "id": "ffc6801727a49255128ecb28aaa81185",
+      "title": "Kung fu Thiếu Lâm và Nhu đạo Nhật Bản, môn nào giàu tính thực chiến hơn?",
+      "link": "https://tuoitre.vn/kung-fu-thieu-lam-va-nhu-dao-nhat-ban-mon-nao-giau-tinh-thuc-chien-hon-20251108223336949.htm",
+      "summary": "Trong phim Tinh Võ Môn, một mình Lý Tiểu Long - đại biểu cho kung fu truyền thống của người Trung Quốc đã đánh bại cả một võ đường với nhiều cao thủ judo (nhu đạo) của người Nhật. Nhưng trong thực tế, kung fu và nhu đạo, đâu mới là đỉnh cao võ thuật?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.324262+07:00",
+      "fetched": "2025-11-09T13:23:14.324373+07:00"
+    },
+    {
+      "id": "83a49db629f7cd42f63b4d0b52836785",
+      "title": "Bỏ bữa sáng và ăn tối muộn gây hại cho xương đến mức nào?",
+      "link": "https://tuoitre.vn/bo-bua-sang-va-an-toi-muon-gay-hai-cho-xuong-den-muc-nao-20251107233518605.htm",
+      "summary": "Nghiên cứu mới cho thấy bỏ bữa sáng và ăn tối muộn có thể âm thầm gây hại cho sức khỏe xương của bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.324135+07:00",
+      "fetched": "2025-11-09T13:23:14.324251+07:00"
+    },
+    {
+      "id": "dcbb04f700de7b903aa406a62a3263e1",
+      "title": "Hàng nghìn chuyến bay Mỹ tê liệt giữa đợt đóng cửa chính phủ dài kỷ lục",
+      "link": "https://tuoitre.vn/hang-nghin-chuyen-bay-my-te-liet-giua-dot-dong-cua-chinh-phu-dai-ky-luc-20251109105639123.htm",
+      "summary": "Hơn 7.500 chuyến bay Mỹ bị gián đoạn ngày 8-11 do thiếu nhân viên kiểm soát không lưu giữa đợt đóng cửa chính phủ đã gần 40 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.324013+07:00",
+      "fetched": "2025-11-09T13:23:14.324125+07:00"
+    },
+    {
+      "id": "2380549a9c9b5045b922bd69208bf381",
+      "title": "Cầu thủ Thái Lan có thể phải làm việc 'bán thời gian' để giành huy chương vàng SEA Games",
+      "link": "https://tuoitre.vn/cau-thu-thai-lan-co-the-phai-lam-viec-ban-thoi-gian-de-gianh-huy-chuong-vang-sea-games-20251109102836112.htm",
+      "summary": "Đến lúc này, Liên đoàn Bóng đá Thái Lan (FAT) vẫn chưa đạt được thỏa thuận với các CLB để nhả quân cho SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323886+07:00",
+      "fetched": "2025-11-09T13:23:14.324002+07:00"
+    },
+    {
+      "id": "f9555b0e0246918131ac9b6b23e056ba",
+      "title": "Bán giá lẻ nhưng quán thường làm tròn số tiền, khách có nên chuẩn bị tiền lẻ khi ăn uống?",
+      "link": "https://tuoitre.vn/ban-gia-le-nhung-quan-thuong-lam-tron-so-tien-khach-co-nen-chuan-bi-tien-le-khi-an-uong-20251107094355901.htm",
+      "summary": "Quán cà phê tôi hay lui tới khá đông khách. Vị trí đẹp, thức uống ngon, nhân viên thân thiện. Tuy vậy, có điểm chưa được hay là 'lười' thối tiền lẻ cho khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323751+07:00",
+      "fetched": "2025-11-09T13:23:14.323874+07:00"
+    },
+    {
+      "id": "206acd4393a23877dbcf449fec0c9760",
+      "title": "Bệnh nhân xơ gan giữa lằn ranh sống - chết vẫn sống khỏe, yếu tố nào tạo ra 'kỳ tích'?",
+      "link": "https://tuoitre.vn/benh-nhan-xo-gan-giua-lan-ranh-song-chet-van-song-khoe-yeu-to-nao-tao-ra-ky-tich-20251106193719017.htm",
+      "summary": "Trước câu chuyện ông Khiêm phục hồi kỳ diệu sau xơ gan, nhiều bạn đọc ngạc nhiên và chúc mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323605+07:00",
+      "fetched": "2025-11-09T13:23:14.323738+07:00"
+    },
+    {
+      "id": "0630f54170b7ec0d22fa789fb156624c",
+      "title": "Tìm thân nhân bệnh nhân tai nạn giao thông trên cao tốc Bắc - Nam",
+      "link": "https://tuoitre.vn/tim-than-nhan-benh-nhan-tai-nan-giao-thong-tren-cao-toc-bac-nam-20251109111930168.htm",
+      "summary": "Bệnh viện Đa khoa quốc tế Hợp Lực ở phường Đào Duy Từ, tỉnh Thanh Hóa vừa có thông báo khẩn tìm thân nhân bệnh nhân là nạn nhân của vụ tai nạn giao thông trên cao tốc Bắc - Nam, đang cấp cứu, điều trị tại bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323481+07:00",
+      "fetched": "2025-11-09T13:23:14.323594+07:00"
+    },
+    {
+      "id": "ff0a2e3841425adf72af246db0156eed",
+      "title": "Lee Kwang Soo nói gì về tin đồn kết hôn với Lee Sun Bin?",
+      "link": "https://tuoitre.vn/lee-kwang-soo-noi-gi-ve-tin-don-ket-hon-voi-lee-sun-bin-20251109112137667.htm",
+      "summary": "Trước câu hỏi lắt léo về việc kết hôn, Lee Kwang Soo khẳng định tình cảm 8 năm của cả hai đang rất bền chặt và không có ý định chia tay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323350+07:00",
+      "fetched": "2025-11-09T13:23:14.323470+07:00"
+    },
+    {
+      "id": "5c5c73f5eb195590d392127dc5beec23",
+      "title": "Dân miền Tây cất vó đón luồng cá đồng ra sông trong mùa nước nổi",
+      "link": "https://tuoitre.vn/dan-mien-tay-cat-vo-don-luong-ca-dong-ra-song-trong-mua-nuoc-noi-20251109103603395.htm",
+      "summary": "Nước trên một số cánh đồng ở An Giang lúc này có dấu hiệu chững lại, có chỗ có dấu hiệu rút nên người dân chuẩn bị cất vó (đặt vó) đón luồng cá đồng (cá linh, cá lóc, cá trê, cá tai tượng, cá cóc, cá mè vinh…) ra kênh, sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323207+07:00",
+      "fetched": "2025-11-09T13:23:14.323334+07:00"
+    },
+    {
+      "id": "535f421c0439cb42b7af0ada649e0acc",
+      "title": "Thanh gươm diệt quỷ thu về hàng tỉ USD nhưng ngành anime Nhật vẫn đang gặp khó",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-thu-ve-hang-ti-usd-nhung-nganh-anime-nhat-van-dang-gap-kho-20251108183038948.htm",
+      "summary": "Dù Chainsaw Man, Thanh gươm diệt quỷ, Solo Leveling đang làm mưa làm gió, thu về hàng triệu USD, ngành anime Nhật Bản vẫn đang chết dần chết mòn theo số liệu của các tập đoàn kiểm toán hàng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.323079+07:00",
+      "fetched": "2025-11-09T13:23:14.323196+07:00"
+    },
+    {
+      "id": "72fadaddf9da479b9b1550106ed0c89d",
+      "title": "Bánh dừa Tản Đà: Mùi thơm gợi vị xưa, chậm rãi và chân thành",
+      "link": "https://tuoitre.vn/banh-dua-tan-da-mui-thom-goi-vi-xua-cham-rai-va-chan-thanh-20251107112258201.htm",
+      "summary": "Nằm tại số 263 đường Hồng Bàng, phường Chợ Lớn (quận 5 cũ, TP.HCM), tiệm bánh hơn 40 năm khiến nhiều người thắc mắc vì sao lại có cái tên 'Bánh dừa Tản Đà'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.322950+07:00",
+      "fetched": "2025-11-09T13:23:14.323067+07:00"
+    },
+    {
+      "id": "3cfa33f847f61669e275c075edba3314",
+      "title": "Showbiz Thái Lan dậy sóng vì hình ảnh các nữ nghệ sĩ quỳ chụp hình tại lễ trao giải",
+      "link": "https://tuoitre.vn/showbiz-thai-lan-day-song-vi-hinh-anh-cac-nu-nghe-si-quy-chup-hinh-tai-le-trao-giai-20251109115522969.htm",
+      "summary": "Một bức ảnh chụp tại lễ trao giải TikTok Awards Thailand 2025 đang gây tranh cãi dữ dội khi các nghệ sĩ nữ Thái Lan phải quỳ trong lúc các nghệ sĩ nam và CEO của GMMTV đều đứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.322821+07:00",
+      "fetched": "2025-11-09T13:23:14.322939+07:00"
+    },
+    {
+      "id": "d8b56ca17eb67d005503cddbdc246497",
+      "title": "G-DRAGON thăng hoa cùng 50.000 khán giả ở Hà Nội",
+      "link": "https://tuoitre.vn/g-dragon-thang-hoa-cung-50-000-khan-gia-o-ha-noi-2025110910352062.htm",
+      "summary": "Khoảng 50.000 khán giả có hai tiếng rưỡi không thể nào quên trong đêm diễn đầu tiên G-DRAGON 2025 WORLD TOUR [Übermensch] vào tối 8-11 tại Ocean City, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.322681+07:00",
+      "fetched": "2025-11-09T13:23:14.322809+07:00"
+    },
+    {
+      "id": "7027fa617101c84b44898744b431ddb8",
+      "title": "Mong sớm giải mã con tàu cổ ở Hội An",
+      "link": "https://tuoitre.vn/mong-som-giai-ma-con-tau-co-o-hoi-an-20251109101743955.htm",
+      "summary": "Câu chuyện con tàu nghi là tàu cổ nổi lên sau hơn một năm 'mất dấu' ở biển Hội An đang gây tò mò cho nhiều người. Nhiều bạn đọc mong muốn con tàu được bảo quản tốt, sớm khai quật để giải mã đầy đủ câu chuyện kỳ bí về số phận của nó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.322518+07:00",
+      "fetched": "2025-11-09T13:23:14.322666+07:00"
+    },
+    {
+      "id": "42ef1b3dc23ca9cc4ffe1e691d4a7aed",
+      "title": "Dệt ước mơ xanh từ những mảnh ni lông phế thải",
+      "link": "https://tuoitre.vn/det-uoc-mo-xanh-tu-nhung-manh-ni-long-phe-thai-20251109090214894.htm",
+      "summary": "Với tầm nhìn về thời trang bền vững như một hướng phát triển lâu dài, Phạm Thị Kim Hằng (30 tuổi, nhà sáng lập Limloop) đã dấn thân vào lĩnh vực thời trang tái chế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T13:23:14.322297+07:00",
+      "fetched": "2025-11-09T13:23:14.322503+07:00"
+    },
     {
       "id": "0fc2654555348fa5dfb1f0420014889a",
       "title": "Tay vợt gốc Việt Learner Tien làm nên lịch sử khi lần đầu vô địch ATP",
@@ -283,6 +433,366 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T08:21:44.825403+07:00"
     },
     {
+      "id": "22a079faab60a89e660ee5b41a7a506a",
+      "title": "TP.HCM: Phòng khám đa khoa Tân Bình bị rút phép 2 lần chỉ hơn 1 năm",
+      "link": "https://thanhnien.vn/tphcm-phong-kham-da-khoa-tan-binh-bi-rut-phep-2-lan-chi-hon-1-nam-185251109123405365.htm",
+      "summary": "Trong hơn 1 năm, Phòng khám đa khoa Tân Bình bị phát hiện sai phạm 2 lần, bị rút phép hoạt động tổng cộng 7 tháng. Tại đây có hơn 10 điều dưỡng, bác sĩ bị rút chứng chỉ hành nghề có thời hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:19:00+07:00",
+      "fetched": "2025-11-09T13:23:13.312986+07:00"
+    },
+    {
+      "id": "37b64cbc0a91f082439283ffb83d6b7c",
+      "title": "Chủ tịch Quốc hội dự Ngày hội Đại đoàn kết toàn dân tộc tại Cần Thơ",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-du-ngay-hoi-dai-doan-ket-toan-dan-toc-tai-can-tho-18525110910585429.htm",
+      "summary": "Sáng 9.11, Chủ tịch Quốc hội Trần Thanh Mẫn đã cùng nhân dân ấp Châu Thành (xã An ninh, TP.Cần Thơ) dự Ngày hội Đại đoàn kết toàn dân tộc ở khu dân cư",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:14:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313156+07:00"
+    },
+    {
+      "id": "ed1b414ad3896117a54711006ed796cf",
+      "title": "Nhận 21 tỉ đồng, bàn giao ngay đất dự án cao tốc Gia Nghĩa - Chơn Thành",
+      "link": "https://thanhnien.vn/nhan-21-ti-dong-ban-giao-ngay-dat-du-an-cao-toc-gia-nghia-chon-thanh-185251109111822956.htm",
+      "summary": "Được bồi thường 21 tỉ đồng, hộ dân tại phường Bình Phước đã tự nguyện chặt cây, bàn giao mặt bằng sớm cho dự án cao tốc Gia Nghĩa - Chơn Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:05:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313314+07:00"
+    },
+    {
+      "id": "2ea062baebd654cdce88a385aa5f8172",
+      "title": "5 điểm nóng chiến thuật ở đại chiến Man City - Liverpool",
+      "link": "https://vnexpress.net/5-diem-nong-chien-thuat-o-dai-chien-man-city-liverpool-4961743.html",
+      "summary": "Erling Haaland đấu Virgil van Dijk, vai trò của Dominik Szoboszlai, Florian Wirtz hay khả năng thay đổi chiến thuật của Pep Guardiola có thể là những yếu tố định đoạt trận đại chiến ở vòng 11 Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:03:31+07:00",
+      "fetched": "2025-11-09T13:23:09.810144+07:00"
+    },
+    {
+      "id": "2ea062baebd654cdce88a385aa5f8172",
+      "title": "5 điểm nóng chiến thuật ở đại chiến Man City - Liverpool",
+      "link": "https://vnexpress.net/5-diem-nong-chien-thuat-o-dai-chien-man-city-liverpool-4961743.html",
+      "summary": "Erling Haaland đấu Virgil van Dijk, vai trò của Dominik Szoboszlai, Florian Wirtz hay khả năng thay đổi chiến thuật của Pep Guardiola có thể là những yếu tố định đoạt trận đại chiến ở vòng 11 Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T06:03:31+07:00",
+      "fetched": "2025-11-09T13:23:24.175669+07:00"
+    },
+    {
+      "id": "423bbfa3b2ba64bb2f6560e8817ce61e",
+      "title": "Nhà sáng lập Reddit: 'Giới trẻ đang chọn kiểu mạng xã hội mới'",
+      "link": "https://vnexpress.net/nha-sang-lap-reddit-gioi-tre-dang-chon-kieu-mang-xa-hoi-moi-4961807.html",
+      "summary": "Alexis Ohanian, đồng sáng lập Reddit, cho rằng thế hệ trẻ ngày nay đã học hỏi và ưa chuộng một cuộc sống ít 'game hóa' hơn, không còn chạy theo số lượng người theo dõi hay lượt thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:01:55+07:00",
+      "fetched": "2025-11-09T13:23:09.810321+07:00"
+    },
+    {
+      "id": "423bbfa3b2ba64bb2f6560e8817ce61e",
+      "title": "Nhà sáng lập Reddit: 'Giới trẻ đang chọn kiểu mạng xã hội mới'",
+      "link": "https://vnexpress.net/nha-sang-lap-reddit-gioi-tre-dang-chon-kieu-mang-xa-hoi-moi-4961807.html",
+      "summary": "Alexis Ohanian, đồng sáng lập Reddit, cho rằng thế hệ trẻ ngày nay đã học hỏi và ưa chuộng một cuộc sống ít 'game hóa' hơn, không còn chạy theo số lượng người theo dõi hay lượt thích.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-09T06:01:55+07:00",
+      "fetched": "2025-11-09T13:23:22.145019+07:00"
+    },
+    {
+      "id": "37b5987604daf80a2bc91897e17acb52",
+      "title": "7 cách giúp người huyết áp thấp giảm mệt mỏi sau ăn",
+      "link": "https://vnexpress.net/7-cach-giup-nguoi-huyet-ap-thap-giam-met-moi-sau-an-4961642.html",
+      "summary": "Người thường bị hạ huyết áp sau ăn nên chia nhỏ bữa, giảm lượng tinh bột tinh chế, tăng cường chất xơ và protein, duy trì đủ nước cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:00:00+07:00",
+      "fetched": "2025-11-09T13:23:09.810485+07:00"
+    },
+    {
+      "id": "cc8febe21a085ad2a2c6d94b5001c99a",
+      "title": "Khởi công trường dân tộc nội trú liên cấp ở vùng biên giới Lâm Đồng, Đắk Lắk",
+      "link": "https://thanhnien.vn/khoi-cong-truong-dan-toc-noi-tru-lien-cap-o-vung-bien-gioi-lam-dong-dak-lak-185251108150526381.htm",
+      "summary": "Trong khuôn khổ chương trình xây dựng 248 trường nội trú vùng sâu, vùng xa, vùng biên giới, Chính phủ vừa khởi công xây dựng 5 trường dân tộc nội trú liên cấp tại Lâm Đồng và Đắk Lắk, mở ra cơ hội học tập tốt hơn cho hàng nghìn học sinh vùng biên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T06:00:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313469+07:00"
+    },
+    {
+      "id": "e343279be8c949c97b03a51fd882c68e",
+      "title": "Lò hơi cao 60 m sập khi tháo dỡ, 9 người bị vùi lấp ở Hàn Quốc",
+      "link": "https://vnexpress.net/lo-hoi-cao-60-m-sap-khi-thao-do-9-nguoi-bi-vui-lap-o-han-quoc-4961799.html",
+      "summary": "Camera ghi lại khoảnh khắc lò hơi cũ cao 60 m của một nhà máy nhiệt điện ở Ulsan bất ngờ đổ sập trong lúc tháo dỡ, vùi lấp 9 công nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:59:01+07:00",
+      "fetched": "2025-11-09T13:23:09.810645+07:00"
+    },
+    {
+      "id": "78a81eabf8b68cc314c5596ceb5061ce",
+      "title": "Sunderland dùng 'nghệ thuật hắc ám' trong trận hòa Arsenal",
+      "link": "https://vnexpress.net/sunderland-dung-nghe-thuat-hac-am-trong-tran-hoa-arsenal-4961810.html",
+      "summary": "Để đối phó những quả ném biên dài của Arsenal, Sunderland chỉnh các biển quảng cáo lại gần đường biên khoảng 2 m, ở trận hòa 2-2 trên sân The Light.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:58:03+07:00",
+      "fetched": "2025-11-09T13:23:09.810847+07:00"
+    },
+    {
+      "id": "78a81eabf8b68cc314c5596ceb5061ce",
+      "title": "Sunderland dùng 'nghệ thuật hắc ám' trong trận hòa Arsenal",
+      "link": "https://vnexpress.net/sunderland-dung-nghe-thuat-hac-am-trong-tran-hoa-arsenal-4961810.html",
+      "summary": "Để đối phó những quả ném biên dài của Arsenal, Sunderland chỉnh các biển quảng cáo lại gần đường biên khoảng 2 m, ở trận hòa 2-2 trên sân The Light.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T05:58:03+07:00",
+      "fetched": "2025-11-09T13:23:24.175852+07:00"
+    },
+    {
+      "id": "67e1feada2c69df62d439d854560e1b6",
+      "title": "Billiards: Thắng ấn tượng Eddy Merckx, thần đồng Hàn Quốc vào chung kết World Cup",
+      "link": "https://thanhnien.vn/billiards-thang-an-tuong-eddy-merckx-than-dong-han-quoc-vao-chung-ket-world-cup-185251109125324688.htm",
+      "summary": "Trước cơ thủ kỳ cựu bậc nhất của làng carom 3 băng thế giới, thần đồng Hàn Quốc Cho Myung-woo đã thi đấu bản lĩnh và giành chiến thắng cực kỳ ấn tượng, qua đó lấy vé đầu tiên góp mặt ở trận chung kết World Cup billiards Gwangju 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:58:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313622+07:00"
+    },
+    {
+      "id": "b1538283becdaaf2e3b07b0af170e902",
+      "title": "Khám phá nồi bún mọc của người mẹ 'nối nghiệp con gái'",
+      "link": "https://thanhnien.vn/kham-pha-noi-bun-moc-cua-nguoi-me-noi-nghiep-con-gai-18525110912270297.htm",
+      "summary": "Con gái mất 4 năm trước. Cụ bà hơn 80 tuổi tiếp quản và duy trì công việc của con gái đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:52:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313804+07:00"
+    },
+    {
+      "id": "e3f4fb82da7aed844e550c936321c66a",
+      "title": "Kết buồn của ca sĩ Mỹ với cựu vương Malaysia",
+      "link": "https://vnexpress.net/ket-buon-cua-ca-si-my-voi-cuu-vuong-malaysia-4961815.html",
+      "summary": "Ca sĩ Mỹ Brittany Porter tố cựu vương Malaysia Muhammad V cắt mọi liên lạc, sau khi cô vô tình kết hôn với ông trong một buổi lễ Hồi giáo mà tưởng là nghi thức cầu chúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:49:34+07:00",
+      "fetched": "2025-11-09T13:23:09.811006+07:00"
+    },
+    {
+      "id": "d26d943dfdfced21edb46e2132cb7c45",
+      "title": "Công an TP.HCM trích xuất camera làm rõ vụ tai nạn xe tải và người đi bộ",
+      "link": "https://thanhnien.vn/cong-an-tphcm-trich-xuat-camera-lam-ro-vu-tai-nan-xe-tai-va-nguoi-di-bo-18525110912302519.htm",
+      "summary": "Một vụ tai nạn giữa xe tải và người đi bộ vừa xảy ra trên đường Tân Sơn (TP.HCM) vào lúc sáng sớm khiến 1 người tử vong. Công an TP.HCM đang trích xuất camera để làm rõ vụ tai nạn này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:44:00+07:00",
+      "fetched": "2025-11-09T13:23:13.313955+07:00"
+    },
+    {
+      "id": "b6d2357cd9fefbb8a18979a6f6f35202",
+      "title": "Vì sao nên uống trà nghệ khi thời tiết chuyển mùa?",
+      "link": "https://thanhnien.vn/vi-sao-nen-uong-tra-nghe-khi-thoi-tiet-chuyen-mua-185251109124334937.htm",
+      "summary": "Giao mùa là giai đoạn cơ thể dễ bị tác động bởi nhiệt độ và độ ẩm thay đổi. Những thói quen nhỏ như uống một tách trà nghệ ấm có thể giúp bạn cảm thấy dễ chịu hơn, hỗ trợ sức khỏe từ bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:43:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314105+07:00"
+    },
+    {
+      "id": "7cc019c258827990cf5938e64d16c48b",
+      "title": "'Vua tôm' lãi đậm",
+      "link": "https://vnexpress.net/vua-tom-lai-dam-4961796.html",
+      "summary": "Minh Phú lãi trước thuế hơn 250 tỷ đồng trong quý III, mức cao nhất khoảng ba năm trở lại đây, trong khi cùng kỳ năm ngoái lỗ nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:41:25+07:00",
+      "fetched": "2025-11-09T13:23:09.811164+07:00"
+    },
+    {
+      "id": "7cc019c258827990cf5938e64d16c48b",
+      "title": "'Vua tôm' lãi đậm",
+      "link": "https://vnexpress.net/vua-tom-lai-dam-4961796.html",
+      "summary": "Minh Phú lãi trước thuế hơn 250 tỷ đồng trong quý III, mức cao nhất khoảng ba năm trở lại đây, trong khi cùng kỳ năm ngoái lỗ nặng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-09T05:41:25+07:00",
+      "fetched": "2025-11-09T13:23:18.267236+07:00"
+    },
+    {
+      "id": "269984c2bce3453c7593807b2c0dd926",
+      "title": "Thu hút, giữ chân nhân tài: Trả lương cao là chưa đủ, điều gì mới quan trọng?",
+      "link": "https://thanhnien.vn/thu-hut-giu-chan-nhan-tai-tra-luong-cao-la-chua-du-dieu-gi-moi-quan-trong-185251109111758183.htm",
+      "summary": "Những ý kiến trao đổi với Báo Thanh Niên cho rằng trong bài toán để thu hút, giữ chân nhân tài, đặc biệt chủ nhân các tấm huy chương Olympic quốc tế thì trả lương cao chỉ là một phần giải pháp. Quan trọng hơn nữa là cơ chế, môi trường...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:41:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314252+07:00"
+    },
+    {
+      "id": "c9dcf0ee50f8bebdbbe5d9537ca7b278",
+      "title": "Sạt lở cao tốc La Sơn - Hòa Liên: Cấm xe khách, xe tải từ ngày 10.11",
+      "link": "https://thanhnien.vn/sat-lo-cao-toc-la-son-hoa-lien-cam-xe-khach-xe-tai-tu-ngay-1011-185251109120944585.htm",
+      "summary": "Cao tốc La Sơn - Hòa Liên vẫn tiềm ẩn nguy cơ sạt lở đất, đá và taluy nên trong vòng 10 ngày tới, sẽ cấm xe khách, xe tải 6 trục lưu thông trên tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:35:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314405+07:00"
+    },
+    {
+      "id": "0f926d90506493a3a10bc93d25b8c8fa",
+      "title": "Người Trung Quốc sốc với giá cả ở Singapore",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-soc-voi-gia-ca-o-singapore-4961783.html",
+      "summary": "Đối với nhiều du khách Trung Quốc, Singapore là điểm đến mơ ước, cho đến khi họ trải nghiệm chi phí sinh hoạt đắt đỏ tại đảo quốc này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:29:36+07:00",
+      "fetched": "2025-11-09T13:23:09.811317+07:00"
+    },
+    {
+      "id": "0f926d90506493a3a10bc93d25b8c8fa",
+      "title": "Người Trung Quốc sốc với giá cả ở Singapore",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-soc-voi-gia-ca-o-singapore-4961783.html",
+      "summary": "Đối với nhiều du khách Trung Quốc, Singapore là điểm đến mơ ước, cho đến khi họ trải nghiệm chi phí sinh hoạt đắt đỏ tại đảo quốc này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T05:29:36+07:00",
+      "fetched": "2025-11-09T13:23:16.393335+07:00"
+    },
+    {
+      "id": "0ab21be514230dcae4b4c9ec2432bb03",
+      "title": "Sau chạy bão Kalmaegi, Gia Lai lại ‘chạy trường’ để học sinh sớm đến lớp",
+      "link": "https://thanhnien.vn/sau-chay-bao-kalmaegi-gia-lai-lai-chay-truong-de-hoc-sinh-som-den-lop-185251109120318241.htm",
+      "summary": "Sau bão Kalmaegi (bão số 13), hàng trăm trường học ở Gia Lai bị tốc mái, hư hỏng nặng. Ngành giáo dục cùng các lực lượng vũ trang, đoàn viên, thanh niên dốc toàn lực khắc phục, quyết tâm đưa học sinh trở lại trường vào ngày 10.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:28:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314556+07:00"
+    },
+    {
+      "id": "a59b4217e65690e15b017a264a8b7ae6",
+      "title": "Nhìn lại kỳ tích 3 ngư dân sống sót sau 48 giờ mất tích ở Lý Sơn",
+      "link": "https://thanhnien.vn/nhin-lai-ky-tich-3-ngu-dan-song-sot-sau-48-gio-mat-tich-o-ly-son-185251109122240328.htm",
+      "summary": "3 ngư dân Lý Sơn mất tích suốt 48 giờ giữa tâm bão Kalmaegi đã trở về trong niềm vui vỡ òa của cả đảo. Họ sống sót nhờ ý chí phi thường và kinh nghiệm của người miền biển, khi đã nhai cá sống, hứng mưa để cầm hơi giữa trùng khơi dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:22:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314728+07:00"
+    },
+    {
+      "id": "3650002ef9ee9a2158db03abb5f80156",
+      "title": "Hiếm gặp: Bìm bịp bạch tạng xuất hiện trong tự nhiên ở Ninh Bình gây bất ngờ",
+      "link": "https://thanhnien.vn/hiem-gap-bim-bip-bach-tang-xuat-hien-trong-tu-nhien-o-ninh-binh-gay-bat-ngo-185251109111145576.htm",
+      "summary": "Hình ảnh chim bìm bịp bạch tạng hiếm gặp xuất hiện ở Ninh Bình khiến nhiều người thích thú. Chuyên gia cho biết đây là hiện tượng rất hiếm gặp trong tự nhiên vì các cá thể bạch tạng thường khó sinh tồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:13:00+07:00",
+      "fetched": "2025-11-09T13:23:13.314883+07:00"
+    },
+    {
+      "id": "66db55cb064a751f9a2ee0e9346e523d",
+      "title": "FIFA đúng luật, đội tuyển Malaysia rớt hạng 145 thế giới: Còn ai muốn đấu giao hữu?",
+      "link": "https://thanhnien.vn/fifa-dung-luat-doi-tuyen-malaysia-rot-hang-145-the-gioi-con-ai-muon-dau-giao-huu-185251109120940295.htm",
+      "summary": "Theo kênh Stadium Astro, cho đến hôm nay (9.11), vẫn còn rất nhiều câu hỏi xoay quanh việc cấp quyền công dân cho 7 cầu thủ nhập tịch Malaysia, khiến bóng đá nước này bị FIFA xử phạt vì hành vi 'giả mạo và xuyên tạc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:10:00+07:00",
+      "fetched": "2025-11-09T13:23:13.315035+07:00"
+    },
+    {
+      "id": "8db25d932db8e3335f629b5f99057539",
+      "title": "Mổ cột sống cứu người cao tuổi nhiều bệnh nền khỏi nguy cơ liệt chân vĩnh viễn",
+      "link": "https://thanhnien.vn/mo-cot-song-cuu-nguoi-cao-tuoi-nhieu-benh-nen-khoi-nguy-co-liet-chan-vinh-vien-185251109121755737.htm",
+      "summary": "Mổ để giữ lại khả năng vận động, hay không mổ và chấp nhận nguy cơ yếu liệt suốt đời? Đây không chỉ là lựa chọn khó khăn với người phụ nữ 68 tuổi mắc nhiều bệnh nền nguy hiểm, mà còn là thử thách lớn cho ê-kíp phẫu thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:08:00+07:00",
+      "fetched": "2025-11-09T13:23:13.315189+07:00"
+    },
+    {
+      "id": "2fe99b44c7e662ee3392605eac1aa7f3",
+      "title": "Thủ tướng: Xây trường vùng biên 'táo bạo, thần tốc như chiến dịch Quang Trung'",
+      "link": "https://vnexpress.net/thu-tuong-xay-truong-vung-bien-tao-bao-than-toc-nhu-chien-dich-quang-trung-4961797.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu xây dựng trường nội trú vùng biên với tinh thần thần tốc, táo bạo như chiến dịch Quang Trung, mang lại môi trường học tập toàn diện cho học sinh nơi biên cương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:03:04+07:00",
+      "fetched": "2025-11-09T13:23:09.811485+07:00"
+    },
+    {
+      "id": "3908a80e5f8774877e8ca6d248631df2",
+      "title": "Anh nói tôi có thể tìm hiểu nhiều người cùng lúc",
+      "link": "https://vnexpress.net/anh-noi-toi-co-the-tim-hieu-nhieu-nguoi-cung-luc-4961769.html",
+      "summary": "Quen sáu tháng, anh thường xuyên hỏi tôi có yêu anh không, nhưng cuối cùng lại nói chưa từng yêu tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:00:00+07:00",
+      "fetched": "2025-11-09T13:23:09.811643+07:00"
+    },
+    {
+      "id": "a63c397d2d1e004835a3caf9aabf1ab1",
+      "title": "Tỉnh nào là ranh giới chúa Trịnh - Nguyễn phân tranh?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tinh-nao-la-ranh-gioi-chua-trinh-nguyen-phan-tranh-4959079.html",
+      "summary": "Tỉnh này còn được mệnh danh là miền đất lửa, nơi đây cũng được ví như 'chiếc eo' của Việt Nam với bề ngang nhỏ nhất cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:00:00+07:00",
+      "fetched": "2025-11-09T13:23:09.811826+07:00"
+    },
+    {
+      "id": "c563c957e5b54f2de3c18ac0ca1a65fe",
+      "title": "Dư âm đêm concert đầu tiên của G-DRAGON tại Việt Nam",
+      "link": "https://vnexpress.net/du-am-dem-concert-dau-tien-cua-g-dragon-tai-viet-nam-4961808.html",
+      "summary": "Ngày 8/11, đêm diễn đầu tiên của G-DRAGON tại Ocean City bùng nổ với hàng chục nghìn fan cùng đồng thanh hát, hô tên thần tượng và hoài niệm về giấc mơ tuổi trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:00:00+07:00",
+      "fetched": "2025-11-09T13:23:09.811979+07:00"
+    },
+    {
+      "id": "14b94b72f62566d35ce586bfe5dd3fb2",
+      "title": "Delta Cargo mở rộng hoạt động tại sân bay Salt Lake City",
+      "link": "https://vnexpress.net/delta-cargo-mo-rong-hoat-dong-tai-san-bay-salt-lake-city-4960104.html",
+      "summary": "Delta Air Lines Cargo sẽ mở rộng hiện diện tại sân bay quốc tế Salt Lake City khi vận hành một cơ sở vận chuyển hàng hóa mới, trị giá khoảng 18 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:00:00+07:00",
+      "fetched": "2025-11-09T13:23:09.812129+07:00"
+    },
+    {
+      "id": "b8805c9e480828124f21845ba11713f2",
+      "title": "Vốn điều lệ của VinSpeed vượt mốc tỷ USD",
+      "link": "https://vnexpress.net/von-dieu-le-cua-vinspeed-vuot-moc-ty-usd-4961746.html",
+      "summary": "Tính đến ngày 6/11, vốn điều lệ của VinSpeed đạt 33.000 tỷ đồng, tương đương 1,3 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:16:23+07:00",
+      "fetched": "2025-11-09T13:23:09.812290+07:00"
+    },
+    {
+      "id": "b8805c9e480828124f21845ba11713f2",
+      "title": "Vốn điều lệ của VinSpeed vượt mốc tỷ USD",
+      "link": "https://vnexpress.net/von-dieu-le-cua-vinspeed-vuot-moc-ty-usd-4961746.html",
+      "summary": "Tính đến ngày 6/11, vốn điều lệ của VinSpeed đạt 33.000 tỷ đồng, tương đương 1,3 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-09T04:16:23+07:00",
+      "fetched": "2025-11-09T13:23:18.267411+07:00"
+    },
+    {
+      "id": "025cc075e20f82e8e0505b033d008e3d",
+      "title": "Thêm 4 dự án trên địa bàn TP HCM được gỡ vướng sổ hồng",
+      "link": "https://vnexpress.net/them-4-du-an-tren-dia-ban-tp-hcm-duoc-go-vuong-so-hong-4961766.html",
+      "summary": "Tổ Công tác 1645 vừa làm việc để tháo gỡ vướng mắc, tiến tới cấp giấy chứng nhận quyền sở hữu nhà ở (sổ hồng) cho người dân tại bốn dự án trên địa bàn TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:15:50+07:00",
+      "fetched": "2025-11-09T13:23:09.812446+07:00"
+    },
+    {
       "id": "a1a61692a87bea8c297ecf5a1c97e211",
       "title": "Nhận định Man City vs Liverpool, 23 giờ 30 ngày 9.11: Pep Guardiola trên bờ vực thẳm",
       "link": "https://thanhnien.vn/nhan-dinh-man-city-vs-liverpool-23-gio-30-ngay-911-pep-guardiola-tren-bo-vuc-tham-185251107140349359.htm",
@@ -301,6 +811,16 @@ window.newsData_2025_11_09 = {
       "category": "Tổng hợp",
       "published": "2025-11-09T04:10:00+07:00",
       "fetched": "2025-11-09T11:19:29.252540+07:00"
+    },
+    {
+      "id": "d0fc9f6bd6ce7c5365c0c9e8498d6f25",
+      "title": "Bên trong hầm dự trữ đất hiếm lớn nhất nước Đức",
+      "link": "https://vnexpress.net/ben-trong-ham-du-tru-dat-hiem-lon-nhat-nuoc-duc-4961564.html",
+      "summary": "Kho dự trữ đất hiếm của công ty Tradium đặt trong boongke ở miền tây nước Đức, cất giữ hàng nghìn thùng vật liệu chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T04:09:28+07:00",
+      "fetched": "2025-11-09T13:23:16.393512+07:00"
     },
     {
       "id": "516a2f6c92e19b71fe2a22b796af5a37",
