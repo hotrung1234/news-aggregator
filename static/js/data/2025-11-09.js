@@ -1,7 +1,137 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T05:14:49.757540+07:00",
+  "lastUpdated": "2025-11-09T08:21:51.371209+07:00",
   "articles": [
+    {
+      "id": "bb5c38fb4feee957c47e70c7f610c5ba",
+      "title": "Ghi siêu phẩm phút 90+4, Sunderland cắt đứt mạch chiến thắng của Arsenal",
+      "link": "https://tuoitre.vn/ghi-sieu-pham-phut-90-4-sunderland-cat-dut-mach-chien-thang-cua-arsenal-20251109034223389.htm",
+      "summary": "Tiền đạo người Hà Lan Brian Brobbey đã có pha tung người móc vô lê ghi siêu phẩm tuyệt đẹp ở phút 90+4, giúp Sunderland cầm hòa Arsenal 2-2 trên sân nhà Ánh Sáng ở vòng 11 Giải ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826747+07:00",
+      "fetched": "2025-11-09T08:21:44.826856+07:00"
+    },
+    {
+      "id": "35906160a041fbbf0a747961d5065a54",
+      "title": "Bão Phượng Hoàng mạnh lên cấp 15, khả năng thành siêu bão hôm nay",
+      "link": "https://tuoitre.vn/bao-phuong-hoang-manh-len-cap-15-kha-nang-thanh-sieu-bao-hom-nay-20251109004627099.htm",
+      "summary": "Rạng sáng nay (9-11), bão Phượng Hoàng (bão Fung Wong) tiếp tục mạnh lên cấp 15 (167-183km/h), giật trên cấp 17. Dự báo hôm nay bão có khả năng mạnh lên thành siêu bão trước khi đổ bộ vào đảo Luzon (Philippines).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826633+07:00",
+      "fetched": "2025-11-09T08:21:44.826737+07:00"
+    },
+    {
+      "id": "10dbfa4d768c0303d38b328ead6f2d5c",
+      "title": "Bóng chuyền nữ Philippines quật ngã Thái Lan, lấy vé dự giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-philippines-quat-nga-thai-lan-lay-ve-du-giai-the-gioi-20251108205043875.htm",
+      "summary": "Bóng chuyền nữ Thái Lan bất ngờ bại trận trước Philippines ở Giải vô địch U16 châu Á 2025, qua đó đánh mất tấm vé chính thức dự Giải thế giới cấp độ U17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826466+07:00",
+      "fetched": "2025-11-09T08:21:44.826622+07:00"
+    },
+    {
+      "id": "e6a3c9b57800c4733818ac1717bcc42e",
+      "title": "Hạ số 1 thế giới Sabalenka, Rybakina giành được khoản tiền thưởng lớn nhất lịch sử",
+      "link": "https://tuoitre.vn/ha-so-1-the-gioi-sabalenka-rybakina-gianh-duoc-khoan-tien-thuong-lon-nhat-lich-su-20251109025913892.htm",
+      "summary": "Tay vợt 26 tuổi Elena Rybakina đã giành được khoản tiền thưởng lớn nhất trong lịch sử quần vợt nữ, khi đánh bại đối thủ số một thế giới Aryna Sabalenka 2-0 (6-3, 7-6) trong trận chung kết WTA Finals.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826335+07:00",
+      "fetched": "2025-11-09T08:21:44.826453+07:00"
+    },
+    {
+      "id": "461629e5fa99d8dc1c48636ccce54011",
+      "title": "Thời tiết hôm nay 9-11: Đất liền khô ráo, Biển Đông có bão gần",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-11-dat-lien-kho-rao-bien-dong-co-bao-gan-2025110819291531.htm",
+      "summary": "Hôm nay 9-11, thời tiết đất liền khô ráo sau nhiều ngày mưa dai dẳng, có nơi nắng, trên biển dông gió và có bão gần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826228+07:00",
+      "fetched": "2025-11-09T08:21:44.826326+07:00"
+    },
+    {
+      "id": "a47d6ae4e9f07d7cdcbe9bcb706ff19c",
+      "title": "Tin tức sáng 9-11: Vụ ngộ độc sau khi ăn bánh mì có 1 ca nặng, 1 thai phụ nguy cơ sinh non",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-11-vu-ngo-doc-sau-khi-an-banh-mi-co-1-ca-nang-1-thai-phu-nguy-co-sinh-non-20251108221302789.htm",
+      "summary": "Tin tức đáng chú ý: Vụ ngộ độc sau khi ăn bánh mì ở TP.HCM có một ca nặng, một thai phụ nguy cơ sinh non; 30% người bệnh đột quỵ đến viện không biết mình có bệnh nền; Gần 1.000 người tham gia khắc phục sự cố đường sắt Bắc - Nam do bão Kalmaegi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826120+07:00",
+      "fetched": "2025-11-09T08:21:44.826219+07:00"
+    },
+    {
+      "id": "4907b6b8bdb4f67e37019315811a4513",
+      "title": "Dòng tiền trên thị trường chứng khoán đang 'nguội' nhanh, vì sao?",
+      "link": "https://tuoitre.vn/dong-tien-tren-thi-truong-chung-khoan-dang-nguoi-nhanh-vi-sao-20251108225406939.htm",
+      "summary": "Chỉ trong ba tháng, thanh khoản thị trường chứng khoán đã giảm gần 50%, từ mức sôi động kỷ lục hơn 49.500 tỉ đồng/phiên hồi tháng 8 xuống còn khoảng 25.000 tỉ đồng trong tuần đầu tiên của tháng 11-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.826012+07:00",
+      "fetched": "2025-11-09T08:21:44.826111+07:00"
+    },
+    {
+      "id": "a61d7df86b8efd6327c2d80a4ffae1b9",
+      "title": "Ronaldo lại sút phạt đền, ghi bàn thắng thứ 953 trong sự nghiệp",
+      "link": "https://tuoitre.vn/ronaldo-lai-sut-phat-den-ghi-ban-thang-thu-953-trong-su-nghiep-20251109044637814.htm",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo đã sút thành công quả phạt đền ghi bàn thắng thứ 953 của mình trong trận Al Nassr thắng Neom 3-1 ở Saudi Pro League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825903+07:00",
+      "fetched": "2025-11-09T08:21:44.826003+07:00"
+    },
+    {
+      "id": "45cad6bed03a9aa40ae861ee5eb246b9",
+      "title": "Bộ Tài chính thúc địa phương hỗ trợ hộ kinh doanh bỏ thuế khoán",
+      "link": "https://tuoitre.vn/bo-tai-chinh-thuc-dia-phuong-ho-tro-ho-kinh-doanh-bo-thue-khoan-20251108233709994.htm",
+      "summary": "Từ nay đến cuối năm, ngành thuế đang nỗ lực phối hợp chặt chẽ với các ngành gồm công an, ngân hàng... để hỗ trợ người kinh doanh nhỏ chuyển đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825779+07:00",
+      "fetched": "2025-11-09T08:21:44.825893+07:00"
+    },
+    {
+      "id": "130c7c9bad9deec5ba2690b2168d074c",
+      "title": "Chờ HLV Lê Huỳnh Đức trổ tài",
+      "link": "https://tuoitre.vn/cho-hlv-le-huynh-duc-tro-tai-20251108234438778.htm",
+      "summary": "HLV Lê Huỳnh Đức được kỳ vọng sẽ đưa CLB Công An TP.HCM (CATP) đánh bại đội đầu bảng Ninh Bình trong trận đấu được chờ đợi nhất vòng 11 V-League 2025 - 2026 diễn ra vào 19h15 hôm nay (9-11, FPT Play THTT) trên sân Thống Nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825667+07:00",
+      "fetched": "2025-11-09T08:21:44.825769+07:00"
+    },
+    {
+      "id": "47325eaf56dae5f49cc5b6b7cf3254ec",
+      "title": "Djokovic xé rách áo ăn mừng chức vô địch thứ 101, rồi tuyên bố rút lui khỏi ATP Tour Finals",
+      "link": "https://tuoitre.vn/djokovic-xe-rach-ao-an-mung-chuc-vo-dich-thu-101-roi-tuyen-bo-rut-lui-khoi-atp-tour-finals-20251109051801145.htm",
+      "summary": "Chỉ vài giờ sau khi đánh bại Lorenzo Musetti để đoạt chức vô địch thứ 101 trong sự nghiệp, tay vợt 38 tuổi Novak Djokovic đã tuyên bố rút lui khỏi ATP Tour Finals tại Turin vào tuần tới vì chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825552+07:00",
+      "fetched": "2025-11-09T08:21:44.825657+07:00"
+    },
+    {
+      "id": "965bdac123a82f9296dfacbac04a1467",
+      "title": "Bí thư Trần Lưu Quang khích lệ các trường đại học góp ý xây dựng thành phố tri thức",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-khich-le-cac-truong-dai-hoc-gop-y-xay-dung-thanh-pho-tri-thuc-20251109013735435.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang đã có buổi gặp mặt, lắng nghe ý kiến các trường đại học về việc hợp tác, phát triển nhân lực chất lượng cao và hệ sinh thái đổi mới sáng tạo cho thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825417+07:00",
+      "fetched": "2025-11-09T08:21:44.825541+07:00"
+    },
+    {
+      "id": "954ab4cf0e9bc3a71a7f752f0940df92",
+      "title": "Người mua không sang tên, làm mất giấy đăng ký xe, làm sao để được cấp lại?",
+      "link": "https://tuoitre.vn/nguoi-mua-khong-sang-ten-lam-mat-giay-dang-ky-xe-lam-sao-de-duoc-cap-lai-20251108115849364.htm",
+      "summary": "Xe gắn máy tôi mua và đăng ký xe chính chủ đã lâu, sau này bán cho người khác nhưng không sang tên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:21:44.825171+07:00",
+      "fetched": "2025-11-09T08:21:44.825403+07:00"
+    },
     {
       "id": "14f2f2cab578e211e3e67abee1a1aeda",
       "title": "Lê Quang Liêm lần thứ 3 trong lịch sử vào vòng 4 World Cup cờ vua",
@@ -151,6 +281,336 @@ window.newsData_2025_11_09 = {
       "category": "Tổng hợp",
       "published": "2025-11-09T01:21:41.076715+07:00",
       "fetched": "2025-11-09T01:21:41.076928+07:00"
+    },
+    {
+      "id": "61b7157b63e4cdee125a0b0e1869cc7c",
+      "title": "Khách Việt lưu ý quy định mới ở Thái Lan nếu không muốn bị phạt nặng",
+      "link": "https://thanhnien.vn/khach-viet-luu-y-quy-dinh-moi-o-thai-lan-neu-khong-muon-bi-phat-nang-18525110907541213.htm",
+      "summary": "Thái Lan áp dụng mức phạt 300 đô la Mỹ (khoảng 7,5 triệu đồng) đối với người uống rượu bia vào ban ngày sau khi luật rượu bia thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:19:00+07:00",
+      "fetched": "2025-11-09T08:21:41.723848+07:00"
+    },
+    {
+      "id": "def24b944e34a92e2a8efa7dab9edda8",
+      "title": "Battlefield 6 nhận nhiều đánh giá tiêu cực từ người chơi trên Steam",
+      "link": "https://thanhnien.vn/battlefield-6-nhan-nhieu-danh-gia-tieu-cuc-tu-nguoi-choi-tren-steam-185251106233614939.htm",
+      "summary": "Dù bán ra khoảng 10 triệu bản trong tháng đầu tiên, Battlefield 6 vẫn bị cộng đồng Steam chấm điểm thấp và chỉ xếp trên một phiên bản trong toàn bộ loạt game.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:10:00+07:00",
+      "fetched": "2025-11-09T08:21:41.723995+07:00"
+    },
+    {
+      "id": "76b76fa225c03cb0c3ddf18fdf05024b",
+      "title": "Nói gì đây sông ơi - Thơ của Nguyễn Ngọc Hạnh",
+      "link": "https://thanhnien.vn/noi-gi-day-song-oi-tho-cua-nguyen-ngoc-hanh-185251108160331098.htm",
+      "summary": "Nói gì đây với Vu GiaSông quê cũng chẳng nói ra một lờiBao người lưu lạc trăm nơiMà sao ai cũng bời bời nhớ thương",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:05:00+07:00",
+      "fetched": "2025-11-09T08:21:43.257381+07:00"
+    },
+    {
+      "id": "176af27f0079c2653bf4ce52f362cb95",
+      "title": "TSMC tăng giá chip, người dùng Apple chuẩn bị 'gánh' chi phí",
+      "link": "https://thanhnien.vn/tsmc-tang-gia-chip-nguoi-dung-apple-chuan-bi-ganh-chi-phi-185251108160001575.htm",
+      "summary": "iPhone và MacBook sắp tăng giá sốc vì chip mới của TSMC đắt hơn tới 50%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:04:00+07:00",
+      "fetched": "2025-11-09T08:21:43.257839+07:00"
+    },
+    {
+      "id": "07cca2af60984db38e8fe88a66d5876b",
+      "title": "Nga đang chuẩn bị đáp trả tương xứng nếu Mỹ thử vũ khí hạt nhân",
+      "link": "https://thanhnien.vn/nga-dang-chuan-bi-dap-tra-tuong-xung-neu-my-thu-vu-khi-hat-nhan-185251109075730992.htm",
+      "summary": "Nga phàn nàn vẫn chưa nhận lời giải thích của Mỹ về ý định thử vũ khí hạt nhân và cảnh báo Moscow cũng đang chuẩn bị cho một vụ thử nghiệm như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:03:00+07:00",
+      "fetched": "2025-11-09T08:21:43.257998+07:00"
+    },
+    {
+      "id": "8bd26946c84378e22e9423ba35e5b426",
+      "title": "Từ 'tiếng loa thanh niên' đến hành động thực tế: Câu chuyện đẹp trong bão Kalmaegi",
+      "link": "https://thanhnien.vn/tu-tieng-loa-thanh-nien-den-hanh-dong-thuc-te-cau-chuyen-dep-trong-bao-kalmaegi-185251108194236364.htm",
+      "summary": "Khi bão Kalmaegi đổ bộ, những chiếc loa cầm tay của đoàn viên, thanh niên Gia Lai vang lên giữa mưa gió, mang theo lời nhắc nhở, hướng dẫn người dân phòng tránh. Và khi bão tan, cũng chính họ lại xuất hiện - dọn dẹp, dựng lại mái nhà, trao đi sự bình yên và niềm hy vọng giữa đống ngổn ngang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:00:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258136+07:00"
+    },
+    {
+      "id": "000ae5c7b25b72a3c2431125ae0a9d1b",
+      "title": "Nhàn đàm: Cung bậc bão tố",
+      "link": "https://thanhnien.vn/nhan-dam-cung-bac-bao-to-185251108160549552.htm",
+      "summary": "Mẹ từ Nha Trang điện vào, nói muốn mượn căn phòng đang bỏ không của tôi ở ngoài quê cho người ta ở tạm. Mẹ giải thích, tất cả là do bão, bão rất to sẽ đổ bộ vào bờ ban đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:00:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258277+07:00"
+    },
+    {
+      "id": "ebd2331bbd3449338bc7fb62edcafd9e",
+      "title": "Những gam màu ai cũng mặc vào mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-gam-mau-ai-cung-mac-vao-mua-thu-185251107165640089.htm",
+      "summary": "Gam màu nâu trầm điểm họa tiết hoa nhí, sắc vàng pastel, màu xanh ô liu hay sắc đỏ đô gợi nhắc đến những bữa tiệc cuối năm, những buổi gặp gỡ mở ra niềm vui bất tận. Những gam màu này được yêu thích không chỉ vì mang tính xu hướng mà còn vì hiệu ứng tích cực cho tâm trạng của nàng trong tiết trời se...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T01:00:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258414+07:00"
+    },
+    {
+      "id": "48e8055ccdc833ec60a3a5739ae67e71",
+      "title": "239 ứng dụng Android độc hại vượt qua kiểm duyệt của Google Play",
+      "link": "https://thanhnien.vn/239-ung-dung-android-doc-hai-vuot-qua-kiem-duyet-cua-google-play-185251108165348036.htm",
+      "summary": "Bất chấp những nỗ lực của Google trong việc loại bỏ các ứng dụng Android độc hại khỏi Google Play, chúng vẫn xuất hiện và đe dọa người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:59:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258557+07:00"
+    },
+    {
+      "id": "71ca3d0bd31948423ac4a039f12328e6",
+      "title": "Philippines cảnh báo đỏ về bão Fung Wong, số người chết vì bão Kalmaegi lên 204",
+      "link": "https://thanhnien.vn/philippines-canh-bao-do-ve-bao-fung-wong-so-nguoi-chet-vi-bao-kalmaegi-len-204-185251109074857149.htm",
+      "summary": "Philippines ráo riết sơ tán người dân và chuẩn bị các biện pháp ứng phó bão Fung Wong, trong khi số người thiệt mạng vì bão Kalmaegi tiếp tục tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:54:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258693+07:00"
+    },
+    {
+      "id": "eb1a565974689781663254298da57602",
+      "title": "Tòa thánh mô phỏng cõi thiên đình và bí ẩn 'đàn cơ'",
+      "link": "https://thanhnien.vn/toa-thanh-mo-phong-coi-thien-dinh-va-bi-an-dan-co-185251108200156231.htm",
+      "summary": "Là \"tổ đình\" của đạo Cao Đài (*), Tòa thánh Tây Ninh (P.Long Hoa, tỉnh Tây Ninh) được khởi xây vào đầu thập niên 1930, hoàn thành phần kiến trúc chính năm 1947.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:45:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258822+07:00"
+    },
+    {
+      "id": "33ef53cec4077a9b1b9860395797ade0",
+      "title": "Dự báo hôm nay bão Fung wong mạnh lên siêu bão, sáng mai đi vào Biển Đông",
+      "link": "https://thanhnien.vn/du-bao-hom-nay-bao-fung-wong-manh-len-sieu-bao-sang-mai-di-vao-bien-dong-185251109065742898.htm",
+      "summary": "Cường độ cơn bão Fung wong đang ở cấp 15, tương đương sức gió từ 167 - 183 km/giờ. Dự báo hôm nay, bão Fung wong sẽ mạnh lên thành siêu bão (gió mạnh cấp 16) và đang di chuyển với tốc độ rất nhanh, hướng vào Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:34:00+07:00",
+      "fetched": "2025-11-09T08:21:43.258950+07:00"
+    },
+    {
+      "id": "1bb1c670e976c251c33a9e4d4111ad69",
+      "title": "Phường lún nhanh nhất TP.HCM 'chìm' gần 1 mét: Nhiều nhà dân nứt tường, vỡ nền",
+      "link": "https://thanhnien.vn/phuong-lun-nhanh-nhat-tphcm-chim-gan-1-met-nhieu-nha-dan-nut-tuong-vo-nen-185251108144046597.htm",
+      "summary": "Phường An Lạc là phường lún nhanh nhất TP.HCM, gần 1 mét trong 12 năm. Nhiều nhà dân nứt tường, vỡ nền và trường học cũng bị ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:34:00+07:00",
+      "fetched": "2025-11-09T08:21:43.259080+07:00"
+    },
+    {
+      "id": "162867683f19e98d8fd5985bc4de2350",
+      "title": "Syria tấn công phủ đầu IS ngay trước chuyến đi lịch sử của tổng thống đến Mỹ",
+      "link": "https://thanhnien.vn/syria-tan-cong-phu-dau-is-ngay-truoc-chuyen-di-lich-su-cua-tong-thong-den-my-185251109072556453.htm",
+      "summary": "Syria đã tiến hành chiến dịch tấn công phủ đầu tổ chức Nhà nước Hồi giáo tự xưng (IS) ngay trước chuyến thăm lịch sử của Tổng thống lâm thời Syria Ahmed al-Sharaa đến Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:32:00+07:00",
+      "fetched": "2025-11-09T08:21:43.259209+07:00"
+    },
+    {
+      "id": "88e7429eceb003ebfd7e4c5af28955d9",
+      "title": "Giá USD hôm nay 9.11.2025: Tiếp tục tăng đẩy euro, bảng Anh đi xuống",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-9112025-tiep-tuc-tang-day-euro-bang-anh-di-xuong-185251109070827342.htm",
+      "summary": "Giá USD trong nước tăng nhẹ trong khi nhiều ngoại tệ khác như euro, bảng Anh quay đầu đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:32:00+07:00",
+      "fetched": "2025-11-09T08:21:43.259335+07:00"
+    },
+    {
+      "id": "1f723a6f1faadadbc9132af13ece433e",
+      "title": "6 nâng cấp dự kiến trên thế hệ Galaxy S26",
+      "link": "https://vnexpress.net/6-nang-cap-du-kien-tren-the-he-galaxy-s26-4961436.html",
+      "summary": "Galaxy S26, thế hệ smartphone cao cấp ra mắt đầu năm sau của Samsung, được cho là sẽ trang bị chip Exynos 2600 2 nm, màn hình bảo mật và sạc nhanh 60 W.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.448328+07:00"
+    },
+    {
+      "id": "82f2bb389a9060433f1258b688a0f0ad",
+      "title": "Tài xế dùng drone của ôtô thám thính đám tắc đường",
+      "link": "https://vnexpress.net/tai-xe-dung-drone-cua-oto-tham-thinh-dam-tac-duong-4961056.html",
+      "summary": "Chiếc drone bay lên cao, giúp tài xế quan sát giao thông phía trước rồi quay lại, chui gọn vào chiếc hộp trên nóc xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T00:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.448485+07:00"
+    },
+    {
+      "id": "1f723a6f1faadadbc9132af13ece433e",
+      "title": "6 nâng cấp dự kiến trên thế hệ Galaxy S26",
+      "link": "https://vnexpress.net/6-nang-cap-du-kien-tren-the-he-galaxy-s26-4961436.html",
+      "summary": "Galaxy S26, thế hệ smartphone cao cấp ra mắt đầu năm sau của Samsung, được cho là sẽ trang bị chip Exynos 2600 2 nm, màn hình bảo mật và sạc nhanh 60 W.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-09T00:00:00+07:00",
+      "fetched": "2025-11-09T08:21:49.997743+07:00"
+    },
+    {
+      "id": "c6c29d48f59a13de368f2d8588a5a558",
+      "title": "Lốc xoáy xóa sổ gần như cả thị trấn Brazil, 6 người chết",
+      "link": "https://vnexpress.net/loc-xoay-xoa-so-gan-nhu-ca-thi-tran-brazil-6-nguoi-chet-4961750.html",
+      "summary": "Trận lốc xoáy quét qua một thị trấn miền nam Brazil, xóa sổ 90% công trình và khiến ít nhất 6 người chết cùng khoảng 750 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:53:26+07:00",
+      "fetched": "2025-11-09T08:21:38.448639+07:00"
+    },
+    {
+      "id": "c6c29d48f59a13de368f2d8588a5a558",
+      "title": "Lốc xoáy xóa sổ gần như cả thị trấn Brazil, 6 người chết",
+      "link": "https://vnexpress.net/loc-xoay-xoa-so-gan-nhu-ca-thi-tran-brazil-6-nguoi-chet-4961750.html",
+      "summary": "Trận lốc xoáy quét qua một thị trấn miền nam Brazil, xóa sổ 90% công trình và khiến ít nhất 6 người chết cùng khoảng 750 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T23:53:26+07:00",
+      "fetched": "2025-11-09T08:21:46.662869+07:00"
+    },
+    {
+      "id": "ea629afb3416f4ea873a5debcf25b8df",
+      "title": "Rybakina giành khoản tiền thưởng lớn nhất lịch sử quần vợt nữ",
+      "link": "https://vnexpress.net/rybakina-gianh-khoan-tien-thuong-lon-nhat-lich-su-quan-vot-nu-4961752.html",
+      "summary": "Hạt giống số sáu Elena Rybakina hạ tay vợt số một thế giới Aryna Sabalenka 6-3, 7-6(0) ở chung kết WTA Finals, qua đó nhận 5,23 triệu USD tiền thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:29:40+07:00",
+      "fetched": "2025-11-09T08:21:38.448775+07:00"
+    },
+    {
+      "id": "ea629afb3416f4ea873a5debcf25b8df",
+      "title": "Rybakina giành khoản tiền thưởng lớn nhất lịch sử quần vợt nữ",
+      "link": "https://vnexpress.net/rybakina-gianh-khoan-tien-thuong-lon-nhat-lich-su-quan-vot-nu-4961752.html",
+      "summary": "Hạt giống số sáu Elena Rybakina hạ tay vợt số một thế giới Aryna Sabalenka 6-3, 7-6(0) ở chung kết WTA Finals, qua đó nhận 5,23 triệu USD tiền thưởng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T23:29:40+07:00",
+      "fetched": "2025-11-09T08:21:51.365723+07:00"
+    },
+    {
+      "id": "8bd4045ef6c0fb37d8028bc5efd51836",
+      "title": "Đường sắt võng xuống sông do bão Kalmaegi tàn phá",
+      "link": "https://vnexpress.net/duong-sat-vong-xuong-song-do-bao-kalmaegi-tan-pha-4961631.html",
+      "summary": "Mưa bão làm đường sắt nối tỉnh Đăk Lăk với Gia Lai sạt lở nền đất, bêtông, đá dăm, võng sâu xuống sông, tàu lửa tê liệt, ảnh hưởng hàng nghìn hành khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.448909+07:00"
+    },
+    {
+      "id": "14e36b4f2493ff6736c313374646e5e6",
+      "title": "'Thiên đường' làm đẹp 50 USD ở New York",
+      "link": "https://vnexpress.net/thien-duong-lam-dep-50-usd-o-new-york-4961083.html",
+      "summary": "Giữa thành phố đắt đỏ bậc nhất thế giới, nhiều người New York đang tìm đến các tiệm làm đẹp bình dân \"ẩn mình\" để nhận dịch vụ chất lượng cao với giá hời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.449044+07:00"
+    },
+    {
+      "id": "76cc3483cc82a849703ad98d6df5d2d6",
+      "title": "Chàng trai Croatia mang cà phê vỉa hè Việt Nam đến châu Âu",
+      "link": "https://vnexpress.net/chang-trai-croatia-mang-ca-phe-via-he-viet-nam-den-chau-au-4959641.html",
+      "summary": "5h sáng cuối tuần, Matko Kmezic, 27 tuổi, dậy sớm chuẩn bị phin, cốc, sữa đặc, đá, rồi đẩy chiếc xe bán cà phê dạo ra công viên Oosterpark ở Amsterdam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.449174+07:00"
+    },
+    {
+      "id": "ec3971183e8b4ceb3cd9b78108a82863",
+      "title": "Ông lớn thép miền Nam muốn tái cấu trúc khi lỗ lũy kế hơn 3.000 tỷ",
+      "link": "https://vnexpress.net/pomina-dai-gia-thep-mien-nam-muon-tai-cau-truc-khi-lo-luy-ke-hon-3-000-ty-4961619.html",
+      "summary": "Lỗ 14 quý liên tiếp khiến lợi nhuận lũy kế của Thép Pomina âm hơn 3.000 tỷ đồng, công ty muốn họp bất thường bàn kế hoạch tái cấu trúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.449305+07:00"
+    },
+    {
+      "id": "37e526707e4b0ce9ff036409ea00e262",
+      "title": "Hãng xe điện Mỹ làm theo Tesla, trả CEO 4,6 tỷ USD",
+      "link": "https://vnexpress.net/hang-xe-dien-my-lam-theo-tesla-tra-ceo-4-6-ty-usd-4961472.html",
+      "summary": "Nhà sản xuất xe điện Rivian trao cho CEO RJ Scaringe gói thù lao trị giá tới 4,6 tỷ USD trong vòng 10 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:38.449438+07:00"
+    },
+    {
+      "id": "ec3971183e8b4ceb3cd9b78108a82863",
+      "title": "Ông lớn thép miền Nam muốn tái cấu trúc khi lỗ lũy kế hơn 3.000 tỷ",
+      "link": "https://vnexpress.net/pomina-dai-gia-thep-mien-nam-muon-tai-cau-truc-khi-lo-luy-ke-hon-3-000-ty-4961619.html",
+      "summary": "Lỗ 14 quý liên tiếp khiến lợi nhuận lũy kế của Thép Pomina âm hơn 3.000 tỷ đồng, công ty muốn họp bất thường bàn kế hoạch tái cấu trúc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-08T23:00:00+07:00",
+      "fetched": "2025-11-09T08:21:48.426198+07:00"
+    },
+    {
+      "id": "188f42ebc93a743b62678c2398960db1",
+      "title": "Bản di chúc oái oăm của triệu phú lập dị",
+      "link": "https://vnexpress.net/ban-di-chuc-oai-oam-cua-trieu-phu-lap-di-4961597.html",
+      "summary": "Triệu phú Millar qua đời, để lại di chúc trao thưởng hàng triệu USD cho người phụ nữ sinh nhiều con nhất Toronto, châm ngòi cho 'cuộc đua sinh đẻ' 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:51:00+07:00",
+      "fetched": "2025-11-09T08:21:38.449587+07:00"
+    },
+    {
+      "id": "15e38f17ddfd9f39a5420d5f042185ef",
+      "title": "Chelsea lên nhì bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-len-nhi-bang-ngoai-hang-anh-4961748.html",
+      "summary": "Tiền đạo Alejandro Garnacho góp hai kiến tạo, giúp Chelsea thắng Wolves 3-0 ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:40:08+07:00",
+      "fetched": "2025-11-09T08:21:38.449718+07:00"
+    },
+    {
+      "id": "15e38f17ddfd9f39a5420d5f042185ef",
+      "title": "Chelsea lên nhì bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-len-nhi-bang-ngoai-hang-anh-4961748.html",
+      "summary": "Tiền đạo Alejandro Garnacho góp hai kiến tạo, giúp Chelsea thắng Wolves 3-0 ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T22:40:08+07:00",
+      "fetched": "2025-11-09T08:21:51.365879+07:00"
+    },
+    {
+      "id": "1366c8e700a8a9bfdba0aac177d53530",
+      "title": "Djokovic vô địch tại Hy Lạp, bỏ ATP Finals",
+      "link": "https://vnexpress.net/djokovic-vo-dich-tai-hy-lap-bo-atp-finals-4961749.html",
+      "summary": "Tay vợt Novak Djokovic giành danh hiệu thứ 101 trong sự nghiệp, khi thắng Lorenzo Musetti 4-6, 6-3, 7-5 ở chung kết ATP 250 Hellenic Championship hôm 8/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:39:53+07:00",
+      "fetched": "2025-11-09T08:21:38.449852+07:00"
+    },
+    {
+      "id": "1366c8e700a8a9bfdba0aac177d53530",
+      "title": "Djokovic vô địch tại Hy Lạp, bỏ ATP Finals",
+      "link": "https://vnexpress.net/djokovic-vo-dich-tai-hy-lap-bo-atp-finals-4961749.html",
+      "summary": "Tay vợt Novak Djokovic giành danh hiệu thứ 101 trong sự nghiệp, khi thắng Lorenzo Musetti 4-6, 6-3, 7-5 ở chung kết ATP 250 Hellenic Championship hôm 8/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T22:39:53+07:00",
+      "fetched": "2025-11-09T08:21:51.366021+07:00"
     },
     {
       "id": "a9132946274d87b1959f240327f0e118",
