@@ -1,6 +1,6 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T10:10:55.783435+07:00",
+  "lastUpdated": "2025-11-09T11:19:38.709220+07:00",
   "articles": [
     {
       "id": "0fc2654555348fa5dfb1f0420014889a",
@@ -283,6 +283,236 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T08:21:44.825403+07:00"
     },
     {
+      "id": "a1a61692a87bea8c297ecf5a1c97e211",
+      "title": "Nhận định Man City vs Liverpool, 23 giờ 30 ngày 9.11: Pep Guardiola trên bờ vực thẳm",
+      "link": "https://thanhnien.vn/nhan-dinh-man-city-vs-liverpool-23-gio-30-ngay-911-pep-guardiola-tren-bo-vuc-tham-185251107140349359.htm",
+      "summary": "Nhận định Man City vs Liverpool, 23 giờ 30 ngày 9.11 - Cuộc đối đầu định mệnh tại Etihad khi Pep Guardiola đối mặt chuỗi 4 trận thua liên tiếp, trong khi Liverpool đang bay cao với phong độ đỉnh cao. Phân tích chiến thuật, đội hình và dự đoán kết quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:10:00+07:00",
+      "fetched": "2025-11-09T11:19:29.252372+07:00"
+    },
+    {
+      "id": "f5f7fc77a815929f818d94779705a3be",
+      "title": "Nhà trai vượt 600 km, lội đường đất mang sính lễ hỏi cưới cô dâu",
+      "link": "https://thanhnien.vn/nha-trai-vuot-600-km-loi-duong-dat-mang-sinh-le-hoi-cuoi-co-dau-18525110700265344.htm",
+      "summary": "Dù quãng đường xa xôi, đoàn nhà trai vẫn vượt hơn 600 km, lội bộ 2 km đường đất để mang sính lễ sang nhà gái. Nhiều người cảm động với tấm chân tình còn vợ chồng trẻ xem đó là động lực vun vén mái ấm nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:10:00+07:00",
+      "fetched": "2025-11-09T11:19:29.252540+07:00"
+    },
+    {
+      "id": "516a2f6c92e19b71fe2a22b796af5a37",
+      "title": "TikTok Shop đối mặt 'bão' sản phẩm giả do AI",
+      "link": "https://vnexpress.net/tiktok-shop-doi-mat-bao-san-pham-gia-do-ai-4961773.html",
+      "summary": "Kẻ lừa đảo dùng công cụ AI tạo sinh để tạo thương hiệu và sản phẩm giả, khiến TikTok phải tăng cường kiểm duyệt bằng cả AI lẫn con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-09T04:07:28+07:00",
+      "fetched": "2025-11-09T11:19:37.619328+07:00"
+    },
+    {
+      "id": "88017247698113b3deba6ed7725d3a98",
+      "title": "Giải quyết vấn đề tiền lương, thu nhập của cán bộ, công chức",
+      "link": "https://thanhnien.vn/giai-quyet-van-de-tien-luong-thu-nhap-cua-can-bo-cong-chuc-185251109104042266.htm",
+      "summary": "Ông Ngô Sách Thực, nguyên Phó chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đề nghị văn kiện Đại hội XIV của Đảng phải đề cập, giải quyết vấn đề tiền lương, thu nhập của cán bộ công chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:05:00+07:00",
+      "fetched": "2025-11-09T11:19:29.252707+07:00"
+    },
+    {
+      "id": "8dace6ead3ac6595661569993e98b0d9",
+      "title": "Vượt qua ung thư vú sau ghép thận",
+      "link": "https://vnexpress.net/vuot-qua-ung-thu-vu-sau-ghep-than-4961700.html",
+      "summary": "Người phụ nữ 40 tuổi từng ghép thận đã vượt qua ung thư vú nhờ phát hiện sớm và phẫu thuật nội soi, mở ra hy vọng cho người có nhiều bệnh nền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.641371+07:00"
+    },
+    {
+      "id": "ee70d248561e2cc8189b9a8924da00f7",
+      "title": "MComplex khai trương trung tâm nội thất 12.000 m2 tại Royal City",
+      "link": "https://vnexpress.net/mcomplex-khai-truong-trung-tam-noi-that-12-000-m2-tai-royal-city-4961791.html",
+      "summary": "Trung tâm nội thất 12.000 m2 của MComplex khai trương ngày 7/11 tại Vincom Mega Mall Royal City, Hà Nội, quy tụ hơn 40 gian hàng cùng gần 200 thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.641562+07:00"
+    },
+    {
+      "id": "7bed8f6c164d76d458b0f6924fcb87f6",
+      "title": "Tại sao bệnh thận gây tăng cân?",
+      "link": "https://vnexpress.net/tai-sao-benh-than-gay-tang-can-4961582.html",
+      "summary": "Bệnh thận có thể khiến một lượng lớn chất lỏng, chất điện giải và các khoáng chất tích tụ trong cơ thể không đào thải được, dẫn đến tăng cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.641736+07:00"
+    },
+    {
+      "id": "526ff869b8e14a818ffb6268fe21f3c4",
+      "title": "Xem nhanh 12h: Philippines cảnh báo đỏ bão Fung Wong | Lời kể nhai cá sống cầm hơi trên biển Lý Sơn",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-philippines-canh-bao-do-bao-fung-wong-loi-ke-nhai-ca-song-cam-hoi-tren-bien-ly-son-185251109105354822.htm",
+      "summary": "Bão Fung Wong; Vụ mất tích trên biển Lý Sơn trong bão; Thủ tục sang tên đổi chủ khi bán xe… là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 9.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:00:00+07:00",
+      "fetched": "2025-11-09T11:19:29.252863+07:00"
+    },
+    {
+      "id": "2b210c49527e24d769a69f274e470bcd",
+      "title": "Ngành Y tế Gia Lai kiểm soát hiệu quả dịch bệnh",
+      "link": "https://thanhnien.vn/nganh-y-te-gia-lai-kiem-soat-hieu-qua-dich-benh-18525110911044293.htm",
+      "summary": "Nhờ triển khai đồng bộ nhiều giải pháp trọng tâm, công tác phòng, chống dịch bệnh trên địa bàn tỉnh Gia Lai thời gian qua đã đạt nhiều kết quả tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:52:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253016+07:00"
+    },
+    {
+      "id": "2379552986069a66120b484aa2735b9d",
+      "title": "Sao Việt 'đổ bộ' world tour của G-Dragon tại Hà Nội",
+      "link": "https://thanhnien.vn/sao-viet-do-bo-world-tour-cua-g-dragon-tai-ha-noi-185251109102943646.htm",
+      "summary": "'G-Dragon 2025 World Tour [Übermensch] in Hanoi' không chỉ là sự kiện âm nhạc mà còn trở thành tâm điểm hội tụ của dàn nghệ sĩ Việt Nam. Đêm diễn đầu tiên 8.11 đã chứng kiến sự 'đổ bộ' của nhiều gương mặt nổi tiếng, thể hiện tình yêu và sự hâm mộ cuồng nhiệt dành cho 'ông hoàng Kpop'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:48:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253190+07:00"
+    },
+    {
+      "id": "857e7278aff86ef4c5c7b80f0aadf7c5",
+      "title": "Meta thu về 16 tỉ USD mỗi năm từ quảng cáo lừa đảo",
+      "link": "https://thanhnien.vn/meta-thu-ve-16-ti-usd-moi-nam-tu-quang-cao-lua-dao-185251109094250731.htm",
+      "summary": "Meta ước tính quảng cáo lừa đảo có thể chiếm tới 10% doanh thu công ty vào năm ngoái, tương đương khoảng 16 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:46:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253344+07:00"
+    },
+    {
+      "id": "bb2cb00b704d9098c259433245b377b6",
+      "title": "Thùy Linh hụt chức vô địch giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-hut-chuc-vo-dich-giai-cau-long-han-quoc-4961793.html",
+      "summary": "Đại diện Việt Nam Nguyễn Thùy Linh thua hạt giống số một Chiu Pin-chian 0-2 trong trận chung kết giải Korea Masters 2025, sáng 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:41:46+07:00",
+      "fetched": "2025-11-09T11:19:25.641897+07:00"
+    },
+    {
+      "id": "bb2cb00b704d9098c259433245b377b6",
+      "title": "Thùy Linh hụt chức vô địch giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-hut-chuc-vo-dich-giai-cau-long-han-quoc-4961793.html",
+      "summary": "Đại diện Việt Nam Nguyễn Thùy Linh thua hạt giống số một Chiu Pin-chian 0-2 trong trận chung kết giải Korea Masters 2025, sáng 9/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:41:46+07:00",
+      "fetched": "2025-11-09T11:19:38.700725+07:00"
+    },
+    {
+      "id": "0905f6b1462f1a95a699b8f8872267a8",
+      "title": "Mất điện sau bão: Chuyện phát 'tem phiếu' của bà Sáu khiến cả xóm ấm lòng",
+      "link": "https://thanhnien.vn/mat-dien-sau-bao-chuyen-phat-tem-phieu-cua-ba-sau-khien-ca-xom-am-long-185251108183226577.htm",
+      "summary": "Sau bão Kalmaegi, khu vực phía đông Đắk Lắk mất điện diện rộng, người dân đổ xô đi mua đá lạnh để bảo quản thực phẩm. Bà chủ tiệm tạp hóa nghĩ ra cách phát 'tem phiếu' để ai cũng có phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:39:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253506+07:00"
+    },
+    {
+      "id": "89cd060b1640c52d6a72ab4773c3aa6c",
+      "title": "'Thôn Anh Đào' - tuổi thơ giữa làn sóng đô thị hóa",
+      "link": "https://vnexpress.net/thon-anh-dao-tuoi-tho-giua-lan-song-do-thi-hoa-4961785.html",
+      "summary": "Tiểu thuyết \"Thôn Anh Đào\" của Tào Văn Hiên miêu tả cuộc sống biến động của trẻ em vùng quê nghèo trong thời kỳ đổi mới ở Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:38:54+07:00",
+      "fetched": "2025-11-09T11:19:25.642068+07:00"
+    },
+    {
+      "id": "2c132de11b23fdd7b6f2fa85d8c70078",
+      "title": "Cán bộ tài năng được hưởng phụ cấp tăng thêm 300% lương hàng tháng",
+      "link": "https://thanhnien.vn/can-bo-tai-nang-duoc-huong-phu-cap-tang-them-300-luong-hang-thang-185251109095509006.htm",
+      "summary": "Nhà khoa học trẻ, chuyên gia, nhà khoa học đầu ngành, quản lý doanh nghiệp tài năng được thu hút vào làm công chức, viên chức được hưởng phụ cấp tăng thêm tối thiểu 300% mức lương hàng tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:30:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253659+07:00"
+    },
+    {
+      "id": "8a340bc68de331c6032dd084eb598738",
+      "title": "Messi ghi cú đúp siêu phẩm đưa Inter Miami vào bán kết MLS Cup, Ronaldo thì sao?",
+      "link": "https://thanhnien.vn/messi-ghi-cu-dup-sieu-pham-dua-inter-miami-vao-ban-ket-mls-cup-ronaldo-thi-sao-185251109102721014.htm",
+      "summary": "Sáng 9.11 (giờ Việt Nam), Messi ghi cú đúp siêu phẩm và góp 1 kiến tạo, giúp Inter Miami đánh bại thuyết phục Nashville SC với tỷ số 4-0 để vào bán kết MLS Cup. Trong khi Ronaldo lại ghi bàn từ chấm 11 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:29:00+07:00",
+      "fetched": "2025-11-09T11:19:29.253810+07:00"
+    },
+    {
+      "id": "e4eaa8a2489d0ff31560bd3f77455be5",
+      "title": "Messi lập cú đúp, đưa Inter Miami vào bán kết MLS Cup",
+      "link": "https://vnexpress.net/messi-lap-cu-dup-dua-inter-miami-vao-ban-ket-mls-cup-4961777.html",
+      "summary": "Trong trận đấu cuối cùng của vòng một MLS Cup tối 8/11, Lionel Messi ghi hai bàn giúp Inter Miami đè bẹp Nashville 4-0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:28:49+07:00",
+      "fetched": "2025-11-09T11:19:25.642252+07:00"
+    },
+    {
+      "id": "e4eaa8a2489d0ff31560bd3f77455be5",
+      "title": "Messi lập cú đúp, đưa Inter Miami vào bán kết MLS Cup",
+      "link": "https://vnexpress.net/messi-lap-cu-dup-dua-inter-miami-vao-ban-ket-mls-cup-4961777.html",
+      "summary": "Trong trận đấu cuối cùng của vòng một MLS Cup tối 8/11, Lionel Messi ghi hai bàn giúp Inter Miami đè bẹp Nashville 4-0.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:28:49+07:00",
+      "fetched": "2025-11-09T11:19:38.701040+07:00"
+    },
+    {
+      "id": "2a35ce55aa1d724929708e1043a52b4d",
+      "title": "Không khí kỳ thi Hương cuối thế kỷ 19",
+      "link": "https://vnexpress.net/khong-khi-ky-thi-huong-cuoi-the-ky-19-4961307.html",
+      "summary": "Cảnh náo nhiệt trong lễ xướng danh, ban giám khảo khoa thi Hương năm 1897 chụp lưu niệm được ghi lại qua ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:22:27+07:00",
+      "fetched": "2025-11-09T11:19:25.642415+07:00"
+    },
+    {
+      "id": "b6d1379fb6edd3087d67b9ed0e43f37f",
+      "title": "Arteta: 'Tôi thấy có cơn đau bụng vì không giữ sạch lưới'",
+      "link": "https://vnexpress.net/arteta-toi-thay-co-con-dau-bung-vi-khong-giu-sach-luoi-4961786.html",
+      "summary": "HLV Mikel Arteta thất vọng khi Arsenal hòa Sunderland 2-2 ở vòng 11 Ngoại hạng Anh và đứt mạch 8 trận giữ sạch lưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:21:41+07:00",
+      "fetched": "2025-11-09T11:19:25.642569+07:00"
+    },
+    {
+      "id": "b6d1379fb6edd3087d67b9ed0e43f37f",
+      "title": "Arteta: 'Tôi thấy có cơn đau bụng vì không giữ sạch lưới'",
+      "link": "https://vnexpress.net/arteta-toi-thay-co-con-dau-bung-vi-khong-giu-sach-luoi-4961786.html",
+      "summary": "HLV Mikel Arteta thất vọng khi Arsenal hòa Sunderland 2-2 ở vòng 11 Ngoại hạng Anh và đứt mạch 8 trận giữ sạch lưới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:21:41+07:00",
+      "fetched": "2025-11-09T11:19:38.702317+07:00"
+    },
+    {
+      "id": "5be16f323e0c190eec07ee6e9f3f3aac",
+      "title": "Huyền thoại bóng đá Figo và Kaka lần đầu so tài tại TP HCM",
+      "link": "https://vnexpress.net/huyen-thoai-bong-da-figo-va-kaka-lan-dau-so-tai-tai-tp-hcm-4961744.html",
+      "summary": "Hai Quả bóng vàng Ricardo Kaka và Luis Figo lần đầu giao lưu và tranh tài cùng các cựu danh thủ Việt Nam, trong sự kiện thể thao diễn ra từ 7 đến 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:14:10+07:00",
+      "fetched": "2025-11-09T11:19:25.642721+07:00"
+    },
+    {
       "id": "f92600b7fca602b0828165a736da35d7",
       "title": "Nguyễn Thùy Linh thua chung kết, chỉ giành á quân đơn nữ giải cầu lông Hàn Quốc Masters 2025",
       "link": "https://thanhnien.vn/nguyen-thuy-linh-thua-chung-ket-chi-gianh-a-quan-don-nu-giai-cau-long-han-quoc-masters-2025-185251109094911207.htm",
@@ -311,6 +541,76 @@ window.newsData_2025_11_09 = {
       "category": "Tổng hợp",
       "published": "2025-11-09T03:00:00+07:00",
       "fetched": "2025-11-09T10:10:44.945376+07:00"
+    },
+    {
+      "id": "778b0eb7950e536696f7929cd68269a8",
+      "title": "Người Hàn Quốc phát cuồng vì các loại bánh",
+      "link": "https://vnexpress.net/nguoi-han-quoc-phat-cuong-vi-cac-loai-banh-4961559.html",
+      "summary": "Bánh mì, bánh ngọt ở Hàn Quốc không chỉ là món ăn, mà còn là liều thuốc chữa lành tâm hồn, các cửa hàng trở thành điểm du lịch phải đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.642877+07:00"
+    },
+    {
+      "id": "05ff4f430ae40b9f4d0f385575b38a72",
+      "title": "Cuộc chiến giành vàng trên vùng đất máu Sudan",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-vang-tren-vung-dat-mau-sudan-4961237.html",
+      "summary": "Sudan bị cuốn vào vòng xoáy của cuộc nội chiến tàn khốc, khi các phe phái tranh giành quyền lực và nguồn khoáng sản trời cho của đất nước: vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.643037+07:00"
+    },
+    {
+      "id": "6705e5b74425959ba2631712d9dd55de",
+      "title": "Cái gì có nhiều răng nhưng không cắn được?",
+      "link": "https://vnexpress.net/cai-gi-co-nhieu-rang-nhung-khong-can-duoc-4960620.html",
+      "summary": "Một câu đố tưởng chừng đơn giản nhưng khiến không ít người phải bật cười vì sự thông minh và dí dỏm trong cách chơi chữ của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.643212+07:00"
+    },
+    {
+      "id": "679c328ce73dce8967e87f4b0b30ba3f",
+      "title": "Phố ẩm thực Ocean City chật kín người đổ về xem concert G-DRAGON",
+      "link": "https://vnexpress.net/pho-am-thuc-ocean-city-chat-kin-nguoi-do-ve-xem-concert-g-dragon-4961747.html",
+      "summary": "Chiều và tối 8/11, khu vực các quán ăn, khu giải trí và nghỉ ngơi tại Ocean City đông nghẹt khi hàng chục nghìn fan G-DRAGON đổ về trước giờ diễn concert.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.643371+07:00"
+    },
+    {
+      "id": "4027a6f373a1fbc5544c1b71fc0af89c",
+      "title": "Vì sao hay mệt, buồn ngủ sau ăn trưa?",
+      "link": "https://vnexpress.net/vi-sao-hay-met-buon-ngu-sau-an-trua-4961638.html",
+      "summary": "Tình trạng mệt mỏi, buồn ngủ sau bữa trưa có thể liên quan đến tình trạng hạ huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:25.643529+07:00"
+    },
+    {
+      "id": "05ff4f430ae40b9f4d0f385575b38a72",
+      "title": "Cuộc chiến giành vàng trên vùng đất máu Sudan",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-vang-tren-vung-dat-mau-sudan-4961237.html",
+      "summary": "Sudan bị cuốn vào vòng xoáy của cuộc nội chiến tàn khốc, khi các phe phái tranh giành quyền lực và nguồn khoáng sản trời cho của đất nước: vàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:19:32.378267+07:00"
+    },
+    {
+      "id": "80e8779a1a6e99fc8721a730d1f240df",
+      "title": "Miền Bắc nồm ẩm bất thường",
+      "link": "https://vnexpress.net/mien-bac-nom-am-bat-thuong-4961772.html",
+      "summary": "Miền Bắc lập đông ngày 7/11, nhưng đã nồm ẩm, độ ẩm không khí trên 80% khiến sàn và tường nhà \"đổ mồ hôi\", quần áo phơi không khô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T02:58:35+07:00",
+      "fetched": "2025-11-09T11:19:25.643682+07:00"
     },
     {
       "id": "f7038db309ef2295243e63f0ff39e813",
