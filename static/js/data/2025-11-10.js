@@ -1,7 +1,157 @@
 window.newsData_2025_11_10 = {
   "date": "2025-11-10",
-  "lastUpdated": "2025-11-10T08:21:49.530031+07:00",
+  "lastUpdated": "2025-11-10T10:17:01.677861+07:00",
   "articles": [
+    {
+      "id": "61279e888b4b900b6ef5342b38746926",
+      "title": "Thưởng thức cuộc sống tại biệt thự rừng đầu tiên của Ecopark",
+      "link": "https://tuoitre.vn/thuong-thuc-cuoc-song-tai-biet-thu-rung-dau-tien-cua-ecopark-20251110080301358.htm",
+      "summary": "Biệt thự rừng tại Retreat Forest không chỉ giúp cư dân thưởng thức cuộc sống giữa tiện ích dưới tán rừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443593+07:00",
+      "fetched": "2025-11-10T10:16:54.443691+07:00"
+    },
+    {
+      "id": "3c1d54208dbc50779a107038cdcb945e",
+      "title": "Góp ý văn kiện Đại hội Đảng XIV: Xây nền vững cho một Việt Nam xanh và số",
+      "link": "https://tuoitre.vn/gop-y-van-kien-dai-hoi-dang-xiv-xay-nen-vung-cho-mot-viet-nam-xanh-va-so-20251107202459657.htm",
+      "summary": "Dự thảo Báo cáo Chính trị trình Đại hội XIV được xem như 'bản đồ tương lai' định hình hướng phát triển đất nước giữa kỷ nguyên kinh tế xanh và số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443474+07:00",
+      "fetched": "2025-11-10T10:16:54.443581+07:00"
+    },
+    {
+      "id": "73173fe6c9ce4da492ce37209a0677ef",
+      "title": "Mấy nẻo cháo lòng",
+      "link": "https://tuoitre.vn/may-neo-chao-long-20251103093424289.htm",
+      "summary": "Cháo lòng là món các chị, các má ở miền Tây Nam Bộ “rành sáu câu” từ đám này đám nọ quanh năm suốt tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443370+07:00",
+      "fetched": "2025-11-10T10:16:54.443465+07:00"
+    },
+    {
+      "id": "e2bec79069d878fd015c18c89e5195da",
+      "title": "Tung 78 cú sút ghi 16 bàn thắng, Morocco có chiến thắng đậm nhất lịch sử World Cup",
+      "link": "https://tuoitre.vn/tung-78-cu-sut-ghi-16-ban-thang-morocco-co-chien-thang-dam-nhat-lich-su-world-cup-20251110082803707.htm",
+      "summary": "U17 Morocco đã có chiến thắng lớn nhất trong lịch sử World Cup ở mọi cấp độ, sau khi đánh bại U17 New Caledonia với tỉ số 16-0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443266+07:00",
+      "fetched": "2025-11-10T10:16:54.443361+07:00"
+    },
+    {
+      "id": "1b2b9166e4933881a2c9f4cd88ef46db",
+      "title": "Cao tốc Biên Hòa - Vũng Tàu chậm trễ: Chủ tịch Đồng Nai nêu tên người đứng đầu Ban Quản lý dự án",
+      "link": "https://tuoitre.vn/cao-toc-bien-hoa-vung-tau-cham-tre-chu-tich-dong-nai-neu-ten-nguoi-dung-dau-ban-quan-ly-du-an-20251110082745236.htm",
+      "summary": "Cao tốc Biên Hòa - Vũng Tàu có nguy cơ không hoàn thành theo chỉ đạo, lãnh đạo Đồng Nai nêu đích danh người đứng đầu Ban Quản lý dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443160+07:00",
+      "fetched": "2025-11-10T10:16:54.443257+07:00"
+    },
+    {
+      "id": "a36deb19e63c876e7bc05a4e86944ae7",
+      "title": "Ba người vượt qua bão tố sống sót thần kỳ, nhờ đâu?",
+      "link": "https://tuoitre.vn/ba-nguoi-vuot-qua-bao-to-song-sot-than-ky-nho-dau-20251110075931334.htm",
+      "summary": "Ba người dân Lý Sơn trôi dạt tận 100km, xuyên bão Kalmaegi. Sau hai ngày lênh đênh, họ đã sống sót một cách thần kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.443055+07:00",
+      "fetched": "2025-11-10T10:16:54.443151+07:00"
+    },
+    {
+      "id": "c622853d29a66b568f5cb8539f7046eb",
+      "title": "Nguyên tắc 'hai không' giữ cho bánh mì Việt an toàn",
+      "link": "https://tuoitre.vn/nguyen-tac-hai-khong-giu-cho-banh-mi-viet-an-toan-20251109235234737.htm",
+      "summary": "Người kinh doanh buôn bán cần giữ nguyên tắc hai không để không xảy ra các sự cố về ngộ độc thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442949+07:00",
+      "fetched": "2025-11-10T10:16:54.443046+07:00"
+    },
+    {
+      "id": "50a62e2d484a88aa994d03b036cf8a57",
+      "title": "Thái Lan bắt 4 trùm lừa đảo Trung Quốc chạy trốn từ Campuchia",
+      "link": "https://tuoitre.vn/thai-lan-bat-4-trum-lua-dao-trung-quoc-chay-tron-tu-campuchia-20251110072939132.htm",
+      "summary": "4 người Trung Quốc đã thiết lập mạng lưới lừa đảo tại một căn hộ cao cấp ở Thái Lan, sau khi trốn khỏi Campuchia để tránh bị truy quét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442843+07:00",
+      "fetched": "2025-11-10T10:16:54.442940+07:00"
+    },
+    {
+      "id": "76c23ddd849f290ba6af2bce01823f59",
+      "title": "'Tôi vào coi con nhận học bổng được không?'",
+      "link": "https://tuoitre.vn/toi-vao-coi-con-nhan-hoc-bong-duoc-khong-20251110001226921.htm",
+      "summary": "Câu hỏi thiệt thà này của ông Y Kjoh Awin Bkrông - cha nữ sinh viên H Trâm Long Ding (Trường đại học Công nghiệp TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442734+07:00",
+      "fetched": "2025-11-10T10:16:54.442834+07:00"
+    },
+    {
+      "id": "6dc9a6c122b9b3687fd8abcca8f25d6a",
+      "title": "Tìm kiếm mô hình đào tạo lao động kỹ thuật có trình độ",
+      "link": "https://tuoitre.vn/tim-kiem-mo-hinh-dao-tao-lao-dong-ky-thuat-co-trinh-do-20251110084627927.htm",
+      "summary": "Báo Tuổi Trẻ tổ chức tọa đàm 'Đào tạo nghề chất lượng cao - Đột phá nguồn nhân lực giai đoạn mới' ngày 11-11 tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442611+07:00",
+      "fetched": "2025-11-10T10:16:54.442724+07:00"
+    },
+    {
+      "id": "40ba807300625888ba43d27fe11ce8e4",
+      "title": "Chủ tịch Lý Sơn: Sống sót sau hơn 48 giờ trôi trên biển là kỳ tích",
+      "link": "https://tuoitre.vn/chu-tich-ly-son-song-sot-sau-hon-48-gio-troi-tren-bien-la-ky-tich-20251110082202923.htm",
+      "summary": "Hai 'người hùng' Lý Sơn đã dũng cảm quên mình, bơi thúng lao ra sóng dữ cứu người, bị trôi dạt trên biển hơn 2 ngày, được tặng giấy khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442488+07:00",
+      "fetched": "2025-11-10T10:16:54.442601+07:00"
+    },
+    {
+      "id": "131cd24d0e07dd575440b03ab38364da",
+      "title": "Truyền thông Mỹ: Thượng viện đạt thỏa thuận ngân sách giúp mở cửa chính phủ",
+      "link": "https://tuoitre.vn/truyen-thong-my-thuong-vien-dat-thoa-thuan-ngan-sach-giup-mo-cua-chinh-phu-20251110091346549.htm",
+      "summary": "Các thượng nghị sĩ Mỹ đạt được thỏa thuận lưỡng đảng nhằm khôi phục nguồn tài trợ liên bang và chấm dứt tình trạng đóng cửa chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442378+07:00",
+      "fetched": "2025-11-10T10:16:54.442479+07:00"
+    },
+    {
+      "id": "ca2a95c67ea5c2639e198423799c015c",
+      "title": "Cá voi sát thủ dùng 'chiêu thôi miên' hạ gục cá mập trắng",
+      "link": "https://tuoitre.vn/ca-voi-sat-thu-dung-chieu-thoi-mien-ha-guc-ca-map-trang-20251104140117971.htm",
+      "summary": "Nhóm cá voi sát thủ ở Mexico khiến giới khoa học kinh ngạc khi dùng kỹ thuật lật ngửa cá mập trắng con, khiến con mồi rơi vào trạng thái bất động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442264+07:00",
+      "fetched": "2025-11-10T10:16:54.442368+07:00"
+    },
+    {
+      "id": "2db71e975e66cdb672b2d4556b05a105",
+      "title": "U22 Việt Nam chia 3 nhóm đi Trung Quốc tập huấn trước SEA Games 33",
+      "link": "https://tuoitre.vn/u22-viet-nam-chia-3-nhom-di-trung-quoc-tap-huan-truoc-sea-games-33-20251110090706178.htm",
+      "summary": "Sáng sớm 10-11, đội tuyển U22 Việt Nam bắt đầu khởi hành đi Trung Quốc với 12 cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.442141+07:00",
+      "fetched": "2025-11-10T10:16:54.442253+07:00"
+    },
+    {
+      "id": "6496a78f5649c59097aca70a2d5a248f",
+      "title": "Cần xử nền tảng mạng xã hội chứa nội dung 'bẩn'",
+      "link": "https://tuoitre.vn/can-xu-nen-tang-mang-xa-hoi-chua-noi-dung-ban-20251110073847871.htm",
+      "summary": "Các nền tảng không thể \"vô can\" khi để tràn lan nội dung nhảm, độc hại hoặc vi phạm pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T10:16:54.441931+07:00",
+      "fetched": "2025-11-10T10:16:54.442128+07:00"
+    },
     {
       "id": "aed2584f4b24398c5e36fe938490c8af",
       "title": "Man City đè bẹp Liverpool trong trận cầm quân thứ 1.000 của HLV Guardiola",
@@ -131,6 +281,336 @@ window.newsData_2025_11_10 = {
       "category": "Tổng hợp",
       "published": "2025-11-10T08:21:42.503669+07:00",
       "fetched": "2025-11-10T08:21:42.503882+07:00"
+    },
+    {
+      "id": "87842a534df283dbf4cfdad0adb66b54",
+      "title": "Phép màu cô gái không có não vẫn sống đến 20 tuổi",
+      "link": "https://thanhnien.vn/phep-mau-co-gai-khong-co-nao-van-song-den-20-tuoi-18525111009411814.htm",
+      "summary": "Dù các bác sĩ cho rằng Alex Simpson không sống quá 4 tuổi vì dị tật không có não, cô đã sống sót kỳ diệu và vừa mừng sinh nhật lần thứ 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:12:00+07:00",
+      "fetched": "2025-11-10T10:16:53.658649+07:00"
+    },
+    {
+      "id": "88e14d5a4904f3a21b708fd773d962f0",
+      "title": "Ông Nguyễn Văn Quảng được Quốc hội bầu làm Chánh án TAND tối cao",
+      "link": "https://thanhnien.vn/ong-nguyen-van-quang-duoc-quoc-hoi-bau-lam-chanh-an-tand-toi-cao-18525110922164893.htm",
+      "summary": "Quốc hội thông qua nghị quyết bầu ông Nguyễn Văn Quảng làm Chánh án TAND tối cao, tại kỳ họp thứ 10 Quốc hội khóa XV, sáng 10.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:10:00+07:00",
+      "fetched": "2025-11-10T10:16:53.658797+07:00"
+    },
+    {
+      "id": "77b9164819709eb00fa047ad7326eb7e",
+      "title": "Bệnh viện Từ Dũ cơ sở 2 hoạt động ở Cần Giờ",
+      "link": "https://vnexpress.net/benh-vien-tu-du-co-so-2-hoat-dong-o-can-gio-4962035.html",
+      "summary": "Bệnh viện Từ Dũ cơ sở 2, quy mô 300 giường, chính thức hoạt động từ ngày 10/11 tại Cần Giờ, giúp người dân vùng biển và du khách tiếp cận dịch vụ y tế chất lượng cao ngay tại địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:07:19+07:00",
+      "fetched": "2025-11-10T10:16:50.566082+07:00"
+    },
+    {
+      "id": "1b62adf315b10dbbe5c410315930ad36",
+      "title": "Thách thức lớn cho các nhà sản xuất smartphone",
+      "link": "https://thanhnien.vn/thach-thuc-lon-cho-cac-nha-san-xuat-smartphone-185251105224746247.htm",
+      "summary": "Một số nhà sản xuất smartphone có thể sẽ tăng giá sản phẩm mới để đối phó với tình trạng thiếu chip - một vấn đề đang gia tăng do sự bùng nổ của trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:07:00+07:00",
+      "fetched": "2025-11-10T10:16:53.658930+07:00"
+    },
+    {
+      "id": "c26cb1cbd853156852431123e5f37119",
+      "title": "Tiểu sử tân Chánh án TAND Tối cao Nguyễn Văn Quảng",
+      "link": "https://vnexpress.net/tieu-su-tan-chanh-an-tand-toi-cao-nguyen-van-quang-4962046.html",
+      "summary": "Ông Nguyễn Văn Quảng từng là Viện trưởng Viện Kiểm sát nhân dân cấp cao tại TP HCM, Bí thư Thành ủy Đà Nẵng và Phó tổng Thanh tra Thường trực Thanh tra Chính phủ trước khi giữ chức Chánh án TAND Tối cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:05:53+07:00",
+      "fetched": "2025-11-10T10:16:50.566239+07:00"
+    },
+    {
+      "id": "852ebcdac6208c56a28ea55efc3e2319",
+      "title": "Ông Nguyễn Văn Quảng giữ chức Chánh án Tòa án nhân dân Tối cao",
+      "link": "https://vnexpress.net/ong-nguyen-van-quang-giu-chuc-chanh-an-toa-an-nhan-dan-toi-cao-4961867.html",
+      "summary": "Ông Nguyễn Văn Quảng, nguyên Bí thư Thành ủy Đà Nẵng, được Quốc hội bầu làm Chánh án Tòa án nhân dân Tối cao, sáng 10/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:04:58+07:00",
+      "fetched": "2025-11-10T10:16:50.566378+07:00"
+    },
+    {
+      "id": "a53392b61eaaf3e0a7ceb0cb06a34a31",
+      "title": "Dùng hóa chất diệt chấy, người phụ nữ bỏng giác mạc",
+      "link": "https://vnexpress.net/dung-hoa-chat-diet-chay-nguoi-phu-nu-bong-giac-mac-4962048.html",
+      "summary": "Người phụ nữ 44 tuổi phải nhập viện cấp cứu vì bỏng kết giác mạc sau khi để dung dịch diệt chấy chảy vào mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:03:29+07:00",
+      "fetched": "2025-11-10T10:16:50.566533+07:00"
+    },
+    {
+      "id": "40606970c11ba26ac595c09e69d0300f",
+      "title": "Cô gái 'gần như không não' sống sót kỳ diệu",
+      "link": "https://vnexpress.net/co-gai-gan-nhu-khong-nao-song-sot-ky-dieu-4962021.html",
+      "summary": "Sinh ra với bộ não chỉ bằng ngón út, Alex Simpson từng được chẩn đoán không thể sống quá 4 tuổi, nhưng cô đã vượt qua và vừa đón sinh nhật tuổi 20.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:03:20+07:00",
+      "fetched": "2025-11-10T10:16:50.566684+07:00"
+    },
+    {
+      "id": "9a4f8b27a0889477bd41a51577391124",
+      "title": "Thông xe kỹ thuật đường Liên Phường nối đại lộ Mai Chí Thọ",
+      "link": "https://vnexpress.net/thong-xe-ky-thuat-duong-lien-phuong-noi-dai-lo-mai-chi-tho-4962055.html",
+      "summary": "Đường Liên Phường thông xe kỹ thuật 660 m cuối cùng sáng 8/11, giúp hoàn thiện toàn tuyến 6,7 km, nối vào Mai Chí Thọ, tăng tính kết nối, thúc đẩy phát triển đô thị khu Đông TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:00:00+07:00",
+      "fetched": "2025-11-10T10:16:50.566818+07:00"
+    },
+    {
+      "id": "f3745e8ad4a76bdf6a093bcf6feb4518",
+      "title": "Vì sao bạn bị nấc cụt thường xuyên?",
+      "link": "https://vnexpress.net/vi-sao-ban-bi-nac-cut-thuong-xuyen-4962024.html",
+      "summary": "Nấc cụt thường xảy ra do ăn uống không đúng cách nhưng một số trường hợp cũng có thể là dấu hiệu cảnh báo bệnh tiêu hóa, thần kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:00:00+07:00",
+      "fetched": "2025-11-10T10:16:50.566947+07:00"
+    },
+    {
+      "id": "b67ea632344903e91cdd44c778f0fddb",
+      "title": "Hơn 300 doanh nghiệp tham gia triển lãm quốc tế ngành gỗ",
+      "link": "https://vnexpress.net/hon-300-doanh-nghiep-tham-gia-trien-lam-quoc-te-nganh-go-4960318.html",
+      "summary": "Triển lãm quốc tế thứ 16 \"Máy móc thiết bị ngành chế biến gỗ tại Việt Nam\" sẽ diễn ra trong 4 ngày (19 - 22/11), tại Trung tâm Hội chợ và Triển lãm Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:00:00+07:00",
+      "fetched": "2025-11-10T10:16:50.567077+07:00"
+    },
+    {
+      "id": "dfd150fae332b3368d608517b10b19a6",
+      "title": "Thưởng thức cuộc sống tại biệt thự rừng lần đầu tiên được Ecopark ra mắt",
+      "link": "https://thanhnien.vn/thuong-thuc-cuoc-song-tai-biet-thu-rung-lan-dau-tien-duoc-ecopark-ra-mat-185251110085911996.htm",
+      "summary": "Đánh dấu bước phát triển mới của Ecopark trong kiến tạo sản phẩm, biệt thự rừng đầu tiên tại miền Nam - Retreat Forest, Eco Retreat - không chỉ giúp cư dân thưởng thức cuộc sống giữa tiện ích dưới tán rừng mà còn mang đến thiết kế độc đáo cho từng biệt thự khi sở hữu tầng trải nghiệm riêng tư, phù h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:00:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659060+07:00"
+    },
+    {
+      "id": "bbb13a38527ae1dc9d55c3c74a93811e",
+      "title": "Biến tấu phong cách độc đáo cùng áo thắt nơ quyến rũ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bien-tau-phong-cach-doc-dao-cung-ao-that-no-quyen-ru-18525110716500152.htm",
+      "summary": "Áo thắt nơ không chỉ là một món đồ thời trang, mà còn là tuyên ngôn của sự nữ tính. Trong thế giới thời trang xoay vần, chiếc nơ nhỏ bé lại giữ một sức hút bền bỉ, mang đến điểm nhấn trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T03:00:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659189+07:00"
+    },
+    {
+      "id": "1b616a565fdaf7bab636916328f8137a",
+      "title": "Công nghệ làm mát đường tàu điện ngầm",
+      "link": "https://vnexpress.net/cong-nghe-lam-mat-duong-tau-dien-ngam-4961936.html",
+      "summary": "Các nhà nghiên cứu Anh đang phát triển công nghệ giúp làm mát đường hầm tàu điện ngầm bằng nguồn nước có sẵn dưới lòng đất để đối phó với điều kiện nhiệt độ ngày càng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:58:45+07:00",
+      "fetched": "2025-11-10T10:16:50.567211+07:00"
+    },
+    {
+      "id": "a3d9c4e9a42014f6ed614c7abfd017d8",
+      "title": "Hai người dân Lý Sơn cứu nạn giữa bão được khen thưởng",
+      "link": "https://vnexpress.net/hai-nguoi-dan-ly-son-cuu-nan-giua-bao-duoc-khen-thuong-4962059.html",
+      "summary": "Ông Phan Duy Quang, Lê Văn Sanh và chủ tàu An Vĩnh Express được chính quyền Lý Sơn khen thưởng vì dũng cảm cứu người trong bão Kalmaegi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:57:35+07:00",
+      "fetched": "2025-11-10T10:16:50.567342+07:00"
+    },
+    {
+      "id": "79fbe85d2800e8bee3260b89863ba5cd",
+      "title": "Nhà thơ ấu của ông Trump được rao bán hơn 2 triệu USD",
+      "link": "https://vnexpress.net/nha-tho-au-cua-ong-trump-duoc-rao-ban-hon-2-trieu-usd-4962003.html",
+      "summary": "Căn nhà nơi Tổng thống Mỹ sống thuở nhỏ đang được rao bán giá 2,3 triệu USD sau nhiều năm bỏ không, ẩm mốc, bị mèo hoang xâm chiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:57:00+07:00",
+      "fetched": "2025-11-10T10:16:50.567470+07:00"
+    },
+    {
+      "id": "79fbe85d2800e8bee3260b89863ba5cd",
+      "title": "Nhà thơ ấu của ông Trump được rao bán hơn 2 triệu USD",
+      "link": "https://vnexpress.net/nha-tho-au-cua-ong-trump-duoc-rao-ban-hon-2-trieu-usd-4962003.html",
+      "summary": "Căn nhà nơi Tổng thống Mỹ sống thuở nhỏ đang được rao bán giá 2,3 triệu USD sau nhiều năm bỏ không, ẩm mốc, bị mèo hoang xâm chiếm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T02:57:00+07:00",
+      "fetched": "2025-11-10T10:16:55.985541+07:00"
+    },
+    {
+      "id": "d5c3c53797d0263e5a22160153fc6036",
+      "title": "Nhà máy xử lý rác Bảo Lộc hoạt động trở lại sau hơn 4 tháng tạm ngưng",
+      "link": "https://thanhnien.vn/nha-may-xu-ly-rac-bao-loc-hoat-dong-tro-lai-sau-hon-4-thang-tam-ngung-185251110091948925.htm",
+      "summary": "Sau thời gian tạm ngưng để khắc phục sự cố kỹ thuật, Nhà máy xử lý rác Bảo Lộc (Lâm Đồng) đã tái khởi động với 2 dây chuyền, công suất 80 tấn/ngày đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:56:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659318+07:00"
+    },
+    {
+      "id": "54cf3a254ed5374374a9d6f15c176eb3",
+      "title": "FIFA nắm bằng chứng, FAM tiếp tục sai lầm: Cầu thủ nhập tịch Malaysia là nạn nhân?",
+      "link": "https://thanhnien.vn/fifa-nam-bang-chung-fam-tiep-tuc-lam-cau-thu-nhap-tich-malaysia-la-nan-nhan-185251110094212787.htm",
+      "summary": "Theo cựu HLV Steve Darby, bóng đá Malaysia vẫn chưa rút ra được bài học sau vụ bê bối dàn xếp tỷ số năm 1994. FAM tiếp tục mắc sai lầm với vụ 7 cầu thủ nhập tịch 'lậu', khiến giờ đây đối mặt án phạt của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:50:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659443+07:00"
+    },
+    {
+      "id": "99ca82580b8c33605923cfe3d8b3963e",
+      "title": "Nước lớn đột ngột đổ về, 5 em nhỏ ở vùng cao Đà Nẵng bị cuốn trôi",
+      "link": "https://thanhnien.vn/nuoc-lon-dot-ngot-do-ve-5-em-nho-o-vung-cao-da-nang-bi-cuon-troi-185251110093246508.htm",
+      "summary": "Trong số 5 em nhỏ bị nước cuốn trôi ở một xã vùng cao Đà Nẵng có 3 em may mắn được cứu sống, 1 em tử vong và 1 em vẫn còn mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:50:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659579+07:00"
+    },
+    {
+      "id": "83d33b79fdb628c26ebc315b31877e12",
+      "title": "Trên đường đi làm về, nam thanh niên gặp tai nạn giao thông tử vong",
+      "link": "https://thanhnien.vn/tren-duong-di-lam-ve-nam-thanh-nien-gap-tai-nan-giao-thong-tu-vong-185251110090851989.htm",
+      "summary": "Một vụ tai nạn giao thông xảy ra trên đường Âu Cơ (TP.HCM), khiến 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:50:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659704+07:00"
+    },
+    {
+      "id": "56845c53b91668384c57bb4c6af69651",
+      "title": "Windows 11 sửa lỗi 'lệnh tắt máy không thực thi'",
+      "link": "https://thanhnien.vn/windows-11-sua-loi-lenh-tat-may-khong-thuc-thi-185251105063737528.htm",
+      "summary": "\"Update and shut down\" là một tùy chọn từng khiến không ít người dùng Windows 11 cảm thấy bực bội khi máy không tắt mà là khởi động lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:50:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659835+07:00"
+    },
+    {
+      "id": "30e286c35ba7a4211a14cae0352bacf9",
+      "title": "Phần lớn người mua xe bán tải để sử dụng như ô tô du lịch",
+      "link": "https://thanhnien.vn/phan-lon-nguoi-mua-xe-ban-tai-de-su-dung-nhu-o-to-du-lich-185251109135045633.htm",
+      "summary": "Xe bán tải có những đặc trưng về thiết kế, công nghệ động cơ để phục vụ nhu cầu chở hàng, kéo hay đi địa hình; tuy nhiên một nghiên cứu khảo sát mới đây chỉ ra rằng, nhiều người dùng xe bán tải đang bỏ phí chức năng của dòng xe này và chỉ sử dụng như xe sedan, crossover.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:48:00+07:00",
+      "fetched": "2025-11-10T10:16:53.659964+07:00"
+    },
+    {
+      "id": "65bb8375f1262f4c780e63b618422429",
+      "title": "Dự báo thời tiết TP.HCM ngày 10.11: Triều cường ở mức báo động, đề phòng mưa lớn",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-tphcm-ngay-1011-trieu-cuong-o-muc-bao-dong-de-phong-mua-lon-18525111009440167.htm",
+      "summary": "Thời tiết TP.HCM ngày 10.11 dự báo triều cường ở mức báo động 3 tại trạm Nhà Bè và xấp xỉ báo động 3 tại trạm Phú An. Người dân cần đề phòng mưa lớn kết hợp triều cường gây ngập nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:47:00+07:00",
+      "fetched": "2025-11-10T10:16:53.660091+07:00"
+    },
+    {
+      "id": "1227699d56f0ac2ee89f32b5165fcdeb",
+      "title": "Triệu hồi hơn 1 triệu ô tô Toyota, Lexus dính lỗi camera lùi",
+      "link": "https://thanhnien.vn/trieu-hoi-hon-1-trieu-o-to-toyota-lexus-dinh-loi-camera-lui-18525110921575708.htm",
+      "summary": "Lỗi camera lùi tiếp tục trở thành nỗi ám ảnh với các tập đoàn ô tô. Trong đó, Toyota là \"nạn nhân\" tiếp theo, khi hơn 1 triệu xe của hãng xe Nhật Bản thuộc hai thương hiệu Toyota và Lexus mới đây phải triệu hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:46:00+07:00",
+      "fetched": "2025-11-10T10:16:53.660220+07:00"
+    },
+    {
+      "id": "27939c33874f4d9c1a2096933734a769",
+      "title": "Dàn giám khảo bắt đầu hành trình",
+      "link": "https://vnexpress.net/dan-giam-khao-bat-dau-hanh-trinh-4962043.html",
+      "summary": "9 giám khảo cầm lái các mẫu xe tham gia chuyến car test đầu tiên car award 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:44:09+07:00",
+      "fetched": "2025-11-10T10:16:50.567611+07:00"
+    },
+    {
+      "id": "81823d4613bb63d002834165fc122471",
+      "title": "Dinh Tổng thống Ukraine mất điện giữa cuộc phỏng vấn của ông Zelensky",
+      "link": "https://vnexpress.net/dinh-tong-thong-ukraine-mat-dien-giua-cuoc-phong-van-cua-ong-zelensky-4961986.html",
+      "summary": "Điện Mariinsky hai lần mất điện khi Tổng thống Zelensky trả lời phỏng vấn, do ảnh hưởng từ trận tập kích của Nga vào hạ tầng năng lượng Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:42:56+07:00",
+      "fetched": "2025-11-10T10:16:50.567741+07:00"
+    },
+    {
+      "id": "81823d4613bb63d002834165fc122471",
+      "title": "Dinh Tổng thống Ukraine mất điện giữa cuộc phỏng vấn của ông Zelensky",
+      "link": "https://vnexpress.net/dinh-tong-thong-ukraine-mat-dien-giua-cuoc-phong-van-cua-ong-zelensky-4961986.html",
+      "summary": "Điện Mariinsky hai lần mất điện khi Tổng thống Zelensky trả lời phỏng vấn, do ảnh hưởng từ trận tập kích của Nga vào hạ tầng năng lượng Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T02:42:56+07:00",
+      "fetched": "2025-11-10T10:16:55.985693+07:00"
+    },
+    {
+      "id": "fa6dc518732a897be096d9e795b2923f",
+      "title": "Suy thận: Bác sĩ giải đáp những câu hỏi thường gặp",
+      "link": "https://thanhnien.vn/suy-than-bac-si-giai-dap-nhung-cau-hoi-thuong-gap-185251110085852277.htm",
+      "summary": "'Làm thế nào để biết mình có nguy cơ mắc suy thận?; Có cách nào để phòng ngừa suy thận hoàn toàn không?; Chế độ ăn uống nào tốt cho người suy thận?... là những thắc mắc thường gặp của không ít người quan tâm đến sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:42:00+07:00",
+      "fetched": "2025-11-10T10:16:53.660348+07:00"
+    },
+    {
+      "id": "7306cdc8e06a574da48a14645df0b280",
+      "title": "Có nên uống nước đun sôi để nguội qua đêm?",
+      "link": "https://vnexpress.net/co-nen-uong-nuoc-dun-soi-de-nguoi-qua-dem-4962007.html",
+      "summary": "Gia đình tôi có thói quen đun nước sôi để nguội uống dần, có lần uống trong 2-3 ngày, điều này có tốt và có nên uống nước đun sôi để nguội qua đêm? (Hằng, 37 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:38:22+07:00",
+      "fetched": "2025-11-10T10:16:50.567876+07:00"
+    },
+    {
+      "id": "0a2c9bd0de075b75264485552dfe5bfc",
+      "title": "Địa danh nào của Việt Nam có nhiều vitamin C?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-dia-danh-nao-cua-viet-nam-co-nhieu-vitamin-c-4960619.html",
+      "summary": "Một câu đố tưởng như liên quan đến dinh dưỡng, nhưng lại ẩn chứa trong đó nét chơi chữ thú vị của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:30:00+07:00",
+      "fetched": "2025-11-10T10:16:50.568009+07:00"
+    },
+    {
+      "id": "6f7818a1b31f90aaa811eb7cfc2f1b3e",
+      "title": "TV360 trực tiếp vòng chung kết bóng rổ và giải bóng đá nam sinh viên toàn quốc",
+      "link": "https://thanhnien.vn/tv360-truc-tiep-vong-chung-ket-bong-ro-va-giai-bong-da-nam-sinh-vien-toan-quoc-185251109225305197.htm",
+      "summary": "Vòng chung kết giải bóng rổ sinh viên toàn quốc và giải bóng đá nam sinh viên toàn quốc 2025 được trực tiếp trọn vẹn trên TV360.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T02:26:00+07:00",
+      "fetched": "2025-11-10T10:16:53.660475+07:00"
+    },
+    {
+      "id": "a6417c256245b46db84df0100eeb1251",
+      "title": "Truyền thông Mỹ nói Thượng viện đạt thỏa thuận để mở cửa chính phủ",
+      "link": "https://vnexpress.net/truyen-thong-my-noi-thuong-vien-dat-thoa-thuan-de-mo-cua-chinh-phu-4961979.html",
+      "summary": "Lưỡng đảng tại Thượng viện Mỹ đạt thỏa thuận gia hạn ngân sách chính phủ, dấu hiệu cho thấy đợt đóng cửa chính phủ lâu kỷ lục sắp kết thúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T01:37:03+07:00",
+      "fetched": "2025-11-10T10:16:55.985829+07:00"
     },
     {
       "id": "05c427a53d38db9eaa0f90ad931ffb39",
@@ -393,6 +873,16 @@ window.newsData_2025_11_10 = {
       "fetched": "2025-11-10T08:21:40.153774+07:00"
     },
     {
+      "id": "ca15f9380d2d2e9aed031d89812466bd",
+      "title": "Tổng thống Zelensky: Tôi không e ngại ông Trump",
+      "link": "https://vnexpress.net/tong-thong-zelensky-toi-khong-e-ngai-ong-trump-4961971.html",
+      "summary": "Tổng thống Zelensky tuyên bố không e ngại ông Trump như các lãnh đạo phương Tây, bác bỏ thông tin cuộc gặp song phương ở Washington diễn ra căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T00:55:44+07:00",
+      "fetched": "2025-11-10T10:16:55.985960+07:00"
+    },
+    {
       "id": "7faefbf20b4c1a07fa821e0e9d5899e8",
       "title": "Những tấm lòng vàng 10.11.2025",
       "link": "https://thanhnien.vn/nhung-tam-long-vang-10112025-185251109172433099.htm",
@@ -461,6 +951,16 @@ window.newsData_2025_11_10 = {
       "category": "Thể thao",
       "published": "2025-11-10T00:32:08+07:00",
       "fetched": "2025-11-10T08:21:49.524394+07:00"
+    },
+    {
+      "id": "c4b6012e11c976a7f576274750af9232",
+      "title": "Guardiola: 'Man City đã sẵn sàng đua vô địch Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/guardiola-man-city-da-san-sang-dua-vo-dich-ngoai-hang-anh-4961960.html",
+      "summary": "Theo HLV Pep Guardiola, trận thắng ĐKVĐ Liverpool 3-0 ở vòng 11 là minh chứng cho thấy Man City sẵn sàng đua vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T00:32:08+07:00",
+      "fetched": "2025-11-10T10:17:01.671610+07:00"
     },
     {
       "id": "3f783f483ac74b13bfd4a78df2d5e2c5",
@@ -771,6 +1271,16 @@ window.newsData_2025_11_10 = {
       "category": "Thể thao",
       "published": "2025-11-09T21:29:38+07:00",
       "fetched": "2025-11-10T05:14:48.336528+07:00"
+    },
+    {
+      "id": "e2198a698573b751cf06c0ce8a9506bd",
+      "title": "Mbappe tịt ngòi, Real bị cầm chân ở La Liga",
+      "link": "https://vnexpress.net/mbappe-tit-ngoi-real-bi-cam-chan-o-la-liga-4961958.html",
+      "summary": "Tiền đạo Kylian Mbappe mờ nhạt trong trận Real hòa chủ nhà Rayo Vallecano 0-0 ở vòng 12 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T21:29:38+07:00",
+      "fetched": "2025-11-10T10:17:01.672556+07:00"
     },
     {
       "id": "18c67464781adcefa4b00adb978a38ef",
