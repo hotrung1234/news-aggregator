@@ -1,7 +1,157 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T21:18:17.076047+07:00",
+  "lastUpdated": "2025-11-11T23:21:56.055795+07:00",
   "articles": [
+    {
+      "id": "66e3e57c9500d8ccdcf0afd5b0f7d2fb",
+      "title": "Lạc bước giữa 'Tây Ban Nha cổ kính' ngay châu Á",
+      "link": "https://tuoitre.vn/lac-buoc-giua-tay-ban-nha-co-kinh-ngay-chau-a-2025111120352224.htm",
+      "summary": "Có lẽ vì Intramuros, “thành phố bên trong tường thành” nằm giữa thủ đô Manila của Philippines, không giống bất kỳ nơi nào khác ở Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.581613+07:00",
+      "fetched": "2025-11-11T23:21:49.581724+07:00"
+    },
+    {
+      "id": "e156451fb1b388783c5c9ef3fe12ff12",
+      "title": "Lần đầu tiên Cần Thơ đăng cai giải kickboxing toàn quốc 2025",
+      "link": "https://tuoitre.vn/lan-dau-tien-can-tho-dang-cai-giai-kickboxing-toan-quoc-2025-20251111125733606.htm",
+      "summary": "Tối 11-11, Sở Văn hóa, Thể thao và Du lịch TP Cần Thơ tổ chức lễ khai mạc Giải vô địch các câu lạc bộ kickboxing toàn quốc năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.581490+07:00",
+      "fetched": "2025-11-11T23:21:49.581602+07:00"
+    },
+    {
+      "id": "94bf049343bc8b4e50ee13f0cd966d4c",
+      "title": "Đà Nẵng bàn cách trục vớt tàu cổ ở biển Hội An, tổng kinh phí khoảng 5 tỉ đồng",
+      "link": "https://tuoitre.vn/da-nang-ban-cach-truc-vot-tau-co-o-bien-hoi-an-tong-kinh-phi-khoang-5-ti-dong-20251111194454516.htm",
+      "summary": "Chiều 11-11, tại cuộc họp bàn kế hoạch xử lý con tàu nghi là tàu cổ nổi lên trở lại ở biển Hội An, các cơ quan tại Đà Nẵng cho rằng cần sớm đưa con tàu lên khỏi mặt cát, bảo quản một cách khoa học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.581366+07:00",
+      "fetched": "2025-11-11T23:21:49.581479+07:00"
+    },
+    {
+      "id": "53e541ce42ff50e06dcc3b8cc9945655",
+      "title": "Barca và RFEF cãi nhau, Lamine Yamal bị loại khỏi tuyển Tây Ban Nha",
+      "link": "https://tuoitre.vn/barca-va-rfef-cai-nhau-lamine-yamal-bi-loai-khoi-tuyen-tay-ban-nha-20251111201248873.htm",
+      "summary": "Liên đoàn Bóng đá Tây Ban Nha (RFEF) giận dữ khi Lamine Yamal đã trải qua một thủ thuật y tế mà không thông báo cho đội tuyển Tây Ban Nha. Do đó ngôi sao này bị loại khỏi tuyển Tây Ban Nha ở các trận vòng loại World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.581241+07:00",
+      "fetched": "2025-11-11T23:21:49.581355+07:00"
+    },
+    {
+      "id": "5612b0f0ed7d3c1bc166d28eb91b2f2b",
+      "title": "Thay đổi phân làn giao thông quốc lộ 51 từ 17-11, người dân lưu ý",
+      "link": "https://tuoitre.vn/thay-doi-phan-lan-giao-thong-quoc-lo-51-tu-17-11-nguoi-dan-luu-y-20251111202448406.htm",
+      "summary": "Sở Xây dựng TP.HCM thông báo điều chỉnh tổ chức giao thông trên quốc lộ 51 (đoạn đi qua tỉnh Bà Rịa - Vũng Tàu cũ). Người dân, tài xế thường xuyên đi lại, vận chuyển trên tuyến này cần lưu ý đi đúng hướng dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.581118+07:00",
+      "fetched": "2025-11-11T23:21:49.581230+07:00"
+    },
+    {
+      "id": "fcb7970fa4820453bbe372a86ed734cd",
+      "title": "Cuốn sách quý của cố Tổng Bí thư Nguyễn Phú Trọng về lực lượng Công an nhân dân",
+      "link": "https://tuoitre.vn/cuon-sach-quy-cua-co-tong-bi-thu-nguyen-phu-trong-ve-luc-luong-cong-an-nhan-dan-20251111201624637.htm",
+      "summary": "Đại tướng Lương Tam Quang khẳng định cuốn sách ‘Xây dựng lực lượng Công an nhân dân thật sự trong sạch, vững mạnh, vì nước quên thân, vì dân phục vụ’ của Tổng Bí thư Nguyễn Phú Trọng là tư liệu quý, kim chỉ nam định hướng cho toàn lực lượng công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580970+07:00",
+      "fetched": "2025-11-11T23:21:49.581106+07:00"
+    },
+    {
+      "id": "a7095a7e1f124c3845d30da0b67dfbc7",
+      "title": "Xe container chở hàng chuyển phát nhanh bốc cháy trên quốc lộ 1",
+      "link": "https://tuoitre.vn/xe-container-cho-hang-chuyen-phat-nhanh-boc-chay-tren-quoc-lo-1-20251111203246863.htm",
+      "summary": "Tối 11-11, Công an xã Đại Lãnh (tỉnh Khánh Hòa) đang phối hợp với các đơn vị liên quan điều tra nguyên nhân vụ cháy xe container chở hàng chuyển phát nhanh xảy ra trên quốc lộ 1, đoạn qua địa bàn xã này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580846+07:00",
+      "fetched": "2025-11-11T23:21:49.580959+07:00"
+    },
+    {
+      "id": "01df12bfc44f127042efbc4500fb989c",
+      "title": "Xe hybrid bất ngờ 'nóng', hãng xe Việt có nhập cuộc đua?",
+      "link": "https://tuoitre.vn/xe-hybrid-bat-ngo-nong-hang-xe-viet-co-nhap-cuoc-dua-20251111202352605.htm",
+      "summary": "Toyota, Honda đang tăng tốc lắp ráp xe hybrid tại Việt Nam, đón đầu ưu đãi thuế mới từ đầu năm 2026. Hãng xe VinFast cũng đang khiến giới mê xe “dậy sóng” khi rộ tin đồn hãng chuẩn bị sản xuất dòng xe hybrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580713+07:00",
+      "fetched": "2025-11-11T23:21:49.580834+07:00"
+    },
+    {
+      "id": "49ffce5fbbcbe81d114af20d905874c9",
+      "title": "Bác sĩ dùng ChatGPT chữa bệnh có thể ảnh hưởng đến uy tín và trách nhiệm",
+      "link": "https://tuoitre.vn/bac-si-dung-chatgpt-chua-benh-co-the-anh-huong-den-uy-tin-va-trach-nhiem-20251111202512368.htm",
+      "summary": "Bác sĩ Đỗ Doãn Bách - Viện Tim mạch, Bệnh viện Bạch Mai (Hà Nội) - cho hay một số bác sĩ dùng ChatGPT để đoán bệnh cho người dân mà không hiểu được ứng dụng hay sử dụng sai mục đích có thể ảnh hưởng đến uy tín, trách nhiệm của bác sĩ với người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580591+07:00",
+      "fetched": "2025-11-11T23:21:49.580702+07:00"
+    },
+    {
+      "id": "0545998d85966d905cd058b2d0de4240",
+      "title": "Công thức 'tuyển chân dài' của bóng chuyền Trung Quốc đã hết thời?",
+      "link": "https://tuoitre.vn/cong-thuc-tuyen-chan-dai-cua-bong-chuyen-trung-quoc-da-het-thoi-20251111192741496.htm",
+      "summary": "Ở Giải vô địch bóng chuyền nữ thế giới 2025, Trung Quốc là đội tuyển có chiều cao trung bình ấn tượng nhất, vượt trội cả những cường quốc thể thao từ phương Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580464+07:00",
+      "fetched": "2025-11-11T23:21:49.580579+07:00"
+    },
+    {
+      "id": "c20a8e5c21967574354766a480cbbb92",
+      "title": "'Mr Bean' Rowan Atkinson vật lộn trông trẻ trong phim hài Giáng sinh Man vs Baby",
+      "link": "https://tuoitre.vn/mr-bean-rowan-atkinson-vat-lon-trong-tre-trong-phim-hai-giang-sinh-man-vs-baby-20251111202529186.htm",
+      "summary": "'Mr Bean' Rowan Atkinson sẽ trở lại màn ảnh với bộ phim mới của Netflix mang tên Man vs Baby, hứa hẹn mang đến những màn cười thả ga cho khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580334+07:00",
+      "fetched": "2025-11-11T23:21:49.580447+07:00"
+    },
+    {
+      "id": "c93528baee855e0e9cb6d223c322517b",
+      "title": "Đối thủ lớn nhất của Tổng thống Erdogan bị đề nghị mức án hơn... 2.000 năm tù",
+      "link": "https://tuoitre.vn/doi-thu-lon-nhat-cua-tong-thong-erdogan-bi-de-nghi-muc-an-hon-2-000-nam-tu-20251111210407346.htm",
+      "summary": "Thị trưởng Istanbul Ekrem Imamoglu bị đề nghị mức án 2.430 năm tù liên quan đến nhiều cáo buộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580209+07:00",
+      "fetched": "2025-11-11T23:21:49.580323+07:00"
+    },
+    {
+      "id": "5d4e4a35dcf26f5fa9f54cc448f3a32a",
+      "title": "Cảnh sát giao thông TP.HCM khuyến cáo người dân không nên mua, bán xe không rõ nguồn gốc",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-tp-hcm-khuyen-cao-nguoi-dan-khong-nen-mua-ban-xe-khong-ro-nguon-goc-20251111213422488.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an TP.HCM khuyến cáo người dân không mua, bán, nhận chuyển nhượng xe không rõ nguồn gốc, không có giấy chứng nhận đăng ký, hoặc có dấu hiệu sửa chữa, làm giả giấy tờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.580076+07:00",
+      "fetched": "2025-11-11T23:21:49.580197+07:00"
+    },
+    {
+      "id": "e4dfbbde16a07c2768b71ae9fea8687e",
+      "title": "Tự làm thí nghiệm đốt cồn tại nhà, bé trai 12 tuổi bỏng nặng",
+      "link": "https://tuoitre.vn/tu-lam-thi-nghiem-dot-con-tai-nha-be-trai-12-tuoi-bong-nang-20251111210738104.htm",
+      "summary": "Tự thực hiện thí nghiệm đốt cồn tại nhà, một bé trai 12 tuổi ở Hà Nội không may bị lửa bén lên người, gây bỏng nặng vùng đùi, cẳng chân và bàn tay phải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.579915+07:00",
+      "fetched": "2025-11-11T23:21:49.580062+07:00"
+    },
+    {
+      "id": "4e3a0b735902f7fc6e1498044f0ab873",
+      "title": "Slovakia sửa đổi hiến pháp, đặt luật quốc gia lên trên luật EU: Brussels phản ứng mạnh",
+      "link": "https://tuoitre.vn/slovakia-sua-doi-hien-phap-dat-luat-quoc-gia-len-tren-luat-eu-brussels-phan-ung-manh-2025111121555378.htm",
+      "summary": "EU đang gia tăng sức ép lên Slovakia sau loạt sửa đổi hiến pháp mang tính dân tộc chủ nghĩa của Thủ tướng Robert Fico.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T23:21:49.579740+07:00",
+      "fetched": "2025-11-11T23:21:49.579901+07:00"
+    },
     {
       "id": "79f47e071c129f955a685ddaa1fec314",
       "title": "Khai mở tiềm năng để Hồ Tràm vươn tầm quốc tế",
@@ -453,6 +603,66 @@ window.newsData_2025_11_11 = {
       "fetched": "2025-11-11T17:19:22.977214+07:00"
     },
     {
+      "id": "f8b3159d5c5f9e63aae16fccf59ff3ec",
+      "title": "Đề xuất ôtô sản xuất từ 2017 phải đạt chuẩn khí thải Euro 3 vào năm sau",
+      "link": "https://vnexpress.net/de-xuat-oto-san-xuat-tu-2017-phai-dat-chuan-khi-thai-euro-3-vao-nam-sau-4962781.html",
+      "summary": "Bộ Xây dựng đưa ra lộ trình siết khí thải với ôtô sản xuất trong giai đoạn 2017-2021 phải đạt tiêu chuẩn Euro 3 khi lưu thông từ đầu năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T15:50:25+07:00",
+      "fetched": "2025-11-11T23:21:51.937597+07:00"
+    },
+    {
+      "id": "f30c3c007ded77883d011c5185301afd",
+      "title": "Haval Jolion: hấp dẫn hơn đàn anh H6",
+      "link": "https://vnexpress.net/haval-jolion-hap-dan-hon-dan-anh-h6-4962778.html",
+      "summary": "Theo giám khảo Đăng Khoa, mẫu xe Haval Jolion có khả năng vận hành năng động, chắc chắn hơn hẳn đàn anh H6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:43:46+07:00",
+      "fetched": "2025-11-11T23:21:45.379215+07:00"
+    },
+    {
+      "id": "0eded393cfd7d376c4308d9135a22e8b",
+      "title": "U.23 Việt Nam chơi tấn công trước các đội hàng đầu châu Á: Một diện mạo cực mới",
+      "link": "https://thanhnien.vn/u23-viet-nam-choi-tan-cong-truoc-cac-doi-hang-dau-chau-a-mot-dien-mao-cuc-moi-185251111140659904.htm",
+      "summary": "Đội tuyển U.23 Việt Nam sẽ đối đầu với các đội Hàn Quốc, Uzbekistan và chủ nhà U.23 Trung Quốc tại Panda Cup 2025. Trong số này, U.23 Hàn Quốc và Uzbekistan là những đội hàng đầu châu Á trong lứa tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:43:00+07:00",
+      "fetched": "2025-11-11T23:21:48.447411+07:00"
+    },
+    {
+      "id": "037ecdfae504b24f78dcc6102f8e313e",
+      "title": "Trường y đầu tiên dự kiến phương án tuyển sinh 2026",
+      "link": "https://vnexpress.net/dai-hoc-y-khoa-pham-ngoc-thach-du-kien-phuong-thuc-tuyen-sinh-2026-4962774.html",
+      "summary": "Trường Đại học Y khoa Phạm Ngọc Thạch dự kiến tăng chỉ tiêu, mở thêm ngành và chương trình đào tạo Y khoa mới vào năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:35:25+07:00",
+      "fetched": "2025-11-11T23:21:45.379395+07:00"
+    },
+    {
+      "id": "54c18965e8c32002172105c5392611b5",
+      "title": "Thông tin mới nhất về 'siết' khí thải xe ô tô",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-siet-khi-thai-xe-o-to-185251111215421687.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường đề xuất, xe ô tô sản xuất giai đoạn 2017 - 2021, khi tham gia giao thông sẽ áp dụng tiêu chuẩn khí thải mức 3 từ ngày 1.1.2026; riêng Hà Nội và TP.HCM áp dụng mức 4 từ ngày 1.1.2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:33:00+07:00",
+      "fetched": "2025-11-11T23:21:48.447575+07:00"
+    },
+    {
+      "id": "e96a3ba762765514c4d8ddd91493679d",
+      "title": "'Cơn gió lạ' Dongfeng Huge có gì hay?",
+      "link": "https://vnexpress.net/con-gio-la-dongfeng-huge-co-gi-hay-4962719.html",
+      "summary": "Mẫu xe Trung Quốc có khả năng vận hành êm ái, cảm giác lái tốt, tuy vậy nhiều công nghệ tích hợp trên màn hình gây khó khăn trong thao tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:30:09+07:00",
+      "fetched": "2025-11-11T23:21:45.379562+07:00"
+    },
+    {
       "id": "13383f6193ce02d33602d96e4775a7e8",
       "title": "Tê tê Java quý hiếm đi lạc, người dân phát hiện liền đem giao nộp cho công an",
       "link": "https://tuoitre.vn/te-te-java-quy-hiem-di-lac-nguoi-dan-phat-hien-lien-dem-giao-nop-cho-cong-an-20251111131131882.htm",
@@ -603,6 +813,116 @@ window.newsData_2025_11_11 = {
       "fetched": "2025-11-11T15:23:03.513046+07:00"
     },
     {
+      "id": "82d9eaa0bff2e5ee8c3df59e4899ba6c",
+      "title": "Lan tỏa tinh thần đổi mới, sáng tạo, trách nhiệm trong đội ngũ cán bộ trẻ",
+      "link": "https://thanhnien.vn/lan-toa-tinh-than-doi-moi-sang-tao-trach-nhiem-trong-doi-ngu-can-bo-tre-185251111204453387.htm",
+      "summary": "Thứ trưởng Bộ Tài chính Trần Quốc Phương đề nghị, Đoàn Thanh niên Bộ Tài chính tiếp tục đổi mới mạnh mẽ, phát huy tinh thần xung kích, sáng tạo, chủ động hội nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:13:00+07:00",
+      "fetched": "2025-11-11T23:21:48.447733+07:00"
+    },
+    {
+      "id": "d28bbe11bd5d691b2d5f8176e0886ad9",
+      "title": "Sắp có cổng kê khai thuế cho hộ kinh doanh",
+      "link": "https://vnexpress.net/sap-co-cong-ke-khai-thue-cho-ho-kinh-doanh-4962785.html",
+      "summary": "Cục Thuế sẽ mở cổng kê khai thuế để các hộ kinh doanh trải nghiệm kê khai, trước khi áp dụng chính thức từ đầu năm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T15:12:58+07:00",
+      "fetched": "2025-11-11T23:21:45.379722+07:00"
+    },
+    {
+      "id": "d28bbe11bd5d691b2d5f8176e0886ad9",
+      "title": "Sắp có cổng kê khai thuế cho hộ kinh doanh",
+      "link": "https://vnexpress.net/sap-co-cong-ke-khai-thue-cho-ho-kinh-doanh-4962785.html",
+      "summary": "Cục Thuế sẽ mở cổng kê khai thuế để các hộ kinh doanh trải nghiệm kê khai, trước khi áp dụng chính thức từ đầu năm sau.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T15:12:58+07:00",
+      "fetched": "2025-11-11T23:21:51.937766+07:00"
+    },
+    {
+      "id": "44995d43387f19ea8fcbe4d0cc58d091",
+      "title": "Ông Nguyễn Duy Ngọc: Tạo điều kiện tối đa để Công an Hà Nội thực hiện nhiệm vụ",
+      "link": "https://thanhnien.vn/ong-nguyen-duy-ngoc-tao-dieu-kien-toi-da-de-cong-an-ha-noi-thuc-hien-nhiem-vu-185251111210638805.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc cho hay, thành phố sẽ tạo điều kiện tối đa để Công an Hà Nội chủ động trong thực hiện nhiệm vụ, không bị động trong bất cứ tình huống nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:58:00+07:00",
+      "fetched": "2025-11-11T23:21:48.447887+07:00"
+    },
+    {
+      "id": "f8e1b74f530188a5f93c7a66cc03684e",
+      "title": "Bộ Quốc phòng đầu tư 2 dự án chế tạo vũ khí công nghệ cao",
+      "link": "https://thanhnien.vn/bo-quoc-phong-dau-tu-2-du-an-che-tao-vu-khi-cong-nghe-cao-185251111211942359.htm",
+      "summary": "2 dự án do Tổng cục Công nghiệp quốc phòng (Bộ Quốc phòng) công bố được kỳ vọng sẽ giúp quân đội làm chủ thiết kế, công nghệ lõi và rút ngắn thời gian nghiên cứu, thử nghiệm, từng bước nâng tầm năng lực công nghiệp quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:50:00+07:00",
+      "fetched": "2025-11-11T23:21:48.448058+07:00"
+    },
+    {
+      "id": "261046f39ab471ff87e4f957e8a2139a",
+      "title": "Billiards: Mã Minh Cẩm đoạt á quân PBA, nhận hơn 600 triệu tiền thưởng",
+      "link": "https://thanhnien.vn/billiards-ma-minh-cam-doat-a-quan-pba-nhan-hon-600-trieu-tien-thuong-18525111121431662.htm",
+      "summary": "Trước cơ thủ kỳ cựu Daniel Sanchez thi đấu quá thăng hoa khi liên tục tung sê-ri, Mã Minh Cẩm dù đã chơi rất nỗ lực nhưng cũng đành nhận thất bại. Cơ thủ Việt Nam đoạt vị trí á quân tại chặng 7 giải billiards carom 3 băng chuyên nghiệp Hàn Quốc (PBA) mùa giải 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:45:00+07:00",
+      "fetched": "2025-11-11T23:21:48.448212+07:00"
+    },
+    {
+      "id": "3d2b6e4905decef202637c7edf4af26e",
+      "title": "Chuyện chàng trai được mẹ cắt tóc từ nhỏ",
+      "link": "https://thanhnien.vn/chuyen-chang-trai-duoc-me-cat-toc-tu-nho-185251110222302664.htm",
+      "summary": "Clip ghi lại quá trình vừa được mẹ cắt tóc, vừa trò chuyện trong góc vườn của anh Tình nhận được 'mưa tim' của cộng đồng mạng. Nhiều người để lại bình luận, nhờ xem clip của anh khiến họ trân quý hơn những khoảnh khắc nhỏ bên gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:45:00+07:00",
+      "fetched": "2025-11-11T23:21:48.448361+07:00"
+    },
+    {
+      "id": "9f839c0b59e7e55b030fe41f53049b10",
+      "title": "Thông tin mới nhất vụ cầu sông Lô 'trơ móng, lộ cốt thép rỉ sét'",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-vu-cau-song-lo-tro-mong-lo-cot-thep-ri-set-185251111212721137.htm",
+      "summary": "Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội trực tiếp khảo sát thực trạng vụ cầu sông Lô 'trơ móng, lộ cốt thép rỉ sét'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:43:00+07:00",
+      "fetched": "2025-11-11T23:21:48.448516+07:00"
+    },
+    {
+      "id": "9b9a6c375052c43ebcba682c7cb27b28",
+      "title": "Tổng Bí thư gặp mặt đại biểu lực lượng bảo vệ an ninh, trật tự cơ sở",
+      "link": "https://thanhnien.vn/tong-bi-thu-gap-mat-dai-bieu-luc-luong-bao-ve-an-ninh-trat-tu-co-so-185251111204214856.htm",
+      "summary": "Chiều 11.11, tại trụ sở Trung ương Đảng, Tổng Bí thư Tô Lâm đã gặp mặt 70 tập thể, cá nhân lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở tiêu biểu, xuất sắc trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:35:00+07:00",
+      "fetched": "2025-11-11T23:21:48.448678+07:00"
+    },
+    {
+      "id": "0a7f86dbf69205a65905c0c35c875e0c",
+      "title": "BYD M9 - đối thủ Volkswagen Viloran có giá từ 1,999 tỷ đồng",
+      "link": "https://vnexpress.net/byd-m9-doi-thu-volkswagen-viloran-co-gia-tu-1-999-ty-dong-4962169.html",
+      "summary": "Mẫu MPV đầu bảng của BYD sở hữu hàng ghế giữa hạng thương gia, hệ truyền động 1.5 hybrid sạc ngoài, tầm di chuyển thuần điện 95-170 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:34:52+07:00",
+      "fetched": "2025-11-11T23:21:45.379889+07:00"
+    },
+    {
+      "id": "0e1d50a6cf3661b03755c4ac107beeeb",
+      "title": "'Cần coi trí tuệ nhân tạo là giải pháp trọng tâm hiện đại hóa y tế'",
+      "link": "https://vnexpress.net/can-coi-tri-tue-nhan-tao-la-giai-phap-trong-tam-hien-dai-hoa-y-te-4962758.html",
+      "summary": "Bác sĩ Đỗ Doãn Bách đề xuất coi ứng dụng công nghệ mới, đặc biệt là dữ liệu lớn (Bigdata) và trí thông minh nhân tạo (AI) là giải pháp trọng tâm để hiện đại hóa hệ thống y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:11:10+07:00",
+      "fetched": "2025-11-11T23:21:45.380073+07:00"
+    },
+    {
       "id": "b4ea664416847fad26909b544bc2fd38",
       "title": "Loạt quán ăn ngon ở TP.HCM 'gây sốt' có bà chủ… độc thân vui tính",
       "link": "https://thanhnien.vn/loat-quan-an-ngon-o-tphcm-gay-sot-co-ba-chu-doc-than-vui-tinh-185251111081255943.htm",
@@ -611,6 +931,76 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T14:10:00+07:00",
       "fetched": "2025-11-11T21:18:08.348569+07:00"
+    },
+    {
+      "id": "1225956c33632263a8abc9b76bfe93b2",
+      "title": "Ráng cày cuốc để 'dư hai căn chung cư cho 2 con trai cưới vợ'",
+      "link": "https://vnexpress.net/rang-cay-cuoc-de-du-hai-can-chung-cu-cho-2-con-trai-cuoi-vo-4962716.html",
+      "summary": "Tôi có hai con gái, ông anh họ tôi thường khuyên phải kiếm thêm con trai, trong khi anh ấy đau đầu vì lo nhà cho con trai cưới vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:00:00+07:00",
+      "fetched": "2025-11-11T23:21:45.380231+07:00"
+    },
+    {
+      "id": "ac93b515a1f7a4ccd28404cf086ef07b",
+      "title": "Chuyên gia Indonesia: 'Vingroup là biểu tượng chuyển mình trong khu vực'",
+      "link": "https://vnexpress.net/chuyen-gia-indonesia-vingroup-la-bieu-tuong-chuyen-minh-trong-khu-vuc-4962769.html",
+      "summary": "Tiến sĩ Yannes Martinus Pasaribu, Viện Công nghệ Bandung (ITB) Indonesia ấn tượng với tinh thần tiên phong của Vingroup, cho rằng đây là biểu tượng của sự chuyển mình mang tầm khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T14:00:00+07:00",
+      "fetched": "2025-11-11T23:21:45.380391+07:00"
+    },
+    {
+      "id": "efb9057c0780f35638497235f2952fed",
+      "title": "Tổ ấm của Lê Dương Bảo Lâm",
+      "link": "https://vnexpress.net/to-am-cua-le-duong-bao-lam-4961245.html",
+      "summary": "Diễn viên Lê Dương Bảo Lâm nói dù bận rộn đóng phim, quay chương trình thực tế vẫn dành thời gian ăn cơm nhà, chơi đùa, dạy ba người con diễn xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:58:17+07:00",
+      "fetched": "2025-11-11T23:21:45.380560+07:00"
+    },
+    {
+      "id": "c4c3d47f4faed41597f512cfc4353781",
+      "title": "Hai kẻ trùm kín mặt trộm hơn 500 triệu đồng tiền mừng cưới",
+      "link": "https://vnexpress.net/hai-ke-trum-kin-mat-trom-hon-500-trieu-dong-tien-mung-cuoi-4962756.html",
+      "summary": "Hai người đàn ông bịt kín mặt, mang dao lẻn vào nhà chú rể sau tiệc cưới, lục lọi suốt hai tiếng rồi lấy đi toàn bộ vàng và tiền mừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:58:09+07:00",
+      "fetched": "2025-11-11T23:21:45.380714+07:00"
+    },
+    {
+      "id": "6d89b95652071753eafe4d4afb6d35b0",
+      "title": "Australia tìm chủ nhân giải xổ số 3 triệu USD gần một năm",
+      "link": "https://vnexpress.net/australia-tim-chu-nhan-giai-xo-so-3-trieu-usd-gan-mot-nam-4962704.html",
+      "summary": "Giải xổ số hơn 3 triệu USD ở Australia đã có chủ gần một năm, nhưng người trúng giải tới nay vẫn chưa xuất hiện để lĩnh tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:57:49+07:00",
+      "fetched": "2025-11-11T23:21:45.380868+07:00"
+    },
+    {
+      "id": "6d89b95652071753eafe4d4afb6d35b0",
+      "title": "Australia tìm chủ nhân giải xổ số 3 triệu USD gần một năm",
+      "link": "https://vnexpress.net/australia-tim-chu-nhan-giai-xo-so-3-trieu-usd-gan-mot-nam-4962704.html",
+      "summary": "Giải xổ số hơn 3 triệu USD ở Australia đã có chủ gần một năm, nhưng người trúng giải tới nay vẫn chưa xuất hiện để lĩnh tiền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T13:57:49+07:00",
+      "fetched": "2025-11-11T23:21:50.901140+07:00"
+    },
+    {
+      "id": "7ce76c325fa6ca221847203fb873bbc4",
+      "title": "Khách sạn ở Hà Nội bị tố 'bùng' phòng của khách",
+      "link": "https://vnexpress.net/khach-san-o-ha-noi-bi-to-bung-phong-cua-khach-4962772.html",
+      "summary": "Chủ khách sạn Royal Hostel trên phố Hàng Cháo xin lỗi và hoàn tiền cho nữ du khách bị từ chối nhận phòng lúc 2h ngày 9/11, dù người này đã thanh toán trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:48:23+07:00",
+      "fetched": "2025-11-11T23:21:45.381035+07:00"
     },
     {
       "id": "4fe5cb253ef2caff4c831e4f5d53cddf",
