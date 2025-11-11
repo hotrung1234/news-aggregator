@@ -1,7 +1,157 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T11:21:38.551283+07:00",
+  "lastUpdated": "2025-11-11T13:26:54.237187+07:00",
   "articles": [
+    {
+      "id": "b581910010e2fe5ac684fea540b0f159",
+      "title": "Quy Nhơn chuyển mình: Đô thị kiểu mẫu định hình chuẩn sống mới",
+      "link": "https://tuoitre.vn/quy-nhon-chuyen-minh-do-thi-kieu-mau-dinh-hinh-chuan-song-moi-20251110165259554.htm",
+      "summary": "Phú Gia Royal Park Quy Nhơn đang theo đuổi một tầm nhìn dài hạn: gây dựng một khu đô thị kiểu mẫu, nơi chất lượng sống xanh, tiện nghi và sự gắn kết cộng đồng là những giá trị cốt lõi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032674+07:00",
+      "fetched": "2025-11-11T13:26:49.032792+07:00"
+    },
+    {
+      "id": "a40b1e208247f6b51aa99510bf08791b",
+      "title": "Tài xế xe ôm bị đấm tới tấp vào đầu",
+      "link": "https://tuoitre.vn/tai-xe-xe-om-bi-dam-toi-tap-vao-dau-20251111113129413.htm",
+      "summary": "Hình ảnh người dân quay lại cho thấy tài xế ô tô khi vừa bước xuống xe đã tiến tới đánh và đấm vào mặt tài xế xe ôm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032545+07:00",
+      "fetched": "2025-11-11T13:26:49.032657+07:00"
+    },
+    {
+      "id": "bdc9279c1005acd2bdaa4e61c8e76a83",
+      "title": "'Gỡ rối' tận nơi khi bỏ thuế khoán",
+      "link": "https://tuoitre.vn/go-roi-tan-noi-khi-bo-thue-khoan-20251111085322414.htm",
+      "summary": "Tuyên truyền đến tận hộ kinh doanh, hỗ trợ 24/7… là những việc mà ngành thuế Cần Thơ, Cà Mau thực hiện nhằm mục tiêu bỏ thuế khoán, chuyển sang kê khai thuế vào đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032422+07:00",
+      "fetched": "2025-11-11T13:26:49.032534+07:00"
+    },
+    {
+      "id": "36cf74226241d12bef3154c91cef2165",
+      "title": "Doanh nghiệp tăng tuyển dụng, toàn TP.HCM có 30.000 việc làm cần người dịp cuối năm",
+      "link": "https://tuoitre.vn/doanh-nghiep-tang-tuyen-dung-toan-tp-hcm-co-30-000-viec-lam-can-nguoi-dip-cuoi-nam-20251111111456788.htm",
+      "summary": "Thị trường việc làm ở TP.HCM dịp cuối năm đang trở nên sôi động hơn bao giờ. Nhiều ngành nghề như dịch vụ, chế biến, bất động sản, thương mại hay công nghệ thông tin đang sốt sắng tuyển người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032301+07:00",
+      "fetched": "2025-11-11T13:26:49.032412+07:00"
+    },
+    {
+      "id": "74f95982bb4084b6dc624b379cb1fc1f",
+      "title": "Đại biểu Quốc hội đề xuất kê biên tài sản số để bảo đảm nghĩa vụ thi hành án",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-de-xuat-ke-bien-tai-san-so-de-bao-dam-nghia-vu-thi-hanh-an-20251111112357442.htm",
+      "summary": "Đại biểu Quốc hội đề xuất cần coi tài sản sở hữu trí tuệ, dữ liệu, phần mềm là tài sản đặc thù và được kê biên, xử lý theo hướng dẫn của Bộ Tư pháp, Bộ Khoa học và Công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032178+07:00",
+      "fetched": "2025-11-11T13:26:49.032290+07:00"
+    },
+    {
+      "id": "e000aa137de27c67821a5557f06a1745",
+      "title": "Làm giả, cho thuê, cầm cố thẻ căn cước công dân bị phạt đến 10 triệu đồng",
+      "link": "https://tuoitre.vn/lam-gia-cho-thue-cam-co-the-can-cuoc-cong-dan-bi-phat-den-10-trieu-dong-20251111112847245.htm",
+      "summary": "Hành vi cầm cố, nhận cầm cố, cho thuê hoặc thuê thẻ căn cước công dân... sẽ bị phạt tiền từ 8 - 10 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.032044+07:00",
+      "fetched": "2025-11-11T13:26:49.032167+07:00"
+    },
+    {
+      "id": "5ca28d60e5e5c2ff018efcbcd47b8115",
+      "title": "Bang Missouri ở Mỹ xuất hiện mưa đỏ?",
+      "link": "https://tuoitre.vn/bang-missouri-o-my-xuat-hien-mua-do-2025111111291222.htm",
+      "summary": "Video lan truyền mưa đỏ xuất hiện ở thành phố Branson, bang Missouri (Mỹ), thu hút sự chú ý của hàng nghìn người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031905+07:00",
+      "fetched": "2025-11-11T13:26:49.032031+07:00"
+    },
+    {
+      "id": "1c509873a340a458b1938c678132d8ea",
+      "title": "Man City hồi sinh nhờ chứng nghiện việc của Pep",
+      "link": "https://tuoitre.vn/man-city-hoi-sinh-nho-chung-nghien-viec-cua-pep-20251111095428476.htm",
+      "summary": "Nếu bạn thử tìm kiếm trên Google từ khóa \"workaholic\" (thuật ngữ chỉ người nghiện công việc) với lĩnh vực thể thao, hàng loạt kết quả sẽ dẫn đến cái tên Pep Guardiola.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031780+07:00",
+      "fetched": "2025-11-11T13:26:49.031893+07:00"
+    },
+    {
+      "id": "99d650bd4d11e42fdd0b3636a666b5b0",
+      "title": "Dân than dự án nâng cấp, mở rộng ĐT 753 nối cầu Mã Đà thi công chậm, nhiều tai nạn xảy ra",
+      "link": "https://tuoitre.vn/dan-than-du-an-nang-cap-mo-rong-dt-753-noi-cau-ma-da-thi-cong-cham-nhieu-tai-nan-xay-ra-20251111114929807.htm",
+      "summary": "Sau gần một năm khởi công, dự án nâng cấp, mở rộng ĐT 753 nối cầu Mã Đà vẫn còn ngổn ngang. Hàng loạt ổ gà, ổ trâu trên đường khiến nhiều người gặp nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031655+07:00",
+      "fetched": "2025-11-11T13:26:49.031769+07:00"
+    },
+    {
+      "id": "b19458af61399437601a8f5d704d83e6",
+      "title": "Cán bộ từ Quảng Nam (cũ) ra Đà Nẵng làm việc được hỗ trợ hơn 4,4 triệu đồng/tháng",
+      "link": "https://tuoitre.vn/can-bo-tu-quang-nam-cu-ra-da-nang-lam-viec-duoc-ho-tro-hon-4-4-trieu-dong-thang-20251111112445896.htm",
+      "summary": "Cán bộ cấp tỉnh từ tỉnh Quảng Nam (cũ) ra TP Đà Nẵng (cũ) làm việc được đề xuất hỗ trợ chi phí đi lại, thuê nhà ở và ổn định chỗ ở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031530+07:00",
+      "fetched": "2025-11-11T13:26:49.031643+07:00"
+    },
+    {
+      "id": "cafbdd7301ab384ea8d5355b3e2d1cfc",
+      "title": "Vatican điều tra vệ binh Thụy Sĩ vì cáo buộc bài Do Thái",
+      "link": "https://tuoitre.vn/vatican-dieu-tra-ve-binh-thuy-si-vi-cao-buoc-bai-do-thai-20251111115616626.htm",
+      "summary": "Vatican ngày 10-11 cho biết đang điều tra vụ một Vệ binh Thụy Sĩ bị cáo buộc nhổ nước bọt vào hai phụ nữ Do Thái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031390+07:00",
+      "fetched": "2025-11-11T13:26:49.031516+07:00"
+    },
+    {
+      "id": "0d4de552ad1e253cc606670eef6ef2d3",
+      "title": "Cứu gương mặt bị giập nát cho người đàn ông bước hụt xuống hố thang máy",
+      "link": "https://tuoitre.vn/cuu-guong-mat-bi-dap-nat-cho-nguoi-dan-ong-buoc-hut-xuong-ho-thang-may-20251111114856937.htm",
+      "summary": "Người đàn ông 65 tuổi không may bước hụt xuống hố thang máy chở hàng trong khi thang máy vẫn tiếp tục di chuyển gây tổn thương nặng nề vùng hàm mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031260+07:00",
+      "fetched": "2025-11-11T13:26:49.031378+07:00"
+    },
+    {
+      "id": "2a92a97b9758aa8037a867cb5c4efae7",
+      "title": "Rapper Andree lên tiếng về các ca khúc 'lệch chuẩn'",
+      "link": "https://tuoitre.vn/rapper-andree-len-tieng-ve-cac-ca-khuc-lech-chuan-20251111120100361.htm",
+      "summary": "Sau khi bị đưa vào danh sách các nghệ sĩ có ca từ lệch chuẩn, rapper Andree nói anh sẽ nhìn nhận lại bản thân và làm nhạc phù hợp với văn hóa, thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.031126+07:00",
+      "fetched": "2025-11-11T13:26:49.031248+07:00"
+    },
+    {
+      "id": "654d010c507d5b19bb6a1b65f4fd1b88",
+      "title": "Dân Hàn choáng trước sức hút của 'anh Long' G-DRAGON tại Việt Nam",
+      "link": "https://tuoitre.vn/dan-han-choang-truoc-suc-hut-cua-anh-long-g-dragon-tai-viet-nam-20251111115452292.htm",
+      "summary": "Người hâm mộ Hàn Quốc ngỡ ngàng trước quy mô concert của G-DRAGON tại Việt Nam, không khỏi bất ngờ khi 'anh Long' tạm ngưng hoạt động gần 7 năm vẫn duy trì sức hút toàn cầu 'khủng' đến vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.030965+07:00",
+      "fetched": "2025-11-11T13:26:49.031113+07:00"
+    },
+    {
+      "id": "9dd7397b45a3fedd9a8c58cb06f54ebc",
+      "title": "Bí thư Trần Lưu Quang: Lãng phí còn nghiêm trọng hơn tham nhũng, đừng để hối tiếc 'phải chi hồi đó’",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-lang-phi-con-nghiem-trong-hon-tham-nhung-dung-de-hoi-tiec-phai-chi-hoi-do-20251111113342717.htm",
+      "summary": "Sáng 11-11, tại Hội nghị tổng kết phòng chống tham nhũng, lãng phí nhiệm kỳ Đại hội 13, Bí thư Thành ủy TP.HCM Trần Lưu Quang nhấn mạnh lãng phí nghiêm trọng hơn tham nhũng, cần xử lý dứt điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T13:26:49.030735+07:00",
+      "fetched": "2025-11-11T13:26:49.030950+07:00"
+    },
     {
       "id": "e8231efb0b3b83dc9028c8a381fde7d0",
       "title": "Bệnh viện Quốc tế Phương Châu Cần Thơ đạt chứng nhận JCI lần hai",
@@ -413,6 +563,406 @@ window.newsData_2025_11_11 = {
       "fetched": "2025-11-11T08:19:17.054535+07:00"
     },
     {
+      "id": "e586e809879f5d870c3a8b6e032efa59",
+      "title": "Bộ trưởng GD-ĐT: Học sinh Hà Nội cạnh tranh chủ yếu là để vào trường tốt",
+      "link": "https://thanhnien.vn/bo-truong-gd-dt-hoc-sinh-ha-noi-canh-tranh-chu-yeu-la-de-vao-truong-tot-185251111122457798.htm",
+      "summary": "Theo Bộ trưởng Bộ GD-ĐT, ở Hà Nội, học sinh cạnh tranh chủ yếu là để vào các trường tốt, không phải cạnh tranh để có chỗ học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:03:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013031+07:00"
+    },
+    {
+      "id": "0370d947a6513559906bc6028998d995",
+      "title": "Học sinh TP.HCM học hát cải lương với NSND Tấn Giao và NSƯT Tâm Tâm",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-hoc-hat-cai-luong-voi-nsnd-tan-giao-va-nsut-tam-tam-18525111111233767.htm",
+      "summary": "Học sinh tiểu học nhìn theo lời bài ca cải lương in trong tờ giấy, lắng nghe NSND Tấn Giao và NSƯT Tâm Tâm hát mẫu và hát theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:02:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013199+07:00"
+    },
+    {
+      "id": "3c5d4a5e14ecd88b10f1091e9a357f0b",
+      "title": "Mỗi lần nghe người nọ người kia xì xào, tôi lại muốn bỏ bạn trai",
+      "link": "https://vnexpress.net/moi-lan-nghe-nguoi-no-nguoi-kia-xi-xao-toi-lai-muon-bo-ban-trai-4962378.html",
+      "summary": "Chúng tôi đều đang nói dối cả hai bên gia đình rằng đã chia tay, dường như người lớn cũng thoải mái nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.280214+07:00"
+    },
+    {
+      "id": "0e2c4704454d548a508ab537a84ac4d9",
+      "title": "Đặt tinh hoàn nhân tạo cho chàng trai 20 tuổi",
+      "link": "https://vnexpress.net/dat-tinh-hoan-nhan-tao-cho-chang-trai-20-tuoi-4962490.html",
+      "summary": "Trí, 20 tuổi, từ nhỏ tinh hoàn bên phải bị xoắn phải cắt bỏ, nay được bác sĩ phẫu thuật đặt loại nhân tạo để bù đắp khiếm khuyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.280390+07:00"
+    },
+    {
+      "id": "0ff20a554a1cc0d3eaee4270773382a9",
+      "title": "6 vật dụng cần vệ sinh thường xuyên phòng bệnh mũi họng",
+      "link": "https://vnexpress.net/6-vat-dung-can-ve-sinh-thuong-xuyen-phong-benh-mui-hong-4962479.html",
+      "summary": "Điều khiển tivi, vòi nước trong nhà vệ sinh, bàn chải đánh răng có thể chứa nhiều nấm mốc, vi khuẩn gây bệnh nếu không vệ sinh định kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.280553+07:00"
+    },
+    {
+      "id": "7c3764771f2f8f186ba9ff430897fa49",
+      "title": "Lại muốn thấy ông Vũ Tiến Thành ăn mừng cực ‘dị’, HAGL phải làm gấp điều này…",
+      "link": "https://thanhnien.vn/muon-thay-ong-vu-tien-thanh-lai-an-mung-cuc-di-hagl-phai-lam-gap-dieu-nay-185251111125014509.htm",
+      "summary": "V-League sẽ tạm nghỉ hơn 2 tháng, để đội tuyển U.23 Việt Nam tham dự SEA Games và giải U.23 châu Á. Đây cũng là quãng thời gian lý tưởng cho các CLB củng cố lực lượng. Trong số này, HAGL là 1 trong những đội cần củng cố nhiều nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:00:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013357+07:00"
+    },
+    {
+      "id": "fe630d7e103642abf0b2113f36d000a8",
+      "title": "Tuyến QL1 qua Huế nát bươm sau lũ, đang được 'vá' tạm",
+      "link": "https://thanhnien.vn/tuyen-ql1-qua-hue-nat-buom-sau-lu-dang-duoc-va-tam-185251111113003868.htm",
+      "summary": "Sau trận lũ lịch sử, QL1 qua địa phận TP.Huế hư hỏng nặng với hàng trăm 'ổ gà', các đơn vị liên quan đang khắc phục, 'vá' tạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T06:00:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013510+07:00"
+    },
+    {
+      "id": "86615b63fe14ef2b504636ab6761c3c4",
+      "title": "Phú Quốc: Khen thưởng người bán trái cây giúp du khách Hàn Quốc tìm mẹ đi lạc",
+      "link": "https://thanhnien.vn/phu-quoc-khen-thuong-nguoi-ban-trai-cay-giup-du-khach-han-quoc-tim-me-di-lac-185251111123559909.htm",
+      "summary": "UBND đặc khu Phú Quốc (An Giang) đã khen thưởng một người dân đã có hành động đẹp khi giúp đỡ du khách Hàn Quốc tìm thấy mẹ già đi lạc trên đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:47:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013660+07:00"
+    },
+    {
+      "id": "d68af2a00a54affbf13cc5e2b638abc6",
+      "title": "Nga phá âm mưu cướp tiêm kích MiG-31 với tên lửa Kinzhal",
+      "link": "https://thanhnien.vn/nga-pha-am-muu-cuop-tiem-kich-mig-31-voi-ten-lua-kinzhal-185251111123417862.htm",
+      "summary": "Cơ quan an ninh Nga thông báo đã ngăn chặn âm mưu của Ukraine và Anh nhằm cướp máy bay chiến đấu MiG-31 được trang bị tên lửa bội siêu thanh Kinzhal của Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:40:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013809+07:00"
+    },
+    {
+      "id": "4ed012ba1f0ca3c3e8780ea6f3f8c384",
+      "title": "Em tìm anh chàng cao ráo cùng trang trí cây thông",
+      "link": "https://vnexpress.net/em-tim-anh-chang-cao-rao-cung-trang-tri-cay-thong-4962369.html",
+      "summary": "Em đang tìm kiếm người đồng hành: một anh chàng cao từ 1m75 trở lên, mê vận động, chủ động, ngăn nắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:39:49+07:00",
+      "fetched": "2025-11-11T13:26:45.280655+07:00"
+    },
+    {
+      "id": "df2e531041a01aa05de8a6905bb3d178",
+      "title": "BBC bị ông Trump dọa kiện đòi bồi thường tỉ USD vì chỉnh sửa bài phát biểu",
+      "link": "https://thanhnien.vn/bbc-bi-ong-trump-doa-kien-doi-boi-thuong-ti-usd-vi-chinh-sua-bai-phat-bieu-185251111123212571.htm",
+      "summary": "Đài tin tức BBC News hôm 10.11 cho hay Tổng thống Mỹ Donald Trump đã đe dọa sẽ có hành động pháp lý về việc một phim tài liệu của BBC vào năm 2024 đã chỉnh sửa bài phát biểu của ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:37:00+07:00",
+      "fetched": "2025-11-11T13:26:48.013957+07:00"
+    },
+    {
+      "id": "825e8a04bae91abd68d73b25300b0a9d",
+      "title": "'TP HCM thuộc nhóm dễ nảy sinh vi phạm tham nhũng, lãng phí'",
+      "link": "https://vnexpress.net/tp-hcm-thuoc-nhom-de-nay-sinh-vi-pham-tham-nhung-lang-phi-4962595.html",
+      "summary": "Quy mô lớn, tốc độ phát triển nhanh, tài sản công trị giá trăm tỷ USD… khiến thành phố là nhóm địa phương dễ phát sinh tham nhũng, lãng phí, theo Bí thư Thành ủy Trần Lưu Quang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:30:58+07:00",
+      "fetched": "2025-11-11T13:26:45.280811+07:00"
+    },
+    {
+      "id": "42830ece0513607786c0b12f5c5d1224",
+      "title": "7 bệnh có triệu chứng sớm ở mắt",
+      "link": "https://vnexpress.net/7-benh-co-trieu-chung-som-o-mat-4962480.html",
+      "summary": "Nhiều tình trạng nghiêm trọng như huyết áp cao, bệnh tim và rối loạn tự miễn có thể xuất hiện các dấu hiệu sớm ở mắt trước các triệu chứng khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:30:00+07:00",
+      "fetched": "2025-11-11T13:26:45.280971+07:00"
+    },
+    {
+      "id": "24f5270b388b9e06b6ac8ed814b2e8f4",
+      "title": "Nhóm con bạc chuyên mở sới tại đám tang",
+      "link": "https://vnexpress.net/nhom-con-bac-chuyen-mo-soi-tai-dam-tang-4962601.html",
+      "summary": "Hoàng Đình Sơn cùng 8 đồng phạm thườn tới nhà những gia đình đang tổ chức tang lễ, lấy cớ chia buồn rồi tổ chức đánh bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:25:39+07:00",
+      "fetched": "2025-11-11T13:26:45.281150+07:00"
+    },
+    {
+      "id": "bfa91b15de3998f61ed6a74814567813",
+      "title": "Xác định 3 golfer Việt Nam tham dự vòng chung kết thế giới BMW Golf Cup",
+      "link": "https://thanhnien.vn/xac-dinh-3-golfer-viet-nam-tham-du-vong-chung-ket-the-gioi-bmw-golf-cup-185251111122218538.htm",
+      "summary": "Giải BMW Golf Cup - National Final 2025 Vietnam vừa khép lại tại sân golf Tân Sơn Nhất (TP.HCM), qua đó xác định 3 gương mặt xuất sắc giành quyền tham dự vòng chung kết thế giới BMW Golf Cup diễn ra tại Nam Phi vào đầu năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:23:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014125+07:00"
+    },
+    {
+      "id": "d3812aa6745d49cd4d14086b2106d910",
+      "title": "Loạt sao trẻ chấn thương, U.23 Trung Quốc gặp khó trận ra quân đấu U.23 Việt Nam",
+      "link": "https://thanhnien.vn/loat-sao-tre-chan-thuong-u23-trung-quoc-gap-kho-tran-ra-quan-dau-u23-viet-nam-185251111122045218.htm",
+      "summary": "Không chỉ U.23 Việt Nam phải chạy đua với thời gian, vì đội chủ nhà U.23 Trung Quốc cũng gặp khó khăn lực lượng về thể lực và chấn thương của nhiều trụ cột quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:22:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014286+07:00"
+    },
+    {
+      "id": "bcdfa381a77580c588a6213b4cc1fc00",
+      "title": "Hạ Long đón hơn 3.100 khách quốc tế từ 2 siêu du thuyền",
+      "link": "https://thanhnien.vn/ha-long-don-hon-3100-khach-quoc-te-tu-2-sieu-du-thuyen-185251111110721669.htm",
+      "summary": "Cảng tàu khách quốc tế Hạ Long liên tiếp đón 2 siêu du thuyền hạng sang Westerdam và Star Voyager, mang hơn 3.100 khách quốc tế và thuyền viên đến với vùng di sản Quảng Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:22:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014440+07:00"
+    },
+    {
+      "id": "3e3b031534181221b8eab3d1dadfd900",
+      "title": "28 cổ phiếu Việt Nam có thể vào rổ chỉ số FTSE sau khi nâng hạng",
+      "link": "https://vnexpress.net/28-co-phieu-viet-nam-co-the-vao-ro-chi-so-ftse-sau-khi-nang-hang-4962586.html",
+      "summary": "FTSE Russell vừa công bố chi tiết quá trình nâng hạng chứng khoán Việt Nam, trong đó có danh sách 28 cổ phiếu đáp ứng đủ tiêu chí vào rổ FTSE Global All Cap.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:20:55+07:00",
+      "fetched": "2025-11-11T13:26:45.281305+07:00"
+    },
+    {
+      "id": "3e3b031534181221b8eab3d1dadfd900",
+      "title": "28 cổ phiếu Việt Nam có thể vào rổ chỉ số FTSE sau khi nâng hạng",
+      "link": "https://vnexpress.net/28-co-phieu-viet-nam-co-the-vao-ro-chi-so-ftse-sau-khi-nang-hang-4962586.html",
+      "summary": "FTSE Russell vừa công bố chi tiết quá trình nâng hạng chứng khoán Việt Nam, trong đó có danh sách 28 cổ phiếu đáp ứng đủ tiêu chí vào rổ FTSE Global All Cap.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T05:20:55+07:00",
+      "fetched": "2025-11-11T13:26:51.150077+07:00"
+    },
+    {
+      "id": "42e46d0d8cad083422bb278fd19fd09c",
+      "title": "10 đội tuyển có thể giành vé dự World Cup 2026 tuần này",
+      "link": "https://vnexpress.net/10-doi-tuyen-co-the-gianh-ve-du-world-cup-2026-tuan-nay-4962409.html",
+      "summary": "Bồ Đào Nha, Bỉ và Pháp nhiều khả năng trở thành những đội tuyển tiếp theo đủ điều kiện dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:20:20+07:00",
+      "fetched": "2025-11-11T13:26:45.281472+07:00"
+    },
+    {
+      "id": "42e46d0d8cad083422bb278fd19fd09c",
+      "title": "10 đội tuyển có thể giành vé dự World Cup 2026 tuần này",
+      "link": "https://vnexpress.net/10-doi-tuyen-co-the-gianh-ve-du-world-cup-2026-tuan-nay-4962409.html",
+      "summary": "Bồ Đào Nha, Bỉ và Pháp nhiều khả năng trở thành những đội tuyển tiếp theo đủ điều kiện dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T05:20:20+07:00",
+      "fetched": "2025-11-11T13:26:54.228106+07:00"
+    },
+    {
+      "id": "b7479b3c56e06e3183a941452b2017aa",
+      "title": "Lưu ý trường hợp người bán hàng online không được hoàn thuế",
+      "link": "https://thanhnien.vn/luu-y-truong-hop-nguoi-ban-hang-online-khong-duoc-hoan-thue-185251111111950943.htm",
+      "summary": "Trường hợp hộ kinh doanh, cá nhân kinh doanh được sàn thương mại điện tử khai thay, khấu trừ thuế, nếu không cập nhật hoặc sai mã định danh, mã số thuế, cơ quan thuế sẽ không xử lý hoàn thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:15:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014587+07:00"
+    },
+    {
+      "id": "fdde8ad52f3d3c70e195def6e522e3b9",
+      "title": "Xác minh vụ 'xe ô tô bị nhiều người bao vây, dùng vật cứng ném, đập'",
+      "link": "https://thanhnien.vn/xac-minh-vu-xe-o-to-bi-nhieu-nguoi-bao-vay-dung-vat-cung-nem-dap-185251111110906974.htm",
+      "summary": "Cơ quan công an đang xác minh đoạn video ghi lại hình ảnh một chiếc xe tô con bị nhiều người bao vây, dùng vật cứng ném, đập vào xe  trong khi tài xế tiến, lùi giữa đám đông đang hỗn loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:11:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014736+07:00"
+    },
+    {
+      "id": "0538c85e487f1d9447fcacc140085114",
+      "title": "Chủ mới chi tỷ USD để sở hữu Atletico Madrid",
+      "link": "https://vnexpress.net/chu-moi-chi-ty-usd-de-so-huu-atletico-madrid-4962431.html",
+      "summary": "Quỹ Apollo Sports Capital trở thành chủ mới của đội bóng thủ đô Tây Ban Nha với 55% cổ phần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:06:00+07:00",
+      "fetched": "2025-11-11T13:26:45.281631+07:00"
+    },
+    {
+      "id": "766206fbb89467eed183de34e59fbdc4",
+      "title": "Điều gì xảy ra khi ăn khoai tây mọc mầm?",
+      "link": "https://thanhnien.vn/dieu-gi-xay-ra-khi-an-khoai-tay-moc-mam-185251111120607982.htm",
+      "summary": "Khoai tây là thực phẩm bổ dưỡng, giàu tinh bột, vitamin C và một số khoáng chất, nhưng việc sử dụng không đúng cách có thể gây hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:06:00+07:00",
+      "fetched": "2025-11-11T13:26:48.014884+07:00"
+    },
+    {
+      "id": "0538c85e487f1d9447fcacc140085114",
+      "title": "Chủ mới chi tỷ USD để sở hữu Atletico Madrid",
+      "link": "https://vnexpress.net/chu-moi-chi-ty-usd-de-so-huu-atletico-madrid-4962431.html",
+      "summary": "Quỹ Apollo Sports Capital trở thành chủ mới của đội bóng thủ đô Tây Ban Nha với 55% cổ phần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T05:06:00+07:00",
+      "fetched": "2025-11-11T13:26:54.229266+07:00"
+    },
+    {
+      "id": "a4a030473abeda9c170fbc7133660ebb",
+      "title": "Chính phủ đề xuất cắt giảm 25 ngành, nghề kinh doanh có điều kiện",
+      "link": "https://thanhnien.vn/chinh-phu-de-xuat-cat-giam-25-nganh-nghe-kinh-doanh-co-dieu-kien-185251111114123387.htm",
+      "summary": "Chính phủ đề xuất cắt giảm 25 ngành, nghề đầu tư kinh doanh có điều kiện, nhằm hạn chế rào cản gia nhập thị trường của doanh nghiệp, thúc đẩy tự do kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:04:00+07:00",
+      "fetched": "2025-11-11T13:26:48.015046+07:00"
+    },
+    {
+      "id": "48cab7d021c9609b2d9c73bb01f3d095",
+      "title": "Lại Lý Huynh tái đấu các kỳ thủ Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-tai-dau-cac-ky-thu-trung-quoc-4962563.html",
+      "summary": "Tân vô địch cờ tướng thế giới, Lại Lý Huynh cùng đội tuyển Việt Nam sẽ đấu nhiều cao thủ Trung Quốc tại Đại hội thể thao trí tuệ châu Á 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:03:49+07:00",
+      "fetched": "2025-11-11T13:26:45.281790+07:00"
+    },
+    {
+      "id": "48cab7d021c9609b2d9c73bb01f3d095",
+      "title": "Lại Lý Huynh tái đấu các kỳ thủ Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-tai-dau-cac-ky-thu-trung-quoc-4962563.html",
+      "summary": "Tân vô địch cờ tướng thế giới, Lại Lý Huynh cùng đội tuyển Việt Nam sẽ đấu nhiều cao thủ Trung Quốc tại Đại hội thể thao trí tuệ châu Á 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T05:03:49+07:00",
+      "fetched": "2025-11-11T13:26:54.228284+07:00"
+    },
+    {
+      "id": "8a1359bc3dfeb91e471531b8d5fccedc",
+      "title": "Rộ tin đồn Messi trở lại châu Âu thi đấu",
+      "link": "https://vnexpress.net/ro-tin-don-messi-tro-lai-chau-au-thi-dau-4962408.html",
+      "summary": "CLB Thổ Nhĩ Kỳ Galatasaray được cho là muốn mượn Lionel Messi trong vài tháng đầu năm 2026, để anh duy trì phong độ trước thềm World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.281961+07:00"
+    },
+    {
+      "id": "f67d870e0bde16527550cab6b40e1560",
+      "title": "Tiêm chất làm đầy hốc mắt trũng sâu",
+      "link": "https://vnexpress.net/tiem-chat-lam-day-hoc-mat-trung-sau-4962529.html",
+      "summary": "Thắng, 26 tuổi, hốc mắt trũng sâu thâm quầng, được bác sĩ tiêm HA làm đầy vùng trũng giúp khuôn mặt tươi tắn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.282134+07:00"
+    },
+    {
+      "id": "4168d1c7db49dee6086593ac559ec18b",
+      "title": "Có con sau 12 lần chuyển phôi thụ tinh ống nghiệm thất bại",
+      "link": "https://vnexpress.net/co-con-sau-12-lan-chuyen-phoi-thu-tinh-ong-nghiem-that-bai-4962522.html",
+      "summary": "10 năm điều trị hiếm muộn thất bại, chị Yến, 37 tuổi, từng trầm cảm, may mắn lần chuyển phôi thứ 13 thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.282287+07:00"
+    },
+    {
+      "id": "ca19c8f314fd409ab9b0114acc32ca29",
+      "title": "Hành trình 35 năm xây dựng thương hiệu của PV Gas",
+      "link": "https://vnexpress.net/hanh-trinh-35-nam-xay-dung-thuong-hieu-cua-pv-gas-4962448.html",
+      "summary": "Từ những dòng khí đầu tiên tại Việt Nam, sau 35 năm PV Gas trở thành đơn vị tiên phong trong bảo đảm an ninh năng lượng và phá triển theo hướng bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:45.282450+07:00"
+    },
+    {
+      "id": "7add0c24ac8bf0378ffe84f617af5cb6",
+      "title": "Người dân hứng nước suối để ăn uống sau bão số 13",
+      "link": "https://thanhnien.vn/nguoi-dan-hung-nuoc-suoi-de-an-uong-sau-bao-so-13-185251111113834348.htm",
+      "summary": "Bão số 13 khiến điện bị cắt, hệ thống nước sạch tạm dừng hoạt động, hàng trăm hộ dân phải ra suối hứng nước về sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:48.015202+07:00"
+    },
+    {
+      "id": "ca19c8f314fd409ab9b0114acc32ca29",
+      "title": "Hành trình 35 năm xây dựng thương hiệu của PV Gas",
+      "link": "https://vnexpress.net/hanh-trinh-35-nam-xay-dung-thuong-hieu-cua-pv-gas-4962448.html",
+      "summary": "Từ những dòng khí đầu tiên tại Việt Nam, sau 35 năm PV Gas trở thành đơn vị tiên phong trong bảo đảm an ninh năng lượng và phá triển theo hướng bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:51.151702+07:00"
+    },
+    {
+      "id": "8a1359bc3dfeb91e471531b8d5fccedc",
+      "title": "Rộ tin đồn Messi trở lại châu Âu thi đấu",
+      "link": "https://vnexpress.net/ro-tin-don-messi-tro-lai-chau-au-thi-dau-4962408.html",
+      "summary": "CLB Thổ Nhĩ Kỳ Galatasaray được cho là muốn mượn Lionel Messi trong vài tháng đầu năm 2026, để anh duy trì phong độ trước thềm World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T05:00:00+07:00",
+      "fetched": "2025-11-11T13:26:54.228448+07:00"
+    },
+    {
+      "id": "6d33961cd11701b74ebeac7a7faecc9b",
+      "title": "FLC dự kiến giao dịch lại cổ phiếu từ quý I/2026",
+      "link": "https://vnexpress.net/flc-du-kien-giao-dich-lai-co-phieu-tu-quy-i-2026-4962527.html",
+      "summary": "Theo CEO Bùi Hải Huyền, cổ phiếu FLC có thể giao dịch trở lại sớm nhất trên UPCoM vào quý I/2026, sau khi doanh nghiệp phát hành các báo cáo tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T04:52:40+07:00",
+      "fetched": "2025-11-11T13:26:51.150253+07:00"
+    },
+    {
+      "id": "bf1f4b0c2868460eaae679de2751859d",
+      "title": "Trái cây ngoại ồ ạt vào Việt Nam",
+      "link": "https://vnexpress.net/trai-cay-ngoai-o-at-vao-viet-nam-4962240.html",
+      "summary": "Thuế giảm giúp trái cây Mỹ, Australia, Trung Quốc tràn vào Việt Nam với giá rẻ, kéo kim ngạch nhập khẩu rau quả 10 tháng lên gần 2,2 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T04:46:46+07:00",
+      "fetched": "2025-11-11T13:26:51.150417+07:00"
+    },
+    {
+      "id": "3fc000884d39a189d6dfdb1ba9a2a7f8",
+      "title": "Nhiều người Mỹ lo bị truy thu trợ cấp tem phiếu thực phẩm",
+      "link": "https://vnexpress.net/nhieu-nguoi-my-lo-bi-truy-thu-tro-cap-tem-phieu-thuc-pham-4962473.html",
+      "summary": "Chính quyền Trump đang yêu cầu các bang đảo ngược việc chi trợ cấp tem phiếu thực phẩm vượt hạn mức cho phép, khiến nhiều người thụ hưởng lo bị truy thu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T04:42:52+07:00",
+      "fetched": "2025-11-11T13:26:50.088474+07:00"
+    },
+    {
+      "id": "b30e2f949a53a202f4d9f4540fef1d5a",
+      "title": "Xe chở khách lao vào sảnh sân bay Mỹ, 18 người bị thương",
+      "link": "https://vnexpress.net/xe-cho-khach-lao-vao-sanh-san-bay-my-18-nguoi-bi-thuong-4962514.html",
+      "summary": "Xe trung chuyển hành khách, phương tiện bị chê là quá lạc hậu, đâm vào sảnh ga tại sân bay Washington Dulles của Mỹ, khiến 18 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T04:23:07+07:00",
+      "fetched": "2025-11-11T13:26:50.088649+07:00"
+    },
+    {
       "id": "748342c6199d2bbf5e606cd0d563ab5f",
       "title": "Khai quật đàn tế trời ở thành nhà Hồ",
       "link": "https://vnexpress.net/khai-quat-dan-te-troi-o-thanh-nha-ho-4962517.html",
@@ -561,6 +1111,16 @@ window.newsData_2025_11_11 = {
       "category": "Thể thao",
       "published": "2025-11-11T04:04:21+07:00",
       "fetched": "2025-11-11T11:21:38.543923+07:00"
+    },
+    {
+      "id": "63c181937c647c010fd916e8a3a47ada",
+      "title": "Độ ẩm cao - 'kẻ thù' của runner",
+      "link": "https://vnexpress.net/do-am-cao-ke-thu-cua-runner-4962041.html",
+      "summary": "Khi độ ẩm tăng, mồ hôi không bốc hơi được, cơ thể mất đi cơ chế tản nhiệt chủ lực, nhịp tim leo thang, tốc độ tụt dốc và rủi ro bệnh lý do nóng vọt lên.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T04:04:21+07:00",
+      "fetched": "2025-11-11T13:26:54.228609+07:00"
     },
     {
       "id": "3d075f07b9c2410dc4a2ada63955e230",
