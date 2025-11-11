@@ -1,7 +1,117 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T05:17:22.911158+07:00",
+  "lastUpdated": "2025-11-11T08:19:25.086895+07:00",
   "articles": [
+    {
+      "id": "c2e0c5387c0a02f910afbe2f6dca968c",
+      "title": "Thời tiết hôm nay 11-11: Đất liền nắng ráo, Biển Đông bão dữ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-11-dat-lien-nang-rao-bien-dong-bao-du-20251110160440764.htm",
+      "summary": "Dự báo hôm nay 11-11, thời tiết cả nước ổn định, ngày nắng chủ đạo, vài nơi mưa rào, trên biển dông bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055840+07:00",
+      "fetched": "2025-11-11T08:19:17.055982+07:00"
+    },
+    {
+      "id": "2f183518ec5d3857b3242f68e81193d7",
+      "title": "Hà Nội sắp khai mạc triển lãm sản phẩm công nghiệp chủ lực với hơn 350 gian hàng",
+      "link": "https://tuoitre.vn/ha-noi-sap-khai-mac-trien-lam-san-pham-cong-nghiep-chu-luc-voi-hon-350-gian-hang-20251110205707778.htm",
+      "summary": "Hội chợ Triển lãm sản phẩm công nghiệp chủ lực Hà Nội năm 2025 dự kiến khai mạc vào ngày 12-11, thu hút nhiều doanh nghiệp tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055715+07:00",
+      "fetched": "2025-11-11T08:19:17.055829+07:00"
+    },
+    {
+      "id": "00817dc73809dbebfcb304e60e78dba2",
+      "title": "Tin tức sáng 11-11: Đề xuất trên 50% người dân đồng ý mới tiếp tục lập đề án sáp nhập tỉnh, xã",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-11-de-xuat-tren-50-nguoi-dan-dong-y-moi-tiep-tuc-lap-de-an-sap-nhap-tinh-xa-20251110213350917.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất trên 50% người dân đồng ý mới tiếp tục lập đề án sáp nhập tỉnh, xã; Chuyên gia dự báo biến động giá vàng tuần này...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055573+07:00",
+      "fetched": "2025-11-11T08:19:17.055702+07:00"
+    },
+    {
+      "id": "4b841015ab52b15f2a9979dac6cd7b13",
+      "title": "Cấp giấy chứng nhận 'độc thân': Lỗ hổng từ 'cam đoan'",
+      "link": "https://tuoitre.vn/cap-giay-chung-nhan-doc-than-lo-hong-tu-cam-doan-20251110232308995.htm",
+      "summary": "Mới đây, Cục Hành chính tư pháp (Bộ Tư pháp) vừa có văn bản gửi Sở Tư pháp TP.HCM đề nghị xác minh thông tin về việc cấp giấy xác nhận \"độc thân\" cho ông Chiêm Quốc Thái khi đang còn hôn nhân hợp pháp với bà V.T.H.N..",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055444+07:00",
+      "fetched": "2025-11-11T08:19:17.055561+07:00"
+    },
+    {
+      "id": "562e316caf3c97a8dfd4c70382044e00",
+      "title": "Thiên đường mới của người giàu Trung Quốc",
+      "link": "https://tuoitre.vn/thien-duong-moi-cua-nguoi-giau-trung-quoc-20251110235151624.htm",
+      "summary": "Một làn sóng chuyển tài sản lớn của giới nhà giàu Trung Quốc sang Dubai, Abu Dhabi để lập văn phòng gia đình đang diễn ra mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055316+07:00",
+      "fetched": "2025-11-11T08:19:17.055432+07:00"
+    },
+    {
+      "id": "3cb884f7ffa24b1bfa070b96386face8",
+      "title": "Video: Sân vận động Thiên Trường ngỡ ngàng trước cú vô lê của Xuân Mạnh",
+      "link": "https://tuoitre.vn/video-svd-thien-truong-ngo-ngang-truoc-cu-vo-le-cua-xuan-manh-20251110234509238.htm",
+      "summary": "Hậu vệ Phạm Xuân Mạnh (29 tuổi) trở thành người hùng của CLB Hà Nội khi lập siêu phẩm vô lê tuyệt đẹp trước chủ nhà Nam Định, giúp đội bóng thủ đô thoát thua kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055186+07:00",
+      "fetched": "2025-11-11T08:19:17.055303+07:00"
+    },
+    {
+      "id": "b28c44c205d1e50139ff8eac255858b2",
+      "title": "Tin tức thế giới 11-11: Cuộc gặp lịch sử Mỹ - Syria ở Nhà Trắng; Ông Trump nói về mở cửa chính phủ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-11-11-cuoc-gap-lich-su-my-syria-o-nha-trang-ong-trump-noi-ve-mo-cua-chinh-phu-20251110233248964.htm",
+      "summary": "Tổng thống Trump khen ngợi lãnh đạo Syria trong cuộc gặp tại Nhà Trắng; Chính phủ Mỹ có thể sẽ mở lại trong tuần này nhờ một số nghị sĩ Dân chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.055050+07:00",
+      "fetched": "2025-11-11T08:19:17.055173+07:00"
+    },
+    {
+      "id": "d2e0ebd85336f0052c5d0e56e6a8aee3",
+      "title": "Khắc phục xong sự cố 'hổng chân' do bão Kalmaegi, đường sắt Bắc - Nam thông suốt trở lại",
+      "link": "https://tuoitre.vn/khac-phuc-xong-su-co-hong-chan-do-bao-kalmaegi-duong-sat-bac-nam-thong-suot-tro-lai-20251110170412995.htm",
+      "summary": "Tối 10-11, đoạn đường sắt Bắc - Nam trên địa bàn Đắk Lắk (Phú Yên cũ) và Gia Lai (Bình Định cũ) đã chính thức thông tuyến sau 4 ngày khắc phục sạt lở, tuyến đường sắt Bắc - Nam không còn bị chia cắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.054881+07:00",
+      "fetched": "2025-11-11T08:19:17.055035+07:00"
+    },
+    {
+      "id": "727cd43d3a600a0ef61464b70d92dce6",
+      "title": "K-pop Demon Hunters 2 sẽ có đối thủ?",
+      "link": "https://tuoitre.vn/k-pop-demon-hunters-2-se-co-doi-thu-20251110160514289.htm",
+      "summary": "Sau thành công vang dội của 'K-pop Demon Hunters', không có gì lạ khi các hãng phim khác bắt đầu thực hiện những dự án có nội dung tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.054731+07:00",
+      "fetched": "2025-11-11T08:19:17.054867+07:00"
+    },
+    {
+      "id": "7553b740300893e4ab08db30f1bb3509",
+      "title": "Top 5 vai diễn hay nhất của Angelina Jolie",
+      "link": "https://tuoitre.vn/top-5-vai-dien-hay-nhat-cua-angelina-jolie-2025111015391068.htm",
+      "summary": "Gần bốn thập niên hoạt động nghệ thuật, Angelina Jolie không chỉ là ngôi sao hàng đầu Hollywood mà còn là biểu tượng bất hủ của thập niên 2000 nhờ sự biến hóa và chiều sâu trong diễn xuất của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.054556+07:00",
+      "fetched": "2025-11-11T08:19:17.054715+07:00"
+    },
+    {
+      "id": "fe846e4689c4c7bb827018c872a5e7a0",
+      "title": "Đến công trình biểu tượng đồng lòng vượt qua COVID-19 để tự hỏi mình sống khác đi chưa?",
+      "link": "https://tuoitre.vn/den-cong-trinh-bieu-tuong-dong-long-vuot-qua-covid-19-de-tu-hoi-minh-song-khac-di-chua-20251110151621144.htm",
+      "summary": "'Chủ trương xây dựng công trình biểu tượng đồng lòng vượt qua COVID-19 không chỉ là nơi để tưởng nhớ người đã khuất, mà còn là biểu tượng của lòng nhân ái và sự tử tế mà người dân TP.HCM thể hiện trong đại dịch'...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T08:19:17.054296+07:00",
+      "fetched": "2025-11-11T08:19:17.054535+07:00"
+    },
     {
       "id": "a8c091b6e71dba78df68595cfe5da619",
       "title": "Chơi quá hay, Thanh Thúy được CLB Nhật Bản chọn làm 'gương mặt đại diện'",
@@ -151,6 +261,406 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T01:24:38.771889+07:00",
       "fetched": "2025-11-11T01:24:38.772087+07:00"
+    },
+    {
+      "id": "e45116ef270ce07f589f942a30d75e44",
+      "title": "Đường xuống cấp nghiêm trọng",
+      "link": "https://thanhnien.vn/duong-xuong-cap-nghiem-trong-185251110165420656.htm",
+      "summary": "Bạn đọc phản ánh qua Báo Thanh Niên, trên đường Võ Nguyên Giáp thuộc Km 1855, gần lối vào nhà máy ép giấy Thiên Tân, P.Phước Long (trước đây là P.Phước Long, TP.Biên Hòa), tỉnh Đồng Nai, bị xuống cấp nghiêm trọng, đầy những ổ gà, trời nắng thì bụi mù mịt, mưa thì lầy lội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:02:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564010+07:00"
+    },
+    {
+      "id": "220691c5cbf34c23ea4e3c088a4edd0c",
+      "title": "Vợ mắc bệnh hiểm nghèo vẫn theo chồng làm thuê nuôi 2 con nhỏ",
+      "link": "https://thanhnien.vn/vo-mac-benh-hiem-ngheo-van-theo-chong-lam-thue-nuoi-2-con-nho-185251110170321743.htm",
+      "summary": "Trong căn nhà gỗ ọp ẹp giữa thôn Đầu Gò (xã Thượng Đức, TP.Đà Nẵng), có một gia đình đang sống lay lắt từng ngày với hy vọng mong manh. Đó là gia đình anh Mai Văn Công (40 tuổi) và chị Nguyễn Thị Ánh Nguyệt (36 tuổi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:01:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564195+07:00"
+    },
+    {
+      "id": "2be687ad4c769ba5364b1768340719f1",
+      "title": "Đường lòng chảo ngập nước, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-long-chao-ngap-nuoc-di-lai-kho-khan-185251110165809432.htm",
+      "summary": "Mỗi lần đi qua đường Phan Thị Út, đoạn bên hông cầu Phú Mỹ, P.Tân Mỹ (trước đây thuộc P.Tân Phú, Q.7), TP.HCM, nhiều người rất bất an bởi mặt đường bị lún một đoạn, tạo thành lòng chảo, trời mưa đọng nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:01:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564358+07:00"
+    },
+    {
+      "id": "9fefaf68e794d3f7a72e823c022fc078",
+      "title": "Ca khúc chủ đề của gameshow gây sốt",
+      "link": "https://thanhnien.vn/ca-khuc-chu-de-cua-gameshow-gay-sot-185251110231735324.htm",
+      "summary": "Không chỉ tập trung vào format hay người chơi mà nhiều chương trình truyền hình hiện nay còn chú ý đầu tư vào ca khúc chủ đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564513+07:00"
+    },
+    {
+      "id": "c2080b75a421c4be50da4ba7c61ce50a",
+      "title": "Lương thưởng, cơm ca miễn phí nhưng vẫn khó tuyển lao động phổ thông",
+      "link": "https://thanhnien.vn/luong-thuong-com-ca-mien-phi-nhung-van-kho-tuyen-lao-dong-pho-thong-185251110212953115.htm",
+      "summary": "Nhiều doanh nghiệp sản xuất tại các khu công nghiệp đang tăng tốc tuyển dụng lao động phục vụ hoạt động sản xuất, kinh doanh, hoàn thành đơn hàng cuối năm. Dù liên tục tham gia ngày hội việc làm, đăng tin tuyển dụng và đưa ra nhiều ưu đãi, song việc tuyển dụng không hề dễ dàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564667+07:00"
+    },
+    {
+      "id": "05a4b15b6e16dd20df14844e4ab94d03",
+      "title": "Thịt đà điểu VietOstrich: Lựa chọn ‘ăn ngon - sống khỏe’ của gia đình hiện đại",
+      "link": "https://thanhnien.vn/thit-da-dieu-vietostrich-lua-chon-an-ngon-song-khoe-cua-gia-dinh-hien-dai-185251110201525352.htm",
+      "summary": "Tìm kiếm giải pháp cho bài toán 'ăn ngon - sống khỏe' của các gia đình hiện đại, thịt đà điểu VietOstrich nổi lên như một lựa chọn hoàn hảo. Sở hữu giá trị dinh dưỡng vượt trội cùng hương vị độc đáo, đây được xem là sự đầu tư thông minh cho những bữa ăn chất lượng của gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.564823+07:00"
+    },
+    {
+      "id": "9627ea6697e4105ad15fbacb2483c869",
+      "title": "Phác đồ hiện đại giúp vợ chồng chuyển phôi nhiều lần thất bại sớm có con",
+      "link": "https://thanhnien.vn/phac-do-hien-dai-giup-vo-chong-chuyen-phoi-nhieu-lan-that-bai-som-co-con-185251110191221443.htm",
+      "summary": "Điều trị thụ tinh trong ống nghiệm (IVF) gồm nhiều bước, từ kích thích buồng trứng, chọc hút, tạo phôi, chuyển phôi… Chuyển phôi thất bại, sảy thai nhiều lần là kết cục không mong muốn bởi tốn kém chi phí và ảnh hưởng tâm lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565012+07:00"
+    },
+    {
+      "id": "d8abdf0bb446a7553726d9412c16f560",
+      "title": "Đặng Bảo Trâm – Định hình ngôn ngữ cho tác phong 5 sao trong ngành dịch vụ",
+      "link": "https://thanhnien.vn/dang-bao-tram-dinh-hinh-ngon-ngu-cho-tac-phong-5-sao-trong-nganh-dich-vu-185251110172209344.htm",
+      "summary": "Trong hệ sinh thái dịch vụ 5 sao nơi mỗi chi tiết dù nhỏ nhất cũng có thể trở thành \"dấu ấn\" trong tâm trí khách hàng. Tư duy đào tạo về tác phong ngày nay không còn dừng lại ở kỹ năng, mà còn là hành vi nắm bắt và dự đoán nhu cầu của khách hàng cao cấp, từ đó tạo lập ra một không gian giao tiếp tin...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565170+07:00"
+    },
+    {
+      "id": "97a62ecbb5d57af88e104e2a68aa6499",
+      "title": "Nam Long - 33 năm kiên định kiến tạo di sản từ triết lý nhân văn",
+      "link": "https://thanhnien.vn/nam-long-33-nam-kien-dinh-kien-tao-di-san-tu-triet-ly-nhan-van-185251110165600012.htm",
+      "summary": "33 năm Nam Long bền bỉ nuôi dưỡng mạch sống đô thị bền vững, để mỗi quyết định an cư của người Việt đều trở thành bản lề đầu tiên của hành trình vun đắp hạnh phúc truyền đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565320+07:00"
+    },
+    {
+      "id": "0e31a75154ebe7fa1e471806a01ac924",
+      "title": "Be Group báo lãi: Mở chương trình thưởng, học bổng, bảo hiểm cho tài xế sinh viên",
+      "link": "https://thanhnien.vn/be-group-bao-lai-mo-chuong-trinh-thuong-hoc-bong-bao-hiem-cho-tai-xe-sinh-vien-185251110164647048.htm",
+      "summary": "Sau khi ghi nhận lợi nhuận EBITDA dương ở cấp độ toàn công ty trong năm 2025, Be Group công bố loạt chính sách hỗ trợ mới dành cho tài xế, đặc biệt là sinh viên. Động thái này đánh dấu giai đoạn tái đầu tư của BE cho cộng đồng tài xế, lực lượng được xem là trụ cột chất lượng dịch vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565470+07:00"
+    },
+    {
+      "id": "435cae6ed61167e1d7996dd05468fda1",
+      "title": "Diện trang phục đồng bộ vừa ấm áp lại sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-trang-phuc-dong-bo-vua-am-ap-lai-sanh-dieu-185251104161535415.htm",
+      "summary": "Set đồng bộ luôn là một trong những lựa chọn được quý cô sành điệu ưu tiên chọn lựa. Mùa thu đông, các bản phối đồng điệu thường xuyên có sự kết hợp của áo măng tô, áo khoác dáng ngắn cùng chất liệu và không thể thiếu áo phông hoặc áo dệt kim mỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:00:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565616+07:00"
+    },
+    {
+      "id": "4fab62afd7dc5bc6d5976d77915f7de4",
+      "title": "Giá vàng thế giới tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-4962430.html",
+      "summary": "Giá kim loại quý tăng hơn 100 USD một phiên, lên cao nhất 2 tuần do các số liệu kém lạc quan về kinh tế Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T00:58:02+07:00",
+      "fetched": "2025-11-11T08:19:20.073012+07:00"
+    },
+    {
+      "id": "35a56a7cf25417ce4ca041d00d29c170",
+      "title": "'Bờ vai' vững chãi của sao U.23 Việt Nam Nguyễn Hiểu Minh: Con đi đâu, bố mẹ theo đấy!",
+      "link": "https://thanhnien.vn/bo-vai-vung-chai-cua-sao-u23-viet-nam-nguyen-hieu-minh-con-di-dau-bo-me-theo-day-18525111021463399.htm",
+      "summary": "11 vòng đấu đã qua của V-League 2025 - 2026, Nguyễn Hiểu Minh đá chính cả 11 trận và chơi trọn vẹn hơn 990 phút trong màu áo PVF-CAND. Anh cũng là nhân tố quan trọng khi U.23 VN giành chức vô địch U.23 Đông Nam Á và lọt vào VCK U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:49:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565773+07:00"
+    },
+    {
+      "id": "68fa2d5e3d9e365d635fba895f196dab",
+      "title": "Ông Trump nói sẽ phát tiền cho dân, gọi người phản đối thuế quan là 'kẻ ngốc'",
+      "link": "https://thanhnien.vn/ong-trump-noi-se-phat-tien-cho-dan-goi-nguoi-phan-doi-thue-quan-la-ke-ngoc-185251111073632445.htm",
+      "summary": "Tổng thống Mỹ Donald Trump mới đây lại tuyên bố sẽ dùng tiền thu thuế lên hàng nhập khẩu để phát 2.000 USD cho toàn bộ người dân, trừ người thu nhập cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:43:00+07:00",
+      "fetched": "2025-11-11T08:19:15.565936+07:00"
+    },
+    {
+      "id": "652b49fe18c25e7a4a9813972ab9df2f",
+      "title": "Ông Trump ca ngợi lãnh đạo Syria sau cuộc gặp lịch sử tại Nhà Trắng",
+      "link": "https://thanhnien.vn/ong-trump-ca-ngoi-lanh-dao-syria-sau-cuoc-gap-lich-su-tai-nha-trang-185251111073800164.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 10.11 cam kết làm tất cả để giúp Syria sau cuộc hội đàm chưa từng có tiền lệ với nhà lãnh đạo Ahmed al-Sharaa và tại Nhà Trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:42:00+07:00",
+      "fetched": "2025-11-11T08:19:15.566089+07:00"
+    },
+    {
+      "id": "85c9d9f6f4fa23c6b2a7bdd68215f8e0",
+      "title": "Giá heo hơi hôm nay 11.11.2025: Giảm sâu, người chăn nuôi lỗ nặng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-11112025-giam-sau-nguoi-chan-nuoi-lo-nang-185251111072614974.htm",
+      "summary": "Giá heo hơi tiếp tục giảm thêm từ 1.000 - 2.000 đồng/kg ở nhiều tỉnh thành trên cả nước. Tại một số nơi, giá heo hơi đã giảm sâu so với giá thành khiến người chăn nuôi lỗ nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:37:00+07:00",
+      "fetched": "2025-11-11T08:19:15.566249+07:00"
+    },
+    {
+      "id": "37fb1ffa6e2737359aa43b85771e09b8",
+      "title": "Khủng hoảng trì hoãn 'giấc mơ Mỹ'",
+      "link": "https://vnexpress.net/khung-hoang-tri-hoan-giac-mo-my-4962303.html",
+      "summary": "\"Giấc mơ Mỹ\" ngày càng xa vời khi độ tuổi trung vị của người dân nước này khi mua căn nhà đầu tiên đã vọt lên 40, mức cao nhất lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:32:38+07:00",
+      "fetched": "2025-11-11T08:19:12.328887+07:00"
+    },
+    {
+      "id": "d1fa2284f920abeb7173e3c673e404ae",
+      "title": "Nữ triệu phú 33 năm mang tên người chết",
+      "link": "https://vnexpress.net/nu-trieu-phu-33-nam-mang-ten-nguoi-chet-4962396.html",
+      "summary": "Bị bán từ năm 7 tuổi, Wang Liping phải mang tên người con gái đã mất của cha mẹ nuôi, khiến cô luôn day dứt \"mình là ai?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:18:07+07:00",
+      "fetched": "2025-11-11T08:19:12.329092+07:00"
+    },
+    {
+      "id": "cd9d5b534025540bcb812a5e0ac356c4",
+      "title": "Ông Trump dọa kiện BBC, đòi một tỷ USD bồi thường",
+      "link": "https://vnexpress.net/ong-trump-doa-kien-bbc-doi-mot-ty-usd-boi-thuong-4962418.html",
+      "summary": "Tổng thống Trump dọa kiện BBC với mức bồi thường 1 tỷ USD sau bê bối đài này cắt ghép phát biểu của ông vào ngày bạo loạn Đồi Capitol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:11:37+07:00",
+      "fetched": "2025-11-11T08:19:12.329260+07:00"
+    },
+    {
+      "id": "cd9d5b534025540bcb812a5e0ac356c4",
+      "title": "Ông Trump dọa kiện BBC, đòi một tỷ USD bồi thường",
+      "link": "https://vnexpress.net/ong-trump-doa-kien-bbc-doi-mot-ty-usd-boi-thuong-4962418.html",
+      "summary": "Tổng thống Trump dọa kiện BBC với mức bồi thường 1 tỷ USD sau bê bối đài này cắt ghép phát biểu của ông vào ngày bạo loạn Đồi Capitol.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T00:11:37+07:00",
+      "fetched": "2025-11-11T08:19:18.616983+07:00"
+    },
+    {
+      "id": "56e4d873aabd192d3c94c3e5ee9ad1d4",
+      "title": "5 lợi ích khi ăn đu đủ thường xuyên",
+      "link": "https://vnexpress.net/5-loi-ich-khi-an-du-du-thuong-xuyen-4962260.html",
+      "summary": "Đu đủ giàu vitamin C cùng các chất chống oxy hóa, có thể giúp tăng miễn dịch, tốt cho tiêu hóa, giảm nguy cơ mắc bệnh tim và ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:00:00+07:00",
+      "fetched": "2025-11-11T08:19:12.329435+07:00"
+    },
+    {
+      "id": "8ce266a4c4d6999646eeb7c627501dc5",
+      "title": "Đông nghịt khách check in quán cà phê giữa vườn nho ở TP HCM",
+      "link": "https://vnexpress.net/dong-nghit-khach-check-in-quan-ca-phe-giua-vuon-nho-o-tp-hcm-4961917.html",
+      "summary": "Quán nằm trong vườn nho rộng hơn 2.000 m2 của anh Lê Văn Hồng ở phường Thời An hút khách nườm nượp đến tham quan, chụp ảnh và hái trái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:00:00+07:00",
+      "fetched": "2025-11-11T08:19:12.329597+07:00"
+    },
+    {
+      "id": "429a30ac103c9f7aa757ac7583c5c746",
+      "title": "Xe đầu kéo có thể bị cấm chạy làn 1 cao tốc ở bang Mỹ",
+      "link": "https://vnexpress.net/xe-dau-keo-co-the-bi-cam-chay-lan-1-cao-toc-o-bang-my-4961980.html",
+      "summary": "Các nhà lập pháp bang Michigan sẽ bỏ phiếu cho dự luật cấm xe đầu kéo chạy ở làn 1 trên cao tốc có từ ba làn xe trở lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T00:00:00+07:00",
+      "fetched": "2025-11-11T08:19:12.329753+07:00"
+    },
+    {
+      "id": "bf62edf6ee0e5724a704104d05b197e4",
+      "title": "Khung gầm Yaris Cross có tốt?",
+      "link": "https://vnexpress.net/khung-gam-yaris-cross-co-tot-4962421.html",
+      "summary": "Dự định mua xe gầm cao, kinh phí có hạn chỉ khoảng 650 triệu lăn bánh nên tôi quan tâm đến dòng xe Yaris Cross. (Thanh Tùng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:57:03+07:00",
+      "fetched": "2025-11-11T08:19:12.329929+07:00"
+    },
+    {
+      "id": "b36dd56a387125415f62b5f9f1c9e3ce",
+      "title": "Ukraine mở chiến dịch truy quét tham nhũng ngành năng lượng",
+      "link": "https://vnexpress.net/ukraine-mo-chien-dich-truy-quet-tham-nhung-nganh-nang-luong-4962402.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine đang tiến hành các cuộc đột kích quy mô lớn nhắm vào ngành năng lượng vì phát hiện \"tổ chức tội phạm cấp cao\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:56:43+07:00",
+      "fetched": "2025-11-11T08:19:12.330098+07:00"
+    },
+    {
+      "id": "b36dd56a387125415f62b5f9f1c9e3ce",
+      "title": "Ukraine mở chiến dịch truy quét tham nhũng ngành năng lượng",
+      "link": "https://vnexpress.net/ukraine-mo-chien-dich-truy-quet-tham-nhung-nganh-nang-luong-4962402.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine đang tiến hành các cuộc đột kích quy mô lớn nhắm vào ngành năng lượng vì phát hiện \"tổ chức tội phạm cấp cao\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T23:56:43+07:00",
+      "fetched": "2025-11-11T08:19:18.617181+07:00"
+    },
+    {
+      "id": "9a953473e1cca0e1655688344f62dd4d",
+      "title": "Bão Fung Wong giảm còn cấp 12, gây sóng biển cao 9 m",
+      "link": "https://vnexpress.net/bao-fung-wong-giam-con-cap-12-gay-song-bien-cao-9-m-4962410.html",
+      "summary": "Một ngày sau khi vào Biển Đông, cơn bão thứ 14 đã giảm còn cấp 12 và đang đi về hướng Đài Loan, ít khả năng ảnh hưởng Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:33:14+07:00",
+      "fetched": "2025-11-11T08:19:12.330258+07:00"
+    },
+    {
+      "id": "2d7f172a2540e642d350e02e3f8a45ae",
+      "title": "Cán bộ cơ sở quá tải sau sáp nhập",
+      "link": "https://vnexpress.net/can-bo-co-so-qua-tai-sau-sap-nhap-4962340.html",
+      "summary": "Số dân tăng vọt, địa bàn mở rộng sau sáp nhập khiến cán bộ xã, phường rơi vào quá tải, phải xử lý lượng hồ sơ và công việc gấp 3-4 lần so với trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:30:00+07:00",
+      "fetched": "2025-11-11T08:19:12.330414+07:00"
+    },
+    {
+      "id": "6ccef7c20ca618b87cf4da6bb594174a",
+      "title": "Liverpool khiếu nại trọng tài sau trận thua Man City",
+      "link": "https://vnexpress.net/liverpool-khieu-nai-trong-tai-sau-tran-thua-man-city-4962394.html",
+      "summary": "Liverpool gửi đơn khiếu nại lên Ban trọng tài Anh (PGMOL) về pha lập công của Virgil van Dijk bị khước từ trong trận thua Man City, cho rằng quyết định này đi ngược lại với luật thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:03:30+07:00",
+      "fetched": "2025-11-11T08:19:12.330570+07:00"
+    },
+    {
+      "id": "6ccef7c20ca618b87cf4da6bb594174a",
+      "title": "Liverpool khiếu nại trọng tài sau trận thua Man City",
+      "link": "https://vnexpress.net/liverpool-khieu-nai-trong-tai-sau-tran-thua-man-city-4962394.html",
+      "summary": "Liverpool gửi đơn khiếu nại lên Ban trọng tài Anh (PGMOL) về pha lập công của Virgil van Dijk bị khước từ trong trận thua Man City, cho rằng quyết định này đi ngược lại với luật thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T23:03:30+07:00",
+      "fetched": "2025-11-11T08:19:25.080843+07:00"
+    },
+    {
+      "id": "3f527b5addf4e116f4776cc1720e218b",
+      "title": "Điểm tin 6h: Người Việt thọ 74 tuổi nhưng 10 năm sống chung bệnh tật | Thái Lan sắp dẫn độ trùm lừa đảo bị Trung Quốc truy nã",
+      "link": "https://vnexpress.net/diem-tin-6h-nguoi-viet-tho-74-tuoi-nhung-10-nam-song-chung-benh-tat-thai-lan-sap-dan-do-trum-lua-dao-bi-trung-quoc-truy-na-4962413.html",
+      "summary": "Tăng lương tối thiểu vùng từ ngày 1/1/2026; Bộ Xây dựng ghi nhận hiện tượng “bán chênh” nhà ở xã hội 200–500 triệu đồng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:03:23+07:00",
+      "fetched": "2025-11-11T08:19:12.330727+07:00"
+    },
+    {
+      "id": "e36882d407c8dce2318988d60812ff0a",
+      "title": "Lâm Đồng lần đầu tổ chức lễ hội trà quốc tế",
+      "link": "https://vnexpress.net/lam-dong-lan-dau-to-chuc-le-hoi-tra-quoc-te-4962353.html",
+      "summary": "Lễ hội trà quốc tế 2025 diễn ra gần một tháng từ 11/11, với hơn 10 hoạt động văn hóa – kinh tế về trà, dự kiến thu hút hơn 20.000 người đến Lâm Đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:00:02+07:00",
+      "fetched": "2025-11-11T08:19:12.330882+07:00"
+    },
+    {
+      "id": "1948371ae2164855db4b17c43c159f33",
+      "title": "Salmonella – hiểm họa không mùi, không vị",
+      "link": "https://vnexpress.net/salmonella-hiem-hoa-khong-mui-khong-vi-4962386.html",
+      "summary": "Là tác nhân hàng đầu gây ngộ độc, dẫn tới tử vong gấp 20 lần E.coli - vi khuẩn gây ngộ độc khác, nhưng thức ăn nhiễm Salmonella có vẻ ngoài và mùi hoàn toàn bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:00:00+07:00",
+      "fetched": "2025-11-11T08:19:12.331052+07:00"
+    },
+    {
+      "id": "13dbf35c8cb5bf01c1fba351b89bb814",
+      "title": "Ngán ngẩm với nồm ẩm trái mùa",
+      "link": "https://vnexpress.net/ngan-ngam-voi-nom-am-trai-mua-4962107.html",
+      "summary": "Nhà anh Toản hai ngày cuối tuần biến thành xưởng sấy, máy chạy hết công suất cả đêm vì thời tiết nồm ẩm bất thường khi vừa lập đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:00:00+07:00",
+      "fetched": "2025-11-11T08:19:12.331213+07:00"
+    },
+    {
+      "id": "6d6f50829b9a02bc85a63c528d10819b",
+      "title": "Hộ kinh doanh lúng túng với hàng tồn không hóa đơn chứng từ",
+      "link": "https://vnexpress.net/ho-kinh-doanh-lung-tung-voi-hang-ton-khong-hoa-don-chung-tu-4956588.html",
+      "summary": "Nhiều tiểu thương lúng túng trong xử lý hàng tồn kho không có hóa đơn, chứng từ khi từ năm sau phải chuyển đổi từ nộp thuế khoán sang kê khai.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-10T23:00:00+07:00",
+      "fetched": "2025-11-11T08:19:20.073191+07:00"
+    },
+    {
+      "id": "c259fbfcb6c572d27b4bc03b75b28fbc",
+      "title": "'Mỏi mắt' tìm tổng công trình sư cho công nghệ chiến lược",
+      "link": "https://vnexpress.net/moi-mat-tim-tong-cong-trinh-su-cho-cong-nghe-chien-luoc-4959748.html",
+      "summary": "Việt Nam đặt kỳ vọng vào 11 nhóm công nghệ chiến lược, nhưng câu hỏi 'ai sẽ là người vẽ bản thiết kế tổng thể cho từng lĩnh vực' chưa có lời giải đáp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-10T23:00:00+07:00",
+      "fetched": "2025-11-11T08:19:23.347185+07:00"
+    },
+    {
+      "id": "28a5d99215ad5fa94d7a29481c0f3cbe",
+      "title": "Trận chung kết phủ trắng tuyết tại Canada",
+      "link": "https://vnexpress.net/tran-chung-ket-phu-trang-tuyet-tai-canada-4962403.html",
+      "summary": "Dưới nhiệt độ âm 8 độ C và mặt sân trắng xóa, Atletico Ottawa thắng Cavalry FC 2-1 ở chung kết Ngoại hạng Canada để vô địch trong trận cầu được ví như \"thử thách trên sao Hỏa\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T22:59:18+07:00",
+      "fetched": "2025-11-11T08:19:25.081050+07:00"
+    },
+    {
+      "id": "8710a8076cf63b5d1dffa005a7ba8b37",
+      "title": "Dua Lipa gây sốt ở trận Siêu kinh điển Argentina",
+      "link": "https://vnexpress.net/dua-lipa-gay-sot-o-tran-sieu-kinh-dien-argentina-4962404.html",
+      "summary": "Trong chuyến lưu diễn tại Buenos Aires, ca sĩ người Anh Dua Lipa đã đến sân La Bombonera để theo dõi trực tiếp trận Boca Juniors thắng River Plate 2-0 ở giải VĐQG Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T22:52:54+07:00",
+      "fetched": "2025-11-11T08:19:25.081217+07:00"
+    },
+    {
+      "id": "68f68cf91dc6077917f748ae720b7a0e",
+      "title": "Sinner khởi đầu hoàn hảo ở ATP Finals",
+      "link": "https://vnexpress.net/sinner-khoi-dau-hoan-hao-o-atp-finals-4962407.html",
+      "summary": "Tay vợt số một thế giới không phải cứu break-point nào ở trận thắng Felix Auger-Aliassime 7-5, 6-1, ở vòng bảng ATP Finals hôm 10/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T22:38:53+07:00",
+      "fetched": "2025-11-11T08:19:25.081378+07:00"
+    },
+    {
+      "id": "b404e3ab0cab7266fe1bd6dee01b440c",
+      "title": "Mike Tyson muốn tái đấu Jake Paul sau trận gặp Mayweather",
+      "link": "https://vnexpress.net/mike-tyson-muon-tai-dau-jake-paul-sau-tran-gap-mayweather-4962406.html",
+      "summary": "Huyền thoại quyền Anh Mike Tyson tiết lộ muốn tái đấu Jake Paul sau khi hoàn tất trận đấu biểu diễn với \"Độc cô cầu bại\" Floyd Mayweather - dự kiến diễn ra vào mùa xuân năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-10T22:35:02+07:00",
+      "fetched": "2025-11-11T08:19:25.081537+07:00"
     },
     {
       "id": "b01a53d1de3e079055741b6882a30d00",
