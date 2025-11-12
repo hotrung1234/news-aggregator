@@ -1,7 +1,157 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T21:18:29.214566+07:00",
+  "lastUpdated": "2025-11-12T23:23:21.780945+07:00",
   "articles": [
+    {
+      "id": "cdf6cb1e05517f2549fe05ef67c0a3d8",
+      "title": "Thanh Thúy nhận quà sinh nhật đặc biệt từ làng bóng chuyền đỉnh cao",
+      "link": "https://tuoitre.vn/thanh-thuy-nhan-qua-sinh-nhat-dac-biet-tu-lang-bong-chuyen-dinh-cao-20251112193754045.htm",
+      "summary": "Trong ngày sinh nhật tuổi 28 (12-11), ngôi sao bóng chuyền Việt Nam nhận vô số lời tán dương từ cộng đồng bóng chuyền đỉnh cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.985388+07:00",
+      "fetched": "2025-11-12T23:23:13.985505+07:00"
+    },
+    {
+      "id": "1d62e5e2ad55b8001dbe149dd7d038a1",
+      "title": "Các KOL, KOC đánh giá sản phẩm sai sự thật có thể bị phạt và buộc cải chính",
+      "link": "https://tuoitre.vn/cac-kol-koc-danh-gia-san-pham-sai-su-that-co-the-bi-phat-va-buoc-cai-chinh-20251112162700817.htm",
+      "summary": "Từ ngày 1-1-2026 sẽ tăng trách nhiệm đối với các KOL, KOC khi tham gia quảng cáo, những đánh giá sản phẩm được gắn mác chia sẻ cá nhân trên mạng xã hội đều được coi là quảng cáo, nếu không đúng sự thật sẽ phải chịu trách nhiệm pháp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.985261+07:00",
+      "fetched": "2025-11-12T23:23:13.985377+07:00"
+    },
+    {
+      "id": "2d63831f2db9ccd63fb20a5f945ec564",
+      "title": "Phát Đạt muốn rút khỏi công ty nắm đất 'vàng' 3 mặt tiền ở Đà Nẵng, giá hơn nghìn tỉ",
+      "link": "https://tuoitre.vn/phat-dat-muon-rut-khoi-cong-ty-nam-dat-vang-3-mat-tien-o-da-nang-gia-hon-nghin-ti-20251112180751211.htm",
+      "summary": "Trong động thái mới nhất, Phát Đạt đã thông qua việc thoái sạch vốn tại doanh nghiệp làm chủ đầu tư dự án này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.985123+07:00",
+      "fetched": "2025-11-12T23:23:13.985249+07:00"
+    },
+    {
+      "id": "2de168e8b0eef56710de847409873b67",
+      "title": "Cà Mau sẽ xây cầu Ba Đình 470 tỉ đồng kết nối với An Giang",
+      "link": "https://tuoitre.vn/ca-mau-se-xay-cau-ba-dinh-470-ti-dong-ket-noi-voi-an-giang-20251112190430393.htm",
+      "summary": "UBND tỉnh Cà Mau đã ban hành quyết định phê duyệt chủ trương đầu tư dự án xây dựng cầu Ba Đình với tổng vốn hơn 470 tỉ đồng để kết nối tỉnh Cà Mau và An Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.985000+07:00",
+      "fetched": "2025-11-12T23:23:13.985112+07:00"
+    },
+    {
+      "id": "e1e9184aaaea1b07d6b166de6240fd1a",
+      "title": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh qua ảnh",
+      "link": "https://tuoitre.vn/hoc-tap-va-lam-theo-tu-tuong-dao-duc-phong-cach-ho-chi-minh-qua-anh-20251112193153403.htm",
+      "summary": "Mỗi bức ảnh là một câu chuyện được kể bằng ánh sáng, cảm xúc, và niềm tin vào những giá trị nhân văn mà Chủ tịch Hồ Chí Minh đã khơi dậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984872+07:00",
+      "fetched": "2025-11-12T23:23:13.984989+07:00"
+    },
+    {
+      "id": "51b3926efeac242a86ee253b6c2b3a4b",
+      "title": "Tuyển U22 Việt Nam gây sốc tại Trung Quốc, thắng chủ nhà 1-0",
+      "link": "https://tuoitre.vn/tuyen-u22-viet-nam-gay-soc-tai-trung-quoc-thang-chu-nha-1-0-20251112202627915.htm",
+      "summary": "Đội tuyển U22 Việt Nam đã thắng chủ nhà U22 Trung Quốc 1-0 ở trận ra quân Giải giao hữu quốc tế CFA Team China - Panda Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984746+07:00",
+      "fetched": "2025-11-12T23:23:13.984861+07:00"
+    },
+    {
+      "id": "449425fafbf2138f5740861c19b15efe",
+      "title": "Liên tục lạng lách, chống trả quyết liệt, nghi phạm trộm cắp mang 6 tiền án vẫn bị bắt",
+      "link": "https://tuoitre.vn/lien-tuc-lang-lach-chong-tra-quyet-liet-nghi-pham-trom-cap-mang-6-tien-an-van-bi-bat-20251112195256131.htm",
+      "summary": "Bị lực lượng công an truy đuổi, nghi phạm mang 6 tiền án liên tục lạng lách, chống trả quyết liệt nhưng vẫn bị bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984619+07:00",
+      "fetched": "2025-11-12T23:23:13.984734+07:00"
+    },
+    {
+      "id": "a1f96290873d4ce9e498b83e60e8f246",
+      "title": "Chủ tịch HĐND TP.HCM Võ Văn Minh: Phường Phú An cần mở rộng không gian phát triển",
+      "link": "https://tuoitre.vn/chu-tich-hdnd-tp-hcm-vo-van-minh-phuong-phu-an-can-mo-rong-khong-gian-phat-trien-20251112200400242.htm",
+      "summary": "Chủ trì tổ công tác của Ban Thường vụ Thành ủy TP.HCM giám sát tại phường Phú An, ông Võ Văn Minh đề nghị phường nghiên cứu các công trình kết nối để mở rộng không gian phát triển, hỗ trợ nhà đầu tư...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984483+07:00",
+      "fetched": "2025-11-12T23:23:13.984607+07:00"
+    },
+    {
+      "id": "0c92b054f20703d335463b35eb5e6b4c",
+      "title": "Sabrina Carpenter đóng chính trong Alice ở xứ sở thần tiên",
+      "link": "https://tuoitre.vn/sabrina-carpenter-dong-chinh-trong-alice-o-xu-so-than-tien-20251112200418744.htm",
+      "summary": "Sự kiện này đánh dấu vai chính đầu tiên của Sabrina Carpenter trong một tác phẩm điện ảnh lớn do Hollywood sản xuất, cho thấy tham vọng lấn sân sang điện ảnh của nàng thần tượng nhạc pop.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984346+07:00",
+      "fetched": "2025-11-12T23:23:13.984471+07:00"
+    },
+    {
+      "id": "4b72ecd4a53531792d3bf66ca52c622c",
+      "title": "Tiêu thụ ô tô tăng trở lại, đại lý tất bật tung chương trình bán xe dịp Tết",
+      "link": "https://tuoitre.vn/tieu-thu-o-to-tang-tro-lai-dai-ly-tat-bat-tung-chuong-trinh-ban-xe-dip-tet-20251112195538108.htm",
+      "summary": "Áp lực tồn kho và nhu cầu mua sắm tăng cao dịp Tết đang tạo ra cuộc đua giảm giá ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984199+07:00",
+      "fetched": "2025-11-12T23:23:13.984333+07:00"
+    },
+    {
+      "id": "b28b20e79419edb57ff456125109af24",
+      "title": "Thanh thiếu nhi TP.HCM gói ghém ân tình, gửi trao đồng bào tả tơi nơi tâm bão",
+      "link": "https://tuoitre.vn/thanh-thieu-nhi-tp-hcm-goi-ghem-an-tinh-gui-trao-dong-bao-ta-toi-noi-tam-bao-2025111220065083.htm",
+      "summary": "Ngày 12-11, vạn tấm lòng của đoàn viên thanh niên và thiếu nhi TP.HCM đã hòa vào những suất quà nghĩa tình gửi trao đến bà con thiệt hại nặng nơi tâm bão Kalmaegi tại Gia Lai, Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.984072+07:00",
+      "fetched": "2025-11-12T23:23:13.984187+07:00"
+    },
+    {
+      "id": "61d83cc858e316476f2d2c5eb01c6adf",
+      "title": "Diễn đàn Cấp cao về quan hệ kinh tế ASEAN - Ý sẽ diễn ra tại phường Bình Dương, TP.HCM",
+      "link": "https://tuoitre.vn/dien-dan-cap-cao-ve-quan-he-kinh-te-asean-y-se-dien-ra-tai-phuong-binh-duong-tp-hcm-20251112201749715.htm",
+      "summary": "Diễn đàn Cấp cao về quan hệ kinh tế ASEAN - Ý lần thứ 9 sẽ diễn ra tại Trung tâm Hội nghị và Triển lãm Bình Dương, phường Bình Dương, TP.HCM từ ngày 12 đến 14-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.983944+07:00",
+      "fetched": "2025-11-12T23:23:13.984060+07:00"
+    },
+    {
+      "id": "d19940c79c2e9f38d24f9f6d1de4f739",
+      "title": "Vợ tỉ phú Nguyễn Đăng Quang rời Hội đồng quản trị Vinacafé Biên Hòa sau hơn 12 năm",
+      "link": "https://tuoitre.vn/vo-ti-phu-nguyen-dang-quang-roi-hoi-dong-quan-tri-vinacafe-bien-hoa-sau-hon-12-nam-20251112183518748.htm",
+      "summary": "Bà Nguyễn Hoàng Yến rời vị trí thành viên Hội đồng quản trị Công ty cổ phần Vinacafé Biên Hòa sau hơn 12 năm gắn bó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.983809+07:00",
+      "fetched": "2025-11-12T23:23:13.983932+07:00"
+    },
+    {
+      "id": "667d1169a48bf8988cb0587c411158ca",
+      "title": "Quốc vương Jordan hội kiến các nhà lãnh đạo Việt Nam",
+      "link": "https://tuoitre.vn/quoc-vuong-jordan-hoi-kien-cac-nha-lanh-dao-viet-nam-20251112203927176.htm",
+      "summary": "Chiều 12-11, Quốc vương Jordan Abdullah II Ibn Al-Hussein đã hội kiến Tổng Bí thư Tô Lâm, Thủ tướng Phạm Minh Chính và Chủ tịch Quốc hội Trần Thanh Mẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.983662+07:00",
+      "fetched": "2025-11-12T23:23:13.983796+07:00"
+    },
+    {
+      "id": "ba06a6803457cb6a401083bcc6ecf915",
+      "title": "Jordan sẵn sàng hỗ trợ Việt Nam phát triển ngành Halal",
+      "link": "https://tuoitre.vn/jordan-san-sang-ho-tro-viet-nam-phat-trien-nganh-halal-20251112185746826.htm",
+      "summary": "Quốc vương Jordan khẳng định nước này sẵn sàng hỗ trợ Việt Nam phát triển ngành Halal, mở cửa thị trường cho các sản phẩm Halal từ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T23:23:13.983419+07:00",
+      "fetched": "2025-11-12T23:23:13.983646+07:00"
+    },
     {
       "id": "6a857782e500877ac6e05bf9fd02c1f1",
       "title": "Masan tham gia triển lãm 80 năm ngành nông nghiệp và môi trường",
@@ -193,6 +343,46 @@ window.newsData_2025_11_12 = {
       "fetched": "2025-11-12T17:19:51.987277+07:00"
     },
     {
+      "id": "cc15373e069d31ce0cfa9a9dfa384f7b",
+      "title": "Ông Trump kêu gọi Tổng thống Israel ân xá cho Thủ tướng Netanyahu",
+      "link": "https://thanhnien.vn/ong-trump-keu-goi-tong-thong-israel-an-xa-cho-thu-tuong-netanyahu-18525111222361013.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đề nghị Tổng thống Israel Isaac Herzog ân xá cho Thủ tướng Benjamin Netanyahu, người đang bị xét xử trong 3 vụ án tham nhũng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T16:00:00+07:00",
+      "fetched": "2025-11-12T23:23:12.949947+07:00"
+    },
+    {
+      "id": "5a66ac96e50e78362672fab819f97e79",
+      "title": "Ra mắt MV 'Thanh âm chiến thắng' chào đón SEA Games 33: Tôn vinh khát vọng ViệtNam",
+      "link": "https://thanhnien.vn/ra-mat-mv-thanh-am-chien-thang-chao-don-sea-games-33-ton-vinh-khat-vong-vietnam-185251112223622719.htm",
+      "summary": "Viewfinder Media và Vietcontent vừa ra mắt MV 'Thanh âm chiến thắng' tôn vinh tinh thần thể thao và khát vọng chinh phục đỉnh cao của Việt Nam hướng đến SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:44:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950117+07:00"
+    },
+    {
+      "id": "f89ae94310f713407085c123da7d1b07",
+      "title": "Thông tin về vụ hàng chục bệnh nhân nhiễm khuẩn hiếm gặp sau mổ nội soi",
+      "link": "https://thanhnien.vn/thong-tin-ve-vu-hang-chuc-benh-nhan-nhiem-khuan-hiem-gap-sau-mo-noi-soi-18525111221342801.htm",
+      "summary": "Khoảng 70 bệnh nhân được phát hiện bị nhiễm khuẩn sau khi mổ nội soi từ tháng 7 - 10 tại Bệnh viện đa khoa tỉnh Quảng Trị. Nguyên nhân được xác định do phòng mổ bị nhiễm một loại khuẩn hiếm gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:30:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950294+07:00"
+    },
+    {
+      "id": "b3d9349a1238627aa0c208285b99c0cf",
+      "title": "Điểm khác biệt giữa ôtô Nhật Bản và Trung Quốc",
+      "link": "https://vnexpress.net/diem-khac-biet-giua-oto-nhat-ban-va-trung-quoc-4963199.html",
+      "summary": "Theo các chuyên gia, Nhật Bản thiết kế xe với độ an toàn, gắn với người dùng ưu tiên cảm giác lái, các hãng Trung Quốc ưu tiên công nghệ và tính tiện nghi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:26:02+07:00",
+      "fetched": "2025-11-12T23:23:09.687973+07:00"
+    },
+    {
       "id": "0f53273ea3334d743f4ad7c1421bec63",
       "title": "Ô tô cũ không có đầu chờ, lắp thiết bị an toàn cho trẻ ra sao?",
       "link": "https://tuoitre.vn/o-to-cu-khong-co-dau-cho-lap-thiet-bi-an-toan-cho-tre-ra-sao-20251112135134002.htm",
@@ -341,6 +531,226 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T15:23:48.781545+07:00",
       "fetched": "2025-11-12T15:23:48.781765+07:00"
+    },
+    {
+      "id": "8920c8417fb6ed5711457eec675529bf",
+      "title": "Sinh viên ngoại ngữ không e ngại AI",
+      "link": "https://vnexpress.net/sinh-vien-ngoai-ngu-khong-e-ngai-ai-4963161.html",
+      "summary": "Nhiều sinh viên ngoại ngữ tự tin về khả năng tìm việc, dù nhiều người cho rằng ngành nghề này đang bị AI đe dọa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:18:39+07:00",
+      "fetched": "2025-11-12T23:23:09.688163+07:00"
+    },
+    {
+      "id": "b775ab16d1ca157a73f6f79727e5348a",
+      "title": "Geely EX5: xe điện hài hòa cho đô thị",
+      "link": "https://vnexpress.net/geely-ex5-xe-dien-hai-hoa-cho-do-thi-4963139.html",
+      "summary": "Mẫu xe Trung Quốc được đánh giá phù hợp với đi phố, êm ái, cảm giác lái ổn và thiết kế thực dụng, hướng tới người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:18:01+07:00",
+      "fetched": "2025-11-12T23:23:09.688355+07:00"
+    },
+    {
+      "id": "7416af438c8df67fd9ed2adf210af018",
+      "title": "BYD Sealion 6 và thế mạnh của động cơ hybrid",
+      "link": "https://vnexpress.net/byd-sealion-6-va-the-manh-cua-dong-co-hybrid-4963019.html",
+      "summary": "Mẫu xe Trung Quốc dùng công nghệ hybrid mới cho mức tiêu thụ dưới 4 lít/100 km, cùng một điểm cộng ở hệ giảm xóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:42+07:00",
+      "fetched": "2025-11-12T23:23:09.688520+07:00"
+    },
+    {
+      "id": "30dd019cb302362c839557338d52fd09",
+      "title": "Tỷ phú Phạm Nhật Vượng sẽ làm khu bến cảng, logistics hơn 4.300 ha ở Hải Phòng",
+      "link": "https://vnexpress.net/ty-phu-pham-nhat-vuong-se-lam-khu-ben-cang-logistics-hon-4-300-ha-o-hai-phong-4963244.html",
+      "summary": "Vingroup dự kiến đầu tư dự án khu bến cảng và trung tâm logistics Nam Đồ Sơn, quy mô hơn 4.300 ha, vốn gần 14,2 tỷ USD từ năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:15:46+07:00",
+      "fetched": "2025-11-12T23:23:09.688678+07:00"
+    },
+    {
+      "id": "cb2859b63479cc04a0fb50701b403167",
+      "title": "Đại tướng Nguyễn Trọng Nghĩa nhận bàn giao nhiệm vụ Chủ nhiệm Tổng cục Chính trị",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-trong-nghia-nhan-ban-giao-nhiem-vu-chu-nhiem-tong-cuc-chinh-tri-185251112213549244.htm",
+      "summary": "Ngày 12.11, tại Hà Nội, Tổng cục Chính trị Quân đội nhân dân (QĐND) Việt Nam tổ chức hội nghị bàn giao chức trách, nhiệm vụ Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam giữa đại tướng Nguyễn Trọng Nghĩa, Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam (người nhận bàn giao) và đại tướng Trịnh Văn Quyết, Trư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:10:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950460+07:00"
+    },
+    {
+      "id": "599a973a54b9fd94f6f2a3f4f0d72391",
+      "title": "Nâng cao hiệu quả hợp tác nghị viện Việt Nam - Jordan",
+      "link": "https://thanhnien.vn/nang-cao-hieu-qua-hop-tac-nghi-vien-viet-nam-jordan-185251112214327958.htm",
+      "summary": "Chiều 12.11, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội kiến Quốc vương Jordan Abdullah II Ibn Al Hussein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:02:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950612+07:00"
+    },
+    {
+      "id": "44747a47c533609910e05de11ec55270",
+      "title": "HLV Đinh Hồng Vinh khen U.23 Việt Nam quá bản lĩnh: Thắng U.23 Trung Quốc và còn hơn thế nữa…",
+      "link": "https://thanhnien.vn/hlv-dinh-hong-vinh-khen-u23-viet-nam-qua-ban-linh-thang-u23-trung-quoc-va-con-hon-the-nua-185251112215140411.htm",
+      "summary": "HLV tạm quyền Đinh Hồng Vinh rất hài lòng về màn trình diễn và kết quả thắng 1-0 trước chủ nhà U.23 Trung Quốc để tạo đà thuận lợi cho giải CFA Team China Panda Cup 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:57:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950765+07:00"
+    },
+    {
+      "id": "b437bfcf2f1246c69f7d31504693b483",
+      "title": "Thái Lan tuyên bố không đàm phán tiếp với Campuchia",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-khong-dam-phan-tiep-voi-campuchia-4963243.html",
+      "summary": "Thủ tướng Anutin tuyên bố Thái Lan sẽ không nối lại đàm phán hòa bình với Campuchia, cho hay không ngại sức ép thuế quan từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:54:54+07:00",
+      "fetched": "2025-11-12T23:23:09.688840+07:00"
+    },
+    {
+      "id": "b437bfcf2f1246c69f7d31504693b483",
+      "title": "Thái Lan tuyên bố không đàm phán tiếp với Campuchia",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-khong-dam-phan-tiep-voi-campuchia-4963243.html",
+      "summary": "Thủ tướng Anutin tuyên bố Thái Lan sẽ không nối lại đàm phán hòa bình với Campuchia, cho hay không ngại sức ép thuế quan từ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T14:54:54+07:00",
+      "fetched": "2025-11-12T23:23:15.430891+07:00"
+    },
+    {
+      "id": "98bb935ef6ec0f4d2157939239c895aa",
+      "title": "Đề nghị Jordan tăng cường hỗ trợ Việt Nam phát triển ngành Halal",
+      "link": "https://thanhnien.vn/de-nghi-jordan-tang-cuong-ho-tro-viet-nam-phat-trien-nganh-halal-185251112213131354.htm",
+      "summary": "Tại cuộc hội kiến Quốc vương Jordan Abdullah II Ibn Al Hussein, Thủ tướng Phạm Minh Chính đề nghị phía Jordan tăng cường hỗ trợ Việt Nam phát triển ngành Halal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:51:00+07:00",
+      "fetched": "2025-11-12T23:23:12.950915+07:00"
+    },
+    {
+      "id": "1e25b01f1d4b45bf72090d0a4ee7672d",
+      "title": "Subaru Forester thế hệ mới ra mắt khách Việt, giá từ 1,299 tỷ đồng",
+      "link": "https://vnexpress.net/subaru-forester-the-he-moi-ra-mat-khach-viet-gia-tu-1-299-ty-dong-4963202.html",
+      "summary": "Mẫu xe gầm cao hạng C nhập khẩu Nhật Bản, trang bị nhiều tính năng, bán hai phiên bản, giá cao nhất 1,399 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:47:25+07:00",
+      "fetched": "2025-11-12T23:23:09.689000+07:00"
+    },
+    {
+      "id": "8b36d6530b84f3ffc820dd59bfa2779e",
+      "title": "Hà Tĩnh: Khởi tố nam sinh lớp 11 đánh học sinh lớp 9 tử vong",
+      "link": "https://thanhnien.vn/ha-tinh-khoi-to-nam-sinh-lop-11-danh-hoc-sinh-lop-9-tu-vong-185251112212119943.htm",
+      "summary": "Do mâu thuẫn cá nhân, nam sinh lớp 11 đã dùng gậy gỗ đánh một học lớp 9 khiến nạn nhân bị thương nặng và tử vong sau thời gian điều trị tại bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:38:00+07:00",
+      "fetched": "2025-11-12T23:23:12.951064+07:00"
+    },
+    {
+      "id": "407a13bfe5bfc1539825c131d32cd751",
+      "title": "Quang Liêm lần đầu vào vòng 5 World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-lan-dau-vao-vong-5-world-cup-co-vua-4963241.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lê Quang Liêm cầm quân đen, thắng Karthik Venkataraman ở lượt về vòng bốn, để vào vòng 1/8 World Cup cờ vua 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:35:42+07:00",
+      "fetched": "2025-11-12T23:23:09.689159+07:00"
+    },
+    {
+      "id": "407a13bfe5bfc1539825c131d32cd751",
+      "title": "Quang Liêm lần đầu vào vòng 5 World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-lan-dau-vao-vong-5-world-cup-co-vua-4963241.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lê Quang Liêm cầm quân đen, thắng Karthik Venkataraman ở lượt về vòng bốn, để vào vòng 1/8 World Cup cờ vua 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T14:35:42+07:00",
+      "fetched": "2025-11-12T23:23:21.767158+07:00"
+    },
+    {
+      "id": "473e4100a99af755e277813323cd4846",
+      "title": "Phát hiện sản phẩm giảm cân giả mạo bản công bố",
+      "link": "https://vnexpress.net/phat-hien-san-pham-giam-can-gia-mao-ban-cong-bo-4963215.html",
+      "summary": "Bộ Y tế phát hiện sản phẩm Giảm cân 12kg MINAMI đang bán trên Shopee làm giả giấy phép, yêu cầu sàn thương mại điện tử này gỡ bỏ ngay lập tức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:33:06+07:00",
+      "fetched": "2025-11-12T23:23:09.689332+07:00"
+    },
+    {
+      "id": "27688c51cbd6860796f739abbe96e15a",
+      "title": "Lê Quang Liêm làm nên lịch sử ở World Cup cờ vua, nhận phần thưởng 'khủng'",
+      "link": "https://thanhnien.vn/le-quang-liem-lam-nen-lich-su-o-world-cup-co-vua-nhan-phan-thuong-khung-185251112210335067.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm đánh bại nhà đương kim vô địch Ấn Độ Venkataraman Karthik qua đó tạo cột mốc lịch sử lần đầu vào vòng 5 World Cup cờ vua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:33:00+07:00",
+      "fetched": "2025-11-12T23:23:12.951218+07:00"
+    },
+    {
+      "id": "e42cc0d137ce52845fcf023f874c7d63",
+      "title": "Kỳ tích ném ba điểm xuất hiện ở bóng rổ Việt Nam",
+      "link": "https://vnexpress.net/ky-tich-nem-ba-diem-xuat-hien-o-bong-ro-viet-nam-4963210.html",
+      "summary": "Võ Duy Phát (Đại học Tôn Đức Thắng) trở thành người đầu tiên trong lịch sử bóng rổ Việt Nam ném thành công 7 quả ba điểm trong một hiệp, ở cuối trận đấu với Đại học Kinh tế - Đại học Quốc gia Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:28:47+07:00",
+      "fetched": "2025-11-12T23:23:09.689492+07:00"
+    },
+    {
+      "id": "e42cc0d137ce52845fcf023f874c7d63",
+      "title": "Kỳ tích ném ba điểm xuất hiện ở bóng rổ Việt Nam",
+      "link": "https://vnexpress.net/ky-tich-nem-ba-diem-xuat-hien-o-bong-ro-viet-nam-4963210.html",
+      "summary": "Võ Duy Phát (Đại học Tôn Đức Thắng) trở thành người đầu tiên trong lịch sử bóng rổ Việt Nam ném thành công 7 quả ba điểm trong một hiệp, ở cuối trận đấu với Đại học Kinh tế - Đại học Quốc gia Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T14:28:47+07:00",
+      "fetched": "2025-11-12T23:23:21.767354+07:00"
+    },
+    {
+      "id": "f9d46c199e01d51c8a60ec78a2ced1eb",
+      "title": "Bộ Nội vụ: Không có cơ sở pháp lý cho hệ số lương đặc thù với giáo viên",
+      "link": "https://vnexpress.net/bo-noi-vu-khong-co-co-so-phap-ly-cho-he-so-luong-dac-thu-voi-giao-vien-4963220.html",
+      "summary": "Bộ Nội vụ cho rằng lương giáo viên đã cao nhất, đề xuất hệ số đặc thù của Bộ Giáo dục không có cơ sở pháp lý, có thể phá vỡ thiết kế hệ thống tiền lương hiện hành và gây ra bất hợp lý về thu nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:25:51+07:00",
+      "fetched": "2025-11-12T23:23:09.689644+07:00"
+    },
+    {
+      "id": "575c83b2b9447cf188a0d8c252f9ca1e",
+      "title": "Người hai năm chỉ mua 1 dãy số trúng Jackpot hơn 133 tỷ đồng",
+      "link": "https://vnexpress.net/nguoi-hai-nam-chi-mua-1-day-so-trung-jackpot-hon-133-ty-dong-4963240.html",
+      "summary": "Một khách hàng sống tại Khánh Hòa trúng Jackpot hơn 133 tỷ đồng nhờ hai năm qua chỉ mua vé theo dãy số ngày sinh và biển số xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:25:46+07:00",
+      "fetched": "2025-11-12T23:23:09.689794+07:00"
+    },
+    {
+      "id": "575c83b2b9447cf188a0d8c252f9ca1e",
+      "title": "Người hai năm chỉ mua 1 dãy số trúng Jackpot hơn 133 tỷ đồng",
+      "link": "https://vnexpress.net/nguoi-hai-nam-chi-mua-1-day-so-trung-jackpot-hon-133-ty-dong-4963240.html",
+      "summary": "Một khách hàng sống tại Khánh Hòa trúng Jackpot hơn 133 tỷ đồng nhờ hai năm qua chỉ mua vé theo dãy số ngày sinh và biển số xe máy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T14:25:46+07:00",
+      "fetched": "2025-11-12T23:23:16.414475+07:00"
+    },
+    {
+      "id": "ca93c84429b0d9db854d73fd75530864",
+      "title": "Nhất trí đưa quan hệ Việt Nam - Jordan bước sang một giai đoạn mới",
+      "link": "https://thanhnien.vn/nhat-tri-dua-quan-he-viet-nam-jordan-buoc-sang-mot-giai-doan-moi-185251112205336821.htm",
+      "summary": "Ngày 12.11, ngay sau lễ đón chính thức được tổ chức trọng thể tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã hội đàm với Quốc vương Jordan Abdullah II Ibn Al Hussein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T14:18:00+07:00",
+      "fetched": "2025-11-12T23:23:12.951393+07:00"
     },
     {
       "id": "8bd71dba383ce55412181f30067bfecb",
@@ -1291,6 +1701,16 @@ window.newsData_2025_11_12 = {
       "category": "Thể thao",
       "published": "2025-11-12T10:45:00+07:00",
       "fetched": "2025-11-12T19:36:34.402580+07:00"
+    },
+    {
+      "id": "2a980a63c7469ed1344d1109995f4560",
+      "title": "Việt Nam thắng Trung Quốc ở U22 Panda Cup",
+      "link": "https://vnexpress.net/u22-trung-quoc-u22-viet-nam-4963090-tong-thuat.html",
+      "summary": "Việt Nam hạ chủ nhà Trung Quốc 1-0 nhờ pha làm bàn gần cuối hiệp hai của Phạm Minh Phúc, trong trận ra quân giải giao hữu U22 Panda Cup, tối 12/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T10:45:00+07:00",
+      "fetched": "2025-11-12T23:23:21.767744+07:00"
     },
     {
       "id": "45c12ee058f4cfcc42034d6908dc434d",
