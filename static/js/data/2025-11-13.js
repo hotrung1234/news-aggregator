@@ -1,6 +1,6 @@
 window.newsData_2025_11_13 = {
   "date": "2025-11-13",
-  "lastUpdated": "2025-11-13T03:19:49.156819+07:00",
+  "lastUpdated": "2025-11-13T05:17:07.094406+07:00",
   "articles": [
     {
       "id": "d4df9595529a3096686665a543983d50",
@@ -171,6 +171,126 @@ window.newsData_2025_11_13 = {
       "category": "Tổng hợp",
       "published": "2025-11-13T01:24:50.526228+07:00",
       "fetched": "2025-11-13T01:24:50.526473+07:00"
+    },
+    {
+      "id": "5db2cf963110a0463e83cc1101af9fd5",
+      "title": "Ukraine gặp thế khó trên chiến trường",
+      "link": "https://thanhnien.vn/ukraine-gap-the-kho-tren-chien-truong-185251112223403798.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky thừa nhận tình hình chiến sự tại thành phố Pokrovsk và tỉnh Zaporizhzhia đang trở nên \"rất khó khăn\" khi Nga tăng cường các cuộc tấn công, theo Reuters ngày 12.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T22:15:00+07:00",
+      "fetched": "2025-11-13T05:16:59.537972+07:00"
+    },
+    {
+      "id": "bc6bf365d50ec94e74acc9468af4a8ab",
+      "title": "Truyền thông Trung Quốc: ‘Trọng tài thiên vị vẫn không thắng được Việt Nam’",
+      "link": "https://vnexpress.net/truyen-thong-trung-quoc-trong-tai-thien-vi-van-khong-thang-duoc-viet-nam-4963252.html",
+      "summary": "Sai lầm của Wang Shiqin và công tác trọng tài trở thành điểm nhấn sau khi Trung Quốc thua Việt Nam 0-1 ở lượt ra quân giải giao hữu U22 Panda Cup 2025, tối 12/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T22:00:38+07:00",
+      "fetched": "2025-11-13T05:17:07.089186+07:00"
+    },
+    {
+      "id": "a149a47fe1ce7c4f00fafbaa418cc8e9",
+      "title": "Caribbean dậy sóng giữa nguy cơ xung đột",
+      "link": "https://thanhnien.vn/caribbean-day-song-giua-nguy-co-xung-dot-185251112222527954.htm",
+      "summary": "Sự xuất hiện của tàu sân bay Mỹ tại khu vực Mỹ Latin đang thổi bùng nguy cơ xung đột khi Venezuela quyết định triển khai quân đội để đối phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T22:00:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538162+07:00"
+    },
+    {
+      "id": "b5ecc2759fa4569fe7ee0842465454da",
+      "title": "Cử tri gốc Latin dần quay lưng với ông Trump",
+      "link": "https://vnexpress.net/cu-tri-goc-latin-dan-quay-lung-voi-ong-trump-4962845.html",
+      "summary": "Cử tri gốc Latin, nhóm góp phần quan trọng giúp ông Trump đắc cử năm ngoái, tuần trước lại quay sang bỏ phiếu cho ứng viên Dân chủ trong loạt cuộc bầu cử địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T22:00:00+07:00",
+      "fetched": "2025-11-13T05:17:01.323775+07:00"
+    },
+    {
+      "id": "7f6f2539544533b8191f3d7f976c5ffc",
+      "title": "Kỳ thủ Việt Nam hứa hẹn tỏa sáng ở Đại hội thể thao trí tuệ châu Á",
+      "link": "https://thanhnien.vn/ky-thu-viet-nam-hua-hen-toa-sang-o-dai-hoi-the-thao-tri-tue-chau-a-185251112224315418.htm",
+      "summary": "Lại Lý Huynh (cờ tướng) cùng Lê Tuấn Minh (cờ vua) là 2 gương mặt sáng giá của đoàn thể thao VN tại Đại hội thể thao trí tuệ châu Á khởi tranh hôm nay 13.11 tại Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:41:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538319+07:00"
+    },
+    {
+      "id": "33232f129194b25763f9b8c3774cb768",
+      "title": "Giá rau củ ở TP.HCM tăng cao, tiểu thương nói ‘khổ cả người bán lẫn mua’",
+      "link": "https://thanhnien.vn/gia-rau-cu-o-tphcm-tang-cao-tieu-thuong-noi-kho-ca-nguoi-ban-lan-mua-185251112203610403.htm",
+      "summary": "Trong khoảng một tuần trở lại đây, nhiều chợ trên địa bàn TP.HCM đồng loạt ghi nhận giá rau củ tăng cao. Tiểu thương cho biết nguyên nhân chủ yếu đến từ việc mưa bão kéo dài kèm triều cường tại nhiều địa phương khiến nguồn cung bị ảnh hưởng, cây trồng bị ngập úng làm chất lượng hàng hóa giảm sút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:36:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538472+07:00"
+    },
+    {
+      "id": "6f46227222d849f94f233bf55f1b4ac1",
+      "title": "Chiến sự Ukraine ngày 1.358: Ukraine gặp khó, bị đánh bật khỏi nhiều làng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1358-ukraine-gap-kho-bi-danh-bat-khoi-nhieu-lang-185251112221009472.htm",
+      "summary": "Quân đội Ukraine thừa nhận đang gặp khó khăn tại thành phố Pokrovsk và tỉnh Zaporizhzhia, và phải rút khỏi nhiều vị trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:27:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538627+07:00"
+    },
+    {
+      "id": "6ffc0b36ffefda8deade81fe070e147d",
+      "title": "Hành chính không giấy tờ",
+      "link": "https://thanhnien.vn/hanh-chinh-khong-giay-to-185251112230523745.htm",
+      "summary": "Thủ tục sao y chứng thực từ lâu đã vô hình trói buộc người dân và doanh nghiệp trong một quy trình hành chính vừa tốn kém, vừa vô lý. Đó không chỉ là sự lãng phí tài nguyên mà còn là biểu hiện của thói quen thiếu niềm tin vào dữ liệu và công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:06:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538781+07:00"
+    },
+    {
+      "id": "95b06e2fff195e5a1b1d8ac98a9f4d7f",
+      "title": "Tập thể dục trước khi ăn sáng có giúp giảm cân, gây hại cho dạ dày?",
+      "link": "https://thanhnien.vn/tap-the-duc-truoc-khi-an-sang-giup-giam-can-hay-gay-hai-cho-da-day-185251112095117785.htm",
+      "summary": "Tập thể dục buổi sáng khi bụng đói đang trở thành thói quen của nhiều người muốn 'đốt mỡ nhanh' và giảm cân hiệu quả. Tuy nhiên có ý kiến cho rằng điều này có thể gây hại cho dạ dày?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:06:00+07:00",
+      "fetched": "2025-11-13T05:16:59.538932+07:00"
+    },
+    {
+      "id": "ebd7336c33c52e91c95cac315b9b9dea",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 13.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-13112025-185251112232345546.htm",
+      "summary": "Tin tức Phát huy sức mạnh đại đoàn kết toàn dân tộc để phát triển đất nước; CSGT mạnh tay phạt tài xế dùng điện thoại khi lái xe; Băng rừng gọi học trò về lại lớp... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 13.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:04:00+07:00",
+      "fetched": "2025-11-13T05:16:59.539108+07:00"
+    },
+    {
+      "id": "c78a657a5b6a545c4ca33e708ff70283",
+      "title": "Đèn giao thông có thể thêm màu trắng",
+      "link": "https://vnexpress.net/den-giao-thong-co-the-them-mau-trang-4961985.html",
+      "summary": "Các nhà nghiên cứu tại ĐH North Carolina đề xuất đèn thứ tư có màu trắng, đặc biệt dành cho xe tự lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:00:00+07:00",
+      "fetched": "2025-11-13T05:16:56.263525+07:00"
+    },
+    {
+      "id": "601f40ecd2f5c577df9a618c330bbf1b",
+      "title": "Những con tàu 'gãy cánh' sau bão Kalmaegi",
+      "link": "https://thanhnien.vn/nhung-con-tau-gay-canh-sau-bao-kalmaegi-185251112184717196.htm",
+      "summary": "Sau bão Kalmaegi, ở các làng chài ven biển Gia Lai, Đắk Lắk, tiếng sóng vỗ nghe như tiếng nấc. Những con tàu từng tung hoành khơi xa giờ nằm 'gãy cánh' bên bờ, còn ngư dân gượng dậy từ đống đổ nát, bắt đầu hành trình vươn khơi lần nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T21:00:00+07:00",
+      "fetched": "2025-11-13T05:16:59.539261+07:00"
     },
     {
       "id": "805a2e7df750e4721f89ec1bc0395fc8",
