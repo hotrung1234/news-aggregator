@@ -1,7 +1,147 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T05:16:57.772300+07:00",
+  "lastUpdated": "2025-11-12T08:19:00.549936+07:00",
   "articles": [
+    {
+      "id": "692cb1cfee32bd3222cce11f8ab1c50b",
+      "title": "Chung sống như vợ chồng thì tài sản chia thế nào?",
+      "link": "https://tuoitre.vn/chung-song-nhu-vo-chong-thi-tai-san-chia-the-nao-20251110233450629.htm",
+      "summary": "Đất tôi mua đứng tên bạn đời tôi. Chúng tôi không đăng ký kết hôn, chỉ chung sống như vợ chồng. Cô ấy đã qua đời, trước đó có sang tên đất cho người khác. Tôi có đòi được không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769731+07:00",
+      "fetched": "2025-11-12T08:18:50.769844+07:00"
+    },
+    {
+      "id": "77fc255262487e2a5dc28a3207eca0e7",
+      "title": "Tay vợt bóng bàn số 3 Trung Quốc thảm bại ngay tại sân nhà",
+      "link": "https://tuoitre.vn/tay-vot-bong-ban-so-3-trung-quoc-tham-bai-ngay-tai-san-nha-20251111234909851.htm",
+      "summary": "Liang Jingkun (Lương Tĩnh Côn) nhận thất bại choáng váng ngay ở vòng 32 tay vợt nội dung đơn nam môn bóng bàn, ở Đại hội Thể dục Thể thao Trung Quốc lần thứ 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769607+07:00",
+      "fetched": "2025-11-12T08:18:50.769719+07:00"
+    },
+    {
+      "id": "1e8f47168ab73e670fe1f2edf98d66cc",
+      "title": "Nhiễu động gây sấm sét ì đùng, mưa dông sáng sớm ở TP.HCM",
+      "link": "https://tuoitre.vn/nhieu-dong-gay-sam-set-i-dung-mua-dong-sang-som-o-tp-hcm-20251112063050465.htm",
+      "summary": "Rạng sáng đến sáng nay, sự tăng cường yếu của áp cao lục địa kết hợp với hội tụ gió yếu gây mưa dông kèm sấm chớp ì đùng ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769482+07:00",
+      "fetched": "2025-11-12T08:18:50.769596+07:00"
+    },
+    {
+      "id": "0f0d85dbb94cffaf9dde74029c332e4e",
+      "title": "Không khí lạnh tăng cường, bão Phượng Hoàng tiếp tục suy yếu",
+      "link": "https://tuoitre.vn/khong-khi-lanh-tang-cuong-bao-phuong-hoang-tiep-tuc-suy-yeu-20251112063053834.htm",
+      "summary": "Sáng 12-11, bão Phượng Hoàng (Fung Wong, bão số 14) tiếp tục suy yếu xuống cấp 9 do gặp không khí lạnh. Dự báo hôm nay, bão hướng về phía nam Đài Loan và suy yếu dần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769335+07:00",
+      "fetched": "2025-11-12T08:18:50.769470+07:00"
+    },
+    {
+      "id": "33ce32957ea08e732eee6f1a0811fa31",
+      "title": "Cuộc thi nam vương Manhunt Vietnam được tổ chức trở lại sau gần 20 năm",
+      "link": "https://tuoitre.vn/cuoc-thi-nam-vuong-manhunt-vietnam-duoc-to-chuc-tro-lai-sau-gan-20-nam-20251112023053909.htm",
+      "summary": "Lần đầu tiên cuộc thi nam vương Manhunt Vietnam được tổ chức năm 2006, đến nay, sau gần 20 năm, cuộc thi diễn ra mùa 2 để tìm kiếm đại diện thi Manhunt International 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769200+07:00",
+      "fetched": "2025-11-12T08:18:50.769323+07:00"
+    },
+    {
+      "id": "c2b802e23b55a0288c9e470477ba32ff",
+      "title": "Làng cờ tướng Trung Quốc tuyên bố 'phục thù' Lại Lý Huynh",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-tuyen-bo-phuc-thu-lai-ly-huynh-2025111200015793.htm",
+      "summary": "Làng cờ tướng Trung Quốc hăng hái kêu gọi những kỳ thủ mạnh nhất của mình hãy nỗ lực để \"phục thù\" kỳ thủ Việt Nam - Lại Lý Huynh tại Đại hội Thể thao Trí tuệ châu Á 2025 sắp diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.769076+07:00",
+      "fetched": "2025-11-12T08:18:50.769189+07:00"
+    },
+    {
+      "id": "0889af8e8ae736a2ee7b194f874eb07a",
+      "title": "Liên hoan Quốc tế Sân khấu thử nghiệm 2025 vẫn lo vắng khán giả",
+      "link": "https://tuoitre.vn/lien-hoan-quoc-te-san-khau-thu-nghiem-2025-van-lo-vang-khan-gia-20251111233349378.htm",
+      "summary": "Liên hoan Quốc tế Sân khấu thử nghiệm lần thứ VI, năm 2025 thu hút số đoàn tham gia đông nhất từ trước đến nay, lần đầu tiên được tổ chức ở 4 tỉnh, thành phố, nhưng vẫn lo vắng khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768948+07:00",
+      "fetched": "2025-11-12T08:18:50.769065+07:00"
+    },
+    {
+      "id": "0f7c508903b8eea7211af0d4ad4e78b9",
+      "title": "Phim concert của G-DRAGON thống trị phòng vé",
+      "link": "https://tuoitre.vn/phim-concert-cua-g-dragon-thong-tri-phong-ve-20251111172729324.htm",
+      "summary": "Ngày 11-11, phim concert G-DRAGON in cinema: Übermensch chính thức khởi chiếu, mang đến cơ hội cho khán giả Việt thưởng thức trọn vẹn sân khấu sống động của 'ông hoàng K-pop'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768813+07:00",
+      "fetched": "2025-11-12T08:18:50.768933+07:00"
+    },
+    {
+      "id": "f92d4737e4af1efc3c4acd600a3a3d22",
+      "title": "Lần đầu Siêu mẫu thể hình Việt Nam diễn bikini ở suối thác Vườn Địa Đàng",
+      "link": "https://tuoitre.vn/lan-dau-sieu-mau-the-hinh-viet-nam-dien-bikini-o-suoi-thac-vuon-dia-dang-20251112034528866.htm",
+      "summary": "Top 30 Siêu mẫu thể hình Việt Nam 2025 bước vào vòng chung kết diễn ra trong 5 ngày, từ 11 đến 15-11, tại Đà Lạt và Phan Thiết thuộc tỉnh Lâm Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768673+07:00",
+      "fetched": "2025-11-12T08:18:50.768801+07:00"
+    },
+    {
+      "id": "2a6d3dca84ad0c96a14537daa7c954f4",
+      "title": "Việt Nam đàm phán thuế đối ứng cấp bộ trưởng với Mỹ, lần thứ 8",
+      "link": "https://tuoitre.vn/viet-nam-dam-phan-thue-doi-ung-cap-bo-truong-voi-my-lan-thu-8-2025111206472482.htm",
+      "summary": "Đây là phiên đàm phán trực tiếp cấp Bộ trưởng lần thứ 8 giữa hai nước, diễn ra ngay trước phiên đàm phán cấp kỹ thuật chính thức sẽ diễn ra từ ngày 12 đến 14-11 tại thủ đô của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768515+07:00",
+      "fetched": "2025-11-12T08:18:50.768653+07:00"
+    },
+    {
+      "id": "ecc9d5f35758025e6c55b01774172a95",
+      "title": "'Những thiên hình vạn trạng' của lọng bướm dưới bàn tay nghệ sĩ trẻ",
+      "link": "https://tuoitre.vn/nhung-thien-hinh-van-trang-cua-long-buom-duoi-ban-tay-nghe-si-tre-20251112000659291.htm",
+      "summary": "Tại triển lãm Những thiên hình vạn trạng, ba nghệ sĩ trẻ Khoa Phùng, Lâm Ơi và Nghiêu Thiên cùng nhau kể lại câu chuyện của chiếc lọng bướm xưa bằng ngôn ngữ của người trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768364+07:00",
+      "fetched": "2025-11-12T08:18:50.768502+07:00"
+    },
+    {
+      "id": "089b66496d2d12377a64c078624bc81a",
+      "title": "Vụ trụ cầu sông Lô trơ lõi thép: Đoàn khảo sát của Quốc hội đến hiện trường xem xét",
+      "link": "https://tuoitre.vn/vu-tru-cau-song-lo-tro-loi-thep-doan-khao-sat-cua-quoc-hoi-den-hien-truong-xem-xet-2025111207011614.htm",
+      "summary": "Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội Nguyễn Thanh Hải cho rằng sự cố của cầu sông Lô (xã Đoan Hùng, Phú Thọ) đã bộc lộ rõ một số bất cập trong thi công, hậu kiểm công trình xây dựng liên quan đến Luật Xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768223+07:00",
+      "fetched": "2025-11-12T08:18:50.768353+07:00"
+    },
+    {
+      "id": "0c66bab8d05ed95f8cc64726be71b362",
+      "title": "Tin tức thế giới 12-11: Tàu sân bay Mỹ đến gần Venezuela; Nga đánh Pokrovsk như trên phim Hollywood",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-12-11-tau-san-bay-my-den-gan-venezuela-nga-danh-pokrovsk-nhu-tren-phim-hollywood-20251112070350706.htm",
+      "summary": "Cộng sự cũ của Tổng thống Ukraine bị điều tra liên quan vụ hối lộ trị giá 100 triệu USD; Máy bay vận tải lớn của Thổ Nhĩ Kỳ rơi tại Gruzia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.768082+07:00",
+      "fetched": "2025-11-12T08:18:50.768211+07:00"
+    },
+    {
+      "id": "e4c74c1d57fd99fa973bb39f08de94c4",
+      "title": "Bố con Phương Oanh và Đức Khuê trong Gió ngang khoảng trời xanh khiến khán giả xót xa",
+      "link": "https://tuoitre.vn/bo-con-phuong-oanh-va-duc-khue-trong-gio-ngang-khoang-troi-xanh-khien-khan-gia-xot-xa-20251112003337747.htm",
+      "summary": "Cảnh Mỹ Anh gục vào vai bố khóc nức nở trong Gió ngang khoảng trời xanh khiến khán giả không khỏi xót xa. Cha luôn là chỗ dựa, chốn bình yên cho con gái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:18:50.767850+07:00",
+      "fetched": "2025-11-12T08:18:50.768067+07:00"
+    },
     {
       "id": "337d8b1df8e1841eea5832e24c49f6cf",
       "title": "Gần 100 cảnh sát mật phục cả đêm, triệt phá đường dây cát tặc lớn trên sông Trà Khúc",
@@ -211,6 +351,416 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T01:24:10.497601+07:00",
       "fetched": "2025-11-12T01:24:10.497817+07:00"
+    },
+    {
+      "id": "052f6f05f28e5e57903fb6f6de819dd3",
+      "title": "Trường học tạm đóng cửa vì hơn 160 học sinh nhiễm cúm A",
+      "link": "https://thanhnien.vn/truong-hoc-tam-dong-cua-vi-hon-160-hoc-sinh-nhiem-cum-a-185251112072952207.htm",
+      "summary": "Một trường học ở Nghệ An phải tạm thời đóng cửa để khử khuẩn vì có hơn 160 học sinh bị nhiễm cúm A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:14:00+07:00",
+      "fetched": "2025-11-12T08:18:49.165765+07:00"
+    },
+    {
+      "id": "02d40ffbf182d886781abbcc84668355",
+      "title": "Ra mắt sách của cố Tổng Bí thư Nguyễn Phú Trọng về \nxây dựng lực lượng CAND",
+      "link": "https://thanhnien.vn/ra-mat-sach-cua-co-tong-bi-thu-nguyen-phu-trong-ve-xay-dung-luc-luong-cand-185251111230158536.htm",
+      "summary": "Chiều 11.11, Bộ Công an phối hợp Ban Tuyên giáo và Dân vận T.Ư, Nhà xuất bản Chính trị quốc gia Sự thật tổ chức lễ ra mắt cuốn sách Xây dựng lực lượng Công an nhân dân thực sự trong sạch, vững mạnh, vì nước quên thân, vì dân phục vụ của cố Tổng Bí thư Nguyễn Phú Trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:08:00+07:00",
+      "fetched": "2025-11-12T08:18:49.165929+07:00"
+    },
+    {
+      "id": "f6e80f1585fbaec1d2a666538b0d266f",
+      "title": "Bác sĩ: Dấu hiệu nhận biết pate không an toàn, dễ gây ngộ độc",
+      "link": "https://thanhnien.vn/bac-si-dau-hieu-nhan-biet-pate-khong-an-toan-de-gay-ngo-doc-18525111117252232.htm",
+      "summary": "Pate là thực phẩm phổ biến, thường được làm từ gan động vật kết hợp với thịt xay, bơ, sữa, gia vị và đôi khi có thêm rượu vang. Nhờ kết cấu mềm mịn, hương vị béo ngậy, pate thường được dùng kèm bánh mì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:07:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166085+07:00"
+    },
+    {
+      "id": "9497d7e5b84b0651b259f78ae165af57",
+      "title": "Diễn viên Thanh Hiền kết hôn lần 2",
+      "link": "https://thanhnien.vn/dien-vien-thanh-hien-ket-hon-lan-2-185251111151446722.htm",
+      "summary": "Sau một lần đổ vỡ, Thanh Hiền tìm được hạnh phúc mới. Cô vừa chia sẻ hình ảnh cùng người yêu đăng ký kết hôn, nhận được lời chúc phúc từ bạn bè, đồng nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:05:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166237+07:00"
+    },
+    {
+      "id": "efb1c204196b5b7dcfeb6bbc99e5f35a",
+      "title": "Vali LUG ưu đãi sâu dịp Black Friday",
+      "link": "https://vnexpress.net/vali-lug-uu-dai-sau-dip-black-friday-4962250.html",
+      "summary": "Hàng trăm mẫu vali thương hiệu quốc tế đồng loạt giảm giá sâu, với mức ưu đãi lên đến 70% tại hệ thống bán lẻ hành lý LUG.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:38+07:00",
+      "fetched": "2025-11-12T08:18:45.718353+07:00"
+    },
+    {
+      "id": "eea847e6c9f0faf2be491a9635aa02c9",
+      "title": "Cả nhà tá hỏa khi xem gián đánh với thằn lằn",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ca-nha-ta-hoa-khi-xem-gian-danh-voi-than-lan-4962232.html",
+      "summary": "Đang say sưa theo dõi cuộc chiến giữa gián và thằn lằn thì cả nhà được phen tá hỏa khi con gián bất ngờ tung cánh bay xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.718552+07:00"
+    },
+    {
+      "id": "c8e1f921855bbb3e451c53f6961a82bd",
+      "title": "Phẫu thuật bằng robot chặn ung thư phổi",
+      "link": "https://vnexpress.net/phau-thuat-bang-robot-chan-ung-thu-phoi-4962827.html",
+      "summary": "Chị Vân, 41 tuổi, tầm soát phát hiện nốt mờ ở phổi rất nhỏ, được bác sĩ phẫu thuật bằng robot chặn ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.718730+07:00"
+    },
+    {
+      "id": "3d2b353b99e3a7eb57e4148eee473583",
+      "title": "SATRA 'xanh hóa' quản trị - sản phẩm - cộng đồng",
+      "link": "https://vnexpress.net/satra-xanh-hoa-quan-tri-san-pham-cong-dong-4962800.html",
+      "summary": "SATRA triển khai nhiều hoạt động hướng tới nền kinh tế xanh, đặc biệt tập trung \"xanh hóa\" ba lĩnh vực chính: quản trị - sản phẩm - cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.718889+07:00"
+    },
+    {
+      "id": "b10d64c04fc3db754d366012da470064",
+      "title": "Cozy tặng vàng SJC tri ân người tiêu dùng",
+      "link": "https://vnexpress.net/cozy-tang-vang-sjc-tri-an-nguoi-tieu-dung-4962741.html",
+      "summary": "Người tiêu dùng có cơ hội trúng chỉ vàng SJC 9999 khi tham gia chương trình \"Cozy nhãn vàng - Lộc vàng may mắn\", từ nay đến hết năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.719042+07:00"
+    },
+    {
+      "id": "c11be0b315ee21d18693bfc68c4889c2",
+      "title": "Chủ xe Yaris Cross HEV: xe đẹp, dễ lái và chi phí sử dụng thấp",
+      "link": "https://vnexpress.net/chu-xe-yaris-cross-hev-xe-dep-de-lai-va-chi-phi-su-dung-thap-4962726.html",
+      "summary": "Sau gần hai năm sở hữu, Thùy Trang đánh giá cao chiếc crossover xăng lai điện ở khả năng tiết kiệm nhiên liệu, nhỏ gọn dễ lái nhưng muốn cải thiện khả năng cách âm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.719211+07:00"
+    },
+    {
+      "id": "5a971ce6503bf58db8986e37497d3b10",
+      "title": "Tại sao đau khớp nặng hơn khi dùng điều hòa?",
+      "link": "https://vnexpress.net/tai-sao-dau-khop-nang-hon-khi-dung-dieu-hoa-4962606.html",
+      "summary": "Thay đổi nhiệt độ, độ ẩm khi nằm điều hòa cùng tần suất vận động có thể ảnh hưởng đến dịch khớp, sụn, lưu thông máu khiến đau nhức xương khớp nặng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.719363+07:00"
+    },
+    {
+      "id": "e4c661287c59bd319fa8ccc4a8d53bbe",
+      "title": "Nhà đầu tư hưởng lợi từ chính sách 'hai nguồn thu' tại Gem Park",
+      "link": "https://vnexpress.net/nha-dau-tu-huong-loi-tu-chinh-sach-hai-nguon-thu-tai-gem-park-4962121.html",
+      "summary": "Chủ đầu tư N.H.O triển khai chính sách \"một căn hộ - hai nguồn thu\" tại Gem Park, hướng đến hai mục tiêu an cư chất lượng cao và tối ưu dòng tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.719579+07:00"
+    },
+    {
+      "id": "271bb3b902bbb16d44376d3134e25590",
+      "title": "Trịnh Thảo nói gì khi tái xuất màn ảnh cùng Thái Hoà?",
+      "link": "https://thanhnien.vn/trinh-thao-noi-gi-khi-tai-xuat-man-anh-cung-thai-hoa-185251111194954936.htm",
+      "summary": "Từng để lại dấu ấn với vai diễn Phúc trong 'Cây táo nở hoa', Trịnh Thảo trở lại màn ảnh nhỏ trong 'Cuộc chiến hạ lưu', lần này hợp tác cùng “ba” Thái Hòa. Ở lần tái ngộ này, cô chia sẻ nhiều khoảnh khắc thú vị và ấm áp khi gặp lại người bố trên màn ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166406+07:00"
+    },
+    {
+      "id": "42d884a4cebfb1d19d6e689dd1bc759f",
+      "title": "Trẻ hóa và cải thiện bệnh lý da bằng công nghệ Laser hiện đại",
+      "link": "https://thanhnien.vn/tre-hoa-va-cai-thien-benh-ly-da-bang-cong-nghe-laser-hien-dai-185251111184009262.htm",
+      "summary": "Công nghệ laser đang được xem là \"chìa khóa vàng\" giúp trẻ hóa làn da. Tuy nhiên, mỗi loại laser có cơ chế tác động khác nhau và cần lựa chọn phù hợp với tình trạng da để đạt kết quả tối ưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166571+07:00"
+    },
+    {
+      "id": "509b69046942a1ed597192ba18a3b17a",
+      "title": "Trúng vàng mỗi ngày cùng Vikki Bank - Ngân hàng Tiết kiệm Tốt bậc nhất",
+      "link": "https://thanhnien.vn/trung-vang-moi-ngay-cung-vikki-bank-ngan-hang-tiet-kiem-tot-bac-nhat-185251111174608637.htm",
+      "summary": "Ngân hàng Số Vikki Bank chính thức khởi động chương trình \"Tiết kiệm Vikki - Trúng vàng ký\", chương trình tiết kiệm dự thưởng lớn nhất trong năm của Vikki Bank với giải thưởng đặc biệt lên tới 10 lượng vàng dành cho khách hàng may mắn nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166727+07:00"
+    },
+    {
+      "id": "e92229163aa58b1e957f1393533e9b1b",
+      "title": "BM Windows - Dấu ấn Việt Nam giữa diễn đàn kiến trúc mặt dựng toàn cầu tại",
+      "link": "https://thanhnien.vn/bm-windows-dau-an-viet-nam-giua-dien-dan-kien-truc-mat-dung-toan-cau-tai-185251111163506288.htm",
+      "summary": "Từ một nhà thầu mặt dựng nhôm kính của Việt Nam, BM Windows đã bước lên sân khấu Zak World of Façades London 2025 với vai trò diễn giả, sánh vai cùng những tên tuổi hàng đầu thế giới trong ngành kiến trúc và xây dựng. Sự hiện diện ấy không chỉ thể hiện bản lĩnh kỹ sư Việt Nam, mà còn khẳng định vị t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:49.166881+07:00"
+    },
+    {
+      "id": "d47451532324cd07db1cb71ac684818b",
+      "title": "Trở nên thời thượng chỉ với một chiếc váy trắng, đen",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tro-nen-thoi-thuong-chi-voi-mot-chiec-vay-trang-den-18525110708453603.htm",
+      "summary": "Nàng chỉ cần một chiếc váy trắng hoặc một chiếc váy đen để trở nên thời thượng, tinh tế, thanh lịch và thướt tha trong mọi dịp cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T01:00:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167028+07:00"
+    },
+    {
+      "id": "f5042b8fce855e32df71251734b50cdd",
+      "title": "Man City đang khôi phục địa vị",
+      "link": "https://thanhnien.vn/man-city-dang-khoi-phuc-dia-vi-18525111122263271.htm",
+      "summary": "Bóng đá tầm CLB đã bước vào đợt nghỉ cuối cùng trong năm, nhường sân cho FIFA Days. Sau đợt nghỉ này sẽ là giai đoạn tăng tốc ở giải Ngoại hạng. Manchester City đã kịp khôi phục phong độ tốt nhất trước giai đoạn quan trọng ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:59:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167184+07:00"
+    },
+    {
+      "id": "9369d83a1bf0ea40b9213d665470191e",
+      "title": "Không để người dân mất thêm chi phí khi tiếp cận nhà ở xã hội",
+      "link": "https://thanhnien.vn/khong-de-nguoi-dan-mat-them-chi-phi-khi-tiep-can-nha-o-xa-hoi-185251111225800816.htm",
+      "summary": "Sáng 11.11, Thủ tướng Chính phủ Phạm Minh Chính, Trưởng ban Chỉ đạo T.Ư về chính sách nhà ở và thị trường bất động sản, chủ trì phiên họp thứ 3 của Ban Chỉ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:58:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167331+07:00"
+    },
+    {
+      "id": "9f330a516745019657a52248bd7b66af",
+      "title": "Công tố viên đề nghị 2.000 năm tù cho thị trưởng Istanbul",
+      "link": "https://thanhnien.vn/cong-to-vien-de-nghi-2000-nam-tu-cho-thi-truong-istanbul-185251111214727771.htm",
+      "summary": "Một công tố viên Thổ Nhĩ Kỳ đã đề nghị mức án tù hơn 2.000 năm đối với Thị trưởng Istanbul Ekrem Imamoglu về cáo buộc cầm đầu một mạng lưới tham nhũng quy mô lớn, theo bản cáo trạng được công bố ngày 11.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:57:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167509+07:00"
+    },
+    {
+      "id": "2d2674b8acf2e32f964217b91df4873e",
+      "title": "Apple bán túi đựng iPhone giá 230 USD",
+      "link": "https://vnexpress.net/apple-ban-tui-dung-iphone-gia-230-usd-4962791.html",
+      "summary": "iPhone Pocket là sản phẩm hợp tác giữa Apple và Issey Miyake, sử dụng công nghệ dệt kim 3D với khả năng co giãn để vừa mọi mẫu iPhone.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:55:01+07:00",
+      "fetched": "2025-11-12T08:18:45.719753+07:00"
+    },
+    {
+      "id": "2d2674b8acf2e32f964217b91df4873e",
+      "title": "Apple bán túi đựng iPhone giá 230 USD",
+      "link": "https://vnexpress.net/apple-ban-tui-dung-iphone-gia-230-usd-4962791.html",
+      "summary": "iPhone Pocket là sản phẩm hợp tác giữa Apple và Issey Miyake, sử dụng công nghệ dệt kim 3D với khả năng co giãn để vừa mọi mẫu iPhone.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T00:55:01+07:00",
+      "fetched": "2025-11-12T08:18:58.551422+07:00"
+    },
+    {
+      "id": "83658008eb4f5bc217663d50b13ba088",
+      "title": "Nga tố tình báo Ukraine, Anh âm mưu mua chuộc phi công, cướp tiêm kích MiG-31",
+      "link": "https://thanhnien.vn/nga-to-tinh-bao-ukraine-anh-am-muu-mua-chuoc-phi-cong-cuop-tiem-kich-mig-31-185251112000803486.htm",
+      "summary": "Cơ quan An ninh liên bang (FSB) của Nga ngày 11.11 thông báo đã ngăn chặn thành công một chiến dịch của tình báo quân sự Ukraine và các đặc vụ Anh nhằm cướp một chiếc MiG-31 của Nga được trang bị tên lửa Kinzhal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:55:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167674+07:00"
+    },
+    {
+      "id": "d20ea2bab0367149d922770a5025b0d3",
+      "title": "Ông Trump tuyên bố 'chiến thắng rất lớn' trước phe Dân chủ",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-chien-thang-rat-lon-truoc-phe-dan-chu-185251112074042805.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố chiến thắng, trong bối cảnh Hạ viện do đảng Cộng hòa kiểm soát dự kiến thông qua dự luật chi tiêu sau nhiều tuần chính phủ đóng cửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:52:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167824+07:00"
+    },
+    {
+      "id": "649af28281ad0f44d3ff9e6d922c640b",
+      "title": "Cựu thị trưởng Istanbul đối mặt án tù hơn 2.400 năm",
+      "link": "https://vnexpress.net/cuu-thi-truong-istanbul-doi-mat-an-tu-hon-2-400-nam-4962831.html",
+      "summary": "Cựu thị trưởng Imamoglu bị cáo buộc cầm đầu mạng lưới tham nhũng, đối mặt với án tù tối đa 2.430 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:51:39+07:00",
+      "fetched": "2025-11-12T08:18:45.719917+07:00"
+    },
+    {
+      "id": "649af28281ad0f44d3ff9e6d922c640b",
+      "title": "Cựu thị trưởng Istanbul đối mặt án tù hơn 2.400 năm",
+      "link": "https://vnexpress.net/cuu-thi-truong-istanbul-doi-mat-an-tu-hon-2-400-nam-4962831.html",
+      "summary": "Cựu thị trưởng Imamoglu bị cáo buộc cầm đầu mạng lưới tham nhũng, đối mặt với án tù tối đa 2.430 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T00:51:39+07:00",
+      "fetched": "2025-11-12T08:18:52.839128+07:00"
+    },
+    {
+      "id": "c9d4771f5521a8974617c33f52dcc201",
+      "title": "Trao tặng hàng trăm phần quà cho học sinh nghèo và người dân khó khăn",
+      "link": "https://thanhnien.vn/trao-tang-hang-tram-phan-qua-cho-hoc-sinh-ngheo-va-nguoi-dan-kho-khan-185251111173940586.htm",
+      "summary": "150 học sinh nghèo và 200 hộ dân có hoàn cảnh khó khăn tại TP.Cần Thơ và tỉnh Vĩnh Long vừa được trao tặng xe đạp, tiền mặt và hàng hóa với tổng trị giá gần 500 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:51:00+07:00",
+      "fetched": "2025-11-12T08:18:49.167972+07:00"
+    },
+    {
+      "id": "207b5835687de4dbf8751ff09ad78c2e",
+      "title": "50 công nhân tại TP HCM nghi ngộ độc sau bữa ăn trưa",
+      "link": "https://vnexpress.net/50-cong-nhan-tai-tp-hcm-nghi-ngo-doc-sau-bua-an-trua-4962833.html",
+      "summary": "Khoảng 50 công nhân Công ty Cổ phần Eternal Prowess Việt Nam, phường Đông Hưng Thuận, TP HCM, buồn nôn, đau bụng, đỏ ngứa da mặt sau bữa ăn trưa, vào các bệnh viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:43:37+07:00",
+      "fetched": "2025-11-12T08:18:45.720074+07:00"
+    },
+    {
+      "id": "65dc6a87c502dbe4ef4ee45783ea9a8f",
+      "title": "Ông Trump: Đảng Cộng hòa thắng lớn với dự luật ngân sách chính phủ",
+      "link": "https://vnexpress.net/ong-trump-dang-cong-hoa-thang-lon-voi-du-luat-ngan-sach-chinh-phu-4962822.html",
+      "summary": "Ông Trump nói phe Cộng hòa thắng lớn khi Thượng viện Mỹ duyệt dự luật ngân sách chính phủ, trong đó 8 nghị sĩ Dân chủ bỏ phiếu ủng hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:28:27+07:00",
+      "fetched": "2025-11-12T08:18:45.720231+07:00"
+    },
+    {
+      "id": "65dc6a87c502dbe4ef4ee45783ea9a8f",
+      "title": "Ông Trump: Đảng Cộng hòa thắng lớn với dự luật ngân sách chính phủ",
+      "link": "https://vnexpress.net/ong-trump-dang-cong-hoa-thang-lon-voi-du-luat-ngan-sach-chinh-phu-4962822.html",
+      "summary": "Ông Trump nói phe Cộng hòa thắng lớn khi Thượng viện Mỹ duyệt dự luật ngân sách chính phủ, trong đó 8 nghị sĩ Dân chủ bỏ phiếu ủng hộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T00:28:27+07:00",
+      "fetched": "2025-11-12T08:18:52.839300+07:00"
+    },
+    {
+      "id": "5bf0687437a60b350fb6f061eeb6040a",
+      "title": "'Kiểm soát món ngon khó cưỡng để ngăn học sinh béo phì, tiểu đường'",
+      "link": "https://vnexpress.net/kiem-soat-mon-ngon-kho-cuong-de-ngan-hoc-sinh-beo-phi-tieu-duong-4962832.html",
+      "summary": "Đại biểu Phạm Trọng Nhân cho rằng cần lập \"vùng an toàn dinh dưỡng học đường\" để kiểm soát thực phẩm siêu chế biến, giúp học sinh phòng béo phì, tiểu đường và hình thành thói quen ăn uống lành mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:15:00+07:00",
+      "fetched": "2025-11-12T08:18:45.720381+07:00"
+    },
+    {
+      "id": "d205e66498bcc22cc72243d913b85f53",
+      "title": "Siêu tàu sân bay Mỹ bắt đầu nhiệm vụ chống băng đảng ma túy",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-bat-dau-nhiem-vu-chong-bang-dang-ma-tuy-4962823.html",
+      "summary": "Nhóm tàu sân bay Ford hội quân với lực lượng Mỹ triển khai tại biển Caribe, tham gia chiến dịch chống ma túy ở Mỹ Latin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:06:34+07:00",
+      "fetched": "2025-11-12T08:18:45.720555+07:00"
+    },
+    {
+      "id": "d205e66498bcc22cc72243d913b85f53",
+      "title": "Siêu tàu sân bay Mỹ bắt đầu nhiệm vụ chống băng đảng ma túy",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-bat-dau-nhiem-vu-chong-bang-dang-ma-tuy-4962823.html",
+      "summary": "Nhóm tàu sân bay Ford hội quân với lực lượng Mỹ triển khai tại biển Caribe, tham gia chiến dịch chống ma túy ở Mỹ Latin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T00:06:34+07:00",
+      "fetched": "2025-11-12T08:18:52.839480+07:00"
+    },
+    {
+      "id": "ac45becb7b7bd4f184985e9d9b8a5a93",
+      "title": "Làm gì khi có dấu hiệu ngộ độc thực phẩm?",
+      "link": "https://vnexpress.net/lam-gi-khi-co-dau-hieu-ngo-doc-thuc-pham-4962613.html",
+      "summary": "Khi có dấu hiệu ngộ độc, việc đầu tiên là ngưng sử dụng thực phẩm nghi ngờ, bù nước và điện giải, tuyệt đối không dùng thuốc cầm tiêu chảy hoặc kháng sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T00:00:00+07:00",
+      "fetched": "2025-11-12T08:18:45.720714+07:00"
+    },
+    {
+      "id": "8cc414bb827080a0e64420e3a00e4efb",
+      "title": "Đồng minh của ông Zelensky bị cáo buộc liên quan vụ tham nhũng 100 triệu USD",
+      "link": "https://vnexpress.net/dong-minh-cua-ong-zelensky-bi-cao-buoc-lien-quan-vu-tham-nhung-100-trieu-usd-4962819.html",
+      "summary": "Các nhà điều tra Ukraine cáo buộc Mindich, đồng minh chủ chốt của ông Zelensky, lợi dụng quan hệ với Tổng thống để âm mưu tham nhũng 100 triệu USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T23:37:30+07:00",
+      "fetched": "2025-11-12T08:18:52.839643+07:00"
+    },
+    {
+      "id": "e48e13fb21c1804c0ad986eba1d22432",
+      "title": "Messi: 'Tôi không muốn là gánh nặng ở World Cup 2026'",
+      "link": "https://vnexpress.net/messi-toi-khong-muon-la-ganh-nang-o-world-cup-2026-4962806.html",
+      "summary": "Trong cuộc phỏng vấn với Diario Sport, Lionel Messi chia sẻ nhiều cảm xúc về thời gian ở Barcelona, cuộc sống tại Mỹ và tương lai cùng đội tuyển Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:25:21+07:00",
+      "fetched": "2025-11-12T08:19:00.543681+07:00"
+    },
+    {
+      "id": "b88d901e0e87d2672c3f39e60d487b70",
+      "title": "Djokovic muốn thi đấu đến 41 tuổi",
+      "link": "https://vnexpress.net/djokovic-muon-thi-dau-den-41-tuoi-4962812.html",
+      "summary": "Novak Djokovic lên kế hoạch giải nghệ sau khi kết thúc Olympic 2028 ở Los Angeles, Mỹ, lúc anh qua tuổi 41.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:23:19+07:00",
+      "fetched": "2025-11-12T08:19:00.544015+07:00"
+    },
+    {
+      "id": "5ae44e7679b93bb91b6115d1f803f67c",
+      "title": "Võ sĩ năn nỉ UFC trả thưởng để chăm mẹ",
+      "link": "https://vnexpress.net/vo-si-nan-ni-ufc-tra-thuong-de-cham-me-4962815.html",
+      "summary": "Võ sĩ Mỹ Chris Padilla gây xúc động khi xin khoản thưởng 50.000 USD tại sự kiện UFC Vegas 111, nhưng không được đáp ứng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:19:57+07:00",
+      "fetched": "2025-11-12T08:19:00.544171+07:00"
+    },
+    {
+      "id": "1b4785131985ea96407363be4542ba27",
+      "title": "Kình ngư 13 tuổi Trung Quốc phá kỷ lục châu Á",
+      "link": "https://vnexpress.net/kinh-ngu-13-tuoi-trung-quoc-pha-ky-luc-chau-a-4962810.html",
+      "summary": "Sau khi giành HC đồng tại Olympic Paris 2024 ở tuổi 12, Yu Zidi tiếp tục lập kỳ tích khi phá kỷ lục châu Á ở nội dung 200m hỗn hợp tại Đại hội Thể thao Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:09:42+07:00",
+      "fetched": "2025-11-12T08:19:00.544331+07:00"
+    },
+    {
+      "id": "8b81f93e979bcc2dba282340b450c02e",
+      "title": "Nội bộ Santos 'dậy sóng' vì Neymar",
+      "link": "https://vnexpress.net/noi-bo-santos-day-song-vi-neymar-4962813.html",
+      "summary": "Những lời phàn nàn mới nhất của Neymar về phong độ của đồng đội và chất lượng chung của đội bóng đang khiến phòng thay đồ Santos trở nên căng thẳng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:06:34+07:00",
+      "fetched": "2025-11-12T08:19:00.544507+07:00"
+    },
+    {
+      "id": "83515c0280a6fad1583f2b7d98a3a5cf",
+      "title": "Runner Hàn Quốc bị xe tải tông khi đang dẫn đầu cuộc đua marathon",
+      "link": "https://vnexpress.net/runner-han-quoc-bi-xe-tai-tong-khi-dang-dan-dau-cuoc-dua-marathon-4962809.html",
+      "summary": "Một VĐV trẻ có thành tích cá nhân tốt nhất là 2 giờ 13 phút bị xe tải tông và chết não khi đang chạy dẫn đầu giải Yeokjeon Marathon, ngày 10/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T22:04:27+07:00",
+      "fetched": "2025-11-12T08:19:00.544664+07:00"
     },
     {
       "id": "ac9db35f0999d7d2f85ec8b5cdbee625",
