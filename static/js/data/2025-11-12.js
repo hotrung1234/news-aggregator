@@ -1,7 +1,77 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T10:10:22.961090+07:00",
+  "lastUpdated": "2025-11-12T11:21:16.930670+07:00",
   "articles": [
+    {
+      "id": "943655e2a3d3ad8128f346978ea74e8e",
+      "title": "Chủ tịch UBND TP.HCM Nguyễn Văn Được: Hiện đại hạ tầng vì hạnh phúc của người dân",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-nguyen-van-duoc-hien-dai-ha-tang-vi-hanh-phuc-cua-nguoi-dan-20251112081248314.htm",
+      "summary": "TP.HCM xác định phát triển hạ tầng hiện đại, vươn tầm thế giới không chỉ là nhiệm vụ cho riêng mình mà còn là trách nhiệm dẫn dắt, kết nối cho cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718772+07:00",
+      "fetched": "2025-11-12T11:21:09.718899+07:00"
+    },
+    {
+      "id": "d8ee0b426d9f2b19a75f2a6d66e33853",
+      "title": "Biểu tượng một thời của CLB Cảng Sài Gòn qua đời",
+      "link": "https://tuoitre.vn/bieu-tuong-mot-thoi-cua-clb-cang-sai-gon-qua-doi-20251112083813925.htm",
+      "summary": "Biểu tượng một thời của CLB Cảng Sài Gòn, tiền vệ tài hoa Hồ Văn Lợi đã qua đời ở tuổi 56 sau cơn bạo bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718643+07:00",
+      "fetched": "2025-11-12T11:21:09.718761+07:00"
+    },
+    {
+      "id": "4e76e464a59531f5778118e1468172d3",
+      "title": "Đài tưởng niệm nạn nhân COVID-19: Không gian để lắng lại và biết ơn",
+      "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-khong-gian-de-lang-lai-va-biet-on-20251112081701502.htm",
+      "summary": "Mỗi TP đều có những ký ức xã hội gắn liền với những biến cố lớn. Với TP.HCM, đại dịch COVID-19 là một dấu mốc không thể phai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718500+07:00",
+      "fetched": "2025-11-12T11:21:09.718630+07:00"
+    },
+    {
+      "id": "09c7d455e57256df2b3b881576f8269f",
+      "title": "Giả danh đoàn từ thiện để lừa đảo sau mưa lũ ở Huế",
+      "link": "https://tuoitre.vn/gia-danh-doan-tu-thien-de-lua-dao-sau-mua-lu-o-hue-20251112084308444.htm",
+      "summary": "Công an xã Đan Điền, TP Huế cảnh báo xuất hiện nhóm người giả danh đoàn từ thiện để tiếp cận, lừa đảo người dân sau mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718373+07:00",
+      "fetched": "2025-11-12T11:21:09.718488+07:00"
+    },
+    {
+      "id": "150ddccb8dafbaeb87ec9bfd888ed657",
+      "title": "Israel sắp bán 'sữa không bò' y hệt sữa thật, không chứa lactose, cholesterol",
+      "link": "https://tuoitre.vn/israel-sap-ban-sua-khong-bo-y-het-sua-that-khong-chua-lactose-cholesterol-20251112090334217.htm",
+      "summary": "Công ty Remilk ra mắt 'sữa không bò' sản xuất từ protein lên men, không lactose, không cholesterol, hương vị được quảng bá giống hệt sữa thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718240+07:00",
+      "fetched": "2025-11-12T11:21:09.718360+07:00"
+    },
+    {
+      "id": "07868581a7aad407c5d856cfa6964960",
+      "title": "Tiếp tục đóng đèo D’Ran Đà Lạt, làm công trình khẩn cấp để chống sạt lở",
+      "link": "https://tuoitre.vn/tiep-tuc-dong-deo-dran-da-lat-lam-cong-trinh-khan-cap-de-chong-sat-lo-20251112090004213.htm",
+      "summary": "Lâm Đồng ban hành lệnh xây dựng công trình khẩn cấp xử lý sạt lở tại đèo D’Ran Đà Lạt để làm công trình chống sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.718098+07:00",
+      "fetched": "2025-11-12T11:21:09.718227+07:00"
+    },
+    {
+      "id": "8050d5a13a8ce3eef1f738534f6c61fb",
+      "title": "Phải tăng liên kết doanh nghiệp nội và FDI",
+      "link": "https://tuoitre.vn/phai-tang-lien-ket-doanh-nghiep-noi-va-fdi-20251112091318066.htm",
+      "summary": "Mở rộng địa giới đã mang đến động lực tăng trưởng mới cho TP.HCM, sức hút với các nhà đầu tư FDI cũng tăng lên, đây được coi là cơ hội để TP chuyển mình, vươn lên thành một trung tâm tài chính, công nghiệp, công nghệ cao của khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:21:09.717835+07:00",
+      "fetched": "2025-11-12T11:21:09.718081+07:00"
+    },
     {
       "id": "fa2dda497c8404b41f7212762bbb7d20",
       "title": "Thiết bị phát hiện được ung thư chỉ trong 10 giây",
@@ -351,6 +421,356 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T05:16:51.543339+07:00",
       "fetched": "2025-11-12T05:16:51.543547+07:00"
+    },
+    {
+      "id": "622c965f44cf99014c561facba31080a",
+      "title": "Căn cứ quân sự Mỹ diệt hàng nghìn nhện độc, Nhật Bản báo động",
+      "link": "https://thanhnien.vn/can-cu-quan-su-my-diet-hang-nghin-nhen-doc-nhat-ban-bao-dong-185251112105721357.htm",
+      "summary": "Giới chức Nhật Bản quan  ngại sau khi hơn 3.500 con nhện độc, gồm nhện góa phụ đen, góa phụ nâu và nhện lưng đỏ, bị phát hiện và tiêu diệt trong căn cứ không quân thủy quân lục chiến Mỹ ở Iwakuni (tỉnh Yamaguchi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:20:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183069+07:00"
+    },
+    {
+      "id": "61676389141f084c0f6ef10caeb18874",
+      "title": "Trường đại học y đầu tiên công bố phương thức tuyển sinh 2026",
+      "link": "https://thanhnien.vn/truong-dai-hoc-y-dau-tien-cong-bo-phuong-thuc-tuyen-sinh-2026-185251112105712545.htm",
+      "summary": "Một trường đại học (ĐH) y đầu tiên vừa có thông báo về phương thức tuyển sinh trình độ ĐH năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:17:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183237+07:00"
+    },
+    {
+      "id": "c4939a7c3c52ddcbecd00711fb338d66",
+      "title": "Bão Fung Wong đổ bộ, Đài Loan sơ tán khẩn",
+      "link": "https://thanhnien.vn/bao-fung-wong-do-bo-dai-loan-so-tan-khan-185251112103024554.htm",
+      "summary": "Đài Loan ngày 12.11 đã sơ tán hơn 8.300 người trước khi bão Fung Wong đổ bộ, gây ra  mưa lớn và gây ngập sâu ở nhiều khu vực miền đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:17:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183392+07:00"
+    },
+    {
+      "id": "e51bc643b14c5c86bba9ec3c12c80ee3",
+      "title": "Giải mã 5.200 hố xếp ngay ngắn trên dãy Andes",
+      "link": "https://vnexpress.net/giai-ma-5-200-ho-xep-ngay-ngan-tren-day-andes-4962761.html",
+      "summary": "Công trình bí ẩn gồm hàng nghìn hố thời Inca có thể từng là địa điểm trao đổi và kiểm kê hàng hóa nhiều thế kỷ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:14:49+07:00",
+      "fetched": "2025-11-12T11:21:03.669080+07:00"
+    },
+    {
+      "id": "0e926ba10ff2deeaf470e2df96ee670e",
+      "title": "Giáo viên đánh học sinh làm sai bài tập: Tranh luận chuyện đòn roi trong giáo dục",
+      "link": "https://thanhnien.vn/giao-vien-danh-hoc-sinh-lam-sai-bai-tap-tranh-luan-chuyen-don-roi-trong-giao-duc-185251112110711882.htm",
+      "summary": "Những ngày đầu tháng 11 dư luận cả nước còn chưa hết nguôi ngoai vì những nỗi đau bởi nạn bạo lực học đường thì tiếp tục lộ thêm màu xám từ bục giảng. Một cô giáo trẻ tại Gia Lai đã dùng thước đánh vào tay học sinh khi các em làm sai bài tập. Hành động này không chỉ khiến cô giáo mất việc mà còn làm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:09:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183548+07:00"
+    },
+    {
+      "id": "f08a11f8903ff21979f2f6f7036c7e29",
+      "title": "'Buôn trăng' - cú hích của Phương Mỹ Chi",
+      "link": "https://vnexpress.net/buon-trang-cu-hich-cua-phuong-my-chi-4960922.html",
+      "summary": "Ca khúc \"Buôn trăng\" kết hợp nhạc dân gian với hiện đại, giúp Phương Mỹ Chi tạo dấu ấn tại \"Sing! Asia\" và được khán giả quốc tế biết đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:05:38+07:00",
+      "fetched": "2025-11-12T11:21:03.669261+07:00"
+    },
+    {
+      "id": "df1fbf32f6851136f396145c1d2b4759",
+      "title": "'Luật rừng' từng dạy cách sống chừng mực",
+      "link": "https://vnexpress.net/luat-rung-la-gi-thit-thu-rung-tan-diet-cay-rung-luat-rung-dao-lon-4962926.html",
+      "summary": "Người đi rừng thuở xưa tuân thủ những quy ước ngầm nhỏ nhặt: Cây ngã có chủ, phát rẫy đến đỉnh đồi thì dừng, chừa phần cho người bên kia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:05:35+07:00",
+      "fetched": "2025-11-12T11:21:03.669429+07:00"
+    },
+    {
+      "id": "e03eebe5fe3372f8c9e820d95d54acde",
+      "title": "Thời tiết TP.HCM mưa lớn sáng nay có gì bất thường?",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-mua-lon-sang-nay-co-gi-bat-thuong-185251112104225316.htm",
+      "summary": "Sáng nay, thời tiết TP.HCM mưa lớn, trời tối sầm nhiều nơi. Thay vì mưa vào chiều tối như mọi khi, mưa lớn từ sáng có gì bất thường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:03:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183698+07:00"
+    },
+    {
+      "id": "b01948265ca431fbcc2e518ad8481399",
+      "title": "Chicilon Digital Media thu hơn 100 tỷ trong tháng 10",
+      "link": "https://vnexpress.net/chicilon-digital-media-thu-hon-100-ty-trong-thang-10-4962944.html",
+      "summary": "Chicilon Digital Media ghi nhận doanh thu hơn 100 tỷ đồng trong tháng 10, tăng 18% so với cùng kỳ, nhờ tập trung tối ưu tài nguyên, củng cố nhóm khách hàng chủ lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.669595+07:00"
+    },
+    {
+      "id": "a2108eba83eca47264a4291615b4dfb7",
+      "title": "Chiến lược đầu tư không cần bắt đáy, đu đỉnh",
+      "link": "https://vnexpress.net/chien-luoc-dau-tu-khong-can-bat-day-du-dinh-4962925.html",
+      "summary": "Thay đu đỉnh, bắt đáy để với kỳ vọng lời cao, người trẻ có thể chọn cách an toàn hơn là đầu tư tích sản có thể đạt lãi suất 10-15%/năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.669761+07:00"
+    },
+    {
+      "id": "e962c4f122562588f6f0e1ca3288ac0f",
+      "title": "6 cách phòng chuyển sản ruột tiến triển ung thư",
+      "link": "https://vnexpress.net/6-cach-phong-chuyen-san-ruot-tien-trien-ung-thu-4962895.html",
+      "summary": "Điều chỉnh lối sống, tuân theo chỉ định điều trị của bác sĩ, loại bỏ mô chuyển sản, góp phần kiểm soát chuyển sản ruột, ngăn ung thư phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.669941+07:00"
+    },
+    {
+      "id": "03259ee53f9b37895d2a01e8477f63c1",
+      "title": "Phát hiện ung thư da từ nốt ruồi rỉ máu",
+      "link": "https://vnexpress.net/phat-hien-ung-thu-da-tu-not-ruoi-ri-mau-4962858.html",
+      "summary": "Nốt ruồi xuất hiện ở má trái của ông Lượng, 46 tuổi, 6 năm, gần đây tăng kích thước, loét, rỉ máu, bác sĩ chẩn đoán ung thư da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.670105+07:00"
+    },
+    {
+      "id": "d8fc9ff7f1e0364acfee1d512fc30c28",
+      "title": "Bé trai đồng nhiễm nhiều bệnh",
+      "link": "https://vnexpress.net/be-trai-dong-nhiem-nhieu-benh-4962852.html",
+      "summary": "Bé Hưng 8 tháng tuổi, ho, khò khè, sổ mũi, sốt nhẹ, bác sĩ chẩn đoán viêm tiểu phế quản cấp, viêm tai giữa, viêm mũi họng cấp, rối loạn tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.670262+07:00"
+    },
+    {
+      "id": "f469a9ad3e6b6f0a865fffe4dd7a414d",
+      "title": "Văn Phú tung ưu đãi cho dự án Vlasta - Thủy Nguyên",
+      "link": "https://vnexpress.net/van-phu-tung-uu-dai-cho-du-an-vlasta-thuy-nguyen-4962846.html",
+      "summary": "Phân khu Phú Quý tại khu đô thị Vlasta - Thủy Nguyên áp dụng chính sách bán hàng ưu đãi giúp khách hàng tối ưu chi phí và chủ động kế hoạch tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:00:00+07:00",
+      "fetched": "2025-11-12T11:21:03.670420+07:00"
+    },
+    {
+      "id": "adab3e428078d84faa46af76735df7ed",
+      "title": "Tỉnh nào dân cư thưa nhất Việt Nam?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tinh-nao-dan-cu-thua-nhat-viet-nam-4960141.html",
+      "summary": "Tỉnh này trung bình chỉ 57 người/km2, đây là địa phương có mật độ dân số thấp nhất cả nước hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:59:37+07:00",
+      "fetched": "2025-11-12T11:21:03.670576+07:00"
+    },
+    {
+      "id": "4a3530bd1ff4d08a6f49ac028d2dc7d9",
+      "title": "25 tấn vỏ đạn quân dụng tuồn lậu vào Việt Nam",
+      "link": "https://vnexpress.net/25-tan-vo-dan-quan-dung-tuon-lau-vao-viet-nam-4962950.html",
+      "summary": "Lô hàng gần 25 tấn vỏ đạn quân dụng, trong đó có đạn còn khả năng sử dụng, song được doanh nghiệp khai báo là \"đồng phế liệu đã loại bỏ tạp chất\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:56:51+07:00",
+      "fetched": "2025-11-12T11:21:03.670730+07:00"
+    },
+    {
+      "id": "b7ebfd624e752f18c8c5e83cac39292f",
+      "title": "Thống đốc bang California phản đối chính sách phản khí hậu của ông Trump",
+      "link": "https://vnexpress.net/thong-doc-bang-california-phan-doi-chinh-sach-phan-khi-hau-cua-ong-trump-4962954.html",
+      "summary": "Thống đốc California Gavin Newsom chỉ trích việc đảo ngược chính sách khí hậu của Tổng thống Trump là \"ngu ngốc\", khi dự COP 30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:54:18+07:00",
+      "fetched": "2025-11-12T11:21:03.670880+07:00"
+    },
+    {
+      "id": "b7ebfd624e752f18c8c5e83cac39292f",
+      "title": "Thống đốc bang California phản đối chính sách phản khí hậu của ông Trump",
+      "link": "https://vnexpress.net/thong-doc-bang-california-phan-doi-chinh-sach-phan-khi-hau-cua-ong-trump-4962954.html",
+      "summary": "Thống đốc California Gavin Newsom chỉ trích việc đảo ngược chính sách khí hậu của Tổng thống Trump là \"ngu ngốc\", khi dự COP 30.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T03:54:18+07:00",
+      "fetched": "2025-11-12T11:21:13.023198+07:00"
+    },
+    {
+      "id": "bbd7fdfb352e1b17cae92563f9a89829",
+      "title": "Saigon Co.op ký hợp tác với Hiệp hội Quản lý an toàn thực phẩm Nhật Bản",
+      "link": "https://thanhnien.vn/saigon-coop-ky-hop-tac-voi-hiep-hoi-quan-ly-an-toan-thuc-pham-nhat-ban-185251112102402111.htm",
+      "summary": "Liên hiệp Hợp tác xã thương mại TP.HCM (Saigon Co.op) vừa ký thỏa thuận hợp tác chiến lược với Hiệp Hội quản lý an toàn thực phẩm Nhật Bản (JFSM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:54:00+07:00",
+      "fetched": "2025-11-12T11:21:08.183863+07:00"
+    },
+    {
+      "id": "2668e20d2f273e5968b69d0a78b06eac",
+      "title": "Doanh nghiệp điện gió kêu cứu vì bị cắt giảm công suất, Bộ Công thương nói gì?",
+      "link": "https://thanhnien.vn/doanh-nghiep-dien-gio-keu-cuu-vi-bi-cat-giam-cong-suat-bo-cong-thuong-noi-gi-185251111110501617.htm",
+      "summary": "Nguồn điện dồi dào, công suất của cả thủy điện và điện gió đều tăng mạnh trong thời gian qua khiến Công ty Vận hành hệ thống điện và thị trường điện quốc gia (NSMO) - do Bộ Công thương quản lý - buộc lựa chọn giảm huy động điện gió nhằm bảo đảm an toàn tuyệt đối cho hệ thống điện quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:54:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184042+07:00"
+    },
+    {
+      "id": "0dbf2e67f9745fca84e4ac3a531befd4",
+      "title": "Cựu vua phá lưới V-League mất ở tuổi 55",
+      "link": "https://vnexpress.net/cuu-vua-pha-luoi-v-league-mat-o-tuoi-55-4962908.html",
+      "summary": "Cựu tiền vệ Cảng Sài Gòn và tuyển thủ Việt Nam Hồ Văn Lợi qua đời sáng nay vì bạo bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:52:25+07:00",
+      "fetched": "2025-11-12T11:21:03.671059+07:00"
+    },
+    {
+      "id": "0dbf2e67f9745fca84e4ac3a531befd4",
+      "title": "Cựu vua phá lưới V-League mất ở tuổi 55",
+      "link": "https://vnexpress.net/cuu-vua-pha-luoi-v-league-mat-o-tuoi-55-4962908.html",
+      "summary": "Cựu tiền vệ Cảng Sài Gòn và tuyển thủ Việt Nam Hồ Văn Lợi qua đời sáng nay vì bạo bệnh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T03:52:25+07:00",
+      "fetched": "2025-11-12T11:21:16.922860+07:00"
+    },
+    {
+      "id": "588ba4496b956142619c604b6861763a",
+      "title": "Không phải Oscar, Grammy hay Met Gala, đây mới là sự kiện hoành tráng nhất năm",
+      "link": "https://thanhnien.vn/khong-phai-oscar-grammy-hay-met-gala-day-moi-la-su-kien-hoanh-trang-nhat-nam-18525111210350874.htm",
+      "summary": "Tiệc sinh nhật lần thứ 70 của Kris Jenner đã trở thành tâm điểm của giới giải trí vào cuối tuần qua, thậm chí truyền thông quốc tế còn gọi đây là sự kiện hoành tráng nhất năm, 'vượt mặt' cả lễ trao giải Oscar và Grammy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:52:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184200+07:00"
+    },
+    {
+      "id": "17a39b9287ce321cd669ae36da667fe9",
+      "title": "Người Hà Nội cần làm gì khi được yêu cầu 'làm sạch' dữ liệu bằng lái, đăng ký xe",
+      "link": "https://vnexpress.net/nguoi-ha-noi-can-lam-gi-khi-duoc-yeu-cau-lam-sach-du-lieu-bang-lai-dang-ky-xe-4962919.html",
+      "summary": "Công an Hà Nội đang rà soát, làm sạch gần 8 triệu dữ liệu phương tiện, 130.000 giấy phép lái xe và số hóa 8 triệu hồ sơ đăng ký xe đang quản lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:51:16+07:00",
+      "fetched": "2025-11-12T11:21:03.671229+07:00"
+    },
+    {
+      "id": "9b29e6238004558c4072dafe760ffb85",
+      "title": "Xe côn tay Suzuki Satria 2026 sản xuất tại Indonesia sẽ xuất sang Việt Nam",
+      "link": "https://thanhnien.vn/xe-con-tay-suzuki-satria-2026-san-xuat-tai-indonesia-se-xuat-sang-viet-nam-185251111210431052.htm",
+      "summary": "Phiên bản mới của dòng xe côn tay thể thao Suzuki Satria 2026 vừa được Suzuki Indomobil Sales (SIS) - Liên doanh Suzuki tại Indonesia xác nhận sẽ sản xuất tại nhà máy ở Indonesia, sau đó xuất khẩu sang các quốc gia khu vực Đông Nam Á, trong đó có Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:49:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184350+07:00"
+    },
+    {
+      "id": "4eebb269d73aa25233d74ef946e9cc2a",
+      "title": "Nhiều phi cơ riêng của giới tỷ phú Mỹ bị cấm bay",
+      "link": "https://vnexpress.net/nhieu-phi-co-rieng-cua-gioi-ty-phu-my-bi-cam-bay-4962879.html",
+      "summary": "Mỹ áp lệnh hạn chế chuyến bay do thiếu kiểm soát viên không lưu vì chính phủ đóng cửa, khiến cả chuyên cơ của giới tỷ phú cũng không được cất cánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:48:17+07:00",
+      "fetched": "2025-11-12T11:21:03.671378+07:00"
+    },
+    {
+      "id": "4eebb269d73aa25233d74ef946e9cc2a",
+      "title": "Nhiều phi cơ riêng của giới tỷ phú Mỹ bị cấm bay",
+      "link": "https://vnexpress.net/nhieu-phi-co-rieng-cua-gioi-ty-phu-my-bi-cam-bay-4962879.html",
+      "summary": "Mỹ áp lệnh hạn chế chuyến bay do thiếu kiểm soát viên không lưu vì chính phủ đóng cửa, khiến cả chuyên cơ của giới tỷ phú cũng không được cất cánh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T03:48:17+07:00",
+      "fetched": "2025-11-12T11:21:11.728211+07:00"
+    },
+    {
+      "id": "09e24f05cc1004e9017bf6040164765d",
+      "title": "Lâm Đồng ban hành lệnh khẩn cấp xử lý sạt lở đèo D’Ran và đèo Gia Bắc",
+      "link": "https://thanhnien.vn/lam-dong-ban-hanh-lenh-khan-cap-xu-ly-sat-lo-deo-dran-va-deo-gia-bac-185251112095829315.htm",
+      "summary": "Trước tình trạng sạt lở nghiêm trọng tại đèo D’Ran (QL20) và đèo Gia Bắc (QL28) gây mất an toàn giao thông, UBND tỉnh Lâm Đồng ban hành lệnh xây dựng công trình khẩn cấp để khắc phục, dự kiến hoàn thành trong vòng 45 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:47:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184498+07:00"
+    },
+    {
+      "id": "4697740a56e6ce62ec93db90ebfd656c",
+      "title": "Tại sao máy bay vẫn tránh bão dù được thiết kế để chống chịu chúng?",
+      "link": "https://thanhnien.vn/tai-sao-may-bay-van-tranh-bao-du-duoc-thiet-ke-de-chong-chiu-chung-185251112103354374.htm",
+      "summary": "Máy bay hiện đại được thiết kế để chịu được một số điều kiện thời tiết khắc nghiệt nhất trong suốt chuyến bay, trong đó có cả bão. Thế nhưng, vì sao máy bay vẫn phải tránh bão?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:44:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184649+07:00"
+    },
+    {
+      "id": "cc988adac97b48ee485b92c6e14b3b6f",
+      "title": "Ngủ 8 giờ mỗi đêm, vì sao thức dậy vẫn cảm thấy mệt mỏi?",
+      "link": "https://thanhnien.vn/ngu-8-gio-moi-dem-vi-sao-thuc-day-van-cam-thay-met-moi-185251028154727777.htm",
+      "summary": "Nhiều người tin rằng ngủ 8 giờ mỗi đêm là chìa khóa để cơ thể khỏe mạnh và tinh thần sảng khoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:43:00+07:00",
+      "fetched": "2025-11-12T11:21:08.184804+07:00"
+    },
+    {
+      "id": "8017c05e7fc79a795ed4d808283db325",
+      "title": "iPhone Fold sẽ có camera selfie 24 MP dưới màn hình",
+      "link": "https://thanhnien.vn/iphone-fold-se-co-camera-selfie-24-mp-duoi-man-hinh-185251110065919354.htm",
+      "summary": "iPhone Fold có thể hồi sinh công nghệ camera dưới màn hình và hoạt động theo cách mà Samsung chưa bao giờ làm được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:42:00+07:00",
+      "fetched": "2025-11-12T11:21:08.185023+07:00"
+    },
+    {
+      "id": "bc6beaaf08e5275b725c92f2ddd9554f",
+      "title": "PVChem ‘bắt tay’ Messer xây nhà máy khí 37 triệu USD",
+      "link": "https://thanhnien.vn/pvchem-bat-tay-messer-xay-nha-may-khi-37-trieu-usd-185251112105215611.htm",
+      "summary": "Liên doanh giữa PVChem và Messer sẽ đầu tư xây dựng nhà máy sản xuất khí công nghiệp tại Khu công nghiệp Cái Mép (TP.HCM) với công suất 200.000 tấn/năm, tổng mức đầu tư khoảng 37 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:41:00+07:00",
+      "fetched": "2025-11-12T11:21:08.185192+07:00"
+    },
+    {
+      "id": "14fb0c0eb80552a0811d6d88a80bec81",
+      "title": "Xổ số miền Nam: Thông tin mới nhất về hoạt động tổ chức, lịch quay số mở thưởng",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-thong-tin-moi-nhat-ve-hoat-dong-to-chuc-lich-quay-so-mo-thuong-185251112100427858.htm",
+      "summary": "Theo thông tin mới nhất từ Bộ Tài chính, các công ty xổ số kiến thiết bao gồm xổ số miền Nam tiếp tục duy trì hoạt động theo mô hình tổ chức và lịch quay số mở thưởng như hiện nay cho đến thời điểm chính thức hoạt động theo mô hình mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T03:30:00+07:00",
+      "fetched": "2025-11-12T11:21:08.185367+07:00"
+    },
+    {
+      "id": "8b53ce1d42b2ee6a92e82dcb331bdb6f",
+      "title": "Nga tăng sức ép, buộc Ukraine bỏ loạt vị trí ở Zaporizhzhia",
+      "link": "https://vnexpress.net/nga-tang-suc-ep-buoc-ukraine-bo-loat-vi-tri-o-zaporizhzhia-4962842.html",
+      "summary": "Ukraine tuyên bố rút quân khỏi các vị trí gần 5 khu dân cư ở tỉnh Zaporizhzhia, nhằm bảo toàn mạng sống binh sĩ khi tình hình khó khăn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T03:24:35+07:00",
+      "fetched": "2025-11-12T11:21:11.728387+07:00"
+    },
+    {
+      "id": "5303b7428f817e107a08e743008b5b78",
+      "title": "Thủ tướng Thái Lan bật khóc khi thăm binh sĩ bị thương vì nổ mìn",
+      "link": "https://vnexpress.net/thu-tuong-thai-lan-bat-khoc-khi-tham-binh-si-bi-thuong-vi-no-min-4962854.html",
+      "summary": "Thủ tướng Thái Lan Anutin rơi nước mắt khi tới thăm các binh sĩ bị thương trong vụ nổ mìn ở khu vực biên giới với Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T03:09:32+07:00",
+      "fetched": "2025-11-12T11:21:11.728549+07:00"
     },
     {
       "id": "6e7b002bd617c77158efbd38f828123a",
