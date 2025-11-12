@@ -1,7 +1,157 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T11:21:16.930670+07:00",
+  "lastUpdated": "2025-11-12T13:26:51.661451+07:00",
   "articles": [
+    {
+      "id": "bef762b0d6f7bf3271fdbe493b8cadca",
+      "title": "Xác định 32 đội đi tiếp ở U17 World Cup 2025",
+      "link": "https://tuoitre.vn/xac-dinh-32-doi-di-tiep-o-u17-world-cup-2025-20251112095833093.htm",
+      "summary": "32 đội tuyển xuất sắc nhất Vòng chung kết U17 World Cup 2025 đã lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516835+07:00",
+      "fetched": "2025-11-12T13:26:44.516957+07:00"
+    },
+    {
+      "id": "9e290ffa5d3002886ed5c9d6ab0dc175",
+      "title": "Alcaraz thừa nhận chưa có cảm giác bóng tốt nhất trong trận thắng Taylor Fritz",
+      "link": "https://tuoitre.vn/alcaraz-thua-nhan-chua-co-cam-giac-bong-tot-nhat-trong-tran-thang-taylor-fritz-20251112102738753.htm",
+      "summary": "Alcaraz thở phào nhẹ nhõm, thừa nhận chưa có cảm giác bóng tốt nhất trong trận thắng trước tay vợt Taylor Fritz vào tối 11-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516705+07:00",
+      "fetched": "2025-11-12T13:26:44.516824+07:00"
+    },
+    {
+      "id": "24099dcc0bef0f9038958ed37b7b2844",
+      "title": "Đoàn tuyên giáo - báo chí TP.HCM tặng quà cho gia đình chính sách, hộ khó khăn tại Thái Nguyên",
+      "link": "https://tuoitre.vn/doan-tuyen-giao-bao-chi-tp-hcm-tang-qua-cho-gia-dinh-chinh-sach-ho-kho-khan-tai-thai-nguyen-2025111209513236.htm",
+      "summary": "Hành trình \"Hướng về cội nguồn Cách mạng\" tiếp tục tại Thái Nguyên với hoạt động thăm hỏi, trao quà cho gia đình chính sách và hộ dân khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516580+07:00",
+      "fetched": "2025-11-12T13:26:44.516694+07:00"
+    },
+    {
+      "id": "31613202cf52844f6560dcf5d5ec8c3f",
+      "title": "Vòng loại World Cup dần đến giai đoạn cuối",
+      "link": "https://tuoitre.vn/vong-loai-world-cup-dan-den-giai-doan-cuoi-20251112001038737.htm",
+      "summary": "Giữa tuần này, các giải vô địch châu Âu sẽ nhường lại sân chơi cho loạt trận FIFA Days. Tâm điểm là vòng loại World Cup 2026 đang dần đi vào giai đoạn cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516455+07:00",
+      "fetched": "2025-11-12T13:26:44.516568+07:00"
+    },
+    {
+      "id": "71e0e473270b72352a0966be1fc9a472",
+      "title": "Bước thử nghiệm mới của tlinh?",
+      "link": "https://tuoitre.vn/buoc-thu-nghiem-moi-cua-tlinh-20251111105326941.htm",
+      "summary": "Dù đánh dấu lần hợp tác quốc tế cùng rapper Malaysia SonaOne, MV 'Polite' của tlinh có phần 'lặng sóng' hơn so với một số sản phẩm kết hợp trước đó của nữ rapper trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516330+07:00",
+      "fetched": "2025-11-12T13:26:44.516444+07:00"
+    },
+    {
+      "id": "787684496c9d0b0dae1cf68b07575ac4",
+      "title": "U22 Việt Nam được gì ở Panda Cup 2025?",
+      "link": "https://tuoitre.vn/u22-viet-nam-duoc-gi-o-panda-cup-2025-20251111235525609.htm",
+      "summary": "18h35 hôm nay (12-11), tuyển U22 Việt Nam sẽ gặp chủ nhà U22 Trung Quốc ở Giải giao hữu quốc tế CFA Team China - Panda Cup 2025 diễn ra tại Thành Đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516193+07:00",
+      "fetched": "2025-11-12T13:26:44.516318+07:00"
+    },
+    {
+      "id": "ce93266b0c3040a93733ad37a25b5fdc",
+      "title": "Phim Việt liên tiếp thất bại, có phim thảm họa doanh thu chỉ 600 triệu",
+      "link": "https://tuoitre.vn/phim-viet-lien-tiep-that-bai-co-phim-tham-hoa-doanh-thu-chi-600-trieu-20251112100324697.htm",
+      "summary": "Bịt mắt bắt nai thu 659 triệu đồng và bị cho là phim thảm họa. Còn Trái tim què quặt chỉn chu và đậm tính văn chương thu 646 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.516040+07:00",
+      "fetched": "2025-11-12T13:26:44.516180+07:00"
+    },
+    {
+      "id": "034516da4d5c29b419bb7880dcc48675",
+      "title": "Chế tạo robot xông vào đám cháy thay lính cứu hỏa",
+      "link": "https://tuoitre.vn/che-tao-robot-xong-vao-dam-chay-thay-linh-cuu-hoa-20251112103041288.htm",
+      "summary": "FireBot nặng 136kg, chịu nhiệt 650°C, truyền hình ảnh trực tiếp từ tâm cháy, giúp lính cứu hỏa quan sát và ứng cứu an toàn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515915+07:00",
+      "fetched": "2025-11-12T13:26:44.516029+07:00"
+    },
+    {
+      "id": "4b8d2006305e58d240d28674afb0bdd9",
+      "title": "Rosé BlackPink là nghệ sĩ solo Hàn Quốc đầu tiên nhận đề cử Grammy?",
+      "link": "https://tuoitre.vn/rose-blackpink-la-nghe-si-solo-han-quoc-dau-tien-nhan-de-cu-grammy-20251112104519918.htm",
+      "summary": "Đề cử Grammy 2025 của Rosé (BlackPink) khiến mạng xã hội bùng nổ tranh cãi về việc ai mới thực sự là nghệ sĩ solo Hàn Quốc đầu tiên được ghi nhận tại giải thưởng danh giá này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515789+07:00",
+      "fetched": "2025-11-12T13:26:44.515904+07:00"
+    },
+    {
+      "id": "390dc1e54966cc89f990d744a539f631",
+      "title": "Ngắm bảo vật quốc gia qua phiên bản số hóa 3D",
+      "link": "https://tuoitre.vn/ngam-bao-vat-quoc-gia-qua-phien-ban-so-hoa-3d-20251112101021235.htm",
+      "summary": "Tỉnh Khánh Hòa ra mắt phiên bản số hóa 3D cho 2 bảo vật quốc gia của người Chăm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515662+07:00",
+      "fetched": "2025-11-12T13:26:44.515778+07:00"
+    },
+    {
+      "id": "f7ae28ae61141cd291eab9edd58c30b0",
+      "title": "Thách thức trong kỷ nguyên xanh của Trung Quốc",
+      "link": "https://tuoitre.vn/thach-thuc-trong-ky-nguyen-xanh-cua-trung-quoc-20251112102539319.htm",
+      "summary": "Trung Quốc trở thành cường quốc năng lượng tái tạo, công suất điện mặt trời và gió tăng mạnh, giúp ổn định phát thải CO2 từ quý III-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515532+07:00",
+      "fetched": "2025-11-12T13:26:44.515651+07:00"
+    },
+    {
+      "id": "5c536b0b051dc3d6a0c064955235642c",
+      "title": "Thực hư thông tin ‘COVID-25 có chủng vi rút mới với triệu chứng lạ’?",
+      "link": "https://tuoitre.vn/thuc-hu-thong-tin-covid-25-co-chung-virus-moi-voi-trieu-chung-la-20251112104522819.htm",
+      "summary": "Mạng xã hội lan truyền tin đồn về một “chủng COVID-25” với các triệu chứng hoàn toàn khác biệt. Tuy nhiên thông tin này là sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515401+07:00",
+      "fetched": "2025-11-12T13:26:44.515521+07:00"
+    },
+    {
+      "id": "ce346ee423d6c374cb9c64ef97db5c4d",
+      "title": "Bay từ Singapore sẽ phải trả thêm phí 'nhiên liệu xanh'",
+      "link": "https://tuoitre.vn/bay-tu-singapore-se-phai-tra-them-phi-nhien-lieu-xanh-20251112102746241.htm",
+      "summary": "Từ 2026, hành khách khởi hành từ Singapore phải trả thêm 0,77-31,92 USD/vé để góp quỹ nhiên liệu hàng không bền vững, hướng tới 'bầu trời xanh'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515260+07:00",
+      "fetched": "2025-11-12T13:26:44.515388+07:00"
+    },
+    {
+      "id": "cb29bb281b2fc48802348e1b4ecd0128",
+      "title": "Thần đồng bơi lội 13 tuổi Trung Quốc lại khiến cả châu Á trầm trồ",
+      "link": "https://tuoitre.vn/than-dong-boi-loi-13-tuoi-trung-quoc-lai-khien-ca-chau-a-tram-tro-20251112110608067.htm",
+      "summary": "Thần đồng bơi lội người Trung Quốc Yu Zidi vừa phá sâu kỷ lục châu Á nội dung 200m hỗn hợp cá nhân nữ với thành tích không tưởng 2 phút 7 giây 41 ở tuổi 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.515069+07:00",
+      "fetched": "2025-11-12T13:26:44.515235+07:00"
+    },
+    {
+      "id": "374be145c9519f6d05c3d4334e111efe",
+      "title": "Đóng dấu ‘Mật’ văn bản trả lời nhiều người, dân khiếu nại thì tỉnh làm thinh",
+      "link": "https://tuoitre.vn/dong-dau-mat-van-ban-tra-loi-nhieu-nguoi-dan-khieu-nai-thi-tinh-lam-thinh-20251111212153877.htm",
+      "summary": "Nhiều người dân ở Nha Trang khiếu nại, tố cáo bị thu hồi đất lại được nhận văn bản 'trả lời kiến nghị' của UBND tỉnh Khánh Hòa, phiếu hướng dẫn của Thanh tra tỉnh, đều đóng dấu 'Mật'. Dân khiếu nại, tỉnh chưa trả lời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T13:26:44.514836+07:00",
+      "fetched": "2025-11-12T13:26:44.515053+07:00"
+    },
     {
       "id": "943655e2a3d3ad8128f346978ea74e8e",
       "title": "Chủ tịch UBND TP.HCM Nguyễn Văn Được: Hiện đại hạ tầng vì hạnh phúc của người dân",
@@ -363,6 +513,216 @@ window.newsData_2025_11_12 = {
       "fetched": "2025-11-12T08:18:50.768067+07:00"
     },
     {
+      "id": "9343fe3e29e0d5359a26fc74a35cf421",
+      "title": "Tổng Bí thư Tô Lâm: Xuất khẩu công nghệ nông nghiệp để thu về ngoại tệ",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-xuat-khau-cong-nghe-nong-nghiep-de-thu-ve-ngoai-te-185251112124320552.htm",
+      "summary": "Tổng Bí thư Tô Lâm định hướng ngành nông nghiệp và môi trường tiếp tục tái cơ cấu theo hướng sinh thái, giá trị gia tăng xuất khẩu công nghệ nông nghiệp để mang ngoại tệ về cho quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:25:00+07:00",
+      "fetched": "2025-11-12T13:26:43.860182+07:00"
+    },
+    {
+      "id": "e1a80d5976b95a61e6c429f36e7b6a2b",
+      "title": "Hương Tràm ra sao sau hơn một năm về Việt Nam?",
+      "link": "https://thanhnien.vn/huong-tram-ra-sao-sau-hon-mot-nam-ve-viet-nam-185251112120526606.htm",
+      "summary": "Sau 5 năm học tập và sinh sống ở Mỹ, Hương Tràm trở về Việt Nam và khiến người hâm mộ thổn thức với bài hát 'Ước anh nhiều nỗi buồn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:20:00+07:00",
+      "fetched": "2025-11-12T13:26:43.860358+07:00"
+    },
+    {
+      "id": "177a6509d80ae49c5957d8a4945b7826",
+      "title": "Nữ hoàng Elizabeth từng lo ngại William sẽ trở thành vị vua ích kỷ",
+      "link": "https://thanhnien.vn/nu-hoang-elizabeth-tung-lo-ngai-william-se-tro-thanh-vi-vua-ich-ky-185251112125345364.htm",
+      "summary": "Một cuốn sách mới tiết lộ rằng Nữ hoàng Elizabeth II từng lo ngại cháu trai mình - Hoàng tử William, có thể trở thành 'một vị vua mang tính ích kỷ thay vì duy trì phong thái truyền thống của Hoàng gia Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:15:00+07:00",
+      "fetched": "2025-11-12T13:26:43.860521+07:00"
+    },
+    {
+      "id": "46a149ae7012080917e20a4102213908",
+      "title": "Lang thang trên sông Sài Gòn",
+      "link": "https://thanhnien.vn/lang-thang-tren-song-sai-gon-185251110125806424.htm",
+      "summary": "Chợt nhớ làm sao chuyến đi ca nô lang thang trên sông Sài Gòn cùng nhạc sĩ Trần Tiến từ nhiều năm trước.\"Nhà Bè nước chảy chia hai/ Ai về Gia Định Đồng Nai thì về\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:13:00+07:00",
+      "fetched": "2025-11-12T13:26:43.860686+07:00"
+    },
+    {
+      "id": "e3b2773141f0fed499176797e2cf4f04",
+      "title": "Khai trương nhà sách hiện đại tại Bình Dương",
+      "link": "https://thanhnien.vn/khai-truong-nha-sach-hien-dai-tai-binh-duong-185251112115816669.htm",
+      "summary": "Với diện tích 500m², được thiết kế hiện đại , nhà sách Fabico Hùng Vương là một trong những điểm nhấn mới của hệ thống Fabico tại P.Bình Dương (TP.HCM) hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:09:00+07:00",
+      "fetched": "2025-11-12T13:26:43.860845+07:00"
+    },
+    {
+      "id": "e7a15b70c4c1941472a0764323e337f8",
+      "title": "HLV Kim Chi không dẫn dắt CLB nữ TP.HCM, tuyển thủ Philippines ấn tượng với Huỳnh Như",
+      "link": "https://thanhnien.vn/hlv-kim-chi-khong-dan-dat-clb-nu-tphcm-tuyen-thu-philippines-an-tuong-voi-huynh-nhu-185251112125056124.htm",
+      "summary": "Trước trận đấu ra quân bảng A giải AFC Women's Champions League 2025-2026, cầu thủ trụ cột Chandler McDaniel bên phía Stallion Laguna FC (Philippines) cho biết cô ấn tượng nhất với tiền đạo Huỳnh Như bên phía CLB nữ TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:03:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861013+07:00"
+    },
+    {
+      "id": "27678f3196978a822c01dc5e191c7944",
+      "title": "Bác sĩ: Cảm và cúm khác nhau thế nào?",
+      "link": "https://thanhnien.vn/bac-si-cam-va-cum-khac-nhau-the-nao-185251112105336575.htm",
+      "summary": "Cùng là bệnh đường hô hấp và có triệu chứng khá giống nhau, nhưng cảm lạnh và cúm lại hoàn toàn khác biệt về nguyên nhân, mức độ nguy hiểm và cách điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:01:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861188+07:00"
+    },
+    {
+      "id": "8cfaa8891f2b649c5a27c455fd5586fc",
+      "title": "Con gái Michael Jackson bị hỏng mũi do lạm dụng ma túy",
+      "link": "https://thanhnien.vn/con-gai-michael-jackson-bi-hong-mui-do-lam-dung-ma-tuy-18525111212163827.htm",
+      "summary": "Paris Jackson - con gái của huyền thoại âm nhạc Michael Jackson, vừa tiết lộ di chứng nghiêm trọng đã để lại trên cơ thể cô sau nhiều năm lạm dụng chất kích thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:00:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861344+07:00"
+    },
+    {
+      "id": "01c456bd16b75fd0ee4598d4d36ab0b7",
+      "title": "Yann LeCun dự định rời Meta",
+      "link": "https://vnexpress.net/yann-lecun-du-dinh-roi-meta-4962872.html",
+      "summary": "Yann LeCun, nhà khoa học AI hàng đầu của Meta, được cho đã bắt đầu lôi kéo đồng nghiệp thân thiết của mình tại công ty, đồng thời trao đổi với các nhà đầu tư nhằm thành lập startup riêng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T06:00:00+07:00",
+      "fetched": "2025-11-12T13:26:50.133696+07:00"
+    },
+    {
+      "id": "3842c08b6589b29f296733cd4665717e",
+      "title": "Nông sản xuất siêu kỷ lục 18 tỉ USD, cà phê tăng mạnh nhất",
+      "link": "https://thanhnien.vn/nong-san-xuat-sieu-ky-luc-18-ti-usd-ca-phe-tang-manh-nhat-185251112113309964.htm",
+      "summary": "Trong 10 tháng qua, xuất khẩu nông sản đạt trên 58 tỉ USD. Đáng chú ý, xuất siêu đạt gần 18 tỉ USD, tăng 16,4% so với cùng kỳ năm trước và có đến 7 ngành hàng xuất siêu trên 1 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:59:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861496+07:00"
+    },
+    {
+      "id": "e16923585f7f28d7a5e98787e7775fe1",
+      "title": "KOL, KOC phải xác minh thông tin, nêu rõ ràng quảng cáo",
+      "link": "https://thanhnien.vn/kol-koc-phai-xac-minh-thong-tin-neu-ro-rang-quang-cao-185251112111634136.htm",
+      "summary": "Sáng nay (12.11), Báo Pháp Luật TP.HCM tổ chức tọa đàm \"Luật Quảng cáo 2025: Những điểm mới cho doanh nghiệp, KOL và các nền tảng số\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:58:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861644+07:00"
+    },
+    {
+      "id": "8e7528ef2dbdcb5c201c3ee9fec434b7",
+      "title": "Đà Nẵng nên làm gì để thu hút khách Nga?",
+      "link": "https://thanhnien.vn/da-nang-nen-lam-gi-de-thu-hut-khach-nga-185251112122015004.htm",
+      "summary": "Thị trường khách Nga đã trở thành điểm sáng nổi bật, với hơn 325.000 lượt khách, chiếm gần 5% trong cơ cấu khách quốc tế đến Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:57:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861792+07:00"
+    },
+    {
+      "id": "b845dd2fa9a70076a61f2ad38b3ce838",
+      "title": "Đã xác định 'thủ phạm' khiến hơn 300 người ngộ độc sau khi ăn bánh mì",
+      "link": "https://thanhnien.vn/da-xac-dinh-thu-pham-khien-hon-300-nguoi-ngo-doc-sau-khi-an-banh-mi-185251112115408293.htm",
+      "summary": "Đã có 304 người tại TP.HCM nhập viện sau ăn bánh mì do ngộ độc thực phẩm, tác nhân chính được xác định là vi khuẩn Salmonella.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:54:00+07:00",
+      "fetched": "2025-11-12T13:26:43.861946+07:00"
+    },
+    {
+      "id": "9e250cd97e75008eba7a4abba4f872e4",
+      "title": "Ghẹ Việt thoát hiểm phút cuối, tiếp tục xuất sang Mỹ",
+      "link": "https://thanhnien.vn/ghe-viet-thoat-hiem-phut-cuoi-tiep-tuc-xuat-sang-my-185251112121748255.htm",
+      "summary": "Tòa án Thương mại quốc tế Mỹ đã chính thức ban hành Lệnh đình chỉ vụ kiện giữa Viện Thủy sản quốc gia Mỹ (NFI), Hiệp hội Nhà hàng quốc gia Mỹ (NRA) cùng một số doanh nghiệp thủy sản Mỹ với chính phủ Mỹ liên quan đến việc thực thi Đạo luật Bảo vệ thú biển (MMPA). Kết quả này giúp cho mặt hàng ghẹ xuấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:51:00+07:00",
+      "fetched": "2025-11-12T13:26:43.862146+07:00"
+    },
+    {
+      "id": "96fe2b93cd0820fc4498b48da65184a8",
+      "title": "Người Trung Quốc bớt hào hứng với mua sắm Lễ Độc thân",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-bot-hao-hung-voi-mua-sam-le-doc-than-4962874.html",
+      "summary": "Một số tiêu dùng Trung Quốc giảm chi tiêu trong lễ hội khuyến mãi trực tuyến Lễ Độc thân do thu nhập thu hẹp, ưu đãi kém hấp dẫn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T05:39:38+07:00",
+      "fetched": "2025-11-12T13:26:47.466909+07:00"
+    },
+    {
+      "id": "a50a505200bd3b0dc520cd066dda6392",
+      "title": "Vĩnh Long: Đặt xe ôm công nghệ rồi đâm tài xế cướp tài sản",
+      "link": "https://thanhnien.vn/vinh-long-dat-xe-om-cong-nghe-roi-dam-tai-xe-cuop-tai-san-185251112114803864.htm",
+      "summary": "Nam thanh niên ở Vĩnh Long đặt xe ôm công nghệ rồi dùng dao đâm tài xế để cướp tài sản, sau đó bỏ trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:33:00+07:00",
+      "fetched": "2025-11-12T13:26:43.862307+07:00"
+    },
+    {
+      "id": "6f50715440de8b29f9c80d3a26f11e51",
+      "title": "U22 Việt Nam và cơ hội thử lửa trên đất Trung Quốc",
+      "link": "https://vnexpress.net/u22-viet-nam-va-co-hoi-thu-lua-tren-dat-trung-quoc-4962807.html",
+      "summary": "Hôm nay, thầy trò HLV Đinh Hồng Vinh ra quân gặp chủ nhà Trung Quốc ở giải giao hữu Panda Cup 2025 - bước chạy đà quan trọng cho SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:28:38+07:00",
+      "fetched": "2025-11-12T13:26:40.975616+07:00"
+    },
+    {
+      "id": "6f50715440de8b29f9c80d3a26f11e51",
+      "title": "U22 Việt Nam và cơ hội thử lửa trên đất Trung Quốc",
+      "link": "https://vnexpress.net/u22-viet-nam-va-co-hoi-thu-lua-tren-dat-trung-quoc-4962807.html",
+      "summary": "Hôm nay, thầy trò HLV Đinh Hồng Vinh ra quân gặp chủ nhà Trung Quốc ở giải giao hữu Panda Cup 2025 - bước chạy đà quan trọng cho SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T05:28:38+07:00",
+      "fetched": "2025-11-12T13:26:51.652205+07:00"
+    },
+    {
+      "id": "2c1aa6c44dd7ece0b97e622c837eeaed",
+      "title": "MV cưới của Đỗ Thị Hà",
+      "link": "https://vnexpress.net/mv-cuoi-cua-do-thi-ha-4962929.html",
+      "summary": "Hoa hậu Đỗ Thị Hà và doanh nhân Viết Vương lưu giữ kỷ niệm ngày cưới qua MV \"Đón em\" do ca sĩ Dương Edward thể hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:25:41+07:00",
+      "fetched": "2025-11-12T13:26:40.975804+07:00"
+    },
+    {
+      "id": "b57c523f4a5e9a81a49ffd235792c6f0",
+      "title": "Giải trình tự gene vi khuẩn gây ngộ độc hàng trăm người ăn bánh mì",
+      "link": "https://vnexpress.net/giai-trinh-tu-gene-vi-khuan-gay-ngo-doc-hang-tram-nguoi-an-banh-mi-4962996.html",
+      "summary": "Sở Y tế TP HCM cùng Đơn vị Nghiên cứu lâm sàng Đại học Oxford (OUCRU) xét nghiệm nuôi cấy vi sinh và giải trình tự gene vi khuẩn để tìm nguyên nhân gây ngộ độc hơn 300 người ăn bánh mì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:21:19+07:00",
+      "fetched": "2025-11-12T13:26:40.975976+07:00"
+    },
+    {
+      "id": "c20a8f3eb8d58c8502d0a5fd2facf5f7",
+      "title": "Cầu gỗ dài nhất Việt Nam biến mất sau bão: Rồi Ông Cọp sẽ 'hồi sinh'!",
+      "link": "https://thanhnien.vn/cau-go-dai-nhat-viet-nam-bien-mat-sau-bao-roi-ong-cop-se-hoi-sinh-185251112095709576.htm",
+      "summary": "Sau cơn bão Kalmaegi, cây cầu gỗ dài nhất Việt Nam bị nước lũ cuốn trôi, chỉ còn những trụ gỗ trơ trọi. Nhưng bà con nơi đây sẽ chung sức để cầu Ông Cọp 'hồi sinh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:17:00+07:00",
+      "fetched": "2025-11-12T13:26:43.862455+07:00"
+    },
+    {
       "id": "337d8b1df8e1841eea5832e24c49f6cf",
       "title": "Gần 100 cảnh sát mật phục cả đêm, triệt phá đường dây cát tặc lớn trên sông Trà Khúc",
       "link": "https://tuoitre.vn/gan-100-canh-sat-mat-phuc-ca-dem-triet-pha-duong-day-cat-tac-lon-tren-song-tra-khuc-20251111214901719.htm",
@@ -421,6 +781,216 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T05:16:51.543339+07:00",
       "fetched": "2025-11-12T05:16:51.543547+07:00"
+    },
+    {
+      "id": "e3397f97b90e46387e38e4b687f1e053",
+      "title": "Yamal bị phân biệt chủng tộc nhiều nhất trên mạng xã hội Tây Ban Nha",
+      "link": "https://vnexpress.net/yamal-bi-phan-biet-chung-toc-nhieu-nhat-tren-mang-xa-hoi-tay-ban-nha-4963023.html",
+      "summary": "Các hoạt động diễn ngôn mang tính thù hận trên mạng xã hội ở Tây Ban Nha suốt một năm qua cho thấy: Lamine Yamal hứng chịu 60% các cuộc tấn công phân biệt chủng tộc, thường xuyên bị gọi là \"đồ mọi Morocco khốn kiếp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:11:55+07:00",
+      "fetched": "2025-11-12T13:26:40.976179+07:00"
+    },
+    {
+      "id": "e3397f97b90e46387e38e4b687f1e053",
+      "title": "Yamal bị phân biệt chủng tộc nhiều nhất trên mạng xã hội Tây Ban Nha",
+      "link": "https://vnexpress.net/yamal-bi-phan-biet-chung-toc-nhieu-nhat-tren-mang-xa-hoi-tay-ban-nha-4963023.html",
+      "summary": "Các hoạt động diễn ngôn mang tính thù hận trên mạng xã hội ở Tây Ban Nha suốt một năm qua cho thấy: Lamine Yamal hứng chịu 60% các cuộc tấn công phân biệt chủng tộc, thường xuyên bị gọi là \"đồ mọi Morocco khốn kiếp\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T05:11:55+07:00",
+      "fetched": "2025-11-12T13:26:51.653201+07:00"
+    },
+    {
+      "id": "521acdf95d772af3e2f4d92b9490039a",
+      "title": "Giá vàng miếng giảm nửa triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-11-4963008.html",
+      "summary": "Các thương hiệu hạ giá bán ra vàng miếng 500.000 đồng, về còn 151,5 triệu đồng một lượng, theo đà điều chỉnh của thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:01:40+07:00",
+      "fetched": "2025-11-12T13:26:40.976348+07:00"
+    },
+    {
+      "id": "521acdf95d772af3e2f4d92b9490039a",
+      "title": "Giá vàng miếng giảm nửa triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-12-11-4963008.html",
+      "summary": "Các thương hiệu hạ giá bán ra vàng miếng 500.000 đồng, về còn 151,5 triệu đồng một lượng, theo đà điều chỉnh của thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T05:01:40+07:00",
+      "fetched": "2025-11-12T13:26:47.467104+07:00"
+    },
+    {
+      "id": "e11d772f8024bcca72c41826bec442b0",
+      "title": "Djokovic: 'Tôi không có tư cách nhận mình là tay vợt vĩ đại nhất'",
+      "link": "https://vnexpress.net/djokovic-toi-khong-co-tu-cach-nhan-minh-la-tay-vot-vi-dai-nhat-4962910.html",
+      "summary": "Trong cuộc phỏng vấn với người dẫn chương trình nổi tiếng Piers Morgan, Novak Djokovic không nghĩ bản thân vĩ đại hơn Roger Federer hay Rafael Nadal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:01:36+07:00",
+      "fetched": "2025-11-12T13:26:40.976519+07:00"
+    },
+    {
+      "id": "e11d772f8024bcca72c41826bec442b0",
+      "title": "Djokovic: 'Tôi không có tư cách nhận mình là tay vợt vĩ đại nhất'",
+      "link": "https://vnexpress.net/djokovic-toi-khong-co-tu-cach-nhan-minh-la-tay-vot-vi-dai-nhat-4962910.html",
+      "summary": "Trong cuộc phỏng vấn với người dẫn chương trình nổi tiếng Piers Morgan, Novak Djokovic không nghĩ bản thân vĩ đại hơn Roger Federer hay Rafael Nadal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T05:01:36+07:00",
+      "fetched": "2025-11-12T13:26:51.652388+07:00"
+    },
+    {
+      "id": "8652e54ab33505803cff2a1d8a64ce00",
+      "title": "Lương bình quân đóng bảo hiểm của chủ hộ kinh doanh khoảng 3,5 triệu đồng",
+      "link": "https://vnexpress.net/luong-binh-quan-dong-bao-hiem-cua-chu-ho-kinh-doanh-khoang-3-5-trieu-dong-4962980.html",
+      "summary": "Cả nước có hơn 12.300 chủ hộ kinh doanh tham gia bảo hiểm xã hội (BHXH) bắt buộc với nền tiền lương bình quân 3,5 triệu đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:01:27+07:00",
+      "fetched": "2025-11-12T13:26:40.976682+07:00"
+    },
+    {
+      "id": "58119fb98b57bc08ccb0ff80cabb4b06",
+      "title": "VinFast Limo Green: xe dịch vụ có phù hợp với gia đình?",
+      "link": "https://vnexpress.net/vinfast-limo-green-xe-dich-vu-co-phu-hop-voi-gia-dinh-4962974.html",
+      "summary": "Giám khảo Thượng Tiến đánh giá xe có độ đầm chắc, tăng tốc tốt nhưng trang bị nghèo nàn, lái không thật tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:01:03+07:00",
+      "fetched": "2025-11-12T13:26:40.976845+07:00"
+    },
+    {
+      "id": "e581ab68250728d087404a8e4f1910aa",
+      "title": "Người khiếm thính không câm lặng",
+      "link": "https://vnexpress.net/nguoi-khiem-thinh-khong-cam-lang-4962239.html",
+      "summary": "Tôi quen Thành Nguyễn trong một buổi chiều ồn ào ở trung tâm Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:00:00+07:00",
+      "fetched": "2025-11-12T13:26:40.977010+07:00"
+    },
+    {
+      "id": "1a03fb64d3335df0d35bc923011083f7",
+      "title": "Lo sợ nhiễm bệnh dại vì bị bò cắn",
+      "link": "https://vnexpress.net/lo-so-nhiem-benh-dai-vi-bi-bo-can-4962952.html",
+      "summary": "Trong lúc cho bò ăn cỏ, ông Hải, 52 tuổi bị bò cắn vào ngón tay cái chảy máu và bầm tím.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:00:00+07:00",
+      "fetched": "2025-11-12T13:26:40.977191+07:00"
+    },
+    {
+      "id": "70acd5ea384953672598011da0db629e",
+      "title": "Masan Consumer duy trì tăng trưởng bằng chiến lược đa ngành",
+      "link": "https://vnexpress.net/masan-consumer-duy-tri-tang-truong-bang-chien-luoc-da-nganh-4962935.html",
+      "summary": "Masan Consumer (MCH) phát triển chiến lược đa ngành hàng, mạng lưới phân phối phủ khắp, chinh phục gian bếp Việt rồi mở rộng ra quốc tế qua 30 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:00:00+07:00",
+      "fetched": "2025-11-12T13:26:40.977357+07:00"
+    },
+    {
+      "id": "70acd5ea384953672598011da0db629e",
+      "title": "Masan Consumer duy trì tăng trưởng bằng chiến lược đa ngành",
+      "link": "https://vnexpress.net/masan-consumer-duy-tri-tang-truong-bang-chien-luoc-da-nganh-4962935.html",
+      "summary": "Masan Consumer (MCH) phát triển chiến lược đa ngành hàng, mạng lưới phân phối phủ khắp, chinh phục gian bếp Việt rồi mở rộng ra quốc tế qua 30 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T05:00:00+07:00",
+      "fetched": "2025-11-12T13:26:47.468064+07:00"
+    },
+    {
+      "id": "f24f2ec9d2330b31f90ab71ffba431f3",
+      "title": "TP HCM có thể được giao xây nhà xã hội nhiều nhất cả nước",
+      "link": "https://vnexpress.net/tp-hcm-co-the-duoc-giao-xay-nha-xa-hoi-nhieu-nhat-ca-nuoc-4962949.html",
+      "summary": "TP HCM có thể cần hoàn thành hơn 194.000 căn nhà xã hội đến 2030 - nhiều nhất cả nước, và gấp gần 2,8 mức trước sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:52:08+07:00",
+      "fetched": "2025-11-12T13:26:40.977517+07:00"
+    },
+    {
+      "id": "c6d678adc1ada05b87194f369267ff65",
+      "title": "40 tuổi nợ 2 tỷ mua nhà khiến tôi khao khát bỏ Hà Nội về quê",
+      "link": "https://vnexpress.net/that-nghiep-tuoi-40-mon-no-2-ty-mua-nha-khien-toi-khao-khat-bo-pho-ve-que-o-tuoi-40-4962892.html",
+      "summary": "Bước vào tuổi trung niên - giai đoạn dễ bị đào thải nhất, cộng thêm khoản nợ ngân hàng 2 tỷ, tôi kiệt sức, tính buông bỏ đề về quê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:48:48+07:00",
+      "fetched": "2025-11-12T13:26:40.977678+07:00"
+    },
+    {
+      "id": "5928d061eb588f25f12ceefd236ac234",
+      "title": "Trung Quốc mạnh tay trấn áp 'đại dịch lừa đảo'",
+      "link": "https://vnexpress.net/trung-quoc-manh-tay-tran-ap-dai-dich-lua-dao-4962665.html",
+      "summary": "Chính phủ Trung Quốc đang đẩy mạnh chiến dịch trấn áp tội phạm trực tuyến, nhằm trấn an dư luận sau khi hàng nghìn công dân bị dụ tới các ổ lừa đảo ở Myanmar.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:48:28+07:00",
+      "fetched": "2025-11-12T13:26:40.977836+07:00"
+    },
+    {
+      "id": "5928d061eb588f25f12ceefd236ac234",
+      "title": "Trung Quốc mạnh tay trấn áp 'đại dịch lừa đảo'",
+      "link": "https://vnexpress.net/trung-quoc-manh-tay-tran-ap-dai-dich-lua-dao-4962665.html",
+      "summary": "Chính phủ Trung Quốc đang đẩy mạnh chiến dịch trấn áp tội phạm trực tuyến, nhằm trấn an dư luận sau khi hàng nghìn công dân bị dụ tới các ổ lừa đảo ở Myanmar.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T04:48:28+07:00",
+      "fetched": "2025-11-12T13:26:45.953155+07:00"
+    },
+    {
+      "id": "55b0e5b1a591523cafcda5039fa8a544",
+      "title": "Carragher: 'Liverpool tuột dốc vì Slot thích chơi đẹp'",
+      "link": "https://vnexpress.net/carragher-liverpool-tuot-doc-vi-slot-thich-choi-dep-4962820.html",
+      "summary": "Theo cựu hậu vệ Jamie Carragher, Liverpool đang phải trả giá vì HLV Arne Slot theo đuổi lối chơi quyến rũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T04:39:37+07:00",
+      "fetched": "2025-11-12T13:26:40.978004+07:00"
+    },
+    {
+      "id": "55b0e5b1a591523cafcda5039fa8a544",
+      "title": "Carragher: 'Liverpool tuột dốc vì Slot thích chơi đẹp'",
+      "link": "https://vnexpress.net/carragher-liverpool-tuot-doc-vi-slot-thich-choi-dep-4962820.html",
+      "summary": "Theo cựu hậu vệ Jamie Carragher, Liverpool đang phải trả giá vì HLV Arne Slot theo đuổi lối chơi quyến rũ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T04:39:37+07:00",
+      "fetched": "2025-11-12T13:26:51.653369+07:00"
+    },
+    {
+      "id": "3d3822151b879d4e7fa9002ed3526393",
+      "title": "Nghị sĩ Mỹ lái môtô 1.500 km để bỏ phiếu mở lại chính phủ",
+      "link": "https://vnexpress.net/nghi-si-my-lai-moto-1-500-km-de-bo-phieu-mo-lai-chinh-phu-4962902.html",
+      "summary": "Lo ngại về tình trạng nhiều chuyến bay bị hủy, hạ nghị sĩ Cộng hòa Derrick Van Orden lái môtô từ bang Wisconsin tới thủ đô Washington để bỏ phiếu nhằm mở lại chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T04:33:04+07:00",
+      "fetched": "2025-11-12T13:26:45.953347+07:00"
+    },
+    {
+      "id": "0b876da09b60e7e7312d971f36cee0f5",
+      "title": "Nỗi lo bong bóng AI khi SoftBank bán hết cổ phần Nvidia",
+      "link": "https://vnexpress.net/noi-lo-bong-bong-ai-khi-softbank-ban-het-co-phan-nvidia-4962904.html",
+      "summary": "Đại gia viễn thông Nhật Bản thoái vốn khỏi Nvidia trong bối cảnh nhiều ngân hàng cảnh báo bong bóng, làm dấy lên lo ngại cơn sốt AI đã đạt đỉnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T04:28:02+07:00",
+      "fetched": "2025-11-12T13:26:47.467276+07:00"
+    },
+    {
+      "id": "b1f5fa773b039ddd4003ffc73b18014e",
+      "title": "Ronaldo ấn định World Cup cuối cùng",
+      "link": "https://vnexpress.net/ronaldo-an-dinh-world-cup-cuoi-cung-4962816.html",
+      "summary": "Cristiano Ronaldo xác định World Cup 2026 sẽ là giải vô địch thế giới cuối cùng trong sự nghiệp, khi anh 41 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T04:22:10+07:00",
+      "fetched": "2025-11-12T13:26:51.652552+07:00"
     },
     {
       "id": "622c965f44cf99014c561facba31080a",
