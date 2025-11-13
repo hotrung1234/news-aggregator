@@ -1,7 +1,157 @@
 window.newsData_2025_11_13 = {
   "date": "2025-11-13",
-  "lastUpdated": "2025-11-13T10:12:44.027926+07:00",
+  "lastUpdated": "2025-11-13T11:22:45.668808+07:00",
   "articles": [
+    {
+      "id": "347621fa021554f6a20989430d53bb7d",
+      "title": "Ngạt mũi, đau đầu, thanh niên 25 tuổi nhập viện vì nhiễm trùng sọ",
+      "link": "https://tuoitre.vn/ngat-mui-dau-dau-thanh-nien-25-tuoi-nhap-vien-vi-nhiem-trung-so-20251113085159159.htm",
+      "summary": "Trước khi nhập viện hai tuần, nam thanh niên 25 tuổi chỉ bị ngạt mũi, đau đầu nhẹ và được kê kháng sinh về uống. Sau đó nhập viện trong tình trạng sốt cao, tiểu tiện không tự chủ. Các bác sĩ phát hiện có huyết khối nhiễm trùng ở nền sọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.005613+07:00",
+      "fetched": "2025-11-13T11:22:37.005747+07:00"
+    },
+    {
+      "id": "b77b484998336bc25755ad001a93e29e",
+      "title": "Đại hội Công đoàn Công ty Thủy điện Sông Bung lần thứ IV",
+      "link": "https://tuoitre.vn/dai-hoi-cong-doan-cong-ty-thuy-dien-song-bung-lan-thu-iv-20251113085235335.htm",
+      "summary": "Công ty Thủy điện Sông Bung (TĐSB) vừa tổ chức Đại hội Công đoàn lần thứ IV (nhiệm kỳ 2025 - 2030) nhằm xác định mục tiêu, nhiệm vụ trọng tâm trong giai đoạn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.005490+07:00",
+      "fetched": "2025-11-13T11:22:37.005602+07:00"
+    },
+    {
+      "id": "66bca69672d54a2ee46fb998969b8747",
+      "title": "Adele đóng phim của ông trùm thời trang Tom Ford",
+      "link": "https://tuoitre.vn/adele-dong-phim-cua-ong-trum-thoi-trang-tom-ford-20251113091925618.htm",
+      "summary": "'Họa mi nước Anh' Adele lần đầu thử sức diễn xuất trong phim điện ảnh Cry to Heaven của đạo diễn kiêm nhà thiết kế thời trang Tom Ford, chuyển thể từ tiểu thuyết của Anne Rice.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.005366+07:00",
+      "fetched": "2025-11-13T11:22:37.005479+07:00"
+    },
+    {
+      "id": "5653eb9b76d69508d2c73ba61e4e8c87",
+      "title": "Gia Lai đăng cai Năm Du lịch quốc gia 2026",
+      "link": "https://tuoitre.vn/gia-lai-dang-cai-nam-du-lich-quoc-gia-2026-20251113091040451.htm",
+      "summary": "Bộ Văn hóa, Thể thao và Du lịch thống nhất chọn tỉnh Gia Lai là địa phương đăng cai Năm Du lịch quốc gia 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.005242+07:00",
+      "fetched": "2025-11-13T11:22:37.005355+07:00"
+    },
+    {
+      "id": "44b761de896b95f1e901d76c0ee60c61",
+      "title": "Bắt thêm một người lừa bán đất sân bay Phú Quốc, chiếm đoạt hơn 1 tỉ đồng",
+      "link": "https://tuoitre.vn/bat-them-mot-nguoi-lua-ban-dat-san-bay-phu-quoc-chiem-doat-hon-1-ti-dong-20251113091039936.htm",
+      "summary": "Công an tỉnh An Giang đã bắt tạm giam Lê Thanh Hà ở đặc khu Phú Quốc có hành vi lừa bán đất cảng hàng không quốc tế Phú Quốc (sân bay Phú Quốc), chiếm đoạt hơn 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.005115+07:00",
+      "fetched": "2025-11-13T11:22:37.005231+07:00"
+    },
+    {
+      "id": "fdf8db22443b16413a408d30741d138c",
+      "title": "Để vùng biên cũng là nơi đáng sống",
+      "link": "https://tuoitre.vn/de-vung-bien-cung-la-noi-dang-song-20251113084208732.htm",
+      "summary": "Lần đầu tiên trong lịch sử, 72 trường học thuộc danh mục 100 trường phổ thông nội trú liên cấp tiểu học và THCS được đồng loạt khởi công tại 14 xã biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004982+07:00",
+      "fetched": "2025-11-13T11:22:37.005103+07:00"
+    },
+    {
+      "id": "56a73891b31919a6e6fd16ac8c985fc5",
+      "title": "Đoàn tuyên giáo, báo chí TP.HCM thăm và tặng quà hộ dân bị ảnh hưởng bão lũ tại Thái Nguyên",
+      "link": "https://tuoitre.vn/doan-tuyen-giao-bao-chi-tp-hcm-tham-va-tang-qua-ho-dan-bi-anh-huong-bao-lu-tai-thai-nguyen-20251113091124724.htm",
+      "summary": "Đoàn công tác TP.HCM làm việc tại Thái Nguyên, tặng quà cho hộ dân bị ảnh hưởng bởi bão lũ, học sinh khó khăn và 500 lá cờ Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004845+07:00",
+      "fetched": "2025-11-13T11:22:37.004969+07:00"
+    },
+    {
+      "id": "2747be8611459d0952c294b42e6f1473",
+      "title": "Tuyển bóng bàn Việt Nam đi Trung Quốc tập huấn, chỉ tiêu 1 HCV SEA Games 33",
+      "link": "https://tuoitre.vn/tuyen-bong-ban-viet-nam-di-trung-quoc-tap-huan-chi-tieu-1-hcv-sea-games-33-20251113092335156.htm",
+      "summary": "Đội tuyển bóng bàn Việt Nam tiếp tục đặt chỉ tiêu giành 1 HCV tại SEA Games 33, tương tự như khi dự những kỳ đại hội thể thao khu vực trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004719+07:00",
+      "fetched": "2025-11-13T11:22:37.004834+07:00"
+    },
+    {
+      "id": "444326912d4c06d37bd9c84432be8449",
+      "title": "Chuyên gia Trung Quốc: Truyền thông hãy thôi đổ lỗi sau trận thua Việt Nam",
+      "link": "https://tuoitre.vn/chuyen-gia-trung-quoc-truyen-thong-hay-thoi-do-loi-sau-tran-thua-viet-nam-20251113093523672.htm",
+      "summary": "Dù truyền thông Trung Quốc đổ lỗi cho việc thiếu vắng nhiều trụ cột, nhiều chuyên gia bóng đá vẫn cho rằng U22 Trung Quốc đã nhận một thất bại 'tâm phục khẩu phục' trước U22 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004560+07:00",
+      "fetched": "2025-11-13T11:22:37.004706+07:00"
+    },
+    {
+      "id": "aa69789203815b51271fb9d2d5800619",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Sức trẻ và tận hiến cho văn chương",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-suc-tre-va-tan-hien-cho-van-chuong-20251113044544877.htm",
+      "summary": "Giữa thời buổi vật chất lên ngôi, khi \"văn chương dường như mất giá\" (cách nói của nhà văn Nguyễn Đình Tú), những người tâm huyết với văn chương đã dũng cảm tạo ra một kỳ tích: Chuyên san \"Đường Văn\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004432+07:00",
+      "fetched": "2025-11-13T11:22:37.004548+07:00"
+    },
+    {
+      "id": "eb987059b7d94d82fa653ef13c0b44f1",
+      "title": "Cần giải pháp đột phá để thu hút nhân tài",
+      "link": "https://tuoitre.vn/can-giai-phap-dot-pha-de-thu-hut-nhan-tai-2025111308382264.htm",
+      "summary": "Để thu hút người giỏi vào khu vực công làm việc, ngoài các ưu đãi vượt trội về lương, phụ cấp, bố trí nhà ở, bổ nhiệm vượt cấp, cần tạo lập môi trường thuận lợi khuyến khích họ phát huy tối đa năng lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004305+07:00",
+      "fetched": "2025-11-13T11:22:37.004421+07:00"
+    },
+    {
+      "id": "920e5a88c5a06f1b38386cf1bee91a22",
+      "title": "Phe Dân chủ công bố thông tin mới vụ tỉ phú ấu dâm Epstein, ông Trump liền lên tiếng",
+      "link": "https://tuoitre.vn/phe-dan-chu-cong-bo-thong-tin-moi-vu-ti-phu-au-dam-epstein-ong-trump-lien-len-tieng-20251113095342231.htm",
+      "summary": "Phe Dân chủ công bố các email cho thấy ông Trump biết về hành vi lạm dụng tình dục trẻ vị thành niên của 'tỉ phú ấu dâm' Jeffrey Epstein và từng dành nhiều giờ với một nạn nhân. Tuy nhiên phía ông Trump đã bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004176+07:00",
+      "fetched": "2025-11-13T11:22:37.004294+07:00"
+    },
+    {
+      "id": "ec25d47645b3a5a694e8a70089a0c96a",
+      "title": "Lee Kwang Soo tha hóa, vào vai phản diện tàn độc nhất sự nghiệp",
+      "link": "https://tuoitre.vn/lee-kwang-soo-tha-hoa-vao-vai-phan-dien-tan-doc-nhat-su-nghiep-20251113095846276.htm",
+      "summary": "Không còn là 'cây hài' thường thấy, Lee Kwang Soo khiến khán giả choáng váng khi hóa thân thành phản diện đầy quyền lực, cực ác trong The Manipulated.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.004044+07:00",
+      "fetched": "2025-11-13T11:22:37.004164+07:00"
+    },
+    {
+      "id": "5e9008dbd21ca7186707c1ad48891162",
+      "title": "Khởi tố vụ án vỡ hồ chứa nước làm chết người ở Tuy Phong",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-vo-ho-chua-nuoc-lam-chet-nguoi-o-tuy-phong-20251113095246929.htm",
+      "summary": "Viện Kiểm sát nhân dân tỉnh Lâm Đồng đã phê chuẩn quyết định khởi tố vụ án liên quan vụ vỡ hồ chứa nước trên núi Tân Lai, xã Tuy Phong (khu vực Bình Thuận cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.003903+07:00",
+      "fetched": "2025-11-13T11:22:37.004031+07:00"
+    },
+    {
+      "id": "dbc0d0c106f1aa548fa13467f4dcc45b",
+      "title": "Thanh tra tỉnh Khánh Hòa đóng dấu 'Mật' phiếu hướng dẫn cho dân, vì sao?",
+      "link": "https://tuoitre.vn/thanh-tra-tinh-khanh-hoa-dong-dau-mat-phieu-huong-dan-cho-dan-vi-sao-20251112213406271.htm",
+      "summary": "Theo nguyên Chánh Thanh tra tỉnh Khánh Hòa, việc đóng dấu “Mật” phiếu hướng dẫn về đơn tố cáo đã gởi cho công dân là theo quy định pháp luật chuyên ngành và là “để bảo vệ người tố cáo”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T11:22:37.003684+07:00",
+      "fetched": "2025-11-13T11:22:37.003889+07:00"
+    },
     {
       "id": "da7024ede3a233b9e26fe3de31962f6c",
       "title": "Trẻ sơ sinh bệnh nặng sau 10 giờ xuất viện, bệnh viện nói gì?",
@@ -303,6 +453,336 @@ window.newsData_2025_11_13 = {
       "fetched": "2025-11-13T08:19:19.182422+07:00"
     },
     {
+      "id": "ed678ed0720c5743269d433e0de6d574",
+      "title": "Sếp Google mách nước để game 'Phở anh Hai' thành Flappy Bird tiếp theo của Việt Nam",
+      "link": "https://thanhnien.vn/sep-google-mach-nuoc-de-game-pho-anh-hai-thanh-flappy-bird-tiep-theo-cua-viet-nam-185251112224348724.htm",
+      "summary": "Ông Aditya Swamy, Giám đốc điều hành Google Play khu vực châu Á - Thái Bình Dương (APAC) phân tích những yếu tố dẫn đến thành công bất ngờ trong game \"Phở anh Hai\" của sinh viên Việt Nam và mách nước để sản phẩm có thể thành hiện tượng toàn cầu như Flappy Bird của Nguyễn Hà Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:21:00+07:00",
+      "fetched": "2025-11-13T11:22:35.925835+07:00"
+    },
+    {
+      "id": "363cb319fb155277ba6c97adf1e43dde",
+      "title": "Ca sĩ Lâm Hùng nghẹn ngào nhắc về quá khứ",
+      "link": "https://thanhnien.vn/ca-si-lam-hung-nghen-ngao-nhac-ve-qua-khu-185251113093910377.htm",
+      "summary": "Trong 'Mái ấm gia đình Việt', hoàn cảnh khó khăn của các em nhỏ khiến Lâm Hùng nghẹn ngào khi nhớ về tuổi thơ mồ côi cha của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:19:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926004+07:00"
+    },
+    {
+      "id": "19d5c351caacb9018126413a99d2ac43",
+      "title": "Quán ăn 'huyền thoại' ở TP.HCM sắp đóng cửa: Tạm biệt bà chủ đọc rap tính tiền",
+      "link": "https://thanhnien.vn/quan-an-huyen-thoai-o-tphcm-sap-dong-cua-tam-biet-ba-chu-doc-rap-tinh-tien-185251112232635896.htm",
+      "summary": "Quán ăn có tuổi đời hơn 2 thập kỷ, nổi tiếng với câu chuyện bà chủ quán đọc rap tính tiền siêu độc đáo, sắp nói lời tạm biệt với thực khách TP.HCM. Nhiều người tiếc nuối vì đây là quán ăn 'huyền thoại' của nhiều thế hệ học sinh, sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:16:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926163+07:00"
+    },
+    {
+      "id": "5d5bf543bf96e6b04bb01576b30ba478",
+      "title": "Sở NN - MT TP.HCM thu ngân sách tăng 353%",
+      "link": "https://thanhnien.vn/so-nn-mt-tphcm-thu-ngan-sach-tang-353-185251113100956022.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được đã có thư khen Sở NN - MT vì đã có thành tích xuất sắc trong thực hiện nhiệm vụ thu ngân sách nhà nước 10 tháng đầu năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:12:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926320+07:00"
+    },
+    {
+      "id": "6ead8f7a73e6529a71369638ec5e5d02",
+      "title": "Đắk Lắk: Cảnh sát xuất hiện tại trụ sở thẩm mỹ viện Mailisa",
+      "link": "https://thanhnien.vn/dak-lak-canh-sat-xuat-hien-tai-tru-so-tham-my-vien-mailisa-185251113105918362.htm",
+      "summary": "Nhiều cảnh sát xuất hiện tại trụ sở thẩm mỹ viện Mailisa ở P.Buôn Ma Thuột, Đắk Lắk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:11:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926473+07:00"
+    },
+    {
+      "id": "3ba0da19c94c0db3a9b76bf4792808c0",
+      "title": "Bảng giá đất sẽ lấy ý kiến người dân trước khi ban hành",
+      "link": "https://thanhnien.vn/bang-gia-dat-se-lay-y-kien-nguoi-dan-truoc-khi-ban-hanh-185251113105328329.htm",
+      "summary": "Thông tin từ Sở Nông nghiệp - Môi trường TP.HCM cho biết, TP.HCM đang xây dựng bảng giá đất lần đầu và sẽ đưa ra để lấy ý kiến góp ý của các tổ chức, các tầng lớp nhân dân trước khi cấp có thẩm quyền ban hành quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:11:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926649+07:00"
+    },
+    {
+      "id": "97a8175777c24dd3d4f25710be0e9a2c",
+      "title": "Lần đầu tiên TP.HCM hoàn thành chỉ tiêu thuế cả năm sau 10 tháng",
+      "link": "https://thanhnien.vn/lan-dau-tien-tphcm-hoan-thanh-chi-tieu-thue-ca-nam-sau-10-thang-185251113105858862.htm",
+      "summary": "Theo Thuế TP.HCM, tổng thu ngân sách trên địa bàn 10 tháng đầu năm đạt 510.183 tỉ đồng, tương đương 102% dự toán Chính phủ giao, 98% dự toán Hội đồng nhân dân giao và tăng xấp xỉ 20% so với cùng kỳ. Lần đầu tiên, TP.HCM hoàn thành số thu ngân sách năm chỉ sau 10 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:10:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926809+07:00"
+    },
+    {
+      "id": "9e7d6d8bf6195f9087bcd6369ee4b0dd",
+      "title": "Ngọc Sơn nhắc về mối ơn với cố nhạc sĩ Thế Hiển",
+      "link": "https://thanhnien.vn/ngoc-son-nhac-ve-moi-on-voi-co-nhac-si-the-hien-185251113101423255.htm",
+      "summary": "Trong chương trình Kính đa chiều, Ngọc Sơn có dịp chia sẻ về kỷ niệm được nhạc sĩ Thế Hiển động viên nên thử sức ở nhiều dòng nhạc, từ đó mở ra hướng đi mới cho sự nghiệp của nam ca sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:10:00+07:00",
+      "fetched": "2025-11-13T11:22:35.926978+07:00"
+    },
+    {
+      "id": "c3b1d7b66b86c4f2370695ee4674d11b",
+      "title": "Chỉ 1 tháng, CSGT TP.HCM phạt hơn 15.700 tài xế vi phạm nồng độ cồn",
+      "link": "https://thanhnien.vn/chi-1-thang-csgt-tphcm-phat-hon-15700-tai-xe-vi-pham-nong-do-con-185251113093609251.htm",
+      "summary": "Trong 1 tháng ra quân cao điểm, hơn 15.700 tài xế vi phạm nồng độ cồn bị CSGT TP.HCM phạt; trong đó, nhiều trường hợp bị thổi nồng độ cồn ban ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:09:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927137+07:00"
+    },
+    {
+      "id": "b4765a0d7dfc757ac1bb99796794f547",
+      "title": "TP.HCM: Hộ dân nuôi heo giữa khu dân cư phường Tam Thắng xả thải ra môi trường",
+      "link": "https://thanhnien.vn/tphcm-ho-dan-nuoi-heo-giua-khu-dan-cu-phuong-tam-thang-xa-thai-ra-moi-truong-185251113102500933.htm",
+      "summary": "Toàn bộ nước thải, phân heo được hộ chăn nuôi xả thẳng xuống ao, sau đó chảy ra mương nước tự nhiên, khi phóng viên phản ánh thì tổ trưởng của khu phố cho rằng nuôi heo theo mô hình 'vườn - ao - chuồng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:07:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927295+07:00"
+    },
+    {
+      "id": "4d3c13d7c8aeabed7854445e50091740",
+      "title": "Sau 10 năm trả nợ gần 8 tỷ đồng, giờ tôi có nên sống hưởng thụ?",
+      "link": "https://vnexpress.net/sau-10-nam-tra-no-gan-8-ty-dong-gio-toi-co-nen-song-huong-thu-4963116.html",
+      "summary": "Tổng tài sản của tôi có 4 miếng đất, tạm tính giá thị trường trên dưới 11 tỷ đồng, chỉ cần tôi đồng ý sẽ có người mua ngay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.181512+07:00"
+    },
+    {
+      "id": "8ca71cc87e9c6ec515a9b32adb6c619e",
+      "title": "'Vẽ kể chuyện' - TikToker lan tỏa tình yêu sử Việt",
+      "link": "https://vnexpress.net/ve-ke-chuyen-tiktoker-lan-toa-tinh-yeu-su-viet-4962992.html",
+      "summary": "Thủy Tiên - chủ kênh TikTok \"Vẽ kể chuyện\" - dùng hội họa và giọng kể thổi hồn vào những câu chuyện lịch sử, truyền cảm hứng cho giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.181715+07:00"
+    },
+    {
+      "id": "49445db6463400b022d958332400a61b",
+      "title": "Cơn sốt khai thác đất hiếm ở Greenland",
+      "link": "https://vnexpress.net/con-sot-khai-thac-dat-hiem-o-greenland-4962722.html",
+      "summary": "Nguồn khoáng sản đất hiếm phong phú trên đảo Greenland hấp dẫn nhiều công ty tìm cách thăm dò và khai thác bất chấp nhiều thách thức về địa hình và cơ sở hạ tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.181890+07:00"
+    },
+    {
+      "id": "644762c87bde76fa31881d12bebd77a9",
+      "title": "Tìm anh đi cùng chặng đường dài trong cuộc sống",
+      "link": "https://vnexpress.net/tim-anh-di-cung-chang-duong-dai-trong-cuoc-song-4959260.html",
+      "summary": "Tôi tin rằng một tình yêu chân thành, sự tôn trọng và sự thấu hiểu là nền tảng của mọi mối quan hệ bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.181996+07:00"
+    },
+    {
+      "id": "a34c4501f07dc231736cd71f36b62598",
+      "title": "Thoát chạy thận sau hai tháng lọc máu",
+      "link": "https://vnexpress.net/thoat-chay-than-sau-hai-thang-loc-mau-4963374.html",
+      "summary": "Ông Sỹ, 65 tuổi, tổn thương thận cấp, độ lọc cầu thận giảm, sau hai tháng lọc máu định kỳ hàng tuần đã hồi phục nên không phải chạy thận lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.182155+07:00"
+    },
+    {
+      "id": "1ed362b4449f4cfef1f1229e749118e7",
+      "title": "Acecook Việt Nam ra mắt website mới",
+      "link": "https://vnexpress.net/acecook-viet-nam-ra-mat-website-moi-4963373.html",
+      "summary": "Công ty cổ phần Acecook Việt Nam ra mắt giao diện website mới nhân kỷ niệm 30 năm ngày bán hàng đầu tiên, đánh dấu bước tiến trong chiến lược chuyển đổi số toàn diện của doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.182317+07:00"
+    },
+    {
+      "id": "cce222f11bc64de754778c0b2aacc0fc",
+      "title": "Phong cách sống giữa không gian lớn tại đô thị Gold Coast Vung Tau",
+      "link": "https://vnexpress.net/phong-cach-song-giua-khong-gian-lon-tai-do-thi-gold-coast-vung-tau-4963127.html",
+      "summary": "Gold Coast Vung Tau theo đuổi phong cách \"Mega Living - sống giữa không gian lớn\" kiến tạo từ 11 trụ cột mega.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:32.182479+07:00"
+    },
+    {
+      "id": "1ac0db8829961a7830e06e2a58c3d59f",
+      "title": "Xem nhanh 12h: Điểm thi IELTS gặp 'sự cố kỹ thuật' | Căng thẳng Thái Lan-Campuchia leo thang",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-diem-thi-ielts-gap-su-co-ky-thuat-cang-thang-thai-lan-campuchia-leo-thang-185251113105855118.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 13.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927460+07:00"
+    },
+    {
+      "id": "49445db6463400b022d958332400a61b",
+      "title": "Cơn sốt khai thác đất hiếm ở Greenland",
+      "link": "https://vnexpress.net/con-sot-khai-thac-dat-hiem-o-greenland-4962722.html",
+      "summary": "Nguồn khoáng sản đất hiếm phong phú trên đảo Greenland hấp dẫn nhiều công ty tìm cách thăm dò và khai thác bất chấp nhiều thách thức về địa hình và cơ sở hạ tầng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T04:00:00+07:00",
+      "fetched": "2025-11-13T11:22:44.586278+07:00"
+    },
+    {
+      "id": "faa61fb185d7a43f1847f6174f0dda67",
+      "title": "Lý do ba thẩm phán livestream bán hàng tại tòa",
+      "link": "https://vnexpress.net/ly-do-ba-tham-phan-livestream-ban-hang-tai-toa-4963410.html",
+      "summary": "Ba thẩm phán ở Nam Kinh, Trung Quốc, gây chú ý khi livestream bán cua ngay tại tòa án, giúp một bị đơn trả khoản nợ 800.000 tệ kéo dài 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:57:57+07:00",
+      "fetched": "2025-11-13T11:22:32.182654+07:00"
+    },
+    {
+      "id": "802179c5ecaf80f7b5405c4e869fad61",
+      "title": "U.23 Việt Nam thắng Trung Quốc sau 6 năm: Điềm lành vô địch SEA Games",
+      "link": "https://thanhnien.vn/u23-viet-nam-thang-trung-quoc-sau-6-nam-diem-lanh-vo-dich-sea-games-185251113104136294.htm",
+      "summary": "Lần gần nhất U.23 Việt Nam đánh bại U.23 Trung Quốc trên sân khách là 6 năm trước, sau đó, đội bóng của HLV Park Hang-seo đã vô địch SEA Games.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:57:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927611+07:00"
+    },
+    {
+      "id": "04b104e022a0c7f3baaa0e60034a256b",
+      "title": "Diễn đàn Đối thoại cấp cao về quan hệ kinh tế ASEAN – Ý lần 9",
+      "link": "https://thanhnien.vn/dien-dan-doi-thoai-cap-cao-ve-quan-he-kinh-te-asean-y-lan-9-185251113102314434.htm",
+      "summary": "Hôm 13.11, Diễn đàn Đối thoại cấp cao về quan hệ kinh tế ASEAN – Ý lần 9 đã diễn ra và tiếp tục là cầu nối chiến lược cho đầu tư, đổi mới sáng tạo, thương mại và phát triển xanh giữa các nước ASEAN và Ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:55:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927790+07:00"
+    },
+    {
+      "id": "1fb27533ff705a80a882636db90206f3",
+      "title": "Những người trẻ Trung Quốc 'ăn hai bữa một ngày với 1 USD'",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-trung-quoc-an-hai-bua-mot-ngay-voi-1-usd-4963072.html",
+      "summary": "Không mua sắm tùy hứng hay ăn uống xa xỉ, nhiều người trẻ Trung Quốc chọn sống tiết kiệm, thậm chí có thể ăn hai bữa một ngày chỉ với 1 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:54:15+07:00",
+      "fetched": "2025-11-13T11:22:32.182815+07:00"
+    },
+    {
+      "id": "1fb27533ff705a80a882636db90206f3",
+      "title": "Những người trẻ Trung Quốc 'ăn hai bữa một ngày với 1 USD'",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-trung-quoc-an-hai-bua-mot-ngay-voi-1-usd-4963072.html",
+      "summary": "Không mua sắm tùy hứng hay ăn uống xa xỉ, nhiều người trẻ Trung Quốc chọn sống tiết kiệm, thậm chí có thể ăn hai bữa một ngày chỉ với 1 USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T03:54:15+07:00",
+      "fetched": "2025-11-13T11:22:39.156572+07:00"
+    },
+    {
+      "id": "5df8ed632d9dbeddf43a9b375433088d",
+      "title": "Google bắt đầu 'trấn áp' ứng dụng ngốn pin thiết bị Android",
+      "link": "https://thanhnien.vn/google-bat-dau-tran-ap-ung-dung-ngon-pin-thiet-bi-android-18525111113211404.htm",
+      "summary": "Google tung đòn trừng phạt đối với những ứng dụng ngốn pin quá 2 giờ/ngày sẽ bị 'dán nhãn' cảnh báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:50:00+07:00",
+      "fetched": "2025-11-13T11:22:35.927938+07:00"
+    },
+    {
+      "id": "d7d93633af2930809452cf312626b029",
+      "title": "Không phải Vĩ Hào hay Minh Phúc, đây mới là ngôi sao sáng nhất U.23 Việt Nam trận thắng Trung Quốc",
+      "link": "https://thanhnien.vn/khong-phai-vy-hao-hay-minh-phuc-day-moi-la-ngoi-sao-sang-nhat-u23-viet-nam-tran-thang-trung-quoc-185251113103449431.htm",
+      "summary": "Bùi Vĩ Hào được thi đấu sau thời gian chấn thương, Minh Phúc ghi bàn giúp đội U.23 Việt Nam giành chiến thắng trước chủ nhà U.23 Trung Quốc trong trận đấu ngày 12.11 tại giải giao hữu Panda Cup. Nhưng nhân vật được xem là điểm nhấn trong trận thắng đáng ngợi khen này lại ở vị trí khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:47:00+07:00",
+      "fetched": "2025-11-13T11:22:35.928089+07:00"
+    },
+    {
+      "id": "3a6ceb204d05d83d690b16de21a5375a",
+      "title": "TP HCM kêu gọi hiến máu khi kho dự trữ giảm 50%",
+      "link": "https://vnexpress.net/tp-hcm-keu-goi-hien-mau-khi-kho-du-tru-giam-50-4963354.html",
+      "summary": "Kho máu TP HCM đang giảm còn 50% so với mức an toàn, Bệnh viện Truyền máu Huyết học kêu gọi người dân tham gia hiến máu để đảm bảo nguồn cung cho cấp cứu và điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:45:53+07:00",
+      "fetched": "2025-11-13T11:22:32.182983+07:00"
+    },
+    {
+      "id": "d70f83e17b7d6ba349782af23cabd37d",
+      "title": "Thu hồi toàn quốc kem chống nắng giả",
+      "link": "https://vnexpress.net/thu-hoi-toan-quoc-kem-chong-nang-gia-4963435.html",
+      "summary": "Cục Quản lý Dược đình chỉ lưu hành và thu hồi trên toàn quốc sản phẩm LYZEEN Whitening protective spectrum sunscreen SPF50+ PA++++, do xác định là hàng giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:45:22+07:00",
+      "fetched": "2025-11-13T11:22:32.183145+07:00"
+    },
+    {
+      "id": "a8a0782307d7134d9a5900ee41ca3990",
+      "title": "Hai nam sinh ở Thanh Hóa bị bắt sau cái chết của bạn học",
+      "link": "https://vnexpress.net/hai-nam-sinh-o-thanh-hoa-bi-bat-sau-cai-chet-cua-ban-hoc-4963414.html",
+      "summary": "Phạm Trọng Bảo Nam, 16 tuổi, bị bắt với cáo buộc sát hại bạn cùng lớp của Lê Anh Đức - nam sinh khóa trên, khi bị chặn đánh hồi giữa tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:32:52+07:00",
+      "fetched": "2025-11-13T11:22:32.183307+07:00"
+    },
+    {
+      "id": "e2d0116845cac3df88480fb59fba23bf",
+      "title": "FIFA phạt CLB Thanh Hóa",
+      "link": "https://vnexpress.net/fifa-phat-clb-thanh-hoa-4963399.html",
+      "summary": "Liên đoàn bóng đá thế giới cấm CLB Thanh Hóa chuyển nhượng cầu thủ trong ba kỳ liên tiếp vì chưa trả tiền cho ngoại binh Igor Silva.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:29:23+07:00",
+      "fetched": "2025-11-13T11:22:32.183464+07:00"
+    },
+    {
+      "id": "e2d0116845cac3df88480fb59fba23bf",
+      "title": "FIFA phạt CLB Thanh Hóa",
+      "link": "https://vnexpress.net/fifa-phat-clb-thanh-hoa-4963399.html",
+      "summary": "Liên đoàn bóng đá thế giới cấm CLB Thanh Hóa chuyển nhượng cầu thủ trong ba kỳ liên tiếp vì chưa trả tiền cho ngoại binh Igor Silva.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T03:29:23+07:00",
+      "fetched": "2025-11-13T11:22:45.660702+07:00"
+    },
+    {
+      "id": "94ff56aeda26a85883bb5aa9ae72b0b5",
+      "title": "Đề xuất trợ cấp 12 tháng lương cho viên chức mất việc do sắp xếp",
+      "link": "https://vnexpress.net/de-xuat-tro-cap-12-thang-luong-cho-vien-chuc-mat-viec-do-sap-xep-4963363.html",
+      "summary": "Đại biểu Nguyễn Hoàng Bảo Trân kiến nghị hỗ trợ tối thiểu 12 tháng lương cho viên chức thôi việc vì sắp xếp tổ chức, nhằm giảm áp lực tài chính và giúp họ ổn định cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:25:02+07:00",
+      "fetched": "2025-11-13T11:22:32.183642+07:00"
+    },
+    {
+      "id": "49afd757af79f1d5bd2e018a6499f8c4",
+      "title": "Nhiều bài thi IELTS bị chấm lại, sửa điểm",
+      "link": "https://vnexpress.net/nhieu-bai-thi-ielts-bi-cham-lai-sua-diem-4963415.html",
+      "summary": "Nhiều bài thi IELTS bị chấm lại, điểm chênh lệch so với ban đầu, được cho là do lỗi kỹ thuật ở phần Reading và Listening.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T03:24:06+07:00",
+      "fetched": "2025-11-13T11:22:32.183802+07:00"
+    },
+    {
       "id": "d4df9595529a3096686665a543983d50",
       "title": "Lý do U22 Việt Nam thắng sốc U22 Trung Quốc",
       "link": "https://tuoitre.vn/ly-do-u22-viet-nam-thang-soc-u22-trung-quoc-20251113004212484.htm",
@@ -341,6 +821,16 @@ window.newsData_2025_11_13 = {
       "category": "Thế giới",
       "published": "2025-11-13T03:02:55+07:00",
       "fetched": "2025-11-13T10:12:36.356681+07:00"
+    },
+    {
+      "id": "7e5b7b0de9267939c1d310adecf9a642",
+      "title": "World Cup 2026 sẽ vận hành phần lớn bằng AI",
+      "link": "https://vnexpress.net/world-cup-2026-se-van-hanh-phan-lon-bang-ai-4962948.html",
+      "summary": "World Cup 2026 được FIFA kỳ vọng là lần đầu tiên giải bóng đá lớn nhất thế giới được vận hành hầu hết bằng AI, gồm cả xử lý dữ liệu lớn, hỗ trợ trọng tài.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T03:00:30+07:00",
+      "fetched": "2025-11-13T11:22:44.586455+07:00"
     },
     {
       "id": "7b421fc732e2fd165ee45a59a06c6be4",
@@ -701,6 +1191,16 @@ window.newsData_2025_11_13 = {
       "category": "Thế giới",
       "published": "2025-11-13T01:31:27+07:00",
       "fetched": "2025-11-13T10:12:36.357178+07:00"
+    },
+    {
+      "id": "4475d840992f4be934a95ee78580b61c",
+      "title": "Chính phủ Mỹ mở cửa trở lại",
+      "link": "https://vnexpress.net/chinh-phu-my-mo-cua-tro-lai-4963330.html",
+      "summary": "Tổng thống Mỹ Donald Trump ký luật để chính quyền liên bang hoạt động trở lại, sau giai đoạn đóng cửa lâu nhất lịch sử kéo dài 43 ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T01:31:27+07:00",
+      "fetched": "2025-11-13T11:22:39.157260+07:00"
     },
     {
       "id": "d19940c79c2e9f38d24f9f6d1de4f739",
@@ -1911,6 +2411,16 @@ window.newsData_2025_11_13 = {
       "category": "Kinh doanh",
       "published": "2025-11-12T12:28:39+07:00",
       "fetched": "2025-11-13T01:24:53.545016+07:00"
+    },
+    {
+      "id": "e0137b208b05f90e3cd1f7b6fc651252",
+      "title": "'GDP phải tăng ít nhất 5 lần trong 20 năm tới để đạt mục tiêu năm 2045'",
+      "link": "https://vnexpress.net/gdp-phai-tang-it-nhat-5-lan-trong-20-nam-toi-de-dat-muc-tieu-nam-2045-4963181.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cho biết để Việt Nam trở thành nước phát triển, thu nhập cao vào năm 2045, GDP phải tăng tối thiểu 5 lần trong 20 năm tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T12:01:40+07:00",
+      "fetched": "2025-11-13T11:22:44.587457+07:00"
     },
     {
       "id": "09f1f851fbcad63f0c5d584a2f20ab63",
