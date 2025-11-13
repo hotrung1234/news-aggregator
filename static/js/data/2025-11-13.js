@@ -1,6 +1,6 @@
 window.newsData_2025_11_13 = {
   "date": "2025-11-13",
-  "lastUpdated": "2025-11-13T13:26:59.832429+07:00",
+  "lastUpdated": "2025-11-13T15:23:08.527862+07:00",
   "articles": [
     {
       "id": "aa73821be3ca979786fb585b8a6dd7b7",
@@ -453,6 +453,26 @@ window.newsData_2025_11_13 = {
       "fetched": "2025-11-13T10:12:34.500003+07:00"
     },
     {
+      "id": "31e9b78890466674cd94eecdf0df1697",
+      "title": "Cận cảnh cơ sở thẩm mỹ Mailisa TP.HCM tại thời điểm bị kiểm tra",
+      "link": "https://thanhnien.vn/can-canh-co-so-tham-my-mailisa-tphcm-tai-thoi-diem-bi-kiem-tra-185251113150314745.htm",
+      "summary": "Có hàng chục cán bộ công an đã có mặt, phong tỏa khu vực, kiểm tra hoạt động của cơ sở này. Tất cả các hoạt động của cơ sở Malissa trên đường Huỳnh Văn Bánh tạm dừng. Khi khách đến địa chỉ này, lực lượng chức năng yêu cầu rời đi ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:22:00+07:00",
+      "fetched": "2025-11-13T15:23:01.301550+07:00"
+    },
+    {
+      "id": "c6a1d5cc4a1521688112ecffaf88ae6e",
+      "title": "Diễn viên Hải Tuấn Kiệt được giúp đỡ sau video khóc cầu cứu",
+      "link": "https://thanhnien.vn/dien-vien-hai-tuan-kiet-duoc-giup-do-sau-video-khoc-cau-cuu-185251113134437624.htm",
+      "summary": "Sau khi đăng video cầu cứu cộng đồng mạng để có đủ tiền ghép gan cho vợ, Hải Tuấn Kiệt đã được Quách Phú Thành, Cổ Thiên Lạc và nhiều bạn bè trong ngành hỗ trợ kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:21:00+07:00",
+      "fetched": "2025-11-13T15:23:01.301712+07:00"
+    },
+    {
       "id": "3e8cd7265472b0569d66fd105adf2ca5",
       "title": "Một dòng chảy ấm học bổng Tiếp sức đến trường lặng lẽ khơi thông",
       "link": "https://tuoitre.vn/mot-dong-chay-am-hoc-bong-tiep-suc-den-truong-lang-le-khoi-thong-20251111111117685.htm",
@@ -601,6 +621,366 @@ window.newsData_2025_11_13 = {
       "category": "Tổng hợp",
       "published": "2025-11-13T08:19:19.182196+07:00",
       "fetched": "2025-11-13T08:19:19.182422+07:00"
+    },
+    {
+      "id": "685c08ce6fe466c3cf18c1ed96dfa1ce",
+      "title": "Thí sinh Hoa hậu Hoàn vũ 2025 nhập viện cấp cứu vì ngộ độc",
+      "link": "https://thanhnien.vn/thi-sinh-hoa-hau-hoan-vu-2025-nhap-vien-cap-cuu-vi-ngo-doc-185251113124726149.htm",
+      "summary": "Người đẹp Kincső Dezsényi (Hungary) vừa phải nhập viện vì ngộ độc thực phẩm nghiêm trọng. Một số thí sinh Hoa hậu Hoàn vũ 2025 cũng gặp tình trạng tương tự, từ đó đặt ra câu hỏi về khâu chăm sóc thí sinh của ban tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:15:00+07:00",
+      "fetched": "2025-11-13T15:23:01.301883+07:00"
+    },
+    {
+      "id": "7af7847222b647141836d051ec86dd92",
+      "title": "Bà Phùng Thị Hồng Hà làm Chủ tịch HĐND TP.Hà Nội",
+      "link": "https://thanhnien.vn/ba-phung-thi-hong-ha-lam-chu-tich-hdnd-tpha-noi-185251113095926918.htm",
+      "summary": "Phó bí thư Thành ủy, Phó chủ tịch thường trực HĐND TP.Hà Nội Phùng Thị Hồng Hà được bầu giữ chức Chủ tịch HĐND TP.Hà Nội khóa XVI, nhiệm kỳ 2021 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:11:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302039+07:00"
+    },
+    {
+      "id": "253f470b245c348f60db83dda2904ced",
+      "title": "Giá xăng dầu đồng loạt tăng từ 15 giờ chiều nay",
+      "link": "https://thanhnien.vn/gia-xang-dau-dong-loat-tang-tu-15-gio-chieu-nay-185251113150037138.htm",
+      "summary": "Bộ Công thương công bố điều chỉnh giá bán lẻ xăng dầu trong nước áp dụng từ 15 giờ chiều nay 13.11. Trong kỳ điều hành này, giá xăng, dầu diesel và dầu hỏa đồng loạt tăng, riêng dầu mazut giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:06:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302187+07:00"
+    },
+    {
+      "id": "ff11c3528f13e9658f06ceb8d738d73d",
+      "title": "Giao lưu hữu nghị quốc phòng biên giới Việt Nam - Campuchia lần thứ 2",
+      "link": "https://thanhnien.vn/giao-luu-huu-nghi-quoc-phong-bien-gioi-viet-nam-campuchia-lan-thu-2-185251113141220489.htm",
+      "summary": "Trong 2 ngày 13 - 14.11, chương trình Giao lưu hữu nghị quốc phòng biên giới Việt Nam - Campuchia lần thứ 2 được tổ chức tại khu vực biên giới chung giữa tỉnh Tây Ninh (Việt Nam) và tỉnh Svay Rieng (Campuchia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T08:03:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302335+07:00"
+    },
+    {
+      "id": "af01d180710fccb3072431b27bea753b",
+      "title": "Hôm nay đóng cổng bình chọn quạt trần tiết kiệm điện",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-quat-tran-tiet-kiem-dien-4963276.html",
+      "summary": "Số bình chọn thứ 8 của Sản phẩm tôi yêu 2025, với chủ đề Quạt trần tiết kiệm năng lượng được yêu thích nhất sẽ đóng vào cuối ngày 13/11.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T08:00:00+07:00",
+      "fetched": "2025-11-13T15:23:07.457570+07:00"
+    },
+    {
+      "id": "e392ec8e235bc7d80bb9f4f77cc2fbcb",
+      "title": "ChatGPT bớt 'lạnh lùng', biết nói chuyện khéo hơn nhờ GPT-5.1",
+      "link": "https://thanhnien.vn/chatgpt-bot-lanh-lung-biet-noi-chuyen-kheo-hon-nho-gpt-51-185251113144722176.htm",
+      "summary": "OpenAI vừa chính thức phát hành GPT-5.1, bản nâng cấp của GPT-5 ra mắt hồi tháng 8, nhằm giúp ChatGPT trở nên thông minh và dễ dàng trò chuyện hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:59:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302478+07:00"
+    },
+    {
+      "id": "c0281a9d8bc759fc08937822a4d548c8",
+      "title": "Đồng Nai đấu giá nhiều khu đất vàng",
+      "link": "https://thanhnien.vn/dong-nai-dau-gia-nhieu-khu-dat-vang-185251113133419863.htm",
+      "summary": "Đồng Nai đặt mục tiêu từ nay đến hết 2025 sẽ đưa ra bán đấu giá 15 khu đất công, tổng diện tích 319 ha, tổng giá trị tính theo bảng giá đất là 11.295 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:57:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302624+07:00"
+    },
+    {
+      "id": "1db6fac3a19e567b4e2ad8f96b63d219",
+      "title": "Bom 80 kg phát lộ sau sự cố vỡ hồ ở Lâm Đồng",
+      "link": "https://vnexpress.net/bom-80-kg-phat-lo-sau-su-co-vo-ho-o-lam-dong-4963557.html",
+      "summary": "Quả bom dài 90 cm, nặng khoảng 80 kg được người dân phát hiện tại khu vực xói lở hạ du núi Tân Lai - nơi hồ chứa nước vừa bị vỡ hồi đầu tháng, sáng 13/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:54:03+07:00",
+      "fetched": "2025-11-13T15:22:58.404712+07:00"
+    },
+    {
+      "id": "223be3f8feeaee7b8f5ecc10cb62eec6",
+      "title": "Hai thuyền trưởng ở TP HCM bị phạt tù",
+      "link": "https://vnexpress.net/hai-thuyen-truong-o-tp-hcm-bi-phat-tu-4963560.html",
+      "summary": "Hai thuyền trưởng bị phạt tù vì tắt thiết bị giám sát hành trình tàu cá, đưa nhiều ngư dân đi đánh bắt hải sản trái phép ở vùng biển nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:51:08+07:00",
+      "fetched": "2025-11-13T15:22:58.404908+07:00"
+    },
+    {
+      "id": "f08572ff85c9c62e110fdeef1b481edd",
+      "title": "Tranh cãi nhà hàng không tiếp khách đi một mình",
+      "link": "https://vnexpress.net/tranh-cai-nha-hang-khong-tiep-khach-di-mot-minh-4963515.html",
+      "summary": "Một nhà hàng mì ở TP Yeosu gây tranh cãi khi treo biển \"chúng tôi không bán sự cô đơn\" để từ chối khách đến một mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:50:47+07:00",
+      "fetched": "2025-11-13T15:22:58.405075+07:00"
+    },
+    {
+      "id": "6c7271285bace0368930647c3d306dd8",
+      "title": "Vụ AIC TP.HCM: Cựu Chánh văn phòng Sở GD-ĐT về nước đầu thú, được tại ngoại",
+      "link": "https://thanhnien.vn/vu-aic-tphcm-cuu-chanh-van-phong-so-gd-dt-ve-nuoc-dau-thu-duoc-tai-ngoai-185251113140214074.htm",
+      "summary": "Trước khi mở phiên tòa, 2 trong số 6 bị cáo bị truy nã trong vụ AIC đã về nước, ra đầu thú, gồm: Lê Phương Nga (cựu Chánh văn phòng Sở GD-ĐT TP.HCM), và Trương Sĩ Hiệp (Giám đốc Công ty TNHH thiết bị Phú Bình).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:48:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302774+07:00"
+    },
+    {
+      "id": "5dc8034719fd038fcb3e225efea4c108",
+      "title": "TP.HCM: Bắt nhóm tuổi teen mang dao tự chế, mã tấu gây rối ở quán cà phê",
+      "link": "https://thanhnien.vn/tphcm-bat-nhom-tuoi-teen-mang-dao-tu-che-ma-tau-gay-roi-o-quan-ca-phe-185251113142525926.htm",
+      "summary": "Chỉ sau vài giờ khẩn trương truy xét, Công an xã Đông Thạnh (TP.HCM) bắt nhanh nhóm 'tuổi teen' manh động mang theo dao tự chế, mã tấu xông vào một quán cà phê để giải quyết mâu thuẫn, gây náo loạn khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:43:00+07:00",
+      "fetched": "2025-11-13T15:23:01.302946+07:00"
+    },
+    {
+      "id": "5b573633f44381225cf073a4327dc286",
+      "title": "Ngành y tế TP.HCM kêu gọi khẩn cấp hiến máu cứu người",
+      "link": "https://thanhnien.vn/nganh-y-te-tphcm-keu-goi-khan-cap-hien-mau-cuu-nguoi-185251113142720271.htm",
+      "summary": "Lượng máu tiếp nhận giảm mạnh từ đầu tháng 10 trong khi nhu cầu sử dụng máu tăng khiến nhiều bệnh viện ở TP.HCM đứng trước áp lực lớn trong cấp cứu và điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:42:00+07:00",
+      "fetched": "2025-11-13T15:23:01.303103+07:00"
+    },
+    {
+      "id": "232671597b762f49f2fe070280e74458",
+      "title": "Chính phủ: Tiếp tục rà soát, sửa Thông tư 19 về khen thưởng, kỷ luật học sinh",
+      "link": "https://thanhnien.vn/chinh-phu-tiep-tuc-ra-soat-sua-thong-tu-19-ve-khen-thuong-ky-luat-hoc-sinh-185251113141736285.htm",
+      "summary": "Chính phủ cho hay sẽ tiếp tục rà soát, sửa đổi phù hợp Thông tư 19/2025 quy định về khen thưởng và kỷ luật học sinh, qua đó bảo vệ học sinh, giáo viên, đồng thời gắn kết nhà trường, gia đình và xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:40:00+07:00",
+      "fetched": "2025-11-13T15:23:01.303249+07:00"
+    },
+    {
+      "id": "da4433c1d6187e4b646b5ecf06daea82",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-13-11-4963534.html",
+      "summary": "Giá xăng, dầu (trừ mazut) cùng tăng 160-540 đồng một lít từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:36:42+07:00",
+      "fetched": "2025-11-13T15:22:58.405234+07:00"
+    },
+    {
+      "id": "da4433c1d6187e4b646b5ecf06daea82",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-13-11-4963534.html",
+      "summary": "Giá xăng, dầu (trừ mazut) cùng tăng 160-540 đồng một lít từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-13T07:36:42+07:00",
+      "fetched": "2025-11-13T15:23:05.197978+07:00"
+    },
+    {
+      "id": "e74e12244c0706b063e9fd8528e30b63",
+      "title": "Doanh nhân Trần Việt Tân xây dựng giá trị văn hóa nhân văn tại VINAMA",
+      "link": "https://thanhnien.vn/doanh-nhan-tran-viet-tan-xay-dung-gia-tri-van-hoa-nhan-van-tai-vinama-185251113144024147.htm",
+      "summary": "Trong lĩnh vực OOH, ông Trần Việt Tân, Chủ tịch HĐQT Công ty cổ phần Truyền thông VINAMA nổi bật hướng đi dựa trên giá trị nhân văn và trách nhiệm xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:35:00+07:00",
+      "fetched": "2025-11-13T15:23:01.303392+07:00"
+    },
+    {
+      "id": "8dbb402ec345a7278e10f18e75bed62b",
+      "title": "Sự cố bí ẩn ngăn Mỹ giao trực thăng Apache cho Ấn Độ",
+      "link": "https://vnexpress.net/su-co-bi-an-ngan-my-giao-truc-thang-apache-cho-an-do-4963326.html",
+      "summary": "Ba trực thăng Apache được chuyển từ Mỹ đến Ấn Độ, song mắc kẹt nhiều ngày ở Anh và phải quay về nơi xuất phát mà không rõ nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:31:40+07:00",
+      "fetched": "2025-11-13T15:22:58.405399+07:00"
+    },
+    {
+      "id": "8dbb402ec345a7278e10f18e75bed62b",
+      "title": "Sự cố bí ẩn ngăn Mỹ giao trực thăng Apache cho Ấn Độ",
+      "link": "https://vnexpress.net/su-co-bi-an-ngan-my-giao-truc-thang-apache-cho-an-do-4963326.html",
+      "summary": "Ba trực thăng Apache được chuyển từ Mỹ đến Ấn Độ, song mắc kẹt nhiều ngày ở Anh và phải quay về nơi xuất phát mà không rõ nguyên nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T07:31:40+07:00",
+      "fetched": "2025-11-13T15:23:03.722597+07:00"
+    },
+    {
+      "id": "252cdd9c735754304664660ae078445d",
+      "title": "Giám đốc Google: 'Việt Nam đang là cường quốc ứng dụng toàn cầu'",
+      "link": "https://vnexpress.net/giam-doc-google-viet-nam-dang-la-cuong-quoc-ung-dung-toan-cau-4963366.html",
+      "summary": "Ông Marc Woo, Tổng giám đốc Google Việt Nam, đánh giá lĩnh vực phát triển ứng dụng trong nước đang phát triển mạnh mẽ ở quy mô thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:30:02+07:00",
+      "fetched": "2025-11-13T15:22:58.405556+07:00"
+    },
+    {
+      "id": "252cdd9c735754304664660ae078445d",
+      "title": "Giám đốc Google: 'Việt Nam đang là cường quốc ứng dụng toàn cầu'",
+      "link": "https://vnexpress.net/giam-doc-google-viet-nam-dang-la-cuong-quoc-ung-dung-toan-cau-4963366.html",
+      "summary": "Ông Marc Woo, Tổng giám đốc Google Việt Nam, đánh giá lĩnh vực phát triển ứng dụng trong nước đang phát triển mạnh mẽ ở quy mô thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T07:30:02+07:00",
+      "fetched": "2025-11-13T15:23:07.456285+07:00"
+    },
+    {
+      "id": "24017e1b9e2b9bd47a7f9c668e4c3545",
+      "title": "13 năm hiếm muộn mới có con nhờ thụ tinh ống nghiệm",
+      "link": "https://vnexpress.net/13-nam-hiem-muon-moi-co-con-nho-thu-tinh-ong-nghiem-4963396.html",
+      "summary": "Chị Tâm, 40 tuổi, tắc hai vòi tử cung, bất thường nhiễm sắc thể, vô sinh 13 năm, phải thụ tinh ống nghiệm kết hợp sàng lọc phôi để có con khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:30:00+07:00",
+      "fetched": "2025-11-13T15:22:58.405709+07:00"
+    },
+    {
+      "id": "687b89ca753f6422aabf768706e5699f",
+      "title": "Bamboo Airways có tân chủ tịch sau khi trở về với FLC",
+      "link": "https://thanhnien.vn/bamboo-airways-co-tan-chu-tich-sau-khi-tro-ve-voi-flc-185251113141416105.htm",
+      "summary": "HĐQT Bamboo Airways đã thống nhất bầu ông Bùi Quang Dũng giữ chức vụ Chủ tịch HĐQT Bamboo Airways nhiệm kỳ 2023 - 2028 thay cho ông Lê Thái Sâm. Đây là động thái quan trọng của Bamboo Airways nhằm kiện toàn Hội đồng quản trị, hướng đến giai đoạn phát triển mới sau khi trở về dưới quyền quản trị của ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:30:00+07:00",
+      "fetched": "2025-11-13T15:23:01.303536+07:00"
+    },
+    {
+      "id": "abb821e262652a54e508023d33c49e32",
+      "title": "Thuốc trị ung thư của Nga được chỉ định thế nào",
+      "link": "https://vnexpress.net/thuoc-tri-ung-thu-cua-nga-duoc-chi-dinh-the-nao-4963533.html",
+      "summary": "Pembroria, thuốc trị ung thư của Nga vừa được cấp phép, có thể chỉ định cho bệnh nhân u hắc tố, phổi, cổ tử cung, song bác sĩ khuyến cáo người bệnh cần khám sàng lọc kỹ lưỡng, không phải ai cũng phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:28:43+07:00",
+      "fetched": "2025-11-13T15:22:58.405862+07:00"
+    },
+    {
+      "id": "b338bdb1feebdbd5e6caa7a981c05911",
+      "title": "Trình cơ chế giảm lãi vay 2% cho dự án xanh trong tháng 11",
+      "link": "https://vnexpress.net/trinh-co-che-giam-lai-vay-2-cho-du-an-xanh-trong-thang-11-4963518.html",
+      "summary": "Thủ tướng yêu cầu Bộ Tài chính, Ngân hàng Nhà nước trình chính sách hỗ trợ lãi suất 2% cho dự án xanh, ESG trong tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:22:36+07:00",
+      "fetched": "2025-11-13T15:22:58.406045+07:00"
+    },
+    {
+      "id": "bbc266f43088442e233e631c8d5f8254",
+      "title": "Khoảng 1,6 triệu người tử vong do hút thuốc lá thụ động mỗi năm",
+      "link": "https://thanhnien.vn/khoang-16-trieu-nguoi-tu-vong-do-hut-thuoc-la-thu-dong-moi-nam-185251113133000072.htm",
+      "summary": "Đại diện Tổ chức Y tế thế giới (WHO) cho biết, hút thuốc lá thụ động khiến khoảng 1,6 triệu người tử vong mỗi năm trên toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:17:00+07:00",
+      "fetched": "2025-11-13T15:23:01.303677+07:00"
+    },
+    {
+      "id": "206ba78d89b63848620b6b9a219fa019",
+      "title": "Phó tổng giám đốc FLC làm Chủ tịch Bamboo Airways",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-flc-lam-chu-tich-bamboo-airways-4963547.html",
+      "summary": "Bamboo Airways bổ nhiệm Phó tổng giám đốc FLC Bùi Quang Dũng giữ chức Chủ tịch HĐQT, thay cho ông Lê Thái Sâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:14:46+07:00",
+      "fetched": "2025-11-13T15:22:58.406207+07:00"
+    },
+    {
+      "id": "206ba78d89b63848620b6b9a219fa019",
+      "title": "Phó tổng giám đốc FLC làm Chủ tịch Bamboo Airways",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-flc-lam-chu-tich-bamboo-airways-4963547.html",
+      "summary": "Bamboo Airways bổ nhiệm Phó tổng giám đốc FLC Bùi Quang Dũng giữ chức Chủ tịch HĐQT, thay cho ông Lê Thái Sâm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-13T07:14:46+07:00",
+      "fetched": "2025-11-13T15:23:05.198152+07:00"
+    },
+    {
+      "id": "bb3720251b2bf662a0fbaeee86ef92a7",
+      "title": "Đội THPT Lê Quý Đôn - Đống Đa khoe vẻ đẹp khỏe khoắn tại Media Day",
+      "link": "https://vnexpress.net/doi-thpt-le-quy-don-dong-da-khoe-ve-dep-khoe-khoan-tai-media-day-4963462.html",
+      "summary": "Các vận động viên THPT Lê Quý Đôn - Đống Đa tràn đầy năng lượng tại Media Day, chuẩn bị cho mùa giải mới với quyết tâm cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:13:40+07:00",
+      "fetched": "2025-11-13T15:22:58.406367+07:00"
+    },
+    {
+      "id": "912059954194f1fb511aa82d7028aaad",
+      "title": "'Media Day' sôi động của nam sinh THPT Phan Huy Chú - Đống Đa",
+      "link": "https://vnexpress.net/media-day-soi-dong-cua-nam-sinh-thpt-phan-huy-chu-dong-da-4963490.html",
+      "summary": "Các chàng trai trẻ của THPT Phan Huy Chú - Đống Đa thể hiện năng lượng tích cực, sự phấn khởi trước mùa giải sắp tới trong suốt buổi chụp hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:12:56+07:00",
+      "fetched": "2025-11-13T15:22:58.406520+07:00"
+    },
+    {
+      "id": "4d8c359df4025495df1537ea77e5da11",
+      "title": "Đội nữ THPT Vinschool The Harmony sẵn sàng bước vào mùa giải mới",
+      "link": "https://vnexpress.net/doi-nu-thpt-vinschool-the-harmony-san-sang-buoc-vao-mua-giai-moi-4963429.html",
+      "summary": "Đội nữ THPT Vinschool The Harmony háo hức chuẩn bị cho mùa giải mới khi tham gia buổi chụp hình cá nhân và đồng đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:11:58+07:00",
+      "fetched": "2025-11-13T15:22:58.406677+07:00"
+    },
+    {
+      "id": "b775e340f4e774fea4d224d2217ab963",
+      "title": "Bên trong khách sạn tốt nhất Việt Nam tại TP HCM",
+      "link": "https://vnexpress.net/ben-trong-khach-san-tot-nhat-viet-nam-tai-tp-hcm-4963009.html",
+      "summary": "Caravelle Saigon là khách sạn duy nhất tại trung tâm TP HCM được Cục Du lịch Quốc gia xếp vào top 10 khách sạn hàng đầu Việt Nam năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:11:57+07:00",
+      "fetched": "2025-11-13T15:22:58.406832+07:00"
+    },
+    {
+      "id": "06af77df26143c712da805add654a3a9",
+      "title": "Nam sinh THPT Vinschool The Harmony khởi động mùa giải mới với Media Day",
+      "link": "https://vnexpress.net/nam-sinh-thpt-vinschool-the-harmony-khoi-dong-mua-giai-moi-voi-media-day-4963404.html",
+      "summary": "Các vận động viên THPT Vinschool The Harmony tham gia Media Day với tinh thần hứng khởi, thể hiện sự gắn kết, quyết tâm vượt qua những thử thách sắp tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T07:11:26+07:00",
+      "fetched": "2025-11-13T15:22:58.407005+07:00"
+    },
+    {
+      "id": "349899d745857adb83c8929045990731",
+      "title": "Phe Dân chủ công bố email tỷ phú ấu dâm nhắc về ông Trump",
+      "link": "https://vnexpress.net/phe-dan-chu-cong-bo-email-ty-phu-au-dam-nhac-ve-ong-trump-4963442.html",
+      "summary": "Các hạ nghị sĩ Dân chủ công bố loạt email tỷ phú Epstein nhắc về ông Trump, song Nhà Trắng nói những điều này chỉ chứng minh ông trong sạch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T06:41:25+07:00",
+      "fetched": "2025-11-13T15:23:03.722767+07:00"
+    },
+    {
+      "id": "3ed54af5620e8d921b89a669651d6791",
+      "title": "Tuchel khổ vì có nhiều cầu thủ giỏi ở tuyển Anh",
+      "link": "https://vnexpress.net/tuchel-kho-vi-co-nhieu-cau-thu-gioi-o-tuyen-anh-4963289.html",
+      "summary": "HLV Thomas Tuchel than phiền vì có quá nhiều cầu thủ giỏi chơi cùng một vị trí ở tuyển Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T06:37:21+07:00",
+      "fetched": "2025-11-13T15:23:08.518145+07:00"
+    },
+    {
+      "id": "32623585bdb7036992e96c011141c0b7",
+      "title": "10 cầu thủ tuổi teen đắt nhất thế giới",
+      "link": "https://vnexpress.net/10-cau-thu-tuoi-teen-dat-nhat-the-gioi-4961673.html",
+      "summary": "Theo trung tâm nghiên cứu bóng đá CIES, giá trị của Lamine Yamal nhiều gần gấp ba cầu thủ xếp thứ hai là Estevao của Chelsea.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T06:22:46+07:00",
+      "fetched": "2025-11-13T15:23:08.517793+07:00"
     },
     {
       "id": "21f06dca5bc51b4a010168ec471c3318",
@@ -971,6 +1351,16 @@ window.newsData_2025_11_13 = {
       "category": "Kinh doanh",
       "published": "2025-11-13T04:54:15+07:00",
       "fetched": "2025-11-13T13:26:54.470969+07:00"
+    },
+    {
+      "id": "0a15a074ecc4f4d48fc7ac7dfde42f6b",
+      "title": "Giá vàng miếng lên 154 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-len-154-trieu-dong-4963464.html",
+      "summary": "Mỗi lượng vàng miếng tăng 2,5 triệu đồng trong ngày, lên 154 triệu đồng, mức cao nhất ba tuần qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-13T04:54:15+07:00",
+      "fetched": "2025-11-13T15:23:05.198472+07:00"
     },
     {
       "id": "d9ec566c58784b2fc173108e3ddea89d",
