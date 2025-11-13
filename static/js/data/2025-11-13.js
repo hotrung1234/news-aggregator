@@ -1,7 +1,97 @@
 window.newsData_2025_11_13 = {
   "date": "2025-11-13",
-  "lastUpdated": "2025-11-13T21:17:36.764198+07:00",
+  "lastUpdated": "2025-11-13T23:21:18.648447+07:00",
   "articles": [
+    {
+      "id": "d5f986d7b024333de500ca82d54c941c",
+      "title": "Giải golf KPGA Winter Tour sắp đến Việt Nam",
+      "link": "https://tuoitre.vn/giai-golf-kpga-winter-tour-sap-den-viet-nam-20251113193950572.htm",
+      "summary": "Dự kiến giải golf quốc tế mở rộng KPGA Winter Tour và Mini Tour sẽ đến Việt Nam vào tháng 2-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.671629+07:00",
+      "fetched": "2025-11-13T23:21:10.671754+07:00"
+    },
+    {
+      "id": "8ba9b669efe62db267e6ab1eac54547c",
+      "title": "Tổng thống Ukraine trừng phạt cộng sự trong bê bối tham nhũng",
+      "link": "https://tuoitre.vn/tong-thong-ukraine-trung-phat-cong-su-trong-be-boi-tham-nhung-20251113203741969.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky trừng phạt một cộng sự và cựu đối tác kinh doanh, trong bối cảnh bê bối tham nhũng lớn gây phẫn nộ tại nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.671503+07:00",
+      "fetched": "2025-11-13T23:21:10.671618+07:00"
+    },
+    {
+      "id": "f31b68fdbe670d437ae97691f185c539",
+      "title": "GENfest 2025 vừa công bố line-up đã gây tranh cãi",
+      "link": "https://tuoitre.vn/genfest-2025-vua-cong-bo-line-up-da-gay-tranh-cai-20251113204615725.htm",
+      "summary": "Sau nhiều tuần 'úp mở', sự kiện âm nhạc GENfest Presents MBILLION 2025 đã công bố full line-up vào tối 13-11, thông báo này nhanh chóng tạo nên làn sóng tranh cãi dữ dội trong cộng đồng người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.671356+07:00",
+      "fetched": "2025-11-13T23:21:10.671490+07:00"
+    },
+    {
+      "id": "6c28b0e4d82aa23af87482ab65055b50",
+      "title": "Chi 1.000 tỉ đồng lập Hoa Sen Home, đại gia Lê Phước Vũ tham vọng IPO 'át chủ bài'",
+      "link": "https://tuoitre.vn/chi-1-000-ti-dong-lap-hoa-sen-home-dai-gia-le-phuoc-vu-tham-vong-ipo-at-chu-bai-20251113181108575.htm",
+      "summary": "Tập đoàn Hoa Sen đầu tư 1.000 tỉ đồng lập Hoa Sen Home, chuẩn bị tách riêng và IPO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.671233+07:00",
+      "fetched": "2025-11-13T23:21:10.671344+07:00"
+    },
+    {
+      "id": "617e394ad3ace3700db82e1b871bb19e",
+      "title": "Đồ nội y, thể thao, mẹ và bé: 'Thị trường ngách' tỉ đô chờ khai phá",
+      "link": "https://tuoitre.vn/do-noi-y-the-thao-me-va-be-thi-truong-ngach-ti-do-cho-khai-pha-20251113201450112.htm",
+      "summary": "Dù được các chuyên gia đánh giá là ngách tỉ đô hấp dẫn song để chinh phục, các doanh nghiệp Việt vẫn phải đối mặt với thách thức lớn về công nghệ, nguồn nguyên liệu và chuỗi cung ứng xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.671107+07:00",
+      "fetched": "2025-11-13T23:21:10.671221+07:00"
+    },
+    {
+      "id": "536f70cbb7c6677008a0ff5c57052f4d",
+      "title": "Quỹ quản lý gần 13.000 tỉ USD sắp mở tài khoản chứng khoán Việt Nam",
+      "link": "https://tuoitre.vn/quy-quan-ly-gan-13-000-ti-usd-sap-mo-tai-khoan-chung-khoan-viet-nam-20251113203838722.htm",
+      "summary": "Vanguard - một trong những tổ chức quản lý tài sản lớn nhất thế giới, hiện đang quản lý gần 13.000 tỉ USD Mỹ - đã có kế hoạch triển khai các hoạt động đầu tư tại Việt Nam sau khi thị trường được nâng hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.670978+07:00",
+      "fetched": "2025-11-13T23:21:10.671095+07:00"
+    },
+    {
+      "id": "1f9cad6d26376340111ef013cf2980eb",
+      "title": "Bắt nhóm thanh niên quậy phá tiểu thương, đòi tiền bảo kê tại hội chợ",
+      "link": "https://tuoitre.vn/bat-nhom-thanh-nien-quay-pha-tieu-thuong-doi-tien-bao-ke-tai-hoi-cho-20251113205735958.htm",
+      "summary": "Nhóm thanh niên ở xã Krông Năng (tỉnh Đắk Lắk) kéo đến hội chợ thương mại quấy phá, đe dọa tiểu thương để đòi tiền bảo kê, bị công an bắt quả tang khi đang nhận 30 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.670845+07:00",
+      "fetched": "2025-11-13T23:21:10.670966+07:00"
+    },
+    {
+      "id": "9bd74457f201b372fe12c17d50176a82",
+      "title": "Xe chở thư báo biển số TP.HCM bốc cháy trên cao tốc Vân Phong - Nha Trang",
+      "link": "https://tuoitre.vn/xe-cho-thu-bao-bien-so-tp-hcm-boc-chay-tren-cao-toc-van-phong-nha-trang-20251113205539472.htm",
+      "summary": "Một xe chở thư báo bất ngờ bốc cháy trên tuyến cao tốc Vân Phong - Nha Trang đoạn qua địa bàn tỉnh Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.670704+07:00",
+      "fetched": "2025-11-13T23:21:10.670832+07:00"
+    },
+    {
+      "id": "56ee661e3a949df2f83ec862f0a829b4",
+      "title": "Nga nói Ukraine sớm muộn cũng phải đàm phán",
+      "link": "https://tuoitre.vn/nga-noi-ukraine-som-muon-cung-phai-dam-phan-20251113205742713.htm",
+      "summary": "Sau khi Ukraine dừng đàm phán hòa bình, Nga cho rằng Kiev sớm hay muộn cũng sẽ phải ngồi vào bàn thương lượng và càng trì hoãn sẽ càng bị bất lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:21:10.670483+07:00",
+      "fetched": "2025-11-13T23:21:10.670689+07:00"
+    },
     {
       "id": "533362174ed83bc39dc14f78386345ef",
       "title": "CSGT TP.HCM xác minh clip xe taxi công nghệ chạy ngược chiều trên đường Điện Biên Phủ",
@@ -453,6 +543,236 @@ window.newsData_2025_11_13 = {
       "fetched": "2025-11-13T17:19:33.815463+07:00"
     },
     {
+      "id": "57ee35659cd534ec3efd0933d52de052",
+      "title": "VinFast có thể bán xe hybrid từ năm sau",
+      "link": "https://vnexpress.net/vinfast-co-the-ban-xe-hybrid-tu-nam-sau-4963353.html",
+      "summary": "Các mẫu VF 8, VF 9 có thể thêm biến thể dùng động cơ xăng để chạy máy phát điện, trong 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:47:50+07:00",
+      "fetched": "2025-11-13T23:21:06.249034+07:00"
+    },
+    {
+      "id": "13813790cd46e92d31a6a0016840d959",
+      "title": "Huỳnh Như ghi tuyệt phẩm đá phạt ở AFC Champions League nữ",
+      "link": "https://vnexpress.net/huynh-nhu-ghi-tuyet-pham-da-phat-o-afc-champions-league-nu-4963714.html",
+      "summary": "Tiền đạo Huỳnh Như giúp CLB TP HCM thắng Stallion Laguna 1-0 ở trận ra quân bảng A AFC Champions League nữ 2025-2026, tối 13/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:35:28+07:00",
+      "fetched": "2025-11-13T23:21:06.249216+07:00"
+    },
+    {
+      "id": "13813790cd46e92d31a6a0016840d959",
+      "title": "Huỳnh Như ghi tuyệt phẩm đá phạt ở AFC Champions League nữ",
+      "link": "https://vnexpress.net/huynh-nhu-ghi-tuyet-pham-da-phat-o-afc-champions-league-nu-4963714.html",
+      "summary": "Tiền đạo Huỳnh Như giúp CLB TP HCM thắng Stallion Laguna 1-0 ở trận ra quân bảng A AFC Champions League nữ 2025-2026, tối 13/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T15:35:28+07:00",
+      "fetched": "2025-11-13T23:21:18.634041+07:00"
+    },
+    {
+      "id": "1fabf1f7231b4cca7c3dd7ae459695ee",
+      "title": "Sôi nổi hội thi văn nghệ chào mừng 20.11 của Học viện Chính trị khu vực II",
+      "link": "https://thanhnien.vn/soi-noi-hoi-thi-van-nghe-chao-mung-2011-cua-hoc-vien-chinh-tri-khu-vuc-ii-185251113221114915.htm",
+      "summary": "Không khí phấn khởi, gắn kết và giàu ý nghĩa tri ân lan tỏa trong đêm chung kết hội thi văn nghệ kỷ niệm 43 năm Ngày Nhà giáo Việt Nam 20.11 và 76 năm ngày truyền thống Học viện Chính trị khu vực II, với 29 tiết mục đặc sắc tranh tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:17:00+07:00",
+      "fetched": "2025-11-13T23:21:09.650286+07:00"
+    },
+    {
+      "id": "25ccf476463df5ef1eeeb06dce54cc08",
+      "title": "Thầy Kim bất ngờ chọn Quang Hải, Xuân Son lỡ hẹn làm ‘sếp’ ở đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/thay-kim-bat-ngo-chon-quang-hai-xuan-son-lo-hen-lam-sep-o-doi-tuyen-viet-nam-185251113221338765.htm",
+      "summary": "Ban cán sự đội tuyển Việt Nam đã có sự điều chỉnh cho phù hợp với tình hình thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:13:00+07:00",
+      "fetched": "2025-11-13T23:21:09.650471+07:00"
+    },
+    {
+      "id": "9c708066ae3a03b5f08334722b3fbc28",
+      "title": "Ukraine phải rút quân ở đông nam, Nga siết gọng kìm Pokrovsk",
+      "link": "https://thanhnien.vn/ukraine-phai-rut-quan-o-dong-nam-nga-siet-gong-kim-pokrovsk-185251113195052295.htm",
+      "summary": "Quân đội Ukraine đã rút quân khỏi khu vực gần một khu định cư trên mặt trận Zaporizhzhia, nhưng đã ngăn chặn được bước tiến của Nga trong khu vực; trong khi Nga cho biết lực lượng Moscow đã tiến sâu hơn vào các thành phố Pokrovsk và Kupiansk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:10:00+07:00",
+      "fetched": "2025-11-13T23:21:09.650626+07:00"
+    },
+    {
+      "id": "9318cdfc638ba439e0d194f2acf9020a",
+      "title": "Bộ Giáo dục trăn trở khi nhiều học sinh vùng cao bỏ học đi làm",
+      "link": "https://vnexpress.net/bo-giao-duc-tran-tro-khi-nhieu-hoc-sinh-vung-cao-bo-hoc-di-lam-4963662.html",
+      "summary": "GS Lê Quân trăn trở khi nhiều học sinh vùng biên bỏ học sau khi hết lớp 9, xuống thành phố làm việc ở nhà hàng, công trường xây dựng, cho rằng cần có chính sách đồng bộ để khắc phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T15:03:08+07:00",
+      "fetched": "2025-11-13T23:21:06.249401+07:00"
+    },
+    {
+      "id": "b58a66b97d781a5b027b900694a12663",
+      "title": "Adele lần đầu đóng phim, hợp tác cùng Tom Ford",
+      "link": "https://thanhnien.vn/adele-lan-dau-dong-phim-hop-tac-cung-tom-ford-185251113194654419.htm",
+      "summary": "'Họa mi nước Anh' Adele lần đầu thử sức với điện ảnh trong 'Cry to Heaven' - dự án chuyển thể từ tiểu thuyết của Anne Rice do 'ông trùm thời trang' Tom Ford đạo diễn và tự sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:53:00+07:00",
+      "fetched": "2025-11-13T23:21:09.650776+07:00"
+    },
+    {
+      "id": "476b1fe2cc5c9b60d9fd939a7c8ba0a3",
+      "title": "HLV Philippines khen ngợi cú sút tuyệt vời của Huỳnh Như, thừa nhận 'CLB nữ TP.HCM thắng xứng đáng'",
+      "link": "https://thanhnien.vn/hlv-philippines-khen-ngoi-cu-sut-tuyet-voi-cua-huynh-nhu-thua-nhan-clb-nu-tphcm-thang-xung-dang-18525111321453769.htm",
+      "summary": "Ở trận ra quân bảng A - Cúp C1 nữ châu Á 2025-2026 vào tối 13.11, CLB nữ TP.HCM giành chiến thắng 1-0 trước Stallion Laguna FC (Philippines). Huỳnh Như là người đã ghi bàn thắng duy nhất của trận đấu với siêu phẩm đá phạt, mang về 3 điểm trọn vẹn cho đội chủ sân Thống Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:48:00+07:00",
+      "fetched": "2025-11-13T23:21:09.650928+07:00"
+    },
+    {
+      "id": "97c4e37404bdf6a5699908d1e0ec6fda",
+      "title": "Mảnh vỡ UAV rơi như mưa sao băng xuống thành phố Nga",
+      "link": "https://vnexpress.net/manh-vo-uav-roi-nhu-mua-sao-bang-xuong-thanh-pho-nga-4963582.html",
+      "summary": "Phòng không Nga bắn hạ UAV Ukraine trên bầu trời tỉnh Oryol, khiến hàng loạt mảnh vỡ rơi xuống như mưa sao băng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:46:04+07:00",
+      "fetched": "2025-11-13T23:21:06.249566+07:00"
+    },
+    {
+      "id": "97c4e37404bdf6a5699908d1e0ec6fda",
+      "title": "Mảnh vỡ UAV rơi như mưa sao băng xuống thành phố Nga",
+      "link": "https://vnexpress.net/manh-vo-uav-roi-nhu-mua-sao-bang-xuong-thanh-pho-nga-4963582.html",
+      "summary": "Phòng không Nga bắn hạ UAV Ukraine trên bầu trời tỉnh Oryol, khiến hàng loạt mảnh vỡ rơi xuống như mưa sao băng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T14:46:04+07:00",
+      "fetched": "2025-11-13T23:21:12.467490+07:00"
+    },
+    {
+      "id": "f75f026336fbc5fd911b7f4084aa819e",
+      "title": "Ba cú sút xa giúp Thái Lan thắng trận ra mắt HLV mới",
+      "link": "https://vnexpress.net/ba-cu-sut-xa-giup-thai-lan-thang-tran-ra-mat-hlv-moi-4963721.html",
+      "summary": "Thái Lan ghi ba bàn từ sút xa để đánh bại Singapore 3-2 trong trận giao hữu ra mắt tân HLV Anthony Hudson, tối 13/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:45:49+07:00",
+      "fetched": "2025-11-13T23:21:06.249721+07:00"
+    },
+    {
+      "id": "f75f026336fbc5fd911b7f4084aa819e",
+      "title": "Ba cú sút xa giúp Thái Lan thắng trận ra mắt HLV mới",
+      "link": "https://vnexpress.net/ba-cu-sut-xa-giup-thai-lan-thang-tran-ra-mat-hlv-moi-4963721.html",
+      "summary": "Thái Lan ghi ba bàn từ sút xa để đánh bại Singapore 3-2 trong trận giao hữu ra mắt tân HLV Anthony Hudson, tối 13/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T14:45:49+07:00",
+      "fetched": "2025-11-13T23:21:18.634215+07:00"
+    },
+    {
+      "id": "de8d1c9ce633b8284c605d8ba5f2e1c4",
+      "title": "Jungkook (BTS) bị gọi là 'tra nam' vì đưa 4 phụ nữ về nhà trong 1 tháng?",
+      "link": "https://thanhnien.vn/jungkook-bts-bi-goi-la-tra-nam-vi-dua-4-phu-nu-ve-nha-trong-1-thang-185251113171058929.htm",
+      "summary": "Jungkook (BTS) đang đối mặt với loạt cáo buộc gây sốc khi tin đồn lan truyền rằng nam thần tượng đã đưa 4 phụ nữ khác nhau về nhà chỉ trong vòng một tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:45:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651092+07:00"
+    },
+    {
+      "id": "49b4bc53d7d74918610bcbac718d71d4",
+      "title": "Doãn Quốc Đam: Nam tiến đóng phim hành động, không thấy thiệt thòi vì đóng vai phụ",
+      "link": "https://thanhnien.vn/doan-quoc-dam-nam-tien-dong-phim-hanh-dong-khong-thay-thiet-thoi-vi-dong-vai-phu-185251113174712618.htm",
+      "summary": "Sau thời gian gắn bó với phim truyền hình phía bắc, Doãn Quốc Đam gây chú ý khi Nam tiến tham gia dự án điện ảnh 'Truy tìm Long Diên Hương' với nhiều cảnh hành động và kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:41:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651243+07:00"
+    },
+    {
+      "id": "804125cf97ec7fecb0c40d352e7e25b4",
+      "title": "Ba quả bom trên cánh đồng ở Bắc Ninh",
+      "link": "https://vnexpress.net/ba-qua-bom-tren-canh-dong-o-bac-ninh-4963719.html",
+      "summary": "Ba quả bom còn sót lại từ thời chiến tranh, trọng lượng khoảng 350 kg mỗi quả, được phát hiện trên cánh đồng thôn Thượng 1, xã Sơn Động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:40:34+07:00",
+      "fetched": "2025-11-13T23:21:06.249871+07:00"
+    },
+    {
+      "id": "0d006302242ee7ed6df6b5f8ce223d34",
+      "title": "Quỹ Hy vọng và Uniqlo hỗ trợ bão lũ ở Huế",
+      "link": "https://vnexpress.net/quy-hy-vong-va-uniqlo-ho-tro-bao-lu-o-hue-4963696.html",
+      "summary": "Uniqlo tài trợ 500 triệu đồng thông qua Quỹ Hy vọng để hỗ trợ các bệnh nhi và một trường học bị ảnh hưởng bởi trận lũ lụt cuối tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:39:29+07:00",
+      "fetched": "2025-11-13T23:21:06.250018+07:00"
+    },
+    {
+      "id": "754da19cc5bbcfdde37bd5eeeeed239b",
+      "title": "Đội tuyển Thái Lan thắng nhọc Singapore nhờ 'đặc sản’ quen thuộc: Người thay HLV Ishii còn đầy nỗi lo",
+      "link": "https://thanhnien.vn/doi-tuyen-thai-lan-thang-nhoc-singapore-nho-dac-san-quen-thuoc-nguoi-thay-hlv-ishii-con-day-noi-lo-185251113212821474.htm",
+      "summary": "Tối 13.11, dù có màn trình diễn chưa thuyết phục nhưng đội tuyển Thái Lan vẫn giành thắng lợi 3-2 trước Singapore ở trận giao hữu nhờ sự tỏa sáng của những cựu binh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:36:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651407+07:00"
+    },
+    {
+      "id": "200d28c6ae7ca34f5c824573807e80dc",
+      "title": "Lý do Hoàng tử Harry - Meghan Markle bị xóa khỏi ảnh tiệc nhà Kardashian",
+      "link": "https://thanhnien.vn/ly-do-hoang-tu-harry-meghan-markle-bi-xoa-khoi-anh-tiec-nha-kardashian-18525111319461539.htm",
+      "summary": "Việc hình ảnh vợ chồng Hoàng tử Harry - Meghan Markle bất ngờ bị xóa khỏi loạt ảnh tiệc sinh nhật của bà Kris Jenner trở thành đề tài gây xôn xao nhiều ngày qua. Mới đây, tạp chí People đã hé lộ lý do.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:35:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651566+07:00"
+    },
+    {
+      "id": "11d09000a7ccbb3b8ad117c926763322",
+      "title": "Alec Baldwin và vợ trẻ phải trị liệu để duy trì cuộc hôn nhân lệch 26 tuổi",
+      "link": "https://thanhnien.vn/alec-baldwin-va-vo-tre-phai-tri-lieu-de-duy-tri-cuoc-hon-nhan-lech-26-tuoi-185251113174612624.htm",
+      "summary": "Hilaria Baldwin cho biết việc cô trẻ hơn Alec Baldwin tận 26 tuổi gây ra những vấn đề trong cuộc sống hôn nhân, khiến họ phải tìm đến chuyên gia trị liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:28:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651714+07:00"
+    },
+    {
+      "id": "f0d17f9001fb8e9341d92077a520d471",
+      "title": "Xe tải bất ngờ bốc cháy trên cao tốc Vân Phong - Nha Trang",
+      "link": "https://thanhnien.vn/xe-tai-bat-ngo-boc-chay-tren-cao-toc-van-phong-nha-trang-185251113204749894.htm",
+      "summary": "Xe tải chở thư bất ngờ bốc cháy dữ dội khi đang lưu thông trên cao tốc Vân Phong - Nha Trang, gần như toàn bộ hàng hóa bên trong thùng xe bị thiêu rụi, tài xế may mắn thoát thân an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:23:00+07:00",
+      "fetched": "2025-11-13T23:21:09.651857+07:00"
+    },
+    {
+      "id": "cb618f1d6a5dc8870096141f2e545847",
+      "title": "Không nhận ra Hoài Lâm và Quang Tuấn",
+      "link": "https://thanhnien.vn/khong-nhan-ra-hoai-lam-va-quang-tuan-185251113200348576.htm",
+      "summary": "Hình ảnh Hoài Lâm và Quang Tuấn người chi chít vết thương trong hình ảnh được hé lộ của phim 'Thiên đường máu' khiến nhiều người tò mò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:22:00+07:00",
+      "fetched": "2025-11-13T23:21:09.652010+07:00"
+    },
+    {
+      "id": "3822afe5419135079404883868935ef0",
+      "title": "Cảnh báo về vi khuẩn trong hơi thở dễ làm lây lan bệnh hô hấp",
+      "link": "https://thanhnien.vn/canh-bao-ve-vi-khuan-trong-hoi-tho-de-lam-lay-lan-benh-ho-hap-185251113203324982.htm",
+      "summary": "Phế cầu khuẩn có trong hơi thở của nhiều người. Vi khuẩn này dễ lan truyền qua ho, hắt hơi và các chất tiết đường hô hấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T14:18:00+07:00",
+      "fetched": "2025-11-13T23:21:09.652154+07:00"
+    },
+    {
       "id": "068695dd1161d9d78e746bafcd6f5424",
       "title": "Vợ chồng đại gia Mailisa: Từ dàn siêu xe vượt đèn đỏ đến biệt phủ bị kiểm tra",
       "link": "https://thanhnien.vn/vo-chong-dai-gia-mailisa-tu-dan-sieu-xe-vuot-den-do-den-biet-phu-bi-kiem-tra-185251113211400327.htm",
@@ -581,6 +901,26 @@ window.newsData_2025_11_13 = {
       "category": "Công nghệ",
       "published": "2025-11-13T13:28:11+07:00",
       "fetched": "2025-11-13T21:17:35.197837+07:00"
+    },
+    {
+      "id": "042d126c67b4d3838359d92feabab816",
+      "title": "'Cán bộ phường, xã là một phần của ngành khoa học và công nghệ'",
+      "link": "https://vnexpress.net/can-bo-phuong-xa-la-mot-phan-cua-nganh-khoa-hoc-va-cong-nghe-4963702.html",
+      "summary": "Khi phân cấp, cán bộ ở các sở, thậm chí ở xã, phường cũng là một phần không thể tách rời của ngành khoa học và công nghệ, theo Thứ trưởng Bùi Thế Duy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:28:11+07:00",
+      "fetched": "2025-11-13T23:21:06.250657+07:00"
+    },
+    {
+      "id": "042d126c67b4d3838359d92feabab816",
+      "title": "'Cán bộ phường, xã là một phần của ngành khoa học và công nghệ'",
+      "link": "https://vnexpress.net/can-bo-phuong-xa-la-mot-phan-cua-nganh-khoa-hoc-va-cong-nghe-4963702.html",
+      "summary": "Khi phân cấp, cán bộ ở các sở, thậm chí ở xã, phường cũng là một phần không thể tách rời của ngành khoa học và công nghệ, theo Thứ trưởng Bùi Thế Duy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T13:28:11+07:00",
+      "fetched": "2025-11-13T23:21:16.961896+07:00"
     },
     {
       "id": "8c7ee98de7ac4209c4ebd48e001d3b89",
