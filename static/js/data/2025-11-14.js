@@ -1,7 +1,157 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T15:23:07.274156+07:00",
+  "lastUpdated": "2025-11-14T17:19:35.773594+07:00",
   "articles": [
+    {
+      "id": "10f57a87f067f7c46c738ce00af61e63",
+      "title": "Nhật Bản giáo dục giới tính cho trẻ mẫu giáo",
+      "link": "https://tuoitre.vn/nhat-ban-giao-duc-gioi-tinh-cho-tre-mau-giao-2025111415081649.htm",
+      "summary": "Ngày càng có nhiều nội dung khiêu dâm phát tán trực tuyến và số vụ bạo lực tình dục gia tăng, Nhật Bản đang nỗ lực bảo vệ trẻ em bằng việc giáo dục giới tính ngay từ tuổi mẫu giáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858842+07:00",
+      "fetched": "2025-11-14T17:19:29.858955+07:00"
+    },
+    {
+      "id": "cff245924d3c7022b461197aadfaaed2",
+      "title": "Đặt xe Xanh SM đến Ngày hội Việt Nam Xanh 2025, ưu đãi tới 15%",
+      "link": "https://tuoitre.vn/dat-xe-xanh-sm-den-ngay-hoi-viet-nam-xanh-2025-uu-dai-toi-15-20251114151224175.htm",
+      "summary": "Đến Ngày hội Việt Nam Xanh 2025, khách tham dự có thể di chuyển bằng Xanh SM với mức ưu đãi đến 15% khi đặt các dịch vụ Xanh SM Bike, Bike Plus, Car, Premium trên ứng dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858715+07:00",
+      "fetched": "2025-11-14T17:19:29.858831+07:00"
+    },
+    {
+      "id": "513f81b1f74a4b599257fc15275e88b3",
+      "title": "Khởi công trường tiểu học tại Campuchia do Bộ Quốc phòng Việt Nam hỗ trợ",
+      "link": "https://tuoitre.vn/khoi-cong-truong-tieu-hoc-tai-campuchia-do-bo-quoc-phong-viet-nam-ho-tro-20251114150058594.htm",
+      "summary": "Đoàn công tác của Bộ Quốc phòng đã đến ấp Kok, xã Svay Pumpia, huyện Svay Tiep, tỉnh Svay Rieng, Campuchia dự lễ khởi công Trường tiểu học Sang Sovan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858565+07:00",
+      "fetched": "2025-11-14T17:19:29.858703+07:00"
+    },
+    {
+      "id": "94e0b8c89f6ce5d27d102f5da3a1a30f",
+      "title": "Xuất hiện bài báo 'chế độ ăn toàn thịt giúp dễ thụ thai', khoa học nói gì?",
+      "link": "https://tuoitre.vn/xuat-hien-bai-bao-che-do-an-toan-thit-giup-de-thu-thai-khoa-hoc-noi-gi-20251114150326515.htm",
+      "summary": "Một bài viết của báo Anh kể lại câu chuyện một phụ nữ mang thai thành công khi chuyển sang chế độ ăn nhiều thịt đỏ, trứng, bơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858441+07:00",
+      "fetched": "2025-11-14T17:19:29.858554+07:00"
+    },
+    {
+      "id": "0d281018c0dfa4361a442e7a85d916a2",
+      "title": "Nước Mỹ đối mặt với ‘di chứng’ từ đợt đóng cửa chính phủ",
+      "link": "https://tuoitre.vn/nuoc-my-doi-mat-voi-di-chung-tu-dot-dong-cua-chinh-phu-20251114151023864.htm",
+      "summary": "Sau 43 ngày tê liệt, đợt đóng cửa chính phủ dài nhất trong lịch sử nước Mỹ đã chính thức kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858303+07:00",
+      "fetched": "2025-11-14T17:19:29.858429+07:00"
+    },
+    {
+      "id": "88a45125571b39fa22449793c48d6199",
+      "title": "Khen thưởng nam sinh lớp 11 cùng hai người dũng cảm cứu người đuối nước",
+      "link": "https://tuoitre.vn/khen-thuong-nam-sinh-lop-11-cung-hai-nguoi-dung-cam-cuu-nguoi-duoi-nuoc-20251114153734267.htm",
+      "summary": "Trong lúc câu cá tại khu vực đập nước, nam sinh lớp 11 cùng hai người khác thấy hai người bị đuối nước nên đã kịp thời ứng cứu lên bờ, giúp các nạn nhân tránh nguy hiểm đến tính mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858180+07:00",
+      "fetched": "2025-11-14T17:19:29.858292+07:00"
+    },
+    {
+      "id": "a176d614e5427d696dfdd7f97ab3549d",
+      "title": "Phía Kim Soo Hyun tuyên bố gia đình Kim Sae Ron đã thừa nhận gian dối",
+      "link": "https://tuoitre.vn/phia-kim-soo-hyun-tuyen-bo-gia-dinh-kim-sae-ron-da-thua-nhan-gian-doi-20251114153055168.htm",
+      "summary": "Luật sư đại diện của Kim Soo Hyun cho biết trong những phát ngôn gần đây, phía gia đình Kim Sae Ron có những động thái 'gián tiếp thừa nhận' hành vi lan truyền thông tin sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.858055+07:00",
+      "fetched": "2025-11-14T17:19:29.858169+07:00"
+    },
+    {
+      "id": "8b2e6fed24ed1b2a2c9a7bd18f7ed146",
+      "title": "Loại phô mai nào qua mặt 5.000 đối thủ để xưng vương ngon nhất thế giới?",
+      "link": "https://tuoitre.vn/loai-pho-mai-nao-qua-mat-5-000-doi-thu-de-xung-vuong-ngon-nhat-the-gioi-20251114150945504.htm",
+      "summary": "Đây là loại phô mai khiến người ta thật sự phấn khích. Nó là một khối lớn với rất nhiều tầng hương vị. Kết cấu tuyệt đẹp: khi bẻ ra, phô mai giòn và có những tinh thể mịn, vô cùng tinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857928+07:00",
+      "fetched": "2025-11-14T17:19:29.858043+07:00"
+    },
+    {
+      "id": "a4a84f26956dbe164a43afeb9071639f",
+      "title": "Gần 17.000 người tham gia ‘Ngày hội vui khỏe trực tuyến’ của Standard Chartered",
+      "link": "https://tuoitre.vn/gan-17-000-nguoi-tham-gia-ngay-hoi-vui-khoe-truc-tuyen-cua-standard-chartered-20251114145419062.htm",
+      "summary": "Ngày 12-11, ngân hàng Standard Chartered Việt Nam cho biết sau hơn một tháng triển khai, “Ngày hội vui khỏe trực tuyến Fun Fit Fest” đã thu hút gần 17.000 người tham gia ở hơn 15 môn thể thao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857803+07:00",
+      "fetched": "2025-11-14T17:19:29.857917+07:00"
+    },
+    {
+      "id": "c629186d15365738f98dea17c5569022",
+      "title": "Gia cố mái ta luy, làm mương thoát nước chống ngập cao tốc Vĩnh Hảo - Phan Thiết",
+      "link": "https://tuoitre.vn/gia-co-mai-taluy-lam-muong-thoat-nuoc-chong-ngap-cao-toc-vinh-hao-phan-thiet-20251114154843988.htm",
+      "summary": "Liên quan vụ ngập cao tốc Vĩnh Hảo - Phan Thiết, ngày 14-11, Ban quản lý dự án 7 (Bộ Xây dựng) cho biết đã triển khai dự án gia cố mái ta luy, làm mương thoát nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857675+07:00",
+      "fetched": "2025-11-14T17:19:29.857792+07:00"
+    },
+    {
+      "id": "f39bda249f930adadceaba976c704614",
+      "title": "Cầu nghìn tỉ chơi vơi 2 trụ giữa sông vì thiếu mặt bằng làm đường dẫn",
+      "link": "https://tuoitre.vn/cau-nghin-ti-choi-voi-2-tru-giua-song-vi-thieu-mat-bang-lam-duong-dan-20251114152516564.htm",
+      "summary": "Bộ Xây dựng mới đây đã điều chỉnh thời gian hoàn thành hai cầu đường sắt và đường bộ qua sông Đuống (Hà Nội) do công tác giải phóng mặt bằng chậm trễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857525+07:00",
+      "fetched": "2025-11-14T17:19:29.857662+07:00"
+    },
+    {
+      "id": "8c8a259afb554630dd55bebaabf99255",
+      "title": "Cá heo dài 2m dạt vào bờ biển Cam Ranh",
+      "link": "https://tuoitre.vn/ca-heo-dai-2m-dat-vao-bo-bien-cam-ranh-20251114153046604.htm",
+      "summary": "Một con cá heo dài khoảng 2m bất ngờ trôi dạt vào bờ biển xã Nam Cam Ranh (Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857397+07:00",
+      "fetched": "2025-11-14T17:19:29.857514+07:00"
+    },
+    {
+      "id": "a629761944d7f93474f290add04629ac",
+      "title": "Quán cà phê Đỗ Phủ, cơm tấm Đại Hàn cơ sở bí mật của Biệt động Sài Gòn - Gia Định",
+      "link": "https://tuoitre.vn/quan-ca-phe-do-phu-com-tam-dai-han-co-so-bi-mat-cua-biet-dong-sai-gon-gia-dinh-20251114152645266.htm",
+      "summary": "Sáng 14-11, tọa đàm khoa học di tích lịch sử Nhà số 113A, đường Đặng Dung, phường Tân Định (TP.HCM) thống nhất đề xuất tên gọi di tích này là Quán cà phê Đỗ Phủ - cơm tấm Đại Hàn cơ sở bí mật của Biệt động Sài Gòn - Gia Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857262+07:00",
+      "fetched": "2025-11-14T17:19:29.857385+07:00"
+    },
+    {
+      "id": "01fe90e0168cf1244b431d0b28d902c7",
+      "title": "Quản lý thị trường TP.HCM thu giữ hơn 1 tấn kẹo dẻo không rõ nguồn gốc rao bán dịp Tết",
+      "link": "https://tuoitre.vn/quan-ly-thi-truong-tp-hcm-thu-giu-hon-1-tan-keo-deo-khong-ro-nguon-goc-rao-ban-dip-tet-20251114155903169.htm",
+      "summary": "Ngày 14-11, Chi cục Quản lý thị trường TP.HCM cho biết vừa phối hợp lực lượng chức năng phát hiện và thu giữ hơn 1 tấn kẹo dẻo không rõ nguồn gốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.857114+07:00",
+      "fetched": "2025-11-14T17:19:29.857250+07:00"
+    },
+    {
+      "id": "01398977ac6a41932f2d5e235dbc27f2",
+      "title": "Mời nghệ sĩ dạy âm nhạc: trường ủng hộ ý tưởng, băn khoăn cách thực hiện",
+      "link": "https://tuoitre.vn/moi-nghe-si-day-am-nhac-truong-ung-ho-y-tuong-ban-khoan-cach-thuc-hien-20251114131944799.htm",
+      "summary": "Để giải quyết tình trạng thiếu giáo viên môn đặc thù, TP.HCM sẽ mời nghệ sĩ tham gia dạy âm nhạc, mỹ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T17:19:29.856875+07:00",
+      "fetched": "2025-11-14T17:19:29.857099+07:00"
+    },
     {
       "id": "a9d1d38a35875f9933d11d8099550015",
       "title": "Nhà có em bé, hàng xóm hát karaoke ồn ào, 'nhờ tổ trưởng nhắc họ còn hát to hơn'",
@@ -453,6 +603,16 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T11:20:39.541686+07:00"
     },
     {
+      "id": "cff54e5d8ce6e490a0c96e5811366061",
+      "title": "Việt Nam sắp có khu công nghiệp sinh thái đầu tiên",
+      "link": "https://thanhnien.vn/viet-nam-sap-co-khu-cong-nghiep-sinh-thai-dau-tien-185251114163740585.htm",
+      "summary": "Chương trình phát triển công nghiệp xanh, công nghiệp sinh thái, ứng dụng khoa học - công nghệ trong sản xuất công nghiệp là một trong những định hướng quan trọng, thúc đẩy chuyển đổi mô hình phát triển công nghiệp của thành phố trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:11:00+07:00",
+      "fetched": "2025-11-14T17:19:29.118807+07:00"
+    },
+    {
       "id": "0d6968e324106ab772f390efe91c965c",
       "title": "Chôm chôm, loại trái ngon giàu vitamin C và chất xơ",
       "link": "https://tuoitre.vn/chom-chom-loai-trai-ngon-giau-vitamin-c-va-chat-xo-20251114080055011.htm",
@@ -603,6 +763,326 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T10:10:55.996031+07:00"
     },
     {
+      "id": "cfe3080cb725b27e197c7e0a8b3adaa0",
+      "title": "FAM vẫn chờ FIFA, chưa gửi đơn kiện đến CAS: CĐV Malaysia 'ngồi trên đống lửa'",
+      "link": "https://thanhnien.vn/fam-van-cho-fifa-chua-gui-don-kien-den-cas-cdv-malaysia-ngoi-tren-dong-lua-185251114170227875.htm",
+      "summary": "Chiều 14.11, Liên đoàn Bóng đá Malaysia (FAM) đã tiết lộ khả năng gửi đơn kiện đến Tòa án trọng tài thể thao thế giới (CAS).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:08:00+07:00",
+      "fetched": "2025-11-14T17:19:29.118991+07:00"
+    },
+    {
+      "id": "da23f149782639054a2e8d204e70d7ef",
+      "title": "Toàn cảnh 17h: Sạt lở nghiêm trọng ở Đà Nẵng, 3 người bị vùi lấp | Vì sao TP.HCM lún 1 mét trong 35 năm?",
+      "link": "https://thanhnien.vn/toan-canh-17h-sat-lo-nghiem-trong-o-da-nang-3-nguoi-bi-vui-lap-vi-sao-tphcm-lun-1-met-trong-35-nam-185251114165102973.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:00:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119151+07:00"
+    },
+    {
+      "id": "348db52460752601894e25255697a587",
+      "title": "Quảng Ninh chi hơn 1.700 tỉ đồng cho chính sách sữa học đường",
+      "link": "https://thanhnien.vn/quang-ninh-chi-hon-1700-ti-dong-cho-chinh-sach-sua-hoc-duong-185251114163538507.htm",
+      "summary": "Tỉnh Quảng Ninh quyết định dành hơn 1.700 tỉ đồng để triển khai chính sách sữa học đường, trong giai đoạn từ 2025 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:59:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119308+07:00"
+    },
+    {
+      "id": "65779e7030e1ebaf09d96280576c6b8d",
+      "title": "Rohto-Mentholatum VN tiếp tục đồng hành cùng đồng bào khắc phục hậu quả bão lụt năm 2025",
+      "link": "https://thanhnien.vn/rohto-mentholatum-vn-tiep-tuc-dong-hanh-cung-dong-bao-khac-phuc-hau-qua-bao-lut-nam-2025-185251114170650631.htm",
+      "summary": "Những ngày này, cả nước đang hướng về những nơi người dân đang oằn mình gánh chịu hậu quả nặng nề sau hai cơn bão liên tiếp số 11 và 12. Tiếp theo đó, từ 6 đến 9.11.2025, cơn bão Kalmaegi lại tiếp tục đổ bộ, mang theo gió mạnh và mưa lớn, khiến tình hình tại khu vực thêm phần khắc nghiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:58:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119476+07:00"
+    },
+    {
+      "id": "e71d0cb7ce702ea9743179f5a1e51eeb",
+      "title": "Sạt lở núi khiến đất đá chảy như thác: Danh tính 3 người bị vùi lấp",
+      "link": "https://thanhnien.vn/sat-lo-nui-khien-dat-da-chay-nhu-thac-danh-tinh-3-nguoi-bi-vui-lap-185251114164641907.htm",
+      "summary": "Liên quan đến vụ sạt lở núi khiến đất đá chảy như thác, lực lượng chức năng đã tiếp cận hiện trường; đồng thời cũng xác định được danh tính 3 người dân nghi bị vùi lấp, trong đó có 1 công an viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:56:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119664+07:00"
+    },
+    {
+      "id": "7f9538f61346b40412ea1466000796ae",
+      "title": "Nỗi lo sinh viên y dùng AI để học, tới lúc chẩn đoán lại mơ hồ",
+      "link": "https://thanhnien.vn/noi-lo-sinh-vien-y-dung-ai-de-hoc-toi-luc-chan-doan-lai-mo-ho-185251114161511609.htm",
+      "summary": "Trí tuệ nhân tạo (AI) đang mang lại nhiều cơ hội xen lẫn thách thức cho ngành y dược, nhất là ở khía cạnh đào tạo nhân lực, buộc các bên phải thiết kế giải pháp ứng phó phù hợp, theo chuyên gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:48:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119825+07:00"
+    },
+    {
+      "id": "eb5ffb16d7f1c6b518bbdf7c857381cf",
+      "title": "Kim Kardashian và mẹ ruột bị tố cố ý tung băng sex chấn động một thời",
+      "link": "https://thanhnien.vn/kim-kardashian-va-me-ruot-bi-to-co-y-tung-bang-sex-chan-dong-mot-thoi-185251114152447075.htm",
+      "summary": "Ray J - tình cũ của Kim Kardashian, tố cô và mẹ ruột - Kris Jenner cùng đứng sau vụ rò rỉ băng sex gây chấn động một thời. Hai bên đang trải qua cuộc đối đầu pháp lý căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:44:00+07:00",
+      "fetched": "2025-11-14T17:19:29.119982+07:00"
+    },
+    {
+      "id": "e352d55571ef6231fae437c649db3733",
+      "title": "Lady Gaga từng phải điều trị tâm thần",
+      "link": "https://thanhnien.vn/lady-gaga-tung-phai-dieu-tri-tam-than-185251114142650198.htm",
+      "summary": "Lady Gaga vừa thẳng thắn thừa nhận cô đã phải nhập viện và tìm đến sự hỗ trợ tâm lý trong giai đoạn quay bộ phim 'A Star Is Born' hồi năm 2017.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:40:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120135+07:00"
+    },
+    {
+      "id": "0375f7cc685c6eab8150755cf315d108",
+      "title": "Chiếc bánh ngọt khiến gần 2.000 người chờ đến lượt mua",
+      "link": "https://vnexpress.net/chiec-banh-ngot-khien-gan-2-000-nguoi-cho-den-luot-mua-4963879.html",
+      "summary": "Bánh Napoleon giá 85.000 đồng trong quán cà phê ở phường Ba Đình gây sốt khi thu hút 2.000 khách lấy số thứ tự chờ, dù chất lượng nhận nhiều ý kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:38:42+07:00",
+      "fetched": "2025-11-14T17:19:26.160085+07:00"
+    },
+    {
+      "id": "7eeeae20ec811e3405376714c2eb50b0",
+      "title": "‘Hồn Việt giữa lòng phố biển’: Nha Trang có thêm điểm check-in văn hóa độc đáo",
+      "link": "https://thanhnien.vn/hon-viet-giua-long-pho-bien-nha-trang-co-them-diem-check-in-van-hoa-doc-dao-185251114165405648.htm",
+      "summary": "Ngày 16.11.2025, 'Check-in Nha Trang' sẽ chính thức ra mắt, trở thành điểm hẹn văn hóa mới với trầm hương, trà đạo, gốm Bàu Trúc và áo dài. Không gian mang đậm hồn Việt này hứa hẹn là nơi du khách và người dân tìm lại cảm giác an yên giữa nhịp sống phố biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:38:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120288+07:00"
+    },
+    {
+      "id": "7ac864bfbaded4697ae44fc290a5e41c",
+      "title": "Độc đáo chợ lùi Sà Phìn giữa cao nguyên đá",
+      "link": "https://thanhnien.vn/doc-dao-cho-lui-sa-phin-giua-cao-nguyen-da-185251113162632697.htm",
+      "summary": "Trong làn sương bảng lảng phủ trắng lưng núi đá Đồng Văn, từng tốp người Mông, Dao... khoác lên mình bộ sắc phục thổ cẩm rực rỡ, chậm rãi xuống núi. Đi qua những cung đường đá, họ hướng về trung tâm xã Sà Phìn - nơi diễn ra phiên chợ độc đáo đang dần thức giấc theo nhịp lùi sáu ngày một lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:38:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120437+07:00"
+    },
+    {
+      "id": "943c8d5e79b95b1853379e4fc9346fb2",
+      "title": "Bitcoin liên tục thủng đáy, thổi bay hàng tỉ USD của người chơi",
+      "link": "https://thanhnien.vn/bitcoin-lien-tuc-thung-day-thoi-bay-hang-ti-usd-cua-nguoi-choi-185251114154559938.htm",
+      "summary": "Trong vòng 24 giờ, Bitcoin liên tục thủng đáy về dưới 100.000 USD, sau đó rơi tự do xuống vùng giá 97.000 USD, khiến hàng tỉ USD của người chơi bị thanh lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:37:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120591+07:00"
+    },
+    {
+      "id": "4585399ebc08df7fd70020793b0ff061",
+      "title": "Sức khỏe Địch Lệ Nhiệt Ba suy kiệt giữa tin đồn bí mật sinh con",
+      "link": "https://thanhnien.vn/suc-khoe-dich-le-nhiet-ba-suy-kiet-giua-tin-don-bi-mat-sinh-con-18525111414584364.htm",
+      "summary": "Nhiều nguồn tin cho rằng tình trạng sức khỏe của Địch Lệ Nhiệt Ba đang xấu đi nghiêm trọng, thậm chí bước vào giai đoạn nguy kịch, làm dấy lên những nghi vấn về nguyên nhân thật sự phía sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:37:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120763+07:00"
+    },
+    {
+      "id": "4a1e3732aa47885743715839b5f29422",
+      "title": "Vụ thực phẩm bẩn vào trường học ở Lâm Đồng: Bếp bán trú có nhà thầu mới",
+      "link": "https://thanhnien.vn/vu-thuc-pham-ban-vao-truong-hoc-o-lam-dong-bep-ban-tru-co-nha-thau-moi-185251114154341007.htm",
+      "summary": "Sau gần 2 tháng tạm ngưng vì vụ thông tin thực phẩm bẩn vào trường học, ngày 14.11, gần 1.000 học sinh Trường tiểu học Trưng Vương, P.Xuân Hương - Đà Lạt được trải nghiệm bữa ăn bán trú miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:34:00+07:00",
+      "fetched": "2025-11-14T17:19:29.120920+07:00"
+    },
+    {
+      "id": "0d232f6a81d7b770c70ba8897890e399",
+      "title": "Ca sĩ bolero nhớ thời được fan 'thầm thương trộm nhớ' khi đi hát",
+      "link": "https://thanhnien.vn/ca-si-bolero-nho-thoi-duoc-fan-tham-thuong-trom-nho-khi-di-hat-185251114150952392.htm",
+      "summary": "Làm giám khảo 'Người kể chuyện tình', ca sĩ Dương Hồng Loan bồi hồi nhớ những kỷ niệm ngày trẻ khi theo dõi bài thi của N Ly.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:33:00+07:00",
+      "fetched": "2025-11-14T17:19:29.121070+07:00"
+    },
+    {
+      "id": "f64d349083290c82dc23ddcd4a8ec6ad",
+      "title": "Sun Feliza Suites hướng tới cộng đồng cư dân đa quốc tịch",
+      "link": "https://vnexpress.net/sun-feliza-suites-huong-toi-cong-dong-cu-dan-da-quoc-tich-4962969.html",
+      "summary": "Sun Feliza Suites tọa lạc giữa trung tâm Cầu Giấy, hướng đến cư dân từ nhiều nơi trên thế giới với hệ tiện ích nội, ngoại khu đẳng cấp cùng pháp lý minh bạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:30:00+07:00",
+      "fetched": "2025-11-14T17:19:26.160285+07:00"
+    },
+    {
+      "id": "4608bb3bab74058adaa2e18f8f78d2dc",
+      "title": "Nam sinh 17 tuổi vô địch cuộc thi lập trình của sinh viên và kỹ sư",
+      "link": "https://vnexpress.net/nam-sinh-17-tuoi-vo-dich-cuoc-thi-lap-trinh-cua-sinh-vien-va-ky-su-4964073.html",
+      "summary": "Chí Thanh, chủ nhân huy chương đồng Olympic Tin học châu Á - Thái Bình Dương, vượt qua gần 5.000 sinh viên, kỹ sư IT để trở thành quán quân cuộc thi lập trình Code Tour 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:29:05+07:00",
+      "fetched": "2025-11-14T17:19:26.160454+07:00"
+    },
+    {
+      "id": "ad3a504fda3bebfc4e3a3d0e9818acdf",
+      "title": "Tôi không cho con ăn bánh, kẹo mang về từ buổi liên hoan ở lớp",
+      "link": "https://vnexpress.net/thuc-pham-ban-hang-gia-hang-nhai-toi-am-tham-vut-het-keo-banh-con-mang-ve-tu-buoi-lien-hoan-tren-lop-4964068.html",
+      "summary": "Dù con háo hức mang từ lớp về một túi bánh kẹo đủ màu sắc bắt mắt, tôi vẫn lặng lẽ lọc ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:25:12+07:00",
+      "fetched": "2025-11-14T17:19:26.160643+07:00"
+    },
+    {
+      "id": "82bbefbf050228dd9fb42a2e347b135e",
+      "title": "Từ tiếng Việt nào có nghĩa 'đầu dê mình ốc'?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-con-gi-o-viet-nam-con-gi-dau-de-minh-oc-4964021.html",
+      "summary": "Một câu đố tưởng vô lý nhưng lại cực kỳ hợp lý, khiến người nghe vừa tò mò, vừa buồn cười vì đáp án đơn giản đến bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:20:22+07:00",
+      "fetched": "2025-11-14T17:19:26.160815+07:00"
+    },
+    {
+      "id": "39acda7050d6b5ec1a3c5bc40b4d6c13",
+      "title": "Cổ phiếu Novaland và Hoàng Anh Gia Lai tăng trần",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-14-11-co-phieu-novaland-va-hoang-anh-gia-lai-tang-tran-4964082.html",
+      "summary": "Trong phiên chứng khoán tăng hơn 4 điểm, NVL và HAG vào nhóm cổ phiếu đóng góp tích cực nhất khi chạm giá trần cùng thanh khoản cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:19:26+07:00",
+      "fetched": "2025-11-14T17:19:26.160977+07:00"
+    },
+    {
+      "id": "39acda7050d6b5ec1a3c5bc40b4d6c13",
+      "title": "Cổ phiếu Novaland và Hoàng Anh Gia Lai tăng trần",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-14-11-co-phieu-novaland-va-hoang-anh-gia-lai-tang-tran-4964082.html",
+      "summary": "Trong phiên chứng khoán tăng hơn 4 điểm, NVL và HAG vào nhóm cổ phiếu đóng góp tích cực nhất khi chạm giá trần cùng thanh khoản cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T09:19:26+07:00",
+      "fetched": "2025-11-14T17:19:32.041007+07:00"
+    },
+    {
+      "id": "a89f84edd11ab8d5c948c1af3c43dab6",
+      "title": "PVCFC tổ chức loạt chương trình tri ân đại lý, đối tác",
+      "link": "https://vnexpress.net/pvcfc-to-chuc-loat-chuong-trinh-tri-an-dai-ly-doi-tac-4964096.html",
+      "summary": "PVCFC tổ chức sự kiện tri ân tại Nhật Bản dành cho đối tác, kết hợp hội nghị chuyên môn, hướng tới củng cố hợp tác và nâng cao hiệu quả hệ thống phân phối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:15:00+07:00",
+      "fetched": "2025-11-14T17:19:26.161133+07:00"
+    },
+    {
+      "id": "b5ca08879c73e5d0860fc00dd73a20d1",
+      "title": "InnovaConnect trở thành cầu nối giữa chuyên gia Việt Nam và quốc tế",
+      "link": "https://vnexpress.net/innovaconnect-tro-thanh-cau-noi-giua-chuyen-gia-viet-nam-va-quoc-te-4964091.html",
+      "summary": "InnovaConnect kết nối GS. TS. Hoàng Văn Minh, Hiệu trưởng trường ĐH Y tế Công cộng, với các chuyên gia quốc tế để tìm giải pháp giảm thiểu tình trạng sử dụng thuốc lá mới ở giới trẻ Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:15:00+07:00",
+      "fetched": "2025-11-14T17:19:26.161288+07:00"
+    },
+    {
+      "id": "7c722773d6caae319ab8b06e9ce51fdd",
+      "title": "'Thần đồng AI' Trung Quốc xin được yên ổn",
+      "link": "https://vnexpress.net/than-dong-ai-trung-quoc-xin-duoc-yen-on-4963888.html",
+      "summary": "Lou Fuli, nữ kỹ sư AI đứng sau thành công của DeepSeek từng phải cầu xin truyền thông \"trả lại môi trường yên tĩnh\" sau khi liên tục bị thần thánh hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:11:45+07:00",
+      "fetched": "2025-11-14T17:19:26.161441+07:00"
+    },
+    {
+      "id": "9ab4e2fbe1c3fc716f0ec86e32fd2100",
+      "title": "Sắc vóc 'Mỹ nhân đẹp nhất thế giới theo tỷ lệ vàng Hy Lạp'",
+      "link": "https://vnexpress.net/sac-voc-my-nhan-dep-nhat-the-gioi-theo-ty-le-vang-hy-lap-4963955.html",
+      "summary": "Diễn viên Emma Stone - được bình chọn là người có gương mặt theo tỷ lệ vàng đẹp nhất thế giới - thu hút với đôi mắt to, lông mày cánh cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:07:35+07:00",
+      "fetched": "2025-11-14T17:19:26.161598+07:00"
+    },
+    {
+      "id": "5af258617ccaf5130c13deff3231d358",
+      "title": "Bán đảo Bình Quới - Thanh Đa sẽ được đấu thầu chọn nhà đầu tư",
+      "link": "https://vnexpress.net/ban-dao-binh-quoi-thanh-da-se-duoc-dau-thau-chon-nha-dau-tu-4964048.html",
+      "summary": "Khu đất Bình Quới - Thanh Đa rộng 406 ha, cách trung tâm TP HCM gần 6 km, hơn 30 năm quy hoạch \"treo\", sẽ được đầu thầu chọn nhà đầu tư thực hiện dự án đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:01:38+07:00",
+      "fetched": "2025-11-14T17:19:26.161782+07:00"
+    },
+    {
+      "id": "ca93b1e3a5e8bbdc8c5e32349a17284d",
+      "title": "Số doanh nghiệp Mỹ xin phá sản có thể cao nhất 15 năm",
+      "link": "https://vnexpress.net/so-doanh-nghiep-my-xin-pha-san-co-the-cao-nhat-15-nam-4964011.html",
+      "summary": "Hơn 650 công ty Mỹ đã nộp đơn xin bảo hộ phá sản năm nay, cho thấy sức ép với doanh nghiệp ngày một lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:01:32+07:00",
+      "fetched": "2025-11-14T17:19:26.161948+07:00"
+    },
+    {
+      "id": "ca93b1e3a5e8bbdc8c5e32349a17284d",
+      "title": "Số doanh nghiệp Mỹ xin phá sản có thể cao nhất 15 năm",
+      "link": "https://vnexpress.net/so-doanh-nghiep-my-xin-pha-san-co-the-cao-nhat-15-nam-4964011.html",
+      "summary": "Hơn 650 công ty Mỹ đã nộp đơn xin bảo hộ phá sản năm nay, cho thấy sức ép với doanh nghiệp ngày một lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T09:01:32+07:00",
+      "fetched": "2025-11-14T17:19:32.041185+07:00"
+    },
+    {
+      "id": "262a2773d7c2fbd98c7579dd9c5fa17d",
+      "title": "Nuôi 'cục cưng' bằng Baby Shark",
+      "link": "https://vnexpress.net/nuoi-cuc-cung-bang-baby-shark-4963987.html",
+      "summary": "Ở sảnh chờ khách sạn, tôi nhìn chằm chằm vào “cục cưng” đang chảy nước dãi, mắt long lanh vì được nâng như trứng, hứng như hoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:01:20+07:00",
+      "fetched": "2025-11-14T17:19:26.162126+07:00"
+    },
+    {
+      "id": "a02ff76ffaaf2b206f4ea9959ed61fe4",
+      "title": "10 đại học cùng VinFuture xây dựng mạng lưới tri thức toàn cầu",
+      "link": "https://vnexpress.net/10-dai-hoc-cung-vinfuture-xay-dung-mang-luoi-tri-thuc-toan-cau-4964086.html",
+      "summary": "Tuần lễ Khoa học - Công nghệ VinFuture kết nối 10 đại học, chuyên gia quốc tế đối thoại về AI, y học… thúc đẩy nghiên cứu và xây dựng mạng lưới tri thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:00:00+07:00",
+      "fetched": "2025-11-14T17:19:26.162284+07:00"
+    },
+    {
+      "id": "13b7398bf49e5c30d009b0ed1e5d21d5",
+      "title": "Toshiba triển khai ưu đãi kỷ niệm '95 năm đổi mới'",
+      "link": "https://vnexpress.net/toshiba-trien-khai-uu-dai-ky-niem-95-nam-doi-moi-4964062.html",
+      "summary": "Toshiba tổ chức chương trình khuyến mại \"95 ngày tri ân, 95 năm đổi mới\" với hơn 2.000 giải thưởng, tổng giá trị hơn 3 tỷ đồng, ngày 22/9-25/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T09:00:00+07:00",
+      "fetched": "2025-11-14T17:19:26.162442+07:00"
+    },
+    {
+      "id": "9101e3ed1e1ab87030905bce60db1fda",
+      "title": "Ukraine tập kích thành phố cảng Nga, nghi đánh trúng đơn vị S-400",
+      "link": "https://vnexpress.net/ukraine-tap-kich-thanh-pho-cang-nga-nghi-danh-trung-don-vi-s-400-4963941.html",
+      "summary": "Ukraine tấn công thành phố Novorossiysk, miền nam Nga, làm cháy kho dầu và có thể đã đánh trúng căn cứ đơn vị tên lửa S-300 hoặc S-400.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T08:40:18+07:00",
+      "fetched": "2025-11-14T17:19:31.163601+07:00"
+    },
+    {
       "id": "cdc09eec88ccb90ce74fae3d1d2e319e",
       "title": "Xổ số cào TP.HCM: Choáng với chồng vé 15.000 tờ trúng thưởng; 4 vé đặc biệt lộ diện",
       "link": "https://thanhnien.vn/xo-so-cao-tphcm-choang-voi-chong-ve-15000-to-trung-thuong-4-ve-dac-biet-lo-dien-185251114135249669.htm",
@@ -621,6 +1101,16 @@ window.newsData_2025_11_14 = {
       "category": "Thể thao",
       "published": "2025-11-14T08:20:47+07:00",
       "fetched": "2025-11-14T15:23:07.263838+07:00"
+    },
+    {
+      "id": "c7089014872af40eb33591b36a961718",
+      "title": "Tuyên ngôn thời trang của những phụ nữ ủng hộ ông Trump",
+      "link": "https://vnexpress.net/tuyen-ngon-thoi-trang-cua-nhung-phu-nu-ung-ho-ong-trump-4963151.html",
+      "summary": "Tóc vàng uốn sóng to, trang điểm đậm là điểm chung của một nhóm phụ nữ ủng hộ ông Trump mà truyền thông Mỹ gọi là \"phong cách MAGA\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T08:20:14+07:00",
+      "fetched": "2025-11-14T17:19:31.163800+07:00"
     },
     {
       "id": "649f0d5d1aa6181e77b97712d22b4f7f",
