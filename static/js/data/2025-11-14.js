@@ -1,7 +1,157 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T11:20:47.756216+07:00",
+  "lastUpdated": "2025-11-14T13:26:43.115566+07:00",
   "articles": [
+    {
+      "id": "a5219ab0b921e302da836f72da1cb38d",
+      "title": "Doanh nghiệp dệt may với hàng không 'mạnh tay' chi cổ tức trăm tỉ, cao nhất lên tới 130%",
+      "link": "https://tuoitre.vn/doanh-nghiep-det-may-voi-hang-khong-manh-tay-chi-co-tuc-tram-ti-cao-nhat-len-toi-130-20251114000228844.htm",
+      "summary": "Cuối năm, nhiều doanh nghiệp niêm yết gây chú ý khi công bố kế hoạch chi cổ tức hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.170346+07:00",
+      "fetched": "2025-11-14T13:26:35.170488+07:00"
+    },
+    {
+      "id": "50a9f2cf4dfea8d985af7b4b34b59a2e",
+      "title": "Ariana Grande bị fan cuồng quấy rối tại buổi ra mắt phim Wicked: For Good",
+      "link": "https://tuoitre.vn/ariana-grande-bi-fan-cuong-quay-roi-tai-buoi-ra-mat-phim-wicked-for-good-20251114102447501.htm",
+      "summary": "Tối 13-11, tại buổi ra mắt phim Wicked: For Good, Ariana Grande hốt hoảng khi bị một người đàn ông lao tới quấy rối trên thảm đỏ Universal Studios Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.170220+07:00",
+      "fetched": "2025-11-14T13:26:35.170335+07:00"
+    },
+    {
+      "id": "696743f7a2be0c1a242413f4e9d02eb5",
+      "title": "EU dựng ‘lá chắn dân chủ’, yêu cầu Google, Meta gắn nhãn nội dung AI",
+      "link": "https://tuoitre.vn/eu-dung-la-chan-dan-chu-yeu-cau-google-meta-gan-nhan-noi-dung-ai-2025111410550681.htm",
+      "summary": "Ủy ban châu Âu công bố chiến lược bảo vệ dân chủ trước tin sai lệch, đe dọa hỗn hợp và yêu cầu nền tảng tăng trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.170094+07:00",
+      "fetched": "2025-11-14T13:26:35.170209+07:00"
+    },
+    {
+      "id": "a5ea632f29a310db38e3f7c79b4ad0e8",
+      "title": "Việt Nam tiếp tục đàm phán cấp kỹ thuật về thuế đối ứng với Mỹ",
+      "link": "https://tuoitre.vn/viet-nam-tiep-tuc-dam-phan-cap-ky-thuat-ve-thue-doi-ung-voi-my-20251114093308991.htm",
+      "summary": "Từ ngày 12 đến 14-11, vòng đàm phán cấp kỹ thuật Hiệp định Thương mại đối ứng cân bằng và công bằng giữa Việt Nam và Mỹ được triển khai như kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169965+07:00",
+      "fetched": "2025-11-14T13:26:35.170082+07:00"
+    },
+    {
+      "id": "4972d1de560622d9637625fa2fe5b6f2",
+      "title": "Cựu Giám đốc Sở Giáo dục và Đào tạo TP.HCM Lê Hồng Sơn can thiệp, giúp AIC trúng nhiều gói thầu",
+      "link": "https://tuoitre.vn/cuu-giam-doc-so-giao-duc-va-dao-tao-tp-hcm-le-hong-son-can-thiep-giup-aic-trung-nhieu-goi-thau-20251114103838761.htm",
+      "summary": "TAND TP.HCM sẽ xét xử 16 bị cáo trong vụ vi phạm quy định đấu thầu xảy ra tại Công ty AIC và Sở Giáo dục và Đào tạo TP.HCM. Trong vụ án ông Lê Hồng Sơn (cựu Giám đốc Sở Giáo dục và Đào tạo TP.HCM) bị cáo buộc can thiệp, giúp AIC trúng nhiều gói thầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169835+07:00",
+      "fetched": "2025-11-14T13:26:35.169954+07:00"
+    },
+    {
+      "id": "b81eec08bc0cc76e7612cb33c6d163c8",
+      "title": "Cần Thơ sẽ sáp nhập Ban Quản lý dự án ODA từng bị nhà thầu kiện đòi hơn 6 tỉ đồng",
+      "link": "https://tuoitre.vn/can-tho-se-sap-nhap-ban-quan-ly-du-an-oda-tung-bi-nha-thau-kien-doi-hon-6-ti-dong-20251114102106994.htm",
+      "summary": "Ban Quản lý dự án thành phố Cần Thơ bị nhà thầu kiện đòi hơn 6 tỉ đồng sẽ được sáp nhập vào một ban quản lý dự án khác trực thuộc UBND thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169704+07:00",
+      "fetched": "2025-11-14T13:26:35.169823+07:00"
+    },
+    {
+      "id": "38171a115c20a043c5bdeb4b626339db",
+      "title": "Âm nhạc lệch chuẩn và đào tạo mỹ học cho người trẻ",
+      "link": "https://tuoitre.vn/am-nhac-lech-chuan-va-dao-tao-my-hoc-cho-nguoi-tre-20251114094320905.htm",
+      "summary": "Các nghệ sĩ và trí thức TP.HCM thảo luận về hiện tượng âm nhạc lệch chuẩn thời gian qua, đề xuất những giải pháp, đặc biệt về đào tạo thế hệ tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169567+07:00",
+      "fetched": "2025-11-14T13:26:35.169692+07:00"
+    },
+    {
+      "id": "1ce85f50ef31f3865251e13fa6cdaec4",
+      "title": "Bà Nhân Vlog bị mắng xối xả, tố dùng hình ảnh người nghèo để 'đánh bóng tên tuổi' khi làm từ thiện?",
+      "link": "https://tuoitre.vn/ba-nhan-vlog-bi-mang-xoi-xa-to-dung-hinh-anh-nguoi-ngheo-de-danh-bong-ten-tuoi-khi-lam-tu-thien-20251114103825018.htm",
+      "summary": "Tối 10-11, trong chuyến đi hỗ trợ bà con vùng lũ, YouTuber Bà Nhân Vlog - bất ngờ rơi vào tâm điểm tranh cãi khi một đoạn clip ghi lại cảnh cô bật khóc vì bị người dân lớn tiếng trách móc lan truyền mạnh trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169438+07:00",
+      "fetched": "2025-11-14T13:26:35.169556+07:00"
+    },
+    {
+      "id": "6014dd74e398033766d43fdacb094fa8",
+      "title": "Vì sao giá dừa tại các tỉnh miền Tây giảm mạnh?",
+      "link": "https://tuoitre.vn/vi-sao-gia-dua-tai-cac-tinh-mien-tay-giam-manh-20251114100201492.htm",
+      "summary": "Giá dừa khô thu mua ở tỉnh Vĩnh Long từ 230.000 đồng/chục (12 trái) cách đây vài tháng, hiện nay chỉ còn 120.000 đồng/chục. Dừa tươi cũng rớt giá còn khoảng 50.000 đồng/chục, thấp hơn 10.000 đồng/chục so với tháng trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169290+07:00",
+      "fetched": "2025-11-14T13:26:35.169425+07:00"
+    },
+    {
+      "id": "b6793998f6d57edc5664d12bebd75740",
+      "title": "Chính thức dùng vốn trong nước, khởi động lại dự án Bệnh viện Ung bướu Cần Thơ",
+      "link": "https://tuoitre.vn/chinh-thuc-dung-von-trong-nuoc-khoi-dong-lai-du-an-benh-vien-ung-buou-can-tho-20251114105001953.htm",
+      "summary": "Dự án Bệnh viện Ung bướu Cần Thơ được điều chỉnh chủ trương đầu tư bằng sử dụng nguồn vốn trong nước, làm cơ sở thực hiện các bước tiếp theo để tái khởi động nhằm kịp hoàn thành, đưa vào sử dụng vào năm 2026 theo chỉ đạo của Thủ tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169156+07:00",
+      "fetched": "2025-11-14T13:26:35.169278+07:00"
+    },
+    {
+      "id": "2b36b2433459ba19b803c83637cfc733",
+      "title": "Bán mỹ phẩm vài triệu đồng một bộ, Mailisa từng liên tục thanh minh không phải 'kem trộn'",
+      "link": "https://tuoitre.vn/ban-my-pham-vai-trieu-dong-mot-bo-mailisa-tung-lien-tuc-thanh-minh-khong-phai-kem-tron-20251114093947306.htm",
+      "summary": "Gần đây, Mailisa liên tục chạy các video thanh minh sản phẩm họ bán không phải kiểu 'kem trộn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.169010+07:00",
+      "fetched": "2025-11-14T13:26:35.169131+07:00"
+    },
+    {
+      "id": "7c121808a9f2cd072ac038dd34a8c0cb",
+      "title": "Lấy dao đâm bạn nhậu vì trêu ghẹo chủ quán",
+      "link": "https://tuoitre.vn/lay-dao-dam-ban-nhau-vi-treu-gheo-chu-quan-20251114105812341.htm",
+      "summary": "Bực tức vì bạn nhậu của mình trêu ghẹo chủ quán, người đàn ông ở Đà Nẵng đã lấy dao đâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.168877+07:00",
+      "fetched": "2025-11-14T13:26:35.168996+07:00"
+    },
+    {
+      "id": "091d507efe5100e8d5c4c82301f19569",
+      "title": "Nguy cơ đóng cửa Chính phủ Mỹ trở lại vào đầu năm 2026",
+      "link": "https://tuoitre.vn/nguy-co-dong-cua-chinh-phu-my-tro-lai-vao-dau-nam-2026-20251114102940017.htm",
+      "summary": "Chính phủ Mỹ chỉ được cấp vốn tạm đến 30-1-2026, khi 90% ngân sách chưa được thông qua, báo hiệu vòng đối đầu mới giữa Nhà Trắng và Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.168745+07:00",
+      "fetched": "2025-11-14T13:26:35.168865+07:00"
+    },
+    {
+      "id": "5370290fa443031c4b348ad6a2c9e944",
+      "title": "Thủ tướng Nhật Bản tiết lộ chỉ ngủ 2 đến 4 tiếng mỗi đêm, dư luận tranh cãi",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-tiet-lo-chi-ngu-2-den-4-tieng-moi-dem-du-luan-tranh-cai-20251114102646545.htm",
+      "summary": "Tiết lộ chỉ ngủ 2-4 tiếng mỗi đêm của Thủ tướng Takaichi thổi bùng tranh cãi về văn hóa làm việc quá sức và thông điệp 'làm việc, làm việc, làm việc' của bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.168603+07:00",
+      "fetched": "2025-11-14T13:26:35.168732+07:00"
+    },
+    {
+      "id": "b76ad8324fe04c39c5af755068155199",
+      "title": "Vì sao Google cảnh báo người dùng nếu có thể, hãy tránh dùng wifi công cộng?",
+      "link": "https://tuoitre.vn/vi-sao-google-canh-bao-nguoi-dung-neu-co-the-hay-tranh-dung-wifi-cong-cong-20251114110014458.htm",
+      "summary": "Google cảnh báo người dùng thận trọng khi dùng wifi công cộng do dễ bị kẻ xấu khai thác để đánh cắp thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:26:35.168338+07:00",
+      "fetched": "2025-11-14T13:26:35.168587+07:00"
+    },
     {
       "id": "0f8aedd514eb4dafea0283bd82f99c62",
       "title": "Giới thiệu ông Trần Văn Bảy, Nguyễn Công Vinh, Hoàng Nguyên Dinh để bầu Phó chủ tịch UBND TP.HCM",
@@ -443,6 +593,266 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T08:19:56.268746+07:00"
     },
     {
+      "id": "65e634a79bfcf975930563e9f447caa4",
+      "title": "'Đất lành' Chonburi sẽ giúp đội tuyển nữ Việt Nam lần thứ 5 liên tiếp vô địch SEA Games?",
+      "link": "https://thanhnien.vn/dat-lanh-chonburi-se-giup-doi-tuyen-nu-viet-nam-lan-thu-5-lien-tiep-vo-dich-sea-games-185251114125525556.htm",
+      "summary": "SEA Games 33 là đích đến quan trọng của đội tuyển nữ Việt Nam trong năm 2025. Thầy trò HLV Mai Đức Chung đang đứng trước cơ hội lên ngôi lần thứ 9 và 5 lần liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:21:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269097+07:00"
+    },
+    {
+      "id": "208f6eb077be7d49e0b161fa2fa2a66b",
+      "title": "Bộ Giáo dục: Hệ số lương đặc thù là đãi ngộ xứng đáng, không phải ân huệ",
+      "link": "https://vnexpress.net/bo-giao-duc-he-so-luong-dac-thu-la-dai-ngo-xung-dang-khong-phai-an-hue-4963742.html",
+      "summary": "Việc có hệ số đặc thù để lương giáo viên cao nhất, theo Bộ Giáo dục không phá vỡ thiết kế tiền lương, không phải ân huệ, mà là đãi ngộ xứng đáng cho thầy cô khi tạo ra sản phẩm \"quyết định tương lai dân tộc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:16:30+07:00",
+      "fetched": "2025-11-14T13:26:31.415855+07:00"
+    },
+    {
+      "id": "1d4d00d57b04fbba4bc2a3ddc93680e6",
+      "title": "Nhìn 1 giây là biết ngay đây là thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nhin-1-giay-la-biet-ngay-day-la-thanh-ngu-nao-4961298.html",
+      "summary": "Thành ngữ chỉ việc những kẻ gian xảo, ranh mãnh, nhiều mánh khóe lại gặp phải những người cao tay, không dễ bị lừa, có thể trừng trị kẻ gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:16:00+07:00",
+      "fetched": "2025-11-14T13:26:31.416041+07:00"
+    },
+    {
+      "id": "b5f1b3acac8494cbe456fea5081c5551",
+      "title": "TP.HCM sớm dứt điểm dự án chống ngập gần 10.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-som-dut-diem-du-an-chong-ngap-gan-10000-ti-dong-185251114125819746.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được cho biết, dự án chống ngập gần 10.000 tỉ đồng đang triển khai các công việc, khi hoàn thành sẽ sớm thông tin đến cử tri thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:16:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269271+07:00"
+    },
+    {
+      "id": "66d12765069d6132d68121327f6e1b43",
+      "title": "Bị bắt tạm giam vì đâm bạn nhậu",
+      "link": "https://thanhnien.vn/bi-bat-tam-giam-vi-dam-ban-nhau-185251114110240292.htm",
+      "summary": "Công an TP.Đà Nẵng đã khởi tố, bắt tạm giam người đàn ông dùng dao đâm bạn nhậu vì mâu thuẫn khi uống bia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:15:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269455+07:00"
+    },
+    {
+      "id": "f284866e9ada1fa6145014a096dcda62",
+      "title": "Giám đốc Sở VH-TT-DL Nguyễn Minh Phú làm Phó chủ tịch UBND tỉnh Điện Biên",
+      "link": "https://thanhnien.vn/giam-doc-so-vh-tt-dl-nguyen-minh-phu-lam-pho-chu-tich-ubnd-tinh-dien-bien-185251114130442511.htm",
+      "summary": "HĐND tỉnh Điện Biên khóa XV đã tiến hành bầu bổ sung 1 phó chủ tịch HĐND tỉnh và 1 phó chủ tịch UBND tỉnh trong sáng nay 14.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:13:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269618+07:00"
+    },
+    {
+      "id": "0753876bdbe7db63d69de2f9f9f54460",
+      "title": "Cà Mau: Phát động 45 ngày đêm tăng tốc thi công bệnh viện 1.200 giường",
+      "link": "https://thanhnien.vn/ca-mau-phat-dong-45-ngay-dem-tang-toc-thi-cong-benh-vien-1200-giuong-185251114113652078.htm",
+      "summary": "Trên công trường Bệnh viện đa khoa Cà Mau quy mô 1.200 giường, tỉnh Cà Mau phát động thi đua '45 ngày đêm đẩy nhanh tiến độ thi công', nhằm đưa công trình y tế trọng điểm này về đích đúng hẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:11:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269772+07:00"
+    },
+    {
+      "id": "bbef8670879747acd13b95b199db4665",
+      "title": "Pha giật cùi chỏ đối thủ khiến Ronaldo rời sân",
+      "link": "https://vnexpress.net/pha-giat-cui-cho-doi-thu-khien-ronaldo-roi-san-4963958.html",
+      "summary": "Trong trận Ireland – Bồ Đào Nha tối 13/11, khi bị hậu vệ chủ nhà bám sát trong vòng cấm, Ronaldo giật cùi chỏ khiến đối phương ngã xuống rồi làm động tác “giả khóc” để chế giễu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:09:43+07:00",
+      "fetched": "2025-11-14T13:26:31.416218+07:00"
+    },
+    {
+      "id": "0a8ec28ae70bf354e709264c92eddac6",
+      "title": "Đầu tư thêm 344 tỉ đồng để tái khởi động Bệnh viện Ung bướu Cần Thơ",
+      "link": "https://thanhnien.vn/dau-tu-them-344-ti-dong-de-tai-khoi-dong-benh-vien-ung-buou-can-tho-185251114102445356.htm",
+      "summary": "Sau hơn 3 năm bỏ không vì vướng thủ tục, Bệnh viện Ung bướu Cần Thơ được điều chỉnh nguồn vốn, tăng mức đầu tư thêm 344 tỉ đồng để tái khởi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:07:00+07:00",
+      "fetched": "2025-11-14T13:26:34.269926+07:00"
+    },
+    {
+      "id": "db9d5aee15900c3672c600d2cc090f1f",
+      "title": "Nóng: 'Kiến càng' Phạm Văn Mách vô địch thể hình thế giới ở tuổi 49",
+      "link": "https://thanhnien.vn/nong-kien-cang-pham-van-mach-vo-dich-the-hinh-the-gioi-o-tuoi-49-185251114130454661.htm",
+      "summary": "Lực sĩ 49 tuổi Phạm Văn Mách xuất sắc giành HCV giải thể hình vô địch thế giới 2025 diễn ra ở Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:06:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270079+07:00"
+    },
+    {
+      "id": "47e80a9d5ffc2f53edd4fe7c0118352b",
+      "title": "10 năm PAN phân phối dầu nhớt Mobil Delvac tại Việt Nam",
+      "link": "https://vnexpress.net/10-nam-pan-phan-phoi-dau-nhot-mobil-delvac-tai-viet-nam-4963960.html",
+      "summary": "Sau một thập kỷ phân phối dầu nhớt Mobil Delvac, Công ty Cổ phần PAN từng bước chuyển dịch thói quen sử dụng sản phẩm phổ thông sang các giải pháp bôi trơn hiệu suất cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:27+07:00",
+      "fetched": "2025-11-14T13:26:31.416413+07:00"
+    },
+    {
+      "id": "4b1eb88fd9eca7af144efb38d4c2e09f",
+      "title": "Thái độ bất thường của người con gái tôi đang theo đuổi",
+      "link": "https://vnexpress.net/thai-do-bat-thuong-cua-nguoi-con-gai-toi-dang-theo-duoi-4963717.html",
+      "summary": "Bữa hai đứa đi ăn, có số lạ gọi điện rất nhiều lần nhưng cô ấy không nghe máy, mấy nay cô ấy không liên lạc gì với tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:31.416585+07:00"
+    },
+    {
+      "id": "9e6800d304fd47290c864b6d0be34c90",
+      "title": "Maison Grand nhiều tiềm năng hút giới chuyên gia tại Phú Mỹ",
+      "link": "https://vnexpress.net/maison-grand-nhieu-tiem-nang-hut-gioi-chuyen-gia-tai-phu-my-4963946.html",
+      "summary": "Maison Grand hướng đến cộng đồng chuyên gia làm việc tại đô thị cảng Phú Mỹ, cung cấp không gian ở hiện đại, tiện ích đồng bộ và môi trường sống cân bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:31.416747+07:00"
+    },
+    {
+      "id": "737bf37d27aeb2db23774c95a5ae4a71",
+      "title": "Walmart dùng cảm biến thông minh quản lý hàng tồn kho",
+      "link": "https://vnexpress.net/walmart-dung-cam-bien-thong-minh-quan-ly-hang-ton-kho-4960844.html",
+      "summary": "Tập đoàn bán lẻ Walmart hợp tác với công ty Wiliot triển khai cảm biến IoT trong chuỗi cung ứng, hỗ trợ trí tuệ nhân tạo (AI) để theo dõi hàng hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:31.416912+07:00"
+    },
+    {
+      "id": "087b008bf62b87f8a6e45c4221ea8281",
+      "title": "Sạt lở núi nghiêm trọng ở Đà Nẵng, nghi 3 người bị vùi lấp",
+      "link": "https://thanhnien.vn/sat-lo-nui-nghiem-trong-o-da-nang-nghi-3-nguoi-bi-vui-lap-185251114125120542.htm",
+      "summary": "Một vụ sạt lở núi nghiêm trọng vừa xảy ra ở xã biên giới của thành phố Đà Nẵng khiến đất đá đổ về như thác, nghi có 3 người dân đang đi rẫy bị vùi lấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270234+07:00"
+    },
+    {
+      "id": "b36d978667dfe5db12fc156b57ad4ac7",
+      "title": "Đài tưởng niệm nạn nhân Covid-19: Để người đến không bị choáng ngợp hay quá đau buồn",
+      "link": "https://thanhnien.vn/dai-tuong-niem-nan-nhan-covid-19-de-nguoi-den-khong-bi-choang-ngop-hay-qua-dau-buon-185251114115923383.htm",
+      "summary": "Chủ trương của TP.HCM về việc dùng khu 'đất vàng' số 1 Lý Thái Tổ, P.Vườn Lài (Quận 10 cũ) để xây dựng công viên kết hợp đài tưởng niệm nạn nhân Covid-19 tiếp tục ghi nhận được nhiều ý kiến đóng góp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270406+07:00"
+    },
+    {
+      "id": "ecff09dc4fe702df4c839dd4229747e6",
+      "title": "Vĩnh Long phát triển năng lượng xanh gắn với tiềm năng du lịch",
+      "link": "https://thanhnien.vn/vinh-long-phat-trien-nang-luong-xanh-gan-voi-tiem-nang-du-lich-185251114111910925.htm",
+      "summary": "Vĩnh Long có bờ biển dài 130 km, mạng lưới giao thông thủy bộ huyết mạch đang từng bước đồng bộ… tiềm năng trở thành một trong những tổ hợp năng lượng xanh và phát triển du lịch chính của vùng ĐBSCL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270564+07:00"
+    },
+    {
+      "id": "018b985ef6348b9f227958e27bcf15da",
+      "title": "Bà chủ Bất động sản Nhật Nam chi 5.000 tỷ đồng lừa đảo vào đâu?",
+      "link": "https://vnexpress.net/ba-chu-bat-dong-san-nhat-nam-chi-5-000-ty-dong-lua-dao-vao-dau-4963848.html",
+      "summary": "Sau 4 năm đánh bóng tên tuổi, Vũ Thị Thúy huy động được hơn 9.000 tỷ đồng của nhà đầu tư, chiếm đoạt gần 5.000 tỷ rồi mua bất động sản, chi hoa hồng, tiêu xài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:57:38+07:00",
+      "fetched": "2025-11-14T13:26:31.417069+07:00"
+    },
+    {
+      "id": "a348442fb84dada3dad53ae1491c4d5c",
+      "title": "TP.Huế: Tai nạn trên quốc lộ 1 khiến 2 người tử vong",
+      "link": "https://thanhnien.vn/tphue-tai-nan-tren-quoc-lo-1-khien-2-nguoi-tu-vong-185251114110059467.htm",
+      "summary": "Cú va chạm mạnh với xe tải lưu thông trên quốc lộ 1, đoạn qua xã Phú Lộc (TP.Huế) khiến 2 người đi xe máy tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:57:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270727+07:00"
+    },
+    {
+      "id": "1d42bd2bd9bdb29b1803b3f2056a3b49",
+      "title": "Giun đất bò dày đặc ở khu dân cư",
+      "link": "https://vnexpress.net/giun-dat-bo-day-dac-o-khu-dan-cu-4963943.html",
+      "summary": "Giun từ bãi cỏ ngoi lên mặt đất rồi bò lên dày đặc 20 m vỉa hè khu dân cư Phú Mỹ, sáng 14/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:56:17+07:00",
+      "fetched": "2025-11-14T13:26:31.417224+07:00"
+    },
+    {
+      "id": "9bdab57abadec027a539c9e8fe764f46",
+      "title": "Thái Lan bắt trụ trì, thu hồi tài sản khổng lồ cho chùa",
+      "link": "https://thanhnien.vn/thai-lan-bat-tru-tri-thu-hoi-tai-san-khong-lo-cho-chua-18525111412454057.htm",
+      "summary": "Cảnh sát Thái Lan đã thu hồi tài sản trị giá khoảng 10 tỉ baht (hơn 8.100 tỉ đồng) có được từ tiền quyên góp cho Wat Phrabat Namphu, một ngôi chùa chăm lo những người mắc bệnh AIDS, sau khi sư trụ trì chùa cũng bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:56:00+07:00",
+      "fetched": "2025-11-14T13:26:34.270877+07:00"
+    },
+    {
+      "id": "b3a7352417e82417dc47f90c876a47cd",
+      "title": "Lửa thiêu rụi 'chuồng cọp' tại khu tập thể Trung Tự",
+      "link": "https://vnexpress.net/lua-thieu-rui-chuong-cop-tai-khu-tap-the-trung-tu-4963962.html",
+      "summary": "Phần cơi nới chứa nhiều đồ đạc trên tầng 5, khu tập thể trên đường Phạm Ngọc Thạch bất ngờ bốc cháy ngùn ngụt, nhiều người hoảng loạn tháo chạy, sáng 14/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:54:26+07:00",
+      "fetched": "2025-11-14T13:26:31.417425+07:00"
+    },
+    {
+      "id": "d5186b28efaef723c919dab4edd73ff7",
+      "title": "Vì sao có đề xuất thành lập Ban quản lý cửa khẩu tỉnh Tây Ninh?",
+      "link": "https://thanhnien.vn/vi-sao-co-de-xuat-thanh-lap-ban-quan-ly-cua-khau-tinh-tay-ninh-18525111410243715.htm",
+      "summary": "Tây Ninh đề xuất thành lập Ban quản lý cửa khẩu nhằm thống nhất điều hành hoạt động biên giới, tăng cường phối hợp lực lượng và nâng cao hiệu quả quản lý các cửa khẩu giao thương Việt Nam - Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:53:00+07:00",
+      "fetched": "2025-11-14T13:26:34.271023+07:00"
+    },
+    {
+      "id": "6809990aa2142e2eb7aa9e0380e5ac7a",
+      "title": "Bác sĩ ơi: ăn chay sai cách, tưởng khỏe mà dễ bệnh",
+      "link": "https://thanhnien.vn/bac-si-oi-an-chay-sai-cach-tuong-khoe-ma-de-benh-185251114093749722.htm",
+      "summary": "Ăn chay đang trở thành xu hướng được nhiều người lựa chọn vì mong muốn sống lành mạnh, thanh lọc cơ thể và giữ gìn vóc dáng. Tuy nhiên, thời gian gần đây, việc ăn chay sai cách đang ngày càng phổ biến. Không ít người tự ý loại bỏ nhóm thực phẩm thiết yếu, dẫn đến thiếu đạm, thiếu vi chất dinh dưỡng,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:49:00+07:00",
+      "fetched": "2025-11-14T13:26:34.271173+07:00"
+    },
+    {
+      "id": "8833fd39326104ecb1e7dd15a985f35d",
+      "title": "Ariana Grande bị quấy rối trên thảm đỏ",
+      "link": "https://thanhnien.vn/ariana-grande-bi-quay-roi-tren-tham-do-185251114121642353.htm",
+      "summary": "Những điều xui rủi dường như vẫn chưa dừng lại với Ariana Grande. Nữ ca sĩ kiêm diễn viên 32 tuổi đã bị một người đàn ông lao tới quấy rối khi đang bước đi trên thảm đỏ tại buổi công chiếu phim mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:35:00+07:00",
+      "fetched": "2025-11-14T13:26:34.271322+07:00"
+    },
+    {
+      "id": "9b3ba408b24c39fc5b48e6236b23d5dd",
+      "title": "Khách đặt phòng nhưng không đến gây thiệt hại thế nào",
+      "link": "https://vnexpress.net/khach-dat-phong-nhung-khong-den-gay-thiet-hai-the-nao-4963685.html",
+      "summary": "Khách đặt phòng đã thanh toán nhưng không đến (no-show) khiến khách sạn mất chi phí chuẩn bị phòng, doanh thu dịch vụ phụ và ảnh hưởng thứ hạng trên kênh bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:30:00+07:00",
+      "fetched": "2025-11-14T13:26:31.417604+07:00"
+    },
+    {
       "id": "115401666736c3a058e41fa87a4abb84",
       "title": "Thời tiết hôm nay 14-11: Nhiệt độ miền Bắc giảm sâu do không khí lạnh, miền Trung mưa to dài ngày",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-11-nhiet-do-mien-bac-giam-sau-do-khong-khi-lanh-mien-trung-mua-to-dai-ngay-2025111316150418.htm",
@@ -451,6 +861,106 @@ window.newsData_2025_11_14 = {
       "category": "Tổng hợp",
       "published": "2025-11-14T05:17:04.681758+07:00",
       "fetched": "2025-11-14T05:17:04.681973+07:00"
+    },
+    {
+      "id": "2788627fc98b78f1687fbeecb80286fd",
+      "title": "Ngô Thanh Vân, Mỹ Tâm bức xúc khi bị AI giả mạo",
+      "link": "https://vnexpress.net/ngo-thanh-van-my-tam-buc-xuc-khi-bi-ai-gia-mao-4963794.html",
+      "summary": "Ca sĩ Mỹ Tâm,  diễn viên Ngô Thanh Vân cho biết nhiều video do AI tạo ra giả mạo hình ảnh, giọng nói của họ để quảng cáo bất chấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:11:18+07:00",
+      "fetched": "2025-11-14T13:26:31.417769+07:00"
+    },
+    {
+      "id": "a71d79753794e2b1654e400f76ca6a80",
+      "title": "Cháy 'chuồng cọp' ở khu tập thể cũ Hà Nội",
+      "link": "https://vnexpress.net/chay-chuong-cop-o-khu-tap-the-cu-ha-noi-4963935.html",
+      "summary": "Phần ban công cơi nới của căn hộ tầng 5 nhà tập thể cũ Trung Tự, phường Kim Liên, bốc cháy sáng 14/11, không gây thiệt hại về người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:04:41+07:00",
+      "fetched": "2025-11-14T13:26:31.417934+07:00"
+    },
+    {
+      "id": "38eba8a3c89e541a76625f1b8cb72e42",
+      "title": "Mbappe dùng tiểu xảo phá đối thủ ở vòng loại World Cup",
+      "link": "https://vnexpress.net/mbappe-dung-tieu-xao-pha-doi-thu-o-vong-loai-world-cup-4963944.html",
+      "summary": "Tiền đạo Kylian Mbappe dùng giày làm hỏng mặt sân ở điểm đá phạt đền, khi Ukraine có khả năng được penalty ở vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:26:31.418086+07:00"
+    },
+    {
+      "id": "0f6561ef8b10de117317531b871c2cda",
+      "title": "Phế cầu khuẩn - 'sát thủ giấu mặt' gây tử vong hàng đầu ở trẻ em",
+      "link": "https://vnexpress.net/phe-cau-khuan-sat-thu-giau-mat-gay-tu-vong-hang-dau-o-tre-em-4963724.html",
+      "summary": "Phế cầu khuẩn là nguyên nhân chính gây viêm phổi, viêm màng não, nhiễm khuẩn huyết, dẫn đến tử vong và nhiều di chứng nặng nề cho trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:26:31.418244+07:00"
+    },
+    {
+      "id": "38eba8a3c89e541a76625f1b8cb72e42",
+      "title": "Mbappe dùng tiểu xảo phá đối thủ ở vòng loại World Cup",
+      "link": "https://vnexpress.net/mbappe-dung-tieu-xao-pha-doi-thu-o-vong-loai-world-cup-4963944.html",
+      "summary": "Tiền đạo Kylian Mbappe dùng giày làm hỏng mặt sân ở điểm đá phạt đền, khi Ukraine có khả năng được penalty ở vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:26:43.106118+07:00"
+    },
+    {
+      "id": "04df89e7b7fae22638f80beb648cb034",
+      "title": "Đề xuất miễn giấy phép xây dựng nhà ở dưới 7 tầng ở đô thị",
+      "link": "https://vnexpress.net/de-xuat-mien-giay-phep-xay-dung-nha-o-duoi-7-tang-o-do-thi-4963832.html",
+      "summary": "Đại biểu Đinh Ngọc Minh đề xuất miễn giấy phép xây dựng cho nhà ở dưới 7 tầng tại đô thị, thay vì chỉ khu vực nông thôn như dự luật, để tiết kiệm chi phí cho người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T04:55:54+07:00",
+      "fetched": "2025-11-14T13:26:38.214841+07:00"
+    },
+    {
+      "id": "6c43f844b5cb319928b324e9b91fd720",
+      "title": "New Zealand, Australia hỗ trợ Việt Nam hơn 1 triệu USD khắc phục hậu quả thiên tai",
+      "link": "https://vnexpress.net/new-zealand-australia-ho-tro-viet-nam-hon-1-trieu-usd-khac-phuc-hau-qua-thien-tai-4963919.html",
+      "summary": "New Zealand thông báo hỗ trợ Việt Nam gần 570.000 USD khắc phục hậu quả thiên tai và Australia cũng hỗ trợ thêm hơn 520.000 USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:48:18+07:00",
+      "fetched": "2025-11-14T13:26:36.699935+07:00"
+    },
+    {
+      "id": "3d075af0d9c31cedb0ddf66d7ee6fd49",
+      "title": "Nhật khoe uy lực xuyên thép của đạn pháo điện từ",
+      "link": "https://vnexpress.net/nhat-khoe-uy-luc-xuyen-thep-cua-dan-phao-dien-tu-4963855.html",
+      "summary": "Nhật Bản lần đầu công bố ảnh tàu mục tiêu sau cuộc thử nghiệm pháo điện từ trên biển, cho thấy viên đạn xuyên rất ngọt vào tấm thép.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:45:06+07:00",
+      "fetched": "2025-11-14T13:26:36.700111+07:00"
+    },
+    {
+      "id": "d265a99a5038020d5b3c77e8f35257b5",
+      "title": "Giá vàng miếng giảm gần 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-11-4963931.html",
+      "summary": "Sáng nay, các thương hiệu giảm giá bán ra vàng miếng 800.000 đồng, sau khi tăng 3 triệu đồng hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T04:33:15+07:00",
+      "fetched": "2025-11-14T13:26:38.215020+07:00"
+    },
+    {
+      "id": "4d693bff2950530e411a1cb376885f2c",
+      "title": "'Thầy bói' gốc Việt ở Australia bị cáo buộc lừa đảo 70 triệu USD",
+      "link": "https://vnexpress.net/thay-boi-goc-viet-o-australia-bi-cao-buoc-lua-dao-70-trieu-usd-4963862.html",
+      "summary": "Cảnh sát Australia bắt bà Anya Phan ở Sydney, với cáo buộc điều hành đường dây lừa đảo, rửa tiền nhắm vào các đồng hương gốc Việt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:32:49+07:00",
+      "fetched": "2025-11-14T13:26:36.700287+07:00"
     },
     {
       "id": "83fc04df867334602e57b0b7317aa1db",
@@ -911,6 +1421,16 @@ window.newsData_2025_11_14 = {
       "category": "Công nghệ",
       "published": "2025-11-14T02:46:34+07:00",
       "fetched": "2025-11-14T11:20:46.441643+07:00"
+    },
+    {
+      "id": "9ebe850ffa4fa801fc4d84aafb3f2884",
+      "title": "Sự trở lại của Motorola tại Việt Nam sau 10 năm",
+      "link": "https://vnexpress.net/su-tro-lai-cua-motorola-tai-viet-nam-sau-10-nam-4963521.html",
+      "summary": "Giữa tháng 11, Motorola thực hiện chiến dịch truyền thông rầm rộ trên mạng xã hội cho dấu mốc quay lại thị trường Việt Nam sau một thập kỷ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-14T02:46:34+07:00",
+      "fetched": "2025-11-14T13:26:41.311209+07:00"
     },
     {
       "id": "d426a3fc160648966fc13daaa09a79c1",
