@@ -1,6 +1,6 @@
 window.newsData_2025_11_15 = {
   "date": "2025-11-15",
-  "lastUpdated": "2025-11-15T01:24:24.922362+07:00",
+  "lastUpdated": "2025-11-15T03:19:18.875484+07:00",
   "articles": [
     {
       "id": "57b14e4a495bb0decd9b7559d8a13048",
@@ -151,6 +151,36 @@ window.newsData_2025_11_15 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T01:24:15.666775+07:00",
       "fetched": "2025-11-15T01:24:15.666979+07:00"
+    },
+    {
+      "id": "75049fe6f5b6966fdb7696f6bc6c3819",
+      "title": "Malaysia chưa bỏ ý định kháng cáo lên CAS, FAM khắc khoải chờ FIFA",
+      "link": "https://thanhnien.vn/malaysia-chua-bo-y-dinh-khang-cao-len-cas-fam-khac-khoai-cho-fifa-185251114230730963.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) vẫn đang chờ văn bản xử phạt chi tiết từ FIFA để có thể tiếp tục kháng cáo lên Tòa án Trọng tài thể thao quốc tế (CAS). Tuy nhiên FAM nên cân nhắc việc từ bỏ để sớm làm lại từ đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T20:06:00+07:00",
+      "fetched": "2025-11-15T03:19:09.706885+07:00"
+    },
+    {
+      "id": "cef3e7d6ba50d0584fe72557674e405d",
+      "title": "Cristiano Ronaldo và cơn ác mộng ở Dublin",
+      "link": "https://thanhnien.vn/cristiano-ronaldo-va-con-ac-mong-o-dublin-185251114230542611.htm",
+      "summary": "Người ta chờ đợi một sự tỏa sáng cả về tài năng lẫn đức độ của Cristiano Ronaldo tại SVĐ Aviva ở Dublin (CH Ireland). Rút cuộc đội tuyển Bồ Đào Nha bại trận, trong khi Ronaldo lập luôn kỷ lục cá nhân không ai muốn có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T20:02:00+07:00",
+      "fetched": "2025-11-15T03:19:09.707054+07:00"
+    },
+    {
+      "id": "791c51ea45bc0eee602948d7785cd7b6",
+      "title": "Chính phủ Mỹ khởi kiện ngăn California vẽ lại bản đồ bầu cử",
+      "link": "https://vnexpress.net/chinh-phu-my-khoi-kien-ngan-california-ve-lai-ban-do-bau-cu-4964120.html",
+      "summary": "Bộ Tư pháp Mỹ kiện California nhằm ngăn bang này vẽ lại bản đồ bầu cử, trong cuộc chiến pháp lý có thể xác định cán cân quyền lực tại quốc hội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T20:00:00+07:00",
+      "fetched": "2025-11-15T03:19:12.874634+07:00"
     },
     {
       "id": "865f27580e805499214f15cd931d907f",
