@@ -1,7 +1,157 @@
 window.newsData_2025_11_15 = {
   "date": "2025-11-15",
-  "lastUpdated": "2025-11-15T10:04:49.611640+07:00",
+  "lastUpdated": "2025-11-15T11:19:40.965115+07:00",
   "articles": [
+    {
+      "id": "c7b63c3a6074f78811ab0079da302b36",
+      "title": "Đà Nẵng bắt đầu đón mưa lớn từ tối nay, có nơi mưa trên 700mm",
+      "link": "https://tuoitre.vn/da-nang-bat-dau-don-mua-lon-tu-toi-nay-co-noi-mua-tren-700mm-2025111509071135.htm",
+      "summary": "Từ tối nay không khí lạnh tăng cường kết hợp với đới gió đông có khả năng gây mưa lớn ở Đà Nẵng, có nơi hứng mưa trên 700mm trong đợt mưa này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775883+07:00",
+      "fetched": "2025-11-15T11:19:32.776020+07:00"
+    },
+    {
+      "id": "e6a5d58ea9bd2d20217cf7414ad51f3e",
+      "title": "Nga dựa vào lực lượng Triều Tiên để 'dọn mìn' ở vùng Kursk",
+      "link": "https://tuoitre.vn/nga-dua-vao-luc-luong-trieu-tien-de-don-min-o-vung-kursk-20251115090148302.htm",
+      "summary": "Nga cho biết lực lượng Triều Tiên giữ vai trò then chốt trong chiến dịch rà phá bom mìn ở Kursk, phản ánh mức độ mở rộng hợp tác quân sự hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775761+07:00",
+      "fetched": "2025-11-15T11:19:32.775872+07:00"
+    },
+    {
+      "id": "1a9410a1b85dacd3412f831b3eaf112c",
+      "title": "Kinh tế tư nhân: từ tư duy đến đột phá thể chế",
+      "link": "https://tuoitre.vn/kinh-te-tu-nhan-tu-tu-duy-den-dot-pha-the-che-2025111509263914.htm",
+      "summary": "Dự thảo Báo cáo chính trị là một văn kiện được chuẩn bị công phu, khoa học, thể hiện rõ tầm nhìn chiến lược và khát vọng vươn mình của dân tộc. Một trong những điểm mới chính là sự khẳng định vai trò của kinh tế tư nhân (KTTN).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775635+07:00",
+      "fetched": "2025-11-15T11:19:32.775749+07:00"
+    },
+    {
+      "id": "9b48469148bb82f293a37e8db1e38cef",
+      "title": "Hơn 120 người đẹp trình diễn áo tắm tại Miss Universe, Hương Giang tự chấm mình 5 điểm",
+      "link": "https://tuoitre.vn/hon-120-nguoi-dep-trinh-dien-ao-tam-tai-miss-universe-huong-giang-tu-cham-minh-5-diem-20251115093110297.htm",
+      "summary": "Hương Giang và hơn 120 người đẹp Miss Universe trình diễn áo tắm tổ chức ở Thái Lan. Đại diện Việt Nam thừa nhận gặp sự cố làm ảnh hưởng tâm lý nên phần thi không trọn vẹn, tự chấm mình 5 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775512+07:00",
+      "fetched": "2025-11-15T11:19:32.775624+07:00"
+    },
+    {
+      "id": "6e4aa90a4ffbb175130f7106c0783854",
+      "title": "Bắt giữ kẻ sát hại hàng xóm, cướp vàng rồi lấy tấm bạt quấn thi thể giấu sau hè",
+      "link": "https://tuoitre.vn/bat-giu-ke-sat-hai-hang-xom-cuop-vang-roi-lay-tam-bat-quan-thi-the-giau-sau-he-20251115093604953.htm",
+      "summary": "Người đàn ông sau khi sát hại hàng xóm trong hẻm đường Bộ Đội An Điền (xã Vĩnh Lộc, TP.HCM), cướp vàng rồi lấy tấm bạt quấn thi thể, đem ra sau hè giấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775388+07:00",
+      "fetched": "2025-11-15T11:19:32.775500+07:00"
+    },
+    {
+      "id": "4642a51cbd4719ce67efd596d5b5f49c",
+      "title": "Ngày hội Việt Nam Xanh 2025 chính thức khai mạc",
+      "link": "https://tuoitre.vn/ngay-hoi-viet-nam-xanh-2025-chinh-thuc-khai-mac-20251115093514518.htm",
+      "summary": "Sáng 15-11 tại Nhà Văn hóa Thanh niên TP.HCM, Ngày hội Việt Nam Xanh 2025 chính thức khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775266+07:00",
+      "fetched": "2025-11-15T11:19:32.775377+07:00"
+    },
+    {
+      "id": "cf3a213540e935c0b91ac14134ba1337",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Ý nghĩa của sự cho đi và nhận lại",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-y-nghia-cua-su-cho-di-va-nhan-lai-20251115060134931.htm",
+      "summary": "Giữa nhịp sống vội vàng, vừa học tập, vừa công việc, vừa hoạt động ngoại khoá… mình đã chọn những hoạt động ý nghĩa để nuôi dưỡng tâm hồn của bản thân như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775140+07:00",
+      "fetched": "2025-11-15T11:19:32.775254+07:00"
+    },
+    {
+      "id": "44c3a0930859ada1233162941a4b1985",
+      "title": "Bắc Bộ sắp lạnh 10 độ C, miền Trung hứng đợt mưa to 800mm, Nam Bộ mưa 150mm",
+      "link": "https://tuoitre.vn/bac-bo-sap-lanh-10-do-c-mien-trung-hung-dot-mua-to-800mm-nam-bo-mua-150mm-20251115093104744.htm",
+      "summary": "Do sự tác động của không khí lạnh kết hợp với nhiễu động trong đới gió đông nên thời tiết cả nước trong nhiều ngày tới chủ yếu mưa rét, có nơi mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.775011+07:00",
+      "fetched": "2025-11-15T11:19:32.775129+07:00"
+    },
+    {
+      "id": "3432fb92a2a70d7dfcbc9c5d569953fc",
+      "title": "Ủy viên Trung ương Đảng làm trưởng đoàn đại biểu Quốc hội không giữ quá 3 chức danh lãnh đạo",
+      "link": "https://tuoitre.vn/uy-vien-trung-uong-dang-lam-truong-doan-dai-bieu-quoc-hoi-khong-giu-qua-3-chuc-danh-lanh-dao-20251115093728569.htm",
+      "summary": "Theo ông Hoàng Đăng Quang, các ủy viên Trung ương Đảng được phân công làm trưởng đoàn đại biểu Quốc hội tỉnh, thành phố khóa mới sẽ không giữ quá 3 chức danh lãnh đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774864+07:00",
+      "fetched": "2025-11-15T11:19:32.774998+07:00"
+    },
+    {
+      "id": "949d29edc516b770d03386eca9eb752b",
+      "title": "Tặng bằng khen cho 10 tập thể, 2 cá nhân vụ 3 người sống sót thần kỳ",
+      "link": "https://tuoitre.vn/tang-bang-khen-cho-10-tap-the-2-ca-nhan-vu-3-nguoi-song-sot-than-ky-20251115092142396.htm",
+      "summary": "10 tập thể, 2 cá nhân tham gia tìm kiếm ba người trôi dạt 48 giờ xuyên bão biển và sống sót thần kỳ được UBND tỉnh Quảng Ngãi tặng bằng khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774734+07:00",
+      "fetched": "2025-11-15T11:19:32.774852+07:00"
+    },
+    {
+      "id": "6077b4cc0e8543b2e22717bd3515f611",
+      "title": "Ông Trump đòi kiện BBC 5 tỉ USD vì bê bối cắt ghép phát biểu",
+      "link": "https://tuoitre.vn/ong-trump-doi-kien-bbc-5-ti-usd-vi-be-boi-cat-ghep-phat-bieu-20251115095052811.htm",
+      "summary": "Ông Trump tuyên bố sẽ khởi kiện đòi BBC bồi thường tới 5 tỉ USD vì biên tập sai lệch phát biểu của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774591+07:00",
+      "fetched": "2025-11-15T11:19:32.774712+07:00"
+    },
+    {
+      "id": "7fbc0c6e2b611b769f3a2a9e381e149c",
+      "title": "Khi xa quê, một tô phở nóng hổi chính là hương vị Tổ quốc",
+      "link": "https://tuoitre.vn/tuan-le-pho-o-chau-au-khi-xa-que-mot-to-pho-nong-hoi-chinh-la-huong-vi-to-quoc-2025111509453872.htm",
+      "summary": "Từ ngày 8 tới 14-12, người Việt xa quê cũng như thực khách quốc tế có thể thưởng thức phở Việt ở nhiều nhà hàng, quán ăn khắp châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774461+07:00",
+      "fetched": "2025-11-15T11:19:32.774579+07:00"
+    },
+    {
+      "id": "23537a2804a67f5012152958cfe72eff",
+      "title": "Tuổi trẻ Công an An Giang tặng 600 suất ăn miễn phí cho bệnh nhân nghèo",
+      "link": "https://tuoitre.vn/tuoi-tre-cong-an-an-giang-tang-600-suat-an-mien-phi-cho-benh-nhan-ngheo-20251115094055787.htm",
+      "summary": "Tuổi trẻ Công an tỉnh An Giang phối hợp với nhóm thiện nguyện \"Gieo mầm yêu thương\" đã tổ chức trao tặng 600 ăn miễn phí cho bệnh nhân nghèo tại bệnh viện. Hoạt động được duy trì để chia sẻ với bà còn nghèo, khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774326+07:00",
+      "fetched": "2025-11-15T11:19:32.774449+07:00"
+    },
+    {
+      "id": "fa9a607aa4efd3d2b7874bdd4fc11aee",
+      "title": "Từ 1-1-2026, tiền lương đóng bảo hiểm xã hội bắt buộc sẽ thay đổi",
+      "link": "https://tuoitre.vn/tu-1-1-2026-tien-luong-dong-bao-hiem-xa-hoi-bat-buoc-se-thay-doi-20251115095047382.htm",
+      "summary": "Tiền lương tối thiểu vùng theo tháng chính thức tăng 250.000-350.000 đồng từ 1-1-2026 nên căn cứ tính đóng bảo hiểm xã hội bắt buộc cũng tăng theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.774184+07:00",
+      "fetched": "2025-11-15T11:19:32.774313+07:00"
+    },
+    {
+      "id": "fd5678c7ab23b5fda3e5761c5b251346",
+      "title": "Ngày mưa nhớ cậu, nhớ buổi cơm với trái ổi, đọt rau, nước mắm dầm ớt cay cay",
+      "link": "https://tuoitre.vn/ngay-mua-nho-cau-nho-buoi-com-voi-trai-oi-dot-rau-nuoc-mam-dam-ot-cay-cay-20251111113041504.htm",
+      "summary": "Những ngày mưa, ngồi nhìn màn mưa giăng phủ mịt mờ, lướt những dòng tin tức về bà con nơi xa phải hứng chịu trong cảnh rét lạnh, thiệt hại, tôi lại nhớ về cậu của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T11:19:32.773961+07:00",
+      "fetched": "2025-11-15T11:19:32.774169+07:00"
+    },
     {
       "id": "19a79a008765d50991918fc86bd4299e",
       "title": "Dân kêu đường Hà Ra Nha Trang thành 'đường thú nhún', hàng chục năm không đầu tư, sửa chữa",
@@ -303,6 +453,216 @@ window.newsData_2025_11_15 = {
       "fetched": "2025-11-15T08:16:53.615217+07:00"
     },
     {
+      "id": "2529e42dd174b724f69c878c275d60ca",
+      "title": "Tranh cãi AFF Cup 2026 thi đấu tận 1 tháng, kéo dài hơn cả World Cup: Đụng độ giải VĐQG?",
+      "link": "https://thanhnien.vn/tranh-cai-aff-cup-2026-thi-dau-tan-1-thang-keo-dai-hon-ca-world-cup-dung-do-giai-vdqg-185251115105815452.htm",
+      "summary": "Giới chuyên gia bóng đá khu vực bày tỏ lo ngại giải AFF Cup (ASEAN Cup hiện nay) được tổ chức vào mùa hè sang năm ngay sau World Cup 2026 kết thúc, nhưng kéo dài hơn một tháng dù chỉ có 10 đội tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T04:01:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657056+07:00"
+    },
+    {
+      "id": "60a41cebc7b107276c026c302f3b67e8",
+      "title": "Xem nhanh 12h: Ớn lạnh chiêu trò đục vỡ xương trục lợi bảo hiểm | 8 tỉnh miền Trung mưa lớn",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-on-lanh-chieu-tro-duc-vo-xuong-truc-loi-bao-hiem-8-tinh-mien-trung-mua-lon-185251115105841655.htm",
+      "summary": "Tình hình thời tiết, đục vỡ xương để trục lợi bảo hiểm, sạt lở ở Đà Nẵng… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 15.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T04:00:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657228+07:00"
+    },
+    {
+      "id": "304fcdfd5803845fffffc6178838b72b",
+      "title": "SGS Thụy Sĩ giúp CT UAV siết tiêu chuẩn hàng không vũ trụ",
+      "link": "https://thanhnien.vn/sgs-thuy-si-giup-ct-uav-siet-tieu-chuan-hang-khong-vu-tru-185251115095411568.htm",
+      "summary": "CT UAV hợp tác cùng SGS từ Thụy Sĩ - Tập đoàn hàng đầu thế giới về thử nghiệm, giám định và chứng nhận triển khai tiêu chuẩn quản lý chất lượng AS9100D và ISO 9001 cho hội sở và 5 nhà máy của CT UAV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T04:00:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657385+07:00"
+    },
+    {
+      "id": "64e23634d0791acd794230fceeb7dc97",
+      "title": "Cháy nhà trọ 4 tầng gần chợ Đầm ở trung tâm Nha Trang",
+      "link": "https://thanhnien.vn/chay-nha-tro-4-tang-gan-cho-dam-o-trung-tam-nha-trang-18525111510375735.htm",
+      "summary": "Sáng 15.11, lực lượng công an đang phối hợp điều tra nguyên nhân vụ cháy xảy ra tại một nhà trọ 4 tầng ở P.Nha Trang, tỉnh Khánh Hòa khiến một người bỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:59:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657538+07:00"
+    },
+    {
+      "id": "da3f639362cf99f33878057d7710e4b0",
+      "title": "TP.HCM điều chỉnh giao thông loạt tuyến đường, người dân chú ý kẻo bị phạt",
+      "link": "https://thanhnien.vn/tphcm-dieu-chinh-giao-thong-loat-tuyen-duong-nguoi-dan-chu-y-keo-bi-phat-185251115105106952.htm",
+      "summary": "Nhiều tuyến đường được điều chỉnh tổ chức giao thông nhằm đảm bảo an toàn và giảm ùn tắc sau khi TP.HCM sáp nhập với Bình Dương và Bà Rịa - Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:55:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657688+07:00"
+    },
+    {
+      "id": "c863ba3c08935581f4904eda307613e6",
+      "title": "Xem binh sĩ Triều Tiên giúp Nga rà phá bom mìn ở Kursk",
+      "link": "https://thanhnien.vn/xem-binh-si-trieu-tien-giup-nga-ra-pha-bom-min-o-kursk-185251115104735883.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố binh sĩ Triều Tiên đang hỗ trợ quan trọng trong việc rà phá bom mìn tại vùng Kursk sau cuộc tấn công của Ukraine năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:55:00+07:00",
+      "fetched": "2025-11-15T11:19:31.657837+07:00"
+    },
+    {
+      "id": "b4fe14b8a872ff4cb25d0195deb0c276",
+      "title": "Bảo hiểm và dư địa lớn để khơi thông dòng vốn dài hạn cho tăng trưởng kinh tế",
+      "link": "https://thanhnien.vn/bao-hiem-va-du-dia-lon-de-khoi-thong-dong-von-dai-han-cho-tang-truong-kinh-te-185251115104201356.htm",
+      "summary": "'Điều Việt Nam cần lúc này không chỉ là tăng trưởng, mà là một nền kinh tế đủ minh bạch, đủ chiều sâu để thu hút dòng vốn dài hạn' nhận định của ông Kevin Kwon, Tổng giám đốc Prudential Việt Nam, tại Vietnam Future Economy Summit do Bloomberg Businessweek tổ chức, đã mở ra một góc nhìn khác về động ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:54:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658017+07:00"
+    },
+    {
+      "id": "12b9373b42525047954b76cfba49deb5",
+      "title": "Nhật Bản khoe uy lực của pháo điện từ",
+      "link": "https://thanhnien.vn/nhat-ban-khoe-uy-luc-cua-phao-dien-tu-185251115095940923.htm",
+      "summary": "Nhật Bản vừa công bố hình ảnh về sức công phá của loại pháo điện từ được nước này phát triển và thử nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:52:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658171+07:00"
+    },
+    {
+      "id": "264c3ca10d4d5ffa92232d997679cca5",
+      "title": "Độc lạ bonsai gừng thành 'trend', vườn kiểng ở TP.HCM bất ngờ đắt hàng",
+      "link": "https://thanhnien.vn/doc-la-bonsai-gung-thanh-trend-vuon-kieng-o-tphcm-bat-ngo-dat-hang-18525110813185466.htm",
+      "summary": "Thời gian gần đây, thú chơi bonsai gừng bất ngờ gây sốt trên mạng xã hội, thậm chí trở thành 'trend' được nhiều người hưởng ứng. Nhiều vườn kiểng ở TP.HCM theo đó đắt hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:48:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658320+07:00"
+    },
+    {
+      "id": "d3aa889700094a055327d3ca20320596",
+      "title": "Quỹ Singapore phát động chương trình tình nguyện y tế tại Việt Nam",
+      "link": "https://thanhnien.vn/quy-singapore-phat-dong-chuong-trinh-tinh-nguyen-y-te-tai-viet-nam-185251115094325968.htm",
+      "summary": "Hôm 14.11, Quỹ Quốc tế Singapore (SIF) phát động chương trình với khoản quyên góp trị giá 250.000 SGD (khoảng 5 tỉ đồng) từ Tập đoàn Mapletree nhằm hỗ trợ các tình nguyện viên y tế Singapore tham gia các dự án tại Ấn Độ và Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:47:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658476+07:00"
+    },
+    {
+      "id": "6ddda669a2b5693de99ab9233682f1f6",
+      "title": "Nhà hàng gây bão khi thực khách dầm nước lũ ngắm cá bơi",
+      "link": "https://thanhnien.vn/nha-hang-gay-bao-khi-thuc-khach-dam-nuoc-lu-ngam-ca-boi-185251115103113518.htm",
+      "summary": "Một nhà hàng ở Thái Lan chật kín khách tìm đến với mong muốn có trải nghiệm độc nhất: ngồi giữa dòng nước lũ và ngắm cá bơi xung quanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:42:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658628+07:00"
+    },
+    {
+      "id": "4fcde623d83ba3a2cb9d6d385c487538",
+      "title": "Nổ đồn cảnh sát Ấn Độ ở Kashmir, ít nhất 7 người chết",
+      "link": "https://thanhnien.vn/no-don-canh-sat-an-do-o-kashmir-it-nhat-7-nguoi-chet-185251115092148083.htm",
+      "summary": "Những vật liệu nổ bị thu giữ tại đồn cảnh sát ở vùng Jammu and Kashmir, khu vực do Ấn Độ quản lý, bất ngờ phát nổ khiến nhiều người chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:39:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658776+07:00"
+    },
+    {
+      "id": "bce22aa1029d0ab11c7085961548f480",
+      "title": "Bên trong nhà hàng 'du hành xuyên thời gian' ở Bắc Kinh",
+      "link": "https://vnexpress.net/ben-trong-nha-hang-du-hanh-xuyen-thoi-gian-o-bac-kinh-4963912.html",
+      "summary": "Nhà hàng cung cấp trang phục truyền thống, suất ăn cung đình cho khách hàng sẵn sàng chi tiền trải nghiệm cảm giác du hành thời gian về thời cổ đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:29:23+07:00",
+      "fetched": "2025-11-15T11:19:27.395997+07:00"
+    },
+    {
+      "id": "bce22aa1029d0ab11c7085961548f480",
+      "title": "Bên trong nhà hàng 'du hành xuyên thời gian' ở Bắc Kinh",
+      "link": "https://vnexpress.net/ben-trong-nha-hang-du-hanh-xuyen-thoi-gian-o-bac-kinh-4963912.html",
+      "summary": "Nhà hàng cung cấp trang phục truyền thống, suất ăn cung đình cho khách hàng sẵn sàng chi tiền trải nghiệm cảm giác du hành thời gian về thời cổ đại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-15T03:29:23+07:00",
+      "fetched": "2025-11-15T11:19:34.515677+07:00"
+    },
+    {
+      "id": "65217ac6f65efa001dd336980e78746f",
+      "title": "3 thói quen xấu hủy hoại pin máy tính bảng Android",
+      "link": "https://thanhnien.vn/3-thoi-quen-xau-huy-hoai-pin-may-tinh-bang-android-185251110102208327.htm",
+      "summary": "Chuyên gia chỉ ra 3 thói quen xấu và cách khắc phục để duy trì tuổi thọ pin máy tính bảng Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:26:00+07:00",
+      "fetched": "2025-11-15T11:19:31.658939+07:00"
+    },
+    {
+      "id": "bbf026922dca830ed9470272d2c4e13b",
+      "title": "Hẹp van tim dễ nhầm với lão hóa",
+      "link": "https://vnexpress.net/hep-van-tim-de-nham-voi-lao-hoa-4963206.html",
+      "summary": "Bệnh van tim, đặc biệt là hẹp van động mạch chủ, khởi phát với các triệu chứng mệt, khó thở, chóng mặt, dễ bị nhầm quá trình lão hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:22:30+07:00",
+      "fetched": "2025-11-15T11:19:27.396179+07:00"
+    },
+    {
+      "id": "19094c297cf867d15b6b9c37269236b8",
+      "title": "Hai hoa hậu của Venezuela tới thăm Đại sứ quán Việt Nam",
+      "link": "https://thanhnien.vn/hai-hoa-hau-cua-venezuela-toi-tham-dai-su-quan-viet-nam-185251115022633885.htm",
+      "summary": "Ông Vũ Trung Mỹ, Đại sứ Việt Nam tại Venezuela, cho biết ngày 13.11.2025 (14.11.2025, theo giờ Việt Nam), Hoa hậu Sắc đẹp Quốc tế (Miss Charm Venezuela 2025) Anna Blanco Flores và Hoa hậu Hoàn vũ Quốc tế (Miss Cosmo Venezuela 2025) Tina Batson đã đến thăm Đại sứ quán Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:19:00+07:00",
+      "fetched": "2025-11-15T11:19:31.659092+07:00"
+    },
+    {
+      "id": "d6b02123d1e766147d8adcff8c5cde9d",
+      "title": "Trường THPT Xuân Lộc (Đồng Nai): Hành trình 40 năm giữ lửa tri thức",
+      "link": "https://thanhnien.vn/truong-thpt-xuan-loc-dong-nai-hanh-trinh-40-nam-giu-lua-tri-thuc-185251115100713093.htm",
+      "summary": "Trường THPT Xuân Lộc hiện là trường chuẩn Quốc gia mức 2 (giai đoạn 2021-2026) và là đơn vị nhiều năm liền nằm trong top đầu tỉnh Đồng Nai về tỷ lệ học sinh giỏi cấp tỉnh và tỷ lệ học sinh tốt nghiệp THPT hằng năm",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:14:00+07:00",
+      "fetched": "2025-11-15T11:19:31.659244+07:00"
+    },
+    {
+      "id": "9ef44a122d11db6a9ec8f976ccd14dbd",
+      "title": "Trần Văn Thảo tự tin thượng đài võ sĩ Thái Lan",
+      "link": "https://vnexpress.net/tran-van-thao-tu-tin-thuong-dai-vo-si-thai-lan-4964275.html",
+      "summary": "Dù có thời gian chuẩn bị ngắn, võ sĩ Trần Văn Thảo vẫn tự tin sẽ thắng võ sĩ Thái Lan Kwanchai Pliankhunthod hạng 56kg, ở sự kiện Ho Tram Legendary.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:09:31+07:00",
+      "fetched": "2025-11-15T11:19:27.396347+07:00"
+    },
+    {
+      "id": "9ef44a122d11db6a9ec8f976ccd14dbd",
+      "title": "Trần Văn Thảo tự tin thượng đài võ sĩ Thái Lan",
+      "link": "https://vnexpress.net/tran-van-thao-tu-tin-thuong-dai-vo-si-thai-lan-4964275.html",
+      "summary": "Dù có thời gian chuẩn bị ngắn, võ sĩ Trần Văn Thảo vẫn tự tin sẽ thắng võ sĩ Thái Lan Kwanchai Pliankhunthod hạng 56kg, ở sự kiện Ho Tram Legendary.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T03:09:31+07:00",
+      "fetched": "2025-11-15T11:19:40.958863+07:00"
+    },
+    {
+      "id": "308c83bafdf1a80ed42b5cb25ba1177a",
+      "title": "Tài tử 'Hồ sơ trinh sát': Đau khi ly hôn",
+      "link": "https://vnexpress.net/tai-tu-ho-so-trinh-sat-dau-khi-ly-hon-4964263.html",
+      "summary": "Đào Đại Vũ, diễn viên Hong Kong đóng \"Hồ sơ trinh sát\", \"Đại thời đại\", hiếm hoi nói về việc ly hôn vợ cũ Hoàng Tuệ Bảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:02:23+07:00",
+      "fetched": "2025-11-15T11:19:27.396513+07:00"
+    },
+    {
       "id": "12fed65617a13a7e3c67947674cb31f0",
       "title": "Cardigan và phong cách thể thao - vũ khí mùa lạnh của các nàng",
       "link": "https://thanhnien.vn/thoi-trang-tre/cardigan-va-phong-cach-the-thao-vu-khi-mua-lanh-cua-cac-nang-185251115020003573.htm",
@@ -321,6 +681,56 @@ window.newsData_2025_11_15 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T03:00:00+07:00",
       "fetched": "2025-11-15T10:04:40.386330+07:00"
+    },
+    {
+      "id": "86f8c7fc21dbd8116ca1e2b257307326",
+      "title": "Làm sao để có một con cua chín chân?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-con-gi-lam-sao-de-co-mot-con-cua-chin-chan-4963994.html",
+      "summary": "Bạn đã bao giờ nghe tới một con cua có… chín chân chưa? Nghe qua tưởng như chuyện hoang đường nhưng sự thật không phải vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:00:00+07:00",
+      "fetched": "2025-11-15T11:19:27.396673+07:00"
+    },
+    {
+      "id": "5fdc38f559c128fabeeafd54cfaecf8c",
+      "title": "Thừa cân, béo phì gây hại sức khỏe thế nào",
+      "link": "https://vnexpress.net/thua-can-beo-phi-gay-hai-suc-khoe-the-nao-4964253.html",
+      "summary": "Các mô mỡ dư thừa quá nhiều có thể gây ra nhiều vấn đề sức khỏe như tăng nguy cơ gan nhiễm mỡ, cao huyết áp, tiểu đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:00:00+07:00",
+      "fetched": "2025-11-15T11:19:27.396829+07:00"
+    },
+    {
+      "id": "d5cf72d18a8a9fdeb263e1b2709642c5",
+      "title": "5 nhóm trẻ dễ biến chứng khi nhiễm virus hợp bào hô hấp",
+      "link": "https://vnexpress.net/5-nhom-tre-de-bien-chung-khi-nhiem-virus-hop-bao-ho-hap-4964187.html",
+      "summary": "Virus hợp bào hô hấp gây viêm phổi, viêm tiểu phế quản, suy hô hấp nặng ở trẻ sơ sinh, mắc bệnh tim bẩm sinh, có hệ miễn dịch suy yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:00:00+07:00",
+      "fetched": "2025-11-15T11:19:27.397005+07:00"
+    },
+    {
+      "id": "5a5f3cf513f9ea210f81240adb48ad4f",
+      "title": "Meta Codex - giải pháp trẻ hóa da không xâm lấn mới",
+      "link": "https://vnexpress.net/meta-codex-giai-phap-tre-hoa-da-khong-xam-lan-moi-4963419.html",
+      "summary": "Liệu trình Meta Codex tác động đa tầng, kết hợp công nghệ nhập khẩu từ các quốc gia tiên tiến về y học thẩm mỹ, giúp làn da trở nên tươi trẻ, căng mịn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:00:00+07:00",
+      "fetched": "2025-11-15T11:19:27.397164+07:00"
+    },
+    {
+      "id": "7c0e79777b5b4470fc5f779f9b37dc57",
+      "title": "MM Mega Market Việt Nam: Chuyển mình để dẫn dắt xu hướng bán lẻ",
+      "link": "https://vnexpress.net/mm-mega-market-viet-nam-chuyen-minh-de-dan-dat-xu-huong-ban-le-4962907.html",
+      "summary": "MM Mega Market Việt Nam xây trung tâm thương mại đầu tiên tại Đà Nẵng, phát triển mô hình đa chức năng, chuyển đổi số, kỳ vọng dẫn dắt xu hướng bán lẻ, theo Tổng giám đốc điều hành Nguyễn Đức Toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:00:00+07:00",
+      "fetched": "2025-11-15T11:19:27.397327+07:00"
     },
     {
       "id": "d0d5b4a37aff56f5eb3ed6b2138c53fc",
@@ -353,6 +763,46 @@ window.newsData_2025_11_15 = {
       "fetched": "2025-11-15T10:04:40.386784+07:00"
     },
     {
+      "id": "6bc955f3db19185b463c2e74463e11fb",
+      "title": "Ukraine tuyên bố tập kích, làm hư hại bệ phóng S-400 Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-lam-hu-hai-be-phong-s-400-nga-4964213.html",
+      "summary": "Ukraine đăng video khai hỏa tên lửa Neptune tăng tầm, tuyên bố hệ thống này cùng UAV đã tập kích cảng biển Nga và khiến bệ phóng S-400 hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T02:50:00+07:00",
+      "fetched": "2025-11-15T11:19:27.397479+07:00"
+    },
+    {
+      "id": "6bc955f3db19185b463c2e74463e11fb",
+      "title": "Ukraine tuyên bố tập kích, làm hư hại bệ phóng S-400 Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-lam-hu-hai-be-phong-s-400-nga-4964213.html",
+      "summary": "Ukraine đăng video khai hỏa tên lửa Neptune tăng tầm, tuyên bố hệ thống này cùng UAV đã tập kích cảng biển Nga và khiến bệ phóng S-400 hư hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-15T02:50:00+07:00",
+      "fetched": "2025-11-15T11:19:34.515851+07:00"
+    },
+    {
+      "id": "cc64b94a998703b21f21ff12de9fafe9",
+      "title": "Con trai Buffon tỏa sáng với tuyển U19 CH Czech",
+      "link": "https://vnexpress.net/con-trai-buffon-toa-sang-voi-tuyen-u19-ch-czech-4964245.html",
+      "summary": "Louis Buffon lập hat-trick trong trận CH Czech thắng Azerbaijan 6-1 ở vòng loại giải U19 châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T02:46:01+07:00",
+      "fetched": "2025-11-15T11:19:27.397638+07:00"
+    },
+    {
+      "id": "cc64b94a998703b21f21ff12de9fafe9",
+      "title": "Con trai Buffon tỏa sáng với tuyển U19 CH Czech",
+      "link": "https://vnexpress.net/con-trai-buffon-toa-sang-voi-tuyen-u19-ch-czech-4964245.html",
+      "summary": "Louis Buffon lập hat-trick trong trận CH Czech thắng Azerbaijan 6-1 ở vòng loại giải U19 châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T02:46:01+07:00",
+      "fetched": "2025-11-15T11:19:40.958253+07:00"
+    },
+    {
       "id": "a28584e5e6edf1a9dc4d480dca7bbd4e",
       "title": "Từng bước ‘cứng cáp trăm phần’ cho đến góp sức xây dựng quê hương",
       "link": "https://thanhnien.vn/tung-buoc-cung-cap-tram-phan-cho-den-gop-suc-xay-dung-que-huong-185251115094321614.htm",
@@ -373,6 +823,16 @@ window.newsData_2025_11_15 = {
       "fetched": "2025-11-15T10:04:40.387096+07:00"
     },
     {
+      "id": "7b897f4d8ad8bc646d3bfc4f27f0b2b3",
+      "title": "Hồi ký bố mẹ Giáo sư Ngô Bảo Châu (kỳ cuối): Những ngày sơ tán",
+      "link": "https://vnexpress.net/hoi-ky-bo-me-giao-su-ngo-bao-chau-ky-cuoi-nhung-ngay-so-tan-4964149.html",
+      "summary": "Khi sơ tán ở Lạng Sơn, mẹ của Giáo sư Ngô Bảo Châu, một tiểu thư Hà Nội, vào rừng chặt vầu, sống đói rét để tiếp tục học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T02:42:28+07:00",
+      "fetched": "2025-11-15T11:19:27.397800+07:00"
+    },
+    {
       "id": "d972d91af55031ab609a37909a93c306",
       "title": "Sinh viên học ngành tâm lý cũng bị bắt cóc online",
       "link": "https://thanhnien.vn/sinh-vien-hoc-nganh-tam-ly-cung-bi-bat-coc-online-185251115091907537.htm",
@@ -381,6 +841,26 @@ window.newsData_2025_11_15 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T02:36:00+07:00",
       "fetched": "2025-11-15T10:04:40.387261+07:00"
+    },
+    {
+      "id": "4576cf4bc008e0f01467ca83e2e93997",
+      "title": "UAE lách luật khi tìm vé dự World Cup 2026",
+      "link": "https://vnexpress.net/uae-lach-luat-khi-tim-ve-du-world-cup-2026-4964235.html",
+      "summary": "Từ một kẽ hở pháp lý của FIFA, Các Tiểu vương quốc Arab Thống nhất (UAE) dùng đến 13 cầu thủ nhập tịch trong nỗ lực giành vé đến World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T02:35:27+07:00",
+      "fetched": "2025-11-15T11:19:27.397983+07:00"
+    },
+    {
+      "id": "4576cf4bc008e0f01467ca83e2e93997",
+      "title": "UAE lách luật khi tìm vé dự World Cup 2026",
+      "link": "https://vnexpress.net/uae-lach-luat-khi-tim-ve-du-world-cup-2026-4964235.html",
+      "summary": "Từ một kẽ hở pháp lý của FIFA, Các Tiểu vương quốc Arab Thống nhất (UAE) dùng đến 13 cầu thủ nhập tịch trong nỗ lực giành vé đến World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T02:35:27+07:00",
+      "fetched": "2025-11-15T11:19:40.957415+07:00"
     },
     {
       "id": "8f4e105d7bdb2f90dfd8940ea6254f0a",
