@@ -1,7 +1,137 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T15:20:40.395375+07:00",
+  "lastUpdated": "2025-11-16T17:16:34.432985+07:00",
   "articles": [
+    {
+      "id": "76866e40c87a5b0b08ca860e0bd2bab4",
+      "title": "Gia Lai khởi công 7 trường học vùng biên giới",
+      "link": "https://tuoitre.vn/gia-lai-khoi-cong-7-truong-hoc-vung-bien-gioi-20251116115926234.htm",
+      "summary": "Ngày 16-11, Phó thủ tướng Hồ Quốc Dũng tham dự lễ khởi công 7 trường học liên cấp tiểu học và trung học cơ sở tại các xã biên giới tỉnh Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.330263+07:00",
+      "fetched": "2025-11-16T17:16:27.330375+07:00"
+    },
+    {
+      "id": "83a214eecdaac548c917dc49860c4a16",
+      "title": "Thanh Thúy tiếp tục chơi hay khiến 2 sao bóng chuyền Thái Lan ngậm ngùi",
+      "link": "https://tuoitre.vn/thanh-thuy-tiep-tuc-choi-hay-khien-2-sao-bong-chuyen-thai-lan-ngam-ngui-20251116133204216.htm",
+      "summary": "Ở trận thắng của Gunma Green Wings trước Aranmare tại Giải bóng chuyền Nhật Bản chiều 16-11, Thanh Thúy vẫn là cây ghi điểm nổi bật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.330140+07:00",
+      "fetched": "2025-11-16T17:16:27.330252+07:00"
+    },
+    {
+      "id": "3e4cc6fefc7c2257269665d75dba9ef8",
+      "title": "Xác định cặp đấu vòng 16 đội U17 World Cup 2025",
+      "link": "https://tuoitre.vn/xac-dinh-cap-dau-vong-16-doi-u17-world-cup-2025-20251116133330517.htm",
+      "summary": "8 cặp đấu vòng 16 đội Giải U17 World Cup 2025 đã chính thức lộ diện và hứa hẹn tạo ra các trận cầu hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.330020+07:00",
+      "fetched": "2025-11-16T17:16:27.330129+07:00"
+    },
+    {
+      "id": "d9b245b8e6995f42fc63513e180bc531",
+      "title": "Theo yêu cầu của ông Trump, Bộ Tư pháp Mỹ điều tra sự liên quan của Đảng Dân chủ trong vụ Epstein",
+      "link": "https://tuoitre.vn/theo-yeu-cau-cua-ong-trump-bo-tu-phap-my-dieu-tra-su-lien-quan-cua-dang-dan-chu-trong-vu-epstein-20251116120623486.htm",
+      "summary": "Bộ Tư pháp Mỹ bất ngờ thông báo mở lại điều tra liên quan đến các nhân vật có tên trong hồ sơ Epstein theo yêu cầu của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329897+07:00",
+      "fetched": "2025-11-16T17:16:27.330009+07:00"
+    },
+    {
+      "id": "574721f5b74cbfe90eb9afc9dc48d078",
+      "title": "Đà Nẵng đồng loạt khởi công 5 trường nội trú các xã biên giới",
+      "link": "https://tuoitre.vn/da-nang-dong-loat-khoi-cong-5-truong-noi-tru-cac-xa-bien-gioi-20251116142800861.htm",
+      "summary": "Sáng 16-11, UBND TP Đà Nẵng tổ chức lễ khởi công đồng loạt 5 trường nội trú liên cấp tiểu học và THCS tại năm xã biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329774+07:00",
+      "fetched": "2025-11-16T17:16:27.329886+07:00"
+    },
+    {
+      "id": "5d866d3d3b1ff3de05274c6ee3326f36",
+      "title": "Ngỡ ngàng với độ 'xịn, mịn' của sản phẩm tái chế",
+      "link": "https://tuoitre.vn/ngo-ngang-voi-do-xin-min-cua-san-pham-tai-che-20251116151151258.htm",
+      "summary": "Đi chơi Ngày hội Việt Nam Xanh, nhiều khách bất ngờ khi trực tiếp trải nghiệm những sản phẩm, vật dụng chất lượng cao tái sinh từ chai nhựa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329647+07:00",
+      "fetched": "2025-11-16T17:16:27.329763+07:00"
+    },
+    {
+      "id": "14ed9264d03c65013ef5427b88c784a4",
+      "title": "Chuỗi Mailisa: Nhập loạt container mỹ phẩm Trung Quốc về bán hốt bạc, nay đột ngột gỡ khỏi website",
+      "link": "https://tuoitre.vn/chuoi-mailisa-nhap-loat-container-my-pham-trung-quoc-ve-ban-hot-bac-nay-dot-ngot-go-khoi-website-20251116144621168.htm",
+      "summary": "Lượng khách quá lớn khiến Mailisa phải dồn dập nhập mỹ phẩm bằng các chuyến container về Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329492+07:00",
+      "fetched": "2025-11-16T17:16:27.329630+07:00"
+    },
+    {
+      "id": "c8c265a788725a9009c1ff530ec10360",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Đi để hiểu, hiểu để yêu",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-di-de-hieu-hieu-de-yeu-20251115201209169.htm",
+      "summary": "Yêu thương nằm trong sự bình dị của đời sống hiện tại và trong cách con người đối xử với nhau bằng sự chân thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329359+07:00",
+      "fetched": "2025-11-16T17:16:27.329480+07:00"
+    },
+    {
+      "id": "851bdedc07e6395b89aac75bcafbba0c",
+      "title": "Nữ sinh 20 tuổi trở thành quán quân 'Vũ trụ đồng tiền 2025', nhận giải thưởng 1 tỉ đồng",
+      "link": "https://tuoitre.vn/nu-sinh-20-tuoi-tro-thanh-quan-quan-vu-tru-dong-tien-2025-nhan-giai-thuong-1-ti-dong-20251116144126832.htm",
+      "summary": "Vòng chung kết cuộc thi giáo dục tài chính 'Vũ trụ đồng tiền - The Moneyverse 2025' vừa diễn ra tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329235+07:00",
+      "fetched": "2025-11-16T17:16:27.329348+07:00"
+    },
+    {
+      "id": "9a435c9789dbd8daf4aaaeff71035037",
+      "title": "Ủng hộ sáp nhập các công ty xổ số nhưng cần tăng giá trị giải thưởng, quyền lợi của người bán",
+      "link": "https://tuoitre.vn/ung-ho-sap-nhap-cac-cong-ty-xo-so-nhung-can-tang-gia-tri-giai-thuong-quyen-loi-cua-nguoi-ban-20251116143646185.htm",
+      "summary": "Nhiều bạn đọc đồng tình chủ trương sáp nhập các công ty xổ số kiến thiết, đồng thời đề xuất nhân việc này tăng giá trị giải thưởng lên 'mới sòng phẳng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.329107+07:00",
+      "fetched": "2025-11-16T17:16:27.329223+07:00"
+    },
+    {
+      "id": "0a455456f1f20d04db8cb2d21547614a",
+      "title": "Xem livestream mua sản phẩm xanh, thân thiện môi trường",
+      "link": "https://tuoitre.vn/xem-livestream-mua-san-pham-xanh-than-thien-moi-truong-20251116154152989.htm",
+      "summary": "Nhiều sản phẩm thân thiện môi trường thu hút sự quan tâm của đông đảo người dùng ở phiên mega livestream tại Ngày hội Việt Nam Xanh 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.328971+07:00",
+      "fetched": "2025-11-16T17:16:27.329095+07:00"
+    },
+    {
+      "id": "f88406f4695808ec8b35f6dd02db692d",
+      "title": "Yonhap: Mỹ bỏ miễn trừ chi phí phát triển vũ khí với Hàn Quốc",
+      "link": "https://tuoitre.vn/yonhap-my-bo-mien-tru-chi-phi-phat-trien-vu-khi-voi-han-quoc-2025111616055947.htm",
+      "summary": "Việc bỏ chính sách miễn trừ buộc Hàn Quốc bỏ ra nhiều tiền hơn khi mua vũ khí Mỹ, dù nước này đã cam kết mua hàng tỉ USD vũ khí Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.328814+07:00",
+      "fetched": "2025-11-16T17:16:27.328957+07:00"
+    },
+    {
+      "id": "2819e96076327827fe785797b1fddc6d",
+      "title": "Iran gieo mây tạo mưa vì hạn hán tồi tệ",
+      "link": "https://tuoitre.vn/iran-gieo-may-tao-mua-vi-han-han-toi-te-2025111616183189.htm",
+      "summary": "Iran đã triển khai gieo mây để tạo mưa trong bối cảnh nước này đang phải đối mặt với đợt hạn hán tồi tệ nhất trong nhiều thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T17:16:27.328553+07:00",
+      "fetched": "2025-11-16T17:16:27.328796+07:00"
+    },
     {
       "id": "c510ef4786e8b4970d2d913d6dbdcfc7",
       "title": "Khó cản bước CLB nữ TP.HCM",
@@ -431,6 +561,366 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T10:15:51.702934+07:00",
       "fetched": "2025-11-16T10:15:51.703152+07:00"
+    },
+    {
+      "id": "387ab24a1c9293b6addbca7f2f410025",
+      "title": "U.23 Hàn Quốc bị chỉ trích dữ dội vì thua Trung Quốc, 'khó lòng thắng U.23 Việt Nam'",
+      "link": "https://thanhnien.vn/u23-han-quoc-bi-chi-trich-du-doi-vi-thua-trung-quoc-kho-long-thang-u23-viet-nam-185251116163927241.htm",
+      "summary": "Truyền thông xứ kim chi đã chỉ trích U.23 Hàn Quốc khi để thua trước U.23 Trung Quốc ngày 15.11. Thầy trò HLV Lee Min-sung được cảnh báo phải thận trọng ở trận đấu cuối, gặp U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:09:00+07:00",
+      "fetched": "2025-11-16T17:16:26.185184+07:00"
+    },
+    {
+      "id": "452f257fab9d711e142bcc3482363529",
+      "title": "Tài xế ở TP.HCM trúng 1 tỉ xổ số cào: Mang về nhà cả túi tiền mặt",
+      "link": "https://thanhnien.vn/tai-xe-o-tphcm-trung-1-ti-xo-so-cao-mang-ve-nha-ca-tui-tien-mat-185251114194412922.htm",
+      "summary": "Một tài xế công nghệ ở TP.HCM bất ngờ trúng giải đặc biệt xổ số cào trị giá 1 tỉ, nhận hết tiền mặt bỏ vào túi đen mang về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:03:00+07:00",
+      "fetched": "2025-11-16T17:16:26.185367+07:00"
+    },
+    {
+      "id": "275c4a56060c6d9f4342b5bcb561112e",
+      "title": "Toàn cảnh 17h: Quân đội đưa chó nghiệp vụ tìm người mất tích | Pháo điện tử Nhật Bản mạnh như thế nào?",
+      "link": "https://thanhnien.vn/toan-canh-17h-quan-doi-dua-cho-nghiep-vu-tim-nguoi-mat-tich-phao-dien-tu-nhat-ban-manh-nhu-the-nao-185251116155234048.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:00:00+07:00",
+      "fetched": "2025-11-16T17:16:26.185529+07:00"
+    },
+    {
+      "id": "b25f8e4287da0479c600d2e119c3a26d",
+      "title": "Đèo Vi Ô Lắc sạt lở, ôtô ùn tắc 2 km",
+      "link": "https://vnexpress.net/deo-vi-o-lac-sat-lo-oto-un-tac-2-km-4964598.html",
+      "summary": "Đèo Vi Ô Lắc trên quốc lộ 24 bị sạt lở taluy, đất đá đổ xuống đường khoảng 100 m3, khiến ôtô ùn ứ kéo dài, chiều 16/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:55:34+07:00",
+      "fetched": "2025-11-16T17:16:22.844060+07:00"
+    },
+    {
+      "id": "4b1035f33e2e2210660d17f546ceb9e5",
+      "title": "TP.HCM: Phát hiện thi thể thiếu nữ 14 tuổi sau 2 ngày mất tích",
+      "link": "https://thanhnien.vn/tphcm-phat-hien-thi-the-thieu-nu-14-tuoi-sau-2-ngay-mat-tich-185251116163621695.htm",
+      "summary": "Cơ quan chức năng TP.HCM vừa phát hiện, trục vớt thi thể thiếu nữ mất tích cách đây 2 ngày tại cầu Hóa An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:49:00+07:00",
+      "fetched": "2025-11-16T17:16:26.185704+07:00"
+    },
+    {
+      "id": "14cc5efcc118b01cde44398350b33e95",
+      "title": "Tàu đổ bộ gắn máy phóng điện từ của Trung Quốc lần đầu ra biển",
+      "link": "https://vnexpress.net/tau-do-bo-gan-may-phong-dien-tu-cua-trung-quoc-lan-dau-ra-bien-4964587.html",
+      "summary": "Chiến hạm Tứ Xuyên, chiếc đầu tiên thuộc lớp tàu đổ bộ Type-076 của Trung Quốc, lần đầu ra biển thử nghiệm sau khi hạ thủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:47:28+07:00",
+      "fetched": "2025-11-16T17:16:22.844250+07:00"
+    },
+    {
+      "id": "14cc5efcc118b01cde44398350b33e95",
+      "title": "Tàu đổ bộ gắn máy phóng điện từ của Trung Quốc lần đầu ra biển",
+      "link": "https://vnexpress.net/tau-do-bo-gan-may-phong-dien-tu-cua-trung-quoc-lan-dau-ra-bien-4964587.html",
+      "summary": "Chiến hạm Tứ Xuyên, chiếc đầu tiên thuộc lớp tàu đổ bộ Type-076 của Trung Quốc, lần đầu ra biển thử nghiệm sau khi hạ thủy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T09:47:28+07:00",
+      "fetched": "2025-11-16T17:16:29.111237+07:00"
+    },
+    {
+      "id": "5ef6f0413f5d68caf0c0079509430b9c",
+      "title": "Thể lệ Cuộc thi viết “Thanh Niên và tôi”",
+      "link": "https://thanhnien.vn/the-le-cuoc-thi-viet-thanh-nien-va-toi-185251114171316667.htm",
+      "summary": "Nhân kỷ niệm 40 năm ngày phát hành số báo đầu tiên (3.1.1986 - 3.1.2026), Báo Thanh Niên tổ chức cuộc thi viết \"Thanh Niên và tôi\" nhằm tri ân quý bạn đọc đã gắn bó, đồng hành cùng tờ báo suốt bốn thập niên qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:44:00+07:00",
+      "fetched": "2025-11-16T17:16:26.185858+07:00"
+    },
+    {
+      "id": "fdd239a9948440122f8dc27e24cfd145",
+      "title": "Tình báo Ukraine nói Nga muốn sản xuất 120.000 bom lượn năm nay",
+      "link": "https://thanhnien.vn/tinh-bao-ukraine-noi-nga-muon-san-xuat-120000-bom-luon-nam-nay-185251116152204798.htm",
+      "summary": "Một quan chức tình báo cấp cao của Ukraine cho hay Nga trong năm nay có kế hoạch sản xuất đến 120.000 bom lượn giá rẻ nhưng sức công phá mãnh liệt, bao gồm 500 quả thuộc dòng mới và có tầm bắn xa hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:38:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186014+07:00"
+    },
+    {
+      "id": "9bc967fcf5a0f4a5a90588edb1879edc",
+      "title": "Xem F-35 Mỹ thử nghiệm bom nhiệt hạch chiến lược",
+      "link": "https://thanhnien.vn/xem-f-35-my-thu-nghiem-bom-nhiet-hach-chien-luoc-185251116161940001.htm",
+      "summary": "Mỹ mới đây công bố nước này đã thử nghiệm thành công bom nhiệt hạch chiến thuật B61-12 không có đầu đạn vào tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:36:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186169+07:00"
+    },
+    {
+      "id": "08b34cfc01d11f1159298d7824de0ed5",
+      "title": "Cà phê, thịt bò Brazil bán sang Mỹ vẫn chịu thuế 40%",
+      "link": "https://vnexpress.net/ca-phe-thit-bo-brazil-ban-sang-my-van-chiu-thue-40-4964540.html",
+      "summary": "Cà phê, thịt bò, trái cây Brazil xuất sang Mỹ vẫn chịu mức thuế bổ sung 40%, bất chấp ông Trump miễn thuế đối ứng cho các mặt hàng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:35:13+07:00",
+      "fetched": "2025-11-16T17:16:22.844416+07:00"
+    },
+    {
+      "id": "08b34cfc01d11f1159298d7824de0ed5",
+      "title": "Cà phê, thịt bò Brazil bán sang Mỹ vẫn chịu thuế 40%",
+      "link": "https://vnexpress.net/ca-phe-thit-bo-brazil-ban-sang-my-van-chiu-thue-40-4964540.html",
+      "summary": "Cà phê, thịt bò, trái cây Brazil xuất sang Mỹ vẫn chịu mức thuế bổ sung 40%, bất chấp ông Trump miễn thuế đối ứng cho các mặt hàng này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-16T09:35:13+07:00",
+      "fetched": "2025-11-16T17:16:30.130232+07:00"
+    },
+    {
+      "id": "919cd245bca08a560dbc19fe70354260",
+      "title": "Trung Quốc bắt cựu trụ trì chùa Thiếu Lâm với cáo buộc biển thủ",
+      "link": "https://thanhnien.vn/trung-quoc-bat-cuu-tru-tri-chua-thieu-lam-voi-cao-buoc-bien-thu-185251116161802548.htm",
+      "summary": "Tân Hoa xã hôm 16.11 đưa tin Viện Kiểm sát ở thành phố Tân Hương (tỉnh Hà Nam, Trung Quốc) đã phê chuẩn lệnh bắt giữ sư Thích Vĩnh Tín, cựu trụ trì Thiếu Lâm tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:35:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186319+07:00"
+    },
+    {
+      "id": "de1a06d759a207134cad3c2deebcdf1a",
+      "title": "Thư Kỳ: 'Tôi mong mỏi làm mẹ'",
+      "link": "https://vnexpress.net/thu-ky-toi-mong-moi-lam-me-4964575.html",
+      "summary": "Minh tinh Đài Loan Thư Kỳ nói gần 10 năm qua luôn mơ ước có con nhưng chưa toại nguyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:34:44+07:00",
+      "fetched": "2025-11-16T17:16:22.844578+07:00"
+    },
+    {
+      "id": "97320f592dc402124ec7cf345219edfb",
+      "title": "Makhachev trở thành nhà vô địch hai hạng cân tại UFC",
+      "link": "https://vnexpress.net/makhachev-tro-thanh-nha-vo-dich-hai-hang-can-tai-ufc-4964600.html",
+      "summary": "Sau khi thống trị lightweight nhiều năm, võ sĩ người Nga Islam Makhachev thắng áp đảo Jack Della Maddalena để giành thêm đai welterweight tại UFC 322.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:34:36+07:00",
+      "fetched": "2025-11-16T17:16:22.844770+07:00"
+    },
+    {
+      "id": "97320f592dc402124ec7cf345219edfb",
+      "title": "Makhachev trở thành nhà vô địch hai hạng cân tại UFC",
+      "link": "https://vnexpress.net/makhachev-tro-thanh-nha-vo-dich-hai-hang-can-tai-ufc-4964600.html",
+      "summary": "Sau khi thống trị lightweight nhiều năm, võ sĩ người Nga Islam Makhachev thắng áp đảo Jack Della Maddalena để giành thêm đai welterweight tại UFC 322.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T09:34:36+07:00",
+      "fetched": "2025-11-16T17:16:34.423718+07:00"
+    },
+    {
+      "id": "f932cb9df1f7359b94f7fbaee691b270",
+      "title": "Jennifer Aniston đi ăn tối cùng bạn trai mới",
+      "link": "https://vnexpress.net/jennifer-aniston-di-an-toi-cung-ban-trai-moi-4964501.html",
+      "summary": "Jennifer Aniston và huấn luyện viên cuộc sống Jim Curtis - bạn trai kém cô sáu tuổi - có buổi hẹn hò đôi ở Los Angeles.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:34:24+07:00",
+      "fetched": "2025-11-16T17:16:22.844928+07:00"
+    },
+    {
+      "id": "6c8674e71f3aba0807b68f4bbf73005c",
+      "title": "Trung Quốc có thêm động thái giữa căng thẳng với Nhật",
+      "link": "https://thanhnien.vn/trung-quoc-co-them-dong-thai-giua-cang-thang-voi-nhat-185251116152936138.htm",
+      "summary": "Phía Trung Quốc ngày 16.11 có thêm động thái mới được cho là một phần trong phản ứng của nước này trước phát biểu gần đây của Thủ tướng Nhật Bản Takaichi Sanae liên quan tình huống khẩn cấp tại Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:34:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186466+07:00"
+    },
+    {
+      "id": "e6c7aae869c83ecf2f5bbd960894b7bd",
+      "title": "Đà Nẵng tiếp diễn nguy cơ sạt trượt, đội cứu hộ nhiều lần phải rút lui",
+      "link": "https://vnexpress.net/da-nang-tiep-dien-nguy-co-sat-truot-doi-cuu-ho-nhieu-lan-phai-rut-lui-4964578.html",
+      "summary": "Nguy cơ sạt trượt tái diễn tại thôn Pứt, xã Hùng Sơn, khiến đội cứu hộ tìm ba người mất tích nhiều lần phải tạm dừng và rút khỏi hiện trường để bảo đảm an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:32:56+07:00",
+      "fetched": "2025-11-16T17:16:22.845082+07:00"
+    },
+    {
+      "id": "f45b815a1fc2f40d344c7ef9189c5949",
+      "title": "Tỷ lệ sinh mổ tại Việt Nam tăng do tâm lý 'sợ đau đẻ'",
+      "link": "https://thanhnien.vn/ty-le-sinh-mo-tai-viet-nam-tang-do-tam-ly-so-dau-de-185251115193637258.htm",
+      "summary": "Những năm gần đây, tỷ lệ mổ lấy thai tại Việt Nam cũng như trên thế giới đều có xu hướng tăng. Nếu năm 2005, tỷ lệ này chỉ khoảng 15% thì đến năm 2022, tại Việt Nam con số này đã lên tới 37%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:32:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186628+07:00"
+    },
+    {
+      "id": "273a7b6888fab6d8eb47d162cce9df84",
+      "title": "Người dân TP.HCM đối mặt với thời tiết nguy hiểm vào tuần tới",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-doi-mat-voi-thoi-tiet-nguy-hiem-vao-tuan-toi-18525111616095086.htm",
+      "summary": "Tuần tới, người dân TP.HCM đối mặt với 3 kiểu thời tiết nguy hiểm cùng lúc là mưa giông, cục bộ có mưa lớn; cùng với đó là đỉnh triều cường lên cao vượt báo động 3 và ô nhiễm không khí gia tăng do ảnh hưởng không khí lạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:30:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186784+07:00"
+    },
+    {
+      "id": "9f08272c58c314a0486453eaa3a2ee27",
+      "title": "Sân golf 'kính vạn hoa' của kỹ sư phần mềm Mỹ",
+      "link": "https://vnexpress.net/san-golf-kinh-van-hoa-cua-ky-su-phan-mem-my-4955363.html",
+      "summary": "Với thiết kế kiểu “ma trận”, David Gang biến Storm King Golf Club ở thung lũng Hudson, New York thành một sân đấu đặc biệt, thậm chí có phần kỳ dị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:28:59+07:00",
+      "fetched": "2025-11-16T17:16:22.845235+07:00"
+    },
+    {
+      "id": "9f08272c58c314a0486453eaa3a2ee27",
+      "title": "Sân golf 'kính vạn hoa' của kỹ sư phần mềm Mỹ",
+      "link": "https://vnexpress.net/san-golf-kinh-van-hoa-cua-ky-su-phan-mem-my-4955363.html",
+      "summary": "Với thiết kế kiểu “ma trận”, David Gang biến Storm King Golf Club ở thung lũng Hudson, New York thành một sân đấu đặc biệt, thậm chí có phần kỳ dị.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T09:28:59+07:00",
+      "fetched": "2025-11-16T17:16:34.423876+07:00"
+    },
+    {
+      "id": "e11a2ed01154cdc3322cce450346c6fa",
+      "title": "Linearthinking giúp học sinh, giáo viên chinh phục hiệu quả tiếng Anh",
+      "link": "https://thanhnien.vn/linearthinking-giup-hoc-sinh-giao-vien-chinh-phuc-hieu-qua-tieng-anh-18525111316182012.htm",
+      "summary": "Đến năm 2030, nước ta cần bổ sung trên 220.000 giáo viên các môn, các cấp có khả năng giảng dạy bằng tiếng Anh. Bài toán trau dồi ngoại ngữ theo đó hiện không chỉ là của học sinh, sinh viên mà còn ở chính người đứng trên bục giảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:10:00+07:00",
+      "fetched": "2025-11-16T17:16:26.186939+07:00"
+    },
+    {
+      "id": "982d0d69bb9c2d80fcdd60a42ff89635",
+      "title": "Alcaraz – Sinner: 'Bom tấn' cuối mùa giải ở ATP Finals",
+      "link": "https://vnexpress.net/alcaraz-sinner-bom-tan-cuoi-mua-giai-o-atp-finals-4964565.html",
+      "summary": "Carlos Alcaraz áp đảo Jannik Sinner về đối đầu với tỷ số 10-5, nhưng ATP Finals trên sân nhà là thánh địa của tay vợt Italy, nơi anh đã vào chung kết năm thứ ba liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:08:56+07:00",
+      "fetched": "2025-11-16T17:16:22.845387+07:00"
+    },
+    {
+      "id": "982d0d69bb9c2d80fcdd60a42ff89635",
+      "title": "Alcaraz – Sinner: 'Bom tấn' cuối mùa giải ở ATP Finals",
+      "link": "https://vnexpress.net/alcaraz-sinner-bom-tan-cuoi-mua-giai-o-atp-finals-4964565.html",
+      "summary": "Carlos Alcaraz áp đảo Jannik Sinner về đối đầu với tỷ số 10-5, nhưng ATP Finals trên sân nhà là thánh địa của tay vợt Italy, nơi anh đã vào chung kết năm thứ ba liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T09:08:56+07:00",
+      "fetched": "2025-11-16T17:16:34.423014+07:00"
+    },
+    {
+      "id": "f1c6f48c5b63836baa84c0fe96fd1f1c",
+      "title": "Người bạn không đến dự hôn lễ của tôi, nay lại gửi thiệp mời cưới",
+      "link": "https://vnexpress.net/nguoi-ban-khong-den-du-hon-le-cua-toi-nay-lai-gui-thiep-moi-cuoi-4964585.html",
+      "summary": "Khi tôi cưới, bạn hứa sẽ đến nhưng quên mà không một lời xin lỗi, vậy mà giờ lại gửi thiệp mời như chưa từng có chuyện gì xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:00:18+07:00",
+      "fetched": "2025-11-16T17:16:22.845554+07:00"
+    },
+    {
+      "id": "9417f9337db331283c4d7216dc6e8c88",
+      "title": "Chỉ thiên tài mới thấy que diêm khác biệt trong 7 giây",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-chi-thien-tai-moi-thay-que-diem-khac-biet-trong-7-giay-4962308.html",
+      "summary": "Đừng vội tin vào đôi mắt của mình nhé, vì bức hình này đang âm thầm đánh lừa thị giác của bạn đó!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:00:00+07:00",
+      "fetched": "2025-11-16T17:16:22.845742+07:00"
+    },
+    {
+      "id": "6b0df0a81abc1ce0eabdd5fe1aa0aaac",
+      "title": "Xổ số miền Nam ngày 16 tháng 11 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-16-thang-11-ket-qua-xo-so-hom-nay-chu-nhat-185251116152609585.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 16 tháng 11; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 16.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:00:00+07:00",
+      "fetched": "2025-11-16T17:16:26.187089+07:00"
+    },
+    {
+      "id": "6089942b55d32d436589ef3bc6c1bf3a",
+      "title": "Trang phục cổ chữ V ‘cân’ trọn mọi phong cách từ công sở đến dạo phố",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-co-chu-v-can-tron-moi-phong-cach-tu-cong-so-den-dao-pho-185251115161907137.htm",
+      "summary": "Trong thế giới thời trang, có những chi tiết tưởng chừng đơn giản nhưng lại tạo nên dấu ấn ‘vạn năng’ chinh phục mọi phong cách và trang phục cổ chữ V chính là một trong số đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T09:00:00+07:00",
+      "fetched": "2025-11-16T17:16:26.187241+07:00"
+    },
+    {
+      "id": "794e61cd2ecb887d32a9ad99c09573fd",
+      "title": "Tập đoàn giáo dục quốc tế Nam Việt: Hành trình kiến tạo hệ sinh thái giáo dục tư thục chuẩn quốc tế",
+      "link": "https://thanhnien.vn/tap-doan-giao-duc-quoc-te-nam-viet-hanh-trinh-kien-tao-he-sinh-thai-giao-duc-tu-thuc-chuan-quoc-te-185251116154922265.htm",
+      "summary": "Trong bối cảnh giáo dục Việt Nam đang chuyển mình mạnh mẽ để đáp ứng yêu cầu hội nhập toàn cầu, Tập đoàn Giáo dục quốc tế Nam Việt nổi bật như một điểm sáng tiên phong trong việc xây dựng hệ sinh thái giáo dục tư thục chuẩn quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:47:00+07:00",
+      "fetched": "2025-11-16T17:16:26.187395+07:00"
+    },
+    {
+      "id": "8fd80dd5c10b321c3cbd3bd51b8beb19",
+      "title": "Thủ phủ mai Tết xác xơ sau bão Kalmaegi",
+      "link": "https://vnexpress.net/thu-phu-mai-tet-xac-xo-sau-bao-kalmaegi-4964545.html",
+      "summary": "Hàng chục nghìn gốc mai Tết ở An Nhơn bị cháy lá, hư rễ sau bão Kalmaegi, nhiều chủ vườn thiệt hại hàng tỷ đồng, rơi vào tình cảnh khốn đốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:45:10+07:00",
+      "fetched": "2025-11-16T17:16:22.845908+07:00"
+    },
+    {
+      "id": "9d648902c9b7bd9460bf70da52b40db8",
+      "title": "Vườn quốc gia Ba Vì 'thất thủ' vì khách đổ xô săn mây, ngắm hoa",
+      "link": "https://vnexpress.net/vuon-quoc-gia-ba-vi-that-thu-vi-khach-do-xo-san-may-ngam-hoa-4964574.html",
+      "summary": "Vườn quốc gia Ba Vì quá tải trong ngày 16/11 khi hơn 15.000 lượt khách đổ về ngắm hoa dã quỳ và săn mây, cổng bán vé ùn ứ kéo dài hơn một tiếng vào buổi sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:39:46+07:00",
+      "fetched": "2025-11-16T17:16:22.846068+07:00"
+    },
+    {
+      "id": "63776bf1eaab26026ed9197f419a6bfb",
+      "title": "Đại gia Thái hòa vốn nhờ cổ tức sau 13 năm thâu tóm Nhựa Bình Minh",
+      "link": "https://vnexpress.net/dai-gia-thai-hoa-von-nho-co-tuc-sau-13-nam-thau-tom-nhua-binh-minh-4964576.html",
+      "summary": "Chỉ riêng tiền cổ tức, Nawaplastic thuộc Tập đoàn SCG nhận về trên 2.800 tỷ đồng, nhỉnh hơn số vốn họ đã chi để thâu tóm Nhựa Bình Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:39:45+07:00",
+      "fetched": "2025-11-16T17:16:22.846222+07:00"
+    },
+    {
+      "id": "63776bf1eaab26026ed9197f419a6bfb",
+      "title": "Đại gia Thái hòa vốn nhờ cổ tức sau 13 năm thâu tóm Nhựa Bình Minh",
+      "link": "https://vnexpress.net/dai-gia-thai-hoa-von-nho-co-tuc-sau-13-nam-thau-tom-nhua-binh-minh-4964576.html",
+      "summary": "Chỉ riêng tiền cổ tức, Nawaplastic thuộc Tập đoàn SCG nhận về trên 2.800 tỷ đồng, nhỉnh hơn số vốn họ đã chi để thâu tóm Nhựa Bình Minh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-16T08:39:45+07:00",
+      "fetched": "2025-11-16T17:16:30.130419+07:00"
+    },
+    {
+      "id": "4678269c0f53da3528d615d1417b258e",
+      "title": "Thủ tướng yêu cầu Hà Nội khởi công dự án Olympic trong tháng 12",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-ha-noi-khoi-cong-du-an-olympic-trong-thang-12-4964568.html",
+      "summary": "Thủ tướng chỉ đạo Hà Nội đảm bảo khởi công dự án trục đại lộ cảnh quan sông Hồng và khu đô thị thể thao Olympic vào ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:28:44+07:00",
+      "fetched": "2025-11-16T17:16:22.846374+07:00"
     },
     {
       "id": "d0ec94bcf2452dc297f31a080e408eca",
