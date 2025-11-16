@@ -1,7 +1,37 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T21:14:21.773495+07:00",
+  "lastUpdated": "2025-11-16T23:18:51.871201+07:00",
   "articles": [
+    {
+      "id": "b0a8c7a2af1a76c565d01551c58d5214",
+      "title": "Lê Quang Liêm dừng chân tiếc nuối tại vòng 5 World Cup cờ vua 2025",
+      "link": "https://tuoitre.vn/le-quang-liem-dung-chan-tiec-nuoi-tai-vong-5-world-cup-co-vua-2025-20251116210034021.htm",
+      "summary": "Sau loạt tie-break đầy căng thẳng vào tối 16-11, Đại kiện tướng Lê Quang Liêm chính thức bị loại tại World Cup cờ vua 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T23:18:43.241518+07:00",
+      "fetched": "2025-11-16T23:18:43.241655+07:00"
+    },
+    {
+      "id": "427af3dfd772295ba3f4361247afe529",
+      "title": "Ngập đường sắt Bắc - Nam đoạn qua Khánh Hòa, nhiều đoàn tàu tạm dừng lộ trình",
+      "link": "https://tuoitre.vn/ngap-duong-sat-bac-nam-doan-qua-khanh-hoa-nhieu-doan-tau-tam-dung-lo-trinh-20251116205435767.htm",
+      "summary": "Mưa lớn trong ngày 16-11 đã khiến một số đoạn đường sắt trên tuyến đường sắt Bắc - Nam đoạn qua địa bàn tỉnh Khánh Hòa ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T23:18:43.241371+07:00",
+      "fetched": "2025-11-16T23:18:43.241505+07:00"
+    },
+    {
+      "id": "4570b6f99a879170b749fa8e310bbb0d",
+      "title": "Mạo danh phó giám đốc VOV, dọa đăng tin bất lợi để cưỡng đoạt 200 triệu của chủ gara ô tô",
+      "link": "https://tuoitre.vn/mao-danh-pho-giam-doc-vov-doa-dang-tin-bat-loi-de-cuong-doat-200-trieu-cua-chu-gara-oto-20251116210208037.htm",
+      "summary": "Nghi phạm Nguyễn Sỹ Thiết bị công an bắt giữ với cáo buộc mạo danh phó giám đốc VOV, dọa đăng thông tin bất lợi nhằm cưỡng đoạt 200 triệu đồng của chủ gara ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T23:18:43.241126+07:00",
+      "fetched": "2025-11-16T23:18:43.241354+07:00"
+    },
     {
       "id": "0c7fe05aa411bc35f07e361206493e5d",
       "title": "TP.HCM sau sáp nhập: Làm khác để tăng trưởng hai con số",
@@ -413,6 +443,46 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T17:16:27.328796+07:00"
     },
     {
+      "id": "d58a35b89120a9ac9d6af8edfb02e50a",
+      "title": "Vắng Ronaldo vì án phạt, Bồ Đào Nha vẫn thắng Armenia với tỷ số kinh ngạc: Có vé đi World Cup",
+      "link": "https://thanhnien.vn/vang-ronaldo-vi-an-phat-bo-dao-nha-van-thang-armenia-voi-ty-so-kinh-ngac-co-ve-di-world-cup-18525111622582947.htm",
+      "summary": "Dù vắng Ronaldo ở trận đấu tối 16.11 nhưng đội tuyển Bồ Đào Nha vẫn dễ dàng đánh bại Armenia 9-1, qua đó chính thức có vé dự World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T16:17:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385076+07:00"
+    },
+    {
+      "id": "7cd4e0838b9ccb70e5022bc09f330126",
+      "title": "Bồ Đào Nha thắng 9-1 khi vắng Ronaldo",
+      "link": "https://vnexpress.net/bo-dao-nha-thang-9-1-khi-vang-ronaldo-4964661.html",
+      "summary": "Cristiano Ronaldo bị treo giò, Bồ Đào Nha vẫn thắng đội khách Armenia 9-1 ở lượt cuối vòng loại, để giành suất dự VCK World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T15:57:25+07:00",
+      "fetched": "2025-11-16T23:18:51.859089+07:00"
+    },
+    {
+      "id": "e592d4df76005ea7aadb99127bdabd2f",
+      "title": "Công Phượng, Xuân Trường và Minh Vương lan tỏa cảm xúc mạnh mẽ ở giải sinh viên UEH",
+      "link": "https://thanhnien.vn/cong-phuong-xuan-truong-va-minh-vuong-lan-toa-cam-xuc-manh-me-o-giai-sinh-vien-ueh-185251116223129189.htm",
+      "summary": "3 cựu tuyển thủ quốc gia từng khoác áo HAGL gồm Công Phượng, Xuân Trường và Minh Vương cùng nhiều đồng đội khác đã lan tỏa cảm xúc mạnh mẽ cho hàng trăm sinh viên ở giải bóng đá Đại học Kinh tế (UEH) kết thúc ngày 16.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:57:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385278+07:00"
+    },
+    {
+      "id": "57c7f38c8962ffebb8b18d85a1a1f860",
+      "title": "Các nhà báo Đà Nẵng tổ chức giải bóng đá gây quỹ ủng hộ vùng thiên tai",
+      "link": "https://thanhnien.vn/cac-nha-bao-da-nang-to-chuc-giai-bong-da-gay-quy-ung-ho-vung-thien-tai-185251116214418552.htm",
+      "summary": "Giải bóng đá thiện nguyện 'Vòng tay yêu thương' do Câu lạc bộ Bóng đá Phóng viên Đà Nẵng khởi xướng, đã quyên góp hơn 70 triệu đồng hỗ trợ người dân miền núi bị thiệt hại sau mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:32:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385441+07:00"
+    },
+    {
       "id": "c510ef4786e8b4970d2d913d6dbdcfc7",
       "title": "Khó cản bước CLB nữ TP.HCM",
       "link": "https://tuoitre.vn/kho-can-buoc-clb-nu-tp-hcm-20251116095852649.htm",
@@ -533,6 +603,146 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T15:20:33.186390+07:00"
     },
     {
+      "id": "fbb3e749cc2cb871617ef7d4c551f089",
+      "title": "Tạm dừng một số tàu Bắc - Nam qua Khánh Hòa do đường sắt bị ngập",
+      "link": "https://thanhnien.vn/tam-dung-mot-so-tau-bac-nam-qua-khanh-hoa-do-duong-sat-bi-ngap-185251116215040191.htm",
+      "summary": "Tối 16.11, đại diện Chi nhánh vận tải đường sắt Nha Trang cho biết, mưa lớn trên địa bàn tỉnh Khánh Hòa khiến một số đoạn đường sắt khu gian Ngã Ba - Cam Thịnh Đông, xã Nam Cam Ranh (TP.Cam Ranh, Khánh Hòa cũ) bị ngập sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:16:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385606+07:00"
+    },
+    {
+      "id": "8f142fa7d3a01d9729404f393293748e",
+      "title": "Cầu thủ Singapore bất tỉnh trong trận gặp CLB nữ TP.HCM: Đã tỉnh táo, không nguy hiểm tính mạng",
+      "link": "https://thanhnien.vn/cau-thu-singapore-bat-tinh-trong-tran-gap-clb-nu-tphcm-da-tinh-tao-khong-nguy-hiem-tinh-mang-185251116215613689.htm",
+      "summary": "Trong buổi họp báo sau trận đấu giữa CLB nữ TP.HCM và CLB Lion City Sailors, nữ HLV trưởng HLV Yeong Sheau Shyan đã tiết lộ về tình trạng của cầu thủ bất ngờ ngã quỵ trên sân và được đưa đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:05:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385760+07:00"
+    },
+    {
+      "id": "e47fc3ecc193b8e2fae56ed5e9a0347d",
+      "title": "Xuân Son biểu cảm cực hài trên sân, HLV Kim ráp đội hình đấu đội tuyển Lào",
+      "link": "https://thanhnien.vn/xuan-son-bieu-cam-cuc-hai-tren-san-hlv-kim-rap-doi-hinh-dau-doi-tuyen-lao-185251116220101124.htm",
+      "summary": "Chiều 16.11, đội tuyển Việt Nam bước vào buổi tập đầu tiên tại Lào, mở đầu giai đoạn hoàn thiện chiến thuật trước cuộc đối đầu với đội chủ nhà trong khuôn khổ lượt về vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:01:00+07:00",
+      "fetched": "2025-11-16T23:18:42.385909+07:00"
+    },
+    {
+      "id": "b2478127344ead231fcd5956d522d1a7",
+      "title": "Tạo phong cách không đụng hàng với giày sneaker trắng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tao-phong-cach-khong-dung-hang-voi-giay-sneaker-trang-185251115162012481.htm",
+      "summary": "Giày sneaker trắng không chỉ là món đồ 'must have' trong tủ giày của mọi tín đồ thời trang, mà còn là chìa khóa để bạn tạo dấu ấn không đụng hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T15:00:00+07:00",
+      "fetched": "2025-11-16T23:18:42.386059+07:00"
+    },
+    {
+      "id": "8050e7bd81609c55c43fcaf57d0c4ab9",
+      "title": "Hàng trăm khách đổ xô trekking đỉnh Lùng Cúng",
+      "link": "https://vnexpress.net/hang-tram-khach-do-xo-trekking-dinh-lung-cung-4964624.html",
+      "summary": "Lượng khách leo núi Lùng Cúng tăng đột biến đầu tháng 11, có thời điểm gần 700 người trên đỉnh, gây ùn tắc các lối đi và lán nghỉ quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:50:05+07:00",
+      "fetched": "2025-11-16T23:18:39.305234+07:00"
+    },
+    {
+      "id": "7d646e9759ec017c42ac0783737cccfc",
+      "title": "Cà Mau quảng bá cua biển ngon nhất nước",
+      "link": "https://vnexpress.net/ca-mau-quang-ba-cua-bien-ngon-nhat-nuoc-4964641.html",
+      "summary": "Tỉnh Cà Mau tổ chức ngày hội cua Cà Mau lần thứ hai để quảng bá hình ảnh, thương hiệu cua biển và nhiều loại đặc sản địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:45:44+07:00",
+      "fetched": "2025-11-16T23:18:39.305419+07:00"
+    },
+    {
+      "id": "9e917d6dd934dc20e4c81532dca93c8f",
+      "title": "Tiết mục múa mừng 20/11 của học sinh gây sốt",
+      "link": "https://vnexpress.net/tiet-muc-mua-mung-20-11-cua-hoc-sinh-gay-sot-4964646.html",
+      "summary": "Gây ấn tượng với cảnh chèo thuyền ngay mở màn, tiết mục múa mừng 20/11 của lớp 11A2 trường THPT Thống Nhất, thu hút hơn hai triệu lượt xem trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:38:41+07:00",
+      "fetched": "2025-11-16T23:18:39.305587+07:00"
+    },
+    {
+      "id": "4e9e305c3d0fc5698e42baff71cb944a",
+      "title": "Mưa ngập đường sắt, nhiều tàu dừng chạy",
+      "link": "https://vnexpress.net/mua-ngap-duong-sat-nhieu-tau-dung-chay-4964643.html",
+      "summary": "Mưa lớn kéo dài, đoạn đường sắt ở xã Nam Cam Ranh bị ngập, nhiều tàu với hơn 800 khách dừng chờ tại các ga để đảm bảo an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:38:07+07:00",
+      "fetched": "2025-11-16T23:18:39.305749+07:00"
+    },
+    {
+      "id": "147f64ac397a462c74937dfa8b8d118d",
+      "title": "Giáo hoàng Leo XIV trả hơn 60 cổ vật cho người bản địa Canada",
+      "link": "https://vnexpress.net/giao-hoang-leo-xiv-tra-hon-60-co-vat-cho-nguoi-ban-dia-canada-4964634.html",
+      "summary": "62 cổ vật liên quan đến các cộng đồng bản địa Canada được Giáo hoàng Leo XIV hoàn trả sau hơn một thế kỷ nằm tại Vatican.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:27:50+07:00",
+      "fetched": "2025-11-16T23:18:39.305921+07:00"
+    },
+    {
+      "id": "147f64ac397a462c74937dfa8b8d118d",
+      "title": "Giáo hoàng Leo XIV trả hơn 60 cổ vật cho người bản địa Canada",
+      "link": "https://vnexpress.net/giao-hoang-leo-xiv-tra-hon-60-co-vat-cho-nguoi-ban-dia-canada-4964634.html",
+      "summary": "62 cổ vật liên quan đến các cộng đồng bản địa Canada được Giáo hoàng Leo XIV hoàn trả sau hơn một thế kỷ nằm tại Vatican.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T14:27:50+07:00",
+      "fetched": "2025-11-16T23:18:44.953524+07:00"
+    },
+    {
+      "id": "f5aa9165572c8c65edd1767413759a54",
+      "title": "Mặt trận Tổ quốc không tiếp khách, nhận hoa dịp kỷ niệm 95 năm ngày truyền thống",
+      "link": "https://thanhnien.vn/mat-tran-to-quoc-khong-tiep-khach-nhan-hoa-dip-ky-niem-95-nam-ngay-truyen-thong-185251116211611249.htm",
+      "summary": "Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam không tiếp khách, nhận hoa chúc mừng dịp kỷ niệm 95 năm thành lập Mặt trận Dân tộc thống nhất Việt Nam - Ngày truyền thống Mặt trận Tổ quốc Việt Nam (18.11.1930 - 18.11.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:25:00+07:00",
+      "fetched": "2025-11-16T23:18:42.386231+07:00"
+    },
+    {
+      "id": "bd206be72c3cf05f0e22058faa8be934",
+      "title": "Người cha thiệt mạng khi lao theo cứu con gái bị sóng lớn cuốn ra biển",
+      "link": "https://thanhnien.vn/nguoi-cha-thiet-mang-khi-lao-theo-cuu-con-gai-bi-song-lon-cuon-ra-bien-185251116202321361.htm",
+      "summary": "Lao theo cứu con gái bị sóng lớn cuốn ra biển, người cha cũng bị những con sóng cao đến 6 m cuốn ra biển khiến ông thiệt mạng tại một bãi biển ở bang California (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:23:00+07:00",
+      "fetched": "2025-11-16T23:18:42.386398+07:00"
+    },
+    {
+      "id": "02d2bcccc1d9d6244fa1b8afe9de003b",
+      "title": "Hành trình 50 năm gắn kết Việt - Đức trong kỷ nguyên số",
+      "link": "https://thanhnien.vn/hanh-trinh-50-nam-gan-ket-viet-duc-trong-ky-nguyen-so-185251116211753154.htm",
+      "summary": "Nhân kỷ niệm 50 năm thiết lập quan hệ ngoại giao Việt Nam - Cộng hòa Liên bang Đức (1975–2025), Trường Đại học Việt Đức (VGU) phối hợp cùng Mạng lưới người Việt Nam du học tại Đức (VADA) và Trường Đại học Khoa học - Đại học Thái Nguyên tổ chức hội thảo 'Hành trình 50 năm cựu sinh viên Việt Nam - Đức...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:15:00+07:00",
+      "fetched": "2025-11-16T23:18:42.386555+07:00"
+    },
+    {
+      "id": "3e8bde1cbadabe16cffde6fcf30680b5",
+      "title": "Bùi Công Nam bối rối khi bị Quốc Thiên khui loạt 'bí mật'",
+      "link": "https://thanhnien.vn/bui-cong-nam-boi-roi-khi-bi-quoc-thien-khui-loat-bi-mat-185251116184722692.htm",
+      "summary": "Có dịp trò chuyện cùng nhau trước thềm đêm nhạc 'Skynote', Quốc Thiên hài hước tiết lộ loạt bí mật về Bùi Công Nam khiến đồng nghiệp bối rối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:14:00+07:00",
+      "fetched": "2025-11-16T23:18:42.386704+07:00"
+    },
+    {
       "id": "708d10f27355d769fcb70bef7b65654a",
       "title": "CLB nữ TP.HCM vào tứ kết châu Á, cầu thủ Singapore bất ngờ ngã quỵ phải đi cấp cứu",
       "link": "https://thanhnien.vn/clb-nu-tphcm-vao-tu-ket-chau-a-cau-thu-singapore-bat-ngo-nga-quy-phai-di-cap-cuu-18525111620342765.htm",
@@ -541,6 +751,36 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T14:11:00+07:00",
       "fetched": "2025-11-16T21:14:13.061867+07:00"
+    },
+    {
+      "id": "45e2365e9fbee78ac6f674acae183d42",
+      "title": "Quang Liêm bị loại sau ba lần 'chết hụt' ở World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-bi-loai-sau-ba-lan-chet-hut-o-world-cup-co-vua-4964640.html",
+      "summary": "Hai lần gỡ hòa dù bị dẫn trước ở tie-break, Lê Quang Liêm thua ván quyết định trước Alexander Donchenko và dừng bước ở vòng 1/8 World Cup cờ vua 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:09:30+07:00",
+      "fetched": "2025-11-16T23:18:39.306079+07:00"
+    },
+    {
+      "id": "45e2365e9fbee78ac6f674acae183d42",
+      "title": "Quang Liêm bị loại sau ba lần 'chết hụt' ở World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-bi-loai-sau-ba-lan-chet-hut-o-world-cup-co-vua-4964640.html",
+      "summary": "Hai lần gỡ hòa dù bị dẫn trước ở tie-break, Lê Quang Liêm thua ván quyết định trước Alexander Donchenko và dừng bước ở vòng 1/8 World Cup cờ vua 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T14:09:30+07:00",
+      "fetched": "2025-11-16T23:18:51.859294+07:00"
+    },
+    {
+      "id": "71c9f8ec0dd8cd81f7de75b511732f8d",
+      "title": "Tập gym làm giảm hay tăng ham muốn?",
+      "link": "https://vnexpress.net/tap-gym-lam-giam-hay-tang-ham-muon-4963405.html",
+      "summary": "Tôi nghiện tập gym, song nhiều thông tin cho rằng việc này làm giảm ham muốn tình dục, giảm chất lượng tinh trùng, vậy tập gym làm giảm hay tăng ham muốn? (Tùng, 32 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:09:25+07:00",
+      "fetched": "2025-11-16T23:18:39.306263+07:00"
     },
     {
       "id": "3c7b8758afc98cc4e9e8fa3215dd6016",
@@ -553,6 +793,16 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T21:14:13.062057+07:00"
     },
     {
+      "id": "818050ed808905a17242263d42e219dd",
+      "title": "Bé trai 2 tuổi suy hô hấp nặng do uống nhầm dầu thắp đèn",
+      "link": "https://vnexpress.net/be-trai-2-tuoi-suy-ho-hap-nang-do-uong-nham-dau-thap-den-4964514.html",
+      "summary": "Bệnh nhi uống nhầm dầu thắp đèn bàn thờ được gia đình đặt ở dưới đất, dẫn đến suy hô hấp nặng, phải thở máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:00:42+07:00",
+      "fetched": "2025-11-16T23:18:39.306424+07:00"
+    },
+    {
       "id": "1eb6aa80fe31fd2bd93d042e21d2e592",
       "title": "Lê Quang Liêm dừng bước ở World Cup cờ vua 2025 sau loạt đấu tie-break cân não",
       "link": "https://thanhnien.vn/le-quang-liem-dung-buoc-o-world-cup-co-vua-2025-sau-loat-dau-tie-break-can-nao-185251116181606598.htm",
@@ -563,6 +813,16 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T21:14:13.062218+07:00"
     },
     {
+      "id": "fae246687d0040989faa774f02c692ba",
+      "title": "Vợ chồng Khánh Vân cùng dàn sao dự đám cưới Tâm Như",
+      "link": "https://vnexpress.net/vo-chong-khanh-van-cung-dan-sao-du-dam-cuoi-tam-nhu-4964639.html",
+      "summary": "Hoa hậu Khánh Vân và ông xã mặc đồng điệu dự tiệc cưới của Á hậu Tâm Như.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:55:19+07:00",
+      "fetched": "2025-11-16T23:18:39.306583+07:00"
+    },
+    {
       "id": "6e2976bc5e97df1c83705426da52561c",
       "title": "Tôm sú 'khủng' gây sốt Ngày hội cua Cà Mau lần thứ II",
       "link": "https://thanhnien.vn/tom-su-khung-gay-sot-ngay-hoi-cua-ca-mau-lan-thu-ii-185251116180938502.htm",
@@ -571,6 +831,36 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T13:51:00+07:00",
       "fetched": "2025-11-16T21:14:13.062375+07:00"
+    },
+    {
+      "id": "fbf53c44acd427e39ca7fe28a16af180",
+      "title": "Bị nhà chồng nói 'không biết đẻ' vì sinh toàn con gái",
+      "link": "https://vnexpress.net/bi-nha-chong-noi-khong-biet-de-vi-sinh-toan-con-gai-4964546.html",
+      "summary": "Chỉ vì muốn 'kiếm thằng con trai nối dõi tông đường', bạn tôi chấp nhận rủi ro sức khỏe, nguy hiểm tính mạng, trải qua ba, bốn lần sinh nở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:48:21+07:00",
+      "fetched": "2025-11-16T23:18:39.306739+07:00"
+    },
+    {
+      "id": "be18716d0eb4c3798ea40ef33b92f58b",
+      "title": "Chúng ta hãy cùng tìm thấy nhau nhé anh",
+      "link": "https://vnexpress.net/chung-ta-hay-cung-tim-thay-nhau-nhe-anh-4964582.html",
+      "summary": "So với việc tin vào định mệnh, em tin vào sự nỗ lực của mình hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:48:11+07:00",
+      "fetched": "2025-11-16T23:18:39.306836+07:00"
+    },
+    {
+      "id": "2254fc8caa89477ecaed0efea913865e",
+      "title": "Gửi chồng tương lai của em",
+      "link": "https://vnexpress.net/gui-chong-tuong-lai-cua-em-4960886.html",
+      "summary": "Em sinh năm 1986, là giáo viên, sống cùng ba má đã nghỉ hưu ở Sài Gòn, ngoại hình ưa nhìn, tính cách hiền lành, vui vẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:48:01+07:00",
+      "fetched": "2025-11-16T23:18:39.306943+07:00"
     },
     {
       "id": "258111707a33a6200a29dfd431bdcf69",
@@ -831,6 +1121,16 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T13:00:00+07:00",
       "fetched": "2025-11-16T21:14:13.063787+07:00"
+    },
+    {
+      "id": "2650edb72df0979901b2a8a29d040071",
+      "title": "Chị dâu không biết điều",
+      "link": "https://vnexpress.net/chi-dau-khong-biet-dieu-4964590.html",
+      "summary": "Chị dâu mới muốn vợ chồng tôi sửa lại nhà mẹ chồng để về ở, tiện thờ cúng, chăm sóc hai cháu lớn và gần trường học của con nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T23:18:39.307484+07:00"
     },
     {
       "id": "60799039b8883a2e01e50120440c330f",
