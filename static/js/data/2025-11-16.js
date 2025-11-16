@@ -1,7 +1,17 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T10:15:59.913200+07:00",
+  "lastUpdated": "2025-11-16T11:23:34.195984+07:00",
   "articles": [
+    {
+      "id": "f9c962c4443cffb583aa0f4417122fa3",
+      "title": "Dịch Dương Thiên Tỉ làm nên kỳ tích, trở thành Ảnh đế trẻ nhất lịch sử Kim Kê",
+      "link": "https://tuoitre.vn/dich-duong-thien-ti-lam-nen-ky-tich-tro-thanh-anh-de-tre-nhat-lich-su-kim-ke-20251116085410436.htm",
+      "summary": "Với vai diễn trong phim Tôi nhỏ nho, Dịch Dương Thiên Tỉ giành giải Nam diễn viên chính xuất sắc nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:23:26.139822+07:00",
+      "fetched": "2025-11-16T11:23:26.140038+07:00"
+    },
     {
       "id": "a402f0e2caa05d317bc70c8d341f90cf",
       "title": "Thông tin giấy phép lái xe hiển thị sai trên VNeID, làm thế nào để cập nhật lại?",
@@ -253,6 +263,216 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T05:12:45.877147+07:00"
     },
     {
+      "id": "da28272ccc71d74953994d4e50f46ec0",
+      "title": "Vỡ mộng 'làm việc vì đam mê'",
+      "link": "https://vnexpress.net/vo-mong-lam-viec-vi-dam-me-4964532.html",
+      "summary": "Lời khuyên \"hãy tìm công việc bạn yêu thích\" có thể dẫn đến vỡ mộng, lương thấp và làm việc quá sức, thay vì mang lại hạnh phúc, theo các chuyên gia tâm lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:14:40+07:00",
+      "fetched": "2025-11-16T11:23:21.523496+07:00"
+    },
+    {
+      "id": "f5d74f98d3d30055c8569719593a0acb",
+      "title": "Biểu tình lớn tại Mexico sau vụ thị trưởng bị bắn chết",
+      "link": "https://vnexpress.net/bieu-tinh-lon-tai-mexico-sau-vu-thi-truong-bi-ban-chet-4964491.html",
+      "summary": "Hàng nghìn người xuống đường biểu tình trên khắp Mexico nhằm phản đối tình trạng bạo lực gia tăng sau vụ một thị trưởng bị bắn chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:11:57+07:00",
+      "fetched": "2025-11-16T11:23:21.523708+07:00"
+    },
+    {
+      "id": "1ccb146a3f59d77bc6dc60036596c9e0",
+      "title": "TP.HCM lập Ủy ban bầu cử đại biểu Quốc hội và HĐND nhiệm kỳ 2026 - 2031",
+      "link": "https://thanhnien.vn/tphcm-lap-uy-ban-bau-cu-dai-bieu-quoc-hoi-va-hdnd-nhiem-ky-2026-2031-185251116104244955.htm",
+      "summary": "Ông Võ Văn Minh, Chủ tịch HĐND TP.HCM giữ chức Chủ tịch Ủy ban bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND TP.HCM nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:10:00+07:00",
+      "fetched": "2025-11-16T11:23:24.925355+07:00"
+    },
+    {
+      "id": "5250cd5e655efabcb67fdd26261ea071",
+      "title": "U.23 Malaysia ‘bất động’ trước SEA Games 33, đối thủ khác của U.23 Việt Nam nhận cú sốc",
+      "link": "https://thanhnien.vn/u23-malaysia-bat-dong-truoc-sea-games-33-doi-thu-khac-cua-u23-viet-nam-nhan-cu-soc-185251116105509513.htm",
+      "summary": "HLV Nafuzi Zain của đội U.23 Malaysia cực kỳ thất vọng, khi đội bóng của ông không thể sớm tập trung chuẩn bị cho SEA Games 33 như các đối thủ và đối mặt vắng trụ cột. Trong khi đó, U.23 Indonesia nhận trận thua đậm trước Mali.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:06:00+07:00",
+      "fetched": "2025-11-16T11:23:24.925530+07:00"
+    },
+    {
+      "id": "a6f48c1a605298b14d03718e9d1427c0",
+      "title": "Hành trình Techcombank vươn tầm khu vực",
+      "link": "https://vnexpress.net/hanh-trinh-techcombank-vuon-tam-khu-vuc-4964523.html",
+      "summary": "Thăng hạng 7 bậc, Ngân hàng Kỹ Thương Việt Nam (Techcombank) vào Top 5 thương hiệu Việt Nam giá trị nhất trong Top ASEAN 500 của Brand Finance.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.523874+07:00"
+    },
+    {
+      "id": "cb8c5a8c55c14d8afb3e08b91b801cc7",
+      "title": "Xem nhanh 12h: Thẩm mỹ viện Mailisa bán mỹ phẩm gì? | Bão mặt trời cực mạnh tấn công trái đất",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-tham-my-vien-mailisa-ban-my-pham-gi-bao-mat-troi-cuc-manh-tan-cong-trai-dat-185251116104129332.htm",
+      "summary": "Bão mặt trời, Thẩm mỹ viện Mailisa, vụ nữ sinh Vĩnh Long tử vong… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 16.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:00:00+07:00",
+      "fetched": "2025-11-16T11:23:24.925689+07:00"
+    },
+    {
+      "id": "64c062b4d77377338d0f1cc8d1fc6a14",
+      "title": "1 ngày 4 ca nhồi máu cơ tim cấp nhập viện, có bất thường?",
+      "link": "https://thanhnien.vn/1-ngay-4-ca-nhoi-mau-co-tim-cap-nhap-vien-co-bat-thuong-185251116095555066.htm",
+      "summary": "TP.HCM chuyển mùa, Bệnh viện đa khoa khu vực Thủ Đức tiếp nhận 4 ca nhồi máu cơ tim cấp trong 1 ngày. Cảnh báo nguy cơ tim mạch tăng do biến động nhiệt độ và độ ẩm",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:59:00+07:00",
+      "fetched": "2025-11-16T11:23:24.925846+07:00"
+    },
+    {
+      "id": "794738441eec7b7ee4bf35a2b6e2874f",
+      "title": "Giáo hoàng Leo XIV gặp gỡ giới làm phim Hollywood",
+      "link": "https://vnexpress.net/giao-hoang-leo-xiv-gap-go-gioi-lam-phim-hollywood-4964519.html",
+      "summary": "Giáo hoàng Leo XIV trò chuyện với minh tinh Cate Blanchett, đạo diễn Spike Lee, nhấn mạnh vai trò của điện ảnh trong bối cảnh thế giới nhiều biến động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:56:43+07:00",
+      "fetched": "2025-11-16T11:23:21.524033+07:00"
+    },
+    {
+      "id": "88a5b231b2314c7d19b9ece4394b2474",
+      "title": "Các nước trả lương giáo viên như thế nào",
+      "link": "https://vnexpress.net/cac-nuoc-tra-luong-giao-vien-nhu-the-nao-4964431.html",
+      "summary": "Lương giáo viên ở nhiều nước nhìn chung tương tự hoặc thấp hơn so với người lao động cùng trình độ, song được hưởng thêm một số loại phụ cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:52:54+07:00",
+      "fetched": "2025-11-16T11:23:21.524188+07:00"
+    },
+    {
+      "id": "ead83518582bf88f0acd19c45f99115a",
+      "title": "Ông Tim Cook có thể từ chức CEO Apple vào năm sau",
+      "link": "https://thanhnien.vn/ong-tim-cook-co-the-tu-chuc-ceo-apple-vao-nam-sau-185251116102920715.htm",
+      "summary": "CEO Tim Cook hiện đã 65 tuổi, báo hiệu cho cuộc chuyển giao quyền lực lớn của Apple.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:50:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926000+07:00"
+    },
+    {
+      "id": "5ee76d3557ec6f9540bbec517ae5c8df",
+      "title": "Bi Rain khoe body chuẩn trong lễ hội nhạc nước Waterbomb 2025",
+      "link": "https://thanhnien.vn/bi-rain-khoe-body-chuan-trong-le-hoi-nhac-nuoc-waterbomb-2025-185251116100528042.htm",
+      "summary": "'Waterbomb 2025' chính thức 'cập bến' TP.HCM trong 2 ngày 15 - 16.11, mang theo bữa tiệc âm nhạc nước hoành tráng, quy tụ dàn sao Hàn như Bi Rain, Kwon Eunbi, TEMPEST, tripleS... cùng nhiều nghệ sĩ Việt như MIN, Tlinh, Dương Domic...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:43:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926161+07:00"
+    },
+    {
+      "id": "7cf4a13f5ea4c021d1e173c83981571d",
+      "title": "Đảng đối lập Thái Lan cảnh báo ô nhiễm thạch tín ở sông Mê Kông",
+      "link": "https://thanhnien.vn/dang-doi-lap-thai-lan-canh-bao-o-nhiem-thach-tin-o-song-me-kong-185251116092252941.htm",
+      "summary": "Đảng Nhân dân (PP), đảng đối lập lớn nhất ở Thái Lan, cảnh báo về nạn ô nhiễm thạch tín trên sông Mê Kông, và kêu gọi chính phủ nước này đàm phán ngay lập tức với 3 nước, theo Bangkok Post ngày 16.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:40:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926333+07:00"
+    },
+    {
+      "id": "c45d10d29ab4d0d3461482bf761ef097",
+      "title": "Trương Vinh Hiển thắng Lý Hoàng Nam ở chung kết PPA Australia",
+      "link": "https://vnexpress.net/truong-vinh-hien-thang-ly-hoang-nam-o-chung-ket-ppa-australia-4964517.html",
+      "summary": "Sau vụ lùm xùm hồi tháng 10, Trương Vinh Hiển tái ngộ Lý Hoàng Nam và thắng 11-9, 11-3 ở chung kết Pro Men’s Singles PPA Tour Australia 2025, sáng 16/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:37:38+07:00",
+      "fetched": "2025-11-16T11:23:21.524363+07:00"
+    },
+    {
+      "id": "c45d10d29ab4d0d3461482bf761ef097",
+      "title": "Trương Vinh Hiển thắng Lý Hoàng Nam ở chung kết PPA Australia",
+      "link": "https://vnexpress.net/truong-vinh-hien-thang-ly-hoang-nam-o-chung-ket-ppa-australia-4964517.html",
+      "summary": "Sau vụ lùm xùm hồi tháng 10, Trương Vinh Hiển tái ngộ Lý Hoàng Nam và thắng 11-9, 11-3 ở chung kết Pro Men’s Singles PPA Tour Australia 2025, sáng 16/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T03:37:38+07:00",
+      "fetched": "2025-11-16T11:23:34.188579+07:00"
+    },
+    {
+      "id": "09cff5e71c2841497792fd441de49979",
+      "title": "Đội tuyển Việt Nam xây hàng công cực mạnh cho AFF Cup: Có đủ Xuân Son và Hoàng Hên",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-xay-hang-cong-cuc-manh-cho-aff-cup-co-du-xuan-son-va-hoang-hen-185251116101538169.htm",
+      "summary": "Khi Xuân Son trở lại, cuộc tái thiết hàng công đội tuyển Việt Nam sẽ chính thức khởi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:34:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926490+07:00"
+    },
+    {
+      "id": "2782dfac31ad7bcbac6a86185360ad37",
+      "title": "Đồng diễn dưỡng sinh ngàn người ở TP.HCM, có cụ bà 83 tuổi dậy từ 3 giờ",
+      "link": "https://thanhnien.vn/dong-dien-duong-sinh-ngan-nguoi-o-tphcm-co-cu-ba-83-tuoi-day-tu-3-gio-185251116092930993.htm",
+      "summary": "Sân vận động Phú Nhuận (TP.HCM) trở nên sôi động khi gần 2.000 người dân và nhân viên y tế cùng tham gia chương trình 'Đồng diễn dưỡng sinh vì sức khỏe cộng đồng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:34:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926639+07:00"
+    },
+    {
+      "id": "d5673043468badf0ea4199d2832347b1",
+      "title": "35 năm tiên phong mở lối tri thức, kiến tạo tương lai số",
+      "link": "https://thanhnien.vn/35-nam-tien-phong-mo-loi-tri-thuc-kien-tao-tuong-lai-so-185251113205649694.htm",
+      "summary": "Từ khi thành lập Viện Đào tạo Mở rộng (tiền thân của Trường ĐH Mở TP.HCM) vào đầu những năm 1990 đến nay, chương trình Đào tạo từ xa tại Trường ĐH Mở TP.HCM đã trải qua một hành trình hơn 35 năm hình thành và phát triển, khẳng định vị thế tiên phong và đóng góp đáng kể cho nền giáo dục nước nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:33:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926788+07:00"
+    },
+    {
+      "id": "73fb9b4e47c8a18ad21d9757b90f106c",
+      "title": "Dùng điện thoại khi lái xe trên đường phố TP.HCM: Thói quen khó bỏ?",
+      "link": "https://thanhnien.vn/dung-dien-thoai-khi-lai-xe-tren-duong-pho-tphcm-thoi-quen-kho-bo-185251115125632561.htm",
+      "summary": "Giữa dòng xe ken đặc ở TP.HCM, nhiều người vẫn dùng điện thoại khi lái xe, thậm chí là xem review phim. Chỉ cần người phía trước bất ngờ chậm lại, những xe chạy sau lập tức phải thắng gấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:30:00+07:00",
+      "fetched": "2025-11-16T11:23:24.926936+07:00"
+    },
+    {
+      "id": "23b1f5ad49f38918943a51c626539676",
+      "title": "Người dùng chú ý: Lãi suất thẻ tín dụng tăng vọt lên 22%/năm",
+      "link": "https://thanhnien.vn/nguoi-dung-chu-y-lai-suat-the-tin-dung-tang-vot-len-22-nam-185251116085804696.htm",
+      "summary": "Một số ngân hàng vừa tăng lãi suất thẻ tín dụng quốc tế và điều này có thể khiến người dùng mang nợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:27:00+07:00",
+      "fetched": "2025-11-16T11:23:24.927089+07:00"
+    },
+    {
+      "id": "31569d6e8f2b95305f5da5a7269e69f1",
+      "title": "Không gian trang trọng, ấm áp cho những buổi tiệc tri ân ngày 20.11",
+      "link": "https://thanhnien.vn/khong-gian-trang-trong-am-ap-cho-nhung-buoi-tiec-tri-an-ngay-2011-185251116102811837.htm",
+      "summary": "Tháng 11 - tháng của những yêu thương và tri ân sâu sắc gửi đến thầy cô giáo, những người đã chắp cánh ước mơ cho bao thế hệ học trò. Nếu bạn đang tìm kiếm một không gian sang trọng, dịch vụ hoàn hảo để tổ chức tiệc tri ân thầy cô, họp mặt bạn bè hay liên hoan tại Vũng Tàu, thì The Malibu Hotel chín...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:23:00+07:00",
+      "fetched": "2025-11-16T11:23:24.927253+07:00"
+    },
+    {
+      "id": "6b98f0a772eec0fb1017c87964bdba62",
+      "title": "Google tuyên chiến nhóm tin tặc từ Trung Quốc chuyên mạo danh Gmail",
+      "link": "https://thanhnien.vn/google-tuyen-chien-nhom-tin-tac-tu-trung-quoc-chuyen-mao-danh-gmail-185251116094839697.htm",
+      "summary": "'Tập đoàn' hacker Trung Quốc bán dịch vụ lừa đảo Gmail hoành hành trên 121 quốc gia đang bị Google khởi kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:21:00+07:00",
+      "fetched": "2025-11-16T11:23:24.927404+07:00"
+    },
+    {
       "id": "d675eb42366a979148464e11657e30f5",
       "title": "Nỗi trăn trở của 'nữ hoàng đi bộ' Thanh Phúc",
       "link": "https://tuoitre.vn/noi-tran-tro-cua-nu-hoang-di-bo-thanh-phuc-2025111511030048.htm",
@@ -283,6 +503,16 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T10:15:50.678073+07:00"
     },
     {
+      "id": "a9f8c8b557f3f7980597831a7e719545",
+      "title": "'Học Toán vất vả vì nặng công thức, ít tư duy'",
+      "link": "https://vnexpress.net/hoc-toan-nhu-kho-sai-vi-nang-cong-thuc-it-tu-duy-4964510.html",
+      "summary": "Việc chịu áp lực thi cử, điểm số, khiến học Toán ở ta trở thành 'nhiệm vụ khổ sai', nhiều công thức, luyện đề, thay vì rèn luyện tư duy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:08:22+07:00",
+      "fetched": "2025-11-16T11:23:21.524519+07:00"
+    },
+    {
       "id": "73e0147854bf703c207a8d2840206b5d",
       "title": "'Tam giác chết' của thiết giáp phương Tây gần Pokrovsk",
       "link": "https://vnexpress.net/tam-giac-chet-cua-thiet-giap-phuong-tay-gan-pokrovsk-4964488.html",
@@ -301,6 +531,56 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T03:00:00+07:00",
       "fetched": "2025-11-16T10:15:50.678240+07:00"
+    },
+    {
+      "id": "3d6628cb0163948dfbb158a3ed837009",
+      "title": "Viêm gan B - nguy cơ ung thư gan có thể phòng từ khi chào đời",
+      "link": "https://vnexpress.net/viem-gan-b-nguy-co-ung-thu-gan-co-the-phong-tu-khi-chao-doi-4964443.html",
+      "summary": "Việt Nam có khoảng 7,8 triệu người nhiễm viêm gan B mạn, dẫn đến hàng chục nghìn ca xơ gan và ung thư gan mỗi năm, mối nguy này có thể phòng ngay từ khi trẻ mới chào đời bằng vaccine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.524851+07:00"
+    },
+    {
+      "id": "dab0f1b5a52715cd843157713ad9ca53",
+      "title": "Tỉnh nào duy nhất Nam Bộ không tiếp giáp TP HCM?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-tinh-nao-duy-nhat-nam-bo-khong-tiep-giap-tp-hcm-4963886.html",
+      "summary": "Ở khu vực Nam Bộ, có rất nhiều tỉnh thành nằm quanh TP HCM, nhưng chỉ có một tỉnh hoàn toàn không giáp ranh, đó là tỉnh nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.525018+07:00"
+    },
+    {
+      "id": "0b6a691c95f0ff99ac7243087d649756",
+      "title": "Dấu hiệu ở mắt cảnh báo bệnh tiểu đường",
+      "link": "https://vnexpress.net/dau-hieu-o-mat-canh-bao-benh-tieu-duong-4964459.html",
+      "summary": "Lượng đường trong máu cao không được kiểm soát có thể gây mờ mắt, nhìn thấy đốm đen hoặc thay đổi thị lực bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.525170+07:00"
+    },
+    {
+      "id": "8a4cce4f1f29e84e4d9ef04a7b5d5f39",
+      "title": "Thai phụ có chạy bộ được không?",
+      "link": "https://vnexpress.net/thai-phu-co-chay-bo-duoc-khong-4964450.html",
+      "summary": "Trước khi mang thai, tôi thường chạy bộ 3-4 buổi mỗi tuần, hiện mang thai 20 tuần. Chạy bộ có ảnh hưởng đến thai nhi hay không, tôi nên điều chỉnh thế nào cho an toàn? (Thanh Hằng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.525355+07:00"
+    },
+    {
+      "id": "ac8ec3729d649535e8af6639c13603ce",
+      "title": "Visa kết nối với giới trẻ qua Esports học đường",
+      "link": "https://vnexpress.net/visa-ket-noi-voi-gioi-tre-qua-esports-hoc-duong-4964387.html",
+      "summary": "Đại diện Visa cho biết doanh nghiệp mong muốn trở thành cầu nối giữa công nghệ tài chính và thế hệ trẻ thông qua các hoạt động Esports học đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T03:00:00+07:00",
+      "fetched": "2025-11-16T11:23:21.525515+07:00"
     },
     {
       "id": "997bb8535adae83809e4b3dc3b122e50",
