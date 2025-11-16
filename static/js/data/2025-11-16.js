@@ -1,7 +1,137 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T17:16:34.432985+07:00",
+  "lastUpdated": "2025-11-16T19:31:11.123937+07:00",
   "articles": [
+    {
+      "id": "596b48feac69c023e1b3be7acf3f756c",
+      "title": "Mưa lớn, tạm dừng tìm kiếm 3 nạn nhân vụ sạt lở kinh hoàng tại Đà Nẵng",
+      "link": "https://tuoitre.vn/mua-lon-tam-dung-tim-kiem-3-nan-nhan-vu-sat-lo-kinh-hoang-tai-da-nang-20251116161248862.htm",
+      "summary": "Sau nhiều giờ huy động chó nghiệp vụ cùng lực lượng tiếp cận hiện trường tìm kiếm 3 nạn nhân nghi bị vùi dưới đất trong vụ sạt lở ở xã Hùng Sơn (Đà Nẵng), trưa 16-11 công việc buộc phải tạm dừng vì mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143791+07:00",
+      "fetched": "2025-11-16T19:31:05.143901+07:00"
+    },
+    {
+      "id": "cf3599daa102528adba08a325d9a0ba1",
+      "title": "Ukraine muốn nối lại việc trao đổi tù binh với Nga",
+      "link": "https://tuoitre.vn/ukraine-muon-noi-lai-viec-trao-doi-tu-binh-voi-nga-20251116162837532.htm",
+      "summary": "Ukraine đang nỗ lực nối lại việc trao đổi tù binh với Nga, hy vọng sẽ trả tự do cho 1.200 người, theo Tổng thống Volodymyr Zelensky.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143668+07:00",
+      "fetched": "2025-11-16T19:31:05.143780+07:00"
+    },
+    {
+      "id": "17f9ec36276eb0003bd29ae58493daed",
+      "title": "Chính phủ trình Quốc hội đầu tư đường cao tốc Vinh - Thanh Thủy gần 24.000 tỉ đồng",
+      "link": "https://tuoitre.vn/chinh-phu-trinh-quoc-hoi-dau-tu-duong-cao-toc-vinh-thanh-thuy-gan-24-000-ti-dong-20251116162435044.htm",
+      "summary": "Chính phủ trình Quốc hội quyết định chủ trương đầu tư dự án đường cao tốc Vinh - Thanh Thủy dài 60km có tổng vốn 23.940 tỉ đồng theo hình thức đầu tư công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143527+07:00",
+      "fetched": "2025-11-16T19:31:05.143656+07:00"
+    },
+    {
+      "id": "79fc893d544f3ecd0ad8d0da146a062c",
+      "title": "Cà Mau dùng đèn LED 'làm chủ' giới tính, hướng tới cua sumo xuất khẩu",
+      "link": "https://tuoitre.vn/ca-mau-dung-den-led-lam-chu-gioi-tinh-huong-toi-cua-sumo-xuat-khau-20251116162257357.htm",
+      "summary": "Dự án cua sumo gắn với mục tiêu khắc phục tình trạng suy thoái giống và tăng kích cỡ cua Cà Mau, đã để lại những ấn tượng tại Cuộc thi khởi nghiệp Cà Mau năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143396+07:00",
+      "fetched": "2025-11-16T19:31:05.143515+07:00"
+    },
+    {
+      "id": "dcc12b45f2a670c01b0766fc5854cf36",
+      "title": "Sạt lở, đất đổ ầm ầm xuống quốc lộ 40B như thác, nhiều người tháo chạy thục mạng",
+      "link": "https://tuoitre.vn/sat-lo-dat-do-am-am-xuong-quoc-lo-40b-nhu-thac-nhieu-nguoi-thao-chay-thuc-mang-20251116163357396.htm",
+      "summary": "Một vụ sạt lở trên tuyến đường quốc lộ 40B ở xã miền núi Đà Nẵng, đất đổ ầm ầm như thác khiến người dân bỏ chạy thục mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143273+07:00",
+      "fetched": "2025-11-16T19:31:05.143385+07:00"
+    },
+    {
+      "id": "8e0375deae8b8833c855cbe1163de6dd",
+      "title": "Khách xếp hàng chờ nhận quà tại 'gian hàng xanh' của Saigon Co.op",
+      "link": "https://tuoitre.vn/khach-xep-hang-cho-nhan-qua-tai-gian-hang-xanh-cua-saigon-co-op-20251116155007611.htm",
+      "summary": "Với hàng loạt trò chơi cùng giải thưởng hấp dẫn, gian hàng của Saigon Co.op trong Ngày hội Việt Nam Xanh đã thu hút đông đảo khách tham quan, trải nghiệm và nhận quà, đặc biệt các sản phẩm xanh, thân thiện với môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143151+07:00",
+      "fetched": "2025-11-16T19:31:05.143263+07:00"
+    },
+    {
+      "id": "ede09da494fa49646ba190c02603688d",
+      "title": "Bệnh viện Từ Dũ cơ sở 2 ở Cần Giờ: Mang y tế chất lượng cao đến vùng xa",
+      "link": "https://tuoitre.vn/benh-vien-tu-du-co-so-2-o-can-gio-mang-y-te-chat-luong-cao-den-vung-xa-20251116152505537.htm",
+      "summary": "Tại Cần Giờ giờ đây đã có Bệnh viện Từ Dũ cơ sở 2 hoạt động theo mô hình đa khoa. Người dân phấn khởi khi được cung ứng dịch vụ khám chữa bệnh chất lượng cao, với bác sĩ giàu kinh nghiệm ngay tại địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.143027+07:00",
+      "fetched": "2025-11-16T19:31:05.143140+07:00"
+    },
+    {
+      "id": "6ce898bb62610949a0dcab6b4ff2192a",
+      "title": "Tiến Linh báo tin được lên tuyển Việt Nam, Gia Bảo vẫn tưởng bạn đùa",
+      "link": "https://tuoitre.vn/tien-linh-bao-tin-duoc-len-tuyen-viet-nam-gia-bao-van-tuong-ban-dua-20251116171243083.htm",
+      "summary": "Nguyễn Tiến Linh là người báo tin cho Khổng Minh Gia Bảo khi cầu thủ sinh năm 2000 được gọi lên đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142901+07:00",
+      "fetched": "2025-11-16T19:31:05.143016+07:00"
+    },
+    {
+      "id": "561a0c35f296e17c98c6116822dba823",
+      "title": "Cần những nhà khoa học trẻ dấn thân và quyết liệt hơn nữa",
+      "link": "https://tuoitre.vn/can-nhung-nha-khoa-hoc-tre-dan-than-va-quyet-liet-hon-nua-2025111615001393.htm",
+      "summary": "Phó chủ tịch UBND TP.HCM Trần Thị Diệu Thúy đã gặp gỡ, lắng nghe các nhà khoa học trẻ đoạt giải thưởng khoa học công nghệ Quả cầu vàng và Nữ sinh khoa học công nghệ Việt Nam 2025 của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142774+07:00",
+      "fetched": "2025-11-16T19:31:05.142889+07:00"
+    },
+    {
+      "id": "8cdb8f66671e81fbd34ba0f011f80ff5",
+      "title": "Thanh Thúy vượt trội dàn sao bóng chuyền nữ Thái Lan về mọi thống kê",
+      "link": "https://tuoitre.vn/thanh-thuy-vuot-troi-dan-sao-bong-chuyen-nu-thai-lan-ve-moi-thong-ke-20251116152801209.htm",
+      "summary": "Thái Lan và Nhật Bản vốn có mối liên hệ chặt chẽ trong môn bóng chuyền nữ. Nhưng tại SV League (Giải vô địch bóng chuyền Nhật Bản) mùa giải năm nay, Thanh Thúy mới là VĐV Đông Nam Á xuất sắc nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142640+07:00",
+      "fetched": "2025-11-16T19:31:05.142762+07:00"
+    },
+    {
+      "id": "f3be0cf0ba30810c401b33efc2537661",
+      "title": "Tác giả sách 'Tình yêu không cổ tích' gây quỹ hơn 60 triệu đồng tặng đồng bào vùng bão lũ",
+      "link": "https://tuoitre.vn/tac-gia-sach-tinh-yeu-khong-co-tich-gay-quy-hon-60-trieu-dong-tang-dong-bao-vung-bao-lu-20251116153547153.htm",
+      "summary": "Chiều 16-11, tác giả Thỏ Trắng (Minh Huỳnh) tiếp tục có buổi giới thiệu sách Tình yêu không cổ tích tại TP.HCM. Trước đó, buổi giới thiệu vào tháng 10 đã giúp được hơn 60 triệu cho đồng bào bão lũ và hai mái ấm tại TP.HCM và Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142485+07:00",
+      "fetched": "2025-11-16T19:31:05.142626+07:00"
+    },
+    {
+      "id": "335da26ee472e79f88ada9e71ddb4cea",
+      "title": "Loài thú tuyệt chủng trong hoang dã sắp 'tái xuất' ở Bỉ sau 100 năm",
+      "link": "https://tuoitre.vn/loai-thu-tuyet-chung-trong-hoang-da-sap-tai-xuat-o-bi-sau-100-nam-20251116171443256.htm",
+      "summary": "Bỉ sẽ tái thả bò rừng Bison châu Âu vào năm 2027, đánh dấu bước phục hồi ngoạn mục của loài thú từng biến mất khỏi tự nhiên gần 100 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142343+07:00",
+      "fetched": "2025-11-16T19:31:05.142472+07:00"
+    },
+    {
+      "id": "17c192d1145f48ad96c600d1b036a562",
+      "title": "Nana After School bị chấn thương nghiêm trọng sau khi tay không bắt cướp",
+      "link": "https://tuoitre.vn/nana-after-school-bi-chan-thuong-nghiem-trong-sau-khi-tay-khong-bat-cuop-20251116172941365.htm",
+      "summary": "Sau khi đối đầu và khống chế một kẻ mang hung khí đột nhập vào nhà riêng, Nana (After School) và mẹ bị chấn thương nghiêm trọng, phải nhập viện khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T19:31:05.142125+07:00",
+      "fetched": "2025-11-16T19:31:05.142328+07:00"
+    },
     {
       "id": "76866e40c87a5b0b08ca860e0bd2bab4",
       "title": "Gia Lai khởi công 7 trường học vùng biên giới",
@@ -403,6 +533,56 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T13:24:15.263855+07:00"
     },
     {
+      "id": "ddd6f393eed8180777d6c9014c8de151",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 16.11, tiền cộng dồn tăng gần 40 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1611-tien-cong-don-tang-gan-40-ti-dong-185251116184824949.htm",
+      "summary": "Tối 16.11, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc, tiền cộng dồn lên gần 40 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:30:00+07:00",
+      "fetched": "2025-11-16T19:31:04.096479+07:00"
+    },
+    {
+      "id": "43d22cf579b2c9da462fd7e9e8afe9c7",
+      "title": "Chủ tịch UBND tỉnh Lai Châu Lê Văn Lương làm Phó bí thư Tỉnh ủy Điện Biên",
+      "link": "https://thanhnien.vn/chu-tich-ubnd-tinh-lai-chau-le-van-luong-lam-pho-bi-thu-tinh-uy-dien-bien-185251116184539784.htm",
+      "summary": "Chiều 16.11, Tỉnh ủy Điện Biên tổ chức hội nghị công bố quyết định của Ban Bí thư T.Ư Đảng về công tác cán bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:57:00+07:00",
+      "fetched": "2025-11-16T19:31:04.096667+07:00"
+    },
+    {
+      "id": "16c6d021f731d8ba8f3ce83093834059",
+      "title": "Hoa hậu Lý Kim Thảo tiết lộ về dự định hôn nhân",
+      "link": "https://thanhnien.vn/hoa-hau-ly-kim-thao-tiet-lo-ve-du-dinh-hon-nhan-185251116182401526.htm",
+      "summary": "Sau 4 năm đăng quang Hoa hậu Du lịch Việt Nam Toàn cầu, Lý Kim Thảo ngày càng năng động trong nhiều lĩnh vực nghệ thuật, đồng thời tích cực tham gia các hoạt động cộng đồng và quảng bá du lịch quê hương. Bên cạnh sự nghiệp, nàng hậu 9X cũng chia sẻ về những dự định hôn nhân trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:46:00+07:00",
+      "fetched": "2025-11-16T19:31:04.096829+07:00"
+    },
+    {
+      "id": "52dbca7e6619d64554f70c6893d69de4",
+      "title": "Nhạc sĩ khiếm thị Hà Chương tiết lộ chuyện tình đặc biệt với vợ kém 18 tuổi",
+      "link": "https://thanhnien.vn/nhac-si-khiem-thi-ha-chuong-tiet-lo-chuyen-tinh-dac-biet-voi-vo-kem-18-tuoi-185251116154056641.htm",
+      "summary": "Trong tập 637 chương trình 'Vợ chồng son', nhạc sĩ khiếm thị Hà Chương (43 tuổi) và bà xã Thúy An (25 tuổi) đã mang đến câu chuyện tình yêu và hôn nhân đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:42:00+07:00",
+      "fetched": "2025-11-16T19:31:04.096983+07:00"
+    },
+    {
+      "id": "4b4c2c706c4080578015770a0454b6d1",
+      "title": "Sạt lở núi ở Đà Nẵng: Tạm dừng tìm kiếm các nạn nhân mất tích",
+      "link": "https://thanhnien.vn/sat-lo-nui-o-da-nang-tam-dung-tim-kiem-cac-nan-nhan-mat-tich-185251116175525933.htm",
+      "summary": "Trước tình hình thời tiết xấu cùng với việc xuất hiện vết nứt mới, lực lượng chức năng phải tạm dừng tìm kiếm 3 nạn nhân mất tích trong vụ sạt lở núi ở Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:26:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097133+07:00"
+    },
+    {
       "id": "f9c962c4443cffb583aa0f4417122fa3",
       "title": "Dịch Dương Thiên Tỉ làm nên kỳ tích, trở thành Ảnh đế trẻ nhất lịch sử Kim Kê",
       "link": "https://tuoitre.vn/dich-duong-thien-ti-lam-nen-ky-tich-tro-thanh-anh-de-tre-nhat-lich-su-kim-ke-20251116085410436.htm",
@@ -411,6 +591,176 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T11:23:26.139822+07:00",
       "fetched": "2025-11-16T11:23:26.140038+07:00"
+    },
+    {
+      "id": "56757264a7549501438c5bbb2ffadaed",
+      "title": "Tình báo Mỹ sợ lộ công nghệ F-35 nếu bán cho Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/tinh-bao-my-so-lo-cong-nghe-f-35-neu-ban-cho-a-rap-xe-ut-185251116173635245.htm",
+      "summary": "Tình báo Mỹ công bố báo cáo bày tỏ lo ngại rằng công nghệ trên tiêm kích F-35 có thể rơi vào tay Trung Quốc nếu Tổng thống Donald Trump quyết định bán loại máy bay này cho Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:13:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097283+07:00"
+    },
+    {
+      "id": "323701aa2d50b21b01fb04d2ac0b9430",
+      "title": "Heo cứu binh sĩ Nga thoát chết trong gang tấc",
+      "link": "https://thanhnien.vn/heo-cuu-binh-si-nga-thoat-chet-trong-gang-tac-185251116172550682.htm",
+      "summary": "Một con heo đã cứu hai binh sĩ Nga khỏi mìn sát thương, theo đoạn video gần đây được đăng trên kênh Telegram.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:12:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097432+07:00"
+    },
+    {
+      "id": "0fe4d6a0d9b61e99bfb79429392abe3e",
+      "title": "Có nên tới đám cưới người cũ dù không được mời và tôi đã có vợ",
+      "link": "https://vnexpress.net/co-nen-toi-dam-cuoi-nguoi-cu-du-khong-duoc-moi-va-toi-da-co-vo-4964526.html",
+      "summary": "Tôi muốn gặp lại em một lần, nhìn em trong bộ váy cưới để lòng nhẹ nhàng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:00:00+07:00",
+      "fetched": "2025-11-16T19:31:01.685913+07:00"
+    },
+    {
+      "id": "847ff830f9646ce4c0db6d6afdeb8789",
+      "title": "Acecook Việt Nam nâng tầm món mì Hảo Hảo",
+      "link": "https://thanhnien.vn/acecook-viet-nam-nang-tam-mon-mi-hao-hao-185251116173346231.htm",
+      "summary": "Acecook Việt Nam tối 15.11 đã giới thiệu ra thị trường sản phẩm mì gói Hảo Hảo Premium với nhiều điểm nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:00:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097605+07:00"
+    },
+    {
+      "id": "fe26aa9202b0579b812e6f9994809d58",
+      "title": "Những điểm sáng trên sàn diễn Vietnam International Fashion Week",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-diem-sang-tren-san-dien-vietnam-international-fashion-week-185251116122716166.htm",
+      "summary": "Sự trở lại của thế hệ người mẫu đàn chị như Lan Khuê, Hoàng Thùy, Bùi Quỳnh Hoa, Quỳnh Anh, Lê Hoàng Phương... bên cạnh sự vươn mình của dàn người mẫu thế hệ mới như Huỳnh Tú Anh, Mai Hoa, Bảo Ngọc... là những điểm sáng nổi bật trên sàn diễn Vietnam International Fashion Week F/W 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T11:00:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097762+07:00"
+    },
+    {
+      "id": "fc40a391914419c0c0a8443ba22d8792",
+      "title": "Hàng loạt vé dãy số 888 trúng xổ số miền Nam ngày 16 tháng 11",
+      "link": "https://thanhnien.vn/hang-loat-ve-day-so-888-trung-xo-so-mien-nam-ngay-16-thang-11-185251116174356505.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 16 tháng 11, hàng loạt vé có dãy số cuối 888 mang lại may mắn cho nhiều khách. Điều bất ngờ, cọc vé có dãy 888 vừa mang lại may mắn 2 ngày liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:57:00+07:00",
+      "fetched": "2025-11-16T19:31:04.097911+07:00"
+    },
+    {
+      "id": "3e4cec3595e86ffb6b6c322244558327",
+      "title": "Metro số 2 TP.HCM áp dụng công nghệ không người lái như thế nào?",
+      "link": "https://thanhnien.vn/metro-so-2-tphcm-ap-dung-cong-nghe-khong-nguoi-lai-nhu-the-nao-185251116172417357.htm",
+      "summary": "Tuyến metro số 2 (Bến Thành - Tham Lương) dự kiến khởi công ngày 15.1.2026 được định hướng áp dụng nhiều giải pháp công nghệ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:44:00+07:00",
+      "fetched": "2025-11-16T19:31:04.098062+07:00"
+    },
+    {
+      "id": "d3237ec3c25540c8ec5cd607d7de268d",
+      "title": "Công an TP.HCM xử lý thiếu niên 'diễn xiếc' khi lái xe trên song hành cao tốc",
+      "link": "https://thanhnien.vn/cong-an-tphcm-xu-ly-thieu-nien-dien-xiec-khi-lai-xe-tren-song-hanh-cao-toc-185251116170227017.htm",
+      "summary": "Cơ quan chức năng xác định nam thiếu niên 16 tuổi chạy xe máy trên song hành đường dẫn cao tốc TP.HCM - Long Thành - Dầu Giây có hành động 'diễn xiếc' gây nguy hiểm và mất an ninh trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:42:00+07:00",
+      "fetched": "2025-11-16T19:31:04.098215+07:00"
+    },
+    {
+      "id": "cf48e2afe97404729e50739f93044fa5",
+      "title": "Đà Nẵng: Sạt lở đất ầm ầm như thác, nhiều người hoảng loạn tháo chạy",
+      "link": "https://thanhnien.vn/da-nang-sat-lo-dat-am-am-nhu-thac-nhieu-nguoi-hoang-loan-thao-chay-185251116172244965.htm",
+      "summary": "Một vụ sạt lở nghiêm trọng trên tuyến QL40B ở xã miền núi Đà Nẵng khiến đất đổ ầm ầm như thác, người dân hoảng loạn tháo chạy thoát thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:41:00+07:00",
+      "fetched": "2025-11-16T19:31:04.098362+07:00"
+    },
+    {
+      "id": "66196f63bfeafd774c17dd354440a77a",
+      "title": "Thủ tướng lên đường dự hội nghị thượng đỉnh G20",
+      "link": "https://vnexpress.net/thu-tuong-len-duong-du-hoi-nghi-thuong-dinh-g20-4964608.html",
+      "summary": "Thủ tướng và phu nhân hôm nay rời Hà Nội, lên đường thăm chính thức Kuwait và Algeria, tham dự Hội nghị thượng đỉnh G20 và hoạt động song phương tại Nam Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:38:50+07:00",
+      "fetched": "2025-11-16T19:31:01.686093+07:00"
+    },
+    {
+      "id": "66196f63bfeafd774c17dd354440a77a",
+      "title": "Thủ tướng lên đường dự hội nghị thượng đỉnh G20",
+      "link": "https://vnexpress.net/thu-tuong-len-duong-du-hoi-nghi-thuong-dinh-g20-4964608.html",
+      "summary": "Thủ tướng và phu nhân hôm nay rời Hà Nội, lên đường thăm chính thức Kuwait và Algeria, tham dự Hội nghị thượng đỉnh G20 và hoạt động song phương tại Nam Phi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T10:38:50+07:00",
+      "fetched": "2025-11-16T19:31:06.429387+07:00"
+    },
+    {
+      "id": "77157cd187e65c9d5cac32b28142e588",
+      "title": "Miền núi TP.Huế mưa lớn, đất đá từ nguồn tràn xuống đường Hồ Chí Minh",
+      "link": "https://thanhnien.vn/mien-nui-tphue-mua-lon-dat-da-tu-nguon-tran-xuong-duong-ho-chi-minh-185251116170417824.htm",
+      "summary": "Mưa lớn khiến lượng đất đá và nước từ núi tràn xuống tuyến đường Hồ Chí Minh đoạn qua địa phận các xã miền núi TP.Huế. Lực lượng chức năng lập rào chắn, khuyến cáo người dân hạn chế di chuyển vào ban đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:32:00+07:00",
+      "fetched": "2025-11-16T19:31:04.098514+07:00"
+    },
+    {
+      "id": "d6c0d5b8bed6e87007df1b33b2ca9132",
+      "title": "Châu Phi đẩy lùi bệnh viêm màng não như thế nào?",
+      "link": "https://vnexpress.net/chau-phi-day-lui-benh-viem-mang-nao-nhu-the-nao-4964602.html",
+      "summary": "Viêm màng não do vi khuẩn từng là nỗi ám ảnh lớn tại 26 quốc gia châu Phi, chỉ được đẩy lùi khi vaccine được phê duyệt và tiêm chủng rộng rãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:30:00+07:00",
+      "fetched": "2025-11-16T19:31:01.686256+07:00"
+    },
+    {
+      "id": "c48dac9bf08147728fcdb0e98d2cac64",
+      "title": "Tiếng Anh là ngôn ngữ thứ hai nhưng sự học mới là ngôn ngữ đầu tiên",
+      "link": "https://thanhnien.vn/tieng-anh-la-ngon-ngu-thu-hai-nhung-su-hoc-moi-la-ngon-ngu-dau-tien-185251113211915751.htm",
+      "summary": "Tiếng Anh, với nhiều học sinh Việt Nam không chỉ là một môn học mà là cây cầu để bước ra thế giới. Tuy nhiên, điều khiến tôi trăn trở suốt nhiều năm dạy học không phải là bao nhiêu em đạt IELTS 7.0, mà là bao nhiêu em thật sự tìm thấy tiếng nói của chính mình trong một ngôn ngữ thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:30:00+07:00",
+      "fetched": "2025-11-16T19:31:04.098696+07:00"
+    },
+    {
+      "id": "5bc19566ed7ef634176d1289c38ba84e",
+      "title": "Tìm bạn đồng hành để cùng viết nên chương mới cuộc đời",
+      "link": "https://vnexpress.net/tim-ban-dong-hanh-de-cung-viet-nen-chuong-moi-cuoc-doi-4960800.html",
+      "summary": "Anh làm trong lĩnh vực quản lý vận hành, một công việc cần sự tỉ mỉ, trách nhiệm, cũng như cách anh trân trọng từng mối quan hệ trong đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:22:55+07:00",
+      "fetched": "2025-11-16T19:31:01.686357+07:00"
+    },
+    {
+      "id": "5bd2732923ee5c79379c4886728e1144",
+      "title": "Người thương ơi, em đang ở đây",
+      "link": "https://vnexpress.net/nguoi-thuong-oi-em-dang-o-day-4964586.html",
+      "summary": "Em chờ anh tìm ra em giữa hơn tám tỷ người để mình cùng nắm tay đi qua những mùa bình yên của cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:21:40+07:00",
+      "fetched": "2025-11-16T19:31:01.686449+07:00"
+    },
+    {
+      "id": "3cd5f252636a364ae0d030c1b2bc7e04",
+      "title": "Mùa đông đến rồi, liệu anh có đến sưởi ấm trái tim em?",
+      "link": "https://vnexpress.net/mua-dong-den-roi-lieu-anh-co-den-suoi-am-trai-tim-em-4964588.html",
+      "summary": "Em tin rằng một mối quan hệ hạnh phúc cần sự hiểu biết, chia sẻ và tôn trọng lẫn nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:21:26+07:00",
+      "fetched": "2025-11-16T19:31:01.686537+07:00"
     },
     {
       "id": "a402f0e2caa05d317bc70c8d341f90cf",
@@ -563,6 +913,16 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T10:15:51.703152+07:00"
     },
     {
+      "id": "d264897b27d8ccfbc447c35106cba931",
+      "title": "Điểm tin 17h: Đà Nẵng tiếp diễn nguy cơ sạt trượt | Thủ tướng yêu cầu Hà Nội khởi công dự án Olympic",
+      "link": "https://vnexpress.net/diem-tin-17h-da-nang-tiep-dien-nguy-co-sat-truot-thu-tuong-yeu-cau-ha-noi-khoi-cong-du-an-olympic-4964605.html",
+      "summary": "Trung Quốc điều tàu áp sát quần đảo tranh chấp với Nhật Bản; Thu hồi kem chống nắng ghi SPF 45+, kiểm nghiệm chỉ đạt SPF 2;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:10:49+07:00",
+      "fetched": "2025-11-16T19:31:01.686716+07:00"
+    },
+    {
       "id": "387ab24a1c9293b6addbca7f2f410025",
       "title": "U.23 Hàn Quốc bị chỉ trích dữ dội vì thua Trung Quốc, 'khó lòng thắng U.23 Việt Nam'",
       "link": "https://thanhnien.vn/u23-han-quoc-bi-chi-trich-du-doi-vi-thua-trung-quoc-kho-long-thang-u23-viet-nam-185251116163927241.htm",
@@ -571,6 +931,26 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T10:09:00+07:00",
       "fetched": "2025-11-16T17:16:26.185184+07:00"
+    },
+    {
+      "id": "c29f312a0c0a8d5ef24af4e828c0ada6",
+      "title": "1.000 trận cầm quân của Pep Guardiola",
+      "link": "https://vnexpress.net/1-000-tran-cam-quan-cua-pep-guardiola-4964611.html",
+      "summary": "Qua 1.000 trận cầm quân ở Barca, Bayern và Man City, Pep Guardiola đã giành 716 chiến thắng, 40 danh hiệu, trong đó có 18 chiếc Cup cùng Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T10:07:36+07:00",
+      "fetched": "2025-11-16T19:31:01.686882+07:00"
+    },
+    {
+      "id": "c29f312a0c0a8d5ef24af4e828c0ada6",
+      "title": "1.000 trận cầm quân của Pep Guardiola",
+      "link": "https://vnexpress.net/1-000-tran-cam-quan-cua-pep-guardiola-4964611.html",
+      "summary": "Qua 1.000 trận cầm quân ở Barca, Bayern và Man City, Pep Guardiola đã giành 716 chiến thắng, 40 danh hiệu, trong đó có 18 chiếc Cup cùng Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T10:07:36+07:00",
+      "fetched": "2025-11-16T19:31:11.113302+07:00"
     },
     {
       "id": "452f257fab9d711e142bcc3482363529",
