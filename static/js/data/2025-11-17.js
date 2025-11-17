@@ -1,7 +1,17 @@
 window.newsData_2025_11_17 = {
   "date": "2025-11-17",
-  "lastUpdated": "2025-11-17T10:13:59.406626+07:00",
+  "lastUpdated": "2025-11-17T11:24:05.428825+07:00",
   "articles": [
+    {
+      "id": "331944ea6ab3168969fe46541680f456",
+      "title": "Khai phá dư địa hợp tác Trung Đông, châu Phi",
+      "link": "https://tuoitre.vn/khai-pha-du-dia-hop-tac-trung-dong-chau-phi-20251116223338685.htm",
+      "summary": "Chuyến công tác của Thủ tướng Phạm Minh Chính đến Kuwait, Algeria và Nam Phi từ ngày 16 đến 24-11 mang theo kỳ vọng mở ra giai đoạn hợp tác mới với những kết quả cụ thể và thiết thực trên nhiều lĩnh vực then chốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T11:23:59.091570+07:00",
+      "fetched": "2025-11-17T11:23:59.091669+07:00"
+    },
     {
       "id": "f18c90f90774e0a6687e71ef72605eeb",
       "title": "Qua bàn bên xin đá uống bia nhưng bị từ chối, hai nhóm lao vào ẩu đả ở quán nhậu",
@@ -303,6 +313,346 @@ window.newsData_2025_11_17 = {
       "fetched": "2025-11-17T08:19:46.403253+07:00"
     },
     {
+      "id": "a85662e4df1af090145aabfc2e82b10c",
+      "title": "TP.HCM: Nhiều tàu cá bị nạn, 3 người tử vong, 5 ngư dân được cứu sống",
+      "link": "https://thanhnien.vn/tphcm-nhieu-tau-ca-bi-nan-3-nguoi-tu-vong-5-ngu-dan-duoc-cuu-song-185251117105156569.htm",
+      "summary": "Trong lúc hoạt động đánh bắt hải sản trên biển, nhiều tàu cá bị nạn, có 5 ngư dân được cứu sống, 3 người khác tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:21:00+07:00",
+      "fetched": "2025-11-17T11:23:57.955578+07:00"
+    },
+    {
+      "id": "06e1362d920e153af2fa38f177e19dc5",
+      "title": "Tuần lễ Khoa học Công nghệ VinFuture 2025: Quy tụ các nhà khoa học lừng danh thế giới",
+      "link": "https://thanhnien.vn/vinfuture-chinh-thuc-cong-bo-lich-trinh-tuan-le-khoa-hoc-cong-nghe-vinfuture-2025-185251117111506329.htm",
+      "summary": "Tuần lễ Khoa học Công nghệ VinFuture 2025, diễn ra từ 2 - 6.12 tại Hà Nội. Với chủ đề \"Cùng vươn mình - Cùng thịnh vượng\", chuỗi sự kiện quốc tế thường niên năm nay tiếp tục khẳng định sứ mệnh của VinFuture trong việc kết nối tri thức, khơi dậy khát vọng phụng sự và nâng tầm vị thế của Việt Nam như ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:19:00+07:00",
+      "fetched": "2025-11-17T11:23:57.955730+07:00"
+    },
+    {
+      "id": "d1de3b24f1f3dee37fd44d02122a8222",
+      "title": "Ông Trump đến sát quyết định về Venezuela, Mỹ diệt thêm một 'thuyền buôn ma túy'",
+      "link": "https://thanhnien.vn/ong-trump-den-sat-quyet-dinh-ve-venezuela-my-diet-them-mot-thuyen-buon-ma-tuy-185251117105116414.htm",
+      "summary": "Hôm 16.11, tàu sân bay lớn nhất thế giới là USS Gerald R.Ford của Mỹ đến khu vực phía bắc biển Caribbean trong bối cảnh căng thẳng với Venezuela tiếp tục leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:18:00+07:00",
+      "fetched": "2025-11-17T11:23:57.955864+07:00"
+    },
+    {
+      "id": "73d465c72604bc61aa702da71873185e",
+      "title": "HLV đội tuyển Malaysia lên tiếng cực sốc về tương lai, hứa làm điều bất ngờ khi đấu Nepal",
+      "link": "https://thanhnien.vn/hlv-doi-tuyen-malaysia-len-tieng-cuc-soc-ve-tuong-lai-hua-lam-dieu-bat-ngo-khi-dau-nepal-185251117111000384.htm",
+      "summary": "Trong buổi họp báo sáng 17.11, HLV Cklamovski đã chính thức lên tiếng về tương lai của bản thân. Đồng thời, ông khẳng định đội tuyển Malaysia sẽ ra sân với quyết tâm cao nhất, mang đến màn trình diễn đẹp mắt khi gặp Nepal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:17:00+07:00",
+      "fetched": "2025-11-17T11:23:57.955992+07:00"
+    },
+    {
+      "id": "8b97d88252ffa4f601ec3fdd369ab8aa",
+      "title": "Khách sạn, homestay tại Việt Nam bị tấn công qua email giả mạo Booking.com",
+      "link": "https://thanhnien.vn/khach-san-homestay-tai-viet-nam-bi-tan-cong-qua-email-gia-mao-bookingcom-185251117110004398.htm",
+      "summary": "Tập đoàn Bkav sáng 17.11 cảnh báo tình trạng các khách sạn có thể bị tấn công bởi email giả mạo Booking.com.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:17:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956119+07:00"
+    },
+    {
+      "id": "09c27e0f089efc6d50808cbe5ebed239",
+      "title": "Tà áo dài cuốn vào bánh xe, nữ sinh ngã chấn thương sọ não",
+      "link": "https://vnexpress.net/ta-ao-dai-cuon-vao-banh-xe-nu-sinh-nga-chan-thuong-so-nao-4964784.html",
+      "summary": "Nữ sinh 15 tuổi đi xe đạp điện thì tà áo dài cuốn vào bánh xe, kéo ngã xuống đường, dẫn đến chấn thương sọ não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:12:05+07:00",
+      "fetched": "2025-11-17T11:23:54.893571+07:00"
+    },
+    {
+      "id": "b99fc226a616aed6294b868ce286573f",
+      "title": "Quảng Trị mưa lớn, xã miền núi Ba Lòng di dời hơn 200 hộ dân",
+      "link": "https://thanhnien.vn/quang-tri-mua-lon-xa-mien-nui-ba-long-di-doi-hon-200-ho-dan-185251117100510374.htm",
+      "summary": "Mưa lớn kéo dài từ chiều tối 16.11 đến sáng nay 17.11 đã khiến xã Ba Lòng (Quảng Trị) ngập sâu, địa phương này đã khẩn trương di dời 210 hộ dân đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:12:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956257+07:00"
+    },
+    {
+      "id": "9c39ee3cdeb14d9f6fec847ed3513704",
+      "title": "Bộ Nội vụ bác thông tin sáp nhập còn 16 tỉnh, thành",
+      "link": "https://thanhnien.vn/bo-noi-vu-bac-thong-tin-sap-nhap-con-16-tinh-thanh-185251117105118757.htm",
+      "summary": "Thông tin sắp xếp từ 34 tỉnh, thành hiện nay còn 16 tỉnh, thành trong giai đoạn tới hoàn toàn không chính xác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:10:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956383+07:00"
+    },
+    {
+      "id": "dd957018cc894135d8b07f199193e56f",
+      "title": "Highlands Coffee lãi cao nhất hai năm qua",
+      "link": "https://vnexpress.net/highlands-coffee-lai-cao-nhat-hai-nam-qua-4964762.html",
+      "summary": "Highlands Coffee, chuỗi cà phê lớn nhất Việt Nam, có lãi EBITDA hơn 297 tỷ đồng trong quý III, mức cao nhất hai năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:09:19+07:00",
+      "fetched": "2025-11-17T11:23:54.893725+07:00"
+    },
+    {
+      "id": "dd957018cc894135d8b07f199193e56f",
+      "title": "Highlands Coffee lãi cao nhất hai năm qua",
+      "link": "https://vnexpress.net/highlands-coffee-lai-cao-nhat-hai-nam-qua-4964762.html",
+      "summary": "Highlands Coffee, chuỗi cà phê lớn nhất Việt Nam, có lãi EBITDA hơn 297 tỷ đồng trong quý III, mức cao nhất hai năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-17T04:09:19+07:00",
+      "fetched": "2025-11-17T11:24:01.943616+07:00"
+    },
+    {
+      "id": "f82378220a79d0a3d763c47220f53816",
+      "title": "Lốc xoáy kèm ánh sáng kỳ lạ ở Đà Nẵng: 30 giây cuốn phăng hàng chục mái nhà",
+      "link": "https://thanhnien.vn/loc-xoay-kem-anh-sang-ky-la-o-da-nang-30-giay-cuon-phang-hang-chuc-mai-nha-185251117102028626.htm",
+      "summary": "Trận lốc xoáy kèm ánh sáng kỳ lạ quét qua chỉ vài chục giây nhưng đã khiến hàng chục ngôi nhà ở TP.Đà Nẵng tốc mái, khiến 2 người dân bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:09:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956511+07:00"
+    },
+    {
+      "id": "26dd040792442edbfb4c041ff65f610b",
+      "title": "Ông Nguyễn Chiến Thắng tái đắc cử Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Quảng Trị",
+      "link": "https://thanhnien.vn/ong-nguyen-chien-thang-tai-dac-cu-chu-tich-uy-ban-mttq-viet-nam-tinh-quang-tri-185251117101734293.htm",
+      "summary": "Ông Nguyễn Chiến Thắng, Phó bí thư Tỉnh ủy, Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Quảng Trị, tái đắc cử Chủ tịch Ủy ban MTTQ Việt Nam tỉnh Quảng Trị khóa mới (2025 - 2030).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:07:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956636+07:00"
+    },
+    {
+      "id": "9fe968a16b769d2be1d9056331a1194d",
+      "title": "Sinner: 'Tôi giỏi hơn sau một năm'",
+      "link": "https://vnexpress.net/sinner-toi-gioi-hon-sau-mot-nam-4964786.html",
+      "summary": "Jannik Sinner đánh giá bản thân tiến bộ hơn so với mùa trước, sau khi hạ Carlos Alcaraz ở chung kết ATP Finals để lần thứ hai liên tiếp vô địch giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:05:10+07:00",
+      "fetched": "2025-11-17T11:23:54.893868+07:00"
+    },
+    {
+      "id": "9fe968a16b769d2be1d9056331a1194d",
+      "title": "Sinner: 'Tôi giỏi hơn sau một năm'",
+      "link": "https://vnexpress.net/sinner-toi-gioi-hon-sau-mot-nam-4964786.html",
+      "summary": "Jannik Sinner đánh giá bản thân tiến bộ hơn so với mùa trước, sau khi hạ Carlos Alcaraz ở chung kết ATP Finals để lần thứ hai liên tiếp vô địch giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-17T04:05:10+07:00",
+      "fetched": "2025-11-17T11:24:05.421755+07:00"
+    },
+    {
+      "id": "384d02623b1101f149a9160421e1f489",
+      "title": "Khoa học công nghệ và chuyển đổi số trở thành đột phá trong giáo dục đại học",
+      "link": "https://thanhnien.vn/khoa-hoc-cong-nghe-va-chuyen-doi-so-tro-thanh-dot-pha-trong-giao-duc-dai-hoc-18525111316094957.htm",
+      "summary": "Hai định hướng 'Đột phá phát triển giáo dục' và 'Đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia' đang trở thành kim chỉ nam cho các trường đại học đổi mới, góp phần thúc đẩy phát triển đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:05:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956760+07:00"
+    },
+    {
+      "id": "7865eccc50f81ab545fca21e29819f94",
+      "title": "Tesla không muốn ôtô sản xuất ở Mỹ dùng linh kiện Trung Quốc",
+      "link": "https://vnexpress.net/tesla-khong-muon-oto-san-xuat-o-my-dung-linh-kien-trung-quoc-4964753.html",
+      "summary": "Tesla yêu cầu các nhà cung cấp loại bỏ linh kiện sản xuất tại Trung Quốc cho ôtô của hãng ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:03:54+07:00",
+      "fetched": "2025-11-17T11:23:54.894002+07:00"
+    },
+    {
+      "id": "8513be8305ba93a91169a88ca4ffccbb",
+      "title": "Bộ Nội vụ: Không có chủ trương sáp nhập còn 16 tỉnh thành",
+      "link": "https://vnexpress.net/bo-noi-vu-khong-co-chu-truong-sap-nhap-con-16-tinh-thanh-4964799.html",
+      "summary": "Vụ trưởng Chính quyền địa phương Phan Trung Tuấn khẳng định không tồn tại chủ trương tiếp tục sáp nhập đơn vị hành chính cấp tỉnh hoặc cấp xã như thông tin lan truyền trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:03:38+07:00",
+      "fetched": "2025-11-17T11:23:54.894135+07:00"
+    },
+    {
+      "id": "51c032b98dfc5d17fcb37bbb45739f79",
+      "title": "Xem nhanh 12h: Sạt lở đèo Khánh Lê 22 người thương vong | Cảnh báo mưa lũ ở miền Trung",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-sat-lo-deo-khanh-le-22-nguoi-thuong-vong-canh-bao-mua-lu-o-mien-trung-185251117110156106.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 17.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:00:00+07:00",
+      "fetched": "2025-11-17T11:23:57.956886+07:00"
+    },
+    {
+      "id": "3fe1b93656459ded1f467a2adfa84bbd",
+      "title": "Tiết lộ về cảnh quay Thái Hòa bị NSƯT Kim Phương 'tát thẳng tay' gây chú ý",
+      "link": "https://thanhnien.vn/tiet-lo-ve-canh-quay-thai-hoa-bi-nsut-kim-phuong-tat-thang-tay-gay-chu-y-185251117100813534.htm",
+      "summary": "Trong phim 'Cuộc chiến hạ lưu', phân đoạn Thái Hòa bị đàn chị là NSƯT Kim Phương cho ăn tát sau màn tranh cãi được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:00:00+07:00",
+      "fetched": "2025-11-17T11:23:57.957012+07:00"
+    },
+    {
+      "id": "6ce232296a82218cfc2ae3ee14e04268",
+      "title": "‘Đường đi’ của 2 tuyến metro kết nối khu trung tâm TP.HCM đến Bình Dương (cũ)",
+      "link": "https://thanhnien.vn/duong-di-cua-2-tuyen-metro-ket-noi-khu-trung-tam-tphcm-den-binh-duong-cu-185251117095354911.htm",
+      "summary": "Trong số 9 tuyến đường sắt đô thị được TP.HCM ưu tiên đầu tư trước năm 2035 có 6 tuyến thuộc khu trung tâm TP.HCM, 2 tuyến Bình Dương (cũ) và 1 tuyến tại Bà Rịa -Vũng Tàu (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T04:00:00+07:00",
+      "fetched": "2025-11-17T11:23:57.957136+07:00"
+    },
+    {
+      "id": "7a03a3cbc9c8ba2df9e356f082795907",
+      "title": "Ông Trump đổi ý, ủng hộ công bố hồ sơ Epstein",
+      "link": "https://vnexpress.net/ong-trump-doi-y-ung-ho-cong-bo-ho-so-epstein-4964801.html",
+      "summary": "Ông Trump ủng hộ Hạ viện Mỹ công bố hồ sơ về tỷ phú ấu dâm Epstein vì \"không có gì phải giấu\", dù từng phản đối hành động này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:58:13+07:00",
+      "fetched": "2025-11-17T11:23:54.894278+07:00"
+    },
+    {
+      "id": "4257acaf82ad78386e67b556a1cf518f",
+      "title": "Cô gái 21 tuổi nhắn tin xin nghỉ việc gây bão mạng: Lịch sự hay… làm quá?",
+      "link": "https://thanhnien.vn/co-gai-21-tuoi-nhan-tin-xin-nghi-viec-gay-bao-mang-lich-su-hay-lam-qua-185251114122455818.htm",
+      "summary": "Tin nhắn xin nghỉ việc của cô gái 21 tuổi gây bão mạng vì quá lịch sự và tử tế. Vì sao dòng tin nhắn này tạo tranh luận trái chiều trên mạng xã hội?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:58:00+07:00",
+      "fetched": "2025-11-17T11:23:57.957269+07:00"
+    },
+    {
+      "id": "d9fa941237a37b6b08c0242b76dd49c6",
+      "title": "Đèo Prenn ở cửa ngõ Đà Lạt bị nứt, sạt lở",
+      "link": "https://vnexpress.net/sat-lo-deo-prenn-4964821.html",
+      "summary": "Mưa lớn kéo dài khiến đèo Prenn, cửa ngõ Đà Lạt bị sạt lở, mặt đường nứt, buộc chính quyền phải đóng đèo, sáng 17/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:56:51+07:00",
+      "fetched": "2025-11-17T11:23:54.894408+07:00"
+    },
+    {
+      "id": "726705aa7ff3f2f5cfa74901305c4b83",
+      "title": "Tôi muốn quyên góp hết tài sản rồi xuất gia",
+      "link": "https://vnexpress.net/muc-tieu-song-toi-muon-quyen-gop-het-tai-san-va-xuat-gia-du-co-ngoai-hinh-lan-su-nghiep-4964708.html",
+      "summary": "Tôi cảm thấy dù hiện tại đã sở hữu một số tiền của vật chất, nhưng không còn có mục đích gì để cố gắng hoàn thành nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:56:09+07:00",
+      "fetched": "2025-11-17T11:23:54.894539+07:00"
+    },
+    {
+      "id": "3db0e56d800475a80868f495696efeb6",
+      "title": "Hiện trường sạt lở núi đè ôtô khách làm 6 người chết",
+      "link": "https://vnexpress.net/hien-truong-sat-lo-nui-de-oto-khach-lam-6-nguoi-chet-4964726.html",
+      "summary": "Hàng nghìn khối đất đá trôi xuống làm cabin xe khách biến dạng, khung sắt, giường nằm, cửa sổ... ở đèo Khánh Lê, làm 6 người chết, sáng 17/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:51:51+07:00",
+      "fetched": "2025-11-17T11:23:54.894671+07:00"
+    },
+    {
+      "id": "3fe951c44f321e07c53b33e2d0186ebc",
+      "title": "Trình Quốc hội việc khám sức khỏe định kỳ miễn phí hàng năm từ 2026",
+      "link": "https://vnexpress.net/trinh-quoc-hoi-viec-kham-suc-khoe-dinh-ky-mien-phi-hang-nam-tu-2026-4964761.html",
+      "summary": "Chính phủ đề xuất từ năm 2026 toàn dân được khám sức khỏe định kỳ hoặc sàng lọc miễn phí mỗi năm một lần, tiến tới miễn viện phí cơ bản và tăng mức hưởng bảo hiểm y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:50:04+07:00",
+      "fetched": "2025-11-17T11:23:54.894803+07:00"
+    },
+    {
+      "id": "81e1dcfa8d404ba01923d1668858f6db",
+      "title": "Đề xuất Bộ Công an nắm quyền quản lý địa chỉ IP, chứng chỉ mạng",
+      "link": "https://vnexpress.net/de-xuat-bo-cong-an-nam-quyen-quan-ly-dia-chi-ip-chung-chi-mang-4964804.html",
+      "summary": "Trong dự thảo Luật An ninh mạng mới nhất, Chính phủ đề xuất giao Bộ Công an là đầu mối quản lý nhà nước về an ninh mạng, \"nắm\" định danh địa chỉ IP, cấp chứng chỉ mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:48:24+07:00",
+      "fetched": "2025-11-17T11:23:54.894939+07:00"
+    },
+    {
+      "id": "68271b0f1abd7c4b63b987376bc0f917",
+      "title": "Nhật Bản cử phái viên sang Trung Quốc giải quyết căng thẳng về Đài Loan",
+      "link": "https://thanhnien.vn/nhat-ban-cu-phai-vien-sang-trung-quoc-giai-quyet-cang-thang-ve-dai-loan-185251117103059051.htm",
+      "summary": "Một nhà ngoại giao cấp cao của Nhật Bản đã sang Trung Quốc trong ngày 17.11 để đối thoại giảm căng thẳng giữa hai nước liên quan vấn đề Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:47:00+07:00",
+      "fetched": "2025-11-17T11:23:57.957394+07:00"
+    },
+    {
+      "id": "b703743294f03d43527cd84781e63a26",
+      "title": "LPBank ra mắt giải pháp giúp hộ kinh doanh chuyển đổi thuế",
+      "link": "https://vnexpress.net/lpbank-ra-mat-giai-phap-giup-ho-kinh-doanh-chuyen-doi-thue-4964806.html",
+      "summary": "LPBank triển khai bộ giải pháp gồm vay ưu đãi, công cụ thanh toán số, thiết bị quản lý dòng tiền, giúp hộ kinh doanh, tiểu thương thích ứng mô hình thuế mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:45:00+07:00",
+      "fetched": "2025-11-17T11:23:54.895072+07:00"
+    },
+    {
+      "id": "b703743294f03d43527cd84781e63a26",
+      "title": "LPBank ra mắt giải pháp giúp hộ kinh doanh chuyển đổi thuế",
+      "link": "https://vnexpress.net/lpbank-ra-mat-giai-phap-giup-ho-kinh-doanh-chuyen-doi-thue-4964806.html",
+      "summary": "LPBank triển khai bộ giải pháp gồm vay ưu đãi, công cụ thanh toán số, thiết bị quản lý dòng tiền, giúp hộ kinh doanh, tiểu thương thích ứng mô hình thuế mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-17T03:45:00+07:00",
+      "fetched": "2025-11-17T11:24:01.944342+07:00"
+    },
+    {
+      "id": "0c06235bc3fa3c0bbac3ce5752ddc18b",
+      "title": "Thợ ống nước bị nghi là chủ mưu vụ đánh bom tự sát ở New Delhi",
+      "link": "https://vnexpress.net/tho-ong-nuoc-bi-nghi-la-chu-muu-vu-danh-bom-tu-sat-o-new-delhi-4964766.html",
+      "summary": "Một thợ sửa ống nước quê ở Kashmir bị cáo buộc là chủ mưu vụ đánh bom xe kiểu tự sát ở New Delhi khiến ít nhất 12 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:44:42+07:00",
+      "fetched": "2025-11-17T11:23:54.895210+07:00"
+    },
+    {
+      "id": "0c06235bc3fa3c0bbac3ce5752ddc18b",
+      "title": "Thợ ống nước bị nghi là chủ mưu vụ đánh bom tự sát ở New Delhi",
+      "link": "https://vnexpress.net/tho-ong-nuoc-bi-nghi-la-chu-muu-vu-danh-bom-tu-sat-o-new-delhi-4964766.html",
+      "summary": "Một thợ sửa ống nước quê ở Kashmir bị cáo buộc là chủ mưu vụ đánh bom xe kiểu tự sát ở New Delhi khiến ít nhất 12 người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T03:44:42+07:00",
+      "fetched": "2025-11-17T11:24:00.823952+07:00"
+    },
+    {
+      "id": "4d34f98a18f8c0a480cf6fff1b79fbd1",
+      "title": "Nhóm máu chỉ khoảng 50 người trên thế giới sở hữu",
+      "link": "https://vnexpress.net/nhom-mau-chi-khoang-50-nguoi-tren-the-gioi-so-huu-4964755.html",
+      "summary": "Thế giới ghi nhận chưa đến 50 người sở hữu nhóm máu Rh-null, loại máu được mệnh danh \"máu vàng\" nhờ khả năng truyền cho bất kỳ ai có nhóm máu hiếm trong hệ Rh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:39:40+07:00",
+      "fetched": "2025-11-17T11:23:54.895339+07:00"
+    },
+    {
+      "id": "3ba22dd959508e16198a26642b5ba12c",
+      "title": "Tranh cãi khu resort ở Trung Quốc cho sư tử vào đánh thức khách",
+      "link": "https://vnexpress.net/tranh-cai-khu-resort-o-trung-quoc-cho-su-tu-vao-danh-thuc-khach-4964723.html",
+      "summary": "Khu nghỉ dưỡng ở tỉnh Giang Tô gây ra phản ứng trái chiều khi mở dịch vụ cho sư tử con vào phòng gọi khách dậy vào buổi sáng, với mức giá từ 88 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T03:35:58+07:00",
+      "fetched": "2025-11-17T11:23:54.895467+07:00"
+    },
+    {
       "id": "a764ac97a2ebeaa4f365fcc74a197b66",
       "title": "Ukraine mua khí đốt Mỹ để vượt qua mùa đông năm nay",
       "link": "https://tuoitre.vn/ukraine-mua-khi-dot-my-de-vuot-qua-mua-dong-nam-nay-20251117003749274.htm",
@@ -411,6 +761,16 @@ window.newsData_2025_11_17 = {
       "category": "Tổng hợp",
       "published": "2025-11-17T02:54:00+07:00",
       "fetched": "2025-11-17T10:13:52.318817+07:00"
+    },
+    {
+      "id": "827b02b0a435f3ec3809e4255c30ff3a",
+      "title": "Thành phố Mỹ chấn động vì đợt bắt bớ nhập cư mới",
+      "link": "https://vnexpress.net/thanh-pho-my-chan-dong-vi-dot-bat-bo-nhap-cu-moi-4964742.html",
+      "summary": "Đặc vụ biên phòng Mỹ mở chiến dịch truy quét nhập cư ở Charlotte, bắt hơn 80 người chỉ trong vài giờ, gây rúng động cư dân thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T02:53:27+07:00",
+      "fetched": "2025-11-17T11:24:00.824104+07:00"
     },
     {
       "id": "e586fd54459d7c2e69de78e8725840e9",
