@@ -1,7 +1,17 @@
 window.newsData_2025_11_18 = {
   "date": "2025-11-18",
-  "lastUpdated": "2025-11-18T01:25:03.123789+07:00",
+  "lastUpdated": "2025-11-18T03:20:08.447040+07:00",
   "articles": [
+    {
+      "id": "211532fb864a2f98ca96abf796725698",
+      "title": "Tôn vinh các điển hình học tập và làm theo phong cách Hồ Chí Minh khu vực phía Bắc",
+      "link": "https://tuoitre.vn/ton-vinh-cac-dien-hinh-hoc-tap-va-lam-theo-phong-cach-ho-chi-minh-khu-vuc-phia-bac-20251117230241954.htm",
+      "summary": "Các điển hình tiêu biểu trong học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh khu vực phía Bắc, năm 2025 đã có ngày giao lưu bổ ích tại Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T03:19:58.971198+07:00",
+      "fetched": "2025-11-18T03:19:58.971425+07:00"
+    },
     {
       "id": "340c989cefd8d231ebaed010cd0b5a2a",
       "title": "Người dân Huế đưa xe cộ lên cầu tránh lũ, công an khuyến cáo hành vi này nguy hiểm",
@@ -153,6 +163,46 @@ window.newsData_2025_11_18 = {
       "fetched": "2025-11-18T01:24:56.337528+07:00"
     },
     {
+      "id": "846f3a2389e0c71e31ecb45327d04aa7",
+      "title": "Hàng rong New York tấp nập trở lại sau khi bị ICE truy quét",
+      "link": "https://vnexpress.net/hang-rong-new-york-tap-nap-tro-lai-sau-khi-bi-ice-truy-quet-4964979.html",
+      "summary": "Phố Canal ở Chinatown, New York giờ đây tràn ngập người bán hàng rong, chưa đầy một tháng sau chiến dịch truy quét của ICE.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T20:00:00+07:00",
+      "fetched": "2025-11-18T03:20:00.878760+07:00"
+    },
+    {
+      "id": "eba7d3c75839630b70657a15d16da505",
+      "title": "Chờ Đoàn Văn Hậu tái xuất đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/cho-doan-van-hau-tai-xuat-doi-tuyen-viet-nam-18525111722165973.htm",
+      "summary": "Sau hơn một tháng kể từ lần tái xuất vỏn vẹn 15 phút trong trận CLB Công an Hà Nội đấu giao hữu với Hà Nội FC, hậu vệ trái Đoàn Văn Hậu tiếp tục mang đến tín hiệu tích cực khi được đá chính hơn 65 phút trước CLB chủ nhà Lion City Sailors (Singapore) vào cuối tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T19:03:00+07:00",
+      "fetched": "2025-11-18T03:19:57.902200+07:00"
+    },
+    {
+      "id": "85abcfb85edb21f33c0545ef2a3b12c6",
+      "title": "Doanh nghiệp Nhật cho nhuộm tóc, vẽ móng để hút lao động",
+      "link": "https://vnexpress.net/doanh-nghiep-nhat-cho-nhuom-toc-ve-mong-de-hut-lao-dong-4964986.html",
+      "summary": "Khó tìm lao động trẻ, một số doanh nghiệp nhỏ ở Nhật nới quy định tác phong như cho nhuộm tóc, vẽ móng để giành được nhân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T19:00:00+07:00",
+      "fetched": "2025-11-18T03:19:54.308308+07:00"
+    },
+    {
+      "id": "85abcfb85edb21f33c0545ef2a3b12c6",
+      "title": "Doanh nghiệp Nhật cho nhuộm tóc, vẽ móng để hút lao động",
+      "link": "https://vnexpress.net/doanh-nghiep-nhat-cho-nhuom-toc-ve-mong-de-hut-lao-dong-4964986.html",
+      "summary": "Khó tìm lao động trẻ, một số doanh nghiệp nhỏ ở Nhật nới quy định tác phong như cho nhuộm tóc, vẽ móng để giành được nhân sự.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-17T19:00:00+07:00",
+      "fetched": "2025-11-18T03:20:02.677130+07:00"
+    },
+    {
       "id": "64bd95999265f26425c5a7643d9d8d92",
       "title": "Thủ tướng đề nghị Quỹ Kuwait tăng hợp tác, đầu tư với Việt Nam",
       "link": "https://vnexpress.net/thu-tuong-de-nghi-quy-kuwait-tang-hop-tac-dau-tu-voi-viet-nam-4965143.html",
@@ -161,6 +211,36 @@ window.newsData_2025_11_18 = {
       "category": "Kinh doanh",
       "published": "2025-11-17T18:06:45+07:00",
       "fetched": "2025-11-18T01:24:58.590632+07:00"
+    },
+    {
+      "id": "13b63723c134dc74f2d8dfccd4804e79",
+      "title": "Overthinking - kẻ thù giấu mặt của phong độ đàn ông",
+      "link": "https://vnexpress.net/overthinking-ke-thu-giau-mat-cua-phong-do-dan-ong-4964529.html",
+      "summary": "Nhiều nam giới gặp tình trạng giảm ham muốn, khó duy trì cương không phải vì cơ thể yếu, mà do overthinking -suy nghĩ quá mức khiến não căng thẳng, ức chế phản xạ cương và khoái cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T18:02:00+07:00",
+      "fetched": "2025-11-18T03:19:54.308655+07:00"
+    },
+    {
+      "id": "dbbbfedba6be21f66a3d5d7f2abcca95",
+      "title": "Nỗi bất an của tài xế khi qua đèo Khánh Lê",
+      "link": "https://vnexpress.net/noi-bat-an-cua-tai-xe-khi-qua-deo-khanh-le-4965142.html",
+      "summary": "Hơn 30 km đèo Khánh Lê, với hàng trăm khúc cua, dốc cao và sạt lở thường trực là nỗi bất an của tài xế tuyến Nha Trang - Đà Lạt sau những vụ tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T17:52:28+07:00",
+      "fetched": "2025-11-18T03:19:54.308814+07:00"
+    },
+    {
+      "id": "158195902512af570468c24612e1615f",
+      "title": "Du khách hào hứng thi mò cua biển nhanh nhất",
+      "link": "https://vnexpress.net/du-khach-hao-hung-thi-mo-cua-bien-nhanh-nhat-4965147.html",
+      "summary": "Cuộc thi mò cua nhanh nhất nằm trong chuỗi sự kiện Ngày hội cua Cà Mau 20225, thu hút cả nghìn người theo dõi, đứng kín khu vực bể nhân tạo, cổ vũ các đội chơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T17:52:03+07:00",
+      "fetched": "2025-11-18T03:19:54.309005+07:00"
     },
     {
       "id": "128c75dd72ae07bb6ee10f578535b4eb",
