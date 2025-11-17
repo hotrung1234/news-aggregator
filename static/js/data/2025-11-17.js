@@ -1,7 +1,157 @@
 window.newsData_2025_11_17 = {
   "date": "2025-11-17",
-  "lastUpdated": "2025-11-17T05:15:27.170131+07:00",
+  "lastUpdated": "2025-11-17T08:19:52.563105+07:00",
   "articles": [
+    {
+      "id": "b1a13abfbdf4521dd6303df06d64c841",
+      "title": "Tin tức sáng 17-11: Đề xuất 9 nhóm giấy tờ không phải mang đi khi làm thủ tục hành chính",
+      "link": "https://tuoitre.vn/tin-tuc-sang-17-11-de-xuat-9-nhom-giay-to-khong-phai-mang-di-khi-lam-thu-tuc-hanh-chinh-20251116213235483.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội thảo luận sửa đổi, bổ sung một số điều ở 10 luật liên quan an ninh, trật tự; Đề xuất 9 nhóm giấy tờ người dân không phải mang theo khi làm thủ tục hành chính...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404983+07:00",
+      "fetched": "2025-11-17T08:19:46.405099+07:00"
+    },
+    {
+      "id": "dabf8e60726ebb470d0c7a421509b39f",
+      "title": "Lê Quang Liêm lập cột mốc lịch sử cho cờ vua Việt Nam",
+      "link": "https://tuoitre.vn/le-quang-liem-lap-cot-moc-lich-su-cho-co-vua-viet-nam-20251117003938708.htm",
+      "summary": "Đại kiện tướng Lê Quang Liêm đã khép lại hành trình World Cup cờ vua 2025 đầy cảm xúc. Anh rời giải đấu sau khi thiết lập một cột mốc lịch sử cho cờ vua nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404831+07:00",
+      "fetched": "2025-11-17T08:19:46.404970+07:00"
+    },
+    {
+      "id": "7b27e17b9ec98eb126afd96178311839",
+      "title": "Vùi dập Ý, Haaland lấy vé cho Na Uy dự World Cup",
+      "link": "https://tuoitre.vn/vui-dap-y-haaland-lay-ve-cho-na-uy-du-world-cup-20251117055427214.htm",
+      "summary": "Rạng sáng 17-11, Haaland cùng tuyển Na Uy đã vùi dập đội tuyển Ý với tỉ số 4-1 và chính thức góp mặt ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404704+07:00",
+      "fetched": "2025-11-17T08:19:46.404816+07:00"
+    },
+    {
+      "id": "f9e793f19b5d019b503f7041befb8022",
+      "title": "Tin tức thế giới 17-11: Đội tàu sân bay Mỹ đã vào biển Caribê; Pháp nhờ Nga xử lý uranium",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-17-11-doi-tau-san-bay-my-da-vao-bien-caribe-phap-nho-nga-xu-ly-uranium-20251116225556812.htm",
+      "summary": "Mỹ hy vọng hoàn tất thỏa thuận đất hiếm với Trung Quốc trước Lễ Tạ ơn; Pháp đang gửi uranium tái chế sang Nga để xử lý nhằm tái sử dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404583+07:00",
+      "fetched": "2025-11-17T08:19:46.404693+07:00"
+    },
+    {
+      "id": "fb574e7d206b2941c6a7d52909edea74",
+      "title": "Không Ronaldo, Bồ Đào Nha thắng đậm 9-1 và có vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/khong-ronaldo-bo-dao-nha-thang-dam-9-1-va-co-ve-du-world-cup-2026-20251117061627486.htm",
+      "summary": "Trong ngày mà đội trưởng Cristiano Ronaldo không thể thi đấu, Bồ Đào Nha lại tạo ra được trận thắng đậm nhất vòng loại của họ và chính thức góp mặt ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404460+07:00",
+      "fetched": "2025-11-17T08:19:46.404571+07:00"
+    },
+    {
+      "id": "ece5d8140e8de684f38ef4118474580e",
+      "title": "Đất đá đèo Khánh Lê đổ trúng xe khách FUTA, bước đầu ghi nhận 6 người tử vong",
+      "link": "https://tuoitre.vn/dat-da-deo-khanh-le-do-trung-xe-khach-futa-buoc-dau-ghi-nhan-6-nguoi-tu-vong-20251117062439376.htm",
+      "summary": "Hiện lực lượng chức năng đang tiếp tục phong tỏa hiện trường, giải cứu các nạn nhân bị mắc kẹt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404339+07:00",
+      "fetched": "2025-11-17T08:19:46.404449+07:00"
+    },
+    {
+      "id": "c4072739a8af0c44a8e9357f93f8be6c",
+      "title": "Truy tìm long diên hương thống trị phòng vé, vượt mốc 50 tỉ đồng",
+      "link": "https://tuoitre.vn/truy-tim-long-dien-huong-thong-tri-phong-ve-vuot-moc-50-ti-dong-20251116115108373.htm",
+      "summary": "Loạt phim Việt đang có doanh thu ảm đạm sau cơn sốt của Mưa đỏ và Tử chiến trên không, nhưng Truy tìm long diên hương mang đến hy vọng mới khi đạt hơn 50 tỉ đồng doanh thu mở màn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404215+07:00",
+      "fetched": "2025-11-17T08:19:46.404328+07:00"
+    },
+    {
+      "id": "02d3c7818f63fd6cd3a6a6e19c769cee",
+      "title": "Nghệ sĩ cải lương tuồng cổ Bửu Khánh, em trai nghệ sĩ Bửu Truyện qua đời",
+      "link": "https://tuoitre.vn/nghe-si-cai-luong-tuong-co-buu-khanh-em-trai-nghe-si-buu-truyen-qua-doi-2025111706023516.htm",
+      "summary": "Nghệ sĩ hát bội Ngọc Khanh đau buồn thông tin nghệ sĩ Bửu Khánh đã qua đời lúc 23h06 khuya 16-11 tại Huế. Ông Bửu Khánh là một trong những nghệ sĩ cải lương tuồng cổ kỳ cựu của miền Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.404085+07:00",
+      "fetched": "2025-11-17T08:19:46.404203+07:00"
+    },
+    {
+      "id": "07873c88c36364b400e63bba4b88c80d",
+      "title": "'Ở đây ai cũng thương con' trong Anh trai say hi làm nghệ sĩ khóc trôi cả phấn",
+      "link": "https://tuoitre.vn/o-day-ai-cung-thuong-con-trong-anh-trai-say-hi-lam-nghe-si-khoc-troi-ca-phan-20251116235521408.htm",
+      "summary": "Tiết mục Ở đây ai cũng thương con trong phần cuối tập 10 Anh trai say hi gây xúc động mạnh với khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403956+07:00",
+      "fetched": "2025-11-17T08:19:46.404073+07:00"
+    },
+    {
+      "id": "32c2bb2ff11802a90a3ca75e0462d2f5",
+      "title": "Phê duyệt Chiến lược phát triển các ngành công nghiệp văn hóa Việt Nam",
+      "link": "https://tuoitre.vn/phe-duyet-chien-luoc-phat-trien-cac-nganh-cong-nghiep-van-hoa-viet-nam-20251117065739523.htm",
+      "summary": "Thủ tướng Phạm Minh Chính ký Quyết định số 2486 phê duyệt Chiến lược phát triển các ngành công nghiệp văn hóa Việt Nam đến năm 2030, tầm nhìn đến năm 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403808+07:00",
+      "fetched": "2025-11-17T08:19:46.403942+07:00"
+    },
+    {
+      "id": "ea23d4c6d086b782a1b2e87b19bb4448",
+      "title": "Soobin hay Jay Park: Ai là nam thần quyến rũ đỉnh nhất Waterbomb 2025?",
+      "link": "https://tuoitre.vn/soobin-hay-jay-park-ai-la-nam-than-quyen-ru-dinh-nhat-waterbomb-2025-20251117004858137.htm",
+      "summary": "Những cột nước khổng lồ phun trào, pháo nước và súng nước từ khán giả đồng loạt \"quét\" qua sân khấu khiến ai ai cũng phấn khích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403680+07:00",
+      "fetched": "2025-11-17T08:19:46.403797+07:00"
+    },
+    {
+      "id": "06eb8c1690f1efb0d20dda5934211a83",
+      "title": "Doanh thu của C.P. ở Việt Nam 'hụt hơi', ở Trung Quốc lại tăng trưởng mạnh",
+      "link": "https://tuoitre.vn/doanh-thu-cua-c-p-o-viet-nam-hut-hoi-o-trung-quoc-lai-tang-truong-manh-2025111622351021.htm",
+      "summary": "Doanh thu từ thị trường Việt Nam của CP Foods trong quý 3-2025 chỉ đạt 22,8 tỉ baht (tương đương khoảng 18.500 tỉ đồng), giảm 20% so với cùng kỳ năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403543+07:00",
+      "fetched": "2025-11-17T08:19:46.403668+07:00"
+    },
+    {
+      "id": "a9e7c42465e336917648a217384702b2",
+      "title": "Đặc vụ Mỹ bắt 81 người nhập cư chỉ trong vài giờ ở một thành phố",
+      "link": "https://tuoitre.vn/dac-vu-my-bat-81-nguoi-nhap-cu-chi-trong-vai-gio-o-mot-thanh-pho-20251117070628578.htm",
+      "summary": "Các đặc vụ liên bang đã bắt giữ ít nhất 81 người tại thành phố Charlotte, bang North Carolina của Mỹ vào cuối tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403409+07:00",
+      "fetched": "2025-11-17T08:19:46.403531+07:00"
+    },
+    {
+      "id": "a2dd268274913188289e60e61c0c45bd",
+      "title": "Honda CR-V e:HEV 2026 sắp bán tại Việt Nam, thêm bản giá rẻ cho người thích hybrid?",
+      "link": "https://tuoitre.vn/honda-cr-v-e-hev-2026-sap-ban-tai-viet-nam-them-ban-gia-re-cho-nguoi-thich-hybrid-20251116164651151.htm",
+      "summary": "Honda CR-V e:HEV 2026 dự kiến bổ sung phiên bản L có giá bán thấp hơn, bắt đầu mở bán từ tháng 2-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403269+07:00",
+      "fetched": "2025-11-17T08:19:46.403396+07:00"
+    },
+    {
+      "id": "1d093878569b45ee170462a76d9dc2c1",
+      "title": "Miền Trung tiếp tục mưa lớn ba ngày tới, có nơi trên 850mm, lũ ở Huế đang lên",
+      "link": "https://tuoitre.vn/mien-trung-tiep-tuc-mua-lon-ba-ngay-toi-co-noi-tren-850mm-lu-o-hue-dang-len-20251117070439955.htm",
+      "summary": "Do mưa lớn nên sáng sớm nay, lũ trên sông Hương, sông Bồ ở Huế đang lên. Dự báo mưa lớn ở miền Trung còn kéo dài tới ngày 21-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T08:19:46.403047+07:00",
+      "fetched": "2025-11-17T08:19:46.403253+07:00"
+    },
     {
       "id": "a764ac97a2ebeaa4f365fcc74a197b66",
       "title": "Ukraine mua khí đốt Mỹ để vượt qua mùa đông năm nay",
@@ -183,6 +333,396 @@ window.newsData_2025_11_17 = {
       "fetched": "2025-11-17T01:21:55.976798+07:00"
     },
     {
+      "id": "19ccc933f620108c75e7dda6406bbffb",
+      "title": "Hà Nội: Bùn nhão tràn trên phố, nhiều xe máy ngã dúi dụi",
+      "link": "https://thanhnien.vn/ha-noi-bun-nhao-tran-tren-pho-nhieu-xe-may-nga-dui-dui-185251117075602156.htm",
+      "summary": "Bùn nhão bất ngờ xuất hiện trên phố Tôn Đức Thắng (Hà Nội) khiến nhiều người đi xe máy ngang qua bị trượt, ngã dúi dụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:18:00+07:00",
+      "fetched": "2025-11-17T08:19:45.547477+07:00"
+    },
+    {
+      "id": "9a46f130be74d1811dbbb988e50146b6",
+      "title": "Huế kích hoạt còi báo động, nhiều nơi ngập lụt trở lại",
+      "link": "https://thanhnien.vn/hue-kich-hoat-coi-bao-dong-nhieu-noi-ngap-lut-tro-lai-185251117073801282.htm",
+      "summary": "Mưa lớn đã khiến nhiều nơi tại TP.Huế ngập lụt trở lại. Sáng nay 17.11, địa phương này đã kích hoạt hàng loạt còi hú báo động thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:15:00+07:00",
+      "fetched": "2025-11-17T08:19:45.547644+07:00"
+    },
+    {
+      "id": "e17bdf2a3c0851a967eabba18768b7a1",
+      "title": "Giây phút con lợn vô tình cứu mạng binh sĩ Nga",
+      "link": "https://vnexpress.net/giay-phut-con-lon-vo-tinh-cuu-mang-binh-si-nga-4964515.html",
+      "summary": "Một con lợn kích hoạt mìn chống bộ binh chỉ cách quân nhân Nga vài bước chân, giúp họ tránh được thương vong khi di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:13:33+07:00",
+      "fetched": "2025-11-17T08:19:42.343083+07:00"
+    },
+    {
+      "id": "391d908114e7ff8b383b6f511ce95a59",
+      "title": "40 năm Báo Thanh Niên - Khởi đầu: Những người mở đường",
+      "link": "https://thanhnien.vn/40-nam-bao-thanh-nien-khoi-dau-nhung-nguoi-mo-duong-185251116175035915.htm",
+      "summary": "Ngày 3 tháng 1 năm 1986, Báo Thanh Niên chính thức phát hành số đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:09:00+07:00",
+      "fetched": "2025-11-17T08:19:45.547799+07:00"
+    },
+    {
+      "id": "9cc013a21c3c64454de18937ee17ba1c",
+      "title": "Chủ tịch Vĩnh Long được giới thiệu để bầu làm Chủ tịch Cà Mau",
+      "link": "https://vnexpress.net/chu-tich-vinh-long-duoc-gioi-thieu-de-bau-lam-chu-tich-ca-mau-4964671.html",
+      "summary": "Chủ tịch UBND tỉnh Vĩnh Long Lữ Quang Ngời, được Ban Bí thư điều động giữ chức Phó bí thư Tỉnh ủy Cà Mau và giới thiệu để HĐND bầu làm Chủ tịch nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:04:01+07:00",
+      "fetched": "2025-11-17T08:19:42.343269+07:00"
+    },
+    {
+      "id": "a843c8e5d4a73ee3732241a7b48f9514",
+      "title": "Ngư dân sung sướng vì bắt được cá nặng 200 kg ở Thái Lan",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ngu-dan-bat-duoc-ca-nang-200-kg-o-thai-lan-4961111.html",
+      "summary": "Một nhóm cần thủ đã bắt được một con cá trê nặng 200 kg trong một buổi đánh bắt tập thể ở tỉnh Khon Kaen, Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.343436+07:00"
+    },
+    {
+      "id": "c71a3b4661d92daaa75eaa141040b8b6",
+      "title": "5 xe gầm thấp bàn giao nhiều nhất tháng 10",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-thap-ban-giao-nhieu-nhat-thang-10-4964539.html",
+      "summary": "Toyota Vios giữ ngôi đầu bảng xếp hạng doanh số với 1.402 xe, Honda City tiếp nối với 1.287 xe, Hyundai Accent xếp thứ ba với 609 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.343598+07:00"
+    },
+    {
+      "id": "ba6c615eabe978fb27977f093c1f8cc2",
+      "title": "Rối loạn nhịp tim do hội chứng suy nút xoang",
+      "link": "https://vnexpress.net/roi-loan-nhip-tim-do-hoi-chung-suy-nut-xoang-4964691.html",
+      "summary": "Bà Quỳnh, 71 tuổi, thường chóng mặt, mệt mỏi tưởng rối loạn tiền đình, đi khám bác sĩ chẩn đoán bà bị hội chứng suy nút xoang khiến nhịp tim bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.343755+07:00"
+    },
+    {
+      "id": "e73763966c9e83a8c75fc83bc3b235e6",
+      "title": "Dương Lệ Bình lần đầu biểu diễn tại Việt Nam",
+      "link": "https://vnexpress.net/duong-le-binh-lan-dau-bieu-dien-tai-viet-nam-4964644.html",
+      "summary": "Dương Lệ Bình, \"Chim công làng múa\" Trung Quốc, sẽ diễn bốn suất đặc biệt tại Nhà hát Hồ Gươm vào tháng 3/2026, trong lần đầu đến Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.343948+07:00"
+    },
+    {
+      "id": "075ed0d032369e5de0177e896794111b",
+      "title": "Ba 'ông lớn' kiến trúc quốc tế thi thiết kế sân bay Gia Bình",
+      "link": "https://vnexpress.net/ba-ong-lon-kien-truc-quoc-te-thi-thiet-ke-san-bay-gia-binh-4964516.html",
+      "summary": "Gensler, SOM (Mỹ) và Nikken Sekkei (Nhật Bản) đã giới thiệu các phương án thiết kế nhà ga hành khách sân bay Gia Bình trong vòng trình bày ngày 8/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.344133+07:00"
+    },
+    {
+      "id": "1f57af64129b41bed295a436c760c236",
+      "title": "Meygroup phát triển hệ thống giáo dục, giải trí tại Phú Quốc, Hà Nội",
+      "link": "https://vnexpress.net/meygroup-phat-trien-he-thong-giao-duc-giai-tri-tai-phu-quoc-ha-noi-4964380.html",
+      "summary": "Meygroup, thành viên Tập đoàn Tân Á Đại Thành, cùng các đối tác triển khai hệ thống giáo dục, khu vui chơi, giải trí cao cấp tại Phú Quốc, Hà Nội, ngày 14/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.344293+07:00"
+    },
+    {
+      "id": "b48fdf13ce38d39bc220c63e5d149dd3",
+      "title": "DNSE tổ chức sự kiện công nghệ Future Tech Summit 2025",
+      "link": "https://vnexpress.net/dnse-to-chuc-su-kien-cong-nghe-future-tech-summit-2025-4964343.html",
+      "summary": "DNSE Future Tech Summit 2025 dự kiến diễn ra ngày 21/11 tại TP HCM, nhằm cập nhật công nghệ và xu hướng giao dịch mới, trong bối cảnh thị trường chuẩn bị triển khai T+0 và bán chứng khoán chờ về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.344461+07:00"
+    },
+    {
+      "id": "f446d30b366624290fb939b481b2a9f1",
+      "title": "Bánh ép Gia Di - từ món vặt đến đặc sản Huế suốt 40 năm",
+      "link": "https://vnexpress.net/banh-ep-gia-di-tu-mon-vat-den-dac-san-hue-suot-40-nam-4956746.html",
+      "summary": "Bánh bột lọc ép nóng là món ăn tuổi thơ xứ Huế, được Lê Thị Di phát triển thành thương hiệu rồi mở bán rộng rãi qua GrabFood, tiếp cận khách du lịch, bán hơn 7.000 chiếc mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:42.344621+07:00"
+    },
+    {
+      "id": "2ac4bc1b8db4c2b8c7fcb2607e6e9348",
+      "title": "Hoa hậu Sinh viên Việt Nam 2025: Chưa vội thẩm mỹ, lấn sân làng giải trí",
+      "link": "https://thanhnien.vn/hoa-hau-sinh-vien-viet-nam-2025-chua-voi-tham-my-lan-san-lang-giai-tri-185251117070320355.htm",
+      "summary": "Sau gần 2 tháng đăng quang Hoa hậu Sinh viên Việt Nam 2025, Hoàng Ngọc Như vừa trở lại Trường đại học Công nghiệp TP.HCM (IUH) để thực hiện dự án trao học bổng cho các sinh viên có hoàn cảnh khó khăn. Nhân buổi gặp gỡ truyền thông, người đẹp 22 tuổi chia sẻ những thay đổi sau khi đăng quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.547974+07:00"
+    },
+    {
+      "id": "e2c15dd89c49ee5e0b69a18ffb02a99e",
+      "title": "Chuyện giáo sư Việt Nam được nhập tịch Hàn Quốc: Có phải chảy máu chất xám?",
+      "link": "https://thanhnien.vn/chuyen-giao-su-viet-nam-duoc-nhap-tich-han-quoc-co-phai-chay-mau-chat-xam-185251116165138149.htm",
+      "summary": "Từ câu chuyện giáo sư Nguyễn Xuân Mừng, hiện công tác tại Khoa Kỹ thuật Hàng không - Vũ trụ, ĐH Sejong (Hàn Quốc), trở thành một trong những học giả tiêu biểu được nhập quốc tịch Hàn Quốc theo chương trình cấp quyền công dân cho nhân tài xuất sắc khiến bạn trẻ Việt Nam đã tranh luận sôi nổi về vấn đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548133+07:00"
+    },
+    {
+      "id": "b2a3b04f49f1f0569bfad2ad6b042221",
+      "title": "Điều tạo nên sự khác biệt trong mô hình sản xuất tại CPV Food Bình Phước",
+      "link": "https://thanhnien.vn/dieu-tao-nen-su-khac-biet-trong-mo-hinh-san-xuat-tai-cpv-food-binh-phuoc-185251116163607561.htm",
+      "summary": "CPV Food Bình Phước đạt cột mốc xuất khẩu 10,000 tấn gà chế biến sang được thị trường khó tính là Nhật Bản. Doanh nghiệp đặt mục tiêu nâng cao vị thế của thực phẩm sản xuất tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548287+07:00"
+    },
+    {
+      "id": "85869008d0015d3290e8a5ed890afed8",
+      "title": "Van Phuc City - biểu tượng sống di sản bên sông Sài Gòn",
+      "link": "https://thanhnien.vn/van-phuc-city-bieu-tuong-song-di-san-ben-song-sai-gon-185251116162124989.htm",
+      "summary": "Có những nơi được sinh ra để trở thành huyền thoại. Van Phuc City không phải là một khu đô thị đơn thuần, đây là một di sản được chạm khắc bằng tầm nhìn vĩnh cửu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548437+07:00"
+    },
+    {
+      "id": "7662b05c4d59bb53460efce5cfef36c0",
+      "title": "China Airlines tung nhiều ưu đãi dịp cuối năm",
+      "link": "https://thanhnien.vn/china-airlines-tung-nhieu-uu-dai-dip-cuoi-nam-1852511161557333.htm",
+      "summary": "Cuối năm luôn là giai đoạn hành khách Việt có nhu cầu di chuyển quốc tế lớn phục vụ các mục đích du lịch, du học, công tác hay thăm thân. Dữ liệu từ thị trường cho thấy xu hướng này qua các năm không giảm và luôn tăng rõ rệt vào mỗi dịp cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548586+07:00"
+    },
+    {
+      "id": "4f9325d3be8359f36030ba4a2a45bc83",
+      "title": "Đẹp từ công sở đến đường phố với đầm cổ sen, váy sơ mi",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dep-tu-cong-so-den-duong-pho-voi-dam-co-sen-vay-so-mi-185251111103336327.htm",
+      "summary": "Đầm cổ sen, váy sơ mi là những thiết kế váy liền đứng đầu về các tiêu chí linh hoạt, năng động, trẻ trung và thanh lịch. Tuy có sự khác biệt nhỏ ở phần cấu trúc cổ bẻ nhưng tựu chung, hai kiểu váy dài này đều có thể trở thành lựa chọn ưu tiên cho tủ đồ mùa đông 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T01:00:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548733+07:00"
+    },
+    {
+      "id": "523aca1f4176fa04f7f5b1e6edc917d2",
+      "title": "Lũ sông Bồ ở Huế vượt báo động ba",
+      "link": "https://vnexpress.net/lu-song-bo-o-hue-vuot-bao-dong-ba-4964692.html",
+      "summary": "Mưa lớn hai ngày nay khiến lũ các sông miền Trung lên cao, trong đó sông Bồ tại TP Huế vượt báo ba, gây ngập một số vùng ven sông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:59:27+07:00",
+      "fetched": "2025-11-17T08:19:42.344775+07:00"
+    },
+    {
+      "id": "a8fa02ea7e6912f17a65cd487de4da98",
+      "title": "Trao 400 phần quà hỗ trợ người dân vùng rốn lũ TP.Đà Nẵng",
+      "link": "https://thanhnien.vn/trao-400-phan-qua-ho-tro-nguoi-dan-vung-ron-lu-tpda-nang-185251116210623495.htm",
+      "summary": "Ngày 15.11, qua kết nối của Báo Thanh Niên, các nhóm thiện nguyện An Việt, Đi và Yêu tại TP.HCM đã trao 400 phần quà cho người dân thôn An Lợi Tây, xã Đại Lộc, TP.Đà Nẵng, chia sẻ phần nào với bà con sau trận lũ lịch sử vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:59:00+07:00",
+      "fetched": "2025-11-17T08:19:45.548879+07:00"
+    },
+    {
+      "id": "ab85d970b39c54d70ca44e2e232db7ce",
+      "title": "Thấp thỏm qua cầu dân sinh xuống cấp",
+      "link": "https://thanhnien.vn/thap-thom-qua-cau-dan-sinh-xuong-cap-185251114201040578.htm",
+      "summary": "Hai cây cầu dân sinh bắc qua sông Thống Nhất (đoạn qua P.Quảng Phú, tỉnh Thanh Hóa) có tuổi đời hơn 50 năm, đã xuống cấp nghiêm trọng nhưng mỗi ngày hàng trăm lượt học sinh, người dân vẫn phải qua lại trong lo âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:59:00+07:00",
+      "fetched": "2025-11-17T08:19:45.549043+07:00"
+    },
+    {
+      "id": "f4ff794d57bdad6d5622c23751b2e793",
+      "title": "500 triệu đồng học bổng Nguyễn Thái Bình - Báo Thanh Niên cho học sinh miền Trung",
+      "link": "https://thanhnien.vn/500-trieu-dong-hoc-bong-nguyen-thai-binh-bao-thanh-nien-cho-hoc-sinh-mien-trung-185251116211058927.htm",
+      "summary": "Quỹ Di sản cho tương lai vừa trao tặng số tiền 500 triệu đồng thông qua học bổng Nguyễn Thái Bình - Báo Thanh Niên dành cho học sinh vùng bão lũ miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:58:00+07:00",
+      "fetched": "2025-11-17T08:19:45.549190+07:00"
+    },
+    {
+      "id": "f8c087d2ab9c64d48a1b6c24819f7a71",
+      "title": "Iran gieo mây đối phó hạn hán tồi tệ nhất nhiều thập kỷ",
+      "link": "https://vnexpress.net/iran-gieo-may-doi-pho-han-han-toi-te-nhat-nhieu-thap-ky-4964679.html",
+      "summary": "Giới chức Iran bắt đầu \"gieo mây\" tại một số khu vực để tăng lượng mưa, khi nước này đối mặt đợt khô hạn tệ nhất hàng chục năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:57:49+07:00",
+      "fetched": "2025-11-17T08:19:42.344952+07:00"
+    },
+    {
+      "id": "f8c087d2ab9c64d48a1b6c24819f7a71",
+      "title": "Iran gieo mây đối phó hạn hán tồi tệ nhất nhiều thập kỷ",
+      "link": "https://vnexpress.net/iran-gieo-may-doi-pho-han-han-toi-te-nhat-nhieu-thap-ky-4964679.html",
+      "summary": "Giới chức Iran bắt đầu \"gieo mây\" tại một số khu vực để tăng lượng mưa, khi nước này đối mặt đợt khô hạn tệ nhất hàng chục năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T00:57:49+07:00",
+      "fetched": "2025-11-17T08:19:47.636505+07:00"
+    },
+    {
+      "id": "4177437862bdb458c9fda4925a7fdf3a",
+      "title": "Iran nêu điều kiện tái đàm phán hạt nhân với Mỹ",
+      "link": "https://thanhnien.vn/iran-neu-dieu-kien-tai-dam-phan-hat-nhan-voi-my-185251117074137474.htm",
+      "summary": "Ngoại trưởng Iran Abbas Araghchi tuyên bố Tehran sẵn sàng nối lại đàm phán hạt nhân với Washington nếu quá trình này được tiến hành 'một cách tôn trọng và đàng hoàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:47:00+07:00",
+      "fetched": "2025-11-17T08:19:45.549341+07:00"
+    },
+    {
+      "id": "d7bc89d008af9baf51d72fc8713e3663",
+      "title": "Cõng con vượt lũ đi chữa bệnh",
+      "link": "https://vnexpress.net/cong-con-vuot-lu-di-chua-benh-4964392.html",
+      "summary": "Bị cô lập nhiều ngày trong lũ, con trai 2 tuổi lại sốt cao, chị Thanh đành cõng con sau lưng, lội nước ngập ngang người ra quốc lộ, bắt xe vào Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:46:47+07:00",
+      "fetched": "2025-11-17T08:19:42.345114+07:00"
+    },
+    {
+      "id": "0f9669c7b04e95fc6f3df84e41d25336",
+      "title": "Chợ Rẫy dùng robot khử khuẩn phòng mổ",
+      "link": "https://vnexpress.net/cho-ray-dung-robot-khu-khuan-phong-mo-4964642.html",
+      "summary": "Bệnh viện Chợ Rẫy sử dụng hai robot khử khuẩn UV cho phòng mổ và khu ghép tạng, phòng pha chế thuốc, giúp rút thời gian chuẩn bị từ vài giờ xuống 10-15 phút và tăng an toàn kiểm soát nhiễm khuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:44:07+07:00",
+      "fetched": "2025-11-17T08:19:42.345267+07:00"
+    },
+    {
+      "id": "95bfedfa4b812402cd56ba944153d26f",
+      "title": "Khánh Hòa: Sạt lở đèo Khánh Sơn khiến 1 người chết, 1 người mất tích",
+      "link": "https://thanhnien.vn/khanh-hoa-sat-lo-deo-khanh-son-khien-1-nguoi-chet-1-nguoi-mat-tich-185251117071554319.htm",
+      "summary": "Sạt lở đèo Khánh Sơn (Khánh Hòa) khiến 3 người bị vùi lấp, trong đó 1 người đã tử vong và 1 người đang mất tích trên tuyến đường huyết mạch vào huyện miền núi Khánh Sơn (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:42:00+07:00",
+      "fetched": "2025-11-17T08:19:45.549491+07:00"
+    },
+    {
+      "id": "53b56e4687c8398979d2ea03efe25977",
+      "title": "Ca sĩ từng làm lái tàu, đổi đời nhờ cuộc gặp định mệnh với NSƯT Vũ Linh",
+      "link": "https://thanhnien.vn/ca-si-tung-lam-lai-tau-doi-doi-nho-cuoc-gap-dinh-menh-voi-nsut-vu-linh-185251117010522941.htm",
+      "summary": "Trước khi bén duyên với nghệ thuật, Lâm Hùng từng làm công việc lái tàu. Chính cuộc gặp với NSƯT Vũ Linh đã giúp cuộc đời của anh như được sang trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:42:00+07:00",
+      "fetched": "2025-11-17T08:19:45.549635+07:00"
+    },
+    {
+      "id": "4940e0a76e4b2194e94fa905d0728333",
+      "title": "Công ty robot hình người của nhà sáng lập 'bí ẩn' sinh năm 2004",
+      "link": "https://vnexpress.net/cong-ty-robot-hinh-nguoi-cua-nha-sang-lap-bi-an-sinh-nam-2004-4964543.html",
+      "summary": "RoboParty, công ty robot hình người nguồn mở, hiện nhận sự quan tâm lớn dù mới được Huang Yi, 21 tuổi, sáng lập hồi tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T00:32:30+07:00",
+      "fetched": "2025-11-17T08:19:42.345429+07:00"
+    },
+    {
+      "id": "4940e0a76e4b2194e94fa905d0728333",
+      "title": "Công ty robot hình người của nhà sáng lập 'bí ẩn' sinh năm 2004",
+      "link": "https://vnexpress.net/cong-ty-robot-hinh-nguoi-cua-nha-sang-lap-bi-an-sinh-nam-2004-4964543.html",
+      "summary": "RoboParty, công ty robot hình người nguồn mở, hiện nhận sự quan tâm lớn dù mới được Huang Yi, 21 tuổi, sáng lập hồi tháng 4.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-17T00:32:30+07:00",
+      "fetched": "2025-11-17T08:19:51.303713+07:00"
+    },
+    {
+      "id": "4c920e0c75cce760cf36ad61958135f9",
+      "title": "Chủ tịch Hạ viện Mỹ ủng hộ sớm công khai hồ sơ Epstein",
+      "link": "https://vnexpress.net/chu-tich-ha-vien-my-ung-ho-som-cong-khai-ho-so-epstein-4964682.html",
+      "summary": "Chủ tịch Hạ viện Mỹ khẳng định công khai hồ sơ về tỷ phú ấu dâm Epstein sẽ chấm dứt mọi giả thuyết liên quan đến Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T00:17:46+07:00",
+      "fetched": "2025-11-17T08:19:47.636679+07:00"
+    },
+    {
+      "id": "39600368381ef01a2a0ed65d2a9303ae",
+      "title": "Siêu tàu sân bay Mỹ tiến vào biển Caribe",
+      "link": "https://vnexpress.net/sieu-tau-san-bay-my-tien-vao-bien-caribe-4964676.html",
+      "summary": "Nhóm tàu sân bay Gerald R. Ford hiện diện ở vùng biển Caribe, hỗ trợ chiến dịch chống tội phạm ma túy mà Washington phát động tại khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T23:51:46+07:00",
+      "fetched": "2025-11-17T08:19:47.636842+07:00"
+    },
+    {
+      "id": "5f99e3677dee7b2f5f54f99537115e8a",
+      "title": "Haaland: 'Giành vé World Cup mới là khởi đầu của điều gì đó lớn lao'",
+      "link": "https://vnexpress.net/haaland-gianh-ve-world-cup-moi-la-khoi-dau-cua-dieu-gi-do-lon-lao-4964678.html",
+      "summary": "Tiền đạo Erling Haaland tin Na Uy sẽ tiếp tục gặt hái thành công, sau khi thắng ngược Italy 4-1 để giành vé dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T23:32:05+07:00",
+      "fetched": "2025-11-17T08:19:52.557909+07:00"
+    },
+    {
+      "id": "f1eb5b75170b9478b733a37a6bb64772",
+      "title": "HLV Martinez: 'Bồ Đào Nha mạnh hơn khi có Ronaldo'",
+      "link": "https://vnexpress.net/hlv-martinez-bo-dao-nha-manh-hon-khi-co-ronaldo-4964670.html",
+      "summary": "HLV Roberto Martinez không cho rằng chiến thắng 9-1 của Bồ Đào Nha trước Armenia ở vòng loại World Cup là vì không có đội trưởng Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T23:24:16+07:00",
+      "fetched": "2025-11-17T08:19:52.557261+07:00"
+    },
+    {
+      "id": "764727732cc0244d75515b6688752b53",
+      "title": "Tuyển Anh toàn thắng tuyệt đối ở vòng loại World Cup",
+      "link": "https://vnexpress.net/tuyen-anh-toan-thang-tuyet-doi-o-vong-loai-world-cup-4964672.html",
+      "summary": "Chiến thắng 2-0 trước Albania giúp Anh trở thành đội châu Âu đầu tiên trong lịch sử vượt qua vòng loại World Cup với 8 trận toàn thắng và không để thủng lưới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T23:21:41+07:00",
+      "fetched": "2025-11-17T08:19:52.557433+07:00"
+    },
+    {
+      "id": "420e9533e2b40ca3a2f77b98391b20c6",
+      "title": "Sản xuất hé lộ 'cửa sáng' cuối năm",
+      "link": "https://vnexpress.net/san-xuat-he-lo-cua-sang-cuoi-nam-4964093.html",
+      "summary": "Sản xuất có tín hiệu ổn định và triển vọng vào cuối năm, nhưng chuyên gia cảnh báo còn rủi ro giảm sức mua từ Mỹ và giá đầu vào tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-16T23:00:00+07:00",
+      "fetched": "2025-11-17T08:19:49.209341+07:00"
+    },
+    {
+      "id": "08c8a2fe7fbe581bdd27b3f6bcb2783e",
+      "title": "Haaland giúp Na Uy đè bẹp Italy, giành vé dự World Cup 2026",
+      "link": "https://vnexpress.net/haaland-giup-na-uy-de-bep-italy-gianh-ve-du-world-cup-2026-4964674.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp trong một phút giúp Na Uy thắng ngược 4-1 trên sân Italy ở lượt cuối và giành nhất bảng I vòng loại World Cup 2026 khu vực châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T22:39:05+07:00",
+      "fetched": "2025-11-17T08:19:52.558083+07:00"
+    },
+    {
       "id": "70843aede76ad699504edca57c6c887e",
       "title": "Kỳ thủ Lê Tuấn Minh hứa hẹn tỏa sáng ở SEA Games 33",
       "link": "https://thanhnien.vn/ky-thu-le-tuan-minh-hua-hen-toa-sang-o-sea-games-33-185251116220136452.htm",
@@ -231,6 +771,16 @@ window.newsData_2025_11_17 = {
       "category": "Công nghệ",
       "published": "2025-11-16T22:00:00+07:00",
       "fetched": "2025-11-17T05:15:26.139944+07:00"
+    },
+    {
+      "id": "0e5a0bb1d35622f8f125edd04ec23626",
+      "title": "Cuộc sống khi giá tăng theo ngày ở Venezuela",
+      "link": "https://vnexpress.net/cuoc-song-khi-gia-tang-theo-ngay-o-venezuela-4964324.html",
+      "summary": "Đồng bolivar mất giá, thiếu nguồn cung USD, mức lạm phát dự đoán lên tới 548% khiến ví tiền của người dân Venezuela ngày càng mỏng đi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T08:19:47.637023+07:00"
     },
     {
       "id": "82b2ce55fbd8463683a1611cbd5729fa",
