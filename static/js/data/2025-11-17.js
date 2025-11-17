@@ -1,7 +1,157 @@
 window.newsData_2025_11_17 = {
   "date": "2025-11-17",
-  "lastUpdated": "2025-11-17T21:17:37.610971+07:00",
+  "lastUpdated": "2025-11-17T23:23:27.996015+07:00",
   "articles": [
+    {
+      "id": "3dccb02ca65639617bc5013f9539781a",
+      "title": "Leon Lê lớn tiếng với Liên Bỉnh Phát và Đỗ Thị Hải Yến vì cảnh hôn trong 'Quán Kỳ Nam'",
+      "link": "https://tuoitre.vn/leon-le-lon-tieng-voi-lien-binh-phat-va-do-thi-hai-yen-vi-canh-hon-trong-quan-ky-nam-20251117192704775.htm",
+      "summary": "Đạo diễn Leon Lê nói cảnh hôn trong phim 'Quán Kỳ Nam' là cảnh duy nhất khiến anh phải lớn tiếng với Liên Bỉnh Phát và Đỗ Thị Hải Yến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.632319+07:00",
+      "fetched": "2025-11-17T23:23:21.632431+07:00"
+    },
+    {
+      "id": "fb09982e3f0e6fa6948c2f7fa08a197f",
+      "title": "Đại tướng Lương Tam Quang: Khi VNeID có đầy đủ thông tin sẽ kiến nghị bỏ Luật Lý lịch tư pháp",
+      "link": "https://tuoitre.vn/dai-tuong-luong-tam-quang-khi-vneid-co-day-du-thong-tin-se-kien-nghi-bo-luat-ly-lich-tu-phap-20251117200502435.htm",
+      "summary": "Bộ trưởng Công an, Đại tướng Lương Tam Quang, cho biết dự luật sẽ chỉnh lý để lý lịch tư pháp công dân được cập nhật trên VNeID.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.632189+07:00",
+      "fetched": "2025-11-17T23:23:21.632307+07:00"
+    },
+    {
+      "id": "f00f27b50536a736a0ba4235e043678d",
+      "title": "AEON Mall đầu tư trung tâm thương mại hơn 6.000 tỉ đồng tại Đồng Nai",
+      "link": "https://tuoitre.vn/aeon-mall-dau-tu-trung-tam-thuong-mai-hon-6-000-ti-dong-tai-dong-nai-20251117202003604.htm",
+      "summary": "Tập đoàn AEON Mall vừa được trao giấy chứng nhận đầu tư cho dự án trung tâm thương mại hơn 6.000 tỉ đồng tại Cù lao Phố, Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.632051+07:00",
+      "fetched": "2025-11-17T23:23:21.632177+07:00"
+    },
+    {
+      "id": "93ef9e2e448a707b4a6eac626b06c0c6",
+      "title": "Pháp đồng ý Ukraine mua 100 tiêm kích Rafale, gọi là 'thỏa thuận lịch sử'",
+      "link": "https://tuoitre.vn/phap-dong-y-ukraine-mua-100-tiem-kich-rafale-goi-la-thoa-thuan-lich-su-20251117203346097.htm",
+      "summary": "Ngày 17-11, lãnh đạo Pháp và Ukraine ký thỏa thuận cho phép Kiev mua tới 100 tiêm kích Rafale và các khí tài khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631921+07:00",
+      "fetched": "2025-11-17T23:23:21.632039+07:00"
+    },
+    {
+      "id": "340c989cefd8d231ebaed010cd0b5a2a",
+      "title": "Người dân Huế đưa xe cộ lên cầu tránh lũ, công an khuyến cáo hành vi này nguy hiểm",
+      "link": "https://tuoitre.vn/nguoi-dan-hue-dua-xe-co-len-cau-tranh-lu-cong-an-khuyen-cao-hanh-vi-nay-nguy-hiem-20251117203900469.htm",
+      "summary": "Trong ngày 17-11, nhiều tuyến đường ở Huế bị ngập trong nước lũ. Nhiều người dân ở Huế tranh thủ nước chưa cao chạy xe đến gần các cầu, thậm chí đỗ trên cầu vì tin rằng nước lũ không bao giờ ngập đến cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631795+07:00",
+      "fetched": "2025-11-17T23:23:21.631910+07:00"
+    },
+    {
+      "id": "e0618c5cea7987bf7c8197733a5030fe",
+      "title": "Quốc vương Kuwait: Xem lợi ích của Việt Nam cũng là lợi ích của Kuwait",
+      "link": "https://tuoitre.vn/quoc-vuong-kuwait-xem-loi-ich-cua-viet-nam-cung-la-loi-ich-cua-kuwait-20251117202955347.htm",
+      "summary": "Quốc vương Kuwait và Thủ tướng Phạm Minh Chính nhất trí nâng cấp quan hệ hai nước lên Đối tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631664+07:00",
+      "fetched": "2025-11-17T23:23:21.631783+07:00"
+    },
+    {
+      "id": "810a61aae64668481201fea6dbc5ee2e",
+      "title": "Aespa kỷ niệm 5 năm ra mắt, phát hành 4 ca khúc solo",
+      "link": "https://tuoitre.vn/aespa-ky-niem-5-nam-ra-mat-phat-hanh-4-ca-khuc-solo-20251117202903524.htm",
+      "summary": "Nhân dịp mừng kỷ niệm 5 năm ra mắt, Aespa 'chiêu đãi' fan với 4 ca khúc solo của các thành viên, từng được nhóm trình diễn tại concert vào hồi tháng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631518+07:00",
+      "fetched": "2025-11-17T23:23:21.631651+07:00"
+    },
+    {
+      "id": "759b42137401bd8b951c5267feaf7de2",
+      "title": "Nhiều thủ tục hành chính ở Hà Nội được tiếp nhận không phụ thuộc địa giới hành chính",
+      "link": "https://tuoitre.vn/nhieu-thu-tuc-hanh-chinh-o-ha-noi-duoc-tiep-nhan-khong-phu-thuoc-dia-gioi-hanh-chinh-20251117205522624.htm",
+      "summary": "Trung tâm Phục vụ hành chính công Hà Nội sẽ thí điểm việc thực hiện thủ tục hành chính mà không phụ thuộc vào địa giới hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631392+07:00",
+      "fetched": "2025-11-17T23:23:21.631506+07:00"
+    },
+    {
+      "id": "422229235278c24f583e331038dc1cab",
+      "title": "Chốt trận so găng 180 triệu USD giữa Jake Paul với cựu vô địch Anthony Joshua",
+      "link": "https://tuoitre.vn/chot-tran-so-gang-180-trieu-usd-giua-jake-paul-voi-cuu-vo-dich-anthony-joshua-20251117210741013.htm",
+      "summary": "Trận đấu giữa YouTuber Jake Paul và cựu vô địch Anthony Joshua đã được xác nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631268+07:00",
+      "fetched": "2025-11-17T23:23:21.631380+07:00"
+    },
+    {
+      "id": "f36a8bfae7a9b1195ee9b7e056f36f76",
+      "title": "Chủ tịch Quốc hội Hàn Quốc sẽ thăm chính thức Việt Nam",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-han-quoc-se-tham-chinh-thuc-viet-nam-20251117210522309.htm",
+      "summary": "Chủ tịch Quốc hội Hàn Quốc Woo Won Shik và Phu nhân sẽ thăm chính thức Việt Nam từ ngày 20 đến 22-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631141+07:00",
+      "fetched": "2025-11-17T23:23:21.631256+07:00"
+    },
+    {
+      "id": "18c7da2cd0d6f17cad927e3e4cad1f58",
+      "title": "Cảng quốc tế Long An ký hợp tác với Cảng Kobe tại Nhật",
+      "link": "https://tuoitre.vn/cang-quoc-te-long-an-ky-hop-tac-voi-cang-kobe-tai-nhat-20251117211116716.htm",
+      "summary": "Trong chương trình xúc tiến đầu tư tỉnh Tây Ninh tại vùng Kansai, Nhật Bản, Cảng quốc tế Long An đã ký kết hợp tác với Cảng Kobe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.631011+07:00",
+      "fetched": "2025-11-17T23:23:21.631129+07:00"
+    },
+    {
+      "id": "ed14dfe1f3113c4a689e46fadada9fd8",
+      "title": "Văn Mai Hương nói về tin đồn ghét Chi Pu",
+      "link": "https://tuoitre.vn/van-mai-huong-noi-ve-tin-don-ghet-chi-pu-20251117205511844.htm",
+      "summary": "Văn Mai Hương hợp tác với Chi Pu trong MV 'Vườn hồng' với màn belly dance trên nền nhạc 'Ra ngõ tụng kinh', làm rõ tin đồn ghét đồng nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.630881+07:00",
+      "fetched": "2025-11-17T23:23:21.631000+07:00"
+    },
+    {
+      "id": "be8da708a149a09a67f65468c6cefbd1",
+      "title": "Thuyền máy hỏng giữa dòng, chủ tịch xã chèo thuyền chở đoàn công tác vào bờ",
+      "link": "https://tuoitre.vn/thuyen-may-hong-giua-dong-chu-tich-xa-cheo-thuyen-cho-doan-cong-tac-vao-bo-20251117214303704.htm",
+      "summary": "Khi thuyền máy bị hỏng chân vịt giữa sông, chủ tịch xã ở Đắk Lắk đã tự chèo thuyền, đưa phóng viên và đoàn công tác vào bờ an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.630748+07:00",
+      "fetched": "2025-11-17T23:23:21.630870+07:00"
+    },
+    {
+      "id": "efc9f0c5559833f6d2c2677c23391dba",
+      "title": "Sẽ hết thời doanh nghiệp Việt bỏ tiền tỉ để có tiêu chuẩn an ninh mạng nước ngoài?",
+      "link": "https://tuoitre.vn/se-het-thoi-doanh-nghiep-viet-bo-tien-ti-de-co-tieu-chuan-an-ninh-mang-nuoc-ngoai-20251117204422081.htm",
+      "summary": "Chuyên gia nhận định khung đánh giá, quy chuẩn an ninh mạng giúp Việt Nam tạo lợi ích, hỗ trợ doanh nghiệp tiết kiệm hàng tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.630600+07:00",
+      "fetched": "2025-11-17T23:23:21.630735+07:00"
+    },
+    {
+      "id": "2663236c4d7ec1f9fada9b4dfe22ccf7",
+      "title": "Phương án nhân sự lãnh đạo chủ chốt của Đảng, Nhà nước là tuyệt mật",
+      "link": "https://tuoitre.vn/phuong-an-nhan-su-lanh-dao-chu-chot-cua-dang-nha-nuoc-la-tuyet-mat-20251117211652523.htm",
+      "summary": "Ngày 17-11, Thủ tướng Phạm Minh Chính ký Quyết định số 2500 ban hành Danh mục bí mật nhà nước lĩnh vực tổ chức, cán bộ, lao động và xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T23:23:21.630346+07:00",
+      "fetched": "2025-11-17T23:23:21.630567+07:00"
+    },
     {
       "id": "8a6b69adfe20d61eb75940cbe8d611b6",
       "title": "Đề nghị truy tố Shark Thủy cùng 28 bị can tội lừa đảo chiếm đoạt tài sản, đưa hối lộ và nhận hối lộ",
@@ -453,6 +603,26 @@ window.newsData_2025_11_17 = {
       "fetched": "2025-11-17T17:20:14.869031+07:00"
     },
     {
+      "id": "4d7de931ebaf4dfcc8b420924524e9a2",
+      "title": "Bangladesh yêu cầu Ấn Độ dẫn độ cựu thủ tướng bị tuyên án tử",
+      "link": "https://vnexpress.net/bangladesh-yeu-cau-an-do-dan-do-cuu-thu-tuong-bi-tuyen-an-tu-4965130.html",
+      "summary": "Bangladesh kêu gọi Ấn Độ dẫn độ cựu thủ tướng Hasina về nước, sau khi bà bị kết án treo cổ vắng mặt vì tội ác chống loài người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T15:26:33+07:00",
+      "fetched": "2025-11-17T23:23:17.231614+07:00"
+    },
+    {
+      "id": "4d7de931ebaf4dfcc8b420924524e9a2",
+      "title": "Bangladesh yêu cầu Ấn Độ dẫn độ cựu thủ tướng bị tuyên án tử",
+      "link": "https://vnexpress.net/bangladesh-yeu-cau-an-do-dan-do-cuu-thu-tuong-bi-tuyen-an-tu-4965130.html",
+      "summary": "Bangladesh kêu gọi Ấn Độ dẫn độ cựu thủ tướng Hasina về nước, sau khi bà bị kết án treo cổ vắng mặt vì tội ác chống loài người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T15:26:33+07:00",
+      "fetched": "2025-11-17T23:23:22.928117+07:00"
+    },
+    {
       "id": "a635a07c3b9a49a67f32c206f3ff9b83",
       "title": "Ruộng đồng tan nát sau khi doanh nghiệp khoáng sản rời đi: Hậu quả ai khắc phục?",
       "link": "https://tuoitre.vn/ruong-dong-tan-nat-sau-khi-doanh-nghiep-khoang-san-roi-di-hau-qua-ai-khac-phuc-2025111710253293.htm",
@@ -603,6 +773,56 @@ window.newsData_2025_11_17 = {
       "fetched": "2025-11-17T15:25:37.495074+07:00"
     },
     {
+      "id": "19a8b228651b271cdcfc94944e2baf50",
+      "title": "Thủ tướng đề nghị Việt Nam - Kuwait tăng hợp tác về khoa học công nghệ",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-viet-nam-kuwait-tang-hop-tac-ve-khoa-hoc-cong-nghe-4965115.html",
+      "summary": "Thủ tướng hội kiến với Quốc vương Kuwait, đề nghị hai bên thúc đẩy 9 lĩnh vực hợp tác trọng tâm, trong đó có khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T14:39:18+07:00",
+      "fetched": "2025-11-17T23:23:17.231795+07:00"
+    },
+    {
+      "id": "19a8b228651b271cdcfc94944e2baf50",
+      "title": "Thủ tướng đề nghị Việt Nam - Kuwait tăng hợp tác về khoa học công nghệ",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-viet-nam-kuwait-tang-hop-tac-ve-khoa-hoc-cong-nghe-4965115.html",
+      "summary": "Thủ tướng hội kiến với Quốc vương Kuwait, đề nghị hai bên thúc đẩy 9 lĩnh vực hợp tác trọng tâm, trong đó có khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T14:39:18+07:00",
+      "fetched": "2025-11-17T23:23:22.928295+07:00"
+    },
+    {
+      "id": "7a9650892d6828061f97ab6e1973a19a",
+      "title": "Đề xuất tăng 15% phụ cấp cho giáo viên mầm non, phổ thông",
+      "link": "https://vnexpress.net/bo-giao-duc-de-xuat-tang-phu-cap-uu-dai-nghe-len-45-85-voi-giao-vien-mam-non-pho-thong-4965112.html",
+      "summary": "Ngoài lương, phụ cấp thâm niên, giáo viên từ mầm non tới phổ thông có thể hưởng phụ cấp ưu đãi nghề 45-85%, tăng 15% so với hiện nay, theo đề xuất của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T14:12:25+07:00",
+      "fetched": "2025-11-17T23:23:17.231960+07:00"
+    },
+    {
+      "id": "d2de46f97276f026bb124bdf11b27a92",
+      "title": "Ukraine ký ý định thư mua 100 tiêm kích Pháp",
+      "link": "https://vnexpress.net/ukraine-ky-y-dinh-thu-mua-100-tiem-kich-phap-4965110.html",
+      "summary": "Tổng thống Zelensky gặp Tổng thống Macron, cho biết Ukraine sẽ mua 100 chiến đấu cơ Rafale của Pháp trong 10 năm tới để tăng cường năng lực quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T14:07:01+07:00",
+      "fetched": "2025-11-17T23:23:17.232127+07:00"
+    },
+    {
+      "id": "d2de46f97276f026bb124bdf11b27a92",
+      "title": "Ukraine ký ý định thư mua 100 tiêm kích Pháp",
+      "link": "https://vnexpress.net/ukraine-ky-y-dinh-thu-mua-100-tiem-kich-phap-4965110.html",
+      "summary": "Tổng thống Zelensky gặp Tổng thống Macron, cho biết Ukraine sẽ mua 100 chiến đấu cơ Rafale của Pháp trong 10 năm tới để tăng cường năng lực quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-17T14:07:01+07:00",
+      "fetched": "2025-11-17T23:23:22.928461+07:00"
+    },
+    {
       "id": "839cd61d925133652135389bd60eec53",
       "title": "TP.HCM tháo dỡ 3 biệt thự trong khu đất số 1 Lý Thái Tổ",
       "link": "https://thanhnien.vn/tphcm-thao-do-3-biet-thu-trong-khu-dat-so-1-ly-thai-to-185251117170539144.htm",
@@ -611,6 +831,16 @@ window.newsData_2025_11_17 = {
       "category": "Tổng hợp",
       "published": "2025-11-17T14:03:00+07:00",
       "fetched": "2025-11-17T21:17:28.431867+07:00"
+    },
+    {
+      "id": "3b8edadc542b1141f27f2e78f0d16021",
+      "title": "Vợ im lặng mỗi khi hờn dỗi khiến tôi dần đi vào ngõ cụt",
+      "link": "https://vnexpress.net/vo-hay-gian-doi-vo-im-lang-moi-khi-hon-doi-khien-toi-dan-di-vao-ngo-cut-4965008.html",
+      "summary": "Tôi thương vợ lắm nên toàn chủ động đứng ra gỡ rối cho qua chuyện dù chuyện chẳng có gì to tát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T14:00:00+07:00",
+      "fetched": "2025-11-17T23:23:17.232284+07:00"
     },
     {
       "id": "6558c17544a0b99629e2dd88ad343e48",
