@@ -1,7 +1,157 @@
 window.newsData_2025_11_18 = {
   "date": "2025-11-18",
-  "lastUpdated": "2025-11-18T13:26:11.824329+07:00",
+  "lastUpdated": "2025-11-18T15:23:56.312172+07:00",
   "articles": [
+    {
+      "id": "50b48b8c7eb7f49b640be89895528293",
+      "title": "Hiểu về công nghệ và dinh dưỡng để kiểm soát đường huyết hiệu quả",
+      "link": "https://tuoitre.vn/hieu-ve-cong-nghe-va-dinh-duong-de-kiem-soat-duong-huyet-hieu-qua-20251118113504579.htm",
+      "summary": "Bệnh viện Bạch Mai, Hội Tiết chế dinh dưỡng Việt Nam và Abbott tổ chức chương trình “Chủ động quản lý đường huyết toàn diện với giải pháp công nghệ và dinh dưỡng” hưởng ứng ngày Đái tháo đường Thế Giới 14-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.458171+07:00",
+      "fetched": "2025-11-18T15:23:49.458285+07:00"
+    },
+    {
+      "id": "4d32ae71aebd0d9d04ad7b799cd51a45",
+      "title": "CLB nữ TP.HCM quyết cống hiến trận đấu đẹp trước Melbourne City",
+      "link": "https://tuoitre.vn/clb-nu-tp-hcm-quyet-cong-hien-tran-dau-dep-truoc-melbourne-city-20251118122747482.htm",
+      "summary": "Phát biểu trước trận gặp đối thủ mạnh Melbourne City (Úc), HLV Nguyễn Hồng Phẩm cho biết CLB nữ TP.HCM quyết cống hiến trận đấu đẹp dù đã giành vé vào tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.458046+07:00",
+      "fetched": "2025-11-18T15:23:49.458160+07:00"
+    },
+    {
+      "id": "ff37decae1268c88885d7181804311d0",
+      "title": "Cục Quản lý dược: Thận trọng khi dùng mỹ phẩm do công ty chồng bà Phan Thị Mai phân phối",
+      "link": "https://tuoitre.vn/cuc-quan-ly-duoc-than-trong-khi-dung-my-pham-do-cong-ty-chong-ba-phan-thi-mai-phan-phoi-20251118124544165.htm",
+      "summary": "Cục Quản lý dược (Bộ Y tế) khuyến cáo người dân và cơ sở kinh doanh thận trọng khi sử dụng các sản phẩm mỹ phẩm do Công ty MK Skincare nhập khẩu và công bố, trong khi chờ kết quả kiểm nghiệm chất lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457919+07:00",
+      "fetched": "2025-11-18T15:23:49.458032+07:00"
+    },
+    {
+      "id": "454f36b8ac4098efbf043a7a22123ede",
+      "title": "Lũ rút, dân Khánh Hòa vừa dọn nhà vừa nơm nớp lo lũ mới",
+      "link": "https://tuoitre.vn/lu-rut-dan-khanh-hoa-vua-don-nha-vua-nom-nop-lo-lu-moi-20251118134608897.htm",
+      "summary": "Từ sáng 18-11, lũ ở Khánh Hòa rút dần, người dân tranh thủ dọn dẹp nhà cửa nhưng vẫn canh cánh nỗi lo trước dự báo đêm nay xuất hiện đợt lũ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457791+07:00",
+      "fetched": "2025-11-18T15:23:49.457908+07:00"
+    },
+    {
+      "id": "b5e565b51312c9333262db19f228b335",
+      "title": "Sinh viên Trường đại học Khoa học xã hội và Nhân văn TP.HCM thích thú với trạm sạc pin miễn phí",
+      "link": "https://tuoitre.vn/sinh-vien-truong-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tp-hcm-thich-thu-voi-tram-sac-pin-mien-phi-20251118134821747.htm",
+      "summary": "Trường đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM - vừa đưa vào sử dụng trạm sạc pin miễn phí cho sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457649+07:00",
+      "fetched": "2025-11-18T15:23:49.457778+07:00"
+    },
+    {
+      "id": "11cf6f6a8a203912b74a070481ac59ad",
+      "title": "Đồng Tháp nỗ lực chăm lo cho người nghèo, nông thôn mới khang trang",
+      "link": "https://tuoitre.vn/dong-thap-no-luc-cham-lo-cho-nguoi-ngheo-nong-thon-moi-khang-trang-20251118102307974.htm",
+      "summary": "Trong giai đoạn 2021-2025, Đồng Tháp tập trung chăm lo cho người dân thông qua các phong trào thi đua yêu nước đã hoàn thành nhiệm vụ xây dựng nông thôn mới, xóa hơn 2.700 căn nhà tạm, nhà dột nát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457522+07:00",
+      "fetched": "2025-11-18T15:23:49.457637+07:00"
+    },
+    {
+      "id": "66d1b197fa09f363da06785668522f9f",
+      "title": "Độc lạ thịt gác bếp Cao Lan hun khói bằng củi vải",
+      "link": "https://tuoitre.vn/doc-la-thit-gac-bep-cao-lan-hun-khoi-bang-cui-vai-20251118122747467.htm",
+      "summary": "Trong dãy bếp nhỏ, mùi khói từ củi vải quyện cùng hương hạt dổi, mắc khén, gừng rừng khiến đôi mắt người phụ nữ Cao Lan cay xè. Nhưng đây lại là \"đòn bẩy\" thoát nghèo, làm giàu từ quê hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457400+07:00",
+      "fetched": "2025-11-18T15:23:49.457511+07:00"
+    },
+    {
+      "id": "48d1de92bb443b9d965164a93193311e",
+      "title": "Ông Lê Văn Hẳn được bầu làm Chủ tịch UBND tỉnh Tây Ninh",
+      "link": "https://tuoitre.vn/ong-le-van-han-duoc-bau-lam-chu-tich-ubnd-tinh-tay-ninh-2025111810103367.htm",
+      "summary": "Hội đồng nhân dân tỉnh Tây Ninh đã thống nhất thông qua nghị quyết bầu ông Lê Văn Hẳn làm Chủ tịch UBND tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457274+07:00",
+      "fetched": "2025-11-18T15:23:49.457388+07:00"
+    },
+    {
+      "id": "28a0f4bf55b9f3e1ec9d90ec8229edc3",
+      "title": "Nhận thức nhà giáo quyết định chuyển đổi số giáo dục",
+      "link": "https://tuoitre.vn/nhan-thuc-nha-giao-quyet-dinh-chuyen-doi-so-giao-duc-20251118131625791.htm",
+      "summary": "Phường Phú Nhuận (TP.HCM) kỷ niệm 43 năm Ngày Nhà giáo Việt Nam với tọa đàm \"Chuyển đổi số trong giáo dục: thuận lợi và thách thức\" ngày 18-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457144+07:00",
+      "fetched": "2025-11-18T15:23:49.457259+07:00"
+    },
+    {
+      "id": "4db101ad26bb5ff501884855c7a5a88d",
+      "title": "Việt Nam đặt mục tiêu tỉ lệ nữ quân nhân trong lực lượng gìn giữ hòa bình từ 20% trở lên",
+      "link": "https://tuoitre.vn/viet-nam-dat-muc-tieu-ti-le-nu-quan-nhan-trong-luc-luong-gin-giu-hoa-binh-tu-20-tro-len-20251118140417104.htm",
+      "summary": "Ngày 18-11, tại Hà Nội, Ban Phụ nữ quân đội tổ chức buổi trao đổi kinh nghiệm giữa Việt Nam và Úc về triển khai Chương trình hành động quốc gia về Phụ nữ, Hòa bình và An ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.457012+07:00",
+      "fetched": "2025-11-18T15:23:49.457133+07:00"
+    },
+    {
+      "id": "6c64800d7ec165a09cfc61e3e396c026",
+      "title": "Hội Doanh nhân trẻ Việt Nam sẽ đào tạo 10.000 CEO và chuyển đổi 50.000 hộ kinh doanh",
+      "link": "https://tuoitre.vn/hoi-doanh-nhan-tre-viet-nam-se-dao-tao-10-000-ceo-va-chuyen-doi-50-000-ho-kinh-doanh-20251118125019711.htm",
+      "summary": "Hội Doanh nhân trẻ Việt Nam cho biết sẽ triển khai chương trình đào tạo 10.000 CEO và chuyển đổi 50.000 hộ kinh doanh thành doanh nghiệp, nhằm thực thi nghị quyết 68 về phát triển kinh tế tư nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.456883+07:00",
+      "fetched": "2025-11-18T15:23:49.457001+07:00"
+    },
+    {
+      "id": "e82f2121f7fa2e859a7c6c619097d4c0",
+      "title": "Đừng để cú 'nhấp chuột' trở thành hành vi vi phạm pháp luật",
+      "link": "https://tuoitre.vn/dung-de-cu-nhap-chuot-tro-thanh-hanh-vi-vi-pham-phap-luat-20251115184202308.htm",
+      "summary": "Việc tung hình ảnh riêng tư lên mạng là phê phán cái xấu, hay vô cảm xâm phạm quyền nhân thân?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.456723+07:00",
+      "fetched": "2025-11-18T15:23:49.456870+07:00"
+    },
+    {
+      "id": "c7aafc3b67336db708f830b5f9405061",
+      "title": "Tăng cường liên kết TP.HCM và Cà Mau, hướng tới cực tăng trưởng mới",
+      "link": "https://tuoitre.vn/tang-cuong-lien-ket-tp-hcm-va-ca-mau-huong-toi-cuc-tang-truong-moi-20251118121655744.htm",
+      "summary": "Hội nghị kết nối hợp tác đầu tư cho doanh nghiệp TP.HCM vào tỉnh Cà Mau đã mở ra nhiều hướng đầu tư, đẩy mạnh liên kết vùng, mở rộng chuỗi cung ứng TP.HCM - Cà Mau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.456589+07:00",
+      "fetched": "2025-11-18T15:23:49.456711+07:00"
+    },
+    {
+      "id": "7c378cc4234c4c116c31a000d053c223",
+      "title": "Ukraine khoe tiêm kích Mirage 2000, sẵn sàng đối đầu Nga trên không",
+      "link": "https://tuoitre.vn/ukraine-khoe-tiem-kich-mirage-2000-san-sang-doi-dau-nga-tren-khong-20251118140600689.htm",
+      "summary": "Không quân Ukraine vừa công bố hình ảnh các tiêm kích Mirage 2000 của Pháp thực hiện các phi vụ chiến đấu trên bầu trời nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.456446+07:00",
+      "fetched": "2025-11-18T15:23:49.456577+07:00"
+    },
+    {
+      "id": "89bf5ebf78725ea931f5a8686cecd434",
+      "title": "3 người lãnh án tù vì lợi dụng tự do dân chủ xâm phạm lợi ích của Nhà nước",
+      "link": "https://tuoitre.vn/3-nguoi-lanh-an-tu-vi-loi-dung-tu-do-dan-chu-xam-pham-loi-ich-cua-nha-nuoc-20251118143623895.htm",
+      "summary": "Thạch Nga, Kim Som Rinh và Thạch Xuân Đồng, mỗi người bị phạt 3 năm 6 tháng tù về tội lợi dụng các quyền tự do dân chủ xâm phạm lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T15:23:49.456219+07:00",
+      "fetched": "2025-11-18T15:23:49.456431+07:00"
+    },
     {
       "id": "3681d7104a899f1ddf10db63b7b6845c",
       "title": "Người đàn ông quấy rối Ariana Grande trên thảm đỏ bị phạt tù",
@@ -453,6 +603,16 @@ window.newsData_2025_11_18 = {
       "fetched": "2025-11-18T10:10:17.175825+07:00"
     },
     {
+      "id": "bc66a8a950e786cb95d20e7f5aa21921",
+      "title": "Thủ tướng yêu cầu tháo gỡ khó khăn về thuế cho hộ kinh doanh",
+      "link": "https://thanhnien.vn/thu-tuong-yeu-cau-thao-go-kho-khan-ve-thue-cho-ho-kinh-doanh-185251118150052709.htm",
+      "summary": "Nội dung trên được nêu trong Công văn 11154 của Văn phòng Chính phủ, truyền đạt ý kiến chỉ đạo của Thủ tướng Phạm Minh Chính về việc tháo gỡ khó khăn, vướng mắc trong thực hiện chính sách thuế đối với hộ và cá nhân kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:23:00+07:00",
+      "fetched": "2025-11-18T15:23:48.156292+07:00"
+    },
+    {
       "id": "dca017e8f5c752e8b205253d31262bd7",
       "title": "Shark Thủy 'thổi' vốn, bán 'khống' cổ phần ra sao để rút hơn 7.677 tỉ đồng từ túi 10.000 nhà đầu tư?",
       "link": "https://tuoitre.vn/shark-thuy-thoi-von-ban-khong-co-phan-ra-sao-de-rut-hon-7-677-ti-dong-tu-tui-10-000-nha-dau-tu-20251117225011231.htm",
@@ -601,6 +761,346 @@ window.newsData_2025_11_18 = {
       "category": "Tổng hợp",
       "published": "2025-11-18T08:18:38.226947+07:00",
       "fetched": "2025-11-18T08:18:38.227180+07:00"
+    },
+    {
+      "id": "65a4436a177bd03fa9be4900f8eee850",
+      "title": "Lên phương án phối hợp nổ mìn thông đèo Khánh Lê",
+      "link": "https://thanhnien.vn/len-phuong-an-phoi-hop-no-min-thong-deo-khanh-le-185251118141731498.htm",
+      "summary": "Sở Xây dựng tỉnh Khánh Hòa cho hay sẽ phối hợp đơn vị chuyên môn của Bộ Quốc phòng khoan vào đá, nổ mìn phá nhỏ từng khối để giải tỏa đèo Khánh Lê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:14:00+07:00",
+      "fetched": "2025-11-18T15:23:48.156466+07:00"
+    },
+    {
+      "id": "b41bac007bb459c4c6f7f7c289c5df29",
+      "title": "Trường ĐH Đồng Tháp vinh danh các tân giáo sư, phó giáo sư",
+      "link": "https://thanhnien.vn/truong-dh-dong-thap-vinh-danh-cac-tan-giao-su-pho-giao-su-185251118123428501.htm",
+      "summary": "Trường ĐH Đồng Tháp tổ chức lễ kỷ niệm 43 năm ngày Nhà giáo Việt Nam (20.11.1982 - 20.11.2025) và  vinh danh các tân giáo sư, phó giáo sư năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:01:00+07:00",
+      "fetched": "2025-11-18T15:23:48.156624+07:00"
+    },
+    {
+      "id": "9bdbf5abc8204e22ab2b72066067769d",
+      "title": "Ông Lê Văn Hẳn làm Chủ tịch UBND tỉnh Tây Ninh",
+      "link": "https://thanhnien.vn/ong-le-van-han-lam-chu-tich-ubnd-tinh-tay-ninh-1852511181439402.htm",
+      "summary": "Ông Lê Văn Hẳn, Phó bí thư Tỉnh ủy Tây Ninh được bầu giữ chức Chủ tịch UBND tỉnh Tây Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:00:00+07:00",
+      "fetched": "2025-11-18T15:23:48.156805+07:00"
+    },
+    {
+      "id": "30b814164280b5ea0dbf5bca33cd031d",
+      "title": "Ảnh Aeon Mall Huế 'sừng sững' giữa nước lũ bất ngờ lên báo Nhật",
+      "link": "https://thanhnien.vn/anh-aeon-mall-hue-sung-sung-giua-nuoc-lu-bat-ngo-len-bao-nhat-185251118110718135.htm",
+      "summary": "Giữa trận lũ lịch sử, bức ảnh Aeon Mall Huế 'sừng sững' giữa biển nước do nhiếp ảnh gia Anh Phong chụp bằng drone gây chú ý mạnh, được báo Nikkei của Nhật mua lại và đăng tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:00:00+07:00",
+      "fetched": "2025-11-18T15:23:48.156974+07:00"
+    },
+    {
+      "id": "fdd0ad53937c95eb76de05a42a98d16a",
+      "title": "Bình chọn máy lọc nước hydrogen ion kiềm được yêu thích nhất",
+      "link": "https://vnexpress.net/binh-chon-may-loc-nuoc-hydrogen-ion-kiem-duoc-yeu-thich-nhat-4964966.html",
+      "summary": "Số bình chọn thứ 9 của Sản phẩm tôi yêu 2025 có chủ đề máy lọc nước hydrogen ion kiềm được yêu thích nhất, diễn ra ngày 18-27/11.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-18T08:00:00+07:00",
+      "fetched": "2025-11-18T15:23:54.601511+07:00"
+    },
+    {
+      "id": "d1fa6d9254f517271ec4fd378bebb59b",
+      "title": "Cô gái dân tộc Thái trắng tiết lộ ước mơ sau khi giành danh hiệu Á hậu",
+      "link": "https://thanhnien.vn/co-gai-dan-toc-thai-trang-tiet-lo-uoc-mo-sau-khi-gianh-danh-hieu-a-hau-185251118143451958.htm",
+      "summary": "Đến từ vùng cao Tương Dương thuộc tỉnh Nghệ An, cô gái Thái trắng (hay còn gọi là Tày Khao) Kha Thị Thơ đã xuất sắc giành danh hiệu Á hậu 2 tại cuộc thi Hoa hậu Du lịch Dân tộc Việt Nam 2025. Hành trình vượt khó, không ngừng nỗ lực của cô đã nhận được sự chú ý đặc biệt của ban giám khảo, trở thành n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:56:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157133+07:00"
+    },
+    {
+      "id": "482b33ce3dec9941d999eeed0b153762",
+      "title": "Sạt lở đèo Khánh Lê: Xe tải chở hoa Đà Lạt mắc kẹt 2 ngày, nhà xe cầu cứu",
+      "link": "https://thanhnien.vn/sat-lo-deo-khanh-le-xe-tai-cho-hoa-da-lat-mac-ket-2-ngay-nha-xe-cau-cuu-185251118134508393.htm",
+      "summary": "Hai xe tải chở hàng chục tấn hoa Đà Lạt bị mắc kẹt giữa sạt lở đèo Khánh Lê suốt 2 ngày. Nhà xe Thanh Thủy gửi thư cầu cứu vì tài xế bị cô lập, không thể tiếp tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:56:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157286+07:00"
+    },
+    {
+      "id": "6a840f4412b54d919cf8dbaa4c236f85",
+      "title": "Mẹ đơn thân đi tìm hạnh phúc sau đổ vỡ, bị 'trai tân' từ chối hẹn hò",
+      "link": "https://thanhnien.vn/me-don-than-di-tim-hanh-phuc-sau-do-vo-bi-trai-tan-tu-choi-hen-ho-185251118140550483.htm",
+      "summary": "Tại tập 1.158 'Bạn muốn hẹn hò', Trọng Nghĩa và Nguyễn Thị Nhung khiến khán giả thích thú bởi cuộc trò chuyện tự nhiên, vui vẻ trên sân khấu. Tuy nhiên, kết quả cuối cùng lại khiến hai MC vô cùng tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:53:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157439+07:00"
+    },
+    {
+      "id": "b44423b976963f11484fbecc8d046721",
+      "title": "Vì sao Mỹ 'quyết tâm' cấm cửa router của TP-Link?",
+      "link": "https://thanhnien.vn/vi-sao-my-quyet-tam-cam-cua-router-cua-tp-link-185251118101331681.htm",
+      "summary": "Chiếm 60% thị phần, TP-Link vẫn bị Mỹ 'sờ gáy' vì cáo buộc đe dọa an ninh quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:46:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157589+07:00"
+    },
+    {
+      "id": "d6ce0666927d41d639429f4d34c6aeca",
+      "title": "Veloz Cross khuyến mại đến 100% thuế trước bạ và 1 năm bảo hiểm",
+      "link": "https://thanhnien.vn/veloz-cross-khuyen-mai-den-100-thue-truoc-ba-va-1-nam-bao-hiem-185251118145131836.htm",
+      "summary": "Phân khúc MPV thêm nhộn nhịp với mức giảm 100% thuế trước bạ, tặng một năm bảo hiểm thân vỏ cùng lãi suất vay chỉ từ 1,99%/năm của Toyota dành cho Veloz Cross và Avanza Premio.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:45:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157775+07:00"
+    },
+    {
+      "id": "296936db38701b75dee84af5b50eb84d",
+      "title": "FIFA yêu cầu Malaysia điều tra bê bối nhập tịch, tố giác tội phạm đến 5 quốc gia",
+      "link": "https://thanhnien.vn/fifa-yeu-cau-malaysia-dieu-tra-be-boi-nhap-tich-to-giac-toi-pham-den-5-quoc-gia-185251118142626049.htm",
+      "summary": "FIFA yêu cầu Malaysia mở cuộc điều tra nội bộ toàn diện và chuyển hồ sơ làm giả giấy tờ cho cơ quan hình sự của năm nước liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:43:00+07:00",
+      "fetched": "2025-11-18T15:23:48.157929+07:00"
+    },
+    {
+      "id": "1c78e23fa76a5507da7615d0c79580a5",
+      "title": "FIFA vạch trần sai phạm cực nghiêm trọng của FAM: Có thể cấu thành tội hình sự",
+      "link": "https://thanhnien.vn/fifa-vach-tran-sai-pham-cuc-nghiem-trong-cua-fam-co-the-cau-thanh-toi-hinh-su-185251118143018921.htm",
+      "summary": "Liên đoàn Bóng đá thế giới (FIFA) đã công bố toàn văn giải quyết khiếu nại, nêu rõ lý do tại sao bác đơn kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) liên quan đến bê bối sử dụng cầu thủ nhập tịch tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:40:00+07:00",
+      "fetched": "2025-11-18T15:23:48.158079+07:00"
+    },
+    {
+      "id": "893b6437e59bf7e25e56cb9c28d3e116",
+      "title": "Nông nghiệp đô thị giúp tăng không gian xanh, cải thiện không khí",
+      "link": "https://thanhnien.vn/nong-nghiep-do-thi-giup-tang-khong-gian-xanh-cai-thien-khong-khi-185251118143243694.htm",
+      "summary": "Ngày 18.11, Báo Kinh tế & Đô thị phối hợp với Trung tâm Công nghệ sinh học TP.HCM tổ chức hội thảo Nông nghiệp đô thị - giải pháp phát triển không gian xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:37:00+07:00",
+      "fetched": "2025-11-18T15:23:48.158241+07:00"
+    },
+    {
+      "id": "6cef9bdf30d059656a804f35644e8aba",
+      "title": "Kết quả hậu kiểm mỹ phẩm do thẩm mỹ viện Mailisa buôn bán ra sao?",
+      "link": "https://thanhnien.vn/ket-qua-hau-kiem-my-pham-do-tham-my-vien-mailisa-buon-ban-ra-sao-185251118140441905.htm",
+      "summary": "Tại TP.HCM, kết quả hậu kiểm ban đầu cho thấy công ty cung cấp mỹ phẩm cho hệ thống thẩm mỹ viện Mailisa buôn bán có sai sót về ghi nhãn sản phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:37:00+07:00",
+      "fetched": "2025-11-18T15:23:48.158389+07:00"
+    },
+    {
+      "id": "25abaf785a11489d9be9dfba9fe38c83",
+      "title": "Lợi ích khi ăn lá đu đủ",
+      "link": "https://vnexpress.net/loi-ich-khi-an-la-du-du-4965322.html",
+      "summary": "Lá đu đủ có khả năng tăng cường miễn dịch, hỗ trợ tiêu hóa và điều hòa lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:30:00+07:00",
+      "fetched": "2025-11-18T15:23:45.267832+07:00"
+    },
+    {
+      "id": "dad688ce96bc0b6b92c77d75c22d61d5",
+      "title": "Xuất khẩu xe điện hóa của Trung Quốc tăng gần 100%",
+      "link": "https://vnexpress.net/xuat-khau-xe-dien-hoa-cua-trung-quoc-tang-gan-100-4965380.html",
+      "summary": "Trong tháng 10, có 256.000 xe năng lượng mới của Trung Quốc được xuất khẩu, tăng 99,9% so với cùng kỳ 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:28:23+07:00",
+      "fetched": "2025-11-18T15:23:45.268019+07:00"
+    },
+    {
+      "id": "36aa071103201d38d535e5035580b001",
+      "title": "Máy bay 'made in China' tìm khách mua ở Vùng Vịnh",
+      "link": "https://vnexpress.net/may-bay-made-in-china-tim-khach-mua-o-vung-vinh-4965291.html",
+      "summary": "Ngày 17/11, chiếc C919 - máy bay chở khách do Trung Quốc tự sản xuất đã bay trình diễn tại triển lãm hàng không Dubai Airshow.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:28:00+07:00",
+      "fetched": "2025-11-18T15:23:45.268189+07:00"
+    },
+    {
+      "id": "f951dcdc5f9cf878feee7f726c1d852f",
+      "title": "Đôi vợ chồng bế con lên sân khấu nhận bằng tốt nghiệp 'gây sốt' mạng",
+      "link": "https://thanhnien.vn/doi-vo-chong-be-con-len-san-khau-nhan-bang-tot-nghiep-gay-sot-mang-185251118132059038.htm",
+      "summary": "Tại lễ tốt nghiệp mới đây của Trường ĐH FPT (Đà Nẵng), khoảnh khắc một gia đình nhỏ cùng lên sân khấu nhận bằng đã nhanh chóng được chia sẻ nhiều trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:28:00+07:00",
+      "fetched": "2025-11-18T15:23:48.158541+07:00"
+    },
+    {
+      "id": "36aa071103201d38d535e5035580b001",
+      "title": "Máy bay 'made in China' tìm khách mua ở Vùng Vịnh",
+      "link": "https://vnexpress.net/may-bay-made-in-china-tim-khach-mua-o-vung-vinh-4965291.html",
+      "summary": "Ngày 17/11, chiếc C919 - máy bay chở khách do Trung Quốc tự sản xuất đã bay trình diễn tại triển lãm hàng không Dubai Airshow.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T07:28:00+07:00",
+      "fetched": "2025-11-18T15:23:52.397619+07:00"
+    },
+    {
+      "id": "9ca33df36a193488ca86d36a178b5cfc",
+      "title": "FIFA: Malaysia dùng 'chiến thuật né trách nhiệm' vụ gian lận nhập tịch",
+      "link": "https://vnexpress.net/fifa-malaysia-dung-chien-thuat-ne-trach-nhiem-vu-gian-lan-nhap-tich-4965391.html",
+      "summary": "Trong văn bài dài 64 trang, Ủy ban kháng cáo FIFA nêu chi tiết lý do giữ nguyên án phạt dành cho LĐBĐ Malaysia và 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:21:54+07:00",
+      "fetched": "2025-11-18T15:23:45.268349+07:00"
+    },
+    {
+      "id": "9ca33df36a193488ca86d36a178b5cfc",
+      "title": "FIFA: Malaysia dùng 'chiến thuật né trách nhiệm' vụ gian lận nhập tịch",
+      "link": "https://vnexpress.net/fifa-malaysia-dung-chien-thuat-ne-trach-nhiem-vu-gian-lan-nhap-tich-4965391.html",
+      "summary": "Trong văn bài dài 64 trang, Ủy ban kháng cáo FIFA nêu chi tiết lý do giữ nguyên án phạt dành cho LĐBĐ Malaysia và 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T07:21:54+07:00",
+      "fetched": "2025-11-18T15:23:56.301957+07:00"
+    },
+    {
+      "id": "f05eaeeeabb0ea393f09006fc9c6f8f6",
+      "title": "Đua cua ở Cà Mau",
+      "link": "https://vnexpress.net/dua-cua-o-ca-mau-4965148.html",
+      "summary": "Sau hiệu lệnh, người chơi tạo ra âm thanh thúc \"vận động viên\" cua bò trên đường đua ba mét để về đích nhanh nhất, trong Ngày hội Cua Cà Mau lần thứ hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:18:38+07:00",
+      "fetched": "2025-11-18T15:23:45.268512+07:00"
+    },
+    {
+      "id": "616d55377589a06cbbc0867e27c57fdb",
+      "title": "Vợ chồng Mỹ đến châu Âu 'du lịch thụ tinh' giá rẻ",
+      "link": "https://vnexpress.net/vo-chong-my-den-chau-au-du-lich-thu-tinh-gia-re-4965206.html",
+      "summary": "Do chi phí IVF tại Mỹ có thể lên tới 25.000 USD mỗi chu kỳ, nhiều cặp vợ chồng đã bay nửa vòng trái đất để biến hành trình tìm con thành chuyến \"du lịch thụ tinh\" giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:13:37+07:00",
+      "fetched": "2025-11-18T15:23:45.268670+07:00"
+    },
+    {
+      "id": "93d94a707e2b90e45b4dcffd7a6a073f",
+      "title": "Đêm nhạc để khán giả nằm thưởng thức",
+      "link": "https://vnexpress.net/dem-nhac-de-khan-gia-nam-thuong-thuc-4964953.html",
+      "summary": "Ban tổ chức bố trí ghế để khán giả nằm cảm nhận âm nhạc trong chương trình \"Sound Healing Private Concert\", sẽ diễn ngày 29/11 ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:11:15+07:00",
+      "fetched": "2025-11-18T15:23:45.268884+07:00"
+    },
+    {
+      "id": "17710f16997417de222cbf410ad3b8c0",
+      "title": "Thành ngữ ẩn sau hũ mật và củ gừng là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-an-sau-hu-mat-va-cu-gung-la-gi-4965365.html",
+      "summary": "Thành ngữ chỉ những người sống vô ơn bạc nghĩa, chỉ biết lợi dụng lòng tốt của người khác, tính toán thiệt hơn người đã giúp mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:06:48+07:00",
+      "fetched": "2025-11-18T15:23:45.269052+07:00"
+    },
+    {
+      "id": "3597819403569e360f297bb7246020b9",
+      "title": "Chuyên gia Herbalife tập huấn dinh dưỡng thể thao cho VĐV, HLV Việt Nam",
+      "link": "https://vnexpress.net/chuyen-gia-herbalife-tap-huan-dinh-duong-cho-vdv-viet-nam-4965308.html",
+      "summary": "Tiến sĩ Julian Alvarez (Tây Ban Nha), tập huấn dinh dưỡng cá nhân hóa, cách phục hồi và sử dụng sản phẩm bổ sung an toàn cho VĐV, HLV Việt Nam, chiều 17/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:42+07:00",
+      "fetched": "2025-11-18T15:23:45.269219+07:00"
+    },
+    {
+      "id": "d67384893917b794b2e5f7354d086997",
+      "title": "U hốc mũi tiến triển ung thư sau một năm",
+      "link": "https://vnexpress.net/u-hoc-mui-tien-trien-ung-thu-sau-mot-nam-4965377.html",
+      "summary": "Ông Lăng, 58 tuổi, nghẹt mũi thường xuyên, đi khám phát hiện u nhỏ trong mũi không triệu chứng, nay u chảy máu, bác sĩ chẩn đoán ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.269381+07:00"
+    },
+    {
+      "id": "255ce9d91779eb1e53e08d80c62e610b",
+      "title": "Viettron và Vnines phát triển nhà máy thông minh AioT",
+      "link": "https://vnexpress.net/viettron-va-vnines-phat-trien-nha-may-thong-minh-aiot-4965375.html",
+      "summary": "Viettron Technology và Vnines Innovation thiết kế, nghiên cứu, sản xuất thông minh, kỳ vọng đưa Việt Nam thành trung tâm sản xuất công nghệ cao và hệ thống xe điện hạng nhẹ (LEV).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.269537+07:00"
+    },
+    {
+      "id": "99102ece0a5481247fbcae9d19095338",
+      "title": "Ăn hạnh nhân giảm cholesterol xấu",
+      "link": "https://vnexpress.net/an-hanh-nhan-giam-cholesterol-xau-4965373.html",
+      "summary": "Ăn 20-30 g hạnh nhân mỗi ngày cung cấp chất béo không bão hòa, chất xơ, hỗ trợ giảm cholesterol xấu và duy trì cholesterol tốt, làm sạch mảng bám trong lòng mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.269693+07:00"
+    },
+    {
+      "id": "f985b93eb474d49778aaf76dd20f9685",
+      "title": "Canifa trình làng BTS mới ở Vietnam International Fashion Week",
+      "link": "https://vnexpress.net/canifa-trinh-lang-bts-moi-o-vietnam-international-fashion-week-4965371.html",
+      "summary": "Canifa ra mắt BST \"Timeless Bonding\" tại Aquafina Vietnam International Fashion Week 2025, đánh dấu năm thứ 7 thương hiệu đồng hành sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.269867+07:00"
+    },
+    {
+      "id": "70e41b5370f278934636f45156cbb70e",
+      "title": "Facebook gỡ 5,4 triệu bài đăng lừa đảo, gian lận tại Việt Nam",
+      "link": "https://vnexpress.net/facebook-go-5-4-trieu-bai-dang-lua-dao-gian-lan-tai-viet-nam-4965327.html",
+      "summary": "Meta cho biết hơn 5,4 triệu nội dung gian lận, lừa đảo và gây hiểu lầm trên Facebook tại Việt Nam đã bị gỡ bỏ trong nửa đầu 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.270029+07:00"
+    },
+    {
+      "id": "fd0079d491c124104a21b7102f30f19e",
+      "title": "Lý do Solaria Rise phía Tây TP HCM được lòng khách hàng trẻ",
+      "link": "https://vnexpress.net/ly-do-solaria-rise-phia-tay-tp-hcm-duoc-long-khach-hang-tre-4964933.html",
+      "summary": "Sự kiện mở bán Solaria Rise mới đây thu hút đông đảo gia đình trẻ tìm mua căn hộ, với mong muốn sở hữu không gian sống xanh, tiện ích và mức giá phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:45.270179+07:00"
+    },
+    {
+      "id": "70e41b5370f278934636f45156cbb70e",
+      "title": "Facebook gỡ 5,4 triệu bài đăng lừa đảo, gian lận tại Việt Nam",
+      "link": "https://vnexpress.net/facebook-go-5-4-trieu-bai-dang-lua-dao-gian-lan-tai-viet-nam-4965327.html",
+      "summary": "Meta cho biết hơn 5,4 triệu nội dung gian lận, lừa đảo và gây hiểu lầm trên Facebook tại Việt Nam đã bị gỡ bỏ trong nửa đầu 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-18T07:00:00+07:00",
+      "fetched": "2025-11-18T15:23:54.600850+07:00"
+    },
+    {
+      "id": "35000270de9d93ca73795615f39fa256",
+      "title": "Đại biểu Quốc hội: Cần cấm tuyệt đối ép mua bảo hiểm khi vay ngân hàng",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-cam-tuyet-doi-ep-mua-bao-hiem-khi-vay-ngan-hang-4965338.html",
+      "summary": "Phó đoàn đại biểu Thái Nguyên Hà Sỹ Huân đề nghị cấm tuyệt đối việc ép mua bảo hiểm khi vay, tăng chế tài xử phạt ngân hàng vi phạm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T06:35:58+07:00",
+      "fetched": "2025-11-18T15:23:52.397818+07:00"
     },
     {
       "id": "877548aebefc29a9eec179cecdb387d2",
