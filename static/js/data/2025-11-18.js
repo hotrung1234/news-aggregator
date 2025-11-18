@@ -1,7 +1,157 @@
 window.newsData_2025_11_18 = {
   "date": "2025-11-18",
-  "lastUpdated": "2025-11-18T15:23:56.312172+07:00",
+  "lastUpdated": "2025-11-18T17:20:20.252200+07:00",
   "articles": [
+    {
+      "id": "4c256c5645e2b3a07b12f3651580fe4f",
+      "title": "Mỹ đứng đầu danh sách vay nợ Trung Quốc, vượt xa EU và Anh",
+      "link": "https://tuoitre.vn/my-dung-dau-danh-sach-vay-no-trung-quoc-vuot-xa-eu-va-anh-20251118145949291.htm",
+      "summary": "Mỹ đang dẫn đầu danh sách các nước nhận vốn từ Trung Quốc với hơn 200 tỉ USD cho gần 2.500 dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.251237+07:00",
+      "fetched": "2025-11-18T17:20:13.251354+07:00"
+    },
+    {
+      "id": "c0b1c50b0d6c1a341e98e2930f92bba7",
+      "title": "Tìm thấy thi thể nạn nhân bị lũ cuốn ở Đà Nẵng, xe đặc chủng vận chuyển bệnh nhân ở vùng cô lập",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nan-nhan-bi-lu-cuon-o-da-nang-xe-dac-chung-van-chuyen-benh-nhan-o-vung-co-lap-2025111815053601.htm",
+      "summary": "Sau nhiều ngày huy động lực lượng tìm kiếm, trưa 18-11 lực lượng quân đội đã tìm thấy thi thể người đàn ông bị nước lũ cuốn trôi trong lúc đi làm keo một ngày trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.251105+07:00",
+      "fetched": "2025-11-18T17:20:13.251226+07:00"
+    },
+    {
+      "id": "758e8693eeb641e919b05df941efcc24",
+      "title": "Trình Quốc hội nghị quyết đề xuất Nhà nước thu hồi đất cho chủ dự án đã thu hồi 75% diện tích đất",
+      "link": "https://tuoitre.vn/trinh-quoc-hoi-nghi-quyet-de-xuat-nha-nuoc-thu-hoi-dat-cho-chu-du-an-da-thu-hoi-75-dien-tich-dat-20251118150351287.htm",
+      "summary": "Dự án đã thỏa thuận được trên 75% diện tích đất và trên 75% số lượng người sử dụng đất thì HĐND cấp tỉnh xem xét, thông qua việc thu hồi phần diện tích đất còn lại để giao đất, cho thuê đất cho chủ đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250982+07:00",
+      "fetched": "2025-11-18T17:20:13.251094+07:00"
+    },
+    {
+      "id": "d5de83c1ba89003cffa48a8d9306fdad",
+      "title": "Chính thức bàn giao tài sản cảng hàng không quốc tế Phú Quốc",
+      "link": "https://tuoitre.vn/chinh-thuc-ban-giao-tai-san-cang-hang-khong-quoc-te-phu-quoc-20251118145239277.htm",
+      "summary": "Ngày 18-11, tại UBND đặc khu Phú Quốc, ông Hồ Văn Mừng - Chủ tịch UBND tỉnh An Giang - chủ trì hội nghị bàn giao tài sản cảng hàng không quốc tế Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250859+07:00",
+      "fetched": "2025-11-18T17:20:13.250971+07:00"
+    },
+    {
+      "id": "c509b2732f7eedc7e807909371d70c0e",
+      "title": "Sở Xây dựng đề xuất tiếp tục nghiên cứu, sửa đổi quy định về lưu trú ngắn hạn trong chung cư",
+      "link": "https://tuoitre.vn/so-xay-dung-de-xuat-tiep-tuc-nghien-cuu-sua-doi-quy-dinh-ve-luu-tru-ngan-han-trong-chung-cu-20251118145714913.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản báo cáo UBND TP.HCM về việc thực hiện mô hình cho thuê lưu trú ngắn hạn trong nhà chung cư trên địa bàn TP, trong đó đề xuất giao đơn vị này sửa đổi các quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250714+07:00",
+      "fetched": "2025-11-18T17:20:13.250847+07:00"
+    },
+    {
+      "id": "2537226385d10510aae98ada194b10ef",
+      "title": "FIFA công bố lý do bác đơn kháng cáo của Malaysia",
+      "link": "https://tuoitre.vn/fifa-cong-bo-ly-do-bac-don-khang-cao-cua-malaysia-20251118151109289.htm",
+      "summary": "Mới đây, trang chủ FIFA đã công bố hồ sơ gồm 64 trang, thông báo về lý do bác bỏ đơn kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) liên quan đến bê bối 7 cầu thủ nhập tịch gian lận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250592+07:00",
+      "fetched": "2025-11-18T17:20:13.250703+07:00"
+    },
+    {
+      "id": "9bd4df35a6844b406a546a62578108b1",
+      "title": "Bộ trưởng Bộ Xây dựng yêu cầu nỗ lực vượt bậc để hoàn thành cao tốc nối sân bay Long Thành",
+      "link": "https://tuoitre.vn/bo-truong-bo-xay-dung-yeu-cau-no-luc-vuot-bac-de-hoan-thanh-cao-toc-noi-san-bay-long-thanh-20251118145442517.htm",
+      "summary": "Khối lượng công việc còn lại rất lớn, các đơn vị cần phải quyết tâm, nỗ lực vượt bậc mới có thể hoàn thành các tuyến cao tốc kết nối sân bay Long Thành theo kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250461+07:00",
+      "fetched": "2025-11-18T17:20:13.250580+07:00"
+    },
+    {
+      "id": "e1de178b8607614b8fd5ed08f72263de",
+      "title": "Thể Công - Viettel xin trọng tài ngoại bắt trận đấu với Công An Hà Nội",
+      "link": "https://tuoitre.vn/the-cong-viettel-xin-trong-tai-ngoai-bat-tran-dau-voi-cong-an-ha-noi-20251118151304506.htm",
+      "summary": "CLB Thể Công - Viettel đề xuất VPF thuê trọng tài ngoại cầm còi trận đấu với Công An Hà Nội thuộc vòng 16 đội Cúp quốc gia 2025 - 2026, diễn ra ngày 23-11 tới trên sân Hàng Đẫy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250336+07:00",
+      "fetched": "2025-11-18T17:20:13.250449+07:00"
+    },
+    {
+      "id": "cd3be962dc2c79e2dafad33e04b0fb99",
+      "title": "Quy Nhơn ngập lụt, Chủ tịch tỉnh yêu cầu sơ tán dân khỏi nơi nguy hiểm",
+      "link": "https://tuoitre.vn/quy-nhon-ngap-lut-chu-tich-tinh-yeu-cau-so-tan-dan-khoi-noi-nguy-hiem-20251118150225362.htm",
+      "summary": "Chiều 18-11, ngập lụt nhiều nơi tại khu vực TP Quy Nhơn và huyện Tuy Phước cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250213+07:00",
+      "fetched": "2025-11-18T17:20:13.250325+07:00"
+    },
+    {
+      "id": "ffd0320a3d007d06a6085c925165edfd",
+      "title": "Canh bún cô Lan tít hẻm sâu, ẩn số gì khiến khách gần xa tìm kiếm",
+      "link": "https://tuoitre.vn/canh-bun-co-lan-tit-hem-sau-an-so-gi-khien-khach-gan-xa-tim-kiem-20251118150452205.htm",
+      "summary": "Nằm sâu trong con hẻm nhỏ giao giữa đường Phạm Văn Hai và Nguyễn Bặc (phường Tân Sơn Hòa, quận Tân Bình cũ), quán canh bún của cô Lan là một trong những địa chỉ ăn trưa quen thuộc của người dân nơi đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.250086+07:00",
+      "fetched": "2025-11-18T17:20:13.250202+07:00"
+    },
+    {
+      "id": "35af22a3acbcc8c71f9bdff9ed70b0d4",
+      "title": "Ông Nguyễn Văn Út giữ chức Phó bí thư Tỉnh ủy Đồng Nai",
+      "link": "https://tuoitre.vn/ong-nguyen-van-ut-giu-chuc-pho-bi-thu-tinh-uy-dong-nai-20251116114943539.htm",
+      "summary": "Ông Nguyễn Văn Út - Phó bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Tây Ninh - được Ban Bí thư điều động, chỉ định giữ chức Phó bí thư Tỉnh ủy Đồng Nai nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.249954+07:00",
+      "fetched": "2025-11-18T17:20:13.250074+07:00"
+    },
+    {
+      "id": "bb0cfa8bd7f79550e58416ae1614b379",
+      "title": "Bộ Quốc phòng giao Quân khu 4, Quân khu 5 bằng mọi biện pháp tiếp cận ngay khu vực dân bị cô lập",
+      "link": "https://tuoitre.vn/bo-quoc-phong-giao-quan-khu-4-quan-khu-5-bang-moi-bien-phap-tiep-can-ngay-khu-vuc-dan-bi-co-lap-20251118151741579.htm",
+      "summary": "Bộ Quốc phòng giao Quân khu 4, Quân khu 5 chỉ đạo bộ chỉ huy quân sự các tỉnh, thành phố phối hợp cùng cấp ủy, chính quyền điều động lực lượng, phương tiện, bằng mọi biện pháp, tiếp cận ngay các khu vực dân cư bị cô lập do ngập lụt, sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.249815+07:00",
+      "fetched": "2025-11-18T17:20:13.249942+07:00"
+    },
+    {
+      "id": "72cd65c50d423f9b64b1417d498c332b",
+      "title": "'Parasocial' liên quan gì đến AI mà Cambridge Dictionary công bố là từ của năm 2025?",
+      "link": "https://tuoitre.vn/parasocial-lien-quan-gi-den-ai-ma-cambridge-dictionary-cong-bo-la-tu-cua-nam-2025-20251118154133294.htm",
+      "summary": "Hiện tượng con người ngày càng cảm thấy thân thiết với những người chưa từng gặp, thậm chí là AI đưa 'parasocial' trở thành từ của năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.249659+07:00",
+      "fetched": "2025-11-18T17:20:13.249802+07:00"
+    },
+    {
+      "id": "308c0ca6b26d3aadb0a56f87d7f0af05",
+      "title": "Sự thật về câu chuyện cảm động ‘sói bảo vệ đàn lợn con khỏi sư tử núi’",
+      "link": "https://tuoitre.vn/su-that-ve-cau-chuyen-cam-dong-soi-bao-ve-dan-lon-con-khoi-su-tu-nui-20251118131934589.htm",
+      "summary": "Một video đang được chia sẻ trên mạng xã hội, ghi lại cảnh một con sói bảo vệ lợn con khỏi sư tử núi. Tuy nhiên có một sự thật khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.249519+07:00",
+      "fetched": "2025-11-18T17:20:13.249647+07:00"
+    },
+    {
+      "id": "c8085940a29d405f2164d5f46c62aa41",
+      "title": "Ông U Huấn tái đắc cử Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Ngãi",
+      "link": "https://tuoitre.vn/ong-u-huan-tai-dac-cu-chu-tich-uy-ban-mat-tran-to-quoc-viet-nam-tinh-quang-ngai-20251118152229057.htm",
+      "summary": "Ông U Huấn tái đắc cử Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Quảng Ngãi khóa 1, nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T17:20:13.249293+07:00",
+      "fetched": "2025-11-18T17:20:13.249504+07:00"
+    },
     {
       "id": "50b48b8c7eb7f49b640be89895528293",
       "title": "Hiểu về công nghệ và dinh dưỡng để kiểm soát đường huyết hiệu quả",
@@ -453,6 +603,66 @@ window.newsData_2025_11_18 = {
       "fetched": "2025-11-18T11:20:57.383736+07:00"
     },
     {
+      "id": "5af16fd72752949b78b180b62baba594",
+      "title": "Đà Nẵng: Tìm thấy thi thể người đàn ông bị lũ cuốn khi đi làm keo",
+      "link": "https://thanhnien.vn/da-nang-tim-thay-thi-the-nguoi-dan-ong-bi-lu-cuon-khi-di-lam-keo-185251118153607285.htm",
+      "summary": "Thi thể nạn nhân bị lũ cuốn trôi mất tích chiều 17.11 khi đi làm keo tại một xã ở TP.Đà Nẵng đã được các lực lượng chức năng phát hiện vào đầu giờ chiều nay 18.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:17:00+07:00",
+      "fetched": "2025-11-18T17:20:12.408370+07:00"
+    },
+    {
+      "id": "8eff7a2ceb426f850c754ac1328d8e25",
+      "title": "Vĩnh Long: Truy tìm nạn nhân vụ lừa đảo liên quan Công ty Cao Mạc",
+      "link": "https://thanhnien.vn/vinh-long-truy-tim-nan-nhan-vu-lua-dao-lien-quan-cong-ty-cao-mac-185251118151147895.htm",
+      "summary": "Công an Vĩnh Long thông báo truy tìm người bị hại trong vụ lừa đảo đất đai liên quan Công ty Cao Mạc, nhằm phục vụ điều tra và bảo vệ quyền lợi người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:16:00+07:00",
+      "fetched": "2025-11-18T17:20:12.408537+07:00"
+    },
+    {
+      "id": "0a3749b57d311a7ed3333a6d7a531172",
+      "title": "Ông Nguyễn Văn Út giữ chức Chủ tịch UBND tỉnh Đồng Nai",
+      "link": "https://thanhnien.vn/ong-nguyen-van-ut-giu-chuc-chu-tich-ubnd-tinh-dong-nai-185251118140117684.htm",
+      "summary": "Ông Nguyễn Văn Út, Phó bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Tây Ninh được Ban Bí thư điều động, chỉ định tham gia Ban Chấp hành, Ban Thường vụ và giữ chức Phó bí thư Tỉnh ủy Đồng Nai nhiệm kỳ 2025 - 2030. Sau đó, ông được các đại biểu HĐND tỉnh bầu làm Chủ tịch UBND tỉnh Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:16:00+07:00",
+      "fetched": "2025-11-18T17:20:12.408695+07:00"
+    },
+    {
+      "id": "e44948d331c3174a34e77bcb984cd07e",
+      "title": "Các đèo Mimosa, Prenn và D'Ran sạt lở, đường lên Đà Lạt thêm khó khăn",
+      "link": "https://thanhnien.vn/cac-deo-mimosa-prenn-va-dran-sat-lo-duong-len-da-lat-them-kho-khan-185251118150926247.htm",
+      "summary": "Cơ quan chức năng P. Xuân Hương - Đà Lạt (Lâm Đồng) vừa phát hiện sạt trượt đất phía taluy âm trên đèo Mimosa, QL20 và đã giăng dây cảnh báo để đảm bảo an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:14:00+07:00",
+      "fetched": "2025-11-18T17:20:12.408872+07:00"
+    },
+    {
+      "id": "206544ec00c32861c9651606d3e4f82f",
+      "title": "Mưa lớn khiến nhiều khu vực phía đông tỉnh Gia Lai ngập sâu",
+      "link": "https://thanhnien.vn/mua-lon-khien-nhieu-khu-vuc-phia-dong-tinh-gia-lai-ngap-sau-185251118131732213.htm",
+      "summary": "Mưa lớn khiến nhiều khu dân cư phía đông Gia Lai ngập sâu, một số tuyến đường bị ảnh hưởng. Lực lượng chức năng đã chốt chặn và hỗ trợ người dân di dời đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:13:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409025+07:00"
+    },
+    {
+      "id": "88bb4a7b33bc1f9fd05dd4b146aa1e01",
+      "title": "Cầu thủ nhập tịch Malaysia nói ‘không biết gì’, đổ lỗi người đại diện",
+      "link": "https://thanhnien.vn/cau-thu-nhap-tich-malaysia-noi-khong-biet-gi-do-loi-nguoi-dai-dien-185251118171102972.htm",
+      "summary": "Theo New Straits Times, những cầu thủ liên quan trực tiếp đến bê bối nhập tịch của bóng đá Malaysia khẳng định với FIFA rằng họ hoàn toàn không biết về các giấy tờ giả mạo được nộp dưới tên mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:12:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409180+07:00"
+    },
+    {
       "id": "0562f4ef125c85b04977eeaac7b267c0",
       "title": "Ba tác phẩm của tác giả Lê Duy Hạnh đến với liên hoan sân khấu quốc tế",
       "link": "https://tuoitre.vn/ba-tac-pham-cua-tac-gia-le-duy-hanh-den-voi-lien-hoan-san-khau-quoc-te-20251118074707661.htm",
@@ -601,6 +811,366 @@ window.newsData_2025_11_18 = {
       "category": "Tổng hợp",
       "published": "2025-11-18T10:10:17.175606+07:00",
       "fetched": "2025-11-18T10:10:17.175825+07:00"
+    },
+    {
+      "id": "b8c902b98473d9e650ee8de07360fb2b",
+      "title": "Phân công ông Nguyễn Lộc Hà xử lý công việc hằng ngày của UBND TP.HCM",
+      "link": "https://thanhnien.vn/phan-cong-ong-nguyen-loc-ha-xu-ly-cong-viec-hang-ngay-cua-ubnd-tphcm-18525111816515545.htm",
+      "summary": "Ông Nguyễn Lộc Hà, Phó bí thư Thường trực Đảng ủy, Phó chủ tịch UBND TP.HCM được phân công xử lý công việc thường xuyên, hằng ngày của UBND TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:09:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409340+07:00"
+    },
+    {
+      "id": "0c5abb65139fd94a88cbf1d9275aadad",
+      "title": "Nhiều nơi ở Gia Lai chìm trong nước lũ, dân than: 'Bê tông bít hết, khó thoát nước'",
+      "link": "https://thanhnien.vn/nhieu-noi-o-gia-lai-chim-trong-nuoc-lu-dan-than-be-tong-bit-het-kho-thoat-nuoc-185251118170428599.htm",
+      "summary": "Mưa lớn kéo dài sáng 18.11 khiến nhiều khu vực phía đông tỉnh Gia Lai (tỉnh Bình Định cũ) bị ngập sâu 0,5 – 1,5 m, nhiều hộ dân phải di dời đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:08:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409490+07:00"
+    },
+    {
+      "id": "4fd43b1aa05c3531b7b593da7f41180a",
+      "title": "Thủ tướng phê chuẩn chủ tịch các tỉnh Lào Cai và Ninh Bình",
+      "link": "https://thanhnien.vn/thu-tuong-phe-chuan-chu-tich-cac-tinh-lao-cai-va-ninh-binh-185251118153338225.htm",
+      "summary": "Thủ tướng Chính phủ vừa phê chuẩn kết quả bầu cử chức vụ chủ tịch UBND của 2 tỉnh Lào Cai, Ninh Bình, nhiệm kỳ 2021 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:06:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409636+07:00"
+    },
+    {
+      "id": "596b0dc11baf06f58de2b99a2a1128ba",
+      "title": "12 đội vào vòng playoff Giải Bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/12-doi-vao-vong-playoff-giai-bong-ro-tre-vnexpress-4965383.html",
+      "summary": "Tám đội nam và bốn đội nữ của các trường THPT tại Hà Nội tranh vô địch Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja từ cuối tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:00:00+07:00",
+      "fetched": "2025-11-18T17:20:09.452605+07:00"
+    },
+    {
+      "id": "9f29a1bf98cd0b5889c61121522f66e0",
+      "title": "Toàn cảnh 17h: Bà trùm sim thẻ giúp sức Shark Thủy | Ngày mai xét xử Thùy Tiên, Quang Linh Vlog",
+      "link": "https://thanhnien.vn/toan-canh-17h-ba-trum-sim-the-giup-suc-shark-thuy-ngay-mai-xet-xu-thuy-tien-quang-linh-vlog-18525111816151578.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T10:00:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409809+07:00"
+    },
+    {
+      "id": "0e5df6327271de7c7a74523141776dc7",
+      "title": "Tỷ phú Elon Musk đáp trả ca sĩ Billie Eilish",
+      "link": "https://vnexpress.net/ty-phu-elon-musk-dap-tra-ca-si-billie-eilish-4965450.html",
+      "summary": "Tỷ phú Elon Musk phản bác Billie Eilish, nói cô \"không thông minh lắm\" khi chỉ ông cách chi hàng tỷ USD để giải quyết vấn đề toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:59:57+07:00",
+      "fetched": "2025-11-18T17:20:09.452811+07:00"
+    },
+    {
+      "id": "f4add1ec9928c43635ecdc77084515d5",
+      "title": "Bổ sung Vitamin C: Ăn rau củ nào tốt hơn trái cam?",
+      "link": "https://thanhnien.vn/bo-sung-vitamin-c-an-rau-cu-nao-tot-hon-trai-cam-185251118141109815.htm",
+      "summary": "Vitamin C là một trong những vi chất quan trọng giúp tăng cường miễn dịch, làm đẹp da và bảo vệ tim mạch. Nhiều người cho rằng cam là nguồn vitamin C dồi dào nhất. Tuy nhiên, theo các chuyên gia dinh dưỡng, nhiều loại rau củ và trái cây quen thuộc còn chứa lượng vitamin C cao hơn cả cam, vốn chỉ cun...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:53:00+07:00",
+      "fetched": "2025-11-18T17:20:12.409963+07:00"
+    },
+    {
+      "id": "7a78da2ce8310094f2c01518dbf8e99c",
+      "title": "Trúc Anh 'Mắt biếc' trải lòng sau biến cố, mong tái hợp Trần Nghĩa trên màn ảnh",
+      "link": "https://thanhnien.vn/truc-anh-mat-biec-trai-long-sau-bien-co-mong-tai-hop-tran-nghia-tren-man-anh-185251117193345107.htm",
+      "summary": "Sau thời gian dài vắng bóng, diễn viên Trúc Anh – nàng 'Hà Lan' trong phim 'Mắt biếc' đã có những chia sẻ về quãng thời gian khó khăn vừa qua, cũng như mong muốn được tái xuất màn ảnh cùng bạn diễn Trần Nghĩa, người từng cùng cô tạo nên cặp đôi được khán giả yêu mến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:47:00+07:00",
+      "fetched": "2025-11-18T17:20:12.410110+07:00"
+    },
+    {
+      "id": "1361eda4de0dc2c544e2d519eabd4b3d",
+      "title": "Bà Bùi Huyền Mai làm Chủ tịch Ủy ban MTTQ Việt Nam TP.Hà Nội",
+      "link": "https://thanhnien.vn/ba-bui-huyen-mai-lam-chu-tich-uy-ban-mttq-viet-nam-tpha-noi-185251118152913612.htm",
+      "summary": "Bà Bùi Huyền Mai, Ủy viên Ban Thường vụ Thành ủy Hà Nội, được hiệp thương cử giữ chức Chủ tịch Ủy ban MTTQ Việt Nam TP.Hà Nội, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:46:00+07:00",
+      "fetched": "2025-11-18T17:20:12.410255+07:00"
+    },
+    {
+      "id": "705d96cea87ab0b0561767d485138d1a",
+      "title": "Chủ tịch Bảo Tín Mạnh Hải: Doanh nghiệp trang sức gặp khó về nguyên liệu vàng",
+      "link": "https://vnexpress.net/chu-tich-bao-tin-manh-hai-doanh-nghiep-trang-suc-gap-kho-ve-nguyen-lieu-vang-4965412.html",
+      "summary": "Ông Vũ Hồng Sơn, Chủ tịch Bảo Tín Mạnh Hải cho biết nhiều doanh nghiệp trang sức khó tiếp cận nguyên liệu đầu vào, thậm chí buộc phải dùng nguồn vàng \"trôi nổi\" để duy trì sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:42:54+07:00",
+      "fetched": "2025-11-18T17:20:09.452982+07:00"
+    },
+    {
+      "id": "705d96cea87ab0b0561767d485138d1a",
+      "title": "Chủ tịch Bảo Tín Mạnh Hải: Doanh nghiệp trang sức gặp khó về nguyên liệu vàng",
+      "link": "https://vnexpress.net/chu-tich-bao-tin-manh-hai-doanh-nghiep-trang-suc-gap-kho-ve-nguyen-lieu-vang-4965412.html",
+      "summary": "Ông Vũ Hồng Sơn, Chủ tịch Bảo Tín Mạnh Hải cho biết nhiều doanh nghiệp trang sức khó tiếp cận nguyên liệu đầu vào, thậm chí buộc phải dùng nguồn vàng \"trôi nổi\" để duy trì sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T09:42:54+07:00",
+      "fetched": "2025-11-18T17:20:15.849064+07:00"
+    },
+    {
+      "id": "7e05c861308c0ba1af6532cf6da42e39",
+      "title": "Ông trùm Chen Zhi bị nghi có công ty, căn hộ ở Nhật",
+      "link": "https://vnexpress.net/ong-trum-chen-zhi-bi-nghi-co-cong-ty-can-ho-o-nhat-4965470.html",
+      "summary": "Dữ liệu đăng ký doanh nghiệp của Nhật cho thấy ông trùm Chen Zhi, người bị Mỹ truy tố tội lừa đảo, có các công ty và bất động sản ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:35:52+07:00",
+      "fetched": "2025-11-18T17:20:09.453157+07:00"
+    },
+    {
+      "id": "7e05c861308c0ba1af6532cf6da42e39",
+      "title": "Ông trùm Chen Zhi bị nghi có công ty, căn hộ ở Nhật",
+      "link": "https://vnexpress.net/ong-trum-chen-zhi-bi-nghi-co-cong-ty-can-ho-o-nhat-4965470.html",
+      "summary": "Dữ liệu đăng ký doanh nghiệp của Nhật cho thấy ông trùm Chen Zhi, người bị Mỹ truy tố tội lừa đảo, có các công ty và bất động sản ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T09:35:52+07:00",
+      "fetched": "2025-11-18T17:20:14.831840+07:00"
+    },
+    {
+      "id": "93a8ab0b3f7a175802f91a2536ea1c6c",
+      "title": "FIFA phơi bày sự thật bất ngờ, 'sếp lớn' đội tuyển Malaysia thực chất chỉ là...",
+      "link": "https://thanhnien.vn/fifa-phoi-bay-su-that-bat-ngo-sep-lon-doi-tuyen-malaysia-thuc-chat-chi-la-185251118162900136.htm",
+      "summary": "Bản quyết định dài 64 trang của FIFA hé lộ chi tiết đầy bất ngờ: Rob Friend – người được Liên đoàn Bóng đá Malaysia (FAM) giới thiệu là Giám đốc điều hành (CEO) dự án đội tuyển Malaysia, nhưng thực chất chỉ đóng vai trò cố vấn từ xa. Dư luận Malaysia cũng đang đặt nhiều nghi vấn về vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:33:00+07:00",
+      "fetched": "2025-11-18T17:20:12.410407+07:00"
+    },
+    {
+      "id": "8899991d4beac89cf9208bff2a65a3ab",
+      "title": "Nóng: Vĩ Hào khởi sắc, U.23 Việt Nam lo sốt vó vì Văn Trường nhập viện khẩn",
+      "link": "https://thanhnien.vn/nong-vi-hao-khoi-sac-u23-viet-nam-lo-sot-vo-vi-van-truong-nhap-vien-khan-185251118162527695.htm",
+      "summary": "Bùi Vĩ Hào tiếp tục đà trở lại ấn tượng trước U.23 Hàn Quốc, nhưng U.23 Việt Nam đang hết sức lo lắng khi đội trưởng Văn Trường phải bỏ dở trận cuối, nhập viện khẩn vì chấn thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:27:00+07:00",
+      "fetched": "2025-11-18T17:20:12.410554+07:00"
+    },
+    {
+      "id": "1498ff9ab01efea9551956b3e82135a4",
+      "title": "Trung Quốc chi hơn tỷ USD mua tôm Việt Nam",
+      "link": "https://vnexpress.net/trung-quoc-chi-hon-ty-usd-mua-tom-viet-nam-4965320.html",
+      "summary": "Xuất khẩu tôm tăng mạnh khi Trung Quốc trở thành thị trường lớn nhất, chi hơn 1,1 tỷ USD để nhập khẩu mặt hàng này trong 10 tháng, tăng 64% so với cùng kỳ 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:12:30+07:00",
+      "fetched": "2025-11-18T17:20:09.453331+07:00"
+    },
+    {
+      "id": "1498ff9ab01efea9551956b3e82135a4",
+      "title": "Trung Quốc chi hơn tỷ USD mua tôm Việt Nam",
+      "link": "https://vnexpress.net/trung-quoc-chi-hon-ty-usd-mua-tom-viet-nam-4965320.html",
+      "summary": "Xuất khẩu tôm tăng mạnh khi Trung Quốc trở thành thị trường lớn nhất, chi hơn 1,1 tỷ USD để nhập khẩu mặt hàng này trong 10 tháng, tăng 64% so với cùng kỳ 2024.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T09:12:30+07:00",
+      "fetched": "2025-11-18T17:20:15.849239+07:00"
+    },
+    {
+      "id": "e125b110a75d8c04f6e66ea79c861cf2",
+      "title": "Đồng Nai có tân Chủ tịch UBND tỉnh",
+      "link": "https://vnexpress.net/dong-nai-co-tan-chu-tich-ubnd-tinh-4964359.html",
+      "summary": "Ông Nguyễn Văn Út, 56 tuổi, nguyên Chủ tịch UBND tỉnh Tây Ninh được HĐND tỉnh Đồng Nai bầu giữ chức Chủ tịch UBND tỉnh nhiệm kỳ 2021-2026, thay ông Võ Tấn Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:08:34+07:00",
+      "fetched": "2025-11-18T17:20:09.453490+07:00"
+    },
+    {
+      "id": "2236f2b581f8eda988b615d60a3adb04",
+      "title": "4 thực phẩm nên ăn để tăng năng lượng, cân bằng nội tiết nữ",
+      "link": "https://vnexpress.net/4-thuc-pham-nen-an-de-tang-nang-luong-can-bang-noi-tiet-nu-4965352.html",
+      "summary": "Hạt bí ngô giàu kẽm, nho khô đen cung cấp sắt, hạt lanh chứa omega-3 giúp điều hòa nội tiết tố, bổ sung năng lượng cho phái đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T09:00:00+07:00",
+      "fetched": "2025-11-18T17:20:09.453644+07:00"
+    },
+    {
+      "id": "faf7e10bff5fe3ea0703db45273cf370",
+      "title": "Chứng khoán tăng 3 phiên liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-tang-3-phien-lien-tiep-4965447.html",
+      "summary": "Nhà đầu tư rót tiền vào nhóm Vingroup giúp VN-Index tăng phiên thứ ba liên tiếp, lên sát 1.660 điểm, dù số lượng cổ phiếu giảm vẫn chiếm ưu thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:58:36+07:00",
+      "fetched": "2025-11-18T17:20:09.453849+07:00"
+    },
+    {
+      "id": "faf7e10bff5fe3ea0703db45273cf370",
+      "title": "Chứng khoán tăng 3 phiên liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-tang-3-phien-lien-tiep-4965447.html",
+      "summary": "Nhà đầu tư rót tiền vào nhóm Vingroup giúp VN-Index tăng phiên thứ ba liên tiếp, lên sát 1.660 điểm, dù số lượng cổ phiếu giảm vẫn chiếm ưu thế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T08:58:36+07:00",
+      "fetched": "2025-11-18T17:20:15.849401+07:00"
+    },
+    {
+      "id": "87453a1eab8e4fdb021d8911d8ccc795",
+      "title": "'Cần lộ trình thích ứng quy định ghế an toàn trên ôtô cho trẻ em'",
+      "link": "https://vnexpress.net/ghe-an-toan-cho-tre-tren-oto-toi-khong-biet-lap-ghe-an-toan-tren-oto-the-nao-khi-nha-co-bon-con-nho-4965431.html",
+      "summary": "'Việc dùng ghế an toàn trên ôtô cho trẻ em hợp lý nhưng cần lộ trình khuyến khích sử dụng trước khi bắt buộc'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:50:49+07:00",
+      "fetched": "2025-11-18T17:20:09.454025+07:00"
+    },
+    {
+      "id": "13f054bb903e040679fc3ff0ed779bf6",
+      "title": "HLV Sinner tiết lộ cách học hỏi từ 'Big 3'",
+      "link": "https://vnexpress.net/hlv-sinner-tiet-lo-cach-hoc-hoi-tu-big-3-4965456.html",
+      "summary": "Theo HLV Darren Cahill, học trò Jannik Sinner vươn lên trở thành tay vợt hàng đầu thế giới nhờ liên tục học hỏi từ các huyền thoại Roger Federer, Rafael Nadal và Novak Djokovic.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:48:25+07:00",
+      "fetched": "2025-11-18T17:20:09.454181+07:00"
+    },
+    {
+      "id": "13f054bb903e040679fc3ff0ed779bf6",
+      "title": "HLV Sinner tiết lộ cách học hỏi từ 'Big 3'",
+      "link": "https://vnexpress.net/hlv-sinner-tiet-lo-cach-hoc-hoi-tu-big-3-4965456.html",
+      "summary": "Theo HLV Darren Cahill, học trò Jannik Sinner vươn lên trở thành tay vợt hàng đầu thế giới nhờ liên tục học hỏi từ các huyền thoại Roger Federer, Rafael Nadal và Novak Djokovic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T08:48:25+07:00",
+      "fetched": "2025-11-18T17:20:20.242623+07:00"
+    },
+    {
+      "id": "96dc62a5160881ee97066bf190dc7cfc",
+      "title": "Thủ tướng Na Uy mừng chiến thắng với Haaland và đồng đội",
+      "link": "https://vnexpress.net/thu-tuong-na-uy-mung-chien-thang-voi-haaland-va-dong-doi-4965407.html",
+      "summary": "Tiền đạo Erling Haaland cùng tuyển Na Uy được chào đón như những người hùng sau khi giành vé dự World Cup 2026 trên đất Italy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:45:47+07:00",
+      "fetched": "2025-11-18T17:20:09.454331+07:00"
+    },
+    {
+      "id": "96dc62a5160881ee97066bf190dc7cfc",
+      "title": "Thủ tướng Na Uy mừng chiến thắng với Haaland và đồng đội",
+      "link": "https://vnexpress.net/thu-tuong-na-uy-mung-chien-thang-voi-haaland-va-dong-doi-4965407.html",
+      "summary": "Tiền đạo Erling Haaland cùng tuyển Na Uy được chào đón như những người hùng sau khi giành vé dự World Cup 2026 trên đất Italy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T08:45:47+07:00",
+      "fetched": "2025-11-18T17:20:20.242794+07:00"
+    },
+    {
+      "id": "5a318e68fc7633a657f05f32cc33ba41",
+      "title": "Đại tướng Phan Văn Giang mời Slovakia tham dự Triển lãm quốc phòng 2026",
+      "link": "https://vnexpress.net/dai-tuong-phan-van-giang-moi-slovakia-tham-du-trien-lam-quoc-phong-2026-4965436.html",
+      "summary": "Đại tướng Phan Văn Giang mời Phó thủ tướng, Bộ trưởng Quốc phòng Slovakia và đơn vị công nghiệp quốc phòng tham dự Triển lãm Quốc phòng quốc tế Việt Nam cuối năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:45:37+07:00",
+      "fetched": "2025-11-18T17:20:09.454486+07:00"
+    },
+    {
+      "id": "f7eaded423f84495e30c5461750ff456",
+      "title": "Doanh nghiệp Mỹ vay tiền từ Trung Quốc nhiều nhất thế giới",
+      "link": "https://vnexpress.net/doanh-nghiep-my-vay-tien-tu-trung-quoc-nhieu-nhat-the-gioi-4965397.html",
+      "summary": "Các doanh nghiệp Mỹ ước tính đã vay hơn 200 tỷ USD từ các nhà băng Trung Quốc trong 25 năm qua, nhiều hơn bất kỳ nước nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:45:03+07:00",
+      "fetched": "2025-11-18T17:20:09.454640+07:00"
+    },
+    {
+      "id": "f7eaded423f84495e30c5461750ff456",
+      "title": "Doanh nghiệp Mỹ vay tiền từ Trung Quốc nhiều nhất thế giới",
+      "link": "https://vnexpress.net/doanh-nghiep-my-vay-tien-tu-trung-quoc-nhieu-nhat-the-gioi-4965397.html",
+      "summary": "Các doanh nghiệp Mỹ ước tính đã vay hơn 200 tỷ USD từ các nhà băng Trung Quốc trong 25 năm qua, nhiều hơn bất kỳ nước nào.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T08:45:03+07:00",
+      "fetched": "2025-11-18T17:20:15.849559+07:00"
+    },
+    {
+      "id": "d6db6c5faa4217a0afa09f1cdb2f7182",
+      "title": "Triều Tiên cảnh báo 'hiệu ứng domino' từ thỏa thuận tàu ngầm Mỹ - Hàn",
+      "link": "https://vnexpress.net/trieu-tien-canh-bao-hieu-ung-domino-tu-thoa-thuan-tau-ngam-my-han-4965284.html",
+      "summary": "Triều Tiên lên án thỏa thuận đóng tàu ngầm năng lượng hạt nhân của Hàn Quốc và Mỹ, cảnh báo điều này sẽ châm ngòi hiệu ứng domino.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:43:29+07:00",
+      "fetched": "2025-11-18T17:20:09.454815+07:00"
+    },
+    {
+      "id": "d6db6c5faa4217a0afa09f1cdb2f7182",
+      "title": "Triều Tiên cảnh báo 'hiệu ứng domino' từ thỏa thuận tàu ngầm Mỹ - Hàn",
+      "link": "https://vnexpress.net/trieu-tien-canh-bao-hieu-ung-domino-tu-thoa-thuan-tau-ngam-my-han-4965284.html",
+      "summary": "Triều Tiên lên án thỏa thuận đóng tàu ngầm năng lượng hạt nhân của Hàn Quốc và Mỹ, cảnh báo điều này sẽ châm ngòi hiệu ứng domino.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T08:43:29+07:00",
+      "fetched": "2025-11-18T17:20:14.832014+07:00"
+    },
+    {
+      "id": "09a2944c5c4730ec310c053745d64229",
+      "title": "Thái Lan đặt tàu sân bay vào tình trạng sẵn sàng tác chiến",
+      "link": "https://vnexpress.net/thai-lan-dat-tau-san-bay-vao-tinh-trang-san-sang-tac-chien-4965342.html",
+      "summary": "Hải quân Thái Lan đình chỉ hoạt động tham quan, đưa tàu sân bay HTMS Chakri Naruebet vào trạng thái sẵn sàng làm nhiệm vụ do căng thẳng với Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T08:41:51+07:00",
+      "fetched": "2025-11-18T17:20:09.454985+07:00"
+    },
+    {
+      "id": "09a2944c5c4730ec310c053745d64229",
+      "title": "Thái Lan đặt tàu sân bay vào tình trạng sẵn sàng tác chiến",
+      "link": "https://vnexpress.net/thai-lan-dat-tau-san-bay-vao-tinh-trang-san-sang-tac-chien-4965342.html",
+      "summary": "Hải quân Thái Lan đình chỉ hoạt động tham quan, đưa tàu sân bay HTMS Chakri Naruebet vào trạng thái sẵn sàng làm nhiệm vụ do căng thẳng với Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T08:41:51+07:00",
+      "fetched": "2025-11-18T17:20:14.832173+07:00"
+    },
+    {
+      "id": "611a1ca1548758c32dbd9e96e1593473",
+      "title": "Video nhiều lượt xem nhất YouTube kiếm được bao nhiêu tiền?",
+      "link": "https://vnexpress.net/video-nhieu-luot-xem-nhat-youtube-kiem-duoc-bao-nhieu-tien-4965269.html",
+      "summary": "Baby Shark Dance, video được xem nhiều nhất YouTube, mang về doanh thu hàng chục triệu USD cho công ty đứng sau dù thuộc hạng mục thiếu nhi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-18T08:41:05+07:00",
+      "fetched": "2025-11-18T17:20:18.653898+07:00"
+    },
+    {
+      "id": "62982d1974656bb67281b072462b1190",
+      "title": "Ronaldo tới Nhà Trắng gặp Tổng thống Trump",
+      "link": "https://vnexpress.net/ronaldo-toi-nha-trang-gap-tong-thong-trump-4965434.html",
+      "summary": "Siêu sao bóng đá Cristiano Ronaldo dự kiến có mặt tại Nhà Trắng hôm nay, để gặp Tổng thống Donald Trump trước thềm World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T08:26:55+07:00",
+      "fetched": "2025-11-18T17:20:20.241160+07:00"
+    },
+    {
+      "id": "b8af027d35aab6a7b3d0b37e914f32a5",
+      "title": "Phạm nhân nổ súng tẩu thoát trước cửa tòa án Campuchia",
+      "link": "https://vnexpress.net/pham-nhan-no-sung-tau-thoat-truoc-cua-toa-an-campuchia-4965420.html",
+      "summary": "Phạm nhân được đồng bọn trao súng ngay khi xuống xe áp giải, nã đạn vào cảnh sát rồi tẩu thoát khỏi tòa án tỉnh Svay Rieng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T08:25:40+07:00",
+      "fetched": "2025-11-18T17:20:14.832329+07:00"
     },
     {
       "id": "bc66a8a950e786cb95d20e7f5aa21921",
@@ -763,6 +1333,16 @@ window.newsData_2025_11_18 = {
       "fetched": "2025-11-18T08:18:38.227180+07:00"
     },
     {
+      "id": "124d78aa8e7adab39f0b57732f1d7dd2",
+      "title": "Chính phủ đề xuất thêm 3 trường hợp Nhà nước thu hồi đất",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-them-3-truong-hop-nha-nuoc-thu-hoi-dat-4965399.html",
+      "summary": "Chính phủ đề xuất bổ sung 3 trường hợp Nhà nước thu hồi đất để phát triển kinh tế - xã hội, trong đó có trung tâm tài chính quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-18T08:15:09+07:00",
+      "fetched": "2025-11-18T17:20:15.849715+07:00"
+    },
+    {
       "id": "65a4436a177bd03fa9be4900f8eee850",
       "title": "Lên phương án phối hợp nổ mìn thông đèo Khánh Lê",
       "link": "https://thanhnien.vn/len-phuong-an-phoi-hop-no-min-thong-deo-khanh-le-185251118141731498.htm",
@@ -771,6 +1351,16 @@ window.newsData_2025_11_18 = {
       "category": "Tổng hợp",
       "published": "2025-11-18T08:14:00+07:00",
       "fetched": "2025-11-18T15:23:48.156466+07:00"
+    },
+    {
+      "id": "a0332aa653b764c7f02607bf94e51f60",
+      "title": "Xe tăng đắt nhất thế giới được lắp giáp lồng chống drone",
+      "link": "https://vnexpress.net/xe-tang-dat-nhat-the-gioi-duoc-lap-giap-long-chong-drone-4965304.html",
+      "summary": "Quân đội Pháp thử nghiệm giáp lồng trên nóc tháp pháo Leclerc, mẫu xe tăng chủ lực đắt nhất thế giới, nhằm tăng khả năng chống chịu drone.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T08:03:49+07:00",
+      "fetched": "2025-11-18T17:20:14.832484+07:00"
     },
     {
       "id": "b41bac007bb459c4c6f7f7c289c5df29",
