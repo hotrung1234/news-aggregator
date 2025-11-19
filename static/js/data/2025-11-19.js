@@ -1,7 +1,157 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T08:18:49.346390+07:00",
+  "lastUpdated": "2025-11-19T10:09:50.849679+07:00",
   "articles": [
+    {
+      "id": "1703e0f4e8aea0140a85543536961ff4",
+      "title": "8 đội vào tứ kết U17 World Cup 2025",
+      "link": "https://tuoitre.vn/8-doi-vao-tu-ket-u17-world-cup-2025-20251119084313098.htm",
+      "summary": "Sáng 19-11, 8 đội bóng xuất sắc nhất của Vòng chung kết U17 World Cup 2025 đã lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786949+07:00",
+      "fetched": "2025-11-19T10:09:44.787044+07:00"
+    },
+    {
+      "id": "7a39a26e3fd530014c862fa87c2f3fdd",
+      "title": "Chân dung giáo viên thời công nghệ số - Kỳ 3: Dạy trò biết 'lợi dụng' công nghệ để học",
+      "link": "https://tuoitre.vn/chan-dung-giao-vien-thoi-cong-nghe-so-ky-3-day-tro-biet-loi-dung-cong-nghe-de-hoc-2025111901222694.htm",
+      "summary": "Bối cảnh chuyển đổi số mạnh mẽ, công tác chủ nhiệm không đơn thuần như trước mà trở nên phức tạp hơn với hàng loạt kênh giao tiếp trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786841+07:00",
+      "fetched": "2025-11-19T10:09:44.786939+07:00"
+    },
+    {
+      "id": "9db13a30847dc4ebbcb9f6be1b97d4e1",
+      "title": "Tạo môi trường cho doanh nghiệp bứt phá",
+      "link": "https://tuoitre.vn/tao-moi-truong-cho-doanh-nghiep-but-pha-20251118225453259.htm",
+      "summary": "TP.HCM đang đứng trước vận hội lớn để bứt phá thành một trong những trung tâm đổi mới sáng tạo chuẩn quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786733+07:00",
+      "fetched": "2025-11-19T10:09:44.786829+07:00"
+    },
+    {
+      "id": "f924890f02ce8a8ebe3e7c641162087e",
+      "title": "Ngăn né kê khai tài sản",
+      "link": "https://tuoitre.vn/ngan-ne-ke-khai-tai-san-2025111908275349.htm",
+      "summary": "Hôm qua (18-11), Quốc hội thảo luận ở hội trường về dự án Luật sửa đổi, bổ sung một số điều của Luật Phòng chống tham nhũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786619+07:00",
+      "fetched": "2025-11-19T10:09:44.786724+07:00"
+    },
+    {
+      "id": "89e9e7172ce250a27cd21f3f5a33d83d",
+      "title": "Phó thủ tướng Hồ Quốc Dũng: Bằng mọi giá phải di dời người dân vùng ngập lụt đến nơi an toàn",
+      "link": "https://tuoitre.vn/pho-thu-tuong-ho-quoc-dung-bang-moi-gia-phai-di-doi-nguoi-dan-o-vung-ngap-lut-den-noi-an-toan-20251119091414437.htm",
+      "summary": "\"Nếu để người dân thiệt mạng, các đồng chí phải chịu trách nhiệm\" - Phó thủ tướng Hồ Quốc Dũng nhấn mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786514+07:00",
+      "fetched": "2025-11-19T10:09:44.786610+07:00"
+    },
+    {
+      "id": "26150ad445023566bd92a7711a22c272",
+      "title": "Đua ghe ngo, ẩm thực Khmer và du lịch bằng thuyền trên kênh Nhiêu Lộc",
+      "link": "https://tuoitre.vn/dua-ghe-ngo-am-thuc-khmer-va-du-lich-bang-thuyen-tren-kenh-nhieu-loc-20251119090420521.htm",
+      "summary": "Từ năm nay sự kiện chính thức vinh dự được đưa vào chuỗi hoạt động của Lễ hội sông nước TP.HCM hằng năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786409+07:00",
+      "fetched": "2025-11-19T10:09:44.786505+07:00"
+    },
+    {
+      "id": "828bbd98fda31cd5acbf81f7d6ffe571",
+      "title": "Hai bác sĩ Việt Nam là thành viên danh dự tổ chức ngoại khoa hàng đầu thế giới",
+      "link": "https://tuoitre.vn/hai-bac-si-viet-nam-la-thanh-vien-danh-du-to-chuc-ngoai-khoa-hang-dau-the-gioi-20251119080514881.htm",
+      "summary": "Hai bác sĩ Việt Nam vừa được công nhận là thành viên danh dự Hiệp hội phẫu thuật Hoàng gia Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786303+07:00",
+      "fetched": "2025-11-19T10:09:44.786400+07:00"
+    },
+    {
+      "id": "4595ba6312e6080742c9e6729bd3aec8",
+      "title": "Ukraine đòi Nga bồi thường 44 tỉ USD vì khí thải gây ô nhiễm trong chiến sự",
+      "link": "https://tuoitre.vn/ukraine-doi-nga-boi-thuong-44-ti-usd-vi-khi-thai-gay-o-nhiem-trong-chien-su-20251119081029287.htm",
+      "summary": "Khí thải gây ô nhiễm trong chiến tranh đến từ việc sử dụng nhiên liệu hóa thạch, xi măng, thép và do cây cối bị cháy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786194+07:00",
+      "fetched": "2025-11-19T10:09:44.786293+07:00"
+    },
+    {
+      "id": "287975afbec157838d943846d4eec5c0",
+      "title": "Hôm nay và ngày mai Đà Nẵng, Đắk Lắk, Khánh Hòa mưa to đến 400mm",
+      "link": "https://tuoitre.vn/hom-nay-va-ngay-mai-da-nang-dak-lak-khanh-hoa-mua-to-den-400mm-20251119092555383.htm",
+      "summary": "Cơ quan khí tượng cho biết mưa to vẫn duy trì ở khu vực Trung Bộ, lượng mưa hôm nay đến ngày mai có thể đạt từ 100-400mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.786079+07:00",
+      "fetched": "2025-11-19T10:09:44.786184+07:00"
+    },
+    {
+      "id": "b28cfa4c273cf641aa83ce1c20637cd5",
+      "title": "Home Credit đưa kiến thức tài chính đến gần hơn với phụ nữ và sinh viên",
+      "link": "https://tuoitre.vn/home-credit-dua-kien-thuc-tai-chinh-den-gan-hon-voi-phu-nu-va-sinh-vien-2025111909184839.htm",
+      "summary": "Home Credit đặt mục tiêu mỗi cá nhân hiểu biết tài chính để đưa ra các quyết định an toàn, có trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785972+07:00",
+      "fetched": "2025-11-19T10:09:44.786069+07:00"
+    },
+    {
+      "id": "da86617018bf0b62ed48bc3cda4d5e31",
+      "title": "100% người dân vùng lụt ở Huế đã có điện, miền Trung còn hơn 200 ngàn hộ bị cúp điện",
+      "link": "https://tuoitre.vn/100-nguoi-dan-vung-lut-o-hue-da-co-dien-mien-trung-con-hon-200-ngan-ho-bi-cup-dien-20251119091649268.htm",
+      "summary": "Toàn miền Trung, Tây Nguyên hiện vẫn còn 203 ngàn hộ trong vùng ngập sâu chưa thể có điện sau nhiều ngày mưa gió.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785865+07:00",
+      "fetched": "2025-11-19T10:09:44.785962+07:00"
+    },
+    {
+      "id": "b23ef5567cd45d0b642787488a4bac9a",
+      "title": "Chính thức công nhận 71 giáo sư, 829 phó giáo sư năm 2025",
+      "link": "https://tuoitre.vn/chinh-thuc-cong-nhan-71-giao-su-829-pho-giao-su-nam-2025-20251119094303323.htm",
+      "summary": "Sáng 19-11, Hội đồng Giáo sư nhà nước chính thức công nhận đạt chuẩn chức danh giáo sư, phó giáo sư năm 2025 cho 900 nhà giáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785756+07:00",
+      "fetched": "2025-11-19T10:09:44.785856+07:00"
+    },
+    {
+      "id": "54f8cbebb9d3be39c7bb5ead851a86a4",
+      "title": "Khu nhà phố thương mại Gia Khải chuẩn bị bàn giao đợt 1",
+      "link": "https://tuoitre.vn/khu-nha-pho-thuong-mai-gia-khai-chuan-bi-ban-giao-dot-1-20251118173939761.htm",
+      "summary": "Khu nhà phố thương mại Gia Khải (phường Long Nguyên, TP.HCM) đang bước vào giai đoạn quan trọng khi những căn nhà đầu tiên chuẩn bị được bàn giao đến cư dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785610+07:00",
+      "fetched": "2025-11-19T10:09:44.785746+07:00"
+    },
+    {
+      "id": "63ca82382e7966902ea5e2269dd13a89",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Ấm lòng tiệm mì 0 đồng",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-am-long-tiem-mi-0-dong-20251119052533893.htm",
+      "summary": "Không biển hiệu bắt mắt, không thực đơn cầu kỳ, tiệm mì 0 đồng trên đường Phạm Văn Đồng (TP.HCM) thu hút hàng chục lượt khách mỗi chiều tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785489+07:00",
+      "fetched": "2025-11-19T10:09:44.785600+07:00"
+    },
+    {
+      "id": "4709f70ab3b8f3aaebadc363501d2572",
+      "title": "Cứu sống cô gái mắc sốt xuất huyết nguy kịch, tái sốc 3 lần trong chưa đầy 24 tiếng",
+      "link": "https://tuoitre.vn/cuu-song-co-gai-mac-sot-xuat-huyet-nguy-kich-tai-soc-3-lan-trong-chua-day-24-tieng-20251119085400937.htm",
+      "summary": "Bệnh viện Vũng Tàu vừa cứu sống cô gái 19 tuổi mắc sốt xuất huyết nặng trên cơ địa béo phì và tái sốc 3 lần trong chưa tới 24 tiếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T10:09:44.785282+07:00",
+      "fetched": "2025-11-19T10:09:44.785476+07:00"
+    },
     {
       "id": "7cd19db03b588f4d7923db90e1d8b90c",
       "title": "Iraq chấm dứt hy vọng dự World Cup 2026 của dàn cầu thủ nhập tịch UAE",
@@ -171,6 +321,336 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T03:20:39.192853+07:00",
       "fetched": "2025-11-19T03:20:39.193096+07:00"
+    },
+    {
+      "id": "31489c165b26806fc64ed1c5b4e36338",
+      "title": "Thầy Kim tạm chia tay đội tuyển Việt Nam sau trận gặp Lào, tái ngộ U.23 cho HCV SEA Games",
+      "link": "https://thanhnien.vn/thay-kim-tam-chia-tay-doi-tuyen-viet-nam-sau-tran-gap-lao-tai-ngo-u23-cho-hcv-sea-games-185251119083430792.htm",
+      "summary": "Sau trận đấu với đội tuyển Lào vào tối nay, HLV Kim Sang-sik sẽ tạm chia tay đội tuyển Việt Nam để cùng đội U.23 Việt Nam bước vào hành trình cam go tại SEA Games 33 và sau đó là giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:09:00+07:00",
+      "fetched": "2025-11-19T10:09:44.045977+07:00"
+    },
+    {
+      "id": "63f3ad8cdc3e4623baa9d56fc063875c",
+      "title": "Người thầy dạy nghề trước 'cơn bão' AI",
+      "link": "https://thanhnien.vn/nguoi-thay-day-nghe-truoc-con-bao-ai-185251119010025156.htm",
+      "summary": "Sự xuất hiện của \"người trợ lý\" vô hình AI (trí tuệ nhân tạo) đã có tác động lớn tới giáo dục, trong đó có giáo dục nghề nghiệp. Với đặc thù chương trình đào tạo có thời lượng thực hành chiếm tới 60 - 70%, vai trò của người thầy dạy nghề sẽ thay đổi ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:05:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046126+07:00"
+    },
+    {
+      "id": "5b2e0cfe565bb3a5d6e9d56c0061be26",
+      "title": "Bệnh não mô cầu - bố mẹ cần hiểu để lường trước",
+      "link": "https://thanhnien.vn/benh-nao-mo-cau-bo-me-can-hieu-de-luong-truoc-185251118175039448.htm",
+      "summary": "Giai đoạn 2020 - 2022 khi Covid-19 đang được khống chế với nhiều biện pháp tích cực thì vẫn ghi nhận 40 trường hợp nhiễm não mô cầu trên toàn quốc (1)*.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:00:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046259+07:00"
+    },
+    {
+      "id": "00160aa90eaafb6fb6dc53d2dc56598d",
+      "title": "Mặc đẹp cả tuần với các ý tưởng tối giản nhưng đầy cuốn hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-dep-ca-tuan-voi-cac-y-tuong-toi-gian-nhung-day-cuon-hut-185251117120842328.htm",
+      "summary": "Từ những chiếc váy tối giản đến bản phối đồng bộ thời thượng, chỉn chu và hiện đại, quý cô có thể vận dụng để làm mới diện mạo mỗi ngày. Mặc đẹp cả tuần không phải là điều bất khả thi khi nàng nắm rõ các công thức mặc đẹp được ưa thích nhất mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:00:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046395+07:00"
+    },
+    {
+      "id": "6c89c46a0b7da84c262ffeee3a5a999f",
+      "title": "Để học sinh hạnh phúc mỗi ngày đến trường",
+      "link": "https://thanhnien.vn/de-hoc-sinh-hanh-phuc-moi-ngay-den-truong-185251116000118892.htm",
+      "summary": "Mỗi ngày đến trường, với học sinh Trường THPT Nguyễn Tất Thành không chỉ để học kiến thức mà còn là những trải nghiệm, thỏa những đam mê. Mỗi tiết dạy không chỉ dẫn dắt kiến thức mà còn giúp học trò hứng khởi, tự tin phát triển năng lực cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:57:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046525+07:00"
+    },
+    {
+      "id": "29608d9f03c10ae3e9520e5dcd407215",
+      "title": "TP.HCM mở rộng đường Tôn Thất Thuyết gấp 4 lần, hình thành công viên ven kênh Tẻ",
+      "link": "https://thanhnien.vn/tphcm-mo-rong-duong-ton-that-thuyet-gap-4-lan-hinh-thanh-cong-vien-ven-kenh-te-185251119005240265.htm",
+      "summary": "TP.HCM dự kiến mở rộng đường Tôn Thất Thuyết gấp 4 lần, kết hợp hình thành công viên ven kênh Tẻ với vốn đầu tư hơn 5.500 tỉ đồng. Dự án tạo không gian xanh, thay đổi diện mạo đô thị và tạo điểm sinh hoạt cộng đồng cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:44:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046654+07:00"
+    },
+    {
+      "id": "a4bb3bf4dc941e1b547f6dfa3328d777",
+      "title": "760.000 học sinh tại Gia Lai nghỉ học do ngập lụt",
+      "link": "https://thanhnien.vn/760000-hoc-sinh-tai-gia-lai-nghi-hoc-do-ngap-lut-185251119090259493.htm",
+      "summary": "Mưa lớn kéo dài gây ngập lụt nhiều nơi buộc tỉnh Gia Lai khẩn trương cho hơn 760.000 học sinh tạm nghỉ học từ sáng 19.11 để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:38:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046794+07:00"
+    },
+    {
+      "id": "48f24b862a1dea1cf480c915c30a8151",
+      "title": "'Kiều nữ' sống ảo, ăn quỵt ở New York",
+      "link": "https://thanhnien.vn/kieu-nu-song-ao-an-quyt-o-new-york-185251119093127935.htm",
+      "summary": "Một phụ nữ trẻ giả danh người có ảnh hưởng trong lĩnh vực ẩm thực, sử dụng đồ hiệu đắt tiền làm vỏ bọc để quỵt các hóa đơn đắt đỏ tại nhà hàng đạt sao Michelin, khiến cảnh sát phải ra tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:37:00+07:00",
+      "fetched": "2025-11-19T10:09:44.046922+07:00"
+    },
+    {
+      "id": "fcc816ffd5cf66ee64ff55b96d2dfecf",
+      "title": "Rò rỉ thông số CPU Intel Core Ultra 200K Plus với xung nhịp cao hơn",
+      "link": "https://thanhnien.vn/ro-ri-thong-so-cpu-intel-core-ultra-200k-plus-voi-xung-nhip-cao-hon-185251118220955828.htm",
+      "summary": "Tài liệu kỹ thuật rò rỉ chỉ ra các mẫu vi xử lý Intel Core Ultra 200K Plus sẽ tăng xung và tối ưu hiệu suất, tiếp tục mở rộng dòng vi xử lý cho LGA-1851.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:36:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047048+07:00"
+    },
+    {
+      "id": "bfc956532c6884167746b881fd0f9444",
+      "title": "Đào tạo chuẩn nghề logistics và sự hỗ trợ từ Úc",
+      "link": "https://thanhnien.vn/dao-tao-chuan-nghe-logistics-va-su-ho-tro-tu-uc-185251119064114038.htm",
+      "summary": "Tại một nhà kho ở KCN Đình Vũ, Hải An (Hải Phòng), Nguyễn Hữu Sơn, cựu sinh viên khóa 50 (2022-2025) học ngành logistics của Trường CĐ Hàng hải và Đường thủy 1 (MIC1), bắt đầu một ngày như thường lệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:31:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047173+07:00"
+    },
+    {
+      "id": "6aa634763a47abd91f8f737d5725183f",
+      "title": "Cuộc thi viết Thanh Niên và tôi: Khi một tờ báo trở thành ký ức của một đời người",
+      "link": "https://thanhnien.vn/cuoc-thi-viet-thanh-nien-va-toi-khi-mot-to-bao-tro-thanh-ky-uc-cua-mot-doi-nguoi-185251118200902972.htm",
+      "summary": "Với tôi, Báo Thanh Niên là một người bạn - không ồn ào, không phô trương, nhưng luôn hiện diện đúng lúc, đúng chỗ, bồi đắp vào hành trình làm nghề, làm người của tôi bằng những điều tử tế, chân thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:30:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047303+07:00"
+    },
+    {
+      "id": "68eb75da08ef088ad0a3ae7d02c7d82e",
+      "title": "Tân Chủ tịch tỉnh Thái Nguyên ra 'tối hậu thư' giải quyết ngập úng đô thị",
+      "link": "https://thanhnien.vn/tan-chu-tich-tinh-thai-nguyen-ra-toi-hau-thu-giai-quyet-ngap-ung-do-thi-185251119085211485.htm",
+      "summary": "Tân Chủ tịch UBND tỉnh Thái Nguyên Vương Quốc Tuấn đặt ra thời hạn yêu cầu Sở Xây dựng tỉnh Thái Nguyên phải báo cáo sơ bộ phương án giải quyết ngập úng ở các phường trung tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:25:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047429+07:00"
+    },
+    {
+      "id": "daeb3a0edf0725bca24b628d95e6174c",
+      "title": "Đêm lạnh đèo Khánh Lê: Giải cứu thành công 11 người bị mắc kẹt giữa sạt lở",
+      "link": "https://thanhnien.vn/dem-lanh-deo-khanh-le-giai-cuu-thanh-cong-11-nguoi-bi-mac-ket-giua-sat-lo-185251119080734207.htm",
+      "summary": "Lực lượng CSGT Công an tỉnh Lâm Đồng, Công an xã Lạc Dương cùng lực lượng PCCC - cứu nạn cứu hộ tự quản Lạc Dương đã giải cứu thành công 11 người cùng đoàn xe bị cô lập giữa đèo Khánh Lê suốt 2 ngày 3 đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:24:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047555+07:00"
+    },
+    {
+      "id": "8b7fedfd97357ca2966b3d7d31c9215a",
+      "title": "Nước lũ cuồn cuộn chảy đánh vỡ kè biển An Lương, bộ đội xuyên đêm ứng cứu",
+      "link": "https://thanhnien.vn/nuoc-lu-cuon-cuon-chay-danh-vo-ke-bien-an-luong-bo-doi-xuyen-dem-ung-cuu-185251119084234236.htm",
+      "summary": "Mưa lớn, lũ từ thượng nguồn đổ về dữ dội khoét sâu vào bờ kè thôn An Lương (TP.Đà Nẵng), bộ đội và người dân xuyên đêm ứng cứu, 'chạy đua' giữ bờ kè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:22:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047692+07:00"
+    },
+    {
+      "id": "040ba570e7afe1ab6500ebe05e1940ef",
+      "title": "AI và người thầy trong kỷ nguyên giáo dục mới",
+      "link": "https://thanhnien.vn/ai-va-nguoi-thay-trong-ky-nguyen-giao-duc-moi-185251114183517193.htm",
+      "summary": "Ngày nay, bước chân vào lớp học, không chỉ có phấn trắng, bảng đen, sách giáo khoa và lời giảng ấm áp của thầy cô. Ẩn sau mỗi chiếc máy tính, mỗi chiếc điện thoại là một sức mạnh mới: trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:17:00+07:00",
+      "fetched": "2025-11-19T10:09:44.047820+07:00"
+    },
+    {
+      "id": "26f5af87aadb93dc8b8d1e777d47ad74",
+      "title": "Ronaldo ăn tối tại Nhà Trắng",
+      "link": "https://vnexpress.net/ronaldo-an-toi-tai-nha-trang-4965699.html",
+      "summary": "Siêu sao bóng đá 40 tuổi Cristiano Ronaldo lần đầu xuất hiện công khai ở Mỹ sau 9 năm, khi dự tiệc tối của Tổng thống Donald Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:15:40+07:00",
+      "fetched": "2025-11-19T10:09:41.215315+07:00"
+    },
+    {
+      "id": "26f5af87aadb93dc8b8d1e777d47ad74",
+      "title": "Ronaldo ăn tối tại Nhà Trắng",
+      "link": "https://vnexpress.net/ronaldo-an-toi-tai-nha-trang-4965699.html",
+      "summary": "Siêu sao bóng đá 40 tuổi Cristiano Ronaldo lần đầu xuất hiện công khai ở Mỹ sau 9 năm, khi dự tiệc tối của Tổng thống Donald Trump.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T02:15:40+07:00",
+      "fetched": "2025-11-19T10:09:50.843172+07:00"
+    },
+    {
+      "id": "85ec7900ae8e9567e309680f43d7ba17",
+      "title": "Lách qua khe hẹp, xe máy bị xe đầu kéo cán qua",
+      "link": "https://vnexpress.net/lach-qua-khe-hep-xe-may-bi-xe-dau-keo-can-qua-4965656.html",
+      "summary": "Lách qua khe hẹp, người đi xe máy đụng vào đầu chiếc xe cỡ lớn nên bị xô ngã, hôm 18/11 tại Trảng Bom.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:15:39+07:00",
+      "fetched": "2025-11-19T10:09:41.215473+07:00"
+    },
+    {
+      "id": "d8b3d06ac660ae1d22b60946a9aef259",
+      "title": "12 cách phối đồ đi làm mùa đông",
+      "link": "https://vnexpress.net/12-cach-phoi-do-di-lam-mua-dong-4965353.html",
+      "summary": "Diện váy len liền thân, giày bệt là một trong những kiểu phối nhanh, tôn dáng bạn có thể áp dụng khi tới văn phòng ngày lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:08:01+07:00",
+      "fetched": "2025-11-19T10:09:41.215618+07:00"
+    },
+    {
+      "id": "f31307dec87b0dde8b109b8a411341cc",
+      "title": "Vịnh ngăn cách châu Phi và châu Á đang mở rộng",
+      "link": "https://vnexpress.net/vinh-ngan-cach-chau-phi-va-chau-a-dang-mo-rong-4965489.html",
+      "summary": "Vịnh Suez, phần phía bắc của Biển Đỏ, có thể vẫn đang giãn ra thay vì đứng yên như các nhà khoa học từng nhìn nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:05:01+07:00",
+      "fetched": "2025-11-19T10:09:41.215766+07:00"
+    },
+    {
+      "id": "f31307dec87b0dde8b109b8a411341cc",
+      "title": "Vịnh ngăn cách châu Phi và châu Á đang mở rộng",
+      "link": "https://vnexpress.net/vinh-ngan-cach-chau-phi-va-chau-a-dang-mo-rong-4965489.html",
+      "summary": "Vịnh Suez, phần phía bắc của Biển Đỏ, có thể vẫn đang giãn ra thay vì đứng yên như các nhà khoa học từng nhìn nhận.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-19T02:05:01+07:00",
+      "fetched": "2025-11-19T10:09:49.487236+07:00"
+    },
+    {
+      "id": "80e7c4b8a097e9ee3d144352d94aad3e",
+      "title": "Ăn gì ngừa ung thư?",
+      "link": "https://vnexpress.net/an-gi-ngua-ung-thu-4965485.html",
+      "summary": "Mọi người nên ưu tiên các loại thực phẩm giàu chất xơ, chất chống oxy hóa và có khả năng kháng viêm giúp giảm nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:41.215902+07:00"
+    },
+    {
+      "id": "5d7980df539d0ffe0c01c5827b910526",
+      "title": "Tôi gửi đơn ly hôn mong vợ thay đổi nhưng cô ấy bắt ký",
+      "link": "https://vnexpress.net/vo-luong-cao-vo-doi-ly-hon-toi-gui-don-ly-di-cho-vo-khi-nong-gian-chu-khong-he-muon-ly-hon-4965009.html",
+      "summary": "Tôi nói rất rõ là không muốn ly hôn, đó chỉ là giải pháp sau cùng vì muốn vợ rộng lượng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:41.216033+07:00"
+    },
+    {
+      "id": "1d8475b1eded619c0d283f375705fc88",
+      "title": "Nuôi sống bé sinh non ngừng thở, bệnh tim bẩm sinh",
+      "link": "https://vnexpress.net/nuoi-song-be-sinh-non-ngung-tho-benh-tim-bam-sinh-4965638.html",
+      "summary": "Bé gái chào đời ở tuần thai 25 nặng 700 g, tím tái, ngừng thở, bệnh tim bẩm sinh, được bác sĩ ổn định thân nhiệt, thở máy, nuôi dưỡng hai tháng sau nặng 3 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:41.216163+07:00"
+    },
+    {
+      "id": "bf197301cada17972a4dfca09051f494",
+      "title": "Người trẻ lên kế hoạch cuối năm với AI trên Galaxy Z Fold7",
+      "link": "https://vnexpress.net/nguoi-tre-len-ke-hoach-cuoi-nam-voi-ai-tren-galaxy-z-fold7-4965443.html",
+      "summary": "Phương Nhi, 28 tuổi, xem AI trên Galaxy Z Fold7 như \"quân sư\" để trò chuyện về đời sống, chuyển hóa ý tưởng thành kế hoạch trong giai đoạn cao điểm cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:41.216296+07:00"
+    },
+    {
+      "id": "0194cc163bf951f5ac1dc5a6349720b5",
+      "title": "Chinh phục marathon sau 15 năm bị tiểu đường tuýp 1",
+      "link": "https://vnexpress.net/chinh-phuc-marathon-tieu-duong-tuyp1-4963813.html",
+      "summary": "Vật lộn với tiểu đường suốt 15 năm, Đào Thị Hà chạy bộ để cải thiện sức khỏe, nhờ đó giảm một nửa liều insulin và ổn định đường huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:41.216425+07:00"
+    },
+    {
+      "id": "0194cc163bf951f5ac1dc5a6349720b5",
+      "title": "Chinh phục marathon sau 15 năm bị tiểu đường tuýp 1",
+      "link": "https://vnexpress.net/chinh-phuc-marathon-tieu-duong-tuyp1-4963813.html",
+      "summary": "Vật lộn với tiểu đường suốt 15 năm, Đào Thị Hà chạy bộ để cải thiện sức khỏe, nhờ đó giảm một nửa liều insulin và ổn định đường huyết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T02:00:00+07:00",
+      "fetched": "2025-11-19T10:09:50.844539+07:00"
+    },
+    {
+      "id": "5dac31a49f91932f9771c027c5c0926e",
+      "title": "Mỹ duyệt hợp đồng 105 triệu USD giúp Ukraine nâng cấp Patriot",
+      "link": "https://vnexpress.net/my-duyet-hop-dong-105-trieu-usd-giup-ukraine-nang-cap-patriot-4965654.html",
+      "summary": "Mỹ phê duyệt thương vụ bán thiết bị quân sự cho Ukraine, giúp nước này duy trì hoạt động và nâng cấp một phần hệ thống phòng không Patriot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T01:53:40+07:00",
+      "fetched": "2025-11-19T10:09:41.216553+07:00"
+    },
+    {
+      "id": "5dac31a49f91932f9771c027c5c0926e",
+      "title": "Mỹ duyệt hợp đồng 105 triệu USD giúp Ukraine nâng cấp Patriot",
+      "link": "https://vnexpress.net/my-duyet-hop-dong-105-trieu-usd-giup-ukraine-nang-cap-patriot-4965654.html",
+      "summary": "Mỹ phê duyệt thương vụ bán thiết bị quân sự cho Ukraine, giúp nước này duy trì hoạt động và nâng cấp một phần hệ thống phòng không Patriot.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T01:53:40+07:00",
+      "fetched": "2025-11-19T10:09:45.870332+07:00"
+    },
+    {
+      "id": "9bb1b1bb46dd270a7f31d6187d051e19",
+      "title": "Nhiều đại học Việt Nam nhảy vọt trên bảng xếp hạng phát triển bền vững",
+      "link": "https://vnexpress.net/nhieu-dai-hoc-viet-nam-nhay-vot-tren-bang-xep-hang-phat-trien-ben-vung-4965624.html",
+      "summary": "5/12 đại học của Việt Nam thăng tiến trên bảng xếp hạng bền vững của QS, nhảy vọt là Đại học Huế khi tăng hơn 700 bậc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T01:53:17+07:00",
+      "fetched": "2025-11-19T10:09:41.216700+07:00"
+    },
+    {
+      "id": "99dbbd585511094acfa18a35df6eaffb",
+      "title": "Doanh số VinFast Limo Green vượt Toyota Innova Cross",
+      "link": "https://vnexpress.net/doanh-so-vinfast-limo-green-vuot-toyota-innova-cross-4965194.html",
+      "summary": "Limo Green bán ba tháng vượt doanh số Innova Cross bán trong 10 tháng đầu 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T01:50:29+07:00",
+      "fetched": "2025-11-19T10:09:41.216834+07:00"
+    },
+    {
+      "id": "880b69d7f0d9c749bc7ce60df985fc5b",
+      "title": "Vị khách vô gia cư ở lại 45 năm sau đêm Giáng sinh",
+      "link": "https://vnexpress.net/vi-khach-vo-gia-cu-o-lai-45-nam-sau-dem-giang-sinh-4965543.html",
+      "summary": "Dự định chỉ mời người bạn cũ vô gia cư ở lại qua đêm Giáng sinh, vợ chồng luật sư Rob Parsons không ngờ \"vị khách\" ấy ở trong nhà mình suốt gần nửa thế kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T01:45:06+07:00",
+      "fetched": "2025-11-19T10:09:41.216963+07:00"
+    },
+    {
+      "id": "90a6f6ef06b59bad2b73ae219209f130",
+      "title": "5 lưu ý chăm sóc sức khỏe trước khi kết hôn",
+      "link": "https://vnexpress.net/5-luu-y-cham-soc-suc-khoe-truoc-khi-ket-hon-4965646.html",
+      "summary": "Cặp đôi nên khám sức khỏe tiền hôn nhân, chích ngừa, bổ sung vi chất để chuẩn bị sức khỏe thể chất và tinh thần trước khi sinh con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T01:30:00+07:00",
+      "fetched": "2025-11-19T10:09:41.217094+07:00"
     },
     {
       "id": "acd597bfe36e9ceddd79f817105e4246",
@@ -411,6 +891,16 @@ window.newsData_2025_11_19 = {
       "category": "Thể thao",
       "published": "2025-11-19T01:06:02+07:00",
       "fetched": "2025-11-19T08:18:49.341809+07:00"
+    },
+    {
+      "id": "af4dbf063e38448cb70aa61e615c8689",
+      "title": "Tuyển CH Czech bị phạt vì ngó lơ CĐV nhà",
+      "link": "https://vnexpress.net/tuyen-ch-czech-bi-phat-vi-ngo-lo-cdv-nha-4965632.html",
+      "summary": "Dù thắng Gibraltar 6-0 ở lượt cuối vòng loại World Cup 2026, tuyển CH Czech vẫn bị LĐBĐ nước này (FACR) trừng phạt vì không ra cảm ơn nhóm CĐV trung thành.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T01:06:02+07:00",
+      "fetched": "2025-11-19T10:09:50.844006+07:00"
     },
     {
       "id": "45d08b05ed99e398d317953aa9b5add6",
