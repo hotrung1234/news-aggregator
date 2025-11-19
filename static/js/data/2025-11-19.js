@@ -1,7 +1,157 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T19:36:50.475434+07:00",
+  "lastUpdated": "2025-11-19T21:17:34.107500+07:00",
   "articles": [
+    {
+      "id": "19462ed6dddc38fb6d0a84b02e61802a",
+      "title": "Trường đại học đầu tiên công bố thông tin tuyển sinh 2026,  bỏ cộng điểm IELTS",
+      "link": "https://tuoitre.vn/truong-dai-hoc-dau-tien-cong-bo-thong-tin-tuyen-sinh-2026-bo-cong-diem-ielts-20251119185005076.htm",
+      "summary": "Năm 2026, Trường đại học Nha Trang chính thức không cộng điểm cho thí sinh có chứng chỉ IELTS, tuy nhiên thí sinh có thể sử dụng chứng chỉ để quy đổi thành điểm môn tiếng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.632039+07:00",
+      "fetched": "2025-11-19T21:17:27.632156+07:00"
+    },
+    {
+      "id": "e7dac86abb0a5e484f71eaf3091ae315",
+      "title": "Lần đầu tiên giới thiệu tới công chúng bảo vật quốc gia tượng Bồ tát Tara hoàn chỉnh",
+      "link": "https://tuoitre.vn/lan-dau-tien-gioi-thieu-toi-cong-chung-bao-vat-quoc-gia-tuong-bo-tat-tara-hoan-chinh-20251119181503417.htm",
+      "summary": "Bảo vật quốc gia tượng Bồ tát Tara hoàn chỉnh lần đầu tiên mở cửa cho công chúng tham quan kể từ khi hoàn nguyên pháp khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631910+07:00",
+      "fetched": "2025-11-19T21:17:27.632028+07:00"
+    },
+    {
+      "id": "d7ce014aa14d99d944ae3ef402460e91",
+      "title": "Lo lắng 'mất cả chì lẫn chài' vì đi mua đất 'chỉ' ở Phú Quốc",
+      "link": "https://tuoitre.vn/lo-lang-mat-ca-chi-lan-chai-vi-di-mua-dat-chi-o-phu-quoc-20251119171658092.htm",
+      "summary": "Nổ quen biết với lãnh đạo, thao túng tâm lý và lợi dụng lòng tin, một nhóm người xấu lừa gạt người dân mua đất \"chỉ\" (đất rừng, đất Nhà nước quản lý, đất không rõ nguồn gốc) ở Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631753+07:00",
+      "fetched": "2025-11-19T21:17:27.631893+07:00"
+    },
+    {
+      "id": "3c93cea20044536155b49f8b9a50553b",
+      "title": "9 nhà giáo nhận bằng khen của Thủ tướng Chính phủ",
+      "link": "https://tuoitre.vn/9-nha-giao-nhan-bang-khen-cua-thu-tuong-chinh-phu-20251119184810742.htm",
+      "summary": "Những nhà giáo này có thành tích đặc biệt trong các năm học 2020 - 2021 đến 2024 - 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631631+07:00",
+      "fetched": "2025-11-19T21:17:27.631742+07:00"
+    },
+    {
+      "id": "472025a4ab87a932b0d32ee3e10136b5",
+      "title": "Royal School: Khi trái tim người thầy mở lối",
+      "link": "https://tuoitre.vn/royal-school-khi-trai-tim-nguoi-thay-mo-loi-20251119155720384.htm",
+      "summary": "Trong giờ học và các hoạt động tại Royal School, mỗi lời dạy, câu chuyện đều gửi gắm yêu thương, để hành trình học tập trở thành những trạm khám phá hạnh phúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631508+07:00",
+      "fetched": "2025-11-19T21:17:27.631620+07:00"
+    },
+    {
+      "id": "5b5c4581141dc50dba32cd06829047e5",
+      "title": "Thùng xe container lật đè xe con trên quốc lộ 28, có 5 người bị thương",
+      "link": "https://tuoitre.vn/thung-xe-container-lat-de-xe-con-tren-quoc-lo-28-co-5-nguoi-bi-thuong-20251119192347862.htm",
+      "summary": "Xe container lật đè xe con trên quốc lộ 28 đoạn qua xã Bảo Lâm 5 (Lâm Đồng) khiến 5 người bị thương, trong đó 3 người bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631384+07:00",
+      "fetched": "2025-11-19T21:17:27.631497+07:00"
+    },
+    {
+      "id": "cda9313d27100d34fde8decc9c79edae",
+      "title": "Đình Khang 'Mưa đỏ' lo lắng cho cha mẹ đang kẹt trong mưa lũ miền Trung",
+      "link": "https://tuoitre.vn/dinh-khang-mua-do-lo-lang-cho-cha-me-dang-ket-trong-mua-lu-mien-trung-2025111919032205.htm",
+      "summary": "Dự ra mắt phim vào chiều 19-11, diễn viên Đình Khang lo lắng khi nhắc đến cha mẹ và người thân đang kẹt trong mưa lũ ở phường Quy Nhơn Bắc, Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631259+07:00",
+      "fetched": "2025-11-19T21:17:27.631373+07:00"
+    },
+    {
+      "id": "cebae355704bb6b1d1fdd7c5cbb45e04",
+      "title": "Bộ Chính trị: Tổ chức lại đảng bộ 18 tập đoàn kinh tế, tổng công ty, 4 ngân hàng thương mại nhà nước",
+      "link": "https://tuoitre.vn/bo-chinh-tri-to-chuc-lai-dang-bo-18-tap-doan-kinh-te-tong-cong-ty-4-ngan-hang-thuong-mai-nha-nuoc-20251119192836121.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú ký kết luận 208 của Bộ Chính trị, Ban Bí thư về sắp xếp tổ chức đảng trong các tập đoàn kinh tế, tổng công ty, ngân hàng thương mại nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631133+07:00",
+      "fetched": "2025-11-19T21:17:27.631248+07:00"
+    },
+    {
+      "id": "8200c7210be8c05c1cf9e8e40983a143",
+      "title": "Chủ trang trại cá tầm ở Lâm Đồng bị lũ cuốn mất tích",
+      "link": "https://tuoitre.vn/chu-trang-trai-ca-tam-o-lam-dong-bi-lu-cuon-mat-tich-20251119194148645.htm",
+      "summary": "Chủ trang trại cá tầm ở xã Lạc Dương (tỉnh Lâm Đồng) bị nước lũ cuốn trôi, khi tìm cách ngăn lũ bảo vệ trại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.631007+07:00",
+      "fetched": "2025-11-19T21:17:27.631122+07:00"
+    },
+    {
+      "id": "56ea4d229e4bfe8114fe10e35a255797",
+      "title": "Axios: Mỹ và Nga bí mật soạn kế hoạch hòa bình mới gồm 28 điểm cho Ukraine",
+      "link": "https://tuoitre.vn/axios-my-va-nga-bi-mat-soan-ke-hoach-hoa-binh-moi-gom-28-diem-cho-ukraine-20251119193827295.htm",
+      "summary": "Trang tin Axios ngày 18-11 đưa tin Mỹ đang bí mật soạn thảo một đề xuất hòa bình mới nhằm chấm dứt xung đột ở Ukraine, với sự tham gia của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630876+07:00",
+      "fetched": "2025-11-19T21:17:27.630995+07:00"
+    },
+    {
+      "id": "60dc196db2c22008b195eee7dd721f0c",
+      "title": "Doanh nhân trẻ TP.HCM hợp nhất, ra mắt chi hội Bình Dương",
+      "link": "https://tuoitre.vn/doanh-nhan-tre-tp-hcm-hop-nhat-ra-mat-chi-hoi-binh-duong-2025111919361377.htm",
+      "summary": "Sau khi TP.HCM hợp nhất Bình Dương và Bà Rịa - Vũng Tàu, các hội quần chúng, hiệp hội doanh nghiệp, doanh nhân cũng tiến hành hợp nhất, sắp xếp lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630724+07:00",
+      "fetched": "2025-11-19T21:17:27.630862+07:00"
+    },
+    {
+      "id": "dc69b3ec3b27b0faf1e258f90212ca7c",
+      "title": "Bao nhiêu cổ đông 'rời tàu' khi cổ phiếu VIC tăng hơn 400%?",
+      "link": "https://tuoitre.vn/bao-nhieu-co-dong-roi-tau-khi-co-phieu-vic-tang-hon-400-20251119152400413.htm",
+      "summary": "Cổ phiếu VIC của Vingroup vừa qua đã tăng mạnh, từ mức giá gần 40.000 đồng lên trên 220.000 đồng, tương đương mức tăng khoảng 446%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630596+07:00",
+      "fetched": "2025-11-19T21:17:27.630713+07:00"
+    },
+    {
+      "id": "6e5d12744048508c0f32ed3262fa45f9",
+      "title": "Hết cảnh ‘9 người 10 ý’, ShopeeFood khao tiệc mượt mà dịp 20-11",
+      "link": "https://tuoitre.vn/het-canh-9-nguoi-10-y-shopeefood-khao-tiec-muot-ma-dip-20-11-2025111918004862.htm",
+      "summary": "Bắt nhịp mùa lễ tri ân, ShopeeFood tung loạt ưu đãi hấp dẫn giúp lớp bạn có thể mở tiệc thịnh soạn, rộn rã tiếng cười mà vẫn vừa túi tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630462+07:00",
+      "fetched": "2025-11-19T21:17:27.630585+07:00"
+    },
+    {
+      "id": "d2230e3c05d6a58eb643c50de2a1d11d",
+      "title": "Có thật Brazil chặt 100.000 cây để làm đường phục vụ COP30?",
+      "link": "https://tuoitre.vn/co-that-brazil-chat-100-000-cay-de-lam-duong-phuc-vu-cop30-2025111910082619.htm",
+      "summary": "Thông tin lan truyền rằng 100.000 cây trong rừng Amazon đã bị chặt để làm đường cao tốc phục vụ Hội nghị khí hậu COP30 đang diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630319+07:00",
+      "fetched": "2025-11-19T21:17:27.630450+07:00"
+    },
+    {
+      "id": "4bc5c627255b2fed66cd2a821d25e721",
+      "title": "Tổ chức đứng sau Chứng khoán VPS: 10 nhân viên, vốn 44 tỉ đồng, 'ôm' lô cổ phiếu gần 1,4 tỉ USD",
+      "link": "https://tuoitre.vn/to-chuc-dung-sau-chung-khoan-vps-10-nhan-vien-von-44-ti-dong-om-lo-co-phieu-gan-1-4-ti-usd-20251119181427085.htm",
+      "summary": "Tại Chứng khoán VPS, Công ty cổ phần Quản lý quỹ Sài Gòn vừa lộ diện với vai trò là cổ đông lớn nhất với tỉ lệ sở hữu lên tới gần 40%, tương ứng 591,4 triệu cổ phiếu. Thị giá số cổ phiếu VPS này quy đổi ước đạt gần 35.500 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T21:17:27.630100+07:00",
+      "fetched": "2025-11-19T21:17:27.630304+07:00"
+    },
     {
       "id": "881d26276a33b5da5bca24a192eaec20",
       "title": "Giá trị thanh toán không tiền mặt đạt tới 260 triệu tỉ đồng trong 9 tháng",
@@ -453,6 +603,136 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T15:23:45.161189+07:00"
     },
     {
+      "id": "a599f6312b8fc4a9073a7c13bbe19394",
+      "title": "Mỹ bắt đầu giải thể Bộ Giáo dục",
+      "link": "https://thanhnien.vn/my-bat-dau-giai-the-bo-giao-duc-185251119193948578.htm",
+      "summary": "Bộ Giáo dục Mỹ ngày 18.11 tuyên bố sẽ phối hợp với các bộ khác để chuyển giao những chức năng quản lý các chương trình giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:16:00+07:00",
+      "fetched": "2025-11-19T21:17:26.638600+07:00"
+    },
+    {
+      "id": "782ed399f04773e75967f17ce90b7edd",
+      "title": "3 người tử vong trong ngày do mưa lũ, sạt lở ở Gia Lai",
+      "link": "https://thanhnien.vn/3-nguoi-tu-vong-trong-ngay-do-mua-lu-sat-lo-o-gia-lai-185251119205726894.htm",
+      "summary": "Mưa lũ ở Gia Lai khiến nhiều khu vực ngập sâu, 3 người tử vong, hàng chục ngàn hộ dân bị cô lập, phải di dời, sơ tán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:12:00+07:00",
+      "fetched": "2025-11-19T21:17:26.638768+07:00"
+    },
+    {
+      "id": "8dd5526653d3f131cc4cf319bfe565bd",
+      "title": "CLB nữ TP.HCM vào tứ kết châu Á với ngôi nhì bảng: Được thưởng thêm 2,1 tỉ đồng",
+      "link": "https://thanhnien.vn/clb-nu-tphcm-vao-tu-ket-chau-a-voi-ngoi-nhi-bang-duoc-thuong-them-21-ti-dong-185251119201449374.htm",
+      "summary": "Không thể gây bất ngờ trước đối thủ mạnh Melbourne City, CLB nữ TP.HCM tiến vào bán kết giải AFC Women's Champions League (Cúp C1 nữ châu Á) 2025-2026 với tư cách là đội đứng nhì bảng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:02:00+07:00",
+      "fetched": "2025-11-19T21:17:26.638947+07:00"
+    },
+    {
+      "id": "7cb1dddf4e5abd21767167102b64714b",
+      "title": "Việt Nam - Algeria nâng cấp quan hệ lên Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-algeria-nang-cap-quan-he-len-doi-tac-chien-luoc-4966765.html",
+      "summary": "Thủ tướng Phạm Minh Chính hội đàm với người đồng cấp Algeria, nhất trí nâng cấp quan hệ lên Đối tác Chiến lược và chứng kiến lễ ký loạt văn kiện hợp tác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T14:01:32+07:00",
+      "fetched": "2025-11-19T21:17:29.000719+07:00"
+    },
+    {
+      "id": "183a67b8194ba478e3ebab11f6dfa5e5",
+      "title": "Xuân Son cực son, lập công từ chấm phạt đền: Nhưng Tuấn Hải mới là ‘thần tài’ của Việt Nam",
+      "link": "https://thanhnien.vn/xuan-son-cuc-son-lap-cong-tu-cham-phat-den-nhung-tuan-hai-moi-la-than-tai-cua-viet-nam-185251119195438856.htm",
+      "summary": "Đêm 19.11, tiền đạo Xuân Son đã đánh dấu sự trở lại của mình bằng màn trình diễn ấn tượng và bàn thắng quan trọng giúp đội tuyển Việt Nam giành trọn 3 điểm trên đất Lào tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:00:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639106+07:00"
+    },
+    {
+      "id": "653340e5b263c0f4a3ae187c896fe9b0",
+      "title": "Nước sông Ba dâng cao: Gia Lai giải cứu 31 người mắc kẹt giữa dòng lũ",
+      "link": "https://thanhnien.vn/nuoc-song-ba-dang-cao-gia-lai-giai-cuu-31-nguoi-mac-ket-giua-dong-lu-185251119204700769.htm",
+      "summary": "Nước sông Ba dâng cao do mưa lớn kéo dài ngày 19.11 khiến dòng nước chảy xiết, chia cắt đôi bờ tại xã Đăk Song (Gia Lai). Sự cố bất ngờ khiến 31 người dân làng Mèo đi làm rẫy bị mắc kẹt bên kia sông, không thể trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:57:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639259+07:00"
+    },
+    {
+      "id": "e2d1758ecff0fb6a7b96031b2d1f75af",
+      "title": "Tà Teng hết cảnh ‘ôm cầu mà bò’ nhờ cây cầu mới HN3",
+      "link": "https://thanhnien.vn/ta-teng-het-canh-om-cau-ma-bo-nho-cay-cau-moi-hn3-185251119203105792.htm",
+      "summary": "Cầu Kênh HN3 vừa hoàn thành đã mang đến diện mạo mới cho ấp Tà Teng, xã Giang Thành, tỉnh An Giang, nơi người dân và học sinh từng chật vật qua lại trên chiếc cầu gỗ mục nát. Công trình do Báo Thanh Niên, Công ty CP Xây dựng Coteccons và chính quyền địa phương chung tay thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:51:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639429+07:00"
+    },
+    {
+      "id": "3803ffd735f32d8b25f5b2bfa5710664",
+      "title": "Hoa hậu Thuỳ Tiên: Mong có dự án kinh doanh như đã làm với người dân Agoda",
+      "link": "https://thanhnien.vn/hoa-hau-thuy-tien-mong-co-du-an-kinh-doanh-nhu-da-lam-voi-nguoi-dan-agoda-185251119193759064.htm",
+      "summary": "Trong khi hoa hậu Thùy Tiên, Quang Linh Vlogs bình tĩnh nói lời sau cùng, thì Hằng Du mục bật khóc nức nở khi nhắc đến 2 con nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:50:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639610+07:00"
+    },
+    {
+      "id": "d50991a065a85bf7befe1e37e7a3785d",
+      "title": "Diễn viên Đình Khang 'Mưa đỏ' cầu cứu vì cha mẹ mắc kẹt trong vùng lũ",
+      "link": "https://thanhnien.vn/dien-vien-dinh-khang-mua-do-cau-cuu-vi-cha-me-mac-ket-trong-vung-lu-185251119200837108.htm",
+      "summary": "Diễn viên Đình Khang nghẹn ngào cho biết gia đình anh ở phường Quy Nhơn Bắc (tỉnh Gia Lai) đang mắc kẹt giữa vùng lũ. Nước lũ dâng cao đến gần mái nhà, điện bị cúp, điện thoại cha mẹ hết pin khiến anh không thể liên lạc được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:46:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639764+07:00"
+    },
+    {
+      "id": "935dd80fb9a221103a3ba76786e5672b",
+      "title": "Lập Quỹ nhà ở quốc gia tại trung ương và địa phương",
+      "link": "https://vnexpress.net/lap-quy-nha-o-quoc-gia-tai-trung-uong-va-dia-phuong-4966740.html",
+      "summary": "Quỹ nhà ở quốc gia có 2 cấp, gồm trung ương do Chính phủ thành lập, Bộ Xây dựng quản lý và cấp địa phương do UBND cấp tỉnh thành lập.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T13:44:00+07:00",
+      "fetched": "2025-11-19T21:17:29.961286+07:00"
+    },
+    {
+      "id": "30c92dee6a8c769c69c60b03a5edaa82",
+      "title": "Lần đầu trưng bày bảo vật quốc gia tượng Bồ tát Tara hoàn chỉnh",
+      "link": "https://thanhnien.vn/lan-dau-trung-bay-bao-vat-quoc-gia-tuong-bo-tat-tara-hoan-chinh-18525111919012415.htm",
+      "summary": "Lần đầu tiên bản gốc bảo vật quốc gia tượng Bồ tát Tara được đưa ra giới thiệu trước đông đảo công chúng với 2 pháp khí thất lạc từ khoảng nửa thế kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:42:00+07:00",
+      "fetched": "2025-11-19T21:17:26.639934+07:00"
+    },
+    {
+      "id": "ef55c7bb4f6bd71a73b6c702e9a661e3",
+      "title": "Sắp xếp tổ chức đảng tại tập đoàn kinh tế, ngân hàng thương mại nhà nước",
+      "link": "https://vnexpress.net/sap-xep-to-chuc-dang-tai-tap-doan-kinh-te-ngan-hang-thuong-mai-nha-nuoc-4966486.html",
+      "summary": "Bộ Chính trị, Ban Bí thư yêu cầu tổ chức lại đảng bộ công ty mẹ của 18 tập đoàn kinh tế, tổng công ty và 4 đảng bộ ngân hàng thương mại nhà nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T13:36:43+07:00",
+      "fetched": "2025-11-19T21:17:29.961461+07:00"
+    },
+    {
+      "id": "9e84c4bb318927cbee273f85e53f00d2",
+      "title": "Top 100 nơi làm việc tốt nhất Việt Nam năm 2025, doanh nghiệp nào đứng đầu?",
+      "link": "https://thanhnien.vn/top-100-noi-lam-viec-tot-nhat-viet-nam-nam-2025-doanh-nghiep-nao-dung-dau-185251119145854729.htm",
+      "summary": "Tối 19.11, Công ty Anphabe và Intage Việt Nam công bố danh sách top 100 nơi làm việc tốt nhất Việt Nam năm 2025. Năm nay có sự ghi nhận thêm những nơi làm việc hạnh phúc và hấp dẫn với sinh viên nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:30:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640096+07:00"
+    },
+    {
       "id": "454d97096830c64540af8d675ec21681",
       "title": "Nhờ đâu Ronaldo được gặp Tổng thống Donald Trump?",
       "link": "https://tuoitre.vn/nho-dau-ronaldo-duoc-gap-tong-thong-donald-trump-20251119105810951.htm",
@@ -603,6 +883,176 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T13:25:49.344724+07:00"
     },
     {
+      "id": "f82284d196a579284e8c24e5184fff1e",
+      "title": "Lễ trao tặng sân chơi thiếu nhi và dụng cụ tập thể dục thể thao ngoài trời",
+      "link": "https://thanhnien.vn/le-trao-tang-san-choi-thieu-nhi-va-dung-cu-tap-the-duc-the-thao-ngoai-troi-185251119202339261.htm",
+      "summary": "T.Ư Đoàn và Công ty TNHH Amway Việt Nam (Amway Việt Nam) đã tổ chức lễ trao tặng sân chơi thiếu nhi và dụng cụ tập thể dục thể thao ngoài trời tại phường Bình Dương, TP.HCM (ngày 18.11).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:20:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640245+07:00"
+    },
+    {
+      "id": "8944dc9d23722bba3589fd5c8f0891c1",
+      "title": "Thiền trong giáo dục thời công nghệ",
+      "link": "https://thanhnien.vn/thien-trong-giao-duc-thoi-cong-nghe-185251113213422353.htm",
+      "summary": "Thiền sư Thích Nhất Hạnh từng nói: \"Dạy học mà không dạy cách thở, cách lắng nghe, cách mỉm cười... thì mới chỉ dạy được một nửa\". Thiền chính là cách \"dạy nửa còn lại\" ấy - tức phần giáo dục tâm hồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:20:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640390+07:00"
+    },
+    {
+      "id": "eef70ea9eabb4e7bcb11c96f0cb4d713",
+      "title": "Anh cáo buộc tàu quân sự Nga chiếu laser vào phi công",
+      "link": "https://vnexpress.net/anh-cao-buoc-tau-quan-su-nga-chieu-laser-vao-phi-cong-4966744.html",
+      "summary": "Anh cáo buộc tàu quân sự Yantar của Nga \"xâm nhập vùng biển\" và chiếu tia laser vào phi công đang thực hiện nhiệm vụ giám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:56+07:00",
+      "fetched": "2025-11-19T21:17:23.253251+07:00"
+    },
+    {
+      "id": "eef70ea9eabb4e7bcb11c96f0cb4d713",
+      "title": "Anh cáo buộc tàu quân sự Nga chiếu laser vào phi công",
+      "link": "https://vnexpress.net/anh-cao-buoc-tau-quan-su-nga-chieu-laser-vao-phi-cong-4966744.html",
+      "summary": "Anh cáo buộc tàu quân sự Yantar của Nga \"xâm nhập vùng biển\" và chiếu tia laser vào phi công đang thực hiện nhiệm vụ giám sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T13:18:56+07:00",
+      "fetched": "2025-11-19T21:17:29.000944+07:00"
+    },
+    {
+      "id": "2fb25d63ee7efe5fd95c994f08233884",
+      "title": "Băng giá xuất hiện trên đường lên đỉnh Tà Xùa",
+      "link": "https://thanhnien.vn/bang-gia-xuat-hien-tren-duong-len-dinh-ta-xua-185251119191027865.htm",
+      "summary": "Băng giá bất ngờ xuất hiện trên đường lên đỉnh Tà Xùa (thôn Tà Xùa, xã Hạnh Phúc, tỉnh Lào Cai) trong sáng nay 19.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:12:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640588+07:00"
+    },
+    {
+      "id": "1375d31c314da7f2f1ed5af59f4d00ab",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 19.11, gần 43 tỉ đồng chờ người trúng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1911-gan-43-ti-dong-cho-nguoi-trung-185251119190641747.htm",
+      "summary": "Tối 19.11, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc, tiền cộng dồn lên gần 43 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:11:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640775+07:00"
+    },
+    {
+      "id": "ff7fcceda71c02483f87560b0da249ab",
+      "title": "Quốc gia nào có dòng sông nóng ngang nước sôi?",
+      "link": "https://vnexpress.net/quoc-gia-nao-co-dong-song-nong-ngang-nuoc-soi-4965855.html",
+      "summary": "Với nhiệt độ phổ biến 50-90 độ C, nhiều đoạn gần 100 độ C, nước sông Boiling có thể gây bỏng chết người và luộc chín nhiều sinh vật nếu rơi xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:08:15+07:00",
+      "fetched": "2025-11-19T21:17:23.253433+07:00"
+    },
+    {
+      "id": "6d95196dc0eef8b98ef1fb582e6259a9",
+      "title": "Ronaldo chụp ảnh selfie với tỷ phú Elon Musk",
+      "link": "https://vnexpress.net/ronaldo-chup-anh-selfie-voi-ty-phu-elon-musk-4966369.html",
+      "summary": "Bức ảnh do Cristiano Ronaldo chụp cùng tỷ phú Elon Musk và những người nổi tiếng khác ở Nhà Trắng thu hút hàng triệu lượt xem và bình luận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:06:15+07:00",
+      "fetched": "2025-11-19T21:17:23.253603+07:00"
+    },
+    {
+      "id": "6d95196dc0eef8b98ef1fb582e6259a9",
+      "title": "Ronaldo chụp ảnh selfie với tỷ phú Elon Musk",
+      "link": "https://vnexpress.net/ronaldo-chup-anh-selfie-voi-ty-phu-elon-musk-4966369.html",
+      "summary": "Bức ảnh do Cristiano Ronaldo chụp cùng tỷ phú Elon Musk và những người nổi tiếng khác ở Nhà Trắng thu hút hàng triệu lượt xem và bình luận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T13:06:15+07:00",
+      "fetched": "2025-11-19T21:17:34.094029+07:00"
+    },
+    {
+      "id": "ecd93fa08776d245865cbc8f3947c455",
+      "title": "Tàu sân bay nằm cảng nhiều hơn ra biển của Thái Lan",
+      "link": "https://vnexpress.net/tau-san-bay-nam-cang-nhieu-hon-ra-bien-cua-thai-lan-4965807.html",
+      "summary": "HTMS Chakri Naruebet đại diện cho tham vọng hải quân của Thái Lan, nhưng loạt vấn đề khiến nó thường xuyên nằm cảng và chủ yếu làm điểm du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:00:00+07:00",
+      "fetched": "2025-11-19T21:17:23.253779+07:00"
+    },
+    {
+      "id": "902afc94d94970b1a5808436b193c782",
+      "title": "Doanh số xe điện tiếp đà tăng trong tháng 10",
+      "link": "https://vnexpress.net/doanh-so-xe-dien-tiep-da-tang-trong-thang-10-4965307.html",
+      "summary": "Doanh số xe điện toàn cầu tháng 10 đạt 1,9 triệu chiếc, tăng 23% nhờ sự bứt phá của nhiều thị trường, tại Việt Nam, VinFast cũng lập kỷ lục hơn 20.000 xe bán ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:00:00+07:00",
+      "fetched": "2025-11-19T21:17:23.253989+07:00"
+    },
+    {
+      "id": "ce02330cd5c0f8b5d05226e44448dfbb",
+      "title": "Xem nhanh 20h ngày 19.11: Thùy Tiên và đồng phạm lãnh án | Dẹp lấn chiếm vỉa hè quanh BV Từ Dũ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1911-thuy-tien-va-dong-pham-lanh-an-dep-lan-chiem-via-he-quanh-bv-tu-du-185251119200003982.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.11 có nhiều tin tức đáng chú ý về: Tuyên án hoa hậu Thùy Tiên và các đồng phạm; ‘dẹp’ lấn chiếm vỉa hè quanh bệnh viện Từ Dũ: Biên bản chưa ráo mực đã bị phạt tiếp;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:00:00+07:00",
+      "fetched": "2025-11-19T21:17:26.640945+07:00"
+    },
+    {
+      "id": "ecd93fa08776d245865cbc8f3947c455",
+      "title": "Tàu sân bay nằm cảng nhiều hơn ra biển của Thái Lan",
+      "link": "https://vnexpress.net/tau-san-bay-nam-cang-nhieu-hon-ra-bien-cua-thai-lan-4965807.html",
+      "summary": "HTMS Chakri Naruebet đại diện cho tham vọng hải quân của Thái Lan, nhưng loạt vấn đề khiến nó thường xuyên nằm cảng và chủ yếu làm điểm du lịch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T13:00:00+07:00",
+      "fetched": "2025-11-19T21:17:29.001116+07:00"
+    },
+    {
+      "id": "6e3e1dec30d0b273bdee8ebb73fcde31",
+      "title": "Bé gái bị gia đình bên nội tra tấn vì nghi trộm tiền",
+      "link": "https://vnexpress.net/be-gai-bi-gia-dinh-ben-noi-tra-tan-vi-nghi-trom-tien-4966745.html",
+      "summary": "Bé gái 13 tuổi bị bà nội cùng hai người khác túm tóc đánh liên tục bằng gậy gỗ, sống dao, chổi, chảo... vì nghi trộm tiền nhưng thực chất em không lấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T12:59:36+07:00",
+      "fetched": "2025-11-19T21:17:23.254155+07:00"
+    },
+    {
+      "id": "0f17b6c454c8415dea67fd0ebe51b9d1",
+      "title": "Đỉnh núi cao ở Lào Cai, Lai Châu xuất hiện băng giá",
+      "link": "https://vnexpress.net/dinh-nui-cao-o-lao-cai-lai-chau-xuat-hien-bang-gia-4966007.html",
+      "summary": "Nhiệt độ xuống dưới 0 độ C, đỉnh Phu Sa Phìn ở Lào Cai, đỉnh Ngũ Chỉ Sơn ở Lai Châu xuất hiện băng giá dày, duy trì từ sáng đến chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T12:51:49+07:00",
+      "fetched": "2025-11-19T21:17:23.254321+07:00"
+    },
+    {
+      "id": "6f6d444bdd28cdda41c3f435025f8e8f",
+      "title": "Lũ chia cắt đường sắt Nam Trung Bộ",
+      "link": "https://vnexpress.net/lu-chia-cat-duong-sat-nam-trung-bo-4965978.html",
+      "summary": "Lũ dâng cao khiến nước tràn vào sân ga, nhấn chìm nhiều đoạn đường ray, chia cắt tuyến đường sắt Nam Trung Bộ, 16 đoàn tàu phải tạm dừng chở khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T12:44:53+07:00",
+      "fetched": "2025-11-19T21:17:23.254480+07:00"
+    },
+    {
+      "id": "97d92e70e63f3c5b8c4a6af12f8b97df",
+      "title": "Du khách bất ngờ trước cảnh băng giá trên đỉnh Tà Xùa",
+      "link": "https://vnexpress.net/du-khach-bat-ngo-truoc-canh-bang-gia-tren-dinh-ta-xua-4965977.html",
+      "summary": "Đỉnh Tà Xùa sáng 19/11 bất ngờ phủ băng khi nhiệt độ giảm xuống khoảng âm 2 độ C, khiến người dân địa phương và du khách bất ngờ, thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T12:32:07+07:00",
+      "fetched": "2025-11-19T21:17:23.254633+07:00"
+    },
+    {
       "id": "ededaa63d405fc99090dda5f5ca65eed",
       "title": "Trường ĐH Đà Lạt có thêm 5 tân phó giáo sư, 6 tân tiến sĩ",
       "link": "https://thanhnien.vn/truong-dh-da-lat-co-them-5-tan-pho-giao-su-6-tan-tien-si-185251119185147055.htm",
@@ -611,6 +1061,16 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T12:28:00+07:00",
       "fetched": "2025-11-19T19:36:40.844738+07:00"
+    },
+    {
+      "id": "97b5c4317f51a9e575f2ede399cc8eb8",
+      "title": "Hơn 10 triệu người Việt bệnh phổi tắc nghẽn mạn tính",
+      "link": "https://vnexpress.net/hon-10-trieu-nguoi-viet-benh-phoi-tac-nghen-man-tinh-4966003.html",
+      "summary": "Khoảng 10% dân số Việt Nam, tương đương 10 triệu người, mắc bệnh phổi tắc nghẽn mạn tính, nhiều người chưa được chẩn đoán hoặc phát hiện khi chức năng phổi đã giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T12:26:00+07:00",
+      "fetched": "2025-11-19T21:17:23.254784+07:00"
     },
     {
       "id": "5882d1246bee087fb2ad0b7a442ffb5d",
