@@ -1,7 +1,137 @@
 window.newsData_2025_11_21 = {
   "date": "2025-11-21",
-  "lastUpdated": "2025-11-21T05:16:15.091327+07:00",
+  "lastUpdated": "2025-11-21T08:18:02.875086+07:00",
   "articles": [
+    {
+      "id": "6f9491c02f9238c83f4e0eda99672e3e",
+      "title": "Nam Trung Bộ vẫn ngập nặng: Cứu dân trong đêm, hỗ trợ thực phẩm hành khách đường sắt kẹt ở Phú Yên",
+      "link": "https://tuoitre.vn/nam-trung-bo-van-ngap-nang-cuu-dan-trong-dem-ho-tro-thuc-pham-hanh-khach-duong-sat-ket-o-phu-yen-2025112023223546.htm",
+      "summary": "Từ 0g 21-11, Nam Trung Bộ vẫn mưa như trút nước. Tại Nha Trang, lực lượng cứu hộ vẫn miệt mài cứu dân trong đêm, vẫn còn nhiều lời kêu cứu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.292292+07:00",
+      "fetched": "2025-11-21T08:17:56.292413+07:00"
+    },
+    {
+      "id": "e087032ac49b1c30260b85da4c8e8f08",
+      "title": "Thời tiết hôm nay 21-11: Bắc Bộ sương muối, Nam Trung Bộ mưa giảm nhưng nhiều nơi vẫn mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-11-bac-bo-suong-muoi-nam-trung-bo-mua-giam-nhung-nhieu-noi-van-mua-to-20251120190700233.htm",
+      "summary": "Hôm nay 21-11, mưa tại Nam Trung Bộ đã giảm nhưng nhiều nơi vẫn còn mưa to, thời tiết Bắc Bộ rét, Nam Bộ mưa chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291885+07:00",
+      "fetched": "2025-11-21T08:17:56.291999+07:00"
+    },
+    {
+      "id": "7cc0e45da2b9b2d376270b2a0f974c43",
+      "title": "Lịch thi đấu của U17 Việt Nam tại vòng loại U17 châu Á 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-cua-u17-viet-nam-tai-vong-loai-u17-chau-a-2026-20251120190254231.htm",
+      "summary": "Đội tuyển U17 Việt Nam sẽ bắt đầu chiến dịch vòng loại U17 châu Á 2026 vào ngày 22-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291759+07:00",
+      "fetched": "2025-11-21T08:17:56.291874+07:00"
+    },
+    {
+      "id": "19f33c2d547920e2ecc2b6fecfe180cb",
+      "title": "Bộ trưởng Malaysia lần đầu thừa nhận khả năng đội nhà bị xử thua tuyển Việt Nam",
+      "link": "https://tuoitre.vn/bo-truong-malaysia-lan-dau-thua-nhan-kha-nang-doi-nha-bi-xu-thua-tuyen-viet-nam-20251120231758012.htm",
+      "summary": "Tối 20-11, Bộ trưởng Bộ Thanh niên và Thể thao Malaysia (KBS), bà Hannah Yeoh đã lần đầu tiên đưa ra thông báo về khả năng đội bóng đá nước nhà bị xử thua tuyển Việt Nam ở vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291613+07:00",
+      "fetched": "2025-11-21T08:17:56.291747+07:00"
+    },
+    {
+      "id": "43ff9c2a869f238f216250c3d97ef444",
+      "title": "Tin tức sáng 21-11: Gần 600 ca COVID-19 ở TP.HCM trong 10 tháng; Trình dự luật Trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/tin-tuc-sang-21-11-gan-600-ca-covid-19-o-tp-hcm-trong-10-thang-trinh-du-luat-tri-tue-nhan-tao-20251120222656789.htm",
+      "summary": "Tin tức đáng chú ý: 10 tháng đầu năm TP.HCM ghi nhận gần 600 ca COVID-19; Hôm nay, Chính phủ trình Quốc hội dự Luật Trí tuệ nhân tạo; Triển khai nhiều kỹ thuật mới điều trị bệnh lý cho trẻ từ giai đoạn bào thai...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291487+07:00",
+      "fetched": "2025-11-21T08:17:56.291601+07:00"
+    },
+    {
+      "id": "65f5cf112748a989f974541c14eb30b1",
+      "title": "Bộ trưởng Singapore xin rút lại lời sau khi gọi cầu thủ và người hâm mộ Hong Kong là kẻ ngốc",
+      "link": "https://tuoitre.vn/bo-truong-singapore-xin-rut-lai-loi-sau-khi-goi-cau-thu-va-nguoi-ham-mo-hong-kong-la-ke-ngoc-20251121050114351.htm",
+      "summary": "Bộ trưởng Văn hóa, Cộng đồng và Thanh niên Singapore David Neo đã xin rút lại lời mình đã nói sau khi gọi \"cầu thủ và người hâm mộ Hong Kong là những kẻ ngốc nghếch\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291360+07:00",
+      "fetched": "2025-11-21T08:17:56.291475+07:00"
+    },
+    {
+      "id": "67b4aa86b1a3b31425b77e5d10c04cb1",
+      "title": "'Bán 14 bát bún mỗi ngày mà phải nộp thuế 4,5%/doanh thu là bất hợp lý'",
+      "link": "https://tuoitre.vn/ban-14-bat-bun-moi-ngay-ma-phai-nop-thue-4-5-doanh-thu-la-bat-hop-ly-20251120223305234.htm",
+      "summary": "Bán hơn chục bát bún mỗi ngày, doanh thu được hơn 500.000 đồng mà phải nộp thuế 4,5%, trong khi chi phí đầu vào chiếm tỉ lệ rất cao, khiến người kinh doanh nhỏ gặp quá nhiều khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291227+07:00",
+      "fetched": "2025-11-21T08:17:56.291348+07:00"
+    },
+    {
+      "id": "66c66f3ac1a2b0c40bded1ecaa6799cb",
+      "title": "Tin tức thế giới 21-11: Ông Zelensky đồng ý với dự thảo hòa bình mới, Mỹ tin cũng tốt cho Nga",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-21-11-ong-zelensky-dong-y-voi-du-thao-hoa-binh-moi-my-tin-cung-tot-cho-nga-20251121061222509.htm",
+      "summary": "Nga tuyên bố kiểm soát thành phố Kupiansk của Ukraine nhưng bị Kiev bác bỏ; Israel không kích miền nam Gaza, ít nhất 5 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.291094+07:00",
+      "fetched": "2025-11-21T08:17:56.291215+07:00"
+    },
+    {
+      "id": "60ab7d6a980df098fd75ad76e487a1f8",
+      "title": "Nan giải quá tải bãi giữ xe bệnh viện, quỹ đất eo hẹp, còn cách nào khác?",
+      "link": "https://tuoitre.vn/nan-giai-qua-tai-bai-giu-xe-benh-vien-quy-dat-eo-hep-con-cach-nao-khac-20251120222300307.htm",
+      "summary": "Bãi giữ xe nhiều bệnh viện ở TP.HCM quá tải triền miên, quỹ đất không còn, bệnh nhân phải chạy vòng tìm chỗ gửi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.290967+07:00",
+      "fetched": "2025-11-21T08:17:56.291082+07:00"
+    },
+    {
+      "id": "37e6294bf2df22e66fa289f1c9960d3f",
+      "title": "Thí điểm Ngày hội sách và văn hóa đêm ở Đường sách TP.HCM",
+      "link": "https://tuoitre.vn/thi-diem-ngay-hoi-sach-va-van-hoa-dem-o-duong-sach-tp-hcm-20251120211813665.htm",
+      "summary": "Từ tối 21 đến 23-11, Đường sách TP.HCM tổ chức chương trình Ngày hội sách và văn hóa đêm. Đây là chương trình thí điểm tổ chức đầu tiên, mỗi đêm bắt đầu từ 18h đến 22h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.290830+07:00",
+      "fetched": "2025-11-21T08:17:56.290955+07:00"
+    },
+    {
+      "id": "adc29298127d793d183079679948850f",
+      "title": "Hương Giang được Missosology, Sash Factor dự đoán vào top 30 Miss Universe",
+      "link": "https://tuoitre.vn/huong-giang-duoc-missosology-sash-factor-du-doan-vao-top-30-miss-universe-2025112023083561.htm",
+      "summary": "Chuyên trang sắc đẹp Missosology, Sash Factor vừa tung bảng dự đoán cuối cùng về top 30 trước thềm chung kết cuộc thi Miss Universe 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.290670+07:00",
+      "fetched": "2025-11-21T08:17:56.290813+07:00"
+    },
+    {
+      "id": "27aa6ad83c342d04d52fb48a655764c2",
+      "title": "Gần 2.000 ảnh thi Liên hoan ảnh nghệ thuật truyền thống TP.HCM",
+      "link": "https://tuoitre.vn/gan-2-000-anh-thi-lien-hoan-anh-nghe-thuat-truyen-thong-tp-hcm-20251121022034619.htm",
+      "summary": "Ban tổ chức Liên hoan ảnh nghệ thuật truyền thống TP.HCM lần thứ 50 nhận được gần 2.000 ảnh của 200 tác giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.290527+07:00",
+      "fetched": "2025-11-21T08:17:56.290657+07:00"
+    },
+    {
+      "id": "1804221313e45d049acd684e2fe395d0",
+      "title": "Ý gặp Bắc Ireland ở vòng play-off World Cup 2026",
+      "link": "https://tuoitre.vn/y-gap-bac-ireland-o-vong-play-off-world-cup-2026-20251121055809424.htm",
+      "summary": "Ý gặp Bắc Ireland, Ukraine gặp Thụy Điển là những trận đấu đáng chú ý ở vòng play-off World Cup 2026 khu vực châu Âu. Đây là vòng đấu xác định 4 suất cuối cùng của châu Âu góp mặt ở World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T08:17:56.290305+07:00",
+      "fetched": "2025-11-21T08:17:56.290512+07:00"
+    },
     {
       "id": "9ceb989e6449db6b385bd7322e3c0d54",
       "title": "Ông Trump dọa tử hình các nghị sĩ 'phản quốc'",
@@ -191,6 +321,426 @@ window.newsData_2025_11_21 = {
       "category": "Tổng hợp",
       "published": "2025-11-21T01:25:45.274036+07:00",
       "fetched": "2025-11-21T01:25:45.274245+07:00"
+    },
+    {
+      "id": "342835b8fbfb7e36a9bc2197287c35d9",
+      "title": "TP.HCM: Phường Bình Trưng cho xây dựng công trình tạm phục vụ thể thao, kinh doanh",
+      "link": "https://thanhnien.vn/tphcm-phuong-binh-trung-cho-xay-dung-cong-trinh-tam-phuc-vu-the-thao-kinh-doanh-185251120200013311.htm",
+      "summary": "Từ ngày 20.11, phường Bình Trưng (TP.HCM) cho phép chủ đầu tư xây công trình tạm là công trình phục vụ các loại hình thể dục thể thao, kinh doanh có thời hạn trên địa bàn phường Bình Trưng và tồn tại tối đa không quá 24 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:17:00+07:00",
+      "fetched": "2025-11-21T08:17:54.859196+07:00"
+    },
+    {
+      "id": "cd4d80c21c782e482f5c70965a9caa47",
+      "title": "Ofi Việt Nam 3 năm liên tiếp vào top 100 Nơi làm việc tốt nhất Việt Nam",
+      "link": "https://thanhnien.vn/ofi-viet-nam-3-nam-lien-tiep-vao-top-100-noi-lam-viec-tot-nhat-viet-nam-1852511210810185.htm",
+      "summary": "Ofi Việt Nam vừa được Anphabe vinh danh trong Top 100 Nơi làm việc tốt nhất Việt Nam 2025, đánh dấu năm thứ ba liên tiếp doanh nghiệp góp mặt trong bảng xếp hạng danh giá này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:16:00+07:00",
+      "fetched": "2025-11-21T08:17:54.859373+07:00"
+    },
+    {
+      "id": "0a0151ddc11c9f1b78746b774199d1d7",
+      "title": "Hai ca ghép tạng từ người hiến chết não đầu tiên ở ĐBSCL hồi phục kỳ diệu",
+      "link": "https://thanhnien.vn/hai-ca-ghep-tang-tu-nguoi-hien-chet-nao-dau-tien-o-dbscl-hoi-phuc-ky-dieu-185251120180434148.htm",
+      "summary": "Hai bệnh nhân ghép thận từ người hiến chết não đầu tiên ở ĐBSCL đang hồi phục ngoạn mục, chức năng thận trở về gần như bình thường. Dự kiến cả hai sẽ xuất viện vào hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:12:00+07:00",
+      "fetched": "2025-11-21T08:17:54.859529+07:00"
+    },
+    {
+      "id": "dd88236487fab715c83ae22ce92e4346",
+      "title": "Sạt lở dọa 'nuốt' nhà dân",
+      "link": "https://thanhnien.vn/sat-lo-doa-nuot-nha-dan-185251120203416436.htm",
+      "summary": "Sạt lở đe dọa nghiêm trọng làng, đường dân sinh và nhà cửa ven sông, suối của người dân các xã Kon Braih và Kon Đào (tỉnh Quảng Ngãi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:11:00+07:00",
+      "fetched": "2025-11-21T08:17:54.859698+07:00"
+    },
+    {
+      "id": "02662dc118e0ba320bfd9f6b4e73745d",
+      "title": "Bảng cấm rất to nhưng vẫn đổ rác",
+      "link": "https://thanhnien.vn/bang-cam-rat-to-nhung-van-do-rac-185251120193049928.htm",
+      "summary": "Tại giao lộ đường Chiến Lược - Bình Trị Đông, P.Bình Trị Đông (trước đây thuộc P.Bình Trị Đông, Q.Bình Tân), TP.HCM, có một bãi rác, gây ô nhiễm và làm mất mỹ quan đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:11:00+07:00",
+      "fetched": "2025-11-21T08:17:54.859863+07:00"
+    },
+    {
+      "id": "1dab75a6c1185842d55adefe7eed14c3",
+      "title": "Nhật sắp tăng mạnh phí visa với cư dân nước ngoài?",
+      "link": "https://thanhnien.vn/nhat-sap-tang-manh-phi-visa-voi-cu-dan-nuoc-ngoai-185251121075517162.htm",
+      "summary": "Nhật Bản sẽ tăng đáng kể phí cấp thị thực (visa) cho cư dân nước ngoài trong năm tài chính 2026, bắt đầu từ ngày 1.4.2026, theo Kyodo News ngày 20.11 dẫn một số nguồn tin từ chính phủ nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:03:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860019+07:00"
+    },
+    {
+      "id": "e5766eb41bbfffa8ce2f4dc30111ed41",
+      "title": "Trường ĐH Hoa Sen được Liên hiệp các hội UNESCO thế giới vinh danh",
+      "link": "https://thanhnien.vn/truong-dh-hoa-sen-duoc-lien-hiep-cac-hoi-unesco-the-gioi-vinh-danh-185251120233718258.htm",
+      "summary": "Chiều 20.11.2015, tại Trường ĐH Hoa Sen, Liên hiệp các Hội UNESCO Việt Nam – thành viên của Liên hiệp các Hội UNESCO Thế giới đã vinh danh nhà trường, ghi nhận những đóng góp nổi bật trong phát triển bền vững, khoa học – giáo dục – văn hóa và lĩnh vực công nghiệp sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860173+07:00"
+    },
+    {
+      "id": "d7b12cd28110f4189aea613158e8eed6",
+      "title": "'Khốn khổ' với bùn lầy, nắng bụi khi thi công Vành đai 4",
+      "link": "https://thanhnien.vn/khon-kho-voi-bun-lay-nang-bui-khi-thi-cong-vanh-dai-4-185251120220831014.htm",
+      "summary": "Khi hạng mục cầu vượt của dự án Vành đai 4 giao với QL6 (Hà Nội) được thi công, cũng là lúc khu vực này bùn lầy khi mưa xuống, bụi như sương mù khi nắng lên, khiến người dân 'khốn khổ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860323+07:00"
+    },
+    {
+      "id": "d01106b8cc1f5ea25ab264e12e5d44b5",
+      "title": "Brother International (Việt Nam) tiếp tục đạt Top 100 nơi làm việc tốt nhất Việt Nam 2025",
+      "link": "https://thanhnien.vn/brother-international-viet-nam-tiep-tuc-dat-top-100-noi-lam-viec-tot-nhat-viet-nam-2025-185251120161048611.htm",
+      "summary": "Năm 2025 Brother International (Việt Nam) tiếp tục được Anphabe vinh danh vào Top 100 nơi làm việc tốt nhất Việt Nam. Liên tiếp sau nhiều năm được bình chọn, Brother Việt Nam tự tin khẳng định vị trí top 1 trong ngành Điện Tử/Công Nghệ Cao/Thiết Bị Phụ Trợ và top 3 trong ngành Kỹ Thuật/Máy Móc/Cơ kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860485+07:00"
+    },
+    {
+      "id": "cfb6a994dfe65236a1ef533a902bed6a",
+      "title": "Tiêm vắc xin gì để bảo vệ người cao tuổi, người bệnh nền cuối năm?",
+      "link": "https://thanhnien.vn/tiem-vac-xin-gi-de-bao-ve-nguoi-cao-tuoi-nguoi-benh-nen-cuoi-nam-185251120155816843.htm",
+      "summary": "Thời tiết lạnh cuối năm gây suy giảm miễn dịch khiến người cao tuổi và bệnh nền dễ viêm phổi khi mắc cúm, phế cầu, hợp bào hô hấp RSV, tăng nguy cơ đột quỵ, suy tim và trầm trọng thêm bệnh nền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860633+07:00"
+    },
+    {
+      "id": "cd181f37deeed374a5b755f06bca4860",
+      "title": "Jotun ra mắt mô hình cửa hàng sơn hiện đại, tôn vinh màu sắc và chất liệu",
+      "link": "https://thanhnien.vn/jotun-ra-mat-mo-hinh-cua-hang-son-hien-dai-ton-vinh-mau-sac-va-chat-lieu-185251120155103649.htm",
+      "summary": "Jotun Studio - trung tâm trải nghiệm sơn trang trí cao cấp của Jotun, nơi màu sắc và chất liệu được tôn vinh trong một không gian hiện đại, tinh tế. Mô hình này không chỉ khẳng định vị thế của Jotun mà còn biến hành trình chọn sơn của người tiêu dùng trở thành một trải nghiệm đầy cảm hứng và chuyên ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860800+07:00"
+    },
+    {
+      "id": "a6468c1b72cf0e7fc35d928f707c0cb8",
+      "title": "Cơ hội rộng mở tại châu Á với hướng đi mới ở khối ngành sức khỏe",
+      "link": "https://thanhnien.vn/co-hoi-rong-mo-tai-chau-a-voi-huong-di-moi-o-khoi-nganh-suc-khoe-185251120154004048.htm",
+      "summary": "Là đơn vị đào tạo khoa học hành vi và triển khai trong y tế, ĐH Quốc gia Singapore nhận định đây là lĩnh vực có khả năng giúp giải quyết những vấn đề sức khỏe trong xã hội, giúp tăng cơ hội việc làm và sức ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.860948+07:00"
+    },
+    {
+      "id": "b23e0e5026d1c6c36e742cfb3ef15c03",
+      "title": "TT AVIO: Tiện ích trọn vẹn phong cách sống ‘all-in-one’ tại khu đông",
+      "link": "https://thanhnien.vn/tt-avio-tien-ich-tron-ven-phong-cach-song-all-in-one-tai-khu-dong-185251120101925973.htm",
+      "summary": "Khi một nơi ở không chỉ là chốn để trở về, mà còn là không gian luyện tập sức khỏe, nuôi dưỡng tâm hồn và đáp ứng nhu cầu làm việc - nghỉ ngơi - trải nghiệm - kết nối ngay trong nội khu, thì giá trị của nó vượt xa một căn hộ đơn thuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.861098+07:00"
+    },
+    {
+      "id": "2d41ba34d71503d17abe669ecfd52301",
+      "title": "Bí quyết diện áo khoác tweed đẹp cho quý cô văn phòng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bi-quyet-dien-ao-khoac-tweed-dep-cho-quy-co-van-phong-185251118113140054.htm",
+      "summary": "Nếu chỉ được chọn một món đồ tiêu biểu cho phong cách thời trang mùa lạnh, rất nhiều tín đồ sẽ không ngần ngại chọn ngay áo khoác vải tweed. Không chỉ là một chiếc áo ấm dùng để mặc khoác bên ngoài, áo tweed còn giúp nâng tầm phong cách thời trang cho quý cô văn phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T01:00:00+07:00",
+      "fetched": "2025-11-21T08:17:54.861248+07:00"
+    },
+    {
+      "id": "5160540d7bbe54f20b2c1e42bb7ad427",
+      "title": "Điện thoại Android có thể 'AirDrop' sang iPhone",
+      "link": "https://vnexpress.net/dien-thoai-android-co-the-airdrop-sang-iphone-4970797.html",
+      "summary": "Google phát triển tính năng Quick Share dành cho Android với khả năng tương thích AirDrop của Apple mà không cần sự hỗ trợ từ đối thủ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-21T00:54:51+07:00",
+      "fetched": "2025-11-21T08:18:01.096186+07:00"
+    },
+    {
+      "id": "caa2f45b0225ba9694e8947141e6a8c4",
+      "title": "Nga tuyên bố giành được thành phố chiến lược ở Kharkov",
+      "link": "https://vnexpress.net/nga-tuyen-bo-gianh-duoc-thanh-pho-chien-luoc-o-kharkov-4970814.html",
+      "summary": "Tổng tham mưu trưởng quân đội Nga thông báo lực lượng nước này đã kiểm soát hoàn toàn Kupyansk, đô thị đầu mối mang tính chiến lược ở tỉnh Kharkov.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-21T00:54:31+07:00",
+      "fetched": "2025-11-21T08:17:57.603405+07:00"
+    },
+    {
+      "id": "5ec4b1731cde5d9ef7574e99282170cc",
+      "title": "Giá Bitcoin hôm nay 21.11.2025: Bấp bênh và liên tục thủng đáy",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-21112025-bap-benh-va-lien-tuc-thung-day-185251121064650873.htm",
+      "summary": "Giá Bitcoin ngày 21.11 không duy trì được đà phục hồi, bất ngờ thủng mốc 87.000 USD, đẩy thị trường vào kịch bản \"ảm đạm nhất\" trong chu kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:52:00+07:00",
+      "fetched": "2025-11-21T08:17:54.861399+07:00"
+    },
+    {
+      "id": "ed9fa60a104d308990821c85c3e01b08",
+      "title": "Yamal: 'Tôi muốn giành cả World Cup, Champions League lẫn Quả Bóng Vàng'",
+      "link": "https://vnexpress.net/yamal-toi-muon-gianh-ca-world-cup-champions-league-lan-qua-bong-vang-4970811.html",
+      "summary": "Tài năng trẻ Barca, Lamine Yamal muốn có mọi danh hiệu cá nhân và tập thể cao quý nhất đối với một cầu thủ bóng đá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:37:38+07:00",
+      "fetched": "2025-11-21T08:17:51.556080+07:00"
+    },
+    {
+      "id": "ed9fa60a104d308990821c85c3e01b08",
+      "title": "Yamal: 'Tôi muốn giành cả World Cup, Champions League lẫn Quả Bóng Vàng'",
+      "link": "https://vnexpress.net/yamal-toi-muon-gianh-ca-world-cup-champions-league-lan-qua-bong-vang-4970811.html",
+      "summary": "Tài năng trẻ Barca, Lamine Yamal muốn có mọi danh hiệu cá nhân và tập thể cao quý nhất đối với một cầu thủ bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T00:37:38+07:00",
+      "fetched": "2025-11-21T08:18:02.870124+07:00"
+    },
+    {
+      "id": "bc4e899551c88fed21e572445acb5728",
+      "title": "Di Maria được trao thêm danh hiệu dù không vô địch",
+      "link": "https://vnexpress.net/di-maria-duoc-trao-them-danh-hieu-du-khong-vo-dich-4970807.html",
+      "summary": "LĐBĐ Argentina (AFA) tạo ra danh hiệu mới \"vô địch quốc gia\", cho CLB Rosario Central, giúp ngôi sao Angel di Maria có thêm thành tích tập thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:33:52+07:00",
+      "fetched": "2025-11-21T08:17:51.556263+07:00"
+    },
+    {
+      "id": "bc4e899551c88fed21e572445acb5728",
+      "title": "Di Maria được trao thêm danh hiệu dù không vô địch",
+      "link": "https://vnexpress.net/di-maria-duoc-trao-them-danh-hieu-du-khong-vo-dich-4970807.html",
+      "summary": "LĐBĐ Argentina (AFA) tạo ra danh hiệu mới \"vô địch quốc gia\", cho CLB Rosario Central, giúp ngôi sao Angel di Maria có thêm thành tích tập thể.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T00:33:52+07:00",
+      "fetched": "2025-11-21T08:18:02.870279+07:00"
+    },
+    {
+      "id": "2455d11001524947cee040fe897ec022",
+      "title": "Người dân vùng lũ có thể gửi tọa độ để xin nhận cứu trợ",
+      "link": "https://vnexpress.net/nguoi-dan-vung-lu-co-the-gui-toa-do-de-xin-nhan-cuu-tro-4970799.html",
+      "summary": "Bản đồ thông tin cứu trợ mở tính năng giúp người dân vùng lũ Nha Trang, Bình Định chủ động gửi tọa độ vị trí để được hỗ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:21:56+07:00",
+      "fetched": "2025-11-21T08:17:51.556429+07:00"
+    },
+    {
+      "id": "cb3733c871cbb9e0703edb509d4cbd92",
+      "title": "Bản đồ hỗ trợ người dân vùng lũ gửi tọa độ để xin nhận cứu trợ",
+      "link": "https://vnexpress.net/ban-do-ho-tro-nguoi-dan-vung-lu-gui-toa-do-de-xin-nhan-cuu-tro-4970799.html",
+      "summary": "Bản đồ thông tin cứu trợ mở tính năng giúp người dân vùng lũ Nha Trang, Bình Định chủ động gửi tọa độ vị trí để được hỗ trợ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-21T00:21:56+07:00",
+      "fetched": "2025-11-21T08:18:01.095839+07:00"
+    },
+    {
+      "id": "9919c7b446e235f5a59695e51578cd7c",
+      "title": "Mỹ gửi kế hoạch hòa bình mới cho Ukraine",
+      "link": "https://vnexpress.net/my-gui-ke-hoach-hoa-binh-moi-cho-ukraine-4970805.html",
+      "summary": "Washington đã chuyển cho Kiev dự thảo kế hoạch mới về chấm dứt xung đột, khẳng định phương án này tốt cho cả Ukraine và Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:06:06+07:00",
+      "fetched": "2025-11-21T08:17:51.556594+07:00"
+    },
+    {
+      "id": "9919c7b446e235f5a59695e51578cd7c",
+      "title": "Mỹ gửi kế hoạch hòa bình mới cho Ukraine",
+      "link": "https://vnexpress.net/my-gui-ke-hoach-hoa-binh-moi-cho-ukraine-4970805.html",
+      "summary": "Washington đã chuyển cho Kiev dự thảo kế hoạch mới về chấm dứt xung đột, khẳng định phương án này tốt cho cả Ukraine và Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-21T00:06:06+07:00",
+      "fetched": "2025-11-21T08:17:57.603579+07:00"
+    },
+    {
+      "id": "cbad28d534beec5cbd272e22b40f17b3",
+      "title": "Ba động lực tăng trưởng của bất động sản hạng sang",
+      "link": "https://vnexpress.net/ba-dong-luc-tang-truong-cua-bat-dong-san-hang-sang-4969466.html",
+      "summary": "Sự gia tăng nhanh tầng lớp trung - thượng lưu, các dự án hạ tầng quy mô lớn cùng môi trường pháp lý ngày càng minh bạch là động lực thúc đẩy sự phát triển của bất động sản hạng sang tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.556770+07:00"
+    },
+    {
+      "id": "05decf65c08f795cca8e10165e83b9c7",
+      "title": "Giá phòng ở Lô Lô Chải tăng gấp ba khi qua tay môi giới",
+      "link": "https://vnexpress.net/gia-phong-o-lo-lo-chai-tang-gap-ba-khi-qua-tay-moi-gioi-4969376.html",
+      "summary": "Sau khi Lô Lô Chải nhận giải Làng du lịch tốt nhất thế giới, tình trạng đầu cơ khiến giá phòng tại đây bị đẩy lên 1,2 - 2,4 triệu đồng, gấp ba lần niêm yết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.556926+07:00"
+    },
+    {
+      "id": "f1fd923a209dcd81e57e58f07957895c",
+      "title": "Dấu hiệu cảnh báo suy gan",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-suy-gan-4969206.html",
+      "summary": "Mệt mỏi dai dẳng, vàng da, chướng bụng, lú lẫn, nhiễm trùng thường xuyên và xuất huyết tiêu hóa có thể là dấu hiệu tổn thương gan nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.557080+07:00"
+    },
+    {
+      "id": "d933def0cc4d19c2b010bd14868862f2",
+      "title": "Bí quyết ăn uống giúp Novak Djokovic kéo dài đỉnh cao phong độ",
+      "link": "https://vnexpress.net/bi-quyet-an-uong-giup-novak-djokovic-keo-dai-dinh-cao-phong-do-4965382.html",
+      "summary": "Ở tuổi 38, trong khi các đối thủ cùng thế hệ giải nghệ, Novak Djokovic vẫn duy trì phong độ đỉnh cao nhờ chế độ ăn nghiêm ngặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T00:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.557236+07:00"
+    },
+    {
+      "id": "849fcb3d78643f3890b6bd0b3647b2a1",
+      "title": "Người cứu bé 8 tuổi bị vùi lấp: 'Mừng vì cháu biết kêu đau'",
+      "link": "https://vnexpress.net/nguoi-cuu-be-8-tuoi-bi-vui-lap-mung-vi-chau-biet-keu-dau-4970745.html",
+      "summary": "Trung tá Đỗ Bách Tùng kể máy móc không thể tiếp cận vì sợ rung chấn làm sập thêm, phải dùng tay không bới đất, mười đầu ngón tay rớm máu, tê buốt nhưng không ai dám dừng lại, quyết cứu bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:45:45+07:00",
+      "fetched": "2025-11-21T08:17:51.557386+07:00"
+    },
+    {
+      "id": "bbd80c302357db8e12d2916e352b9232",
+      "title": "Canô được chuyển vào vùng ngập cứu trợ",
+      "link": "https://vnexpress.net/cano-duoc-chuyen-vao-vung-ngap-cuu-tro-4969528.html",
+      "summary": "50–70 ca nô du lịch, chuyên dụng ở cảng Hòn Rớ được đưa lên xe tải, chuyển đến các khu vực ngập sâu, người dân mắc kẹt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:42:49+07:00",
+      "fetched": "2025-11-21T08:17:51.557534+07:00"
+    },
+    {
+      "id": "11c74ed7735d9f06b0c587cf5315d6f7",
+      "title": "Sinh viên Mỹ du học ở đâu?",
+      "link": "https://vnexpress.net/sinh-vien-my-du-hoc-o-dau-4970413.html",
+      "summary": "Mỹ là điểm đến số một của du học sinh, nhưng cũng có hàng trăm nghìn sinh viên nước này ra nước ngoài học mỗi năm, chủ yếu tới châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:15:41+07:00",
+      "fetched": "2025-11-21T08:17:51.557713+07:00"
+    },
+    {
+      "id": "41268a5f8aae6b225f939656a949a6de",
+      "title": "Điểm tin 6h: Đà Nẵng đến Khánh Hòa vẫn mưa lớn | Người dân Đà Lạt đổ xô mua xăng",
+      "link": "https://vnexpress.net/diem-tin-6h-da-nang-den-khanh-hoa-van-mua-lon-nguoi-dan-da-lat-do-xo-mua-xang-4970806.html",
+      "summary": "Giải cứu hai chị em rơi xuống hố sâu ở núi Trầm; Tập đoàn lừa đảo giăng bẫy 7.000 người già...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:12:57+07:00",
+      "fetched": "2025-11-21T08:17:51.557886+07:00"
+    },
+    {
+      "id": "42ebff459049d7c39dd0bd60c5c5391b",
+      "title": "Bác sĩ Chợ Rẫy cứu mẹ con sản phụ khỏi 'cửa tử' trong ca mổ đặc biệt",
+      "link": "https://vnexpress.net/bac-si-cho-ray-cuu-me-con-san-phu-khoi-cua-tu-trong-ca-mo-dac-biet-4969784.html",
+      "summary": "Người phụ nữ mang thai 38 tuần bị bóc tách động mạch chủ cấp tính, đe dọa tính mạng cả mẹ lẫn con, được bác sĩ Bệnh viện Chợ Rẫy can thiệp thần tốc trong 48 giờ đầu cứu sống ngoạn mục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:10:00+07:00",
+      "fetched": "2025-11-21T08:17:51.558047+07:00"
+    },
+    {
+      "id": "bd8e16b26aaf2d7178725ed07344d720",
+      "title": "Kinh tế tăng trưởng thế nào 5 năm qua",
+      "link": "https://vnexpress.net/kinh-te-tang-truong-the-nao-5-nam-qua-4969999.html",
+      "summary": "Giai đoạn 2021-2025, kinh tế Việt Nam tăng trưởng bình quân 6,3% và lần đầu tiên hướng tới mục tiêu tăng hai con số từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.558202+07:00"
+    },
+    {
+      "id": "ee23420feff4fa2302dec7bd1b3b1edf",
+      "title": "Stress bởi áp lực tìm bạn đời 'hoàn hảo'",
+      "link": "https://vnexpress.net/stress-boi-ap-luc-tim-ban-doi-hoan-hao-4964729.html",
+      "summary": "Ở tuổi 35, Minh, ở Hà Nội, luôn trong trạng thái căng thẳng kéo dài vì không thể tìm được bạn đời như mong muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T23:00:00+07:00",
+      "fetched": "2025-11-21T08:17:51.558356+07:00"
+    },
+    {
+      "id": "bd8e16b26aaf2d7178725ed07344d720",
+      "title": "Kinh tế tăng trưởng thế nào 5 năm qua",
+      "link": "https://vnexpress.net/kinh-te-tang-truong-the-nao-5-nam-qua-4969999.html",
+      "summary": "Giai đoạn 2021-2025, kinh tế Việt Nam tăng trưởng bình quân 6,3% và lần đầu tiên hướng tới mục tiêu tăng hai con số từ năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-20T23:00:00+07:00",
+      "fetched": "2025-11-21T08:17:58.671726+07:00"
+    },
+    {
+      "id": "387f062cf39db2b94ae15688b1dc9fac",
+      "title": "Ngôi sao bóng bàn Trung Quốc đập đầu xuống bàn khi thua",
+      "link": "https://vnexpress.net/ngoi-sao-bong-ban-trung-quoc-dap-dau-xuong-ban-khi-thua-4970802.html",
+      "summary": "Ngôi sao bóng bàn Trung Quốc, Wang Chuqin lần thứ hai liên tiếp thua đàn anh Fan Zhendong, tại Đại hội thể thao Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T22:48:20+07:00",
+      "fetched": "2025-11-21T08:18:02.869115+07:00"
+    },
+    {
+      "id": "20d4ca6adb1c6a9ddcd86b0059e89c7b",
+      "title": "Carragher: 'Liverpool có thể mất suất dự Champions League'",
+      "link": "https://vnexpress.net/carragher-liverpool-co-the-mat-suat-du-champions-league-4970801.html",
+      "summary": "Theo Jamie Carragher, Liverpool cần mua thêm hậu vệ trong kỳ chuyển nhượng tháng 1/2026 để giành vé dự Champions League mùa sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T22:43:22+07:00",
+      "fetched": "2025-11-21T08:18:02.869800+07:00"
+    },
+    {
+      "id": "712a18f5a4bd884c2106a5bfee4ffc04",
+      "title": "Argentina từng suýt mất Messi vào tay Tây Ban Nha",
+      "link": "https://vnexpress.net/argentina-tung-suyt-mat-messi-vao-tay-tay-ban-nha-4969476.html",
+      "summary": "Cựu HLV Jose Pekerman cho biết một trận giao hữu gấp rút hồi năm 2004 giúp Argentina giữ chân Lionel Messi, trước khi anh có thể khoác áo đội trẻ Tây Ban Nha theo thủ tục FIFA lúc đó.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T22:38:57+07:00",
+      "fetched": "2025-11-21T08:18:02.869958+07:00"
+    },
+    {
+      "id": "9cb2e9818f36787f2d15f97e9081bfdb",
+      "title": "Lại Lý Huynh đánh đôi cùng nữ kỳ thủ cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-danh-doi-cung-nu-ky-thu-co-tuong-trung-quoc-4970798.html",
+      "summary": "Đương kim VĐTG Lại Lý Huynh đánh cặp với nữ Đại sư 26 tuổi Lang Kỳ Kỳ, ở giải cờ đôi Cẩm Giang có quỹ thưởng 1,5 tỷ đồng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T22:30:23+07:00",
+      "fetched": "2025-11-21T08:18:02.869289+07:00"
+    },
+    {
+      "id": "85df76e3ee22f7693efa4768b96f4967",
+      "title": "Món quà đặc biệt Tổng thống Trump tặng Ronaldo",
+      "link": "https://vnexpress.net/mon-qua-dac-biet-tong-thong-trump-tang-ronaldo-4970800.html",
+      "summary": "Tổng thống Donald Trump tặng siêu sao bóng đá Cristiano Ronaldo chiếc chìa khóa vàng của Nhà Trắng do chính ông thiết kế, không phải ai cũng nhận được.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T22:27:02+07:00",
+      "fetched": "2025-11-21T08:18:02.869450+07:00"
     },
     {
       "id": "ea987cfa6ff7a0ee632f2f0ab6c219f3",
