@@ -1,6 +1,6 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T01:22:26.043803+07:00",
+  "lastUpdated": "2025-11-23T03:18:02.831660+07:00",
   "articles": [
     {
       "id": "acc55b3347cf33a6dbacd2dc10cc81a6",
@@ -151,6 +151,126 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T01:22:19.582361+07:00",
       "fetched": "2025-11-23T01:22:19.582571+07:00"
+    },
+    {
+      "id": "63ab98314ad1eea6097ae71c3da21b22",
+      "title": "Man City gục ngã trước Newcastle",
+      "link": "https://vnexpress.net/man-city-guc-nga-truoc-newcastle-4980026.html",
+      "summary": "Man City tiếp tục sẩy chân trong cuộc đua vô địch khi thua chủ nhà Newcastle 1-2 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T19:27:17+07:00",
+      "fetched": "2025-11-23T03:17:54.472030+07:00"
+    },
+    {
+      "id": "63ab98314ad1eea6097ae71c3da21b22",
+      "title": "Man City gục ngã trước Newcastle",
+      "link": "https://vnexpress.net/man-city-guc-nga-truoc-newcastle-4980026.html",
+      "summary": "Man City tiếp tục sẩy chân trong cuộc đua vô địch khi thua chủ nhà Newcastle 1-2 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T19:27:17+07:00",
+      "fetched": "2025-11-23T03:18:02.827304+07:00"
+    },
+    {
+      "id": "6b3db5b960769c093fc669ce8b7eac2c",
+      "title": "Cựu cảnh sát mở dịch vụ giặt là miễn phí cho người vô gia cư",
+      "link": "https://vnexpress.net/cuu-canh-sat-mo-dich-vu-giat-la-mien-phi-cho-nguoi-vo-gia-cu-4976833.html",
+      "summary": "Thay vì nghỉ hưu an nhàn, cựu cảnh sát Milyard quyết định biến một xe buýt cũ thành trạm giặt quần áo miễn phí cho người vô gia cư ở Maryland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T19:00:00+07:00",
+      "fetched": "2025-11-23T03:17:54.472190+07:00"
+    },
+    {
+      "id": "6b3db5b960769c093fc669ce8b7eac2c",
+      "title": "Cựu cảnh sát mở dịch vụ giặt là miễn phí cho người vô gia cư",
+      "link": "https://vnexpress.net/cuu-canh-sat-mo-dich-vu-giat-la-mien-phi-cho-nguoi-vo-gia-cu-4976833.html",
+      "summary": "Thay vì nghỉ hưu an nhàn, cựu cảnh sát Milyard quyết định biến một xe buýt cũ thành trạm giặt quần áo miễn phí cho người vô gia cư ở Maryland.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T19:00:00+07:00",
+      "fetched": "2025-11-23T03:17:58.897395+07:00"
+    },
+    {
+      "id": "eab13b11276294e57c8b820778900e26",
+      "title": "Barca thắng đậm trong ngày trở lại Camp Nou",
+      "link": "https://vnexpress.net/barca-thang-dam-trong-ngay-tro-lai-camp-nou-4979763.html",
+      "summary": "Trong trận đầu tiên trên sân Camp Nou sau hơn 900 ngày, Barca thắng Athletic Bilbao 4-0 ở vòng 13 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T18:58:49+07:00",
+      "fetched": "2025-11-23T03:17:54.472331+07:00"
+    },
+    {
+      "id": "eab13b11276294e57c8b820778900e26",
+      "title": "Barca thắng đậm trong ngày trở lại Camp Nou",
+      "link": "https://vnexpress.net/barca-thang-dam-trong-ngay-tro-lai-camp-nou-4979763.html",
+      "summary": "Trong trận đầu tiên trên sân Camp Nou sau hơn 900 ngày, Barca thắng Athletic Bilbao 4-0 ở vòng 13 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T18:58:49+07:00",
+      "fetched": "2025-11-23T03:18:02.827457+07:00"
+    },
+    {
+      "id": "7d618125e2c3adeb7470f9fac6d1530d",
+      "title": "Lịch thi đấu Cúp quốc gia rất đáng xem hôm nay: Những trận derby rực lửa, chờ cú sốc lớn",
+      "link": "https://thanhnien.vn/lich-thi-dau-cup-quoc-gia-rat-dang-xem-hom-nay-nhung-tran-derby-ruc-lua-cho-cu-soc-lon-185251122224243948.htm",
+      "summary": "Sau quãng tạm nghỉ để nhường chỗ FIFA Days, giải bóng đá quốc nội sẽ tái xuất với các trận đấu của vòng 16 đội Cúp quốc gia vào hôm nay (23.11), hứa hẹn hấp dẫn và nhiều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T18:38:00+07:00",
+      "fetched": "2025-11-23T03:17:57.060777+07:00"
+    },
+    {
+      "id": "47dc0ac32062f072b54fb877a9eea269",
+      "title": "Thai phụ nguy kịch vì tiền sản giật, được cứu cả mẹ lẫn con",
+      "link": "https://vnexpress.net/thai-phu-nguy-kich-vi-tien-san-giat-duoc-cuu-ca-me-lan-con-4975238.html",
+      "summary": "Người phụ nữ mang thai 31 tuần rơi vào nguy kịch do tiền sản giật nặng kèm suy thai cấp, các bác sĩ phẫu thuật khẩn giúp bé chào đời an toàn, người mẹ ổn định sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T18:00:00+07:00",
+      "fetched": "2025-11-23T03:17:54.472467+07:00"
+    },
+    {
+      "id": "a897f1960886528ef57fde43dafab3d1",
+      "title": "Lợi thế của Nga nếu giành được thành phố chiến lược ở Kharkov",
+      "link": "https://vnexpress.net/loi-the-cua-nga-neu-gianh-duoc-thanh-pho-chien-luoc-o-kharkov-4971656.html",
+      "summary": "Kiểm soát Kupyansk, đô thị chiến lược ở tỉnh Kharkov, có thể giúp Nga tiến sâu hơn về phía tây và hỗ trợ lực lượng ở vùng Donbass.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T18:00:00+07:00",
+      "fetched": "2025-11-23T03:17:54.472604+07:00"
+    },
+    {
+      "id": "1830b634c955462c2e29672ca728faed",
+      "title": "Logistics - chìa khóa phục hồi của công ty công nghệ",
+      "link": "https://vnexpress.net/logistics-chia-khoa-phuc-hoi-cua-cong-ty-cong-nghe-4965249.html",
+      "summary": "Báo cáo DP World cho thấy doanh nghiệp công nghệ chịu tác động lớn từ gián đoạn logistics, buộc họ coi chuỗi cung ứng là ưu tiên chiến lược để bảo vệ hoạt động và uy tín thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T18:00:00+07:00",
+      "fetched": "2025-11-23T03:17:54.472741+07:00"
+    },
+    {
+      "id": "a897f1960886528ef57fde43dafab3d1",
+      "title": "Lợi thế của Nga nếu giành được thành phố chiến lược ở Kharkov",
+      "link": "https://vnexpress.net/loi-the-cua-nga-neu-gianh-duoc-thanh-pho-chien-luoc-o-kharkov-4971656.html",
+      "summary": "Kiểm soát Kupyansk, đô thị chiến lược ở tỉnh Kharkov, có thể giúp Nga tiến sâu hơn về phía tây và hỗ trợ lực lượng ở vùng Donbass.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T18:00:00+07:00",
+      "fetched": "2025-11-23T03:17:58.897545+07:00"
+    },
+    {
+      "id": "16b8f18c75f22b49d4e52fc533857bad",
+      "title": "Phạm Băng Băng đoạt Ảnh hậu Kim Mã",
+      "link": "https://vnexpress.net/pham-bang-bang-doat-anh-hau-kim-ma-4978424.html",
+      "summary": "Phạm Băng Băng đoạt danh hiệu Nữ diễn viên xuất sắc tại giải thưởng Kim Mã của Đài Loan (Trung Quốc) với vai chính phim \"Địa mẫu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T17:46:24+07:00",
+      "fetched": "2025-11-23T03:17:54.472891+07:00"
     },
     {
       "id": "9d21cdada597802d03b2c10962199fa9",
