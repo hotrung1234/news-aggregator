@@ -1,7 +1,37 @@
 window.newsData_2025_11_22 = {
   "date": "2025-11-22",
-  "lastUpdated": "2025-11-22T08:15:34.983987+07:00",
+  "lastUpdated": "2025-11-22T10:01:58.829565+07:00",
   "articles": [
+    {
+      "id": "9aceb2eadc220f0e71ecba6ddff30507",
+      "title": "Điểm tin 8h: Điện thoại, laptop có thể tăng 'sốc' năm 2026; Nổ nhà máy hóa chất ở Pakistan",
+      "link": "https://tuoitre.vn/diem-tin-8h-dien-thoai-laptop-co-the-tang-soc-nam-2026-no-nha-may-hoa-chat-o-pakistan-20251121225457341.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 22-11-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T10:01:51.309794+07:00",
+      "fetched": "2025-11-22T10:01:51.309915+07:00"
+    },
+    {
+      "id": "4ad17cc27fb00fcd6533d0efe1f755ae",
+      "title": "Bình ổn giá rau củ, thực phẩm dù áp lực mưa lũ",
+      "link": "https://tuoitre.vn/binh-on-gia-rau-cu-thuc-pham-du-ap-luc-mua-lu-20251121225753122.htm",
+      "summary": "Giá hàng thiết yếu leo thang vì mưa lũ khiến ngân sách gia đình căng thẳng. Saigon Co.op tung ưu đãi mạnh và bình ổn hơn 1.000 sản phẩm để 'giải nhiệt' mùa mua sắm cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T10:01:51.309643+07:00",
+      "fetched": "2025-11-22T10:01:51.309781+07:00"
+    },
+    {
+      "id": "542693b4571733baf46d533cf81df45b",
+      "title": "Sân bay Vinh dự kiến mở lại cuối 2025, vé Tết nhiều tuyến bay giá cao, bắt đầu khan hiếm",
+      "link": "https://tuoitre.vn/san-bay-vinh-du-kien-mo-lai-cuoi-2025-ve-tet-nhieu-tuyen-bay-gia-cao-bat-dau-khan-hiem-20251121215020821.htm",
+      "summary": "Sự trở lại của sân bay Vinh vào cuối 2025 tạo điều kiện cho hành khách, nhưng vé Tết 2026 đã khan hiếm từ sớm. Nhu cầu từ TP.HCM đến Vinh gia tăng đột biến, dẫn đến giá vé cao, trung bình 3,5 triệu đồng/chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T10:01:51.309409+07:00",
+      "fetched": "2025-11-22T10:01:51.309627+07:00"
+    },
     {
       "id": "aacf3328a368d45e63eafdba265df651",
       "title": "Thủ tướng Malaysia: 'Sẽ có hình phạt nghiêm khắc nếu FAM bị kết tội'",
@@ -211,6 +241,346 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T03:19:10.219806+07:00",
       "fetched": "2025-11-22T03:19:10.220044+07:00"
+    },
+    {
+      "id": "5b94fcac8f9ad9d294f0d8d87c67d289",
+      "title": "Đồng Nai đề nghị 17 thủy điện cung cấp thông tin xả lũ",
+      "link": "https://thanhnien.vn/dong-nai-de-nghi-17-thuy-dien-cung-cap-thong-tin-xa-lu-185251122092354681.htm",
+      "summary": "Đồng Nai đề nghị 17 thủy điện cung cấp thông tin xả lũ các sông Đồng Nai, La Ngà, Sông Bé, để người dân ở hạ lưu chủ động thu hoạch nông sản, di dời người và tài sản khỏi vùng có nguy cơ ngập sâu, sạt lở đất, nhằm hạn chế thấp nhất thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T03:00:00+07:00",
+      "fetched": "2025-11-22T10:01:50.183319+07:00"
+    },
+    {
+      "id": "819ce4e27ccac50a5c1afa6af5062bf8",
+      "title": "CADIVI giữ vị trí Top 20 ‘Nơi làm việc tốt nhất Việt Nam 2025’",
+      "link": "https://thanhnien.vn/cadivi-giu-vi-tri-top-20-noi-lam-viec-tot-nhat-viet-nam-2025-185251122081057462.htm",
+      "summary": "Công ty Cổ phần Dây cáp điện Việt Nam (CADIVI) vừa được xướng tên trong Top 5 nơi làm việc tốt nhất - Khối doanh nghiệp vừa ngành sản xuất, công nghiệp chế biến, chế tạo và Top 20 'Nơi làm việc tốt nhất Việt Nam 2025 - Khối doanh nghiệp vừa'. Kết quả này dựa trên khảo sát uy tín được thực hiện thườn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T03:00:00+07:00",
+      "fetched": "2025-11-22T10:01:50.183493+07:00"
+    },
+    {
+      "id": "039cb964794c24ddf819d0ad87b0ed1c",
+      "title": "Những tính năng giúp Yamaha Grande là mẫu xe tiết kiệm nhiên liệu hàng đầu",
+      "link": "https://thanhnien.vn/nhung-tinh-nang-giup-yamaha-grande-la-mau-xe-tiet-kiem-nhien-lieu-hang-dau-185251121152006001.htm",
+      "summary": "Trong phân khúc xe tay ga đô thị, Yamaha Grande được xem là một trong những mẫu xe tiết kiệm nhiên liệu hàng đầu hiện nay. Không chỉ nổi bật ở thiết kế thanh lịch hay tiện ích thông minh, Grande còn được đánh giá cao nhờ hàng loạt công nghệ tối ưu vận hành, yếu tố giúp người dùng giảm chi phí di chu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T03:00:00+07:00",
+      "fetched": "2025-11-22T10:01:50.183654+07:00"
+    },
+    {
+      "id": "1f89c41f9af419151a67012e2231c51b",
+      "title": "Váy midi và sức hút thanh lịch vượt thời gian",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-midi-va-suc-hut-thanh-lich-vuot-thoi-gian-185251121102542166.htm",
+      "summary": "Trong khi những xu hướng thay đổi liên tục, váy midi vẫn giữ được vị thế bền vững như một biểu tượng của sự thanh lịch. Độ dài vừa phải, phom dáng mềm mại cùng khả năng tôn dáng khéo léo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T03:00:00+07:00",
+      "fetched": "2025-11-22T10:01:50.183808+07:00"
+    },
+    {
+      "id": "90fe9215f5c7e289ec6464d64e05386e",
+      "title": "Apple làm điều chưa từng có để 'đấu tay đôi' Galaxy S",
+      "link": "https://thanhnien.vn/apple-lam-dieu-chua-tung-co-de-dau-tay-doi-galaxy-s-185251122091501818.htm",
+      "summary": "Một trong những sự kiện mong đợi nhất của ngành công nghệ, sự kiện Apple ra mắt iPhone vào tháng 9, có thể sẽ trải qua một cuộc cách mạng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:56:00+07:00",
+      "fetched": "2025-11-22T10:01:50.183962+07:00"
+    },
+    {
+      "id": "1b14e9e9b5d2acbc523614bd5f4c154e",
+      "title": "Hồ Văn Cường thay đổi ra sao sau 4 năm được Ngọc Sơn hỗ trợ?",
+      "link": "https://thanhnien.vn/ho-van-cuong-thay-doi-ra-sao-sau-4-nam-duoc-ngoc-son-ho-tro-1852511220902396.htm",
+      "summary": "Ngọc Sơn và Hồ Văn Cường có dịp hội ngộ trong liveshow 'Tình cha', dự kiến diễn ra vào 28.11 tại Đồng Nai. Ngoài 2 thầy trò, chương trình còn quy tụ dàn khách mời gồm Dương Hồng Loan, NLy….",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:56:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184135+07:00"
+    },
+    {
+      "id": "4cc720a37ecf6a79f50f377d732accb3",
+      "title": "Nam diễn viên 'Chị Mười Ba' đón con gái đầu lòng bên vợ người mẫu",
+      "link": "https://thanhnien.vn/nam-dien-vien-chi-muoi-ba-don-con-gai-dau-long-ben-vo-nguoi-mau-185251122082627071.htm",
+      "summary": "Người mẫu Lê Thu Trang và diễn viên Quang Sơn vừa đón con gái đầu lòng sau 4 tháng kết hôn. Theo quán quân 'The New Mentor 2023', con gái chính là sợi dây kết nối cho hôn nhân viên mãn của cô và chồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:53:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184289+07:00"
+    },
+    {
+      "id": "48fcd27c80b6de7d25916433a61150d2",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên đồng hành cùng cô, trò tôi trong dạy và học",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-dong-hanh-cung-co-tro-toi-trong-day-va-hoc-185251120001653182.htm",
+      "summary": "Báo Thanh Niên không chỉ cung cấp tin tức, tri thức cho nhiều tầng lớp bạn đọc mà còn là nơi cô, trò chúng tôi luôn tìm thấy những tấm gương sáng về nghị lực vượt khó, sống nhân ái, trung thực và lạc quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:51:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184440+07:00"
+    },
+    {
+      "id": "d57649cff6f1066d9691055b4fcd6f15",
+      "title": "Cận cảnh đường nối rốn lũ Hòa Thịnh, Hòa Mỹ ở Đắk Lắk bị nước lũ 'băm nát'",
+      "link": "https://thanhnien.vn/can-canh-duong-noi-ron-lu-hoa-thinh-hoa-my-o-dak-lak-bi-nuoc-lu-bam-nat-185251122090909924.htm",
+      "summary": "Sau khi nước lũ rút, tuyến đường ĐT75 - đoạn nối xã Hoà Thịnh và Hòa Mỹ (H.Tây An, tỉnh Phú Yên cũ) hiện ra với những đoạn hư hỏng chằng chịt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:46:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184600+07:00"
+    },
+    {
+      "id": "45aa5ab4304a4ba404bfd605b9f5b601",
+      "title": "Thi công không tái lập mặt đường",
+      "link": "https://thanhnien.vn/thi-cong-khong-tai-lap-mat-duong-185251121204251271.htm",
+      "summary": "Bạn đọc phản ánh đơn vị thi công công trình ngầm tại giao lộ trên đường Nguyễn Cửu Phú - Tỉnh lộ 10, P.Tân Tạo (trước đây thuộc P.Tân Tạo A, Q.Bình Tân), TP.HCM, đào xới mặt đường lên bỏ dở dang lâu ngày không trải nhựa, gây khó khăn cho việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:39:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184750+07:00"
+    },
+    {
+      "id": "33232228909d4f7494b7f21dbee02bc8",
+      "title": "Điểm tựa yêu thương của người nghèo",
+      "link": "https://thanhnien.vn/diem-tua-yeu-thuong-cua-nguoi-ngheo-185251121203905396.htm",
+      "summary": "Tại Hội Từ thiện và Bảo vệ quyền trẻ em TP.Cần Thơ, quán cơm chay 1.000 đồng và phòng khám nhân đạo không chỉ giúp người nghèo vơi đi nỗi khó khăn cơm áo, mà còn được chăm sóc sức khỏe miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:38:00+07:00",
+      "fetched": "2025-11-22T10:01:50.184898+07:00"
+    },
+    {
+      "id": "3dcd88091b63a25bf6fa3bf9271cb87c",
+      "title": "Thanh niên lao vào mọi nơi giúp dân vùng ngập nặng",
+      "link": "https://thanhnien.vn/thanh-nien-lao-vao-moi-noi-giup-dan-vung-ngap-nang-18525112209402784.htm",
+      "summary": "Ở những vùng ngập nặng, cô lập vô cùng nguy hiểm, thanh niên Tỉnh đoàn Đắk Lắk cùng với lực lượng chức năng vẫn túc trực bất kể ngày đêm cùng người dân vượt qua lũ dữ. Không công việc gì, không vùng hiểm nguy nào là thiếu vắng hình bóng của thanh niên tình nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:37:00+07:00",
+      "fetched": "2025-11-22T10:01:50.185060+07:00"
+    },
+    {
+      "id": "ce89d0712de9814cf436ca08b26de5dc",
+      "title": "Nước lũ dâng cao: Không có gì ăn, khốn khổ vì không còn nổi áo mặc",
+      "link": "https://thanhnien.vn/nuoc-lu-dang-cao-khong-co-gi-an-khon-kho-vi-khong-con-noi-ao-mac-185251122085034635.htm",
+      "summary": "Đi sâu vào vùng ngập Tuy Hòa, chúng tôi nhìn thấy nhiều sự khó khăn của bà con. Mất tài sản, thiếu lương thực, thậm chí không có được bộ đồ đàng hoàng để mặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:29:00+07:00",
+      "fetched": "2025-11-22T10:01:50.185215+07:00"
+    },
+    {
+      "id": "cf1fdf2c90264b08aabccdb4d1d7ca05",
+      "title": "Nguy cơ FAM bị FIFA cấm vận ngay lập tức: Bóng đá Malaysia phải tự cứu mình",
+      "link": "https://thanhnien.vn/nguy-co-fam-bi-fifa-cam-van-ngay-lap-tuc-bong-da-malaysia-phai-tu-cuu-minh-185251122091734792.htm",
+      "summary": "Những động thái liên tiếp gần đây rất dễ khiến FAM bị FIFA cấm vận ngay lập tức, khi các cơ quan và giới chức chính phủ nước này đồng loạt muốn cải cách và tái thiết khẩn cấp cơ quan bóng đá của Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:22:00+07:00",
+      "fetched": "2025-11-22T10:01:50.185370+07:00"
+    },
+    {
+      "id": "86782d4fee3d04109ed8c9fa37d5f9fd",
+      "title": "Giới trẻ thích thú với trend bonsai gừng",
+      "link": "https://thanhnien.vn/gioi-tre-thich-thu-voi-trend-bonsai-gung-185251121131555537.htm",
+      "summary": "Gừng, thứ gia vị quen thuộc trong căn bếp Việt, nay bước vào thế giới bonsai đầy sáng tạo. Chỉ với vài củ gừng và một chậu nhỏ, ta có thể tạo ra góc xanh mát mắt, mang hơi thở thiên nhiên vào nhà hoặc nơi làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:22:00+07:00",
+      "fetched": "2025-11-22T10:01:50.185522+07:00"
+    },
+    {
+      "id": "7cf6b6e67a32f808b44063cefbbe06b7",
+      "title": "Donnarumma: 'Haaland giục tôi đến Man City khi PSG phụ bạc'",
+      "link": "https://vnexpress.net/donnarumma-haaland-giuc-toi-den-man-city-khi-psg-phu-bac-4973432.html",
+      "summary": "Gianluigi Donnarumma tiết lộ chính Erling Haaland là động lực đưa anh đến Man City giữa lúc thủ môn này thấy bị PSG ruồng rẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:21:33+07:00",
+      "fetched": "2025-11-22T10:01:46.876670+07:00"
+    },
+    {
+      "id": "e2a328f6777628b7f2e1ddb70e8c80d2",
+      "title": "Em đơn giản nhưng rất thực tế",
+      "link": "https://vnexpress.net/em-don-gian-nhung-rat-thuc-te-4965586.html",
+      "summary": "Em chờ gặp anh, một người nghiêm túc, chân thành, yêu gia đình và mong muốn xây dựng những điều tốt đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:18:38+07:00",
+      "fetched": "2025-11-22T10:01:46.876789+07:00"
+    },
+    {
+      "id": "998b148e0dd5d17762b7423337641f9b",
+      "title": "Chồng làm ra tiền nên không cần bàn với tôi bất cứ việc gì",
+      "link": "https://vnexpress.net/chong-lam-ra-tien-nen-khong-can-ban-voi-toi-bat-cu-viec-gi-4973705.html",
+      "summary": "Ông bà nội xây nhà, tôi hỏi anh góp thế nào, anh bảo từ từ tính; hôm sau tôi nghe chị dâu nói anh đã gửi tiền cho ông bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:18:12+07:00",
+      "fetched": "2025-11-22T10:01:46.876898+07:00"
+    },
+    {
+      "id": "77d2f95fe514ae460a1bf252232f6f5d",
+      "title": "Thị trường văn hóa Nhật tại Trung Quốc đóng băng vì căng thẳng",
+      "link": "https://vnexpress.net/thi-truong-van-hoa-nhat-tai-trung-quoc-dong-bang-vi-cang-thang-4972320.html",
+      "summary": "Hàng loạt hoạt động văn hóa Nhật Bản tại Trung Quốc đã bị hủy hoặc hoãn từ khi căng thẳng song phương leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:01:24+07:00",
+      "fetched": "2025-11-22T10:01:46.877087+07:00"
+    },
+    {
+      "id": "77d2f95fe514ae460a1bf252232f6f5d",
+      "title": "Thị trường văn hóa Nhật tại Trung Quốc đóng băng vì căng thẳng",
+      "link": "https://vnexpress.net/thi-truong-van-hoa-nhat-tai-trung-quoc-dong-bang-vi-cang-thang-4972320.html",
+      "summary": "Hàng loạt hoạt động văn hóa Nhật Bản tại Trung Quốc đã bị hủy hoặc hoãn từ khi căng thẳng song phương leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T02:01:24+07:00",
+      "fetched": "2025-11-22T10:01:53.265665+07:00"
+    },
+    {
+      "id": "fcd338d28be3297d4c5294dc4d36ea6e",
+      "title": "Mở hộp MacBook Pro 14 inch dùng chip M5",
+      "link": "https://vnexpress.net/mo-hop-macbook-pro-14-inch-dung-chip-m5-4973337.html",
+      "summary": "MacBook Pro 14 inch mới giữ nguyên kiểu dáng nhưng  nâng cấp chip M5 xử lý AI mạnh hơn, tăng tốc bộ nhớ RAM, SSD cùng thời lượng pin 24 tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:00:00+07:00",
+      "fetched": "2025-11-22T10:01:46.877256+07:00"
+    },
+    {
+      "id": "9020cfbf14c3553f8274ad48143fc347",
+      "title": "Sân bay Phú Quốc hoàn thành nhiều hạng mục trong năm 2026",
+      "link": "https://vnexpress.net/san-bay-phu-quoc-hoan-thanh-nhieu-hang-muc-trong-nam-2026-4972582.html",
+      "summary": "Đường băng số 2, nhà ga VIP (dành cho nguyên thủ) đang tăng tốc thi công, hoàn thành giữa năm 2026, trong khi nhà ga T2 vận hành quý I/2027, sẵn sàng phục vụ APEC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:00:00+07:00",
+      "fetched": "2025-11-22T10:01:46.877427+07:00"
+    },
+    {
+      "id": "e6c864742f53571a9a98ccc8b12f4e3a",
+      "title": "Starbucks Vietnam: Cạnh tranh bền vững bằng phát triển con người",
+      "link": "https://vnexpress.net/starbucks-vietnam-canh-tranh-ben-vung-bang-phat-trien-con-nguoi-4969352.html",
+      "summary": "Starbucks Vietnam ba năm liên tiếp đạt Top 1 ngành \"Du lịch - Ẩm thực - Nghỉ dưỡng\" và Top 4 \"100 nơi làm việc tốt nhất Việt Nam 2025\" nhóm doanh nghiệp quy mô vừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T02:00:00+07:00",
+      "fetched": "2025-11-22T10:01:46.877587+07:00"
+    },
+    {
+      "id": "fcd338d28be3297d4c5294dc4d36ea6e",
+      "title": "Mở hộp MacBook Pro 14 inch dùng chip M5",
+      "link": "https://vnexpress.net/mo-hop-macbook-pro-14-inch-dung-chip-m5-4973337.html",
+      "summary": "MacBook Pro 14 inch mới giữ nguyên kiểu dáng nhưng  nâng cấp chip M5 xử lý AI mạnh hơn, tăng tốc bộ nhớ RAM, SSD cùng thời lượng pin 24 tiếng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-22T02:00:00+07:00",
+      "fetched": "2025-11-22T10:01:57.034451+07:00"
+    },
+    {
+      "id": "cbdc0cb9d15823dedb9d23e91caefa48",
+      "title": "Em tìm người nhẹ nhàng nhưng vững vàng và đủ sâu",
+      "link": "https://vnexpress.net/em-tim-nguoi-nhe-nhang-nhung-vung-vang-va-du-sau-4973186.html",
+      "summary": "Em độc lập, hiểu chuyện, biết mình muốn gì và sống một cuộc đời bình yên, nhiều màu sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:49:00+07:00",
+      "fetched": "2025-11-22T10:01:46.877683+07:00"
+    },
+    {
+      "id": "0882b2ef5a1f138ddd123d87507555ea",
+      "title": "Em mong một cuộc sống bình yên và tử tế",
+      "link": "https://vnexpress.net/em-mong-mot-cuoc-song-binh-yen-va-tu-te-4973184.html",
+      "summary": "Mình là nữ, làm nhân viên văn phòng, công việc ổn định; tính mình hướng nội, thích sự nhẹ nhàng và chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:48:37+07:00",
+      "fetched": "2025-11-22T10:01:46.877780+07:00"
+    },
+    {
+      "id": "2f6b0d4fe088def361205356cef4b919",
+      "title": "Từ giờ mình là duy nhất của nhau, em nhé",
+      "link": "https://vnexpress.net/tu-gio-minh-la-duy-nhat-cua-nhau-em-nhe-4973181.html",
+      "summary": "Anh tự thấy mình là người chịu khó, biết nhẫn nhịn và luôn cố gắng học hỏi, vượt qua nhiều khó khăn trong cuộc sống lẫn công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:48:28+07:00",
+      "fetched": "2025-11-22T10:01:46.877868+07:00"
+    },
+    {
+      "id": "7d944166e5b355bc42890d0daaed5cd1",
+      "title": "Anh chọn sống chậm giữa một thế giới đang vội",
+      "link": "https://vnexpress.net/anh-chon-song-cham-giua-mot-the-gioi-dang-voi-4965587.html",
+      "summary": "Anh vẫn tin, điều quý nhất mà con người tìm kiếm không phải là sự đầy đủ, mà là một sự đồng hành đúng nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:48:19+07:00",
+      "fetched": "2025-11-22T10:01:46.877960+07:00"
+    },
+    {
+      "id": "6ec22a78ceeca25e1d33cc2b675230aa",
+      "title": "Lũ các sông đang xuống",
+      "link": "https://vnexpress.net/lu-cac-song-dang-xuong-4973435.html",
+      "summary": "Mưa giảm ở Tây Nguyên và Khánh Hòa giúp lũ trên nhiều sông hạ dần nhưng nguy cơ ngập lụt, sạt lở còn cao; lực lượng trung ương tiếp tục chi viện, số người chết và mất tích tiếp tục tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:47:54+07:00",
+      "fetched": "2025-11-22T10:01:46.878134+07:00"
+    },
+    {
+      "id": "4588ba5448d8b1c6aba0bf93c370bff9",
+      "title": "Mỹ cảnh báo 'rủi ro tiềm ẩn' với phi cơ bay qua Venezuela",
+      "link": "https://vnexpress.net/my-canh-bao-rui-ro-tiem-an-voi-phi-co-bay-qua-venezuela-4973422.html",
+      "summary": "Giới chức Mỹ kêu gọi các hãng hàng không cẩn trọng khi bay qua Venezuela, giữa lúc Washington tăng cường lực lượng quân sự gần nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:46:23+07:00",
+      "fetched": "2025-11-22T10:01:46.878291+07:00"
+    },
+    {
+      "id": "4588ba5448d8b1c6aba0bf93c370bff9",
+      "title": "Mỹ cảnh báo 'rủi ro tiềm ẩn' với phi cơ bay qua Venezuela",
+      "link": "https://vnexpress.net/my-canh-bao-rui-ro-tiem-an-voi-phi-co-bay-qua-venezuela-4973422.html",
+      "summary": "Giới chức Mỹ kêu gọi các hãng hàng không cẩn trọng khi bay qua Venezuela, giữa lúc Washington tăng cường lực lượng quân sự gần nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T01:46:23+07:00",
+      "fetched": "2025-11-22T10:01:53.265844+07:00"
+    },
+    {
+      "id": "9553f00e07da877c929ec07c98474aa3",
+      "title": "Mã Tiểu Dã - chú ngựa hoạt hình 'vừa khóc vừa chạy'",
+      "link": "https://vnexpress.net/ma-tieu-da-chu-ngua-hoat-hinh-vua-khoc-vua-chay-4971524.html",
+      "summary": "Tranh về chú ngựa Mã Tiểu Dã \"vừa khóc vừa chạy\" gợi liên tưởng hình ảnh người trẻ cố gắng làm việc trước nhiều áp lực cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:42:53+07:00",
+      "fetched": "2025-11-22T10:01:46.878444+07:00"
+    },
+    {
+      "id": "1341cee90dc0a24c8f5ce4ea88920068",
+      "title": "Hãng dược Mỹ đạt vốn hóa 1.000 tỷ USD nhờ thuốc giảm cân",
+      "link": "https://vnexpress.net/hang-duoc-my-dat-von-hoa-1-000-ty-usd-nho-thuoc-giam-can-4973438.html",
+      "summary": "Eli Lilly là hãng dược đầu tiên gia nhập nhóm vốn hóa 1.000 tỷ USD, nhờ thuốc chữa tiểu đường và béo phì bán chạy nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:38:19+07:00",
+      "fetched": "2025-11-22T10:01:46.878599+07:00"
+    },
+    {
+      "id": "1341cee90dc0a24c8f5ce4ea88920068",
+      "title": "Hãng dược Mỹ đạt vốn hóa 1.000 tỷ USD nhờ thuốc giảm cân",
+      "link": "https://vnexpress.net/hang-duoc-my-dat-von-hoa-1-000-ty-usd-nho-thuoc-giam-can-4973438.html",
+      "summary": "Eli Lilly là hãng dược đầu tiên gia nhập nhóm vốn hóa 1.000 tỷ USD, nhờ thuốc chữa tiểu đường và béo phì bán chạy nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-22T01:38:19+07:00",
+      "fetched": "2025-11-22T10:01:54.506773+07:00"
     },
     {
       "id": "82e5dda79c94db30a1f9e0337e3804a4",
@@ -441,6 +811,16 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T01:00:00+07:00",
       "fetched": "2025-11-22T08:15:23.254246+07:00"
+    },
+    {
+      "id": "e135f59381a40d6744f2032d8a798239",
+      "title": "Acecook Việt Nam thăng hạng trong top 'Nơi làm việc tốt nhất'",
+      "link": "https://vnexpress.net/acecook-viet-nam-thang-hang-trong-top-noi-lam-viec-tot-nhat-4972430.html",
+      "summary": "10 năm liên tiếp có mặt trong Top 100 nơi làm việc tốt nhất Việt Nam, Acecook Việt Nam đi lên từ Top 15 (năm 2015), Top 8 (2020) đến Top 4 nhóm ngành hàng tiêu dùng (2025).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-22T01:00:00+07:00",
+      "fetched": "2025-11-22T10:01:54.507296+07:00"
     },
     {
       "id": "0889d0547571c0178248810ac4619ba4",
