@@ -1,7 +1,157 @@
 window.newsData_2025_11_22 = {
   "date": "2025-11-22",
-  "lastUpdated": "2025-11-22T05:17:01.044002+07:00",
+  "lastUpdated": "2025-11-22T08:15:34.983987+07:00",
   "articles": [
+    {
+      "id": "aacf3328a368d45e63eafdba265df651",
+      "title": "Thủ tướng Malaysia: 'Sẽ có hình phạt nghiêm khắc nếu FAM bị kết tội'",
+      "link": "https://tuoitre.vn/thu-tuong-malaysia-se-co-hinh-phat-nghiem-khac-neu-fam-bi-ket-toi-20251122055423496.htm",
+      "summary": "Thủ tướng Malaysia Anwar Ibrahim tuyên bố chính phủ không bao che và sẽ có hình phạt nghiêm khắc với Hiệp hội Bóng đá Malaysia (FAM) nếu cơ quan này bị kết tội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301856+07:00",
+      "fetched": "2025-11-22T08:15:26.301969+07:00"
+    },
+    {
+      "id": "41eb4a1f93490836bbbee9dadd80b4bf",
+      "title": "Ngôi sao Cole Palmer dính chấn thương theo cách lãng xẹt",
+      "link": "https://tuoitre.vn/ngoi-sao-cole-palmer-dinh-chan-thuong-theo-cach-lang-xet-20251122061332842.htm",
+      "summary": "Ngôi sao Cole Palmer của CLB Chelsea phải nghỉ thi đấu vài tuần, vì gãy ngón chân sau một tai nạn bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301726+07:00",
+      "fetched": "2025-11-22T08:15:26.301842+07:00"
+    },
+    {
+      "id": "202c5423860434e7780f969b671b4546",
+      "title": "UBND TP Hà Nội thoái vốn, Giày Thượng Đình sắp đổi chủ?",
+      "link": "https://tuoitre.vn/ubnd-tp-ha-noi-thoai-von-giay-thuong-dinh-sap-doi-chu-20251121210828469.htm",
+      "summary": "UBND TP Hà Nội muốn chuyển nhượng hơn 6,38 triệu cổ phần tại Giày Thượng Đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301594+07:00",
+      "fetched": "2025-11-22T08:15:26.301715+07:00"
+    },
+    {
+      "id": "e0b1787830fff28308ccd9941df080b4",
+      "title": "Vì sao Mỹ cảnh báo khẩn với các hãng bay qua bầu trời Venezuela?",
+      "link": "https://tuoitre.vn/vi-sao-my-canh-bao-khan-voi-cac-hang-bay-qua-bau-troi-venezuela-20251122063913719.htm",
+      "summary": "Cảnh báo được đưa ra trong bối cảnh Washington tăng cường hiện diện quân sự ở khu vực Caribê, gây lo ngại leo thang căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301457+07:00",
+      "fetched": "2025-11-22T08:15:26.301582+07:00"
+    },
+    {
+      "id": "0be59b68f4afec676aa47d913741f9ff",
+      "title": "Lũ rút, đường ở Ninh Thuận cũ lộ ra nhiều đoạn gãy, trụ điện đổ la liệt",
+      "link": "https://tuoitre.vn/lu-rut-bot-duong-o-ninh-thuan-cu-lo-ra-nhieu-doan-gay-tru-dien-do-la-liet-20251121201014757.htm",
+      "summary": "Lực lượng chức năng đã phải rào chắn, cắm bảng cảnh báo nhiều đoạn đường ở Ninh Thuận cũ để người dân không đi vào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301305+07:00",
+      "fetched": "2025-11-22T08:15:26.301445+07:00"
+    },
+    {
+      "id": "ab0254172c38283024109502d76d184b",
+      "title": "Trước khi chủ chuỗi bị bắt, Mailisa gây ngạc nhiên vì biên lợi nhuận hiếm thấy 86-89%",
+      "link": "https://tuoitre.vn/truoc-khi-chu-chuoi-bi-bat-mailisa-gay-ngac-nhien-vi-bien-loi-nhuan-hiem-thay-86-89-20251121213115668.htm",
+      "summary": "Nhờ giá vốn thấp, biên lợi nhuận gộp của chuỗi thẩm mỹ viện Mailisa ở mức rất cao. Trong giai đoạn 2019-2023, chỉ số này duy trì trong khoảng 86-89%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301162+07:00",
+      "fetched": "2025-11-22T08:15:26.301292+07:00"
+    },
+    {
+      "id": "df170c33240b31be341cfb2fdd6ee93a",
+      "title": "Lãnh đạo xã Hòa Thịnh lên tiếng về thông tin mạng xã hội nói 'lũ làm hàng trăm người chết'",
+      "link": "https://tuoitre.vn/lanh-dao-xa-hoa-thinh-len-tieng-ve-thong-tin-mang-xa-hoi-noi-lu-lam-hang-tram-nguoi-chet-2025112207030968.htm",
+      "summary": "Trước thông tin từ mạng xã hội cho rằng tại xã Hòa Thịnh (thuộc huyện Tây Hòa, Phú Yên cũ, nay là tỉnh Đắk Lắk) xảy ra \"sập nhà lầu hàng chục người chết\", \"Hòa Thịnh có 200 người chết\"... lãnh đạo xã này nói đó là thông tin chưa được kiểm chứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.301022+07:00",
+      "fetched": "2025-11-22T08:15:26.301149+07:00"
+    },
+    {
+      "id": "26f4e80ceca809bfd54774df2f8e513b",
+      "title": "Cập nhật sáng 22-11: Mưa lũ làm 68 người chết và mất tích, thiệt hại gần 9.000 tỉ đồng",
+      "link": "https://tuoitre.vn/cap-nhat-sang-22-11-mua-lu-lam-68-nguoi-chet-va-mat-tich-thiet-hai-gan-9-000-ti-dong-2025112207081646.htm",
+      "summary": "Đến sáng 22-11, mưa lũ, sạt lở đất tại các tỉnh Trung Bộ làm 55 người chết, 13 người mất tích, thiệt hại  ban đầu về kinh tế gần 9.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300893+07:00",
+      "fetched": "2025-11-22T08:15:26.301010+07:00"
+    },
+    {
+      "id": "d4fbfcd8d3a7cdf3ee072f3edc2d6ea7",
+      "title": "Bắt đầu những hoạt động văn hóa đêm tại Đường sách TP.HCM",
+      "link": "https://tuoitre.vn/bat-dau-nhung-hoat-dong-van-hoa-dem-tai-duong-sach-tp-hcm-20251121234338767.htm",
+      "summary": "Tối 21-11, chương trình thí điểm lần một Ngày hội sách và văn hóa đêm tại Đường sách TP.HCM đã khởi động. Chương trình kéo dài trong ba ngày, từ 21 đến 23-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300762+07:00",
+      "fetched": "2025-11-22T08:15:26.300881+07:00"
+    },
+    {
+      "id": "de1a501cdcc75f071e67c7353e06ca4b",
+      "title": "Nghệ sĩ ủng hộ đồng bào vùng lũ dù nhỏ hay lớn đều quý giá",
+      "link": "https://tuoitre.vn/nghe-si-ung-ho-dong-bao-vung-lu-du-nho-hay-lon-deu-quy-gia-20251122034631596.htm",
+      "summary": "Tiếp nối danh sách nghệ sĩ ủng hộ đồng bào chịu thiệt hại do thiên tai có hoa hậu H’Hen Niê, diễn viên Huỳnh Lập, ca sĩ Phương Mỹ Chi, Hòa Minzy…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300634+07:00",
+      "fetched": "2025-11-22T08:15:26.300750+07:00"
+    },
+    {
+      "id": "bf5bde67fc798445639b5555beae6d63",
+      "title": "Mỹ giam giữ, trục xuất kỷ lục: hơn 65.000 người nhập cư",
+      "link": "https://tuoitre.vn/my-giam-giu-truc-xuat-ky-luc-hon-65-000-nguoi-nhap-cu-20251122072429861.htm",
+      "summary": "Giữa lúc chính phủ đóng cửa, ICE vẫn mở rộng truy quét trên toàn quốc khi bắt giữ và trục xuất hàng chục ngàn người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300501+07:00",
+      "fetched": "2025-11-22T08:15:26.300618+07:00"
+    },
+    {
+      "id": "5acf47495a54637a2f5ae3c86b1195d5",
+      "title": "A.I tiết lộ bí mật không có trên Google của Mỹ Linh và Thanh Lam",
+      "link": "https://tuoitre.vn/a-i-tiet-lo-bi-mat-khong-co-tren-google-cua-my-linh-va-thanh-lam-20251122045744925.htm",
+      "summary": "Hai ca sĩ Mỹ Linh và Thanh Lam đã ‘cứng đơ’ người vì phiên bản song trùng biết được những bí mật không có trên Google về chính mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300343+07:00",
+      "fetched": "2025-11-22T08:15:26.300489+07:00"
+    },
+    {
+      "id": "901ccbf94515d539b7636099de4d41f5",
+      "title": "Toyota Veloz 2026 ra mắt: Lần đầu có hybrid, có tính năng chạy điện, dự kiến về Việt Nam đấu Xpander",
+      "link": "https://tuoitre.vn/toyota-veloz-2026-ra-mat-lan-dau-co-hybrid-co-tinh-nang-chay-dien-du-kien-ve-viet-nam-dau-xpander-20251122073209862.htm",
+      "summary": "Toyota Veloz 2026 sử dụng động cơ hybrid 1.5L 2NR-VEX, không thay đổi về thiết kế song bổ sung gói trang bị Modellista.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300207+07:00",
+      "fetched": "2025-11-22T08:15:26.300331+07:00"
+    },
+    {
+      "id": "a9f0af638453a28809f7dee635f8977d",
+      "title": "Bạn đọc Tuổi Trẻ góp hơn 14 tỉ đồng gửi miền Trung ruột thịt",
+      "link": "https://tuoitre.vn/ban-doc-tuoi-tre-gop-hon-14-ti-dong-gui-mien-trung-ruot-thit-2025112207335343.htm",
+      "summary": "Tính đến hết ngày 21-11, báo Tuổi Trẻ đã nhận tổng số tiền 14.055.000.000 đồng từ 450 lượt đóng góp của bạn đọc để gửi đến đồng bào miền Trung ruột thịt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.300054+07:00",
+      "fetched": "2025-11-22T08:15:26.300193+07:00"
+    },
+    {
+      "id": "015879b02d84b143d02e7c2d5fbef4ec",
+      "title": "Privacy Tech: Khi người dùng giành lại quyền kiểm soát dữ liệu",
+      "link": "https://tuoitre.vn/privacy-tech-khi-nguoi-dung-gianh-lai-quyen-kiem-soat-du-lieu-20251121150217783.htm",
+      "summary": "Trong thời đại quảng cáo nhắm chính xác, Privacy Tech ra đời như tấm khiên bảo vệ dữ liệu cá nhân, trao quyền kiểm soát cho người dùng mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T08:15:26.299805+07:00",
+      "fetched": "2025-11-22T08:15:26.300038+07:00"
+    },
     {
       "id": "c40112f3cf024b73b863f1c6b512a942",
       "title": "Ở rốn lũ Đông Hòa, hàng chục ngàn người dân vẫn còn chờ ứng cứu",
@@ -211,6 +361,406 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T01:23:01.332331+07:00",
       "fetched": "2025-11-22T01:23:01.332570+07:00"
+    },
+    {
+      "id": "114546c974738191d4f61605a3ae254d",
+      "title": "Mexico bắt giữ 7 vệ sĩ của thị trưởng bị ám sát giữa phố",
+      "link": "https://vnexpress.net/mexico-bat-giu-7-ve-si-cua-thi-truong-bi-am-sat-giua-pho-4973430.html",
+      "summary": "7 người thuộc đội bảo vệ thị trưởng Carlos Manzo bị bắt vì nghi vấn liên quan đến vụ sát hại ông tại lễ hội hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T01:12:16+07:00",
+      "fetched": "2025-11-22T08:15:27.954685+07:00"
+    },
+    {
+      "id": "151502ec38c0eb4195978a8ba6a74208",
+      "title": "Đề xuất tăng phạt tiền hành vi ngoại tình lên 10 triệu đồng",
+      "link": "https://thanhnien.vn/de-xuat-tang-phat-tien-hanh-vi-ngoai-tinh-len-10-trieu-dong-18525112121061193.htm",
+      "summary": "Dự thảo nghị định đề xuất tăng mức phạt tiền từ 3 - 5 triệu đồng lên 5 - 10 triệu đồng đối với hành vi đang có vợ hoặc đang có chồng mà chung sống như vợ chồng với người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:10:00+07:00",
+      "fetched": "2025-11-22T08:15:23.253266+07:00"
+    },
+    {
+      "id": "4bb6682572e3e5077026f3bd949ec695",
+      "title": "Thiệt hại mưa lũ miền Trung tăng nhanh, đã có 68 người chết và mất tích",
+      "link": "https://thanhnien.vn/thiet-hai-mua-lu-mien-trung-tang-nhanh-da-co-68-nguoi-chet-va-mat-tich-18525112207070537.htm",
+      "summary": "Thiệt hại trong mưa lũ miền Trung tiếp tục tăng nhanh, đến sáng nay đã có 68 người chết và mất tích, 28.460 nhà đang ngập lụt. Dự báo thời tiết hôm nay, 4 tỉnh miền Trung vẫn còn mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:05:00+07:00",
+      "fetched": "2025-11-22T08:15:23.253457+07:00"
+    },
+    {
+      "id": "8639e2f3bf1773d2c300f5c4e6d54108",
+      "title": "7 cảnh sát bị bắt sau vụ ám sát thị trưởng Mexico",
+      "link": "https://thanhnien.vn/7-canh-sat-bi-bat-sau-vu-am-sat-thi-truong-mexico-185251122063958398.htm",
+      "summary": "Văn phòng công tố bang Michoacán (Mexico) hôm 21.11 thông báo đã tiến hành việc bắt giữ 7 thành viên thuộc đội cận vệ vị bị tình nghi liên quan đến vụ ám sát thị trưởng của TP.Uruapan hôm 1.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:05:00+07:00",
+      "fetched": "2025-11-22T08:15:23.253622+07:00"
+    },
+    {
+      "id": "1a7a92a8fa5a24ebcc64829afaeb3f42",
+      "title": "Mỹ cảnh báo nguy cơ khi bay qua Venezuela giữa căng thẳng quân sự",
+      "link": "https://thanhnien.vn/my-canh-bao-nguy-co-khi-bay-qua-venezuela-giua-cang-thang-quan-su-185251122075342194.htm",
+      "summary": "Cục Hàng không Liên bang Mỹ (FAA) ngày 21.11 cảnh báo các hãng hàng không lớn về 'tình huống có khả năng nguy hiểm' khi bay qua không phận Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:02:00+07:00",
+      "fetched": "2025-11-22T08:15:23.253777+07:00"
+    },
+    {
+      "id": "0f3fd975a6583d2f9ede4b820350c483",
+      "title": "Lũ lịch sử: PV Thanh Niên tường thuật từ rốn lũ Gia Lai, Khánh Hòa, Đắk Lắk",
+      "link": "https://thanhnien.vn/lu-lich-su-pv-thanh-nien-tuong-thuat-tu-ron-lu-gia-lai-khanh-hoa-dak-lak-185251122080117556.htm",
+      "summary": "Hôm nay 22.11, mưa rất to từ Gia Lai đến Khánh Hòa gây ngập lụt diện rộng, nguy cơ lũ quét và sạt lở tăng cao. PV Thanh Niên tường thuật trực tiếp từ các rốn lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:01:00+07:00",
+      "fetched": "2025-11-22T08:15:23.253937+07:00"
+    },
+    {
+      "id": "5928a6fef31882341d9f2d1f5d4cc6f1",
+      "title": "Ống Nhựa Bình Minh: Vật tư an toàn, bảo vệ nguồn nước sạch cho cả gia đình",
+      "link": "https://thanhnien.vn/ong-nhua-binh-minh-vat-tu-an-toan-bao-ve-nguon-nuoc-sach-cho-ca-gia-dinh-185251121113545408.htm",
+      "summary": "Hệ thống ống dẫn nước ngầm đóng vai trò quan trọng trong việc giữ gìn nguồn nước sạch cho cả gia đình. Với gần 50 năm đồng hành cùng người Việt Nam, Nhựa Bình Minh mang đến giải pháp vật tư xanh, an toàn cho tổ ấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:00:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254092+07:00"
+    },
+    {
+      "id": "b40aa2b707539b99549ce78bc0050f65",
+      "title": "Váy suông, biểu tượng mới của cô nàng tối giản",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-suong-bieu-tuong-moi-cua-co-nang-toi-gian-18525111913570509.htm",
+      "summary": "Là tín đồ của phong cách hiện đại tối giản, nàng sẽ phải lòng các thiết kế váy suông đa chất liệu, từ vải lụa satin đến tweed, cotton, ren lưới... Không quá cầu kỳ nhưng vẫn nổi bật và cuốn hút, váy dáng suông đã và đang là lựa chọn dành cho các buổi tiệc, sự kiện trang trọng cho đến mọi hoạt động t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T01:00:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254246+07:00"
+    },
+    {
+      "id": "0889d0547571c0178248810ac4619ba4",
+      "title": "Giá heo hơi hôm nay 22.11.2025: Nhiều nơi lập đỉnh mới",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-22112025-nhieu-noi-lap-dinh-moi-185251121171944603.htm",
+      "summary": "Giá heo hơi tiếp tục tăng; đặc biệt ở khu vực miền Bắc, nhiều tỉnh thành lập đỉnh mới. Trong khi đó, giá heo hơi ở miền Trung vẫn duy trì mức thấp làm cho chênh lệch giữa các khu vực nới rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:42:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254417+07:00"
+    },
+    {
+      "id": "aad1f2312fece7cac705c88bdcfbbc80",
+      "title": "AI Grok 4.1 tâng bốc ông chủ Elon Musk không 'ngượng miệng'",
+      "link": "https://thanhnien.vn/ai-grok-41-tang-boc-ong-chu-elon-musk-khong-nguong-mieng-185251121213503693.htm",
+      "summary": "AI Grok 4.1 tôn sùng tỉ phú Elon Musk mù quáng, khẳng định ông khỏe hơn cả Mike Tyson và hồi sinh nhanh hơn Chúa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:28:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254571+07:00"
+    },
+    {
+      "id": "c9d9a9c0276ca7fcf4c579cfa799c444",
+      "title": "Mỹ có thể sẽ bán F-35 cắt giảm tính năng cho Arab Saudi",
+      "link": "https://vnexpress.net/my-co-the-se-ban-f-35-cat-giam-tinh-nang-cho-arab-saudi-4972844.html",
+      "summary": "Washington dường như sẽ bán cho Riyadh phiên bản F-35 thua kém mẫu F-35I trong biên chế không quân Israel, do những cam kết về ưu tiên Tel Aviv.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:10:05+07:00",
+      "fetched": "2025-11-22T08:15:19.931345+07:00"
+    },
+    {
+      "id": "c9d9a9c0276ca7fcf4c579cfa799c444",
+      "title": "Mỹ có thể sẽ bán F-35 cắt giảm tính năng cho Arab Saudi",
+      "link": "https://vnexpress.net/my-co-the-se-ban-f-35-cat-giam-tinh-nang-cho-arab-saudi-4972844.html",
+      "summary": "Washington dường như sẽ bán cho Riyadh phiên bản F-35 thua kém mẫu F-35I trong biên chế không quân Israel, do những cam kết về ưu tiên Tel Aviv.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T00:10:05+07:00",
+      "fetched": "2025-11-22T08:15:27.954862+07:00"
+    },
+    {
+      "id": "5721684420bf27c009ba8442f0094837",
+      "title": "9 lợi ích sức khỏe của quả bưởi",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-buoi-4965893.html",
+      "summary": "Bưởi ít calo nhưng giàu dinh dưỡng như vitamin C và chất chống oxy hóa, có lợi cho tim mạch, hỗ trợ giảm cân, tăng cường miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:19.931544+07:00"
+    },
+    {
+      "id": "d7c009ccd96835752e177e15fb85a274",
+      "title": "Quán bánh cuốn đêm bán gần 40 năm trong ngõ nhỏ Hà Nội",
+      "link": "https://vnexpress.net/quan-banh-cuon-dem-ban-gan-40-nam-trong-ngo-nho-ha-noi-4964285.html",
+      "summary": "Nằm sâu trong ngõ nhỏ phố Tôn Đức Thắng, quán bánh cuốn của bà Lan bán qua đêm đến 4h hằng ngày dù khách đã không còn đông như thời hoàng kim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:19.931718+07:00"
+    },
+    {
+      "id": "fe59b8518403f72fefe6707ffdcef718",
+      "title": "Tạt đầu xe ben, xe con bị húc về phía trước",
+      "link": "https://vnexpress.net/tat-dau-xe-ben-xe-con-bi-huc-ve-phia-truoc-4970995.html",
+      "summary": "Len qua khe hẹp tạt đầu xe ben, chiếc xe con bị đâm ủi về phía trước, hôm 20/11 tại Thường Tín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:19.931879+07:00"
+    },
+    {
+      "id": "e3fdfc1fe3955fdda3147dbea77c0016",
+      "title": "Kỹ nghệ độc lạ: Khi bản vẽ kỹ thuật bước vào tranh vẽ",
+      "link": "https://thanhnien.vn/ky-nghe-doc-la-khi-ban-ve-ky-thuat-buoc-vao-tranh-ve-185251121223827244.htm",
+      "summary": "Nguyễn Thượng Hỷ, họa sĩ được nhiều người gọi bằng cái tên \"người vẽ lại linh hồn tháp Chăm\", vừa mang đến một thử nghiệm táo bạo: đưa chính những bản vẽ kỹ thuật về các ngọn tháp cổ vào trong tranh vẽ của mình, tạo nên một cấu trúc thị giác lạ lẫm nhưng đầy mê lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254720+07:00"
+    },
+    {
+      "id": "5806f8713dac9658fc9f3e258bce5ee1",
+      "title": "Những thiết kế dạ tweed nổi bật được săn đón trong mùa lạnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-thiet-ke-da-tweed-noi-bat-duoc-san-don-trong-mua-lanh-185251121195337679.htm",
+      "summary": "Trong tủ đồ mùa đông, chất liệu dạ tweed mang theo vẻ sang trọng cổ điển và sự ấm áp vượt thời gian đang trở thành tâm điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:23.254864+07:00"
+    },
+    {
+      "id": "071c266608e2a3c2b37986f8e15cec47",
+      "title": "TP.HCM: Lấn chiếm lòng đường, người bán 'chạy vòng\" 2 phường né lực lượng kiểm tra",
+      "link": "https://thanhnien.vn/tphcm-lan-chiem-long-duong-nguoi-ban-chay-vong-2-phuong-ne-luc-luong-kiem-tra-185251121171515908.htm",
+      "summary": "Tình trạng lấn chiếm lòng đường Trang Tử, TP.HCM diễn ra phức tạp và khó xử lý, khi người bán \"chạy vòng\" 2 phường để né lực lượng kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T00:00:00+07:00",
+      "fetched": "2025-11-22T08:15:23.255009+07:00"
+    },
+    {
+      "id": "911e93cec5b516fc89f30f1ab81d7384",
+      "title": "Slot: 'Liverpool chơi kém không phải vì Jota qua đời'",
+      "link": "https://vnexpress.net/slot-liverpool-choi-kem-khong-phai-vi-jota-qua-doi-4973418.html",
+      "summary": "HLV Arne Slot từ chối quy trách nhiệm loạt thất bại vừa qua cho sự ra đi của tiền đạo Diogo Jota.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:58:42+07:00",
+      "fetched": "2025-11-22T08:15:19.932035+07:00"
+    },
+    {
+      "id": "911e93cec5b516fc89f30f1ab81d7384",
+      "title": "Slot: 'Liverpool chơi kém không phải vì Jota qua đời'",
+      "link": "https://vnexpress.net/slot-liverpool-choi-kem-khong-phai-vi-jota-qua-doi-4973418.html",
+      "summary": "HLV Arne Slot từ chối quy trách nhiệm loạt thất bại vừa qua cho sự ra đi của tiền đạo Diogo Jota.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T23:58:42+07:00",
+      "fetched": "2025-11-22T08:15:34.978163+07:00"
+    },
+    {
+      "id": "8a3aaac826fe7bc2f95990fe1216b5c4",
+      "title": "Thái Châu nghẹn ngào nhớ danh ca Thái Thanh khi nghe nhạc Phạm Duy",
+      "link": "https://thanhnien.vn/thai-chau-nghen-ngao-nho-danh-ca-thai-thanh-khi-nghe-nhac-pham-duy-185251122005839639.htm",
+      "summary": "Nghe thí sinh 'Người kể chuyện tình' thể hiện ca khúc 'Ngày xưa Hoàng Thị', danh ca Thái Châu bồi hồi kể lại kỷ niệm lúc mới vào nghề, gắn với danh ca Thái Thanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:57:00+07:00",
+      "fetched": "2025-11-22T08:15:23.255151+07:00"
+    },
+    {
+      "id": "5b57c4315d0098adc74d0d90e18fd463",
+      "title": "Thanh Niên và tôi: Thanh Niên và những tấm lòng nhân ái",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-va-nhung-tam-long-nhan-ai-185251119232318912.htm",
+      "summary": "Có những lần trong đời, tôi tự hỏi: Điều gì khiến một tờ báo không chỉ tồn tại lâu dài mà còn trở thành người bạn, một nguồn cảm hứng, một nơi khơi dậy khát vọng và lòng nhân ái trong mỗi con người?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:55:00+07:00",
+      "fetched": "2025-11-22T08:15:23.255306+07:00"
+    },
+    {
+      "id": "9ce8a8be6aedf0eac77e35bdc7be2ba2",
+      "title": "Ông Trump ra hạn chót để Ukraine chấp thuận kế hoạch hòa bình",
+      "link": "https://vnexpress.net/ong-trump-ra-han-chot-de-ukraine-chap-thuan-ke-hoach-hoa-binh-4973409.html",
+      "summary": "Tổng thống Trump cho Ukraine thời hạn đến ngày 27/11 để chấp thuận kế hoạch hòa bình 28 điểm mà Mỹ đề xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:41:31+07:00",
+      "fetched": "2025-11-22T08:15:19.932188+07:00"
+    },
+    {
+      "id": "9ce8a8be6aedf0eac77e35bdc7be2ba2",
+      "title": "Ông Trump ra hạn chót để Ukraine chấp thuận kế hoạch hòa bình",
+      "link": "https://vnexpress.net/ong-trump-ra-han-chot-de-ukraine-chap-thuan-ke-hoach-hoa-binh-4973409.html",
+      "summary": "Tổng thống Trump cho Ukraine thời hạn đến ngày 27/11 để chấp thuận kế hoạch hòa bình 28 điểm mà Mỹ đề xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-21T23:41:31+07:00",
+      "fetched": "2025-11-22T08:15:27.955024+07:00"
+    },
+    {
+      "id": "031895b0660c4cefa102274c4086da13",
+      "title": "LHP VN lần thứ 24: Nuôi dưỡng khát vọng phát triển điện ảnh Việt",
+      "link": "https://thanhnien.vn/lhp-vn-lan-thu-24-nuoi-duong-khat-vong-phat-trien-dien-anh-viet-185251121224625444.htm",
+      "summary": "Tối 21.11, tại TP.HCM, chính thức diễn ra lễ khai mạc Liên hoan phim (LHP) VN lần thứ 24 và lễ đón nhận bằng công nhận danh hiệu UNESCO: TP.HCM - Thành phố sáng tạo toàn cầu về điện ảnh. Đến dự có ông...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:26:00+07:00",
+      "fetched": "2025-11-22T08:15:25.272259+07:00"
+    },
+    {
+      "id": "6205ab2ba273bc1ff53868e856a78382",
+      "title": "Guardiola: 'Mùa giải thực sự giờ mới bắt đầu'",
+      "link": "https://vnexpress.net/guardiola-mua-giai-thuc-su-gio-moi-bat-dau-4973419.html",
+      "summary": "HLV Pep Guardiola cho rằng Man City chuẩn bị bước vào giai đoạn quan trọng nhất của mùa giải, sau loạt trận quốc tế cuối cùng trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:24:23+07:00",
+      "fetched": "2025-11-22T08:15:19.932341+07:00"
+    },
+    {
+      "id": "6205ab2ba273bc1ff53868e856a78382",
+      "title": "Guardiola: 'Mùa giải thực sự giờ mới bắt đầu'",
+      "link": "https://vnexpress.net/guardiola-mua-giai-thuc-su-gio-moi-bat-dau-4973419.html",
+      "summary": "HLV Pep Guardiola cho rằng Man City chuẩn bị bước vào giai đoạn quan trọng nhất của mùa giải, sau loạt trận quốc tế cuối cùng trong năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T23:24:23+07:00",
+      "fetched": "2025-11-22T08:15:34.978321+07:00"
+    },
+    {
+      "id": "5c085152afd76b5ac788f94f9e6ddc8c",
+      "title": "Chị Ronaldo: 'Em tôi gánh vác Bồ Đào Nha 20 năm'",
+      "link": "https://vnexpress.net/chi-ronaldo-em-toi-ganh-vac-bo-dao-nha-20-nam-4973415.html",
+      "summary": "Katia Aveiro dùng từ \"phản bội\" và \"đạo đức giả\" để đáp trả những người đồng hương đang chỉ trích Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:03:28+07:00",
+      "fetched": "2025-11-22T08:15:19.932535+07:00"
+    },
+    {
+      "id": "5c085152afd76b5ac788f94f9e6ddc8c",
+      "title": "Chị Ronaldo: 'Em tôi gánh vác Bồ Đào Nha 20 năm'",
+      "link": "https://vnexpress.net/chi-ronaldo-em-toi-ganh-vac-bo-dao-nha-20-nam-4973415.html",
+      "summary": "Katia Aveiro dùng từ \"phản bội\" và \"đạo đức giả\" để đáp trả những người đồng hương đang chỉ trích Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T23:03:28+07:00",
+      "fetched": "2025-11-22T08:15:34.977826+07:00"
+    },
+    {
+      "id": "7c7197b152d9dc40250736341972f62b",
+      "title": "Chi hàng trăm triệu đồng 'ở cữ 5 sao'",
+      "link": "https://vnexpress.net/chi-hang-tram-trieu-dong-o-cu-5-sao-4965494.html",
+      "summary": "Thanh Trúc, 35 tuổi, chi 175 triệu đồng cho 14 ngày dịch vụ \"ở cữ 5 sao\", có nhân viên spa mỗi ngày, bảo mẫu túc trực 24/7 chăm bé để mẹ ngủ trọn giấc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:00:00+07:00",
+      "fetched": "2025-11-22T08:15:19.932693+07:00"
+    },
+    {
+      "id": "c79a9b9b4fa7381a5ccf65df6c147cb6",
+      "title": "Xe máy chở được 12 người",
+      "link": "https://vnexpress.net/xe-may-cho-duoc-12-nguoi-4971996.html",
+      "summary": "Tại các khu vực nông thôn hay vùng núi, người dân băng qua những con đường gập ghềnh, lầy lội, hiểm trở bằng phương tiện có tên habal-habal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T23:00:00+07:00",
+      "fetched": "2025-11-22T08:15:19.932852+07:00"
+    },
+    {
+      "id": "0e40a7ed03e889fbdb889db8c71bdb58",
+      "title": "Tài năng bóng rổ 14 tuổi cao 2,29 m ước lùn đi",
+      "link": "https://vnexpress.net/tai-nang-bong-ro-14-tuoi-cao-2-29-m-uoc-lun-di-4973416.html",
+      "summary": "Jeremy Gohier đạt chiều cao lên tới gần 2,3 m dù chưa bước sang tuổi 15, nhưng cảm thấy lợi thế của bản thân là điều phiền toái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:52:15+07:00",
+      "fetched": "2025-11-22T08:15:19.933008+07:00"
+    },
+    {
+      "id": "0e40a7ed03e889fbdb889db8c71bdb58",
+      "title": "Tài năng bóng rổ 14 tuổi cao 2,29 m ước lùn đi",
+      "link": "https://vnexpress.net/tai-nang-bong-ro-14-tuoi-cao-2-29-m-uoc-lun-di-4973416.html",
+      "summary": "Jeremy Gohier đạt chiều cao lên tới gần 2,3 m dù chưa bước sang tuổi 15, nhưng cảm thấy lợi thế của bản thân là điều phiền toái.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T22:52:15+07:00",
+      "fetched": "2025-11-22T08:15:34.978501+07:00"
+    },
+    {
+      "id": "8928a720f3f21ed882b18da7cf3bf777",
+      "title": "Jake Paul nhắm Tyson Fury sau trận gặp Joshua",
+      "link": "https://vnexpress.net/jake-paul-nham-tyson-fury-sau-tran-gap-joshua-4973417.html",
+      "summary": "Jake Paul tuyên bố sẽ hạ knock-out Anthony Joshua vào tháng tới, trước khi hướng tới màn so găng với cựu vô địch quyền Anh hạng nặng khác là Tyson Fury trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:47:08+07:00",
+      "fetched": "2025-11-22T08:15:19.933179+07:00"
+    },
+    {
+      "id": "8928a720f3f21ed882b18da7cf3bf777",
+      "title": "Jake Paul nhắm Tyson Fury sau trận gặp Joshua",
+      "link": "https://vnexpress.net/jake-paul-nham-tyson-fury-sau-tran-gap-joshua-4973417.html",
+      "summary": "Jake Paul tuyên bố sẽ hạ knock-out Anthony Joshua vào tháng tới, trước khi hướng tới màn so găng với cựu vô địch quyền Anh hạng nặng khác là Tyson Fury trong năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T22:47:08+07:00",
+      "fetched": "2025-11-22T08:15:34.978661+07:00"
+    },
+    {
+      "id": "6439f9b6316e7bb654eedbc945fbd179",
+      "title": "Tận dụng thủy triều để làm đám cưới giữa biển",
+      "link": "https://vnexpress.net/tan-dung-thuy-trieu-de-lam-dam-cuoi-giua-bien-4971590.html",
+      "summary": "25 khách mời dậy từ 3h sáng, đi thuyền ra giữa biển Kaneohe, đảo Oahu, Hawaii để dự hôn lễ của cô dâu Leandra và chú rể Daniel đúng khoảnh khắc bình minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:45:00+07:00",
+      "fetched": "2025-11-22T08:15:19.933344+07:00"
+    },
+    {
+      "id": "761d8d898ec715c4a9e8c2d84031de14",
+      "title": "Cole Palmer gãy ngón chân vì vấp vào cửa",
+      "link": "https://vnexpress.net/cole-palmer-gay-ngon-chan-vi-vap-vao-cua-4973413.html",
+      "summary": "Tiền vệ của Chelsea tự đá chân vào cánh cửa và gãy ngón út, lại phải nghỉ thi đấu sau khi vừa hồi phục chấn thương háng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:42:57+07:00",
+      "fetched": "2025-11-22T08:15:19.933517+07:00"
+    },
+    {
+      "id": "761d8d898ec715c4a9e8c2d84031de14",
+      "title": "Cole Palmer gãy ngón chân vì vấp vào cửa",
+      "link": "https://vnexpress.net/cole-palmer-gay-ngon-chan-vi-vap-vao-cua-4973413.html",
+      "summary": "Tiền vệ của Chelsea tự đá chân vào cánh cửa và gãy ngón út, lại phải nghỉ thi đấu sau khi vừa hồi phục chấn thương háng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T22:42:57+07:00",
+      "fetched": "2025-11-22T08:15:34.977999+07:00"
+    },
+    {
+      "id": "f7b41415bd545a32228b34436bbad3d2",
+      "title": "Các CLB Ngoại hạng Anh bỏ phiếu bác bỏ quy định trần lương",
+      "link": "https://vnexpress.net/cac-clb-ngoai-hang-anh-bo-phieu-bac-bo-quy-dinh-tran-luong-4973414.html",
+      "summary": "Ngoại hạng Anh hủy bỏ đề xuất trần lương, nhưng thông qua bộ quy tắc tài chính mới, thay thế cơ chế Kiểm soát Lợi nhuận và Bền vững (PSR).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:39:57+07:00",
+      "fetched": "2025-11-22T08:15:19.933678+07:00"
+    },
+    {
+      "id": "f7b41415bd545a32228b34436bbad3d2",
+      "title": "Các CLB Ngoại hạng Anh bỏ phiếu bác bỏ quy định trần lương",
+      "link": "https://vnexpress.net/cac-clb-ngoai-hang-anh-bo-phieu-bac-bo-quy-dinh-tran-luong-4973414.html",
+      "summary": "Ngoại hạng Anh hủy bỏ đề xuất trần lương, nhưng thông qua bộ quy tắc tài chính mới, thay thế cơ chế Kiểm soát Lợi nhuận và Bền vững (PSR).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-21T22:39:57+07:00",
+      "fetched": "2025-11-22T08:15:34.978818+07:00"
     },
     {
       "id": "20373216a4f591595bbec04fb3c00e80",
