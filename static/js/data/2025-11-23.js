@@ -1,7 +1,157 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T21:14:26.402930+07:00",
+  "lastUpdated": "2025-11-23T23:19:28.518137+07:00",
   "articles": [
+    {
+      "id": "893b1b39ceb1f07250118f0ee1915708",
+      "title": "Bộ đội dồn dập đổ quân về vùng lũ, thầy cô mừng vì học sinh có thể nhanh trở lại lớp",
+      "link": "https://tuoitre.vn/bo-doi-don-dap-do-quan-ve-vung-lu-thay-co-mung-vi-hoc-sinh-co-the-nhanh-tro-lai-lop-20251123201217371.htm",
+      "summary": "Hàng ngàn cán bộ, chiến sĩ các đơn vị thuộc Quân khu 5 đã mang xẻng cuốc, trang thiết bị đổ về các vùng lũ để hỗ trợ địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.266296+07:00",
+      "fetched": "2025-11-23T23:19:22.266417+07:00"
+    },
+    {
+      "id": "2c9af52af8cc1e471245741e5d50275c",
+      "title": "Công an TP.HCM chi viện tỉnh Đắk Lắk, hỗ trợ công tác cứu hộ, dọn dẹp sau lũ",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-chi-vien-tinh-dak-lak-ho-tro-cong-tac-cuu-ho-don-dep-sau-lu-20251123203825946.htm",
+      "summary": "Lực lượng Công an TP.HCM chi viện tỉnh Đắk Lắk, hỗ trợ công tác cứu hộ, khắc phục hậu quả sau lũ, dọn dẹp, tẩy rửa trường học, trụ sở ủy ban và các điểm dân sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.266155+07:00",
+      "fetched": "2025-11-23T23:19:22.266283+07:00"
+    },
+    {
+      "id": "48068c9f2c2b196c16be7a7731544001",
+      "title": "Rãnh nứt dài 100m xuất hiện ở vùng lũ gần hồ thủy điện Đa Nhim",
+      "link": "https://tuoitre.vn/ranh-nut-dai-100m-xuat-hien-o-vung-lu-gan-ho-thuy-dien-da-nhim-20251123213419262.htm",
+      "summary": "Một vết nứt sụt lớn vừa xuất hiện trên một quả đồi cà phê ở xã D’Ran (khu vực Đơn Dương cũ) - gần hồ thủy điện Đa Nhim làm dấy lên lo ngại nguy cơ sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.266022+07:00",
+      "fetched": "2025-11-23T23:19:22.266140+07:00"
+    },
+    {
+      "id": "f24b801da81500359fee639843514fd1",
+      "title": "Tăng cường 250 cán bộ, công nhân khôi phục lưới điện vùng lũ Phú Yên cũ",
+      "link": "https://tuoitre.vn/tang-cuong-250-can-bo-cong-nhan-khoi-phuc-luoi-dien-vung-lu-phu-yen-cu-2025112319125483.htm",
+      "summary": "Tổng công ty Điện lực miền Trung tiếp tục huy động nhân sự hỗ trợ khôi phục lưới điện cho tỉnh Phú Yên cũ (nay thuộc Đắk Lắk) bị lũ gây hư hỏng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265899+07:00",
+      "fetched": "2025-11-23T23:19:22.266011+07:00"
+    },
+    {
+      "id": "12a6f8bbd75930b6dc74d79e1cdc0be2",
+      "title": "Nhà sập, đường hở ‘hàm ếch’ ở Phú Yên cũ sau khi nước rút",
+      "link": "https://tuoitre.vn/nha-sap-duong-ho-ham-ech-o-phu-yen-cu-sau-khi-nuoc-rut-2025112319303908.htm",
+      "summary": "Trên lối về khu vực đập Hải Yến, xã Tuy An Đông, tỉnh Đắk Lắk (Phú Yên cũ), dấu vết trận lũ dữ vẫn còn in hằn trên từng mái nhà, từng bờ tre bị quật nát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265772+07:00",
+      "fetched": "2025-11-23T23:19:22.265888+07:00"
+    },
+    {
+      "id": "18e6a5a1fb8398d049cc48c63808139f",
+      "title": "Nigeria: Nhiều tay súng đột nhập trường học, bắt 315 giáo viên, học sinh làm con tin",
+      "link": "https://tuoitre.vn/nigeria-nhieu-tay-sung-dot-nhap-truong-hoc-bat-315-giao-vien-hoc-sinh-lam-con-tin-202511232147303.htm",
+      "summary": "303 học sinh và 12 giáo viên bị bắt làm con tin khi một nhóm vũ trang đột nhập trường học tại Nigeria từ hôm 21-11, khiến không ít người lo sợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265641+07:00",
+      "fetched": "2025-11-23T23:19:22.265760+07:00"
+    },
+    {
+      "id": "f187771d0b275a910b97c073d0eafcc6",
+      "title": "Xử lý thanh niên ở Đồng Nai tung tin giả cầu Hóa An bị ngập để ‘câu like’",
+      "link": "https://tuoitre.vn/xu-ly-thanh-nien-o-dong-nai-tung-tin-gia-cau-hoa-an-bi-ngap-de-cau-like-20251123221853695.htm",
+      "summary": "Nam thanh niên ở Đồng Nai bị xử lý vì đăng tải thông tin lũ lụt gây ngập cầu Hóa An gây hoang mang dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265514+07:00",
+      "fetched": "2025-11-23T23:19:22.265630+07:00"
+    },
+    {
+      "id": "178dfb26c18b6e42c7371246ca04927f",
+      "title": "Người nước ngoài xắn tay áo, cùng đồng bào TP.HCM gửi yêu thương về miền Trung",
+      "link": "https://tuoitre.vn/nguoi-nuoc-ngoai-xan-tay-ao-cung-dong-bao-tp-hcm-gui-yeu-thuong-ve-mien-trung-20251123180822752.htm",
+      "summary": "Tại các điểm quyên góp ở TP.HCM, nhiều người nước ngoài cũng xắn tay khuân vác, góp sức cùng người Việt gửi đồ tiếp tế cho bà con vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265388+07:00",
+      "fetched": "2025-11-23T23:19:22.265503+07:00"
+    },
+    {
+      "id": "305eda271c41aac2559d9faabef5eee5",
+      "title": "AFC ra thông báo quan trọng vụ xử Malaysia thua tuyển Việt Nam",
+      "link": "https://tuoitre.vn/afc-ra-thong-bao-quan-trong-vu-xu-malaysia-thua-tuyen-viet-nam-20251123221106121.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đã đưa ra một thông báo quan trọng liên quan vụ bê bối nhập tịch cầu thủ trái phép của bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265240+07:00",
+      "fetched": "2025-11-23T23:19:22.265375+07:00"
+    },
+    {
+      "id": "b6d1fe4aba945c13d5520059f92dee79",
+      "title": "CLB Ninh Bình thoát thua bằng quả 11m phút 89",
+      "link": "https://tuoitre.vn/clb-ninh-binh-thoat-thua-bang-qua-11m-phut-89-20251123220317525.htm",
+      "summary": "Tân binh V-League nối dài mạch bất bại khi thắng ngược CLB Hải Phòng 2-1 ngay tại Lạch Tray ở vòng 1/8 Cúp quốc gia 2025-2026 vào tối 23-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.265107+07:00",
+      "fetched": "2025-11-23T23:19:22.265223+07:00"
+    },
+    {
+      "id": "10227166c3774018b0f22a77f38edbf1",
+      "title": "CLB Công An Hà Nội 'nhả' Đình Bắc cho U22 Việt Nam",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-nha-dinh-bac-cho-u22-viet-nam-20251123223909494.htm",
+      "summary": "2 cầu thủ CLB Công An Hà Nội là Nguyễn Đình Bắc và Phạm Minh Phúc sẽ không bỏ lỡ trận nào của U22 Việt Nam tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.264977+07:00",
+      "fetched": "2025-11-23T23:19:22.265095+07:00"
+    },
+    {
+      "id": "2fc933b672aef6f61cc348651bc0b4bf",
+      "title": "Nhà Trắng xác nhận Ban Hiệu suất chính phủ không còn tồn tại",
+      "link": "https://tuoitre.vn/nha-trang-xac-nhan-ban-hieu-suat-chinh-phu-khong-con-ton-tai-20251123223611607.htm",
+      "summary": "Nhà Trắng lần đầu tiên chính thức khẳng định Ban Hiệu suất chính phủ đã không còn hoạt động sau nhiều tháng úp mở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.264847+07:00",
+      "fetched": "2025-11-23T23:19:22.264966+07:00"
+    },
+    {
+      "id": "95b2fb543af0e8a0eae640c743590a93",
+      "title": "'Tịt ngòi' ở đội tuyển, Tiến Linh ghi bàn ở Cúp quốc gia",
+      "link": "https://tuoitre.vn/tit-ngoi-o-doi-tuyen-tien-linh-ghi-ban-o-cup-quoc-gia-20251123222408941.htm",
+      "summary": "Chơi không tốt ở đội tuyển Việt Nam, nhưng Tiến Linh đã tỏa sáng trong chiến thắng 3-0 của CLB Công An TP.HCM trước CLB TP.HCM ở Cúp quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.264712+07:00",
+      "fetched": "2025-11-23T23:19:22.264835+07:00"
+    },
+    {
+      "id": "2a9a82a9996f3b2f689c8c863d4f96af",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Bày tỏ tình yêu với đất nước bằng nhiều cách",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-bay-to-tinh-yeu-voi-dat-nuoc-bang-nhieu-cach-2025112311111706.htm",
+      "summary": "Đại lễ 30-4 và 1-5 vừa qua là dịp người trẻ Việt Nam có nhiều cách bày tỏ tình yêu với đất nước một cách mạnh mẽ và sáng tạo nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.264569+07:00",
+      "fetched": "2025-11-23T23:19:22.264700+07:00"
+    },
+    {
+      "id": "a806df5cedcbac7e4f0a136fe9f6ee80",
+      "title": "Công an TP.HCM đưa 500 cán bộ chiến sĩ chi viện vùng lũ Đắk Lắk, Gia Lai, Khánh Hòa",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-dua-500-can-bo-chien-si-chi-vien-vung-lu-dak-lak-gia-lai-khanh-hoa-20251123223034265.htm",
+      "summary": "Ban giám đốc Công an TP.HCM chỉ đạo triển khai nhiều tổ chi viện, hỗ trợ các tỉnh Đắk Lắk, Gia Lai, Khánh Hòa khắc phục hậu quả thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T23:19:22.264347+07:00",
+      "fetched": "2025-11-23T23:19:22.264554+07:00"
+    },
     {
       "id": "1849f3a57947732e343b3bc005038d92",
       "title": "Bản sắc Việt và ngôn ngữ điện ảnh quốc tế",
@@ -313,6 +463,56 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T17:16:30.332948+07:00"
     },
     {
+      "id": "a9c514fcefedc76cee063fce9434a1f6",
+      "title": "Highlight CLB Công an TP.HCM 3-0 CLB TP.HCM: Chiến thắng dễ",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-3-0-clb-tphcm-chien-thang-de-185251123225352967.htm",
+      "summary": "CLB Công an TP.HCM không gặp nhiều khó khăn để vượt qua CLB TP.HCM với tỷ số 3-0, tạo nên thế trận áp đảo từ đầu đến cuối và khẳng định sức mạnh vượt trội trong trận derby thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:53:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428033+07:00"
+    },
+    {
+      "id": "9f7db6721db298752e162819ffb4d1f2",
+      "title": "Highlight CLB Công an Hà Nội gục ngã trên chấm luân lưu trước CLB Thể Công Viettel",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-ha-noi-guc-nga-tren-cham-luan-luu-truoc-clb-the-cong-viettel-185251123225333077.htm",
+      "summary": "CLB Công an Hà Nội đánh rơi chiến thắng đầy tiếc nuối khi gục ngã trên chấm luân lưu trước CLB Thể Công Viettel, khép lại trận đấu căng thẳng và giàu cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:53:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428202+07:00"
+    },
+    {
+      "id": "8d8ae64520d125668592246adf7b71e9",
+      "title": "Highlight CLB Nam Định 2-0 CLB Long An: Chiến thắng ngày Xuân Son trở lại",
+      "link": "https://thanhnien.vn/highlight-clb-nam-dinh-2-0-clb-long-an-chien-thang-ngay-xuan-son-tro-lai-185251123225314357.htm",
+      "summary": "CLB Nam Định có ngày thi đấu trọn vẹn khi thắng 2-0 trước CLB Long An, đánh dấu màn tái xuất đầy hứng khởi của Xuân Son.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:53:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428384+07:00"
+    },
+    {
+      "id": "f62008b7eeab8d5adb171335709c5ada",
+      "title": "Thủ tướng gặp Tổng thống Pháp, Thủ tướng Đức tại hội nghị G20",
+      "link": "https://vnexpress.net/thu-tuong-gap-tong-thong-phap-thu-tuong-duc-tai-hoi-nghi-g20-4985238.html",
+      "summary": "Thủ tướng Phạm Minh Chính gặp Tổng thống Macron, Thủ tướng Merz và lãnh đạo nhiều nước, tổ chức quốc tế trong khuôn khổ hội nghị thượng đỉnh G20.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T15:36:13+07:00",
+      "fetched": "2025-11-23T23:19:23.711034+07:00"
+    },
+    {
+      "id": "47a69577061706ef2293b7234c6baff9",
+      "title": "Thể Công loại đương kim vô địch CAHN ở Cup Quốc gia",
+      "link": "https://vnexpress.net/the-cong-loai-duong-kim-vo-dich-cahn-o-cup-quoc-gia-4985242.html",
+      "summary": "Thể Công hai lần gỡ hòa, rồi thắng Công an Hà Nội 5-4 ở loạt luân lưu tại vòng 1/8 Cup Quốc gia 2025-2026, tối 23/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T15:29:50+07:00",
+      "fetched": "2025-11-23T23:19:28.505612+07:00"
+    },
+    {
       "id": "b2f368aa15bafb02f1e831dda75832c1",
       "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Nghĩa tình ở cửa hàng 0 đồng",
       "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-nghia-tinh-o-cua-hang-0-dong-20251123073531579.htm",
@@ -463,6 +663,126 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T15:20:57.315006+07:00"
     },
     {
+      "id": "53c84a5cedab5f4ec7f89c67ba1f70e3",
+      "title": "Công an TP.HCM cấp tốc chi viện vùng ngập lụt Đắk Lắk",
+      "link": "https://thanhnien.vn/cong-an-tphcm-cap-toc-chi-vien-vung-ngap-lut-dak-lak-185251123220606196.htm",
+      "summary": "Hơn 500 chiến sĩ Công an TP.HCM mang theo 'mệnh lệnh từ trái tim' chi viện các tỉnh miền Trung, góp phần cùng bà con vượt qua giai đoạn khốc liệt do thiên tai ngập lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:12:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428544+07:00"
+    },
+    {
+      "id": "ffd4432c098480d48b432be493472e1d",
+      "title": "Highlight Hải Phòng 1-2 Ninh Bình: Bàn phản lưới nhà nghiệt ngã",
+      "link": "https://thanhnien.vn/highlight-hai-phong-1-2-ninh-binh-ban-phan-luoi-nha-nghiet-nga-185251123221149538.htm",
+      "summary": "Hải Phòng gục ngã ngay tại Lạch Tray khi bàn phản lưới nhà khiến họ thua đau 1-2 trước Ninh Bình, khép lại trận đấu đầy kịch tính và tiếc nuối ở cúp quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:11:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428698+07:00"
+    },
+    {
+      "id": "b8af2a9f90e0dc6d8cbda90bc488f17f",
+      "title": "Xe khách tông hai người tử vong trên cầu Thanh Trì",
+      "link": "https://vnexpress.net/xe-khach-tong-hai-nguoi-tu-vong-tren-cau-thanh-tri-4985247.html",
+      "summary": "Đang di chuyển trên cầu Thanh Trì, xe khách bất ngờ lao sang làn xe máy, tông trúng hai người đi cùng chiều, tối 23/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T15:06:23+07:00",
+      "fetched": "2025-11-23T23:19:18.387237+07:00"
+    },
+    {
+      "id": "5ff9072c68967ee797095c3929c1ad17",
+      "title": "Bí ẩn thi thể trong bao tải: Có người thấy 2 người kéo đến bỏ rồi rời đi",
+      "link": "https://thanhnien.vn/bi-an-thi-the-trong-bao-tai-co-nguoi-thay-2-nguoi-keo-den-bo-roi-roi-di-185251123214345043.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang truy bắt nghi phạm liên quan vụ việc thi thể người đàn ông được phát hiện bên trong bao tải ở khu vực sảnh của một tòa nhà cao tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:58:00+07:00",
+      "fetched": "2025-11-23T23:19:21.428851+07:00"
+    },
+    {
+      "id": "79dce63e709f929c26d8a3f522f71aba",
+      "title": "CLB CAHN thua cực đau Thể Công Viettel, thành cựu vương Cúp quốc gia: VAR, thẻ đỏ, điên rồ!",
+      "link": "https://thanhnien.vn/clb-cahn-thua-cuc-dau-the-cong-viettel-thanh-cuu-vuong-cup-quoc-gia-var-the-do-dien-ro-185251123202039946.htm",
+      "summary": "CLB CAHN bại trận trước Thể Công Viettel trên chấm luân lưu với tỷ số 3-4 (hai đội hòa nhau 2-2 trong 90 phút), qua đó trở thành cựu vương Cúp quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:43:00+07:00",
+      "fetched": "2025-11-23T23:19:21.429006+07:00"
+    },
+    {
+      "id": "03089dee4b8dbb24694d9ad8ce2ff4ae",
+      "title": "Rộ tin Thúy Diễm thay vai Thiên An trong 'Cưới vợ cho cha', NSX nói gì?",
+      "link": "https://thanhnien.vn/ro-tin-thuy-diem-thay-vai-thien-an-trong-cuoi-vo-cho-cha-nsx-noi-gi-185251123211557402.htm",
+      "summary": "Một nguồn tin tiết lộ với chúng tôi, vai diễn của Thúy Diễm trong 'Cưới vợ cho cha' ban đầu được giao cho Thiên An. Về vấn đề này, nhà sản xuất cho biết người đẹp 8X là lựa chọn cuối cùng vì phù hợp nhất với hình ảnh và tinh thần nhân vật mà đoàn phim muốn truyền tải đến khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:42:00+07:00",
+      "fetched": "2025-11-23T23:19:21.429156+07:00"
+    },
+    {
+      "id": "67f5dc5387613bffadf927c89d9d15bf",
+      "title": "Hàng trăm nghệ nhân quốc tế sắp dự Lễ hội Cồng chiêng",
+      "link": "https://vnexpress.net/hang-tram-nghe-nhan-quoc-te-sap-du-le-hoi-cong-chieng-4984223.html",
+      "summary": "Lễ hội Cồng chiêng Đông Nam Á diễn ra tại Đà Lạt từ 18/12 đến 2/1/2026, quy tụ các đoàn nghệ thuật từ 5 quốc gia trong khu vực và 11 đoàn trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:40:12+07:00",
+      "fetched": "2025-11-23T23:19:18.387435+07:00"
+    },
+    {
+      "id": "4a13a912c2102c65fe52734a08df1754",
+      "title": "Belarus thả 31 công dân Ukraine sau thỏa thuận với ông Trump",
+      "link": "https://vnexpress.net/belarus-tha-31-cong-dan-ukraine-sau-thoa-thuan-voi-ong-trump-4985215.html",
+      "summary": "Belarus ân xá 31 công dân Ukraine và trao trả cho nước láng giềng, theo thỏa thuận đạt được giữa Tổng thống Lukashenko và người đồng cấp Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:40:06+07:00",
+      "fetched": "2025-11-23T23:19:18.387603+07:00"
+    },
+    {
+      "id": "4a13a912c2102c65fe52734a08df1754",
+      "title": "Belarus thả 31 công dân Ukraine sau thỏa thuận với ông Trump",
+      "link": "https://vnexpress.net/belarus-tha-31-cong-dan-ukraine-sau-thoa-thuan-voi-ong-trump-4985215.html",
+      "summary": "Belarus ân xá 31 công dân Ukraine và trao trả cho nước láng giềng, theo thỏa thuận đạt được giữa Tổng thống Lukashenko và người đồng cấp Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T14:40:06+07:00",
+      "fetched": "2025-11-23T23:19:23.711210+07:00"
+    },
+    {
+      "id": "8fdb8f4fbd94c1a91906e88b3409c52a",
+      "title": "Giải bài toán trong xã hội, nhà sáng chế có cơ hội thành công",
+      "link": "https://vnexpress.net/giai-bai-toan-trong-xa-hoi-nha-sang-che-co-co-hoi-thanh-cong-4983029.html",
+      "summary": "Nhiều tác giả nghiên cứu chia sẻ, để các sáng chế được thương mại hóa cần phải đi từ thực tiễn, tìm và giải quyết những \"nỗi đau\" lớn trong xã hội sẽ có khả năng thành công cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:19:05+07:00",
+      "fetched": "2025-11-23T23:19:18.387768+07:00"
+    },
+    {
+      "id": "8fdb8f4fbd94c1a91906e88b3409c52a",
+      "title": "Giải bài toán trong xã hội, nhà sáng chế có cơ hội thành công",
+      "link": "https://vnexpress.net/giai-bai-toan-trong-xa-hoi-nha-sang-che-co-co-hoi-thanh-cong-4983029.html",
+      "summary": "Nhiều tác giả nghiên cứu chia sẻ, để các sáng chế được thương mại hóa cần phải đi từ thực tiễn, tìm và giải quyết những \"nỗi đau\" lớn trong xã hội sẽ có khả năng thành công cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-23T14:19:05+07:00",
+      "fetched": "2025-11-23T23:19:27.619401+07:00"
+    },
+    {
+      "id": "ae2c6391f6dcf4e8d8c86194a79a7f4a",
+      "title": "Ứng phó thiên tai trên diện rộng: Chính phủ hành động quyết liệt, yêu cầu đảm bảo hạ tầng thông tin an toàn",
+      "link": "https://thanhnien.vn/ung-pho-thien-tai-tren-dien-rong-chinh-phu-hanh-dong-quyet-liet-yeu-cau-dam-bao-ha-tang-thong-tin-an-toan-185251123211831871.htm",
+      "summary": "Tính đến sáng ngày 23.11, mưa ở Nam Trung Bộ đã bắt đầu giảm. Tuy nhiên, thời điểm nước lũ bắt đầu rút, cũng là lúc lộ diện thêm nhiều khó khăn và mất mát của bà con. Trong bối cảnh đó, Chính phủ đã có những chỉ đạo quyết liệt về việc khẩn trương khắc phục hậu quả mưa lũ cho các tỉnh thành, đảm bảo ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:15:00+07:00",
+      "fetched": "2025-11-23T23:19:21.429322+07:00"
+    },
+    {
       "id": "8a039040df6c76f8788124e9e1716825",
       "title": "Tiến Linh giải 'cơn khát', CLB Công an TP.HCM đấu đội của Công Phượng ở tứ kết Cúp quốc gia",
       "link": "https://thanhnien.vn/tien-linh-giai-con-khat-clb-cong-an-tphcm-dau-doi-cua-cong-phuong-o-tu-ket-cup-quoc-gia-185251123210846427.htm",
@@ -493,6 +813,26 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T21:14:17.977016+07:00"
     },
     {
+      "id": "9cfa107596cae348d7eec5413b6aca6e",
+      "title": "Tìm người đàn ông chân thành làm bờ vai vững chắc",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-chan-thanh-lam-bo-vai-vung-chac-4983867.html",
+      "summary": "Em vui vẻ, hòa đồng, biết giúp đỡ mọi người, tìm anh có chí tiến thủ, không nhu nhược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:00:00+07:00",
+      "fetched": "2025-11-23T23:19:18.387882+07:00"
+    },
+    {
+      "id": "2ebb724014c6a887573e89b22404884b",
+      "title": "Nếu tôi đi nước khác khởi nghiệp, bạn trai 5 năm sẽ chia tay",
+      "link": "https://vnexpress.net/neu-toi-di-nuoc-khac-khoi-nghiep-ban-trai-5-nam-se-chia-tay-4983528.html",
+      "summary": "Bạn trai nói thẳng sẽ không bỏ mọi thứ ở đây để theo tôi đến một quốc gia khác bắt đầu từ đầu lần nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:00:00+07:00",
+      "fetched": "2025-11-23T23:19:18.388044+07:00"
+    },
+    {
       "id": "daa0c5548de20893c469312f77bd1c5f",
       "title": "CLB Hải Phòng chơi quá hay, nhưng Hoàng Đức giúp Ninh Bình thắng ngược nghẹt thở",
       "link": "https://thanhnien.vn/clb-hai-phong-choi-qua-hay-nhung-hoang-duc-giup-ninh-binh-thang-nguoc-nghet-tho-185251123205804633.htm",
@@ -511,6 +851,26 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T13:54:00+07:00",
       "fetched": "2025-11-23T21:14:17.977275+07:00"
+    },
+    {
+      "id": "77affc7c7a9399e47caab7424ee9862b",
+      "title": "Nam Định thắng trong ngày Xuân Son trở lại",
+      "link": "https://vnexpress.net/nam-dinh-thang-trong-ngay-xuan-son-tro-lai-4985233.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son tái xuất sân cỏ Việt Nam, khi Nam Định thắng Long An 2-0 ở vòng 1/16 Cup Quốc gia 2025-2026, tối 23/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:51:09+07:00",
+      "fetched": "2025-11-23T23:19:18.388203+07:00"
+    },
+    {
+      "id": "77affc7c7a9399e47caab7424ee9862b",
+      "title": "Nam Định thắng trong ngày Xuân Son trở lại",
+      "link": "https://vnexpress.net/nam-dinh-thang-trong-ngay-xuan-son-tro-lai-4985233.html",
+      "summary": "Tiền đạo Nguyễn Xuân Son tái xuất sân cỏ Việt Nam, khi Nam Định thắng Long An 2-0 ở vòng 1/16 Cup Quốc gia 2025-2026, tối 23/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T13:51:09+07:00",
+      "fetched": "2025-11-23T23:19:28.505788+07:00"
     },
     {
       "id": "2274a54c2c5f990a93d7328274abb8fe",
@@ -553,6 +913,16 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T21:14:17.977534+07:00"
     },
     {
+      "id": "043935586e1d86ce3eb92141107d9baf",
+      "title": "Kim Woo Bin, Shin Min Ah - tình yêu vượt sóng gió",
+      "link": "https://vnexpress.net/kim-woo-bin-shin-min-ah-tinh-yeu-vuot-song-gio-4984328.html",
+      "summary": "Người đẹp Hàn Shin Min Ah hoãn việc riêng, âm thầm giúp Kim Woo Bin vượt qua bệnh ung thư vòm họng, vun đắp tình cảm với anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:40:25+07:00",
+      "fetched": "2025-11-23T23:19:18.388707+07:00"
+    },
+    {
       "id": "9d1503287ecb72270902241334216b4e",
       "title": "Ga metro TP.HCM nhận 180 tấn hàng cứu trợ, đêm nay ưu tiên: sữa, bánh, chăn, tã",
       "link": "https://thanhnien.vn/ga-metro-tphcm-nhan-180-tan-hang-cuu-tro-dem-nay-uu-tien-sua-banh-chan-ta-185251123200636998.htm",
@@ -591,6 +961,36 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T13:39:00+07:00",
       "fetched": "2025-11-23T21:14:17.978049+07:00"
+    },
+    {
+      "id": "3236abb6827db367220529faafd35b45",
+      "title": "Người đăng tin sai sự thật 'lũ ngập cầu nối Đồng Nai với TP HCM' bị phạt",
+      "link": "https://vnexpress.net/nguoi-dang-tin-sai-su-that-lu-ngap-cau-noi-dong-nai-voi-tp-hcm-bi-phat-4985224.html",
+      "summary": "Nam thanh niên 29 tuổi sử dụng Facebook đăng tải việc lũ lụt gây ngập cầu Hóa An nối với TP HCM khiến nhiều người hoang mang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:30:47+07:00",
+      "fetched": "2025-11-23T23:19:18.388860+07:00"
+    },
+    {
+      "id": "eb2a9f73a3d620d2deeed58e76d7980e",
+      "title": "Du khách bất ngờ gặp băng giá trên đỉnh Fansipan",
+      "link": "https://vnexpress.net/du-khach-bat-ngo-gap-bang-gia-tren-dinh-fansipan-4984242.html",
+      "summary": "Sáng 23/11, nhiệt độ trên đỉnh Fansipan xuống 2 độ C khiến băng giá kết dày, thu hút nhiều du khách trong ngày cuối cùng cáp treo hoạt động trước kỳ bảo dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:29:45+07:00",
+      "fetched": "2025-11-23T23:19:18.389010+07:00"
+    },
+    {
+      "id": "50d4f896b50209caf916f35fbc04038a",
+      "title": "Người dân Đăk Lăk xếp hàng nhận nhu yếu phẩm sau lũ",
+      "link": "https://vnexpress.net/nguoi-dan-dak-lak-xep-hang-nhan-nhu-yeu-pham-sau-lu-4985229.html",
+      "summary": "Hàng loạt xe tải chở lương thực, quần áo và nhu yếu phẩm tập kết về xã Hòa Thịnh, nơi người dân vùng rốn lũ Đăk Lăk đang chờ nhận cứu trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:28:11+07:00",
+      "fetched": "2025-11-23T23:19:18.389169+07:00"
     },
     {
       "id": "2c76bf81fab670b12b9684c7a12992f8",
@@ -773,6 +1173,26 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T13:24:17.276374+07:00"
     },
     {
+      "id": "d42c07ee4d23bde44928467911ebbbb6",
+      "title": "Quả đồi sạt lở đe dọa khu dân cư ở Lâm Đồng",
+      "link": "https://vnexpress.net/sat-lo-o-lam-dong-4985230.html",
+      "summary": "Vết nứt dài hàng trăm mét xuất hiện trên đồi Ba Lá Xanh, xã D’ran, chính quyền di dời hàng chục hộ dân sinh sống dưới chân đồi, ngày 23/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:20:52+07:00",
+      "fetched": "2025-11-23T23:19:18.389343+07:00"
+    },
+    {
+      "id": "1d5b9c99900c38c20a5ee3c8ae8d13a2",
+      "title": "Bài toán 'mở quán cà phê bán 3.800 ly, trả lương 12 triệu đồng'",
+      "link": "https://vnexpress.net/bai-toan-mo-quan-ca-phe-ban-3-800-ly-tra-luong-12-trieu-dong-4984927.html",
+      "summary": "Vận hành một quán cà phê không hề dễ dàng như nhiều người nghĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:20:28+07:00",
+      "fetched": "2025-11-23T23:19:18.389503+07:00"
+    },
+    {
       "id": "6eb4cd25fbcb055e328f3829212dc552",
       "title": "Xã Sơn Hòa đầu nguồn sông Ba Hạ ở Phú Yên cũ tan hoang sau lũ dữ",
       "link": "https://thanhnien.vn/mot-noi-o-phu-yen-cu-tan-hoang-sau-lu-rat-it-doan-thien-nguyen-den-185251123195727674.htm",
@@ -871,6 +1291,16 @@ window.newsData_2025_11_23 = {
       "category": "Thế giới",
       "published": "2025-11-23T12:44:42+07:00",
       "fetched": "2025-11-23T21:14:20.679945+07:00"
+    },
+    {
+      "id": "d54305f4b7e0a1ecddef2a4c3709e8a1",
+      "title": "Ngoại trưởng Trung Quốc nói Nhật Bản 'đang vượt lằn ranh đỏ'",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-noi-nhat-ban-dang-vuot-lan-ranh-do-4985002.html",
+      "summary": "Ngoại trưởng Trung Quốc nói Nhật Bản đang \"vượt lằn ranh đỏ không được chạm tới\", liên quan phát biểu của Thủ tướng Takaichi về vấn đề đảo Đài Loan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T12:44:42+07:00",
+      "fetched": "2025-11-23T23:19:23.711560+07:00"
     },
     {
       "id": "0ab756dbb31e528c37ce3b261c69c5fc",
