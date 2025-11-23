@@ -1,7 +1,17 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T19:30:39.998748+07:00",
+  "lastUpdated": "2025-11-23T21:14:26.402930+07:00",
   "articles": [
+    {
+      "id": "1849f3a57947732e343b3bc005038d92",
+      "title": "Bản sắc Việt và ngôn ngữ điện ảnh quốc tế",
+      "link": "https://tuoitre.vn/ban-sac-viet-va-ngon-ngu-dien-anh-quoc-te-20251123090525974.htm",
+      "summary": "Để điện ảnh Việt phát triển hơn nữa, các nhà quản lý, chuyên gia và nghệ sĩ tại Liên hoan phim Việt Nam hiến kế về giữ gìn bản sắc Việt đi kèm ngôn ngữ điện ảnh quốc tế, thẩm định phim bám sát luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:14:19.119987+07:00",
+      "fetched": "2025-11-23T21:14:19.120189+07:00"
+    },
     {
       "id": "aa98a204eb2eb35caa720d17724f93ad",
       "title": "Gửi hai con cho ngoại để vào TP.HCM chạy Grab, làm thuê, khi về nhà thì con đã không còn",
@@ -453,6 +463,166 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T15:20:57.315006+07:00"
     },
     {
+      "id": "8a039040df6c76f8788124e9e1716825",
+      "title": "Tiến Linh giải 'cơn khát', CLB Công an TP.HCM đấu đội của Công Phượng ở tứ kết Cúp quốc gia",
+      "link": "https://thanhnien.vn/tien-linh-giai-con-khat-clb-cong-an-tphcm-dau-doi-cua-cong-phuong-o-tu-ket-cup-quoc-gia-185251123210846427.htm",
+      "summary": "Tối 23.11, Tiến Linh ghi bàn trong chiến thắng 2-0 của CLB Công an TP.HCM trước đội TP.HCM ở vòng 16 đội Cúp quốc gia 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:12:00+07:00",
+      "fetched": "2025-11-23T21:14:17.976715+07:00"
+    },
+    {
+      "id": "93f3c736216578d1623a189923cf187d",
+      "title": "Đắk Lắk: Thầy cô cùng học sinh xắn tay dọn dẹp trường học sau lũ lụt",
+      "link": "https://thanhnien.vn/dak-lak-thay-co-cung-hoc-sinh-xan-tay-don-dep-truong-hoc-sau-lu-lut-185251123182258893.htm",
+      "summary": "Trận lũ lịch sử khiến học sinh trên địa bàn phía đông tỉnh Đắk Lắk phải nghỉ học dài ngày. Sau khi lũ rút thầy, cô cùng học sinh giáo xắn tay dọn dẹp phòng học để sớm đón học sinh trở lại trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:12:00+07:00",
+      "fetched": "2025-11-23T21:14:17.976880+07:00"
+    },
+    {
+      "id": "975ddf18c2cbe341a033920b70eccee8",
+      "title": "Ngoại trưởng Trung Quốc cáo buộc Nhật Bản vượt lằn ranh đỏ, nói phải đáp trả",
+      "link": "https://thanhnien.vn/ngoai-truong-trung-quoc-cao-buoc-nhat-ban-vuot-lan-ranh-do-noi-phai-dap-tra-185251123205915364.htm",
+      "summary": "Ngoại trưởng Trung Quốc Vương Nghị cho rằng Nhật Bản đã vượt lằn ranh đỏ về Đài Loan và Bắc Kinh phải cương quyết đáp trả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T14:08:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977016+07:00"
+    },
+    {
+      "id": "daa0c5548de20893c469312f77bd1c5f",
+      "title": "CLB Hải Phòng chơi quá hay, nhưng Hoàng Đức giúp Ninh Bình thắng ngược nghẹt thở",
+      "link": "https://thanhnien.vn/clb-hai-phong-choi-qua-hay-nhung-hoang-duc-giup-ninh-binh-thang-nguoc-nghet-tho-185251123205804633.htm",
+      "summary": "Trên sân Lạch Tray, CLB Hải Phòng đã chơi trận vòng 16 đội Cúp quốc gia 2025 - 2026 tuyệt hay, thậm chí dẫn bàn thuyết phục trước đội khách Ninh Bình FC, cho đến khi Hoàng Đức lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:59:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977147+07:00"
+    },
+    {
+      "id": "2ad962f9c3a60d9f3b2d8da33d92ec4f",
+      "title": "Phát hiện vết nứt dài 300 mét trên đồi, khẩn cấp di dời hàng chục hộ dân",
+      "link": "https://thanhnien.vn/phat-hien-vet-nut-dai-300-met-tren-doi-khan-cap-di-doi-hang-chuc-ho-dan-185251123204406078.htm",
+      "summary": "Cơ quan chức năng phát hiện trên đồi Ba Lá Xanh, thôn Lạc Thiện 2, xã D’Ran, xuất hiện vết nứt chạy dọc 300m, Chính quyền địa phương di dời khẩn cấp hàng chục hộ dân bên dưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:54:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977275+07:00"
+    },
+    {
+      "id": "2274a54c2c5f990a93d7328274abb8fe",
+      "title": "Billiards: Cơ thủ Việt Nam tung sê-ri lớn, ngược dòng đánh bại nhà vô địch PBA",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-tung-se-ri-lon-nguoc-dong-danh-bai-nha-vo-dich-pba-185251123204609936.htm",
+      "summary": "Cơ thủ Việt Nam Mã Minh Cẩm cùng đồng đội đã thi đấu xuất sắc và tung sê-ri đúng lúc, qua đó đánh bại đối thủ mạnh và giúp đội NH Pay giành chiến thắng chung cuộc trước đội SK Direct.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:48:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977401+07:00"
+    },
+    {
+      "id": "008cc90d1d78a043fbfcde3fcf920ca6",
+      "title": "Verstappen về nhất khi McLaren bị hủy kết quả vì phạm quy",
+      "link": "https://vnexpress.net/verstappen-ve-nhat-khi-mclaren-bi-huy-ket-qua-vi-pham-quy-4985228.html",
+      "summary": "Max Verstappen về nhất và cải thiện cơ hội bảo vệ ngôi vô địch, khi hai tay đua của McLaren đều bị hủy kết quả thi đấu tại Grand Prix Las Vegas ngày 23/11 do phạm quy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T13:43:13+07:00",
+      "fetched": "2025-11-23T21:14:26.391745+07:00"
+    },
+    {
+      "id": "9d885aa3769fa2057e1cdee79eef0f7c",
+      "title": "Thủ tướng nêu 3 ưu tiên chiến lược tại hội nghị thượng đỉnh G20",
+      "link": "https://vnexpress.net/thu-tuong-neu-3-uu-tien-chien-luoc-tai-hoi-nghi-thuong-dinh-g20-4985222.html",
+      "summary": "Thủ tướng Phạm Minh Chính phát biểu tại hội nghị G20, nêu các ưu tiên chiến lược để góp phần tạo ra tương lai công bằng, bình đẳng và công lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T13:42:34+07:00",
+      "fetched": "2025-11-23T21:14:20.679791+07:00"
+    },
+    {
+      "id": "81d42037a1cd1f79045b92db5e7a209a",
+      "title": "Dòng người ở TP.HCM chở hàng hàng hóa ủng hộ đồng bào vùng lũ",
+      "link": "https://thanhnien.vn/dong-nguoi-o-tphcm-cho-hang-hang-hoa-ung-ho-dong-bao-vung-lu-185251123170553653.htm",
+      "summary": "Với tinh thần “tương thân tương ái” những ngày qua, rất nhiều người dân TP.HCM đã chung tay ủng hộ cả về vật chất lẫn tinh thần cho đồng bào vùng bão lũ miền Trung. Tại Trung tâm Công tác xã hội TP.HCM, một trong những địa điểm tiếp nhận hàng cứu trợ, dòng người đến ủng hộ không ngớt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:41:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977534+07:00"
+    },
+    {
+      "id": "9d1503287ecb72270902241334216b4e",
+      "title": "Ga metro TP.HCM nhận 180 tấn hàng cứu trợ, đêm nay ưu tiên: sữa, bánh, chăn, tã",
+      "link": "https://thanhnien.vn/ga-metro-tphcm-nhan-180-tan-hang-cuu-tro-dem-nay-uu-tien-sua-banh-chan-ta-185251123200636998.htm",
+      "summary": "Tính đến chiều 23.11, các nhà ga metro TP.HCM đã nhận hơn 180 tấn hàng cứu trợ các loại như nhu yếu phẩm, quần áo, chăn mền, áo phao, thuốc men... và dự tính số lượng sẽ tăng thêm khi người dân đang đem đến trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:40:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977660+07:00"
+    },
+    {
+      "id": "b1e46bc081cccaef5a3f03f08e820183",
+      "title": "Nhóm bạn trẻ túc trực đêm vì miền Trung: ‘bệnh thì uống thuốc, miễn giúp bà con’",
+      "link": "https://thanhnien.vn/nhom-ban-tre-tuc-truc-dem-vi-mien-trung-benh-thi-uong-thuoc-mien-giup-ba-con-185251123130907534.htm",
+      "summary": "Hàng cứu trợ từ TP.HCM đang được tập kết, phân loại và chuẩn bị gửi đến các tỉnh miền Trung, hỗ trợ người dân trong mùa mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:40:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977796+07:00"
+    },
+    {
+      "id": "734dce5f101d05c0ecc2af448d29fbf1",
+      "title": "Ông bà U70 hào hứng đến nhà văn hóa nhận giấy chứng nhận đăng ký kết hôn",
+      "link": "https://thanhnien.vn/ong-ba-u70-hao-hung-den-nha-van-hoa-nhan-giay-chung-nhan-dang-ky-ket-hon-185251123184352149.htm",
+      "summary": "2 ông bà U70 hào hứng đến nhà văn hóa nhận giấy chứng nhận đăng ký kết hôn và bất ngờ hơn nữa khi được nhận hoa, quà chúc mừng từ chính quyền địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:39:00+07:00",
+      "fetched": "2025-11-23T21:14:17.977923+07:00"
+    },
+    {
+      "id": "6bb2b40e77e0808a45b07193bd975035",
+      "title": "Hỏa hoạn lúc sáng sớm, người dân nỗ lực giúp chủ cơ sở di dời tài sản",
+      "link": "https://thanhnien.vn/hoa-hoan-luc-sang-som-nguoi-dan-no-luc-giup-chu-co-so-di-doi-tai-san-185251123174825965.htm",
+      "summary": "Một vụ hỏa hoạn vừa xảy ra trên đường HT44 (TP.HCM) khiến một cơ sở làm loa thùng và một cơ sở làm dịch vụ đóng gói hàng hóa bị cháy, thiêu rụi nhiều tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:39:00+07:00",
+      "fetched": "2025-11-23T21:14:17.978049+07:00"
+    },
+    {
+      "id": "2c76bf81fab670b12b9684c7a12992f8",
+      "title": "Miền Trung hứng chịu trận lũ lịch sử đi ngược quy luật, hiếm gặp trong 50 năm",
+      "link": "https://thanhnien.vn/mien-trung-hung-chiu-tran-lu-lich-su-di-nguoc-quy-luat-hiem-gap-trong-50-nam-185251123202830741.htm",
+      "summary": "Chuyên gia khí tượng nhận định, trận lũ lịch sử ở miền Trung trong những ngày qua cực kỳ hiếm, gần như chưa từng xuất hiện trong hơn 50 năm quan trắc và không thuộc 'mức lũ tính toán thông thường'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:28:00+07:00",
+      "fetched": "2025-11-23T21:14:17.978172+07:00"
+    },
+    {
+      "id": "e57a7e83e28178be34ffa1061dd8473f",
+      "title": "Đồng Nai: Lập biên bản người đưa tin thất thiệt 'lũ lụt làm ngập cầu Hóa An'",
+      "link": "https://thanhnien.vn/dong-nai-lap-bien-ban-nguoi-dua-tin-that-thiet-lu-lut-lam-ngap-cau-hoa-an-185251123195858215.htm",
+      "summary": "Đưa tin thất thiệt 'lũ lụt làm ngập cầu Hóa An', nam thanh niên 29 tuổi được công an mời làm việc, lập biên bản vi phạm hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:28:00+07:00",
+      "fetched": "2025-11-23T21:14:17.978296+07:00"
+    },
+    {
+      "id": "05f3d80954a51f62ad699057643dc781",
+      "title": "Khánh Hòa hỗ trợ 60 triệu đồng/hộ bị sập nhà",
+      "link": "https://thanhnien.vn/khanh-hoa-ho-tro-60-trieu-dong-ho-bi-sap-nha-185251123194309833.htm",
+      "summary": "Trong bối cảnh mưa lũ gây thiệt hại nặng nề trên địa bàn, tỉnh Khánh Hòa sẽ hỗ trợ 60 triệu đồng cho hộ có nhà bị đổ sập hoàn toàn; 30 triệu đồng cho hộ bị ngập, sập một phần; 1 triệu đồng/người và 500.000 đồng/học sinh bị ảnh hưởng do mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:25:00+07:00",
+      "fetched": "2025-11-23T21:14:17.978422+07:00"
+    },
+    {
       "id": "17c04b5cc40c00f7293c9c58b5f4e4ef",
       "title": "Từ Nam Phi, Thủ tướng họp trực tuyến chỉ đạo ứng phó mưa lũ",
       "link": "https://tuoitre.vn/tu-nam-phi-thu-tuong-hop-truc-tuyen-chi-dao-ung-pho-mua-lu-20251123101404847.htm",
@@ -601,6 +771,126 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T13:24:17.276143+07:00",
       "fetched": "2025-11-23T13:24:17.276374+07:00"
+    },
+    {
+      "id": "6eb4cd25fbcb055e328f3829212dc552",
+      "title": "Xã Sơn Hòa đầu nguồn sông Ba Hạ ở Phú Yên cũ tan hoang sau lũ dữ",
+      "link": "https://thanhnien.vn/mot-noi-o-phu-yen-cu-tan-hoang-sau-lu-rat-it-doan-thien-nguyen-den-185251123195727674.htm",
+      "summary": "Nằm ở đầu nguồn sông Ba Hạ, xã miền núi Sơn Hòa (Phú Yên cũ, nay thuộc Đắk Lắk) phải hứng chịu sức tàn phá khủng khiếp của cơn lũ lịch sử. Nhiều ngôi nhà bị sập hoàn toàn, đẩy người dân vào cảnh trắng tay và tuyệt vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:18:00+07:00",
+      "fetched": "2025-11-23T21:14:17.978549+07:00"
+    },
+    {
+      "id": "a4317dfa1c865408f2897e169d7fd783",
+      "title": "Nước nào 'ôm trọn' hai quốc gia khác?",
+      "link": "https://vnexpress.net/nuoc-nao-om-tron-hai-quoc-gia-khac-4984674.html",
+      "summary": "Đây là quốc gia duy nhất trên thế giới \"ôm trọn\" hai đất nước khác trong lãnh thổ của mình. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:00:00+07:00",
+      "fetched": "2025-11-23T21:14:14.967667+07:00"
+    },
+    {
+      "id": "227a287b01ec25ab2383a70c79c96ca9",
+      "title": "Tìm người phụ nữ chín chắn và tử tế",
+      "link": "https://vnexpress.net/tim-nguoi-phu-nu-chin-chan-va-tu-te-4983866.html",
+      "summary": "Nếu bạn biết thiền, tập yoga và biết chơi nhạc thì càng tuyệt, vì đó cũng là những điều mình yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:00:00+07:00",
+      "fetched": "2025-11-23T21:14:14.967781+07:00"
+    },
+    {
+      "id": "8c64b143480026eb9d9aebf7e87204b3",
+      "title": "Apple bán phụ kiện cầm iPhone giá 70 USD",
+      "link": "https://vnexpress.net/apple-ban-phu-kien-cam-iphone-gia-70-usd-4978563.html",
+      "summary": "Phụ kiện giá đỡ kiêm báng cầm iPhone Hikawa được Apple bán với giá 70 USD (khoảng 1,8 triệu đồng), có thể dựng điện thoại nhiều hướng, cháy hàng sau một ngày ra mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T13:00:00+07:00",
+      "fetched": "2025-11-23T21:14:14.967924+07:00"
+    },
+    {
+      "id": "8c64b143480026eb9d9aebf7e87204b3",
+      "title": "Apple bán phụ kiện cầm iPhone giá 70 USD",
+      "link": "https://vnexpress.net/apple-ban-phu-kien-cam-iphone-gia-70-usd-4978563.html",
+      "summary": "Phụ kiện giá đỡ kiêm báng cầm iPhone Hikawa được Apple bán với giá 70 USD (khoảng 1,8 triệu đồng), có thể dựng điện thoại nhiều hướng, cháy hàng sau một ngày ra mắt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-23T13:00:00+07:00",
+      "fetched": "2025-11-23T21:14:24.641860+07:00"
+    },
+    {
+      "id": "e6c284ae33ef078ae83f663a5769b86c",
+      "title": "Khách đổ đến thử món ngon tại Liên hoan Ẩm thực Quốc tế",
+      "link": "https://vnexpress.net/khach-do-den-thu-mon-ngon-tai-lien-hoan-am-thuc-quoc-te-4982755.html",
+      "summary": "Liên hoan Ẩm thực Quốc tế 2025 diễn ra ngày 22-23/11, quy tụ hơn 120 gian hàng từ nhiều quốc gia, thu hút đông đảo người dân và du khách tham quan, trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T12:59:49+07:00",
+      "fetched": "2025-11-23T21:14:14.968062+07:00"
+    },
+    {
+      "id": "c48cf8b56bffe4bf75f1833329484485",
+      "title": "Lý Huynh thất bại khi đánh đôi cùng kỳ nữ Trung Quốc",
+      "link": "https://vnexpress.net/ly-huynh-that-bai-khi-danh-doi-cung-ky-nu-trung-quoc-4985223.html",
+      "summary": "Đương kim vô địch thế giới Lại Lý Huynh và kỳ thủ Lang Kỳ Kỳ chỉ đứng thứ tám chung cuộc tại Cup cờ đôi Cẩm Giang 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T12:45:25+07:00",
+      "fetched": "2025-11-23T21:14:14.968193+07:00"
+    },
+    {
+      "id": "c48cf8b56bffe4bf75f1833329484485",
+      "title": "Lý Huynh thất bại khi đánh đôi cùng kỳ nữ Trung Quốc",
+      "link": "https://vnexpress.net/ly-huynh-that-bai-khi-danh-doi-cung-ky-nu-trung-quoc-4985223.html",
+      "summary": "Đương kim vô địch thế giới Lại Lý Huynh và kỳ thủ Lang Kỳ Kỳ chỉ đứng thứ tám chung cuộc tại Cup cờ đôi Cẩm Giang 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T12:45:25+07:00",
+      "fetched": "2025-11-23T21:14:26.392179+07:00"
+    },
+    {
+      "id": "75bffd69a2dae568d29ad6b1ca593fb2",
+      "title": "Ngoại trưởng Trung Quốc chỉ trích Nhật Bản 'vượt lằn ranh đỏ'",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-chi-trich-nhat-ban-vuot-lan-ranh-do-4985002.html",
+      "summary": "Ngoại trưởng Trung Quốc nói Nhật Bản đang \"vượt lằn ranh đỏ không được chạm tới\", liên quan phát biểu của Thủ tướng Takaichi về vấn đề đảo Đài Loan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T12:44:42+07:00",
+      "fetched": "2025-11-23T21:14:14.968327+07:00"
+    },
+    {
+      "id": "75bffd69a2dae568d29ad6b1ca593fb2",
+      "title": "Ngoại trưởng Trung Quốc chỉ trích Nhật Bản 'vượt lằn ranh đỏ'",
+      "link": "https://vnexpress.net/ngoai-truong-trung-quoc-chi-trich-nhat-ban-vuot-lan-ranh-do-4985002.html",
+      "summary": "Ngoại trưởng Trung Quốc nói Nhật Bản đang \"vượt lằn ranh đỏ không được chạm tới\", liên quan phát biểu của Thủ tướng Takaichi về vấn đề đảo Đài Loan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T12:44:42+07:00",
+      "fetched": "2025-11-23T21:14:20.679945+07:00"
+    },
+    {
+      "id": "0ab756dbb31e528c37ce3b261c69c5fc",
+      "title": "Hỗ trợ 30-60 triệu đồng cho trường hợp nhà sập, hư hỏng do mưa lũ",
+      "link": "https://vnexpress.net/ho-tro-30-60-trieu-dong-cho-truong-hop-nha-sap-hu-hong-do-mua-lu-4985220.html",
+      "summary": "Tỉnh Khánh Hòa hỗ trợ mỗi gia đình có nhà bị sập hoàn toàn do mưa lũ 60 triệu đồng; nhà bị ngập, hư hỏng nặng là 30 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T12:40:38+07:00",
+      "fetched": "2025-11-23T21:14:14.968462+07:00"
+    },
+    {
+      "id": "cd2c5f5b2a71f861494b777be566a939",
+      "title": "8 học sinh đầu tiên giành học bổng toàn phần chính phủ New Zealand hệ đại học",
+      "link": "https://vnexpress.net/8-hoc-sinh-dau-tien-gianh-hoc-bong-toan-phan-chinh-phu-new-zealand-he-dai-hoc-4985221.html",
+      "summary": "Trong năm đầu tiên Chính phủ New Zealand trao học bổng hệ đại học (NZUA) dành riêng cho học sinh Việt Nam, 8 em trúng tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T12:25:49+07:00",
+      "fetched": "2025-11-23T21:14:14.968594+07:00"
     },
     {
       "id": "93e488ea643f81c522da9e136c3480be",
