@@ -1,7 +1,57 @@
 window.newsData_2025_11_24 = {
   "date": "2025-11-24",
-  "lastUpdated": "2025-11-24T03:18:43.726428+07:00",
+  "lastUpdated": "2025-11-24T05:16:09.476337+07:00",
   "articles": [
+    {
+      "id": "9aa3b97c172bef2b43f70ff7e2084040",
+      "title": "Nhiều tập đoàn dầu cọ Malaysia bỏ trồng cọ để 'nuôi' AI",
+      "link": "https://tuoitre.vn/nhieu-tap-doan-dau-co-malaysia-bo-trong-co-de-nuoi-ai-20251124003317614.htm",
+      "summary": "Làn sóng đầu tư AI thúc đẩy các tập đoàn dầu cọ Malaysia chuyển đất trồng sang xây trung tâm dữ liệu và năng lượng tái tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T05:16:00.034409+07:00",
+      "fetched": "2025-11-24T05:16:00.034524+07:00"
+    },
+    {
+      "id": "bb68d2e5263bafee9dda004eefc6a114",
+      "title": "'Bán không lợi nhuận, giảm giá' - sự trợ lực thiết thực cho vùng mưa lũ",
+      "link": "https://tuoitre.vn/ban-khong-loi-nhuan-giam-gia-su-tro-luc-thiet-thuc-cho-vung-mua-lu-20251123220950071.htm",
+      "summary": "Đang dấy lên phong trào bán hàng không lợi nhuận, giảm giá hết mức có thể để giúp người dân vùng mưa lũ sớm gượng dậy sau khó khăn, mất mát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T05:16:00.034280+07:00",
+      "fetched": "2025-11-24T05:16:00.034397+07:00"
+    },
+    {
+      "id": "09b2ab2784c25a40aa6cc558847b9fce",
+      "title": "Lịch thi đấu toàn bộ 16 trận đấu môn bóng đá nam SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-toan-bo-16-tran-dau-mon-bong-da-nam-sea-games-33-20251122230131446.htm",
+      "summary": "Môn bóng đá nam SEA Games 33 tại Thái Lan khởi tranh từ ngày 3-12, và khép lại bằng trận tranh HCV ngày 18-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T05:16:00.034147+07:00",
+      "fetched": "2025-11-24T05:16:00.034268+07:00"
+    },
+    {
+      "id": "77c67d74b456ca715e9fa542424de8fa",
+      "title": "Tin tức sáng 24-11: Cho ý kiến sửa cơ chế đặc thù cho TP.HCM; Quốc hội thảo luận dự Luật Báo chí",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-11-cho-y-kien-sua-co-che-dac-thu-cho-tp-hcm-quoc-hoi-thao-luan-du-luat-bao-chi-20251123224714283.htm",
+      "summary": "Tin tức đáng chú ý: Ủy ban Thường vụ Quốc hội cho ý kiến về sửa cơ chế, chính sách đặc thù phát triển TP.HCM; Quốc hội thảo luận dự Luật Báo chí sửa đổi; Khánh Hòa dành toàn bộ nguồn hỗ trợ từ trung ương và tỉnh bạn hỗ trợ trực tiếp cho dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T05:16:00.034002+07:00",
+      "fetched": "2025-11-24T05:16:00.034134+07:00"
+    },
+    {
+      "id": "73c18f4b5ce6132600aacbc1edaa21e0",
+      "title": "Sửa đổi Luật Báo chí: Cần chính sách đặc thù cho báo chí Hà Nội, TP.HCM",
+      "link": "https://tuoitre.vn/sua-doi-luat-bao-chi-can-chinh-sach-dac-thu-cho-bao-chi-ha-noi-tp-hcm-20251123231122649.htm",
+      "summary": "Theo chương trình kỳ họp, hôm nay (24-11) Quốc hội sẽ thảo luận tại hội trường về sửa đổi Luật Báo chí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T05:16:00.033729+07:00",
+      "fetched": "2025-11-24T05:16:00.033984+07:00"
+    },
     {
       "id": "f187771d0b275a910b97c073d0eafcc6",
       "title": "Xử lý thanh niên ở Đồng Nai tung tin giả cầu Hóa An bị ngập để ‘câu like’",
@@ -151,6 +201,166 @@ window.newsData_2025_11_24 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T01:22:45.447447+07:00",
       "fetched": "2025-11-24T01:22:45.447676+07:00"
+    },
+    {
+      "id": "96d111edb90869487d4873e0aed54527",
+      "title": "100.000 đồng của người phụ nữ buôn ve chai Huế: 'Gửi giúp bà con lụt trong nớ'",
+      "link": "https://thanhnien.vn/100000-dong-cua-nguoi-phu-nu-buon-ve-chai-hue-gui-giup-ba-con-lut-trong-no-185251123144254752.htm",
+      "summary": "Một người phụ nữ buôn ve chai ở Huế hớt hải đạp xe đến, áo quần còn ướt mưa. Chị vội dúi vào tay anh Thuận tờ 100.000 đồng nhàu nát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:12:00+07:00",
+      "fetched": "2025-11-24T05:15:59.029235+07:00"
+    },
+    {
+      "id": "b07f2500ee910b74aca0c3c8e6746b5d",
+      "title": "Báo Thanh Niên trao tận tay hàng cứu trợ đến người dân rốn lũ Hòa Xuân",
+      "link": "https://thanhnien.vn/bao-thanh-nien-trao-tan-tay-hang-cuu-tro-den-nguoi-dan-ron-lu-hoa-xuan-185251123232510665.htm",
+      "summary": "Chiều 23.11.2025, hàng cứu trợ Báo Thanh Niên đã được trao đến với người dân vùng rốn lũ xã Hòa Xuân, Đắk Lắk (trước đây là Đông Hòa, Phú Yên cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:11:00+07:00",
+      "fetched": "2025-11-24T05:15:59.029401+07:00"
+    },
+    {
+      "id": "ae93c8c033485f59a525d9ad853ec95a",
+      "title": "Cầu lông Việt Nam cạnh tranh khốc liệt ở SEA Games 33, Thùy Linh liệu có thể giành vàng?",
+      "link": "https://thanhnien.vn/cau-long-viet-nam-canh-tranh-khoc-liet-o-sea-games-33-thuy-linh-lieu-co-the-gianh-vang-185251123231545568.htm",
+      "summary": "Sở hữu tay vợt Nguyễn Thùy Linh hiện xếp hạng 21 thế giới, cầu lông VN hy vọng lần đầu chạm tay vào tấm HCV tại SEA Games 33 diễn ra vào tháng 12 tới ở Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:11:00+07:00",
+      "fetched": "2025-11-24T05:15:59.029556+07:00"
+    },
+    {
+      "id": "27a610c0bc0c9ec0ab4ec478472be944",
+      "title": "Bản tin sức khỏe 24.11: Bí quyết khỏe đẹp cho phụ nữ sau 40 | Tấm lòng thầy thuốc giữa mưa lũ Khánh Hòa",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-2411-bi-quyet-khoe-dep-cho-phu-nu-sau-40-tam-long-thay-thuoc-giua-mua-lu-khanh-hoa-185251124012923647.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.029710+07:00"
+    },
+    {
+      "id": "4940933d746f18c6f132c5cbe13cf1a0",
+      "title": "Ukraine trong thế lưỡng nan",
+      "link": "https://thanhnien.vn/ukraine-trong-the-luong-nan-185251123221938502.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky đang rơi vào thế bí trước sức ép từ Mỹ về việc phải chấp nhận một thỏa thuận hòa bình bị cho là bất lợi, trong khi còn nhiều khó khăn khác bủa vây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.029891+07:00"
+    },
+    {
+      "id": "b1fe4ec264817b985d7ec11bd7fca5db",
+      "title": "Báo động người trẻ Việt mắc bệnh tăng huyết áp ngày càng nhiều",
+      "link": "https://thanhnien.vn/bao-dong-nguoi-tre-viet-mac-benh-tang-huyet-ap-ngay-cang-nhieu-185251123143931072.htm",
+      "summary": "Bệnh tăng huyết áp tại Việt Nam tăng nhanh, nhiều người trẻ mắc bệnh; tỷ lệ phát hiện thấp và điều trị chưa tối ưu, nguy cơ gây nhiều biến chứng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030044+07:00"
+    },
+    {
+      "id": "5ee5cf1941c6026ed655e094835e549f",
+      "title": "Khách TP.HCM trúng 10 tỉ xổ số miền Nam: 'Ngày nào cũng kiên trì mua 20 tờ'",
+      "link": "https://thanhnien.vn/khach-tphcm-trung-10-ti-xo-so-mien-nam-ngay-nao-cung-kien-tri-mua-20-to-185251123143251212.htm",
+      "summary": "Một người đàn ông ở phường Thủ Đức, TP.HCM vừa trúng độc đắc 10 tỉ xổ số miền Nam ngày 22 tháng 11. Đại lý ở Vĩnh Long vượt quãng đường gần 150 km lên tận nơi đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T22:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030195+07:00"
+    },
+    {
+      "id": "fbf5e3a7c011803ca2061c0ec33d275a",
+      "title": "Rốn lũ Phú Yên cũ gượng dậy giữa đổ nát sau ngập lụt lịch sử",
+      "link": "https://thanhnien.vn/ron-lu-phu-yen-cu-guong-day-giua-do-nat-sau-ngap-lut-lich-su-185251123175958552.htm",
+      "summary": "Nước rút, 'rốn ngập' Phú Yên cũ (nay thuộc tỉnh Đắk Lắk) hiện ra hoang tàn: nhà cửa đổ sập, gia súc bị cuốn trôi, tài sản hư hỏng. Người dân cùng lực lượng địa phương đang khẩn trương dọn dẹp, gượng dậy từng chút để sớm ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:35:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030351+07:00"
+    },
+    {
+      "id": "687371e40f1ce58072f99ff577351d5b",
+      "title": "Thanh Niên và tôi: Thanh Niên mãi trong tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-mai-trong-toi-185251119235928828.htm",
+      "summary": "Là nhân viên thư viện của trường cấp ba, tôi phụ trách việc đặt báo, tạp chí cho cơ quan. Báo giấy Thanh Niên là lựa chọn đầu tiên của tôi bổ sung cho ấn phẩm tủ báo, tạp chí của thư viện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:32:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030505+07:00"
+    },
+    {
+      "id": "a7609f0293491828ecc3237620ed3264",
+      "title": "Chiến sự Ukraine ngày 1.369: Ông Trump lại trách Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1369-ong-trump-lai-trach-ukraine-18525112322010496.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã tỏ thái độ không hài lòng về khả năng Ukraine phản đối đề xuất hòa bình của Washington và cảnh báo Kyiv sẽ phải chiến đấu tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:30:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030655+07:00"
+    },
+    {
+      "id": "c2cb636de025b0b38583715105a5fc39",
+      "title": "Nâng ngưỡng chịu thuế hộ kinh doanh lên bao nhiêu?",
+      "link": "https://thanhnien.vn/nang-nguong-chiu-thue-ho-kinh-doanh-len-bao-nhieu-18525112323144135.htm",
+      "summary": "Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng cho biết sẽ tính lại ngưỡng chịu thuế đối với hộ kinh doanh. Vậy ngưỡng doanh thu tăng lên mức nào là hợp lý?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:11:00+07:00",
+      "fetched": "2025-11-24T05:15:59.030848+07:00"
+    },
+    {
+      "id": "5427a65421b941c26fbe609baa682039",
+      "title": "Ăn thế nào để tránh giảm cơ, tăng mỡ sau tuổi 40?",
+      "link": "https://thanhnien.vn/an-the-nao-de-tranh-giam-co-tang-mo-sau-tuoi-40-185251122133912628.htm",
+      "summary": "Sau tuổi 40, cơ thể trải qua 2 thay đổi sinh lý then chốt là giảm dần khối cơ và dễ tích mỡ hơn. Nguyên nhân chủ yếu do trao đổi chất cơ bản giảm và thay đổi hoóc môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:02:00+07:00",
+      "fetched": "2025-11-24T05:15:59.031002+07:00"
+    },
+    {
+      "id": "838366344559f23ee412689933843b76",
+      "title": "'Không có bông tuyết nào trong sạch' - truy tìm sự thật",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-woman-in-the-white-car-856",
+      "summary": "Trong \"Không có bông tuyết nào trong sạch\", cảnh sát Hyun Joo điều tra một vụ án giết người thông qua những lời khai dối trá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:00:00+07:00",
+      "fetched": "2025-11-24T05:15:55.466752+07:00"
+    },
+    {
+      "id": "7a9cf327cd15badd11591e3a0af61a95",
+      "title": "Cứu trợ vùng lũ: Chuyến đò tình người, qua bến biệt ly",
+      "link": "https://thanhnien.vn/cuu-tro-vung-lu-chuyen-do-tinh-nguoi-qua-ben-biet-ly-185251123232602318.htm",
+      "summary": "Trưa 23.11, trong lúc trao nhu yếu phẩm tại xã hòa xuân, đoàn cứu trợ của CLB Gieo hạt Từ bi Đà Nẵng nhận tin hai người dân ở thôn Thạch Tuân 1 đã tử vong do lũ cuốn, thi thể vẫn mắc kẹt giữa vùng nước sâu. Đoàn lập tức phối hợp lực lượng ca nô 74 Quảng Trị vượt lũ tiếp cận hiện trường, đưa nạn nhân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.031152+07:00"
+    },
+    {
+      "id": "3669fba576f8ef81d384db57ddea63a2",
+      "title": "Rau xanh tăng giá vùn vụt",
+      "link": "https://thanhnien.vn/rau-xanh-tang-gia-vun-vut-185251123204227473.htm",
+      "summary": "Do mưa bão kéo dài và giao thông ách tắc vì sạt lở, giá rau xanh tại chợ truyền thống ở TP.HCM tăng giá vùn vụt trong khi các hệ thống siêu thị đang nỗ lực cung ứng và kìm giữ giá thực phẩm thiết yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T21:00:00+07:00",
+      "fetched": "2025-11-24T05:15:59.031302+07:00"
+    },
+    {
+      "id": "ab15f4f3f127c3827a32cb05145b32cf",
+      "title": "Giáo dục sau bão lũ tìm giải pháp căn cơ",
+      "link": "https://thanhnien.vn/giao-duc-sau-bao-lu-tim-giai-phap-can-co-185251123192429099.htm",
+      "summary": "Giáo dục miền Trung đang đối mặt với hậu quả nặng nề sau hàng loạt cơn bão lũ: cơ sở vật chất hư hại, học sinh không thể đến lớp, mất sách vở, giáo viên cùng phụ huynh chịu áp lực lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T20:39:00+07:00",
+      "fetched": "2025-11-24T05:15:59.031453+07:00"
     },
     {
       "id": "77009201f4b075bb6a89ffa32e26a62b",
