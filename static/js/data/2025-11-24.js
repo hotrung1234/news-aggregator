@@ -1,7 +1,137 @@
 window.newsData_2025_11_24 = {
   "date": "2025-11-24",
-  "lastUpdated": "2025-11-24T19:37:00.410534+07:00",
+  "lastUpdated": "2025-11-24T21:17:56.226094+07:00",
   "articles": [
+    {
+      "id": "0fb4d66acfc798f1ad3b25a61fccf13e",
+      "title": "Bộ Giáo dục và Đào tạo cấp miễn phí toàn bộ sách giáo khoa cho học sinh vùng lũ",
+      "link": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-cap-mien-phi-toan-bo-sach-giao-khoa-cho-hoc-sinh-vung-lu-20251124180855374.htm",
+      "summary": "Theo Bộ Giáo dục và Đào tạo, khoảng 2.000 trường học ở Nam Trung Bộ và Tây Nguyên chịu thiệt hại do mưa lũ, ước tính gần 100 tỉ đồng. Bộ Giáo dục và Đào tạo sẽ tổ chức cấp phát miễn phí toàn bộ sách giáo khoa cho học sinh vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.788060+07:00",
+      "fetched": "2025-11-24T21:17:47.788174+07:00"
+    },
+    {
+      "id": "8849ad41a7e241b3d281f34f0f6668c0",
+      "title": "19 bến bãi tại TP.HCM sẽ có trụ sạc xe điện",
+      "link": "https://tuoitre.vn/19-ben-bai-tai-tp-hcm-se-co-tru-sac-xe-dien-20251124181426695.htm",
+      "summary": "Sở Xây dựng TP.HCM trình đề án lắp trụ sạc điện tại 19 bến, bãi xe buýt. Quyền khai thác tài sản được cho thuê 7 năm qua đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787936+07:00",
+      "fetched": "2025-11-24T21:17:47.788048+07:00"
+    },
+    {
+      "id": "98b61aa5043264b573ac19e8cccba5ec",
+      "title": "Đề xuất loạt chính sách đột phá để lập Khu thương mại tự do tại TP.HCM",
+      "link": "https://tuoitre.vn/de-xuat-loat-chinh-sach-dot-pha-de-lap-khu-thuong-mai-tu-do-tai-tp-hcm-20251124180250971.htm",
+      "summary": "Dự thảo nghị quyết đề xuất trao thẩm quyền cho UBND TP.HCM quyết định thành lập, mở rộng, điều chỉnh ranh giới Khu thương mại tự do, coi đây là quyết định điều chỉnh cục bộ quy hoạch chung thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787809+07:00",
+      "fetched": "2025-11-24T21:17:47.787924+07:00"
+    },
+    {
+      "id": "cab36466d2ab02f3c93d706aa7526ec9",
+      "title": "Bom 227kg phát lộ tại sông Bến Hải, 200 người dân được di dời khẩn cấp",
+      "link": "https://tuoitre.vn/bom-227kg-phat-lo-tai-song-ben-hai-200-nguoi-dan-duoc-di-doi-khan-cap-20251124182720646.htm",
+      "summary": "Một quả bom lớn còn sót lại sau chiến tranh vừa phát lộ trên sông Bến Hải (Quảng Trị), buộc 200 người dân phải di dời để đảm bảo an toàn trước khi hủy nổ tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787673+07:00",
+      "fetched": "2025-11-24T21:17:47.787798+07:00"
+    },
+    {
+      "id": "6121f75e67168232404c1481a8a8df6c",
+      "title": "Đội bóng nổi tiếng Thái Lan cầu cứu dân địa phương vì mưa lũ nặng nề",
+      "link": "https://tuoitre.vn/doi-bong-noi-tieng-thai-lan-cau-cuu-dan-dia-phuong-vi-mua-lu-nang-ne-20251124180358472.htm",
+      "summary": "Đội bóng Thái Lan Songkhla FC phải lên tiếng cầu cứu, xin người dân cho mượn thuyền ghe để ra khỏi vùng nước dâng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787520+07:00",
+      "fetched": "2025-11-24T21:17:47.787659+07:00"
+    },
+    {
+      "id": "e453a46ae1d095c9f1467d97e133031c",
+      "title": "Tổng thống Philippines bác cáo buộc dùng ma túy từ chị gái: 'Người đó không phải là chị tôi'",
+      "link": "https://tuoitre.vn/tong-thong-philippines-bac-cao-buoc-dung-ma-tuy-tu-chi-gai-nguoi-do-khong-phai-la-chi-toi-20251124183931935.htm",
+      "summary": "Ông Marcos Jr. bác bỏ cáo buộc sử dụng ma túy từ chính chị gái mình, và bày tỏ lo ngại về tình hình sức khỏe của bà Imee Marcos.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787394+07:00",
+      "fetched": "2025-11-24T21:17:47.787509+07:00"
+    },
+    {
+      "id": "7968f4600f05385a6422984a91fa03b9",
+      "title": "Mitsubishi Destinator 'cháy hàng' trước khi về Việt Nam: Kỳ vọng lặp lại điều tương tự khi về nước",
+      "link": "https://tuoitre.vn/mitsubishi-destinator-chay-hang-truoc-khi-ve-viet-nam-ky-vong-lap-lai-dieu-tuong-tu-khi-ve-nuoc-20251124164728418.htm",
+      "summary": "Người tiêu dùng Indonesia đón nhận Mitsubishi Destinator với tốc độ nhanh chóng, khiến hãng xe Nhật Bản bất ngờ trước lượng đơn đặt hàng vượt xa kỳ vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787266+07:00",
+      "fetched": "2025-11-24T21:17:47.787382+07:00"
+    },
+    {
+      "id": "dee4dccad70c58b5974bee33b9df27b8",
+      "title": "Bệnh nhân chưa kịp khám bệnh thì ngưng tim, cả chục y bác sĩ xúm vào giành lại sự sống",
+      "link": "https://tuoitre.vn/benh-nhan-chua-kip-kham-benh-thi-ngung-tim-ca-chuc-y-bac-si-xum-vao-gianh-lai-su-song-20251124182655093.htm",
+      "summary": "Được người nhà đưa vào Bệnh viện Hữu nghị Quảng Bình (phường Đồng Hới, Quảng Trị) khám bệnh vì đau vùng thượng vị, bất ngờ bệnh nhân ngã vật tím tái ngưng tim. Hơn 10 y bác sĩ đã cùng giành lại sự sống cho bệnh nhân trong gang tấc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.787117+07:00",
+      "fetched": "2025-11-24T21:17:47.787249+07:00"
+    },
+    {
+      "id": "d7b98d357e096d36b65060ebf82d9057",
+      "title": "Thương lắm trẻ mầm non gói từng đôi dép 'còn dùng tốt' gửi bạn vùng lũ",
+      "link": "https://tuoitre.vn/thuong-lam-tre-mam-non-goi-tung-doi-dep-con-dung-tot-gui-ban-vung-lu-20251124163456096.htm",
+      "summary": "Những đôi dép, chiếc áo... nhỏ xíu, cũ mà vẫn còn tốt được cô trò Trường mầm non Ngọc Lan (Đà Nẵng) nâng niu làm sạch, gói ghém gửi về vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.786970+07:00",
+      "fetched": "2025-11-24T21:17:47.787099+07:00"
+    },
+    {
+      "id": "15fa318831e1a022da714f0fe23489e2",
+      "title": "TP.HCM lên kế hoạch đấu giá 7 lô đất ở Thủ Thiêm, trong đó có 3 lô từng bỏ 'cọc'",
+      "link": "https://tuoitre.vn/tp-hcm-len-ke-hoach-dau-gia-7-lo-dat-o-thu-thiem-trong-do-co-3-lo-tung-bo-coc-20251124183710583.htm",
+      "summary": "UBND TP.HCM giao các đơn vị, sở ngành liên quan lên kế hoạch chi tiết để đấu giá 7 lô đất ở Thủ Thiêm trong năm 2026, trong đó có 3 lô đã từng đấu giá thành nhưng bỏ 'cọc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.786838+07:00",
+      "fetched": "2025-11-24T21:17:47.786958+07:00"
+    },
+    {
+      "id": "852a1a9fa199ddb5ae498781061d93c9",
+      "title": "Hà Nội lại ra quân giành vỉa hè cho người đi bộ, tuyến phố Hàng Mã bị tháo hàng loạt mái che",
+      "link": "https://tuoitre.vn/ha-noi-lai-ra-quan-gianh-via-he-cho-nguoi-di-bo-tuyen-pho-hang-ma-bi-thao-hang-loat-mai-che-20251124182455987.htm",
+      "summary": "Ghi nhận của Tuổi Trẻ Online ngày 24-11, tại nhiều tuyến phố thuộc phường Hoàn Kiếm (Hà Nội), lực lượng chức năng đang tiến hành tháo dỡ mái che lấn chiếm, quyết giành lại vỉa hè cho người đi bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.786698+07:00",
+      "fetched": "2025-11-24T21:17:47.786825+07:00"
+    },
+    {
+      "id": "99b68ea98a7953ae3db0dc4332aa596d",
+      "title": "Thủ tướng Phạm Minh Chính: Sớm có nghị quyết khắc phục hậu quả thiên tai, phục hồi sản xuất",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-som-co-nghi-quyet-khac-phuc-hau-qua-thien-tai-phuc-hoi-san-xuat-2025112419072993.htm",
+      "summary": "Với tinh thần tương thân, tương ái, \"lá lành đùm lá rách\", cuối buổi chiều ngày 24-11, Thủ tướng Phạm Minh Chính cùng lãnh đạo Chính phủ và tập thể Văn phòng Chính phủ đã ủng hộ đồng bào bị thiệt hại do bão lũ gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.786530+07:00",
+      "fetched": "2025-11-24T21:17:47.786684+07:00"
+    },
+    {
+      "id": "2e085926db7e0b59f0e59df60263cda6",
+      "title": "Khi nào ngôi sao Thanh Thúy hội quân cùng bóng chuyền nữ Việt Nam?",
+      "link": "https://tuoitre.vn/khi-nao-ngoi-sao-thanh-thuy-hoi-quan-cung-bong-chuyen-nu-viet-nam-20251124185601661.htm",
+      "summary": "Do đang bận thi đấu tại Nhật Bản nên đội trưởng Trần Thị Thanh Thúy không thể tham gia tập huấn cùng tuyển bóng chuyền nữ Việt Nam chuẩn bị cho SEA Games.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:17:47.786281+07:00",
+      "fetched": "2025-11-24T21:17:47.786515+07:00"
+    },
     {
       "id": "c8c9c5ac717307e42b727cfcbbcfc241",
       "title": "Đại biểu Quốc hội đề xuất thu phí đọc báo để phát triển kinh tế báo chí",
@@ -313,6 +443,66 @@ window.newsData_2025_11_24 = {
       "fetched": "2025-11-24T15:25:18.436169+07:00"
     },
     {
+      "id": "fd082f9a1a7bcde356d982ce4cc11b9a",
+      "title": "Highlight U.17 Malaysia 1-0 U.17 Hồng Kông (Trung Quốc): Chiến thắng nhẹ nhàng",
+      "link": "https://thanhnien.vn/highlight-u17-malaysia-1-0-u17-hong-kong-trung-quoc-chien-thang-nhe-nhang-185251124211138883.htm",
+      "summary": "U.17 Malaysia giành chiến thắng tối thiểu 1-0 trước U.17 Hồng Kông (Trung Quốc) trong khuôn khổ vòng loại U.17 Asian Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:11:00+07:00",
+      "fetched": "2025-11-24T21:17:46.388755+07:00"
+    },
+    {
+      "id": "769028ce92eb568d7e32c1e6e7efdc72",
+      "title": "Bảng xếp hạng U.17 châu Á mới nhất: U.17 Việt Nam qua mặt Malaysia, chiếm ngôi đầu ngoạn mục",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-chau-a-moi-nhat-u17-viet-nam-qua-mat-u17-malaysia-185251124203301234.htm",
+      "summary": "Giành chiến thắng đậm đà 14-0 trước U.17 Quần đảo Bắc Mariana, U.17 Việt Nam chiếm ngôi đầu bảng C, vòng loại giải U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:06:00+07:00",
+      "fetched": "2025-11-24T21:17:46.388931+07:00"
+    },
+    {
+      "id": "98221385fe2ebbcc20aa205e57301442",
+      "title": "FAM đối mặt rủi ro lớn hơn nếu 4 quốc gia tìm thấy bằng chứng gian dối giấy tờ",
+      "link": "https://thanhnien.vn/fam-doi-mat-rui-ro-lon-hon-neu-4-quoc-gia-tim-thay-bang-chung-gian-doi-giay-to-185251124204744944.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đang đối mặt với nguy cơ lớn hơn nếu các quốc gia khác xác nhận sự gian lận tài liệu liên quan đến các cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:05:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389090+07:00"
+    },
+    {
+      "id": "cd47b8fa6736276207153f9f03ca6abf",
+      "title": "Cựu quan chức tố FAM được vận hành bằng ‘cuốn sách chiến lược bí mật’",
+      "link": "https://thanhnien.vn/cuu-quan-chuc-to-fam-duoc-van-hanh-bang-cuon-sach-chien-luoc-bi-mat-185251124204446979.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đang đối mặt với những chỉ trích gay gắt từ các cựu quan chức khi bị cáo buộc điều hành bóng đá quốc gia bằng một bộ quy định bí mật chưa công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:05:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389245+07:00"
+    },
+    {
+      "id": "1243286904eecc8cc96d588dffc71b0e",
+      "title": "Nhật Bản tái khẳng định sẽ triển khai tên lửa đến đảo gần Đài Loan",
+      "link": "https://thanhnien.vn/nhat-ban-tai-khang-dinh-se-trien-khai-ten-lua-den-dao-gan-dai-loan-185251124181048284.htm",
+      "summary": "Kết thúc chuyến thăm căn cứ quân sự trên đảo Yonaguni hôm 23.11, Bộ trưởng Quốc phòng Nhật Bản Shinjiro Koizumi cho biết kế hoạch triển khai tên lửa đến hòn đảo này đang diễn ra đúng tiến độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:00:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389407+07:00"
+    },
+    {
+      "id": "2b7083a85077971ac331cfd27b6515e5",
+      "title": "Có những quy định nào về chở trẻ em trên xe máy?",
+      "link": "https://thanhnien.vn/co-nhung-quy-dinh-nao-ve-cho-tre-em-tren-xe-may-1852511221332117.htm",
+      "summary": "Xe máy là phương tiện chính của đa số người dân Việt Nam nhưng các quy định về chở trẻ em trên loại phương tiện này thì không phải ai cũng nắm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:46:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389558+07:00"
+    },
+    {
       "id": "8195bdbdb9e2614b55be157775b7c936",
       "title": "Lẻn vào nhà khống chế cướp tiền bất thành, nghi phạm đầu thú sau 3 giờ gây án",
       "link": "https://tuoitre.vn/len-vao-nha-khong-che-cuop-tien-bat-thanh-nghi-pham-dau-thu-sau-3-gio-gay-an-20251124111935255.htm",
@@ -461,6 +651,176 @@ window.newsData_2025_11_24 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T13:27:27.720974+07:00",
       "fetched": "2025-11-24T13:27:27.721180+07:00"
+    },
+    {
+      "id": "d6ef4dc4e853c869a5ec63e3fd472e93",
+      "title": "Việt Nam ghi dấu ấn tại Hội đồng Điền kinh châu Á lần thứ 105",
+      "link": "https://thanhnien.vn/viet-nam-ghi-dau-an-tai-hoi-dong-dien-kinh-chau-a-lan-thu-105-185251124201349112.htm",
+      "summary": "Hội đồng Điền kinh châu Á đánh giá cao sự chuẩn bị và cam kết của Việt Nam đối với sự phát triển của môn điền kinh, qua đó tạo thêm động lực để nâng tầm vị thế của thể thao nước nhà trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:25:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389757+07:00"
+    },
+    {
+      "id": "afb3a7a5dc0588f8e409e8a68cebf380",
+      "title": "Tuyến kè gần 100 tỉ đồng 'giảm sóng từ xa' bảo vệ đê biển Gành Hào",
+      "link": "https://thanhnien.vn/tuyen-ke-gan-100-ti-dong-giam-song-tu-xa-bao-ve-de-bien-ganh-hao-185251124181635681.htm",
+      "summary": "UBND tỉnh Cà Mau vừa phê duyệt dự án kè chống sạt lở bảo vệ đê biển Gành Hào, với vốn đầu tư gần 100 tỉ đồng thiết kế theo chuẩn giảm sóng từ xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:23:00+07:00",
+      "fetched": "2025-11-24T21:17:46.389917+07:00"
+    },
+    {
+      "id": "ff1e30acd562e6c9195d951b04941b53",
+      "title": "Kháng kháng sinh ngày càng phức tạp",
+      "link": "https://thanhnien.vn/khang-khang-sinh-ngay-cang-phuc-tap-185251124193037555.htm",
+      "summary": "Chủng vi khuẩn phế cầu gây bệnh hô hấp đang giảm đáng kể mức độ nhạy cảm với các kháng sinh thuộc nhóm cephalosporin thế hệ 2 và nhóm macrolide. Đây là dấu hiệu cảnh báo tình trạng kháng thuốc ngày càng phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:22:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390067+07:00"
+    },
+    {
+      "id": "20a68bdf76beab5f2f91a3af4af9066b",
+      "title": "Nội soi đại tràng có thể phát hiện những bệnh gì?",
+      "link": "https://vnexpress.net/noi-soi-dai-trang-co-the-phat-hien-nhung-benh-gi-4985566.html",
+      "summary": "Nội soi đại tràng có thể tầm soát và phát hiện sớm một số bệnh lý phổ biến như viêm loét đại tràng, chảy máu tiêu hóa, hội chứng ruột kích thích, polyp, ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:21:00+07:00",
+      "fetched": "2025-11-24T21:17:43.316654+07:00"
+    },
+    {
+      "id": "7679086b1e2f6c5a3bc0e62e50914be4",
+      "title": "Học sinh vùng lũ mượn từng đôi giấy chép bài, khẩn cấp xin sách vở mới",
+      "link": "https://thanhnien.vn/hoc-sinh-vung-lu-muon-tung-doi-giay-chep-bai-khan-cap-xin-sach-vo-moi-185251124183851823.htm",
+      "summary": "Sau trận lũ lịch sử quét qua các xã, phường phía đông tỉnh Đắk Lắk, nhiều trường học bị ngập sâu, hàng nghìn bộ sách vở của học sinh bị cuốn trôi hoặc ngâm nước hư hỏng hoàn toàn. Những ngày trở lại lớp, cảnh học sinh phải mượn vài tờ giấy của bạn để chép bài khiến thầy cô và phụ huynh không khỏi xó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:11:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390223+07:00"
+    },
+    {
+      "id": "fdf40283c433de9034425b65a01d09d7",
+      "title": "Núi lửa Ethiopia phun trào sau gần 12.000 năm",
+      "link": "https://vnexpress.net/nui-lua-ethiopia-phun-trao-sau-gan-12-000-nam-4985663.html",
+      "summary": "Một núi lửa ở vùng đông bắc Ethiopia phun trào sau gần 12.000 năm ngủ yên, tạo ra cột khói bụi khổng lồ cao tới 14 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:07:36+07:00",
+      "fetched": "2025-11-24T21:17:43.316869+07:00"
+    },
+    {
+      "id": "fdf40283c433de9034425b65a01d09d7",
+      "title": "Núi lửa Ethiopia phun trào sau gần 12.000 năm",
+      "link": "https://vnexpress.net/nui-lua-ethiopia-phun-trao-sau-gan-12-000-nam-4985663.html",
+      "summary": "Một núi lửa ở vùng đông bắc Ethiopia phun trào sau gần 12.000 năm ngủ yên, tạo ra cột khói bụi khổng lồ cao tới 14 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-24T13:07:36+07:00",
+      "fetched": "2025-11-24T21:17:49.528564+07:00"
+    },
+    {
+      "id": "fc9d5f1ab376de0d005209efed371e2b",
+      "title": "Thủ tướng và lãnh đạo Chính phủ ủng hộ đồng bào miền Trung",
+      "link": "https://thanhnien.vn/thu-tuong-va-lanh-dao-chinh-phu-ung-ho-dong-bao-mien-trung-185251124191003447.htm",
+      "summary": "Với tinh thần tương thân, tương ái, 'lá lành đùm lá rách', cuối chiều ngày 24.11, Thủ tướng Phạm Minh Chính cùng lãnh đạo Chính phủ, Văn phòng Chính phủ đã ủng hộ đồng bào bị thiệt hại do bão lũ gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:07:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390372+07:00"
+    },
+    {
+      "id": "690cab484ec82d4b2d3be00f006028d3",
+      "title": "U22 Việt Nam bắt đầu chinh phục SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-bat-dau-chinh-phuc-sea-games-33-4985667.html",
+      "summary": "Thầy trò HLV Kim Sang-sik hội quân hôm nay để chuẩn bị cho mục tiêu giành HC vàng SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:06:38+07:00",
+      "fetched": "2025-11-24T21:17:43.317041+07:00"
+    },
+    {
+      "id": "270a4449cf4855ceed9d4789fcc318a6",
+      "title": "U22 Việt Nam chuẩn bị cho chiến dịch SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-chuan-bi-cho-chien-dich-sea-games-33-4985667.html",
+      "summary": "Thầy trò HLV Kim Sang-sik hội quân hôm nay để chuẩn bị cho mục tiêu giành HC vàng SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T13:06:38+07:00",
+      "fetched": "2025-11-24T21:17:56.212984+07:00"
+    },
+    {
+      "id": "10ab2bb217bcd260b2e2325a61a5244a",
+      "title": "Các cựu 'nhà leo núi' tái xuất trong gameshow mới 'Đấu trường thông thái'",
+      "link": "https://thanhnien.vn/cac-cuu-nha-leo-nui-tai-xuat-trong-gameshow-moi-dau-truong-thong-thai-185251124190945041.htm",
+      "summary": "Lấy cảm hứng từ thói quen xem video ngắn của giới trẻ, 'Đấu trường thông thái' với slogan 'xem 1 biết 10' là gameshow trí tuệ hoàn toàn mới của VTV3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:06:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390540+07:00"
+    },
+    {
+      "id": "0d50a94e869a16b2ba6b670cac0d3c82",
+      "title": "Thủy điện Đồng Nai 5 phản hồi khi xã nói 'không nhận được thông báo xả lũ'",
+      "link": "https://thanhnien.vn/thuy-dien-dong-nai-5-phan-hoi-khi-xa-noi-khong-nhan-duoc-thong-bao-xa-lu-185251124193921279.htm",
+      "summary": "Ngày 24.11, liên quan bài viết Đồng Nai: Thủy điện xả tràn không báo trước gây ngập lụt, thiệt hại 40 tỉ đồng, ông Trần Thanh Hải, Phó giám đốc Công ty thủy điện Đồng Nai 5 - TKV, đã có những thông tin phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390705+07:00"
+    },
+    {
+      "id": "a57e7b84bbff644f988dbf90b2e65c40",
+      "title": "Phát hiện thi thể người nước ngoài trên cao tốc Trung Lương - Mỹ Thuận",
+      "link": "https://thanhnien.vn/phat-hien-thi-the-nguoi-nuoc-ngoai-tren-cao-toc-trung-luong-my-thuan-185251124192531295.htm",
+      "summary": "Công an tỉnh Đồng Tháp đang tiến hành điều tra, làm rõ vụ phát hiện thi thể một người nước ngoài trên cao tốc Trung Lương - Mỹ Thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:17:46.390858+07:00"
+    },
+    {
+      "id": "9e125e26eb8964dbc9184b37a4e2d390",
+      "title": "Chính phủ đề xuất lập Khu thương mại tự do TP.HCM",
+      "link": "https://thanhnien.vn/chinh-phu-de-xuat-lap-khu-thuong-mai-tu-do-tphcm-185251124184645425.htm",
+      "summary": "Chính phủ đề xuất thành lập Khu thương mại tự do TP.HCM nhằm tạo không gian thể chế đặc thù, vượt trội, tương tự Hải Phòng và Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:17:46.391006+07:00"
+    },
+    {
+      "id": "eb580290f1996888368cb67e9b7392db",
+      "title": "Rodríguez 'lột xác' phong cách qua 9 năm yêu Ronaldo",
+      "link": "https://vnexpress.net/rodriguez-lot-xac-phong-cach-qua-9-nam-yeu-ronaldo-4985455.html",
+      "summary": "Người mẫu Georgina Rodríguez được nhận xét ngày càng mặc sành điệu kể từ hồi đầu hẹn hò siêu sao Ronaldo tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:00:00+07:00",
+      "fetched": "2025-11-24T21:17:43.317219+07:00"
+    },
+    {
+      "id": "1a6df33a8b734bd405622e288f58d382",
+      "title": "'Người hùng' cứu cả thôn thoát chết",
+      "link": "https://vnexpress.net/nguoi-hung-cuu-ca-thon-thoat-chet-4985672.html",
+      "summary": "Mỗi người một ghe, anh Trần Phú cùng hai người đàn ông trong thôn Mỹ Điền bơi đến từng nhà, dỡ ngói cứu hàng chục cụ già, trẻ nhỏ mắc kẹt trong lũ, quyết không để ai bị bỏ lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:40:46+07:00",
+      "fetched": "2025-11-24T21:17:43.317385+07:00"
+    },
+    {
+      "id": "a701c493003d16174c55a3e8ded919a6",
+      "title": "Camera ghi cảnh nam thanh niên cướp vàng, bỏ chạy",
+      "link": "https://vnexpress.net/camera-ghi-canh-nam-thanh-nien-cuop-vang-bo-chay-4985661.html",
+      "summary": "Nam thanh niên vào tiệm vàng ở xã Châu Thành lúc vắng khách hỏi mua dây chuyền, bất ngờ cầm vàng bỏ chạy ra ngoài lên xe tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:36:09+07:00",
+      "fetched": "2025-11-24T21:17:43.317548+07:00"
     },
     {
       "id": "bd8f37a08bf425b6b6358986f4a62d5e",
@@ -1501,6 +1861,16 @@ window.newsData_2025_11_24 = {
       "category": "Kinh doanh",
       "published": "2025-11-24T09:10:15+07:00",
       "fetched": "2025-11-24T17:20:16.310748+07:00"
+    },
+    {
+      "id": "6b0b6d72262e74d15e678bbbb2664a11",
+      "title": "Cổ phiếu VIC tăng giá, tài sản của gia đình ông Phạm Nhật Vượng ra sao?",
+      "link": "https://vnexpress.net/co-phieu-vic-tang-gia-tai-san-cua-gia-dinh-ong-pham-nhat-vuong-ra-sao-4985543.html",
+      "summary": "Ông Phạm Nhật Vượng vươn lên xếp thứ 101 trong danh sách người giàu của Forbes còn bà Phạm Thúy Hằng, em vợ ông, sở hữu khối tài sản tương đương hơn 1 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-24T09:10:15+07:00",
+      "fetched": "2025-11-24T21:17:51.005126+07:00"
     },
     {
       "id": "0a11643ad33558fc0855a347b62b3b85",
