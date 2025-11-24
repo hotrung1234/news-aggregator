@@ -1,6 +1,6 @@
 window.newsData_2025_11_25 = {
   "date": "2025-11-25",
-  "lastUpdated": "2025-11-25T01:26:43.559821+07:00",
+  "lastUpdated": "2025-11-25T03:20:18.426904+07:00",
   "articles": [
     {
       "id": "ee57e58083a4357aa27c8f8c9a4d4651",
@@ -153,6 +153,16 @@ window.newsData_2025_11_25 = {
       "fetched": "2025-11-25T01:26:37.508607+07:00"
     },
     {
+      "id": "77ac94bdba100714c2e28685735b6cad",
+      "title": "Kinh Bắc muốn đầu tư tổ hợp cảng biển, sân bay ở Hải Phòng",
+      "link": "https://vnexpress.net/kinh-bac-muon-dau-tu-to-hop-cang-bien-san-bay-o-hai-phong-4985496.html",
+      "summary": "Kinh Bắc và CTP Invest đề xuất hợp tác phát triển tổ hợp cảng biển, sân bay, logistic và công nghiệp tích hợp tại TP Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T19:00:00+07:00",
+      "fetched": "2025-11-25T03:20:04.319853+07:00"
+    },
+    {
       "id": "0350cc18f16ad817228add5372198d11",
       "title": "Chiến thuật 'drone cắt hậu cần' uy hiếp loạt thành trì Ukraine",
       "link": "https://vnexpress.net/chien-thuat-drone-cat-hau-can-uy-hiep-loat-thanh-tri-ukraine-4969240.html",
@@ -161,6 +171,26 @@ window.newsData_2025_11_25 = {
       "category": "Thế giới",
       "published": "2025-11-24T18:00:00+07:00",
       "fetched": "2025-11-25T01:26:38.804326+07:00"
+    },
+    {
+      "id": "f7125566c21667149958db38cc84cfa8",
+      "title": "Hà Nội sắp đấu giá khu đất vàng ở phường Ba Đình từ 679 tỷ đồng",
+      "link": "https://vnexpress.net/ha-noi-sap-dau-gia-khu-dat-vang-o-phuong-ba-dinh-tu-679-ty-dong-4985708.html",
+      "summary": "Hà Nội sắp đấu giá khu đất 18 Cao Bá Quát, phường Ba Đình để làm khách sạn 5 sao, giá khởi điểm từ 679 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T18:00:00+07:00",
+      "fetched": "2025-11-25T03:20:04.320034+07:00"
+    },
+    {
+      "id": "904d31454a52a85adacc72021f6e3fd9",
+      "title": "Ba loại đồ uống âm thầm hại thận",
+      "link": "https://vnexpress.net/ba-loai-do-uong-am-tham-hai-than-4985350.html",
+      "summary": "Soda, nước tăng lực, đồ uống thể thao chứa các thành phần như axit photphoric, lượng đường cao, caffeine, chất tạo ngọt nhân tạo và oxalat, có thể âm thầm gây áp lực lên thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T18:00:00+07:00",
+      "fetched": "2025-11-25T03:20:04.320203+07:00"
     },
     {
       "id": "4b06564b712b662c703aa188a9b3239d",
