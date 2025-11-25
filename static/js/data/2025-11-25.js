@@ -1,7 +1,157 @@
 window.newsData_2025_11_25 = {
   "date": "2025-11-25",
-  "lastUpdated": "2025-11-25T08:19:02.816106+07:00",
+  "lastUpdated": "2025-11-25T10:12:44.303819+07:00",
   "articles": [
+    {
+      "id": "2f5a8c98abfcbef57f88bfb0a6208002",
+      "title": "Nhiệm vụ cấp bách, sửa nhà cho dân bị hư hại sau lũ",
+      "link": "https://tuoitre.vn/nhiem-vu-cap-bach-sua-nha-cho-dan-bi-hu-hai-sau-lu-20251125073234976.htm",
+      "summary": "Hàng trăm ngàn căn nhà ngâm trong lũ, cả ngàn căn nhà bị đổ sập hoặc hư hỏng nặng. Cấp thiết nhất lúc này tại Phú Yên cũ, Khánh Hòa... là dựng lại, xây lại những mái nhà đổ nát, hư hỏng cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.351326+07:00",
+      "fetched": "2025-11-25T10:12:38.351444+07:00"
+    },
+    {
+      "id": "87202327ae18d1d16d7fa94bfc2b8255",
+      "title": "Người dân vùng rốn lũ đang rất cần: Sửa xe, mua nồi cơm điện, khám bệnh, đồ dùng học tập, áo ấm...",
+      "link": "https://tuoitre.vn/nguoi-dan-vung-ron-lu-dang-rat-can-sua-xe-mua-noi-com-dien-kham-benh-do-dung-hoc-tap-ao-am-20251125074142029.htm",
+      "summary": "Điều người dân vùng lũ Nam Trung Bộ cần lúc này là các vật dụng, phương tiện thiết yếu của đời sống để trở lại cuộc sống bình thường sau lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.351198+07:00",
+      "fetched": "2025-11-25T10:12:38.351315+07:00"
+    },
+    {
+      "id": "ebbd85ea0d530d39094f861ae2f2c7fb",
+      "title": "Không thiếu phụ tùng sửa xe sau lũ, nhưng phải chờ lâu",
+      "link": "https://tuoitre.vn/khong-thieu-phu-tung-sua-xe-sau-lu-nhung-phai-cho-lau-20251124234634734.htm",
+      "summary": "Nhiều hãng ô tô cho biết đang chờ thống kê thiệt hại từ các đại lý tại khu vực miền Trung sau đợt lũ vừa qua để lên kế hoạch bổ sung phụ tùng và triển khai các chương trình hỗ trợ khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.351075+07:00",
+      "fetched": "2025-11-25T10:12:38.351187+07:00"
+    },
+    {
+      "id": "57644fe01117d803debf6f2243f260e2",
+      "title": "Speed Test: Một phép đo lại trở thành ‘chuẩn mực’ chất lượng Internet",
+      "link": "https://tuoitre.vn/speed-test-mot-phep-do-lai-tro-thanh-chuan-muc-chat-luong-internet-20251124211146251.htm",
+      "summary": "Người dùng Việt không còn chỉ trông đợi vào quảng cáo hay cảm nhận chủ quan khi đánh giá dịch vụ, mà đang dần chuyển sang tự mình kiểm chứng bằng dữ liệu thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350949+07:00",
+      "fetched": "2025-11-25T10:12:38.351064+07:00"
+    },
+    {
+      "id": "23aaa92b9f0d8f50caa78275f27d4af7",
+      "title": "TP.HCM ứng phó khẩn cấp áp thấp nhiệt đới có thể thành bão, yêu cầu không xả lũ khi mưa lớn",
+      "link": "https://tuoitre.vn/tp-hcm-ung-pho-khan-cap-ap-thap-nhiet-doi-co-the-thanh-bao-yeu-cau-khong-xa-lu-khi-mua-lon-20251125073359387.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM đề nghị các đơn vị liên quan có phương án ứng phó với áp thấp nhiệt đới có thể thành bão số 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350815+07:00",
+      "fetched": "2025-11-25T10:12:38.350937+07:00"
+    },
+    {
+      "id": "4e9ae7afd117239ed0147ca42a3ffd2a",
+      "title": "Thơm thảo tấm lòng hướng về miền Trung",
+      "link": "https://tuoitre.vn/thom-thao-tam-long-huong-ve-mien-trung-2025112507504656.htm",
+      "summary": "Hàng chục bạn đọc đến Tuổi Trẻ ngày 24-11 với những khoản đóng góp được trích từ phần tiết kiệm ít ỏi càng cho thấy tình nghĩa và tấm lòng hướng về miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350668+07:00",
+      "fetched": "2025-11-25T10:12:38.350802+07:00"
+    },
+    {
+      "id": "0012e4b9512dcf2d32519430215493a9",
+      "title": "Sẵn sàng điều tiết nguồn hàng, dự trữ lương thực thực phẩm, xăng dầu",
+      "link": "https://tuoitre.vn/san-sang-dieu-tiet-nguon-hang-du-tru-luong-thuc-thuc-pham-xang-dau-20251125075859927.htm",
+      "summary": "Bộ Công Thương đã có các công điện yêu cầu rà soát khu vực ngập sâu, vùng có nguy cơ lũ để xây dựng phương án dự trữ, cung ứng hàng hóa phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350542+07:00",
+      "fetched": "2025-11-25T10:12:38.350657+07:00"
+    },
+    {
+      "id": "de41aaf8c9278c56ab00e70455ea728b",
+      "title": "Vì sao chỉ mình Việt Nam 'phát cuồng' với pickleball ở châu Á?",
+      "link": "https://tuoitre.vn/vi-sao-chi-minh-viet-nam-phat-cuong-voi-pickleball-o-chau-a-20251122183624162.htm",
+      "summary": "Khảo sát của PPA (Hiệp hội Pickleball châu Á) cho thấy ở châu Á, chỉ mỗi Việt Nam là quốc gia có tỉ lệ người chơi pickleball cao hơn 15% (dựa trên mẫu khảo sát).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350409+07:00",
+      "fetched": "2025-11-25T10:12:38.350530+07:00"
+    },
+    {
+      "id": "f3fc894e452aac181925ccc0840bfa72",
+      "title": "Ngắm các chân dài bóng chuyền nữ Việt Nam tập luyện hăng say cho SEA Games",
+      "link": "https://tuoitre.vn/ngam-cac-chan-dai-bong-chuyen-nu-viet-nam-tap-luyen-hang-say-cho-sea-games-20251125074419085.htm",
+      "summary": "Hiện tại tuyển bóng chuyền nữ Việt Nam đang có chuyến tập huấn tại Vĩnh Long để chuẩn bị cho SEA Games 33 sắp diễn ra tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350281+07:00",
+      "fetched": "2025-11-25T10:12:38.350397+07:00"
+    },
+    {
+      "id": "29bffd3a16cea77eedd470d1052d641a",
+      "title": "Độc lạ lúa mì chỉnh sửa gene có khả năng 'tự tạo' phân bón",
+      "link": "https://tuoitre.vn/doc-la-lua-mi-chinh-sua-gene-co-kha-nang-tu-tao-phan-bon-20251125082458973.htm",
+      "summary": "Các nhà khoa học tại Đại học California, Davis, đã phát triển giống lúa mì có thể thúc đẩy quá trình hình thành phân bón tự nhiên ngay trong đất, mở ra triển vọng giảm ô nhiễm và tiết kiệm chi phí cho nông dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350151+07:00",
+      "fetched": "2025-11-25T10:12:38.350270+07:00"
+    },
+    {
+      "id": "08d875ecd2189891b8fa127cbbcc2f38",
+      "title": "Resurrection có Thư Kỳ đóng chính vượt Thanh gươm diệt quỷ bá chủ phòng vé Trung Quốc",
+      "link": "https://tuoitre.vn/resurrection-co-thu-ky-dong-chinh-vuot-thanh-guom-diet-quy-ba-chu-phong-ve-trung-quoc-20251125084007015.htm",
+      "summary": "Trong bối cảnh phòng vé Trung Quốc ngày càng thiên về phim thương mại, việc một tác phẩm nghệ thuật như Resurrection của đạo diễn Bi Gan (Thư Kỳ, Dịch Dương Thiên Tỉ đóng chính) vươn lên dẫn đầu trở thành sự kiện hiếm có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.350011+07:00",
+      "fetched": "2025-11-25T10:12:38.350138+07:00"
+    },
+    {
+      "id": "8cffdfd46b737ae3c230b1b5a1561211",
+      "title": "Tôn thép ổn định, giá xi măng tăng mạnh",
+      "link": "https://tuoitre.vn/ton-thep-on-dinh-gia-xi-mang-tang-manh-20251124233818513.htm",
+      "summary": "Ghi nhận trên thị trường vật liệu xây dựng ngày 24-11, giá thép xây dựng nhìn chung vẫn ổn định, không biến động lớn so với đầu tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.349871+07:00",
+      "fetched": "2025-11-25T10:12:38.349992+07:00"
+    },
+    {
+      "id": "b720a2118a3d87b1756c226643306dbe",
+      "title": "Saigontourist Group đẩy mạnh thị trường cao cấp Trung Đông tại Hội chợ Du lịch Qatar",
+      "link": "https://tuoitre.vn/saigontourist-group-day-manh-thi-truong-cao-cap-trung-dong-tai-hoi-cho-du-lich-qatar-20251125084640215.htm",
+      "summary": "Tổng Công ty Du lịch Sài Gòn (Saigontourist Group) phối hợp cùng Đại sứ quán Việt Nam tại Qatar đồng tổ chức gian hàng quảng bá du lịch tại Hội chợ Qatar Travel Mart (QTM) 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.349710+07:00",
+      "fetched": "2025-11-25T10:12:38.349857+07:00"
+    },
+    {
+      "id": "570f98d6db7e1f497eb9592c0473bd22",
+      "title": "EU hỗ trợ 850.000 euro cho Việt Nam khắc phục hậu quả bão lũ",
+      "link": "https://tuoitre.vn/eu-ho-tro-850-000-euro-cho-viet-nam-khac-phuc-hau-qua-bao-lu-20251125084616004.htm",
+      "summary": "EU thông báo lô hàng viện trợ khẩn cấp trị giá 850.000 euro cho Việt Nam khắc phục hậu quả thiên tai thời gian qua đã đến Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.349569+07:00",
+      "fetched": "2025-11-25T10:12:38.349697+07:00"
+    },
+    {
+      "id": "cc5ea79b6fad5eabd8f2beaffcb45b49",
+      "title": "Bảng xếp hạng Ngoại hạng Anh vòng 12: Liverpool và Man United lâm nguy",
+      "link": "https://tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-12-liverpool-va-man-united-lam-nguy-20251125083948092.htm",
+      "summary": "Cả Man United và Liverpool đều phải nhận thất bại và tụt hạng sau khi vòng 12 Giải Ngoại hạng Anh (Premier League) khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:12:38.349341+07:00",
+      "fetched": "2025-11-25T10:12:38.349554+07:00"
+    },
     {
       "id": "beb5023c122fa4b1d30ba699cab0b46b",
       "title": "Xếp hạng vòng loại U17 châu Á 2026: Vượt qua Malaysia, Việt Nam đứng đầu bảng",
@@ -151,6 +301,306 @@ window.newsData_2025_11_25 = {
       "category": "Tổng hợp",
       "published": "2025-11-25T08:18:53.740138+07:00",
       "fetched": "2025-11-25T08:18:53.740342+07:00"
+    },
+    {
+      "id": "8630cd8990844fa75d01779727674c84",
+      "title": "Đội bơi ở Khánh Hòa 5 ngày đêm giúp dân vượt lũ",
+      "link": "https://thanhnien.vn/doi-boi-o-khanh-hoa-5-ngay-dem-giup-dan-vuot-lu-185251124215747171.htm",
+      "summary": "Ngày thường, nhóm Khánh Hòa Ocean Swimming (KOS) lan tỏa tình yêu bơi lội, dạy bơi miễn phí. Lũ lụt tràn về, họ lập đội trợ giúp người dân quê nhà liên tục 5 ngày qua, nhận được \"mưa tim\" của cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:12:00+07:00",
+      "fetched": "2025-11-25T10:12:37.371604+07:00"
+    },
+    {
+      "id": "f34d6393c6af333b7b6c01ea5df0f2be",
+      "title": "'Where Winds Meet' hé lộ bản cập nhật mới",
+      "link": "https://thanhnien.vn/where-winds-meet-he-lo-ban-cap-nhat-moi-185251124221858576.htm",
+      "summary": "Người chơi sẽ sớm nhận được phần thưởng miễn phí cùng nhiều cải tiến, trong đó có tối ưu hóa dịch thuật và hỗ trợ đa ngôn ngữ cho Where Winds Meet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:04:00+07:00",
+      "fetched": "2025-11-25T10:12:37.371793+07:00"
+    },
+    {
+      "id": "fe3245517a3f5ee3b81f03e585899476",
+      "title": "Xe máy gây tai nạn vì rẽ kiểu cúp đầu ôtô",
+      "link": "https://vnexpress.net/xe-may-gay-tai-nan-vi-re-kieu-cup-dau-oto-4985767.html",
+      "summary": "Từ góc khuất, xe máy lao ngang đường để chuyển hướng thì bị xe máy khác đi thẳng đâm mạnh, hôm 24/11 tại Bàu Cát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:03:26+07:00",
+      "fetched": "2025-11-25T10:12:34.020101+07:00"
+    },
+    {
+      "id": "dd5ca609dc944de685924212ed41d69a",
+      "title": "U.17 Việt Nam: Chiến thắng 14-0 và chuyện về thế hệ bị quên lãng",
+      "link": "https://thanhnien.vn/u17-viet-nam-chien-thang-14-0-va-chuyen-ve-the-he-bi-quen-lang-185251125093030262.htm",
+      "summary": "U.17 Việt Nam đang tiến nhanh và chắc trên hành trình trưởng thành, nhưng để thế hệ này trở thành trụ cột của bóng đá Việt, vẫn còn chặng đường dài phải vượt qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:03:00+07:00",
+      "fetched": "2025-11-25T10:12:37.371954+07:00"
+    },
+    {
+      "id": "2205213e4d32cd748bf0e2a2b0f56461",
+      "title": "Lực lượng bác sĩ, đoàn viên của Đồng Nai xuất quân hỗ trợ Phú Yên cũ",
+      "link": "https://thanhnien.vn/luc-luong-bac-si-doan-vien-cua-dong-nai-xuat-quan-ho-tro-phu-yen-cu-185251125084855889.htm",
+      "summary": "Đoàn công tác gồm y, bác sĩ và đoàn viên thanh niên Đồng Nai đã mang theo 10.000 túi thuốc thiết yếu, 2.000 suất thuốc khám bệnh, 2.000 phần quà cùng 600 triệu đồng, xuất quân lên đường hỗ trợ người dân các xã bị thiệt hại bởi mưa lũ tại Phú Yên cũ (nay thuộc Đắk Lắk).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:01:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372108+07:00"
+    },
+    {
+      "id": "54cb3b4458c1a018bda0880dcbf660ba",
+      "title": "Điểm A tràn lan ở Harvard gây chia rẽ",
+      "link": "https://vnexpress.net/diem-a-tran-lan-o-harvard-gay-chia-re-4985593.html",
+      "summary": "Tỷ lệ điểm A cao chót vót ở Harvard và nhiều đại học khác đã trở thành chủ đề nổi cộm, khiến các giáo sư \"chia rẽ\" vì cách giải quyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:00:01+07:00",
+      "fetched": "2025-11-25T10:12:34.020279+07:00"
+    },
+    {
+      "id": "e94c35c2972b71969984c7cd2eea5640",
+      "title": "Alpha Works hợp tác Audiofrog chọn Việt Nam làm trung tâm R&amp;D",
+      "link": "https://vnexpress.net/alpha-works-hop-tac-audiofrog-chon-viet-nam-lam-trung-tam-r-d-4985778.html",
+      "summary": "Alpha Works và Audiofrog công bố thương hiệu chung \"Alpha Works sound by Audiofrog\", đánh dấu giai đoạn hợp tác kỹ thuật giữa hai thương hiệu âm thanh đến từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:00:00+07:00",
+      "fetched": "2025-11-25T10:12:34.020442+07:00"
+    },
+    {
+      "id": "0840180deb1c11eff3fbc859242b8e67",
+      "title": "Vai trò của nam giới với bạn đời trước nguy cơ nhiễm HPV",
+      "link": "https://vnexpress.net/vai-tro-cua-nam-gioi-voi-ban-doi-truoc-nguy-co-nhiem-hpv-4971916.html",
+      "summary": "Nam giới có thể là nguồn lây truyền vi rút HPV cho bạn tình, vì vậy dự phòng ngoài bảo vệ bản thân còn giúp giảm nguy cơ lây nhiễm cho đối phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:00:00+07:00",
+      "fetched": "2025-11-25T10:12:34.020602+07:00"
+    },
+    {
+      "id": "e2d8103521a5bd664fd70b018c4b1eaa",
+      "title": "Phòng lab nha khoa SGC tăng ca phục vụ kiều bào dịp Tết",
+      "link": "https://vnexpress.net/phong-lab-nha-khoa-sgc-tang-ca-phuc-vu-kieu-bao-dip-tet-4969342.html",
+      "summary": "Phòng lab của nha khoa SGC tăng ca nhằm rút ngắn thời gian chế tác, đáp ứng nhu cầu làm răng tăng cao của kiều bào dịp cận Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:00:00+07:00",
+      "fetched": "2025-11-25T10:12:34.020804+07:00"
+    },
+    {
+      "id": "4d12c4c245d87e2dba996fdd4a1f35cc",
+      "title": "Cả tuần mặc đẹp với muôn kiểu áo khoác đa năng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ca-tuan-mac-dep-voi-muon-kieu-ao-khoac-da-nang-185251124122313314.htm",
+      "summary": "Dù đi làm, đi chơi, đi tiệc hay dạo phố, áo khoác luôn là chiếc áo cần có vào mùa lạnh. Nhờ sự linh hoạt trong thiết kế, chúng dễ dàng đồng hành cùng bạn trong mọi hoàn cảnh suốt cả tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T03:00:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372260+07:00"
+    },
+    {
+      "id": "7a7b277b2ca188fa0f0e49afd0900af6",
+      "title": "Trình Quốc hội chương trình hiện đại hóa giáo dục 10 năm tới",
+      "link": "https://vnexpress.net/trinh-quoc-hoi-chuong-trinh-hien-dai-hoa-giao-duc-10-nam-toi-4985772.html",
+      "summary": "Bộ trưởng Nguyễn Kim Sơn cho biết chương trình nhằm hiện đại hóa cơ sở vật chất, phát triển đội ngũ và đáp ứng nhu cầu nhân lực chất lượng cao trong 10 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:52:06+07:00",
+      "fetched": "2025-11-25T10:12:34.020974+07:00"
+    },
+    {
+      "id": "905d0be666c350bf3e73d08ef53b847c",
+      "title": "Có phải cứ du học Phần Lan sẽ được mang theo con nhỏ, gia đình đi cùng?",
+      "link": "https://thanhnien.vn/co-phai-cu-du-hoc-phan-lan-se-duoc-mang-theo-con-nho-gia-dinh-di-cung-185251124150234816.htm",
+      "summary": "Nhiều phụ huynh quan tâm thời gian vàng để đến Phần Lan, du học ngành gì thì có thể mang theo con nhỏ, gia đình đi cùng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:52:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372410+07:00"
+    },
+    {
+      "id": "0f9b2738ceb8266a4288542747a884fc",
+      "title": "Thâu đêm chuyền tay hàng cứu trợ đến đồng bào vùng lũ miền Trung",
+      "link": "https://thanhnien.vn/thau-dem-chuyen-tay-hang-cuu-tro-den-dong-bao-vung-lu-mien-trung-185251124231718377.htm",
+      "summary": "Hàng trăm tình nguyện viên tại TP.HCM thâu đêm chuyền tay từng thùng mì, bao gạo, áo quần… chỉ mong kịp gửi hàng cứu trợ đến đồng bào vùng lũ miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:50:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372569+07:00"
+    },
+    {
+      "id": "cbfee49791e0cd076bf4303818e2a8e2",
+      "title": "Khánh Hòa tiếp nhận, cấp phát gạo dự trữ quốc gia hỗ trợ dân vùng lũ",
+      "link": "https://thanhnien.vn/khanh-hoa-tiep-nhan-cap-phat-gao-du-tru-quoc-gia-ho-tro-dan-vung-lu-185251125084619171.htm",
+      "summary": "Sở NN-MT tỉnh Khánh Hòa vừa ban hành Thông báo về việc tiếp nhận gạo dự trữ quốc gia để hỗ trợ người dân bị thiệt hại do mưa lũ trên địa bàn tỉnh căn cứ Quyết định số 2205/QĐ-UBND ngày 24.11 của Chủ tịch UBND tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:48:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372721+07:00"
+    },
+    {
+      "id": "2b05a229806159082f1c4ba5aa3f4d4d",
+      "title": "Tặng bằng khen cho thiếu tá biên phòng bị thương khi cứu dân trong mưa lũ",
+      "link": "https://thanhnien.vn/tang-bang-khen-cho-thieu-ta-bien-phong-bi-thuong-khi-cuu-dan-trong-mua-lu-185251125080202828.htm",
+      "summary": "Thiếu tá bộ đội biên phòng được tặng bằng khen vì nỗ lực cứu dân trong mưa lũ, dù bị thương nặng khi bơi kéo ca nô vào khu dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:48:00+07:00",
+      "fetched": "2025-11-25T10:12:37.372900+07:00"
+    },
+    {
+      "id": "5034574948d0e6343d517608e6c1c57f",
+      "title": "Con trai trưởng nhóm Bức Tường sáng tác nhạc",
+      "link": "https://vnexpress.net/con-trai-truong-nhom-buc-tuong-sang-tac-nhac-4985400.html",
+      "summary": "Nguyên Trần - con trai 23 tuổi của guitarist Tuấn Hùng, trưởng nhóm Bức Tường - ra mắt sản phẩm do anh tự viết, sản xuất, biểu diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:46:32+07:00",
+      "fetched": "2025-11-25T10:12:34.021132+07:00"
+    },
+    {
+      "id": "e23acf9700d96bff5154e9e8770628ec",
+      "title": "Sao Việt chung tay hướng về đồng bào miền Trung",
+      "link": "https://thanhnien.vn/sao-viet-chung-tay-huong-ve-dong-bao-mien-trung-185251125090235165.htm",
+      "summary": "Để hỗ trợ đồng bào khắc phục hậu quả nặng nề do ảnh hưởng của bão lũ, các nghệ sĩ đã chung tay góp sức, đồng lòng hướng về miền Trung ruột thịt. Các sao Việt đã thể hiện tinh thần 'lá lành đùm lá rách' bằng cách trực tiếp ủng hộ, cũng như kêu gọi cộng đồng hỗ trợ vượt qua giai đoạn khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:39:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373059+07:00"
+    },
+    {
+      "id": "01bb8fa410e12b4beb110a907900f7fe",
+      "title": "Tên tỉnh nào nước ta chỉ có thanh ngang?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-ten-tinh-nao-nuoc-ta-chi-co-thanh-ngang-4985564.html",
+      "summary": "Một câu đố tưởng chừng quá dễ vì chỉ hỏi tên tỉnh thành viết không dấu, nhưng để có đáp án chính xác, bạn sẽ phải suy nghĩ nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:31:00+07:00",
+      "fetched": "2025-11-25T10:12:34.021292+07:00"
+    },
+    {
+      "id": "f36a757e7f3d439716d17bc55ac986dc",
+      "title": "Dấu hiệu sớm ở chân cảnh báo thiếu vitamin B12",
+      "link": "https://vnexpress.net/dau-hieu-som-o-chan-canh-bao-thieu-vitamin-b12-4985440.html",
+      "summary": "Thiếu vitamin B12 thường có biểu hiện ở ngón chân với cảm giác ngứa ran, tê, nóng rát, chuột rút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:30:00+07:00",
+      "fetched": "2025-11-25T10:12:34.021458+07:00"
+    },
+    {
+      "id": "30d33365e5698ac4fd3feba36dca184d",
+      "title": "Sắc vóc người đẹp Việt từng là chuyên viên công nghệ 'chinh chiến' tại Miss Cosmo 2025",
+      "link": "https://thanhnien.vn/sac-voc-nguoi-dep-viet-tung-la-chuyen-vien-cong-nghe-chinh-chien-tai-miss-cosmo-2025-185251125090355962.htm",
+      "summary": "Được lựa chọn 'chinh chiến' tại Miss Cosmo 2025, Nguyễn Hoàng Phương Linh thể hiện tinh thần quyết tâm quảng bá đất nước, con người Việt Nam đến bạn bè quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:30:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373209+07:00"
+    },
+    {
+      "id": "9a604a984a9a3fd78ffec208ea5933f2",
+      "title": "Jennifer Lopez nhận 2 triệu USD hát đám cưới",
+      "link": "https://vnexpress.net/jennifer-lopez-nhan-2-trieu-usd-hat-dam-cuoi-4985748.html",
+      "summary": "Jennifer Lopez nhận hai triệu USD cho một đêm hát ở đám cưới con gái ông Rama Raju Mantena - doanh nhân lớn ngành dược Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:28:51+07:00",
+      "fetched": "2025-11-25T10:12:34.021611+07:00"
+    },
+    {
+      "id": "a394e5bd504517579893d8fe2e0c76f0",
+      "title": "Liệu em có đến cùng mùa đông?",
+      "link": "https://vnexpress.net/lieu-em-co-den-cung-mua-dong-4985645.html",
+      "summary": "Anh hy vọng gặp một cô gái biết lắng nghe, biết yêu thương vừa đủ, không cần hoàn hảo, chỉ cần chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:28:19+07:00",
+      "fetched": "2025-11-25T10:12:34.021708+07:00"
+    },
+    {
+      "id": "690ef2835c283c5af4121b42e6a0b6c0",
+      "title": "Giá Bitcoin hôm nay 25.11.2025: BTC phục hồi, thị trường khởi sắc",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-25112025-btc-phuc-hoi-thi-truong-khoi-sac-185251125074646287.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục tăng, diễn biến cùng chiều với thị trường cổ phiếu, có lúc vượt mốc 93.000 USD giúp thị trường khởi sắc trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:27:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373357+07:00"
+    },
+    {
+      "id": "2938a6a22cc80262d8092b865abea99a",
+      "title": "Apple khoe tính năng đột phá có trên iPhone 17 Pro",
+      "link": "https://thanhnien.vn/apple-khoe-tinh-nang-dot-pha-co-tren-iphone-17-pro-185251125082844085.htm",
+      "summary": "Apple Anh vừa giới thiệu một quảng cáo truyền hình mới để giới thiệu về hai mẫu iPhone 17 Pro và 17 Pro Max.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:24:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373503+07:00"
+    },
+    {
+      "id": "00d6411fba2f4c9c050bed80f80b80e9",
+      "title": "Mỹ nam Việt gây chú ý khi liên tiếp góp mặt ở 3 phim trăm tỉ",
+      "link": "https://thanhnien.vn/my-nam-viet-gay-chu-y-khi-lien-tiep-gop-mat-o-3-phim-tram-ti-185251125074637972.htm",
+      "summary": "Được chú ý sau thành công của hai bộ phim 'Nụ hôn bạc tỉ' và 'Tử chiến trên không' đều cán mốc doanh thu hơn trăm tỉ đồng, Ma Ran Đô trở thành cái tên nhận được nhiều thiện cảm từ khán giả. Gần đây, anh tiếp tục góp mặt trong dự án điện ảnh 'Truy tìm Long Diên Hương', tác phẩm hiện đã vượt mốc 140 t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:24:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373651+07:00"
+    },
+    {
+      "id": "b6d522534faad7b58138a66149b4ade7",
+      "title": "EU đã hỗ trợ 850.000 euro cho Việt Nam để khắc phục hậu quả do bão",
+      "link": "https://thanhnien.vn/eu-da-ho-tro-850000-euro-cho-viet-nam-de-khac-phuc-hau-qua-do-bao-185251125080610049.htm",
+      "summary": "EU đã hỗ trợ 850.000 euro cho Việt Nam để khắc phục những hậu quả của các trận bão vừa qua và tiếp tục kêu gọi các nước thành viên đóng góp hỗ trợ cho Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:23:00+07:00",
+      "fetched": "2025-11-25T10:12:37.373826+07:00"
+    },
+    {
+      "id": "c2c8af4f15e1e5dcd77c22f57ecfa9fb",
+      "title": "THPT Phan Huy Chú và Việt Đức mang đến nhiều pha bóng hấp dẫn",
+      "link": "https://vnexpress.net/thpt-phan-huy-chu-va-viet-duc-mang-den-nhieu-pha-bong-hap-dan-4985439.html",
+      "summary": "Trận đấu giữa THPT Phan Huy Chú và THPT Việt Đức diễn ra kịch tính với nhiều pha bóng ngoạn mục, ném rổ chuẩn xác, phản công nhanh, thu hút khán giả theo dõi suốt trận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:15:49+07:00",
+      "fetched": "2025-11-25T10:12:34.021884+07:00"
+    },
+    {
+      "id": "ce5a315d58c9f968b920db486f1f1022",
+      "title": "Trận đấu ấn tượng giữa trường Nguyễn Thị Minh Khai và Nguyễn Tất Thành",
+      "link": "https://vnexpress.net/tran-dau-an-tuong-giua-truong-nguyen-thi-minh-khai-va-nguyen-tat-thanh-4985422.html",
+      "summary": "Các vận động viên của hai đội THPT Nguyễn Thị Minh Khai và THPT Nguyễn Tất Thành thi đấu quyết liệt, với nhiều pha bóng kỹ thuật, rượt đuổi tỉ số hấp dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:13:53+07:00",
+      "fetched": "2025-11-25T10:12:34.022046+07:00"
+    },
+    {
+      "id": "2ffdf0b9b4e00376a9f1f3367eb0220a",
+      "title": "Trận đấu kịch tính giữa Vinschool The Harmony và Marie Curie",
+      "link": "https://vnexpress.net/tran-dau-kich-tinh-giua-vinschool-the-harmony-va-marie-curie-4985408.html",
+      "summary": "Trận đấu giữa THPT Vinschool The Harmony với THPT Marie Curie mang đến không khí sôi động, kịch tính với nhiều pha xử lý đẹp mắt giữa các vận động viên của 2 đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:13:31+07:00",
+      "fetched": "2025-11-25T10:12:34.022206+07:00"
+    },
+    {
+      "id": "d1b65fac0b50699f49d7e196ba7e1803",
+      "title": "Khuyên 3 con yêu đừng cưới, tôi có tước cơ hội hạnh phúc của chúng?",
+      "link": "https://vnexpress.net/khuyen-3-con-yeu-dung-cuoi-toi-co-tuoc-co-hoi-hanh-phuc-cua-chung-4985698.html",
+      "summary": "Tôi từng nói với con trai và hai con gái: “Cứ yêu nhưng đừng lập gia đình; đừng để đời mình phải gánh trách nhiệm vì một người xa lạ”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T02:00:00+07:00",
+      "fetched": "2025-11-25T10:12:34.022363+07:00"
     },
     {
       "id": "ee57e58083a4357aa27c8f8c9a4d4651",
