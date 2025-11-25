@@ -1,6 +1,6 @@
 window.newsData_2025_11_26 = {
   "date": "2025-11-26",
-  "lastUpdated": "2025-11-26T01:27:14.352270+07:00",
+  "lastUpdated": "2025-11-26T03:19:59.565320+07:00",
   "articles": [
     {
       "id": "5b755475effc7c309247aa24a6c452b2",
@@ -153,6 +153,36 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T01:27:08.089885+07:00"
     },
     {
+      "id": "609d53fe52b76e4a6602b9fb074545d9",
+      "title": "5 thói quen hàng ngày tốt cho gan",
+      "link": "https://vnexpress.net/5-thoi-quen-hang-ngay-tot-cho-gan-4985952.html",
+      "summary": "Ăn tối đúng giờ hỗ trợ gan giải độc, bổ sung rau củ quả nhiều màu sắc cung cấp các hợp chất thực vật có lợi, cải thiện nồng độ men gan và chất béo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T19:00:00+07:00",
+      "fetched": "2025-11-26T03:19:50.036869+07:00"
+    },
+    {
+      "id": "165c2ee367ca41ae3f4f48ef15938ddc",
+      "title": "Ông Trump muốn gửi tiền cho dân để bỏ Obamacare",
+      "link": "https://vnexpress.net/ong-trump-muon-gui-tien-cho-dan-de-bo-obamacare-4985713.html",
+      "summary": "Tổng thống Trump đang thúc đẩy thay thế Obamacare, trong đó có phương án chuyển tiền trực tiếp cho người dân thay vì chi trả cho bảo hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T19:00:00+07:00",
+      "fetched": "2025-11-26T03:19:50.037079+07:00"
+    },
+    {
+      "id": "165c2ee367ca41ae3f4f48ef15938ddc",
+      "title": "Ông Trump muốn gửi tiền cho dân để bỏ Obamacare",
+      "link": "https://vnexpress.net/ong-trump-muon-gui-tien-cho-dan-de-bo-obamacare-4985713.html",
+      "summary": "Tổng thống Trump đang thúc đẩy thay thế Obamacare, trong đó có phương án chuyển tiền trực tiếp cho người dân thay vì chi trả cho bảo hiểm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T19:00:00+07:00",
+      "fetched": "2025-11-26T03:19:54.471362+07:00"
+    },
+    {
       "id": "5ca34512805d579d68f28bc408b0d85d",
       "title": "Tên lửa được kỳ vọng sẽ là trụ cột hạt nhân trên không của Pháp",
       "link": "https://vnexpress.net/ten-lua-duoc-ky-vong-se-la-tru-cot-hat-nhan-tren-khong-cua-phap-4965129.html",
@@ -161,6 +191,16 @@ window.newsData_2025_11_26 = {
       "category": "Thế giới",
       "published": "2025-11-25T18:00:00+07:00",
       "fetched": "2025-11-26T01:27:09.371477+07:00"
+    },
+    {
+      "id": "43cb6d63ffe1001e4d6c1bd76513ccd4",
+      "title": "Ba vấn đề sức khỏe cần chú ý ở người cao tuổi",
+      "link": "https://vnexpress.net/ba-van-de-suc-khoe-can-chu-y-o-nguoi-cao-tuoi-4985419.html",
+      "summary": "Béo phì, các triệu chứng mãn kinh và sức khỏe tâm thần là ba vấn đề thường gặp ở người cao tuổi, có thể kéo theo nhiều hệ lụy sức khỏe khác, tạo thành vòng xoáy bệnh lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T18:00:00+07:00",
+      "fetched": "2025-11-26T03:19:50.037246+07:00"
     },
     {
       "id": "53599f7df8ddf1fe13c42613c478aca3",
