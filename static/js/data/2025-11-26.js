@@ -1,7 +1,157 @@
 window.newsData_2025_11_26 = {
   "date": "2025-11-26",
-  "lastUpdated": "2025-11-26T11:23:13.384830+07:00",
+  "lastUpdated": "2025-11-26T13:27:43.502709+07:00",
   "articles": [
+    {
+      "id": "1a2c2ba46806598ad6d78805b13e17bc",
+      "title": "Ứng phó bão số 15: Bộ Tổng tham mưu yêu cầu sẵn sàng ứng phó kịp thời, hiệu quả",
+      "link": "https://tuoitre.vn/ung-pho-bao-so-15-bo-tong-tham-muu-yeu-cau-san-sang-ung-pho-kip-thoi-hieu-qua-20251126114210888.htm",
+      "summary": "Bộ Tổng tham mưu Quân đội nhân dân Việt Nam yêu cầu các cơ quan, đơn vị chuẩn bị lực lượng, phương tiện sẵn sàng ứng phó kịp thời, hiệu quả khi có tình huống do bão số 15 (Koto) gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128776+07:00",
+      "fetched": "2025-11-26T13:27:35.128886+07:00"
+    },
+    {
+      "id": "8795162c4c5b33a868b83f1987abcf69",
+      "title": "Ông Lavrov cảnh báo Nga có thể bác bỏ thỏa thuận hòa bình do Mỹ đề xuất",
+      "link": "https://tuoitre.vn/ong-lavrov-canh-bao-nga-co-the-bac-bo-thoa-thuan-hoa-binh-do-my-de-xuat-20251126115338498.htm",
+      "summary": "Ngoại trưởng Lavrov cảnh báo Nga có thể sẽ bác bỏ kế hoạch hòa bình ở Ukraine do Mỹ đề xuất nếu kế hoạch này không giữ đúng 'tinh thần và nội dung' của hội nghị thượng đỉnh Nga - Mỹ ở Alaska hồi tháng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128648+07:00",
+      "fetched": "2025-11-26T13:27:35.128765+07:00"
+    },
+    {
+      "id": "f1999a8ceeb43e58250f8b46754ba2ca",
+      "title": "Việt Nam tụt hạng khoảng cách giới toàn cầu từ định kiến ‘phải có con trai’",
+      "link": "https://tuoitre.vn/viet-nam-tut-hang-khoang-cach-gioi-toan-cau-tu-dinh-kien-phai-co-con-trai-20251126112605812.htm",
+      "summary": "Báo cáo Khoảng cách giới toàn cầu năm 2025 cho thấy Việt Nam đứng thứ 74/148 quốc gia, giảm 2 bậc so với năm 2024. Một trong những nguyên nhân chính khiến thứ hạng giảm là tình trạng mất cân bằng giới tính khi sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128521+07:00",
+      "fetched": "2025-11-26T13:27:35.128637+07:00"
+    },
+    {
+      "id": "01bea5e6bf7e68aa89c16b2144768c58",
+      "title": "Ông Đỗ Văn Chiến: Vinh dự làm việc với khối lượng đồ sộ trong kỷ nguyên vươn mình",
+      "link": "https://tuoitre.vn/ong-do-van-chien-vinh-du-lam-viec-voi-khoi-luong-do-so-trong-ky-nguyen-vuon-minh-20251126115921686.htm",
+      "summary": "Sáng 26-11, HĐND TP Hà Nội nhiệm kỳ 2021 - 2026 khai mạc kỳ họp thường kỳ cuối năm (kỳ họp thứ 28).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128400+07:00",
+      "fetched": "2025-11-26T13:27:35.128510+07:00"
+    },
+    {
+      "id": "df860658363c6d551359437ff6550cc1",
+      "title": "Thành Đoàn TP.HCM và báo Tuổi Trẻ trao học bổng, tặng quà học sinh vùng lũ Khánh Hòa",
+      "link": "https://tuoitre.vn/thanh-doan-tp-hcm-va-bao-tuoi-tre-trao-hoc-bong-tang-qua-hoc-sinh-vung-lu-khanh-hoa-20251126122311659.htm",
+      "summary": "Hàng trăm suất học bổng 'Ngăn dòng bỏ học' đã được trao tận tay cho học sinh chịu ảnh hưởng nghiêm trọng do đợt mưa lũ lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128258+07:00",
+      "fetched": "2025-11-26T13:27:35.128388+07:00"
+    },
+    {
+      "id": "3f405f7c4c6804e2831571f9593d6dac",
+      "title": "Dùng dao giải quyết mâu thuẫn ở quán karaoke, 1 người chết, 1 người bị thương",
+      "link": "https://tuoitre.vn/dung-dao-giai-quyet-mau-thuan-o-quan-karaoke-1-nguoi-chet-1-nguoi-bi-thuong-20251126113019703.htm",
+      "summary": "Do có mâu thuẫn cá nhân ở quán karaoke nên Phát và Giàu dùng dao tự chế đâm, chém anh Tuấn và anh Thiện, hậu quả anh Tuấn chết trên đường đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128131+07:00",
+      "fetched": "2025-11-26T13:27:35.128246+07:00"
+    },
+    {
+      "id": "15db7e95ea6c45a5ca5d42a018beb2ec",
+      "title": "Kokuho - Mưa đỏ, hành trình phòng vé kỳ diệu của Việt và Nhật có điểm chung?",
+      "link": "https://tuoitre.vn/kokuho-mua-do-hanh-trinh-phong-ve-ky-dieu-cua-viet-va-nhat-co-diem-chung-20251126124059255.htm",
+      "summary": "Cuối năm 2025, thị trường điện ảnh Nhật Bản ghi nhận một cú 'lội ngược dòng' đầy bất ngờ khi Kokuho - phim vốn bị đánh giá là kén khán giả, đậm chất hàn lâm lại đứng đầu phòng vé, tương tự như kỳ tích doanh thu Mưa đỏ đạt được tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.128001+07:00",
+      "fetched": "2025-11-26T13:27:35.128119+07:00"
+    },
+    {
+      "id": "05f87c3d013b480d583a33444b935e8b",
+      "title": "Hội Tương trợ và hợp tác Đức - Việt ủng hộ 521 triệu đồng đến đồng bào bị thiệt hại do bão lũ",
+      "link": "https://tuoitre.vn/hoi-tuong-tro-va-hop-tac-duc-viet-ung-ho-521-trieu-dong-den-dong-bao-bi-thiet-hai-do-bao-lu-20251126122040541.htm",
+      "summary": "Sáng 26-11, bà Nguyễn Thị Minh Phượng, đại diện Hội Tương trợ và hợp tác Đức - Việt, đến tòa soạn báo Tuổi Trẻ trao gửi 521 triệu đồng đến bà con vùng lũ vượt qua giai đoạn khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127877+07:00",
+      "fetched": "2025-11-26T13:27:35.127990+07:00"
+    },
+    {
+      "id": "8a81d0e5a7c5ffb2d80f5c06684a96d8",
+      "title": "Đầu tư hạ tầng, đào tạo giáo viên cho chuyển đổi số mầm non",
+      "link": "https://tuoitre.vn/dau-tu-ha-tang-dao-tao-giao-vien-cho-chuyen-doi-so-mam-non-20251126121038302.htm",
+      "summary": "Giáo dục mầm non đang trên đà chuyển đổi số, tuy nhiên năng lực số của giáo viên vẫn còn hạn chế. Hội thảo tại TP.HCM đã chỉ ra các thách thức và giải pháp cho giáo dục mầm non trong kỷ nguyên công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127741+07:00",
+      "fetched": "2025-11-26T13:27:35.127866+07:00"
+    },
+    {
+      "id": "c00bef0b998189eb23f145bf69bcdce8",
+      "title": "TP.HCM cam kết hỗ trợ mạnh mẽ hệ sinh thái đổi mới sáng tạo",
+      "link": "https://tuoitre.vn/tp-hcm-cam-ket-ho-tro-manh-me-he-sinh-thai-doi-moi-sang-tao-20251126115203305.htm",
+      "summary": "Sáng 26-11, UBND TP.HCM tổ chức lễ khai mạc Tuần lễ đổi mới sáng tạo, Khoa học công nghệ và Khởi nghiệp sáng tạo TP.HCM 2025. Đây là sự kiện lớn nhất mỗi năm của TP.HCM về chủ đề này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127616+07:00",
+      "fetched": "2025-11-26T13:27:35.127730+07:00"
+    },
+    {
+      "id": "3a4d0fecbfe287b295ce1cf1398c44e0",
+      "title": "Hóa giải vòng lặp mất cân đối nhân lực",
+      "link": "https://tuoitre.vn/hoa-giai-vong-lap-mat-can-doi-nhan-luc-20251126111629234.htm",
+      "summary": "Sự lệch pha giữa nhu cầu thực và năng lực đào tạo khiến nguồn nhân lực thừa nơi không cần và thiếu nơi cần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127490+07:00",
+      "fetched": "2025-11-26T13:27:35.127604+07:00"
+    },
+    {
+      "id": "ce82cad5e593822afe34b0c98324b581",
+      "title": "Đặng Thái Huyền vỡ òa hạnh phúc vì Bông sen vàng, không ảo tưởng khi 'Mưa đỏ' dự Oscar",
+      "link": "https://tuoitre.vn/dang-thai-huyen-vo-oa-hanh-phuc-vi-bong-sen-vang-khong-ao-tuong-khi-mua-do-du-oscar-20251126123532111.htm",
+      "summary": "'Phần thưởng cao quý nhất là Mưa đỏ chạm tới trái tim của khán giả. Còn giải Bông sen vàng là niềm hạnh phúc vỡ òa của ê kíp' - đạo diễn Đặng Thái Huyền nói với Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127360+07:00",
+      "fetched": "2025-11-26T13:27:35.127478+07:00"
+    },
+    {
+      "id": "b81a541c1dc72d6595773219f78df0ea",
+      "title": "Người dân Khánh Hòa có xe máy bị ngập lụt được sửa miễn phí",
+      "link": "https://tuoitre.vn/nguoi-dan-khanh-hoa-co-xe-may-bi-ngap-lut-duoc-sua-mien-phi-20251126125158467.htm",
+      "summary": "Sở Xây dựng Khánh Hòa phối hợp cùng Hội Kỹ thuật xe máy Khánh Hòa tổ chức hoạt động sửa xe và thay nhớt miễn phí hỗ trợ người dân sau lũ lụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127207+07:00",
+      "fetched": "2025-11-26T13:27:35.127347+07:00"
+    },
+    {
+      "id": "cbab774defdb2c203f6b06af290fc67d",
+      "title": "TP.HCM bổ sung quy chế bảo vệ cán bộ dám nghĩ dám làm với Ban chỉ đạo phát triển mạng lưới đường sắt",
+      "link": "https://tuoitre.vn/tp-hcm-bo-sung-quy-che-bao-ve-can-bo-dam-nghi-dam-lam-voi-ban-chi-dao-phat-trien-mang-luoi-duong-sat-20251126123715909.htm",
+      "summary": "Ban chỉ đạo phát triển hệ thống mạng lưới đường sắt trên địa bàn TP.HCM kiện toàn nhân sự và đổi tên, do Bí thư Thành ủy Trần Lưu Quang làm trưởng ban.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.127065+07:00",
+      "fetched": "2025-11-26T13:27:35.127195+07:00"
+    },
+    {
+      "id": "1233c88052395eda3a8d6017716ae59f",
+      "title": "Open AI tuyên bố ChatGPT không chịu trách nhiệm về cái chết do tự tử của thiếu niên",
+      "link": "https://tuoitre.vn/open-ai-tuyen-bo-chatgpt-khong-chiu-trach-nhiem-ve-cai-chet-do-tu-tu-cua-thieu-nien-20251126125804696.htm",
+      "summary": "Open AI khẳng định ChatGPT đã hơn 100 lần hướng dẫn thiếu niên tìm kiếm sự giúp đỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:27:35.126846+07:00",
+      "fetched": "2025-11-26T13:27:35.127049+07:00"
+    },
     {
       "id": "b16672f81d26cbc41612ec0dc39a1090",
       "title": "NASA giảm số chuyến bay của Starliner sau sự cố phi hành gia 'kẹt' lại ISS",
@@ -323,6 +473,416 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T08:19:16.761083+07:00"
     },
     {
+      "id": "842515277d71f8a7616c178c85c7752c",
+      "title": "Gia Lai: Cháy xe container trong đêm, đầu xe bị thiêu rụi",
+      "link": "https://thanhnien.vn/gia-lai-chay-xe-container-trong-dem-dau-xe-bi-thieu-rui-185251126111518261.htm",
+      "summary": "Công an đang làm rõ nguyên nhân vụ cháy xe container trong đêm tại xã Phù Mỹ Bắc (Gia Lai) khiến phần đầu xe bị thiêu rụi hoàn toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T06:25:00+07:00",
+      "fetched": "2025-11-26T13:27:33.614876+07:00"
+    },
+    {
+      "id": "fcd38f7d44b76c08da5e12c55def7491",
+      "title": "Dự báo kịch bản xấu bão số 15 không đổi hướng, đi thẳng Gia Lai, Khánh Hòa",
+      "link": "https://thanhnien.vn/du-bao-kich-ban-xau-bao-so-15-khong-doi-huong-di-thang-gia-lai-khanh-hoa-185251126121436835.htm",
+      "summary": "Dự báo kịch bản xấu với xác suất xảy ra khoảng 20%, bão số 15 (bão Koto) không đổi hướng, đi vào khu vực Gia Lai và Khánh Hòa nhưng không được chủ quan, phải theo dõi chặt chẽ, cập nhật thường xuyên khi các địa phương đang chịu tổn thương nặng nề trong đợt mưa lũ vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T06:24:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615068+07:00"
+    },
+    {
+      "id": "f50c7aac03589615ec9cb7f7c03fe9ff",
+      "title": "Quảng Ngãi: Người đàn ông ôm hai cháu bé nhảy cầu Trường Xuân, một bé tử vong",
+      "link": "https://thanhnien.vn/quang-ngai-nguoi-dan-ong-om-hai-chau-be-nhay-cau-truong-xuan-mot-be-tu-vong-185251126123855309.htm",
+      "summary": "Một người đàn ông ở Quảng Ngãi ôm hai cháu bé nhảy cầu Trường Xuân. Dù được người dân địa phương ứng cứu, nhưng một bé khoảng 2 tuổi đã tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T06:03:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615234+07:00"
+    },
+    {
+      "id": "fa56a5b929510e1a6a5ceec8fa8b2d7a",
+      "title": "Lưu ý bảo quản cam sai cách có thể làm vitamin C suy giảm!",
+      "link": "https://thanhnien.vn/luu-y-bao-quan-cam-sai-cach-co-the-lam-vitamin-c-suy-giam-18525112602410136.htm",
+      "summary": "Cam là một trong những nguồn vitamin C tự nhiên dồi dào, nhưng loại vitamin này lại rất dễ bị phân hủy nếu bảo quản không đúng cách. Vậy làm sao để giữ được tối đa lượng vitamin C có trong quả cam khi sử dụng hằng ngày?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T06:00:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615415+07:00"
+    },
+    {
+      "id": "2985e0bfdeb804def6356202905ec5b0",
+      "title": "Trang phục 'happy fit' tôn dáng cho nàng mà không gò bó",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-happy-fit-ton-dang-cho-nang-ma-khong-go-bo-185251126003945632.htm",
+      "summary": "Xu hướng happy fit xuất hiện từ sự dịch chuyển của thời trang toàn cầu về nhu cầu: quần áo không chỉ đẹp, mà phải thoải mái, tôn dáng và chuyển động linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T06:00:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615571+07:00"
+    },
+    {
+      "id": "d42a204e2efdded8e44b4e0ba9fb12fa",
+      "title": "Huawei ra smartphone gập Mate X7 giá cao nhất 2.500 USD",
+      "link": "https://vnexpress.net/huawei-ra-smartphone-gap-mate-x7-gia-cao-nhat-2-500-usd-4986332.html",
+      "summary": "Huawei công bố 5 mẫu điện thoại mới, trong đó có Mate X7 với màn hình lớn, RAM tối đa 20 GB và giá cao nhất 17.999 tệ (2.534 USD).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-26T06:00:00+07:00",
+      "fetched": "2025-11-26T13:27:41.371891+07:00"
+    },
+    {
+      "id": "333fa0f1d88dd9dc326988ab6466c381",
+      "title": "Sony kiếm tỉ USD từ việc mang game PlayStation lên Steam",
+      "link": "https://thanhnien.vn/sony-kiem-ti-usd-tu-viec-mang-game-playstation-len-steam-185251126124318075.htm",
+      "summary": "Steam đang trở thành kênh phân phối sinh lợi cho Sony, vượt xa vai trò phụ trợ ban đầu với các game PlayStation.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:49:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615722+07:00"
+    },
+    {
+      "id": "33533654faeedb298dcdc89a5ad4b9a0",
+      "title": "Lần đầu tiên ô tô hybrid cắm sạc bán chạy hơn xe máy dầu",
+      "link": "https://thanhnien.vn/lan-dau-tien-o-to-hybrid-cam-sac-ban-chay-hon-xe-may-dau-18525112609583176.htm",
+      "summary": "Cuộc đua điện hóa trong ngành ô tô cùng tác động từ chính sách đang tạo ra những thay đổi nhanh chóng trên thị trường ô tô, lần đầu tiên lượng tiêu thụ dòng xe Plug-in Hybrid (hybrid cắm sạc ngoài) bán chạy hơn xe máy dầu tại châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:49:00+07:00",
+      "fetched": "2025-11-26T13:27:33.615878+07:00"
+    },
+    {
+      "id": "5b0b7666c85487a1fb1a3855d2a0e452",
+      "title": "Người dân Khánh Hòa lưu ý: Ngày mai mở 3 điểm sửa xe miễn phí sau lũ",
+      "link": "https://thanhnien.vn/nguoi-dan-khanh-hoa-luu-y-ngay-mai-mo-3-diem-sua-xe-mien-phi-sau-lu-185251126080127832.htm",
+      "summary": "Ngày 27 - 28.11, Khánh Hòa mở 3 điểm sửa xe miễn phí cho người dân có xe máy bị hư hỏng do ngập lụt, hỗ trợ kiểm tra động cơ và thay dầu để sớm ổn định đi lại sau lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:40:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616031+07:00"
+    },
+    {
+      "id": "a4862d514c590cfd55b825cc26adbf64",
+      "title": "Ngừng nhận hồ sơ công bố mỹ phẩm của công ty chồng Mailisa",
+      "link": "https://vnexpress.net/ngung-nhan-ho-so-cong-bo-my-pham-cua-cong-ty-chong-mailisa-4986366.html",
+      "summary": "Cục Quản lý Dược, Bộ Y tế, ngừng xem xét và tiếp nhận hồ sơ công bố sản phẩm mỹ phẩm do Công ty MK Skincare, của chồng bà chủ thẩm mỹ viện Mailisa, trong 6 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:34:41+07:00",
+      "fetched": "2025-11-26T13:27:29.892710+07:00"
+    },
+    {
+      "id": "fc727049ac3c92461eb32db039449beb",
+      "title": "Mỹ nhân phim giờ vàng tiết lộ mối tình đầu",
+      "link": "https://thanhnien.vn/my-nhan-phim-gio-vang-tiet-lo-moi-tinh-dau-185251126115828725.htm",
+      "summary": "Trở lại phim giờ vàng với vai nữ chính trong 'Gia đình trái dấu', NSƯT Kiều Anh bất ngờ kể về mối tình đầu khi nhân vật mới có nhiều 'nút thắt' tương đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:33:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616182+07:00"
+    },
+    {
+      "id": "e4300fcbd60c583cc72e503a4b754434",
+      "title": "Thanh Niên và tôi: Nhịp cầu nối tình yêu gia đình và quê hương",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-nhip-cau-noi-tinh-yeu-gia-dinh-va-que-huong-185251125101750833.htm",
+      "summary": "Báo Thanh Niên đã trở thành nhịp cầu giúp tôi gìn giữ nếp sống gia đình và lan tỏa tình yêu với miền đất đỏ quê hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:32:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616351+07:00"
+    },
+    {
+      "id": "1d4a6f1bf5343163837592ad98956dc7",
+      "title": "Sự vinh thăng của trà ngoại giao - World Tea Connect",
+      "link": "https://thanhnien.vn/su-vinh-thang-cua-tra-ngoai-giao-world-tea-connect-185251126112707282.htm",
+      "summary": "CEO 500 - TEA CONNECT, với chủ đề 'Thành phố Hồ Chí Minh - Hướng đến siêu đô thị quốc tế trong kỷ nguyên số', không chỉ là diễn đàn kinh tế cấp cao mà còn là một biểu tượng của sự kết nối sâu sắc, thiện chí và bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:30:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616502+07:00"
+    },
+    {
+      "id": "a87d1ab9d35ff4616d6b9af58c9c865f",
+      "title": "Scholes: 'Liverpool sa sút từ buổi tiệc cuối mùa trước của Slot'",
+      "link": "https://vnexpress.net/scholes-liverpool-sa-sut-tu-buoi-tiec-cuoi-mua-truoc-cua-slot-4986368.html",
+      "summary": "Cựu tiền vệ Paul Scholes cho rằng cuộc khủng hoảng của Liverpool hiện nay manh nha từ thời điểm HLV Arne Slot tiệc tùng tại Tây Ban Nha trước khi mùa 2024-2025 khép lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:21:32+07:00",
+      "fetched": "2025-11-26T13:27:29.892897+07:00"
+    },
+    {
+      "id": "a87d1ab9d35ff4616d6b9af58c9c865f",
+      "title": "Scholes: 'Liverpool sa sút từ buổi tiệc cuối mùa trước của Slot'",
+      "link": "https://vnexpress.net/scholes-liverpool-sa-sut-tu-buoi-tiec-cuoi-mua-truoc-cua-slot-4986368.html",
+      "summary": "Cựu tiền vệ Paul Scholes cho rằng cuộc khủng hoảng của Liverpool hiện nay manh nha từ thời điểm HLV Arne Slot tiệc tùng tại Tây Ban Nha trước khi mùa 2024-2025 khép lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T05:21:32+07:00",
+      "fetched": "2025-11-26T13:27:43.494999+07:00"
+    },
+    {
+      "id": "347a8fb5a1ffac158d1bb478500e88b4",
+      "title": "Nóng: Thái Lan chính thức dời địa điểm thi đấu vì lũ lụt, U.23 Việt Nam đá ở Bangkok",
+      "link": "https://thanhnien.vn/nong-thai-lan-chinh-thuc-doi-dia-diem-thi-dau-vi-lu-lut-u23-viet-nam-da-o-bangkok-185251125205139653.htm",
+      "summary": "Ban tổ chức SEA Games 33 quyết định dời địa điểm thi đấu bảng B môn bóng đá nam, với sự góp mặt của đội U.23 Việt Nam, Malaysia, Lào từ tỉnh Songkhla về thủ đô Bangkok.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:18:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616653+07:00"
+    },
+    {
+      "id": "77b4025c3bec1208ea1b46789b936fd0",
+      "title": "Bão số 15 (bão Koto) di chuyển phức tạp, còn mạnh thêm",
+      "link": "https://thanhnien.vn/bao-so-15-bao-koto-di-chuyen-phuc-tap-con-manh-them-185251126120343329.htm",
+      "summary": "Thông tin từ Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết vào lúc 10 giờ ngày 26.11.2025, vị trí tâm bão số 15 (bão Koto) cách đảo Song Tử Tây khoảng 330 km về phía đông đông bắc. Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 8-9 (62-88 km/giờ), giật cấp 11. Bão di chuyển theo hướng tây tây b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:14:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616801+07:00"
+    },
+    {
+      "id": "0218c859e78e36b8f9d40edae50ec45c",
+      "title": "Flick: 'Các bạn sẽ thấy một Barca rất khác'",
+      "link": "https://vnexpress.net/flick-cac-ban-se-thay-mot-barca-rat-khac-4986361.html",
+      "summary": "HLV Hansi Flick tin Barca sẽ thắng cả ba trận còn lại của vòng bảng Champions League, dù vừa thua Chelsea 0-3 trên sân Stamford Bridge.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:10:24+07:00",
+      "fetched": "2025-11-26T13:27:29.893063+07:00"
+    },
+    {
+      "id": "0218c859e78e36b8f9d40edae50ec45c",
+      "title": "Flick: 'Các bạn sẽ thấy một Barca rất khác'",
+      "link": "https://vnexpress.net/flick-cac-ban-se-thay-mot-barca-rat-khac-4986361.html",
+      "summary": "HLV Hansi Flick tin Barca sẽ thắng cả ba trận còn lại của vòng bảng Champions League, dù vừa thua Chelsea 0-3 trên sân Stamford Bridge.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T05:10:24+07:00",
+      "fetched": "2025-11-26T13:27:43.495150+07:00"
+    },
+    {
+      "id": "00820e86cdc6ae810d9582c0b1676e9b",
+      "title": "Đề xuất ưu tiên lực lượng vũ trang dự trữ hàng hóa chiến lược",
+      "link": "https://vnexpress.net/de-xuat-uu-tien-luc-luong-vu-trang-du-tru-hang-hoa-chien-luoc-4986289.html",
+      "summary": "Phó đoàn Đại biểu Lâm Đồng Dương Khắc Mai đề nghị ưu tiên lực lượng vũ trang đảm nhiệm vai trò dự trữ những mặt hàng chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:07:59+07:00",
+      "fetched": "2025-11-26T13:27:29.893223+07:00"
+    },
+    {
+      "id": "00820e86cdc6ae810d9582c0b1676e9b",
+      "title": "Đề xuất ưu tiên lực lượng vũ trang dự trữ hàng hóa chiến lược",
+      "link": "https://vnexpress.net/de-xuat-uu-tien-luc-luong-vu-trang-du-tru-hang-hoa-chien-luoc-4986289.html",
+      "summary": "Phó đoàn Đại biểu Lâm Đồng Dương Khắc Mai đề nghị ưu tiên lực lượng vũ trang đảm nhiệm vai trò dự trữ những mặt hàng chiến lược.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-26T05:07:59+07:00",
+      "fetched": "2025-11-26T13:27:38.555699+07:00"
+    },
+    {
+      "id": "781419382d32e2fd7090eab69ea06da5",
+      "title": "Victor Vũ: 'Tôi may mắn được gia đình vợ giúp đỡ'",
+      "link": "https://vnexpress.net/victor-vu-toi-may-man-duoc-gia-dinh-vo-giup-do-4986048.html",
+      "summary": "Đạo diễn Victor Vũ nói may mắn có bà xã Đinh Ngọc Diệp và bố vợ - nhà văn Hồng Thái - hỗ trợ về cảm hứng sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:06:06+07:00",
+      "fetched": "2025-11-26T13:27:29.893428+07:00"
+    },
+    {
+      "id": "43a7e9476654841161047e0f7afc7420",
+      "title": "Cựu chủ tịch Bayern: 'Lẽ ra Barca phải đá hạng Hai'",
+      "link": "https://vnexpress.net/cuu-chu-tich-bayern-le-ra-barca-phai-da-hang-hai-4986321.html",
+      "summary": "Theo Uli Hoeness, Chủ tịch Bayern Munich giai đoạn 2009-2019, bóng đá Tây Ban Nha quá dễ dãi khi để Barca vay mượn nhiều mà vẫn được đá La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:05:28+07:00",
+      "fetched": "2025-11-26T13:27:29.893593+07:00"
+    },
+    {
+      "id": "43a7e9476654841161047e0f7afc7420",
+      "title": "Cựu chủ tịch Bayern: 'Lẽ ra Barca phải đá hạng Hai'",
+      "link": "https://vnexpress.net/cuu-chu-tich-bayern-le-ra-barca-phai-da-hang-hai-4986321.html",
+      "summary": "Theo Uli Hoeness, Chủ tịch Bayern Munich giai đoạn 2009-2019, bóng đá Tây Ban Nha quá dễ dãi khi để Barca vay mượn nhiều mà vẫn được đá La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T05:05:28+07:00",
+      "fetched": "2025-11-26T13:27:43.494010+07:00"
+    },
+    {
+      "id": "3c1b0f27118a288a0372bbf4f105f440",
+      "title": "Sau lũ ở Nha Trang: Công trình sụp đổ lộ rõ không có một cây sắt",
+      "link": "https://thanhnien.vn/sau-lu-o-nha-trang-cong-trinh-sup-do-lo-ro-khong-co-mot-cay-sat-185251126095335469.htm",
+      "summary": "Sau đợt lũ, một công trình tại Nha Trang (Khánh Hòa) bộc lộ hàng loạt bất cập, đặc biệt là việc thi công không gia cố sắt thép khiến hạng mục tường bao sụp đổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:05:00+07:00",
+      "fetched": "2025-11-26T13:27:33.616947+07:00"
+    },
+    {
+      "id": "369e3f2b5755dadfffd21b367de52e90",
+      "title": "Nhóm cứu trợ Gaza do Mỹ và Israel 'chống lưng' ngừng hoạt động",
+      "link": "https://thanhnien.vn/nhom-cuu-tro-gaza-do-my-va-israel-chong-lung-ngung-hoat-dong-185251126113231076.htm",
+      "summary": "Tổ chức Nhân đạo Gaza, do Mỹ và Israel hậu thuẫn chuyên phân phối viện trợ tại Gaza, sẽ chấm dứt hoạt động sau nhiều tháng bị chỉ trích về cái chết của hàng trăm người Palestine khi cố gắng tiếp cận các trung tâm GHF.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:04:00+07:00",
+      "fetched": "2025-11-26T13:27:33.617097+07:00"
+    },
+    {
+      "id": "3b5606db9e2a925043a279da5cace635",
+      "title": "Đại diện Liên Hợp Quốc: Việt Nam nên dùng AI cảnh báo sớm thiên tai",
+      "link": "https://vnexpress.net/dai-dien-lien-hop-quoc-viet-nam-nen-dung-ai-canh-bao-som-thien-tai-4986296.html",
+      "summary": "Đại diện Liên Hợp Quốc khuyến nghị Việt Nam dùng AI để cảnh báo sớm thiên tai trong bối cảnh ảnh hưởng lớn của biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:03:54+07:00",
+      "fetched": "2025-11-26T13:27:29.893751+07:00"
+    },
+    {
+      "id": "3b5606db9e2a925043a279da5cace635",
+      "title": "Đại diện Liên Hợp Quốc: Việt Nam nên dùng AI cảnh báo sớm thiên tai",
+      "link": "https://vnexpress.net/dai-dien-lien-hop-quoc-viet-nam-nen-dung-ai-canh-bao-som-thien-tai-4986296.html",
+      "summary": "Đại diện Liên Hợp Quốc khuyến nghị Việt Nam dùng AI để cảnh báo sớm thiên tai trong bối cảnh ảnh hưởng lớn của biến đổi khí hậu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-26T05:03:54+07:00",
+      "fetched": "2025-11-26T13:27:38.555874+07:00"
+    },
+    {
+      "id": "1b5ed467b3153384e54a26037e48fb57",
+      "title": "Vietjet ưu đãi vé bay hạng business, skyboss",
+      "link": "https://vnexpress.net/vietjet-uu-dai-ve-bay-hang-business-skyboss-4986348.html",
+      "summary": "Vietjet ưu đãi vé bay business và skyboss giá từ 1,8 triệu đồng cùng nhiều quà tặng, dành cho khách mua vé phiên livestream ngày 27/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:00:00+07:00",
+      "fetched": "2025-11-26T13:27:29.893910+07:00"
+    },
+    {
+      "id": "fbbb8772ae8a5ebc9d7594c218dbf40b",
+      "title": "Vì sao trẻ dễ mắc cúm khi giao mùa?",
+      "link": "https://vnexpress.net/vi-sao-tre-de-mac-cum-khi-giao-mua-4986336.html",
+      "summary": "Hệ miễn dịch còn non yếu, thời tiết thất thường khiến virus cúm dễ tấn công trẻ nhỏ hơn so với người lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:00:00+07:00",
+      "fetched": "2025-11-26T13:27:29.894059+07:00"
+    },
+    {
+      "id": "32878aaa99b2b57f993b8a7dd6443444",
+      "title": "Robot hỗ trợ bác sĩ cắt bàng quang ung thư",
+      "link": "https://vnexpress.net/robot-ho-tro-bac-si-cat-bang-quang-ung-thu-4986257.html",
+      "summary": "Ông Duy, 86 tuổi, bị ung thư bàng quang xâm lấn gây thận ứ nước nặng, được bác sĩ dùng robot phẫu thuật cắt toàn bộ bàng quang điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:00:00+07:00",
+      "fetched": "2025-11-26T13:27:29.894218+07:00"
+    },
+    {
+      "id": "dcf9c5b41f296680240284298d45413b",
+      "title": "Suy thận cấp sau dùng thuốc kháng giáp",
+      "link": "https://vnexpress.net/suy-than-cap-sau-dung-thuoc-khang-giap-4985740.html",
+      "summary": "Sau ba tuần uống thuốc điều trị cường giáp, anh Lâm, 45 tuổi, đột ngột đau cơ dữ dội, yếu liệt hai chân, bác sĩ chẩn đoán suy thận cấp và hoại cơ vân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T05:00:00+07:00",
+      "fetched": "2025-11-26T13:27:29.894389+07:00"
+    },
+    {
+      "id": "f235bb79474781512c6102384b2ffc9d",
+      "title": "HLV Chelsea: 'Đừng vội ví Estevao, Yamal như Messi, Ronaldo mới'",
+      "link": "https://vnexpress.net/hlv-chelsea-dung-voi-vi-estevao-yamal-nhu-messi-ronaldo-moi-4986355.html",
+      "summary": "Theo Enzo Maresca, học trò Estevao và tài năng Barca Lamine Yamal cần chơi bóng với niềm vui, thay vì chịu áp lực so sánh với Lionel Messi, Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T04:59:00+07:00",
+      "fetched": "2025-11-26T13:27:29.894549+07:00"
+    },
+    {
+      "id": "f235bb79474781512c6102384b2ffc9d",
+      "title": "HLV Chelsea: 'Đừng vội ví Estevao, Yamal như Messi, Ronaldo mới'",
+      "link": "https://vnexpress.net/hlv-chelsea-dung-voi-vi-estevao-yamal-nhu-messi-ronaldo-moi-4986355.html",
+      "summary": "Theo Enzo Maresca, học trò Estevao và tài năng Barca Lamine Yamal cần chơi bóng với niềm vui, thay vì chịu áp lực so sánh với Lionel Messi, Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T04:59:00+07:00",
+      "fetched": "2025-11-26T13:27:43.495319+07:00"
+    },
+    {
+      "id": "9d070a2d7f738328234ea78f91f8f355",
+      "title": "Ukraine phá hủy nguyên mẫu máy bay mang vũ khí laser của Nga",
+      "link": "https://vnexpress.net/ukraine-pha-huy-nguyen-mau-may-bay-mang-vu-khi-laser-cua-nga-4986306.html",
+      "summary": "Ukraine tập kích nhà máy Beriev ở tỉnh Rostov của Nga, phá hủy nguyên mẫu A-60 từng được dùng để thử nghiệm vũ khí laser.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T04:56:30+07:00",
+      "fetched": "2025-11-26T13:27:29.894703+07:00"
+    },
+    {
+      "id": "9d070a2d7f738328234ea78f91f8f355",
+      "title": "Ukraine phá hủy nguyên mẫu máy bay mang vũ khí laser của Nga",
+      "link": "https://vnexpress.net/ukraine-pha-huy-nguyen-mau-may-bay-mang-vu-khi-laser-cua-nga-4986306.html",
+      "summary": "Ukraine tập kích nhà máy Beriev ở tỉnh Rostov của Nga, phá hủy nguyên mẫu A-60 từng được dùng để thử nghiệm vũ khí laser.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T04:56:30+07:00",
+      "fetched": "2025-11-26T13:27:36.935133+07:00"
+    },
+    {
+      "id": "792fdc50a1bfb2a01ce0c17e0fb304a6",
+      "title": "Quân bài của Trung - Nhật trong cuộc đối đầu ngoại giao",
+      "link": "https://vnexpress.net/quan-bai-cua-trung-nhat-trong-cuoc-doi-dau-ngoai-giao-4986190.html",
+      "summary": "Trung Quốc và Nhật Bản đang mắc kẹt trong tranh cãi ngoại giao nguy hiểm, với những quân bài kinh tế lẫn an ninh có thể gây tổn thất nặng nề cho nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T04:51:54+07:00",
+      "fetched": "2025-11-26T13:27:29.894855+07:00"
+    },
+    {
+      "id": "792fdc50a1bfb2a01ce0c17e0fb304a6",
+      "title": "Quân bài của Trung - Nhật trong cuộc đối đầu ngoại giao",
+      "link": "https://vnexpress.net/quan-bai-cua-trung-nhat-trong-cuoc-doi-dau-ngoai-giao-4986190.html",
+      "summary": "Trung Quốc và Nhật Bản đang mắc kẹt trong tranh cãi ngoại giao nguy hiểm, với những quân bài kinh tế lẫn an ninh có thể gây tổn thất nặng nề cho nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T04:51:54+07:00",
+      "fetched": "2025-11-26T13:27:36.935325+07:00"
+    },
+    {
+      "id": "ba1ad8adf52a7db3a165117358cef1d3",
+      "title": "Những nhà ĐKVĐV tệ nhất ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/nhung-nha-dkvdv-te-nhat-o-ngoai-hang-anh-4985951.html",
+      "summary": "Trước tình trạng hiện tại của Liverpool, lịch sử từng chứng kiến Chelsea, Man Utd hay Leicester sa sút khó hiểu ngay sau khi chức vô địch thuyết phục mùa trước đó ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T04:51:02+07:00",
+      "fetched": "2025-11-26T13:27:29.895005+07:00"
+    },
+    {
+      "id": "ba1ad8adf52a7db3a165117358cef1d3",
+      "title": "Những nhà ĐKVĐV tệ nhất ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/nhung-nha-dkvdv-te-nhat-o-ngoai-hang-anh-4985951.html",
+      "summary": "Trước tình trạng hiện tại của Liverpool, lịch sử từng chứng kiến Chelsea, Man Utd hay Leicester sa sút khó hiểu ngay sau khi chức vô địch thuyết phục mùa trước đó ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T04:51:02+07:00",
+      "fetched": "2025-11-26T13:27:43.494183+07:00"
+    },
+    {
+      "id": "27ab9d1babf00523e523bf0e4d10778a",
+      "title": "Jakarta trở thành siêu đô thị đông dân nhất thế giới",
+      "link": "https://vnexpress.net/jakarta-tro-thanh-sieu-do-thi-dong-dan-nhat-the-gioi-4986278.html",
+      "summary": "Thủ đô Jakarta của Indonesia đã vượt qua Tokyo để trở thành siêu đô thị đông dân nhất thế giới, với dân số lên tới 42 triệu người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T04:37:54+07:00",
+      "fetched": "2025-11-26T13:27:36.935494+07:00"
+    },
+    {
       "id": "f884c75248b469a5a7c5d099fe8dd2f1",
       "title": "Coi giám sát là một kênh xây dựng, củng cố hoạt động chính quyền địa phương 2 cấp",
       "link": "https://thanhnien.vn/coi-giam-sat-la-mot-kenh-xay-dung-cung-co-hoat-dong-chinh-quyen-dia-phuong-2-cap-185251126104028559.htm",
@@ -341,6 +901,16 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T04:16:00+07:00",
       "fetched": "2025-11-26T11:23:04.034802+07:00"
+    },
+    {
+      "id": "76b01e151aeff990ab158f7ff2235373",
+      "title": "Arteta: 'Bayern và Real ở một vũ trụ khác Arsenal'",
+      "link": "https://vnexpress.net/arteta-bayern-va-real-o-mot-vu-tru-khac-arsenal-4986273.html",
+      "summary": "HLV Mikel Arteta thừa nhận Arsenal chưa cùng đẳng cấp so với những đội bóng giàu truyền thống ở châu Âu như Real Madrid hay Bayern Munich, trước lượt năm Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T04:09:45+07:00",
+      "fetched": "2025-11-26T13:27:43.494367+07:00"
     },
     {
       "id": "30e840ac59e9202b3ca556da21f9a48a",
@@ -381,6 +951,16 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T04:02:00+07:00",
       "fetched": "2025-11-26T11:23:04.035462+07:00"
+    },
+    {
+      "id": "8474f47943ddb9d4b1828c0bd06f2492",
+      "title": "Real dùng thủ môn từng là tiền đạo ở Champions League",
+      "link": "https://vnexpress.net/real-dung-thu-mon-tung-la-tien-dao-o-champions-league-4986201.html",
+      "summary": "Real Madrid đăng ký thủ môn 18 tuổi Javi Navarro cho trận gặp Olympiakos ở lượt năm vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T04:01:44+07:00",
+      "fetched": "2025-11-26T13:27:43.495475+07:00"
     },
     {
       "id": "3bfdc13fe9ac6a6c57cc8606dc69d8bb",
@@ -651,6 +1231,16 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T03:43:00+07:00",
       "fetched": "2025-11-26T11:23:04.036879+07:00"
+    },
+    {
+      "id": "6e1f5d857879fa6773b251dedcd43cf2",
+      "title": "Ông Trump bỏ hạn chót để Ukraine chấp nhận kế hoạch hòa bình",
+      "link": "https://vnexpress.net/ong-trump-bo-han-chot-de-ukraine-chap-nhan-ke-hoach-hoa-binh-4986235.html",
+      "summary": "Tổng thống Trump cho biết không còn áp đặt thời hạn chót để Ukraine chấp nhận thỏa thuận hòa bình do ông đề xuất, sau khi từng nêu mốc 27/11.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T03:42:23+07:00",
+      "fetched": "2025-11-26T13:27:36.935655+07:00"
     },
     {
       "id": "ceb467881769e9759ce23c5689687d8e",
