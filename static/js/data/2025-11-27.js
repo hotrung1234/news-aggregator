@@ -1,7 +1,157 @@
 window.newsData_2025_11_27 = {
   "date": "2025-11-27",
-  "lastUpdated": "2025-11-27T10:09:22.532178+07:00",
+  "lastUpdated": "2025-11-27T11:21:23.766773+07:00",
   "articles": [
+    {
+      "id": "279cad8d14c51fb3c308f49b4f0d0e77",
+      "title": "Cháy chung cư khủng khiếp ở Hong Kong khiến nhiều hoạt động giải trí phải hủy hoãn ngay lập tức",
+      "link": "https://tuoitre.vn/chay-chung-cu-khung-khiep-o-hong-kong-khien-nhieu-hoat-dong-giai-tri-phai-huy-hoan-ngay-lap-tuc-20251127084441751.htm",
+      "summary": "Ngày 28 và 29-11 sắp tới, lễ trao giải MAMA 2025 sẽ diễn ra tại Hong Kong. Dù chưa có thông báo chính thức nhưng trên các diễn đàn Hàn Quốc, nhiều khán giả kêu gọi hủy lễ trao giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.305394+07:00",
+      "fetched": "2025-11-27T11:21:17.305509+07:00"
+    },
+    {
+      "id": "34ed8d073b291d936f5b1b754756df7b",
+      "title": "Lợi thế trong khai thác cho thuê tại The Habitat Binh Duong",
+      "link": "https://tuoitre.vn/loi-the-trong-khai-thac-cho-thue-tai-the-habitat-binh-duong-20251121215741943.htm",
+      "summary": "Điểm tạo nên sự khác biệt của dự án không chỉ nằm ở chính sách ‘thanh toán 30% nhận nhà, khai thác cho thuê ngay’, mà còn từ môi trường sống, hệ tiện ích và cộng đồng cư dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.305261+07:00",
+      "fetched": "2025-11-27T11:21:17.305382+07:00"
+    },
+    {
+      "id": "5111abaf25b31045d3ce2ed4c510ecf8",
+      "title": "TP.HCM chuẩn hóa thị trường nha khoa",
+      "link": "https://tuoitre.vn/tphcm-chuan-hoa-thi-truong-nha-khoa-20251125103256442.htm",
+      "summary": "Mới đây Sở Y tế TP.HCM công bố kết quả đánh giá chất lượng phòng khám chuyên khoa Răng Hàm Mặt dựa trên Bộ 15 tiêu chí (Phiên bản 2.2).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.305127+07:00",
+      "fetched": "2025-11-27T11:21:17.305243+07:00"
+    },
+    {
+      "id": "7641fcf8be3cd18dfce282f441a504af",
+      "title": "Kohler ra mắt bồn cầu thông minh Leap",
+      "link": "https://tuoitre.vn/kohler-ra-mat-bon-cau-thong-minh-leap-20251126155012421.htm",
+      "summary": "Bồn cầu thông minh Leap™ là sự kết hợp của công nghệ tự động hóa, làm sạch tiên tiến và thiết kế liền khối tinh gọn, hướng đến trải nghiệm sử dụng thoải mái, an toàn và nâng tầm không gian phòng tắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304972+07:00",
+      "fetched": "2025-11-27T11:21:17.305114+07:00"
+    },
+    {
+      "id": "fdf74d8fd6532810713c9ebf94de61af",
+      "title": "Tín chỉ carbon sẽ là cơ hội vàng cho Tây Ninh mới",
+      "link": "https://tuoitre.vn/tin-chi-carbon-se-la-co-hoi-vang-cho-tay-ninh-moi-20251127084357601.htm",
+      "summary": "Tây Ninh mới sau sáp nhập ở vị trí chiến lược - đang sở hữu những điều kiện đặc biệt thuận lợi để kiến tạo một \"Siêu vùng kinh tế Xanh\" - nơi không chỉ dẫn đầu về sản xuất mà còn trở thành thủ phủ thương mại carbon của cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304848+07:00",
+      "fetched": "2025-11-27T11:21:17.304961+07:00"
+    },
+    {
+      "id": "e2d213351f41211a183309094a9a0a22",
+      "title": "Luật hóa quy định về thu phí khác với quy định buộc trả phí khi đọc báo",
+      "link": "https://tuoitre.vn/luat-hoa-quy-dinh-ve-thu-phi-khac-voi-quy-dinh-buoc-tra-phi-khi-doc-bao-20251127084831556.htm",
+      "summary": "Trao đổi với Tuổi Trẻ, đại biểu Phan Thị Thanh Phương (TP.HCM) nói bà đề xuất luật hóa các hoạt động kinh tế báo chí, thu phí đọc báo chứ không phải đề xuất quy định cứng bắt buộc người đọc phải trả tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304718+07:00",
+      "fetched": "2025-11-27T11:21:17.304837+07:00"
+    },
+    {
+      "id": "69ba9313a272556b3b09c07dd9bc956e",
+      "title": "Kế hoạch hòa bình cho Ukraine: Hòa ước hay hàng ước?",
+      "link": "https://tuoitre.vn/ke-hoach-hoa-binh-cho-ukraine-hoa-uoc-hay-hang-uoc-20251127055141412.htm",
+      "summary": "Kế hoạch hòa bình cho Ukraine do Mỹ đề xuất đã giảm từ 28 xuống 19 điểm, nhưng vẫn còn khoảng cách lớn giữa các bên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304595+07:00",
+      "fetched": "2025-11-27T11:21:17.304707+07:00"
+    },
+    {
+      "id": "8c3872f7e417ad385c95b22ac81bcded",
+      "title": "Công an làm việc với tài xế xe tải cầm dao dọa chém người trên cao tốc Trung Lương - Mỹ Thuận",
+      "link": "https://tuoitre.vn/cong-an-lam-viec-voi-tai-xe-xe-tai-cam-dao-doa-chem-nguoi-tren-cao-toc-trung-luong-my-thuan-20251127082259024.htm",
+      "summary": "Tài xế xe tải bị cảnh sát giao thông mời làm việc vì có hành vi cầm dao tự chế, thò ra ngoài cửa xe, liên tục chỉ về phía xe có người đang quay clip.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304470+07:00",
+      "fetched": "2025-11-27T11:21:17.304584+07:00"
+    },
+    {
+      "id": "00e227695a2f703ec66e88b748fbd501",
+      "title": "Khi AI 'dẫn lối' trong thế giới tìm kiếm",
+      "link": "https://tuoitre.vn/khi-ai-dan-loi-trong-the-gioi-tim-kiem-20251127054511505.htm",
+      "summary": "Trí tuệ nhân tạo (AI) đang thay đổi cách con người tìm kiếm thông tin nhanh hơn bất kỳ công nghệ nào trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304340+07:00",
+      "fetched": "2025-11-27T11:21:17.304459+07:00"
+    },
+    {
+      "id": "4251e966d85df1150a9f9467f63751ba",
+      "title": "Nhà nuôi chim yến mở loa từ sáng đến đêm suốt 16 năm qua, phải làm sao?",
+      "link": "https://tuoitre.vn/nha-nuoi-chim-yen-mo-loa-tu-sang-den-dem-suot-16-nam-qua-phai-lam-sao-202511131615112.htm",
+      "summary": "Nhà tôi cách quốc lộ khoảng 60m, các nhà yến bật loa kêu từ sáng đến đêm. Gần 16 năm qua, không ai đến giải quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304205+07:00",
+      "fetched": "2025-11-27T11:21:17.304322+07:00"
+    },
+    {
+      "id": "7d7fb9d5baf4e49d1543a2ae178f24bc",
+      "title": "Thanh Thủy sẽ trao lại vương miện Hoa hậu Quốc tế cho mỹ nhân sáng giá nào?",
+      "link": "https://tuoitre.vn/thanh-thuy-se-trao-lai-vuong-mien-hoa-hau-quoc-te-cho-my-nhan-sang-gia-nao-20251127090315916.htm",
+      "summary": "Người đẹp Tây Ban Nha, Ấn Độ, Venezuela, Colombia... là những ứng viên có khả năng cao giành vương miện Hoa hậu Quốc tế 2025 (Miss International) trong chung kết diễn ra tối nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.304073+07:00",
+      "fetched": "2025-11-27T11:21:17.304193+07:00"
+    },
+    {
+      "id": "eccf3632fa517ff3bfadc712ddfeaa54",
+      "title": "Hơn 3.000 hộ nghèo và cận nghèo ở Cà Mau được xem xét hỗ trợ 1 triệu đồng do thiên tai",
+      "link": "https://tuoitre.vn/hon-3-000-ho-ngheo-va-can-ngheo-o-ca-mau-duoc-xem-xet-ho-tro-1-trieu-dong-do-thien-tai-202511270821555.htm",
+      "summary": "Hơn 3.000 hộ nghèo và cận nghèo tại Cà Mau bị thiệt hại sản xuất, giảm thu nhập do mưa lớn kéo dài và triều cường dâng cao những ngày qua sẽ được xem xét hỗ trợ 1 triệu đồng từ quỹ cứu trợ tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.303924+07:00",
+      "fetched": "2025-11-27T11:21:17.304060+07:00"
+    },
+    {
+      "id": "79b7d2adc320cea429e3efb9fdb396a1",
+      "title": "Hà Nội thu 12.000 đồng/giờ nếu phụ huynh đón con muộn hoặc gửi sớm",
+      "link": "https://tuoitre.vn/ha-noi-thu-12-000-dong-gio-neu-phu-huynh-don-con-muon-hoac-gui-som-20251127090847318.htm",
+      "summary": "Sáng 27-11, HĐND TP Hà Nội đã thông qua nghị quyết quy định danh mục các khoản thu và mức thu, cơ chế quản lý thu, chi đối với các dịch vụ phục vụ, hỗ trợ hoạt động giáo dục, đào tạo đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.303790+07:00",
+      "fetched": "2025-11-27T11:21:17.303912+07:00"
+    },
+    {
+      "id": "55da7d57a4c31832eec88fe75ed354ea",
+      "title": "Hình ảnh tang thương vụ cháy chung cư ở Hong Kong khiến 44 người chết, hàng trăm người mất tích",
+      "link": "https://tuoitre.vn/hinh-anh-tang-thuong-vu-chay-chung-cu-o-hong-kong-khien-44-nguoi-chet-hang-tram-nguoi-mat-tich-20251127084704336.htm",
+      "summary": "Chủ tịch Trung Quốc Tập Cận Bình đã gửi lời chia buồn đến gia đình của các nạn nhân trong vụ cháy chung cư ở Hong Kong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.303632+07:00",
+      "fetched": "2025-11-27T11:21:17.303777+07:00"
+    },
+    {
+      "id": "c4976b3cdccc0969fde17fb4144e4a24",
+      "title": "Đại biểu đề nghị cấm tuyệt đối kinh doanh bóng cười",
+      "link": "https://tuoitre.vn/dai-bieu-de-nghi-cam-tuyet-doi-kinh-doanh-bong-cuoi-20251127091407853.htm",
+      "summary": "Cho rằng những quả bóng cười gây nghiện mạnh, phá hủy thần kinh, để lại di chứng, đại biểu Quốc hội Phạm Trọng Nhân đề nghị cấm tuyệt đối việc kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T11:21:17.303380+07:00",
+      "fetched": "2025-11-27T11:21:17.303614+07:00"
+    },
     {
       "id": "b07c1e31a2e187ea55d86a01f34cd643",
       "title": "Thực hư chuyện '16 triệu người Việt Nam chơi pickleball'",
@@ -301,6 +451,346 @@ window.newsData_2025_11_27 = {
       "category": "Tổng hợp",
       "published": "2025-11-27T08:17:54.077587+07:00",
       "fetched": "2025-11-27T08:17:54.077794+07:00"
+    },
+    {
+      "id": "b825dab9c03db4d6fb55f1f24405e47c",
+      "title": "Xôn xao clip nhóm người đánh, dùng đá đập đầu 2 nam thanh niên ở TP.HCM",
+      "link": "https://thanhnien.vn/xon-xao-clip-nhom-nguoi-danh-dung-da-dap-dau-2-nam-thanh-nien-o-tphcm-185251127101604776.htm",
+      "summary": "Một đoạn clip lan truyền trên mạng ghi lại cảnh 2 nam thanh niên bị nhóm người vây đánh, đấm đá túi bụi vào mặt, thậm chí dùng đá đập đầu nạn nhân gây bức xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:12:00+07:00",
+      "fetched": "2025-11-27T11:21:16.645693+07:00"
+    },
+    {
+      "id": "610eaba80e555f32c9ae1102b29554bf",
+      "title": "Bộ trưởng Tài chính: Tuyệt đối không cấp phép dự án mới về thuốc lá điện tử",
+      "link": "https://thanhnien.vn/bo-truong-tai-chinh-tuyet-doi-khong-cap-phep-du-an-moi-ve-thuoc-la-dien-tu-185251127102532071.htm",
+      "summary": "Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng khẳng định sẽ tuyệt đối không cấp phép cho dự án mới về thuốc lá điện tử, thuốc lá nung nóng sau khi Nghị quyết số 173/2024 có hiệu lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:11:00+07:00",
+      "fetched": "2025-11-27T11:21:16.645872+07:00"
+    },
+    {
+      "id": "c90fabc8a06f2937c0950e5650af9c4e",
+      "title": "Tái diễn nạn khai thác vàng trái phép trong rừng sâu ở Hà Tĩnh",
+      "link": "https://thanhnien.vn/tai-dien-nan-khai-thac-vang-trai-phep-trong-rung-sau-o-ha-tinh-185251127100857195.htm",
+      "summary": "Công an xã Kỳ Thượng (tỉnh Hà Tĩnh) vừa phát hiện 1 điểm khai thác vàng trái phép trong rừng sâu. Đây là khu vực mà nhiều năm trước trở thành điểm nóng về nạn khai thác vàng trái phép ở Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:10:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646052+07:00"
+    },
+    {
+      "id": "cfdcce87274e45683ccbcdd8c98728fc",
+      "title": "Người dân giăng lưới đánh cầu lông giữa đường ở quận 7 cũ: CSGT TP.HCM xác minh",
+      "link": "https://thanhnien.vn/nguoi-dan-giang-luoi-danh-cau-long-giua-duong-o-quan-7-cu-csgt-tphcm-xac-minh-185251127110752598.htm",
+      "summary": "Mạng xã hội đang chia sẻ clip người dân giăng lưới đánh cầu lông giữa đường ở quận 7 cũ. CSGT TP.HCM cho biết đang xác minh, xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:09:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646214+07:00"
+    },
+    {
+      "id": "703418832ba41bd2f3999f6920b6ac9e",
+      "title": "Quảng Ngãi: Bắt giữ khẩn cấp người cha ôm 2 con nhảy cầu Trường Xuân",
+      "link": "https://thanhnien.vn/quang-ngai-bat-giu-khan-cap-nguoi-cha-om-2-con-nhay-cau-truong-xuan-185251126203939868.htm",
+      "summary": "Cơ quan CSĐT Công an tỉnh Quảng Ngãi vừa bắt giữ khẩn cấp Võ Văn T. (ở xã Tư Nghĩa) để điều tra hành vi giết người, sau khi T. ôm 2 con nhỏ nhảy cầu khiến bé gái 2 tuổi tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:09:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646370+07:00"
+    },
+    {
+      "id": "0051958e83b8fde3f65f56c0b15ee182",
+      "title": "Học phí trường chất lượng cao ở Hà Nội cao nhất 6,1 triệu đồng",
+      "link": "https://vnexpress.net/hoc-phi-tat-ca-truong-chat-luong-cao-o-ha-noi-nam-hoc-2025-2026-4986730.html",
+      "summary": "17 trường công lập chất lượng cao thu học phí từ 3 đến 6,1 triệu đồng một tháng, trong đó nhiều trường tăng 300.000-600.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:08:23+07:00",
+      "fetched": "2025-11-27T11:21:13.457044+07:00"
+    },
+    {
+      "id": "97c8c37aad478c18f80f97e74841f371",
+      "title": "Hàng tấn ván bóc từ xe tải đổ ụp xuống đường cao tốc",
+      "link": "https://vnexpress.net/hang-tan-van-boc-tu-xe-tai-do-up-xuong-duong-cao-toc-4986747.html",
+      "summary": "Tốc độ cao, chiếc xe tải chở hàng cao hơn gầm cầu vượt Điểm Thụy nên bị rơi vãi ra đường cao tốc Thái Nguyên - Hà Nội, tối 26/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:08:10+07:00",
+      "fetched": "2025-11-27T11:21:13.457223+07:00"
+    },
+    {
+      "id": "4522f8001c79bf2a7e619072671d5772",
+      "title": "Nội bộ bóng đá Malaysia rối loạn khi 'tứ bề thọ địch'",
+      "link": "https://thanhnien.vn/noi-bo-bong-da-malaysia-roi-loan-khi-tu-be-tho-dich-185251127105651718.htm",
+      "summary": "Đến ngày 27.11, Liên đoàn Bóng đá Malaysia (FAM) vẫn giữ im lặng tuyệt đối khả năng nộp đơn kiện lên CAS, giữa lúc quyền chủ tịch Yusoff Mahadi lên tiếng vụ nhà báo Haresh Deol bị hành hung. Luật sư nêu khả năng cầu thủ kiện FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:07:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646525+07:00"
+    },
+    {
+      "id": "0c381b528837c03f5a9ac237c1f848ae",
+      "title": "Luôn sống trong bất an khi đưa vợ 80% lương",
+      "link": "https://vnexpress.net/vo-vung-ve-khong-biet-nau-an-luon-song-trong-bat-an-khi-dua-vo-80-luong-4986728.html",
+      "summary": "Có lần đi công tác, tôi chỉ còn hai triệu đồng; tôi là trụ cột nhưng lại không có quyền quyết định và cảm giác an toàn tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:06:01+07:00",
+      "fetched": "2025-11-27T11:21:13.457400+07:00"
+    },
+    {
+      "id": "f8486e3431aaa0ae4799248f526a40a1",
+      "title": "Những thiết bị tránh cắm vào máy phát điện",
+      "link": "https://thanhnien.vn/nhung-thiet-bi-tranh-cam-vao-may-phat-dien-185251127011405656.htm",
+      "summary": "Khi mất điện, một chiếc máy phát điện có thể trở thành thiết bị hữu ích cho gia đình, nhưng không phải thiết bị nào cũng có thể cắm vào chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:05:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646677+07:00"
+    },
+    {
+      "id": "ae1043dc5be6aa3dd5104e669bd6640f",
+      "title": "iPhone 17 Pro Max sẽ giảm giá mạnh vào thời điểm nào?",
+      "link": "https://thanhnien.vn/iphone-17-pro-max-se-giam-gia-manh-vao-thoi-diem-nao-185251127111029201.htm",
+      "summary": "iPhone 17 Pro Max ra mắt khẳng định vị thế 'vua giá' trên thị trường. Tuy nhiên, với người tiêu dùng thông minh, nắm bắt thời điểm phù hợp để sở hữu iPhone 17 Pro Max là chiến lược quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:04:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646834+07:00"
+    },
+    {
+      "id": "5a74075cb8476b9bec50b2c993983c23",
+      "title": "Kiện công ty mai mối vì 'thổi phồng' tài sản nhà chú rể",
+      "link": "https://vnexpress.net/kien-cong-ty-mai-moi-vi-thoi-phong-tai-san-nha-chu-re-4986749.html",
+      "summary": "Sau kết hôn, người phụ nữ kiện công ty mai mối vì cung cấp thông tin sai lệch chú rể có cha mẹ sở hữu khối tài sản hơn 10 tỷ won.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:01:35+07:00",
+      "fetched": "2025-11-27T11:21:13.457564+07:00"
+    },
+    {
+      "id": "d3252580f216b2259cca7d6bd9dd145a",
+      "title": "SUV đô thị: Mitsubishi Xforce vượt Toyota Yaris Cross, cuộc đua doanh số ‘nóng’ trở lại",
+      "link": "https://thanhnien.vn/suv-do-thi-mitsubishi-xforce-vuot-toyota-yaris-cross-cuoc-dua-doanh-so-nong-tro-lai-185251120054740621.htm",
+      "summary": "Với gần 1.900 xe đến tay người dùng trong tháng qua, Mitsubishi Xforce đang khiến cuộc đua doanh số ở phân khúc SUV đô thị bắt đầu \"nóng\" trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:01:00+07:00",
+      "fetched": "2025-11-27T11:21:16.646985+07:00"
+    },
+    {
+      "id": "0106059abfa304c76a053ef6773a2501",
+      "title": "Không khí lạnh khiến TP HCM xuống dưới 20 độ C",
+      "link": "https://vnexpress.net/khong-khi-lanh-khien-tp-hcm-xuong-duoi-20-do-c-4986743.html",
+      "summary": "Do hai khối không khí lạnh tăng cường liên tiếp, từ ngày 28/11, nhiệt độ thấp nhất tại TP HCM có thể giảm xuống dưới 20 độ C và duy trì đến ngày 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:57+07:00",
+      "fetched": "2025-11-27T11:21:13.457719+07:00"
+    },
+    {
+      "id": "80e8ed7417402f13d6876c0876f89682",
+      "title": "Lyly tham gia chiến dịch mới của nước dưỡng tóc thuần chay Herbario",
+      "link": "https://vnexpress.net/lyly-tham-gia-chien-dich-moi-cua-nuoc-duong-toc-thuan-chay-herbario-4986723.html",
+      "summary": "Ca sĩ Lyly đồng hành chiến dịch \"Rụng tim đừng rụng tóc\" của Herbario, truyền thông điệp về vẻ đẹp tự nhiên, tích cực và lành tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.457880+07:00"
+    },
+    {
+      "id": "d0912ddf00614da29f18842fda4deb04",
+      "title": "'Tỷ giá leo thang tạo sức ép lên thị trường chứng khoán'",
+      "link": "https://vnexpress.net/ty-gia-leo-thang-tao-suc-ep-len-thi-truong-chung-khoan-4986710.html",
+      "summary": "Tỷ giá USD/VND leo lên vùng 26.000-26.400 đồng trong khi thị trường tự do có lúc chạm 28.000 đồng khiến chi phí vốn và tâm lý thị trường chịu sức ép, theo chuyên gia Nguyễn Anh Quân của DNSE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458053+07:00"
+    },
+    {
+      "id": "4ec06df0aff7b7b3b0cd3a27c806c3dc",
+      "title": "Chuyên gia quốc tế bàn tiến bộ công nghệ trong y học",
+      "link": "https://vnexpress.net/chuyen-gia-quoc-te-ban-tien-bo-cong-nghe-trong-y-hoc-4986644.html",
+      "summary": "Các chuyên gia quốc tế thảo luận tiến bộ công nghệ trong y học, từ y học chính xác, dược phẩm thế hệ mới đến giải pháp số theo dõi... tại Tuần lễ VinFuture 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458211+07:00"
+    },
+    {
+      "id": "8db481bff2b249c2ebcd670daa2d88ce",
+      "title": "Bé trai bị áp xe do rò khe mang ở vùng cổ",
+      "link": "https://vnexpress.net/be-trai-bi-ap-xe-do-ro-khe-mang-o-vung-co-4986638.html",
+      "summary": "Bé Thái, một tuổi, bị dị tật bẩm sinh rò khe mang ở cổ song không phát hiện dẫn đến biến chứng áp xe, gây bội nhiễm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458369+07:00"
+    },
+    {
+      "id": "8ac26354cb5f673ef637af4b6dc2d5d8",
+      "title": "Ăn việt quất tốt cho não thế nào",
+      "link": "https://vnexpress.net/an-viet-quat-tot-cho-nao-the-nao-4986632.html",
+      "summary": "Ăn 150 g việt quất mỗi ngày cung cấp các loại vitamin, các chất chống gốc tự do có thể bảo vệ tế bào thần kinh và mạch máu não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458521+07:00"
+    },
+    {
+      "id": "9a102df3938c4bddfde886879c244b8e",
+      "title": "Siêu thị điện máy MediaMart giảm giá sâu dịp Black Friday",
+      "link": "https://vnexpress.net/sieu-thi-dien-may-mediamart-giam-gia-sau-dip-black-friday-4986517.html",
+      "summary": "Người tiêu dùng có cơ hội \"nâng cấp\" TV, tủ lạnh, máy giặt... với giá khuyến mãi lớn, được miễn phí giao hàng, lắp đặt hay trả góp lãi suất 0%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458678+07:00"
+    },
+    {
+      "id": "cf1275d9d3b87d9e4dd172ddbecf8195",
+      "title": "Khách sạn The Reverie Saigon ra mắt bộ quà Tết cao cấp",
+      "link": "https://vnexpress.net/khach-san-the-reverie-saigon-ra-mat-bo-qua-tet-cao-cap-4986428.html",
+      "summary": "Khách sạn The Reverie Saigon vừa giới thiệu bộ quà tặng \"Kim Bảo Tước\", lấy cảm hứng từ chim khổng tước - biểu tượng của sự may mắn, thịnh vượng và vĩnh cửu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458835+07:00"
+    },
+    {
+      "id": "9a49ed7945980d89ac56003ae259f111",
+      "title": "Điện Thoại Vui ra mắt trạm công nghệ lưu động dịp Black Friday",
+      "link": "https://vnexpress.net/dien-thoai-vui-ra-mat-tram-cong-nghe-luu-dong-dip-black-friday-4969339.html",
+      "summary": "Trạm công nghệ lưu động do hệ thống Điện Thoại Vui triển khai cuối tháng 11, mang đến mô hình trải nghiệm mua sắm, sửa chữa kết hợp tương tác cho người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:13.458993+07:00"
+    },
+    {
+      "id": "b11ee1eac3afb5b05d39968b64d31917",
+      "title": "Xem nhanh 12h: Tai nạn kinh hoàng ở Lạng Sơn | Gặp chủ nhà cứu hơn 100 người ở Hòa Thịnh",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-tai-nan-kinh-hoang-o-lang-son-gap-chu-nha-cuu-hon-100-nguoi-o-hoa-thinh-185251127105216975.htm",
+      "summary": "Mưa lũ miền Trung, bão số 15, cháy chung cư ở Hồng Kông… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 27.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647163+07:00"
+    },
+    {
+      "id": "4e7eb64f104b7bd023094d9f21a1ad94",
+      "title": "Những sản phẩm phục vụ cộng đồng xuất phát từ giảng đường",
+      "link": "https://thanhnien.vn/nhung-san-pham-phuc-vu-cong-dong-xuat-phat-tu-giang-duong-185251127101759726.htm",
+      "summary": "Thị trường lao động hiện đại đang đo năng lực bằng kết quả thực hành. Phương châm 'học thật - làm thật' vì thế đang định hình lại cách sinh viên chuẩn bị cho tương lai nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647319+07:00"
+    },
+    {
+      "id": "549c5185da270dc3eea93f641f2e1824",
+      "title": "FUWA Biotech - Dấu ấn công nghệ sinh học trong ngành tẩy rửa xanh",
+      "link": "https://thanhnien.vn/fuwa-biotech-dau-an-cong-nghe-sinh-hoc-trong-nganh-tay-rua-xanh-185251127100746183.htm",
+      "summary": "Thành lập năm 2019, FUWA Biotech khởi nguồn từ một trăn trở. Liệu chúng ta có thể tìm ra một con đường vừa giúp phát triển kinh tế, vừa bảo vệ sức khỏe con người và môi trường tự nhiên hay không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647471+07:00"
+    },
+    {
+      "id": "4ec06df0aff7b7b3b0cd3a27c806c3dc",
+      "title": "Chuyên gia quốc tế bàn tiến bộ công nghệ trong y học",
+      "link": "https://vnexpress.net/chuyen-gia-quoc-te-ban-tien-bo-cong-nghe-trong-y-hoc-4986644.html",
+      "summary": "Các chuyên gia quốc tế thảo luận tiến bộ công nghệ trong y học, từ y học chính xác, dược phẩm thế hệ mới đến giải pháp số theo dõi... tại Tuần lễ VinFuture 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-27T04:00:00+07:00",
+      "fetched": "2025-11-27T11:21:22.674174+07:00"
+    },
+    {
+      "id": "094d8cb7d6328140aa58bd9ad12f92e3",
+      "title": "'Thuê mặt bằng 20 triệu để bán mỗi ngày 14 tô bún'",
+      "link": "https://vnexpress.net/quan-bun-ha-noi-ngon-bo-thue-khoan-thue-mat-ban-kinh-doanh-200-trieu-cham-nguong-dong-thue-4986731.html",
+      "summary": "Bài toán bán 14 tô bún đặt ra nhiều câu hỏi về mức thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:56:23+07:00",
+      "fetched": "2025-11-27T11:21:13.459172+07:00"
+    },
+    {
+      "id": "297cb1055007208c2bfb710709bb5e3f",
+      "title": "Thời tiết TP.HCM hôm nay se lạnh, Nam bộ có nơi dưới 18 độ C",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-hom-nay-se-lanh-nam-bo-co-noi-duoi-18-do-c-185251127105125694.htm",
+      "summary": "Hôm nay 27.11, thời tiết TP.HCM dự báo xuống thấp nhất 20 độ C ở Bình Dương, Củ Chi, Hóc Môn; trung tâm và các nơi còn lại thấp nhất 21 độ C. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:54:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647620+07:00"
+    },
+    {
+      "id": "d96935847aac11542b8b19bfa5b82d08",
+      "title": "Shipper tông ngã bà bầu: Tài xế hay công ty quản lý phải bồi thường?",
+      "link": "https://vnexpress.net/shipper-tong-nga-ba-bau-tai-xe-hay-cong-ty-quan-ly-phai-boi-thuong-4986725.html",
+      "summary": "Shipper Tiểu Quang chạy xe máy điện giao hàng, tông phải bà bầu khiến cô sinh non, song tòa cho rằng anh đang \"làm nhiệm vụ\" nên công ty quản lý phải bồi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:51:37+07:00",
+      "fetched": "2025-11-27T11:21:13.459345+07:00"
+    },
+    {
+      "id": "cb52477667084f036d1daf5bf77b591a",
+      "title": "Hà Nội cho thu tối đa 12.000 đồng/60 phút trông học sinh ngoài giờ học",
+      "link": "https://thanhnien.vn/ha-noi-cho-thu-toi-da-12000-dong-60-phut-trong-hoc-sinh-ngoai-gio-hoc-185251127094941952.htm",
+      "summary": "Từ năm học 2025 - 2026, Hà Nội cho phép các trường mầm non, phổ thông công lập được tổ chức trông học sinh ngoài giờ học chính khóa với mức thu tối đa là 12.000 đồng/60 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:49:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647769+07:00"
+    },
+    {
+      "id": "7408b7779d3cbc8c0c1285beb2352872",
+      "title": "Phòng khám chuyên khoa mắt bác sĩ Bảo Minh: Địa điểm khám mắt cận uy tín",
+      "link": "https://thanhnien.vn/phong-kham-chuyen-khoa-mat-bac-si-bao-minh-dia-diem-kham-mat-can-uy-tin-185251127105318367.htm",
+      "summary": "Trong thời gian gần đây, nhu cầu khám mắt cận cho trẻ tại Vĩnh Long (Bến Tre cũ) cũng như khu vực lân cận tăng cao. Sự thay đổi trong thói quen sinh hoạt như: sử dụng thiết bị điện tử kéo dài, học online, môi trường làm việc nhiều ánh sáng xanh... khiến nhu cầu chăm sóc mắt chuyên sâu trở thành mối ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:43:00+07:00",
+      "fetched": "2025-11-27T11:21:16.647925+07:00"
+    },
+    {
+      "id": "d889378e6254ea52a0a08e39270f53ed",
+      "title": "19 giờ hỏa hoạn thiêu đốt khu chung cư Hong Kong",
+      "link": "https://vnexpress.net/19-gio-hoa-hoan-thieu-dot-khu-chung-cu-hong-kong-4986658.html",
+      "summary": "Ngọn lửa bao trùm cụm chung cư Wang Fuk Court từ chiều 26/11, lực lượng cứu hỏa gặp khó khăn và chưa thể dập tắt đám cháy sau gần một ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T03:23:56+07:00",
+      "fetched": "2025-11-27T11:21:18.954591+07:00"
+    },
+    {
+      "id": "d6bbd7877f286c1e4ca832cab286fc92",
+      "title": "Nga phát triển UAV chuyên săn lùng HIMARS, pháo NATO",
+      "link": "https://vnexpress.net/nga-phat-trien-uav-chuyen-san-lung-himars-phao-nato-4986659.html",
+      "summary": "Tập đoàn Nga thông báo đã phát triển và đang sản xuất hàng loạt UAV mới, có nhiệm vụ tìm diệt tổ hợp HIMARS và các mẫu pháo NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T03:23:31+07:00",
+      "fetched": "2025-11-27T11:21:18.954767+07:00"
+    },
+    {
+      "id": "ffda9e393e4d718c2289145c5100af29",
+      "title": "Nghi phạm bắn hai lính Vệ binh Quốc gia là người nhập cư",
+      "link": "https://vnexpress.net/nghi-pham-ban-hai-linh-ve-binh-quoc-gia-la-nguoi-nhap-cu-4986665.html",
+      "summary": "Một người di cư từ Afghanistan vào Mỹ năm 2021 được xác định là nghi phạm đã nổ súng bắn trọng thương hai lính Vệ binh Quốc gia gần Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T03:20:04+07:00",
+      "fetched": "2025-11-27T11:21:18.954933+07:00"
     },
     {
       "id": "dfafc7d901f64cf510350e8563d57014",
