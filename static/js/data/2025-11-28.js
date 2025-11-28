@@ -1,7 +1,157 @@
 window.newsData_2025_11_28 = {
   "date": "2025-11-28",
-  "lastUpdated": "2025-11-28T19:36:06.575743+07:00",
+  "lastUpdated": "2025-11-28T21:17:23.193672+07:00",
   "articles": [
+    {
+      "id": "929af0f5150cdfa423caee47a58750a9",
+      "title": "Chị gái phủ nhận lừa bạn gái của em trai góp tiền mua đất, vẫn bị tòa tuyên 13 năm tù",
+      "link": "https://tuoitre.vn/chi-gai-phu-nhan-lua-ban-gai-cua-em-trai-gop-tien-mua-dat-van-bi-toa-tuyen-13-nam-tu-20251128181823224.htm",
+      "summary": "Bị cáo Phạm Thị Mỹ phủ nhận cáo buộc lừa đảo, khai có nhận 1 tỉ đồng từ bạn gái của em trai để cùng 'hợp tác đầu tư' mua đất. Phía cơ quan tố tụng cho rằng hành vi của bà Mỹ đã cấu thành tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.606240+07:00",
+      "fetched": "2025-11-28T21:17:14.606361+07:00"
+    },
+    {
+      "id": "9d521c511be0a4b2f222f3a4985ccd5c",
+      "title": "Xôn xao việc Tuấn Kiệt khóc cầu cứu xin quyên góp cho vợ phẫu thuật gan",
+      "link": "https://tuoitre.vn/xon-xao-viec-tuan-kiet-khoc-cau-cuu-xin-quyen-gop-cho-vo-phau-thuat-gan-20251128184030695.htm",
+      "summary": "Đầu tháng 11, mạng xã hội từng xôn xao khi Hải Tuấn Kiệt đăng đoạn video cầu cứu cộng đồng, anh bật khóc nức nở nói vợ mình đang trong tình trạng nguy kịch, cần gấp 700.000 đô la Hong Kong để phẫu thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.606108+07:00",
+      "fetched": "2025-11-28T21:17:14.606224+07:00"
+    },
+    {
+      "id": "7a9b7e29344486c299e743ad5ddfd84e",
+      "title": "Tăng niên hạn sử dụng của đầu máy, toa xe đường sắt thêm 20 năm",
+      "link": "https://tuoitre.vn/tang-nien-han-su-dung-cua-dau-may-toa-xe-duong-sat-them-20-nam-20251128180444721.htm",
+      "summary": "Đầu máy, toa xe chở khách chạy trên tuyến đường sắt quốc gia được tăng niên hạn sử dụng thêm 20 năm so với hiện hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605945+07:00",
+      "fetched": "2025-11-28T21:17:14.606094+07:00"
+    },
+    {
+      "id": "4467d7743d28314d163eb295cea35b57",
+      "title": "Thanh Thúy góp mặt trong đội hình 28 siêu sao bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/thanh-thuy-gop-mat-trong-doi-hinh-28-sieu-sao-bong-chuyen-the-gioi-20251128182836227.htm",
+      "summary": "Liên tục tỏa sáng trong màu áo CLB Gunma Green Wings ở Giải vô địch bóng chuyền Nhật Bản (SV League), Trần Thị Thanh Thúy mới đây đã nhận vinh dự cực lớn từ ban tổ chức giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605821+07:00",
+      "fetched": "2025-11-28T21:17:14.605934+07:00"
+    },
+    {
+      "id": "888796c806c22ce9f0904e631db5300e",
+      "title": "Đề nghị phạt cựu Giám đốc Sở Y tế Bà Rịa - Vũng Tàu 4-5 năm tù",
+      "link": "https://tuoitre.vn/de-nghi-phat-cuu-giam-doc-so-y-te-ba-ria-vung-tau-4-5-nam-tu-20251128182242137.htm",
+      "summary": "Cựu Giám đốc Sở Y tế Bà Rịa - Vũng Tàu Phạm Minh An bị đề nghị mức án 4-5 năm tù, về tội thiếu trách nhiệm gây hậu quả nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605696+07:00",
+      "fetched": "2025-11-28T21:17:14.605810+07:00"
+    },
+    {
+      "id": "85a2d8fd782e9c5aeee75d49dcda5603",
+      "title": "TP.HCM tháo gỡ, chia sẻ với PepsiCo các đề xuất cải thiện môi trường kinh doanh",
+      "link": "https://tuoitre.vn/tp-hcm-thao-go-chia-se-voi-pepsico-cac-de-xuat-cai-thien-moi-truong-kinh-doanh-20251128181708063.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được hoan nghênh các kế hoạch kinh doanh và mở rộng của PepsiCo tại Việt Nam và TP.HCM, cam kết thành phố sẽ tiếp tục đồng hành và tạo điều kiện cho các doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605569+07:00",
+      "fetched": "2025-11-28T21:17:14.605684+07:00"
+    },
+    {
+      "id": "1df6f0089b433352357796098f5f54bc",
+      "title": "Doanh nghiệp 'săn' lao động từng làm việc tại Hàn Quốc, Nhật Bản",
+      "link": "https://tuoitre.vn/doanh-nghiep-san-lao-dong-tung-lam-viec-tai-han-quoc-nhat-ban-2025112816470146.htm",
+      "summary": "Gần 1.900 chỉ tiêu việc làm được các doanh nghiệp tung ra để tuyển lao động từng làm việc ở Hàn Quốc, Nhật Bản, kèm thu nhập hấp dẫn do lợi thế ngoại ngữ của các ứng viên này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605441+07:00",
+      "fetched": "2025-11-28T21:17:14.605557+07:00"
+    },
+    {
+      "id": "7715f56e648ccc9f09d40070a851d8b5",
+      "title": "Doanh nghiệp khai thác vàng lớn nhất Việt Nam đối diện nguy cơ rời sàn chứng khoán",
+      "link": "https://tuoitre.vn/doanh-nghiep-khai-thac-vang-lon-nhat-viet-nam-doi-dien-nguy-co-roi-san-chung-khoan-20251128175253839.htm",
+      "summary": "Trên cơ sở cổ đông kiểm soát gần như tuyệt đối và phần lớn vốn nằm trong tay Nhà nước, Tổng công ty Khoáng sản - TKV (Vimico) vừa thông báo có khả năng nộp hồ sơ xin hủy tư cách công ty đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605309+07:00",
+      "fetched": "2025-11-28T21:17:14.605429+07:00"
+    },
+    {
+      "id": "91b0367f13c2b62d99efa5a8b26f1a2e",
+      "title": "Cùng nghe Mizuki Park kể chuyện an cư của hơn 4.000 cư dân",
+      "link": "https://tuoitre.vn/cung-nghe-mizuki-park-ke-chuyen-an-cu-cua-hon-4000-cu-dan-20251128111413013.htm",
+      "summary": "Sau 3-5 năm gắn bó, cư dân Mizuki Park kể về tổ ấm bằng ánh mắt tràn đầy hạnh phúc, như thể mỗi ngày ở đây đều mở ra một lý do mới để yêu thêm chữ ‘nhà’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605178+07:00",
+      "fetched": "2025-11-28T21:17:14.605297+07:00"
+    },
+    {
+      "id": "4bc9a4cc851e2e0824177f3c313dec56",
+      "title": "Danone: Mang di sản dinh dưỡng hơn 100 năm trên toàn cầu tới Việt Nam",
+      "link": "https://tuoitre.vn/danone-mang-di-san-dinh-duong-hon-100-nam-tren-toan-cau-toi-viet-nam-20251128173148012.htm",
+      "summary": "Tầm nhìn ‘One Planet. One Health - Một hành tinh. Một sức khỏe’ không chỉ là kim chỉ nam cho hành trình hơn 100 năm của Danone mà còn là bảo chứng cho thương hiệu Aptamil.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.605026+07:00",
+      "fetched": "2025-11-28T21:17:14.605161+07:00"
+    },
+    {
+      "id": "a20ac54c54024ef32e1619edc68135a7",
+      "title": "4 ngày 3 lần xét nghiệm máu: Để theo dõi bệnh hay để tăng doanh thu bệnh viện?",
+      "link": "https://tuoitre.vn/4-ngay-3-lan-xet-nghiem-mau-de-theo-doi-benh-hay-de-tang-doanh-thu-benh-vien-20251128174600827.htm",
+      "summary": "Việc một bệnh nhân phải làm xét nghiệm máu ba lần trong bốn ngày tại một bệnh viện thu hút sự quan tâm của nhiều bạn đọc. Có người băn khoăn, cũng có ý kiến nói điều này cần thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.604861+07:00",
+      "fetched": "2025-11-28T21:17:14.605011+07:00"
+    },
+    {
+      "id": "9cf766d19f56064764c81dec5b437cc8",
+      "title": "Trung tâm Y tế Phú Quốc phải nâng cấp nhanh để phục vụ APEC 2027",
+      "link": "https://tuoitre.vn/trung-tam-y-te-phu-quoc-phai-nang-cap-nhanh-de-phuc-vu-apec-2027-20251128175553333.htm",
+      "summary": "Trung tâm Y tế Phú Quốc phải nâng cấp nhanh, đồng thời đơn vị liên quan cần đề xuất điều động thêm các bác sĩ giỏi chuyên môn ở trong nước về phục vụ APEC 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.604727+07:00",
+      "fetched": "2025-11-28T21:17:14.604849+07:00"
+    },
+    {
+      "id": "836ff6cd21cc0e1b2d9ec057fe7d5057",
+      "title": "Loạt ô tô 5 chỗ ở Việt Nam có thể gắn 3 ghế trẻ em cho gia đình đông con nhỏ, có cả SUV hạng A",
+      "link": "https://tuoitre.vn/loat-o-to-5-cho-o-viet-nam-co-the-gan-3-ghe-tre-em-cho-gia-dinh-dong-con-nho-co-ca-suv-hang-a-20251128151758592.htm",
+      "summary": "Danh sách xe ô tô 5 chỗ có thể gắn 3 ghế trẻ em xuất hiện cả mẫu SUV hạng A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.604590+07:00",
+      "fetched": "2025-11-28T21:17:14.604715+07:00"
+    },
+    {
+      "id": "213c1f8b3207fa197de641b2f567eba7",
+      "title": "Va chạm giao thông, hai người tử vong tại chỗ",
+      "link": "https://tuoitre.vn/va-cham-giao-thong-hai-nguoi-tu-vong-tai-cho-20251128191158621.htm",
+      "summary": "Vụ tai nạn giữa xe tải và xe máy trên đường Lê Duẩn, phường Pleiku, Gia Lai làm 2 người tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.604440+07:00",
+      "fetched": "2025-11-28T21:17:14.604577+07:00"
+    },
+    {
+      "id": "3772f10f00456e1f6602f87765c97aa8",
+      "title": "Phá đường dây rửa tiền xuyên quốc gia quy mô hơn 67.000 tỉ, móc nối tội phạm ở Campuchia",
+      "link": "https://tuoitre.vn/pha-duong-day-rua-tien-xuyen-quoc-gia-quy-mo-hon-67-000-ti-moc-noi-toi-pham-o-campuchia-20251128190507168.htm",
+      "summary": "Công an Đà Nẵng phá đường dây tội phạm công nghệ cao rửa tiền, lừa đảo, làm giả giấy tờ, liên kết băng nhóm Campuchia, quy mô hơn 67.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T21:17:14.604204+07:00",
+      "fetched": "2025-11-28T21:17:14.604425+07:00"
+    },
     {
       "id": "5a449f855838f73f24a184b8b38debd9",
       "title": "Từ vụ nghi phạm Afghanistan xả súng gần Nhà Trắng, Mỹ rà soát người giữ thẻ xanh từ 19 nước",
@@ -453,6 +603,156 @@ window.newsData_2025_11_28 = {
       "fetched": "2025-11-28T15:24:37.502234+07:00"
     },
     {
+      "id": "8046d44136c39de62cae551073400082",
+      "title": "Việt Nam nắm lợi thế trước Malaysia ở suất dự U17 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-nam-loi-the-truoc-malaysia-o-suat-du-u17-chau-a-2026-4987524.html",
+      "summary": "Việt Nam hạ Macau 4-0 ở lượt bốn, trước khi quyết đấu Malaysia ở lượt cuối bảng C để tranh vé duy nhất dự vòng chung kết U17 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:10:15+07:00",
+      "fetched": "2025-11-28T21:17:08.144848+07:00"
+    },
+    {
+      "id": "3d8fc5e06b760525f489229074ef8d80",
+      "title": "Nhiều giải đấu pickleball hấp dẫn sắp được trình làng ở Việt Nam",
+      "link": "https://thanhnien.vn/nhieu-giai-dau-pickleball-hap-dan-sap-duoc-trinh-lang-o-viet-nam-185251128185343217.htm",
+      "summary": "Cộng đồng pickleball Việt Nam sắp tới sẽ được chứng kiến những giải đấu quy mô, từ sân chơi quy tụ đông đảo ngôi sao châu Á cho đến hàng trăm sinh viên trên toàn quốc. Đặc biệt, lễ vinh danh chuyên nghiệp đầu tiên dành riêng cho VĐV, HLV và các CLB pickleball xuất sắc ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:10:00+07:00",
+      "fetched": "2025-11-28T21:17:13.648338+07:00"
+    },
+    {
+      "id": "8b181023930d4f435e0cbe3d71dbf315",
+      "title": "Số người chết vì lũ lụt ở Indonesia tăng lên 174 người",
+      "link": "https://vnexpress.net/so-nguoi-chet-vi-lu-lut-o-indonesia-tang-len-174-nguoi-4987488.html",
+      "summary": "Quan chức phụ trách thảm họa Indonesia cho hay số người chết vì lũ lụt và lở đất trên đảo Sumatra miền tây nước này đã tăng lên 174.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:05:38+07:00",
+      "fetched": "2025-11-28T21:17:08.145073+07:00"
+    },
+    {
+      "id": "8b181023930d4f435e0cbe3d71dbf315",
+      "title": "Số người chết vì lũ lụt ở Indonesia tăng lên 174 người",
+      "link": "https://vnexpress.net/so-nguoi-chet-vi-lu-lut-o-indonesia-tang-len-174-nguoi-4987488.html",
+      "summary": "Quan chức phụ trách thảm họa Indonesia cho hay số người chết vì lũ lụt và lở đất trên đảo Sumatra miền tây nước này đã tăng lên 174.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T14:05:38+07:00",
+      "fetched": "2025-11-28T21:17:16.508708+07:00"
+    },
+    {
+      "id": "54776959ddeb4c6a50049df7f8e4bf2b",
+      "title": "Cùng sống xanh số 135: Nuôi thiên địch, nông dân Lâm Đồng sống khỏe nhờ trồng ớt chuông",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-135-nuoi-thien-dich-nong-dan-lam-dong-song-khoe-nho-trong-ot-chuong-1852511281631222.htm",
+      "summary": "Sau nhiều thất bại từ việc chăn nuôi và trồng rau củ ở Lâm Đồng, ông Trần Sơn Tây đã quyết tâm vay vốn ngân hàng Nông nghiệp và phát triển nông thôn ở địa phương để đầu tư chuyển đổi canh tác từ hóa chất trị sâu rầy sang nuôi thiên địch. Nhờ cách làm này mà sức khỏe của ông tốt hơn và thu lợi kinh t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:01:00+07:00",
+      "fetched": "2025-11-28T21:17:13.648542+07:00"
+    },
+    {
+      "id": "7b5128a6c6cf7b55a5c0c3a881013784",
+      "title": "Black Friday ở Việt Nam ế ẩm vì thổi giá gấp đôi rồi 'giảm 70%'",
+      "link": "https://vnexpress.net/black-friday-o-viet-nam-e-am-vi-sao-san-sale-black-friday-iphone-promax-17-san-sale-4987438.html",
+      "summary": "'Sale sốc' nhưng người mua vẫn lắc đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:00:00+07:00",
+      "fetched": "2025-11-28T21:17:10.395195+07:00"
+    },
+    {
+      "id": "75421c6efb1f01ee531082f6dcad3289",
+      "title": "Bảng xếp hạng vòng loại U.17 châu Á mới nhất: Việt Nam xuất sắc lấy lại ngôi đầu từ Malaysia",
+      "link": "https://thanhnien.vn/bang-xep-hang-vong-loai-u17-chau-a-moi-nhat-viet-nam-xuat-sac-lay-lai-ngoi-dau-tu-malaysia-185251128205704527.htm",
+      "summary": "Đội tuyển U.17 Việt Nam tiếp tục thể hiện phong độ ấn tượng ở vòng loại giải U.17 châu Á, giữ vững ngôi đầu bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T14:00:00+07:00",
+      "fetched": "2025-11-28T21:17:13.648717+07:00"
+    },
+    {
+      "id": "fc3952cca3992fc82c4eb7603cefbbf3",
+      "title": "Xác định đội game Audition tham gia SEA Games 33",
+      "link": "https://vnexpress.net/xac-dinh-doi-game-audition-tham-gia-sea-games-33-4987449.html",
+      "summary": "Đội tuyển Esports Audition Việt Nam tham dự SEA Games 33 nội dung đồng đội gồm 6 thành viên, bên cạnh nội dung đơn nam và đơn nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:59:14+07:00",
+      "fetched": "2025-11-28T21:17:10.395701+07:00"
+    },
+    {
+      "id": "bca15be72dde1c9afa0b7f7873bda1ad",
+      "title": "Theo chân phóng viên Thanh Niên vào tâm lũ: Niềm tin vùng đất này sẽ đứng dậy",
+      "link": "https://thanhnien.vn/theo-chan-phong-vien-thanh-nien-vao-tam-lu-niem-tin-vung-dat-nay-se-dung-day-18525112815545839.htm",
+      "summary": "Hành trình của phóng viên Thanh Niên vào tâm lũ Phú Yên cũ ghi lại cảnh tan hoang sau lũ dữ nhưng cũng đầy những nỗ lực tái thiết. Niềm tin rằng vùng đất này sẽ đứng dậy được thắp lên từ chính người dân nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:55:00+07:00",
+      "fetched": "2025-11-28T21:17:13.648881+07:00"
+    },
+    {
+      "id": "972580070229f8c28f26c72f9ebbcc61",
+      "title": "Indonesia dùng 5 cầu thủ gốc Hà Lan dự SEA Games 33",
+      "link": "https://vnexpress.net/indonesia-dung-5-cau-thu-goc-ha-lan-du-sea-games-33-4987514.html",
+      "summary": "Đội U22 Indonesia có đội hình gần như mạnh nhất cho hành trình bảo vệ HC vàng SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:51:39+07:00",
+      "fetched": "2025-11-28T21:17:10.395884+07:00"
+    },
+    {
+      "id": "972580070229f8c28f26c72f9ebbcc61",
+      "title": "Indonesia dùng 5 cầu thủ gốc Hà Lan dự SEA Games 33",
+      "link": "https://vnexpress.net/indonesia-dung-5-cau-thu-goc-ha-lan-du-sea-games-33-4987514.html",
+      "summary": "Đội U22 Indonesia có đội hình gần như mạnh nhất cho hành trình bảo vệ HC vàng SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-28T13:51:39+07:00",
+      "fetched": "2025-11-28T21:17:23.180311+07:00"
+    },
+    {
+      "id": "5dad67bf0c11b39173e7640f438a8550",
+      "title": "Tạp chí Anh chọn Việt Nam vào 20 điểm đến mùa đông thú vị nhất thế giới",
+      "link": "https://vnexpress.net/tap-chi-anh-chon-viet-nam-vao-20-diem-den-mua-dong-thu-vi-nhat-the-gioi-4987470.html",
+      "summary": "Việt Nam được tạp chí du lịch hàng đầu tại Anh Time Out vinh danh trong bảng xếp hạng \"Những điểm đến thú vị nhất thế giới vào mùa đông\" 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:50:42+07:00",
+      "fetched": "2025-11-28T21:17:10.396069+07:00"
+    },
+    {
+      "id": "887f0a55f7d3d8f1f84cca447ed56a52",
+      "title": "Lũ quét, sạt lở hoành hành ở Indonesia",
+      "link": "https://vnexpress.net/lu-quet-sat-lo-hoanh-hanh-o-indonesia-4987504.html",
+      "summary": "Nước lũ cuồn cuộn quét qua các khu dân cư trên đảo Sumatra, cuốn phăng nhà cửa và xe cộ, khiến ít nhất 94 người thiệt mạng và hàng chục người mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:40:26+07:00",
+      "fetched": "2025-11-28T21:17:10.396235+07:00"
+    },
+    {
+      "id": "4b5fc1660bea7c534e68b8a6f0257aaf",
+      "title": "Bộ Khoa học và Công nghệ dùng nền tảng số trong hoạt động văn phòng",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-dung-nen-tang-so-trong-hoat-dong-van-phong-4987509.html",
+      "summary": "Văn phòng Bộ Khoa học và Công nghệ ứng dụng AI và nền tảng số trong điều hành hoạt động giúp rút ngắn thời gian xử lý văn bản, công việc liên thông tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:35:23+07:00",
+      "fetched": "2025-11-28T21:17:10.396392+07:00"
+    },
+    {
+      "id": "4b5fc1660bea7c534e68b8a6f0257aaf",
+      "title": "Bộ Khoa học và Công nghệ dùng nền tảng số trong hoạt động văn phòng",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-dung-nen-tang-so-trong-hoat-dong-van-phong-4987509.html",
+      "summary": "Văn phòng Bộ Khoa học và Công nghệ ứng dụng AI và nền tảng số trong điều hành hoạt động giúp rút ngắn thời gian xử lý văn bản, công việc liên thông tốt hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-28T13:35:23+07:00",
+      "fetched": "2025-11-28T21:17:21.282879+07:00"
+    },
+    {
       "id": "176197dae2d7fb626541007fa873d952",
       "title": "Nhà Long Hiệp, nơi thành lập Tỉnh ủy Chợ Lớn đầu tiên, trở thành di tích quốc gia",
       "link": "https://tuoitre.vn/nha-long-hiep-noi-thanh-lap-tinh-uy-cho-lon-dau-tien-tro-thanh-di-tich-quoc-gia-20251128103648803.htm",
@@ -603,6 +903,176 @@ window.newsData_2025_11_28 = {
       "fetched": "2025-11-28T13:27:41.368273+07:00"
     },
     {
+      "id": "0ecef8943ca1c5c1ef70d8f4c57a4d4b",
+      "title": "Bộ ảnh khỏa thân yoga nhận giải 'Nhiếp ảnh xuất sắc'",
+      "link": "https://vnexpress.net/bo-anh-khoa-than-yoga-nhan-giai-nhiep-anh-xuat-sac-4987502.html",
+      "summary": "Sách ảnh phái đẹp tập yoga khỏa thân (tác giả Thái Phiên) đoạt huy chương bạc \"Nhiếp ảnh xuất sắc\", do Hội nghệ thuật nhiếp ảnh Việt Nam trao tặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:24:45+07:00",
+      "fetched": "2025-11-28T21:17:10.396548+07:00"
+    },
+    {
+      "id": "cbae1d5674e296d63857a26c95b19561",
+      "title": "Đà Nẵng: Phá 'siêu đường dây rửa tiền' 67.000 tỉ đồng liên quốc gia",
+      "link": "https://thanhnien.vn/da-nang-pha-sieu-duong-day-rua-tien-67000-ti-dong-lien-quoc-gia-185251128200647728.htm",
+      "summary": "Công an TP.Đà Nẵng vừa bóc gỡ 'siêu đường dây rửa tiền' liên quốc gia với dòng tiền hơn 67.000 tỉ đồng, sử dụng hàng nghìn tài khoản 'ma' để lừa đảo và rửa tiền xuyên biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:22:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649069+07:00"
+    },
+    {
+      "id": "9a841c4dfe2fe23e58ae44db4ee4f709",
+      "title": "Công ty Nhật Bản bán máy tắm tự động dành cho người",
+      "link": "https://thanhnien.vn/cong-ty-nhat-ban-ban-may-tam-tu-dong-danh-cho-nguoi-185251128202058367.htm",
+      "summary": "Sau khi gây ấn tượng mạnh mẽ với khách tham quan tại Triển lãm thế giới, loại máy tắm tự động dành cho người đang được bán tại Nhật Bản, theo một phát ngôn viên của Công ty Science thông báo ngày 28.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:21:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649236+07:00"
+    },
+    {
+      "id": "6ac0ccacdc1bb0b6632476d9ac168eba",
+      "title": "Thói quen ăn ớt hằng ngày: Lợi hay gây hại cho thận?",
+      "link": "https://thanhnien.vn/thoi-quen-an-ot-hang-ngay-loi-hay-gay-hai-cho-than-185251128200138381.htm",
+      "summary": "Ớt và nhiều loại thảo mộc, gia vị tự nhiên lâu nay được biết đến như những thành phần giúp món ăn đậm đà hơn. Tuy nhiên, giá trị của chúng không chỉ nằm ở hương vị. Một số loại gia vị còn có khả năng hỗ trợ sức khỏe tổng thể, trong đó có thận, cơ quan đảm nhiệm vai trò lọc chất thải, duy trì cân bằn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:20:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649403+07:00"
+    },
+    {
+      "id": "b3ea84bb13ed67b29743bfdc056c73f9",
+      "title": "Nước châu Á nào là quê hương của quả táo?",
+      "link": "https://vnexpress.net/nuoc-chau-a-nao-la-que-huong-cua-qua-tao-4987427.html",
+      "summary": "Với những cánh rừng bạt ngàn táo dại từ xa xưa, thành phố này được mệnh danh là xứ sở của quả táo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:07:12+07:00",
+      "fetched": "2025-11-28T21:17:10.396777+07:00"
+    },
+    {
+      "id": "17ad67a474637a2027b3441d18e6c950",
+      "title": "Đề xuất giảm thuế suất bậc 2, 3 đối với người làm công ăn lương",
+      "link": "https://thanhnien.vn/de-xuat-giam-thue-suat-bac-2-3-doi-voi-nguoi-lam-cong-an-luong-185251128200123639.htm",
+      "summary": "Tiếp thu các ý kiến đóng góp sửa đổi, bổ sung luật thuế Thu nhập cá nhân (TNCN), Bộ Tài chính đã chỉnh lý lại thuế suất bậc 2 và 3 của biểu lũy tiến từng phần theo xu hướng giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:04:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649566+07:00"
+    },
+    {
+      "id": "36d442d478392a3fe57fa4e8f82babab",
+      "title": "Chủ tịch EVN tìm lời giải cho 'bài toán phức tạp' của hệ thống điện",
+      "link": "https://thanhnien.vn/chu-tich-evn-tim-loi-giai-cho-bai-toan-phuc-tap-cua-he-thong-dien-185251128190545981.htm",
+      "summary": "Tại phiên toàn thể của Hội nghị Khoa học và Công nghệ điện lực toàn quốc năm 2025 diễn ra tại TP.HCM hôm nay (28.11), Chủ tịch HĐTV Tập đoàn Điện lực Việt Nam (EVN) Đặng Hoàng An chỉ ra những thách thức đối với ngành điện Việt Nam, đồng thời chỉ ra một số việc phải làm để “giải những bài toán khó” c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:03:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649721+07:00"
+    },
+    {
+      "id": "475de9a706e69324d255e0495d4621d1",
+      "title": "5 năm chẳng được chồng 'đụng chạm'",
+      "link": "https://vnexpress.net/chuyen-sex-5-nam-chang-duoc-chong-dung-cham-4986916.html",
+      "summary": "Tôi cần một gia đình, một người chồng, cần được yêu thương, tại sao anh ích kỷ để tôi sống như bà lão?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:00:00+07:00",
+      "fetched": "2025-11-28T21:17:10.396933+07:00"
+    },
+    {
+      "id": "d7bc2e6c4264af60482f1e331bf3fc02",
+      "title": "Vì sao lời nói 'hư' kích thích hưng phấn?",
+      "link": "https://vnexpress.net/vi-sao-loi-noi-hu-kich-thich-hung-phan-4987475.html",
+      "summary": "Những lời nói táo bạo khi ân ái kích thích trực tiếp lên vùng dưới đồi và hệ viền não bộ, giúp cơ thể giải phóng hormone testosterone và oxytocin gây hưng phấn tột độ, theo bác sỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:00:00+07:00",
+      "fetched": "2025-11-28T21:17:10.397111+07:00"
+    },
+    {
+      "id": "4fb0f115d2f30b9b82b9c180fb7d4d3b",
+      "title": "PNJ - Linh Nga Couture: Cú bắt tay kiến tạo dấu ấn thời trang Việt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/pnj-linh-nga-couture-cu-bat-tay-kien-tao-dau-an-thoi-trang-viet-18525112819040235.htm",
+      "summary": "Mới đây, tại Sanya (Trung Quốc) - 'trái tim mới' của thời trang cưới châu Á, cái bắt tay giữa PNJ và Linh Nga Couture đã tạo nên dấu ấn đặc biệt trong khuôn khổ Bridal Fashion Week 2025. Không chỉ là màn trình diễn, đây còn là tuyên ngôn đầy nội lực về tầm nhìn sáng tạo Việt: hiện đại, tinh tế, sẵn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:00:00+07:00",
+      "fetched": "2025-11-28T21:17:13.649875+07:00"
+    },
+    {
+      "id": "f966b90e77607157ed517f72159cb7d4",
+      "title": "Trấn Thành, Quang Tuấn rủ nhau 'kể tội' Liên Bỉnh Phát",
+      "link": "https://thanhnien.vn/tran-thanh-quang-tuan-ru-nhau-ke-toi-lien-binh-phat-185251126164847259.htm",
+      "summary": "Liên Bỉnh Phát bị Trấn Thành và Quang Tuấn trêu \"làm màu\" khi nhắc lại loạt khoảnh khắc hậu trường khó đỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T13:00:00+07:00",
+      "fetched": "2025-11-28T21:17:13.650043+07:00"
+    },
+    {
+      "id": "a21dc1b7c5924341d1509775bc8f99fc",
+      "title": "Thủ tướng Phạm Minh Chính sắp đến Lào",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-den-lao-4987496.html",
+      "summary": "Thủ tướng Phạm Minh Chính sẽ đồng chủ trì Kỳ họp lần thứ 48 Ủy ban liên Chính phủ Việt Nam - Lào tại Vientiane vào tuần sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:57:39+07:00",
+      "fetched": "2025-11-28T21:17:10.397272+07:00"
+    },
+    {
+      "id": "a21dc1b7c5924341d1509775bc8f99fc",
+      "title": "Thủ tướng Phạm Minh Chính sắp đến Lào",
+      "link": "https://vnexpress.net/thu-tuong-pham-minh-chinh-sap-den-lao-4987496.html",
+      "summary": "Thủ tướng Phạm Minh Chính sẽ đồng chủ trì Kỳ họp lần thứ 48 Ủy ban liên Chính phủ Việt Nam - Lào tại Vientiane vào tuần sau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T12:57:39+07:00",
+      "fetched": "2025-11-28T21:17:16.508883+07:00"
+    },
+    {
+      "id": "5a04bcf4f68b3e9a85b9a57ed0e183e5",
+      "title": "Người trẻ cần làm gì khi thế giới có nhiều biến động phức tạp?",
+      "link": "https://thanhnien.vn/nguoi-tre-can-lam-gi-khi-the-gioi-co-nhieu-bien-dong-phuc-tap-185251128185702803.htm",
+      "summary": "Theo chuyên gia, thanh niên ngày nay không chỉ cần bản lĩnh chính trị vững vàng mà còn phải trau dồi tri thức, kỹ năng, đặc biệt là năng lực ngoại ngữ để đáp ứng yêu cầu của thời đại mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:52:00+07:00",
+      "fetched": "2025-11-28T21:17:13.650203+07:00"
+    },
+    {
+      "id": "b639b379f03f1d8f5852b24d18b5d306",
+      "title": "Cuộc thi Vô địch quốc gia STEM, AI và robotics dành cho học sinh phổ thông",
+      "link": "https://thanhnien.vn/cuoc-thi-vo-dich-quoc-gia-stem-ai-va-robotics-danh-cho-hoc-sinh-pho-thong-185251128182633978.htm",
+      "summary": "Với chủ đề 'Năng lượng cho tương lai', cuộc thi Vô địch quốc gia STEM, AI và robotics năm nay kỳ vọng lan tỏa nguồn năng lượng tinh thần sáng tạo, khát vọng cống hiến, mong muốn được góp phần xây dựng tương lai đất nước trong kỷ nguyên số của thế hệ trẻ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:51:00+07:00",
+      "fetched": "2025-11-28T21:17:13.650354+07:00"
+    },
+    {
+      "id": "3e4af6277cae3ce71961fa5b7ec60c72",
+      "title": "Xu hướng dùng AI PC xử lý dữ liệu cục bộ cho người làm nội dung",
+      "link": "https://thanhnien.vn/xu-huong-dung-ai-pc-xu-ly-du-lieu-cuc-bo-cho-nguoi-lam-noi-dung-185251128164452834.htm",
+      "summary": "Việc xử lý dữ liệu ngay trên máy tính nhờ AI PC giúp đảm bảo an toàn thông tin cho nhóm người dùng báo chí và nhà sáng tạo nội dung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:50:00+07:00",
+      "fetched": "2025-11-28T21:17:13.650508+07:00"
+    },
+    {
+      "id": "108ddb69b13e9d3a1ca88453b4e20bd8",
+      "title": "Xem nhanh 20h ngày 28.11:Chiêu thức quảng cáo, phù phép hàng gia công thành hàng hiệu của Mailisa",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2811chieu-thuc-quang-cao-phu-phep-hang-gia-cong-thanh-hang-hieu-cua-mailisa-18525112817043679.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 28.11 có nhiều tin tức đáng chú ý về: Đằng sau sự nổi tiếng, Mailisa chi bao nhiêu cho quảng cáo; giá gốc của sản phẩm Malisa kinh doanh: Từ hàng ‘bèo’ thành hàng hiệu;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:47:00+07:00",
+      "fetched": "2025-11-28T21:17:13.650658+07:00"
+    },
+    {
       "id": "c5e80508b6be83081b08ad043939c09a",
       "title": "Thanh Niên và tôi: Mong một ngày nào đó lại được Thanh Niên gọi tên",
       "link": "https://thanhnien.vn/thanh-nien-va-toi-mong-mot-ngay-nao-do-lai-duoc-thanh-nien-goi-ten-185251120212604761.htm",
@@ -611,6 +1081,46 @@ window.newsData_2025_11_28 = {
       "category": "Tổng hợp",
       "published": "2025-11-28T12:34:00+07:00",
       "fetched": "2025-11-28T19:35:57.134406+07:00"
+    },
+    {
+      "id": "7f241360b5e2204ab15a8f22bcbac42f",
+      "title": "Săn sale trực tuyến áp đảo dịp Black Friday",
+      "link": "https://vnexpress.net/san-sale-truc-tuyen-ap-dao-dip-black-friday-4987456.html",
+      "summary": "Cảnh xô đẩy, giành giật mua hàng dịp Black Friday ở các cửa hàng không còn, thay vào đó nhiều người canh thời gian livestream săn hàng sale.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:33:43+07:00",
+      "fetched": "2025-11-28T21:17:10.397424+07:00"
+    },
+    {
+      "id": "7f241360b5e2204ab15a8f22bcbac42f",
+      "title": "Săn sale trực tuyến áp đảo dịp Black Friday",
+      "link": "https://vnexpress.net/san-sale-truc-tuyen-ap-dao-dip-black-friday-4987456.html",
+      "summary": "Cảnh xô đẩy, giành giật mua hàng dịp Black Friday ở các cửa hàng không còn, thay vào đó nhiều người canh thời gian livestream săn hàng sale.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-28T12:33:43+07:00",
+      "fetched": "2025-11-28T21:17:18.383455+07:00"
+    },
+    {
+      "id": "d0ccb58fbc0e6e86d9cea0a8680115a9",
+      "title": "Chánh văn phòng của ông Zelensky bị khám nhà",
+      "link": "https://vnexpress.net/chanh-van-phong-cua-ong-zelensky-bi-kham-nha-4987472.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine khám xét nhà riêng của Andriy Yermak, chánh văn phòng của ông Zelensky, leo thang cuộc khủng hoảng chính trị ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T12:33:12+07:00",
+      "fetched": "2025-11-28T21:17:10.397575+07:00"
+    },
+    {
+      "id": "d0ccb58fbc0e6e86d9cea0a8680115a9",
+      "title": "Chánh văn phòng của ông Zelensky bị khám nhà",
+      "link": "https://vnexpress.net/chanh-van-phong-cua-ong-zelensky-bi-kham-nha-4987472.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine khám xét nhà riêng của Andriy Yermak, chánh văn phòng của ông Zelensky, leo thang cuộc khủng hoảng chính trị ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T12:33:12+07:00",
+      "fetched": "2025-11-28T21:17:16.509066+07:00"
     },
     {
       "id": "0faba409243033f631f5fe126e2d886f",
