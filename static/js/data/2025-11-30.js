@@ -1,7 +1,27 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T01:23:26.582996+07:00",
+  "lastUpdated": "2025-11-30T03:18:39.003720+07:00",
   "articles": [
+    {
+      "id": "9459112dfb632845107fedf25ef39029",
+      "title": "Tuyển triathlon của Campuchia nhập tịch 100%, khiến SEA Games choáng váng",
+      "link": "https://tuoitre.vn/tuyen-triathlon-cua-campuchia-nhap-tich-100-khien-sea-games-choang-vang-20251129201518856.htm",
+      "summary": "Lần đầu tiên trong lịch sử SEA Games xuất hiện một đội tuyển nhập tịch 100%. Đó là đội triathlon Campuchia khi tham dự SEA Games 2025 sắp sửa diễn ra tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:18:32.480235+07:00",
+      "fetched": "2025-11-30T03:18:32.480403+07:00"
+    },
+    {
+      "id": "66de36fdc580634a8b6eb9cf76e7ee8e",
+      "title": "Haaland lại 'tịt ngòi', Man City có được 3 điểm nhờ Foden",
+      "link": "https://tuoitre.vn/haaland-lai-tit-ngoi-man-city-co-duoc-3-diem-nho-foden-20251130003947498.htm",
+      "summary": "Tối 29-11, Man City đã vất vả đánh bại Leeds United 3-2 ở những phút bù giờ tại vòng 13 Giải ngoại hạng Anh (Premier League) 2025-2026. Haaland bị phong tỏa chặt chẽ, chưa thể ghi bàn thứ 100 ở Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:18:32.479982+07:00",
+      "fetched": "2025-11-30T03:18:32.480218+07:00"
+    },
     {
       "id": "a15fa9d269d4f293240a65fa9aa18cae",
       "title": "Vụ mẹ và em bé sơ sinh 'bị đuổi' khi đến trạm y tế xin tránh lũ: Mạng người là ưu tiên hàng đầu",
@@ -151,6 +171,36 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T01:23:18.988024+07:00",
       "fetched": "2025-11-30T01:23:18.988240+07:00"
+    },
+    {
+      "id": "c736809a62713867d5d8cec7d115312a",
+      "title": "Lịch thi đấu U.17 Việt Nam cực hay hôm nay: Chung kết sinh tử với Malaysia, quyết giành vé châu Á",
+      "link": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-cuc-hay-hom-nay-chung-ket-sinh-tu-voi-malaysia-quyet-gianh-ve-chau-a-185251129233730006.htm",
+      "summary": "Tối nay 30.11, U.17 Việt Nam sẽ đấu trận quyết định với U.17 Malaysia, nhằm tranh vé góp mặt tại vòng chung kết U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T19:29:00+07:00",
+      "fetched": "2025-11-30T03:18:31.502910+07:00"
+    },
+    {
+      "id": "3dc401871afd60f486912526adbd8adf",
+      "title": "Quy định mới có thể khiến sinh viên điều dưỡng Mỹ lao đao",
+      "link": "https://vnexpress.net/quy-dinh-moi-co-the-khien-sinh-vien-dieu-duong-my-lao-dao-4987536.html",
+      "summary": "Bộ Giáo dục Mỹ đề xuất loại điều dưỡng khỏi danh sách \"bằng cấp chuyên nghiệp\", khiến sinh viên ngành này bị hạn chế cơ hội vay tiền trả học phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T19:00:00+07:00",
+      "fetched": "2025-11-30T03:18:28.911694+07:00"
+    },
+    {
+      "id": "3dc401871afd60f486912526adbd8adf",
+      "title": "Quy định mới có thể khiến sinh viên điều dưỡng Mỹ lao đao",
+      "link": "https://vnexpress.net/quy-dinh-moi-co-the-khien-sinh-vien-dieu-duong-my-lao-dao-4987536.html",
+      "summary": "Bộ Giáo dục Mỹ đề xuất loại điều dưỡng khỏi danh sách \"bằng cấp chuyên nghiệp\", khiến sinh viên ngành này bị hạn chế cơ hội vay tiền trả học phí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T19:00:00+07:00",
+      "fetched": "2025-11-30T03:18:34.061164+07:00"
     },
     {
       "id": "b17dec67da01cf989c6ad00450ed0ded",
