@@ -1,7 +1,137 @@
 window.newsData_2025_11_29 = {
   "date": "2025-11-29",
-  "lastUpdated": "2025-11-29T19:32:52.556907+07:00",
+  "lastUpdated": "2025-11-29T21:15:06.925669+07:00",
   "articles": [
+    {
+      "id": "bc822bd710ce7b81d4bb0bd27867685a",
+      "title": "Người thuê trọ bị lũ lụt gây thiệt hại ấm lòng vì tỉnh Khánh Hòa hỗ trợ",
+      "link": "https://tuoitre.vn/nguoi-thue-tro-bi-lu-lut-gay-thiet-hai-am-long-vi-tinh-khanh-hoa-ho-tro-20251129170922568.htm",
+      "summary": "UBND tỉnh Khánh Hòa quyết định hỗ trợ 1 triệu đồng/người/hộ dân đang sinh sống trong các nhà trọ, nhà cho thuê ở khu vực bị ngập lụt, ảnh hưởng nặng nề trong đợt mưa lũ lịch sử vừa qua trên địa bàn nhưng chưa đăng ký tạm trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039806+07:00",
+      "fetched": "2025-11-29T21:14:59.039918+07:00"
+    },
+    {
+      "id": "297dab72cf1950703c0ea7a7f08176c5",
+      "title": "Điểm tin 18h: Áp thấp nhiệt đới hiếm gặp vào Biển Đông; Đài Loan dựng 'lá chắn' phòng thủ",
+      "link": "https://tuoitre.vn/diem-tin-18h-ap-thap-nhiet-doi-hiem-gap-vao-bien-dong-dai-loan-dung-la-chan-phong-thu-20251129150028345.htm",
+      "summary": "Điểm tin 18h ngày 29-11-2025: Áp thấp nhiệt đới hiếm gặp vào Biển Đông; Đài Loan dựng 'lá chắn' phòng thủ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039658+07:00",
+      "fetched": "2025-11-29T21:14:59.039793+07:00"
+    },
+    {
+      "id": "7fb539778ce768343eb05ef09801a0d0",
+      "title": "Bệnh viện Đa khoa Đồng Nai đủ điều kiện thực hiện ghép thận",
+      "link": "https://tuoitre.vn/benh-vien-da-khoa-dong-nai-du-dieu-kien-thuc-hien-ghep-than-20251129172003515.htm",
+      "summary": "Ngày 29-11, ông Ngô Đức Tuấn, Giám đốc Bệnh viện Đa khoa Đồng Nai, cho biết đơn vị đã đủ điều kiện thực hiện kỹ thuật lấy, ghép thận từ người hiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039537+07:00",
+      "fetched": "2025-11-29T21:14:59.039646+07:00"
+    },
+    {
+      "id": "f87d549b0f1c987309603805c625bd1d",
+      "title": "Tạm giữ hình sự 8 người có hành vi tổ chức, sử dụng ma túy ở Phú Quốc",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-8-nguoi-co-hanh-vi-to-chuc-su-dung-ma-tuy-o-phu-quoc-20251129170332046.htm",
+      "summary": "Công an đặc khu Phú Quốc (An Giang) tạm giữ hình sự 8 người có hành vi tổ chức, sử dụng và mua bán ma túy trái phép ở khu phố 12 Dương Đông, đặc khu Phú Quốc, tỉnh An Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039416+07:00",
+      "fetched": "2025-11-29T21:14:59.039525+07:00"
+    },
+    {
+      "id": "3a7e451170c12e1c232ab6b47c04b0ac",
+      "title": "Doanh nghiệp khuyến mãi lên đến 50% tại triển lãm quốc tế Vietbuild Home 2025 ở TP.HCM",
+      "link": "https://tuoitre.vn/doanh-nghiep-khuyen-mai-len-den-50-tai-trien-lam-quoc-te-vietbuild-home-2025-o-tp-hcm-2025112917103503.htm",
+      "summary": "700 gian hàng tại triển lãm quốc tế Vietbuild Home 2025 tổ chức tại TP.HCM đang áp dụng các chính sách khuyến mãi lên đến 50% nhiều dòng sản phẩm nội, ngoại thất nhằm kích cầu tiêu dùng dịp cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039295+07:00",
+      "fetched": "2025-11-29T21:14:59.039405+07:00"
+    },
+    {
+      "id": "fffd3355f365adb2406f296753415ec2",
+      "title": "Chiêu trò mới: Dùng AI biến hàng tốt thành hàng hỏng để đòi hoàn tiền",
+      "link": "https://tuoitre.vn/chieu-tro-moi-dung-ai-bien-hang-tot-thanh-hang-hong-de-doi-hoan-tien-2025112917533394.htm",
+      "summary": "Hành vi này đặt ra những lo ngại về đạo đức và pháp lý nghiêm trọng trong bối cảnh làn sóng gian lận công nghệ ngày càng tinh vi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039171+07:00",
+      "fetched": "2025-11-29T21:14:59.039284+07:00"
+    },
+    {
+      "id": "a7366c03ea60f4ca6658358ae6e07251",
+      "title": "Herbalife Việt Nam cùng Ủy ban Olympic Việt Nam tổ chức Lễ xuất quân dự SEA Games 33",
+      "link": "https://tuoitre.vn/herbalife-viet-nam-cung-uy-ban-olympic-viet-nam-to-chuc-le-xuat-quan-du-sea-games-33-20251129180244132.htm",
+      "summary": "Ngày 28-11, tại Văn phòng Chính phủ, Herbalife Việt Nam phối hợp cùng Ủy ban Olympic Việt Nam (VOC) tổ chức Lễ xuất quân tham dự SEA Games 33 tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.039044+07:00",
+      "fetched": "2025-11-29T21:14:59.039159+07:00"
+    },
+    {
+      "id": "92b75ab04fe237769ec565cab9494d2f",
+      "title": "Việt Nam nằm trong top 20 về quy mô thương mại quốc tế",
+      "link": "https://tuoitre.vn/viet-nam-nam-trong-top-20-ve-quy-mo-thuong-mai-quoc-te-20251129180801177.htm",
+      "summary": "Việt Nam nằm trong top 20 về quy mô thương mại quốc tế và top 15 về thu hút FDI, đang đứng trước nhiều vận hội để phát triển logistics.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038917+07:00",
+      "fetched": "2025-11-29T21:14:59.039033+07:00"
+    },
+    {
+      "id": "2c52fcac2753910a31dafe8d4e4e9d4f",
+      "title": "Chiều mai Đông Nam Bộ mưa do ở rìa bão số 15 nhưng không nhiều",
+      "link": "https://tuoitre.vn/chieu-mai-dong-nam-bo-mua-do-o-ria-bao-so-15-nhung-khong-nhieu-20251129183132027.htm",
+      "summary": "Chiều tối 29-11, Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết áp thấp nhiệt đới từ xích đạo lên đã suy yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038789+07:00",
+      "fetched": "2025-11-29T21:14:59.038904+07:00"
+    },
+    {
+      "id": "8112c15e19abf981fa036f1fc7208dda",
+      "title": "Áp thấp nhiệt đới 'lạ chưa từng có' bất ngờ suy yếu sớm hơn dự báo",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-la-chua-tung-co-bat-ngo-suy-yeu-som-hon-du-bao-20251129182444805.htm",
+      "summary": "Chiều 29-11, áp thấp nhiệt đới 'lạ chưa từng có' ở nam Biển Đông bất ngờ suy yếu thành vùng áp thấp - sớm hơn so với dự báo trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038638+07:00",
+      "fetched": "2025-11-29T21:14:59.038775+07:00"
+    },
+    {
+      "id": "26c3c57d73d055a98d13f757c6e3307f",
+      "title": "Lũ lụt khiến 303 người chết tại Indonesia, 162 người chết ở Thái Lan",
+      "link": "https://tuoitre.vn/lu-lut-khien-303-nguoi-chet-tai-indonesia-162-nguoi-chet-o-thai-lan-20251129190701021.htm",
+      "summary": "Ngày 29-11, Indonesia cập nhật số người chết do lũ lụt và sạt lở đất sau những trận mưa lớn trên đảo Sumatra của nước này đã tăng lên 303 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038508+07:00",
+      "fetched": "2025-11-29T21:14:59.038626+07:00"
+    },
+    {
+      "id": "2bcf262a2941d70fb2b98fb4d304a919",
+      "title": "Chỉ 10 giây biến xe đạp thường thành xe đạp điện, đi 90km/sạc",
+      "link": "https://tuoitre.vn/chi-10-giay-bien-xe-dap-thuong-thanh-xe-dap-dien-di-90km-sac-20251128021538837.htm",
+      "summary": "Một thiết bị nhỏ gọn đang thu hút sự chú ý khi biến chiếc xe đạp thông thường thành xe đạp điện trong chưa đầy 10 giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038366+07:00",
+      "fetched": "2025-11-29T21:14:59.038495+07:00"
+    },
+    {
+      "id": "ab3c04cbba63afd5eba670845969825d",
+      "title": "Hàng không Việt Nam sẽ hoàn thành cập nhật phần mềm máy bay Airbus trước thời hạn",
+      "link": "https://tuoitre.vn/hang-khong-viet-nam-se-hoan-thanh-cap-nhat-phan-mem-may-bay-airbus-truoc-thoi-han-20251129190833248.htm",
+      "summary": "Toàn bộ máy bay Airbus A320, A321 của các hãng hàng không Việt Nam thuộc diện phải cập nhật phần mềm điều khiển máy tính ELAC (điều khiển độ cao và hướng bay) sẽ hoàn thành yêu cầu trước thời hạn (cập nhật xong vào 6h59 ngày 30-11).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:14:59.038143+07:00",
+      "fetched": "2025-11-29T21:14:59.038350+07:00"
+    },
     {
       "id": "c9ca3f88c4419210d33c2a27d11575d9",
       "title": "Kinh tế Việt Nam 2026: Tăng trưởng, lãi suất và tỉ giá sẽ biến động ra sao?",
@@ -453,6 +583,56 @@ window.newsData_2025_11_29 = {
       "fetched": "2025-11-29T15:22:28.164557+07:00"
     },
     {
+      "id": "95b5097f3e263f63f70179cd48c36772",
+      "title": "Chồng nói cô bồ tốt hơn gấp trăm lần tôi",
+      "link": "https://vnexpress.net/chong-noi-co-bo-tot-hon-gap-tram-lan-toi-4987775.html",
+      "summary": "Anh không hề hối lỗi hay tìm cách khiến tôi nguôi giận, tin tưởng lại mà tỏ thái độ bất cần, đổ lỗi tại tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T14:00:00+07:00",
+      "fetched": "2025-11-29T21:14:54.537963+07:00"
+    },
+    {
+      "id": "b72c6c3f20f8147813c9f2366ed99bba",
+      "title": "5 thói quen ban đêm vô tình hại thận",
+      "link": "https://vnexpress.net/5-thoi-quen-ban-dem-vo-tinh-hai-than-4987375.html",
+      "summary": "Uống quá nhiều nước trước khi đi ngủ, nhịn tiểu và ăn nhiều thực phẩm giàu protein vào đêm khuya có thể gây áp lực cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T14:00:00+07:00",
+      "fetched": "2025-11-29T21:14:54.538145+07:00"
+    },
+    {
+      "id": "fc93242cf9609f9f34565e73ce602d62",
+      "title": "81 máy bay Airbus sẽ được cập nhật phần mềm trước hạn",
+      "link": "https://vnexpress.net/81-may-bay-airbus-se-duoc-cap-nhat-phan-mem-truoc-han-4987790.html",
+      "summary": "Cục trưởng Hàng không Việt Nam Uông Việt Dũng cho biết các hãng sẽ cập nhật phần mềm máy tính ELAC điều khiển độ cao và hướng bay trước thời hạn 6h59 ngày 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:58:16+07:00",
+      "fetched": "2025-11-29T21:14:54.538316+07:00"
+    },
+    {
+      "id": "5cf4e784174af4e0c9473cdf9834a5d7",
+      "title": "Bảng giá đất lần đầu TP HCM dự kiến giữ mức cao nhất 687 triệu đồng mỗi m2",
+      "link": "https://vnexpress.net/bang-gia-dat-lan-dau-tp-hcm-du-kien-giu-muc-cao-nhat-687-trieu-dong-moi-m2-4987798.html",
+      "summary": "Bảng giá đất lần đầu áp dụng từ 1/1/2026 tại TP HCM dự kiến giữ nguyên mức trần 687 triệu đồng mỗi m2, thay vì tăng theo khảo sát của đơn vị tư vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:55:23+07:00",
+      "fetched": "2025-11-29T21:14:54.538475+07:00"
+    },
+    {
+      "id": "3bb2d4b653ffd72f5be2d3d8f9ad42ca",
+      "title": "Thủ tướng thăm vùng lũ Hòa Thịnh: 'Từ giờ đến tết, bà con phải có nhà'",
+      "link": "https://thanhnien.vn/thu-tuong-tham-vung-lu-hoa-thinh-tu-gio-den-tet-ba-con-phai-co-nha-185251129202741601.htm",
+      "summary": "'Từ giờ đến Tết Nguyên đán là bà con phải có nhà' là chỉ đạo của Thủ tướng Phạm Minh Chính trong chuyến thăm trực tiếp tại rốn lũ xã Hòa Thịnh, tỉnh Đắk Lắk – nơi vừa chịu những tổn thất nặng nề nhất trong đợt thiên tai lịch sử vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:35:00+07:00",
+      "fetched": "2025-11-29T21:14:58.099206+07:00"
+    },
+    {
       "id": "feebc90da791c11f91429f92f3b8e39e",
       "title": "Sửa quốc lộ không đặt cảnh báo, nhiều ô tô sụp hố, lủng bánh",
       "link": "https://tuoitre.vn/sua-quoc-lo-khong-dat-canh-bao-nhieu-o-to-sup-ho-lung-banh-20251129091132946.htm",
@@ -601,6 +781,176 @@ window.newsData_2025_11_29 = {
       "category": "Tổng hợp",
       "published": "2025-11-29T13:24:28.973413+07:00",
       "fetched": "2025-11-29T13:24:28.973643+07:00"
+    },
+    {
+      "id": "e49ed0c4c1080bfb67b4e6339bfcac5c",
+      "title": "Ông Trump cảnh báo 'phong tỏa không phận Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-phong-toa-khong-phan-venezuela-4987799.html",
+      "summary": "Tổng thống Trump tuyên bố không phận phía trên và xung quanh Venezuela sẽ bị \"phong tỏa hoàn toàn\", giữa lúc căng thẳng Washington - Caracas ở mức cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:21:31+07:00",
+      "fetched": "2025-11-29T21:14:54.538636+07:00"
+    },
+    {
+      "id": "e49ed0c4c1080bfb67b4e6339bfcac5c",
+      "title": "Ông Trump cảnh báo 'phong tỏa không phận Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-phong-toa-khong-phan-venezuela-4987799.html",
+      "summary": "Tổng thống Trump tuyên bố không phận phía trên và xung quanh Venezuela sẽ bị \"phong tỏa hoàn toàn\", giữa lúc căng thẳng Washington - Caracas ở mức cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T13:21:31+07:00",
+      "fetched": "2025-11-29T21:15:00.053991+07:00"
+    },
+    {
+      "id": "b61ad246bb9fee20e134ca30a9e5ee7a",
+      "title": "Thủ tướng Phạm Minh Chính: Cấp bách xây dựng nhà tránh lũ",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-cap-bach-xay-dung-nha-tranh-lu-185251129194104375.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính yêu cầu chính quyền địa phương tái thiết đời sống cho người dân, đặc biệt là xây dựng mới, sửa chữa nhà cửa bị hư hỏng do mưa lũ gây ra tại xã Hòa Thịnh (Đắk Lắk).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:20:00+07:00",
+      "fetched": "2025-11-29T21:14:58.099382+07:00"
+    },
+    {
+      "id": "5ff1900de2dff3f2da6819c007790a44",
+      "title": "Xung đột kéo dài, xã hội Ukraine càng thêm chia rẽ",
+      "link": "https://thanhnien.vn/xung-dot-keo-dai-xa-hoi-ukraine-cang-them-chia-re-185251129152015988.htm",
+      "summary": "Nga cho biết họ đã nhận được ‘khuôn khổ hòa bình được cập nhật và hoàn thiện’ để chấm dứt xung đột, trong bối cảnh người dân Ukraine, những người đang chứng kiến các nghĩa trang đầy rẫy binh lính tử trận, bị chia rẽ về một thỏa thuận do Mỹ hậu thuẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:05:00+07:00",
+      "fetched": "2025-11-29T21:14:58.099540+07:00"
+    },
+    {
+      "id": "81962269b051e6a18b8a607ac513ab23",
+      "title": "Người dân nước nào có IQ cao nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-co-iq-cao-nhat-the-gioi-4987772.html",
+      "summary": "Với điểm IQ trung bình là 107, người dân quốc gia này dẫn đầu thế giới về chỉ số thông minh. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:04:36+07:00",
+      "fetched": "2025-11-29T21:14:54.538814+07:00"
+    },
+    {
+      "id": "c16ed7d89e8c6014380aac6683ed3217",
+      "title": "Tiến sĩ Lương Bạch Vân: Đây là 'thời điểm vàng' cho đối ngoại nhân dân",
+      "link": "https://thanhnien.vn/tien-si-luong-bach-van-day-la-thoi-diem-vang-cho-doi-ngoai-nhan-dan-185251129173938335.htm",
+      "summary": "Tiến sĩ Lương Bạch Vân nhận định, việc TP.HCM sáp nhập với Bình Dương và Bà Rịa - Vũng Tàu mở ra 'thời điểm vàng' cho đối ngoại nhân dân, đặc biệt trong kết nối cộng đồng người Việt Nam ở nước ngoài với dòng vốn FDI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:04:00+07:00",
+      "fetched": "2025-11-29T21:14:58.099711+07:00"
+    },
+    {
+      "id": "2af0423a36459d9a2ea78d9817a53a81",
+      "title": "Review VI Derm Vitamin C Brightening Concentrate 7 ngày có bật sáng, căng mịn?",
+      "link": "https://thanhnien.vn/review-vi-derm-vitamin-c-brightening-concentrate-7-ngay-co-bat-sang-cang-min-185251129195420631.htm",
+      "summary": "Bước sang tuổi 30, làn da của phụ nữ bắt đầu chuyển sang một giai đoạn mới: chậm hơn, mệt hơn và dễ xỉn màu hơn. Thức khuya một chút là hôm sau da kém tươi thậm chí da trở nên sần nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:02:00+07:00",
+      "fetched": "2025-11-29T21:14:58.099874+07:00"
+    },
+    {
+      "id": "058d2ebe2579f2cd39865625d90acd00",
+      "title": "Chặng đầu 'Stranger Things 5' thiếu đột phá",
+      "link": "https://vnexpress.net/chang-dau-stranger-things-5-thieu-dot-pha-4987307.html",
+      "summary": "Nhiều cây bút nhận định bốn tập mùa mới \"Stranger Things\" chưa phát triển nhân vật rõ nét, thời lượng dài làm giảm sức hút của tác phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:00:00+07:00",
+      "fetched": "2025-11-29T21:14:54.538967+07:00"
+    },
+    {
+      "id": "c654b4f67cddef0bc41b68e550dd6b25",
+      "title": "Xem nhanh 20h ngày 29.11: Phạt người đánh cầu lông giữa đường | Airbus triệu hồi 6.000 máy bay",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2911-phat-nguoi-danh-cau-long-giua-duong-airbus-trieu-hoi-6000-may-bay-185251129194307499.htm",
+      "summary": "'Xem nhanh 20h' ngày 29.11 có nhiều tin tức đáng chú ý về: TP.HCM: Phạt người giăng lưới đánh cầu lông giữa đường; U.22 Việt Nam đổi 'thủ lĩnh' phút chót, Văn Khang đeo băng đội trưởng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:00:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100024+07:00"
+    },
+    {
+      "id": "6f8651af351c566a5d99bd757806cf28",
+      "title": "Quần ống rộng, váy dài và áo polo dệt kim, cặp đôi hoàn hảo của mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quan-ong-rong-vay-dai-va-ao-polo-det-kim-cap-doi-hoan-hao-cua-mua-185251128135448458.htm",
+      "summary": "Để tạo nên điểm sáng cho những bản phối đời thường sành điệu, nàng đừng quên bổ sung chiếc áo polo tay dài kẻ sọc vào tủ đồ mùa này. Cùng với quần ống rộng và váy dài, áo polo dệt kim với phần cổ bẻ đặc trưng giúp nàng khuấy đảo xu hướng và chinh phục mọi phong cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:00:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100174+07:00"
+    },
+    {
+      "id": "0c022eace0f4f68b7f398c973d42859a",
+      "title": "ON TRENDING: Loạt câu đố khiến dàn cast ‘toát mồ hôi’, ngỡ ngàng với khách mời đặc biệt",
+      "link": "https://thanhnien.vn/on-trending-loat-cau-do-khien-dan-cast-toat-mo-hoi-ngo-ngang-voi-khach-moi-dac-biet-185251127124116956.htm",
+      "summary": "Loạt câu đố chữ trong On Trending khiến Quang Tuấn, Trấn Thành và Liên Bỉnh Phát không ít lần lúng túng, từ đứng hình vài giây đến tranh luận sôi nổi để tìm đáp án đúng. Không khí trường quay càng thêm bất ngờ khi khách mời giấu mặt bất ngờ xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T13:00:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100323+07:00"
+    },
+    {
+      "id": "eb927b173240a96b253529de28603fe8",
+      "title": "UAV tự sát Mỹ 'bị gây nhiễu, liên tục trượt mục tiêu' ở Ukraine",
+      "link": "https://vnexpress.net/uav-tu-sat-my-bi-gay-nhieu-lien-tuc-truot-muc-tieu-o-ukraine-4987766.html",
+      "summary": "Tình báo Ukraine phải ngừng sử dụng UAV tự sát Altius do thường xuyên gặp trục trặc và kém hiệu quả khi thực chiến, theo báo Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T12:59:41+07:00",
+      "fetched": "2025-11-29T21:14:54.539146+07:00"
+    },
+    {
+      "id": "eb927b173240a96b253529de28603fe8",
+      "title": "UAV tự sát Mỹ 'bị gây nhiễu, liên tục trượt mục tiêu' ở Ukraine",
+      "link": "https://vnexpress.net/uav-tu-sat-my-bi-gay-nhieu-lien-tuc-truot-muc-tieu-o-ukraine-4987766.html",
+      "summary": "Tình báo Ukraine phải ngừng sử dụng UAV tự sát Altius do thường xuyên gặp trục trặc và kém hiệu quả khi thực chiến, theo báo Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T12:59:41+07:00",
+      "fetched": "2025-11-29T21:15:00.054169+07:00"
+    },
+    {
+      "id": "1fad5dc8818c917501e758613342d851",
+      "title": "Nguy cơ bùng phát dịch sốt xuất huyết Dengue sau bão lũ",
+      "link": "https://thanhnien.vn/nguy-co-bung-phat-dich-sot-xuat-huyet-dengue-sau-bao-lu-185251129184700371.htm",
+      "summary": "Bác sĩ khuyến cáo bão lũ cực đoan tạo môi trường thuận lợi cho muỗi truyền bệnh sinh sôi, kéo theo dịch lan nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T12:58:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100472+07:00"
+    },
+    {
+      "id": "61faa4cf93e8c890977262e821461625",
+      "title": "Báo Thanh Niên cùng công ty Phát Đạt san sẻ khó khăn với người dân vùng lũ",
+      "link": "https://thanhnien.vn/bao-thanh-nien-cung-cong-ty-phat-dat-san-se-kho-khan-voi-nguoi-dan-vung-lu-185251129191820589.htm",
+      "summary": "Báo Thanh Niên và Công ty CP phát triển bất động sản Phát Đạt trao 200 phần quà hỗ trợ, san sẻ khó khăn và tiếp sức cho người dân vùng lũ gượng dậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T12:46:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100628+07:00"
+    },
+    {
+      "id": "0b3a46deb8ec4fdffd8e774d6f13f0de",
+      "title": "Phố đường tàu vừa giải tỏa lại tấp nập",
+      "link": "https://vnexpress.net/pho-duong-tau-vua-giai-toa-lai-tap-nap-4987742.html",
+      "summary": "Sáng 29/11, khách đổ đến ngồi kín các quán cà phê ở phố đường tàu Khâm Thiên, phường Văn Miếu - Quốc Tử Giám, dù lực lượng chức năng mới xử lý, giải tỏa khu vực này bốn ngày trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T12:40:07+07:00",
+      "fetched": "2025-11-29T21:14:54.539306+07:00"
+    },
+    {
+      "id": "6bd11c6bbb63285ad9523e3db019fc0c",
+      "title": "AI trên Windows 11 mạnh đến mức Microsoft phải phát cảnh báo",
+      "link": "https://thanhnien.vn/ai-tren-windows-11-manh-den-muc-microsoft-phai-phat-canh-bao-185251129101533347.htm",
+      "summary": "Microsoft đang trong quá trình phát triển Windows 11, với kế hoạch chuyển đổi thành một 'agentic OS' trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T12:33:00+07:00",
+      "fetched": "2025-11-29T21:14:58.100800+07:00"
     },
     {
       "id": "fcee4ede7d49a9900d4ab5e60675b2a0",
