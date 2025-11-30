@@ -1,7 +1,157 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T15:21:11.499184+07:00",
+  "lastUpdated": "2025-11-30T17:16:52.832931+07:00",
   "articles": [
+    {
+      "id": "39c0c01cb73919ca0b0ae2bc3c62594b",
+      "title": "Biểu tình khắp châu Âu ủng hộ Palestine, kêu gọi trừng phạt Israel",
+      "link": "https://tuoitre.vn/bieu-tinh-khap-chau-au-ung-ho-palestine-keu-goi-trung-phat-israel-20251130104035639.htm",
+      "summary": "Ngày 29-11, nhiều thành phố tại châu Âu chứng kiến hàng chục ngàn người đồng loạt xuống đường để ủng hộ người Palestine ở Gaza, cáo buộc Israel vi phạm ngừng bắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.967558+07:00",
+      "fetched": "2025-11-30T17:16:44.967676+07:00"
+    },
+    {
+      "id": "a5c6603f69a4b186e4608eaaf359ef34",
+      "title": "Vietjet hoàn thành cập nhật phần mềm/cứng toàn bộ 69 tàu bay Airbus trước thời hạn",
+      "link": "https://tuoitre.vn/vietjet-hoan-thanh-cap-nhat-phan-mem-cung-toan-bo-69-tau-bay-airbus-truoc-thoi-han-20251130133907677.htm",
+      "summary": "Vietjet cho biết đến 3h sáng 30-11-2025, hãng đã hoàn tất cập nhật 69 tàu bay Airbus A320/A321, sớm gần 4 giờ so với thời hạn của cơ quan chức năng và Airbus.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.967438+07:00",
+      "fetched": "2025-11-30T17:16:44.967547+07:00"
+    },
+    {
+      "id": "1a4e56979dee47e31efc2715dd443985",
+      "title": "50 tác phẩm tiêu biểu gọi tên Bảo Ninh, Nguyễn Huy Thiệp, Lưu Quang Vũ, Trần Tiến",
+      "link": "https://tuoitre.vn/50-tac-pham-tieu-bieu-goi-ten-bao-ninh-nguyen-huy-thiep-luu-quang-vu-tran-tien-20251130132850967.htm",
+      "summary": "Những văn nghệ sĩ được công chúng yêu mến như Nguyễn Huy Thiệp, Bảo Ninh, Nguyễn Đình Thi, Phạm Tuyên, Trần Tiến… đều có trong danh sách bình chọn tác phẩm văn học, nghệ thuật biểu diễn Việt Nam tiêu biểu, xuất sắc sau ngày đất nước thống nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.967317+07:00",
+      "fetched": "2025-11-30T17:16:44.967427+07:00"
+    },
+    {
+      "id": "0537de8d32ed98749c2af4bb2522cb40",
+      "title": "'Chiến dịch Quang Trung' sẽ xây mới hơn 1.500 căn nhà cho dân vùng lũ",
+      "link": "https://tuoitre.vn/chien-dich-quang-trung-se-xay-moi-hon-1-500-can-nha-cho-dan-vung-lu-20251130140056291.htm",
+      "summary": "Với tinh thần thần tốc, táo bạo, \"Chiến dịch Quang Trung\" sẽ xây dựng hơn 1.500 căn nhà mới với chi phí tối thiểu 170 triệu đồng/căn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.967197+07:00",
+      "fetched": "2025-11-30T17:16:44.967306+07:00"
+    },
+    {
+      "id": "f3ba337673b6d614f9b8ae70db35a2aa",
+      "title": "Sinh viên bức xúc vì nhận tiền tập luyện A80 chỉ bằng 1/2 trường khác, nhà trường hứa đối thoại",
+      "link": "https://tuoitre.vn/sinh-vien-buc-xuc-vi-nhan-tien-tap-luyen-a80-chi-bang-1-2-truong-khac-nha-truong-hua-doi-thoai-20251130140732889.htm",
+      "summary": "Sinh viên Trường cao đẳng Du lịch Hà Nội cho biết chỉ được trường chi trả tiền tập luyện A80 là 940.000 đồng, trong khi các trường khác được nhận từ 1,6 triệu đồng/sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.967077+07:00",
+      "fetched": "2025-11-30T17:16:44.967187+07:00"
+    },
+    {
+      "id": "7f111e346d3762784751e324aec7d393",
+      "title": "Đồng Nai chống kẹt xe: Cấm xe tải trên 5 tấn vào đường Bùi Hữu Nghĩa trong ngày",
+      "link": "https://tuoitre.vn/dong-nai-chong-ket-xe-cam-xe-tai-tren-5-tan-vao-duong-bui-huu-nghia-trong-ngay-20251130141127435.htm",
+      "summary": "Từ ngày 1-12, xe tải trên 5 tấn từ hướng TP.HCM không được đi vào đường Bùi Hữu Nghĩa, phường Biên Hòa, tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966955+07:00",
+      "fetched": "2025-11-30T17:16:44.967065+07:00"
+    },
+    {
+      "id": "6694e813266e0fab93af35122ceb175f",
+      "title": "Sắp mở phiên phúc thẩm xét kháng cáo của ông Phạm Thái Hà, cựu trợ lý của cựu Chủ tịch Quốc hội",
+      "link": "https://tuoitre.vn/sap-mo-phien-phuc-tham-xet-khang-cao-cua-ong-pham-thai-ha-cuu-tro-ly-cua-cuu-chu-tich-quoc-hoi-20251130143156752.htm",
+      "summary": "Ông Phạm Thái Hà, cựu Phó chủ nhiệm Văn phòng Quốc hội kiêm trợ lý của cựu Chủ tịch Quốc hội, bị tòa sơ thẩm tuyên 5 năm 6 tháng tù. Ông có đơn kháng cáo gửi tòa cấp phúc thẩm xem xét, cân nhắc giảm nhẹ hình phạt cho mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966811+07:00",
+      "fetched": "2025-11-30T17:16:44.966942+07:00"
+    },
+    {
+      "id": "bfdd921381efdb46a305b6a201adc241",
+      "title": "Tây Ninh lập đề án ngàn tỉ nâng cấp Khu kinh tế cửa khẩu Mộc Bài",
+      "link": "https://tuoitre.vn/tay-ninh-lap-de-an-ngan-ti-nang-cap-khu-kinh-te-cua-khau-moc-bai-20251130143705732.htm",
+      "summary": "Dự án có các thành phần gồm mở rộng tuyến đường kết nối cao tốc TP.HCM - Mộc Bài đến cửa khẩu, mở rộng trạm kiểm soát liên hợp và cải tạo cảnh quan cột mốc 171, xây dựng kênh thoát nước Khu kinh tế cửa khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966689+07:00",
+      "fetched": "2025-11-30T17:16:44.966799+07:00"
+    },
+    {
+      "id": "b07a5b78574b5d3f6e1c1d6214a150d7",
+      "title": "Bế mạc Đại hội Mặt trận Tổ quốc Việt Nam TP.HCM nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/be-mac-dai-hoi-mat-tran-to-quoc-viet-nam-tp-hcm-nhiem-ky-2025-2030-20251130130635161.htm",
+      "summary": "Đại hội đại biểu Mặt trận Tổ quốc Việt Nam TP.HCM nhiệm kỳ 2025-2030, đại hội đầu tiên sau hợp nhất đã thành công tốt đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966567+07:00",
+      "fetched": "2025-11-30T17:16:44.966678+07:00"
+    },
+    {
+      "id": "564138f8b5dfc839dc8178cf2360a8d8",
+      "title": "Vietjet nối lại đường bay đến Côn Đảo từ 3-12",
+      "link": "https://tuoitre.vn/vietjet-noi-lai-duong-bay-den-con-dao-tu-3-12-20251127151247024.htm",
+      "summary": "Vietjet chính thức mở bán vé từ ngày 26-11 và đưa chặng bay Hà Nội/TP.HCM đến Côn Đảo vào khai thác trở lại từ ngày 3-12, với tần suất một chuyến khứ hồi mỗi ngày, dự kiến tăng lên hai chuyến từ ngày 15-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966444+07:00",
+      "fetched": "2025-11-30T17:16:44.966556+07:00"
+    },
+    {
+      "id": "9837ef76c210a8bf282b9593d32fda4e",
+      "title": "Trao học bổng ‘TTC - Nâng bước thành công’ lần thứ 40 năm 2025",
+      "link": "https://tuoitre.vn/trao-hoc-bong-ttc-nang-buoc-thanh-cong-lan-thu-40-nam-2025-20251130150004998.htm",
+      "summary": "Sáng 29-11, niềm vui đã đến với các em học sinh xã Mỏ Cày, xã Thành Thới, xã Nhuận Phú Tân, tỉnh Vĩnh Long, khi được đón nhận những suất học bổng từ Tập đoàn TTC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966315+07:00",
+      "fetched": "2025-11-30T17:16:44.966432+07:00"
+    },
+    {
+      "id": "e05b0173cea6669172716d7c214c0149",
+      "title": "Philippines huy động 17.000 cảnh sát, đông hơn người biểu tình",
+      "link": "https://tuoitre.vn/philippines-huy-dong-17-000-canh-sat-dong-hon-nguoi-bieu-tinh-20251130145628373.htm",
+      "summary": "Chính quyền Manila huy động hơn 17.000 cảnh sát để giữ an ninh khi hàng ngàn người Philipines đã xuống đường biểu tình về vụ bê bối dự án chống ngập \"ma” trị giá hàng tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966183+07:00",
+      "fetched": "2025-11-30T17:16:44.966299+07:00"
+    },
+    {
+      "id": "7275bfc68e7108207ee500bed1a4dccc",
+      "title": "Thực tập sinh sợ bị biến thành 'lao động giá rẻ'",
+      "link": "https://tuoitre.vn/thuc-tap-sinh-so-bi-bien-thanh-lao-dong-gia-re-2025110912371859.htm",
+      "summary": "Mỗi mùa thực tập, sinh viên lại háo hức bước ra khỏi giảng đường. Nhưng không phải ai cũng có được trải nghiệm như mong muốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.966053+07:00",
+      "fetched": "2025-11-30T17:16:44.966172+07:00"
+    },
+    {
+      "id": "ed484ca4b0c837cb7bfd8d742c93ae02",
+      "title": "Du khách Việt đến Đài Loan tăng trở lại",
+      "link": "https://tuoitre.vn/du-khach-viet-den-dai-loan-tang-tro-lai-2025113015125042.htm",
+      "summary": "Ông Derek Chou - Giám đốc Văn phòng đại diện Cục Du lịch Đài Loan tại TP.HCM - cho biết số lượng du khách Việt Nam đến Đài Loan (Trung Quốc) đã tăng nhẹ trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.965912+07:00",
+      "fetched": "2025-11-30T17:16:44.966041+07:00"
+    },
+    {
+      "id": "0a91e3095c5e3f1bda5d09cb5036e248",
+      "title": "Lý do nhiều người xúc động trước những thùng cứu trợ kiểu 'túi mù'",
+      "link": "https://tuoitre.vn/ly-do-nhieu-nguoi-xuc-dong-truoc-nhung-thung-cuu-tro-kieu-tui-mu-20251130154226637.htm",
+      "summary": "Bạn đọc không chỉ khen ngợi cách đóng hàng cứu trợ vùng lũ trong thùng nhựa, vừa tinh tế vừa hữu dụng mà còn xúc động bởi tình người đùm bọc nhau khi hoạn nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T17:16:44.965669+07:00",
+      "fetched": "2025-11-30T17:16:44.965895+07:00"
+    },
     {
       "id": "7eda3a47452cae6417fcf031b83af06c",
       "title": "TP.HCM thúc đẩy xây dựng tiêu chuẩn trụ sạc xe điện ở chung cư",
@@ -461,6 +611,346 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T10:24:28.153645+07:00",
       "fetched": "2025-11-30T10:24:28.153892+07:00"
+    },
+    {
+      "id": "e7c9a0673e242b766e8e47b5daabfff7",
+      "title": "Lao ôtô vào nhóm phụ nữ, một nạn nhân tử vong",
+      "link": "https://vnexpress.net/lao-oto-vao-nhom-phu-nu-mot-nan-nhan-tu-vong-4988012.html",
+      "summary": "Xảy ra mâu thuẫn, Nguyễn Tấn Thành đã lao ôtô vào nhiều người ở xã Bến Cầu, khiến một nạn nhân tử vong, trưa 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:13:06+07:00",
+      "fetched": "2025-11-30T17:16:40.873537+07:00"
+    },
+    {
+      "id": "a714c4d4ba5ee42ab0160d9d1af58248",
+      "title": "Dẹp nạn xe cứu thương trá hình ở Lâm Đồng",
+      "link": "https://thanhnien.vn/dep-nan-xe-cuu-thuong-tra-hinh-o-lam-dong-185251130163628403.htm",
+      "summary": "Sở Y tế tỉnh Lâm Đồng vừa có văn bản gửi Phòng CSGT Công an tỉnh Lâm Đồng, UBND các xã, phường và đặc khu, các cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh đề nghị chấn chỉnh hoạt động xe cứu thương trá hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:13:00+07:00",
+      "fetched": "2025-11-30T17:16:44.011239+07:00"
+    },
+    {
+      "id": "3e0ecbd426956c8d97faea92c9bbd67b",
+      "title": "Cháy chung cư Hồng Kông: Tìm thấy thêm nhiều thi thể, số người chết tăng lên 146",
+      "link": "https://thanhnien.vn/chay-chung-cu-hong-kong-tim-thay-them-nhieu-thi-the-so-nguoi-chet-tang-len-146-185251130170507198.htm",
+      "summary": "Lực lượng chức năng tìm thấy thêm nhiều thi thể các nạn nhân vụ cháy chung cư Hoằng Phúc Uyển ở Hồng Kông, với tình trạng bên trong các chung cư được mô tả là bị tàn phá nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:12:00+07:00",
+      "fetched": "2025-11-30T17:16:44.011412+07:00"
+    },
+    {
+      "id": "b2a7f6343a13e403e6811f95798cf4a1",
+      "title": "Tập trung khắc phục đèo Prenn sạt lở: Nhà thầu nói gì về kinh phí sửa chữa?",
+      "link": "https://thanhnien.vn/tap-trung-khac-phuc-deo-prenn-sat-lo-nha-thau-noi-gi-ve-kinh-phi-sua-chua-185251130163941632.htm",
+      "summary": "Sau đợt mưa bão kéo dài, tuyến đèo Prenn, cửa ngõ vào trung tâm Đà Lạt (Lâm Đồng), bị sạt lở, sụt lún nghiêm trọng. Hiện tỉnh Lâm Đồng cùng nhà thầu nâng cấp đèo đang tập trung khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:10:00+07:00",
+      "fetched": "2025-11-30T17:16:44.011575+07:00"
+    },
+    {
+      "id": "d4c8cf020ab0d03ad06ce93f582e5788",
+      "title": "Hải Phòng có thể hoàn thành gần 55.000 căn nhà xã hội đến năm 2030",
+      "link": "https://vnexpress.net/hai-phong-co-the-hoan-thanh-gan-55-000-can-nha-xa-hoi-den-nam-2030-4987962.html",
+      "summary": "Hải Phòng dự kiến xây dựng gần 55.000 căn nhà xã hội đến năm 2030, vượt hơn 10% chỉ tiêu được Chính phủ giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:09:00+07:00",
+      "fetched": "2025-11-30T17:16:40.873713+07:00"
+    },
+    {
+      "id": "82739d0163c70675003f9360deb2ad85",
+      "title": "Miền Bắc giảm hanh khô",
+      "link": "https://vnexpress.net/mien-bac-giam-hanh-kho-4987983.html",
+      "summary": "Tuần tới, khi trường gió phân kỳ trên cao suy yếu, độ ẩm không khí ở miền Bắc được cải thiện, tình trạng hanh khô giảm dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:08:49+07:00",
+      "fetched": "2025-11-30T17:16:40.873893+07:00"
+    },
+    {
+      "id": "e6f88ba1aaa4c9ddf02efd35d8417ddd",
+      "title": "AI giúp doanh số online dịp Black Friday tại Mỹ lập kỷ lục",
+      "link": "https://vnexpress.net/ai-giup-doanh-so-online-dip-black-friday-tai-my-lap-ky-luc-4988005.html",
+      "summary": "Người tiêu dùng Mỹ đã chi 11,8 tỷ USD mua hàng online dịp Black Friday, tăng 9,1% so với năm ngoái nhờ các công cụ AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:08:45+07:00",
+      "fetched": "2025-11-30T17:16:40.874058+07:00"
+    },
+    {
+      "id": "0708182dd36642769496b00a3d075b11",
+      "title": "Diễn viên điển trai đóng thượng úy trong ‘Hành trình công lý’ tốt nghiệp thạc sĩ",
+      "link": "https://thanhnien.vn/dien-vien-dien-trai-dong-thuong-uy-trong-hanh-trinh-cong-ly-tot-nghiep-thac-si-185251130162910772.htm",
+      "summary": "Sau vai diễn thượng úy trong 'Hành trình công lý', diễn viên Trung Tuấn vẫn miệt mài với nghề. Anh vừa tốt nghiệp thạc sĩ tại Trường đại học Sân khấu Điện ảnh Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:07:00+07:00",
+      "fetched": "2025-11-30T17:16:44.011738+07:00"
+    },
+    {
+      "id": "663f17d4c6cf9dfbf7a5cb90dcda3b7d",
+      "title": "Điểm tin 17h: Chất lượng không khí Hà Nội ở mức rất xấu | TP HCM kiến nghị bổ sung quy định trạm sạc xe điện ở chung cư",
+      "link": "https://vnexpress.net/diem-tin-17h-chat-luong-khong-khi-ha-noi-o-muc-rat-xau-tp-hcm-kien-nghi-bo-sung-quy-dinh-tram-sac-xe-dien-o-chung-cu-4988011.html",
+      "summary": "Bão Koto có khả năng suy yếu trước khi đổ bộ Nam Trung Bộ; Ôtô sản xuất từ 2017 phải đạt chuẩn khí thải Euro 3 vào tháng 3/2026...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:04:38+07:00",
+      "fetched": "2025-11-30T17:16:40.874222+07:00"
+    },
+    {
+      "id": "674ef559ba57d03e0634f790977f87a6",
+      "title": "14 vé tứ quý 9999 trúng xổ số miền Nam ngày 30 tháng 11 đài Tiền Giang",
+      "link": "https://thanhnien.vn/14-ve-tu-quy-9999-trung-xo-so-mien-nam-ngay-30-thang-11-dai-tien-giang-185251130170045079.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 30 tháng 11 chiều nay, 14 vé có dãy số tứ quý 9999 trúng xổ số Tiền Giang khiến nhiều khách thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:04:00+07:00",
+      "fetched": "2025-11-30T17:16:44.011919+07:00"
+    },
+    {
+      "id": "7ddfdecc93d159905d33170c40e5ecd9",
+      "title": "50 tác phẩm văn học, nghệ thuật xuất sắc sau thống nhất",
+      "link": "https://vnexpress.net/50-tac-pham-van-hoc-nghe-thuat-xuat-sac-sau-thong-nhat-4987990.html",
+      "summary": "Tiểu thuyết ''Nỗi buồn chiến tranh'' (Bảo Ninh), kịch bản ''Mưa đỏ\" (Chu Lai) thuộc 50 tác phẩm văn học, nghệ thuật biểu diễn tiêu biểu sau ngày thống nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:03:39+07:00",
+      "fetched": "2025-11-30T17:16:40.874378+07:00"
+    },
+    {
+      "id": "0533cf85178b10d6eeeca6d5bcaafa01",
+      "title": "TikToker triệu view 'gây sốt' khi từ Nhật về Việt Nam tham gia 'Bạn muốn hẹn hò'",
+      "link": "https://thanhnien.vn/tiktoker-trieu-view-gay-sot-khi-tu-nhat-ve-viet-nam-tham-gia-ban-muon-hen-ho-185251130163914357.htm",
+      "summary": "Nữ TikToker Lê Thụy gây bất ngờ khi tham gia chương trình 'Bạn muốn hẹn hò', được mai mối với kỹ sư hơn 11 tuổi. Sau cuộc trò chuyện, cả hai tìm được sự đồng điệu, ưng ý với đối phương nên cùng bấm nút hẹn hò, nhận được sự ủng hộ từ gia đình và khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:03:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012086+07:00"
+    },
+    {
+      "id": "0ddcbd03c2e014adae0bfa410ca7f3a0",
+      "title": "Dấu hiệu bất thường ở cơ thể cảnh báo nguy cơ vô sinh",
+      "link": "https://vnexpress.net/dau-hieu-bat-thuong-o-co-the-canh-bao-nguy-co-vo-sinh-4987934.html",
+      "summary": "Tinh hoàn ẩn, lỗ tiểu lệch thấp, dương vật bị vùi hay cơ quan sinh dục không rõ giới tính là những dị tật cha mẹ cần phát hiện sớm để can thiệp, tránh ảnh hưởng chức năng sinh sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:00:00+07:00",
+      "fetched": "2025-11-30T17:16:40.874529+07:00"
+    },
+    {
+      "id": "28aea57c9774a1d6cf5df3c9610131b0",
+      "title": "Toàn cảnh 17h: Tài xế mua biển giả, húc ngã xe CSGT | Thời tiết TP.HCM khác gì sau đợt lạnh lạ?",
+      "link": "https://thanhnien.vn/toan-canh-17h-tai-xe-mua-bien-gia-huc-nga-xe-csgt-thoi-tiet-tphcm-khac-gi-sau-dot-lanh-la-185251130160421221.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:00:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012241+07:00"
+    },
+    {
+      "id": "96693ae2e515098e5fe699127c63a5cf",
+      "title": "Số người chết trong vụ cháy chung cư Hong Kong tăng lên 146",
+      "link": "https://vnexpress.net/so-nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-146-4987999.html",
+      "summary": "Số người thiệt mạng trong vụ cháy khu chung cư Wang Fuk Court tăng lên 146, khi giới chức tìm thấy thêm nhiều thi thể trong các tòa nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:55:52+07:00",
+      "fetched": "2025-11-30T17:16:40.874683+07:00"
+    },
+    {
+      "id": "d73de589648c7195b4da4a5603ad06bc",
+      "title": "TP.HCM: Công an phường An Hội Tây tìm chủ sở hữu 50 xe mô tô quá hạn tạm giữ",
+      "link": "https://thanhnien.vn/tphcm-cong-an-phuong-an-hoi-tay-tim-chu-so-huu-50-xe-mo-to-qua-han-tam-giu-185251130153804706.htm",
+      "summary": "Công an phường An Hội Tây (TP.HCM) phát hiện và lập biên bản tạm giữ 50 xe mô tô vi phạm hành chính. Chủ các phương tiện liên quan cần nhanh chóng liên hệ công an phường để giải quyết vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:51:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012394+07:00"
+    },
+    {
+      "id": "1b135fce560692321a4baf4293b178bc",
+      "title": "Venezuela hoang mang sau tuyên bố đóng cửa không phận của ông Trump",
+      "link": "https://thanhnien.vn/venezuela-hoang-mang-sau-tuyen-bo-dong-cua-khong-phan-cua-ong-trump-185251130164019248.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 29.11 tuyên bố không phận trên và xung quanh Venezuela nên được coi là \"đóng cửa toàn bộ,\" nhưng không đưa ra chi tiết nào thêm, gây ra lo ngại và bối rối tại Caracas khi Washington gia tăng sức ép lên chính phủ của Tổng thống Nicolas Maduro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:50:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012546+07:00"
+    },
+    {
+      "id": "b36aa60fdf4951bdbf4a2c21a2a84d6a",
+      "title": "Hàng trăm người thiệt mạng trong lũ lụt do bão bất thường gây ra ở Indonesia",
+      "link": "https://thanhnien.vn/hang-tram-nguoi-thiet-mang-trong-lu-lut-do-bao-bat-thuong-gay-ra-o-indonesia-185251130164444319.htm",
+      "summary": "Số người chết do lũ lụt và lở đất sau những trận mưa xối xả do bão gây ra tại Indonesia đã tăng lên hơn 300 người, người đứng đầu cơ quan giảm nhẹ thiên tai của nước này cho biết hôm 29/11. Trong khi đó, Sri Lanka báo cáo số thương vong tăng vọt lên hơn 150 người sau khi một cơn bão khác đổ bộ vào h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:49:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012705+07:00"
+    },
+    {
+      "id": "67b7be7ec82beadf60ec539ffe655f93",
+      "title": "Những món ăn vặt mùa đông Hà Nội",
+      "link": "https://vnexpress.net/nhung-mon-an-vat-mua-dong-ha-noi-4987993.html",
+      "summary": "Mùa đông Hà Nội ấm áp hơn bởi những thức quà dân dã như bánh đúc nóng, chè sắn, ốc luộc, bánh tráng nướng, ngô khoai nướng… tạo nên hương vị thân quen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:40:58+07:00",
+      "fetched": "2025-11-30T17:16:40.874852+07:00"
+    },
+    {
+      "id": "24e7bbdbe88c3745478d91e692b9070f",
+      "title": "Ngồi lâu tăng nguy cơ tiểu đường: Cách khắc phục cực dễ",
+      "link": "https://thanhnien.vn/ngoi-lau-tang-nguy-co-tieu-duong-cach-khac-phuc-cuc-de-185251130124823863.htm",
+      "summary": "Một ngày điển hình của nhiều người là ngồi hàng giờ trước máy tính, chiều lại tiếp tục họp online, tối về xem phim và lướt điện thoại. Trên thực tế, lối sống ít vận động này đủ làm tăng nguy cơ tiểu đường dù ít ăn ngọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:31:00+07:00",
+      "fetched": "2025-11-30T17:16:44.012874+07:00"
+    },
+    {
+      "id": "5d49f37f3297b9a73e5dd39c4d8de17f",
+      "title": "Xe kinh doanh vận tải hành khách không phải lắp ghế cho trẻ em",
+      "link": "https://thanhnien.vn/xe-kinh-doanh-van-tai-hanh-khach-khong-phai-lap-ghe-cho-tre-em-185251130145803676.htm",
+      "summary": "Chính phủ chỉnh lý dự thảo luật theo hướng xe kinh doanh vận tải hành khách sẽ không phải lắp thiết bị an toàn cho trẻ em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:22:00+07:00",
+      "fetched": "2025-11-30T17:16:44.013030+07:00"
+    },
+    {
+      "id": "766d6ee45fa353c4dd7db87e27229869",
+      "title": "Địa đạo Củ Chi hấp dẫn khách Tây",
+      "link": "https://thanhnien.vn/dia-dao-cu-chi-hap-dan-khach-tay-185251130134345366.htm",
+      "summary": "Giữa tháng 11, địa đạo Củ Chi đông nghịt khách Tây. Điều níu chân du khách không chỉ là hệ thống hầm ngầm độc đáo, mà còn ở lối kể chuyện cuốn hút, truyền cảm của hướng dẫn viên Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:22:00+07:00",
+      "fetched": "2025-11-30T17:16:44.013184+07:00"
+    },
+    {
+      "id": "2b956af84b62d58e1c096b2b5bc6c75f",
+      "title": "Không còn lạc đường với tính năng ẩn của Google Maps",
+      "link": "https://thanhnien.vn/khong-con-lac-duong-voi-tinh-nang-an-cua-google-maps-185251130141124328.htm",
+      "summary": "Mẹo nhỏ trên Google Maps giúp bạn không bao giờ đi sai vào các con hẻm nhỏ thêm một lần nào nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:18:00+07:00",
+      "fetched": "2025-11-30T17:16:44.013333+07:00"
+    },
+    {
+      "id": "69346bed82728a8d357a4740783ada8f",
+      "title": "Người Philippines biểu tình phản đối tham nhũng trong chống lũ",
+      "link": "https://vnexpress.net/nguoi-philippines-bieu-tinh-phan-doi-tham-nhung-trong-chong-lu-4987982.html",
+      "summary": "Hàng nghìn người Philippines biểu tình phản đối quan chức, nghị sĩ và chủ công ty xây dựng \"biển thủ hàng tỷ USD\" trong các dự án chống lũ ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:14:31+07:00",
+      "fetched": "2025-11-30T17:16:40.875012+07:00"
+    },
+    {
+      "id": "69346bed82728a8d357a4740783ada8f",
+      "title": "Người Philippines biểu tình phản đối tham nhũng trong chống lũ",
+      "link": "https://vnexpress.net/nguoi-philippines-bieu-tinh-phan-doi-tham-nhung-trong-chong-lu-4987982.html",
+      "summary": "Hàng nghìn người Philippines biểu tình phản đối quan chức, nghị sĩ và chủ công ty xây dựng \"biển thủ hàng tỷ USD\" trong các dự án chống lũ ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-30T09:14:31+07:00",
+      "fetched": "2025-11-30T17:16:46.271085+07:00"
+    },
+    {
+      "id": "7ecb658aa8c1d9a3c1d179684cb8681e",
+      "title": "Cách dùng AI tạo ảnh Nano Banana Pro của Google Gemini",
+      "link": "https://vnexpress.net/cach-dung-ai-tao-anh-nano-banana-pro-cua-google-gemini-4987998.html",
+      "summary": "Nano Banana Pro được coi là AI tạo ảnh tốt nhất hiện nay với khả năng tạo chữ chính xác, vẽ infographic, trộn hình ảnh hay thậm chí dịch, tô màu truyện tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:14:00+07:00",
+      "fetched": "2025-11-30T17:16:40.875168+07:00"
+    },
+    {
+      "id": "7ecb658aa8c1d9a3c1d179684cb8681e",
+      "title": "Cách dùng AI tạo ảnh Nano Banana Pro của Google Gemini",
+      "link": "https://vnexpress.net/cach-dung-ai-tao-anh-nano-banana-pro-cua-google-gemini-4987998.html",
+      "summary": "Nano Banana Pro được coi là AI tạo ảnh tốt nhất hiện nay với khả năng tạo chữ chính xác, vẽ infographic, trộn hình ảnh hay thậm chí dịch, tô màu truyện tranh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-30T09:14:00+07:00",
+      "fetched": "2025-11-30T17:16:51.444513+07:00"
+    },
+    {
+      "id": "b000520c702c68fbf43357e6c664a6f8",
+      "title": "Tiền vệ U.23 Việt Nam Nguyễn Văn Trường nói điều xúc động sau ca phẫu thuật",
+      "link": "https://thanhnien.vn/tien-ve-u23-viet-nam-nguyen-van-truong-noi-dieu-xuc-dong-sau-ca-phau-thuat-185251130160129567.htm",
+      "summary": "Sau ca phẫu thuật dây chằng chéo trước, tiền vệ Nguyễn Văn Trường đã có những chia sẻ đầu tiên. Anh gửi lời cảm ơn chân thành, hứa sẽ trở lại mạnh mẽ hơn và đồng thời chúc các đồng đội ở U.23 Việt Nam thi đấu thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T09:03:00+07:00",
+      "fetched": "2025-11-30T17:16:44.013481+07:00"
+    },
+    {
+      "id": "d49d3cf744c077cd248f34c1016adfb4",
+      "title": "Ôtô sản xuất từ 2017 phải đạt chuẩn khí thải Euro 3 vào tháng 3/2026",
+      "link": "https://vnexpress.net/oto-san-xuat-tu-2017-phai-dat-chuan-khi-thai-euro-3-vao-thang-3-2026-4987967.html",
+      "summary": "Ôtô sản xuất năm 2017-2021 sẽ áp tiêu chuẩn Euro 3 từ tháng 3/2026, theo lộ trình áp dụng quy chuẩn quốc gia về khí thải ôtô của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:44:53+07:00",
+      "fetched": "2025-11-30T17:16:40.875315+07:00"
+    },
+    {
+      "id": "d49d3cf744c077cd248f34c1016adfb4",
+      "title": "Ôtô sản xuất từ 2017 phải đạt chuẩn khí thải Euro 3 vào tháng 3/2026",
+      "link": "https://vnexpress.net/oto-san-xuat-tu-2017-phai-dat-chuan-khi-thai-euro-3-vao-thang-3-2026-4987967.html",
+      "summary": "Ôtô sản xuất năm 2017-2021 sẽ áp tiêu chuẩn Euro 3 từ tháng 3/2026, theo lộ trình áp dụng quy chuẩn quốc gia về khí thải ôtô của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-30T08:44:53+07:00",
+      "fetched": "2025-11-30T17:16:48.121276+07:00"
+    },
+    {
+      "id": "ca55d706b89705b7b1925d25c94c3c6e",
+      "title": "Màu sắc răng tiết lộ điều gì về sức khỏe?",
+      "link": "https://vnexpress.net/mau-sac-rang-tiet-lo-dieu-gi-ve-suc-khoe-4986413.html",
+      "summary": "Sự thay đổi màu răng không chỉ do vệ sinh kém, mà đôi khi còn là dấu hiệu sớm cho thấy những vấn đề sức khỏe tiềm ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:39:46+07:00",
+      "fetched": "2025-11-30T17:16:40.875466+07:00"
+    },
+    {
+      "id": "a4a5b4b5bd1e876892b2e64c1f3faa97",
+      "title": "Bài thi mô phỏng lái xe gây ức chế vì 'bấm sớm chút cũng bị điểm 0'",
+      "link": "https://vnexpress.net/bai-thi-mo-phong-lai-xe-gay-uc-che-vi-bam-som-chut-cung-bi-diem-0-4987907.html",
+      "summary": "Việc yêu cầu bấm đúng khoảnh khắc, chính xác đến từng giây làm cho bài thi mô phỏng lái xe bị 'cơ học' và không phản ánh đúng bản chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:35:19+07:00",
+      "fetched": "2025-11-30T17:16:40.875618+07:00"
+    },
+    {
+      "id": "0cfe7550314d0a1c1d5aabfe73dfc28a",
+      "title": "Porsche thiết kế Panamera cho người sành xì gà và rượu vang",
+      "link": "https://vnexpress.net/porsche-thiet-ke-panamera-cho-nguoi-sanh-xi-ga-va-ruou-vang-4987719.html",
+      "summary": "Chiếc Panamera Turbo được bộ phận cá nhân hóa Sonderwunsch của Porsche chế tạo, chỉ một chiếc trên thế giới dành cho đại gia Dubai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:34:09+07:00",
+      "fetched": "2025-11-30T17:16:40.875771+07:00"
+    },
+    {
+      "id": "ce64a360cbac138edd7d653bec346574",
+      "title": "Hàng không Việt đưa máy bay hoạt động trở lại sau sự cố lỗi phần mềm Airbus",
+      "link": "https://vnexpress.net/hang-khong-viet-dua-may-bay-hoat-dong-tro-lai-sau-su-co-loi-phan-mem-airbus-4987956.html",
+      "summary": "Vietnam Airlines và Vietjet đã hoàn tất cập nhật phần mềm cho toàn bộ đội tàu bay A320/A321 trước hạn 6h59 ngày 30/11, đưa máy bay trở lại hoạt động sau khi kiểm tra.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-30T08:31:02+07:00",
+      "fetched": "2025-11-30T17:16:48.121454+07:00"
     },
     {
       "id": "f7deb67040200f9eec18cac0da2bfb4e",
