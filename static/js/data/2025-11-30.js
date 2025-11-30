@@ -1,7 +1,157 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T08:28:13.751186+07:00",
+  "lastUpdated": "2025-11-30T10:24:37.245814+07:00",
   "articles": [
+    {
+      "id": "230c862a6ed3830b307536cb62af373a",
+      "title": "Yamal có màn trình diễn để đời trong ngày sinh nhật của Barca",
+      "link": "https://tuoitre.vn/yamal-co-man-trinh-dien-de-doi-trong-ngay-sinh-nhat-cua-barca-20251130083935641.htm",
+      "summary": "Màn trình diễn xuất sắc của Lamine Yamal không chỉ giúp Barca lội ngược dòng trước Alaves, mà còn trở thành món quà sinh nhật ý nghĩa nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.155272+07:00",
+      "fetched": "2025-11-30T10:24:28.155363+07:00"
+    },
+    {
+      "id": "210bb608ebaecf46b342d472e10bba90",
+      "title": "Hai nữ sinh bị bạn học vây đánh ngay cổng trường ở quận 12 cũ",
+      "link": "https://tuoitre.vn/hai-nu-sinh-bi-ban-hoc-vay-danh-ngay-cong-truong-o-quan-12-cu-20251130081435868.htm",
+      "summary": "Lực lượng chức năng đã mời phụ huynh và các em học sinh (3 em đánh bạn) lên làm việc, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.155177+07:00",
+      "fetched": "2025-11-30T10:24:28.155264+07:00"
+    },
+    {
+      "id": "33d71c7994c8ee541feef50ba7026bf5",
+      "title": "Ra mắt chủ tịch, 14 phó chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM",
+      "link": "https://tuoitre.vn/ra-mat-chu-tich-14-pho-chu-tich-uy-ban-mat-tran-to-quoc-viet-nam-tp-hcm-2025113008444092.htm",
+      "summary": "Đại hội Mặt trận Tổ quốc Việt Nam TP.HCM lần thứ I, nhiệm kỳ 2025-2030 đã hiệp thương 146/168 ủy viên và chủ tịch, 14 phó chủ tịch ủy ban nhiệm kỳ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.155078+07:00",
+      "fetched": "2025-11-30T10:24:28.155168+07:00"
+    },
+    {
+      "id": "0f63d267b78d6224ec3d3522eb1d2eef",
+      "title": "'Cơn bão trong tách trà' hay 'cơn bão hoàn hảo' ở Ukraine?",
+      "link": "https://tuoitre.vn/con-bao-trong-tach-tra-hay-con-bao-hoan-hao-o-ukraine-20251130062307504.htm",
+      "summary": "Việc Chánh Văn phòng Tổng thống Ukraine vừa từ chức được xem là \"cơn địa chấn chính trị\" đối với Ukraine. Dư chấn của nó đến mức nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154980+07:00",
+      "fetched": "2025-11-30T10:24:28.155070+07:00"
+    },
+    {
+      "id": "67b2454427376262ecec2b2236f569f0",
+      "title": "Bưởi - loại trái ngon nhiều lợi ích cho sức khỏe",
+      "link": "https://tuoitre.vn/buoi-loai-trai-ngon-nhieu-loi-ich-cho-suc-khoe-20251130090127578.htm",
+      "summary": "Bưởi là nguồn cung cấp vitamin C dồi dào. Một múi bưởi loại lớn cung cấp 116mg vitamin C. Đây là một chất dinh dưỡng thiểt yếu, phải được cung cấp thông qua chế độ ăn uống vì cơ thể vốn không tự sản xuất được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154883+07:00",
+      "fetched": "2025-11-30T10:24:28.154970+07:00"
+    },
+    {
+      "id": "d6401a9aeef90f52e9c1185e305eb2b1",
+      "title": "Người đàn ông tạo WiFi giả ở nhiều sân bay để lấy cắp thông tin từ phụ nữ",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-tao-wifi-gia-o-nhieu-san-bay-de-lay-cap-thong-tin-tu-phu-nu-2025113009032904.htm",
+      "summary": "Một người đàn ông 44 tuổi bị tuyên án 7 năm 4 tháng tù vì tạo WiFi giả ở các sân bay Úc để đánh cắp thông tin cá nhân, chủ yếu nhắm vào phụ nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154788+07:00",
+      "fetched": "2025-11-30T10:24:28.154875+07:00"
+    },
+    {
+      "id": "25b851c21946216316c6ee634d645a79",
+      "title": "Messi đưa Inter Miami đến chức vô địch MLS Cup miền Đông",
+      "link": "https://tuoitre.vn/messi-dua-inter-miami-den-chuc-vo-dich-mls-cup-mien-dong-20251130090842511.htm",
+      "summary": "Lionel Messi cùng Inter Miami đánh bại New York City FC 5-1 để đăng quang vô địch bảng miền Đông và lần đầu tiên giành quyền vào chung kết MLS Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154675+07:00",
+      "fetched": "2025-11-30T10:24:28.154779+07:00"
+    },
+    {
+      "id": "988c373a482fa855121a480417ac8235",
+      "title": "Quảng cáo cờ bạc núp bóng 'món quà miễn phí'",
+      "link": "https://tuoitre.vn/quang-cao-co-bac-nup-bong-mon-qua-mien-phi-20251130073904773.htm",
+      "summary": "\"Chỉ cần đi phát vài món đồ, thu nhập 12-15 triệu đồng mỗi tháng. Không cần kinh nghiệm, chỉ cần chịu làm\" - lời rao tuyển nhân sự tiếp thị của một trang cờ bạc trực tuyến tràn lan trên Facebook.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154575+07:00",
+      "fetched": "2025-11-30T10:24:28.154667+07:00"
+    },
+    {
+      "id": "a1237e085e86a2f9af42d84b51025efa",
+      "title": "Cách Trung Quốc muốn vượt mặt Mỹ về đổi mới sáng tạo",
+      "link": "https://tuoitre.vn/cach-trung-quoc-muon-vuot-mat-my-ve-doi-moi-sang-tao-20251130063950969.htm",
+      "summary": "Từng là công xưởng thế giới, Trung Quốc đầu tư mạnh vào R&D, đưa quốc gia tỉ dân này trở thành phòng thí nghiệm của thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154456+07:00",
+      "fetched": "2025-11-30T10:24:28.154566+07:00"
+    },
+    {
+      "id": "152dd639bb2c782c0742696f512f32a8",
+      "title": "Học năm 4 sư phạm Toán rồi chuyển ngành, chinh phục AI y tế ở Mỹ",
+      "link": "https://tuoitre.vn/hoc-nam-4-su-pham-toan-roi-chuyen-nganh-chinh-phuc-ai-y-te-o-my-20251130090104816.htm",
+      "summary": "Ở tuổi 25, Nguyễn Thanh Huy trở thành một trong những gương mặt trẻ nổi bật của trí tuệ nhân tạo (AI) y tế Việt Nam với nhiều công bố quốc tế gây chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154356+07:00",
+      "fetched": "2025-11-30T10:24:28.154448+07:00"
+    },
+    {
+      "id": "b43ea9cc1bdfccd32767a3c791d280d8",
+      "title": "Ngày mai 1-12, xuất quân 'Chiến dịch Quang Trung' dựng lại nhà cho dân vùng lũ",
+      "link": "https://tuoitre.vn/ngay-mai-1-12-xuat-quan-chien-dich-quang-trung-dung-lai-nha-cho-dan-vung-lu-20251130084227837.htm",
+      "summary": "Chiến dịch tổng lực mang tên \"Chiến dịch Quang Trung\" dựng lại nhà cho người dân vùng lũ, bảo đảm mọi gia đình đều có mái ấm đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154252+07:00",
+      "fetched": "2025-11-30T10:24:28.154347+07:00"
+    },
+    {
+      "id": "3a4964cbd1270b67d67e0ee20830fec8",
+      "title": "Đặt trái tim nơi ruộng đồng",
+      "link": "https://tuoitre.vn/dat-trai-tim-noi-ruong-dong-20251130084905811.htm",
+      "summary": "Trong thời khắc đất nước chuyển mình, nông nghiệp đổi mới, báo chí cần là cây cầu, là người đồng hành, là ánh lửa soi đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154149+07:00",
+      "fetched": "2025-11-30T10:24:28.154243+07:00"
+    },
+    {
+      "id": "4c9913965fed44cede2f0e92a0edb2c2",
+      "title": "Lần đầu 'dịch chuyển' thông tin giữa hai chấm lượng tử, mở đường đến mạng truyền thông siêu an toàn",
+      "link": "https://tuoitre.vn/lan-dau-dich-chuyen-thong-tin-giua-hai-cham-luong-tu-mo-duong-den-mang-truyen-thong-sieu-an-toan-20251130092845513.htm",
+      "summary": "Các nhà khoa học Đức vừa đạt thành tựu quan trọng trong việc dịch chuyển thông tin giữa các photon từ chấm lượng tử, tiến gần hơn đến mạng lượng tử siêu an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.154037+07:00",
+      "fetched": "2025-11-30T10:24:28.154139+07:00"
+    },
+    {
+      "id": "b04f63536472ceb614ad3fe8d3134463",
+      "title": "Đi làm đã mệt, về nhà nghe vợ càm ràm từng việc nhỏ",
+      "link": "https://tuoitre.vn/di-lam-da-met-ve-nha-nghe-vo-cam-ram-tung-viec-nho-20251130093414473.htm",
+      "summary": "Mỗi lần nhóm bạn thân chúng tôi tụ tập cà phê, câu chuyện thường xoay quanh công việc, con cái, chuyện mái nhà. Và không hiểu tại sao, chủ đề \"vợ càm ràm\" luôn xuất hiện đều đặn như \"tiết mục\" cố định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.153907+07:00",
+      "fetched": "2025-11-30T10:24:28.154026+07:00"
+    },
+    {
+      "id": "4a05c22a64ec2f6441f9e0221cde6015",
+      "title": "Nuôi biển hướng tới quy mô công nghiệp lớn, xanh và bền vững",
+      "link": "https://tuoitre.vn/nuoi-bien-huong-toi-quy-mo-cong-nghiep-lon-xanh-va-ben-vung-20251124181507037.htm",
+      "summary": "Nuôi trồng thủy sản trên biển (nuôi biển) đang mở ra hướng phát triển mới, tạo giá trị kinh tế cao, giảm áp lực khai thác ven bờ, góp phần bảo vệ nguồn lợi thủy sản cùng hệ sinh thái biển và thúc đẩy tăng trưởng xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T10:24:28.153645+07:00",
+      "fetched": "2025-11-30T10:24:28.153892+07:00"
+    },
     {
       "id": "f7deb67040200f9eec18cac0da2bfb4e",
       "title": "Tìm cách cứu nhau giữa dòng nước xiết",
@@ -153,6 +303,26 @@ window.newsData_2025_11_30 = {
       "fetched": "2025-11-30T08:28:04.645808+07:00"
     },
     {
+      "id": "4a1a2dd78a3614f7261a5c37f8dec297",
+      "title": "Cả U.17 và U.23 Malaysia gánh ‘còng lưng’ bê bối FAM nhập tịch lậu, huyền thoại lên tiếng",
+      "link": "https://thanhnien.vn/ca-u17-va-u23-malaysia-ganh-cong-lung-be-boi-fam-nhap-tich-lau-huyen-thoai-len-tieng-18525113010042296.htm",
+      "summary": "Danh thủ bóng đá Malaysia, ông Jamil Nasir tiếp tục chỉ trích đội U.23 nước này 'chưa sẵn sàng' cho SEA Games 33 và không có hy vọng gì để vượt qua vòng bảng trước hai đối thủ U.23 Việt Nam và Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:23:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028215+07:00"
+    },
+    {
+      "id": "a610824c0511562224768c65a47dbe64",
+      "title": "Thủy điện xả lũ, trách nhiệm của chính quyền là gì?",
+      "link": "https://thanhnien.vn/thuy-dien-xa-lu-trach-nhiem-cua-chinh-quyen-la-gi-185251128002618583.htm",
+      "summary": "Theo quy định, địa phương không chỉ thông báo thủy điện xả lũ, mà phải lập tức kích hoạt cả hệ thống: chỉ huy - cảnh báo - sơ tán - bảo vệ tài sản - chuẩn bị cứu hộ, cứu nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:20:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028367+07:00"
+    },
+    {
       "id": "9459112dfb632845107fedf25ef39029",
       "title": "Tuyển triathlon của Campuchia nhập tịch 100%, khiến SEA Games choáng váng",
       "link": "https://tuoitre.vn/tuyen-triathlon-cua-campuchia-nhap-tich-100-khien-sea-games-choang-vang-20251129201518856.htm",
@@ -171,6 +341,346 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T03:18:32.479982+07:00",
       "fetched": "2025-11-30T03:18:32.480218+07:00"
+    },
+    {
+      "id": "944517e9b52f220693935fa402834ad3",
+      "title": "Lỗi nhỏ trên ổ SSD 'bóp nghẹt' hiệu suất máy tính",
+      "link": "https://thanhnien.vn/loi-nho-tren-o-ssd-bop-nghet-hieu-suat-may-tinh-185251129145535591.htm",
+      "summary": "Dù sở hữu một hệ thống với GPU mạnh mẽ hay CPU hiện đại, hiệu suất máy tính vẫn có thể bị ảnh hưởng nghiêm trọng nếu ổ SSD gặp vấn đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:18:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028503+07:00"
+    },
+    {
+      "id": "53de54f8eeb2c369b571e9176a2f7ada",
+      "title": "Tiền vệ Việt kiều bị loại khỏi đội U22 Việt Nam",
+      "link": "https://vnexpress.net/tien-ve-viet-kieu-bi-loai-khoi-doi-u22-viet-nam-4987909.html",
+      "summary": "Tiền vệ Trần Thành Trung thuộc nhóm 4 cầu thủ bị gạch tên, khi U22 Việt Nam chốt danh sách lên đường sang Thái Lan dự SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T03:17:10+07:00",
+      "fetched": "2025-11-30T10:24:37.239206+07:00"
+    },
+    {
+      "id": "4bd55bdca16f2c2c4855d00a525a095d",
+      "title": "Thủ tướng Úc đầu tiên tổ chức kết hôn khi đương chức",
+      "link": "https://thanhnien.vn/thu-tuong-uc-dau-tien-to-chuc-ket-hon-khi-duong-chuc-1852511301007174.htm",
+      "summary": "Thủ tướng Úc Anthony Albanese vừa tổ chức lễ cưới với bà Jodie Haydon, trở thành nhà lãnh đạo Úc đầu tiên tổ chức kết hôn khi đang tại nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:14:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028635+07:00"
+    },
+    {
+      "id": "5761184bc33ccf312fa9d620ec99f718",
+      "title": "Cháy thẩm mỹ viện ở TP.HCM: 20 người thoát nạn, 1 ô tô hư hỏng",
+      "link": "https://thanhnien.vn/chay-tham-my-vien-o-tphcm-20-nguoi-thoat-nan-1-o-to-hu-hong-185251130093004452.htm",
+      "summary": "Vụ cháy thẩm mỹ viện trên đường Nguyễn Đình Chiểu (phường Bàn Cờ, TP.HCM) được xác định đã làm hư hỏng 1 ô tô, 20 người may mắn thoát nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:13:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028780+07:00"
+    },
+    {
+      "id": "4d83e3db81075325caec48a6f23e2c76",
+      "title": "Hai chuyện mắt thấy tai nghe ở cổng trường",
+      "link": "https://thanhnien.vn/hai-chuyen-mat-thay-tai-nghe-o-cong-truong-185251130082900605.htm",
+      "summary": "Tôi ngồi làm việc ở một quán cà phê nằm sát bên một cổng trường học, từ đó mắt thấy tai nghe được hai câu chuyện đáng suy ngẫm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:07:00+07:00",
+      "fetched": "2025-11-30T10:24:27.028907+07:00"
+    },
+    {
+      "id": "f23564c1b88afaf0751a5f54fd1546fa",
+      "title": "Pin xe điện có nhanh chai và 'chết dần' như pin điện thoại?",
+      "link": "https://thanhnien.vn/pin-xe-dien-co-nhanh-chai-va-chet-dan-nhu-pin-dien-thoai-185251130100211998.htm",
+      "summary": "Tuổi thọ pin luôn là một câu hỏi lớn đối với người mua xe điện và điều này hoàn toàn có lý do. Pin lithium-ion là một \"hộp đen\" đắt đỏ - chúng có thể chiếm tới 30 - 50% giá trị của một chiếc xe điện, nhưng lại rất khó đánh giá. Nỗi lo về tuổi thọ pin và chi phí thay thế đắt đỏ là 1 trong những rào c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:06:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029031+07:00"
+    },
+    {
+      "id": "f6404ade0d6464195270607aaa1f1a65",
+      "title": "Không còn se lạnh, thời tiết TP.HCM hôm nay nắng gắt, mưa giông trở lại",
+      "link": "https://thanhnien.vn/khong-con-se-lanh-thoi-tiet-tphcm-hom-nay-nang-gat-mua-giong-tro-lai-185251130094925096.htm",
+      "summary": "Không còn se lạnh sáng sớm, thời tiết TP.HCM hôm nay tăng nhiệt, trời nắng gắt từ sáng sớm; đợt mưa giông mới trở lại vào chiều tối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:06:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029152+07:00"
+    },
+    {
+      "id": "c7f3bafb46363c7ac8214b2fba11d9c6",
+      "title": "Ngoài ăn uống và vận động, đây là 3 cách giúp hạ huyết áp tự nhiên",
+      "link": "https://thanhnien.vn/ngoai-an-uong-va-van-dong-day-la-3-cach-giup-ha-huyet-ap-tu-nhien-18525112714150156.htm",
+      "summary": "Nhiều người nghĩ rằng để hạ huyết áp, việc đầu tiên cần làm là ăn kiêng hoặc tập thể dục. Nhưng thực tế, ngoài ăn uống và vận động, có nhiều biện pháp tự nhiên, đôi khi đơn giản hơn nhiều, cũng có thể giúp ổn định huyết áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:05:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029272+07:00"
+    },
+    {
+      "id": "11eeabad74fa14a6de4e013689e1c125",
+      "title": "Ông Kim: Không quân Triều Tiên sẽ trang bị khí tài chiến lược",
+      "link": "https://vnexpress.net/ong-kim-khong-quan-trieu-tien-se-trang-bi-khi-tai-chien-luoc-4987886.html",
+      "summary": "Ông Kim Jong-un tuyên bố không quân Triều Tiên sẽ được trang bị \"các khí tài chiến lược\", thuật ngữ để chỉ vũ khí tầm xa có sức hủy diệt lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:02:28+07:00",
+      "fetched": "2025-11-30T10:24:23.598214+07:00"
+    },
+    {
+      "id": "3bad4132cc3ab11a9f098e53e8431d78",
+      "title": "TP HCM muốn vào top 100 hệ sinh thái khởi nghiệp toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-muon-vao-top-100-he-sinh-thai-khoi-nghiep-toan-cau-4987862.html",
+      "summary": "TP HCM đặt mục tiêu vào top 100 hệ sinh thái khởi nghiệp đổi mới sáng tạo toàn cầu đến 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:02:00+07:00",
+      "fetched": "2025-11-30T10:24:23.598377+07:00"
+    },
+    {
+      "id": "3bad4132cc3ab11a9f098e53e8431d78",
+      "title": "TP HCM muốn vào top 100 hệ sinh thái khởi nghiệp toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-muon-vao-top-100-he-sinh-thai-khoi-nghiep-toan-cau-4987862.html",
+      "summary": "TP HCM đặt mục tiêu vào top 100 hệ sinh thái khởi nghiệp đổi mới sáng tạo toàn cầu đến 2030.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-30T03:02:00+07:00",
+      "fetched": "2025-11-30T10:24:31.807041+07:00"
+    },
+    {
+      "id": "f80819358897a14e1a95b87b33c536fd",
+      "title": "Thành ngữ nào nói về sự kết hợp giữa món ăn và thỏi vàng",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-nao-noi-ve-su-ket-hop-giua-mon-an-va-thoi-vang-4987377.html",
+      "summary": "Thành ngữ nghĩa là có giá rất đắt, cao hơn bình thường rất nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:23.598522+07:00"
+    },
+    {
+      "id": "58632772b1938954cc1aace93a93bdbf",
+      "title": "5 thực phẩm giúp 'bỏ đói' tế bào ung thư",
+      "link": "https://vnexpress.net/5-thuc-pham-giup-bo-doi-te-bao-ung-thu-4987321.html",
+      "summary": "Các nghiên cứu lâm sàng xác nhận rằng việc thường xuyên tiêu thụ quả mọng, khoai lang tím, rau họ cải, các loại đậu và kiwi có thể làm giảm nguy cơ ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:23.598654+07:00"
+    },
+    {
+      "id": "6bf674a9f651442e4ae8949572e274ed",
+      "title": "Lý do trẻ mắc bệnh tay chân miệng nhiều lần",
+      "link": "https://vnexpress.net/ly-do-tre-mac-benh-tay-chan-mieng-nhieu-lan-4987840.html",
+      "summary": "Trẻ mắc bệnh tay chân miệng nhiều lần có thể do tiếp xúc với nhiều chủng virus khác nhau, vệ sinh kém, hệ miễn dịch còn yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:23.598809+07:00"
+    },
+    {
+      "id": "cde01cc265dbc9e508951577cf322391",
+      "title": "4 sai lầm khiến mụn trứng cá dai dẳng",
+      "link": "https://vnexpress.net/4-sai-lam-khien-mun-trung-ca-dai-dang-4987836.html",
+      "summary": "Điều trị mụn bằng sản phẩm cấp tốc, chăm sóc da không đúng cách và sinh hoạt kém lành mạnh đều có thể khiến mụn trứng cá dai dẳng, tái phát nặng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:23.598941+07:00"
+    },
+    {
+      "id": "e4df077ba53220954f3d986a4efffdd1",
+      "title": "Bị cúm A có uống kháng sinh được không?",
+      "link": "https://vnexpress.net/bi-cum-a-co-uong-khang-sinh-duoc-khong-4987831.html",
+      "summary": "Tôi sốt, ho, đau họng do cúm A, có nên uống kháng sinh để bệnh nhanh khỏi không? (Toàn, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:23.599066+07:00"
+    },
+    {
+      "id": "38b6c25ff32308ffd31338a2ac115e5b",
+      "title": "Không quân Triều Tiên sẽ nhận 'tài sản quân sự chiến lược mới'",
+      "link": "https://thanhnien.vn/khong-quan-trieu-tien-se-nhan-tai-san-quan-su-chien-luoc-moi-185251130094609133.htm",
+      "summary": "Dự lễ kỷ niệm 80 năm thành lập không quân, Chủ tịch Kim Jong-un của CHDCND Triều Tiên cho biết lực lượng này sẽ nhận các tài sản quân sự chiến lược và nhiệm vụ quan trọng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029388+07:00"
+    },
+    {
+      "id": "09b049673c78273cf92c05978a0e9413",
+      "title": "Có tập vở chưa dùng tới, hãy mang đến những điểm này",
+      "link": "https://thanhnien.vn/co-tap-vo-chua-dung-toi-hay-mang-den-nhung-diem-nay-185251129191940187.htm",
+      "summary": "Tại TP.HCM, nhiều điểm tiếp nhận đang cần tập vở trắng để gửi đến học sinh vùng lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029506+07:00"
+    },
+    {
+      "id": "e98fa207549b3263604839d99e0e9b6f",
+      "title": "Ngôi Sao tổ chức Japan Trip 2025 tri ân đại lý tiêu biểu",
+      "link": "https://thanhnien.vn/ngoi-sao-to-chuc-japan-trip-2025-tri-an-dai-ly-tieu-bieu-185251129175205496.htm",
+      "summary": "Công ty Ngôi Sao (thành lập 2007) - đơn vị phân phối và thi công các thương hiệu phim cách nhiệt Hàn Quốc và Mỹ hàng đầu Việt Nam vừa tổ chức thành công chương trình 'BÁN PHIM CÁCH NHIỆT - KHÁM PHÁ THẾ GIỚI: Hành trình Mùa Thu Nhật Bản 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029629+07:00"
+    },
+    {
+      "id": "faea41dd3734f95b31888098672f7322",
+      "title": "Muôn kiểu phối đồ nhiều lớp với trench coat, áo dạ lông cừu sang chảnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/muon-kieu-phoi-do-nhieu-lop-voi-trench-coat-ao-da-long-cuu-sang-chanh-185251128153842367.htm",
+      "summary": "Nàng có thể chọn cho mình cách phối đồ nhiều lớp trẻ trung và hiện đại khi ưu tiên cho các thiết kế dáng ngắn có gam màu tươi sáng. Các mẹo phối áo trench coat nhấn mạnh vào nét đẹp cổ điển, sang chảnh đầy quyền quý nhờ vào chất liệu dạ lông cừu có thể kết hợp với mọi màu sắc và cấu trúc của bản phố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:00:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029763+07:00"
+    },
+    {
+      "id": "438cf52d4b11fa15a8af02ea5d02e537",
+      "title": "Giá Bitcoin hôm nay 30.11.2025: Dùng dằng kết thúc một tháng tồi tệ",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-30112025-dung-dang-ket-thuc-mot-thang-toi-te-185251130081601838.htm",
+      "summary": "Giá Bitcoin hôm nay gần như không tăng, giảm so với hôm qua nhưng diễn biến giá liên tục biến động mạnh quanh mốc 90.000 USD, kết thúc tháng 11 khó khăn bậc nhất lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:59:00+07:00",
+      "fetched": "2025-11-30T10:24:27.029880+07:00"
+    },
+    {
+      "id": "9f3c694b6fe4f7e545cce740b3a5bd9f",
+      "title": "Bé trai nguy cơ mất ánh sáng vì ung thư mắt, gia đình kiệt quệ cầu cứu",
+      "link": "https://thanhnien.vn/be-trai-nguy-co-mat-anh-sang-vi-ung-thu-mat-gia-dinh-kiet-que-cau-cuu-185251117132909425.htm",
+      "summary": "Gia Bảo, bé trai 2 tuổi mắc ung thư mắt và đối mặt nguy cơ mất ánh sáng. Gia đình nghèo kiệt quệ kêu gọi giúp đỡ để giữ mắt còn lại cho con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:59:00+07:00",
+      "fetched": "2025-11-30T10:24:27.030004+07:00"
+    },
+    {
+      "id": "b193038d08fc71b2b10c721371b17e91",
+      "title": "Chất lượng không khí Hà Nội ở mức rất xấu",
+      "link": "https://vnexpress.net/chat-luong-khong-khi-ha-noi-o-muc-rat-xau-4987878.html",
+      "summary": "Sáng 28/11, nhiều trạm quan trắc tại Hà Nội ghi nhận chỉ số AQI tăng nhanh lên ngưỡng rất xấu, lần đầu xuất hiện trong mùa đông 2025-2026, đe dọa sức khỏe người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:56:26+07:00",
+      "fetched": "2025-11-30T10:24:23.599190+07:00"
+    },
+    {
+      "id": "1cf46c0b432b96109c56ee0e156e0b34",
+      "title": "Chuyên gia Malaysia bi quan trước SEA Games 33",
+      "link": "https://vnexpress.net/chuyen-gia-malaysia-bi-quan-truoc-sea-games-33-4987860.html",
+      "summary": "Chuyên gia Datuk Jamal Nasir chê bai sự chuẩn bị của Malaysia, nhưng cũng coi đó là lời thách thức để đội nhà cố gắng vào bán kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:48:24+07:00",
+      "fetched": "2025-11-30T10:24:23.599320+07:00"
+    },
+    {
+      "id": "1cf46c0b432b96109c56ee0e156e0b34",
+      "title": "Chuyên gia Malaysia bi quan trước SEA Games 33",
+      "link": "https://vnexpress.net/chuyen-gia-malaysia-bi-quan-truoc-sea-games-33-4987860.html",
+      "summary": "Chuyên gia Datuk Jamal Nasir chê bai sự chuẩn bị của Malaysia, nhưng cũng coi đó là lời thách thức để đội nhà cố gắng vào bán kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T02:48:24+07:00",
+      "fetched": "2025-11-30T10:24:37.239361+07:00"
+    },
+    {
+      "id": "e1f339ca5f7c65002ce79ace842e5428",
+      "title": "Em sống giản dị và cầu tiến",
+      "link": "https://vnexpress.net/em-song-gian-di-va-cau-tien-4986978.html",
+      "summary": "Em mong gặp một người đàn ông có trách nhiệm, tử tế, biết cố gắng cho tương lai và sẵn sàng đồng hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:44:25+07:00",
+      "fetched": "2025-11-30T10:24:23.599411+07:00"
+    },
+    {
+      "id": "f76192967b8667778f2bbcff01e7b72e",
+      "title": "Khách dùng ảnh AI lừa tiền shop online",
+      "link": "https://vnexpress.net/khach-dung-anh-ai-lua-tien-shop-online-4987885.html",
+      "summary": "Lợi dụng chính sách bảo vệ người mua, nhiều khách hàng gửi ảnh sản phẩm hư hỏng do AI tạo ra để đòi hoàn tiền và không trả lại hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:40:04+07:00",
+      "fetched": "2025-11-30T10:24:23.599537+07:00"
+    },
+    {
+      "id": "e9a8badf64be514ffefd271d91517853",
+      "title": "Lương Triều Vỹ đóng phim truyền hình sau 37 năm",
+      "link": "https://vnexpress.net/luong-trieu-vy-dong-phim-truyen-hinh-sau-37-nam-4987891.html",
+      "summary": "Tài tử Hong Kong Lương Triều Vỹ tái xuất mảng truyền hình sau 37 năm với vai sát thủ hàng loạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:36:08+07:00",
+      "fetched": "2025-11-30T10:24:23.599665+07:00"
+    },
+    {
+      "id": "97877251cddd487acb8e4cf6793f4b3a",
+      "title": "Bạn gái thường nói lời thậm tệ",
+      "link": "https://vnexpress.net/ban-gai-thuong-noi-loi-tham-te-4987884.html",
+      "summary": "Sau vài tháng yêu nhau, em thay đổi nhiều, hay cáu gắt với những lý do rất nhỏ, nói lời rất thậm tệ rồi đòi chia tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:31:45+07:00",
+      "fetched": "2025-11-30T10:24:23.599807+07:00"
+    },
+    {
+      "id": "fd3de0bbcea1f35a89fd66277dac47b6",
+      "title": "Vì sao cặp chị em Việt kiều không được dự bóng rổ 5x5 SEA Games 33?",
+      "link": "https://vnexpress.net/vi-sao-cap-chi-em-viet-kieu-khong-duoc-du-bong-ro-5x5-sea-games-33-4987864.html",
+      "summary": "Hai tuyển thủ người Mỹ gốc Việt Trương Thảo My, Trương Thảo Vy đều chỉ tham dự nội dung bóng rổ 3x3 tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:30:59+07:00",
+      "fetched": "2025-11-30T10:24:23.599937+07:00"
+    },
+    {
+      "id": "fd3de0bbcea1f35a89fd66277dac47b6",
+      "title": "Vì sao cặp chị em Việt kiều không được dự bóng rổ 5x5 SEA Games 33?",
+      "link": "https://vnexpress.net/vi-sao-cap-chi-em-viet-kieu-khong-duoc-du-bong-ro-5x5-sea-games-33-4987864.html",
+      "summary": "Hai tuyển thủ người Mỹ gốc Việt Trương Thảo My, Trương Thảo Vy đều chỉ tham dự nội dung bóng rổ 3x3 tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T02:30:59+07:00",
+      "fetched": "2025-11-30T10:24:37.239499+07:00"
+    },
+    {
+      "id": "0d3d32ea87d6de2f8061007108d5feca",
+      "title": "Toàn cảnh thảm kịch cháy chung cư ở Hong Kong",
+      "link": "https://vnexpress.net/toan-canh-tham-kich-chay-chung-cu-o-hong-kong-4987879.html",
+      "summary": "Đám cháy bắt đầu từ giàn giáo tre bên ngoài toà Wang Fuk Court rồi lan rộng qua 6 toà nhà, khiến ít nhất 128 người thiệt mạng, hàng trăm người khác bị thương và mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T02:17:46+07:00",
+      "fetched": "2025-11-30T10:24:23.600065+07:00"
+    },
+    {
+      "id": "a95638e730cb07656de386d61d090aab",
+      "title": "Intel sẽ sản xuất chip Apple Silicon cho MacBook giá rẻ",
+      "link": "https://vnexpress.net/intel-se-san-xuat-chip-apple-silicon-cho-macbook-gia-re-4987736.html",
+      "summary": "Apple có thể nối lại quan hệ hợp tác với Intel nhưng theo cách mới và hạn chế hơn khi chỉ dành cho dòng M cấp thấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-30T02:00:00+07:00",
+      "fetched": "2025-11-30T10:24:34.924393+07:00"
+    },
+    {
+      "id": "397eb406800e4d551efb58d702172aad",
+      "title": "Messi cùng Inter Miami vô địch miền Đông MLS",
+      "link": "https://vnexpress.net/messi-cung-inter-miami-vo-dich-mien-dong-mls-4987890.html",
+      "summary": "Tiền đạo Lionel Messi góp một kiến tạo, giúp Inter Miami hạ New York City 5-1 ở chung kết miền Đông, qua đó lần đầu vào chung kết tổng MLS Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T01:59:51+07:00",
+      "fetched": "2025-11-30T10:24:37.239632+07:00"
     },
     {
       "id": "a15fa9d269d4f293240a65fa9aa18cae",
