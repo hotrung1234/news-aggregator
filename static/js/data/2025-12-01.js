@@ -1,7 +1,137 @@
 window.newsData_2025_12_01 = {
   "date": "2025-12-01",
-  "lastUpdated": "2025-12-01T21:19:38.402360+07:00",
+  "lastUpdated": "2025-12-01T23:25:16.003516+07:00",
   "articles": [
+    {
+      "id": "e3d63ca02a1986b53f377074b6b2c987",
+      "title": "Có kế hoạch chuyển 7.000 chợ truyền thống thành cửa hàng, trung tâm thương mại",
+      "link": "https://tuoitre.vn/co-ke-hoach-chuyen-7-000-cho-truyen-thong-thanh-cua-hang-trung-tam-thuong-mai-20251201190530819.htm",
+      "summary": "Bộ Công Thương trình Chính phủ nhiều chính sách quan trọng cho ngành bán lẻ, coi hạ tầng thương mại hiện đại là trụ cột chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269803+07:00",
+      "fetched": "2025-12-01T23:25:09.269926+07:00"
+    },
+    {
+      "id": "66d62a2334792cc5047a4ce567c26a91",
+      "title": "Lễ cưới lãng mạn của đôi uyên ương tài năng nhất làng cầu lông",
+      "link": "https://tuoitre.vn/le-cuoi-lang-man-cua-doi-uyen-uong-tai-nang-nhat-lang-cau-long-20251201194547137.htm",
+      "summary": "Người hâm mộ còn nhớ khoảnh khắc lãng mạn tại Olympic Paris 2024: tay vợt Liu Yuchen quỳ gối cầu hôn đồng đội Huang Yaqiong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269676+07:00",
+      "fetched": "2025-12-01T23:25:09.269792+07:00"
+    },
+    {
+      "id": "cbd440b3d49a93aed57f180063564fcc",
+      "title": "Tuyển U22 Việt Nam tập gì ở buổi đầu tại Thái Lan?",
+      "link": "https://tuoitre.vn/tuyen-u22-viet-nam-tap-gi-o-buoi-dau-tai-thai-lan-20251201201612489.htm",
+      "summary": "Sau khi sang Thái Lan, U22 Việt Nam đã tập luyện chuẩn bị trận ra quân gặp U22 Lào tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269550+07:00",
+      "fetched": "2025-12-01T23:25:09.269664+07:00"
+    },
+    {
+      "id": "d8c4637c73f33712f4c17f61432924a5",
+      "title": "Trần Quyết Chiến cùng dàn sao billiards Việt Nam tranh giải thưởng 100 triệu",
+      "link": "https://tuoitre.vn/tran-quyet-chien-cung-dan-sao-billiards-viet-nam-tranh-giai-thuong-100-trieu-20251201202112837.htm",
+      "summary": "Trần Quyết Chiến sẽ đọ sức cùng các ngôi sao billiards để tìm ra nhà vô địch HBSF - MIN Table năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269424+07:00",
+      "fetched": "2025-12-01T23:25:09.269539+07:00"
+    },
+    {
+      "id": "a1be274f55751d2cc641ec644766c95b",
+      "title": "Bố mẹ Hương Tràm mừng con gái ra album, Bùi Anh Tuấn khen cô có mọi thứ",
+      "link": "https://tuoitre.vn/bo-me-huong-tram-mung-con-gai-ra-album-bui-anh-tuan-khen-co-co-moi-thu-20251201195755786.htm",
+      "summary": "Nghệ sĩ nhân dân Tiến Dũng, bố của Hương Tràm, khen ngợi con gái và biết ơn khán giả khi ủng hộ cô ra mắt album mới 'rất cá tính, rất riêng, đầy năng lượng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269298+07:00",
+      "fetched": "2025-12-01T23:25:09.269412+07:00"
+    },
+    {
+      "id": "b5a13cb14634db2872f2814f81ab25fe",
+      "title": "Dự kiến khánh thành Đường sách Nguyễn Đổng Chi vào quý 1-2026",
+      "link": "https://tuoitre.vn/du-kien-khanh-thanh-duong-sach-nguyen-dong-chi-vao-quy-1-2026-20251201202957403.htm",
+      "summary": "Trong buổi ra mắt dự án Đường sách Nguyễn Đổng Chi chiều 1-12, ban tổ chức cho biết dự kiến Đường sách nằm ở khu vực Nam Sài Gòn sẽ có thể khánh thành, đi vào phục vụ công chúng vào quý 1 năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269169+07:00",
+      "fetched": "2025-12-01T23:25:09.269287+07:00"
+    },
+    {
+      "id": "cd462546e6496b3f7be130008de6a527",
+      "title": "Dân Trung Quốc trở thành mục tiêu tấn công ở biên giới Tajikistan - Afghanistan",
+      "link": "https://tuoitre.vn/dan-trung-quoc-tro-thanh-muc-tieu-tan-cong-o-bien-gioi-tajikistan-afghanistan-20251201205505013.htm",
+      "summary": "Trung Quốc kêu gọi công dân nước này sơ tán sau vụ tấn công ở khu vực biên giới Tajikistan - Afghanistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.269038+07:00",
+      "fetched": "2025-12-01T23:25:09.269158+07:00"
+    },
+    {
+      "id": "0895e29d4176f0c28eef12535b7ea9c5",
+      "title": "Đạo diễn ‘Đi giữa trời rực rỡ’ bắt trend làm phim ngắn nhưng không phải ngôn tình",
+      "link": "https://tuoitre.vn/dao-dien-di-giua-troi-ruc-ro-bat-trend-lam-phim-ngan-nhung-khong-phai-ngon-tinh-20251201204625467.htm",
+      "summary": "Đạo diễn Đỗ Thanh Sơn công bố phim mới nhưng không phải phim dài tập chiếu trên truyền hình mà là một phim ngắn chiếu mạng có tên ‘Bẻ lái cuộc đời’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268888+07:00",
+      "fetched": "2025-12-01T23:25:09.269022+07:00"
+    },
+    {
+      "id": "2065dcdc2a99d31e10954350f65c6b78",
+      "title": "Vụ 3 thanh niên bốc đầu xe trên đường phố Nha Trang: Cảnh sát giao thông xử lý lò độ chế xe máy",
+      "link": "https://tuoitre.vn/vu-3-thanh-nien-boc-dau-xe-tren-duong-pho-nha-trang-canh-sat-giao-thong-xu-ly-lo-do-che-xe-may-20251201210541558.htm",
+      "summary": "Ba thanh niên chạy xe máy tốc độ cao, lạng lách, bốc đầu ở Nha Trang bị xác định nhiều vi phạm, cơ sở độ xe đang bị xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268759+07:00",
+      "fetched": "2025-12-01T23:25:09.268876+07:00"
+    },
+    {
+      "id": "7ab8d66c2c16f9bd74b3511459faa267",
+      "title": "Singapore cấm học sinh trung học dùng điện thoại từ năm 2026",
+      "link": "https://tuoitre.vn/singapore-cam-hoc-sinh-trung-hoc-dung-dien-thoai-tu-nam-2026-20251201212628927.htm",
+      "summary": "Từ ngày 1-1-2026, học sinh trung học cơ sở ở Singapore sẽ không được sử dụng điện thoại thông minh trong thời gian học ở trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268629+07:00",
+      "fetched": "2025-12-01T23:25:09.268747+07:00"
+    },
+    {
+      "id": "812199b90bec0cbd3e4f8eb0a824d928",
+      "title": "Giải pháp 'công chức dự bị' cho nhân lực công nghệ thông tin cấp xã Tây Ninh",
+      "link": "https://tuoitre.vn/giai-phap-cong-chuc-du-bi-cho-nhan-luc-cong-nghe-thong-tin-cap-xa-tay-ninh-20251201195857937.htm",
+      "summary": "Trong tiến trình cải cách hành chính và xây dựng chính quyền số, tuyến xã/phường chính là nơi mọi chủ trương \"chạm đất\" rõ nhất. Đây cũng là mặt trận đầu tiên mà người dân tiếp xúc với nhà nước và là nơi các nền tảng số vận hành 24/7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268492+07:00",
+      "fetched": "2025-12-01T23:25:09.268617+07:00"
+    },
+    {
+      "id": "122d5d46364cdf99271ca1b217445656",
+      "title": "Lào khuyến khích các tập đoàn lớn của Việt Nam mở rộng đầu tư",
+      "link": "https://tuoitre.vn/lao-khuyen-khich-cac-tap-doan-lon-cua-viet-nam-mo-rong-dau-tu-20251201192024503.htm",
+      "summary": "Thủ tướng Lào khẳng định sẽ tạo điều kiện thuận lợi hơn cho các doanh nghiệp Việt Nam đang đầu tư tại nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268351+07:00",
+      "fetched": "2025-12-01T23:25:09.268480+07:00"
+    },
+    {
+      "id": "ca58e4738eca52124479091afd1b57e1",
+      "title": "VFF bảo đảm mọi điều kiện tốt nhất cho U22 Việt Nam giành thành tích",
+      "link": "https://tuoitre.vn/vff-bao-dam-moi-dieu-kien-tot-nhat-cho-u22-viet-nam-gianh-thanh-tich-20251201215304661.htm",
+      "summary": "Phó chủ tịch Liên đoàn bóng đá Việt Nam (VFF) Trần Anh Tú khẳng định VFF sẽ bảo đảm mọi điều kiện  để đội tuyển U22 Việt Nam đạt thành tích tốt nhất tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T23:25:09.268114+07:00",
+      "fetched": "2025-12-01T23:25:09.268335+07:00"
+    },
     {
       "id": "0776d69496eb2709dd2d9d6bc49d8459",
       "title": "Hội nghị Điện lực 2025: Chuyển dịch năng lượng và công nghệ điện lực tiên tiến",
@@ -453,6 +583,26 @@ window.newsData_2025_12_01 = {
       "fetched": "2025-12-01T17:20:49.001400+07:00"
     },
     {
+      "id": "9c62e5e02eb956aaff3d25f517e93990",
+      "title": "Barie đâm xuyên ôtô, tài xế tuổi vị thành niên thiệt mạng",
+      "link": "https://vnexpress.net/barie-dam-xuyen-oto-tai-xe-tuoi-vi-thanh-nien-thiet-mang-4988366.html",
+      "summary": "Chiếc xe điện Xiaomi gặp tai nạn trên đoạn đường núi vào sáng sớm khi đâm vào lan can khiến tài xế tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T15:47:08+07:00",
+      "fetched": "2025-12-01T23:25:05.158906+07:00"
+    },
+    {
+      "id": "cf8211be00f7d25bb94314e9cd28c622",
+      "title": "Khuất Văn Khang tiết lộ sự thật về U.23 Lào, chỉ ra kịch bản khó lường cho U.23 Việt Nam",
+      "link": "https://thanhnien.vn/khuat-van-khang-tiet-lo-su-that-ve-u23-lao-chi-ra-kich-ban-kho-luong-cho-u23-viet-nam-185251201224234426.htm",
+      "summary": "Đội trưởng Khuất Văn Khang đã có những nhận xét đặc biệt về đối thủ U.23 Lào, chỉ ra kịch bản khó lường khi U.23 Việt Nam đá trận ra quân SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T15:47:00+07:00",
+      "fetched": "2025-12-01T23:25:08.348866+07:00"
+    },
+    {
       "id": "35e2d058e1b772415363dfc6efb00a17",
       "title": "Mất điện diện rộng ở Phú Quốc: Lãnh đạo tỉnh An Giang yêu cầu làm rõ trách nhiệm đơn vị liên quan",
       "link": "https://tuoitre.vn/mat-dien-dien-rong-o-phu-quoc-lanh-dao-tinh-an-giang-yeu-cau-lam-ro-trach-nhiem-don-vi-lien-quan-20251201120535446.htm",
@@ -603,6 +753,136 @@ window.newsData_2025_12_01 = {
       "fetched": "2025-12-01T15:28:05.233856+07:00"
     },
     {
+      "id": "1c29491310cbbcb4d42c4ff50a954016",
+      "title": "Hàng trăm giảng viên và sinh viên trường CĐ lập kỷ lục tại một giải chạy",
+      "link": "https://thanhnien.vn/hang-tram-giang-vien-va-sinh-vien-truong-cd-lap-ky-luc-tai-mot-giai-chay-185251201212736137.htm",
+      "summary": "Một trường CĐ đã lập kỷ lục 'Trường CĐ có số lượng cán bộ, giảng viên và sinh viên chạy marathon đông nhất trong một giải chạy tại Việt Nam'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T15:12:00+07:00",
+      "fetched": "2025-12-01T23:25:08.349057+07:00"
+    },
+    {
+      "id": "6e8e51335e0e7e20f8e1aadbcd1a8938",
+      "title": "Tổng Bí thư đề xuất ba hướng gắn kết chiến lược Việt - Lào",
+      "link": "https://vnexpress.net/tong-bi-thu-de-xuat-ba-huong-gan-ket-chien-luoc-viet-lao-4988527.html",
+      "summary": "Tổng Bí thư Tô Lâm phát biểu tại Học viện Chính trị và Hành chính Quốc gia Lào, đề xuất ba hướng gắn kết chiến lược mới nhằm giúp hợp tác hai nước hiệu quả và bền vững hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T15:04:26+07:00",
+      "fetched": "2025-12-01T23:25:05.159111+07:00"
+    },
+    {
+      "id": "6e8e51335e0e7e20f8e1aadbcd1a8938",
+      "title": "Tổng Bí thư đề xuất ba hướng gắn kết chiến lược Việt - Lào",
+      "link": "https://vnexpress.net/tong-bi-thu-de-xuat-ba-huong-gan-ket-chien-luoc-viet-lao-4988527.html",
+      "summary": "Tổng Bí thư Tô Lâm phát biểu tại Học viện Chính trị và Hành chính Quốc gia Lào, đề xuất ba hướng gắn kết chiến lược mới nhằm giúp hợp tác hai nước hiệu quả và bền vững hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T15:04:26+07:00",
+      "fetched": "2025-12-01T23:25:11.136639+07:00"
+    },
+    {
+      "id": "ee42c70ff5836fa01e2a02121403da6e",
+      "title": "Muốn mang chân tình đến với người phụ nữ tôi yêu",
+      "link": "https://vnexpress.net/muon-mang-chan-tinh-den-voi-nguoi-phu-nu-toi-yeu-4988212.html",
+      "summary": "Tìm bạn gái từ 30 - 45 tuổi, xây dựng gia đình nghiêm túc, nếu thông cảm thì đến với nhau, tạo động lực sống và vun đắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T15:00:00+07:00",
+      "fetched": "2025-12-01T23:25:05.159222+07:00"
+    },
+    {
+      "id": "0261f0e5a4292e1d87c1689f70f6016e",
+      "title": "Nông nghiệp Hòa Phát: Từ 'tay mơ' đến công ty chăn nuôi hàng đầu Việt Nam",
+      "link": "https://thanhnien.vn/nong-nghiep-hoa-phat-tu-tay-mo-den-cong-ty-chan-nuoi-hang-dau-viet-nam-18525120116521493.htm",
+      "summary": "Sau gần 1 thập kỉ \"rẽ ngang\", HPA của 'vua thép Việt' Trần Đình Long đã trở thành công ty nông nghiệp hàng đầu Việt Nam và chuẩn bị chào bán cổ phiếu lần đầu ra công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:53:00+07:00",
+      "fetched": "2025-12-01T23:25:08.349218+07:00"
+    },
+    {
+      "id": "131999004fcef5d236c14bde61548a24",
+      "title": "Bùi Anh Tuấn, Hương Tràm hội ngộ",
+      "link": "https://vnexpress.net/bui-anh-tuan-huong-tram-hoi-ngo-4988466.html",
+      "summary": "Bùi Anh Tuấn, Hương Tràm - hai ca sĩ cùng nổi lên từ Giọng hát Việt 2012 - khiến khán giả reo hò khi hòa giọng sau nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:52:21+07:00",
+      "fetched": "2025-12-01T23:25:05.159389+07:00"
+    },
+    {
+      "id": "278c71949dc16f7ebfb0ffa91aee597f",
+      "title": "Thủ tướng: Hạn chế tối đa tác động tiêu cực của nhóm lợi ích",
+      "link": "https://vnexpress.net/thu-tuong-han-che-toi-da-tac-dong-tieu-cuc-cua-nhom-loi-ich-4988520.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu sửa đổi quy định để hạn chế tối đa tác động tiêu cực của nhóm lợi ích và bảo vệ người dám đấu tranh, dám nghĩ, dám làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:51:24+07:00",
+      "fetched": "2025-12-01T23:25:05.159544+07:00"
+    },
+    {
+      "id": "3f783d360ebb2c74835dd9dc67772850",
+      "title": "Bãi container bốc cháy kèm tiếng nổ lớn",
+      "link": "https://vnexpress.net/bai-container-boc-chay-kem-tieng-no-lon-4988525.html",
+      "summary": "Lửa bốc cháy dữ dội tại khu vực bãi tập kết xe ở xã Bà Nà, sau đó lan nhanh vào khu vực chứa xăng dầu, thiêu rụi 13 container, trưa 1/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:51:08+07:00",
+      "fetched": "2025-12-01T23:25:05.159697+07:00"
+    },
+    {
+      "id": "9a57bdca21cc78ff47e77c50c1cbc054",
+      "title": "Tìm chủ sở hữu 2 xe máy trong vụ dùng súng cướp tài sản",
+      "link": "https://thanhnien.vn/tim-chu-so-huu-2-xe-may-trong-vu-dung-sung-cuop-tai-san-185251201181424989.htm",
+      "summary": "Bực tức vì cho rằng vợ có tình cảnh với T., Nguyễn Chí Tâm rủ thêm hai người khác, mang súng đến gặp đối phương rồi đuổi bắn chỉ thiên, khống chế nạn nhân cướp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:48:00+07:00",
+      "fetched": "2025-12-01T23:25:08.349376+07:00"
+    },
+    {
+      "id": "932b08adf1ae817b1fd9ccdb6f16f3ca",
+      "title": "Nguyên hiệu trưởng một trường sư phạm làm Hiệu trưởng Trường ĐH Nguyễn Tất Thành",
+      "link": "https://thanhnien.vn/nguyen-hieu-truong-mot-truong-su-pham-lam-hieu-truong-truong-dh-nguyen-tat-thanh-185251201210712387.htm",
+      "summary": "Sáng nay 1.12, Hội đồng trường Trường ĐH Nguyễn Tất Thành đã trao quyết định bổ nhiệm PGS-TS Nguyễn Kim Hồng, nguyên Hiệu trưởng Trường ĐH Sư phạm TP.HCM, giữ chức vụ hiệu trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:33:00+07:00",
+      "fetched": "2025-12-01T23:25:08.349531+07:00"
+    },
+    {
+      "id": "58b061b61ef57c6a14ac952a5a0fb1d3",
+      "title": "ĐH Khoa học Xã hội và Nhân văn bỏ xét tổ hợp C00 với 15 ngành",
+      "link": "https://vnexpress.net/phuong-thuc-to-hop-xet-tuyen-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-nam-2026-chinh-xac-nhat-4988523.html",
+      "summary": "Một nửa số ngành của trường Đại học Khoa học Xã hội và Nhân văn Hà Nội sẽ không xét bằng tổ hợp C00 (Văn, Sử, Địa), trong khi khối C03, C04 và D66 bị xóa sổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:32:12+07:00",
+      "fetched": "2025-12-01T23:25:05.159849+07:00"
+    },
+    {
+      "id": "03511e4eb9560fdd174771555fcf7561",
+      "title": "Tài sản của ông Phạm Nhật Vượng thêm 20.000 tỷ trong ngày cổ phiếu VIC đạt kỷ lục",
+      "link": "https://vnexpress.net/tai-san-cua-ong-pham-nhat-vuong-them-20-000-ty-trong-ngay-co-phieu-vic-dat-ky-luc-4988522.html",
+      "summary": "Tài sản của Chủ tịch Vingroup Phạm Nhật Vượng tăng 760 triệu USD, khoảng 20.000 tỷ đồng, chỉ trong hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:30:26+07:00",
+      "fetched": "2025-12-01T23:25:05.160020+07:00"
+    },
+    {
+      "id": "03511e4eb9560fdd174771555fcf7561",
+      "title": "Tài sản của ông Phạm Nhật Vượng thêm 20.000 tỷ trong ngày cổ phiếu VIC đạt kỷ lục",
+      "link": "https://vnexpress.net/tai-san-cua-ong-pham-nhat-vuong-them-20-000-ty-trong-ngay-co-phieu-vic-dat-ky-luc-4988522.html",
+      "summary": "Tài sản của Chủ tịch Vingroup Phạm Nhật Vượng tăng 760 triệu USD, khoảng 20.000 tỷ đồng, chỉ trong hôm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-01T14:30:26+07:00",
+      "fetched": "2025-12-01T23:25:12.576485+07:00"
+    },
+    {
       "id": "b4a1c65db90315277e29eadbcc4c34fb",
       "title": "Quảng Trị: Đào đất làm nhà, phát hiện quả bom 340 kg",
       "link": "https://thanhnien.vn/quang-tri-dao-dat-lam-nha-phat-hien-qua-bom-340-kg-185251201200436577.htm",
@@ -611,6 +891,16 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T14:19:00+07:00",
       "fetched": "2025-12-01T21:19:28.959024+07:00"
+    },
+    {
+      "id": "8bdc2b414a637718fd71f00c2d2307bb",
+      "title": "Billiards: Trần Quyết Chiến tranh tài với dàn cơ thủ hàng đầu Việt Nam",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-tranh-tai-voi-dan-co-thu-hang-dau-viet-nam-185251201211159232.htm",
+      "summary": "Những cơ thủ hàng đầu của billiards Việt Nam, trong đó có Trần Quyết Chiến sẽ tranh tài tại giải vô địch HBSF - MIN Table 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:19:00+07:00",
+      "fetched": "2025-12-01T23:25:08.349682+07:00"
     },
     {
       "id": "d720bdff290bb684e6cab61ccc266fa4",
@@ -691,6 +981,16 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T14:00:00+07:00",
       "fetched": "2025-12-01T21:19:25.608214+07:00"
+    },
+    {
+      "id": "c1c0a6e397ffafef5660844ed3278556",
+      "title": "Bạn trai sống dựa vào tôi giờ muốn vay 100 triệu sửa nhà cho bố mẹ",
+      "link": "https://vnexpress.net/loi-dung-ban-trai-song-dua-vao-toi-gio-muon-vay-100-trieu-sua-nha-cho-bo-me-4988450.html",
+      "summary": "Anh bảo nhà xuống cấp, bố mẹ già rồi mà không có tiền, anh là con trai phải lo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:00:00+07:00",
+      "fetched": "2025-12-01T23:25:05.160180+07:00"
     },
     {
       "id": "2433b3350f9a7781740155dee331bfe2",
@@ -1441,6 +1741,16 @@ window.newsData_2025_12_01 = {
       "category": "Công nghệ",
       "published": "2025-12-01T10:59:48+07:00",
       "fetched": "2025-12-01T19:37:37.258125+07:00"
+    },
+    {
+      "id": "cbd691fb02ea9300a42c0c4d05cf1eab",
+      "title": "Ba nhà khoa học nữ nhận học bổng L’Oréal - UNESCO",
+      "link": "https://vnexpress.net/ba-nha-khoa-hoc-nu-nhan-hoc-bong-l-oreal-unesco-4988275.html",
+      "summary": "Chương trình học bổng trao cho mỗi nhà khoa học trị giá 150 triệu đồng vì đã có nghiên cứu giải quyết thách thức về biến đổi khí hậu, trí tuệ nhân tạo và an ninh năng lượng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-01T10:59:48+07:00",
+      "fetched": "2025-12-01T23:25:14.378728+07:00"
     },
     {
       "id": "e2e217cd66928ffc1fab24474b18c8df",
