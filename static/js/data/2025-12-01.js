@@ -1,7 +1,17 @@
 window.newsData_2025_12_01 = {
   "date": "2025-12-01",
-  "lastUpdated": "2025-12-01T10:48:31.341153+07:00",
+  "lastUpdated": "2025-12-01T11:47:04.088631+07:00",
   "articles": [
+    {
+      "id": "a9c94f544cc8347e0c4f77a46fe99bd4",
+      "title": "Giá gas bán lẻ trong nước tăng dịp cuối năm",
+      "link": "https://tuoitre.vn/gia-gas-ban-le-trong-nuoc-tang-dip-cuoi-nam-20251201094537487.htm",
+      "summary": "Từ ngày 1-12-2025, giá gas bán lẻ trong nước chính thức được điều chỉnh tăng sau nhiều tháng ổn định. Từ đầu năm 2025, đây là tháng thứ hai ghi nhận giá gas tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T11:46:58.042897+07:00",
+      "fetched": "2025-12-01T11:46:58.043125+07:00"
+    },
     {
       "id": "2af605ebd29d8b244bbb8eab556f0a48",
       "title": "Thần tốc xây lại nhà cho dân bị lũ giật sập",
@@ -303,6 +313,366 @@ window.newsData_2025_12_01 = {
       "fetched": "2025-12-01T08:43:05.839824+07:00"
     },
     {
+      "id": "a6d98a0a78c688bff69fae59eea97962",
+      "title": "Đội U22 Việt Nam lên đường dự SEA Games 33",
+      "link": "https://vnexpress.net/doi-u22-viet-nam-len-duong-du-sea-games-33-4988244.html",
+      "summary": "Sáng 1/12, thầy trò HLV Kim Sang-sik bay sang Thái Lan, bắt đầu hành trình chinh phục chiếc HC vàng SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T04:45:03+07:00",
+      "fetched": "2025-12-01T11:47:04.080562+07:00"
+    },
+    {
+      "id": "c512f92e804ee6e7bdeb05ee7d7f037d",
+      "title": "Quốc gia đầu tiên vượt 5 triệu sáng chế còn hiệu lực",
+      "link": "https://vnexpress.net/quoc-gia-dau-tien-vuot-5-trieu-sang-che-con-hieu-luc-4988217.html",
+      "summary": "Trung Quốc trở thành quốc gia đầu tiên trên thế giới đạt 5 triệu bằng sáng chế hoạt động, với số lượng xin cấp mới đứng đầu sáu năm liên tiếp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-01T04:31:32+07:00",
+      "fetched": "2025-12-01T11:47:02.820759+07:00"
+    },
+    {
+      "id": "2ebfc7f86c7469fae43cce35e44fd0c6",
+      "title": "Chủ tịch nước Lương Cường chủ trì lễ đón chính thức Quốc vương Brunei",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-chu-tri-le-don-chinh-thuc-quoc-vuong-brunei-185251201111445698.htm",
+      "summary": "Sáng 1.12, tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã chủ trì lễ đón Quốc vương Brunei Haji Hassanal Bolkiah thăm cấp Nhà nước tới Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:31:00+07:00",
+      "fetched": "2025-12-01T11:46:57.000596+07:00"
+    },
+    {
+      "id": "196c18869b22d57e5f6b99974a2f77cb",
+      "title": "Bộ KH&amp;CN tập huấn chuyển đổi số để giảm tải cho cấp xã",
+      "link": "https://vnexpress.net/bo-kh-cn-tap-huan-chuyen-doi-so-de-giam-tai-cho-cap-xa-4988229.html",
+      "summary": "Bộ Khoa học và Công nghệ tổ chức tập huấn chuyên môn, nghiệp vụ về chuyển đổi số, nhằm giảm tải cho cán bộ, công chức, viên chức cấp xã.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-01T04:22:35+07:00",
+      "fetched": "2025-12-01T11:47:02.820570+07:00"
+    },
+    {
+      "id": "93dededcb2d59bf3558e9fa17cb4c995",
+      "title": "Thương vong lao động nước ngoài ở Nhật cao kỷ lục, nhóm người Việt đứng đầu",
+      "link": "https://thanhnien.vn/thuong-vong-lao-dong-nuoc-ngoai-o-nhat-cao-ky-luc-nhom-nguoi-viet-dung-dau-185251201110909444.htm",
+      "summary": "Số lượng lao động nước ngoài tại Nhật Bản bị thương hoặc tử vong do tai nạn lao động lần đầu tiên vượt quá 6.000 người vào năm 2024, theo Kyodo News ngày 30.11 dẫn số liệu mới nhất từ chính phủ Nhật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:22:00+07:00",
+      "fetched": "2025-12-01T11:46:57.000773+07:00"
+    },
+    {
+      "id": "c4aaea92faf5633d2870f12acb3bb875",
+      "title": "Công bố Giải báo chí toàn quốc về công tác Đoàn năm 2026",
+      "link": "https://thanhnien.vn/cong-bo-giai-bao-chi-toan-quoc-ve-cong-tac-doan-nam-2026-185251201103058877.htm",
+      "summary": "Đây là giải thưởng thường niên do T.Ư Đoàn chủ trì, nhằm lan tỏa các giá trị tốt đẹp, mô hình sáng tạo, tấm gương tiêu biểu và những hoạt động tiêu biểu của thanh thiếu nhi trong giai đoạn 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:21:00+07:00",
+      "fetched": "2025-12-01T11:46:57.000933+07:00"
+    },
+    {
+      "id": "45165c003439bfb9ecaec79cda93c0bd",
+      "title": "Cầu Giấy đấu Vinschool The Harmony ở chung kết Giải Bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/cau-giay-dau-vinschool-the-harmony-o-chung-ket-giai-bong-ro-tre-vnexpress-4988041.html",
+      "summary": "Hai đội lần đầu dự giải lần lượt đánh bại Việt Đức và Nguyễn Tất Thành, ở bán kết nam Giải Bóng rổ Trẻ VnExpress, hôm 30/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T04:18:10+07:00",
+      "fetched": "2025-12-01T11:47:04.082409+07:00"
+    },
+    {
+      "id": "bdad2a2369028b35333489e6da80d52d",
+      "title": "Thêm chung cư Hong Kong dùng xốp dễ cháy khi cải tạo",
+      "link": "https://vnexpress.net/them-chung-cu-hong-kong-dung-xop-de-chay-khi-cai-tao-4988222.html",
+      "summary": "Dự án cải tạo mặt ngoài chung cư Yee Kok Court bị đình chỉ vì cửa sổ được che bằng xốp styrofoam dễ cháy như trong vụ hỏa hoạn khu Wang Fuk Court.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T04:17:38+07:00",
+      "fetched": "2025-12-01T11:46:59.246848+07:00"
+    },
+    {
+      "id": "4076e9b393d07f35b776e66db313e0ff",
+      "title": "Giá vàng miếng SJC tăng sát mức 156 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-mieng-sjc-tang-sat-muc-156-trieu-dong-luong-185251201104031729.htm",
+      "summary": "Giá vàng miếng SJC tiếp tục tăng thêm 500.000 đồng mỗi lượng trong sáng 1.12, nâng tổng mức tăng lên 800.000 đồng, đạt mức cao kỷ lục mới khi tiến sát 156 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:15:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001086+07:00"
+    },
+    {
+      "id": "06f07dd71f45b9c5712c475998c63ecf",
+      "title": "Không phải phở, đây là món Việt trong top 10 món ăn đường phố ngon nhất thế giới",
+      "link": "https://thanhnien.vn/khong-phai-pho-day-la-mon-viet-trong-top-10-mon-an-duong-pho-ngon-nhat-the-gioi-185251201104010338.htm",
+      "summary": "Phở nổi danh trên toàn cầu trong nhiều thập kỷ, nhưng có một món Việt gần đây thậm chí còn được ưa chuộng hơn bởi du khách quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:14:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001236+07:00"
+    },
+    {
+      "id": "2ff1ce5b6e44071e56a94611a14c71b4",
+      "title": "U.23 Việt Nam lên đường sang Thái Lan chinh phục HCV bóng đá nam SEA Games",
+      "link": "https://thanhnien.vn/u23-viet-nam-len-duong-sang-thai-lan-chinh-phuc-hcv-bong-da-nam-sea-games-185251201111003263.htm",
+      "summary": "Sáng 1.12.2025, đội U.23 Việt Nam lên đường sang Bangkok (Thái Lan), bắt đầu hành trình chinh phục tấm HCV tại SEA Games 33. Cả ban huấn luyện và các cầu thủ đều hứng khởi và tràn đầy quyết tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:13:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001415+07:00"
+    },
+    {
+      "id": "1e25160c6e22fcb67d910dc15607b26b",
+      "title": "Sinh viên thực tập bị kỷ luật: Ai cần bài học về pháp luật?",
+      "link": "https://thanhnien.vn/sinh-vien-thuc-tap-bi-ky-luat-ai-can-bai-hoc-ve-phap-luat-185251201110714838.htm",
+      "summary": "Tuần trước một công ty truyền thông gây xôn xao khi ban hành quyết định kỷ luật một sinh viên thực tập. Lý do là thực tập sinh vi phạm quy định nội bộ về giờ giấc làm việc. Quyết định được đóng dấu, có chữ ký. Câu chuyện lan nhanh trên mạng xã hội. Nhiều người bức xúc cho rằng công ty 'làm quá'. Như...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:11:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001569+07:00"
+    },
+    {
+      "id": "a805298106860019c5287dc0f00ffcf5",
+      "title": "Chủ tịch nước chủ trì lễ đón Quốc vương Brunei",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-quoc-vuong-brunei-4988227.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Brunei Darussalam Haji Hassanal Bolkiah đang thăm cấp nhà nước đến Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:10:33+07:00",
+      "fetched": "2025-12-01T11:46:53.755548+07:00"
+    },
+    {
+      "id": "a805298106860019c5287dc0f00ffcf5",
+      "title": "Chủ tịch nước chủ trì lễ đón Quốc vương Brunei",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-quoc-vuong-brunei-4988227.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Brunei Darussalam Haji Hassanal Bolkiah đang thăm cấp nhà nước đến Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T04:10:33+07:00",
+      "fetched": "2025-12-01T11:46:59.247025+07:00"
+    },
+    {
+      "id": "4b73a05917c326e7a3068e04d487d6f9",
+      "title": "Bộ Tài chính: Giảm mức thuế suất 35% sẽ bị cho là 'giảm thuế cho người giàu'",
+      "link": "https://thanhnien.vn/bo-tai-chinh-giam-muc-thue-suat-35-se-bi-cho-la-giam-thue-cho-nguoi-giau-185251201102914954.htm",
+      "summary": "Theo Bộ Tài chính, tại biểu thuế thu nhập cá nhân lũy tiến, mức thuế suất cao nhất 35% ở bậc 5 là đề xuất hợp lý. Nếu giảm 35% xuống 30% thì sẽ bị cho là 'chính sách giảm thuế cho người giàu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:07:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001724+07:00"
+    },
+    {
+      "id": "95d6131fb7598befe90b3e81afb667c4",
+      "title": "Tài xế xe tải gặp nạn vì để kính chắn gió bị mờ",
+      "link": "https://vnexpress.net/tai-xe-xe-tai-gap-nan-vi-de-kinh-chan-gio-bi-mo-4988228.html",
+      "summary": "Khi bóng của chiếc minibus phía trước hiện ra ngay trước mặt, tài xế xe tải mới giật mình phanh gấp nhưng không tránh kịp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:06:13+07:00",
+      "fetched": "2025-12-01T11:46:53.755736+07:00"
+    },
+    {
+      "id": "de29a409d0f670dd7cff25c9561693d3",
+      "title": "Cô trò tất bật may đồng phục tặng học sinh vùng lũ",
+      "link": "https://vnexpress.net/co-tro-tat-bat-may-dong-phuc-tang-hoc-sinh-vung-lu-4988069.html",
+      "summary": "Nhìn học trò Đăk Lăk trở lại trường sau lũ với quần áo mỏng manh, cô trò trường Đại học Công nghiệp TP HCM may 300 bộ đồng phục tặng các em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:02:40+07:00",
+      "fetched": "2025-12-01T11:46:53.755901+07:00"
+    },
+    {
+      "id": "c04eb1b8275b63efb835f5c102daaac3",
+      "title": "Xem nhanh 12h: Cháy lớn nhà máy bia Hà Nội | Anh trai tông em gái rồi trốn qua biên giới",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-chay-lon-nha-may-bia-ha-noi-anh-trai-tong-em-gai-roi-tron-qua-bien-gioi-185251201110232767.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 1.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:02:00+07:00",
+      "fetched": "2025-12-01T11:46:57.001878+07:00"
+    },
+    {
+      "id": "be20ccbd934fb991a1f059ef6a08a768",
+      "title": "Chuyện gì chồng cũng 'để anh hỏi mẹ đã'",
+      "link": "https://vnexpress.net/chong-nghe-loi-me-chuyen-gi-chong-cung-de-anh-hoi-me-da-4988149.html",
+      "summary": "Cảm giác bị gạt sang lề cuộc sống của chính mình khiến tôi mệt mỏi và nghi ngờ giá trị của bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:53.756061+07:00"
+    },
+    {
+      "id": "5cb48752fd319c8daf048cdf1f551323",
+      "title": "LĐBĐ Malaysia bị dọa cắt tài trợ vì quản lý kém",
+      "link": "https://vnexpress.net/ldbd-malaysia-bi-doa-cat-tai-tro-vi-quan-ly-kem-4988040.html",
+      "summary": "Bộ Thanh niên và Thể thao Malaysia (KBS) đề nghị LĐBĐ Malaysia (FAM) khẩn trương cải cách nếu muốn giữ được nguồn tài trợ từ Chính phủ và niềm tin từ doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:53.756216+07:00"
+    },
+    {
+      "id": "b76052e09f275b33a08576602bdc5341",
+      "title": "Orgalife ứng dụng bao bì 6 lớp bảo toàn giá trị dinh dưỡng",
+      "link": "https://vnexpress.net/orgalife-ung-dung-bao-bi-6-lop-bao-toan-gia-tri-dinh-duong-4988247.html",
+      "summary": "Orgalife áp dụng bao bì tiệt trùng 6 lớp công nghệ Thụy Điển giúp sản phẩm có hạn sử dụng dài mà không cần chất bảo quản, đồng thời giữ được hương vị, kết cấu và vi chất bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:53.756399+07:00"
+    },
+    {
+      "id": "be04bcbef25dacd70bed62e26355f265",
+      "title": "Ăn nhiều rau răm có giảm sinh lý nam?",
+      "link": "https://vnexpress.net/an-nhieu-rau-ram-co-giam-sinh-ly-nam-4988202.html",
+      "summary": "Tôi thích mùi cay, nồng của rau răm, song ăn nhiều có bị giảm sinh lý không, nên lưu ý gì? (Ngọc Thiện, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:53.756559+07:00"
+    },
+    {
+      "id": "680d2a9420d7f47b692aba942ca1a137",
+      "title": "Vì sao ăn hạt dẻ cười tốt cho mắt?",
+      "link": "https://vnexpress.net/vi-sao-an-hat-de-cuoi-tot-cho-mat-4988176.html",
+      "summary": "Hạt dẻ cười là món ăn vặt ngon miệng, bổ dưỡng, có tác dụng bảo vệ mắt nhờ hàm lượng chất chống oxy hóa dồi dào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:53.756711+07:00"
+    },
+    {
+      "id": "aa7a0085e265c65b6421109fe2296a1f",
+      "title": "Thủ tướng Israel xin ân xá",
+      "link": "https://thanhnien.vn/thu-tuong-israel-xin-an-xa-185251201100834092.htm",
+      "summary": "Thủ tướng Israel Benjamin Netanyahu đã yêu cầu tổng thống nước này ân xá trong phiên tòa xét xử tham nhũng kéo dài của ông, với lý lẽ rằng các thủ tục hình sự đang cản trở khả năng điều hành đất nước của ông và một lệnh ân xá sẽ tốt cho Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002025+07:00"
+    },
+    {
+      "id": "5cb48752fd319c8daf048cdf1f551323",
+      "title": "LĐBĐ Malaysia bị dọa cắt tài trợ vì quản lý kém",
+      "link": "https://vnexpress.net/ldbd-malaysia-bi-doa-cat-tai-tro-vi-quan-ly-kem-4988040.html",
+      "summary": "Bộ Thanh niên và Thể thao Malaysia (KBS) đề nghị LĐBĐ Malaysia (FAM) khẩn trương cải cách nếu muốn giữ được nguồn tài trợ từ Chính phủ và niềm tin từ doanh nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T04:00:00+07:00",
+      "fetched": "2025-12-01T11:47:04.081085+07:00"
+    },
+    {
+      "id": "2074d94a6fe83dcd93332d8aeeab5f00",
+      "title": "Quan hệ thân mật với phụ nữ tới mức nào sẽ bị coi là ngoại tình?",
+      "link": "https://vnexpress.net/quan-he-than-mat-voi-phu-nu-toi-muc-nao-se-bi-coi-la-ngoai-tinh-4988204.html",
+      "summary": "Chồng tôi bị bắt gặp đang đi quán cà phê, khoác vai một phụ nữ nhưng bảo đây là quan hệ xã giao, ngoại tình là phải quan hệ tình dục. Vậy thế nào là ngoại tình, luật quy định ra sao?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:59:13+07:00",
+      "fetched": "2025-12-01T11:46:53.756915+07:00"
+    },
+    {
+      "id": "919a0b0e05152f7ff92186487a334f28",
+      "title": "Vai trò của các cổng kết nối trên Smart TV",
+      "link": "https://thanhnien.vn/vai-tro-cua-cac-cong-ket-noi-tren-smart-tv-185251130203419664.htm",
+      "summary": "Khi mua một chiếc Smart TV, nhiều người thường nghĩ rằng nó đã được tích hợp đầy đủ các tính năng cần thiết, nhưng không phải vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:59:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002174+07:00"
+    },
+    {
+      "id": "591bd5ab44719fd146c25e2f1f96ddbd",
+      "title": "Nhà máy bia Hà Nội và những doanh nghiệp nào sắp phải di dời khỏi nội thành?",
+      "link": "https://thanhnien.vn/nha-may-bia-ha-noi-va-nhung-doanh-nghiep-nao-sap-phai-di-doi-khoi-noi-thanh-18525120110445234.htm",
+      "summary": "Trụ sở Nhà máy bia Hà Nội HABECO; các nhà máy thuốc lá Thăng Long, bia Việt Hà, bóng đèn - phích nước Rạng Đông, nhà máy xe lửa Gia Lâm… cùng nhiều doanh nghiệp lớn khác đang nằm trong danh sách cơ sở phải di dời khỏi nội thành Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:57:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002338+07:00"
+    },
+    {
+      "id": "f7dea72ec600c5f37f19e4f0447321b5",
+      "title": "Lửa ngùn ngụt bên trong nhà máy bia Hà Nội",
+      "link": "https://vnexpress.net/lua-ngun-ngut-ben-trong-nha-may-bia-ha-noi-4988234.html",
+      "summary": "Sáng 1/12, đám cháy bùng lên, lan nhanh trong khu điều hành nhà máy Bia Hà Nội trên phố Hoàng Hoa Thám, tạo cột lửa ngùn ngụt kèm nhiều tiếng nổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:53:13+07:00",
+      "fetched": "2025-12-01T11:46:53.757098+07:00"
+    },
+    {
+      "id": "ab445dbbc61a26706527e1f0e1d22ff7",
+      "title": "Đại biểu Quốc hội cảnh báo rủi ro phóng xạ từ khai thác đất hiếm",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-canh-bao-rui-ro-phong-xa-tu-khai-thac-dat-hiem-4988156.html",
+      "summary": "Một số đại biểu Quốc hội đề nghị siết tiêu chuẩn công nghệ và giám sát môi trường, cảnh báo khai thác đất hiếm có thể phát sinh phóng xạ tự nhiên và chất thải độc hại nếu không kiểm soát chặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:53:06+07:00",
+      "fetched": "2025-12-01T11:46:53.757254+07:00"
+    },
+    {
+      "id": "490e4bd1a8865a6720ef2814646c6c9c",
+      "title": "Xe MPV 7 chỗ VinFast Limo Green sẽ được đổi tên",
+      "link": "https://thanhnien.vn/xe-mpv-7-cho-vinfast-limo-green-se-duoc-doi-ten-185251130161129638.htm",
+      "summary": "Gia nhập thị trường Indonesia - vốn được xem là \"thiên đường\" của dòng xe gia đình - MPV, VinFast Limo Green nhiều khả năng sẽ có tên gọi mới khi VinFast đang tạo cơ hội cho khách hàng xứ vạn đảo đặt tên cho mẫu xe này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:53:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002492+07:00"
+    },
+    {
+      "id": "e1cd0bd09df4418df19ced7aae7d6c2a",
+      "title": "Doanh số xuất khẩu vũ khí toàn cầu đạt mức kỷ lục",
+      "link": "https://vnexpress.net/doanh-so-xuat-khau-vu-khi-toan-cau-dat-muc-ky-luc-4988109.html",
+      "summary": "Viện nghiên cứu Thụy Điển nói doanh số của 100 công ty quốc phòng hàng đầu thế giới đạt kỷ lục 679 tỷ USD, gần một nửa đến từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:52:53+07:00",
+      "fetched": "2025-12-01T11:46:53.757447+07:00"
+    },
+    {
+      "id": "e1cd0bd09df4418df19ced7aae7d6c2a",
+      "title": "Doanh số xuất khẩu vũ khí toàn cầu đạt mức kỷ lục",
+      "link": "https://vnexpress.net/doanh-so-xuat-khau-vu-khi-toan-cau-dat-muc-ky-luc-4988109.html",
+      "summary": "Viện nghiên cứu Thụy Điển nói doanh số của 100 công ty quốc phòng hàng đầu thế giới đạt kỷ lục 679 tỷ USD, gần một nửa đến từ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T03:52:53+07:00",
+      "fetched": "2025-12-01T11:46:59.247186+07:00"
+    },
+    {
+      "id": "49dd6f224fb0208442a5f8de13f80140",
+      "title": "Cà Mau đề xuất giữ hỗ trợ cho 2.085 nhân viên y tế cơ sở",
+      "link": "https://thanhnien.vn/ca-mau-de-xuat-giu-ho-tro-cho-2085-nhan-vien-y-te-co-so-185251201082646416.htm",
+      "summary": "UBND tỉnh Cà Mau trình HĐND tỉnh giữ nguyên mức hỗ trợ hằng tháng cho 2.085 nhân viên y tế ấp, khóm sau hợp nhất tỉnh, với tổng kinh phí dự kiến hơn 18 tỉ đồng/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:50:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002641+07:00"
+    },
+    {
+      "id": "2cd5c114235ade429d8685bedbfb0270",
+      "title": "Cháy chung cư ở Hồng Kông: Số người thiệt mạng tiếp tục tăng cao",
+      "link": "https://thanhnien.vn/chay-chung-cu-o-hong-kong-so-nguoi-thiet-mang-tiep-tuc-tang-cao-185251201101643886.htm",
+      "summary": "Số người chết trong vụ cháy khu nhà ở chết người ở Hồng Kông đã tăng vào hôm 30.11 lên ít nhất 146.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:45:00+07:00",
+      "fetched": "2025-12-01T11:46:57.002786+07:00"
+    },
+    {
+      "id": "37c65e178c9b97d5aad80163c67b0e04",
+      "title": "Con gái Lý Tiểu Long: 'Cha chưa bao giờ rời xa'",
+      "link": "https://vnexpress.net/con-gai-ly-tieu-long-cha-chua-bao-gio-roi-xa-4988127.html",
+      "summary": "Lý Hương Hưng, con gái huyền thoại võ thuật Lý Tiểu Long, cho biết triết lý sống của cha giúp bà vượt qua đau khổ của cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:44:53+07:00",
+      "fetched": "2025-12-01T11:46:53.757638+07:00"
+    },
+    {
       "id": "0d623a05abad5b9a836565a626fcac04",
       "title": "Sắp tới Giáng sinh: Những góc sống ảo ở TP.HCM đang hút check-in",
       "link": "https://thanhnien.vn/sap-toi-giang-sinh-nhung-goc-song-ao-o-tphcm-dang-hut-check-in-185251111212440866.htm",
@@ -311,6 +681,36 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T03:40:00+07:00",
       "fetched": "2025-12-01T10:48:22.300667+07:00"
+    },
+    {
+      "id": "a54f1b5ac9d2d28d16f36f968c8f6144",
+      "title": "McLaren tự ngáng chân, Verstappen thêm cơ hội vô địch",
+      "link": "https://vnexpress.net/mclaren-tu-ngang-chan-verstappen-them-co-hoi-vo-dich-4988221.html",
+      "summary": "ĐKVĐ F1 Max Verstappen thêm cơ hội bảo vệ ngôi vị khi tận dụng sai lầm của đội đua McLaren để về nhất tại Grand Prix Qatar ngày 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:37:15+07:00",
+      "fetched": "2025-12-01T11:46:53.757789+07:00"
+    },
+    {
+      "id": "a54f1b5ac9d2d28d16f36f968c8f6144",
+      "title": "McLaren tự ngáng chân, Verstappen thêm cơ hội vô địch",
+      "link": "https://vnexpress.net/mclaren-tu-ngang-chan-verstappen-them-co-hoi-vo-dich-4988221.html",
+      "summary": "ĐKVĐ F1 Max Verstappen thêm cơ hội bảo vệ ngôi vị khi tận dụng sai lầm của đội đua McLaren để về nhất tại Grand Prix Qatar ngày 30/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T03:37:15+07:00",
+      "fetched": "2025-12-01T11:47:04.080752+07:00"
+    },
+    {
+      "id": "b92a2d7add1a303a27040a7cb379f3b5",
+      "title": "Từ nào trong tiếng Việt đọc xuôi là đáp án, ngược lại là câu hỏi?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-nao-trong-tieng-viet-doc-xuoi-la-dap-an-nguoc-lai-la-cau-hoi-4988200.html",
+      "summary": "Câu đố này sẽ đưa bạn đi từ nghệ thuật nói lái, chơi chữ đến tư duy logic để tìm ra từ tiếng Việt bí ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:36:33+07:00",
+      "fetched": "2025-12-01T11:46:53.757944+07:00"
     },
     {
       "id": "79e74a70bd8e04a33b21a9876777f420",
