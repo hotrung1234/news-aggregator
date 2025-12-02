@@ -1,7 +1,157 @@
 window.newsData_2025_12_02 = {
   "date": "2025-12-02",
-  "lastUpdated": "2025-12-02T11:28:42.283335+07:00",
+  "lastUpdated": "2025-12-02T13:29:05.642443+07:00",
   "articles": [
+    {
+      "id": "4e9d348fca1ae1fb893ab3eb274868a8",
+      "title": "Nhà Trắng công bố kết quả chụp MRI của ông Trump giữa những thông tin lo ngại sức khỏe",
+      "link": "https://tuoitre.vn/nha-trang-cong-bo-ket-qua-chup-mri-cua-ong-trump-giua-nhung-thong-tin-lo-ngai-suc-khoe-20251202112627269.htm",
+      "summary": "Nhà Trắng vừa công bố kết quả chụp MRI hồi tháng 10 của Tổng thống Mỹ Donald Trump, khẳng định “hoàn toàn bình thường”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958782+07:00",
+      "fetched": "2025-12-02T13:28:57.958900+07:00"
+    },
+    {
+      "id": "8ca8c6b6f39d0c473a561c81f94e4eab",
+      "title": "Nghĩa đồng bào - Kỳ 7: Từ quê đến phố, người người thương miền bão lũ",
+      "link": "https://tuoitre.vn/nghia-dong-bao-ky-7-tu-que-den-pho-nguoi-nguoi-thuong-mien-bao-lu-20251202003240534.htm",
+      "summary": "Những ngày lũ lụt khốc liệt, từng chuyến hàng cứu trợ chở đầy nghĩa tình đồng bào liên tục nối tiếp nhau hướng về miền Trung ruột thịt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958655+07:00",
+      "fetched": "2025-12-02T13:28:57.958771+07:00"
+    },
+    {
+      "id": "c43394f8240a3db03dd10b4d746ceedc",
+      "title": "Movie đầu tiên của Thám tử lừng danh Conan lần đầu ra rạp tại Việt Nam",
+      "link": "https://tuoitre.vn/movie-dau-tien-cua-tham-tu-lung-danh-conan-lan-dau-ra-rap-tai-viet-nam-20251202112930323.htm",
+      "summary": "Theo thông tin từ CGV Cinemas Vietnam, Thám tử lừng danh Conan: Quả bom chọc trời - movie đầu tiên của loạt phim Conan, dự kiến lần đầu tiên ra rạp tại Việt Nam từ ngày 23-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958522+07:00",
+      "fetched": "2025-12-02T13:28:57.958643+07:00"
+    },
+    {
+      "id": "423e004e369477a1290e6a1dd2fb7771",
+      "title": "Thực hư đoạn clip ghi lại cảnh lính cứu hỏa Hong Kong nỗ lực dập tắt vụ cháy chung cư",
+      "link": "https://tuoitre.vn/thuc-hu-doan-clip-ghi-lai-canh-linh-cuu-hoa-hong-kong-no-luc-dap-tat-vu-chay-chung-cu-20251202112858171.htm",
+      "summary": "Đoạn video được cho là ghi lại cảnh lính cứu hỏa nỗ lực tiếp cận hiện trường đám cháy ở chung cư Hong Kong đã thu hút nhiều sự chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958394+07:00",
+      "fetched": "2025-12-02T13:28:57.958511+07:00"
+    },
+    {
+      "id": "f9fe1156afb4b2439ebeeb5b2e9d2b03",
+      "title": "Làm rõ nghiên cứu cho thấy thuốc lá điện tử nhiễm bẩn từ phân",
+      "link": "https://tuoitre.vn/lam-ro-nghien-cuu-cho-thay-thuoc-la-dien-tu-nhiem-ban-tu-phan-20251202113528979.htm",
+      "summary": "Tin đồn nói rằng các nhà khoa học phát hiện nhiễm bẩn từ phân trong sản phẩm thuốc lá điện tử qua một nghiên cứu vừa công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958259+07:00",
+      "fetched": "2025-12-02T13:28:57.958382+07:00"
+    },
+    {
+      "id": "41a225f953b84ccf178d8cdf0953decb",
+      "title": "Hong Kong lập ủy ban độc lập điều tra thảm họa cháy làm 151 người thiệt mạng",
+      "link": "https://tuoitre.vn/hong-kong-lap-uy-ban-doc-lap-dieu-tra-tham-hoa-chay-lam-151-nguoi-thiet-mang-20251202115001951.htm",
+      "summary": "Hong Kong lập ủy ban độc lập điều tra vụ cháy Wang Fuk Court khiến 151 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.958128+07:00",
+      "fetched": "2025-12-02T13:28:57.958248+07:00"
+    },
+    {
+      "id": "dc2a92eb4e5180aefb1893285ae505f0",
+      "title": "Quẹt là bay, sợ đì lay",
+      "link": "https://tuoitre.vn/quet-la-bay-so-di-lay-20251202111615419.htm",
+      "summary": "- Ông à, giờ đi máy bay trước bao nhiêu thủ tục còn nay chỉ cần có cái điện thoại cài app là bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957978+07:00",
+      "fetched": "2025-12-02T13:28:57.958116+07:00"
+    },
+    {
+      "id": "d1fa173d9175b0eda18d1c364d4d0120",
+      "title": "TP.HCM khởi tố vụ án xây hàng chục căn nhà trái phép bán qua vi bằng tại Bình Dương cũ",
+      "link": "https://tuoitre.vn/tp-hcm-khoi-to-vu-an-xay-hang-chuc-can-nha-trai-phep-ban-qua-vi-bang-20251202115108705.htm",
+      "summary": "Mặc dù đất đang tranh chấp, không phải là đất ở nhưng một người đàn ông tại phường Tân Khánh, TP.HCM vẫn xây 48 căn nhà, công trình trái phép rồi bán cho người dân thông qua vi bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957842+07:00",
+      "fetched": "2025-12-02T13:28:57.957966+07:00"
+    },
+    {
+      "id": "f33dcddf46be3d9bfa6b607fc765f44b",
+      "title": "Hàn Quốc: Tin tặc xâm nhập hơn 120.000 camera gia đình, bán video lên trang web khiêu dâm",
+      "link": "https://tuoitre.vn/han-quoc-tin-tac-xam-nhap-hon-120-000-camera-gia-dinh-ban-video-len-trang-web-khieu-dam-20251202115117394.htm",
+      "summary": "Các video quay lén đã được nhóm nghi phạm bán trên một trang web khiêu dâm Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957714+07:00",
+      "fetched": "2025-12-02T13:28:57.957830+07:00"
+    },
+    {
+      "id": "b3cbb2c8a8ed711e1fc02c1f57ee909f",
+      "title": "Bà Melania Trump trang trí Nhà Trắng đón Giáng sinh",
+      "link": "https://tuoitre.vn/ba-melania-trump-trang-tri-nha-trang-don-giang-sinh-20251202120246361.htm",
+      "summary": "Đệ nhất phu nhân Mỹ Melania Trump khoe không gian trang trí Giáng sinh tại Nhà Trắng với chủ đề \"Home Is Where the Heart Is\" (Nhà là nơi có trái tim).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957587+07:00",
+      "fetched": "2025-12-02T13:28:57.957703+07:00"
+    },
+    {
+      "id": "0a8d6c8ab75445e9a3e6aa7907ba0ac5",
+      "title": "10 phim Hàn Quốc rating cao nhất 2025, Ngự trù của bạo chúa bất ngờ dẫn đầu",
+      "link": "https://tuoitre.vn/10-phim-han-quoc-rating-cao-nhat-2025-ngu-tru-cua-bao-chua-bat-ngo-dan-dau-20251202120754073.htm",
+      "summary": "Ngự trù của bạo chúa, Buried hearts, Love scout... lần lượt là những phim Hàn Quốc có rating cao nhất năm 2025 tính đến đầu tháng 12 năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957457+07:00",
+      "fetched": "2025-12-02T13:28:57.957575+07:00"
+    },
+    {
+      "id": "6e3dd527824e363844209239e20ed880",
+      "title": "Người dân phản ánh mùi hèm tại Khu công nghiệp Hòa Khánh, do đâu?",
+      "link": "https://tuoitre.vn/nguoi-dan-phan-anh-mui-hem-tai-khu-cong-nghiep-hoa-khanh-do-dau-20251202114932608.htm",
+      "summary": "Ngay sau phản ánh của người dân về mùi hèm từ Khu công nghiệp Hòa Khánh (Đà Nẵng), đơn vị liên quan đã vào cuộc kiểm tra và truy ra doanh nghiệp phát sinh mùi hôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957323+07:00",
+      "fetched": "2025-12-02T13:28:57.957446+07:00"
+    },
+    {
+      "id": "ce4cb69457c54350093d33bc381a0b7a",
+      "title": "Cựu tiếp viên hàng không và người tình bị truy tố vì môi giới mại dâm",
+      "link": "https://tuoitre.vn/cuu-tiep-vien-hang-khong-va-nguoi-tinh-bi-truy-to-vi-moi-gioi-mai-dam-20251202120407076.htm",
+      "summary": "Cựu tiếp viên hàng không và bạn trai người Trung Quốc nhận sang nhượng lại nhà hàng khách sạn ở phường An Đông, TP.HCM để kinh doanh. Để thu hút khách, cả hai chủ trương cho tiếp viên nữ ra ngoài bán dâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957185+07:00",
+      "fetched": "2025-12-02T13:28:57.957311+07:00"
+    },
+    {
+      "id": "27c096c025a73c991d078531a06479e2",
+      "title": "Nữ sinh lớp 7 bị bạn học đánh hội đồng ở Gia Lai",
+      "link": "https://tuoitre.vn/nu-sinh-lop-7-bi-ban-hoc-danh-hoi-dong-o-gia-lai-20251202114537687.htm",
+      "summary": "Sở Giáo dục và Đào tạo tỉnh Gia Lai đề nghị UBND phường Thống Nhất xác minh, làm rõ vụ học sinh lớp 7 bị bạn học đánh hội đồng tại Trường THCS Tôn Đức Thắng ở xã này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.957032+07:00",
+      "fetched": "2025-12-02T13:28:57.957171+07:00"
+    },
+    {
+      "id": "ec874e7db0356155bd19990ec1f9e0dd",
+      "title": "Làm việc với phụ nữ chia sẻ thông tin sai sự thật về việc hỗ trợ đồng bào bị ảnh hưởng thiên tai",
+      "link": "https://tuoitre.vn/lam-viec-voi-phu-nu-chia-se-thong-tin-sai-su-that-ve-viec-ho-tro-dong-bao-bi-anh-huong-thien-tai-20251202101129189.htm",
+      "summary": "Một phụ nữ ở Vĩnh Long đã sử dụng tài khoản Facebook cá nhân đăng tải, cung cấp và chia sẻ thông tin sai sự thật ảnh hưởng đến uy tín của Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam liên quan công tác hỗ trợ đồng bào bị ảnh hưởng thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T13:28:57.956795+07:00",
+      "fetched": "2025-12-02T13:28:57.957015+07:00"
+    },
     {
       "id": "ed5e18a95b939ba53ebcc0484417f418",
       "title": "Đảng Cộng hòa phản ứng gay gắt chỉ thị của ông Hegseth",
@@ -451,6 +601,376 @@ window.newsData_2025_12_02 = {
       "category": "Tổng hợp",
       "published": "2025-12-02T08:20:39.209338+07:00",
       "fetched": "2025-12-02T08:20:39.209553+07:00"
+    },
+    {
+      "id": "a6774c60bdf173dc9037d5799ea22c9b",
+      "title": "ChatGPT tròn 3 tuổi với những thành công đáng nể",
+      "link": "https://thanhnien.vn/chatgpt-tron-3-tuoi-voi-nhung-thanh-cong-dang-ne-185251202101444377.htm",
+      "summary": "OpenAI trên đường trở thành công ty ngàn tỉ USD nhờ con số 800 triệu người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:28:00+07:00",
+      "fetched": "2025-12-02T13:28:56.839704+07:00"
+    },
+    {
+      "id": "2ddb9a309fb4f8159ac4596264e628e2",
+      "title": "Ông Kim nói điều cực bất ngờ về U.23 Lào, hé lộ chiến thuật của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/ong-kim-noi-dieu-cuc-bat-ngo-ve-u23-lao-he-lo-chien-thuat-cua-u23-viet-nam-185251202132342196.htm",
+      "summary": "HLV Kim Sang-sik đánh giá cao sự tiến bộ của U.23 Lào, nhưng tự tin U.23 Việt Nam sẽ có khởi đầu như ý trong hành trình chinh phục tấm HCV SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:26:00+07:00",
+      "fetched": "2025-12-02T13:28:56.839873+07:00"
+    },
+    {
+      "id": "baae6edf6d112fa3b5c8de6fd33fb6c1",
+      "title": "Ám ảnh khung cảnh trong khu chung cư cháy ở Hồng Kông",
+      "link": "https://thanhnien.vn/am-anh-khung-canh-trong-khu-chung-cu-chay-o-hong-kong-185251202125502496.htm",
+      "summary": "Vụ cháy chung cư ở Hồng Kông đã làm 151 người chết và 30 người mất tích, khoảng 2.500 người bị mất chỗ ở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:26:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840053+07:00"
+    },
+    {
+      "id": "9b5be2f8cd5949ea96ca66576604c123",
+      "title": "Samsung mở ra kỷ nguyên mới của điện thoại gập với Galaxy Z TriFold",
+      "link": "https://thanhnien.vn/samsung-mo-ra-ky-nguyen-moi-cua-dien-thoai-gap-voi-galaxy-z-trifold-185251202120039391.htm",
+      "summary": "Sau khi Galaxy Z Fold7 ra mắt vào mùa hè năm ngoái, đã có nhiều tin đồn về sự xuất hiện của smartphone màn hình gập ba Galaxy Z TriFold.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:24:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840213+07:00"
+    },
+    {
+      "id": "55e367f12f098a01221d22bbf50e5aee",
+      "title": "Khen thưởng 8 gia đình bàn giao mặt bằng xây dựng đường Lữ Gia ở Đà Lạt",
+      "link": "https://thanhnien.vn/khen-thuong-8-gia-dinh-ban-giao-mat-bang-xay-dung-duong-lu-gia-o-da-lat-185251202115854031.htm",
+      "summary": "Phường Lâm Viên - Đà Lạt  (Lâm Đồng) tổ chức khen thưởng đột xuất 8 gia đình bàn giao mặt bằng để xây dựng đường Lữ Gia xuống thượng lưu Hồ Xuân Hương. Dự án này bị ách tắc suốt 4 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:15:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840377+07:00"
+    },
+    {
+      "id": "ca0881285a771e79e23adab991355ed0",
+      "title": "Ra mắt bệnh viện đa khoa liên kết đột phá đầu tiên tại Việt Nam",
+      "link": "https://thanhnien.vn/ra-mat-benh-vien-da-khoa-lien-ket-dot-pha-dau-tien-tai-viet-nam-185251202121224947.htm",
+      "summary": "Ngày 2.12, Bệnh viện Từ Dũ cơ sở 2 chính thức ra mắt tại Cần Giờ. Đây được xem là mô hình bệnh viện đa khoa liên kết đột phá đầu tiên tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:06:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840528+07:00"
+    },
+    {
+      "id": "842ef85835ec4bc26847058b0055c74b",
+      "title": "Bị lừa trực tuyến, người phụ nữ ủ mưu dụ thủ phạm 'sập bẫy'",
+      "link": "https://vnexpress.net/bi-lua-truc-tuyen-nguoi-phu-nu-u-muu-du-thu-pham-sap-bay-4988718.html",
+      "summary": "Nhận ra bị lừa hết tiền tiết kiệm trong nhóm chát đầu tư cổ phiếu, bà Ngô dùng giấy tạo thành bọc tiền 900.000 nhân dân tệ để dẫn dụ kẻ lừa đảo lộ diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:01:00+07:00",
+      "fetched": "2025-12-02T13:28:53.424671+07:00"
+    },
+    {
+      "id": "81e88c1673b7659551985ec3bcec759b",
+      "title": "'Mở quán doanh thu 500 triệu vẫn không lãi, sao không đi làm thuê'",
+      "link": "https://vnexpress.net/bo-thue-khoan-nang-nguong-thu-thue-bai-toan-thu-thue-doanh-thu-500-trieu-van-khong-lai-ban-tap-hoa-4988715.html",
+      "summary": "Ngày xưa tôi có một người bạn mở quán net tại nhà trong hẻm. Khách chủ yếu là học sinh, nên thu nhập chỉ đủ sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.424851+07:00"
+    },
+    {
+      "id": "ebab55fab07580e8223b99f587f61a41",
+      "title": "Tôi mất phương hướng từ khi nghe anh kể chuyện xưa với một cô gái",
+      "link": "https://vnexpress.net/tu-khi-nghe-anh-ke-chuyen-xua-voi-mot-co-gai-toi-mat-phuong-huong-4987992.html",
+      "summary": "Anh vẫn hẹn gặp nhưng tôi đều từ chối, chúng tôi dần không còn nói chuyện nhiều như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.425034+07:00"
+    },
+    {
+      "id": "055c571586d09818b7a3dc24964fb36f",
+      "title": "Vietjet mở bán vé bay 0 đồng đến Côn Đảo",
+      "link": "https://vnexpress.net/vietjet-mo-ban-ve-bay-0-dong-den-con-dao-4988745.html",
+      "summary": "Vietjet mở bán hàng nghìn vé 0 đồng cho khách hàng nhân dịp khôi phục các đường bay kết nối Hà Nội, TP HCM với Côn Đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.425205+07:00"
+    },
+    {
+      "id": "4271da34c9c9914312499c7d0876f48a",
+      "title": "Hút thuốc lá âm thầm gây ung thư thận",
+      "link": "https://vnexpress.net/hut-thuoc-la-am-tham-gay-ung-thu-than-4988687.html",
+      "summary": "Những độc tố trong thuốc lá tạo ra stress oxy hóa và viêm nhiễm ở thận, thúc đẩy tế bào ung thư phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.425364+07:00"
+    },
+    {
+      "id": "fb9666f16d862eadd1ed607a5a3e1373",
+      "title": "EVN triển khai chương trình 'Tháng tri ân khách hàng'",
+      "link": "https://vnexpress.net/evn-trien-khai-chuong-trinh-thang-tri-an-khach-hang-4988685.html",
+      "summary": "Tập đoàn Điện lực Việt Nam sẽ ưu tiên kiểm tra, sửa chữa hệ thống điện, hướng dẫn sử dụng an toàn, ổn định cho người dân tại các vùng bị ảnh hưởng bão lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.425518+07:00"
+    },
+    {
+      "id": "5d7f9ae97b2198b4cb5a6cb4f7ad2d46",
+      "title": "5 món màu vàng bổ mắt nên ăn thường xuyên",
+      "link": "https://vnexpress.net/5-mon-mau-vang-bo-mat-nen-an-thuong-xuyen-4988681.html",
+      "summary": "Chế độ ăn uống cân bằng với lòng đỏ trứng, hạt óc chó, xoài cung cấp vitamin A, C cùng các chất chống oxy hóa giúp bảo vệ mắt, phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:53.425676+07:00"
+    },
+    {
+      "id": "0aa31b88527961baf59b09f0c5574442",
+      "title": "Vay online nhanh chóng - tiện lợi với App MBBank",
+      "link": "https://thanhnien.vn/vay-online-nhanh-chong-tien-loi-voi-app-mbbank-185251202115406116.htm",
+      "summary": "Trong bối cảnh nhu cầu tiếp cận nguồn vốn nhanh và linh hoạt ngày càng tăng, hình thức vay tín chấp online được nhiều khách hàng lựa chọn nhờ sự tiện lợi, không yêu cầu tài sản đảm bảo, quy trình phê duyệt minh bạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T06:00:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840677+07:00"
+    },
+    {
+      "id": "a7d0c8eb48151bf752f90c1229008b3e",
+      "title": "Cháy nhà ở Vĩnh Lộc khiến 1 bé gái tử vong, 3 người bị thương lúc rạng sáng",
+      "link": "https://thanhnien.vn/chay-nha-o-vinh-loc-khien-1-be-gai-tu-vong-3-nguoi-bi-thuong-luc-rang-sang-185251202122657318.htm",
+      "summary": "Một vụ cháy nhà vừa xảy ra trên địa bàn xã Vĩnh Lộc (TP.HCM) khiến 1 bé gái tử vong, 3 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:59:00+07:00",
+      "fetched": "2025-12-02T13:28:56.840826+07:00"
+    },
+    {
+      "id": "f558d5ef61608e1a5fd2f6f47135b90b",
+      "title": "Giáo sư giới thiệu robot di chuyển như côn trùng, mọc rễ như cây",
+      "link": "https://vnexpress.net/giao-su-gioi-thieu-robot-di-chuyen-nhu-con-trung-moc-re-nhu-cay-4988741.html",
+      "summary": "Những robot nhỏ cỡ ngón tay, có thể \"mọc dài\" giống tế bào thực vật, len vào các đống đổ nát... gây ấn tượng tại Tuần lễ khoa học VinFuture 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:56:09+07:00",
+      "fetched": "2025-12-02T13:28:53.425836+07:00"
+    },
+    {
+      "id": "f558d5ef61608e1a5fd2f6f47135b90b",
+      "title": "Giáo sư giới thiệu robot di chuyển như côn trùng, mọc rễ như cây",
+      "link": "https://vnexpress.net/giao-su-gioi-thieu-robot-di-chuyen-nhu-con-trung-moc-re-nhu-cay-4988741.html",
+      "summary": "Những robot nhỏ cỡ ngón tay, có thể \"mọc dài\" giống tế bào thực vật, len vào các đống đổ nát... gây ấn tượng tại Tuần lễ khoa học VinFuture 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-02T05:56:09+07:00",
+      "fetched": "2025-12-02T13:29:04.584560+07:00"
+    },
+    {
+      "id": "d7201aa6020a2ee5c5ca4519f0aaf1e0",
+      "title": "HLV Kim Sang-sik họp báo trước trận ra quân SEA Games 33",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-truoc-tran-ra-quan-sea-games-33-4988773.html",
+      "summary": "HLV đội tuyển U22 Việt Nam Kim Sang-sik đưa ra đánh giá trước cuộc đấu Lào ở lượt ra quân bảng B SEA Games 33, vào chiều nay 2/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:51:10+07:00",
+      "fetched": "2025-12-02T13:28:53.426002+07:00"
+    },
+    {
+      "id": "d7201aa6020a2ee5c5ca4519f0aaf1e0",
+      "title": "HLV Kim Sang-sik họp báo trước trận ra quân SEA Games 33",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-truoc-tran-ra-quan-sea-games-33-4988773.html",
+      "summary": "HLV đội tuyển U22 Việt Nam Kim Sang-sik đưa ra đánh giá trước cuộc đấu Lào ở lượt ra quân bảng B SEA Games 33, vào chiều nay 2/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T05:51:10+07:00",
+      "fetched": "2025-12-02T13:29:05.633319+07:00"
+    },
+    {
+      "id": "3568114ab486448b434cc70e381e2da0",
+      "title": "Trung tâm báo chí SEA Games 33 tại Thái Lan có gì, tại sao an ninh siết chặt?",
+      "link": "https://thanhnien.vn/trung-tam-bao-chi-sea-games-33-tai-thai-lan-co-gi-tai-sao-an-ninh-siet-chat-185251202124329945.htm",
+      "summary": "Để có thể vào được Trung tâm báo chí SEA Games 33 (MPC), các phóng viên, nhà báo trải qua quá trình kiểm tra an ninh nghiêm ngặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:51:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841011+07:00"
+    },
+    {
+      "id": "e84801be6eb4661202265f4c0c7885e3",
+      "title": "Bùi Anh Tuấn cùng 2 chị đẹp đồng lòng hướng về miền Trung",
+      "link": "https://thanhnien.vn/bui-anh-tuan-cung-2-chi-dep-dong-long-huong-ve-mien-trung-185251202114719921.htm",
+      "summary": "Trong đêm nhạc Thương về miền Trung, các ca sĩ góp mặt như Quang Dũng, Hà Nhi, Trung Quân Idol, Bùi Anh Tuấn, Lê Hiếu,... đều gửi lời cảm ơn chân thành đến khán giả đã đồng hành với Báo Thanh Niên và phòng trà Bến Thành để tiếp sức cho đồng bào miền Trung vượt qua thiên tai, bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:48:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841177+07:00"
+    },
+    {
+      "id": "1a90033a25600c9386e4158169fd4f33",
+      "title": "Valdano: 'Real đang ở đâu nếu không có Mbappe?'",
+      "link": "https://vnexpress.net/valdano-real-dang-o-dau-neu-khong-co-mbappe-4988694.html",
+      "summary": "Cựu HLV Jorge Valdano ca ngợi việc Kylian Mbappe đóng góp hơn nửa số bàn cho Real, nhưng cảnh báo đội bóng về sự phụ thuộc vào tiền đạo này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:46:04+07:00",
+      "fetched": "2025-12-02T13:28:53.426174+07:00"
+    },
+    {
+      "id": "1a90033a25600c9386e4158169fd4f33",
+      "title": "Valdano: 'Real đang ở đâu nếu không có Mbappe?'",
+      "link": "https://vnexpress.net/valdano-real-dang-o-dau-neu-khong-co-mbappe-4988694.html",
+      "summary": "Cựu HLV Jorge Valdano ca ngợi việc Kylian Mbappe đóng góp hơn nửa số bàn cho Real, nhưng cảnh báo đội bóng về sự phụ thuộc vào tiền đạo này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T05:46:04+07:00",
+      "fetched": "2025-12-02T13:29:05.635449+07:00"
+    },
+    {
+      "id": "fed02ccafd1a99771fa73dfc9765ea7d",
+      "title": "Trấn Thành gây chú ý khi nhắc về người cũ",
+      "link": "https://thanhnien.vn/tran-thanh-gay-chu-y-khi-nhac-ve-nguoi-cu-185251202114233333.htm",
+      "summary": "Trong chương trình 'AI là ai?', Trấn Thành gây chú ý khi tiết lộ về điều tồi tệ anh từng làm cho người yêu cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:41:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841341+07:00"
+    },
+    {
+      "id": "4672e37c6a55b9ff7fb3a658d9301cdc",
+      "title": "Cuộc sống của Thúy Ngân ở tuổi 34",
+      "link": "https://thanhnien.vn/cuoc-song-cua-thuy-ngan-o-tuoi-34-185251202110449836.htm",
+      "summary": "Ở tuổi 34, Thúy Ngân gây ấn tượng bởi nhan sắc rạng rỡ, trẻ trung. Cô tích cực hoạt động ở nhiều vai trò như diễn viên, người mẫu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:37:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841514+07:00"
+    },
+    {
+      "id": "f8864b69a22bd7756da0a5a390652b58",
+      "title": "Bộ trưởng Y tế: Sẽ tăng dần phụ cấp cho nhân viên y tế",
+      "link": "https://vnexpress.net/bo-truong-y-te-se-tang-dan-phu-cap-cho-nhan-vien-y-te-4988695.html",
+      "summary": "Bộ trưởng Đào Hồng Lan cho biết Bộ Chính trị đã thống nhất chủ trương tăng dần phụ cấp cho nhân viên y tế, hướng tới cải thiện thu nhập và giữ chân nhân lực ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:36:22+07:00",
+      "fetched": "2025-12-02T13:28:53.426329+07:00"
+    },
+    {
+      "id": "e23a6e18793f9e3d6f89a1f4c84390c0",
+      "title": "Thanh Niên và tôi: Lời ru ký ức",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-loi-ru-ky-uc-185251120214139724.htm",
+      "summary": "'Nghĩ coi, nếu ngăn kéo ký ức trống rỗng thì tâm hồn sẽ nghèo biết bao' (Trần Cao Duyên). Với tôi, Thanh Niên - tờ báo tôi hằng yêu thích, đã có thể giúp tôi nối cánh tay tâm hồn mình để mở ra những 'ngăn kéo' chứa đầy kỷ niệm và những hồi ức yêu thương như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:32:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841663+07:00"
+    },
+    {
+      "id": "522320953d59bf79eea7b8ec1ae1d47a",
+      "title": "Tài chính Mirae Asset hỗ trợ vay mua ôtô đến 90%",
+      "link": "https://vnexpress.net/tai-chinh-mirae-asset-ho-tro-vay-mua-oto-den-90-4988753.html",
+      "summary": "Tài chính Mirae Asset (Việt Nam) triển khai gói sản phẩm vay mua ôtô với hạn mức đến 15 tỷ đồng, hỗ trợ tối đa 90% giá trị tài sản bảo đảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:30:00+07:00",
+      "fetched": "2025-12-02T13:28:53.426478+07:00"
+    },
+    {
+      "id": "a49183ca485d81602df4b6282adbb7bf",
+      "title": "Chuyện sau bút danh Đynh Trầm Ca và bài hát 'Ru con tình cũ'",
+      "link": "https://thanhnien.vn/chuyen-sau-but-danh-dynh-tram-ca-va-bai-hat-ru-con-tinh-cu-185251201204824901.htm",
+      "summary": "Nhạc sĩ Đynh Trầm Ca nổi tiếng trong giới âm nhạc với hơn 300 bài thơ và gần 100 ca khúc, trong đó có nhiều bài hát đi vào lòng người như: Ru con tình cũ, Sông quê... Đặc biệt, danh ca Khánh Ly thể hiện rất thành công Ru con tình cũ, song không phải ai cũng biết chuyện hậu trường ca khúc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:30:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841810+07:00"
+    },
+    {
+      "id": "522320953d59bf79eea7b8ec1ae1d47a",
+      "title": "Tài chính Mirae Asset hỗ trợ vay mua ôtô đến 90%",
+      "link": "https://vnexpress.net/tai-chinh-mirae-asset-ho-tro-vay-mua-oto-den-90-4988753.html",
+      "summary": "Tài chính Mirae Asset (Việt Nam) triển khai gói sản phẩm vay mua ôtô với hạn mức đến 15 tỷ đồng, hỗ trợ tối đa 90% giá trị tài sản bảo đảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-02T05:30:00+07:00",
+      "fetched": "2025-12-02T13:29:01.708265+07:00"
+    },
+    {
+      "id": "72b92dbf02357598fcecbf49ab587d5e",
+      "title": "Lịch thi đấu đội tuyển futsal Việt Nam mới nhất: Gặp Thái Lan, Indonesia, xem kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-futsal-viet-nam-moi-nhat-gap-thai-lan-indonesia-xem-kenh-nao-185251202115553366.htm",
+      "summary": "Từ ngày 12.12, futsal Việt Nam sẽ chính thức bước vào tranh tài ở Đại hội thể thao Đông Nam Á (SEA Games) 33 được tổ chức ở Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:29:00+07:00",
+      "fetched": "2025-12-02T13:28:56.841962+07:00"
+    },
+    {
+      "id": "46c58c55d2474fc5cc3b24b319416270",
+      "title": "Xe khách tông bẹp xe 4 chỗ, cầu Thăng Long tắc cứng",
+      "link": "https://vnexpress.net/xe-khach-tong-bep-xe-4-cho-cau-thang-long-tac-cung-4988764.html",
+      "summary": "Xe khách đâm vào đuôi xe 4 chỗ cùng chiều trên cầu Thăng Long khiến giao thông hai chiều ùn tắc nghiêm trọng, sáng 2/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:26:22+07:00",
+      "fetched": "2025-12-02T13:28:53.426635+07:00"
+    },
+    {
+      "id": "c6735860b1806d273b2d22c785cea2b7",
+      "title": "Sắc vóc 'Người mẫu của năm 2025' Anok Yai",
+      "link": "https://vnexpress.net/sac-voc-nguoi-mau-cua-nam-2025-anok-yai-4988704.html",
+      "summary": "Anok Yai - giành giải \"Người mẫu của năm\" 2025 - cao 1,78 m, được ví là viên ngọc đen của làng mốt toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:19:22+07:00",
+      "fetched": "2025-12-02T13:28:53.426789+07:00"
+    },
+    {
+      "id": "260d693cb51992681c05ad9ef2dfdb14",
+      "title": "Những sinh viên học 4-7 chuyên ngành cùng lúc",
+      "link": "https://vnexpress.net/nhung-sinh-vien-hoc-4-7-chuyen-nganh-cung-luc-4988767.html",
+      "summary": "Một số sinh viên học bốn, thậm chí bảy chuyên ngành cùng lúc, với hy vọng trở nên nổi bật trên thị trường việc làm, dù chưa có nghiên cứu nào cho thấy lợi thế này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T05:15:50+07:00",
+      "fetched": "2025-12-02T13:28:53.426945+07:00"
+    },
+    {
+      "id": "0a96ae3f193ebbdaffbd8bb87de09f44",
+      "title": "Sản xuất của Mỹ giảm tháng thứ 9 vì thuế nhập khẩu",
+      "link": "https://vnexpress.net/san-xuat-cua-my-giam-thang-thu-9-vi-thue-nhap-khau-4988686.html",
+      "summary": "Sản xuất tại Mỹ tiếp tục đi xuống trong tháng 11, khi các nhà máy ghi nhận đơn hàng giảm và giá đầu vào tăng cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-02T04:57:13+07:00",
+      "fetched": "2025-12-02T13:29:01.707097+07:00"
+    },
+    {
+      "id": "05edb5aae6cbea8ef449d4133cf1416c",
+      "title": "Cơ hội kinh tế đằng sau kế hoạch hòa bình Ukraine",
+      "link": "https://vnexpress.net/co-hoi-kinh-te-dang-sau-ke-hoach-hoa-binh-ukraine-4988099.html",
+      "summary": "Cuộc thương thảo giữa quan chức Mỹ và Nga tại Miami hé lộ những tính toán kinh tế táo bạo có thể tái định hình quan hệ hai nước và tương lai xung đột Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-02T04:52:32+07:00",
+      "fetched": "2025-12-02T13:28:59.817678+07:00"
+    },
+    {
+      "id": "26a95bac81a49a07683d750b04041c52",
+      "title": "Cựu chủ tịch Bayern: 'Wirtz không có bóng để chơi ở Liverpool'",
+      "link": "https://vnexpress.net/cuu-chu-tich-bayern-wirtz-khong-co-bong-de-choi-o-liverpool-4988550.html",
+      "summary": "Theo Uli Hoeness, Chủ tịch Bayern Munich giai đoạn 2009-2019, Florian Wirtz đang gặp khó tại Liverpool vì không được trao đúng vai trò như lời hứa hẹn của HLV Arne Slot.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T04:32:10+07:00",
+      "fetched": "2025-12-02T13:29:05.634497+07:00"
     },
     {
       "id": "4158033885c25c3ec8425c785ac02397",
