@@ -1,7 +1,157 @@
 window.newsData_2025_12_05 = {
   "date": "2025-12-05",
-  "lastUpdated": "2025-12-05T13:28:43.760645+07:00",
+  "lastUpdated": "2025-12-05T15:24:20.378615+07:00",
   "articles": [
+    {
+      "id": "16aeaba15aaf4bcda3899398a6dbf667",
+      "title": "Giáo hoàng Leo XIV vào top xu hướng tìm kiếm Google năm 2025",
+      "link": "https://tuoitre.vn/giao-hoang-leo-xiv-vao-top-xu-huong-tim-kiem-google-nam-2025-20251205114702466.htm",
+      "summary": "Google vừa công bố báo cáo 'Year in Search 2025', hé lộ những nhân vật có mức tăng trưởng tìm kiếm mạnh nhất trong năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.751012+07:00",
+      "fetched": "2025-12-05T15:24:13.751146+07:00"
+    },
+    {
+      "id": "79e43026d13e72472bbff72a82abcb05",
+      "title": "Không có tàu Na Uy nào tự động gom rác thải nhựa để biến thành nhiên liệu",
+      "link": "https://tuoitre.vn/khong-co-tau-na-uy-nao-tu-dong-gom-rac-thai-nhua-de-bien-thanh-nhien-lieu-20251205103117109.htm",
+      "summary": "Thông tin lan truyền nói rằng Na Uy hạ thủy tàu tự hành BlueHarvester có khả năng biến rác thải nhựa thành nhiên liệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750886+07:00",
+      "fetched": "2025-12-05T15:24:13.751001+07:00"
+    },
+    {
+      "id": "2488213fa185ad94f7b6bb9ea854cc00",
+      "title": "165 năm thương cảng Sài Gòn - Kỳ 1: Bến tàu của chiến tranh và phát triển",
+      "link": "https://tuoitre.vn/165-nam-thuong-cang-sai-gon-ky-1-ben-tau-cua-chien-tranh-va-phat-trien-20251205110656137.htm",
+      "summary": "Cảng Sài Gòn như chứng nhân lịch sử đặc biệt của thời kỳ thực dân xâm lược lẫn sự vệ quốc anh hùng của dân tộc Việt Nam và sau này là thời kỳ hòa bình, phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750755+07:00",
+      "fetched": "2025-12-05T15:24:13.750874+07:00"
+    },
+    {
+      "id": "ae59b6e19a2b6684f3d8a2656db830ba",
+      "title": "Phó thủ tướng chỉ đạo khẩn trương điều tra vụ cháy khiến 4 người tử vong tại TP.HCM",
+      "link": "https://tuoitre.vn/pho-thu-tuong-chi-dao-khan-truong-dieu-tra-vu-chay-khien-4-nguoi-tu-vong-tai-tp-hcm-20251205122912268.htm",
+      "summary": "Phó thủ tướng vừa có công điện chỉ đạo khẩn trương điều tra nguyên nhân vụ cháy tại số 227, đường Trần Hưng Đạo, phường Cầu Ông Lãnh, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750627+07:00",
+      "fetched": "2025-12-05T15:24:13.750744+07:00"
+    },
+    {
+      "id": "4cf20b5e85fe0c022e7b43ed9fdc6c28",
+      "title": "VIBS 2025 mở ra nhiều cơ hội hợp tác cho doanh nghiệp bánh kẹo",
+      "link": "https://tuoitre.vn/vibs-2025-mo-ra-nhieu-co-hoi-hop-tac-cho-doanh-nghiep-banh-keo-20251205090419987.htm",
+      "summary": "Triển lãm Quốc tế Ngành Bánh Việt Nam - Vietnam International Bakery Show (VIBS 2025)  diễn ra từ ngày 10 đến 13-12-2025 tại Trung tâm Hội chợ và Triển lãm Sài Gòn (SECC), quy tụ các doanh nghiệp trong và ngoài nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750487+07:00",
+      "fetched": "2025-12-05T15:24:13.750615+07:00"
+    },
+    {
+      "id": "a1174ef1a96ecb2e96d110b586134c52",
+      "title": "Dáng má in hằn trên vách đất, bên bếp lửa củi chiều cuối năm",
+      "link": "https://tuoitre.vn/dang-ma-in-han-tren-vach-dat-ben-bep-lua-cui-chieu-cuoi-nam-20251205113801769.htm",
+      "summary": "Sài Gòn se se lạnh làm cho tôi nhớ quê, nhớ má da diết. Nhớ cái lạnh như cắt da thịt ở quê nhà Quảng Ngãi trong những ngày giáp Tết. Nhớ những mùa Tết thời còn thơ dại, nghèo khó nơi quê nhà với má.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750350+07:00",
+      "fetched": "2025-12-05T15:24:13.750475+07:00"
+    },
+    {
+      "id": "437cd895c6c75bcff664edd54822f1d2",
+      "title": "Phó chủ tịch UBND TP.HCM Trần Văn Bảy thăm hỏi các nạn nhân bị thương trong vụ cháy quán bún ốc",
+      "link": "https://tuoitre.vn/pho-chu-tich-ubnd-tp-hcm-tran-van-bay-tham-hoi-cac-nan-nhan-bi-thuong-trong-vu-chay-quan-bun-oc-2025120512554083.htm",
+      "summary": "Trưa 5-12, ông Trần Văn Bảy, Phó chủ tịch UBND TP.HCM, đã đến Bệnh viện Nhân dân Gia Định thăm hỏi, động viên nạn nhân bị thương trong vụ cháy quán bún ốc và chia sẻ với người nhà nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750222+07:00",
+      "fetched": "2025-12-05T15:24:13.750339+07:00"
+    },
+    {
+      "id": "7e27a15abfcbe5fa7872b4709f83b589",
+      "title": "'Tuyệt đối phở Bắc' giữa Sài Gòn, phở bò Phú Gia không rau không giá",
+      "link": "https://tuoitre.vn/tuyet-doi-pho-bac-giua-sai-gon-pho-bo-phu-gia-khong-rau-khong-gia-20251205124200004.htm",
+      "summary": "Với nồi nước phở trong veo, ngọt thanh tự nhiên kết hợp với thịt bò mềm mọng, Phở bò Phú Gia giữ hương vị phở miền Bắc truyền thống nhờ sự 'bảo thủ', kiên quyết không thêm giá, rau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.750077+07:00",
+      "fetched": "2025-12-05T15:24:13.750210+07:00"
+    },
+    {
+      "id": "7a92483390a2a4edb6051660cc605f18",
+      "title": "Kho chứa máy móc cơ khí sát cây xăng bốc cháy ngùn ngụt",
+      "link": "https://tuoitre.vn/kho-chua-may-moc-co-khi-sat-cay-xang-boc-chay-ngun-ngut-20251205125931258.htm",
+      "summary": "Kho chứa máy móc cơ khí sát bên cây xăng ở phường Hòa Lợi, TP.HCM bốc cháy dữ dội và được dập tắt hoàn toàn sau gần một giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749933+07:00",
+      "fetched": "2025-12-05T15:24:13.750064+07:00"
+    },
+    {
+      "id": "8456c3e385b2cd773073f7c41363fee6",
+      "title": "Hàng trăm hộ dân ngập lụt sau khi thủy điện xả lũ: Đồng Nai yêu cầu khẩn trương hỗ trợ người dân",
+      "link": "https://tuoitre.vn/hang-tram-ho-dan-ngap-lut-sau-khi-thuy-dien-xa-lu-dong-nai-yeu-cau-khan-truong-ho-tro-nguoi-dan-20251205130239678.htm",
+      "summary": "Đồng Nai yêu cầu các địa phương khẩn trương rà soát, lập hồ sơ đề xuất hỗ trợ cho người dân bị ngập lụt sau khi thủy điện xả lũ điều tiết hồ chứa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749804+07:00",
+      "fetched": "2025-12-05T15:24:13.749922+07:00"
+    },
+    {
+      "id": "aaf0ef6184454b1ac7db9efc89f209ac",
+      "title": "Tin tặc 'rút sạch' 10 tỉ đồng của khách, nhà mạng Úc bị phạt 43 tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tac-rut-sach-10-ti-dong-cua-khach-nha-mang-uc-bi-phat-43-ti-dong-20251205130919797.htm",
+      "summary": "Southern Phone bị phạt 43,5 tỉ đồng vì để tin tặc chiếm số điện thoại, truy cập tài khoản ngân hàng, gây thiệt hại hàng trăm nghìn AUD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749673+07:00",
+      "fetched": "2025-12-05T15:24:13.749792+07:00"
+    },
+    {
+      "id": "cc7656616531f399d1253a50d8682b5c",
+      "title": "Biển Cà Mau xuất hiện hai màu ‘nước lạ’",
+      "link": "https://tuoitre.vn/bien-ca-mau-xuat-hien-hai-mau-nuoc-la-20251205124827462.htm",
+      "summary": "Một lãnh đạo UBND xã Đá Bạc, tỉnh Cà Mau cho biết trên địa bàn vừa xuất hiện hiện tượng nước biển có 2 màu nâu đỏ và xanh chạy dọc theo bờ biển Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749541+07:00",
+      "fetched": "2025-12-05T15:24:13.749660+07:00"
+    },
+    {
+      "id": "ef63e92e0daeeaa197d0fb4f3dd7c1d8",
+      "title": "Thái Lan cảnh báo 'gái xinh lừa đảo' trên khán đài SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-canh-bao-gai-xinh-lua-dao-tren-khan-dai-sea-games-33-20251205130347959.htm",
+      "summary": "Hình ảnh một số cô gái cầm áp phích quảng cáo có hình cầu thủ Việt Nam, xuất hiện trong trận đấu mở màn môn bóng đá nam SEA Games 33 mới đây đã bị báo chí Thái Lan lên tiếng cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749402+07:00",
+      "fetched": "2025-12-05T15:24:13.749529+07:00"
+    },
+    {
+      "id": "ca3a81efb9bbac2321e425226c8e4721",
+      "title": "Có thật ông Trump nói 'chúng tôi đánh giá cao' việc Colombia bán cocaine cho Mỹ?",
+      "link": "https://tuoitre.vn/co-that-ong-trump-noi-chung-toi-danh-gia-cao-viec-colombia-ban-cocaine-cho-my-20251205112849709.htm",
+      "summary": "Thông tin lan truyền cho biết ông Trump đã nói \"chúng tôi đánh giá cao\" việc Colombia bán cocaine cho Mỹ. Câu nói này là thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.749252+07:00",
+      "fetched": "2025-12-05T15:24:13.749390+07:00"
+    },
+    {
+      "id": "d967f1878f71dea32c9e679c8afd9e25",
+      "title": "Sinh kế nào cùng người dân vượt lũ?",
+      "link": "https://tuoitre.vn/sinh-ke-nao-cung-nguoi-dan-vuot-lu-20251205081707996.htm",
+      "summary": "Mưa lũ rút đi để lại một đống ngổn ngang. Người chết thì về bên kia thế giới. Người sống ở lại đối đầu với rất nhiều thứ. Sống qua được lũ là một điều may mắn nhưng sau lũ vực dậy như thế nào là một vấn đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:13.748992+07:00",
+      "fetched": "2025-12-05T15:24:13.749235+07:00"
+    },
     {
       "id": "33c01428f015fb5a5c2aca60948ae955",
       "title": "Người cao tuổi nên ăn bao nhiêu cá một tuần?",
@@ -451,6 +601,386 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T08:21:18.429805+07:00",
       "fetched": "2025-12-05T08:21:18.430014+07:00"
+    },
+    {
+      "id": "b698bb265a04c49f3646e76900120308",
+      "title": "Loạt cổ phiếu 'bom tấn' nào sắp lên sàn HOSE?",
+      "link": "https://thanhnien.vn/loat-co-phieu-bom-tan-nao-sap-len-san-hose-185251205151547911.htm",
+      "summary": "Một số doanh nghiệp lớn chuẩn bị đưa hàng tỉ cổ phiếu lên niêm yết và giao dịch trên sàn HOSE.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:21:00+07:00",
+      "fetched": "2025-12-05T15:24:12.869910+07:00"
+    },
+    {
+      "id": "2264fc6fe6600c1bba22456f651d348f",
+      "title": "Nghệ sĩ Bình Tinh giữa ồn ào tình cảm",
+      "link": "https://thanhnien.vn/nghe-si-binh-tinh-giua-on-ao-tinh-cam-185251205113537793.htm",
+      "summary": "Trước khi thông tin về chuyện tình cảm được chia sẻ, Bình Tinh được khán giả yêu mến ở vai trò nghệ sĩ cải lương. Ngoài ra, cô không ngại thử sức mình ở lĩnh vực phim ảnh hay trình diễn tại sân khấu kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:19:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870105+07:00"
+    },
+    {
+      "id": "ce8693852cb7ce4f2ad617018c5cadda",
+      "title": "Hộ kinh doanh sử dụng hóa đơn điện tử thế nào từ 2026?",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-su-dung-hoa-don-dien-tu-the-nao-tu-2026-185251205132622811.htm",
+      "summary": "Bộ Tài chính đang lấy ý kiến về dự thảo Nghị định quy định việc kê khai, tính thuế và khấu trừ thuế, sử dụng hóa đơn điện tử của hộ kinh doanh, cá nhân kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:18:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870269+07:00"
+    },
+    {
+      "id": "534f178a57b1a207cf8289d1917f5de5",
+      "title": "Anh Đỗ Văn Bách giữ chức Bí thư Đoàn Thanh niên Cơ quan T.Ư Đoàn",
+      "link": "https://thanhnien.vn/anh-do-van-bach-giu-chuc-bi-thu-doan-thanh-nien-co-quan-tu-doan-185251205133243265.htm",
+      "summary": "Hội nghị lần thứ nhất, Đại hội đại biểu Đoàn TNCS Hồ Chí Minh Cơ quan T.Ư Đoàn khóa XXV, đã bầu anh Đỗ Văn Bách, Phó chánh Văn phòng Hội đồng Đội T.Ư, giữ chức Bí thư Đoàn Thanh niên Cơ quan T.Ư Đoàn nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:17:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870424+07:00"
+    },
+    {
+      "id": "2efaf7ae1c402915a57f5f70174a14f4",
+      "title": "Thành Long quyết tâm vực dậy điện ảnh Hồng Kông",
+      "link": "https://thanhnien.vn/thanh-long-quyet-tam-vuc-day-dien-anh-hong-kong-185251205145942676.htm",
+      "summary": "Nhắc đến phim Hồng Kông hiện tại, nhiều khán giả khó tránh khỏi tiếng thở dài tiếc nuối. Thế nhưng, tài tử Thành Long đang ấp ủ những dự định khôi phục lại ngành công nghiệp giải trí xứ Cảng Thơm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:12:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870576+07:00"
+    },
+    {
+      "id": "a62b3b94cc04d04b36fb11e91516968c",
+      "title": "Nữ nhân viên pháp y và giấc mơ chinh phục SEA Games",
+      "link": "https://vnexpress.net/nu-nhan-vien-phap-y-va-giac-mo-chinh-phuc-sea-games-4989961.html",
+      "summary": "Danisha Mathialagan, 28 tuổi, tìm thấy sự liên hệ giữa nghề khám nghiệm và tẩm liệm tử thi với việc thi đấu quyền Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T08:04:29+07:00",
+      "fetched": "2025-12-05T15:24:20.368451+07:00"
+    },
+    {
+      "id": "671a402969503717b6646c187b77011f",
+      "title": "Kim Long Motor khánh thành nhà máy sản xuất và chế tạo động cơ ô tô đầu tiên ở Việt Nam",
+      "link": "https://thanhnien.vn/kim-long-motor-khanh-thanh-nha-may-san-xuat-va-che-tao-dong-co-o-to-dau-tien-o-viet-nam-185251205133842434.htm",
+      "summary": "Đây là nhà máy đầu tiên tại Việt Nam sở hữu dây chuyền hiện đại có khả năng chế tạo và sản xuất những dòng động cơ đạt tiêu chuẩn quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:00:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870737+07:00"
+    },
+    {
+      "id": "47e2a7e74b702df5d45e1428cf753386",
+      "title": "Lời cảm tạ",
+      "link": "https://thanhnien.vn/loi-cam-ta-185251205131530871.htm",
+      "summary": "Gia đình chúng tôi trân trọng gửi lời cảm ơn đến thân bằng quyến thuộc, bà con chòm xóm, bạn bè, đồng nghiệp cùng các cơ quan ban ngành, doanh nghiệp…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T08:00:00+07:00",
+      "fetched": "2025-12-05T15:24:12.870892+07:00"
+    },
+    {
+      "id": "b3c93fd0bcf9714e387f6fffd02a533c",
+      "title": "Trùm kín đầu cướp tài sản, nghi phạm sa lưới sau 2 ngày gây án",
+      "link": "https://thanhnien.vn/trum-kin-dau-cuop-tai-san-nghi-pham-sa-luoi-sau-2-ngay-gay-an-185251205140046617.htm",
+      "summary": "Nghi phạm đội mũ, trùm kín đầu rồi đột nhập vào nhà một phụ nữ để cướp tài sản, sau đó bỏ trốn lên rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:58:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871061+07:00"
+    },
+    {
+      "id": "9d670b7649492f90f44381a287828d71",
+      "title": "Giao công an xử lý dứt điểm nạn buôn bán hàng rong trong công viên nghìn tỉ",
+      "link": "https://thanhnien.vn/giao-cong-an-xu-ly-dut-diem-nan-buon-ban-hang-rong-trong-cong-vien-nghin-ti-185251205134603441.htm",
+      "summary": "Ngay sau khi Báo Thanh Niên phản ánh nạn hàng rong trong công viên Thùy Vân, UBND phường Vũng Tàu đã tổ chức kiểm tra thực địa và giao công an tăng cường lực lượng xử lý dứt điểm tình trạng buôn bán hàng rong tại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:54:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871226+07:00"
+    },
+    {
+      "id": "2d2bf877f5edcf5891b655ac0b102345",
+      "title": "Trắng là màu của năm 2026",
+      "link": "https://vnexpress.net/trang-la-mau-cua-nam-2026-4990182.html",
+      "summary": "Viện Màu sắc Pantone của Mỹ công bố sắc trắng Cloud Dancer sẽ dẫn dắt xu hướng trong thời trang, điện ảnh, kiến trúc năm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:51:51+07:00",
+      "fetched": "2025-12-05T15:24:09.718288+07:00"
+    },
+    {
+      "id": "25722160f325c7976251705ccb0a86e5",
+      "title": "Người Việt lên Google chủ yếu tìm kiếm về AI năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-len-google-chu-yeu-tim-kiem-ve-ai-nam-2025-4990190.html",
+      "summary": "Sáu trong 10 nội dung được người Việt tìm kiếm nhiều nhất năm 2025 liên quan đến AI, trong đó DeepSeek là từ khóa phổ biến nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:51:03+07:00",
+      "fetched": "2025-12-05T15:24:09.718486+07:00"
+    },
+    {
+      "id": "25722160f325c7976251705ccb0a86e5",
+      "title": "Người Việt lên Google chủ yếu tìm kiếm về AI năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-len-google-chu-yeu-tim-kiem-ve-ai-nam-2025-4990190.html",
+      "summary": "Sáu trong 10 nội dung được người Việt tìm kiếm nhiều nhất năm 2025 liên quan đến AI, trong đó DeepSeek là từ khóa phổ biến nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-05T07:51:03+07:00",
+      "fetched": "2025-12-05T15:24:18.627157+07:00"
+    },
+    {
+      "id": "e431e7e47c68388739f56e9af1d2186b",
+      "title": "Dàn hoa khôi cầm biển dẫn đoàn ở lễ khai mạc SEA Games 33",
+      "link": "https://vnexpress.net/dan-hoa-khoi-cam-bien-dan-doan-o-le-khai-mac-sea-games-33-4990238.html",
+      "summary": "11 người đẹp Thái Lan từng vào top 3 các cuộc thi nhan sắc được chọn để cầm biển dẫn 11 đoàn trong lễ khai mạc SEA Games 33 tại sân Rajamangala vào ngày 9/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:48:25+07:00",
+      "fetched": "2025-12-05T15:24:09.718659+07:00"
+    },
+    {
+      "id": "e431e7e47c68388739f56e9af1d2186b",
+      "title": "Dàn hoa khôi cầm biển dẫn đoàn ở lễ khai mạc SEA Games 33",
+      "link": "https://vnexpress.net/dan-hoa-khoi-cam-bien-dan-doan-o-le-khai-mac-sea-games-33-4990238.html",
+      "summary": "11 người đẹp Thái Lan từng vào top 3 các cuộc thi nhan sắc được chọn để cầm biển dẫn 11 đoàn trong lễ khai mạc SEA Games 33 tại sân Rajamangala vào ngày 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T07:48:25+07:00",
+      "fetched": "2025-12-05T15:24:20.368631+07:00"
+    },
+    {
+      "id": "670589d89d95e6050e5d99ad23cc815a",
+      "title": "Chi hơn 15.200 tỉ đồng trồng 1,4 tỉ cây xanh khắp Việt Nam",
+      "link": "https://thanhnien.vn/chi-hon-15200-ti-dong-trong-14-ti-cay-xanh-khap-viet-nam-185251205145623385.htm",
+      "summary": "Đề án Trồng một tỉ cây xanh giai đoạn 2021 - 2025 do Bộ Nông nghiệp và Môi trường chủ trì đã 'về đích' ngoạn mục với 1,4 tỉ cây xanh được trồng khắp Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:48:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871380+07:00"
+    },
+    {
+      "id": "4e5885bef47e08202fc47c353e61f152",
+      "title": "Thông điệp của Thủ tướng Ấn Độ khi đón ông Putin ở thang máy bay",
+      "link": "https://vnexpress.net/thong-diep-cua-thu-tuong-an-do-khi-don-ong-putin-o-thang-may-bay-4989997.html",
+      "summary": "Đón Tổng thống Nga tại chân cầu thang máy bay, Thủ tướng Modi dường như muốn khẳng định quan hệ thân tình giữa hai nước vẫn vững vàng trước áp lực từ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:43:10+07:00",
+      "fetched": "2025-12-05T15:24:09.718821+07:00"
+    },
+    {
+      "id": "4e5885bef47e08202fc47c353e61f152",
+      "title": "Thông điệp của Thủ tướng Ấn Độ khi đón ông Putin ở thang máy bay",
+      "link": "https://vnexpress.net/thong-diep-cua-thu-tuong-an-do-khi-don-ong-putin-o-thang-may-bay-4989997.html",
+      "summary": "Đón Tổng thống Nga tại chân cầu thang máy bay, Thủ tướng Modi dường như muốn khẳng định quan hệ thân tình giữa hai nước vẫn vững vàng trước áp lực từ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T07:43:10+07:00",
+      "fetched": "2025-12-05T15:24:14.817181+07:00"
+    },
+    {
+      "id": "87645f01b6baea59f119b2eadc3f19ad",
+      "title": "Anh lịch sự, vui vẻ, nhiều năng lượng tích cực",
+      "link": "https://vnexpress.net/anh-lich-su-vui-ve-nhieu-nang-luong-tich-cuc-4990084.html",
+      "summary": "Anh tin sự tinh tế của người đàn ông không chỉ nằm ở lời nói, mà ở khả năng tạo ra không gian an toàn dành cho người phụ nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:41:41+07:00",
+      "fetched": "2025-12-05T15:24:09.718923+07:00"
+    },
+    {
+      "id": "71f236fe8dbef6e5442286c3749e8e98",
+      "title": "Phó thủ tướng yêu cầu làm rõ vụ cháy, 4 người tử vong ở TP.HCM",
+      "link": "https://thanhnien.vn/pho-thu-tuong-yeu-cau-lam-ro-vu-chay-4-nguoi-tu-vong-o-tphcm-185251205140705828.htm",
+      "summary": "Phó thủ tướng thường trực Chính phủ Nguyễn Hòa Bình yêu cầu TP.HCM khẩn trương điều tra nguyên nhân vụ cháy tại quán ăn địa chỉ 227 Trần Hưng Đạo khiến 4 người tử vong, 2 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:35:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871535+07:00"
+    },
+    {
+      "id": "e848b697ef5e2f0575c1f3690340e174",
+      "title": "Cảnh báo triều cường ở TP.HCM: Siêu trăng lạnh xuất hiện ảnh hưởng thế nào?",
+      "link": "https://thanhnien.vn/canh-bao-trieu-cuong-o-tphcm-sieu-trang-lanh-xuat-hien-anh-huong-the-nao-185251205125249331.htm",
+      "summary": "Triều cường ở TP.HCM cao nhất đợt này có thể xuất hiện vào ngày 5 - 6.12, đúng thời điểm xuất hiện siêu trăng lạnh cuối cùng 2025. Siêu trăng này ảnh hưởng ra sao tới triều cường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:30:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871687+07:00"
+    },
+    {
+      "id": "f7112c1fb89fcc56fb62c12d64a31137",
+      "title": "Myanmar liên tiếp đánh sập các tòa nhà của tội phạm lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/myanmar-lien-tiep-danh-sap-cac-toa-nha-cua-toi-pham-lua-dao-truc-tuyen-4990178.html",
+      "summary": "Myanmar liên tiếp đánh sập các tòa nhà nghi là nơi hoạt động của tội phạm lừa đảo trực tuyến, đặt mục tiêu phá hơn 60 tòa nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:28:06+07:00",
+      "fetched": "2025-12-05T15:24:09.719119+07:00"
+    },
+    {
+      "id": "f7112c1fb89fcc56fb62c12d64a31137",
+      "title": "Myanmar liên tiếp đánh sập các tòa nhà của tội phạm lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/myanmar-lien-tiep-danh-sap-cac-toa-nha-cua-toi-pham-lua-dao-truc-tuyen-4990178.html",
+      "summary": "Myanmar liên tiếp đánh sập các tòa nhà nghi là nơi hoạt động của tội phạm lừa đảo trực tuyến, đặt mục tiêu phá hơn 60 tòa nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T07:28:06+07:00",
+      "fetched": "2025-12-05T15:24:14.817361+07:00"
+    },
+    {
+      "id": "8e4d98188b67733dcd4513e2890adec2",
+      "title": "AWS tung loạt nâng cấp quan trọng cho hệ sinh thái bảo mật đám mây",
+      "link": "https://thanhnien.vn/aws-tung-loat-nang-cap-quan-trong-cho-he-sinh-thai-bao-mat-dam-may-185251205102610579.htm",
+      "summary": "Các giải pháp mới được AWS công bố tập trung vào tự động hóa quy trình kiểm thử, thống nhất quản lý rủi ro và tăng cường khả năng phát hiện chuỗi tấn công phức tạp trên đa nền tảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:28:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871838+07:00"
+    },
+    {
+      "id": "4b3e248f0928960f66c491a72a9a1444",
+      "title": "Con dâu 'hờ' kiện mẹ chồng đòi chia tài sản",
+      "link": "https://vnexpress.net/con-dau-ho-kien-me-chong-doi-chia-tai-san-4989396.html",
+      "summary": "Cô Xue Li, 51 tuổi, được nhờ kết hôn giả với anh Xu Tian để nhận tiền đền bù giải tỏa mặt bằng nhưng sau đó đệ đơn kiện gia đình chồng hờ, đòi chia tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:25:45+07:00",
+      "fetched": "2025-12-05T15:24:09.719288+07:00"
+    },
+    {
+      "id": "3b594d8b3fcf7c7773c8e2e77e8a5033",
+      "title": "Căn nhà xây nhầm trên đất có sổ đỏ của người khác được di dời",
+      "link": "https://vnexpress.net/can-nha-xay-nham-tren-dat-co-so-do-cua-nguoi-khac-duoc-di-doi-4986571.html",
+      "summary": "Ông Đỗ Văn Hữu đã hoàn thành việc di chuyển công trình để trả đất cho bà Trần Thị Kim Loan, theo yêu cầu của tòa án trong vụ xây nhà trên tài sản của người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:24:30+07:00",
+      "fetched": "2025-12-05T15:24:09.719444+07:00"
+    },
+    {
+      "id": "e3bc83de82e87b5ffcc85fb7ee480d52",
+      "title": "Ảnh cưới của Á hậu Hương Ly",
+      "link": "https://vnexpress.net/anh-cuoi-cua-a-hau-huong-ly-4990120.html",
+      "summary": "Người đẹp Hương Ly và chồng doanh nhân chụp ảnh cưới theo phong cách nhẹ nhàng ở Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:24:01+07:00",
+      "fetched": "2025-12-05T15:24:09.719610+07:00"
+    },
+    {
+      "id": "e921d607be79696ec98140358785220f",
+      "title": "Đại học Quốc gia TP HCM công bố lịch thi đánh giá năng lực năm 2026",
+      "link": "https://vnexpress.net/lich-thi-danh-gia-nang-luc-dai-hoc-quoc-gia-tp-hcm-nam-2026-chi-tiet-nhat-4990220.html",
+      "summary": "Đại học Quốc gia TP HCM sẽ tổ chức hai đợt thi đánh giá năng lực vào đầu tháng 4 và cuối tháng 5, thí sinh bắt đầu đăng ký từ cuối tháng 1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:21:27+07:00",
+      "fetched": "2025-12-05T15:24:09.719766+07:00"
+    },
+    {
+      "id": "e47e55b2c300bc8abd495f285320598d",
+      "title": "5 giá trị ‘vàng’ trên hành chuyển mình của EVNNPC",
+      "link": "https://thanhnien.vn/5-gia-tri-vang-tren-hanh-chuyen-minh-cua-evnnpc-185251205143012883.htm",
+      "summary": "Trong bức tranh đổi mới mạnh mẽ của ngành điện những năm qua, Tổng công ty Điện lực miền Bắc (EVNNPC) ghi dấu bằng một hành trình phát triển bền bỉ dựa trên nền tảng văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:18:00+07:00",
+      "fetched": "2025-12-05T15:24:12.871987+07:00"
+    },
+    {
+      "id": "5a477bfd62dd8412c49c1751d9a3063d",
+      "title": "Nhiều sinh viên Mỹ không làm được toán cấp 2",
+      "link": "https://vnexpress.net/nhieu-sinh-vien-my-khong-lam-duoc-toan-cap-2-4990187.html",
+      "summary": "Dù bảng điểm đẹp, hàng loạt tân sinh viên Đại học California San Diego không làm nổi phép tính cấp hai, phản ánh tình trạng lạm phát điểm số đáng báo động tại Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:14:42+07:00",
+      "fetched": "2025-12-05T15:24:09.719919+07:00"
+    },
+    {
+      "id": "dc79da74237996b497dd0f7ee54d4798",
+      "title": "Nghị sĩ Dân chủ đòi luận tội Bộ trưởng Quốc phòng Mỹ",
+      "link": "https://vnexpress.net/nghi-si-dan-chu-doi-luan-toi-bo-truong-quoc-phong-my-4990098.html",
+      "summary": "Nghị sĩ Thanedar đệ trình kiến nghị luận tội Bộ trưởng Quốc phòng Hegseth với các cáo buộc liên quan vụ tập kích kép vào \"xuồng ma túy\" ngoài khơi Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:12:42+07:00",
+      "fetched": "2025-12-05T15:24:09.720092+07:00"
+    },
+    {
+      "id": "dc79da74237996b497dd0f7ee54d4798",
+      "title": "Nghị sĩ Dân chủ đòi luận tội Bộ trưởng Quốc phòng Mỹ",
+      "link": "https://vnexpress.net/nghi-si-dan-chu-doi-luan-toi-bo-truong-quoc-phong-my-4990098.html",
+      "summary": "Nghị sĩ Thanedar đệ trình kiến nghị luận tội Bộ trưởng Quốc phòng Hegseth với các cáo buộc liên quan vụ tập kích kép vào \"xuồng ma túy\" ngoài khơi Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T07:12:42+07:00",
+      "fetched": "2025-12-05T15:24:14.817525+07:00"
+    },
+    {
+      "id": "de74402225c657a3c9096a9f944c58c9",
+      "title": "Giá vàng miếng tăng hơn 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-5-12-4990211.html",
+      "summary": "Các thương hiệu tăng giá bán ra vàng miếng 1,1 triệu đồng so với hôm qua, lên 154,9 triệu đồng một lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:11:04+07:00",
+      "fetched": "2025-12-05T15:24:09.720248+07:00"
+    },
+    {
+      "id": "de74402225c657a3c9096a9f944c58c9",
+      "title": "Giá vàng miếng tăng hơn 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-5-12-4990211.html",
+      "summary": "Các thương hiệu tăng giá bán ra vàng miếng 1,1 triệu đồng so với hôm qua, lên 154,9 triệu đồng một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-05T07:11:04+07:00",
+      "fetched": "2025-12-05T15:24:16.496247+07:00"
+    },
+    {
+      "id": "b2770a33dd64c39f426d46b731735313",
+      "title": "Chồng nói tôi 'đầu óc ngu si, tứ chi phát triển, ăn hại' mỗi khi nóng giận",
+      "link": "https://vnexpress.net/chong-nong-tinh-xuc-pham-vo-chong-noi-toi-dau-oc-ngu-si-tu-chi-phat-trien-an-hai-moi-khi-nong-gian-4990141.html",
+      "summary": "Tôi nhận ra mình đang sống trong vòng lặp: anh xúc phạm - tôi tổn thương - anh xin lỗi - tôi tha thứ - rồi anh lại xúc phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:09:01+07:00",
+      "fetched": "2025-12-05T15:24:09.720399+07:00"
+    },
+    {
+      "id": "8e1d060ae17d13249d6d7f2ecc6e38c3",
+      "title": "Giả cán bộ làm sổ đỏ, yêu cầu đặt cọc 50 triệu đồng rồi chiếm đoạt",
+      "link": "https://thanhnien.vn/gia-can-bo-lam-so-do-yeu-cau-dat-coc-50-trieu-dong-roi-chiem-doat-18525120513555357.htm",
+      "summary": "Nhóm người lạ giả cán bộ đến xã Vĩnh Thạnh (Gia Lai) mời chào làm sổ đỏ với giá hàng trăm triệu đồng, yêu cầu đặt cọc 30 - 50 triệu. Chính quyền cảnh báo đây là thủ đoạn lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:09:00+07:00",
+      "fetched": "2025-12-05T15:24:12.872152+07:00"
+    },
+    {
+      "id": "3ff97d439e7e5875485400523650d4b6",
+      "title": "Nước biển xuất hiện hai màu kéo dài hàng chục km",
+      "link": "https://vnexpress.net/nuoc-bien-xuat-hien-hai-mau-keo-dai-hang-chuc-km-4990195.html",
+      "summary": "Dọc đê biển Tây ở huyện Trần Văn Thời cũ, nước biển xuất hiện hai màu xanh và nâu đỏ cách bờ 100-200 m, do nước ngọt từ kênh nội đồng xả ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T07:03:50+07:00",
+      "fetched": "2025-12-05T15:24:09.720565+07:00"
+    },
+    {
+      "id": "82e8d83f6d80b2ca110c427949a8a2a2",
+      "title": "Loạt drone lạ xuất hiện gần đường bay của chuyên cơ chở ông Zelensky",
+      "link": "https://vnexpress.net/loat-drone-la-xuat-hien-gan-duong-bay-cua-chuyen-co-cho-ong-zelensky-4990123.html",
+      "summary": "Truyền thông Ireland nói 5 drone chưa rõ nguồn gốc đã hoạt động gần đường bay của chuyên cơ chở Tổng thống Ukraine khi ông thăm nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T06:49:30+07:00",
+      "fetched": "2025-12-05T15:24:14.817685+07:00"
     },
     {
       "id": "0ab9bf736469b772f703f2db7021a910",
