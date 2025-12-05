@@ -1,6 +1,6 @@
 window.newsData_2025_12_05 = {
   "date": "2025-12-05",
-  "lastUpdated": "2025-12-05T10:16:36.864173+07:00",
+  "lastUpdated": "2025-12-05T11:27:41.110584+07:00",
   "articles": [
     {
       "id": "56badfc198a835704bd3fd8827fbfdc0",
@@ -303,6 +303,356 @@ window.newsData_2025_12_05 = {
       "fetched": "2025-12-05T08:21:18.430014+07:00"
     },
     {
+      "id": "b8509cad5e11319953e112a342b421bb",
+      "title": "Bí thư Thành ủy TP.HCM biểu dương bác sĩ Võ Thái Trung cùng ê kíp",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-tphcm-bieu-duong-bac-si-vo-thai-trung-cung-e-kip-185251205103213981.htm",
+      "summary": "Thành công nối cánh tay bị đứt lìa cho người phụ nữ mang song thai, bác sĩ Võ Thái Trung cùng ê kíp trong ca mổ của Bệnh viện đa khoa Bình Dương được Bí thư Thành ủy TP.HCM biểu dương. Chủ tịch UBND TP.HCM tặng bằng khen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:22:00+07:00",
+      "fetched": "2025-12-05T11:27:31.382267+07:00"
+    },
+    {
+      "id": "16adb9cef8bae7da775382c2253e2517",
+      "title": "Lương Thế Thành và Thúy Diễm nói gì về tin đồn ly hôn?",
+      "link": "https://thanhnien.vn/luong-the-thanh-va-thuy-diem-noi-gi-ve-tin-don-ly-hon-185251205110120149.htm",
+      "summary": "Gần 10 năm gắn bó, vợ chồng Lương Thế Thành - Thúy Diễm thường xuyên đối diện với những tin đồn trục trặc trong hôn nhân vì ít khi cùng nhau xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:21:00+07:00",
+      "fetched": "2025-12-05T11:27:31.382438+07:00"
+    },
+    {
+      "id": "3e3753a1dfee9014f48b8b7cafe0d6ad",
+      "title": "Bé gái 3 lần cắt mái tóc dài: 'Tặng tóc cho bạn, giờ con có ngoại hình mới!’",
+      "link": "https://thanhnien.vn/be-gai-3-lan-cat-mai-toc-dai-tang-toc-cho-ban-gio-con-co-ngoai-hinh-moi-185251028082409407.htm",
+      "summary": "Chứng kiến người thân mắc ung thư, chị Thanh Trúc cùng con gái nhiều lần hiến tóc để tiếp thêm niềm tin, giúp bệnh nhi ung thư tự tin hơn trên hành trình chiến đấu với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:20:00+07:00",
+      "fetched": "2025-12-05T11:27:31.382597+07:00"
+    },
+    {
+      "id": "c8db9e6bde6cf737ca32462679acb91e",
+      "title": "Dùng săm ôtô làm phao cứu vườn thanh long trong lũ",
+      "link": "https://vnexpress.net/dung-sam-oto-lam-phao-cuu-vuon-thanh-long-trong-lu-4990129.html",
+      "summary": "Lũ về đột ngột, anh Gia Quyền cùng 20 người tại huyện Hàm Thuận Nam ôm ruột xe tải, ngụp lặn trong dòng nước xiết để thu hoạch vớt vát vườn thanh long trái vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:15:06+07:00",
+      "fetched": "2025-12-05T11:27:28.437523+07:00"
+    },
+    {
+      "id": "c9b0633073703fdd2a3f59ffdac94666",
+      "title": "Cấm nhiều loại xe lên cầu Tân Thuận 1 từ ngày mai, người dân TP.HCM lưu ý",
+      "link": "https://thanhnien.vn/cam-nhieu-loai-xe-len-cau-tan-thuan-1-tu-ngay-mai-nguoi-dan-tphcm-luu-y-185251205111433176.htm",
+      "summary": "Sở Xây dựng TP.HCM thông báo cấm một số phương tiện lưu thông lên cầu Tân Thuận 1 từ ngày mai (6.12) nhằm đảm bảo an toàn giao thông khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:15:00+07:00",
+      "fetched": "2025-12-05T11:27:31.382753+07:00"
+    },
+    {
+      "id": "63afecc3650b9317015314d3065ee655",
+      "title": "Hàn Quốc dừng hoàn thuế cho khách nước ngoài phẫu thuật thẩm mỹ",
+      "link": "https://vnexpress.net/han-quoc-dung-hoan-thue-cho-khach-nuoc-ngoai-phau-thuat-tham-my-4989942.html",
+      "summary": "Chương trình hoàn thuế cho du khách nước ngoài làm đẹp tại Hàn Quốc sẽ khép lại vào cuối năm nay gần 10 năm, gây nhiều lo ngại cho ngành du lịch nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:12:27+07:00",
+      "fetched": "2025-12-05T11:27:28.438318+07:00"
+    },
+    {
+      "id": "ea108a156cad451d8978a858198db2cb",
+      "title": "Tòa trả hồ sơ vụ đốt quán khiến 11 người chết vì có 'tình tiết mới'",
+      "link": "https://vnexpress.net/toa-tra-ho-so-vu-dot-quan-khien-11-nguoi-chet-vi-co-tinh-tiet-moi-4990136.html",
+      "summary": "Trong lần mở lại phiên xét xử Cao Văn Hùng đốt quán khiến 11 người chết, do đại diện gia đình một bị hại xuất trình tình tiết mới về việc 'có người thuê đốt quán', tòa đã trả hồ sơ để yêu cầu điều tra bổ sung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:11:33+07:00",
+      "fetched": "2025-12-05T11:27:28.438494+07:00"
+    },
+    {
+      "id": "a671be58739ee1e4709bcbba14830b3e",
+      "title": "Ông Trump muốn mở đường cho kei-car của Nhật đến Mỹ",
+      "link": "https://vnexpress.net/ong-trump-muon-mo-duong-cho-kei-car-cua-nhat-den-my-4989969.html",
+      "summary": "Tổng thống Mỹ dường như rất thích những chiếc kei-car mà ông nhìn thấy trong chuyến công du gần đây tới Nhật Bản và đã nhanh chóng hành động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:10:50+07:00",
+      "fetched": "2025-12-05T11:27:28.438662+07:00"
+    },
+    {
+      "id": "601cb1d1758b203e95a49523058aa0f5",
+      "title": "Cầu Giấy quyết đấu Harmony tại chung kết Giải Bóng rổ trẻ VnExpress",
+      "link": "https://vnexpress.net/cau-giay-quyet-dau-harmony-chung-ket-bong-ro-tre-4990021.html",
+      "summary": "Tốc độ của THPT Cầu Giấy đối đầu kỷ luật của Vinschool The Harmony ở chung kết nam Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:10:00+07:00",
+      "fetched": "2025-12-05T11:27:28.438832+07:00"
+    },
+    {
+      "id": "7c11bcf2d7673155f196f25fab240759",
+      "title": "Nghệ sĩ cải lương Bình Tinh: Bây giờ tôi không có trăn trở, chỉ có lo sợ",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-binh-tinh-bay-gio-toi-khong-co-tran-tro-chi-co-lo-so-185251204153504228.htm",
+      "summary": "Là hậu duệ của gia tộc cải lương Huỳnh Long, NSƯT Bình Tinh thừa nhận cô gánh trên vai không ít áp lực trong việc giữ gìn bộ môn nghệ thuật truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:10:00+07:00",
+      "fetched": "2025-12-05T11:27:31.382904+07:00"
+    },
+    {
+      "id": "63aeeaf781a00748d23dedd8257039bf",
+      "title": "Anh, Na Uy lập liên minh truy tìm tàu ngầm Nga",
+      "link": "https://vnexpress.net/anh-na-uy-lap-lien-minh-truy-tim-tau-ngam-nga-4990042.html",
+      "summary": "Anh và Na Uy ký hiệp ước quốc phòng và sẽ thành lập hạm đội liên hợp để truy tìm tàu ngầm Nga tại Bắc Đại Tây Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:08:31+07:00",
+      "fetched": "2025-12-05T11:27:28.438992+07:00"
+    },
+    {
+      "id": "63aeeaf781a00748d23dedd8257039bf",
+      "title": "Anh, Na Uy lập liên minh truy tìm tàu ngầm Nga",
+      "link": "https://vnexpress.net/anh-na-uy-lap-lien-minh-truy-tim-tau-ngam-nga-4990042.html",
+      "summary": "Anh và Na Uy ký hiệp ước quốc phòng và sẽ thành lập hạm đội liên hợp để truy tìm tàu ngầm Nga tại Bắc Đại Tây Dương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T04:08:31+07:00",
+      "fetched": "2025-12-05T11:27:34.460980+07:00"
+    },
+    {
+      "id": "6af58e0d2f85011f83c917b5fe3be959",
+      "title": "Việt Nam - Malaysia: Bảo vệ vương quyền bóng đá nữ SEA Games",
+      "link": "https://vnexpress.net/viet-nam-malaysia-bao-ve-vuong-quyen-bong-da-nu-sea-games-4989998.html",
+      "summary": "Hôm nay, thầy trò HLV Mai Đức Chung bắt đầu hành trình bảo vệ chức vô địch SEA Games, bằng trận đấu với đối thủ trẻ nhất giải Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:08:20+07:00",
+      "fetched": "2025-12-05T11:27:28.439178+07:00"
+    },
+    {
+      "id": "6af58e0d2f85011f83c917b5fe3be959",
+      "title": "Việt Nam - Malaysia: Bảo vệ vương quyền bóng đá nữ SEA Games",
+      "link": "https://vnexpress.net/viet-nam-malaysia-bao-ve-vuong-quyen-bong-da-nu-sea-games-4989998.html",
+      "summary": "Hôm nay, thầy trò HLV Mai Đức Chung bắt đầu hành trình bảo vệ chức vô địch SEA Games, bằng trận đấu với đối thủ trẻ nhất giải Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T04:08:20+07:00",
+      "fetched": "2025-12-05T11:27:41.102487+07:00"
+    },
+    {
+      "id": "2cc7b4109318309d2b8e8c1043d1b066",
+      "title": "'Đồng hành chuyển xanh, đi xa cùng trách nhiệm' - Khi doanh nghiệp Việt cùng sẻ chia với cộng đồng",
+      "link": "https://thanhnien.vn/dong-hanh-chuyen-xanh-di-xa-cung-trach-nhiem-khi-doanh-nghiep-viet-cung-se-chia-voi-cong-dong-185251205111731875.htm",
+      "summary": "Trong bối cảnh kinh tế nhiều biến động, phát triển bền vững trở thành định hướng quan trọng của các doanh nghiệp Việt Nam. Nhà nước liên tục khuyến khích các doanh nghiệp chủ động đồng hành cùng cộng đồng, triển khai các chương trình xã hội và hướng tới những giá trị nhân văn. Trên tinh thần này, nh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:05:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383057+07:00"
+    },
+    {
+      "id": "351740500b4a807d935240efb6bdb8c9",
+      "title": "Tên trộm nuốt sợi dây chuyền quý vào bụng, cảnh sát chờ 7 ngày để thu lại",
+      "link": "https://thanhnien.vn/ten-trom-nuot-soi-day-chuyen-quy-vao-bung-canh-sat-cho-7-ngay-de-thu-lai-185251205105948998.htm",
+      "summary": "Cảnh sát New Zealand đã mất 7 ngày để chờ mặt dây chuyền đắt giá được đưa ra theo đường tự nhiên từ bụng của một tên trộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:03:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383224+07:00"
+    },
+    {
+      "id": "297b2ad8d22687b7f2a088d544f73718",
+      "title": "TP.HCM hoàn thiện cơ sở dữ liệu đất đai cho hơn 3,1 triệu thửa đất",
+      "link": "https://thanhnien.vn/tphcm-hoan-thien-co-so-du-lieu-dat-dai-cho-hon-31-trieu-thua-dat-185251205104039323.htm",
+      "summary": "Đến nay, TP.HCM đã hoàn thiện cơ sở dữ liệu đất đai đúng - đủ - sạch - sống cho 3,14 triệu thửa đất, trên tổng 3,83 triệu thửa đất (chiếm 82,02%).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:03:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383377+07:00"
+    },
+    {
+      "id": "0aa196f5622a597fad4081f6a60a8360",
+      "title": "Dịch bệnh gia súc cuối năm diễn biến thế nào?",
+      "link": "https://thanhnien.vn/dich-benh-gia-suc-cuoi-nam-dien-bien-the-nao-185251205090618588.htm",
+      "summary": "Bên cạnh thiệt hại do mưa bão, lũ dâng, ngành chăn nuôi vẫn đang đối mặt với dịch bệnh trên đàn gia súc gia cầm và dự báo diễn biến dịch bệnh vẫn có nguy cơ bùng phát trong thời điểm cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:02:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383525+07:00"
+    },
+    {
+      "id": "08dad3da977fedae1da19459cb827d2b",
+      "title": "Tỉnh nào một con gà gáy ba nước cùng nghe?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tinh-nao-mot-con-ga-gay-ba-nuoc-cung-nghe-4988603.html",
+      "summary": "Phía Tây của tỉnh này có ngã ba Đông Dương, nơi tiếp giáp ba nước Việt Nam – Lào – Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:00:00+07:00",
+      "fetched": "2025-12-05T11:27:28.439369+07:00"
+    },
+    {
+      "id": "29f53aab4ba1a205c0992fdfebf98b20",
+      "title": "Robot hỗ trợ bác sĩ can thiệp đột quỵ, kẹp túi phình cho bệnh nhân",
+      "link": "https://vnexpress.net/robot-ho-tro-bac-si-can-thiep-dot-quy-kep-tui-phinh-cho-benh-nhan-4990004.html",
+      "summary": "Ông An, 54 tuổi, huyết áp cao, đột ngột đau đầu dữ dội, nôn ói, liệt nửa người, lơ mơ, bác sĩ điều khiển robot phẫu thuật lấy khối máu tụ trong não, kẹp túi phình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:00:00+07:00",
+      "fetched": "2025-12-05T11:27:28.439527+07:00"
+    },
+    {
+      "id": "94bad52336c57bf38a95f1ad3a6d5a71",
+      "title": "Hẹp van tim do biến chứng bệnh thấp tim",
+      "link": "https://vnexpress.net/hep-van-tim-do-bien-chung-benh-thap-tim-4990000.html",
+      "summary": "Bà Nương, 61 tuổi, mắc bệnh thấp tim nhiều năm, gần đây được chẩn đoán hẹp khít van hai lá, van động mạch chủ kèm vôi hóa nặng gây giãn buồng tim và rung nhĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:00:00+07:00",
+      "fetched": "2025-12-05T11:27:28.439690+07:00"
+    },
+    {
+      "id": "cd97078cc469cba1938d78a7d77e4db1",
+      "title": "Xem nhanh 12h: Cháy kinh hoàng 4 người tử vong ở TP.HCM | 3 giả thuyết giun đất chết khô",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-chay-kinh-hoang-4-nguoi-tu-vong-o-tphcm-3-gia-thuyet-giun-dat-chet-kho-185251205102910232.htm",
+      "summary": "Cháy ở TP.HCM, giả thuyết giun đất chết khô, tin tức thời tiết… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 5.12.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T04:00:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383678+07:00"
+    },
+    {
+      "id": "07e206d5066d5098855c5b7789ae8280",
+      "title": "Hiến kế đột phá chuyển đổi số trong công tác Đoàn",
+      "link": "https://thanhnien.vn/hien-ke-dot-pha-chuyen-doi-so-trong-cong-tac-doan-185251205100620876.htm",
+      "summary": "Tại Đại hội đại biểu Đoàn TNCS Hồ Chí Minh Cơ quan T.Ư Đoàn lần thứ XXV, nhiệm kỳ 2025 - 2030, nhiều đại biểu đã hiến kế đột phá chuyển đổi số trong công tác Đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:58:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383829+07:00"
+    },
+    {
+      "id": "c1f8990e1efccc1326af58806d7eace8",
+      "title": "Cuộc giằng co trên mái nhà giữa đặc vụ ICE và người nhập cư",
+      "link": "https://vnexpress.net/cuoc-giang-co-tren-mai-nha-giua-dac-vu-ice-va-nguoi-nhap-cu-4990050.html",
+      "summary": "Các đặc vụ ICE chĩa súng, vây bắt nhóm thợ nhập cư đang sửa mái nhà, gây tranh cãi về hệ lụy từ chiến dịch truy quét mới ở New Orleans.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:55:12+07:00",
+      "fetched": "2025-12-05T11:27:28.439841+07:00"
+    },
+    {
+      "id": "c1f8990e1efccc1326af58806d7eace8",
+      "title": "Cuộc giằng co trên mái nhà giữa đặc vụ ICE và người nhập cư",
+      "link": "https://vnexpress.net/cuoc-giang-co-tren-mai-nha-giua-dac-vu-ice-va-nguoi-nhap-cu-4990050.html",
+      "summary": "Các đặc vụ ICE chĩa súng, vây bắt nhóm thợ nhập cư đang sửa mái nhà, gây tranh cãi về hệ lụy từ chiến dịch truy quét mới ở New Orleans.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T03:55:12+07:00",
+      "fetched": "2025-12-05T11:27:34.461189+07:00"
+    },
+    {
+      "id": "c0726e1a36364aed569f7dfb3a08d4be",
+      "title": "Ông Trump dự bốc thăm World Cup 2026: Lần thứ 6 cho Messi và Ronaldo, FIFA có bị kiện?",
+      "link": "https://thanhnien.vn/ong-trump-du-boc-tham-world-cup-2026-lan-thu-6-cho-messi-va-ronaldo-fifa-co-bi-kien-185251205103939185.htm",
+      "summary": "0 giờ ngày 6.12 (giờ Việt Nam), lễ bốc thăm chia bảng VCK World Cup 2026 diễn ra tại Trung tâm Kennedy ở Washington D.C. (Mỹ) với sự hiện diện của Tổng thống Donald Trump. Người hâm mộ xem trực tiếp trên FIFA.com.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:53:00+07:00",
+      "fetched": "2025-12-05T11:27:31.383975+07:00"
+    },
+    {
+      "id": "e28da31498077978d76ece196dc2600f",
+      "title": "BS Tô Lan Phương: Đại diện Việt Nam tỏa sáng tại Hội nghị BTL quốc tế 2025",
+      "link": "https://thanhnien.vn/bs-to-lan-phuong-dai-dien-viet-nam-toa-sang-tai-hoi-nghi-btl-quoc-te-2025-185251205110428218.htm",
+      "summary": "Ngày 30.11, Hội nghị Khoa học - thẩm mỹ quốc tế BTL Regional Summit & Award Gala 2025 đã chính thức diễn ra, quy tụ hơn 300 bác sĩ, chuyên gia và diễn giả từ khắp khu vực châu Á - Thái Bình Dương. Đây được xem là một trong những sự kiện thường niên có quy mô lớn của BTL, nơi cập nhật công nghệ tiên ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:50:00+07:00",
+      "fetched": "2025-12-05T11:27:31.384131+07:00"
+    },
+    {
+      "id": "155092fe32900be92e3f3bcdff180fea",
+      "title": "Thời thiếu nữ của 'Võ Tắc Thiên' Lưu Hiểu Khánh",
+      "link": "https://vnexpress.net/thoi-thieu-nu-cua-vo-tac-thien-luu-hieu-khanh-4990086.html",
+      "summary": "Diễn viên Trung Quốc Lưu Hiểu Khánh nói xúc động khi gặp ảnh bà thời vô tư, hồn nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:49:12+07:00",
+      "fetched": "2025-12-05T11:27:28.439988+07:00"
+    },
+    {
+      "id": "01e1710d090de9ac9c83e36fe952582e",
+      "title": "Nhiều loại xe bị cấm qua cầu 120 năm tuổi ở TP HCM",
+      "link": "https://vnexpress.net/nhieu-loai-xe-bi-cam-qua-cau-120-nam-tuoi-o-tp-hcm-4990091.html",
+      "summary": "Ôtô chở hàng trên 1,5 tấn, xe khách từ 16 chỗ và phương tiện cao trên 2,5 m bị cấm qua cầu Tân Thuận 1 - nối với đường Nguyễn Tất Thành từ ngày 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:48:21+07:00",
+      "fetched": "2025-12-05T11:27:28.440142+07:00"
+    },
+    {
+      "id": "0178c7c9386e578b41099e6906ddb61f",
+      "title": "'Mẹ chồng không bỏ đồng nào khi chồng tôi thập tử nhất sinh'",
+      "link": "https://vnexpress.net/me-chong-cham-chau-me-chong-vo-tam-me-chong-khong-bo-dong-nao-khi-chong-toi-thap-tu-nhat-sinh-4989195.html",
+      "summary": "'Tôi hết lòng chăm sóc chạy chữa còn nhà chồng có tiền vàng nhưng mẹ chồng không dám bỏ ra vì sợ sau này tôi không trả bà được'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:47:41+07:00",
+      "fetched": "2025-12-05T11:27:28.440329+07:00"
+    },
+    {
+      "id": "7960cab08f3a3d4795eb7257f0c31795",
+      "title": "Học sinh Việt Nam dẫn đầu Đông Nam Á về điểm toán và năng lực đọc hiểu",
+      "link": "https://thanhnien.vn/hoc-sinh-viet-nam-dan-dau-dong-nam-a-ve-diem-toan-va-nang-luc-doc-hieu-185251205094545205.htm",
+      "summary": "Học sinh tiểu học Việt Nam đạt điểm cao nhất ở lĩnh vực toán và năng lực đọc hiểu, theo công bố mới nhất của Ban Thư ký Bộ trưởng Giáo dục ASEAN (SEAMEO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:46:00+07:00",
+      "fetched": "2025-12-05T11:27:31.384304+07:00"
+    },
+    {
+      "id": "b3e3fdc3e3ec348c6574ca0498b1cf16",
+      "title": "Apple Watch sẽ hỗ trợ cảnh báo lũ lụt theo thời gian thực",
+      "link": "https://thanhnien.vn/apple-watch-se-ho-tro-canh-bao-lu-lut-theo-thoi-gian-thuc-185251205102249426.htm",
+      "summary": "Apple vừa công bố phiên bản ứng viên watchOS 26.2, bản nâng cấp tiếp theo cho Apple Watch, với tính năng Enhanced Safety Alerts.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:43:00+07:00",
+      "fetched": "2025-12-05T11:27:31.384454+07:00"
+    },
+    {
+      "id": "fa9e6938eff254c9bc63bf1a434d517f",
+      "title": "Sai lầm khiến chiến hạm Mỹ bắn rơi tiêm kích đồng đội năm 2024",
+      "link": "https://vnexpress.net/sai-lam-khien-chien-ham-my-ban-roi-tiem-kich-dong-doi-nam-2024-4989987.html",
+      "summary": "Mỹ công bố kết quả điều tra vụ USS Gettysburg bắn nhầm tiêm kích F/A-18F ở Biển Đỏ năm ngoái, cho thấy nguyên nhân hàng đầu là nhận nhầm mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T03:40:18+07:00",
+      "fetched": "2025-12-05T11:27:28.440486+07:00"
+    },
+    {
+      "id": "fa9e6938eff254c9bc63bf1a434d517f",
+      "title": "Sai lầm khiến chiến hạm Mỹ bắn rơi tiêm kích đồng đội năm 2024",
+      "link": "https://vnexpress.net/sai-lam-khien-chien-ham-my-ban-roi-tiem-kich-dong-doi-nam-2024-4989987.html",
+      "summary": "Mỹ công bố kết quả điều tra vụ USS Gettysburg bắn nhầm tiêm kích F/A-18F ở Biển Đỏ năm ngoái, cho thấy nguyên nhân hàng đầu là nhận nhầm mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T03:40:18+07:00",
+      "fetched": "2025-12-05T11:27:34.461361+07:00"
+    },
+    {
+      "id": "d617212f43186c7328f3daa32e6b55ae",
+      "title": "Mỹ nhân quần vợt chuyển nghề người mẫu đồ lót",
+      "link": "https://vnexpress.net/my-nhan-quan-vot-chuyen-nghe-nguoi-mau-do-lot-4989870.html",
+      "summary": "Từng là tay vợt số 26 thế giới, Camila Giorgi bỏ ngang sự nghiệp để rẽ vào con đường giải trí nhằm tận dụng lợi thế ngoại hình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T03:34:44+07:00",
+      "fetched": "2025-12-05T11:27:41.103333+07:00"
+    },
+    {
       "id": "7401c48c1a4ff37cd5da7882562adb70",
       "title": "Báo New York Times danh tiếng bị chỉ trích đưa tin giả về ông Trump",
       "link": "https://tuoitre.vn/bao-new-york-times-danh-tieng-bi-chi-trich-dua-tin-gia-ve-ong-trump-20251204230936673.htm",
@@ -351,6 +701,16 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T03:13:00+07:00",
       "fetched": "2025-12-05T10:16:28.445072+07:00"
+    },
+    {
+      "id": "3f30413f809d86b889b463b8d2843423",
+      "title": "Amorim: 'Man Utd không đi lùi, chỉ quá thiếu ổn định'",
+      "link": "https://vnexpress.net/amorim-man-utd-khong-di-lui-chi-qua-thieu-on-dinh-4990015.html",
+      "summary": "HLV Ruben Amorim cho rằng việc trượt dốc trong hiệp hai đang dần trở thành thói quen đáng lo, sau khi Man Utd hòa West Ham 1-1 ở vòng 14 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T03:09:38+07:00",
+      "fetched": "2025-12-05T11:27:41.103488+07:00"
     },
     {
       "id": "fc742f32bd2b0a725a7696da8132087a",
@@ -411,6 +771,16 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T03:01:55+07:00",
       "fetched": "2025-12-05T10:16:24.840234+07:00"
+    },
+    {
+      "id": "84a2fecf9e63adf34c56cea37f0418a5",
+      "title": "iPhone 17 Pro bị cắt tính năng chụp đêm ở chế độ chân dung",
+      "link": "https://vnexpress.net/iphone-17-pro-bi-cat-tinh-nang-chup-dem-o-che-do-chan-dung-4989952.html",
+      "summary": "iPhone 17 Pro và 17 Pro Max không thể kích hoạt chế độ chụp đêm khi đang ở chế độ chân dung, tính năng vốn có mặt trên dòng Pro từ năm 2020.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-05T03:01:55+07:00",
+      "fetched": "2025-12-05T11:27:39.167874+07:00"
     },
     {
       "id": "92c6ea5094518e127a14d519dd311b6a",
@@ -1233,6 +1603,16 @@ window.newsData_2025_12_05 = {
       "fetched": "2025-12-05T08:21:26.027215+07:00"
     },
     {
+      "id": "83a869b2b1562153d13abf48ae26049c",
+      "title": "Cựu danh thủ Liverpool: 'Giờ không thể bênh vực Van Dijk'",
+      "link": "https://vnexpress.net/cuu-danh-thu-liverpool-gio-khong-the-benh-vuc-van-dijk-4989935.html",
+      "summary": "Cựu danh thủ Steve Nicol cho rằng trung vệ Virgil van Dijk không làm tròn vai đội trưởng, phải chịu trách nhiệm lớn trong trận Liverpool hòa Sunderland 1-1 ở vòng 14 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-04T23:08:50+07:00",
+      "fetched": "2025-12-05T11:27:41.103953+07:00"
+    },
+    {
       "id": "e82c23b77dbfcc6cda7957a9bf538216",
       "title": "Cựu danh thủ Arsenal lo Arteta rời đội nếu đoạt danh hiệu mùa này",
       "link": "https://vnexpress.net/cuu-danh-thu-arsenal-lo-arteta-roi-doi-neu-doat-danh-hieu-mua-nay-4989940.html",
@@ -1271,6 +1651,16 @@ window.newsData_2025_12_05 = {
       "category": "Thể thao",
       "published": "2025-12-04T22:59:45+07:00",
       "fetched": "2025-12-05T08:21:26.026867+07:00"
+    },
+    {
+      "id": "c6e082bc75433036877a7b2b6f6f0522",
+      "title": "Man Utd rơi điểm trước đội 'cầm đèn đỏ' ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-roi-diem-truoc-doi-cam-den-do-o-ngoai-hang-anh-4989962.html",
+      "summary": "Man Utd lỡ cơ hội leo lên Top 5 Ngoại hạng Anh, khi bị đội khách West Ham cầm hòa 1-1 ở trận muộn vòng 14.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-04T22:59:45+07:00",
+      "fetched": "2025-12-05T11:27:41.103170+07:00"
     },
     {
       "id": "d0df2b67633952cdbf1c74de5a6addf3",
