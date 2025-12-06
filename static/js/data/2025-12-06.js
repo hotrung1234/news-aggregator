@@ -1,7 +1,157 @@
 window.newsData_2025_12_06 = {
   "date": "2025-12-06",
-  "lastUpdated": "2025-12-06T15:21:34.382498+07:00",
+  "lastUpdated": "2025-12-06T17:17:18.612816+07:00",
   "articles": [
+    {
+      "id": "7ca45031d41f9e2e97a9dd8d4f39e4f5",
+      "title": "Để người Nhật cảm nhận phở như một phần tâm hồn Việt",
+      "link": "https://tuoitre.vn/de-nguoi-nhat-cam-nhan-pho-nhu-mot-phan-tam-hon-viet-20251206030456958.htm",
+      "summary": "Là đơn vị đồng hành cùng chương trình Ngày của Phở trong suốt 9 năm qua, ông Shimamura Masafumi - Giám đốc khối marketing, Công ty cổ phần Acecook Việt Nam - cho rằng điều trân trọng nhất ở phở Việt là sự hài hòa và tinh tế trong từng bát nước dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:11.141338+07:00",
+      "fetched": "2025-12-06T17:17:11.141453+07:00"
+    },
+    {
+      "id": "7151a17f1f454640425d30061841a661",
+      "title": "Trường nghề không nên ký với hàng trăm doanh nghiệp rồi… không làm gì",
+      "link": "https://tuoitre.vn/truong-nghe-khong-nen-ky-voi-hang-tram-doanh-nghiep-roi-khong-lam-gi-20251206124109583.htm",
+      "summary": "Các chuyên gia cho rằng trường nghề cần kết nối sâu rộng với doanh nghiệp, chứ không chỉ dừng lại ở… ký kết văn bản rồi thôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:11.141200+07:00",
+      "fetched": "2025-12-06T17:17:11.141326+07:00"
+    },
+    {
+      "id": "921743d78e68168caea6f23140481e78",
+      "title": "Các học giả bị ngụy tạo bằng deepfake để quảng cáo thực phẩm bổ sung trên TikTok, Instagram",
+      "link": "https://tuoitre.vn/cac-hoc-gia-bi-nguy-tao-bang-deepfake-de-quang-cao-thuc-pham-bo-sung-tren-tiktok-instagram-20251206121009343.htm",
+      "summary": "Nhiều bác sĩ, giáo sư và chuyên gia y tế bị sử dụng hình ảnh trái phép để tạo video deepfake nhằm quảng cáo thực phẩm bổ sung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:11.141040+07:00",
+      "fetched": "2025-12-06T17:17:11.141187+07:00"
+    },
+    {
+      "id": "a66c5151f5786fe77f0865f2f65ee2a6",
+      "title": "Nhật Bản tính tăng quy định thời gian cư trú tối thiểu với người xin nhập tịch",
+      "link": "https://tuoitre.vn/nhat-ban-tinh-tang-quy-dinh-thoi-gian-cu-tru-toi-thieu-voi-nguoi-xin-nhap-tich-20251206140103111.htm",
+      "summary": "Nhật Bản đang xem xét nâng thời gian cư trú tối thiểu để người nước ngoài được xin nhập tịch từ 5 năm lên 10 năm, nhằm thống nhất với yêu cầu thường trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:11.140897+07:00",
+      "fetched": "2025-12-06T17:17:11.141023+07:00"
+    },
+    {
+      "id": "b2ef143a68f4ecc8cb596e81838d28db",
+      "title": "Honda Vario 125 2026 ra mắt: Thêm bản 'bụi' với tay lái độc đáo, chưa có ABS",
+      "link": "https://tuoitre.vn/honda-vario-125-2026-ra-mat-them-ban-bui-voi-tay-lai-doc-dao-chua-co-abs-20251206104938185.htm",
+      "summary": "Việc bổ sung phiên bản ghi đông trần giúp dòng Honda Vario 125 mở rộng lựa chọn cho khách hàng, đồng thời tăng sức cạnh tranh trong phân khúc xe tay ga thể thao cỡ nhỏ. Mẫu xe này được kỳ vọng sớm phân phối tại Việt Nam trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:11.140530+07:00",
+      "fetched": "2025-12-06T17:17:11.140884+07:00"
+    },
+    {
+      "id": "81e61c3c87a3e74cc00a2395a1b31550",
+      "title": "Hơn hai năm, nhập khẩu gần 14,8 triệu xuất bản phẩm, xuất khẩu chỉ hơn 1 triệu",
+      "link": "https://tuoitre.vn/hon-hai-nam-nhap-khau-gan-14-8-trieu-xuat-ban-pham-xuat-khau-chi-hon-1-trieu-202512060936447.htm",
+      "summary": "Cuốn tiểu thuyết Hương của tác giả Nguyễn Thụy Kha, NXB Chính trị quốc gia Sự thật bán 1.000 cuốn ở Mỹ - Ảnh: T.ĐIỂU",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532719+07:00",
+      "fetched": "2025-12-06T17:17:11.140498+07:00"
+    },
+    {
+      "id": "9b6f0030cd817c2a222b4b9ec941b9eb",
+      "title": "Khánh Hòa tiếp tục ban bố tình trạng khẩn cấp để khắc phục 8 tuyến đường huyết mạch",
+      "link": "https://tuoitre.vn/khanh-hoa-tiep-tuc-ban-bo-tinh-trang-khan-cap-de-khac-phuc-8-tuyen-duong-huyet-mach-20251206142424848.htm",
+      "summary": "Mưa lũ dồn dập khiến nhiều tuyến đường trọng yếu ở Khánh Hòa hư hỏng nặng, xuất hiện các điểm sạt lở đe dọa an toàn người đi đường. Tỉnh Khánh Hòa đã kích hoạt tình huống khẩn cấp (đợt 2) để khắc phục, đảm bảo giao thông thông suốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532593+07:00",
+      "fetched": "2025-12-06T17:17:09.532704+07:00"
+    },
+    {
+      "id": "1dd7aa842a81734f1338c6326d6104d4",
+      "title": "Chính phủ nêu lý do đề xuất giao chủ tịch cấp xã điều động, thuyên chuyển giáo viên",
+      "link": "https://tuoitre.vn/chinh-phu-neu-ly-do-de-xuat-giao-chu-tich-cap-xa-dieu-dong-thuyen-chuyen-giao-vien-20251206143152828.htm",
+      "summary": "Chính phủ nêu rõ việc giao chủ tịch UBND cấp xã được điều động, thuyên chuyển nhân lực ngành giáo dục trong phạm vi thẩm quyền quản lý sẽ đảm bảo tính linh hoạt, phù hợp trong công tác quản lý trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532468+07:00",
+      "fetched": "2025-12-06T17:17:09.532581+07:00"
+    },
+    {
+      "id": "a932b04b0bfa140ccc32cfae5a431264",
+      "title": "Huế thần tốc dựng lại nhà cho dân vùng mưa lũ",
+      "link": "https://tuoitre.vn/hue-than-toc-dung-lai-nha-cho-dan-vung-mua-lu-20251206142834979.htm",
+      "summary": "TP Huế đã phát động Chiến dịch Quang Trung thần tốc dựng lại nhà cho người dân bị ảnh hưởng bởi trận mưa lũ lịch sử vừa qua, với mục tiêu hoàn thành trước Tết Nguyên đán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532342+07:00",
+      "fetched": "2025-12-06T17:17:09.532456+07:00"
+    },
+    {
+      "id": "8e9b0bc0a8522c8c8bed044e8bf0517c",
+      "title": "Phòng khám Doctor Check được trao chứng nhận nội soi xuất sắc từ Hoa Kỳ",
+      "link": "https://tuoitre.vn/phong-kham-doctor-check-duoc-trao-chung-nhan-noi-soi-xuat-sac-tu-hoa-ky-20251205184459025.htm",
+      "summary": "Ngày 30-11-2025, đại diện Tổ chức Kiểm định Y tế AACI (Hoa Kỳ) chính thức trao Chứng nhận Lâm sàng Xuất sắc cho dịch vụ Nội soi cho Phòng khám Đa khoa Doctor Check.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532205+07:00",
+      "fetched": "2025-12-06T17:17:09.532331+07:00"
+    },
+    {
+      "id": "39a8ba5592bd587710e93db975ea125a",
+      "title": "Thủ tướng Ấn Độ tặng nhiều món quà đặc biệt cho Tổng thống Putin",
+      "link": "https://tuoitre.vn/thu-tuong-an-do-tang-nhieu-mon-qua-dac-biet-cho-tong-thong-putin-20251206150245667.htm",
+      "summary": "Trà Assam, saffron Kashmir và các sản phẩm thủ công từ bạc đã được Thủ tướng Ấn Độ tặng Tổng thống Putin, nhân chuyến thăm của nhà lãnh đạo Nga đến New Delhi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.532039+07:00",
+      "fetched": "2025-12-06T17:17:09.532188+07:00"
+    },
+    {
+      "id": "252e4aad7507425a80109ee011794495",
+      "title": "Giới trẻ chọn '4 không': Cần có trách nhiệm chung khi sống giữa cộng đồng",
+      "link": "https://tuoitre.vn/gioi-tre-chon-4-khong-can-co-trach-nhiem-chung-khi-song-giua-cong-dong-20251206150418723.htm",
+      "summary": "Ý kiến của bạn đọc H.Giang rằng: \"Tôi vui khi sống cuộc đời mình, miễn không vi phạm pháp luật hay trái thuần phong mỹ tục là được\" tiếp tục tạo tranh luận về câu chuyện giới trẻ \"4 không\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.531904+07:00",
+      "fetched": "2025-12-06T17:17:09.532025+07:00"
+    },
+    {
+      "id": "0a09344c01cfc9d49c4aaf44d6f8a26a",
+      "title": "Trực tuyến U22 Malaysia - U22 Lào (16h): 'Nhiệm vụ bất khả thi' của U22 Lào?",
+      "link": "https://tuoitre.vn/truc-tuyen-u22-malaysia-u22-lao-16h-nhiem-vu-bat-kha-thi-cua-u22-lao-20251206100841569.htm",
+      "summary": "U22 Lào bắt buộc phải giành chiến thắng trước U22 Malaysia vào chiều nay 6-12, mới có thể nuôi hy vọng giành vé góp mặt ở vòng bán kết môn bóng đá nam SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.531771+07:00",
+      "fetched": "2025-12-06T17:17:09.531892+07:00"
+    },
+    {
+      "id": "dbf657f1d8043da871dc1c833ad73a04",
+      "title": "Chủ nhân giải thưởng VinFuture 2025: Người trẻ hãy kiên cường với những ý tưởng 'vô lý'",
+      "link": "https://tuoitre.vn/chu-nhan-giai-thuong-vinfuture-2025-nguoi-tre-hay-kien-cuong-voi-nhung-y-tuong-vo-ly-20251206110234112.htm",
+      "summary": "Nhiều chủ nhân Giải thưởng Khoa học Công nghệ VinFuture 2025 cho biết mỗi khi họ có một ý tưởng nghiên cứu mới nào đó, sẽ có rất nhiều người nhìn vào và đặt sự hoài nghi, thậm chí phán xét đây là ý tưởng rất vô lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.531615+07:00",
+      "fetched": "2025-12-06T17:17:09.531757+07:00"
+    },
+    {
+      "id": "906bd4304b9dc0610585f89b70877be2",
+      "title": "Áp thấp nhiệt đới ở phía đông Philippines có khả năng vào Biển Đông",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-o-phia-dong-philippines-co-kha-nang-vao-bien-dong-20251206151343009.htm",
+      "summary": "Dự báo khoảng ngày 8-12, áp thấp nhiệt đới ở phía đông Philippines đi vào Biển Đông và hướng về phía bắc quần đảo Trường Sa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T17:17:09.531327+07:00",
+      "fetched": "2025-12-06T17:17:09.531598+07:00"
+    },
     {
       "id": "b2284b0102c212b7ab0364881d593bfe",
       "title": "Hải Linh: 'Tuyển nữ Việt Nam đã có đấu pháp trước dàn sao nhập tịch của Philippines'",
@@ -303,6 +453,16 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T13:24:15.215727+07:00"
     },
     {
+      "id": "b02eda0f821cc25ac986dc5c0632f477",
+      "title": "Bàn về văn hóa, ngoại giao trà",
+      "link": "https://thanhnien.vn/ban-ve-van-hoa-ngoai-giao-tra-185251206160921517.htm",
+      "summary": "Nằm trong khuôn khổ Lễ hội trà quốc tế - World Tea Fest 2025, tọa đàm Tea Summit 2025 bàn về văn hóa, kinh tế, ngoại giao trà vừa diễn ra hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:12:00+07:00",
+      "fetched": "2025-12-06T17:17:08.503776+07:00"
+    },
+    {
       "id": "b37be6068601765d3e76af8e36412478",
       "title": "Chính phủ phản hồi đề xuất đánh thuế thu nhập cá nhân với chuyển nhượng vàng miếng",
       "link": "https://tuoitre.vn/chinh-phu-phan-hoi-de-xuat-danh-thue-thu-nhap-ca-nhan-voi-chuyen-nhuong-vang-mieng-20251206082421453.htm",
@@ -451,6 +611,326 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T10:07:08.541365+07:00",
       "fetched": "2025-12-06T10:07:08.541576+07:00"
+    },
+    {
+      "id": "0c40072f7762a79f2cd7fb09993433bb",
+      "title": "Huế: 'Chiến dịch Quang Trung' thần tốc xây lại 5 nhà, sửa chữa 9 nhà hư hỏng",
+      "link": "https://thanhnien.vn/hue-chien-dich-quang-trung-than-toc-xay-lai-5-nha-sua-chua-9-nha-hu-hong-185251206150437098.htm",
+      "summary": "Thành phố Huế khởi công “Chiến dịch Quang Trung”, thần tốc xây dựng lại, sửa chữa nhà ở cho các gia đình có nhà bị thiệt hại do các đợt thiên tai vừa qua tại các tỉnh miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:06:00+07:00",
+      "fetched": "2025-12-06T17:17:08.503941+07:00"
+    },
+    {
+      "id": "57e23dbfeef5c693c51f2e6f478d1587",
+      "title": "'Tử chiến trên không' gây ấn tượng khi trình chiếu ở Pháp",
+      "link": "https://thanhnien.vn/tu-chien-tren-khong-gay-an-tuong-khi-trinh-chieu-o-phap-185251206163713796.htm",
+      "summary": "Kaity Nguyễn, Bảo Định bày tỏ niềm vui khi phim 'Tử chiến trên không' được trình chiếu trong sự kiện khai mạc 'Tuần lễ điện ảnh Việt Nam - Hành trình ánh sáng' tại Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:03:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504129+07:00"
+    },
+    {
+      "id": "215ec7c954cb44a1884f02a8c41548cd",
+      "title": "Honda Wave 125i 'Made in Thailand' bản sản xuất giới hạn 500 xe về Việt Nam",
+      "link": "https://thanhnien.vn/honda-wave-125i-made-in-thailand-ban-san-xuat-gioi-han-500-xe-ve-viet-nam-185251204211821913.htm",
+      "summary": "Phiên bản đặc biệt Honda Wave 125R sản xuất tại Thái Lan với số lượng giới hạn 500 xe, thay đổi một số nét về diện mạo, thêm trang bị tính năng mới đồng thời sử dụng phuộc sau \"xịn\" hơn… vừa bất ngờ xuất hiện tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:03:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504323+07:00"
+    },
+    {
+      "id": "b59f8a69704ac1530939a70c8363a552",
+      "title": "4 điểm mới trên Honda Vario 125 bản nâng cấp 2026 so với mẫu cũ",
+      "link": "https://thanhnien.vn/4-diem-moi-tren-honda-vario-125-ban-nang-cap-2026-so-voi-mau-cu-185251202151125038.htm",
+      "summary": "Không chỉ thay đổi kiểu dáng thiết kế theo hướng thể thao, hiện đại hơn; bản nâng cấp Honda Vario 125 2026 còn được hãng xe Nhật Bản tinh chỉnh lại bộ tản nhiệt, bổ sung trang bị đồng thời cung cấp thêm lựa chọn mới với bản Street.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:02:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504479+07:00"
+    },
+    {
+      "id": "d3fb88f3afed94a0b6a57c6e2b50942f",
+      "title": "Tập huấn STEM Robotics cho 300 học sinh, giáo viên ở Đồng Nai",
+      "link": "https://thanhnien.vn/tap-huan-stem-robotics-cho-300-hoc-sinh-giao-vien-o-dong-nai-185251206162534469.htm",
+      "summary": "250  học sinh cùng 50 giáo viên đến các trường tiểu học, trung học cơ sở trên địa tỉnh Đồng Nai được tập huấn STEM Robotics.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:01:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504628+07:00"
+    },
+    {
+      "id": "e9c2d01a4fc097b5cfd7752538403eb3",
+      "title": "Bộ 3 giải pháp chủ động phòng ngừa HPV",
+      "link": "https://vnexpress.net/bo-3-giai-phap-chu-dong-phong-ngua-hpv-4990622.html",
+      "summary": "WHO khuyến nghị tiêm vắc xin, tầm soát định kỳ và theo dõi kịp thời là ba trụ cột phòng ngừa HPV, giúp giảm gánh nặng ung thư cổ tử cung tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.861559+07:00"
+    },
+    {
+      "id": "587f0a7a168adbd85072b4df173c8a22",
+      "title": "Faker và T1 đến Việt Nam cuối tháng 12",
+      "link": "https://vnexpress.net/faker-t1-giao-luu-ha-noi-4990583.html",
+      "summary": "Tượng đài Esports Faker cùng đội T1 sẽ hội ngộ người hâm mộ Việt Nam trong sự kiện \"Esports Festival: Legends Unite\" do VPBank tổ chức tại Hà Nội, ngày 20-21/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.861737+07:00"
+    },
+    {
+      "id": "2ac490797e48984837c1664638c0a545",
+      "title": "Pickleball D-Joy Vietnam Masters - Petrolimex Cup: Đỉnh cao Pickleball Việt Nam",
+      "link": "https://thanhnien.vn/pickleball-d-joy-vietnam-masters-petrolimex-cup-dinh-cao-pickleball-viet-nam-185251206163632721.htm",
+      "summary": "Sau 6 ngày tranh tài mãn nhãn (25-30.11.2025), giải Pickleball D-Joy Vietnam Masters - Petrolimex Cup đã khép lại, đánh dấu chặng đấu đỉnh cao của mùa giải Pickleball D-Joy Tour 2025 và vinh danh những vận động viên xuất sắc nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:00:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504777+07:00"
+    },
+    {
+      "id": "1d8300c5bbe33e9e6efdd3d138bfb520",
+      "title": "Toàn cảnh 17h: Bên trong hiện trường vụ cháy kinh hoàng | Nghịch lý tại công viên chục tỉ",
+      "link": "https://thanhnien.vn/toan-canh-17h-ben-trong-hien-truong-vu-chay-kinh-hoang-nghich-ly-tai-cong-vien-chuc-ti-18525120616032941.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T10:00:00+07:00",
+      "fetched": "2025-12-06T17:17:08.504930+07:00"
+    },
+    {
+      "id": "418954732ed841101d542374a4956c1e",
+      "title": "Quảng Trị: Trong đêm ứng cứu ngư dân gặp nạn chìm tàu trên biển",
+      "link": "https://thanhnien.vn/quang-tri-trong-dem-ung-cuu-ngu-dan-gap-nan-chim-tau-tren-bien-185251206101113512.htm",
+      "summary": "Đồn Biên phòng Cửa khẩu Cảng Gianh trong đêm 5.12, đã kịp thời phối hợp với người dân hỗ trợ cứu nạn hai ngư dân bị chìm thuyền trong lúc thả lưới đánh bắt hải sản ở cửa Gianh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:57:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505085+07:00"
+    },
+    {
+      "id": "2e031885a789d3717672f87d7714d951",
+      "title": "Nghịch lý 46 tỉ đồng ở Công viên Láng Le: Sửa xong vẫn… ít người dùng?",
+      "link": "https://thanhnien.vn/nghich-ly-46-ti-dong-o-cong-vien-lang-le-sua-xong-van-it-nguoi-dung-185251206163114977.htm",
+      "summary": "Dù được đầu tư hơn 46 tỷ đồng để sửa chữa, nâng cấp với kỳ vọng thu hút khách tham quan và thúc đẩy sinh hoạt cộng đồng, nhưng Công viên Văn hóa Láng Le (TP.HCM) vẫn rơi vào cảnh vắng vẻ, thiếu tiện ích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:56:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505268+07:00"
+    },
+    {
+      "id": "26b591e2f19e421cb03086222b7c1816",
+      "title": "Đường Lê Lợi chuẩn bị 'thay áo' trước thềm năm mới",
+      "link": "https://thanhnien.vn/duong-le-loi-chuan-bi-thay-ao-truoc-them-nam-moi-18525120616271931.htm",
+      "summary": "Từ ngày 5.12, TP.HCM đã bát đầu thì công, chỉnh trang con đường Lê Lợi tại P.Bến Thành, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:54:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505415+07:00"
+    },
+    {
+      "id": "f44432d3ac973635783557da256e7b3a",
+      "title": "Điểm tin 17h: Áp thấp nhiệt đới gần Biển Đông | Tuổi nghỉ hưu tăng, điều kiện hưởng lương hưu thay đổi từ 2026",
+      "link": "https://vnexpress.net/diem-tin-17h-ap-thap-nhiet-doi-gan-bien-dong-tuoi-nghi-huu-tang-dieu-kien-huong-luong-huu-thay-doi-tu-2026-4990625.html",
+      "summary": "Cháy nhà ở TP HCM, một người chết; Giá vàng thế giới có thể tăng 30% năm 2026...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:53:49+07:00",
+      "fetched": "2025-12-06T17:17:04.861899+07:00"
+    },
+    {
+      "id": "54138e3603a0175a65ddeea4754b2d46",
+      "title": "Lý Hoàng Nam hạ tay vợt số 1 châu Á ở chung kết PPA Tour",
+      "link": "https://vnexpress.net/ly-hoang-nam-ha-tay-vot-so-1-chau-a-o-chung-ket-ppa-tour-4990621.html",
+      "summary": "Tay vợt Lý Hoàng Nam lần đầu vô địch một giải pickleball thuộc hệ thống PPA Asia Tour, khi thắng Jack Wong 11-4, 11-4 ở Hàng Châu hôm 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:48:48+07:00",
+      "fetched": "2025-12-06T17:17:04.862057+07:00"
+    },
+    {
+      "id": "54138e3603a0175a65ddeea4754b2d46",
+      "title": "Lý Hoàng Nam hạ tay vợt số 1 châu Á ở chung kết PPA Tour",
+      "link": "https://vnexpress.net/ly-hoang-nam-ha-tay-vot-so-1-chau-a-o-chung-ket-ppa-tour-4990621.html",
+      "summary": "Tay vợt Lý Hoàng Nam lần đầu vô địch một giải pickleball thuộc hệ thống PPA Asia Tour, khi thắng Jack Wong 11-4, 11-4 ở Hàng Châu hôm 6/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T09:48:48+07:00",
+      "fetched": "2025-12-06T17:17:18.602098+07:00"
+    },
+    {
+      "id": "8fd1b72583ee5fef73b62f0eeb635bac",
+      "title": "Sân Suphachalasai, điểm nóng điền kinh đã sẵn sàng!",
+      "link": "https://thanhnien.vn/san-suphachalasai-diem-nong-dien-kinh-da-san-sang-185251206164126275.htm",
+      "summary": "Những ngày cận kề SEA Games 33, sân vận động Suphachalasai (Bangkok) một trong những biểu tượng thể thao lâu đời của Bangkok – đang bước vào giai đoạn hoàn thiện cuối cùng để sẵn sàng cho các nội dung điền kinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:47:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505565+07:00"
+    },
+    {
+      "id": "75b0fbabcb5419ffdaf356e5fced9875",
+      "title": "Nhà văn Nguyễn Quang Thiều chỉ cách tạo thói quen đọc sách cho trẻ",
+      "link": "https://thanhnien.vn/nha-van-nguyen-quang-thieu-chi-cach-tao-thoi-quen-doc-sach-cho-tre-185251205225609599.htm",
+      "summary": "Tại buổi ra mắt bộ truyện thiếu nhi, nhà văn Nguyễn Quang Thiều đã chia sẻ cách để tạo dựng thói quen đọc sách cho trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:46:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505753+07:00"
+    },
+    {
+      "id": "b7776a54e41c3b1d19a2fe9d15614eed",
+      "title": "Lý Hoàng Nam quật ngã Jack Wong, nâng cúp vô địch tại Trung Quốc",
+      "link": "https://thanhnien.vn/ly-hoang-nam-quat-nga-jack-wong-nang-cup-vo-dich-tai-trung-quoc-18525120616483519.htm",
+      "summary": "Chiến thắng áp đảo 2-0 (11-4, 11-4) trước Jack Wong ở chung kết giải pickleball PPA Hàng Châu Open đã giúp Lý Hoàng Nam đoạt ngôi vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:42:00+07:00",
+      "fetched": "2025-12-06T17:17:08.505971+07:00"
+    },
+    {
+      "id": "b547d3e098e10617b447b2eb540f700a",
+      "title": "Tin vui: Đội tuyển bóng chày Việt Nam thắng thuyết phục Malaysia",
+      "link": "https://thanhnien.vn/tin-vui-doi-tuyen-bong-chay-viet-nam-thang-thuyet-phuc-malaysia-185251206163509291.htm",
+      "summary": "Đội tuyển bóng chày Việt Nam đánh bại Malaysia với tỷ số 5-2, qua đó có chiến thắng đầu tay tại giải. Đây là trận đấu thứ hai của thầy trò HLV Park Hyo-chul ở giai đoạn vòng tròn môn bóng chày nam SEA Games 33 diễn ra tại Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:38:00+07:00",
+      "fetched": "2025-12-06T17:17:08.506208+07:00"
+    },
+    {
+      "id": "44860fff84e986528267e518f595e0a9",
+      "title": "PVCFC vào Top 10 doanh nghiệp bền vững 2025",
+      "link": "https://vnexpress.net/pvcfc-vao-top-10-doanh-nghiep-ben-vung-2025-4990607.html",
+      "summary": "PVCFC được vinh danh Top 10 doanh nghiệp bền vững lĩnh vực sản xuất và Top 5 quản trị công ty bứt phá 2025, nhờ triển khai ESG và quản trị theo chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:30:00+07:00",
+      "fetched": "2025-12-06T17:17:04.862238+07:00"
+    },
+    {
+      "id": "5ab7209db70826072efce3ea8602fb87",
+      "title": "Phó tổng thống Mỹ bác đồn đoán rạn nứt hôn nhân",
+      "link": "https://vnexpress.net/pho-tong-thong-my-bac-don-doan-ran-nut-hon-nhan-4990506.html",
+      "summary": "Phó tổng thống Mỹ phủ nhận tin đồn về rạn nứt với Đệ nhị phu nhân Usha, khẳng định hôn nhân của hai người luôn bền chặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:20:53+07:00",
+      "fetched": "2025-12-06T17:17:04.862414+07:00"
+    },
+    {
+      "id": "5ab7209db70826072efce3ea8602fb87",
+      "title": "Phó tổng thống Mỹ bác đồn đoán rạn nứt hôn nhân",
+      "link": "https://vnexpress.net/pho-tong-thong-my-bac-don-doan-ran-nut-hon-nhan-4990506.html",
+      "summary": "Phó tổng thống Mỹ phủ nhận tin đồn về rạn nứt với Đệ nhị phu nhân Usha, khẳng định hôn nhân của hai người luôn bền chặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T09:20:53+07:00",
+      "fetched": "2025-12-06T17:17:13.074998+07:00"
+    },
+    {
+      "id": "5a22ce7c04b46a2f62b2d4e9196c46a6",
+      "title": "Sức hút của Ninh Dương Story",
+      "link": "https://vnexpress.net/suc-hut-cua-ninh-duong-story-4988293.html",
+      "summary": "Nhà sáng tạo nội dung Ninh Anh Bùi, Nguyễn Tùng Dương có lượng fan lớn nhờ chuyện tình và các video cuộc sống gần gũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.862575+07:00"
+    },
+    {
+      "id": "07d116f795d31f6f44dc3f24dee20b4d",
+      "title": "Nữ sinh giành 25 HC vàng và ước mơ lớn sau Giải bóng rổ trẻ VnExpress",
+      "link": "https://vnexpress.net/nu-sinh-gianh-25-hc-vang-va-uoc-mo-lon-sau-giai-bong-ro-tre-vnexpress-4990613.html",
+      "summary": "Nguyễn Vũ Minh Hà, người 'gánh team' của THPT Việt Đức, giành 25 HC vàng bóng rổ chỉ trong hai năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.862727+07:00"
+    },
+    {
+      "id": "d2bd77649886598fb6be396e12a04111",
+      "title": "TH true Milk trong top 10 doanh nghiệp bền vững Việt Nam",
+      "link": "https://vnexpress.net/th-true-milk-trong-top-10-doanh-nghiep-ben-vung-viet-nam-4990589.html",
+      "summary": "TH true Milk được vinh danh doanh nghiệp bền vững nhờ góp phần phát triển nông nghiệp sạch, đóng góp tích cực cho ngành sữa, đảm bảo phúc lợi người lao động và nỗ lực vì cộng đồng,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.862878+07:00"
+    },
+    {
+      "id": "bc0c71db7617ed39086643859721fa38",
+      "title": "Cách đơn giản giúp phổi thải độc sau hút thuốc lá",
+      "link": "https://vnexpress.net/cach-don-gian-giup-phoi-thai-doc-sau-hut-thuoc-la-4990537.html",
+      "summary": "Ăn thực phẩm giàu chất chống oxy hóa, uống đủ nước, thường xuyên tập thể dục, tập thở có thể làm sạch phổi, tăng cường chức năng hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T09:00:00+07:00",
+      "fetched": "2025-12-06T17:17:04.863031+07:00"
+    },
+    {
+      "id": "a8d866ca309a13aacb1880bff8d14909",
+      "title": "Áp thấp nhiệt đới gần Biển Đông",
+      "link": "https://vnexpress.net/ap-thap-nhiet-doi-gan-bien-dong-4990582.html",
+      "summary": "Áp thấp nhiệt đới xuất hiện gần Biển Đông, cơ quan khí tượng Việt Nam và quốc tế cùng nhận định ít có khả năng mạnh lên thành bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T08:49:38+07:00",
+      "fetched": "2025-12-06T17:17:04.863211+07:00"
+    },
+    {
+      "id": "ed89e34e39516246a4bb65dddc759697",
+      "title": "Malaysia 1-1 Lào (H2): Nỗ lực tìm bàn thắng",
+      "link": "https://vnexpress.net/u22-malaysia-v-u22-lao-4990606.html",
+      "summary": "Hàng thủ Lào mắc sai lầm giúp Malaysia gỡ hòa 1-1 ở phút 33 tại lượt hai bảng B bóng đá nam SEA Games 33 trên sân Rajamangala hôm nay 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T08:40:00+07:00",
+      "fetched": "2025-12-06T17:17:04.863368+07:00"
+    },
+    {
+      "id": "ed89e34e39516246a4bb65dddc759697",
+      "title": "Malaysia 1-1 Lào (Hết H1): Gỡ hòa nhờ sai lầm",
+      "link": "https://vnexpress.net/u22-malaysia-v-u22-lao-4990606.html",
+      "summary": "Hàng thủ Lào mắc sai lầm giúp Malaysia gỡ hòa 1-1 ở phút 33 tại lượt hai bảng B bóng đá nam SEA Games 33 trên sân Rajamangala hôm nay 6/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T08:40:00+07:00",
+      "fetched": "2025-12-06T17:17:18.602292+07:00"
+    },
+    {
+      "id": "ac98ae6ab80b35bfc748d802da599f25",
+      "title": "Phân Bón Cà Mau hỗ trợ vùng lũ hơn 10 tỷ đồng",
+      "link": "https://vnexpress.net/phan-bon-ca-mau-ho-tro-vung-lu-hon-10-ty-dong-4990608.html",
+      "summary": "Phân Bón Cà Mau triển khai gói hỗ trợ hơn 10 tỷ đồng nhằm tái thiết, phục hồi sản xuất và bảo đảm an sinh cho các địa phương bị ảnh hưởng mưa lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T08:30:00+07:00",
+      "fetched": "2025-12-06T17:17:04.863524+07:00"
+    },
+    {
+      "id": "144cf36606b462bcb341efb5d957b535",
+      "title": "Tiếp nối Mỹ, Canada dỡ lệnh trừng phạt Syria",
+      "link": "https://vnexpress.net/tiep-noi-my-canada-do-lenh-trung-phat-syria-4990575.html",
+      "summary": "Canada tiếp nối Mỹ nới lệnh trừng phạt, loại Syria khỏi danh sách nước tài trợ khủng bố và đưa Hayat Tahrir al-Sham khỏi diện \"tổ chức khủng bố\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T08:20:45+07:00",
+      "fetched": "2025-12-06T17:17:04.863679+07:00"
+    },
+    {
+      "id": "144cf36606b462bcb341efb5d957b535",
+      "title": "Tiếp nối Mỹ, Canada dỡ lệnh trừng phạt Syria",
+      "link": "https://vnexpress.net/tiep-noi-my-canada-do-lenh-trung-phat-syria-4990575.html",
+      "summary": "Canada tiếp nối Mỹ nới lệnh trừng phạt, loại Syria khỏi danh sách nước tài trợ khủng bố và đưa Hayat Tahrir al-Sham khỏi diện \"tổ chức khủng bố\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T08:20:45+07:00",
+      "fetched": "2025-12-06T17:17:13.075200+07:00"
     },
     {
       "id": "57f9baaa49a1805c8bf4479ece5df245",
@@ -611,6 +1091,16 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T08:16:00+07:00",
       "fetched": "2025-12-06T15:21:25.436028+07:00"
+    },
+    {
+      "id": "5e67c5c6b1e68d60e45a25be2bc5ada6",
+      "title": "Hai cô gái bỏng đường thở trong vụ cháy dần hồi phục",
+      "link": "https://vnexpress.net/hai-co-gai-bong-duong-tho-trong-vu-chay-dan-hoi-phuc-4990559.html",
+      "summary": "Hai cô gái 18 và 21 tuổi bị bỏng đường thở, tổn thương phổi sau vụ cháy quán ăn trên đường Trần Hưng Đạo tạm ổn định sức khỏe, đang được theo dõi sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T08:07:05+07:00",
+      "fetched": "2025-12-06T17:17:04.863834+07:00"
     },
     {
       "id": "20c59bcf3f056b276ec02e8afdb67204",
