@@ -1,6 +1,6 @@
 window.newsData_2025_12_07 = {
   "date": "2025-12-07",
-  "lastUpdated": "2025-12-07T03:18:10.036696+07:00",
+  "lastUpdated": "2025-12-07T05:15:57.737987+07:00",
   "articles": [
     {
       "id": "e4d48c6e3fc62f645c5fb29bef7a4e1f",
@@ -161,6 +161,196 @@ window.newsData_2025_12_07 = {
       "category": "Tổng hợp",
       "published": "2025-12-07T01:22:49.286992+07:00",
       "fetched": "2025-12-07T01:22:49.287210+07:00"
+    },
+    {
+      "id": "9874e632069c008ca1d3c5b1a27d7a63",
+      "title": "Hôm nay 7.12 người Việt chính thức đón tiết Đại tuyết: Thời tiết sẽ lạnh hơn?",
+      "link": "https://thanhnien.vn/hom-nay-712-nguoi-viet-chinh-thuc-don-tiet-dai-tuyet-thoi-tiet-se-lanh-hon-185251205190829357.htm",
+      "summary": "Hôm nay 7.12 là ngày đầu tiên người Việt Nam đón tiết Đại tuyết, một trong 24 tiết khí trong năm. Tiết khí này có ý nghĩa gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:15:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274017+07:00"
+    },
+    {
+      "id": "0bd91b2f5a1b14928231e481c14972c4",
+      "title": "EC phạt mạng xã hội X, Mỹ phản ứng gay gắt",
+      "link": "https://thanhnien.vn/ec-phat-mang-xa-hoi-x-my-phan-ung-gay-gat-185251206155208767.htm",
+      "summary": "AFP ngày 6.12 đưa tin Ủy ban châu Âu (EC) phạt mạng xã hội X của tỉ phú Elon Musk 120 triệu euro (hơn 3.680 tỉ đồng) do vi phạm các quy định về nền tảng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:12:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274187+07:00"
+    },
+    {
+      "id": "9ff2aa47fbfe62ed6a27704d07e4e8ea",
+      "title": "Chiến dịch của Ukraine nhằm ngăn doanh thu dầu Nga",
+      "link": "https://vnexpress.net/chien-dich-cua-ukraine-nham-ngan-doanh-thu-dau-nga-4989984.html",
+      "summary": "Ukraine đang chuyển cuộc chiến ra Biển Đen, nhắm vào \"đội tàu bóng tối\" vận chuyển dầu Nga nhằm bóp nghẹt nguồn thu quan trọng của Moskva.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:00:00+07:00",
+      "fetched": "2025-12-07T05:15:45.976012+07:00"
+    },
+    {
+      "id": "4ee15164b68ebe5bed00851e9d404d4f",
+      "title": "Lexus LFA Concept - siêu xe điện kế nhiệm huyền thoại V10",
+      "link": "https://vnexpress.net/lexus-lfa-concept-sieu-xe-dien-ke-nhiem-huyen-thoai-v10-4990511.html",
+      "summary": "Mẫu concept của LFA có nền tảng từ Toyota GR GT, sử dụng hệ truyền động điện, thiết kế nội thất như phi thuyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:00:00+07:00",
+      "fetched": "2025-12-07T05:15:45.976196+07:00"
+    },
+    {
+      "id": "7e9058da1edbb09e96d74d650ce32d14",
+      "title": "Chiến sự Ukraine ngày 1.382: Nga - Ukraine 'ăn miếng trả miếng' vào hạ tầng năng lượng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1382-nga-ukraine-an-mieng-tra-mieng-vao-ha-tang-nang-luong-185251206220100679.htm",
+      "summary": "Quân đội Nga ngày 6.12 đã tập kích hạ tầng năng lượng ở nhiều vùng tại Ukraine, trong khi Kyiv cũng đánh trả bằng các đợt không kích vào lãnh thổ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:00:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274344+07:00"
+    },
+    {
+      "id": "dce99bca346cda24f37ff766865e1f9a",
+      "title": "Xổ số miền Nam: Trùng hợp giải độc đắc 3 ngày liền 'cập bến' Tây Ninh",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-trung-hop-giai-doc-dac-3-ngay-lien-cap-ben-tay-ninh-185251206155033471.htm",
+      "summary": "3 ngày liên tục, giải độc đắc xổ số miền Nam 'cập bến' Tây Ninh (khu vực Đức Hòa, Long An cũ) khiến nhiều người chơi vé số và đại lý hào hứng vì sự trùng hợp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T22:00:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274498+07:00"
+    },
+    {
+      "id": "9ff2aa47fbfe62ed6a27704d07e4e8ea",
+      "title": "Chiến dịch của Ukraine nhằm ngăn doanh thu dầu Nga",
+      "link": "https://vnexpress.net/chien-dich-cua-ukraine-nham-ngan-doanh-thu-dau-nga-4989984.html",
+      "summary": "Ukraine đang chuyển cuộc chiến ra Biển Đen, nhắm vào \"đội tàu bóng tối\" vận chuyển dầu Nga nhằm bóp nghẹt nguồn thu quan trọng của Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T22:00:00+07:00",
+      "fetched": "2025-12-07T05:15:52.242181+07:00"
+    },
+    {
+      "id": "07bc495540a881fedde2aae36f28d9b4",
+      "title": "Neville: 'Liverpool đang thật sự sụp đổ'",
+      "link": "https://vnexpress.net/neville-liverpool-dang-that-su-sup-do-4990700.html",
+      "summary": "Cựu hậu vệ Gary Neville chỉ trích Liverpool liên tục mắc sai lầm, sau trận hòa Leeds 3-3 ở vòng 15 Ngoại hạng Anh dù dẫn hai bàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:30:24+07:00",
+      "fetched": "2025-12-07T05:15:45.976364+07:00"
+    },
+    {
+      "id": "07bc495540a881fedde2aae36f28d9b4",
+      "title": "Neville: 'Liverpool đang thật sự sụp đổ'",
+      "link": "https://vnexpress.net/neville-liverpool-dang-that-su-sup-do-4990700.html",
+      "summary": "Cựu hậu vệ Gary Neville chỉ trích Liverpool liên tục mắc sai lầm, sau trận hòa Leeds 3-3 ở vòng 15 Ngoại hạng Anh dù dẫn hai bàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T21:30:24+07:00",
+      "fetched": "2025-12-07T05:15:57.733103+07:00"
+    },
+    {
+      "id": "841ab44cd95a3c86650b3d8e34a309c9",
+      "title": "Guardiola khuyên Cherki học Messi sau pha kiến tạo gây sốt",
+      "link": "https://vnexpress.net/guardiola-khuyen-cherki-hoc-messi-sau-pha-kien-tao-gay-sot-4990697.html",
+      "summary": "HLV Pep Guardiola ca ngợi Rayan Cherki sau pha kiến tạo đẹp mắt trong trận thắng Sunderland 3-0 ở vòng 15 Ngoại hạng Anh, nhưng đồng thời muốn học trò học sự đơn giản từ Lionel Mess.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:26:13+07:00",
+      "fetched": "2025-12-07T05:15:45.976525+07:00"
+    },
+    {
+      "id": "841ab44cd95a3c86650b3d8e34a309c9",
+      "title": "Guardiola khuyên Cherki học Messi sau pha kiến tạo gây sốt",
+      "link": "https://vnexpress.net/guardiola-khuyen-cherki-hoc-messi-sau-pha-kien-tao-gay-sot-4990697.html",
+      "summary": "HLV Pep Guardiola ca ngợi Rayan Cherki sau pha kiến tạo đẹp mắt trong trận thắng Sunderland 3-0 ở vòng 15 Ngoại hạng Anh, nhưng đồng thời muốn học trò học sự đơn giản từ Lionel Mess.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T21:26:13+07:00",
+      "fetched": "2025-12-07T05:15:57.733265+07:00"
+    },
+    {
+      "id": "25eab502ac6c380f4010406d4f6b8ed4",
+      "title": "Arteta: 'Đứt chuỗi 18 trận bất bại sẽ là bài kiểm tra quan trọng'",
+      "link": "https://vnexpress.net/arteta-dut-chuoi-18-tran-bat-bai-se-la-bai-kiem-tra-quan-trong-4990695.html",
+      "summary": "HLV Mikel Arteta thất vọng sau trận thua Aston Villa 1-2 ở vòng 15 Ngoại hạng Anh, nhưng cho rằng đây là lúc để Arsenal chứng minh bản lĩnh sau gần ba tháng bất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:16:20+07:00",
+      "fetched": "2025-12-07T05:15:45.976724+07:00"
+    },
+    {
+      "id": "25eab502ac6c380f4010406d4f6b8ed4",
+      "title": "Arteta: 'Đứt chuỗi 18 trận bất bại sẽ là bài kiểm tra quan trọng'",
+      "link": "https://vnexpress.net/arteta-dut-chuoi-18-tran-bat-bai-se-la-bai-kiem-tra-quan-trong-4990695.html",
+      "summary": "HLV Mikel Arteta thất vọng sau trận thua Aston Villa 1-2 ở vòng 15 Ngoại hạng Anh, nhưng cho rằng đây là lúc để Arsenal chứng minh bản lĩnh sau gần ba tháng bất bại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T21:16:20+07:00",
+      "fetched": "2025-12-07T05:15:57.733424+07:00"
+    },
+    {
+      "id": "009b4d1d7298bb5c4381a2922a303d46",
+      "title": "Bác sĩ 24/7: Làm sao biết gan khỏe, xét nghiệm gì tìm ra bệnh?",
+      "link": "https://thanhnien.vn/bac-si-24-7-lam-sao-biet-gan-khoe-xet-nghiem-gi-tim-ra-benh-185251206232304928.htm",
+      "summary": "'Cho tôi hỏi để biết gan có bị bệnh không thì cần làm gì? Nếu xét nghiệm thì có tìm ra bệnh không? Vai trò của gan với sức khỏe như thế nào? Cảm ơn bác sĩ'. (C.Tài, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:04:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274670+07:00"
+    },
+    {
+      "id": "a8bb479aa16b6ac8974bab64e925c49f",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 7.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-7122025-185251206215831483.htm",
+      "summary": "Tin tức Vì sao giải tỏa nhà trên kênh rạch \"chậm dần đều\" ?; Điện ảnh Việt trước khát vọng phát triển bền vững; Trung Quốc lại cấp tập gia tăng quân sự ở Biển Đông... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 7.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:00:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274837+07:00"
+    },
+    {
+      "id": "c98a546d7223958e330fed050b9ee5e3",
+      "title": "Gạo Việt từ ngon nhất đến 'xanh' nhất thế giới",
+      "link": "https://thanhnien.vn/gao-viet-tu-ngon-nhat-den-xanh-nhat-the-gioi-185251206212637344.htm",
+      "summary": "Hạt gạo Việt Nam lần thứ 3 được trao giải \"ngon nhất thế giới\", không dừng lại ở đó sản phẩm cũng đang chuyển mình theo hướng xanh với diện tích và số lượng ngày càng nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:00:00+07:00",
+      "fetched": "2025-12-07T05:15:49.274989+07:00"
+    },
+    {
+      "id": "29317033f5e87f24e1d175b6d588619d",
+      "title": "Vì sao giải tỏa nhà trên kênh rạch 'chậm dần đều'?",
+      "link": "https://thanhnien.vn/vi-sao-giai-toa-nha-tren-kenh-rach-cham-dan-deu-185251206195808826.htm",
+      "summary": "TP.HCM đang tái khởi động mạnh mẽ chương trình di dời, giải tỏa, với mục tiêu đến năm 2030 xử lý dứt điểm gần 20.000 căn nhà trên và ven kênh trên tổng số gần 40.000 căn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T21:00:00+07:00",
+      "fetched": "2025-12-07T05:15:49.275159+07:00"
+    },
+    {
+      "id": "965c304cd5f46efb53bf81de4a239b97",
+      "title": "Cú hat-trick giúp Barca thắng trận cầu 8 bàn tại La Liga",
+      "link": "https://vnexpress.net/cu-hat-trick-giup-barca-thang-tran-cau-8-ban-tai-la-liga-4990698.html",
+      "summary": "Tiền đạo Ferran Torres lập hat-trick trong 40 phút đầu, giúp Barca thắng ngược 5-3 trên sân Betis ở vòng 15 La Liga, qua đó nới rộng cách biệt với Real lên bốn điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T20:24:17+07:00",
+      "fetched": "2025-12-07T05:15:45.976898+07:00"
+    },
+    {
+      "id": "965c304cd5f46efb53bf81de4a239b97",
+      "title": "Cú hat-trick giúp Barca thắng trận cầu 8 bàn tại La Liga",
+      "link": "https://vnexpress.net/cu-hat-trick-giup-barca-thang-tran-cau-8-ban-tai-la-liga-4990698.html",
+      "summary": "Tiền đạo Ferran Torres lập hat-trick trong 40 phút đầu, giúp Barca thắng ngược 5-3 trên sân Betis ở vòng 15 La Liga, qua đó nới rộng cách biệt với Real lên bốn điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T20:24:17+07:00",
+      "fetched": "2025-12-07T05:15:57.733583+07:00"
     },
     {
       "id": "dcdc1aa3dae098b67e30706e08ac3d7a",
