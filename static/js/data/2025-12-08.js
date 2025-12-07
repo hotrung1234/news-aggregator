@@ -1,6 +1,6 @@
 window.newsData_2025_12_08 = {
   "date": "2025-12-08",
-  "lastUpdated": "2025-12-08T01:22:51.039030+07:00",
+  "lastUpdated": "2025-12-08T03:18:10.162058+07:00",
   "articles": [
     {
       "id": "d3b78762825234a6da2dc2e844958b89",
@@ -151,6 +151,16 @@ window.newsData_2025_12_08 = {
       "category": "Tổng hợp",
       "published": "2025-12-08T01:22:43.798248+07:00",
       "fetched": "2025-12-08T01:22:43.798452+07:00"
+    },
+    {
+      "id": "c9b5e5d1b27bca5447a154561a48b60f",
+      "title": "Lịch thi đấu U.23 Việt Nam mới nhất: Quyết giữ mạch thắng trước U.23 Malaysia",
+      "link": "https://thanhnien.vn/lich-thi-dau-u23-viet-nam-moi-nhat-quyet-giu-mach-thang-truoc-u23-malaysia-185251207223204562.htm",
+      "summary": "Đội tuyển U.23 Việt Nam tự tin sẽ kéo dài mạch thắng trước U.23 Malaysia để bước vào vòng bán kết SEA Games 33 với tư cách nhất bảng B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T20:00:00+07:00",
+      "fetched": "2025-12-08T03:17:59.897243+07:00"
     },
     {
       "id": "f1753a82ad5da571be90b39acd4913e2",
