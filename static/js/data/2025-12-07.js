@@ -1,7 +1,157 @@
 window.newsData_2025_12_07 = {
   "date": "2025-12-07",
-  "lastUpdated": "2025-12-07T05:15:57.737987+07:00",
+  "lastUpdated": "2025-12-07T08:28:22.096702+07:00",
   "articles": [
+    {
+      "id": "fc35ebcb4113460aeb546dead00f3970",
+      "title": "U22 Việt Nam hưởng lợi gì từ chiến thắng sốc của Timor Leste?",
+      "link": "https://tuoitre.vn/u22-viet-nam-huong-loi-gi-tu-chien-thang-soc-cua-timor-leste-20251207011423892.htm",
+      "summary": "Chiến thắng ấn tượng của U22 Timor Leste trước U22 Singapore ở lượt trận thứ 2 bảng A môn bóng đá nam SEA Games 33 đang trực tiếp mang đến thuận lợi cho U22 Việt Nam lẫn Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.924324+07:00",
+      "fetched": "2025-12-07T08:28:14.924421+07:00"
+    },
+    {
+      "id": "b1e6ecd531f17a72b6a8e7550ab30b42",
+      "title": "Trung vệ tỏa sáng, Man City chỉ còn kém Arsenal 2 điểm",
+      "link": "https://tuoitre.vn/trung-ve-toa-sang-man-city-chi-con-kem-arsenal-2-diem-20251207003522559.htm",
+      "summary": "Rạng sáng 7-12, Man City đã đánh bại Sunderland 3-0 ở vòng 15 Giải ngoại hạng Anh (Premier League) để rút ngắn khoảng cách điểm số với Arsenal xuống còn 2 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.924218+07:00",
+      "fetched": "2025-12-07T08:28:14.924315+07:00"
+    },
+    {
+      "id": "4afb7dc718b7886869a58eecf9be7785",
+      "title": "Phạt vợ chồng vì kiểm soát thu nhập: Không phải chuyện 'tếu'",
+      "link": "https://tuoitre.vn/phat-vo-chong-vi-kiem-soat-thu-nhap-khong-phai-chuyen-teu-20251206225919188.htm",
+      "summary": "Phạt từ 20 - 30 triệu đồng đối với hành vi chiếm đoạt tài sản chung của gia đình hoặc tài sản riêng của thành viên khác trong gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.924105+07:00",
+      "fetched": "2025-12-07T08:28:14.924209+07:00"
+    },
+    {
+      "id": "e7fd645ba7b09f5d220fdd793a8e5de4",
+      "title": "Lịch trực tiếp bóng đá nữ SEA Games 33: Singapore tranh nhì bảng với Indonesia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nu-sea-games-33-singapore-tranh-nhi-bang-voi-indonesia-20251206160805243.htm",
+      "summary": "Lúc 16h hôm nay (7-12), tuyển nữ Singapore và Indonesia sẽ chạm trán nhau ở lượt trận thứ 2 bảng A môn bóng đá nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923975+07:00",
+      "fetched": "2025-12-07T08:28:14.924092+07:00"
+    },
+    {
+      "id": "6d6412fd5a1426f0fccfe233505cd654",
+      "title": "Một địa điểm đăng cai SEA Games tuyên bố đóng cửa vì 'không được trả tiền'",
+      "link": "https://tuoitre.vn/mot-dia-diem-dang-cai-sea-games-tuyen-bo-dong-cua-vi-khong-duoc-tra-tien-20251207004014616.htm",
+      "summary": "Cuộc khủng hoảng về công tác tổ chức SEA Games 33 của chủ nhà Thái Lan tiếp tục leo thang khi mới đây, một địa điểm đăng cai đã thông báo sẽ đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923864+07:00",
+      "fetched": "2025-12-07T08:28:14.923965+07:00"
+    },
+    {
+      "id": "173f447e50431a934e38356984aeb8f6",
+      "title": "Sớm miễn viện phí cho bệnh nhân ung thư và suy thận, cần lộ trình nhưng không nên trì hoãn",
+      "link": "https://tuoitre.vn/som-mien-vien-phi-cho-benh-nhan-ung-thu-va-suy-than-can-lo-trinh-nhung-khong-nen-tri-hoan-202512062239116.htm",
+      "summary": "Nhiều gia đình rơi vào khủng hoảng tài chính khi phải điều trị các bệnh nan y kéo dài, đặc biệt là ung thư và suy thận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923736+07:00",
+      "fetched": "2025-12-07T08:28:14.923854+07:00"
+    },
+    {
+      "id": "f8315e245ffe47a948bb31a839a0a7d6",
+      "title": "Salah tức giận chỉ trích Liverpool sau trận hòa kịch tính 3-3 trước Leeds United",
+      "link": "https://tuoitre.vn/salah-tuc-gian-chi-trich-liverpool-sau-tran-hoa-kich-tinh-3-3-truoc-leeds-united-20251207061649224.htm",
+      "summary": "Tiền đạo Mohamed Salah cáo buộc Liverpool \"vứt bỏ\" anh, sau khi không được ra sân trong trận hòa Leeds United 3-3 tại Elland Road rạng sáng 7-12 ở vòng 15 Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923609+07:00",
+      "fetched": "2025-12-07T08:28:14.923722+07:00"
+    },
+    {
+      "id": "4dd2a0ffc99ad4f47135e1e97b2686d2",
+      "title": "Tin tức thế giới 7-12: Mỹ bảo vệ việc bắn hạ tàu ma túy; Máy bay Trung Quốc quấy rối máy bay Nhật",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-12-my-bao-ve-viec-ban-ha-tau-ma-tuy-may-bay-trung-quoc-quay-roi-may-bay-nhat-20251207064352244.htm",
+      "summary": "Ukraine nói đàm phán với Mỹ về kế hoạch hòa bình có 'tích cực' nhưng chưa có đột phá; Hỏa hoạn hộp đêm ở Ấn Độ, khiến 23 người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923488+07:00",
+      "fetched": "2025-12-07T08:28:14.923599+07:00"
+    },
+    {
+      "id": "b611a8074c9d7ce2a98bae53005354b3",
+      "title": "Vũ Cát Tường: Anh trai say hi tuyệt vời, nhưng vẫn không bằng... lấy vợ",
+      "link": "https://tuoitre.vn/vu-cat-tuong-anh-trai-say-hi-tuyet-voi-nhung-van-khong-bang-lay-vo-20251207004714835.htm",
+      "summary": "Đêm thứ hai chung kết Anh trai say hi, Vũ Cát Tường đã mượn âm nhạc nói lòng mình. Tường chia sẻ vui rằng Anh trai say hi là điều tuyệt vời nhất khi bước qua tuổi 30, nhưng không bằng lấy vợ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923372+07:00",
+      "fetched": "2025-12-07T08:28:14.923468+07:00"
+    },
+    {
+      "id": "37169e213e72ab3c88e3f669d97ba8ed",
+      "title": "Tin tức sáng 7-12: Doanh nghiệp 28.000 tỉ đồng của ông Phạm Nhật Vượng bất ngờ thay tổng giám đốc",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-12-doanh-nghiep-28-000-ti-dong-cua-ong-pham-nhat-vuong-bat-ngo-thay-tong-giam-doc-20251206141532418.htm",
+      "summary": "Một số tin tức đáng chú ý: Doanh nghiệp 28.000 tỉ đồng của ông Phạm Nhật Vượng bất ngờ thay tổng giám đốc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923264+07:00",
+      "fetched": "2025-12-07T08:28:14.923363+07:00"
+    },
+    {
+      "id": "f17acd24282feafe2d775a2abb06a8e1",
+      "title": "'Vua kiến tạo' Messi tỏa sáng dù bị 'kìm kẹp', đưa Inter Miami lần đầu lên ngôi vô địch MLS Cup",
+      "link": "https://tuoitre.vn/vua-kien-tao-messi-toa-sang-du-bi-kem-kep-dua-inter-miami-lan-dau-len-ngoi-vo-dich-mls-cup-20251207055332815.htm",
+      "summary": "Lionel Messi đã có khoảnh khắc kỳ diệu với 2 kiến tạo giúp Inter Miami vượt qua Vancouver Whitecaps 3-1 để giành chức vô địch MLS Cup đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923154+07:00",
+      "fetched": "2025-12-07T08:28:14.923255+07:00"
+    },
+    {
+      "id": "26bc62339ceed3a53da510329aaf74d5",
+      "title": "Lamine Yamal tỏa sáng trong trận đấu mà cha anh bị 'đuổi' khỏi khán đài",
+      "link": "https://tuoitre.vn/lamine-yamal-toa-sang-trong-tran-dau-ma-cha-anh-bi-duoi-khoi-khan-dai-2025120706534603.htm",
+      "summary": "Ở trận Barca thắng Real Betis 5-3 rạng sáng 7-12, cha của Lamine Yamal đã bị đuổi khỏi khán đài sân La Cartuja sau khi có hành vi gây hấn với cổ động viên đội chủ nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.923040+07:00",
+      "fetched": "2025-12-07T08:28:14.923144+07:00"
+    },
+    {
+      "id": "bfed9d3fe0b4bea1f773eb490b0b36df",
+      "title": "Nguồn nước tốt với máy lọc nước điện giải ROBOT ionPrince",
+      "link": "https://tuoitre.vn/nguon-nuoc-tot-voi-may-loc-nuoc-dien-giai-robot-ionprince-20251206143935753.htm",
+      "summary": "Nếu như trước đây máy lọc nước điện giải được xem là thiết bị cao cấp chỉ dành cho nhóm khách hàng có thu nhập cao, thì nay với sự xuất hiện của ROBOT ionPrince việc sở hữu nguồn nước điện giải đã trở nên dễ dàng hơn bao giờ hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.922926+07:00",
+      "fetched": "2025-12-07T08:28:14.923031+07:00"
+    },
+    {
+      "id": "60bd9a2045e0fc4188e90bf727cd6c6a",
+      "title": "Điểm tin 8h: Khách quốc tế đến Việt Nam cao kỷ lục; Netflix thâu tóm Warner Bros.",
+      "link": "https://tuoitre.vn/diem-tin-8h-khach-quoc-te-den-viet-nam-cao-ky-luc-netflix-thau-tom-warner-bros-20251206224359811.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 7-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.922803+07:00",
+      "fetched": "2025-12-07T08:28:14.922915+07:00"
+    },
+    {
+      "id": "12994876cdda3fb47bd8cae475d51136",
+      "title": "'Ford Mustang Mach-E bản cao nhất không về Việt Nam vì gu xe điện của người dùng ở đây rất khác'",
+      "link": "https://tuoitre.vn/ford-mustang-mach-e-ban-cao-nhat-khong-ve-viet-nam-vi-gu-xe-dien-cua-nguoi-dung-o-day-rat-khac-20251206233950287.htm",
+      "summary": "Quyết định để Ford Mustang Mach-E trở thành mẫu xe điện đầu tiên của hãng đến Việt Nam được đưa ra sau nhiều cân nhắc kỹ lưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T08:28:14.922587+07:00",
+      "fetched": "2025-12-07T08:28:14.922790+07:00"
+    },
     {
       "id": "e4d48c6e3fc62f645c5fb29bef7a4e1f",
       "title": "Elon Musk nổi giận đòi xóa sổ EU, ông Medvedev bình luận 'chính xác!'",
@@ -161,6 +311,376 @@ window.newsData_2025_12_07 = {
       "category": "Tổng hợp",
       "published": "2025-12-07T01:22:49.286992+07:00",
       "fetched": "2025-12-07T01:22:49.287210+07:00"
+    },
+    {
+      "id": "9fb5b3a28b8be9f79d133780b0c10bd9",
+      "title": "Hamas nêu điều kiện giải giáp",
+      "link": "https://vnexpress.net/hamas-neu-dieu-kien-giai-giap-4990708.html",
+      "summary": "Hamas tuyên bố sẵn sàng bàn giao vũ khí ở Dải Gaza cho chính quyền Palestine, với điều kiện quân đội Israel rút khỏi dải đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:14:37+07:00",
+      "fetched": "2025-12-07T08:28:10.939519+07:00"
+    },
+    {
+      "id": "ee21e28db8a51f103cc9d8fe10954e99",
+      "title": "Verstappen có thêm lợi thế sau vòng phân hạng Abu Dhabi",
+      "link": "https://vnexpress.net/verstappen-co-them-loi-the-sau-vong-phan-hang-abu-dhabi-4990714.html",
+      "summary": "Giành quyền xuất phát đầu sau vòng phân hạng trên đường đua Yas Marina tối 6/12, tay đua đương kim vô địch thế giới Max Verstappen tạo lợi thế bước đầu trước thềm cuộc đua chính cuối diễn ra vào tối Chủ nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:08:02+07:00",
+      "fetched": "2025-12-07T08:28:10.939681+07:00"
+    },
+    {
+      "id": "ee21e28db8a51f103cc9d8fe10954e99",
+      "title": "Verstappen có thêm lợi thế sau vòng phân hạng Abu Dhabi",
+      "link": "https://vnexpress.net/verstappen-co-them-loi-the-sau-vong-phan-hang-abu-dhabi-4990714.html",
+      "summary": "Giành quyền xuất phát đầu sau vòng phân hạng trên đường đua Yas Marina tối 6/12, tay đua đương kim vô địch thế giới Max Verstappen tạo lợi thế bước đầu trước thềm cuộc đua chính cuối diễn ra vào tối Chủ nhật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-07T01:08:02+07:00",
+      "fetched": "2025-12-07T08:28:22.091270+07:00"
+    },
+    {
+      "id": "be22ddd5d0e4fc4d5c1f13d6bf3f51c9",
+      "title": "Đồng hồ vàng của cặp đôi nổi tiếng trên tàu Titanic được bán 60 tỉ đồng",
+      "link": "https://thanhnien.vn/dong-ho-vang-cua-cap-doi-noi-tieng-tren-tau-titanic-duoc-ban-60-ti-dong-185251207061425857.htm",
+      "summary": "Kỷ vật của cặp đôi có mặt trên con tàu định mệnh Titanic, được sắp xếp lên xuồng cứu sinh nhưng từ chối tách ra, vừa được bán với giá kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:07:00+07:00",
+      "fetched": "2025-12-07T08:28:14.029916+07:00"
+    },
+    {
+      "id": "c81a103231dfbb62819aee2d182c02da",
+      "title": "Giá USD hôm nay 7.12.2025: Đồng loạt giảm ngược chiều euro và bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-7122025-dong-loat-giam-nguoc-chieu-euro-va-bang-anh-185251207075726826.htm",
+      "summary": "Giá USD trong nước đồng loạt giảm, ngược chiều với một số ngoại tệ khác như euro, bảng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:06:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030059+07:00"
+    },
+    {
+      "id": "3487403a2ff535ac2a746b9eefa0376a",
+      "title": "Tôn Ngộ Không điên tiết vì bị mỹ nhân đánh như trời giáng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ton-ngo-khong-dien-tiet-vi-bi-my-nhan-danh-nhu-troi-giang-4988874.html",
+      "summary": "Trong một chương trình giải trí, Tôn Ngộ Không định bảo vệ sư phụ thì bị một mỹ nhân bất ngờ… quay lại tát cho một cú trời giáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.939828+07:00"
+    },
+    {
+      "id": "35d4370147ea1950c5a3372c0a425b59",
+      "title": "Loạt ưu đãi dành cho khu công nghệ số tập trung",
+      "link": "https://vnexpress.net/loat-uu-dai-danh-cho-khu-cong-nghe-so-tap-trung-4990408.html",
+      "summary": "Doanh nghiệp nằm trong khu công nghệ số tập trung sẽ nhận ưu đãi về thuế, đất đai, còn nhân lực chất lượng cao có chính sách ưu tiên riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.939964+07:00"
+    },
+    {
+      "id": "facbf4654386d364e6f52e576de041c0",
+      "title": "Điều gì xảy ra khi người cao tuổi nhiễm virus hợp bào?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-nguoi-cao-tuoi-nhiem-virus-hop-bao-4990615.html",
+      "summary": "Người cao tuổi nhiễm virus hợp bào hô hấp có thể gặp các biến chứng viêm phổi, viêm tiểu phế quản, suy hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940098+07:00"
+    },
+    {
+      "id": "376655ff99ddf104d6a6db16f4e9d99b",
+      "title": "4 lợi ích của đậu nành giúp giảm cân",
+      "link": "https://vnexpress.net/4-loi-ich-cua-dau-nanh-giup-giam-can-4990529.html",
+      "summary": "Đậu nành giàu chất xơ và các chất dinh dưỡng thiết yếu cho người giảm cân, giúp tăng cảm giác no, giảm thèm ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940231+07:00"
+    },
+    {
+      "id": "5ff5d9b042072b94027b736054875e25",
+      "title": "Làm gì giảm viêm mũi dị ứng khi không khí ô nhiễm?",
+      "link": "https://vnexpress.net/lam-gi-giam-viem-mui-di-ung-khi-khong-khi-o-nhiem-4990524.html",
+      "summary": "Tôi bị viêm mũi dị ứng mạn tính. Không khí ô nhiễm có làm triệu chứng tái phát nặng không, làm sao để kiểm soát? (Kỳ Nam, 35 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940363+07:00"
+    },
+    {
+      "id": "99c9cc38d7d76c36b4813f7c022720c4",
+      "title": "Vì sao giảm cân khi mắc ung thư?",
+      "link": "https://vnexpress.net/vi-sao-giam-can-khi-mac-ung-thu-4990517.html",
+      "summary": "Mẹ tôi mắc ung thư, đang điều trị nhưng chán ăn, sụt cân, làm gì để giảm tình trạng này? (Minh Dũng, 45 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940501+07:00"
+    },
+    {
+      "id": "71c43a6d7181770d80807837faec0a77",
+      "title": "Dấu hiệu nào cảnh báo sớm ung thư vú?",
+      "link": "https://vnexpress.net/dau-hieu-nao-canh-bao-som-ung-thu-vu-4990311.html",
+      "summary": "Tôi 39 tuổi, có dì ruột mắc ung thư vú. Nguy cơ mắc bệnh của tôi cao không, dấu hiệu nào giúp nhận biết ung thư vú giai đoạn sớm? (Minh An, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940636+07:00"
+    },
+    {
+      "id": "a3520e5dfc68f36eb620b1f729e377bf",
+      "title": "Thách thức trong vận chuyển trực thăng xuyên biên giới",
+      "link": "https://vnexpress.net/thach-thuc-trong-van-chuyen-truc-thang-xuyen-bien-gioi-4988593.html",
+      "summary": "Vận chuyển trực thăng và linh kiện qua nhiều quốc gia ngày càng phức tạp, đòi hỏi doanh nghiệp phải chuẩn bị kỹ thủ tục, tiêu chuẩn kỹ thuật và phối hợp với đơn vị logistics chuyên ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:10.940767+07:00"
+    },
+    {
+      "id": "71d9bdff54d75c1ae75b270c4de54f41",
+      "title": "Nhàn đàm: Đợi mùa vàng tan những bão giông",
+      "link": "https://thanhnien.vn/nhan-dam-doi-mua-vang-tan-nhung-bao-giong-185251206195631201.htm",
+      "summary": "Có những chuyến xe xuôi ngược Sài Gòn mãi hằn sâu trong ký ức tôi, không thể nào quên được. Là bởi, trên chuyến xe đó, những câu chuyện đời cứ trải ra miên man như vòng xe bất tận giữa phố đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030195+07:00"
+    },
+    {
+      "id": "0d65ee7488f9ab4b9ee19d549b61766f",
+      "title": "Hồi sinh làng biển bên cửa sông Dinh",
+      "link": "https://thanhnien.vn/hoi-sinh-lang-bien-ben-cua-song-dinh-185251206155112794.htm",
+      "summary": "Nếu ai từng đi qua vùng cửa biển sông Dinh (thôn Nhân Bắc, xã Nam Trạch, Quảng Trị) cách đây vài năm, hẳn khó quên cảnh rác rưởi ngổn ngang. Nhưng giờ đây, nơi ấy đã \"thay da đổi thịt\". Điều kỳ diệu ấy được tạo nên bởi những đôi tay trẻ trung, nhiệt huyết của tuổi trẻ địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030328+07:00"
+    },
+    {
+      "id": "53470eeb62e2b868d3b58d9b44fdc297",
+      "title": "Những sắc màu quyền lực, định hình phong cách mùa lễ hội cuối năm 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-sac-mau-quyen-luc-dinh-hinh-phong-cach-mua-le-hoi-cuoi-nam-2025-185251205102542906.htm",
+      "summary": "Đỏ ruby, đen tuyền hay vàng gold... được xem là những sắc màu quyền lực, đại diện cho xu hướng mùa lễ hội. Tuy vậy, bên cạnh những gam màu nóng bỏng, màu xanh ngọc bích, sắc hồng loang màu tía, ánh kim metalic... góp thêm tiếng nói định hình phong cách mùa rộn rã dịp cuối năm và chào mừng năm mới 20...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030461+07:00"
+    },
+    {
+      "id": "35d4370147ea1950c5a3372c0a425b59",
+      "title": "Loạt ưu đãi dành cho khu công nghệ số tập trung",
+      "link": "https://vnexpress.net/loat-uu-dai-danh-cho-khu-cong-nghe-so-tap-trung-4990408.html",
+      "summary": "Doanh nghiệp nằm trong khu công nghệ số tập trung sẽ nhận ưu đãi về thuế, đất đai, còn nhân lực chất lượng cao có chính sách ưu tiên riêng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-07T01:00:00+07:00",
+      "fetched": "2025-12-07T08:28:21.165794+07:00"
+    },
+    {
+      "id": "c9bb7f051eefca8a1767fc82b77a1ebf",
+      "title": "CEO Nvidia làm việc 7 ngày một tuần với nỗi lo phá sản",
+      "link": "https://vnexpress.net/ceo-nvidia-lam-viec-7-ngay-mot-tuan-voi-noi-lo-pha-san-4990693.html",
+      "summary": "Dù Nvidia hiện là công ty giá trị nhất thế giới, CEO Jensen Huang vẫn làm việc cật lực và luôn cảm thấy bất an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:58:59+07:00",
+      "fetched": "2025-12-07T08:28:10.940896+07:00"
+    },
+    {
+      "id": "c9bb7f051eefca8a1767fc82b77a1ebf",
+      "title": "CEO Nvidia làm việc 7 ngày một tuần với nỗi lo phá sản",
+      "link": "https://vnexpress.net/ceo-nvidia-lam-viec-7-ngay-mot-tuan-voi-noi-lo-pha-san-4990693.html",
+      "summary": "Dù Nvidia hiện là công ty giá trị nhất thế giới, CEO Jensen Huang vẫn làm việc cật lực và luôn cảm thấy bất an.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-07T00:58:59+07:00",
+      "fetched": "2025-12-07T08:28:21.165928+07:00"
+    },
+    {
+      "id": "30b159c6e4ecb1b18e2c91ed67503fea",
+      "title": "Kia Vision Meta Turismo - xe lạ từ tương lai",
+      "link": "https://vnexpress.net/kia-vision-meta-turismo-xe-la-tu-tuong-lai-4990587.html",
+      "summary": "Chiếc xe ý tưởng màu vàng có kiểu dáng ấn tượng và buồng lái kỹ thuật số với cần điều khiển bí ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:48:36+07:00",
+      "fetched": "2025-12-07T08:28:10.941025+07:00"
+    },
+    {
+      "id": "befc9e0fc490baf8f4103e20a97452ac",
+      "title": "Một cổng USB có thể 'gánh' bao nhiêu thiết bị?",
+      "link": "https://thanhnien.vn/mot-cong-usb-co-the-ganh-bao-nhieu-thiet-bi-185251206210516231.htm",
+      "summary": "Việc sử dụng máy tính xách tay với chỉ một hoặc hai cổng USB không còn hiếm gặp trong thời đại công nghệ ngày nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:48:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030603+07:00"
+    },
+    {
+      "id": "9a1ffdbf7eb07f928949303f014a6350",
+      "title": "Tại sao đôi rồng đá ở Thành nhà Hồ bị cụt đầu?",
+      "link": "https://thanhnien.vn/goc-ky-hoa-tai-sao-doi-rong-da-o-thanh-nha-ho-bi-cut-dau-185251206213001516.htm",
+      "summary": "Được UNESCO công nhận là Di sản thế giới, Thành nhà Hồ (tỉnh Thanh Hóa) hơn 600 năm tuổi gây bất ngờ bởi kỹ thuật xây dựng thượng thừa của người xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:45:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030734+07:00"
+    },
+    {
+      "id": "922751ee9aba87017040ade8a61dc974",
+      "title": "Cháy hộp đêm làm 23 người chết ở Ấn Độ",
+      "link": "https://thanhnien.vn/chay-hop-dem-lam-23-nguoi-chet-o-an-do-185251207073517046.htm",
+      "summary": "Ít nhất 23 người đã thiệt mạng trong vụ hỏa hoạn tại một hộp đêm nổi tiếng ở bang Goa của Ấn Độ, theo AFP dẫn thông báo từ Thủ hiến bang Goa Pramod Sawant và các quan chức hôm nay 7.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:43:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030861+07:00"
+    },
+    {
+      "id": "e0b2bd918d1925a8beebab9c4a4428f4",
+      "title": "Giá vàng hôm nay 7.12.2025: Mua vàng nhẫn lỗ đến 4 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-7122025-mua-vang-nhan-lo-den-4-trieu-dong-185251207071314868.htm",
+      "summary": "Giá vàng trong nước ghi nhận một tuần đi xuống theo chiều thế giới khiến người mua bị lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:39:00+07:00",
+      "fetched": "2025-12-07T08:28:14.030994+07:00"
+    },
+    {
+      "id": "79eaf5d4978d3df380b790e5db7d9c1a",
+      "title": "Khánh Vân sau 6 năm đăng quang hoa hậu: Lên chức CEO, hôn nhân viên mãn",
+      "link": "https://thanhnien.vn/khanh-van-sau-6-nam-dang-quang-hoa-hau-len-chuc-ceo-hon-nhan-vien-man-185251207022626353.htm",
+      "summary": "Sau 6 năm đăng quang Hoa hậu Hoàn vũ Việt Nam 2019, Khánh Vân trở thành CEO một công ty giải trí. Bên cạnh đó, cô còn có tổ ấm hạnh phúc bên chồng là nhiếp ảnh gia Nguyễn Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:31:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031120+07:00"
+    },
+    {
+      "id": "0cb55031cc889c700c8ddea4a0427769",
+      "title": "Áp thấp nhiệt đới 'chưa có khả năng' mạnh lên bão số 16 trên Biển Đông",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-chua-co-kha-nang-manh-len-bao-so-16-tren-bien-dong-185251207055856924.htm",
+      "summary": "Dự báo trong đêm mai 8.12, áp thấp nhiệt đới từ vùng biển Philippines đi vào Biển Đông nhưng chưa có khả năng sẽ mạnh lên thành bão số 16 năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:30:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031244+07:00"
+    },
+    {
+      "id": "61986b2538abbb64f090006929e2a226",
+      "title": "Ngập sâu diện rộng, Công ty Điện lực Lâm Đồng trực 24/24, kịp thời ứng phó",
+      "link": "https://thanhnien.vn/ngap-sau-dien-rong-cong-ty-dien-luc-lam-dong-truc-24-24-kip-thoi-ung-pho-185251206153155494.htm",
+      "summary": "Trước diễn biến phức tạp của mưa lũ, các CB-CNV Công ty Điện lực Lâm Đồng túc trực 24/24 để sẵn sàng xử lý khi có sự cố phát sinh. Đồng thời, phối hợp chặt chẽ với chính quyền địa phương nhằm bảo đảm an toàn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:30:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031369+07:00"
+    },
+    {
+      "id": "f39c4aa8038789c6db96dd3b15859ac4",
+      "title": "Giới trẻ đổ xô check-in quán cà phê trang trí hàng trăm gấu bông Noel tại TP.HCM",
+      "link": "https://thanhnien.vn/gioi-tre-do-xo-check-in-quan-ca-phe-trang-tri-hang-tram-gau-bong-noel-tai-tphcm-18525120612214797.htm",
+      "summary": "Không khí Giáng sinh đã tràn ngập phố phường TP.HCM từ những ngày đầu của tháng 12.2025. Nhiều quán cà phê, địa điểm tham quan được trang trí rực rỡ thu hút nhiều bạn trẻ đến check-in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:29:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031509+07:00"
+    },
+    {
+      "id": "98a30be99954193fe1c21d27d74dc091",
+      "title": "Elon Musk kêu gọi giải tán EU sau khi X bị phạt",
+      "link": "https://vnexpress.net/elon-musk-keu-goi-giai-tan-eu-sau-khi-x-bi-phat-4990705.html",
+      "summary": "Elon Musk chỉ trích EU về quyết định phạt mạng xã hội X 140 triệu USD, cho rằng \"con quái vật quan liêu\" nên bị \"giải tán\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:27:09+07:00",
+      "fetched": "2025-12-07T08:28:10.941152+07:00"
+    },
+    {
+      "id": "98a30be99954193fe1c21d27d74dc091",
+      "title": "Elon Musk kêu gọi giải tán EU sau khi X bị phạt",
+      "link": "https://vnexpress.net/elon-musk-keu-goi-giai-tan-eu-sau-khi-x-bi-phat-4990705.html",
+      "summary": "Elon Musk chỉ trích EU về quyết định phạt mạng xã hội X 140 triệu USD, cho rằng \"con quái vật quan liêu\" nên bị \"giải tán\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-07T00:27:09+07:00",
+      "fetched": "2025-12-07T08:28:16.688423+07:00"
+    },
+    {
+      "id": "a589a64fa4f810d803df2a030615d81d",
+      "title": "Báo Thanh Niên đoạt giải báo chí toàn quốc về nông nghiệp",
+      "link": "https://thanhnien.vn/bao-thanh-nien-doat-giai-bao-chi-toan-quoc-ve-nong-nghiep-185251207072709785.htm",
+      "summary": "Tối 5.12.2025, tại Hà Nội, Trung ương Hội Nông dân Việt Nam chủ trì phối hợp với Hội Nhà báo Việt Nam tổ chức Lễ trao Giải báo chí toàn quốc về nông nghiệp, nông dân, nông thôn Việt Nam lần thứ 3 năm 2025 và Thi viết tìm hiểu truyền thống 95 năm Hội Nông dân Việt Nam xây dựng và trưởng thành (1930 -...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:27:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031641+07:00"
+    },
+    {
+      "id": "96ed633ad20f69589ef6f0c648f52dc8",
+      "title": "Salah: 'Liverpool thất hứa, bỏ rơi tôi'",
+      "link": "https://vnexpress.net/salah-liverpool-that-hua-bo-roi-toi-4990701.html",
+      "summary": "Sau trận hòa Leeds 3-3 ở vòng 15 Ngoại hạng Anh, tiền đạo Salah cho rằng Liverpool đổ hết trách nhiệm lên anh, quan hệ với HLV Slot rạn nứt và có thể rời CLB ngay tuần sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:26:51+07:00",
+      "fetched": "2025-12-07T08:28:10.941283+07:00"
+    },
+    {
+      "id": "96ed633ad20f69589ef6f0c648f52dc8",
+      "title": "Salah: 'Liverpool thất hứa, bỏ rơi tôi'",
+      "link": "https://vnexpress.net/salah-liverpool-that-hua-bo-roi-toi-4990701.html",
+      "summary": "Sau trận hòa Leeds 3-3 ở vòng 15 Ngoại hạng Anh, tiền đạo Salah cho rằng Liverpool đổ hết trách nhiệm lên anh, quan hệ với HLV Slot rạn nứt và có thể rời CLB ngay tuần sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-07T00:26:51+07:00",
+      "fetched": "2025-12-07T08:28:22.091425+07:00"
+    },
+    {
+      "id": "5e6d57f01069fee8a24a4d3792c01955",
+      "title": "U.23 Việt Nam còn rất nhiều vấn đề cần hoàn thiện: Thắng Malaysia không dễ nhưng phải thắng!",
+      "link": "https://thanhnien.vn/u23-viet-nam-con-rat-nhieu-van-de-can-hoan-thien-thang-malaysia-khong-de-nhung-phai-thang-185251206221337327.htm",
+      "summary": "Ngày 6.12, đích thân HLV Kim Sang-sik dẫn đội U.23 VN đến sân Rajanmangala để xem U.23 Malaysia đấu với Lào tại vòng bảng bóng đá nam SEA Games 33. Từ những bài học quý giá trong trận thắng Lào cách đây vài ngày và những gì thấy được chiều qua, ông Kim biết cần phải làm gì khi gặp Malaysia vào ngày ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:19:00+07:00",
+      "fetched": "2025-12-07T08:28:14.031768+07:00"
+    },
+    {
+      "id": "c7dc2b6f7aa32ab432d17d7c5595058d",
+      "title": "Australia thiếu giáo viên, sinh viên phải đứng lớp",
+      "link": "https://vnexpress.net/australia-thieu-giao-vien-sinh-vien-phai-dung-lop-4990688.html",
+      "summary": "Tình trạng thiếu giáo viên tại Australia nhức nhối tới mức nhiều trường phải phụ thuộc vào đội ngũ sinh viên chưa đủ tiêu chuẩn đứng lớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T00:15:48+07:00",
+      "fetched": "2025-12-07T08:28:10.941415+07:00"
+    },
+    {
+      "id": "b9aab8a645dd7402a751602d91a95247",
+      "title": "Hai thập kỷ theo đuổi gene gây ung thư vú của Giáo sư giải đặc biệt VinFuture 2025",
+      "link": "https://vnexpress.net/hai-thap-ky-theo-duoi-gene-gay-ung-thu-vu-cua-giao-su-giai-dac-biet-vinfuture-2025-4988073.html",
+      "summary": "Những năm 1970, gần như toàn bộ giới khoa học tin bệnh ung thư do virus gây ra, GS Mary-Claire King là người đầu tiên chứng minh ung thư vú có thể di truyền, mở đường cho những phương pháp điều trị cứu sống vô số phụ nữ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-06T23:54:43+07:00",
+      "fetched": "2025-12-07T08:28:21.165501+07:00"
+    },
+    {
+      "id": "75c75de22c9586f323af752673a4a904",
+      "title": "Messi giúp Inter Miami đăng quang MLS Cup",
+      "link": "https://vnexpress.net/messi-giup-inter-miami-dang-quang-mls-cup-4990699.html",
+      "summary": "Lionel Messi kiến tạo hai bàn giúp Inter Miami hạ Vancouver Whitecaps 3-1 trong trận chung kết MLS Cup, tối 6/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T23:01:42+07:00",
+      "fetched": "2025-12-07T08:28:22.091592+07:00"
     },
     {
       "id": "9874e632069c008ca1d3c5b1a27d7a63",
