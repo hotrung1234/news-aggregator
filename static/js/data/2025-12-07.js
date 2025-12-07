@@ -1,7 +1,157 @@
 window.newsData_2025_12_07 = {
   "date": "2025-12-07",
-  "lastUpdated": "2025-12-07T11:31:00.554988+07:00",
+  "lastUpdated": "2025-12-07T13:24:49.377757+07:00",
   "articles": [
+    {
+      "id": "319a65d97a20add6c73e2cd7be2fdc77",
+      "title": "Báo chí Singapore sốc trước trận thua U22 Timor Leste",
+      "link": "https://tuoitre.vn/bao-chi-singapore-soc-truoc-tran-thua-u22-timor-leste-20251207100334821.htm",
+      "summary": "Chiến thắng 3-1 của các cầu thủ U22 Timor Leste trước U22 Singapore đã tạo ra cơn địa chấn ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147640+07:00",
+      "fetched": "2025-12-07T13:24:43.147777+07:00"
+    },
+    {
+      "id": "b17813d5ea0020a514e9d64b2a679314",
+      "title": "Tổng giám đốc Vinasun muốn gom thêm 1,5 triệu cổ phiếu",
+      "link": "https://tuoitre.vn/tong-giam-doc-vinasun-muon-gom-them-1-5-trieu-co-phieu-20251207091320234.htm",
+      "summary": "Ông Đặng Thành Duy (con trai ông Đặng Phước Thành) đăng ký mua 1,5 triệu cổ phiếu VNS với mục đích đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147518+07:00",
+      "fetched": "2025-12-07T13:24:43.147630+07:00"
+    },
+    {
+      "id": "c712389a384c4bafd72548f4b54f0c63",
+      "title": "Dự báo thời tiết từ 7-12 đến 13-12: Bắc Bộ rét, Trung Bộ mưa, Nam Bộ nắng, trên biển có bão",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-7-12-den-13-12-bac-bo-ret-trung-bo-mua-nam-bo-nang-tren-bien-co-bao-20251206212840922.htm",
+      "summary": "Tuần này khả năng Biển Đông sẽ đón cơn áp thấp nhiệt đới hoặc bão, đất liền miền Trung vẫn còn mưa, miền Bắc rét, miền Nam nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147395+07:00",
+      "fetched": "2025-12-07T13:24:43.147507+07:00"
+    },
+    {
+      "id": "86b604138a017494f4c5befa2a575da1",
+      "title": "Nguyễn Lâm Thái, người trộm tài sản của hoa hậu Mexico, là ai?",
+      "link": "https://tuoitre.vn/nguyen-lam-thai-nguoi-trom-tai-san-cua-hoa-hau-mexico-la-ai-20251207101302338.htm",
+      "summary": "Nguyễn Lâm Thái được biết đến với nhiều vai trò khác nhau như diễn viên, người mẫu, quản lý nghệ sĩ…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147271+07:00",
+      "fetched": "2025-12-07T13:24:43.147384+07:00"
+    },
+    {
+      "id": "744d4dfda8d01260b2c134e5cbe227aa",
+      "title": "Mỹ thu 'phí bắt giữ' 5.000 USD với người nhập cư không giấy tờ từ 14 tuổi trở lên",
+      "link": "https://tuoitre.vn/my-thu-phi-bat-giu-5-000-usd-voi-nguoi-nhap-cu-khong-giay-to-tu-14-tuoi-tro-len-20251207101615879.htm",
+      "summary": "Chính quyền Tổng thống Donald Trump triển khai khoản “phí bắt giữ” 5.000 USD với người nhập cư không có giấy tờ từ 14 tuổi trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147142+07:00",
+      "fetched": "2025-12-07T13:24:43.147259+07:00"
+    },
+    {
+      "id": "fbe938994c53e373c0e45a3c0316b8ba",
+      "title": "Vụ mẹ và trẻ sơ sinh 'bị đuổi' khi đến trạm y tế tránh lũ: Lãnh đạo Sở Y tế Đắk Lắk đến nhà xin lỗi",
+      "link": "https://tuoitre.vn/vu-me-va-tre-so-sinh-bi-duoi-khi-den-tram-y-te-tranh-lu-lanh-dao-so-y-te-dak-lak-den-nha-xin-loi-2025120710220342.htm",
+      "summary": "Lãnh đạo Sở Y tế đến nhà xin lỗi người mẹ trẻ từng cùng con là bé sơ sinh từng đến Trạm Y tế xin tránh lũ nhưng không được chấp nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.147017+07:00",
+      "fetched": "2025-12-07T13:24:43.147131+07:00"
+    },
+    {
+      "id": "03cb1fe5c808d2c1c326ed7b52065679",
+      "title": "Nhà vườn thanh long Bình Thuận mất trắng vì lũ",
+      "link": "https://tuoitre.vn/nha-vuon-thanh-long-binh-thuan-mat-trang-vi-lu-20251207105048433.htm",
+      "summary": "Nhà vườn trồng thanh long vùng hạ du hồ Sông Quao (Lâm Đồng) đang có nguy cơ mất trắng vụ Tết, vốn liếng nhiều năm bỗng chốc tiêu tan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146893+07:00",
+      "fetched": "2025-12-07T13:24:43.147006+07:00"
+    },
+    {
+      "id": "45fcac89967c790429f2c18527768eb5",
+      "title": "Cha mẹ cầu thủ Lào gốc Việt sang Thái Lan cổ vũ",
+      "link": "https://tuoitre.vn/cha-me-cau-thu-lao-goc-viet-sang-thai-lan-co-vu-20251207100856909.htm",
+      "summary": "Cha mẹ của tiền vệ Lào gốc Việt Damoth Thongkhamsavath đã sang Thái Lan để cổ vũ con trai thi đấu tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146766+07:00",
+      "fetched": "2025-12-07T13:24:43.146882+07:00"
+    },
+    {
+      "id": "8a9c3d2b8e10920a7860c6cf81cfc967",
+      "title": "Đánh thuế bao cao su chưa đủ để khuyến sinh",
+      "link": "https://tuoitre.vn/danh-thue-bao-cao-su-chua-du-de-khuyen-sinh-20251207102804826.htm",
+      "summary": "Việc Trung Quốc chấm dứt miễn thuế giá trị gia tăng (VAT) với công cụ tránh thai, gồm bao cao su, đánh dấu một sự chuyển dịch chính sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146620+07:00",
+      "fetched": "2025-12-07T13:24:43.146754+07:00"
+    },
+    {
+      "id": "e3ddd7984f390b36041139939c1d1966",
+      "title": "Nước có thể cuốn đi tường vách, nhưng không cuốn nổi gia đình mình",
+      "link": "https://tuoitre.vn/nuoc-co-the-cuon-di-tuong-vach-nhung-khong-cuon-noi-gia-dinh-minh-20251207103200776.htm",
+      "summary": "Mưa đổ xuống mái tôn không còn là tiếng rào rào quen thuộc. Nó giống như những nhát gõ mạnh mẽ vào trí nhớ của mỗi người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146492+07:00",
+      "fetched": "2025-12-07T13:24:43.146608+07:00"
+    },
+    {
+      "id": "1f1f4571b9ec8baab566041bcd7a8891",
+      "title": "5.000 bạn trẻ hoà mình cùng Ngày hội thanh niên Việt Nam 2025",
+      "link": "https://tuoitre.vn/5-000-ban-tre-hoa-minh-cung-ngay-hoi-thanh-nien-viet-nam-2025-2025120710385299.htm",
+      "summary": "Sáng 7-12, tại quảng trường Dĩ An, Trung ương Đoàn đã khai mạc Ngày hội thanh niên Việt Nam 2025 thu hút hơn 5.000 bạn trẻ tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146360+07:00",
+      "fetched": "2025-12-07T13:24:43.146481+07:00"
+    },
+    {
+      "id": "b9d38f526a92a1985f74db20619cd2c2",
+      "title": "Rối ở tuyển bóng bàn Việt Nam",
+      "link": "https://tuoitre.vn/roi-o-tuyen-bong-ban-viet-nam-20251207093934522.htm",
+      "summary": "Vài ngày trước SEA Games 33, lãnh đạo Cục Thể dục Thể thao (TDTT) và ban huấn luyện tuyển bóng bàn họp vụ việc của Đinh Anh Hoàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146222+07:00",
+      "fetched": "2025-12-07T13:24:43.146340+07:00"
+    },
+    {
+      "id": "8b80fc4515029b42b8ca663980a1ae5c",
+      "title": "Đề xuất không cho nuôi chim yến ở Ninh Kiều, Sóc Trăng",
+      "link": "https://tuoitre.vn/de-xuat-khong-cho-nuoi-chim-yen-o-ninh-kieu-soc-trang-20251207110016443.htm",
+      "summary": "Cần Thơ vừa có tờ trình quy định khu vực không được phép chăn nuôi và vùng nuôi chim yến ở thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.146079+07:00",
+      "fetched": "2025-12-07T13:24:43.146210+07:00"
+    },
+    {
+      "id": "26c2e5668edf62cc6727c2d431fa6a98",
+      "title": "Gây quỹ hỗ trợ trẻ em khuyết tật, thiệt hại mưa lũ, Giáng sinh Nha Trang thêm ấm áp",
+      "link": "https://tuoitre.vn/gay-quy-ho-tro-tre-em-khuyet-tat-thiet-hai-mua-lu-giang-sinh-nha-trang-them-am-ap-20251207110419474.htm",
+      "summary": "Các hoạt động gây quỹ giúp đỡ trẻ em khuyết tật, ủng hộ học sinh vùng lũ của các khách sạn ở Nha Trang làm Giáng sinh thêm ấm áp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.145937+07:00",
+      "fetched": "2025-12-07T13:24:43.146066+07:00"
+    },
+    {
+      "id": "c564a36eebc4885e06ff92d4c2cc30cf",
+      "title": "Học sinh, sinh viên TP.HCM 'cháy' trong loạt hoạt động học mà chơi",
+      "link": "https://tuoitre.vn/hoc-sinh-sinh-vien-tp-hcm-chay-trong-loat-hoat-dong-hoc-ma-choi-20251207105430695.htm",
+      "summary": "Ngày hội “Tiếp bước truyền thống học sinh, sinh viên TP.HCM - năm 2025” tại Trường Cao đẳng Sư phạm Bà Rịa - Vũng Tàu sáng 7-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:24:43.145713+07:00",
+      "fetched": "2025-12-07T13:24:43.145921+07:00"
+    },
     {
       "id": "fa60a505bb52bc3ac25b6e9ff167de01",
       "title": "Khi người cao tuổi lên mạng xã hội",
@@ -303,6 +453,326 @@ window.newsData_2025_12_07 = {
       "fetched": "2025-12-07T08:28:14.922790+07:00"
     },
     {
+      "id": "2bef18c6b3979d0de2652704f5433b5e",
+      "title": "U.23 Việt Nam và Indonesia dễ đá 'chung kết sớm': U.23 Thái Lan ‘ngư ông đắc lợi’?",
+      "link": "https://thanhnien.vn/u23-viet-nam-va-indonesia-de-da-chung-ket-som-u23-thai-lan-ngu-ong-dac-loi-185251207124005897.htm",
+      "summary": "Bóng đá nam SEA Games 33 khả năng cao sẽ chứng kiến trận 'chung kết sớm' giữa U.23 Việt Nam và U.23 Indonesia tại bán kết, theo kịch bản ưa thích của chủ nhà Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:59:00+07:00",
+      "fetched": "2025-12-07T13:24:42.433635+07:00"
+    },
+    {
+      "id": "ea0710cca72f3fdeb1655928d0746026",
+      "title": "Người làm công ăn lương nộp thuế thu nhập cá nhân ra sao?",
+      "link": "https://thanhnien.vn/nguoi-lam-cong-an-luong-nop-thue-thu-nhap-ca-nhan-ra-sao-185251207113836397.htm",
+      "summary": "Quy định về thuế thu nhập cá nhân đối với người làm công ăn lương đang được xem xét thay đổi kể từ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:51:00+07:00",
+      "fetched": "2025-12-07T13:24:42.433828+07:00"
+    },
+    {
+      "id": "79762706ba520949b3d0eb47e8124aa8",
+      "title": "Chôn tiền ở dự án 'ma'",
+      "link": "https://vnexpress.net/chon-tien-o-du-an-ma-4990765.html",
+      "summary": "Nhiều người dùng toàn bộ tiền tích lũy để mua đất dự án với kỳ vọng sẽ sinh lời, nhưng do thiếu tìm hiểu và tin tưởng nên bị chủ đầu tư chiếm dụng vốn, bị cuốn vào rắc rối pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:46:06+07:00",
+      "fetched": "2025-12-07T13:24:39.325886+07:00"
+    },
+    {
+      "id": "568010d9673cc6d75914bc50966cb6d2",
+      "title": "Những thay đổi đáng chú ý trên iPhone 18 Pro Max",
+      "link": "https://thanhnien.vn/nhung-thay-doi-dang-chu-y-tren-iphone-18-pro-max-185251206173009478.htm",
+      "summary": "Dù còn khá lâu mới đến ngày ra mắt, nhưng những thông tin về iPhone 18 Pro Max đã bắt đầu xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:45:00+07:00",
+      "fetched": "2025-12-07T13:24:42.433988+07:00"
+    },
+    {
+      "id": "f3a1d2d77e33dfc6cd9e1340de4e5987",
+      "title": "Tỉnh Tây Ninh có thêm 1.467 căn nhà ở xã hội",
+      "link": "https://thanhnien.vn/tinh-tay-ninh-co-them-1467-can-nha-o-xa-hoi-185251207115730987.htm",
+      "summary": "Ngày 7.12, MIK Group đã tổ chức lễ khởi công dự án nhà ở xã hội nhà ở xã hội Green Nestera tại Hậu Nghĩa, tỉnh Tây Ninh (Long An cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:44:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434148+07:00"
+    },
+    {
+      "id": "ccf153e11e027bb541f8535ed53ebb06",
+      "title": "Ẩm thực Việt áp đảo top 100 món ăn sợi ngon nhất thế giới",
+      "link": "https://vnexpress.net/am-thuc-viet-ap-dao-top-100-mon-an-soi-ngon-nhat-the-gioi-4990565.html",
+      "summary": "Với 18 đại diện góp mặt trong danh sách \"100 món sợi ngon nhất thế giới\", ẩm thực Việt Nam đứng thứ hai về số lượng sau Nhật Bản, theo đánh giá của Taste Atlas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:42:29+07:00",
+      "fetched": "2025-12-07T13:24:39.326074+07:00"
+    },
+    {
+      "id": "87bdcf686c480c24aa6bccc5ec3e4f7b",
+      "title": "Vợ con chúc mừng đội bóng của Beckham vô địch MLS Cup",
+      "link": "https://vnexpress.net/vo-con-chuc-mung-doi-bong-cua-beckham-vo-dich-mls-cup-4990774.html",
+      "summary": "Victoria Beckham cùng ba con chia vui với David, khi đội Inter Miami - do anh đồng sở hữu - lần đầu vô địch MLS Cup 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:41:07+07:00",
+      "fetched": "2025-12-07T13:24:39.326242+07:00"
+    },
+    {
+      "id": "23ec7e6898180f9e2ea575bb53ab3ee0",
+      "title": "Thùy Linh khởi đầu vất vả ở SEA Games 33",
+      "link": "https://vnexpress.net/thuy-linh-khoi-dau-vat-va-o-sea-games-33-4990773.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh thắng ngược Karupathevan Letshanaa (Malaysia) 2-1 ở tứ kết nội dung cầu lông đồng đội nữ SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:38:17+07:00",
+      "fetched": "2025-12-07T13:24:39.326401+07:00"
+    },
+    {
+      "id": "23ec7e6898180f9e2ea575bb53ab3ee0",
+      "title": "Thùy Linh khởi đầu vất vả ở SEA Games 33",
+      "link": "https://vnexpress.net/thuy-linh-khoi-dau-vat-va-o-sea-games-33-4990773.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh thắng ngược Karupathevan Letshanaa (Malaysia) 2-1 ở tứ kết nội dung cầu lông đồng đội nữ SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-07T05:38:17+07:00",
+      "fetched": "2025-12-07T13:24:49.370129+07:00"
+    },
+    {
+      "id": "22d2b52ac40a373ea578ec8e63661eaa",
+      "title": "Lãnh đạo Đảng, Nhà nước viếng nguyên Bộ trưởng Khoa học và Công nghệ Chu Tuấn Nhạ",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-vieng-nguyen-bo-truong-khoa-hoc-va-cong-nghe-chu-tuan-nha-4990746.html",
+      "summary": "Sáng 7/12, lễ tang GS.TS Chu Tuấn Nhạ, nguyên Bộ trưởng Khoa học và Công nghệ được tổ chức tại Nhà tang lễ Quốc gia, số 5 Trần Thánh Tông, Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:32:33+07:00",
+      "fetched": "2025-12-07T13:24:39.326563+07:00"
+    },
+    {
+      "id": "22d2b52ac40a373ea578ec8e63661eaa",
+      "title": "Lãnh đạo Đảng, Nhà nước viếng nguyên Bộ trưởng Khoa học và Công nghệ Chu Tuấn Nhạ",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-vieng-nguyen-bo-truong-khoa-hoc-va-cong-nghe-chu-tuan-nha-4990746.html",
+      "summary": "Sáng 7/12, lễ tang GS.TS Chu Tuấn Nhạ, nguyên Bộ trưởng Khoa học và Công nghệ được tổ chức tại Nhà tang lễ Quốc gia, số 5 Trần Thánh Tông, Hà Nội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-07T05:32:33+07:00",
+      "fetched": "2025-12-07T13:24:48.431833+07:00"
+    },
+    {
+      "id": "9b66cde08d8d9db4cb82617588f1b22f",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên - câu chuyện đẹp về kỳ thực tập",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-cau-chuyen-dep-ve-ky-thuc-tap-185251205224837496.htm",
+      "summary": "Tôi làm việc ở Khoa Báo chí và Truyền thông (Trường đại học KHXH&NV TP.HCM). Từ chỗ chỉ là một độc giả trung thành và cộng tác viên của tờ báo, từ năm 2010, tôi có thêm nhiệm vụ đưa sinh viên về Báo Thanh Niên thực tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:32:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434312+07:00"
+    },
+    {
+      "id": "098057ce7f78640c6f3390eced04700f",
+      "title": "Ấn Độ 'đi trên dây' với lựa chọn mua dầu Nga và Mỹ",
+      "link": "https://vnexpress.net/an-do-di-tren-day-voi-lua-chon-mua-dau-nga-va-my-4990553.html",
+      "summary": "Ấn Độ khó từ chối lời mời bán năng lượng của ông Putin, nhưng cũng cần tránh ảnh hưởng đàm phán thương mại với Mỹ nếu mua nhiều dầu Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:25:19+07:00",
+      "fetched": "2025-12-07T13:24:39.326740+07:00"
+    },
+    {
+      "id": "098057ce7f78640c6f3390eced04700f",
+      "title": "Ấn Độ 'đi trên dây' với lựa chọn mua dầu Nga và Mỹ",
+      "link": "https://vnexpress.net/an-do-di-tren-day-voi-lua-chon-mua-dau-nga-va-my-4990553.html",
+      "summary": "Ấn Độ khó từ chối lời mời bán năng lượng của ông Putin, nhưng cũng cần tránh ảnh hưởng đàm phán thương mại với Mỹ nếu mua nhiều dầu Nga.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-07T05:25:19+07:00",
+      "fetched": "2025-12-07T13:24:46.061944+07:00"
+    },
+    {
+      "id": "96878d5bb88ad87f685d32002aacd728",
+      "title": "Vì sao kè biển dự án 12.000 tỉ đồng ở TP.HCM bị sập?",
+      "link": "https://thanhnien.vn/vi-sao-ke-bien-du-an-12000-ti-dong-o-tphcm-bi-sap-185251207111220786.htm",
+      "summary": "Từ khi đồi cát dọc biển Chí Linh bị đơn vị thi công dự án khu đô thị đường 3 Tháng 2 san hạ thì nước biển tràn sâu vào đất liền, khiến kè biển, tường rào của dự án giáp ranh bị hư hỏng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:23:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434469+07:00"
+    },
+    {
+      "id": "354140a5c3df2fb55839e4a20796be92",
+      "title": "Điểm chuẩn y khoa và khối ngành sức khỏe 3 năm gần nhất: Cao, thấp ra sao?",
+      "link": "https://thanhnien.vn/diem-chuan-y-khoa-va-khoi-nganh-suc-khoe-3-nam-gan-nhat-cao-thap-ra-sao-185251205204859581.htm",
+      "summary": "Trong những năm qua, điểm chuẩn khối ngành sức khỏe, đặc biệt là ngành y khoa và răng hàm mặt luôn thuộc top những ngành có điểm chuẩn cao nhất. Tại nhiều trường, điểm chuẩn 2 ngành này cao hơn ngưỡng đảm bảo chất lượng do Bộ GD-ĐT đề ra từ 1 đến gần 8 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:19:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434626+07:00"
+    },
+    {
+      "id": "1f61ad58f6a89e4165124d1902cf280e",
+      "title": "Vợ chồng Trung Quốc sinh con tóc vàng, mắt xanh",
+      "link": "https://vnexpress.net/vo-chong-trung-quoc-sinh-con-toc-vang-mat-xanh-4990755.html",
+      "summary": "Khi vừa chào đời, bé Guojiang khiến bác sĩ, y tá và người thân sửng sốt khi gương mặt mang nét của người phương Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:18:40+07:00",
+      "fetched": "2025-12-07T13:24:39.326900+07:00"
+    },
+    {
+      "id": "fbb7b7fa796195da87c730f1e5a13007",
+      "title": "Vô địch MLS Cup, Messi dự World Cup 2026: David Beckham chi ‘khủng’ cho Inter Miami",
+      "link": "https://thanhnien.vn/vo-dich-mls-cup-messi-du-world-cup-2026-david-beckham-chi-khung-cho-inter-miami-185251207121319078.htm",
+      "summary": "Theo Marca, không còn cách nào tuyệt vời hơn để Messi dự World Cup 2026 với một chiếc cúp danh giá trên tay, ngôi vô địch MLS Cup cùng một năm 2025 chói sáng là quá đủ. Anh sẽ không trì hoãn một lần nào nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:14:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434799+07:00"
+    },
+    {
+      "id": "9e39fd392ce4048ffae771ed2b09c3b8",
+      "title": "Thaco sẽ sản xuất đầu máy toa xe tàu điện đô thị, tàu cao tốc",
+      "link": "https://vnexpress.net/thaco-se-san-xuat-dau-may-toa-xe-tau-dien-do-thi-tau-cao-toc-4990768.html",
+      "summary": "Tập đoàn Trường Hải (Thaco) bắt tay với Hyundai Rotem để nhận chuyển giao công nghệ, sản xuất đầu máy tàu điện đô thị và tàu cao tốc ở trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:09:18+07:00",
+      "fetched": "2025-12-07T13:24:39.327066+07:00"
+    },
+    {
+      "id": "9e39fd392ce4048ffae771ed2b09c3b8",
+      "title": "Thaco sẽ sản xuất đầu máy toa xe tàu điện đô thị, tàu cao tốc",
+      "link": "https://vnexpress.net/thaco-se-san-xuat-dau-may-toa-xe-tau-dien-do-thi-tau-cao-toc-4990768.html",
+      "summary": "Tập đoàn Trường Hải (Thaco) bắt tay với Hyundai Rotem để nhận chuyển giao công nghệ, sản xuất đầu máy tàu điện đô thị và tàu cao tốc ở trong nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-07T05:09:18+07:00",
+      "fetched": "2025-12-07T13:24:46.062119+07:00"
+    },
+    {
+      "id": "5caabced142525f760b676b94b596fa3",
+      "title": "Không muốn về nhà từ khi có bố chồng ở cùng",
+      "link": "https://vnexpress.net/phung-duong-cha-me-khong-muon-ve-vi-can-nha-ngap-tran-mui-nguoi-gia-tu-ba-chong-4990711.html",
+      "summary": "Tôi đang trong trạng thái rất căng thẳng mỗi ngày vì công việc nhiều và cũng vì việc của gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:00:00+07:00",
+      "fetched": "2025-12-07T13:24:39.327222+07:00"
+    },
+    {
+      "id": "7e83b6d2ac8ee01b589b2a21b9b5b5ae",
+      "title": "Hoàng Trung bắn trúng bộ phận nào của Quan Vũ để báo ân?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-hoang-trung-ban-trung-bo-phan-nao-cua-quan-vu-de-bao-an-4989090.html",
+      "summary": "Sau khi được Quan Vũ tha mạng trong trận đầu, Hoàng Trung quyết định trả ơn ở trận sau bằng cách bắn trúng một bộ phận trên giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:00:00+07:00",
+      "fetched": "2025-12-07T13:24:39.327385+07:00"
+    },
+    {
+      "id": "aa2a0761b27ef83d17f21e9007cb872c",
+      "title": "5 câu hỏi trước khi hợp tác với công ty logistics bên thứ ba",
+      "link": "https://vnexpress.net/5-cau-hoi-truoc-khi-hop-tac-voi-cong-ty-logistics-ben-thu-ba-4988935.html",
+      "summary": "Đặt câu hỏi để lựa chọn đối tác logistics bên thứ ba đúng đắn có thể quyết định hiệu quả vận hành, trải nghiệm khách hàng và khả năng mở rộng của doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:00:00+07:00",
+      "fetched": "2025-12-07T13:24:39.327542+07:00"
+    },
+    {
+      "id": "65332615779695768e217cf7d2c61865",
+      "title": "Túi xách và trang phục dạ tweed dẫn dắt xu hướng giao mùa đầy khí chất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-xach-va-trang-phuc-da-tweed-dan-dat-xu-huong-giao-mua-day-khi-chat-185251206214116.htm",
+      "summary": "Trong hành trình xây dựng phong thái quý cô thanh lịch, sự kết hợp giữa dạ tweed và túi xách luôn là công thức bất bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T05:00:00+07:00",
+      "fetched": "2025-12-07T13:24:42.434950+07:00"
+    },
+    {
+      "id": "ebe7d299d350b3fa2c34264383adbd95",
+      "title": "Vì sao nhiều người trẻ mới đi làm quên nói lời chào?",
+      "link": "https://vnexpress.net/ky-nang-mem-ky-nang-giao-tiep-nhieu-nguoi-tre-quen-loi-chao-4990709.html",
+      "summary": "Công ty tôi có nhiều bạn trẻ có chuyên môn tốt nhưng lại bỏ quên kỹ năng cơ bản nhất: một lời chào mỗi khi gặp sếp, đồng nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:52:36+07:00",
+      "fetched": "2025-12-07T13:24:39.327712+07:00"
+    },
+    {
+      "id": "ee3bf3804cee1cd13029beca61fa64d7",
+      "title": "Sinh viên Bách khoa Hà Nội nhận lương trung bình 12 triệu đồng",
+      "link": "https://vnexpress.net/sinh-vien-bach-khoa-ha-noi-nhan-luong-trung-binh-12-trieu-dong-4990762.html",
+      "summary": "Sinh viên tốt nghiệp Đại học Bách khoa Hà Nội nhận lương khởi điểm trung bình 12-12,5 triệu đồng một tháng, cao nhất là nhóm làm việc tại Nhật Bản với 39-42 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:43:33+07:00",
+      "fetched": "2025-12-07T13:24:39.327875+07:00"
+    },
+    {
+      "id": "69b6d74fde6113186d1f634f10b2b392",
+      "title": "Thái Lan chào đón đoàn thể thao Việt Nam đến nơi an toàn:  Mục tiêu 110 HCV SEA Games 33",
+      "link": "https://thanhnien.vn/thai-lan-chao-don-doan-the-thao-viet-nam-den-noi-an-toan-muc-tieu-110-hcv-sea-games-33-185251204134650328.htm",
+      "summary": "Đoàn thể thao Việt Nam đã có mặt ở Thái Lan, sẵn sàng cho những ngày tranh tài khốc liệt tại SEA Games, hướng đến mục tiêu giữ vững vị trí trong nhóm dẫn đầu khu vực Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:42:00+07:00",
+      "fetched": "2025-12-07T13:24:42.435106+07:00"
+    },
+    {
+      "id": "0078c91b684e07d5d38166fbe0268537",
+      "title": "Thủy điện xả lũ gây thiệt hại: Có thể nhờ Viện kiểm sát đại diện khởi kiện",
+      "link": "https://thanhnien.vn/thuy-dien-xa-lu-gay-thiet-hai-co-the-nho-vien-kiem-sat-dai-dien-khoi-kien-185251207104647966.htm",
+      "summary": "Nếu thủy điện xả lũ, xả tràn sai quy định gây thiệt hại, Viện kiểm sát cần vào cuộc để bảo vệ quyền lợi cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:39:00+07:00",
+      "fetched": "2025-12-07T13:24:42.435254+07:00"
+    },
+    {
+      "id": "56def4e2e4872e5423c2fe1811ee780e",
+      "title": "Bỏ thói quen sạc qua đêm để kéo dài tuổi thọ pin điện thoại",
+      "link": "https://thanhnien.vn/bo-thoi-quen-sac-qua-dem-de-keo-dai-tuoi-tho-pin-dien-thoai-185251206064122666.htm",
+      "summary": "Thói quen sạc qua đêm đang khiến pin điện thoại suy giảm nghiêm trọng, điều người dùng không hề nhận ra cho đến khi máy tụt pin bất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:35:00+07:00",
+      "fetched": "2025-12-07T13:24:42.435408+07:00"
+    },
+    {
+      "id": "74165e44cc182fb2cf4a5a343e8e5978",
+      "title": "Cánh trái U.23 Việt Nam: Thừa nhân tài nhưng thiếu ý tưởng, thầy Kim giải sao đây?",
+      "link": "https://thanhnien.vn/canh-trai-u23-viet-nam-thua-nhan-tai-nhung-thieu-y-tuong-thay-kim-giai-sao-day-185251207111304005.htm",
+      "summary": "Các chân chạy cánh trái của U.23 Việt Nam không thể hiện được nhiều ở trận ra quân gặp U.23 Lào, dù được ưu ái dồn bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:32:00+07:00",
+      "fetched": "2025-12-07T13:24:42.435562+07:00"
+    },
+    {
+      "id": "6ae344db48297bd17256ec905fcf83ea",
+      "title": "Thách thức với EU khi muốn dùng tài sản đóng băng của Nga để hỗ trợ Ukraine",
+      "link": "https://vnexpress.net/thach-thuc-voi-eu-khi-muon-dung-tai-san-dong-bang-cua-nga-de-ho-tro-ukraine-4989544.html",
+      "summary": "Nếu EU thất bại với kế hoạch dùng tài sản bị phong tỏa của Nga để hỗ trợ Ukraine, điều này sẽ làm suy yếu nghiêm trọng vị thế và uy tín của khối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:30:44+07:00",
+      "fetched": "2025-12-07T13:24:39.328032+07:00"
+    },
+    {
+      "id": "6ae344db48297bd17256ec905fcf83ea",
+      "title": "Thách thức với EU khi muốn dùng tài sản đóng băng của Nga để hỗ trợ Ukraine",
+      "link": "https://vnexpress.net/thach-thuc-voi-eu-khi-muon-dung-tai-san-dong-bang-cua-nga-de-ho-tro-ukraine-4989544.html",
+      "summary": "Nếu EU thất bại với kế hoạch dùng tài sản bị phong tỏa của Nga để hỗ trợ Ukraine, điều này sẽ làm suy yếu nghiêm trọng vị thế và uy tín của khối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-07T04:30:44+07:00",
+      "fetched": "2025-12-07T13:24:44.272078+07:00"
+    },
+    {
       "id": "ebc2735108c08cc8fe3fa26706bfb129",
       "title": "Sự nghiệp của Anh Tú Atus ra sao sau 6 năm kết hôn với Diệu Nhi?",
       "link": "https://thanhnien.vn/su-nghiep-cua-anh-tu-atus-ra-sao-sau-6-nam-ket-hon-voi-dieu-nhi-185251207110316369.htm",
@@ -323,6 +793,16 @@ window.newsData_2025_12_07 = {
       "fetched": "2025-12-07T11:30:51.571099+07:00"
     },
     {
+      "id": "ade83b1787984cbf6cb386339812c4bf",
+      "title": "Cao nguyên đá Đồng Văn là 'Điểm đến văn hóa hàng đầu thế giới 2025'",
+      "link": "https://vnexpress.net/cao-nguyen-da-dong-van-la-diem-den-van-hoa-hang-dau-the-gioi-2025-4990739.html",
+      "summary": "Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn được vinh danh là \"Điểm đến văn hóa hàng đầu thế giới 2025\", tại lễ trao giải World Travel Awards ở Bahrain, tối 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T04:21:52+07:00",
+      "fetched": "2025-12-07T13:24:39.328181+07:00"
+    },
+    {
       "id": "8fa785643b61620f86fc1a4d4a68e71c",
       "title": "Diễn viên Thanh Hiền đón tin vui",
       "link": "https://thanhnien.vn/dien-vien-thanh-hien-don-tin-vui-185251207101319166.htm",
@@ -341,6 +821,16 @@ window.newsData_2025_12_07 = {
       "category": "Tổng hợp",
       "published": "2025-12-07T04:17:00+07:00",
       "fetched": "2025-12-07T11:30:51.571446+07:00"
+    },
+    {
+      "id": "452dd4ec17ad6fdd393ab80a424f53b5",
+      "title": "Thanh Hóa giải ngân hơn 7.500 tỷ đồng ba chương trình mục tiêu quốc gia",
+      "link": "https://vnexpress.net/thanh-hoa-giai-ngan-hon-7-500-ty-dong-ba-chuong-trinh-muc-tieu-quoc-gia-4990740.html",
+      "summary": "Thanh Hóa tiếp tục là một trong những địa phương dẫn đầu cả nước về số xã và đơn vị cấp huyện cũ đạt chuẩn nông thôn mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-07T04:15:00+07:00",
+      "fetched": "2025-12-07T13:24:46.062586+07:00"
     },
     {
       "id": "7f8428f4bdc5bb486a15cac15aa18c4a",
