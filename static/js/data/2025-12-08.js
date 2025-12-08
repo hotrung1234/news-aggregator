@@ -1,7 +1,57 @@
 window.newsData_2025_12_08 = {
   "date": "2025-12-08",
-  "lastUpdated": "2025-12-08T10:19:42.656902+07:00",
+  "lastUpdated": "2025-12-08T11:31:37.757136+07:00",
   "articles": [
+    {
+      "id": "35c4792d00ad36158466c23ecc3cdbef",
+      "title": "Đề xuất cơ chế đặc thù gỡ khó cho dự án, đất đai trong kết luận thanh tra, bản án trên cả nước",
+      "link": "https://tuoitre.vn/de-xuat-co-che-dac-thu-go-kho-cho-du-an-dat-dai-trong-ket-luan-thanh-tra-ban-an-tren-ca-nuoc-20251208090005956.htm",
+      "summary": "Chính phủ trình Quốc hội đề xuất cơ chế, chính sách đặc thù gỡ vướng cho dự án, đất đai trong kết luận thanh tra, kiểm tra bản án trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T11:31:28.773790+07:00",
+      "fetched": "2025-12-08T11:31:28.773907+07:00"
+    },
+    {
+      "id": "421dc01d40943030beee40158fda68e6",
+      "title": "Sinh viên ngành luật làm việc ở khu vực tư nhân tăng mạnh",
+      "link": "https://tuoitre.vn/sinh-vien-nganh-luat-lam-viec-o-khu-vuc-tu-nhan-tang-manh-20251208074811201.htm",
+      "summary": "Khảo sát tình hình việc làm của Trường đại học Luật TP.HCM năm 2025 cho thấy tỉ lệ sinh viên làm việc khu vực tư nhân tăng 10,9% so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T11:31:28.773659+07:00",
+      "fetched": "2025-12-08T11:31:28.773778+07:00"
+    },
+    {
+      "id": "484ee374213a207125129b49053937cb",
+      "title": "Avatar 3 rút lịch chiếu ở Hong Kong, hoãn đến năm 2026",
+      "link": "https://tuoitre.vn/avatar-3-rut-lich-chieu-o-hong-kong-hoan-den-nam-2026-20251208093535699.htm",
+      "summary": "Nhằm bày tỏ sự tôn trọng đối với người dân sau vụ cháy chung cư Wang Fuk Court vừa qua, hãng phim 20th Century Studios quyết định hoãn lịch phát hành Avatar 3 ở Hong Kong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T11:31:28.773527+07:00",
+      "fetched": "2025-12-08T11:31:28.773647+07:00"
+    },
+    {
+      "id": "11ec2f83e610b6408a71403868145883",
+      "title": "Người trẻ thổi bùng ngọn lửa tình nguyện",
+      "link": "https://tuoitre.vn/nguoi-tre-thoi-bung-ngon-lua-tinh-nguyen-20251208095313189.htm",
+      "summary": "Tại Ngày hội thanh niên Việt Nam năm 2025 diễn ra ở quảng trường Dĩ An (TP.HCM) trong hai ngày 6 và 7-12, Trung ương Đoàn TNCS Hồ Chí Minh đã trao giải thưởng \"Tình nguyện quốc gia\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T11:31:28.773384+07:00",
+      "fetched": "2025-12-08T11:31:28.773515+07:00"
+    },
+    {
+      "id": "6e775d012e48792f9a86f824a42798e9",
+      "title": "Campuchia khoe hình VĐV dự SEA Games 33 giữa lúc căng thẳng biên giới với Thái Lan",
+      "link": "https://tuoitre.vn/campuchia-khoe-hinh-vdv-du-sea-games-33-giua-luc-cang-thang-bien-gioi-voi-thai-lan-2025120809473535.htm",
+      "summary": "Giữa lúc tình hình biên giới Campuchia - Thái Lan lại căng thẳng, Ủy ban Olympic Campuchia (NOCC) đã đăng tải hình ảnh các VĐV nước này đặt chân đến quốc gia láng giềng để tham dự SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T11:31:28.773120+07:00",
+      "fetched": "2025-12-08T11:31:28.773369+07:00"
+    },
     {
       "id": "9193607cb988bc731b36c5c860f637ff",
       "title": "Tổng thống Trump nói 'hơi thất vọng' vì ông Zelensky chưa đọc đề xuất hòa bình",
@@ -301,6 +351,376 @@ window.newsData_2025_12_08 = {
       "category": "Tổng hợp",
       "published": "2025-12-08T08:21:31.653763+07:00",
       "fetched": "2025-12-08T08:21:31.654004+07:00"
+    },
+    {
+      "id": "6143a189773b3640d29c1ab6efe1b1b5",
+      "title": "Không được xuất cảnh vì 'bỗng dưng' trở thành chủ doanh nghiệp nợ thuế",
+      "link": "https://thanhnien.vn/khong-duoc-xuat-canh-vi-bong-dung-tro-thanh-chu-doanh-nghiep-no-thue-185251208110912612.htm",
+      "summary": "Thông tin cá nhân bị kẻ gian lợi dụng thành lập công ty và nợ thuế khiến nhiều trường hợp rơi vào tình cảnh \"choáng váng\" vì bị tạm hoãn xuất cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:30:00+07:00",
+      "fetched": "2025-12-08T11:31:27.638829+07:00"
+    },
+    {
+      "id": "44a55b5c0cd328b340c329d1d5347ba7",
+      "title": "'Kiểm tra thuế 40 ngày là quá dài, gây khó khăn cho doanh nghiệp'",
+      "link": "https://thanhnien.vn/kiem-tra-thue-40-ngay-la-qua-dai-gay-kho-khan-cho-doanh-nghiep-185251208103241021.htm",
+      "summary": "Theo Ủy viên thường trực Hội Tư vấn thuế Việt Nam Nguyễn Văn Được, với trường hợp thông thường, thời hạn kiểm tra thuế tối đa lên tới 40 ngày là quá dài, gây khó khăn cho doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:17:00+07:00",
+      "fetched": "2025-12-08T11:31:27.638997+07:00"
+    },
+    {
+      "id": "522bedf286bf23e0a857c0c2c7051443",
+      "title": "Neymar được ca ngợi như 'Đấng cứu thế' khi giúp Santos trụ hạng",
+      "link": "https://vnexpress.net/neymar-duoc-ca-ngoi-nhu-dang-cuu-the-khi-giup-santos-tru-hang-4991059.html",
+      "summary": "Dù dính chấn thương đầu gối và từng được dự báo khó thi đấu, Neymar vẫn ra sân trong giai đoạn quyết định và trở thành nhân tố then chốt giúp Santos trụ lại hạng đấu cao nhất của Brazil.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:15:06+07:00",
+      "fetched": "2025-12-08T11:31:24.299977+07:00"
+    },
+    {
+      "id": "7b4098a67e4eaf3e9349180a861e744f",
+      "title": "Trung Quốc phản bác cáo buộc ‘khóa mục tiêu’ máy bay chiến đấu Nhật Bản",
+      "link": "https://thanhnien.vn/trung-quoc-phan-bac-cao-buoc-khoa-muc-tieu-may-bay-chien-dau-nhat-ban-185251208105130759.htm",
+      "summary": "Trung Quốc và Nhật Bản công bố thông tin mâu thuẫn về vụ chiến đấu cơ khóa mục tiêu tại biển Hoa Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:13:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639157+07:00"
+    },
+    {
+      "id": "2b91877532d1d47c7cd0a31fd347266b",
+      "title": "Xem nhanh 12h: Đèo Prenn tạm dừng lưu thông | Khoảnh khắc chiến sĩ công an cứu nữ sinh Đắk Lắk",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-deo-prenn-tam-dung-luu-thong-khoanh-khac-chien-si-cong-an-cuu-nu-sinh-dak-lak-185251208110922996.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 8.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:12:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639329+07:00"
+    },
+    {
+      "id": "9501b63e79f6a0191f5cf466dee11c47",
+      "title": "Bộ trưởng Tài chính Mỹ dự báo GDP tăng 3% năm nay",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-my-du-bao-gdp-tang-3-nam-nay-4991026.html",
+      "summary": "Ông Scott Bessent nhận định Mỹ đang bước vào mùa mua sắm cuối năm \"rất mạnh\", và tin rằng nước này kết thúc năm 2025 với nền tảng vững chắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:11:25+07:00",
+      "fetched": "2025-12-08T11:31:24.300154+07:00"
+    },
+    {
+      "id": "458ba96aae17779348d95b0ead161e8c",
+      "title": "Trai quê Trung Quốc có nhà, xe vẫn ế vợ",
+      "link": "https://vnexpress.net/trai-que-trung-quoc-co-nha-xe-van-e-vo-4990907.html",
+      "summary": "Gần 50 tuổi, Li Hongxing vẫn được mẹ nấu ăn sáng và chăm sóc như một đứa trẻ, trong khi anh và hàng triệu đàn ông nông thôn khác đang tuyệt vọng tìm vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:07:17+07:00",
+      "fetched": "2025-12-08T11:31:24.300345+07:00"
+    },
+    {
+      "id": "88640e338dae69a884cdeef12a591da7",
+      "title": "Đặc vụ nhập cư truy đuổi người phụ nữ Mỹ đến tận cửa nhà",
+      "link": "https://vnexpress.net/dac-vu-nhap-cu-truy-duoi-nguoi-phu-nu-my-den-tan-cua-nha-4991049.html",
+      "summary": "Video các đặc vụ bịt mặt đuổi một phụ nữ là công dân Mỹ đến cửa nhà ở New Orleans gây xôn xao về mức độ quyết liệt của chiến dịch truy quét nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:07:12+07:00",
+      "fetched": "2025-12-08T11:31:24.300527+07:00"
+    },
+    {
+      "id": "88640e338dae69a884cdeef12a591da7",
+      "title": "Đặc vụ nhập cư truy đuổi người phụ nữ Mỹ đến tận cửa nhà",
+      "link": "https://vnexpress.net/dac-vu-nhap-cu-truy-duoi-nguoi-phu-nu-my-den-tan-cua-nha-4991049.html",
+      "summary": "Video các đặc vụ bịt mặt đuổi một phụ nữ là công dân Mỹ đến cửa nhà ở New Orleans gây xôn xao về mức độ quyết liệt của chiến dịch truy quét nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T04:07:12+07:00",
+      "fetched": "2025-12-08T11:31:30.662128+07:00"
+    },
+    {
+      "id": "d008b8218c651e1d540fd976bb39b198",
+      "title": "Nước nào duy nhất Đông Nam Á không có đồng tiền riêng?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-nuoc-nao-duy-nhat-dong-nam-a-khong-co-dong-tien-rieng-4991014.html",
+      "summary": "Bạn nghĩ rằng mỗi nước đều có đồng tiền riêng? Ấy thế mà trong Đông Nam Á lại có một quốc gia không có đồng tiền của riêng mình!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:06:28+07:00",
+      "fetched": "2025-12-08T11:31:24.300690+07:00"
+    },
+    {
+      "id": "d191282c4a6a68f27cb9d7a9e20279e4",
+      "title": "Khởi công tuyến ống khoáng nóng cho dự án TTP Onsen",
+      "link": "https://thanhnien.vn/khoi-cong-tuyen-ong-khoang-nong-cho-du-an-ttp-onsen-185251208111241673.htm",
+      "summary": "Tập đoàn TTP khởi công tuyến đường ống dẫn khoáng nóng về dự án TTP Onsen tại Cẩm Phả, đánh dấu bước tiến quan trọng trong hành trình hình thành tổ hợp đô thị - du lịch - nghỉ dưỡng chuẩn Nhật giữa vùng di sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:05:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639495+07:00"
+    },
+    {
+      "id": "0cd7577572234e686df9caca6cad08f0",
+      "title": "Tạm đóng băng tài khoản dự án 'Nuôi Em'",
+      "link": "https://thanhnien.vn/tam-dong-bang-tai-khoan-du-an-nuoi-em-185251208105540138.htm",
+      "summary": "Trước những ồn ào, fanpage của Nuôi em (có hơn 382.000 lượt theo dõi) thông báo tạm đóng băng tài khoản, tạm dừng hoạt động dự án để hỗ trợ minh bạch thu chi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:05:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639649+07:00"
+    },
+    {
+      "id": "3d9c1099b9891d942e20dbfe509d67e2",
+      "title": "Bí quyết chăm sóc sức khỏe toàn diện cho phụ nữ tiền mãn kinh và mãn kinh tại Bệnh viện Đại học Y Dược TP. Hồ Chí Minh",
+      "link": "https://thanhnien.vn/bi-quyet-cham-soc-suc-khoe-toan-dien-cho-phu-nu-tien-man-kinh-va-man-kinh-tai-benh-vien-dai-hoc-y-duoc-tp-ho-chi-minh-18525120509113271.htm",
+      "summary": "Tiền mãn kinh và mãn kinh không phải là “dấu chấm hết” của tuổi xuân. Với sự đồng hành của đội ngũ bác sĩ của Bệnh viện Đại học Y Dược TP. Hồ Chí Minh, mỗi phụ nữ đều có thể bước qua giai đoạn này bằng sự chủ động, vững vàng và tràn đầy tự tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:02:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639800+07:00"
+    },
+    {
+      "id": "49cd6696f0222a09d9173fc3082a9419",
+      "title": "Pearl Land triển khai dự án nhà ở cho lực lượng công an",
+      "link": "https://vnexpress.net/pearl-land-trien-khai-du-an-nha-o-cho-luc-luong-cong-an-4991057.html",
+      "summary": "Công ty Pearl Land triển khai dự án nhà ở cho lực lượng công an nhân dân tại phường Bình Phú, TP HCM, góp phần cải thiện chất lượng sống cho cán bộ, chiến sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:00:00+07:00",
+      "fetched": "2025-12-08T11:31:24.300853+07:00"
+    },
+    {
+      "id": "5bb158833845147e8ed8236ea2e01085",
+      "title": "Yêu cầu đối với người làm truyền thông dưới tác động của công nghệ",
+      "link": "https://vnexpress.net/yeu-cau-doi-voi-nguoi-lam-truyen-thong-duoi-tac-dong-cua-cong-nghe-4991054.html",
+      "summary": "Người làm truyền thông cần thích ứng công nghệ và phát triển bản lĩnh nghề nghiệp gồm tư duy chiến lược, phản biện và sáng tạo để đáp ứng thay đổi từ AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:00:00+07:00",
+      "fetched": "2025-12-08T11:31:24.301006+07:00"
+    },
+    {
+      "id": "d89f69b922e954f64bf71f627ecc6f74",
+      "title": "Điếc, liệt mặt do viêm tai giữa biến chứng",
+      "link": "https://vnexpress.net/diec-liet-mat-do-viem-tai-giua-bien-chung-4991046.html",
+      "summary": "Chị Hà, 38 tuổi, viêm tai giữa kéo dài, khiến nhiễm trùng, thủng màng nhĩ, tác động dây thần kinh 7 gây điếc, liệt mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:00:00+07:00",
+      "fetched": "2025-12-08T11:31:24.301157+07:00"
+    },
+    {
+      "id": "79bf600d8aa39b8922720f7973a9cb99",
+      "title": "Đầm sơ mi luôn được quý cô hiện đại ưu tiên",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-so-mi-luon-duoc-quy-co-hien-dai-uu-tien-185251205110704516.htm",
+      "summary": "Được xem là chiếc đầm midi đơn giản nhưng đẹp xuất sắc, đầm sơ mi dễ dàng trở thành lựa chọn được ưu tiên hàng đầu của mọi cô nàng hiện đại. Mùa này, các thiết kế họa tiết nhã nhặn và lịch thiệp trở thành tâm điểm trong khi thiết kế đơn sắc có sự cải tiến đáng kể ở phần cổ áo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T04:00:00+07:00",
+      "fetched": "2025-12-08T11:31:27.639965+07:00"
+    },
+    {
+      "id": "b67f371afda06c974dbc2dd4d3e0d49d",
+      "title": "Dàn sao Việt chúc mừng đám cưới em chồng Tăng Thanh Hà",
+      "link": "https://thanhnien.vn/dan-sao-viet-chuc-mung-dam-cuoi-em-chong-tang-thanh-ha-185251208092621444.htm",
+      "summary": "Tuy không hoạt động trong lĩnh vực giải trí nhưng Tiên Nguyễn - em chồng Tăng Thanh Hà lại có mối quan hệ thân thiết với nhiều sao Việt như Tóc Tiên, Văn Mai Hương, Hoa hậu Đặng Thu Thảo, Phương Khánh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:59:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640126+07:00"
+    },
+    {
+      "id": "2c859bcfed044dd40ee726ca4e4912c2",
+      "title": "Hơn 10.300 tỷ đồng xây cao tốc Gò Dầu - Xa Mát",
+      "link": "https://vnexpress.net/hon-10-300-ty-dong-xay-cao-toc-go-dau-xa-mat-4991043.html",
+      "summary": "Cao tốc Gò Dầu - Xa Mát giai đoạn một dài 28 km, tổng mức đầu tư gần 10.300 tỷ đồng dự kiến hoàn thành trước năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:54:27+07:00",
+      "fetched": "2025-12-08T11:31:24.301331+07:00"
+    },
+    {
+      "id": "c6cffd382f871f120d6eaf9837672d40",
+      "title": "Vì sao Vietnettour chọn ‘đi chậm’ để phát triển MICEtour và du lịch chậm?",
+      "link": "https://thanhnien.vn/vi-sao-vietnettour-chon-di-cham-de-phat-trien-micetour-va-du-lich-cham-18525120810583767.htm",
+      "summary": "Trụ sở mới của Vietnettour được xây dựng theo tinh thần du lịch chậm, nơi mọi chi tiết được giản lược khỏi sự vội vàng thường thấy ở ngành dịch vụ. Không gian này giúp khách hàng dễ dàng lắng nghe tư vấn, cảm nhận sự tinh tế và hình dung rõ hơn về những hành trình 'đi ít cảm nhiều' mà Vietnettour th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:54:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640284+07:00"
+    },
+    {
+      "id": "d3bb7cc864de71ad53ccaa5d1220cf6a",
+      "title": "Chiều nay, Thủy điện Trị An xả lũ đợt 3",
+      "link": "https://thanhnien.vn/chieu-nay-thuy-dien-tri-an-xa-lu-dot-3-185251208101931211.htm",
+      "summary": "Do lượng nước ở thượng nguồn đổ về nhiều, từ chiều 8.12, Thủy điện sẽ tiến hành xả lũ đợt 3 qua đập tràn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:51:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640458+07:00"
+    },
+    {
+      "id": "6b1a8be66459dee1178dca59751aaf54",
+      "title": "Xe tải tông đuôi xe đầu kéo, hai người tử vong",
+      "link": "https://vnexpress.net/xe-tai-tong-duoi-xe-dau-keo-hai-nguoi-tu-vong-4991038.html",
+      "summary": "Ôtô tải đi phía sau va chạm vào đuôi xe đầu kéo trên cao tốc Bùng - Vạn Ninh khiến hai người chết, ba người bị thương, sáng 8/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:49:57+07:00",
+      "fetched": "2025-12-08T11:31:24.301520+07:00"
+    },
+    {
+      "id": "6667492de5bea0255dabd6797e69c7d3",
+      "title": "Hà Nội có thể phá dỡ, cải tạo chung cư cũ nếu 75% chủ nhà đồng ý",
+      "link": "https://vnexpress.net/ha-noi-co-the-pha-do-cai-tao-chung-cu-cu-neu-75-chu-nha-dong-y-4990970.html",
+      "summary": "Chính phủ đề xuất Hà Nội có thể cưỡng chế phá dỡ, cải tạo chung cư cũ khi hơn 75% chủ sở hữu đồng thuận, nhưng nhiều đại biểu Quốc hội cho rằng tỷ lệ này vẫn cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:48:55+07:00",
+      "fetched": "2025-12-08T11:31:24.301678+07:00"
+    },
+    {
+      "id": "6667492de5bea0255dabd6797e69c7d3",
+      "title": "Hà Nội có thể phá dỡ, cải tạo chung cư cũ nếu 75% chủ nhà đồng ý",
+      "link": "https://vnexpress.net/ha-noi-co-the-pha-do-cai-tao-chung-cu-cu-neu-75-chu-nha-dong-y-4990970.html",
+      "summary": "Chính phủ đề xuất Hà Nội có thể cưỡng chế phá dỡ, cải tạo chung cư cũ khi hơn 75% chủ sở hữu đồng thuận, nhưng nhiều đại biểu Quốc hội cho rằng tỷ lệ này vẫn cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-08T03:48:55+07:00",
+      "fetched": "2025-12-08T11:31:32.695546+07:00"
+    },
+    {
+      "id": "81a01704889148fea34671fad7ba9b99",
+      "title": "Phá án mạng bế tắc 20 năm nhờ đầu mẩu thuốc lá",
+      "link": "https://vnexpress.net/pha-an-mang-be-tac-20-nam-nho-dau-mau-thuoc-la-4991047.html",
+      "summary": "Cảnh sát xác định được nghi phạm sát hại, thiêu sống một phụ nữ nhờ ADN từ đầu lọc thuốc lá, tuy nhiên kẻ này đã qua đời vào năm 2014.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:48:52+07:00",
+      "fetched": "2025-12-08T11:31:24.301835+07:00"
+    },
+    {
+      "id": "55cc4073037968791d6a580c0d2e2e9f",
+      "title": "FAM chính thức nộp đơn kiện FIFA lên CAS, bê bối nhập tịch lậu Malaysia có bước ngoặt nóng",
+      "link": "https://thanhnien.vn/fam-chinh-thuc-nop-don-kien-fifa-len-cas-185251208104451383.htm",
+      "summary": "Theo New Straits Times, sáng 8.12, quyền Chủ tịch Liên đoàn Bóng đá Malaysia (FAM) Yusoff Mahadi xác nhận, cơ quan này đã chính thức gửi đơn kháng cáo án phạt của FIFA lên Tòa án Trọng tài Thể thao quốc tế (CAS).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:47:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640615+07:00"
+    },
+    {
+      "id": "9529b064a68ec9f5ea362895f624b4ef",
+      "title": "Hollywood sốc khi Netflix thâu tóm Warner Bros.",
+      "link": "https://vnexpress.net/hollywood-soc-khi-netflix-thau-tom-warner-bros-4990795.html",
+      "summary": "Giới chuyên môn Hollywood sốc vì Netflix chi 82,7 tỷ USD mua Warner Bros. Discovery, gồm cả HBO Max, có thể khiến hàng nghìn người mất việc làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:46:54+07:00",
+      "fetched": "2025-12-08T11:31:24.301993+07:00"
+    },
+    {
+      "id": "38eb35bd9c3b829b85cf217e59572e99",
+      "title": "30 năm Samsung xây 'cứ điểm công nghệ' Việt",
+      "link": "https://vnexpress.net/30-nam-samsung-xay-cu-diem-cong-nghe-viet-4985605.html",
+      "summary": "Từ nhà máy TV năm 1995, Samsung rót 23,2 tỷ USD mở rộng hệ sinh thái sản xuất lẫn R&D, tham vọng biến thị trường Việt thành \"cứ điểm đổi mới sáng tạo\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:45:00+07:00",
+      "fetched": "2025-12-08T11:31:24.302149+07:00"
+    },
+    {
+      "id": "fcf0065cfcb99fe2517a6df7f0a315a8",
+      "title": "Sacombank đạt VNCG50 - Khẳng định chuẩn mực theo thông lệ quốc tế",
+      "link": "https://thanhnien.vn/sacombank-dat-vncg50-khang-dinh-chuan-muc-theo-thong-le-quoc-te-185251208093450171.htm",
+      "summary": "Việc Sacombank được xác nhận đạt chuẩn VNCG50 (Bộ tiêu chí đánh giá thực hành quản trị công ty theo thông lệ tốt dành cho các doanh nghiệp niêm yết tại Việt Nam) mang ý nghĩa nổi bật khi ngân hàng đang trong giai đoạn thực hiện Đề án tái cơ cấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:45:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640771+07:00"
+    },
+    {
+      "id": "38eb35bd9c3b829b85cf217e59572e99",
+      "title": "30 năm Samsung xây 'cứ điểm công nghệ' Việt",
+      "link": "https://vnexpress.net/30-nam-samsung-xay-cu-diem-cong-nghe-viet-4985605.html",
+      "summary": "Từ nhà máy TV năm 1995, Samsung rót 23,2 tỷ USD mở rộng hệ sinh thái sản xuất lẫn R&D, tham vọng biến thị trường Việt thành \"cứ điểm đổi mới sáng tạo\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-08T03:45:00+07:00",
+      "fetched": "2025-12-08T11:31:32.696382+07:00"
+    },
+    {
+      "id": "ef8c802c8e13aacbe17b19e93825b39d",
+      "title": "Đàm Vĩnh Hưng ôm thùng tiền xin quyên góp",
+      "link": "https://thanhnien.vn/dam-vinh-hung-om-thung-tien-xin-quyen-gop-185251208104239178.htm",
+      "summary": "Chương trình nghệ thuật thiện nguyện Tình người giữa bão lũ quy tụ đông đảo nghệ sĩ cùng cất tiếng hát và chung tay lan tỏa tấm lòng hướng về miền Trung. Những lời ca, hành động sẻ chia và quyên góp thiết thực của nghệ sĩ, mạnh thường quân, phụ huynh và học sinh đã tiếp thêm nguồn lực giúp đồng bào ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:44:00+07:00",
+      "fetched": "2025-12-08T11:31:27.640932+07:00"
+    },
+    {
+      "id": "68f9e5432798f220f268b72de4ad929f",
+      "title": "'Đập thùng' Honda Wave 125R đầu tiên về Việt Nam",
+      "link": "https://vnexpress.net/dap-thung-honda-wave-125r-dau-tien-ve-viet-nam-4990871.html",
+      "summary": "Phiên bản đặc biệt của Wave nhập khẩu tư nhân từ Thái Lan với ngoại hình thể thao, phuộc sau của Profender.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:42:59+07:00",
+      "fetched": "2025-12-08T11:31:24.302332+07:00"
+    },
+    {
+      "id": "919983a82d2ffc0c185a8f767b2f7eb2",
+      "title": "Vì sao Samsung không nâng cấp camera Galaxy S26?",
+      "link": "https://thanhnien.vn/vi-sao-samsung-khong-nang-cap-camera-galaxy-s26-185251207112022413.htm",
+      "summary": "Vì sao Samsung quyết định không nâng cấp Megapixel cho flagship Galaxy S26?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T03:42:00+07:00",
+      "fetched": "2025-12-08T11:31:27.641079+07:00"
+    },
+    {
+      "id": "4810ef3d983d9484e74a601507d0771d",
+      "title": "Cựu đồng minh nói chính sách của ông Trump 'mất chất MAGA'",
+      "link": "https://vnexpress.net/cuu-dong-minh-noi-chinh-sach-cua-ong-trump-mat-chat-maga-4990956.html",
+      "summary": "Nghị sĩ từng là đồng minh trung thành của Tổng thống Trump chỉ trích loạt chính sách thời gian qua của ông Trump không còn \"đặt nước Mỹ trước tiên\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T03:41:44+07:00",
+      "fetched": "2025-12-08T11:31:30.662358+07:00"
+    },
+    {
+      "id": "4af16bfa9bcb2a272d6029c7270e47df",
+      "title": "Ông Hun Sen hủy mọi lịch trình để ứng phó căng thẳng với Thái Lan",
+      "link": "https://vnexpress.net/ong-hun-sen-huy-moi-lich-trinh-de-ung-pho-cang-thang-voi-thai-lan-4991004.html",
+      "summary": "Ông Hun Sen hủy mọi lịch trình làm việc để cùng Thủ tướng Hun Manet ứng phó căng thẳng với Thái Lan, khi giao tranh biên giới tái bùng phát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T03:41:05+07:00",
+      "fetched": "2025-12-08T11:31:30.662541+07:00"
+    },
+    {
+      "id": "23b8578e2c1426ff00d5fa4608e5d3a8",
+      "title": "Hôm nay đóng cổng bình chọn Sơ loại Tech Awards 2025",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-so-loai-tech-awards-2025-4990982.html",
+      "summary": "Vòng Sơ loại của chương trình Bình chọn Công nghệ Xuất sắc - Tech Awards 2025 sẽ diễn ra đến hết ngày 8/12 với 16 hạng mục.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-08T03:30:56+07:00",
+      "fetched": "2025-12-08T11:31:35.847170+07:00"
+    },
+    {
+      "id": "785166da163858800349a2eab303cb9b",
+      "title": "Doanh nghiệp bán lẻ nước ngoài tất bật mở rộng ở Việt Nam",
+      "link": "https://vnexpress.net/doanh-nghiep-ban-le-nuoc-ngoai-tat-bat-mo-rong-o-viet-nam-4988954.html",
+      "summary": "Nhận hơn 2.000 đơn đặt trước từ quầy trải nghiệm khi thăm dò Việt Nam, một hiệu kính Nhật Bản quyết định mở cùng lúc 3 cửa hàng trong tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-08T03:20:52+07:00",
+      "fetched": "2025-12-08T11:31:32.695720+07:00"
     },
     {
       "id": "6f6d019ddbc1951a8183abbd592a64a5",
