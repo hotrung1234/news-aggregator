@@ -1,7 +1,157 @@
 window.newsData_2025_12_09 = {
   "date": "2025-12-09",
-  "lastUpdated": "2025-12-09T05:17:36.598094+07:00",
+  "lastUpdated": "2025-12-09T08:21:09.049762+07:00",
   "articles": [
+    {
+      "id": "43b5e7cb20381d6df50a21d61c7beb12",
+      "title": "Đập Tam Giang bị lũ đánh vỡ, 800ha lúa đông xuân nguy cơ chậm gieo sạ",
+      "link": "https://tuoitre.vn/dap-tam-giang-bi-lu-danh-vo-800ha-lua-dong-xuan-nguy-co-cham-gieo-sa-20251208195100309.htm",
+      "summary": "Đập Tam Giang chắn ngang sông Cái ở địa bàn 2 xã Tuy An Đông và Tuy An Bắc (tỉnh Phú Yên cũ, nay thuộc Đắk Lắk) bị hư hỏng nghiêm trọng do lũ lớn vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.342255+07:00",
+      "fetched": "2025-12-09T08:21:03.342368+07:00"
+    },
+    {
+      "id": "9530207dc43451b67647ea4739319863",
+      "title": "Ai sẽ mang về HCV SEA Games 33 đầu tiên cho Việt Nam?",
+      "link": "https://tuoitre.vn/ai-se-mang-ve-hcv-sea-games-33-dau-tien-cho-viet-nam-20251206200532046.htm",
+      "summary": "Tấm huy chương, hay cụ thể hơn là huy chương vàng (HCV) đầu tiên luôn rất ý nghĩa với các đoàn thể thao khi tham dự SEA Games. Vậy ở kỳ SEA Games 33, môn thể thao nào hứa hẹn sẽ \"mở hàng\" cho Việt Nam?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.342131+07:00",
+      "fetched": "2025-12-09T08:21:03.342244+07:00"
+    },
+    {
+      "id": "e6e3714f960cb1fa4102704fa3422e8c",
+      "title": "Tác dụng bất ngờ từ củ gừng và những lưu ý khi sử dụng",
+      "link": "https://tuoitre.vn/tac-dung-bat-ngo-tu-cu-gung-va-nhung-luu-y-khi-su-dung-20251208161559011.htm",
+      "summary": "Gừng với vị cay và tính ấm, là vị thuốc khi trời trở lạnh. Các bài thuốc như trà gừng mật ong hay ngâm chân bằng gừng giúp giữ ấm, ngủ ngon. Tuy nhiên, có 4 nhóm người cần lưu ý khi sử dụng gừng để chăm sóc sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.342004+07:00",
+      "fetched": "2025-12-09T08:21:03.342120+07:00"
+    },
+    {
+      "id": "f4377f3d82df99ffa7650e553a23bb64",
+      "title": "Công an ở Huế giải cứu nạn nhân quê Thái Nguyên bị lừa đảo ‘bắt cóc online’",
+      "link": "https://tuoitre.vn/cong-an-o-hue-giai-cuu-nan-nhan-que-thai-nguyen-bi-lua-dao-bat-coc-online-20251209073808522.htm",
+      "summary": "Công an phường Phú Bài ở TP Huế vừa giải cứu 1 nạn nhân trẻ tuổi quê Hưng Yên bị lừa đảo, bắt cóc online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341876+07:00",
+      "fetched": "2025-12-09T08:21:03.341993+07:00"
+    },
+    {
+      "id": "e2912da1dbf92adc666fd4765428b428",
+      "title": "HLV Amorim tiết lộ lý do Man United đánh bại Wolves",
+      "link": "https://tuoitre.vn/hlv-amorim-tiet-lo-ly-do-man-united-danh-bai-wolves-20251209074450604.htm",
+      "summary": "Sau trận thắng tưng bừng trước Wolverhampton Wanderers (Wolves) với tỉ số 4-1 tại vòng 15 giải Ngoại hạng Anh, HLV Amorim (Man United) không giấu nổi sự vui mừng trong cuộc phỏng vấn mới đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341729+07:00",
+      "fetched": "2025-12-09T08:21:03.341864+07:00"
+    },
+    {
+      "id": "9bb392ea830dca18e337c8dc92254c4f",
+      "title": "Ukraine sắp trình bày với Mỹ kế hoạch hòa bình sửa đổi gồm 20 điểm",
+      "link": "https://tuoitre.vn/ukraine-sap-trinh-bay-voi-my-ke-hoach-hoa-binh-sua-doi-gom-20-diem-20251209073420402.htm",
+      "summary": "Ông Zelensky thông báo sắp gửi kế hoạch hòa bình sửa đổi cho Mỹ, nhưng nước này sẽ không nhượng bộ Nga về vấn đề lãnh thổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341587+07:00",
+      "fetched": "2025-12-09T08:21:03.341718+07:00"
+    },
+    {
+      "id": "0d7099f5809dd3f0e3f7ddfa6cc0178b",
+      "title": "Quảng Ninh hai di sản thế giới và khát vọng trung tâm văn hóa của khu vực",
+      "link": "https://tuoitre.vn/quang-ninh-hai-di-san-the-gioi-va-khat-vong-trung-tam-van-hoa-cua-khu-vuc-20251203180529668.htm",
+      "summary": "Từ di sản thiên nhiên thế giới đến di sản văn hóa thế giới, đất mỏ Quảng Ninh như ‘hổ mọc thêm cánh’ trong khát vọng biến nơi đây không chỉ thành trung tâm du lịch mà còn là trung tâm công nghiệp văn hóa và sáng tạo mới của khu vực. Trên đường từ “nâ",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341461+07:00",
+      "fetched": "2025-12-09T08:21:03.341576+07:00"
+    },
+    {
+      "id": "a962624376cef73622fd476cd4c48633",
+      "title": "Hàn Quốc quảng bá du lịch chữa lành tại làng cổ ở Jeonbuk trong Mây họa ánh trăng",
+      "link": "https://tuoitre.vn/han-quoc-quang-ba-du-lich-chua-lanh-tai-lang-co-o-jeonbuk-trong-may-hoa-anh-trang-2025120900333467.htm",
+      "summary": "Không chỉ nổi tiếng với làng cổ Jeonju Hanok, Jeonbuk còn là điểm đến của du lịch chữa lành tiềm năng đối với khách Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341332+07:00",
+      "fetched": "2025-12-09T08:21:03.341449+07:00"
+    },
+    {
+      "id": "f298b98e9ed76e169f182e1fbbc0df5a",
+      "title": "Camera MERCUSYS: Giải pháp giám sát dễ dàng cho gia đình",
+      "link": "https://tuoitre.vn/camera-mercusys-giai-phap-giam-sat-de-dang-cho-gia-dinh-20251208142144134.htm",
+      "summary": "Khi nhu cầu an ninh ngày càng được quan tâm, các gia đình đang tìm kiếm những giải pháp giám sát đơn giản, dễ sử dụng nhưng vẫn mang lại sự chủ động và an tâm dài lâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341195+07:00",
+      "fetched": "2025-12-09T08:21:03.341318+07:00"
+    },
+    {
+      "id": "1d11e1afc11f32067237a420df9cedef",
+      "title": "Tranh đèn DecorNow: Giải pháp quà tặng tinh tế",
+      "link": "https://tuoitre.vn/tranh-den-decornow-giai-phap-qua-tang-tinh-te-20251208193521166.htm",
+      "summary": "Khi quà tặng mang giá trị tinh thần lên ngôi, những dòng tranh ứng dụng công nghệ ánh sáng dần được yêu thích nhờ khả năng truyền tải lời chúc và cảm xúc của người tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.341065+07:00",
+      "fetched": "2025-12-09T08:21:03.341184+07:00"
+    },
+    {
+      "id": "acf11b7171b6d58f9e8e4204828493f7",
+      "title": "Điểm tin 8h: TP.HCM bắn pháo hoa tại 4 điểm dịp Tết dương lịch; 'Sói robot' đuổi gấu gây sốt",
+      "link": "https://tuoitre.vn/diem-tin-8h-tp-hcm-ban-phao-hoa-tai-4-diem-dip-tet-duong-lich-soi-robot-duoi-gau-gay-sot-20251209053813007.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 9-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.340934+07:00",
+      "fetched": "2025-12-09T08:21:03.341053+07:00"
+    },
+    {
+      "id": "82ee794a706050d4d85cbb588b097e2c",
+      "title": "Tai nạn nghiêm trọng giữa xe khách và đầu kéo trên cao tốc, 3 người chết, nhiều người bị thương",
+      "link": "https://tuoitre.vn/tai-nan-nghiem-trong-giua-xe-khach-va-dau-keo-tren-cao-toc-3-nguoi-chet-nhieu-nguoi-bi-thuong-20251209074453833.htm",
+      "summary": "Một vụ tai nạn nghiêm trọng giữa xe khách 16 chỗ và xe đầu kéo trên đường cao tốc Đà Nẵng - Quảng Ngãi sáng nay khiến 3 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.340794+07:00",
+      "fetched": "2025-12-09T08:21:03.340918+07:00"
+    },
+    {
+      "id": "f1fc4e276ec3cc26659aa2d053ffb51d",
+      "title": "Ai giám sát các dự án thiện nguyện cá nhân?",
+      "link": "https://tuoitre.vn/ai-giam-sat-cac-du-an-thien-nguyen-ca-nhan-20251209080848887.htm",
+      "summary": "Xoay quanh dự án 'Nuôi em' thiếu minh bạch tài chính, nhiều câu hỏi đặt ra về số tiền hàng trăm tỉ đồng quyên góp cho dự án mỗi năm chảy về đâu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.340642+07:00",
+      "fetched": "2025-12-09T08:21:03.340781+07:00"
+    },
+    {
+      "id": "fbc48ecf0268a9357d7165c73dfb433b",
+      "title": "Lại cảnh báo đỏ ô nhiễm không khí tại Hà Nội",
+      "link": "https://tuoitre.vn/lai-canh-bao-do-o-nhiem-khong-khi-tai-ha-noi-20251209080134981.htm",
+      "summary": "Từ rạng sáng đến trưa 8-12 tại một số điểm quan trắc ở Hà Nội đều cho kết quả chất lượng không khí xấu (cảnh báo đỏ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.340491+07:00",
+      "fetched": "2025-12-09T08:21:03.340629+07:00"
+    },
+    {
+      "id": "fcbac96ab61c4e1debf5dcd35aee0f82",
+      "title": "Sáng nay xét xử bà Nguyễn Thị Thanh Nhàn, cựu Giám đốc Sở GD&ĐT TP.HCM Lê Hồng Sơn",
+      "link": "https://tuoitre.vn/sang-nay-xet-xu-ba-nguyen-thi-thanh-nhan-cuu-giam-doc-so-gd-dt-tp-hcm-le-hong-son-2025120907160928.htm",
+      "summary": "Sáng 9-12, Tòa án Nhân dân TP.HCM mở phiên tòa xét xử vụ án vi phạm quy định về đấu thầu liên quan đến bà Nguyễn Thị Thanh Nhàn, Công ty AIC và Sở Giáo dục và Đào tạo TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T08:21:03.340262+07:00",
+      "fetched": "2025-12-09T08:21:03.340476+07:00"
+    },
     {
       "id": "b5229bb1965d72af7bb6045b0b3c0962",
       "title": "Tổng thống Zelensky tới London hội đàm với ba nhà lãnh đạo châu Âu",
@@ -181,6 +331,436 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T01:27:47.020265+07:00",
       "fetched": "2025-12-09T01:27:47.020472+07:00"
+    },
+    {
+      "id": "02ed17448b192690d75e1d8e34cb8322",
+      "title": "Bộ trưởng Nguyễn Văn Hùng mong muốn đoàn thể thao Việt Nam thực hiện lời căn dặn của Thủ tướng",
+      "link": "https://thanhnien.vn/bo-truong-nguyen-van-hung-mong-muon-doan-the-thao-viet-nam-thuc-hien-loi-can-dan-cua-thu-tuong-18525120908170333.htm",
+      "summary": "9 giờ sáng 9.12, Bộ trưởng Bộ VH-TT-DL Nguyễn Văn Hùng sẽ tới thăm hỏi, động viên đoàn thể thao Việt Nam tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:20:00+07:00",
+      "fetched": "2025-12-09T08:21:02.221299+07:00"
+    },
+    {
+      "id": "716449fcf61ea28ead7620e7baf3d6b4",
+      "title": "Tai nạn trên cao tốc Đà Nẵng - Quảng Ngãi, 3 hành khách tử vong",
+      "link": "https://thanhnien.vn/tai-nan-tren-cao-toc-da-nang-quang-ngai-3-hanh-khach-tu-vong-185251209075054588.htm",
+      "summary": "Một vụ tai nạn nghiêm trọng xảy ra trên cao tốc Đà Nẵng - Quảng Ngãi giữa xe khách 16 chỗ và xe đầu kéo khiến 3 hành khách tử vong tại chỗ, 10 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:18:00+07:00",
+      "fetched": "2025-12-09T08:21:02.221471+07:00"
+    },
+    {
+      "id": "43a131fef34956f48282694a093f80ae",
+      "title": "Văn chương Việt trong vòng xoáy AI",
+      "link": "https://thanhnien.vn/van-chuong-viet-trong-vong-xoay-ai-185251208214838737.htm",
+      "summary": "Sự bùng nổ của trí tuệ nhân tạo (AI) đưa văn chương và người đọc vào thời khắc chuyển mình chưa từng có. Nó có thể được xem là công cụ hỗ trợ người viết, cũng gợi mở vô số thách thức cùng các áp lực mới cần đối mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:15:00+07:00",
+      "fetched": "2025-12-09T08:21:02.221632+07:00"
+    },
+    {
+      "id": "946a6eafff99e5a470cc24e0191816e6",
+      "title": "'Bài học cuộc đời' của du khách nước ngoài trong chuyến đi đến Việt Nam",
+      "link": "https://thanhnien.vn/bai-hoc-cuoc-doi-cua-du-khach-nuoc-ngoai-trong-chuyen-di-den-viet-nam-185251125145832473.htm",
+      "summary": "'Tôi không thể nhớ nổi điều gì mình đã học trong những năm cuối trung học. Nhưng mọi thứ tôi học được sau khi đặt chân đến Việt Nam đều ở lại trong tôi mãi mãi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:13:00+07:00",
+      "fetched": "2025-12-09T08:21:02.221811+07:00"
+    },
+    {
+      "id": "a8a71bcc7f088aae8614d4d84028c348",
+      "title": "Làm báo không phải chỉ đưa tin, mà để gieo hy vọng",
+      "link": "https://thanhnien.vn/lam-bao-khong-phai-chi-dua-tin-ma-de-gieo-hy-vong-185251208195238691.htm",
+      "summary": "Làm báo là kể những câu chuyện bằng cả trái tim, để chạm đến lòng người, khơi lên hy vọng, kết nối yêu thương. Không chỉ đưa tin, những người làm báo trước hết là vì con người và một xã hội tử tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:09:00+07:00",
+      "fetched": "2025-12-09T08:21:02.221972+07:00"
+    },
+    {
+      "id": "d53e8d948682bde73fd30284ecdb8dc2",
+      "title": "Cây thông LEGO khổng lồ hút khách ở TP.HCM",
+      "link": "https://thanhnien.vn/cay-thong-lego-khong-lo-hut-khach-o-tphcm-185251208180145108.htm",
+      "summary": "Mô hình cây thông LEGO cao 5m đặt tại Trung tâm thương mại Estella Place (TP.HCM) đang trở thành điểm check-in thu hút đông đảo gia đình, giới trẻ và các em nhỏ trong mùa Giáng sinh năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:08:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222127+07:00"
+    },
+    {
+      "id": "2c55579bcfc0438d761481c08278502b",
+      "title": "Đi bộ bao nhiêu phút mỗi ngày để giảm mỡ bụng rõ rệt?",
+      "link": "https://thanhnien.vn/di-bo-bao-nhieu-phut-moi-ngay-de-giam-mo-bung-ro-ret-185251208152020486.htm",
+      "summary": "Nhiều nghiên cứu cho thấy đi bộ đều đặn với cường độ vừa phải hoặc nhanh có thể giúp giảm mỡ bụng, đặc biệt là mỡ nội tạng. Hiệu quả này đặc biệt rõ nếu kết hợp với chế độ ăn hợp lý và duy trì lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:07:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222281+07:00"
+    },
+    {
+      "id": "049819ae046a2e9ad74901c4d43ad9cc",
+      "title": "'Ngựa chiến' an ninh mạng của Bách khoa TP HCM",
+      "link": "https://vnexpress.net/ngua-chien-an-ninh-mang-cua-bach-khoa-tp-hcm-4991353.html",
+      "summary": "Đằng sau vẻ điềm tĩnh, Lê Hồng Minh là một \"chiến binh\" thực thụ tại các đấu trường an ninh mạng nhờ tốc độ và kỷ luật thép, tốt nghiệp xuất sắc với điểm GPA 3.7/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:06:44+07:00",
+      "fetched": "2025-12-09T08:20:58.904321+07:00"
+    },
+    {
+      "id": "c98746a56d98629dfe529c934ea0a87c",
+      "title": "Virus tấn công du thuyền hạng sang, hơn 100 du khách ốm nặng",
+      "link": "https://thanhnien.vn/virus-tan-cong-du-thuyen-hang-sang-hon-100-du-khach-om-nang-185251209064531665.htm",
+      "summary": "Không gì tệ hơn việc bị đau ốm trong kỳ nghỉ, nhất là căn bệnh gây nôn mửa trên du thuyền hạng sang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:06:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222440+07:00"
+    },
+    {
+      "id": "77ece33d20a44a505694cbe128044905",
+      "title": "Tân binh kiện Bộ Quốc phòng Anh vì tập luyện dưới trời quá nóng",
+      "link": "https://vnexpress.net/tan-binh-kien-bo-quoc-phong-anh-vi-tap-luyen-duoi-troi-qua-nong-4991361.html",
+      "summary": "Tân binh Thủy quân lục chiến Charlie Gould nói phải hành quân trong năm giờ liên tục với đầy đủ quân phục, bị say nắng và chấn thương, phải rời lực lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:05:00+07:00",
+      "fetched": "2025-12-09T08:20:58.904502+07:00"
+    },
+    {
+      "id": "7a9272524487b416a0ab5f80306679bf",
+      "title": "9 vấn đề có thể định hình kinh tế toàn cầu 2026",
+      "link": "https://vnexpress.net/9-van-de-co-the-dinh-hinh-kinh-te-toan-cau-2026-4991236.html",
+      "summary": "Thuế quan của ông Trump, quan hệ thương mại Mỹ - Trung, làn sóng đầu tư AI là những vấn đề có thể định hình kinh tế toàn cầu 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.904668+07:00"
+    },
+    {
+      "id": "df1f1c6c5f73dd69377c87c2afd99f0b",
+      "title": "'Đào hầm' trúng mánh cá đồng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dao-ham-trung-manh-ca-dong-4991232.html",
+      "summary": "Vào mùa cá nhảy (mùa gió bấc) người dân Nam Bộ lại có cách bắt cá vô cùng độc đáo - đào hầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.904849+07:00"
+    },
+    {
+      "id": "6d6992c13f076013db6658bba3587274",
+      "title": "Xe bán tải lao nhanh trong phố xô ngã xe máy",
+      "link": "https://vnexpress.net/xe-ban-tai-lao-nhanh-trong-pho-xo-nga-xe-may-4991226.html",
+      "summary": "Chiếc xe bán tải phóng nhanh qua ngã ba, xô ngã một người đi xe máy hôm 7/12 tại Phan Đăng Lưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905018+07:00"
+    },
+    {
+      "id": "0a6512f4ac15cfc71f09e7b748383e8e",
+      "title": "Hai lỗ thông liên nhĩ gây giãn buồng tim người phụ nữ",
+      "link": "https://vnexpress.net/hai-lo-thong-lien-nhi-gay-gian-buong-tim-nguoi-phu-nu-4991400.html",
+      "summary": "Chị Thoa, 32 tuổi, có hai lỗ thông ở vách liên nhĩ gây giãn buồng tim, bác sĩ dùng một dù lớn để bít trọn luồng thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905185+07:00"
+    },
+    {
+      "id": "c75745bdce9a6df208faaf8d6454fa1e",
+      "title": "Không gian văn hóa, lịch sử tại đền thờ Nguyễn Bỉnh Khiêm",
+      "link": "https://vnexpress.net/khong-gian-van-hoa-lich-su-tai-den-tho-nguyen-binh-khiem-4991335.html",
+      "summary": "Tái hiện không gian sống của Trạng Trình Nguyễn Bỉnh Khiêm, khu di tích là địa chỉ văn hóa - lịch sử kết nối các giá trị di sản thu hút du khách khi đến Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905347+07:00"
+    },
+    {
+      "id": "1eebc07fffdd5cd04fb39425eb976cde",
+      "title": "Phát triển công trình xanh - chiến lược dài hạn của Eurowindow Holding",
+      "link": "https://vnexpress.net/phat-trien-cong-trinh-xanh-chien-luoc-dai-han-cua-eurowindow-holding-4991072.html",
+      "summary": "Eurowindow Holding triển khai loạt dự án khu đô thị theo tiêu chí công trình xanh tại nhiều địa phương, phù hợp định hướng đô thị bền vững và nhu cầu sống sinh thái ngày càng tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905504+07:00"
+    },
+    {
+      "id": "3b138facfe82b6a2079851c9f9b76380",
+      "title": "Đô thị CaraWorld mở rộng không gian du lịch - lưu trú",
+      "link": "https://vnexpress.net/do-thi-caraworld-mo-rong-khong-gian-du-lich-luu-tru-4991000.html",
+      "summary": "CaraWorld Cam Ranh được quy hoạch thành đô thị biển quy mô lớn, tích hợp lưu trú, thương mại và giải trí, góp phần mở rộng không gian du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905663+07:00"
+    },
+    {
+      "id": "91f8fa90744a9832544b807ed56a94d2",
+      "title": "CEO Getfly: 'SME Việt cần sớm giành lại chủ quyền dữ liệu'",
+      "link": "https://vnexpress.net/ceo-getfly-sme-viet-can-som-gianh-lai-chu-quyen-du-lieu-4989805.html",
+      "summary": "Theo ông Nguyễn Huy Hoàng, trong bối cảnh SME bị động vì phụ thuộc nền tảng và nhân sự, việc giành lại chủ quyền dữ liệu là yếu tố then chốt để vận hành ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.905849+07:00"
+    },
+    {
+      "id": "4f86eec462b389be8d08e95c48be6f3d",
+      "title": "Amazon nâng cấp công cụ quản lý trả hàng cho người bán",
+      "link": "https://vnexpress.net/amazon-nang-cap-cong-cu-quan-ly-tra-hang-cho-nguoi-ban-4989141.html",
+      "summary": "Amazon cải tiến chương trình Returnless Resolutions và ra mắt bảng điều khiển giúp người bán quản lý trả hàng và theo dõi giá trị, nguyên nhân hàng hoàn trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.906016+07:00"
+    },
+    {
+      "id": "640bacafafd769822fe4a33fc3f2e34b",
+      "title": "SATRA tung giỏ quà Tết Bính Ngọ 2026",
+      "link": "https://vnexpress.net/satra-tung-gio-qua-tet-binh-ngo-2026-4991024.html",
+      "summary": "SATRA phục vụ người dân đón Tết 2026 bằng các giỏ quà đa dạng mẫu mã, mức giá dao động từ 200.000 đến 3 triệu đồng, cùng các gói quà an sinh gồm các sản phẩm thiết yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:20:58.906168+07:00"
+    },
+    {
+      "id": "12bd231e097a25bb446a2411957007d4",
+      "title": "Home Credit vào Top 10 Doanh nghiệp Bền vững thuộc lĩnh vực Thương mại - Dịch vụ",
+      "link": "https://thanhnien.vn/home-credit-lot-top-10-doanh-nghiep-ben-vung-thuoc-linh-vuc-thuong-mai-dich-vu-185251208202039144.htm",
+      "summary": "Lần thứ tư liên tiếp được VCCI vinh danh, giải thưởng này là sự khẳng định mạnh mẽ cho bước tiến vượt bậc của Home Credit Việt Nam trong chiến lược phát triển bền vững suốt 17 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222593+07:00"
+    },
+    {
+      "id": "bb0bf4e37296c28663ec224081e88e3a",
+      "title": "Cô gái vượt 'chướng ngại vật' giành học bổng tiến sĩ \ntại Hàn Quốc",
+      "link": "https://thanhnien.vn/co-gai-vuot-chuong-ngai-vat-gianh-hoc-bong-tien-si-tai-han-quoc-185251208195300323.htm",
+      "summary": "Xuất thân là học sinh chuyên văn, Lê Thị Ngọc Diễm, sinh viên Trường ĐH Công nghệ thông tin TP.HCM, từng có giai đoạn \"vừa học vừa khóc\" khi rẽ hướng sang lĩnh vực công nghệ thông tin. Nhưng bằng sự bền bỉ, kỷ luật, Diễm đã trở thành nữ thủ khoa ngành mạng máy tính và truyền thông dữ liệu (chương tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222772+07:00"
+    },
+    {
+      "id": "868a7807a0a66fb592ac4efd1a056342",
+      "title": "EVNHCMC ‘Thắp sáng niềm tin’ đến trường cho học sinh hiếu học",
+      "link": "https://thanhnien.vn/evnhcmc-thap-sang-niem-tin-den-truong-cho-hoc-sinh-hieu-hoc-185251208185833677.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM (EVNHCMC) vừa phối hợp cùng Trường THPT Nguyễn Hữu Thọ (phường Tân Thuận, TP.HCM) và chính quyền địa phương tổ chức Lễ trao học bổng chương trình truyền hình thực tế 'Thắp sáng niềm tin' - số thứ 36 cho em Nguyễn Đỗ Kim Long, một tấm gương vượt khó tiêu biểu với mức học ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.222938+07:00"
+    },
+    {
+      "id": "e449be9e742673be69db116f0d679143",
+      "title": "Nobu Danang hợp tác cùng Elle Decoration khởi động chuỗi sự kiện độc đáo mùa lễ hội",
+      "link": "https://thanhnien.vn/nobu-danang-hop-tac-cung-elle-decoration-khoi-dong-chuoi-su-kien-doc-dao-mua-le-hoi-185251208180704393.htm",
+      "summary": "Nobu Danang tưng bừng khởi động chuỗi sự kiện đậm chất lễ hội tại các địa điểm văn phòng bán hàng đặt tại 3 thành phố lớn gồm: TP.HCM, Đà Nẵng và Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.223097+07:00"
+    },
+    {
+      "id": "1ca7a5a73aee6396c0827cdb57efa04e",
+      "title": "Thị trường ghế ngồi ô tô ‘nóng’ dần: Thương hiệu Babyro được người dùng Việt tin chọn",
+      "link": "https://thanhnien.vn/thi-truong-ghe-ngoi-o-to-nong-dan-thuong-hieu-babyro-duoc-nguoi-dung-viet-tin-chon-185251208171732557.htm",
+      "summary": "Trước thềm quy định bắt buộc sử dụng thiết bị an toàn cho trẻ em trên ô tô sắp có hiệu lực, thị trường ghế ngồi ô tô tại Việt Nam đang trở nên sôi động. Trong đó, các sản phẩm đạt chuẩn quốc tế như Babyro đang chiếm được lòng tin của người tiêu dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.223250+07:00"
+    },
+    {
+      "id": "0d7ac04bd414812b4a52d260a09526f3",
+      "title": "BenThanh Tourist 36 năm vững bước trưởng thành",
+      "link": "https://thanhnien.vn/benthanh-tourist-36-nam-vung-buoc-truong-thanh-185251208160219024.htm",
+      "summary": "Ngày 9.12.2025, BenThanh Tourist chạm mốc 36 năm thành lập (9.12.1989 - 9.12.2025), khẳng định hành trình bền bỉ vượt qua thử thách để trở thành một trong những thương hiệu du lịch hàng đầu, gắn liền với uy tín, chất lượng và sự sáng tạo không ngừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.223405+07:00"
+    },
+    {
+      "id": "ba39544ec9fa55560e4adc266166e9dd",
+      "title": "Tư vấn sức khỏe: Chuẩn bị gì trước IUI/IVF giúp tăng tỷ lệ đậu thai",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-chuan-bi-gi-truoc-iui-ivf-giup-tang-ty-le-dau-thai-185251208152312311.htm",
+      "summary": "Theo thống kê của Tổ chức Y tế Thế giới (WHO), cứ 6 người trưởng thành có khoảng 1 người vô sinh. Tỷ lệ vô sinh hiếm muộn đang có xu hướng gia tăng và trẻ hóa, nhưng còn rất nhiều người chưa hiểu đúng về các phương pháp điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:02.223558+07:00"
+    },
+    {
+      "id": "7a9272524487b416a0ab5f80306679bf",
+      "title": "9 vấn đề có thể định hình kinh tế toàn cầu 2026",
+      "link": "https://vnexpress.net/9-van-de-co-the-dinh-hinh-kinh-te-toan-cau-2026-4991236.html",
+      "summary": "Thuế quan của ông Trump, quan hệ thương mại Mỹ - Trung, làn sóng đầu tư AI là những vấn đề có thể định hình kinh tế toàn cầu 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-09T01:00:00+07:00",
+      "fetched": "2025-12-09T08:21:05.754069+07:00"
+    },
+    {
+      "id": "7ffae58ed2a1bb0f465fce1b40c1f3a2",
+      "title": "SEA Games 33 khai mạc hôm nay",
+      "link": "https://vnexpress.net/sea-games-33-khai-mac-hom-nay-4991369.html",
+      "summary": "Lễ khai mạc SEA Games 33 sẽ diễn ra trên sân Rajamangala, thành phố Bangkok, lúc 19h hôm nay thứ Ba 9/12, chỉ sau một tháng chuẩn bị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T00:57:09+07:00",
+      "fetched": "2025-12-09T08:20:58.906328+07:00"
+    },
+    {
+      "id": "7ffae58ed2a1bb0f465fce1b40c1f3a2",
+      "title": "SEA Games 33 khai mạc hôm nay",
+      "link": "https://vnexpress.net/sea-games-33-khai-mac-hom-nay-4991369.html",
+      "summary": "Lễ khai mạc SEA Games 33 sẽ diễn ra trên sân Rajamangala, thành phố Bangkok, lúc 19h hôm nay thứ Ba 9/12, chỉ sau một tháng chuẩn bị.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T00:57:09+07:00",
+      "fetched": "2025-12-09T08:21:09.044822+07:00"
+    },
+    {
+      "id": "48a64d4a7ebb39be6cb468ba34d3e302",
+      "title": "World Cup 2026 sẽ có 3 phút nghỉ giải nhiệt bắt buộc mỗi hiệp",
+      "link": "https://vnexpress.net/world-cup-2026-se-co-3-phut-nghi-giai-nhiet-bat-buoc-moi-hiep-4991398.html",
+      "summary": "FIFA quyết định áp dụng các quãng nghỉ bù nước giữa mỗi hiệp trong mọi trận đấu tại World Cup 2026, dù điều kiện thời tiết hay nhiệt độ như thế nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T00:51:11+07:00",
+      "fetched": "2025-12-09T08:20:58.906479+07:00"
+    },
+    {
+      "id": "48a64d4a7ebb39be6cb468ba34d3e302",
+      "title": "World Cup 2026 sẽ có 3 phút nghỉ giải nhiệt bắt buộc mỗi hiệp",
+      "link": "https://vnexpress.net/world-cup-2026-se-co-3-phut-nghi-giai-nhiet-bat-buoc-moi-hiep-4991398.html",
+      "summary": "FIFA quyết định áp dụng các quãng nghỉ bù nước giữa mỗi hiệp trong mọi trận đấu tại World Cup 2026, dù điều kiện thời tiết hay nhiệt độ như thế nào.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T00:51:11+07:00",
+      "fetched": "2025-12-09T08:21:09.044980+07:00"
+    },
+    {
+      "id": "888f93a71c04959c283c75cc97f4c1bb",
+      "title": "Trung Quốc hồi hương hơn 1.000 công dân liên quan ổ lừa đảo ở Myanmar",
+      "link": "https://vnexpress.net/trung-quoc-hoi-huong-hon-1-000-cong-dan-lien-quan-o-lua-dao-o-myanmar-4991385.html",
+      "summary": "Trung Quốc đưa về nước 1.178 công dân liên quan lừa đảo trực tuyến ở Myanmar, tăng cường phối hợp với các nước trấn áp loại tội phạm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T00:50:30+07:00",
+      "fetched": "2025-12-09T08:20:58.906628+07:00"
+    },
+    {
+      "id": "888f93a71c04959c283c75cc97f4c1bb",
+      "title": "Trung Quốc hồi hương hơn 1.000 công dân liên quan ổ lừa đảo ở Myanmar",
+      "link": "https://vnexpress.net/trung-quoc-hoi-huong-hon-1-000-cong-dan-lien-quan-o-lua-dao-o-myanmar-4991385.html",
+      "summary": "Trung Quốc đưa về nước 1.178 công dân liên quan lừa đảo trực tuyến ở Myanmar, tăng cường phối hợp với các nước trấn áp loại tội phạm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T00:50:30+07:00",
+      "fetched": "2025-12-09T08:21:04.672868+07:00"
+    },
+    {
+      "id": "108fcb277675ebe7c1a4e1f19b4eb082",
+      "title": "Thiên Long kinh doanh ra sao trước khi về tay người Nhật?",
+      "link": "https://vnexpress.net/but-bi-thien-long-kinh-doanh-ra-sao-truoc-khi-ve-tay-nguoi-nhat-4991237.html",
+      "summary": "'Vua bút bi' Thiên Long có doanh thu vượt nghìn tỷ, lãi trên trăm tỷ từ 2011-2012, trước khi chuẩn bị bán hơn 65% vốn cho Tập đoàn Kokuyo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-09T00:41:20+07:00",
+      "fetched": "2025-12-09T08:21:05.754245+07:00"
+    },
+    {
+      "id": "43df5934b53c64969c26c44aa7e7d642",
+      "title": "Ông Trump: Châu Âu đang đi theo 'hướng xấu'",
+      "link": "https://vnexpress.net/ong-trump-chau-au-dang-di-theo-huong-xau-4991379.html",
+      "summary": "Tổng thống Mỹ cảnh báo rằng châu Âu đang theo \"hướng rất xấu\", vài ngày sau khi Nhà Trắng chỉ trích khu vực này trong chiến lược an ninh mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T00:20:34+07:00",
+      "fetched": "2025-12-09T08:21:04.673046+07:00"
+    },
+    {
+      "id": "9c2bc7e5c5f1ac04e77f541a45e6b882",
+      "title": "Ông Zelensky nói không thể nhượng lãnh thổ cho Nga",
+      "link": "https://vnexpress.net/ong-zelensky-noi-khong-the-nhuong-lanh-tho-cho-nga-4991375.html",
+      "summary": "Ông Zelensky nói Kiev không có quyền về mặt pháp lý hay đạo đức để nhượng lãnh thổ cho Moskva trong bất kỳ thỏa thuận nào về chấm dứt xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T23:55:31+07:00",
+      "fetched": "2025-12-09T08:21:04.673211+07:00"
+    },
+    {
+      "id": "ac239a0737b640e0dd6996e1129891c1",
+      "title": "Liverpool loại Salah khỏi trận gặp Inter ở Champions League",
+      "link": "https://vnexpress.net/liverpool-loai-salah-khoi-tran-gap-inter-o-champions-league-4991377.html",
+      "summary": "Dù vẫn tham gia tập luyện bình thường trong ngày 8/12, Mohamed Salah đã bị gạch tên khỏi đội hình Liverpool làm khách trước Inter Milan ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T23:12:56+07:00",
+      "fetched": "2025-12-09T08:21:09.043655+07:00"
+    },
+    {
+      "id": "7c1aebd93960e11ae636d460b957da81",
+      "title": "Slot sốc vì phát ngôn công kích của Salah",
+      "link": "https://vnexpress.net/slot-soc-vi-phat-ngon-cong-kich-cua-salah-4991370.html",
+      "summary": "Trước trận đấu Inter Milan ở Champions League, HLV Arne Slot cho biết ông bất ngờ với phát biểu của Mohamed Salah nhưng vẫn dành cho anh cơ hội trở lại đội hình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T22:59:41+07:00",
+      "fetched": "2025-12-09T08:21:09.043851+07:00"
+    },
+    {
+      "id": "d776da9ba2d1ceb820f1c3d4bbfa63a0",
+      "title": "HLV Indonesia thừa nhận bất lực nếu Việt Nam thông đồng với Malaysia",
+      "link": "https://vnexpress.net/hlv-indonesia-thua-nhan-bat-luc-neu-viet-nam-thong-dong-voi-malaysia-4991364.html",
+      "summary": "HLV Indra Sjafri cho rằng Indonesia sẽ không thể làm gì nếu Việt Nam và Malaysia bắt tay hòa nhau để loại đội của ông ở môn bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T22:54:42+07:00",
+      "fetched": "2025-12-09T08:21:09.044019+07:00"
+    },
+    {
+      "id": "574cb39ff3ef03d45369a59c92cbbaa9",
+      "title": "Carragher: 'Salah chờ Liverpool đá tệ để phát ngôn'",
+      "link": "https://vnexpress.net/carragher-salah-cho-liverpool-da-te-de-phat-ngon-4991373.html",
+      "summary": "Cựu hậu vệ Jamie Carragher chỉ trích Mohamed Salah có phát biểu xúc phạm Liverpol, nhưng hy vọng tiền đạo người Ai Cập chưa kết thúc sự nghiệp tại Anfield.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T22:48:50+07:00",
+      "fetched": "2025-12-09T08:21:09.044339+07:00"
+    },
+    {
+      "id": "6e0116e17b6248ca52fddd8781c3520e",
+      "title": "Lĩnh 4 năm tù vì giả mang thai với Son Heung-min",
+      "link": "https://vnexpress.net/linh-4-nam-tu-vi-gia-mang-thai-voi-son-heung-min-4991372.html",
+      "summary": "Một phụ nữ khoảng 20 tuổi người Hàn Quốc bị kết tội tống tiền Son Heung-min sau khi tuyên bố mang thai với anh và đòi tổng cộng hơn 275.000 USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T22:48:27+07:00",
+      "fetched": "2025-12-09T08:21:09.044648+07:00"
+    },
+    {
+      "id": "d53b742519de1cfa5a1d2f2618ba8fc9",
+      "title": "Nữ cầu thủ Liverpool bị triệu phú quấy rối",
+      "link": "https://vnexpress.net/nu-cau-thu-liverpool-bi-trieu-phu-quay-roi-4991374.html",
+      "summary": "Tiền vệ Marie Hobinger, 24 tuổi, phải nhờ vệ sĩ đi cùng tới các trận đấu sau khi bị triệu phú Mangal Dalal quấy rối và theo dõi, gây ảnh hưởng nghiêm trọng đến tâm lý.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T22:43:06+07:00",
+      "fetched": "2025-12-09T08:21:09.044494+07:00"
     },
     {
       "id": "b6198f77cb5a53255f3a3b4609d99ed3",
