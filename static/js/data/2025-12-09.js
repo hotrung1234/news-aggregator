@@ -1,7 +1,157 @@
 window.newsData_2025_12_09 = {
   "date": "2025-12-09",
-  "lastUpdated": "2025-12-09T19:38:29.719356+07:00",
+  "lastUpdated": "2025-12-09T21:19:43.008592+07:00",
   "articles": [
+    {
+      "id": "9d91e1d42f843f197e5e729d25f64ae0",
+      "title": "GAC Việt Nam khởi động chương trình ưu đãi đặc biệt tháng 12-2025",
+      "link": "https://tuoitre.vn/gac-viet-nam-khoi-dong-chuong-trinh-uu-dai-dac-biet-thang-12-2025-20251209162157644.htm",
+      "summary": "GAC Việt Nam triển khai chương trình ‘Bánh xe ngân vang - Ngập tràn ưu đãi’ dành cho tất cả các dòng xe của thương hiệu trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.311172+07:00",
+      "fetched": "2025-12-09T21:19:34.311282+07:00"
+    },
+    {
+      "id": "c2517234de307e0b6e1810d20efe4cb0",
+      "title": "Sống khỏe, sống bình thường cùng đái tháo đường",
+      "link": "https://tuoitre.vn/song-khoe-song-binh-thuong-cung-dai-thao-duong-20251209162732109.htm",
+      "summary": "Theo các chuyên gia, việc kết hợp giữa lối sống lành mạnh cùng với việc được can thiệp sớm và tuân thủ điều trị sẽ giúp người bệnh đái tháo đường sống chủ động, tích cực và giảm bớt gánh nặng bệnh tật để duy trì sức khỏe và nhịp sống bình thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.311045+07:00",
+      "fetched": "2025-12-09T21:19:34.311161+07:00"
+    },
+    {
+      "id": "e007a4a52d943da994ec8f6af9d2f848",
+      "title": "Nhận 2 giải thưởng uy tín, VietinBank khẳng định chuẩn mực quản trị minh bạch",
+      "link": "https://tuoitre.vn/nhan-2-giai-thuong-uy-tin-vietinbank-khang-dinh-chuan-muc-quan-tri-minh-bach-20251209191900379.htm",
+      "summary": "VietinBank vừa được trao 2 giải thưởng ‘Top 10 doanh nghiệp có Báo cáo thường niên tốt nhất nhóm ngành Tài chính’ và ‘Top 50 doanh nghiệp niêm yết tiên phong và cam kết nâng cao quản trị công ty Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310916+07:00",
+      "fetched": "2025-12-09T21:19:34.311034+07:00"
+    },
+    {
+      "id": "3dabaa24126ca4ce4311fbddb5df0ff4",
+      "title": "Nhà đầu tư sắp đón hàng tỉ cổ phiếu 'tân binh' lên sàn HoSE",
+      "link": "https://tuoitre.vn/nha-dau-tu-sap-don-hang-ti-co-phieu-tan-binh-len-san-hose-20251209180604518.htm",
+      "summary": "Thị trường chuẩn bị đón loạt “tân binh” lớn khi cổ phiếu của loạt doanh nghiệp như Chứng khoán VPBank, Chứng khoán VPS, Masan Consumer lần lượt lên HoSE, mang theo hơn 3,4 tỉ cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310774+07:00",
+      "fetched": "2025-12-09T21:19:34.310904+07:00"
+    },
+    {
+      "id": "4aaab8c69805a02045f44eb06b046585",
+      "title": "Hai loại đồ uống tối kỵ với người dùng thuốc hạ huyết áp",
+      "link": "https://tuoitre.vn/hai-loai-do-uong-toi-ky-voi-nguoi-dung-thuoc-ha-huyet-ap-20251209165646699.htm",
+      "summary": "Có những loại đồ uống khi kết hợp với nhau có thể gây tương tác với thuốc hạ huyết áp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310642+07:00",
+      "fetched": "2025-12-09T21:19:34.310762+07:00"
+    },
+    {
+      "id": "ca8f4284c5b93c5755fc9a04ff53cc1d",
+      "title": "Phụ huynh TP.HCM bức xúc kỳ thi học sinh giỏi lớp 9, sở chỉ đạo khẩn",
+      "link": "https://tuoitre.vn/phu-huynh-tp-hcm-buc-xuc-ky-thi-hoc-sinh-gioi-lop-9-so-chi-dao-khan-20251209181322358.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP.HCM đề nghị các phường, xã tổ chức kỳ thi học sinh giỏi lớp 9 cấp phường, xã năm học 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310521+07:00",
+      "fetched": "2025-12-09T21:19:34.310631+07:00"
+    },
+    {
+      "id": "d5092bbd591ec736ba90d4316c9e0dd2",
+      "title": "Trong 24 dự án được Trung tâm Điện ảnh quốc gia Pháp hỗ trợ, có 7 dự án Việt Nam",
+      "link": "https://tuoitre.vn/trong-24-du-an-duoc-trung-tam-dien-anh-quoc-gia-phap-ho-tro-co-7-du-an-viet-nam-20251209190943222.htm",
+      "summary": "Ông Michel Plazanet, Phó giám đốc đối ngoại CNC - Trung tâm Điện ảnh quốc gia Pháp, dẫn ra các số liệu cho thấy nỗ lực của các quỹ điện ảnh và sự tiến bộ rõ nét của các dự án Việt Nam, qua đó gợi mở những hướng đi cho các nhà làm phim trẻ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310397+07:00",
+      "fetched": "2025-12-09T21:19:34.310510+07:00"
+    },
+    {
+      "id": "557ba963ecf38b41b0145feb5e908b4d",
+      "title": "Tokyo đối mặt nguy cơ động đất lớn có thể khiến 18.000 người thiệt mạng",
+      "link": "https://tuoitre.vn/tokyo-doi-mat-nguy-co-dong-dat-lon-co-the-khien-18-000-nguoi-thiet-mang-20251209191144503.htm",
+      "summary": "Một trận động đất mạnh được dự báo có khả năng cao xảy ra dưới lòng Tokyo và các khu vực lân cận trong vài thập kỷ tới, có thể khiến 18.000 người thiệt mạng, 400.000 tòa nhà sụp đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310273+07:00",
+      "fetched": "2025-12-09T21:19:34.310386+07:00"
+    },
+    {
+      "id": "2f2fa59da686c31f276339720f350450",
+      "title": "Mỹ thu hồi hơn 85.000 thị thực từ đầu năm, gấp đôi so với năm ngoái",
+      "link": "https://tuoitre.vn/my-thu-hoi-hon-85-000-thi-thuc-tu-dau-nam-gap-doi-so-voi-nam-ngoai-20251209193411811.htm",
+      "summary": "Bộ Ngoại giao Mỹ cho biết đã thu hồi 85.000 thị thực từ đầu năm đến nay, bao gồm hơn 8.000 thị thực du học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310147+07:00",
+      "fetched": "2025-12-09T21:19:34.310261+07:00"
+    },
+    {
+      "id": "bdbb19f83f49d591b08b34dad5eb90e9",
+      "title": "TP.HCM quyết tâm đi đầu trong sắp xếp hơn 1.000 biên chế dôi dư, triển khai năm 2026",
+      "link": "https://tuoitre.vn/tp-hcm-quyet-tam-di-dau-trong-sap-xep-hon-1-000-bien-che-doi-du-trien-khai-nam-2026-20251209182419669.htm",
+      "summary": "TP.HCM triển khai đề án rà soát, điều chuyển và bố trí lại nhân sự cấp cơ sở, đặt mục tiêu hoàn thành sắp xếp biên chế dôi dư trong năm 2025 và triển khai tinh giản từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.310021+07:00",
+      "fetched": "2025-12-09T21:19:34.310136+07:00"
+    },
+    {
+      "id": "f2806250d05896b775ae5a169d6e5d36",
+      "title": "Chủ tịch tỉnh Gia Lai: Vẫn còn cán bộ thiếu tâm huyết, né trách nhiệm",
+      "link": "https://tuoitre.vn/chu-tich-tinh-gia-lai-van-con-can-bo-thieu-tam-huyet-ne-trach-nhiem-20251209191818476.htm",
+      "summary": "Ông Phạm Anh Tuấn, Chủ tịch UBND tỉnh Gia Lai, cho hay nhiều cán bộ bị coi là yếu năng lực qua kiểm tra đều có bằng đại học, cao đẳng. Theo ông, không phải cán bộ yếu mà do thiếu tâm huyết, né trách nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.309884+07:00",
+      "fetched": "2025-12-09T21:19:34.310009+07:00"
+    },
+    {
+      "id": "516e19da22e3f25a44a4cf14daf2dac9",
+      "title": "Bí thư Hà Nội họp gỡ vướng cho dự án đường vành đai 2,5 bị chậm tiến độ nhiều năm",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-hop-go-vuong-cho-du-an-duong-vanh-dai-2-5-bi-cham-tien-do-nhieu-nam-20251209191635182.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc yêu cầu các cơ quan, đơn vị, địa phương liên quan phải xác định rõ trách nhiệm chính trị để tập trung toàn tâm, toàn ý tháo gỡ khó khăn, vướng mắc, thực hiện triển khai dự án đường vành đai 2,5 theo kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.309736+07:00",
+      "fetched": "2025-12-09T21:19:34.309855+07:00"
+    },
+    {
+      "id": "79365761584497e0ad91cdb241dff33f",
+      "title": "Thêm một tổ chức thẻ quốc tế vinh danh Sacombank về năng lực phát triển thanh toán số",
+      "link": "https://tuoitre.vn/them-mot-to-chuc-the-quoc-te-vinh-danh-sacombank-ve-nang-luc-phat-trien-thanh-toan-so-20251209195508343.htm",
+      "summary": "Sacombank vừa được Tổ chức thẻ quốc tế Mastercard vinh danh liên tiếp với ba giải thưởng quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.309606+07:00",
+      "fetched": "2025-12-09T21:19:34.309724+07:00"
+    },
+    {
+      "id": "5eac24521d98fbef85ccd7cbbcc105b1",
+      "title": "VinaPhone Plus hợp tác Xanh SM và VETC tung loạt ưu đãi di chuyển",
+      "link": "https://tuoitre.vn/vinaphone-plus-hop-tac-xanh-sm-va-vetc-tung-loat-uu-dai-di-chuyen-2025120917402188.htm",
+      "summary": "Thấu hiểu nhu cầu di chuyển tăng cao dịp cuối năm, chương trình khách hàng thân thiết VinaPhone Plus hợp tác với Xanh SM và VETC mang đến cho hội viên nhiều lựa chọn tiện lợi với chi phí tiết kiệm hơn bao giờ hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.309466+07:00",
+      "fetched": "2025-12-09T21:19:34.309593+07:00"
+    },
+    {
+      "id": "2d1518041938d7dda777d14d50d711c7",
+      "title": "Năm 2025 có thể là năm nóng thứ hai trong lịch sử Trái đất",
+      "link": "https://tuoitre.vn/nam-2025-co-the-la-nam-nong-thu-hai-trong-lich-su-trai-dat-20251209195459785.htm",
+      "summary": "Nhiệt độ trung bình toàn cầu đang tiếp tục áp sát ngưỡng 1,5°C, đánh dấu 3 năm liên tiếp hành tinh nóng vượt mức an toàn theo Thỏa thuận Paris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:34.309247+07:00",
+      "fetched": "2025-12-09T21:19:34.309452+07:00"
+    },
     {
       "id": "661a9e1c511b9cebb8ec0d630be856a0",
       "title": "Đại biểu TP.HCM kiến nghị dẹp bỏ trạm thu phí bất hợp lý",
@@ -453,6 +603,166 @@ window.newsData_2025_12_09 = {
       "fetched": "2025-12-09T15:26:28.975234+07:00"
     },
     {
+      "id": "906612de3b128a4e4861273cc2460725",
+      "title": "Thái Lan nói không được dùng thuế quan ép nước này hòa bình với Campuchia",
+      "link": "https://thanhnien.vn/thai-lan-noi-khong-duoc-dung-thue-quan-ep-nuoc-nay-hoa-binh-voi-campuchia-185251209201626622.htm",
+      "summary": "Ngoại trưởng Thái Lan Sihasak Phuangketkeow cho rằng cần tách vấn đề quan hệ Thái Lan - Campuchia khỏi vấn đề đàm phán thương mại, sau khi xung đột tái bùng phát tại khu vực biên giới 2 nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:11:00+07:00",
+      "fetched": "2025-12-09T21:19:33.376600+07:00"
+    },
+    {
+      "id": "f444a2fe0b98d10167ab65233e519d08",
+      "title": "Kết thúc điều tra 2 vụ án liên quan đến Lê Trung Khoa và Nguyễn Văn Đài",
+      "link": "https://thanhnien.vn/ket-thuc-dieu-tra-2-vu-an-lien-quan-den-le-trung-khoa-va-nguyen-van-dai-185251209195118993.htm",
+      "summary": "Bộ Công an vừa có các thông báo về việc kết thúc điều tra 2 vụ án liên quan đến Nguyễn Văn Đài và vụ án liên quan nhóm của Lê Trung Khoa, đồng thời yêu cầu 2 bị can này ra đầu thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:08:00+07:00",
+      "fetched": "2025-12-09T21:19:33.376770+07:00"
+    },
+    {
+      "id": "314d94185d1271175f24f158cbf45d19",
+      "title": "Nóng: Sai sót rất nghiêm trọng về hình ảnh lãnh thổ Việt Nam tại lễ khai mạc SEA Games 33",
+      "link": "https://thanhnien.vn/nong-sai-sot-rat-nghiem-trong-ve-hinh-anh-lanh-tho-viet-nam-tai-le-khai-mac-sea-games-33-185251209210226113.htm",
+      "summary": "Hàng loạt sai sót liên quan đến hình ảnh bản đồ, quốc kỳ và nhận diện các quốc gia khiến dư luận trong khu vực đặt dấu hỏi về sự cẩn trọng của Ban tổ chức SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:03:00+07:00",
+      "fetched": "2025-12-09T21:19:33.376946+07:00"
+    },
+    {
+      "id": "db2e62af64701941a33f2236657efbb2",
+      "title": "Tài tử Hàn lộ quá khứ bất hảo",
+      "link": "https://vnexpress.net/tai-tu-han-lo-qua-khu-bat-hao-4991791.html",
+      "summary": "Tài tử Jo Jin Woong giải nghệ sau khi bị Dispatch công khai quá khứ trộm cắp, thay tên đổi họ để hoạt động nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.973609+07:00"
+    },
+    {
+      "id": "8eef1ef16f369d3fb70be5591033b956",
+      "title": "Chồng thường xem điện thoại suốt bữa cơm, chẳng nói lời nào",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-thuong-xem-dien-thoai-suot-bua-com-chang-noi-loi-nao-4991744.html",
+      "summary": "Bàn ăn chỉ có hai người, vậy mà nói chuyện với nhau còn khó hơn nói với một người lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.973785+07:00"
+    },
+    {
+      "id": "a80231b10624bbe4480d51c035d4daac",
+      "title": "Giảm bụi mịn PM2.5 với giải pháp lọc không khí chủ động",
+      "link": "https://vnexpress.net/giam-bui-min-pm2-5-voi-giai-phap-loc-khong-khi-chu-dong-4991207.html",
+      "summary": "Ô nhiễm bụi mịn liên tục tăng khiến nhiều gia đình Hà Nội ưu tiên thiết bị lọc không khí công nghệ chủ động, nhằm kiểm soát chất lượng không khí trong nhà và giảm tác hại PM2.5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.973971+07:00"
+    },
+    {
+      "id": "ce8c8e549919f1049b18f213bb1f1eb2",
+      "title": "Từ phục vụ đến phụng sự: Hành trình lặng lẽ góp phần chăm sóc sức khỏe hơn 33 triệu người Việt Nam",
+      "link": "https://thanhnien.vn/tu-phuc-vu-den-phung-su-hanh-trinh-lang-le-gop-phan-cham-soc-suc-khoe-hon-33-trieu-nguoi-viet-nam-185251209210915892.htm",
+      "summary": "Thông qua mạng lưới nhà thuốc và trung tâm tiêm chủng phủ rộng khắp 34 tỉnh thành trên toàn quốc, 'gần dân, sát dân', Long Châu tự hào trở thành điểm đến chăm sóc sức khỏe đáng tin cậy của 33 triệu người dân, tương đương ⅓ dân số Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:54:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377100+07:00"
+    },
+    {
+      "id": "f852f187ee1a87da7c700b8dbaf25ea8",
+      "title": "Đề xuất quỹ từ thiện không được cho vay, góp vốn",
+      "link": "https://vnexpress.net/de-xuat-quy-tu-thien-khong-duoc-cho-vay-gop-von-4991809.html",
+      "summary": "Bộ Nội vụ đang xây dựng dự thảo nghị định, trong đó quỹ xã hội, quỹ từ thiện hoạt động theo địa giới hành chính, không được nhận tiền gửi, cho vay, góp vốn đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:52:14+07:00",
+      "fetched": "2025-12-09T21:19:29.974134+07:00"
+    },
+    {
+      "id": "90a1d7cf057500ea3bb5a154761030cd",
+      "title": "Ngôi làng Bắc Carolina nơi những tỷ phú Mỹ ẩn cư",
+      "link": "https://vnexpress.net/ngoi-lang-bac-carolina-noi-nhung-ty-phu-my-an-cu-4991606.html",
+      "summary": "Làng Cashiers chỉ có hơn 800 dân cư thường trú nhưng lại có mật độ người giàu sinh sống cao nhất nước Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:47:25+07:00",
+      "fetched": "2025-12-09T21:19:29.974294+07:00"
+    },
+    {
+      "id": "90a1d7cf057500ea3bb5a154761030cd",
+      "title": "Ngôi làng Bắc Carolina nơi những tỷ phú Mỹ ẩn cư",
+      "link": "https://vnexpress.net/ngoi-lang-bac-carolina-noi-nhung-ty-phu-my-an-cu-4991606.html",
+      "summary": "Làng Cashiers chỉ có hơn 800 dân cư thường trú nhưng lại có mật độ người giàu sinh sống cao nhất nước Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T13:47:25+07:00",
+      "fetched": "2025-12-09T21:19:35.840668+07:00"
+    },
+    {
+      "id": "e7d7a0a4176b4d36e15143389a5f2caf",
+      "title": "Tổng Bí thư Tô Lâm tiếp Thư ký Hội đồng An ninh Nga",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-tiep-thu-ky-hoi-dong-an-ninh-nga-185251209202103902.htm",
+      "summary": "Chiều 9.12, tại trụ sở T.Ư Đảng, Tổng Bí thư Tô Lâm đã tiếp Thư ký Hội đồng An ninh Nga Sergey Shoigu trong khuôn khổ chuyến thăm làm việc tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:45:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377250+07:00"
+    },
+    {
+      "id": "380861fa62e9abf754fef55c7f323812",
+      "title": "Rơi máy bay vận tải quân sự hạng nặng chở 7 người tại Nga",
+      "link": "https://thanhnien.vn/roi-may-bay-van-tai-quan-su-hang-nang-cho-7-nguoi-tai-nga-185251209181153346.htm",
+      "summary": "Máy bay vận tải quân sự An-22 của Nga rơi tại vùng Ivanovo phía đông bắc Moscow, trong bối cảnh xung đột giữa Nga và Ukraine tiếp diễn với những đợt tấn công bằng máy bay không người lái (UAV) trên lãnh thổ đối phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:41:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377400+07:00"
+    },
+    {
+      "id": "9a62c972da26a2f0773c2914ff44229b",
+      "title": "INSEE Việt Nam xuất sắc lập ‘cú đúp’ tại Top 100 CSI 2025",
+      "link": "https://thanhnien.vn/insee-viet-nam-xuat-sac-lap-cu-dup-tai-top-100-csi-2025-185251209204950901.htm",
+      "summary": "Tại Lễ công bố Doanh nghiệp bền vững Việt Nam 2025 do VCCI tổ chức với chủ đề 'Chương mới của Kỷ nguyên Xanh', INSEE Việt Nam tiếp tục được vinh danh trong Top 100 CSI, đánh dấu 10 năm liên tiếp hiện diện trong bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:40:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377549+07:00"
+    },
+    {
+      "id": "4d6d33dfb639f7ee3f07ef271d34e62d",
+      "title": "Vợ chồng chủ hiệu vàng lớn nhất Thanh Hóa bị khởi tố",
+      "link": "https://vnexpress.net/vo-chong-chu-hieu-vang-lon-nhat-thanh-hoa-bi-khoi-to-4991827.html",
+      "summary": "Công an tỉnh Thanh Hóa khởi tố, tạm giam ông Nguyễn Hữu Bình, giám đốc hiệu vàng Kim Chung, cùng vợ để điều tra hành vi trốn thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:35:49+07:00",
+      "fetched": "2025-12-09T21:19:29.974453+07:00"
+    },
+    {
+      "id": "eb0133a7f64f2accbdcf5a68896c2b4e",
+      "title": "Bộ trưởng Tài chính: Sửa quy định hoàn thuế VAT để đảm bảo công bằng",
+      "link": "https://thanhnien.vn/bo-truong-tai-chinh-sua-quy-dinh-hoan-thue-vat-de-dam-bao-cong-bang-185251209195810647.htm",
+      "summary": "Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng cho rằng dứt khoát phải sửa quy định về hoàn thuế VAT, nhằm bảo đảm sự công bằng, gỡ khó cho các doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:33:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377697+07:00"
+    },
+    {
+      "id": "86048fe7b8114042d88fd7b93a9af6b1",
+      "title": "Học sinh THCS Cầu Giấy thắng chung cuộc Daesang Trạng Nguyên",
+      "link": "https://vnexpress.net/hoc-sinh-thcs-cau-giay-thang-chung-cuoc-daesang-trang-nguyen-4991829.html",
+      "summary": "Học sinh từ THCS Cầu Giấy vượt qua 99 đối thủ, đoạt giải cao nhất tại vòng chung kết Daesang Trạng Nguyên tuổi 13, ngày 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:30:00+07:00",
+      "fetched": "2025-12-09T21:19:29.974607+07:00"
+    },
+    {
       "id": "4bc5d60d553b8b7b7ddc10fa566d732d",
       "title": "Cử tri Lâm Đồng bức xúc vì bất cập trong quy hoạch khoáng sản",
       "link": "https://tuoitre.vn/cu-tri-lam-dong-buc-xuc-vi-bat-cap-trong-quy-hoach-866-20251209101734691.htm",
@@ -601,6 +911,166 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T13:28:23.334208+07:00",
       "fetched": "2025-12-09T13:28:23.334414+07:00"
+    },
+    {
+      "id": "e52d18383d6d825b6a0a38bf45d16e0e",
+      "title": "Trường học mượn máy lọc không khí, giảm hoạt động ngoài trời vì ô nhiễm",
+      "link": "https://vnexpress.net/truong-hoc-muon-may-loc-khong-khi-giam-hoat-dong-ngoai-troi-vi-o-nhiem-4991694.html",
+      "summary": "Nhiều lớp học ở trường THCS Thanh Xuân Trung được phụ huynh cho mượn máy lọc không khí để đảm bảo sức khỏe con em, khi chất lượng không khí \"rất xấu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:28:23+07:00",
+      "fetched": "2025-12-09T21:19:29.974766+07:00"
+    },
+    {
+      "id": "69fc3425ff4bfa602a3ddc28e18ecf8f",
+      "title": "Đề nghị 4 bộ và 12 tỉnh ứng phó vùng áp thấp trên Biển Đông",
+      "link": "https://thanhnien.vn/de-nghi-4-bo-va-12-tinh-ung-pho-vung-ap-thap-tren-bien-dong-185251209195919724.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường có văn bản đề nghị 4 bộ và 12 tỉnh, thành phố ven biển từ Đà Nẵng - An Giang chủ động ứng phó vùng áp thấp, kết hợp không khí lạnh gây mưa lớn, gió mạnh trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:25:00+07:00",
+      "fetched": "2025-12-09T21:19:33.377849+07:00"
+    },
+    {
+      "id": "20ac1ee6e6e4fcc6ad3b4029f3e89613",
+      "title": "Chỉ tiêu 'chống ly hôn'",
+      "link": "https://vnexpress.net/chi-tieu-chong-ly-hon-4991824.html",
+      "summary": "Mạnh, bạn tôi, phàn nàn rằng cậu vừa trở thành \"nạn nhân\" của Đạo luật Ly hôn không đổ lỗi (No Fault Divorce), được áp dụng tại Anh từ năm 2022.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:22:09+07:00",
+      "fetched": "2025-12-09T21:19:29.974937+07:00"
+    },
+    {
+      "id": "2291af721ddef305c1eda0ac2cc6c797",
+      "title": "Bí thư Hà Nội: Tập trung toàn tâm, toàn ý tháo gỡ khó khăn cho dự án Vành đai 2,5",
+      "link": "https://thanhnien.vn/bi-thu-ha-noi-tap-trung-toan-tam-toan-y-thao-go-kho-khan-cho-du-an-vanh-dai-25-185251209193315306.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc yêu cầu, các cơ quan, đơn vị, địa phương liên quan phải xác định rõ trách nhiệm chính trị để tập trung toàn tâm, toàn ý tháo gỡ khó khăn, vướng mắc, thực hiện triển khai dự án theo kế hoạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:20:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378020+07:00"
+    },
+    {
+      "id": "59b5f58fc5d039e2392adc237498df00",
+      "title": "Trung Quốc muốn thống trị robot hình người toàn cầu",
+      "link": "https://thanhnien.vn/trung-quoc-muon-thong-tri-robot-hinh-nguoi-toan-cau-185251209145648459.htm",
+      "summary": "Các nhà sản xuất robot hình người tại Trung Quốc đang nỗ lực khẳng định vị thế dẫn đầu trên thị trường toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:10:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378166+07:00"
+    },
+    {
+      "id": "ff408e41450fc8e97c2dbb72d47e181f",
+      "title": "'Vua của các trận mưa sao băng' đạt cực đại: Người TP.HCM háo hức chờ săn Geminids",
+      "link": "https://thanhnien.vn/vua-cua-cac-tran-mua-sao-bang-dat-cuc-dai-nguoi-tphcm-hao-huc-cho-san-geminids-185251209085548048.htm",
+      "summary": "Geminids, 'vua của các trận mưa sao băng' được mong chờ nhất 2025 sắp đạt cực đại. Nhiều người yêu thiên văn tại TP.HCM đang hẹn nhau quan sát trận mưa sao băng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:08:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378311+07:00"
+    },
+    {
+      "id": "c44c4073a48008a1d51715f3b714f424",
+      "title": "Kết quả xổ số Power 6/55 tối 9.12, giải độc đắc tiến sát 100 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-power-6-55-toi-912-giai-doc-dac-tien-sat-100-ti-dong-185251209190540128.htm",
+      "summary": "Tối 9.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không ghi nhận người trúng độc đắc nào nên số tiền cộng dồn tăng gần 95 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:05:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378455+07:00"
+    },
+    {
+      "id": "cf105e3785b89177ba52637d17a2cf9a",
+      "title": "Máy tính bỏ túi vẫn 'sống khỏe' giữa kỷ nguyên smartphone và AI",
+      "link": "https://thanhnien.vn/may-tinh-bo-tui-van-song-khoe-giua-ky-nguyen-smartphone-va-ai-185251209171253445.htm",
+      "summary": "Thị trường máy tính bỏ túi vẫn đang tiềm năng, đặc biệt ở những quốc gia có kết nối điện và internet chưa ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:04:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378609+07:00"
+    },
+    {
+      "id": "71ec50f283432bcf4d02f37787e24f05",
+      "title": "Bí thư thứ nhất T.Ư Đoàn tiếp đoàn đại biểu Liên bang Nga",
+      "link": "https://thanhnien.vn/bi-thu-thu-nhat-tu-doan-tiep-doan-dai-bieu-lien-bang-nga-185251209163855358.htm",
+      "summary": "Tại buổi tiếp, anh Bùi Quang Huy bày tỏ niềm vinh dự khi Đoàn đại biểu Lớp bồi dưỡng cán bộ cấp cao của Liên bang Nga đến thăm và làm việc, giao lưu chuyên đề với T.Ư Đoàn TNCS Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:02:00+07:00",
+      "fetched": "2025-12-09T21:19:33.378765+07:00"
+    },
+    {
+      "id": "b18337fdf3df21cb0ba7c325152e6e34",
+      "title": "Chăm sóc bản thân - khoản đầu tư thiết yếu của đàn ông hiện đại",
+      "link": "https://vnexpress.net/cham-soc-ban-than-khoan-dau-tu-thiet-yeu-cua-dan-ong-hien-dai-4986214.html",
+      "summary": "Quan niệm chăm sóc bản thân là \"đặc quyền\" của phái đẹp dần thay đổi, khi nam giới hiện đại nhận thức đây là nền tảng sức khỏe, sự tự tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:00:02+07:00",
+      "fetched": "2025-12-09T21:19:29.975095+07:00"
+    },
+    {
+      "id": "a29914c2f4dded8ebbde4ff24b1421d4",
+      "title": "Ông Trump dọa tăng thuế với Mexico",
+      "link": "https://vnexpress.net/ong-trump-doa-tang-thue-voi-mexico-4991725.html",
+      "summary": "Tổng thống Mỹ muốn nâng thuế nhập khẩu với Mexico lên 30%, cáo buộc nước láng giềng đối xử bất công với nông dân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.975258+07:00"
+    },
+    {
+      "id": "7ccc0ceca895cbe6060ddfccc175be0d",
+      "title": "Leonardo DiCaprio: Tốt nhất là sống ẩn để sự nghiệp bền lâu",
+      "link": "https://vnexpress.net/leonardo-dicaprio-tot-nhat-la-song-an-de-su-nghiep-ben-lau-4991454.html",
+      "summary": "Tài tử Leonardo DiCaprio cho rằng sống kín tiếng là cách kéo dài sự nghiệp hiệu quả, giúp khán giả không cảm thấy chán anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.975408+07:00"
+    },
+    {
+      "id": "b75b1bec59696d453c3a2a88bf17573a",
+      "title": "Heineken ra mắt bia sủi Brut Lager 'mở màn' mùa lễ hội",
+      "link": "https://vnexpress.net/heineken-ra-mat-bia-sui-brut-lager-mo-man-mua-le-hoi-4991765.html",
+      "summary": "Lễ ra mắt Heineken Brut Lager diễn ra trên du thuyền 5 sao Elite, trên sông Sài Gòn với sự góp mặt của các đối tác và loạt nghệ sĩ nổi tiếng, tối 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.975563+07:00"
+    },
+    {
+      "id": "93cd3e1251f5165375f5cd6fe0c4e432",
+      "title": "VinaPhone Plus ra mắt loạt ưu đãi di chuyển dịp cuối năm",
+      "link": "https://vnexpress.net/vinaphone-plus-ra-mat-loat-uu-dai-di-chuyen-dip-cuoi-nam-4991667.html",
+      "summary": "VinaPhone Plus triển khai chương trình khách hàng thân thiết với loạt ưu đãi khi di chuyển bằng Xanh SM hay thanh toán phí dịch vụ không dừng qua trạm VETC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:00:00+07:00",
+      "fetched": "2025-12-09T21:19:29.975718+07:00"
+    },
+    {
+      "id": "a29914c2f4dded8ebbde4ff24b1421d4",
+      "title": "Ông Trump dọa tăng thuế với Mexico",
+      "link": "https://vnexpress.net/ong-trump-doa-tang-thue-voi-mexico-4991725.html",
+      "summary": "Tổng thống Mỹ muốn nâng thuế nhập khẩu với Mexico lên 30%, cáo buộc nước láng giềng đối xử bất công với nông dân Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-09T13:00:00+07:00",
+      "fetched": "2025-12-09T21:19:37.311087+07:00"
+    },
+    {
+      "id": "344065519fbbb9783e120cf714b188cb",
+      "title": "Người dân nước Đông Nam Á nào dành nhiều thời gian vào mạng nhất?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-dong-nam-a-nao-danh-nhieu-thoi-gian-vao-mang-nhat-4991796.html",
+      "summary": "Trung bình mỗi người dân nước này vào mạng gần 9 tiếng một ngày, dẫn đầu Đông Nam Á và trong top 3 thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:41:12+07:00",
+      "fetched": "2025-12-09T21:19:29.975879+07:00"
     },
     {
       "id": "baf18726fab9bb0653bcc00e33ccd165",
