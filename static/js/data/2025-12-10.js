@@ -1,7 +1,157 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T19:38:24.921506+07:00",
+  "lastUpdated": "2025-12-10T21:20:03.466463+07:00",
   "articles": [
+    {
+      "id": "a7c58d4bdeb47c6b49c275911a17418a",
+      "title": "Giá cà phê bất ngờ tăng nhưng nông dân vẫn lo, vì sao?",
+      "link": "https://tuoitre.vn/gia-ca-phe-bat-ngo-tang-nhung-nong-dan-van-lo-vi-sao-20251210181150309.htm",
+      "summary": "Giá cà phê hôm nay đã tăng trở lại sau nhiều phiên dài giảm liên tiếp với Robusta; Arbica cũng tăng lại khi nguồn cung được ghi nhận vẫn chưa cải thiện. Trong nước, giá cà phê cũng bật tăng nhẹ sau nhiều ngày giảm liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.247559+07:00",
+      "fetched": "2025-12-10T21:19:57.247678+07:00"
+    },
+    {
+      "id": "502c9a99bdf2d11457a2a23abc8f950e",
+      "title": "Giới trẻ tiếp lửa đội tuyển Audition Việt Nam qua điệu nhảy tự hào SEA Games 33",
+      "link": "https://tuoitre.vn/gioi-tre-tiep-lua-doi-tuyen-audition-viet-nam-qua-dieu-nhay-tu-hao-sea-games-33-20251210162450028.htm",
+      "summary": "Tối 6-12, ngay trước màn LED phố đi bộ Hồ Gươm, hàng chục dancer áo đỏ sao vàng cầm cờ Việt Nam và cờ Audition đã \"đốt cháy\" không gian bằng màn flashmob, tiếp lửa cực mạnh cho tuyển Audition Việt Nam trước giờ xuất quân SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.247427+07:00",
+      "fetched": "2025-12-10T21:19:57.247547+07:00"
+    },
+    {
+      "id": "b9964189f8f3225cc8cda96e2b5ae374",
+      "title": "Sàn thương mại điện tử đẩy mạnh hàng chính hãng",
+      "link": "https://tuoitre.vn/san-thuong-mai-dien-tu-day-manh-hang-chinh-hang-20251210171823192.htm",
+      "summary": "Trước xu hướng người tiêu dùng ngày càng tăng lựa chọn mua sắm, các sàn thương mại điện tử cũng đang tìm cách đẩy mạnh hàng chính hãng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.247304+07:00",
+      "fetched": "2025-12-10T21:19:57.247416+07:00"
+    },
+    {
+      "id": "1834d8ff78198f6b5ffa13022f0afc9d",
+      "title": "300 chuyên gia, nhà khoa học đến TP.HCM trao đổi về sức khỏe tinh thần khi làm việc",
+      "link": "https://tuoitre.vn/300-chuyen-gia-nha-khoa-hoc-den-tp-hcm-trao-doi-ve-suc-khoe-tinh-than-khi-lam-viec-20251210182459712.htm",
+      "summary": "Hơn 300 chuyên gia, nhà khoa học từ các đại học hàng đầu đến TP.HCM trình bày những nghiên cứu, khảo sát mới nhất liên quan đến sức khỏe tinh thần trong môi trường việc làm hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.247179+07:00",
+      "fetched": "2025-12-10T21:19:57.247293+07:00"
+    },
+    {
+      "id": "edebb4e6b0beca834b6082f181be32c6",
+      "title": "Cổ phiếu nhóm bán lẻ tiêu dùng tương phản mạnh trong bối cảnh hộ gia đình Việt siết chặt chi tiêu",
+      "link": "https://tuoitre.vn/co-phieu-nhom-ban-le-tieu-dung-tuong-phan-manh-trong-boi-canh-ho-gia-dinh-viet-siet-chat-chi-tieu-20251210185025315.htm",
+      "summary": "Chuỗi 9 phiên tăng liên tiếp của thị trường chứng khoán từ cuối tháng 11-2025 đã tạm dừng lại. Nhóm bán lẻ - tiêu dùng cũng gặp áp lực giảm khá mạnh. Qua đó, thị trường đã làm đậm nét hơn câu chuyện phân hóa của ngành sau gần 1 năm vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.247032+07:00",
+      "fetched": "2025-12-10T21:19:57.247166+07:00"
+    },
+    {
+      "id": "f9c5a30546d90dfc7661a70ac7ed6c0b",
+      "title": "Sẽ có một ông Tây nấu phở bò truyền thống ở Ngày của phở",
+      "link": "https://tuoitre.vn/se-co-mot-ong-tay-nau-pho-bo-truyen-thong-o-ngay-cua-pho-2025120920513944.htm",
+      "summary": "Một ông Tây đình đám trên các trang báo ẩm thực cách đây hơn 3 năm là Manuel Sponton được 'nóc nhà' Thu Trang - vừa là bà chủ quán Phở Ông Tây và cũng là người bạn gái, níu chân vị đầu bếp chuyên nghiệp đến từ Ý ở lại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246898+07:00",
+      "fetched": "2025-12-10T21:19:57.247021+07:00"
+    },
+    {
+      "id": "6746aca97f8acc87b046164279d0038f",
+      "title": "30 năm thương mại Việt - Mỹ: Thuế quan và giai đoạn 'thử lửa' mới",
+      "link": "https://tuoitre.vn/30-nam-thuong-mai-viet-my-thue-quan-va-giai-doan-thu-lua-moi-20251210184130537.htm",
+      "summary": "Sau 3 thập kỷ hợp tác, thương mại Việt - Mỹ bước vào giai đoạn \"thử lửa\" mới, với thuế quan và nhiều quy định chặt chẽ hơn, tuy đây cũng là cơ hội để nền kinh tế Việt Nam nâng cấp và bước vào chuỗi cung ứng giá trị cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246770+07:00",
+      "fetched": "2025-12-10T21:19:57.246886+07:00"
+    },
+    {
+      "id": "92c6c866865e0e1d18910ae8b25e79e9",
+      "title": "Thông qua Luật Xây dựng, 8 nhóm công trình được miễn giấy phép xây dựng",
+      "link": "https://tuoitre.vn/thong-qua-luat-xay-dung-8-nhom-cong-trinh-duoc-mien-giay-phep-xay-dung-20251210183315354.htm",
+      "summary": "Luật Xây dựng (sửa đổi) vừa được thông qua quy định 8 nhóm công trình được miễn giấy phép xây dựng, trong đó có công trình thuộc dự án đầu tư công đặc biệt và nhà ở riêng lẻ dưới 7 tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246637+07:00",
+      "fetched": "2025-12-10T21:19:57.246758+07:00"
+    },
+    {
+      "id": "6b550cae0c94e5f3005c947947663456",
+      "title": "Tạo tài khoản doanh nghiệp trực tuyến chỉ trong 3 phút",
+      "link": "https://tuoitre.vn/tao-tai-khoan-doanh-nghiep-truc-tuyen-chi-trong-3-phut-20251210143009352.htm",
+      "summary": "BIZ MBBank giảm áp lực thủ tục, cho phép doanh nghiệp mở tài khoản hoàn toàn trực tuyến chỉ trong vài phút mà không cần đến trực tiếp ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246507+07:00",
+      "fetched": "2025-12-10T21:19:57.246625+07:00"
+    },
+    {
+      "id": "82c40ffdc373f9b3a254734a40297caf",
+      "title": "TOEFL iBT cập nhật mới: Thông minh, linh hoạt, cá nhân hóa, công bằng",
+      "link": "https://tuoitre.vn/toefl-ibt-cap-nhat-moi-thong-minh-linh-hoat-ca-nhan-hoa-cong-bang-20251210173149257.htm",
+      "summary": "Từ ngày 21-1-2026, TOEFL iBT sẽ có những cập nhật mới được áp dụng trên quy mô toàn cầu. Những cải tiến mới cho thấy cấu trúc bài thi sẽ được thay đổi linh hoạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246378+07:00",
+      "fetched": "2025-12-10T21:19:57.246495+07:00"
+    },
+    {
+      "id": "f131f30abcd1c0ff31846f6f68b4e425",
+      "title": "Văn Mai Hương rất đàn bà trong album mới 'Giai nhân'",
+      "link": "https://tuoitre.vn/van-mai-huong-rat-dan-ba-trong-album-moi-giai-nhan-20251210180923449.htm",
+      "summary": "Văn Mai Hương ra album 'Giai nhân' với sự khai phá tính nữ phù hợp nhất với cô hiện tại: quyến rũ, tự tin nhưng sẵn sàng đối diện với sự mềm yếu, bất toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246247+07:00",
+      "fetched": "2025-12-10T21:19:57.246366+07:00"
+    },
+    {
+      "id": "a8ad7e828f6f056b3743fd588eda4696",
+      "title": "Lo 'nhập siêu logistics' kéo dài, kiến nghị phát triển trung tâm hàng hải quốc tế tại TP.HCM",
+      "link": "https://tuoitre.vn/lo-nhap-sieu-logistics-keo-dai-kien-nghi-phat-trien-trung-tam-hang-hai-quoc-te-tai-tphcm-20251210193017792.htm",
+      "summary": "Đó là đề xuất được Ban IV đưa ra trong báo cáo về những khó khăn, vướng mắc trong hoạt động logistics và xuất nhập khẩu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.246113+07:00",
+      "fetched": "2025-12-10T21:19:57.246236+07:00"
+    },
+    {
+      "id": "a4397d4a048ec28ca4c6a3231438ade8",
+      "title": "Tokyo: Tuần tra Nga - Trung là ‘mối lo ngại nghiêm trọng cho an ninh quốc gia’",
+      "link": "https://tuoitre.vn/tokyo-tuan-tra-nga-trung-la-moi-lo-ngai-nghiem-trong-cho-an-ninh-quoc-gia-20251210193406715.htm",
+      "summary": "Báo China South Morning Post ngày 10-12 đưa tin Bộ trưởng Quốc phòng Nhật Bản Shinjiro Koizumi đã bày tỏ quan ngại về cuộc tuần tra chung trên không do Nga - Trung Quốc triển khai thời gian gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.245961+07:00",
+      "fetched": "2025-12-10T21:19:57.246100+07:00"
+    },
+    {
+      "id": "2c689ffb3f383459b6f6e4fabb6cbb12",
+      "title": "The Flob và album Tối thượng: Khi hỗn loạn tìm trật tự qua âm thanh",
+      "link": "https://tuoitre.vn/the-flob-va-album-toi-thuong-khi-hon-loan-tim-trat-tu-qua-am-thanh-20251210083006349.htm",
+      "summary": "Chỉ một năm sau album đầu tay, nhóm nhạc The Flob tiếp tục gây chú ý với album Tối thượng, sản phẩm âm nhạc kết hợp rock, metal hiện đại và các yếu tố dân gian Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.245816+07:00",
+      "fetched": "2025-12-10T21:19:57.245947+07:00"
+    },
+    {
+      "id": "2871b1ef6450cc4015cc0a70aec24544",
+      "title": "Xử lý nghiêm, công khai vụ việc cán bộ nhũng nhiễu, gây phiền hà người dân, doanh nghiệp",
+      "link": "https://tuoitre.vn/xu-ly-nghiem-cong-khai-vu-viec-can-bo-nhung-nhieu-gay-phien-ha-nguoi-dan-doanh-nghiep-2025121019431675.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú yêu cầu kịp thời phát hiện, tham mưu chỉ đạo xử lý nghiêm, công khai những vụ, việc cán bộ nhũng nhiễu, gây phiền hà cho người dân, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T21:19:57.245592+07:00",
+      "fetched": "2025-12-10T21:19:57.245801+07:00"
+    },
     {
       "id": "941a2635bafc6455576c990af1c88bec",
       "title": "Việt Nam chưa có máy xạ trị proton, nhiều bệnh nhân phải  sang Singapore điều trị",
@@ -453,6 +603,106 @@ window.newsData_2025_12_10 = {
       "fetched": "2025-12-10T15:25:04.748850+07:00"
     },
     {
+      "id": "60604e6fc5a2b14c7daa9431353819de",
+      "title": "Tôi chấp nhận rủi ro bị trộm hơn là cháy nhà",
+      "link": "https://vnexpress.net/binh-chua-chay-mini-gia-bao-nhieu-xay-nha-phong-chay-chua-chay-4992258.html",
+      "summary": "Ngay từ khi xây nhà, tôi ưu tiên xây lối thoát hiểm hơn là làm rào chắn kiên cố chống trộm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:00:00+07:00",
+      "fetched": "2025-12-10T21:19:52.982119+07:00"
+    },
+    {
+      "id": "f0308914f248cea2f13fee9841c05af0",
+      "title": "'Hộ kinh doanh nên tập dượt sử dụng hóa đơn điện tử'",
+      "link": "https://vnexpress.net/ho-kinh-doanh-nen-tap-duot-su-dung-hoa-don-dien-tu-4992179.html",
+      "summary": "Chuyên gia cho rằng hộ kinh doanh tập dượt sử dụng hóa đơn điện tử, phần mềm kê khai sẽ tránh được những cú sốc khi chuyển đổi, thay đổi chính sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:51:58+07:00",
+      "fetched": "2025-12-10T21:19:52.982299+07:00"
+    },
+    {
+      "id": "f0308914f248cea2f13fee9841c05af0",
+      "title": "'Hộ kinh doanh nên tập dượt sử dụng hóa đơn điện tử'",
+      "link": "https://vnexpress.net/ho-kinh-doanh-nen-tap-duot-su-dung-hoa-don-dien-tu-4992179.html",
+      "summary": "Chuyên gia cho rằng hộ kinh doanh tập dượt sử dụng hóa đơn điện tử, phần mềm kê khai sẽ tránh được những cú sốc khi chuyển đổi, thay đổi chính sách.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T13:51:58+07:00",
+      "fetched": "2025-12-10T21:19:59.943360+07:00"
+    },
+    {
+      "id": "0cf96be09ca67f536db6d26e2f6c2216",
+      "title": "'Về miền bí ẩn' - triết lý của đức tin",
+      "link": "https://vnexpress.net/ve-mien-bi-an-triet-ly-cua-duc-tin-4991808.html",
+      "summary": "Hành trình đến với Phật giáo, chiêm nghiệm, khát vọng giác ngộ của Tenzin Priyadarshi Rinpoche được kể trong hồi ký \"Về miền bí ẩn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:39:29+07:00",
+      "fetched": "2025-12-10T21:19:52.982462+07:00"
+    },
+    {
+      "id": "30deb9b3b0054e4ea76f214cdbc49e81",
+      "title": "Xuất khẩu nông nghiệp đặt mục tiêu 100 tỷ USD",
+      "link": "https://vnexpress.net/xuat-khau-nong-nghiep-dat-muc-tieu-100-ty-usd-4992266.html",
+      "summary": "Thủ tướng đặt mục tiêu đưa xuất khẩu nông nghiệp lên 100 tỷ USD và yêu cầu ngành chuyển đổi dựa trên khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:36:18+07:00",
+      "fetched": "2025-12-10T21:19:52.982618+07:00"
+    },
+    {
+      "id": "30deb9b3b0054e4ea76f214cdbc49e81",
+      "title": "Xuất khẩu nông nghiệp đặt mục tiêu 100 tỷ USD",
+      "link": "https://vnexpress.net/xuat-khau-nong-nghiep-dat-muc-tieu-100-ty-usd-4992266.html",
+      "summary": "Thủ tướng đặt mục tiêu đưa xuất khẩu nông nghiệp lên 100 tỷ USD và yêu cầu ngành chuyển đổi dựa trên khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T13:36:18+07:00",
+      "fetched": "2025-12-10T21:19:59.943538+07:00"
+    },
+    {
+      "id": "97d2a0f77a714527d8ebeaab7473f69d",
+      "title": "IMF dự báo Trung Quốc tăng trưởng 5% năm nay",
+      "link": "https://vnexpress.net/imf-du-bao-trung-quoc-tang-truong-5-nam-nay-4992219.html",
+      "summary": "IMF nâng dự báo tăng trưởng cho Trung Quốc từ 4,8% lên 5%, đánh giá nước này có khả năng chống chịu tốt trước các cú sốc liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:35:09+07:00",
+      "fetched": "2025-12-10T21:19:52.982771+07:00"
+    },
+    {
+      "id": "97d2a0f77a714527d8ebeaab7473f69d",
+      "title": "IMF dự báo Trung Quốc tăng trưởng 5% năm nay",
+      "link": "https://vnexpress.net/imf-du-bao-trung-quoc-tang-truong-5-nam-nay-4992219.html",
+      "summary": "IMF nâng dự báo tăng trưởng cho Trung Quốc từ 4,8% lên 5%, đánh giá nước này có khả năng chống chịu tốt trước các cú sốc liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T13:35:09+07:00",
+      "fetched": "2025-12-10T21:19:59.943701+07:00"
+    },
+    {
+      "id": "e6accf6d18c5441d73434fd1234d35a7",
+      "title": "Người đàn ông bị chém tử vong trước nhà",
+      "link": "https://vnexpress.net/nguoi-dan-ong-bi-chem-tu-vong-truoc-nha-4992306.html",
+      "summary": "Người đàn ông 50 tuổi được phát hiện tử vong trong tư thế ngồi, thi thể có nhiều vết chém ở vùng trọng yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:33:38+07:00",
+      "fetched": "2025-12-10T21:19:52.982929+07:00"
+    },
+    {
+      "id": "7c7053176b9a0d85ce892c03cd778679",
+      "title": "Cung cấp thông tin báo chí trở thành nghĩa vụ pháp lý bắt buộc",
+      "link": "https://vnexpress.net/cung-cap-thong-tin-bao-chi-tro-thanh-nghia-vu-phap-ly-bat-buoc-4992107.html",
+      "summary": "Luật Báo chí sửa đổi quy định cơ quan, người có thẩm quyền phải cung cấp thông tin cho báo chí, bố trí người phát ngôn và thực hiện trách nhiệm trả lời phản ánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:30:45+07:00",
+      "fetched": "2025-12-10T21:19:52.983098+07:00"
+    },
+    {
       "id": "1612ce23bdae4e590839faa83cb6b834",
       "title": "HLV Arne Slot nói gì sau khi loại Salah và giúp Liverpool giành chiến thắng?",
       "link": "https://tuoitre.vn/hlv-arne-slot-noi-gi-sau-khi-loai-salah-va-giup-liverpool-gianh-chien-thang-20251210110818822.htm",
@@ -601,6 +851,86 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T13:28:51.819566+07:00",
       "fetched": "2025-12-10T13:28:51.819770+07:00"
+    },
+    {
+      "id": "67234a4f236841ccdb104d13ec1284e2",
+      "title": "'Lệch pha' giữa đào tạo Luật với nhu cầu thị trường",
+      "link": "https://vnexpress.net/lech-pha-giua-dao-tao-luat-voi-nhu-cau-thi-truong-4992232.html",
+      "summary": "Chuyên gia cho rằng đào tạo Luật còn vênh so với nhu cầu của thị trường lao động, khi có những cử nhân không soạn nổi văn bản pháp lý cơ bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:13:13+07:00",
+      "fetched": "2025-12-10T21:19:52.983255+07:00"
+    },
+    {
+      "id": "1e4a1f588bb7108a1b7013cc5f1fb8c1",
+      "title": "Thứ trưởng Bùi Hoàng Phương: 'Sử dụng nguồn vốn hiệu quả để thúc đẩy khoa học công nghệ'",
+      "link": "https://vnexpress.net/thu-truong-bui-hoang-phuong-su-dung-nguon-von-hieu-qua-de-thuc-day-khoa-hoc-cong-nghe-4992284.html",
+      "summary": "Thứ trưởng Bùi Hoài Phương cho rằng ngân sách cho phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số tăng dần theo từng năm, đặt ra bài toán sử dụng hiệu quả, tránh lãng phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:08:43+07:00",
+      "fetched": "2025-12-10T21:19:52.983417+07:00"
+    },
+    {
+      "id": "1e4a1f588bb7108a1b7013cc5f1fb8c1",
+      "title": "Thứ trưởng Bùi Hoàng Phương: 'Sử dụng nguồn vốn hiệu quả để thúc đẩy khoa học công nghệ'",
+      "link": "https://vnexpress.net/thu-truong-bui-hoang-phuong-su-dung-nguon-von-hieu-qua-de-thuc-day-khoa-hoc-cong-nghe-4992284.html",
+      "summary": "Thứ trưởng Bùi Hoài Phương cho rằng ngân sách cho phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số tăng dần theo từng năm, đặt ra bài toán sử dụng hiệu quả, tránh lãng phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-10T13:08:43+07:00",
+      "fetched": "2025-12-10T21:20:02.483727+07:00"
+    },
+    {
+      "id": "6eb6d05076be873a6b52a76339204f7d",
+      "title": "Du khách tắm trong nồi lẩu hai ngăn ở Trung Quốc",
+      "link": "https://vnexpress.net/du-khach-tam-trong-noi-lau-hai-ngan-o-trung-quoc-4991276.html",
+      "summary": "Khu nghỉ dưỡng tại Cáp Nhĩ Tân thiết kế bể tắm nước nóng rộng 5 m mô phỏng nồi lẩu, chia hai ngăn, phía trên chứa rau, củ, quả để tạo cảm giác chân thực cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:00:00+07:00",
+      "fetched": "2025-12-10T21:19:52.983575+07:00"
+    },
+    {
+      "id": "bd18b18fd78d47f79db4a46050958895",
+      "title": "Nestlé Milo truyền cảm hứng năng động đến thế hệ trẻ",
+      "link": "https://vnexpress.net/nestle-milo-truyen-cam-hung-nang-dong-den-the-he-tre-4992293.html",
+      "summary": "Màn trình diễn võ nhạc của học sinh TP HCM xác lập kỷ lục Việt Nam và thế giới là dấu ấn mới nhất trên hành trình 30 năm Nestlé Milo chung tay xây dựng thế hệ trẻ năng động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:00:00+07:00",
+      "fetched": "2025-12-10T21:19:52.983736+07:00"
+    },
+    {
+      "id": "eaf5c9b22ccc2302176c354122072883",
+      "title": "Lợi thế để Việt Nam thu hút các trung tâm dữ liệu siêu lớn",
+      "link": "https://vnexpress.net/loi-the-de-viet-nam-thu-hut-cac-trung-tam-du-lieu-sieu-lon-4954741.html",
+      "summary": "Việt Nam có tiềm năng về điện sạch, quỹ đất, hành lang pháp lý dần hoàn thiện đủ sức hấp dẫn các hyperscale (trung tâm dữ liệu siêu lớn) toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:00:00+07:00",
+      "fetched": "2025-12-10T21:19:52.983887+07:00"
+    },
+    {
+      "id": "1623bd17aebb267c103623771977814f",
+      "title": "Khiếu nại trọng tài bất thành, Việt Nam hụt HCV taekwondo",
+      "link": "https://vnexpress.net/khieu-nai-trong-tai-bat-thanh-viet-nam-hut-hcv-taekwondo-4992302.html",
+      "summary": "Sau khi Kim Hà – Trọng Phúc thua cặp Singapore ở chung kết biểu diễn quyền đôi nam nữ tiêu chuẩn, lãnh đội taekwondo Việt Nam đã gửi đơn khiếu nại, cho rằng đối thủ mắc ba lỗi nhưng không bị xử phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T12:49:23+07:00",
+      "fetched": "2025-12-10T21:19:52.984059+07:00"
+    },
+    {
+      "id": "0318e6026f695f3543bdfc2f41810b6c",
+      "title": "Núi Bà Đen đón khách trở lại sau hai tháng đóng cửa",
+      "link": "https://vnexpress.net/nui-ba-den-don-khach-tro-lai-sau-hai-thang-dong-cua-4992291.html",
+      "summary": "Ban Quản lý khu du lịch quốc gia núi Bà Đen mở cửa hoạt động leo núi sau hơn hai tháng đóng cửa vì ảnh hưởng mưa bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T12:44:07+07:00",
+      "fetched": "2025-12-10T21:19:52.984235+07:00"
     },
     {
       "id": "25a3649d9eafc6ecb14c44f903ed9730",
@@ -761,6 +1091,16 @@ window.newsData_2025_12_10 = {
       "category": "Thế giới",
       "published": "2025-12-10T12:00:00+07:00",
       "fetched": "2025-12-10T19:38:19.586041+07:00"
+    },
+    {
+      "id": "8a2786846a7a0a72e1b9608e983ad9a7",
+      "title": "Em gái chồng ở lì nhà tôi 5 năm không chịu rời đi",
+      "link": "https://vnexpress.net/em-gai-chong-o-li-nha-toi-5-nam-khong-chiu-roi-di-4992231.html",
+      "summary": "Căn hộ hai phòng ngủ của vợ chồng tôi chật chội vô cùng, một phòng dành riêng cho em chồng, vợ chồng tôi và con ở phòng còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T12:00:00+07:00",
+      "fetched": "2025-12-10T21:19:52.984386+07:00"
     },
     {
       "id": "3fd2bee9a6a5cae4ef15715aaff14bb4",
@@ -3361,6 +3701,16 @@ window.newsData_2025_12_10 = {
       "category": "Thể thao",
       "published": "2025-12-10T01:45:00+07:00",
       "fetched": "2025-12-10T10:20:19.098473+07:00"
+    },
+    {
+      "id": "05d0e256108def5c4a3d2ae21e2d16d1",
+      "title": "Việt Nam giành 4 HC vàng trong ngày đầu SEA Games",
+      "link": "https://vnexpress.net/sea-games-ngay-10-12-4991873-tong-thuat.html",
+      "summary": "Việt Nam đoạt 4 HC vàng từ canoeing, taekwondo, bơi và bi sắt trong ngày thi chính thức đầu tiên tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-10T01:45:00+07:00",
+      "fetched": "2025-12-10T21:20:03.455347+07:00"
     },
     {
       "id": "776a099de4effb98a444524057681e83",
