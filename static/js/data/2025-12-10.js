@@ -1,7 +1,157 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T05:18:11.296296+07:00",
+  "lastUpdated": "2025-12-10T08:22:52.012022+07:00",
   "articles": [
+    {
+      "id": "81d16f7e6574cbf5fb8e0b1e25506525",
+      "title": "Bóng chuyền nữ Việt Nam ra quân đối đầu Myanmar: Chờ chiến thắng!",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-ra-quan-doi-dau-myanmar-cho-chien-thang-20251210002903884.htm",
+      "summary": "Sau nhiều ngày chờ đợi, hôm nay (10-12), tuyển bóng chuyền nữ Việt Nam sẽ chính thức ra quân tại SEA Games 33 với trận đối đầu Myanmar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.216065+07:00",
+      "fetched": "2025-12-10T08:22:45.216179+07:00"
+    },
+    {
+      "id": "9a973c9884736e82c059c3796002fa3f",
+      "title": "Ca sĩ nổi tiếng 'bị bắt' hát nhép khai mạc SEA Games, nhưng micro bật làm lộ giọng lệch tông",
+      "link": "https://tuoitre.vn/ca-si-noi-tieng-bi-bat-hat-nhep-khai-mac-sea-games-nhung-micro-bat-lam-lo-giong-lech-tong-20251210055930634.htm",
+      "summary": "Truyền thông Thái Lan đã phát hiện ra một sự cố khó tin liên quan đến màn trình diễn của ca sĩ Violette Wautier trong lễ khai mạc SEA Games 33, diễn ra tối 9-12 tại sân vận động Rajamangala.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215939+07:00",
+      "fetched": "2025-12-10T08:22:45.216054+07:00"
+    },
+    {
+      "id": "9b9fe2c946acbd338e79b81eaeb9b817",
+      "title": "Tin tức thế giới 10-12: Campuchia nêu điều kiện đàm phán, Thái Lan không muốn có trung gian",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-10-12-campuchia-neu-dieu-kien-dam-phan-thai-lan-khong-muon-co-trung-gian-20251210065236346.htm",
+      "summary": "Ủy ban Nobel vẫn chưa rõ tung tích của chủ nhân giải Nobel Hòa bình người Venezuela; Ông Zelensky nói sẵn sàng tổ chức bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215812+07:00",
+      "fetched": "2025-12-10T08:22:45.215927+07:00"
+    },
+    {
+      "id": "5747503a3fd874a1d65093cd4f4e2ac5",
+      "title": "SEA Games 33 ngày 10-12: Chờ HCV đầu tiên của Việt Nam",
+      "link": "https://tuoitre.vn/sea-games-ngay-10-12-cho-hcv-dau-tien-cua-viet-nam-20251209224908434.htm",
+      "summary": "Với nhiều môn thế mạnh trong ngày thi đấu hôm nay 10-12, đoàn thể thao Việt Nam được kỳ vọng sẽ giành được những huy chương vàng đầu tiên ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215686+07:00",
+      "fetched": "2025-12-10T08:22:45.215800+07:00"
+    },
+    {
+      "id": "6daf20170dc9de39d813f25dfaa499b3",
+      "title": "Hàng loạt xe điện ồ ạt đổ bộ Việt Nam năm 2025",
+      "link": "https://tuoitre.vn/hang-loat-xe-dien-o-at-do-bo-viet-nam-nam-2025-nhieu-xe-nhung-khong-phai-mau-nao-cung-an-khach-2025121002260446.htm",
+      "summary": "Thị trường xe điện Việt Nam năm 2025 sôi động hơn với sự góp mặt của minicar, MPV 7 chỗ, sedan và SUV tiền tỉ. Nhiều mẫu chính hãng dưới mốc 10 tỉ đồng đang dần định hình bức tranh điện hóa toàn thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215558+07:00",
+      "fetched": "2025-12-10T08:22:45.215675+07:00"
+    },
+    {
+      "id": "8e0f7731c5e147ec696269cc0c63433f",
+      "title": "Con trai ca sĩ Trọng Tấn giành giải Nhì, Đào Lê Phương Chi là Quán quân Tiếng hát Hà Nội 2025",
+      "link": "https://tuoitre.vn/con-trai-ca-si-trong-tan-gianh-giai-nhi-dao-le-phuong-chi-la-quan-quan-tieng-hat-ha-noi-2025-20251210070401357.htm",
+      "summary": "Vũ Tấn Đạt, con trai ca sĩ Trọng Tấn vào chung kết Tiếng hát Hà Nội 2025 và giành giải nhì khi thể hiện hai bài hát bố mình từng hát; Đào Lê Phương Chi là Quán quân Tiếng hát Hà Nội 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215301+07:00",
+      "fetched": "2025-12-10T08:22:45.215545+07:00"
+    },
+    {
+      "id": "9fe9f42a9d5dfe2c3fc780aa399e035a",
+      "title": "Chìm tàu cá trên biển, cứu được 7 người, còn 1 người mất tích",
+      "link": "https://tuoitre.vn/chim-tau-ca-tren-bien-cuu-duoc-7-nguoi-con-1-nguoi-mat-tich-20251210073515876.htm",
+      "summary": "Chiếc tàu cá chở theo 8 ngư dân Nghệ An đang đánh bắt hải sản trên vùng biển cách bờ biển Vũng Áng khoảng 50 hải lý thì bất ngờ bị chìm. Hiện đã cứu được 7 ngư dân, 1 ngư dân đang mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215165+07:00",
+      "fetched": "2025-12-10T08:22:45.215287+07:00"
+    },
+    {
+      "id": "a01dd418d247c6af95b5109f9ce80757",
+      "title": "Pinetree và thế hệ nhà đầu tư tự chủ",
+      "link": "https://tuoitre.vn/pinetree-va-the-he-nha-dau-tu-tu-chu-20251209163047572.htm",
+      "summary": "Một thế hệ nhà đầu tư mới đã xuất hiện và ngày càng định hình rõ những ‘mã gen’ nổi bật: Tự do - Tự động - Tự tin - Tự quyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.215032+07:00",
+      "fetched": "2025-12-10T08:22:45.215153+07:00"
+    },
+    {
+      "id": "6a92d5f38cc7603130c6d1a6b40e414e",
+      "title": "Phòng khám đa khoa GC&Phenikaa ứng dụng AI giúp phát hiện bất thường nhỏ",
+      "link": "https://tuoitre.vn/phong-kham-da-khoa-gc-phenikaa-ung-dung-ai-giup-phat-hien-bat-thuong-nho-20251209212301438.htm",
+      "summary": "Trong bối cảnh ngành y tế đẩy mạnh chuyển đổi, việc ứng dụng công nghệ cao trở thành chìa khóa then chốt để nâng cao chất lượng dịch vụ, tối ưu hóa quy trình và tiến tới mục tiêu chăm sóc sức khỏe toàn dân một cách thông minh, chủ động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214906+07:00",
+      "fetched": "2025-12-10T08:22:45.215021+07:00"
+    },
+    {
+      "id": "71680450806aa0726a07ff5e56bbd140",
+      "title": "Điểm tin 8h: Tây Ninh đón 7 triệu khách trong năm 2025; Hàn Quốc chi trợ cấp thất nghiệp kỷ lục",
+      "link": "https://tuoitre.vn/diem-tin-8h-tay-ninh-don-7-trieu-khach-trong-nam-2025-han-quoc-chi-tro-cap-that-nghiep-ky-luc-20251209230140196.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 10-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214781+07:00",
+      "fetched": "2025-12-10T08:22:45.214895+07:00"
+    },
+    {
+      "id": "5e699a7277e584fa190f5cd708ba8fcf",
+      "title": "Phở cua lạ miệng, phở trộn tê cay 'hổng giống ai': Bạn đã ăn Phở Hùng Tô chưa?",
+      "link": "https://tuoitre.vn/pho-cua-la-mieng-pho-tron-te-cay-hong-giong-ai-ban-da-an-pho-hung-to-chua-2025120819185295.htm",
+      "summary": "Phở Hùng Tô mới hoạt động kinh doanh trên con đường Bình Giã (TP.HCM) được 8 tháng, thỏa ước mơ 'được ăn phở' thời còn thơ của anh chủ quán Tô Thanh Hùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214646+07:00",
+      "fetched": "2025-12-10T08:22:45.214768+07:00"
+    },
+    {
+      "id": "55e727432ed2b10b847f7f37c096ac70",
+      "title": "Thanh Hóa kêu gọi ủng hộ kinh phí phân tích ADN của thân nhân liệt sĩ",
+      "link": "https://tuoitre.vn/thanh-hoa-keu-goi-ung-ho-kinh-phi-phan-tich-adn-cua-than-nhan-liet-si-20251210071623421.htm",
+      "summary": "Theo thông tin từ UBND tỉnh Thanh Hóa, qua rà soát, hiện nay tỉnh này còn 37.720 liệt sĩ chưa xác định được thông tin phần mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214515+07:00",
+      "fetched": "2025-12-10T08:22:45.214634+07:00"
+    },
+    {
+      "id": "0ac8c66638105e0f967bd10d7dfdc5ea",
+      "title": "Tông xe 4 người chết: Tài xế xe khách lái xe liên tục 5 giờ, nhưng cao tốc không có trạm dừng nghỉ",
+      "link": "https://tuoitre.vn/tong-xe-4-nguoi-chet-tai-xe-xe-khach-lai-xe-lien-tuc-5-gio-nhung-cao-toc-khong-co-tram-dung-nghi-20251210075342059.htm",
+      "summary": "Cục Cảnh sát giao thông cho biết thêm khi đi trên cao tốc Đà Nẵng - Quảng Ngãi, lái xe không thể dừng nghỉ vì trên toàn tuyến không có trạm dừng nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214373+07:00",
+      "fetched": "2025-12-10T08:22:45.214502+07:00"
+    },
+    {
+      "id": "d255bc3469706335875b2058bc04e3bd",
+      "title": "Bộ Tài chính đề xuất quy định bảo hiểm hưu trí bổ sung: Giải bài toán lương hưu thấp",
+      "link": "https://tuoitre.vn/bo-tai-chinh-de-xuat-quy-dinh-bao-hiem-huu-tri-bo-sung-giai-bai-toan-luong-huu-thap-20251209164719512.htm",
+      "summary": "Bộ Tài chính đánh giá bảo hiểm hưu trí bổ sung giúp tăng thêm thu nhập người lao động khi về già.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.214214+07:00",
+      "fetched": "2025-12-10T08:22:45.214345+07:00"
+    },
+    {
+      "id": "8a4b448a2174c38e810b7288ed95bf34",
+      "title": "Phụ tiền mãn kinh dễ mắc nhiễm trùng đường tiết niệu do đâu?",
+      "link": "https://tuoitre.vn/phu-tien-man-kinh-de-mac-nhiem-trung-duong-tiet-nieu-do-dau-20251209144438951.htm",
+      "summary": "Trong giai đoạn tiền mãn kinh, người phụ nữ không chỉ thay đổi về tâm sinh lý mà còn tiềm ẩn nhiều nguy cơ sức khỏe, trong đó nhiễm trùng tiết niệu là bệnh lý thường gặp nhưng dễ bị bỏ qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T08:22:45.213988+07:00",
+      "fetched": "2025-12-10T08:22:45.214198+07:00"
+    },
     {
       "id": "ba72b83087954f35dfb33323a45b7ff8",
       "title": "Thời tiết hôm nay 10-12: Nam Trung Bộ mưa to, Biển Đông có áp thấp",
@@ -161,6 +311,406 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T01:22:56.974764+07:00",
       "fetched": "2025-12-10T01:22:56.974961+07:00"
+    },
+    {
+      "id": "e4b74561f17d6f0b0a0a225862c37490",
+      "title": "Bác sĩ hướng dẫn xử trí khi bị chó cắn",
+      "link": "https://thanhnien.vn/bac-si-huong-dan-xu-tri-khi-bi-cho-can-185251209194549848.htm",
+      "summary": "Theo Bệnh viện Bệnh nhiệt đới T.Ư (Hà Nội), gần đây ghi nhận gia tăng các ca nhập viện do chó cắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:14:00+07:00",
+      "fetched": "2025-12-10T08:22:40.484762+07:00"
+    },
+    {
+      "id": "fa00455f0414164f0f435db73b55e0e1",
+      "title": "Thu hồi 4 loại mỹ phẩm của một công ty do công thức sai lệch",
+      "link": "https://vnexpress.net/thu-hoi-4-loai-my-pham-cua-mot-cong-ty-do-cong-thuc-sai-lech-4991836.html",
+      "summary": "Bốn sản phẩm gồm serum, toner, sữa rửa mặt và mặt nạ do Công ty TNHH thẩm mỹ Zacy phân phối bị đình chỉ lưu hành, thu hồi trên toàn quốc do sai lệch công thức và nhãn mác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:04:40+07:00",
+      "fetched": "2025-12-10T08:22:37.140854+07:00"
+    },
+    {
+      "id": "7e6c1b83caa68199b68f7adb4f8cc256",
+      "title": "Khi người giàu Mỹ trở thành tầng lớp 'đủ ăn'",
+      "link": "https://vnexpress.net/khi-nguoi-giau-my-tro-thanh-tang-lop-du-an-4991609.html",
+      "summary": "Các hộ gia đình Mỹ có thu nhập gần 200.000 USD mỗi năm, tức mức lương sáu con số từng được coi là giàu có, giờ vẫn chưa được xem là tầng lớp thượng lưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:28+07:00",
+      "fetched": "2025-12-10T08:22:37.141033+07:00"
+    },
+    {
+      "id": "2525d24c2d5d11ca111d809ce93b5c1d",
+      "title": "Cứu sống con rắn bị điện giật bằng cách hô hấp nhân tạo",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-cuu-song-con-ran-bi-dien-giat-bang-cach-ho-hap-nhan-tao-4991749.html",
+      "summary": "Một nhân viên cứu hộ động vật hoang dã đã cứu sống con rắn bất tỉnh sau khi bị điện giật bằng cách thực hiện hô hấp nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:37.141196+07:00"
+    },
+    {
+      "id": "a3b8f96b7970b218b14218b23a3925e1",
+      "title": "Những nhóm người không nên bỏ bữa sáng",
+      "link": "https://vnexpress.net/nhung-nhom-nguoi-khong-nen-bo-bua-sang-4991889.html",
+      "summary": "Mọi người không nên bỏ bữa sáng, trong đó người bệnh dạ dày, tiểu đường, thai phụ, người già và trẻ em cần ăn đầy đủ để tránh ảnh hưởng đến sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:37.141376+07:00"
+    },
+    {
+      "id": "214c6b0a2fa16ee6630044ae44a650e4",
+      "title": "Bất động sản Đông - Tây TP.Hồ Chí Minh, kẻ tám lạng người nửa cân",
+      "link": "https://thanhnien.vn/bat-dong-san-dong-tay-tpho-chi-minh-ke-tam-lang-nguoi-nua-can-185251209213202983.htm",
+      "summary": "Thị trường căn hộ TP.HCM thời gian gần đây chứng kiến sự 'nở rộ' nguồn cung ở cả hai phía Đông và Tây. Nhiều dự án mới liên tục xuất hiện khi chủ đầu tư đón đầu điểm chờ hạ tầng như Vành đai 3, metro và cao tốc mở rộng, tạo kỳ vọng tăng trưởng mạnh trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:40.484939+07:00"
+    },
+    {
+      "id": "f19d7b618023c91a466f6d15bffe0994",
+      "title": "Tư vấn sức khỏe: Công nghệ mới điều trị sỏi tiết niệu, tăng sinh tuyến tiền liệt",
+      "link": "https://thanhnien.vn/tu-van-suc-khoe-cong-nghe-moi-dieu-tri-soi-tiet-nieu-tang-sinh-tuyen-tien-liet-185251209170433588.htm",
+      "summary": "Sỏi tiết niệu và tăng sinh tuyến tiền liệt là hai bệnh lý phổ biến ở nam giới trung niên và lớn tuổi thường tiến triển âm thầm, dễ bị bỏ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:40.485103+07:00"
+    },
+    {
+      "id": "a9efcbb189de7c63fa2a284db6143143",
+      "title": "Kinh tế bứt tốc, Đà Nẵng mở rộng ‘vùng lõi’",
+      "link": "https://thanhnien.vn/kinh-te-but-toc-da-nang-mo-rong-vung-loi-185251209155241054.htm",
+      "summary": "Sau khi hợp nhất với tỉnh Quảng Nam, TP.Đà Nẵng bước vào giai đoạn 'bản lề' cho tiến trình phát triển mới, kết nối 2 vùng kinh tế trọng điểm, hướng tới mô hình tăng trưởng đa cực, hình thành những điểm hút đầu tư mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:40.485269+07:00"
+    },
+    {
+      "id": "3f20650846ca39ba4d16eebb94260fed",
+      "title": "Đầm đen, sự lựa chọn 'chân ái' cho những ngày lười",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-den-su-lua-chon-chan-ai-cho-nhung-ngay-luoi-185251209094709397.htm",
+      "summary": "Với những ngày lười phối đồ khi xuống phố thì đầm đen vẫn luôn là lựa chọn hàng đầu cho nàng. Dù dạo phố hay hẹn hò, chiếc đầm đơn giản nhưng vẫn thể hiện được gu thời trang tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T01:00:00+07:00",
+      "fetched": "2025-12-10T08:22:40.485448+07:00"
+    },
+    {
+      "id": "d1d4eba125cae3119265c60d6eb0fe23",
+      "title": "SEA Games 33: Thể thao Việt Nam chờ tin vui từ jujitsu, taekwondo",
+      "link": "https://thanhnien.vn/sea-games-33-the-thao-viet-nam-cho-tin-vui-tu-ju-jitsu-taekwondo-185251210074956174.htm",
+      "summary": "Sáng nay (10.12), đoàn thể thao Việt Nam bước vào ngày tranh tài chính thức đầu tiên ở SEA Games 33 với kỳ vọng đoạt các môn HCV taekwondo, jujitsu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:55:00+07:00",
+      "fetched": "2025-12-10T08:22:40.485612+07:00"
+    },
+    {
+      "id": "2e1bd8b082bdfbfb8b2d28e9a518aa99",
+      "title": "Cực nóng chuyện đặt vé xem SEA Games 33: CĐV Việt Nam cần tuân thủ điều gì, sẽ ‘trắng tay’ nếu…",
+      "link": "https://thanhnien.vn/cuc-nong-chuyen-dat-ve-xem-sea-games-33-cdv-viet-nam-can-tuan-thu-dieu-gi-se-trang-tay-neu-185251210074346048.htm",
+      "summary": "SEA Games 33 đã khai mạc với nhiều cuộc thi dồn dập diễn ra trong vòng 10 ngày tới. Rất nhiều cổ động viên (CĐV) Việt Nam sẽ sang Thái Lan cổ vũ cho giải đấu. Nhưng chuyện đặt vé phải hết sức chú ý nếu không muốn đứng ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:55:00+07:00",
+      "fetched": "2025-12-10T08:22:40.485767+07:00"
+    },
+    {
+      "id": "ef07d06b0b32f9ceff01f8364a1a3f47",
+      "title": "Rơi vận tải cơ quân sự tại Nga, toàn bộ phi hành đoàn thiệt mạng",
+      "link": "https://vnexpress.net/roi-van-tai-co-quan-su-tai-nga-toan-bo-phi-hanh-doan-thiet-mang-4991879.html",
+      "summary": "Máy bay vận tải An-22 Nga rơi trong lúc bay thử nghiệm sau khi sửa chữa, toàn bộ thành viên phi hành đoàn thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:54:46+07:00",
+      "fetched": "2025-12-10T08:22:37.141553+07:00"
+    },
+    {
+      "id": "ef07d06b0b32f9ceff01f8364a1a3f47",
+      "title": "Rơi vận tải cơ quân sự tại Nga, toàn bộ phi hành đoàn thiệt mạng",
+      "link": "https://vnexpress.net/roi-van-tai-co-quan-su-tai-nga-toan-bo-phi-hanh-doan-thiet-mang-4991879.html",
+      "summary": "Máy bay vận tải An-22 Nga rơi trong lúc bay thử nghiệm sau khi sửa chữa, toàn bộ thành viên phi hành đoàn thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T00:54:46+07:00",
+      "fetched": "2025-12-10T08:22:46.568052+07:00"
+    },
+    {
+      "id": "b1ef1ee6b8bdc2f5baa1568d0310b479",
+      "title": "Hố ga nguy hiểm",
+      "link": "https://thanhnien.vn/ho-ga-nguy-hiem-185251209194242008.htm",
+      "summary": "Bạn đọc phản ánh hố ga gần trước nhà số 5 Nguyễn Ảnh Thủ, xã Bà Điểm (trước đây thuộc xã Bà Điểm, H.Hóc Môn), TP.HCM, không có nắp đậy, tạo thành cái bẫy gây nguy hiểm cho người qua lại. Bà con xung q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:52:00+07:00",
+      "fetched": "2025-12-10T08:22:42.174008+07:00"
+    },
+    {
+      "id": "557d3503a9415b5eed671de502f9fbf6",
+      "title": "Đường chưa có vạch phân làn",
+      "link": "https://thanhnien.vn/duong-chua-co-vach-phan-lan-185251209193929223.htm",
+      "summary": "Mỗi lần có dịp đi qua đường số 1, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, chúng tôi rất bất an vì đoạn đường dài khoảng 1 km, rộng và được trải nhựa đã lâu nhưng không có v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:52:00+07:00",
+      "fetched": "2025-12-10T08:22:44.021543+07:00"
+    },
+    {
+      "id": "1860617252ec12294e42924b63c7adea",
+      "title": "Chuyện tử tế: Cứu người không quản hiểm nguy",
+      "link": "https://thanhnien.vn/chuyen-tu-te-cuu-nguoi-khong-quan-hiem-nguy-185251209193624893.htm",
+      "summary": "Từ tấm lòng nghĩa tình, anh Đậu Văn Mân (33 tuổi, ngụ xã Mai Phụ, tỉnh Hà Tĩnh) đã thành lập đội cứu hộ, cứu nạn thiện nguyện mang tên SOS Mân Côi Hà Tĩnh, kịp thời có mặt tại các vùng lũ để hỗ trợ sơ tán người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:51:00+07:00",
+      "fetched": "2025-12-10T08:22:44.021942+07:00"
+    },
+    {
+      "id": "6b003634449b4493dfb9714186043652",
+      "title": "Lời thú tội sai lầm sau 17 giờ bị tra hỏi thao túng tâm lý",
+      "link": "https://vnexpress.net/loi-thu-toi-sai-lam-sau-17-gio-bi-tra-hoi-thao-tung-tam-ly-4991806.html",
+      "summary": "Thomas Perez Jr. phải chịu 17 giờ thẩm vấn liên tục của cảnh sát sau khi trình báo bố mất tích, dẫn đến lời thú nhận sai sự thật về vụ giết người, trong khi bố anh ta vẫn còn sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:43:26+07:00",
+      "fetched": "2025-12-10T08:22:37.141711+07:00"
+    },
+    {
+      "id": "d48cc563cd6b1d0060c3346a73001a6f",
+      "title": "Sức ép quán hủ tiếu bán hơn 600 tô mới đủ tiền nuôi mặt bằng",
+      "link": "https://vnexpress.net/quan-hu-tieu-sai-gon-ngon-bo-thue-khoan-thue-mat-ban-kinh-doanh-200-trieu-cham-nguong-dong-thue-ban-600-to-hu-tieu-du-tien-nuoi-mat-bang-4991751.html",
+      "summary": "Mở quán ăn đôi khi dù cố gắng nấu ngon, bạn vẫn phải chiến đấu với áp lực 'tới tháng đóng tiền thuê nhà'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:41:24+07:00",
+      "fetched": "2025-12-10T08:22:37.141865+07:00"
+    },
+    {
+      "id": "f11ce36b24c91847afa6f9eceafdeced",
+      "title": "Sau thỏa thuận hòa bình của ông Trump, 200.000 người di tản vì xung đột CHDC Congo",
+      "link": "https://thanhnien.vn/sau-thoa-thuan-hoa-binh-cua-ong-trump-200000-nguoi-di-tan-vi-xung-dot-chdc-congo-185251210072347416.htm",
+      "summary": "Khoảng 200.000 người đã rời bỏ nhà cửa tại miền đông CHDC Congo và hàng chục người thiệt mạng do chiến sự tái bùng phát ngay sau thỏa thuận hòa bình do Tổng thống Mỹ Donald Trump làm trung gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:40:00+07:00",
+      "fetched": "2025-12-10T08:22:44.022110+07:00"
+    },
+    {
+      "id": "c98b7bdd5f65dc58969e56d83146af97",
+      "title": "Cuộc sống nghệ sĩ Đình Toàn ở tuổi 49",
+      "link": "https://thanhnien.vn/cuoc-song-nghe-si-dinh-toan-o-tuoi-49-185251210005159721.htm",
+      "summary": "Ở tuổi 49, nghệ sĩ Đình Toàn tất bật với công việc ở sân khấu kịch. Ngoài ra, anh tâm sự bản thân muốn thử sức ở những vai diễn khó trong lĩnh vực phim truyền hình, điện ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:38:00+07:00",
+      "fetched": "2025-12-10T08:22:44.022270+07:00"
+    },
+    {
+      "id": "a8af213c2e9d11fdeae1f21041fac957",
+      "title": "Hoa hậu Việt Nam - Hà Trúc Linh khóc nghẹn trong show thực tế",
+      "link": "https://thanhnien.vn/hoa-hau-viet-nam-ha-truc-linh-khoc-nghen-trong-show-thuc-te-185251210064720156.htm",
+      "summary": "Lần hiếm hoi góp mặt trong một show thực tế sau khi đăng quang, Hà Trúc Linh không giấu được sự xúc động khi chứng kiến hoàn cảnh khó khăn của các em nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:32:00+07:00",
+      "fetched": "2025-12-10T08:22:44.022443+07:00"
+    },
+    {
+      "id": "efa42ecb8400e2b6c34fd1c8fe5aade0",
+      "title": "Nghĩa tình bạn đọc và đại lý báo miền Tây",
+      "link": "https://thanhnien.vn/nghia-tinh-ban-doc-va-dai-ly-bao-mien-tay-185251209192044414.htm",
+      "summary": "Tôi có thói quen góp nhặt yêu thương. Chuyện không vui thì tìm cách quên, chuyện vui thì cất giữ. Suốt gần 30 năm làm việc tại Báo Thanh Niên, nghĩa tình của bạn đọc và đại lý phát hành báo không chỉ là câu chuyện đẹp, mà còn là lời nhắc đối với tôi về lòng biết ơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:28:00+07:00",
+      "fetched": "2025-12-10T08:22:44.022600+07:00"
+    },
+    {
+      "id": "ffdcc1ff05fc50ed418188cffdc13c38",
+      "title": "Ông Trump: 'Châu Âu suy tàn, yếu đuối'",
+      "link": "https://vnexpress.net/ong-trump-chau-au-suy-tan-yeu-duoi-4991880.html",
+      "summary": "Ông Trump chỉ trích châu Âu về vấn đề dân nhập cư và Ukraine, làm rạn nứt thêm quan hệ giữa Mỹ với một số đồng minh lâu đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:26:56+07:00",
+      "fetched": "2025-12-10T08:22:37.142022+07:00"
+    },
+    {
+      "id": "ffdcc1ff05fc50ed418188cffdc13c38",
+      "title": "Ông Trump: 'Châu Âu suy tàn, yếu đuối'",
+      "link": "https://vnexpress.net/ong-trump-chau-au-suy-tan-yeu-duoi-4991880.html",
+      "summary": "Ông Trump chỉ trích châu Âu về vấn đề dân nhập cư và Ukraine, làm rạn nứt thêm quan hệ giữa Mỹ với một số đồng minh lâu đời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T00:26:56+07:00",
+      "fetched": "2025-12-10T08:22:46.568230+07:00"
+    },
+    {
+      "id": "0533b64e9479389b6634e025b3c88fb7",
+      "title": "TP.HCM và Nam bộ đón đợt mưa trái mùa kéo dài 2 ngày",
+      "link": "https://thanhnien.vn/tphcm-va-nam-bo-don-dot-mua-trai-mua-keo-dai-2-ngay-185251210070837486.htm",
+      "summary": "Đợt mưa trái mùa ở TP.HCM và Nam bộ sẽ xuất hiện trong hôm nay và ngày mai với lượng phổ biến từ 20 - 50 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:24:00+07:00",
+      "fetched": "2025-12-10T08:22:44.022754+07:00"
+    },
+    {
+      "id": "b873206f2acf6ec21c40fc6ea92db8bc",
+      "title": "Sắc màu Giáng sinh trong vũ kịch 'Kẹp hạt dẻ'",
+      "link": "https://vnexpress.net/sac-mau-giang-sinh-trong-vu-kich-kep-hat-de-4991145.html",
+      "summary": "Vở ballet \"Kẹp hạt dẻ\" của Nhà hát Giao hưởng Nhạc Vũ Kịch TP HCM mang không khí lễ hội, kết hợp các màn múa cùng âm nhạc của Tchaikovsky.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:05:01+07:00",
+      "fetched": "2025-12-10T08:22:37.142176+07:00"
+    },
+    {
+      "id": "74d63cb5536309774379d691157b1dab",
+      "title": "Bụi mịn phá vỡ 'hàng rào' bảo vệ da",
+      "link": "https://vnexpress.net/bui-min-pha-vo-hang-rao-bao-ve-da-4990451.html",
+      "summary": "Bụi mịn nhỏ hơn sợi tóc hàng chục lần, len vào lỗ chân lông làm tổn thương lớp màng bảo vệ tự nhiên da gây kích ứng khiến da lão hóa sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T08:22:37.142325+07:00"
+    },
+    {
+      "id": "e80ecc017194ece49958e9d0b1663cdd",
+      "title": "'Văn hóa tùy tiện trong giao thông'",
+      "link": "https://vnexpress.net/van-hoa-tuy-tien-trong-giao-thong-4991496.html",
+      "summary": "Ích kỷ là nguyên nhân của sự tùy tiện vi phạm giao thông dần dần thành coi thường pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T08:22:37.142520+07:00"
+    },
+    {
+      "id": "03e7cda670732f8654d228c5f4f5b748",
+      "title": "Tổng thống Zelensky nêu khả năng tổ chức bầu cử ở Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-neu-kha-nang-to-chuc-bau-cu-o-ukraine-4991875.html",
+      "summary": "Ông Zelensky nói sẵn sàng tổ chức bầu cử tổng thống tại Ukraine nếu Mỹ bảo đảm an ninh để làm việc này, sau khi bị ông Trump chỉ trích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:57:23+07:00",
+      "fetched": "2025-12-10T08:22:37.142674+07:00"
+    },
+    {
+      "id": "03e7cda670732f8654d228c5f4f5b748",
+      "title": "Tổng thống Zelensky nêu khả năng tổ chức bầu cử ở Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-neu-kha-nang-to-chuc-bau-cu-o-ukraine-4991875.html",
+      "summary": "Ông Zelensky nói sẵn sàng tổ chức bầu cử tổng thống tại Ukraine nếu Mỹ bảo đảm an ninh để làm việc này, sau khi bị ông Trump chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T23:57:23+07:00",
+      "fetched": "2025-12-10T08:22:46.568411+07:00"
+    },
+    {
+      "id": "3c8e431ad4a6775c77718e4bd59f628f",
+      "title": "Nữ giám đốc người Thái địu con đi khởi nghiệp",
+      "link": "https://vnexpress.net/nu-giam-doc-nguoi-thai-diu-con-di-khoi-nghiep-4989819.html",
+      "summary": "Bị gia đình phản đối vì sợ \"đi xa mất chồng\", Lò Chúc Chi vẫn quyết xuống phố học nghề, trở thành giám đốc khi vừa làm mẹ của cặp song sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:26:00+07:00",
+      "fetched": "2025-12-10T08:22:37.142823+07:00"
+    },
+    {
+      "id": "1ed08ada9be90548805361b05e7b77c1",
+      "title": "Chần chừ chuyển xe điện vì bất tiện đường sạc",
+      "link": "https://vnexpress.net/chan-chu-chuyen-xe-dien-vi-bat-tien-duong-sac-4991870.html",
+      "summary": "Làm việc tại Vành đai 1 nơi sắp hạn chế xe xăng, anh Tuấn vẫn chưa dám đổi xe điện vì không được sạc trong khu trọ và mất 90 phút chờ sạc mỗi khi về quê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:22:26+07:00",
+      "fetched": "2025-12-10T08:22:37.142985+07:00"
+    },
+    {
+      "id": "7638ca58438e0e08ea0aaedf346ffdf6",
+      "title": "Barca ngược dòng trong ba phút ở Champions League",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html",
+      "summary": "Cú đúp trong vòng ba phút của hậu vệ Jules Kounde giúp Barca hạ Frankfurt 2-1 ở lượt sáu vòng bảng, tối 9/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:02:00+07:00",
+      "fetched": "2025-12-10T08:22:37.143140+07:00"
+    },
+    {
+      "id": "7638ca58438e0e08ea0aaedf346ffdf6",
+      "title": "Barca ngược dòng trong ba phút ở Champions League",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html",
+      "summary": "Cú đúp trong vòng ba phút của hậu vệ Jules Kounde giúp Barca hạ Frankfurt 2-1 ở lượt sáu vòng bảng, tối 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T23:02:00+07:00",
+      "fetched": "2025-12-10T08:22:52.005933+07:00"
+    },
+    {
+      "id": "68c48c636e536a5e28b9f8e6b8a935bd",
+      "title": "Chủ tịch VNG: 'KPI của startup là chấp nhận thất bại'",
+      "link": "https://vnexpress.net/chu-tich-vng-kpi-cua-startup-la-chap-nhan-that-bai-4991858.html",
+      "summary": "Với khởi nghiệp và đổi mới sáng tạo, KPI không phải \"thành công\" mà là \"dám chấp nhận thất bại để tiếp tục đầu tư\", theo Chủ tịch VNG Lê Hồng Minh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T08:22:50.629332+07:00"
+    },
+    {
+      "id": "3261ec0f6fbf8471285a7a2b42223919",
+      "title": "VĐV Kenya lỡ chiến thắng tại Valencia Marathon vì fair-play",
+      "link": "https://vnexpress.net/vdv-kenya-lo-chien-thang-tai-valencia-marathon-vi-fair-play-4991823.html",
+      "summary": "Khoảnh khắc chia sẻ chai nước giữa đường đua được cho là nguyên nhân khiến nhà vô địch thế giới Peres Jepchirchir đánh mất lợi thế và nhìn đồng hương Joyciline Jepkosgei vô địch Valencia Marathon 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:53:02+07:00",
+      "fetched": "2025-12-10T08:22:52.007258+07:00"
+    },
+    {
+      "id": "adfbe2e1fb0e5de44363576e33e560bc",
+      "title": "Messi hay nhất MLS hai mùa liên tiếp",
+      "link": "https://vnexpress.net/messi-hay-nhat-mls-hai-mua-lien-tiep-4991865.html",
+      "summary": "Lionel Messi trở thành cầu thủ đầu tiên trong lịch sử MLS giành danh hiệu Cầu thủ hay nhất mùa giải ở hai năm liên tiếp, khép lại mùa 2025 với hàng loạt kỷ lục và chức vô địch MLS Cup đầu tiên cho Inter Miami.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:51:00+07:00",
+      "fetched": "2025-12-10T08:22:52.006945+07:00"
+    },
+    {
+      "id": "089cd53f9b4c4a4bb89c9a46b2bec52c",
+      "title": "Tài năng 17 tuổi cứu Bayern ở Champions League",
+      "link": "https://vnexpress.net/tai-nang-17-tuoi-cuu-bayern-o-champions-league-4991871.html",
+      "summary": "Tiền vệ Lennart Karl ghi bàn ở ba trận liên tiếp tại Champions League, khi góp công giúp Bayern thắng Sporting Lisbon 3-1 hôm 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:46:21+07:00",
+      "fetched": "2025-12-10T08:22:52.006113+07:00"
+    },
+    {
+      "id": "e2dcee7892eaffb49495f5c9d1a1980b",
+      "title": "Chelsea thua ngược ở Champions League",
+      "link": "https://vnexpress.net/chelsea-thua-nguoc-o-champions-league-4991872.html",
+      "summary": "Dẫn trước sau hiệp một, nhưng Chelsea vẫn thua Atalanta 1-2 ở vòng bảng Champions League, hôm 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:45:52+07:00",
+      "fetched": "2025-12-10T08:22:52.006279+07:00"
+    },
+    {
+      "id": "2a07e5bee479d01b27095164d77dce40",
+      "title": "Liverpool thắng Inter Milan ở Champions League",
+      "link": "https://vnexpress.net/liverpool-thang-inter-milan-o-champions-league-4991869.html",
+      "summary": "Bàn phạt đền gây tranh cãi của Dominik Szoboszlai giúp Liverpool thắng chủ nhà Inter Milan 1-0 ở lượt sáu vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:31:56+07:00",
+      "fetched": "2025-12-10T08:22:52.006461+07:00"
     },
     {
       "id": "2167b0db4c37750871a48146c6becdc7",
