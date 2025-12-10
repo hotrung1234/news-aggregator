@@ -1,7 +1,157 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T11:30:53.479086+07:00",
+  "lastUpdated": "2025-12-10T13:28:58.281496+07:00",
   "articles": [
+    {
+      "id": "1612ce23bdae4e590839faa83cb6b834",
+      "title": "HLV Arne Slot nói gì sau khi loại Salah và giúp Liverpool giành chiến thắng?",
+      "link": "https://tuoitre.vn/hlv-arne-slot-noi-gi-sau-khi-loai-salah-va-giup-liverpool-gianh-chien-thang-20251210110818822.htm",
+      "summary": "Dù Liverpool vừa giành chiến thắng  1-0 trước Inter Milan tại Champions League rạng sáng 10-12, nhưng tâm điểm lại là những phát biểu cứng rắn của HLV Arne Slot về tương lai của Mohamed Salah.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.821565+07:00",
+      "fetched": "2025-12-10T13:28:51.821677+07:00"
+    },
+    {
+      "id": "ecdbc1bcf2fb5f2b1b7af1fa11d5e7d5",
+      "title": "Vụ khóa radar máy bay: Nhật phủ nhận 'vu khống' Trung Quốc; Mỹ, Đài Loan lên tiếng",
+      "link": "https://tuoitre.vn/vu-khoa-radar-may-bay-nhat-phu-nhan-vu-khong-trung-quoc-my-dai-len-tieng-20251210111427002.htm",
+      "summary": "Bộ trưởng Quốc phòng Nhật Shinjiro Koizumi ngày 10-12 khẳng định chiến đấu cơ Nhật Bản không hề chĩa radar vào máy bay Trung Quốc trong vụ chạm trán gần Okinawa như cáo buộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.821440+07:00",
+      "fetched": "2025-12-10T13:28:51.821554+07:00"
+    },
+    {
+      "id": "8af498122c80ecf16d0c84d5ece3475a",
+      "title": "Tạo hành lang pháp lý vững chắc cho hoạt động báo chí",
+      "link": "https://tuoitre.vn/tao-hanh-lang-phap-ly-vung-chac-cho-hoat-dong-bao-chi-20251210084856099.htm",
+      "summary": "Theo chương trình kỳ họp, chiều nay (10-12), Quốc hội sẽ biểu quyết thông qua dự thảo Luật Báo chí (sửa đổi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.821311+07:00",
+      "fetched": "2025-12-10T13:28:51.821429+07:00"
+    },
+    {
+      "id": "6db17b5f1d7bb380a390f4201a5488b7",
+      "title": "Long Châu đón khách hàng thứ 33 triệu: Cột mốc tự hào trên hành trình chăm sóc sức khỏe Việt Nam",
+      "link": "https://tuoitre.vn/long-chau-don-khach-hang-thu-33-trieu-cot-moc-tu-hao-tren-hanh-trinh-cham-soc-suc-khoe-viet-nam-20251210113957432.htm",
+      "summary": "Thông qua mạng lưới nhà thuốc và trung tâm tiêm chủng phủ rộng khắp 34 tỉnh thành trên toàn quốc, Long Châu trở thành điểm đến đáng tin cậy của người Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.821181+07:00",
+      "fetched": "2025-12-10T13:28:51.821299+07:00"
+    },
+    {
+      "id": "162728202550a206ccb58a26b4982ce6",
+      "title": "Quốc hội quyết một bộ sách giáo khoa toàn quốc từ năm học 2026-2027, bỏ cấp bằng tốt nghiệp THCS",
+      "link": "https://tuoitre.vn/quoc-hoi-quyet-mot-bo-sach-giao-khoa-toan-quoc-tu-nam-hoc-2026-2027-bo-cap-bang-tot-nghiep-thcs-20251210110728963.htm",
+      "summary": "Quốc hội đã thông qua luật quy định Bộ trưởng Bộ Giáo dục và Đào tạo quyết định một bộ sách giáo khoa giáo dục phổ thông sử dụng thống nhất toàn quốc từ năm học 2026-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.821049+07:00",
+      "fetched": "2025-12-10T13:28:51.821170+07:00"
+    },
+    {
+      "id": "8c22be36c6e3a0e4497c2d169967344d",
+      "title": "Luật Báo chí vừa thông qua: Quy định cụ thể về cơ quan báo chí chủ lực đa phương tiện",
+      "link": "https://tuoitre.vn/luat-bao-chi-vua-thong-qua-quy-dinh-cu-the-ve-co-quan-bao-chi-chu-luc-da-phuong-tien-20251210113936653.htm",
+      "summary": "Luật Báo chí sửa đổi vừa được Quốc hội thông qua vào sáng nay có nhiều điểm mới, trong đó quy định về cơ quan báo chí chủ lực đa phương tiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820921+07:00",
+      "fetched": "2025-12-10T13:28:51.821038+07:00"
+    },
+    {
+      "id": "a32739f0f5e830d48978554831a9a5b5",
+      "title": "Màn hóa thân cương thi giúp Việt Nam giành huy chương đầu tiên ở SEA Games 33",
+      "link": "https://tuoitre.vn/man-hoa-than-cuong-thi-giup-viet-nam-gianh-huy-chuong-dau-tien-o-sea-games-33-20251210113537457.htm",
+      "summary": "Sáng 10-12, cặp đôi Phùng Thị Hồng Ngọc và Nguyễn Ngọc Bích đã mang về huy chương đầu tiên cho thể thao Việt Nam tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820766+07:00",
+      "fetched": "2025-12-10T13:28:51.820900+07:00"
+    },
+    {
+      "id": "ddde87daa225680705c6da4375c249bc",
+      "title": "Điện gió Tài Tâm được yêu cầu nộp vốn đúng cam kết, không để mặc con đường ngập bùn lầy",
+      "link": "https://tuoitre.vn/dien-gio-tai-tam-duoc-yeu-cau-nop-von-dung-cam-ket-khong-de-mac-con-duong-ngap-bun-lay-20251210102555788.htm",
+      "summary": "Doanh nghiệp điện gió Tài Tâm được kiến nghị phải nộp đủ số tiền để nâng cấp đường Tân Liên - Thuận, có biện pháp chế tài nếu không thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820642+07:00",
+      "fetched": "2025-12-10T13:28:51.820755+07:00"
+    },
+    {
+      "id": "0e5c229693d70adf10ca1be751f75889",
+      "title": "Chủ tịch nước tặng Huân chương Dũng cảm 2 ngư dân lao ra cứu người rồi trôi dạt trên biển 48 giờ",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-tang-huan-chuong-dung-cam-2-ngu-dan-lao-ra-cuu-nguoi-roi-troi-dat-tren-bien-48-gio-20251210095608925.htm",
+      "summary": "Hai ngư dân Phan Duy Quang và Lê Văn Sanh được Chủ tịch nước ký tặng Huân chương Dũng cảm vì bất chấp nguy hiểm lao ra biển cứu người. Cả hai sống sót thần kỳ sau 48 giờ trôi dạt giữa mưa bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820516+07:00",
+      "fetched": "2025-12-10T13:28:51.820630+07:00"
+    },
+    {
+      "id": "fbf010234ad4c95db1a9ad9a9a88d68b",
+      "title": "Huế có tòa nhà y khoa mới từ vốn ODA Ý, tăng năng lực khám chữa bệnh miền Trung",
+      "link": "https://tuoitre.vn/hue-co-toa-nha-y-khoa-moi-tu-von-oda-y-tang-nang-luc-kham-chua-benh-mien-trung-20251210111858998.htm",
+      "summary": "Tòa nhà y khoa ODA do Chính phủ Ý tài trợ vừa được khánh thành ở Huế là bước tiến quan trọng trong quá trình hợp tác, nâng tầm đào tạo y khoa giữa Việt Nam và Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820388+07:00",
+      "fetched": "2025-12-10T13:28:51.820505+07:00"
+    },
+    {
+      "id": "ed6db84156f16dcc9c178b7a44d6e9f2",
+      "title": "Cứu 2 người trên tàu cá bị cháy ở vùng biển An Giang",
+      "link": "https://tuoitre.vn/cuu-2-nguoi-tren-tau-ca-bi-chay-o-vung-bien-an-giang-20251210112816744.htm",
+      "summary": "Lực lượng Bộ đội biên phòng An Giang cứu 2 người dân trên tàu cá bị cháy thuộc vùng biển thuộc xã Kiên Lương (An Giang).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820252+07:00",
+      "fetched": "2025-12-10T13:28:51.820376+07:00"
+    },
+    {
+      "id": "7eca37c134382122f7579bd69cbf409c",
+      "title": "Ngôi sao Thanh gươm diệt quỷ lên tiếng về việc chuyển thể live-action trên Netflix",
+      "link": "https://tuoitre.vn/ngoi-sao-thanh-guom-diet-quy-len-tieng-ve-viec-chuyen-the-live-action-tren-netflix-20251210111053909.htm",
+      "summary": "Với thành công vang dội của Thanh gươm diệt quỷ: Vô hạn thành, tin đồn về việc Netflix đang phát triển bản live-action bộ anime nổi tiếng này lan truyền rầm rộ, ngay cả diễn viên lồng tiếng cũng lên tiếng xác nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.820122+07:00",
+      "fetched": "2025-12-10T13:28:51.820241+07:00"
+    },
+    {
+      "id": "c6ef5d66805ccbd8df4f35a092ecfa34",
+      "title": "Người bán hàng online, livestream phải thực hiện định đanh, xác thực điện tử",
+      "link": "https://tuoitre.vn/nguoi-ban-hang-online-livestream-phai-thuc-hien-dinh-danh-xac-thuc-dien-tu-20251210114225207.htm",
+      "summary": "Sáng 10-12, với 444/446 đại biểu có mặt tán thành, Quốc hội thông qua Luật Thương mại điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.819984+07:00",
+      "fetched": "2025-12-10T13:28:51.820110+07:00"
+    },
+    {
+      "id": "136e06d600102b103801e47ff1ed6872",
+      "title": "Hàn Quốc: Triều Tiên tiếp tục phóng loạt pháo phản lực có tầm bắn xa",
+      "link": "https://tuoitre.vn/han-quoc-trieu-tien-tiep-tuc-phong-loat-phao-phan-luc-co-tam-ban-xa-20251210115342636.htm",
+      "summary": "Ngày 10-12, Hàn Quốc cho biết Triều Tiên đã bắn khoảng 10 quả đạn pháo từ hệ thống phóng pháo phản lực đa nòng về phía Hoàng Hải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.819786+07:00",
+      "fetched": "2025-12-10T13:28:51.819969+07:00"
+    },
+    {
+      "id": "7f04bf50ffb555fc38eedef497a853d2",
+      "title": "Tuyển nữ Việt Nam được tiếp lửa trước trận đấu với Myanmar",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-duoc-tiep-lua-truoc-tran-dau-voi-myanmar-20251210115823617.htm",
+      "summary": "Sáng 10-12, đoàn quân của HLV Mai Đức Chung đã được lãnh đạo đoàn Thể thao Việt Nam đến động viên trước trận đấu cuối vòng bảng SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:28:51.819566+07:00",
+      "fetched": "2025-12-10T13:28:51.819770+07:00"
+    },
     {
       "id": "fe0a0dee1702c9765f92159e13bd24d2",
       "title": "Ngõ cụt nào của hòa đàm Ukraine?",
@@ -403,6 +553,236 @@ window.newsData_2025_12_10 = {
       "fetched": "2025-12-10T08:22:45.214198+07:00"
     },
     {
+      "id": "0b09a62b9a250160a835582357e62f54",
+      "title": "Ô tô nhập ồ ạt về Việt Nam, nhiều nhất từ Indonesia, Trung Quốc",
+      "link": "https://thanhnien.vn/o-to-nhap-o-at-ve-viet-nam-nhieu-nhat-tu-indonesia-trung-quoc-185251209112253093.htm",
+      "summary": "Hơn 18.000 ô tô nhập khẩu vào Việt Nam trong tháng 11.2025, trong đó lượng xe sản xuất từ Indonesia chiếm đa số, ô tô xe Trung Quốc cũng vượt xe nhập khẩu từ Thái Lan về số lượng cũng như giá trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:23:00+07:00",
+      "fetched": "2025-12-10T13:28:50.855838+07:00"
+    },
+    {
+      "id": "a0ca6aae77c5cdd2c05455ac9f1026f1",
+      "title": "Taekwondo dậy sóng: Việt Nam và Philippines kiện trọng tài vì thua oan ức, Singapore giành vàng không thuyết phục",
+      "link": "https://thanhnien.vn/taekwondo-day-song-viet-nam-va-philippines-kien-trong-tai-vi-thua-oan-uc-singapore-gianh-vang-khong-thuyet-phuc-185251210131553577.htm",
+      "summary": "Nhà thi đấu taekwondo ở Trung tâm thương mại Fashion Island (Bangkok) đang nóng hầm hập, khi Việt Nam và Philippines đồng loạt đâm đơn kiện vì bức xúc trọng tài thiên vị Singapore rõ rệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:22:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856010+07:00"
+    },
+    {
+      "id": "c0091a20d10fbdc6fc694ca3e397a148",
+      "title": "Khi nào xây dựng tuyến metro từ Suối Tiên về Biên Hòa và sân bay Long Thành",
+      "link": "https://thanhnien.vn/khi-nao-xay-dung-tuyen-metro-tu-suoi-tien-ve-bien-hoa-va-san-bay-long-thanh-185251209104440107.htm",
+      "summary": "Tuyến metro từ Suối Tiên về Biên Hòa và sân bay Long Thành dự kiến có tổng mức đầu tư khoảng 60.261 tỉ đồng (trong đó chi phí bồi thường, hỗ trợ tái định cư khoảng 4.323 tỉ đồng). Thời gian thực hiện từ năm 2025 - 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:19:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856166+07:00"
+    },
+    {
+      "id": "082ce55ca91ae016fdf9399ab2b86490",
+      "title": "Tài xế ô tô con quyết 'hơn thua' với xe buýt vượt ẩu: Nên hay không?",
+      "link": "https://thanhnien.vn/tai-xe-o-to-con-quyet-hon-thua-voi-xe-buyt-vuot-au-nen-hay-khong-185251210065139127.htm",
+      "summary": "Phát hiện chiếc xe buýt phía sau chạy ẩu, lách lên lề cả lề đường, tài xế bức xúc lái ô tô con chèn đường, quyết không cho xe buýt vượt lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:18:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856318+07:00"
+    },
+    {
+      "id": "a56ab9011b117bc32f0f6d80f80d1f80",
+      "title": "Thách thức đào tạo truyền thông thời AI: Khi thầy cô ở thế kỷ 20 còn sinh viên đã ở thế kỷ 21",
+      "link": "https://thanhnien.vn/thach-thuc-dao-tao-truyen-thong-thoi-ai-khi-thay-co-o-the-ky-20-con-sinh-vien-da-o-the-ky-21-185251210104829711.htm",
+      "summary": "Tọa đàm \"Đào tạo truyền thông từ Đổi mới đến Kỷ nguyên mới\", đã thu hút sự tham dự của nhiều lãnh đạo cơ quan ban ngành, lãnh đạo các trường ĐH, chuyên gia truyền thông, doanh nghiệp, cán bộ giảng viên và sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:17:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856473+07:00"
+    },
+    {
+      "id": "998239de7a7a4f541394e3f00fd7fc53",
+      "title": "SEA Games 33: Chờ tấm HCV đầu tiên của thể thao Việt Nam",
+      "link": "https://thanhnien.vn/sea-games-33-cho-tam-hcv-dau-tien-cua-the-thao-viet-nam-185251210130647772.htm",
+      "summary": "Chiều nay (10.12), đoàn thể thao Việt Nam tiếp tục tranh tài ở SEA Games 33 với niềm hy vọng đoạt HCV ở các môn đua thuyền canoeing, bơi, taekwondo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:09:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856631+07:00"
+    },
+    {
+      "id": "e252163cefc3df89741ad1f1841c303b",
+      "title": "GC&Phenikaa Healthcare Center đóng góp vào kỷ nguyên chuyển đổi số ngành Y",
+      "link": "https://thanhnien.vn/gcphenikaa-healthcare-center-dong-gop-vao-ky-nguyen-chuyen-doi-so-nganh-y-185251210101002518.htm",
+      "summary": "Trong bối cảnh Chính phủ và Bộ Y tế đẩy mạnh lộ trình chuyển đổi số toàn ngành, việc ứng dụng công nghệ cao trở thành chìa khóa then chốt để nâng cao chất lượng dịch vụ, tối ưu hóa quy trình và tiến tới mục tiêu chăm sóc sức khỏe toàn dân một cách thông minh, chủ động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T06:00:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856784+07:00"
+    },
+    {
+      "id": "68a0cf8b837eb43f69c572f8aa61a98b",
+      "title": "Lan tỏa trên mạng xã hội: Niềm vui của người mẹ suy thận",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-niem-vui-cua-nguoi-me-suy-than-185251209215328136.htm",
+      "summary": "Một xe gỏi cuốn nhỏ bé ở chân cầu Thanh Đa (TP.HCM) mấy ngày qua bỗng tấp nập khách tìm đến ủng hộ sau khi câu chuyện của người mẹ suy thận được chia sẻ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:59:00+07:00",
+      "fetched": "2025-12-10T13:28:50.856961+07:00"
+    },
+    {
+      "id": "c02c892e94a5d3bb1510ec062d52d07b",
+      "title": "'Nữ hoàng ảnh lịch' Diễm My tiễn biệt diễn viên Thương Tín",
+      "link": "https://thanhnien.vn/nu-hoang-anh-lich-diem-my-tien-biet-dien-vien-thuong-tin-185251210123543069.htm",
+      "summary": "'Nữ hoàng ảnh lịch' Diễm My là một người những 'người tình màn ảnh' và đời thực của Thương Tín ở thập niên 1980 -1990. Khi hay tin ông ra đi, nữ diễn viên 6X không khỏi xót thương cho người đồng nghiệp cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:54:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857118+07:00"
+    },
+    {
+      "id": "0b7015414ac87279476fb0df073c6730",
+      "title": "Nhiều nơi chưa có quy chế nâng lương, thưởng, Bộ Nội vụ lên tiếng",
+      "link": "https://thanhnien.vn/nhieu-noi-chua-co-quy-che-nang-luong-thuong-bo-noi-vu-len-tieng-185251210122634572.htm",
+      "summary": "Sau sắp xếp chính quyền địa phương 2 cấp, một số cơ quan, đơn vị chưa ban hành quy chế nâng lương trước hạn và chế độ tiền thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:49:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857274+07:00"
+    },
+    {
+      "id": "f6fc60e7c5d68a006b8ff1442964f017",
+      "title": "Bí thư Thành ủy Đà Nẵng: Dư luận đặc biệt quan tâm đến quy trình xả lũ của thủy điện",
+      "link": "https://thanhnien.vn/bi-thu-thanh-uy-da-nang-du-luan-dac-biet-quan-tam-den-quy-trinh-xa-lu-cua-thuy-dien-185251210120941038.htm",
+      "summary": "Ông Lê Ngọc Quang, Bí thư Thành ủy Đà Nẵng cho rằng, trong thời gian vừa qua, dư luận đặc biệt quan tâm đến việc thực hiện quy trình xả lũ của các công trình thủy lợi, thủy điện trên địa bàn khu vực miền Trung - Tây nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:49:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857434+07:00"
+    },
+    {
+      "id": "ec709ae72f0ed82d1b248918e5dc831b",
+      "title": "Con riêng của Hoàng hậu Camilla từ chối đón Giáng sinh cùng Hoàng gia Anh",
+      "link": "https://thanhnien.vn/con-rieng-cua-hoang-hau-camilla-tu-choi-don-giang-sinh-cung-hoang-gia-anh-185251210120534475.htm",
+      "summary": "Hai người con riêng của Hoàng hậu Camilla được cho là sẽ không tham gia kỳ nghỉ Giáng sinh cùng gia đình Hoàng gia Anh trong năm nay, dù đã nhận được lời mời gọi nhiệt tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:46:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857580+07:00"
+    },
+    {
+      "id": "17dd1488f36f4224e17310d1f7ea8231",
+      "title": "Quốc hội thông qua luật Báo chí sửa đổi, quy định mới về cơ quan báo chí chủ lực",
+      "link": "https://thanhnien.vn/quoc-hoi-thong-qua-luat-bao-chi-sua-doi-quy-dinh-moi-ve-co-quan-bao-chi-chu-luc-185251210123540604.htm",
+      "summary": "Sáng 10.12, với 437/440 đại biểu tham gia biểu quyết tán thành, Quốc hội thông qua dự án luật Báo chí (sửa đổi). Luật mới có hiệu lực thi hành từ 1.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:45:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857732+07:00"
+    },
+    {
+      "id": "98d02210d0d85dcb279bfceb3d12f934",
+      "title": "Đời thực của nam NSƯT 'làm shipper' trên sóng phim giờ vàng",
+      "link": "https://thanhnien.vn/doi-thuc-cua-nam-nsut-lam-shipper-tren-song-phim-gio-vang-185251210120402756.htm",
+      "summary": "Trở lại màn ảnh nhỏ trong 'Gia đình trái dấu', nghệ sĩ ưu tú Hoàng Hải gây chú ý khi vào vai người đàn ông trung niên chật vật mưu sinh bằng nghề shipper sau biến cố mất việc.  Và ngoài đời, nam nghệ sĩ cũng từng trải qua những giai đoạn vất vả, đổi nghề và xoay xở đủ đường để nuôi gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:41:00+07:00",
+      "fetched": "2025-12-10T13:28:50.857909+07:00"
+    },
+    {
+      "id": "5c955e62a6f5018c25320e5ddefd6ec6",
+      "title": "'UAV Việt có tiềm năng cạnh tranh thế giới'",
+      "link": "https://vnexpress.net/uav-viet-co-tiem-nang-canh-tranh-the-gioi-4991987.html",
+      "summary": "Chuyên gia và doanh nghiệp đánh giá Việt Nam hoàn toàn có thể tạo ra thiết bị bay không người lái (drone, UAV) đủ sức cạnh tranh toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-10T05:37:30+07:00",
+      "fetched": "2025-12-10T13:28:56.827279+07:00"
+    },
+    {
+      "id": "b6b871ddb25c87dcbc01fe8384d42b87",
+      "title": "Lâm Đồng kiến nghị đưa khoảng 55.000 ha ra khỏi quy hoạch bô xít",
+      "link": "https://thanhnien.vn/lam-dong-kien-nghi-dua-khoang-55000-ha-ra-khoi-quy-hoach-bo-xit-185251210115527499.htm",
+      "summary": "Theo quy hoạch được Thủ tướng Chính phủ phê duyệt, tỉnh Lâm Đồng có 34 khu vực quy hoạch bô xít với tổng diện tích 244.642 ha. Hiện tỉnh đang kiến nghị đưa khoảng 55.000 ha ra khỏi quy hoạch bô xít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:36:00+07:00",
+      "fetched": "2025-12-10T13:28:50.858062+07:00"
+    },
+    {
+      "id": "3daaa58ba2df6a36035df901c401cd74",
+      "title": "Giá bạc miếng lập đỉnh trên 2,3 triệu một lượng",
+      "link": "https://vnexpress.net/gia-bac-mieng-lap-dinh-tren-2-3-trieu-mot-luong-4992053.html",
+      "summary": "Giá bạc miếng, bạc thỏi sáng nay tăng gần 4,5%, xác lập đỉnh mới trên 2,3 triệu đồng mỗi lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:30:57+07:00",
+      "fetched": "2025-12-10T13:28:48.158521+07:00"
+    },
+    {
+      "id": "3daaa58ba2df6a36035df901c401cd74",
+      "title": "Giá bạc miếng lập đỉnh trên 2,3 triệu một lượng",
+      "link": "https://vnexpress.net/gia-bac-mieng-lap-dinh-tren-2-3-trieu-mot-luong-4992053.html",
+      "summary": "Giá bạc miếng, bạc thỏi sáng nay tăng gần 4,5%, xác lập đỉnh mới trên 2,3 triệu đồng mỗi lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T05:30:57+07:00",
+      "fetched": "2025-12-10T13:28:54.391863+07:00"
+    },
+    {
+      "id": "37ee61859b5879fe0730be9bc9b18ed0",
+      "title": "Giá trị nông nghiệp Việt Nam kém Hàn Quốc 24 lần",
+      "link": "https://vnexpress.net/gia-tri-nong-nghiep-viet-nam-kem-han-quoc-24-lan-4992022.html",
+      "summary": "Khoa học công nghệ chưa \"chạm\" được vào sản xuất khiến giá trị nông nghiệp Việt Nam đạt dưới 1.000 USD một người, thấp hơn Hàn Quốc 24 lần, theo Thứ trưởng Khoa học và Công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:23:57+07:00",
+      "fetched": "2025-12-10T13:28:48.158705+07:00"
+    },
+    {
+      "id": "37ee61859b5879fe0730be9bc9b18ed0",
+      "title": "Giá trị nông nghiệp Việt Nam kém Hàn Quốc 24 lần",
+      "link": "https://vnexpress.net/gia-tri-nong-nghiep-viet-nam-kem-han-quoc-24-lan-4992022.html",
+      "summary": "Khoa học công nghệ chưa \"chạm\" được vào sản xuất khiến giá trị nông nghiệp Việt Nam đạt dưới 1.000 USD một người, thấp hơn Hàn Quốc 24 lần, theo Thứ trưởng Khoa học và Công nghệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T05:23:57+07:00",
+      "fetched": "2025-12-10T13:28:54.392044+07:00"
+    },
+    {
+      "id": "37ee61859b5879fe0730be9bc9b18ed0",
+      "title": "Giá trị nông nghiệp Việt Nam kém Hàn Quốc 24 lần",
+      "link": "https://vnexpress.net/gia-tri-nong-nghiep-viet-nam-kem-han-quoc-24-lan-4992022.html",
+      "summary": "Khoa học công nghệ chưa \"chạm\" được vào sản xuất khiến giá trị nông nghiệp Việt Nam đạt dưới 1.000 USD một người, thấp hơn Hàn Quốc 24 lần, theo Thứ trưởng Khoa học và Công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-10T05:23:57+07:00",
+      "fetched": "2025-12-10T13:28:56.827452+07:00"
+    },
+    {
+      "id": "8d2fb72d05d6cc00cb204488a2a16802",
+      "title": "Người livestream bán hàng phải xác thực danh tính theo VneID",
+      "link": "https://vnexpress.net/nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-theo-vneid-4992047.html",
+      "summary": "Từ 1/7/2026, nền tảng thương mại điện tử phải xác thực điện tử danh tính người livestream bán hàng theo VneID trước khi họ xuất hiện trên phiên bán hàng trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:21:34+07:00",
+      "fetched": "2025-12-10T13:28:48.158892+07:00"
+    },
+    {
+      "id": "8d2fb72d05d6cc00cb204488a2a16802",
+      "title": "Người livestream bán hàng phải xác thực danh tính theo VNeID",
+      "link": "https://vnexpress.net/nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-theo-vneid-4992047.html",
+      "summary": "Từ 1/7/2026, nền tảng thương mại điện tử phải xác thực điện tử danh tính người livestream bán hàng theo VNeID trước khi họ xuất hiện trên phiên bán hàng trực tuyến.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T05:21:34+07:00",
+      "fetched": "2025-12-10T13:28:54.392211+07:00"
+    },
+    {
       "id": "ba72b83087954f35dfb33323a45b7ff8",
       "title": "Thời tiết hôm nay 10-12: Nam Trung Bộ mưa to, Biển Đông có áp thấp",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-12-nam-trung-bo-mua-to-bien-dong-co-ap-thap-20251209161947498.htm",
@@ -411,6 +791,166 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T05:18:05.920242+07:00",
       "fetched": "2025-12-10T05:18:05.920475+07:00"
+    },
+    {
+      "id": "8a2bcf5de5c91d282c81ddb25eb748c7",
+      "title": "EU tăng ngưỡng doanh thu tuân thủ báo cáo bền vững lên 1,7 tỷ USD",
+      "link": "https://vnexpress.net/eu-tang-nguong-doanh-thu-tuan-thu-bao-cao-ben-vung-len-1-7-ty-usd-4992034.html",
+      "summary": "EU nâng ngưỡng doanh thu chịu nghĩa vụ thẩm định bền vững lên 1,74 tỷ USD, từ mức 500 triệu USD, giúp giảm hàng tỷ USD chi phí tuân thủ cho doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:17:18+07:00",
+      "fetched": "2025-12-10T13:28:48.159057+07:00"
+    },
+    {
+      "id": "8a2bcf5de5c91d282c81ddb25eb748c7",
+      "title": "EU tăng ngưỡng doanh thu tuân thủ báo cáo bền vững lên 1,7 tỷ USD",
+      "link": "https://vnexpress.net/eu-tang-nguong-doanh-thu-tuan-thu-bao-cao-ben-vung-len-1-7-ty-usd-4992034.html",
+      "summary": "EU nâng ngưỡng doanh thu chịu nghĩa vụ thẩm định bền vững lên 1,74 tỷ USD, từ mức 500 triệu USD, giúp giảm hàng tỷ USD chi phí tuân thủ cho doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T05:17:18+07:00",
+      "fetched": "2025-12-10T13:28:54.392371+07:00"
+    },
+    {
+      "id": "7d8c6b63fc2d6d5feb45574e732f40da",
+      "title": "Hậu trường gắn lông cho Tôn Ngộ Không ở 'Tây du ký'",
+      "link": "https://vnexpress.net/hau-truong-gan-long-cho-ton-ngo-khong-o-tay-du-ky-4992010.html",
+      "summary": "Diễn viên Trung Quốc Lục Tiểu Linh Đồng trầy trụa da mặt, đau rát 6 năm quay \"Tây du ký\" 1982.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:13:00+07:00",
+      "fetched": "2025-12-10T13:28:48.159222+07:00"
+    },
+    {
+      "id": "7001cd37f89f03bd1aa2c40733c1855d",
+      "title": "Arteta: 'Arsenal đang trong vòng xoáy chấn thương nguy hiểm'",
+      "link": "https://vnexpress.net/arteta-arsenal-dang-trong-vong-xoay-chan-thuong-nguy-hiem-4991867.html",
+      "summary": "Theo HLV Mikel Arteta, những ca chấn thương liên tục tạo thành vòng tròn nguy hiểm và có thể ảnh hưởng nghiêm trọng đến tham vọng đua vô địch của Arsenal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.159406+07:00"
+    },
+    {
+      "id": "292345c78f21ce8c8812fd8097fc4a8f",
+      "title": "Guardiola: 'Man City sẽ chứng minh bản lĩnh tại Bernabeu'",
+      "link": "https://vnexpress.net/guardiola-man-city-se-chung-minh-ban-linh-tai-bernabeu-4991866.html",
+      "summary": "HLV Pep Guardiola khẳng định chuyến làm khách trước Real Madrid ở lượt sáu Champions League là cơ hội để Man City - đang trong giai đoạn chuyển giao - chứng minh khả năng tranh chấp danh hiệu mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.159585+07:00"
+    },
+    {
+      "id": "520cf5a99d8d5565908b660f61f3e289",
+      "title": "Tiêm filler căn chỉnh mặt có làm da chảy xệ không?",
+      "link": "https://vnexpress.net/tiem-filler-can-chinh-mat-co-lam-da-chay-xe-khong-4992028.html",
+      "summary": "Tôi 32 tuổi, má hóp nhiều nên đang dự tính tiêm filler để gương mặt đầy đặn hơn. Sau một thời gian tiêm filler, da có bị chảy xệ không? (Minh Ngọc, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.159743+07:00"
+    },
+    {
+      "id": "ee1daf785a33407b277bab0ddc4fae91",
+      "title": "Dấu hiệu sớm cảnh báo ung thư thực quản",
+      "link": "https://vnexpress.net/dau-hieu-som-canh-bao-ung-thu-thuc-quan-4992026.html",
+      "summary": "Nóng rát giữa ngực, nuốt vướng, khàn giọng thường là biểu hiện ung thư thực quản giai đoạn sớm, không đặc trưng nên dễ nhầm lẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.159932+07:00"
+    },
+    {
+      "id": "9113b019d30979c1469abb5d9479e67b",
+      "title": "Vì sao đau họng khi ngáp?",
+      "link": "https://vnexpress.net/vi-sao-dau-hong-khi-ngap-4991918.html",
+      "summary": "Viêm amidan, chất gây kích ứng từ môi trường như phấn hoa và khói bụi, chảy dịch mũi sau thường gây đau họng, triệu chứng nặng hơn khi ngáp, nuốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.160100+07:00"
+    },
+    {
+      "id": "946e1623df9988182311b4ba0d1925f4",
+      "title": "Niềm vui nhận nhà mới đón Tết của 23 hộ nghèo xứ Thanh",
+      "link": "https://vnexpress.net/niem-vui-nhan-nha-moi-don-tet-cua-23-ho-ngheo-xu-thanh-4991784.html",
+      "summary": "Liên tục chạm tay lên những vách tường mới, bà Phạm Thị Chưởng không giấu được niềm vui khi năm nay có thể đón Tết trong ngôi nhà khang trang, điều bà mơ ước cả đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:48.160261+07:00"
+    },
+    {
+      "id": "7001cd37f89f03bd1aa2c40733c1855d",
+      "title": "Arteta: 'Arsenal đang trong vòng xoáy chấn thương nguy hiểm'",
+      "link": "https://vnexpress.net/arteta-arsenal-dang-trong-vong-xoay-chan-thuong-nguy-hiem-4991867.html",
+      "summary": "Theo HLV Mikel Arteta, những ca chấn thương liên tục tạo thành vòng tròn nguy hiểm và có thể ảnh hưởng nghiêm trọng đến tham vọng đua vô địch của Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:58.273875+07:00"
+    },
+    {
+      "id": "292345c78f21ce8c8812fd8097fc4a8f",
+      "title": "Guardiola: 'Man City sẽ chứng minh bản lĩnh tại Bernabeu'",
+      "link": "https://vnexpress.net/guardiola-man-city-se-chung-minh-ban-linh-tai-bernabeu-4991866.html",
+      "summary": "HLV Pep Guardiola khẳng định chuyến làm khách trước Real Madrid ở lượt sáu Champions League là cơ hội để Man City - đang trong giai đoạn chuyển giao - chứng minh khả năng tranh chấp danh hiệu mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-10T05:00:00+07:00",
+      "fetched": "2025-12-10T13:28:58.274031+07:00"
+    },
+    {
+      "id": "5cf4bf344e2a2b6ba399c892281269ed",
+      "title": "Xe máy vượt đèn đỏ, đâm dính vào xe ba gác",
+      "link": "https://vnexpress.net/xe-may-vuot-den-do-dam-dinh-vao-xe-ba-gac-4991972.html",
+      "summary": "Người đi xe máy phóng tốc độ cao qua ngã tư khi đèn đang đỏ, đâm mạnh vào xe ba gác, hôm 6/12 tại Bình Xuyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T04:58:43+07:00",
+      "fetched": "2025-12-10T13:28:48.160426+07:00"
+    },
+    {
+      "id": "93420d609443fd8a243d3402db9e961f",
+      "title": "Bỏ bằng tốt nghiệp trung học cơ sở",
+      "link": "https://vnexpress.net/bo-bang-tot-nghiep-trung-hoc-co-so-4992057.html",
+      "summary": "Quốc hội sáng 10/12 thông qua Luật Giáo dục sửa đổi, trong đó bỏ việc cấp bằng tốt nghiệp trung học cơ sở, thay bằng xác nhận hoàn thành chương trình trên học bạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T04:57:00+07:00",
+      "fetched": "2025-12-10T13:28:48.160586+07:00"
+    },
+    {
+      "id": "b8858da607e79957fd1c555ec71dcc42",
+      "title": "Sức khỏe giáo sư tự thử nghiệm vaccine ung thư chuyển xấu",
+      "link": "https://vnexpress.net/suc-khoe-giao-su-tu-thu-nghiem-vaccine-ung-thu-chuyen-xau-4991921.html",
+      "summary": "GS Richard Scolyer, chuyên gia ung thư hàng đầu thế giới từng tự thử nghiệm liệu pháp miễn dịch trên chính mình, đang đối mặt suy giảm trí nhớ và vận động do khối u não diễn tiến xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T04:48:17+07:00",
+      "fetched": "2025-12-10T13:28:48.160751+07:00"
+    },
+    {
+      "id": "ac6293d57f218f831eb51b7ddcfca8ec",
+      "title": "Phan Rang - Tháp Chàm ngập sâu",
+      "link": "https://vnexpress.net/phan-rang-thap-cham-ngap-sau-4992075.html",
+      "summary": "Mưa lớn kéo dài gần 3 giờ khiến nhiều đường, nhà dân ở khu vực Phan Rang -Tháp Chàm ngập sâu, sáng 10/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T04:44:34+07:00",
+      "fetched": "2025-12-10T13:28:48.160990+07:00"
+    },
+    {
+      "id": "da55eea902dbaa26f0ffebf8c6381522",
+      "title": "Quốc hội cho phép góp vốn bằng công nghệ",
+      "link": "https://vnexpress.net/quoc-hoi-cho-phep-gop-von-bang-cong-nghe-4992041.html",
+      "summary": "Tổ chức, cá nhân được dùng công nghệ do mình sở hữu để góp vốn vào dự án và doanh nghiệp, biến kết quả nghiên cứu thành tài sản tham gia hoạt động đầu tư.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-10T04:33:00+07:00",
+      "fetched": "2025-12-10T13:28:56.827616+07:00"
     },
     {
       "id": "f931bead57abbee074fc4339d8c42ce3",
