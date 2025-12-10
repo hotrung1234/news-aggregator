@@ -1,7 +1,157 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T21:20:03.466463+07:00",
+  "lastUpdated": "2025-12-10T23:24:49.599701+07:00",
   "articles": [
+    {
+      "id": "fd1c3f4b18a62d9be47f14d0712870cc",
+      "title": "Người đàn ông tử vong sau khi chữa tăng huyết áp bằng chanh, muối hạt, tắm nắng",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-tu-vong-sau-khi-chua-tang-huyet-ap-bang-chanh-muoi-hat-tam-nang-20251210191139484.htm",
+      "summary": "Người mẹ nghẹn lời khi kể với bác sĩ về sự ra đi đột ngột của con trai 47 tuổi mắc tăng huyết áp lâu năm, nhưng quyết định bỏ thuốc để uống nước chanh muối hạt liều cao và tắm nắng mỗi ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653961+07:00",
+      "fetched": "2025-12-10T23:24:39.654084+07:00"
+    },
+    {
+      "id": "a41b9bdd961c401d2137160648b196c2",
+      "title": "Kình ngư trẻ Việt Nam ngỡ ngàng khi đánh bại siêu sao từng giành 20 HCV SEA Games",
+      "link": "https://tuoitre.vn/kinh-ngu-tre-viet-nam-ngo-ngang-khi-danh-bai-sieu-sao-tung-gianh-20-hcv-sea-games-20251210203555897.htm",
+      "summary": "Xét về tên tuổi trên đấu trường quốc tế, kình ngư Võ Thị Mỹ Tiên khó so được với Quah Jing Wen (Singapore). Nhưng rồi bất ngờ xảy ra khi cả hai thi đấu hôm nay 10-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653814+07:00",
+      "fetched": "2025-12-10T23:24:39.653949+07:00"
+    },
+    {
+      "id": "0aac0899b834176ae3e36099eb9e8187",
+      "title": "Cầu thủ Trương Tiến Anh rời Thể Công - Viettel, gia nhập CLB Ninh Bình",
+      "link": "https://tuoitre.vn/cau-thu-truong-tien-anh-roi-the-cong-viettel-gia-nhap-clb-ninh-binh-2025121020402077.htm",
+      "summary": "Trong lúc V-League 2025 - 2026 đang tạm nghỉ, Trương Tiến Anh chia tay CLB Thể Công - Viettel để gia nhập CLB Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653687+07:00",
+      "fetched": "2025-12-10T23:24:39.653803+07:00"
+    },
+    {
+      "id": "adfc8a1f2215969475e0fa86ebe9d2f8",
+      "title": "Thất bại trước Thái Lan, tuyển nữ Singapore bị loại khỏi SEA Games 33",
+      "link": "https://tuoitre.vn/that-bai-truoc-thai-lan-tuyen-nu-singapore-bi-loai-khoi-sea-games-33-2025121020331106.htm",
+      "summary": "Tối 10-12, đội chủ nhà Thái Lan dễ dàng giành chiến thắng trước đội tuyển nữ Singapore với tỉ số 2-0. Trận thua thứ hai ở bảng A đã khiến cho các cô gái Singapore bị loại khỏi SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653558+07:00",
+      "fetched": "2025-12-10T23:24:39.653675+07:00"
+    },
+    {
+      "id": "e1e8097f64a2897dee26d698eb25b67c",
+      "title": "Mỹ dự định kiểm tra mạng xã hội với du khách từ các nước được miễn visa",
+      "link": "https://tuoitre.vn/my-du-dinh-kiem-tra-mang-xa-hoi-voi-du-khach-tu-cac-nuoc-duoc-mien-visa-20251210204854051.htm",
+      "summary": "Mỹ đang lên kế hoạch yêu cầu du khách nước ngoài từ các nước được miễn visa cung cấp lịch sử mạng xã hội trong vòng 5 năm, như một điều kiện để được nhập cảnh vào nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653425+07:00",
+      "fetched": "2025-12-10T23:24:39.653546+07:00"
+    },
+    {
+      "id": "aaafb53df77a03a08a79a1df60b459e0",
+      "title": "'Tiết kiệm Tỉ phú' HDBank với giải thưởng đặc biệt lên đến 3 tỉ đồng",
+      "link": "https://tuoitre.vn/tiet-kiem-ti-phu-hdbank-voi-giai-thuong-dac-biet-len-den-3-ti-dong-20251210205630764.htm",
+      "summary": "Từ nay đến ngày 28-2-2026, chỉ gửi từ 50 triệu đồng và chỉ từ kỳ hạn 1 tháng, gửi tại quầy hay app HDBank, khách hàng có cơ hội tham gia đường đua với giải đặc biệt lên tới 3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653294+07:00",
+      "fetched": "2025-12-10T23:24:39.653413+07:00"
+    },
+    {
+      "id": "8055454a0de82de4d1dd411838fcbd62",
+      "title": "Chính thức lập Ban quản lý thị trường giao dịch tài sản mã hóa",
+      "link": "https://tuoitre.vn/chinh-thuc-lap-ban-quan-ly-thi-truong-giao-dich-tai-san-ma-hoa-20251210205527531.htm",
+      "summary": "Ngày 10-12, Ủy ban Chứng khoán Nhà nước tổ chức Hội nghị công bố quyết định của Bộ trưởng Bộ Tài chính thành lập Ban quản lý thị trường giao dịch tài sản mã hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653160+07:00",
+      "fetched": "2025-12-10T23:24:39.653278+07:00"
+    },
+    {
+      "id": "ee4a72aeaf94376e9757ea17b203ace2",
+      "title": "Kinh tế trải nghiệm: 'Điểm chạm' quyết định thành công của doanh nghiệp",
+      "link": "https://tuoitre.vn/kinh-te-trai-nghiem-diem-cham-quyet-dinh-thanh-cong-cua-doanh-nghiep-20251210202047022.htm",
+      "summary": "Trong bối cảnh người tiêu dùng ngày càng ưu tiên cảm xúc, phong cách sống và sự tương tác thay vì chỉ quan tâm đến công năng sản phẩm, \"kinh tế trải nghiệm\" đang trở thành động lực tăng trưởng mới của nhiều ngành, trong đó có bất động sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.653030+07:00",
+      "fetched": "2025-12-10T23:24:39.653148+07:00"
+    },
+    {
+      "id": "e4bc249ac216bb932494f67efd18179a",
+      "title": "Top 10 phim xuất sắc nhất năm 2025 theo bình chọn của BBC",
+      "link": "https://tuoitre.vn/top-10-phim-xuat-sac-nhat-nam-2025-theo-binh-chon-cua-bbc-20251210174151256.htm",
+      "summary": "Từ Hamnet đến One Battle After Another, các cây bút điện ảnh của BBC đã tuyển chọn ra danh sách những tác phẩm hay nhất 2025, đánh dấu một năm màn bạc bùng nổ với những phim độc đáo, trải dài khắp các thể loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652877+07:00",
+      "fetched": "2025-12-10T23:24:39.653018+07:00"
+    },
+    {
+      "id": "a283cea28b12c05cdd54b5d13bb6cb9a",
+      "title": "Vì sao phần lớn doanh nghiệp Việt Nam vẫn còn dè dặt với tài sản số?",
+      "link": "https://tuoitre.vn/vi-sao-phan-lon-doanh-nghiep-viet-nam-van-con-de-dat-voi-tai-san-so-20251210205520026.htm",
+      "summary": "Tài sản số được kỳ vọng là kênh huy động mới tiềm năng, nhưng các doanh nghiệp lo ngại về nguồn nhân lực, an ninh mạng và khung pháp lý chưa rõ ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652745+07:00",
+      "fetched": "2025-12-10T23:24:39.652865+07:00"
+    },
+    {
+      "id": "433efd758bd919c2c99d1f073b666928",
+      "title": "Superman là phim nổi tiếng nhất 2025 của IMDb",
+      "link": "https://tuoitre.vn/superman-la-phim-noi-tieng-nhat-2025-cua-imdb-20251210203221975.htm",
+      "summary": "Superman đạt thành tích phim nổi tiếng nhất năm 2025 cho thấy vũ trụ điện ảnh DC mới của James Gunn nhanh chóng khẳng định mình như một luồng gió mới trong dòng phim siêu anh hùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652611+07:00",
+      "fetched": "2025-12-10T23:24:39.652732+07:00"
+    },
+    {
+      "id": "fb6deb0baead304842b3371adb4414db",
+      "title": "Coca-Cola Việt Nam xác lập kỷ lục với tác phẩm nghệ thuật từ bao bì nhựa tái chế lớn nhất",
+      "link": "https://tuoitre.vn/coca-cola-viet-nam-xac-lap-ky-luc-voi-tac-pham-nghe-thuat-tu-bao-bi-nhua-tai-che-lon-nhat-20251210191522815.htm",
+      "summary": "Coca-Cola Việt Nam là thành viên của Nhóm Đối tác hành động quốc gia về nhựa (NPAP), do Bộ Nông nghiệp và Môi trường chỉ đạo, một diễn đàn hợp tác đa bên định hình chính sách quản lý nhựa bền vững tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652473+07:00",
+      "fetched": "2025-12-10T23:24:39.652595+07:00"
+    },
+    {
+      "id": "3208043275dc88c01cadfd3bf7268397",
+      "title": "Lịch thi đấu ngày 11-12 của đoàn thể thao Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-ngay-11-12-cua-doan-the-thao-viet-nam-tai-sea-games-33-20251210203222506.htm",
+      "summary": "Ngày 11-12, đoàn thể thao Việt Nam hứa hẹn sẽ bùng nổ khi hàng loạt nội dung thế mạnh ở các môn bơi, canoeing, thể dục dụng cụ thi đấu chung kết. Ngoài ra, đây cũng là ngày mở màn môn điền kinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652334+07:00",
+      "fetched": "2025-12-10T23:24:39.652461+07:00"
+    },
+    {
+      "id": "625c1816128cf62cd0d634c95272727b",
+      "title": "Hà Nội đề xuất phương án vị trí, hướng tuyến trục đại lộ cảnh quan sông Hồng",
+      "link": "https://tuoitre.vn/ha-noi-de-xuat-phuong-an-vi-tri-huong-tuyen-truc-dai-lo-canh-quan-song-hong-20251210212412251.htm",
+      "summary": "Sở Quy hoạch - Kiến trúc Hà Nội vừa có báo cáo UBND TP liên quan đến phương án, vị trí và hướng tuyến trục đại lộ cảnh quan sông Hồng, sau khi đối chiếu với các quy hoạch được duyệt và lấy ý kiến các sở, ngành, đơn vị liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.652183+07:00",
+      "fetched": "2025-12-10T23:24:39.652322+07:00"
+    },
+    {
+      "id": "a13694b062c5418d65770c64a33ad667",
+      "title": "TP.HCM hỗ trợ bữa ăn, đồng phục cho học sinh có hoàn cảnh đặc biệt từ năm 2026",
+      "link": "https://tuoitre.vn/tp-hcm-ho-tro-bua-an-dong-phuc-cho-hoc-sinh-co-hoan-canh-dac-biet-tu-nam-2026-2025121021200647.htm",
+      "summary": "HĐND TP.HCM thông qua nghị quyết hỗ trợ bữa ăn, dịch vụ giáo dục và đồng phục cho học sinh có hoàn cảnh đặc biệt, áp dụng từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T23:24:39.651938+07:00",
+      "fetched": "2025-12-10T23:24:39.652167+07:00"
+    },
     {
       "id": "a7c58d4bdeb47c6b49c275911a17418a",
       "title": "Giá cà phê bất ngờ tăng nhưng nông dân vẫn lo, vì sao?",
@@ -453,6 +603,26 @@ window.newsData_2025_12_10 = {
       "fetched": "2025-12-10T17:21:05.592183+07:00"
     },
     {
+      "id": "a1ce3e122b2f3dbcde71998883aad7fe",
+      "title": "Giám đốc 'dởm' lừa đảo 1,85 tỉ đồng bằng chiêu môi giới thầu xây dựng",
+      "link": "https://thanhnien.vn/giam-doc-dom-lua-dao-185-ti-dong-bang-chieu-moi-gioi-thau-xay-dung-185251210215708817.htm",
+      "summary": "Giả danh tổng giám đốc để môi giới gói thầu xây dựng tại tỉnh Quảng Trị, Nguyễn Văn Điệp lừa đảo chiếm đoạt 1,85 tỉ đồng và vừa bị Phòng Cảnh sát hình sự Công an TP.Đà Nẵng bắt tạm giam để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T15:40:00+07:00",
+      "fetched": "2025-12-10T23:24:38.122284+07:00"
+    },
+    {
+      "id": "5c9938f9b2ecd6a5673a4522d78d1be9",
+      "title": "Ông Trump: Tôi thích nhất từ 'thuế'",
+      "link": "https://vnexpress.net/ong-trump-toi-thich-nhat-tu-thue-4992224.html",
+      "summary": "Tổng thống Trump nói từ mà ông yêu thích nhất là \"thuế\" và chính sách thuế quan của chính quyền ông đã mang lại hàng trăm tỷ USD cho nước Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T15:38:20+07:00",
+      "fetched": "2025-12-10T23:24:41.442414+07:00"
+    },
+    {
       "id": "0a87a91882685b2aca51da0fe13716aa",
       "title": "Bộ trưởng Thái Lan nói gì sau khi Campuchia rút khỏi SEA Games 33?",
       "link": "https://tuoitre.vn/bo-truong-thai-lan-noi-gi-sau-khi-campuchia-rut-khoi-sea-games-33-20251210130723325.htm",
@@ -603,6 +773,136 @@ window.newsData_2025_12_10 = {
       "fetched": "2025-12-10T15:25:04.748850+07:00"
     },
     {
+      "id": "f7c5da99acb6269ce4f69cbb6f226ff1",
+      "title": "Hai tiêm kích Mỹ quần thảo trên vùng biển gần Venezuela",
+      "link": "https://vnexpress.net/hai-tiem-kich-my-quan-thao-tren-vung-bien-gan-venezuela-4992199.html",
+      "summary": "Hai chiến đấu cơ F/A-18 Mỹ bay vào Vịnh Venezuela mà Caracas tuyên bố chủ quyền và quần thảo khoảng 40 phút, dường như nhằm gửi thông điệp tới nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T15:18:37+07:00",
+      "fetched": "2025-12-10T23:24:34.818789+07:00"
+    },
+    {
+      "id": "f7c5da99acb6269ce4f69cbb6f226ff1",
+      "title": "Hai tiêm kích Mỹ quần thảo trên vùng biển gần Venezuela",
+      "link": "https://vnexpress.net/hai-tiem-kich-my-quan-thao-tren-vung-bien-gan-venezuela-4992199.html",
+      "summary": "Hai chiến đấu cơ F/A-18 Mỹ bay vào Vịnh Venezuela mà Caracas tuyên bố chủ quyền và quần thảo khoảng 40 phút, dường như nhằm gửi thông điệp tới nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T15:18:37+07:00",
+      "fetched": "2025-12-10T23:24:41.442591+07:00"
+    },
+    {
+      "id": "6402e67fc8d4410a232b738420bf842a",
+      "title": "Thời trang hẹn hò của Timothée Chalamet, Kylie Jenner",
+      "link": "https://vnexpress.net/thoi-trang-hen-ho-cua-timothee-chalamet-kylie-jenner-4991996.html",
+      "summary": "Timothée Chalamet chuộng mặc cả \"cây\" phóng khoáng, Kylie Jenner thường diện những bộ đầm sexy khi hẹn hò.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T15:00:00+07:00",
+      "fetched": "2025-12-10T23:24:34.819004+07:00"
+    },
+    {
+      "id": "918fc571f221e5f1e50e163dfaeaac93",
+      "title": "Đất nước đầu tiên cấm người dưới 16 tuổi dùng mạng xã hội",
+      "link": "https://thanhnien.vn/dat-nuoc-dau-tien-cam-nguoi-duoi-16-tuoi-dung-mang-xa-hoi-185251210194210421.htm",
+      "summary": "Úc đã trở thành quốc gia đầu tiên cấm trẻ em dưới 16 tuổi sử dụng mạng xã hội, chặn quyền truy cập vào các nền tảng bao gồm TikTok, YouTube, Instagram và Facebook.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T15:00:00+07:00",
+      "fetched": "2025-12-10T23:24:38.122454+07:00"
+    },
+    {
+      "id": "a02b4a97bf3e3b2297f98f9c3005a60f",
+      "title": "Anh em cựu phó giám đốc ngân hàng bị cáo buộc chiếm đoạt hai căn nhà",
+      "link": "https://vnexpress.net/cuu-pho-giam-doc-ngan-hang-va-em-trai-bi-cao-buoc-chiem-doat-hai-can-nha-4992315.html",
+      "summary": "Cựu phó giám đốc ngân hàng bị cáo buộc dựng hồ sơ tín dụng khống để cùng em trai chiếm đoạt hai căn nhà ở trung tâm Đà Nẵng trị giá hơn 35 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:43:15+07:00",
+      "fetched": "2025-12-10T23:24:34.819172+07:00"
+    },
+    {
+      "id": "ed506a49f3aedf38171507fd4a061e7e",
+      "title": "Người giúp việc giấu dây chuyền vàng của bà chủ trong bồn nước xả",
+      "link": "https://vnexpress.net/nguoi-giup-viec-giau-day-chuyen-vang-cua-ba-chu-trong-bon-nuoc-xa-4992316.html",
+      "summary": "Chủ nhà vô tình phát hiện sợi dây chuyền vàng của mình trong bồn xả nước nhà vệ sinh, kiểm tra lại tài sản thì biết còn mất thêm 3 chiếc lắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:41:34+07:00",
+      "fetched": "2025-12-10T23:24:34.819334+07:00"
+    },
+    {
+      "id": "01607b7cb24c2c04edbc6ee570762167",
+      "title": "Giá xe SUV đô thị giảm mạnh, nhiều mẫu chỉ hơn 400 triệu đồng",
+      "link": "https://thanhnien.vn/gia-xe-suv-do-thi-giam-manh-nhieu-mau-chi-hon-400-trieu-dong-185251209112725449.htm",
+      "summary": "Cuộc đua khuyến mãi gay gắt trong giai đoạn cuối năm khiến giá bán thực tế của nhóm xe SUV đô thị (A-SUV) giảm kỷ lục, nhiều mẫu khởi điểm chỉ còn hơn 400 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:38:00+07:00",
+      "fetched": "2025-12-10T23:24:38.122614+07:00"
+    },
+    {
+      "id": "51d9c86d439e06fb932dbfa761259d32",
+      "title": "Nữ võ sĩ người Dao ôm mặt khóc sau thất bại ở chung kết",
+      "link": "https://vnexpress.net/nu-vo-si-nguoi-dao-om-mat-khoc-sau-that-bai-o-chung-ket-4992310.html",
+      "summary": "Thua 7-12 trước đối thủ Thái Lan Singchalad Nuchanat ở chung kết hạng 52 kg nữ, Phùng Mùi Nhình không kìm được nước mắt khi rời thảm đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:28:52+07:00",
+      "fetched": "2025-12-10T23:24:34.819490+07:00"
+    },
+    {
+      "id": "fc35dc8a48004449bedf01ac78dd4428",
+      "title": "Vô địch U.21 jujitsu thế giới nhưng lỡ vàng SEA Games, Phụng Mùi Nhình bật khóc nức",
+      "link": "https://thanhnien.vn/vo-dich-u21-jujitsu-the-gioi-nhung-lo-vang-sea-games-phung-mui-nhinh-bat-khoc-nuc-185251210211823803.htm",
+      "summary": "Dù là đương kim vô địch U21 thế giới, Phụng Mùi Nhình vẫn không thể vượt qua đối thủ Thái Lan ở chung kết 52 kg đối kháng môn jujitsu SEA Games 33, để lỡ tấm HCV và bật khóc nức nở ngay sau trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:20:00+07:00",
+      "fetched": "2025-12-10T23:24:38.122768+07:00"
+    },
+    {
+      "id": "ca070973099395ed2a34bdd37fe039fe",
+      "title": "Thái Lan đưa xung đột với Campuchia lên LHQ",
+      "link": "https://vnexpress.net/thai-lan-dua-xung-dot-voi-campuchia-len-lhq-4992312.html",
+      "summary": "Thái Lan gửi thư lên LHQ, cho hay đang thực thi quyền tự vệ với Campuchia, trong khi Phnom Penh thu thập bằng chứng để kiện Bangkok ra Tòa Hình sự Quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:17:58+07:00",
+      "fetched": "2025-12-10T23:24:34.819644+07:00"
+    },
+    {
+      "id": "ca070973099395ed2a34bdd37fe039fe",
+      "title": "Thái Lan đưa xung đột với Campuchia lên LHQ",
+      "link": "https://vnexpress.net/thai-lan-dua-xung-dot-voi-campuchia-len-lhq-4992312.html",
+      "summary": "Thái Lan gửi thư lên LHQ, cho hay đang thực thi quyền tự vệ với Campuchia, trong khi Phnom Penh thu thập bằng chứng để kiện Bangkok ra Tòa Hình sự Quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T14:17:58+07:00",
+      "fetched": "2025-12-10T23:24:41.442755+07:00"
+    },
+    {
+      "id": "ad5213d2c538f16e11529ed93f86f10a",
+      "title": "Nước nào thu hút nhân tài nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-thu-hut-nhan-tai-nhat-dong-nam-a-4992278.html",
+      "summary": "Nước này đứng đầu khu vực Đông Nam Á về khả năng thu hút, phát triển, giữ chân và sử dụng nhân tài. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:16:01+07:00",
+      "fetched": "2025-12-10T23:24:34.819795+07:00"
+    },
+    {
+      "id": "10f482f72e05458a09182b495c0596b1",
+      "title": "Doanh nhân Sài Gòn đánh golf gây quỹ tiếp sức đồng bào miền Trung sau lũ",
+      "link": "https://thanhnien.vn/doanh-nhan-sai-gon-danh-golf-gay-quy-tiep-suc-dong-bao-mien-trung-sau-lu-185251210210117652.htm",
+      "summary": "Giải golf doanh nhân Sài Gòn - Cúp Thanh Uyên Fruit trở thành điểm hẹn của tinh thần sẻ chia và trách nhiệm xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T14:09:00+07:00",
+      "fetched": "2025-12-10T23:24:38.122938+07:00"
+    },
+    {
       "id": "60604e6fc5a2b14c7daa9431353819de",
       "title": "Tôi chấp nhận rủi ro bị trộm hơn là cháy nhà",
       "link": "https://vnexpress.net/binh-chua-chay-mini-gia-bao-nhieu-xay-nha-phong-chay-chua-chay-4992258.html",
@@ -611,6 +911,36 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T14:00:00+07:00",
       "fetched": "2025-12-10T21:19:52.982119+07:00"
+    },
+    {
+      "id": "c534363639135795bf1007ef80f499d3",
+      "title": "TP.HCM: Bắt nữ giúp việc trộm nữ trang vàng trị giá hơn 200 triệu đồng",
+      "link": "https://thanhnien.vn/tphcm-bat-nu-giup-viec-trom-nu-trang-vang-tri-gia-hon-200-trieu-dong-185251210204801986.htm",
+      "summary": "Lợi dụng sự tin tưởng của gia chủ, nữ giúp việc ở TP.HCM lẻn vào phòng ngủ rồi trộm vòng, dây chuyền vàng trị giá hơn 200 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:59:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123096+07:00"
+    },
+    {
+      "id": "aff91f54b590dfde053b0e7414456ea7",
+      "title": "Hà Nội nêu bộ tiêu chí giải quyết triệt để 'điểm nghẽn' về trật tự đô thị",
+      "link": "https://thanhnien.vn/ha-noi-neu-bo-tieu-chi-giai-quyet-triet-de-diem-nghen-ve-trat-tu-do-thi-185251210203546515.htm",
+      "summary": "Để giải quyết triệt để 'điểm nghẽn' về trật tự đô thị và xây dựng xã phường kỷ cương, văn minh, UBND TP.Hà Nội đã đưa ra bộ tiêu chí về 4 nhóm vấn đề, gồm: hạ tầng đô thị, trật tự đô thị, mỹ quan đô thị, vệ sinh môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:59:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123248+07:00"
+    },
+    {
+      "id": "d532341aebb02d74db62144df998c403",
+      "title": "NSƯT Tú Sương, Hồng Ánh, Lâm Vỹ Dạ... cùng 'đua' giải Mai Vàng 2025",
+      "link": "https://thanhnien.vn/nsut-tu-suong-hong-anh-lam-vy-da-cung-dua-giai-mai-vang-2025-185251210194111391.htm",
+      "summary": "Ban tổ chức giải Mai Vàng lần thứ 31 (năm 2025) vừa công bố 16 hạng mục đề cử ở 4 lĩnh vực âm nhạc, sân khấu, điện ảnh - truyền hình và chương trình. Trong đó, NSƯT Tú Sương, Lâm Vỹ Dạ, Hồng Ánh, Bình Tinh, Việt Hương được đề cử ở hạng mục Nữ diễn viên sân khấu được yêu thích nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:55:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123402+07:00"
     },
     {
       "id": "f0308914f248cea2f13fee9841c05af0",
@@ -641,6 +971,16 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T13:39:29+07:00",
       "fetched": "2025-12-10T21:19:52.982462+07:00"
+    },
+    {
+      "id": "49f9b844332c4fff6786d81af4754a38",
+      "title": "Thể Công Viettel tạo điều kiện cho Tiến Anh gia nhập 'dải ngân hà' Ninh Bình",
+      "link": "https://thanhnien.vn/the-cong-viettel-tao-dieu-kien-cho-tien-anh-gia-nhap-dai-ngan-ha-ninh-binh-185251210203851929.htm",
+      "summary": "Ngày 10.12, Trương Tiến Anh chính thức nói lời chia tay CLB Thể Công Viettel sau 13 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:39:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123561+07:00"
     },
     {
       "id": "30deb9b3b0054e4ea76f214cdbc49e81",
@@ -691,6 +1031,16 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T13:33:38+07:00",
       "fetched": "2025-12-10T21:19:52.982929+07:00"
+    },
+    {
+      "id": "f8f88a3352571a4b5d63237031a21d3d",
+      "title": "Em gái Dangda khuấy đảo, đội tuyển nữ Thái 'dạo chơi' thắng dễ Singapore: Chờ đại chiến Việt Nam",
+      "link": "https://thanhnien.vn/em-gai-dangda-khuay-dao-doi-tuyen-nu-thai-dao-choi-thang-de-singapore-cho-dai-chien-viet-nam-185251210202124014.htm",
+      "summary": "Đội tuyển nữ Thái Lan đã thắng nhẹ nhàng 2-0 trước Singapore ở lượt trận cuối cùng bảng A để dẫn đầu, mong chờ đại chiến với Việt Nam ở bán kết hoặc chung kết SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:32:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123712+07:00"
     },
     {
       "id": "7c7053176b9a0d85ce892c03cd778679",
@@ -851,6 +1201,56 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T13:28:51.819566+07:00",
       "fetched": "2025-12-10T13:28:51.819770+07:00"
+    },
+    {
+      "id": "8ca5e9e8e0c4681eb490b973a41b4845",
+      "title": "TP.HCM dành hơn 1.000 tỉ đồng xúc tiến thương mại",
+      "link": "https://thanhnien.vn/tphcm-danh-hon-1000-ti-dong-xuc-tien-thuong-mai-185251210194001846.htm",
+      "summary": "Từ nay đến năm 2030, TP.HCM chi hỗ trợ đặc thù hơn 1.000 tỉ đồng cho hoạt động xúc tiến thương mại với các tỉnh, thành phố trong nước và kết nối thị trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:24:00+07:00",
+      "fetched": "2025-12-10T23:24:38.123862+07:00"
+    },
+    {
+      "id": "c9dbbc80097f80687c48c01931f09682",
+      "title": "Tỏi và hành tây: Bộ đôi giúp giảm nguy cơ ung thư",
+      "link": "https://thanhnien.vn/toi-va-hanh-tay-bo-doi-giup-giam-nguy-co-ung-thu-185251210200352634.htm",
+      "summary": "Tỏi và hành tây từ lâu đã được nhắc đến như những gia vị có lợi cho sức khỏe. Chúng đều chứa chất chống ô xy hóa, những hợp chất có tác dụng tăng cường sức khỏe phổi và giảm nguy cơ ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:23:00+07:00",
+      "fetched": "2025-12-10T23:24:38.124059+07:00"
+    },
+    {
+      "id": "6f583861c25b1ef9ce4209e18365d241",
+      "title": "TP.HCM: Truy xét nhóm thanh niên hành hung nam công nhân đến nhập viện",
+      "link": "https://thanhnien.vn/tphcm-truy-xet-nhom-thanh-nien-hanh-hung-nam-cong-nhan-den-nhap-vien-185251210185655268.htm",
+      "summary": "Công an TP.HCM đang truy xét nhóm nam công nhân hành hung một đồng nghiệp tại Khu chế xuất Linh Trung 2 (phường Tam Bình), khiến nạn nhân bị thương, phải nhập viện điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:23:00+07:00",
+      "fetched": "2025-12-10T23:24:38.124216+07:00"
+    },
+    {
+      "id": "66749062fcc844a988e7060193d3dd05",
+      "title": "Trần Hưng Nguyên siêu đẳng cấp, em trai Ánh Viên xứng đáng anh hào còn Mỹ Tiên gây bất ngờ lớn",
+      "link": "https://thanhnien.vn/tran-hung-nguyen-sieu-dang-cap-em-trai-anh-vien-xung-dang-anh-hao-my-tien-gay-bat-ngo-lon-185251210200719786.htm",
+      "summary": "Tối 10.12, Trần Hưng Nguyên và các đồng đội thi đấu ấn tượng để mang về 1 HCV, 1 HCB và 3 HCĐ cho bơi lội Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:22:00+07:00",
+      "fetched": "2025-12-10T23:24:38.124371+07:00"
+    },
+    {
+      "id": "77bdabd8eb069f90317bab47cda7447b",
+      "title": "Campuchia, Hàn Quốc phối hợp đột kích mạng lưới lừa đảo trực tuyến, bắt 50 người",
+      "link": "https://thanhnien.vn/campuchia-han-quoc-phoi-hop-dot-kich-mang-luoi-lua-dao-truc-tuyen-bat-50-nguoi-185251210193027693.htm",
+      "summary": "Tổng cộng 50 nghi phạm đã bị bắt giữ trong một chiến dịch phối hợp giữa giới chức Campuchia và Hàn Quốc nhắm vào một mạng lưới lừa đảo trực tuyến tại tỉnh Preah Sihanouk của Campuchia, theo tờ Khmer Times ngày 10.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T13:22:00+07:00",
+      "fetched": "2025-12-10T23:24:38.124528+07:00"
     },
     {
       "id": "67234a4f236841ccdb104d13ec1284e2",
@@ -2761,6 +3161,26 @@ window.newsData_2025_12_10 = {
       "category": "Công nghệ",
       "published": "2025-12-10T05:23:57+07:00",
       "fetched": "2025-12-10T19:38:23.347676+07:00"
+    },
+    {
+      "id": "1d68c95e250cca277df0ecf0bb5348ce",
+      "title": "Sẽ thí điểm 'voucher công nghệ' cho nông dân",
+      "link": "https://vnexpress.net/se-thi-diem-voucher-cong-nghe-cho-nong-dan-4992022.html",
+      "summary": "\"Voucher công nghệ\" sẽ được triển khai để nông dân dùng thử giải pháp số trước khi áp dụng lâu dài, theo Thứ trưởng Khoa học và Công nghệ Bùi Thế Duy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-10T05:23:57+07:00",
+      "fetched": "2025-12-10T23:24:43.573865+07:00"
+    },
+    {
+      "id": "1d68c95e250cca277df0ecf0bb5348ce",
+      "title": "Sẽ thí điểm 'voucher công nghệ' cho nông dân",
+      "link": "https://vnexpress.net/se-thi-diem-voucher-cong-nghe-cho-nong-dan-4992022.html",
+      "summary": "\"Voucher công nghệ\" sẽ được triển khai để nông dân dùng thử giải pháp số trước khi áp dụng lâu dài, theo Thứ trưởng Khoa học và Công nghệ Bùi Thế Duy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-10T05:23:57+07:00",
+      "fetched": "2025-12-10T23:24:46.728029+07:00"
     },
     {
       "id": "8d2fb72d05d6cc00cb204488a2a16802",
