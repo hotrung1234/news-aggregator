@@ -1,6 +1,6 @@
 window.newsData_2025_12_13 = {
   "date": "2025-12-13",
-  "lastUpdated": "2025-12-13T01:28:13.454462+07:00",
+  "lastUpdated": "2025-12-13T03:20:15.641525+07:00",
   "articles": [
     {
       "id": "5319125efb34ef680c660b505443341b",
@@ -151,6 +151,76 @@ window.newsData_2025_12_13 = {
       "category": "Tổng hợp",
       "published": "2025-12-13T01:28:06.555542+07:00",
       "fetched": "2025-12-13T01:28:06.555747+07:00"
+    },
+    {
+      "id": "35f3fc48f7a1fb67a4ef9d29a939b592",
+      "title": "Lịch thi đấu bán kết mới nhất: U.23 Việt Nam tập trung để thắng U.23 Philippines",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-moi-nhat-u23-viet-nam-tap-trung-de-thang-u23-philippines-185251212224434306.htm",
+      "summary": "Chiến thắng thuyết phục trước U.23 Malaysia đã giúp U.23 VN vượt qua vòng bảng với thành tích toàn thắng, nhưng vòng đấu loại trực tiếp ở bán kết sẽ có độ khắc nghiệt cao hơn nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T20:00:00+07:00",
+      "fetched": "2025-12-13T03:20:04.440181+07:00"
+    },
+    {
+      "id": "eed8643fe8e90a10558c5ffd09a808e5",
+      "title": "Đinh Phương Thành vẫn muốn ‘chinh chiến’ ở SEA Games 34, chinh phục tấm HCV thứ 15!",
+      "link": "https://thanhnien.vn/dinh-phuong-thanh-van-muon-chinh-chien-o-sea-games-34-chinh-phuc-tam-hcv-thu-15-185251213000650293.htm",
+      "summary": "Đinh Phương Thành sẽ cân nhắc kỹ, lắng nghe bản thân cho mục tiêu thiết lập kỷ lục mới với tấm HCV thứ 15 tại SEA Games 34 ở Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T19:12:00+07:00",
+      "fetched": "2025-12-13T03:20:04.440351+07:00"
+    },
+    {
+      "id": "007d8eae37ce3149ae27134c9714ef5f",
+      "title": "Kình ngư Malaysia xúc động ca ngợi chị em Ánh Viên - Quang Thuấn: Thật tuyệt vời!",
+      "link": "https://thanhnien.vn/kinh-ngu-malaysia-xuc-dong-ca-ngoi-chi-em-anh-vien-quang-thuan-that-tuyet-voi-185251213010331133.htm",
+      "summary": "Kình ngư Khai Xin Tan (Malaysia) gọi Nguyễn Quang Thuấn là ngôi sao mới, thật lòng thốt lên 2 chữ 'tuyệt vời' câu chuyện anh cùng chị gái Ánh Viên cùng cống hiến cho bơi lội Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T19:10:00+07:00",
+      "fetched": "2025-12-13T03:20:04.440527+07:00"
+    },
+    {
+      "id": "48f7edad8a9f9b1d740e789a339f453b",
+      "title": "Canada tung 1,2 tỷ USD hút nhân tài khi Mỹ siết nhập cư",
+      "link": "https://vnexpress.net/canada-tung-1-2-ty-usd-hut-nhan-tai-khi-my-siet-nhap-cu-4993023.html",
+      "summary": "Canada triển khai chương trình trị giá 1,2 tỷ USD thu hút các nhà nghiên cứu hàng đầu thế giới, khi Mỹ siết chặt chính sách nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T19:00:00+07:00",
+      "fetched": "2025-12-13T03:20:01.058189+07:00"
+    },
+    {
+      "id": "32932fb09c6226253882036097bc5056",
+      "title": "Đội tuyển nữ Việt Nam không chủ quan trước Indonesia, xem bán kết nảy lửa ngày nào?",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-khong-chu-quan-truoc-indonesia-xem-ban-ket-nay-lua-ngay-nao-18525121222484361.htm",
+      "summary": "Không phải ngẫu nhiên mà HLV Mai Đức Chung đánh giá không được xem nhẹ đội tuyển nữ Indonesia ở bán kết vào lúc 16 giờ ngày mai (14.12) vì một số cầu thủ nhập tịch của Indonesia khá lợi hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T19:00:00+07:00",
+      "fetched": "2025-12-13T03:20:04.440679+07:00"
+    },
+    {
+      "id": "48f7edad8a9f9b1d740e789a339f453b",
+      "title": "Canada tung 1,2 tỷ USD hút nhân tài khi Mỹ siết nhập cư",
+      "link": "https://vnexpress.net/canada-tung-1-2-ty-usd-hut-nhan-tai-khi-my-siet-nhap-cu-4993023.html",
+      "summary": "Canada triển khai chương trình trị giá 1,2 tỷ USD thu hút các nhà nghiên cứu hàng đầu thế giới, khi Mỹ siết chặt chính sách nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T19:00:00+07:00",
+      "fetched": "2025-12-13T03:20:07.986791+07:00"
+    },
+    {
+      "id": "49a9a61f66b78a1327e50204e7526f8c",
+      "title": "Nghi phạm đẩy CSGT vào xe tải: 'Hối hận vì hành động của mình'",
+      "link": "https://vnexpress.net/nghi-pham-day-csgt-vao-xe-tai-hoi-han-vi-hanh-dong-cua-minh-4993266.html",
+      "summary": "Tại cơ quan điều tra, Đặng Từ Thịnh tỏ ra ân hận khi khai báo hành vi cố tình đẩy một đại úy CSGT vào đầu xe tải chạy ngược chiều hôm 11/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T18:27:06+07:00",
+      "fetched": "2025-12-13T03:20:01.058388+07:00"
     },
     {
       "id": "d0c7749e12c90dc2515b322070bba823",
