@@ -1,7 +1,157 @@
 window.newsData_2025_12_13 = {
   "date": "2025-12-13",
-  "lastUpdated": "2025-12-13T11:23:52.975947+07:00",
+  "lastUpdated": "2025-12-13T13:26:20.960772+07:00",
   "articles": [
+    {
+      "id": "1b43d91a7c5b118c206c2861bdb85dad",
+      "title": "SEA Games trong lúc 'nhà có việc'",
+      "link": "https://tuoitre.vn/sea-games-trong-luc-nha-co-viec-20251213083014763.htm",
+      "summary": "Đăng cai SEA Games 33 năm nay có lẽ là một nhiệm vụ nặng nề chưa từng có đối với Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447621+07:00",
+      "fetched": "2025-12-13T13:26:15.447733+07:00"
+    },
+    {
+      "id": "e1e18bbf6ffec70478ee4e8421409726",
+      "title": "Hơn 1.800 camera AI phủ khắp Hà Nội chính thức hoạt động, tự động phát hiện 28 lỗi vi phạm",
+      "link": "https://tuoitre.vn/hon-1-800-camera-ai-phu-khap-ha-noi-chinh-thuc-hoat-dong-tu-dong-phat-hien-28-loi-vi-pham-20251212103348332.htm",
+      "summary": "Các camera AI bao phủ 195 nút giao khắp Hà Nội đã có thể tự động phát hiện 28 lỗi vi phạm giao thông. Đồng thời tự động phân tích lưu lượng để điều chỉnh chu kỳ đèn, cảnh báo ùn tắc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447498+07:00",
+      "fetched": "2025-12-13T13:26:15.447610+07:00"
+    },
+    {
+      "id": "5fab2bad974335b113c919f0fff07a74",
+      "title": "Tay lái mới và bài học an toàn - Kỳ 4: Hãy học lái xe bằng trái tim",
+      "link": "https://tuoitre.vn/tay-lai-moi-va-bai-hoc-an-toan-ky-4-hay-hoc-lai-xe-bang-trai-tim-20251213104931043.htm",
+      "summary": "Nhiều người có thể học lái xe nhưng để cả đời lái an toàn mới là chuyện khó. Điều khiển chiếc xe không chỉ là kỹ thuật cầm vô lăng, chân ga, chân thắng mà còn bằng cả khối óc và con tim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447375+07:00",
+      "fetched": "2025-12-13T13:26:15.447487+07:00"
+    },
+    {
+      "id": "219762e125f1115e2e43bb8990ade497",
+      "title": "Đến SEA Games không chỉ cứ huy chương vàng mới là vui",
+      "link": "https://tuoitre.vn/den-sea-games-khong-chi-cu-huy-chuong-vang-moi-la-vui-20251213100522799.htm",
+      "summary": "Những giọt nước mắt của Kim Thị Huyền trên bục nhận huy chương tại SEA Games 33 là minh chứng cho tinh thần thể thao mạnh mẽ, dù tấm huy chương của cô không phải màu vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447251+07:00",
+      "fetched": "2025-12-13T13:26:15.447364+07:00"
+    },
+    {
+      "id": "d41d729de60c20bac7af2705b7b7da48",
+      "title": "Bỏ rác thải sai quy định bên đường Rạch Cầu Suối, 1 người bị phạt 3,5 triệu đồng",
+      "link": "https://tuoitre.vn/bo-rac-thai-sai-quy-dinh-ben-duong-rach-cau-suoi-1-nguoi-bi-phat-3-5-trieu-dong-20251213105330044.htm",
+      "summary": "UBND xã Tân Vĩnh Lộc (TP.HCM) xử phạt vi phạm hành chính một người bỏ rác thải tại khu đất trống đường Rạch Cầu Suối 3,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447124+07:00",
+      "fetched": "2025-12-13T13:26:15.447239+07:00"
+    },
+    {
+      "id": "0f6eb054a5df5694af8d4da1b7577168",
+      "title": "Trung Quốc bắt tay châu Âu 'đấu' thuế với Mỹ",
+      "link": "https://tuoitre.vn/trung-quoc-bat-tay-chau-au-dau-thue-voi-my-20251213083741191.htm",
+      "summary": "Trung Quốc cùng một số nước châu Âu phản đối đặc quyền thuế của Mỹ, đẩy thỏa thuận thuế tối thiểu toàn cầu vào ngõ cụt và làm dấy lên nguy cơ bùng nổ mặt trận căng thẳng mới giữa các siêu cường kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.447002+07:00",
+      "fetched": "2025-12-13T13:26:15.447113+07:00"
+    },
+    {
+      "id": "0bc61c630a7abb68f4da81c0023ee331",
+      "title": "Sau hiện tượng Vùng đất kỳ bí, xiếc TP.HCM làm tiếp tiền truyện",
+      "link": "https://tuoitre.vn/sau-hien-tuong-vung-dat-ky-bi-xiec-tp-hcm-lam-tiep-tien-truyen-20251213072644283.htm",
+      "summary": "Vở xiếc Vùng đất kỳ bí được xem là 'hiện tượng' của làng xiếc TP.HCM trong năm 2025. Tiếp nối thành công đó, Trung tâm Nghệ thuật TP.HCM đã trình làng vở xiếc Ký ức Hỏa thần - Vùng đất kỳ bí tiền truyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446871+07:00",
+      "fetched": "2025-12-13T13:26:15.446990+07:00"
+    },
+    {
+      "id": "3ddfec30eae0f5983df92f1f3c5539a8",
+      "title": "Thái Lan - Campuchia tiếp tục giao tranh sau tuyên bố ngừng bắn của ông Trump",
+      "link": "https://tuoitre.vn/thai-lan-campuchia-tiep-tuc-giao-tranh-sau-tuyen-bo-ngung-ban-cua-ong-trump-20251213105242081.htm",
+      "summary": "Chỉ vài giờ sau khi Tổng thống Trump tuyên bố Thái Lan và Campuchia đã đạt thỏa thuận ngừng bắn, giao tranh dọc biên giới giữa hai nước vẫn tiếp diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446733+07:00",
+      "fetched": "2025-12-13T13:26:15.446845+07:00"
+    },
+    {
+      "id": "45c535354a55cd31228bb74fe4aa782e",
+      "title": "Tìm thấy thi thể nữ sinh lớp 11 dưới sông Sêrêpốk sau hơn một tuần mất tích",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nu-sinh-lop-11-duoi-song-serepok-sau-hon-mot-tuan-mat-tich-202512131037335.htm",
+      "summary": "Sau hơn 1 tuần mất tích, lực lượng chức năng đã tìm thấy thi thể nữ sinh lớp 11 dưới sông Sêrêpốk, khép lại những ngày chờ đợi trong hy vọng mong manh của gia đình, thầy cô và bạn bè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446610+07:00",
+      "fetched": "2025-12-13T13:26:15.446722+07:00"
+    },
+    {
+      "id": "3e1daad2f4d14c4008ead7ba7904ed01",
+      "title": "Rộn ràng check-in, xem tráng bánh và nồi nước lèo đang sôi ngay tại Ngày của Phở",
+      "link": "https://tuoitre.vn/ron-rang-check-in-xem-trang-banh-va-noi-nuoc-leo-dang-soi-ngay-tai-ngay-cua-pho-20251213113027997.htm",
+      "summary": "Người dân thích thú khi được xem nấu phở, tráng bánh phở, cắt bánh phở… và thưởng thức những tô phở nóng ngay tại quầy; nhiều món phở lạ, mang bản sắc vùng miền hút khách tham quan tại Ngày của Phở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446470+07:00",
+      "fetched": "2025-12-13T13:26:15.446598+07:00"
+    },
+    {
+      "id": "406aea2d068793528cdba3ac1e846e87",
+      "title": "Thái Lan chuẩn bị tổng tuyển cử sớm",
+      "link": "https://tuoitre.vn/thai-lan-chuan-bi-tong-tuyen-cu-som-20251213002114965.htm",
+      "summary": "Thủ tướng Anutin Charnvirakul giải tán Quốc hội Thái Lan, mở đường cho tổng tuyển cử sớm trong bối cảnh xung đột biên giới với Campuchia leo thang và Chính phủ thiểu số đối mặt với khủng hoảng chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446335+07:00",
+      "fetched": "2025-12-13T13:26:15.446449+07:00"
+    },
+    {
+      "id": "dbbabb1488b0e022f84a2fcf2dd8169d",
+      "title": "'Công binh' trên bãi tắm du lịch",
+      "link": "https://tuoitre.vn/cong-binh-tren-bai-tam-du-lich-20251213110622465.htm",
+      "summary": "Dọc bãi tắm TP Đà Nẵng, Hội An có lực lượng đặc biệt là nhân viên an ninh bảo vệ trật tự du lịch và hỗ trợ du khách. Nhiều vụ đồ đạc quý của khách bị vùi dưới cát được họ trả về chủ nhân theo cách khá thú vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446207+07:00",
+      "fetched": "2025-12-13T13:26:15.446323+07:00"
+    },
+    {
+      "id": "9d3f00e6ca1ff8804030d632b231bda5",
+      "title": "Xe điện nhỏ hơn Toyota Vios mà trang bị như nhà di động, có tới 6 ghế dễ tháo ra làm ghế ngoài trời",
+      "link": "https://tuoitre.vn/xe-dien-nho-hon-toyota-vios-ma-trang-bi-nhu-nha-di-dong-co-toi-6-ghe-de-thao-ra-lam-ghe-ngoai-troi-20251213093728808.htm",
+      "summary": "Citroën ELO EV là mẫu concept xe điện được hãng xe Pháp định hình như một “nhà di động”, nơi ô tô không chỉ để di chuyển mà còn phục vụ nghỉ ngơi, cắm trại, giải trí và làm việc trong lối sống hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.446075+07:00",
+      "fetched": "2025-12-13T13:26:15.446195+07:00"
+    },
+    {
+      "id": "fb5fb2de9ec7bd3b863bfe4a6b7c9430",
+      "title": "Chồng kiện vợ vì... từ chối hiến gan cho mình",
+      "link": "https://tuoitre.vn/chong-kien-vo-vi-tu-choi-hien-gan-cho-minh-20251213101220711.htm",
+      "summary": "Tòa án phán quyết rằng chính hành vi ép buộc và lăng mạ bằng lời nói của người chồng là nguyên nhân khiến hôn nhân đổ vỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.445934+07:00",
+      "fetched": "2025-12-13T13:26:15.446062+07:00"
+    },
+    {
+      "id": "8a09af6adcc653f05b4b1bad5dcf83ec",
+      "title": "Người giữ tiền trong nhà, người còn lại '3 không', ai giữ cũng được miễn gia đình hạnh phúc?",
+      "link": "https://tuoitre.vn/nguoi-giu-tien-trong-nha-nguoi-con-lai-3-khong-ai-giu-cung-duoc-mien-gia-dinh-hanh-phuc-20251206201337353.htm",
+      "summary": "Trong hôn nhân, mà một người trở thành \"khách\" trong chính ngôi nhà của mình thì tổ ấm khó bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T13:26:15.445685+07:00",
+      "fetched": "2025-12-13T13:26:15.445918+07:00"
+    },
     {
       "id": "fc8165a01af7148b4b35a2539ef04969",
       "title": "Phường Bình Trưng và Masterise Home tổ chức chuỗi 'Lễ hội ánh sáng' tại Global City đón năm mới 2026",
@@ -423,6 +573,386 @@ window.newsData_2025_12_13 = {
       "fetched": "2025-12-13T08:18:42.245291+07:00"
     },
     {
+      "id": "9446897f395cb5dd52cb54ecabd539b5",
+      "title": "Vĩnh Long: Triệt xóa điểm đánh bạc giữa cánh đồng lác, bắt 32 người",
+      "link": "https://thanhnien.vn/vinh-long-triet-xoa-diem-danh-bac-giua-canh-dong-lac-bat-32-nguoi-185251213110200227.htm",
+      "summary": "Tụ điểm đánh bạc giữa cánh đồng lác ở Vĩnh Long bị lực lượng công an triệt xóa, bắt giữ 32 người và thu giữ gần 100 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:23:00+07:00",
+      "fetched": "2025-12-13T13:26:14.437655+07:00"
+    },
+    {
+      "id": "11c1f05380a8484f211fe7e179738b38",
+      "title": "Rơi vàng tiếc nuối, Mộng Tuyền nghẹn ngào: 'Tôi tâm lý khi không còn Thảo bên cạnh...'",
+      "link": "https://thanhnien.vn/roi-vang-tiec-nuoi-mong-tuyen-nghen-ngao-toi-tam-ly-khi-khong-con-thao-ben-canh-185251213131834424.htm",
+      "summary": "Trưa 13.12, xạ thủ Lê Thị Mộng Tuyền không giấu được nỗi buồn khi vuột mất tấm HCV nội dung 10 m súng trường hơi cá nhân nữ SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:19:00+07:00",
+      "fetched": "2025-12-13T13:26:14.437835+07:00"
+    },
+    {
+      "id": "c0d811cc246d824399384e4c2cd4a7b0",
+      "title": "Thanh Niên và tôi: 'Sống đẹp' hỗ trợ đắc lực cho công việc giảng dạy của tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-song-dep-ho-tro-dac-luc-cho-cong-viec-giang-day-cua-toi-185251211143554132.htm",
+      "summary": "Trong nhiều chuyên mục của Báo Thanh Niên thì chuyên mục Sống đẹp có nội dung liên quan, hỗ trợ đắc lực đến công việc giảng dạy của tôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:18:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438027+07:00"
+    },
+    {
+      "id": "053df4fc23bf4e8f0bdb8527a232bae3",
+      "title": "Hà Nội sẽ làm 2 'siêu dự án' 1,78 triệu tỉ đồng, tổng quy mô hơn 20.000 ha",
+      "link": "https://thanhnien.vn/ha-noi-se-lam-2-sieu-du-an-178-trieu-ti-dong-tong-quy-mo-hon-20000-ha-185251213125451894.htm",
+      "summary": "2 'siêu dự án' là khu đô thị thể thao Olympic và trục đại lộ cảnh quan sông Hồng với tổng số vốn 1,78 triệu tỉ đồng, có quy mô sử dụng đất hơn 20.000 ha, sẽ được triển khai tại Hà Nội trong thời gian tới nhằm tạo động lực phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:14:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438186+07:00"
+    },
+    {
+      "id": "fb6b0a6fc3f569744a3c670015ccddb1",
+      "title": "Đinh Phương Thành lập cột mốc lịch ở SEA Games: 'Chiến đấu vượt ngưỡng bản thân'",
+      "link": "https://thanhnien.vn/dinh-phuong-thanh-lap-cot-moc-lich-o-sea-games-chien-dau-vuot-nguong-ban-than-185251213122133673.htm",
+      "summary": "Đinh Phương Thành tiếp tục khẳng định vị thế biểu tượng của thể dục dụng cụ Việt Nam khi giành HCV nội dung xà kép với điểm số vượt trội, đồng thời bổ sung thêm HCĐ xà đơn. Thành tích này giúp anh cân bằng kỷ lục 14 HCV SEA Games và ghi dấu 6 kỳ đại hội liên tiếp bước lên bục cao nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:14:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438344+07:00"
+    },
+    {
+      "id": "f0db2173427b297f8f4184dbd62e6e00",
+      "title": "SEA Games 33 chiều nay: Chờ tin vui 'dồn dập' từ Thái Lan",
+      "link": "https://thanhnien.vn/sea-games-33-hom-nay-cho-tin-vui-don-dap-tu-thai-lan-185251213123255954.htm",
+      "summary": "Sau buổi sáng tranh tài đầy nỗ lực, chiều nay đoàn thể thao Việt Nam có nhiều tuyển thủ góp mặt ở chung kết SEA Games 33, hứa hẹn tạo nên 'cơn mưa' HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T06:03:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438501+07:00"
+    },
+    {
+      "id": "3c0c594131c0840febf7b20e8e0c9777",
+      "title": "Bộ ảnh 'Trường tiểu học có 2 thầy cô cưới nhau' gây sốt mạng xã hội",
+      "link": "https://thanhnien.vn/bo-anh-truong-tieu-hoc-co-2-thay-co-cuoi-nhau-gay-sot-mang-xa-hoi-185251213120713681.htm",
+      "summary": "Bộ ảnh cưới được thực hiện trong vỏn vẹn 30 phút vào giờ ra chơi tại một trường tiểu học bất ngờ gây sốt mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:59:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438656+07:00"
+    },
+    {
+      "id": "0600bfeb421274e7dd68b662ad6e5b3e",
+      "title": "Đồng Nai: Những ai được hỗ trợ tiền dịp Tết Nguyên đán 2026?",
+      "link": "https://thanhnien.vn/dong-nai-nhung-ai-duoc-ho-tro-tien-dip-tet-nguyen-dan-2026-185251213115620791.htm",
+      "summary": "HĐND tỉnh Đồng Nai đã quyết định mức hỗ trợ tiền dịp Tết Nguyên đán 2026 cho từng nhóm đối tượng cụ thể từ nguồn ngân sách nhà nước trên địa bàn tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:58:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438807+07:00"
+    },
+    {
+      "id": "5d76d17fbc0b19c5d0d19da7216bf6a0",
+      "title": "Đội tuyển nữ Việt Nam ‘bé xíu’ đấu ‘ngoại binh khổng lồ’ gần 1,90 m của Indonesia: Phải tính kế!",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-be-xiu-dau-ngoai-binh-khong-lo-gan-190-m-cua-indonesia-phai-tinh-ke-185251213123547439.htm",
+      "summary": "Có đến 4 cầu thủ nhập tịch xuất hiện trong đội hình chính của đội tuyển nữ Indonesia thi đấu vòng loại bảng và họ sẽ tiếp tục là nòng cốt trong trận đại chiến với các cô gái Việt Nam vào 16 giờ chiều mai 14.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:45:00+07:00",
+      "fetched": "2025-12-13T13:26:14.438983+07:00"
+    },
+    {
+      "id": "b1d6f83a97a7932dfaa923881b7b4c05",
+      "title": "Hà Nội chính thức vận hành camera AI, từ nay ý thức người dân sẽ thay đổi",
+      "link": "https://thanhnien.vn/ha-noi-chinh-thuc-van-hanh-camera-ai-tu-nay-y-thuc-nguoi-dan-se-thay-doi-185251213122721358.htm",
+      "summary": "Sáng 13.12, Công an TP.Hà Nội khánh thành Trung tâm điều khiển giao thông mới, chính thức vận hành hệ thống camera AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:42:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439143+07:00"
+    },
+    {
+      "id": "76fd334ffa6f4bcfed2193b290725976",
+      "title": "Đạo diễn Hoàng Nam nói gì khi 'Thế hệ kỳ tích' gây tranh cãi?",
+      "link": "https://thanhnien.vn/dao-dien-hoang-nam-noi-gi-khi-the-he-ky-tich-gay-tranh-cai-185251213121854532.htm",
+      "summary": "Chính thức ra rạp từ ngày 12.12, 'Thế hệ kỳ tích' của đạo diễn Hoàng Nam vấp phải nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:41:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439297+07:00"
+    },
+    {
+      "id": "6729eda8e173046c2994ee7f18b77a12",
+      "title": "8 VĐV Thái Lan nhập viện nghi ngộ độc thực phẩm",
+      "link": "https://vnexpress.net/8-vdv-thai-lan-nhap-vien-nghi-ngo-doc-thuc-pham-4993404.html",
+      "summary": "8 VĐV Thái Lan dự SEA Games 33 được đưa đi cấp cứu do ăn cơm hộp từ một khách sạn bên ngoài, trước khi chính thức vào khu tập trung do ban tổ chức bố trí.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T05:40:39+07:00",
+      "fetched": "2025-12-13T13:26:20.952730+07:00"
+    },
+    {
+      "id": "e4effc0b2ef0143516accf9b51a39351",
+      "title": "Kho lạnh 2.000 tỷ đồng trên nền tảng số đi vào hoạt động",
+      "link": "https://vnexpress.net/kho-lanh-2-000-ty-dong-tren-nen-tang-so-di-vao-hoat-dong-4993390.html",
+      "summary": "Kho lạnh NECS tại Tây Ninh vừa đi vào hoạt động, bổ sung hạ tầng logistics lạnh quy mô lớn cho khu vực Đông Nam Bộ và chuỗi cung ứng nông - thủy sản cả nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:36:14+07:00",
+      "fetched": "2025-12-13T13:26:11.725265+07:00"
+    },
+    {
+      "id": "e4effc0b2ef0143516accf9b51a39351",
+      "title": "Kho lạnh 2.000 tỷ đồng trên nền tảng số đi vào hoạt động",
+      "link": "https://vnexpress.net/kho-lanh-2-000-ty-dong-tren-nen-tang-so-di-vao-hoat-dong-4993390.html",
+      "summary": "Kho lạnh NECS tại Tây Ninh vừa đi vào hoạt động, bổ sung hạ tầng logistics lạnh quy mô lớn cho khu vực Đông Nam Bộ và chuỗi cung ứng nông - thủy sản cả nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-13T05:36:14+07:00",
+      "fetched": "2025-12-13T13:26:17.451127+07:00"
+    },
+    {
+      "id": "c6b465ef6366c5c2fd9e512e4fa0d457",
+      "title": "Thẩm quyền xét xử sơ thẩm hình sự của TAND cấp tỉnh từ 1.1.2026",
+      "link": "https://thanhnien.vn/tham-quyen-xet-xu-so-tham-hinh-su-cua-tand-cap-tinh-tu-112026-185251213103207714.htm",
+      "summary": "TAND tối cao, Viện KSND tối cao ban hành Thông tư liên tịch 03 - quy định về thẩm quyền xét xử sơ thẩm vụ án hình sự của TAND cấp tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:35:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439445+07:00"
+    },
+    {
+      "id": "8ac093f920b5b46cf709fc890394ca66",
+      "title": "Gia Lai: Tạm giữ hình sự nghi phạm hiếp dâm bé gái đi giao xôi ở Pleiku",
+      "link": "https://thanhnien.vn/gia-lai-tam-giu-hinh-su-nghi-pham-hiep-dam-be-gai-di-giao-xoi-o-pleiku-185251213120110903.htm",
+      "summary": "Sáng 13.12, Cơ quan CSĐT Công an tỉnh Gia Lai cho biết đã tạm giữ hình sự Đ.H.Q (38 tuổi, ở tổ 2 Hội Thương, P.Pleiku, Gia Lai) để điều tra về hành vi hiếp dâm bé gái đi giao xôi và chống người thi hành công vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:33:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439591+07:00"
+    },
+    {
+      "id": "73d942b36bf003a3b6150c6474e2764c",
+      "title": "Việt Nam trao trả hài cốt quân nhân cho Mỹ",
+      "link": "https://vnexpress.net/viet-nam-trao-tra-hai-cot-quan-nhan-cho-my-4993406.html",
+      "summary": "Sáng 13/12, Việt Nam bàn giao cho Mỹ hòm đựng hài cốt quân nhân Mỹ mất tích trong chiến tranh, được tìm thấy tại tỉnh Lào Cai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:32:05+07:00",
+      "fetched": "2025-12-13T13:26:11.725456+07:00"
+    },
+    {
+      "id": "5caa0d87ae1ea1ccab2999bdcb8b838e",
+      "title": "​'Dynamite Kiss' - quyền được yêu",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/dynamite-kiss-860",
+      "summary": "Nhân vật Go Da Rim phải chọn tình cảm giữa trưởng nhóm Gong Ji Hyeok và cậu bạn thân Kim Sun Woo, trong \"Dynamite Kiss\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:30:00+07:00",
+      "fetched": "2025-12-13T13:26:11.725621+07:00"
+    },
+    {
+      "id": "440f08028824dfc8e6592320beaeb8b9",
+      "title": "Vua Charles III báo tin tốt về quá trình điều trị ung thư",
+      "link": "https://vnexpress.net/vua-charles-iii-bao-tin-tot-ve-qua-trinh-dieu-tri-ung-thu-4993405.html",
+      "summary": "Vua Charles III của Anh thông báo quá trình điều trị ung thư của ông sẽ được giảm bớt vào năm tới, sau gần hai năm phát hiện bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:26:21+07:00",
+      "fetched": "2025-12-13T13:26:11.725779+07:00"
+    },
+    {
+      "id": "440f08028824dfc8e6592320beaeb8b9",
+      "title": "Vua Charles III báo tin tốt về quá trình điều trị ung thư",
+      "link": "https://vnexpress.net/vua-charles-iii-bao-tin-tot-ve-qua-trinh-dieu-tri-ung-thu-4993405.html",
+      "summary": "Vua Charles III của Anh thông báo quá trình điều trị ung thư của ông sẽ được giảm bớt vào năm tới, sau gần hai năm phát hiện bệnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T05:26:21+07:00",
+      "fetched": "2025-12-13T13:26:16.365995+07:00"
+    },
+    {
+      "id": "afd8551a0ae4cf275e2a2f312c511c96",
+      "title": "Sự kiện Lễ hội ánh sáng chào năm mới 2026 tại The Global City",
+      "link": "https://thanhnien.vn/su-kien-le-hoi-anh-sang-chao-nam-moi-2026-tai-the-global-city-185251213110653706.htm",
+      "summary": "Chuỗi sự kiện văn hóa - giải trí quy mô Lễ hội ánh sáng, do UBND phường Bình Trưng phối hợp Masterise Homes tổ chức chính thức khởi động từ 17 giờ ngày 13.12, kéo dài xuyên suốt đến thời khắc giao thừa đón năm mới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:25:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439747+07:00"
+    },
+    {
+      "id": "08dcd4e54800ae03e9681036823c063c",
+      "title": "Trioderma ra mắt dòng mặt nạ dưỡng da với công thức ấn tượng, đa tầng hoạt chất",
+      "link": "https://thanhnien.vn/trioderma-ra-mat-dong-mat-na-duong-da-voi-cong-thuc-an-tuong-da-tang-hoat-chat-185251213120839504.htm",
+      "summary": "Thương hiệu dược mỹ phẩm dành riêng cho người Việt mới Trioderma chính thức ra mắt 2 dòng sản phẩm mặt nạ mới Trioderma Brightening Essence Mask và Calming & Hydrating Essence Mask, đa dạng danh mục sản phẩm đồng hành cùng làn da dầu mụn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:24:00+07:00",
+      "fetched": "2025-12-13T13:26:14.439922+07:00"
+    },
+    {
+      "id": "cd676c9ab75224251bb0f79de039af6d",
+      "title": "Ôtô tải tông nhau, cao tốc Vĩnh Hảo - Phan Thiết phải đóng đường",
+      "link": "https://vnexpress.net/oto-tai-tong-nhau-cao-toc-vinh-hao-phan-thiet-phai-dong-duong-4993410.html",
+      "summary": "Va chạm giữa hai xe tải khiến một tài xế mắc kẹt, bị thương nặng, giao thông cao tốc Vĩnh Hảo - Phan Thiết phải ngắt dòng để cứu hộ, sáng 13/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:21:45+07:00",
+      "fetched": "2025-12-13T13:26:11.725958+07:00"
+    },
+    {
+      "id": "f1acb573955eec9e6540e204b0b0200d",
+      "title": "Trung Quốc lần đầu phạt tù kẻ đầu độc chó",
+      "link": "https://vnexpress.net/trung-quoc-lan-dau-phat-tu-ke-dau-doc-cho-4993387.html",
+      "summary": "Người đàn ông họ Trương, 65 tuổi, bị kết án 4 năm tù trong vụ án đầu tiên về \"xâm phạm quyền sống của thú cưng\" do hành vi đầu độc chết 9 con chó ở khu dân cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:17:14+07:00",
+      "fetched": "2025-12-13T13:26:11.726121+07:00"
+    },
+    {
+      "id": "c6cdd9b6dbf4fade8f1136bbba788fde",
+      "title": "Người Ukraine chán nản với các cuộc đàm phán hòa bình",
+      "link": "https://vnexpress.net/nguoi-ukraine-chan-nan-voi-cac-cuoc-dam-phan-hoa-binh-4993279.html",
+      "summary": "Nhiều người Ukraine đang mất niềm tin vào các cuộc đàm phán hòa bình do Mỹ dẫn dắt, coi đây giống như một trò chơi chính trị không thể khép lại xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:15:54+07:00",
+      "fetched": "2025-12-13T13:26:11.726276+07:00"
+    },
+    {
+      "id": "c6cdd9b6dbf4fade8f1136bbba788fde",
+      "title": "Người Ukraine chán nản với các cuộc đàm phán hòa bình",
+      "link": "https://vnexpress.net/nguoi-ukraine-chan-nan-voi-cac-cuoc-dam-phan-hoa-binh-4993279.html",
+      "summary": "Nhiều người Ukraine đang mất niềm tin vào các cuộc đàm phán hòa bình do Mỹ dẫn dắt, coi đây giống như một trò chơi chính trị không thể khép lại xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T05:15:54+07:00",
+      "fetched": "2025-12-13T13:26:16.366168+07:00"
+    },
+    {
+      "id": "dbcdbd3cb3fb8816a8f12318ce0a90b9",
+      "title": "Đột nhập trộm 200 triệu đồng của cha mẹ vợ",
+      "link": "https://vnexpress.net/chui-lo-thong-gio-con-re-o-tp-hcm-dot-nhap-nha-cha-me-vo-trom-200-trieu-dong-4993399.html",
+      "summary": "Trần Quốc Huy, 26 tuổi, khi sang nhà cha mẹ vợ thấy vắng người đã đột nhập qua ô thông gió, mở tủ lấy trộm bọc tiền hơn 200 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:48+07:00",
+      "fetched": "2025-12-13T13:26:11.726430+07:00"
+    },
+    {
+      "id": "137824129f46e529b4a03dc81f732db3",
+      "title": "Thiết kế hai cầu đi bộ tạo điểm nhấn mới bên sông Sài Gòn",
+      "link": "https://vnexpress.net/thiet-ke-hai-cau-di-bo-tao-diem-nhan-moi-ben-song-sai-gon-4993389.html",
+      "summary": "Hai cầu đi bộ nối phố Nguyễn Huệ và Thái Văn Lung sang bến Bạch Đằng được thiết kế hiện đại, thẩm mỹ, kỳ vọng góp phần làm đẹp không gian đô thị ven sông Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.726590+07:00"
+    },
+    {
+      "id": "f3128df09b8ba3369770f02a8bb846f0",
+      "title": "Rủi ro 'bằng đại học nước ngoài' không được công nhận",
+      "link": "https://vnexpress.net/du-hoc-tai-viet-nam-la-gi-bang-dai-hoc-quoc-te-hoc-o-viet-nam-bang-dai-hoc-nuoc-ngoai-khong-duoc-cong-nhan-4993353.html",
+      "summary": "Người học nên đặt những câu hỏi để tự bảo vệ mình trước những rủi ro pháp lý chương trình liên kết quốc tế không được công nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.726758+07:00"
+    },
+    {
+      "id": "9703a7ace9c77be2fc0f34633a3ec941",
+      "title": "Tôi vẫn tin vào tình yêu với bạn trai dù hơn 5 năm chưa cưới",
+      "link": "https://vnexpress.net/toi-van-tin-vao-tinh-yeu-voi-ban-trai-du-hon-5-nam-chua-cuoi-4993314.html",
+      "summary": "Trước mắt tôi tập trung học, trau dồi kiến thức, kỹ năng trong chuyên môn, cũng là một bước đệm để tương lai tươi sáng hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.726934+07:00"
+    },
+    {
+      "id": "599449a77de35fd7e0ec50ae3fe77924",
+      "title": "Diện mạo hiện đại của nhà ga T2 Nội Bài sau mở rộng",
+      "link": "https://vnexpress.net/dien-mao-hien-dai-cua-nha-ga-t2-noi-bai-sau-mo-rong-4992780.html",
+      "summary": "Sau mở rộng với mức đầu tư gần 5.000 tỷ đồng, nhà ga T2 Nội Bài được lắp hệ thống soi chiếu hiện đại, bố trí quầy ký gửi hành lý tự động, giúp hành khách rút ngắn thời gian làm thủ tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.727092+07:00"
+    },
+    {
+      "id": "305abe85d85d606bb15d49864113fde7",
+      "title": "Nước duy nhất Đông Nam Á không có biên giới đất liền?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-nuoc-duy-nhat-dong-nam-a-khong-co-bien-gioi-dat-lien-4991013.html",
+      "summary": "Nước này không có biên giới đất liền với bất kỳ quốc gia nào khác vì là một quốc đảo với hơn 7.600 đảo, được biển bao quanh hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.727248+07:00"
+    },
+    {
+      "id": "4f118dc1415a9bb3f46d319f40cd2085",
+      "title": "Vinhomes nhận giải nhà phát triển bất động sản khu vực Đông Nam Á",
+      "link": "https://vnexpress.net/vinhomes-nhan-giai-nha-phat-trien-bat-dong-san-khu-vuc-dong-nam-a-4993339.html",
+      "summary": "Vinhomes được Dot Property vinh danh Nhà phát triển bất động sản của năm khu vực Đông Nam Á 2025, ghi nhận năng lực phát triển đô thị quy mô lớn và định hướng bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.727399+07:00"
+    },
+    {
+      "id": "0f017585e2cd8d94feddca78f09c0a34",
+      "title": "Mẹo giảm hôi miệng sau khi ăn hành tây, tỏi",
+      "link": "https://vnexpress.net/meo-giam-hoi-mieng-sau-khi-an-hanh-tay-toi-4993251.html",
+      "summary": "Ăn cam hoặc chanh, nhai bạc hà, sử dụng nước súc miệng có chứa kẽm hoặc clo dioxide giúp trung hòa mùi hôi, hơi thở thơm mát hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T05:00:00+07:00",
+      "fetched": "2025-12-13T13:26:11.727562+07:00"
+    },
+    {
+      "id": "72de5fea633000d9e75cc061a6931693",
+      "title": "Sinh viên tạo hệ thống phát hiện xâm nhập cho thiết bị IoT thắng giải thiết kế điện tử",
+      "link": "https://vnexpress.net/sinh-vien-tao-he-thong-phat-hien-xam-nhap-cho-thiet-bi-iot-thang-giai-thiet-ke-dien-tu-4993304.html",
+      "summary": "Hệ thống phát hiện xâm nhập cho thiết bị IoT của nhóm sinh viên Học viện Công nghệ Bưu chính Viễn Thông giành chiến thắng tại VEDC 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-13T04:51:25+07:00",
+      "fetched": "2025-12-13T13:26:20.067341+07:00"
+    },
+    {
+      "id": "a634848a6d859fcb2b60dc2b4b6f6419",
+      "title": "Nguyễn Huy Hoàng - người thiết lập siêu kỷ lục Việt Nam ở SEA Games",
+      "link": "https://vnexpress.net/nguyen-huy-hoang-nguoi-thiet-lap-sieu-ky-luc-viet-nam-o-sea-games-4993281.html",
+      "summary": "HC vàng 1.500 m tự do nam chiều 12/12 biến kinh ngư Nguyễn Huy Hoàng thành VĐV đầu tiên của Việt Nam chiến thắng một nội dung thi đấu trong năm kỳ SEA Games liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T04:41:26+07:00",
+      "fetched": "2025-12-13T13:26:20.951927+07:00"
+    },
+    {
+      "id": "6058343d3a6a5d2216f3cf5f053c1de6",
+      "title": "Giá vàng miếng vượt 156 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-13-12-4993368.html",
+      "summary": "Các thương hiệu sáng nay nâng giá bán vàng miếng thêm 900.000 đồng mỗi lượng, lên 156,3 triệu đồng",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-13T04:34:40+07:00",
+      "fetched": "2025-12-13T13:26:17.450277+07:00"
+    },
+    {
+      "id": "6fd35b73fbc91b92bb07e0bfce6b8812",
+      "title": "Ông Trump gặp tình huống hài hước trên Không lực Một",
+      "link": "https://vnexpress.net/ong-trump-gap-tinh-huong-hai-huoc-tren-khong-luc-mot-4993049.html",
+      "summary": "Ông Trump nói đùa, gọi người trong toilet ra ngoài khi người này đẩy cánh cửa toilet va vào vai ông, trong lúc Tổng thống Mỹ đang trả lời báo chí trên chuyên cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T04:31:08+07:00",
+      "fetched": "2025-12-13T13:26:16.366326+07:00"
+    },
+    {
       "id": "ed9953f6f70bad96b8183090303b2e12",
       "title": "CLB Hoàng gia Malaysia ‘bỏ rơi’ cầu thủ nhập tịch, AFC muốn CAS sớm xử vụ FAM kiện FIFA",
       "link": "https://thanhnien.vn/clb-hoang-gia-malaysia-bo-roi-cau-thu-nhap-tich-afc-muon-cas-som-xu-vu-fam-kien-fifa-18525121311210674.htm",
@@ -451,6 +981,16 @@ window.newsData_2025_12_13 = {
       "category": "Tổng hợp",
       "published": "2025-12-13T04:21:00+07:00",
       "fetched": "2025-12-13T11:23:46.028247+07:00"
+    },
+    {
+      "id": "4e9c31aea427d9dde2f031045ab2d4a8",
+      "title": "EU đóng băng vô thời hạn tài sản Nga, mở đường hỗ trợ Ukraine",
+      "link": "https://vnexpress.net/eu-dong-bang-vo-thoi-han-tai-san-nga-mo-duong-ho-tro-ukraine-4993352.html",
+      "summary": "EU sẽ đóng băng vô thời hạn hơn 246 tỷ USD tài sản của Nga, bước then chốt để dùng nguồn tiền này hỗ trợ Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T04:00:28+07:00",
+      "fetched": "2025-12-13T13:26:16.366479+07:00"
     },
     {
       "id": "9dc5aba04a820e4c452a1a47c38c5877",
@@ -621,6 +1161,16 @@ window.newsData_2025_12_13 = {
       "category": "Thể thao",
       "published": "2025-12-13T03:28:18+07:00",
       "fetched": "2025-12-13T11:23:52.969709+07:00"
+    },
+    {
+      "id": "8fb9bf4ec90b21ef8caeb3e16413edad",
+      "title": "Cầu thủ Indonesia đổ sụp khi bị loại khỏi SEA Games",
+      "link": "https://vnexpress.net/cau-thu-indonesia-do-sup-khi-bi-loai-khoi-sea-games-4993327.html",
+      "summary": "Jens Raven khóc òa, trong khi nhiều đồng đội đổ sụp, thẫn lờ vì U22 Indonesia dừng bước ngay từ vòng bảng bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T03:28:18+07:00",
+      "fetched": "2025-12-13T13:26:20.953872+07:00"
     },
     {
       "id": "cbf6c6cdb3197e5e8b991248dff3d18c",
