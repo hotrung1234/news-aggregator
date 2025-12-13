@@ -1,7 +1,127 @@
 window.newsData_2025_12_13 = {
   "date": "2025-12-13",
-  "lastUpdated": "2025-12-13T05:17:12.108538+07:00",
+  "lastUpdated": "2025-12-13T08:18:50.025723+07:00",
   "articles": [
+    {
+      "id": "64bf22c21afbefb718728d4967bbb073",
+      "title": "Thời tiết hôm nay 13-12: Không khí lạnh tràn về, Bắc Bộ tới Huế mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-13-12-khong-khi-lanh-tran-ve-bac-bo-toi-hue-mua-to-20251212164244815.htm",
+      "summary": "Hôm nay 13-12, không khí lạnh mạnh tràn về khiến thời tiết các tỉnh phía Bắc rét kèm mưa to, gió mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.246672+07:00",
+      "fetched": "2025-12-13T08:18:42.246799+07:00"
+    },
+    {
+      "id": "5f2446815bf79358a27abdef1dde71c8",
+      "title": "Báo Malaysia 'cảm ơn' Indonesia đã trao vé vào bán kết SEA Games cho đội nhà",
+      "link": "https://tuoitre.vn/bao-malaysia-cam-on-indonesia-da-trao-ve-vao-ban-ket-sea-games-cho-doi-nha-20251212231240431.htm",
+      "summary": "Sau khi trận đấu giữa U22 Indonesia và U22 Myanmar khép lại với tỉ số 3-1 vào tối  12-12, báo chí Malaysia vui mừng vì đội nhà có vé vào bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.246544+07:00",
+      "fetched": "2025-12-13T08:18:42.246661+07:00"
+    },
+    {
+      "id": "6d57ae373b72532fae236351236669f4",
+      "title": "Doanh nghiệp triển khai quản trị hiệu suất nhưng hiệu quả vẫn ì ạch, do đâu?",
+      "link": "https://tuoitre.vn/doanh-nghiep-trien-khai-quan-tri-hieu-suat-nhung-hieu-qua-van-i-ach-do-dau-20251212122642281.htm",
+      "summary": "Gần 9 trên 10 doanh nghiệp đã triển khai quản trị hiệu suất, nhưng thực tế lại phơi bày một nghịch lý: Làm nhiều nhưng hiệu quả… không theo kịp?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.246418+07:00",
+      "fetched": "2025-12-13T08:18:42.246534+07:00"
+    },
+    {
+      "id": "4cd312961555c51ce3c2efcedf3a1317",
+      "title": "Nhiều nước đã cấm, Việt Nam nên 'quản chặt' trẻ em dùng mạng xã hội",
+      "link": "https://tuoitre.vn/nhieu-nuoc-da-cam-viet-nam-nen-quan-chat-tre-em-dung-mang-xa-hoi-20251212232009834.htm",
+      "summary": "Quốc hội Úc vừa chính thức thông qua luật có nội dung cấm người dưới 16 tuổi sử dụng mạng xã hội, gồm cả Facebook, TikTok, YouTube. Còn ở Việt Nam thì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.246277+07:00",
+      "fetched": "2025-12-13T08:18:42.246407+07:00"
+    },
+    {
+      "id": "4926f8ebf01146e565a1911f1139543b",
+      "title": "Khám phá khu rừng thiêng giữa lòng Đà Nẵng được người dân đồng lòng bảo vệ",
+      "link": "https://tuoitre.vn/kham-pha-khu-rung-thieng-giua-long-da-nang-duoc-nguoi-dan-dong-long-bao-ve-20251211154703054.htm",
+      "summary": "Không biển cấm, không hàng rào sắt, khu rừng vẫn vẹn nguyên qua hàng trăm năm nhờ sự bảo vệ của dân làng với những hương ước truyền đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.246120+07:00",
+      "fetched": "2025-12-13T08:18:42.246264+07:00"
+    },
+    {
+      "id": "c20eb22b61b90ea77f85decda39a5fc2",
+      "title": "Người đẹp Venezuela đăng quang Miss Charm 2025, Mai Ngô trượt top 5",
+      "link": "https://tuoitre.vn/nguoi-dep-venezuela-dang-quang-miss-charm-2025-mai-ngo-truot-top-5-20251212223729941.htm",
+      "summary": "Sau 2 tuần chinh chiến, ngôi vị cao nhất chính thức thuộc về người đẹp Anna Blanco đến từ Venezuela, còn đại diện Việt Nam Mai Ngô gây tiếc nuối khi trượt top 5 Miss Charm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245992+07:00",
+      "fetched": "2025-12-13T08:18:42.246109+07:00"
+    },
+    {
+      "id": "9f9864bfdbda0f253e86686395dd3525",
+      "title": "Một thế kỷ khách sạn Majestic, phục vụ 100 tô phở hưởng ứng Ngày của Phở",
+      "link": "https://tuoitre.vn/mot-the-ky-khach-san-majestic-phuc-vu-100-to-pho-huong-ung-ngay-cua-pho-20251213051830919.htm",
+      "summary": "Năm 2025 đánh dấu mốc quan trọng trong hành trình 100 năm hình thành và phát triển của khách sạn Majestic Saigon (khách sạn Cửu Long).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245866+07:00",
+      "fetched": "2025-12-13T08:18:42.245981+07:00"
+    },
+    {
+      "id": "36b420748c51f7dd73fba0c19080c065",
+      "title": "Trấn Thành bật khóc khi nghe quá khứ bi thương của 'song trùng' trong A.I là ai?",
+      "link": "https://tuoitre.vn/tran-thanh-bat-khoc-khi-nghe-qua-khu-bi-thuong-cua-song-trung-trong-a-i-la-ai-20251213054340415.htm",
+      "summary": "Tập 8 A.I là ai? tiếp tục tạo sức hút khi quy tụ loạt gương mặt quen thuộc của sân khấu kịch như NSND Hồng Vân, Trung Dân, Vân Trang, Ốc Thanh Vân, Đại Nghĩa, Lê Khánh cùng sự trở lại của Trấn Thành với vai trò MC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245728+07:00",
+      "fetched": "2025-12-13T08:18:42.245854+07:00"
+    },
+    {
+      "id": "6e1816cb15e367a1e41be2cece58a190",
+      "title": "Tin tức thế giới 13-12: Ông Trump thông báo Thái Lan - Campuchia đồng ý ngừng bắn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-13-12-ong-trump-thong-bao-thai-lan-campuchia-dong-y-ngung-ban-20251213054248244.htm",
+      "summary": "Mỹ đề xuất Ukraine có thể gia nhập EU vào năm 2027 trong đề xuất hòa bình mới; Gần 20 bang kiện chính quyền Mỹ vì phí quá cao cho visa H-1B.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245596+07:00",
+      "fetched": "2025-12-13T08:18:42.245717+07:00"
+    },
+    {
+      "id": "831e755333dce6102f7751d34c593dae",
+      "title": "Lịch thi đấu bán kết bóng chuyền nữ SEA Games 33: Việt Nam hẹn Thái Lan ở chung kết",
+      "link": "https://tuoitre.vn/lich-thi-dau-ban-ket-bong-chuyen-nu-sea-games-33-viet-nam-hen-thai-lan-o-chung-ket-20251212190928465.htm",
+      "summary": "Sau khi kết thúc các trận đấu vòng bảng, môn bóng chuyền nữ SEA Games 33 đã xác định được 2 cặp đấu bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245462+07:00",
+      "fetched": "2025-12-13T08:18:42.245585+07:00"
+    },
+    {
+      "id": "f6b79892c43d0d7ef9df64bd3aa93d30",
+      "title": "Hôm nay, phở các vùng miền hội tụ trong lễ hội Ngày của Phở ở TP.HCM",
+      "link": "https://tuoitre.vn/hom-nay-pho-cac-vung-mien-hoi-tu-trong-le-hoi-ngay-cua-pho-o-tp-hcm-2025121223102962.htm",
+      "summary": "Sáng nay (13-12), Ngày của Phở 2025 chính thức khai mạc tại khu vực Thương xá Tax (cũ), phường Sài Gòn (TP.HCM). Sự kiện Ngày của Phở năm nay dự kiến đón 100.000 khách với sự góp mặt của gần 30 thương hiệu phở từ Bắc chí Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245308+07:00",
+      "fetched": "2025-12-13T08:18:42.245448+07:00"
+    },
+    {
+      "id": "098e4e73f0f68ac9a2f77caba3719187",
+      "title": "Lịch trực tiếp bóng chuyền nam SEA Games 33: Việt Nam ra quân gặp Lào",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nam-sea-games-33-viet-nam-ra-quan-gap-lao-20251212171123886.htm",
+      "summary": "Vào lúc 15h hôm nay (13-12), tuyển bóng chuyền nam Việt Nam đối đầu với Lào ở trận đấu ra quân bảng A môn bóng chuyền nam SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T08:18:42.245043+07:00",
+      "fetched": "2025-12-13T08:18:42.245291+07:00"
+    },
     {
       "id": "5319125efb34ef680c660b505443341b",
       "title": "Lịch thi đấu bán kết bóng đá nam SEA Games 33",
@@ -153,6 +273,356 @@ window.newsData_2025_12_13 = {
       "fetched": "2025-12-13T01:28:06.555747+07:00"
     },
     {
+      "id": "fc95034f65af865d836453f0443cf4fd",
+      "title": "Top 10 ứng dụng miễn phí trên App Store: ChatGPT dẫn đầu, Gemini tăng tốc",
+      "link": "https://thanhnien.vn/top-10-ung-dung-mien-phi-tren-app-store-chatgpt-dan-dau-gemini-tang-toc-185251213010350976.htm",
+      "summary": "Apple vừa công bố danh sách các ứng dụng miễn phí được tải xuống nhiều nhất trên App Store, trong đó ChatGPT của OpenAI chiếm vị trí số một.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:17:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057017+07:00"
+    },
+    {
+      "id": "e413298e46f36c924f59e03fa3a4435c",
+      "title": "SEA Games 33: Chờ tin vui từ xạ thủ xinh đẹp Mộng Tuyền",
+      "link": "https://thanhnien.vn/sea-games-33-cho-tin-vui-tu-xa-thu-xinh-dep-mong-tuyen-185251213062225675.htm",
+      "summary": "Bắn súng nhiều khả năng là môn thể thao đầu tiên giành HCV cho đoàn thể  thao Việt Nam trong ngày tranh tài hôm nay tại SEA Games 33 ở Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:11:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057218+07:00"
+    },
+    {
+      "id": "859bb9ea240e16545b07b78e13a0d980",
+      "title": "4 thói quen giúp huyết áp giữ ổn định cả ngày",
+      "link": "https://thanhnien.vn/chi-can-4-thoi-quen-de-huyet-ap-khong-nhay-so-ca-ngay-dai-185251212191442363.htm",
+      "summary": "Huyết áp cao được xem là kẻ thù thầm lặng phía sau rất nhiều ca đột quỵ, đau tim. Nhưng tin vui là nhiều thói quen đơn giản hằng ngày có thể giúp ổn định huyết áp mà không quá khó để áp dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:09:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057386+07:00"
+    },
+    {
+      "id": "dbc16f2524309691b6c2636e713a9c65",
+      "title": "Nga tập kích cảng Ukraine, làm hư hại loạt tàu hàng",
+      "link": "https://vnexpress.net/nga-tap-kich-cang-ukraine-lam-hu-hai-loat-tau-hang-4993280.html",
+      "summary": "Giới chức Ukraine cho biết Nga đã tập kích hai cảng tại tỉnh Odessa, làm hư hại ba tàu hàng Thổ Nhĩ Kỳ tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:05:14+07:00",
+      "fetched": "2025-12-13T08:18:37.625948+07:00"
+    },
+    {
+      "id": "695ef542da617c35ae8dca2f5f10b0aa",
+      "title": "Sắm áo khoác dáng dài, nàng có thêm ngàn cảm hứng phối đồ đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sam-ao-khoac-dang-dai-nang-co-them-ngan-cam-hung-phoi-do-dong-185251211154922868.htm",
+      "summary": "Áo khoác dáng dài (trench coat, maxi coat) là chiếc áo mặc ngoài thiết yếu trong mùa đông lạnh giá. Xóa tan cảm giác khó mặc, khó phối, những bản phối dưới đây đưa chiếc áo khoác sang trọng nhất mùa bước vào tủ đồ công sở, phong cách đường phố và cả những bản phối dự tiệc, sự kiện trang trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:04:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057553+07:00"
+    },
+    {
+      "id": "dd1de32f4243fda1be5b67b335649399",
+      "title": "Sáng nay, bầu trời TP.HCM đục ngầu, vì sao?",
+      "link": "https://thanhnien.vn/sang-nay-bau-troi-tphcm-duc-ngau-vi-sao-185251213074516233.htm",
+      "summary": "Sáng nay 13.12, bầu trời TP.HCM ngầu đục như sương mù do ô nhiễm không khí gia tăng. Tại nhiều trạm đo, chất lượng không khí ở mức cảnh báo đỏ - gây ảnh hưởng xấu đến sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:03:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057711+07:00"
+    },
+    {
+      "id": "73e0756659dc0f231fd0275c8ebaaf21",
+      "title": "Tài xế 'IQ 1000' đỗ xe vào chỗ cô gái đứng chặn",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-tai-xe-iq-1000-do-xe-vao-cho-co-gai-dung-chan-4993142.html",
+      "summary": "Cô gái đứng trước 'xí chỗ' nhưng nam tài xế có pha xử lý đỉnh cao khi vờ bỏ đi rồi bật chế độ tự lái để ôtô lùi chuồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.626136+07:00"
+    },
+    {
+      "id": "ec46a098e209212c9278192aaf4c2741",
+      "title": "Subaru Forester thế hệ mới - vận hành hay nhưng thiết kế bảo thủ",
+      "link": "https://vnexpress.net/subaru-forester-the-he-moi-van-hanh-hay-nhung-thiet-ke-bao-thu-4992939.html",
+      "summary": "Mẫu xe gầm cao nhập khẩu Nhật Bản, khung gầm chắc chắn, cách âm tốt, hệ thống treo êm ái, lái hay, thiết kế chưa bắt mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.626323+07:00"
+    },
+    {
+      "id": "9d7ebf048b809b42ada2df7ac916be88",
+      "title": "Thay mỡ heo bằng dầu thực vật có tốt cho tim mạch?",
+      "link": "https://vnexpress.net/thay-mo-heo-bang-dau-thuc-vat-co-tot-cho-tim-mach-4993290.html",
+      "summary": "Tôi thích chế biến thức ăn bằng mỡ heo nhưng bạn bè bảo có hại cho tim mạch. Nếu chuyển sang dùng dầu thực vật thì có tốt hơn không? (Kim Thoa, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.626500+07:00"
+    },
+    {
+      "id": "9535ae73178bcb46fda19794f1b3b189",
+      "title": "Có cần nhịn ăn khi xạ trị?",
+      "link": "https://vnexpress.net/co-can-nhin-an-khi-xa-tri-4993284.html",
+      "summary": "Tôi được khuyên nhịn ăn, uống thêm nước lá hoa đu đủ đực, cỏ mực, khi xạ trị sẽ giúp tiêu diệt tế bào ung thư mạnh và nhanh hơn. Cách này đúng không? (Thanh Minh, 44 tuổi, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.626671+07:00"
+    },
+    {
+      "id": "10a1737315a17ea8a89bec6e749e035e",
+      "title": "Lỗi thường gặp làm sai lệch kết quả đo huyết áp",
+      "link": "https://vnexpress.net/loi-thuong-gap-lam-sai-lech-ket-qua-do-huyet-ap-4992968.html",
+      "summary": "Sử dụng vòng bít không vừa vặn, nói chuyện khi đo, ngồi vắt chéo chân có thể làm sai lệch kết quả huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.626827+07:00"
+    },
+    {
+      "id": "9557379ec0233354356f9270961f0a45",
+      "title": "Công an TP.HCM ra quân bảo đảm an ninh trật tự Tết 2026",
+      "link": "https://thanhnien.vn/cong-an-tphcm-ra-quan-bao-dam-an-ninh-trat-tu-tet-2026-185251212213943015.htm",
+      "summary": "Ngày 12.12, Công an TP.HCM tổ chức lễ ra quân chiến dịch cao điểm trấn áp tội phạm, đảm bảo an ninh trật tự (ANTT) kéo dài đến hết Tết Nguyên đán Bính Ngọ 2026. Trung tướng Mai Hoàng yêu cầu lực lượng Công an phải kéo giảm mạnh tội phạm đường phố, tăng cường an ninh mạng, bảo vệ cuộc sống bình yên, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:41.057867+07:00"
+    },
+    {
+      "id": "3505734bcc70eead3b6db2d4c44ed3c4",
+      "title": "Giá heo hơi hôm nay 13.12.2025: Miền Bắc tăng nhanh",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-13122025-mien-bac-tang-nhanh-185251212170746177.htm",
+      "summary": "Giá heo hơi ở miền Bắc tiếp tục tăng nhanh và đồng loạt, mức thấp nhất hiện nay đã 61.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T01:00:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058018+07:00"
+    },
+    {
+      "id": "0267f9adee2c6522eb1d8846fcdd0471",
+      "title": "Loạt đồ âm thanh tiền tỷ đổ bộ triển lãm tại Hà Nội",
+      "link": "https://vnexpress.net/loat-do-am-thanh-tien-ty-do-bo-trien-lam-tai-ha-noi-4993267.html",
+      "summary": "Triển lãm AVShow lần thứ 25 tổ chức tại Hà Nội, quy tụ loạt thiết bị âm thanh chất lượng cao từ nhiều thương hiệu lớn trên khắp thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:57:44+07:00",
+      "fetched": "2025-12-13T08:18:37.626984+07:00"
+    },
+    {
+      "id": "8c1cdc6b9528a51bbb6d1297f8ae9a56",
+      "title": "Cựu chiến binh bị ung thư xúc động khi xem phim Mưa Đỏ: Nhìn thấy mình trong từng thước phim",
+      "link": "https://thanhnien.vn/cuu-chien-binh-bi-ung-thu-xuc-dong-khi-xem-phim-mua-do-nhin-thay-minh-trong-tung-thuoc-phim-185251212134939795.htm",
+      "summary": "Chiều tối ngày 11.12, Bệnh viện Ung bướu Đà Nẵng tổ chức chương trình chiếu phim Mưa đỏ tại hội trường lớn của bệnh viện, thu hút hơn 300 bệnh nhân và người nhà, gần 100 nhân viên y tế tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:50:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058177+07:00"
+    },
+    {
+      "id": "a97b177037b6ad6dcd853ccb9f4c5d99",
+      "title": "Benzema: 'Alonso không định hướng cho Mbappe, Vinicius hay Bellingham được đâu'",
+      "link": "https://vnexpress.net/benzema-alonso-khong-dinh-huong-cho-mbappe-vinicius-hay-bellingham-duoc-dau-4993297.html",
+      "summary": "Phỏng vấn với báo Pháp L’Équipe, tiền đạo Karim Benzema đưa ra góc nhìn về tình hình rối ren ở Real Madrid, và không đóng hoàn toàn cánh cửa dự World Cup 2026 dù mối quan hệ với HLV Didier Deschamps chưa được hàn gắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:45:52+07:00",
+      "fetched": "2025-12-13T08:18:37.627141+07:00"
+    },
+    {
+      "id": "eb83c02dca1ab6c81ade0834ee6921d2",
+      "title": "Rực rỡ 'Làng Giáng sinh' ngay trong trung tâm thương mại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ruc-ro-lang-giang-sinh-ngay-trong-trung-tam-thuong-mai-185251213073806467.htm",
+      "summary": "Union Square (TP.HCM) vừa chính thức ra mắt 'Làng Giáng sinh Union Square', mô hình làng lễ hội độc đáo rộng hơn 800m2, mang theo hơi lạnh nhân tạo và ánh sáng huyền ảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:43:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058353+07:00"
+    },
+    {
+      "id": "2bee45ba56c4b7fb956db68c143fc26b",
+      "title": "Intel thua kiện 278 triệu USD trong vụ tranh chấp kéo dài 16 năm với AMD",
+      "link": "https://thanhnien.vn/intel-thua-kien-278-trieu-usd-trong-vu-tranh-chap-keo-dai-16-nam-voi-amd-185251212235818396.htm",
+      "summary": "Sau nhiều lần xét xử, Tòa án EU kết luận Intel có hành vi chống cạnh tranh và quyết định mức phạt chính thức là 278 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:35:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058506+07:00"
+    },
+    {
+      "id": "b92d12bd69706e7003bb6ca19e574c29",
+      "title": "Growlab thắng giải quán quân tài năng khởi nghiệp Việt Nam 2025",
+      "link": "https://vnexpress.net/growlab-thang-giai-quan-quan-tai-nang-khoi-nghiep-viet-nam-2025-4993262.html",
+      "summary": "Cuộc thi Tìm kiếm tài năng khởi nghiệp sáng tạo quốc gia 2025 đã trao giải quán quân cho Growlab vì sở hữu công nghệ nuôi cấy mô dừa ở quy mô lớn, giúp thay đổi ngành dừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:30:16+07:00",
+      "fetched": "2025-12-13T08:18:37.627322+07:00"
+    },
+    {
+      "id": "d3e3dd788947113355bfdc462822a4ba",
+      "title": "Microsoft giúp tùy chỉnh giao diện Windows 11 dễ như trên điện thoại",
+      "link": "https://thanhnien.vn/microsoft-giup-tuy-chinh-giao-dien-windows-11-de-nhu-tren-dien-thoai-185251213005750912.htm",
+      "summary": "Microsoft vừa giới thiệu mục Themes trong Microsoft Store dành cho Windows 11 nhằm mang đến người dùng hàng trăm chủ đề được tuyển chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:29:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058663+07:00"
+    },
+    {
+      "id": "30c0f54c785c42c7c379be0ec22d067d",
+      "title": "Không khí lạnh mạnh tràn xuống, miền Bắc giảm 10 độ C, trời rét đậm kèm mưa lớn",
+      "link": "https://thanhnien.vn/khong-khi-lanh-manh-tran-xuong-mien-bac-giam-10-do-c-troi-ret-dam-kem-mua-lon-185251213065248948.htm",
+      "summary": "Không khí lạnh cường độ mạnh bắt đầu tràn xuống khiến nền nhiệt độ ở các tỉnh miền Bắc giảm sâu đến 10 độ C, trời rét đậm kèm theo mưa lớn diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:28:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058817+07:00"
+    },
+    {
+      "id": "4f58162844cfd5397042cd96bea0222d",
+      "title": "Thu Trang chọn Ngọc Thuận làm 'người tình màn ảnh'",
+      "link": "https://thanhnien.vn/thu-trang-chon-ngoc-thuan-lam-nguoi-tinh-man-anh-185251212224129829.htm",
+      "summary": "Trong Ai thương ai mến - tác phẩm đánh dấu màn trở lại của Thu Trang sau thành công của Nụ hôn bạc tỉ, sự góp mặt của Ngọc Thuận được khán giả quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:18:00+07:00",
+      "fetched": "2025-12-13T08:18:41.058975+07:00"
+    },
+    {
+      "id": "228f77163b6917f2d513f747144b8f98",
+      "title": "Du hành qua những tàn tích của lịch sử",
+      "link": "https://thanhnien.vn/du-hanh-qua-nhung-tan-tich-cua-lich-su-185251212225501637.htm",
+      "summary": "Trong Vành đai Sao Thổ, những dữ kiện lịch sử tưởng như mặc định được đặt cạnh các khoảnh khắc vô thường, khó nắm bắt của đời sống cá nhân - tất cả kết lại bằng một thứ logic kỳ bí, vượt khỏi mọi khuôn khổ hiểu biết thông thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:17:00+07:00",
+      "fetched": "2025-12-13T08:18:41.059131+07:00"
+    },
+    {
+      "id": "e5bc413cfbd31e8a49e46e222113a0ee",
+      "title": "HLV Cameroon từ chối bị sa thải, chỉ trích Chủ tịch Eto’o tự luyến",
+      "link": "https://vnexpress.net/hlv-cameroon-tu-choi-bi-sa-thai-chi-trich-chu-tich-eto-o-tu-luyen-4993287.html",
+      "summary": "Trước thềm VCK các quốc gia châu Phi 2025, tuyển Cameroon đang rơi vào cuộc khủng hoảng chưa từng có giữa HLV trưởng Marc Brys và Chủ tịch LĐBĐ nước này - cựu danh thủ Samuel Eto’o.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:15:25+07:00",
+      "fetched": "2025-12-13T08:18:37.627487+07:00"
+    },
+    {
+      "id": "e5bc413cfbd31e8a49e46e222113a0ee",
+      "title": "HLV Cameroon từ chối bị sa thải, chỉ trích Chủ tịch Eto’o tự luyến",
+      "link": "https://vnexpress.net/hlv-cameroon-tu-choi-bi-sa-thai-chi-trich-chu-tich-eto-o-tu-luyen-4993287.html",
+      "summary": "Trước thềm VCK các quốc gia châu Phi 2025, tuyển Cameroon đang rơi vào cuộc khủng hoảng chưa từng có giữa HLV trưởng Marc Brys và Chủ tịch LĐBĐ nước này - cựu danh thủ Samuel Eto’o.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T00:15:25+07:00",
+      "fetched": "2025-12-13T08:18:50.020088+07:00"
+    },
+    {
+      "id": "19f958b288fc9da046368b51acab4dda",
+      "title": "Nga tuyên án tù với loạt quan chức Tòa Hình sự Quốc tế",
+      "link": "https://vnexpress.net/nga-tuyen-an-tu-voi-loat-quan-chuc-toa-hinh-su-quoc-te-4993277.html",
+      "summary": "Nga tuyên án tù vắng mặt với hàng loạt thẩm phán và công tố viên trưởng ICC, đáp trả vụ tòa án này phát lệnh bắt Tổng thống Putin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:09:11+07:00",
+      "fetched": "2025-12-13T08:18:37.627648+07:00"
+    },
+    {
+      "id": "19f958b288fc9da046368b51acab4dda",
+      "title": "Nga tuyên án tù với loạt quan chức Tòa Hình sự Quốc tế",
+      "link": "https://vnexpress.net/nga-tuyen-an-tu-voi-loat-quan-chuc-toa-hinh-su-quoc-te-4993277.html",
+      "summary": "Nga tuyên án tù vắng mặt với hàng loạt thẩm phán và công tố viên trưởng ICC, đáp trả vụ tòa án này phát lệnh bắt Tổng thống Putin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T00:09:11+07:00",
+      "fetched": "2025-12-13T08:18:44.294128+07:00"
+    },
+    {
+      "id": "2a2bf55bb2e9c9caf8147963857c4882",
+      "title": "Giá vé chung kết World Cup 2026 cao gấp 30 lần so với dự kiến",
+      "link": "https://vnexpress.net/gia-ve-chung-ket-world-cup-2026-cao-gap-30-lan-so-voi-du-kien-4992108.html",
+      "summary": "Những CĐV hy vọng được đến sân xem trận chung kết World Cup 2026 tại Mỹ có thể phải chi hơn 4.000 USD (trên 100 triệu đồng) chỉ để mua vé hạng rẻ nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:00:05+07:00",
+      "fetched": "2025-12-13T08:18:37.627802+07:00"
+    },
+    {
+      "id": "2a2bf55bb2e9c9caf8147963857c4882",
+      "title": "Giá vé chung kết World Cup 2026 cao gấp 30 lần so với dự kiến",
+      "link": "https://vnexpress.net/gia-ve-chung-ket-world-cup-2026-cao-gap-30-lan-so-voi-du-kien-4992108.html",
+      "summary": "Những CĐV hy vọng được đến sân xem trận chung kết World Cup 2026 tại Mỹ có thể phải chi hơn 4.000 USD (trên 100 triệu đồng) chỉ để mua vé hạng rẻ nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T00:00:05+07:00",
+      "fetched": "2025-12-13T08:18:50.019738+07:00"
+    },
+    {
+      "id": "b080511a34a70f4277dd657a0041d82f",
+      "title": "Lợi ích khi uống nước dừa hàng tuần",
+      "link": "https://vnexpress.net/loi-ich-khi-uong-nuoc-dua-hang-tuan-4992652.html",
+      "summary": "Nước dừa là lựa chọn giàu dinh dưỡng để bù nước, chất điện giải đồng thời có thể mang lại lợi ích cho cả tim và thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.627967+07:00"
+    },
+    {
+      "id": "41a0d689a88988b17d9c90ce861798eb",
+      "title": "Bác sĩ Ấn Độ giảm 40 kg nhờ cách ăn thâm hụt calo",
+      "link": "https://vnexpress.net/bac-si-an-do-giam-40-kg-nho-cach-an-tham-hut-calo-4992468.html",
+      "summary": "Từng chiến đấu với bệnh béo phì, chuyên gia thận học Arjun Sabharwal tự giảm thành công 40 kg, chứng minh bí quyết giảm cân bền vững không phải nhịn đói mà là nguyên tắc toán học: thâm hụt calo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.628122+07:00"
+    },
+    {
+      "id": "0593d302c001d107bbc0b93fb07201ca",
+      "title": "Cho rau xanh nấu chín vào tủ lạnh hôm sau dùng có tốt?",
+      "link": "https://vnexpress.net/cho-rau-xanh-nau-chin-vao-tu-lanh-hom-sau-dung-co-tot-4991120.html",
+      "summary": "Rau xanh đã nấu chín ăn không hết cất vào tủ lạnh để hôm sau dùng có tốt không? (Minh, 29 tuổi, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T00:00:00+07:00",
+      "fetched": "2025-12-13T08:18:37.628293+07:00"
+    },
+    {
+      "id": "026a2dbac9e6446501aa6eb7bac87646",
+      "title": "NSND Minh Vương phá lệ làm điều đặc biệt trong đêm nhạc hướng về miền Trung",
+      "link": "https://thanhnien.vn/nsnd-minh-vuong-pha-le-lam-dieu-dac-biet-trong-dem-nhac-huong-ve-mien-trung-185251213032108059.htm",
+      "summary": "Đêm nhạc 'Miền Trung yêu thương' được tổ chức tại Nhà hát Trần Hữu Trang quy tụ đông đảo nghệ sĩ tham gia như NSND Minh Vương, danh ca Phương Dung, danh ca Ngọc Sơn, ca sĩ Đàm Vĩnh Hưng, NSND Quế Trân, NSƯT Cẩm Tiên, NSƯT Võ Minh Lâm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T23:57:00+07:00",
+      "fetched": "2025-12-13T08:18:41.059310+07:00"
+    },
+    {
+      "id": "7cf75441d9f9fee4105f9428d82f82d4",
+      "title": "Đảng Dân chủ công bố loạt ảnh mới của tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/dang-dan-chu-cong-bo-loat-anh-moi-cua-ty-phu-au-dam-epstein-4993276.html",
+      "summary": "Các nghị sĩ Dân chủ công bố tư liệu mới về tỷ phú ấu dâm Epstein, trong đó có hình ảnh của Tổng thống Trump và cựu tổng thống Clinton.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T23:50:21+07:00",
+      "fetched": "2025-12-13T08:18:44.294350+07:00"
+    },
+    {
+      "id": "71e82a61d010ee6ac330204df2dd6b20",
+      "title": "Ông Trump: Campuchia, Thái Lan đồng ý ngừng bắn",
+      "link": "https://vnexpress.net/ong-trump-campuchia-thai-lan-dong-y-ngung-ban-4993272.html",
+      "summary": "Tổng thống Trump cho biết Campuchia và Thái Lan đã nhất trí dừng giao tranh ở biên giới, sau khi căng thẳng song phương tái bùng phát thành đụng độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T23:20:03+07:00",
+      "fetched": "2025-12-13T08:18:44.294525+07:00"
+    },
+    {
       "id": "c14806bc1d74ef1f16287118e19acdf3",
       "title": "Thái Lan giải tán Hạ viện, mở đường cho tổng tuyển cử",
       "link": "https://thanhnien.vn/thai-lan-giai-tan-ha-vien-mo-duong-cho-tong-tuyen-cu-185251212171116959.htm",
@@ -201,6 +671,16 @@ window.newsData_2025_12_13 = {
       "category": "Tổng hợp",
       "published": "2025-12-12T22:00:00+07:00",
       "fetched": "2025-12-13T05:17:06.038613+07:00"
+    },
+    {
+      "id": "b9f3656108ce179c95dd7eea448988f4",
+      "title": "Lý do robot hình người Mỹ đứng dậy 'khác người'",
+      "link": "https://vnexpress.net/ly-do-robot-hinh-nguoi-my-dung-day-khac-nguoi-4992839.html",
+      "summary": "Atlas, robot hình người của công ty Mỹ Boston Dynamics, vặn ngược chân để đứng dậy thay vì chống tay như con người \"do yêu cầu kỹ thuật\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-12T22:00:00+07:00",
+      "fetched": "2025-12-13T08:18:48.656874+07:00"
     },
     {
       "id": "8a60935d7ba73c806775c13f1f7117a3",
