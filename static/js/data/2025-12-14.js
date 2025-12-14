@@ -1,7 +1,147 @@
 window.newsData_2025_12_14 = {
   "date": "2025-12-14",
-  "lastUpdated": "2025-12-14T19:34:05.130478+07:00",
+  "lastUpdated": "2025-12-14T21:15:46.791415+07:00",
   "articles": [
+    {
+      "id": "054a147419d4bad2efc1413077761171",
+      "title": "NÓNG: Ukraine từ bỏ ước mơ NATO",
+      "link": "https://tuoitre.vn/nong-ukraine-tu-bo-uoc-mo-nato-2025121418485525.htm",
+      "summary": "Ông Zelensky cho biết Ukraine đã từ bỏ ước mơ được vào NATO, xem đây là nhượng bộ lớn của Kiev để có thể tiến đến việc kết thúc chiến tranh với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.464570+07:00",
+      "fetched": "2025-12-14T21:15:40.464718+07:00"
+    },
+    {
+      "id": "aa7727f419df4e0e493c661b4ea89cd6",
+      "title": "Cựu tuyển thủ Ngọc Châm: 'Mong tuyển nữ Việt Nam gặp Thái Lan ở chung kết'",
+      "link": "https://tuoitre.vn/cuu-tuyen-thu-ngoc-cham-mong-tuyen-nu-viet-nam-gap-thai-lan-o-chung-ket-20251214181937738.htm",
+      "summary": "Cựu tuyển thủ nữ Việt Nam Đỗ Thị Ngọc Châm dự đoán về kịch bản chung kết trong mơ giữa thầy trò HLV Mai Đức Chung với chủ nhà Thái Lan ở trận cuối cùng môn bóng đá nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.464424+07:00",
+      "fetched": "2025-12-14T21:15:40.464556+07:00"
+    },
+    {
+      "id": "0fef645a1c957d6cc9d48fd5d76f6c57",
+      "title": "Video: Sai lầm ‘nghiệp dư’ của Indonesia biếu bàn thắng cho Hải Yến",
+      "link": "https://tuoitre.vn/video-sai-lam-nghiep-du-cua-indonesia-bieu-ban-thang-cho-hai-yen-20251214184552576.htm",
+      "summary": "Trong chiến thắng hủy diệt 5-0 của đội tuyển nữ Việt Nam trước Indonesia, sai lầm nghiêm trọng của thủ môn Indonesia là chìa khóa quan trọng, giúp Việt Nam giành chiến thắng dễ dàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.464278+07:00",
+      "fetched": "2025-12-14T21:15:40.464408+07:00"
+    },
+    {
+      "id": "eb86fc40b1a180911e43ba1deb29a589",
+      "title": "Vụ ngộ độc nghi do ăn bánh mì, tập trung chăm sóc người bệnh, nhanh chóng xử lý vi phạm",
+      "link": "https://tuoitre.vn/vu-ngo-doc-nghi-do-an-banh-mi-tap-trung-cham-soc-nguoi-benh-nhanh-chong-xu-ly-vi-pham-20251214165854467.htm",
+      "summary": "Lãnh đạo Sở Y tế Quảng Ngãi đã đến Bệnh viện Phúc Hưng thăm hỏi những bệnh nhân bị ngộ độc thực phẩm, yêu cầu tập trung điều trị, và khẩn trương vào cuộc xử lý nếu nguyên nhân ngộ độc đến từ việc ăn bánh mì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.464084+07:00",
+      "fetched": "2025-12-14T21:15:40.464263+07:00"
+    },
+    {
+      "id": "a0b0bf5127fc1e66a46d088c55876a94",
+      "title": "HLV Mai Đức Chung: Việt Nam không ngại gặp Thái Lan ở chung kết SEA Games 33",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-viet-nam-khong-ngai-gap-thai-lan-o-chung-ket-sea-games-33-20251214185003388.htm",
+      "summary": "HLV Mai Đức Chung cho rằng tuyển nữ Việt Nam không e ngại đối thủ nào ở trận chung kết SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463947+07:00",
+      "fetched": "2025-12-14T21:15:40.464067+07:00"
+    },
+    {
+      "id": "a20ec587d2d015ba57a2979db5d7b0fd",
+      "title": "Sẵn sàng điện phục vụ Sân bay Long Thành",
+      "link": "https://tuoitre.vn/san-sang-dien-phuc-vu-san-bay-long-thanh-20251214173750371.htm",
+      "summary": "Công ty Điện lực Đồng Nai (PC Đồng Nai) cho biết đã phối hợp Tổng công ty Cảng hàng không Việt Nam (ACV) đấu nối các lộ ra 22kV của Trạm biến áp 110kV Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463806+07:00",
+      "fetched": "2025-12-14T21:15:40.463934+07:00"
+    },
+    {
+      "id": "195f7cae4221a99f48745739acc991b8",
+      "title": "Kiều bào muốn về sống lâu dài, vướng nhất ở đâu?",
+      "link": "https://tuoitre.vn/kieu-bao-muon-ve-song-lau-dai-vuong-nhat-o-dau-20251214184433767.htm",
+      "summary": "Muốn trở về gắn bó lâu dài với quê hương, điều kiều bào cần không chỉ là một căn nhà mà là sự thông suốt về pháp lý, thủ tục hành chính và môi trường sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463670+07:00",
+      "fetched": "2025-12-14T21:15:40.463794+07:00"
+    },
+    {
+      "id": "2b48cb8f44faf8f5cf65748182a764f6",
+      "title": "Thủ tướng: Sân bay Long Thành đón chuyến bay chính thức vào ngày 19-12",
+      "link": "https://tuoitre.vn/thu-tuong-san-bay-long-thanh-don-chuyen-bay-chinh-thuc-vao-ngay-19-12-20251214185136426.htm",
+      "summary": "Chiều 14-12, Thủ tướng Phạm Minh Chính đã tới kiểm tra, đôn đốc, tặng quà, động viên các lực lượng tham gia triển khai dự án Cảng hàng không quốc tế Long Thành và một số dự án đường cao tốc, đường kết nối với sân bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463533+07:00",
+      "fetched": "2025-12-14T21:15:40.463658+07:00"
+    },
+    {
+      "id": "d34cf99fd22a2cec83be62ca6d53e4f8",
+      "title": "Hoàn tất nổ mìn phá đá trên đèo Khánh Lê, khẩn trương dọn hiện trường để thông xe",
+      "link": "https://tuoitre.vn/hoan-tat-no-min-pha-da-tren-deo-khanh-le-khan-truong-don-hien-truong-de-thong-xe-20251214184348821.htm",
+      "summary": "Quân đội đã hoàn tất việc phá đá thông đèo Khánh Lê, hiện lực lượng chức năng đang khẩn trương dọn dẹp đất đá, thông xe sớm nhất có thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463402+07:00",
+      "fetched": "2025-12-14T21:15:40.463520+07:00"
+    },
+    {
+      "id": "e32c901b40bcc188e903986da58ab571",
+      "title": "Rhymastic dự sự kiện ra mắt Avatar 3 tại New Zealand",
+      "link": "https://tuoitre.vn/rhymastic-du-su-kien-ra-mat-avatar-3-tai-new-zealand-20251214185020562.htm",
+      "summary": "Theo xác nhận từ 20th Century Studios, Rhymastic là đại diện duy nhất của Việt Nam tham dự sự kiện ra mắt Avatar 3 tại khu vực Đông Nam Á - Thái Bình Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463262+07:00",
+      "fetched": "2025-12-14T21:15:40.463387+07:00"
+    },
+    {
+      "id": "b1aa932c1264cd1c1d5716c5caec49e3",
+      "title": "Vụ kình ngư Mỹ Tiên khóc: Không nên phê bình VĐV ở nơi đông người",
+      "link": "https://tuoitre.vn/vu-kinh-ngu-my-tien-khoc-khong-nen-phe-binh-vdv-o-noi-dong-nguoi-20251214173321781.htm",
+      "summary": "Tiến sĩ Lý Đại Nghĩa (Giám đốc Trung tâm Huấn luyện và thi đấu thể dục thể thao TP.HCM) đã có phân tích sau khoảnh khắc kình ngư Võ Thị Mỹ Tiên \"khóc vì bị phê bình\" ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.463088+07:00",
+      "fetched": "2025-12-14T21:15:40.463248+07:00"
+    },
+    {
+      "id": "b0680fa793f95aaf0a135f1a14d78f35",
+      "title": "Thắng Singapore, tuyển bóng chuyền nam Việt Nam vươn lên ngôi đầu",
+      "link": "https://tuoitre.vn/thang-singapore-tuyen-bong-chuyen-nam-viet-nam-vuon-len-ngoi-dau-20251214191812442.htm",
+      "summary": "Đội tuyển bóng chuyền Việt Nam tạm vươn lên ngôi đầu bảng A môn bóng chuyền nam SEA Games 33 sau khi giành chiến thắng 3-0 trước Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.462950+07:00",
+      "fetched": "2025-12-14T21:15:40.463075+07:00"
+    },
+    {
+      "id": "6b94a9eb286c7d448767cb45da24c679",
+      "title": "U22 Việt Nam thiếu trợ lý Hàn Quốc ở trận gặp U22 Philippines",
+      "link": "https://tuoitre.vn/u22-viet-nam-thieu-tro-ly-han-quoc-o-tran-gap-u22-philippines-2025121419324009.htm",
+      "summary": "Do đã nhận hai thẻ vàng, trợ lý Lee Jung Soo sẽ không thể góp mặt cùng đội tuyển U22 Việt Nam trong trận bán kết SEA Games 33 với U22 Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.462794+07:00",
+      "fetched": "2025-12-14T21:15:40.462937+07:00"
+    },
+    {
+      "id": "70cab3a9c070246a36ee70c79b657ab7",
+      "title": "Khép lại Ngày của Phở 2025, Trường Giang ủng hộ 200 triệu đồng cho Phở yêu thương",
+      "link": "https://tuoitre.vn/khep-lai-ngay-cua-pho-2025-truong-giang-ung-ho-200-trieu-dong-cho-pho-yeu-thuong-20251214191014817.htm",
+      "summary": "Sau 2 ngày diễn ra nhộn nhịp, tối 14-12, sự kiện Ngày của Phở 2025 chính thức khép lại với đêm Gala Tổng kết Ngày của Phở 2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:15:40.462526+07:00",
+      "fetched": "2025-12-14T21:15:40.462778+07:00"
+    },
     {
       "id": "ebda73b9894710ea829560003f9da48a",
       "title": "Ung thư không phải dấu chấm hết, 1/3 có thể phòng ngừa từ sớm",
@@ -433,6 +573,56 @@ window.newsData_2025_12_14 = {
       "fetched": "2025-12-14T15:22:11.423519+07:00"
     },
     {
+      "id": "2cbc74f7ab2d62f84766c6b1ba1bb70a",
+      "title": "Hãng hàng không nào sẽ bay chuyến 'xông đất' siêu sân bay Long Thành sáng 19.12?",
+      "link": "https://thanhnien.vn/hang-hang-khong-nao-se-bay-chuyen-xong-dat-sieu-san-bay-long-thanh-sang-1912-185251214204524069.htm",
+      "summary": "Sân bay Long Thành sẽ đón chuyến bay chính thức đầu tiên vào 19.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:53:00+07:00",
+      "fetched": "2025-12-14T21:15:39.462736+07:00"
+    },
+    {
+      "id": "7e9ebc21b8a963372e38c104298bc8b8",
+      "title": "Hộ kinh doanh nào bắt buộc có tài khoản ngân hàng riêng từ 2026?",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-nao-bat-buoc-co-tai-khoan-ngan-hang-rieng-tu-2026-185251214202907158.htm",
+      "summary": "Theo quy định, từ ngày 1.1.2026, nhiều cá nhân, hộ kinh doanh bắt buộc phải có tài khoản ngân hàng riêng để phục vụ việc kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:53:00+07:00",
+      "fetched": "2025-12-14T21:15:39.462909+07:00"
+    },
+    {
+      "id": "582da3827c316bb52eebd711e404e32b",
+      "title": "HLV Kim Sang-sik ‘đá ma’ với học trò cực vui, U.23 Việt Nam thoải mái trước bán kết",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-da-ma-voi-hoc-tro-cuc-vui-u23-viet-nam-thoai-mai-truoc-ban-ket-185251214202515112.htm",
+      "summary": "Chiều 14.12, đội tuyển U.23 Việt Nam đã một lần nữa đổi sân tập, vừa vặn trong 2 ngày liên tiếp trước thềm trận bán kết môn bóng đá nam tại SEA Games 33. Điểm tích cực là sân Look E-san cách khách sạn khoảng 8 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:45:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463064+07:00"
+    },
+    {
+      "id": "98eb89f19c9d39c33fede5ab8174b892",
+      "title": "Highlight bóng chuyền nam Việt Nam 3-0 Singapore: Chiến thắng dễ",
+      "link": "https://thanhnien.vn/highlight-bong-chuyen-nam-viet-nam-3-0-singapore-chien-thang-de-185251214204452822.htm",
+      "summary": "Đội tuyển bóng chuyền nam Việt Nam không gặp mấy khó khăn để vượt qua Singapore sau 3 set đấu tại vòng bảng SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:44:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463235+07:00"
+    },
+    {
+      "id": "580162e6e98afb8d7d8350d7d5d22d10",
+      "title": "Highlight bơi lội ngày 14.12: HCV của 'hoàng tử ếch' Phạm Thanh Bảo",
+      "link": "https://thanhnien.vn/highlight-boi-loi-ngay-1412-hcv-cua-hoang-tu-ech-pham-thanh-bao-18525121420384307.htm",
+      "summary": "Phạm Thanh Bảo giành HCV nội dung 200 m bơi ếch. Anh ăn mừng bằng cách giơ chữ T động viên bạn gái Mỹ Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:38:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463389+07:00"
+    },
+    {
       "id": "91dfaf1d812b0724d9757b0b0dcef408",
       "title": "Khánh thành nhà máy điện khí LNG 1,4 tỉ USD, hiệu suất cao nhất, giá điện cạnh tranh",
       "link": "https://tuoitre.vn/khanh-thanh-nha-may-dien-khi-lng-1-4-ti-usd-hieu-suat-cao-nhat-gia-dien-canh-tranh-20251214104933237.htm",
@@ -581,6 +771,156 @@ window.newsData_2025_12_14 = {
       "category": "Tổng hợp",
       "published": "2025-12-14T13:26:04.931920+07:00",
       "fetched": "2025-12-14T13:26:04.932122+07:00"
+    },
+    {
+      "id": "0dd65f9c76ec8491f4c4c736783fd16c",
+      "title": "Tuấn Hưng viết ca khúc tưởng nhớ mẹ",
+      "link": "https://vnexpress.net/tuan-hung-viet-ca-khuc-tuong-nho-me-4993740.html",
+      "summary": "Ca sĩ Tuấn Hưng sáng tác \"Chạm vào nỗi nhớ mẹ\", nói về những hẫng hụt, mất mát khi mẹ anh qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:19:15+07:00",
+      "fetched": "2025-12-14T21:15:36.724349+07:00"
+    },
+    {
+      "id": "c91c615df0783d3c0673472fb76a99b1",
+      "title": "Vì sao game thủ vẫn săn lùng chiếc card RTX 3070 đã 5 năm tuổi?",
+      "link": "https://thanhnien.vn/vi-sao-game-thu-van-san-lung-chiec-card-rtx-3070-da-5-nam-tuoi-185251212141757259.htm",
+      "summary": "Tại sao sau 5 năm, mẫu card đồ họa RTX 3070 vẫn là giữ giá tốt bất chấp quy luật đào thải?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:19:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463538+07:00"
+    },
+    {
+      "id": "82436218578d07435532f183b21ec3e2",
+      "title": "Đội tuyển nữ Việt Nam sẽ nghiên cứu kỹ dù đối thủ là Thái Lan hay Philippines ở chung kết",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-se-nghien-cuu-ky-du-doi-thu-la-thai-lan-hay-philippines-o-chung-ket-185251214195231008.htm",
+      "summary": "Sau chiến thắng thuyết phục ở bán kết, tuyển nữ Việt Nam lần thứ 11 liên tiếp góp mặt ở trận chung kết SEA Games. HLV Akira Higashiyama cho rằng sức ép và khả năng áp sát nhanh của các cầu thủ Việt Nam là khác biệt lớn, đồng thời xem đây là bước tiến đáng ghi nhận với bóng đá nữ Indonesia trước trận...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:10:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463688+07:00"
+    },
+    {
+      "id": "ab4482b2ceed44d0398bbc9b1f8b6e20",
+      "title": "Microsoft khắc phục điểm yếu lớn khi chạy ứng dụng Android trên Windows 11",
+      "link": "https://thanhnien.vn/microsoft-khac-phuc-diem-yeu-lon-khi-chay-ung-dung-android-tren-windows-11-185251214181254436.htm",
+      "summary": "Microsoft đang phát triển bản nâng cấp quan trọng cho Phone Link nhằm khắc phục một trong những vấn đề lớn nhất khi chạy ứng dụng Android trên Windows 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:10:00+07:00",
+      "fetched": "2025-12-14T21:15:39.463845+07:00"
+    },
+    {
+      "id": "cc1dd4c73c0af786e6197694db991e6c",
+      "title": "Cuốn sổ tay giúp xạ thủ Trịnh Thu Vinh phá hai kỷ lục SEA Games",
+      "link": "https://vnexpress.net/cuon-so-tay-giup-xa-thu-trinh-thu-vinh-pha-hai-ky-luc-sea-games-4993736.html",
+      "summary": "Mỗi khi bị căng cứng, xạ thủ Trịnh Thu Vinh xem lại các phương pháp ghi trong một cuốn sổ đặc biệt để lấy lại sự tập trung, góp phần giành hai HC vàng 10m súng ngắn hơi nữ SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:09:42+07:00",
+      "fetched": "2025-12-14T21:15:36.724529+07:00"
+    },
+    {
+      "id": "cc1dd4c73c0af786e6197694db991e6c",
+      "title": "Cuốn sổ tay giúp xạ thủ Trịnh Thu Vinh phá hai kỷ lục SEA Games",
+      "link": "https://vnexpress.net/cuon-so-tay-giup-xa-thu-trinh-thu-vinh-pha-hai-ky-luc-sea-games-4993736.html",
+      "summary": "Mỗi khi bị căng cứng, xạ thủ Trịnh Thu Vinh xem lại các phương pháp ghi trong một cuốn sổ đặc biệt để lấy lại sự tập trung, góp phần giành hai HC vàng 10m súng ngắn hơi nữ SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-14T13:09:42+07:00",
+      "fetched": "2025-12-14T21:15:46.779531+07:00"
+    },
+    {
+      "id": "ab36d23509490d5801e842e2e1bcc19f",
+      "title": "Những góc phố biểu tượng Hải Phòng trên cung đường VnExpress Marathon",
+      "link": "https://vnexpress.net/check-in-duong-chay-vm-hai-phong-2025-4993732.html",
+      "summary": "Từ tượng đài nữ tướng Lê Chân đến bức tường rồng vàng trên phố đi bộ Tam Bạc, cung đường VnExpress Marathon đưa runner khám phá Hải Phòng, nơi giao thoa giữa chiều sâu lịch sử và nhịp sống trẻ trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:00:00+07:00",
+      "fetched": "2025-12-14T21:15:36.724693+07:00"
+    },
+    {
+      "id": "0e8db0c0a6b20245ef89af64cfee5b8a",
+      "title": "Vì sao nệm cao su thiên nhiên Thắng Lợi là đầu tư hoàn hảo cho sức khỏe?",
+      "link": "https://thanhnien.vn/vi-sao-nem-cao-su-thien-nhien-thang-loi-la-dau-tu-hoan-hao-cho-suc-khoe-18525121418394665.htm",
+      "summary": "Trong nhịp sống hiện đại hối hả, giấc ngủ không chỉ là nhu cầu sinh lý mà còn là \"liều thuốc\" tái tạo năng lượng quý giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:00:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464014+07:00"
+    },
+    {
+      "id": "1f943eb21c14b52998bc298ef5f6a170",
+      "title": "Xem nhanh 20h ngày 14.12: Đội tuyển nữ Việt Nam vào chung kết | Nhà thờ tuyệt đẹp trên QL51 lên đèn",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1412-su-co-tu-vong-vi-tai-nan-giao-thong-doi-tuyen-nu-viet-nam-vao-chung-ket-185251214181012022.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 14.12 có nhiều tin tức đáng chú ý về: Tai nạn giao thông trên đường Quang Trung (TP.HCM) khiến một sư cô tử vong; đội tuyển nữ Việt Nam vào chung kết SEA Games 33;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:00:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464209+07:00"
+    },
+    {
+      "id": "6864f8d7a72c38542c628d3fea143bc1",
+      "title": "Ấm áp không sợ lạnh mà vẫn thần thái với áo khoác lông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/am-ap-khong-so-lanh-ma-van-than-thai-voi-ao-khoac-long-185251213161724418.htm",
+      "summary": "Áo khoác lông mang đến vẻ sang trọng mà vẫn ấm áp ngay khi khoác lên. Chất lông mềm mịn, linh hoạt trong mọi phong cách giúp nàng nổi bật trong những ngày đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T13:00:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464362+07:00"
+    },
+    {
+      "id": "4696e79bbf4734e6726d5a361d514057",
+      "title": "Nơi nào ở Trung Quốc được gọi là 'thủ phủ' thịt chó''?",
+      "link": "https://vnexpress.net/noi-nao-o-trung-quoc-duoc-goi-la-thu-phu-thit-cho-4993743.html",
+      "summary": "Thành phố ở miền Nam Trung Quốc có lễ hội thịt chó lớn nhất cả nước với khoảng 10.000 con được tiêu thụ trong sự kiện kéo dài 10 ngày, vào tháng 6 hằng năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:59:01+07:00",
+      "fetched": "2025-12-14T21:15:36.724850+07:00"
+    },
+    {
+      "id": "163964558b9c100dbaae43baa636d5c9",
+      "title": "Nhân chứng kể khoảnh khắc xả súng kinh hoàng ở Sydney",
+      "link": "https://thanhnien.vn/nhan-chung-ke-khoanh-khac-xa-sung-kinh-hoang-o-sydney-185251214193726268.htm",
+      "summary": "Các nhân chứng vụ xả súng kéo dài khoảng 10 phút tại bãi biển Bondi (Sydney, Úc) mô tả cảnh hỗn loạn, tiếng súng nổ liên hồi và hàng trăm người hoảng loạn tháo chạy, khi nhà chức trách điều tra vụ việc theo hướng khủng bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:50:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464516+07:00"
+    },
+    {
+      "id": "bbfdba4122eebb8ad8b096aa1d428121",
+      "title": "HLV Kim trổ tài 'đá ma' cực hay, U.23 Việt Nam hào hứng chờ bán kết thắng Philippines",
+      "link": "https://thanhnien.vn/hlv-kim-tro-tai-da-ma-cuc-hay-u23-viet-nam-hao-hung-cho-ban-ket-thang-philippines-185251214193959554.htm",
+      "summary": "Khi U.23 Việt Nam tập buổi cuối trước trận bán kết SEA Games 33 với U.23 Philippines, HLV Kim Sang-sik bất ngờ nhập hội 'đá ma' và khiến các học trò mắt tròn, mắt dẹt bởi kỹ năng 1 chạm đáng nể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:47:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464670+07:00"
+    },
+    {
+      "id": "8339e6ae120b96b467a722acbf2c877a",
+      "title": "Trịnh Thu Vinh lập cú đúp kỷ lục SEA Games: 'Em gặp khó vì không kiểm soát được cảm xúc'",
+      "link": "https://thanhnien.vn/trinh-thu-vinh-lap-cu-dup-ky-luc-sea-games-em-gap-kho-vi-khong-kiem-soat-duoc-cam-xuc-185251214193148591.htm",
+      "summary": "Trịnh Thu Vinh thi đấu thuyết phục để giành HCV cá nhân, đồng thời lần thứ hai phá kỷ lục SEA Games, khắc họa một cột mốc đáng nhớ trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:35:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464822+07:00"
+    },
+    {
+      "id": "736dc795dcea405b7c599d6643b61d15",
+      "title": "Hàng trăm tay đua xe đạp địa hình hội ngộ tại IRCtire Cup 2025",
+      "link": "https://thanhnien.vn/hang-tram-tay-dua-xe-dap-dia-hinh-hoi-ngo-tai-irctire-cup-2025-185251214192302526.htm",
+      "summary": "Giải vô địch xe đạp địa hình phong trào toàn quốc lần thứ 2 - IRCtire Cup 2025 do Liên đoàn Xe đạp - Mô tô thể thao Việt Nam phối hợp với Công ty truyền thông và thương mại Minh Việt tổ chức, đã chính thức khép lại thành công rực rỡ sau một ngày tranh tài đầy kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:34:00+07:00",
+      "fetched": "2025-12-14T21:15:39.464977+07:00"
     },
     {
       "id": "af8d5636949dc6aaade25dc9e30cd44c",
