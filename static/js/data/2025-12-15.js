@@ -1,7 +1,157 @@
 window.newsData_2025_12_15 = {
   "date": "2025-12-15",
-  "lastUpdated": "2025-12-15T19:41:10.373677+07:00",
+  "lastUpdated": "2025-12-15T21:22:29.519296+07:00",
   "articles": [
+    {
+      "id": "292225ab2f94b3a5dcb5778070bd3c11",
+      "title": "Siêu phẩm sút phạt của U22 Việt Nam khiến U22 Philippines... đứng hình",
+      "link": "https://tuoitre.vn/sieu-pham-sut-phat-cua-u22-viet-nam-khien-u22-philippines-dung-hinh-20251215184754016.htm",
+      "summary": "Ở những phút cuối trong trận bán kết trước Philippines, tiền đạo Thanh Nhàn đã vẽ nên một siêu phẩm trên chấm đá phạt, ấn định tỉ số 2-0 cho U22 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.753091+07:00",
+      "fetched": "2025-12-15T21:22:19.753204+07:00"
+    },
+    {
+      "id": "8a9a99f35d55af7f5a8059e89f49229c",
+      "title": "Bộ Ngoại giao tiếp tục khuyến cáo công dân Việt Nam vì căng thẳng Thái Lan - Campuchia",
+      "link": "https://tuoitre.vn/bo-ngoai-giao-tiep-tuc-khuyen-cao-cong-dan-viet-nam-vi-cang-thang-thai-lan-campuchia-20251215185011328.htm",
+      "summary": "Bộ Ngoại giao khuyến cáo công dân Việt Nam ngay lập tức rời khỏi các khu vực giao tranh giữa Thái Lan và Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752964+07:00",
+      "fetched": "2025-12-15T21:22:19.753080+07:00"
+    },
+    {
+      "id": "6945b4a513c25cbbddac7aeed6eb1682",
+      "title": "Đại sứ quán Việt Nam tại Pháp, Thụy Điển, Đan Mạch, Thổ Nhĩ Kỳ hưởng ứng Ngày của Phở 2025",
+      "link": "https://tuoitre.vn/dai-su-quan-viet-nam-tai-phap-thuy-dien-dan-mach-tho-nhi-ky-huong-ung-ngay-cua-pho-2025-20251215181345319.htm",
+      "summary": "Đại sứ quán Việt Nam tại nhiều nước ở châu Âu như Pháp, Thụy Điển, Đan Mạch, Thổ Nhĩ Kỳ tổ chức các hoạt động hưởng ứng Ngày của Phở do báo Tuổi Trẻ phát động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752816+07:00",
+      "fetched": "2025-12-15T21:22:19.752951+07:00"
+    },
+    {
+      "id": "1ff33bbfc799d3b38b639582f6f5d134",
+      "title": "Chủ tịch Quốc Cường Gia Lai Nguyễn Thị Như Loan bị cáo buộc hưởng lợi gần 300 tỉ",
+      "link": "https://tuoitre.vn/chu-tich-quoc-cuong-gia-lai-nguyen-thi-nhu-loan-bi-cao-buoc-huong-loi-gan-300-ti-20251215185037396.htm",
+      "summary": "Cơ quan điều tra Bộ Công an đề nghị truy tố bà Nguyễn Thị Như Loan, Chủ tịch Quốc Cường Gia Lai, với cáo buộc hưởng lợi gần 300 tỉ trong vụ án xảy ra tại Tập đoàn Cao su Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752685+07:00",
+      "fetched": "2025-12-15T21:22:19.752805+07:00"
+    },
+    {
+      "id": "dc6f264a54c4ecdeeeb9e8bf4bb3ba88",
+      "title": "Khởi công sửa nhà cho 12 hộ dân sạt lở, Quảng Trị quyết tâm hoàn thành trong 15 ngày",
+      "link": "https://tuoitre.vn/khoi-cong-sua-nha-cho-12-ho-dan-sat-lo-quang-tri-quyet-tam-hoan-thanh-trong-15-ngay-20251215183030187.htm",
+      "summary": "Quảng Trị huy động lực lượng quân đội, công nhân thi công thần tốc 3 ca 4 kíp công trình 18 tỉ đồng nhằm sớm ổn định đời sống người dân vùng sạt lở ở xã Khe Sanh, hoàn thành trước 31-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752558+07:00",
+      "fetched": "2025-12-15T21:22:19.752674+07:00"
+    },
+    {
+      "id": "bf89057420f39c43a4efcb7e7efc566f",
+      "title": "Khánh Hòa phê bình các đơn vị viễn thông để gián đoạn thông tin liên lạc trong mưa lũ",
+      "link": "https://tuoitre.vn/khanh-hoa-phe-binh-cac-don-vi-vien-thong-de-gian-doan-thong-tin-lien-lac-trong-mua-lu-2025121518481158.htm",
+      "summary": "Lãnh đạo UBND tỉnh Khánh Hòa phê bình và đề nghị các đơn vị viễn thông trên địa bàn tỉnh này không để xảy ra tình trạng thông tin liên lạc bị gián đoạn như trong đợt mưa lũ lịch sử vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752429+07:00",
+      "fetched": "2025-12-15T21:22:19.752546+07:00"
+    },
+    {
+      "id": "4b431eee81a22a670ff44f6ba5af1ea7",
+      "title": "Đình Bắc làm điều chưa từng có ở SEA Games 33",
+      "link": "https://tuoitre.vn/dinh-bac-lam-dieu-chua-tung-co-o-sea-games-33-20251215184231225.htm",
+      "summary": "Cả ba trận đấu ở SEA Games 33, tiền đạo Nguyễn Đình Bắc đều giành danh hiệu 'Cầu thủ xuất sắc nhất trận'. Một điều chưa từng có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752301+07:00",
+      "fetched": "2025-12-15T21:22:19.752414+07:00"
+    },
+    {
+      "id": "a27778532e9e234c622e3a93a64e575e",
+      "title": "Béo phì - hiểm họa tim mạch thầm lặng",
+      "link": "https://tuoitre.vn/beo-phi-hiem-hoa-tim-mach-tham-lang-20251213075434196.htm",
+      "summary": "Béo phì xuất hiện ở cả người trẻ tuổi và là nguyên nhân hàng đầu dẫn đến nhiều bệnh lý tim mạch nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752176+07:00",
+      "fetched": "2025-12-15T21:22:19.752290+07:00"
+    },
+    {
+      "id": "c4d74b8718cb7f223c55ac93bfec4695",
+      "title": "Hứa lương 60 triệu/tháng, lừa hàng chục người đi 'xuất khẩu lao động' ở Hàn Quốc",
+      "link": "https://tuoitre.vn/hua-luong-60-trieu-thang-lua-hang-chuc-nguoi-di-xuat-khau-lao-dong-o-han-quoc-20251215181732288.htm",
+      "summary": "Các bị cáo đánh vào tâm lý nhiều người mong muốn đi xuất khẩu lao động với thủ tục đơn giản và nhanh chóng nên đã tự tổ chức tư vấn, nhận hồ sơ và tiền rồi chiếm đoạt hơn 3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.752046+07:00",
+      "fetched": "2025-12-15T21:22:19.752164+07:00"
+    },
+    {
+      "id": "d62f54dc6e90c2e2d1386026aac29542",
+      "title": "Video: Đình Bắc liên tục 'làm khổ' hàng thủ Philippines",
+      "link": "https://tuoitre.vn/video-dinh-bac-lien-tuc-lam-kho-hang-thu-philippines-20251215194429585.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc của U22 Việt Nam đã có màn thể hiện chói sáng, liên tục \"tả xung hữu đột\" gây nhiều khó khăn cho hàng thủ Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751907+07:00",
+      "fetched": "2025-12-15T21:22:19.752030+07:00"
+    },
+    {
+      "id": "d1cbac07beb0cc68009b0bc7ecf7357f",
+      "title": "Bằng đại học nước ngoài không được công nhận: Trường nói 'không lừa đảo', mong Bộ thanh tra",
+      "link": "https://tuoitre.vn/bang-dai-hoc-nuoc-ngoai-khong-duoc-cong-nhan-truong-noi-khong-lua-dao-mong-bo-thanh-tra-20251215112511288.htm",
+      "summary": "Trường cao đẳng nghề Thiết kế và Thời trang London mong Bộ GD-ĐT sớm thanh tra, làm rõ sai phạm để bảo vệ quyền lợi người học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751759+07:00",
+      "fetched": "2025-12-15T21:22:19.751893+07:00"
+    },
+    {
+      "id": "bc226895670ecf1d9f743505b4388691",
+      "title": "Sàn thương mại điện tử lại tăng phí trước cao điểm mua sắm cuối năm",
+      "link": "https://tuoitre.vn/san-thuong-mai-dien-tu-lai-tang-phi-truoc-cao-diem-mua-sam-cuoi-nam-20251215183245589.htm",
+      "summary": "Người bán cho rằng việc sàn thương mại điện tử tăng phí ngay trước cao điểm mua sắm cuối năm tạo ra nhiều khó khăn, trong khi chuyên gia nói đó là xu thế tất yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751629+07:00",
+      "fetched": "2025-12-15T21:22:19.751748+07:00"
+    },
+    {
+      "id": "15e9103a0c98170e8708bbb259155c58",
+      "title": "Ngành đường sắt siết an toàn sau loạt sự cố mưa lũ 2025",
+      "link": "https://tuoitre.vn/nganh-duong-sat-siet-an-toan-sau-loat-su-co-mua-lu-2025-20251215192704507.htm",
+      "summary": "Qua các đợt mưa lũ làm đường sắt sạt lở, ngập nước, ách tắc chạy tàu trong năm 2025, ngành đường sắt càng quán triệt quan điểm an toàn hành khách là trên hết, 'không đưa hành khách vào vùng nguy hiểm'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751493+07:00",
+      "fetched": "2025-12-15T21:22:19.751617+07:00"
+    },
+    {
+      "id": "ea52f4e51ae71f0caf2da17faa35aae2",
+      "title": "Kazakhstan sắp mở Tổng lãnh sự quán, đường bay thẳng đến TP.HCM",
+      "link": "https://tuoitre.vn/kazakhstan-sap-mo-tong-lanh-su-quan-duong-bay-thang-den-tp-hcm-20251215201646861.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được thống nhất thúc đẩy hợp tác trung tâm tài chính quốc tế, mở Tổng lãnh sự quán và kết nối đường bay thẳng, tạo động lực mới cho quan hệ song phương với Kazakhstan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751350+07:00",
+      "fetched": "2025-12-15T21:22:19.751480+07:00"
+    },
+    {
+      "id": "d4c666ad722ecd1c3821a7cb7df8b36d",
+      "title": "Hộ kinh doanh sẽ khó kinh doanh ‘chui’, kinh doanh sai phép",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-se-kho-kinh-doanh-chui-kinh-doanh-sai-phep-20251215203642682.htm",
+      "summary": "UBND xã, phường sẽ cùng cơ quan thuế giám sát, kịp thời phát hiện những hộ kinh doanh không đăng ký, kinh doanh sai phép, ngoài địa điểm được cấp phép…, đảm bảo hiệu quả quản lý thuế, chống thất thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T21:22:19.751117+07:00",
+      "fetched": "2025-12-15T21:22:19.751334+07:00"
+    },
     {
       "id": "e0450eff97baf43e1a1685663ec1dfc1",
       "title": "Nhật Bản viện trợ 1,5 triệu USD hỗ trợ khắc phục hậu quả bão lũ, ưu tiên cho 4 tỉnh",
@@ -453,6 +603,86 @@ window.newsData_2025_12_15 = {
       "fetched": "2025-12-15T15:28:41.311767+07:00"
     },
     {
+      "id": "0a5fcdd535cacbbcca92e5b37fa16a0c",
+      "title": "Nhan sắc đời thường của cô gái Việt bật khóc ở SEA Games 33",
+      "link": "https://thanhnien.vn/nhan-sac-doi-thuong-cua-co-gai-viet-bat-khoc-o-sea-games-33-18525121520522648.htm",
+      "summary": "Sau khoảnh khắc bật khóc ở SEA Games 33, thông tin về vận động viên Võ Thị Mỹ Tiên được nhiều người chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T14:22:00+07:00",
+      "fetched": "2025-12-15T21:22:18.630907+07:00"
+    },
+    {
+      "id": "718876b97e83921b2f15c7bcab52eae9",
+      "title": "Ca sĩ Lương Bích Hữu tốt nghiệp đại học ở tuổi 41",
+      "link": "https://thanhnien.vn/ca-si-luong-bich-huu-tot-nghiep-dai-hoc-o-tuoi-41-185251215210657946.htm",
+      "summary": "Ca sĩ Lương Bích Hữu chia sẻ niềm vui khi chính thức nhận bằng tốt nghiệp ở tuổi 41, sau nhiều năm theo học tại Nhạc viện TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T14:16:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631079+07:00"
+    },
+    {
+      "id": "f52a9b26a7e0bc6f490e3b113b613f8b",
+      "title": "Làm rõ nguyên nhân trẻ 3 tuổi tử vong sau sặc thức ăn ở lớp mẫu giáo",
+      "link": "https://thanhnien.vn/lam-ro-nguyen-nhan-tre-3-tuoi-tu-vong-sau-sac-thuc-an-o-lop-mau-giao-185251215204353692.htm",
+      "summary": "Trẻ 3 tuổi ở TP.HCM tử vong sau khi sặc thức ăn tại lớp mẫu giáo. Cơ sở bị tạm ngưng hoạt động, công an đang điều tra nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T14:11:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631235+07:00"
+    },
+    {
+      "id": "ececde11684325c95dba1218acaf24a8",
+      "title": "Học sinh trộm cắp tài sản, không thể xem nhẹ",
+      "link": "https://thanhnien.vn/hoc-sinh-trom-cap-tai-san-khong-the-xem-nhe-18525121519220046.htm",
+      "summary": "Một phiên tòa giả định xét xử vụ học sinh trộm cắp tài sản diễn ra tại một trường tiểu học tại TP.HCM nhằm tuyên truyền pháp luật, tăng sức cảnh báo, răn đe tới học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:45:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631397+07:00"
+    },
+    {
+      "id": "1c809d903940b4c078fdc110bcd0a9b3",
+      "title": "HLV Kim Sang-sik ‘nén’ Thanh Nhàn như lò xo, tuyệt chiêu tâm lý và cái kết cực bất ngờ...",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-nen-thanh-nhan-nhu-lo-xo-tuyet-chieu-tam-ly-va-cai-ket-cuc-bat-ngo-1852512152028239.htm",
+      "summary": "HLV Kim Sang-sik đã cất Thanh Nhàn, không cho đá phút nào trong trận thắng U.23 Malaysia, trước khi anh tỏa sáng ghi bàn giúp U.23 Việt Nam vượt qua U.23 Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:39:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631565+07:00"
+    },
+    {
+      "id": "6e68fa0a0be20988cb8b891f7e6a1a4c",
+      "title": "Thời AI, người trẻ đi làm chịu nhiều áp lực hơn, làm sao cải thiện?",
+      "link": "https://thanhnien.vn/thoi-ai-nguoi-tre-di-lam-chiu-nhieu-ap-luc-hon-lam-sao-cai-thien-185251215191231889.htm",
+      "summary": "Theo chuyên gia, các bạn trẻ đang phải đối diện với đa dạng áp lực mới đến từ cả bên trong lẫn bên ngoài môi trường làm việc, đặt ra nhiều yêu cầu về việc đảm bảo sức khỏe vật lý lẫn tinh thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:39:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631729+07:00"
+    },
+    {
+      "id": "34217253e75813732adfe206b07b9877",
+      "title": "Bất ngờ loại smartphone mà em gái ông Kim Jong-un sử dụng",
+      "link": "https://thanhnien.vn/bat-ngo-loai-smartphone-ma-em-gai-ong-kim-jong-un-su-dung-185251215180537597.htm",
+      "summary": "Một bức ảnh do Hãng thông tấn Trung ương Triều Tiên (KCNA) đăng ngày 14.12 cho thấy bà Kim Yo-jong, em gái của nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un đang cầm một chiếc điện thoại thông minh trên tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:37:00+07:00",
+      "fetched": "2025-12-15T21:22:18.631895+07:00"
+    },
+    {
+      "id": "cf7d603041f0447702c1859b683027c9",
+      "title": "Nhạc sĩ Nguyễn Văn Chung xúc động nhắc về 3 biến cố cuộc đời",
+      "link": "https://thanhnien.vn/nhac-si-nguyen-van-chung-xuc-dong-nhac-ve-3-bien-co-cuoc-doi-185251215181155117.htm",
+      "summary": "Đằng sau ánh hào quang rực rỡ khi liên tục gặt hái được nhiều thành công, Nguyễn Văn Chung cũng có nhiều nỗi buồn, nỗi lo mà anh phải cần thời gian dài để chữa lành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:35:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632050+07:00"
+    },
+    {
       "id": "8d0ebb07b043ec9ce4cb232b81e6f025",
       "title": "Trường Giang công bố phim Tết 2026, trở lại màn ảnh rộng sau 5 năm với Nhà ba tôi một phòng",
       "link": "https://tuoitre.vn/truong-giang-cong-bo-phim-tet-2026-tro-lai-man-anh-rong-sau-5-nam-voi-nha-ba-toi-mot-phong-20251215114153057.htm",
@@ -603,6 +833,156 @@ window.newsData_2025_12_15 = {
       "fetched": "2025-12-15T13:31:21.644285+07:00"
     },
     {
+      "id": "c2bb5d095407a69f47838c502381f349",
+      "title": "Campuchia và Thái Lan tranh cãi về cáo buộc tấn công sâu vào lãnh thổ",
+      "link": "https://thanhnien.vn/campuchia-va-thai-lan-tranh-cai-ve-cao-buoc-tan-cong-sau-vao-lanh-tho-185251215195946991.htm",
+      "summary": "Giao tranh tại khu vực biên giới giữa Thái Lan và Campuchia ngày 15.12 bước sang tuần thứ hai với việc Campuchia cáo buộc Thái Lan ném bom sâu vào lãnh thổ và gần nơi trú ẩn của những người đã sơ tán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:25:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632201+07:00"
+    },
+    {
+      "id": "4a0c3e5e5eaffc3c568fe44bdb17d275",
+      "title": "Xóm đạo lớn nhất TP.HCM lên đèn: Rực rỡ Giáng sinh 2025",
+      "link": "https://thanhnien.vn/xom-dao-lon-nhat-tphcm-len-den-ruc-ro-giang-sinh-2025-18525121519371177.htm",
+      "summary": "Cận kề Giáng sinh 2025, xóm đạo Phạm Thế Hiển, được xem là xóm đạo lớn nhất TP.HCM bắt đầu lên đèn rực rỡ. Nhiều người hào hứng lên lịch check-in trong những ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:20:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632347+07:00"
+    },
+    {
+      "id": "5572f20ccb670bf7d7a45e2c79da3de8",
+      "title": "Khánh Hòa: Truy xét nghi phạm cướp tiền nữ y tá tại trạm y tế",
+      "link": "https://thanhnien.vn/khanh-hoa-truy-xet-nghi-pham-cuop-tien-nu-y-ta-tai-tram-y-te-185251215192932477.htm",
+      "summary": "Công an xã Đại Lãnh (Khánh Hòa) đang truy xét một người đàn ông giả vờ mua thuốc rồi cướp tiền nữ y tá tại Trạm y tế Vạn Thạnh (thôn Vĩnh Yên). Cụ thể, người này dùng dao khống chế nữ y tá, buộc chuyển khoản 500.000 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:18:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632506+07:00"
+    },
+    {
+      "id": "c4238698b8b288376eeaa5bb9a70a858",
+      "title": "'Nghị quyết 98 sửa đổi là cơ hội để TP HCM lấy lại vai trò tiên phong'",
+      "link": "https://vnexpress.net/nghi-quyet-98-sua-doi-la-co-hoi-de-tp-hcm-lay-lai-vai-tro-tien-phong-4994219.html",
+      "summary": "Nghị quyết 98 sửa đổi mở ra cơ chế chưa từng có, là cơ hội để TP HCM lấy lại vai trò tiên phong với những mô hình, cách làm đột phá, theo Bí thư Thành ủy Trần Lưu Quang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:14:38+07:00",
+      "fetched": "2025-12-15T21:22:15.154206+07:00"
+    },
+    {
+      "id": "006264c56cdc753b78a8f624709f9ffd",
+      "title": "Mr.Hunter Lê Khắc Ngọ bị dẫn độ về Việt Nam",
+      "link": "https://thanhnien.vn/mrhunter-le-khac-ngo-bi-dan-do-ve-viet-nam-185251215200937346.htm",
+      "summary": "Lê Khắc Ngọ (Mr.Hunter), nghi phạm cầm đầu đường dây lừa đảo hơn 5.300 tỉ đồng cùng Phó Đức Nam (Mr.Pips), đã bị dẫn độ từ Philippines về nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:09:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632651+07:00"
+    },
+    {
+      "id": "bb1b067763b88af1b2e3fde8a9721ce0",
+      "title": "Thiên tai khốc liệt tại Khánh Hòa năm 2025 gây thiệt hại trên 6.000 tỉ đồng",
+      "link": "https://thanhnien.vn/thien-tai-khoc-liet-tai-khanh-hoa-nam-2025-gay-thiet-hai-tren-6000-ti-dong-185251215164812173.htm",
+      "summary": "Năm 2025 được đánh giá là một trong những năm thiên tai diễn biến phức tạp, cực đoan và bất thường nhất trên địa bàn tỉnh Khánh Hòa trong nhiều thập kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:05:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632798+07:00"
+    },
+    {
+      "id": "c353c1a1f968bff5cbbf99c870abaec9",
+      "title": "VinFast mở nhà máy sản xuất xe điện tại Indonesia",
+      "link": "https://vnexpress.net/vinfast-mo-nha-may-san-xuat-xe-dien-tai-indonesia-4994195.html",
+      "summary": "Hãng xe điện Việt Nam khánh thành nhà máy sản xuất sau 17 tháng từ ngày động thổ, đặt mục tiêu nâng tỷ lệ nội địa hóa ở Indonesia đến 80% từ năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:00:00+07:00",
+      "fetched": "2025-12-15T21:22:15.154390+07:00"
+    },
+    {
+      "id": "9be88d84ea9caac76b02504a30c9966b",
+      "title": "Quang Hùng MasterD, Orange, Pháo Northside hóa thân nhân vật game Crossfire Legends",
+      "link": "https://vnexpress.net/quang-hung-masterd-orange-phao-northside-hoa-than-nhan-vat-game-crossfire-legends-4993132.html",
+      "summary": "Dự án game Crossfire: Legends thu hút sự chú ý khi liên tiếp giới thiệu Orange, Pháo Northside và Quang Hùng MasterD hóa thân thành các nhân vật trước thời điểm game phát hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:00:00+07:00",
+      "fetched": "2025-12-15T21:22:15.154556+07:00"
+    },
+    {
+      "id": "9cf68d56236a34b97116e9ead5740017",
+      "title": "Cần Thơ muốn trở thành trung tâm logistics ở Miền Tây",
+      "link": "https://vnexpress.net/can-tho-muon-tro-thanh-trung-tam-logistics-o-mien-tay-4983382.html",
+      "summary": "Với vị trí chiến lược, Cần Thơ đặt mục tiêu năm 2030 trở thành trung tâm logistics đa phương thức, giúp giảm chi phí, tăng sức cạnh tranh hàng hóa miền Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:00:00+07:00",
+      "fetched": "2025-12-15T21:22:15.154712+07:00"
+    },
+    {
+      "id": "85ccc269d81f71baaac39b7d6f471f30",
+      "title": "Xem nhanh 20h ngày 15.12: Rà soát dự án Nuôi em trên cả nước | Bóng chuyền Việt Nam lỡ HCV đáng tiếc",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1512-ra-soat-du-an-nuoi-em-tren-ca-nuoc-bong-chuyen-viet-nam-lo-hcv-dang-tiec-185251215200226107.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.12 có nhiều tin tức đáng chú ý về: Rà soát dự án Nuôi em trên cả nước; bóng chuyền Việt Nam lỡ HCV đáng tiếc;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:00:00+07:00",
+      "fetched": "2025-12-15T21:22:18.632964+07:00"
+    },
+    {
+      "id": "ca094496ea294dd956973d67b27cbd16",
+      "title": "Áo tank top ‘soán ngôi’ các kiểu áo cơ bản, khoe cá tính mạnh mẽ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-tank-top-soan-ngoi-cac-kieu-ao-co-ban-khoe-ca-tinh-manh-me-185251213165913214.htm",
+      "summary": "Áo tank top giúp các nàng biến hóa theo nhiều sắc thái hiện đại, trở thành lựa chọn lý tưởng cho những ngày muốn khoe gu thời trang cá tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T13:00:00+07:00",
+      "fetched": "2025-12-15T21:22:18.633123+07:00"
+    },
+    {
+      "id": "6f0d397d45319239b929e4cb6e92efa9",
+      "title": "Nga kiện công ty Bỉ, đòi bồi thường hơn 229 tỷ USD",
+      "link": "https://vnexpress.net/nga-kien-cong-ty-bi-doi-boi-thuong-hon-229-ty-usd-4994209.html",
+      "summary": "Ngân hàng trung ương Nga đệ đơn kiện Euroclear và đòi công ty Bỉ bồi thường thiệt hại do khối tài sản 217 tỷ USD của Moskva bị đóng băng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T12:51:13+07:00",
+      "fetched": "2025-12-15T21:22:15.154871+07:00"
+    },
+    {
+      "id": "6f0d397d45319239b929e4cb6e92efa9",
+      "title": "Nga kiện công ty Bỉ, đòi bồi thường hơn 229 tỷ USD",
+      "link": "https://vnexpress.net/nga-kien-cong-ty-bi-doi-boi-thuong-hon-229-ty-usd-4994209.html",
+      "summary": "Ngân hàng trung ương Nga đệ đơn kiện Euroclear và đòi công ty Bỉ bồi thường thiệt hại do khối tài sản 217 tỷ USD của Moskva bị đóng băng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T12:51:13+07:00",
+      "fetched": "2025-12-15T21:22:21.877272+07:00"
+    },
+    {
+      "id": "e1430c08c286da1ea1dc8fcc2dbb2271",
+      "title": "Cầu thủ Philippines ôm mặt khóc sau trận thua Việt Nam",
+      "link": "https://vnexpress.net/cau-thu-philippines-om-mat-khoc-sau-tran-thua-viet-nam-4994215.html",
+      "summary": "Tiếng còi mãn cuộc trên sân Rajamangala vang lên cũng là lúc các cầu thủ Philippines đổ gục xuống cỏ, ôm mặt khóc, khép lại giấc mơ vào chung kết SEA Games 33 sau thất bại trước U22 Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T12:48:44+07:00",
+      "fetched": "2025-12-15T21:22:15.155045+07:00"
+    },
+    {
+      "id": "a07f6f6c3bee69a8cd96698c6af0e22f",
+      "title": "Khoảnh khắc đường băng Long Thành đón máy bay đầu tiên",
+      "link": "https://vnexpress.net/khoanh-khac-duong-bang-long-thanh-don-may-bay-dau-tien-4994216.html",
+      "summary": "Boeing 787 Dreamliner mang số hiệu VN5001 của Vietnam Airlines khởi hành Tân Sơn Nhất đáp xuống sân bay Long Thành chiều 15/12, nhằm kiểm tra, đánh giá toàn bộ hệ thống phục vụ khai thác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T12:47:23+07:00",
+      "fetched": "2025-12-15T21:22:15.155203+07:00"
+    },
+    {
       "id": "9d6ff48229bf79c4be21f9dbe56760ab",
       "title": "iOS 26.2 bổ sung công cụ bảo mật, người dùng iPhone không nên bỏ qua",
       "link": "https://thanhnien.vn/ios-262-bo-sung-cong-cu-bao-mat-nguoi-dung-iphone-khong-nen-bo-qua-185251215190329492.htm",
@@ -621,6 +1001,16 @@ window.newsData_2025_12_15 = {
       "category": "Tổng hợp",
       "published": "2025-12-15T12:35:00+07:00",
       "fetched": "2025-12-15T19:41:00.909745+07:00"
+    },
+    {
+      "id": "8d5fcc14fd71fa30350dd25ec0aa64f6",
+      "title": "Cụ ông tự cắt đứt ống thông tiểu khiến dây tụt vào bàng quang",
+      "link": "https://vnexpress.net/cu-ong-tu-cat-dut-ong-thong-tieu-khien-day-tut-vao-bang-quang-4994114.html",
+      "summary": "Cụ ông 80 tuổi tự dùng dao cắt đứt ống thông tiểu (sonde) của mình khiến đầu ống tụt vào trong bàng quang gây đau đớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T12:32:53+07:00",
+      "fetched": "2025-12-15T21:22:15.155352+07:00"
     },
     {
       "id": "ca5ae227ad11b50562930ef7d56505bb",
@@ -1351,6 +1741,16 @@ window.newsData_2025_12_15 = {
       "category": "Thể thao",
       "published": "2025-12-15T10:00:00+07:00",
       "fetched": "2025-12-15T17:22:41.911936+07:00"
+    },
+    {
+      "id": "39a6dfc512e03701cd7181b5e65f5b55",
+      "title": "Việt Nam thua sát nút Thái Lan ở chung kết bóng chuyền nữ",
+      "link": "https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-o-chung-ket-bong-chuyen-nu-sea-games-33-4994080-tong-thuat.html",
+      "summary": "Có nhiều cơ hội giành match-point, nhưng Việt Nam bỏ lỡ và cuối cùng thua Thái Lan 2-3 (25-19, 13-25, 18-25, 25-23, 23-25) trong trận chung kết bóng chuyền nữ SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T10:00:00+07:00",
+      "fetched": "2025-12-15T21:22:29.506637+07:00"
     },
     {
       "id": "b2b288c1675fd5e59961ce18dca18e1a",
