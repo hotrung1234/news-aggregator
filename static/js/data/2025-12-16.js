@@ -1,7 +1,157 @@
 window.newsData_2025_12_16 = {
   "date": "2025-12-16",
-  "lastUpdated": "2025-12-16T13:29:19.830583+07:00",
+  "lastUpdated": "2025-12-16T15:26:48.031383+07:00",
   "articles": [
+    {
+      "id": "948d9685a78d9c5244b59d36bbddd810",
+      "title": "Hai học sinh chết đuối khi dã ngoại: Phụ huynh phản ứng cách tổ chức của trường",
+      "link": "https://tuoitre.vn/hai-hoc-sinh-chet-duoi-khi-da-ngoai-phu-huynh-phan-ung-cach-to-chuc-cua-truong-20251216110229738.htm",
+      "summary": "Vụ hai học sinh TP.HCM tử vong khi đi dã ngoại với trường gây lo ngại cho phụ huynh, đặt ra nhiều câu hỏi về cách tổ chức phải an toàn và hiệu quả hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619941+07:00",
+      "fetched": "2025-12-16T15:26:41.620053+07:00"
+    },
+    {
+      "id": "65ec42882a87406872ce598281a41fb5",
+      "title": "Có phải ‘tóc bạc nhiều là dấu hiệu của ung thư’?",
+      "link": "https://tuoitre.vn/co-phai-toc-bac-nhieu-la-dau-hieu-cua-ung-thu-2025121612271052.htm",
+      "summary": "Thời gian gần đây, trên mạng xã hội lan truyền thông tin “tóc bạc nhiều là dấu hiệu nguy cơ ung thư”, khiến không ít người lo lắng, đặc biệt là những người trẻ xuất hiện tóc bạc sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619816+07:00",
+      "fetched": "2025-12-16T15:26:41.619929+07:00"
+    },
+    {
+      "id": "46a41066ef98813e79ad71a9617a60be",
+      "title": "Cựu Cục trưởng An toàn thực phẩm chủ mưu nhận hối lộ và ăn chia hơn 94 tỉ như thế nào?",
+      "link": "https://tuoitre.vn/cuu-cuc-truong-an-toan-thuc-pham-chu-muu-nhan-hoi-lo-va-an-chia-hon-94-ti-nhu-the-nao-20251216132041961.htm",
+      "summary": "Ông Nguyễn Thanh Phong, cựu Cục trưởng Cục An toàn thực phẩm, bị cáo buộc chủ mưu chỉ đạo cấp dưới gây khó, buộc doanh nghiệp phải \"bôi trơn\" rồi \"ăn chia\" tổng số tiền hối lộ lên đến hơn 94 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619690+07:00",
+      "fetched": "2025-12-16T15:26:41.619805+07:00"
+    },
+    {
+      "id": "450349279505e03c3f5df9fa3c1c7408",
+      "title": "HLV Mai Đức Chung: 'Tuyển nữ Việt Nam sẵn sàng đánh bại Philippines'",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-tuyen-nu-viet-nam-san-sang-danh-bai-philippines-20251216132644364.htm",
+      "summary": "Tuyển nữ Việt Nam đang cực kỳ tự tin hướng đến trận chung kết SEA Games 33 với Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619563+07:00",
+      "fetched": "2025-12-16T15:26:41.619679+07:00"
+    },
+    {
+      "id": "e65006e23e0d863714dc5d82ee0d9857",
+      "title": "Những trường hợp nào được giảm 50-70% tiền sử dụng đất khi chuyển sang đất ở?",
+      "link": "https://tuoitre.vn/nhung-truong-hop-nao-duoc-giam-50-70-tien-su-dung-dat-khi-chuyen-sang-dat-o-2025121510595009.htm",
+      "summary": "Quốc hội vừa thông qua Nghị quyết 254 quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành Luật Đất đai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619428+07:00",
+      "fetched": "2025-12-16T15:26:41.619550+07:00"
+    },
+    {
+      "id": "f79608e6c5337b5d3cd92a943e477ef6",
+      "title": "Vệ sĩ riêng của Messi coi thường và xô đẩy quân nhân Ấn Độ?",
+      "link": "https://tuoitre.vn/ve-si-rieng-cua-messi-coi-thuong-va-xo-day-quan-nhan-an-do-20251216111423957.htm",
+      "summary": "Mạng xã hội đang lan truyền một video cho thấy vệ sĩ của cầu thủ Lionel Messi đã xô đẩy một quân nhân Ấn Độ, nhưng sự thật là gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619281+07:00",
+      "fetched": "2025-12-16T15:26:41.619416+07:00"
+    },
+    {
+      "id": "683c682f759fcbe4f878e2d879757db5",
+      "title": "Triệu bóng đèn tạo 'thành phố ánh sáng' ở vựa hoa cúc Tết miền Trung",
+      "link": "https://tuoitre.vn/trieu-bong-den-tao-thanh-pho-anh-sang-o-vua-hoa-cuc-tet-mien-trung-20251216125127298.htm",
+      "summary": "Khi nhiều làng quê chìm vào giấc ngủ, làng hoa Nghĩa Hiệp (tỉnh Quảng Ngãi) lại bừng sáng trong ánh điện. Hàng triệu bóng đèn được giăng khắp các vườn cúc, thắp sáng suốt đêm như biến cánh đồng thành một \"thành phố ánh sáng\", báo hiệu Tết đang về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619136+07:00",
+      "fetched": "2025-12-16T15:26:41.619268+07:00"
+    },
+    {
+      "id": "e5fd9370a632503488b4c10dc5629dcd",
+      "title": "Showbiz Hàn Quốc năm 2025 vĩnh biệt nhiều nghệ sĩ nổi tiếng",
+      "link": "https://tuoitre.vn/showbiz-han-quoc-nam-2025-vinh-biet-nhieu-nghe-si-noi-tieng-2025121610221479.htm",
+      "summary": "Năm 2025, làng giải trí Hàn Quốc chứng kiến sự ra đi của nhiều nghệ sĩ nổi tiếng như Lee Soon Jae, Kim Sae Ron, Song Young Kyu... để lại niềm tiếc thương sâu sắc trong lòng khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.619007+07:00",
+      "fetched": "2025-12-16T15:26:41.619123+07:00"
+    },
+    {
+      "id": "6982a349a3215935f32541a27f252446",
+      "title": "HLV Philippines: Đá với tuyển nữ Việt Nam rất khó",
+      "link": "https://tuoitre.vn/hlv-philippines-da-voi-tuyen-nu-viet-nam-rat-kho-20251216135306576.htm",
+      "summary": "Trước trận chung kết SEA Games 33, HLV Mark Torcaso của Philippines đã dành sự tôn trọng lớn cho tuyển nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618880+07:00",
+      "fetched": "2025-12-16T15:26:41.618996+07:00"
+    },
+    {
+      "id": "01abd65e84ef18eda3df6144765bf273",
+      "title": "Giá dầu giảm còn 64 USD/thùng, BSR vẫn lãi hơn 4.500 tỉ đồng",
+      "link": "https://tuoitre.vn/gia-dau-giam-con-64-usd-thung-bsr-van-lai-hon-4-500-ti-dong-20251216113027227.htm",
+      "summary": "Theo thông tin từ Công ty cổ phần Lọc hóa dầu Bình Sơn (BSR), mặc dù thị trường năng lượng thế giới biến động, giá dầu thô Brent giảm tới 19%, còn 64 USD/thùng, song công ty vẫn ghi nhận mức lợi nhuận vượt 262% kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618750+07:00",
+      "fetched": "2025-12-16T15:26:41.618869+07:00"
+    },
+    {
+      "id": "4ca66489442c26949c1f25dfcbada34f",
+      "title": "Vị thế nông nghiệp Việt Nam trong bối cảnh hội nhập",
+      "link": "https://tuoitre.vn/vi-the-nong-nghiep-viet-nam-trong-boi-canh-hoi-nhap-20251216112805718.htm",
+      "summary": "Ngành nông nghiệp không chỉ đem lại nguồn thu ngoại tệ lớn từ xuất khẩu nông lâm thủy sản, mà còn góp phần nâng cao vị thế của Việt Nam trong hội nhập quốc tế thông qua hình ảnh một Việt Nam ổn định, an ninh lương thực và có trách nhiệm với thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618618+07:00",
+      "fetched": "2025-12-16T15:26:41.618738+07:00"
+    },
+    {
+      "id": "e64ab643c9fcb2a8f2ea67de409b1e66",
+      "title": "Chuẩn bị Tết sum vầy cho người lao động",
+      "link": "https://tuoitre.vn/chuan-bi-tet-sum-vay-cho-nguoi-lao-dong-20251216113204042.htm",
+      "summary": "Hỗ trợ tiền mặt cho lao động khó khăn, tặng quà, phiếu mua hàng 0 đồng… nhiều hoạt động chăm lo cho công nhân được các cấp công đoàn tổ chức dịp Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618484+07:00",
+      "fetched": "2025-12-16T15:26:41.618606+07:00"
+    },
+    {
+      "id": "24edcce176d22983e7c08abb7432f70c",
+      "title": "Nhạc sĩ Nguyễn Văn Chung, HIEUTHUHAI và đoàn nghệ sĩ thăm căn cứ Rừng Sác Cần Giờ",
+      "link": "https://tuoitre.vn/nhac-si-nguyen-van-chung-hieuthuhai-va-doan-nghe-si-tham-can-cu-rung-sac-can-gio-2025121613411819.htm",
+      "summary": "40 nhạc sĩ, ca sĩ TP.HCM dâng hương, dâng hoa tưởng nhớ các anh hùng liệt sĩ tại Đền thờ anh hùng liệt sĩ Rừng Sác, Cần Giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618345+07:00",
+      "fetched": "2025-12-16T15:26:41.618471+07:00"
+    },
+    {
+      "id": "8460495614dcdaf25b6d56cd80856678",
+      "title": "Kỳ thi kỹ năng nghề quy mô lớn nhất TP.HCM",
+      "link": "https://tuoitre.vn/ky-thi-ky-nang-nghe-quy-mo-lon-nhat-tp-hcm-20251216134206231.htm",
+      "summary": "Gần 250 thí sinh đã tranh tài kỳ thi kỹ năng nghề TP.HCM 2025, cũng là lần đầu tiên được tổ chức sau khi sáp nhập hai tỉnh Bình Dương và Bà Rịa - Vũng Tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.618178+07:00",
+      "fetched": "2025-12-16T15:26:41.618331+07:00"
+    },
+    {
+      "id": "4a3cc24a1f57ca9a12c6a50e0b242859",
+      "title": "Bùi Lan Hương mê hoặc khán giả trong MV 'Nhan sax'",
+      "link": "https://tuoitre.vn/bui-lan-huong-me-hoac-khan-gia-trong-mv-nhan-sax-20251216135242591.htm",
+      "summary": "Với MV 'Nhan sax', ca sĩ Bùi Lan Hương làm mới bài hát 'Nhan sắc' của đạo diễn Nguyễn Quang Dũng từng là nhạc phim 'Những cô gái chân dài'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:26:41.617937+07:00",
+      "fetched": "2025-12-16T15:26:41.618163+07:00"
+    },
     {
       "id": "56cf6c197dafeaaafea91cca376a24bb",
       "title": "Ukraine từ bỏ NATO có đổi được hòa bình?",
@@ -453,6 +603,16 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T10:22:14.160655+07:00"
     },
     {
+      "id": "f268c880cea36db90839749b677df99f",
+      "title": "Bộ Quốc phòng kiểm tra phương án cải tiến vũ khí của Quân chủng Phòng không - Không quân",
+      "link": "https://thanhnien.vn/bo-quoc-phong-kiem-tra-phuong-an-cai-tien-vu-khi-cua-quan-chung-phong-khong-khong-quan-185251216145113483.htm",
+      "summary": "Sáng 16.12, tại Hà Nội, thượng tướng Lê Huy Vịnh, Thứ trưởng Bộ Quốc phòng, chủ trì hội nghị kiểm tra, thông qua phương án cải tiến vũ khí, trang bị kỹ thuật của Quân chủng Phòng không - Không quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:25:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303022+07:00"
+    },
+    {
       "id": "fb9097634058b6f998f8e3c2fdcc3f35",
       "title": "Thời tiết hôm nay 16-12: Miền Bắc mưa lạnh, miền Nam sáng sớm mát mẻ",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-12-mien-bac-mua-lanh-mien-nam-sang-som-mat-me-20251215163758574.htm",
@@ -581,6 +741,366 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T08:24:05.337337+07:00",
       "fetched": "2025-12-16T08:24:05.337539+07:00"
+    },
+    {
+      "id": "288bdfb18eb8288f28e8cda3422d7ee3",
+      "title": "Vụ 3 người bị sát hại ở Đắk Lắk: Khởi tố thêm tội danh",
+      "link": "https://thanhnien.vn/vu-3-nguoi-bi-sat-hai-o-dak-lak-khoi-to-them-toi-danh-18525121614242912.htm",
+      "summary": "Viện KSND tỉnh Đắk Lắk vừa phê chuẩn quyết định khởi tố thêm tội danh đối với bị can sát hại 3 người, khiến 1 người bị thương trong một gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:21:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303193+07:00"
+    },
+    {
+      "id": "af27ffea392ff4a3d6ebc7b8de348f21",
+      "title": "Kéo co cực hấp dẫn tại SEA Games 33: Việt Nam và Thái Lan cạnh tranh khốc liệt",
+      "link": "https://thanhnien.vn/keo-co-cuc-hap-dan-tai-sea-games-33-viet-nam-va-thai-lan-canh-tranh-khoc-liet-185251216150550082.htm",
+      "summary": "Không còn là một trò chơi dân gian vui vẻ của tuổi thơ, tại SEA Games 33, môn kéo co trở thành đấu trường của sức mạnh và chiến thuật cực kỳ hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:20:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303382+07:00"
+    },
+    {
+      "id": "a014a2a8479d931d89f13c23a67b6646",
+      "title": "Võ sĩ Việt Nam nằm sàn sau đòn hiểm của đối thủ",
+      "link": "https://vnexpress.net/vo-si-viet-nam-nam-san-sau-don-hiem-cua-doi-thu-4994531.html",
+      "summary": "Võ sĩ pencak silat Nguyễn Minh Triết nằm sàn sau khi dính đòn hiểm trúng vùng yết hầu từ đối thủ Malaysia, ở trận bán kết hạng dưới 65 kg tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:09:22+07:00",
+      "fetched": "2025-12-16T15:26:37.381901+07:00"
+    },
+    {
+      "id": "85f6251dfe74879f787879fe5c2a0169",
+      "title": "Phát hiện cách uống trà, cà phê tốt cho người lớn tuổi",
+      "link": "https://thanhnien.vn/phat-hien-cach-uong-tra-ca-phe-tot-cho-nguoi-lon-tuoi-185251216150803103.htm",
+      "summary": "Cà phê là thức uống yêu thích hằng ngày của nhiều người, nhưng uống bao nhiêu và uống thế nào là tốt nhất để đảm bảo sức khỏe vẫn là câu hỏi lớn, nhất là với người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:08:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303550+07:00"
+    },
+    {
+      "id": "ac16cab2a78da4a97a49c1c13ce6e27a",
+      "title": "Khánh Hòa: Phạt 8,3 triệu đồng tài xế chặn đầu xe, đe dọa người khác",
+      "link": "https://thanhnien.vn/khanh-hoa-phat-83-trieu-dong-tai-xe-chan-dau-xe-de-doa-nguoi-khac-185251216141256849.htm",
+      "summary": "Phòng CSGT Công an tỉnh Khánh Hòa xử phạt tài xế N.V.T 8,3 triệu đồng vì chặn đầu xe, xuống chửi bới và đe dọa tài xế khác trên đại lộ Nguyễn Tất Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:07:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303709+07:00"
+    },
+    {
+      "id": "ce6fb1c1c13248296fc61445a4074f13",
+      "title": "Không khí Tết Trường Sa qua tập thơ thiếu nhi",
+      "link": "https://vnexpress.net/khong-khi-tet-truong-sa-qua-tap-tho-thieu-nhi-4993750.html",
+      "summary": "Nhà thơ Lữ Mai tái hiện không khí đón năm mới trên những con tàu ngoài đảo xa qua tác phẩm ''Tết Trường Sa quê em''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:01:45+07:00",
+      "fetched": "2025-12-16T15:26:37.382083+07:00"
+    },
+    {
+      "id": "efa6c22e932b868ab4f5dac4dda177f9",
+      "title": "Philippines tuyên bố quyết lấy HCV, HLV Mai Đức Chung phát ngôn bất ngờ trước trận chung kết",
+      "link": "https://thanhnien.vn/philippines-tuyen-bo-quyet-lay-hcv-hlv-mai-duc-chung-phat-ngon-bat-ngo-truoc-tran-chung-ket-185251216145728713.htm",
+      "summary": "19 giờ 30 ngày 17.12, đội tuyển nữ Việt Nam và Philippines sẽ chạm trán nhau ở trận chung kết môn bóng đá nữ SEA Games 33. HLV Mai Đức Chung và HLV đối thủ đã có những tuyên bố bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:01:00+07:00",
+      "fetched": "2025-12-16T15:26:40.303868+07:00"
+    },
+    {
+      "id": "adb23e0e03a6cd8c196d455756cbbe43",
+      "title": "Đánh sập đường dây đa cấp tiền ảo lừa đảo gần 2.000 tỉ đồng",
+      "link": "https://thanhnien.vn/danh-sap-duong-day-da-cap-tien-ao-lua-dao-gan-2000-ti-dong-185251216144423015.htm",
+      "summary": "Công an TP.Đà Nẵng vừa triệt phá đường dây lừa đảo đa cấp tiền ảo quy mô đặc biệt lớn, bắt giữ 8 bị can, làm rõ hành vi tạo lập dự án 'ma' để chiếm đoạt số tài sản tương đương gần 2.000 tỉ đồng của nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:01:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304021+07:00"
+    },
+    {
+      "id": "9dcd1f24ae3be023c949854a08e145c2",
+      "title": "Madonna và chồng cũ tái hợp sau 17 năm ly hôn",
+      "link": "https://thanhnien.vn/madonna-va-chong-cu-tai-hop-sau-17-nam-ly-hon-185251216132818059.htm",
+      "summary": "Madonna và chồng cũ Guy Ritchie đã gác lại những bất hòa trong quá khứ để cùng nhau xuất hiện tại London (Anh) nhằm ủng hộ con trai Rocco Ritchie trong một triển lãm nghệ thuật đang thu hút sự chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:01:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304179+07:00"
+    },
+    {
+      "id": "d2b4a3227ba870cc7e820ba9dc8dc3d2",
+      "title": "Vợ mang thai bé gái, nhà tôi không hài lòng",
+      "link": "https://vnexpress.net/vo-mang-thai-be-gai-nha-toi-khong-hai-long-4994167.html",
+      "summary": "Tôi buồn vì vợ không chiến đấu để bảo vệ tình yêu cùng tôi, chưa gì đã bỏ cuộc; tôi lo em trầm cảm khi không có tôi ở bên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:00:00+07:00",
+      "fetched": "2025-12-16T15:26:37.382277+07:00"
+    },
+    {
+      "id": "831fb472c3bb52eeb1e9af6a37ac11ac",
+      "title": "'Mắt thần' mới thấy số 54 trong 5 giây",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-mat-than-moi-thay-so-54-trong-5-giay-4993212.html",
+      "summary": "Đây không chỉ là một bức ảnh, mà là bãi chiến trường thị giác dành cho những đôi mắt nhanh như chớp và bộ não sắc như dao cạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:00:00+07:00",
+      "fetched": "2025-12-16T15:26:37.382449+07:00"
+    },
+    {
+      "id": "0ee0cc10d6755c1293cd24ff69622245",
+      "title": "Những khớp chịu tác động nhiều nhất khi chơi pickleball",
+      "link": "https://vnexpress.net/nhung-khop-chiu-tac-dong-nhieu-nhat-khi-choi-pickleball-4994517.html",
+      "summary": "Pickleball tác động đến khớp gối, hông, cổ tay, cổ chân, dễ xảy ra chấn thương nếu chơi sai cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:00:00+07:00",
+      "fetched": "2025-12-16T15:26:37.382619+07:00"
+    },
+    {
+      "id": "7cf3e88cfc9304f7b8a4c338673cf2e9",
+      "title": "Dấu hiệu cảnh báo tim không bơm máu hiệu quả",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-tim-khong-bom-mau-hieu-qua-4994428.html",
+      "summary": "Chóng mặt, mất ngủ và cảm giác khó chịu ở ngực là những dấu hiệu thường gặp khi tim bị tổn thương và không bơm máu hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T08:00:00+07:00",
+      "fetched": "2025-12-16T15:26:37.382780+07:00"
+    },
+    {
+      "id": "8c75723e164443a9293cc2d05a5a1e91",
+      "title": "UAV tàng hình cỡ lớn Trung Quốc lần đầu bay thử",
+      "link": "https://vnexpress.net/uav-tang-hinh-co-lon-trung-quoc-lan-dau-bay-thu-4994456.html",
+      "summary": "UAV tàng hình cỡ lớn CH-7 của Trung Quốc lần đầu cất cánh trong chuyến bay thử tại cơ sở dường như nằm ở tỉnh Thiểm Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:41+07:00",
+      "fetched": "2025-12-16T15:26:37.382943+07:00"
+    },
+    {
+      "id": "8c75723e164443a9293cc2d05a5a1e91",
+      "title": "UAV tàng hình cỡ lớn Trung Quốc lần đầu bay thử",
+      "link": "https://vnexpress.net/uav-tang-hinh-co-lon-trung-quoc-lan-dau-bay-thu-4994456.html",
+      "summary": "UAV tàng hình cỡ lớn CH-7 của Trung Quốc lần đầu cất cánh trong chuyến bay thử tại cơ sở dường như nằm ở tỉnh Thiểm Tây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T07:59:41+07:00",
+      "fetched": "2025-12-16T15:26:43.354104+07:00"
+    },
+    {
+      "id": "bc251c1f714864cfca1e000a2cd0e47e",
+      "title": "5 điện thoại Android 'thảm họa' cân nhắc khi mua",
+      "link": "https://thanhnien.vn/5-dien-thoai-android-tham-hoa-can-nhac-khi-mua-185251214214010215.htm",
+      "summary": "Trong khi các flagship ngày càng đắt đỏ, nhu cầu về một chiếc smartphone cơ bản để đọc báo, lướt web với mức giá 'bình dân' vẫn rất lớn. Tuy nhiên, ranh giới giữa một món hời và một cú lừa là rất mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:52:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304350+07:00"
+    },
+    {
+      "id": "c7ba9de467fe271200744cb424a2770e",
+      "title": "Quảng Ninh đấu giá lô đất giáp khu đô thị FLC, khởi điểm 950 tỷ đồng",
+      "link": "https://vnexpress.net/quang-ninh-dau-gia-lo-dat-giap-khu-do-thi-flc-khoi-diem-950-ty-dong-4994535.html",
+      "summary": "Lô đất rộng hơn 25 ha ở phường Cao Xanh được đấu giá để xây nhà liền kề biệt thự, với mức khởi điểm 950 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:49:39+07:00",
+      "fetched": "2025-12-16T15:26:37.383107+07:00"
+    },
+    {
+      "id": "d4d2dfa47f51a5dda46c8906655cb84b",
+      "title": "HLV Kim Sang-sik lập kỷ lục vào chung kết ba giải Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-lap-ky-luc-vao-chung-ket-ba-giai-dong-nam-a-4994478.html",
+      "summary": "Nhà cầm quân người Hàn Quốc đang đứng trước cơ hội trở thành nhà cầm quân đầu tiên trong lịch sử đăng quang ở ASEAN Cup, U23 Đông Nam Á và SEA Games.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:46:26+07:00",
+      "fetched": "2025-12-16T15:26:37.383293+07:00"
+    },
+    {
+      "id": "d4d2dfa47f51a5dda46c8906655cb84b",
+      "title": "HLV Kim Sang-sik lập kỷ lục vào chung kết ba giải Đông Nam Á",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-lap-ky-luc-vao-chung-ket-ba-giai-dong-nam-a-4994478.html",
+      "summary": "Nhà cầm quân người Hàn Quốc đang đứng trước cơ hội trở thành nhà cầm quân đầu tiên trong lịch sử đăng quang ở ASEAN Cup, U23 Đông Nam Á và SEA Games.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T07:46:26+07:00",
+      "fetched": "2025-12-16T15:26:48.020929+07:00"
+    },
+    {
+      "id": "374b9bc35ec0e3421e1e2baa2dd3a2d7",
+      "title": "Xe khách chở lượng lớn thịt nghi động vật hoang dã qua hầm Hải Vân",
+      "link": "https://thanhnien.vn/xe-khach-cho-luong-lon-thit-nghi-dong-vat-hoang-da-qua-ham-hai-van-185251216141559789.htm",
+      "summary": "Tuần tra trên tuyến hầm Hải Vân - Túy Loan, lực lượng CSGT TP.Đà Nẵng phát hiện xe khách tỉnh Quảng Trị vận chuyển số lượng lớn thịt nghi là động vật hoang dã đi miền Nam tiêu thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:41:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304503+07:00"
+    },
+    {
+      "id": "73b16d7304158762d00ea757f7d81612",
+      "title": "Mỗi lượng vàng đảo chiều giảm 1,5 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-dao-chieu-giam-1-5-trieu-dong-4994494.html",
+      "summary": "Giá vàng miếng trong nước giảm hơn 1,5 triệu đồng, về dưới 156 triệu một lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:40:04+07:00",
+      "fetched": "2025-12-16T15:26:37.383455+07:00"
+    },
+    {
+      "id": "73b16d7304158762d00ea757f7d81612",
+      "title": "Mỗi lượng vàng đảo chiều giảm 1,5 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-dao-chieu-giam-1-5-trieu-dong-4994494.html",
+      "summary": "Giá vàng miếng trong nước giảm hơn 1,5 triệu đồng, về dưới 156 triệu một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-16T07:40:04+07:00",
+      "fetched": "2025-12-16T15:26:44.426933+07:00"
+    },
+    {
+      "id": "ba39c59b58f4455b512736733e34e043",
+      "title": "5 bộ cánh đắt giá của diễn viên Thủy Tiên trong đám cưới con gái",
+      "link": "https://vnexpress.net/5-bo-canh-dat-gia-cua-dien-vien-thuy-tien-trong-dam-cuoi-con-gai-4994468.html",
+      "summary": "Cựu diễn viên Thủy Tiên, vợ ông Johnathan Hạnh Nguyễn, diện các thiết kế thủ công hàng nghìn USD ở đám cưới con gái Tiên Nguyễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:38:45+07:00",
+      "fetched": "2025-12-16T15:26:37.383622+07:00"
+    },
+    {
+      "id": "af4efc0f7127d91cdb6d9284118588dd",
+      "title": "Xử lý nghiêm các doanh nghiệp trốn đóng bảo hiểm xã hội",
+      "link": "https://thanhnien.vn/xu-ly-nghiem-cac-doanh-nghiep-tron-dong-bao-hiem-xa-hoi-185251216130509141.htm",
+      "summary": "Bộ Tài chính chỉ đạo Bảo hiểm xã hội Việt Nam chủ động phối hợp với cơ quan thuế, nội vụ, công an để chia sẻ dữ liệu, theo dõi nắm bắt việc chậm đóng, trốn đóng bảo hiểm xã hội của doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:33:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304653+07:00"
+    },
+    {
+      "id": "79fddff34a10540ddfb2241512b7394e",
+      "title": "Sun Group giới thiệu tổ hợp căn hộ ven biển tại Bãi Cháy",
+      "link": "https://vnexpress.net/sun-group-gioi-thieu-to-hop-can-ho-ven-bien-tai-bai-chay-4994399.html",
+      "summary": "Tập đoàn Sun Group giới thiệu dự án Sun Centro Town gồm 3 tòa cao 30 tầng tại sự kiện ngày 13/12 ở Bãi Cháy, đáp ứng nhu cầu căn hộ để ở kết hợp đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:30:00+07:00",
+      "fetched": "2025-12-16T15:26:37.383786+07:00"
+    },
+    {
+      "id": "86af39c133ab0540eb17cbda0252f9af",
+      "title": "CSGT ứng dụng gần 2.000 camera AI: Những lỗi nào vẫn cần phải tuần tra xử lý?",
+      "link": "https://thanhnien.vn/csgt-ung-dung-gan-2000-camera-ai-nhung-loi-nao-van-can-phai-tuan-tra-xu-ly-185251216140316752.htm",
+      "summary": "Theo đại diện Cục CSGT, camera AI hỗ trợ nhiều công tác nghiệp vụ, song việc kiểm tra nồng độ cồn, ma túy hay xử lý tải trọng vẫn cần lực lượng CSGT có mặt trên đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:29:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304806+07:00"
+    },
+    {
+      "id": "4ca5b31b4d8987e01bb959107d58dec1",
+      "title": "HLV Thái Lan: 'Trận đấu Việt Nam sẽ cho thấy ai mới là số một Đông Nam Á'",
+      "link": "https://vnexpress.net/hlv-thai-lan-tran-dau-viet-nam-se-cho-thay-ai-moi-la-so-mot-dong-nam-a-4994423.html",
+      "summary": "HLV Thawatchai Damrong-Ongtrakul nói muốn chứng minh cho Việt Nam thấy Thái Lan mới là đội U23 số một Đông Nam Á, trước chung kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:28:33+07:00",
+      "fetched": "2025-12-16T15:26:37.383953+07:00"
+    },
+    {
+      "id": "4ca5b31b4d8987e01bb959107d58dec1",
+      "title": "HLV Thái Lan: 'Trận đấu Việt Nam sẽ cho thấy ai mới là số một Đông Nam Á'",
+      "link": "https://vnexpress.net/hlv-thai-lan-tran-dau-viet-nam-se-cho-thay-ai-moi-la-so-mot-dong-nam-a-4994423.html",
+      "summary": "HLV Thawatchai Damrong-Ongtrakul nói muốn chứng minh cho Việt Nam thấy Thái Lan mới là đội U23 số một Đông Nam Á, trước chung kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T07:28:33+07:00",
+      "fetched": "2025-12-16T15:26:48.021109+07:00"
+    },
+    {
+      "id": "86cdf349f8ec302e2eb235977407d0e4",
+      "title": "Ông Nguyễn Hoàng Thoại giữ chức Chủ tịch Hội Nông dân tỉnh Cà Mau",
+      "link": "https://thanhnien.vn/ong-nguyen-hoang-thoai-giu-chuc-chu-tich-hoi-nong-dan-tinh-ca-mau-185251216133415737.htm",
+      "summary": "Tại Đại hội đại biểu Hội Nông dân tỉnh Cà Mau lần thứ I, ông Nguyễn Hoàng Thoại được chỉ định giữ chức Chủ tịch Hội Nông dân tỉnh Cà Mau, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:27:00+07:00",
+      "fetched": "2025-12-16T15:26:40.304953+07:00"
+    },
+    {
+      "id": "bf7f94a96511b01959fbb8df2f7e9614",
+      "title": "Kẻ sát hại 4 người ở Đăk Lăk bị khởi tố thêm tội",
+      "link": "https://vnexpress.net/ke-sat-hai-4-nguoi-o-dak-lak-bi-khoi-to-them-toi-4994516.html",
+      "summary": "Nguyễn Nam Đại Thuận, 37 tuổi, bị khởi tố bổ sung tội sử dụng trái phép vũ khí quân dụng, sau 3 tháng sát hại vợ và 3 người trong gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:26:30+07:00",
+      "fetched": "2025-12-16T15:26:37.384111+07:00"
+    },
+    {
+      "id": "53e963fc9c6ca2a6c09b7f54da1dfee9",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên - niềm vui tôi chọn mỗi ngày",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-niem-vui-toi-chon-moi-ngay-185251214212908633.htm",
+      "summary": "'Mỗi ngày tôi chọn một niềm vui, chọn những bông hoa và những nụ cười'(1) . Và tôi còn chọn thêm một niềm vui nữa đó là Thanh Niên Online.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:25:00+07:00",
+      "fetched": "2025-12-16T15:26:40.305101+07:00"
+    },
+    {
+      "id": "21ef4ddf4fbdc907e6a703eb15bc2243",
+      "title": "‘Muốn được duyệt hồ sơ phải chi ít nhất 2 triệu cho lãnh đạo cục’",
+      "link": "https://thanhnien.vn/muon-duoc-duyet-ho-so-phai-chi-it-nhat-2-trieu-cho-lanh-dao-cuc-18525121613454699.htm",
+      "summary": "Bà Trần Việt Nga, cựu Cục trưởng Cục An toàn thực phẩm, bị đề nghị truy tố tội nhận hối lộ, với cáo buộc gây khó khăn cho doanh nghiệp xin xác nhận nội dung quảng cáo. Sau đó chỉ đạo nhân viên 'muốn được duyệt phải chi ít nhất 2 triệu đồng/hồ sơ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:24:00+07:00",
+      "fetched": "2025-12-16T15:26:40.305263+07:00"
+    },
+    {
+      "id": "20c777e8686227d8a5d5a8ac1ba59acb",
+      "title": "Châu Âu xem xét lại lệnh cấm xe động cơ đốt trong",
+      "link": "https://vnexpress.net/chau-au-xem-xet-lai-lenh-cam-xe-dong-co-dot-trong-4994302.html",
+      "summary": "Trước áp lực từ các nhà sản xuất ôtô, Liên minh châu Âu dự kiến đảo ngược lệnh cấm bán xe động cơ đốt trong mới từ 2035.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:22:34+07:00",
+      "fetched": "2025-12-16T15:26:37.384284+07:00"
+    },
+    {
+      "id": "435612b3e55617f8b145ac1b170f6d74",
+      "title": "Công ty robot 'nhận 170.000 hồ sơ, tuyển chưa tới 500 người'",
+      "link": "https://vnexpress.net/cong-ty-robot-nhan-170-000-ho-so-tuyen-chua-toi-500-nguoi-4994401.html",
+      "summary": "Brett Adcock, CEO công ty robot hình người Figure AI, cho biết đã nhận 176.000 hồ sơ xin việc kể từ năm 2022, nhưng chỉ 425 người được tuyển dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-16T07:18:12+07:00",
+      "fetched": "2025-12-16T15:26:46.886086+07:00"
+    },
+    {
+      "id": "bc245764d58611099c4395f71e09f419",
+      "title": "Cháu trai ông Thaksin được chọn làm ứng viên thủ tướng Thái Lan",
+      "link": "https://vnexpress.net/chau-trai-ong-thaksin-duoc-chon-lam-ung-vien-thu-tuong-thai-lan-4994460.html",
+      "summary": "Đảng Pheu Thai đề xuất ba ứng viên thủ tướng trong cuộc bầu cử sắp tới, trong đó một người là cháu trai ông Thaksin Shinawatra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T06:57:05+07:00",
+      "fetched": "2025-12-16T15:26:43.354301+07:00"
+    },
+    {
+      "id": "cfaf3a6f1dfba198ea435ef5d7ab7fd1",
+      "title": "Campuchia yêu cầu Thái Lan ngừng sử dụng F-16",
+      "link": "https://vnexpress.net/campuchia-yeu-cau-thai-lan-ngung-su-dung-f-16-4994469.html",
+      "summary": "Campuchia lên án các cuộc không kích bằng tiêm kích F-16 của Thái Lan, chỉ trích đây là hành động sử dụng vũ lực \"không cân xứng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T06:51:21+07:00",
+      "fetched": "2025-12-16T15:26:43.354468+07:00"
     },
     {
       "id": "9c7459599ec23eaae31739b56ad38071",
