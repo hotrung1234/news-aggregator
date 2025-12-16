@@ -1,6 +1,6 @@
 window.newsData_2025_12_17 = {
   "date": "2025-12-17",
-  "lastUpdated": "2025-12-17T01:28:11.853802+07:00",
+  "lastUpdated": "2025-12-17T03:21:20.447864+07:00",
   "articles": [
     {
       "id": "1f31b882dd8007d4610b7a16d4d3f8aa",
@@ -151,6 +151,36 @@ window.newsData_2025_12_17 = {
       "category": "Tổng hợp",
       "published": "2025-12-17T01:28:01.553624+07:00",
       "fetched": "2025-12-17T01:28:01.553793+07:00"
+    },
+    {
+      "id": "781b3934504cd1369a1eb6d4700f814b",
+      "title": "Cách giải bài toán nhà ở trái ngược tại hai thành phố Mỹ",
+      "link": "https://vnexpress.net/cach-giai-bai-toan-nha-o-trai-nguoc-tai-hai-thanh-pho-my-4994471.html",
+      "summary": "St. Paul giải quyết bài toán thiếu nhà bằng chính sách kiểm soát giá thuê, còn Minneapolis lại tăng nguồn cung, tạo ra kết quả trái ngược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:00:00+07:00",
+      "fetched": "2025-12-17T03:21:05.599964+07:00"
+    },
+    {
+      "id": "781b3934504cd1369a1eb6d4700f814b",
+      "title": "Cách giải bài toán nhà ở trái ngược tại hai thành phố Mỹ",
+      "link": "https://vnexpress.net/cach-giai-bai-toan-nha-o-trai-nguoc-tai-hai-thanh-pho-my-4994471.html",
+      "summary": "St. Paul giải quyết bài toán thiếu nhà bằng chính sách kiểm soát giá thuê, còn Minneapolis lại tăng nguồn cung, tạo ra kết quả trái ngược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T19:00:00+07:00",
+      "fetched": "2025-12-17T03:21:13.167659+07:00"
+    },
+    {
+      "id": "2ac22b4e02ba792aa288e368efbe17c1",
+      "title": "CĐV Thái Lan ‘săn sạch vé’, quyết tạo áp lực cho U.23 Việt Nam ở chung kết",
+      "link": "https://thanhnien.vn/cdv-thai-lan-san-sach-ve-quyet-tao-ap-luc-cho-u23-viet-nam-o-chung-ket-18525121700102331.htm",
+      "summary": "Theo truyền thông Thái Lan, CĐV nước này đang dành rất nhiều sự quan tâm cho trận chung kết SEA Games 33 giữa U.23 Thái Lan và U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T18:35:00+07:00",
+      "fetched": "2025-12-17T03:21:09.880773+07:00"
     },
     {
       "id": "fa53bc583cd128c6d4ce931d11ac867d",
