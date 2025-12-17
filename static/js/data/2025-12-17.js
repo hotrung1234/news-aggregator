@@ -1,7 +1,157 @@
 window.newsData_2025_12_17 = {
   "date": "2025-12-17",
-  "lastUpdated": "2025-12-17T15:26:43.553709+07:00",
+  "lastUpdated": "2025-12-17T17:21:27.133678+07:00",
   "articles": [
+    {
+      "id": "745edb877deeb89238c51113658c37b7",
+      "title": "Vì sao chỉ định mở điện thoại xem 5 phút nhưng lại thành ra... hơn 30 phút?",
+      "link": "https://tuoitre.vn/vi-sao-chi-dinh-mo-dien-thoai-xem-5-phut-nhung-lai-thanh-ra-hon-30-phut-20251216230957641.htm",
+      "summary": "Chỉ định lướt điện thoại vài phút nhưng nửa giờ trôi qua lúc nào không hay. Nguyên nhân không nằm ở kỷ luật cá nhân mà ở cách não bộ tương tác với nền tảng số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305851+07:00",
+      "fetched": "2025-12-17T17:21:17.305972+07:00"
+    },
+    {
+      "id": "55ef4a729a5561eea199189b1d2fb639",
+      "title": "'Ảnh đế' Yoo Ah In trở lại đóng phim sau bê bối sử dụng chất cấm?",
+      "link": "https://tuoitre.vn/anh-de-yoo-ah-in-tro-lai-dong-phim-sau-be-boi-su-dung-chat-cam-20251217150719588.htm",
+      "summary": "Sau gần 3 năm tạm ngừng hoạt động vì án treo liên quan đến ma túy, Yoo Ah In bất ngờ được nhắc tên trong dự án điện ảnh mới của đạo diễn Exhuma. Tuy nhiên, công ty quản lý và đạo diễn đều khẳng định chưa có quyết định chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305723+07:00",
+      "fetched": "2025-12-17T17:21:17.305840+07:00"
+    },
+    {
+      "id": "2238be71e91c4101da622b48f2fa5cc5",
+      "title": "Nhà thơ Palestine Murad Sudani: Thơ ca của chúng tôi hướng tới khát khao hòa bình",
+      "link": "https://tuoitre.vn/nha-tho-palestine-murad-sudani-tho-ca-cua-chung-toi-huong-toi-khat-khao-hoa-binh-20251217150419783.htm",
+      "summary": "Sáng 17-12, Hội Nhà văn Việt Nam, Hội Nhà văn TP.HCM đã tổ chức buổi Gặp gỡ thi ca Việt Nam - Palestine. Chủ tịch Hội Nhà văn Palestine Murad Sudani đã đến dự và chia sẻ nhiều câu chuyện cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305572+07:00",
+      "fetched": "2025-12-17T17:21:17.305710+07:00"
+    },
+    {
+      "id": "4192a8d71a8e9e48fade7c7e06a81299",
+      "title": "TP.HCM ra mắt công cụ mới phản ánh thái độ nhân viên y tế, quy trình khám, chữa bệnh",
+      "link": "https://tuoitre.vn/tp-hcm-ra-mat-cong-cu-moi-phan-anh-thai-do-than-vien-y-te-quy-trinh-kham-chua-benh-20251217145229061.htm",
+      "summary": "Sở Y tế TP.HCM sẽ ra mắt công cụ đánh giá mới giúp người dân dễ dàng phản ánh các vấn đề liên quan đến y tế như: thái độ của nhân viên y tế, chất lượng khám, chữa bệnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305443+07:00",
+      "fetched": "2025-12-17T17:21:17.305561+07:00"
+    },
+    {
+      "id": "340169487e6d6e367246b14b64dd6378",
+      "title": "Video giả mạo học giả Mỹ nói về căng thẳng Nhật Bản - Trung Quốc",
+      "link": "https://tuoitre.vn/video-gia-mao-hoc-gia-my-noi-ve-cang-thang-nhat-ban-trung-quoc-20251217114355381.htm",
+      "summary": "Một học giả hàng đầu của Mỹ, ông John Mearsheimer, đã trở thành mục tiêu của video giả mạo lan truyền trên mạng xã hội trong bối cảnh quan hệ Nhật Bản - Trung Quốc leo thang cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305307+07:00",
+      "fetched": "2025-12-17T17:21:17.305431+07:00"
+    },
+    {
+      "id": "f380b35ec5ceefdbcfa3615d634561a8",
+      "title": "2026 cận kề: Đầu tư chứng khoán liệu có còn hiệu quả?",
+      "link": "https://tuoitre.vn/2026-can-ke-dau-tu-chung-khoan-lieu-co-con-hieu-qua-202512171428354.htm",
+      "summary": "Các dữ liệu kinh tế cuối năm 2025 cho thấy Việt Nam vẫn giữ được nền tảng tăng trưởng ổn định, trong bối cảnh 2026 đến gần. Giữa lúc đó, thị trường chứng khoán tích lũy nhiều yếu tố hỗ trợ, tạo lực đẩy cho những kỳ vọng trong năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305181+07:00",
+      "fetched": "2025-12-17T17:21:17.305296+07:00"
+    },
+    {
+      "id": "38a5deac52ffdeb4a64788f0580690e5",
+      "title": "100.000 kỹ sư bán dẫn: Bài toán nhân lực chưa từng có",
+      "link": "https://tuoitre.vn/100-000-ky-su-ban-dan-bai-toan-nhan-luc-chua-tung-co-20251217143557944.htm",
+      "summary": "Khi công nghiệp bán dẫn được xác định là hạ tầng chiến lược của kinh tế số, bài toán nhân lực trở thành yếu tố then chốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.305056+07:00",
+      "fetched": "2025-12-17T17:21:17.305170+07:00"
+    },
+    {
+      "id": "6fb67ba9f42c902f4f3a45ac812c58e4",
+      "title": "Công an TP.HCM bắt giữ nhóm cướp tài sản của người đi tập thể dục lúc sáng sớm",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-bat-giu-nhom-cuop-tai-san-cua-nguoi-di-tap-the-duc-luc-sang-som-20251217152517877.htm",
+      "summary": "Công an TP.HCM đã nhanh chóng truy xét, bắt giữ 10 thanh, thiếu niên đi xe máy chặn người tập thể dục lúc rạng sáng để cướp tài sản ở xã Tân Vĩnh Lộc, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304929+07:00",
+      "fetched": "2025-12-17T17:21:17.305045+07:00"
+    },
+    {
+      "id": "4dca81dc31f2874106d02f7085ffbc37",
+      "title": "Khách sạn TP.HCM rộn ràng chuỗi tiệc Giáng sinh và đón năm mới",
+      "link": "https://tuoitre.vn/khach-san-tp-hcm-ron-rang-chuoi-tiec-giang-sinh-va-don-nam-moi-20251217145346155.htm",
+      "summary": "Bước vào mùa lễ hội cuối năm, các khách sạn hạng sang ở TP.HCM đang tìm cách đẩy mạnh những sản phẩm dịch vụ, tăng thêm khung giờ phục vụ nhằm đáp ứng nhu cầu vui chơi, giải trí của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304802+07:00",
+      "fetched": "2025-12-17T17:21:17.304917+07:00"
+    },
+    {
+      "id": "a327e55d064305cdab21cdc1476aced5",
+      "title": "Tổng thống Hàn Quốc lần đầu cho livestream cuộc họp chính sách, ‘giải trí hơn xem phim Netflix’",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-lan-dau-cho-livestream-cuoc-hop-chinh-sach-giai-tri-hon-xem-phim-netflix-20251217152555759.htm",
+      "summary": "Ông Lee Jae Myung là tổng thống Hàn Quốc đầu tiên cho phát trực tiếp các buổi báo cáo chính sách thường niên của các bộ và cơ quan nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304671+07:00",
+      "fetched": "2025-12-17T17:21:17.304790+07:00"
+    },
+    {
+      "id": "6cc5505ef6b22699fb752212ffffb8d5",
+      "title": "Tổng Bí thư: Sớm triển khai các chính sách đặc thù về Trung tâm tài chính quốc tế, tài sản mã hóa",
+      "link": "https://tuoitre.vn/tong-bi-thu-som-trien-khai-cac-chinh-sach-dac-thu-ve-trung-tam-tai-chinh-quoc-te-tai-san-ma-hoa-20251217152525755.htm",
+      "summary": "Tổng Bí thư Tô Lâm cho biết vừa qua Bộ Chính trị đã đồng ý chủ trương báo cáo Trung ương cho chủ trương tiến hành 2 đề án tổng kết lớn triển khai trong nhiệm kỳ Đại hội XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304521+07:00",
+      "fetched": "2025-12-17T17:21:17.304658+07:00"
+    },
+    {
+      "id": "ad9622b8c0e787fb0d0c12c7383a1fd3",
+      "title": "Thái Lan siết hoạt động vận chuyển dầu sang Campuchia",
+      "link": "https://tuoitre.vn/thai-lan-siet-van-chuyen-dau-cho-campuchia-20251217154332767.htm",
+      "summary": "Cơ quan thực thi hàng hải Thái Lan cảnh báo các tàu nước này không được thay đổi quốc tịch để vận chuyển dầu vào Campuchia, nếu không muốn chịu phạt nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304391+07:00",
+      "fetched": "2025-12-17T17:21:17.304509+07:00"
+    },
+    {
+      "id": "20161f5a01ca5039c1a00aa8b151b690",
+      "title": "Đại gia Thái Lan muốn chi 6.000 tỉ đồng gom mua cổ phần Vinamilk",
+      "link": "https://tuoitre.vn/dai-gia-thai-lan-muon-chi-6-000-ti-dong-gom-mua-co-phan-vinamilk-20251217155252106.htm",
+      "summary": "ThaiBev - tập đoàn đồ uống của tỉ phú Thái Lan Charoen Sirivadhanabhakdi, thông qua Fraser and Neave muốn chi 6.011 tỷ đồng mua hơn 96 triệu cổ phiếu Vinamilk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304261+07:00",
+      "fetched": "2025-12-17T17:21:17.304380+07:00"
+    },
+    {
+      "id": "7bd866a5f9cc98fab858cd577160b5bf",
+      "title": "NOAA: Bắc Cực nóng chưa từng thấy, mưa và băng tan cũng kỷ lục",
+      "link": "https://tuoitre.vn/noaa-bac-cuc-nong-chua-tung-thay-mua-va-bang-tan-cung-ky-luc-20251217142552102.htm",
+      "summary": "NOAA cho biết Bắc Cực ghi nhận nhiệt độ cao nhất lịch sử, ấm lên nhanh gấp đôi toàn cầu, băng tan kỷ lục, kéo theo nhiều rủi ro khí hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.304120+07:00",
+      "fetched": "2025-12-17T17:21:17.304248+07:00"
+    },
+    {
+      "id": "3c2dc04b6f628a4e7514fd21bea2955d",
+      "title": "Ngân hàng Thế giới báo cáo nghiên cứu về người dân miền Tây 'ở lại hay di cư'",
+      "link": "https://tuoitre.vn/ngan-hang-the-gioi-bao-cao-nghien-cuu-ve-nguoi-dan-mien-tay-o-lai-hay-di-cu-20251217154706924.htm",
+      "summary": "Báo cáo của Ngân hàng thế giới cho thấy trong thập kỷ qua có gần 1,7 triệu dân Đồng bằng sông Cửu Long rời khỏi vùng. Quan điểm về việc người dân \"ở lại hay di cư\" ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T17:21:17.303899+07:00",
+      "fetched": "2025-12-17T17:21:17.304106+07:00"
+    },
     {
       "id": "b6f0befc24514063fabaf7e5ebc6b382",
       "title": "Camera AI phát hiện hàng trăm vi phạm sau 3 ngày vận hành đồng loạt ở Hà Nội",
@@ -513,6 +663,386 @@ window.newsData_2025_12_17 = {
       "fetched": "2025-12-17T10:17:56.349519+07:00"
     },
     {
+      "id": "be67667e43b0d98db931eb4e417e4945",
+      "title": "EVNSPC khởi công Trạm biến áp 110kV Lại Sơn hơn 101 tỉ đồng",
+      "link": "https://thanhnien.vn/evnspc-khoi-cong-tram-bien-ap-110kv-lai-son-hon-101-ti-dong-18525121716095128.htm",
+      "summary": "Công trình Trạm biến áp 110kV Lại Sơn (đặc khu Kiên Hải, An Giang) có tổng mức đầu tư hơn 101 tỉ đồng đã được EVNSPC khởi công xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:17:00+07:00",
+      "fetched": "2025-12-17T17:21:16.134656+07:00"
+    },
+    {
+      "id": "1723ab1bf0b036bceb937916f62e3611",
+      "title": "Kỳ tích cứu sống bệnh nhân u não tái phát sau 48 giờ nhập viện",
+      "link": "https://thanhnien.vn/ky-tich-cuu-song-benh-nhan-u-nao-tai-phat-sau-48-gio-nhap-vien-185251217154556526.htm",
+      "summary": "Cách đây 8 tháng, ông N.V.A cứ ngỡ mình đã thoát khỏi lưỡi hái tử thần sau ca mổ u não tại địa phương. Thế nhưng, hy vọng đã không mỉm cười khi khối u tái phát với tốc độ kinh hoàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:17:00+07:00",
+      "fetched": "2025-12-17T17:21:16.134828+07:00"
+    },
+    {
+      "id": "a34f9c2409e50e49f65eadb7261ded4a",
+      "title": "Hai cá nhân chi gần 1.400 tỉ đồng mua cổ phiếu Giầy Thượng Đình",
+      "link": "https://thanhnien.vn/hai-ca-nhan-chi-gan-1400-ti-dong-mua-co-phieu-giay-thuong-dinh-185251217164316348.htm",
+      "summary": "Lô cổ phiếu của Công ty CP Giầy Thượng Đỉnh được bán đấu giá thành công với giá trị gần 1.400 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:16:00+07:00",
+      "fetched": "2025-12-17T17:21:16.134986+07:00"
+    },
+    {
+      "id": "948d2ab93e8d2ea51c97c8d49948937b",
+      "title": "Chủ tịch UBND TP.HCM chỉ đạo xử lý các vướng mắc trong quản lý chung cư",
+      "link": "https://thanhnien.vn/chu-tich-ubnd-tphcm-chi-dao-xu-ly-cac-vuong-mac-trong-quan-ly-chung-cu-185251217153657034.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được vừa có ý kiến chỉ đạo liên quan công tác quản lý, sử dụng nhà chung cư trên địa bàn thành phố, nhất là việc tháo gỡ các vướng mắc để cấp sổ hồng cho người mua nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:16:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135143+07:00"
+    },
+    {
+      "id": "789b49c8f85dc9a3231a62f850577430",
+      "title": "Công an tỉnh Đắk Lắk tăng cường lực lượng xây dựng nhà cho người dân",
+      "link": "https://thanhnien.vn/cong-an-tinh-dak-lak-tang-cuong-luc-luong-xay-dung-nha-cho-nguoi-dan-185251217162616588.htm",
+      "summary": "Công an tỉnh Đắk Lắk tiếp tục tăng cường lực lượng thực hiện 'Chiến dịch Quang Trung' do Thủ tướng Chính phủ phát động, nhanh chóng xây dựng nhà ở cho người dân bị thiệt hại trong đợt mưa lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:14:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135296+07:00"
+    },
+    {
+      "id": "0b97da6db5a417f4e3da5aa5d52777b7",
+      "title": "Sacombank được Moody’s nâng hạng tín nhiệm-Khẳng định năng lực tài chính ngày càng vững mạnh",
+      "link": "https://thanhnien.vn/sacombank-duoc-moodys-nang-hang-tin-nhiem-khang-dinh-nang-luc-tai-chinh-ngay-cang-vung-manh-185251211160309203.htm",
+      "summary": "Sacombank vừa được Tổ chức xếp hạng tín nhiệm Moody's nâng hạng nhiều chỉ số quan trọng, ghi nhận bước tiến mạnh mẽ trong chiến lược tái cơ cấu và củng cố nội lực. Đây là một trong những đánh giá tích cực nhất dành cho Sacombank trong nhiều năm, khẳng định sức mạnh tài chính được cải thiện rõ rệt và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:14:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135450+07:00"
+    },
+    {
+      "id": "57c9705c8a0d21e238c84ee3a8f679fd",
+      "title": "Phòng ngừa nhồi máu cơ tim: Bổ sung omega-3, đi bộ và giấc ngủ",
+      "link": "https://thanhnien.vn/phong-ngua-nhoi-mau-co-tim-bo-sung-omega-3-di-bo-va-giac-ngu-185251217170923551.htm",
+      "summary": "Không cần tập luyện quá sức hay ăn kiêng khắc nghiệt, dưới đây là các thói quen hỗ trợ phòng ngừa nhồi máu cơ tim theo gợi ý từ bác sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:09:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135602+07:00"
+    },
+    {
+      "id": "2cd598f4d39254fc3d03bc8745692785",
+      "title": "Truy tìm ô tô liên quan vụ cụ bà bị cán tử vong gần cầu Mỹ Thuận",
+      "link": "https://thanhnien.vn/truy-tim-o-to-lien-quan-vu-cu-ba-bi-can-tu-vong-gan-cau-my-thuan-185251217153208285.htm",
+      "summary": "Xe máy chở cụ bà 73 tuổi ngã ra đường, bị xe ô tô cùng chiều cán tử vong tại chỗ, sau đó ô tô này rời khỏi hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:06:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135779+07:00"
+    },
+    {
+      "id": "7b16a3f90f7a5afed5f377d1cee64c44",
+      "title": "Lãi suất tăng cao, nên dồn tiền gửi tiết kiệm hay mua vàng?",
+      "link": "https://thanhnien.vn/lai-suat-tang-cao-nen-don-tien-gui-tiet-kiem-hay-mua-vang-185251217115042873.htm",
+      "summary": "Dự báo, ngắn hạn trước mắt, lãi suất huy động của các ngân hàng còn tiếp tục tăng. Giữa các kênh đầu tư như mua vàng, chứng khoán hay gửi tiết kiệm, nhà đầu tư nên phân bổ hợp lý tùy 'khẩu vị' rủi ro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:06:00+07:00",
+      "fetched": "2025-12-17T17:21:16.135937+07:00"
+    },
+    {
+      "id": "fbf03c455642043ea1ab556e1c008897",
+      "title": "Toàn cảnh 17h: Lời kể vụ ‘đụng mặt’ nhóm cướp táo tợn | Ly kỳ dùng camera AI tìm cụ ông đi lạc",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-ke-vu-dung-mat-nhom-cuop-tao-ton-ly-ky-dung-camera-ai-tim-cu-ong-di-lac-185251217162845885.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:00:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136092+07:00"
+    },
+    {
+      "id": "ca8e4c2f599b576c3e8f2343602f7e5b",
+      "title": "TTC Phú Quốc và VIETMISSION ký kết hợp tác chiến lược",
+      "link": "https://thanhnien.vn/ttc-phu-quoc-va-vietmission-ky-ket-hop-tac-chien-luoc-185251217160704456.htm",
+      "summary": "Hai doanh nghiệp đặt mục tiêu hợp tác dựa trên sứ mệnh chung là kế thừa, bảo tồn và phát huy giá trị văn hóa, di sản dân tộc trong bối cảnh du lịch đương đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:00:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136244+07:00"
+    },
+    {
+      "id": "1ca2e53e50bec3f43ea66289bd69fea8",
+      "title": "Sanofi đồng hành cùng Bộ Y tế tiên phong thúc đẩy ‘Tiêm chủng cho mọi người’",
+      "link": "https://thanhnien.vn/sanofi-dong-hanh-cung-bo-y-te-tien-phong-thuc-day-tiem-chung-cho-moi-nguoi-185251217155836357.htm",
+      "summary": "Trong thời điểm ngành y tế đang tăng tốc hoàn thiện thể chế cho chiến lược chăm sóc sức khỏe dự phòng toàn dân, chương trình truyền thông cộng đồng đã được Cục phòng bệnh, Bộ Y tế khởi xướng với sự đồng hành của Sanofi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:00:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136390+07:00"
+    },
+    {
+      "id": "4dfab54908dd9ffb11579aafe832d98a",
+      "title": "Study Tour Hàn Quốc - Bước đệm lý tưởng khi du học",
+      "link": "https://thanhnien.vn/study-tour-han-quoc-buoc-dem-ly-tuong-khi-du-hoc-185251217152913175.htm",
+      "summary": "Là hình thức du lịch kết hợp học tập ngắn ngày, Study Tour Hàn Quốc tạo điều kiện để học sinh, sinh viên trải nghiệm đời sống học đường, tiếp cận văn hóa bản địa và tham gia các hoạt động khám phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:00:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136537+07:00"
+    },
+    {
+      "id": "e37ed8b9ec705127d6abedf8e972e3b3",
+      "title": "'Karaoke như nước hoa, thoang thoảng thì dễ thương, nồng quá thì hàng xóm… báo công an'",
+      "link": "https://thanhnien.vn/karaoke-nhu-nuoc-hoa-thoang-thoang-thi-de-thuong-nong-qua-thi-hang-xom-bao-cong-an-185251217143159794.htm",
+      "summary": "Từ ngày 15.12, mạng xã hội bỗng rộn ràng bởi hàng loạt content (nội dung) hài hước xoay quanh một chủ đề tưởng quen mà lạ, đó là hát karaoke.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T10:00:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136713+07:00"
+    },
+    {
+      "id": "424c36a647b32d7f5e9e33ae15aa77ad",
+      "title": "Năm đề xuất nâng cao chất lượng cuộc sống cho người cao tuổi",
+      "link": "https://thanhnien.vn/nam-de-xuat-nang-cao-chat-luong-cuoc-song-cho-nguoi-cao-tuoi-185251217165716797.htm",
+      "summary": "Già hóa dân số đang trở thành một trong những chuyển dịch nhân khẩu học lớn nhất của Việt Nam trong vài thập kỷ tới. Nếu không có sự chuẩn bị sớm và bài bản, quá trình này có thể tạo áp lực lớn lên hệ thống y tế, an sinh xã hội và thị trường lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:51:00+07:00",
+      "fetched": "2025-12-17T17:21:16.136875+07:00"
+    },
+    {
+      "id": "5f22a2b51577e968fd1c9018c77e9d1a",
+      "title": "Thái Lan tuyên bố kiểm soát đèo chiến lược Chong An Ma",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-kiem-soat-deo-chien-luoc-chong-an-ma-4995009.html",
+      "summary": "Quân đội Thái Lan khẳng định đã kiểm soát hoàn toàn đèo Chong An Ma, điểm nóng trong hai đợt xung đột biên giới với Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T09:47:35+07:00",
+      "fetched": "2025-12-17T17:21:19.329954+07:00"
+    },
+    {
+      "id": "3780b06a4e4604c67c3988f212ecbed6",
+      "title": "Ukraine khoe drone đánh chặn đạt tốc độ 400 km/h",
+      "link": "https://vnexpress.net/ukraine-khoe-drone-danh-chan-dat-toc-do-400-km-h-4994987.html",
+      "summary": "Quan chức Ukraine tuyên bố nước này đã sản xuất được drone đánh chặn đạt tốc độ 400 km/h, trong nỗ lực đối phó UAV Geran của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T09:30:24+07:00",
+      "fetched": "2025-12-17T17:21:19.330128+07:00"
+    },
+    {
+      "id": "25136fc16c58a027d433c20c3474c94d",
+      "title": "9 món ngon đặc trưng Nam Bộ",
+      "link": "https://vnexpress.net/9-mon-ngon-dac-trung-nam-bo-4995060.html",
+      "summary": "Nam Bộ là vùng đất mở, nơi ẩm thực giao thoa vì thế các món ăn luôn phóng khoáng, vị đậm đà như con người phương Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:13:28+07:00",
+      "fetched": "2025-12-17T17:21:12.476070+07:00"
+    },
+    {
+      "id": "ec75b154b0e2625a67a7ee14d7d5781e",
+      "title": "Nga công bố video cận cảnh tàu ngầm sau đòn tập kích của Ukraine",
+      "link": "https://vnexpress.net/nga-cong-bo-video-can-canh-tau-ngam-sau-don-tap-kich-cua-ukraine-4994963.html",
+      "summary": "Nga đăng video tàu ngầm ở quân cảng Novorossiysk sau cuộc tập kích của tàu lặn không người lái Ukraine, khẳng định chiến hạm không bị hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:04:29+07:00",
+      "fetched": "2025-12-17T17:21:12.476827+07:00"
+    },
+    {
+      "id": "ec75b154b0e2625a67a7ee14d7d5781e",
+      "title": "Nga công bố video cận cảnh tàu ngầm sau đòn tập kích của Ukraine",
+      "link": "https://vnexpress.net/nga-cong-bo-video-can-canh-tau-ngam-sau-don-tap-kich-cua-ukraine-4994963.html",
+      "summary": "Nga đăng video tàu ngầm ở quân cảng Novorossiysk sau cuộc tập kích của tàu lặn không người lái Ukraine, khẳng định chiến hạm không bị hư hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T09:04:29+07:00",
+      "fetched": "2025-12-17T17:21:19.330290+07:00"
+    },
+    {
+      "id": "fe49a39ac584c09ddd6affb07bf53230",
+      "title": "Nhiều người trốn họp giữa giờ vì quá dài dòng, lê thê",
+      "link": "https://vnexpress.net/nhieu-nguoi-tron-hop-giua-gio-vi-qua-dai-dong-le-the-4995004.html",
+      "summary": "Tôi từng tham dự các cuộc hội họp, thấy mọi người đông đủ chỉ trọn vẹn khoảng 60 phút đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:03:52+07:00",
+      "fetched": "2025-12-17T17:21:12.477014+07:00"
+    },
+    {
+      "id": "da21dcfb851045dc3c5a8c59d545e6ed",
+      "title": "Hà Nội sẽ chọn lọc gen để đào tạo tinh hoa",
+      "link": "https://vnexpress.net/ha-noi-se-chon-loc-gen-de-dao-tao-tinh-hoa-4994948.html",
+      "summary": "Hà Nội dự kiến triển khai chương trình đào tạo nhân lực tinh hoa theo nhiều cấp độ, trong đó có định hướng chọn lọc gen ngay từ sớm để hình thành lực lượng lao động chất lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:02:16+07:00",
+      "fetched": "2025-12-17T17:21:12.477180+07:00"
+    },
+    {
+      "id": "523cdf4a5d9fe46111151a33f4f76e6b",
+      "title": "Mức sinh năm 2025 của Việt Nam tăng nhẹ",
+      "link": "https://vnexpress.net/muc-sinh-nam-2025-cua-viet-nam-tang-nhe-4995025.html",
+      "summary": "Trung bình mỗi phụ nữ Việt Nam sinh 1,93 con năm 2025, tăng nhẹ so với mức thấp kỷ lục của năm ngoái nhưng vẫn chưa đạt mức sinh thay thế và có sự phân hóa mạnh giữa các vùng miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:02:10+07:00",
+      "fetched": "2025-12-17T17:21:12.477350+07:00"
+    },
+    {
+      "id": "d21db3b0774ec332d2ef48c4c161a49f",
+      "title": "Philippines bác tin kẻ xả súng Australia được huấn luyện ở nước này",
+      "link": "https://vnexpress.net/philippines-bac-tin-ke-xa-sung-australia-duoc-huan-luyen-o-nuoc-nay-4994967.html",
+      "summary": "Philippines bác bỏ suy đoán rằng hai bố con nghi phạm xả súng ở bãi biển Australia từng tới nước này để tham gia khóa \"huấn luyện khủng bố\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:01:45+07:00",
+      "fetched": "2025-12-17T17:21:12.477506+07:00"
+    },
+    {
+      "id": "d21db3b0774ec332d2ef48c4c161a49f",
+      "title": "Philippines bác tin kẻ xả súng Australia được huấn luyện ở nước này",
+      "link": "https://vnexpress.net/philippines-bac-tin-ke-xa-sung-australia-duoc-huan-luyen-o-nuoc-nay-4994967.html",
+      "summary": "Philippines bác bỏ suy đoán rằng hai bố con nghi phạm xả súng ở bãi biển Australia từng tới nước này để tham gia khóa \"huấn luyện khủng bố\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T09:01:45+07:00",
+      "fetched": "2025-12-17T17:21:19.330460+07:00"
+    },
+    {
+      "id": "6cb92a233fb6bcb0c0114028409e4260",
+      "title": "Hàng nghìn học sinh tham gia ngày hội Toán học mở",
+      "link": "https://vnexpress.net/hang-nghin-hoc-sinh-tham-gia-ngay-hoi-toan-hoc-mo-4995034.html",
+      "summary": "Hàng nghìn học sinh tại TP HCM tham gia ngày hội Toán học Mở (Math Open Day - MOD) với hơn 70 hoạt động trải nghiệm, tìm hiểu mối liên hệ toán học, nghệ thuật, công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.477680+07:00"
+    },
+    {
+      "id": "ffc1e743d0e9c3f4d8e49ea76e8e9424",
+      "title": "Dấu hiệu ung thư tuyến giáp",
+      "link": "https://vnexpress.net/dau-hieu-ung-thu-tuyen-giap-4994997.html",
+      "summary": "Dấu hiệu phổ biến nhất của ung thư tuyến giáp là một khối u ở cổ nhưng tùy giai đoạn, thể ung thư, người bệnh có thể gặp triệu chứng khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.477836+07:00"
+    },
+    {
+      "id": "45af828f0aa47c2e576beae3d165687e",
+      "title": "Ba cách đơn giản kiểm tra phổi khi không khí ô nhiễm",
+      "link": "https://vnexpress.net/ba-cach-don-gian-kiem-tra-phoi-khi-khong-khi-o-nhiem-4994899.html",
+      "summary": "Theo dõi giấc ngủ, kiểu ho và khả năng phục hồi sau khi tập luyện có thể giúp đánh giá sức khỏe phổi, từ đó điều chỉnh lối sống cho phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.477999+07:00"
+    },
+    {
+      "id": "c5211def1b10606bac2da23ae374f93b",
+      "title": "Lợi ích khi uống 2 lít nước mỗi ngày",
+      "link": "https://vnexpress.net/loi-ich-khi-uong-2-lit-nuoc-moi-ngay-4994827.html",
+      "summary": "Uống đủ nước mỗi ngày giúp thúc đẩy nhu động ruột, giảm táo bón và tăng khả năng hấp thu dưỡng chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.478158+07:00"
+    },
+    {
+      "id": "ef554b68b8bdeda5c73a707aca73f0bf",
+      "title": "Lumira Ville hưởng lợi khi gần khu thương mại tự do Đình Vũ - Cát Hải",
+      "link": "https://vnexpress.net/lumira-ville-huong-loi-khi-gan-khu-thuong-mai-tu-do-dinh-vu-cat-hai-4994802.html",
+      "summary": "Khu thương mại tự do Đình Vũ - Cát Hải cùng hạ tầng logistics, công nghiệp khu vực được kỳ vọng tạo dư địa mới cho bất động sản địa phương, trong đó có Lumira Ville.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.478309+07:00"
+    },
+    {
+      "id": "c00e9a05ea447692019201c850545ac2",
+      "title": "Chiến lược của Dat Bike hỗ trợ người dùng chuyển đổi xe máy điện",
+      "link": "https://vnexpress.net/chien-luoc-cua-dat-bike-ho-tro-nguoi-dung-chuyen-doi-xe-may-dien-4994445.html",
+      "summary": "Dat Bike làm chủ công nghệ lõi, cải tiến sản phẩm, mở rộng hệ thống phân phối và cải thiện dịch vụ hậu mãi nhằm đón đầu xu hướng sử dụng xe máy điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T09:00:00+07:00",
+      "fetched": "2025-12-17T17:21:12.478463+07:00"
+    },
+    {
+      "id": "e8b9b263d50b7f1295cf08e12bc5a7a1",
+      "title": "Novaland chốt phát hành gần 164 triệu cổ phiếu để trả nợ nhóm ông Bùi Thành Nhơn",
+      "link": "https://vnexpress.net/novaland-chot-phat-hanh-gan-164-trieu-co-phieu-de-tra-no-nhom-ong-bui-thanh-nhon-4994981.html",
+      "summary": "Novaland sẽ phát hành gần 164 triệu cổ phiếu để trả nợ hai cổ đông lớn liên quan ông Bùi Thành Nhơn, giúp tăng tỷ lệ sở hữu nhóm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:56:03+07:00",
+      "fetched": "2025-12-17T17:21:12.478632+07:00"
+    },
+    {
+      "id": "e8b9b263d50b7f1295cf08e12bc5a7a1",
+      "title": "Novaland chốt phát hành gần 164 triệu cổ phiếu để trả nợ nhóm ông Bùi Thành Nhơn",
+      "link": "https://vnexpress.net/novaland-chot-phat-hanh-gan-164-trieu-co-phieu-de-tra-no-nhom-ong-bui-thanh-nhon-4994981.html",
+      "summary": "Novaland sẽ phát hành gần 164 triệu cổ phiếu để trả nợ hai cổ đông lớn liên quan ông Bùi Thành Nhơn, giúp tăng tỷ lệ sở hữu nhóm này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-17T08:56:03+07:00",
+      "fetched": "2025-12-17T17:21:21.206237+07:00"
+    },
+    {
+      "id": "c8d2354432ceefec146d159f660553a1",
+      "title": "Huỳnh Tú Anh gợi cảm với mốt xuyên thấu",
+      "link": "https://vnexpress.net/huynh-tu-anh-goi-cam-voi-mot-xuyen-thau-4994901.html",
+      "summary": "Người mẫu Gen Z Huỳnh Tú Anh tạo dáng với trang phục cut-out, xuyên thấu tôn eo con kiến 60 cm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:54:22+07:00",
+      "fetched": "2025-12-17T17:21:12.478788+07:00"
+    },
+    {
+      "id": "7cf70ceced2c0f390fa79f66f5cc720c",
+      "title": "10 ôtô tông liên hoàn ở Ấn Độ, 13 người chết",
+      "link": "https://vnexpress.net/10-oto-tong-lien-hoan-o-an-do-13-nguoi-chet-4994882.html",
+      "summary": "Nhiều ôtô tông liên hoàn trên cao tốc Delhi – Agra rạng sáng 16/12 khiến một số xe bốc cháy, ít nhất 13 người thiệt mạng, gần 20 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:53:08+07:00",
+      "fetched": "2025-12-17T17:21:12.478948+07:00"
+    },
+    {
+      "id": "66e73023328fe858ce9ad07ff06e199d",
+      "title": "Tranh cãi về vụ HLV Shin Tae-yong bị tố hành hung học trò cũ",
+      "link": "https://vnexpress.net/tranh-cai-ve-vu-hlv-shin-tae-yong-bi-to-hanh-hung-hoc-tro-cu-4994577.html",
+      "summary": "Hành động tát vào má Jung Seung-hyun của HLV Shin Tae-yong thời còn dẫn dắt Ulsan HD khơi mào tranh cãi trong dư luận bóng đá Hàn Quốc, khi trung vệ này quả quyết đã bị thầy hành hung.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-17T08:46:58+07:00",
+      "fetched": "2025-12-17T17:21:27.124196+07:00"
+    },
+    {
+      "id": "2c018f451f2cc383f3b6af6eefbc189b",
+      "title": "Bộ Xây dựng: Giá nhà ở tăng bình quân 10-15% mỗi năm",
+      "link": "https://vnexpress.net/bo-xay-dung-gia-nha-o-tang-binh-quan-10-15-moi-nam-4994992.html",
+      "summary": "Giá chung cư, liền kề, biệt thự và đất nền tăng bình quân khoảng 10-15% mỗi năm, cá biệt có giai đoạn lên tới 30%, theo Bộ Xây dựng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-17T08:43:26+07:00",
+      "fetched": "2025-12-17T17:21:21.206410+07:00"
+    },
+    {
+      "id": "35574508508408db9c64a47284aced74",
+      "title": "Trịnh Thu Vinh giành 4 HC vàng, phá 3 kỷ lục SEA Games",
+      "link": "https://vnexpress.net/trinh-thu-vinh-gianh-4-hc-vang-pha-3-ky-luc-sea-games-4994947.html",
+      "summary": "\"Người đẹp\" bắn súng Trịnh Thu Vinh trở thành VĐV Việt Nam giành nhiều HC vàng nhất tại SEA Games 33, sau cú đúp vô địch ngày 17/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-17T08:26:25+07:00",
+      "fetched": "2025-12-17T17:21:27.122246+07:00"
+    },
+    {
       "id": "ee48df6bea9e68cf864cf1c7fc91a783",
       "title": "Xử phạt karaoke gây ồn ào theo Nghị định 282: 'Luật mới gần dân hơn'",
       "link": "https://thanhnien.vn/xu-phat-karaoke-gay-on-ao-theo-nghi-dinh-282-luat-moi-gan-dan-hon-185251217132534109.htm",
@@ -981,6 +1511,16 @@ window.newsData_2025_12_17 = {
       "category": "Kinh doanh",
       "published": "2025-12-17T07:25:20+07:00",
       "fetched": "2025-12-17T15:26:40.146273+07:00"
+    },
+    {
+      "id": "671b198c12fd70e39b71c7ed8da327ab",
+      "title": "Bình chọn điện thoại concert được yêu thích nhất",
+      "link": "https://vnexpress.net/binh-chon-dien-thoai-concert-duoc-yeu-thich-nhat-4994275.html",
+      "summary": "Số bình chọn thứ 10 của Sản phẩm tôi yêu 2025 có chủ đề Điện thoại chụp, quay concert được yêu thích nhất, diễn ra ngày 17-26/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-17T07:21:45+07:00",
+      "fetched": "2025-12-17T17:21:25.173405+07:00"
     },
     {
       "id": "e659fcfd2a5804ae4f382c70a01a00df",
