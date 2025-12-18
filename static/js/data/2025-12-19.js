@@ -1,6 +1,6 @@
 window.newsData_2025_12_19 = {
   "date": "2025-12-19",
-  "lastUpdated": "2025-12-19T03:18:46.007466+07:00",
+  "lastUpdated": "2025-12-19T05:17:57.135397+07:00",
   "articles": [
     {
       "id": "af2883f503807124b8925c7a1f7fc959",
@@ -171,6 +171,166 @@ window.newsData_2025_12_19 = {
       "category": "Tổng hợp",
       "published": "2025-12-19T01:27:46.763760+07:00",
       "fetched": "2025-12-19T01:27:46.763977+07:00"
+    },
+    {
+      "id": "820204b0718a7794a09310b70594f63d",
+      "title": "Những công trình trọng điểm của VRG chào mừng Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/nhung-cong-trinh-trong-diem-cua-vrg-chao-mung-dai-hoi-xiv-cua-dang-185251218154508297.htm",
+      "summary": "Hướng tới Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, Đảng ủy Tập đoàn công nghiệp cao su Việt Nam (VRG) đã lãnh đạo, chỉ đạo triển khai nhiều công trình, dự án có quy mô lớn, ý nghĩa chiến lược và giá trị lan tỏa sâu rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:14:00+07:00",
+      "fetched": "2025-12-19T05:17:48.520738+07:00"
+    },
+    {
+      "id": "f2d318150fd7fcf83cbad499af8a3684",
+      "title": "Chiến sự Ukraine ngày 1.394: Ukraine nhắm mục tiêu ở Crimea, ông Zelensky nói thiếu tên lửa",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1394-ukraine-nham-muc-tieu-o-crimea-ong-zelensky-noi-thieu-ten-lua-185251218214811832.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 18.12 có chuyến công du đến Bỉ nhằm kêu gọi các đồng minh phương Tây tăng cường ủng hộ, trong bối cảnh giao tranh vẫn diễn ra căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:13:00+07:00",
+      "fetched": "2025-12-19T05:17:48.520905+07:00"
+    },
+    {
+      "id": "358e834705e344b0f9b3701bd15a8d47",
+      "title": "Bản tin sức khỏe 19.12: Nên uống cà phê thế nào cho đúng? | Triệu chứng đột quỵ ở nữ giới dễ bỏ qua",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-1912-nen-uong-ca-phe-the-nao-cho-dung-trieu-chung-dot-quy-o-nu-gioi-de-bo-qua-185251219010855138.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521063+07:00"
+    },
+    {
+      "id": "5c63e73e676bfda4bd301dd5206363ea",
+      "title": "Úc công bố dự luật mới sau thảm sát ở Sydney",
+      "link": "https://thanhnien.vn/uc-cong-bo-du-luat-moi-sau-tham-sat-o-sydney-185251218213158199.htm",
+      "summary": "Hôm qua, Thủ tướng Úc Anthony Albanese tuyên bố sẽ mở rộng luật về những phát ngôn mang tính hận thù và nhằm vào những người truyền bá tư tưởng thù ghét, trong nỗ lực đối phó chủ nghĩa bài Do Thái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521218+07:00"
+    },
+    {
+      "id": "08a57fb0a3a2b6e7c6c9d06c9b4ba67b",
+      "title": "Vụ trúng đấu giá nhưng 18 năm không thấy đất: Những người liên quan nói gì?",
+      "link": "https://thanhnien.vn/vu-trung-dau-gia-nhung-18-nam-khong-thay-dat-nhung-nguoi-lien-quan-noi-gi-185251218202047041.htm",
+      "summary": "Liên quan vụ trúng đấu giá đất, được cấp sổ đỏ nhưng thực địa lại 'không tồn tại' thửa đất, những cán bộ từng tham gia quá trình phân lô, đấu giá và cấp giấy chứng nhận quyền sử dụng đất đã lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521398+07:00"
+    },
+    {
+      "id": "2444faacce4ff8d71f9c9b029d7f280a",
+      "title": "Sau nhiều 'trắc trở', Bệnh viện Bạch Mai 2 đã sẵn sàng đón bệnh nhân",
+      "link": "https://thanhnien.vn/sau-nhieu-trac-tro-benh-vien-bach-mai-2-da-san-sang-don-benh-nhan-185251218193625749.htm",
+      "summary": "Hôm nay 19.12, Bệnh viện Bạch Mai cơ sở 2 tại Ninh Bình sẽ khánh thành. Bệnh viện sẽ phục vụ người dân, người bệnh ngay khi được Bộ Y tế cấp phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521561+07:00"
+    },
+    {
+      "id": "e3b0cc7e5b64b2f639df005542bb641a",
+      "title": "Thành công từ Metro số 1: Đòn bẩy cho mạng lưới đường sắt đô thị tương lai",
+      "link": "https://thanhnien.vn/thanh-cong-tu-metro-so-1-don-bay-cho-mang-luoi-duong-sat-do-thi-tuong-lai-185251218192647867.htm",
+      "summary": "Sau một năm vận hành với gần 19 triệu lượt khách, Tuyến Metro số 1 đã chứng minh sức hút mạnh mẽ, trở thành phương tiện đi lại thiết yếu của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521711+07:00"
+    },
+    {
+      "id": "abd70a097cababe6abc67c952408a162",
+      "title": "Dự án khu du lịch Vũng Tàu Paradise: Khi nào thu hồi được 220 ha đất vàng?",
+      "link": "https://thanhnien.vn/du-an-khu-du-lich-vung-tau-paradise-khi-nao-thu-hoi-duoc-220-ha-dat-vang-185251218144440371.htm",
+      "summary": "Được kỳ vọng trở thành tổ hợp du lịch - văn hóa - thể thao quy mô lớn nhất tại TP.Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ, nhưng đến nay dự án khu du lịch Vũng Tàu Paradise đang dần trở nên nhếch nhác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:48.521858+07:00"
+    },
+    {
+      "id": "57af827be5dfd4eedd889bda2cab254e",
+      "title": "'Chạy đua điên cuồng' lắp điện mặt trời tại Mỹ",
+      "link": "https://vnexpress.net/chay-dua-dien-cuong-lap-dien-mat-troi-tai-my-4995160.html",
+      "summary": "Nhiều hộ gia đình và doanh nghiệp Mỹ đang nỗ lực hoàn thành kế hoạch lắp điện mặt trời trước khi ưu đãi thuế hết hạn cuối 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-18T22:00:00+07:00",
+      "fetched": "2025-12-19T05:17:56.119270+07:00"
+    },
+    {
+      "id": "118b84c69ceb62a5d4e884ad66d804a5",
+      "title": "Nữ bệnh nhân 19 tuổi ở TP.HCM suýt mất mạng vì tự ý bỏ thuốc điều trị",
+      "link": "https://thanhnien.vn/nu-benh-nhan-19-tuoi-o-tphcm-suyt-mat-mang-vi-tu-y-bo-thuoc-dieu-tri-185251218181119572.htm",
+      "summary": "Tự ý bỏ thuốc điều trị trong thời gian dài, nữ bệnh nhân 19 tuổi ở TP.HCM nhập viện cấp cứu trong tình trạng nguy kịch, phải trải qua ca phẫu thuật phức tạp với nhiều nguy cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:52:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522010+07:00"
+    },
+    {
+      "id": "546007a6cff2eb99e4f4a90eab8cc1fe",
+      "title": "Bệnh viện Chợ Rẫy 'trả lại' gương mặt cho bệnh nhân bị u khủng làm biến dạng",
+      "link": "https://thanhnien.vn/benh-vien-cho-ray-tra-lai-guong-mat-cho-benh-nhan-bi-u-khung-lam-bien-dang-185251218202557544.htm",
+      "summary": "Bệnh viện Chợ Rẫy (TP.HCM) vừa phẫu thuật thành công cho nam bệnh nhân có khối u khủng gây biến dạng khuôn mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:45:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522161+07:00"
+    },
+    {
+      "id": "53b52c1406449faeab962a533ac61414",
+      "title": "TP.HCM: Phường Vũng Tàu yêu cầu tháo dỡ hàng rào tôn lấn chiếm vỉa hè Trần Phú",
+      "link": "https://thanhnien.vn/tphcm-phuong-vung-tau-yeu-cau-thao-do-hang-rao-ton-lan-chiem-via-he-tran-phu-185251218171817779.htm",
+      "summary": "Dù đã sửa chữa xong cổng rào nhưng chủ nhà vẫn không tháo dỡ công trình rào chắn, khiến vỉa hè đường Trần Phú, phường Vũng Tàu, TP.HCM trở nên nhếch nhác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:33:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522323+07:00"
+    },
+    {
+      "id": "0d1f72e3b6e03bad87a74e98df920a89",
+      "title": "Bài phát biểu giờ vàng của Tổng thống Trump",
+      "link": "https://thanhnien.vn/bai-phat-bieu-gio-vang-cua-tong-thong-trump-185251218212438155.htm",
+      "summary": "Trong thông điệp gửi đến toàn quốc vào khung giờ vàng, Tổng thống Mỹ Donald Trump bày tỏ lạc quan về triển vọng kinh tế sắp tới, đồng thời cho rằng chính quyền ông đóng nhiều vai trò \"khắc phục và sửa chữa\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:30:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522477+07:00"
+    },
+    {
+      "id": "e280550ac1125ff5c1fb7a3cbb312014",
+      "title": "Hỏa táng thú cưng: Ngày đầu vào Bình Hưng Hòa 'hơi sợ sợ'",
+      "link": "https://thanhnien.vn/hoa-tang-thu-cung-ngay-dau-vao-binh-hung-hoa-hoi-so-so-185251204110056746.htm",
+      "summary": "Trong suốt 7 năm làm nghề hỏa táng thú cưng, anh Quý bảo chưa từng từ chối một khách hàng nào. Nhưng ngày đầu vào Bình Hưng Hòa thì 'hơi sợ sợ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:30:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522623+07:00"
+    },
+    {
+      "id": "a6152862a2e08c97e8df919c24da6cde",
+      "title": "Sân bay Long Thành: Từ rừng cao su đến sân bay đẳng cấp quốc tế",
+      "link": "https://thanhnien.vn/san-bay-long-thanh-tu-rung-cao-su-den-san-bay-dang-cap-quoc-te-185251218175158271.htm",
+      "summary": "Sân bay Long Thành sau gần 5 năm thi công đạt chuẩn 4F ICAO, chuẩn bị đón chuyến bay đầu tiên, đánh dấu cột mốc quan trọng của dự án hạ tầng hàng không trọng điểm quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:20:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522768+07:00"
+    },
+    {
+      "id": "99e525d66b77584afb360de270514d8a",
+      "title": "Sử dụng đúng cách cao dán, dầu nóng để giảm đau mỏi cổ vai gáy",
+      "link": "https://thanhnien.vn/su-dung-dung-cach-cao-dan-dau-nong-de-giam-dau-moi-co-vai-gay-185251219005128469.htm",
+      "summary": "Cao dán, dầu nóng chỉ là biện pháp hỗ trợ để giảm đau mỏi cổ vai gáy, cần sử dụng đúng cách để tránh tổn thương cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:06:00+07:00",
+      "fetched": "2025-12-19T05:17:48.522910+07:00"
     },
     {
       "id": "654932352a1ca04a4039565d97f31b4a",
