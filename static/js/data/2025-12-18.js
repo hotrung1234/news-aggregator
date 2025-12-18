@@ -1,7 +1,157 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T19:37:58.942366+07:00",
+  "lastUpdated": "2025-12-18T21:20:04.143367+07:00",
   "articles": [
+    {
+      "id": "3b516b14eaaec91a8e170ff2c40c8af2",
+      "title": "Chúng ta không chỉ tiếp nhận tinh hoa mà còn đóng góp tinh hoa Việt Nam ra thế giới",
+      "link": "https://tuoitre.vn/chung-ta-khong-chi-tiep-nhan-tinh-hoa-ma-con-dong-gop-tinh-hoa-viet-nam-ra-the-gioi-20251218191144531.htm",
+      "summary": "Từ Dự án phim ngắn CJ, các đạo diễn Phạm Thiên Ân, Phạm Ngọc Lân, Dương Diệu Linh... đã thành công đưa phim Việt ra liên hoan phim uy tín quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.497219+07:00",
+      "fetched": "2025-12-18T21:19:57.497329+07:00"
+    },
+    {
+      "id": "8f931a30bfec76d810d38fcde9b5c8f0",
+      "title": "TP.HCM cho 42 công ty thí điểm nhận đất nông nghiệp làm nhà ở thương mại",
+      "link": "https://tuoitre.vn/tp-hcm-cho-42-cong-ty-thi-diem-nhan-dat-nong-nghiep-lam-nha-o-thuong-mai-20251218184412448.htm",
+      "summary": "UBND TP.HCM vừa thông báo cho phép 42 công ty thí điểm thỏa thuận nhận đất nông nghiệp làm nhà ở thương mại tại 42 khu đất (không nhất thiết có 100% đất ở như quy định pháp luật hiện hành).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.497096+07:00",
+      "fetched": "2025-12-18T21:19:57.497208+07:00"
+    },
+    {
+      "id": "0db548efe199ae564d3dbc885f8a8df6",
+      "title": "Cảnh sát giao thông Đà Nẵng dùng xe đặc chủng chở học sinh bị rắn cắn đi cấp cứu kịp thời",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-da-nang-dung-xe-dac-chung-cho-hoc-sinh-bi-ran-can-di-cap-cuu-kip-thoi-20251218191617595.htm",
+      "summary": "Đang làm nhiệm vụ, thấy giáo viên bồng học sinh bị rắn cắn, cảnh sát giao thông Đà Nẵng lập tức dùng xe đặc chủng chở cháu bé đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496967+07:00",
+      "fetched": "2025-12-18T21:19:57.497085+07:00"
+    },
+    {
+      "id": "f8cddbd6a7b26c4ecd8912d8f99d346f",
+      "title": "Manulife chung tay hơn 1 tỉ đồng, hỗ trợ đồng bào miền Trung - Tây Nguyên khắc phục sau đợt bão lũ",
+      "link": "https://tuoitre.vn/manulife-chung-tay-hon-1-ti-dong-ho-tro-dong-bao-mien-trung-tay-nguyen-khac-phuc-sau-dot-bao-lu-20251218183351962.htm",
+      "summary": "Khoản đóng góp hơn 1 tỉ đồng đến từ đội ngũ nhân viên, đại lý và Tập đoàn Manulife, nhằm hỗ trợ phần nào cho người dân miền Trung - Tây Nguyên khắc phục hậu quả trong đợt lũ lớn diễn ra gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496837+07:00",
+      "fetched": "2025-12-18T21:19:57.496955+07:00"
+    },
+    {
+      "id": "775a0d4504628551a16a5b5dfa21aca8",
+      "title": "Xem hành trình sáng tạo phi thường của danh họa Tô Ngọc Vân",
+      "link": "https://tuoitre.vn/xem-hanh-trinh-sang-tao-phi-thuong-cua-danh-hoa-to-ngoc-van-20251218184710073.htm",
+      "summary": "Người yêu mỹ thuật và giới nghiên cứu được dịp nhìn lại hành trình sáng tạo phi thường của danh họa Tô Ngọc Vân, từ họa sĩ lãng mạn trở thành chiến sĩ cầm bút, người hiến dâng trọn vẹn cuộc đời cho nghệ thuật và Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496703+07:00",
+      "fetched": "2025-12-18T21:19:57.496825+07:00"
+    },
+    {
+      "id": "ebf6e49f9b5a9d32ab3b4f9830fcad15",
+      "title": "Soobin nói ‘văn hóa Việt Nam không khó tiếp cận, nếu tìm hiểu sẽ thấy đáng tự hào’",
+      "link": "https://tuoitre.vn/soobin-noi-van-hoa-viet-nam-khong-kho-tiep-can-neu-tim-hieu-se-thay-dang-tu-hao-2025121819055453.htm",
+      "summary": "Soobin cho rằng ‘văn hóa Việt Nam không hề xa xôi hay khó tiếp cận nếu ta dành thời gian lắng nghe và tìm hiểu, sẽ thấy trong đó có rất nhiều điều đẹp đẽ, thú vị và đáng tự hào’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496563+07:00",
+      "fetched": "2025-12-18T21:19:57.496690+07:00"
+    },
+    {
+      "id": "ba430208d3187263a9791d1a47610328",
+      "title": "Tài sản gia đình chủ tịch Hoá chất Đức Giang ‘bốc hơi’ 2.800 tỉ đồng sau 3 phiên giảm sàn",
+      "link": "https://tuoitre.vn/tai-san-gia-dinh-chu-tich-hoa-chat-duc-giang-boc-hoi-2-800-ti-dong-sau-3-phien-giam-san-20251218185704892.htm",
+      "summary": "Gia đình ông Đào Hữu Huyền – Chủ tịch Hoá chất Đức Giang nắm giữ khoảng 154,7 triệu cổ phiếu DGC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496439+07:00",
+      "fetched": "2025-12-18T21:19:57.496551+07:00"
+    },
+    {
+      "id": "a269633ad2f1ab6ccdf14f9b84757796",
+      "title": "Ông Phạm Thái Hà rút kháng cáo nhưng vợ ông vẫn đến tòa xin giảm án cho chồng",
+      "link": "https://tuoitre.vn/ong-pham-thai-ha-rut-khang-cao-nhung-vo-ong-van-den-toa-xin-giam-an-cho-chong-20251218191421238.htm",
+      "summary": "Trước khi phiên tòa phúc thẩm được mở, ông Phạm Thái Hà, cựu Phó chủ nhiệm Văn phòng Quốc hội kiêm trợ lý của cựu Chủ tịch Quốc hội, đã rút đơn kháng cáo, chấp nhận bản án 5 năm 6 tháng tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496314+07:00",
+      "fetched": "2025-12-18T21:19:57.496428+07:00"
+    },
+    {
+      "id": "f68124067a39f969fdba4bd03b6601af",
+      "title": "Tuyển nữ Việt Nam ngẩng cao đầu về nước",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-ngang-cao-dau-ve-nuoc-20251218192715502.htm",
+      "summary": "Tối 18-12, tuyển nữ Việt Nam trở về nước, kết thúc hành trình đẹp tại SEA Games 33 với tấm HCB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496189+07:00",
+      "fetched": "2025-12-18T21:19:57.496303+07:00"
+    },
+    {
+      "id": "f671bbd71f5b10359f2a43286a2f3a9d",
+      "title": "Báo Tuổi Trẻ năm thứ 2 liên tiếp đạt mức xuất sắc chuyển đổi số",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-nam-thu-2-lien-tiep-dat-muc-xuat-sac-chuyen-doi-so-20251218192931219.htm",
+      "summary": "Theo công bố của Bộ Văn hóa, Thể thao và Du lịch, năm 2025 Báo Tuổi Trẻ tiếp tục là 1 trong 33 cơ quan báo chí đạt mức xuất sắc trong chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.496060+07:00",
+      "fetched": "2025-12-18T21:19:57.496177+07:00"
+    },
+    {
+      "id": "61b3efbe14be11463e42b6b30d31b5d9",
+      "title": "TP.HCM: sẽ có thêm nhiều công viên, quyết tâm tăng mảng xanh cho người dân",
+      "link": "https://tuoitre.vn/tp-hcm-se-co-them-nhieu-cong-vien-quyet-tam-tang-mang-xanh-cho-nguoi-dan-20251218175923189.htm",
+      "summary": "Sẽ rà soát lại Đề án Phát triển công viên và cây xanh giai đoạn 2021-2030 để tiến hành bổ sung chương trình hành động, phân vai cụ thể,  phân bổ ngân sách... với quyết tâm tăng mạnh mảng xanh cho người dân trên địa bàn TP.HCM trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.495919+07:00",
+      "fetched": "2025-12-18T21:19:57.496045+07:00"
+    },
+    {
+      "id": "667904e838ff9290b51191a714406e75",
+      "title": "'Hyundai Santa Fe Hybrid bớt bồng bềnh, nhưng đừng kỳ vọng quá nhiều về tiết kiệm nhiên liệu'",
+      "link": "https://tuoitre.vn/hyundai-santa-fe-hybrid-bot-bong-benh-nhung-dung-ky-vong-qua-nhieu-ve-tiet-kiem-nhien-lieu-20251218174355926.htm",
+      "summary": "Trải nghiệm thực tế chiếc xe sẽ trả lời cho câu hỏi: \"Có nên mua xe Hyundai Santa Fe Hybrid không?\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.495789+07:00",
+      "fetched": "2025-12-18T21:19:57.495907+07:00"
+    },
+    {
+      "id": "49f8916cdfb39f1323195814bf6c72ec",
+      "title": "Sau cơn sốt Baby Three và Labubu, nhà sản xuất Trung Quốc đem gì đến triển lãm quốc tế đồ chơi?",
+      "link": "https://tuoitre.vn/sau-con-sot-baby-three-va-labubu-nha-san-xuat-trung-quoc-dem-gi-den-trien-lam-quoc-te-do-choi-20251218195246924.htm",
+      "summary": "Hầu hết các \"anh tài\" của ngành sản xuất đồ chơi của Trung Quốc đều có mặt tại Triển lãm quốc tế sản phẩm và đồ chơi trẻ em Việt Nam 2025 (IBTE 2025) đang diễn ra ở TPHCM và kéo dài đến ngày 20-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.495635+07:00",
+      "fetched": "2025-12-18T21:19:57.495775+07:00"
+    },
+    {
+      "id": "2a9b79cfcaaf7000d99fff80e22f3888",
+      "title": "Mang âm nhạc đến với hơn 300 người bệnh, cán bộ, chiến sĩ tại Bệnh viện Quân y 175",
+      "link": "https://tuoitre.vn/mang-am-nhac-den-voi-hon-300-nguoi-benh-can-bo-chien-si-tai-benh-vien-quan-y-175-20251218183726575.htm",
+      "summary": "Chiều 18-12, tại sảnh bệnh viện đa khoa 1.000 giường thuộc Bệnh viện Quân y 175 (Bộ Quốc phòng) đã tổ chức chương trình âm nhạc định kỳ \"Giai điệu kết nối yêu thương\" số thứ 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.495495+07:00",
+      "fetched": "2025-12-18T21:19:57.495622+07:00"
+    },
+    {
+      "id": "893df343e5bf3fcb13580c67936f8555",
+      "title": "Lý Hoàng Nam sẽ dự giải pickleball có 1.000 vận động viên tại Đà Lạt",
+      "link": "https://tuoitre.vn/ly-hoang-nam-se-du-giai-pickleball-co-1-000-van-dong-vien-tai-da-lat-20251218185806904.htm",
+      "summary": "Tay vợt Lý Hoàng Nam sẽ  tham dự Giải pickleball Lâm Đồng mở rộng có khoảng 1.000 vận động viên tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T21:19:57.495267+07:00",
+      "fetched": "2025-12-18T21:19:57.495480+07:00"
+    },
     {
       "id": "dc8a36f9b41f3d51abfa68085ee7a6b0",
       "title": "12 đội bóng đá tham gia Giải bóng đá thiếu niên quốc tế U13 Việt Nam - Nhật Bản",
@@ -453,6 +603,76 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T15:26:14.838287+07:00"
     },
     {
+      "id": "92ab7cf2e6dd23c0c87dc5898de2587a",
+      "title": "‘Avatar 3’ chưa ra rạp đã thu hàng chục tỉ đồng tại phòng vé Việt",
+      "link": "https://thanhnien.vn/avatar-3-chua-ra-rap-da-thu-hang-chuc-ti-dong-tai-phong-ve-viet-185251218194611442.htm",
+      "summary": "Trước khi chính thức ra rạp, 'Avatar: Fire and Ash' đã gây sốt tại Việt Nam với doanh thu hơn 29 tỉ đồng từ vé đặt trước và suất chiếu sớm. Bên cạnh đó, bom tấn của James Cameron còn bất ngờ được đề cử Quả cầu vàng 2026, khẳng định sức hút toàn cầu của loạt phim đình đám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T14:19:00+07:00",
+      "fetched": "2025-12-18T21:19:56.073971+07:00"
+    },
+    {
+      "id": "e47177d505d1cf47a7bb3192432eadb1",
+      "title": "Nữ diễn viên từng làm tiếp viên hàng không tái xuất màn ảnh",
+      "link": "https://thanhnien.vn/nu-dien-vien-tung-lam-tiep-vien-hang-khong-tai-xuat-man-anh-185251218200620631.htm",
+      "summary": "Diễn viên Mai Huê là một trong những gương mặt từng để lại dấu ấn đặc biệt trên màn ảnh Việt cuối thập niên 1990 - đầu 2000. Sau hơn 2 thập kỷ, chị tái xuất trên sóng phim giờ vàng trong 'Cách em 1 milimet'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T14:15:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074141+07:00"
+    },
+    {
+      "id": "475c02ed5ea2e217d030e4fb2733f8b7",
+      "title": "Sáng mai, Sungroup khởi công 'siêu dự án' thứ 2 tại TP.HCM",
+      "link": "https://thanhnien.vn/sang-mai-sungroup-khoi-cong-sieu-du-an-thu-2-tai-tphcm-185251218203636312.htm",
+      "summary": "Ngày mai (19.12), UBND TP.HCM sẽ phối hợp với Tập đoàn Sun Group sẽ tổ chức Lễ khởi động Tố hợp dự án tại phường Tây Nam và Phú An quy mô 724 ha, tổng mức đầu tư 51.160 tỉ đồng. Dự án gồm ba khu đô thị hiện đại (Đông An Tây, Bắc An Tây, Tây An Tây) và Cảng Tổng hợp An Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:58:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074302+07:00"
+    },
+    {
+      "id": "d59ce0616ba2b92890580dbac71e541d",
+      "title": "Thu hồi trên toàn quốc lô mỹ phẩm vi phạm chất lượng",
+      "link": "https://thanhnien.vn/thu-hoi-tren-toan-quoc-lo-my-pham-vi-pham-chat-luong-185251218203356483.htm",
+      "summary": "Cục Quản lý dược thông báo đình chỉ lưu hành, thu hồi trên toàn quốc lô sản phẩm Nước tắm gội trẻ em Amibebe Pro, hộp 1 chai 400 ml, số lô 031124. Mẫu mỹ phẩm kiểm tra chất lượng lấy tại nhà thuốc Bệnh viện Sản nhi tỉnh Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:52:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074456+07:00"
+    },
+    {
+      "id": "4dd1366c7481c349c8235e6df77e4675",
+      "title": "Lễ trao giải Oscar sẽ phát sóng miễn phí trên YouTube",
+      "link": "https://thanhnien.vn/le-trao-giai-oscar-se-phat-song-mien-phi-tren-youtube-185251218204618164.htm",
+      "summary": "Lễ trao giải Oscar sẽ không còn phát sóng trên Đài ABC của Mỹ, thay vào đó phát trực tuyến miễn phí trên YouTube từ năm 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:50:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074608+07:00"
+    },
+    {
+      "id": "fe61b6d3af29a9f03f834e2bc21a35c7",
+      "title": "Acecook Việt Nam 3 năm liên tiếp được vinh danh \nTop 100 Doanh nghiệp Bền vững",
+      "link": "https://thanhnien.vn/acecook-viet-nam-3-nam-lien-tiep-duoc-vinh-danh-top-100-doanh-nghiep-ben-vung-185251218205004416.htm",
+      "summary": "Acecook Việt Nam vừa vinh dự nhận giải Top 100 Doanh nghiệp Bền vững năm 2025, đánh dấu 3 năm liên tiếp có mặt trong bảng xếp hạng uy tín này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:44:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074780+07:00"
+    },
+    {
+      "id": "182dad9b72f4abb056b47a38a5c171c9",
+      "title": "Vĩnh Long: 'Nghĩa tình Duyên Hải' trao 1,54 tỉ đồng an sinh xã hội",
+      "link": "https://thanhnien.vn/vinh-long-nghia-tinh-duyen-hai-trao-154-ti-dong-an-sinh-xa-hoi-185251218190951759.htm",
+      "summary": "Chương trình \"Nghĩa tình Duyên Hải\" năm 2025 đã trao tặng 20 căn nhà Đại đoàn kết và hàng trăm suất quà, học bổng với tổng trị giá hơn 1,5 tỉ đồng cho người dân Vĩnh Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:34:00+07:00",
+      "fetched": "2025-12-18T21:19:56.074933+07:00"
+    },
+    {
       "id": "8ff7f71e763b988c6ab691c7f05c4e25",
       "title": "Mai Tài Phến lam lũ trong phim Tài do Mỹ Tâm sản xuất",
       "link": "https://tuoitre.vn/mai-tai-phen-lam-lu-trong-phim-tai-do-my-tam-san-xuat-2025121810504024.htm",
@@ -603,6 +823,176 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T13:28:36.254059+07:00"
     },
     {
+      "id": "6ad343ca1b229e58cccb903e8ec158cf",
+      "title": "Trì hoãn bản cập nhật sau bao lâu là ổn với smartphone?",
+      "link": "https://thanhnien.vn/tri-hoan-ban-cap-nhat-sau-bao-lau-la-on-voi-smartphone-185251218151353876.htm",
+      "summary": "Trong thời đại công nghệ hiện đại, việc cập nhật hệ điều hành và ứng dụng trên smartphone là một vấn đề được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:27:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075086+07:00"
+    },
+    {
+      "id": "2f0ef66de1983bf6174aeaf287da8310",
+      "title": "Cà Mau: Thi công cầu Huỳnh Thúc Kháng gây lo ngại an toàn giao thông giờ cao điểm",
+      "link": "https://thanhnien.vn/ca-mau-thi-cong-cau-huynh-thuc-khang-gay-lo-ngai-an-toan-giao-thong-gio-cao-diem-185251218170408771.htm",
+      "summary": "Việc thi công mở rộng, sửa chữa cầu Huỳnh Thúc Kháng (Cà Mau), tuyến giao thông độc đạo qua khu vực Bệnh viện đa khoa Cà Mau, khiến người dân bức xúc khi một số hạng mục chưa đảm bảo an toàn, tiềm ẩn nguy cơ tai nạn, nhất là vào giờ cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:26:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075251+07:00"
+    },
+    {
+      "id": "02276d8cc436f3f9e86077943e504287",
+      "title": "Ông Trump khoe thành tựu khi tỷ lệ ủng hộ giảm sút",
+      "link": "https://thanhnien.vn/ong-trump-khoe-thanh-tuu-khi-ty-le-ung-ho-giam-sut-185251218181324603.htm",
+      "summary": "Trong một bài phát biểu hiếm hoi vào buổi tối từ Nhà Trắng, Tổng thống Mỹ Donald Trump hôm 17.12 ca ngợi những thành tựu của mình và đổ lỗi cho người tiền nhiệm thuộc đảng Dân chủ về giá cả tiêu dùng tăng vọt, khi nước Mỹ chuẩn bị bước vào cuộc bầu cử giữa nhiệm kỳ khó khăn vào năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:19:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075407+07:00"
+    },
+    {
+      "id": "ae1187ccf3ce88b5b35d7a2d067680bd",
+      "title": "Sun Group đầu tư hơn 4.600 tỷ cải tạo cảnh quan sông Tô Lịch",
+      "link": "https://vnexpress.net/sun-group-dau-tu-hon-4-600-ty-cai-tao-canh-quan-song-to-lich-4995567.html",
+      "summary": "UBND Hà Nội và Tập đoàn Sun Group sẽ khởi công dự án cải tạo, chỉnh trang và tái thiết công viên tuyến hai bên sông Tô Lịch, vốn 4.665 tỷ đồng, ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:15:00+07:00",
+      "fetched": "2025-12-18T21:19:52.761731+07:00"
+    },
+    {
+      "id": "ae1187ccf3ce88b5b35d7a2d067680bd",
+      "title": "Sun Group đầu tư hơn 4.600 tỷ cải tạo cảnh quan sông Tô Lịch",
+      "link": "https://vnexpress.net/sun-group-dau-tu-hon-4-600-ty-cai-tao-canh-quan-song-to-lich-4995567.html",
+      "summary": "UBND Hà Nội và Tập đoàn Sun Group sẽ khởi công dự án cải tạo, chỉnh trang và tái thiết công viên tuyến hai bên sông Tô Lịch, vốn 4.665 tỷ đồng, ngày 19/12.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-18T13:15:00+07:00",
+      "fetched": "2025-12-18T21:20:00.612616+07:00"
+    },
+    {
+      "id": "73fd9b3946dbef317b02507f84d69d5a",
+      "title": "Lỗ hổng tiệm bánh mì '10 triệu tiền vốn, thu 60 triệu lãi'",
+      "link": "https://vnexpress.net/lo-hong-tiem-banh-mi-10-trieu-tien-von-thu-60-trieu-lai-4995503.html",
+      "summary": "Nếu 'dễ ăn', lãi khủng như vậy thì nhà nhà, người người đổ đi bán bánh mì từ lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.761916+07:00"
+    },
+    {
+      "id": "8e8f06b9f94fb51c3802cf2a3c3f6359",
+      "title": "Nuôi bạn trai thành tài, giờ anh xấu hổ khi tôi làm công nhân",
+      "link": "https://vnexpress.net/lam-cong-nhan-nuoi-ban-trai-an-hoc-khi-thanh-dat-anh-xau-ho-vi-than-phan-cua-toi-va-choi-bo-cai-thai-4994993.html",
+      "summary": "Sau khi anh dọn ra riêng, không sống cùng tôi, tôi lại phát hiện mình mang thai; gọi cho anh, anh bảo chắc gì là con anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.762092+07:00"
+    },
+    {
+      "id": "10109f4641caf0988b9b83ad3e88c9a1",
+      "title": "Sun Group khởi công loạt dự án gần 150.000 tỷ đồng",
+      "link": "https://vnexpress.net/sun-group-khoi-cong-loat-du-an-gan-150-000-ty-dong-4995563.html",
+      "summary": "Tổ hợp nghỉ dưỡng 51.000 tỷ đồng tại Vân Đồng, tuyến tàu điện đô thị Phú Quốc 9.000 tỷ đồng cùng nhiều công trình trọng điểm được Sun Group đồng loạt khởi công ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.762256+07:00"
+    },
+    {
+      "id": "128d1bab019878a1ab9328d7adbeb03e",
+      "title": "Giải pháp vật liệu xây dựng công trình điện gió trên bờ",
+      "link": "https://vnexpress.net/giai-phap-vat-lieu-xay-dung-cong-trinh-dien-gio-tren-bo-4988609.html",
+      "summary": "Sika cung cấp giải pháp vật liệu cho công trình điện gió trên bờ, giúp nâng cao hiệu suất và độ bền kết cấu, góp phần hướng tới an ninh năng lượng và tăng trưởng xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.762486+07:00"
+    },
+    {
+      "id": "b53c1095c754bd30f7e57fb2fda2a761",
+      "title": "Xem nhanh 20h ngày 18.12: AFC sẽ xử phạt trọng tài người Lào? | Trúng đấu giá 18 năm nhưng không thấy đất",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1812-afc-se-xu-phat-trong-tai-nguoi-lao-trung-dau-gia-18-nam-nhung-khong-thay-dat-185251218195132115.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 18.12 có nhiều tin tức đáng chú ý về: Kỳ lạ vụ trúng đấu giá 18 năm nhưng tìm không thấy đất; 'Tước trắng' bàn thắng đội nữ Việt Nam: AFC sẽ phạt nặng trợ lý trọng tài;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:00:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075566+07:00"
+    },
+    {
+      "id": "475932f5fa7bfd875cc506e7ef7f5e64",
+      "title": "Kết quả xổ số Power 6/55 Vietlott tối 18.12, gần 111 tỉ đồng chờ người trúng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-power-6-55-vietlott-toi-1812-gan-111-ti-dong-cho-nguoi-trung-185251218191735173.htm",
+      "summary": "Tối 18.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn tăng gần 111 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:59:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075738+07:00"
+    },
+    {
+      "id": "6ef4782c74d41c4bcef16de347d813c2",
+      "title": "Nhiều dự án 'treo' sổ hồng hơn 20 năm mới được cấp sổ",
+      "link": "https://thanhnien.vn/nhieu-du-an-treo-so-hong-hon-20-nam-moi-duoc-cap-so-185251218170732071.htm",
+      "summary": "Nhiều dự án treo sổ hồng hơn 20 năm, đến nay mới được Tổ Công tác 1645 họp đồng ý cấp sổ cho người mua nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:47:00+07:00",
+      "fetched": "2025-12-18T21:19:56.075888+07:00"
+    },
+    {
+      "id": "40a5a1251a71c7796ea141ea9ca40d0a",
+      "title": "Tình hình sức khỏe NSƯT Phi Điểu sau khi nhập viện cấp cứu",
+      "link": "https://thanhnien.vn/tinh-hinh-suc-khoe-nsut-phi-dieu-sau-khi-nhap-vien-cap-cuu-185251218193428374.htm",
+      "summary": "Sau khi nhập viện cấp cứu, NSƯT Phi Điểu cho biết hiện tình hình sức khỏe đã dần ổn định...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:46:00+07:00",
+      "fetched": "2025-12-18T21:19:56.076037+07:00"
+    },
+    {
+      "id": "8bb8f8c2c9fb6ff252f05b1d5551aa8d",
+      "title": "Chàng trai 29 tuổi xông pha cứu người trong lũ dữ truyền cảm hứng 'sống đẹp'",
+      "link": "https://thanhnien.vn/chang-trai-29-tuoi-xong-pha-cuu-nguoi-trong-lu-du-truyen-cam-hung-song-dep-185251218170111525.htm",
+      "summary": "Tại lễ tổng kết và trao giải cuộc thi 'Sống đẹp' mùa 5 do Báo Thanh Niên tổ chức, câu chuyện lao vào tâm lũ cứu người suốt 4 ngày 3 đêm của anh Nguyễn Văn Minh đã để lại xúc động mạnh mẽ, góp phần lan tỏa thông điệp về lòng nhân ái, tinh thần dấn thân và trách nhiệm với cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:38:00+07:00",
+      "fetched": "2025-12-18T21:19:56.076190+07:00"
+    },
+    {
+      "id": "ab5b28ca954a322905d260dfc0bb1344",
+      "title": "MV 'Chân cứng đá mềm' cổ vũ thể thao Việt Nam",
+      "link": "https://vnexpress.net/mv-chan-cung-da-mem-co-vu-the-thao-viet-nam-4995048.html",
+      "summary": "Cầu thủ Đoàn Văn Hậu và nhiều vận động viên góp mặt trong video nhạc của DTAP, cổ vũ tinh thần thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:37:21+07:00",
+      "fetched": "2025-12-18T21:19:52.762670+07:00"
+    },
+    {
+      "id": "19fb9bc92f91a18b6a01e8ba34851fee",
+      "title": "Sở Giáo dục TP HCM: Không để học sinh bị 'ra rìa' nếu không học liên kết",
+      "link": "https://vnexpress.net/so-giao-duc-tp-hcm-khong-de-hoc-sinh-bi-ra-ria-neu-khong-hoc-lien-ket-4995528.html",
+      "summary": "Sở Giáo dục khẳng định không phải nội dung nào trường cũng được liên kết để thu tiền phụ huynh, cấm để học sinh \"bị cho ra rìa\" nếu không đăng ký.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:32:19+07:00",
+      "fetched": "2025-12-18T21:19:52.762860+07:00"
+    },
+    {
+      "id": "70f0f79a7816d06ffb92aa911ad1228e",
+      "title": "Chicilon Digital Media dừng khai thác kênh truyền thông sân bay",
+      "link": "https://vnexpress.net/chicilon-digital-media-dung-khai-thac-kenh-truyen-thong-san-bay-4995555.html",
+      "summary": "Chicilon Digital Media ngừng cung cấp kênh truyền thông sân bay, tái phân bổ nguồn lực sang quảng cáo ngoài trời kỹ thuật số ứng dụng 4G, NFC và AI, nhằm nâng cao khả năng đo lường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:30:00+07:00",
+      "fetched": "2025-12-18T21:19:52.763027+07:00"
+    },
+    {
       "id": "8acaf40b9b050979b4ab4146f4a4cd64",
       "title": "Đoạn tường hoàng thành bị sập do mưa lũ: TP.Huế chi 2,2 tỉ đồng khắc phục",
       "link": "https://thanhnien.vn/doan-tuong-hoang-thanh-bi-sap-do-mua-lu-tphue-chi-22-ti-dong-khac-phuc-185251218182442665.htm",
@@ -611,6 +1001,36 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T12:27:00+07:00",
       "fetched": "2025-12-18T19:37:48.350108+07:00"
+    },
+    {
+      "id": "56d5b7250b23da9e81a36c638fe71feb",
+      "title": "Liên đoàn bóng đá châu Á xin lỗi tuyển nữ Việt Nam",
+      "link": "https://vnexpress.net/lien-doan-bong-da-chau-a-xin-loi-tuyen-nu-viet-nam-4995556.html",
+      "summary": "Liên đoàn bóng đá châu Á (AFC) lấy làm tiếc khi Việt Nam bị trọng tài tước bàn thắng hợp lệ, dẫn đến trận thua Philippines ở chung kết bóng đá nữ SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:22:34+07:00",
+      "fetched": "2025-12-18T21:19:52.763187+07:00"
+    },
+    {
+      "id": "56d5b7250b23da9e81a36c638fe71feb",
+      "title": "Liên đoàn bóng đá châu Á xin lỗi tuyển nữ Việt Nam",
+      "link": "https://vnexpress.net/lien-doan-bong-da-chau-a-xin-loi-tuyen-nu-viet-nam-4995556.html",
+      "summary": "Liên đoàn bóng đá châu Á (AFC) lấy làm tiếc khi Việt Nam bị trọng tài tước bàn thắng hợp lệ, dẫn đến trận thua Philippines ở chung kết bóng đá nữ SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T12:22:34+07:00",
+      "fetched": "2025-12-18T21:20:04.130434+07:00"
+    },
+    {
+      "id": "50d8f706f739e285e231bc8958c107cc",
+      "title": "Việt Nam vào top 4 nước có mức độ sẵn sàng tự chăm sóc sức khỏe",
+      "link": "https://vnexpress.net/viet-nam-vao-top-4-nuoc-co-muc-do-san-sang-tu-cham-soc-suc-khoe-4995524.html",
+      "summary": "Đạt 3,04 trên thang điểm 4, Việt Nam xếp thứ 4 trong 10 quốc gia được khảo sát về mức độ sẵn sàng tự chăm sóc sức khỏe, đứng sau Singapore, Australia và Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:22:23+07:00",
+      "fetched": "2025-12-18T21:19:52.763346+07:00"
     },
     {
       "id": "e1023255016a3b49da279f57fdfe25fe",
@@ -671,6 +1091,56 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T12:01:00+07:00",
       "fetched": "2025-12-18T19:37:48.351089+07:00"
+    },
+    {
+      "id": "323971820e8fc4328e973b5454243b1d",
+      "title": "Ăn mật ong điên quá liều sẽ ra sao?",
+      "link": "https://vnexpress.net/an-mat-ong-dien-qua-lieu-se-ra-sao-4994619.html",
+      "summary": "Mật ong điên được xem là thực phẩm quý và khó khai thác, song người dùng chỉ nên tiêu thụ lượng nhỏ để tránh các biến chứng với cơ thể do quá liều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:00:14+07:00",
+      "fetched": "2025-12-18T21:19:52.763510+07:00"
+    },
+    {
+      "id": "d06adaf59aa1bb5353e908bda835ab68",
+      "title": "Cô gái có chí cầu tiến và ham học hỏi tìm bạn đời",
+      "link": "https://vnexpress.net/co-gai-co-chi-cau-tien-va-ham-hoc-hoi-tim-ban-doi-4994363.html",
+      "summary": "Mình tin khi hai người cùng tần số và đủ rõ về bản thân, tương lai tốt đẹp sẽ đến tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.763609+07:00"
+    },
+    {
+      "id": "9d567a98eb3fa44d93accdee5a622773",
+      "title": "Trẻ bị dị ứng sữa bò có tiêm được vaccine không?",
+      "link": "https://vnexpress.net/tre-bi-di-ung-sua-bo-co-tiem-duoc-vaccine-khong-4995535.html",
+      "summary": "Con tôi 2 tuổi bị dị ứng với sữa bò, có tiêm được vaccine và có cần lưu ý gì khi đi tiêm không? (Bích Huệ, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.763784+07:00"
+    },
+    {
+      "id": "c75645b3e24b80acb801064a3593e552",
+      "title": "Dàn nghệ sĩ dự sự kiện ra mắt nền tảng truyền thông 'Sống đẹp'",
+      "link": "https://vnexpress.net/dan-nghe-si-du-su-kien-ra-mat-nen-tang-truyen-thong-song-dep-4995411.html",
+      "summary": "Phan Mạnh Quỳnh, Vũ Cát Tường, Anh Tú, LyLy, Dương Domic, LyHan và MaiQuinn góp mặt tại sự kiện ra mắt chiến lược truyền thông \"Sống đẹp\" của PNJ, ngày 14/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.763946+07:00"
+    },
+    {
+      "id": "0b067cd29d0beb37e6c6685e3d9daac8",
+      "title": "Jollibee Việt Nam khai trương 15 cửa hàng trong tháng 12",
+      "link": "https://vnexpress.net/jollibee-viet-nam-khai-truong-15-cua-hang-trong-thang-12-4994964.html",
+      "summary": "Jollibee Việt Nam khai trương đồng loạt 15 cửa hàng từ Bắc vào Nam, nâng tổng số lên 245 cửa hàng nhân dịp kỷ niệm 20 năm thành lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:00:00+07:00",
+      "fetched": "2025-12-18T21:19:52.764098+07:00"
     },
     {
       "id": "a54385dbe6cab456f1405f1e46ece55f",
@@ -3051,6 +3521,16 @@ window.newsData_2025_12_18 = {
       "category": "Thể thao",
       "published": "2025-12-18T02:49:11+07:00",
       "fetched": "2025-12-18T10:19:01.917608+07:00"
+    },
+    {
+      "id": "8e39fddd35698ea75d638479e3446def",
+      "title": "SEA Games ngày 18/12: Việt Nam vượt mốc 70 HC vàng",
+      "link": "https://vnexpress.net/sea-games-ngay-18-12-tam-diem-chung-ket-viet-nam-thai-lan-4995270-tong-thuat.html",
+      "summary": "Chiến thắng lịch sử của cầu mây nam, futsal nữ cùng thành công ở các môn vật, triathlon, đua thuyền giúp Việt Nam có thêm 8 HC vàng hôm nay, qua đó vượt mốc 70 chiếc từ đầu đại hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T02:49:11+07:00",
+      "fetched": "2025-12-18T21:20:04.132751+07:00"
     },
     {
       "id": "94cfdeb08426a125b29cafa99ce6888d",
