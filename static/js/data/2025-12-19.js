@@ -1,7 +1,27 @@
 window.newsData_2025_12_19 = {
   "date": "2025-12-19",
-  "lastUpdated": "2025-12-19T01:27:54.423249+07:00",
+  "lastUpdated": "2025-12-19T03:18:46.007466+07:00",
   "articles": [
+    {
+      "id": "af2883f503807124b8925c7a1f7fc959",
+      "title": "Lịch thi đấu ngày 19-12 của đoàn thể thao Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-ngay-19-12-cua-doan-the-thao-viet-nam-tai-sea-games-33-20251218205606767.htm",
+      "summary": "Hôm nay (19-12) là ngày thi đấu áp chót của SEA Games 33, cũng là ngày thi đấu cuối cùng của hầu hết các môn thể thao tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T03:18:38.873869+07:00",
+      "fetched": "2025-12-19T03:18:38.873982+07:00"
+    },
+    {
+      "id": "6117d3e9333cf0c08b12158d7e8a74ea",
+      "title": "HLV U22 Thái Lan xin lỗi, lo ngại có thể bị sa thải vì thất bại cay đắng trước U22 Việt Nam",
+      "link": "https://tuoitre.vn/hlv-u22-thai-lan-xin-loi-lo-ngai-co-the-bi-sa-thai-vi-that-bai-cay-dang-truoc-u22-viet-nam-20251219011049466.htm",
+      "summary": "HLV trưởng U22 Thái Lan, ông Thawatchai lên tiếng xin lỗi người hâm mộ đội nhà vì trận thua trước Việt Nam ở chung kết SEA Games 33. Đồng thời, thuyền trưởng U22 Thái Lan ám chỉ nguyên nhân thất bại đến từ sự thua thiệt về mặt thể lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T03:18:38.873655+07:00",
+      "fetched": "2025-12-19T03:18:38.873856+07:00"
+    },
     {
       "id": "90fed8b3c5c6b23e19997641a2cc3424",
       "title": "Báo chí quốc tế ca ngợi về màn ngược dòng của U22 Việt Nam",
@@ -151,6 +171,46 @@ window.newsData_2025_12_19 = {
       "category": "Tổng hợp",
       "published": "2025-12-19T01:27:46.763760+07:00",
       "fetched": "2025-12-19T01:27:46.763977+07:00"
+    },
+    {
+      "id": "654932352a1ca04a4039565d97f31b4a",
+      "title": "Người biểu tình Minnesota 'thi gan' với đặc vụ ICE giữa giá rét",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-minnesota-thi-gan-voi-dac-vu-ice-giua-gia-ret-4995470.html",
+      "summary": "Người biểu tình Minnesota đối đầu với lực lượng ICE khi các đặc vụ bao vây một công trường để truy bắt hai công nhân nhập cư trên mái nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:00:00+07:00",
+      "fetched": "2025-12-19T03:18:33.978428+07:00"
+    },
+    {
+      "id": "2794dc44a6800c0e17004d610565f0b3",
+      "title": "4 loại hạt giúp hạ huyết áp tự nhiên",
+      "link": "https://vnexpress.net/4-loai-hat-giup-ha-huyet-ap-tu-nhien-4994942.html",
+      "summary": "Bổ sung hạnh nhân, óc chó, hạt dẻ cười và hạt Brazil hàng ngày để cải thiện sức khỏe tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:00:00+07:00",
+      "fetched": "2025-12-19T03:18:33.978601+07:00"
+    },
+    {
+      "id": "654932352a1ca04a4039565d97f31b4a",
+      "title": "Người biểu tình Minnesota 'thi gan' với đặc vụ ICE giữa giá rét",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-minnesota-thi-gan-voi-dac-vu-ice-giua-gia-ret-4995470.html",
+      "summary": "Người biểu tình Minnesota đối đầu với lực lượng ICE khi các đặc vụ bao vây một công trường để truy bắt hai công nhân nhập cư trên mái nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T19:00:00+07:00",
+      "fetched": "2025-12-19T03:18:40.577372+07:00"
+    },
+    {
+      "id": "6089bee0a50623ab1e9a6e62d064b80f",
+      "title": "HLV Thái Lan nói lời cay đắng, xin lỗi vì thua đau U.22 Việt Nam: ‘Tôi chịu trách nhiệm…’",
+      "link": "https://thanhnien.vn/hlv-thai-lan-noi-loi-cay-dang-xin-loi-vi-thua-dau-u22-viet-nam-toi-chiu-trach-nhiem-185251219013917593.htm",
+      "summary": "Sau trận thua U.22 Việt Nam trong trận chung kết bóng đá nam SEA Games 33, HLV Thawatchai Damrong-ongtrakul đã xin lỗi CĐV nước nhà. Đồng thời, ông thừa nhận U.22 Thái Lan sẽ không có lực lượng mạnh nhất để hướng tới VCK U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T18:44:00+07:00",
+      "fetched": "2025-12-19T03:18:37.473913+07:00"
     },
     {
       "id": "4f4c2194cedce89d22e726b5a10d27ce",
@@ -521,6 +581,16 @@ window.newsData_2025_12_19 = {
       "category": "Thể thao",
       "published": "2025-12-18T16:43:14+07:00",
       "fetched": "2025-12-19T01:27:54.419502+07:00"
+    },
+    {
+      "id": "df7d8348cc91f06e7869ff7d23dff733",
+      "title": "Việt Nam lần thứ hai trong một năm lên ngôi ở Rajamangala",
+      "link": "https://vnexpress.net/viet-nam-lan-thu-hai-trong-mot-nam-len-ngoi-o-rajamangala-4995620.html",
+      "summary": "HLV Kim Sang-sik cùng các học trò vỡ òa trong niềm vui chiến thắng sau khi ngược dòng hạ Thái Lan 3-2 để giành HC vàng bóng đá nam SEA Games 33 tối 18/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T16:43:14+07:00",
+      "fetched": "2025-12-19T03:18:46.003286+07:00"
     },
     {
       "id": "f099f1c71e7f4533660bfd5cfd01731e",
