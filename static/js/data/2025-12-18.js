@@ -1,7 +1,157 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T13:28:44.058055+07:00",
+  "lastUpdated": "2025-12-18T15:26:23.943839+07:00",
   "articles": [
+    {
+      "id": "c35d8168937f2a5bfe42c485da0df1ea",
+      "title": "10 tỉ đồng vốn vay ưu đãi cho tân sinh viên chương trình Tiếp sức đến trường 2025",
+      "link": "https://tuoitre.vn/10-ti-dong-von-vay-uu-dai-cho-tan-sinh-vien-chuong-trinh-tiep-suc-den-truong-2025-20251218120818184.htm",
+      "summary": "Sinh viên khó khăn thuộc chương trình Tiếp sức đến trường 2025 có thể vay đóng học phí (5-20 triệu đồng), lãi suất cố định 2%/năm và miễn phí trả trước hạn từ Ngân hàng ACB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839993+07:00",
+      "fetched": "2025-12-18T15:26:14.840106+07:00"
+    },
+    {
+      "id": "aaf3fcaa8578a543692c077848fff871",
+      "title": "Lãnh đạo Chính phủ thăm, chúc mừng Giáng sinh Tổng giáo phận Huế",
+      "link": "https://tuoitre.vn/lanh-dao-chinh-phu-tham-chuc-mung-giang-sinh-tong-giao-phan-hue-20251218121726686.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng cùng đoàn công tác của Chính phủ đến thăm, chúc mừng Giáng sinh tại Tòa Tổng giám mục Tổng giáo phận Huế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839871+07:00",
+      "fetched": "2025-12-18T15:26:14.839982+07:00"
+    },
+    {
+      "id": "450bcc3b126d8a69b2faf6b877db9ccf",
+      "title": "Trung Quốc cử đặc phái viên đến Thái Lan và Campuchia hòa giải xung đột",
+      "link": "https://tuoitre.vn/trung-quoc-cu-dac-phai-vien-den-thai-lan-va-campuchia-hoa-giai-xung-dot-20251218122004181.htm",
+      "summary": "Hôm nay, đặc phái viên phụ trách các vấn đề châu Á của Trung Quốc sẽ đến Campuchia và Thái Lan, để hòa giải xung đột đang diễn ra tại biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839728+07:00",
+      "fetched": "2025-12-18T15:26:14.839859+07:00"
+    },
+    {
+      "id": "c804cd95d46178d40e331a39f62fabde",
+      "title": "Cựu Cục trưởng An toàn thực phẩm bị truy tố khung 20 năm tù đến chung thân vì chủ mưu nhận 95 tỉ",
+      "link": "https://tuoitre.vn/cuu-cuc-truong-an-toan-thuc-pham-bi-truy-to-khung-20-nam-tu-den-chung-than-vi-chu-muu-nhan-95-ti-20251218132658991.htm",
+      "summary": "Viện kiểm sát truy tố cựu Cục trưởng Cục An toàn thực phẩm Nguyễn Thanh Phong, cáo buộc ông đã chỉ đạo, thống nhất cho nhân viên nhận hối lộ trong suốt 6 năm để 'ăn chia' tổng số tiền gần 95 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839605+07:00",
+      "fetched": "2025-12-18T15:26:14.839717+07:00"
+    },
+    {
+      "id": "84a8c933193e65ff68a118dc803c1bc5",
+      "title": "Phát hiện hai cha con chết ở nhà riêng",
+      "link": "https://tuoitre.vn/phat-hien-hai-cha-con-chet-o-nha-rieng-20251218130905097.htm",
+      "summary": "Hai cha con ở Nghệ An được phát hiện đã tử vong ở nhà riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839478+07:00",
+      "fetched": "2025-12-18T15:26:14.839593+07:00"
+    },
+    {
+      "id": "4e856c083abbaf8dfac659b25e360dbe",
+      "title": "Thực hư phát ngôn đòi mua cả nước Anh gây tranh cãi của ông Trump",
+      "link": "https://tuoitre.vn/thuc-hu-phat-ngon-doi-mua-ca-nuoc-anh-gay-tranh-cai-cua-ong-trump-20251218125646384.htm",
+      "summary": "Đoạn phát ngôn được cho là của ông Trump, nói về ý định mua và biến Anh thành một bang của Mỹ được lan truyền suốt nhiều tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839354+07:00",
+      "fetched": "2025-12-18T15:26:14.839467+07:00"
+    },
+    {
+      "id": "3070ebae2b046069fdcd7ec3c3efcb0d",
+      "title": "Cháy nhà trong hẻm đường Phạm Văn Đồng, nghi bình gas xì gặp lửa gây cháy",
+      "link": "https://tuoitre.vn/chay-nha-trong-hem-duong-pham-van-dong-nghi-binh-gas-xi-gap-lua-gay-chay-20251218133315054.htm",
+      "summary": "Ngọn lửa bùng lên dữ dội tại tầng trệt căn nhà trong hẻm đường Phạm Văn Đồng, phường Hạnh Thông, TP.HCM sau tiếng nổ lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839227+07:00",
+      "fetched": "2025-12-18T15:26:14.839339+07:00"
+    },
+    {
+      "id": "2087452cddde8832ae664ac053aeb51f",
+      "title": "Trọng tài FIFA người Iran bắt trận U22 Việt Nam - Thái Lan",
+      "link": "https://tuoitre.vn/trong-tai-fifa-nguoi-iran-bat-tran-u22-viet-nam-thai-lan-20251218134335979.htm",
+      "summary": "Ông Mooud Bonyadifard (người Iran) được phân công bắt chính trận chung kết bóng đá nam SEA Games 33 giữa U22 Việt Nam - U22 Thái Lan vào lúc 19h30 tối 18-12 ở sân Rajamangala.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.839104+07:00",
+      "fetched": "2025-12-18T15:26:14.839216+07:00"
+    },
+    {
+      "id": "0257dbc934bf855a9d7c4153adf0dbd6",
+      "title": "Công an TP.HCM bắt 2 kẻ dùng dao uy hiếp phụ nữ, cướp giỏ xách",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-bat-2-ke-dung-dao-uy-hiep-phu-nu-cuop-gio-xach-2025121812184763.htm",
+      "summary": "Hai nam thanh niên lợi dụng trời tối, đoạn đường vắng vẻ đã dùng dao uy hiếp người phụ nữ, cướp giỏ xách chứa điện thoại và tiền mặt rồi tẩu thoát. Công an TP.HCM nhanh chóng truy xét, bắt giữ cả hai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838979+07:00",
+      "fetched": "2025-12-18T15:26:14.839093+07:00"
+    },
+    {
+      "id": "eccfe75d3298817cbc9fd77c287c93b0",
+      "title": "13 người từ Campuchia băng rẫy mía, vườn cao su về Việt Nam bị tạm giữ",
+      "link": "https://tuoitre.vn/13-nguoi-tu-campuchia-bang-ray-mia-vuon-cao-su-ve-viet-nam-bi-tam-giu-2025121813354029.htm",
+      "summary": "Ngày 18-12, thông tin từ Ban Chỉ huy Bộ đội biên phòng tỉnh Tây Ninh cho biết Đồn biên phòng Tân Hà đã phối hợp các đơn vị tạm giữ 13 người nhập cảnh trái phép từ Campuchia về Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838847+07:00",
+      "fetched": "2025-12-18T15:26:14.838963+07:00"
+    },
+    {
+      "id": "083b6bdc788b645633dc81b890af18b1",
+      "title": "Ngày 19-12, Hà Nội khởi công 7 'siêu dự án' hơn 2,1 triệu tỉ",
+      "link": "https://tuoitre.vn/ngay-19-12-ha-noi-khoi-cong-7-sieu-du-an-hon-2-1-trieu-ti-20251218122145559.htm",
+      "summary": "Theo kế hoạch, Hà Nội sẽ đồng loạt khởi công 7 \"siêu dự án\" hạ tầng, đô thị với tổng mức đầu tư kỷ lục lên tới hơn 2,1 triệu tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838697+07:00",
+      "fetched": "2025-12-18T15:26:14.838834+07:00"
+    },
+    {
+      "id": "c48d6125af0830d382ee26ef0f1e4477",
+      "title": "Ông chủ Thuận An nói từ khi bị bắt tập đoàn 'không có hợp đồng nào mới', bị nợ đọng 100 tỉ",
+      "link": "https://tuoitre.vn/ong-chu-thuan-an-noi-tu-khi-bi-bat-tap-doan-khong-co-hop-dong-nao-moi-bi-no-dong-100-ti-20251218115919687.htm",
+      "summary": "Ông Nguyễn Duy Hưng phân trần kể từ khi bị bắt, Tập đoàn Thuận An không nhận được thêm hợp đồng nào mới, ảnh hưởng đến người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838569+07:00",
+      "fetched": "2025-12-18T15:26:14.838686+07:00"
+    },
+    {
+      "id": "7e3cb6ba2426e580f4aba4037c8a354c",
+      "title": "Bảo tàng Louvre có rò rỉ nước như hình ảnh lan truyền trên mạng?",
+      "link": "https://tuoitre.vn/anh-bao-tang-louvre-ro-ri-nuoc-la-anh-ai-20251218122940818.htm",
+      "summary": "Vài trăm tác phẩm trưng bày trong khu Ai Cập của Bảo tàng Louvre (Pháp) bị ảnh hưởng vì sự cố rò rỉ nước vào cuối tháng 11, song hình ảnh lan truyền về sự cố này là sản phẩm của trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838440+07:00",
+      "fetched": "2025-12-18T15:26:14.838557+07:00"
+    },
+    {
+      "id": "08ea111425b132f26bb531441daef56e",
+      "title": "Thí điểm truy xuất nguồn gốc trái sầu riêng bằng tem do Bộ Công an phát hành",
+      "link": "https://tuoitre.vn/thi-diem-truy-xuat-nguon-goc-trai-sau-rieng-bang-tem-do-bo-cong-an-phat-hanh-20251218122729407.htm",
+      "summary": "Từ 1-1-2026, Bộ Nông nghiệp và Môi trường thí điểm truy xuất nguồn gốc trái sầu riêng bằng tem do Bộ Công an phát hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838301+07:00",
+      "fetched": "2025-12-18T15:26:14.838428+07:00"
+    },
+    {
+      "id": "0673b96521531013ef8436ada3588653",
+      "title": "Tay vợt nữ top 50 thế giới giành HCV SEA Games 33",
+      "link": "https://tuoitre.vn/tay-vot-nu-top-50-the-gioi-gianh-hcv-sea-games-33-20251218140857909.htm",
+      "summary": "Chiến thắng đại diện Thái Lan giúp cho tay vợt nữ Philippines, Alexandra Eala (20 tuổi) có lần đầu tiên giành HCV tại một kỳ SEA Games.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:26:14.838078+07:00",
+      "fetched": "2025-12-18T15:26:14.838287+07:00"
+    },
     {
       "id": "8ff7f71e763b988c6ab691c7f05c4e25",
       "title": "Mai Tài Phến lam lũ trong phim Tài do Mỹ Tâm sản xuất",
@@ -453,6 +603,26 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T10:18:53.760452+07:00"
     },
     {
+      "id": "294541c4ea19d47c31ab4afe110c7109",
+      "title": "Chuyện tình 'vượt xa khía cạnh thể xác' của Ronaldo và người mẫu bốc lửa",
+      "link": "https://thanhnien.vn/chuyen-tinh-vuot-xa-khia-canh-the-xac-cua-ronaldo-va-nguoi-mau-boc-lua-185251218143905172.htm",
+      "summary": "Georgina Rodriguez có cuộc sống như mơ kể từ khi yêu Cristiano Ronaldo. Trong cuộc phỏng vấn mới, người mẫu 9X kể màn cầu hôn 3 triệu USD cùng mối tình bền chặt bên siêu sao bóng đá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:25:00+07:00",
+      "fetched": "2025-12-18T15:26:13.573971+07:00"
+    },
+    {
+      "id": "ef7782701feb13c11635d3980d05b66c",
+      "title": "Giá xăng dầu giảm mạnh",
+      "link": "https://thanhnien.vn/gia-xang-dau-giam-manh-185251218145149668.htm",
+      "summary": "Giá xăng dầu đồng loạt giảm mạnh từ 15 giờ hôm nay 18.12. Trong đó, giá xăng giảm từ 376 - 462 đồng/lít. Giá dầu giảm từ 233 - 704 đồng/lít/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:21:00+07:00",
+      "fetched": "2025-12-18T15:26:13.574162+07:00"
+    },
+    {
       "id": "bc1b8fc694f4066ee4d4e11eb5850b4e",
       "title": "Thời tiết hôm nay 18-12: Trung Bộ mưa, Nam Bộ nắng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-18-12-trung-bo-mua-nam-bo-nang-20251217154219292.htm",
@@ -501,6 +671,376 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T08:19:51.396392+07:00",
       "fetched": "2025-12-18T08:19:51.396597+07:00"
+    },
+    {
+      "id": "112353deb08c153c3951009bf81d45e6",
+      "title": "Phim Việt nào có doanh thu 'bết bát' nhất năm 2025?",
+      "link": "https://thanhnien.vn/phim-viet-nao-co-doanh-thu-bet-bat-nhat-nam-2025-185251218143539843.htm",
+      "summary": "Trong bức tranh sôi động của phòng vé Việt năm 2025, khi nhiều bộ phim liên tiếp lập kỷ lục doanh thu và kéo khán giả trở lại rạp, vẫn còn có không ít những tác phẩm có doanh thu chỉ vài trăm triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:15:00+07:00",
+      "fetched": "2025-12-18T15:26:13.574320+07:00"
+    },
+    {
+      "id": "452fa3c2f7c5be5cb147f7070ebe1fff",
+      "title": "Mai Tài Phến đóng vai trò gì trong phim mới của Mỹ Tâm?",
+      "link": "https://thanhnien.vn/mai-tai-phen-dong-vai-tro-gi-trong-phim-moi-cua-my-tam-185251218142714825.htm",
+      "summary": "Sự kết hợp giữa Mỹ Tâm và Mai Tài Phến trong phim điện ảnh 'Tài' được nhiều người quan tâm. Mới đây, vai trò của cả hai cũng được hé lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:02:00+07:00",
+      "fetched": "2025-12-18T15:26:13.574497+07:00"
+    },
+    {
+      "id": "775e985df397c0e001c5ef03c080cd7b",
+      "title": "Phe Cộng hòa bác nghị quyết ngăn ông Trump dùng vũ lực với Venezuela",
+      "link": "https://vnexpress.net/phe-cong-hoa-bac-nghi-quyet-ngan-ong-trump-dung-vu-luc-voi-venezuela-4995408.html",
+      "summary": "Hai dự thảo nghị quyết ngăn Tổng thống Trump sử dụng quyền lực chiến tranh trong căng thẳng với Venezuela bị phe Cộng hòa bác bỏ tại Hạ viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:07+07:00",
+      "fetched": "2025-12-18T15:26:09.579622+07:00"
+    },
+    {
+      "id": "775e985df397c0e001c5ef03c080cd7b",
+      "title": "Phe Cộng hòa bác nghị quyết ngăn ông Trump dùng vũ lực với Venezuela",
+      "link": "https://vnexpress.net/phe-cong-hoa-bac-nghi-quyet-ngan-ong-trump-dung-vu-luc-voi-venezuela-4995408.html",
+      "summary": "Hai dự thảo nghị quyết ngăn Tổng thống Trump sử dụng quyền lực chiến tranh trong căng thẳng với Venezuela bị phe Cộng hòa bác bỏ tại Hạ viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T08:00:07+07:00",
+      "fetched": "2025-12-18T15:26:16.266469+07:00"
+    },
+    {
+      "id": "59a0d6ff12944a4d5463338dfac6f75e",
+      "title": "Chào vợ tương lai của anh",
+      "link": "https://vnexpress.net/chao-vo-tuong-lai-cua-anh-4994373.html",
+      "summary": "Anh sinh năm 1996, đang làm việc trong ngành xây dựng tại tỉnh Tochigi, thành phố Tochigi, Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.579734+07:00"
+    },
+    {
+      "id": "e93ae1844e2002adcfcef137cead2a7a",
+      "title": "Điểm cộng vị trí của căn hộ Sun Feliza Suites Cầu Giấy",
+      "link": "https://vnexpress.net/diem-cong-vi-tri-cua-can-ho-sun-feliza-suites-cau-giay-4995444.html",
+      "summary": "Vị trí tại trung tâm Cầu Giấy, kết nối đa trục giao thông và tiếp cận metro được xem là lợi thế then chốt giúp Sun Feliza Suites gia tăng giá trị an cư lẫn đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.579942+07:00"
+    },
+    {
+      "id": "eac851b19c62b5d579b294a5cb7a0e2f",
+      "title": "Chủ tịch Vietjet được vinh danh 'Nhân vật ảnh hưởng năm 2025'",
+      "link": "https://vnexpress.net/chu-tich-vietjet-duoc-vinh-danh-nhan-vat-anh-huong-nam-2025-4995429.html",
+      "summary": "Bà Nguyễn Thị Phương Thảo, Chủ tịch Vietjet là một trong 700 nhân vật được vinh danh \"Nhân vật ảnh hưởng năm 2025\" do Tatler công bố ngày 17/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.580103+07:00"
+    },
+    {
+      "id": "1136864842030ff0a50a84531e725d94",
+      "title": "Vì sao viêm da cơ địa tái phát khi chuyển mùa?",
+      "link": "https://vnexpress.net/vi-sao-viem-da-co-dia-tai-phat-khi-chuyen-mua-4995402.html",
+      "summary": "Tôi bị tái phát viêm da cơ địa, da khô, ngứa rất khó chịu, gãi nhiều. Vì sao và làm thế nào giảm triệu chứng? (Minh Hương, Quảng Trị)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.580256+07:00"
+    },
+    {
+      "id": "f231e10ca6e3b4cbdea29232a4d3a095",
+      "title": "The Parkland sở hữu gần 17 ha không gian xanh, mặt nước",
+      "link": "https://vnexpress.net/the-parkland-so-huu-gan-17-ha-khong-gian-xanh-mat-nuoc-4995320.html",
+      "summary": "Phân khu The Parkland thuộc tổ hợp cao tầng Imperia Ocean City sở hữu gần 17 ha cây xanh, mặt nước, hướng tới không gian sống xanh, mật độ thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.580414+07:00"
+    },
+    {
+      "id": "396b2888fc14b1181a64d2f3a2c14bb1",
+      "title": "Vì sao màu mắt mỗi người khác nhau?",
+      "link": "https://vnexpress.net/vi-sao-mau-mat-moi-nguoi-khac-nhau-4995311.html",
+      "summary": "Không chỉ đơn giản là nâu hay đen, màu mắt được tạo nên từ melanin, ánh sáng và di truyền, khiến nhiều người ngạc nhiên khi phát hiện màu mắt thật của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.580564+07:00"
+    },
+    {
+      "id": "e9fdfbbb1ecf0574cee35d46fb0d1990",
+      "title": "Bé 6 tháng tuổi rò hậu môn tái phát",
+      "link": "https://vnexpress.net/be-6-thang-tuoi-ro-hau-mon-tai-phat-4995204.html",
+      "summary": "Vùng hậu môn của bé Khang sưng đỏ, rỉ dịch mủ vàng, bác sĩ chẩn đoán tái phát rò hậu môn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:09.580714+07:00"
+    },
+    {
+      "id": "419de03b2a11ecca523e7d75ee13b833",
+      "title": "Ươm mầm chắp cánh tương lai cùng Hệ thống Giáo dục Á Châu - ABC EDU",
+      "link": "https://thanhnien.vn/uom-mam-chap-canh-tuong-lai-cung-he-thong-giao-duc-a-chau-abc-edu-185251218140444955.htm",
+      "summary": "Với hành trình hơn một thập kỷ trong lĩnh vực giáo dục, Hệ thống Giáo dục Á Châu đã vươn mình trở thành một thương hiệu uy tín, tiên phong trong sứ mệnh kiến tạo thế hệ học sinh Việt Nam vững vàng hội nhập toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T08:00:00+07:00",
+      "fetched": "2025-12-18T15:26:13.574652+07:00"
+    },
+    {
+      "id": "691affe301ee420211200d893321cb05",
+      "title": "Ông Trump hứa thưởng 1.776 USD cho mỗi quân nhân",
+      "link": "https://vnexpress.net/ong-trump-hua-thuong-1-776-usd-cho-moi-quan-nhan-4995345.html",
+      "summary": "Tổng thống Trump cho biết gần 1,5 triệu binh sĩ Mỹ sẽ được trao khoản tiền trị giá 1.776 USD mỗi người, trong dịp Giáng sinh năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:59:48+07:00",
+      "fetched": "2025-12-18T15:26:09.580905+07:00"
+    },
+    {
+      "id": "691affe301ee420211200d893321cb05",
+      "title": "Ông Trump hứa thưởng 1.776 USD cho mỗi quân nhân",
+      "link": "https://vnexpress.net/ong-trump-hua-thuong-1-776-usd-cho-moi-quan-nhan-4995345.html",
+      "summary": "Tổng thống Trump cho biết gần 1,5 triệu binh sĩ Mỹ sẽ được trao khoản tiền trị giá 1.776 USD mỗi người, trong dịp Giáng sinh năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T07:59:48+07:00",
+      "fetched": "2025-12-18T15:26:16.266638+07:00"
+    },
+    {
+      "id": "3c91947d28fee0c33164acf7714eced5",
+      "title": "Hãng hàng không Ấn Độ tìm thấy máy bay sau 13 năm thất lạc",
+      "link": "https://vnexpress.net/hang-hang-khong-an-do-tim-thay-may-bay-sau-13-nam-that-lac-4995309.html",
+      "summary": "Air India thu hồi một chiếc Boeing 737-200 bị bỏ không tại sân bay Kolkata, bang West Bengal từ năm 2012.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:59:01+07:00",
+      "fetched": "2025-12-18T15:26:09.581076+07:00"
+    },
+    {
+      "id": "e87121a2bdc8677b66d411a4cd69ce37",
+      "title": "Thanh Niên và tôi: Cảm ơn Báo Thanh Niên đã làm dày thêm 'kho báu' của tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-cam-on-bao-thanh-nien-da-lam-day-them-kho-bau-cua-toi-185251214214736493.htm",
+      "summary": "Cảm ơn những cuộc thi viết ý nghĩa mà Báo Thanh Niên đã khiến tôi mạnh dạn bước ra khỏi vùng an toàn của bản thân mình và làm đầy \"kho báu\" của tôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:59:00+07:00",
+      "fetched": "2025-12-18T15:26:13.574853+07:00"
+    },
+    {
+      "id": "b669bb32ade1419869b96219747e0766",
+      "title": "Bóc trần thủ đoạn lừa đảo tinh vi khiến gần 3.000 người 'sập bẫy'",
+      "link": "https://thanhnien.vn/boc-tran-thu-doan-lua-dao-tinh-vi-khien-gan-3000-nguoi-sap-bay-185251218141251832.htm",
+      "summary": "Công an tỉnh Lạng Sơn đã đấu tranh thành công chuyên án, bắt giữ nhóm đối tượng lừa đảo chiếm đoạt tài sản trên không gian mạng với gần 3.000 bị hại, tổng số tiền giao dịch trên 7.500 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:58:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575008+07:00"
+    },
+    {
+      "id": "893eeed270b30b4c7b49215b1b7d27a4",
+      "title": "Oscar sẽ phát sóng miễn phí trên YouTube",
+      "link": "https://vnexpress.net/oscar-se-phat-song-mien-phi-tren-youtube-4995321.html",
+      "summary": "Lễ Oscar sẽ phát trực tiếp miễn phí trên YouTube từ 2029, là cuộc chia tay lớn của sự kiện điện ảnh này khỏi nền tảng truyền hình truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:56:07+07:00",
+      "fetched": "2025-12-18T15:26:09.581233+07:00"
+    },
+    {
+      "id": "34551f1b0c3a0967b72dbc2ff888174d",
+      "title": "Bãi Cháy - Trung tâm du lịch ven vịnh hút khách quốc tế",
+      "link": "https://thanhnien.vn/bai-chay-trung-tam-du-lich-ven-vinh-hut-khach-quoc-te-18525121815023111.htm",
+      "summary": "Từ cửa ngõ vịnh Hạ Long, Bãi Cháy đang vươn mình trở thành trung tâm du lịch ven biển hiện đại với sản phẩm mới, kinh tế đêm sôi động và nền tảng du lịch thông minh, góp phần định hình diện mạo du lịch Quảng Ninh thời kỳ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:55:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575190+07:00"
+    },
+    {
+      "id": "5358a542ee8154b332833b8eabe0f8b6",
+      "title": "TP.HCM dự kiến xây metro số 2 nhanh gấp 2,5 lần tuyến số 1",
+      "link": "https://thanhnien.vn/tphcm-du-kien-xay-metro-so-2-nhanh-gap-25-lan-tuyen-so-1-185251218143941922.htm",
+      "summary": "Rút kinh nghiệm từ tuyến metro số 1 (tuyến Bến Thành - Suối Tiên) cùng một loạt cơ chế chưa từng có, tuyến metro số 2 (Bến Thành - Tham Lương) dự kiến sẽ rút ngắn tối đa thời gian thi công, nhanh hơn 2,5 lần so với tuyến đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:49:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575346+07:00"
+    },
+    {
+      "id": "93cba5e3767e18b883e2bddc69556ccb",
+      "title": "Mỹ có thể đảm bảo an ninh cho Ukraine bằng F-35, Tomahawk",
+      "link": "https://vnexpress.net/my-co-the-dam-bao-an-ninh-cho-ukraine-bang-f-35-tomahawk-4995412.html",
+      "summary": "Các quan chức phương Tây cho biết Mỹ có thể dùng tiêm kích F-35, tên lửa Tomahawk để đảm bảo an ninh cho Ukraine hậu xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:48:02+07:00",
+      "fetched": "2025-12-18T15:26:09.581389+07:00"
+    },
+    {
+      "id": "93cba5e3767e18b883e2bddc69556ccb",
+      "title": "Mỹ có thể đảm bảo an ninh cho Ukraine bằng F-35, Tomahawk",
+      "link": "https://vnexpress.net/my-co-the-dam-bao-an-ninh-cho-ukraine-bang-f-35-tomahawk-4995412.html",
+      "summary": "Các quan chức phương Tây cho biết Mỹ có thể dùng tiêm kích F-35, tên lửa Tomahawk để đảm bảo an ninh cho Ukraine hậu xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T07:48:02+07:00",
+      "fetched": "2025-12-18T15:26:16.266818+07:00"
+    },
+    {
+      "id": "5193960a17e6d3cc61fdf05aee1b8aa7",
+      "title": "Biên giới Tây Ninh: 'Khóa' đường mòn, lối mở chặn người xuất nhập cảnh trái phép",
+      "link": "https://thanhnien.vn/bien-gioi-tay-ninh-khoa-duong-mon-loi-mo-chan-nguoi-xuat-nhap-canh-trai-phep-18525121811103523.htm",
+      "summary": "Bộ đội biên phòng (BĐBP) tỉnh Tây Ninh trắng đêm 'khóa đường mòn, lối mở', liên tiếp phát hiện và bắt giữ nhiều trường hợp xuất nhập cảnh trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:48:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575517+07:00"
+    },
+    {
+      "id": "23da4b85dbd50d88ec4b4b0e8e78c586",
+      "title": "Nhói lòng với câu nói: 'Ngoại ơi, dẫn con lên vay tiền để con đi học'",
+      "link": "https://thanhnien.vn/nhoi-long-voi-cau-noi-ngoai-oi-dan-con-len-vay-tien-de-con-di-hoc-185251218120000358.htm",
+      "summary": "Câu nói đầu tiên của nữ sinh viên ở TP.Đà Nẵng sau khi nhận giấy báo trúng tuyển không phải là tiếng reo vui, mà quay sang bà ngoại, khẽ nói: \"Ngoại ơi, dẫn con lên vay tiền để con đi học\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:47:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575669+07:00"
+    },
+    {
+      "id": "fb26d32d80911935a1bd95b9077a1e06",
+      "title": "Tài xế gây tai nạn trên phố Hà Nội dương tính với ma túy",
+      "link": "https://vnexpress.net/tai-xe-gay-tai-nan-tren-pho-ha-noi-duong-tinh-voi-ma-tuy-4995409.html",
+      "summary": "Cảnh sát xác định tài xế gây tai nạn liên hoàn trên đường Láng dương tính với ma túy, có 2 tiền sự và thuộc diện quản lý sau cai nghiện tại nơi cư trú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:45:52+07:00",
+      "fetched": "2025-12-18T15:26:09.581543+07:00"
+    },
+    {
+      "id": "dac4af28a713949014e24063b1576ad6",
+      "title": "Kem trắng da, ngừa mụn bị thu hồi do chứa chất cấm",
+      "link": "https://vnexpress.net/kem-trang-da-ngua-mun-bi-thu-hoi-do-chua-chat-cam-4995393.html",
+      "summary": "Bộ Y tế yêu cầu thu hồi toàn quốc kem trắng da Lynshao do chứa Dexamethason - một loại corticoid bị cấm sử dụng trong mỹ phẩm vì nguy cơ gây teo da, biến chứng nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:45:17+07:00",
+      "fetched": "2025-12-18T15:26:09.581692+07:00"
+    },
+    {
+      "id": "44ba3b6cb1236bd31e89da7b339fffdf",
+      "title": "Máy bay Boeing mất tích kỳ lạ được tìm thấy sau 13 năm",
+      "link": "https://thanhnien.vn/may-bay-boeing-mat-tich-ky-la-duoc-tim-thay-sau-13-nam-185251218142031487.htm",
+      "summary": "Một hãng hàng không vừa thừa nhận đã tìm thấy chiếc máy bay chở khách Boeing bị thất lạc hơn một thập kỷ trước và hiện phải đối mặt với khoản tiền phạt khá lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:45:00+07:00",
+      "fetched": "2025-12-18T15:26:13.575861+07:00"
+    },
+    {
+      "id": "76a5fef535c524030e222b724fbc5ae0",
+      "title": "TP.HCM: Hơn 63% người cao tuổi đi khám phát hiện tăng huyết áp",
+      "link": "https://thanhnien.vn/tphcm-hon-63-nguoi-cao-tuoi-di-kham-phat-hien-tang-huyet-ap-185251218132747333.htm",
+      "summary": "Hơn 63% người cao tuổi TP.HCM bị tăng huyết áp, hàng chục nghìn ca bệnh mạn tính mới được phát hiện qua sàng lọc năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:45:00+07:00",
+      "fetched": "2025-12-18T15:26:13.576024+07:00"
+    },
+    {
+      "id": "1155f84e1828a7b2f6a3a82c957b8e47",
+      "title": "Apple giấu kỹ một tính năng quay video cực hay trong iOS 26",
+      "link": "https://thanhnien.vn/apple-giau-ky-mot-tinh-nang-quay-video-cuc-hay-trong-ios-26-185251218082602082.htm",
+      "summary": "iOS 26 không chỉ gây ấn tượng với giao diện Liquid Glass bóng bẩy và các tính năng AI mới mà còn âm thầm bổ sung tính năng quay video trên iPhone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:45:00+07:00",
+      "fetched": "2025-12-18T15:26:13.576187+07:00"
+    },
+    {
+      "id": "3c935133ca8b21b1fe71810d2978e1fc",
+      "title": "Con muốn sống: Bạn đọc Báo Thanh Niên giúp thêm 137 triệu đồng cho các bệnh nhi ung thư",
+      "link": "https://thanhnien.vn/con-muon-song-ban-doc-bao-thanh-nien-giup-them-137-trieu-dong-cho-cac-benh-nhi-ung-thu-185251218113823684.htm",
+      "summary": "3 bệnh nhi ung thư tiếp tục được bạn đọc Báo Thanh Niên cứu giúp giữa lúc gia đình kiệt quệ, bế tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:42:00+07:00",
+      "fetched": "2025-12-18T15:26:13.576350+07:00"
+    },
+    {
+      "id": "35b3e11ae742b9f9f502c15101d82d02",
+      "title": "Những trận thua đau đớn nhất của bóng đá Việt Nam",
+      "link": "https://vnexpress.net/nhung-tran-thua-dau-don-nhat-cua-bong-da-viet-nam-4995355.html",
+      "summary": "Trước thất bại ở chung kết bóng đá nữ SEA Games 33 hôm qua, Việt Nam từng trải qua nhiều trận thua ấm ức, khó hiểu từ cấp độ U23 đến ĐTQG.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T07:40:48+07:00",
+      "fetched": "2025-12-18T15:26:09.581866+07:00"
+    },
+    {
+      "id": "35b3e11ae742b9f9f502c15101d82d02",
+      "title": "Những trận thua đau đớn nhất của bóng đá Việt Nam",
+      "link": "https://vnexpress.net/nhung-tran-thua-dau-don-nhat-cua-bong-da-viet-nam-4995355.html",
+      "summary": "Trước thất bại ở chung kết bóng đá nữ SEA Games 33 hôm qua, Việt Nam từng trải qua nhiều trận thua ấm ức, khó hiểu từ cấp độ U23 đến ĐTQG.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T07:40:48+07:00",
+      "fetched": "2025-12-18T15:26:23.933882+07:00"
+    },
+    {
+      "id": "61559bf57704b6a6f269c24531cf8e73",
+      "title": "Giá xăng về dưới 20.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-18-12-4995390.html",
+      "summary": "Giá xăng, dầu cùng giảm 230-710 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-18T07:36:58+07:00",
+      "fetched": "2025-12-18T15:26:17.758238+07:00"
+    },
+    {
+      "id": "1c24f0f9c7534e4639a4d7af942f3200",
+      "title": "Alcaraz bất ngờ chia tay HLV Ferrero",
+      "link": "https://vnexpress.net/alcaraz-bat-ngo-chia-tay-hlv-ferrero-4995418.html",
+      "summary": "Sau 7 năm đồng hành và giành 24 danh hiệu, tay vợt số một thế giới Carlos Alcaraz và HLV Juan Carlos Ferrero dừng hợp tác ngay trước mùa giải 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T07:26:09+07:00",
+      "fetched": "2025-12-18T15:26:23.936096+07:00"
+    },
+    {
+      "id": "6b0a910f627ce25be960c2b410aabe2a",
+      "title": "Nghi vấn phân chia huy chương muay Thái tại SEA Games",
+      "link": "https://vnexpress.net/nghi-van-phan-chia-huy-chuong-muay-thai-tai-sea-games-4995274.html",
+      "summary": "HLV trưởng tuyển muay của Thái Lan thẳng thắn chỉ trích công tác trọng tài tại, ám chỉ có dấu hiệu dàn xếp, chia huy chương tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T07:12:32+07:00",
+      "fetched": "2025-12-18T15:26:23.934056+07:00"
+    },
+    {
+      "id": "ac4ec258d9c62ee9074a7a7cef663e11",
+      "title": "Ông Trump cho treo ảnh châm chọc hai người tiền nhiệm",
+      "link": "https://vnexpress.net/ong-trump-cho-treo-anh-cham-choc-hai-nguoi-tien-nhiem-4995245.html",
+      "summary": "Ông Trump cho gắn biển giới thiệu dưới chân dung ông Biden là \"tổng thống ngủ gật\", còn ông Obama là \"người gây chia rẽ\" trong bộ ảnh treo tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T07:05:31+07:00",
+      "fetched": "2025-12-18T15:26:16.266988+07:00"
+    },
+    {
+      "id": "fb838665e4fd9ded685792faf2af477a",
+      "title": "Google ra Gemini 3 Flash tốc độ nhanh, chi phí rẻ",
+      "link": "https://vnexpress.net/google-ra-gemini-3-flash-toc-do-nhanh-chi-phi-re-4995386.html",
+      "summary": "Google công bố Gemini 3 Flash, khẳng định tốt hơn và nhanh gấp ba lần Gemini 2.5 Pro, đồng thời dùng ít hơn 30% token, giúp giảm chi phí tổng thể.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-18T07:00:23+07:00",
+      "fetched": "2025-12-18T15:26:21.758789+07:00"
     },
     {
       "id": "82d3743bf0cf0260a624b973ee11f913",
