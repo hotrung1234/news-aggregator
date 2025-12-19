@@ -1,7 +1,157 @@
 window.newsData_2025_12_19 = {
   "date": "2025-12-19",
-  "lastUpdated": "2025-12-19T21:19:10.335060+07:00",
+  "lastUpdated": "2025-12-19T23:23:07.307370+07:00",
   "articles": [
+    {
+      "id": "248bd3ecaca00b205a277251cdf9c182",
+      "title": "Vừa bốc vác chuyển nhà vừa nói tiếng Anh lưu loát, anh là ai?",
+      "link": "https://tuoitre.vn/vua-boc-vac-chuyen-nha-vua-noi-tieng-anh-luu-loat-anh-la-ai-20251219201736256.htm",
+      "summary": "Từng du học Úc 10 năm và khởi nghiệp thất bại, một người đàn ông 45 tuổi ở Trung Quốc bất ngờ đổi đời sau khi video vừa bốc vác chuyển nhà vừa nói tiếng Anh lưu loát 'nổi rần rần' trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.372448+07:00",
+      "fetched": "2025-12-19T23:22:58.372566+07:00"
+    },
+    {
+      "id": "62dfecb18d9d45e04d10ca86d79638c5",
+      "title": "Nhà thiết kế Việt Phan Huy là người trẻ nhất thế giới góp mặt Paris Haute Couture Week",
+      "link": "https://tuoitre.vn/nha-thiet-ke-viet-phan-huy-la-nguoi-tre-nhat-the-gioi-gop-mat-paris-haute-couture-week-20251219194502875.htm",
+      "summary": "Ở tuổi 26, nhà thiết kế người Việt Nam Phan Huy làm nên lịch sử khi trở thành người trẻ nhất thế giới có mặt trong lịch trình chính thức của Paris Haute Couture Week.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.372306+07:00",
+      "fetched": "2025-12-19T23:22:58.372435+07:00"
+    },
+    {
+      "id": "d0f57147de05435e3d56e23d2ebde49f",
+      "title": "Khánh thành chung cư Kim cương xanh - Cara river Park tại Cần Thơ",
+      "link": "https://tuoitre.vn/khanh-thanh-chung-cu-kim-cuong-xanh-cara-river-park-tai-can-tho-20251219201927522.htm",
+      "summary": "Sáng 19-12, Khu căn hộ chung cư Kim cương xanh - Cara river Park tại Khu đô thị Nam Cần Thơ (phường Cái Răng, TP Cần Thơ) đã được khánh thành. Dự án do Cara Group làm chủ đầu tư, với tổng mức đầu tư hơn 564 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.372179+07:00",
+      "fetched": "2025-12-19T23:22:58.372294+07:00"
+    },
+    {
+      "id": "e3dd9e8c475014143a153baffe1dd385",
+      "title": "Tấn công bằng bom khói và dao tại ga tàu điện ngầm Đài Loan, 2 người thiệt mạng",
+      "link": "https://tuoitre.vn/tan-cong-bang-bom-khoi-va-dao-tai-ga-tau-dien-ngam-dai-loan-2-nguoi-thiet-mang-20251219210144875.htm",
+      "summary": "Nghi phạm đã tử vong sau khi thực hiện vụ tấn công nghiêm trọng tại ga tàu điện ngầm ở Đài Loan vào chiều 19-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.372048+07:00",
+      "fetched": "2025-12-19T23:22:58.372167+07:00"
+    },
+    {
+      "id": "289650d537d7370fbbf9c67a946e4929",
+      "title": "Xã, phường ở Hà Nội chịu trách nhiệm trước thành phố nếu xảy ra đổ rác thải xây dựng không phép",
+      "link": "https://tuoitre.vn/xa-phuong-o-ha-noi-chiu-trach-nhiem-truoc-thanh-pho-neu-xay-ra-do-rac-thai-xay-dung-khong-phep-20251219184713686.htm",
+      "summary": "Lãnh đạo Phòng Quản lý chất thải rắn cho biết Sở Nông nghiệp và Môi trường Hà Nội đã có văn bản gửi một số xã, phường đề nghị xử lý nghiêm các hành vi vi phạm liên quan đến rác thải xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371916+07:00",
+      "fetched": "2025-12-19T23:22:58.372036+07:00"
+    },
+    {
+      "id": "c8ccfc1da1a446eeaeeb11f3c73dbe0f",
+      "title": "Startup Việt trình làng nhiều ứng dụng AI mới",
+      "link": "https://tuoitre.vn/startup-viet-trinh-lang-nhieu-ung-dung-ai-moi-20251219203336433.htm",
+      "summary": "Nhiều startup Việt đã tích hợp AI vào lõi sản phẩm nhằm giải quyết các điểm nghẽn quen thuộc của thị trường, trình làng nhà đầu tư tại Demo Day 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371782+07:00",
+      "fetched": "2025-12-19T23:22:58.371903+07:00"
+    },
+    {
+      "id": "06613651546353c5d7eea1c24b9a1fe6",
+      "title": "Thái Lan tạo cú sốc trong ngày áp chót SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-tao-cu-soc-trong-ngay-ap-chot-sea-games-33-20251219205242935.htm",
+      "summary": "Dù thất bại nặng nề ở bóng đá, Thái Lan lại có kỳ SEA Games cực kỳ thành công với môn bóng chuyền, trong đó đội bóng chuyền nam của họ đã thực sự tạo nên địa chấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371652+07:00",
+      "fetched": "2025-12-19T23:22:58.371770+07:00"
+    },
+    {
+      "id": "ef74c746a3102b2536503d0472cc2f19",
+      "title": "Cắt giảm thời gian ngủ để giải trí, thư giãn, gen Z ngày càng thiếu ngủ",
+      "link": "https://tuoitre.vn/cat-giam-thoi-gian-ngu-de-giai-tri-thu-gian-gen-z-ngay-cang-thieu-ngu-2025121918324858.htm",
+      "summary": "Bác sĩ cảnh báo tình trạng gen Z cắt giảm thời gian ngủ ban đêm để giải trí, thư giãn hoặc chăm sóc bản thân đang khá phổ biến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371523+07:00",
+      "fetched": "2025-12-19T23:22:58.371640+07:00"
+    },
+    {
+      "id": "9d899a8ad507995ab3dc0adb84aaae56",
+      "title": "Phát hiện thi thể người đàn ông không đầu tại TP.HCM",
+      "link": "https://tuoitre.vn/phat-hien-thi-the-nguoi-dan-ong-khong-dau-tai-tp-hcm-20251219212037954.htm",
+      "summary": "Thi thể người đàn ông không đầu được phát hiện nằm lẫn trong đám lục bình, trôi trên sông Sài Gòn được người dân phát hiện vào chiều 19-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371378+07:00",
+      "fetched": "2025-12-19T23:22:58.371510+07:00"
+    },
+    {
+      "id": "b1e585c304f070cc6ddc884ba13a2a42",
+      "title": "Truyền thông Thái Lan mỉa mai Madam Pang sau cú sốc trắng tay",
+      "link": "https://tuoitre.vn/truyen-thong-thai-lan-mia-mai-madam-pang-sau-cu-soc-trang-tay-20251219210921906.htm",
+      "summary": "\"Madam Pang lại bị sốc rồi\", báo Matichon giật tít sau thất bại choáng váng 1-6 của đội futsal nam Thái Lan trước Indonesia, qua đó đánh mất tấm HCV vào tay đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371243+07:00",
+      "fetched": "2025-12-19T23:22:58.371366+07:00"
+    },
+    {
+      "id": "c9d6f521901ab1dfb570f5e7a8c4380a",
+      "title": "Ra mắt nền tảng học tập trực tuyến Tuổi Trẻ E-Learning",
+      "link": "https://tuoitre.vn/ra-mat-nen-tang-hoc-tap-truc-tuyen-tuoi-tre-e-learning-20251219214041672.htm",
+      "summary": "Ngày 19-12, báo Tuổi Trẻ và Skillify chính thức công bố dự án Tuổi Trẻ E-Learning - nền tảng học tập trực tuyến dành cho thành viên báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.371116+07:00",
+      "fetched": "2025-12-19T23:22:58.371232+07:00"
+    },
+    {
+      "id": "cfeb8bc1a832657ad0f64477a4d2991d",
+      "title": "Đánh bại Thái Lan, Liên Quân Mobile Việt Nam lên ngôi vô địch SEA Games",
+      "link": "https://tuoitre.vn/danh-bai-thai-lan-lien-quan-mobile-viet-nam-len-ngoi-vo-dich-sea-games-20251219212419926.htm",
+      "summary": "Giành chiến thắng thuyết phục trước đội chủ nhà Thái Lan, đội tuyển Liên Quân Mobile nam Việt Nam đã giành được HCV tại SEA Games 33 sau 6 năm chờ đợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.370985+07:00",
+      "fetched": "2025-12-19T23:22:58.371104+07:00"
+    },
+    {
+      "id": "b7857bb9e49773ee9bf402ab4bf59902",
+      "title": "Thua đậm futsal Indonesia, Thái Lan mất cả 4 HCV bóng đá SEA Games 33",
+      "link": "https://tuoitre.vn/thua-dam-futsal-indonesia-thai-lan-mat-ca-4-hcv-bong-da-sea-games-33-20251219212949276.htm",
+      "summary": "Đội chủ nhà Thái Lan đã đánh mất HCV môn futsal nam SEA Games 33 sau trận thua sốc trước tuyển futsal nam Indonesia. Như vậy, Thái Lan đã mất cả 4 HCV các nội dung bóng đá ở SEA Games trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.370850+07:00",
+      "fetched": "2025-12-19T23:22:58.370973+07:00"
+    },
+    {
+      "id": "1963e533dea959cc6382f3b21312b7f5",
+      "title": "HĐND TP.HCM sắp xem xét thông qua bảng giá đất mới, áp dụng từ 1-1-2026",
+      "link": "https://tuoitre.vn/hdnd-tp-hcm-sap-xem-xet-thong-qua-bang-gia-dat-moi-ap-dung-tu-1-1-2026-20251219215258902.htm",
+      "summary": "Kỳ họp thứ bảy (chuyên đề) và tổng kết nhiệm kỳ HĐND TP.HCM sẽ được tổ chức tại phường Bà Rịa, thông qua bảng giá đất, bổ sung các dự án đường sắt (metro), các nghị quyết để cụ thể hóa cơ chế đặc thù phát triển thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.370705+07:00",
+      "fetched": "2025-12-19T23:22:58.370836+07:00"
+    },
+    {
+      "id": "17738d90d3d976a9ff05c9ea7119c22f",
+      "title": "Thái Lan nói 'Campuchia bắn hạ tiêm kích F-16' là tin giả",
+      "link": "https://tuoitre.vn/thai-lan-noi-campuchia-ban-ha-tiem-kich-f-16-la-tin-gia-20251219215317232.htm",
+      "summary": "Thái Lan khẳng định tin Campuchia bắn hạ F-16 của nước này là sai sự thật và kêu gọi người dân thận trọng với tin giả trong bối cảnh căng thẳng leo thang giữa hai nước láng giềng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:22:58.370466+07:00",
+      "fetched": "2025-12-19T23:22:58.370689+07:00"
+    },
     {
       "id": "31e644abf3e122b40687c72565949488",
       "title": "Bình đẳng giới là yếu tố nền tảng để xây dựng lực lượng Cảnh sát gìn giữ hòa bình",
@@ -453,6 +603,56 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T17:19:40.146890+07:00"
     },
     {
+      "id": "31b0e74e8fcad80d4d30580666e2af87",
+      "title": "Ông Hegseth: Nhiều thanh niên Mỹ không đủ tiêu chuẩn nhập ngũ vì 'quá béo'",
+      "link": "https://vnexpress.net/ong-hegseth-nhieu-thanh-nien-my-khong-du-tieu-chuan-nhap-ngu-vi-qua-beo-4995922.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ cho rằng nhiều người trẻ nước này \"quá béo\" hoặc chưa được giáo dục đúng cách, gây khó cho nỗ lực tuyển quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T15:52:12+07:00",
+      "fetched": "2025-12-19T23:22:53.397957+07:00"
+    },
+    {
+      "id": "31b0e74e8fcad80d4d30580666e2af87",
+      "title": "Ông Hegseth: Nhiều thanh niên Mỹ không đủ tiêu chuẩn nhập ngũ vì 'quá béo'",
+      "link": "https://vnexpress.net/ong-hegseth-nhieu-thanh-nien-my-khong-du-tieu-chuan-nhap-ngu-vi-qua-beo-4995922.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ cho rằng nhiều người trẻ nước này \"quá béo\" hoặc chưa được giáo dục đúng cách, gây khó cho nỗ lực tuyển quân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-19T15:52:12+07:00",
+      "fetched": "2025-12-19T23:23:00.285441+07:00"
+    },
+    {
+      "id": "f10c7c3ee2be72fa41ec4e4baad75f8a",
+      "title": "'Đề thi viết thư UPU năm 2026 hay nhất từ trước tới nay'",
+      "link": "https://vnexpress.net/huong-dan-cach-lam-de-thi-viet-thu-upu-nam-2026-cua-cac-giam-khao-4995881.html",
+      "summary": "Đề thi viết thư quốc tế UPU năm 2026 về sự kết nối của con người giữa thời đại số, được các chuyên gia đánh giá rất thời sự với nhân loại và Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T15:29:28+07:00",
+      "fetched": "2025-12-19T23:22:53.398137+07:00"
+    },
+    {
+      "id": "f10c7c3ee2be72fa41ec4e4baad75f8a",
+      "title": "'Đề thi viết thư UPU năm 2026 hay nhất từ trước tới nay'",
+      "link": "https://vnexpress.net/huong-dan-cach-lam-de-thi-viet-thu-upu-nam-2026-cua-cac-giam-khao-4995881.html",
+      "summary": "Đề thi viết thư quốc tế UPU năm 2026 về sự kết nối của con người giữa thời đại số, được các chuyên gia đánh giá rất thời sự với nhân loại và Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-19T15:29:28+07:00",
+      "fetched": "2025-12-19T23:23:05.062928+07:00"
+    },
+    {
+      "id": "74d6586fec29b42c7bb1595b83e18e4e",
+      "title": "Mưa lũ lịch sử ở Đăk Lăk làm 113 người chết",
+      "link": "https://vnexpress.net/mua-lu-lich-su-o-dak-lak-lam-113-nguoi-chet-4996033.html",
+      "summary": "Đăk Lăk xác định 113 người tử vong trong đợt mưa lũ vừa qua, tăng gần gấp đôi so với thống kê ban đầu, Bộ Công an đang làm việc về việc xả lũ thủy điện Sông Ba Hạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T15:28:25+07:00",
+      "fetched": "2025-12-19T23:22:53.398312+07:00"
+    },
+    {
       "id": "d73fe57bf842c8579f4c390d484bd8f1",
       "title": "TP.HCM tiếp tục triển khai kinh tế đêm gắn với Đề án 06",
       "link": "https://tuoitre.vn/tp-hcm-tiep-tuc-trien-khai-kinh-te-dem-gan-voi-de-an-06-20251219102908839.htm",
@@ -603,6 +803,106 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T15:26:01.494105+07:00"
     },
     {
+      "id": "fe980ca54d1c4f65d3b80716e45baefa",
+      "title": "Việt Nam lên tiếng về báo cáo của Ủy ban Tự do tôn giáo quốc tế Mỹ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-ve-bao-cao-cua-uy-ban-tu-do-ton-giao-quoc-te-my-4996028.html",
+      "summary": "Việt Nam bác bỏ những đánh giá không khách quan, không chính xác được nêu trong báo cáo của Ủy ban Tự do tôn giáo quốc tế Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T15:11:56+07:00",
+      "fetched": "2025-12-19T23:22:53.398513+07:00"
+    },
+    {
+      "id": "fe980ca54d1c4f65d3b80716e45baefa",
+      "title": "Việt Nam lên tiếng về báo cáo của Ủy ban Tự do tôn giáo quốc tế Mỹ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-ve-bao-cao-cua-uy-ban-tu-do-ton-giao-quoc-te-my-4996028.html",
+      "summary": "Việt Nam bác bỏ những đánh giá không khách quan, không chính xác được nêu trong báo cáo của Ủy ban Tự do tôn giáo quốc tế Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-19T15:11:56+07:00",
+      "fetched": "2025-12-19T23:23:00.285620+07:00"
+    },
+    {
+      "id": "6ad2cbfceadd73ffb97ff8bff383279e",
+      "title": "Khách Hàn bị buộc rời khỏi chuyến bay TP HCM - Busan vì nghi quấy rối",
+      "link": "https://vnexpress.net/khach-han-bi-buoc-roi-khoi-chuyen-bay-tp-hcm-busan-vi-nghi-quay-roi-4995956.html",
+      "summary": "Nam du khách Hàn Quốc bị lực lượng an ninh đưa ra khỏi chuyến bay từ TP HCM đi Busan hôm 14/12 vì cáo buộc quấy rối nữ hành khách ngồi cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T15:00:38+07:00",
+      "fetched": "2025-12-19T23:22:53.398680+07:00"
+    },
+    {
+      "id": "4d4a97e2326925616db3fdd898f6edf1",
+      "title": "Võ sĩ Việt Nam rách mí mắt, chảy máu trong trận đấu: ‘Em vẫn muốn thi tới cùng’",
+      "link": "https://thanhnien.vn/vo-si-viet-nam-rach-mi-mat-chay-mau-trong-tran-dau-em-van-muon-thi-toi-cung-185251219214027163.htm",
+      "summary": "Bị rách sâu mí mắt và chảy máu nhiều trong hiệp 3 trận chung kết hạng cân 57 kg nam SEA Games 33, võ sĩ Nguyễn Văn Đương buộc phải dừng thi đấu theo quyết định của trọng tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:41:00+07:00",
+      "fetched": "2025-12-19T23:22:57.339316+07:00"
+    },
+    {
+      "id": "6990c5812e2b0193795d6430b17d8d46",
+      "title": "Thái Lan lần đầu mất hết HC vàng bóng đá ở một kỳ SEA Games",
+      "link": "https://vnexpress.net/thai-lan-lan-dau-mat-het-hc-vang-bong-da-o-mot-ky-sea-games-4996029.html",
+      "summary": "Thái Lan thua Indonesia 1-6 ở chung kết futsal nam vào tối nay, dẫn đến mất cả bốn HC vàng bóng đá tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:24:51+07:00",
+      "fetched": "2025-12-19T23:22:53.398839+07:00"
+    },
+    {
+      "id": "6990c5812e2b0193795d6430b17d8d46",
+      "title": "Thái Lan lần đầu mất hết HC vàng bóng đá ở một kỳ SEA Games",
+      "link": "https://vnexpress.net/thai-lan-lan-dau-mat-het-hc-vang-bong-da-o-mot-ky-sea-games-4996029.html",
+      "summary": "Thái Lan thua Indonesia 1-6 ở chung kết futsal nam vào tối nay, dẫn đến mất cả bốn HC vàng bóng đá tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T14:24:51+07:00",
+      "fetched": "2025-12-19T23:23:07.292937+07:00"
+    },
+    {
+      "id": "29c08b169e63b4a722d7220ef97ad239",
+      "title": "Nam thanh niên 19 tuổi bị CSGT TP.HCM tịch thu xe vì buông 2 tay lái xe",
+      "link": "https://thanhnien.vn/nam-thanh-nien-19-tuoi-bi-csgt-tphcm-tich-thu-xe-vi-buong-2-tay-lai-xe-185251219211720633.htm",
+      "summary": "CSGT TP.HCM vừa mời làm việc, lập biên bản và tịch thu xe mà nam thanh niên 19 tuổi buông 2 tay khi lái xe gây bức xúc trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:21:00+07:00",
+      "fetched": "2025-12-19T23:22:57.339504+07:00"
+    },
+    {
+      "id": "8825ecc36708f66e2e27099d9814cb99",
+      "title": "Quảng Ninh cần tiếp tục đồng hành, để giữ vững niềm tin của nhà đầu tư",
+      "link": "https://thanhnien.vn/quang-ninh-can-tiep-tuc-dong-hanh-de-giu-vung-niem-tin-cua-nha-dau-tu-185251219205006904.htm",
+      "summary": "Thăm và làm việc tại Quảng Ninh, Phó thủ tướng thường trực Nguyễn Hòa Bình đề nghị Quảng Ninh tiếp tục đồng hành, cải thiện môi trường đầu tư, kinh doanh để giữ vững niềm tin của nhà đầu tư trong và ngoài nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:20:00+07:00",
+      "fetched": "2025-12-19T23:22:57.339666+07:00"
+    },
+    {
+      "id": "1847f16bf859043a39f4eb5d79b7a4a6",
+      "title": "Dự kiến cấm dùng từ 'quốc tế', 'quốc gia' khi đặt tên trường đại học",
+      "link": "https://vnexpress.net/du-kien-cam-dung-tu-quoc-te-quoc-gia-khi-dat-ten-truong-dai-hoc-4996011.html",
+      "summary": "Các trường đại học không được dùng từ như \"quốc tế\", \"quốc gia\", \"Việt Nam\", \"International\", hoặc lẫn lộn tiếng Anh với tiếng Việt khi đặt tên, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:15:08+07:00",
+      "fetched": "2025-12-19T23:22:53.398994+07:00"
+    },
+    {
+      "id": "896f94f2fc65fdb6693607ef355680c4",
+      "title": "Lonely Planet gợi ý ba điểm đến tránh đông đúc ở Việt Nam",
+      "link": "https://vnexpress.net/lonely-planet-goi-y-ba-diem-den-tranh-dong-duc-o-viet-nam-4995511.html",
+      "summary": "Bỏ qua những nơi đông đúc, Buôn Ma Thuột, Châu Đốc và Lăng Cô là những điểm đến được người bản địa yêu thích, nhờ sự bình yên, không xô bồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:14:42+07:00",
+      "fetched": "2025-12-19T23:22:53.399153+07:00"
+    },
+    {
       "id": "afbca8b19b4481ee318fa64b8e1c3fd0",
       "title": "Quá đỉnh: Cấn Tất Dự 6 lần giành HCV, gia đình bày 50 mâm ăn mừng",
       "link": "https://thanhnien.vn/qua-dinh-can-tat-du-6-lan-gianh-hcv-gia-dinh-bay-50-mam-an-mung-185251219204019046.htm",
@@ -633,6 +933,16 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T21:19:02.588353+07:00"
     },
     {
+      "id": "e670cfd5948bde6e9cbf7690501fb649",
+      "title": "Đưa 52 người trên tàu câu mực bị cháy vào đảo Song Tử Tây",
+      "link": "https://vnexpress.net/dua-52-nguoi-tren-tau-cau-muc-bi-chay-vao-dao-song-tu-tay-4995996.html",
+      "summary": "Hải quân tiếp nhận 52 ngư dân Đà Nẵng gặp nạn trên tàu câu mực bị cháy hai ngày trước về đảo Song Tử Tây thuộc Đặc khu Trường Sa (Khánh Hòa) an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:11:56+07:00",
+      "fetched": "2025-12-19T23:22:53.399316+07:00"
+    },
+    {
       "id": "04f2852454e6fb7de55461f0b7cd369b",
       "title": "Lộ diện ngày tái tập trung của U.23 Việt Nam, thầy Kim hé lộ mục tiêu ‘khủng’ tại giải châu Á",
       "link": "https://thanhnien.vn/lo-dien-ngay-tai-tap-trung-cua-u23-viet-nam-thay-kim-he-lo-muc-tieu-khung-tai-giai-chau-a-185251219195050738.htm",
@@ -641,6 +951,46 @@ window.newsData_2025_12_19 = {
       "category": "Tổng hợp",
       "published": "2025-12-19T14:11:00+07:00",
       "fetched": "2025-12-19T21:19:02.588506+07:00"
+    },
+    {
+      "id": "aaae3a18bd840564ab111b9f9ed5541a",
+      "title": "Vẻ nam tính của thủ môn tuyển Việt Nam cao 1,91 m",
+      "link": "https://vnexpress.net/ve-nam-tinh-cua-thu-mon-tuyen-viet-nam-cao-1-91-m-4995962.html",
+      "summary": "Trần Trung Kiên, 22 tuổi, được khán giả quan tâm nhờ dung mạo điển trai, phong độ thi đấu tốt khi cùng tuyển Việt Nam vô địch SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:04:40+07:00",
+      "fetched": "2025-12-19T23:22:53.399508+07:00"
+    },
+    {
+      "id": "733e78a6484f0f0af912aa50ce07c14b",
+      "title": "Không dám ly hôn chồng lăng nhăng vì 10 năm ở nhà chồng nuôi",
+      "link": "https://vnexpress.net/khong-dam-ly-hon-chong-lang-nhang-vi-10-nam-o-nha-chong-nuoi-4995929.html",
+      "summary": "Không biết nếu bước ra khỏi cuộc hôn nhân này, tôi sẽ xoay xở thế nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T14:00:00+07:00",
+      "fetched": "2025-12-19T23:22:53.399668+07:00"
+    },
+    {
+      "id": "a033d16367a7307dbfb31e09c2aa15ac",
+      "title": "Người hâm mộ đón mừng U22 Việt Nam về nước",
+      "link": "https://vnexpress.net/nguoi-ham-mo-don-mung-u22-viet-nam-ve-nuoc-4996025.html",
+      "summary": "Sau khi giành HC vàng SEA Games 33, thầy trò HLV Kim Sang-sik được chào đón từ lúc lên máy bay cho đến khi rời sân bay Nội Bài ở Hà Nội vào tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T13:57:13+07:00",
+      "fetched": "2025-12-19T23:22:53.399824+07:00"
+    },
+    {
+      "id": "a033d16367a7307dbfb31e09c2aa15ac",
+      "title": "Người hâm mộ đón mừng U22 Việt Nam về nước",
+      "link": "https://vnexpress.net/nguoi-ham-mo-don-mung-u22-viet-nam-ve-nuoc-4996025.html",
+      "summary": "Sau khi giành HC vàng SEA Games 33, thầy trò HLV Kim Sang-sik được chào đón từ lúc lên máy bay cho đến khi rời sân bay Nội Bài ở Hà Nội vào tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T13:57:13+07:00",
+      "fetched": "2025-12-19T23:23:07.293113+07:00"
     },
     {
       "id": "b232fb18597b823543ad7f7f6cc334b4",
@@ -721,6 +1071,16 @@ window.newsData_2025_12_19 = {
       "category": "Tổng hợp",
       "published": "2025-12-19T13:30:00+07:00",
       "fetched": "2025-12-19T21:19:02.589754+07:00"
+    },
+    {
+      "id": "4320c7631c8d190d81a948ce7d9bb0d7",
+      "title": "Đảo nào lớn nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/dao-nao-lon-nhat-dong-nam-a-4995944.html",
+      "summary": "Rộng khoảng 740.000 km2, đây là đảo lớn nhất Đông Nam Á và lớn thứ ba thế giới. Bạn có biết đây là đảo nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T13:28:41+07:00",
+      "fetched": "2025-12-19T23:22:53.399984+07:00"
     },
     {
       "id": "3c4e918a5d3e6b8c89ce32c7f62e6aed",
