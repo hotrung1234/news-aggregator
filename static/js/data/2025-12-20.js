@@ -1,7 +1,67 @@
 window.newsData_2025_12_20 = {
   "date": "2025-12-20",
-  "lastUpdated": "2025-12-20T05:18:13.105037+07:00",
+  "lastUpdated": "2025-12-20T08:19:32.514993+07:00",
   "articles": [
+    {
+      "id": "dfa88e09ef4454dde37deb5e620cb4f7",
+      "title": "Thời tiết hôm nay 20-12: Bắc Bộ nắng yếu, Nam Bộ nắng gắt",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-12-bac-bo-nang-yeu-nam-bo-nang-gat-20251219172341901.htm",
+      "summary": "Hôm nay thời tiết cả nước vẫn chịu sự chi phối của gió đông bắc, Bắc Bộ nắng yếu, sương mù. Nam Bộ sáng có chút se mát, Trung Bộ mưa nhẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.028623+07:00",
+      "fetched": "2025-12-20T08:19:25.028736+07:00"
+    },
+    {
+      "id": "bae76f6702daf58e46e04c4aa3a3e9b7",
+      "title": "Tin tức sáng 20-12: Rút ngắn thời gian chờ hưởng trợ cấp thất nghiệp; Giá heo hơi bật tăng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-12-rut-ngan-thoi-gian-cho-huong-tro-cap-that-nghiep-gia-heo-hoi-bat-tang-20251219225805017.htm",
+      "summary": "Tin tức đáng chú ý: Rút ngắn thời gian chờ hưởng trợ cấp thất nghiệp; Giá heo hơi bật tăng, tại miền Bắc sắp chạm ngưỡng 70.000 đồng/kg...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.028497+07:00",
+      "fetched": "2025-12-20T08:19:25.028611+07:00"
+    },
+    {
+      "id": "831530c460a209a4ccb82aad0a0f3bfd",
+      "title": "Mê săn bắn, trữ súng trong nhà: Từ quà tặng đến án tù",
+      "link": "https://tuoitre.vn/me-san-ban-tru-sung-trong-nha-tu-qua-tang-den-an-tu-20251219231810017.htm",
+      "summary": "Chỉ vì sở thích săn bắn, hai người đàn ông đã phải trả giá bằng những bản án tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.028372+07:00",
+      "fetched": "2025-12-20T08:19:25.028486+07:00"
+    },
+    {
+      "id": "8358db7e0d2382bc6a3fc6e3ca9537ba",
+      "title": "Ngoại tình thời công nghệ số",
+      "link": "https://tuoitre.vn/ngoai-tinh-thoi-cong-nghe-so-20251219231133544.htm",
+      "summary": "Các thiết bị số và nền tảng công nghệ đã trở thành một phần không thể thiếu trong cuộc sống. Tuy nhiên, không gian mạng đang trở thành nơi lý tưởng cho những mối quan hệ vượt qua ranh giới của hôn nhân và sự chung thủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.028239+07:00",
+      "fetched": "2025-12-20T08:19:25.028360+07:00"
+    },
+    {
+      "id": "bf505cf0ee09491424a670ed61c83830",
+      "title": "Bà mẹ hai con giành HCV boxing SEA Games 33 để mua sữa cho con",
+      "link": "https://tuoitre.vn/ba-me-hai-con-gianh-hcv-boxing-sea-games-33-de-mua-sua-cho-con-20251220015244169.htm",
+      "summary": "Bà mẹ hai con Hà Thị Linh đã xuất sắc giành HCV duy nhất về cho đội tuyển boxing Việt Nam ở SEA Games 33. Cô tâm sự đi thi đấu để mua sữa cho con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.028091+07:00",
+      "fetched": "2025-12-20T08:19:25.028227+07:00"
+    },
+    {
+      "id": "57e6744290455281d898ca80b43bb1bc",
+      "title": "Tin tức thế giới 20-12: Ukraine tấn công tàu dầu Nga ở Địa Trung Hải; Mỹ không ép Kiev ngừng bắn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-20-12-ukraine-tan-cong-tau-dau-nga-o-dia-trung-hai-my-khong-ep-kiev-ngung-ban-20251220060530822.htm",
+      "summary": "Venezuela bị coi là mối đe dọa an ninh quốc gia với Mỹ, Washington có thể lật đổ Tổng thống Maduro; Liên hợp quốc: Nạn đói ở Gaza đã chấm dứt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T08:19:25.027855+07:00",
+      "fetched": "2025-12-20T08:19:25.028061+07:00"
+    },
     {
       "id": "e3dd9e8c475014143a153baffe1dd385",
       "title": "Tấn công bằng bom khói và dao tại ga tàu điện ngầm Đài Loan, 2 người thiệt mạng",
@@ -151,6 +211,416 @@ window.newsData_2025_12_20 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T01:26:08.163235+07:00",
       "fetched": "2025-12-20T01:26:08.163463+07:00"
+    },
+    {
+      "id": "cf59f6093c97775d2b1751991790e4bd",
+      "title": "Đèn đỏ 28 giây đột ngột chuyển vàng, tài xế ô tô không kịp trở tay",
+      "link": "https://thanhnien.vn/den-do-28-giay-dot-ngot-chuyen-vang-tai-xe-o-to-khong-kip-tro-tay-185251220055519824.htm",
+      "summary": "Điều khiển ô tô băng qua giao lộ, tài xế giật mình phát hiện đèn tín hiệu vừa chuyển xanh lại đột ngột chuyển sang đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:16:00+07:00",
+      "fetched": "2025-12-20T08:19:23.928615+07:00"
+    },
+    {
+      "id": "2428e7c1476e682d1468a7d1108370d4",
+      "title": "Thể thao Việt Nam hoàn thành nhiệm vụ tại SEA Games 33: 86 HCV, tốp 3 khu vực",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-hoan-thanh-nhiem-vu-tai-sea-games-33-185251219221734878.htm",
+      "summary": "Theo ông Nguyễn Hồng Minh, Phó cục trưởng Cục TDTT VN, Trưởng đoàn thể thao VN tại SEA Games 33, các VĐV VN đã hoàn thành nhiệm vụ. Tuy nhiên, chúng ta vẫn còn nhiều việc phải làm ở một số bộ môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:15:00+07:00",
+      "fetched": "2025-12-20T08:19:23.928779+07:00"
+    },
+    {
+      "id": "bc607c1e86ee6cbd0d103d1c2ab0c3de",
+      "title": "AFC chính thức lên tiếng về việc xử đội tuyển Malaysia thua Việt Nam sau án kỷ luật FIFA",
+      "link": "https://thanhnien.vn/afc-chinh-thuc-len-tieng-ve-viec-xu-doi-tuyen-malaysia-thua-viet-nam-sau-an-ky-luat-fifa-185251220081248052.htm",
+      "summary": "Theo Tổng thư ký Liên đoàn Bóng đá châu Á (AFC), ông Windsor Paul John, cơ quan này vẫn cho phép FAM có cơ hội giải quyết các vấn đề của mình tại CAS, bất chấp FIFA vừa xử thua 3 trận của đội tuyển Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:14:00+07:00",
+      "fetched": "2025-12-20T08:19:23.928934+07:00"
+    },
+    {
+      "id": "6d98fe0109a7a52e06534fe52289f43c",
+      "title": "Cơ hội giành học bổng ‘khủng’ lấy bằng chuẩn Anh quốc chính quy trong năm 2026",
+      "link": "https://thanhnien.vn/co-hoi-gianh-hoc-bong-khung-lay-bang-chuan-anh-quoc-chinh-quy-trong-nam-2026-185251219214449213.htm",
+      "summary": "Học bổng chào mừng sự kiện nâng cấp quan hệ Việt Nam - Anh quốc lên Đối tác Chiến lược toàn diện đang mang lại cơ hội hiếm có dành cho sinh viên Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929110+07:00"
+    },
+    {
+      "id": "a038d5fce18d82d7eeb028ac48108b97",
+      "title": "Du Lịch Việt tung loạt tour tết hút khách",
+      "link": "https://thanhnien.vn/du-lich-viet-tung-loat-tour-tet-hut-khach-185251219184235933.htm",
+      "summary": "Du Lịch Việt ra mắt nhiều tour tết 2026 với ưu đãi giới hạn, đáp ứng nhu cầu du lịch tăng mạnh trong mùa lễ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929269+07:00"
+    },
+    {
+      "id": "49d2dbc73cb6dbacaad541385bc77b18",
+      "title": "The Malibu Hotel Vũng Tàu: Year End Party 2025 - Tôn vinh giá trị vươn xa",
+      "link": "https://thanhnien.vn/the-malibu-hotel-vung-tau-year-end-party-2025-ton-vinh-gia-tri-vuon-xa-185251219150025443.htm",
+      "summary": "Khi năm cũ dần khép lại, các doanh nghiệp cần một không gian để nhìn lại hành trình, ghi nhận nỗ lực, tôn vinh thành tựu và gắn kết tập thể. Year End Party không chỉ là bữa tiệc tổng kết, mà còn lan tỏa tinh thần doanh nghiệp, khơi nguồn cảm hứng cho năm mới. Tại Vũng Tàu, khách sạn Malibu giới thiệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929424+07:00"
+    },
+    {
+      "id": "7b5a0295447f32533ce69414c84d86cb",
+      "title": "Predator Triton 14 AI: Laptop gaming cao cấp, tản nhiệt Graphene TIM, card đồ họa RTX 5070",
+      "link": "https://thanhnien.vn/predator-triton-14-ai-laptop-gaming-cao-cap-tan-nhiet-graphene-tim-card-do-hoa-rtx-5070-185251219111511498.htm",
+      "summary": "Predator Triton 14 AI là mẫu laptop gaming cao cấp sở hữu thiết kế mỏng nhẹ, hiệu năng mạnh mẽ và hệ thống tản nhiệt hàng đầu thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929582+07:00"
+    },
+    {
+      "id": "c59268846b9df754beddc4809b279857",
+      "title": "Áo cổ yếm pastel tinh tế tôn nét cổ điển quý phái",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-co-yem-pastel-tinh-te-ton-net-co-dien-quy-phai-185251219000407937.htm",
+      "summary": "Sự kết hợp giữa gam màu nhẹ nhàng, phom dáng cổ điển đã tạo nên những thiết kế vừa mềm mại, vừa mang vẻ quý phái thanh tao của chiếc áo cổ yếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929735+07:00"
+    },
+    {
+      "id": "ff779412db62d65edb7a88d868fda48f",
+      "title": "Chuyến đi dài kỷ lục của robot NASA trên Sao Hỏa",
+      "link": "https://vnexpress.net/chuyen-di-dai-ky-luc-cua-robot-nasa-tren-sao-hoa-4995993.html",
+      "summary": "NASA công bố video ghi lại quá trình robot tự hành Perseverance di chuyển liên tục 411,7 m về phía bắc trên Sao Hỏa trong 4 giờ 24 phút.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-20T01:00:00+07:00",
+      "fetched": "2025-12-20T08:19:31.523978+07:00"
+    },
+    {
+      "id": "e7438f243a78dbc54fce305c23013817",
+      "title": "Tổng thống Putin nói gì tại cuộc marathon họp báo thường niên?",
+      "link": "https://thanhnien.vn/tong-thong-putin-noi-gi-tai-cuoc-marathon-hop-bao-thuong-nien-18525121920201947.htm",
+      "summary": "Hôm 19.12, Tổng thống Nga Vladimir Putin tổ chức cuộc họp báo thường niên, và sự kiện này được kết hợp với chương trình 'Đường dây trực tiếp', trong đó ông trả lời người dân và báo chí về nhiều vấn đề trong nước và quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:52:00+07:00",
+      "fetched": "2025-12-20T08:19:23.929881+07:00"
+    },
+    {
+      "id": "b9b6e24fe0254f6418f76f92ab0ad8d7",
+      "title": "Đâm dao nghiêm trọng tại Đài Bắc, ít nhất 4 người thiệt mạng",
+      "link": "https://thanhnien.vn/dam-dao-nghiem-trong-tai-dai-bac-it-nhat-4-nguoi-thiet-mang-185251220073032195.htm",
+      "summary": "Ít nhất 4 người thiệt mạng, bao gồm hung thủ, trong vụ đâm dao nghiêm trọng ở trung tâm thành phố Đài Bắc tại Đài Loan tối 19.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:49:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930029+07:00"
+    },
+    {
+      "id": "9205ac0d510854d4dd3b8cf9c7d90718",
+      "title": "Mỹ phát động chiến dịch trả đũa IS ở Syria",
+      "link": "https://vnexpress.net/my-phat-dong-chien-dich-tra-dua-is-o-syria-4996070.html",
+      "summary": "Washington mở chiến dịch nhằm \"xóa sổ lực lượng và hạ tầng của IS\" ở Syria sau vụ phục kích khiến 3 quân nhân và dân thường Mỹ thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:46:37+07:00",
+      "fetched": "2025-12-20T08:19:20.688696+07:00"
+    },
+    {
+      "id": "9205ac0d510854d4dd3b8cf9c7d90718",
+      "title": "Mỹ phát động chiến dịch trả đũa IS ở Syria",
+      "link": "https://vnexpress.net/my-phat-dong-chien-dich-tra-dua-is-o-syria-4996070.html",
+      "summary": "Washington mở chiến dịch nhằm \"xóa sổ lực lượng và hạ tầng của IS\" ở Syria sau vụ phục kích khiến 3 quân nhân và dân thường Mỹ thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-20T00:46:37+07:00",
+      "fetched": "2025-12-20T08:19:27.165399+07:00"
+    },
+    {
+      "id": "04a7b909fcbfbb70292c5214f29a2f44",
+      "title": "Cầu gỗ bị lũ cuốn, người dân Nha Trang phải đi đường vòng hơn 15 km",
+      "link": "https://thanhnien.vn/cau-go-bi-lu-cuon-nguoi-dan-nha-trang-phai-di-duong-vong-hon-15-km-185251219184655206.htm",
+      "summary": "Người dân, công chức và học sinh P.Tây Nha Trang (Khánh Hòa) đang phải đi đường vòng hơn 15 km hoặc đi thuyền qua sông để đến trung tâm phường, vì cây cầu duy nhất dẫn vào đây bị lũ cuốn trôi và dự kiến mất nhiều tháng mới được khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:40:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930197+07:00"
+    },
+    {
+      "id": "4c73dc91d779e94cbc00aec639be4ddf",
+      "title": "Chưa giao T1 Phone, Trump Mobile đổi sang bán điện thoại cũ",
+      "link": "https://thanhnien.vn/chua-giao-t1-phone-trump-mobile-doi-sang-ban-dien-thoai-cu-185251219185904053.htm",
+      "summary": "Những người hâm mộ cuồng nhiệt nhà Trump dường như không thể nhận được chiếc T1 Phone vàng óng mà họ hằng mơ ước trước khi kết thúc năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:37:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930343+07:00"
+    },
+    {
+      "id": "b35631c9b36559535e4f1d1f8e172e89",
+      "title": "Giá Bitcoin hôm nay 20.12.2025: BTC phục hồi, Phố Wall đặt cược giá 143.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-20122025-btc-phuc-hoi-pho-wall-dat-cuoc-gia-143000-usd-185251220045600516.htm",
+      "summary": "Giá Bitcoin ngày 20.12 tăng trưởng ổn định, duy trì ở mốc 87.000 - 88.000 USD trong bối cảnh thị trường phục hồi, các nhà nắm giữ Bitcoin lớn (cá voi) hoạt động tích cực hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:33:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930486+07:00"
+    },
+    {
+      "id": "b8fbe9eee146d28368b7c2d4d5f5bda8",
+      "title": "SEA Games 33 bế mạc hôm nay, sếp lớn Thái Lan hứa không để sai sót xảy ra",
+      "link": "https://thanhnien.vn/sea-games-be-mac-hom-nay-sep-lon-thai-lan-hua-khong-de-sai-sot-xay-ra-185251220025339666.htm",
+      "summary": "Sau nhiều ngày tranh tài sôi nổi, tối nay (20.12), SEA Games 33 sẽ chính thức bế mạc tại sân Rajamangala (Thái Lan).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:33:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930635+07:00"
+    },
+    {
+      "id": "f63622d2e8bddacb37c2cea1a1190ae2",
+      "title": "TP.HCM sắp quyết định bảng giá đất lần đầu áp dụng từ 1.1.2026",
+      "link": "https://thanhnien.vn/tphcm-sap-quyet-dinh-bang-gia-dat-lan-dau-ap-dung-tu-112026-185251219231543653.htm",
+      "summary": "Bảng giá đất và cơ chế khu thương mại tự do sẽ được HĐND TP.HCM xem xét thông qua tại kỳ họp thứ 7 diễn ra ngày 26.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:29:00+07:00",
+      "fetched": "2025-12-20T08:19:23.930785+07:00"
+    },
+    {
+      "id": "ea178453c183a32dc6919c353e8e1598",
+      "title": "HLV Polking: 'Việt Nam hạ Thái Lan nhờ tinh thần chứ không phải chiến thuật'",
+      "link": "https://vnexpress.net/hlv-polking-viet-nam-ha-thai-lan-nho-tinh-than-chu-khong-phai-chien-thuat-4996019.html",
+      "summary": "Cựu HLV tuyển Thái Lan, hiện dẫn dắt CLB CAHN, Alexandre Polking khen tài đồng nghiệp Kim Sang-sik, nhưng đặc biệt đề cao yếu tố tâm lý khi Việt Nam đoạt HC vàng bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:14:58+07:00",
+      "fetched": "2025-12-20T08:19:20.688880+07:00"
+    },
+    {
+      "id": "ea178453c183a32dc6919c353e8e1598",
+      "title": "HLV Polking: 'Việt Nam hạ Thái Lan nhờ tinh thần chứ không phải chiến thuật'",
+      "link": "https://vnexpress.net/hlv-polking-viet-nam-ha-thai-lan-nho-tinh-than-chu-khong-phai-chien-thuat-4996019.html",
+      "summary": "Cựu HLV tuyển Thái Lan, hiện dẫn dắt CLB CAHN, Alexandre Polking khen tài đồng nghiệp Kim Sang-sik, nhưng đặc biệt đề cao yếu tố tâm lý khi Việt Nam đoạt HC vàng bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T00:14:58+07:00",
+      "fetched": "2025-12-20T08:19:32.509312+07:00"
+    },
+    {
+      "id": "4eb34c37f598b5e69e25be21354a7a7f",
+      "title": "Chính quyền Trump bắt đầu công bố hồ sơ Epstein",
+      "link": "https://vnexpress.net/chinh-quyen-trump-bat-dau-cong-bo-ho-so-epstein-4996072.html",
+      "summary": "Bộ Tư pháp Mỹ công bố loạt hồ sơ từ các cuộc điều tra tỷ phú ấu dâm Epstein, dù nhiều tài liệu đã được chỉnh sửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:13:06+07:00",
+      "fetched": "2025-12-20T08:19:20.689043+07:00"
+    },
+    {
+      "id": "4eb34c37f598b5e69e25be21354a7a7f",
+      "title": "Chính quyền Trump bắt đầu công bố hồ sơ Epstein",
+      "link": "https://vnexpress.net/chinh-quyen-trump-bat-dau-cong-bo-ho-so-epstein-4996072.html",
+      "summary": "Bộ Tư pháp Mỹ công bố loạt hồ sơ từ các cuộc điều tra tỷ phú ấu dâm Epstein, dù nhiều tài liệu đã được chỉnh sửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-20T00:13:06+07:00",
+      "fetched": "2025-12-20T08:19:27.165579+07:00"
+    },
+    {
+      "id": "2f3a2542a88e13c36808ffbdcb57e93c",
+      "title": "Võ sĩ Việt Nam không phục khi bị xử thua Thái Lan ở SEA Games 33",
+      "link": "https://vnexpress.net/vo-si-viet-nam-khong-phuc-khi-bi-xu-thua-thai-lan-o-sea-games-33-4996064.html",
+      "summary": "Nguyễn Văn Đương cho rằng bị Sukthet Sarawut dùng chỏ làm chấn thương, trước khi thua ở chung kết boxing hạng -57kg nam tại SEA Games 33, chiều 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:09:24+07:00",
+      "fetched": "2025-12-20T08:19:20.689221+07:00"
+    },
+    {
+      "id": "2f3a2542a88e13c36808ffbdcb57e93c",
+      "title": "Võ sĩ Việt Nam không phục khi bị xử thua Thái Lan ở SEA Games 33",
+      "link": "https://vnexpress.net/vo-si-viet-nam-khong-phuc-khi-bi-xu-thua-thai-lan-o-sea-games-33-4996064.html",
+      "summary": "Nguyễn Văn Đương cho rằng bị Sukthet Sarawut dùng chỏ làm chấn thương, trước khi thua ở chung kết boxing hạng -57kg nam tại SEA Games 33, chiều 19/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T00:09:24+07:00",
+      "fetched": "2025-12-20T08:19:32.509487+07:00"
+    },
+    {
+      "id": "9fb04ad22a79759c6137f2ab9b7b20ef",
+      "title": "Nữ runner vượt qua tất cả đối thủ nam giải marathon ở Nam Cực",
+      "link": "https://vnexpress.net/nu-runner-vuot-qua-tat-ca-doi-thu-nam-giai-marathon-o-nam-cuc-4995990.html",
+      "summary": "Runner Australia, Catherine Drysdale làm nên lịch sử khi trở thành VĐV nữ đầu tiên vượt qua toàn bộ đối thủ nam trong điều kiện băng giá khắc nghiệt tại Antarctic Ice Marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:02:37+07:00",
+      "fetched": "2025-12-20T08:19:20.689389+07:00"
+    },
+    {
+      "id": "9fb04ad22a79759c6137f2ab9b7b20ef",
+      "title": "Nữ runner vượt qua tất cả đối thủ nam giải marathon ở Nam Cực",
+      "link": "https://vnexpress.net/nu-runner-vuot-qua-tat-ca-doi-thu-nam-giai-marathon-o-nam-cuc-4995990.html",
+      "summary": "Runner Australia, Catherine Drysdale làm nên lịch sử khi trở thành VĐV nữ đầu tiên vượt qua toàn bộ đối thủ nam trong điều kiện băng giá khắc nghiệt tại Antarctic Ice Marathon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T00:02:37+07:00",
+      "fetched": "2025-12-20T08:19:32.509648+07:00"
+    },
+    {
+      "id": "ca4662eda96a20251d0b1b90a358f364",
+      "title": "6 lợi ích sức khỏe của quả chà là",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-cha-la-4995013.html",
+      "summary": "Chà là giàu chất xơ và chất chống oxy hóa, ăn hai quả mỗi ngày có thể hỗ trợ sức khỏe não bộ và phòng ngừa một số bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:00:00+07:00",
+      "fetched": "2025-12-20T08:19:20.689546+07:00"
+    },
+    {
+      "id": "7f0bfc09f72f59ddf76c7c5efab20a28",
+      "title": "Lộ trình buổi sáng giúp giảm mỡ hiệu quả",
+      "link": "https://vnexpress.net/lo-trinh-buoi-sang-giup-giam-mo-hieu-qua-4994891.html",
+      "summary": "Lộ trình uống nước detox, đi bộ nhanh, tập yoga kết hợp bữa ăn giàu protein bữa sáng giúp giảm mỡ hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:00:00+07:00",
+      "fetched": "2025-12-20T08:19:20.689699+07:00"
+    },
+    {
+      "id": "d315204dddd13bd7eb6e113b1593e388",
+      "title": "Làn sóng 'di cư ngược' và nỗi đau phía sau giấc mơ Mỹ",
+      "link": "https://vnexpress.net/lan-song-di-cu-nguoc-va-noi-dau-phia-sau-giac-mo-my-4996030.html",
+      "summary": "Khi chính sách nhập cư trở thành \"gọng kìm\", hàng triệu người từ lao động phổ thông đến giới tinh hoa đang buộc phải rời bỏ nước Mỹ, để lại sau lưng tổ ấm và giấc mơ dang dở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:00:00+07:00",
+      "fetched": "2025-12-20T08:19:20.689860+07:00"
+    },
+    {
+      "id": "064f3d0316704b1a7b7548c393e39c98",
+      "title": "Dynamic Worldwide tăng tốc chuyển đổi số logistics toàn cầu",
+      "link": "https://vnexpress.net/dynamic-worldwide-tang-toc-chuyen-doi-so-logistics-toan-cau-4992455.html",
+      "summary": "Dynamic Worldwide mở rộng công nghệ và mạng lưới logistics để đáp ứng chuỗi cung ứng toàn cầu ngày càng phức tạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T00:00:00+07:00",
+      "fetched": "2025-12-20T08:19:20.690026+07:00"
+    },
+    {
+      "id": "900a9c5d5d02e69294c1e979ac2cb3c8",
+      "title": "Arteta: 'Thay đổi văn hóa là nền móng của Arsenal'",
+      "link": "https://vnexpress.net/arteta-thay-doi-van-hoa-la-nen-mong-cua-arsenal-4996062.html",
+      "summary": "HLV Mikel Arteta xem việc thay đổi văn hóa CLB là thành tựu lớn nhất trong 6 năm dẫn dắt Arsenal, khi đội bóng duy trì sự ổn định và thường xuyên cạnh tranh các danh hiệu lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:52:03+07:00",
+      "fetched": "2025-12-20T08:19:20.690203+07:00"
+    },
+    {
+      "id": "900a9c5d5d02e69294c1e979ac2cb3c8",
+      "title": "Arteta: 'Thay đổi văn hóa là nền móng của Arsenal'",
+      "link": "https://vnexpress.net/arteta-thay-doi-van-hoa-la-nen-mong-cua-arsenal-4996062.html",
+      "summary": "HLV Mikel Arteta xem việc thay đổi văn hóa CLB là thành tựu lớn nhất trong 6 năm dẫn dắt Arsenal, khi đội bóng duy trì sự ổn định và thường xuyên cạnh tranh các danh hiệu lớn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T23:52:03+07:00",
+      "fetched": "2025-12-20T08:19:32.509803+07:00"
+    },
+    {
+      "id": "11e9c911bb50bde5d5e5024aa8f5c1d4",
+      "title": "Mỹ hy vọng Campuchia - Thái Lan ngừng bắn vào đầu tuần tới",
+      "link": "https://vnexpress.net/my-hy-vong-campuchia-thai-lan-ngung-ban-vao-dau-tuan-toi-4996068.html",
+      "summary": "Ngoại trưởng Mỹ bày tỏ mong muốn Campuchia và Thái Lan đạt được thỏa thuận ngừng bắn vào đầu tuần tới nhằm chấm dứt những cuộc đụng độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:48:49+07:00",
+      "fetched": "2025-12-20T08:19:20.690360+07:00"
+    },
+    {
+      "id": "11e9c911bb50bde5d5e5024aa8f5c1d4",
+      "title": "Mỹ hy vọng Campuchia - Thái Lan ngừng bắn vào đầu tuần tới",
+      "link": "https://vnexpress.net/my-hy-vong-campuchia-thai-lan-ngung-ban-vao-dau-tuan-toi-4996068.html",
+      "summary": "Ngoại trưởng Mỹ bày tỏ mong muốn Campuchia và Thái Lan đạt được thỏa thuận ngừng bắn vào đầu tuần tới nhằm chấm dứt những cuộc đụng độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-19T23:48:49+07:00",
+      "fetched": "2025-12-20T08:19:27.165740+07:00"
+    },
+    {
+      "id": "efd310d7dbe6f7c6fb3af367f36768cd",
+      "title": "Salah xin lỗi đồng đội Liverpool sau phát biểu gây bão",
+      "link": "https://vnexpress.net/salah-xin-loi-dong-doi-liverpool-sau-phat-bieu-gay-bao-4996063.html",
+      "summary": "Trước khi đi dự Cup châu Phi (AFCON), Mohamed Salah trực tiếp xin lỗi toàn đội vì những phát biểu chỉ trích CLB và HLV Arne Slot, khép lại giai đoạn căng thẳng nội bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:43:57+07:00",
+      "fetched": "2025-12-20T08:19:20.690514+07:00"
+    },
+    {
+      "id": "efd310d7dbe6f7c6fb3af367f36768cd",
+      "title": "Salah xin lỗi đồng đội Liverpool sau phát biểu gây bão",
+      "link": "https://vnexpress.net/salah-xin-loi-dong-doi-liverpool-sau-phat-bieu-gay-bao-4996063.html",
+      "summary": "Trước khi đi dự Cup châu Phi (AFCON), Mohamed Salah trực tiếp xin lỗi toàn đội vì những phát biểu chỉ trích CLB và HLV Arne Slot, khép lại giai đoạn căng thẳng nội bộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T23:43:57+07:00",
+      "fetched": "2025-12-20T08:19:32.509960+07:00"
+    },
+    {
+      "id": "75eec02058349b1beff293251b46b3f5",
+      "title": "Guardiola: 'Khi 75 hay 76 tuổi, tôi sẽ rời Man City'",
+      "link": "https://vnexpress.net/guardiola-khi-75-hay-76-tuoi-toi-se-roi-man-city-4996065.html",
+      "summary": "HLV Pep Guardiola, 54 tuổi, nửa đùa nửa thật về mục tiếp tục gắn bó lâu dài với Man City, giữa lúc xuất hiện tin đồn Chelsea HLV Enzo Maresca có thể thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:35:52+07:00",
+      "fetched": "2025-12-20T08:19:20.690663+07:00"
+    },
+    {
+      "id": "75eec02058349b1beff293251b46b3f5",
+      "title": "Guardiola: 'Khi 75 hay 76 tuổi, tôi sẽ rời Man City'",
+      "link": "https://vnexpress.net/guardiola-khi-75-hay-76-tuoi-toi-se-roi-man-city-4996065.html",
+      "summary": "HLV Pep Guardiola, 54 tuổi, nửa đùa nửa thật về mục tiếp tục gắn bó lâu dài với Man City, giữa lúc xuất hiện tin đồn Chelsea HLV Enzo Maresca có thể thay thế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T23:35:52+07:00",
+      "fetched": "2025-12-20T08:19:32.510133+07:00"
+    },
+    {
+      "id": "9e4cafc8c65624cecfe6771c9d840333",
+      "title": "Ferguson: 'Có thể mất 10, 11 năm để Man Utd trở lại đỉnh cao'",
+      "link": "https://vnexpress.net/ferguson-co-the-mat-10-11-nam-de-man-utd-tro-lai-dinh-cao-4996066.html",
+      "summary": "Dù tin tưởng Ruben Amorim, huyền thoại Alex Ferguson thừa nhận việc tái thiết Man Utd có thể kéo dài 10-11 năm, dựa trên chu kỳ thành công lịch sử của bóng đá Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:32:40+07:00",
+      "fetched": "2025-12-20T08:19:20.690816+07:00"
+    },
+    {
+      "id": "9e4cafc8c65624cecfe6771c9d840333",
+      "title": "Ferguson: 'Có thể mất 10, 11 năm để Man Utd trở lại đỉnh cao'",
+      "link": "https://vnexpress.net/ferguson-co-the-mat-10-11-nam-de-man-utd-tro-lai-dinh-cao-4996066.html",
+      "summary": "Dù tin tưởng Ruben Amorim, huyền thoại Alex Ferguson thừa nhận việc tái thiết Man Utd có thể kéo dài 10-11 năm, dựa trên chu kỳ thành công lịch sử của bóng đá Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T23:32:40+07:00",
+      "fetched": "2025-12-20T08:19:32.510301+07:00"
+    },
+    {
+      "id": "45ba50e2286ff996456b5174d1931828",
+      "title": "Dự kiến siết đường từ 'trường' lên 'đại học'",
+      "link": "https://vnexpress.net/du-kien-siet-duong-tu-truong-len-dai-hoc-4996027.html",
+      "summary": "Với yêu cầu quy mô sinh viên lên 25.000, tỷ lệ giảng viên là tiến sĩ tối thiểu 60%, con đường để \"trường đại học\" lên \"đại học\" dự kiến khó hơn nhiều so với hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T23:00:00+07:00",
+      "fetched": "2025-12-20T08:19:20.690971+07:00"
     },
     {
       "id": "790e6471d6fa8d24bb375667113701e9",
