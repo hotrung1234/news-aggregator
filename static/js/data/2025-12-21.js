@@ -1,6 +1,6 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T03:18:06.907043+07:00",
+  "lastUpdated": "2025-12-21T05:15:56.527321+07:00",
   "articles": [
     {
       "id": "f3f07ee14b0fde7feb7b4898b7d9d700",
@@ -163,6 +163,146 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T01:22:50.182013+07:00"
     },
     {
+      "id": "31ce2d983cf5e6612d26f81f22c8773b",
+      "title": "Đất bị xẻ đôi, chủ đất ở TP.HCM thành bị đơn: UBND phường Thới Hòa nói gì?",
+      "link": "https://thanhnien.vn/dat-bi-xe-doi-chu-dat-o-tphcm-thanh-bi-don-ubnd-phuong-thoi-hoa-noi-gi-185251220083727419.htm",
+      "summary": "UBND phường Thới Hòa (TP.HCM) cho rằng khu đất không được quy hoạch đất giao thông; do người dân tự mở, tự làm đường cắt ngang…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:05:00+07:00",
+      "fetched": "2025-12-21T05:15:45.080614+07:00"
+    },
+    {
+      "id": "df4008509c524f7046ad421c12dcb10b",
+      "title": "Gaza trước ngã rẽ quản trị mới",
+      "link": "https://thanhnien.vn/gaza-truoc-nga-re-quan-tri-moi-185251220230646987.htm",
+      "summary": "Mỹ thúc đẩy thiết lập cơ chế quản trị mới tại Gaza nhằm củng cố lệnh ngừng bắn mong manh giữa Hamas - Israel, trong khi LHQ cảnh báo khủng hoảng lương thực và nhân đạo tại dải đất này vẫn ở mức nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.080803+07:00"
+    },
+    {
+      "id": "d0da4f0765cd9e293011f1a96ae1c2f3",
+      "title": "4 lỗi sai thường gặp khi đo huyết áp",
+      "link": "https://thanhnien.vn/4-loi-sai-thuong-gap-khi-do-huyet-ap-185251220203739602.htm",
+      "summary": "Không phải cứ một lần đo thấy huyết áp cao là đã mắc tăng huyết áp. Trên thực tế, huyết áp là chỉ số luôn biến động, chịu ảnh hưởng của tâm lý, vận động, giấc ngủ và đặc biệt là cách đo. Nhiều sai sót rất thường gặp trong quá trình đo có thể khiến mọi người hiểu nhầm tình trạng sức khỏe của mình. Vậ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.080963+07:00"
+    },
+    {
+      "id": "8fa21416d7bc458ea3db69026c18722c",
+      "title": "Cảnh báo bão mặt trời quay trở lại: Tình hình Đông chí hôm nay 21.12 thế nào?",
+      "link": "https://thanhnien.vn/canh-bao-bao-mat-troi-quay-tro-lai-tinh-hinh-dong-chi-hom-nay-2112-the-nao-18525122019344201.htm",
+      "summary": "Sau thời gian tạm lắng, chuyên gia cảnh báo bão mặt trời quay trở lại tấn công trái đất. Tình hình hôm nay, vào ngày Đông chí 21.12 ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081117+07:00"
+    },
+    {
+      "id": "0fdd78785caf6510bfa0dccf4967e8d4",
+      "title": "TP.HCM cải tạo vỉa hè trung tâm, người dân mong sớm hoàn thiện",
+      "link": "https://thanhnien.vn/tphcm-cai-tao-via-he-trung-tam-nguoi-dan-mong-som-hoan-thien-185251220161325344.htm",
+      "summary": "Nhiều tuyến vỉa hè tại TP.HCM đang được cải tạo, chỉnh trang nhằm nâng cao an toàn cho người đi bộ và cải thiện diện mạo đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081264+07:00"
+    },
+    {
+      "id": "5fe6fe82b12f17e453de402a17a9333f",
+      "title": "Tác động tinh gọn: Công thức mới để giải quyết tận gốc vấn đề xã hội",
+      "link": "https://thanhnien.vn/tac-dong-tinh-gon-cong-thuc-moi-de-giai-quyet-tan-goc-van-de-xa-hoi-185251219143323279.htm",
+      "summary": "Cuốn sách Tác động tinh gọn không chỉ cung cấp kiến thức, mà còn gieo mầm cho một văn hóa làm việc mới: văn hóa dám thử nghiệm, dám thất bại một cách thông minh và dám thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081413+07:00"
+    },
+    {
+      "id": "02e203027b5e0dacf521f9d5a057e9fa",
+      "title": "Tham gia BHXH tự nguyện, cần thủ tục gì để hưởng trợ cấp thai sản?",
+      "link": "https://thanhnien.vn/tham-gia-bhxh-tu-nguyen-can-thu-tuc-gi-de-huong-tro-cap-thai-san-185251220094400973.htm",
+      "summary": "Gần đây, nhiều người thắc mắc khi tham gia bảo hiểm xã hội tự nguyện cần thực hiện thủ tục như thế nào để hưởng trợ cấp thai sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:55:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081562+07:00"
+    },
+    {
+      "id": "5c627072ac5ffa12560482a77aba3434",
+      "title": "Cấm hát karaoke loa kéo, có thể bị phạt 160 triệu đồng?",
+      "link": "https://thanhnien.vn/cam-hat-karaoke-loa-keo-co-the-bi-phat-160-trieu-dong-185250404091210026.htm",
+      "summary": "Nghị định 282 đang khiến không ít người lo lắng khi tưởng rằng hát karaoke loa kéo (loa kẹo kéo) có thể bị phạt tới 160 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:45:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081743+07:00"
+    },
+    {
+      "id": "0c98611f47e6e2493d31a1bb7f20c30a",
+      "title": "Chiến sự Ukraine ngày 1.396: Giao tranh dữ dội, hòa đàm tăng tốc trước cuối năm",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1396-giao-tranh-du-doi-hoa-dam-tang-toc-truoc-cuoi-nam-185251220212154404.htm",
+      "summary": "Ukraine cáo buộc Nga đêm 19.12 đã tiến hành cuộc tấn công tên lửa nhằm vào cơ sở hạ tầng cảng biển tại tỉnh Odesa, miền nam Ukraine, khiến ít nhất 8 người thiệt mạng và 27 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:31:00+07:00",
+      "fetched": "2025-12-21T05:15:45.081895+07:00"
+    },
+    {
+      "id": "0f06decc9f9491d47042a968f42b8508",
+      "title": "Chịu trách nhiệm hình sự tội gì nếu thú cưng gây chết người?",
+      "link": "https://thanhnien.vn/chiu-trach-nhiem-hinh-su-toi-gi-neu-thu-cung-gay-chet-nguoi-185251203114805289.htm",
+      "summary": "Việc thả rông thú cưng, đặc biệt là chó, mèo là hành vi vi phạm pháp luật và có thể khiến chủ nuôi phải gánh chịu nhiều hậu quả pháp lý bất lợi về dân sự, hành chính hoặc thậm chí là hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:17:00+07:00",
+      "fetched": "2025-12-21T05:15:45.082049+07:00"
+    },
+    {
+      "id": "40867e1b0e086f4562a3e1e66c9e4cfe",
+      "title": "Kháng insulin ở người gầy: Khi mỡ nội tạng trở thành mối nguy",
+      "link": "https://thanhnien.vn/khang-insulin-o-nguoi-gay-khi-mo-noi-tang-tro-thanh-moi-nguy-185251219171034342.htm",
+      "summary": "Vòng bụng tăng, đặc biệt ở người không tăng cân nhưng lại tích mỡ nhiều quanh eo, là một trong những biểu hiện sớm của tình trạng kháng insulin. Mỡ nội tạng càng nhiều, khả năng kháng insulin càng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:06:00+07:00",
+      "fetched": "2025-12-21T05:15:45.082216+07:00"
+    },
+    {
+      "id": "684292509a75f549566c19f668db9fd8",
+      "title": "Làm mẹ ở tuổi 27 từ trứng duy nhất còn lại",
+      "link": "https://vnexpress.net/lam-me-o-tuoi-27-tu-trung-duy-nhat-con-lai-4996082.html",
+      "summary": "Chỉ còn một trứng và tiên lượng rất thấp, người phụ nữ 27 tuổi may mắn đậu thai, sinh con khỏe mạnh nhờ can thiệp hỗ trợ sinh sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:00:00+07:00",
+      "fetched": "2025-12-21T05:15:41.398691+07:00"
+    },
+    {
+      "id": "9e778542f33579605922db8fd8a6d89b",
+      "title": "Khai thác 'kinh tế bạc' ở Việt Nam",
+      "link": "https://thanhnien.vn/khai-thac-kinh-te-bac-o-viet-nam-185251220230007186.htm",
+      "summary": "Nền kinh tế bạc tại VN sẽ phát triển thế nào khi bắt đầu vào giai đoạn chuyển đổi nhanh từ xã hội \"dân số vàng\" sang \"già hóa\" với tốc độ cao như hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.082369+07:00"
+    },
+    {
+      "id": "d534a88f1c9c476bdb960393d3a8e23a",
+      "title": "Vàng, bạc đều rủi ro cao",
+      "link": "https://thanhnien.vn/vang-bac-deu-rui-ro-cao-185251220213856031.htm",
+      "summary": "Giá vàng, bạc đều đã có những ngày lập đỉnh kỷ lục rồi nhanh chóng quay đầu đi xuống khiến người mua trong ngắn hạn chịu lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:00:00+07:00",
+      "fetched": "2025-12-21T05:15:45.082510+07:00"
+    },
+    {
       "id": "15a43a25ea79bfff3b6cf3d701a2af14",
       "title": "Khép lại SEA Games 33, tất cả đều chiến thắng",
       "link": "https://thanhnien.vn/khep-lai-sea-games-33-tat-ca-deu-chien-thang-185251220231114727.htm",
@@ -213,6 +353,26 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T03:18:06.902030+07:00"
     },
     {
+      "id": "a8e380f550ac11cfbff83c02846512d5",
+      "title": "Lương Đức Phước bảo vệ chức vô địch 21km VM Hải Phòng",
+      "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-hai-phong-4996240.html",
+      "summary": "Chân chạy gốc Bình Phước Lương Đức Phước vượt qua Nguyễn Thành Đạt, Lê Văn Thao để về nhất 21km nam với thông số tạm tính 1 tiếng 9 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:00:00+07:00",
+      "fetched": "2025-12-21T05:15:41.399041+07:00"
+    },
+    {
+      "id": "a8e380f550ac11cfbff83c02846512d5",
+      "title": "Bùi Thu Hà vô địch 21km VnExpress Marathon Hải Phòng",
+      "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-hai-phong-4996240.html",
+      "summary": "HC đồng marathon SEA Games 33 Bùi Thị Thu Hà vượt qua đồng đội ở đội tuyển quốc gia Đoàn Thu Hằng để về nhất sau 1 tiếng 20 phút 30 giây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T19:00:00+07:00",
+      "fetched": "2025-12-21T05:15:56.522313+07:00"
+    },
+    {
       "id": "72919551fa5375302140eee8a4fcb192",
       "title": "Haaland giúp Man City thắng đậm ở Ngoại hạng Anh",
       "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-o-ngoai-hang-anh-4996373.html",
@@ -231,6 +391,26 @@ window.newsData_2025_12_21 = {
       "category": "Thể thao",
       "published": "2025-12-20T18:23:05+07:00",
       "fetched": "2025-12-21T03:18:06.902214+07:00"
+    },
+    {
+      "id": "f5a88139a58410f0312ab741e4b5237f",
+      "title": "Haaland đưa Man City trở lại đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-dua-man-city-tro-lai-dinh-bang-ngoai-hang-anh-4996373.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp và kiến tạo bàn còn lại, giúp Man City thắng đội khách West Ham 3-0 ở vòng 17 và chiếm đỉnh bảng từ Arsenal ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T18:23:05+07:00",
+      "fetched": "2025-12-21T05:15:41.399201+07:00"
+    },
+    {
+      "id": "f5a88139a58410f0312ab741e4b5237f",
+      "title": "Haaland đưa Man City trở lại đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-dua-man-city-tro-lai-dinh-bang-ngoai-hang-anh-4996373.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp và kiến tạo bàn còn lại, giúp Man City thắng đội khách West Ham 3-0 ở vòng 17 và chiếm đỉnh bảng từ Arsenal ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T18:23:05+07:00",
+      "fetched": "2025-12-21T05:15:56.522138+07:00"
     },
     {
       "id": "b6adbde18f034f4e0bc27fefef349f41",
