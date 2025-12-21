@@ -1,7 +1,157 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T08:28:39.003075+07:00",
+  "lastUpdated": "2025-12-21T10:26:57.587113+07:00",
   "articles": [
+    {
+      "id": "7460234910a2ef8c05a8afb3b4dd1357",
+      "title": "Bộ Y tế đang nghiên cứu nâng lương khởi điểm cho bác sĩ",
+      "link": "https://tuoitre.vn/bo-y-te-dang-nghien-cuu-nang-luong-khoi-diem-cho-bac-si-20251220175136344.htm",
+      "summary": "Trước kiến nghị của cử tri về chế độ tiền lương đối với bác sĩ mới ra trường, Bộ Y tế cho biết đang phối hợp với các bộ, ngành liên quan nghiên cứu, hoàn thiện chính sách tiền lương, trong đó có phương án điều chỉnh hệ số lương khởi điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.547230+07:00",
+      "fetched": "2025-12-21T10:26:50.547343+07:00"
+    },
+    {
+      "id": "f8b88a8f222d80523d69fdacc58a9850",
+      "title": "Tài sản ông Elon Musk vượt 740 tỉ USD",
+      "link": "https://tuoitre.vn/tai-san-ong-elon-musk-vuot-740-ti-usd-20251221074205989.htm",
+      "summary": "Giám đốc điều hành Tesla, Elon Musk, đã trở thành người đầu tiên trên thế giới có giá trị tài sản ròng trên 700 tỉ USD, cụ thể là 749 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.547109+07:00",
+      "fetched": "2025-12-21T10:26:50.547220+07:00"
+    },
+    {
+      "id": "76540f6ee65bd5efba741e9642dc032f",
+      "title": "Tài xế xe điện bị xử phạt giao thông vì… quá ồn",
+      "link": "https://tuoitre.vn/tai-xe-xe-dien-bi-xu-phat-giao-thong-vi-qua-on-20251220200855734.htm",
+      "summary": "Một tài xế tại Mỹ bị cảnh sát lập biên bản xử phạt giao thông vì “nẹt pô ồn”, dù chiếc Dodge Charger của anh là xe điện, không hề có ống pô thực sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546985+07:00",
+      "fetched": "2025-12-21T10:26:50.547098+07:00"
+    },
+    {
+      "id": "5e224edf37d97b137af091ca38310bfa",
+      "title": "Hộ kinh doanh có doanh thu dưới 500 triệu đồng/năm muốn xuất hóa đơn được không?",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-co-doanh-thu-duoi-500-trieu-dong-nam-muon-xuat-hoa-don-duoc-khong-20251221063416624.htm",
+      "summary": "Theo Luật Thuế thu nhập cá nhân (sửa đổi) vừa được Quốc hội thông qua ngày 10-12, ngưỡng doanh thu tính thuế của hộ kinh doanh được nâng lên 500 triệu đồng/năm, từ đầu năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546856+07:00",
+      "fetched": "2025-12-21T10:26:50.546974+07:00"
+    },
+    {
+      "id": "07c55159b3e4665a5cbce475182f7033",
+      "title": "Kiến nghị người đủ 60 tuổi được hưởng trợ cấp hưu trí xã hội: Bộ Y tế nói gì?",
+      "link": "https://tuoitre.vn/kien-nghi-nguoi-du-60-tuoi-duoc-huong-tro-cap-huu-tri-xa-hoi-bo-y-te-noi-gi-20251220181353561.htm",
+      "summary": "Theo quy định hiện hành, người cao tuổi là người đủ 60 tuổi trở lên. Bởi vậy cử tri kiến nghị Chính phủ xem xét hỗ trợ chính sách để người từ đủ 60 tuổi trở lên được hưởng trợ cấp hưu trí xã hội hằng tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546707+07:00",
+      "fetched": "2025-12-21T10:26:50.546844+07:00"
+    },
+    {
+      "id": "5150c956a7bc5a9ce552098ad1558278",
+      "title": "Chỉ cần 6-7 tiếng, Y-Concert vẫn xứng đáng là đại concert",
+      "link": "https://tuoitre.vn/chi-can-6-7-tieng-y-concert-van-xung-dang-la-dai-concert-20251221065255068.htm",
+      "summary": "Lượng khán giả đổ về Y-Concert chưa đến 90.000 nhưng khoảng 50.000 - 60.000 đã nằm trong tầm tay, tiếp tục mở ra cột mốc mới với ngành công nghiệp biểu diễn ở nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546576+07:00",
+      "fetched": "2025-12-21T10:26:50.546695+07:00"
+    },
+    {
+      "id": "85aabcbeb06c27e230186afd0761d136",
+      "title": "Khoảnh khắc đời thường của tân Miss Cosmo đến từ Mỹ",
+      "link": "https://tuoitre.vn/khoanh-khac-doi-thuong-cua-tan-miss-cosmo-den-tu-my-20251221071439278.htm",
+      "summary": "Miss Cosmo 2025 Yolina Lindquist thực hiện dự án hỗ trợ bệnh nhân ung thư với mục tiêu không còn ai phải nghe câu nói ‘Tôi mắc ung thư’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546446+07:00",
+      "fetched": "2025-12-21T10:26:50.546561+07:00"
+    },
+    {
+      "id": "a31f6940ce50c5afccdf2c1c168fe7e7",
+      "title": "Điểm tin cùng bạn 8h: Ra mắt Visit Vietnam; Tài xế gây sốt vì dừng đèn đỏ lúc 4h sáng",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-ra-mat-visit-vietnam-tai-xe-gay-sot-vi-dung-den-do-luc-4h-sang-20251221054023463.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 21-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546316+07:00",
+      "fetched": "2025-12-21T10:26:50.546435+07:00"
+    },
+    {
+      "id": "493e26b0311e3479f193eae06ab086c6",
+      "title": "Hơn 10.000 người tham gia Giải marathon di sản quốc tế Cần Thơ",
+      "link": "https://tuoitre.vn/hon-10-000-nguoi-tham-gia-giai-marathon-di-san-quoc-te-can-tho-20251221074339495.htm",
+      "summary": "Giải marathon di sản quốc tế Cần Thơ có cung đường chạy qua các điểm du lịch nổi tiếng của thành phố như bến Ninh Kiều, chợ nổi Cái Răng…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546190+07:00",
+      "fetched": "2025-12-21T10:26:50.546305+07:00"
+    },
+    {
+      "id": "cc6d76ded2d01898ea33cb417599e086",
+      "title": "'Siêu dự án' trục cảnh quan sông Hồng: Kiến tạo không gian sống mới, không quên nguy cơ lũ lụt",
+      "link": "https://tuoitre.vn/sieu-du-an-truc-canh-quan-song-hong-kien-tao-khong-gian-song-moi-khong-quen-nguy-co-lu-lut-20251221074919576.htm",
+      "summary": "Hà Nội vừa tổ chức lễ khởi công siêu dự án trục đại lộ cảnh quan sông Hồng đoạn qua trung tâm TP, quy mô vốn lên tới 855.000 tỉ đồng (tương đương 34,2 tỉ USD) với mong muốn đưa TP \"quay mặt\" ra sông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.546061+07:00",
+      "fetched": "2025-12-21T10:26:50.546179+07:00"
+    },
+    {
+      "id": "1cb4f7f13f1dbce52172a5abdfec9319",
+      "title": "Xem xét xử lý hình sự vụ phụ nữ Nga 'biểu diễn' trên yên mô tô tại Khánh Hòa",
+      "link": "https://tuoitre.vn/xem-xet-xu-ly-hinh-su-vu-phu-nu-nga-bieu-dien-tren-yen-mo-to-tai-khanh-hoa-20251221071832764.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an tỉnh Khánh Hòa chuyển Phòng Cảnh sát hình sự thụ lý theo thẩm quyền vụ một phụ nữ Nga chạy mô tô biểu diễn trên đường phố gây phản cảm rồi đăng lên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.545926+07:00",
+      "fetched": "2025-12-21T10:26:50.546048+07:00"
+    },
+    {
+      "id": "17ff7b5f92bc35644aa5d97961d59b4b",
+      "title": "Miền Trung đón mưa lớn cục bộ ngày 21-12",
+      "link": "https://tuoitre.vn/mien-trung-don-mua-lon-cuc-bo-ngay-21-12-20251221080925598.htm",
+      "summary": "Trong ngày 21-12, các tỉnh miền Trung khu vực từ Quảng Trị đến Đắk Lắk dự báo có mưa to, có nơi mưa cục bộ trên 70mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.545770+07:00",
+      "fetched": "2025-12-21T10:26:50.545913+07:00"
+    },
+    {
+      "id": "971c8b33cc0f5aa3a5e44ca260a62272",
+      "title": "Quần vợt Việt Nam sa sút thảm hại từ khi có 'cơn sốt' pickleball",
+      "link": "https://tuoitre.vn/quan-vot-viet-nam-sa-sut-tham-hai-tu-khi-co-con-sot-pickleball-20251220210308676.htm",
+      "summary": "Ở SEA Games 33, đội quần vợt Việt Nam trắng tay, không giành được bất kỳ tấm huy chương nào. Thành tích nghèo nàn này hoàn toàn nằm trong dự đoán, kể từ khi cơn sốt pickleball xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.545631+07:00",
+      "fetched": "2025-12-21T10:26:50.545754+07:00"
+    },
+    {
+      "id": "2941ef72b93d9ba05d34ba43c84bdc7f",
+      "title": "TP.HCM cần một DNA lifestyle riêng",
+      "link": "https://tuoitre.vn/tp-hcm-can-mot-dna-lifestyle-rieng-20251221064105143.htm",
+      "summary": "Khi các trào lưu cà phê Hàn, chợ đêm Thái hay phố đi bộ kiểu Trung Quốc nở rộ rồi nhanh chóng thoái trào, TP.HCM đứng trước một lựa chọn rõ ràng: xây dựng bản sắc lifestyle của riêng mình, dựa trên \"chất Sài Gòn\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.545489+07:00",
+      "fetched": "2025-12-21T10:26:50.545619+07:00"
+    },
+    {
+      "id": "a976e6317df5723907cc60209f364632",
+      "title": "'Giải mật' và 'bôi đen' hồ sơ Epstein, vẫn còn nghi ngờ về việc cố tình che giấu",
+      "link": "https://tuoitre.vn/giai-mat-va-boi-den-ho-so-epstein-van-con-nghi-ngo-ve-viec-co-tinh-che-giau-20251221080620427.htm",
+      "summary": "Cách Bộ Tư pháp Mỹ công bố hồ sơ Epstein chưa thể dập tắt các thuyết âm mưu và những đòn công kích chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:26:50.545268+07:00",
+      "fetched": "2025-12-21T10:26:50.545475+07:00"
+    },
     {
       "id": "6b8f29707b48ead01c8bcc819279b3ad",
       "title": "Thời tiết hôm nay 21-12: Bắc Bộ, Nam Bộ nắng; Trung Bộ mưa to",
@@ -83,6 +233,16 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T08:28:31.267970+07:00"
     },
     {
+      "id": "9f1a1e20fb0fa40f194ae3f70d290d55",
+      "title": "HAWA hướng tới mục tiêu xuất khẩu mang về 15 tỉ USD",
+      "link": "https://thanhnien.vn/hawa-huong-toi-muc-tieu-xuat-khau-mang-ve-15-ti-usd-18525122109514371.htm",
+      "summary": "Hiệp hội Mỹ nghệ và Chế biến gỗ TP.HCM (HAWA) và Hiệp hội Chế biến gỗ tỉnh Bình Dương (BIFA) vừa tổ chức thành công Đại hội đại biểu lần 1 (nhiệm kỳ 2025 - 2028), đánh dấu sự hợp nhất lịch sử của ngành gỗ và chế biến gỗ tại TP.HCM. Ông Phùng Quốc Mẫn - Chủ tịch HAWA nhiệm kỳ trước tiếp tục giữ vị tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:20:00+07:00",
+      "fetched": "2025-12-21T10:26:49.092977+07:00"
+    },
+    {
       "id": "f3f07ee14b0fde7feb7b4898b7d9d700",
       "title": "Báo Trung Quốc gọi U23 Thái Lan là 'đội yếu', phải giành 3 điểm",
       "link": "https://tuoitre.vn/bao-trung-quoc-goi-u23-thai-lan-la-doi-yeu-phai-gianh-3-diem-20251221001636161.htm",
@@ -91,6 +251,316 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T03:17:59.347225+07:00",
       "fetched": "2025-12-21T03:17:59.347431+07:00"
+    },
+    {
+      "id": "c79130492068cba430fd006740e11e6a",
+      "title": "Sắc vóc gợi cảm của Miss Cosmo 2025 vừa đăng quang tại Việt Nam",
+      "link": "https://thanhnien.vn/sac-voc-goi-cam-cua-miss-cosmo-2025-vua-dang-quang-tai-viet-nam-185251221083719324.htm",
+      "summary": "Yolina Lindquist trở thành chủ nhân vương miện Miss Cosmo 2025. Người đẹp Mỹ gây ấn tượng với vẻ đẹp sắc sảo, quyến rũ, bản lĩnh ứng xử trên sân khấu cùng học vấn đáng nể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:13:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093148+07:00"
+    },
+    {
+      "id": "a383f4d7ad194b39f9792fdf96805a03",
+      "title": "Bộ Tư pháp Mỹ bị cáo buộc âm thầm rút 16 tập tin khỏi hồ sơ Epstein",
+      "link": "https://vnexpress.net/bo-tu-phap-my-bi-cao-buoc-am-tham-rut-16-tap-tin-khoi-ho-so-epstein-4996396.html",
+      "summary": "Ít nhất 16 tập tin biến mất khỏi trang web công khai tài liệu liên quan đến hồ sơ Epstein của Bộ Tư pháp Mỹ mà không rõ lý do.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T03:12:39+07:00",
+      "fetched": "2025-12-21T10:26:51.842970+07:00"
+    },
+    {
+      "id": "06ac71a37fd1af5ad2b9364f18227375",
+      "title": "Lý do Jun Phạm áp lực, Soobin sụt cân ở show thực tế",
+      "link": "https://thanhnien.vn/ly-do-jun-pham-ap-luc-soobin-sut-can-o-show-thuc-te-185251221093908625.htm",
+      "summary": "Jun Phạm áp lực khi hỗ trợ các thí sinh 'Tân binh toàn năng' vượt qua thử thách khó ở công diễn 5. Trong khi đó, quá trình dìu dắt, bảo vệ các học trò khiến Soobin căng thẳng, sụt cân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:08:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093307+07:00"
+    },
+    {
+      "id": "009ae1425b2fbf63d981d14ddf597590",
+      "title": "Chính sách mới về lương, thưởng, thu nhập viên chức từ 1.7.2026",
+      "link": "https://thanhnien.vn/chinh-sach-moi-ve-luong-thuong-thu-nhap-vien-chuc-tu-172026-185251220223919449.htm",
+      "summary": "Luật Viên chức (sửa đổi) vừa được Quốc hội thông qua bổ sung \"các nguồn thu hợp pháp khác\" cho viên chức, bên cạnh tiền lương, thưởng từ quỹ lương của đơn vị, có hiệu lực từ 1.7.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:08:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093462+07:00"
+    },
+    {
+      "id": "613f4024417fa0b068a737b5d9598312",
+      "title": "Người tinh tế sẽ biết ngay thành ngữ này",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nguoi-tinh-te-se-biet-ngay-thanh-ngu-nay-4994898.html",
+      "summary": "Thành ngữ khuyên chúng ta cần tự nhận thức về thân phận, khả năng, hoàn cảnh của bản thân để ứng xử với mọi người thật khôn khéo, thích hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:45.483859+07:00"
+    },
+    {
+      "id": "4902944bb504bfb624da68621c127cdf",
+      "title": "Hai cuốn sách về AI và chuyển đổi số trong truyền thông",
+      "link": "https://vnexpress.net/hai-cuon-sach-ve-ai-va-chuyen-doi-so-trong-truyen-thong-4995961.html",
+      "summary": "Nhà xuất bản Khoa học - Công nghệ - Truyền thông phát hành hai cuốn sách mới, phác họa cách AI và chuyển đổi số tái định hình truyền thông, báo chí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:45.484042+07:00"
+    },
+    {
+      "id": "9c17b463ab5b01ae5ba7f6696f3ca716",
+      "title": "Có cần khám tiền mang thai trước khi bầu lần hai không?",
+      "link": "https://vnexpress.net/co-can-kham-tien-mang-thai-truoc-khi-bau-lan-hai-khong-4996319.html",
+      "summary": "Tôi sinh con đầu bình thường thì có cần khám tiền mang thai ở lần tiếp theo không hay có thể bỏ qua bước này? (Mỹ, 31 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:45.484215+07:00"
+    },
+    {
+      "id": "7640083532c88cb82f9b2a09f4a991a9",
+      "title": "Những lầm tưởng về bữa ăn của trẻ",
+      "link": "https://vnexpress.net/nhung-lam-tuong-ve-bua-an-cua-tre-4996316.html",
+      "summary": "Lầm tưởng uống sữa thay cơm, ăn cháo hoặc thức ăn xay nhuyễn kéo dài tốt cho tiêu hóa có thể ảnh hưởng đến sự phát triển của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:45.484384+07:00"
+    },
+    {
+      "id": "44fa94dab35eaa6cf3a1c7fd0cf8e4da",
+      "title": "FAM bị AFC phạt nặng liên tiếp, trình báo cảnh sát vụ 7 cầu thủ nhập tịch ‘lậu’",
+      "link": "https://thanhnien.vn/fam-bi-afc-phat-nang-lien-tiep-trinh-bao-canh-sat-vu-7-cau-thu-nhap-tich-lau-185251221095114153.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) vừa phạt FAM tổng cộng 50.962 ringgit (hơn 328 triệu đồng) vì sự cố ở vòng loại Asian Cup 2027, cùng lúc quyền Chủ tịch Yusoff Mahadi xác nhận sắp trình báo cảnh sát vụ 7 cầu thủ nhập tịch 'lậu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093616+07:00"
+    },
+    {
+      "id": "138696fd64181becfed08388ffa8d7ec",
+      "title": "Mùa mới, dạ tweed đem đến một vẻ đẹp thật khác biệt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-moi-da-tweed-dem-den-mot-ve-dep-that-khac-biet-185251220113718036.htm",
+      "summary": "Dạ tweed là lựa chọn lý tưởng dành cho những ai tìm kiếm vẻ đẹp tinh tế mà không cần đến sự phô diễn. Từ phom dáng chuẩn mực đến chất liệu dệt đặc trưng, tweed mang lại cảm giác chỉn chu, sang trọng, thời thượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T03:00:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093767+07:00"
+    },
+    {
+      "id": "a5cbcf8b850c5faf883085e541ebbb8c",
+      "title": "Nữ du khách bị điều tra vì 'quỳ gối, nằm trên yên' khi chạy môtô",
+      "link": "https://vnexpress.net/nu-du-khach-bi-dieu-tra-vi-quy-goi-nam-tren-yen-khi-chay-moto-4996398.html",
+      "summary": "Người phụ nữ quốc tịch Nga bị cảnh sát mời làm việc vì biểu diễn chạy xe phân khối lớn trong tư thế \"quỳ gối, nằm trên yên\" gây ảnh hưởng người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:54:37+07:00",
+      "fetched": "2025-12-21T10:26:45.484550+07:00"
+    },
+    {
+      "id": "fd775c7698c37a5b6b6e195e310f5164",
+      "title": "Cựu trợ lý của ông Joe Biden nhận hộ chiếu Nga",
+      "link": "https://thanhnien.vn/cuu-tro-ly-cua-ong-joe-biden-nhan-ho-chieu-nga-18525122109432166.htm",
+      "summary": "Bà Tara Reade, từng làm trợ lý cho cựu Tổng thống Mỹ Joe Biden khi ông còn là thượng nghị sĩ, vừa chia sẻ với Đài RT rằng bà đã nhận được hộ chiếu Nga hôm 20.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:48:00+07:00",
+      "fetched": "2025-12-21T10:26:49.093947+07:00"
+    },
+    {
+      "id": "1fc76553c146d1d5880022db2e106207",
+      "title": "Tỉ phú Elon Musk trở thành người đầu tiên trên thế giới có 700 tỉ USD",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-700-ti-usd-185251221092314466.htm",
+      "summary": "Ông Elon Musk thành người đầu tiên trên thế giới sở hữu khối tài sản hơn 700 tỉ USD, sau khi gói thù lao bằng cổ phiếu Tesla được tòa án Mỹ khôi phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:46:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094106+07:00"
+    },
+    {
+      "id": "747e318ce9ba49cee1244025e087bf2b",
+      "title": "Thanh Niên và tôi: Thanh Niên - nơi tôi gieo niềm tin nghề báo",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-noi-toi-gieo-niem-tin-nghe-bao-185251220103614067.htm",
+      "summary": "Những ngày thực tập tại Văn phòng đại diện Báo Thanh Niên khu vực Tây Nam bộ đã đưa tôi đến gần hơn với đời sống miền sông nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:45:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094259+07:00"
+    },
+    {
+      "id": "a8a625922ea7c7361ba7dc45d80438e8",
+      "title": "Sở giao dịch hàng hóa có kim loại quý hiếm trừ vàng",
+      "link": "https://thanhnien.vn/so-giao-dich-hang-hoa-co-kim-loai-quy-hiem-tru-vang-18525122109361529.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định 330 về thành lập và hoạt động Sở giao dịch hàng hóa trong Trung tâm tài chính quốc tế tại Việt Nam có hiệu lực từ ngày 18.12. Theo đó, hàng hóa được phép giao dịch tại Sở bao gồm nhưng không giới hạn các nhóm sản phẩm nông nghiệp, sản phẩm năng lượng, nguyên liệu côn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:41:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094410+07:00"
+    },
+    {
+      "id": "f3f082347ec7ca398e6cc123d40e047e",
+      "title": "Triệt phá đường dây đưa ma túy từ Campuchia về Việt Nam, tiêu thụ ở Đồng Nai",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-dua-ma-tuy-tu-campuchia-ve-viet-nam-tieu-thu-o-dong-nai-185251221091204438.htm",
+      "summary": "Công an tỉnh Đồng Nai vừa triệt phá một đường dây đưa ma túy từ Campuchia về Việt Nam, tiêu thụ ở Đồng Nai; thu giữ 6 ký ma túy, 1 khẩu súng Rulo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:40:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094574+07:00"
+    },
+    {
+      "id": "f5a4a964fafde500873f8b860f85e390",
+      "title": "Khu Chợ Lớn ở TP.HCM rất đông người mua chè trôi nước mừng tết Đông chí",
+      "link": "https://thanhnien.vn/khu-cho-lon-o-tphcm-rat-dong-nguoi-mua-che-troi-nuoc-mung-tet-dong-chi-1852512210833525.htm",
+      "summary": "Sáng nay 21.12 ngày Đông chí, khu Chợ Lớn (TP.HCM) đông đúc người tìm đến mua chè trôi nước để ăn mừng tết Đông chí, ngày quan trọng trong truyền thống, văn hóa của người Hoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:40:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094726+07:00"
+    },
+    {
+      "id": "3824871a6eb3450c4568a24c0a164b97",
+      "title": "Thưởng SEA Games: Khoản nào không chịu thuế và khoản nào phải nộp, HLV Kim Sang-sik ra sao?",
+      "link": "https://thanhnien.vn/thuong-sea-games-khoan-nao-khong-chiu-thue-va-khoan-nao-phai-nop-hlv-kim-sang-sik-ra-sao-185251221091241319.htm",
+      "summary": "Xung quanh vấn đề nghĩa vụ thuế của đoàn thể thao Việt Nam tại SEA Games, cần làm rõ rằng không phải mọi khoản thưởng mà HLV, VĐV nhận được đều phải nộp thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:37:00+07:00",
+      "fetched": "2025-12-21T10:26:49.094892+07:00"
+    },
+    {
+      "id": "ac6d08efb9ac4b814f5756bfb49bbb43",
+      "title": "Điều tra vụ bảo vệ bị đâm tử vong ở cổng Bệnh viện đa khoa Vĩnh Long",
+      "link": "https://thanhnien.vn/dieu-tra-vu-bao-ve-bi-dam-tu-vong-o-cong-benh-vien-da-khoa-vinh-long-185251221081444118.htm",
+      "summary": "Một bảo vệ bị đâm tử vong ở cổng Bệnh viện đa khoa Vĩnh Long. Lực lượng công an đang truy tìm nghi phạm và điều tra vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:36:00+07:00",
+      "fetched": "2025-12-21T10:26:49.095039+07:00"
+    },
+    {
+      "id": "f33191e84888de65f89164cd1fe59145",
+      "title": "UEF’s Got Talent 2025: Sân khấu sinh viên khiến giám khảo chuyên môn ‘cân não’",
+      "link": "https://thanhnien.vn/uefs-got-talent-2025-san-khau-sinh-vien-khien-giam-khao-chuyen-mon-can-nao-185251220183925372.htm",
+      "summary": "Không chỉ là sân chơi nghệ thuật dành cho sinh viên, UEF’s Got Talent 2025 còn tạo dấu ấn với giới chuyên môn khi quy tụ dàn giám khảo uy tín và những tiết mục được đầu tư bài bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:35:00+07:00",
+      "fetched": "2025-12-21T10:26:49.095190+07:00"
+    },
+    {
+      "id": "c7dcf9459db96ff738f9bdf52ead157f",
+      "title": "Cú điện thoại cứu cả làng trong 20 phút",
+      "link": "https://vnexpress.net/cu-dien-thoai-cuu-ca-lang-trong-20-phut-4996390.html",
+      "summary": "Phát hiện tiếng đá lăn bất thường, ông Zhang Deyuan lập tức báo động, giúp sơ tán 45 người dân làng Huangci ngay trước khi đất đá vùi lấp tất cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:08:17+07:00",
+      "fetched": "2025-12-21T10:26:45.484709+07:00"
+    },
+    {
+      "id": "469ef14241029a0ec3e183f9294b5e74",
+      "title": "Camera AI 'bắt' lỗi giao thông từng khó phát hiện",
+      "link": "https://vnexpress.net/camera-ai-bat-loi-giao-thong-tung-kho-phat-hien-4994873.html",
+      "summary": "Dùng điện thoại, không thắt dây, chở trẻ em thiếu an toàn... là những lỗi trước đây ít bị phát hiện, nay sẽ bị camera AI ghi nhận tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:08:01+07:00",
+      "fetched": "2025-12-21T10:26:45.484891+07:00"
+    },
+    {
+      "id": "5a2f968c72fe68bd0e2fc1ae9acd9def",
+      "title": "Vĩ Ly bất ngờ vô địch VnExpress Marathon Hải Phòng 2025",
+      "link": "https://vnexpress.net/vi-ly-bat-ngo-vo-dich-vnexpress-marathon-hai-phong-2025-4996384.html",
+      "summary": "Tận dụng Trịnh Minh Tâm đuối sức, Hoàng Viết Vĩ Ly vô địch ngay lần đầu chạy 42km ở VnExpress Marathon Hải Phòng, với thành tích 2 tiếng 26 phút 44 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T02:00:00+07:00",
+      "fetched": "2025-12-21T10:26:45.485054+07:00"
+    },
+    {
+      "id": "c50d8876a5d94c5abc1d95a74852da6b",
+      "title": "Những cặp uyên ương mặc đẹp nhất thế giới 2025",
+      "link": "https://vnexpress.net/nhung-cap-uyen-uong-mac-dep-nhat-the-gioi-2025-4995814.html",
+      "summary": "Vợ chồng David Beckham thuộc nhóm những cặp sao có gu thời trang thanh lịch và hút mắt ở nhiều sự kiện năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:48:44+07:00",
+      "fetched": "2025-12-21T10:26:45.485210+07:00"
+    },
+    {
+      "id": "8e0590239f84ccf4d050dfedb6e5e54f",
+      "title": "Gia chủ hầu tòa vì tự ý chặt cây quý trong sân nhà",
+      "link": "https://vnexpress.net/gia-chu-hau-toa-vi-tu-y-chat-cay-quy-trong-san-nha-4996392.html",
+      "summary": "Dù chặt cây trong chính sân nhà, gia chủ vẫn bị truy tố vì không xin phép thành phố, khi cái cây đã được đưa vào danh sách bảo tồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:45:58+07:00",
+      "fetched": "2025-12-21T10:26:45.485366+07:00"
+    },
+    {
+      "id": "f9cb7ce7c7521f562fabd8707397e37b",
+      "title": "Amorim: 'Man Utd không cần 10 năm để vô địch Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/amorim-man-utd-khong-can-10-nam-de-vo-dich-ngoai-hang-anh-4996375.html",
+      "summary": "Thay vì phải chờ một thập kỷ như dự đoán của huyền thoại Alex Ferguson, HLV Ruben Amorim tin rằng Man Utd sẽ sớm trở lại cuộc đua vô địch Ngoại hạng Anh trong vài năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:32:27+07:00",
+      "fetched": "2025-12-21T10:26:45.485524+07:00"
+    },
+    {
+      "id": "f9cb7ce7c7521f562fabd8707397e37b",
+      "title": "Amorim: 'Man Utd không cần 10 năm để vô địch Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/amorim-man-utd-khong-can-10-nam-de-vo-dich-ngoai-hang-anh-4996375.html",
+      "summary": "Thay vì phải chờ một thập kỷ như dự đoán của huyền thoại Alex Ferguson, HLV Ruben Amorim tin rằng Man Utd sẽ sớm trở lại cuộc đua vô địch Ngoại hạng Anh trong vài năm tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T01:32:27+07:00",
+      "fetched": "2025-12-21T10:26:57.580146+07:00"
+    },
+    {
+      "id": "197f0d56e343422186d319a4e1781f8a",
+      "title": "Guardiola bức xúc dù Man City đại thắng",
+      "link": "https://vnexpress.net/guardiola-buc-xuc-du-man-city-dai-thang-4996376.html",
+      "summary": "HLV Pep Guardiola cho rằng Man City cần cải thiện nhiều mặt, đặc biệt là khả năng kiểm soát và triển khai bóng, dù thắng West Ham 3-0 ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:27:47+07:00",
+      "fetched": "2025-12-21T10:26:45.485683+07:00"
+    },
+    {
+      "id": "197f0d56e343422186d319a4e1781f8a",
+      "title": "Guardiola bức xúc dù Man City đại thắng",
+      "link": "https://vnexpress.net/guardiola-buc-xuc-du-man-city-dai-thang-4996376.html",
+      "summary": "HLV Pep Guardiola cho rằng Man City cần cải thiện nhiều mặt, đặc biệt là khả năng kiểm soát và triển khai bóng, dù thắng West Ham 3-0 ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T01:27:47+07:00",
+      "fetched": "2025-12-21T10:26:57.581162+07:00"
+    },
+    {
+      "id": "6743b32111a5328d831d8c2d0a69ce6a",
+      "title": "Elon Musk trở thành người đầu tiên trên thế giới có 700 tỷ USD",
+      "link": "https://vnexpress.net/elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-700-ty-usd-4996387.html",
+      "summary": "Elon Musk thành người đầu tiên trên thế giới sở hữu khối tài sản trên 700 tỷ USD, sau khi gói thù lao khổng lồ bằng cổ phiếu Tesla được tòa án khôi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:23:37+07:00",
+      "fetched": "2025-12-21T10:26:45.485871+07:00"
+    },
+    {
+      "id": "6743b32111a5328d831d8c2d0a69ce6a",
+      "title": "Elon Musk trở thành người đầu tiên trên thế giới có 700 tỷ USD",
+      "link": "https://vnexpress.net/elon-musk-tro-thanh-nguoi-dau-tien-tren-the-gioi-co-700-ty-usd-4996387.html",
+      "summary": "Elon Musk thành người đầu tiên trên thế giới sở hữu khối tài sản trên 700 tỷ USD, sau khi gói thù lao khổng lồ bằng cổ phiếu Tesla được tòa án khôi phục.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T01:23:37+07:00",
+      "fetched": "2025-12-21T10:26:51.843144+07:00"
     },
     {
       "id": "f0cb41d326ee61d4a00c02671bee22ae",
@@ -251,6 +721,16 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T01:22:50.181790+07:00",
       "fetched": "2025-12-21T01:22:50.182013+07:00"
+    },
+    {
+      "id": "1c172f188935080f139a58c74ef5e11a",
+      "title": "Nhà ở Đà Lạt cháy giữa đêm, 4 người được cứu",
+      "link": "https://vnexpress.net/chay-nha-o-da-lat-4996389.html",
+      "summary": "Căn nhà ở phường Xuân Hương - Đà Lạt bốc cháy trong đêm, khói lửa bao trùm khiến 4 người mắc kẹt, sáng 21/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:18:08+07:00",
+      "fetched": "2025-12-21T10:26:45.486034+07:00"
     },
     {
       "id": "240d6e234c94c8431febcbf126d6645a",
