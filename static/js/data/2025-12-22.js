@@ -1,6 +1,6 @@
 window.newsData_2025_12_22 = {
   "date": "2025-12-22",
-  "lastUpdated": "2025-12-22T03:19:07.270464+07:00",
+  "lastUpdated": "2025-12-22T05:16:54.547263+07:00",
   "articles": [
     {
       "id": "452d90ecf491c6d30f9eafaa03738089",
@@ -151,6 +151,206 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T01:24:34.247292+07:00",
       "fetched": "2025-12-22T01:24:34.247510+07:00"
+    },
+    {
+      "id": "153dbc72db3146948129d9daf8b3541e",
+      "title": "Lan tỏa trên mạng xã hội: Món quà đặc biệt của cô con gái hiếu thảo",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-mon-qua-dac-biet-cua-co-con-gai-hieu-thao-185251221214913935.htm",
+      "summary": "Từ số tiền dành dụm sau nhiều năm đi làm, cô gái trẻ quyết định sửa sang lại căn nhà cũ của ba mẹ như một món quà báo hiếu. Ngôi nhà được 'lột xác' khang trang, ấm cúng không chỉ khiến gia đình hạnh phúc mà còn nhận về nhiều lời khen ngợi khi được chia sẻ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T22:15:00+07:00",
+      "fetched": "2025-12-22T05:16:45.859356+07:00"
+    },
+    {
+      "id": "84d550484199027b43a060ceb408b759",
+      "title": "Bản tin sức khỏe ngày 22.12: Giấc ngủ ảnh hưởng lớn đến cơ thể | Bí mật của lòng trắng trứng",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-2212-giac-ngu-anh-huong-lon-den-co-the-bi-mat-cua-long-trang-trung-185251222011833049.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T22:00:00+07:00",
+      "fetched": "2025-12-22T05:16:45.859536+07:00"
+    },
+    {
+      "id": "ebadc1b11c7f089e0773b9afc21ebfb8",
+      "title": "Hôm nay 22.12 là ngày gì?: Tiết Đông chí, thời tiết TP.HCM và cả nước thế nào?",
+      "link": "https://thanhnien.vn/hom-nay-2212-la-ngay-gi-tiet-dong-chi-thoi-tiet-tphcm-va-ca-nuoc-the-nao-185251221192358184.htm",
+      "summary": "Sau khi trải qua đêm dài nhất 2025, hôm nay ngày 22.12 là ngày thứ hai người Việt đón tiết Đông chí. Tiết khí này đánh dấu thời tiết ở TP.HCM và cả nước thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T22:00:00+07:00",
+      "fetched": "2025-12-22T05:16:45.859692+07:00"
+    },
+    {
+      "id": "961ec2b5b4a0c65218e900e8cfd50316",
+      "title": "Người Đức thấp thỏm với nguy cơ khủng bố dịp Giáng sinh",
+      "link": "https://vnexpress.net/nguoi-duc-thap-thom-voi-nguy-co-khung-bo-dip-giang-sinh-4996100.html",
+      "summary": "Phía sau ánh đèn và đồ trang trí lung linh, các chợ Giáng sinh tại Đức đang phải thiết lập hàng rào an ninh kiên cố trước nỗi lo khủng bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T22:00:00+07:00",
+      "fetched": "2025-12-22T05:16:49.003211+07:00"
+    },
+    {
+      "id": "02c61b1887c21cac4da981d4be735c4a",
+      "title": "Phân khúc nghỉ dưỡng nửa tỷ đồng mỗi đêm hình thành ở Việt nam",
+      "link": "https://vnexpress.net/phan-khuc-nghi-duong-nua-ty-dong-moi-dem-hinh-thanh-o-viet-nam-4996527.html",
+      "summary": "Năm 2025, bất động sản nghỉ dưỡng Việt Nam gia nhập phân khúc siêu sang toàn cầu, với dinh thự, bán đảo nghỉ dưỡng giá 390-650 triệu đồng mỗi đêm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-21T22:00:00+07:00",
+      "fetched": "2025-12-22T05:16:50.687812+07:00"
+    },
+    {
+      "id": "727ba99477e2f9ff70bc5fa6ac637e2b",
+      "title": "TV công nghệ cao cấp 'bình dân hóa' trong năm 2025",
+      "link": "https://vnexpress.net/tv-cong-nghe-cao-cap-binh-dan-hoa-trong-nam-2025-4994189.html",
+      "summary": "Năm 2025 đánh dấu TV Mini LED lần đầu có giá dưới 20 triệu, các mẫu màn hình siêu lớn nở rộ và TV OLED có nhiều lựa chọn dưới 30 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-21T22:00:00+07:00",
+      "fetched": "2025-12-22T05:16:52.713723+07:00"
+    },
+    {
+      "id": "a7c1e930191bf264021958c5885e408d",
+      "title": "Kane phá kỷ lục của Arjen Robben tại Bayern",
+      "link": "https://vnexpress.net/kane-pha-ky-luc-cua-arjen-robben-tai-bayern-4996566.html",
+      "summary": "Tiền đạo Harry Kane cán nhiều mốc ấn tượng, khi ghi bàn giúp Bayern Munich thắng chủ nhà Heidenheim 4-0 ở vòng 15 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T21:54:11+07:00",
+      "fetched": "2025-12-22T05:16:54.541819+07:00"
+    },
+    {
+      "id": "c7185c94d79e05a40b014c5d30900814",
+      "title": "Tien vô địch ATP Next Gen Finals",
+      "link": "https://vnexpress.net/tien-vo-dich-atp-next-gen-finals-4996564.html",
+      "summary": "Tay vợt Mỹ gốc Việt Learner Tien thắng Alexander Blockx 4-3(4), 4-2, 4-1, để vô địch Next Gen Finals - giải đấu cho tám người trẻ hay nhất năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:39:07+07:00",
+      "fetched": "2025-12-22T05:16:42.287916+07:00"
+    },
+    {
+      "id": "c7185c94d79e05a40b014c5d30900814",
+      "title": "Tien vô địch ATP Next Gen Finals",
+      "link": "https://vnexpress.net/tien-vo-dich-atp-next-gen-finals-4996564.html",
+      "summary": "Tay vợt Mỹ gốc Việt Learner Tien thắng Alexander Blockx 4-3(4), 4-2, 4-1, để vô địch Next Gen Finals - giải đấu cho tám người trẻ hay nhất năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T21:39:07+07:00",
+      "fetched": "2025-12-22T05:16:54.541993+07:00"
+    },
+    {
+      "id": "be265a9b6b62ebdb5387fff77862d62e",
+      "title": "Chiến sự Ukraine ngày 1.397: Nga bất ngờ tìm hướng đột phá xuyên biên giới tại Sumy",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1397-nga-bat-ngo-tim-huong-dot-pha-xuyen-bien-gioi-tai-sumy-185251221215928165.htm",
+      "summary": "Quân đội Ukraine cho biết Nga tìm cách đột phá xuyên biên giới tại tỉnh Sumy, đánh dấu một đợt tiến công mới của Nga tại khu vực trước đây hầu như không bị ảnh hưởng bởi giao tranh dữ dội kể từ khi Ukraine giành lại vùng này vào năm 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:33:00+07:00",
+      "fetched": "2025-12-22T05:16:45.859847+07:00"
+    },
+    {
+      "id": "1e11b914b00fb8499ef50a532f92427b",
+      "title": "Man Utd gục ngã trước Aston Villa ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-guc-nga-truoc-aston-villa-o-ngoai-hang-anh-4996563.html",
+      "summary": "Với đội hình sứt mẻ, Man Utd thua Aston Villa 1-2 ở vòng 17 Ngoại hạng Anh, không thể ngăn đối thủ thắng trận thứ 10 liên tiếp trên mọi đấu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:14+07:00",
+      "fetched": "2025-12-22T05:16:42.288100+07:00"
+    },
+    {
+      "id": "1e11b914b00fb8499ef50a532f92427b",
+      "title": "Man Utd gục ngã trước Aston Villa ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-guc-nga-truoc-aston-villa-o-ngoai-hang-anh-4996563.html",
+      "summary": "Với đội hình sứt mẻ, Man Utd thua Aston Villa 1-2 ở vòng 17 Ngoại hạng Anh, không thể ngăn đối thủ thắng trận thứ 10 liên tiếp trên mọi đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T21:11:14+07:00",
+      "fetched": "2025-12-22T05:16:54.541623+07:00"
+    },
+    {
+      "id": "e4956e68c0b84f3e7b97b962de597b7a",
+      "title": "Lãi suất huy động lên 7-8% một năm",
+      "link": "https://vnexpress.net/lai-suat-huy-dong-len-7-8-mot-nam-4996475.html",
+      "summary": "Nhiều nhà băng tung chương trình cộng lãi suất, đưa mức cao nhất thị trường lên 7-8% một năm cho khoản tiền gửi vài trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:42.288264+07:00"
+    },
+    {
+      "id": "9ce9de66a42017c2f90a0f4db7e1fed8",
+      "title": "Những chuyến trực thăng bay vào vùng ngập",
+      "link": "https://vnexpress.net/nhung-chuyen-truc-thang-bay-vao-vung-ngap-4996302.html",
+      "summary": "Nhiệm vụ nối tiếp nhiệm vụ, nhiều phi công Trung đoàn 916 hầu như chưa cắt ngày phép nào trong năm, luôn sẵn sàng cất cánh mang hàng cứu trợ vào những vùng lũ bị cô lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:42.288451+07:00"
+    },
+    {
+      "id": "9afdc58410ad6103e7a8d0dfa0cb12cc",
+      "title": "Những mẫu xe dành cho tín đồ tốc độ sẽ góp mặt tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/nhung-mau-xe-danh-cho-tin-do-toc-do-se-gop-mat-tai-vietnam-mobility-show-2025-4996304.html",
+      "summary": "Triển lãm diễn ra ngày 26-28/12 quy tụ loạt mẫu xe hiệu suất cao giúp khách Việt có cơ hội trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:42.288617+07:00"
+    },
+    {
+      "id": "624b33bfe990c99f88ec6b6cf3b93202",
+      "title": "Tiền sử dụng đất có nguy cơ tăng cao",
+      "link": "https://thanhnien.vn/tien-su-dung-dat-co-nguy-co-tang-cao-185251221221945332.htm",
+      "summary": "Trong tờ trình khẩn gửi UBND TP.HCM về Nghị quyết ban hành quy định bảng giá đất lần đầu áp dụng từ ngày 1.1.2026 trên địa bàn TP.HCM, Sở NN-MT TP.HCM có đề xuất giá đất nông nghiệp giảm mạnh so với dự thảo lần trước. Việc này đang dấy lên lo ngại tiền sử dụng đất sẽ tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:45.860006+07:00"
+    },
+    {
+      "id": "7c36b86639d7c398e07a94b64abb9d7c",
+      "title": "Việt Nam chính thức có Trung tâm tài chính quốc tế",
+      "link": "https://thanhnien.vn/viet-nam-chinh-thuc-co-trung-tam-tai-chinh-quoc-te-185251221221505906.htm",
+      "summary": "Hôm qua 21.12, Thủ tướng Chính phủ Phạm Minh Chính chủ trì Hội nghị công bố thành lập Trung tâm tài chính quốc tế tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:45.860156+07:00"
+    },
+    {
+      "id": "a64a58caa3082526f600e3be3b4acbe4",
+      "title": "Chính danh cho giáo dục đại học",
+      "link": "https://thanhnien.vn/chinh-danh-cho-giao-duc-dai-hoc-185251221214015934.htm",
+      "summary": "Dự thảo nghị định mới quy định chi tiết thi hành luật Giáo dục đại học là động thái có ý nghĩa chấn chỉnh tình trạng 'loạn' tên gọi trong hệ thống giáo dục đại học, tuy muộn còn hơn không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:45.860319+07:00"
+    },
+    {
+      "id": "e4956e68c0b84f3e7b97b962de597b7a",
+      "title": "Lãi suất huy động lên 7-8% một năm",
+      "link": "https://vnexpress.net/lai-suat-huy-dong-len-7-8-mot-nam-4996475.html",
+      "summary": "Nhiều nhà băng tung chương trình cộng lãi suất, đưa mức cao nhất thị trường lên 7-8% một năm cho khoản tiền gửi vài trăm triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-21T21:00:00+07:00",
+      "fetched": "2025-12-22T05:16:50.687989+07:00"
+    },
+    {
+      "id": "9a4974fe892ec6df735813c9cb54d7a6",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-22122025-185251221222136498.htm",
+      "summary": "Tin tức Tái thiết vùng rốn lũ; Dự án hồi phục trực thăng UH-1; Bắc Kinh quyết 'thọc' vào sân sau của Washington... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T20:57:00+07:00",
+      "fetched": "2025-12-22T05:16:45.860482+07:00"
     },
     {
       "id": "aec3939c8374fd94314b1b9c1c35b842",
