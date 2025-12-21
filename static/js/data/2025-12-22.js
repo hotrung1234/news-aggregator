@@ -1,6 +1,6 @@
 window.newsData_2025_12_22 = {
   "date": "2025-12-22",
-  "lastUpdated": "2025-12-22T01:24:42.679707+07:00",
+  "lastUpdated": "2025-12-22T03:19:07.270464+07:00",
   "articles": [
     {
       "id": "452d90ecf491c6d30f9eafaa03738089",
@@ -151,6 +151,16 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T01:24:34.247292+07:00",
       "fetched": "2025-12-22T01:24:34.247510+07:00"
+    },
+    {
+      "id": "aec3939c8374fd94314b1b9c1c35b842",
+      "title": "Ra mắt hồi ký về 'vua vũ khí' Trần Đại Nghĩa",
+      "link": "https://vnexpress.net/ra-mat-hoi-ky-ve-vua-vu-khi-tran-dai-nghia-4996534.html",
+      "summary": "Sách về Giáo sư Trần Đại Nghĩa - \"vua vũ khí\" của Việt Nam - tái hiện thời ấu thơ đến khi ông trưởng thành, phụng sự Tổ quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T20:00:00+07:00",
+      "fetched": "2025-12-22T03:18:51.907795+07:00"
     },
     {
       "id": "f47a04bccb7b58150527275603cd846f",
