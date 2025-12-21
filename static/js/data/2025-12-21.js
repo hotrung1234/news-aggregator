@@ -1,7 +1,157 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T17:17:49.828215+07:00",
+  "lastUpdated": "2025-12-21T19:34:27.754055+07:00",
   "articles": [
+    {
+      "id": "1eda4ce777ad2491a47a846632c7364a",
+      "title": "Hát karaoke gây ồn ngày đêm đều bị phạt; Khách không trả tiền mặt bị hút lại xăng, phải dẫn bộ 3km",
+      "link": "https://tuoitre.vn/hat-karaoke-gay-on-ngay-dem-deu-bi-phat-khach-khong-tra-tien-mat-bi-hut-lai-xang-phai-dan-bo-3km-20251219224436751.htm",
+      "summary": "Tuần qua nhiều nội dung thu hút bạn đọc quan tâm: Hát karaoke gây ồn ngày hay đêm đều bị phạt; Khách không có tiền mặt trả khi đổ xăng bị hút lại xăng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.070132+07:00",
+      "fetched": "2025-12-21T19:34:21.070261+07:00"
+    },
+    {
+      "id": "e1b2898e38ed4223631eb99793d4da60",
+      "title": "Hát Sầu tím thiệp hồng, Đêm cuối đến Lương Sơn Bá - Chúc Anh Đài trong tiệc cưới, nên cười hay khóc?",
+      "link": "https://tuoitre.vn/hat-sau-tim-thiep-hong-dem-cuoi-den-luong-son-ba-chuc-anh-dai-trong-tiec-cuoi-nen-cuoi-hay-khoc-20251220005842275.htm",
+      "summary": "Nhiều đám cưới tôi chỉ gửi tiền mừng và nhắn tin chúc mừng đôi trẻ. Bởi vì lớn tuổi, tôi sợ những tiết mục văn nghệ góp vui chúc mừng đám cưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069958+07:00",
+      "fetched": "2025-12-21T19:34:21.070118+07:00"
+    },
+    {
+      "id": "a6ea3842d0d842c6c3181462d7d7f6f6",
+      "title": "Trái tim làng hoa Sa Đéc được kết bằng 1.500 giỏ hoa thu hút khách chụp ảnh",
+      "link": "https://tuoitre.vn/trai-tim-lang-hoa-sa-dec-duoc-ket-bang-1-500-gio-hoa-thu-hut-khach-chup-anh-20251221164725889.htm",
+      "summary": "Còn khoảng một tuần nữa Festival Hoa kiểng Sa Đéc lần thứ 2 sẽ khai mạc, nhiều vườn hoa ở Làng hoa Sa Đéc đã lên màu rực rỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069834+07:00",
+      "fetched": "2025-12-21T19:34:21.069947+07:00"
+    },
+    {
+      "id": "92f943113ca8702161fe20e020074b3e",
+      "title": "Bệnh viện dã chiến cấp 2 số 7 là hình mẫu tiêu biểu trong toàn phái bộ",
+      "link": "https://tuoitre.vn/benh-vien-da-chien-cap-2-so-7-la-hinh-mau-tieu-bieu-trong-toan-phai-bo-20251221162333398.htm",
+      "summary": "Ngày 20-12, tại Nam Sudan, Bệnh viện dã chiến cấp 2 số 7 đã long trọng tổ chức lễ kỷ niệm 81 năm Ngày thành lập Quân đội nhân dân Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069711+07:00",
+      "fetched": "2025-12-21T19:34:21.069823+07:00"
+    },
+    {
+      "id": "4bf2ef8dc35eab014808845e84ff90f2",
+      "title": "Không cần 'lên sao Hỏa, Mặt trăng', chỉ cần dọn rác do mình xả ra sau khi tụ tập",
+      "link": "https://tuoitre.vn/khong-can-len-sao-hoa-mat-trang-chi-can-don-rac-do-minh-xa-ra-sau-khi-tu-tap-2025122010184768.htm",
+      "summary": "Trái ngược với những bức ảnh lung linh tại trung tâm TP.HCM, khung cảnh rác thải bị bỏ lại sau mỗi buổi chụp hình khiến nhiều bạn đọc bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069586+07:00",
+      "fetched": "2025-12-21T19:34:21.069700+07:00"
+    },
+    {
+      "id": "c92f4cb38e43726d617f7b6149818f0b",
+      "title": "Malaysia kêu gọi Thái Lan và Campuchia đối thoại về xung đột biên giới",
+      "link": "https://tuoitre.vn/malaysia-keu-goi-thai-lan-va-campuchia-doi-thoai-ve-xung-dot-bien-gioi-20251221173348876.htm",
+      "summary": "Thủ tướng Malaysia Anwar Ibrahim hối thúc Thái Lan và Campuchia tận dụng cuộc họp đặc biệt ASEAN ngày 22-12 để đối thoại trực tiếp, hạ nhiệt căng thẳng biên giới đang kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069459+07:00",
+      "fetched": "2025-12-21T19:34:21.069575+07:00"
+    },
+    {
+      "id": "e31272e34ce06f750652baa9e567651c",
+      "title": "Miễn phí thụ tinh ống nghiệm cho 80 cặp vợ chồng hiếm muộn hoàn cảnh khó khăn",
+      "link": "https://tuoitre.vn/mien-phi-thu-tinh-ong-nghiem-cho-80-cap-vo-chong-hiem-muon-hoan-canh-kho-khan-20251221170758713.htm",
+      "summary": "80 cặp vợ chồng hiếm muộn có hoàn cảnh khó khăn sẽ được Bệnh viện Mỹ Đức (TP.HCM) hỗ trợ miễn phí thụ tinh trong ống nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069325+07:00",
+      "fetched": "2025-12-21T19:34:21.069447+07:00"
+    },
+    {
+      "id": "dcedb5def75fb66493aa479d578a3326",
+      "title": "Điểm tin 18h: Cua hấp bán từng con; ‘Thủ phủ tôm hùm' gượng dậy",
+      "link": "https://tuoitre.vn/diem-tin-18h-cua-hap-ban-tung-con-thu-phu-tom-hum-guong-day-20251221155845683.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 21-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069197+07:00",
+      "fetched": "2025-12-21T19:34:21.069313+07:00"
+    },
+    {
+      "id": "a1329ca077cebfc3a2ea4b965179e4a0",
+      "title": "Bộ trưởng Bộ Công Thương Nguyễn Hồng Diên làm Phó bí thư chuyên trách Đảng ủy Quốc hội",
+      "link": "https://tuoitre.vn/bo-truong-bo-cong-thuong-nguyen-hong-dien-lam-pho-bi-thu-chuyen-trach-dang-uy-quoc-hoi-20251221151250004.htm",
+      "summary": "Bộ Chính trị điều động, phân công, chỉ định Bộ trưởng Bộ Công Thương Nguyễn Hồng Diên giữ chức Phó bí thư chuyên trách Đảng ủy Quốc hội nhiệm kỳ 2020 - 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.069056+07:00",
+      "fetched": "2025-12-21T19:34:21.069185+07:00"
+    },
+    {
+      "id": "71db9ca09a1bd903edd82e33561be3fe",
+      "title": "Phải bỏ nhà ra quán cà phê 'lánh nạn' vì karaoke, mong cơ quan chức năng xử lý đến nơi đến chốn",
+      "link": "https://tuoitre.vn/phai-bo-nha-ra-quan-ca-phe-lanh-nan-vi-karaoke-mong-co-quan-chuc-nang-xu-ly-den-noi-den-chon-2025122113541753.htm",
+      "summary": "Nhiều bạn đọc mong muốn khi bị karaoke làm phiền, lực lượng chức năng đến ghi nhận, xử lý nghiêm minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068902+07:00",
+      "fetched": "2025-12-21T19:34:21.069020+07:00"
+    },
+    {
+      "id": "e455e5d0d3f6118c65c07872fe2fb4dd",
+      "title": "Cổ phiếu tốt biến động bất thường: Tín hiệu cảnh báo mới cho thị trường chứng khoán?",
+      "link": "https://tuoitre.vn/co-phieu-tot-bien-dong-bat-thuong-tin-hieu-canh-bao-moi-cho-thi-truong-chung-khoan-20251220184537202.htm",
+      "summary": "Việc một cổ phiếu đầu ngành nằm trong VN30 giảm sâu đang khiến nhà đầu tư đặt câu hỏi: liệu đây chỉ là cú trượt chân cá biệt hay dấu hiệu cảnh báo mới trong giai đoạn hậu nâng hạng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068770+07:00",
+      "fetched": "2025-12-21T19:34:21.068890+07:00"
+    },
+    {
+      "id": "18f56c42bbfdcbb7eb7d254b813903a6",
+      "title": "VĐV Việt Nam nhận thưởng ít hơn nhiều nước ở SEA Games 33",
+      "link": "https://tuoitre.vn/vdv-viet-nam-nhan-thuong-it-hon-nhieu-nuoc-o-sea-games-33-20251221171842044.htm",
+      "summary": "Báo Matichon của Thái Lan mới đây đã thống kê mức thưởng công khai từ ngành thể thao các nước cho tấm huy chương ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068632+07:00",
+      "fetched": "2025-12-21T19:34:21.068758+07:00"
+    },
+    {
+      "id": "d7dd34376129e158582f963a8915a126",
+      "title": "Cầu lông Trung Quốc hoàn toàn bất lực trước An Se Young",
+      "link": "https://tuoitre.vn/cau-long-trung-quoc-hoan-toan-bat-luc-truoc-an-se-young-20251221180439805.htm",
+      "summary": "Tay vợt cầu lông nữ số 1 thế giới là An Se Young (Hàn Quốc) đã giành chức vô địch BWF World Tour Finals sau khi đánh bại đối thủ Trung Quốc Wang Zhiyi trong trận chung kết chiều 21-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068482+07:00",
+      "fetched": "2025-12-21T19:34:21.068610+07:00"
+    },
+    {
+      "id": "0b482d8f7ee0d4f639f046f80073b618",
+      "title": "'Avatar 3' đạt doanh thu 100 tỉ, có vượt 'Avatar 2' để ăn khách nhất phòng vé Việt?",
+      "link": "https://tuoitre.vn/avatar-3-dat-doanh-thu-100-ti-co-vuot-avatar-2-de-an-khach-nhat-phong-ve-viet-20251221153125629.htm",
+      "summary": "Sau 4 ngày chiếu bao gồm cả chiếu sớm, tối 21-12, 'Avatar 3' đạt 100 tỉ đồng tại Việt Nam, vượt qua thành tích của Avatar 2 vào năm 2022 (với 6 ngày chiếu).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068317+07:00",
+      "fetched": "2025-12-21T19:34:21.068468+07:00"
+    },
+    {
+      "id": "452d90ecf491c6d30f9eafaa03738089",
+      "title": "Điện Kremlin bác bỏ khả năng hòa đàm ba bên Nga - Ukraine - Mỹ",
+      "link": "https://tuoitre.vn/dien-kremlin-bac-bo-kha-nang-hoa-dam-ba-ben-nga-ukraine-my-20251221183401446.htm",
+      "summary": "Nga cho biết chưa nhận được bản đề xuất hòa bình sửa đổi từ Mỹ sau các cuộc trao đổi với Ukraine và các đối tác châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T19:34:21.068021+07:00",
+      "fetched": "2025-12-21T19:34:21.068290+07:00"
+    },
     {
       "id": "b73cb24da5db62044531d81301163cec",
       "title": "Đừng thương mại hóa trá hình, biến trường học thành nơi làm dịch vụ, thu tiền",
@@ -433,6 +583,116 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T13:26:24.647600+07:00"
     },
     {
+      "id": "6d86e847f0aae5e59c9b4306676e495b",
+      "title": "Đêm nay người Việt trải qua đêm dài nhất năm 2025: Bí mật Đông chí 278 năm mới lặp lại",
+      "link": "https://thanhnien.vn/dem-nay-nguoi-viet-trai-qua-dem-dai-nhat-nam-2025-bi-mat-dong-chi-278-nam-moi-lap-lai-185251220152452084.htm",
+      "summary": "Đông chí 21.12 đánh dấu ngày ngắn nhất, đêm dài nhất năm 2025 ở Bắc bán cầu. Hiện tượng đặc biệt này có thể rơi vào ngày 23.12, nhưng phải chờ 278 năm nữa mới lặp lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:30:00+07:00",
+      "fetched": "2025-12-21T19:34:20.079784+07:00"
+    },
+    {
+      "id": "843999da42af7c8f0fb4f4762b37b3d3",
+      "title": "Miễn phí thụ tinh trong ống nghiệm cho 80 cặp đôi hiếm muộn",
+      "link": "https://thanhnien.vn/mien-phi-thu-tinh-trong-ong-nghiem-cho-80-cap-doi-hiem-muon-185251219155353914.htm",
+      "summary": "Chương trình Ươm mầm hạnh phúc 2026 do hệ thống thụ tinh trong ống nghiệm (IVF) Mỹ Đức triển khai chính thức được công bố, mở ra thêm cơ hội tiếp cận điều trị thụ tinh trong ống nghiệm cho các cặp vợ chồng hiếm muộn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:16:00+07:00",
+      "fetched": "2025-12-21T19:34:20.079961+07:00"
+    },
+    {
+      "id": "450e46be444961fe253233e72d8fa516",
+      "title": "Hợp đồng VFF và HLV Kim Sang-sik có điều khoản tự động gia hạn: Đôi bên không cần đàm phán lại",
+      "link": "https://thanhnien.vn/hop-dong-vff-va-hlv-kim-sang-sik-co-dieu-khoan-tu-dong-gia-han-doi-ben-khong-can-dam-phan-lai-185251221173100659.htm",
+      "summary": "Hơp đồng giữa Liên đoàn Bóng đá Việt Nam (VFF) và HLV Kim Sang-sik có điều khoản tự động gia hạn, không cần tiến hành đàm phán mới nếu các mục tiêu chuyên môn được hoàn thành đúng cam kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:09:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080144+07:00"
+    },
+    {
+      "id": "27675cefb829a72aa30214d914a6a339",
+      "title": "Lịch thi đấu đội tuyển nữ Việt Nam mới nhất tại Úc: Không có thầy Chung, trận nào đá lúc 12 giờ?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-nu-viet-nam-moi-nhat-tai-uc-khong-co-thay-chung-tran-nao-da-luc-12-gio-185251221184254307.htm",
+      "summary": "Sau khi giành HCB SEA Games 33, đội tuyển nữ Việt Nam sẽ đón nhận thử thách của năm 2026 bằng một giải đấu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:07:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080304+07:00"
+    },
+    {
+      "id": "e6ef2b1fbe32c55b270c5409185d83ed",
+      "title": "AFC thừa nhận tổ trọng tài sai lầm khiến đội tuyển nữ Việt Nam mất HCV SEA Games 33",
+      "link": "https://thanhnien.vn/afc-thua-nhan-to-trong-tai-sai-lam-khien-doi-tuyen-nu-viet-nam-mat-hcv-sea-games-33-185251221181924798.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đã có phản hồi chính thức liên quan đến những tranh cãi nảy lửa ở trận chung kết bóng đá nữ SEA Games 33 giữa tuyển nữ Việt Nam và Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:03:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080468+07:00"
+    },
+    {
+      "id": "a8b07227eec1ec2e2296b7064208bb06",
+      "title": "Sedan thể thao Skoda Octavia RS có gì hấp dẫn khách Việt?",
+      "link": "https://thanhnien.vn/sedan-the-thao-skoda-octavia-rs-co-gi-hap-dan-khach-viet-185251221112126702.htm",
+      "summary": "Thay vì tập trung vào nhóm khách hàng phổ thông, Skoda Octavia RS hướng đến người trẻ, thích lái trải nghiệm theo phong cách thể thao cùng nhiều trang bị tiện nghi, hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080637+07:00"
+    },
+    {
+      "id": "89281ab4302f02136f676798e89e026f",
+      "title": "Chuối bàn tay, na sầu riêng... gây tò mò tại phiên chợ nông sản vùng miền Bình Đông",
+      "link": "https://thanhnien.vn/chuoi-ban-tay-na-sau-rieng-gay-to-mo-tai-phien-cho-nong-san-vung-mien-binh-dong-185251221083422417.htm",
+      "summary": "Chuối bàn tay, na sầu riêng, bí sợi mì… cùng nhiều loại trái cây độc lạ xuất hiện tại phiên chợ nông sản vùng miền Bình Đông, lần đầu được tổ chức tại TP.HCM, thu hút đông người tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080789+07:00"
+    },
+    {
+      "id": "5a432e2924078faf0756aeffe7583093",
+      "title": "Trung Quốc ra chip quang học đột phá trong huấn luyện AI",
+      "link": "https://vnexpress.net/trung-quoc-ra-chip-quang-hoc-dot-pha-trong-huan-luyen-ai-4996322.html",
+      "summary": "LightGen, chip quang học đầu tiên thế giới cho AI do Trung Quốc sản xuất, có khả năng chạy các mô hình AI tạo sinh quy mô lớn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T19:34:26.876137+07:00"
+    },
+    {
+      "id": "8ec09c5d8b0ac09189ee399130616147",
+      "title": "Màn đáp trả của Hồ Ngọc Hà sau sự cố",
+      "link": "https://thanhnien.vn/man-dap-tra-cua-ho-ngoc-ha-sau-su-co-185251221165431616.htm",
+      "summary": "Sau ồn ào 'oét giọng', Hồ Ngọc Hà gây chú ý khi thể hiện lại ca khúc 'Bang bang' trên sân khấu chung kết Miss Cosmo, nhận được sự quan tâm của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:59:00+07:00",
+      "fetched": "2025-12-21T19:34:20.080946+07:00"
+    },
+    {
+      "id": "72a4b626cf622fd7d5729e4557863c05",
+      "title": "Mới vô địch SEA Games 3 ngày, người hùng U.22 Việt Nam đã xỏ giày đá tiếp",
+      "link": "https://thanhnien.vn/moi-vo-dich-sea-games-3-ngay-nguoi-hung-u22-viet-nam-da-xo-giay-da-tiep-185251221185024127.htm",
+      "summary": "Chỉ 3 ngày sau trận chung kết SEA Games, những trụ cột của U.22 Việt Nam như Hiểu Minh, Thanh Nhàn đã trở về CLB PVF-CAND để tiếp tục thi đấu giải giao hữu tứ hùng, diễn ra 19 giờ hôm nay (21.12).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:52:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081128+07:00"
+    },
+    {
+      "id": "f166589387a0067c24fce543f31c979c",
+      "title": "Ông Nguyễn Hồng Diên làm Phó bí thư chuyên trách Đảng ủy Quốc hội",
+      "link": "https://thanhnien.vn/ong-nguyen-hong-dien-lam-pho-bi-thu-chuyen-trach-dang-uy-quoc-hoi-185251221155514094.htm",
+      "summary": "Bộ trưởng Bộ Công thương Nguyễn Hồng Diên được điều động, chỉ định làm Phó bí thư chuyên trách Đảng ủy Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:37:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081300+07:00"
+    },
+    {
       "id": "7c91f4736d0eeed6d2e7ffc2af1ab038",
       "title": "Công an đang điều tra vụ bảo vệ chợ đầu mối Hóc Môn đánh người chảy máu mũi",
       "link": "https://tuoitre.vn/cong-an-dang-dieu-tra-vu-bao-ve-cho-dau-moi-hoc-mon-danh-nguoi-chay-mau-mui-20251221094239971.htm",
@@ -581,6 +841,136 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T11:35:13.617349+07:00",
       "fetched": "2025-12-21T11:35:13.617509+07:00"
+    },
+    {
+      "id": "88efc9977e11499983db6e665bbe42e2",
+      "title": "Bộ trưởng Công Thương giữ chức Phó bí thư Đảng ủy Quốc hội",
+      "link": "https://vnexpress.net/bo-truong-cong-thuong-giu-chuc-pho-bi-thu-dang-uy-quoc-hoi-4996528.html",
+      "summary": "Bộ Chính trị điều động ông Nguyễn Hồng Diên, Bộ trưởng Công Thương, giữ chức Ủy viên Ban Thường vụ, Phó bí thư chuyên trách Đảng ủy Quốc hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:33:24+07:00",
+      "fetched": "2025-12-21T19:34:17.139453+07:00"
+    },
+    {
+      "id": "f292b422526e0e60c5cbd4d2ecce8116",
+      "title": "Cơ trưởng kể chuyến hạ cánh đầu tiên tại sân bay Long Thành",
+      "link": "https://vnexpress.net/co-truong-ke-chuyen-ha-canh-dau-tien-tai-san-bay-long-thanh-4996327.html",
+      "summary": "Các cơ trưởng điều khiển những chuyến bay đầu tiên đến Long Thành cho biết tổ bay đã chuẩn bị kỹ lưỡng thông số khai thác, bảo đảm an toàn tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:28:16+07:00",
+      "fetched": "2025-12-21T19:34:17.139652+07:00"
+    },
+    {
+      "id": "1f83728e8da9ffef9f99afcd42971f43",
+      "title": "Sẽ ngưng dùng hộ chiếu giao dịch ngân hàng từ 2026",
+      "link": "https://vnexpress.net/se-ngung-dung-ho-chieu-giao-dich-ngan-hang-tu-2026-4996500.html",
+      "summary": "Từ 1/1/2026, khách hàng sẽ không được dùng hộ chiếu giao dịch ngân hàng, ngoại trừ người nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:21:48+07:00",
+      "fetched": "2025-12-21T19:34:17.139827+07:00"
+    },
+    {
+      "id": "1f83728e8da9ffef9f99afcd42971f43",
+      "title": "Sẽ ngưng dùng hộ chiếu giao dịch ngân hàng từ 2026",
+      "link": "https://vnexpress.net/se-ngung-dung-ho-chieu-giao-dich-ngan-hang-tu-2026-4996500.html",
+      "summary": "Từ 1/1/2026, khách hàng sẽ không được dùng hộ chiếu giao dịch ngân hàng, ngoại trừ người nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-21T11:21:48+07:00",
+      "fetched": "2025-12-21T19:34:23.840743+07:00"
+    },
+    {
+      "id": "c0da0cdaa4ee1300a9ccc5fb53d415d2",
+      "title": "Virus cúm A/H3N2 biến đổi, lưu hành rộng",
+      "link": "https://thanhnien.vn/virus-cum-a-h3n2-bien-doi-luu-hanh-rong-185251221172227075.htm",
+      "summary": "Virus cúm mùa, bao gồm cả virus A/H3N2 liên tục tiến hóa. Tiêm chủng cho mọi người, phòng bệnh chủ động bằng vắc xin giúp giảm nguy cơ nhập viện do biến chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:18:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081451+07:00"
+    },
+    {
+      "id": "117a182331b91dd062c0555c281f267f",
+      "title": "Microsoft bị mạo danh nhiều nhất trong các vụ lừa đảo trực tuyến",
+      "link": "https://thanhnien.vn/microsoft-bi-mao-danh-nhieu-nhat-trong-cac-vu-lua-dao-truc-tuyen-185251221153849313.htm",
+      "summary": "Kể từ khi internet ra đời, tội phạm mạng đã nhanh chóng lợi dụng nền tảng này để thực hiện các hành vi lừa đảo khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:12:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081613+07:00"
+    },
+    {
+      "id": "e1234196f72fc170ef149661b789c1e0",
+      "title": "Đề xuất 2 phương án áp dụng bảng giá đất",
+      "link": "https://vnexpress.net/de-xuat-2-phuong-an-ap-dung-bang-gia-dat-4996514.html",
+      "summary": "Bộ Nông nghiệp và Môi trường đề xuất 2 phương án áp dụng bảng giá đất, trong đó có hướng tách riêng 8 trường hợp sử dụng bảng giá đất và hệ số điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:11:56+07:00",
+      "fetched": "2025-12-21T19:34:17.139993+07:00"
+    },
+    {
+      "id": "4e8cbd77db8a760f96c21264a0c684fc",
+      "title": "Apple đưa ra quyết định bất ngờ về việc sản xuất iPhone 18",
+      "link": "https://thanhnien.vn/apple-dua-ra-quyet-dinh-bat-ngo-ve-viec-san-xuat-iphone-18-185251221145041868.htm",
+      "summary": "Vào năm tới, Apple dự kiến sẽ ra mắt dòng iPhone 18 với các phiên bản Pro và Pro Max, cùng khả năng xuất hiện của một mẫu iPhone màn hình gập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:08:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081762+07:00"
+    },
+    {
+      "id": "d1978d7e6e1370f27e838a3131b79568",
+      "title": "Cựu trợ lý của ông Joe Biden 'vinh dự' nhận hộ chiếu Nga",
+      "link": "https://thanhnien.vn/cuu-tro-ly-cua-ong-joe-biden-vinh-du-nhan-ho-chieu-nga-185251221174925461.htm",
+      "summary": "Bà Tara Reade, người từng là trợ lý cho cựu Tổng thống Mỹ Joe Biden khi ông còn là thượng nghị sĩ, vừa cho hay bà đã nhận được hộ chiếu Nga hôm 20.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:01:00+07:00",
+      "fetched": "2025-12-21T19:34:20.081919+07:00"
+    },
+    {
+      "id": "ea811e7ee28f89d117d2826bb80f5080",
+      "title": "Vợ không ngừng mua sắm dù đồ đặt online ít khi dùng được",
+      "link": "https://vnexpress.net/vo-khong-ngung-mua-sam-du-do-dat-online-it-khi-dung-duoc-4996520.html",
+      "summary": "Nhiều thứ dùng một lần rồi cất, có cái chưa kịp dùng đã bị đẩy vào góc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:00:00+07:00",
+      "fetched": "2025-12-21T19:34:17.140194+07:00"
+    },
+    {
+      "id": "d12dc1efd2570e710b0014f543ff0118",
+      "title": "Hoa hậu Hàn Quốc 'lão hóa ngược' nhờ uống sữa đậu nành",
+      "link": "https://vnexpress.net/hoa-hau-han-quoc-lao-hoa-nguoc-nho-uong-sua-dau-nanh-4996227.html",
+      "summary": "Ở tuổi 58, hoa hậu Hàn Quốc Kim Sung-ryung vẫn sở hữu nhan sắc không tuổi nhờ uống sữa đậu nành kết hợp hạt lanh mỗi sáng giúp chống viêm và kích hoạt collagen tự nhiên từ sâu bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:00:00+07:00",
+      "fetched": "2025-12-21T19:34:17.140361+07:00"
+    },
+    {
+      "id": "cf1a73a11d2fb4067608896815069cd3",
+      "title": "Xuân Bắc 'chào thua' khi chạy cùng Trường Giang tại Kun Marathon Hải Phòng",
+      "link": "https://vnexpress.net/xuan-bac-chao-thua-truong-giang-kun-marathon-hai-phong-4995295.html",
+      "summary": "NSND Xuân Bắc so sánh vui khả năng chạy bộ giữa anh và nghệ sĩ Trường Giang để kêu gọi trẻ em vận động tại giải Kun Marathon Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:00:00+07:00",
+      "fetched": "2025-12-21T19:34:17.140519+07:00"
+    },
+    {
+      "id": "accf2cb1eb279f330153f0fe65a5c4f7",
+      "title": "Chân váy da, chân váy dáng dài hợp nhất với dáng áo len",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-da-chan-vay-dang-dai-hop-nhat-voi-dang-ao-len-18525121811040108.htm",
+      "summary": "Chân váy dáng dài từ chất liệu vải da, nhung và dạ là những lựa chọn mặc đẹp hoàn hảo với dáng áo len. Không chỉ chú ý đến chất liệu đồng điệu, nàng còn nên tham khảo cách kết hợp các cặp đôi màu sắc để bản phối mùa lạnh cùng áo len trở nên ấn tượng và đẹp xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T11:00:00+07:00",
+      "fetched": "2025-12-21T19:34:20.082113+07:00"
     },
     {
       "id": "7460234910a2ef8c05a8afb3b4dd1357",
@@ -1001,6 +1391,16 @@ window.newsData_2025_12_21 = {
       "category": "Công nghệ",
       "published": "2025-12-21T09:14:10+07:00",
       "fetched": "2025-12-21T17:17:47.677574+07:00"
+    },
+    {
+      "id": "dce0f1a7e8469787a5029bc4a42e630a",
+      "title": "Ngành Khoa học và Công nghệ 2025 'thay đổi nhận thức, cách làm và ra nhiều kết quả hơn'",
+      "link": "https://vnexpress.net/nganh-khoa-hoc-va-cong-nghe-2025-thay-doi-nhan-thuc-cach-lam-va-ra-nhieu-ket-qua-hon-4996388.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng đánh giá năm 2025 có nhiều mục tiêu cao cho ngành, nhưng với nhận thức, cách làm mới, đã tạo ra nhiều kết quả, tác động thực chất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-21T09:14:10+07:00",
+      "fetched": "2025-12-21T19:34:26.875918+07:00"
     },
     {
       "id": "4a65a1c736b2135f338a3279370d8ef3",
