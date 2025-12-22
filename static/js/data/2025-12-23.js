@@ -1,6 +1,6 @@
 window.newsData_2025_12_23 = {
   "date": "2025-12-23",
-  "lastUpdated": "2025-12-23T01:27:16.147176+07:00",
+  "lastUpdated": "2025-12-23T03:20:01.430155+07:00",
   "articles": [
     {
       "id": "31398d66beb21f386a54c95c9b88683c",
@@ -151,6 +151,56 @@ window.newsData_2025_12_23 = {
       "category": "Tổng hợp",
       "published": "2025-12-23T01:27:06.333180+07:00",
       "fetched": "2025-12-23T01:27:06.333395+07:00"
+    },
+    {
+      "id": "864bfe3eb6103b5b7ee6651dfab245f5",
+      "title": "Nghe thầy Kim kể chuyện 'ma thuật' SEA Games",
+      "link": "https://thanhnien.vn/nghe-thay-kim-ke-chuyen-ma-thuat-sea-games-185251222232829397.htm",
+      "summary": "Trong 1 tiếng đồng hồ trải lòng về SEA Games 33 vào sáng qua 22.12, HLV Kim Sang-sik không tự nói về mình mà dành toàn bộ sự trân trọng và biết ơn đến các cầu thủ, người hâm mộ, VFF, cùng tất cả những ai đã góp sức tạo nên thành công cho U.22 VN ở sân chơi khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T20:19:00+07:00",
+      "fetched": "2025-12-23T03:19:52.927443+07:00"
+    },
+    {
+      "id": "7ebf04e8417397f018b281472791d3ea",
+      "title": "Nữ điều dưỡng bị ICE giam 6 tháng trong trại",
+      "link": "https://vnexpress.net/nu-dieu-duong-bi-ice-giam-6-thang-trong-trai-4996690.html",
+      "summary": "Palacios, người gốc Honduras, phải chịu điều kiện khắc nghiệt trong 6 tháng bị ICE giam, dù cô đã tốt nghiệp khóa điều dưỡng và đã được cấp giấy phép lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T19:00:00+07:00",
+      "fetched": "2025-12-23T03:19:49.854898+07:00"
+    },
+    {
+      "id": "7ebf04e8417397f018b281472791d3ea",
+      "title": "Nữ điều dưỡng bị ICE giam 6 tháng trong trại",
+      "link": "https://vnexpress.net/nu-dieu-duong-bi-ice-giam-6-thang-trong-trai-4996690.html",
+      "summary": "Palacios, người gốc Honduras, phải chịu điều kiện khắc nghiệt trong 6 tháng bị ICE giam, dù cô đã tốt nghiệp khóa điều dưỡng và đã được cấp giấy phép lao động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T19:00:00+07:00",
+      "fetched": "2025-12-23T03:19:55.683317+07:00"
+    },
+    {
+      "id": "326e3b8f038f0affbe93836922c1936b",
+      "title": "Chiêu trò bán chênh tiền tỷ tạo 'sốt' giá chung cư",
+      "link": "https://vnexpress.net/chieu-tro-ban-chenh-tien-ty-tao-sot-gia-chung-cu-4996735.html",
+      "summary": "Kịch bản \"giỏ hàng hạn chế, người mua cần trả chênh cả tỷ đồng\" lặp lại ở các dự án mới khiến thị trường méo mó, chủ yếu giao dịch \"lướt sóng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T18:00:00+07:00",
+      "fetched": "2025-12-23T03:19:49.855077+07:00"
+    },
+    {
+      "id": "ea806e77c10219dfb8da2082bec45e4c",
+      "title": "Viêm kẽ da",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-ke-da-390",
+      "summary": "Viêm kẽ da là tình trạng viêm ở các nếp gấp như nách, cổ, dưới ngực hay kẽ tay chân, gây đỏ rát và đôi khi xuất hiện mụn nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T18:00:00+07:00",
+      "fetched": "2025-12-23T03:19:49.855259+07:00"
     },
     {
       "id": "4b7c0e967452c1ddce219a190a7fbfc6",
