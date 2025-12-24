@@ -1,7 +1,157 @@
 window.newsData_2025_12_24 = {
   "date": "2025-12-24",
-  "lastUpdated": "2025-12-24T21:17:57.827456+07:00",
+  "lastUpdated": "2025-12-24T23:22:20.472224+07:00",
   "articles": [
+    {
+      "id": "2b333192b4ac65c8076503892c056fd2",
+      "title": "Trình HĐND TP.HCM quyết định chủ trương dự án cầu Cần Giờ, cầu Phú Mỹ 2",
+      "link": "https://tuoitre.vn/trinh-hdnd-tp-hcm-quyet-dinh-chu-truong-du-an-cau-can-gio-cau-phu-my-2-20251224195613108.htm",
+      "summary": "Dự án cầu Cần Giờ, cầu Phú Mỹ 2 đều được đề xuất lựa chọn nhà đầu tư trong trường hợp đặc biệt, theo quy định tại nghị định 257/2025 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.697575+07:00",
+      "fetched": "2025-12-24T23:22:11.697694+07:00"
+    },
+    {
+      "id": "dfceccf6a2b67d581548c48a657b59a8",
+      "title": "Thủ tướng: Làm chủ công nghệ lõi, đẩy mạnh thương mại hóa sản phẩm công nghiệp quốc phòng",
+      "link": "https://tuoitre.vn/thu-tuong-lam-chu-cong-nghe-loi-day-manh-thuong-mai-hoa-san-pham-cong-nghiep-quoc-phong-20251224202907457.htm",
+      "summary": "Ngày 24-12, Thủ tướng Phạm Minh Chính đã chủ trì cuộc làm việc với Bộ Quốc phòng và các bộ, ngành liên quan nhằm triển khai các nhiệm vụ quân sự, quốc phòng năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.697432+07:00",
+      "fetched": "2025-12-24T23:22:11.697562+07:00"
+    },
+    {
+      "id": "d010997de7164d392cc089cf079a7ba3",
+      "title": "Nghỉ việc, quay lại công ty cũ đánh chết người",
+      "link": "https://tuoitre.vn/nghi-viec-quay-lai-cong-ty-cu-danh-chet-nguoi-20251224203442247.htm",
+      "summary": "Sau khi nghỉ việc, Tiền và Linh quay lại công ty đánh chết người có mâu thuẫn trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.697305+07:00",
+      "fetched": "2025-12-24T23:22:11.697418+07:00"
+    },
+    {
+      "id": "0f2a9f759d34a72f4865d20583eb19e5",
+      "title": "Trời vừa tạnh mưa, nhiều nhà thờ, xóm đạo ở TP.HCM đông nghẹt người dự lễ, đón Noel",
+      "link": "https://tuoitre.vn/troi-vua-tanh-mua-nhieu-nha-tho-xom-dao-o-tp-hcm-dong-nghet-nguoi-du-le-don-noel-20251224204527576.htm",
+      "summary": "Nhiều nhà thờ, xóm đạo... tại TP.HCM đồng loạt lên đèn, khoác lên mình vẻ rực rỡ, ấm áp lung linh màu sắc đêm Noel, thu hút bạn trẻ cùng nhau check-in.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.697179+07:00",
+      "fetched": "2025-12-24T23:22:11.697294+07:00"
+    },
+    {
+      "id": "9d83a560d28a154a18da0a096673f5ae",
+      "title": "Triệt phá đường dây ‘chạy án’ liên quan vụ rửa tiền quy mô 67.000 tỉ đồng",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-chay-an-lien-quan-vu-rua-tien-quy-mo-67-000-ti-dong-20251224183521027.htm",
+      "summary": "Công an Đà Nẵng vừa bắt giữ các nghi phạm trong đường dây ‘chạy án’ liên quan vụ rửa tiền quy mô 67.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.697052+07:00",
+      "fetched": "2025-12-24T23:22:11.697167+07:00"
+    },
+    {
+      "id": "24c075ff1b56006deb578fd933f3a819",
+      "title": "Phát hiện thi thể người bị thiêu cháy trong nghĩa trang Pleiku, Gia Lai",
+      "link": "https://tuoitre.vn/phat-hien-thi-the-nguoi-bi-thieu-chay-trong-nghia-trang-pleiku-gia-lai-20251224175331532.htm",
+      "summary": "Chiều 24-12, người dân thăm mộ tại nghĩa trang Pleiku (Gia Lai) bàng hoàng phát hiện một thi thể người đang bốc cháy dữ dội trong khu nghĩa trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696925+07:00",
+      "fetched": "2025-12-24T23:22:11.697040+07:00"
+    },
+    {
+      "id": "3e693b446a7e8de015a2cb243e2d9e6c",
+      "title": "Phải tốn phí dịch vụ khi đóng học phí, phụ huynh nói 'quá vô lý'",
+      "link": "https://tuoitre.vn/phai-ton-phi-dich-vu-khi-dong-hoc-phi-phu-huynh-noi-qua-vo-ly-20251224201916588.htm",
+      "summary": "Phí dịch vụ khi đóng học phí đang gây bức xúc trong phụ huynh. Vì sao nhiều trường học lại thu phí này trong khi nhiều trường khác cung cấp các lựa chọn giúp phụ huynh không hề mất tiền phát sinh?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696795+07:00",
+      "fetched": "2025-12-24T23:22:11.696914+07:00"
+    },
+    {
+      "id": "9bc89ac88c457288e274d5e9783bf033",
+      "title": "Bỗng dưng mất 2 chiếc răng, 20 năm sau bác sĩ phát hiện trong... phổi",
+      "link": "https://tuoitre.vn/bong-dung-mat-2-chiec-rang-20-nam-sau-bac-si-phat-hien-trong-phoi-20251224184918909.htm",
+      "summary": "Ông H. làm răng giả năm 22 tuổi, sau đó mất hai chiếc răng không rõ nguyên nhân. Hơn 20 năm sau, bác sĩ phát hiện răng giả nằm trong phổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696656+07:00",
+      "fetched": "2025-12-24T23:22:11.696783+07:00"
+    },
+    {
+      "id": "92853116c3ad2d1c9a8f02da66a7f2a5",
+      "title": "Bangkok: Đàm phán Campuchia - Thái Lan kết thúc sau 35 phút, chưa có thỏa thuận nào",
+      "link": "https://tuoitre.vn/bangkok-dam-phan-campuchia-thai-lan-ket-thuc-sau-35-phut-chua-co-thoa-thuan-nao-20251224205920145.htm",
+      "summary": "Chiều 24-12, ngày họp đầu tiên của Ủy ban Biên giới chung Thái Lan - Campuchia (GBC) đã kết thúc nhanh chóng chỉ sau 35 phút tại tỉnh biên giới Chanthaburi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696510+07:00",
+      "fetched": "2025-12-24T23:22:11.696644+07:00"
+    },
+    {
+      "id": "c2cef076063bd581848bbf3ea43700b0",
+      "title": "Chuyện gì đang xảy ra ở Hóa chất Đức Giang?",
+      "link": "https://tuoitre.vn/chuyen-gi-dang-xay-ra-o-hoa-chat-duc-giang-20251224210950903.htm",
+      "summary": "Cổ phiếu DGC của Tập đoàn Hóa chất Đức Giang vẫn tiếp đà giảm mạnh. Trong khi ban lãnh đạo vẫn 'im lặng', nhiều nhà đầu tư 'ôm' mã này lo lắng hỏi 'chuyện gì đang xảy ra?'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696382+07:00",
+      "fetched": "2025-12-24T23:22:11.696499+07:00"
+    },
+    {
+      "id": "83594cfa84527d7dfd08a406b4ab1cd0",
+      "title": "Ngành thuế thu vượt 2,2 triệu tỉ đồng, hơn 91.600 người bị tạm hoãn xuất cảnh vì nợ thuế",
+      "link": "https://tuoitre.vn/nganh-thue-thu-vuot-2-2-trieu-ti-dong-hon-91-600-nguoi-bi-tam-hoan-xuat-canh-vi-no-thue-20251224205059153.htm",
+      "summary": "Lần đầu ngành thuế thu ngân sách vượt 2,2 triệu tỉ đồng. Tổng nợ thuế đến cuối năm nay khoảng 228.926 tỉ đồng. Cơ quan thuế đã ban hành hơn 91.600 thông báo tạm hoãn xuất cảnh vì chây ì nộp thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696251+07:00",
+      "fetched": "2025-12-24T23:22:11.696370+07:00"
+    },
+    {
+      "id": "8371a0a73b505568bf399dae55d4810c",
+      "title": "Lại bắt được chim hồng hoàng quý hiếm ở xã Xuân Thới Sơn, TP.HCM",
+      "link": "https://tuoitre.vn/lai-bat-duoc-chim-hong-hoang-quy-hiem-o-xa-xuan-thoi-son-tp-hcm-20251224210355439.htm",
+      "summary": "Trong 3 ngày, người dân ở xã Xuân Thới Sơn (TP.HCM) bắt được hai con chim hồng hoàng quý hiếm và liên hệ với cơ quan chức năng để bàn giao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.696118+07:00",
+      "fetched": "2025-12-24T23:22:11.696239+07:00"
+    },
+    {
+      "id": "70c8d272f271d18611c5f6fb2d01caac",
+      "title": "TP.HCM muốn xây Bệnh viện Chấn thương đầu tiên tại Việt Nam, quy mô hơn 4.200 tỉ đồng",
+      "link": "https://tuoitre.vn/tp-hcm-muon-xay-benh-vien-chan-thuong-dau-tien-tai-viet-nam-quy-mo-hon-4-200-ti-dong-20251224213546946.htm",
+      "summary": "Trước thực trạng quá tải nghiêm trọng của Bệnh viện Chấn thương chỉnh hình, UBND TP.HCM đề xuất xây dựng Bệnh viện Chấn thương đầu tiên tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.695983+07:00",
+      "fetched": "2025-12-24T23:22:11.696106+07:00"
+    },
+    {
+      "id": "7e8f4851ec100f14a428ded71b078672",
+      "title": "Vì sao chủ tịch Tập đoàn Thuận An được giảm 3 năm tù?",
+      "link": "https://tuoitre.vn/vi-sao-chu-tich-tap-doan-thuan-an-duoc-giam-3-nam-tu-20251224213355304.htm",
+      "summary": "Việc ông Nguyễn Duy Hưng (chủ tịch Tập đoàn Thuận An) nộp thêm 47 tỉ khắc phục toàn bộ thiệt hại vụ án 120 tỉ được các cơ quan tố tụng ghi nhận là tình tiết giảm nhẹ đáng kể để xem xét chấp nhận kháng cáo và giảm án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.695831+07:00",
+      "fetched": "2025-12-24T23:22:11.695970+07:00"
+    },
+    {
+      "id": "02204bd6951b55420aaa9b7bb318f9e1",
+      "title": "Giá bạc vượt 72 USD/ounce, tăng 38% trong một tháng",
+      "link": "https://tuoitre.vn/gia-bac-vuot-72-usd-ounce-tang-38-trong-mot-thang-20251224220445929.htm",
+      "summary": "Đêm Noel, giá bạc giảm nhẹ. Tuy nhiên nếu nhìn lại diễn biến thời gian qua có thể thấy nhà đầu tư bạc đã lãi lớn trong đợt tăng giá của bạc năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:22:11.695605+07:00",
+      "fetched": "2025-12-24T23:22:11.695816+07:00"
+    },
     {
       "id": "1afd01adce2aefb68ccbff3f5b512413",
       "title": "Đại sứ Nga: Quan hệ đối tác Nga - Trung ‘chưa từng mạnh mẽ như hiện nay’",
@@ -453,6 +603,36 @@ window.newsData_2025_12_24 = {
       "fetched": "2025-12-24T17:19:19.560642+07:00"
     },
     {
+      "id": "73452056d0dbb838d3e25bf624455110",
+      "title": "NCB sẽ tăng vốn điều lệ lên hơn 29.000 tỷ đồng",
+      "link": "https://vnexpress.net/ncb-se-tang-von-dieu-le-len-hon-29-000-ty-dong-4997959.html",
+      "summary": "Ngân hàng TMCP Quốc Dân (NCB) sẽ chào bán riêng lẻ 10.000 tỷ đồng cổ phiếu, qua đó tăng vốn điều lệ lên gần 29.280 tỷ đồng để mở rộng tín dụng cho doanh nghiệp, cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:45:00+07:00",
+      "fetched": "2025-12-24T23:22:06.944149+07:00"
+    },
+    {
+      "id": "3911c41423161534b7361fd0f93f7df7",
+      "title": "Nhà thờ ‘đá’ Thánh Phaolô đông nghịt đêm Noel",
+      "link": "https://thanhnien.vn/nha-tho-da-thanh-phaolo-dong-nghit-dem-noel-185251224223904447.htm",
+      "summary": "Tối 24.12.2025, Nhà thờ Thánh Phaolô (P.An Lạc, TP.HCM) rực rỡ trong ánh đèn Giáng sinh, thu hút đông đảo người dân và giới trẻ đến tham quan, chụp ảnh, tận hưởng không khí lễ hội ấm áp cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:41:00+07:00",
+      "fetched": "2025-12-24T23:22:10.655167+07:00"
+    },
+    {
+      "id": "fb3c39b36a3d01aa56198a55b2d53b2b",
+      "title": "Hai đại học của Bộ Tài chính sáp nhập",
+      "link": "https://vnexpress.net/dai-hoc-tai-chinh-marketing-co-phan-hieu-o-quang-ngai-4997896.html",
+      "summary": "Trường Đại học Tài chính - Kế toán sẽ trở thành phân hiệu Quảng Ngãi của trường Đại học Tài chính - Marketing.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:26:40+07:00",
+      "fetched": "2025-12-24T23:22:06.944343+07:00"
+    },
+    {
       "id": "e2b067e922514bbbb96dd6235799ee2b",
       "title": "Khu bảo tồn văn hóa Làng Teng phải tháo dỡ nhiều hạng mục vì xuống cấp chỉ sau vài năm",
       "link": "https://tuoitre.vn/khu-bao-ton-van-hoa-lang-teng-phai-thao-do-nhieu-hang-muc-vi-xuong-cap-chi-sau-vai-nam-20251224114124287.htm",
@@ -601,6 +781,226 @@ window.newsData_2025_12_24 = {
       "category": "Tổng hợp",
       "published": "2025-12-24T15:26:10.945357+07:00",
       "fetched": "2025-12-24T15:26:10.945566+07:00"
+    },
+    {
+      "id": "6167fa84e18046eedbc6bdb4586d26c1",
+      "title": "Dòng người xuống phố đón Giáng sinh: Nhà thờ Đức Bà thành điểm hẹn check-in giữa trung tâm TP.HCM",
+      "link": "https://thanhnien.vn/dong-nguoi-xuong-pho-don-giang-sinh-nha-tho-duc-ba-thanh-diem-hen-check-in-giua-trung-tam-tphcm-185251224210928837.htm",
+      "summary": "Tối 24.12, người người xuống phố đón Giáng sinh, khiến nhiều tuyến đường ở khu vực trung tâm TP.HCM kẹt cứng. Dù di chuyển khó khăn, người dân và du khách vẫn vui vẻ tận hưởng không khí lễ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:17:00+07:00",
+      "fetched": "2025-12-24T23:22:10.655352+07:00"
+    },
+    {
+      "id": "81e1bfdb93f77f14a3d64cdd101e215d",
+      "title": "Vietjet đưa Boeing 737-8 vào khai thác thương mại tại Thái Lan",
+      "link": "https://vnexpress.net/vietjet-dua-boeing-737-8-vao-khai-thac-thuong-mai-tai-thai-lan-4997948.html",
+      "summary": "Vietjet Thái Lan khai thác tàu bay Boeing 737-8 cho các đường bay nội địa Bangkok - Chiang Mai từ 24/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:00:00+07:00",
+      "fetched": "2025-12-24T23:22:06.944509+07:00"
+    },
+    {
+      "id": "f543209c0b1ea25c38097a0e7399a3cf",
+      "title": "Sắc đỏ là điểm nhấn hoàn hảo cho trang phục mùa cuối năm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-do-la-diem-nhan-hoan-hao-cho-trang-phuc-mua-cuoi-nam-185251223115114018.htm",
+      "summary": "Giữa vô vàn sắc màu, sắc đỏ vẫn luôn là lựa chọn nổi bật, đại diện cho sự ấm áp, may mắn và cuốn hút. Chỉ cần một điểm nhấn nhỏ, tổng thể trang phục sẽ bừng sáng và mang tinh thần lễ hội rất riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T15:00:00+07:00",
+      "fetched": "2025-12-24T23:22:10.655516+07:00"
+    },
+    {
+      "id": "d2bd62b2365f8d5fd1ced76895a14f13",
+      "title": "TP.HCM: Liên tiếp bắt được chim nghi là hồng hoàng quý hiếm tại xã Xuân Thới Sơn",
+      "link": "https://thanhnien.vn/tphcm-lien-tiep-bat-duoc-chim-nghi-la-hong-hoang-quy-hiem-tai-xa-xuan-thoi-son-185251224211722878.htm",
+      "summary": "Trong vòng 2 ngày, người dân tại xã Xuân Thới Sơn (TP.HCM) liên tiếp phát hiện và bắt được 2 con chim lạ có kích thước lớn, nghi là chim hồng hoàng thuộc danh mục động vật hoang dã quý hiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:48:00+07:00",
+      "fetched": "2025-12-24T23:22:10.655697+07:00"
+    },
+    {
+      "id": "0d4452570a6e0569cc6a5ce6ffc442d5",
+      "title": "Tây Ninh: Cháy xưởng gỗ do dùng pin sạc điện thoại dự phòng",
+      "link": "https://thanhnien.vn/tay-ninh-chay-xuong-go-do-dung-pin-sac-dien-thoai-du-phong-185251224205110629.htm",
+      "summary": "Vụ cháy xưởng gỗ ở xã Nhựt Tảo (Tây Ninh) vừa xảy ra tối 24.12. Nguyên nhân ban đầu được xác định xuất phát từ việc sử dụng pin sạc điện thoại dự phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:48:00+07:00",
+      "fetched": "2025-12-24T23:22:10.655860+07:00"
+    },
+    {
+      "id": "76bd4d15d3f6d9ff5a9bb9d66b7e816a",
+      "title": "Đà Nẵng: Bắt giữ nghi phạm đâm người phụ nữ trên đường Trường Chinh",
+      "link": "https://thanhnien.vn/da-nang-bat-giu-nghi-pham-dam-nguoi-phu-nu-tren-duong-truong-chinh-185251224211009556.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.Đà Nẵng đã bắt giữ nghi phạm đâm dã man người phụ nữ trên đường Trường Chinh (P.An Khê).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:36:00+07:00",
+      "fetched": "2025-12-24T23:22:10.656014+07:00"
+    },
+    {
+      "id": "df1c247bf88b8673289329688e0d0122",
+      "title": "Quân đội Mỹ theo dấu Ông già Noel đêm Giáng sinh",
+      "link": "https://vnexpress.net/quan-doi-my-theo-dau-ong-gia-noel-dem-giang-sinh-4997933.html",
+      "summary": "Bộ tư lệnh Phòng không Bắc Mỹ thông báo \"phát hiện Ông già Noel khởi hành\" và bay qua nhiều địa điểm để phát quà trong đêm Giáng sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:24:58+07:00",
+      "fetched": "2025-12-24T23:22:06.944703+07:00"
+    },
+    {
+      "id": "df1c247bf88b8673289329688e0d0122",
+      "title": "Quân đội Mỹ theo dấu Ông già Noel đêm Giáng sinh",
+      "link": "https://vnexpress.net/quan-doi-my-theo-dau-ong-gia-noel-dem-giang-sinh-4997933.html",
+      "summary": "Bộ tư lệnh Phòng không Bắc Mỹ thông báo \"phát hiện Ông già Noel khởi hành\" và bay qua nhiều địa điểm để phát quà trong đêm Giáng sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T14:24:58+07:00",
+      "fetched": "2025-12-24T23:22:13.632418+07:00"
+    },
+    {
+      "id": "f98b455e6b88b0b980489b768f595738",
+      "title": "Trương Minh Cường: Tôi gãy tay, 'ôm đầu máu' về nhà vì đóng phim hành động",
+      "link": "https://thanhnien.vn/truong-minh-cuong-toi-gay-tay-om-dau-mau-ve-nha-vi-dong-phim-hanh-dong-185251224204215642.htm",
+      "summary": "Không ngại việc thực hiện các phân đoạn khó trong phim hành động, Trương Minh Cường thừa nhận phải đối diện với chấn thương khi quay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:24:00+07:00",
+      "fetched": "2025-12-24T23:22:10.656163+07:00"
+    },
+    {
+      "id": "8971b587c663eb2372a9750980abfbdf",
+      "title": "Chi tiết kế hoạch 20 điểm của Tổng thống Zelensky về hòa bình Ukraine",
+      "link": "https://thanhnien.vn/chi-tiet-ke-hoach-diem-cua-tong-thong-zelensky-ve-hoa-binh-ukraine-20-185251224203223714.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky ngày 24.12 đã công bố kế hoạch nhằm chấm dứt cuộc chiến tại Ukraine, tiết lộ đã gửi đề xuất này cho phía Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:21:00+07:00",
+      "fetched": "2025-12-24T23:22:10.656315+07:00"
+    },
+    {
+      "id": "e3f7978b7d67212412cdc4bbb50d2231",
+      "title": "96 ngày 'chiến đấu' của bé trai 5 tuổi bị cha đốt xăng phỏng 80%",
+      "link": "https://thanhnien.vn/96-ngay-chien-dau-cua-be-trai-5-tuoi-bi-cha-dot-xang-phong-80-185251224202533276.htm",
+      "summary": "Sau 96 ngày giành giật sự sống, bé trai 5 tuổi bị cha đốt xăng phỏng đến 80% cơ thể đã hồi phục sau nhiều lần rơi vào tình trạng nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:21:00+07:00",
+      "fetched": "2025-12-24T23:22:10.656467+07:00"
+    },
+    {
+      "id": "5d130fa03c3844f42d98f12f231fec67",
+      "title": "Thái Lan - Campuchia kết thúc ngày đàm phán ngừng bắn đầu tiên",
+      "link": "https://thanhnien.vn/thai-lan-campuchia-ket-thuc-ngay-dam-phan-ngung-ban-dau-tien-18525122419452816.htm",
+      "summary": "Ngày đầu tiên (24.12) của vòng đàm phán giữa các quan chức Ủy ban Biên giới Chung (GBC) Thái Lan - Campuchia đã diễn ra trong 35 phút, nhằm tìm giải pháp hạ nhiệt tình hình căng thẳng biên giới những ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:20:00+07:00",
+      "fetched": "2025-12-24T23:22:10.656646+07:00"
+    },
+    {
+      "id": "ed71c84fd87ffdd1607b8120a232eec1",
+      "title": "Ông lớn ngành xi măng Vicem ngắt mạch lỗ nghìn tỷ",
+      "link": "https://vnexpress.net/ong-lon-nganh-xi-mang-vicem-ngat-mach-lo-nghin-ty-4997898.html",
+      "summary": "Vicem ghi nhận lợi nhuận hơn 287 tỷ đồng và ngắt mạch lỗ nghìn tỷ, sau chỉ đạo phải quyết tâm có lãi của Bộ trưởng Xây dựng hồi đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:17:07+07:00",
+      "fetched": "2025-12-24T23:22:06.944871+07:00"
+    },
+    {
+      "id": "ed71c84fd87ffdd1607b8120a232eec1",
+      "title": "Ông lớn ngành xi măng Vicem ngắt mạch lỗ nghìn tỷ",
+      "link": "https://vnexpress.net/ong-lon-nganh-xi-mang-vicem-ngat-mach-lo-nghin-ty-4997898.html",
+      "summary": "Vicem ghi nhận lợi nhuận hơn 287 tỷ đồng và ngắt mạch lỗ nghìn tỷ, sau chỉ đạo phải quyết tâm có lãi của Bộ trưởng Xây dựng hồi đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T14:17:07+07:00",
+      "fetched": "2025-12-24T23:22:15.131186+07:00"
+    },
+    {
+      "id": "8ced17fb322e1c3328b7b3e748ceba50",
+      "title": "Lô ma túy tiền tỷ ngụy trang trong hộp mỹ phẩm",
+      "link": "https://vnexpress.net/lo-ma-tuy-tien-ty-nguy-trang-trong-hop-my-pham-4997934.html",
+      "summary": "Hồ Viết Đạo và Nguyễn Thị Thảo giấu gần một kg ma túy ketamine trong 5 hộp mỹ phẩm, đóng gói thành kiện hàng rồi gửi xe khách giao cho đối tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:15:58+07:00",
+      "fetched": "2025-12-24T23:22:06.945042+07:00"
+    },
+    {
+      "id": "b58d03ac3a9b91d743da9d1dad9639f6",
+      "title": "Bộ Khoa học và Công nghệ bổ nhiệm 5 cán bộ",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-bo-nhiem-5-can-bo-4997935.html",
+      "summary": "Tối 24/12, Bộ Khoa học và Công nghệ công bố các quyết định của Bộ trưởng về công tác cán bộ tại một số đơn vị thuộc khối đổi mới sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:13:48+07:00",
+      "fetched": "2025-12-24T23:22:06.945196+07:00"
+    },
+    {
+      "id": "b58d03ac3a9b91d743da9d1dad9639f6",
+      "title": "Bộ Khoa học và Công nghệ bổ nhiệm 5 cán bộ",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-bo-nhiem-5-can-bo-4997935.html",
+      "summary": "Tối 24/12, Bộ Khoa học và Công nghệ công bố các quyết định của Bộ trưởng về công tác cán bộ tại một số đơn vị thuộc khối đổi mới sáng tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-24T14:13:48+07:00",
+      "fetched": "2025-12-24T23:22:18.952889+07:00"
+    },
+    {
+      "id": "d97053de567ad10a0e8d9678b97cc190",
+      "title": "20 điểm Ukraine đề xuất để chấm dứt chiến sự với Nga",
+      "link": "https://vnexpress.net/20-diem-ukraine-de-xuat-de-cham-dut-chien-su-voi-nga-4997812.html",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky công bố kế hoạch hòa bình 20 điểm đạt được trong đàm phán với Mỹ nhằm chấm dứt cuộc xung đột với Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:12:04+07:00",
+      "fetched": "2025-12-24T23:22:06.945360+07:00"
+    },
+    {
+      "id": "d97053de567ad10a0e8d9678b97cc190",
+      "title": "20 điểm Ukraine đề xuất để chấm dứt chiến sự với Nga",
+      "link": "https://vnexpress.net/20-diem-ukraine-de-xuat-de-cham-dut-chien-su-voi-nga-4997812.html",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky công bố kế hoạch hòa bình 20 điểm đạt được trong đàm phán với Mỹ nhằm chấm dứt cuộc xung đột với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T14:12:04+07:00",
+      "fetched": "2025-12-24T23:22:13.632613+07:00"
+    },
+    {
+      "id": "fb552e7891f453f1af29274f31375044",
+      "title": "Chim hồng hoàng quý hiếm bay vào nhà dân ở TP HCM",
+      "link": "https://vnexpress.net/chim-hong-hoang-quy-hiem-bay-vao-nha-dan-o-tp-hcm-4997938.html",
+      "summary": "Chim hồng hoàng lớn trọng lượng khoảng 3 kg bay vào sân nhà ở xã Xuân Thới Sơn (huyện Hóc Môn cũ), được người dân bắt và giao cho lực lượng chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:11:05+07:00",
+      "fetched": "2025-12-24T23:22:06.945521+07:00"
+    },
+    {
+      "id": "fe90f2aa83ea2195854a287fafc65975",
+      "title": "Người dân nước nào 'lười vận động' nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-luoi-van-dong-nhat-dong-nam-a-4997922.html",
+      "summary": "Hơn 45% dân số nước này không vận động đủ mức tối thiểu - 150 phút mỗi tuần, đứng đầu Đông Nam Á và hạng 18 thế giới. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:06:40+07:00",
+      "fetched": "2025-12-24T23:22:06.945712+07:00"
+    },
+    {
+      "id": "f7775f19c562a70d7b599621f6386c83",
+      "title": "Mong sẽ có anh trong dịp tết này",
+      "link": "https://vnexpress.net/mong-se-co-anh-trong-dip-tet-nay-4997604.html",
+      "summary": "Mình sinh năm 1981, quê ở Bắc Trung Bộ, gia đình chuyển vào TP Hồ Chí Minh đã lâu, làm giáo viên và chưa kết hôn lần nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T14:00:00+07:00",
+      "fetched": "2025-12-24T23:22:06.945821+07:00"
     },
     {
       "id": "3b881ce2f610350af0ab75c6c2ef4407",
@@ -1131,6 +1531,16 @@ window.newsData_2025_12_24 = {
       "category": "Tổng hợp",
       "published": "2025-12-24T12:14:00+07:00",
       "fetched": "2025-12-24T19:37:44.820263+07:00"
+    },
+    {
+      "id": "924199de620436abd89a6296abb1d8ee",
+      "title": "Đà Nẵng đổi tên sân vận động Hòa Xuân thành Chi Lăng",
+      "link": "https://vnexpress.net/da-nang-doi-ten-san-van-dong-hoa-xuan-thanh-chi-lang-4997892.html",
+      "summary": "Việc đổi tên sân Hòa Xuân thành Chi Lăng đánh dấu sự kế thừa biểu tượng thể thao lịch sử, lưu giữ ký ức bóng đá và không gian văn hóa gắn bó với người dân Đà Nẵng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T12:01:03+07:00",
+      "fetched": "2025-12-24T23:22:20.458730+07:00"
     },
     {
       "id": "76dd1072c36ac3b1f18a597470bf01f7",
