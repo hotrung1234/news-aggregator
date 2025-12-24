@@ -1,7 +1,157 @@
 window.newsData_2025_12_24 = {
   "date": "2025-12-24",
-  "lastUpdated": "2025-12-24T15:26:17.706277+07:00",
+  "lastUpdated": "2025-12-24T17:19:26.067417+07:00",
   "articles": [
+    {
+      "id": "d62f25ec568e87fd4646a34852e955e1",
+      "title": "Xe đầu kéo, container đậu hàng dài trên đường dẫn cao tốc, hướng ra đường Võ Chí Công dù có biển cấm",
+      "link": "https://tuoitre.vn/xe-dau-keo-container-dau-hang-dai-tren-duong-dan-cao-toc-huong-ra-duong-vo-chi-cong-du-co-bien-cam-20251224141929427.htm",
+      "summary": "Nhiều tài xế xe container, đầu kéo, xe tải... thường đậu trên đường dẫn cao tốc, hướng ra đường Võ Chí Công, đặc biệt tại đoạn đường cong, khuất tầm nhìn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.562096+07:00",
+      "fetched": "2025-12-24T17:19:19.562194+07:00"
+    },
+    {
+      "id": "c3f927d9a0d49829b833955e2859f88a",
+      "title": "Bỏ thuế khoán từ 2026: Hộ kinh doanh cần chuẩn bị gì ngay từ bây giờ?",
+      "link": "https://tuoitre.vn/bo-thue-khoan-tu-2026-ho-kinh-doanh-can-chuan-bi-gi-ngay-tu-bay-gio-20251224151443742.htm",
+      "summary": "Quốc hội chính thức thông qua ngưỡng thu nhập tính thuế đối với hộ kinh doanh là 500 triệu đồng/năm, áp dụng từ năm 2026, đồng thời xóa bỏ hoàn toàn thuế khoán. Đây là bước ngoặt quan trọng, thúc đẩy hàng triệu hộ kinh doanh trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561980+07:00",
+      "fetched": "2025-12-24T17:19:19.562078+07:00"
+    },
+    {
+      "id": "2e06120fae4d92d663c3ba9998ab91ce",
+      "title": "Venus Williams kết hôn với tài tử người Ý kém 8 tuổi",
+      "link": "https://tuoitre.vn/venus-williams-ket-hon-voi-tai-tu-nguoi-y-kem-8-tuoi-20251224154006819.htm",
+      "summary": "Nữ huyền thoại quần vợt thế giới Venus Williams vừa chính thức kết hôn với nam diễn viên kiêm người mẫu nước Ý Andrea Preti.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561871+07:00",
+      "fetched": "2025-12-24T17:19:19.561970+07:00"
+    },
+    {
+      "id": "9774d06a3089eed6bd92b7909b7bddc0",
+      "title": "Agribank Chi nhánh 5 chuyển địa điểm hoạt động Phòng giao dịch Trang Tử",
+      "link": "https://tuoitre.vn/agribank-chi-nhanh-5-chuyen-dia-diem-hoat-dong-phong-giao-dich-trang-tu-20251224153139304.htm",
+      "summary": "Agribank Chi nhánh 5 chuyển địa điểm hoạt động Phòng giao dịch Trang Tử",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561767+07:00",
+      "fetched": "2025-12-24T17:19:19.561862+07:00"
+    },
+    {
+      "id": "afff86e4ce200c4d34cdf49033582214",
+      "title": "Techcombank chào đón nhân tài ‘A.I thực chiến’ tham quan trụ sở",
+      "link": "https://tuoitre.vn/techcombank-chao-don-nhan-tai-a-i-thuc-chien-tham-quan-tru-so-20251224153837797.htm",
+      "summary": "Các thí sinh xuất sắc từ cuộc thi ‘A.I thực chiến’ - chương trình trọng điểm quốc gia nhằm tìm kiếm và bồi dưỡng nhân tài AI Việt lần đầu tiên trên sóng Đài Truyền hình Việt Nam - đã tham gia “Office Tour” tại trụ sở Techcombank.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561649+07:00",
+      "fetched": "2025-12-24T17:19:19.561757+07:00"
+    },
+    {
+      "id": "c3bd3fc3a6d3ad074c316908536e7c65",
+      "title": "Trung tâm Tài chính quốc tế TP.HCM: Xây dựng thương hiệu mở lối cho doanh nghiệp nhỏ và vừa",
+      "link": "https://tuoitre.vn/trung-tam-tai-chinh-quoc-te-tp-hcm-xay-dung-thuong-hieu-mo-loi-cho-doanh-nghiep-nho-va-vua-20251224154405144.htm",
+      "summary": "Vừa qua, Chính phủ đã công bố thành lập Trung tâm Tài chính quốc tế (IFC). Vấn đề hiện tại là làm thế nào để IFC của Việt Nam không chỉ đóng vai trò thu hút dòng vốn toàn cầu, mà còn trở thành bệ phóng cho gần một triệu doanh nghiệp nhỏ và vừa?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561542+07:00",
+      "fetched": "2025-12-24T17:19:19.561639+07:00"
+    },
+    {
+      "id": "e7a1f1d04d6f659aedbe0bbda149d019",
+      "title": "Đinh tai nhức óc không chỉ có ‘hung thần’ karaoke",
+      "link": "https://tuoitre.vn/dinh-tai-nhuc-oc-khong-chi-co-hung-than-karaoke-20251224143719219.htm",
+      "summary": "Nhiều bạn đọc phản ánh không chỉ karaoke ồn ào “tra tấn” người dân, mà còn những tiếng ồn đinh tai nhức óc khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561437+07:00",
+      "fetched": "2025-12-24T17:19:19.561533+07:00"
+    },
+    {
+      "id": "0e68469d8e02279ecaf65badc103f4cf",
+      "title": "Camera AI - công cụ then chốt giúp ngăn ngừa động vật nguy hiểm",
+      "link": "https://tuoitre.vn/camera-ai-cong-cu-then-chot-giup-ngan-ngua-dong-vat-nguy-hiem-20251224151100071.htm",
+      "summary": "Hệ thống giám sát mới tích hợp công nghệ trí tuệ nhân tạo (AI) đang trở thành công cụ then chốt giúp chính quyền địa phương ứng phó với mối đe dọa từ động vật hoang dã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561331+07:00",
+      "fetched": "2025-12-24T17:19:19.561428+07:00"
+    },
+    {
+      "id": "fcf1bc4cdec3c0bd7dce0c5bfb41cdda",
+      "title": "Tổng liên đoàn Lao động đồng ý hoán đổi ngày làm việc để nghỉ Tết dương lịch 4 ngày",
+      "link": "https://tuoitre.vn/tong-lien-doan-lao-dong-dong-y-hoan-doi-ngay-lam-viec-de-nghi-tet-duong-lich-4-ngay-20251224160543016.htm",
+      "summary": "Tổng liên đoàn Lao động Việt Nam vừa có ý kiến về việc hoán đổi ngày làm việc để nghỉ Tết dương lịch liên tiếp trong 4 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561225+07:00",
+      "fetched": "2025-12-24T17:19:19.561322+07:00"
+    },
+    {
+      "id": "f1289536147a72bd5f9a62caaccd3e6b",
+      "title": "Cổ phiếu ngân hàng 'kéo' VN-Index, STB vượt VCB về thị giá",
+      "link": "https://tuoitre.vn/co-phieu-ngan-hang-keo-vn-index-stb-vuot-vcb-ve-thi-gia-20251224155949889.htm",
+      "summary": "VN-Index tăng phiên thứ 3 liên tiếp, lên 1.782,82 điểm nhờ nhóm ngân hàng dẫn dắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.561118+07:00",
+      "fetched": "2025-12-24T17:19:19.561216+07:00"
+    },
+    {
+      "id": "9c212e21d05279910c4c085ffded2ea5",
+      "title": "Điều chỉnh giờ làm việc của giáo viên mầm non, tách giờ dạy trực tiếp với giờ nhận trả trẻ",
+      "link": "https://tuoitre.vn/dieu-chinh-gio-lam-viec-cua-giao-vien-mam-non-tach-gio-day-truc-tiep-voi-gio-nhan-tra-tre-20251224155126435.htm",
+      "summary": "Giờ làm việc của giáo viên mầm non sẽ bao gồm cả giờ dạy trên lớp và các hoạt động chuyên môn khác, là dự thảo quy định vừa được Bộ Giáo dục và Đào tạo công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.560997+07:00",
+      "fetched": "2025-12-24T17:19:19.561107+07:00"
+    },
+    {
+      "id": "5c9831e7b9f702c3b5638350075cffec",
+      "title": "Rắn hổ mang chúa gần 7kg xuất hiện ở Vườn quốc gia U Minh Thượng",
+      "link": "https://tuoitre.vn/ran-ho-mang-chua-gan-7kg-xuat-hien-o-vuon-quoc-gia-u-minh-thuong-20251224160337345.htm",
+      "summary": "Một con rắn hổ mang chúa dài gần 1,5m, nặng gần 7kg vừa xuất hiện ở hồ Hoa Mai thuộc Vườn quốc gia U Minh Thượng (xã U Minh Thượng, An Giang).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.560889+07:00",
+      "fetched": "2025-12-24T17:19:19.560987+07:00"
+    },
+    {
+      "id": "1b80f9365aa4ea6278196fc32291378b",
+      "title": "Tổng thống Zelensky tiết lộ các nội dung trong bản kế hoạch hòa bình mới nhất",
+      "link": "https://tuoitre.vn/tong-thong-zelensky-tiet-lo-cac-noi-dung-trong-ban-ke-hoach-hoa-binh-moi-nhat-20251224161141252.htm",
+      "summary": "Tổng thống Zelensky đã chia sẻ các chi tiết của bản kế hoạch 20 điểm nhằm chấm dứt cuộc chiến Nga - Ukraine trong cuộc họp báo ở thủ đô Kiev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.560776+07:00",
+      "fetched": "2025-12-24T17:19:19.560879+07:00"
+    },
+    {
+      "id": "fd9e4870c474a0f87075d8c3ef574de8",
+      "title": "Giá bất động sản chững lại nhưng chưa thể giảm sâu do đâu?",
+      "link": "https://tuoitre.vn/gia-bat-dong-san-chung-lai-nhung-chua-the-giam-sau-do-dau-20251224160217104.htm",
+      "summary": "Dự báo được Bộ Xây dựng đưa ra trong báo cáo gửi tới Ban chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản mới đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.560656+07:00",
+      "fetched": "2025-12-24T17:19:19.560766+07:00"
+    },
+    {
+      "id": "05e0c932a387f6aa0840448b5af41a16",
+      "title": "Chăm sóc răng miệng quá mức có thể phản tác dụng",
+      "link": "https://tuoitre.vn/cham-soc-rang-mieng-qua-muc-co-the-phan-tac-dung-20251224151247852.htm",
+      "summary": "Các chuyên gia nha khoa tại Israel cho rằng đánh răng đều đặn là thói quen quan trọng trong chăm sóc răng miệng, tuy nhiên nếu không đúng cách, như đánh răng quá mạnh hoặc quá thường xuyên, có thể gây tác động không mong muốn đối với răng và nướu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T17:19:19.560437+07:00",
+      "fetched": "2025-12-24T17:19:19.560642+07:00"
+    },
     {
       "id": "e2b067e922514bbbb96dd6235799ee2b",
       "title": "Khu bảo tồn văn hóa Làng Teng phải tháo dỡ nhiều hạng mục vì xuống cấp chỉ sau vài năm",
@@ -601,6 +751,386 @@ window.newsData_2025_12_24 = {
       "category": "Tổng hợp",
       "published": "2025-12-24T10:21:47.303866+07:00",
       "fetched": "2025-12-24T10:21:47.304078+07:00"
+    },
+    {
+      "id": "fec0c5ada10edc976d602c978bbbdb28",
+      "title": "Quảng Trị: Bắt vụ vận chuyển gần 1 tấn rắn hổ mang từ Lào về Việt Nam",
+      "link": "https://thanhnien.vn/quang-tri-bat-vu-van-chuyen-gan-1-tan-ran-ho-mang-tu-lao-ve-viet-nam-185251224161901066.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa phát hiện và bắt giữ vụ việc vận chuyển 676 cá thể rắn hổ mang với tổng trọng lượng gần 1.000 kg từ Lào về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T10:14:00+07:00",
+      "fetched": "2025-12-24T17:19:18.360893+07:00"
+    },
+    {
+      "id": "3d835756143074f99e9130980aa7874e",
+      "title": "USD sắp có năm mất giá mạnh nhất kể từ 2003",
+      "link": "https://vnexpress.net/usd-sap-co-nam-mat-gia-manh-nhat-ke-tu-2003-4997821.html",
+      "summary": "Biến động từ thuế nhập khẩu và lãi suất tại Mỹ khiến Dollar Index mất gần 10% năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T10:12:41+07:00",
+      "fetched": "2025-12-24T17:19:22.367715+07:00"
+    },
+    {
+      "id": "a7d0b8109a1d381e207b924f5035216a",
+      "title": "Nhiều người đang nhầm lẫn giữa Wi-Fi và mạng không dây",
+      "link": "https://thanhnien.vn/nhieu-nguoi-dang-nham-lan-giua-wi-fi-va-mang-khong-day-185251223111223499.htm",
+      "summary": "Nhiều người vẫn nhầm lẫn giữa Wi-Fi và mạng không dây, cả hai khác nhau 'một trời một vực'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T10:03:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361038+07:00"
+    },
+    {
+      "id": "e69d5a1190ddd19554f5e9813d3f13f3",
+      "title": "Đón Giáng sinh rực rỡ cùng Yamaha Motor Việt Nam với chuỗi sự kiện Let it Snow",
+      "link": "https://thanhnien.vn/don-giang-sinh-ruc-ro-cung-yamaha-motor-viet-nam-voi-chuoi-su-kien-let-it-snow-185251224162502425.htm",
+      "summary": "Nhân dịp mùa Giáng sinh 2025, Yamaha Motor Việt Nam tổ chức chuỗi sự kiện Noel với chủ đề Let it Snow, mang đến không gian lễ hội thông qua các hoạt động trải nghiệm thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T10:00:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361193+07:00"
+    },
+    {
+      "id": "b63cfc8fb4d01da3f1b2df281ec617ee",
+      "title": "Toàn cảnh 17h: Mẹ giúp con gái dàn dựng đám tang giả | Shark Thủy hối lộ 'vẽ' doanh thu khống",
+      "link": "https://thanhnien.vn/toan-canh-17h-me-giup-con-gai-dan-dung-dam-tang-gia-shark-thuy-hoi-lo-ve-doanh-thu-khong-185251224160708715.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T10:00:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361391+07:00"
+    },
+    {
+      "id": "906aab9e1b41161ab9caeaa5fc8456b6",
+      "title": "Ông Zelensky công bố kế hoạch 20 điểm nhằm chấm dứt xung đột Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-cong-bo-ke-hoach-20-diem-nham-cham-dut-xung-dot-ukraine-4997796.html",
+      "summary": "Ông Zelensky công bố kế hoạch hòa bình 20 điểm sau cuộc đàm phán với Mỹ, cho biết hai bên không đạt được đồng thuận về vấn đề lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T09:54:14+07:00",
+      "fetched": "2025-12-24T17:19:21.078114+07:00"
+    },
+    {
+      "id": "9da2fc997c3e550fb32d9a3e180cfeda",
+      "title": "2 cựu phó chánh án, 1 cựu phó viện trưởng lãnh án tù vì nhận hối lộ",
+      "link": "https://thanhnien.vn/2-cuu-pho-chanh-an-1-cuu-pho-vien-truong-lanh-an-tu-vi-nhan-hoi-lo-185251224161854356.htm",
+      "summary": "2 cựu Phó chánh án TAND cấp cao tại Đà Nẵng và 1 cựu phó viện trưởng thuộc Viện KSND cấp cao tại Đà Nẵng cùng bị tuyên án tù vì nhận hối lộ để 'chạy án'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:54:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361525+07:00"
+    },
+    {
+      "id": "1c53053db696258b8c894bc23c273adf",
+      "title": "Anh Mùa Chiến Thắng tái đắc cử Bí thư Tỉnh đoàn Điện Biên",
+      "link": "https://thanhnien.vn/anh-mua-chien-thang-tai-dac-cu-bi-thu-tinh-doan-dien-bien-185251224161404229.htm",
+      "summary": "Tại Đại hội đại biểu Đoàn TNCS Hồ Chí Minh tỉnh Điện Biên lần thứ XV, nhiệm kỳ 2025 - 2030, anh Mùa Chiến Thắng tiếp tục được tín nhiệm, tái cử Bí thư Tỉnh đoàn Điện Biên khóa XV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:53:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361651+07:00"
+    },
+    {
+      "id": "352e34e4595c69dd80d3f24e29f1013c",
+      "title": "Đề xuất chồng được yêu cầu ly hôn nếu vợ mang thai với người khác",
+      "link": "https://thanhnien.vn/de-xuat-chong-duoc-yeu-cau-ly-hon-neu-vo-mang-thai-voi-nguoi-khac-185251224154918748.htm",
+      "summary": "Đại diện TAND tối cao đề xuất mở rộng quyền yêu cầu giải quyết ly hôn đối với người chồng nếu chứng minh vợ mình mang thai, sinh con nhưng không phải con chung hoặc mang thai hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:51:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361776+07:00"
+    },
+    {
+      "id": "9c57f56f224dc83b63635b670bdbfbc0",
+      "title": "Trời tối sầm, mưa lớn ở TP.HCM trước đêm Giáng sinh: Vì sao?",
+      "link": "https://thanhnien.vn/troi-toi-sam-mua-lon-o-tphcm-truoc-dem-giang-sinh-vi-sao-185251224164828581.htm",
+      "summary": "TP.HCM vừa có mưa lớn khắp khu vực trung tâm trước đêm Giáng sinh 24.12. Cơn mưa bất ngờ ập xuống làm trời tối sầm, nhiều người đi đường không kịp trở tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:49:00+07:00",
+      "fetched": "2025-12-24T17:19:18.361900+07:00"
+    },
+    {
+      "id": "13f9d1d4837d5ddacfe9ba76f67ac981",
+      "title": "Nhà thờ Đức Bà, Tân Định lên đèn: Điểm hẹn ban đêm của người Sài Gòn mùa Giáng sinh",
+      "link": "https://thanhnien.vn/nha-tho-duc-ba-tan-dinh-len-den-diem-hen-ban-dem-cua-nguoi-sai-gon-mua-giang-sinh-18525122209020716.htm",
+      "summary": "Mùa Giáng sinh 2025, nhà thờ Đức Bà Sài Gòn và nhà thờ Tân Định lên đèn sáng rực trở thành điểm hẹn ban đêm của người Sài Gòn. Mạng xã hội cũng ngập tràn clip về 2 nhà thờ ngay trung tâm TP.HCM này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:44:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362025+07:00"
+    },
+    {
+      "id": "712956d46217ca6ec22b6b97d31e8622",
+      "title": "Philips của Signify 4 năm liền đạt giải Hiệu suất Năng lượng cao nhất",
+      "link": "https://thanhnien.vn/philips-cua-signify-4-nam-lien-dat-giai-hieu-suat-nang-luong-cao-nhat-18525122416541696.htm",
+      "summary": "Trong bối cảnh nhu cầu năng lượng tại Việt Nam ngày càng gia tăng - từ các đô thị hiện đại cho đến các khu công nghiệp mở rộng việc tối ưu hóa tiêu thụ năng lượng trở thành ưu tiên hàng đầu. Ở đó, Signify đã và đang tiên phong chuyển đổi xanh trong chiếu sáng: liên tục 4 năm liền (2022–2025) được vi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:37:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362171+07:00"
+    },
+    {
+      "id": "78f64446f4bd6fc85d9b7bf059e4d611",
+      "title": "Giả chết 5 năm, 'ẵm' tiền bảo hiểm: Màn báo hiếu lạ lùng ở Thanh Hóa",
+      "link": "https://thanhnien.vn/gia-chet-5-nam-am-tien-bao-hiem-man-bao-hieu-la-lung-o-thanh-hoa-185251224161942651.htm",
+      "summary": "Nguyễn Thị Thu đã bàn bạc với mẹ mình và thực hiện kịch bản giả chết hoàn hảo để đánh lừa chính quyền địa phương, công ty bảo hiểm và người dân địa phương để trục lợi tiền bảo hiểm. 5 năm trước, một đám tang như mọi đám tang khác diễn ra, người dân phường Quang Trung (Thanh Hóa) thương tiếc, chia bu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:33:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362300+07:00"
+    },
+    {
+      "id": "014acd4c60ceccaed34cef320e0ea510",
+      "title": "TP HCM mưa to dịp Giáng sinh",
+      "link": "https://vnexpress.net/tp-hcm-mua-to-dip-giang-sinh-4997851.html",
+      "summary": "Ảnh hưởng của không khí lạnh từ phía Bắc, lần đầu tiên trong 5 năm qua, TP HCM có mưa dịp Noel, kéo dài đến ngày mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:31:15+07:00",
+      "fetched": "2025-12-24T17:19:14.945022+07:00"
+    },
+    {
+      "id": "89cd9d762a7efd33a7bb6d9d2fa47029",
+      "title": "Quăng valy ma túy vào vườn của cựu bí thư xã",
+      "link": "https://vnexpress.net/quang-valy-ma-tuy-vao-vuon-cua-cuu-bi-thu-xa-4997822.html",
+      "summary": "Nguyễn Thị Cẩm, 51 tuổi, thừa nhận mang valy có hơn 2,7 kg ma túy của người quen quăng vào vườn nhà cựu bí thư xã để tránh bị phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:30:41+07:00",
+      "fetched": "2025-12-24T17:19:14.945191+07:00"
+    },
+    {
+      "id": "02e44951cc5b08a74be58b0f4c8e1871",
+      "title": "Ngày hội gia đình Long Châu tạo không gian gắn kết thế hệ",
+      "link": "https://vnexpress.net/ngay-hoi-gia-dinh-long-chau-tao-khong-gian-gan-ket-the-he-4997836.html",
+      "summary": "Ngày hội gia đình - Long Châu 2026 hướng đến việc tạo ra khoảng thời gian chung cho ba thế hệ, thông qua vận động nhẹ nhàng, chăm sóc sức khỏe và những trải nghiệm gắn kết ngoài trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:30:00+07:00",
+      "fetched": "2025-12-24T17:19:14.945335+07:00"
+    },
+    {
+      "id": "5c95a5adf7e93d448c3607c6fdefc147",
+      "title": "Vicem Hà Tiên ra mắt bao bì mới, tái định vị thương hiệu",
+      "link": "https://vnexpress.net/vicem-ha-tien-ra-mat-bao-bi-moi-tai-dinh-vi-thuong-hieu-4997825.html",
+      "summary": "Doanh nghiệp giới thiệu logo và hệ thống bao bì mới, dự kiến đưa ra thị trường từ đầu năm 2026, nhằm đồng bộ nhận diện, nâng cao khả năng cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:30:00+07:00",
+      "fetched": "2025-12-24T17:19:14.945475+07:00"
+    },
+    {
+      "id": "98e8e3c01b87ec6db4ebde4a9391f310",
+      "title": "Thủ tướng thúc đẩy mô hình chăm sóc người cao tuổi 'sáng đón đi, tối đưa về'",
+      "link": "https://vnexpress.net/thu-tuong-thuc-day-mo-hinh-cham-soc-nguoi-cao-tuoi-sang-don-di-toi-dua-ve-4997781.html",
+      "summary": "Thủ tướng yêu cầu Bộ Y tế hướng dẫn các địa phương phát triển mô hình chăm sóc ban ngày cho người cao tuổi, gắn với nhà sinh hoạt cộng đồng và cơ sở dưỡng lão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:29:04+07:00",
+      "fetched": "2025-12-24T17:19:14.945614+07:00"
+    },
+    {
+      "id": "177296d756288a87341ea07dd78c841a",
+      "title": "Gần một tấn rắn hổ mang chở trên xe khách",
+      "link": "https://vnexpress.net/gan-mot-tan-ran-ho-mang-cho-tren-xe-khach-4997845.html",
+      "summary": "Tài xế xe khách giường năm cùng hai phụ xe đang bốc xếp các kiện hàng chứa 676 con rắn hổ mang thì bị cảnh sát phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:27:40+07:00",
+      "fetched": "2025-12-24T17:19:14.945752+07:00"
+    },
+    {
+      "id": "84da151aaca62490e4800a3b03540708",
+      "title": "Chủ tịch VFF: 'Bạn bè quốc tế ca ngợi trận chung kết U.22 Việt Nam thắng Thái hay chưa từng thấy’",
+      "link": "https://thanhnien.vn/chu-tich-vff-ban-be-quoc-te-ca-ngoi-tran-chung-ket-u22-viet-nam-thang-thai-hay-chua-tung-thay-185251224161433198.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn tiết lộ, nhiều bạn bè quốc tế của ông đã nhắn tin chúc mừng, nói chiến thắng của U.22 Việt Nam ở trận chung kết SEA Games là 'hay nhất từ trước đến nay'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:27:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362425+07:00"
+    },
+    {
+      "id": "7c01073b0120170c6e58a88a094a78e6",
+      "title": "Doãn Quốc Đam đóng phim kinh dị",
+      "link": "https://thanhnien.vn/doan-quoc-dam-dong-phim-kinh-di-185251224150543856.htm",
+      "summary": "Năm 2025, Doãn Quốc Đam 'chiếm sóng' màn ảnh Việt với nhiều vai diễn ấn tượng trong phim truyền hình lẫn điện ảnh. Và bất ngờ hơn khi nam diễn viên sẽ góp mặt trong phim kinh dị 'Quỷ nhập tràng 2' dự kiến khởi chiếu vào ngày 6.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:20:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362548+07:00"
+    },
+    {
+      "id": "7a9d5b2a89a50b439e8b664638f0c341",
+      "title": "'Gà công nghiệp' sau 12 năm học phổ thông",
+      "link": "https://vnexpress.net/ga-cong-nghiep-sau-12-nam-hoc-pho-thong-4997793.html",
+      "summary": "Học sinh Việt đủ 18 tuổi có thể làm tốt bài kiểm tra, giải được bài toán khó, nhưng lại lúng túng trước những kỹ năng rất đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:16:44+07:00",
+      "fetched": "2025-12-24T17:19:14.945885+07:00"
+    },
+    {
+      "id": "7cb234a299400f988d6cf2fbbfea062c",
+      "title": "Cà Mau: Thưởng Tết Nguyên đán 2026 cao nhất 200 triệu đồng/người",
+      "link": "https://thanhnien.vn/ca-mau-thuong-tet-nguyen-dan-2026-cao-nhat-200-trieu-dong-nguoi-185251224151819006.htm",
+      "summary": "Tại Cà Mau, thưởng Tết Nguyên đán 2026 cho thấy khoảng cách giữa các nhóm doanh nghiệp, mức thưởng cao nhất 200 triệu đồng/người, thấp nhất 100.000 đồng/người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:13:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362674+07:00"
+    },
+    {
+      "id": "c8568021da5559cb6cf047e44f3a7441",
+      "title": "Cơn ác mộng khi tôi chuyển từ nhà mặt đất lên chung cư 10 tỷ",
+      "link": "https://vnexpress.net/con-ac-mong-khi-toi-chuyen-tu-nha-mat-dat-len-chung-cu-10-ty-4997645.html",
+      "summary": "Ba năm đầu chuyển lên chung cư, cuộc sống của tôi thực sự dễ chịu. Nhưng hai năm trở lại đây, màn tra tấn tinh thần chính thức bắt đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:12:21+07:00",
+      "fetched": "2025-12-24T17:19:14.946015+07:00"
+    },
+    {
+      "id": "b1af93e924e68e3fa9fbe8a69d96b137",
+      "title": "Tiêm kích F-35 Mỹ chỉ đạt tỷ lệ sẵn sàng hoạt động 50%",
+      "link": "https://vnexpress.net/tiem-kich-f-35-my-chi-dat-ty-le-san-sang-hoat-dong-50-4997780.html",
+      "summary": "Báo cáo của Lầu Năm Góc cho thấy phi đội F-35 đạt tỷ lệ sẵn sàng làm nhiệm vụ 50% trong năm 2024, thấp hơn 17% so với yêu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:11:34+07:00",
+      "fetched": "2025-12-24T17:19:14.946156+07:00"
+    },
+    {
+      "id": "b1af93e924e68e3fa9fbe8a69d96b137",
+      "title": "Tiêm kích F-35 Mỹ chỉ đạt tỷ lệ sẵn sàng hoạt động 50%",
+      "link": "https://vnexpress.net/tiem-kich-f-35-my-chi-dat-ty-le-san-sang-hoat-dong-50-4997780.html",
+      "summary": "Báo cáo của Lầu Năm Góc cho thấy phi đội F-35 đạt tỷ lệ sẵn sàng làm nhiệm vụ 50% trong năm 2024, thấp hơn 17% so với yêu cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T09:11:34+07:00",
+      "fetched": "2025-12-24T17:19:21.078273+07:00"
+    },
+    {
+      "id": "9f59de67335ccf7626bf706626a0ea4c",
+      "title": "Tài tử Chris Evans tái xuất trong phim 'Avengers: Doomsday'",
+      "link": "https://vnexpress.net/tai-tu-chris-evans-tai-xuat-trong-phim-avengers-doomsday-4997725.html",
+      "summary": "Chris Evans trở lại đóng vai Đội trưởng Mỹ trong bom tấn \"Avengers: Doomsday\" của Vũ trụ Điện ảnh Marvel, dù trước đó nói chia tay vai diễn này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:11:22+07:00",
+      "fetched": "2025-12-24T17:19:14.946291+07:00"
+    },
+    {
+      "id": "37169b3b6043730c1872017ca95082eb",
+      "title": "Trước Liên Hiệp Quốc, Mỹ tuyên bố sẽ tước đoạt nguồn lực của tổng thống Venezuela",
+      "link": "https://thanhnien.vn/truoc-lien-hiep-quoc-my-tuyen-bo-se-tuoc-doat-nguon-luc-cua-tong-thong-venezuela-185251224160449494.htm",
+      "summary": "Nga và Trung Quốc cáo buộc Mỹ gia tăng sức ép quân sự và kinh tế đối với Venezuela, trong khi Washington khẳng định sẽ ‘làm mọi thứ trong khả năng’ để bảo vệ an ninh khu vực và lợi ích của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:08:00+07:00",
+      "fetched": "2025-12-24T17:19:18.362801+07:00"
+    },
+    {
+      "id": "e218ec9f518278fa3ad4b99c25136215",
+      "title": "Quảng Ninh cho thuê hàng chục ha đất Vân Đồn làm dự án tỷ USD",
+      "link": "https://vnexpress.net/quang-ninh-cho-thue-hang-chuc-ha-dat-van-don-lam-du-an-ty-usd-4997815.html",
+      "summary": "Công ty con của Sun Group được thuê gần 38 ha đất (đợt 1) để làm dự án dịch vụ du lịch phức hợp tại khu kinh tế Vân Đồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:07:23+07:00",
+      "fetched": "2025-12-24T17:19:14.946421+07:00"
+    },
+    {
+      "id": "444b93991550c73c38da2c3f3b97b063",
+      "title": "Hai cựu phó chánh án bị phạt 3-7 năm tù vì nhận hối lộ",
+      "link": "https://vnexpress.net/hai-cuu-pho-chanh-an-bi-phat-3-7-nam-tu-vi-nhan-hoi-lo-4997721.html",
+      "summary": "Ông Phạm Tấn Hoàng và Phạm Việt Cường, hai cựu Phó chánh án TAND Cấp cao tại Đà Nẵng, bị tuyên lần lượt 3 và 7 năm tù do nhận tiền để xét xử thiên vị 7 vụ án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:03:25+07:00",
+      "fetched": "2025-12-24T17:19:14.946549+07:00"
+    },
+    {
+      "id": "55b3480477c18093a658c3ab753f448b",
+      "title": "mobiOn giành giải thưởng công nghệ giải trí thông minh",
+      "link": "https://vnexpress.net/mobion-gianh-giai-thuong-cong-nghe-giai-tri-thong-minh-4997808.html",
+      "summary": "Dịch vụ mobiOn của Trung tâm Dịch vụ số MobiFone được vinh danh tại hạng mục \"Giải trí thông minh\" của nhóm giải thưởng Công nghệ cho cuộc sống thông minh 2025, ngày 23/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:00:38+07:00",
+      "fetched": "2025-12-24T17:19:14.946680+07:00"
+    },
+    {
+      "id": "7267861f05bfa60bb47066c68f57b10b",
+      "title": "Em ở đây và sẽ đi cùng anh trọn đời",
+      "link": "https://vnexpress.net/em-o-day-va-se-di-cung-anh-tron-doi-4997599.html",
+      "summary": "Xin chào anh, người có thể là bạn đồng hành mà em chờ đợi bấy lâu nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:00:00+07:00",
+      "fetched": "2025-12-24T17:19:14.946763+07:00"
+    },
+    {
+      "id": "3a2706902690068b798f59100c639702",
+      "title": "Công nghệ AI hỗ trợ tăng trưởng ngành bảo hiểm",
+      "link": "https://vnexpress.net/cong-nghe-ai-ho-tro-tang-truong-nganh-bao-hiem-4997794.html",
+      "summary": "Các chuyên gia cho rằng, Predictive AI, Generative AI và AI Agents được xác định là những lợi thế về công nghệ, hỗ trợ ngành bảo hiểm tăng trưởng trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T09:00:00+07:00",
+      "fetched": "2025-12-24T17:19:14.946893+07:00"
+    },
+    {
+      "id": "3a2706902690068b798f59100c639702",
+      "title": "Công nghệ AI hỗ trợ tăng trưởng ngành bảo hiểm",
+      "link": "https://vnexpress.net/cong-nghe-ai-ho-tro-tang-truong-nganh-bao-hiem-4997794.html",
+      "summary": "Các chuyên gia cho rằng, Predictive AI, Generative AI và AI Agents được xác định là những lợi thế về công nghệ, hỗ trợ ngành bảo hiểm tăng trưởng trong tương lai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-24T09:00:00+07:00",
+      "fetched": "2025-12-24T17:19:24.983965+07:00"
+    },
+    {
+      "id": "a8615bcc8c43c84d5f84a7b5dbce7079",
+      "title": "Người Kiev 'tạm quên thực tại' trong Giáng sinh giữa thời chiến",
+      "link": "https://vnexpress.net/nguoi-kiev-tam-quen-thuc-tai-trong-giang-sinh-giua-thoi-chien-4997392.html",
+      "summary": "Vượt qua bóng tối do mất điện và tiếng còi báo động không kích, người dân Kiev vẫn đi hội Giáng sinh để tạm quên chiến sự khốc liệt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T08:52:40+07:00",
+      "fetched": "2025-12-24T17:19:21.078437+07:00"
+    },
+    {
+      "id": "13146754b1625687dfbc7545f7a7898c",
+      "title": "VN-Index lập kỷ lục mới",
+      "link": "https://vnexpress.net/vn-index-lap-ky-luc-moi-4997804.html",
+      "summary": "VN-Index tăng phiên thứ 5 liên tiếp lên 1.783 điểm, lập kỷ lục mới theo giá đóng cửa dù số lượng cổ phiếu giảm áp đảo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T08:42:02+07:00",
+      "fetched": "2025-12-24T17:19:22.367880+07:00"
+    },
+    {
+      "id": "15fca06953b28431d1521d43b230ad34",
+      "title": "Sếp Gelex làm thành viên HĐQT FPT Telecom",
+      "link": "https://vnexpress.net/sep-gelex-lam-thanh-vien-hdqt-fpt-telecom-4997788.html",
+      "summary": "FPT Telecom vừa bầu bổ sung 3 thành viên HĐQT, trong đó có Phó tổng giám đốc Gelex, kiêm cố vấn cấp cao Gtel - Nguyễn Trọng Trung.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T08:36:35+07:00",
+      "fetched": "2025-12-24T17:19:22.368024+07:00"
+    },
+    {
+      "id": "749d2aaa1d2cdf6c4420e8072f1d3065",
+      "title": "Máy bay huấn luyện Thái Lan nghi tập kích sâu trong lãnh thổ Campuchia",
+      "link": "https://vnexpress.net/may-bay-huan-luyen-thai-lan-nghi-tap-kich-sau-trong-lanh-tho-campuchia-4997770.html",
+      "summary": "Giới chức Campuchia cáo buộc Thái Lan điều máy bay huấn luyện T-50 ném bom khu dân cư Phnom Sampov, cách biên giới khoảng 60 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T08:33:08+07:00",
+      "fetched": "2025-12-24T17:19:21.078578+07:00"
     },
     {
       "id": "d79665f537c1a52f90785256443ccf80",
