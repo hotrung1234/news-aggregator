@@ -1,7 +1,157 @@
 window.newsData_2025_12_24 = {
   "date": "2025-12-24",
-  "lastUpdated": "2025-12-24T19:37:53.386537+07:00",
+  "lastUpdated": "2025-12-24T21:17:57.827456+07:00",
   "articles": [
+    {
+      "id": "1afd01adce2aefb68ccbff3f5b512413",
+      "title": "Đại sứ Nga: Quan hệ đối tác Nga - Trung ‘chưa từng mạnh mẽ như hiện nay’",
+      "link": "https://tuoitre.vn/dai-su-nga-quan-he-doi-tac-nga-trung-chua-tung-manh-me-nhu-hien-nay-20251224184956079.htm",
+      "summary": "Ngày 23-12, Đại sứ Nga tại Trung Quốc Igor Morgulov cho biết quan hệ song phương Nga - Trung Quốc đã đạt đến mức 'cao nhất trong lịch sử' về chiều sâu và mức độ tin tưởng lẫn nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.731345+07:00",
+      "fetched": "2025-12-24T21:17:51.731458+07:00"
+    },
+    {
+      "id": "5aa5029567cc7ef848724302c9cf1797",
+      "title": "Một doanh nghiệp khai thác vàng báo lãi gần 2.400 tỉ, sản lượng gần 1 tấn/năm",
+      "link": "https://tuoitre.vn/mot-doanh-nghiep-khai-thac-vang-bao-lai-gan-2-400-ti-san-luong-gan-1-tan-nam-20251224173239575.htm",
+      "summary": "Doanh thu, lợi nhuận năm 2025 đều vượt kế hoạch, nhưng Vimico đứng trước nguy cơ mất tư cách công ty đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.731219+07:00",
+      "fetched": "2025-12-24T21:17:51.731334+07:00"
+    },
+    {
+      "id": "3704b29eef27defe2e39c2aae6ac3184",
+      "title": "Phơi nhiễm khói thuốc tại khách sạn giảm gần 15% sau bốn năm",
+      "link": "https://tuoitre.vn/phoi-nhiem-khoi-thuoc-tai-khach-san-giam-gan-15-sau-bon-nam-20251224181524194.htm",
+      "summary": "Điều tra PGATS 2024 cho thấy phơi nhiễm khói thuốc thụ động tại khách sạn giảm 14,6% so với 2020, nhờ mô hình lưu trú không khói thuốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.731091+07:00",
+      "fetched": "2025-12-24T21:17:51.731208+07:00"
+    },
+    {
+      "id": "e31785fbf3312a5f03bb9e07d6635d8d",
+      "title": "Năm 2025 đánh dấu giai đoạn nâng chuẩn bất động sản công nghiệp",
+      "link": "https://tuoitre.vn/nam-2025-danh-dau-giai-doan-nang-chuan-bat-dong-san-cong-nghiep-20251224113354445.htm",
+      "summary": "Năm 2025 ghi nhận sự thay đổi đáng kể trong hành vi của nhà đầu tư, từ cách tiếp cận thị trường đến tiêu chí lựa chọn địa điểm sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730962+07:00",
+      "fetched": "2025-12-24T21:17:51.731077+07:00"
+    },
+    {
+      "id": "489858c72babfe1338b74cb2b23b2511",
+      "title": "Cách phụ nữ hiện đại cân bằng giữa ‘việc nhà’ và ‘việc mình’",
+      "link": "https://tuoitre.vn/cach-phu-nu-hien-dai-can-bang-giua-viec-nha-va-viec-minh-20251224150735059.htm",
+      "summary": "Chỉ cần vài cách làm việc nhà nhanh gọn sau đây, bắt đầu từ những điều chỉnh nhỏ trong thói quen sinh hoạt là đã đủ để tạo nên những thay đổi lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730830+07:00",
+      "fetched": "2025-12-24T21:17:51.730950+07:00"
+    },
+    {
+      "id": "926b11e97d52ae94326af2f890687a67",
+      "title": "AFC ra thông báo về án phạt 'cấm 6 năm' cho bóng đá Malaysia",
+      "link": "https://tuoitre.vn/afc-ra-thong-bao-ve-an-phat-cam-6-nam-cho-bong-da-malaysia-20251224191101117.htm",
+      "summary": "Chiều 24-12, Tổng thư ký Liên đoàn Bóng đá châu Á (AFC), ông Windsor John, đã có cuộc trao đổi với truyền thông liên quan án phạt bổ sung dành cho bóng đá Malaysia vì nhập tịch trái phép cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730703+07:00",
+      "fetched": "2025-12-24T21:17:51.730819+07:00"
+    },
+    {
+      "id": "498e941e51414b2ddd0c59b8e0c48a4e",
+      "title": "Công an xuất hiện tại trụ sở Công ty cổ phần Dược phẩm Khánh Hòa",
+      "link": "https://tuoitre.vn/cong-an-xuat-hien-tai-tru-so-cong-ty-co-phan-duoc-pham-khanh-hoa-20251224192910153.htm",
+      "summary": "Các đơn vị nghiệp vụ của Bộ Công an phối hợp Công an tỉnh Khánh Hòa khám xét trụ sở Công ty cổ phần Dược phẩm Khánh Hòa (KHAPHARCO).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730557+07:00",
+      "fetched": "2025-12-24T21:17:51.730691+07:00"
+    },
+    {
+      "id": "5478efd9a0bc556ae9c16406a227cb4a",
+      "title": "Tín dụng TP.HCM tăng trưởng 2 con số, quy mô hơn 5 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/tin-dung-tp-hcm-tang-truong-2-con-so-quy-mo-hon-5-trieu-ti-dong-20251224192018696.htm",
+      "summary": "Tín dụng trên địa bàn TP.HCM đến cuối năm 2025 ước đạt quy mô hơn 5 triệu tỉ đồng, tăng 13,5% so với cuối năm 2024.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730430+07:00",
+      "fetched": "2025-12-24T21:17:51.730546+07:00"
+    },
+    {
+      "id": "1c2dbfa47d40452a6d127d9987780bf8",
+      "title": "Đồng Nai lung linh đón Giáng sinh, cây thông nón lá nườm nượp khách",
+      "link": "https://tuoitre.vn/dong-nai-lung-linh-don-giang-sinh-cay-thong-non-la-nuom-nuop-khach-20251224185130634.htm",
+      "summary": "Hàng vạn tín đồ và người dân Đồng Nai đón Giáng sinh trong không khí se lạnh. Cây thông cao 35m làm từ gần 3.000 nón lá trở thành điểm check-in hút khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730295+07:00",
+      "fetched": "2025-12-24T21:17:51.730418+07:00"
+    },
+    {
+      "id": "bb59204ed259e2b981cc2dd6eadd8f82",
+      "title": "Rác thải sau lũ phủ dọc đèo D’Ran, cửa ngõ Đà Lạt nhếch nhác",
+      "link": "https://tuoitre.vn/rac-thai-sau-lu-phu-doc-deo-dran-cua-ngo-da-lat-nhech-nhac-20251224175543289.htm",
+      "summary": "Sau mưa lũ, rác thải sinh hoạt phát sinh chưa được xử lý khiến hình thành nhiều bãi rác tự phát dọc đèo D’Ran, làm cửa ngõ Đà Lạt hướng từ Phan Rang trở nên nhếch nhác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730168+07:00",
+      "fetched": "2025-12-24T21:17:51.730283+07:00"
+    },
+    {
+      "id": "2d8ea5cb3ebe814846095ad93f4f5721",
+      "title": "Hô biến giấy dó thành tuần lộc mùa xuân đón Giáng sinh",
+      "link": "https://tuoitre.vn/ho-bien-giay-do-thanh-tuan-loc-mua-xuan-don-giang-sinh-2025122419041729.htm",
+      "summary": "Mùa Giáng sinh mỗi người lại có một cách tận hưởng khác nhau. Có người dạo phố check-in, nhưng cũng có những du khách lựa chọn tỉ mẩn gấp tuần lộc từ giấy dó, rời xa điện thoại, máy tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.730038+07:00",
+      "fetched": "2025-12-24T21:17:51.730156+07:00"
+    },
+    {
+      "id": "fdce067ab5c8f8bbcba606788af9791b",
+      "title": "Lynk & Co và hành trình 2 năm kết nối phong cách sống",
+      "link": "https://tuoitre.vn/lynk-co-va-hanh-trinh-2-nam-ket-noi-phong-cach-song-20251224153245264.htm",
+      "summary": "Sau hai năm hiện diện tại Việt Nam, Lynk & Co dần định hình dấu ấn bằng cách tiếp cận lấy trải nghiệm làm trung tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.729900+07:00",
+      "fetched": "2025-12-24T21:17:51.730026+07:00"
+    },
+    {
+      "id": "1e8c53acccaa9723e7524231637fee95",
+      "title": "Trương Minh Cường mất 10 năm để đóng một phim hành động",
+      "link": "https://tuoitre.vn/truong-minh-cuong-mat-10-nam-de-dong-mot-phim-hanh-dong-20251224194715753.htm",
+      "summary": "Trương Minh Cường và bạn diễn, nhà sản xuất theo đuổi một phim hành động suốt 10 năm, qua hai lần đổi tên, nay mới hoàn thành và sắp ra rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.729765+07:00",
+      "fetched": "2025-12-24T21:17:51.729888+07:00"
+    },
+    {
+      "id": "ce1e3b17f0dc061512c62505b5c81464",
+      "title": "Mua xe Toyota cũ với giá chỉ ngang ly trà sữa vẫn chạy tốt, chủ xe quyết không bán",
+      "link": "https://tuoitre.vn/mua-xe-toyota-cu-voi-gia-chi-ngang-ly-tra-sua-van-chay-tot-chu-xe-quyet-khong-ban-20251224164122047.htm",
+      "summary": "Một người đàn ông đã gây bất ngờ khi mua chiếc xe Toyota cũ với giá chỉ 2 USD (53.000 đồng). Nhưng đáng chú ý hơn là lời khuyên người này đưa ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.729615+07:00",
+      "fetched": "2025-12-24T21:17:51.729753+07:00"
+    },
+    {
+      "id": "135a014b2c375426fe26eb8abee7b99a",
+      "title": "Jennie, G-DRAGON là nghệ sĩ K-pop được tìm kiếm nhiều nhất trên YouTube 2025",
+      "link": "https://tuoitre.vn/jennie-g-dragon-la-nghe-si-k-pop-duoc-tim-kiem-nhieu-nhat-tren-youtube-2025-20251224192901916.htm",
+      "summary": "Jennie (BlackPink) và G-DRAGON tiếp tục khẳng định đẳng cấp hàng đầu K-pop, khi dẫn đầu lượt tìm kiếm K-pop trên YouTube tại Hàn Quốc trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T21:17:51.729371+07:00",
+      "fetched": "2025-12-24T21:17:51.729584+07:00"
+    },
     {
       "id": "5d461d2f10cd5e58b4639bd6d9dd9f7e",
       "title": "Đề nghị miễn giảm thuế, phí cho chủ xe xăng chuyển sang xe điện, kèm hỗ trợ tiền",
@@ -453,6 +603,76 @@ window.newsData_2025_12_24 = {
       "fetched": "2025-12-24T15:26:10.945566+07:00"
     },
     {
+      "id": "3b881ce2f610350af0ab75c6c2ef4407",
+      "title": "Loạt doanh nghiệp sản xuất, công nghệ rót nghìn tỷ đồng vào Hà Nội",
+      "link": "https://vnexpress.net/loat-doanh-nghiep-san-xuat-cong-nghe-rot-nghin-ty-dong-vao-ha-noi-4997899.html",
+      "summary": "Viettel, CMC, Sunhouse… rót vốn từ 1.000-3.000 tỷ đồng xây tổ hợp nghiên cứu và phát triển, nhà máy robot tự hành và thiết bị trí tuệ nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:54:28+07:00",
+      "fetched": "2025-12-24T21:17:43.758235+07:00"
+    },
+    {
+      "id": "ad51c5abcd0ddd55285f01cc4ad5e970",
+      "title": "Trải nghiệm Fenix 8 microLED: Màn hình không đối thủ",
+      "link": "https://vnexpress.net/trai-nghiem-fenix-8-microled-man-hinh-khong-doi-thu-4997907.html",
+      "summary": "Là smartwatch đầu tiên dùng công nghệ cao cấp MicroLED, Fenix 8 nổi bật về khả năng hiển thị nhưng đánh đổi là chỉ có lựa chọn cỡ lớn 51 mm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:43:21+07:00",
+      "fetched": "2025-12-24T21:17:43.758417+07:00"
+    },
+    {
+      "id": "6bc0b7e2bc99235b09fe1198d3070d87",
+      "title": "Xe cấp cứu 0 đồng ở Quy Nhơn chưa hoạt động đã bị gọi điện đe dọa",
+      "link": "https://thanhnien.vn/xe-cap-cuu-0-dong-o-quy-nhon-chua-hoat-dong-da-bi-goi-dien-de-doa-185251224163921332.htm",
+      "summary": "Dự án xe cấp cứu 0 đồng dự kiến triển khai tại Quy Nhơn (Gia Lai) chưa chính thức hoạt động đã bị một số người lạ gọi điện đe dọa, cản trở. Công an địa phương đang vào cuộc xác minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:42:00+07:00",
+      "fetched": "2025-12-24T21:17:50.504785+07:00"
+    },
+    {
+      "id": "0a0fac3da187007611e32fb88aa1e70c",
+      "title": "'Món quà' Giáng sinh nào dành cho trẻ em chưa ngoan?",
+      "link": "https://vnexpress.net/mon-qua-giang-sinh-nao-danh-cho-tre-em-chua-ngoan-4997670.html",
+      "summary": "Người dân tại nhiều quốc gia đặt \"món quà\" này vào chiếc tất treo đầu giường của những đứa trẻ chưa ngoan như lời nhắc nhở về hành vi trong năm cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:39:21+07:00",
+      "fetched": "2025-12-24T21:17:43.758582+07:00"
+    },
+    {
+      "id": "b65a9b08ef870b95597c24075c0768d1",
+      "title": "Sao nhập tịch lậu Malaysia ‘xem thường FIFA’, vẫn đến sân tập: Nhận thêm án phạt nặng?",
+      "link": "https://thanhnien.vn/sao-nhap-tich-lau-malaysia-xem-thuong-fifa-van-den-san-tap-nhan-them-an-phat-nang-185251224203121408.htm",
+      "summary": "Sự xuất hiện của tiền vệ cánh Imanol Machuca tại sân tập CLB San Lorenzo đang gây tranh cãi lớn khi cầu thủ này hiện vẫn đang chịu án cấm mọi hoạt động bóng đá của Liên đoàn Bóng đá thế giới (FIFA).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:38:00+07:00",
+      "fetched": "2025-12-24T21:17:50.504963+07:00"
+    },
+    {
+      "id": "e375b4f7211603d72e32b9f550fb2c8d",
+      "title": "Hơn 52 tỉ đồng hỗ trợ các dự án của Quỹ học bổng Vừ A Dính",
+      "link": "https://thanhnien.vn/hon-52-ti-dong-ho-tro-cac-du-an-cua-quy-hoc-bong-vu-a-dinh-185251224192104003.htm",
+      "summary": "Các nhà tài trợ đã ký kết hỗ trợ hơn 52 tỉ đồng cho những dự án chuyên sâu nhằm tiếp thêm động lực cho học sinh, sinh viên dân tộc thiểu số, miền núi, hải đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:35:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505121+07:00"
+    },
+    {
+      "id": "7baeae552e40d871e8fcd1302347d1d2",
+      "title": "Nhã Phương giúp Trường Giang làm phim Tết 2026",
+      "link": "https://vnexpress.net/nha-phuong-giup-truong-giang-lam-phim-tet-2026-4997759.html",
+      "summary": "Diễn viên Nhã Phương hỗ trợ chồng - nghệ sĩ Trường Giang - tuyển diễn viên cho phim Tết, trong thời gian mang thai con thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:33:00+07:00",
+      "fetched": "2025-12-24T21:17:43.758767+07:00"
+    },
+    {
       "id": "6febfd73aa454689fda22525a8e35c46",
       "title": "Đi xe buýt ngắm phố phường",
       "link": "https://tuoitre.vn/di-xe-buyt-ngam-pho-phuong-20251224101705059.htm",
@@ -601,6 +821,256 @@ window.newsData_2025_12_24 = {
       "category": "Tổng hợp",
       "published": "2025-12-24T13:29:40.579728+07:00",
       "fetched": "2025-12-24T13:29:40.579972+07:00"
+    },
+    {
+      "id": "cd9e3ae6495bc8b7af8e28dc0ae700fc",
+      "title": "Đông nghịt người đón Giáng sinh",
+      "link": "https://vnexpress.net/dong-nghit-nguoi-don-giang-sinh-4997914.html",
+      "summary": "Người dân Hà Nội, TP HCM đổ về nhà thờ, xóm đạo, các tuyến phố trung tâm để vui chơi, mừng Chúa Giáng sinh, tối 24/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:25:06+07:00",
+      "fetched": "2025-12-24T21:17:43.758924+07:00"
+    },
+    {
+      "id": "60640807c1308ff6a5c24a73aab0537e",
+      "title": "Xe khách limousine cháy rụi trên cao tốc Hà Nội - Hải Phòng",
+      "link": "https://vnexpress.net/xe-khach-limousine-chay-rui-tren-cao-toc-ha-noi-hai-phong-4997864.html",
+      "summary": "Đang lưu thông trên cao tốc Hà Nội - Hải Phòng, đoạn qua tỉnh Hưng Yên, một xe khách limousine bất ngờ bốc cháy từ phần đầu rồi lan ra toàn bộ phương tiện, chiều 24/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:20:04+07:00",
+      "fetched": "2025-12-24T21:17:43.759087+07:00"
+    },
+    {
+      "id": "4cb3796c3877d94c11336be8ff9f1e45",
+      "title": "Bí mật về trend 'Sống một kiếp người bình an là được' khiến sao Việt 'phát sốt'",
+      "link": "https://thanhnien.vn/bi-mat-ve-trend-song-mot-kiep-nguoi-binh-an-la-duoc-khien-sao-viet-phat-sot-185251224195018928.htm",
+      "summary": "Bài hát có ca từ 'sống một kiếp người bình an là được' đang gây sốt trên mạng xã hội, được nhiều sao Việt như Khánh Vân, Ốc Thanh Vân thực hiện các clip 'bắt trend'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:20:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505278+07:00"
+    },
+    {
+      "id": "d95023def8c175dbf06bc43b4348281d",
+      "title": "Đêm Giáng sinh 2025, độc lạ 'cây thông Noel' thắp sáng vũ trụ: Bạn có biết?",
+      "link": "https://thanhnien.vn/dem-giang-sinh-2025-doc-la-cay-thong-noel-thap-sang-vu-tru-ban-co-biet-18525122417243285.htm",
+      "summary": "Một 'cây thông Noel' độc lạ lơ lửng trong vũ trụ, được thắp sáng bởi vô vàn ngôi sao có thể bạn chưa biết. Đêm Giáng sinh 2025, hãy cùng khám phá!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:20:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505437+07:00"
+    },
+    {
+      "id": "ab01350afd3f1fa96c6b46d34ec77c12",
+      "title": "Lần đầu tiên ngành thuế thu vượt 2 triệu tỉ đồng",
+      "link": "https://thanhnien.vn/lan-dau-tien-nganh-thue-thu-vuot-2-trieu-ti-dong-18525122419154648.htm",
+      "summary": "Ước tính đến ngày 31.12, số thu do cơ quan thuế quản lý sẽ đạt 2,23 triệu tỉ đồng, tăng 27,6% so với năm 2024. Đây là lần đầu tiên số thu do cơ quan thuế quản lý vượt 2 triệu tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:17:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505610+07:00"
+    },
+    {
+      "id": "8563e4c2fee9c15e1e1072eb8badfbc8",
+      "title": "Lần đầu ngành thuế thu ngân sách vượt 2 triệu tỷ đồng",
+      "link": "https://vnexpress.net/lan-dau-nganh-thue-thu-ngan-sach-vuot-2-trieu-ty-dong-4997782.html",
+      "summary": "Số thu do ngành thuế quản lý năm nay ghi nhận mức kỷ lục, vượt 2 triệu tỷ đồng, cao hơn 30% so với dự toán đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:14:01+07:00",
+      "fetched": "2025-12-24T21:17:43.759242+07:00"
+    },
+    {
+      "id": "8563e4c2fee9c15e1e1072eb8badfbc8",
+      "title": "Lần đầu ngành thuế thu ngân sách vượt 2 triệu tỷ đồng",
+      "link": "https://vnexpress.net/lan-dau-nganh-thue-thu-ngan-sach-vuot-2-trieu-ty-dong-4997782.html",
+      "summary": "Số thu do ngành thuế quản lý năm nay ghi nhận mức kỷ lục, vượt 2 triệu tỷ đồng, cao hơn 30% so với dự toán đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T13:14:01+07:00",
+      "fetched": "2025-12-24T21:17:54.551349+07:00"
+    },
+    {
+      "id": "04b62adb00c7f527a784c01db3a87eb1",
+      "title": "Quốc hội khóa mới họp kỳ đầu tiên vào tháng 4.2026, tiến hành công tác nhân sự",
+      "link": "https://thanhnien.vn/quoc-hoi-khoa-moi-hop-ky-dau-tien-vao-thang-42026-tien-hanh-cong-tac-nhan-su-185251224192819532.htm",
+      "summary": "Kỳ họp thứ nhất Quốc hội khóa XVI dự kiến diễn ra vào tháng 4.2026, trong đó tập trung bố trí tiến hành công tác tổ chức, nhân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:14:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505773+07:00"
+    },
+    {
+      "id": "961b450d554c18c4797e43b33d9faca3",
+      "title": "Xe 7 chỗ Mitsubishi Outlander đời 2019 giá tầm 500 triệu đồng, có nên mua?",
+      "link": "https://thanhnien.vn/xe-7-cho-mitsubishi-outlander-doi-2019-gia-tam-500-trieu-dong-co-nen-mua-185251219094512701.htm",
+      "summary": "Mitsubishi Outlander đang trở thành mẫu xe 7 chỗ được săn đón trên thị trường ô tô đã qua sử dụng nhờ giá bán hấp dẫn, thực dụng về mặt công năng và mang \"mác\" xe Nhật bền bỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:10:00+07:00",
+      "fetched": "2025-12-24T21:17:50.505927+07:00"
+    },
+    {
+      "id": "331da622e17fc0d5f96b753039a9d2bf",
+      "title": "'Chạy án' cho người liên quan vụ rửa tiền 67.000 tỷ đồng",
+      "link": "https://vnexpress.net/chay-an-cho-nguoi-lien-quan-vu-rua-tien-67-000-ty-dong-4997925.html",
+      "summary": "Công an Đà Nẵng triệt phá đường dây đưa, môi giới hối lộ hơn một tỷ đồng nhằm “chạy án” cho bị can trong vụ rửa tiền quy mô 67.000 tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:09:17+07:00",
+      "fetched": "2025-12-24T21:17:43.759394+07:00"
+    },
+    {
+      "id": "86fd10770bd2b80f8b89231a2da3bb5f",
+      "title": "Cà Mau: Bắt nghi phạm cướp giật dây chuyền của một phụ nữ 64 tuổi",
+      "link": "https://thanhnien.vn/ca-mau-bat-nghi-pham-cuop-giat-day-chuyen-cua-mot-phu-nu-64-tuoi-185251224183341795.htm",
+      "summary": "Công an P.Hòa Thành (Cà Mau) đã phối hợp các đơn vị nghiệp vụ bắt giữ nghi phạm cướp giật dây chuyền vàng của người phụ nữ 64 tuổi trên đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:03:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506076+07:00"
+    },
+    {
+      "id": "3d84e3ac95d7b744191b61b7a83b1be6",
+      "title": "Nỗi buồn ế ẩm của chị bán đèn LED trang trí Noel",
+      "link": "https://vnexpress.net/noi-buon-e-am-cua-chi-ban-den-led-trang-tri-noel-4997866.html",
+      "summary": "Bạn tôi làm chủ hai quán cà phê tận dụng những cây thông và đồ trang trí từ những năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.759554+07:00"
+    },
+    {
+      "id": "d2cfa27748e3d29c7eb181475dd49b49",
+      "title": "Tôi nhiễm trùng vết mổ, chồng vẫn nước hoa thơm phức đi chơi",
+      "link": "https://vnexpress.net/toi-nhiem-trung-vet-mo-chong-van-nuoc-hoa-thom-phuc-di-choi-4997827.html",
+      "summary": "Tôi mệt, kiệt sức, muốn ngất xỉu luôn, vậy mà chồng như người dưng nước lã, vô cảm với vợ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.759731+07:00"
+    },
+    {
+      "id": "5a65f274ba410e3c837dd6a9888fc7a7",
+      "title": "Không khí đón Giáng sinh khắp thế giới",
+      "link": "https://vnexpress.net/khong-khi-don-giang-sinh-khap-the-gioi-4997799.html",
+      "summary": "Người dân đi mua sắm, chụp ảnh, tập luyện cho các buổi trình diễn trong không khí chào đón Giáng sinh năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.759893+07:00"
+    },
+    {
+      "id": "45a7d08608acd038857a32e122747711",
+      "title": "PVCFC đầu tư xây phòng học STEM, phát triển nhân lực Cà Mau",
+      "link": "https://vnexpress.net/pvcfc-dau-tu-xay-phong-hoc-stem-phat-trien-nhan-luc-ca-mau-4997926.html",
+      "summary": "Phòng học STEM được PVCFC tặng cho trường THPT Đầm Dơi, Cà Mau, mục tiêu tạo không gian học tập hiện đại, phát triển nguồn nhân lực tương lai cho địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.760049+07:00"
+    },
+    {
+      "id": "d5528905b6fecb55a0d3755083792b16",
+      "title": "Công nghệ nhiếp ảnh trên Galaxy S25 FE tăng trải nghiệm mùa lễ hội",
+      "link": "https://vnexpress.net/cong-nghe-nhiep-anh-tren-galaxy-s25-fe-tang-trai-nghiem-mua-le-hoi-4997913.html",
+      "summary": "Galaxy S25 FE trang bị camera 50 megapixel, công nghệ chống rung OIS và trợ lý AI Gemini Live, giúp màu ảnh rực rỡ, sắc nét, hỗ trợ người dùng lưu giữ khoảnh khắc lễ hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.760205+07:00"
+    },
+    {
+      "id": "c40e7097aafb066e50fd996416b7d482",
+      "title": "Vingroup triển khai mô hình giáo dục đặc biệt cho trẻ tự kỷ",
+      "link": "https://vnexpress.net/vingroup-trien-khai-mo-hinh-giao-duc-dac-biet-cho-tre-tu-ky-4997879.html",
+      "summary": "Vingroup ra mắt Trường Giáo dục đặc biệt (Vin Nexus Center), mô hình giáo dục phi lợi nhuận theo chuẩn quốc tế dành cho trẻ phổ tự kỷ, ADHD, rối loạn học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:43.760361+07:00"
+    },
+    {
+      "id": "34e25415f5a9602ffffbadc969c00c7e",
+      "title": "Xem nhanh 20h ngày 24.12: Kỷ luật hiệu trưởng nhậu giờ làm | Ngân hàng đồng loạt tăng phí",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2412-ky-luat-hieu-truong-nhau-gio-lam-ngan-hang-dong-loat-tang-phi-185251224195604291.htm",
+      "summary": "'Xem nhanh 20h' ngày 24.12 có nhiều tin tức đáng chú ý về: Kỷ luật hiệu trưởng nhậu trong giờ làm việc và thiếu chuẩn mực trên mạng xã hội; U.23 Việt Nam 'mổ băng' từng đối thủ, đặt mục tiêu lớn ở đấu trường châu Á;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506230+07:00"
+    },
+    {
+      "id": "f0c7f3dda6b34e471a9a4d9a23c420cc",
+      "title": "Mỹ cải tổ cơ chế xổ số thị thực H-1B",
+      "link": "https://thanhnien.vn/my-cai-to-co-che-xo-so-thi-thuc-h-1b-185251224172315942.htm",
+      "summary": "Bộ An ninh Nội địa Mỹ (DHS) chính thức thay đổi quy trình thị thực H-1B, chuyển từ cơ chế xổ số sang hệ thống lựa chọn theo mức lương và tay nghề cao hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506379+07:00"
+    },
+    {
+      "id": "f6dea70e10d5795a0615d1930ff112da",
+      "title": "Một Giáng sinh rất chậm ở Đà Lạt, giữa sương lạnh và ánh đèn nhà thờ",
+      "link": "https://thanhnien.vn/mot-giang-sinh-rat-cham-o-da-lat-giua-suong-lanh-va-anh-den-nha-tho-185251224152321887.htm",
+      "summary": "Giữa sương lạnh cuối năm, không khí Giáng sinh ở Đà Lạt lan tỏa khắp các nhà thờ từ trung tâm đến vùng ven, với ánh đèn ấm áp, hang đá mộc mạc và sự yên bình rất riêng của phố núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506527+07:00"
+    },
+    {
+      "id": "7b107e244fe1ab9b9924da6833639904",
+      "title": "Áo lệch vai giúp nàng khoe trọn bờ vai quyến rũ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-lech-vai-giup-nang-khoe-tron-bo-vai-quyen-ru-185251223153311614.htm",
+      "summary": "Áo lệch vai, biểu tượng của vẻ đẹp kiêu kỳ giúp các cô gái khéo léo tôn lên bờ vai mềm mại, kiểu dáng thanh lịch giúp nàng dễ dàng ghi dấu ấn phong cách riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506697+07:00"
+    },
+    {
+      "id": "5a65f274ba410e3c837dd6a9888fc7a7",
+      "title": "Không khí đón Giáng sinh khắp thế giới",
+      "link": "https://vnexpress.net/khong-khi-don-giang-sinh-khap-the-gioi-4997799.html",
+      "summary": "Người dân đi mua sắm, chụp ảnh, tập luyện cho các buổi trình diễn trong không khí chào đón Giáng sinh năm 2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T13:00:00+07:00",
+      "fetched": "2025-12-24T21:17:52.811001+07:00"
+    },
+    {
+      "id": "f1529290cb3ee13af8c01b1d610b8dcc",
+      "title": "Đêm Giáng sinh, có người trúng độc đắc 21,5 tỉ xổ số Mega 6/45 Vietlott",
+      "link": "https://thanhnien.vn/dem-giang-sinh-co-nguoi-trung-doc-dac-215-ti-xo-so-mega-6-45-vietlott-185251224185723202.htm",
+      "summary": "Tối 24.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 ghi nhận một người trúng giải độc đắc ngay trong đêm Giáng sinh với số tiền cộng dồn là 21,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T12:59:00+07:00",
+      "fetched": "2025-12-24T21:17:50.506855+07:00"
+    },
+    {
+      "id": "a1c6f92160cbcdfea4bab4cf155df769",
+      "title": "Kiểm định lại máy trị ung thư 200 tỷ 'đắp chiếu' hơn 10 năm",
+      "link": "https://vnexpress.net/kiem-dinh-lai-may-tri-ung-thu-200-ty-dap-chieu-hon-10-nam-4997910.html",
+      "summary": "Sở Y tế An Giang đề nghị lãnh đạo tỉnh mời chuyên gia quốc tế đánh giá lại hệ thống Cyclotron điều trị ung thư bị \"treo\" hơn 10 năm nhằm đưa vào vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T12:57:22+07:00",
+      "fetched": "2025-12-24T21:17:43.760526+07:00"
+    },
+    {
+      "id": "25b0575a9e695a407da86b05e84d8269",
+      "title": "Tối 24.12, xóm đạo lớn nhất TP.HCM kẹt cứng người đi chơi Giáng sinh",
+      "link": "https://thanhnien.vn/toi-2412-xom-dao-lon-nhat-tphcm-ket-cung-nguoi-di-choi-giang-sinh-185251224194605084.htm",
+      "summary": "Tối 24.12, xóm đạo lớn nhất TP.HCM đông nghẹt người đổ dồn về để đi chơi Giáng sinh, có thời điểm khu vực này kẹt cứng xe cộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T12:56:00+07:00",
+      "fetched": "2025-12-24T21:17:50.507008+07:00"
     },
     {
       "id": "788d3d1bd45b69c5de2e263616822c90",
