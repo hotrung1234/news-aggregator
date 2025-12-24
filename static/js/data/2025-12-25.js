@@ -1,6 +1,6 @@
 window.newsData_2025_12_25 = {
   "date": "2025-12-25",
-  "lastUpdated": "2025-12-25T01:26:42.821860+07:00",
+  "lastUpdated": "2025-12-25T03:19:29.755620+07:00",
   "articles": [
     {
       "id": "3e693b446a7e8de015a2cb243e2d9e6c",
@@ -151,6 +151,16 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-25T01:26:35.869703+07:00",
       "fetched": "2025-12-25T01:26:35.869935+07:00"
+    },
+    {
+      "id": "ef969929ec1a8b57f072b03e11037b69",
+      "title": "Tắm nước lạnh - thói quen gây tăng huyết áp đột ngột",
+      "link": "https://vnexpress.net/tam-nuoc-lanh-thoi-quen-gay-tang-huyet-ap-dot-ngot-4997524.html",
+      "summary": "Tắm nước lạnh gây co mạch, tăng huyết áp và nhịp tim đột ngột, tạo cú sốc lớn cho tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T18:00:00+07:00",
+      "fetched": "2025-12-25T03:19:16.226281+07:00"
     },
     {
       "id": "637cfa0438135e45de2fb38895cbe581",
