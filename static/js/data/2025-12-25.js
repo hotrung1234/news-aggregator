@@ -1,7 +1,117 @@
 window.newsData_2025_12_25 = {
   "date": "2025-12-25",
-  "lastUpdated": "2025-12-25T21:17:32.673077+07:00",
+  "lastUpdated": "2025-12-25T23:22:15.099618+07:00",
   "articles": [
+    {
+      "id": "348e20098934fb5c71d467cd14fac6fa",
+      "title": "Nhà đầu tư đề xuất 4 tên gọi cho công viên số 1 Lý Thái Tổ, TP.HCM",
+      "link": "https://tuoitre.vn/nha-dau-tu-de-xuat-4-ten-goi-cho-cong-vien-so-1-ly-thai-to-tp-hcm-20251225190334573.htm",
+      "summary": "Nhà đầu tư, xây dựng công trình công viên tại số 1 Lý Thái Tổ, phường Vườn Lài, TP.HCM đề xuất 4 tên gọi cho công viên gồm: Công viên Cuộc Sống, công viên Ngày Mai, công viên Gắn Kết, công viên Khát Vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660855+07:00",
+      "fetched": "2025-12-25T23:22:04.660978+07:00"
+    },
+    {
+      "id": "812f916a496426d0edb3e83c24ea011e",
+      "title": "Bộ Khoa học và Công nghệ ghi nhận Viettel hoàn thành cam kết triển khai mạng 5G",
+      "link": "https://tuoitre.vn/bo-khoa-hoc-va-cong-nghe-ghi-nhan-viettel-hoan-thanh-cam-ket-trien-khai-mang-5g-2025122519375588.htm",
+      "summary": "Ngày 25-12, Tổng công ty Viễn thông Viettel cho biết Bộ Khoa học và Công nghệ đã ban hành văn bản ghi nhận kết quả triển khai hạ tầng mạng viễn thông di động 5G của Viettel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660724+07:00",
+      "fetched": "2025-12-25T23:22:04.660844+07:00"
+    },
+    {
+      "id": "d791834fd06eee4251fe34419df9b9ef",
+      "title": "Tổng Bí thư: Không để sau mỗi công trình dự án, lại phải xử lý các vụ án, vụ việc, xử lý cán bộ",
+      "link": "https://tuoitre.vn/tong-bi-thu-khong-de-sau-moi-cong-trinh-du-an-lai-phai-xu-ly-cac-vu-an-vu-viec-xu-ly-can-bo-20251225182749226.htm",
+      "summary": "Ông Đặng Văn Dũng cho hay phát biểu tại phiên họp, Tổng Bí thư lưu ý việc phát hiện xử lý kịp thời là rất hay nhưng hay hơn là không để xảy ra tham nhũng, vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660568+07:00",
+      "fetched": "2025-12-25T23:22:04.660712+07:00"
+    },
+    {
+      "id": "f85e23325323f632ad71a7d1a4c9fc67",
+      "title": "Vụ xây nhầm nhà trên đất người khác: Ông Đỗ Văn Hữu gửi đơn tố cáo dấu hiệu lừa đảo và trốn thuế",
+      "link": "https://tuoitre.vn/vu-xay-nham-nha-tren-dat-nguoi-khac-ong-do-van-huu-gui-don-to-cao-dau-hieu-lua-dao-va-tron-thue-20251225181938459.htm",
+      "summary": "Sau khi di chuyển xong ngôi nhà về vị trí đất chính chủ của mình, ông Đỗ Văn Hữu đã gửi đơn tố cáo nhiều người về dấu hiệu lừa đảo chiếm đoạt tài sản và trốn thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660403+07:00",
+      "fetched": "2025-12-25T23:22:04.660549+07:00"
+    },
+    {
+      "id": "44c49eac0072874d88b9e9433b4b8dd9",
+      "title": "Sinh viên chế tạo hệ thống hỗ trợ người bị đột quỵ phục hồi, định giá 100 triệu đồng/sản phẩm",
+      "link": "https://tuoitre.vn/sinh-vien-che-tao-he-thong-ho-tro-nguoi-bi-dot-quy-phuc-hoi-dinh-gia-100-trieu-dong-san-pham-20251225202614623.htm",
+      "summary": "Hệ thống hỗ trợ theo dõi quá trình phục hồi chi dưới của bệnh nhân sau đột quỵ (hệ thống Retrack), được nhóm 5 sinh viên chế tạo vừa giành giải nhất cuộc thi Sáng tạo trẻ 2025, diễn ra chiều 25-12 tại Đại học Bách khoa Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660280+07:00",
+      "fetched": "2025-12-25T23:22:04.660392+07:00"
+    },
+    {
+      "id": "4887aa56b0d878ccd89157e9fe44d1b2",
+      "title": "TV360 phát sóng trực tiếp Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/tv360-phat-song-truc-tiep-giai-u23-chau-a-2026-20251225104907867.htm",
+      "summary": "Ứng dụng truyền hình giải trí TV360 xác nhận đã sở hữu bản quyền phát sóng Giải U23 châu Á 2026, diễn ra tại Saudi Arabia từ ngày 6 đến 24-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660155+07:00",
+      "fetched": "2025-12-25T23:22:04.660269+07:00"
+    },
+    {
+      "id": "83467e20d4af26fef1a708370683e3e3",
+      "title": "Tổng giám đốc Vinpearl bất ngờ từ nhiệm",
+      "link": "https://tuoitre.vn/tong-giam-doc-vinpearl-bat-ngo-tu-nhiem-20251225210432625.htm",
+      "summary": "Ngày 25-12, Công ty cổ phần Vinpearl thông báo nhận được đơn từ nhiệm của ông Đặng Thanh Thuỷ- Tổng giám đốc kiêm người đại diện theo pháp luật của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.660029+07:00",
+      "fetched": "2025-12-25T23:22:04.660144+07:00"
+    },
+    {
+      "id": "5dee97ba3bb18c991d7d6411bea78afa",
+      "title": "Vợ chồng cựu cán bộ Văn phòng Chính phủ cùng 'tiếp tay' cho nhóm cấp phiếu thử nghiệm giả ra sao?",
+      "link": "https://tuoitre.vn/vo-chong-cuu-can-bo-van-phong-chinh-phu-cung-tiep-tay-cho-nhom-cap-phieu-thu-nghiem-gia-ra-sao-20251225205848422.htm",
+      "summary": "Viện kiểm sát cáo buộc ông Nguyễn Nam Khánh, cựu cán bộ thuộc Văn phòng Chính phủ, đã lợi dụng ảnh hưởng để nhận 4 tỉ đồng đi \"quan hệ\", giúp Công ty TSL và Avatek được cấp phiếu thử nghiệm giả, vợ ông Khánh được bổ nhiệm làm phó giám đốc công ty.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.659899+07:00",
+      "fetched": "2025-12-25T23:22:04.660018+07:00"
+    },
+    {
+      "id": "2515e0d1d75e40ba96e0815b162431e7",
+      "title": "Đề xuất cử đội U21 Việt Nam dự ASIAD 2026",
+      "link": "https://tuoitre.vn/de-xuat-cu-doi-u21-viet-nam-du-asiad-2026-20251225214259803.htm",
+      "summary": "Đội hình Olympic Việt Nam dự môn bóng đá nam ASIAD 2026 sẽ được xây dựng dựa trên lứa cầu thủ U21, tức sinh từ năm 2005 trở đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.659763+07:00",
+      "fetched": "2025-12-25T23:22:04.659887+07:00"
+    },
+    {
+      "id": "75028c3c4e222de874979d504b3d25d1",
+      "title": "Diễn viên Vera Alentova, phim Moskva không tin vào nước mắt, qua đời",
+      "link": "https://tuoitre.vn/dien-vien-vera-alentova-phim-moskva-khong-tin-vao-nuoc-mat-qua-doi-20251225211549191.htm",
+      "summary": "Nghệ sĩ nhân dân Nga Vera Alentova, một trong những gương mặt nữ tiêu biểu của điện ảnh và sân khấu Liên Xô - Nga, vừa qua đời ở tuổi 84.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.659587+07:00",
+      "fetched": "2025-12-25T23:22:04.659748+07:00"
+    },
+    {
+      "id": "25601edcb2b3e0c4f1a751a28da06d6c",
+      "title": "Hơn 50% cổ phiếu không có 'quà giáng sinh' cho nhà đầu tư",
+      "link": "https://tuoitre.vn/hon-50-co-phieu-khong-co-qua-giang-sinh-cho-nha-dau-tu-20251225144253077.htm",
+      "summary": "Những nhà đầu tư không nắm giữ cổ phiếu vốn hóa lớn, cảm nhận khá \"đắng\" khi nhìn lại năm nâng hạng, VN-Index trở lại lập kỷ lục mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T23:22:04.659322+07:00",
+      "fetched": "2025-12-25T23:22:04.659563+07:00"
+    },
     {
       "id": "f2aaab9b5f63d976b0bd54b062bb593e",
       "title": "Chia ly và lựa chọn 'được cống hiến' sau nỗi đau tai nạn giao thông",
@@ -453,6 +563,56 @@ window.newsData_2025_12_25 = {
       "fetched": "2025-12-25T17:19:23.202110+07:00"
     },
     {
+      "id": "72333e715589100a79d847d156bed487",
+      "title": "Việt Nam cử đội U21 đá ASIAD 20",
+      "link": "https://vnexpress.net/viet-nam-cu-doi-u21-da-asiad-20-4998404.html",
+      "summary": "LĐBĐ Việt Nam (VFF) chốt phương án cử đội U21, thay vì U23 + 3 như điều lệ, dự Á vận hội ở Nhật Bản vào năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:46:34+07:00",
+      "fetched": "2025-12-25T23:21:59.518413+07:00"
+    },
+    {
+      "id": "72333e715589100a79d847d156bed487",
+      "title": "Việt Nam cử đội U21 đá ASIAD 20",
+      "link": "https://vnexpress.net/viet-nam-cu-doi-u21-da-asiad-20-4998404.html",
+      "summary": "LĐBĐ Việt Nam (VFF) chốt phương án cử đội U21, thay vì U23 + 3 như điều lệ, dự Á vận hội ở Nhật Bản vào năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T15:46:34+07:00",
+      "fetched": "2025-12-25T23:22:15.086075+07:00"
+    },
+    {
+      "id": "484859517b4b28d49546b04a004cd296",
+      "title": "Nghệ sĩ Tấn Beo tái xuất trong ngày con trai cưới vợ",
+      "link": "https://thanhnien.vn/nghe-si-tan-beo-tai-xuat-trong-ngay-con-trai-cuoi-vo-185251225222237263.htm",
+      "summary": "Tấn Beo không chỉ xúc động vì con trai yên bề gia thất mà còn bởi được gặp gỡ một số đồng nghiệp sau thời gian tạm ngưng hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:45:00+07:00",
+      "fetched": "2025-12-25T23:22:03.495715+07:00"
+    },
+    {
+      "id": "31dac75ef902e0c753a4fe1bb5bbf6f6",
+      "title": "Mang tiếng Anh vượt núi: Câu chuyện của chàng sinh viên khuyết tật",
+      "link": "https://thanhnien.vn/mang-tieng-anh-vuot-nui-cau-chuyen-cua-chang-sinh-vien-khuyet-tat-185251225220903028.htm",
+      "summary": "Sinh ra với khiếm khuyết vận động, Chương Đình Phúc sinh viên Trường Đại học Tây Nguyên không chọn dừng lại trước những giới hạn của bản thân. Từ hành trình học tập đến những lớp học tình nguyện nơi vùng cao, Phúc đang từng ngày lan tỏa giá trị của giáo dục và khẳng định: người khuyết tật không chỉ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:26:00+07:00",
+      "fetched": "2025-12-25T23:22:03.495888+07:00"
+    },
+    {
+      "id": "f63e2c02295ac8cb96f44572dd8dae6d",
+      "title": "Bỏ phố về quê, cô gái trẻ dành 120 triệu đồng biến núi đá thành vựa nghệ",
+      "link": "https://thanhnien.vn/bo-pho-ve-que-co-gai-tre-danh-120-trieu-dong-bien-nui-da-thanh-vua-nghe-185251225211230983.htm",
+      "summary": "Tốt nghiệp Học viện hành chính quốc gia, chị Vi Thị Ánh ở xã Thọ Bình, tỉnh Thanh Hóa quyết tâm về quê khởi nghiệp để tìm con đường giúp bà con hàng xóm quê mình sống khá hơn từ tài nguyên bản địa. Gom góp vốn liếng để dành được 120 triệu, chị Ánh mua giống nghệ nếp đỏ về trồng trên núi đá và thành ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:26:00+07:00",
+      "fetched": "2025-12-25T23:22:03.496050+07:00"
+    },
+    {
       "id": "fdacaee26263ce0b19f69b638c7002ce",
       "title": "Cựu Thứ trưởng Nguyễn Bá Hoan bị cáo buộc gây khó cho doanh nghiệp, nhận hối lộ 5,2 tỉ đồng",
       "link": "https://tuoitre.vn/cuu-thu-truong-nguyen-ba-hoan-bi-cao-buoc-gay-kho-cho-doanh-nghiep-nhan-hoi-lo-5-2-ti-dong-20251225125428273.htm",
@@ -601,6 +761,116 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-25T15:25:03.537847+07:00",
       "fetched": "2025-12-25T15:25:03.538054+07:00"
+    },
+    {
+      "id": "11245e95c47e26be42e72ec3828df931",
+      "title": "Vận hành phòng mô phỏng đường sắt tốc độ cao 50 tỷ đồng",
+      "link": "https://vnexpress.net/van-hanh-phong-mo-phong-duong-sat-toc-do-cao-50-ty-dong-4998202.html",
+      "summary": "Đại học Giao thông Vận tải TP HCM vận hành phòng mô phỏng điều khiển, khai thác đường sắt tốc độ cao, trị giá 50 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:23:40+07:00",
+      "fetched": "2025-12-25T23:21:59.518612+07:00"
+    },
+    {
+      "id": "658840108f10b3c4aea839a8b030305a",
+      "title": "Tổng giám đốc Vinpearl từ nhiệm",
+      "link": "https://vnexpress.net/tong-giam-doc-vinpearl-tu-nhiem-4998401.html",
+      "summary": "Ông Đặng Thanh Thủy nộp đơn xin từ nhiệm vị trí Tổng giám đốc kiêm người đại diện pháp luật của Vinpearl vào ngày 25/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:09:52+07:00",
+      "fetched": "2025-12-25T23:21:59.518790+07:00"
+    },
+    {
+      "id": "658840108f10b3c4aea839a8b030305a",
+      "title": "Tổng giám đốc Vinpearl từ nhiệm",
+      "link": "https://vnexpress.net/tong-giam-doc-vinpearl-tu-nhiem-4998401.html",
+      "summary": "Ông Đặng Thanh Thủy nộp đơn xin từ nhiệm vị trí Tổng giám đốc kiêm người đại diện pháp luật của Vinpearl vào ngày 25/12.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-25T15:09:52+07:00",
+      "fetched": "2025-12-25T23:22:08.546005+07:00"
+    },
+    {
+      "id": "355598bc02e43839fc433243e1c5d644",
+      "title": "Hoa hậu Honey Lee bị truy tố",
+      "link": "https://vnexpress.net/hoa-hau-honey-lee-bi-truy-to-4998375.html",
+      "summary": "\"Hoa hậu quyến rũ nhất Hàn Quốc\" Honey Lee và chồng bị truy tố vì điều hành hoạt động quản lý nghệ sĩ mà không đăng ký theo quy định pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T15:01:24+07:00",
+      "fetched": "2025-12-25T23:21:59.518950+07:00"
+    },
+    {
+      "id": "85eeda81ad9412d0f751de0eb110eb54",
+      "title": "Kiên quyết đấu tranh với hành vi lợi dụng cộng đồng Việt kiều để chống phá Đảng, Nhà nước",
+      "link": "https://thanhnien.vn/kien-quyet-dau-tranh-voi-hanh-vi-loi-dung-cong-dong-viet-kieu-de-chong-pha-dang-nha-nuoc-185251225204243772.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nêu yêu cầu này tại Hội nghị toàn quốc Tổng kết việc thực hiện Nghị quyết số 36-NQ/TW về việc công tác đối với người Việt Nam ở nước ngoài và các văn bản chỉ đạo của Bộ Chính trị, Ban Bí thư về công tác đối với người Việt Nam ở nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:51:00+07:00",
+      "fetched": "2025-12-25T23:22:03.496204+07:00"
+    },
+    {
+      "id": "f313fd02167d10edde1a8e4540c55f08",
+      "title": "Vụ án tại VICEM: Khởi tố 14 bị can, thiệt hại 396 tỉ đồng",
+      "link": "https://thanhnien.vn/vu-an-tai-vicem-khoi-to-14-bi-can-thiet-hai-396-ti-dong-18525122521074328.htm",
+      "summary": "Theo đại diện Bộ Công an, cơ quan điều tra đã khởi tố 14 bị can trong vụ án xảy ra tại VICEM, bước đầu xác định thiệt hại 396 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:48:00+07:00",
+      "fetched": "2025-12-25T23:22:03.496356+07:00"
+    },
+    {
+      "id": "f926a2885ec45584e75665054f0c7653",
+      "title": "Truy tố 100 bị can vụ làm giả phiếu kết quả thử nghiệm an toàn thực phẩm",
+      "link": "https://thanhnien.vn/truy-to-100-bi-can-vu-lam-gia-phieu-ket-qua-thu-nghiem-an-toan-thuc-pham-185251225204031463.htm",
+      "summary": "Viện KSND tối cao truy tố 100 bị can liên quan đến vụ làm giả phiếu kết quả thử nghiệm an toàn thực phẩm, trong đó có một cựu cán bộ Văn phòng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:48:00+07:00",
+      "fetched": "2025-12-25T23:22:03.496501+07:00"
+    },
+    {
+      "id": "c0ae71b5943b8fcd78d2c7f2aba98c3b",
+      "title": "Trường Chính trị TP.Cần Thơ đạt chuẩn mức 1 sau 5 tháng sáp nhập",
+      "link": "https://thanhnien.vn/truong-chinh-tri-tpcan-tho-dat-chuan-muc-1-sau-5-thang-sap-nhap-185251225204614945.htm",
+      "summary": "Chưa đầy 5 tháng sau sáp nhập, Trường Chính trị TP.Cần Thơ chính thức được công nhận đạt chuẩn mức 1 và là một trong những Trường Chính trị dẫn đầu cả nước về quy mô đào tạo và nhân lực chất lượng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:41:00+07:00",
+      "fetched": "2025-12-25T23:22:03.496674+07:00"
+    },
+    {
+      "id": "d67f89aceab806ac725e9042f92989ad",
+      "title": "Dây điện vắt ngang đường, cao tốc Liên Khương - Prenn tê liệt hơn một giờ",
+      "link": "https://vnexpress.net/cao-toc-lien-khuong-prenn-4998396.html",
+      "summary": "Giao thông trên cao tốc Liên Khương - Prenn bị gián đoạn hơn một giờ khi dây điện trung thế bất ngờ rơi, vắt ngang mặt đường, khiến nhiều phương tiện phải dừng chờ, tối 25/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:24:28+07:00",
+      "fetched": "2025-12-25T23:21:59.519106+07:00"
+    },
+    {
+      "id": "3b44c3f1cb8683e6045370008a349a31",
+      "title": "Giáo hoàng kêu gọi Nga, Ukraine 'can đảm' đối thoại",
+      "link": "https://vnexpress.net/giao-hoang-keu-goi-nga-ukraine-can-dam-doi-thoai-4998374.html",
+      "summary": "Giáo hoàng Leo XIV kêu gọi Nga và Ukraine tìm thấy \"sự can đảm\" để tiến hành các cuộc đàm phán trực tiếp nhằm chấm dứt xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T14:22:00+07:00",
+      "fetched": "2025-12-25T23:21:59.519272+07:00"
+    },
+    {
+      "id": "3b44c3f1cb8683e6045370008a349a31",
+      "title": "Giáo hoàng kêu gọi Nga, Ukraine 'can đảm' đối thoại",
+      "link": "https://vnexpress.net/giao-hoang-keu-goi-nga-ukraine-can-dam-doi-thoai-4998374.html",
+      "summary": "Giáo hoàng Leo XIV kêu gọi Nga và Ukraine tìm thấy \"sự can đảm\" để tiến hành các cuộc đàm phán trực tiếp nhằm chấm dứt xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T14:22:00+07:00",
+      "fetched": "2025-12-25T23:22:06.553233+07:00"
     },
     {
       "id": "d5219c34ec334ecfdc41933ac0519370",
@@ -1111,6 +1381,16 @@ window.newsData_2025_12_25 = {
       "category": "Thế giới",
       "published": "2025-12-25T12:14:51+07:00",
       "fetched": "2025-12-25T19:36:45.875524+07:00"
+    },
+    {
+      "id": "a02d4a294b244ee319590eab7c839622",
+      "title": "Thái Lan nêu lý do phá tượng thần Hindu ở biên giới",
+      "link": "https://vnexpress.net/thai-lan-neu-ly-do-pha-tuong-than-hindu-o-bien-gioi-4998353.html",
+      "summary": "Chính phủ Thái Lan cho biết việc phá tượng thần Hindu ở biên giới với Campuchia là nhằm khẳng định quyền kiểm soát tại khu vực tranh chấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T12:14:51+07:00",
+      "fetched": "2025-12-25T23:22:06.553409+07:00"
     },
     {
       "id": "5f03749b035e1676ef06c7466dac51fe",
