@@ -1,6 +1,6 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T03:20:15.604441+07:00",
+  "lastUpdated": "2025-12-26T05:17:41.957201+07:00",
   "articles": [
     {
       "id": "d9c67b151c232b4ac9051b12f52d7611",
@@ -173,6 +173,206 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T01:25:42.984131+07:00"
     },
     {
+      "id": "c24d3878e446baa70c1d0759cf2b3380",
+      "title": "Chim hồng hoàng - loài chim mỏ sừng quý hiếm đang ở mức sắp nguy cấp",
+      "link": "https://thanhnien.vn/chim-hong-hoang-loai-chim-mo-sung-quy-hiem-dang-o-muc-sap-nguy-cap-185251225094111624.htm",
+      "summary": "Chim hồng hoàng là loài chim mỏ sừng quý hiếm, đóng vai trò quan trọng trong hệ sinh thái rừng, hiện được xếp hạng sắp nguy cấp trong Sách đỏ do nạn săn bắt trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:15:00+07:00",
+      "fetched": "2025-12-26T05:17:33.689651+07:00"
+    },
+    {
+      "id": "2f7c089513928e0e427c20ac1589b98b",
+      "title": "Ngán ngẩm kẹt xe đường Cộng Hòa, Trường Chinh: Sở Xây dựng TP.HCM nêu giải pháp",
+      "link": "https://thanhnien.vn/ngan-ngam-ket-xe-duong-cong-hoa-truong-chinh-so-xay-dung-tphcm-neu-giai-phap-185251225172723596.htm",
+      "summary": "Kẹt xe đường Cộng Hòa - Trường Chinh khiến người dân ngán ngẩm. Sở Xây dựng TP.HCM nêu nguyên nhân và giải pháp giảm ùn tắc sắp triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:14:00+07:00",
+      "fetched": "2025-12-26T05:17:33.689837+07:00"
+    },
+    {
+      "id": "6a2ce4b78c302fd80b67e26b28d8431a",
+      "title": "Bản tin sức khỏe ngày 26.12: Làm sao để ngăn ung thư di căn? | Tập plank đúng cách để giảm mỡ",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-2612-lam-sao-de-ngan-ung-thu-di-can-tap-plank-dung-cach-de-giam-mo-185251225234018364.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:05:00+07:00",
+      "fetched": "2025-12-26T05:17:33.689995+07:00"
+    },
+    {
+      "id": "f03565eb4d775b094fb4d14df5cee823",
+      "title": "Chiến sự Ukraine ngày 1.401: Không im tiếng súng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1401-khong-im-tieng-sung-185251225211926371.htm",
+      "summary": "Ngày 25.12 đã trôi qua trong cảnh chiến sự giữa Nga và Ukraine tiếp diễn, và chưa có dấu hiệu cho thấy súng sẽ sớm ngừng nổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:00:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690148+07:00"
+    },
+    {
+      "id": "4068ca159b1fbd39168c41d8c25807bf",
+      "title": "Đồng Nai đề nghị tháo trạm thu phí bỏ không trên quốc lộ 51, quốc lộ 1",
+      "link": "https://thanhnien.vn/dong-nai-de-nghi-thao-tram-thu-phi-bo-khong-tren-quoc-lo-51-quoc-lo-1-185251225133708914.htm",
+      "summary": "Sở Xây dựng tỉnh Đồng Nai đề nghị tháo dỡ các trạm thu phí quốc lộ 51 do đã dừng thu phí nhưng vẫn tồn tại nhiều hạng mục gây mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T22:00:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690317+07:00"
+    },
+    {
+      "id": "0b1d4680f1e7c665400b18179e7194e0",
+      "title": "Groq - công ty chip AI được Nvidia mua lại với giá 20 tỷ USD",
+      "link": "https://vnexpress.net/groq-cong-ty-chip-ai-duoc-nvidia-mua-lai-voi-gia-20-ty-usd-4998035.html",
+      "summary": "Groq, công ty chip AI do hai cựu nhân viên Google sáng lập, được đánh giá có hướng đi riêng biệt với chip LPU cho tốc độ xử lý cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-25T22:00:00+07:00",
+      "fetched": "2025-12-26T05:17:40.602286+07:00"
+    },
+    {
+      "id": "76b4bb849c6fbb952e23c66f2c0f0efe",
+      "title": "Cấm xuất cảnh vì nợ thuế: Công cụ quản lý hay rào cản đầu tư?",
+      "link": "https://thanhnien.vn/cam-xuat-canh-vi-no-thue-cong-cu-quan-ly-hay-rao-can-dau-tu-18525122416015296.htm",
+      "summary": "Một giám đốc startup công nghệ vừa chia sẻ trên diễn đàn doanh nhân rằng anh đã bị chặn tại cửa khẩu sân bay vì công ty đang nợ thuế quá hạn 700 triệu đồng. Đây không phải chuyện hiếm gặp với quy định hiện hành áp dụng cho người đại diện pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:34:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690469+07:00"
+    },
+    {
+      "id": "14415feb3eaf9048bad9c79bc3a38479",
+      "title": "Ông Zelensky đề cập khả năng rút quân ở Donbass",
+      "link": "https://thanhnien.vn/ong-zelensky-de-cap-kha-nang-rut-quan-o-donbass-185251225203525099.htm",
+      "summary": "AP ngày 25.12 dẫn lời Tổng thống Ukraine Volodymyr Zelensky cho biết lực lượng nước này sẵn sàng rút khỏi vùng Donbass nếu Nga cũng làm điều tương tự để lập vùng phi quân sự tại đây và giao cho quốc tế giám sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:33:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690618+07:00"
+    },
+    {
+      "id": "9f66125a4dd2b2d5835f24ee0467ea0c",
+      "title": "Ăn mặn không chỉ làm tăng huyết áp: tác động kéo dài ít ai ngờ",
+      "link": "https://thanhnien.vn/an-man-khong-chi-lam-tang-huyet-ap-tac-dong-keo-dai-it-ai-ngo-185251225135102002.htm",
+      "summary": "Muối giúp cơ thể duy trì cân bằng chất lỏng, chức năng dẫn truyền thần kinh và co cơ. Vấn đề là đa số chúng ta không chỉ nạp muối từ lọ gia vị trong bếp mà còn từ thực phẩm chế biến sẵn và nước chấm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:19:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690786+07:00"
+    },
+    {
+      "id": "4bbcc2fa5fb4767a6f956f19a194dd0d",
+      "title": "Ranh giới giữa kỷ luật và lạm quyền",
+      "link": "https://thanhnien.vn/ranh-gioi-giua-ky-luat-va-lam-quyen-185251225204710525.htm",
+      "summary": "Hai sự việc gần đây tại các trường học TP.HCM đang đặt ra câu hỏi về ranh giới quyền lực trong môi trường giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:00+07:00",
+      "fetched": "2025-12-26T05:17:33.690943+07:00"
+    },
+    {
+      "id": "20f2a0c58c8e418875f6795081fdf32d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-26122025-185251225231534782.htm",
+      "summary": "Tin tức Hàng triệu cá nhân sắp được giảm thuế, Tư vấn mùa thi năm 2026 có gì mới?, Bẫy lừa đảo xuyên biên giới: Tra tấn bằng nhựa nóng, chích điện… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 26.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:10:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691091+07:00"
+    },
+    {
+      "id": "f2cae739712419aa2f1929d387307d2d",
+      "title": "Người tiền tiểu đường có nên uống cà phê mỗi ngày không?",
+      "link": "https://thanhnien.vn/nguoi-tien-tieu-duong-co-nen-uong-ca-phe-moi-ngay-khong-185251225135651562.htm",
+      "summary": "Tiền tiểu đường là giai đoạn đường huyết đã cao hơn mức bình thường nhưng chưa đủ tiêu chuẩn để chẩn đoán tiểu đường loại 2. Ở giai đoạn này, nhiều người bắt đầu điều chỉnh thói quen sinh hoạt hằng ngày, từ ăn uống đến vận động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:08:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691237+07:00"
+    },
+    {
+      "id": "5c32313fde16976ed64ee3671a6be51d",
+      "title": "Bóng đá Anh tưng bừng vào hội",
+      "link": "https://thanhnien.vn/bong-da-anh-tung-bung-vao-hoi-185251225211007749.htm",
+      "summary": "Anh là nền bóng đá đặc biệt nhất thế giới khi luôn thi đấu tưng bừng trong kỳ nghỉ đông. Các nước khác nghỉ càng sâu (dịp Giáng sinh và đầu năm mới) thì sân cỏ Anh càng nhộn nhịp trong những ngày này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:04:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691381+07:00"
+    },
+    {
+      "id": "4e1843801c5597bafbed6938bd772298",
+      "title": "Bé trai 14 tuổi phải cắt bỏ tinh hoàn sau 55 giờ khởi phát cơn đau",
+      "link": "https://thanhnien.vn/be-trai-14-tuoi-phai-cat-bo-tinh-hoan-sau-55-gio-khoi-phat-con-dau-185251225220432197.htm",
+      "summary": "Bé trai 14 tuổi nhập viện cấp cứu do xoắn tinh hoàn, tuy nhiên tình trạng đã nặng dẫn đến tổn thương tinh hoàn không thể hồi phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:03:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691525+07:00"
+    },
+    {
+      "id": "962b822cd6fae54d26543e6d899f1a36",
+      "title": "5 thói quen giúp thải độc gan và ruột",
+      "link": "https://vnexpress.net/5-thoi-quen-giup-thai-doc-gan-va-ruot-4997061.html",
+      "summary": "Khoa học chứng minh 5 cách thải độc gan - ruột thực sự gồm ăn lành mạnh, vận động, bổ sung vi sinh, kiểm soát bệnh nền và can thiệp theo gene.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:30.633128+07:00"
+    },
+    {
+      "id": "20d23685d807b5c7294cea31b69c5805",
+      "title": "Ai có nguy cơ cao bị suy thận?",
+      "link": "https://vnexpress.net/ai-co-nguy-co-cao-bi-suy-than-4995380.html",
+      "summary": "Các nhóm bệnh nhân tiểu đường, tăng huyết áp, bệnh tim mạch, viêm cầu thận và lối sống không lành mạnh có nguy cơ cao bị suy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:30.633305+07:00"
+    },
+    {
+      "id": "c4b24bb9a769335af5bcf5f584dd3811",
+      "title": "Cựu số 1 cầu lông thế giới hạnh phúc bên vợ đại gia",
+      "link": "https://vnexpress.net/cuu-so-1-cau-long-the-gioi-hanh-phuc-ben-vo-dai-gia-4998384.html",
+      "summary": "Cựu VĐV cầu lông người Indonesia, Kevin Sanjaya Sukamuljo gây chú ý khi chia sẻ ảnh đi du lịch cùng vợ con ở Thụy Sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:30.633477+07:00"
+    },
+    {
+      "id": "7fa4a082be18f45b9e80c2313f08c9e9",
+      "title": "Thế giới ngày Giáng sinh 2025",
+      "link": "https://thanhnien.vn/the-gioi-ngay-giang-sinh-2025-185251225221847127.htm",
+      "summary": "Giáng sinh năm nay chứng kiến không khí lễ hội quay lại một số nước Trung Đông còn Giáo hoàng Leo XIV lần đầu chủ trì thánh lễ Giáng sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691671+07:00"
+    },
+    {
+      "id": "69c359e4fb945c751a98a0f354944b19",
+      "title": "Mối nguy từ hình ảnh cá nhân bị đánh cắp",
+      "link": "https://thanhnien.vn/moi-nguy-tu-hinh-anh-ca-nhan-bi-danh-cap-185251225213400752.htm",
+      "summary": "Không chỉ đối mặt nguy cơ bị xâm nhập, đánh cắp video clip cá nhân rồi bán ở chợ đen, nhiều người còn bị giăng bẫy để trở thành nạn nhân của công nghệ DeepFake, ghép mặt vào hình ảnh nhạy cảm để tống tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:33.691842+07:00"
+    },
+    {
+      "id": "c4b24bb9a769335af5bcf5f584dd3811",
+      "title": "Cựu số 1 cầu lông thế giới hạnh phúc bên vợ đại gia",
+      "link": "https://vnexpress.net/cuu-so-1-cau-long-the-gioi-hanh-phuc-ben-vo-dai-gia-4998384.html",
+      "summary": "Cựu VĐV cầu lông người Indonesia, Kevin Sanjaya Sukamuljo gây chú ý khi chia sẻ ảnh đi du lịch cùng vợ con ở Thụy Sĩ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T21:00:00+07:00",
+      "fetched": "2025-12-26T05:17:41.951985+07:00"
+    },
+    {
       "id": "62072d16724b0c0829852c952ffa844b",
       "title": "Nhận diện các đối thủ của U.23 Việt Nam tại giải châu Á",
       "link": "https://thanhnien.vn/nhan-dien-cac-doi-thu-cua-u23-viet-nam-tai-giai-chau-a-185251225210342694.htm",
@@ -201,6 +401,16 @@ window.newsData_2025_12_26 = {
       "category": "Thế giới",
       "published": "2025-12-25T19:00:00+07:00",
       "fetched": "2025-12-26T03:20:10.934577+07:00"
+    },
+    {
+      "id": "1eba8bf38f17224809aed1680583df19",
+      "title": "Tổng Bí thư: Chúng ta đứng trước thời điểm lịch sử tạo kỳ tích mới",
+      "link": "https://vnexpress.net/tong-bi-thu-chung-ta-dung-truoc-thoi-diem-lich-su-tao-ky-tich-moi-4998420.html",
+      "summary": "Tổng Bí thư Tô Lâm cho biết Việt Nam đang đứng trước thời điểm lịch sử để tạo ra những kỳ tích mới, nên mỗi người dân cần không ngừng vươn lên tự chủ, tự cường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T19:00:00+07:00",
+      "fetched": "2025-12-26T05:17:30.633636+07:00"
     },
     {
       "id": "a988519085b554efb8ae9de2782d4e8f",
@@ -311,6 +521,16 @@ window.newsData_2025_12_26 = {
       "category": "Thế giới",
       "published": "2025-12-25T18:00:00+07:00",
       "fetched": "2025-12-26T01:25:43.893234+07:00"
+    },
+    {
+      "id": "2fb33945c3e164a45d349f15774e885f",
+      "title": "Công chức được đánh giá theo thang điểm 100",
+      "link": "https://vnexpress.net/cong-chuc-duoc-danh-gia-theo-thang-diem-100-4998413.html",
+      "summary": "Công chức sẽ được theo dõi, đánh giá hàng tháng hoặc quý với thang điểm 100, căn cứ phẩm chất, đạo đức, ý thức kỷ luật và số lượng, chất lượng, tiến độ công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T18:00:00+07:00",
+      "fetched": "2025-12-26T05:17:30.635087+07:00"
     },
     {
       "id": "dee8e07399845b93bd2318c95c18afd3",
