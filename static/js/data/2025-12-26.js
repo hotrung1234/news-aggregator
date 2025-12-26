@@ -1,7 +1,157 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T11:32:41.759222+07:00",
+  "lastUpdated": "2025-12-26T13:28:48.446519+07:00",
   "articles": [
+    {
+      "id": "87179c48b5727ae59c4aabf20a41afb9",
+      "title": "Giáng sinh lại khắc nghiệt với Premier League",
+      "link": "https://tuoitre.vn/giang-sinh-lai-khac-nghiet-voi-premier-league-20251226103410424.htm",
+      "summary": "Khác với mọi năm, Premier League năm nay chỉ có duy nhất 1 trận đấu trong ngày Boxing Day (ngày Lễ Tặng quà), khi Newcastle đến làm khách trên sân của Man United.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.492059+07:00",
+      "fetched": "2025-12-26T13:28:42.492173+07:00"
+    },
+    {
+      "id": "36a075d1ee1448465bba280c2f5a058c",
+      "title": "U23 Việt Nam chia tay một cầu thủ",
+      "link": "https://tuoitre.vn/u23-viet-nam-chia-tay-mot-cau-thu-20251226110411851.htm",
+      "summary": "Do Đặng Tuấn Phong không kịp bình phục sau chấn thương nên anh bị gạch tên khỏi danh sách U23 Việt Nam dự U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491933+07:00",
+      "fetched": "2025-12-26T13:28:42.492048+07:00"
+    },
+    {
+      "id": "93eff2457d65503b4349aaebf595a445",
+      "title": "Vì sao mầm non TP.HCM vẫn thiếu giáo viên, chật vật kinh phí?",
+      "link": "https://tuoitre.vn/vi-sao-mam-non-tp-hcm-van-thieu-giao-vien-chat-vat-kinh-phi-20251226102558141.htm",
+      "summary": "Hội nghị sơ kết học kỳ I cho thấy mầm non TP.HCM còn thiếu giáo viên, kinh phí eo hẹp, chuyển đổi số chưa đồng bộ, cần sớm gỡ nút thắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491796+07:00",
+      "fetched": "2025-12-26T13:28:42.491922+07:00"
+    },
+    {
+      "id": "f5969c4c27ba73afdf553f4d105e0fa9",
+      "title": "Bộ Công an: 415 người chết, mất tích, 728 người bị thương do thiên tai năm 2025",
+      "link": "https://tuoitre.vn/bo-cong-an-415-nguoi-chet-mat-tich-728-nguoi-bi-thuong-do-thien-tai-tu-dau-nam-den-nay-2025122610431258.htm",
+      "summary": "Tại hội ý nghiệp vụ thông tin chính trị tuyên truyền phòng, chống thiên tai do Bộ Công an tổ chức, đại diện Văn phòng Bộ Công an cho biết từ đầu năm đến nay đã có 415 người chết, mất tích; 728 người bị thương do thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491661+07:00",
+      "fetched": "2025-12-26T13:28:42.491785+07:00"
+    },
+    {
+      "id": "59564039903ce8a64863b38658625b74",
+      "title": "Toàn bộ xe buýt tuyến 150 và 33 ở TP.HCM chuyển sang buýt điện",
+      "link": "https://tuoitre.vn/toan-bo-xe-buyt-tuyen-150-va-33-o-tp-hcm-chuyen-sang-buyt-dien-20251226104259383.htm",
+      "summary": "TP.HCM có thêm 58 xe buýt điện trên tuyến 150 (bến xe Chợ Lớn - bến xe Miền Đông mới) và tuyến 33 (bến xe An Sương - Đại học Quốc gia TP.HCM) nhằm phục vụ người dân đi lại tốt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491507+07:00",
+      "fetched": "2025-12-26T13:28:42.491635+07:00"
+    },
+    {
+      "id": "abf8fb9f3d17987d6df6a91bd16d0cc6",
+      "title": "Mạo danh Vingroup lừa chuyển tiền, nhận hoa hồng 3%/ngày",
+      "link": "https://tuoitre.vn/mao-danh-vingroup-lua-chuyen-tien-nhan-hoa-hong-3-ngay-20251226104209036.htm",
+      "summary": "Ngày 26-12, nguồn tin cho biết Công an xã Chư Sê (Gia Lai) vừa phối hợp ngăn chặn vụ việc có dấu hiệu lừa đảo người dân chuyển tiền bằng cách mạo danh Tập đoàn Vingroup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491378+07:00",
+      "fetched": "2025-12-26T13:28:42.491495+07:00"
+    },
+    {
+      "id": "c880ad6097db5013ad663f117b513026",
+      "title": "Xác suất 1/292 triệu vẫn trúng: Giải độc đắc Powerball 1,8 tỉ USD đã có chủ",
+      "link": "https://tuoitre.vn/xac-suat-1-292-trieu-van-trung-giai-doc-dac-powerball-1-8-ti-usd-da-co-chu-20251226110125303.htm",
+      "summary": "Giải độc đắc Powerball đã thuộc về một người mua số ở bang Arkansas, đánh dấu giải độc đắc có giá trị lớn thứ 2 trong lịch sử xổ số Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491252+07:00",
+      "fetched": "2025-12-26T13:28:42.491366+07:00"
+    },
+    {
+      "id": "8b6721ef9c924ea69931d5aa5eecd9f0",
+      "title": "Quản trị công phải đi trước nhịp sống xã hội",
+      "link": "https://tuoitre.vn/quan-tri-cong-phai-di-truoc-nhip-song-xa-hoi-20251226083252077.htm",
+      "summary": "Những ngày cuối năm, Bộ Nội vụ có văn bản xin ý kiến các cơ quan liên quan về phương án hoán đổi ngày làm việc để nghỉ Tết dương lịch năm 2026 kéo dài 4 ngày, thay vì 1 ngày theo quy định hiện hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491126+07:00",
+      "fetched": "2025-12-26T13:28:42.491241+07:00"
+    },
+    {
+      "id": "be03e48f958b4c3a00235b06a1f4b525",
+      "title": "Vùng lũ 'chạy đua' sửa chữa kênh thủy lợi để kịp vụ sản xuất mới",
+      "link": "https://tuoitre.vn/chay-dua-sua-chua-kenh-thuy-loi-bi-hu-hong-do-mua-lu-20251225142652452.htm",
+      "summary": "Sau đợt mưa lũ, nhiều tuyến kênh thủy lợi tại Phú Yên cũ (nay thuộc Đắk Lắk) bị hư hỏng nghiêm trọng. Tỉnh này đang khẩn trương sửa chữa nhằm bảo đảm nguồn nước phục vụ sản xuất, để người dân kịp thời xuống giống vụ lúa đông xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.491000+07:00",
+      "fetched": "2025-12-26T13:28:42.491116+07:00"
+    },
+    {
+      "id": "a96085db49536e1134db6aa03513d85a",
+      "title": "Bảo tàng Louvre lắp song sắt che cửa sổ sau vụ trộm trang sức 102 triệu USD",
+      "link": "https://tuoitre.vn/bao-tang-louvre-lap-song-sat-che-cua-so-sau-vu-trom-trang-suc-102-trieu-usd-20251226111011931.htm",
+      "summary": "Bảo tàng Louvre lắp đặt một khung song sắt kim loại lớn che các cửa sổ của phòng trưng bày nơi bọn trộm đánh cắp số trang sức ước tính trị giá 102 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490873+07:00",
+      "fetched": "2025-12-26T13:28:42.490990+07:00"
+    },
+    {
+      "id": "44236b8448161127b7c5585ffb6179c9",
+      "title": "Video tai nạn liên quan máy chụp MRI là tin giả",
+      "link": "https://tuoitre.vn/video-tai-nan-lien-quan-may-chup-mri-la-san-pham-ai-20251226105322545.htm",
+      "summary": "Video gây sốc lan truyền ghi lại cảnh tai nạn chết người liên quan đến máy chụp cộng hưởng từ (MRI) là sản phẩm của trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490742+07:00",
+      "fetched": "2025-12-26T13:28:42.490861+07:00"
+    },
+    {
+      "id": "ca26c0a8626ae87bbd1a4788a9fa1401",
+      "title": "Nghiêm trị xe cứu thương lạm dụng quyền ưu tiên",
+      "link": "https://tuoitre.vn/nghiem-tri-xe-cuu-thuong-lam-dung-quyen-uu-tien-2025122610135995.htm",
+      "summary": "Dù không chở bệnh nhân, không thực hiện nhiệm vụ cấp cứu khẩn cấp nhưng một số xe cứu thương vẫn bật còi hú, đèn ưu tiên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490592+07:00",
+      "fetched": "2025-12-26T13:28:42.490729+07:00"
+    },
+    {
+      "id": "835add8dfafb5673f46c768e5138c787",
+      "title": "'Họ hàng cuối cùng của chim dodo' bất ngờ tái xuất",
+      "link": "https://tuoitre.vn/ho-hang-cuoi-cung-cua-chim-dodo-bat-ngo-tai-xuat-20251226102603211.htm",
+      "summary": "Bồ câu đất manumea, một trong những họ hàng gần nhất còn sống của chim dodo, được ghi nhận xuất hiện nhiều lần tại khu rừng mưa ở quần đảo Samoa, mang lại hy vọng cứu loài chim đang bên bờ tuyệt chủng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490456+07:00",
+      "fetched": "2025-12-26T13:28:42.490580+07:00"
+    },
+    {
+      "id": "f2bb0eaf15d1f7c32199c1e8b58392d2",
+      "title": "Thưởng Tết ở Đà Nẵng cao nhất 368 triệu đồng, chỉ bằng 1/2 năm ngoái",
+      "link": "https://tuoitre.vn/thuong-tet-o-da-nang-cao-nhat-368-trieu-dong-chi-bang-1-2-nam-ngoai-20251226112111027.htm",
+      "summary": "Tiền thưởng Tết Nguyên đán năm 2026 tại Đà Nẵng cao nhất thuộc về khối doanh nghiệp có vốn đầu tư nước ngoài với mức thưởng cao nhất hơn 368 triệu đồng/người. Mức thưởng Tết dương lịch cao nhất 140 triệu đồng/người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490311+07:00",
+      "fetched": "2025-12-26T13:28:42.490443+07:00"
+    },
+    {
+      "id": "4b83ff6c3dc5e759a455144ab1286cc7",
+      "title": "Vingroup rút đề xuất, nhóm cổ phiếu THACO, Hòa Phát 'bùng nổ'",
+      "link": "https://tuoitre.vn/vingroup-rut-de-xuat-nhom-co-phieu-thaco-hoa-phat-bung-no-20251226111623251.htm",
+      "summary": "Dòng tiền chảy cuồn cuộn vào cổ phiếu liên quan tới Tập đoàn THACO, Hòa Phát sau khi có thông tin Vingroup rút đề xuất làm đường sắt cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:28:42.490084+07:00",
+      "fetched": "2025-12-26T13:28:42.490295+07:00"
+    },
     {
       "id": "a61e79d6a8cd62a4c446605669105ed0",
       "title": "Nơi yêu thương tìm về",
@@ -301,6 +451,366 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T08:23:33.354202+07:00",
       "fetched": "2025-12-26T08:23:33.354379+07:00"
+    },
+    {
+      "id": "d33d21651ddcfb39a298d5ed843c614a",
+      "title": "'Shark Tank Vietnam' dừng sản xuất",
+      "link": "https://thanhnien.vn/shark-tank-vietnam-dung-san-xuat-185251226125038057.htm",
+      "summary": "Trao đổi với chúng tôi, bà Lê Hạnh - Giám đốc sản xuất Shark Tank Vietnam - xác nhận thông tin chương trình dừng sản xuất sau khi hoàn thành 100 tập phát sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:17:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629091+07:00"
+    },
+    {
+      "id": "f05a6219e1e121f6d9707906d6d6508c",
+      "title": "VinSpeed nâng vốn điều lệ lên 45.000 tỷ đồng",
+      "link": "https://vnexpress.net/vinspeed-nang-von-dieu-le-len-45-000-ty-dong-4998613.html",
+      "summary": "VinSpeed, công ty đường sắt của tỷ phú Phạm Nhật Vượng, tăng vốn từ 33.000 tỷ lên 45.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T06:14:55+07:00",
+      "fetched": "2025-12-26T13:28:45.653312+07:00"
+    },
+    {
+      "id": "7a75fea3b333972ac04725781dc025ab",
+      "title": "'Tôi có bản lý lịch khá đẹp tại Việt Nam', niềm kiêu hãnh chân thật của HLV Kim Sang-sik",
+      "link": "https://thanhnien.vn/toi-co-ban-ly-lich-kha-dep-tai-viet-nam-niem-kieu-hanh-chan-that-cua-hlv-kim-sang-sik-185251225180301907.htm",
+      "summary": "HLV Kim Sang-sik đã có những chia sẻ rất chân thành về sự thành công của bản thân mình khi gắn bó với bóng đá Việt Nam kể từ khi ký hợp đồng với Liên đoàn Bóng đá Việt Nam hồi tháng 5.2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:09:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629264+07:00"
+    },
+    {
+      "id": "54155a8c871f916c78b681f7ae99b66b",
+      "title": "Anh không rời đi hoàn toàn, luôn trong ký ức của tôi",
+      "link": "https://vnexpress.net/anh-khong-roi-di-hoan-toan-luon-trong-ky-uc-cua-toi-4998349.html",
+      "summary": "Tôi sẽ mang theo tình thương và nỗi nhớ ấy, sống tử tế, tiếp tục tin rằng phía trước vẫn có cầu vồng, dù đôi khi rất mệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.549514+07:00"
+    },
+    {
+      "id": "c6d72550bed5a40a509114cec5cc9a19",
+      "title": "Khách đổ về đồn biên phòng Lũng Cú check in mai anh đào",
+      "link": "https://vnexpress.net/khach-do-ve-don-bien-phong-lung-cu-check-in-mai-anh-dao-4997731.html",
+      "summary": "Mai anh đào nở rộ trước đồn biên phòng Lũng Cú hấp dẫn hàng trăm khách đến tham quan, chụp ảnh từ sáng sớm đến chiều tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.549712+07:00"
+    },
+    {
+      "id": "9e231edb2cfa655a7405fcd46d869351",
+      "title": "Di chuyển 1 que diêm để phép tính đúng",
+      "link": "https://vnexpress.net/di-chuyen-1-que-diem-de-phep-tinh-dung-4993149.html",
+      "summary": "Chỉ cần một chuyển động nhỏ, bạn sẽ biến một phép tính ngược đời thành một đáp án cực kỳ hợp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.549893+07:00"
+    },
+    {
+      "id": "cfaaa03fabd7e0b322a7ffc6d49f22ff",
+      "title": "Cấp sổ đỏ rồi thu hồi",
+      "link": "https://vnexpress.net/cap-so-do-roi-thu-hoi-4998502.html",
+      "summary": "Cách đây vài tháng, chị Lan ở ngoại thành Hà Nội nhận được tin vui: thửa đất 100 m² gia đình sử dụng từ năm 2010 cuối cùng cũng được xem xét cấp sổ đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.550055+07:00"
+    },
+    {
+      "id": "8c1eec34b6785697b9c126be13357290",
+      "title": "Nhiễm trùng mũi họng tạo ổ áp xe",
+      "link": "https://vnexpress.net/nhiem-trung-mui-hong-tao-o-ap-xe-4998619.html",
+      "summary": "Bà An, 67 tuổi, viêm xoang mạn tính, gần đây sốt cao, sưng cổ, há miệng khó, bác sĩ chẩn đoán áp xe vùng cổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.550220+07:00"
+    },
+    {
+      "id": "d4788ee3808f6c630675dd68ecc782fa",
+      "title": "FPT Shop đầu tư hệ thống lắp ráp PC E-Power chuẩn ISO",
+      "link": "https://vnexpress.net/fpt-shop-dau-tu-he-thong-lap-rap-pc-e-power-chuan-iso-4998587.html",
+      "summary": "FPT Shop được cấp chứng chỉ ISO 9001:2015 cho hoạt động lắp ráp PC E-Power tại kho tổng Long An, đánh dấu bước tiến trong chuẩn hóa quy trình quản lý chất lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.550377+07:00"
+    },
+    {
+      "id": "aaba6b61b676ed147448ca188a151236",
+      "title": "Ai nên hạn chế uống trà xanh?",
+      "link": "https://vnexpress.net/ai-nen-han-che-uong-tra-xanh-4998562.html",
+      "summary": "Phụ nữ mang thai, trẻ em và người mắc bệnh dạ dày hoặc thiếu máu nên hạn chế uống trà xanh để tránh ảnh hưởng đến sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:38.550538+07:00"
+    },
+    {
+      "id": "4a814a3357093e04f71b6ae5530e069d",
+      "title": "Cựu thứ trưởng chỉ đạo o ép doanh nghiệp, doanh nghiệp 'móc túi' khách hàng để hối lộ",
+      "link": "https://thanhnien.vn/cuu-thu-truong-chi-dao-o-ep-doanh-nghiep-doanh-nghiep-moc-tui-khach-hang-de-hoi-lo-185251226123219989.htm",
+      "summary": "Bị gây khó khăn, các doanh nghiệp 'móc túi' nhiều tỉ đồng từ người xuất khẩu lao động, để có tiền chi hối lộ cho cựu Thứ trưởng Bộ LĐ-TB-XH Nguyễn Bá Hoan và cấp dưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629422+07:00"
+    },
+    {
+      "id": "c5fadcb346494701d2106d3fddfe03a9",
+      "title": "Cánh đồng mía trổ hoa tím khiến nhiều người ngỡ ngàng: Chuyên gia nói gì?",
+      "link": "https://thanhnien.vn/canh-dong-mia-tro-hoa-tim-khien-nhieu-nguoi-ngo-ngang-chuyen-gia-noi-gi-185251226115453383.htm",
+      "summary": "Hình ảnh cánh đồng mía trổ hoa tím được chia sẻ rộng rãi trên mạng xã hội, nhiều người thắc mắc mía có ra hoa hay không và hiện tượng này xảy ra trong điều kiện nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T06:00:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629578+07:00"
+    },
+    {
+      "id": "f31fa34c472160c137ff3127be2745ff",
+      "title": "TP.HCM tổ chức 'countdown' chào năm mới 2026 tại phố đi bộ Nguyễn Huệ",
+      "link": "https://thanhnien.vn/tphcm-to-chuc-countdown-chao-nam-moi-2026-tai-pho-di-bo-nguyen-hue-18525122611594933.htm",
+      "summary": "TP.HCM dự kiến tổ chức sự kiện đếm ngược (countdown) chào năm mới 2026 tại phố đi bộ Nguyễn Huệ, nhằm tạo điểm nhấn dịp tết dương lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:58:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629749+07:00"
+    },
+    {
+      "id": "aed98fdbec276007aa74bb314f983d46",
+      "title": "Skoda cho khách lái thử toàn bộ dòng xe tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/skoda-cho-khach-lai-thu-toan-bo-dong-xe-tai-vietnam-mobility-show-2025-4998117.html",
+      "summary": "Khách tham quan có cơ hội trải nghiệm các dòng xe của thương hiệu đến từ CH Czech tại Vietnam Mobility Show 2025 ngày 26-28/12 tại VEC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:57:02+07:00",
+      "fetched": "2025-12-26T13:28:38.550729+07:00"
+    },
+    {
+      "id": "3ec7356cf3638e37c358589c4848debd",
+      "title": "Ông Kim Jong-un chỉ thị tăng sản xuất tên lửa, đạn pháo, thị sát đóng tàu ngầm",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-chi-thi-tang-san-xuat-ten-lua-dan-phao-thi-sat-dong-tau-ngam-185251226115634296.htm",
+      "summary": "Truyền thông nhà nước CHDCND Triều Tiên tiếp tục đưa tin về chuyến thị sát các cơ sở sản xuất tên lửa và đạn pháo của Chủ tịch Kim Jong-un, sau chuyến thăm xưởng đóng tàu ngầm hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:56:00+07:00",
+      "fetched": "2025-12-26T13:28:41.629902+07:00"
+    },
+    {
+      "id": "9bcebf14042275e19082443aee536126",
+      "title": "Ban Tuyên giáo và Dân vận Thành ủy TP.HCM phải đi trước mở đường",
+      "link": "https://thanhnien.vn/ban-tuyen-giao-va-dan-van-thanh-uy-tphcm-phai-di-truoc-mo-duong-185251226091612916.htm",
+      "summary": "Phó bí thư Thành ủy TP.HCM Văn Thị Bạch Tuyết yêu cầu công tác tuyên giáo và dân vận cần tiếp tục phát huy vai trò 'đi trước mở đường, đi cùng thực hiện, đi sau tổng kết' trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:52:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630056+07:00"
+    },
+    {
+      "id": "b5cde25176a91929b9e29601f0e6d384",
+      "title": "Nội các Nhật Bản thông qua ngân sách quốc phòng kỷ lục",
+      "link": "https://thanhnien.vn/noi-cac-nhat-ban-thong-qua-ngan-sach-quoc-phong-ky-luc-18525122612034681.htm",
+      "summary": "Nội các Nhật Bản vừa thông qua ngân sách quốc phòng kỷ lục cho năm 2026 giữa bối cảnh căng thẳng ở khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:51:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630208+07:00"
+    },
+    {
+      "id": "2a474667901abe152d124d00378b0661",
+      "title": "Phát hiện 5 mẫu cá khoai chứa formol trong các chợ ở Hà Tĩnh",
+      "link": "https://thanhnien.vn/phat-hien-5-mau-ca-khoai-chua-formol-trong-cac-cho-o-ha-tinh-185251226113346645.htm",
+      "summary": "Lực lượng chức năng tỉnh Hà Tĩnh phát hiện 5 mẫu cá khoai có chứa formol đang được bày bán tại các chợ trên địa bàn. Nguồn gốc của số cá này được xác định thu mua từ ngoại tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:51:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630370+07:00"
+    },
+    {
+      "id": "9ae5475c69e31487d2023214d420126f",
+      "title": "Vì sao SSD 'bốc hơi' dữ liệu nếu lâu ngày không sử dụng?",
+      "link": "https://thanhnien.vn/vi-sao-ssd-boc-hoi-du-lieu-neu-lau-ngay-khong-su-dung-185251224112134303.htm",
+      "summary": "SSD nhanh nhưng không bền bỉ trong việc lưu trữ dữ liệu lâu dài, vậy giải pháp là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:51:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630521+07:00"
+    },
+    {
+      "id": "fad681f92c84ca9db20404e5a298b36c",
+      "title": "Tổng thống Trump ra lệnh không kích Nigeria diệt mục tiêu IS",
+      "link": "https://thanhnien.vn/tong-thong-trump-ra-lenh-khong-kich-nigeria-diet-muc-tieu-is-185251226112330802.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 26.12 (giờ Việt Nam) thông báo đã chỉ đạo quân đội tấn công các thành viên tổ chức Nhà nước Hồi giáo tự xưng (IS) tại Nigeria.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:48:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630685+07:00"
+    },
+    {
+      "id": "ebf48ce950bbe20103400bb2f49ef902",
+      "title": "Bệnh viện Quân y 175 tiếp nhận ca bệnh bị dị vật kẹt trong tim hiếm gặp",
+      "link": "https://thanhnien.vn/benh-vien-quan-y-175-tiep-nhan-ca-benh-bi-di-vat-ket-trong-tim-hiem-gap-185251226122342609.htm",
+      "summary": "Lần đầu tiên ê kíp can thiệp tim mạch Bệnh viện Quân y 175 tiếp nhận một trường hợp mà dị vật di chuyển sâu trong tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:43:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630835+07:00"
+    },
+    {
+      "id": "b2392e83c6fd05721722be8c2942c039",
+      "title": "Đèo Bảo Lộc tê liệt sau tai nạn liên hoàn",
+      "link": "https://vnexpress.net/tai-nan-deo-bao-loc-4998618.html",
+      "summary": "Xe đầu kéo chở alumin đang đổ đèo Bảo Lộc, bất ngờ tông liên tiếp vào hai ôtô và một xe máy, khiến giao thông trên quốc lộ 20 ùn tắc nghiêm trọng, sáng 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:42:18+07:00",
+      "fetched": "2025-12-26T13:28:38.550902+07:00"
+    },
+    {
+      "id": "a2b808e375fda2e803432f8a83bf8559",
+      "title": "Trùm giang hồ Vi 'ngộ' lãnh án 6 tháng tù tội trốn thuế",
+      "link": "https://thanhnien.vn/trum-giang-ho-vi-ngo-lanh-an-6-thang-tu-toi-tron-thue-185251226113642036.htm",
+      "summary": "Trùm giang hồ Vi 'ngộ' ở Thanh Hóa đã bị tuyên phạt 6 tháng tù về tội trốn thuế khi mua nhà giá 13 tỉ đồng nhưng chỉ ghi trong hợp đồng mua bán 3,75 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:41:00+07:00",
+      "fetched": "2025-12-26T13:28:41.630985+07:00"
+    },
+    {
+      "id": "5e851f01d54c50b231a1486fbc225320",
+      "title": "Trường ĐH Luật TP.HCM dự kiến bỏ nhiều tổ hợp môn xét tuyển trong năm 2026",
+      "link": "https://thanhnien.vn/truong-dh-luat-tphcm-du-kien-bo-nhieu-to-hop-mon-xet-tuyen-trong-nam-2026-185251226112607004.htm",
+      "summary": "Năm 2026, Trường ĐH Luật TP.HCM dự kiến điều chỉnh hàng loạt tổ hợp môn xét tuyển, trong đó bỏ  A00, C00 và A01 trong xét tuyển ngành luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:41:00+07:00",
+      "fetched": "2025-12-26T13:28:41.631137+07:00"
+    },
+    {
+      "id": "412ba50d6d1d92ce4882a4c87d078007",
+      "title": "Kết nối yêu thương, nâng bước học sinh vùng cao Lâm Thượng",
+      "link": "https://thanhnien.vn/ket-noi-yeu-thuong-nang-buoc-hoc-sinh-vung-cao-lam-thuong-185251226103606219.htm",
+      "summary": "Chi đoàn Báo Thanh Niên tại Hà Nội phối hợp với Tỉnh đoàn Lào Cai, Đoàn xã Lâm Thượng (Lào Cai) tặng 5 sách điện tử và trao 60 suất quà, khuyến học cho học sinh nghèo vượt khó và có thành tích tốt trong học tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:37:00+07:00",
+      "fetched": "2025-12-26T13:28:41.631290+07:00"
+    },
+    {
+      "id": "81d1dcfd24c57a20b22d3f04071b104f",
+      "title": "Khách tấp nập đổ về triển lãm ôtô lớn nhất Việt Nam 2025",
+      "link": "https://vnexpress.net/khach-tap-nap-do-ve-trien-lam-oto-lon-nhat-viet-nam-2025-4998594.html",
+      "summary": "Sáng 26/12, rất đông khách tham quan đã có mặt từ sớm để tìm hiểu, lái thử xe tại Vietnam Mobility Show 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:32:03+07:00",
+      "fetched": "2025-12-26T13:28:38.551071+07:00"
+    },
+    {
+      "id": "2e12b78411e6cd80427a8a7d4dcd3bc2",
+      "title": "Nhiều mẫu cá khoai bán tại chợ ở Hà Tĩnh 'ngậm' formol",
+      "link": "https://vnexpress.net/nhieu-mau-ca-khoai-ban-tai-cho-o-ha-tinh-ngam-formol-4998603.html",
+      "summary": "Lực lượng chức năng tỉnh Hà Tĩnh kiểm tra dư lượng các chất độc hại trong động vật và thủy sản bán tại chợ, phát hiện 5 mẫu cá khoai, còn gọi cá cháo, có dư lượng formol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:30:27+07:00",
+      "fetched": "2025-12-26T13:28:38.551228+07:00"
+    },
+    {
+      "id": "4f757ef053135e694325e95c244e2469",
+      "title": "Bác sĩ đánh bệnh nhân vì bị chê thái độ",
+      "link": "https://vnexpress.net/bac-si-danh-benh-nhan-vi-bi-che-thai-do-4998604.html",
+      "summary": "Cảnh sát bang Himachal Pradesh vừa khởi tố bác sĩ nội trú Raghav Narula sau khi video đấm một bệnh nhân đang điều trị lan truyền trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:27:46+07:00",
+      "fetched": "2025-12-26T13:28:38.551387+07:00"
+    },
+    {
+      "id": "a1a0a1279d3a649e675df04e537c52f1",
+      "title": "Trùm giang hồ Vy 'Ngộ' bị tuyên 6 tháng tù",
+      "link": "https://vnexpress.net/trum-giang-ho-vy-ngo-bi-tuyen-6-thang-tu-4998611.html",
+      "summary": "Mua nhà 13 tỷ đồng nhưng khai giảm gần 4 lần giá trị, Nguyễn Văn Vy (Vy \"Ngộ\", trùm giang hồ) và vợ cùng bên bán bị cáo buộc đã trốn thuế 185 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:10:07+07:00",
+      "fetched": "2025-12-26T13:28:38.551547+07:00"
+    },
+    {
+      "id": "962bd3c7064c079bee2aedb486719ad6",
+      "title": "Gu mặc của vợ nghệ sĩ Việt Anh",
+      "link": "https://vnexpress.net/gu-mac-cua-vo-nghe-si-viet-anh-4998321.html",
+      "summary": "Chân Chân - bạn đời kém nghệ sĩ Việt Anh 38 tuổi - tạo sức hút với áo ôm, quây ngực, giúp tôn vóc dáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:04:19+07:00",
+      "fetched": "2025-12-26T13:28:38.551720+07:00"
+    },
+    {
+      "id": "8c2aba0bb763cbafb161776f4ba308eb",
+      "title": "Gần 60 xe buýt CNG ở TP HCM được thay thế bằng ôtô điện",
+      "link": "https://vnexpress.net/gan-60-xe-buyt-cng-o-tp-hcm-duoc-thay-the-bang-oto-dien-4998529.html",
+      "summary": "58 xe buýt sử dụng khí nén CNG hoạt động trên hai tuyến thuộc nhóm đông khách nhất TP HCM được thay bằng buýt điện VinFast EB 8, bắt đầu vận hành từ 27/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T05:01:36+07:00",
+      "fetched": "2025-12-26T13:28:38.551881+07:00"
+    },
+    {
+      "id": "af1a61f293f9c2554264dd42a287e9f1",
+      "title": "MUJI khai trương cửa hàng thứ 8 tại Hà Nội",
+      "link": "https://vnexpress.net/muji-khai-truong-cua-hang-thu-8-tai-ha-noi-4997854.html",
+      "summary": "MUJI Hanoi Centre rộng hơn 1.900 m2, mang đến không gian mua sắm phong phú với hàng trăm sản phẩm từ quần áo, đồ gia dụng đến thực phẩm tiện lợi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T05:00:00+07:00",
+      "fetched": "2025-12-26T13:28:45.654950+07:00"
+    },
+    {
+      "id": "2e10950fd03d674972be305475b53487",
+      "title": "Hôm nay đóng cổng bình chọn điện thoại chụp, quay concert",
+      "link": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-dien-thoai-chup-quay-concert-4998094.html",
+      "summary": "Số bình chọn thứ 10 của Sản phẩm tôi yêu 2025 có chủ đề Điện thoại chụp, quay concert được yêu thích nhất, sẽ đóng cuối ngày 26/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-26T05:00:00+07:00",
+      "fetched": "2025-12-26T13:28:47.467722+07:00"
+    },
+    {
+      "id": "ad36625bf3f35a37e2f31c154b544d7a",
+      "title": "Vì sao GDP tăng nhanh không khiến người Mỹ hào hứng?",
+      "link": "https://vnexpress.net/vi-sao-gdp-tang-nhanh-khong-khien-nguoi-my-hao-hung-4998421.html",
+      "summary": "Lo lắng về việc làm và giá cả leo thang khiến người Mỹ không mấy mặn mà trước thông tin trừu tượng như GDP tăng vọt trong quý III.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T04:54:24+07:00",
+      "fetched": "2025-12-26T13:28:45.653487+07:00"
+    },
+    {
+      "id": "c6c1a643d8703f16a5b9f9ef09ec8f5a",
+      "title": "Đình Bắc, Hoàng Đức tranh Quả Bóng Vàng Việt Nam hôm nay",
+      "link": "https://vnexpress.net/dinh-bac-hoang-duc-tranh-qua-bong-vang-viet-nam-hom-nay-4998595.html",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức hoặc tiền đạo Nguyễn Đình Bắc nhiều khả năng sẽ đoạt danh hiệu cá nhân cao quý nhất bóng đá Việt Nam - Quả Bóng Vàng - trong lễ trao giải tối nay, 26/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T04:43:31+07:00",
+      "fetched": "2025-12-26T13:28:48.437341+07:00"
+    },
+    {
+      "id": "bf9ff5ef3887c64692dc7354768fc1a3",
+      "title": "Lý do kế hoạch hòa bình 20 điểm của Ukraine khó chấm dứt chiến sự",
+      "link": "https://vnexpress.net/ly-do-ke-hoach-hoa-binh-20-diem-cua-ukraine-kho-cham-dut-chien-su-4998480.html",
+      "summary": "Ukraine nêu đề xuất 20 điểm để chấm dứt chiến sự, nhưng khả năng Nga chấp nhận là rất thấp, khi Moskva đang chiếm ưu thế trên chiến trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T04:37:21+07:00",
+      "fetched": "2025-12-26T13:28:44.128925+07:00"
     },
     {
       "id": "9bc4d10c6eea5b79346914ca46b8f7b8",
