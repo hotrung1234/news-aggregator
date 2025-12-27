@@ -1,7 +1,157 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T11:30:22.520190+07:00",
+  "lastUpdated": "2025-12-27T13:27:16.413860+07:00",
   "articles": [
+    {
+      "id": "332e4d1843bc9be60f4971c57fea4689",
+      "title": "Giải golf HTV Swing Cup 2025 có Hole in One ngay ngày thi đấu đầu tiên",
+      "link": "https://tuoitre.vn/giai-golf-htv-swing-cup-2025-co-hole-in-one-ngay-ngay-thi-dau-dau-tien-20251227101749409.htm",
+      "summary": "Giải golf HTV Swing Cup 2025 khởi đầu ấn tượng, khi ghi nhận Hole in One của golfer Vũ Lộc ngay trong ngày thi đấu đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936985+07:00",
+      "fetched": "2025-12-27T13:27:07.937103+07:00"
+    },
+    {
+      "id": "589a16de6c1ac060877cff4d7b35e73c",
+      "title": "Phường trung tâm Cần Thơ ra quân tháo dỡ công trình không phép",
+      "link": "https://tuoitre.vn/phuong-trung-tam-can-tho-ra-quan-thao-do-cong-trinh-khong-phep-20251227095616469.htm",
+      "summary": "Phường Tân An đặt mục tiêu đường thông hè thoáng, không để tái lấn chiếm sau khi ra quân lập lại trật tự xây dựng, vệ sinh môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936862+07:00",
+      "fetched": "2025-12-27T13:27:07.936974+07:00"
+    },
+    {
+      "id": "f163d2201db77ea2be33d399f73ffacd",
+      "title": "Dự Đại hội thi đua yêu nước mong gặp Madam Bình, chuyện những trái tim nhỏ với lòng yêu nước lớn",
+      "link": "https://tuoitre.vn/du-dai-hoi-thi-dua-yeu-nuoc-mong-gap-madam-binh-chuyen-nhung-trai-tim-nho-voi-long-yeu-nuoc-lon-20251227112220352.htm",
+      "summary": "Dự Đại hội thi đua yêu nước sáng 27-12 tại Hà Nội có nhiều tập thể, cá nhân tiêu biểu; các anh hùng, chiến sĩ thi đua, điển hình tiên tiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936737+07:00",
+      "fetched": "2025-12-27T13:27:07.936851+07:00"
+    },
+    {
+      "id": "691d29d88153d14190a763e6f086b09f",
+      "title": "Người cao tuổi tăng huyết áp có nguy cơ suy thận cao hơn",
+      "link": "https://tuoitre.vn/nguoi-cao-tuoi-tang-huyet-ap-co-nguy-co-suy-than-cao-hon-20251227103748003.htm",
+      "summary": "Tại Việt Nam, tăng huyết áp, đặc biệt là tăng huyết áp tâm thu, là nguyên nhân hàng đầu gây đột quỵ, chiếm 28,2% các trường hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936603+07:00",
+      "fetched": "2025-12-27T13:27:07.936725+07:00"
+    },
+    {
+      "id": "67dd6509a089e7ea602cb8dd77a0d428",
+      "title": "Ký ức lô tô mùa 3 có gì đặc biệt?",
+      "link": "https://tuoitre.vn/ky-uc-lo-to-mua-3-co-gi-dac-biet-20251227071257484.htm",
+      "summary": "Cuộc sống đời thường, lao động nghệ thuật tại các đoàn lô lô truyền thống ở các vùng đất khắp Việt Nam sẽ được tái hiện trong Ký ức lô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936479+07:00",
+      "fetched": "2025-12-27T13:27:07.936592+07:00"
+    },
+    {
+      "id": "68b55626b4d0e3a35ae043b9d172127b",
+      "title": "Ông Lê chế tạo máy cho nông dân được phong Anh hùng Lao động",
+      "link": "https://tuoitre.vn/ong-le-che-tao-may-cho-nong-dan-duoc-phong-anh-hung-lao-dong-20251227082125558.htm",
+      "summary": "'Các loại máy móc do tôi làm ra đều xuất phát từ những chuyến đi xuống đồng ruộng và hỏi nông dân cần gì, từ đó chế tạo những thiết bị phù hợp'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936351+07:00",
+      "fetched": "2025-12-27T13:27:07.936468+07:00"
+    },
+    {
+      "id": "759c899fea454734793ed035be745b10",
+      "title": "Ra mắt ứng dụng 'HĐND số TP.HCM'",
+      "link": "https://tuoitre.vn/ra-mat-ung-dung-hdnd-so-tp-hcm-2025122711365339.htm",
+      "summary": "Ngày 27-12, HĐND TP.HCM đã công bố nền tảng ứng dụng \"HĐND số TP.HCM\" và Cổng thông tin điện tử HĐND thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936209+07:00",
+      "fetched": "2025-12-27T13:27:07.936338+07:00"
+    },
+    {
+      "id": "f53ed78d7055360d563b16cc81916562",
+      "title": "Tết sớm cho công nhân vệ sinh TP.HCM",
+      "link": "https://tuoitre.vn/tet-som-cho-cong-nhan-ve-sinh-tp-hcm-20251227110111036.htm",
+      "summary": "Hơn 500 công nhân vệ sinh môi trường TP.HCM đã đón xuân sớm với chương trình \"Xây Tết 2026\" trong sáng 27-12, với hàng trăm phần quà Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.936083+07:00",
+      "fetched": "2025-12-27T13:27:07.936198+07:00"
+    },
+    {
+      "id": "8a28b153c35215ed62f8a2eb860da3a9",
+      "title": "Vướng ống cấp nước, dự án mở rộng 2,8km đường Thạnh Xuân 25 ở cửa ngõ Tây Bắc TP.HCM trễ hẹn",
+      "link": "https://tuoitre.vn/vuong-ong-cap-nuoc-du-an-mo-rong-2-8km-duong-thanh-xuan-25-o-cua-ngo-tay-bac-tp-hcm-tre-hen-20251226115259862.htm",
+      "summary": "Sau một năm khởi công, dự án mở rộng 2,8km đường Thạnh Xuân 25, TP.HCM chưa kịp về đích do vướng di dời ống cấp nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935958+07:00",
+      "fetched": "2025-12-27T13:27:07.936071+07:00"
+    },
+    {
+      "id": "15ae83ab1ea06106cc4aee0c9af8675c",
+      "title": "Thiết bị cầm tay giúp mẹ bầu tự siêu âm tại nhà",
+      "link": "https://tuoitre.vn/thiet-bi-cam-tay-giup-me-bau-tu-sieu-am-tai-nha-20251227093940845.htm",
+      "summary": "Cục Quản lý thực phẩm và dược phẩm Mỹ vừa phê duyệt một thiết bị siêu âm cầm tay do Israel phát triển, cho phép thai phụ tự siêu âm tại nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935829+07:00",
+      "fetched": "2025-12-27T13:27:07.935946+07:00"
+    },
+    {
+      "id": "39e93401d2d8f5d4ced2ed9aea764b03",
+      "title": "Cuối năm 2025, Đà Nẵng cấp phép 8 dự án trọng điểm, tổng vốn đầu tư 9.341 tỉ đồng",
+      "link": "https://tuoitre.vn/cuoi-nam-2025-da-nang-cap-phep-8-du-an-trong-diem-tong-von-dau-tu-9-341-ti-dong-2025122711143929.htm",
+      "summary": "Tháng 12-2025, Đà Nẵng sẽ thẩm định, cấp phép thêm 8 dự án trọng điểm với tổng vốn đầu tư 9.341 tỉ đồng. Đó là những dự án nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935701+07:00",
+      "fetched": "2025-12-27T13:27:07.935817+07:00"
+    },
+    {
+      "id": "907b26b8d160b3de4235e7b2b2e88c84",
+      "title": "Tai nạn liên hoàn hơn 50 xe trên cao tốc gần Tokyo, 10 xe cháy rụi, 27 người thương vong",
+      "link": "https://tuoitre.vn/tai-nan-lien-hoan-hon-50-xe-tren-cao-toc-gan-tokyo-10-xe-chay-rui-27-nguoi-thuong-vong-20251227115806943.htm",
+      "summary": "Một vụ tai nạn liên hoàn xảy ra tối 26-12 trên đường cao tốc Kan-etsu, tỉnh Gunma khiến một người chết và 26 người khác bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935569+07:00",
+      "fetched": "2025-12-27T13:27:07.935689+07:00"
+    },
+    {
+      "id": "17500c67a1a93699930a980cb88d5571",
+      "title": "Muốn được tính thu nhập tăng thêm, giáo viên phải ở trường đủ 8 tiết, ra ngoài phải xin giấy?",
+      "link": "https://tuoitre.vn/muon-duoc-tinh-thu-nhap-tang-them-giao-vien-phai-o-truong-du-8-tiet-ra-ngoai-phai-xin-giay-20251227105903839.htm",
+      "summary": "Giáo viên ở TP.HCM phản ánh phải có mặt ở trường đủ 8 tiết dù không có giờ dạy, muốn ra ngoài phải xin giấy có chữ ký hiệu trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935433+07:00",
+      "fetched": "2025-12-27T13:27:07.935557+07:00"
+    },
+    {
+      "id": "20b15746b98615653d08579bb211f968",
+      "title": "‘Thử thách giả nghèo’ của người giàu gây phẫn nộ tại Hàn Quốc",
+      "link": "https://tuoitre.vn/thu-thach-gia-ngheo-cua-nguoi-giau-gay-phan-no-tai-han-quoc-20251227101643596.htm",
+      "summary": "Nhiều người giàu có đăng hình sang chảnh nhưng cố tình chú thích 'nghèo không chịu nổi' khiến dân mạng Hàn sục sôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935271+07:00",
+      "fetched": "2025-12-27T13:27:07.935419+07:00"
+    },
+    {
+      "id": "f0e6ed4b2a72c8149b48460c3b022ba7",
+      "title": "G-DRAGON lập kỷ lục 'vô tiền khoáng hậu' tại Trung Quốc",
+      "link": "https://tuoitre.vn/g-dragon-lap-ky-luc-vo-tien-khoang-hau-tai-trung-quoc-20251227120501098.htm",
+      "summary": "Tại Tencent Music Year End Awards 2025 diễn ra ở Trung Quốc, G-DRAGON giành tổng cộng 15 giải thưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:27:07.935041+07:00",
+      "fetched": "2025-12-27T13:27:07.935255+07:00"
+    },
     {
       "id": "b3ba894134bd74252ae2946cfc2b109e",
       "title": "Nghiên cứu khoa học: Tắm vòi sen hay ngâm bồn sạch hơn?",
@@ -403,6 +553,356 @@ window.newsData_2025_12_27 = {
       "fetched": "2025-12-27T08:21:38.878638+07:00"
     },
     {
+      "id": "f097e0a33d5286991210e21666527024",
+      "title": "3 mẫu xe máy nhập khẩu giá cả trăm triệu đồng vừa cập bến Việt Nam",
+      "link": "https://thanhnien.vn/3-mau-xe-may-nhap-khau-gia-ca-tram-trieu-dong-vua-cap-ben-viet-nam-185251220161732494.htm",
+      "summary": "Hầu hết các mẫu xe máy nhập khẩu vừa gia nhập thị trường Việt Nam thuộc thương hiệu Honda, Yamaha được nhập về, phân phối số lượng giới hạn thông qua các cửa hàng không chính hãng chuyên kinh doanh mô tô xe máy tại các tỉnh miền Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:25:00+07:00",
+      "fetched": "2025-12-27T13:27:06.851469+07:00"
+    },
+    {
+      "id": "e39362ed85d88f630439a54dc140961f",
+      "title": "'Điểm mặt' loạt vi phạm tại dự án nhiệt điện Na Dương 2 và An Khánh",
+      "link": "https://thanhnien.vn/diem-mat-loat-vi-pham-tai-du-an-nhiet-dien-na-duong-2-va-an-khanh-185251227124213557.htm",
+      "summary": "Thanh tra Chính phủ chỉ ra hàng loạt vi phạm, kiến nghị xử lý nghiêm đối với dự án nhiệt điện An Khánh và nhiệt điện Na Dương 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:23:00+07:00",
+      "fetched": "2025-12-27T13:27:06.851642+07:00"
+    },
+    {
+      "id": "f904595864e79ca37add21167c51d4df",
+      "title": "Trưởng công an xã kể chuyện bơi 2 km vượt lũ dữ cứu người trong đêm",
+      "link": "https://thanhnien.vn/truong-cong-an-xa-ke-chuyen-boi-2-km-vuot-lu-du-cuu-nguoi-trong-dem-185251227121803286.htm",
+      "summary": "Trên sân khấu tại Đại hội Thi đua yêu nước toàn quốc lần thứ 11, thượng tá Lê Văn Thọ, Trưởng công an xã Diên Khánh (Khánh Hòa), đã kể lại thời khắc bơi 2 km trong đêm, vượt lũ dữ để cứu người dân mắc kẹt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:18:00+07:00",
+      "fetched": "2025-12-27T13:27:06.851804+07:00"
+    },
+    {
+      "id": "9c4a22e703c482beeaeeae2d142c531a",
+      "title": "U.23 Thái Lan gặp khó tại VCK châu Á, thiếu hẳn ‘vua đá phạt’ từng làm bó tay Trung Kiên",
+      "link": "https://thanhnien.vn/u23-thai-lan-gap-kho-tai-vck-chau-a-thieu-han-vua-da-phat-tung-lam-bo-tay-trung-kien-185251227124034925.htm",
+      "summary": "U.23 Thái Lan đang đối mặt với khó khăn về mặt nhân sự cũng như lịch trình chuẩn bị gấp gáp trước thềm VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:02:00+07:00",
+      "fetched": "2025-12-27T13:27:06.851960+07:00"
+    },
+    {
+      "id": "6505825db68a056f411b209ac1fc762e",
+      "title": "Đổi pin, chất thải rắn nguy hại lấy quà: Cách làm nhỏ vì môi trường ở TP.HCM",
+      "link": "https://thanhnien.vn/doi-pin-chat-thai-ran-nguy-hai-lay-qua-cach-lam-nho-vi-moi-truong-o-tphcm-185251227123312583.htm",
+      "summary": "Sáng 27.12, người dân ở phường Dĩ An (TP.HCM) mang pin, chất thải rắn sinh hoạt nguy hại đến phường đổi lấy quà. Chương trình do UBND phường tổ chức nhằm nâng cao ý thức phân loại rác và bảo vệ môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:00:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852113+07:00"
+    },
+    {
+      "id": "97e4a1b5c1d748edb85648c9a950c94c",
+      "title": "Tuyển sinh 2026: Thêm một trường ĐH dự kiến mở ngành y khoa",
+      "link": "https://thanhnien.vn/tuyen-sinh-2026-them-mot-truong-dh-du-kien-mo-nganh-y-khoa-185251227121640418.htm",
+      "summary": "Một trường ĐH tại TP.HCM vừa công bố chỉ tiêu, phương thức xét tuyển, tổ hợp xét tuyển dự kiến của năm 2026 với tổng chỉ tiêu 10.000. Đặc biệt, trường này dự kiến mở ngành y khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:00:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852273+07:00"
+    },
+    {
+      "id": "99a3f7c2cc2063ae24cf2c649e1d8523",
+      "title": "Ông Hoàng Minh Tuấn làm Chủ tịch Hội Cựu chiến binh cơ quan T.Ư Đoàn",
+      "link": "https://thanhnien.vn/ong-hoang-minh-tuan-lam-chu-tich-hoi-cuu-chien-binh-co-quan-tu-doan-185251227123708941.htm",
+      "summary": "T.Ư Hội Cựu chiến binh Việt Nam chỉ định ông Hoàng Minh Tuấn, Phó giám đốc phụ trách Học viện Thanh thiếu niên Việt Nam, làm Chủ tịch Hội Cựu chiến binh cơ quan T.Ư Đoàn khóa IV, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:59:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852446+07:00"
+    },
+    {
+      "id": "e02026078d56d62d756f8fb5dcfff47c",
+      "title": "Thủ tướng phát động phong trào Thi đua yêu nước giai đoạn 2026 - 2030",
+      "link": "https://thanhnien.vn/thu-tuong-phat-dong-phong-trao-thi-dua-yeu-nuoc-giai-doan-2026-2030-185251227120819458.htm",
+      "summary": "Mục tiêu xuyên suốt của phong trào Thi đua yêu nước giai đoạn 2026 - 2030 là vì nền độc lập, tự do của Tổ quốc; vì sự phát triển nhanh và bền vững của đất nước; vì cuộc sống ấm no, hạnh phúc của nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:50:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852625+07:00"
+    },
+    {
+      "id": "dce93a55e75035376fa437c8c26a7841",
+      "title": "Những vấn đề nóng của giáo dục được quan tâm trong năm 2025",
+      "link": "https://thanhnien.vn/nhung-van-de-nong-cua-giao-duc-duoc-quan-tam-trong-nam-2025-18525121615154444.htm",
+      "summary": "Năm 2025 sắp kết thúc, nhiều vấn đề giáo dục nổi bật trong năm qua, thu hút nhiều bình luận từ bạn đọc Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:43:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852790+07:00"
+    },
+    {
+      "id": "8f80794ece09d7b124c9e8e3cfe6fd90",
+      "title": "Niềm tin lập nên chiến tích tại Tây Á",
+      "link": "https://thanhnien.vn/niem-tin-lap-nen-chien-tich-tai-tay-a-185251226234537087.htm",
+      "summary": "Sau thành công ở SEA Games, đội tuyển U.23 VN sẽ chinh phục đấu trường lớn hơn - VCK U.23 châu Á 2026 với niềm tin chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:40:00+07:00",
+      "fetched": "2025-12-27T13:27:06.852941+07:00"
+    },
+    {
+      "id": "7d011a73ad483ef57443133dcd6c8e5c",
+      "title": "Vụ cháy nhà 4 người tử vong ở Đắk Lắk: Tình hình sức khỏe cháu bé được cứu",
+      "link": "https://thanhnien.vn/vu-chay-nha-4-nguoi-tu-vong-o-dak-lak-tinh-hinh-suc-khoe-chau-be-duoc-cuu-18525122712332715.htm",
+      "summary": "Vụ cháy nhà xảy ra trong đêm ở Đắk Lắk đã cướp đi sinh mạng của 4 người trong một gia đình, may mắn 1 cháu bé được cứu sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:38:00+07:00",
+      "fetched": "2025-12-27T13:27:06.853090+07:00"
+    },
+    {
+      "id": "cbf78de4f0dfa610dcc192a0b03926b3",
+      "title": "Thi đua yêu nước để mọi người sống tốt lên, sống đẹp hơn, nghĩa tình hơn",
+      "link": "https://thanhnien.vn/thi-dua-yeu-nuoc-de-moi-nguoi-song-tot-len-song-dep-hon-nghia-tinh-hon-185251227113705917.htm",
+      "summary": "Tổ chức thi đua yêu nước để làm cho mỗi cá nhân, mỗi tập thể, tất cả mọi người sống tốt lên, sống đẹp hơn, nghĩa tình hơn, nhân văn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:38:00+07:00",
+      "fetched": "2025-12-27T13:27:06.853238+07:00"
+    },
+    {
+      "id": "d7d232941f9302692994bddc58a70446",
+      "title": "Phát hiện mới về Thiên Vương tinh và Hải vương tinh",
+      "link": "https://thanhnien.vn/phat-hien-moi-ve-thien-vuong-tinh-va-hai-vuong-tinh-185251227110523078.htm",
+      "summary": "Mô hình máy tính mới cho thấy lõi của Thiên Vương tinh và Hải vương tinh có lẽ ít băng và nhiều đá hơn là biệt danh 'khổng lồ băng' vẫn biết lâu nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:33:00+07:00",
+      "fetched": "2025-12-27T13:27:06.853406+07:00"
+    },
+    {
+      "id": "f1705ac239aa533e06a6c779ab56381d",
+      "title": "Các gia đình đổ về Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/cac-gia-dinh-do-ve-vietnam-mobility-show-2025-4998956.html",
+      "summary": "Từ rất sớm, không khí sôi động đã phủ kín các khu vui chơi và khu trưng bày của các hãng xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:31:53+07:00",
+      "fetched": "2025-12-27T13:27:03.118691+07:00"
+    },
+    {
+      "id": "08c83dd930f18c90af61a0979c0adbee",
+      "title": "Nhiều người không biết có bao nhiêu con rùa, còn bạn?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-nhieu-nguoi-khong-biet-co-bao-nhieu-con-rua-con-ban-4997397.html",
+      "summary": "Đây không chỉ là trò chơi đếm số bình thường, mà còn là bài test độ tập trung và sự tinh mắt cực mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:30:00+07:00",
+      "fetched": "2025-12-27T13:27:03.118880+07:00"
+    },
+    {
+      "id": "2ca069f186d7663caabcc118ff7484b1",
+      "title": "Lô tôm hùm sống trị giá 400.000 USD 'biến mất' trên đường giao đến siêu thị",
+      "link": "https://thanhnien.vn/lo-tom-hum-song-tri-gia-400000-usd-bien-mat-tren-duong-giao-den-sieu-thi-185251227095737399.htm",
+      "summary": "Cơ quan chức năng tại Mỹ đang tiến hành điều tra vụ trộm lô hàng tôm hùm sống đang giao đến chuỗi siêu thị Costco, trong bối cảnh xảy ra nhiều vụ trộm cắp hàng hóa gây thiệt hại lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:29:00+07:00",
+      "fetched": "2025-12-27T13:27:06.853562+07:00"
+    },
+    {
+      "id": "7697be7f1e30c93c1cadbc2233eecab3",
+      "title": "TP.HCM: Xe máy công nghệ va chạm xe khách, cụ bà 75 tuổi tử vong",
+      "link": "https://thanhnien.vn/tphcm-xe-may-cong-nghe-va-cham-xe-khach-cu-ba-75-tuoi-tu-vong-185251227114445905.htm",
+      "summary": "Tai nạn giao thông nghiêm trọng giữa xe máy công nghệ và xe khách 29 chỗ xảy ra trên đường Nguyễn Tất Thành, khu vực chân cầu Tân Thuận 2 (TP.HCM), khiến một cụ bà 75 tuổi tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:28:00+07:00",
+      "fetched": "2025-12-27T13:27:06.853712+07:00"
+    },
+    {
+      "id": "71b559a54997daf57856d790bf82f8ff",
+      "title": "Hiện trường vụ lật xe chở đoàn thiện nguyện tại Lào Cai",
+      "link": "https://vnexpress.net/hien-truong-vu-lat-xe-cho-doan-thien-nguyen-tai-lao-cai-4998981.html",
+      "summary": "Chiếc xe chở 18 hành khách bị lật ở xã Phình Hồ sáng 27/12, biến dạng hoàn toàn, khoang hành khách hư hỏng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:25:34+07:00",
+      "fetched": "2025-12-27T13:27:03.119050+07:00"
+    },
+    {
+      "id": "62dae8c3b31a29053ada66746182143c",
+      "title": "Nga tập kích quy mô lớn Kiev bằng 'tên lửa Kinzhal, Iskander'",
+      "link": "https://vnexpress.net/nga-tap-kich-quy-mo-lon-kiev-bang-ten-lua-kinzhal-iskander-4998926.html",
+      "summary": "Truyền thông Ukraine nói thủ đô Kiev bị Nga tập kích tên lửa quy mô lớn, được cho là có dòng Kinzhal, Iskander và Kalibr, gây ra nhiều vụ nổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:14:27+07:00",
+      "fetched": "2025-12-27T13:27:03.119212+07:00"
+    },
+    {
+      "id": "62dae8c3b31a29053ada66746182143c",
+      "title": "Nga tập kích quy mô lớn Kiev bằng 'tên lửa Kinzhal, Iskander'",
+      "link": "https://vnexpress.net/nga-tap-kich-quy-mo-lon-kiev-bang-ten-lua-kinzhal-iskander-4998926.html",
+      "summary": "Truyền thông Ukraine nói thủ đô Kiev bị Nga tập kích tên lửa quy mô lớn, được cho là có dòng Kinzhal, Iskander và Kalibr, gây ra nhiều vụ nổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T05:14:27+07:00",
+      "fetched": "2025-12-27T13:27:09.890621+07:00"
+    },
+    {
+      "id": "e3ba8eb7cdfb21321af035f02be86b4c",
+      "title": "Mức sinh tại TP HCM tăng",
+      "link": "https://vnexpress.net/muc-sinh-tai-tp-hcm-tang-4998887.html",
+      "summary": "Chi cục Dân số TP HCM ghi nhận mức sinh của thành phố năm 2025 tăng nhẹ, trung bình một phụ nữ tuổi sinh đẻ có 1,51 con trong khi năm ngoái 1,45.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:06:54+07:00",
+      "fetched": "2025-12-27T13:27:03.119434+07:00"
+    },
+    {
+      "id": "a95b3357b99b3cf30d55bbe23796ec62",
+      "title": "Cựu lãnh đạo Ban quản lý dự án ở Đăk Lăk nhận 'lót tay' hơn 11 tỷ đồng",
+      "link": "https://vnexpress.net/cuu-lanh-dao-ban-quan-ly-du-an-o-dak-lak-nhan-lot-tay-hon-11-ty-dong-4998952.html",
+      "summary": "Ông Phạm Văn Hạ, cựu Giám đốc Ban Quản lý dự án, cùng cấp phó bị cáo buộc nhận hơn 11 tỷ đồng để thông thầu dự án đường tránh phía Đông TP Buôn Ma Thuột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:03:54+07:00",
+      "fetched": "2025-12-27T13:27:03.119605+07:00"
+    },
+    {
+      "id": "691ac90e3c5d5d360f2da0266f14ec35",
+      "title": "Nỗi lo lá chắn thép trên 'nấm mồ hạt nhân' Chernobyl sụp đổ",
+      "link": "https://vnexpress.net/noi-lo-la-chan-thep-tren-nam-mo-hat-nhan-chernobyl-sup-do-4998567.html",
+      "summary": "Lá chắn thép 36.000 tấn bao phủ nhà máy điện hạt nhân Chernobyl là lớp bảo vệ không thể thiếu với cơ sở này, song nó đang chịu vô vàn rủi ro vì xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:55+07:00",
+      "fetched": "2025-12-27T13:27:03.119762+07:00"
+    },
+    {
+      "id": "691ac90e3c5d5d360f2da0266f14ec35",
+      "title": "Nỗi lo lá chắn thép trên 'nấm mồ hạt nhân' Chernobyl sụp đổ",
+      "link": "https://vnexpress.net/noi-lo-la-chan-thep-tren-nam-mo-hat-nhan-chernobyl-sup-do-4998567.html",
+      "summary": "Lá chắn thép 36.000 tấn bao phủ nhà máy điện hạt nhân Chernobyl là lớp bảo vệ không thể thiếu với cơ sở này, song nó đang chịu vô vàn rủi ro vì xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T05:00:55+07:00",
+      "fetched": "2025-12-27T13:27:09.890797+07:00"
+    },
+    {
+      "id": "5fbe7810b4b07d7665a649d26b1bd6a7",
+      "title": "Đã lỗ 100 triệu đồng nhưng chồng vẫn quyết ôm 'coin' chờ tăng lại",
+      "link": "https://vnexpress.net/da-lo-100-trieu-dong-nhung-chong-van-quyet-om-coin-cho-tang-lai-4998871.html",
+      "summary": "Ngày cuối năm, chồng khoe sắp tới được nhận lương tháng 13, mà cuối câu chuyện tôi to tiếng với chồng vì chuyện tiền bạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.119919+07:00"
+    },
+    {
+      "id": "a7e9fd0310970a28dc4c47d34e942a82",
+      "title": "Galaxy S25 Ultra đoạt giải điện thoại chụp, quay concert được yêu thích",
+      "link": "https://vnexpress.net/galaxy-s25-ultra-doat-giai-dien-thoai-chup-quay-concert-duoc-yeu-thich-4998614.html",
+      "summary": "Khả năng chụp ảnh tele cùng thuật toán khử nhiễu giúp Samsung Galaxy S25 Ultra giành chiến thắng ở số bình chọn thứ 10 của Sản phẩm tôi yêu 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.120074+07:00"
+    },
+    {
+      "id": "37c5cef086e9b16f556b2b20b6b343e5",
+      "title": "Chủ tịch tập đoàn Phú Cường nhận danh hiệu Anh hùng Lao động",
+      "link": "https://vnexpress.net/chu-tich-tap-doan-phu-cuong-nhan-danh-hieu-anh-hung-lao-dong-4998970.html",
+      "summary": "Ông Nguyễn Việt Cường, Chủ tịch tập đoàn Phú Cường được trao tặng danh hiệu Anh hùng Lao động tại sự kiện ngày 27/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.120229+07:00"
+    },
+    {
+      "id": "3d242c896e1244456d35d822a5da4c61",
+      "title": "Ù tai có phải bệnh không?",
+      "link": "https://vnexpress.net/u-tai-co-phai-benh-khong-4998943.html",
+      "summary": "Tôi hay bị ù tai một hoặc cả hai bên, nhất là sau khi nghe âm thanh lớn. Ù tai có phải bệnh không, điều trị ra sao? (Linh Lan, 24 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.120409+07:00"
+    },
+    {
+      "id": "27b09c385964fc819cc98a9cad29a53a",
+      "title": "Điều trị sẹo lồi ở ngực như thế nào?",
+      "link": "https://vnexpress.net/dieu-tri-seo-loi-o-nguc-nhu-the-nao-4998905.html",
+      "summary": "Tôi bị sẹo lồi vết mổ ở ngực đã 5 năm, bề mặt gồ cao và hơi ngứa. Tình trạng này có thể điều trị bằng phương pháp nào? (Gia Phú, 36 tuổi, Vĩnh Long)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.120569+07:00"
+    },
+    {
+      "id": "df826af246d9ee6172f7808b86ab64c1",
+      "title": "Thử nghiệm camera AI phát hiện container rơi khỏi tàu",
+      "link": "https://vnexpress.net/thu-nghiem-camera-ai-phat-hien-container-roi-khoi-tau-4997152.html",
+      "summary": "Hệ thống sử dụng camera trên tàu, tự động phát hiện và báo cáo container rơi xuống biển, đáp ứng quy định bắt buộc của Tổ chức Hàng hải Quốc tế (IMO) từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:03.120734+07:00"
+    },
+    {
+      "id": "37c5cef086e9b16f556b2b20b6b343e5",
+      "title": "Chủ tịch tập đoàn Phú Cường nhận danh hiệu Anh hùng Lao động",
+      "link": "https://vnexpress.net/chu-tich-tap-doan-phu-cuong-nhan-danh-hieu-anh-hung-lao-dong-4998970.html",
+      "summary": "Ông Nguyễn Việt Cường, Chủ tịch tập đoàn Phú Cường được trao tặng danh hiệu Anh hùng Lao động tại sự kiện ngày 27/12.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:11.053996+07:00"
+    },
+    {
+      "id": "a7e9fd0310970a28dc4c47d34e942a82",
+      "title": "Galaxy S25 Ultra đoạt giải điện thoại chụp, quay concert được yêu thích",
+      "link": "https://vnexpress.net/galaxy-s25-ultra-doat-giai-dien-thoai-chup-quay-concert-duoc-yeu-thich-4998614.html",
+      "summary": "Khả năng chụp ảnh tele cùng thuật toán khử nhiễu giúp Samsung Galaxy S25 Ultra giành chiến thắng ở số bình chọn thứ 10 của Sản phẩm tôi yêu 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T05:00:00+07:00",
+      "fetched": "2025-12-27T13:27:14.104758+07:00"
+    },
+    {
+      "id": "66b2360887edd67afcbd4ad213045857",
+      "title": "7 tập thể Quân đội, Công an nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân",
+      "link": "https://vnexpress.net/7-tap-the-quan-doi-cong-an-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-4998959.html",
+      "summary": "Sáng 27/12, danh hiệu Anh hùng Lực lượng vũ trang nhân dân thời kỳ đổi mới được trao cho 7 tập thể thuộc Quân đội và Công an, tại Đại hội Thi đua yêu nước toàn quốc lần thứ 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T04:56:09+07:00",
+      "fetched": "2025-12-27T13:27:03.120895+07:00"
+    },
+    {
+      "id": "3ee8b931575e72c24073cf909cb0c392",
+      "title": "Hàng trăm khách tự pha chế nước hoa ôtô tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/hang-tram-khach-tu-pha-che-nuoc-hoa-oto-tai-vietnam-mobility-show-2025-4998965.html",
+      "summary": "Hoạt động sáng tạo mùi hương tại Vietnam Mobility Show 2025 giúp khách tham quan cá nhân hóa và trải nghiệm hương thơm trên các mẫu xe trưng bày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T04:55:13+07:00",
+      "fetched": "2025-12-27T13:27:03.121048+07:00"
+    },
+    {
+      "id": "f9da595741248f355f5a1e9876300c63",
+      "title": "Kỹ sư quân đội vượt khó chế tạo tên lửa, UAV",
+      "link": "https://vnexpress.net/ky-su-quan-doi-vuot-kho-che-tao-ten-lua-uav-4998935.html",
+      "summary": "Dù yêu cầu kỹ thuật phức tạp, thời gian bị rút ngắn một nửa, các kỹ sư quân đội vẫn hoàn thành loạt sản phẩm công nghệ quốc phòng, trong đó có tên lửa, UAV, được đưa vào trang bị thực tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T04:32:27+07:00",
+      "fetched": "2025-12-27T13:27:14.104412+07:00"
+    },
+    {
       "id": "07114349fe4fb87917617ec407d047ff",
       "title": "Những đám cưới không giống ai năm 2025: Khi niềm vui đến từ những điều rất khác",
       "link": "https://thanhnien.vn/nhung-dam-cuoi-khong-giong-ai-nam-2025-khi-niem-vui-den-tu-nhung-dieu-rat-khac-185251224131131074.htm",
@@ -481,6 +981,16 @@ window.newsData_2025_12_27 = {
       "category": "Thế giới",
       "published": "2025-12-27T04:07:30+07:00",
       "fetched": "2025-12-27T11:30:14.745856+07:00"
+    },
+    {
+      "id": "96973fc67d3a64049617eb42e3eb324d",
+      "title": "Campuchia - Thái Lan đồng ý ngừng bắn",
+      "link": "https://vnexpress.net/campuchia-thai-lan-dong-y-ngung-ban-4998939.html",
+      "summary": "Bộ Quốc phòng Campuchia thông báo Phnom Penh và Bangkok hôm nay đã ký thỏa thuận chấm dứt giao tranh, nối lại thực thi toàn diện lệnh ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T04:07:30+07:00",
+      "fetched": "2025-12-27T13:27:09.891135+07:00"
     },
     {
       "id": "e8ae59b7751f7dab111fd5fcab3e685a",
