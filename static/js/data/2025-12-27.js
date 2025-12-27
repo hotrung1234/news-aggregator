@@ -1,7 +1,107 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T05:17:56.999798+07:00",
+  "lastUpdated": "2025-12-27T08:21:46.916415+07:00",
   "articles": [
+    {
+      "id": "db15f96ec97d7e37030679948491010e",
+      "title": "Thời tiết hôm nay 27-12: Bắc Bộ rét 9 độ C; Nam Bộ sáng se lạnh, ngày nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-12-bac-bo-ret-9-do-c-nam-bo-sang-se-lanh-ngay-nang-20251226165521894.htm",
+      "summary": "Hôm nay 27-12, không khí lạnh bao trùm Bắc Bộ khiến thời tiết rét, sương mù. Nam Bộ sáng se lạnh, ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879725+07:00",
+      "fetched": "2025-12-27T08:21:38.879841+07:00"
+    },
+    {
+      "id": "71881d6ba6b21d77af6a1cf620f85bca",
+      "title": "Tuyển sinh 2026: Nhiều trường ngưng tuyển khối A, C",
+      "link": "https://tuoitre.vn/tuyen-sinh-2026-nhieu-truong-ngung-tuyen-khoi-a-c-2025122623061533.htm",
+      "summary": "Năm 2026, nhiều trường ĐH không còn tuyển khối A, C. Đây là khối xét tuyển truyền thống hàng chục năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879599+07:00",
+      "fetched": "2025-12-27T08:21:38.879710+07:00"
+    },
+    {
+      "id": "5132ac3fa84041f6fb04be14a596a0c2",
+      "title": "Tin tức sáng 27-12: Khai mạc Đại hội thi đua yêu nước, bà Nguyễn Thị Bình là đại biểu cao tuổi nhất",
+      "link": "https://tuoitre.vn/tin-tuc-sang-27-12-khai-mac-dai-hoi-thi-dua-yeu-nuoc-ba-nguyen-thi-binh-la-dai-bieu-cao-tuoi-nhat-20251226231217489.htm",
+      "summary": "Tin tức đáng chú ý: Sáng nay khai mạc Đại hội thi đua yêu nước lần thứ XI, nguyên Phó chủ tịch nước Nguyễn Thị Bình là đại biểu cao tuổi nhất; Còn 5.488 nhà, đất công dôi dư; Trung bình người Việt có 8-9 năm sống với bệnh tật, suy giảm chức năng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879473+07:00",
+      "fetched": "2025-12-27T08:21:38.879587+07:00"
+    },
+    {
+      "id": "7297b721ce119bbc51764715f7cca01d",
+      "title": "Trung Quốc điều chỉnh vụ chấm điểm công dân",
+      "link": "https://tuoitre.vn/trung-quoc-dieu-chinh-vu-cham-diem-cong-dan-20251226231302506.htm",
+      "summary": "Nhiều năm qua, tranh luận quốc tế về hệ thống tín nhiệm xã hội của Trung Quốc (SCS) thường xoay quanh việc nước này có \"chấm điểm công dân\" hay không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879343+07:00",
+      "fetched": "2025-12-27T08:21:38.879461+07:00"
+    },
+    {
+      "id": "dd243621f2d29c0e8ce59787a88113ed",
+      "title": "VĐV Khánh Phong: 'Khó khăn lớn nhất của tôi ở SEA Games là không có ba'",
+      "link": "https://tuoitre.vn/vdv-khanh-phong-kho-khan-lon-nhat-cua-toi-o-sea-games-la-khong-co-ba-20251226232000782.htm",
+      "summary": "Dù đã giành nhiều huy chương SEA Games và quốc tế, nhưng Nguyễn Văn Khánh Phong vẫn chưa quen với việc thi đấu mà thiếu bóng dáng của ba bên cạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879202+07:00",
+      "fetched": "2025-12-27T08:21:38.879330+07:00"
+    },
+    {
+      "id": "01f94a10b32933df7b6dfc39064bb373",
+      "title": "Tin tức thế giới 27-12: Ông Kim chúc năm mới ông Putin; Somaliland là nước nào mà Israel công nhận?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-27-12-ong-kim-chuc-nam-moi-ong-putin-somaliland-la-nuoc-nao-ma-israel-cong-nhan-20251227060340034.htm",
+      "summary": "Ông Kim Jong Un gọi quan hệ Triều Tiên - Nga là tài sản quý giá; Nga cáo buộc Ukraine phá hoại đàm phán hòa bình do Mỹ làm trung gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.879071+07:00",
+      "fetched": "2025-12-27T08:21:38.879190+07:00"
+    },
+    {
+      "id": "1cbcaf65ae5d7da6e860eaf0e7df415b",
+      "title": "Thái Lan triệu tập đội hình 'yếu hơn' SEA Games 33 dự Giải U23 châu Á",
+      "link": "https://tuoitre.vn/thai-lan-trieu-tap-doi-hinh-yeu-hon-sea-games-33-du-giai-u23-chau-a-2025122706055268.htm",
+      "summary": "HLV tuyển U23 Thái Lan Thawatchai Damrong-Ongtrakul đã công bố danh sách triệu tập 23 cầu thủ dự Giải U23 châu Á 2026 tại Saudi Arabia khởi tranh ngày 6-1 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.878936+07:00",
+      "fetched": "2025-12-27T08:21:38.879055+07:00"
+    },
+    {
+      "id": "8d6b5a5adc08f0a05e160ef4a9fa028f",
+      "title": "Man United đánh bại Newcastle nhờ bài ném biên",
+      "link": "https://tuoitre.vn/man-united-danh-bai-newcastle-nho-bai-nem-bien-20251227053722636.htm",
+      "summary": "Rạng sáng 27-12, Man United đánh bại Newcastle 1-0 ở trận đấu sớm vòng 18 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.878796+07:00",
+      "fetched": "2025-12-27T08:21:38.878924+07:00"
+    },
+    {
+      "id": "bef8d8be7fe43bee70815b5eb785ab5b",
+      "title": "Soobin và gần 20 nghệ sĩ tham vọng mang concert Việt ra thế giới vào năm 2026",
+      "link": "https://tuoitre.vn/soobin-va-gan-20-nghe-si-tham-vong-mang-concert-viet-ra-the-gioi-vao-nam-2026-20251227062423996.htm",
+      "summary": "Soobin, Touliver, Binz, Rhymastic... công bố dự án KOSMIK Concert 2026, với tham vọng đưa âm nhạc Việt vươn ra thị trường quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.878653+07:00",
+      "fetched": "2025-12-27T08:21:38.878783+07:00"
+    },
+    {
+      "id": "5ba7a429f3007ca7052ed374ac4522fc",
+      "title": "10 sự kiện văn hóa, thể thao và du lịch tiêu biểu năm 2025 có gì?",
+      "link": "https://tuoitre.vn/10-su-kien-van-hoa-the-thao-va-du-lich-tieu-bieu-nam-2025-co-gi-20251226234554211.htm",
+      "summary": "Tối 26-12, Bộ Văn hóa, Thể thao và Du lịch đã công bố 10 sự kiện văn hóa, thể thao và du lịch tiêu biểu năm 2025, trong đó sự kiện văn hóa chiếm đa số; lĩnh vực thể thao, du lịch, báo chí mỗi lĩnh vực góp một sự kiện tiêu biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:21:38.878432+07:00",
+      "fetched": "2025-12-27T08:21:38.878638+07:00"
+    },
     {
       "id": "23474d3a3093b21f926234a2ae38a228",
       "title": "Sau 11 năm, sản lượng khai thác dầu khí tăng trưởng trở lại",
@@ -151,6 +251,426 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T01:26:17.221569+07:00",
       "fetched": "2025-12-27T01:26:17.221786+07:00"
+    },
+    {
+      "id": "7c729ea21aa15538b2b3a84997a45f5b",
+      "title": "Mỹ hủy hơn 1.800 chuyến bay do bão tuyết Devin",
+      "link": "https://thanhnien.vn/my-huy-hon-1800-chuyen-bay-do-bao-tuyet-devin-185251227075058817.htm",
+      "summary": "Các hãng hàng không tại Mỹ đã phải hoãn và hủy hàng ngàn chuyến bay trong ngày 26.12, do ảnh hưởng của bão tuyết Devin xảy ra vào dịp cao điểm đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:09:00+07:00",
+      "fetched": "2025-12-27T08:21:37.690573+07:00"
+    },
+    {
+      "id": "0d8c198afd76035e37375b7ec5ff902a",
+      "title": "Vinpearl có tổng giám đốc mới",
+      "link": "https://vnexpress.net/vinpearl-co-tong-giam-doc-moi-4998842.html",
+      "summary": "Bà Ngô Thị Hương được Vinpearl bổ nhiệm từ ngày 26/12, thay cho ông Đặng Thanh Thủy xin từ nhiệm một ngày trước đó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-27T01:08:50+07:00",
+      "fetched": "2025-12-27T08:21:42.102549+07:00"
+    },
+    {
+      "id": "3330378cb91e9043ed5fc67986f046a9",
+      "title": "Giá Bitcoin hôm nay 27.12.2025: Không có tín hiệu phục hồi",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-27122025-khong-co-tin-hieu-phuc-hoi-185251227070208769.htm",
+      "summary": "Giá Bitcoin hôm nay gần như không biến động nhiều so với hôm qua, mỗi Bitcoin (BTC) được giao dịch quanh mốc 87.000 USD và chưa có tín hiệu phục hồi rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:08:00+07:00",
+      "fetched": "2025-12-27T08:21:37.690725+07:00"
+    },
+    {
+      "id": "e53e1275dbdf9f845e90f2305c54198f",
+      "title": "Trung Quốc trừng phạt nhiều công ty quốc phòng Mỹ vì bán vũ khí cho Đài Loan",
+      "link": "https://thanhnien.vn/trung-quoc-trung-phat-nhieu-cong-ty-quoc-phong-my-vi-ban-vu-khi-cho-dai-loan-185251227065115627.htm",
+      "summary": "Hôm 26.12, Bộ Ngoại giao Trung Quốc tuyên bố thi hành các biện pháp trừng phạt nhằm vào 10 cá nhân và 20 công ty quốc phòng của Mỹ liên quan đến việc bán vũ khí cho Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:08:00+07:00",
+      "fetched": "2025-12-27T08:21:37.690869+07:00"
+    },
+    {
+      "id": "b03cae5779a7102727803b063d80f3d0",
+      "title": "Bích Thuỳ và đồng đội nữ quấn quýt ở lễ trao Quả bóng Vàng 2025",
+      "link": "https://vnexpress.net/bich-thuy-va-dong-doi-nu-quan-quyt-o-le-trao-qua-bong-vang-2025-4998873.html",
+      "summary": "Tiền vệ Nguyễn Thị Bích Thuỳ và Trần Thị Duyên có nhiều cử chỉ thân mật, luôn chụp ảnh cùng nhau khi dự lễ trao giải Quả bóng Vàng Việt Nam 2025, tối 26/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T01:07:13+07:00",
+      "fetched": "2025-12-27T08:21:46.910614+07:00"
+    },
+    {
+      "id": "d762deabbe9a72aa39adbb97c1df6622",
+      "title": "Giá heo hơi hôm nay 27.12.2025: Nhiều biến động",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-27122025-nhieu-bien-dong-185251227075128063.htm",
+      "summary": "Giá heo hơi ở nhiều tỉnh thành quay đầu giảm trong khi một số địa phương nam Trung bộ tiếp tục tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:07:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691007+07:00"
+    },
+    {
+      "id": "4ae6caecca55e6b8ed95ce599778e8a9",
+      "title": "Trứng có làm tăng lượng đường trong máu?",
+      "link": "https://thanhnien.vn/trung-co-lam-tang-luong-duong-trong-mau-185251226160801941.htm",
+      "summary": "Ở nhóm người bệnh tiểu đường, insulin không thể điều hòa hiệu quả lượng đường trong máu, khiến glucose tích tụ thay vì đi vào tế bào để tạo năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:07:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691145+07:00"
+    },
+    {
+      "id": "70128b6900eec85b5bb5ffc615fcb097",
+      "title": "Giá vàng, giá bạc thế giới cùng lập kỷ lục mới",
+      "link": "https://vnexpress.net/gia-vang-gia-bac-the-gioi-cung-lap-ky-luc-moi-4998854.html",
+      "summary": "Mỗi ounce vàng vượt xa mốc 4.500 USD, trong khi giá bạc lần đầu tiên chạm 77 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-27T01:05:31+07:00",
+      "fetched": "2025-12-27T08:21:42.102029+07:00"
+    },
+    {
+      "id": "5ebe71ed1e4f5fdf3ec99588201a652f",
+      "title": "Hoài Linh, Thái Hòa hợp sức cho phim chiếu dịp tết dương lịch",
+      "link": "https://thanhnien.vn/hoai-linh-thai-hoa-hop-suc-cho-phim-chieu-dip-tet-duong-lich-185251226221811578.htm",
+      "summary": "Đại ca Ha Ha Ha (tựa gốc: Boss) - phim điện ảnh từng khuấy đảo phòng vé Hàn Quốc với doanh thu hơn 420 tỉ đồng - dự kiến ra rạp tại VN từ ngày 9.1.2026. Dự án của đạo diễn Hee Chan Ra sẽ có bản lồng tiếng, với sự góp giọng của dàn nghệ sĩ gồm: Hoài Linh, Thái Hòa, Đàm Vĩnh Hưng, Lê Dương Bảo Lâm, Mạ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:03:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691283+07:00"
+    },
+    {
+      "id": "37f21573c38636cbed569299c3d6fafc",
+      "title": "Đoàn Minh Tài chèo xuồng rước cô dâu",
+      "link": "https://vnexpress.net/doan-minh-tai-cheo-xuong-ruoc-co-dau-4998778.html",
+      "summary": "Diễn viên Đoàn Minh Tài chèo xuồng rước cô dâu Sunny Đan Ngọc lên lễ đường, trong đám cưới miệt vườn, chiều 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:02:05+07:00",
+      "fetched": "2025-12-27T08:21:33.830366+07:00"
+    },
+    {
+      "id": "a3874a1fae4e21963ce13f5d2c3ae03f",
+      "title": "Sao nhí Xệ Xệ ra MV chủ đề chương trình Trường học siêu sao",
+      "link": "https://thanhnien.vn/sao-nhi-xe-xe-ra-mv-chu-de-chuong-trinh-truong-hoc-sieu-sao-18525122622143104.htm",
+      "summary": "MV Em là một ngôi sao của rapper nhí Xệ Xệ mang đến một thông điệp giáo dục gần gũi nhưng đầy sức nặng: Con không cần giống ai vì con là duy nhất. MV là sản phẩm chủ đề của chương trình Trường học siêu sao trên HTV7, QPVN, HN1 và SCTV6, kết hợp cùng Xệ Xệ và nhạc sĩ Cao Thiên Minh Tùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:02:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691440+07:00"
+    },
+    {
+      "id": "f50488e92b79c2a10713fb0c84ff8078",
+      "title": "DOGE làm được gì sau một năm gây sóng gió chính trường Mỹ?",
+      "link": "https://vnexpress.net/doge-lam-duoc-gi-sau-mot-nam-gay-song-gio-chinh-truong-my-4997561.html",
+      "summary": "DOGE tuyên bố giúp chính phủ Mỹ tiết kiệm được số tiền khổng lồ, song các khoản cắt giảm dường như đã bị thổi phồng hoặc sai lệch nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:01:24+07:00",
+      "fetched": "2025-12-27T08:21:33.830544+07:00"
+    },
+    {
+      "id": "f50488e92b79c2a10713fb0c84ff8078",
+      "title": "DOGE làm được gì sau một năm gây sóng gió chính trường Mỹ?",
+      "link": "https://vnexpress.net/doge-lam-duoc-gi-sau-mot-nam-gay-song-gio-chinh-truong-my-4997561.html",
+      "summary": "DOGE tuyên bố giúp chính phủ Mỹ tiết kiệm được số tiền khổng lồ, song các khoản cắt giảm dường như đã bị thổi phồng hoặc sai lệch nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T01:01:24+07:00",
+      "fetched": "2025-12-27T08:21:40.268953+07:00"
+    },
+    {
+      "id": "b67aef69950770e689fda04f15827e62",
+      "title": "Dàn môtô tiền tỷ tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/dan-moto-tien-ty-tai-vietnam-mobility-show-2025-4998791.html",
+      "summary": "Dàn xe phân khối lớn là một điểm nhấn đặc biệt trong ngày đầu tiên đón khách tham quan tại Triển lãm Phương tiện Di chuyển Việt Nam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:01:17+07:00",
+      "fetched": "2025-12-27T08:21:33.830708+07:00"
+    },
+    {
+      "id": "39f0e56b6d5ebd625168f057134009b7",
+      "title": "Nghịch lý càng giàu càng vắng bóng trẻ em ở Nhật Bản",
+      "link": "https://vnexpress.net/nghich-ly-cang-giau-cang-vang-bong-tre-em-o-nhat-ban-4998495.html",
+      "summary": "Bất chấp nỗ lực chi hàng nghìn tỷ yên củng cố hệ thống y tế và giáo dục, tỷ lệ sinh tại Nhật Bản vẫn lao dốc không phanh, biến việc kết hôn và sinh con từ lẽ tự nhiên thành một \"đặc quyền xa xỉ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.830866+07:00"
+    },
+    {
+      "id": "72e9ff6d36ca1a8dcf74f2c148a8a8fb",
+      "title": "Mèo đi lại như rắn trên hàng rào sắt",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-meo-di-lai-nhu-ran-tren-hang-rao-sat-4996853.html",
+      "summary": "Một chú mèo với kỹ năng di chuyển không khác gì… rắn khiến ai xem cũng tròn mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831030+07:00"
+    },
+    {
+      "id": "fabc91ce5f8bdd00d61569e110ae6f1c",
+      "title": "VIB nhận giải 'Trải nghiệm dịch vụ khách hàng xuất sắc 2025'",
+      "link": "https://vnexpress.net/vib-nhan-giai-trai-nghiem-dich-vu-khach-hang-xuat-sac-2025-4998844.html",
+      "summary": "VIB được Global Banking trao giải \"Ngân hàng mang đến sự hài lòng và trải nghiệm khách hàng xuất sắc nhất Việt Nam 2025\", nhờ cá nhân hóa trải nghiệm người dùng trong toàn bộ hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831173+07:00"
+    },
+    {
+      "id": "298180668d8f658ef8f7b4524b157e51",
+      "title": "Bị cận thị nhẹ có cần đeo kính không?",
+      "link": "https://vnexpress.net/bi-can-thi-nhe-co-can-deo-kinh-khong-4998835.html",
+      "summary": "Tôi cận 1,25 độ nhưng ít đeo kính vì cảm thấy vướng, đôi khi hơi đau đầu. Thói quen này có ảnh hưởng gì đến mắt không? (Hằng, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831325+07:00"
+    },
+    {
+      "id": "8e548f615b3f3ba403964e0f03307b1f",
+      "title": "KCN Việt Nam: Công nghiệp xanh là hướng đi dài hạn",
+      "link": "https://vnexpress.net/kcn-viet-nam-cong-nghiep-xanh-la-huong-di-dai-han-4998703.html",
+      "summary": "Tập đoàn KCN Việt Nam đẩy mạnh đầu tư hạ tầng theo tiêu chí xanh, mở rộng sản phẩm kho xưởng và hoàn thiện hệ sinh thái hỗ trợ, nhằm thu hút nhà đầu tư chất lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831475+07:00"
+    },
+    {
+      "id": "2ec070edad17fa05aecf2a35cc0b1236",
+      "title": "Ứng dụng quản lý bán hàng cho hộ kinh doanh F&amp;B",
+      "link": "https://vnexpress.net/ung-dung-quan-ly-ban-hang-cho-ho-kinh-doanh-f-b-4998580.html",
+      "summary": "FaBiBox gồm nhiều giải pháp quản lý bán hàng, gọi món, kế toán, hỗ trợ các hộ kinh doanh F&B tuân thủ quy định mới về thuế và hóa đơn điện tử, đồng thời tối ưu vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831629+07:00"
+    },
+    {
+      "id": "6b61e7312c12b69d09191f6fb866dec4",
+      "title": "Cách Home Depot đẩy nhanh chuỗi cung ứng",
+      "link": "https://vnexpress.net/cach-home-depot-day-nhanh-chuoi-cung-ung-4997143.html",
+      "summary": "Nhà bán lẻ vật liệu xây dựng và cải tạo nhà cửa Home Depot (Mỹ) đã rút ngắn đáng kể thời gian giao hàng nhờ mạng lưới phân phối rộng khắp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:33.831791+07:00"
+    },
+    {
+      "id": "4d69e6a9d68d671200a6ab201b1988d5",
+      "title": "Khánh Hòa nâng tầm di sản văn hóa, xây dựng điểm đến đẳng cấp quốc tế",
+      "link": "https://thanhnien.vn/khanh-hoa-nang-tam-di-san-van-hoa-xay-dung-diem-den-dang-cap-quoc-te-185251226211721697.htm",
+      "summary": "Khánh Hòa đang hiện thực hóa chiến lược biến di sản văn hóa thành động lực tăng trưởng mạnh mẽ gắn liền với du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T01:00:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691578+07:00"
+    },
+    {
+      "id": "4894862c065c6b5861b29077685b3dd3",
+      "title": "Ngày mai diễn ra giải chạy Carlympic Family Run 2025",
+      "link": "https://vnexpress.net/ngay-mai-dien-ra-giai-chay-carlympic-family-run-2025-4997800.html",
+      "summary": "Giải chạy diễn ra sáng 28/12, với cung đường 1,5 km bao quanh Cung triển lãm Kim Quy tại Trung tâm triển lãm VEC, với hơn 2.500 người đăng ký tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:47:23+07:00",
+      "fetched": "2025-12-27T08:21:33.831943+07:00"
+    },
+    {
+      "id": "e245e12916263ea49c9b260e67c1d178",
+      "title": "Cháy tiệm điện nước, 4 người trong gia đình tử vong",
+      "link": "https://vnexpress.net/chay-tiem-dien-nuoc-4-nguoi-trong-gia-dinh-tu-vong-4998861.html",
+      "summary": "Hỏa hoạn bùng phát tại một tiệm điện nước ở xã Hòa Phú khiến hai vợ chồng và hai con nhỏ tử vong, một trẻ sơ sinh bị bỏng nặng, rạng sáng 27/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:38:09+07:00",
+      "fetched": "2025-12-27T08:21:33.832097+07:00"
+    },
+    {
+      "id": "fe5e1a55e9694b45be930b022de82514",
+      "title": "Mưa lũ 2025 qua ảnh",
+      "link": "https://vnexpress.net/mua-lu-2025-qua-anh-4995042.html",
+      "summary": "Lũ bủa vây Thái Nguyên, di tích Huế chìm trong nước, trẻ em bật khóc trên đường di tản giữa mưa ngập Nha Trang, triều cường tràn bờ kè TP HCM... là những khoảnh khắc phác họa năm 2025 thời tiết cực đoan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:35:00+07:00",
+      "fetched": "2025-12-27T08:21:33.832249+07:00"
+    },
+    {
+      "id": "b60f77c7bbc12e67a04bcc3872fcabe4",
+      "title": "Bác sĩ cảnh báo căn bệnh lây lan toàn cầu chưa có thuốc trị",
+      "link": "https://thanhnien.vn/bac-si-canh-bao-can-benh-lay-lan-toan-cau-chua-co-thuoc-tri-185251224230713033.htm",
+      "summary": "Trong lúc thế giới bước vào mùa lễ hội cuối năm, giới chuyên gia y tế đang phát đi cảnh báo về một căn bệnh đang lan ra toàn cầu, và chưa có liệu pháp điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:31:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691721+07:00"
+    },
+    {
+      "id": "602fa1b4b774a52879f3aec3dc400987",
+      "title": "Ông Zelensky: Nga đang dùng lãnh thổ Belarus để tập kích Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-nga-dang-dung-lanh-tho-belarus-de-tap-kich-ukraine-4998855.html",
+      "summary": "Tổng thống Zelensky cáo buộc Nga đang dùng các khu nhà tại Belarus để vượt qua lưới phòng thủ và tập kích mục tiêu ở Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:28:15+07:00",
+      "fetched": "2025-12-27T08:21:33.832428+07:00"
+    },
+    {
+      "id": "602fa1b4b774a52879f3aec3dc400987",
+      "title": "Ông Zelensky: Nga đang dùng lãnh thổ Belarus để tập kích Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-nga-dang-dung-lanh-tho-belarus-de-tap-kich-ukraine-4998855.html",
+      "summary": "Tổng thống Zelensky cáo buộc Nga đang dùng các khu nhà tại Belarus để vượt qua lưới phòng thủ và tập kích mục tiêu ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T00:28:15+07:00",
+      "fetched": "2025-12-27T08:21:40.269118+07:00"
+    },
+    {
+      "id": "79dda9badcc51a2ad4e74adc7e0d985d",
+      "title": "Dự báo thời tiết ngày 27.12: Miền Bắc rét 6 độ C, có băng giá, sương muối",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-ngay-2712-mien-bac-ret-6-do-c-co-bang-gia-suong-muoi-185251227065408369.htm",
+      "summary": "Dự báo thời tiết hôm nay 27.12, các tỉnh miền Bắc tiếp tục rét đậm trên diện rộng, riêng vùng núi cao nhiệt độ thấp nhất dưới 6 độ C, khả năng xuất hiện băng giá, sương muối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:23:00+07:00",
+      "fetched": "2025-12-27T08:21:37.691864+07:00"
+    },
+    {
+      "id": "d75da123c6a31cdf99527dec2898a6ab",
+      "title": "Nhà máy thép Trung Quốc 'gần như không thải carbon' công suất triệu tấn",
+      "link": "https://vnexpress.net/nha-may-thep-trung-quoc-gan-nhu-khong-thai-carbon-cong-suat-trieu-tan-4998719.html",
+      "summary": "Nhà máy thép gần như không thải carbon với công suất một triệu tấn đầu tiên tại Trung Quốc, do công ty Baowu Steel vận hành, bắt đầu hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:16:09+07:00",
+      "fetched": "2025-12-27T08:21:33.832588+07:00"
+    },
+    {
+      "id": "d75da123c6a31cdf99527dec2898a6ab",
+      "title": "Nhà máy thép Trung Quốc 'gần như không thải carbon' công suất triệu tấn",
+      "link": "https://vnexpress.net/nha-may-thep-trung-quoc-gan-nhu-khong-thai-carbon-cong-suat-trieu-tan-4998719.html",
+      "summary": "Nhà máy thép gần như không thải carbon với công suất một triệu tấn đầu tiên tại Trung Quốc, do công ty Baowu Steel vận hành, bắt đầu hoạt động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T00:16:09+07:00",
+      "fetched": "2025-12-27T08:21:45.018657+07:00"
+    },
+    {
+      "id": "e8680d6063d0c683860561557dfa0c22",
+      "title": "Lan tỏa trên mạng xã hội: Mối nhân duyên rất thật bắt đầu từ thế giới ảo",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-moi-nhan-duyen-rat-that-bat-dau-tu-the-gioi-ao-185251226211729299.htm",
+      "summary": "Chỉ từ một câu \"bình luận dạo\" dưới bài đăng trên mạng xã hội, anh Nguyễn Mạnh Đảm và chị Vũ Xuân đã tìm thấy nhau, đi đến một cuộc hôn nhân ấm áp. Câu chuyện tình yêu của họ khiến nhiều người tin rằng giữa thế giới ảo vẫn có những mối nhân duyên rất thật, được xây dựng bằng sự chân thành và thấu hi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T00:00:00+07:00",
+      "fetched": "2025-12-27T08:21:37.692008+07:00"
+    },
+    {
+      "id": "8f47abf030d011fed5fe154541526571",
+      "title": "Nga nói kế hoạch hòa bình của Ukraine khác hoàn toàn với Mỹ",
+      "link": "https://vnexpress.net/nga-noi-ke-hoach-hoa-binh-cua-ukraine-khac-hoan-toan-voi-my-4998848.html",
+      "summary": "Quan chức Nga cho biết kế hoạch hòa bình 20 điểm do ông Zelensky công bố \"hoàn toàn khác biệt\" so với dự thảo mà Mỹ đề xuất trước đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T23:50:58+07:00",
+      "fetched": "2025-12-27T08:21:40.269284+07:00"
+    },
+    {
+      "id": "1bbd0cef7fb18a55d1665da72bd9c0cf",
+      "title": "Ai nhanh nhất Ngoại hạng Anh?",
+      "link": "https://vnexpress.net/ai-nhanh-nhat-ngoai-hang-anh-4998665.html",
+      "summary": "Không phải Erling Haaland, Adama Traore, Micky Van de Ven hay Pedro Neto, cầu thủ chạy nhanh nhất Ngoại hạng Anh mùa này đến từ đội cuối bảng Wolverhampton.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T23:45:17+07:00",
+      "fetched": "2025-12-27T08:21:46.911106+07:00"
+    },
+    {
+      "id": "b5c5b23250a5763f137f521d496ff20c",
+      "title": "Năm 2026, bóng đá Việt Nam sẽ vươn mình ra châu Á",
+      "link": "https://thanhnien.vn/nam-2026-bong-da-viet-nam-se-vuon-minh-ra-chau-a-185251226233529965.htm",
+      "summary": "Với bước đà thăng tiến từ nhiều cấp độ, bóng đá VN đang đi trên đúng lộ trình để vươn mình ra châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:45:00+07:00",
+      "fetched": "2025-12-27T08:21:37.692156+07:00"
+    },
+    {
+      "id": "1d8c9e5f3829dd8339dca97e570906ff",
+      "title": "Arteta tránh nói về khả năng ăn bốn của Arsenal",
+      "link": "https://vnexpress.net/arteta-tranh-noi-ve-kha-nang-an-bon-cua-arsenal-4998845.html",
+      "summary": "Trước trận đấu Brighton ở vòng 18 Ngoại hạng Anh hôm nay, HLV Mikel Arteta cho biết không nghĩ đến khả năng giành cú ăn bốn mà chỉ tập trung cho từng trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T23:43:31+07:00",
+      "fetched": "2025-12-27T08:21:46.911261+07:00"
+    },
+    {
+      "id": "d5eed0f06a966f8db0e472ba23cc4b44",
+      "title": "Nghẹt thở giải cứu nam thanh niên rơi xuống hố sâu 10 mét khi đi làm rẫy",
+      "link": "https://thanhnien.vn/nghet-tho-giai-cuu-nam-thanh-nien-roi-xuong-ho-sau-10-met-khi-di-lam-ray-185251226225841291.htm",
+      "summary": "Nam thanh niên đi rẫy, vô tình bị rơi xuống hố sâu và may mắn được lực lượng cứu nạn cứu hộ, công an địa phương cùng người dân hỗ trợ, giải cứu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:42:00+07:00",
+      "fetched": "2025-12-27T08:21:37.692301+07:00"
+    },
+    {
+      "id": "a4e18ff15ab13756414469794de51243",
+      "title": "Tái thiết vùng rốn lũ: 'Xe thồ' bằng đôi vai người lính",
+      "link": "https://thanhnien.vn/tai-thiet-vung-ron-lu-xe-tho-bang-doi-vai-nguoi-linh-18525122622094355.htm",
+      "summary": "Xã vùng cao Trà Tân, Trà Leng (TP.Đà Nẵng) từng rung chuyển bởi những dòng lũ dữ, xé toạc sườn đồi, cuốn phăng nhà cửa, tài sản của hàng chục hộ dân. Nhưng cũng chính trên mảnh đất ấy, những ngôi nhà mới kiên cố đang mọc lên, vững chãi như ý chí của con người trước thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:35:00+07:00",
+      "fetched": "2025-12-27T08:21:37.692470+07:00"
+    },
+    {
+      "id": "053c02a0af9de3490aa43814f541b4cf",
+      "title": "Hoàng Đức lập hat-trick Quả bóng vàng Việt Nam, Bích Thùy lần đầu nhận Quả bóng vàng nữ",
+      "link": "https://thanhnien.vn/hoang-duc-lap-hat-trick-qua-bong-vang-viet-nam-bich-thuy-lan-dau-nhan-qua-bong-vang-nu-185251226234013496.htm",
+      "summary": "Vượt qua hàng loạt ứng viên sáng giá, Nguyễn Hoàng Đức được xướng tên cho danh hiệu Quả bóng vàng VN 2025, đánh dấu lần thứ ba anh chạm tay vào giải thưởng cao quý này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:33:00+07:00",
+      "fetched": "2025-12-27T08:21:37.692625+07:00"
+    },
+    {
+      "id": "9166c7b649876eb5ff3fd74effc6091f",
+      "title": "Guardiola: 'Man City muốn dẫn đầu chứ không phải kẻ bám đuổi ở Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/guardiola-man-city-muon-dan-dau-chu-khong-phai-ke-bam-duoi-o-ngoai-hang-anh-4998846.html",
+      "summary": "HLV Pep Guardiola gửi lời cảnh báo đến Arsenal trong cuộc đua vô địch, trước trận Man City gặp Nottingham Forest ở vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T23:32:35+07:00",
+      "fetched": "2025-12-27T08:21:46.911434+07:00"
+    },
+    {
+      "id": "5a776514c68721982bebfcc585f5c32f",
+      "title": "Salah ghi bàn quyết định hai trận liên tiếp ở Cup châu Phi",
+      "link": "https://vnexpress.net/salah-ghi-ban-quyet-dinh-hai-tran-lien-tiep-o-cup-chau-phi-4998847.html",
+      "summary": "Tiền đạo Mohamed Salah ghi bàn giúp 10 cầu thủ Ai Cập hạ Nam Phi 1-0 ở lượt trận hai bảng B ngày 26/12, giành vé vào vòng 1/8 giải vô địch các quốc gia châu Phi (CAN).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T23:18:52+07:00",
+      "fetched": "2025-12-27T08:21:46.910791+07:00"
+    },
+    {
+      "id": "0ae19c39a291c5039dd7d3826ecae6ef",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: '2026 sẽ là năm bứt phá'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-2026-se-la-nam-but-pha-4998802.html",
+      "summary": "Động lực quan trọng để ngành khoa học và công nghệ bứt phá trong năm 2026 là hình thành thị trường đầu ra thông qua cơ chế nhà nước mua kết quả, gợi mở thay đổi tư duy, đi từ bài toán đến công nghệ, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-26T23:00:00+07:00",
+      "fetched": "2025-12-27T08:21:45.018479+07:00"
     },
     {
       "id": "9caef49c16421acc5be2a37bc8b08712",
