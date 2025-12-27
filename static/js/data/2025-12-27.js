@@ -1,6 +1,6 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T19:34:52.102207+07:00",
+  "lastUpdated": "2025-12-27T21:16:15.928631+07:00",
   "articles": [
     {
       "id": "f6cd1c363f71b2b53876744eb3577acd",
@@ -303,6 +303,96 @@ window.newsData_2025_12_27 = {
       "fetched": "2025-12-27T17:17:39.707600+07:00"
     },
     {
+      "id": "900a6d80b46770ad45d59955e4b594c8",
+      "title": "Việt Nam hoan nghênh Campuchia - Thái Lan ngừng bắn",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-campuchia-thai-lan-ngung-ban-4999083.html",
+      "summary": "Việt Nam hoan nghênh Campuchia và Thái Lan ký tuyên bố chung, thống nhất ngừng bắn và các biện pháp hạ nhiệt căng thẳng tại biên giới hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T14:09:18+07:00",
+      "fetched": "2025-12-27T21:16:09.448952+07:00"
+    },
+    {
+      "id": "09eab56169fe3fab6963c2669d42a5c0",
+      "title": "Lộ lý do U.23 Việt Nam giao hữu với U.23 Syria, không kênh nào phát trực tiếp",
+      "link": "https://thanhnien.vn/lo-ly-do-u23-viet-nam-giao-huu-voi-u23-syria-khong-kenh-nao-phat-truc-tiep-185251227151630552.htm",
+      "summary": "3 đối thủ của U.23 Việt Nam tại vòng bảng giải U.23 châu Á 2026 sẽ lần lượt là U.23 Jordan, Kyrgyzstan và Ả Rập Xê Út. Trước khi dự giải châu Á, đội bóng của HLV Kim Sang-sik sẽ đá giao hữu với U.23 Syria.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:09:00+07:00",
+      "fetched": "2025-12-27T21:16:06.379645+07:00"
+    },
+    {
+      "id": "b59a973ab43652c43b1a2cda1297f6fc",
+      "title": "TP.HCM: Cháy bãi rác rộng hàng trăm mét vuông ở phường Đông Hòa",
+      "link": "https://thanhnien.vn/tphcm-chay-bai-rac-rong-hang-tram-met-vuong-o-phuong-dong-hoa-185251227204515949.htm",
+      "summary": "Bãi rác tự phát rộng hàng trăm mét vuông ở phường Đông Hòa (TP.HCM) xảy ra vụ cháy lớn chiều 27.12 khiến khói bụi bay vào nhà dân, ô nhiễm không khí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:06:00+07:00",
+      "fetched": "2025-12-27T21:16:06.379814+07:00"
+    },
+    {
+      "id": "7426b5f9fac2ba23eef9bd98f20b8ae6",
+      "title": "Thả chó cắn người, 2 bố con bị tạm giữ hình sự",
+      "link": "https://thanhnien.vn/tha-cho-can-nguoi-2-bo-con-bi-tam-giu-hinh-su-185251227202441451.htm",
+      "summary": "Cơ quan công an đã tạm giữ hình sự 2 bố con liên quan vụ việc thả chó cắn người xảy ra tại xã Hồng Vân (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:06:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380002+07:00"
+    },
+    {
+      "id": "9024ce4ef675cfd0a96355c62112e3b7",
+      "title": "Hai cha con thả chó dữ cắn hàng xóm bị tạm giữ",
+      "link": "https://vnexpress.net/hai-cha-con-tha-cho-du-can-hang-xom-bi-tam-giu-4999081.html",
+      "summary": "Trần Quốc Lương cùng bố bị tạm giữ hình sự để điều tra hành vi thả chó vào đám đông đang xô xát để cắn trọng thương \"đối thủ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:04:42+07:00",
+      "fetched": "2025-12-27T21:16:02.713896+07:00"
+    },
+    {
+      "id": "d221a5d4a287f58d75f62ca3548d1856",
+      "title": "Phát hiện bạn trai từng có hàng trăm 'bóng hồng'",
+      "link": "https://vnexpress.net/phat-hien-ban-trai-tung-co-hang-tram-bong-hong-4998955.html",
+      "summary": "Có thời gian hai người bạn gái của anh cùng có thai tìm đến, anh không đủ trách nhiệm để giữ lại đứa con nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.714102+07:00"
+    },
+    {
+      "id": "8d17665851b0dc2c4b921314f123d89c",
+      "title": "Cùng em viết những câu chuyện thường ngày, anh nhé",
+      "link": "https://vnexpress.net/cung-em-viet-nhung-cau-chuyen-thuong-ngay-anh-nhe-4998181.html",
+      "summary": "Em không quá khéo léo trong những lời làm quen ban đầu, nhưng em tin sự chân thành và tử tế sẽ chạm đến trái tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T14:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.714209+07:00"
+    },
+    {
+      "id": "f1e14249175f2fa878796273a2392e9f",
+      "title": "Việt Nam hoan nghênh Campuchia và Thái Lan ngừng bắn",
+      "link": "https://thanhnien.vn/viet-nam-hoan-nghenh-campuchia-va-thai-lan-ngung-ban-185251227203119221.htm",
+      "summary": "Việt Nam hoan nghênh việc Campuchia và Thái Lan ký tuyên bố chung tại Hội nghị đặc biệt lần thứ 3 của Ủy ban Biên giới chung (GBC) ngày 27.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:59:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380162+07:00"
+    },
+    {
+      "id": "d8a325b63aa08adf85278ae089dd5491",
+      "title": "Thực hư việc Trung Quốc 'bẻ khóa' thành công máy quang khắc EUV",
+      "link": "https://thanhnien.vn/thuc-hu-viec-trung-quoc-be-khoa-thanh-cong-may-quang-khac-euv-185251227102405826.htm",
+      "summary": "Tại sao Trung Quốc không thể sao chép 'linh hồn' máy quang khắc của phương Tây?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:39:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380315+07:00"
+    },
+    {
       "id": "332e4d1843bc9be60f4971c57fea4689",
       "title": "Giải golf HTV Swing Cup 2025 có Hole in One ngay ngày thi đấu đầu tiên",
       "link": "https://tuoitre.vn/giai-golf-htv-swing-cup-2025-co-hole-in-one-ngay-ngay-thi-dau-dau-tien-20251227101749409.htm",
@@ -453,6 +543,156 @@ window.newsData_2025_12_27 = {
       "fetched": "2025-12-27T13:27:07.935255+07:00"
     },
     {
+      "id": "29535b1e23bf166804551fb3ef134b5f",
+      "title": "Thủ tướng: Quản lý văn hóa theo nguyên tắc 'ai giỏi nhất thì làm'",
+      "link": "https://vnexpress.net/thu-tuong-quan-ly-van-hoa-theo-nguyen-tac-ai-gioi-nhat-thi-lam-4999071.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu quản lý văn hóa phải giao đúng người, đúng việc, theo nguyên tắc ai làm tốt nhất thì giao, kiên quyết từ bỏ tư duy “không biết vẫn quản”, “không quản được thì cấm”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:25:26+07:00",
+      "fetched": "2025-12-27T21:16:02.714372+07:00"
+    },
+    {
+      "id": "c4a6e8ff4ff3d6326af9b799b10f6264",
+      "title": "Tuyển điền kinh Việt Nam nhận thưởng hơn 1,5 tỷ đồng",
+      "link": "https://vnexpress.net/tuyen-dien-kinh-viet-nam-nhan-thuong-hon-1-5-ty-dong-4999053.html",
+      "summary": "Đội tuyển điền kinh Việt Nam nhận thưởng sau khi hoàn thành chỉ tiêu tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:21:56+07:00",
+      "fetched": "2025-12-27T21:16:02.714532+07:00"
+    },
+    {
+      "id": "c4a6e8ff4ff3d6326af9b799b10f6264",
+      "title": "Tuyển điền kinh Việt Nam nhận thưởng hơn 1,5 tỷ đồng",
+      "link": "https://vnexpress.net/tuyen-dien-kinh-viet-nam-nhan-thuong-hon-1-5-ty-dong-4999053.html",
+      "summary": "Đội tuyển điền kinh Việt Nam nhận thưởng sau khi hoàn thành chỉ tiêu tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T13:21:56+07:00",
+      "fetched": "2025-12-27T21:16:15.917104+07:00"
+    },
+    {
+      "id": "6ae4b0232fbb9689304f7d99e8a688e2",
+      "title": "Trung Quốc ngang nhiên mở trung tâm mua sắm mới trên đảo Phú Lâm",
+      "link": "https://thanhnien.vn/trung-quoc-ngang-nhien-mo-trung-tam-mua-sam-moi-tren-dao-phu-lam-185251227194030973.htm",
+      "summary": "Trung tâm mua sắm rộng 6.000 m2 được Trung Quốc xây dựng trái phép trên đảo Phú Lâm thuộc quần đảo Hoàng Sa của Việt Nam và đi vào hoạt động từ ngày 25.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:20:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380481+07:00"
+    },
+    {
+      "id": "de78e65244abbcb8f0a883968cde297e",
+      "title": "Kết quả xổ số Power 6/55 Vietlott tối 27.12, giải độc đắc 133,2 tỉ chờ người trúng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-power-6-55-vietlott-toi-2712-giai-doc-dac-1332-ti-cho-nguoi-trung-185251227191053981.htm",
+      "summary": "Tối 27.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, không có người trúng giải độc đắc nên số tiền cộng dồn tăng hơn 133,2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:19:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380643+07:00"
+    },
+    {
+      "id": "2b5f6787348157eb8a65229421c59915",
+      "title": "Gần 60% sinh viên Bách khoa TP HCM ra trường muộn",
+      "link": "https://vnexpress.net/gan-60-sinh-vien-bach-khoa-tp-hcm-ra-truong-muon-4999046.html",
+      "summary": "Chỉ khoảng 40-50% sinh viên các ngành kỹ thuật thuộc Đại học Quốc gia TP HCM ra trường đúng hạn, thấp nhất ở trường Đại học Bách khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:07:12+07:00",
+      "fetched": "2025-12-27T21:16:02.714696+07:00"
+    },
+    {
+      "id": "6e41b6f14ed0523791206ed32a9e463d",
+      "title": "Cuối năm nặng nề vì bạn bè 'flex' tiền, nhà, xe trên Facebook",
+      "link": "https://vnexpress.net/cuoi-nam-nang-ne-vi-ban-be-flex-tien-nha-xe-tren-facebook-4998884.html",
+      "summary": "Xem hàng loạt status tổng kết thành tựu cuối năm, tôi thấy mình cần phải thay đổi, nhưng đi kèm áp lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.714859+07:00"
+    },
+    {
+      "id": "6e5fb9122e7d09438b615b4cb73bae35",
+      "title": "Trường Đại học Thủ đô Hà Nội đẩy mạnh mô hình 'Ba công khai'",
+      "link": "https://vnexpress.net/truong-dai-hoc-thu-do-ha-noi-day-manh-mo-hinh-ba-cong-khai-4999075.html",
+      "summary": "Trường ĐH Thủ đô Hà Nội thực hiện mô hình \"Ba công khai\", tức minh bạch trong thông tin chất lượng đào tạo, tài chính, truyền thông, giúp người học hiểu rõ từ khi chọn trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.715040+07:00"
+    },
+    {
+      "id": "5f1821a2a181b5f44c58b9bbd5987e5d",
+      "title": "Coteccons nhận danh hiệu 'Nơi làm việc xuất sắc'",
+      "link": "https://vnexpress.net/coteccons-nhan-danh-hieu-noi-lam-viec-xuat-sac-4999000.html",
+      "summary": "Coteccons được Great Place to Work vinh danh là \"Nơi làm việc xuất sắc\" năm 2025, nhờ chiến lược lấy con người làm trung tâm trong mọi kế hoạch phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.715202+07:00"
+    },
+    {
+      "id": "e1878d2d166207eac18ae31ce1a836ed",
+      "title": "Xem nhanh 20h ngày 27.12: Thực hư việc truy tài sản người nhà hộ kinh doanh | 2025 vàng tăng gần gấp đôi",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2712-thuc-hu-viec-truy-tai-san-nguoi-nha-ho-kinh-doanh-2025-vang-tang-gan-gap-doi-185251227190944618.htm",
+      "summary": "'Xem nhanh 20h' ngày 27.12 có nhiều tin tức đáng chú ý về: Vàng tăng giá gần gấp đôi trong năm 2025; Thực hư việc 'truy' tài sản người nhà nếu hộ kinh doanh không đủ tiền nộp phạt;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T13:00:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380793+07:00"
+    },
+    {
+      "id": "6af09821a108da9af620ea07553e1d29",
+      "title": "Ukraine tuyên bố chặn loạt tên lửa Kinzhal, Iskander của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-ten-lua-kinzhal-iskander-cua-nga-4999069.html",
+      "summary": "Không quân Ukraine tuyên bố hạ 6 tên lửa Iskander-M và Kinzhal, cùng hơn 470 UAV các loại trong đòn tập kích quy mô lớn của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:56:18+07:00",
+      "fetched": "2025-12-27T21:16:02.715362+07:00"
+    },
+    {
+      "id": "6af09821a108da9af620ea07553e1d29",
+      "title": "Ukraine tuyên bố chặn loạt tên lửa Kinzhal, Iskander của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-ten-lua-kinzhal-iskander-cua-nga-4999069.html",
+      "summary": "Không quân Ukraine tuyên bố hạ 6 tên lửa Iskander-M và Kinzhal, cùng hơn 470 UAV các loại trong đòn tập kích quy mô lớn của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-27T12:56:18+07:00",
+      "fetched": "2025-12-27T21:16:09.449131+07:00"
+    },
+    {
+      "id": "c4df6b809f8fbc14637491148a4f86d5",
+      "title": "Mua 1 kg bạc, lãi gần 30 triệu đồng sau hơn 2 tháng",
+      "link": "https://thanhnien.vn/mua-1-kg-bac-lai-gan-30-trieu-dong-sau-hon-2-thang-185251227183348866.htm",
+      "summary": "Đặt mua 1 kg bạc vào ngày 2.10, đến hiện tại, người mua đã lãi gần 30 triệu đồng, dù tới ngày 22.1.2026 bạc mới thật sự về tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:44:00+07:00",
+      "fetched": "2025-12-27T21:16:06.380961+07:00"
+    },
+    {
+      "id": "bb81b926bf68ca06e0ab42adac0b5f01",
+      "title": "Xe mất phanh khi xuống dốc gây lật ở Lào Cai",
+      "link": "https://vnexpress.net/xe-mat-phanh-khi-xuong-doc-gay-lat-o-lao-cai-4999073.html",
+      "summary": "Khi đang di chuyển xuống dốc dài và cua, xe 29 chỗ mất phanh, va vào hộ lan rồi lật ngửa, điều tra sơ bộ nguyên nhân cho hay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:41:16+07:00",
+      "fetched": "2025-12-27T21:16:02.715519+07:00"
+    },
+    {
+      "id": "d6e382d27237b9613576d255c6d07d51",
+      "title": "Chiến lược điểm chạm hiệu quả của Chicilon Digital Media",
+      "link": "https://vnexpress.net/chien-luoc-diem-cham-hieu-qua-cua-chicilon-digital-media-4998999.html",
+      "summary": "Chicilon Digital Media triển khai chiến lược truyền thông dựa trên hệ thống điểm chạm, đặt quảng cáo tại các không gian sinh hoạt đô thị có tần suất tiếp cận cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:30:00+07:00",
+      "fetched": "2025-12-27T21:16:02.715673+07:00"
+    },
+    {
       "id": "9ab7844b3cd5184f3b7a1d05e765581e",
       "title": "Mưa sao băng kéo dài từ năm 2025 tới… 2026: Người Việt ngắm ngay tối nay",
       "link": "https://thanhnien.vn/mua-sao-bang-keo-dai-tu-nam-2025-toi-2026-nguoi-viet-ngam-ngay-toi-nay-185251227063648486.htm",
@@ -471,6 +711,56 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T12:23:00+07:00",
       "fetched": "2025-12-27T19:34:43.681503+07:00"
+    },
+    {
+      "id": "1ad0fecdbbbb564553dc7918d9668266",
+      "title": "Địa danh Sài Gòn xuất hiện từ khi nào?",
+      "link": "https://vnexpress.net/dia-danh-sai-gon-xuat-hien-tu-khi-nao-4999038.html",
+      "summary": "Những tư liệu lịch sử giúp du khách hiểu rõ nguồn gốc tên gọi Gò Vấp, Hóc Môn và quá trình hình thành vùng đất Sài Gòn xưa tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:22:41+07:00",
+      "fetched": "2025-12-27T21:16:02.715830+07:00"
+    },
+    {
+      "id": "3d9ca29a85a1da5ca39b84a4467d321a",
+      "title": "Fan trang điểm 'bling bling' xem concert Anh trai say hi",
+      "link": "https://vnexpress.net/fan-trang-diem-bling-bling-xem-concert-anh-trai-say-hi-4999062.html",
+      "summary": "Nhiều bạn trẻ nổi bật giữa đám đông khi bôi nhũ, gắn đá lấp lánh lên mặt theo mốt \"bling bling\" khi xem show Anh trai say hi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:13:24+07:00",
+      "fetched": "2025-12-27T21:16:02.716032+07:00"
+    },
+    {
+      "id": "2a7bb4223ba96d8369c66baaae3fc969",
+      "title": "Noel năm tới, mình sẽ là người thương của nhau, em nhé",
+      "link": "https://vnexpress.net/noel-nam-toi-minh-se-la-nguoi-thuong-cua-nhau-em-nhe-4998814.html",
+      "summary": "Anh ngoại hình bình thường, cao 1m7, không hút thuốc, không thích nhậu và thích nhìn mọi thứ theo hướng tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T12:00:00+07:00",
+      "fetched": "2025-12-27T21:16:02.716146+07:00"
+    },
+    {
+      "id": "51e23099d61347000ae6cd4f481e362c",
+      "title": "Mèo đầu bẹt 'tái xuất' ở Thái Lan sau 30 năm",
+      "link": "https://vnexpress.net/meo-dau-bet-tai-xuat-o-thai-lan-sau-30-nam-4998993.html",
+      "summary": "Bẫy camera trong khu bảo tồn sinh vật hoang dã Princess Sirindhorn ghi hình mèo đầu bẹt, đánh dấu lần đầu chúng xuất hiện tại Thái Lan sau năm 1995.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T12:00:00+07:00",
+      "fetched": "2025-12-27T21:16:14.537001+07:00"
+    },
+    {
+      "id": "71c982ea5e0efe20b6a5cf0e1e582701",
+      "title": "TS Nguyễn Quân tái đắc cử Chủ tịch Hội Tự động hóa Việt Nam",
+      "link": "https://vnexpress.net/ts-nguyen-quan-tai-dac-cu-chu-tich-hoi-tu-dong-hoa-viet-nam-4999050.html",
+      "summary": "Nguyên Bộ trưởng Khoa học và Công nghệ Nguyễn Quân tiếp tục giữ chức Chủ tịch Hội Tự động hóa Việt Nam nhiệm kỳ VI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T12:00:00+07:00",
+      "fetched": "2025-12-27T21:16:14.537483+07:00"
     },
     {
       "id": "530d629ce728dba158bb3e1a69d05d45",
