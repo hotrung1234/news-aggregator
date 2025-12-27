@@ -1,6 +1,6 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T13:27:16.413860+07:00",
+  "lastUpdated": "2025-12-27T15:23:06.126897+07:00",
   "articles": [
     {
       "id": "332e4d1843bc9be60f4971c57fea4689",
@@ -551,6 +551,346 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T08:21:38.878432+07:00",
       "fetched": "2025-12-27T08:21:38.878638+07:00"
+    },
+    {
+      "id": "5f7ef420d104893af9661c714f78462b",
+      "title": "Bích Thủy cùng CLB Okayama suýt tạo bất ngờ ở giải bóng chuyền Nhật Bản",
+      "link": "https://thanhnien.vn/bich-thuy-cung-clb-okayama-suyt-tao-bat-ngo-o-giai-bong-chuyen-nhat-ban-185251227151554978.htm",
+      "summary": "Trần Thị Bích Thủy cùng CLB Okayama có trận đấu ấn tượng ở giải bóng chuyền vô địch Nhật Bản diễn ra hôm nay (27.12).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:19:00+07:00",
+      "fetched": "2025-12-27T15:22:54.026396+07:00"
+    },
+    {
+      "id": "f338ed33f7a1052bb453b7efe6ac61b3",
+      "title": "Biến vỏ cam sành thành chế phẩm sinh học đoạt giải nhất cuộc thi khởi nghiệp",
+      "link": "https://thanhnien.vn/bien-vo-cam-sanh-thanh-che-pham-sinh-hoc-doat-giai-nhat-cuoc-thi-khoi-nghiep-185251227133337574.htm",
+      "summary": "Vượt qua hàng chục đối thủ, ý tưởng biến vỏ cam sành thành chế phẩm sinh học ứng dụng trong chăn nuôi gia cầm đã xuất sắc giành giải nhất vòng chung kết cuộc thi sinh viên VLUTE với ý tưởng khởi nghiệp đổi mới sáng tạo, năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:19:00+07:00",
+      "fetched": "2025-12-27T15:22:54.026570+07:00"
+    },
+    {
+      "id": "4a95395978fb721485f77803a27b4912",
+      "title": "TP.HCM: Đòi phí vệ sinh, tài xế taxi bị nhóm khách hành hung, đập phá xe",
+      "link": "https://thanhnien.vn/tphcm-doi-phi-ve-sinh-tai-xe-taxi-bi-nhom-khach-hanh-hung-dap-pha-xe-185251227135852836.htm",
+      "summary": "Chỉ vì yêu cầu hành khách hỗ trợ chi phí vệ sinh sau khi bị nôn ói trên xe, tài xế taxi công nghệ đã bị hành hung, đập phá xe ngay giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:14:00+07:00",
+      "fetched": "2025-12-27T15:22:54.026752+07:00"
+    },
+    {
+      "id": "0afee61f1e886275f86efe3b71714bb4",
+      "title": "TP.HCM dẫn đầu cả nước về ứng dụng công nghệ bức xạ, tiềm ẩn sự cố",
+      "link": "https://thanhnien.vn/tphcm-dan-dau-ca-nuoc-ve-ung-dung-cong-nghe-buc-xa-tiem-an-su-co-185251227130920453.htm",
+      "summary": "TP.HCM dẫn đầu cả nước về ứng dụng công nghệ bức xạ trong y tế, công nghiệp và nghiên cứu - đào tạo. Tuy nhiên cũng tiềm ẩn nguy cơ xảy ra sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:04:00+07:00",
+      "fetched": "2025-12-27T15:22:54.026910+07:00"
+    },
+    {
+      "id": "3dfc10f3849f228ac33b7bb75365b20f",
+      "title": "Đang bình thường, chồng bỗng đòi ly thân và dọn ra ngoài sống",
+      "link": "https://vnexpress.net/dang-binh-thuong-chong-bong-doi-ly-than-va-don-ra-ngoai-song-4998948.html",
+      "summary": "Tôi hỏi lý do nhưng anh không nói, chỉ bảo mệt mỏi rồi tạm thời ly thân một thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.632898+07:00"
+    },
+    {
+      "id": "672ccfa0f22852d2b7cf932527a6e274",
+      "title": "Em sống có nguyên tắc, thích làm việc theo kế hoạch",
+      "link": "https://vnexpress.net/em-song-co-nguyen-tac-thich-lam-viec-theo-ke-hoach-4998816.html",
+      "summary": "Em khá hướng nội, chỉ trò chuyện được nhiều sau khi đã thân thiết; độ hài hước chỉ có ai hợp gu mới thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.633017+07:00"
+    },
+    {
+      "id": "aa9594340dd31a0ef4e0cd4b0ec76dc0",
+      "title": "Trung Quốc thông xe hầm cao tốc dài nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-ham-cao-toc-dai-nhat-the-gioi-4998949.html",
+      "summary": "Thiên Sơn Thắng Lợi, hầm cao tốc dài 22,13 km chạy xuyên qua trung tâm dãy núi Thiên Sơn ở Tân Cương, đi vào hoạt động hôm 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.633190+07:00"
+    },
+    {
+      "id": "7c355d89c3820e18c25de49f41da69e5",
+      "title": "Mẹ đơn thân thụ tinh ống nghiệm có được chọn 'gene tốt' không?",
+      "link": "https://vnexpress.net/me-don-than-thu-tinh-ong-nghiem-co-duoc-chon-gene-tot-khong-4998985.html",
+      "summary": "Tôi 35 tuổi, muốn làm mẹ đơn thân bằng phương pháp thụ tinh ống nghiệm. Tôi có thể lựa chọn tinh trùng kết hợp sàng lọc phôi để tăng cơ hội sinh con có \"gene tinh hoa\" không? (Thùy Linh, Hà Nam)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.633355+07:00"
+    },
+    {
+      "id": "5bc0959a424904c9574da38145524200",
+      "title": "7 lợi ích từ đậu đen",
+      "link": "https://vnexpress.net/7-loi-ich-tu-dau-den-4998964.html",
+      "summary": "Đậu đen giàu chất dinh dưỡng như protein, sắt, canxi, chất xơ và mang lại nhiều lợi ích cho tim mạch, gan, thận, làn da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.633522+07:00"
+    },
+    {
+      "id": "aa9594340dd31a0ef4e0cd4b0ec76dc0",
+      "title": "Trung Quốc thông xe hầm cao tốc dài nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-thong-xe-ham-cao-toc-dai-nhat-the-gioi-4998949.html",
+      "summary": "Thiên Sơn Thắng Lợi, hầm cao tốc dài 22,13 km chạy xuyên qua trung tâm dãy núi Thiên Sơn ở Tân Cương, đi vào hoạt động hôm 26/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T08:00:00+07:00",
+      "fetched": "2025-12-27T15:23:04.958198+07:00"
+    },
+    {
+      "id": "789f66385a5d1cab26ecf7dae6a6a151",
+      "title": "9 nạn nhân vụ lật xe đoàn từ thiện đều đa chấn thương",
+      "link": "https://vnexpress.net/9-nan-nhan-vu-lat-xe-doan-tu-thien-deu-da-chan-thuong-4999013.html",
+      "summary": "8 nạn nhân trong vụ lật xe chở đoàn thiện nguyện ở Lào Cai đều đa chấn thương vùng bụng, ngực, gãy xương, cột sống; một người chấn thương sọ não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:55:58+07:00",
+      "fetched": "2025-12-27T15:22:50.633700+07:00"
+    },
+    {
+      "id": "76e2fb107327aef891f34fa547e670e7",
+      "title": "Sự thật bất ngờ về xếp hạng chống nước trên Android",
+      "link": "https://thanhnien.vn/su-that-bat-ngo-ve-xep-hang-chong-nuoc-tren-android-185251227100031564.htm",
+      "summary": "Đừng mang điện thoại đi biển nếu bạn vẫn đang có những lầm tưởng tai hại dưới đây về chỉ số chống nước và bụi (IP).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:54:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027064+07:00"
+    },
+    {
+      "id": "8425b237f10da638dc2884f2625111ed",
+      "title": "Hòa Minzy kết năm trọn vẹn với sản phẩm âm nhạc mới 'Vì một Việt Nam khỏe mạnh'",
+      "link": "https://thanhnien.vn/hoa-minzy-ket-nam-tron-ven-voi-san-pham-am-nhac-moi-vi-mot-viet-nam-khoe-manh-185251227144128129.htm",
+      "summary": "Đêm 26.12, Hòa Minzy đã khuấy đảo âm nhạc Việt với sản phẩm mới mang tên 'Vì một Việt Nam khỏe mạnh'. MV thổi hồn câu chuyện sống khỏe theo cách đầy truyền cảm, tỏa ngời khát vọng giản dị mà tự hào của người Việt Nam từ bao đời nay: sống khỏe mạnh, sống hạnh phúc và sống ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:48:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027227+07:00"
+    },
+    {
+      "id": "9981401123f91e18030fb260c6672eab",
+      "title": "Cháy nhà ở Đắk Lắk, 4 người tử vong: Làm rõ nguyên nhân",
+      "link": "https://thanhnien.vn/chay-nha-o-dak-lak-4-nguoi-tu-vong-lam-ro-nguyen-nhan-185251227120729488.htm",
+      "summary": "Các cơ quan chức năng tỉnh Đắk Lắk đang phối hợp làm rõ nguyên nhân vụ cháy nhà khiến 4 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:44:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027378+07:00"
+    },
+    {
+      "id": "a02a8689453053c7e5c3f00c1affa839",
+      "title": "U.23 Việt Nam thực sự quá hay vì đã biết ghi bàn… ngay hiệp 1: Hãy bùng nổ ở châu Á",
+      "link": "https://thanhnien.vn/u23-viet-nam-thuc-su-qua-hay-vi-da-biet-ghi-ban-ngay-hiep-1-hay-bung-no-o-chau-a-185251227140535852.htm",
+      "summary": "Đội tuyển U.23 Việt Nam dưới bàn tay dẫn dắt của HLV Kim Sang-sik đã có những thay đổi đáng kể, hứa hẹn sẽ tạo nên những bất ngờ cho các đối thủ tại vòng chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:43:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027528+07:00"
+    },
+    {
+      "id": "7314c9fae551d667dc554294bef79c53",
+      "title": "HĐND đồng hành cùng UBND TP.HCM thúc đẩy triển khai các dự án trọng điểm",
+      "link": "https://thanhnien.vn/hdnd-dong-hanh-cung-ubnd-tphcm-thuc-day-trien-khai-cac-du-an-trong-diem-18525122713375435.htm",
+      "summary": "Bí thư Thành ủy Trần Lưu Quang đề nghị HĐND TP.HCM cần tiếp tục khẳng định vai trò kiến tạo thể chế, đồng hành chặt chẽ với UBND thành phố trong tháo gỡ điểm nghẽn, thúc đẩy triển khai các dự án công trình trọng điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:42:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027701+07:00"
+    },
+    {
+      "id": "da9fd8b34d4e35e9fd7660d47f43f055",
+      "title": "Biến thi đua thành hành động, biến khát vọng thành hiện thực",
+      "link": "https://thanhnien.vn/bien-thi-dua-thanh-hanh-dong-bien-khat-vong-thanh-hien-thuc-185251227140809789.htm",
+      "summary": "Đoàn Chủ tịch Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam quyết tâm cùng toàn Đảng, toàn dân, toàn quân đoàn kết, chung sức đồng lòng, biến thi đua thành hành động, biến niềm tin thành sức mạnh, biến khát vọng thành hiện thực, vì cuộc sống ấm no, hạnh phúc của nhân dân và tương lai tươi sáng của dân tộc Vi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:40:00+07:00",
+      "fetched": "2025-12-27T15:22:54.027854+07:00"
+    },
+    {
+      "id": "733a5b7a824ff30c01582f67c7ea5d2d",
+      "title": "Người Việt ăn mì thường xuyên nhất thế giới",
+      "link": "https://vnexpress.net/nguoi-viet-an-mi-thuong-xuyen-nhat-the-gioi-4998917.html",
+      "summary": "Việt Nam dẫn đầu thế giới về tiêu thụ mì ăn liền theo bình quân đầu người, khoảng 81 phần mỗi năm, cao hơn Hàn Quốc và Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:39:37+07:00",
+      "fetched": "2025-12-27T15:22:50.633856+07:00"
+    },
+    {
+      "id": "733a5b7a824ff30c01582f67c7ea5d2d",
+      "title": "Người Việt ăn mì thường xuyên nhất thế giới",
+      "link": "https://vnexpress.net/nguoi-viet-an-mi-thuong-xuyen-nhat-the-gioi-4998917.html",
+      "summary": "Việt Nam dẫn đầu thế giới về tiêu thụ mì ăn liền theo bình quân đầu người, khoảng 81 phần mỗi năm, cao hơn Hàn Quốc và Thái Lan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-27T07:39:37+07:00",
+      "fetched": "2025-12-27T15:22:59.528022+07:00"
+    },
+    {
+      "id": "a6a489b2c765b3c70896b7c758da7e13",
+      "title": "Sam Worthington - diễn viên vô danh đổi đời nhờ 'Avatar'",
+      "link": "https://vnexpress.net/sam-worthington-dien-vien-vo-danh-doi-doi-nho-avatar-4998532.html",
+      "summary": "Từng sống lang bạt trong xe hơi, Sam Worthington vụt sáng thành sao Hollywood khi được đạo diễn James Cameron chọn đóng chính loạt bom tấn \"Avatar\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:30:00+07:00",
+      "fetched": "2025-12-27T15:22:50.634017+07:00"
+    },
+    {
+      "id": "8c2a482602f0123e0c2ac780a62cc444",
+      "title": "Hà Tĩnh: Trúng đấu giá mỏ đất cao gần 30 lần so với giá khởi điểm",
+      "link": "https://thanhnien.vn/ha-tinh-trung-dau-gia-mo-dat-cao-gan-30-lan-so-voi-gia-khoi-diem-185251227113620824.htm",
+      "summary": "Giá khởi điểm chỉ từ gần 1 tỉ đồng nhưng 7 mỏ đất và 1 mỏ cát, sỏi ở Hà Tĩnh trúng đấu giá lên đến hàng trăm tỉ đồng, có mỏ 'tăng giá' gần 30 lần so với giá khởi điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:29:00+07:00",
+      "fetched": "2025-12-27T15:22:54.028002+07:00"
+    },
+    {
+      "id": "fdd95cddc9f0b92d0b571831bf99c305",
+      "title": "Thành ngữ quen thuộc nào đang ẩn trong ảnh?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-quen-thuoc-nao-dang-an-trong-anh-4998146.html",
+      "summary": "Thành ngữ chỉ những người có năng lực xuất sắc và uy tín to lớn, có thể ảnh hưởng mạnh mẽ đến xu thế, vận mệnh của thời đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:23:00+07:00",
+      "fetched": "2025-12-27T15:22:50.634179+07:00"
+    },
+    {
+      "id": "aefaddbeabe5e97b59cf359cbfe8c884",
+      "title": "Hiện trường vụ xe chở đoàn từ thiện bị lật khiến 9 người chết ở Lào Cai",
+      "link": "https://thanhnien.vn/hien-truong-vu-xe-cho-doan-tu-thien-bi-lat-khien-9-nguoi-chet-o-lao-cai-185251227134042472.htm",
+      "summary": "Sau va chạm với hộ lan (tôn lượn sóng) khoảng 50 m, xe khách chở đoàn từ thiện bị lật ngửa và biến dạng hoàn toàn. Hậu quả, 9 người chết, 9 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:23:00+07:00",
+      "fetched": "2025-12-27T15:22:54.028149+07:00"
+    },
+    {
+      "id": "2cf72667423d151a95fd99178b2e5a5d",
+      "title": "'Dầu loang ở Dung Quất do van hở khi lắp đồng hồ'",
+      "link": "https://vnexpress.net/dau-loang-o-dung-quat-do-van-ho-khi-lap-dong-ho-4998947.html",
+      "summary": "Do van hở khi lắp đồng hồ lưu lượng, nhiều khối dầu rò rỉ, chảy ra hệ thống xử lý nước thải, theo Cục Xăng dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:18:38+07:00",
+      "fetched": "2025-12-27T15:22:50.634340+07:00"
+    },
+    {
+      "id": "d30177d302f01d02ff3620c10c73ad3c",
+      "title": "Công ty Việt mở rộng mạng lưới sang Mỹ Latinh để 'tối ưu múi giờ'",
+      "link": "https://vnexpress.net/cong-ty-viet-mo-rong-mang-luoi-sang-my-latinh-de-toi-uu-mui-gio-4998934.html",
+      "summary": "Công ty phần mềm Việt Nam Rikkeisoft đầu tư vào Entropy - công ty dịch vụ công nghệ thông tin hoạt động tại Mỹ Latinh, nhằm tối ưu hoạt động theo múi giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:15:01+07:00",
+      "fetched": "2025-12-27T15:22:50.634500+07:00"
+    },
+    {
+      "id": "d30177d302f01d02ff3620c10c73ad3c",
+      "title": "Công ty Việt mở rộng mạng lưới sang Mỹ Latinh để 'tối ưu múi giờ'",
+      "link": "https://vnexpress.net/cong-ty-viet-mo-rong-mang-luoi-sang-my-latinh-de-toi-uu-mui-gio-4998934.html",
+      "summary": "Công ty phần mềm Việt Nam Rikkeisoft đầu tư vào Entropy - công ty dịch vụ công nghệ thông tin hoạt động tại Mỹ Latinh, nhằm tối ưu hoạt động theo múi giờ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T07:15:01+07:00",
+      "fetched": "2025-12-27T15:23:04.958706+07:00"
+    },
+    {
+      "id": "b9d7dc2813978203de7776a1b7d2d249",
+      "title": "Hành động ý nghĩa của Đình Bắc sau khi giành cú đúp tại lễ trao giải QBV 2025",
+      "link": "https://thanhnien.vn/hanh-dong-y-nghia-cua-dinh-bac-sau-khi-gianh-cu-dup-tai-le-trao-giai-qbv-2025-185251227140641679.htm",
+      "summary": "Sau khi giành cú đúp danh hiệu tại lễ trao giải Quả bóng vàng Việt Nam 2025, Đình Bắc dành toàn bộ tiền thưởng để ủng hộ Ban Vận động Cứu trợ Trung ương, lan tỏa tinh thần sẻ chia và trách nhiệm xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:13:00+07:00",
+      "fetched": "2025-12-27T15:22:54.028308+07:00"
+    },
+    {
+      "id": "a74d8e75d6dd1e11e0c133690cd70146",
+      "title": "Motorola khiến giới công nghệ 'dậy sóng' với siêu phẩm mới",
+      "link": "https://thanhnien.vn/motorola-khien-gioi-cong-nghe-day-song-voi-sieu-pham-moi-185251227111254933.htm",
+      "summary": "Kẻ ngáng đường Galaxy S26 Ultra xuất hiện, Motorola tái xuất với vũ khí bí mật 'Signature'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:05:00+07:00",
+      "fetched": "2025-12-27T15:22:54.028465+07:00"
+    },
+    {
+      "id": "c373476c68e8a019ab52ca9df150f092",
+      "title": "Khu vực TP.HCM đông kỷ lục với 35 đội tham dự giải Thanh Niên sinh viên Việt Nam",
+      "link": "https://thanhnien.vn/khu-vuc-tphcm-dong-ky-luc-voi-35-doi-tham-du-giai-thanh-nien-sinh-vien-viet-nam-185251227115436038.htm",
+      "summary": "Lần đầu tiên khu vực TP.HCM có đến 35 đội đăng ký tham dự giải bóng đá Thanh Niên sinh viên Việt Nam mùa 4 năm 2026 cúp Thaco.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:03:00+07:00",
+      "fetched": "2025-12-27T15:22:54.028635+07:00"
+    },
+    {
+      "id": "9def070745cc2be5a59daf6bee6e9515",
+      "title": "Tại sao thay đổi nhiệt độ đột ngột dễ gây đột quỵ?",
+      "link": "https://vnexpress.net/tai-sao-thay-doi-nhiet-do-dot-ngot-de-gay-dot-quy-4998552.html",
+      "summary": "Sự biến đổi nhiệt độ đột ngột có thể khiến huyết áp trồi sụt thất thường như \"tàu lượn siêu tốc\", trở thành tác nhân trực tiếp dẫn đến sốc nhiệt, nhồi máu cơ tim và đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.634676+07:00"
+    },
+    {
+      "id": "a7759d94f18292400db73fbcf0deaef7",
+      "title": "Bị ù tai khi mắc cúm có tự khỏi không?",
+      "link": "https://vnexpress.net/bi-u-tai-khi-mac-cum-co-tu-khoi-khong-4998966.html",
+      "summary": "Tôi đang bị cúm, ngoài ho, nghẹt mũi còn thấy ù tai, nghe kém, lùng bùng bên trong, liệu tình trạng này có hết không, nên làm gì? (Hưng Lê, 40 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T07:00:00+07:00",
+      "fetched": "2025-12-27T15:22:50.634840+07:00"
+    },
+    {
+      "id": "d103340571dc0edb70fa0dae2850860e",
+      "title": "Google có thể cho người dùng đổi địa chỉ Gmail",
+      "link": "https://vnexpress.net/google-co-the-cho-nguoi-dung-doi-dia-chi-gmail-4998989.html",
+      "summary": "Người dùng Gmail có thể được thay đổi địa chỉ tài khoản, trong khi vẫn giữ nguyên dữ liệu và các dịch vụ liên quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:59:30+07:00",
+      "fetched": "2025-12-27T15:22:50.634999+07:00"
+    },
+    {
+      "id": "d103340571dc0edb70fa0dae2850860e",
+      "title": "Google có thể cho người dùng đổi địa chỉ Gmail",
+      "link": "https://vnexpress.net/google-co-the-cho-nguoi-dung-doi-dia-chi-gmail-4998989.html",
+      "summary": "Người dùng Gmail có thể được thay đổi địa chỉ tài khoản, trong khi vẫn giữ nguyên dữ liệu và các dịch vụ liên quan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-27T06:59:30+07:00",
+      "fetched": "2025-12-27T15:23:04.958359+07:00"
+    },
+    {
+      "id": "9c10ea072508f98ada5c79eeb3a5c86c",
+      "title": "Ác mộng ở tầng 8 chung cư vẫn bị tiếng ồn karaoke tra tấn",
+      "link": "https://vnexpress.net/ac-mong-o-tang-8-chung-cu-van-bi-tieng-on-karaoke-tra-tan-4998881.html",
+      "summary": "Tôi chuyển đến một chung cư vào tháng 8, rơi vào trầm cảm nặng từ đó đến giờ, chỉ vì bị tiếng ồn karaoke bao vây tứ phía.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-27T06:59:15+07:00",
+      "fetched": "2025-12-27T15:22:50.635151+07:00"
     },
     {
       "id": "f097e0a33d5286991210e21666527024",
@@ -1751,6 +2091,16 @@ window.newsData_2025_12_27 = {
       "category": "Thể thao",
       "published": "2025-12-27T01:07:13+07:00",
       "fetched": "2025-12-27T08:21:46.910614+07:00"
+    },
+    {
+      "id": "1643913e43bb630cbff6f78c7736f000",
+      "title": "Bích Thuỳ chia vui cùng đồng đội nữ ở lễ trao Quả bóng Vàng 2025",
+      "link": "https://vnexpress.net/bich-thuy-chia-vui-cung-dong-doi-nu-o-le-trao-qua-bong-vang-2025-4998873.html",
+      "summary": "Tiền vệ Nguyễn Thị Bích Thuỳ đi cùng Trần Thị Duyên dự lễ trao giải Quả bóng Vàng Việt Nam 2025, tối 26/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-27T01:07:13+07:00",
+      "fetched": "2025-12-27T15:23:06.117901+07:00"
     },
     {
       "id": "d762deabbe9a72aa39adbb97c1df6622",
