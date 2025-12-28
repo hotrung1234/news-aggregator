@@ -1,7 +1,157 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T08:41:38.491506+07:00",
+  "lastUpdated": "2025-12-28T10:45:13.472265+07:00",
   "articles": [
+    {
+      "id": "ab9e8165aa9da3d6288f74a919677aa1",
+      "title": "Phòng Cảnh sát kinh tế Công an TP.HCM nói về tội phạm sản xuất thực phẩm giả",
+      "link": "https://tuoitre.vn/phong-canh-sat-kinh-te-cong-an-tp-hcm-noi-ve-toi-pham-san-xuat-thuc-pham-gia-20251228080014758.htm",
+      "summary": "Cảnh sát kinh tế Công an TP.HCM xác định công tác phòng chống tội phạm trong lĩnh vực lương thực, thực phẩm là nhiệm vụ trọng tâm và lâu dài với tinh thần 'xử lý một vụ để cảnh tỉnh cả một vùng, một lĩnh vực'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.268556+07:00",
+      "fetched": "2025-12-28T10:45:06.268669+07:00"
+    },
+    {
+      "id": "b7b97da26f7e640c48f5c6dc7d985a38",
+      "title": "Iran nói đang 'chiến tranh tổng lực' với Mỹ, Israel và châu Âu",
+      "link": "https://tuoitre.vn/iran-noi-dang-chien-tranh-tong-luc-voi-my-israel-va-chau-au-20251228082650502.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian cho rằng Israel, châu Âu và Mỹ đang tiến hành \"chiến tranh tổng lực\" chống lại Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.268430+07:00",
+      "fetched": "2025-12-28T10:45:06.268544+07:00"
+    },
+    {
+      "id": "8be4c5e3ca72aac56e520ff364b56f61",
+      "title": "Cúm A/H3N2 bùng phát: Tiêm vaccine cúm là lá chắn phòng bệnh hiệu quả",
+      "link": "https://tuoitre.vn/cum-a-h3n2-bung-phat-tiem-vaccine-cum-la-la-chan-phong-benh-hieu-qua-20251226141913727.htm",
+      "summary": "Số ca mắc cúm A đang gia tăng dịp cuối năm. Người dân nên chủ động thực hiện các biện pháp phòng tránh để bảo vệ sức khỏe bản thân và gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.268303+07:00",
+      "fetched": "2025-12-28T10:45:06.268418+07:00"
+    },
+    {
+      "id": "bdad640fd89221875d90bc18fd247610",
+      "title": "Bệnh viện Đại học Y Dược tri ân 90 đơn vị tài trợ đồng hành vì người bệnh",
+      "link": "https://tuoitre.vn/benh-vien-dai-hoc-y-duoc-tri-an-90-don-vi-tai-tro-dong-hanh-vi-nguoi-benh-20251227223554443.htm",
+      "summary": "Bệnh viện Đại học Y Dược tri ân 90 đơn vị tài trợ đồng hành vì người bệnh",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.268178+07:00",
+      "fetched": "2025-12-28T10:45:06.268292+07:00"
+    },
+    {
+      "id": "c8bd19822abb792a4fa74d0ca453a093",
+      "title": "Song đấu MMA Việt Nam bất phân thắng bại với Trung Quốc",
+      "link": "https://tuoitre.vn/song-dau-mma-viet-nam-bat-phan-thang-bai-voi-trung-quoc-2025122808341434.htm",
+      "summary": "Trận MMA Duo giữa Nguyễn Ngọc Thức - Nguyễn Xuân Phương chạm trán Liu Longquan - Zhang Xinbo (Trung Quốc) hấp dẫn như kỳ vọng nhưng kết thúc với kết quả hòa đầy phấn khích ở Lion Championship 29.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.268046+07:00",
+      "fetched": "2025-12-28T10:45:06.268166+07:00"
+    },
+    {
+      "id": "d41a037722cb423b922b7ba7e3fc0a19",
+      "title": "Thiếu hướng dẫn, hộ kinh doanh lo lắng với ngưỡng tính thuế",
+      "link": "https://tuoitre.vn/thieu-huong-dan-ho-kinh-doanh-lo-lang-voi-nguong-tinh-thue-20251228074703436.htm",
+      "summary": "Trong bối cảnh chính sách thuế đối với hộ kinh doanh chuẩn bị có những thay đổi lớn, việc chậm ban hành nghị định và thông tư hướng dẫn đang khiến nhiều hộ không khỏi lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267902+07:00",
+      "fetched": "2025-12-28T10:45:06.268034+07:00"
+    },
+    {
+      "id": "7e3bee4da853565b16dbd1f445716712",
+      "title": "2 võ sĩ Campuchia quật ngã các nhà vô địch Việt Nam",
+      "link": "https://tuoitre.vn/2-vo-si-campuchia-quat-nga-cac-nha-vo-dich-viet-nam-20251228085241458.htm",
+      "summary": "Với tính chất kịch tính ở \"Thần võ độc tôn\" ở Gods of Martial Arts - Thần Võ Việt Nam lần thứ 8, tổng đạo diễn Johnny Trí Nguyễn chứng kiến cả 3 nhà vô địch Việt Nam thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267759+07:00",
+      "fetched": "2025-12-28T10:45:06.267876+07:00"
+    },
+    {
+      "id": "33131558b92fbd251cbd8c0122090469",
+      "title": "Đồng lòng đưa đất nước phát triển nhanh, bền vững",
+      "link": "https://tuoitre.vn/dong-long-dua-dat-nuoc-phat-trien-nhanh-ben-vung-202512280815032.htm",
+      "summary": "\"Phong trào thi đua yêu nước sẽ mở ra một giai đoạn mới mạnh mẽ hơn, thực chất hơn, sáng tạo hơn, góp phần đưa đất nước phát triển nhanh và bền vững, để nhân dân ngày càng ấm no, hạnh phúc\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267632+07:00",
+      "fetched": "2025-12-28T10:45:06.267748+07:00"
+    },
+    {
+      "id": "7fc9caa1300776887500688fc0f045b2",
+      "title": "Kinh tế lifestyle làm TP.HCM đáng sống hơn",
+      "link": "https://tuoitre.vn/kinh-te-lifestyle-lam-tp-hcm-dang-song-hon-20251228011003283.htm",
+      "summary": "TP.HCM đang ngày càng nhắc nhiều đến \"kinh tế lifestyle\" như một động lực tăng trưởng mới. Tuy nhiên, với một đô thị hơn 10 triệu dân, phát triển bền vững phải bắt đầu từ nhịp sống thường nhật của số đông cư dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267503+07:00",
+      "fetched": "2025-12-28T10:45:06.267621+07:00"
+    },
+    {
+      "id": "738a469852d39080f0d0dbd1ec971d98",
+      "title": "'Cha đẻ' Apple tự in tiền đô để tiêu xài?",
+      "link": "https://tuoitre.vn/cha-de-apple-tu-in-tien-do-de-tieu-xai-20251227131642399.htm",
+      "summary": "Nhiều bài đăng trên mạng xã hội lan truyền thông tin cho rằng nhà đồng sáng lập Apple Steve Wozniak tự in tiền mệnh giá 2 USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267375+07:00",
+      "fetched": "2025-12-28T10:45:06.267492+07:00"
+    },
+    {
+      "id": "b91dcbc6d53576817acc768cc63dbf91",
+      "title": "Cà Mau làm gì với hàng trăm trụ sở dôi dư?",
+      "link": "https://tuoitre.vn/ca-mau-lam-gi-voi-hang-tram-tru-so-doi-du-20251228050143973.htm",
+      "summary": "Địa phương đang rà soát, phân loại để chuyển đổi công năng, cho thuê, đấu giá hoặc kêu gọi đầu tư, ưu tiên lĩnh vực y tế và giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267243+07:00",
+      "fetched": "2025-12-28T10:45:06.267363+07:00"
+    },
+    {
+      "id": "a2739724652470e220256c1dcfd56ea1",
+      "title": "Lan tỏa năng lượng tích cực: Nơi gặp gỡ của những 'sứ giả yêu thương'",
+      "link": "https://tuoitre.vn/lan-toa-nang-luong-tich-cuc-noi-gap-go-cua-nhung-su-gia-yeu-thuong-20251228084345175.htm",
+      "summary": "18 tác phẩm đạt giải tại cuộc thi Lan tỏa năng lượng tích cực 2025 chính là những \"sứ giả yêu thương\", đã mang đến lễ trao giải những câu chuyện về sự tử tế, nghị lực phi thường và niềm tin vào cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.267108+07:00",
+      "fetched": "2025-12-28T10:45:06.267231+07:00"
+    },
+    {
+      "id": "8c266c7f321e19f3b9bbb2e81b6f47f5",
+      "title": "Thổi bùng năng lượng từ mỗi người Việt Nam",
+      "link": "https://tuoitre.vn/thoi-bung-nang-luong-tu-moi-nguoi-viet-nam-20251228083102925.htm",
+      "summary": "Năm 2025 sắp khép lại, dự kiến Việt Nam sẽ cơ bản đạt được mục tiêu tổng quát đề ra, dự kiến đạt và vượt 15/15 chỉ tiêu chủ yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.266967+07:00",
+      "fetched": "2025-12-28T10:45:06.267096+07:00"
+    },
+    {
+      "id": "a63a0be351ce477045e51a2226c3925f",
+      "title": "Cách xử trí hạ đường huyết đúng cách tại nhà",
+      "link": "https://tuoitre.vn/cach-xu-tri-ha-duong-huyet-dung-cach-tai-nha-20251227185522659.htm",
+      "summary": "Hạ đường huyết thường xuất hiện đột ngột với các triệu chứng từ nhẹ đến nặng, việc nhận biết sớm là chìa khóa để can thiệp kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.266795+07:00",
+      "fetched": "2025-12-28T10:45:06.266952+07:00"
+    },
+    {
+      "id": "d958193711883cdbd2f6c193edc9e50b",
+      "title": "Làm gì để ngày tốt nghiệp 'sau này nhìn lại mình không tiếc nuối'?",
+      "link": "https://tuoitre.vn/lam-gi-de-ngay-tot-nghiep-sau-nay-nhin-lai-minh-khong-tiec-nuoi-20251228010505677.htm",
+      "summary": "Với nhiều sinh viên, lễ tốt nghiệp không đơn giản chỉ mang tính thủ tục mà như một cột mốc đánh dấu hành trình tuổi trẻ, tạm gọi là nấc thang đầu tiên trước khi chính thức \"va vào đời\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:45:06.266555+07:00",
+      "fetched": "2025-12-28T10:45:06.266779+07:00"
+    },
     {
       "id": "d4b5df451aba58f7114c202127ceee23",
       "title": "Trần Quyết Chiến thắng 100%, Bao Phương Vinh có chiến thắng đầu tiên tại Giải billiards đồng đội",
@@ -163,6 +313,36 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T05:16:30.466560+07:00"
     },
     {
+      "id": "23eb558d46fb3390c934de0be63ee485",
+      "title": "Chung cư ở TP.HCM: 2.500 cư dân 7 năm mòn mỏi đi nhờ đường xe container",
+      "link": "https://thanhnien.vn/chung-cu-o-tphcm-2500-cu-dan-7-nam-mon-moi-di-nho-duong-xe-container-185251227110012294.htm",
+      "summary": "Suốt 7 năm qua, hơn 2.500 cư dân chung cư Luxgarden (TP.HCM) phải đi nhờ đường nội bộ cảng, sống giữa xe container, bụi bẩn và nỗi lo tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:41:00+07:00",
+      "fetched": "2025-12-28T10:45:04.997943+07:00"
+    },
+    {
+      "id": "641134a3feac884364f08576e1cd8d2f",
+      "title": "Vĩnh Long: Cửa hàng điện máy bốc cháy giữa đêm, cả khu dân cư hốt hoảng",
+      "link": "https://thanhnien.vn/vinh-long-cua-hang-dien-may-boc-chay-giua-dem-ca-khu-dan-cu-hot-hoang-185251228092348025.htm",
+      "summary": "Cửa hàng điện máy tọa lạc P.Phước Hậu (Vĩnh Long) bất ngờ bốc cháy dữ dội giữa đêm, khiến cả khu dân cư hốt hoảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:34:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998119+07:00"
+    },
+    {
+      "id": "6d69c7d51b4a57e54bec465724592dc3",
+      "title": "Trung Quốc bổ nhiệm nữ cơ trưởng đầu tiên lái máy bay nội địa",
+      "link": "https://vnexpress.net/trung-quoc-bo-nhiem-nu-co-truong-dau-tien-lai-may-bay-noi-dia-4999174.html",
+      "summary": "Trung Quốc bổ nhiệm nữ phi công \"10 năm không mắc lỗi\" làm cơ trưởng chuyên trách cho máy bay C919 do nước này tự sản xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-28T03:21:07+07:00",
+      "fetched": "2025-12-28T10:45:07.623204+07:00"
+    },
+    {
       "id": "c48c41ab6395f70528d189a4e7377899",
       "title": "Những câu hỏi 'tặng quà' trong đề sát hạch lý thuyết lái mô tô",
       "link": "https://tuoitre.vn/nhung-cau-hoi-tang-qua-trong-de-sat-hach-ly-thuyet-lai-mo-to-20251226170029001.htm",
@@ -171,6 +351,296 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T03:19:09.710247+07:00",
       "fetched": "2025-12-28T03:19:09.710466+07:00"
+    },
+    {
+      "id": "da95bf8aa6d6d1c203b96e5716d85c13",
+      "title": "Những smartphone từng được tung hô nhưng lại là 'thảm họa công nghệ'",
+      "link": "https://thanhnien.vn/nhung-smartphone-tung-duoc-tung-ho-nhung-lai-la-tham-hoa-cong-nghe-185251225173829607.htm",
+      "summary": "Không phải mọi ý tưởng táo bạo đều dẫn tới thành công, nhiều smartphone từng được kỳ vọng lớn lại trở thành thất bại đáng quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:19:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998278+07:00"
+    },
+    {
+      "id": "4e3d6a4a5dd003a3dc8150f786d2b294",
+      "title": "Phương Trang miễn phí vé xe buýt tại TP.HCM dịp Tết Dương lịch và Tết Nguyên đán",
+      "link": "https://thanhnien.vn/phuong-trang-mien-phi-ve-xe-buyt-tai-tphcm-dip-tet-duong-lich-va-tet-nguyen-dan-185251227224811036.htm",
+      "summary": "Dịp Tết Dương lịch và Tết Nguyên đán Bính Ngọ 2026, Công ty Phương Trang thực hiện chương trình miễn phí giá vé xe buýt dành cho người dân tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:17:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998435+07:00"
+    },
+    {
+      "id": "0880a07a8929c02d3f012f8171bdae0b",
+      "title": "'Bánh kem thành tựu' là gì mà hot trend?: Khép lại năm 2025 theo cách ngọt ngào",
+      "link": "https://thanhnien.vn/banh-kem-thanh-tuu-la-gi-ma-hot-trend-khep-lai-nam-2025-theo-cach-ngot-ngao-185251228081430088.htm",
+      "summary": "Chiếc 'bánh kem thành tựu' đang hot rần rần mạng xã hội khi nhiều người dùng để tổng kết, nhìn lại năm 2025 của mình theo cách đặc biệt. Vậy, 'bánh kem thành tựu' là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:16:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998591+07:00"
+    },
+    {
+      "id": "669c1f3c86620aaf3493bb034ccae247",
+      "title": "Rút bảo hiểm xã hội 1 lần: Điều kiện, hồ sơ, thủ tục mới nhất",
+      "link": "https://thanhnien.vn/rut-bao-hiem-xa-hoi-1-lan-dieu-kien-ho-so-thu-tuc-moi-nhat-185251226005501078.htm",
+      "summary": "Hướng dẫn chi tiết thủ tục rút bảo hiểm xã hội 1 lần cho người lao động: điều kiện áp dụng trước và sau ngày 1.7.2025, hồ sơ cần chuẩn bị, hình thức nộp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:14:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998744+07:00"
+    },
+    {
+      "id": "7a439e442b5481a264df79188bc521a3",
+      "title": "Đối thủ đầu tiên của U.23 Việt Nam tại châu Á bị ‘tịt ngòi’ hay đang cố tình giấu bài?",
+      "link": "https://thanhnien.vn/doi-thu-dau-tien-cua-u23-viet-nam-tai-chau-a-bi-tit-ngoi-hay-dang-co-tinh-giau-bai-185251228100438081.htm",
+      "summary": "U.23 Jordan, đối thủ đầu tiên của U.23 Việt Nam tại vòng bảng giải châu Á sắp diễn ra ở Ả Rập Xê Út, vừa có trận chạy đà không suôn sẻ khi bị U.23 Uzbekistan thủ hòa với tỷ số 0-0 tại Doha, Qatar ngày 27.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:12:00+07:00",
+      "fetched": "2025-12-28T10:45:04.998913+07:00"
+    },
+    {
+      "id": "d4dc4c7fdc3dd686548373b7a4e33875",
+      "title": "Bắt giữ 2 vụ mua bán pháo nổ trái phép tại xã Xuân Thới Sơn, TP.HCM",
+      "link": "https://thanhnien.vn/bat-giu-2-vu-mua-ban-phao-no-trai-phep-tai-xa-xuan-thoi-son-tphcm-185251228081236941.htm",
+      "summary": "Công an xã Xuân Thới Sơn, TP.HCM vừa phối hợp lực lượng chức năng liên tiếp triệt phá 2 vụ mua bán pháo nổ trái phép, thu giữ nhiều hộp pháo dàn không rõ nguồn gốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:10:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999082+07:00"
+    },
+    {
+      "id": "611d6a79f604f5e7f10551e991cf0ad2",
+      "title": "Giá Bitcoin hôm nay 28.12.2025: Trộm cắp, sập giá BTC kết thúc tuần giao dịch trì trệ",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-28122025-trom-cap-sap-gia-btc-ket-thuc-tuan-giao-dich-tri-tre-185251228075640503.htm",
+      "summary": "Giá Bitcoin hôm nay gần như đi ngang, không có quá nhiều biến động khi được giao dịch quanh mốc 87.730 USD, kết thúc một tuần giao dịch trì trệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:09:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999230+07:00"
+    },
+    {
+      "id": "4e94d1ebddd6a4f923ae18b75a6c8686",
+      "title": "Năm 2025, ngành y tế TP.HCM đã làm được gì?",
+      "link": "https://thanhnien.vn/nam-2025-nganh-y-te-tphcm-da-lam-duoc-gi-185251228082828979.htm",
+      "summary": "Ngành y tế TP.HCM năm 2025 ghi dấu bước chuyển lớn: mở rộng hệ thống, củng cố y tế cơ sở, phát triển chuyên sâu, kiểm soát dịch bệnh và chuyển đổi số toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:08:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999382+07:00"
+    },
+    {
+      "id": "365d10f6c7a1d1ec4fb6473f4d9865f9",
+      "title": "10 sự kiện quốc tế nổi bật năm 2025",
+      "link": "https://thanhnien.vn/10-su-kien-quoc-te-noi-bat-nam-2025-185251228091723293.htm",
+      "summary": "Thế giới năm 2025 là một bức tranh nhiều mảng tối sáng đan xen, trong đó xung đột, thiên tai gây ra nhiều mất mát, những xu hướng mới cũng đang định hình toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:06:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999528+07:00"
+    },
+    {
+      "id": "e51e16706cd3c4eef72a979b89ed9cac",
+      "title": "Hồ Văn Cường gây xúc động khi hát 'Giấc mơ cánh cò' cùng Như Quỳnh",
+      "link": "https://thanhnien.vn/ho-van-cuong-gay-xuc-dong-khi-hat-giac-mo-canh-co-cung-nhu-quynh-185251228092224082.htm",
+      "summary": "Trong đêm nhạc mới đây, Hồ Văn Cường gây xúc động khi song ca cùng Như Quỳnh ca khúc 'Giấc mơ cánh cò'. Sự hòa quyện của cả hai mang đến nhiều cảm xúc cho khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:04:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999680+07:00"
+    },
+    {
+      "id": "f77d2e27c729167d71a0ac84a55a9fff",
+      "title": "Nghề trồng hoa Sa Đéc được công nhận di sản quốc gia",
+      "link": "https://vnexpress.net/nghe-trong-hoa-sa-dec-duoc-cong-nhan-di-san-quoc-gia-4999092.html",
+      "summary": "Làng hoa Sa Đéc thủ phủ hoa Tết miền Tây được công nhận di sản văn hóa phi vật thể quốc gia nhờ mang nhiều giá trị từ lịch sử, tri thức đến kết nối cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:01:34+07:00",
+      "fetched": "2025-12-28T10:45:01.738789+07:00"
+    },
+    {
+      "id": "99e8411f5a293db35a9ff6e4f69aaba2",
+      "title": "Từ 2026, người dân có quyền yêu cầu xóa dữ liệu cá nhân",
+      "link": "https://vnexpress.net/tu-2026-nguoi-dan-co-quyen-yeu-cau-xoa-du-lieu-ca-nhan-4999068.html",
+      "summary": "Từ ngày 1/1/2026, khi Luật Bảo vệ dữ liệu cá nhân có hiệu lực, người dân lần đầu được trao quyền yêu cầu xóa dữ liệu của mình khỏi hệ thống của các tổ chức, doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:01:33+07:00",
+      "fetched": "2025-12-28T10:45:01.738996+07:00"
+    },
+    {
+      "id": "35bead73ca786fef81700eadfc1229de",
+      "title": "Thành ngữ nào gắn liền với chim trời cá nước?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-thanh-ngu-nao-gan-lien-voi-chim-troi-ca-nuoc-4998119.html",
+      "summary": "Thành ngữ chỉ cuộc sống phiêu bạt, nơi đây mai đó, không ở nhất định một chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:00:00+07:00",
+      "fetched": "2025-12-28T10:45:01.739173+07:00"
+    },
+    {
+      "id": "964b82013703ac6134908ea5d2907429",
+      "title": "Hàng chục xe VinFast hút khách tham quan tại triển lãm",
+      "link": "https://vnexpress.net/hang-chuc-xe-vinfast-hut-khach-tham-quan-tai-trien-lam-4999151.html",
+      "summary": "Khách tham quan đánh giá cao khu trưng bày VinFast nhờ đa dạng sản phẩm, giá dễ tiếp cận và phù hợp số đông người dùng, tại Vietnam Mobility Show 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:00:00+07:00",
+      "fetched": "2025-12-28T10:45:01.739334+07:00"
+    },
+    {
+      "id": "0d8326733c8651fc73b6230885ea64ea",
+      "title": "Công dụng của cải thìa với sức khỏe",
+      "link": "https://vnexpress.net/cong-dung-cua-cai-thia-voi-suc-khoe-4999047.html",
+      "summary": "Bổ sung cải thìa vào chế độ ăn có thể giúp chống viêm, nuôi dưỡng làn da, tăng cường sức khỏe xương và hỗ trợ kiểm soát cân nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:00:00+07:00",
+      "fetched": "2025-12-28T10:45:01.739498+07:00"
+    },
+    {
+      "id": "75f7ae147baca0e1587fae1797214612",
+      "title": "Áo khoác bolero vượt khỏi khuôn khổ cổ điển, tôn dáng cho phái đẹp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-bolero-vuot-khoi-khuon-kho-co-dien-ton-dang-cho-phai-dep-185251226234623559.htm",
+      "summary": "Áo khoác bolero luôn giữ một vị trí đặc biệt trong lòng những tín đồ thời trang nhờ khả năng biến hóa phong cách linh hoạt và vẻ ngoài đầy cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T03:00:00+07:00",
+      "fetched": "2025-12-28T10:45:04.999832+07:00"
+    },
+    {
+      "id": "f79a2a865875145a7fe2b141ae431f9a",
+      "title": "Bi hài chuyện phạt con lười học bằng 'khổ nhục kế'",
+      "link": "https://vnexpress.net/bi-hai-chuyen-phat-con-luoi-hoc-bang-kho-nhuc-ke-4995940.html",
+      "summary": "Thấy con lười học, chị Trang thuê người đóng giả tuyển dụng MC đám hiếu, còn chị Tuyền cho con gái 6 tuổi nghỉ học đi bộ bán vé số giữa trưa nắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:49:27+07:00",
+      "fetched": "2025-12-28T10:45:01.739657+07:00"
+    },
+    {
+      "id": "c51a44bbe7d33cc80fb61f8ad0d6a90b",
+      "title": "Du lịch Khánh Hòa thắng đậm năm 2025 nhờ nhiều sự kiện nổi bật",
+      "link": "https://thanhnien.vn/du-lich-khanh-hoa-thang-dam-nam-2025-nho-nhieu-su-kien-noi-bat-185251228095423852.htm",
+      "summary": "Lễ hội Văn hóa - Du lịch biển với nhiều sự kiện đặc sắc, mở rộng mạng bay quốc tế và phát triển du lịch cộng đồng là những giải pháp trọng tâm giúp Khánh Hòa thu hút hàng triệu lượt khách trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:42:00+07:00",
+      "fetched": "2025-12-28T10:45:05.000010+07:00"
+    },
+    {
+      "id": "1670213f975c0eebe293e0049af4e037",
+      "title": "Hàng xóm hát karaoke tra tấn dằn mặt tôi trên nhóm cư dân chung cư",
+      "link": "https://vnexpress.net/hang-xom-hat-karaoke-tra-tan-dan-mat-toi-tren-nhom-cu-dan-chung-cu-4999152.html",
+      "summary": "'Có gì thì nói chuyện riêng, chứ sao phải lên đây dọa', người gây ồn dằn mặt khi tôi đăng file ghi âm vào nhóm chat cư dân chung cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:41:53+07:00",
+      "fetched": "2025-12-28T10:45:01.739814+07:00"
+    },
+    {
+      "id": "6106d8263451162f4ddcd2ddd3947226",
+      "title": "Thanh Duy giả gái hát cùng Như Quỳnh",
+      "link": "https://vnexpress.net/thanh-duy-gia-gai-hat-cung-nhu-quynh-4999136.html",
+      "summary": "Ca sĩ Thanh Duy bắt chước thần tượng Như Quỳnh từ giọng hát đến ngoại hình trong chương trình \"Hương sắc giai nhân\", tối 27/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:41:15+07:00",
+      "fetched": "2025-12-28T10:45:01.739999+07:00"
+    },
+    {
+      "id": "44100086aa13896eb41888c71c5f9ad4",
+      "title": "Quảng Ngãi: Một người đàn ông bất ngờ bị bắn ở cổng trung tâm y tế xã",
+      "link": "https://thanhnien.vn/quang-ngai-mot-nguoi-dan-ong-bat-ngo-bi-ban-o-cong-trung-tam-y-te-xa-185251228080601464.htm",
+      "summary": "Một người đàn ông đang bước vào Trung tâm y tế xã Rờ Kơi (Quảng Ngãi) thì bất ngờ bị một người lạ mặt dùng súng hơi bắn vào người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:41:00+07:00",
+      "fetched": "2025-12-28T10:45:05.000173+07:00"
+    },
+    {
+      "id": "1dc7093228c350fd96b15c65a0cf0803",
+      "title": "Ôtô ba bánh độc nhất ở Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/oto-ba-banh-doc-nhat-o-vietnam-mobility-show-2025-4999160.html",
+      "summary": "Mẫu xe có tay lái nghịch, hai chỗ hàng hiếm ở khu vực dành cho những nguời yêu xe cổ, là điểm nhấn thu hút khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:38:37+07:00",
+      "fetched": "2025-12-28T10:45:01.740171+07:00"
+    },
+    {
+      "id": "c1a5319e68ca4759f7f8e6d1b6897811",
+      "title": "Chuyên gia chỉ cách ngủ ngồi thoải mái trên máy bay",
+      "link": "https://vnexpress.net/chuyen-gia-chi-cach-ngu-ngoi-thoai-mai-tren-may-bay-4999024.html",
+      "summary": "Du khách có thể tham khảo lời khuyên từ chuyên gia công thái học hướng dẫn tư thế ngủ thoải mái trên những chuyến bay hạng phổ thông có chỗ ngồi chật chội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:29:18+07:00",
+      "fetched": "2025-12-28T10:45:01.740331+07:00"
+    },
+    {
+      "id": "a94ba63c5e3cf82ada2a5ec7268291fa",
+      "title": "Nơi người dân mặc 10 kg quần áo vì lạnh",
+      "link": "https://vnexpress.net/noi-nguoi-dan-mac-10-kg-quan-ao-vi-lanh-4998607.html",
+      "summary": "Yakutsk được biết đến là thành phố lạnh nhất Trái Đất, nơi người dân mặc tới 10 kg quần áo khi nhiệt độ xuống -64 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:28:48+07:00",
+      "fetched": "2025-12-28T10:45:01.740485+07:00"
+    },
+    {
+      "id": "725bade03745b90763783a5467fea1f5",
+      "title": "Vỡ mộng 'giấc mơ Mỹ' của người trẻ Ấn Độ",
+      "link": "https://vnexpress.net/vo-mong-giac-mo-my-cua-nguoi-tre-an-do-4999096.html",
+      "summary": "Vượt rừng rậm và băng đảng tội phạm để đến Mỹ với kỳ vọng đổi đời, nhưng Mohit Kaatiya giờ đây chỉ thấy nợ nần, sợ hãi và tương lai bất định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:28:38+07:00",
+      "fetched": "2025-12-28T10:45:01.740643+07:00"
+    },
+    {
+      "id": "34ce5c99c7aa291da91bcebe4adbaa67",
+      "title": "Việt Nam nguy cơ thiếu 1,3 triệu phụ nữ kết hôn trong 20 năm tới",
+      "link": "https://vnexpress.net/viet-nam-nguy-co-thieu-1-3-trieu-phu-nu-ket-hon-trong-20-nam-toi-4999146.html",
+      "summary": "Tổng cục Thống kê dự báo đến năm 2049, Việt Nam thiếu hụt khoảng 1,3 triệu phụ nữ trong độ tuổi kết hôn do hệ lụy của tình trạng mất cân bằng khi sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:28:32+07:00",
+      "fetched": "2025-12-28T10:45:01.740805+07:00"
+    },
+    {
+      "id": "6254bab7b5545ac80915ae3ae66ba28e",
+      "title": "Các gia đình đổ về giải chạy Carlympic Family Run 2025",
+      "link": "https://vnexpress.net/cac-gia-dinh-do-ve-giai-chay-carlympic-family-run-2025-4999141.html",
+      "summary": "Có gia đình 20 thành viên thuộc ba thế hệ đã đến sớm để nhận bib, tại Cung triển lãm Kim Quy, Trung tâm triển lãm VEC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:22:50+07:00",
+      "fetched": "2025-12-28T10:45:01.740977+07:00"
+    },
+    {
+      "id": "1f03c722f7f20f1dbe860730d4f81ca5",
+      "title": "Cuộc chiến tìm việc tuổi xế chiều của người Mỹ",
+      "link": "https://vnexpress.net/cuoc-chien-tim-viec-tuoi-xe-chieu-cua-nguoi-my-4999122.html",
+      "summary": "Lynn Lee, 65 tuổi, bật khóc khi lần thứ tư bị sa thải, đối mặt khoản nợ 50.000 USD và nguy cơ mất nhà ở Nam Carolina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T02:12:58+07:00",
+      "fetched": "2025-12-28T10:45:01.741149+07:00"
+    },
+    {
+      "id": "7ba5159bfe786b9eb690a208ea6f0657",
+      "title": "Điện thoại gập ba Galaxy Z TriFold bị chê kém bền",
+      "link": "https://vnexpress.net/dien-thoai-gap-ba-galaxy-z-trifold-bi-che-kem-ben-4999113.html",
+      "summary": "Smartphone gập ba của Samsung không chịu được bẻ ngược như mẫu gập đôi Galaxy Z Fold7, trong khi khả năng kháng bụi và độ bền bản lề cũng kém hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T02:00:00+07:00",
+      "fetched": "2025-12-28T10:45:12.135503+07:00"
     },
     {
       "id": "62d87a24c4313587743b1425fe01e0c2",
