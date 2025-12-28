@@ -1,7 +1,87 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T21:16:48.262042+07:00",
+  "lastUpdated": "2025-12-28T23:21:29.407244+07:00",
   "articles": [
+    {
+      "id": "e5d18103f17d82695dd263b3beae8f78",
+      "title": "Vợ Bruce Willis nói bệnh sa sút trí tuệ của chồng làm mọi việc phức tạp hơn",
+      "link": "https://tuoitre.vn/vo-bruce-willis-noi-benh-sa-sut-tri-tue-cua-chong-lam-moi-viec-phuc-tap-hon-20251228193639668.htm",
+      "summary": "Vợ của tài tử Hollywood Bruce Willis, Emma Heming, vừa có những chia sẻ hành trình chăm sóc chồng mắc chứng sa sút trí tuệ, gọi kỳ nghỉ Giáng sinh vừa qua là 'những ngày lễ giờ đã khác'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.964415+07:00",
+      "fetched": "2025-12-28T23:21:20.964543+07:00"
+    },
+    {
+      "id": "c0eb3090dcf9d64d4344cc98036e7119",
+      "title": "Vĩnh biệt Brigitte Bardot, người từng là biểu tượng sắc đẹp của cả thế giới",
+      "link": "https://tuoitre.vn/vinh-biet-brigitte-bardot-nguoi-tung-la-bieu-tuong-sac-dep-cua-ca-the-gioi-20251228200002097.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron đã gửi lời tưởng niệm Brigitte Bardot, ông viết trên X: 'Chúng ta tiếc thương một huyền thoại của thế kỷ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.964294+07:00",
+      "fetched": "2025-12-28T23:21:20.964404+07:00"
+    },
+    {
+      "id": "ea25ebb4df6b12f722bba0b9ce6e8846",
+      "title": "Vietcombank 'bơm' chục nghìn tỉ cho một công ty chứng khoán",
+      "link": "https://tuoitre.vn/vietcombank-bom-chuc-nghin-ti-cho-mot-cong-ty-chung-khoan-20251228200900421.htm",
+      "summary": "Công ty TNHH Chứng khoán Vietcombank (VCBS) sắp được tăng vốn từ 2.500 tỉ đồng lên 12.500 tỉ đồng, tức gấp 5 lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.964171+07:00",
+      "fetched": "2025-12-28T23:21:20.964282+07:00"
+    },
+    {
+      "id": "3cc172e0f59e4282233eaab304a6eb3e",
+      "title": "Đảng, Nhà nước tặng quà nhân dịp chào mừng Đại hội Đảng XIV và Tết Nguyên đán",
+      "link": "https://tuoitre.vn/dang-nha-nuoc-tang-qua-nhan-dip-chao-mung-dai-hoi-dang-xiv-va-tet-nguyen-dan-20251228200529185.htm",
+      "summary": "Chính phủ vừa ban hành Nghị quyết số 418 ngày 28-12 về việc tặng quà của Đảng, Nhà nước cho người có công với cách mạng, các đối tượng bảo trợ xã hội, hưu trí xã hội và đối tượng yếu thế khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.964046+07:00",
+      "fetched": "2025-12-28T23:21:20.964160+07:00"
+    },
+    {
+      "id": "3f3d240e01edd3a1c8b1f6f1dc90113a",
+      "title": "Bàn giao 5 căn nhà đầu tiên trong Chiến dịch Quang Trung cho người dân vùng lũ Phú Yên cũ",
+      "link": "https://tuoitre.vn/ban-giao-5-can-nha-dau-tien-trong-chien-dich-quang-trung-cho-nguoi-dan-vung-lu-phu-yen-cu-20251228201034007.htm",
+      "summary": "Những căn nhà đầu tiên trong Chiến dịch Quang Trung tại vùng lũ Phú Yên cũ (nay thuộc Đắk Lắk) được lực lượng quân đội hoàn thành và bàn giao cho người dân xã Sơn Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.963920+07:00",
+      "fetched": "2025-12-28T23:21:20.964034+07:00"
+    },
+    {
+      "id": "de2dd43114ddc56287533c6311597c4f",
+      "title": "Không khí lạnh tăng cường dịp Tết dương lịch 2026",
+      "link": "https://tuoitre.vn/khong-khi-lanh-tang-cuong-dip-tet-duong-lich-2026-20251228202753718.htm",
+      "summary": "Dự báo trong dịp nghỉ Tết dương lịch 2026, một đợt không khí lạnh tràn xuống miền Bắc gây mưa rải rác và rét. Còn Nam Bộ ngày nắng, chiều tối có mưa rào và dông vài nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.963792+07:00",
+      "fetched": "2025-12-28T23:21:20.963908+07:00"
+    },
+    {
+      "id": "111f4f57cf09a328432997bccecd1f28",
+      "title": "Ẩn số 4 thành viên HĐQT dự kiến bầu bổ sung của Sacombank",
+      "link": "https://tuoitre.vn/an-so-4-thanh-vien-hdqt-du-kien-bau-bo-sung-cua-sacombank-20251228204405273.htm",
+      "summary": "Cổ đông Sacombank sẽ thực hiện quyền đề cử nhân sự dự kiến bầu bổ sung làm thành viên hội đồng quản trị (HĐQT) của ngân hàng này. Dự kiến sẽ là bốn người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.963655+07:00",
+      "fetched": "2025-12-28T23:21:20.963780+07:00"
+    },
+    {
+      "id": "12512adbdb736eb1e3a1912e247edb05",
+      "title": "Quân đội Thái Lan: 'Biên giới đã yên, người dân hãy về nhà'",
+      "link": "https://tuoitre.vn/quan-doi-thai-lan-bien-gioi-da-yen-nguoi-dan-hay-ve-nha-20251228210012088.htm",
+      "summary": "Nhiều đơn vị quân đội Thái Lan cùng thông báo tình hình tại các điểm nóng biên giới giữa nước này và Campuchia đã ổn định, kêu gọi người dân về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T23:21:20.963416+07:00",
+      "fetched": "2025-12-28T23:21:20.963639+07:00"
+    },
     {
       "id": "e8c964e7d1bbc40eb7c07fb6ee6a4606",
       "title": "3 trẻ chết đuối khi tắm hồ tưới cà phê ở Đắk Lắk",
@@ -283,6 +363,56 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T17:17:55.168266+07:00"
     },
     {
+      "id": "c8c9fbcebfceeb268d27a7f9bb82a21e",
+      "title": "Đêm nhạc 'Về đây bốn cánh chim trời' hoãn sát giờ diễn khiến khán giả bức xúc",
+      "link": "https://thanhnien.vn/dem-nhac-ve-day-bon-canh-chim-troi-hoan-sat-gio-dien-khien-khan-gia-buc-xuc-185251228230201327.htm",
+      "summary": "Nhiều khán giả không khỏi bức xúc khi ban tổ chức 'Về đây bốn cánh chim trời' thông báo hoãn show ngay trước giờ khai màn. Trước đó, một số nghệ sĩ cũng lên tiếng, cho biết phía ban tổ chức đã không làm đúng như hợp đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T16:11:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788112+07:00"
+    },
+    {
+      "id": "04186931448c6e1c5df0074ef84c5e4c",
+      "title": "Carlsen đoạt danh hiệu thế giới thứ 21",
+      "link": "https://vnexpress.net/carlsen-doat-danh-hieu-the-gioi-thu-21-4999300.html",
+      "summary": "Kỳ thủ 35 tuổi Magnus Carlsen lần thứ sáu vô địch cờ nhanh thế giới, với 10,5 điểm sau 13 ván tại giải năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T15:58:13+07:00",
+      "fetched": "2025-12-28T23:21:29.395461+07:00"
+    },
+    {
+      "id": "60b877abce3236b45d6ba2d2dd61d5a5",
+      "title": "The Signature Penthouse: Biệt thự trên cao tái định nghĩa chuẩn sống xa hoa giữa lòng TP.HCM",
+      "link": "https://thanhnien.vn/the-signature-penthouse-biet-thu-tren-cao-tai-dinh-nghia-chuan-song-xa-hoa-giua-long-tphcm-185251212152736978.htm",
+      "summary": "Giữa nhịp sống không ngừng chuyển động của siêu đô thị TP.HCM ngay Vành đai 2, The Signature Penthouse tại FIATO UPTOWN xuất hiện như một phiên bản sống trầm lắng, tinh tế và đủ chiều sâu để chạm đến nội tâm những người thật sự am hiểu giá trị của sự riêng tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T15:40:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788279+07:00"
+    },
+    {
+      "id": "b80123e88a3c10e05432f2592afd30cb",
+      "title": "Tổng thống Pezeshkian: Iran giờ đã mạnh hơn giai đoạn xung đột 12 ngày",
+      "link": "https://vnexpress.net/tong-thong-pezeshkian-iran-gio-da-manh-hon-giai-doan-xung-dot-12-ngay-4999290.html",
+      "summary": "Tổng thống Iran tuyên bố khí tài và nhân lực nước này giờ đã mạnh hơn so với giai đoạn bùng phát xung đột với Israel hồi tháng 6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T15:27:43+07:00",
+      "fetched": "2025-12-28T23:21:16.668500+07:00"
+    },
+    {
+      "id": "b80123e88a3c10e05432f2592afd30cb",
+      "title": "Tổng thống Pezeshkian: Iran giờ đã mạnh hơn giai đoạn xung đột 12 ngày",
+      "link": "https://vnexpress.net/tong-thong-pezeshkian-iran-gio-da-manh-hon-giai-doan-xung-dot-12-ngay-4999290.html",
+      "summary": "Tổng thống Iran tuyên bố khí tài và nhân lực nước này giờ đã mạnh hơn so với giai đoạn bùng phát xung đột với Israel hồi tháng 6.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-28T15:27:43+07:00",
+      "fetched": "2025-12-28T23:21:23.132770+07:00"
+    },
+    {
       "id": "c1517bfaebc941e928b545879adba040",
       "title": "Một năm rồi cũng qua",
       "link": "https://tuoitre.vn/mot-nam-roi-cung-qua-20251228100255185.htm",
@@ -433,6 +563,76 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T15:23:03.223395+07:00"
     },
     {
+      "id": "a89d87390716f18b47a662acb08d24e1",
+      "title": "Thêm một đại học tư thục dự kiến mở ngành Y khoa",
+      "link": "https://vnexpress.net/phuong-thuc-to-hop-tuyen-sinh-dai-hoc-cong-nghe-tp-hcm-nam-2026-chi-tiet-4999221.html",
+      "summary": "Trường Đại học Công nghệ TP HCM (HUTECH) dự kiến mở ba ngành mới, trong đó có Y khoa và Y học cổ truyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T15:04:43+07:00",
+      "fetched": "2025-12-28T23:21:16.668695+07:00"
+    },
+    {
+      "id": "16337211b790ad59a32f8963f5388a4f",
+      "title": "Brigitte Bardot: Cuộc đời nổi loạn của biểu tượng gợi cảm nước Pháp",
+      "link": "https://thanhnien.vn/brigitte-bardot-cuoc-doi-noi-loan-cua-bieu-tuong-goi-cam-nuoc-phap-185251228213750215.htm",
+      "summary": "Khi Brigitte Bardot qua đời ở tuổi 91 vào ngày 28.12.2025, giới văn hóa và giải trí thế giới đã mất đi một trong những biểu tượng điện ảnh nổi bật nhất của thế kỷ 20. Tên tuổi của bà không chỉ gắn liền với điện ảnh Pháp mà còn là một hiện tượng toàn cầu, biểu trưng cho sự giải phóng cá nhân, quyền t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T15:04:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788438+07:00"
+    },
+    {
+      "id": "74412f1bfae5ea57e4c99e403a84d49c",
+      "title": "Con trai Thương Tín: 69 năm qua, ba đã sống một đời đầy biến động",
+      "link": "https://thanhnien.vn/con-trai-thuong-tin-69-nam-qua-ba-da-song-mot-doi-day-bien-dong-185251228211043633.htm",
+      "summary": "Trong lễ cúng thất, con trai của cố nghệ sĩ Thương Tín đã có những chia sẻ xúc động về cuộc đời nhiều thăng trầm của ba.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T15:00:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788609+07:00"
+    },
+    {
+      "id": "9ae65d3d21d5eea72ad1a39119de3fdf",
+      "title": "Brigitte Bardot - biểu tượng quyến rũ màn bạc",
+      "link": "https://vnexpress.net/brigitte-bardot-bieu-tuong-quyen-ru-man-bac-4999289.html",
+      "summary": "Minh tinh Pháp Brigitte Bardot khuynh đảo làng phim thế giới với vẻ đẹp vừa ngây thơ vừa gợi cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T14:54:45+07:00",
+      "fetched": "2025-12-28T23:21:16.668856+07:00"
+    },
+    {
+      "id": "114ed52db8cf82dba00e4bf40e63c3b9",
+      "title": "Hơn 1.200 xe máy của công nhân được kiểm tra, bảo dưỡng miễn phí",
+      "link": "https://thanhnien.vn/hon-1200-xe-may-cua-cong-nhan-duoc-kiem-tra-bao-duong-mien-phi-185251227184525015.htm",
+      "summary": "Trước dịp đi lại cao điểm cuối năm, một số thương hiệu phụ tùng đã kết hợp, tổ chức chương trình ý nghĩa nhằm hỗ trợ kiểm tra, bảo dưỡng miễn phí xe máy cho công nhân tại khu chế xuất Tân Thuận, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T14:35:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788760+07:00"
+    },
+    {
+      "id": "0f720dd10e9dc5e54c746c062d858d1f",
+      "title": "Lửa bùng dữ dội trên tầng tum 5 nhà liền kề",
+      "link": "https://vnexpress.net/lua-bung-du-doi-tren-tang-tum-5-nha-lien-ke-4999282.html",
+      "summary": "Lửa bắt nguồn từ phần mái của căn nhà liền kề thuộc khu C, khu đô thị Geleximco, phường Dương Nội, sau lan sang mái của 4 căn nhà bên cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T14:28:35+07:00",
+      "fetched": "2025-12-28T23:21:16.669011+07:00"
+    },
+    {
+      "id": "4147640e63cf7524350dafa4b8e91aa1",
+      "title": "HLV từng dự World Cup 2022 sắp dẫn dắt đội tuyển và cả U.23 Indonesia: Lương ‘khủng’ 1 tỉ đồng/tháng",
+      "link": "https://thanhnien.vn/hlv-tung-du-world-cup-2022-sap-dan-dat-doi-tuyen-va-ca-u23-indonesia-luong-khung-1-ti-dong-thang-185251228211638358.htm",
+      "summary": "Theo Canadian Soccer Daily, HLV John Herdman sắp được bổ nhiệm làm HLV trưởng mới của đội tuyển Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T14:19:00+07:00",
+      "fetched": "2025-12-28T23:21:19.788916+07:00"
+    },
+    {
       "id": "daa4de3452b733b2cbec483bdad9c941",
       "title": "Bộ trưởng Bộ Y tế trả lời cử tri về xóa nợ thuế cho bệnh viện công",
       "link": "https://thanhnien.vn/bo-truong-bo-y-te-tra-loi-cu-tri-ve-xoa-no-thue-cho-benh-vien-cong-18525122820270006.htm",
@@ -461,6 +661,16 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T13:34:31+07:00",
       "fetched": "2025-12-28T21:16:36.875730+07:00"
+    },
+    {
+      "id": "e6c70d06ed1efe598829a6d3ed463bd6",
+      "title": "Đảng, Nhà nước tặng quà nhân dịp Đại hội Đảng và Tết Nguyên đán",
+      "link": "https://vnexpress.net/dang-nha-nuoc-tang-qua-nhan-dip-dai-hoi-dang-va-tet-nguyen-dan-4999280.html",
+      "summary": "Đảng, Nhà nước quyết định tặng quà 400.000 đồng với người có công với cách mạng, người thuộc diện bảo trợ xã hội, trẻ mồ côi nhân dịp Đại hội Đảng 14 và Tết Nguyên đán Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:34:31+07:00",
+      "fetched": "2025-12-28T23:21:16.669171+07:00"
     },
     {
       "id": "b072bfeb36fe603ad0c2464730bfd53e",
