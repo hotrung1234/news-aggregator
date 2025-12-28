@@ -1,6 +1,6 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T19:35:34.347522+07:00",
+  "lastUpdated": "2025-12-28T21:16:48.262042+07:00",
   "articles": [
     {
       "id": "e8c964e7d1bbc40eb7c07fb6ee6a4606",
@@ -433,6 +433,176 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T15:23:03.223395+07:00"
     },
     {
+      "id": "daa4de3452b733b2cbec483bdad9c941",
+      "title": "Bộ trưởng Bộ Y tế trả lời cử tri về xóa nợ thuế cho bệnh viện công",
+      "link": "https://thanhnien.vn/bo-truong-bo-y-te-tra-loi-cu-tri-ve-xoa-no-thue-cho-benh-vien-cong-18525122820270006.htm",
+      "summary": "Cử tri kiến nghị xóa tiền nợ thuế thu nhập doanh nghiệp cho các bệnh viện công ở Cần Thơ. Bộ trưởng Bộ Y tế cho rằng việc này chính đáng nhưng cần rà soát, đánh giá lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T14:02:00+07:00",
+      "fetched": "2025-12-28T21:16:39.916402+07:00"
+    },
+    {
+      "id": "575ebcb04be105f8a649a57e23fd78b7",
+      "title": "Cháy nhà 4 người tử vong ở Đắk Lắk: Cháu bé còn sống sót được chuyển đến TP.HCM điều trị",
+      "link": "https://thanhnien.vn/chay-nha-4-nguoi-tu-vong-o-dak-lak-chau-be-con-song-sot-duoc-chuyen-den-tphcm-dieu-tri-185251228113736763.htm",
+      "summary": "Sau khi được cấp cứu, bé sơ sinh gần 1 tháng tuổi trong vụ cháy nhà khiến 4 người tử vong ở Đắk Lắk, đã được chuyển viện xuống TP.HCM. Hiện sức khỏe của bé tạm ổn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:45:00+07:00",
+      "fetched": "2025-12-28T21:16:39.916604+07:00"
+    },
+    {
+      "id": "c1e009b65d8f5bde1f17444e4180e03b",
+      "title": "Nhà nước tặng quà người có công, hưu trí xã hội dịp Đại hội Đảng và Tết",
+      "link": "https://vnexpress.net/nha-nuoc-tang-qua-nguoi-co-cong-huu-tri-xa-hoi-dip-dai-hoi-dang-va-tet-4999280.html",
+      "summary": "Đảng, Nhà nước quyết định tặng quà 400.000 đồng với người có công với cách mạng, người thuộc diện bảo trợ xã hội, trẻ mồ côi nhân dịp Đại hội Đảng 14 và Tết Nguyên đán Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:34:31+07:00",
+      "fetched": "2025-12-28T21:16:36.875730+07:00"
+    },
+    {
+      "id": "b072bfeb36fe603ad0c2464730bfd53e",
+      "title": "Biểu tượng điện ảnh Pháp Brigitte Bardot qua đời",
+      "link": "https://vnexpress.net/bieu-tuong-dien-anh-phap-brigitte-bardot-qua-doi-4999277.html",
+      "summary": "Minh tinh Brigitte Bardot, biểu tượng quyến rũ của điện ảnh Pháp, qua đời ở tuổi 91, ngày 28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:32:20+07:00",
+      "fetched": "2025-12-28T21:16:36.875917+07:00"
+    },
+    {
+      "id": "adf60325e6e193b232176aeff38df69d",
+      "title": "Tay vợt Hoàng Thành Trung bền bỉ theo đuổi đam mê quần vợt",
+      "link": "https://thanhnien.vn/tay-vot-hoang-thanh-trung-ben-bi-theo-duoi-dam-me-quan-vot-1852512282026039.htm",
+      "summary": "Ở tuổi 43, tay vợt kỳ cựu Hoàng Thành Trung vẫn theo đuổi niềm đam mê quần vợt. Anh thậm chí đánh bại lứa đàn em, đứng trên bục vinh danh ở giải các tay vợt xuất sắc toàn quốc 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:30:00+07:00",
+      "fetched": "2025-12-28T21:16:39.916773+07:00"
+    },
+    {
+      "id": "e3a91aebb81c4bc6ed81897833c13a96",
+      "title": "Tạm giữ 3 nghi phạm sử dụng ma túy ở nghĩa địa",
+      "link": "https://thanhnien.vn/tam-giu-3-nghi-pham-su-dung-ma-tuy-o-nghia-dia-185251228180337443.htm",
+      "summary": "Lợi dụng khu vực nghĩa địa vắng người qua lại, 3 nghi phạm ở Đà Nẵng đến đây sử dụng trái phép chất ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:30:00+07:00",
+      "fetched": "2025-12-28T21:16:39.916933+07:00"
+    },
+    {
+      "id": "7f8f85b71bcc3cd453117f5f9d85c501",
+      "title": "Thủ tướng Phạm Minh Chính: Đào tạo nhân lực y tế và giáo dục phải toàn diện",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-dao-tao-nhan-luc-y-te-va-giao-duc-phai-toan-dien-185251228185022017.htm",
+      "summary": "Theo Thủ tướng Phạm Minh Chính, đào tạo nguồn nhân lực ngành giáo dục và y tế đòi hỏi sự quan tâm toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:26:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917087+07:00"
+    },
+    {
+      "id": "0d5c959afd42b671f858d5560be5c50e",
+      "title": "Đua thuyền Việt Nam xuất sắc vượt bậc tại SEA Games 33, được trao thưởng lớn",
+      "link": "https://thanhnien.vn/dua-thuyen-viet-nam-xuat-sac-vuot-bac-tai-sea-games-33-duoc-trao-thuong-lon-185251228201500868.htm",
+      "summary": "Tại SEA Games 33, đội tuyển đua thuyền Việt Nam đã giành tổng cộng 8 HCV, 3 HCB, 4 HCĐ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:24:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917236+07:00"
+    },
+    {
+      "id": "07d5ac7977f215510bc481f07344cc15",
+      "title": "Thành phố có nhiều tòa nhà chọc trời nhất Đông Nam Á ở nước nào?",
+      "link": "https://vnexpress.net/thanh-pho-co-nhieu-toa-nha-choc-troi-nhat-dong-nam-a-o-nuoc-nao-4999254.html",
+      "summary": "Thành phố này có tòa nhà cao thứ hai thế giới cùng 5 công trình khác cao trên 300 m, hơn 190 tòa nhà trên 150 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:23:59+07:00",
+      "fetched": "2025-12-28T21:16:36.876093+07:00"
+    },
+    {
+      "id": "a7a180580246d3a55d77d892678b5f4b",
+      "title": "Gia Lai Countdown 2026: Thắp lửa trái tim, kết nối yêu thương",
+      "link": "https://thanhnien.vn/gia-lai-countdown-2026-thap-lua-trai-tim-ket-noi-yeu-thuong-185251228180151365.htm",
+      "summary": "Gia Lai Countdown 2026 không chỉ là chương trình cầu truyền hình chào năm mới quy mô lớn kết nối Quy Nhơn - Pleiku, mà còn là đêm hội lan tỏa tinh thần đoàn kết, niềm tin và khát vọng vươn lên của người dân Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:02:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917388+07:00"
+    },
+    {
+      "id": "a13ec068068a0112339c89457c047fd0",
+      "title": "Doanh nhân Thái Lan bị tuyên án hơn 1.200 năm tù vì tội lừa đảo",
+      "link": "https://thanhnien.vn/doanh-nhan-thai-lan-bi-tuyen-an-hon-1200-nam-tu-vi-toi-lua-dao-185251228195734003.htm",
+      "summary": "Tòa án Hình sự Thái Lan đã tuyên bản án lịch sử đối với doanh nhân Prasit Jeawkok, với mức án 1.210 năm tù giam vì tội lừa đảo công chúng thông qua các kế hoạch vay bất hợp pháp, theo Bangkok Post ngày 28.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:01:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917560+07:00"
+    },
+    {
+      "id": "f010cf7434683acbd8f3efc4f29e9df6",
+      "title": "Có nên uống nước dừa mỗi ngày?",
+      "link": "https://vnexpress.net/co-nen-uong-nuoc-dua-moi-ngay-4995773.html",
+      "summary": "Uống quá nhiều nước dừa có thể gây hạ huyết áp, đầy bụng, tăng đường huyết, rối loạn điện giải và tăng áp lực cho thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:00:00+07:00",
+      "fetched": "2025-12-28T21:16:36.876260+07:00"
+    },
+    {
+      "id": "ca1013cbc01ecb09ea7bd73f6af0600e",
+      "title": "Xem nhanh 20h ngày 28.12: Ám ảnh 7 năm đi ké đường xe container | Giá vé tết nhiều chặng ‘hot’ hạ nhiệt",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2812-am-anh-7-nam-di-ke-duong-xe-container-gia-ve-tet-nhieu-chang-hot-ha-nhiet-185251228195424489.htm",
+      "summary": "'Xem nhanh 20h' ngày 28.12 có nhiều tin tức đáng chú ý về: Bất ngờ: Giá vé máy bay Tết Dương lịch hạ nhiệt ngày vàng, chặng hot; Nỗi ám ảnh 7 năm đi 'ké' đường xe container, tai nạn rình rập;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:00:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917715+07:00"
+    },
+    {
+      "id": "8422af5f182a79977de26e67b2c030a2",
+      "title": "Cháy lớn tại Khu đô thị Geleximco Lê Trọng Tấn",
+      "link": "https://thanhnien.vn/chay-lon-tai-khu-do-thi-geleximco-le-trong-tan-18525122818503311.htm",
+      "summary": "Công an TP.Hà Nội đã huy động ít nhất 4 xe chữa cháy cùng hàng chục chiến sĩ PCCC-CNCH để dập tắt vụ hỏa hoạn tại Khu đô thị Geleximco Lê Trọng Tấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:00:00+07:00",
+      "fetched": "2025-12-28T21:16:39.917870+07:00"
+    },
+    {
+      "id": "b456f8c13067cb16a32dcfbaa0fc86d7",
+      "title": "Trench coat màu be, từ dạo phố đến công sở đều nâng tầm khí chất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trench-coat-mau-be-tu-dao-pho-den-cong-so-deu-nang-tam-khi-chat-185251227153357758.htm",
+      "summary": "Là biểu tượng bền bỉ của thời trang kinh điển, áo trench coat màu be luôn giữ vị trí đặc biệt trong tủ đồ phái nữ nhờ khả năng thích ứng linh hoạt với nhiều phong cách khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T13:00:00+07:00",
+      "fetched": "2025-12-28T21:16:39.918021+07:00"
+    },
+    {
+      "id": "88c5c563e79bef69db817c08a2254b13",
+      "title": "Xổ số miền Nam ngày 28 tháng 12: Lộ diện 19 tờ trúng số đài Tiền Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-28-thang-12-lo-dien-19-to-trung-so-dai-tien-giang-185251228193138877.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 28 tháng 12, một đại lý vé số ở Tây Ninh đổi thưởng 5 tờ vé số trúng giải cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T12:54:00+07:00",
+      "fetched": "2025-12-28T21:16:39.918177+07:00"
+    },
+    {
+      "id": "de5ba5bf82d45d3dba90b81f6348bf20",
+      "title": "Trái cọ vào mùa: Ăn sao cho đúng để không rát cổ?",
+      "link": "https://thanhnien.vn/trai-co-vao-mua-an-sao-cho-dung-de-khong-rat-co-185251226134603424.htm",
+      "summary": "Trái cọ vào mùa được nhiều người tìm ăn, nhưng nếu ỏm và thưởng thức không đúng cách, món ăn dân dã này dễ gây rát cổ, khó tiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T12:45:00+07:00",
+      "fetched": "2025-12-28T21:16:39.918324+07:00"
+    },
+    {
       "id": "0d9678dfb8a26950b173adb0c7d46505",
       "title": "Cháy mái 5 nhà liền kề Hà Nội, lửa khói ngùn ngụt",
       "link": "https://vnexpress.net/chay-mai-5-nha-lien-ke-ha-noi-lua-khoi-ngun-ngut-4999266.html",
@@ -441,6 +611,16 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T12:26:32+07:00",
       "fetched": "2025-12-28T19:35:23.411103+07:00"
+    },
+    {
+      "id": "f9d0a172864c70e4152bd689886976c8",
+      "title": "Cháy trên dãy nhà liền kề Hà Nội, lửa khói ngùn ngụt",
+      "link": "https://vnexpress.net/chay-tren-day-nha-lien-ke-ha-noi-lua-khoi-ngun-ngut-4999266.html",
+      "summary": "Phần công trình phía trên mái của 5 căn nhà liền kề trên đường Lê Trọng Tấn bốc cháy dữ dội, chiều 28/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T12:26:32+07:00",
+      "fetched": "2025-12-28T21:16:36.876424+07:00"
     },
     {
       "id": "939fa5d2a7e3e85b0e001b9ead47c64a",
