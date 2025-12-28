@@ -1,7 +1,137 @@
 window.newsData_2025_12_28 = {
   "date": "2025-12-28",
-  "lastUpdated": "2025-12-28T15:23:10.141155+07:00",
+  "lastUpdated": "2025-12-28T17:18:03.298429+07:00",
   "articles": [
+    {
+      "id": "96a582c87537304ca64516472aeaad3e",
+      "title": "Nữ cơ trưởng Trung Quốc kinh nghiệm 10 năm lái Boeing mới được chọn lái máy bay nội địa C919",
+      "link": "https://tuoitre.vn/nu-co-truong-trung-quoc-kinh-nghiem-10-nam-lai-boeing-moi-duoc-chon-lai-may-bay-noi-dia-c919-20251228125608056.htm",
+      "summary": "C919 là dòng máy bay thân hẹp do Trung Quốc sản xuất, được định vị để cạnh tranh trực tiếp với Boeing 737 và Airbus 320.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169782+07:00",
+      "fetched": "2025-12-28T17:17:55.169898+07:00"
+    },
+    {
+      "id": "cdb2e3ecbd48692ded0601ba8c619a0b",
+      "title": "Thủ tướng yêu cầu thi công cầu vượt biển ra Hòn Khoai phải đẹp để gắn với du lịch",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-thi-cong-cau-vuot-bien-ra-hon-khoai-phai-dep-de-gan-voi-du-lich-20251228132618799.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu đẩy nhanh tiến độ các dự án hạ tầng chiến lược tại Cà Mau và nghiên cứu thi công cầu vượt biển ra đảo Hòn Khoai theo hướng gắn với phát triển du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169653+07:00",
+      "fetched": "2025-12-28T17:17:55.169771+07:00"
+    },
+    {
+      "id": "4cf309399eaec11b56b2aed72f26ff7f",
+      "title": "Nhiều lựa chọn kịch, hát bội, xiếc cho Tết tây",
+      "link": "https://tuoitre.vn/nhieu-lua-chon-kich-hat-boi-xiec-cho-tet-tay-20251228092451683.htm",
+      "summary": "Ngày 1-1-2026 rơi vào thứ Năm nên các sàn diễn đã tận dụng để có mùa diễn lễ kéo dài từ thứ Năm đến Chủ nhật, từ 1 đến 4-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169504+07:00",
+      "fetched": "2025-12-28T17:17:55.169640+07:00"
+    },
+    {
+      "id": "2b99c8531118f9769585a3684c28804d",
+      "title": "Những 'ma đồng' giúp cờ tướng Trung Quốc tái chiếm kỳ đàn",
+      "link": "https://tuoitre.vn/nhung-ma-dong-giup-co-tuong-trung-quoc-tai-chiem-ky-dan-2025122813144218.htm",
+      "summary": "\"Ma đồng\" là cách gọi mà truyền thông Trung Quốc dành cho lứa kỳ thủ sinh sau năm 2000 của họ, mang theo kỳ vọng giành lại vị thế thống trị làng cờ tướng thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169374+07:00",
+      "fetched": "2025-12-28T17:17:55.169488+07:00"
+    },
+    {
+      "id": "899140dd366fa24cfd5168e3e69858b9",
+      "title": "iPhone 17 Pro hút hàng ở Gaza dù người dân đói ăn",
+      "link": "https://tuoitre.vn/iphone-17-pro-hut-hang-o-gaza-du-nguoi-dan-doi-an-20251228121518585.htm",
+      "summary": "Giữa lúc người dân Gaza vẫn thiếu thốn lương thực và nơi ở, việc iPhone 17 Pro và các dòng iPhone mới bất ngờ bán chạy tại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169249+07:00",
+      "fetched": "2025-12-28T17:17:55.169363+07:00"
+    },
+    {
+      "id": "fa0599601e7911a8682cbb900ad0b097",
+      "title": "Hai cha con cứu 3 phụ nữ gặp nạn trong đêm mưa rét",
+      "link": "https://tuoitre.vn/hai-cha-con-cuu-3-phu-nu-gap-nan-trong-dem-mua-ret-20251228134217438.htm",
+      "summary": "Trong đêm mưa rét, người mẹ chở con gái và bạn học của con gặp tai nạn rơi xuống kênh sâu. Rất may, hai cha con một gia đình đi ngang phát hiện sự việc đã lao xuống cứu người thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.169123+07:00",
+      "fetched": "2025-12-28T17:17:55.169238+07:00"
+    },
+    {
+      "id": "3ca7c3970ef4ca4be87a6bf5d3eb25d6",
+      "title": "Loa phường hư vẫn phát rè rè suốt ngày, có bị phạt gây tiếng ồn không?",
+      "link": "https://tuoitre.vn/loa-phuong-hu-van-phat-re-re-suot-ngay-co-bi-phat-gay-tieng-on-khong-2025122804501188.htm",
+      "summary": "Nhiều người dân phản ánh việc loa truyền thanh phường cũng đang gây ồn ào, ảnh hưởng đến sinh hoạt của người dân hằng ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168994+07:00",
+      "fetched": "2025-12-28T17:17:55.169112+07:00"
+    },
+    {
+      "id": "0ae40a731cf857f267450ae83c641783",
+      "title": "Xe máy điện Yamaha ở Việt Nam nay có thể đổi pin 24/7, cứu hộ miễn phí",
+      "link": "https://tuoitre.vn/xe-may-dien-yamaha-o-viet-nam-nay-co-the-doi-pin-24-7-cuu-ho-mien-phi-20251228092144855.htm",
+      "summary": "Từ năm 2026, khách hàng sử dụng Yamaha NEO’s tại Hà Nội và TP.HCM có thể đổi pin nhanh tại đại lý hoặc sử dụng dịch vụ giao pin tận nơi miễn phí, kèm hỗ trợ cứu hộ đường bộ cả ngày lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168863+07:00",
+      "fetched": "2025-12-28T17:17:55.168982+07:00"
+    },
+    {
+      "id": "2de1cdef7f5fe7c0d9ff3075e496f7a1",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Những thông điệp đẹp làm nên sức mạnh cuộc sống",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-nhung-thong-diep-dep-lam-nen-suc-manh-cuoc-song-20251228133610073.htm",
+      "summary": "Khởi động từ năm 2020, cuộc thi “Lan tỏa năng lượng tích cực” do báo Tuổi Trẻ phối hợp Công ty Herbalife Việt Nam tổ chức đã trở thành một hành trình sẻ chia cảm hứng sống, lan tỏa những giá trị nhân văn sâu sắc đến mọi miền Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168728+07:00",
+      "fetched": "2025-12-28T17:17:55.168851+07:00"
+    },
+    {
+      "id": "144fc82368f9a77f403772b568d78183",
+      "title": "TS.BS Tăng Hà Nam Anh: Kinh nghiệm của bác sĩ quyết định kết quả phẫu thuật",
+      "link": "https://tuoitre.vn/ts-bs-tang-ha-nam-anh-kinh-nghiem-cua-bac-si-quyet-dinh-ket-qua-phau-thuat-20251228112317641.htm",
+      "summary": "Trong bối cảnh bùng nổ trí tuệ nhân tạo (AI) và công nghệ cao, việc ứng dụng những tiến bộ khoa học vào việc chăm sóc sức khỏe ngày một phổ biến. Tuy nhiên, theo TS.BS Tăng Hà Nam Anh, chính kinh nghiệm của bác sĩ mới quyết định hiệu quả điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168566+07:00",
+      "fetched": "2025-12-28T17:17:55.168704+07:00"
+    },
+    {
+      "id": "89219b2fc42d78022ff8b2dba6b9f9e0",
+      "title": "Biếu tặng lịch Tết, tri ân hay lãng phí phụ thuộc vào cách cho và cách nhận?",
+      "link": "https://tuoitre.vn/bieu-tang-lich-tet-tri-an-hay-lang-phi-phu-thuoc-vao-cach-cho-va-cach-nhan-20251223144719313.htm",
+      "summary": "Lịch Tết là món quà thiết thực nhưng tặng nhiều quá đến bỏ đi thì thật lãng phí. Người được tặng nên khéo léo từ chối nếu đã đủ lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168431+07:00",
+      "fetched": "2025-12-28T17:17:55.168554+07:00"
+    },
+    {
+      "id": "5df2577e325b77adddb46924d9ec54bc",
+      "title": "Vượt nỗi buồn SEA Games, Thanh Thúy lại tỏa sáng rực rỡ trên đất Nhật Bản",
+      "link": "https://tuoitre.vn/vuot-noi-buon-sea-games-thanh-thuy-lai-toa-sang-ruc-ro-tren-dat-nhat-ban-20251228141626956.htm",
+      "summary": "Hơn 1 tuần sau thất bại cay đắng trước Thái Lan ở chung kết SEA Games 33, ngôi sao Trần Thị Thanh Thúy đã có màn tái xuất đầy ấn tượng ở Giải vô địch bóng chuyền Nhật Bản (SV League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168281+07:00",
+      "fetched": "2025-12-28T17:17:55.168418+07:00"
+    },
+    {
+      "id": "65e79487b122554abedbb282dc8ed1ac",
+      "title": "'Ổ' mại dâm Đảo Đào Hoa có 10.000 thành viên, tạm giữ hình sự 2 người điều hành",
+      "link": "https://tuoitre.vn/o-mai-dam-dao-dao-hoa-co-10-000-thanh-vien-tam-giu-hinh-su-2-nguoi-dieu-hanh-20251228134001593.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã triệt xóa đường dây mại dâm hoạt động tinh vi qua ứng dụng Telegram, lấy tên nhóm là Đảo Đào Hoa, thu hút hơn 10 ngàn thành viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T17:17:55.168049+07:00",
+      "fetched": "2025-12-28T17:17:55.168266+07:00"
+    },
     {
       "id": "c1517bfaebc941e928b545879adba040",
       "title": "Một năm rồi cũng qua",
@@ -453,6 +583,256 @@ window.newsData_2025_12_28 = {
       "fetched": "2025-12-28T10:45:06.266779+07:00"
     },
     {
+      "id": "e8401bc5f3745645ebcb5a409f2dcca5",
+      "title": "Tổng thống Iran tố Israel, Mỹ, châu Âu gây 'chiến tranh toàn diện'",
+      "link": "https://thanhnien.vn/tong-thong-iran-to-israel-my-chau-au-gay-chien-tranh-toan-dien-185251228164641192.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian tuyên bố nước này đang ở trong tình trạng chiến tranh toàn diện với Mỹ, Israel và châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:12:00+07:00",
+      "fetched": "2025-12-28T17:17:54.327206+07:00"
+    },
+    {
+      "id": "f85ce7135412604797978acb836e0fd4",
+      "title": "Bị cáo buộc biển thủ, nữ nghị sĩ Mỹ sửa ảnh xóa nhẫn kim cương 100.000 USD",
+      "link": "https://vnexpress.net/bi-cao-buoc-bien-thu-nu-nghi-si-sua-anh-de-xoa-nhan-kim-cuong-100-000-usd-4999242.html",
+      "summary": "Bà Sheila Cherfilus-McCormick bị cáo buộc đã sử dụng một phần trong 5 triệu USD biển thủ từ quỹ cứu trợ để mua chiếc nhẫn kim cương vàng 3,14 carat.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:09:18+07:00",
+      "fetched": "2025-12-28T17:17:51.400284+07:00"
+    },
+    {
+      "id": "349c140681194b873ef6b0b2441c2eea",
+      "title": "Tình hình Yemen có thể xấu đi nhanh chóng, Ả Rập Xê Út lên tiếng",
+      "link": "https://thanhnien.vn/tinh-hinh-yemen-co-the-xau-di-nhanh-chong-a-rap-xe-ut-len-tieng-185251228165119972.htm",
+      "summary": "Hôm 27.12, liên minh do Ả Rập Xê Út dẫn đầu ở Yemen tuyên bố sẽ đáp trả nếu lực lượng ly khai STC có động thái quân sự đi ngược lại nỗ lực giảm leo thang căng thẳng ở tỉnh Hadramout.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:09:00+07:00",
+      "fetched": "2025-12-28T17:17:54.327396+07:00"
+    },
+    {
+      "id": "bf7f7665691eb8cbeaeb8a64dde847b6",
+      "title": "Sự thật về bí quyết 'dao sắc ngọt thịt'",
+      "link": "https://vnexpress.net/su-that-ve-bi-quyet-dao-sac-ngot-thit-4999249.html",
+      "summary": "Nhiều người cho rằng thịt dai, khô là do chất lượng thực phẩm hoặc nấu quá lửa, nhưng ít ai ngờ nguyên nhân đôi khi bắt đầu từ lưỡi dao cùn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:08:55+07:00",
+      "fetched": "2025-12-28T17:17:51.400463+07:00"
+    },
+    {
+      "id": "04098b0431813eaa3d5e3dba1c4a48a0",
+      "title": "Tranh Đông Hồ được tái hiện bằng xiếc",
+      "link": "https://vnexpress.net/tranh-dong-ho-duoc-tai-hien-bang-xiec-4999230.html",
+      "summary": "Nhiều tranh Đông Hồ nổi tiếng như \"Đám cưới chuột\", \"Vinh quy bái tổ\" được tái hiện bằng ngôn ngữ xiếc trong vở \"Ký ức làng Hồ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:08:25+07:00",
+      "fetched": "2025-12-28T17:17:51.400642+07:00"
+    },
+    {
+      "id": "59cea5c5cfbdbbdcbb4476cd385e0a80",
+      "title": "Smartphone đứng trước đợt tăng giá mạnh nhất 26 năm",
+      "link": "https://thanhnien.vn/smartphone-dung-truoc-dot-tang-gia-manh-nhat-26-nam-185251228141351915.htm",
+      "summary": "Ngành công nghệ smartphone đang trải qua một đợt tăng giá linh kiện chưa từng có, chủ yếu do nhu cầu từ các trung tâm dữ liệu AI mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:04:00+07:00",
+      "fetched": "2025-12-28T17:17:54.327556+07:00"
+    },
+    {
+      "id": "b402eca8a3e26a0febd9ad34f73ccfa0",
+      "title": "Festival tôm Cà Mau 2026: Chiến lược đưa thương hiệu tôm vươn ra thế giới",
+      "link": "https://thanhnien.vn/festival-tom-ca-mau-2026-chien-luoc-dua-thuong-hieu-tom-vuon-ra-the-gioi-185251228162250396.htm",
+      "summary": "Festival tôm Cà Mau lần thứ II năm 2026 được kỳ vọng trở thành điểm nhấn xúc tiến thương mại - đầu tư, khẳng định vai trò trung tâm sản xuất tôm của tỉnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:03:00+07:00",
+      "fetched": "2025-12-28T17:17:54.327731+07:00"
+    },
+    {
+      "id": "87c6b41e41ae7d0de360e3dabcf4b95c",
+      "title": "Toàn cảnh 17h: Mua chung cư tiền tỉ, phải đi đường 'ké' | Kinh hoàng công thức pha dầu gió giả",
+      "link": "https://thanhnien.vn/toan-canh-17h-mua-chung-cu-tien-ti-phai-di-duong-ke-kinh-hoang-cong-thuc-pha-dau-gio-gia-185251228163518221.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T10:00:00+07:00",
+      "fetched": "2025-12-28T17:17:54.327890+07:00"
+    },
+    {
+      "id": "fbb1d7483a2b455c980cdb561233ba2e",
+      "title": "Điểm tin 17h: Không khí lạnh tăng cường dịp Tết Dương lịch | Từ 2026, người dân có quyền yêu cầu xóa dữ liệu cá nhân",
+      "link": "https://vnexpress.net/diem-tin-17h-khong-khi-lanh-tang-cuong-dip-tet-duong-lich-tu-2026-nguoi-dan-co-quyen-yeu-cau-xoa-du-lieu-ca-nhan-4999247.html",
+      "summary": "Xe buýt, metro ở TP HCM miễn vé ngày Tết Dương lịch; Việt Nam nguy cơ thiếu 1,3 triệu phụ nữ kết hôn trong 20 năm tới...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:58:38+07:00",
+      "fetched": "2025-12-28T17:17:51.400813+07:00"
+    },
+    {
+      "id": "485db193f9bbd51d29da264817e4bae2",
+      "title": "Đua xe chòi chân - giải đấu tốc độ của các tay lái nhí",
+      "link": "https://vnexpress.net/dua-xe-choi-chan-giai-dau-toc-do-cua-cac-tay-lai-nhi-4999225.html",
+      "summary": "Điểm nhấn thú vị của Vietnam Mobility Show 2025 là những màn tăng tốc và bứt phá giữa các vận động viên nhí ở khu vực đua xe chòi chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:54:16+07:00",
+      "fetched": "2025-12-28T17:17:51.400971+07:00"
+    },
+    {
+      "id": "6c805d5e72f2d25cd52cc3a6f164d8ab",
+      "title": "Bóng đá Malaysia gánh án phạt kỷ lục, lãnh đạo FAM bị kêu gọi từ chức",
+      "link": "https://thanhnien.vn/bong-da-malaysia-ganh-an-phat-ky-luc-lanh-dao-fam-bi-keu-goi-tu-chuc-185251228164841098.htm",
+      "summary": "Theo New Straits Times, bóng đá Malaysia đang đối mặt với cuộc khủng hoảng kỷ luật nghiêm trọng nhất từ trước đến nay, khi tổng số tiền phạt lên đến hơn 15 tỉ đồng. Dư luận Malaysia kêu gọi lãnh đạo FAM từ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:53:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328045+07:00"
+    },
+    {
+      "id": "38a68a726fc54e8b86d656727f61ed79",
+      "title": "Có cú hích lớn từ chức vô địch, Trường ĐH Bách khoa quyết làm nên chuyện",
+      "link": "https://thanhnien.vn/co-cu-hich-lon-tu-chuc-vo-dich-truong-dh-bach-khoa-quyet-lam-nen-chuyen-185251228141044465.htm",
+      "summary": "Mang theo hành trang là chức vô địch giải bóng đá sinh viên ĐHQG TP.HCM mở rộng 2025 - THACO Cup, đội Trường ĐH Bách Khoa - ĐHQG TP.HCM bước vào mùa giải bóng đá Thanh Niên sinh viên Việt Nam lần IV năm 2026 với đầy tự tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:46:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328196+07:00"
+    },
+    {
+      "id": "832854aa3367c1c05c14dc41f436e039",
+      "title": "Cả nước có bao nhiêu trường ĐH mang tên 'công nghệ'?",
+      "link": "https://thanhnien.vn/ca-nuoc-co-bao-nhieu-truong-dh-mang-ten-cong-nghe-185251228143753342.htm",
+      "summary": "Ngày 26.12 vừa qua, Phó Thủ tướng Lê Thành Long đã ký Quyết định đổi tên Trường ĐH Sư phạm Kỹ thuật TP.HCM thành Trường ĐH Công nghệ kỹ thuật TP.HCM. Như vậy Việt Nam hiện có bao nhiêu trường ĐH mang tên 'công nghệ'?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:41:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328345+07:00"
+    },
+    {
+      "id": "c6ba7bac1b40e84ed78c638ae90894e6",
+      "title": "Sẽ có nhiều bảng 'tử thần' ở vòng loại giải bóng đá Thanh Niên sinh viên",
+      "link": "https://thanhnien.vn/se-co-nhieu-bang-tu-than-o-vong-loai-giai-bong-da-thanh-nien-sinh-vien-18525122813423428.htm",
+      "summary": "Căn cứ vào nguyên tắc bốc thăm đã được VFF ban hành, nhiều khả năng sẽ có các bảng 'tử thần' ở vòng loại khu vực phía bắc và khu vực TP.HCM của giải bóng đá Thanh Niên sinh viên Việt Nam mùa 4 năm 2026 Cúp Thaco.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:28:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328507+07:00"
+    },
+    {
+      "id": "fcd6ed2accf29f690e31ee0fe46e6b7c",
+      "title": "Thử thuê bạn gái một ngày ở Nhật Bản",
+      "link": "https://vnexpress.net/thu-thue-ban-gai-mot-ngay-o-nhat-ban-4999005.html",
+      "summary": "Dịch vụ thuê bạn gái phổ biến ở Nhật Bản, du khách có thể tìm được một người để bầu bạn cả ngày nhưng chi phí không hề rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:26:45+07:00",
+      "fetched": "2025-12-28T17:17:51.401133+07:00"
+    },
+    {
+      "id": "1521982072d70882d1acb8e7cde78f3a",
+      "title": "Người dân đảo Phú Quý chi 350 triệu đồng thuê trực thăng chuyển viện",
+      "link": "https://vnexpress.net/nguoi-dan-dao-phu-quy-chi-350-trieu-dong-thue-truc-thang-chuyen-vien-4999222.html",
+      "summary": "Một gia đình ở đảo Phú Quý (Bình Thuận cũ) thuê trực thăng dịch vụ đưa người nhà bị đột quỵ vượt quãng đường khoảng 300 km vào TP HCM cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:24:11+07:00",
+      "fetched": "2025-12-28T17:17:51.401296+07:00"
+    },
+    {
+      "id": "d85c8f3cf3674f4ffe19ec916cfc2db1",
+      "title": "CLB Tây Ban Nha đổi thái độ với sao nhập tịch 'lậu' Malaysia: Từ ‘vỗ về’ chuyển sang hắt hủi?",
+      "link": "https://thanhnien.vn/clb-tay-ban-nha-doi-thai-do-voi-sao-nhap-tich-lau-malaysia-tu-vo-ve-chuyen-sang-hat-hui-185251228161929724.htm",
+      "summary": "Từng lên tiếng trấn an dư luận và khẳng định ‘không bỏ rơi’ Facundo Garces sau án phạt liên quan đến vụ nhập tịch gây chấn động của bóng đá Malaysia, nhưng mới đây, ban lãnh đạo CLB Deportivo Alaves đã có động thái hoàn toàn trái ngược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:24:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328679+07:00"
+    },
+    {
+      "id": "dc29558d1024e7770b614a9cf0db564b",
+      "title": "‘Bịt mắt’ camera AI bất thành, nhiều tài xế bị xử lý",
+      "link": "https://thanhnien.vn/bit-mat-camera-ai-bat-thanh-nhieu-tai-xe-bi-xu-ly-185251228154606727.htm",
+      "summary": "Từ hình ảnh của camera AI, lực lượng CSGT Hà Nội đã dừng phương tiện để xử lý 13 trường hợp che biển số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:09:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328837+07:00"
+    },
+    {
+      "id": "06a8393df46d38c904679309abd5a8dd",
+      "title": "'Tôi cho con học trường tư để không phát sinh tiền học liên kết'",
+      "link": "https://vnexpress.net/toi-cho-con-hoc-truong-tu-de-khong-phat-sinh-tien-hoc-lien-ket-4999191.html",
+      "summary": "Học phí khoảng 9 triệu đồng một tháng - nghe có vẻ lớn, nhưng trong đó đã bao gồm tất cả chi phí, không có chuyện phát sinh giữa chừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:08:01+07:00",
+      "fetched": "2025-12-28T17:17:51.401454+07:00"
+    },
+    {
+      "id": "94578f69136c88195dfb2ab77f5470d1",
+      "title": "Suzuki Fronx hút khách quan tâm tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/suzuki-fronx-hut-khach-quan-tam-tai-vietnam-mobility-show-2025-4999114.html",
+      "summary": "Suzuki mang tới triển lãm 4 dòng ôtô và nhận được nhiều sự quan tâm từ khách tham quan, đặc biệt là mẫu xe mới Fronx.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:07:20+07:00",
+      "fetched": "2025-12-28T17:17:51.401612+07:00"
+    },
+    {
+      "id": "6e7d0cf896a45b68b01a37edef217876",
+      "title": "30 người nước ngoài bị phát hiện đánh bạc trực tuyến ở Nha Trang",
+      "link": "https://vnexpress.net/30-nguoi-nuoc-ngoai-bi-phat-hien-danh-bac-truc-tuyen-o-nha-trang-4999192.html",
+      "summary": "Kiểm tra khách sạn, chung cư, nhà cho thuê ở Nha Trang, trinh sát bắt hàng loạt người nước ngoài đang đánh bạc trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:06:36+07:00",
+      "fetched": "2025-12-28T17:17:51.401799+07:00"
+    },
+    {
+      "id": "7f3f7177bf53957a386326dc5456ae94",
+      "title": "Ăn gì ngừa mỡ máu cao?",
+      "link": "https://vnexpress.net/an-gi-ngua-mo-mau-cao-4998469.html",
+      "summary": "Tôi đi khám sức khỏe thì nhận được chỉ số mỡ máu cao, vậy tôi nên và hạn chế ăn gì để cải thiện tình trạng này? (Thanh, 38 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:00:24+07:00",
+      "fetched": "2025-12-28T17:17:51.401954+07:00"
+    },
+    {
+      "id": "17391c3f8b3641b97f7a7f9948bc3e11",
+      "title": "Xổ số miền Nam ngày 28 tháng 12 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-28-thang-12-ket-qua-xo-so-hom-nay-chu-nhat-185251228140950917.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 28 tháng 12; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 28.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:00:00+07:00",
+      "fetched": "2025-12-28T17:17:54.328987+07:00"
+    },
+    {
+      "id": "c5149ae30ca0517c91fb37e91a6a6b52",
+      "title": "Từ năng động đến nữ tính, mũ lưỡi trai tạo nên dấu ấn riêng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tu-nang-dong-den-nu-tinh-mu-luoi-trai-tao-nen-dau-an-rieng-185251227001508127.htm",
+      "summary": "Từ những khán đài thể thao sôi động cho đến nhịp sống thường ngày, mũ lưỡi trai đã trải qua một hành trình dài để trở thành phụ kiện mang tính biểu tượng của thời trang đương đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T09:00:00+07:00",
+      "fetched": "2025-12-28T17:17:54.329141+07:00"
+    },
+    {
+      "id": "db1143715e02e3f920d5b5d7b3f5547e",
+      "title": "'Gieo mầm hữu nghị' quan hệ Việt Nam - Trung Quốc",
+      "link": "https://thanhnien.vn/gieo-mam-huu-nghi-quan-he-viet-nam-trung-quoc-185251228124556882.htm",
+      "summary": "Cách đây hơn một thế kỷ, Bác Hồ đã đưa 8 thiếu niên Việt Nam sang học tiểu học và trung học thuộc Đại học Quảng Đông, tiền thân của Đại học Trung Sơn. Câu chuyện 'gieo mầm hữu nghị' đến nay vẫn được hai bên trân trọng giữ gìn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:45:00+07:00",
+      "fetched": "2025-12-28T17:17:54.329288+07:00"
+    },
+    {
       "id": "d4b5df451aba58f7114c202127ceee23",
       "title": "Trần Quyết Chiến thắng 100%, Bao Phương Vinh có chiến thắng đầu tiên tại Giải billiards đồng đội",
       "link": "https://tuoitre.vn/tran-quyet-chien-thang-100-bao-phuong-vinh-co-chien-thang-dau-tien-tai-giai-billiards-dong-doi-20251228022225286.htm",
@@ -601,6 +981,56 @@ window.newsData_2025_12_28 = {
       "category": "Tổng hợp",
       "published": "2025-12-28T08:41:29.964284+07:00",
       "fetched": "2025-12-28T08:41:29.964511+07:00"
+    },
+    {
+      "id": "986f22846500bb5ba508f39f82882f14",
+      "title": "Thanh Thúy tái xuất, tỏa sáng giúp CLB bóng chuyền Nhật Bản thắng kịch tính",
+      "link": "https://thanhnien.vn/thanh-thuy-tai-xuat-toa-sang-giup-clb-bong-chuyen-nhat-ban-thang-kich-tinh-185251228145105415.htm",
+      "summary": "Vừa trở về sau hành trình tại SEA Games 33, Trần Thị Thanh Thúy lập tức tỏa sáng, góp công lớn giúp CLB Gunma Green Wings đánh bại Saitama Ageo Medics sau màn rượt đuổi tỷ số nghẹt thở ở giải bóng chuyền vô địch nữ Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:40:00+07:00",
+      "fetched": "2025-12-28T17:17:54.329440+07:00"
+    },
+    {
+      "id": "a51214f7780907c37d3354ec204e2de1",
+      "title": "Giá bạc được dự báo vượt 100 USD vào năm tới",
+      "link": "https://vnexpress.net/gia-bac-duoc-du-bao-vuot-100-usd-vao-nam-toi-4999218.html",
+      "summary": "Nguồn cung chưa đáp ứng nhu cầu đầu tư, giá bạc thế giới có thể vượt 100 USD mỗi ounce trong năm 2026, nhưng vẫn có rủi ro điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:36:34+07:00",
+      "fetched": "2025-12-28T17:17:51.402107+07:00"
+    },
+    {
+      "id": "a51214f7780907c37d3354ec204e2de1",
+      "title": "Giá bạc được dự báo vượt 100 USD vào năm tới",
+      "link": "https://vnexpress.net/gia-bac-duoc-du-bao-vuot-100-usd-vao-nam-toi-4999218.html",
+      "summary": "Nguồn cung chưa đáp ứng nhu cầu đầu tư, giá bạc thế giới có thể vượt 100 USD mỗi ounce trong năm 2026, nhưng vẫn có rủi ro điều chỉnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-28T08:36:34+07:00",
+      "fetched": "2025-12-28T17:17:58.088146+07:00"
+    },
+    {
+      "id": "279a6ec0a01e9a591a192068331b9177",
+      "title": "Bầu Đức: 'Tôi vẫn âm thầm đóng góp cho bóng đá Việt Nam'",
+      "link": "https://vnexpress.net/bau-duc-toi-van-am-tham-dong-gop-cho-bong-da-viet-nam-4998259.html",
+      "summary": "Bầu Đức bây giờ tập trung cho kinh doanh nhưng khẳng định không từ bỏ bóng đá và vẫn cố gắng đóng góp cho các đội tuyển quốc gia, mà gần nhất là tấm HC vàng SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-28T08:30:28+07:00",
+      "fetched": "2025-12-28T17:17:51.402264+07:00"
+    },
+    {
+      "id": "279a6ec0a01e9a591a192068331b9177",
+      "title": "Bầu Đức: 'Tôi vẫn âm thầm đóng góp cho bóng đá Việt Nam'",
+      "link": "https://vnexpress.net/bau-duc-toi-van-am-tham-dong-gop-cho-bong-da-viet-nam-4998259.html",
+      "summary": "Bầu Đức bây giờ tập trung cho kinh doanh nhưng khẳng định không từ bỏ bóng đá và vẫn cố gắng đóng góp cho các đội tuyển quốc gia, mà gần nhất là tấm HC vàng SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-28T08:30:28+07:00",
+      "fetched": "2025-12-28T17:18:03.289278+07:00"
     },
     {
       "id": "a095bd9380cfc52a88682dd10e878868",
