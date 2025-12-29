@@ -1,7 +1,157 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T15:27:51.623930+07:00",
+  "lastUpdated": "2025-12-29T17:20:42.290357+07:00",
   "articles": [
+    {
+      "id": "8fc9796a297dab4ef516a832f3b657f6",
+      "title": "'Yamal là hiện tại và tương lai, Ronaldo là cầu thủ xuất sắc nhất mọi thời đại'",
+      "link": "https://tuoitre.vn/yamal-la-hien-tai-va-tuong-lai-ronaldo-la-cau-thu-xuat-sac-nhat-moi-thoi-dai-20251229150425594.htm",
+      "summary": "Đó là lời tuyên bố của Jorge Mendes, người vừa giành được giải thưởng Người đại diện xuất sắc nhất năm tại Lễ trao giải Globe Soccer Awards ở Dubai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068865+07:00",
+      "fetched": "2025-12-29T17:20:35.068983+07:00"
+    },
+    {
+      "id": "714c21b45aeb5d712e6d779c44174b32",
+      "title": "‘Nâng cấp’ bản thân để tận hưởng trọn vẹn mùa lễ hội",
+      "link": "https://tuoitre.vn/nang-cap-ban-than-de-tan-huong-tron-ven-mua-le-hoi-20251229110133332.htm",
+      "summary": "Lấp đầy chiếc bụng đói bằng một bữa ăn ngon, hâm nóng những mối quan hệ lâu ngày chưa kịp gặp, đôi khi lại là cách đơn giản để bạn tận hưởng trọn vẹn mùa lễ hội này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068737+07:00",
+      "fetched": "2025-12-29T17:20:35.068854+07:00"
+    },
+    {
+      "id": "e9b10f612a797ae407bc0df0176d344e",
+      "title": "Trung Quốc, Thái Lan, Campuchia đạt nhiều đồng thuận về hạ nhiệt căng thẳng biên giới",
+      "link": "https://tuoitre.vn/trung-quoc-thai-lan-campuchia-dat-nhieu-dong-thuan-ve-ha-nhiet-cang-thang-bien-gioi-20251229150750947.htm",
+      "summary": "Ngoại trưởng Trung Quốc, Thái Lan và Campuchia nhóm họp nhằm tháo gỡ căng thẳng biên giới giữa hai quốc gia Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068611+07:00",
+      "fetched": "2025-12-29T17:20:35.068726+07:00"
+    },
+    {
+      "id": "69f6c13005ddf2a9d7908e9073e3a518",
+      "title": "Xâm phạm thân thể trọng tài, HLV Đinh Văn Dũng bị kỷ luật nặng",
+      "link": "https://tuoitre.vn/xam-pham-than-the-trong-tai-hlv-dinh-van-dung-bi-ky-luat-nang-20251229152312544.htm",
+      "summary": "HLV Đinh Văn Dũng của đội U19 Hồng Lĩnh Hà Tĩnh đã bị kỷ luật nặng vì cố tình xâm phạm thân thể trọng tài trong trận đấu ở Giải U19 quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068474+07:00",
+      "fetched": "2025-12-29T17:20:35.068599+07:00"
+    },
+    {
+      "id": "015dab59a8e2bc1689e126f483681a42",
+      "title": "Dự án sản xuất chanh không hạt Mỹ Long đoạt giải nhất cuộc thi khởi nghiệp tỉnh Đồng Tháp",
+      "link": "https://tuoitre.vn/du-an-san-xuat-chanh-khong-hat-my-long-doat-giai-nhat-cuoc-thi-khoi-nghiep-tinh-dong-thap-20251229153251349.htm",
+      "summary": "Ngày 29-12, Tỉnh Đoàn Đồng Tháp tổ chức lễ tổng kết và trao giải cuộc thi Khởi nghiệp và Đổi mới sáng tạo tỉnh Đồng Tháp năm 2025. Dự án Quy trình sản xuất khép kín chanh không hạt Mỹ Long đã đoạt giải nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068309+07:00",
+      "fetched": "2025-12-29T17:20:35.068461+07:00"
+    },
+    {
+      "id": "763b073a35cabee3a943d6cf6a943fb0",
+      "title": "Bất động sản công nghiệp Việt Nam là điểm sáng ‘hút khách’ FDI",
+      "link": "https://tuoitre.vn/bat-dong-san-cong-nghiep-viet-nam-la-diem-sang-hut-khach-fdi-20251229152824292.htm",
+      "summary": "Bất chấp những biến động kinh tế toàn cầu, thị trường bất động sản công nghiệp Việt Nam vẫn là điểm sáng hút vốn đầu tư FDI bởi những lợi thế về chi phí, giá năng lượng và xu hướng sản xuất xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068184+07:00",
+      "fetched": "2025-12-29T17:20:35.068298+07:00"
+    },
+    {
+      "id": "d1f994d0745da84f85a1f87f98962648",
+      "title": "Chứng khoán 'bùng nổ' phiên đầu tuần, VN-Index lấy lại mốc 1.750 điểm",
+      "link": "https://tuoitre.vn/chung-khoan-bung-no-phien-dau-tuan-vn-index-lay-lai-moc-1-750-diem-20251229153710777.htm",
+      "summary": "Kết phiên 29-12, VN-Index tăng 25 điểm, lấy lại mốc 1.750 điểm nhờ dòng tiền bất ngờ quay lại nhóm bất động sản và năng lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.068061+07:00",
+      "fetched": "2025-12-29T17:20:35.068173+07:00"
+    },
+    {
+      "id": "f1a16cd70dc4be1fc3c86d491519bc09",
+      "title": "Chị Lê Ngọc Ánh tái đắc cử Bí thư Tỉnh đoàn Thanh Hóa nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/chi-le-ngoc-anh-tai-dac-cu-bi-thu-tinh-doan-thanh-hoa-nhiem-ky-2025-2030-20251229153933113.htm",
+      "summary": "Ngày 29-12, Đoàn TNCS Hồ Chí Minh tỉnh Thanh Hóa tổ chức Đại hội đại biểu lần thứ XX, nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067934+07:00",
+      "fetched": "2025-12-29T17:20:35.068050+07:00"
+    },
+    {
+      "id": "b93f1917a72d9dcfc8865c56493f4c93",
+      "title": "Mỹ sau một năm siết nhập cư: Giá cả tăng, khắp nơi thiếu người",
+      "link": "https://tuoitre.vn/my-sau-mot-nam-siet-nhap-cu-gia-ca-tang-khap-noi-thieu-nguoi-20251229151424916.htm",
+      "summary": "Chỉ sau một năm siết nhập cư, nước Mỹ đối mặt thiếu bác sĩ, thiếu thợ, trường học vắng học sinh, nhiều cộng đồng rơi vào bất an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067796+07:00",
+      "fetched": "2025-12-29T17:20:35.067923+07:00"
+    },
+    {
+      "id": "c9b4bdaabfd4b601838a7df646ac94b0",
+      "title": "Cổ phiếu ngân hàng trong vòng xoáy tin tức cuối năm 2025",
+      "link": "https://tuoitre.vn/co-phieu-ngan-hang-trong-vong-xoay-tin-tuc-cuoi-nam-2025-20251228193535317.htm",
+      "summary": "Chứng khoán Việt Nam vừa lập kỷ lục thời đại mới trong tuần giáng sinh. Không chỉ ở nhóm Vingroup, biến động của một số mã ngân hàng cũng thu hút sự chú ý của nhà đầu tư trong những ngày cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067667+07:00",
+      "fetched": "2025-12-29T17:20:35.067785+07:00"
+    },
+    {
+      "id": "9d872dba740041d9f3648bd841de930a",
+      "title": "Bầu cử Myanmar giai đoạn 1: Đã có đảng ‘thắng áp đảo’",
+      "link": "https://tuoitre.vn/bau-cu-myanmar-giai-doan-1-da-co-dang-thang-ap-dao-20251229153048231.htm",
+      "summary": "Theo một nguồn tin, Đảng Đoàn kết và phát triển liên bang (USDP) đang dẫn đầu với đa số ghế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067527+07:00",
+      "fetched": "2025-12-29T17:20:35.067655+07:00"
+    },
+    {
+      "id": "c5389472f691504a37c2bc27b21bb3c0",
+      "title": "VPBankS tạm hoãn kế hoạch phát hành trái phiếu 4.000 tỉ đồng",
+      "link": "https://tuoitre.vn/vpbanks-tam-hoan-ke-hoach-phat-hanh-trai-phieu-4-000-ti-dong-20251229153049494.htm",
+      "summary": "VPBankS cho biết, do nhu cầu vốn tại thời điểm hiện nay chưa phát sinh, doanh nghiệp quyết định tạm thời chưa triển khai phương án phát hành trái phiếu quy mô 4.000 tỉ đồng trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067386+07:00",
+      "fetched": "2025-12-29T17:20:35.067516+07:00"
+    },
+    {
+      "id": "10f4706e0cfd5f006ca86c9e18c97894",
+      "title": "Công ty vận tải dầu khí của nữ đại gia Ngô Thu Thúy sắp lên sàn",
+      "link": "https://tuoitre.vn/cong-ty-van-tai-dau-khi-cua-nu-dai-gia-ngo-thu-thuy-sap-len-san-20251229153110632.htm",
+      "summary": "Công ty cổ phần Âu Lạc đăng ký giao dịch với mã cổ phiếu ALC. Đơn vị vận tải dầu khí này từng là cổ đông lớn tại Eximbank, ACB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067228+07:00",
+      "fetched": "2025-12-29T17:20:35.067368+07:00"
+    },
+    {
+      "id": "9e5c560241d5fb93dab2aa5be8824a6a",
+      "title": "Nga chia sẻ về dự án nhà máy điện hạt nhân Ninh Thuận 1, xe Lada sắp vào Việt Nam",
+      "link": "https://tuoitre.vn/nga-chia-se-ve-du-an-nha-may-dien-hat-nhan-ninh-thuan-1-xe-lada-sap-vao-viet-nam-20251229153717314.htm",
+      "summary": "Sáng 29-12 tại Hà Nội, Đại sứ quán Nga tại Việt Nam tổ chức họp báo về kết quả phát triển quan hệ Đối tác chiến lược toàn diện Nga - Việt năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.067085+07:00",
+      "fetched": "2025-12-29T17:20:35.067215+07:00"
+    },
+    {
+      "id": "31c104dd85c01fb664b7bc1c62320982",
+      "title": "An Giang đề ra 10 chỉ tiêu phát triển kinh tế 2026 ra sao?",
+      "link": "https://tuoitre.vn/an-giang-de-ra-10-chi-tieu-phat-trien-kinh-te-2026-ra-sao-20251229143917912.htm",
+      "summary": "Năm 2025, An Giang đạt tăng trưởng kinh tế trên 8,39%. Năm 2026, An Giang đề ra 10 chỉ tiêu kinh tế trọng tâm. Đáng chú ý là chỉ tiêu đạt tốc độ tăng trưởng từ 10,71% trở lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T17:20:35.066894+07:00",
+      "fetched": "2025-12-29T17:20:35.067070+07:00"
+    },
     {
       "id": "f297d26ef13a748d76e55357f9608813",
       "title": "PGS.TS Nguyễn Bá Hoàng làm Hiệu trưởng Trường đại học Bà Rịa - Vũng Tàu",
@@ -463,6 +613,356 @@ window.newsData_2025_12_29 = {
       "fetched": "2025-12-29T10:46:17.835974+07:00"
     },
     {
+      "id": "82d1ba2ede96d482ecaa052bb7dc4ad6",
+      "title": "Cuộc gặp gần 3 giờ giữa ông Trump và ông Zelensky",
+      "link": "https://vnexpress.net/cuoc-gap-gan-3-gio-giua-ong-trump-va-ong-zelensky-4999658.html",
+      "summary": "Ông Trump nói đàm phán với Ukraine \"đang tiến gần hơn rất nhiều\" sau cuộc gặp kéo dài gần 3 giờ với Tổng thống Zelensky, nhưng Donbass vẫn là trở ngại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:17:11+07:00",
+      "fetched": "2025-12-29T17:20:30.876467+07:00"
+    },
+    {
+      "id": "26d29761cb6c018a295ec5747a8a742c",
+      "title": "Ban tổ chức show 'Về đây bốn cánh chim trời' bị tuýt còi",
+      "link": "https://vnexpress.net/ban-to-chuc-show-ve-day-bon-canh-chim-troi-bi-tuyt-coi-4999490.html",
+      "summary": "Ban tổ chức show \"Về đây bốn cánh chim trời\" bị Sở Văn hóa và Thể thao Hà Nội \"tuýt còi\" vì cam kết diễn nhưng lại hủy sự kiện bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:15:25+07:00",
+      "fetched": "2025-12-29T17:20:30.876657+07:00"
+    },
+    {
+      "id": "3adf0d5bcea8ab9de540e63e9be1a127",
+      "title": "18 năm đồng hành hàng nghìn sự kiện của White Palace",
+      "link": "https://vnexpress.net/18-nam-dong-hanh-hang-nghin-su-kien-cua-white-palace-4999669.html",
+      "summary": "White Palace ghi dấu 18 năm đồng hành hàng nghìn sự kiện, góp phần nâng tầm chuẩn mực tổ chức với ba trung tâm lớn tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:15:00+07:00",
+      "fetched": "2025-12-29T17:20:30.876827+07:00"
+    },
+    {
+      "id": "8f63171d0c13037ec6499760cc54351e",
+      "title": "Dân làng Nigeria bối rối khi bị Mỹ không kích",
+      "link": "https://vnexpress.net/dan-lang-nigeria-boi-roi-khi-bi-my-khong-kich-4999552.html",
+      "summary": "Người làng Jabo, tây bắc Nigeria, bối rối khi tên lửa Mỹ tập kích khủng bố rơi xuống làng dù xưa nay trong làng không có khủng bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:13:25+07:00",
+      "fetched": "2025-12-29T17:20:30.876989+07:00"
+    },
+    {
+      "id": "37d351027b8ddc1c80f8a81b30bb2b76",
+      "title": "Trường cho sinh viên gói bánh tét đón tết từ tháng 12 dương lịch",
+      "link": "https://thanhnien.vn/truong-cho-sinh-vien-goi-banh-tet-don-tet-tu-thang-12-duong-lich-185251229163022973.htm",
+      "summary": "Cuối tháng 12, nhưng ký túc xá trường này đã rộn ràng không khí chơi tết. Không đợi đến những ngày cận Tết Âm lịch, sinh viên nơi đây đã có dịp cùng nhau gói bánh tét, tham gia hội chợ xuân, hát karaoke và tận hưởng năm mới…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:08:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125005+07:00"
+    },
+    {
+      "id": "899b3438cb7cf1d09a05ac7e16276e95",
+      "title": "Xe tải đổ hàng tấn ngô trên cao tốc Hà Nội – Thái Nguyên",
+      "link": "https://vnexpress.net/xe-tai-do-hang-tan-ngo-tren-cao-toc-ha-noi-thai-nguyen-4999617.html",
+      "summary": "Hàng tấn ngô đổ kín mặt cao tốc Hà Nội – Thái Nguyên, kéo dài hàng trăm mét, sau khi xe đầu kéo bung nắp thùng, ngày 29/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:06:43+07:00",
+      "fetched": "2025-12-29T17:20:30.877145+07:00"
+    },
+    {
+      "id": "c2de498368487afbbe19278981b834e0",
+      "title": "Bất ngờ dãy 444444 trúng xổ số miền Nam ngày 29 tháng 12 đài TP.HCM",
+      "link": "https://thanhnien.vn/bat-ngo-day-444444-trung-xo-so-mien-nam-ngay-29-thang-12-dai-tphcm-185251229164036106.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 29 tháng 12, những tờ vé có dãy số đẹp 444444 trúng đài TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:01:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125178+07:00"
+    },
+    {
+      "id": "1387534c4bb38668989294a25485c941",
+      "title": "Lotte Mart và Hapro phát triển mô hình bán lẻ hiện đại tại Bắc Giang",
+      "link": "https://vnexpress.net/lotte-mart-va-hapro-phat-trien-mo-hinh-ban-le-hien-dai-tai-bac-giang-4999424.html",
+      "summary": "Lotte Mart và Hapro sẽ triển khai mô hình mới tại siêu thị Lotte Mart Bắc Giang, mang đến cho người tiêu dùng sự tiện lợi, dịch vụ chất lượng cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:00:00+07:00",
+      "fetched": "2025-12-29T17:20:30.877300+07:00"
+    },
+    {
+      "id": "453e185e0a3b43ce1f7b8507c0d00876",
+      "title": "'Boehringer Ingelheim thúc đẩy phát triển bền vững ngành thú y Việt Nam'",
+      "link": "https://vnexpress.net/boehringer-ingelheim-thuc-day-phat-trien-ben-vung-nganh-thu-y-viet-nam-4999338.html",
+      "summary": "Theo ông Niklas Birkner, doanh nghiệp theo đuổi chiến lược phát triển bền vững tại Việt Nam, tập trung chăm sóc và nâng cao sức khỏe động vật bằng các giải pháp khoa học tiên tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:00:00+07:00",
+      "fetched": "2025-12-29T17:20:30.877476+07:00"
+    },
+    {
+      "id": "2448f92620d35fda4b8d3604d310f129",
+      "title": "iPhone 17 Pro Max giữ sức mua sau gần nửa năm mở bán",
+      "link": "https://vnexpress.net/iphone-17-pro-max-giu-suc-mua-sau-gan-nua-nam-mo-ban-4998675.html",
+      "summary": "Chuỗi cửa hàng Clickbuy ghi nhận iPhone 17 Pro Max duy trì sức mua cao hơn các mẫu khác sau gần nửa năm lên kệ, nhờ khác biệt thiết kế, hiệu năng chip A19 Pro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:00:00+07:00",
+      "fetched": "2025-12-29T17:20:30.877639+07:00"
+    },
+    {
+      "id": "d3d8dc0b142ea1655b22fcac93d5510d",
+      "title": "Toàn cảnh 17h: Đang nhậu vỉa hè, 5 người lao vào hành hung | Những cú 'lật mặt' chấn động năm 2025",
+      "link": "https://thanhnien.vn/toan-canh-17h-dang-nhau-via-he-5-nguoi-lao-vao-hanh-hung-nhung-cu-lat-mat-chan-dong-nam-2025-185251229162152077.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T10:00:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125336+07:00"
+    },
+    {
+      "id": "1d119313ebc28a2d9c47faa9ed36bbcc",
+      "title": "Điểm tin 17h: Mạng xã hội không được yêu cầu giấy tờ tùy thân để xác thực từ 2026 | Giá vàng miếng giảm gần 1 triệu đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-mang-xa-hoi-khong-duoc-yeu-cau-giay-to-tuy-than-de-xac-thuc-tu-2026-gia-vang-mieng-giam-gan-1-trieu-dong-4999661.html",
+      "summary": "An vị xá lợi trái tim Bồ tát Thích Quảng Đức ở bảo tháp Việt Nam Quốc Tự; Hà Nội đổi lịch nghỉ Tết Dương lịch cho học sinh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:58:15+07:00",
+      "fetched": "2025-12-29T17:20:30.877798+07:00"
+    },
+    {
+      "id": "0638d6a23d2f653799a06061a701f125",
+      "title": "Từ 1.1.2026, những ai bị khấu trừ lương để cưỡng chế nộp phạt vi phạm hành chính?",
+      "link": "https://thanhnien.vn/tu-112026-nhung-ai-bi-khau-tru-luong-de-cuong-che-nop-phat-vi-pham-hanh-chinh-185251229164735902.htm",
+      "summary": "Chính sách mới áp dụng từ 1.1.2026 mở rộng đối tượng bị áp dụng biện pháp khấu trừ một phần lương hoặc một phần thu nhập để cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:58:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125520+07:00"
+    },
+    {
+      "id": "f0af4e87d7a17a4ff2fb9e02b4ed1592",
+      "title": "Vụ hoãn đêm nhạc phút chót: Ca sĩ Hồng Nhung bức xúc lên tiếng",
+      "link": "https://thanhnien.vn/vu-hoan-dem-nhac-phut-chot-ca-si-hong-nhung-buc-xuc-len-tieng-185251229160850578.htm",
+      "summary": "Liên quan đến việc đêm nhạc Về đây bốn cánh chim trời bất ngờ bị hoãn ngay sát giờ diễn tối 28.12, ca sĩ Hồng Nhung đã có những chia sẻ dài trên trang cá nhân, bày tỏ sự thất vọng trước cách tổ chức mà theo cô là 'lần đầu tiên gặp trong đời'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:58:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125677+07:00"
+    },
+    {
+      "id": "2d8ec3e5a1735cd0616fe8b57a38b417",
+      "title": "Sẽ phạt nặng các vi phạm thuộc dịch vụ thuê xe tự lái từ năm 2026",
+      "link": "https://vnexpress.net/se-phat-nang-cac-vi-pham-thuoc-dich-vu-thue-xe-tu-lai-tu-nam-2026-4999540.html",
+      "summary": "Từ 1/3/2026, nếu mắc các vi phạm trong hoạt động thuê và thuê xe tự lái, bạn sẽ bị phạt 8-30 triệu đồng, mức tiền sẽ tăng gấp đôi với tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:57:00+07:00",
+      "fetched": "2025-12-29T17:20:30.877951+07:00"
+    },
+    {
+      "id": "c10f77c68aba08771c390a5dee81c136",
+      "title": "Quyền Bộ trưởng Công thương chỉ ra nhiều rủi ro cung ứng điện",
+      "link": "https://thanhnien.vn/quyen-bo-truong-cong-thuong-chi-ra-nhieu-rui-ro-cung-ung-dien-185251229161243471.htm",
+      "summary": "Quyền Bộ trưởng Bộ Công thương Lê Mạnh Hùng chỉ ra nhiều rủi ro, bất cập liên quan hệ thống điện, yêu cầu Tập đoàn Điện lực Việt Nam (EVN) phải có giải pháp quản trị, bảo đảm cung ứng đủ điện trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:56:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125829+07:00"
+    },
+    {
+      "id": "a4948efd94d04f0d90121b4b6be86ce3",
+      "title": "Thái Lan cáo buộc Campuchia triển khai 250 drone xâm phạm lãnh thổ",
+      "link": "https://vnexpress.net/thai-lan-cao-buoc-campuchia-trien-khai-250-drone-xam-pham-lanh-tho-4999626.html",
+      "summary": "Thái Lan cáo buộc Campuchia vi phạm thỏa thuận ngừng bắn vừa ký kết khi triển khai 250 thiết bị bay không người lái xâm phạm lãnh thổ nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:54:04+07:00",
+      "fetched": "2025-12-29T17:20:30.878108+07:00"
+    },
+    {
+      "id": "353d9f492e56a27065630d80d2138243",
+      "title": "Cảnh sát Anh: Bán rượu bia trong chai nhỏ sẽ giúp giảm say, bạo lực",
+      "link": "https://vnexpress.net/canh-sat-anh-ban-ruou-bia-trong-chai-nho-se-giup-giam-say-bao-luc-4999531.html",
+      "summary": "Theo nghiên cứu của Học viện Cảnh sát Anh, đồ uống có cồn được bán trong dụng cụ chứa dung tích nhỏ sẽ hạn chế tiêu thụ quá mức, giúp làm giảm ẩu đả, tệ nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:50:20+07:00",
+      "fetched": "2025-12-29T17:20:30.878270+07:00"
+    },
+    {
+      "id": "c2c25aa24c9616708920223730d718f7",
+      "title": "U.23 Kyrgyzstan: Đối thủ bí ẩn nhất, U.23 Việt Nam cần phải cẩn trọng",
+      "link": "https://thanhnien.vn/u23-kyrgyzstan-doi-thu-bi-an-nhat-u23-viet-nam-can-phai-can-trong-185251229162932972.htm",
+      "summary": "Là đối thủ bị đánh giá yếu nhất bảng A, song U.23 Kyrgyzstan là 'hiện tượng' thú vị với khả năng tạo bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:46:00+07:00",
+      "fetched": "2025-12-29T17:20:34.125976+07:00"
+    },
+    {
+      "id": "124334226710071f3e1e6005c0f1da64",
+      "title": "Vì sao khó xác định trường hợp tái phạm trong xử lý vi phạm hành chính?",
+      "link": "https://thanhnien.vn/vi-sao-kho-xac-dinh-truong-hop-tai-pham-trong-xu-ly-vi-pham-hanh-chinh-185251229151250301.htm",
+      "summary": "Mức phạt tiền tối đa được quy định tại điều 24 luật Xử lý vi phạm hành chính, sau hơn 12 năm thi hành, đã không còn phù hợp với thực tiễn. Trình tự, thủ tục xử lý vi phạm hành chính còn rườm rà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:45:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126134+07:00"
+    },
+    {
+      "id": "e16c518e1b3cfeb79cef06ad7dd7af8d",
+      "title": "Những xe vi phạm giao thông do camera AI phát hiện ngày 27-28/12",
+      "link": "https://vnexpress.net/nhung-xe-vi-pham-giao-thong-do-camera-ai-phat-hien-ngay-27-28-12-4999633.html",
+      "summary": "Lỗi vi phạm chủ yếu xe môtô vượt đèn đỏ, không đội mũ bảo hiểm tại nút giao Phạm Văn Bạch - Hoàng Quán Chi, Cầu Giấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:44:52+07:00",
+      "fetched": "2025-12-29T17:20:30.878473+07:00"
+    },
+    {
+      "id": "d681ec8f65cf96763c7915cb48590596",
+      "title": "Các hãng ô tô Trung Quốc sản xuất nhiều nhưng lợi nhuận không cao",
+      "link": "https://thanhnien.vn/cac-hang-o-to-trung-quoc-san-xuat-nhieu-nhung-loi-nhuan-khong-cao-185251228195043194.htm",
+      "summary": "Dẫn đầu thế giới về quy mô cũng như số lượng tiêu thụ ô tô mới, đặc biệt là xe điện thế nhưng không ít thương hiệu trong ngành sản xuất ô tô tại Trung Quốc đang đối mặt với thực tế phũ phàng sản xuất nhiều nhưng lợi nhuận chẳng được bao nhiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:42:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126284+07:00"
+    },
+    {
+      "id": "8cc11fee2eddfbcb6c028c5b6e06cb42",
+      "title": "Tổng thư ký VFF: Truyền 'lửa' SEA Games 33 vào giải TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/tong-thu-ky-vff-truyen-lua-sea-games-33-vao-giai-tnsv-thaco-cup-2026-18525122916285451.htm",
+      "summary": "Phát biểu tại lễ bốc thăm vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO, Tổng thư ký Liên đoàn Bóng đá Việt Nam Nguyễn Văn Phú tin tưởng mùa giải năm nay sẽ thành công tốt đẹp, tiếp nối đà tăng trưởng mạnh mẽ về chất lượng chuyên môn lẫn sức lan tỏa của sân chơi sinh v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:38:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126460+07:00"
+    },
+    {
+      "id": "c64822395e61e94f3016f1e07820936c",
+      "title": "Cuộc tụ họp hiếm hoi của dàn xế cổ của dân chơi Việt",
+      "link": "https://vnexpress.net/cuoc-tu-hop-hiem-hoi-cua-dan-xe-co-cua-dan-choi-viet-4999561.html",
+      "summary": "Chủ nhân của những chiếc xe đặc biệt có cơ hội tụ họp và giao lưu, trong khi những người mê xe có dịp chiêm ngưỡng, tìm hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:35:35+07:00",
+      "fetched": "2025-12-29T17:20:30.878643+07:00"
+    },
+    {
+      "id": "a7c61a27fbd1dc7fc4c1c134f80930ee",
+      "title": "SUV đô thị: Mitsubishi Xforce 'chạy nước rút', cuộc đua doanh số chưa ngã ngũ",
+      "link": "https://thanhnien.vn/suv-do-thi-mitsubishi-xforce-chay-nuoc-rut-cuoc-dua-doanh-so-chua-nga-ngu-185251229072517915.htm",
+      "summary": "Toyota Yaris Cross tưởng chừng đã nắm chắc ngôi vương, tuy nhiên \"cú nước rút\" bất ngờ của Mitsubishi Xforce trong quý 3/2025 khiến cuộc đua doanh số ở phân khúc SUV đô thị tại Việt Nam chỉ có thể định đoạt trong tháng cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:33:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126613+07:00"
+    },
+    {
+      "id": "c9a5c58e0932f9ee89ce4de66184cea2",
+      "title": "10 điểm đến Việt được du khách yêu thích nhất năm 2025",
+      "link": "https://vnexpress.net/10-diem-den-viet-duoc-du-khach-yeu-thich-nhat-nam-2025-4999595.html",
+      "summary": "Đà Nẵng là điểm đến nội địa được du khách Việt yêu thích nhất năm 2025, tiếp đến là TP HCM và Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:31:39+07:00",
+      "fetched": "2025-12-29T17:20:30.878804+07:00"
+    },
+    {
+      "id": "6a1fd52a165bdb971a63a93a67b94bfe",
+      "title": "Tăng trưởng tín dụng gần 18%, cao nhất nhiều năm",
+      "link": "https://vnexpress.net/tang-truong-tin-dung-gan-18-cao-nhat-nhieu-nam-4999616.html",
+      "summary": "Ngân hàng Nhà nước cho biết tăng trưởng tín dụng ở mức rất cao, khiến tỷ lệ tín dụng trên GDP của Việt Nam lên cao nhất trong nhóm các nước thu nhập trung bình thấp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T09:28:13+07:00",
+      "fetched": "2025-12-29T17:20:38.271269+07:00"
+    },
+    {
+      "id": "42d1ccfcab56941ac9eac21222713912",
+      "title": "Cuộc thi sáng tác ca khúc tuyên truyền Đại hội Đoàn toàn quốc sắp có kết quả",
+      "link": "https://thanhnien.vn/cuoc-thi-sang-tac-ca-khuc-tuyen-truyen-dai-hoi-doan-toan-quoc-sap-co-ket-qua-185251229151728118.htm",
+      "summary": "Sau hơn 2 tháng, triển khai Cuộc thi sáng tác ca khúc tuyên truyền Đại hội Đoàn toàn quốc lần thứ XIII, nhiệm kỳ 2026 – 2031, ban tổ chức đã nhận được rất nhiều bài dự thi…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:22:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126760+07:00"
+    },
+    {
+      "id": "09c410a968b05c6ea0926456f909a28a",
+      "title": "Bộ Tài chính nói về việc người dân bị 'nợ thuế oan'",
+      "link": "https://thanhnien.vn/bo-tai-chinh-noi-ve-viec-nguoi-dan-bi-no-thue-oan-185251229154501506.htm",
+      "summary": "Phản ánh có tình trạng công dân, tổ chức bị thông báo nợ thuế không chính xác, cử tri TP.Đà Nẵng kiến nghị cơ quan thuế có quy trình kiểm tra, lập biên bản xác nhận với người nộp thuế trước khi ban hành thông báo nợ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:19:00+07:00",
+      "fetched": "2025-12-29T17:20:34.126917+07:00"
+    },
+    {
+      "id": "a4723c2afe77f7d18e817bfa260fcdd2",
+      "title": "Trường ĐH Cửu Long thêm 3 chương trình đào tạo đạt chuẩn kiểm định chất lượng",
+      "link": "https://thanhnien.vn/truong-dh-cuu-long-them-3-chuong-trinh-dao-tao-dat-chuan-kiem-dinh-chat-luong-185251229162422929.htm",
+      "summary": "Sáng nay 29.12, Trường ĐH Cửu Long phối hợp với Trung tâm Kiểm định chất lượng giáo dục Sài Gòn (CEA-SAIGON) tổ chức lễ đón nhận quyết định và chứng nhận đạt chuẩn kiểm định chất lượng 3 chương trình đào tạo trình độ ĐH.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:10:00+07:00",
+      "fetched": "2025-12-29T17:20:34.127067+07:00"
+    },
+    {
+      "id": "8d391dda53c1396ebafe7ec21032c387",
+      "title": "TNSV THACO cup 2026: Tiếp nối thành công rực rỡ của bóng đá Việt Nam",
+      "link": "https://thanhnien.vn/tnsv-thaco-cup-2026-tiep-noi-ruc-ro-bong-da-viet-nam-185251229145025302.htm",
+      "summary": "Bóng đá Việt Nam vừa có một năm 2025 rực rỡ, vươn lên thành thế lực dẫn đầu khu vực Đông Nam Á với chiến thắng ở mọi cấp độ đội tuyển. Và hòa chung với dòng chảy đầy khí thế đó, TNSV THACO cup 2026 vững vàng bước vào mùa giải thứ tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T09:10:00+07:00",
+      "fetched": "2025-12-29T17:20:34.127216+07:00"
+    },
+    {
+      "id": "6e1f4cbbbf33902549466e15a03ef0e6",
+      "title": "Cựu đệ nhất phu nhân Hàn Quốc bị cáo buộc nhận hối lộ 260.000 USD",
+      "link": "https://vnexpress.net/cuu-de-nhat-phu-nhan-han-quoc-bi-cao-buoc-nhan-hoi-lo-260-000-usd-4999586.html",
+      "summary": "Cựu đệ nhất phu nhân Hàn Quốc Kim Keon-hee bị cáo buộc nhận hối lộ hơn 260.000 USD bằng những món quà xa xỉ như túi xách, trang sức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T09:06:06+07:00",
+      "fetched": "2025-12-29T17:20:36.126599+07:00"
+    },
+    {
+      "id": "b6cb83a52b363a690f4bcb2232be08b9",
+      "title": "Chứng khoán tăng vọt đầu tuần",
+      "link": "https://vnexpress.net/chung-khoan-tang-vot-dau-tuan-4999610.html",
+      "summary": "Bốn cổ phiếu \"họ\" Vingroup lấy lại trạng thái hưng phấn, góp phần lớn giúp VN-Index tăng 25 điểm trong phiên đầu tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T09:04:54+07:00",
+      "fetched": "2025-12-29T17:20:38.271465+07:00"
+    },
+    {
+      "id": "9a0b55fb34ae41cebfeb7cbf69ade1a6",
+      "title": "Cháy viện dưỡng lão ở Indonesia, 16 người chết",
+      "link": "https://vnexpress.net/chay-vien-duong-lao-o-indonesia-16-nguoi-chet-4999592.html",
+      "summary": "Hỏa hoạn bùng phát tại một viện dưỡng lão trên đảo Sulawesi, khiến 16 người thiệt mạng và ba người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T08:50:44+07:00",
+      "fetched": "2025-12-29T17:20:36.126774+07:00"
+    },
+    {
+      "id": "e84ee829a2dd8e338926c5afd6bcaa20",
+      "title": "Nhiều cơ sở thuộc tiệm vàng lớn ở Hà Tĩnh bất ngờ đóng cửa",
+      "link": "https://vnexpress.net/nhieu-co-so-thuoc-tiem-vang-lon-o-ha-tinh-bat-ngo-dong-cua-4999567.html",
+      "summary": "Ba cơ sở kinh doanh thuộc một tiệm vàng lớn ở phường Thành Sen ngừng hoạt động từ 26/12, sau khi bị nhà chức trách kiểm tra vấn đề liên quan tới thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T08:43:45+07:00",
+      "fetched": "2025-12-29T17:20:38.271635+07:00"
+    },
+    {
       "id": "22904371be0818bcf6d89adc33db25b2",
       "title": "Nguyễn Phương Thanh là Hoa hậu Sinh viên Hòa bình Việt Nam 2025",
       "link": "https://tuoitre.vn/nguyen-phuong-thanh-la-hoa-hau-sinh-vien-hoa-binh-viet-nam-2025-202512290022416.htm",
@@ -611,6 +1111,26 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T08:40:19.736452+07:00",
       "fetched": "2025-12-29T08:40:19.736683+07:00"
+    },
+    {
+      "id": "ac88312966e4ac45218ab00db93c275d",
+      "title": "Bé 5 tuổi tử vong vì kẹt tay trong băng chuyền trượt tuyết ở Nhật Bản",
+      "link": "https://vnexpress.net/be-5-tuoi-tu-vong-vi-ket-tay-trong-bang-chuyen-truot-tuyet-o-nhat-ban-4999539.html",
+      "summary": "Bé trai 5 tuổi đã tử vong sau khi ngã và kẹt cánh tay phải trên băng chuyền trượt tuyết tại khu nghỉ dưỡng ở Hokkaido.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T08:35:50+07:00",
+      "fetched": "2025-12-29T17:20:36.126937+07:00"
+    },
+    {
+      "id": "2affb913353024cb55be166c23c24b00",
+      "title": "Khu trục hạm tàng hình Trung Quốc khai hỏa tên lửa siêu vượt âm",
+      "link": "https://vnexpress.net/khu-truc-ham-tang-hinh-trung-quoc-khai-hoa-ten-lua-sieu-vuot-am-4999556.html",
+      "summary": "Trung Quốc công bố video phóng thử tên lửa diệt hạm siêu vượt âm YJ-20 từ tàu khu trục tàng hình Type 055, đánh dấu lần đầu đăng hình ảnh này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T08:27:49+07:00",
+      "fetched": "2025-12-29T17:20:36.127096+07:00"
     },
     {
       "id": "044fd3d04f41031795fbde1775cf695c",
