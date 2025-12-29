@@ -1,7 +1,157 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T10:46:26.522257+07:00",
+  "lastUpdated": "2025-12-29T11:46:33.608876+07:00",
   "articles": [
+    {
+      "id": "af56f3879e8f052389c407a44807e39f",
+      "title": "Hải Phòng hỗ trợ giáo sư đến 500 triệu đồng nếu cam kết làm việc cho thành phố",
+      "link": "https://tuoitre.vn/hai-phong-ho-tro-giao-su-den-500-trieu-dong-neu-cam-ket-lam-viec-cho-thanh-pho-20251229103558056.htm",
+      "summary": "Theo Nghị quyết 53/2025 ngày 11-12-2025 của HĐND TP Hải Phòng, sinh viên tốt nghiệp xuất sắc được hỗ trợ 150 triệu đồng, giáo sư được hỗ trợ 500 triệu đồng khi được tuyển dụng và cam kết làm việc cho thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.490512+07:00",
+      "fetched": "2025-12-29T11:46:26.490623+07:00"
+    },
+    {
+      "id": "0fc50ba1d806061c8576e98083475062",
+      "title": "U23 Việt Nam khởi động chiến dịch U23 châu Á",
+      "link": "https://tuoitre.vn/u23-viet-nam-khoi-dong-chien-dich-u23-chau-a-2025122909445497.htm",
+      "summary": "Ngay buổi tập đầu tiên trong chuyến tập huấn tại Qatar, U23 Việt Nam đã tập luyện với cường độ cao để hướng đến VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.490390+07:00",
+      "fetched": "2025-12-29T11:46:26.490501+07:00"
+    },
+    {
+      "id": "1749ae1959e7eee0f0b9f4931ed71809",
+      "title": "Cô gái bị biến dạng ‘vòng 1’ sau khi tiêm filler HA nâng ngực",
+      "link": "https://tuoitre.vn/co-gai-bi-bien-dang-vong-1-sau-khi-tiem-filler-ha-nang-nguc-20251229102305055.htm",
+      "summary": "Bệnh viện Da liễu Trung ương vừa tiếp nhận và điều trị cho một bệnh nhân nữ gần 30 tuổi trong tình trạng nhiễm trùng nặng vùng ngực phải, sưng nóng, đỏ đau, biến dạng bầu vú, sau khi tiêm chất làm đầy (filler HA) nâng ngực tại một cơ sở không phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.490266+07:00",
+      "fetched": "2025-12-29T11:46:26.490379+07:00"
+    },
+    {
+      "id": "6a6eef61c944e193491d667c60607fb5",
+      "title": "Chưa đến tuổi, có phải giám định sức khỏe để được nghỉ hưu?",
+      "link": "https://tuoitre.vn/chua-den-tuoi-co-phai-giam-dinh-suc-khoe-de-duoc-nghi-huu-20251228235448932.htm",
+      "summary": "Tôi còn 2 năm nữa mới đến tuổi nghỉ hưu, vậy giờ tôi muốn nghỉ hưu thì có phải giám định sức khỏe  không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.490145+07:00",
+      "fetched": "2025-12-29T11:46:26.490255+07:00"
+    },
+    {
+      "id": "4d6d4a54deb27fc29462b2184aa569de",
+      "title": "Nuôi mơ ước từ những ô vuông ánh sáng chốn thành thị",
+      "link": "https://tuoitre.vn/nuoi-mo-uoc-tu-nhung-o-vuong-anh-sang-chon-thanh-thi-20251229101944411.htm",
+      "summary": "Dưới ánh mặt trời bỏng rát hay trong phòng máy lạnh khô khốc, ai cũng đang gánh vác những nhọc nhằn khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.490021+07:00",
+      "fetched": "2025-12-29T11:46:26.490133+07:00"
+    },
+    {
+      "id": "72b1858448e3d0f4245517438646c484",
+      "title": "Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Vĩnh Long làm Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Tây Ninh",
+      "link": "https://tuoitre.vn/chu-nhiem-uy-ban-kiem-tra-tinh-uy-vinh-long-lam-chu-nhiem-uy-ban-kiem-tra-tinh-uy-tay-ninh-20251229104603148.htm",
+      "summary": "Ông Bùi Văn Nở - Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Vĩnh Long - được điều động giữ chức Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Tây Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489894+07:00",
+      "fetched": "2025-12-29T11:46:26.490010+07:00"
+    },
+    {
+      "id": "d9f17dd46c59b63db64544a272866fdb",
+      "title": "Gia đình nhà Beckham xào xáo, thách thức nhau trên mạng xã hội?",
+      "link": "https://tuoitre.vn/gia-dinh-nha-beckham-xao-xao-thach-thuc-nhau-tren-mang-xa-hoi-20251229105541784.htm",
+      "summary": "Victoria và David Beckham gây chú ý khi xuất hiện tại đám cưới con gái đầu bếp nổi tiếng Gordon Ramsay giữa lúc đang vướng vào rạn nứt gia đình với con trai cả Brooklyn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489745+07:00",
+      "fetched": "2025-12-29T11:46:26.489877+07:00"
+    },
+    {
+      "id": "5eb41f3af487870621e4e6caab36f749",
+      "title": "Nên giữ lại những giá trị văn hóa, giáo dục cho trung tâm thành phố",
+      "link": "https://tuoitre.vn/nen-giu-lai-nhung-gia-tri-van-hoa-giao-duc-cho-trung-tam-thanh-pho-20251229083033339.htm",
+      "summary": "Sự hiện diện của các trường đại học, viện nghiên cứu lâu đời sẽ cho thấy giá trị của trung tâm một thành phố không chỉ là kinh tế tài chính, dịch vụ thương mại mà còn lịch sử, văn hóa, kiến trúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489615+07:00",
+      "fetched": "2025-12-29T11:46:26.489733+07:00"
+    },
+    {
+      "id": "a94a274f5df0b2b7a8a5b7def2534c2e",
+      "title": "Đài Loan triển khai lực lượng phản ứng Trung Quốc tập trận",
+      "link": "https://tuoitre.vn/dai-loan-trien-khai-luc-luong-phan-ung-trung-quoc-tap-tran-20251229102701381.htm",
+      "summary": "Đài Loan gọi cuộc tập trận của Trung Quốc là đe dọa quân sự và đã triển khai lực lượng để phản ứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489491+07:00",
+      "fetched": "2025-12-29T11:46:26.489604+07:00"
+    },
+    {
+      "id": "6bd55411edfd62a33c1e0ead86dff28e",
+      "title": "Nhà di động chỉ to cỡ 'Su cóc' vẫn ở được 3 người lớn, đủ tiện nghi cơ bản trừ một thứ",
+      "link": "https://tuoitre.vn/nha-di-dong-chi-to-co-su-coc-van-o-duoc-3-nguoi-lon-du-tien-nghi-co-ban-tru-mot-thu-20251229075055274.htm",
+      "summary": "Borox, mẫu nhà di động cỡ nhỏ của Nhật Bản, gây ấn tượng với thiết kế mái nâng độc đáo, không gian được tối ưu thông minh và khả năng bố trí chỗ ngủ cho 3 người, cho thấy xe siêu nhỏ vẫn có thể trở thành nơi ở tiện nghi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489362+07:00",
+      "fetched": "2025-12-29T11:46:26.489480+07:00"
+    },
+    {
+      "id": "c5fe3d7b15b7e476c832ce8987a51cc9",
+      "title": "Tết dương lịch ra rạp xem gì: Có cả Thu Trang, Châu Tinh Trì, phim về nạn lừa đảo người Việt",
+      "link": "https://tuoitre.vn/tet-duong-lich-ra-rap-xem-gi-co-ca-thu-trang-chau-tinh-tri-phim-ve-nan-lua-dao-nguoi-viet-20251229092249716.htm",
+      "summary": "Rạp Việt dịp Tết dương lịch 2026 sẽ có hai phim Việt là Thiên đường máu, Ai thương ai mến cùng các phim nước ngoài, trong khi bom tấn Avatar 3 vẫn còn sức hút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489237+07:00",
+      "fetched": "2025-12-29T11:46:26.489351+07:00"
+    },
+    {
+      "id": "5c1ff30b303386bff3ce8db4db0f3c13",
+      "title": "Trung Quốc gửi viện trợ nhân đạo cho Campuchia tại biên giới",
+      "link": "https://tuoitre.vn/trung-quoc-gui-vien-tro-nhan-dao-cho-campuchia-tai-bien-gioi-20251229110447115.htm",
+      "summary": "Chuyến hàng viện trợ nhân đạo đầu tiên của Trung Quốc đã đến khu vực biên giới của Campuchia đang có xung đột với Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.489107+07:00",
+      "fetched": "2025-12-29T11:46:26.489225+07:00"
+    },
+    {
+      "id": "9d0e4d8dd6df47de4751e0aa0f4c106e",
+      "title": "Báo chí Malaysia tức giận vì lãnh đạo bóng đá không chịu từ chức",
+      "link": "https://tuoitre.vn/bao-chi-malaysia-tuc-gian-vi-lanh-dao-bong-da-khong-chiu-tu-chuc-20251229110637344.htm",
+      "summary": "Truyền thông Malaysia bày tỏ sự tức giận khi các lãnh đạo Liên đoàn Bóng đá Malaysia (FAM) kiên quyết không từ chức dưới sức ép của dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.488969+07:00",
+      "fetched": "2025-12-29T11:46:26.489091+07:00"
+    },
+    {
+      "id": "d77e735739945907bc88c7ec270971b8",
+      "title": "TV360 sở hữu bản quyền các giải đấu của bóng đá Việt Nam ở đấu trường châu Á",
+      "link": "https://tuoitre.vn/tv360-so-huu-ban-quyen-cac-giai-dau-cua-bong-da-viet-nam-o-dau-truong-chau-a-20251229111006838.htm",
+      "summary": "Ngày 29-12, Ứng dụng truyền hình giải trí TV360 công bố bản quyền hàng loạt giải đấu của AFC (Liên đoàn Bóng đá châu Á) trong 3 năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.488823+07:00",
+      "fetched": "2025-12-29T11:46:26.488956+07:00"
+    },
+    {
+      "id": "a78446d37ea476700b05b2c71571a76c",
+      "title": "Giải đáp tranh luận vì sao có các đường dệt này trên khăn tắm",
+      "link": "https://tuoitre.vn/giai-dap-tranh-luan-vi-sao-co-cac-duong-det-nay-tren-khan-tam-20251229110708341.htm",
+      "summary": "Một câu hỏi lan truyền nhiều tháng trên mạng, thắc mắc về các đường viền (đường dệt) ở hai đầu khăn tắm. Công dụng của chúng là gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T11:46:26.488583+07:00",
+      "fetched": "2025-12-29T11:46:26.488807+07:00"
+    },
     {
       "id": "85292473538ffbfa774e5a92eaee2eb9",
       "title": "14 ngày giành giật sự sống cho bé gái 2,1kg bị suy dinh dưỡng bào thai, tắc tá tràng hiếm gặp",
@@ -301,6 +451,296 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T08:40:19.736452+07:00",
       "fetched": "2025-12-29T08:40:19.736683+07:00"
+    },
+    {
+      "id": "fd132e8968a61a4691155d3bb0fd36f5",
+      "title": "Bẫy tài chính từ trào lưu 'tự thưởng' của Gen Z",
+      "link": "https://vnexpress.net/bay-tai-chinh-tu-trao-luu-tu-thuong-cua-gen-z-4999427.html",
+      "summary": "Chi hàng trăm USD mỗi tháng mua cà phê hay mỹ phẩm, nhiều người trẻ xem đây là liều thuốc tinh thần thiết yếu, dù các chuyên gia lo ngại nguy cơ \"vung tay quá trán\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:44:34+07:00",
+      "fetched": "2025-12-29T11:46:22.497519+07:00"
+    },
+    {
+      "id": "7970448a54c3cbb92a387256a07e745d",
+      "title": "An vị xá lợi trái tim Bồ tát Thích Quảng Đức ở Việt Nam Quốc Tự",
+      "link": "https://vnexpress.net/an-vi-xa-loi-trai-tim-bo-tat-thich-quang-duc-o-viet-nam-quoc-tu-4999464.html",
+      "summary": "Từ ngày 29/12, xá lợi trái tim Bồ tát được an vị vĩnh viễn trong tháp Đa Bảo cao 63 m tại Việt Nam Quốc Tự, phường Hòa Hưng, để tôn thờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:35:52+07:00",
+      "fetched": "2025-12-29T11:46:22.497702+07:00"
+    },
+    {
+      "id": "4cdaf2b29abfb053931f608c240d50ac",
+      "title": "Đường dây sản xuất thuốc lá giả thương hiệu Việt ở Campuchia",
+      "link": "https://vnexpress.net/duong-day-san-xuat-thuoc-la-gia-thuong-hieu-viet-o-campuchia-4999404.html",
+      "summary": "Lương Trần Thùy Trang cùng 4 đồng phạm lập đường dây sản xuất gần 50.000 bao thuốc lá giả thương hiệu Việt Nam tại Campuchia, vận chuyển về nước tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:34:57+07:00",
+      "fetched": "2025-12-29T11:46:22.497886+07:00"
+    },
+    {
+      "id": "d2cb8d4e590ee620fe3b6d1b2b55aae9",
+      "title": "Hà Nội đổi lịch nghỉ Tết Dương lịch cho học sinh",
+      "link": "https://vnexpress.net/ha-noi-doi-lich-nghi-tet-duong-lich-cho-hoc-sinh-4999449.html",
+      "summary": "Học sinh Hà Nội có thể nghỉ Tết Dương lịch liền 4 ngày, thay vì chỉ một ngày như thông báo trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:34:15+07:00",
+      "fetched": "2025-12-29T11:46:22.498046+07:00"
+    },
+    {
+      "id": "6fd2cc26cffa2c35b94f17cf6ac4b4db",
+      "title": "Ngôi làng phạt tiền người kết hôn ngoại tỉnh",
+      "link": "https://vnexpress.net/ngoi-lang-phat-tien-nguoi-ket-hon-ngoai-tinh-4999445.html",
+      "summary": "Chính quyền một ngôi làng ở Vân Nam gây tranh cãi khi ban hành hương ước phạt 1.500 nhân dân tệ với người kết hôn ngoại tỉnh và 3.000 tệ nếu mang thai trước cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:34:14+07:00",
+      "fetched": "2025-12-29T11:46:22.498210+07:00"
+    },
+    {
+      "id": "a4ffba456183bbdd6d53cdce4aed6e6c",
+      "title": "Từ năm 2026, những khoản thu nhập nào sẽ được miễn thuế thu nhập cá nhân?",
+      "link": "https://thanhnien.vn/tu-nam-2026-nhung-khoan-thu-nhap-nao-se-duoc-mien-thue-thu-nhap-ca-nhan-185251229110027452.htm",
+      "summary": "Chỉ còn vài ngày nữa cá nhân có một số khoản thu nhập sẽ được miễn thuế thu nhập cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:33:00+07:00",
+      "fetched": "2025-12-29T11:46:25.510635+07:00"
+    },
+    {
+      "id": "7ac6263fcd7fccc4645907590e93e700",
+      "title": "VinFast Limo Green mở xu hướng điện hóa phân khúc MPV",
+      "link": "https://vnexpress.net/vinfast-limo-green-mo-xu-huong-dien-hoa-phan-khuc-mpv-4999150.html",
+      "summary": "Với 296,2 điểm, VinFast Limo Green vượt qua Mitsubishi Xpander (287,3 điểm) và MG G50 (280,8 điểm) để giành danh hiệu Ôtô của năm phân khúc MPV phổ thông, tại Car Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:30:00+07:00",
+      "fetched": "2025-12-29T11:46:22.498373+07:00"
+    },
+    {
+      "id": "74b0e2c6a997fa55338c0b60b65a5846",
+      "title": "9 điểm nhấn vòng 18 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/9-diem-nhan-vong-18-ngoai-hang-anh-4999313.html",
+      "summary": "Florian Wirtz ghi bàn đầu cho Liverpool, Aston Villa tạo cuộc đua tam mã với Man City và Arsenal hay HLV Ruben Amorim lần đầu sử dụng hệ thống bốn hậu vệ ở Man Utd... thuộc danh sách những điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:28:16+07:00",
+      "fetched": "2025-12-29T11:46:22.498533+07:00"
+    },
+    {
+      "id": "2e66960a22842e5e9e2c0e0dea58d831",
+      "title": "Trung Quốc diễn tập sẵn sàng chiến đấu quanh Đài Loan",
+      "link": "https://vnexpress.net/trung-quoc-dien-tap-san-sang-chien-dau-quanh-dai-loan-4999409.html",
+      "summary": "Trung Quốc huy động lực lượng lớn diễn tập bắn đạn thật quanh Đài Loan, nhằm \"kiểm tra khả năng sẵn sàng chiến đấu\" và phát thông điệp cảnh báo hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:27:37+07:00",
+      "fetched": "2025-12-29T11:46:22.498686+07:00"
+    },
+    {
+      "id": "c5a5eab46ca25a7fd16cddb50989ca4e",
+      "title": "Bài học nhớ đời vì tôi quên mang tai nghe ra sân bay",
+      "link": "https://vnexpress.net/huong-dan-lam-thu-tuc-o-san-bay-tai-nghe-chong-on-re-hieu-qua-bai-hoc-nho-doi-vi-quen-mang-tai-nghe-ra-san-bay-4999456.html",
+      "summary": "Tôi thấm 'ác mộng' tiếng ồn nơi công cộng từ nói chuyện oang oang, video call vô tư đến mở loa ngoài xem TikTok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:26:47+07:00",
+      "fetched": "2025-12-29T11:46:22.498862+07:00"
+    },
+    {
+      "id": "4ec13f9f545fe9f2fe10cb6fa6c353e7",
+      "title": "Mạng xã hội không được yêu cầu giấy tờ tùy thân để xác thực từ 2026",
+      "link": "https://vnexpress.net/mang-xa-hoi-khong-duoc-yeu-cau-giay-to-tuy-than-de-xac-thuc-tu-2026-4999429.html",
+      "summary": "Theo Luật Bảo vệ dữ liệu cá nhân, mạng xã hội không được yêu cầu người dùng cung cấp hình ảnh, video chứa nội dung đầy đủ hoặc một phần giấy tờ tùy thân làm yếu tố xác thực tài khoản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:26:16+07:00",
+      "fetched": "2025-12-29T11:46:22.499017+07:00"
+    },
+    {
+      "id": "4ec13f9f545fe9f2fe10cb6fa6c353e7",
+      "title": "Mạng xã hội không được yêu cầu giấy tờ tùy thân để xác thực từ 2026",
+      "link": "https://vnexpress.net/mang-xa-hoi-khong-duoc-yeu-cau-giay-to-tuy-than-de-xac-thuc-tu-2026-4999429.html",
+      "summary": "Theo Luật Bảo vệ dữ liệu cá nhân, mạng xã hội không được yêu cầu người dùng cung cấp hình ảnh, video chứa nội dung đầy đủ hoặc một phần giấy tờ tùy thân làm yếu tố xác thực tài khoản.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-29T04:26:16+07:00",
+      "fetched": "2025-12-29T11:46:32.640763+07:00"
+    },
+    {
+      "id": "2e8a49ea64bbae47655a61205c065f47",
+      "title": "Vì sao nữ sinh Trường đại học Đại Nam chiến thắng Hoa hậu Sinh viên Hòa bình Việt Nam 2025?",
+      "link": "https://thanhnien.vn/vi-sao-nu-sinh-truong-dai-hoc-dai-nam-chien-thang-hoa-hau-sinh-vien-hoa-binh-viet-nam-2025-185251229112346271.htm",
+      "summary": "Người đẹp Nguyễn Phương Thanh vượt lên 32 thí sinh trong đó có những cái tên nặng ký chính thức trở thành chủ nhân của chiếc vương miện Hoa hậu sinh viên Hòa bình Việt Nam 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:26:00+07:00",
+      "fetched": "2025-12-29T11:46:25.510824+07:00"
+    },
+    {
+      "id": "0bfdf7a092562d4017e490b8643a023b",
+      "title": "Báo Jordan: ‘U.23 Việt Nam cực mạnh, mục tiêu vào tứ kết châu Á của chúng ta sẽ khó khăn’",
+      "link": "https://thanhnien.vn/bao-jordan-u23-viet-nam-cuc-manh-muc-tieu-vao-tu-ket-chau-a-se-kho-khan-18525122911152576.htm",
+      "summary": "Theo Jordan Times, mục tiêu vào tứ kết của đội U.23 nước này sẽ gặp thử thách cực kỳ lớn, đó là U.23 Việt Nam, đối thủ cùng bảng A tại VCK U.23 châu Á 2026, bên cạnh chủ nhà Ả Rập Xê Út và 'ẩn số' Kyrgyzstan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:23:00+07:00",
+      "fetched": "2025-12-29T11:46:25.510997+07:00"
+    },
+    {
+      "id": "23ce5ab28d5371eb6486e154f3d18f7f",
+      "title": "Hội đàm Tổng thống Trump - Zelensky kết quả ra sao?",
+      "link": "https://thanhnien.vn/hoi-dam-tong-thong-trump-zelensky-ket-qua-ra-sao-185251229110703236.htm",
+      "summary": "Mỹ và Ukraine cho biết đã có tiến triển và hai bên tiến gần đến thỏa thuận nhằm chấm dứt chiến sự ở Ukraine, trong khi Nga cho rằng 'thế giới đánh giá cao' nỗ lực hòa bình của Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:20:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511151+07:00"
+    },
+    {
+      "id": "021d049201fdaa30026110deda1b2e43",
+      "title": "Hồ Quỳnh Hương ra MV tặng sinh nhật con trai",
+      "link": "https://vnexpress.net/ho-quynh-huong-ra-mv-tang-sinh-nhat-con-trai-4999361.html",
+      "summary": "Hồ Quỳnh Hương hát ca khúc \"Con là phép màu của cha mẹ\" do chồng cô sáng tác, mừng sinh nhật con trai - bé Táo - tròn ba tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:17:56+07:00",
+      "fetched": "2025-12-29T11:46:22.499175+07:00"
+    },
+    {
+      "id": "04b32fa1a50f49c27f5737ca779c7a35",
+      "title": "Thưởng Tết Dương lịch tại Hải Phòng tăng hơn 16%",
+      "link": "https://vnexpress.net/thuong-tet-duong-lich-tai-hai-phong-tang-hon-16-4999439.html",
+      "summary": "Mức thưởng Tết Dương lịch 2026 bình quân tại Hải Phòng đạt 1,13 triệu đồng mỗi người, tăng 16,5% so với năm trước, người cao nhất nhận 137 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:14:55+07:00",
+      "fetched": "2025-12-29T11:46:22.499328+07:00"
+    },
+    {
+      "id": "c47c658d8f3287b61f69e78f2750b2b6",
+      "title": "Tự ý lái ô tô cũ biển vàng có thể bị phạt tới 7 triệu đồng",
+      "link": "https://thanhnien.vn/tu-y-lai-o-to-cu-bien-vang-co-the-bi-phat-toi-7-trieu-dong-185251227140833375.htm",
+      "summary": "Nhiều người mua ô tô cũ biển vàng thường chủ quan tự lái xe về nhà sau khi đã thanh lý hợp đồng với hợp tác xã. Tuy nhiên, khi chưa hoàn tất thủ tục thu hồi biển số, hành vi này sẽ bị xử phạt nặng theo Nghị định 168 do thiếu phù hiệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:14:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511305+07:00"
+    },
+    {
+      "id": "e775eafc8890d5ced3a77548f877298c",
+      "title": "Vị tiến sĩ \"giữ đường bay\" cho sếu đầu đỏ",
+      "link": "https://thanhnien.vn/vi-tien-si-giu-duong-bay-cho-seu-dau-do-185251227212534775.htm",
+      "summary": "Từng chứng kiến đàn sếu cả nghìn con bay về Tràm Chim (Đồng Tháp) rồi lặng lẽ bỏ đi vì sinh cảnh bị phá vỡ, tiến sĩ Trần Triết, Giám đốc Chương trình Đông Nam Á của Hội Sếu quốc tế, đã có cuộc trò chuyện với Thanh Niên như lời tự sự đầy day dứt và trách nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:13:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511458+07:00"
+    },
+    {
+      "id": "cb8015bf3ca70ff521a7a5e6894ec84a",
+      "title": "Thành phố nào đông dân nhất khu vực Đông Nam Á và thế giới?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-thanh-pho-nao-dong-dan-nhat-khu-vuc-dong-nam-a-va-the-gioi-4998047.html",
+      "summary": "Thành phố này đã vượt qua Tokyo để trở thành siêu đô thị đông dân nhất thế giới, với dân số lên tới 42 triệu người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:10:09+07:00",
+      "fetched": "2025-12-29T11:46:22.499490+07:00"
+    },
+    {
+      "id": "3d2a6ba86785e8ea81f581b01a5c8af1",
+      "title": "Ba bước xử lý hàng tồn kho cho hộ kinh doanh trước giờ G",
+      "link": "https://thanhnien.vn/3-buoc-xu-ly-hang-ton-kho-cho-ho-kinh-doanh-truoc-gio-g-185251229090204849.htm",
+      "summary": "Để thực hiện đúng quy định và thuận lợi trong giai đoạn chuyển đổi, các chuyên gia thuế hướng dẫn hộ kinh doanh xử lý hàng tồn kho, đặc biệt hàng tồn không có hóa đơn đầu vào trong bối cảnh chưa có văn bản hướng dẫn cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:07:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511607+07:00"
+    },
+    {
+      "id": "65686a32c8cc8792630b2e9c9e944ded",
+      "title": "Xem nhanh 12h: Nguy cơ sạt lở từ Quảng Trị đến Cà Mau | Những scandal ‘chấn động’ V-biz 2025",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-nguy-co-sat-lo-tu-quang-tri-den-ca-mau-nhung-scandal-chan-dong-v-biz-2025-185251229110345209.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 29.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:03:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511767+07:00"
+    },
+    {
+      "id": "36c98a560a2893ed74da633c3aea3718",
+      "title": "Bác sĩ tim mạch tiết lộ bữa sáng giúp đẩy lùi lão hóa, sống thọ",
+      "link": "https://vnexpress.net/bac-si-tim-mach-tiet-lo-bua-sang-giup-day-lui-lao-hoa-song-tho-4999408.html",
+      "summary": "Bữa sáng giàu protein, chất béo lành mạnh và chất xơ giúp ổn định đường huyết, giảm viêm, chống lão hóa và sống thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:02:48+07:00",
+      "fetched": "2025-12-29T11:46:22.499654+07:00"
+    },
+    {
+      "id": "5e3e76d1c9326c35831165819d887b2a",
+      "title": "Chồng buông lời lả lơi với phụ nữ khác dù đi cùng tôi",
+      "link": "https://vnexpress.net/chong-tim-gai-goi-chong-buong-loi-la-loi-voi-phu-nu-khac-du-di-cung-toi-4999388.html",
+      "summary": "Tôi phát hiện chồng đi gái gọi mấy lần nhưng anh không nhận, không xin lỗi, cũng không hứa hẹn cam kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T04:00:00+07:00",
+      "fetched": "2025-12-29T11:46:22.499834+07:00"
+    },
+    {
+      "id": "0073d009e41372dea9291dbf3690ee68",
+      "title": "Cựu đệ nhất phu nhân Hàn Quốc bị tố thao túng chính trị từ hậu trường",
+      "link": "https://thanhnien.vn/cuu-de-nhat-phu-nhan-han-quoc-bi-to-thao-tung-chinh-tri-tu-hau-truong-185251229104104154.htm",
+      "summary": "Ngày 29.12, công tố viên đặc biệt Hàn Quốc công bố kết luận điều tra sau 6 tháng, cáo buộc cựu đệ nhất phu nhân Kim Keon Hee can thiệp trái phép công việc nhà nước từ hậu trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:53:00+07:00",
+      "fetched": "2025-12-29T11:46:25.511936+07:00"
+    },
+    {
+      "id": "ee393f95bd0641d3693b6b8baebf71e4",
+      "title": "Giải mã thuật ngữ 'EPR' trên cổng USB-C",
+      "link": "https://thanhnien.vn/giai-ma-thuat-ngu-epr-tren-cong-usb-c-1852512291016268.htm",
+      "summary": "Thuật ngữ 'EPR' trên cổng USB-C là gì mà khiến các cục sạc laptop lớn sắp 'tuyệt chủng'?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:52:00+07:00",
+      "fetched": "2025-12-29T11:46:25.512084+07:00"
+    },
+    {
+      "id": "8cc547ae4ff7493106019eb7f886ee5f",
+      "title": "Nhiều trường thuộc ĐH Quốc gia TP.HCM có sinh viên tốt nghiệp muộn trên 60%, vì sao?",
+      "link": "https://thanhnien.vn/nhieu-truong-thuoc-dh-quoc-gia-tphcm-co-sinh-vien-tot-nghiep-muon-tren-60-vi-sao-185251229103431298.htm",
+      "summary": "Tỷ lệ sinh viên tốt nghiệp đúng hạn thấp nhất được ghi nhận tại một trường thành viên ĐH Quốc gia TP.HCM ở mức 36,4%. Rào cản lớn nhất khiến trên 63% sinh viên ra trường muộn nằm ở đâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:50:00+07:00",
+      "fetched": "2025-12-29T11:46:25.512235+07:00"
+    },
+    {
+      "id": "5530899b1a33975aafd05c159e83edf1",
+      "title": "Khai mạc Đại hội Đoàn TP.HCM tươi vui, trẻ trung và nhiều cảm xúc",
+      "link": "https://thanhnien.vn/khai-mac-dai-hoi-doan-tphcm-tuoi-vui-tre-trung-va-nhieu-cam-xuc-185251229100036103.htm",
+      "summary": "Trong không khí tươi vui và trẻ trung, sáng 29.12, Đại hội đại biểu Đoàn TNCS Hồ Chí Minh TP.HCM lần thứ I, nhiệm kỳ 2025 - 2030 đã chính thức khai mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T03:50:00+07:00",
+      "fetched": "2025-12-29T11:46:25.512382+07:00"
+    },
+    {
+      "id": "3193384a93671188a91006f4a3ee4dbc",
+      "title": "Doanh nhân Thái Lan bị tuyên hơn 800 năm tù vì lừa đảo",
+      "link": "https://vnexpress.net/doanh-nhan-thai-lan-bi-tuyen-hon-800-nam-tu-vi-lua-dao-4999360.html",
+      "summary": "Tòa Thái Lan tuyên bản án lịch sử hơn 806 năm tù với doanh nhân Prasit Jeawkok vì tội lừa đảo bằng các chương trình đầu tư bất hợp pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T03:47:57+07:00",
+      "fetched": "2025-12-29T11:46:28.341870+07:00"
     },
     {
       "id": "a52f9b3fea0bc877575092f3f0d65710",
@@ -1211,6 +1651,16 @@ window.newsData_2025_12_29 = {
       "category": "Thế giới",
       "published": "2025-12-28T23:56:56+07:00",
       "fetched": "2025-12-29T08:40:21.698671+07:00"
+    },
+    {
+      "id": "f9e83ad16df8dcfa765a6d0bc6fe40e1",
+      "title": "Nữ tiến sĩ Việt với những dự án pin 'mật' cùng Bộ Năng lượng Mỹ",
+      "link": "https://vnexpress.net/nu-tien-si-viet-voi-nhung-du-an-pin-mat-cung-bo-nang-luong-my-4994389.html",
+      "summary": "Linh Lê, 29 tuổi, nghiên cứu sinh sau tiến sĩ tại Đại học Stanford, từng tham gia các dự án bảo mật của Bộ Năng lượng Mỹ nhằm tạo ra những loại pin sạc siêu nhanh, đặc biệt cho xe điện và điện thoại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-28T23:29:46+07:00",
+      "fetched": "2025-12-29T11:46:32.640959+07:00"
     },
     {
       "id": "86e8711bfd50ac9e5c2e08f40f1304a9",
