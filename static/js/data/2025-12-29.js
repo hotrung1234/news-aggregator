@@ -1,7 +1,17 @@
 window.newsData_2025_12_29 = {
   "date": "2025-12-29",
-  "lastUpdated": "2025-12-29T11:46:33.608876+07:00",
+  "lastUpdated": "2025-12-29T13:30:57.399790+07:00",
   "articles": [
+    {
+      "id": "3b251e274e13d14e68e61b703c5dd282",
+      "title": "800 triệu đồng từ Báo Tuổi Trẻ và GREENFEED Việt Nam hỗ trợ đồng bào bị bão, lũ ở đông Gia Lai",
+      "link": "https://tuoitre.vn/800-trieu-dong-tu-bao-tuoi-tre-va-greenfeed-viet-nam-ho-tro-dong-bao-bi-bao-lu-o-dong-gia-lai-20251229105259966.htm",
+      "summary": "Báo Tuổi Trẻ và Công ty GREENFEED Việt Nam phối hợp Tỉnh đoàn Gia Lai trao 800 triệu đồng tiền mặt cho 80 hộ dân khó khăn, thiệt hại trong bão lũ ở phía đông tỉnh Gia Lai (Bình Định cũ) để hỗ trợ bà con ổn định cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T13:30:49.174016+07:00",
+      "fetched": "2025-12-29T13:30:49.174270+07:00"
+    },
     {
       "id": "af56f3879e8f052389c407a44807e39f",
       "title": "Hải Phòng hỗ trợ giáo sư đến 500 triệu đồng nếu cam kết làm việc cho thành phố",
@@ -451,6 +461,376 @@ window.newsData_2025_12_29 = {
       "category": "Tổng hợp",
       "published": "2025-12-29T08:40:19.736452+07:00",
       "fetched": "2025-12-29T08:40:19.736683+07:00"
+    },
+    {
+      "id": "bd5297c84f0b17b4cf9b7a30dfea0b4c",
+      "title": "Giáo dục 2025 giữa đột phá và xáo trộn",
+      "link": "https://vnexpress.net/nhung-su-kien-giao-duc-noi-bat-2025-4995006.html",
+      "summary": "Ngành giáo dục trải qua một năm đầy dấu ấn với những bứt phá về thể chế, hoàn tất chu trình đổi mới chương trình nhưng cũng không ít xáo trộn, rối ren từ thực tiễn thi cử và dạy thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:26:57+07:00",
+      "fetched": "2025-12-29T13:30:44.787932+07:00"
+    },
+    {
+      "id": "3a35f932c7bf4634af1dcd61deaeb9ff",
+      "title": "HAGL trung thành với chiến lược đầu tư cho tài năng trẻ của bầu Đức",
+      "link": "https://thanhnien.vn/hagl-trung-thanh-voi-chien-luoc-dau-tu-cho-tai-nang-tre-cua-bau-duc-185251229130622381.htm",
+      "summary": "HAGL chính là một trong những đội bóng cung cấp nhiều nhân tài cho các đội tuyển quốc gia, nhờ luôn ưu tiên cho các tài năng trẻ ra sân, kể cả vị trí quan trọng như tiền đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:22:00+07:00",
+      "fetched": "2025-12-29T13:30:48.207983+07:00"
+    },
+    {
+      "id": "15ce0f5200ccdb06147e027a3a181e0b",
+      "title": "Xuất hiện chiêu lừa đảo mới mạo danh học sinh, nhà trường phát cảnh báo",
+      "link": "https://thanhnien.vn/xuat-hien-chieu-lua-dao-moi-mao-danh-hoc-sinh-nha-truong-phat-canh-bao-185251229110112874.htm",
+      "summary": "Ngày 29.12, Trường THPT Bùi Thị Xuân (P.Bến Thành, TP.HCM) phát cảnh báo khẩn trước việc xuất hiện một phương thức lừa đảo mới rất tinh vi khi mạo danh học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:22:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208175+07:00"
+    },
+    {
+      "id": "0e7e574f511ed6506022fadc9e28bf5f",
+      "title": "Rosé (BlackPink) là mỹ nhân đẹp nhất thế giới năm 2025",
+      "link": "https://thanhnien.vn/rose-blackpink-la-my-nhan-dep-nhat-the-gioi-nam-2025-185251229121935335.htm",
+      "summary": "Năm 2025 đánh dấu cột mốc rực rỡ trong sự nghiệp của Rosé khi bản hit 'APT.' kết hợp cùng Bruno Mars liên tục thống lĩnh các bảng xếp hạng. Mới đây, giọng ca chính BlackPink còn được vinh danh là mỹ nhân đẹp nhất thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:21:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208336+07:00"
+    },
+    {
+      "id": "8d1352bf80faaa11f68b23dba6d27b7a",
+      "title": "Di chuyển que diêm nào để '9 + 9 = 8' là đúng?",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-9-9-8-la-dung-4998735.html",
+      "summary": "Nhìn kỹ, suy nghĩ chậm lại một chút, biết đâu bạn sẽ \"wow\" vì hóa ra mình thông minh hơn mình tưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:20:00+07:00",
+      "fetched": "2025-12-29T13:30:44.788170+07:00"
+    },
+    {
+      "id": "c05f899e4fe8ebbea112b6514c34d7e5",
+      "title": "Lễ công bố và bốc thăm xếp lịch thi đấu vòng loại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/le-cong-bo-va-boc-tham-xep-lich-thi-dau-vong-loai-tnsv-thaco-cup-2026-185251229081716075.htm",
+      "summary": "14 giờ hôm nay (29.12) tại TP.HCM diễn ra lễ công bố và bốc thăm xếp lịch thi đấu vòng loại giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:18:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208494+07:00"
+    },
+    {
+      "id": "36cf8fe1f1743eda78b83b84a78f83df",
+      "title": "5 nơi du khách không thể ghé thăm năm 2026",
+      "link": "https://vnexpress.net/5-noi-du-khach-khong-the-ghe-tham-nam-2026-4999283.html",
+      "summary": "Chùa Gounsa ở Hàn Quốc, sông Mỹ ở công viên Walt Disney World hay hầm mộ Paris là những điểm đến du khách chưa thể ghé thăm năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:17:07+07:00",
+      "fetched": "2025-12-29T13:30:44.788346+07:00"
+    },
+    {
+      "id": "c9b19021007ab512c4c3dadfaf9116b9",
+      "title": "Chiều mai khai mạc Diễn đàn Make in Viet Nam 2025",
+      "link": "https://vnexpress.net/chieu-mai-khai-mac-dien-dan-make-in-viet-nam-2025-4999383.html",
+      "summary": "Diễn đàn Make in Viet Nam 2025 là diễn đàn chính sách, kết hợp không gian trưng bày hơn 50 sản phẩm công nghệ số do doanh nghiệp Việt phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:02:29+07:00",
+      "fetched": "2025-12-29T13:30:44.788513+07:00"
+    },
+    {
+      "id": "c9b19021007ab512c4c3dadfaf9116b9",
+      "title": "Chiều mai khai mạc Diễn đàn Make in Viet Nam 2025",
+      "link": "https://vnexpress.net/chieu-mai-khai-mac-dien-dan-make-in-viet-nam-2025-4999383.html",
+      "summary": "Diễn đàn Make in Viet Nam 2025 là diễn đàn chính sách, kết hợp không gian trưng bày hơn 50 sản phẩm công nghệ số do doanh nghiệp Việt phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-29T06:02:29+07:00",
+      "fetched": "2025-12-29T13:30:55.797271+07:00"
+    },
+    {
+      "id": "df849b9b03289778b863eb97a18f4058",
+      "title": "Chọn 9 điểm chơi Tết Dương lịch vào 'phút chót'",
+      "link": "https://vnexpress.net/chon-9-diem-choi-tet-duong-lich-vao-phut-chot-4998120.html",
+      "summary": "Du khách có thể tận hưởng kỳ nghỉ đầu năm tại các điểm đến gần Hà Nội, TP HCM hoặc Malaysia dù lên kế hoạch muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:01:06+07:00",
+      "fetched": "2025-12-29T13:30:44.788671+07:00"
+    },
+    {
+      "id": "f350c38d79fbe70df1f7a030d3f2a717",
+      "title": "12 cựu công an bị cáo buộc 'giải cứu' người nghiện",
+      "link": "https://vnexpress.net/12-cuu-cong-an-bi-cao-buoc-giai-cuu-nguoi-nghien-4999498.html",
+      "summary": "Phạm Trần Ngọc Thanh, cựu cán bộ công an phường ở Gò Vấp, móc nối nhiều người hình thành đường dây làm giả hồ sơ cư trú, giúp người nghiện trốn cai bắt buộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:42+07:00",
+      "fetched": "2025-12-29T13:30:44.788781+07:00"
+    },
+    {
+      "id": "0020586b846dcaaa240afafe8229045b",
+      "title": "Chia tay bạn gái thích đi ăn hàng vì sợ 'nấu ăn ám mùi dầu mỡ'",
+      "link": "https://vnexpress.net/chia-tay-ban-gai-thich-di-an-hang-hoac-order-ve-vi-so-am-mui-dau-mo-4999390.html",
+      "summary": "Em đòi độc lập, đòi bình đẳng nhưng đi ăn, đi chơi, du lịch thì mặc định tôi chi, quà cáp lễ tết thiếu chút là dỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:00+07:00",
+      "fetched": "2025-12-29T13:30:44.788943+07:00"
+    },
+    {
+      "id": "84f5ea4ff78d978b1ae4919a9859d8c6",
+      "title": "5 lợi ích của cá biển với não bộ",
+      "link": "https://vnexpress.net/5-loi-ich-cua-ca-bien-voi-nao-bo-4999472.html",
+      "summary": "Cá biển giàu omega-3, protein, vitamin D, iốt, selen, giúp nuôi dưỡng tế bào não, tăng khả năng tập trung và hỗ trợ dẫn truyền thần kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:00+07:00",
+      "fetched": "2025-12-29T13:30:44.789141+07:00"
+    },
+    {
+      "id": "f527fb46629bffa16a88177a5059be8e",
+      "title": "Rối loạn tiêu hóa sau nhiều năm tự uống kháng sinh",
+      "link": "https://vnexpress.net/roi-loan-tieu-hoa-sau-nhieu-nam-tu-uong-khang-sinh-4999433.html",
+      "summary": "Ông Kim, 71 tuổi, phải mặc bỉm mỗi khi ra ngoài do rối loạn tiêu hóa sau nhiều năm tự ý dùng kháng sinh mỗi khi ho, sốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:00+07:00",
+      "fetched": "2025-12-29T13:30:44.789310+07:00"
+    },
+    {
+      "id": "39a15d5b6670d526992fce87399635e9",
+      "title": "LG tăng kết nối cộng đồng trong năm 2025",
+      "link": "https://vnexpress.net/lg-tang-ket-noi-cong-dong-trong-nam-2025-4998676.html",
+      "summary": "Thông qua cộng đồng LifeGenius, LG tổ chức nhiều hoạt động như trải nghiệm sản phẩm, workshop, cuộc thi, góp phần kết nối người tiêu dùng trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:00+07:00",
+      "fetched": "2025-12-29T13:30:44.789486+07:00"
+    },
+    {
+      "id": "bdf42bbe692ddaf0b6fbcfb1f43030a8",
+      "title": "Masterise Homes chính thức ra mắt LUMIÈRE Essence Peak tại Trung tâm quốc tế Global Gate",
+      "link": "https://thanhnien.vn/masterise-homes-chinh-thuc-ra-mat-lumiere-essence-peak-tai-trung-tam-quoc-te-global-gate-185251229122013616.htm",
+      "summary": "Trọn vẹn hành trình LUMIÈRE series tại Trung tâm quốc tế Global Gate, Masterise Homes chính thức giới thiệu dấu ấn thứ 8 của dòng sản phẩm, mang tên LUMIÈRE Essence Peak.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T06:00:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208648+07:00"
+    },
+    {
+      "id": "65b0b6cb2383c9139439c75529fc1fa1",
+      "title": "Anh tìm em, người cùng tạo nên gia đình hạnh phúc",
+      "link": "https://vnexpress.net/anh-tim-em-nguoi-cung-tao-nen-gia-dinh-hanh-phuc-4999341.html",
+      "summary": "Suy nghĩ của anh cũng hơi sâu sắc nên không hợp với những cô trẻ tuổi quá, em tầm 29-36 là ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:53:36+07:00",
+      "fetched": "2025-12-29T13:30:44.789587+07:00"
+    },
+    {
+      "id": "31567f6611dbed69ce0cede711517897",
+      "title": "Trung tâm Phục vụ hành chính công TP.HCM chính thức nhận hồ sơ tập trung",
+      "link": "https://thanhnien.vn/trung-tam-phuc-vu-hanh-chinh-cong-tphcm-chinh-thuc-nhan-ho-so-tap-trung-185251229123003479.htm",
+      "summary": "Với cơ sở vật chất hiện đại, nhân sự được tập huấn kỹ lưỡng, Trung tâm Phục vụ hành chính công TP.HCM có thể đón 800 - 1.000 lượt khách cùng thời điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:53:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208808+07:00"
+    },
+    {
+      "id": "0fc8c951e9ecff30b784d2d4c1dbf316",
+      "title": "Không để xảy ra các 'điểm nóng' an ninh trật tự tại Đồng bằng sông Cửu Long",
+      "link": "https://thanhnien.vn/khong-de-xay-ra-cac-diem-nong-an-ninh-trat-tu-tai-dong-bang-song-cuu-long-185251229123032869.htm",
+      "summary": "Sáng 29.12, Thủ tướng Phạm Minh Chính chủ trì hội nghị về bảo đảm an ninh, trật tự phục vụ phát triển kinh tế - xã hội vùng Đồng bằng sông Cửu Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:51:00+07:00",
+      "fetched": "2025-12-29T13:30:48.208962+07:00"
+    },
+    {
+      "id": "c1c9d81654c7b942a1977aba4c4d7b52",
+      "title": "Chiếc răng gãy rơi vào khí quản khiến bé trai khó thở",
+      "link": "https://vnexpress.net/chiec-rang-gay-roi-vao-khi-quan-khien-be-trai-kho-tho-4999484.html",
+      "summary": "Bé trai 10 tuổi ho, khó thở sau tai nạn giao thông, bác sĩ phát hiện một chiếc răng gãy rơi vào khí quản suýt gây tắc đường thở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:49:42+07:00",
+      "fetched": "2025-12-29T13:30:44.789747+07:00"
+    },
+    {
+      "id": "416231a376e64b8129648ea406e35528",
+      "title": "Bộ Tư pháp đề xuất bãi bỏ nhiều loại giao dịch bắt buộc công chứng",
+      "link": "https://thanhnien.vn/bo-tu-phap-de-xuat-bai-bo-nhieu-loai-giao-dich-bat-buoc-cong-chung-185251229121541674.htm",
+      "summary": "Bộ Tư pháp đề xuất 2 phương án sửa đổi theo hướng bãi bỏ nhiều loại giao dịch bắt buộc công chứng, chuyển sang công chứng tự nguyện, theo yêu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:48:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209129+07:00"
+    },
+    {
+      "id": "9d7dd26bdfb7e697ba7f98285dca558d",
+      "title": "‘Tác động vật lý’ với trọng tài, HLV đội U.19 Hà Tĩnh bị cấm làm nhiệm vụ 6 trận",
+      "link": "https://thanhnien.vn/tac-dong-vat-ly-voi-trong-tai-hlv-doi-u19-ha-tinh-bi-cam-lam-nhiem-vu-6-tran-185251229124259646.htm",
+      "summary": "Ban Kỷ luật VFF vừa ký văn bản xử phạt với HLV và trợ lý HLV đội U.19 Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:45:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209284+07:00"
+    },
+    {
+      "id": "37a7173fac0c99bbe49b8137aa990454",
+      "title": "MTTQ Việt Nam tặng 30.000 suất quà cho người nghèo, người khó khăn dịp tết 2026",
+      "link": "https://thanhnien.vn/mttq-viet-nam-tang-30000-suat-qua-cho-nguoi-ngheo-nguoi-kho-khan-dip-tet-2026-185251229120439955.htm",
+      "summary": "Mặt trận Tổ quốc Việt Nam sẽ trao 30.000 suất quà tới người nghèo, công nhân lao động và người có hoàn cảnh đặc biệt khó khăn trên cả nước nhân dịp tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:45:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209433+07:00"
+    },
+    {
+      "id": "dcf6ec97aaac506578e992f791b536e7",
+      "title": "EVN giảm bớt lỗ lũy kế giai đoạn 2022-2023",
+      "link": "https://vnexpress.net/evn-giam-bot-lo-luy-ke-giai-doan-2022-2023-4999419.html",
+      "summary": "EVN ghi nhận doanh thu hợp nhất hơn 645.000 tỷ đồng năm nay, giúp tập đoàn có lãi bù đắp một phần khoản lỗ lũy kế gần 45.000 tỷ của giai đoạn trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:44:43+07:00",
+      "fetched": "2025-12-29T13:30:44.789903+07:00"
+    },
+    {
+      "id": "dcf6ec97aaac506578e992f791b536e7",
+      "title": "EVN giảm bớt lỗ lũy kế giai đoạn 2022-2023",
+      "link": "https://vnexpress.net/evn-giam-bot-lo-luy-ke-giai-doan-2022-2023-4999419.html",
+      "summary": "EVN ghi nhận doanh thu hợp nhất hơn 645.000 tỷ đồng năm nay, giúp tập đoàn có lãi bù đắp một phần khoản lỗ lũy kế gần 45.000 tỷ của giai đoạn trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T05:44:43+07:00",
+      "fetched": "2025-12-29T13:30:52.719910+07:00"
+    },
+    {
+      "id": "5da79208130c653f44a48a4f878c8951",
+      "title": "Khánh Hòa: Không đăng ký cư trú vẫn được nhận hỗ trợ khắc phục mưa lũ",
+      "link": "https://thanhnien.vn/khanh-hoa-khong-dang-ky-cu-tru-van-duoc-nhan-ho-tro-khac-phuc-mua-lu-18525122911535032.htm",
+      "summary": "UBND tỉnh Khánh Hòa đồng ý hỗ trợ người dân không có đăng ký thường trú, tạm trú nhưng thực tế có nhà ở và sinh sống tại địa phương hoặc sinh sống cùng chủ hộ trong đợt mưa lũ vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:43:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209585+07:00"
+    },
+    {
+      "id": "b9c0fd5e9a4702f10ed694abd9537fb3",
+      "title": "Nở rộ mô hình siêu thị tích hợp ẩm thực",
+      "link": "https://vnexpress.net/no-ro-mo-hinh-sieu-thi-tich-hop-am-thuc-4993133.html",
+      "summary": "Nhiều siêu thị đồng loạt tích hợp và mở rộng khu ẩm thực, quầy bánh để kéo khách ở lại lâu hơn trong bối cảnh sức mua phân tầng và cạnh tranh ngày càng gây gắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:41:05+07:00",
+      "fetched": "2025-12-29T13:30:44.790088+07:00"
+    },
+    {
+      "id": "b9c0fd5e9a4702f10ed694abd9537fb3",
+      "title": "Nở rộ mô hình siêu thị tích hợp ẩm thực",
+      "link": "https://vnexpress.net/no-ro-mo-hinh-sieu-thi-tich-hop-am-thuc-4993133.html",
+      "summary": "Nhiều siêu thị đồng loạt tích hợp và mở rộng khu ẩm thực, quầy bánh để kéo khách ở lại lâu hơn trong bối cảnh sức mua phân tầng và cạnh tranh ngày càng gây gắt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-29T05:41:05+07:00",
+      "fetched": "2025-12-29T13:30:52.720112+07:00"
+    },
+    {
+      "id": "ae70beb7c49fbd32043ad1714793d5ff",
+      "title": "Thách thức về an ninh mạng ngày càng gia tăng với thủ đoạn tấn công tinh vi",
+      "link": "https://thanhnien.vn/thach-thuc-ve-an-ninh-mang-ngay-cang-gia-tang-voi-thu-doan-tan-cong-tinh-vi-185251229100858798.htm",
+      "summary": "Đội ứng cứu sự cố an toàn thông tin mạng tỉnh Quảng Ngãi được xác định là lực lượng nòng cốt, chủ động phát hiện, xử lý các sự cố an ninh mạng, góp phần xây dựng không gian mạng an toàn, lành mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:41:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209735+07:00"
+    },
+    {
+      "id": "51307d402f3664bb045eb06ecbada278",
+      "title": "TP.HCM: Điều tra vụ người đàn ông tử vong trên đồng lúa",
+      "link": "https://thanhnien.vn/tphcm-dieu-tra-vu-nguoi-dan-ong-tu-vong-tren-dong-lua-185251229115840562.htm",
+      "summary": "Người dân phát hiện một người đàn ông tử vong trên đồng lúa trong tư thế treo cổ trên cây tại xã Củ Chi, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:36:00+07:00",
+      "fetched": "2025-12-29T13:30:48.209882+07:00"
+    },
+    {
+      "id": "fd3d8b0d718f07dd0372aa5463e338ab",
+      "title": "Vì sao Yamal, Raphinha, Vinicius, Foden... thích quấn băng cổ tay?",
+      "link": "https://vnexpress.net/vi-sao-yamal-raphinha-vinicius-foden-thich-quan-bang-co-tay-4999462.html",
+      "summary": "Đã có một số nghi ngờ về việc che giấu động cơ dùng doping, nhưng theo các chuyên gia, cầu thủ thích quấn băng tay vì nhiều mục đích khác nhau, gồm cả mê tín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:33:00+07:00",
+      "fetched": "2025-12-29T13:30:44.790258+07:00"
+    },
+    {
+      "id": "fd3d8b0d718f07dd0372aa5463e338ab",
+      "title": "Vì sao Yamal, Raphinha, Vinicius, Foden... thích quấn băng cổ tay?",
+      "link": "https://vnexpress.net/vi-sao-yamal-raphinha-vinicius-foden-thich-quan-bang-co-tay-4999462.html",
+      "summary": "Đã có một số nghi ngờ về việc che giấu động cơ dùng doping, nhưng theo các chuyên gia, cầu thủ thích quấn băng tay vì nhiều mục đích khác nhau, gồm cả mê tín.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-29T05:33:00+07:00",
+      "fetched": "2025-12-29T13:30:57.390500+07:00"
+    },
+    {
+      "id": "6cd68f69aa5f11894bf2e74aa13a6f59",
+      "title": "'Về đây bốn cánh chim trời' hoãn phút chót: Nỗi buồn của nhạc sĩ Trần Tiến",
+      "link": "https://thanhnien.vn/ve-day-bon-canh-chim-troi-hoan-phut-chot-noi-buon-cua-nhac-si-tran-tien-185251229121713693.htm",
+      "summary": "Đêm nhạc Về đây bốn cánh chim trời bất ngờ thông báo hoãn phút chót khiến khán giả bức xúc. Nhạc sĩ Trần Tiến cũng bày tỏ nỗi buồn và thất vọng trước cách làm việc thiếu chuyên nghiệp của ban tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:32:00+07:00",
+      "fetched": "2025-12-29T13:30:48.210046+07:00"
+    },
+    {
+      "id": "d649b39d651f311d0c676b5cf07ea688",
+      "title": "'Tia sắt' laser phòng không được Israel chính thức biên chế",
+      "link": "https://thanhnien.vn/tia-sat-laser-phong-khong-duoc-israel-chinh-thuc-bien-che-185251229121840747.htm",
+      "summary": "Bộ Quốc phòng Israel ngày 28.12 thông báo lần đầu trang bị laser phòng không Iron Beam ở trạng thái sẵn sàng chiến đấu, vũ khí làm tăng năng lực đánh chặn rốc két và UAV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-29T05:23:00+07:00",
+      "fetched": "2025-12-29T13:30:48.210197+07:00"
+    },
+    {
+      "id": "34e92270864910fc77d213536c867e83",
+      "title": "Tàu hỏa trật bánh ở Mexico, ít nhất 13 người chết",
+      "link": "https://vnexpress.net/tau-hoa-trat-banh-o-mexico-it-nhat-13-nguoi-chet-4999480.html",
+      "summary": "Đoàn tàu chở 250 người bị trật bánh, một số toa lao xuống hẻm núi ở miền nam Mexico, khiến ít nhất 13 người chết, gần 100 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T05:13:07+07:00",
+      "fetched": "2025-12-29T13:30:51.033889+07:00"
+    },
+    {
+      "id": "37b5262e7e429ea33ee346e967604a3b",
+      "title": "Ước mơ thành hiện thực của nữ cơ trưởng đầu tiên lái máy bay nội địa Trung Quốc",
+      "link": "https://vnexpress.net/uoc-mo-thanh-hien-thuc-cua-nu-co-truong-dau-tien-lai-may-bay-noi-dia-trung-quoc-4999397.html",
+      "summary": "Vu Duyệt, nữ cơ trưởng đầu tiên lái máy bay nội địa C919 do Trung Quốc sản xuất, từ nhỏ đã ấp ủ giấc mơ trở thành phi công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T05:03:38+07:00",
+      "fetched": "2025-12-29T13:30:51.034090+07:00"
+    },
+    {
+      "id": "9b82f71a967ec71bf558614582c18bf7",
+      "title": "Người hùng kể khoảnh khắc đối mặt kẻ xả súng ở Australia",
+      "link": "https://vnexpress.net/nguoi-hung-ke-khoanh-khac-doi-mat-ke-xa-sung-o-australia-4999447.html",
+      "summary": "Ahmed, người hùng trong vụ xả súng ở Bondi, kể lại khoảnh khắc cảnh cáo và tước vũ khí của kẻ tấn công trên bãi biển hai tuần trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-29T04:57:44+07:00",
+      "fetched": "2025-12-29T13:30:51.034262+07:00"
     },
     {
       "id": "fd132e8968a61a4691155d3bb0fd36f5",
