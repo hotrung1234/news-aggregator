@@ -1,6 +1,6 @@
 window.newsData_2025_12_30 = {
   "date": "2025-12-30",
-  "lastUpdated": "2025-12-30T11:37:07.480260+07:00",
+  "lastUpdated": "2025-12-30T13:29:13.711301+07:00",
   "articles": [
     {
       "id": "f605d06274da6f4bde59e149f32518ea",
@@ -453,6 +453,396 @@ window.newsData_2025_12_30 = {
       "fetched": "2025-12-30T08:24:02.228009+07:00"
     },
     {
+      "id": "d2506fcc9770326dbe17fe546dddbba1",
+      "title": "Quyết tâm xây dựng TP.HCM đến năm 2030 không có ma túy",
+      "link": "https://thanhnien.vn/quyet-tam-xay-dung-tphcm-den-nam-2030-khong-co-ma-tuy-185251230125529576.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được nhấn mạnh, TP.HCM mục tiêu đến năm 2026 có 100% cơ sở giáo dục, y tế, cơ quan phải không có ma túy. Đến năm 2029, 100% xã, phường, khu phố trên toàn thành phố đạt tiêu chí \"địa bàn không ma túy\". Đến năm 2030 duy trì vững chắc thành quả, không để ma túy tái diễn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:19:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738071+07:00"
+    },
+    {
+      "id": "3cd83c65d62f325ffb502db1920ab6ac",
+      "title": "Khoảng 2,45 triệu ô tô đã qua sử dụng bị tua đồng hồ kilomet",
+      "link": "https://thanhnien.vn/khoang-245-trieu-o-to-da-qua-su-dung-bi-tua-dong-ho-kilomet-185251227201412957.htm",
+      "summary": "Công ty chuyên về dữ liệu ô tô cũ - CarFax ước tính hàng triệu ô tô đã qua sử dụng có dấu hiệu gian lận bằng cách tua lại đồng hồ kilomet đo quãng đường, khiến người mua không hề hay biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:18:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738253+07:00"
+    },
+    {
+      "id": "324f5d80d054afa5e08166c359075dd2",
+      "title": "Đố bạn có bao nhiêu số 9 trong ảnh?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-do-ban-co-bao-nhieu-so-9-trong-anh-4998324.html",
+      "summary": "Đây đúng chuẩn bài test sự kiên nhẫn: ai bình tĩnh thì đếm ra, ai vội vàng là sai ngay!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:17:00+07:00",
+      "fetched": "2025-12-30T13:28:59.262950+07:00"
+    },
+    {
+      "id": "88ee8f5c9fe7b0fe0081a070b4110d9e",
+      "title": "Thi ăn dưa hấu, nam du khách tử vong vì nghẹn",
+      "link": "https://vnexpress.net/thi-an-dua-hau-nam-du-khach-tu-vong-vi-nghen-4999844.html",
+      "summary": "Nam du khách 37 tuổi ngạt thở và thiệt mạng sau khi tham gia trò chơi ăn dưa hấu không dùng tay để giành giải thưởng tại khu nghỉ dưỡng ở Sao Pedro hôm 11/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:16:04+07:00",
+      "fetched": "2025-12-30T13:28:59.263140+07:00"
+    },
+    {
+      "id": "e2a55aa90909a6ee85bb6990cf7b823a",
+      "title": "Băng giang hồ 'khoe' đòi nợ thuê trên mạng xã hội bị bắt",
+      "link": "https://vnexpress.net/bang-giang-ho-khoe-doi-no-thue-tren-mang-xa-hoi-bi-bat-5000065.html",
+      "summary": "Lê Tuấn Phong (tức Phong “Lê”) cùng đồng phạm bị bắt sau thời gian phô trương thanh thế đòi nợ trên mạng xã hội bằng hình ảnh giang hồ xăm trổ, tụ tập đông người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:05:39+07:00",
+      "fetched": "2025-12-30T13:28:59.263314+07:00"
+    },
+    {
+      "id": "8c7ec9cbce93c6648262f5da7b63fc93",
+      "title": "Tôi gồng mình kiếm sống nuôi con, còn chồng bước vào giấc mơ nghiên cứu sinh",
+      "link": "https://vnexpress.net/toi-gong-minh-kiem-song-nuoi-con-con-chong-buoc-vao-giac-mo-nghien-cuu-sinh-4999891.html",
+      "summary": "Tôi chỉ muốn nghỉ ngơi nhưng trong tay lại không có khoản nào để dự phòng do đã đầu tư hết vào đất đai và khoản nợ làm sổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:28:59.263477+07:00"
+    },
+    {
+      "id": "4fc86f95616aa89bece547c28597b60f",
+      "title": "'Đổi mới sáng tạo cần toàn dân, hệ sinh thái và số'",
+      "link": "https://vnexpress.net/doi-moi-sang-tao-can-toan-dan-he-sinh-thai-va-so-4999752.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, \"toàn dân\", \"hệ sinh thái\" và \"số\" sẽ là các từ khóa chính trong công cuộc đổi mới sáng tạo tại Việt Nam, với mục tiêu đóng góp 3% tăng trưởng GDP.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:28:59.263635+07:00"
+    },
+    {
+      "id": "77d5a02c367aa9cf2e5c2819d9a510cc",
+      "title": "Grab Việt Nam vinh danh 30 quán ăn tiêu biểu Hải Phòng",
+      "link": "https://vnexpress.net/grab-viet-nam-vinh-danh-30-quan-an-tieu-bieu-hai-phong-4999907.html",
+      "summary": "Grab lần đầu vinh danh 30 nhà hàng, quán ăn tiêu biểu tại Hải Phòng, đồng thời giới thiệu Food Tour 2.0 trên ứng dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:28:59.263814+07:00"
+    },
+    {
+      "id": "a018c762b3404601bbaedb7757bba1cd",
+      "title": "SmartThings - 'bộ não' của nhà thông minh Samsung",
+      "link": "https://vnexpress.net/smartthings-bo-nao-cua-nha-thong-minh-samsung-4999892.html",
+      "summary": "SmartThings là trung tâm AI Home, có thể kết nối thiết bị từ 380 thương hiệu, hướng tới không gian sống tự động, giảm việc nhà cho người dùng, theo Phó chủ tịch Samsung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:28:59.263970+07:00"
+    },
+    {
+      "id": "9f27fb04d2245911cb14bd446464077b",
+      "title": "Dấu hiệu nào khi ngủ cảnh báo bệnh phổi?",
+      "link": "https://vnexpress.net/dau-hieu-nao-khi-ngu-canh-bao-benh-phoi-4999651.html",
+      "summary": "Khi phổi tổn thương, cơ thể thường phát ra những dấu hiệu bất thường trong lúc ngủ mà nhiều người có thể bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:28:59.264126+07:00"
+    },
+    {
+      "id": "4fc86f95616aa89bece547c28597b60f",
+      "title": "'Đổi mới sáng tạo cần toàn dân, hệ sinh thái và số'",
+      "link": "https://vnexpress.net/doi-moi-sang-tao-can-toan-dan-he-sinh-thai-va-so-4999752.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, \"toàn dân\", \"hệ sinh thái\" và \"số\" sẽ là các từ khóa chính trong công cuộc đổi mới sáng tạo tại Việt Nam, với mục tiêu đóng góp 3% tăng trưởng GDP.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T06:00:00+07:00",
+      "fetched": "2025-12-30T13:29:11.848643+07:00"
+    },
+    {
+      "id": "416cd513080edbe6c4140daea5e32f3e",
+      "title": "Hà Nội phân luồng giao thông dịp tết Dương lịch, tết Nguyên đán",
+      "link": "https://thanhnien.vn/ha-noi-phan-luong-giao-thong-dip-tet-duong-lich-tet-nguyen-dan-185251230120530469.htm",
+      "summary": "Sở Xây dựng Hà Nội đã có hướng dẫn phân luồng giao thông dịp tết Dương lịch, tết Nguyên đán 2026 để hạn chế tình trạng ùn tắc trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:47:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738418+07:00"
+    },
+    {
+      "id": "d657644656b6565517497746334c1666",
+      "title": "Đặt trọn niềm tin vào thế hệ công dân kiến tạo diện mạo mới cho TP.HCM",
+      "link": "https://thanhnien.vn/dat-tron-niem-tin-vao-the-he-cong-dan-kien-tao-dien-mao-moi-cho-tphcm-185251230122738905.htm",
+      "summary": "Phát biểu tại Đại hội đại biểu Đoàn TNCS Hồ Chí Minh TP.HCM lần thứ I, nhiệm kỳ 2025 – 2030, ông Lê Quốc Phong, Ủy viên T.Ư Đảng, Phó bí thư thường trực Thành ủy TP.HCM, nhận định thanh niên TP.HCM hôm nay có một sứ mệnh lịch sử to lớn, là thế hệ công dân đầu tiên trực tiếp kiến tạo diện mạo mới cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:43:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738577+07:00"
+    },
+    {
+      "id": "4de90185775da350e68f691977f59e2d",
+      "title": "Cá nhân mua, bán ngoại tệ với nhau bị phạt 100 triệu đồng, tịch thu số tiền",
+      "link": "https://thanhnien.vn/ca-nhan-mua-ban-ngoai-te-voi-nhau-bi-phat-100-trieu-dong-tich-thu-so-tien-185251230115020273.htm",
+      "summary": "Đó là một trong những nội dung được đề cập tại Nghị định 340/2025 của Chính phủ có hiệu lực từ ngày 9.2.2026 quy định cụ thể các mức phạt vi phạm hành chính, trong đó có hoạt động ngoại hối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:42:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738753+07:00"
+    },
+    {
+      "id": "2519b7e38b09921e98dfbb25aaebdbbd",
+      "title": "Tin vui cho người dân TP.HCM liên quan đến cấp phép xây dựng",
+      "link": "https://thanhnien.vn/tin-vui-cho-nguoi-dan-tphcm-lien-quan-den-cap-phep-xay-dung-185251230115005757.htm",
+      "summary": "Từ ngày 1.1.2026, người dân TP.HCM có thể trực tiếp nộp hồ sơ xin giấy phép xây dựng nhà ở riêng lẻ cấp 3 - 4 tại UBND xã, phường, đặc khu và được cấp phép xây dựng trên đất quy hoạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:42:00+07:00",
+      "fetched": "2025-12-30T13:29:02.738912+07:00"
+    },
+    {
+      "id": "7f85db208c689b2bad52ce88096e59fa",
+      "title": "7 năm giằng co phố cà phê đường tàu Hà Nội",
+      "link": "https://vnexpress.net/ha-noi-lang-phi-7-nam-dong-mo-pho-ca-phe-duong-tau-4999855.html",
+      "summary": "Thái Lan duy trì chợ đường sắt Mae Klong, du khách đông nghịt, vậy sao Hà Nội không giữ lại phố cà phê đường tàu thay vì cố dẹp bỏ?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:31:00+07:00",
+      "fetched": "2025-12-30T13:28:59.264291+07:00"
+    },
+    {
+      "id": "b473aa34529e259d8af4b5456a0d1b13",
+      "title": "Lý do Thái Lan mất vị thế 'tour quốc dân' với khách Việt",
+      "link": "https://vnexpress.net/ly-do-thai-lan-mat-vi-the-tour-quoc-dan-voi-khach-viet-4999716.html",
+      "summary": "Chi phí dịch vụ tăng cao cùng sự thiếu hụt các sản phẩm mới khiến nhiều người Việt chuyển hướng sang du lịch nội địa hoặc chọn những điểm đến mới mẻ tại Đông Bắc Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:30:53+07:00",
+      "fetched": "2025-12-30T13:28:59.264448+07:00"
+    },
+    {
+      "id": "c15209924cea42c99de7581cb3e70d29",
+      "title": "Trả lại dạng giới nữ, bảo tồn chức năng sinh sản bé 8 tuổi lưỡng tính",
+      "link": "https://vnexpress.net/tra-lai-dang-gioi-nu-bao-ton-chuc-nang-sinh-san-be-8-tuoi-luong-tinh-4999700.html",
+      "summary": "Bé gái 8 tuổi mang hai tuyến sinh dục nam và nữ, được các bác sĩ phẫu thuật chọn giới tính nữ và đông lạnh mô buồng trứng bảo tồn chức năng sinh sản trong tương lai cho bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:25:31+07:00",
+      "fetched": "2025-12-30T13:28:59.264610+07:00"
+    },
+    {
+      "id": "ce1ff841904ac632e819683de576a4b6",
+      "title": "Vượt qua lời nguyền nhà vô địch",
+      "link": "https://thanhnien.vn/vuot-qua-loi-nguyen-nha-vo-dich-185251229232634233.htm",
+      "summary": "Vòng loại giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 (TNSV THACO cup 2026) sẽ khởi tranh trên 4 khu vực, từ ngày 9.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:23:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739062+07:00"
+    },
+    {
+      "id": "f38309c7d0b0517f4c8cb7e1d9d22574",
+      "title": "Hòa Minzy 'càn quét' đề cử, diễn viên 'Mưa đỏ' gây bất ngờ tại Làn Sóng Xanh",
+      "link": "https://thanhnien.vn/hoa-minzy-can-quet-de-cu-dien-vien-mua-do-gay-bat-ngo-tai-lan-song-xanh-185251230121328779.htm",
+      "summary": "Giải thưởng âm nhạc Làn Sóng Xanh 2025 gây chú ý với sự bùng nổ của mảng nhạc thể hiện tình yêu nước, khai thác giá trị truyền thống, văn hóa vùng miền và khơi gợi niềm tự hào dân tộc. Hòa Minzy, Soobin và Nguyễn Hùng là 3 nghệ sĩ dẫn đầu số lượng đề cử năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:22:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739226+07:00"
+    },
+    {
+      "id": "85a9cac93f3ff61c072508f464af112d",
+      "title": "Vợ chồng tài tử George Clooney nhập quốc tịch Pháp",
+      "link": "https://vnexpress.net/vo-chong-tai-tu-george-clooney-nhap-quoc-tich-phap-4999869.html",
+      "summary": "Tài tử Mỹ George Clooney và vợ - luật sư nhân quyền Amal - được cấp quốc tịch Pháp sau bốn năm mua nhà và định cư ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:16:35+07:00",
+      "fetched": "2025-12-30T13:28:59.264801+07:00"
+    },
+    {
+      "id": "6f0831ec843505fab1f47b27e38f80e6",
+      "title": "HIEUTHUHAI cùng DJ quốc tế khuấy động countdown chào năm mới tại Nha Trang",
+      "link": "https://thanhnien.vn/hieuthuhai-cung-dj-quoc-te-khuay-dong-countdown-chao-nam-moi-tai-nha-trang-185251230105156548.htm",
+      "summary": "Rapper HIEUTHUHAI và bộ đôi DJ quốc tế W&W sẽ khuấy động đêm countdown chào năm mới 2026 tại Quảng trường 2 tháng 4 Nha Trang (Khánh Hòa) với những set nhạc EDM sôi động cùng màn pháo hoa kéo dài 15 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:15:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739385+07:00"
+    },
+    {
+      "id": "b0aa7e8b5557c6a41bed13b17fa7218c",
+      "title": "Nguyễn Nhật Minh: 'HC vàng SEA Games vẫn kém xa sân chơi châu Á'",
+      "link": "https://vnexpress.net/nguyen-nhat-minh-hc-vang-sea-games-van-kem-xa-san-choi-chau-a-4999648.html",
+      "summary": "Trung vệ Nguyễn Nhật Minh cho rằng U23 Việt Nam đã chứng minh được vị thế ở Đông Nam Á, và tiếp theo là tìm vị trí ở châu Á trước những đối thủ khó nhằn hơn nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:10:05+07:00",
+      "fetched": "2025-12-30T13:28:59.264973+07:00"
+    },
+    {
+      "id": "b0aa7e8b5557c6a41bed13b17fa7218c",
+      "title": "Nguyễn Nhật Minh: 'HC vàng SEA Games vẫn kém xa sân chơi châu Á'",
+      "link": "https://vnexpress.net/nguyen-nhat-minh-hc-vang-sea-games-van-kem-xa-san-choi-chau-a-4999648.html",
+      "summary": "Trung vệ Nguyễn Nhật Minh cho rằng U23 Việt Nam đã chứng minh được vị thế ở Đông Nam Á, và tiếp theo là tìm vị trí ở châu Á trước những đối thủ khó nhằn hơn nhiều.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T05:10:05+07:00",
+      "fetched": "2025-12-30T13:29:13.702425+07:00"
+    },
+    {
+      "id": "082e3104e16c898f853eec830f8e44df",
+      "title": "Khách qua Tân Sơn Nhất tăng cao dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/khach-qua-tan-son-nhat-tang-cao-dip-tet-duong-lich-5000072.html",
+      "summary": "Kỳ nghỉ Tết Dương lịch năm nay dài 4 ngày, lượng khách qua Tân Sơn Nhất dự báo tăng gần 20% so với cùng kỳ, cao điểm nhất 135.000 lượt mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:09:10+07:00",
+      "fetched": "2025-12-30T13:28:59.265123+07:00"
+    },
+    {
+      "id": "4a1c5aec4b3284fa3ee75dfed0cc8c2b",
+      "title": "Thành ủy TP.HCM quy định số lượng cấp phó tại các sở, ngành",
+      "link": "https://thanhnien.vn/thanh-uy-tphcm-quy-dinh-so-luong-cap-pho-tai-cac-so-nganh-185251230115318867.htm",
+      "summary": "Thành ủy TP.HCM vừa có kết luận của Ban Thường vụ về khung số lượng cấp phó các sở, ngành thuộc UBND TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:09:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739540+07:00"
+    },
+    {
+      "id": "9f86999ccea89574e201a052313a9d24",
+      "title": "Đi làm chủ nhật - 'bình thường mới' của dân văn phòng",
+      "link": "https://vnexpress.net/di-lam-chu-nhat-binh-thuong-moi-cua-dan-van-phong-4999863.html",
+      "summary": "Sam Hindman, một nhà văn ở New York, không còn tắt điện thoại và nghỉ ngơi hoàn toàn vào cuối tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:08:52+07:00",
+      "fetched": "2025-12-30T13:28:59.265273+07:00"
+    },
+    {
+      "id": "0dd18e3f0187c67e7095132bbc09d0ea",
+      "title": "CIA có thể đã tung đòn tập kích đầu tiên vào đất liền Venezuela",
+      "link": "https://vnexpress.net/cia-co-the-da-tung-don-tap-kich-dau-tien-vao-dat-lien-venezuela-4999898.html",
+      "summary": "CIA được cho là lực lượng đã triển khai UAV phóng tên lửa tập kích bến tàu của Venezuela, đánh dấu cuộc tấn công đầu tiên vào mục tiêu trên đất liền tại nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T05:02:10+07:00",
+      "fetched": "2025-12-30T13:29:05.677843+07:00"
+    },
+    {
+      "id": "4cd8cdc915f6677aec01a56250500b7e",
+      "title": "Gợi ý trang phục đa nhiệm, hợp cả đi làm lẫn đi tiệc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/goi-y-trang-phuc-da-nhiem-hop-ca-di-lam-lan-di-tiec-185251223091632302.htm",
+      "summary": "Các thiết kế đa nhiệm tập trung vào phom dáng dài, đường cắt tinh giản sắc sảo và có chất liệu cao cấp. Vừa là trang phục đi làm, đi họp, dự tiệc..., các gợi ý này giúp mỗi quý cô có thêm thời gian cho bản thân tận hưởng những khoảnh khắc tuyệt vời sau một năm miệt mài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T05:00:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739705+07:00"
+    },
+    {
+      "id": "fd5b18ce563ecbd2c38893bc458aad9e",
+      "title": "TP HCM lập tổ liên ngành thúc đẩy Trung tâm dữ liệu 2 tỷ USD",
+      "link": "https://vnexpress.net/tp-hcm-lap-to-lien-nganh-thuc-day-trung-tam-du-lieu-2-ty-usd-5000006.html",
+      "summary": "TP HCM thành lập Tổ công tác liên ngành để thúc đẩy dự án Trung tâm dữ liệu trí tuệ nhân tạo (AI) tại Khu công nghiệp Tân Phú Trung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T04:58:42+07:00",
+      "fetched": "2025-12-30T13:29:11.848861+07:00"
+    },
+    {
+      "id": "6c7c36baabba92c4849fe966a3df9dce",
+      "title": "Ông Trump tuyên bố đã tấn công mục tiêu trên bộ ở Venezuela",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-da-tan-cong-muc-tieu-tren-bo-o-venezuela-185251230114532121.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 29.12 tuyên bố rằng Mỹ đã 'tấn công' một khu vực ở Venezuela mà ông cáo buộc là địa điểm chất ma túy lên tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:58:00+07:00",
+      "fetched": "2025-12-30T13:29:02.739864+07:00"
+    },
+    {
+      "id": "ee1a4b9ee2a8a26d6699198aa27969d7",
+      "title": "10 cầu thủ vụt sáng thành ngôi sao năm 2025",
+      "link": "https://vnexpress.net/10-cau-thu-vut-sang-thanh-ngoi-sao-nam-2025-4999710.html",
+      "summary": "Rayan Cherki (Man City), Estevao (Chelsea), Desire Doue (PSG) hay Franco Mastantuono (Real Madrid) là những cầu thủ trẻ ghi dấu ấn trong năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T04:55:44+07:00",
+      "fetched": "2025-12-30T13:29:13.702607+07:00"
+    },
+    {
+      "id": "94f79cb00ccf6356110a7b2c22c72197",
+      "title": "Tạm biệt năm 2025: Mạng xã hội ngập tràn lời chia tay, gửi gắm hy vọng năm mới",
+      "link": "https://thanhnien.vn/tam-biet-nam-2025-mang-xa-hoi-ngap-tran-loi-chia-tay-gui-gam-hy-vong-nam-moi-185251230103238513.htm",
+      "summary": "Những ngày cuối năm 2025, mạng xã hội ngập tràn dòng trạng thái chia tay năm cũ, nhìn lại hành trình đã qua và gửi gắm hy vọng bình an, hạnh phúc cho năm mới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:55:00+07:00",
+      "fetched": "2025-12-30T13:29:02.740015+07:00"
+    },
+    {
+      "id": "ff3bca452222e18c196fce023ff8702b",
+      "title": "Người dùng được phép từ chối chia sẻ dữ liệu với mạng xã hội",
+      "link": "https://thanhnien.vn/nguoi-dung-duoc-phep-tu-choi-chia-se-du-lieu-voi-mang-xa-hoi-185251230111427263.htm",
+      "summary": "Luật Bảo vệ dữ liệu cá nhân có hiệu lực từ ngày 1.1.2026, quy định về dữ liệu cá nhân, bảo vệ dữ liệu cá nhân; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:54:00+07:00",
+      "fetched": "2025-12-30T13:29:02.740174+07:00"
+    },
+    {
+      "id": "6f870bc2fdf5505b3b307803e7485e64",
+      "title": "Djokovic: 'Federer từng ghẻ lạnh tôi'",
+      "link": "https://vnexpress.net/djokovic-federer-tung-ghe-lanh-toi-4999913.html",
+      "summary": "Novak Djokovic tiết lộ từng bị Roger Federer xa lánh, trái ngược với cảm nhận ban đầu mà anh dành cho Rafael Nadal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T04:47:53+07:00",
+      "fetched": "2025-12-30T13:29:13.702955+07:00"
+    },
+    {
+      "id": "4ec54ab6736d6a66f6ad5c455ad8be73",
+      "title": "Quân đội Trung Quốc đăng video cảnh tượng thành phố Đài Bắc",
+      "link": "https://vnexpress.net/quan-doi-trung-quoc-dang-video-canh-tuong-thanh-pho-dai-bac-4999794.html",
+      "summary": "Quân đội Trung Quốc đăng video quay từ trên không, cho thấy khu vực thủ phủ Đài Bắc của Đài Loan, cùng tòa nhà cao nhất hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T04:43:45+07:00",
+      "fetched": "2025-12-30T13:29:05.678043+07:00"
+    },
+    {
+      "id": "df486cf919d85d3cc4e8fb0f0c3da657",
+      "title": "Hộ kinh doanh lúng túng trước 'giờ G' bỏ thuế khoán",
+      "link": "https://vnexpress.net/ho-kinh-doanh-lung-tung-truoc-gio-g-bo-thue-khoan-4999859.html",
+      "summary": "Còn hai ngày tới thời điểm bỏ thuế khoán (1/1/2026 ), nhưng hướng dẫn quản lý thuế mới chưa được nhà chức trách ban hành, khiến nhiều hộ kinh doanh lúng túng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-30T04:41:27+07:00",
+      "fetched": "2025-12-30T13:29:07.620145+07:00"
+    },
+    {
+      "id": "0dad9e2d67f46f685e894cef47bcf47e",
+      "title": "Xe tăng bốc khói mù mịt giữa đường phố Đài Loan",
+      "link": "https://vnexpress.net/xe-tang-boc-khoi-mu-mit-giua-duong-pho-dai-loan-4999831.html",
+      "summary": "Xe tăng chủ lực CM-11 bốc khói dày đặc khi di chuyển trên tuyến đường ở thành phố Cao Hùng, nghi do trục trặc động cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T04:39:18+07:00",
+      "fetched": "2025-12-30T13:29:05.678214+07:00"
+    },
+    {
+      "id": "345a134cf72d30ef70df5a9e26837469",
+      "title": "Khởi tố đối tượng sống lang thang thực hiện nhiều vụ trộm cắp",
+      "link": "https://thanhnien.vn/khoi-to-doi-tuong-song-lang-thang-thuc-hien-nhieu-vu-trom-cap-185251230105607863.htm",
+      "summary": "Cơ quan công an đã khởi tố Nguyễn Ngọc Tuấn về hành vi trộm cắp tài sản. Ai biết thông tin về các phương tiện liên quan, vui lòng báo ngay cho công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T04:38:00+07:00",
+      "fetched": "2025-12-30T13:29:02.740323+07:00"
+    },
+    {
       "id": "455828d786ac08d4aa94c4dfc9681294",
       "title": "TP.HCM quyết liệt chống tham nhũng, xử lý dứt điểm dự án chậm tiến độ",
       "link": "https://thanhnien.vn/tphcm-quyet-liet-chong-tham-nhung-xu-ly-dut-diem-du-an-cham-tien-do-185251230112240757.htm",
@@ -471,6 +861,16 @@ window.newsData_2025_12_30 = {
       "category": "Tổng hợp",
       "published": "2025-12-30T04:32:00+07:00",
       "fetched": "2025-12-30T11:36:55.891169+07:00"
+    },
+    {
+      "id": "5eb74b271190e926c6ebeeccb81660a4",
+      "title": "MSB hợp tác VETC tặng gói cứu hộ toàn quốc cho khách hàng",
+      "link": "https://vnexpress.net/msb-hop-tac-vetc-tang-goi-cuu-ho-toan-quoc-cho-khach-hang-4999952.html",
+      "summary": "MSB cho phép khách hàng liên kết trực tiếp tài khoản thanh toán với tài khoản giao thông VETC và ePass, giúp khách hàng thuận tiện thanh toán phí đường bộ, đặc biệt trong dịp cao điểm di chuyển cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-30T04:30:00+07:00",
+      "fetched": "2025-12-30T13:29:07.621346+07:00"
     },
     {
       "id": "32559a5d1052afd8a6cde80b21092735",
