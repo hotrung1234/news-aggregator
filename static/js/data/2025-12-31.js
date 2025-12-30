@@ -1,7 +1,17 @@
 window.newsData_2025_12_31 = {
   "date": "2025-12-31",
-  "lastUpdated": "2025-12-31T01:27:50.179713+07:00",
+  "lastUpdated": "2025-12-31T03:20:24.382276+07:00",
   "articles": [
+    {
+      "id": "011e65fd2466c06ab121c938d027ddee",
+      "title": "Trần Quyết Chiến đến gần chức vô địch giải billiards đồng đội",
+      "link": "https://tuoitre.vn/tran-quyet-chien-den-gan-chuc-vo-dich-giai-billiards-dong-doi-20251231001254137.htm",
+      "summary": "Trần Quyết Chiến cùng các đồng đội ở đội Thế Giới Billiards có quá nhiều lợi thế trước lượt trận cuối của Giải billiards carom 3 băng Team League (VBTL) 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T03:20:18.124610+07:00",
+      "fetched": "2025-12-31T03:20:18.124843+07:00"
+    },
     {
       "id": "63490aa248c63461dc2d35806c38c9c4",
       "title": "Danh sách các địa phương đạt doanh thu du lịch lớn nhất năm 2025",
@@ -151,6 +161,26 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T01:27:40.726776+07:00",
       "fetched": "2025-12-31T01:27:40.726987+07:00"
+    },
+    {
+      "id": "47a520153f3d61864024847006118014",
+      "title": "Ronaldo ghi bàn bằng lưng cho Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-bang-lung-cho-al-nassr-5000321.html",
+      "summary": "Cristiano Ronaldo ghi bàn trận thứ chín liên tiếp ở Saudi Pro League, nhưng đội khách Al Nassr bị Al-Ettifaq cầm hòa 2-2 ở vòng 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T19:32:17+07:00",
+      "fetched": "2025-12-31T03:20:13.941103+07:00"
+    },
+    {
+      "id": "47a520153f3d61864024847006118014",
+      "title": "Ronaldo ghi bàn bằng lưng cho Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-bang-lung-cho-al-nassr-5000321.html",
+      "summary": "Cristiano Ronaldo ghi bàn trận thứ chín liên tiếp ở Saudi Pro League, nhưng đội khách Al Nassr bị Al-Ettifaq cầm hòa 2-2 ở vòng 12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T19:32:17+07:00",
+      "fetched": "2025-12-31T03:20:24.377401+07:00"
     },
     {
       "id": "1d84d74d89e35da76b976b13e7b870a4",
