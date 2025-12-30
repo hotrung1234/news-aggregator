@@ -1,6 +1,6 @@
 window.newsData_2025_12_30 = {
   "date": "2025-12-30",
-  "lastUpdated": "2025-12-30T19:38:57.084058+07:00",
+  "lastUpdated": "2025-12-30T21:18:57.362082+07:00",
   "articles": [
     {
       "id": "4cecee3db4c912fea409c3d57ac684b7",
@@ -453,6 +453,306 @@ window.newsData_2025_12_30 = {
       "fetched": "2025-12-30T15:26:06.573268+07:00"
     },
     {
+      "id": "ce140b457c3adc8d592fc45d77a9904c",
+      "title": "U.23 Việt Nam thua U.23 Syria 1-2: Bỏ lỡ nhiều cơ hội ngon ăn, Lê Phát rút ngắn tỷ số",
+      "link": "https://thanhnien.vn/u23-viet-nam-thua-u23-syria-1-2-bo-lo-nhieu-co-hoi-ngon-an-le-phat-rut-ngan-ty-so-185251230204524533.htm",
+      "summary": "Chuẩn bị cho vòng chung kết U.23 châu Á, tối 30.12, U.23 Việt Nam có trận giao hữu chất lượng với U.23 Syria trên sân Hamad Bin Kalifa (Qatar). Đội bạn có thể hình cực tốt và đạt hiệu quả cao về tần suất ghi bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:11:00+07:00",
+      "fetched": "2025-12-30T21:18:46.628262+07:00"
+    },
+    {
+      "id": "41a942cdeaf56ad066acadcc592aba12",
+      "title": "Hôn nhân ‘đũa lệch’ của Ngọc Thuận: Cát sê đóng phim đưa hết cho vợ kém 17 tuổi",
+      "link": "https://thanhnien.vn/hon-nhan-dua-lech-cua-ngoc-thuan-cat-se-dong-phim-dua-het-cho-vo-kem-17-tuoi-185251230194103526.htm",
+      "summary": "Ai thương ai mến đánh dấu một trong những lần hiếm hoi Ngọc Thuận trở lại màn ảnh. Nam diễn viên chia sẻ anh đến với vai diễn bằng tâm thế nhẹ nhàng, không áp lực, xem việc đóng phim như một niềm vui giản dị để \"kiếm quà\" mang về cho vợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:04:00+07:00",
+      "fetched": "2025-12-30T21:18:46.628442+07:00"
+    },
+    {
+      "id": "af1da370374709fbc02c953ed9d516c8",
+      "title": "Vốn tỉ USD chảy vào hạ tầng máy bay không người lái",
+      "link": "https://thanhnien.vn/von-ti-usd-chay-vao-ha-tang-may-bay-khong-nguoi-lai-185251230164810595.htm",
+      "summary": "Hai dự án công nghệ quy mô lớn tại TP.HCM và tỉnh Tây Ninh, tập trung vào lĩnh vực máy bay không người lái (UAV) và hạ tầng cho kinh tế tầm thấp vừa được công bố có tổng vốn đầu tư hơn 2,3 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:00:00+07:00",
+      "fetched": "2025-12-30T21:18:46.628608+07:00"
+    },
+    {
+      "id": "a7d6787cf3041ac4b9ad28f09bb7d0b2",
+      "title": "Gia đình Việt Nam ngày càng nhỏ, đơn thân gia tăng",
+      "link": "https://thanhnien.vn/gia-dinh-viet-nam-ngay-cang-nho-don-than-gia-tang-185251230194816905.htm",
+      "summary": "Quy mô gia đình Việt Nam đang thu nhỏ, xu hướng đơn thân gia tăng. TP.HCM bàn giải pháp nâng cao hiệu quả bộ tiêu chí xây dựng gia đình hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:50:00+07:00",
+      "fetched": "2025-12-30T21:18:46.628784+07:00"
+    },
+    {
+      "id": "71008b7428e5627264203f83687a8512",
+      "title": "5 ứng dụng nhắn tin miễn phí được nhiều người dùng",
+      "link": "https://thanhnien.vn/5-ung-dung-nhan-tin-mien-phi-duoc-nhieu-nguoi-dung-185251229230534843.htm",
+      "summary": "Một số điều chỉnh trong điều khoản của Zalo gần đây đã khiến nhiều người dùng Việt bắt đầu xem xét chuyển sang các nền tảng nhắn tin quốc tế miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:49:00+07:00",
+      "fetched": "2025-12-30T21:18:46.628949+07:00"
+    },
+    {
+      "id": "70981b167cb18fc1759d70abb7023d42",
+      "title": "Cấm xe hơn 20 đường trung tâm TP HCM để bắn pháo hoa",
+      "link": "https://vnexpress.net/cam-xe-hon-20-duong-trung-tam-tp-hcm-de-ban-phao-hoa-5000269.html",
+      "summary": "Xe bị cấm vào hơn 20 đường trung tâm thành phố để phục vụ người dân vui chơi, xem pháo hoa Tết Dương lịch đêm 31/12, theo thông báo của Phòng CSGT TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:45:45+07:00",
+      "fetched": "2025-12-30T21:18:43.150663+07:00"
+    },
+    {
+      "id": "26c1ebcf3c4f8c92f7e71413b791e665",
+      "title": "Ấn tượng khó phai của nhà trai Ấn Độ khi hỏi cưới cô dâu Việt",
+      "link": "https://thanhnien.vn/an-tuong-kho-phai-cua-nha-trai-an-do-khi-hoi-cuoi-co-dau-viet-185251229233509195.htm",
+      "summary": "Lần đầu sang Việt Nam hỏi cưới con dâu, gia đình nhà trai Ấn Độ không giấu được sự ngạc nhiên trước những lễ vật cầu kỳ, nghi thức trang trọng trong đám hỏi truyền thống. Dù có nhiều khác biệt văn hóa, họ vẫn vui vẻ nhập gia tùy tục và dành nhiều lời khen cho sự chỉn chu, tinh tế của gia đình cô dâu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:45:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629109+07:00"
+    },
+    {
+      "id": "707c42e6ff06c4e77ce92c31c034febe",
+      "title": "Ubisoft đóng máy chủ Rainbow Six Siege vì sự cố phát tán tiền ảo quy mô lớn",
+      "link": "https://thanhnien.vn/ubisoft-dong-may-chu-rainbow-six-siege-vi-su-co-phat-tan-tien-ao-quy-mo-lon-185251127190720951.htm",
+      "summary": "Hệ thống tiền tệ trong game bị phá vỡ khiến Ubisoft phải tạm thời dừng máy chủ Rainbow Six Siege để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:43:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629268+07:00"
+    },
+    {
+      "id": "7713aa67420acb5944c2435eb221fc16",
+      "title": "2,8 triệu thiết bị toàn cầu nhiễm mã độc vì công cụ kích hoạt Windows lậu",
+      "link": "https://thanhnien.vn/28-trieu-thiet-bi-toan-cau-nhiem-ma-doc-vi-cong-cu-kich-hoat-windows-lau-185251230165837017.htm",
+      "summary": "Việc sử dụng công cụ kích hoạt phần mềm lậu khiến hàng triệu thiết bị trở thành mục tiêu của mã độc đánh cắp tài sản số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:40:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629424+07:00"
+    },
+    {
+      "id": "3c172a3ca42cc6fd8844175722b9844e",
+      "title": "Lãnh án 18 năm tù vì ‘thêm số 0’ vào tờ séc",
+      "link": "https://thanhnien.vn/lanh-an-18-nam-tu-vi-them-so-0-vao-to-sec-185251230192936186.htm",
+      "summary": "Một quản lý chung cư tại Hồng Kông vừa bị tuyên án 18 năm tù với nhiều tội danh chiếm đoạt tài sản, tổng số tiền lên đến hơn 61 triệu HKD (khoảng 205 tỉ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:31:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629582+07:00"
+    },
+    {
+      "id": "4fe93d785deb151be2275ab67cc3b785",
+      "title": "Nghệ sĩ Vũ Linh Vương gặp biến cố sức khỏe",
+      "link": "https://thanhnien.vn/nghe-si-vu-linh-vuong-gap-bien-co-suc-khoe-185251230201558577.htm",
+      "summary": "Nghệ sĩ cải lương Vũ Linh Vương nhập viện cấp cứu trong tình trạng nguy kịch, phải thở máy và điều trị tại khoa Hồi sức tích cực, Bệnh viện Nhân dân 115 (TP.HCM). Trong hoàn cảnh ngặt nghèo, người cưu mang ông đang nỗ lực xoay xở chi phí điều trị, mong giữ lại sự sống cho nam nghệ sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:26:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629736+07:00"
+    },
+    {
+      "id": "4ef9af4e14b2f514e8724b99ab32ce70",
+      "title": "Tổng kết và trao giải cuộc thi viết 'Thanh Niên và tôi'",
+      "link": "https://thanhnien.vn/tong-ket-va-trao-giai-cuoc-thi-viet-thanh-nien-va-toi-185251230192018624.htm",
+      "summary": "Mặc dù diễn ra trong thời gian ngắn nhưng chỉ sau một tháng phát động (từ ngày 17.11.2025 đến ngày 17.12.2025), cuộc thi viết Thanh Niên và tôi đã đón nhận sự nhiệt tình của bạn đọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:25:00+07:00",
+      "fetched": "2025-12-30T21:18:46.629911+07:00"
+    },
+    {
+      "id": "38b79893caa907848910b9c0999eb1e6",
+      "title": "Hoa xác thối là quốc hoa của nước Đông Nam Á nào?",
+      "link": "https://vnexpress.net/hoa-xac-thoi-la-quoc-hoa-cua-nuoc-dong-nam-a-nao-5000238.html",
+      "summary": "Bông hoa này có đường kính lên tới 1,1 m, đại diện cho tất cả loài thực vật quý hiếm ở quốc gia Đông Nam Á này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:24:07+07:00",
+      "fetched": "2025-12-30T21:18:43.150874+07:00"
+    },
+    {
+      "id": "78a963a98ab9e03eca6d8256e0f7a4f4",
+      "title": "Đêm giao thừa đón năm mới 2026, người Việt ngắm 'pháo hoa vũ trụ' bí ẩn",
+      "link": "https://thanhnien.vn/dem-giao-thua-don-nam-moi-2026-nguoi-viet-ngam-phao-hoa-vu-tru-bi-an-185251229193954924.htm",
+      "summary": "Vũ trụ bắn pháo hoa mừng năm mới 2026 trên bầu trời mà ngay trong rạng sáng đầu tiên của năm, người Việt Nam có thể chiêm ngưỡng. 'Pháo hoa vũ trụ' này là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:20:00+07:00",
+      "fetched": "2025-12-30T21:18:46.630062+07:00"
+    },
+    {
+      "id": "a4fe706f0713e46d8a3d2809c24318b2",
+      "title": "Hà Nội sẽ làm đường sắt một ray phía đông sông Tô Lịch",
+      "link": "https://thanhnien.vn/ha-noi-se-lam-duong-sat-mot-ray-phia-dong-song-to-lich-185251230200620643.htm",
+      "summary": "Theo đồ án Quy hoạch chi tiết hai bên bờ tuyến sông Tô Lịch, tỷ lệ 1/500 được công bố, tuyến monorail (đường sắt một ray) nhánh 2 Giáp Bát - Thanh Liệt - Phú Lương được quy hoạch dọc phía đông sông Tô Lịch, góp phần tăng cường năng lực giao thông công cộng khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:19:00+07:00",
+      "fetched": "2025-12-30T21:18:46.630221+07:00"
+    },
+    {
+      "id": "4d338026630e2fc4aee3a03183c2daa7",
+      "title": "GS Tạ Ngọc Tấn: Việt Nam có cơ sở hoàn thành hai mục tiêu 100 năm",
+      "link": "https://vnexpress.net/gs-ta-ngoc-tan-viet-nam-co-co-so-hoan-thanh-hai-muc-tieu-100-nam-5000253.html",
+      "summary": "GS Tạ Ngọc Tấn cho rằng dự thảo Văn kiện Đại hội Đảng 14 đặt quyết tâm tăng trưởng từ 10% để thực hiện thành công hai mục tiêu 100 năm là có cơ sở thực tiễn và khả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:18:01+07:00",
+      "fetched": "2025-12-30T21:18:43.151047+07:00"
+    },
+    {
+      "id": "27fb3d4473f10857be1414d9823e6bd0",
+      "title": "Xúc động lễ trao giải 'Thanh Niên và tôi': Khi tờ báo là điểm tựa cuộc đời",
+      "link": "https://thanhnien.vn/xuc-dong-le-trao-giai-thanh-nien-va-toi-khi-to-bao-la-diem-tua-cuoc-doi-185251230201425875.htm",
+      "summary": "Sáng 30.12.2025, lễ tổng kết và trao giải cuộc thi viết 'Thanh Niên và tôi' đã diễn ra đầy xúc động tại TP.HCM. Từ hơn 500 bài dự thi, Ban tổ chức không chỉ tìm thấy những kỷ niệm, mà cả những câu chuyện về cách tờ báo trở thành 'điểm tựa' giúp bạn đọc vượt qua trầm cảm, tuyệt vọng. Đây chính là min...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:15:00+07:00",
+      "fetched": "2025-12-30T21:18:46.630375+07:00"
+    },
+    {
+      "id": "a918441ba5fb4fcab9a685ccfb247d95",
+      "title": "Huyền thoại Ngoại hạng Anh khuyên Gyokeres chạy chỗ nhiều hơn",
+      "link": "https://vnexpress.net/huyen-thoai-ngoai-hang-anh-khuyen-gyokeres-chay-cho-nhieu-hon-5000177.html",
+      "summary": "Theo Gary Lineker và Alan Sheare, tiền đạo Viktor Gyokeres cần tích cực chạy chỗ hơn để cải thiện hiệu suất ghi bàn ở Arsenal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:14:43+07:00",
+      "fetched": "2025-12-30T21:18:43.151216+07:00"
+    },
+    {
+      "id": "a918441ba5fb4fcab9a685ccfb247d95",
+      "title": "Huyền thoại Ngoại hạng Anh khuyên Gyokeres chạy chỗ nhiều hơn",
+      "link": "https://vnexpress.net/huyen-thoai-ngoai-hang-anh-khuyen-gyokeres-chay-cho-nhieu-hon-5000177.html",
+      "summary": "Theo Gary Lineker và Alan Sheare, tiền đạo Viktor Gyokeres cần tích cực chạy chỗ hơn để cải thiện hiệu suất ghi bàn ở Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T13:14:43+07:00",
+      "fetched": "2025-12-30T21:18:57.349796+07:00"
+    },
+    {
+      "id": "364938877a259004c05a9e3de1c90e31",
+      "title": "Không khí lạnh cực mạnh tràn xuống miền Bắc, 6 tỉnh miền Trung mưa rào",
+      "link": "https://thanhnien.vn/khong-khi-lanh-cuc-manh-tran-xuong-mien-bac-6-tinh-mien-trung-mua-rao-18525123019211103.htm",
+      "summary": "Dự báo thời tiết dịp nghỉ tết Dương lịch 2026, không khí lạnh tràn xuống miền Bắc gây rét đậm, rét hại trên diện rộng. 6 tỉnh, thành miền Trung từ Hà Tĩnh - Đà Nẵng, phía đông các tỉnh Đắk Lắk - Khánh Hòa có mưa, mưa rào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:06:00+07:00",
+      "fetched": "2025-12-30T21:18:46.630534+07:00"
+    },
+    {
+      "id": "2026799d395a1a538c26ebea786aafd9",
+      "title": "Anh đánh tôi đang ôm con vì bé làm ảnh hưởng đến cô bồ",
+      "link": "https://vnexpress.net/anh-khien-con-moi-sinh-bi-thuong-vi-be-lam-anh-huong-den-co-bo-5000187.html",
+      "summary": "Bé khóc làm ồn nên anh ta không thể nói chuyện với bồ; tôi lấy hết sức lực chửi cô ta và anh, anh đánh tôi như đấm bao cát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.151384+07:00"
+    },
+    {
+      "id": "086757a674733b1ae30822220d96979c",
+      "title": "Hậu trường diễn viên 76 tuổi đóng thiếu nữ trong 'Avatar 3'",
+      "link": "https://vnexpress.net/hau-truong-dien-vien-76-tuoi-dong-thieu-nu-trong-avatar-3-4999947.html",
+      "summary": "Minh tinh Sigourney Weaver hóa thân nhân vật 14 tuổi trong \"Avatar 3\" bằng công nghệ performance capture, ghi lại từng cử động trên gương mặt và hình thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.151554+07:00"
+    },
+    {
+      "id": "14fdd9d6d9b298483b84733431d13de9",
+      "title": "Hành trình Volvo đồng hành Quỹ Hy vọng tại Vietnam Mobility Show",
+      "link": "https://vnexpress.net/hanh-trinh-volvo-dong-hanh-quy-hy-vong-tai-vietnam-mobility-show-5000261.html",
+      "summary": "Quỹ Hy vọng tổ chức triển lãm tranh tại Vietnam Mobility Show, tái hiện hành trình thiện nguyện cùng Volvo qua 15 bức ảnh ở Y Tý (Lào Cai) và Lâm Đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.151709+07:00"
+    },
+    {
+      "id": "77c2108499b94d105c77fd1da45439e3",
+      "title": "Những khoảnh khắc giàu cảm xúc tại sự kiện Tiger Remix 2026",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-giau-cam-xuc-tai-su-kien-tiger-remix-2026-5000255.html",
+      "summary": "Những màn trình diễn của các nghệ sĩ nổi tiếng, khinh khí cầu khổng lồ chứa mã quét săn quà Tết khiến “Quảng trường săn lộc bản lĩnh - Tiger Remix 2026” liên tục “vỡ òa”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.151885+07:00"
+    },
+    {
+      "id": "48b5ce1a1f73185a643258f7c6e9c43b",
+      "title": "Người trẻ cởi mở với sức khỏe tình dục",
+      "link": "https://vnexpress.net/nguoi-tre-coi-mo-voi-suc-khoe-tinh-duc-5000239.html",
+      "summary": "Minh Tuấn (25 tuổi) vô tình lướt một video về bệnh sùi mào gà trên mạng xã hội, sau đó đã tìm hiểu về các bệnh lây qua đường tình dục và chia sẻ cho nhóm bạn cùng theo dõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.152045+07:00"
+    },
+    {
+      "id": "0e975ae3f83e2466745354040166afb4",
+      "title": "Bốn bài tập yoga giúp đôi chân runner bớt mệt mỏi",
+      "link": "https://vnexpress.net/bon-bai-tap-yoga-giup-runner-bot-met-moi-4999624.html",
+      "summary": "Những động tác yoga giãn cơ như Deer pose, Gate pose hay Puppy pose giúp runner giảm cứng khớp chân và hỗ trợ phục hồi trong mùa đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.152206+07:00"
+    },
+    {
+      "id": "a9fbab1ddf4326f09d21169b98196a59",
+      "title": "Ba trụ cột trong chiến lược phát triển bền vững của Heineken Việt Nam",
+      "link": "https://vnexpress.net/ba-tru-cot-trong-chien-luoc-phat-trien-ben-vung-cua-heineken-viet-nam-4998763.html",
+      "summary": "Heineken Việt Nam triển khai chiến lược phát triển bền vững dựa trên ba trụ cột: môi trường, xã hội và uống có trách nhiệm, trong đó tham vọng Net Zero nhất quán với định hướng của Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T13:00:00+07:00",
+      "fetched": "2025-12-30T21:18:43.152378+07:00"
+    },
+    {
+      "id": "de61ea884eb24eb3316cf5cf81fcb7f7",
+      "title": "Nga, Ukraine đấu khẩu về cáo buộc dinh thự ông Putin bị tập kích",
+      "link": "https://vnexpress.net/nga-ukraine-dau-khau-ve-cao-buoc-dinh-thu-ong-putin-bi-tap-kich-5000257.html",
+      "summary": "Ukraine nói Nga không thể chứng minh dinh thự Tổng thống Putin bị tấn công vì điều đó \"không hề xảy ra\", Moskva gọi việc phủ nhận là \"điên rồ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:53:43+07:00",
+      "fetched": "2025-12-30T21:18:43.152534+07:00"
+    },
+    {
+      "id": "de61ea884eb24eb3316cf5cf81fcb7f7",
+      "title": "Nga, Ukraine đấu khẩu về cáo buộc dinh thự ông Putin bị tập kích",
+      "link": "https://vnexpress.net/nga-ukraine-dau-khau-ve-cao-buoc-dinh-thu-ong-putin-bi-tap-kich-5000257.html",
+      "summary": "Ukraine nói Nga không thể chứng minh dinh thự Tổng thống Putin bị tấn công vì điều đó \"không hề xảy ra\", Moskva gọi việc phủ nhận là \"điên rồ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T12:53:43+07:00",
+      "fetched": "2025-12-30T21:18:49.596720+07:00"
+    },
+    {
+      "id": "1e833be612c62d939726da4c07419fe6",
+      "title": "Gắp con vắt ký sinh một tuần trong mũi bé trai 2,5 tuổi",
+      "link": "https://vnexpress.net/gap-con-vat-ky-sinh-mot-tuan-trong-mui-be-trai-2-5-tuoi-5000262.html",
+      "summary": "Bé trai 2,5 tuổi theo cha mẹ lên rẫy tắm suối, về nhà suốt một tuần chảy máu mũi, khó thở, bác sĩ phát hiện con vắt ký sinh trong mũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:46:08+07:00",
+      "fetched": "2025-12-30T21:18:43.152691+07:00"
+    },
+    {
       "id": "7d9f9cd4fece4ea23b653602c75c5bf0",
       "title": "Bé gái bị vùi trong vườn cao su được một gia đình ở Đà Nẵng nhận nuôi",
       "link": "https://thanhnien.vn/be-gai-bi-vui-trong-vuon-cao-su-duoc-mot-gia-dinh-o-da-nang-nhan-nuoi-18525123015004392.htm",
@@ -461,6 +761,16 @@ window.newsData_2025_12_30 = {
       "category": "Tổng hợp",
       "published": "2025-12-30T12:37:00+07:00",
       "fetched": "2025-12-30T19:38:50.176473+07:00"
+    },
+    {
+      "id": "26bcbfc115bcb6b9e6bb96c504f11c3f",
+      "title": "Hàng nghìn khách mắc kẹt tại sân bay châu Âu",
+      "link": "https://vnexpress.net/hang-nghin-khach-mac-ket-tai-san-bay-chau-au-5000252.html",
+      "summary": "Hơn 100 chuyến bay bị hủy và gần 1.900 chuyến khác bị chậm trễ ngày 29/12, khiến hoạt động hàng không khắp châu Âu rơi vào hỗn loạn dịp cao điểm cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T12:35:18+07:00",
+      "fetched": "2025-12-30T21:18:43.152873+07:00"
     },
     {
       "id": "5b60981c79a70d27d770978bc80365d8",
