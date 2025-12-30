@@ -1,7 +1,157 @@
 window.newsData_2025_12_30 = {
   "date": "2025-12-30",
-  "lastUpdated": "2025-12-30T21:18:57.362082+07:00",
+  "lastUpdated": "2025-12-30T23:23:53.019583+07:00",
   "articles": [
+    {
+      "id": "bcdbec88c921a9d5d2f2b7a470a89451",
+      "title": "Tập đoàn FLC vừa được 'rót' thêm 1.500 tỉ đồng vốn điều lệ",
+      "link": "https://tuoitre.vn/tap-doan-flc-vua-duoc-rot-them-1-500-ti-dong-von-dieu-le-20251230194830519.htm",
+      "summary": "Tập đoàn FLC vừa điều chỉnh vốn điều lệ từ mức 7.099 tỉ đồng lên 8.599 tỉ đồng, tương đương mức tăng 1.500 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.219449+07:00",
+      "fetched": "2025-12-30T23:23:47.219562+07:00"
+    },
+    {
+      "id": "52a32085c7dbb0357032798af4979f84",
+      "title": "VinFast VF 3 có thể thêm bản cao cấp: Giá dự kiến 315 triệu đồng, thêm gương điện, camera lùi",
+      "link": "https://tuoitre.vn/vinfast-vf-3-co-the-them-ban-cao-cap-gia-du-kien-315-trieu-dong-them-guong-dien-camera-lui-20251230154537244.htm",
+      "summary": "Sau khi âm thầm nâng cấp vô lăng và bổ sung Apple CarPlay, VinFast VF 3 được tiết lộ sắp có thêm phiên bản Plus, trang bị gương chiếu hậu chỉnh điện và camera lùi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.219327+07:00",
+      "fetched": "2025-12-30T23:23:47.219438+07:00"
+    },
+    {
+      "id": "b2dbe31c17a15148939e340174f5e69e",
+      "title": "Công bố danh sách cơ sở đăng ký khám chữa bệnh bảo hiểm y tế ban đầu quý 1-2026",
+      "link": "https://tuoitre.vn/cong-bo-danh-sach-co-so-dang-ky-kham-chua-benh-bao-hiem-y-te-ban-dau-quy-i-2026-20251230194614112.htm",
+      "summary": "Bảo hiểm xã hội TP.HCM vừa công bố danh sách các cơ sở đăng ký khám chữa bệnh bảo hiểm y tế ban đầu quý 1-2026, nhằm tạo điều kiện thuận lợi cho người dân lựa chọn nơi khám chữa bệnh phù hợp, đảm bảo quyền lợi khi tham gia bảo hiểm y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.219204+07:00",
+      "fetched": "2025-12-30T23:23:47.219317+07:00"
+    },
+    {
+      "id": "22146cadb928b378e303b01853114a5f",
+      "title": "Điện Kremlin: Nga sẽ cứng rắn hơn sau cáo buộc Kiev tấn công dinh thự ông Putin",
+      "link": "https://tuoitre.vn/dien-kremlin-nga-se-cung-ran-hon-sau-cao-buoc-kiev-tan-cong-dinh-thu-ong-putin-20251230200935434.htm",
+      "summary": "Ngày 30-12, Điện Kremlin nhấn mạnh lập trường của Nga trong tiến trình đàm phán hòa bình ở Ukraine sẽ cứng rắn hơn, sau cáo buộc Kiev tấn công dinh thự Tổng thống Putin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.219059+07:00",
+      "fetched": "2025-12-30T23:23:47.219192+07:00"
+    },
+    {
+      "id": "21d535cf61e925dd0db58745a37a6dfa",
+      "title": "Đau xót khi xem phim về nạn lừa đảo người Việt sang Campuchia",
+      "link": "https://tuoitre.vn/dau-xot-khi-xem-phim-ve-nan-lua-dao-nguoi-viet-sang-campuchia-2025123020174891.htm",
+      "summary": "Đạo diễn Hoàng Tuấn Cường hy vọng 'Thiên đường máu', phim về nạn lừa đảo người Việt, được chiếu ở Campuchia vì đây không phải chuyện riêng của quốc gia nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218932+07:00",
+      "fetched": "2025-12-30T23:23:47.219048+07:00"
+    },
+    {
+      "id": "099214fc2b828bd9e7542e73bf590661",
+      "title": "Nguyên chuyên viên Phòng Kinh tế, Hạ tầng và Đô thị phường chiếm đoạt trên 800 triệu của người dân",
+      "link": "https://tuoitre.vn/nguyen-chuyen-vien-phong-kinh-te-ha-tang-va-do-thi-phuong-chiem-doat-tren-800-trieu-cua-nguoi-dan-20251230202614007.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã bắt tạm giam Nguyễn Thanh Tuấn, nguyên chuyên viên Phòng Kinh tế, Hạ tầng và Đô thị phường Hồng Gai, để điều tra về hành vi lạm dụng chức vụ, quyền hạn chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218799+07:00",
+      "fetched": "2025-12-30T23:23:47.218921+07:00"
+    },
+    {
+      "id": "ce580042a176c7aa5720a95ff74fdd58",
+      "title": "Truy tố kẻ cầm dao đâm bạn nhậu trong quán bia",
+      "link": "https://tuoitre.vn/truy-to-ke-cam-dao-dam-ban-nhau-trong-quan-bia-2025123020075865.htm",
+      "summary": "Cơ quan cảnh sát điều tra - Công an tỉnh Quảng Ninh đã đề nghị truy tố kẻ cầm dao đâm bạn nhậu trong quán bia hành vi giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218674+07:00",
+      "fetched": "2025-12-30T23:23:47.218787+07:00"
+    },
+    {
+      "id": "1273bfd2cf57d1f8a8be7566607331bb",
+      "title": "Điều chỉnh giao thông, cấm xe nhiều tuyến đường ở TP.HCM dịp bắn pháo hoa mừng 2026",
+      "link": "https://tuoitre.vn/dieu-chinh-giao-thong-cam-xe-nhieu-tuyen-duong-o-tp-hcm-dip-ban-phao-hoa-mung-2026-202512302029257.htm",
+      "summary": "Phòng Cảnh sát giao thông (PC08) Công an TP.HCM thông báo điều chỉnh giao thông hàng loạt tuyến đường, phục vụ chương trình bắn pháo hoa nghệ thuật chào mừng năm mới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218551+07:00",
+      "fetched": "2025-12-30T23:23:47.218664+07:00"
+    },
+    {
+      "id": "bd2a6972e790f25c70645ca10204bb05",
+      "title": "Kiểm tra công tác an toàn giao thông tại cửa hàng xăng dầu Châu Thành",
+      "link": "https://tuoitre.vn/kiem-tra-cong-tac-an-toan-giao-thong-tai-cua-hang-xang-dau-chau-thanh-20251230203307862.htm",
+      "summary": "Cơ quan chức năng đã tổ chức kiểm tra nguy cơ mất an toàn giao thông, xác định trách nhiệm các bên liên quan, đề xuất hướng xử lý để đảm bảo cung ứng xăng dầu tại trạm dừng nghỉ Km41+100 cao tốc TP.HCM - Long Thành - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218429+07:00",
+      "fetched": "2025-12-30T23:23:47.218540+07:00"
+    },
+    {
+      "id": "5b42a9a19ae0b5717ab106f47a3175b1",
+      "title": "Hé lộ danh sách 16 doanh nghiệp nộp thuế trên 3.000 tỉ đồng tại TP.HCM",
+      "link": "https://tuoitre.vn/he-lo-danh-sach-16-doanh-nghiep-nop-thue-tren-3-000-ti-dong-tai-tp-hcm-20251230204017127.htm",
+      "summary": "Chủ tịch UBND TP.HCM ghi nhận những đóng góp của những tập thể, cá nhân xuất sắc. Dù đứng trước nhiều khó khăn, thách thức nhưng năm 2025 có đến 16 doanh nghiệp tại TP.HCM nộp thuế trên 3.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218303+07:00",
+      "fetched": "2025-12-30T23:23:47.218418+07:00"
+    },
+    {
+      "id": "88ad74edc713677d1aec3f2576955fa1",
+      "title": "Vụ thanh niên bị đâm tại bến xe Giáp Bát: Bắt giữ 3 nghi phạm, 2 người dương tính với ma túy",
+      "link": "https://tuoitre.vn/vu-thanh-nien-bi-dam-tai-ben-xe-giap-bat-bat-giu-3-nghi-pham-2-nguoi-duong-tinh-voi-ma-tuy-20251230205104045.htm",
+      "summary": "Vũ Mạnh Thắng cùng anh trai Vũ Mạnh Toàn và 1 người khác bị công an bắt giữ với cáo buộc khống chế, dùng dao đâm 1 nam thanh niên bị thương tại bến xe Giáp Bát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218172+07:00",
+      "fetched": "2025-12-30T23:23:47.218291+07:00"
+    },
+    {
+      "id": "e8012def78cbc5ce3b8020b7082aafd2",
+      "title": "Cảnh giác với chiêu lừa nhận quà tặng 400.000 đồng Tết dương lịch 2026",
+      "link": "https://tuoitre.vn/canh-giac-voi-chieu-lua-nhan-qua-tang-400-nghin-dong-tet-duong-lich-2026-20251230204757062.htm",
+      "summary": "Trước những thủ đoạn lừa đảo tinh vi của tội phạm liên quan đến việc nhận quà tặng 400.000 đồng Tết dương lịch 2026, cơ quan công an đã đưa ra cảnh báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.218024+07:00",
+      "fetched": "2025-12-30T23:23:47.218159+07:00"
+    },
+    {
+      "id": "2ec783abb311694d2a477b67038b45ce",
+      "title": "KIDO ký kết hợp tác với 5 hiệp hội, đẩy mạnh ứng dụng AI vào tiếp thị, quảng cáo",
+      "link": "https://tuoitre.vn/kido-ky-ket-hop-tac-voi-5-hiep-hoi-day-manh-ung-dung-ai-vao-tiep-thi-quang-cao-20251230205819615.htm",
+      "summary": "Ngày 30-12, Tập đoàn KIDO chính thức ra mắt Công ty cổ phần Hiện thực hóa AI (AIRO), đánh dấu bước đi mới trong chiến lược mở rộng sang lĩnh vực công nghệ, với trọng tâm là AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.217893+07:00",
+      "fetched": "2025-12-30T23:23:47.218012+07:00"
+    },
+    {
+      "id": "5969033fe2cd2e6e0c5c2d0f4e3ddedb",
+      "title": "Bắt giám đốc Công ty Profit cầm đầu đường dây buôn lậu thực phẩm chức năng",
+      "link": "https://tuoitre.vn/bat-giam-doc-cong-ty-profit-cam-dau-duong-day-buon-lau-thuc-pham-chuc-nang-20251230210532579.htm",
+      "summary": "Giám đốc Công ty TNHH Profit (phường Tân Sơn, TP.HCM) cùng đồng phạm buôn lậu thực phẩm chức năng của hãng Biotech, Mutant từ các nước châu Âu, với trị giá hàng hóa hơn 45 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.217748+07:00",
+      "fetched": "2025-12-30T23:23:47.217881+07:00"
+    },
+    {
+      "id": "35647eb913f3b23c7100bc6d2ea85e48",
+      "title": "TP.HCM siết quy trình mua, thuê nhà ở xã hội: công khai giá, chặn ủy quyền, chống 'cò' hồ sơ",
+      "link": "https://tuoitre.vn/tp-hcm-siet-quy-trinh-mua-thue-nha-o-xa-hoi-cong-khai-gia-chan-uy-quyen-chong-co-ho-so-20251230211205494.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa ban hành văn bản hướng dẫn trình tự, thủ tục, điều kiện, hồ sơ đăng ký mua, thuê mua, thuê nhà ở xã hội. Văn bản ra đời khi nhu cầu nhà ở xã hội tại TP.HCM tăng mạnh, từ đó ngăn ngừa tình trạng 'cò' hồ sơ, trục lợi chính sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:23:47.217522+07:00",
+      "fetched": "2025-12-30T23:23:47.217734+07:00"
+    },
     {
       "id": "4cecee3db4c912fea409c3d57ac684b7",
       "title": "Phân luồng xe từ xa ở Hà Nội trong đêm bắn pháo hoa Tết dương lịch",
@@ -303,6 +453,56 @@ window.newsData_2025_12_30 = {
       "fetched": "2025-12-30T17:20:06.488713+07:00"
     },
     {
+      "id": "3c2cb8f5f07848f283257f9651a0cf24",
+      "title": "Cha mẹ bị tòa tước quyền nuôi 3 con vì 'nuôi nấng kiểu hoang dã'",
+      "link": "https://vnexpress.net/cha-me-bi-toa-tuoc-quyen-nuoi-3-con-vi-nuoi-nang-kieu-hoang-da-5000293.html",
+      "summary": "Vợ chồng Trevallion cho rằng sống trong rừng không điện nước, học hành, không giao lưu xã hội là hòa hợp thiên nhiên, nhưng tòa phán quyết như vậy là hành hạ bọn trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T16:17:37+07:00",
+      "fetched": "2025-12-30T23:23:43.182632+07:00"
+    },
+    {
+      "id": "f254155dacbaa1ccfe644d9ec4ffd4d3",
+      "title": "Luật sư Malaysia: 'FAM và 7 cầu thủ nhập tịch trái phép chia làm 2 phe, như mặt trăng với mặt trời’",
+      "link": "https://thanhnien.vn/luat-su-malaysia-fam-va-7-cau-thu-nhap-tich-trai-phep-chia-lam-2-phe-nhu-mat-trang-voi-mat-troi-185251230230128183.htm",
+      "summary": "Vụ bê bối nhập tịch lậu đang đẩy bóng đá Malaysia rơi vào cuộc khủng hoảng sâu rộng, không chỉ trên sân cỏ mà còn ở mặt trận pháp lý. Các diễn biến mới nhất cho thấy hiện vụ việc đã phân hóa thành hai phe đối lập: Liên đoàn Bóng đá Malaysia (FAM) và nhóm 7 cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T16:08:00+07:00",
+      "fetched": "2025-12-30T23:23:46.234827+07:00"
+    },
+    {
+      "id": "f3d8193c86afcf94e0d8a5b6a0c081aa",
+      "title": "Billiards: Trần Quyết Chiến tung sê-ri lớn, giành lại ngôi nhất bảng",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-tung-se-ri-lon-gianh-lai-ngoi-nhat-bang-185251230225502495.htm",
+      "summary": "Trần Quyết Chiến tiếp tục thi đấu với phong độ cao để góp công giúp đội nhà giành chiến thắng thuyết phục và trở lại với vị trí đầu bảng, qua đó nắm lợi thế trong cuộc đua đến chức vô địch giải billiards đồng đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:56:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235006+07:00"
+    },
+    {
+      "id": "acc17acd932faa900ed7de1f3a7f3c86",
+      "title": "Đại sứ Knapper điểm lại quan hệ Việt - Mỹ năm 2025 bằng tiếng Việt",
+      "link": "https://vnexpress.net/dai-su-knapper-diem-lai-quan-he-viet-my-nam-2025-bang-tieng-viet-5000266.html",
+      "summary": "Đại sứ Mỹ tại Việt Nam Marc Knapper cho biết 2025 là năm \"tràn ngập khoảnh khắc ý nghĩa\" trong quan hệ song phương, khi phát biểu bằng tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:27:52+07:00",
+      "fetched": "2025-12-30T23:23:43.182823+07:00"
+    },
+    {
+      "id": "acc17acd932faa900ed7de1f3a7f3c86",
+      "title": "Đại sứ Knapper điểm lại quan hệ Việt - Mỹ năm 2025 bằng tiếng Việt",
+      "link": "https://vnexpress.net/dai-su-knapper-diem-lai-quan-he-viet-my-nam-2025-bang-tieng-viet-5000266.html",
+      "summary": "Đại sứ Mỹ tại Việt Nam Marc Knapper cho biết 2025 là năm \"tràn ngập khoảnh khắc ý nghĩa\" trong quan hệ song phương, khi phát biểu bằng tiếng Việt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T15:27:52+07:00",
+      "fetched": "2025-12-30T23:23:48.318874+07:00"
+    },
+    {
       "id": "67af7a8eed25399a6b92557215d61014",
       "title": "Tổng Bí thư Tô Lâm: Đào tạo không chỉ để 'biết' mà để 'làm', hướng tới các giá trị công",
       "link": "https://tuoitre.vn/tong-bi-thu-to-lam-dao-tao-khong-chi-de-biet-ma-de-lam-huong-toi-cac-gia-tri-cong-20251230121529214.htm",
@@ -453,6 +653,176 @@ window.newsData_2025_12_30 = {
       "fetched": "2025-12-30T15:26:06.573268+07:00"
     },
     {
+      "id": "482386ad3868e3d827eccb4685ca5332",
+      "title": "Việt Nam thua trước thềm U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-thua-truoc-them-u23-chau-a-2026-5000300.html",
+      "summary": "Tối 30/12 theo giờ Hà Nội, Việt Nam thua Syria 1-2 trong trận đấu tập, cũng là cữ dượt duy nhất trước thềm vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:21:49+07:00",
+      "fetched": "2025-12-30T23:23:43.182998+07:00"
+    },
+    {
+      "id": "482386ad3868e3d827eccb4685ca5332",
+      "title": "Việt Nam thua trước thềm U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-thua-truoc-them-u23-chau-a-2026-5000300.html",
+      "summary": "Tối 30/12 theo giờ Hà Nội, Việt Nam thua Syria 1-2 trong trận đấu tập, cũng là cữ dượt duy nhất trước thềm vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T15:21:49+07:00",
+      "fetched": "2025-12-30T23:23:53.006312+07:00"
+    },
+    {
+      "id": "8897d967a8cc013644420b2b569877c3",
+      "title": "VFF nói gì về trận thua của U.23 Việt Nam, báo tin không vui về Thanh Nhàn và Nguyễn Tân",
+      "link": "https://thanhnien.vn/vff-noi-gi-ve-tran-thua-cua-u23-viet-nam-bao-tin-khong-vui-ve-thanh-nhan-va-nguyen-tan-185251230221601735.htm",
+      "summary": "Như Thanh Niên đã đưa tin, trong trận giao hữu với U.23 Syria vào tối 30.12, HLV Kim Sang-sik đã sử dụng nhân sự khác nhau trong 2 hiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:21:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235187+07:00"
+    },
+    {
+      "id": "d6bee0df85d8163e153f26bb9075a050",
+      "title": "Bắt giám đốc công ty tổ chức show ‘Về đây bốn cánh chim trời’",
+      "link": "https://thanhnien.vn/bat-giam-doc-cong-ty-to-chuc-show-ve-day-bon-canh-chim-troi-18525123021582116.htm",
+      "summary": "Công an Hà Nội vừa khởi tố, bắt tạm giam giám đốc công ty tổ chức show 'Về đây bốn cánh chim trời' để điều tra hành vi lừa đảo chiếm đoạt tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:16:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235346+07:00"
+    },
+    {
+      "id": "85f4500a7ac856c733bfe2e617d5555f",
+      "title": "Giám đốc tổ chức chương trình 'Về đây bốn cánh chim trời' bị khởi tố",
+      "link": "https://vnexpress.net/giam-doc-to-chuc-chuong-trinh-ve-day-bon-canh-chim-troi-bi-khoi-to-5000296.html",
+      "summary": "Bà Nguyễn Thị Thu Hà, Giám đốc Công ty Ngọc Việt Education - đơn vị tổ chức chương trình 'Về đây bốn cánh chim trời' bị khởi tố với cáo buộc lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T15:07:51+07:00",
+      "fetched": "2025-12-30T23:23:43.183185+07:00"
+    },
+    {
+      "id": "4c52bd51e4a98e276af098be455bdbcc",
+      "title": "Anh Bùi Hoàng Tùng giữ chức Bí thư Đoàn Thanh niên Chính phủ",
+      "link": "https://thanhnien.vn/anh-bui-hoang-tung-giu-chuc-bi-thu-doan-thanh-nien-chinh-phu-18525123021173864.htm",
+      "summary": "Đại hội đại biểu Đoàn TNCS Hồ Chí Minh Chính phủ lần thứ I, nhiệm kỳ 2025 - 2030 đã công bố quyết định của T.Ư Đoàn chỉ định anh Bùi Hoàng Tùng giữ chức Bí thư Đoàn Thanh niên Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:54:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235501+07:00"
+    },
+    {
+      "id": "399238eb6dfdbb3a41242ca2a2ba3f08",
+      "title": "Các trường thuộc Bộ Giáo dục giảm khoảng 3.000 biên chế",
+      "link": "https://vnexpress.net/cac-truong-thuoc-bo-giao-duc-giam-khoang-3-000-bien-che-5000282.html",
+      "summary": "Hơn 3.000 vị trí hưởng lương ngân sách ở khối sự nghiệp của Bộ Giáo dục bị cắt giảm, tương đương 12,3%, sau quá trình sắp xếp bộ máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:53:33+07:00",
+      "fetched": "2025-12-30T23:23:43.183346+07:00"
+    },
+    {
+      "id": "c60158ad23229cd0894caef7bd84628e",
+      "title": "Ca sĩ Hồng Nhung, Quang Linh được trao giải Thành tựu",
+      "link": "https://thanhnien.vn/ca-si-hong-nhung-quang-linh-duoc-trao-giai-thanh-tuu-185251230211909573.htm",
+      "summary": "Tại sự kiện công bố và bình chọn đề cử Làn Sóng Xanh 2025, ban tổ chức công bố giải Thành tựu Làn Sóng Xanh được trao cho ca sĩ Hồng Nhung và Quang Linh. Hai nghệ sĩ có đóng góp lâu dài và dấu ấn rõ nét trong lịch sử hình thành, phát triển của giải thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:53:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235655+07:00"
+    },
+    {
+      "id": "9a5b6dd962d204e6723ed741171f54e5",
+      "title": "UAV nhựa xốp Nga bay hơn 230 km, tập kích trực thăng Ukraine",
+      "link": "https://vnexpress.net/uav-nhua-xop-nga-bay-hon-230-km-tap-kich-truc-thang-ukraine-5000123.html",
+      "summary": "Lực lượng Nga dùng UAV giá rẻ tập kích hàng loạt mục tiêu Ukraine, trong đó một chiếc nhắm đến trực thăng ở cách tiền tuyến 236 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:48:26+07:00",
+      "fetched": "2025-12-30T23:23:43.183502+07:00"
+    },
+    {
+      "id": "9a5b6dd962d204e6723ed741171f54e5",
+      "title": "UAV nhựa xốp Nga bay hơn 230 km, tập kích trực thăng Ukraine",
+      "link": "https://vnexpress.net/uav-nhua-xop-nga-bay-hon-230-km-tap-kich-truc-thang-ukraine-5000123.html",
+      "summary": "Lực lượng Nga dùng UAV giá rẻ tập kích hàng loạt mục tiêu Ukraine, trong đó một chiếc nhắm đến trực thăng ở cách tiền tuyến 236 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-30T14:48:26+07:00",
+      "fetched": "2025-12-30T23:23:48.319048+07:00"
+    },
+    {
+      "id": "deeeb34145a12257e126e2b219460851",
+      "title": "Phần mềm đo thị lực cho người không biết chữ, phát hiện sớm bất thường thị giác",
+      "link": "https://thanhnien.vn/phan-mem-do-thi-luc-cho-nguoi-khong-biet-chu-phat-hien-som-bat-thuong-thi-giac-185251230200537847.htm",
+      "summary": "Lập trình và triển khai phần mềm đánh giá chức năng thị giác DucGiangVas 2025 là đề tài được ứng dụng thực tế, tăng khả năng phát hiện sớm bất thường thị giác, nâng cao hiệu quả phòng chống mù lòa trong cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:41:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235807+07:00"
+    },
+    {
+      "id": "7cb407e132758334b39f5f4d1bece920",
+      "title": "Những dấu ấn nổi bật của Duy Tân năm 2025",
+      "link": "https://thanhnien.vn/nhung-dau-an-noi-bat-cua-duy-tan-nam-2025-185251230172753439.htm",
+      "summary": "Thông qua đầu tư sản xuất, đổi mới sản phẩm và các hoạt động phát triển bền vững gắn với trách nhiệm cộng đồng, Duy Tân đang tiến gần hơn tới mục tiêu trở thành doanh nghiệp vươn tầm ASEAN, tự tin là đối tác chiến lược của các tập đoàn đa quốc gia và nhà cung cấp toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:36:00+07:00",
+      "fetched": "2025-12-30T23:23:46.235970+07:00"
+    },
+    {
+      "id": "3f5c6937e55fc1336b90ce5503e59ea5",
+      "title": "Công an TP.HCM triệt phá đường dây buôn lậu sữa whey protein quy mô lớn",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-buon-lau-sua-whey-protein-quy-mo-lon-185251230211422066.htm",
+      "summary": "Thực hiện mệnh lệnh của Giám đốc Công an TP.HCM, Phòng Cảnh sát kinh tế đã triệt phá đường dây buôn lậu thực phẩm chức năng quy mô lớn, hoạt động tinh vi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:35:00+07:00",
+      "fetched": "2025-12-30T23:23:46.236142+07:00"
+    },
+    {
+      "id": "dc5839bb61f7099feb4e9cd4da449ad1",
+      "title": "Thủ tướng mong thanh niên thực hiện '5 tiên phong'",
+      "link": "https://thanhnien.vn/thu-tuong-mong-thanh-nien-thuc-hien-5-tien-phong-185251230202157005.htm",
+      "summary": "Phát biểu tại Đại hội đại biểu Đoàn Thanh niên Chính phủ, Thủ tướng Phạm Minh Chính 'rất mong các bạn trẻ' thực hiện '5 tiên phong'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:35:00+07:00",
+      "fetched": "2025-12-30T23:23:46.236313+07:00"
+    },
+    {
+      "id": "3382e04aa4db53b360476c87936efbb3",
+      "title": "Những bộ cánh 'mặc như không' năm 2025",
+      "link": "https://vnexpress.net/nhung-bo-canh-mac-nhu-khong-nam-2025-4999876.html",
+      "summary": "Dakota Johnson, Margot Robbie gây chú ý với những bộ đầm trong suốt táo bạo tại các sự kiện năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:30:00+07:00",
+      "fetched": "2025-12-30T23:23:43.183657+07:00"
+    },
+    {
+      "id": "9302446e3021ee37f23b8ad042aa2715",
+      "title": "Đường dây buôn lậu hơn 50.000 hộp thực phẩm chức năng",
+      "link": "https://vnexpress.net/duong-day-buon-lau-hon-50-000-hop-thuc-pham-chuc-nang-5000272.html",
+      "summary": "Tạ Văn Vinh, 54 tuổi, Giám đốc Công ty TNHH Profit, sử dụng hồ sơ tự công bố, khai báo sai bản chất để nhập khẩu trái phép lô thực phẩm chức năng trị giá hơn 40 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:24:07+07:00",
+      "fetched": "2025-12-30T23:23:43.183816+07:00"
+    },
+    {
+      "id": "014e6466a2326ec77d367728e6843334",
+      "title": "Núi Bà Đen đón khách chiêm bái tượng Đức Phật vào Tết Dương lịch",
+      "link": "https://vnexpress.net/nui-ba-den-don-khach-chiem-bai-tuong-duc-phat-vao-tet-duong-lich-4999989.html",
+      "summary": "Tượng Đức Phật Câu Na Hàm Mâu Ni chế tác bằng đồng đỏ, cao 7,2 m, bề mặt sơn nhũ vàng 24k, an vị nơi cao nhất núi Bà Đen, bắt đầu đón khách từ ngày 1/1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:20:00+07:00",
+      "fetched": "2025-12-30T23:23:43.183978+07:00"
+    },
+    {
       "id": "ce140b457c3adc8d592fc45d77a9904c",
       "title": "U.23 Việt Nam thua U.23 Syria 1-2: Bỏ lỡ nhiều cơ hội ngon ăn, Lê Phát rút ngắn tỷ số",
       "link": "https://thanhnien.vn/u23-viet-nam-thua-u23-syria-1-2-bo-lo-nhieu-co-hoi-ngon-an-le-phat-rut-ngan-ty-so-185251230204524533.htm",
@@ -461,6 +831,16 @@ window.newsData_2025_12_30 = {
       "category": "Tổng hợp",
       "published": "2025-12-30T14:11:00+07:00",
       "fetched": "2025-12-30T21:18:46.628262+07:00"
+    },
+    {
+      "id": "6c469640b287f76c5b16d695ae5d4193",
+      "title": "Hôn nhân tuổi 38 nhạt nhẽo vì 'không thể thay đổi đối phương'",
+      "link": "https://vnexpress.net/hon-nhan-tuoi-38-nhat-nheo-vi-khong-the-thay-doi-doi-phuong-5000259.html",
+      "summary": "Có lẽ chúng tôi đều thất vọng vì vẫn giống mình của 10 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T14:08:04+07:00",
+      "fetched": "2025-12-30T23:23:43.184165+07:00"
     },
     {
       "id": "41a942cdeaf56ad066acadcc592aba12",
@@ -2281,6 +2661,16 @@ window.newsData_2025_12_30 = {
       "category": "Công nghệ",
       "published": "2025-12-30T07:07:16+07:00",
       "fetched": "2025-12-30T15:26:14.044104+07:00"
+    },
+    {
+      "id": "70cd13df1a0e2a896a1ea5dd754af70d",
+      "title": "‘Chuyển từ làm chủ sang dẫn dắt, phát triển công nghệ'",
+      "link": "https://vnexpress.net/khai-mac-dien-dan-make-in-viet-nam-2025-4999931-tong-thuat.html",
+      "summary": "Thông điệp “chuyển từ làm chủ sang dẫn dắt” được Phó thủ tướng Hồ Quốc Dũng và Bộ trưởng Nguyễn Mạnh Hùng cùng nhấn mạnh tại Diễn đàn Quốc gia phát triển doanh nghiệp công nghệ số Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T07:07:16+07:00",
+      "fetched": "2025-12-30T23:23:51.904628+07:00"
     },
     {
       "id": "3650229a1fe3c36c62d61b342a08415f",
