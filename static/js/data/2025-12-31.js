@@ -1,7 +1,157 @@
 window.newsData_2025_12_31 = {
   "date": "2025-12-31",
-  "lastUpdated": "2025-12-31T21:18:00.932306+07:00",
+  "lastUpdated": "2025-12-31T23:22:46.674473+07:00",
   "articles": [
+    {
+      "id": "54f3cc6dc2aa7bad6b05bd8f270645f0",
+      "title": "Vietlott 'nổ' Jackpot hơn 17 tỉ đồng trong kỳ quay cuối năm",
+      "link": "https://tuoitre.vn/vietlott-no-jackpot-hon-17-ti-dong-trong-ky-quay-cuoi-nam-202512311952391.htm",
+      "summary": "Kỳ quay số mở thưởng Mega 6/45 tối 31-12, Công ty Xổ số điện toán Việt Nam (Vietlott) xác định có một khách hàng may mắn trúng giải Jackpot với giá trị hơn 17,1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.782571+07:00",
+      "fetched": "2025-12-31T23:22:38.782684+07:00"
+    },
+    {
+      "id": "dd2bacbd643c027ffbd5112780b89c0d",
+      "title": "80 năm làm ‘bộ nhớ quốc gia’ lưu giữ ‘ký ức dân tộc’",
+      "link": "https://tuoitre.vn/80-nam-lam-bo-nho-quoc-gia-luu-giu-ky-uc-dan-toc-20251231195910177.htm",
+      "summary": "Thứ trưởng Bộ Nội vụ Cao Huy khẳng định ngành lưu trữ chính là ‘bộ nhớ quốc gia’ để lưu giữ ‘ký ức dân tộc’, là nguồn thông tin đặc biệt quan trọng phục vụ lãnh đạo, quản lý, hoạch định chính sách, bảo vệ chủ quyền quốc gia, bảo đảm quyền và lợi ích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.782441+07:00",
+      "fetched": "2025-12-31T23:22:38.782559+07:00"
+    },
+    {
+      "id": "cb5b5a8bb7c7d40bccadc4159db781bc",
+      "title": "Biển người đổ về trung tâm TP.HCM, Hà Nội, Đà Nẵng… chờ khoảnh khắc đón năm mới 2026",
+      "link": "https://tuoitre.vn/dong-nghit-nguoi-do-ve-khu-trung-tam-cho-don-nam-moi-2026-20251231194318795.htm",
+      "summary": "Từ tối 31-12, người dân và du khách chen kín các khu trung tâm, hồ Gươm, phố đi bộ Nguyễn Huệ, công viên Biển Đông… chờ countdown và pháo hoa mừng năm mới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.782316+07:00",
+      "fetched": "2025-12-31T23:22:38.782430+07:00"
+    },
+    {
+      "id": "fb8c0cc96df834ba984f549a1af5a447",
+      "title": "Sau tập trận bắn đạn thật quanh Đài Loan, ông Tập tuyên bố 'thống nhất là không thể ngăn cản'",
+      "link": "https://tuoitre.vn/sau-tap-tran-ban-dan-that-quanh-dai-loan-ong-tap-tuyen-bo-thong-nhat-la-khong-the-ngan-can-2025123119352365.htm",
+      "summary": "Ngày 31-12, Chủ tịch Trung Quốc Tập Cận Bình tuyên bố 'thống nhất Tổ quốc là điều không thể ngăn cản'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.782192+07:00",
+      "fetched": "2025-12-31T23:22:38.782305+07:00"
+    },
+    {
+      "id": "64def2494721c7cf5d32798bb8e9a7b7",
+      "title": "Nhờ đâu Lê Quang Liêm thường xuyên đánh bại các 'vua cờ'?",
+      "link": "https://tuoitre.vn/nho-dau-le-quang-liem-thuong-xuyen-danh-bai-cac-vua-co-20251231131931747.htm",
+      "summary": "Dù không gặt hái thành tích quá cao ở Giải vô địch cờ nhanh và cờ chớp thế giới 2025, Lê Quang Liêm một lần nữa khiến làng cờ vua phải ngả mũ thán phục khi đánh bại \"vua cờ\" Gukesh Dommaraju.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.782065+07:00",
+      "fetched": "2025-12-31T23:22:38.782181+07:00"
+    },
+    {
+      "id": "f9f2dca083763c48244603517344702c",
+      "title": "Viêm loét đại tràng khó điều trị nếu nội soi và sinh thiết không chuẩn",
+      "link": "https://tuoitre.vn/viem-loet-dai-trang-kho-dieu-tri-neu-noi-soi-va-sinh-thiet-khong-chuan-20251231190929603.htm",
+      "summary": "Tại hội thảo chuyên đề viêm loét đại tràng do Phòng khám Đa khoa Doctor Check tổ chức ngày 28-12, gần 30 bác sĩ tiêu hóa cùng thảo luận về một câu hỏi quan trọng: Vì sao nhiều bệnh nhân điều trị viêm loét đại tràng kéo dài nhưng bệnh vẫn tái phát?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781932+07:00",
+      "fetched": "2025-12-31T23:22:38.782054+07:00"
+    },
+    {
+      "id": "2d9c7c991446331a0a15790e70bfdcca",
+      "title": "Thông tin người đàn ông nước ngoài nhiễm HIV từng quan hệ với 46 phụ nữ là bịa đặt",
+      "link": "https://tuoitre.vn/thong-tin-nguoi-dan-ong-nuoc-ngoai-nhiem-hiv-tung-quan-he-voi-46-phu-nu-la-bia-dat-20251231201228433.htm",
+      "summary": "Sau nhiều ngày xác minh, cơ quan công an đã đủ căn cứ khẳng định thông tin lan truyền trên mạng về người đàn ông nhiễm HIV tham gia hiến máu từng quan hệ nam nữ với 46 nữ nhân viên khác của công ty là bịa đặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781786+07:00",
+      "fetched": "2025-12-31T23:22:38.781909+07:00"
+    },
+    {
+      "id": "a5704652f0cee2bc358f300a5c85123b",
+      "title": "Kinh tế lifestyle nhìn từ Tết: Khi 'ăn Tết' chuyển sang 'chơi Tết'",
+      "link": "https://tuoitre.vn/kinh-te-lifestyle-nhin-tu-tet-khi-an-tet-chuyen-sang-choi-tet-20251231164528709.htm",
+      "summary": "Từ 'ăn Tết' theo nếp cũ, ngày càng nhiều gia đình trẻ chọn 'chơi Tết', Tết không còn thuần túy là khoảng thời gian sum họp gia đình, mà dần trở thành một mùa tiêu dùng - du lịch - trải nghiệm sôi động không kém cao điểm hè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781648+07:00",
+      "fetched": "2025-12-31T23:22:38.781760+07:00"
+    },
+    {
+      "id": "2692fdcb4457212d27a8a29f02649f16",
+      "title": "Hứa Vĩ Văn cảnh báo trang cờ bạc mạo danh anh quảng cáo trái phép",
+      "link": "https://tuoitre.vn/hua-vi-van-canh-bao-trang-co-bac-mao-danh-anh-quang-cao-trai-phep-20251231210420315.htm",
+      "summary": "Diễn viên Hứa Vĩ Văn cảnh báo trên trang cá nhân anh bị một trang cá cược sử dụng hình ảnh trái phép và sai pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781523+07:00",
+      "fetched": "2025-12-31T23:22:38.781636+07:00"
+    },
+    {
+      "id": "b53a4d9b80b88e0e7457fb492e50aed9",
+      "title": "Triệt phá đường dây cá độ bóng đá qua trang mạng, giao dịch hơn 80 tỉ đồng",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-ca-do-bong-da-qua-trang-mang-giao-dich-hon-80-ti-dong-20251231192820076.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM vừa triệt phá đường dây \"tổ chức đánh bạc\", \"đánh bạc\" thông qua trang mạng bong... với tổng số tiền giao dịch ước tính hơn 80 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781395+07:00",
+      "fetched": "2025-12-31T23:22:38.781512+07:00"
+    },
+    {
+      "id": "abff70c15e9f47e5acb0871cd0156fef",
+      "title": "Hàng trăm ngàn người đổ về xem biểu diễn khinh khí cầu tại quảng trường Sa Đéc",
+      "link": "https://tuoitre.vn/hang-tram-ngan-nguoi-do-ve-xem-bieu-dien-khinh-khi-cau-tai-quang-truong-sa-dec-20251231211423925.htm",
+      "summary": "Tối 31-12, hàng trăm ngàn người dân tập trung về quảng trường Sa Đéc, phường Sa Đéc, tỉnh Đồng Tháp xem khinh khí cầu và thả hoa đăng. Quảng trường Sa Đéc và nhiều tuyến đường chật kín, người đi bộ phải nhích từng chút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781265+07:00",
+      "fetched": "2025-12-31T23:22:38.781382+07:00"
+    },
+    {
+      "id": "36789d174e0f37217b5d65ca30407cf2",
+      "title": "Đi sân bay dịp Tết dương lịch: Bay sớm vẫn thoáng, Tân Sơn Nhất 'lạ mà quen'",
+      "link": "https://tuoitre.vn/di-san-bay-dip-tet-duong-lich-bay-som-van-thoang-tan-son-nhat-la-ma-quen-20251231201530064.htm",
+      "summary": "Dù bước vào cao điểm đi lại dịp Tết dương lịch, sân bay Tân Sơn Nhất những ngày cuối năm nay lại mang đến cảm giác khá \"lạ\" khi đông đúc nhưng không chật chội, nhộn nhịp nhưng không quá căng thẳng như những năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.781134+07:00",
+      "fetched": "2025-12-31T23:22:38.781254+07:00"
+    },
+    {
+      "id": "15e145e50f38b54fafd435dfc2f04c74",
+      "title": "Khách du lịch 'vây' phố cổ Hội An cùng đếm ngược chào năm mới 2025",
+      "link": "https://tuoitre.vn/khach-du-lich-vay-pho-co-hoi-an-cung-dem-nguoc-chao-nam-moi-2025-20251231210416009.htm",
+      "summary": "Từ tối 31-12, không gian phố cổ Hội An chứng kiến lượng người chen kín đổ từ các hướng về hai bên bờ sông Hoài để đón khoảnh khắc chào mừng năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.780997+07:00",
+      "fetched": "2025-12-31T23:22:38.781121+07:00"
+    },
+    {
+      "id": "50998fd81f72b0ac26d60b004683aaa9",
+      "title": "Nhận tiền cho đổ hàng trăm tấn rác thải, chủ đất tại TP.HCM bị khởi tố",
+      "link": "https://tuoitre.vn/nhan-tien-cho-do-hang-tram-tan-rac-thai-chu-dat-tai-tp-hcm-bi-khoi-to-20251231211122247.htm",
+      "summary": "Công an TP.HCM khởi tố bà Phan Thị Xuân Mai do khu đất quản lý chứa hơn 257 tấn rác xây dựng, đổ thải không đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.780851+07:00",
+      "fetched": "2025-12-31T23:22:38.780984+07:00"
+    },
+    {
+      "id": "559bb9fdea81777652c83e37fb417c3c",
+      "title": "Sắp áp dụng thuế kê khai, thương nhân tại chợ đầu mối vẫn rối dù khẳng định tuân thủ quy định",
+      "link": "https://tuoitre.vn/sap-ap-dung-thue-ke-khai-thuong-nhan-tai-cho-dau-moi-van-roi-du-khang-dinh-tuan-thu-quy-dinh-20251231212958461.htm",
+      "summary": "Gặp khó trong việc thương thảo hợp đồng, tìm hóa đơn chứng từ đầu ra đầu vào, không ít thương nhân kinh doanh tại các chợ đầu mối ở TP.HCM đang lo lắng vì có thể không thỏa quy định chính sách thuế kê khai, dù hạn áp dụng từ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T23:22:38.780595+07:00",
+      "fetched": "2025-12-31T23:22:38.780834+07:00"
+    },
     {
       "id": "9c001c674b1c6dc6b3d60228b42999aa",
       "title": "Vì sao tháp cẩu công trình cao hàng chục mét đổ xuống đường giữa trung tâm Đà Nẵng?",
@@ -323,6 +473,46 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T17:19:29.530592+07:00"
     },
     {
+      "id": "d593f71a3f533412f7589fdbd481fa05",
+      "title": "Giả danh cán bộ, lừa đảo 'chạy' chuyển trường chiếm đoạt hơn 40 triệu đồng",
+      "link": "https://thanhnien.vn/gia-danh-can-bo-lua-dao-chay-chuyen-truong-chiem-doat-hon-40-trieu-dong-185251231205927452.htm",
+      "summary": "Giả danh cán bộ phòng công tác sinh viên một trường đại học ở Đà Nẵng, nghi phạm tiếp cận nữ sinh có nhu cầu chuyển trường, dựng kịch bản 'chạy' hồ sơ để lừa đảo chiếm đoạt hơn 40 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T16:21:00+07:00",
+      "fetched": "2025-12-31T23:22:37.799903+07:00"
+    },
+    {
+      "id": "a1aab4010049c27180ad1f8734ece200",
+      "title": "Đà Nẵng: Triệt phá đường dây mua bán trái phép hóa đơn hơn 200 tỉ đồng",
+      "link": "https://thanhnien.vn/da-nang-triet-pha-duong-day-mua-ban-trai-phep-hoa-don-hon-200-ti-dong-185251231203023478.htm",
+      "summary": "Công an TP.Đà Nẵng vừa triệt phá đường dây mua bán trái phép hóa đơn. Nguyễn Thị Thu Thảo được xác định cầm đầu, với tổng giá trị giao dịch hơn 200 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T16:06:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800075+07:00"
+    },
+    {
+      "id": "78fe1b6b1e35d5b4c46b4224671e932f",
+      "title": "Nga tặng tranh chân dung cho em gái ông Kim Jong-un",
+      "link": "https://vnexpress.net/nga-tang-tranh-chan-dung-cho-em-gai-ong-kim-jong-un-5000749.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao Nga tặng bà Kim Yo-jong, em gái lãnh đạo Triều Tiên Kim Jong-un, bức chân dung như món quà năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:45:31+07:00",
+      "fetched": "2025-12-31T23:22:34.640946+07:00"
+    },
+    {
+      "id": "78fe1b6b1e35d5b4c46b4224671e932f",
+      "title": "Nga tặng tranh chân dung cho em gái ông Kim Jong-un",
+      "link": "https://vnexpress.net/nga-tang-tranh-chan-dung-cho-em-gai-ong-kim-jong-un-5000749.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao Nga tặng bà Kim Yo-jong, em gái lãnh đạo Triều Tiên Kim Jong-un, bức chân dung như món quà năm mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T15:45:31+07:00",
+      "fetched": "2025-12-31T23:22:40.416313+07:00"
+    },
+    {
       "id": "9fdde54cd3d02e21e0bd238fa7b08c8a",
       "title": "VNG bất ngờ lùi lịch làm việc, Ủy ban Cạnh tranh đề nghị Zalo làm ngay 3 việc",
       "link": "https://tuoitre.vn/vng-bat-ngo-lui-lich-lam-viec-uy-ban-canh-tranh-de-nghi-zalo-lam-ngay-3-viec-20251231122803048.htm",
@@ -473,6 +663,116 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T15:26:08.434587+07:00"
     },
     {
+      "id": "d909f283a8eab150543f24b5d5fb3b79",
+      "title": "Người dân đổ về trung tâm TP.HCM, chờ countdown và pháo hoa chào năm mới 2026",
+      "link": "https://thanhnien.vn/nguoi-dan-do-ve-trung-tam-tphcm-cho-countdown-va-phao-hoa-chao-nam-moi-2026-185251231221542979.htm",
+      "summary": "Chiều và tối 31.12, các tuyến phố trung tâm TP.HCM đông dần khi người dân đổ về khu vực phố đi bộ Nguyễn Huệ, chờ xem chương trình countdown và pháo hoa, chuẩn bị đón thời khắc bước sang năm mới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:25:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800238+07:00"
+    },
+    {
+      "id": "52624285a2836766cb3f32950b35a376",
+      "title": "Mua bán dữ liệu cá nhân sẽ bị phạt gấp 10 lần doanh thu từ 2026",
+      "link": "https://vnexpress.net/mua-ban-du-lieu-ca-nhan-se-bi-phat-gap-10-lan-doanh-thu-tu-2026-5000744.html",
+      "summary": "Luật Bảo vệ dữ liệu cá nhân, có hiệu lực từ 1/1/2026, quy định mức phạt đến ba tỷ đồng cho vi phạm hành chính, riêng hành vi mua bán dữ liệu trái phép bị phạt gấp 10 lần số tiền thu lợi bất chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:15:19+07:00",
+      "fetched": "2025-12-31T23:22:34.641133+07:00"
+    },
+    {
+      "id": "52624285a2836766cb3f32950b35a376",
+      "title": "Mua bán dữ liệu cá nhân sẽ bị phạt gấp 10 lần doanh thu từ 2026",
+      "link": "https://vnexpress.net/mua-ban-du-lieu-ca-nhan-se-bi-phat-gap-10-lan-doanh-thu-tu-2026-5000744.html",
+      "summary": "Luật Bảo vệ dữ liệu cá nhân, có hiệu lực từ 1/1/2026, quy định mức phạt đến ba tỷ đồng cho vi phạm hành chính, riêng hành vi mua bán dữ liệu trái phép bị phạt gấp 10 lần số tiền thu lợi bất chính.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T15:15:19+07:00",
+      "fetched": "2025-12-31T23:22:44.790661+07:00"
+    },
+    {
+      "id": "2d9833ffcafc56f8699db5d8d7331d23",
+      "title": "Công an TP.HCM triệt phá đường dây đánh bạc trên trang Bong88.com, khởi tố 24 người",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-danh-bac-tren-trang-bong88com-khoi-to-24-nguoi-185251231215549257.htm",
+      "summary": "Thực hiện chỉ đạo của Ban Giám đốc Công an TP.HCM, Phòng Cảnh sát hình sự đã triệt phá đường dây đánh bạc qua mạng trên trang Bong88.com, qua đó khởi tố 24 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:10:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800394+07:00"
+    },
+    {
+      "id": "2ad58cfd2b530ba6f1e0c35f536689a4",
+      "title": "Giới trẻ cuồng nhiệt cùng âm nhạc đón 2026 trên phố Nguyễn Huệ, Hồ Gươm",
+      "link": "https://vnexpress.net/gioi-tre-cuong-nhiet-cung-am-nhac-don-2026-tren-pho-nguyen-hue-ho-guom-5000742.html",
+      "summary": "Biển người tập trung tại trung tâm Hà Nội và TP HCM, hòa cùng lễ hội countdown sôi động, chờ pháo hoa chào năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:05:38+07:00",
+      "fetched": "2025-12-31T23:22:34.641312+07:00"
+    },
+    {
+      "id": "a25010f255cc9c3f5193009c4d049552",
+      "title": "Biển người xuống đường đón năm 2026",
+      "link": "https://vnexpress.net/bien-nguoi-xuong-duong-don-nam-2026-5000699.html",
+      "summary": "Hàng nghìn người dân, du khách đổ về trung tâm Hà Nội, TP HCM chờ xem countdown, pháo hoa đón năm mới, tối 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:03:06+07:00",
+      "fetched": "2025-12-31T23:22:34.641485+07:00"
+    },
+    {
+      "id": "cd3fc4055e1ddaf1dc304d80161a7901",
+      "title": "Generali Việt Nam chú trọng chất lượng đội ngũ tư vấn viên",
+      "link": "https://vnexpress.net/generali-viet-nam-chu-trong-chat-luong-doi-ngu-tu-van-vien-5000725.html",
+      "summary": "Generali Việt Nam ưu tiên phát triển đội ngũ tư vấn viên, mở nhiều lớp đào tạo chuyên môn và kỹ năng, đảm bảo chất lượng và đáp ứng nhu cầu khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:00:00+07:00",
+      "fetched": "2025-12-31T23:22:34.641642+07:00"
+    },
+    {
+      "id": "e17dc64f697c6b9ff9ea6382ed6920c5",
+      "title": "Giao thừa 2026: Mạng xã hội ngập tràn lời chúc năm mới, mong bình an và hạnh phúc",
+      "link": "https://thanhnien.vn/giao-thua-2026-mang-xa-hoi-ngap-tran-loi-chuc-nam-moi-mong-binh-an-va-hanh-phuc-18525123117233804.htm",
+      "summary": "Tối 31.12.2025, trước thời khắc giao thừa 2026, mạng xã hội rộn ràng những bài đăng, hình ảnh chúc mừng năm mới, gửi gắm mong ước bình an, hạnh phúc cho đến mọi người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T15:00:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800547+07:00"
+    },
+    {
+      "id": "5987882475236bc2c380dc609b1611fe",
+      "title": "7 nghiên cứu giáo dục nổi bật năm 2025",
+      "link": "https://vnexpress.net/7-nghien-cuu-giao-duc-noi-bat-nam-2025-4993894.html",
+      "summary": "Khi AI và công nghệ số bủa vây lớp học, những nghiên cứu đáng chú ý năm 2025 chỉ ra: bút chì, giấy nháp và những giờ ra chơi là chìa khóa để giáo dục hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:55:48+07:00",
+      "fetched": "2025-12-31T23:22:34.641817+07:00"
+    },
+    {
+      "id": "0fdc4e216fab9a4013ab3fda2337c020",
+      "title": "Dòng người ken đặc rời TP.HCM về quê nghỉ Tết Dương lịch",
+      "link": "https://thanhnien.vn/dong-nguoi-ken-dac-roi-tphcm-ve-que-nghi-tet-duong-lich-185251231211757741.htm",
+      "summary": "Hàng nghìn người từ TP.HCM ùn ứ tại cửa ngõ phía tây về quê nghỉ Tết Dương lịch 2026. Lực lượng CSGT vất vả điều tiết phân luồng giao thông",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:39:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800700+07:00"
+    },
+    {
+      "id": "1c487a1e62675762b2e27ab832154739",
+      "title": "Thế giới chào đón năm 2026",
+      "link": "https://thanhnien.vn/the-gioi-chao-don-nam-2026-185251231211728628.htm",
+      "summary": "Sydney của Úc đã chào đón năm 2026 bằng màn bắn pháo hoa nổi tiếng, được tổ chức trong bối cảnh lực lượng cảnh sát tăng cường hiện diện an ninh sau vụ thảm sát ở bãi biển Bondi của thành phố cách đây vài tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:36:00+07:00",
+      "fetched": "2025-12-31T23:22:37.800872+07:00"
+    },
+    {
       "id": "708efce9565f201a4935b429aa18bb1a",
       "title": "Khách Tây đón giao thừa 2026 tại TP.HCM: Bất ngờ vì không khí náo nhiệt",
       "link": "https://thanhnien.vn/khach-tay-don-giao-thua-2026-tai-tphcm-bat-ngo-vi-khong-khi-nao-nhiet-185251231204147602.htm",
@@ -481,6 +781,56 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T14:17:00+07:00",
       "fetched": "2025-12-31T21:17:51.544628+07:00"
+    },
+    {
+      "id": "78282f04d434deae87fd00fefff960fd",
+      "title": "Xuất hiện ảnh 'bệ phóng điện từ gắn trên xe tải' của Trung Quốc",
+      "link": "https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html",
+      "summary": "Loạt xe tải mang thiết bị được cho là bệ phóng điện từ cùng nguyên mẫu hoặc mô hình UAV xuất hiện tại nhà máy đóng tàu ở Thượng Hải, Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:07:21+07:00",
+      "fetched": "2025-12-31T23:22:34.641981+07:00"
+    },
+    {
+      "id": "78282f04d434deae87fd00fefff960fd",
+      "title": "Xuất hiện ảnh 'bệ phóng điện từ gắn trên xe tải' của Trung Quốc",
+      "link": "https://vnexpress.net/xuat-hien-anh-be-phong-dien-tu-gan-tren-xe-tai-cua-trung-quoc-5000637.html",
+      "summary": "Loạt xe tải mang thiết bị được cho là bệ phóng điện từ cùng nguyên mẫu hoặc mô hình UAV xuất hiện tại nhà máy đóng tàu ở Thượng Hải, Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T14:07:21+07:00",
+      "fetched": "2025-12-31T23:22:40.416493+07:00"
+    },
+    {
+      "id": "f61fecb5de0a9bbb8c4cb142fccb6ff9",
+      "title": "Tôi hạnh phúc với lựa chọn không cưới và làm mẹ đơn thân",
+      "link": "https://vnexpress.net/me-don-than-toi-hanh-phuc-voi-lua-chon-khong-cuoi-va-lam-me-don-than-5000600.html",
+      "summary": "Tôi tin rằng mình đủ sức lao động, đủ bản lĩnh để nuôi con bằng chính khả năng của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:00:00+07:00",
+      "fetched": "2025-12-31T23:22:34.642133+07:00"
+    },
+    {
+      "id": "ea18a9fc79dbac41898aecb1865ea2cd",
+      "title": "Lý do mì soba hay được ăn vào giao thừa ở Nhật Bản",
+      "link": "https://vnexpress.net/ly-do-mi-soba-hay-duoc-an-vao-giao-thua-o-nhat-ban-4999672.html",
+      "summary": "Mì soba có thể dùng nóng hoặc lạnh tùy khẩu vị vùng miền, và điều quan trọng nhất là phải ăn hết bát trước khoảnh khắc giao thừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:00:00+07:00",
+      "fetched": "2025-12-31T23:22:34.642289+07:00"
+    },
+    {
+      "id": "d080b548ab2c3d7090d0cc6d8d89fd49",
+      "title": "Giải pháp bảo hiểm sức khỏe cho cả gia đình từ Generali",
+      "link": "https://vnexpress.net/giai-phap-bao-hiem-suc-khoe-cho-ca-gia-dinh-tu-generali-5000718.html",
+      "summary": "Generali Việt Nam phát triển các sản phẩm bảo hiểm sức khỏe hướng đến bảo vệ toàn diện cho cả gia đình, giúp chủ động ứng phó rủi ro và giảm gánh nặng tài chính khi ốm đau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T14:00:00+07:00",
+      "fetched": "2025-12-31T23:22:34.642445+07:00"
     },
     {
       "id": "2cdcb858426075014e8a5473d2a780ac",
@@ -501,6 +851,16 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T13:52:00+07:00",
       "fetched": "2025-12-31T21:17:51.544958+07:00"
+    },
+    {
+      "id": "f04a0d1da3c3dfbe4e519ffcede5039f",
+      "title": "Lợi ích của chế độ ăn Địa Trung Hải",
+      "link": "https://vnexpress.net/loi-ich-cua-che-do-an-dia-trung-hai-5000689.html",
+      "summary": "Chế độ ăn Địa Trung Hải ưu tiên rau củ, chất béo lành mạnh như dầu ô liu, kết hợp với dầu gạo lứt, tốt cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T13:45:00+07:00",
+      "fetched": "2025-12-31T23:22:34.642606+07:00"
     },
     {
       "id": "60cf9bb78910017e97b95f8448f8766e",
