@@ -1,6 +1,6 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T01:26:46.771699+07:00",
+  "lastUpdated": "2026-01-01T03:19:39.494788+07:00",
   "articles": [
     {
       "id": "2d9c7c991446331a0a15790e70bfdcca",
@@ -151,6 +151,46 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T01:26:39.305488+07:00",
       "fetched": "2026-01-01T01:26:39.305673+07:00"
+    },
+    {
+      "id": "ec3e3b54c35ba26d5a07c29122621126",
+      "title": "‘Mồi lửa’ cho sự phát triển bền vững",
+      "link": "https://thanhnien.vn/moi-lua-cho-su-phat-trien-ben-vung-185251231222056088.htm",
+      "summary": "Qua 3 mùa giải, giải bóng đá Thanh Niên sinh viên VN (TNSV) đã trở thành biểu tượng mới của tinh thần rèn luyện thể chất và sự chuyên nghiệp trong thể thao học đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T20:16:00+07:00",
+      "fetched": "2026-01-01T03:19:28.333322+07:00"
+    },
+    {
+      "id": "b9337d33ecf910a6b6a953fb9c3fffc2",
+      "title": "Dựng nhà rường trái phép ở lăng mộ hoàng thái hậu Từ Dụ",
+      "link": "https://vnexpress.net/dung-nha-ruong-trai-phep-o-lang-mo-hoang-thai-hau-tu-du-5000682.html",
+      "summary": "Một nhà rường được xây dựng trái phép ngay trên nền móng chân táng của nhà huỳnh ốc, phía trước bửu thành lăng mộ Hoàng thái hậu Từ Dụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:00:00+07:00",
+      "fetched": "2026-01-01T03:19:24.910647+07:00"
+    },
+    {
+      "id": "f7938b732fae89224dc5818a4635674c",
+      "title": "Pháo hoa rực sáng mừng năm mới",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-mung-nam-moi-5000704.html",
+      "summary": "Từ 23h45, pháo hoa được bắn lên bầu trời Hà Nội, TP HCM và nhiều tỉnh thành đón chào năm 2026, trong tiếng reo hò của người dân, du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T18:40:22+07:00",
+      "fetched": "2026-01-01T03:19:24.910832+07:00"
+    },
+    {
+      "id": "4923f98bad8ad3ac8f07c2fd42b60331",
+      "title": "Xuyên đêm cuối năm ghép tim cứu sống bé trai",
+      "link": "https://vnexpress.net/xuyen-dem-cuoi-nam-ghep-tim-cuu-song-be-trai-5000757.html",
+      "summary": "Bé trai 15 tuổi suy tim giai đoạn cuối, đã ngưng tim trên bàn mổ trong khi chờ ghép trái tim từ một người hiến chết não, may mắn được các bác sĩ cứu sống thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T18:33:38+07:00",
+      "fetched": "2026-01-01T03:19:24.911021+07:00"
     },
     {
       "id": "65effa870ba6be9d08f2a2c4a4cf51e9",
