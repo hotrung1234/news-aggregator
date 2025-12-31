@@ -1,7 +1,157 @@
 window.newsData_2025_12_31 = {
   "date": "2025-12-31",
-  "lastUpdated": "2025-12-31T17:19:36.732131+07:00",
+  "lastUpdated": "2025-12-31T19:37:58.665112+07:00",
   "articles": [
+    {
+      "id": "8734c3ab075b252014adee334b1ca1aa",
+      "title": "Từ ngày 1-1-2026, bán dữ liệu cá nhân sẽ bị phạt gấp 10 lần số tiền thu được",
+      "link": "https://tuoitre.vn/tu-ngay-1-1-2026-ban-du-lieu-ca-nhan-se-bi-phat-gap-10-lan-so-tien-thu-duoc-20251231182327257.htm",
+      "summary": "Luật Bảo vệ dữ liệu cá nhân sẽ có mức phạt tiền tối đa trong xử phạt vi phạm hành chính đối với hành vi mua bán dữ liệu cá nhân là 10 lần khoản thu có được từ hành vi vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445821+07:00",
+      "fetched": "2025-12-31T19:37:52.445936+07:00"
+    },
+    {
+      "id": "973f7b4ad982f3c99ffa522f7ff7676e",
+      "title": "Xe SUV rẽ ngập ngừng giữa đường ở Ấn Độ, xe tải đánh lái chệnh choạng gây ra thảm kịch",
+      "link": "https://tuoitre.vn/xe-suv-re-ngap-ngung-giua-duong-o-an-do-xe-tai-danh-lai-chech-choang-gay-ra-tham-kich-20251231155336097.htm",
+      "summary": "Chiếc SUV màu trắng di chuyển chậm từ làn trong bên trái sang làn phải, đúng thời điểm phía sau cùng chiều có một xe tải chở đầy gỗ vụn đang lao tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445695+07:00",
+      "fetched": "2025-12-31T19:37:52.445810+07:00"
+    },
+    {
+      "id": "6d8f71167832217b53b019f053beeaa8",
+      "title": "Yamaha Music Vietnam mở rộng trải nghiệm âm nhạc công chúng",
+      "link": "https://tuoitre.vn/yamaha-music-vietnam-mo-rong-trai-nghiem-am-nhac-cong-chung-20251231161225728.htm",
+      "summary": "Bằng việc tài trợ cho các sự kiện nghệ thuật, thương hiệu này góp phần đưa âm nhạc hàn lâm đến gần công chúng trẻ và khơi dậy tình yêu âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445568+07:00",
+      "fetched": "2025-12-31T19:37:52.445684+07:00"
+    },
+    {
+      "id": "007c80a140d3ba7a563906600dc1e993",
+      "title": "Ca ghép gan xuyên Việt trong ngày cuối cùng của năm 2025",
+      "link": "https://tuoitre.vn/ca-ghep-gan-xuyen-viet-trong-ngay-cuoi-cung-cua-nam-2025-2025123118521763.htm",
+      "summary": "Rạng sáng 31-12, trong những giờ phút cuối cùng của năm 2025, các bác sĩ Bệnh viện Trung ương Quân đội 108 đã thực hiện thành công ca lấy và ghép gan xuyên Việt từ người hiến chết não, nối dài sự sống cho một bệnh nhân nữ mắc bệnh gan giai đoạn nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445437+07:00",
+      "fetched": "2025-12-31T19:37:52.445557+07:00"
+    },
+    {
+      "id": "41ab7f5236d1b71d15031150135ad536",
+      "title": "Năm 2025, TP.HCM tháo gỡ cho 712 công trình, dự án tồn đọng",
+      "link": "https://tuoitre.vn/nam-2025-tp-hcm-thao-go-cho-712-cong-trinh-du-an-ton-dong-20251231181142058.htm",
+      "summary": "Năm 2025, TP.HCM phối hợp với các cơ quan Trung ương tháo gỡ 712/838 công trình, khu đất, dự án tồn đọng (đạt tỉ lệ 85%), với tổng mức đầu tư trên 131.403 tỉ đồng, giúp khơi thông nguồn lực, thúc đẩy phát triển kinh tế - xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445299+07:00",
+      "fetched": "2025-12-31T19:37:52.445425+07:00"
+    },
+    {
+      "id": "2c79f02dc1804f5d0dd5580165ffbe1a",
+      "title": "Thủ tướng: 'Xây dựng đội ngũ cán bộ đắm đuối với ngành nông nghiệp, chia sẻ với nông dân'",
+      "link": "https://tuoitre.vn/thu-tuong-xay-dung-doi-ngu-can-bo-dam-duoi-voi-nganh-nong-nghiep-chia-se-voi-nong-dan-20251231184504775.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị Bộ Nông nghiệp và Môi trường xây dựng đội ngũ cán bộ đam mê, đắm đuối với ngành nông nghiệp, say sưa với công việc, cảm thông, chia sẻ với nông dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445153+07:00",
+      "fetched": "2025-12-31T19:37:52.445287+07:00"
+    },
+    {
+      "id": "ec4b9d02d16ae62bced05046a64e3f70",
+      "title": "Thế giới cùng bước sang năm mới 2026, pháo hoa bắt đầu ngợp trời",
+      "link": "https://tuoitre.vn/the-gioi-cung-buoc-sang-nam-moi-2026-phao-hoa-bat-dau-ngop-troi-20251231153558054.htm",
+      "summary": "Bữa tiệc rực rỡ màu sắc đón năm mới 2026 đang quét từ Đông sang Tây. Pháo hoa đã bắt đầu thắp sáng Nhà hát Opera Sydney và cầu cảng Sydney ở Úc khoảng ba giờ trước lúc nửa đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.445025+07:00",
+      "fetched": "2025-12-31T19:37:52.445142+07:00"
+    },
+    {
+      "id": "14689895af99151718eecf761b3f1e6a",
+      "title": "Dai-ichi Life Việt Nam xếp hạng 50 trong 'Top 500 Doanh nghiệp tạo giá trị hàng đầu Việt Nam' 2025",
+      "link": "https://tuoitre.vn/dai-ichi-life-viet-nam-xep-hang-50-trong-top-500-doanh-nghiep-tao-gia-tri-hang-dau-viet-nam-2025-20251231183135773.htm",
+      "summary": "Dai-ichi Life Việt Nam vừa được vinh danh vị trí 50 trong Bảng xếp hạng '500 Doanh nghiệp tạo giá trị hàng đầu Việt Nam năm 2025' (VALUE500 2025), tăng thứ bậc so với năm liền trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444892+07:00",
+      "fetched": "2025-12-31T19:37:52.445013+07:00"
+    },
+    {
+      "id": "a8b58c7957a9901cc612d6b93824922a",
+      "title": "Ông Nguyễn Đức Thụy rút vốn khỏi LPBank",
+      "link": "https://tuoitre.vn/ong-nguyen-duc-thuy-rut-von-khoi-lpbank-20251231185626795.htm",
+      "summary": "Ông Nguyễn Đức Thụy không còn là cổ đông sở hữu từ 1% vốn điều lệ trở lên của LPBank, sau khi về Sacombank làm Tổng giám đốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444761+07:00",
+      "fetched": "2025-12-31T19:37:52.444880+07:00"
+    },
+    {
+      "id": "13fb7bdbb3b8b33f8f37b38d7c36bf8e",
+      "title": "Châu Á 2025: Xung đột, thiên tai và những cú sốc làm rung chuyển khu vực",
+      "link": "https://tuoitre.vn/chau-a-2025-xung-dot-thien-tai-va-nhung-cu-soc-lam-rung-chuyen-khu-vuc-20251231183528642.htm",
+      "summary": "Năm 2025 khép lại với hàng loạt biến động tại châu Á, từ xung đột an ninh, thiên tai khốc liệt đến những sự kiện gây chấn động dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444627+07:00",
+      "fetched": "2025-12-31T19:37:52.444749+07:00"
+    },
+    {
+      "id": "387bd00fdeee93dc62553278297cbb48",
+      "title": "Mở ‘nút cổ chai’ cầu Gianh, cầu Quán Hàu, người về quê ăn Tết hết lo tắc đường",
+      "link": "https://tuoitre.vn/mo-nut-co-chai-cau-gianh-cau-quan-hau-nguoi-ve-que-an-tet-het-lo-tac-duong-2025123118394382.htm",
+      "summary": "Dự án mở rộng cầu Gianh, cầu Quán Hàu trên quốc lộ 1 đoạn qua Quảng Trị chính thức thông xe kỹ thuật. Người dân làm ăn xa về quê ăn Tết qua tỉnh này đã không còn phải lo tắc đường như mọi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444482+07:00",
+      "fetched": "2025-12-31T19:37:52.444612+07:00"
+    },
+    {
+      "id": "a56f7326c6b5cae80b8625379a71a6cc",
+      "title": "Việt Nam nên làm gì để duy trì tốc độ tăng trưởng hai con số?",
+      "link": "https://tuoitre.vn/viet-nam-nen-lam-gi-de-duy-tri-toc-do-tang-truong-hai-con-so-20251231191418126.htm",
+      "summary": "Ổn định kinh tế vĩ mô chính là “vũ khí” quan trọng nhất để củng cố niềm tin của nhà đầu tư, kích thích tiêu dùng trong nước và bảo đảm nền tảng cho sự phát triển dài hạn cũng như mục tiêu tăng trưởng hai con số trong giai đoạn tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444344+07:00",
+      "fetched": "2025-12-31T19:37:52.444470+07:00"
+    },
+    {
+      "id": "6adcb8467ff917caba90dca46942919d",
+      "title": "Dự báo 2026 quá đồng thuận, nhà đầu tư chứng khoán lo gì?",
+      "link": "https://tuoitre.vn/du-bao-2026-qua-dong-thuan-nha-dau-tu-chung-khoan-lo-gi-20251231183419885.htm",
+      "summary": "Hàng loạt các báo cáo của tổ chức phân tích trong nước đã đưa những dự báo tích cực cho năm 2026. Tuy nhiên, đây cũng là câu hỏi với không ít nhà đầu tư: Khi thị trường cùng nhìn về một phía, có cần cảnh giác hơn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444186+07:00",
+      "fetched": "2025-12-31T19:37:52.444331+07:00"
+    },
+    {
+      "id": "b18d1c504d629ecb8a3665754603495c",
+      "title": "WESET đồng hành Đoàn Thanh niên Bộ GD&ĐT nâng cao năng lực ngoại ngữ",
+      "link": "https://tuoitre.vn/weset-dong-hanh-doan-thanh-nien-bo-gd-dt-nang-cao-nang-luc-ngoai-ngu-20251231134807503.htm",
+      "summary": "WESET English Center ký kết với Đoàn Thanh niên Bộ Giáo dục và Đào tạo và các trường đại học, cao đẳng trên cả nước nhằm góp phần nâng cao ngoại ngữ cho các bạn trẻ. Hành trình ấy được tiếp nối trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.444041+07:00",
+      "fetched": "2025-12-31T19:37:52.444174+07:00"
+    },
+    {
+      "id": "28b8b39e4fdcea6b42261e4c53e020c8",
+      "title": "AkzoNobel tăng cường hoạt động chống sơn giả",
+      "link": "https://tuoitre.vn/akzonobel-tang-cuong-hoat-dong-chong-son-gia-20251231172153495.htm",
+      "summary": "Thời gian qua, thị trường ghi nhận nhiều thông tin về việc người tiêu dùng và các chủ đầu tư chịu thiệt hại nặng nề do sử dụng nhầm sơn giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T19:37:52.443807+07:00",
+      "fetched": "2025-12-31T19:37:52.444025+07:00"
+    },
     {
       "id": "e5b86f3dd756591a266adcdb648cbd5c",
       "title": "Giá xăng lao dốc liên tục trong hai tháng về dưới mức 19.000 đồng/lít",
@@ -313,6 +463,216 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T13:29:02.412447+07:00"
     },
     {
+      "id": "c93b4a8a18e5dd1daba0f71d3ebd05ac",
+      "title": "Đầu năm về làng du lịch mới toanh ở miền Tây 'thắt lá, bắt vịt'",
+      "link": "https://thanhnien.vn/dau-nam-ve-lang-du-lich-moi-toanh-o-mien-tay-that-la-bat-vit-185251231152029275.htm",
+      "summary": "Làng du lịch cộng đồng Nhị Hòa vừa chính thức ra mắt vào những ngày cuối năm 2025, mang đến cho du khách một điểm hẹn mới ở miền Tây Nam bộ với những trải nghiệm dân dã như thắt lá tạo hình, bịt mắt bắt vịt, nhặt trứng… đúng chất làng quê sông nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:35:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190115+07:00"
+    },
+    {
+      "id": "6b509c05bc0237cb30cb158949bbe1ef",
+      "title": "Những câu chúc tiếng Anh trẻ trung, ý nghĩa mừng năm mới 2026",
+      "link": "https://thanhnien.vn/nhung-cau-chuc-tieng-anh-tre-trung-y-nghia-mung-nam-moi-2026-185251231185912377.htm",
+      "summary": "Ngoài cụm 'happy new year', chuyên gia gợi ý lời chúc mừng năm mới 2026 và cách để viết, nói những thành ngữ tiếng Anh phổ biến về lòng quyết tâm khởi đầu tốt đẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:31:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190304+07:00"
+    },
+    {
+      "id": "790e55c2ddb2d18fdb02540ab4ed4157",
+      "title": "Khách Tây ra đường sớm chờ đón năm mới 2026 ở TP.HCM: 'Ở đây thật dễ thương'",
+      "link": "https://thanhnien.vn/khach-tay-ra-duong-som-cho-don-nam-moi-2026-o-tphcm-o-day-that-de-thuong-185251231190715377.htm",
+      "summary": "Chiều 31.12.2025, không chờ đến giờ cao điểm, nhiều người nước ngoài và du khách đã xuống phố từ sớm, hòa vào không khí nhộn nhịp ở trung tâm TP.HCM, tận hưởng thời tiết dễ chịu và chờ đón khoảnh khắc chuyển giao sang năm mới 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:30:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190473+07:00"
+    },
+    {
+      "id": "5fdf49fe09b9a2928036f0cf6ba70400",
+      "title": "Vietravel sau 30 năm: Từ dấu ấn nhận diện đến hành trình phát triển mới",
+      "link": "https://thanhnien.vn/vietravel-sau-30-nam-tu-dau-an-nhan-dien-den-hanh-trinh-phat-trien-moi-185251231164926279.htm",
+      "summary": "Biểu tượng Mặt Trời xuất hiện dày đặc trên các bảng quảng cáo ngoài trời, cho thấy bước điều chỉnh nhận diện của Vietravel ở cột mốc 30 năm phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:30:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190628+07:00"
+    },
+    {
+      "id": "31d066d82210031c944ff283738638e3",
+      "title": "Ông Dương Anh Đức: Tạo môi trường để báo chí phát huy năng lực",
+      "link": "https://thanhnien.vn/ong-duong-anh-duc-tao-moi-truong-de-bao-chi-phat-huy-nang-luc-185251231172901352.htm",
+      "summary": "Trưởng ban Tuyên giáo và Dân vận Thành ủy TP.HCM đề nghị triển khai truyền thông công khai, minh bạch, hiệu quả, tạo điều kiện để báo chí phát huy năng lực, đóng góp cho TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:27:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190781+07:00"
+    },
+    {
+      "id": "9fe39e2b9d83d3a470ad9335a09d9c36",
+      "title": "Xuất hiện người trúng độc đắc Vietlott ngày cuối cùng năm 2025",
+      "link": "https://thanhnien.vn/xuat-hien-nguoi-trung-doc-dac-vietlott-ngay-cuoi-cung-nam-2025-185251231185813952.htm",
+      "summary": "Tối 31.12.2025, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, ghi nhận một người trúng giải độc đắc với số tiền hơn 17 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:23:00+07:00",
+      "fetched": "2025-12-31T19:37:51.190932+07:00"
+    },
+    {
+      "id": "780b0b2832709354c7ab40d33ade825b",
+      "title": "'Biển người' đang ở trung tâm TP.HCM chờ ngắm pháo hoa giao thừa 2026",
+      "link": "https://thanhnien.vn/bien-nguoi-dang-o-trung-tam-tphcm-cho-ngam-phao-hoa-giao-thua-2026-185251231181427082.htm",
+      "summary": "Tối 31.12.2025, đông nghẹt người đổ dồn về trung tâm TP.HCM tham gia sự kiện countdown, chờ ngắm pháo hoa đêm giao thừa 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:20:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191088+07:00"
+    },
+    {
+      "id": "74279d753805392be4561802c24c79c7",
+      "title": "Những 'hiện tượng lạ' trên bầu trời Việt Nam từng gây xôn xao năm 2025",
+      "link": "https://thanhnien.vn/nhung-hien-tuong-la-tren-bau-troi-viet-nam-tung-gay-xon-xao-nam-2025-185251225095500754.htm",
+      "summary": "Năm 2025, nhiều 'hiện tượng lạ'” xuất hiện trên bầu trời Việt Nam được người dân ghi lại, từ vệt sáng, cột ánh sáng đến cầu vồng đặc biệt, từng gây xôn xao mạng xã hội. Khoa học lý giải thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:19:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191248+07:00"
+    },
+    {
+      "id": "2b07e4c3ba50f69dae586601dc30155d",
+      "title": "Nhìn lại 2025: Bom đạn xung đột vẫn rền vang",
+      "link": "https://thanhnien.vn/nhin-lai-2025-bom-dan-xung-dot-van-ren-vang-185251230115811359.htm",
+      "summary": "Trong khi hai cuộc xung đột tại Ukraine và Dải Gaza tiếp tục phủ sóng các tít báo, những điểm nóng khác cũng làm rung chuyển thế giới và gia tăng căng thẳng địa chính trị trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:15:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191419+07:00"
+    },
+    {
+      "id": "026ca7fde27907cc984fc365a3d644a3",
+      "title": "Đổi ngoại tệ ở đâu để không bị phạt 100 triệu đồng?",
+      "link": "https://thanhnien.vn/doi-ngoai-te-o-dau-de-khong-bi-phat-100-trieu-dong-185251231191306661.htm",
+      "summary": "Theo quy định về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng, hành vi mua bán ngoại tệ giữa cá nhân với cá nhân, không thông qua tổ chức được phép thu đổi ngoại tệ, có thể bị xử phạt lên đến 100 triệu đồng, đồng thời tịch thu toàn bộ số tiền vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:13:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191569+07:00"
+    },
+    {
+      "id": "ce04ac41f8941fb673faab8745f26e7f",
+      "title": "Bà Lâm Thị Phương Thanh giữ chức Thứ trưởng thường trực Bộ VH-TT-DL",
+      "link": "https://thanhnien.vn/ba-lam-thi-phuong-thanh-giu-chuc-thu-truong-thuong-truc-bo-vh-tt-dl-185251231185549811.htm",
+      "summary": "Chiều 31.12, Thứ trưởng Bộ Nội vụ Nguyễn Thị Hà đã công bố quyết định của Thủ tướng về việc tiếp nhận, bổ nhiệm bà Lâm Thị Phương Thanh giữ chức Thứ trưởng thường trực Bộ VH-TT-DL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:13:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191729+07:00"
+    },
+    {
+      "id": "8c100bb24d55ae76e719369727305b9b",
+      "title": "Thủ tướng Phạm Minh Chính: 'Nông nghiệp là trụ đỡ nền kinh tế, không thể xem nhẹ'",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-nong-nghiep-la-tru-do-nen-kinh-te-khong-the-xem-nhe-185251231165402232.htm",
+      "summary": "Việt Nam muốn trở thành nước phát triển, có thu nhập cao thì nông nghiệp tiếp tục là trụ đỡ của nền kinh tế, không thể xem nhẹ được và phải phát triển công nghiệp hóa trong nông nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:11:00+07:00",
+      "fetched": "2025-12-31T19:37:51.191880+07:00"
+    },
+    {
+      "id": "7bdfbce4ef253af71b1bbccd96c25ee5",
+      "title": "Từ 1.1.2026: Giá gas bất ngờ tăng gần 80.000 đồng/bình 50kg",
+      "link": "https://thanhnien.vn/tu-112026-gia-gas-bat-ngo-tang-gan-80000-dong-binh-50kg-185251231190649567.htm",
+      "summary": "Chiều 31.12, thông tin từ các doanh nghiệp kinh doanh gas khu vực miền Nam, từ 7 giờ sáng mai (1.1.2026), giá bán lẻ gas được điều chỉnh tăng đồng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:09:00+07:00",
+      "fetched": "2025-12-31T19:37:51.192032+07:00"
+    },
+    {
+      "id": "7e9e1f752bc95dc71fe7d7c8c39333ec",
+      "title": "Bệnh viện Ung bướu Cần Thơ có thêm cơ sở điều trị tại Phong Điền",
+      "link": "https://thanhnien.vn/benh-vien-ung-buou-can-tho-co-them-co-so-dieu-tri-tai-phong-dien-185251231185033887.htm",
+      "summary": "Bệnh viện Ung bướu Cần Thơ chính thức tiếp nhận cơ sở điều trị thứ 3 tại Phong Điền; đồng thời khánh thành khu khám bệnh theo yêu cầu và đưa vào vận hành hệ thống trang thiết bị hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T12:04:00+07:00",
+      "fetched": "2025-12-31T19:37:51.192192+07:00"
+    },
+    {
+      "id": "872794ae258d3ce465041cfd2d235759",
+      "title": "Nga - Ukraine tìm cách xoay chuyển ông Trump",
+      "link": "https://vnexpress.net/nga-ukraine-tim-cach-xoay-chuyen-ong-trump-5000344.html",
+      "summary": "Một cuộc đối đầu khác đang diễn ra bên ngoài chiến trường Ukraine, khi Moskva và Kiev cùng chạy đua để định hình quan điểm của Tổng thống Trump về cuộc xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T12:00:00+07:00",
+      "fetched": "2025-12-31T19:37:53.407014+07:00"
+    },
+    {
+      "id": "cc3c3ce4d24a1e7c1e11814c0149a875",
+      "title": "Chuyên gia Đào Trung Thành: 'Người Việt thích ứng nhanh với AI'",
+      "link": "https://vnexpress.net/chuyen-gia-dao-trung-thanh-nguoi-viet-thich-ung-nhanh-voi-ai-5000650.html",
+      "summary": "AI hiện diện sâu vào đời sống, sẽ phát huy hết tiềm năng nếu được phát triển, sử dụng có trách nhiệm với con người được đặt ở vai trò trung tâm, theo chuyên gia Đào Trung Thành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T12:00:00+07:00",
+      "fetched": "2025-12-31T19:37:57.712939+07:00"
+    },
+    {
+      "id": "c0165e8b8c141c5b35ec4e38bcb2895a",
+      "title": "Bảo vệ dữ liệu cá nhân: 'Đầy đủ, không ngoại lệ'",
+      "link": "https://thanhnien.vn/bao-ve-du-lieu-ca-nhan-day-du-khong-ngoai-le-18525123118045609.htm",
+      "summary": "Cơ quan thực thi pháp luật của Việt Nam sẽ tiến hành tất cả hoạt động để đảm bảo việc thực thi luật Bảo vệ dữ liệu cá nhân đầy đủ, công bằng, không ngoại trừ doanh nghiệp nước ngoài hay trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:53:00+07:00",
+      "fetched": "2025-12-31T19:37:51.192367+07:00"
+    },
+    {
+      "id": "9eaed15b832f61a247f6a123825f8cb9",
+      "title": "Cách chăm sóc áo quần đón năm mới",
+      "link": "https://vnexpress.net/cach-cham-soc-ao-quan-don-nam-moi-5000703.html",
+      "summary": "Tích hợp công nghệ tiên tiến, thiết kế tinh tế, bộ giặt - sấy Toshiba Japandi T37 giúp người dùng tiết kiệm thời gian, duy trì sự gọn gàng, tinh tươm trong giai đoạn chuyển giao năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:50:00+07:00",
+      "fetched": "2025-12-31T19:37:48.291518+07:00"
+    },
+    {
+      "id": "45aa4a8cd9f2a5455101395bcbd158e4",
+      "title": "Người dân khắp thế giới háo hức đón giao thừa",
+      "link": "https://vnexpress.net/nguoi-dan-khap-the-gioi-hao-huc-don-giao-thua-5000589.html",
+      "summary": "Tại Quảng trường Thời đại, New York, Mỹ, hàng nghìn người tập trung quanh Constellation Ball, quả cầu có kích thước lớn nhất lịch sử với đường kính 3,6 m để chờ đón giờ khắc chuyển giao năm cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:49:25+07:00",
+      "fetched": "2025-12-31T19:37:48.291700+07:00"
+    },
+    {
+      "id": "d3b1343195ec1f6cd931e3c9ea4473c8",
+      "title": "L10s Ultra Gen 3 với lực hút 25.000 Pa, giá 21 triệu đồng",
+      "link": "https://vnexpress.net/l10s-ultra-gen-3-voi-luc-hut-25-000-pa-gia-21-trieu-dong-5000315.html",
+      "summary": "L10s Ultra Gen 3 của Dreame được tăng lực hút lên 25.000 Pa mạnh nhất phân khúc, có chổi cạnh mở rộng và giẻ lau tự cấp ẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:45:02+07:00",
+      "fetched": "2025-12-31T19:37:48.291867+07:00"
+    },
+    {
+      "id": "d3b1343195ec1f6cd931e3c9ea4473c8",
+      "title": "L10s Ultra Gen 3 với lực hút 25.000 Pa, giá 21 triệu đồng",
+      "link": "https://vnexpress.net/l10s-ultra-gen-3-voi-luc-hut-25-000-pa-gia-21-trieu-dong-5000315.html",
+      "summary": "L10s Ultra Gen 3 của Dreame được tăng lực hút lên 25.000 Pa mạnh nhất phân khúc, có chổi cạnh mở rộng và giẻ lau tự cấp ẩm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T11:45:02+07:00",
+      "fetched": "2025-12-31T19:37:57.712113+07:00"
+    },
+    {
       "id": "0f195b8097d5f037f189c175ab99a7a7",
       "title": "Chủ tịch Hạ viện Mỹ quyên góp toàn bộ tiền lương làm từ thiện?",
       "link": "https://tuoitre.vn/chu-tich-ha-vien-my-quyen-gop-toan-bo-tien-luong-lam-tu-thien-20251231103354849.htm",
@@ -463,6 +823,146 @@ window.newsData_2025_12_31 = {
       "fetched": "2025-12-31T11:36:51.365833+07:00"
     },
     {
+      "id": "03980a986a761ca89177ff0780f28471",
+      "title": "Nơi nào người dân đánh nhau để đón năm mới bình an?",
+      "link": "https://vnexpress.net/noi-nao-nguoi-dan-danh-nhau-de-don-nam-moi-binh-an-4999728.html",
+      "summary": "Người dân trong một ngôi làng nhỏ trên dãy Andes háo hức tham gia lễ hội Takanakuy (lễ hội chiến đấu) với hy vọng xóa mọi hận thù năm cũ, đón năm mới bình an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:30:00+07:00",
+      "fetched": "2025-12-31T19:37:48.292030+07:00"
+    },
+    {
+      "id": "ab3dc8950f24f9e57592435214cb0159",
+      "title": "Các chính sách hỗ trợ bảo hiểm y tế tại TP HCM từ 2026",
+      "link": "https://vnexpress.net/cac-chinh-sach-ho-tro-bao-hiem-y-te-tai-tp-hcm-tu-2026-5000695.html",
+      "summary": "TP HCM sẽ triển khai chính sách hỗ trợ 100% bảo hiểm y tế cho nhiều nhóm dân cư từ 2026, bao phủ thêm người cao tuổi, trẻ em, hộ nghèo, người khuyết tật trên địa bàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:30:00+07:00",
+      "fetched": "2025-12-31T19:37:48.292196+07:00"
+    },
+    {
+      "id": "48d1da85795e6536946329667bc97be2",
+      "title": "Hồi sinh nhờ lá gan hiến tặng ngày cuối năm",
+      "link": "https://vnexpress.net/hoi-sinh-nho-la-gan-hien-tang-ngay-cuoi-nam-5000676.html",
+      "summary": "Người phụ nữ 43 tuổi, xơ gan mất bù do viêm gan tự miễn, thời gian sống tính theo ngày, được ghép lá gan từ người cho chết não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:25:55+07:00",
+      "fetched": "2025-12-31T19:37:48.292375+07:00"
+    },
+    {
+      "id": "c0771f87fe0c5d9170f65896859cd62f",
+      "title": "Việt Nam đăng cai tổ chức Hội nghị Bộ trưởng số ASEAN",
+      "link": "https://vnexpress.net/viet-nam-dang-cai-to-chuc-hoi-nghi-bo-truong-so-asean-5000673.html",
+      "summary": "Việt Nam sẽ đăng cai và chủ trì Hội nghị Bộ trưởng Số ASEAN (ASEAN Digital Ministers’ Meeting - ADGMIN) lần thứ sáu, diễn ra từ ngày 12 đến 16/1/2026 tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:16:42+07:00",
+      "fetched": "2025-12-31T19:37:48.292535+07:00"
+    },
+    {
+      "id": "c0771f87fe0c5d9170f65896859cd62f",
+      "title": "Việt Nam đăng cai tổ chức Hội nghị Bộ trưởng số ASEAN",
+      "link": "https://vnexpress.net/viet-nam-dang-cai-to-chuc-hoi-nghi-bo-truong-so-asean-5000673.html",
+      "summary": "Việt Nam sẽ đăng cai và chủ trì Hội nghị Bộ trưởng Số ASEAN (ASEAN Digital Ministers’ Meeting - ADGMIN) lần thứ sáu, diễn ra từ ngày 12 đến 16/1/2026 tại Hà Nội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-31T11:16:42+07:00",
+      "fetched": "2025-12-31T19:37:57.711790+07:00"
+    },
+    {
+      "id": "f8dfca96327f83647fe1dbe54a356b0c",
+      "title": "Dòng xe ùn ứ cửa ngõ Hà Nội, TP HCM trước kỳ nghỉ lễ 4 ngày",
+      "link": "https://vnexpress.net/dong-xe-un-u-cua-ngo-ha-noi-tp-hcm-truoc-ky-nghi-le-4-ngay-5000684.html",
+      "summary": "Kỳ nghỉ Tết Dương lịch dài ngày, nhiều người dân rời thành phố ngay sau giờ làm việc, các tuyến đường cửa ngõ Hà Nội, TP HCM ùn ứ, chiều 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:08:18+07:00",
+      "fetched": "2025-12-31T19:37:48.292699+07:00"
+    },
+    {
+      "id": "c7a789901c73be9d5498c91e3d49db62",
+      "title": "Không được mẹ yêu thương nhưng tôi lại gặp nhiều may mắn",
+      "link": "https://vnexpress.net/cha-me-thien-vi-khong-duoc-me-yeu-thuong-nhung-toi-lai-gap-nhieu-may-man-5000557.html",
+      "summary": "Ngày bé, trong mỗi bữa cơm trưa, anh được ăn một quả trứng, còn tôi thì không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:00:00+07:00",
+      "fetched": "2025-12-31T19:37:48.292856+07:00"
+    },
+    {
+      "id": "76700e547d79f5f6f6796a278928af27",
+      "title": "Bivina đồng hành người dân vùng duyên hải dịp cuối năm",
+      "link": "https://vnexpress.net/bivina-dong-hanh-nguoi-dan-vung-duyen-hai-dip-cuoi-nam-5000669.html",
+      "summary": "Bivina giới thiệu phiên bản Tết lấy cảm hứng từ đời sống ngư dân Nam Trung Bộ, gửi gắm lời chúc bình an, đầy ắp cá mỗi chuyến ra khơi như một cách đồng hành người dân nơi đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:00:00+07:00",
+      "fetched": "2025-12-31T19:37:48.293033+07:00"
+    },
+    {
+      "id": "e965cb10e3ebc87a29abe6c0a72b1e47",
+      "title": "Điều gì xảy ra khi phụ nữ thiếu canxi?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-phu-nu-thieu-canxi-5000578.html",
+      "summary": "Phụ nữ thiếu canxi dễ bị loãng xương, răng yếu, sức khỏe tim mạch giảm, cơ bắp yếu và mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:00:00+07:00",
+      "fetched": "2025-12-31T19:37:48.293191+07:00"
+    },
+    {
+      "id": "fc3421b0d33d40e4529eec1cc58518e0",
+      "title": "5 lưu ý khi súc miệng, họng bằng nước muối",
+      "link": "https://vnexpress.net/5-luu-y-khi-suc-mieng-hong-bang-nuoc-muoi-5000577.html",
+      "summary": "Điều chỉnh độ mặn của nước muối, không nuốt nước súc miệng, kết hợp đánh răng và dùng chỉ nha khoa để loại bỏ vi khuẩn, giảm đau họng và nghẹt mũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T11:00:00+07:00",
+      "fetched": "2025-12-31T19:37:48.293369+07:00"
+    },
+    {
+      "id": "a243a7d1e72f094e777c7e00bf6bf6c3",
+      "title": "4 sĩ quan nhận nhiệm vụ gìn giữ hòa bình Liên Hợp Quốc",
+      "link": "https://vnexpress.net/4-si-quan-nhan-nhiem-vu-gin-giu-hoa-binh-lien-hop-quoc-5000646.html",
+      "summary": "Trong số 4 sĩ quan nhận nhiệm vụ có một người làm việc tại Văn phòng Liên lạc Liên Hợp Quốc ở Bỉ, ba người được triển khai tới Phái bộ Cộng hòa Trung Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T10:56:38+07:00",
+      "fetched": "2025-12-31T19:37:48.293534+07:00"
+    },
+    {
+      "id": "445fbea998ba541619da39a3b9150d90",
+      "title": "'Tính sinh kế cho người bị thu hồi đất thay vì chỉ đền bù bằng tiền'",
+      "link": "https://vnexpress.net/tinh-sinh-ke-cho-nguoi-bi-thu-hoi-dat-thay-vi-chi-den-bu-bang-tien-5000422.html",
+      "summary": "Đền bù không chỉ là bồi thường tài sản (tiền mặt), mà là tìm cách chuyển đổi sinh kế cho những người có đất bị thu hồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T10:51:52+07:00",
+      "fetched": "2025-12-31T19:37:48.293690+07:00"
+    },
+    {
+      "id": "bc294cbe7671fff423e8bf50746850d1",
+      "title": "Lê Trung Khoa bị tuyên phạt 17 năm tù",
+      "link": "https://vnexpress.net/le-trung-khoa-bi-tuyen-phat-17-nam-tu-5000683.html",
+      "summary": "Lê Trung Khoa bị tuyên 17 năm tù do đăng lên mạng xã hội nhiều nội dung \"bịa đặt, xuyên tạc, phỉ báng chính quyền\", nhằm mục đích chống Nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T10:51:15+07:00",
+      "fetched": "2025-12-31T19:37:48.293847+07:00"
+    },
+    {
+      "id": "318f033a958328aba6e07a1f91c96626",
+      "title": "Pháo hoa năm mới rực sáng bầu trời New Zealand",
+      "link": "https://vnexpress.net/the-gioi-bat-dau-don-nam-moi-2026-5000678.html",
+      "summary": "New Zealand đón năm mới 2026 bằng màn pháo hoa rực rỡ ở Auckland, trong khi Australia và các nước châu Á chuẩn bị đón giao thừa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T10:39:59+07:00",
+      "fetched": "2025-12-31T19:37:53.407190+07:00"
+    },
+    {
       "id": "fa565517b6411d986ed2d49eedae15c2",
       "title": "Đại hội Đoàn TP.HCM lần thứ I: Sức trẻ kiến tạo diện mạo mới cho TP.HCM",
       "link": "https://tuoitre.vn/dai-hoi-doan-tp-hcm-lan-thu-i-suc-tre-kien-tao-dien-mao-moi-cho-tp-hcm-20251231080324531.htm",
@@ -611,6 +1111,16 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T10:24:45.956531+07:00",
       "fetched": "2025-12-31T10:24:45.956738+07:00"
+    },
+    {
+      "id": "839be621ba9f5c78bd96adb0b01aced4",
+      "title": "Cua Cà Mau sốt giá dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/cua-ca-mau-sot-gia-dip-tet-duong-lich-5000580.html",
+      "summary": "Giá cua biển nuôi ở Cà Mau hiện tăng khoảng 200.000 đồng, lên cao nhất 850.000 đồng mỗi kg do nhu cầu thị trường Trung Quốc và trong nước tăng cao dịp Tết Dương lịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-31T10:18:47+07:00",
+      "fetched": "2025-12-31T19:37:54.293974+07:00"
     },
     {
       "id": "7b1db03d5f54757ac29bff06acb53f80",
@@ -1431,6 +1941,16 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T07:47:57+07:00",
       "fetched": "2025-12-31T15:26:03.815592+07:00"
+    },
+    {
+      "id": "a4b419d18ec3db19c2383e5819ad44b6",
+      "title": "Giá xăng giảm về dưới 19.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-giam-ve-duoi-19-000-dong-mot-lit-5000550.html",
+      "summary": "Giá xăng, dầu (trừ diesel) cùng giảm 10-280 đồng một lít từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-31T07:47:57+07:00",
+      "fetched": "2025-12-31T19:37:54.294510+07:00"
     },
     {
       "id": "e596e2b20f0055d8136b3adcabfe87db",
