@@ -1,7 +1,147 @@
 window.newsData_2025_12_31 = {
   "date": "2025-12-31",
-  "lastUpdated": "2025-12-31T05:17:27.948905+07:00",
+  "lastUpdated": "2025-12-31T08:24:57.372277+07:00",
   "articles": [
+    {
+      "id": "8daea0b1b59a84de10f99d81fbfcf135",
+      "title": "Thời tiết hôm nay 31-12: Bắc Bộ sắp có thêm đợt rét, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-31-12-bac-bo-sap-co-them-dot-ret-nam-bo-nang-20251230160402552.htm",
+      "summary": "Hôm nay 31-12, thời tiết Bắc Bộ vẫn rét và chuẩn bị đón thêm đợt rét đậm, Nam Bộ ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.140305+07:00",
+      "fetched": "2025-12-31T08:24:50.140445+07:00"
+    },
+    {
+      "id": "581f9d38b6d4927a5919141d792eee32",
+      "title": "Tin tức sáng 31-12: Khối ngoại đã rút ròng gần 122.000 tỉ đồng chứng khoán trong năm 2025",
+      "link": "https://tuoitre.vn/tin-tuc-sang-31-12-khoi-ngoai-da-rut-rong-gan-122-000-ti-dong-chung-khoan-trong-nam-2025-20251230163108078.htm",
+      "summary": "Một số tin tức đáng chú ý: Hủy tư cách đại chúng loạt doanh nghiệp; Con gái chủ tịch Vĩnh Hoàn chi vài trăm tỉ đồng mua cổ phiếu; Ngành y tế TP.HCM chuyển mình với chiến lược phát triển mới...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.140144+07:00",
+      "fetched": "2025-12-31T08:24:50.140287+07:00"
+    },
+    {
+      "id": "d70d23ecf6e56154770b4b84b0529ecd",
+      "title": "Tiêu thụ điện và mức tăng GDP đang nhảy lạc điệu",
+      "link": "https://tuoitre.vn/tieu-thu-dien-va-muc-tang-gdp-dang-nhay-lac-dieu-20251230225016397.htm",
+      "summary": "Nếu so với tốc độ tăng trưởng GDP của năm nay, được dự báo sẽ vào khoảng trên 8%, mức tăng trưởng tiêu thụ điện đang đi ngược lại quy luật thường thấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.140016+07:00",
+      "fetched": "2025-12-31T08:24:50.140134+07:00"
+    },
+    {
+      "id": "87ec8ef59ce0a8f67be9a5c692a6ffea",
+      "title": "Countdown 2026 có gì trên màn ảnh nhỏ?",
+      "link": "https://tuoitre.vn/countdown-2026-co-gi-tren-man-anh-nho-20251230224438424.htm",
+      "summary": "Các đài truyền hình VTV, HTV, THVL đã và đang chuẩn bị những chương trình Countdown và Chào năm mới 2026 đặc sắc để phục vụ khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139881+07:00",
+      "fetched": "2025-12-31T08:24:50.140005+07:00"
+    },
+    {
+      "id": "c98c8c62935bf2744bd683f828490d8e",
+      "title": "Pha ghi bàn may mắn giúp Ronaldo tiến sát cột mốc 1.000 bàn thắng",
+      "link": "https://tuoitre.vn/pha-ghi-ban-may-man-giup-ronaldo-tien-sat-cot-moc-1-000-ban-thang-20251231033459894.htm",
+      "summary": "Rạng sáng 31-12 (giờ Việt Nam), Ronaldo đã ghi bàn \"bằng lưng\" trong trận Al Nassr hòa Al Ettifaq 2-2, diễn ra ở vòng 11 Giải vô địch Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139740+07:00",
+      "fetched": "2025-12-31T08:24:50.139868+07:00"
+    },
+    {
+      "id": "f29bdbd1a6b573e1d0d474f1b748ace9",
+      "title": "Giải cờ chớp thế giới 2025: Lê Quang Liêm đánh bại Vua cờ Gukesh D; Khương Duy gây chấn động",
+      "link": "https://tuoitre.vn/giai-co-chop-the-gioi-2025-le-quang-liem-danh-bai-vua-co-gukesh-d-khuong-duy-gay-chan-dong-20251230233628837.htm",
+      "summary": "Sau 19 vòng đấu tại Giải vô địch cờ nhanh và chớp thế giới 2025 (tối 30-12), các kỳ thủ Việt Nam đã khép lại hành trình đầy cảm xúc với những dấu ấn đậm nét tại Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139612+07:00",
+      "fetched": "2025-12-31T08:24:50.139728+07:00"
+    },
+    {
+      "id": "3d0dacb3b4f59f8d31dc9c75346fb465",
+      "title": "Tin tức thế giới 31-12: Mối nghi ngờ bao phủ vụ tấn công dinh thự ông Putin; Tấn công mạng khổng lồ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-31-12-moi-nghi-ngo-bao-phu-vu-tan-cong-dinh-thu-ong-putin-tan-cong-mang-khong-lo-20251231053645705.htm",
+      "summary": "Ukraine vẫn khẳng định không có bằng chứng do nước này tấn công; Mỹ áp trừng phạt liên quan đến hoạt động buôn bán vũ khí giữa Iran và Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139474+07:00",
+      "fetched": "2025-12-31T08:24:50.139600+07:00"
+    },
+    {
+      "id": "96be21ebf0f88ca2b190f02fd9cffd63",
+      "title": "Arsenal có bàn thắng gây tranh cãi nhờ bài phạt góc",
+      "link": "https://tuoitre.vn/arsenal-co-ban-thang-gay-tranh-cai-nho-bai-phat-goc-20251231045455797.htm",
+      "summary": "Sáng 31-12 (giờ Việt Nam), Arsenal đã có màn phục thù ngọt ngào trước Aston Villa, khi giành chiến thắng với tỉ số 4-1 ở vòng 19 Premier League (giải ngoại hạng Anh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139345+07:00",
+      "fetched": "2025-12-31T08:24:50.139462+07:00"
+    },
+    {
+      "id": "b6c116b726e6f2b75c613b6dc9d6ac7a",
+      "title": "Ông Zelensky tiết lộ mong muốn binh sĩ Mỹ có mặt ở Ukraine",
+      "link": "https://tuoitre.vn/ong-zelensky-tiet-lo-mong-muon-binh-si-my-co-mat-o-ukraine-20251231061859961.htm",
+      "summary": "Tổng thống Ukraine Zelensky cho rằng hiện diện của quân đội Mỹ là tăng cường an ninh lớn cho Kiev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139215+07:00",
+      "fetched": "2025-12-31T08:24:50.139333+07:00"
+    },
+    {
+      "id": "b7ce0b3fea00254e746ca457ee2d9455",
+      "title": "Essensia Broadway: Điểm sáng khu Nam khi nguồn cung thấp tầng khan hiếm",
+      "link": "https://tuoitre.vn/essensia-broadway-diem-sang-khu-nam-khi-nguon-cung-thap-tang-khan-hiem-20251230161359487.htm",
+      "summary": "Trong bối cảnh quỹ đất nội đô ngày càng thu hẹp và nguồn cung thấp tầng khan hiếm, Essensia Broadway nổi lên như một trong số ít dự án mới, đón nhịp chuyển động của hạ tầng khu Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.139083+07:00",
+      "fetched": "2025-12-31T08:24:50.139203+07:00"
+    },
+    {
+      "id": "271247fc10bd76a2bc7754a5ca70e4bb",
+      "title": "Bóng chuyền nữ Việt Nam kết thúc năm tuyệt vời với vị trí thứ 4 châu Á",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-ket-thuc-nam-tuyet-voi-voi-vi-tri-thu-4-chau-a-20251231040412782.htm",
+      "summary": "Năm thi đấu sôi động của bóng chuyền thế giới đã khép lại, các cô gái Việt Nam đạt vị trí thứ 28 trên bảng xếp hạng nữ của FIVB (Liên đoàn Bóng chuyền thế giới).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.138951+07:00",
+      "fetched": "2025-12-31T08:24:50.139072+07:00"
+    },
+    {
+      "id": "b63d6e14c49198a64a5d5e8d891a6594",
+      "title": "Nhà thiết kế Việt bị tố ‘quỵt’ tiền nhiều người, cao nhất 400 triệu đồng",
+      "link": "https://tuoitre.vn/nha-thiet-ke-viet-bi-to-quyt-tien-nhieu-nguoi-cao-nhat-400-trieu-dong-20251231004651768.htm",
+      "summary": "Nhà thiết kế Hà Linh Thư bị giám đốc sáng tạo Nguyễn Minh Đức gọi tên trên mạng xã hội vì ‘quỵt tiền' hợp đồng, số tiền hơn 400 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.138789+07:00",
+      "fetched": "2025-12-31T08:24:50.138937+07:00"
+    },
+    {
+      "id": "f5064939bbfe733144e16c6facafe398",
+      "title": "Phan Đinh Tùng tham vọng 'Khúc hát mừng sinh nhật' được như 'Gangnam Style'",
+      "link": "https://tuoitre.vn/phan-dinh-tung-tham-vong-khuc-hat-mung-sinh-nhat-duoc-nhu-gangnam-style-20251231065108407.htm",
+      "summary": "Phan Đinh Tùng làm mới 'Khúc hát mừng sinh nhật', nói anh đang muốn học tập Sơn Tùng M-TP hợp tác với các nghệ sĩ quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.138640+07:00",
+      "fetched": "2025-12-31T08:24:50.138776+07:00"
+    },
+    {
+      "id": "58b7c43c603fb3db67ccb94ab4ad66a7",
+      "title": "Nhìn lại thế giới năm 2025: Thuế quan, lệnh ngừng bắn và thiên tai cực đoan",
+      "link": "https://tuoitre.vn/nhin-lai-the-gioi-nam-2025-thue-quan-lenh-ngung-ban-va-thien-tai-cuc-doan-20251231065340695.htm",
+      "summary": "Năm 2025 khép lại với những chao đảo trước các đòn thuế quan của Tổng thống Mỹ Donald Trump, hy vọng mong manh về hòa bình ở Ukraine và tác động khôn lường của các hiện tượng thời tiết cực đoan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T08:24:50.138395+07:00",
+      "fetched": "2025-12-31T08:24:50.138624+07:00"
+    },
     {
       "id": "011e65fd2466c06ab121c938d027ddee",
       "title": "Trần Quyết Chiến đến gần chức vô địch giải billiards đồng đội",
@@ -161,6 +301,396 @@ window.newsData_2025_12_31 = {
       "category": "Tổng hợp",
       "published": "2025-12-31T01:27:40.726776+07:00",
       "fetched": "2025-12-31T01:27:40.726987+07:00"
+    },
+    {
+      "id": "b7dcdbba28ca7679da2daf6e3fd06cb0",
+      "title": "Giá Bitcoin hôm nay 31.12.2025: Không thể vượt 90.000 USD, kết thúc năm biến động lớn",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-31122025-khong-the-vuot-90000-usd-ket-thuc-nam-bien-dong-lon-185251231074017804.htm",
+      "summary": "Giá Bitcoin hôm nay tăng nhẹ nhưng không thể vượt ngưỡng kháng cự 90.000 USD, đánh dấu ngày giao dịch cuối cùng trong năm 2025 nhiều biến động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:17:00+07:00",
+      "fetched": "2025-12-31T08:24:49.161599+07:00"
+    },
+    {
+      "id": "b5a5d328abd1e5cba9de88dda48c7485",
+      "title": "Thành lập Viện Nghiên cứu và phát triển kim hoàn đá quý PINI VN",
+      "link": "https://thanhnien.vn/thanh-lap-vien-nghien-cuu-va-phat-trien-kim-hoan-da-quy-pini-vn-185251230185354742.htm",
+      "summary": "Tin từ Hội Mỹ nghệ kim hoàn đá quý VN cho biết: Viện Nghiên cứu và phát triển kim hoàn đá quý PINI VN (thuộc Hội Mỹ nghệ kim hoàn đá quý VN) đã được thành lập và bắt đầu triển khai các hoạt động chuyên môn theo đúng quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:13:00+07:00",
+      "fetched": "2025-12-31T08:24:49.161774+07:00"
+    },
+    {
+      "id": "08b6f099803833192892bd0b9542ebd8",
+      "title": "Nhật Bản tiến sát mốc 'chạm đáy dân số' sớm 16 năm",
+      "link": "https://vnexpress.net/nhat-ban-tien-sat-moc-cham-day-dan-so-som-16-nam-5000317.html",
+      "summary": "Ước tính dưới 670.000 trẻ Nhật Bản chào đời trong năm 2025, giảm 3% so với năm ngoái, các chuyên gia cho rằng nước này đang tiến sát mốc \"chạm đáy dân số\" và sớm 16 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:12:50+07:00",
+      "fetched": "2025-12-31T08:24:45.732955+07:00"
+    },
+    {
+      "id": "ab74ad2ad050ace33dcf0339088f7b6e",
+      "title": "Người huyết áp cao nên tắm nước ấm thế nào cho an toàn?",
+      "link": "https://thanhnien.vn/nguoi-huyet-ap-cao-nen-tam-nuoc-am-the-nao-cho-an-toan-185251230193801724.htm",
+      "summary": "Tắm nước ấm là thói quen rất phổ biến vì giúp thư giãn cơ, dễ ngủ và giảm cảm giác căng thẳng. Với người huyết áp cao, tắm nước ấm thường không phải điều cấm kỵ. Tuy nhiên, cần tắm đúng cách để tránh rủi ro sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:05:00+07:00",
+      "fetched": "2025-12-31T08:24:49.161954+07:00"
+    },
+    {
+      "id": "df32e584780fa2f8d68eedd159d86e52",
+      "title": "Trao gần 1 tỉ đồng tiền bạn đọc Báo Thanh Niên giúp các hoàn cảnh ngặt nghèo",
+      "link": "https://thanhnien.vn/trao-gan-1-ti-dong-tien-ban-doc-bao-thanh-nien-giup-cac-hoan-canh-ngat-ngheo-185251230191944574.htm",
+      "summary": "Trong những ngày giữa và cuối tháng 12.2025, Báo Thanh Niên đã chuyển khoản tổng số tiền gần 1 tỉ đồng do bạn đọc đóng góp đến nhiều hoàn cảnh khó khăn, bệnh tật hiểm nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:05:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162113+07:00"
+    },
+    {
+      "id": "ef2f0c1ff8ad7b2b12ef3596aae5cff1",
+      "title": "Hạ tầng xuống cấp, giao thương qua Cửa khẩu quốc tế La Lay gặp khó",
+      "link": "https://thanhnien.vn/ha-tang-xuong-cap-giao-thuong-qua-cua-khau-quoc-te-la-lay-gap-kho-185251230191042005.htm",
+      "summary": "Cửa khẩu quốc tế La Lay, điểm nối quan trọng trên tuyến Hành lang kinh tế Đông - Tây của tỉnh Quảng Trị, đang đối mặt nhiều khó khăn khi tuyến đường lên cửa khẩu xuống cấp nghiêm trọng sau mưa bão, khiến lượng phương tiện, hàng hóa thông quan sụt giảm rõ rệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:05:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162268+07:00"
+    },
+    {
+      "id": "021419aa439bf33bd4b65de7c80321fc",
+      "title": "Giá vàng, bạc thế giới tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-bac-the-gioi-tang-tro-lai-5000336.html",
+      "summary": "Giá các kim loại quý quay đầu tăng trong phiên cuối năm, phục hồi sau khi bị bán tháo chốt lời đầu tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:01:42+07:00",
+      "fetched": "2025-12-31T08:24:45.733136+07:00"
+    },
+    {
+      "id": "812c4e07dd7fb5569f0764ecef2b878e",
+      "title": "Điểm ngắm pháo hoa ở Hà Nội và TP HCM kín chỗ trước giao thừa",
+      "link": "https://vnexpress.net/diem-ngam-phao-hoa-o-ha-noi-va-tp-hcm-kin-cho-truoc-giao-thua-5000258.html",
+      "summary": "Các nhà hàng, quán bar trên cao và khu vực có tầm nhìn trực diện pháo hoa tại Hà Nội và TP HCM gần như đã kín chỗ trước đêm giao thừa, dù giá dịch vụ tăng so với ngày thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.733306+07:00"
+    },
+    {
+      "id": "9a885e09e664bade08d50214a5cf9c18",
+      "title": "Nữ nhân viên 'đứng hình' vì khách chạy xe vào shop mua đồ",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-nu-nhan-vien-dung-hinh-vi-khach-chay-xe-vao-shop-mua-do-4999546.html",
+      "summary": "Đang dọn dẹp cửa hàng thì một tình huống khó tin xảy ra khiến hai nữ nhân viên chỉ biết nhìn nhau ngơ ngác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.733467+07:00"
+    },
+    {
+      "id": "449800d0bc68381b71def4ba349b14ff",
+      "title": "Ung thư tuyến giáp không triệu chứng",
+      "link": "https://vnexpress.net/ung-thu-tuyen-giap-khong-trieu-chung-5000332.html",
+      "summary": "Chị Thủy, 47 tuổi, không đau cổ, không nuốt vướng hay rối loạn nội tiết, tình cờ phát hiện ung thư tuyến giáp khi khám sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.733626+07:00"
+    },
+    {
+      "id": "873097be65ce64b3355dbd693bb5c1b9",
+      "title": "Mổ cận bao lâu có thể dùng điện thoại?",
+      "link": "https://vnexpress.net/mo-can-bao-lau-co-the-dung-dien-thoai-5000207.html",
+      "summary": "Con tôi 18 tuổi, cận 3 độ, vừa phẫu thuật xóa cận. Sau mổ bao lâu có thể sử dụng điện thoại trở lại? (Minh Anh, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.733783+07:00"
+    },
+    {
+      "id": "44f8a50671c42e5e31fedb5d77c895ae",
+      "title": "Mẹ Việt ưu tiên sức khỏe dịp năm mới",
+      "link": "https://vnexpress.net/me-viet-uu-tien-suc-khoe-dip-nam-moi-5000165.html",
+      "summary": "Trước thềm năm mới, Khánh Hà ở Hà Nội, mong gia đình và bản thân khỏe mạnh, tiếp tục có cuộc sống bình an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.733966+07:00"
+    },
+    {
+      "id": "b67f4ac20dafa855f9342c933a3485b1",
+      "title": "Hành trình 12 năm Vitatree đưa chất lượng Australia đến người Việt",
+      "link": "https://vnexpress.net/hanh-trinh-12-nam-vitatree-dua-chat-luong-australia-den-nguoi-viet-4999781.html",
+      "summary": "Vitatree mang tiêu chuẩn chăm sóc sức khỏe Australia đến người tiêu dùng Việt, từng bước xây dựng niềm tin bằng chất lượng quốc tế với danh mục hơn 50 sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.734138+07:00"
+    },
+    {
+      "id": "6c51d83c16cf140ea3d4ed38d294af3b",
+      "title": "Kết nối liên vùng mở dư địa cho Utopia Villas &amp; Resort",
+      "link": "https://vnexpress.net/ket-noi-lien-vung-mo-du-dia-cho-utopia-villas-resort-4999389.html",
+      "summary": "Utopia Villas & Resort ở vị trí giao thoa giữa trục phía Nam Thủ đô và hành lang du lịch Hà Nội - Phú Thọ - Ninh Bình, tạo nền tảng phát triển nghỉ dưỡng, lưu trú dài ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.734307+07:00"
+    },
+    {
+      "id": "0f357e34c69f6f0ccec40494f066cfcf",
+      "title": "Cảng container lớn nhất Manila lần đầu xử lý 3 triệu TEU",
+      "link": "https://vnexpress.net/cang-container-lon-nhat-manila-lan-dau-xu-ly-3-trieu-teu-4998679.html",
+      "summary": "Bến cảng container quốc tế Manila (MICT), cảng chủ lực của Tập đoàn ICTSI, lần đầu đạt sản lượng 3 triệu TEU trong năm 2025, đánh dấu kỷ lục khai thác mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.734465+07:00"
+    },
+    {
+      "id": "240c1b02d3f9845228a755411b30e260",
+      "title": "2025: Năm học với nhiều giải Nhất của SV ĐH Duy Tân",
+      "link": "https://thanhnien.vn/2025-nam-hoc-voi-nhieu-giai-nhat-cua-sv-dh-duy-tan-185251231082304897.htm",
+      "summary": "Năm 2025, sinh viên của Đại học (ĐH) Duy Tân (DTU) tiếp tục ghi dấu ấn mạnh mẽ tại hàng loạt cuộc thi học thuật trong nước và quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162419+07:00"
+    },
+    {
+      "id": "350408542d7b5476d2338c1133544dd7",
+      "title": "Thiết kế sản phẩm bền vững và câu hỏi về trách nhiệm dài hạn",
+      "link": "https://thanhnien.vn/thiet-ke-san-pham-ben-vung-va-cau-hoi-ve-trach-nhiem-dai-han-185251231070408437.htm",
+      "summary": "Trong thiết kế sản phẩm, bền vững được nhìn nhận như trách nhiệm dài hạn đối với hành vi sử dụng và vòng đời. Cách con người sử dụng, giữ lại và thay thế sản phẩm trở thành trọng tâm của tư duy thiết kế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162568+07:00"
+    },
+    {
+      "id": "0b9b1c5a1a65c1751b15dbea9ba1382e",
+      "title": "Van Phuc Group tung 'siêu ưu đãi' đến 28% dịp kỷ niệm 30 năm thành lập",
+      "link": "https://thanhnien.vn/van-phuc-group-tung-sieu-uu-dai-den-28-dip-ky-niem-30-nam-thanh-lap-185251230220534068.htm",
+      "summary": "Kỷ niệm 30 năm thành lập, Van Phuc Group tri ân khách hàng \"siêu ưu đãi\" lên đến 28% khi sở hữu các sản phẩm nhà ở tại Van Phuc City. Đây được xem là cơ hội \"vàng\" hiếm có để chạm tới không gian sống thượng lưu tại khu đô thị đáng sống bậc nhất TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162718+07:00"
+    },
+    {
+      "id": "30d5f9f9a93284e7a5aaed316987e66c",
+      "title": "Nâng tầm trải nghiệm nước tốt cùng máy lọc nước điện giải nóng thông minh ROBOT ionSmart",
+      "link": "https://thanhnien.vn/nang-tam-trai-nghiem-nuoc-tot-cung-may-loc-nuoc-dien-giai-nong-thong-minh-robot-ionsmart-185251230215533405.htm",
+      "summary": "Nếu bạn đang tìm kiếm một chiếc máy lọc nước điện giải ion kiềm cao cấp có chế độ nóng thông minh, vận hành ổn định và đáp ứng đa dạng nhu cầu sử dụng thì ROBOT ionSmart là sản phẩm bạn cần. Với thiết kế hiện đại cùng các tone màu pastel ấn tượng, ionSmart còn là điểm nhấn nội thất cho không gian nh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.162899+07:00"
+    },
+    {
+      "id": "1e04b4687b45d387fc8f36d485ee92fa",
+      "title": "Khánh Hòa 2025: ‘Cất cánh’ từ những nghị quyết chiến lược",
+      "link": "https://thanhnien.vn/khanh-hoa-2025-cat-canh-tu-nhung-nghi-quyet-chien-luoc-185251230182341489.htm",
+      "summary": "Năm 2025 khép lại với những dấu ấn đậm nét trong lộ trình đưa Khánh Hòa trở thành thành phố trực thuộc Trung ương. Thông qua các cơ chế đặc thù, tỉnh không chỉ bứt phá về hạ tầng mà còn định hình rõ nét về một trung tâm kinh tế biển, năng lượng và logistics tầm cỡ quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163063+07:00"
+    },
+    {
+      "id": "fc4d39227b67bee05d7e3b71ca88f1c8",
+      "title": "Điều trị và phòng ngừa các bệnh truyền nhiễm bùng phát mùa lạnh",
+      "link": "https://thanhnien.vn/dieu-tri-va-phong-ngua-cac-benh-truyen-nhiem-bung-phat-mua-lanh-185251230155816749.htm",
+      "summary": "Mùa lạnh khiến nhiều bệnh truyền nhiễm gia tăng. Không ít người chủ quan, nhầm lẫn triệu chứng, tự dùng thuốc nên phát hiện muộn, dễ biến chứng. Nhận biết sớm và điều trị đúng giúp giảm nguy cơ mắc bệnh, hạn chế lây nhiễm cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163213+07:00"
+    },
+    {
+      "id": "eb0a9459a2ad908bbdfd9084f78aece6",
+      "title": "Utopia Villas & Resort - lợi thế vị trí tạo đà tăng trưởng dài hạn",
+      "link": "https://thanhnien.vn/utopia-villas-resort-loi-the-vi-tri-tao-da-tang-truong-dai-han-185251230151802133.htm",
+      "summary": "Sở hữu vị trí giao thoa giữa các trục du lịch - kinh tế đã và đang phát triển, Utopia Villas & Resort khẳng định lợi thế hiếm có khi dễ dàng kết nối sang các trung tâm du lịch lớn của miền Bắc, hình thành mạng lưới liên kết vùng thuận lợi cho phát triển nghỉ dưỡng, lưu trú và trải nghiệm dài ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163368+07:00"
+    },
+    {
+      "id": "4cb41a6a12287d17587dadd314c161cc",
+      "title": "Áo blazer và khả năng biến hóa trong phong cách thường ngày",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-blazer-va-kha-nang-bien-hoa-trong-phong-cach-thuong-ngay-185251229105656935.htm",
+      "summary": "Áo blazer giữ được vị thế riêng nhờ khả năng cân bằng giữa sự chỉn chu và tính linh hoạt. Không quá cứng nhắc cũng không quá phóng khoáng, blazer trở thành lựa chọn quen thuộc cho nhiều sự kiện khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163521+07:00"
+    },
+    {
+      "id": "2007d72fd4c7ff1ff8e2765b91e64f54",
+      "title": "Hàng không dân dụng sẽ thay đổi thế nào trong năm 2026?",
+      "link": "https://thanhnien.vn/hang-khong-dan-dung-se-thay-doi-the-nao-trong-nam-2026-185251228112021689.htm",
+      "summary": "Sau một năm đầy những bất ngờ và biến động, ngành hàng không dân dụng năm 2026 được kỳ vọng sẽ chuyển sang giai đoạn tương đối ổn định đầy hiếm hoi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163676+07:00"
+    },
+    {
+      "id": "cd5f76d899a2c6eeae8b2df65f5f63d3",
+      "title": "Những khám phá 'khó đỡ' về không gian trong năm 2025",
+      "link": "https://thanhnien.vn/nhung-kham-pha-kho-do-ve-khong-gian-trong-nam-2025-185251224120729869.htm",
+      "summary": "Năm 2025 là một năm đầy ấn tượng đối với thiên văn học, và trong số đó, có những phát hiện kỳ lạ nhưng vô cùng thú vị về không gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T01:00:00+07:00",
+      "fetched": "2025-12-31T08:24:49.163822+07:00"
+    },
+    {
+      "id": "26a2ff8e111139d4f8482f9e0e140245",
+      "title": "Hyundai Stargazer 2022 giá 440 triệu nên mua?",
+      "link": "https://vnexpress.net/hyundai-stargazer-2022-gia-440-trieu-nen-mua-5000343.html",
+      "summary": "Xe bản đặc biệt 1.5 AT, chạy gần 70.000 km, xin hỏi giá trên tôi mua lại có hợp lý. (Phan Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T00:37:32+07:00",
+      "fetched": "2025-12-31T08:24:45.734633+07:00"
+    },
+    {
+      "id": "9e224deed78a9891d2bb0dc57fbeee08",
+      "title": "Kinh tế Việt Nam 2025 qua các con số",
+      "link": "https://vnexpress.net/kinh-te-viet-nam-2025-qua-cac-con-so-5000307.html",
+      "summary": "Thuế đối ứng 46%, ngưỡng tính thuế hộ kinh doanh lên 500 triệu đồng cùng hàng loạt kỷ lục chứng khoán, giá vàng, tỷ giá… gợi lại một năm kinh tế đầy biến động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T00:24:56+07:00",
+      "fetched": "2025-12-31T08:24:45.734790+07:00"
+    },
+    {
+      "id": "9e224deed78a9891d2bb0dc57fbeee08",
+      "title": "Kinh tế Việt Nam 2025 qua các con số",
+      "link": "https://vnexpress.net/kinh-te-viet-nam-2025-qua-cac-con-so-5000307.html",
+      "summary": "Thuế đối ứng 46%, ngưỡng tính thuế hộ kinh doanh lên 500 triệu đồng cùng hàng loạt kỷ lục chứng khoán, giá vàng, tỷ giá… gợi lại một năm kinh tế đầy biến động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-31T00:24:56+07:00",
+      "fetched": "2025-12-31T08:24:53.158017+07:00"
+    },
+    {
+      "id": "a281f9eb7dc398f625acf4406de8b7d4",
+      "title": "Ông Zelensky bàn với ông Trump 'về khả năng triển khai lính Mỹ tới Ukraine'",
+      "link": "https://vnexpress.net/ong-zelensky-ban-voi-ong-trump-ve-kha-nang-trien-khai-linh-my-toi-ukraine-5000329.html",
+      "summary": "Tổng thống Zelensky cho biết Kiev đang trao đổi với Washington về khả năng điều binh sĩ Mỹ đến Ukraine trong khuôn khổ các biện pháp đảm bảo an ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T00:07:15+07:00",
+      "fetched": "2025-12-31T08:24:45.734966+07:00"
+    },
+    {
+      "id": "a281f9eb7dc398f625acf4406de8b7d4",
+      "title": "Ông Zelensky bàn với ông Trump 'về khả năng triển khai lính Mỹ tới Ukraine'",
+      "link": "https://vnexpress.net/ong-zelensky-ban-voi-ong-trump-ve-kha-nang-trien-khai-linh-my-toi-ukraine-5000329.html",
+      "summary": "Tổng thống Zelensky cho biết Kiev đang trao đổi với Washington về khả năng điều binh sĩ Mỹ đến Ukraine trong khuôn khổ các biện pháp đảm bảo an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-31T00:07:15+07:00",
+      "fetched": "2025-12-31T08:24:51.311549+07:00"
+    },
+    {
+      "id": "ffc07dbc7c0f0af6dee6d20f77a8a474",
+      "title": "Làm tư nhân có được nghỉ Tết âm lịch 9 ngày như công chức?",
+      "link": "https://vnexpress.net/lich-nghi-tet-2026-lam-tu-nhan-co-duoc-nghi-9-ngay-nhu-cong-chuc-4999889.html",
+      "summary": "Dù quy định cứng chỉ là 5 ngày nhưng người lao động hoàn toàn có thể tận hưởng kỳ nghỉ Tết Âm lịch 2026 kéo dài tới 9 ngày. Dưới đây là 5 giải đáp giúp bạn nắm chắc quyền lợi của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-31T00:00:00+07:00",
+      "fetched": "2025-12-31T08:24:45.735128+07:00"
+    },
+    {
+      "id": "4f2935b196c7f1f0e2f22c3e4312a78d",
+      "title": "Du khách xem vận động viên nhào lộn trên không ở sông Đồng Nai",
+      "link": "https://vnexpress.net/du-khach-xem-van-dong-vien-nhao-lon-tren-khong-o-song-dong-nai-5000308.html",
+      "summary": "30 phút trình diễn Flyboard trên sông Đồng Nai với nhiều màn nhào lộn trên không của vận động viên kết hợp âm nhạc, ánh sáng khiến hàng nghìn du khách, người dân Trấn Biên thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-30T23:35:58+07:00",
+      "fetched": "2025-12-31T08:24:45.735289+07:00"
+    },
+    {
+      "id": "3f1e64dcdfdaaec6c4ca75322337fd4c",
+      "title": "HLV Maresca bị la ó trong trận hòa của Chelsea",
+      "link": "https://vnexpress.net/hlv-maresca-bi-la-o-trong-tran-hoa-cua-chelsea-5000325.html",
+      "summary": "HLV Enzo Maresca bị chính CĐV nhà la ó, khi Chelsea hòa đội khách Bournemouth 2-2 ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T23:09:02+07:00",
+      "fetched": "2025-12-31T08:24:57.366397+07:00"
+    },
+    {
+      "id": "e8d6563575245be6e52fe2aab04311bd",
+      "title": "Hai mảng sáng tối của kinh tế Trung Quốc 2025",
+      "link": "https://vnexpress.net/hai-mang-sang-toi-cua-kinh-te-trung-quoc-2025-5000240.html",
+      "summary": "Xuất khẩu và AI bùng nổ giúp Trung Quốc đạt mục tiêu GDP 2025 tăng 5%, nhưng khủng hoảng bất động sản và chi tiêu dè dặt vẫn phủ bóng lên đà phục hồi kinh tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-30T23:00:00+07:00",
+      "fetched": "2025-12-31T08:24:53.158198+07:00"
+    },
+    {
+      "id": "e11e141dcf01ff2b34ee65ec1d6dd233",
+      "title": "'Bưu chính là đường cao tốc vật chất của quốc gia'",
+      "link": "https://vnexpress.net/buu-chinh-la-duong-cao-toc-vat-chat-cua-quoc-gia-5000105.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cho rằng khi nền kinh tế chuyển sang kinh tế số, bưu chính là \"đường cao tốc vật chất\" và \"đường cao tốc logistics\" của quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-30T23:00:00+07:00",
+      "fetched": "2025-12-31T08:24:56.190076+07:00"
+    },
+    {
+      "id": "d1af71d347b8d6645e8d62bd180d281c",
+      "title": "Man Utd hòa đội cuối bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-hoa-doi-cuoi-bang-ngoai-hang-anh-5000327.html",
+      "summary": "Man Utd lỡ cơ hội vào top 5, khi hòa Wolverhampton 1-1 ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T22:53:50+07:00",
+      "fetched": "2025-12-31T08:24:57.366051+07:00"
+    },
+    {
+      "id": "0896294552796b9664c9711c7d01d348",
+      "title": "Carlsen lần thứ chín vô địch cờ chớp thế giới",
+      "link": "https://vnexpress.net/carlsen-lan-thu-chin-vo-dich-co-chop-the-gioi-5000313.html",
+      "summary": "Bị dẫn trước trong trận chung kết cờ chớp, Magnus Carlsen vẫn thắng ngược Nodirbek Abdusattorov 2,5-1,5 để đoạt danh hiệu thế giới thứ 22 trong sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T22:50:51+07:00",
+      "fetched": "2025-12-31T08:24:57.366558+07:00"
+    },
+    {
+      "id": "acc4fbe024aa0e8bd2f8b0b3da7149b6",
+      "title": "Cảnh sát Pháp mất việc vì nhận tiền của Mbappe",
+      "link": "https://vnexpress.net/canh-sat-phap-mat-viec-vi-nhan-tien-cua-mbappe-5000323.html",
+      "summary": "Một sĩ quan cảnh sát phụ trách công tác an ninh cho đội tuyển Pháp bị Tổng cục Cảnh sát Quốc gia Pháp (DGPN) kỷ luật bằng hình thức nghỉ hưu sớm, sau khi bị phát hiện nhận 60.300 euro từ tiền đạo Kylian Mbappe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T22:49:59+07:00",
+      "fetched": "2025-12-31T08:24:57.366717+07:00"
+    },
+    {
+      "id": "c1033685bc63b319abcea53a5b5c13d6",
+      "title": "Arsenal đè bẹp Aston Villa",
+      "link": "https://vnexpress.net/arsenal-de-bep-aston-villa-5000324.html",
+      "summary": "Arsenal ghi bốn bàn trong hiệp hai để thắng đội khách Aston Villa 4-1 ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-30T22:37:56+07:00",
+      "fetched": "2025-12-31T08:24:57.366892+07:00"
     },
     {
       "id": "02d75b1aa596cc21145f5ef39fe53ec1",
