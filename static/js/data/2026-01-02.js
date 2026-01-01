@@ -1,7 +1,17 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T03:20:43.993668+07:00",
+  "lastUpdated": "2026-01-02T05:17:45.660559+07:00",
   "articles": [
+    {
+      "id": "c555a4c91d502d3525f89d5e5d7337d7",
+      "title": "Thời tiết hôm nay 2-1: Bắc Bộ chìm trong giá rét, Đông Nam Bộ sáng mát lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-2-1-bac-bo-chim-trong-gia-ret-dong-nam-bo-sang-mat-lanh-20260101163543905.htm",
+      "summary": "Hôm nay 2-1, không khí lạnh bao trùm thời tiết Bắc Bộ, Trung Bộ mưa to vài nơi, Nam Bộ sáng mát lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T05:17:38.976467+07:00",
+      "fetched": "2026-01-02T05:17:38.976693+07:00"
+    },
     {
       "id": "4ea92b742caae46927aafc8d97666aee",
       "title": "Ông Trump tự tin giải thích về tình hình sức khỏe của mình",
@@ -171,6 +181,16 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T01:26:47.080730+07:00",
       "fetched": "2026-01-02T01:26:47.080895+07:00"
+    },
+    {
+      "id": "faeb21a72fc4b174592b349d3c02c4df",
+      "title": "Chiến sự Ukraine ngày 1.408: Nga, Ukraine tố nhau tấn công đầu năm mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1408-nga-ukraine-to-nhau-tan-cong-dau-nam-moi-185260101220610167.htm",
+      "summary": "Ngày 1.1, Nga cáo buộc Ukraine tấn công khiến ít nhất 24 người thiệt mạng trong cuộc không kích bằng máy bay không người lái (UAV) nhằm vào một khách sạn và quán cà phê ở khu vực Kherson (phía nam Ukraine).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T22:00:00+07:00",
+      "fetched": "2026-01-02T05:17:37.980383+07:00"
     },
     {
       "id": "bf05e94024cd174fa59141ef19337f0c",
