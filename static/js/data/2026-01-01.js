@@ -1,7 +1,67 @@
 window.newsData_2026_01_01 = {
   "date": "2026-01-01",
-  "lastUpdated": "2026-01-01T21:17:54.279508+07:00",
+  "lastUpdated": "2026-01-01T23:23:04.810069+07:00",
   "articles": [
+    {
+      "id": "6c2dc938d4a227ae6274923dc4a64dfc",
+      "title": "HLV Chelsea mất việc ngay ngày đầu năm mới",
+      "link": "https://tuoitre.vn/hlv-chelsea-mat-viec-ngay-ngay-dau-nam-moi-20260101194713694.htm",
+      "summary": "Tối 1-1, Chelsea gây sốc khi thông báo chia tay HLV Enzo Maresca sau những mâu thuẫn không thể hàn gắn với ban lãnh đạo đội bóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495957+07:00",
+      "fetched": "2026-01-01T23:22:57.496092+07:00"
+    },
+    {
+      "id": "ad0b37cf311358ab416c6991e9153264",
+      "title": "Bắt cựu nhân viên ngân hàng lừa đảo tiền tỉ để cá độ bóng đá",
+      "link": "https://tuoitre.vn/bat-cuu-nhan-vien-ngan-hang-lua-dao-tien-ti-de-ca-do-bong-da-20260101201717573.htm",
+      "summary": "Công an tỉnh Quảng Ngãi đã bắt tạm giam Nguyễn Văn Thiệu để điều tra hành vi lừa đảo chiếm đoạt tài sản. Thiệu là cựu nhân viên ngân hàng, vì mê cá độ bóng đá mà phạm tội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495826+07:00",
+      "fetched": "2026-01-01T23:22:57.495945+07:00"
+    },
+    {
+      "id": "8dbd7f117ccd67dde43de280ab2cb210",
+      "title": "Bộ Xây dựng lập Ban chỉ đạo triển khai dự án đường sắt tốc độ cao Bắc - Nam",
+      "link": "https://tuoitre.vn/bo-xay-dung-lap-ban-chi-dao-trien-khai-du-an-duong-sat-toc-do-cao-bac-nam-20260101194411141.htm",
+      "summary": "Dự án đường sắt tốc độ cao trên trục Bắc - Nam do bộ trưởng Trần Hồng Minh làm trưởng ban, ba thứ trưởng Bộ Xây dựng làm phó trưởng ban.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495694+07:00",
+      "fetched": "2026-01-01T23:22:57.495814+07:00"
+    },
+    {
+      "id": "4cafe0485475e0827068b924579aa6d9",
+      "title": "Du khách thích thú khám phá hang động tại Ngũ Hành Sơn dịp đầu năm mới",
+      "link": "https://tuoitre.vn/du-khach-thich-thu-kham-pha-hang-dong-tai-ngu-hanh-son-dip-dau-nam-moi-20260101193747896.htm",
+      "summary": "Những ngày đầu năm mới, danh thắng Ngũ Hành Sơn (TP Đà Nẵng) là điểm đến hấp dẫn nhiều du khách. Không chỉ đến vãn cảnh, du khách thích thú với hành trình khám phá hệ thống hang động kỳ bí, mang đậm dấu ấn văn hóa - tâm linh độc đáo tại nơi đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495558+07:00",
+      "fetched": "2026-01-01T23:22:57.495682+07:00"
+    },
+    {
+      "id": "13610fefa24952ad8ba87ad6a86a8490",
+      "title": "Tết dương lịch: Khách vui chơi, mua sắm tưng bừng, đơn vị bán lẻ tung ưu đãi lớn",
+      "link": "https://tuoitre.vn/tet-duong-lich-khach-vui-choi-mua-sam-tung-bung-don-vi-ban-le-tung-uu-dai-lon-20260101173651163.htm",
+      "summary": "Ngày đầu kỳ nghỉ Tết dương lịch, nhiều điểm vui chơi, giải trí, trung tâm thương mại đông đúc du khách đến tham quan, mua sắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495415+07:00",
+      "fetched": "2026-01-01T23:22:57.495545+07:00"
+    },
+    {
+      "id": "ae940f477d3638d7304a1997d8d0bc80",
+      "title": "Novaland chốt hoán đổi nợ bằng 184 triệu cổ phiếu, số nợ giảm được bao nhiêu?",
+      "link": "https://tuoitre.vn/novaland-chot-hoan-doi-no-bang-184-trieu-co-phieu-so-no-giam-duoc-bao-nhieu-20260101211342875.htm",
+      "summary": "Thông qua việc phát hành tổng cộng hơn 184 triệu cổ phiếu để hoán đổi nợ và chuyển đổi trái phiếu, Novaland ghi nhận mức giảm dư nợ hơn 3.324 tỉ đồng, đồng thời mở rộng quy mô vốn điều lệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:22:57.495226+07:00",
+      "fetched": "2026-01-01T23:22:57.495401+07:00"
+    },
     {
       "id": "566d61a6a6ad468a679982cfadff0ba8",
       "title": "Thể thao Thái Lan dậy sóng vì vụ bê bối lớn nổ ngay ngày đầu năm",
@@ -453,6 +513,36 @@ window.newsData_2026_01_01 = {
       "fetched": "2026-01-01T17:20:05.184842+07:00"
     },
     {
+      "id": "a2a0d269ef3f7fe97065f7f5961fa8c0",
+      "title": "U.23 Việt Nam tập mở màn năm 2026 căng như đấu thật: Vẫn chưa biết ai bị loại, có thể là…",
+      "link": "https://thanhnien.vn/u23-viet-nam-tap-mo-man-nam-2026-cang-nhu-dau-that-van-chua-biet-ai-bi-loai-co-the-la-185260101231012703.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã mở màn năm 2026 bằng buổi tập cực kỳ nghiêm túc, căng như đấu thật tại Qatar, trước khi lên đường bay sang Ả Rập Xê Út tham dự VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T16:15:00+07:00",
+      "fetched": "2026-01-01T23:22:56.461936+07:00"
+    },
+    {
+      "id": "9e9612631f9cde58fc84430eb71a65c1",
+      "title": "Tổng thống Belarus kể lần cảnh báo ông Putin về âm mưu ám sát",
+      "link": "https://vnexpress.net/tong-thong-belarus-ke-lan-canh-bao-ong-putin-ve-am-muu-am-sat-5000949.html",
+      "summary": "Tổng thống Lukashenko cho biết ông từng cảnh báo người đồng cấp Putin về nguy cơ ám sát nếu lãnh đạo Nga dự hội nghị BRICS hồi năm 2023.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T15:39:36+07:00",
+      "fetched": "2026-01-01T23:22:58.952104+07:00"
+    },
+    {
+      "id": "ceb25192f999389179247e5006bb8809",
+      "title": "Cầm hòa U.23 Nhật Bản, U.23 Jordan gửi thông điệp nặng ký đến U.23 Việt Nam",
+      "link": "https://thanhnien.vn/cam-hoa-u23-nhat-ban-u23-jordan-gui-thong-diep-nang-ky-den-u23-viet-nam-185260101223347176.htm",
+      "summary": "Đối thủ của U.23 Việt Nam trong trận ra quân VCK U.23 châu Á 2026, U.23 Jordan đã cầm hòa U.23 Nhật Bản 1-1 khi hai đội đá giao hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:37:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462125+07:00"
+    },
+    {
       "id": "d49cf97683c315f66decf7033a21e8c5",
       "title": "Tái hiện lễ ban lịch dưới triều Nguyễn ngày đầu năm mới, mở màn cho mùa lễ hội Huế 2026",
       "link": "https://tuoitre.vn/tai-hien-le-ban-lich-duoi-trieu-nguyen-ngay-dau-nam-moi-mo-man-cho-mua-le-hoi-hue-2026-20260101114847561.htm",
@@ -601,6 +691,106 @@ window.newsData_2026_01_01 = {
       "category": "Tổng hợp",
       "published": "2026-01-01T15:25:45.018007+07:00",
       "fetched": "2026-01-01T15:25:45.018217+07:00"
+    },
+    {
+      "id": "9de5e5ae2b2fd4bff55a18c40b13d9e8",
+      "title": "Cặp sao 'Cõng anh mà chạy' ra sao sau 2 năm vắng bóng màn ảnh?",
+      "link": "https://thanhnien.vn/cap-sao-cong-anh-ma-chay-ra-sao-sau-2-nam-vang-bong-man-anh-185260101213301973.htm",
+      "summary": "Teaser phim 'Perfect Crown' do Byeon Woo Seok đóng vai chính và dự án 'Good Partner 2' có Kim Hye Yoon đều gây chú ý ngay khi mới công bố. Đây được xem là màn tái xuất chính thức của cặp đôi từng gây sốt với 'Cõng anh mà chạy' (Lovely Runner) năm 2024, sau hai năm vắng bóng trên màn ảnh nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T15:10:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462288+07:00"
+    },
+    {
+      "id": "110f76d041f43311ef005b2b3701c18e",
+      "title": "Mỹ xúc tiến thương vụ bán vũ khí cho Đài Loan, Trung Quốc cảnh báo",
+      "link": "https://thanhnien.vn/my-xuc-tien-thuong-vu-ban-vu-khi-cho-dai-loan-trung-quoc-canh-bao-18526010120254487.htm",
+      "summary": "Hãng Lockheed Martin của Mỹ được trao thầu sản xuất vũ khí cho Đài Loan, trong khi Trung Quốc đại lục cảnh báo các bên không 'đùa với lửa'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:54:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462441+07:00"
+    },
+    {
+      "id": "fac43ead58ec70dd9f9d972f0dbcb83b",
+      "title": "Chỉ đạo mới của Tổng tham mưu trưởng Nga: Mở rộng vùng đệm ở Ukraine",
+      "link": "https://thanhnien.vn/chi-dao-moi-cua-tong-tham-muu-truong-nga-mo-rong-vung-dem-o-ukraine-185260101202744386.htm",
+      "summary": "Tướng Valery Gerasimov, Tổng tham mưu trưởng quân đội Nga, hôm 31.12.2025 yêu cầu các lực lượng nước này ở Ukraine tiếp tục thiết lập những 'vùng đệm' tại các tỉnh Sumy và Kharkiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:53:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462593+07:00"
+    },
+    {
+      "id": "9c90476c3dadc0bd3fcee015a0892575",
+      "title": "Nga sẽ gửi cho Mỹ bằng chứng 'Ukraine tấn công dinh thự của ông Putin'",
+      "link": "https://vnexpress.net/nga-se-gui-cho-my-bang-chung-ukraine-tan-cong-dinh-thu-cua-ong-putin-5000962.html",
+      "summary": "Nga thông báo đã giải mã thông tin từ UAV Ukraine bị bắn hạ khi nhắm đến dinh thự của ông Putin, cho biết sẽ chuyển dữ liệu cho Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:42:12+07:00",
+      "fetched": "2026-01-01T23:22:53.488641+07:00"
+    },
+    {
+      "id": "9c90476c3dadc0bd3fcee015a0892575",
+      "title": "Nga sẽ gửi cho Mỹ bằng chứng 'Ukraine tấn công dinh thự của ông Putin'",
+      "link": "https://vnexpress.net/nga-se-gui-cho-my-bang-chung-ukraine-tan-cong-dinh-thu-cua-ong-putin-5000962.html",
+      "summary": "Nga thông báo đã giải mã thông tin từ UAV Ukraine bị bắn hạ khi nhắm đến dinh thự của ông Putin, cho biết sẽ chuyển dữ liệu cho Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T14:42:12+07:00",
+      "fetched": "2026-01-01T23:22:58.952283+07:00"
+    },
+    {
+      "id": "f836f65b06f888f0aa3a70392199dac2",
+      "title": "TP.HCM: Cháy ở chi nhánh cửa hàng xe Isuzu ở xã Xuân Thới Sơn",
+      "link": "https://thanhnien.vn/tphcm-chay-o-chi-nhanh-cua-hang-xe-isuzu-o-xa-xuan-thoi-son-18526010121042386.htm",
+      "summary": "Vụ cháy tại chi nhánh cửa hàng xe Isuzu ở xã Xuân Thới Sơn (TP.HCM) đã được dập tắt kịp thời. Công an đang điều tra nguyên nhân và mức độ thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:42:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462745+07:00"
+    },
+    {
+      "id": "46c3456a8e6ef00d60182210e6d4e109",
+      "title": "Những TikToker 'ngáo quyền lực'",
+      "link": "https://thanhnien.vn/nhung-tiktoker-ngao-quyen-luc-185260101210431453.htm",
+      "summary": "Vụ việc một nữ TikToker 'chặn đầu' xe tải ở Thái Nguyên vì liên tục bị nháy đèn, nhận về nhiều phản ứng trái chiều. Vụ việc nhanh chóng khơi lên làn sóng bàn luận xoay quanh hiện tượng mà nhiều người gọi là 'ngáo quyền lực' của một bộ phận TikToker hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:30:00+07:00",
+      "fetched": "2026-01-01T23:22:56.462897+07:00"
+    },
+    {
+      "id": "0ecb39e843db4578c596c9101b33334d",
+      "title": "Phú Quốc: Cháy nhà kho, lực lượng chữa cháy căng mình chống lan sang rừng phòng hộ",
+      "link": "https://thanhnien.vn/phu-quoc-chay-nha-kho-luc-luong-chua-chay-cang-minh-chong-lan-sang-rung-phong-ho-185260101195130058.htm",
+      "summary": "Đến gần 19 giờ ngày 1.1.2026, các chiến sĩ Cảnh sát PCCC và cứu nạn cứu hộ Công an An Giang vẫn đang tích cực dập tắt đám cháy tại nhà kho ở khu phố Suối Đá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:23:00+07:00",
+      "fetched": "2026-01-01T23:22:56.463063+07:00"
+    },
+    {
+      "id": "b23200f8d60c678a017381d59b1c321c",
+      "title": "Hà Giang kẹt cứng, Đà Lạt thông thoáng ngày đầu tiên nghỉ lễ",
+      "link": "https://vnexpress.net/ha-giang-ket-cung-da-lat-thong-thoang-ngay-dau-tien-nghi-le-5000968.html",
+      "summary": "Một số điểm du lịch xảy ra quá tải cục bộ trong khi nhiều nơi trên cả nước vẫn thông thoáng, lượng khách chưa tăng mạnh trong ngày đầu tiên của kỳ nghỉ Tết Dương lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:19:46+07:00",
+      "fetched": "2026-01-01T23:22:53.488829+07:00"
+    },
+    {
+      "id": "bdee6f3980d0b28d4dc22155f990a19b",
+      "title": "Lễ nhậm chức tại ga tàu điện bỏ hoang của tân thị trưởng New York",
+      "link": "https://vnexpress.net/le-nham-chuc-tai-ga-tau-dien-bo-hoang-cua-tan-thi-truong-new-york-5000965.html",
+      "summary": "Thị trưởng New York Zohran Mamdani tuyên thệ nhậm chức tại ga tàu điện ngầm bỏ hoang dưới tòa thị chính, nơi ông gọi là biểu tượng cho “sự khởi đầu của kỷ nguyên mới”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T14:10:50+07:00",
+      "fetched": "2026-01-01T23:22:53.489004+07:00"
     },
     {
       "id": "2acb8e56094d5bb8a3b18a67fba2bffc",
