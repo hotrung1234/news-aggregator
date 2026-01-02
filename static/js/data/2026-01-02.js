@@ -1,7 +1,97 @@
 window.newsData_2026_01_02 = {
   "date": "2026-01-02",
-  "lastUpdated": "2026-01-02T05:17:45.660559+07:00",
+  "lastUpdated": "2026-01-02T08:25:35.269850+07:00",
   "articles": [
+    {
+      "id": "d0c37c496aed662bc3ea3796eed498ba",
+      "title": "Mạch chiến thắng của Man City bị 'mèo đen' chặn đứng ở trận mở màn năm 2026",
+      "link": "https://tuoitre.vn/mach-chien-thang-cua-man-city-bi-meo-den-chan-dung-o-tran-mo-man-nam-2026-20260102055421336.htm",
+      "summary": "Man City có rất nhiều cơ hội ghi bàn trước Sunderland, nhưng tất cả đều bị thủ môn Robin Roefs hóa giải và hai đội phải rời sân với kết quả 0-0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.403167+07:00",
+      "fetched": "2026-01-02T08:25:26.403290+07:00"
+    },
+    {
+      "id": "d91709ccfd9ef45f0a2ad81a0d969e94",
+      "title": "Chính phủ Gabon đình chỉ đội tuyển quốc gia thi đấu, loại bỏ ngôi sao Aubameyang",
+      "link": "https://tuoitre.vn/chinh-phu-gabon-dinh-chi-doi-tuyen-quoc-gia-thi-dau-loai-bo-ngoi-sao-aubameyang-20260102052522586.htm",
+      "summary": "Tức giận với màn trình diễn tệ hại của đội nhà ở Cúp bóng đá châu Phi (AFCON) 2025, Chính phủ Gabon đã giải tán ban huấn luyện và đình chỉ đội tuyển quốc gia thi đấu. Cựu ngôi sao Arsenal Pierre-Emerick Aubameyang cũng bị loại bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.403033+07:00",
+      "fetched": "2026-01-02T08:25:26.403155+07:00"
+    },
+    {
+      "id": "2ebf9efcdf3fc47b21b1411141b371bd",
+      "title": "Chân dung rạng rỡ của top 50 Miss World Vietnam 2025",
+      "link": "https://tuoitre.vn/chan-dung-rang-ro-cua-top-50-miss-world-vietnam-2025-20260102054107075.htm",
+      "summary": "Ban tổ chức cuộc thi Miss World Vietnam 2025 vừa công bố hình ảnh top 50 rạng rỡ trong bộ ảnh profile chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402907+07:00",
+      "fetched": "2026-01-02T08:25:26.403022+07:00"
+    },
+    {
+      "id": "a61d6f988641946f023cb947b72d5cc0",
+      "title": "Tin tức thế giới 2-1: Mỹ nói về cuộc tập trận của Trung Quốc; AI sẽ thống trị trong khoa học",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-2-1-my-noi-ve-cuoc-tap-tran-cua-trung-quoc-ai-se-thong-tri-trong-khoa-hoc-20260102062638876.htm",
+      "summary": "Mỹ cảnh báo hoạt động quân sự của Bắc Kinh ‘làm gia tăng căng thẳng không cần thiết’; Con gái ông Kim lần đầu viếng Cung điện Mặt trời Kumsusan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402781+07:00",
+      "fetched": "2026-01-02T08:25:26.402896+07:00"
+    },
+    {
+      "id": "a78fe7f7750a27ee2e9448c407a1c67e",
+      "title": "Câu nói của người dân vùng rốn lũ Chào năm mới 2026: Cứ tươi cười cùng nhau mà sống!",
+      "link": "https://tuoitre.vn/cau-noi-cua-nguoi-dan-vung-ron-lu-chao-nam-moi-2026-cu-tuoi-cuoi-cung-nhau-ma-song-20260102061651643.htm",
+      "summary": "Câu nói 'Cứ tươi cười cùng nhau mà sống. Điều may mắn nhất là cả nhà được bình an' của chị Nguyễn Thị Kim Lài sống ở vùng rốn lũ xã Hòa Thịnh, tỉnh Đắk Lắk là chi tiết xúc động trong Chào năm mới 2026 - Bản giao hưởng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402651+07:00",
+      "fetched": "2026-01-02T08:25:26.402769+07:00"
+    },
+    {
+      "id": "3d987adedfa5148cd53d08065d3deec5",
+      "title": "Chợ mạng bán tràn lan dụng cụ kích cá thì làm sao giảm  nạn dùng điện tận diệt cá?!",
+      "link": "https://tuoitre.vn/cho-mang-ban-tran-lan-dung-cu-kich-ca-thi-lam-sao-giam-nan-dung-dien-tan-diet-ca-20260101223419534.htm",
+      "summary": "Việc săn bắt cá tận diệt sẽ không thể giảm khi thông tin rao bán các sản phẩm kích cá điện tử, sử dụng xuyệt điện vẫn đang công khai, tràn lan trên mạng…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402516+07:00",
+      "fetched": "2026-01-02T08:25:26.402639+07:00"
+    },
+    {
+      "id": "d09a02900cd2418e66e6acfc5560a0b4",
+      "title": "Lộ trình khám sức khỏe định kỳ miễn phí: Bệnh nhân nào được ưu tiên trong năm 2026?",
+      "link": "https://tuoitre.vn/lo-trinh-kham-suc-khoe-dinh-ky-mien-phi-benh-nhan-nao-duoc-uu-tien-trong-nam-2026-20260101222935626.htm",
+      "summary": "Chính sách khám sức khỏe định kỳ miễn phí cho người dân mỗi năm một lần được kỳ vọng sẽ góp phần hiện thực hóa mục tiêu phòng bệnh từ sớm, từ xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402358+07:00",
+      "fetched": "2026-01-02T08:25:26.402503+07:00"
+    },
+    {
+      "id": "89bfd9f70963ecca96dce0eb8a66c803",
+      "title": "Tay vợt cầu lông Việt Nam 14 tuổi trong 1 tháng lên 714 bậc xếp hạng của thế giới",
+      "link": "https://tuoitre.vn/tay-vot-cau-long-viet-nam-14-tuoi-trong-1-thang-len-714-bac-xep-hang-cua-the-gioi-20260101203649214.htm",
+      "summary": "Trong bảng xếp hạng đơn nữ của Liên đoàn Cầu lông thế giới (BWF) vừa công bố ngày 1-1-2026, tay vợt 14 tuổi Nguyễn Thị Thu Huyền đã nhảy 64 bậc so với tuần trước để vươn lên hạng 328 thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.402209+07:00",
+      "fetched": "2026-01-02T08:25:26.402345+07:00"
+    },
+    {
+      "id": "59ef0302779b283eeaee4a90a34b1fb7",
+      "title": "Nga chuyển cho Mỹ bằng chứng, khẳng định Ukraine muốn tấn công dinh thự ông Putin",
+      "link": "https://tuoitre.vn/nga-chuyen-cho-my-bang-chung-khang-dinh-ukraine-muon-tan-cong-dinh-thu-ong-putin-20260102071747918.htm",
+      "summary": "Ngày 1-1, Nga đã trao cho tùy viên quân sự Mỹ một bộ phận từ máy bay không người lái được cho là của Ukraine chứa dữ liệu về cuộc tấn công của Kiev vào dinh thự Tổng thống Putin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T08:25:26.401990+07:00",
+      "fetched": "2026-01-02T08:25:26.402194+07:00"
+    },
     {
       "id": "c555a4c91d502d3525f89d5e5d7337d7",
       "title": "Thời tiết hôm nay 2-1: Bắc Bộ chìm trong giá rét, Đông Nam Bộ sáng mát lạnh",
@@ -181,6 +271,376 @@ window.newsData_2026_01_02 = {
       "category": "Tổng hợp",
       "published": "2026-01-02T01:26:47.080730+07:00",
       "fetched": "2026-01-02T01:26:47.080895+07:00"
+    },
+    {
+      "id": "82542c685d7a4b359cef1c3061b5e04b",
+      "title": "Phim có Quang Tuấn, Thanh Hương ra sao ở phòng vé?",
+      "link": "https://thanhnien.vn/phim-co-quang-tuan-thanh-huong-ra-sao-o-phong-ve-185260102005645122.htm",
+      "summary": "'Thiên đường máu' - dự án quy tụ dàn diễn viên như Quang Tuấn, Thanh Hương, Hoài Lâm... gây bất ngờ khi gần chạm mốc 30 tỉ đồng. Riêng trong ngày 1.1, tác phẩm này cạnh tranh sòng phẳng với cơn sốt 'Avatar 3'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:15:00+07:00",
+      "fetched": "2026-01-02T08:25:24.858637+07:00"
+    },
+    {
+      "id": "a12cb179900e46c2b61471a51bd5b28a",
+      "title": "Sự xuất hiện đặc biệt của con gái ông Kim Jong-un",
+      "link": "https://thanhnien.vn/su-xuat-hien-dac-biet-cua-con-gai-ong-kim-jong-un-185260102074946581.htm",
+      "summary": "Con gái Kim Ju-ae của Chủ tịch Kim Jong-un tại CHDCND Triều Tiên lần đầu viếng Cung điện Mặt trời Cẩm Tú Sơn (Kumsusan), hay còn gọi là lăng Kim Nhật Thành, nơi an nghỉ của cố Chủ tịch Kim Nhật Thành và cố lãnh đạo Kim Jong-il.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:09:00+07:00",
+      "fetched": "2026-01-02T08:25:24.858808+07:00"
+    },
+    {
+      "id": "08a6675d0ed03f30772d7441c1dfe126",
+      "title": "Đi cầu thang bộ mấy tầng mỗi ngày thì bắt đầu có lợi cho tim, phổi?",
+      "link": "https://thanhnien.vn/di-cau-thang-bo-may-tang-moi-ngay-thi-bat-dau-co-loi-cho-tim-phoi-185260101132646521.htm",
+      "summary": "Đi cầu thang thường chỉ kéo dài vài phút nhưng lại là dạng vận động khá đặc biệt. Chỉ trong vài chục bậc thang, nhịp tim tăng nhanh, nhịp thở dốc hơn, cơ mông đùi phải làm việc để nâng cả trọng lượng cơ thể lên cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:08:00+07:00",
+      "fetched": "2026-01-02T08:25:24.858966+07:00"
+    },
+    {
+      "id": "28558bf75e5f43a39ece50f1357b3b69",
+      "title": "Tờ báo luôn đồng hành cùng người trẻ và đất nước",
+      "link": "https://thanhnien.vn/to-bao-luon-dong-hanh-cung-nguoi-tre-va-dat-nuoc-185251229203028308.htm",
+      "summary": "Là diễn đàn của Hội Liên hiệp thanh niên Việt Nam, từ khi ra đời đến nay, tròn 40 năm, Báo Thanh Niên luôn phấn đấu để giữ vững tôn chỉ mục đích, luôn đồng hành, gắn bó với người trẻ và đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:02:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859120+07:00"
+    },
+    {
+      "id": "5c6dc96dc0fe57298ecea56f992cfb8c",
+      "title": "New Carnival định hình phong cách sang trọng, đẳng cấp theo gu thẩm mỹ của khách hàng",
+      "link": "https://thanhnien.vn/new-carnival-dinh-hinh-phong-cach-sang-trong-dang-cap-theo-gu-tham-my-cua-khach-hang-185260101191829733.htm",
+      "summary": "Kia New Carnival không chỉ đi đầu xu hướng di chuyển xanh với công nghệ Hybrid mà còn định hình phong cách sang trọng và đẳng cấp cho khách hàng theo gu thẩm mỹ riêng với tùy chọn cá nhân hóa chính hãng, cao cấp. Khách hàng có thể tự thiết kế nên phong cách của chính mình qua các tùy chọn màu nội th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:00:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859273+07:00"
+    },
+    {
+      "id": "8e5da185b83835b5ec9f5921238107b3",
+      "title": "Phòng ngừa các bệnh truyền nhiễm nguy hiểm mùa xuân",
+      "link": "https://thanhnien.vn/phong-ngua-cac-benh-truyen-nhiem-nguy-hiem-mua-xuan-185260101161346169.htm",
+      "summary": "Mùa xuân thời tiết chuyển lạnh, nhiều lễ hội đông người, giao thương, du lịch làm tăng nguy cơ lây nhiễm chéo các bệnh truyền nhiễm nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:00:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859423+07:00"
+    },
+    {
+      "id": "3567bb875278b5e6164f793ea280f5e7",
+      "title": "Váy midi cổ điển đa nhiệm, mặc lúc nào cũng hợp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-midi-co-dien-da-nhiem-mac-luc-nao-cung-hop-185251223115103023.htm",
+      "summary": "Váy midi cổ điển như các thiết kế đầm sơ mi, váy blazer, đầm cổ trụ... xứng danh là kiểu trang phục đa nhiệm. Các thiết kế này không chỉ dành riêng cho một kiểu không gian đặc thù mà có thể diện mọi lúc, hợp với nhiều vóc dáng và độ tuổi khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T01:00:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859600+07:00"
+    },
+    {
+      "id": "46f2f5440c0e85258cf96245d779f6ba",
+      "title": "Yêu cầu của Zalo và khoảng trống pháp luật dữ liệu cá nhân",
+      "link": "https://thanhnien.vn/yeu-cau-cua-zalo-va-khoang-trong-phap-luat-du-lieu-ca-nhan-185260101131253983.htm",
+      "summary": "Việc Zalo yêu cầu người dùng 'đồng ý hoặc mất tài khoản' phơi bày khoảng trống đáng lo ngại trong luật Bảo vệ dữ liệu cá nhân 2025: doanh nghiệp được quyền chọn cơ sở pháp lý có lợi nhất cho mình, còn sự đồng ý của người dùng thì dần mất đi ý nghĩa tự nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:52:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859755+07:00"
+    },
+    {
+      "id": "c976750d19d690135bdb53148424bf24",
+      "title": "Motorola khoe smartphone siêu mỏng khiến iPhone Air 'lép vế'",
+      "link": "https://thanhnien.vn/motorola-khoe-smartphone-sieu-mong-khien-iphone-air-lep-ve-185260102004005116.htm",
+      "summary": "Motorola đang chuẩn bị ra mắt phiên bản kế nhiệm của X70 Air, mang tên X70 Air Pro, tại thị trường Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:49:00+07:00",
+      "fetched": "2026-01-02T08:25:24.859912+07:00"
+    },
+    {
+      "id": "4d052f631af6e0266211a923f5e646aa",
+      "title": "Lương tối thiểu vùng tăng từ 1.1.2026: Ai được tăng, tăng bao nhiêu?",
+      "link": "https://thanhnien.vn/luong-toi-thieu-vung-tang-tu-112026-ai-duoc-tang-tang-bao-nhieu-185260101182419626.htm",
+      "summary": "Từ ngày 1.1.2026, mức lương tối thiểu tháng của vùng tăng thêm 250.000 - 350.000 đồng mỗi tháng, và mức lương tối thiểu giờ tăng 1.200 - 1.700 đồng mỗi giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:43:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860061+07:00"
+    },
+    {
+      "id": "a9fe5d07664eca11f0bae5b86b82939e",
+      "title": "Nga, Ukraine cáo buộc lẫn nhau tấn công mục tiêu dân sự ngày đầu năm mới",
+      "link": "https://vnexpress.net/nga-ukraine-cao-buoc-lan-nhau-tan-cong-muc-tieu-dan-su-ngay-dau-nam-moi-5000999.html",
+      "summary": "Nga tố Ukraine tập kích khách sạn tại khu vực nước này kiểm soát ở vùng Kherson, trong khi Kiev cáo buộc Moskva liên tục tấn công hạ tầng điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:35:00+07:00",
+      "fetched": "2026-01-02T08:25:21.431087+07:00"
+    },
+    {
+      "id": "a9fe5d07664eca11f0bae5b86b82939e",
+      "title": "Nga, Ukraine cáo buộc lẫn nhau tấn công mục tiêu dân sự ngày đầu năm mới",
+      "link": "https://vnexpress.net/nga-ukraine-cao-buoc-lan-nhau-tan-cong-muc-tieu-dan-su-ngay-dau-nam-moi-5000999.html",
+      "summary": "Nga tố Ukraine tập kích khách sạn tại khu vực nước này kiểm soát ở vùng Kherson, trong khi Kiev cáo buộc Moskva liên tục tấn công hạ tầng điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-02T00:35:00+07:00",
+      "fetched": "2026-01-02T08:25:28.426251+07:00"
+    },
+    {
+      "id": "5b78611401e60674dbc3ab8ed966995e",
+      "title": "Bác sĩ lấy 2 cờ lê sắt và 7 bàn chải từ bụng nam thanh niên",
+      "link": "https://vnexpress.net/bac-si-lay-2-co-le-sat-va-7-ban-chai-tu-bung-nam-thanh-nien-5000752.html",
+      "summary": "Các bác sĩ tại thành phố Jaipur vừa phẫu thuật khẩn cấp, lấy ra hai chiếc cờ lê sắt và 7 bàn chải đánh răng găm chặt trong dạ dày nam bệnh nhân 26 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:34:36+07:00",
+      "fetched": "2026-01-02T08:25:21.431268+07:00"
+    },
+    {
+      "id": "79d1da2d10c5074b95664a02ead6c7e5",
+      "title": "Chỉ có ở Thanh Niên: Những cây cầu bừng sáng vùng quê",
+      "link": "https://thanhnien.vn/chi-co-o-thanh-nien-nhung-cay-cau-bung-sang-vung-que-185251229195744093.htm",
+      "summary": "Ở miền Tây Nam bộ, một cây cầu không chỉ nối hai bờ kênh mà nối cả sinh kế, niềm tin và tương lai của người dân. 40 năm qua, Báo Thanh Niên đã kết nối để cùng nhau xây dựng những cây cầu vững chãi bằng trách nhiệm cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:31:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860212+07:00"
+    },
+    {
+      "id": "0448425610e4880dde98b5852a8c39f4",
+      "title": "Du khách nước ngoài nói gì về làn xe đạp tách biệt ở TP.HCM?",
+      "link": "https://thanhnien.vn/du-khach-nuoc-ngoai-noi-gi-ve-lan-xe-dap-tach-biet-o-tphcm-185260101185654156.htm",
+      "summary": "Bước sang năm mới 2026, làn đường dành riêng cho xe đạp trên trục Mai Chí Thọ, phường An Khánh, TP.HCM bắt đầu đón những lượt người đầu tiên trải nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:30:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860366+07:00"
+    },
+    {
+      "id": "3ebe0e1ef3fea163f95ff56aa9a39516",
+      "title": "Miễn vé vào cổng chiều tối, đông nghịt người vào Thảo Cầm Viên soi đèn để...",
+      "link": "https://thanhnien.vn/mien-ve-vao-cong-chieu-toi-dong-nghit-nguoi-vao-thao-cam-vien-soi-den-de-185260101232334334.htm",
+      "summary": "Trong đêm đầu tiên của năm mới 2026, Thảo Cầm Viên Sài Gòn trở nên nhộn nhịp hơn thường lệ khi đông đảo người dân và du khách đổ về tham quan, vui chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:28:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860535+07:00"
+    },
+    {
+      "id": "553a55f02dea05e30b8161f7cc3a5bfd",
+      "title": "Phối cảnh khu đô thị Olympic 9.000 ha ở Hà Nội",
+      "link": "https://vnexpress.net/phoi-canh-khu-do-thi-olympic-9-000-ha-o-ha-noi-5000193.html",
+      "summary": "Một siêu đô thị thể thao ở phía Nam Hà Nội có tổng mức đầu tư hơn 925.000 tỷ đồng, được quy hoạch thành bốn phân khu chức năng với điểm nhấn là SVĐ hình trống đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:23:14+07:00",
+      "fetched": "2026-01-02T08:25:21.431449+07:00"
+    },
+    {
+      "id": "145a297a59e1884b966d41288d64683c",
+      "title": "Mỹ trừng phạt doanh nghiệp, tàu chở dầu Trung Quốc liên quan Venezuela",
+      "link": "https://thanhnien.vn/my-trung-phat-doanh-nghiep-tau-cho-dau-trung-quoc-lien-quan-venezuela-185260102065903866.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đang đẩy mạnh chiến dịch gây sức ép nhằm vào xuất khẩu dầu mỏ của Venezuela khi áp đặt các biện pháp trừng phạt mới đối với nhiều công ty có trụ sở tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:20:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860686+07:00"
+    },
+    {
+      "id": "064799280a1072978b7c8be75de0c47d",
+      "title": "Ông Trump giải thích vết bầm trên tay, nói không ngủ gật lúc họp",
+      "link": "https://thanhnien.vn/ong-trump-giai-thich-vet-bam-tren-tay-noi-khong-ngu-gat-luc-hop-185260102065945417.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đổ lỗi cho thuốc aspirin đã gây ra những vết bầm lan rộng trên bàn tay ông, cũng như bác bỏ chuyện từng ngủ gật trong lúc tham gia các cuộc họp công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:17:00+07:00",
+      "fetched": "2026-01-02T08:25:24.860833+07:00"
+    },
+    {
+      "id": "cfd9b45878807c3a4a0d92bd68431475",
+      "title": "500 triệu nên mua xe xăng hay xe điện?",
+      "link": "https://vnexpress.net/500-trieu-nen-mua-xe-xang-hay-xe-dien-5000848.html",
+      "summary": "Tầm tiền này tôi phân vân mua VF 5 Plus hoặc Mazda2 Luxury, xin hỏi tôi nên chọn xe nào nhờ độc giả tư vấn thêm. (Phan Thu)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T00:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.431617+07:00"
+    },
+    {
+      "id": "be6d0c8e3f3e4ce45386577c99af2164",
+      "title": "11 tài năng trẻ hứa hẹn bùng nổ năm 2026",
+      "link": "https://vnexpress.net/11-tai-nang-tre-hua-hen-bung-no-nam-2026-5000992.html",
+      "summary": "Lennart Karl (Bayern Munich), Yan Diomande (Leipzig), Honest Ahanor (Atalanta) hay Kees Smit (AZ Alkmaar) là những cầu thủ trẻ được kỳ vọng sẽ tạo đột phá trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:59:06+07:00",
+      "fetched": "2026-01-02T08:25:21.431781+07:00"
+    },
+    {
+      "id": "be6d0c8e3f3e4ce45386577c99af2164",
+      "title": "11 tài năng trẻ hứa hẹn bùng nổ năm 2026",
+      "link": "https://vnexpress.net/11-tai-nang-tre-hua-hen-bung-no-nam-2026-5000992.html",
+      "summary": "Lennart Karl (Bayern Munich), Yan Diomande (Leipzig), Honest Ahanor (Atalanta) hay Kees Smit (AZ Alkmaar) là những cầu thủ trẻ được kỳ vọng sẽ tạo đột phá trong năm 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T23:59:06+07:00",
+      "fetched": "2026-01-02T08:25:35.264265+07:00"
+    },
+    {
+      "id": "ebdd326b17b539205df19b0be71f8b39",
+      "title": "Gabon loại Aubameyang, giải tán ban huấn luyện",
+      "link": "https://vnexpress.net/gabon-loai-aubameyang-giai-tan-ban-huan-luyen-5000991.html",
+      "summary": "Toàn thua ba trận và bị loại từ vòng bảng Cup châu Phi 2025 (AFCON), chính phủ Gabon đình chỉ toàn bộ đội tuyển, loại đội trưởng Pierre-Emerick Aubameyang và sa thải HLV trưởng cùng ban huấn luyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:53:35+07:00",
+      "fetched": "2026-01-02T08:25:21.431948+07:00"
+    },
+    {
+      "id": "ebdd326b17b539205df19b0be71f8b39",
+      "title": "Gabon loại Aubameyang, giải tán ban huấn luyện",
+      "link": "https://vnexpress.net/gabon-loai-aubameyang-giai-tan-ban-huan-luyen-5000991.html",
+      "summary": "Toàn thua ba trận và bị loại từ vòng bảng Cup châu Phi 2025 (AFCON), chính phủ Gabon đình chỉ toàn bộ đội tuyển, loại đội trưởng Pierre-Emerick Aubameyang và sa thải HLV trưởng cùng ban huấn luyện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T23:53:35+07:00",
+      "fetched": "2026-01-02T08:25:35.265109+07:00"
+    },
+    {
+      "id": "ae4da9ad9baaf0e81004ad7af738ad9d",
+      "title": "Cựu danh thủ Italy dẫn Arab Saudi đấu Việt Nam",
+      "link": "https://vnexpress.net/cuu-danh-thu-italy-dan-arab-saudi-dau-viet-nam-5000990.html",
+      "summary": "Luigi Di Biagio, từng khoác áo Roma và Inter Milan, có nhiệm vụ đưa Arab Saudi vào chung kết U23 châu Á 2026 trên sân nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:52:07+07:00",
+      "fetched": "2026-01-02T08:25:21.432107+07:00"
+    },
+    {
+      "id": "ae4da9ad9baaf0e81004ad7af738ad9d",
+      "title": "Cựu danh thủ Italy dẫn Arab Saudi đấu Việt Nam",
+      "link": "https://vnexpress.net/cuu-danh-thu-italy-dan-arab-saudi-dau-viet-nam-5000990.html",
+      "summary": "Luigi Di Biagio, từng khoác áo Roma và Inter Milan, có nhiệm vụ đưa Arab Saudi vào chung kết U23 châu Á 2026 trên sân nhà.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T23:52:07+07:00",
+      "fetched": "2026-01-02T08:25:35.264461+07:00"
+    },
+    {
+      "id": "e09fa7edc3d8f7f414257a4640028f72",
+      "title": "Cú 'lội ngược dòng' của thạc sĩ thất nghiệp",
+      "link": "https://vnexpress.net/cu-loi-nguoc-dong-cua-thac-si-that-nghiep-5000868.html",
+      "summary": "Thay vì mạo hiểm vượt biển sang châu Âu hay chật vật sống mòn ở thủ đô, Filly Mangassa chọn quay về làng quê để tìm cơ hội từ đồng ruộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:28:00+07:00",
+      "fetched": "2026-01-02T08:25:21.432271+07:00"
+    },
+    {
+      "id": "1dcc21b38a218bd7e39945bd6608dd9e",
+      "title": "Liverpool lần đầu hòa 0-0 dưới thời Slot",
+      "link": "https://vnexpress.net/liverpool-lan-dau-hoa-0-0-duoi-thoi-slot-5000995.html",
+      "summary": "Sau 84 trận dưới sự dẫn dắt của HLV Arne Slot, Liverpool lần đầu hòa không bàn thắng, khi tiếp Leeds ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:19:05+07:00",
+      "fetched": "2026-01-02T08:25:21.432453+07:00"
+    },
+    {
+      "id": "1dcc21b38a218bd7e39945bd6608dd9e",
+      "title": "Liverpool lần đầu hòa 0-0 dưới thời Slot",
+      "link": "https://vnexpress.net/liverpool-lan-dau-hoa-0-0-duoi-thoi-slot-5000995.html",
+      "summary": "Sau 84 trận dưới sự dẫn dắt của HLV Arne Slot, Liverpool lần đầu hòa không bàn thắng, khi tiếp Leeds ở vòng 19 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T23:19:05+07:00",
+      "fetched": "2026-01-02T08:25:35.264633+07:00"
+    },
+    {
+      "id": "8558cc920911c82fadfa1dab51aab03b",
+      "title": "Điểm tin 6h: Hút thuốc lá điện tử sẽ bị phạt đến 5 triệu đồng | Hà Giang kẹt cứng, Đà Lạt thông thoáng ngày đầu tiên nghỉ lễ",
+      "link": "https://vnexpress.net/diem-tin-6h-hut-thuoc-la-dien-tu-se-bi-phat-den-5-trieu-dong-ha-giang-ket-cung-da-lat-thong-thoang-ngay-dau-tien-nghi-le-5000994.html",
+      "summary": "Những cú lừa từ video giải cứu nạn nhân Campuchia của 'hiệp sĩ' Nguyễn Thanh Hải; Những yếu tố tác động đến giá vàng thế giới năm 2026...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:16+07:00",
+      "fetched": "2026-01-02T08:25:21.432619+07:00"
+    },
+    {
+      "id": "7477b6dd182a4fa4c7d01e0289ef5469",
+      "title": "Bệnh tình dục rình rập nếu buông thả sau tiệc vui",
+      "link": "https://vnexpress.net/benh-tinh-duc-rinh-rap-sau-tiec-vui-cuoi-nam-5000904.html",
+      "summary": "Người đàn ông 32 tuổi tiểu rát kéo dài do quan hệ tình dục không an toàn với đồng nghiệp nữ sau buổi tiệc tất niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.432778+07:00"
+    },
+    {
+      "id": "323e183351db0180b05acb499e88fed9",
+      "title": "Giáo viên hợp đồng chạnh lòng vì thưởng Tết",
+      "link": "https://vnexpress.net/thuong-tet-giao-vien-hop-dong-111-theo-nghi-dinh-73-nhu-the-nao-5000440.html",
+      "summary": "Thấy đồng nghiệp nhận 10-12 triệu đồng tiền thưởng theo Nghị định 73, cô Ngọc Hân chạnh lòng vì \"không có gì\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.432934+07:00"
+    },
+    {
+      "id": "7a12e920441a9b905a81e2a7da2183a3",
+      "title": "Bất đồng khiến Arab Saudi và UAE từ đồng minh thành đối thủ",
+      "link": "https://vnexpress.net/bat-dong-khien-arab-saudi-va-uae-tu-dong-minh-thanh-doi-thu-5000354.html",
+      "summary": "Arab Saudi và UAE đang lộ rõ những khác biệt chiến lược, từ vấn đề Yemen, Sudan đến Israel, khiến hai nước từng là đồng minh dần trở thành đối thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.433092+07:00"
+    },
+    {
+      "id": "1bf44649096e434de9bd3ceaca7546b0",
+      "title": "Chàng trai 'cưa đổ' nữ y tá Nhật bằng bức thư tay",
+      "link": "https://vnexpress.net/chang-trai-cua-do-nu-y-ta-nhat-bang-buc-thu-tay-4999415.html",
+      "summary": "Thầm yêu cô y tá cùng bệnh viện nhưng Hoàng Khánh Dương mất hai năm mới dám tỏ tình vì sợ bị cô gái Nhật báo cảnh sát vì quấy rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.433262+07:00"
+    },
+    {
+      "id": "64e086deb2bef3d0d49354eea6c09202",
+      "title": "K-car điện 'vô danh' khuấy động Nhật Bản bắt đầu giao hàng",
+      "link": "https://vnexpress.net/k-car-dien-vo-danh-khuay-dong-nhat-ban-bat-dau-giao-hang-5000586.html",
+      "summary": "Chiếc Mibot nhỏ bé được hãng KG Motors giao đến những khách hàng đầu tiên sau khi thu hút sự quan tâm với lượng đơn hàng lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:21.433414+07:00"
+    },
+    {
+      "id": "7a12e920441a9b905a81e2a7da2183a3",
+      "title": "Bất đồng khiến Arab Saudi và UAE từ đồng minh thành đối thủ",
+      "link": "https://vnexpress.net/bat-dong-khien-arab-saudi-va-uae-tu-dong-minh-thanh-doi-thu-5000354.html",
+      "summary": "Arab Saudi và UAE đang lộ rõ những khác biệt chiến lược, từ vấn đề Yemen, Sudan đến Israel, khiến hai nước từng là đồng minh dần trở thành đối thủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-01T23:00:00+07:00",
+      "fetched": "2026-01-02T08:25:28.426446+07:00"
+    },
+    {
+      "id": "f0bcad155f836a7626f850f59f445ed3",
+      "title": "Man City hòa tân binh Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-hoa-tan-binh-ngoai-hang-anh-5000993.html",
+      "summary": "Man City hòa 0-0 trên sân Sunderland ở vòng 19 Ngoại hạng Anh và bị CLB dẫn đầu Arsenal nới rộng cách biệt lên bốn điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-01T22:40:09+07:00",
+      "fetched": "2026-01-02T08:25:35.264794+07:00"
     },
     {
       "id": "faeb21a72fc4b174592b349d3c02c4df",
