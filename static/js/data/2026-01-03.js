@@ -1,7 +1,97 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T05:17:53.673483+07:00",
+  "lastUpdated": "2026-01-03T08:20:55.123193+07:00",
   "articles": [
+    {
+      "id": "151b62d5caf23d062d026e5ff4fc5481",
+      "title": "Thời tiết hôm nay 3-1: Rét đậm, rét hại bao trùm Bắc Bộ, Nam Bộ sáng se lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-1-ret-dam-ret-hai-bao-trum-bac-bo-nam-bo-sang-se-lanh-2026010216042048.htm",
+      "summary": "Hôm nay 3-1, không khí lạnh bao trùm cả Bắc Bộ đến duyên hải Nam Trung Bộ, nhiệt độ giảm thấp ở vùng núi, Nam Bộ hưởng chút lạnh đầu ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.496145+07:00",
+      "fetched": "2026-01-03T08:20:47.496258+07:00"
+    },
+    {
+      "id": "9b800ef8e07da4997244a856d15e1033",
+      "title": "6 ngày, 13 cầu thủ bị kỷ luật: Lo cho bóng đá trẻ Việt",
+      "link": "https://tuoitre.vn/6-ngay-13-cau-thu-bi-ky-luat-lo-cho-bong-da-tre-viet-20260102232213958.htm",
+      "summary": "Chỉ trong vòng 6 ngày đã có 13 cầu thủ trẻ bị Ban Kỷ luật Liên đoàn Bóng đá Việt Nam (VFF) phạt tiền và treo giò do thi đấu tiêu cực ở vòng loại Giải U19 quốc gia 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.496016+07:00",
+      "fetched": "2026-01-03T08:20:47.496133+07:00"
+    },
+    {
+      "id": "adcc0382f6fdf4888b66af1949dc8f51",
+      "title": "2026 là cơ hội để Việt Nam tạo khác biệt",
+      "link": "https://tuoitre.vn/2026-la-co-hoi-de-viet-nam-tao-khac-biet-20260102233413869.htm",
+      "summary": "Khép lại năm 2025 với nhiều biến động, giới quan sát kỳ vọng bức tranh toàn cầu năm 2026 sẽ xuất hiện những gam màu tươi sáng hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495891+07:00",
+      "fetched": "2026-01-03T08:20:47.496004+07:00"
+    },
+    {
+      "id": "ca8b3cdc31b19b9f9191d44433880cde",
+      "title": "Tin tức sáng 3-1: Sẽ chi gộp 2 tháng lương hưu trước Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-3-1-se-chi-gop-2-thang-luong-huu-truoc-tet-binh-ngo-20260102085013062.htm",
+      "summary": "Một số tin tức đáng chú ý: Lợi nhuận quý 4-2025 của nhiều doanh nghiệp dự kiến tăng mạnh; Chủ tịch ANV muốn thoái sạch vốn; 12 ca thông tim bào thai thành công...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495760+07:00",
+      "fetched": "2026-01-03T08:20:47.495879+07:00"
+    },
+    {
+      "id": "7c944441eec5f3b387c74e0e26420d8f",
+      "title": "Tin tức thế giới 3-1: Bộ trưởng Quốc phòng Ukraine bị thay sau 5 tháng; Thái Lan soạn Hiến pháp mới?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-3-1-bo-truong-quoc-phong-ukraine-bi-thay-sau-5-thang-thai-lan-soan-hien-phap-moi-20260103050813071.htm",
+      "summary": "Phó thủ tướng thứ nhất Ukraine Mykhailo Fedorov được đề cử làm tân Bộ trưởng Quốc phòng; Nữ thủ tướng Nhật Takaichi điện đàm với ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495608+07:00",
+      "fetched": "2026-01-03T08:20:47.495747+07:00"
+    },
+    {
+      "id": "24b3397e51a7ba9b934ac683a2b00a27",
+      "title": "AFC lại nhấn mạnh nỗi đau ở SEA Games 33 của Thái Lan",
+      "link": "https://tuoitre.vn/afc-lai-nhan-manh-noi-dau-o-sea-games-33-cua-thai-lan-2026010306170663.htm",
+      "summary": "Trong bài viết đánh giá về U23 Thái Lan tại Giải U23 châu Á 2026, Liên đoàn Bóng đá châu Á (AFC) nhắc lại thất bại của đội bóng này ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495478+07:00",
+      "fetched": "2026-01-03T08:20:47.495595+07:00"
+    },
+    {
+      "id": "52cc19d649be754a82b80d8f4d9e5a0d",
+      "title": "Cháy quán bar Thụy Sĩ khiến 40 người chết: Nguyên nhân từ pháo sáng gắn trên chai champagne",
+      "link": "https://tuoitre.vn/chay-quan-bar-thuy-si-khien-40-nguoi-chet-nguyen-nhan-tu-phao-sang-gan-tren-chai-champagne-20260103070311394.htm",
+      "summary": "Giới chức Thụy Sĩ cho biết đã xác định được nguyên nhân ban đầu của vụ hỏa hoạn thảm khốc hôm 1-1 khiến 40 người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495345+07:00",
+      "fetched": "2026-01-03T08:20:47.495466+07:00"
+    },
+    {
+      "id": "05c5f667c531016f4ba2058a4d242aaf",
+      "title": "Việt Nam bất ngờ là đội được AFC 'ưu ái' nhất ở Giải U23 châu Á",
+      "link": "https://tuoitre.vn/viet-nam-bat-ngo-la-doi-duoc-afc-uu-ai-nhat-o-giai-u23-chau-a-20260102203231506.htm",
+      "summary": "Trang mạng chính thức của Liên đoàn Bóng đá châu Á (AFC) dành số lượng bài đăng nhiều đặc biệt cho U23 Việt Nam, trước thềm VCK Giải U23 châu Á 2026 sắp  diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495203+07:00",
+      "fetched": "2026-01-03T08:20:47.495332+07:00"
+    },
+    {
+      "id": "204ef677ec86112209cf81a2b8e22623",
+      "title": "Trường đại học đầu tiên có phương thức xét tuyển hồ sơ năng lực",
+      "link": "https://tuoitre.vn/truong-dai-hoc-dau-tien-co-phuong-thuc-xet-tuyen-ho-so-nang-luc-20260103072308105.htm",
+      "summary": "Trường đại học Văn Lang bổ sung phương thức xét tuyển hồ sơ năng lực, tăng khả năng nhận diện thí sinh phù hợp theo từng khối ngành đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T08:20:47.495028+07:00",
+      "fetched": "2026-01-03T08:20:47.495188+07:00"
+    },
     {
       "id": "f8d07a77d4b9865ebc21d3bd793f9679",
       "title": "Tesla mất ngôi hãng xe điện số 1 thế giới vào tay hãng xe Trung Quốc",
@@ -161,6 +251,386 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T01:26:36.264525+07:00",
       "fetched": "2026-01-03T01:26:36.264732+07:00"
+    },
+    {
+      "id": "6b48fd1f032795a5a382c308bdf398ef",
+      "title": "Campuchia cáo buộc Thái Lan 'sáp nhập' làng biên giới, Thái Lan bác bỏ",
+      "link": "https://thanhnien.vn/campuchia-cao-buoc-thai-lan-sap-nhap-lang-bien-gioi-thai-lan-bac-bo-185260103072622285.htm",
+      "summary": "Campuchia cho rằng lực lượng Thái Lan bắt đầu 'sáp nhập bất hợp pháp' các khu vực lãnh thổ của Campuchia, trong khi Thái Lan khẳng định chỉ kiểm soát những khu vực vốn luôn thuộc về mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:18:00+07:00",
+      "fetched": "2026-01-03T08:20:46.374745+07:00"
+    },
+    {
+      "id": "735dd4250d85d098179c9d1ee19bc7c5",
+      "title": "Ronaldo tịt ngòi trong ngày Al Nassr đứt mạch bất bại",
+      "link": "https://vnexpress.net/ronaldo-tit-ngoi-trong-ngay-al-nassr-dut-mach-bat-bai-5001289.html",
+      "summary": "Tiền đạo Cristiano Ronaldo phung phí cơ hội khi Al Nassr thua chủ nhà Al Ahli 2-3 ở vòng 13 và nguy cơ mất đỉnh bảng Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:06:00+07:00",
+      "fetched": "2026-01-03T08:20:43.178700+07:00"
+    },
+    {
+      "id": "735dd4250d85d098179c9d1ee19bc7c5",
+      "title": "Ronaldo tịt ngòi trong ngày Al Nassr đứt mạch bất bại",
+      "link": "https://vnexpress.net/ronaldo-tit-ngoi-trong-ngay-al-nassr-dut-mach-bat-bai-5001289.html",
+      "summary": "Tiền đạo Cristiano Ronaldo phung phí cơ hội khi Al Nassr thua chủ nhà Al Ahli 2-3 ở vòng 13 và nguy cơ mất đỉnh bảng Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T01:06:00+07:00",
+      "fetched": "2026-01-03T08:20:55.118480+07:00"
+    },
+    {
+      "id": "30977b19ec88011c9f54d49dcf4fbf44",
+      "title": "Guardiola bực mình trước tin đồn bị Enzo Maresca thay thế tại Man City",
+      "link": "https://vnexpress.net/guardiola-buc-minh-truoc-tin-don-bi-enzo-maresca-thay-the-tai-man-city-5001290.html",
+      "summary": "Pep Guardiola tỏ vẻ ngán ngẩm trước những câu hỏi về tương lai, giữa những tin đồn về việc Enzo Maresca – người vừa bị Chelsea sa thải – sẽ thay thế ông ở Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:01:06+07:00",
+      "fetched": "2026-01-03T08:20:43.178883+07:00"
+    },
+    {
+      "id": "30977b19ec88011c9f54d49dcf4fbf44",
+      "title": "Guardiola bực mình trước tin đồn bị Enzo Maresca thay thế tại Man City",
+      "link": "https://vnexpress.net/guardiola-buc-minh-truoc-tin-don-bi-enzo-maresca-thay-the-tai-man-city-5001290.html",
+      "summary": "Pep Guardiola tỏ vẻ ngán ngẩm trước những câu hỏi về tương lai, giữa những tin đồn về việc Enzo Maresca – người vừa bị Chelsea sa thải – sẽ thay thế ông ở Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T01:01:06+07:00",
+      "fetched": "2026-01-03T08:20:55.117650+07:00"
+    },
+    {
+      "id": "9d72059c57e8c95825374fd1d06f6b7a",
+      "title": "Bên trong 'nhà tù giảm béo' ở Trung Quốc",
+      "link": "https://vnexpress.net/ben-trong-nha-tu-giam-beo-o-trung-quoc-5001096.html",
+      "summary": "Trong khuôn viên khép kín, bao quanh bởi tường cao, rào điện và lực lượng an ninh túc trực 24/7, hàng trăm người giam mình tự nguyện với một mục tiêu duy nhất: thay đổi hình thể cấp tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179050+07:00"
+    },
+    {
+      "id": "6f65e19f6cb315b4b9f22ee404b8a521",
+      "title": "Trăn khủng vào tiệm tóc đi nhờ nhà vệ sinh",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-tran-khung-vao-tiem-toc-di-nho-nha-ve-sinh-5000430.html",
+      "summary": "Một con trăn dài tới 4 mét bất ngờ xuất hiện… trong bồn cầu tại một tiệm tóc ở Malaysia khiến cả tiệm phải phen 'hết hồn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179210+07:00"
+    },
+    {
+      "id": "7a6e2e30a2b6d633db64c933f3a3fcba",
+      "title": "Hãng Trung Quốc xuất khẩu một ôtô mỗi 23 giây",
+      "link": "https://vnexpress.net/hang-trung-quoc-xuat-khau-mot-oto-moi-23-giay-5001230.html",
+      "summary": "Trung bình 23 giây lại có một chiếc Chery được xuất khẩu trong năm 2025, giúp hãng duy trì vị trí dẫn đầu trong 23 năm liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179364+07:00"
+    },
+    {
+      "id": "f15e78cca3414d85aadbb6759dca3c3d",
+      "title": "Nên điều trị rãnh cười sâu bằng công nghệ nào?",
+      "link": "https://vnexpress.net/nen-dieu-tri-ranh-cuoi-sau-bang-cong-nghe-nao-5001251.html",
+      "summary": "Tôi bị rãnh cười rõ từ nhỏ, càng lớn càng sâu. Tôi nên điều trị bằng công nghệ sóng SUPERB hay HIFU để hiệu quả và an toàn?(Ánh Nguyệt, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179518+07:00"
+    },
+    {
+      "id": "6ee4a70fcefb59f296efb874088d6ab2",
+      "title": "Sau xạ trị ung thư có cần cách ly không?",
+      "link": "https://vnexpress.net/sau-xa-tri-ung-thu-co-can-cach-ly-khong-5001137.html",
+      "summary": "Tôi sắp xạ trị sau phẫu thuật ung thư. Sau xạ trị, tôi có cần cách ly không và bao lâu? (Thành Mẫn, 44 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179683+07:00"
+    },
+    {
+      "id": "c217d2295395db798282a70878ec66f2",
+      "title": "Đặt stent động mạch vành có đau không?",
+      "link": "https://vnexpress.net/dat-stent-dong-mach-vanh-co-dau-khong-5001130.html",
+      "summary": "Tôi hẹp 85% động mạch vành, bác sĩ khuyên can thiệp sớm. Đặt stent có đau không và sau bao lâu có thể hồi phục? (Trần Văn Đức, 63 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.179844+07:00"
+    },
+    {
+      "id": "b83005cd709366a41adee61484cd1b95",
+      "title": "6 thói quen ăn sáng hại sức khỏe",
+      "link": "https://vnexpress.net/6-thoi-quen-an-sang-hai-suc-khoe-5001127.html",
+      "summary": "Ăn vội vàng, uống nhiều nước ép trái cây, bỏ qua protein và chất xơ có thể ảnh hưởng xấu đến quá trình trao đổi chất, sức khỏe đường ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.180003+07:00"
+    },
+    {
+      "id": "8eb1f8215418062539aef5f6d5791535",
+      "title": "Mổ mắt lác bao lâu ổn định thị lực?",
+      "link": "https://vnexpress.net/mo-mat-lac-bao-lau-on-dinh-thi-luc-5001124.html",
+      "summary": "Tôi vừa mổ mắt lác và đang theo dõi tại nhà. Bao lâu sau mổ mắt hồi phục hoàn toàn? Tôi cần kiêng cữ và chăm sóc ra sao? (Thu Hà, 32 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:43.180158+07:00"
+    },
+    {
+      "id": "c4641368827efd9a8732d4831bf20b15",
+      "title": "Người bạn đồng hành thân thương và tin cậy của ngành giáo dục",
+      "link": "https://thanhnien.vn/nguoi-ban-dong-hanh-than-thuong-va-tin-cay-cua-nganh-giao-duc-185251229164803826.htm",
+      "summary": "Tôi không khỏi xúc động khi nhớ về những dịp phối hợp với Báo Thanh Niên trong triển khai thực hiện các nhiệm vụ của ngành GD-ĐT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T01:00:00+07:00",
+      "fetched": "2026-01-03T08:20:46.374913+07:00"
+    },
+    {
+      "id": "9c2adc0fdc60a02484282bd46c581048",
+      "title": "Slot: 'Liverpool không nên nhìn lên nhóm dẫn đầu Ngoại hạng Anh lúc này'",
+      "link": "https://vnexpress.net/slot-liverpool-khong-nen-nhin-len-nhom-dan-dau-ngoai-hang-anh-luc-nay-5001263.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool đang trải qua giai đoạn đầy thử thách và chưa đủ tầm cạnh tranh ngôi vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:46:17+07:00",
+      "fetched": "2026-01-03T08:20:43.180319+07:00"
+    },
+    {
+      "id": "9c2adc0fdc60a02484282bd46c581048",
+      "title": "Slot: 'Liverpool không nên nhìn lên nhóm dẫn đầu Ngoại hạng Anh lúc này'",
+      "link": "https://vnexpress.net/slot-liverpool-khong-nen-nhin-len-nhom-dan-dau-ngoai-hang-anh-luc-nay-5001263.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool đang trải qua giai đoạn đầy thử thách và chưa đủ tầm cạnh tranh ngôi vô địch Ngoại hạng Anh mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T00:46:17+07:00",
+      "fetched": "2026-01-03T08:20:55.118165+07:00"
+    },
+    {
+      "id": "edcee33737078e2c155ae9840a3d836d",
+      "title": "Arteta muốn phá dớp dẫn đầu Ngoại hạng Anh dịp Năm mới",
+      "link": "https://vnexpress.net/arteta-muon-pha-dop-dan-dau-ngoai-hang-anh-dip-nam-moi-5001261.html",
+      "summary": "Sau năm lần liên tiếp giữ đỉnh bảng Ngoại hạng Anh dịp đầu năm nhưng không thể đăng quang, HLV Mikel Arteta tin khát khao và năng lượng hiện tại đủ giúp Arsenal xóa bỏ thống kê này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:40:30+07:00",
+      "fetched": "2026-01-03T08:20:43.180478+07:00"
+    },
+    {
+      "id": "edcee33737078e2c155ae9840a3d836d",
+      "title": "Arteta muốn phá dớp dẫn đầu Ngoại hạng Anh dịp Năm mới",
+      "link": "https://vnexpress.net/arteta-muon-pha-dop-dan-dau-ngoai-hang-anh-dip-nam-moi-5001261.html",
+      "summary": "Sau năm lần liên tiếp giữ đỉnh bảng Ngoại hạng Anh dịp đầu năm nhưng không thể đăng quang, HLV Mikel Arteta tin khát khao và năng lượng hiện tại đủ giúp Arsenal xóa bỏ thống kê này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T00:40:30+07:00",
+      "fetched": "2026-01-03T08:20:55.118323+07:00"
+    },
+    {
+      "id": "0eae6998b7e9e3681683d7d980b7b4c7",
+      "title": "Số liệu mới từ Steam hé lộ xu hướng bất ngờ trong cộng đồng game thủ",
+      "link": "https://thanhnien.vn/so-lieu-moi-tu-steam-he-lo-xu-huong-bat-ngo-trong-cong-dong-game-thu-185260102232435419.htm",
+      "summary": "Game thủ Steam đang thay đổi thói quen nâng cấp phần cứng ưu tiên RAM 32 GB và CPU AMD theo khảo sát mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:40:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375070+07:00"
+    },
+    {
+      "id": "aff375a02af30e7fc5ca833e621d5922",
+      "title": "10 tân binh gây thất vọng nửa đầu Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-tan-binh-gay-that-vong-nua-dau-ngoai-hang-anh-5001258.html",
+      "summary": "Alexander Isak (Liverpool), Benjamin Sesko (Man Utd), Viktor Gyokeres (Arsenal) hay Xavi Simons (Tottenham) là những tân binh đình đám thi đấu không đạt kỳ vọng qua 19 vòng đầu Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:35:29+07:00",
+      "fetched": "2026-01-03T08:20:43.180638+07:00"
+    },
+    {
+      "id": "aff375a02af30e7fc5ca833e621d5922",
+      "title": "10 tân binh gây thất vọng nửa đầu Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-tan-binh-gay-that-vong-nua-dau-ngoai-hang-anh-5001258.html",
+      "summary": "Alexander Isak (Liverpool), Benjamin Sesko (Man Utd), Viktor Gyokeres (Arsenal) hay Xavi Simons (Tottenham) là những tân binh đình đám thi đấu không đạt kỳ vọng qua 19 vòng đầu Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T00:35:29+07:00",
+      "fetched": "2026-01-03T08:20:55.117844+07:00"
+    },
+    {
+      "id": "0a9e45c5e599acbcb521da93bc990bd9",
+      "title": "Dấu ấn Thanh Niên giữa đại dịch thế kỷ",
+      "link": "https://thanhnien.vn/dau-an-thanh-nien-giua-dai-dich-the-ky-185251229163852417.htm",
+      "summary": "Gần 5 năm trôi qua kể từ giai đoạn giãn cách xã hội vì đại dịch Covid-19, những khoảnh khắc chưa từng có vẫn vẹn nguyên trong tâm trí những người làm báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:30:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375222+07:00"
+    },
+    {
+      "id": "df6e17d2df48683f0bc6a2e90174bba9",
+      "title": "Anh Nguyễn Mạnh Huy: 'Một lần nữa xin chân thành cảm ơn Báo Thanh Niên'",
+      "link": "https://thanhnien.vn/anh-nguyen-manh-huy-mot-lan-nua-xin-chan-thanh-cam-on-bao-thanh-nien-185251212150257285.htm",
+      "summary": "39 năm trước, Thanh Niên là tờ báo đầu tiên đã lên tiếng về trường hợp anh Nguyễn Mạnh Huy ở tỉnh Nghĩa Bình (cũ) 3 lần thi đậu đại học nhưng vẫn không được đến giảng đường vì lý lịch không \"đẹp\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:30:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375377+07:00"
+    },
+    {
+      "id": "e0db6431b5273dc42637eb4c51fa92f5",
+      "title": "Mỹ phá âm mưu đâm dao hàng loạt đêm giao thừa",
+      "link": "https://vnexpress.net/my-pha-am-muu-dam-dao-hang-loat-dem-giao-thua-5001267.html",
+      "summary": "FBI chặn một \"vụ tấn công khủng bố tiềm tàng\" được lên kế hoạch vào đêm giao thừa ở Bắc Carolina, bắt một nghi phạm 18 tuổi ủng hộ IS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:26:15+07:00",
+      "fetched": "2026-01-03T08:20:43.180817+07:00"
+    },
+    {
+      "id": "e0db6431b5273dc42637eb4c51fa92f5",
+      "title": "Mỹ phá âm mưu đâm dao hàng loạt đêm giao thừa",
+      "link": "https://vnexpress.net/my-pha-am-muu-dam-dao-hang-loat-dem-giao-thua-5001267.html",
+      "summary": "FBI chặn một \"vụ tấn công khủng bố tiềm tàng\" được lên kế hoạch vào đêm giao thừa ở Bắc Carolina, bắt một nghi phạm 18 tuổi ủng hộ IS.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T00:26:15+07:00",
+      "fetched": "2026-01-03T08:20:49.500557+07:00"
+    },
+    {
+      "id": "99407b66c6b284e8c325d2f90fb57fef",
+      "title": "Xe giường nằm cháy trên cao tốc, một hành khách tử vong",
+      "link": "https://vnexpress.net/xe-giuong-nam-chay-tren-cao-toc-mot-hanh-khach-tu-vong-5001266.html",
+      "summary": "Xe khách giường nằm chở hơn 10 người người bất ngờ bốc cháy khi đang chạy trên cao tốc Diễn Châu - Bãi Vọt khiến một người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:24:24+07:00",
+      "fetched": "2026-01-03T08:20:43.180969+07:00"
+    },
+    {
+      "id": "2ac51125e00ae3db90f429cdddf0904b",
+      "title": "Lại Lý Huynh đấu kỳ thủ số một Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-dau-ky-thu-so-mot-trung-quoc-5001245.html",
+      "summary": "Đương kim vô địch cờ tướng thế giới Lại Lý Huynh sẽ đấu 10 ván với kỳ thủ số một Trung Quốc Tào Nham Lỗi ở Phúc Kiến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T00:22:27+07:00",
+      "fetched": "2026-01-03T08:20:55.118006+07:00"
+    },
+    {
+      "id": "a3b1e2d588d6f5bd11f3093de71d377a",
+      "title": "Từ Đổi mới đến Kỷ nguyên mới",
+      "link": "https://thanhnien.vn/tu-doi-moi-den-ky-nguyen-moi-185251229200755833.htm",
+      "summary": "Khởi đầu năm 1986, thời điểm đất nước tiến hành công cuộc Đổi mới, hành trình của Báo Thanh Niên một cách tự nhiên, gắn liền với mục tiêu chuyển tải nhanh nhất, chính xác nhất, dễ hiểu nhất chính sách kinh tế đến người dân và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:15:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375530+07:00"
+    },
+    {
+      "id": "d5c0eaf40a99af0ede2ab6fc96dc72bd",
+      "title": "Startup Trung Quốc ra robot hình người 'bỏ vừa trong balo'",
+      "link": "https://vnexpress.net/startup-trung-quoc-ra-robot-hinh-nguoi-bo-vua-trong-balo-5001234.html",
+      "summary": "Agibot giới thiệu Q1 nhỏ gọn, tích hợp AI, lập trình không cần code, hướng tới nghiên cứu, giáo dục và những người muốn thử nghiệm robot hình người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-03T00:06:57+07:00",
+      "fetched": "2026-01-03T08:20:54.024303+07:00"
+    },
+    {
+      "id": "72426084378ec393be194bb755f1f0b1",
+      "title": "Giải pháp ít xâm lấn, rút ngắn thời gian hồi phục",
+      "link": "https://thanhnien.vn/giai-phap-it-xam-lan-rut-ngan-thoi-gian-hoi-phuc-185260102215617762.htm",
+      "summary": "Trong bối cảnh bệnh trĩ ngày càng phổ biến, nhu cầu điều trị hiệu quả, an toàn và phục hồi nhanh được nhiều người quan tâm. Tại Bệnh viện Hoàn Mỹ Đà Nẵng, phẫu thuật trĩ bằng laser đang được ứng dụng như một phương pháp ít xâm lấn, hỗ trợ rút ngắn thời gian hồi phục cho người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T00:00:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375699+07:00"
+    },
+    {
+      "id": "8ca2683316efad0d8a975ae1c4a98796",
+      "title": "Tạm giữ hình sự nghi phạm cho đi nhờ xe rồi cướp tài sản",
+      "link": "https://thanhnien.vn/tam-giu-hinh-su-nghi-pham-cho-di-nho-xe-roi-cuop-tai-san-185260102213658923.htm",
+      "summary": "Lê Quang Huy (ngụ xã Hà Trung, Thanh Hóa) cho một người phụ nữ đi nhờ xe, sau đó dùng dao khống chế cướp tài sản của nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:32:00+07:00",
+      "fetched": "2026-01-03T08:20:46.375855+07:00"
+    },
+    {
+      "id": "bf2b84eb2235664843de45d7b83d4bd1",
+      "title": "Hôm nay 3.1 là ngày gì? Theo lịch âm, ngày rằm tháng 11 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-31-la-ngay-gi-theo-lich-am-ngay-ram-thang-11-co-gi-dac-biet-185260102130631967.htm",
+      "summary": "Hôm nay là ngày 3.1 dương lịch, là ngày thứ ba trong kỳ nghỉ tết dương lịch 2026. Đây cũng là ngày rằm tháng 11 theo lịch âm. Ngày hôm nay có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:30:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376011+07:00"
+    },
+    {
+      "id": "e8f3db80af7d2cbfb646eae7cefd9074",
+      "title": "Tuyển sinh 2026: Một trường ĐH bắt đầu nhận hồ sơ xét tuyển từ 5.1",
+      "link": "https://thanhnien.vn/tuyen-sinh-2026-mot-truong-dh-bat-dau-nhan-ho-so-xet-tuyen-tu-51-185260102215908792.htm",
+      "summary": "Một trường ĐH tại TP.HCM công bố phương án tuyển sinh 2026, bổ sung phương thức xét tuyển hồ sơ năng lực và bắt đầu nhận đăng ký từ 5.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:12:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376163+07:00"
+    },
+    {
+      "id": "69a424f05bf5a4bdf396aa4daa0f109c",
+      "title": "Tờ báo nối kết Việt Nam với thế giới",
+      "link": "https://thanhnien.vn/to-bao-noi-ket-viet-nam-voi-the-gioi-185251228151516956.htm",
+      "summary": "Trên hành trình 40 năm hình thành và phát triển, Báo Thanh Niên còn là một kênh thông tin quốc tế quan trọng cho độc giả, đồng thời kết nối đất nước với thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:05:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376311+07:00"
+    },
+    {
+      "id": "96773bc7ba19515869f573eacd4d97f7",
+      "title": "Cùng con đi tiếp cuộc đời: Hành trình nâng đỡ trẻ mồ côi do đại dịch Covid-19",
+      "link": "https://thanhnien.vn/cung-con-di-tiep-cuoc-doi-hanh-trinh-nang-do-tre-mo-coi-do-dai-dich-covid-19-185251228174457796.htm",
+      "summary": "Trong chặng đường 40 năm của Báo Thanh Niên, chương trình Cùng con đi tiếp cuộc đời mới khởi sự hơn 4 năm nhưng dấu ấn của dòng chảy nhân ái ấy là câu chuyện vô cùng đặc biệt, bởi xuất phát từ những ngày sinh tử khốc liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:02:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376458+07:00"
+    },
+    {
+      "id": "4d0a2a09358934fbb0b29270cb410db1",
+      "title": "Câu chuyện phía sau lá thư viết tay gửi Báo Thanh Niên từ cụ bà bán vé số",
+      "link": "https://thanhnien.vn/cau-chuyen-phia-sau-la-thu-viet-tay-gui-bao-thanh-nien-tu-cu-ba-ban-ve-so-185260102175401482.htm",
+      "summary": "Tham gia cuộc thi viết \"Thanh Niên và tôi\", cụ bà Nguyễn Thị Hường (năm nay đã hơn 70 tuổi) không nghĩ mình đi thi. Đó chỉ đơn giản là một lá thư cảm ơn bà muốn gửi đến tờ báo. Giải Nhì chung cuộc là món quà bất ngờ cho tấm lòng chân thành của một người cả đời lam lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:00:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376610+07:00"
+    },
+    {
+      "id": "6b13efd9cb24d23c6c3d1768078b4a1d",
+      "title": "Bưởi Diễn 'nôn' Tết Nguyên đán: Cây trăm trái vừa vào TP.HCM đã có khách đặt",
+      "link": "https://thanhnien.vn/buoi-dien-non-tet-nguyen-dan-cay-tram-trai-vua-vao-tphcm-da-co-khach-dat-185260102165301169.htm",
+      "summary": "Các nhà vườn trên đại lộ Mai Chí Thọ ở TP.HCM đã nhập bưởi Diễn từ miền Bắc vào đón tết. Nhiều cây khủng cả trăm trái, giá đến vài chục triệu đồng đã có khách mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:00:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376777+07:00"
+    },
+    {
+      "id": "fe22b8d4c326aec4aa14b81730b8b061",
+      "title": "Người dễ lo âu nên chọn trà gì để thư giãn tinh thần?",
+      "link": "https://thanhnien.vn/nguoi-de-lo-au-nen-chon-tra-gi-de-thu-gian-tinh-than-185260102105409977.htm",
+      "summary": "Bên cạnh việc nghỉ ngơi và thay đổi lối sống, lựa chọn loại trà phù hợp có thể giúp tinh thần thư giãn hơn và giảm bớt cảm giác lo âu, bồn chồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-02T23:00:00+07:00",
+      "fetched": "2026-01-03T08:20:46.376935+07:00"
     },
     {
       "id": "54b1ceb72282c1e67e55f36a6c086629",
