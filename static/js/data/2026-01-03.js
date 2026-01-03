@@ -1,7 +1,57 @@
 window.newsData_2026_01_03 = {
   "date": "2026-01-03",
-  "lastUpdated": "2026-01-03T10:19:59.663683+07:00",
+  "lastUpdated": "2026-01-03T11:30:18.108545+07:00",
   "articles": [
+    {
+      "id": "28102d832879f49fece1d1db5741e66e",
+      "title": "Miss Universe bác tin đổi chủ giữa hàng loạt bê bối",
+      "link": "https://tuoitre.vn/miss-universe-bac-tin-doi-chu-giua-hang-loat-be-boi-20260103075837399.htm",
+      "summary": "Sau khi tỉ phú người Philippines Luis Chavit Singson nói Miss Universe không còn thuộc quyền sở hữu của CEO Anne Jakrajutatip và Raul Rocha Cantú, tổ chức cuộc thi này lại đăng tuyên bố chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T11:30:08.841337+07:00",
+      "fetched": "2026-01-03T11:30:08.841450+07:00"
+    },
+    {
+      "id": "bc852688a78c6124d1dece6594a814be",
+      "title": "Ronaldo suýt 'ăn thua đủ' với nhân viên vì bị hô tên Messi ngay trước mặt",
+      "link": "https://tuoitre.vn/ronaldo-suyt-an-thua-du-voi-nhan-vien-vi-bi-ho-ten-messi-ngay-truoc-mat-20260103085233706.htm",
+      "summary": "Sau thất bại của Al Nassr, siêu sao Ronaldo đã mất bình tĩnh và định lao vào xô xát với một nhân viên khi anh này cố tình hét lớn tên \"Messi\" ngay trước mặt mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T11:30:08.841194+07:00",
+      "fetched": "2026-01-03T11:30:08.841324+07:00"
+    },
+    {
+      "id": "d2b2c32f2c6892829cb6284b6925b604",
+      "title": "Xe giường nằm cháy rụi trên cao tốc, nam sinh lớp 12 tử vong",
+      "link": "https://tuoitre.vn/xe-giuong-nam-chay-rui-tren-cao-toc-nam-sinh-lop-12-tu-vong-20260103084303212.htm",
+      "summary": "Xe giường nằm chạy trên cao tốc Diễn Châu - Bãi Vọt bất ngờ bốc cháy dữ dội, một hành khách là nam sinh lớp 12 tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T11:30:08.841063+07:00",
+      "fetched": "2026-01-03T11:30:08.841182+07:00"
+    },
+    {
+      "id": "1def83a89319c01eb9416eaaccf5f966",
+      "title": "Nỗi ân hận muộn màng từ chuyện cự cãi vợ chồng",
+      "link": "https://tuoitre.vn/noi-an-han-muon-mang-tu-chuyen-cu-cai-vo-chong-20260103080553234.htm",
+      "summary": "Vừa qua, TAND TP Đà Nẵng xét xử sơ thẩm bị cáo Trần Bảo Uyên (63 tuổi, trú Đà Nẵng) về tội giết người. Nạn nhân trong vụ án là bà N.T.T.Tr. (41 tuổi), vợ của bị cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T11:30:08.840941+07:00",
+      "fetched": "2026-01-03T11:30:08.841052+07:00"
+    },
+    {
+      "id": "566c27e3dfeb94a5a7b1727cfd141c62",
+      "title": "IFC sẽ định vị Việt Nam trên bản đồ tài chính toàn cầu",
+      "link": "https://tuoitre.vn/ifc-se-dinh-vi-viet-nam-tren-ban-do-tai-chinh-toan-cau-20260103082338376.htm",
+      "summary": "Trước hết, IFC giúp mở rộng không gian huy động vốn quốc tế. Nhiều năm qua, tăng trưởng của Việt Nam chủ yếu dựa vào tín dụng ngân hàng trong nước và FDI truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T11:30:08.840820+07:00",
+      "fetched": "2026-01-03T11:30:08.840930+07:00"
+    },
     {
       "id": "0a87144da946ba15d9f25dec8256da94",
       "title": "Venus Williams lập kỷ lục lịch sử tại Giải quần vợt Úc mở rộng ở tuổi 45",
@@ -243,6 +293,236 @@ window.newsData_2026_01_03 = {
       "fetched": "2026-01-03T08:20:47.495188+07:00"
     },
     {
+      "id": "2459e9e64002f99e1dd4e84157b0d05d",
+      "title": "Duyên dáng Việt Nam: Từ ý tưởng thiện nguyện đến chương trình nghệ thuật quốc gia",
+      "link": "https://thanhnien.vn/duyen-dang-viet-nam-tu-y-tuong-thien-nguyen-den-chuong-trinh-nghe-thuat-quoc-gia-185251228190318755.htm",
+      "summary": "Ra đời hơn 30 năm trước với mục đích tạo nguồn kinh phí ổn định cho Quỹ học bổng Nguyễn Thái Bình của Báo Thanh Niên, Duyên dáng Việt Nam từng bước khẳng định sức hút với công chúng lẫn người làm văn hóa - giải trí và được nhìn nhận như một thương hiệu nghệ thuật quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:30:00+07:00",
+      "fetched": "2026-01-03T11:30:07.705757+07:00"
+    },
+    {
+      "id": "6e137dc5dc8ea46ea6aa2d1b3decce95",
+      "title": "Công bằng cho ông Weigang",
+      "link": "https://thanhnien.vn/cong-bang-cho-ong-weigang-185251228183044058.htm",
+      "summary": "30 năm trước, ngay sau khi kết thúc Tiger Cup 1996, Báo Thanh Niên đã có loạt bài thu hút sự quan tâm và chú ý của người hâm mộ về câu chuyện: \"Có hay không việc đối xử bất công HLV Karl Heinz Weigang\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:30:00+07:00",
+      "fetched": "2026-01-03T11:30:07.705924+07:00"
+    },
+    {
+      "id": "8f808433d512ccaab8a6cf68f89f0eff",
+      "title": "Doanh nghiệp du lịch để khách trốn lại trái phép có thể bị phạt tới 50 triệu",
+      "link": "https://thanhnien.vn/doanh-nghiep-du-lich-de-khach-tron-lai-trai-phep-co-the-bi-phat-toi-50-trieu-185260103112655848.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định số 348/2025 sửa đổi, bổ sung một số điều của Nghị định số 45/2019 quy định xử phạt vi phạm hành chính trong lĩnh vực du lịch, trong đó bổ sung mức phạt đối với hành vi để khách du lịch trốn ở lại nước ngoài hoặc trốn ở lại Việt Nam trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:29:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706080+07:00"
+    },
+    {
+      "id": "23f69726bef79b503a571e7b6cbc915c",
+      "title": "Ra mắt CLB Bóng đá trẻ Bà Rịa - Vũng Tàu, mang kỳ vọng đặc biệt...",
+      "link": "https://thanhnien.vn/ra-mat-clb-bong-da-tre-ba-ria-vung-tau-mang-ky-vong-dac-biet-185260103105546251.htm",
+      "summary": "Ngày 2.1, CLB Bóng đá trẻ Bà Rịa - Vũng Tàu (BR-VT) đã chính thức ra mắt trong không khí trang trọng, ấm áp và đầy hào hứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:24:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706252+07:00"
+    },
+    {
+      "id": "a91c8a48d98bd57da41fa6527c96a04d",
+      "title": "Xem nhanh 12h: 5 quy định mới tài xế cần chú ý | Lời khai của người dùng đũa đâm tài xế",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-5-quy-dinh-moi-tai-xe-can-chu-y-loi-khai-cua-nguoi-dung-dua-dam-tai-xe-185260103111615939.htm",
+      "summary": "Tin tức thời tiết, quy định mới tài xế cần lưu ý, vụ dùng đũa đâm tài xế… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 3.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:20:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706412+07:00"
+    },
+    {
+      "id": "de71359e06ba5d5fe656f82ef4110b41",
+      "title": "Warren Buffett: 'Đừng quá lo lắng về lương khởi điểm'",
+      "link": "https://vnexpress.net/warren-buffett-dung-qua-lo-lang-ve-luong-khoi-diem-5001320.html",
+      "summary": "Tỷ phú cho rằng lương khởi điểm tốt có thể tạo nền tảng tài chính, nhưng đồng nghiệp và sếp sẽ ảnh hưởng lớn hơn đến thành công dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:16:30+07:00",
+      "fetched": "2026-01-03T11:29:57.185726+07:00"
+    },
+    {
+      "id": "a19670fe4fd34bc2f92d45a7a193854d",
+      "title": "Nữ ca sĩ chuyên dòng nhạc quê hương, tiết lộ kỷ vật giúp 'đổi đời'",
+      "link": "https://thanhnien.vn/nu-ca-si-chuyen-dong-nhac-que-huong-tiet-lo-ky-vat-giup-doi-doi-185260103101359057.htm",
+      "summary": "Nhắc đến kỷ vật trong chặng đường ca hát, Đông Đào nhớ đến chiếc điện thoại từng mang lại cho cô nhiều cơ hội trong nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:10:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706565+07:00"
+    },
+    {
+      "id": "a6ec488a347b231f80023bffbe1d2af7",
+      "title": "Phương Trinh Jolie tiết lộ lý do kết hôn với Lý Bình",
+      "link": "https://thanhnien.vn/phuong-trinh-jolie-tiet-lo-ly-do-ket-hon-voi-ly-binh-185260103110018097.htm",
+      "summary": "Trong chương trình 'Chị em gỡ rối', ngoài việc chia sẻ với các khán giả những vấn đề gặp phải, Phương Trinh Jolie còn thẳng thắn chia sẻ về chuyện hôn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:09:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706715+07:00"
+    },
+    {
+      "id": "5e9a249435bd1c0908e2cf4f604ad908",
+      "title": "Cô gái bị danh ca Thái Châu nhắc nhở khi làm mới nhạc Trịnh",
+      "link": "https://thanhnien.vn/co-gai-bi-danh-ca-thai-chau-nhac-nho-khi-lam-moi-nhac-trinh-185260103104010245.htm",
+      "summary": "Thể hiện ca khúc 'Còn tuổi nào cho em', ca sĩ N Ly bị Thái Châu nhắc nhở vì cách làm mới ca khúc chưa thật sự phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:07:00+07:00",
+      "fetched": "2026-01-03T11:30:07.706861+07:00"
+    },
+    {
+      "id": "385bea7c57b36ba5f29b4b6c2f7722f6",
+      "title": "Lý do khiến Hoa hậu Ngọc Hân bật khóc trên truyền hình",
+      "link": "https://thanhnien.vn/ly-do-khien-hoa-hau-ngoc-han-bat-khoc-tren-truyen-hinh-18526010309081025.htm",
+      "summary": "Chứng kiến hoàn cảnh khó khăn của các em nhỏ trong 'Mái ấm gia đình Việt', Hoa hậu Ngọc Hân trong vai trò khách mời không giấu được xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:04:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707009+07:00"
+    },
+    {
+      "id": "4b81d2f8bca8b661dcd766de3008d551",
+      "title": "Vì sao khó xác định danh tính nạn nhân trong thảm kịch cháy quán bar Thụy Sĩ?",
+      "link": "https://thanhnien.vn/vi-sao-kho-xac-dinh-danh-tinh-nan-nhan-trong-tham-kich-chay-quan-bar-thuy-si-185260103102442557.htm",
+      "summary": "Các nhà điều tra đã bắt đầu quá trình khó khăn để xác định danh tính các thi thể bị cháy trong vụ hỏa hoạn tại một quán bar khiến hơn 40 người thiệt mạng. Thảm họa xảy ra trong một bữa tiệc đêm giao thừa ở khu nghỉ dưỡng trượt tuyết Crans-Montana của Thụy Sĩ. Nhiều người đến từ nhiều quốc gia đã trở...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:03:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707163+07:00"
+    },
+    {
+      "id": "dd21d57113292e57a368e9d1d5e51cb1",
+      "title": "'Công thức' triệu view",
+      "link": "https://thanhnien.vn/cong-thuc-trieu-view-185251228154927234.htm",
+      "summary": "Rất khó để khái quát lại một 'công thức' chung bởi 10 năm qua, kể từ ngày Báo Thanh Niên tạo lập các kênh YouTube, sau đó là TikTok, rồi mới nhất là Zalo Video đã có gần 1.000 video đạt mốc 1 triệu lượt xem trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:02:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707328+07:00"
+    },
+    {
+      "id": "3ffad2db4a2cf4c3bfba64aedffc33f3",
+      "title": "Cách bổ sung vitamin D cho trẻ vào mùa lạnh",
+      "link": "https://vnexpress.net/cach-bo-sung-vitamin-d-cho-tre-vao-mua-lanh-5001223.html",
+      "summary": "Tắm nắng, uống sữa, ăn nấm và trứng, tăng cường vận động là cách tự nhiên giúp cơ thể trẻ hấp thụ vitamin D khi trời chuyển lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:00:00+07:00",
+      "fetched": "2026-01-03T11:29:57.185920+07:00"
+    },
+    {
+      "id": "76e0407edf68fd6013e465ab7617e431",
+      "title": "Tiếp lửa từ giải vàng Truyền thông kỹ thuật số châu Á",
+      "link": "https://thanhnien.vn/tiep-lua-tu-giai-vang-truyen-thong-ky-thuat-so-chau-a-185251228231459066.htm",
+      "summary": "Tôi không thể nào quên khoảnh khắc cùng đồng nghiệp được tiếp 'lửa' khi tiện ích đọc báo trên điện thoại di động và máy tính bảng của Báo Thanh Niên được vinh danh giải vàng Truyền thông kỹ thuật số châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T04:00:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707478+07:00"
+    },
+    {
+      "id": "01d6a959f3bb1c1c3a3d584c9a4558ef",
+      "title": "Năm 2026 con người sẽ quay lại mặt trăng",
+      "link": "https://thanhnien.vn/nam-2026-con-nguoi-se-quay-lai-mat-trang-185260103105919839.htm",
+      "summary": "Sau nhiều thập niên bị trì hoãn với các mốc thời gian ngày càng kéo dài, cuối cùng Cơ quan Hàng không Vũ trụ Mỹ (NASA) đã sẵn sàng quay lại mặt trăng sau sứ mệnh gần nhất vào năm 1972.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:58:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707694+07:00"
+    },
+    {
+      "id": "24eb319f62a0f09161d6249294ee4603",
+      "title": "Lần đầu 'cân đo' được một hành tinh độc hành trong vũ trụ bao la",
+      "link": "https://thanhnien.vn/lan-dau-can-do-duoc-mot-hanh-tinh-doc-hanh-trong-vu-tru-bao-la-185260103095134916.htm",
+      "summary": "Không phải hành tinh nào cũng may mắn sinh hoạt bên trong một quần thể như hệ mặt trời của chúng ta, một số bị định mệnh đưa đẩy đến tình cảnh phải độc hành trong vũ trụ bao la.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:56:00+07:00",
+      "fetched": "2026-01-03T11:30:07.707871+07:00"
+    },
+    {
+      "id": "4dcd4ae2dadeed6a72650ebf50e82218",
+      "title": "BYD soán ngôi Tesla, dẫn đầu thị trường xe điện thế giới",
+      "link": "https://thanhnien.vn/byd-soan-ngoi-tesla-dan-dau-thi-truong-xe-dien-the-gioi-185260103100321729.htm",
+      "summary": "Hãng xe Trung Quốc BYD đã vượt qua Tesla để trở thành nhà sản xuất ô tô điện lớn nhất thế giới năm 2025, trong bối cảnh doanh số giao xe của hãng Mỹ do tỉ phú Elon Musk điều hành sụt giảm mạnh vào cuối năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:54:00+07:00",
+      "fetched": "2026-01-03T11:30:07.708026+07:00"
+    },
+    {
+      "id": "3d0b25e0c28831deae13b315f1a411d0",
+      "title": "Váy áo giúp Lưu Gia Linh 'ăn gian' tuổi",
+      "link": "https://vnexpress.net/vay-ao-giup-luu-gia-linh-an-gian-tuoi-5001297.html",
+      "summary": "Minh tinh Hong Kong Lưu Gia Linh theo mốt trẻ trung, gợi cảm ở tuổi ngoài 60 với đầm xếp tầng, mốt lệch vai, hở lưng hay xẻ ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:33:56+07:00",
+      "fetched": "2026-01-03T11:29:57.186084+07:00"
+    },
+    {
+      "id": "3a53b195ac97c64a92bafb22388716ec",
+      "title": "Nỗ lực dàn xếp đưa Elon Musk trở lại với ông Trump",
+      "link": "https://vnexpress.net/no-luc-dan-xep-dua-elon-musk-tro-lai-voi-ong-trump-4999778.html",
+      "summary": "Dù từng căng thẳng với Nhà Trắng, tỷ phú Elon Musk đã trở lại, khẳng định vị thế đồng minh chiến lược không thể thiếu của phong trào MAGA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:30:45+07:00",
+      "fetched": "2026-01-03T11:29:57.186266+07:00"
+    },
+    {
+      "id": "3a53b195ac97c64a92bafb22388716ec",
+      "title": "Nỗ lực dàn xếp đưa Elon Musk trở lại với ông Trump",
+      "link": "https://vnexpress.net/no-luc-dan-xep-dua-elon-musk-tro-lai-voi-ong-trump-4999778.html",
+      "summary": "Dù từng căng thẳng với Nhà Trắng, tỷ phú Elon Musk đã trở lại, khẳng định vị thế đồng minh chiến lược không thể thiếu của phong trào MAGA.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-03T03:30:45+07:00",
+      "fetched": "2026-01-03T11:30:10.716359+07:00"
+    },
+    {
+      "id": "188ee046d407035c236cf153e44c6991",
+      "title": "Thiếu nữ bị hành hung sau mâu thuẫn trong quán cà phê",
+      "link": "https://vnexpress.net/thieu-nu-bi-hanh-hung-sau-mau-thuan-trong-quan-ca-phe-5001318.html",
+      "summary": "Bùi Thanh Bình, 37 tuổi, xảy ra mâu thuẫn với thiếu nữ 17 tuổi trong quán cà phê, dùng ly nước đập vào đầu cô này và chửi bới, đe dọa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:24:33+07:00",
+      "fetched": "2026-01-03T11:29:57.186429+07:00"
+    },
+    {
+      "id": "de5ac8aac26f8570eb59337ef41b425d",
+      "title": "Người phụ nữ mắc chứng hoang tưởng bệnh tật",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mac-chung-hoang-tuong-benh-tat-5001293.html",
+      "summary": "Thấy buồn nôn, đau vai gáy, người phụ nữ 54 tuổi đi khám gần 10 lần trong suốt 11 tháng dù không ghi nhận bệnh lý thực tế, bác sĩ xác định bệnh nhân rối loạn lo âu dạng ám ảnh bệnh tật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:24:19+07:00",
+      "fetched": "2026-01-03T11:29:57.186591+07:00"
+    },
+    {
+      "id": "64d4905db3e44e3da603a461d740907b",
+      "title": "Việt Nam ưu đãi thuế TTĐB, giá xe hybrid có thể giảm từ 2026",
+      "link": "https://vnexpress.net/viet-nam-uu-dai-thue-ttdb-gia-xe-hybrid-co-the-giam-tu-2026-5001292.html",
+      "summary": "Các mẫu hybrid tự sạc (HEV) có tỷ trọng xăng sử dụng không quá 70% năng lượng tổng được giảm thuế tiêu thụ đặc biệt 30% từ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:21:30+07:00",
+      "fetched": "2026-01-03T11:29:57.186747+07:00"
+    },
+    {
       "id": "f8d07a77d4b9865ebc21d3bd793f9679",
       "title": "Tesla mất ngôi hãng xe điện số 1 thế giới vào tay hãng xe Trung Quốc",
       "link": "https://tuoitre.vn/tesla-mat-ngoi-hang-xe-dien-so-1-the-gioi-vao-tay-hang-xe-trung-quoc-20260102220907118.htm",
@@ -253,6 +533,26 @@ window.newsData_2026_01_03 = {
       "fetched": "2026-01-03T03:19:35.706359+07:00"
     },
     {
+      "id": "f78f59460d697a0383d11e178d77f3c6",
+      "title": "Tàu chở 4 người bị sóng lớn đánh chìm trên biển La Gi",
+      "link": "https://vnexpress.net/tau-cho-4-nguoi-bi-song-lon-danh-chim-tren-bien-la-gi-5001312.html",
+      "summary": "Tàu cá chở bốn ngư dân sau chuyến đánh bắt trở về bờ, khi vào cửa biển La Gi (Bình Thuận cũ) thì bị sóng đánh chìm, ba người thoát nạn, một thiếu niên mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:17:43+07:00",
+      "fetched": "2026-01-03T11:29:57.186907+07:00"
+    },
+    {
+      "id": "f9790556371a3e7fe7735901b7b08fcd",
+      "title": "Người cầm đũa tấn công tài xế diễn lại hành động tại đồn công an",
+      "link": "https://vnexpress.net/nguoi-cam-dua-tan-cong-tai-xe-dien-lai-hanh-dong-tai-don-cong-an-5001316.html",
+      "summary": "Phạm Ngọc Khánh, 25 tuổi, diễn tả lại hành động kẹp cổ và dùng đũa đâm liên tiếp vào mặt tài xế taxi, do mâu thuẫn khi nhắc nhở \"đi chậm\" vì vợ say xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:16:47+07:00",
+      "fetched": "2026-01-03T11:29:57.187076+07:00"
+    },
+    {
       "id": "4099307dab40351b1226de71b3899407",
       "title": "TP.HCM: Bắt khẩn cấp kẻ hành hung cô gái đến trọng thương ở quán cà phê",
       "link": "https://thanhnien.vn/tphcm-bat-khan-cap-ke-hanh-hung-co-gai-den-trong-thuong-o-quan-ca-phe-185260103100412984.htm",
@@ -261,6 +561,16 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T03:16:00+07:00",
       "fetched": "2026-01-03T10:19:49.578690+07:00"
+    },
+    {
+      "id": "154c0f3edf090f6e0877934da6c26626",
+      "title": "Tôi giảm 15 kg sau một năm tập gym",
+      "link": "https://vnexpress.net/toi-giam-15-kg-sau-mot-nam-tap-gym-5001319.html",
+      "summary": "Có những giai đoạn, cân nặng gần như 'đứng yên' dù tôi vẫn tập luyện đều đặn. Nếu chỉ dựa vào hứng thú có lẽ tôi đã bỏ cuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:12:09+07:00",
+      "fetched": "2026-01-03T11:29:57.187245+07:00"
     },
     {
       "id": "1fa65fe84d0efdc952f9816d643154b1",
@@ -333,6 +643,56 @@ window.newsData_2026_01_03 = {
       "fetched": "2026-01-03T10:19:49.579806+07:00"
     },
     {
+      "id": "48e1bf1ea251e9a8c4fe2520c849a65b",
+      "title": "Muller: 'Messi là tổng hòa của những con số, hiệu quả và thẩm mỹ'",
+      "link": "https://vnexpress.net/muller-messi-la-tong-hoa-cua-nhung-con-so-hieu-qua-va-tham-my-5001240.html",
+      "summary": "Trở lại Đức dịp năm mới, Thomas Muller kể trên báo Đức Suddeutsche Zeitung về cuộc tái ngộ Lionel Messi ở Mỹ, cuộc sống mới tại Vancouver, Canada và những hồi tưởng về sự nghiệp tại Bayern.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:00:00+07:00",
+      "fetched": "2026-01-03T11:29:57.187407+07:00"
+    },
+    {
+      "id": "a85e55a516bad12a86ebe4649b80dd40",
+      "title": "Uống nước ngọt có gây yếu sinh lý?",
+      "link": "https://vnexpress.net/uong-nuoc-ngot-co-gay-yeu-sinh-ly-5001183.html",
+      "summary": "Nhiều người nói uống nước ngọt cũng gây yếu sinh lý, thậm chí rối loạn cương, giảm ham muốn tình dục, điều này có đúng không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:00:00+07:00",
+      "fetched": "2026-01-03T11:29:57.187562+07:00"
+    },
+    {
+      "id": "fe5e579904441c2bba552f0ba3b94c0c",
+      "title": "Trái quýt run rẩy giúp bạn nhớ đến thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-trai-quyt-run-ray-giup-ban-nho-den-thanh-ngu-nao-4999473.html",
+      "summary": "Thành ngữ chỉ một người mưu mô, đanh đá ắt sẽ có người khác cao tay hơn trừng trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:00:00+07:00",
+      "fetched": "2026-01-03T11:29:57.187712+07:00"
+    },
+    {
+      "id": "c1e632147dc4c98dcaf82f98e0aa92c2",
+      "title": "Vì sao lồng ruột ở người lớn nguy hiểm?",
+      "link": "https://vnexpress.net/vi-sao-long-ruot-o-nguoi-lon-nguy-hiem-5001186.html",
+      "summary": "Lồng ruột phổ biến ở trẻ dưới ba tuổi, ít gặp ở người lớn song nguy cơ biến chứng cao, có thể gây sốc nhiễm khuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T03:00:00+07:00",
+      "fetched": "2026-01-03T11:29:57.187869+07:00"
+    },
+    {
+      "id": "48e1bf1ea251e9a8c4fe2520c849a65b",
+      "title": "Muller: 'Messi là tổng hòa của những con số, hiệu quả và thẩm mỹ'",
+      "link": "https://vnexpress.net/muller-messi-la-tong-hoa-cua-nhung-con-so-hieu-qua-va-tham-my-5001240.html",
+      "summary": "Trở lại Đức dịp năm mới, Thomas Muller kể trên báo Đức Suddeutsche Zeitung về cuộc tái ngộ Lionel Messi ở Mỹ, cuộc sống mới tại Vancouver, Canada và những hồi tưởng về sự nghiệp tại Bayern.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-03T03:00:00+07:00",
+      "fetched": "2026-01-03T11:30:18.101083+07:00"
+    },
+    {
       "id": "d91e4c6db500199a5c38ca0926f6ef67",
       "title": "iPhone đời mới gặp rủi ro pin phồng khi đi máy bay",
       "link": "https://thanhnien.vn/iphone-doi-moi-gap-rui-ro-pin-phong-khi-di-may-bay-185260103091548512.htm",
@@ -351,6 +711,16 @@ window.newsData_2026_01_03 = {
       "category": "Tổng hợp",
       "published": "2026-01-03T02:49:00+07:00",
       "fetched": "2026-01-03T10:19:49.580135+07:00"
+    },
+    {
+      "id": "459a6708dde06a6bdb21292283bed48a",
+      "title": "Miền Bắc thấp nhất 4 độ C",
+      "link": "https://vnexpress.net/mien-bac-thap-nhat-4-do-c-5001296.html",
+      "summary": "Đợt không khí lạnh cường độ mạnh đã khiến nhiệt độ miền Bắc xuống thấp nhất 4 độ, Hà Nội 12 độ, hôm nay nguy cơ xảy ra băng giá ở vùng núi cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-03T02:46:51+07:00",
+      "fetched": "2026-01-03T11:29:57.188025+07:00"
     },
     {
       "id": "649cc88abfd0931c07a37c3889856f55",
