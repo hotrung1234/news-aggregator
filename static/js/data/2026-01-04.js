@@ -1,7 +1,157 @@
 window.newsData_2026_01_04 = {
   "date": "2026-01-04",
-  "lastUpdated": "2026-01-04T19:35:39.055416+07:00",
+  "lastUpdated": "2026-01-04T21:16:07.212808+07:00",
   "articles": [
+    {
+      "id": "5cc9490e30e7de81c3a3d2a3e8ac9523",
+      "title": "Cục Điện ảnh yêu cầu Netflix gỡ bỏ phim Tôi như ánh dương rực rỡ vì có đường lưỡi bò",
+      "link": "https://tuoitre.vn/cuc-dien-anh-yeu-cau-netflix-go-bo-phim-toi-nhu-anh-duong-ruc-ro-vi-co-duong-luoi-bo-20260104175316152.htm",
+      "summary": "Liên quan đến bộ phim Tôi như ánh dương rực rỡ có chứa hình ảnh đường lưỡi bò phi pháp, Cục Điện ảnh có văn bản yêu cầu Netflix gỡ bỏ vì vi phạm quy định pháp luật Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558708+07:00",
+      "fetched": "2026-01-04T21:15:57.558852+07:00"
+    },
+    {
+      "id": "69596c5dadabb60b62d69671838038fc",
+      "title": "Bắt 5 nghi phạm chém người chấn thương sọ não vì mâu thuẫn đổ rác",
+      "link": "https://tuoitre.vn/bat-5-nghi-pham-chem-nguoi-chan-thuong-so-nao-vi-mau-thuan-do-rac-20260104173354168.htm",
+      "summary": "Chỉ vì mâu thuẫn đổ rác ở khu vực chợ Kinh Đào giữa hai gia đình mà hai nhóm thanh thiếu niên đã lao vào đâm chém nhau làm 1 người chấn thương sọ não.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558579+07:00",
+      "fetched": "2026-01-04T21:15:57.558696+07:00"
+    },
+    {
+      "id": "b9cb004fa67c85193fa1ad3ee4b2984c",
+      "title": "Tai nạn liên hoàn trên cao tốc La Sơn - Hòa Liên, hàng loạt xe hư hỏng",
+      "link": "https://tuoitre.vn/tai-nan-lien-hoan-tren-cao-toc-la-son-hoa-lien-hang-loat-xe-hu-hong-20260104181000795.htm",
+      "summary": "Lực lượng cảnh sát giao thông Đà Nẵng đã tiếp cận hiện trường vụ tai nạn giao thông liên hoàn xảy ra trên cao tốc La Sơn - Hòa Liên khiến hàng loạt ô tô hư hỏng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558450+07:00",
+      "fetched": "2026-01-04T21:15:57.558568+07:00"
+    },
+    {
+      "id": "75c9d70398e3c2f0a6d81c79a6bd6d53",
+      "title": "Du lịch Lâm Đồng thu khoảng 1.200 tỉ đồng trong kỳ nghỉ Tết dương lịch 2026",
+      "link": "https://tuoitre.vn/du-lich-lam-dong-thu-khoang-1-200-ti-dong-trong-ky-nghi-tet-duong-lich-2026-20260104173933156.htm",
+      "summary": "Kỳ nghỉ Tết dương lịch 2026, ngành du lịch Lâm Đồng 'chạy đà' với những con số ấn tượng: đón khoảng 650.000 lượt khách, doanh thu ước 1.200 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558328+07:00",
+      "fetched": "2026-01-04T21:15:57.558439+07:00"
+    },
+    {
+      "id": "947ac3b74b6a2cad2bbe0cd76026d488",
+      "title": "Nhiều fanpage bất ngờ 'biến mất' khỏi Facebook, vì sao?",
+      "link": "https://tuoitre.vn/ba-nguyen-nhan-khien-nhieu-fanpage-bat-ngo-bien-mat-khoi-facebook-20260104173425228.htm",
+      "summary": "Sau khi nhiều fanpage lớn bất ngờ không thể tìm thấy trên Facebook, chuyên gia cảnh báo trước những nguy cơ lừa đảo trong các hội nhóm kín.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558205+07:00",
+      "fetched": "2026-01-04T21:15:57.558318+07:00"
+    },
+    {
+      "id": "332d6ac6c4d7ae2ad8cb7dcf5a3332fc",
+      "title": "Du khách nước ngoài bị nhóm người cầm xẻng dọa đánh trên bãi biển Nha Trang",
+      "link": "https://tuoitre.vn/cong-an-vao-cuoc-vu-du-khach-nuoc-ngoai-bi-nhom-nguoi-cam-xeng-doa-danh-tren-bai-bien-nha-trang-202601041803383.htm",
+      "summary": "Công an phường Nha Trang (tỉnh Khánh Hòa) đang xác minh vụ du khách nước ngoài bị nhóm người cầm xẻng, ghế dọa đánh trên bãi biển Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.558075+07:00",
+      "fetched": "2026-01-04T21:15:57.558194+07:00"
+    },
+    {
+      "id": "b8769b122adc1a955f0363e5f47a7ebc",
+      "title": "AFC công bố danh sách U23 Việt Nam: Thanh Nhàn ở lại, Lê Phát bị loại",
+      "link": "https://tuoitre.vn/afc-cong-bo-danh-sach-u23-viet-nam-thanh-nhan-o-lai-le-phat-bi-loai-2026010418254934.htm",
+      "summary": "Ngày 4-1, Liên đoàn Bóng đá châu Á (AFC) công bố danh sách cuối cùng của U23 Việt Nam tham dự VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557946+07:00",
+      "fetched": "2026-01-04T21:15:57.558060+07:00"
+    },
+    {
+      "id": "87efd698f2eb1b101f4ec520f3dd2a3c",
+      "title": "Tân Sơn Nhất ngày cuối nghỉ lễ: Đông khách nhưng không căng taxi và xe công nghệ",
+      "link": "https://tuoitre.vn/tan-son-nhat-ngay-cuoi-nghi-le-dong-khach-nhung-khong-cang-taxi-va-xe-cong-nghe-20260104180831765.htm",
+      "summary": "Ngày 4-1, ngày cuối kỳ nghỉ Tết dương lịch 2026, khoảng 140.000 hành khách qua sân bay Tân Sơn Nhất, hành lý được trả nhanh, taxi và xe công nghệ luôn chờ sẵn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557801+07:00",
+      "fetched": "2026-01-04T21:15:57.557934+07:00"
+    },
+    {
+      "id": "57aefb86d11f6f82f3341094a2ac0cd1",
+      "title": "Đề xuất Chủ tịch nước tặng quà Tết Nguyên đán 2026 cho hơn 1,6 triệu người có công",
+      "link": "https://tuoitre.vn/de-xuat-chu-tich-nuoc-tang-qua-tet-nguyen-dan-2026-cho-hon-1-6-trieu-nguoi-co-cong-20260104175132661.htm",
+      "summary": "Chính phủ vừa có tờ trình Chủ tịch nước tặng quà Tết Nguyên đán 2026 cho người có công với cách mạng với hai mức 600.000 đồng và 300.000 đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557679+07:00",
+      "fetched": "2026-01-04T21:15:57.557790+07:00"
+    },
+    {
+      "id": "065c1f34c6e0f0c8ffdfb46420a070db",
+      "title": "AFC: Khuất Văn Khang là trái tim của U23 Việt Nam",
+      "link": "https://tuoitre.vn/afc-khuat-van-khang-la-trai-tim-cua-u23-viet-nam-20260104184239379.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá châu Á (AFC) dự đoán Khuất Văn Khang là nhân tố sẽ tỏa sáng mang vinh quang về cho U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557557+07:00",
+      "fetched": "2026-01-04T21:15:57.557668+07:00"
+    },
+    {
+      "id": "46d050bba4b5c1c61fb7cae3ab8af194",
+      "title": "Nghi phạm cướp tiệm vàng ở Lâm Đồng đã lên kế hoạch tỉ mỉ như thế nào?",
+      "link": "https://tuoitre.vn/nghi-pham-cuop-tiem-vang-o-lam-dong-da-len-ke-hoach-ti-mi-nhu-the-nao-20260104181738175.htm",
+      "summary": "Sau khi Công an tỉnh Lâm Đồng bắt giữ, nghi phạm cướp tiệm vàng ở khu vực Đắk Nông (cũ) khai nhận đã chuẩn bị kỹ lưỡng kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557432+07:00",
+      "fetched": "2026-01-04T21:15:57.557545+07:00"
+    },
+    {
+      "id": "aff9032f63782b385e2c8438d1acae7c",
+      "title": "Apple có thể không ra mắt iPhone 18 tiêu chuẩn trong năm nay?",
+      "link": "https://tuoitre.vn/apple-co-the-khong-ra-mat-iphone-18-tieu-chuan-trong-nam-nay-20260104161705823.htm",
+      "summary": "Các tin đồn cho rằng Apple sẽ không phát hành mẫu iPhone 18 tiêu chuẩn trong năm nay, và \"Quả táo\" đang chuẩn bị thay đổi đáng kể chu kỳ ra mắt các dòng sản phẩm iPhone mới vốn duy trì suốt hơn một thập niên qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557304+07:00",
+      "fetched": "2026-01-04T21:15:57.557420+07:00"
+    },
+    {
+      "id": "a290784e52998cf94634c70530a5f38e",
+      "title": "Giả trai để trốn truy nã sau khi trộm vàng người yêu đồng giới",
+      "link": "https://tuoitre.vn/gia-trai-de-tron-truy-na-sau-khi-trom-vang-nguoi-yeu-dong-gioi-20260104191318047.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Cà Mau vừa bắt giữ Lê Phương Yến (29 tuổi) bị truy nã về tội trộm cắp tài sản, sau thời gian bỏ trốn và thay đổi diện mạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557170+07:00",
+      "fetched": "2026-01-04T21:15:57.557292+07:00"
+    },
+    {
+      "id": "bca93ab311678b426eda629ca5a86d54",
+      "title": "Vụ sập bờ kè làm 4 người chết: Bờ kè bị lũ gây hư hỏng, đã khảo sát nhưng chưa kịp sửa chữa",
+      "link": "https://tuoitre.vn/vu-sap-bo-ke-lam-4-nguoi-chet-bo-ke-bi-lu-gay-hu-hong-da-khao-sat-nhung-chua-kip-sua-chua-20260103180403543.htm",
+      "summary": "Bờ kè sông Ba ở thôn Lạc Mỹ, xã Sơn Thành, Đắk Lắk (trước thuộc huyện Tây Hòa, tỉnh Phú Yên) bị lũ xói bay nền móng, địa phương và các ngành đã khảo sát, nhưng chưa giao cho nơi nào khắc phục, xử lý thì xảy ra tai nạn làm chết hai cặp vợ chồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.557022+07:00",
+      "fetched": "2026-01-04T21:15:57.557152+07:00"
+    },
+    {
+      "id": "065a66e0434961ecacb3aaf6667951bd",
+      "title": "Báo chí khu vực bức xúc: Malaysia chỉ muốn làm khó bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-khu-vuc-buc-xuc-malaysia-chi-muon-lam-kho-bong-da-viet-nam-20260104174617244.htm",
+      "summary": "Truyền thông nhiều quốc gia trong khu vực tỏ thái độ bức xúc khi nghe tin Liên đoàn Bóng đá Malaysia (FAM) có thể kháng cáo lần thứ 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T21:15:57.556791+07:00",
+      "fetched": "2026-01-04T21:15:57.557007+07:00"
+    },
     {
       "id": "cc1f0f5bee8cce1a3167342ca498a2a0",
       "title": "U23 Việt Nam mổ băng phân tích U23 Jordan",
@@ -453,6 +603,26 @@ window.newsData_2026_01_04 = {
       "fetched": "2026-01-04T15:24:06.369559+07:00"
     },
     {
+      "id": "15ccf8a7be52ff567a16cab72c978750",
+      "title": "Nóng: Vĩ Hào lại tái phát chấn thương nên sớm chia tay giải U.23 châu Á, ông Kim đau đầu",
+      "link": "https://thanhnien.vn/nong-vi-hao-lai-tai-phat-chan-thuong-nen-som-chia-tay-giai-u23-chau-a-ong-kim-dau-dau-185260104205743063.htm",
+      "summary": "Tin không vui chút nào cho U.23 Việt Nam khi chỉ 2 ngày trước trận ra quân, tiền đạo Bùi Vĩ Hào bị đau khá nặng, phải sớm nói lời chia tay VCK U.23 châu Á 2026…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T14:02:00+07:00",
+      "fetched": "2026-01-04T21:15:56.528683+07:00"
+    },
+    {
+      "id": "14167395d46c1b239eaa222a47924a5f",
+      "title": "Rộ tin VinFast Limo Green bản mới vừa chạy thử nghiệm, nhiều trang bị hơn",
+      "link": "https://thanhnien.vn/ro-tin-vinfast-limo-green-ban-moi-vua-chay-thu-nghiem-nhieu-trang-bi-hon-185260104181724601.htm",
+      "summary": "Bên cạnh VF 3, mẫu xe gia đình 7 chỗ Limo Green nhiều khả năng cũng được VinFast bổ sung phiên bản cao cấp trang bị nhiều công nghệ hơn, hướng đến nhóm người dùng mua xe phục vụ nhu cầu sử dụng cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:36:00+07:00",
+      "fetched": "2026-01-04T21:15:56.528870+07:00"
+    },
+    {
       "id": "a1753d95d6338cd1e53902650735176b",
       "title": "Dự báo thời tiết từ 4 đến 10-1: Thêm không khí lạnh tràn về, cả nước lạnh và rét",
       "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-4-den-10-1-them-khong-khi-lanh-tran-ve-ca-nuoc-lanh-va-ret-20260103164453393.htm",
@@ -601,6 +771,86 @@ window.newsData_2026_01_04 = {
       "category": "Tổng hợp",
       "published": "2026-01-04T13:28:02.480244+07:00",
       "fetched": "2026-01-04T13:28:02.480441+07:00"
+    },
+    {
+      "id": "a9d7344748c579fc0ff07fbf4b5d9f26",
+      "title": "Doanh thu du lịch nhiều tỉnh thành vượt nghìn tỷ đồng dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/doanh-thu-du-lich-nhieu-tinh-thanh-vuot-nghin-ty-dong-dip-tet-duong-lich-5001624.html",
+      "summary": "Trong 4 ngày nghỉ lễ dịp Tết Dương lịch 2026, Hà Nội, TP HCM, Lâm Đồng đạt doanh thu từ du lịch hơn 1.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:23:29+07:00",
+      "fetched": "2026-01-04T21:15:53.202202+07:00"
+    },
+    {
+      "id": "b8dfd8268b94f3f4e635f036fe9edb7d",
+      "title": "Khởi tố nữ bị can cướp giật dây chuyền vàng",
+      "link": "https://thanhnien.vn/khoi-to-nu-bi-can-cuop-giat-day-chuyen-vang-185251226154854874.htm",
+      "summary": "Người phụ nữ trên đường  đi chợ thấy người khác đeo sợi dây chuyền vàng thì nổi lòng tham, cướp giật rồi đem bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:14:00+07:00",
+      "fetched": "2026-01-04T21:15:56.529030+07:00"
+    },
+    {
+      "id": "d30a4c072a3a2109c94889c1f2540213",
+      "title": "Tráo vàng giả lấy vàng thật của người yêu rồi thay đổi diện mạo để lẩn trốn",
+      "link": "https://thanhnien.vn/trao-vang-gia-lay-vang-that-cua-nguoi-yeu-roi-thay-doi-dien-mao-de-lan-tron-185260104164333486.htm",
+      "summary": "Sau khi tráo vàng giả để lấy vàng thật của người yêu, Lê Phương Yến (29 tuổi, ở Cà Mau) bỏ trốn và đổi ngoại hình, giả dạng nam giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:05:00+07:00",
+      "fetched": "2026-01-04T21:15:56.529180+07:00"
+    },
+    {
+      "id": "b891ff769b66b9091692463db742af00",
+      "title": "Giáo hoàng kêu gọi đảm bảo phúc lợi cho người dân Venezuela",
+      "link": "https://vnexpress.net/giao-hoang-keu-goi-dam-bao-phuc-loi-cho-nguoi-dan-venezuela-5001671.html",
+      "summary": "Giáo hoàng Leo XIV nhấn mạnh phúc lợi của người dân Venezuela phải là ưu tiên hàng đầu, một ngày sau vụ Mỹ bắt Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:04:09+07:00",
+      "fetched": "2026-01-04T21:15:53.202388+07:00"
+    },
+    {
+      "id": "b891ff769b66b9091692463db742af00",
+      "title": "Giáo hoàng kêu gọi đảm bảo phúc lợi cho người dân Venezuela",
+      "link": "https://vnexpress.net/giao-hoang-keu-goi-dam-bao-phuc-loi-cho-nguoi-dan-venezuela-5001671.html",
+      "summary": "Giáo hoàng Leo XIV nhấn mạnh phúc lợi của người dân Venezuela phải là ưu tiên hàng đầu, một ngày sau vụ Mỹ bắt Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-04T13:04:09+07:00",
+      "fetched": "2026-01-04T21:15:59.425514+07:00"
+    },
+    {
+      "id": "8e8536ef9579313d3ca1af3dd6760e6f",
+      "title": "Khách vui chơi chật kín trung tâm thương mại Hà Nội dịp lễ",
+      "link": "https://vnexpress.net/khach-vui-choi-chat-kin-trung-tam-thuong-mai-ha-noi-dip-le-5001673.html",
+      "summary": "Hàng nghìn người dân và du khách tại Hà Nội lựa chọn các trung tâm thương mại làm điểm vui chơi, tránh rét trong kỳ nghỉ Tết Dương lịch khi nhiệt độ ngoài trời giảm xuống 14 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:00:29+07:00",
+      "fetched": "2026-01-04T21:15:53.202554+07:00"
+    },
+    {
+      "id": "62132da611337591d68833d59906aba9",
+      "title": "Xem nhanh 20h ngày 4.1: Venezuela có lãnh đạo mới - là người yêu cầu Mỹ thả ông Maduro",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-41-venezuela-co-lanh-dao-moi-la-nguoi-yeu-cau-my-tha-ong-maduro-18526010419001514.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 4.1 có nhiều tin tức đáng chú ý về: Tòa án Tối cao Venezuela ra lệnh bà Rodriguez tạm thời thay ông Maduro làm tổng thống;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T13:00:00+07:00",
+      "fetched": "2026-01-04T21:15:56.529326+07:00"
+    },
+    {
+      "id": "200ca7809bb7121cb3a2791420369d11",
+      "title": "Iran phản bác phát ngôn của ông Trump về tình trạng bất ổn",
+      "link": "https://thanhnien.vn/iran-phan-bac-phat-ngon-cua-ong-trump-ve-tinh-trang-bat-on-185260104173934391.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nói sẽ giúp đỡ những người biểu tình ở Iran nếu lực lượng an ninh nổ súng vào họ, vài ngày sau khi tình trạng bất ổn bùng phát, gây ra mối đe dọa nội bộ lớn nhất đối với chính quyền Iran trong nhiều năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-04T12:41:00+07:00",
+      "fetched": "2026-01-04T21:15:56.529474+07:00"
     },
     {
       "id": "024209500d24bc2aff83a9cd08dd9ec3",
