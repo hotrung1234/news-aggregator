@@ -1,7 +1,17 @@
 window.newsData_2026_01_05 = {
   "date": "2026-01-05",
-  "lastUpdated": "2026-01-05T10:53:08.513547+07:00",
+  "lastUpdated": "2026-01-05T11:54:52.742450+07:00",
   "articles": [
+    {
+      "id": "8743780e50334e024fdecb61b9529bcf",
+      "title": "Tiền vệ U23 Việt Nam: U23 Jordan thiên về sức mạnh, tốc độ",
+      "link": "https://tuoitre.vn/tien-ve-u23-viet-nam-u23-jordan-thien-ve-suc-manh-toc-do-20260105092740714.htm",
+      "summary": "Tiền vệ Nguyễn Xuân Bắc nhận định lối chơi của U23 Jordan và chỉ ra cầu thủ nguy hiểm nhất của đối thủ này trước trận ra quân U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T11:54:44.766189+07:00",
+      "fetched": "2026-01-05T11:54:44.766410+07:00"
+    },
     {
       "id": "cfcda92b85b5e031b6b9e3c7ce50f436",
       "title": "U23 Việt Nam khủng hoảng lực lượng, chờ tài của HLV Kim Sang Sik",
@@ -301,6 +311,376 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T08:42:40.351599+07:00",
       "fetched": "2026-01-05T08:42:40.351808+07:00"
+    },
+    {
+      "id": "33a58af9f2682beaffab92fc25f4f787",
+      "title": "Giọng ca nhạc đỏ hàng đầu tiếc thương nhạc sĩ tài năng Đoàn Bổng",
+      "link": "https://thanhnien.vn/giong-ca-nhac-do-hang-dau-tiec-thuong-nhac-si-tai-nang-doan-bong-185260105113546586.htm",
+      "summary": "\"Tôi cứ chờ mãi, nhưng giờ thật khó tìm được những ca khúc thấm đẫm tình yêu quê hương hòa quyện với tình yêu đôi lứa mượt mà, mênh mang và da diết đến thế…\", Anh Thơ, một trong những ca sĩ thể hiện thành công ca khúc nổi tiếng nhất trong sự nghiệp sáng tác của nhạc sĩ Đoàn Bổng, bày tỏ sự kính trọn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:53:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000007+07:00"
+    },
+    {
+      "id": "ecb57da3180499137648edc5d3d979d5",
+      "title": "Một con cá ngừ được giá hơn 85 tỉ đồng",
+      "link": "https://thanhnien.vn/mot-con-ca-ngu-duoc-gia-hon-85-ti-dong-185260105113302926.htm",
+      "summary": "Một doanh nhân Nhật Bản hôm nay 5.1 đã trả mức giá kỷ lục 510,3 triệu yên (hơn 85 tỉ đồng) cho một con cá ngừ vây xanh khổng lồ tại phiên đấu giá thường niên đầu năm mới ở chợ cá chính của Tokyo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:53:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000195+07:00"
+    },
+    {
+      "id": "5c3faa0c363633218c17c597f78f6676",
+      "title": "Thủ môn 1,91 m của Việt Nam: Tốp 10 người gác đền đắt nhất U.23 châu Á, hơn 6 tỉ đồng",
+      "link": "https://thanhnien.vn/thu-mon-191-m-cua-viet-nam-top-10-nguoi-gac-den-dat-nhat-u23-chau-a-hon-6-ti-dong-185260105114946819.htm",
+      "summary": "Trần Trung Kiên đứng thứ 7 trong danh sách tốp 10 thủ môn đắt giá nhất VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:52:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000355+07:00"
+    },
+    {
+      "id": "e04349db68788a57a5789346b26b8c51",
+      "title": "Cận cảnh khu đô thị gần 4.500 tỉ đồng ở Đà Nẵng dính hàng loạt vi phạm",
+      "link": "https://thanhnien.vn/can-canh-khu-do-thi-gan-4500-ti-dong-o-da-nang-dinh-hang-loat-vi-pham-185260105111757579.htm",
+      "summary": "Thanh tra Chính phủ chỉ ra hàng loạt vi phạm tại dự án khu đô thị có vốn đầu tư gần 4.500 tỉ đồng ở TP.Đà Nẵng. Đồng thời, kiến nghị Thủ tướng Chính phủ chỉ đạo tổ chức kiểm điểm, làm rõ trách nhiệm của các tập thể, cá nhân liên quan đến dự án này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:46:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000510+07:00"
+    },
+    {
+      "id": "04a7bd0f37e883563f1e5ee74e75e7ea",
+      "title": "Yếu tố giúp bất động sản ven sông tạo sức hút với Việt kiều",
+      "link": "https://vnexpress.net/yeu-to-giup-bat-dong-san-ven-song-tao-suc-hut-voi-viet-kieu-5001396.html",
+      "summary": "Không gian sống, khả năng khai thác cho thuê giúp bất động sản ven sông được Việt kiều lựa chọn khi đưa kiều hối về đầu tư tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:45:00+07:00",
+      "fetched": "2026-01-05T11:54:38.732865+07:00"
+    },
+    {
+      "id": "d3703da28309d1f05345dad6d5d6a5f7",
+      "title": "Tổng thống lâm thời Venezuela muốn 'hợp tác cùng phát triển' với Mỹ",
+      "link": "https://vnexpress.net/tong-thong-lam-thoi-venezuela-muon-hop-tac-cung-phat-trien-voi-my-5001882.html",
+      "summary": "Tổng thống lâm thời Venezuela Delcy Rodriguez tuyên bố nước này mong muốn đối thoại và hợp tác với Mỹ trên cơ sở luật pháp quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:43:55+07:00",
+      "fetched": "2026-01-05T11:54:38.733048+07:00"
+    },
+    {
+      "id": "d3703da28309d1f05345dad6d5d6a5f7",
+      "title": "Tổng thống lâm thời Venezuela muốn 'hợp tác cùng phát triển' với Mỹ",
+      "link": "https://vnexpress.net/tong-thong-lam-thoi-venezuela-muon-hop-tac-cung-phat-trien-voi-my-5001882.html",
+      "summary": "Tổng thống lâm thời Venezuela Delcy Rodriguez tuyên bố nước này mong muốn đối thoại và hợp tác với Mỹ trên cơ sở luật pháp quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:43:55+07:00",
+      "fetched": "2026-01-05T11:54:46.368294+07:00"
+    },
+    {
+      "id": "b6952d49a72e44a0c836ab41b59704d2",
+      "title": "'Đừng đổ lỗi cho cao tốc khi xảy ra tai nạn liên hoàn'",
+      "link": "https://vnexpress.net/dung-do-loi-cho-cao-toc-khi-xay-ra-tai-nan-lien-hoan-5001865.html",
+      "summary": "Tuy nhiều đoạn cao tốc chưa đạt chuẩn, nhưng khi tai nạn liên hoàn xảy ra lỗi không thể hoàn toàn đổ tại đường cao tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:38:54+07:00",
+      "fetched": "2026-01-05T11:54:38.733240+07:00"
+    },
+    {
+      "id": "92d969aa9103d2173440296bf70d3693",
+      "title": "Trung Quốc lập kỷ lục quốc gia về số lần phóng vũ trụ",
+      "link": "https://vnexpress.net/trung-quoc-lap-ky-luc-quoc-gia-ve-so-lan-phong-vu-tru-5001904.html",
+      "summary": "Theo Cơ quan Vũ trụ Quốc gia Trung Quốc (CNSA), nước này lập kỷ lục mới với tổng cộng 92 vụ phóng không gian trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:37:22+07:00",
+      "fetched": "2026-01-05T11:54:38.733400+07:00"
+    },
+    {
+      "id": "92d969aa9103d2173440296bf70d3693",
+      "title": "Trung Quốc lập kỷ lục quốc gia về số lần phóng vũ trụ",
+      "link": "https://vnexpress.net/trung-quoc-lap-ky-luc-quoc-gia-ve-so-lan-phong-vu-tru-5001904.html",
+      "summary": "Theo Cơ quan Vũ trụ Quốc gia Trung Quốc (CNSA), nước này lập kỷ lục mới với tổng cộng 92 vụ phóng không gian trong năm 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-05T04:37:22+07:00",
+      "fetched": "2026-01-05T11:54:50.952110+07:00"
+    },
+    {
+      "id": "90c9e760a9f3a1764ecd46d1432efa1e",
+      "title": "Hà Nội thưởng tết cao nhất 600 triệu đồng",
+      "link": "https://thanhnien.vn/ha-noi-thuong-tet-cao-nhat-600-trieu-dong-18526010511101872.htm",
+      "summary": "Mức thưởng tết Nguyên đán Bính Ngọ 2026 tại Hà Nội cao nhất là hơn 600 triệu đồng. Mức thưởng bình quân trong dịp tết cho người lao động có chiều hướng tăng đồng đều hơn so với năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:37:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000662+07:00"
+    },
+    {
+      "id": "250799414df482566fc45bc6b446b454",
+      "title": "Chung cư xây mới dự kiến phải có khu để xe điện riêng",
+      "link": "https://vnexpress.net/chung-cu-xay-moi-du-kien-phai-co-khu-de-xe-dien-rieng-5001828.html",
+      "summary": "Bộ Xây dựng đề xuất chung cư xây mới phải tách riêng khu vực để xe điện, cách nơi đỗ xe xăng ít nhất 2 m, ưu tiên vị trí gần lối ra vào hoặc đường dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:35:43+07:00",
+      "fetched": "2026-01-05T11:54:38.733558+07:00"
+    },
+    {
+      "id": "afc43d98c36935ab354e25dc4f62c28f",
+      "title": "Phạm Đình Hải vẫn chưa thể sang Ả Rập Xê Út, U.23 Việt Nam mong các thủ môn không gặp vấn đề",
+      "link": "https://thanhnien.vn/pham-dinh-hai-van-chua-the-sang-a-rap-xe-ut-u23-viet-nam-mong-cac-thu-mon-khong-gap-van-de-185260105112633643.htm",
+      "summary": "Trước thời điểm chốt danh sách 23 cầu thủ dự VCK U.23 châu Á, U.23 Việt Nam đang gặp không ít khó khăn về mặt nhân sự, đặc biệt ở vị trí thủ môn và hàng công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:31:00+07:00",
+      "fetched": "2026-01-05T11:54:42.000811+07:00"
+    },
+    {
+      "id": "dd7f3af9c758900181c15de9be1822fa",
+      "title": "Năm mới sang rồi, khi nào mình tìm thấy nhau?",
+      "link": "https://vnexpress.net/nam-moi-sang-roi-khi-nao-minh-tim-thay-nhau-5001503.html",
+      "summary": "Em có công việc bình thường, không giàu, không giỏi nhưng độc lập, tự chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:29:28+07:00",
+      "fetched": "2026-01-05T11:54:38.733670+07:00"
+    },
+    {
+      "id": "04266726c36e939ad8aca9422c70d6ec",
+      "title": "Tài năng của Bayern gây sốc vì mơ ước sang Real",
+      "link": "https://vnexpress.net/tai-nang-cua-bayern-gay-soc-vi-mo-uoc-sang-real-5001901.html",
+      "summary": "Lennart Karl, tiền vệ tấn công 17 tuổi, làm người hâm mộ Bayern Munich thất vọng khi thẳng thắn nói rằng Real Madrid là đội bóng trong mơ của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:28:52+07:00",
+      "fetched": "2026-01-05T11:54:38.733825+07:00"
+    },
+    {
+      "id": "7d5f67da4928c35b9b4c6a4ca4a6342e",
+      "title": "Diện mạo con gái Kim Kardashian gây chú ý",
+      "link": "https://vnexpress.net/dien-mao-con-gai-kim-kardashian-gay-chu-y-5001750.html",
+      "summary": "Ở tuổi 13, North West - con gái của tỷ phú Kim Kardashian và rapper Kanye West - để tóc sáng màu, theo mốt răng đen và đeo khuyên mũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:28:13+07:00",
+      "fetched": "2026-01-05T11:54:38.733983+07:00"
+    },
+    {
+      "id": "ea56af94c56b4e184c06eff6d2359b41",
+      "title": "Buôn bán lấn chiếm đường, gây kẹt xe",
+      "link": "https://thanhnien.vn/buon-ban-lan-chiem-duong-gay-ket-xe-185260104182947766.htm",
+      "summary": "Trên đường Tám Danh, đoạn từ đường Tạ Quang Bửu đến chợ Phạm Thế Hiển, P.Chánh Hưng (trước đây thuộc P.4, Q.8), TP.HCM, nhiều người dân bày hàng hóa dưới lòng đường, gây cảnh kẹt xe triền miên, nhất l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:26:00+07:00",
+      "fetched": "2026-01-05T11:54:43.864077+07:00"
+    },
+    {
+      "id": "eca8e9cf1c8366a4181508895ca76700",
+      "title": "Viết cho một mối duyên lành",
+      "link": "https://vnexpress.net/viet-cho-mot-moi-duyen-lanh-5001500.html",
+      "summary": "Em làm việc trong ngành y, nơi mỗi ngày cần song hành giữa lý trí và lòng trắc ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:25:14+07:00",
+      "fetched": "2026-01-05T11:54:38.734097+07:00"
+    },
+    {
+      "id": "f3e2449bbc5a6947f284ab680e698be3",
+      "title": "Mỹ xác định Ukraine không tập kích dinh thự ông Putin",
+      "link": "https://vnexpress.net/my-xac-dinh-ukraine-khong-tap-kich-dinh-thu-ong-putin-5001806.html",
+      "summary": "Ông Trump nói Mỹ xác định Ukraine không phóng UAV nhằm vào dinh thự ông Putin, dù Moskva thông báo đã cung cấp bằng chứng cho Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:24:52+07:00",
+      "fetched": "2026-01-05T11:54:38.734259+07:00"
+    },
+    {
+      "id": "f3e2449bbc5a6947f284ab680e698be3",
+      "title": "Mỹ xác định Ukraine không tập kích dinh thự ông Putin",
+      "link": "https://vnexpress.net/my-xac-dinh-ukraine-khong-tap-kich-dinh-thu-ong-putin-5001806.html",
+      "summary": "Ông Trump nói Mỹ xác định Ukraine không phóng UAV nhằm vào dinh thự ông Putin, dù Moskva thông báo đã cung cấp bằng chứng cho Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:24:52+07:00",
+      "fetched": "2026-01-05T11:54:46.368469+07:00"
+    },
+    {
+      "id": "a72066de7b07c401981da82a93bdfe40",
+      "title": "Tìm người đàn ông hiền lành, trân trọng tình cảm",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-hien-lanh-tran-trong-tinh-cam-5001501.html",
+      "summary": "Mình không tìm mối quan hệ vội vàng hay yêu cho có, mà mong gặp được người tử tế, đủ chân thành để trò chuyện và đồng hành lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:24:44+07:00",
+      "fetched": "2026-01-05T11:54:38.734356+07:00"
+    },
+    {
+      "id": "d209145524bec550f1a37808503a5ef2",
+      "title": "Doanh nghiệp Nhật lo mất lao động Việt",
+      "link": "https://vnexpress.net/doanh-nghiep-nhat-lo-mat-lao-dong-viet-5001850.html",
+      "summary": "Lo ngại kinh tế Việt Nam tăng trưởng và đồng yen mất giá khiến lao động không còn mặn mà, ông Yoshihisa Tawara tìm mọi cách cải thiện điều kiện sống để giữ chân thực tập sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:23:56+07:00",
+      "fetched": "2026-01-05T11:54:38.734513+07:00"
+    },
+    {
+      "id": "75fb2a8966e4e97e5a235860b90d67d3",
+      "title": "Em chờ đợi người đàn ông chín chắn, có khiếu hài hước",
+      "link": "https://vnexpress.net/em-cho-doi-nguoi-dan-ong-chin-chan-co-khieu-hai-huoc-5001502.html",
+      "summary": "Em làm việc tại Sài Gòn, 33 tuổi, là nhân viên văn phòng mẫn cán (nhưng không hề khô khan đâu nhé).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:21:39+07:00",
+      "fetched": "2026-01-05T11:54:38.734606+07:00"
+    },
+    {
+      "id": "efc415b657564d2be01bb026c6a00964",
+      "title": "Khách châu Á lo ngại Mỹ 'soi' mạng xã hội khi nhập cảnh",
+      "link": "https://vnexpress.net/khach-chau-a-lo-ngai-my-soi-mang-xa-hoi-khi-nhap-canh-5001822.html",
+      "summary": "Du khách châu Á dè chừng trước đề xuất bắt buộc người được miễn thị thực cung cấp lịch sử hoạt động mạng xã hội 5 năm khi nhập cảnh Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:21:12+07:00",
+      "fetched": "2026-01-05T11:54:38.734761+07:00"
+    },
+    {
+      "id": "fbe33dda9b437c499cd2afde1088de69",
+      "title": "Đức Phát cầu hôn hotgirl bắn cung Ánh Nguyệt",
+      "link": "https://vnexpress.net/duc-phat-cau-hon-hotgirl-ban-cung-anh-nguyet-5001871.html",
+      "summary": "Tay vợt cầu lông số hai Việt Nam Lê Đức Phát và cung thủ Đỗ Thị Ánh Nguyệt về chung một nhà sau hơn một năm tìm hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:20:03+07:00",
+      "fetched": "2026-01-05T11:54:38.734912+07:00"
+    },
+    {
+      "id": "7fcf8aa443651e3c79f324c9ffbee9e7",
+      "title": "Uống rau má thường xuyên liệu có tốt cho gan?",
+      "link": "https://thanhnien.vn/uong-rau-ma-thuong-xuyen-lieu-co-tot-cho-gan-185260105104135366.htm",
+      "summary": "Rau má thường được xem như 'thức uống mát gan' quen thuộc của người Việt. Nhưng việc uống nước rau má mỗi ngày liệu có thực sự giúp gan khỏe hơn hay ngược lại?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:20:00+07:00",
+      "fetched": "2026-01-05T11:54:43.864485+07:00"
+    },
+    {
+      "id": "1353d08ff9a7c79a4beedd5372454c2f",
+      "title": "32 người Cuba chết khi Mỹ tấn công Venezuela, ông Trump cảnh báo Colombia",
+      "link": "https://thanhnien.vn/32-nguoi-cuba-chet-khi-my-tan-cong-venezuela-ong-trump-canh-bao-colombia-185260105104155509.htm",
+      "summary": "Chính phủ Cuba hôm 4.1 thông báo rằng 32 công dân Cuba đã thiệt mạng trong cuộc đột kích của lực lượng Mỹ vào Venezuela hôm 3.1 nhằm bắt Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:16:00+07:00",
+      "fetched": "2026-01-05T11:54:43.864652+07:00"
+    },
+    {
+      "id": "ccb386d75ff81629dbba50ad116d8f7d",
+      "title": "Ông Trump cảnh báo kịch bản Iran 'bị giáng đòn nặng'",
+      "link": "https://vnexpress.net/ong-trump-canh-bao-kich-ban-iran-bi-giang-don-nang-5001830.html",
+      "summary": "Tổng thống Trump cảnh báo Tehran sẽ bị Washington \"giáng đòn nặng\" nếu còn có thêm người biểu tình ở nước này thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:15:43+07:00",
+      "fetched": "2026-01-05T11:54:46.368637+07:00"
+    },
+    {
+      "id": "b07a12bc22c337e76a19cdf546e722d7",
+      "title": "Triều Tiên thử tên lửa siêu vượt âm, phô diễn năng lực răn đe",
+      "link": "https://vnexpress.net/trieu-tien-thu-ten-lua-sieu-vuot-am-pho-dien-nang-luc-ran-de-5001736.html",
+      "summary": "Triều Tiên thông báo thử tên lửa siêu vượt âm, cho biết hoạt động nhằm đánh giá năng lực răn đe và chuẩn bị cho kịch bản xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:13:49+07:00",
+      "fetched": "2026-01-05T11:54:46.368797+07:00"
+    },
+    {
+      "id": "792bfd9a46ec8b8581f980e6609dc534",
+      "title": "Cu li nhỏ quý hiếm trong Sách đỏ bất ngờ xuất hiện ở vườn keo của người dân",
+      "link": "https://thanhnien.vn/cu-li-nho-quy-hiem-trong-sach-do-bat-ngo-xuat-hien-o-vuon-keo-cua-nguoi-dan-185260104092548925.htm",
+      "summary": "Người đàn ông ở Hà Tĩnh bất ngờ phát hiện 1 con cu li nhỏ trong vườn keo của gia đình nên tự nguyện giao nộp cho lực lượng chức năng. Đây là loài động vật rừng nguy cấp, quý hiếm nằm trong Sách đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:11:00+07:00",
+      "fetched": "2026-01-05T11:54:43.864821+07:00"
+    },
+    {
+      "id": "55b6663905444fc52601064a3ba264f1",
+      "title": "Hành trình viết tiếp ước mơ của bác sĩ Nam Phương",
+      "link": "https://thanhnien.vn/hanh-trinh-viet-tiep-uoc-mo-cua-bac-si-nam-phuong-18526010418254353.htm",
+      "summary": "Ngày cuối của năm 2025, bác sĩ Trần Thị Nam Phương, tên trước đây là Trần Thị Ô Xin, nhân vật nhận nhiều sự giúp đỡ của bạn đọc Báo Thanh Niên sau bài viết Nhận tin đỗ 2 trường đại học trên giường bệnh đăng ngày 16.8.2013, lên xe hoa sau quá trình vượt khó để trở thành bác sĩ, giảng viên đại học ngà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:10:00+07:00",
+      "fetched": "2026-01-05T11:54:43.864977+07:00"
+    },
+    {
+      "id": "cbb540b4f5d19164eee9f5ca4572de31",
+      "title": "Giá Bitcoin hôm nay 5.1.2026: Vì sao BTC tăng mạnh sau khi tổng thống Venezuela bị bắt?",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-512026-vi-sao-btc-tang-manh-sau-khi-tong-thong-venezuela-bi-bat-185260105104529166.htm",
+      "summary": "Giá Bitcoin hôm nay bật tăng lên trên 93.000 USD khi thị trường phản ứng với vụ tấn công chớp nhoáng của Mỹ vào Venezuela và tin đồn về kho dự trữ Bitcoin khổng lồ của quốc gia này được tiết lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:09:00+07:00",
+      "fetched": "2026-01-05T11:54:43.865164+07:00"
+    },
+    {
+      "id": "d9c86b7e394d4a94f9456e2871a999b1",
+      "title": "Cuba xác nhận 32 nhân viên an ninh thiệt mạng ở Venezuela",
+      "link": "https://vnexpress.net/cuba-xac-nhan-32-nhan-vien-an-ninh-thiet-mang-o-venezuela-5001820.html",
+      "summary": "Chính phủ Cuba xác nhận 32 công dân gồm quân nhân và nhân viên tình báo thiệt mạng tại Venezuela khi Mỹ mở chiến dịch đột kích để bắt ông Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:08:45+07:00",
+      "fetched": "2026-01-05T11:54:46.368955+07:00"
+    },
+    {
+      "id": "11f7f78e4db2ac7f9d571cbc76d26946",
+      "title": "Tỉnh Cà Mau tặng bằng khen Báo Thanh Niên",
+      "link": "https://thanhnien.vn/tinh-ca-mau-tang-bang-khen-bao-thanh-nien-185260105102700426.htm",
+      "summary": "Ông Nguyễn Hồ Hải, Bí thư Tỉnh ủy Cà Mau cùng lãnh đạo tỉnh đến thăm, trao tặng bằng khen của Chủ tịch UBND tỉnh cho Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:07:00+07:00",
+      "fetched": "2026-01-05T11:54:43.865321+07:00"
+    },
+    {
+      "id": "450d0e7617a958532815c2d8cf516df3",
+      "title": "Chi phí nào không hóa đơn vẫn được trừ khi tính thuế thu nhập hộ kinh doanh?",
+      "link": "https://thanhnien.vn/chi-phi-nao-khong-hoa-don-van-duoc-tru-khi-tinh-thue-thu-nhap-ho-kinh-doanh-185260105103757717.htm",
+      "summary": "Nhiều hộ kinh doanh thuộc nhóm 3, doanh thu năm trên 3 tỉ đồng thắc mắc về những chi phí nào không có hóa đơn hợp lệ theo quy định của Bộ Tài chính, nhưng vẫn được trừ khi tính thuế thu nhập hộ kinh doanh trước khi đóng thuế thu nhập 17% trên lợi nhuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:06:00+07:00",
+      "fetched": "2026-01-05T11:54:43.865471+07:00"
+    },
+    {
+      "id": "c77c76a75ec51d8837139e2ff347e24a",
+      "title": "Ngoại trưởng Rubio: Mỹ sẽ không điều hành Venezuela",
+      "link": "https://vnexpress.net/ngoai-truong-rubio-my-se-khong-dieu-hanh-venezuela-5001825.html",
+      "summary": "Ngoại trưởng Rubio tuyên bố Mỹ không tìm cách thay đổi chế độ hay điều hành Venezuela, mà gây sức ép với Caracas bằng phong tỏa dầu mỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T04:03:01+07:00",
+      "fetched": "2026-01-05T11:54:46.369140+07:00"
+    },
+    {
+      "id": "d7977a16604ebe26182a6569f87bd6aa",
+      "title": "Xem nhanh 12h: Dọa đánh du khách ở biển Nha Trang | Không khí lạnh tiếp tục tăng cường",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-doa-danh-du-khach-o-bien-nha-trang-khong-khi-lanh-tiep-tuc-tang-cuong-185260105104536791.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 5.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T04:00:00+07:00",
+      "fetched": "2026-01-05T11:54:43.865627+07:00"
     },
     {
       "id": "79a8824eb01af61519ab4b83507ab074",
