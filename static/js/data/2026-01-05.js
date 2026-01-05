@@ -1,7 +1,157 @@
 window.newsData_2026_01_05 = {
   "date": "2026-01-05",
-  "lastUpdated": "2026-01-05T08:42:48.731543+07:00",
+  "lastUpdated": "2026-01-05T10:53:08.513547+07:00",
   "articles": [
+    {
+      "id": "cfcda92b85b5e031b6b9e3c7ce50f436",
+      "title": "U23 Việt Nam khủng hoảng lực lượng, chờ tài của HLV Kim Sang Sik",
+      "link": "https://tuoitre.vn/u23-viet-nam-khung-hoang-luc-luong-cho-tai-cua-hlv-kim-sang-sik-20260105091423631.htm",
+      "summary": "Sau thành công tại Đông Nam Á, U23 Việt Nam đứng trước thử thách lớn khi chuẩn bị dự đấu trường châu Á với đội hình sứt mẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891875+07:00",
+      "fetched": "2026-01-05T10:53:01.891999+07:00"
+    },
+    {
+      "id": "70f5c0c8e92bfa2301aa1e34c7b61b06",
+      "title": "Nhật Bản mang 8 sinh viên đến Giải U23 châu Á",
+      "link": "https://tuoitre.vn/nhat-ban-mang-8-sinh-vien-den-giai-u23-chau-a-20260104141644548.htm",
+      "summary": "Trong 23 cái tên được HLV Go Oiwa triệu tập cho tuyển Nhật Bản tham dự Giải U23 châu Á 2026, có đến 8 cầu thủ đang là sinh viên các trường đại học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891744+07:00",
+      "fetched": "2026-01-05T10:53:01.891864+07:00"
+    },
+    {
+      "id": "5df49d7d7174090b3907858d1dd23544",
+      "title": "Thanh niên đâm chết bảo vệ Bệnh viện Đa khoa Vĩnh Long khai gì?",
+      "link": "https://tuoitre.vn/thanh-nien-dam-chet-bao-ve-benh-vien-da-khoa-vinh-long-khai-gi-20260105084132409.htm",
+      "summary": "Sau khi đâm bảo vệ giữ xe tại Bệnh viện Đa khoa tỉnh Vĩnh Long trọng thương, Tâm mang xe máy đi cầm cố, mượn tiền của nhiều người, sau đó dự định bỏ trốn qua Campuchia thì bị bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891612+07:00",
+      "fetched": "2026-01-05T10:53:01.891733+07:00"
+    },
+    {
+      "id": "58a4174b9aac696c9f65dacf5894820a",
+      "title": "Làng mai vàng Bình Lợi ở TP.HCM tất bật chuẩn bị Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/lang-mai-vang-binh-loi-o-tp-hcm-tat-bat-chuan-bi-tet-binh-ngo-20260104134410673.htm",
+      "summary": "Làng mai vàng Bình Lợi (với diện tích khoảng 606ha trồng cây mai vàng ở xã Bình Lợi, TP.HCM) đang tất bật chuẩn bị cho dịp Tết Nguyên đán Bính Ngọ năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891485+07:00",
+      "fetched": "2026-01-05T10:53:01.891601+07:00"
+    },
+    {
+      "id": "adc92a0ab63c5080f36c066683a2a19b",
+      "title": "Djokovic cắt đứt quan hệ với Hiệp hội Quần vợt chuyên nghiệp",
+      "link": "https://tuoitre.vn/djokovic-cat-dut-quan-he-voi-hiep-hoi-quan-vot-chuyen-nghiep-20260105091706806.htm",
+      "summary": "Tay vợt người Serbia Novak Djokovic tuyên bố cắt đứt quan hệ với Hiệp hội Quần vợt chuyên nghiệp (PTPA) do chính anh sáng lập với lý do \"lo ngại về tính minh bạch và quản trị trong tổ chức này\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891354+07:00",
+      "fetched": "2026-01-05T10:53:01.891473+07:00"
+    },
+    {
+      "id": "024b8435ee8323adf545c16fd4c5adda",
+      "title": "Đón năm mới nơi đầu sóng DK1",
+      "link": "https://tuoitre.vn/don-nam-moi-noi-dau-song-dk1-20260105085126615.htm",
+      "summary": "Giữa mênh mang biển nước, những \"pháo đài thép\" DK1 lặng lẽ đứng gác ở \"chân trời Tổ quốc\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891229+07:00",
+      "fetched": "2026-01-05T10:53:01.891343+07:00"
+    },
+    {
+      "id": "ee52a359ea581ab8a8c1e0eaa89523b3",
+      "title": "Lịch thi đấu, kênh phát sóng của Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-kenh-phat-song-cua-giai-u23-chau-a-2026-20260105092906951.htm",
+      "summary": "Ngày mai 6-1, vòng chung kết Giải U23 châu Á 2026 sẽ chính thức khởi tranh tại Saudi Arabia với sự tham dự của 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.891095+07:00",
+      "fetched": "2026-01-05T10:53:01.891218+07:00"
+    },
+    {
+      "id": "fad1262440840b7cb308dd28013ab578",
+      "title": "Nhà 'lạ' mọc lên trước lăng Hoàng thái hậu Từ Dụ: Tùy tiện, không theo lệ xưa",
+      "link": "https://tuoitre.vn/nha-la-moc-len-truoc-lang-hoang-thai-hau-tu-du-tuy-tien-khong-theo-le-xua-20260105092025271.htm",
+      "summary": "Đó là nhận xét của nhà nghiên cứu văn hóa Huế Phạm Đức Thành Dũng trước sự việc Trung tâm Bảo tồn di tích cố đô Huế cho dựng một ngôi nhà gỗ kiên cố ngay trước lối ra vào lăng mộ của Hoàng thái hậu Từ Dụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890954+07:00",
+      "fetched": "2026-01-05T10:53:01.891069+07:00"
+    },
+    {
+      "id": "999ce4b538ed75fbc97cbfb2ca637e2b",
+      "title": "Ông Vương Nghị: Trung Quốc không chấp nhận một nước đóng vai cảnh sát hay thẩm phán của thế giới",
+      "link": "https://tuoitre.vn/ong-vuong-nghi-trung-quoc-khong-chap-nhan-mot-nuoc-dong-vai-canh-sat-hay-tham-phan-cua-the-gioi-20260105092713913.htm",
+      "summary": "Ngoại trưởng Trung Quốc Vương Nghị nói Bắc Kinh không thể chấp nhận việc bất kỳ quốc gia nào hành động như thẩm phán của thế giới, sau khi Mỹ bắt giữ Tổng thống Venezuela Nicolas Maduro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890829+07:00",
+      "fetched": "2026-01-05T10:53:01.890943+07:00"
+    },
+    {
+      "id": "6ac440095f526be6c79871a106f8ef5c",
+      "title": "Báo chí Saudi Arabia e ngại hàng thủ U23 Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-saudi-arabia-e-ngai-hang-thu-u23-viet-nam-20260105091548183.htm",
+      "summary": "Trước thềm VCK U23 châu Á 2026, truyền thông nước chủ nhà Saudi Arabia dành sự quan tâm đặc biệt và bày tỏ sự thận trọng trước hàng phòng ngự của U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890701+07:00",
+      "fetched": "2026-01-05T10:53:01.890817+07:00"
+    },
+    {
+      "id": "5044dcac5a45a377c74a1014bed9be8b",
+      "title": "Cựu vô địch quyền anh thế giới bị cáo buộc đấm cảnh sát",
+      "link": "https://tuoitre.vn/cuu-vo-dich-quyen-anh-the-gioi-bi-cao-buoc-dam-canh-sat-20260105092526632.htm",
+      "summary": "Cựu vô địch quyền anh thế giới Herbie Hide (54 tuổi, người Anh) phải ra hầu tòa vì cáo buộc đấm một sĩ quan cảnh sát mặc thường phục tại nhà riêng của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890573+07:00",
+      "fetched": "2026-01-05T10:53:01.890690+07:00"
+    },
+    {
+      "id": "cd737327ff9b739312dafe5a20bec849",
+      "title": "Năm 2026: Bầu trời sôi động với loạt hiện tượng thiên văn hiếm",
+      "link": "https://tuoitre.vn/nam-2026-bau-troi-soi-dong-voi-loat-hien-tuong-thien-van-hiem-20260104145015988.htm",
+      "summary": "Năm 2026 được xem là một trong những năm thiên văn sôi động nhất trong thập niên này với hàng loạt hiện tượng nổi bật như nhật thực toàn phần, nguyệt thực toàn phần, mưa sao băng dày đặc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890442+07:00",
+      "fetched": "2026-01-05T10:53:01.890562+07:00"
+    },
+    {
+      "id": "3956a9e199e27ff1f6197a6a330eb48b",
+      "title": "Tỉ lệ tử vong do sốc thuốc tại Mỹ giảm đáng kể có phải là thành tựu của chính quyền Trump?",
+      "link": "https://tuoitre.vn/ti-le-tu-vong-do-soc-thuoc-tai-my-giam-tu-nam-2023-bi-xuyen-tac-la-thanh-tuu-chinh-quyen-trump-20260105092405154.htm",
+      "summary": "Một nghiên cứu quy mô lớn cho thấy số ca tử vong do sốc thuốc tại Mỹ bắt đầu giảm từ tháng 8-2023, trước khi ông Donald Trump bước vào nhiệm kỳ tổng thống thứ hai, nhưng số liệu này bị một số nhân vật trong chính quyền của ông diễn giải sai lệch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890307+07:00",
+      "fetched": "2026-01-05T10:53:01.890430+07:00"
+    },
+    {
+      "id": "4b9ea09b40574b2e64dd650f55588561",
+      "title": "Ông Trump nói không tin Ukraine thực sự tấn công dinh thự tổng thống Nga",
+      "link": "https://tuoitre.vn/ong-trump-noi-khong-tin-ukraine-thuc-su-tan-cong-dinh-thu-tong-thong-nga-20260105094649112.htm",
+      "summary": "Tổng thống Mỹ nói ông không tin Ukraine đã tấn công dinh thự Tổng thống Putin như những gì Nga cáo buộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.890162+07:00",
+      "fetched": "2026-01-05T10:53:01.890294+07:00"
+    },
+    {
+      "id": "0d98ce5c479233407aa36702a850c371",
+      "title": "Bát nháo thị trường thực phẩm chức năng 'thần dược' online, ai cũng là 'thần y'",
+      "link": "https://tuoitre.vn/bat-nhao-thi-truong-thuc-pham-chuc-nang-than-duoc-online-ai-cung-la-than-y-20260104235412206.htm",
+      "summary": "Đã có những người bệnh nghe thuyết giảng, mất gần 40 triệu đồng mua 'thảo dược đông y' không nguồn gốc, bệnh ngày càng tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T10:53:01.889968+07:00",
+      "fetched": "2026-01-05T10:53:01.890146+07:00"
+    },
     {
       "id": "694bef4e9c75957b9f586a9f8e42f848",
       "title": "Vay tiền của đồng nghiệp bị công ty trừ lương để trả nợ, vậy đúng không?",
@@ -153,6 +303,396 @@ window.newsData_2026_01_05 = {
       "fetched": "2026-01-05T08:42:40.351808+07:00"
     },
     {
+      "id": "79a8824eb01af61519ab4b83507ab074",
+      "title": "TP.HCM lần đầu thử nghiệm bay UAV giao hàng",
+      "link": "https://thanhnien.vn/tphcm-lan-dau-thu-nghiem-bay-uav-giao-hang-185260105094101373.htm",
+      "summary": "Từ thành công của buổi thử nghiệm bay UAV giao hàng ở Khu Công nghệ cao, lãnh đạo Sở Khoa học và Công nghệ TP.HCM kỳ vọng sắp tới sẽ bay từ Cần Giờ qua Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:49:00+07:00",
+      "fetched": "2026-01-05T10:53:00.375603+07:00"
+    },
+    {
+      "id": "1c3f45da83421c63a9c3c6afb5f9c7e7",
+      "title": "Green Dragon City - tâm điểm giải trí khi tới Quảng Ninh",
+      "link": "https://thanhnien.vn/green-dragon-city-tam-diem-giai-tri-khi-toi-quang-ninh-185260105104644026.htm",
+      "summary": "Trong kỳ nghỉ Tết Dương lịch kéo dài 5 ngày, từ 31.12.2025 đến 4.1.2026, du lịch Quảng Ninh tiếp tục ghi nhận những tín hiệu tăng trưởng tích cực, với lượng khách và doanh thu tăng cao, đặc biệt nhờ chuỗi hoạt động vui chơi, giải trí sôi động về đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:37:00+07:00",
+      "fetched": "2026-01-05T10:53:00.375771+07:00"
+    },
+    {
+      "id": "c55ffbd206aa28ea004aa9899cc82832",
+      "title": "Đại học Ngoại thương mở nhiều ngành công nghệ, trí tuệ nhân tạo",
+      "link": "https://vnexpress.net/dai-hoc-ngoai-thuong-mo-nhieu-nganh-cong-nghe-tri-tue-nhan-tao-5001778.html",
+      "summary": "Năm 2026, trường Đại học Ngoại thương (FTU) dự kiến mở mới 10 ngành, trong đó có Trí tuệ nhân tọa, Khoa học dữ liệu, Công nghệ tài chính...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:35:54+07:00",
+      "fetched": "2026-01-05T10:52:57.073065+07:00"
+    },
+    {
+      "id": "24e32c04e8401deaebe270eff0bd87f1",
+      "title": "Colombia triển khai quân đội đến biên giới giáp Venezuela",
+      "link": "https://vnexpress.net/colombia-trien-khai-quan-doi-den-bien-gioi-giap-venezuela-5001769.html",
+      "summary": "Colombia điều binh sĩ, thiết giáp đến biên giới giáp Venezuela nhằm đề phòng bùng phát làn sóng tị nạn, tuyên bố sẵn sàng ban bố tình trạng khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:34:12+07:00",
+      "fetched": "2026-01-05T10:52:57.073265+07:00"
+    },
+    {
+      "id": "6df0ad52e4582f677a5569afacb8aaac",
+      "title": "Bác sĩ chỉ ra 4 cách phân biệt thịt bò thật và giả",
+      "link": "https://thanhnien.vn/bac-si-chi-ra-4-cach-phan-biet-thit-bo-that-va-gia-185260104091242715.htm",
+      "summary": "Để phân biệt giữa thịt bò giả và thịt bò thật, người dùng có thể kiểm tra bằng ngón tay, quan sát màu sắc và thớ thịt, kiểm tra bằng nước hoặc thông qua mùi vị đặc trưng của thịt bò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:34:00+07:00",
+      "fetched": "2026-01-05T10:53:00.375928+07:00"
+    },
+    {
+      "id": "979b4480310d580cf16f72a89656273e",
+      "title": "CSGT phạt hàng loạt xe máy đi vào làn đường riêng cho xe đạp ở TP.HCM",
+      "link": "https://thanhnien.vn/csgt-phat-hang-loat-xe-may-di-vao-lan-duong-rieng-cho-xe-dap-o-tphcm-1852601051024348.htm",
+      "summary": "CSGT Cát Lái vừa phạt hàng loạt xe máy đi vào làn đường riêng cho xe đạp trên trục Mai Chí Thọ. Nhiều người giải thích 'do thấy đường mới làm nên chạy vào'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:33:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376096+07:00"
+    },
+    {
+      "id": "666553a24c9803b963d7d1d4884970bd",
+      "title": "Lazulio - hương nước hoa đa tầng trong bộ sưu tập của Diptyque",
+      "link": "https://vnexpress.net/lazulio-huong-nuoc-hoa-da-tang-trong-bo-suu-tap-cua-diptyque-5000798.html",
+      "summary": "Lazulio tái hiện vẻ đẹp thiên nhiên qua hương thơm đa tầng từ rhubarb, gỗ, vetiver và hổ phách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:30:00+07:00",
+      "fetched": "2026-01-05T10:52:57.073430+07:00"
+    },
+    {
+      "id": "aaf061da5e0f4116034da63e0402a137",
+      "title": "Thắng lớn tết Dương lịch, nhiều địa phương 'hốt bạc' ngàn tỉ đồng",
+      "link": "https://thanhnien.vn/thang-lon-tet-duong-lich-nhieu-dia-phuong-hot-bac-ngan-ti-dong-185260105102351026.htm",
+      "summary": "Kỳ nghỉ Tết Dương lịch 2026 kéo dài 4 ngày cùng thời tiết thuận lợi đã tạo điều kiện cho hoạt động du lịch trên cả nước diễn ra sôi động. Nhiều địa phương đón khách kỷ lục, đạt doanh thu ấn tượng ngay từ những ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:30:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376258+07:00"
+    },
+    {
+      "id": "65fcf9d7ff84c51d6361bf70663b3ab9",
+      "title": "Bỏ qua nhà hàng Michelin và TikTok khi du lịch năm 2026",
+      "link": "https://vnexpress.net/bo-qua-nha-hang-michelin-va-tiktok-khi-du-lich-nam-2026-5001078.html",
+      "summary": "Phóng viên du lịch của Bloomberg khuyên bỏ qua các gợi ý trên TikTok, các nhà hàng Michelin, tập trung vào trải nghiệm thực tế và gặp gỡ người bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:29:01+07:00",
+      "fetched": "2026-01-05T10:52:57.073596+07:00"
+    },
+    {
+      "id": "32c5c60cf89f230d9c8502e045c2063b",
+      "title": "Cá ngừ 3,2 triệu USD lập kỷ lục phiên đấu giá năm mới ở Nhật",
+      "link": "https://vnexpress.net/ca-ngu-3-2-trieu-usd-lap-ky-luc-phien-dau-gia-nam-moi-o-nhat-5001807.html",
+      "summary": "Một doanh nhân kinh doanh sushi đã trả 3,2 triệu USD cho một con cá ngừ nặng 243 kg trong phiên chợ hôm nay ở Tokyo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:28:59+07:00",
+      "fetched": "2026-01-05T10:52:57.073760+07:00"
+    },
+    {
+      "id": "32c5c60cf89f230d9c8502e045c2063b",
+      "title": "Cá ngừ 3,2 triệu USD lập kỷ lục phiên đấu giá năm mới ở Nhật",
+      "link": "https://vnexpress.net/ca-ngu-3-2-trieu-usd-lap-ky-luc-phien-dau-gia-nam-moi-o-nhat-5001807.html",
+      "summary": "Một doanh nhân kinh doanh sushi đã trả 3,2 triệu USD cho một con cá ngừ nặng 243 kg trong phiên chợ hôm nay ở Tokyo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T03:28:59+07:00",
+      "fetched": "2026-01-05T10:53:02.987032+07:00"
+    },
+    {
+      "id": "2322132f96d3255aa632f9bbead4e2a1",
+      "title": "10 điểm đến du khách Hàn Quốc yêu thích nhất, Việt Nam chiếm tới 3",
+      "link": "https://thanhnien.vn/10-diem-den-du-khach-han-quoc-yeu-thich-nhat-viet-nam-chiem-toi-3-18526010415233475.htm",
+      "summary": "Bất chấp tỷ giá hối đoái cao, nhu cầu du lịch nước ngoài của du khách Hàn Quốc vẫn tiếp tục phục hồi nhanh chóng trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:28:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376413+07:00"
+    },
+    {
+      "id": "a420b0e285266c5b55abb4a5d1fa43ed",
+      "title": "Cảnh sát xuyên đêm truy tìm nghi phạm dìm thi thể em vợ dưới ao",
+      "link": "https://vnexpress.net/canh-sat-xuyen-dem-truy-tim-nghi-pham-dim-thi-the-em-vo-duoi-ao-5001819.html",
+      "summary": "Y Liat Ênuol, 39 tuổi, bị cảnh sát truy tìm suốt đêm, đến sáng 5/1 bắt giữ để làm rõ cáo buộc dùng đá tấn công em vợ, dìm thi thể dưới ao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:27:00+07:00",
+      "fetched": "2026-01-05T10:52:57.073918+07:00"
+    },
+    {
+      "id": "5c016fb9f229b825c518340493a3083b",
+      "title": "Xa Thi Mạn, Huỳnh Tông Trạch đoạt Thị hậu, Thị đế TVB",
+      "link": "https://thanhnien.vn/xa-thi-man-huynh-tong-trach-doat-thi-hau-thi-de-tvb-185260105101806125.htm",
+      "summary": "Đêm trao giải được mong chờ nhất của TVB vừa khép lại tối 4.1 với chiến thắng vang dội của đoàn phim 'Nữ hoàng tin tức 2'. Trong đó, Xa Thi Mạn lại lập kỷ lục với ngôi Thị hậu còn Huỳnh Tông Trạch lần đầu lên ngôi Thị đế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:26:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376564+07:00"
+    },
+    {
+      "id": "7c1b707000543f6c5a6aaf85506cebc1",
+      "title": "Yann LeCun chê tỷ phú 9x Alexandr Wang 'thiếu kinh nghiệm'",
+      "link": "https://vnexpress.net/yann-lecun-che-ty-phu-9x-alexandr-wang-thieu-kinh-nghiem-5001780.html",
+      "summary": "\"Bố già AI\" Yann LeCun cho rằng Alexandr Wang, 28 tuổi và đang phụ trách dự án siêu trí tuệ tại Meta, chưa có nhiều kinh nghiệm thực tiễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:25:38+07:00",
+      "fetched": "2026-01-05T10:52:57.074072+07:00"
+    },
+    {
+      "id": "7c1b707000543f6c5a6aaf85506cebc1",
+      "title": "Yann LeCun chê tỷ phú 9x Alexandr Wang 'thiếu kinh nghiệm'",
+      "link": "https://vnexpress.net/yann-lecun-che-ty-phu-9x-alexandr-wang-thieu-kinh-nghiem-5001780.html",
+      "summary": "\"Bố già AI\" Yann LeCun cho rằng Alexandr Wang, 28 tuổi và đang phụ trách dự án siêu trí tuệ tại Meta, chưa có nhiều kinh nghiệm thực tiễn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-05T03:25:38+07:00",
+      "fetched": "2026-01-05T10:53:07.413304+07:00"
+    },
+    {
+      "id": "433d9ee39fe2436a1d9690be2989ef6b",
+      "title": "Trẻ em Mỹ 'nghiện' sushi",
+      "link": "https://vnexpress.net/tre-em-my-nghien-sushi-5001265.html",
+      "summary": "Bà mẹ hai con Grace Embury từng thốt lên rằng sai lầm tài chính lớn nhất đời mình là tập cho lũ trẻ ăn sushi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:25:07+07:00",
+      "fetched": "2026-01-05T10:52:57.074256+07:00"
+    },
+    {
+      "id": "5f5d3a809ecd8f07b7d8ec2ddb82e4fe",
+      "title": "Ông Medvedev: Chiến dịch của Mỹ ở Venezuela 'bất hợp pháp'",
+      "link": "https://vnexpress.net/ong-medvedev-chien-dich-cua-my-o-venezuela-bat-hop-phap-5001737.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga Medvedev cho rằng chiến dịch đột kích của Mỹ vào Venezuela là hành động bất hợp pháp, gây bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:21:40+07:00",
+      "fetched": "2026-01-05T10:52:57.074414+07:00"
+    },
+    {
+      "id": "5f5d3a809ecd8f07b7d8ec2ddb82e4fe",
+      "title": "Ông Medvedev: Chiến dịch của Mỹ ở Venezuela 'bất hợp pháp'",
+      "link": "https://vnexpress.net/ong-medvedev-chien-dich-cua-my-o-venezuela-bat-hop-phap-5001737.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga Medvedev cho rằng chiến dịch đột kích của Mỹ vào Venezuela là hành động bất hợp pháp, gây bất ổn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T03:21:40+07:00",
+      "fetched": "2026-01-05T10:53:02.987258+07:00"
+    },
+    {
+      "id": "c08671971d3eaeaa3d9dca69786e9a2b",
+      "title": "Real tái lập cột mốc hiếm sau gần 24 năm",
+      "link": "https://vnexpress.net/real-tai-lap-cot-moc-hiem-sau-gan-24-nam-5001814.html",
+      "summary": "Sau gần một phần tư thế kỷ, Real mới lại có một trận đấu ghi từ ba bàn trở lên và tất cả đều do cầu thủ Tây Ban Nha thực hiện, khi thắng Betis 5-1 ở vòng 18 La Liga ngày 4/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:13:35+07:00",
+      "fetched": "2026-01-05T10:52:57.074573+07:00"
+    },
+    {
+      "id": "c08671971d3eaeaa3d9dca69786e9a2b",
+      "title": "Real tái lập cột mốc hiếm sau gần 24 năm",
+      "link": "https://vnexpress.net/real-tai-lap-cot-moc-hiem-sau-gan-24-nam-5001814.html",
+      "summary": "Sau gần một phần tư thế kỷ, Real mới lại có một trận đấu ghi từ ba bàn trở lên và tất cả đều do cầu thủ Tây Ban Nha thực hiện, khi thắng Betis 5-1 ở vòng 18 La Liga ngày 4/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T03:13:35+07:00",
+      "fetched": "2026-01-05T10:53:08.508521+07:00"
+    },
+    {
+      "id": "2559451c5ad29afe5ee45a52ea03ebd8",
+      "title": "Gia đình đặc biệt với 4 cặp vợ chồng cùng tuổi",
+      "link": "https://thanhnien.vn/gia-dinh-dac-biet-voi-4-cap-vo-chong-cung-tuoi-185260104224232706.htm",
+      "summary": "Đoạn clip do chị Nguyễn Thị Bé Phấn (32 tuổi, Nghệ An) chia sẻ về gia đình có ba mẹ và 3 người con đều kết hôn với người bằng tuổi thu hút sự chú ý của cộng đồng mạng, nhiều người thích thú trước sự trùng hợp hiếm gặp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:10:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376714+07:00"
+    },
+    {
+      "id": "69faccd41b3406e09a47c6d8ebe66bb4",
+      "title": "Ban nhạc robot hình người Trung Quốc đắt show",
+      "link": "https://vnexpress.net/ban-nhac-robot-hinh-nguoi-trung-quoc-dat-show-5001688.html",
+      "summary": "Hòa Tuyền, ban nhạc robot hình người ở Hàng Châu (Trung Quốc), đã nhận lịch trình biểu diễn dày đặc trong Tết Nguyên đán giữa tháng 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:09:50+07:00",
+      "fetched": "2026-01-05T10:52:57.074738+07:00"
+    },
+    {
+      "id": "69faccd41b3406e09a47c6d8ebe66bb4",
+      "title": "Ban nhạc robot hình người Trung Quốc đắt show",
+      "link": "https://vnexpress.net/ban-nhac-robot-hinh-nguoi-trung-quoc-dat-show-5001688.html",
+      "summary": "Hòa Tuyền, ban nhạc robot hình người ở Hàng Châu (Trung Quốc), đã nhận lịch trình biểu diễn dày đặc trong Tết Nguyên đán giữa tháng 2.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-05T03:09:50+07:00",
+      "fetched": "2026-01-05T10:53:07.413477+07:00"
+    },
+    {
+      "id": "84c5514fdfe7338c05391c0a249475e6",
+      "title": "Vì sao Liverpool được công nhận bàn thắng 'việt vị'?",
+      "link": "https://vnexpress.net/vi-sao-liverpool-duoc-cong-nhan-ban-thang-viet-vi-5001787.html",
+      "summary": "Bàn gỡ của Florian Wirtz trong trận Liverpool hòa Fulham 2-2 ở vòng 19 Ngoại hạng Anh gây tranh cãi, khi tiền vệ người Đức dường như đã việt vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:05:44+07:00",
+      "fetched": "2026-01-05T10:52:57.074891+07:00"
+    },
+    {
+      "id": "84c5514fdfe7338c05391c0a249475e6",
+      "title": "Vì sao Liverpool được công nhận bàn thắng 'việt vị'?",
+      "link": "https://vnexpress.net/vi-sao-liverpool-duoc-cong-nhan-ban-thang-viet-vi-5001787.html",
+      "summary": "Bàn gỡ của Florian Wirtz trong trận Liverpool hòa Fulham 2-2 ở vòng 19 Ngoại hạng Anh gây tranh cãi, khi tiền vệ người Đức dường như đã việt vị.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T03:05:44+07:00",
+      "fetched": "2026-01-05T10:53:08.506720+07:00"
+    },
+    {
+      "id": "582f06d1aabd9fe3f5314bb3c8fe4c4c",
+      "title": "Những thói quen cần dừng lại ngay để bảo vệ ổ SSD",
+      "link": "https://thanhnien.vn/nhung-thoi-quen-can-dung-lai-ngay-de-bao-ve-o-ssd-185260104212454467.htm",
+      "summary": "Mặc dù ban đầu đã có nhiều lo ngại về độ bền của ổ SSD, nhưng thực tế chứng minh rằng chúng rất đáng tin cậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:04:00+07:00",
+      "fetched": "2026-01-05T10:53:00.376875+07:00"
+    },
+    {
+      "id": "92de57c167e2c421766dc471e99310e9",
+      "title": "Tôi hối hận vì nhận lời mời cưới của người bạn 25 năm không liên lạc",
+      "link": "https://vnexpress.net/toi-hoi-han-vi-nhan-loi-moi-cuoi-cua-nguoi-ban-25-nam-khong-lien-lac-5001773.html",
+      "summary": "Cuộc gọi bất ngờ sau hàng chục năm không liên lạc khiến tôi xúc động, hình dung về cơ hội hội ngộ đáng giá, nhưng thực tế hoàn toàn khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:02:35+07:00",
+      "fetched": "2026-01-05T10:52:57.075050+07:00"
+    },
+    {
+      "id": "6a7c60a0f799d26b6d5e88a968e5b0bf",
+      "title": "Miền Bắc có thể xuất hiện băng giá, sương muối",
+      "link": "https://vnexpress.net/mien-bac-co-the-xuat-hien-bang-gia-suong-muoi-5001805.html",
+      "summary": "Các đợt không khí lạnh cường độ mạnh tiếp tục tràn xuống Bắc Bộ từ chiều tối nay gây rét đậm, rét hại diện rộng; vùng núi cao có nơi nhiệt độ xuống dưới 5 độ C, nguy cơ xảy ra băng giá, sương muối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:01:18+07:00",
+      "fetched": "2026-01-05T10:52:57.075256+07:00"
+    },
+    {
+      "id": "b57a003fd669b97bd78a6dbcb7b103a6",
+      "title": "Dụi mắt xước giác mạc",
+      "link": "https://vnexpress.net/dui-mat-xuoc-giac-mac-5001770.html",
+      "summary": "Anh Phong, 42 tuổi, bị bụi cát bay vào mắt gây đau nhức, cộm xốn nên dụi liên tục làm trầy xước giác mạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:00:00+07:00",
+      "fetched": "2026-01-05T10:52:57.075414+07:00"
+    },
+    {
+      "id": "1a8d1e3b1a5a57516e3b53fb87cc3d52",
+      "title": "Bất ngờ chuyện thầy giáo 8 năm chạy GrabCar ở TP.HCM: Ấm áp tình đồng nghiệp",
+      "link": "https://thanhnien.vn/bat-ngo-chuyen-thay-giao-8-nam-chay-grabcar-o-tphcm-am-ap-tinh-dong-nghiep-18526010508351957.htm",
+      "summary": "Từng có hàng chục năm đứng lớp dạy toán, ông Võ Phúc Thịnh (55 tuổi) chọn gắn bó 8 năm với nghề tài xế GrabCar ở TP.HCM, trở thành người đồng nghiệp được nhiều tài xế trẻ thương quý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:00:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377026+07:00"
+    },
+    {
+      "id": "efaa258e11576a1a92500541ff343d60",
+      "title": "Xét xử vụ sữa HIUP giả: Giá bán cho người dân gấp 6 lần giá xuất xưởng",
+      "link": "https://thanhnien.vn/xet-xu-vu-sua-hiup-gia-gia-ban-cho-nguoi-dan-gap-6-lan-gia-xuat-xuong-18526010507570757.htm",
+      "summary": "Một hộp sữa HIUP 27 giả có giá xuất xưởng chỉ hơn 87.000 đồng, nhưng bán tới tay người tiêu dùng với giá lên đến gần 550.000 đồng/hộp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:00:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377197+07:00"
+    },
+    {
+      "id": "72d544586b32959b32dbbca78b0109ce",
+      "title": "Áo cổ bẻ và chân váy mini, bản phối đơn giản khiến hội chị em mê mẩn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-co-be-va-chan-vay-mini-ban-phoi-don-gian-khien-hoi-chi-em-me-man-185260104175454965.htm",
+      "summary": "Không cần đến những tuyên ngôn ồn ào, bộ đôi áo cổ bẻ và chân váy mini vẫn đủ sức định hình phong thái nhờ cách chúng đặt các yếu tố quen thuộc cạnh nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T03:00:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377347+07:00"
+    },
+    {
+      "id": "552d1ad1cbf33193dee1e693a1dec531",
+      "title": "Zalo thay đổi cách xác thực tài khoản của người dùng",
+      "link": "https://thanhnien.vn/zalo-thay-doi-cach-xac-thuc-tai-khoan-cua-nguoi-dung-185260105081725648.htm",
+      "summary": "Ứng dụng Zalo vừa thay đổi cách xác thực tài khoản của người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T02:58:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377498+07:00"
+    },
+    {
+      "id": "49bbc460d8adf50c331df1e4e5574f81",
+      "title": "Saigon Co.op khẳng định vai trò trụ cột của bán lẻ nội địa",
+      "link": "https://thanhnien.vn/saigon-coop-khang-dinh-vai-tro-tru-cot-cua-ban-le-noi-dia-18526010510022307.htm",
+      "summary": "Khi nền kinh tế bước vào chu kỳ tăng trưởng mới với nhiều kỳ vọng nhưng cũng đan xen đa lực cản từ lạm phát, chi phí đầu vào, biến động thị trường và làn sóng mở rộng của các tập đoàn ngoại… bán lẻ nội địa đứng trước một phép thử lớn về năng lực thích ứng và vai trò thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T02:53:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377652+07:00"
+    },
+    {
+      "id": "659d306fe2f5e3960cdf473e8272b3ec",
+      "title": "Hướng dẫn sử dụng mặt nạ Trioderma: Bí kíp dưỡng da căng mọng sau 1 đêm",
+      "link": "https://thanhnien.vn/huong-dan-su-dung-mat-na-trioderma-bi-kip-duong-da-cang-mong-sau-1-dem-185260105095148401.htm",
+      "summary": "Không cần đến spa, làn da vẫn căng mọng, bật tone sau một đêm nếu biết lựa chọn và sử dụng mặt nạ đúng cách. Mặt nạ Trioderma - dòng dược mỹ phẩm thuần Việt đang trở thành 'trợ thủ' quen thuộc trong chu trình chăm sóc da tại nhà nhờ khả năng cấp ẩm, phục hồi và nuôi dưỡng da bền vững. Vậy sử dụng mặ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-05T02:36:00+07:00",
+      "fetched": "2026-01-05T10:53:00.377806+07:00"
+    },
+    {
+      "id": "e82423839148179efcb19d1543822b5a",
+      "title": "Carragher: 'Amorim chưa đủ tầm dẫn dắt CLB ở Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/carragher-amorim-chua-du-tam-dan-dat-clb-o-ngoai-hang-anh-5001768.html",
+      "summary": "Theo cựu danh thủ Jamie Carragher, HLV Ruben Amorim không thể đòi hỏi hay chất vấn ban lãnh đạo Man Utd về bất cứ điều gì vì bản thân chưa đủ năng lực để làm việc ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T02:22:28+07:00",
+      "fetched": "2026-01-05T10:53:08.507240+07:00"
+    },
+    {
+      "id": "5dbd96f3fd000e9e59ab1a42fd1ac1aa",
+      "title": "Lại Lý Huynh bị kỳ thủ số một Trung Quốc dẫn sâu",
+      "link": "https://vnexpress.net/lai-ly-huynh-bi-ky-thu-so-mot-trung-quoc-dan-sau-5001752.html",
+      "summary": "Qua 7 trong 10 ván, Lại Lý Huynh đã bị Tào Nham Lỗi dẫn 9-5 ở trận đấu giữa hai kỳ thủ đứng đầu Việt Nam và Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T02:17:04+07:00",
+      "fetched": "2026-01-05T10:53:08.507399+07:00"
+    },
+    {
+      "id": "4af980df4ddb3c31ef29fe47754e63dc",
+      "title": "Guardiola: 'Tôi không có quả cầu pha lê để biết trước lương lai'",
+      "link": "https://vnexpress.net/guardiola-toi-khong-co-qua-cau-pha-le-de-biet-truoc-luong-lai-5001754.html",
+      "summary": "Sau trận hòa Chelsea 1-1 ở vòng 20 Ngoại hạng Anh, HLV Pep Guardiola âu lo về lực lượng, với hai ca chấn thương mới trong bối cảnh lịch đấu dày đặc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-05T01:55:16+07:00",
+      "fetched": "2026-01-05T10:53:08.507556+07:00"
+    },
+    {
       "id": "3c1265df66145070d234526b1e747c2e",
       "title": "TP.HCM: Điều tra vụ đánh nhau ở quán nhậu khiến một người nhập viện",
       "link": "https://thanhnien.vn/tphcm-dieu-tra-vu-danh-nhau-o-quan-nhau-khien-mot-nguoi-nhap-vien-185260105004250799.htm",
@@ -161,6 +701,16 @@ window.newsData_2026_01_05 = {
       "category": "Tổng hợp",
       "published": "2026-01-05T01:41:00+07:00",
       "fetched": "2026-01-05T08:42:39.330703+07:00"
+    },
+    {
+      "id": "4c317e10dee5aee2bb95bb2a1cde1b29",
+      "title": "Ông Trump đổi giọng với lãnh đạo lâm thời Venezuela",
+      "link": "https://vnexpress.net/ong-trump-doi-giong-voi-lanh-dao-lam-thoi-venezuela-5001727.html",
+      "summary": "Tổng thống Trump cảnh báo lãnh đạo lâm thời Venezuela sẽ \"trả giá rất đắt\" nếu không làm điều đúng đắn, trái ngược với những lời khen trước đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-05T01:26:41+07:00",
+      "fetched": "2026-01-05T10:53:02.987428+07:00"
     },
     {
       "id": "b27d8bbfffe364c5e3f069649dde5203",
