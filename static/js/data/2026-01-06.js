@@ -1,7 +1,157 @@
 window.newsData_2026_01_06 = {
   "date": "2026-01-06",
-  "lastUpdated": "2026-01-06T21:20:19.359841+07:00",
+  "lastUpdated": "2026-01-06T23:24:53.891747+07:00",
   "articles": [
+    {
+      "id": "07659dfa7423328a7d980d5e300ba680",
+      "title": "Làng bóng đá ngả mũ trước 'bài phạt góc Arsenal' của U23 Việt Nam",
+      "link": "https://tuoitre.vn/lang-bong-da-nga-mu-truoc-bai-phat-goc-arsenal-cua-u23-viet-nam-20260106192333897.htm",
+      "summary": "Không chỉ có lối chơi hiệu quả, U23 Việt Nam còn gây ấn tượng với người hâm mộ bóng đá châu lục ở bài đá phạt góc mang phong cách tương tự Arsenal - một trong những CLB hùng mạnh nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056902+07:00",
+      "fetched": "2026-01-06T23:24:47.057033+07:00"
+    },
+    {
+      "id": "cc46b252fd0e69d0012fda7f0d4e613f",
+      "title": "CLB Thái Sơn Nam TP.HCM không có đối thủ ở Giải futsal nữ quốc gia",
+      "link": "https://tuoitre.vn/clb-thai-son-nam-tp-hcm-khong-co-doi-thu-o-giai-futsal-nu-quoc-gia-20260106202113298.htm",
+      "summary": "CLB Thái Sơn Nam TP.HCM đã đăng quang Giải futsal nữ vô địch quốc gia 2025-2026 sớm 1 vòng đấu. Đây cũng là chức vô địch thứ 4 liên tiếp của đội bóng này kể từ khi giải ra đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056772+07:00",
+      "fetched": "2026-01-06T23:24:47.056890+07:00"
+    },
+    {
+      "id": "4b39c1d49a374c4d884b2d5475920b14",
+      "title": "TP.HCM sẽ tuyển sinh đầu cấp qua EDUGIS",
+      "link": "https://tuoitre.vn/tp-hcm-se-tuyen-sinh-dau-cap-qua-edugis-20260106195426028.htm",
+      "summary": "Ngày 6-1, Sở Giáo dục và Đào tạo TP.HCM cho biết công tác tuyển sinh đầu cấp năm học 2026-2027 sẽ được thực hiện qua EDUGIS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056636+07:00",
+      "fetched": "2026-01-06T23:24:47.056762+07:00"
+    },
+    {
+      "id": "eb73f59ee39e5c17d9af78d6a7923135",
+      "title": "Thủ tướng: Khi người dân, doanh nghiệp tin thì mới bỏ tiền ra kinh doanh",
+      "link": "https://tuoitre.vn/thu-tuong-khi-nguoi-dan-doanh-nghiep-tin-thi-moi-bo-tien-ra-kinh-doanh-20260106200120748.htm",
+      "summary": "Thủ tướng chỉ đạo ngành tài chính phải xây dựng chính sách để củng cố niềm tin của người dân và doanh nghiệp, khi họ tin thì mới bỏ tiền ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056499+07:00",
+      "fetched": "2026-01-06T23:24:47.056625+07:00"
+    },
+    {
+      "id": "4661acbbc618a5ad6bf5c81998137a3c",
+      "title": "Việt Nam sẽ không cử người đẹp đi thi Miss Grand International All Stars",
+      "link": "https://tuoitre.vn/viet-nam-se-khong-cu-nguoi-dep-di-thi-miss-grand-international-all-stars-20260106202759615.htm",
+      "summary": "Ban tổ chức cuộc thi Miss Grand Vietnam thông báo chính thức việc ngưng cử đại diện Việt Nam tham gia Miss Grand International All Stars mùa đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056365+07:00",
+      "fetched": "2026-01-06T23:24:47.056487+07:00"
+    },
+    {
+      "id": "066e6050c532e5d86b58a61deec5e871",
+      "title": "Châu Âu ủng hộ Đan Mạch và Greenland, phản đối tham vọng của ông Trump",
+      "link": "https://tuoitre.vn/chau-au-ung-ho-dan-mach-va-greenland-phan-doi-tham-vong-cua-ong-trump-2026010620551205.htm",
+      "summary": "Nhóm lãnh đạo các nước châu Âu nhấn mạnh các nguyên tắc về chủ quyền, toàn vẹn lãnh thổ và bất khả xâm phạm biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056238+07:00",
+      "fetched": "2026-01-06T23:24:47.056354+07:00"
+    },
+    {
+      "id": "d303baa0bc57302e369ccbbf7ea007d8",
+      "title": "Ban Bí thư điều động, chỉ định Phó bí thư Tỉnh ủy Lạng Sơn",
+      "link": "https://tuoitre.vn/ban-bi-thu-dieu-dong-chi-dinh-pho-bi-thu-tinh-uy-lang-son-20260106201716847.htm",
+      "summary": "Ban Bí thư vừa có quyết định điều động, chỉ định ông Vũ Hoàng Anh làm Phó bí thư Tỉnh ủy Lạng Sơn, nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.056105+07:00",
+      "fetched": "2026-01-06T23:24:47.056227+07:00"
+    },
+    {
+      "id": "b8ef0e8dad4e262cd517c534c44d17cd",
+      "title": "Đình Bắc nói gì sau khi ghi bàn vào lưới U23 Jordan?",
+      "link": "https://tuoitre.vn/dinh-bac-noi-gi-sau-khi-ghi-ban-vao-luoi-u23-jordan-2026010621033629.htm",
+      "summary": "Ghi bàn mở tỉ số cho đội tuyển U23 Việt Nam trong chiến thắng 2-0 trước U23 Jordan ở vòng chung kết U23 châu Á 2026, tiền đạo Nguyễn Đình Bắc đã nói gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055972+07:00",
+      "fetched": "2026-01-06T23:24:47.056094+07:00"
+    },
+    {
+      "id": "ac90cba1b8b563b7ed34218c9d4269a1",
+      "title": "Khu ‘đất vàng’ bên biển Nha Trang được xây 40 tầng, khởi điểm đấu giá gần 691,5 tỉ đồng",
+      "link": "https://tuoitre.vn/khu-dat-vang-ben-bien-nha-trang-duoc-xay-40-tang-khoi-diem-dau-gia-gan-691-5-ti-dong-20260106191936619.htm",
+      "summary": "Tỉnh Khánh Hòa vừa quyết định đấu giá quyền sử dụng khu đất bên biển Nha Trang (tại 48 - 48A Trần Phú) để thực hiện dự án tổ hợp thương mại, dịch vụ du lịch cao cấp, giá đất để xác định giá khởi điểm là hơn 189,85 triệu đồng/m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055828+07:00",
+      "fetched": "2026-01-06T23:24:47.055946+07:00"
+    },
+    {
+      "id": "f431f14dcb8c5aeced2861ed2f5006eb",
+      "title": "Chiếc hòm phiếu ‘đặc biệt quý hiếm’ trong kỳ bầu cử đầu tiên 80 năm trước",
+      "link": "https://tuoitre.vn/chiec-hom-phieu-dac-biet-quy-hiem-trong-ky-bau-cu-dau-tien-80-nam-truoc-20260106205408324.htm",
+      "summary": "Bởi sự đặc biệt mà chiếc hòm phiếu trong kỳ bầu cử đầu tiên của nước ta 80 năm trước vẫn còn được giữ lại tới ngày nay, đang được bảo quản tại Bảo tàng Lịch sử quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055700+07:00",
+      "fetched": "2026-01-06T23:24:47.055817+07:00"
+    },
+    {
+      "id": "bf428d0749fbc5292bbce9259cc18022",
+      "title": "Báo Ả Rập: U23 Việt Nam rất mạnh, xứng đáng giành 3 điểm",
+      "link": "https://tuoitre.vn/bao-a-rap-u23-viet-nam-rat-manh-xung-dang-gianh-3-diem-20260106211351618.htm",
+      "summary": "Báo chí Ả Rập đã hết lời ca ngợi màn trình diễn của U23 Việt Nam sau chiến thắng 2-0 trước U23 Jordan ở trận ra quân tại Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055570+07:00",
+      "fetched": "2026-01-06T23:24:47.055689+07:00"
+    },
+    {
+      "id": "d8cfed4c033e35e2b403484cdf024b72",
+      "title": "Chuyên gia Phan Anh Tú: 'U23 Việt Nam tự tin nhờ trình độ'",
+      "link": "https://tuoitre.vn/chuyen-gia-phan-anh-tu-u23-viet-nam-tu-tin-nho-trinh-do-20260106212346324.htm",
+      "summary": "Trước đối thủ được đánh giá cao hơn là U23 Jordan, U23 Việt Nam đã giành chiến thắng thuyết phục 2-0 trong ngày ra quân ở vòng chung kết U23 châu Á 2026 tại Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055438+07:00",
+      "fetched": "2026-01-06T23:24:47.055559+07:00"
+    },
+    {
+      "id": "1fa36993e01ab21314dcc451eeccd802",
+      "title": "HLV Kim Sang Sik nói gì sau khi U23 Việt Nam quật ngã U23 Jordan?",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-noi-gi-sau-khi-u23-viet-nam-quat-nga-u23-jordan-20260106213848801.htm",
+      "summary": "HLV Kim Sang Sik chia sẻ về chiến thắng 2-0 của U23 Việt Nam trước U23 Jordan ở trận ra quân Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055304+07:00",
+      "fetched": "2026-01-06T23:24:47.055425+07:00"
+    },
+    {
+      "id": "17ae47db83c8940ae08572198122c6e7",
+      "title": "Ukraine tấn công vào kho dầu và kho vũ khí sâu trong lãnh thổ Nga",
+      "link": "https://tuoitre.vn/ukraine-tan-cong-vao-kho-dau-va-kho-vu-khi-sau-trong-lanh-tho-nga-20260106213959922.htm",
+      "summary": "Ukraine tiến hành một loạt cuộc tấn công bằng drone nhắm vào nhiều khu vực sâu trong lãnh thổ Nga vào rạng sáng ngày 6-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.055158+07:00",
+      "fetched": "2026-01-06T23:24:47.055291+07:00"
+    },
+    {
+      "id": "4f65b1f611c30b7bb2481675785b35bb",
+      "title": "Nghệ sĩ Vân Dung: 'Táo Quân không có nên em rất buồn'",
+      "link": "https://tuoitre.vn/nghe-si-van-dung-tao-quan-khong-co-nen-em-rat-buon-20260106214036177.htm",
+      "summary": "Nghệ sĩ Vân Dung vừa sáng tác bài thơ để thông báo rằng năm nay không có chương trình Táo Quân 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:24:47.054897+07:00",
+      "fetched": "2026-01-06T23:24:47.055140+07:00"
+    },
     {
       "id": "8764ed91c4dac6ee498ccd28c9163c30",
       "title": "Thả lưới mưu sinh trên sông Hồng giữa giá lạnh 14°C",
@@ -453,6 +603,76 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T17:20:16.585781+07:00"
     },
     {
+      "id": "cc672c17b6dd22ec8d8cf54e01021c6e",
+      "title": "Lãnh đạo VFF chúc mừng U.23 Việt Nam sau trận ra quân thắng lợi, động viên Vĩ Hào và Nguyễn Tân",
+      "link": "https://thanhnien.vn/lanh-dao-vff-chuc-mung-u23-viet-nam-sau-tran-ra-quan-thang-loi-dong-vien-vi-hao-va-nguyen-tan-185260106230613498.htm",
+      "summary": "Sau chiến thắng 2-0 trước U.23 Jordan ở trận ra quân giải vô địch U.23 châu Á 2026, lãnh đạo VFF đã trực tiếp động viên tinh thần U.23 Việt Nam, đồng thời thăm hỏi các cầu thủ không may gặp chấn thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T16:06:00+07:00",
+      "fetched": "2026-01-06T23:24:46.019526+07:00"
+    },
+    {
+      "id": "2bcd5b1fbf51ab47a470cc3da28e3304",
+      "title": "AFC khen nức nở U.23 Việt Nam, sở hữu những tình huống cố định hoàn hảo như Arsenal",
+      "link": "https://thanhnien.vn/afc-khen-nuc-no-u23-viet-nam-so-huu-nhung-tinh-huong-co-dinh-hoan-hao-nhu-arsenal-185260106225504956.htm",
+      "summary": "Trang chủ Liên đoàn Bóng đá châu Á (the-AFC.com) hết lời khen ngợi U.23 Việt Nam với những tình huống cố định gồm các pha phạt góc như CLB Arsenal ở giải Ngoại hạng Anh, sớm giành lợi thế trước U.23 Jordan tỷ số 2-0 tối 6.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:57:00+07:00",
+      "fetched": "2026-01-06T23:24:46.019708+07:00"
+    },
+    {
+      "id": "7652d6926c07ce7d929d2d4a6430f3be",
+      "title": "Tạm giữ hình sự nghi phạm sát hại đồng nghiệp, phóng hỏa đốt xưởng giấy",
+      "link": "https://thanhnien.vn/tam-giu-hinh-su-nghi-pham-sat-hai-dong-nghiep-phong-hoa-dot-xuong-giay-185260106214944501.htm",
+      "summary": "Xuất phát từ mâu thuẫn trong sinh hoạt tại xưởng giấy ở Hải Phòng, Mua Mí Sinh đã sát hại đồng nghiệp, châm lửa đốt nhà xưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:39:00+07:00",
+      "fetched": "2026-01-06T23:24:46.019871+07:00"
+    },
+    {
+      "id": "859a59a5f0b243238fce6267f84159d4",
+      "title": "Người hùng của Việt Nam: 'Cần duy trì tinh thần như trận thắng Jordan'",
+      "link": "https://vnexpress.net/nguoi-hung-cua-viet-nam-can-duy-tri-tinh-than-nhu-tran-thang-jordan-5002606.html",
+      "summary": "Hài lòng với trận ra quân thắng Jordan, nhưng trung vệ Nguyễn Hiểu Minh cho rằng anh và đồng đội cần duy trì sự tập trung vì mục tiêu tiến xa ở bảng A U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:37:04+07:00",
+      "fetched": "2026-01-06T23:24:43.067706+07:00"
+    },
+    {
+      "id": "859a59a5f0b243238fce6267f84159d4",
+      "title": "Người hùng của Việt Nam: 'Cần duy trì tinh thần như trận thắng Jordan'",
+      "link": "https://vnexpress.net/nguoi-hung-cua-viet-nam-can-duy-tri-tinh-than-nhu-tran-thang-jordan-5002606.html",
+      "summary": "Hài lòng với trận ra quân thắng Jordan, nhưng trung vệ Nguyễn Hiểu Minh cho rằng anh và đồng đội cần duy trì sự tập trung vì mục tiêu tiến xa ở bảng A U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T15:37:04+07:00",
+      "fetched": "2026-01-06T23:24:53.878166+07:00"
+    },
+    {
+      "id": "5b0c8db1e3b37334c483fdba67ff445d",
+      "title": "Chủ tịch VFF Trần Quốc Tuấn vào phòng thay đồ chúc mừng U.23 Việt Nam sau trận thắng đẹp Jordan",
+      "link": "https://thanhnien.vn/chu-tich-vff-tran-quoc-tuan-vao-phong-thay-do-chuc-mung-u23-viet-nam-sau-tran-thang-dep-jordan-185260106222639767.htm",
+      "summary": "Sau chiến thắng thuyết phục 2-0 của U.23 Việt Nam trước U.23 Jordan ở trận ra quân giải vô địch U.23 châu Á 2026 diễn ra tối 6.1, Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn đã trực tiếp vào phòng thay đồ để chúc mừng và động viên toàn đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:33:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020049+07:00"
+    },
+    {
+      "id": "98491f17193df9d1c9749f498b197150",
+      "title": "Chính thức hướng dẫn chế độ kế toán mới cho hộ kinh doanh",
+      "link": "https://thanhnien.vn/chinh-thuc-huong-dan-che-do-ke-toan-moi-cho-ho-kinh-doanh-185260106214350791.htm",
+      "summary": "Bộ Tài chính vừa ban hành Thông tư 152/2025/TT-BTС hướng dẫn kế toán cho các hộ kinh doanh, cá nhân kinh doanh (sau đây gọi chung là hộ kinh doanh), có hiệu lực từ ngày 1.1.2026, thay thế Thông tư 88/2021/TT-BTC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:33:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020210+07:00"
+    },
+    {
       "id": "0c25b56033fd5795a9832b2d1b5da848",
       "title": "Quảng Ngãi điều chỉnh bảng giá đất, sát giá thị trường từ ngày 1-1-2026",
       "link": "https://tuoitre.vn/quang-ngai-dieu-chinh-bang-gia-dat-sat-gia-thi-truong-tu-ngay-1-1-2026-20260106123957079.htm",
@@ -603,6 +823,226 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T15:27:02.814854+07:00"
     },
     {
+      "id": "70178b6fb8c6dc6c3ca8efc9472db6c4",
+      "title": "Hậu 'Pháo': Không thể ngăn, phải nhận 63 ha đất vàng dù biết tỉnh giao sai",
+      "link": "https://vnexpress.net/hau-phao-khai-khong-the-ngan-tinh-giao-sai-dat-quoc-phong-cho-tap-doan-phuc-son-5002579.html",
+      "summary": "Ông chủ tập đoàn Phúc Sơn nói “ngay từ đầu” khi tỉnh Khánh Hòa có chủ trương giao đất quốc phòng sai cho mình đã lập tức can ngăn, nhưng \"lãnh đạo tỉnh không nghe\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:23:32+07:00",
+      "fetched": "2026-01-06T23:24:43.067887+07:00"
+    },
+    {
+      "id": "8d7c9683b7df2817e9aa626f7c315ff4",
+      "title": "Du ký châu Âu (kỳ 2): Thành phố trong truyện cổ Grimm",
+      "link": "https://vnexpress.net/du-ky-chau-au-ky-2-thanh-pho-trong-truyen-co-grimm-5001916.html",
+      "summary": "Nhà báo Trương Anh Ngọc tìm gặp bức tượng đúc các con vật trong ''Truyện cổ Grimm'' anh được đọc từ bé, ở thành phố Bremen, Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:22:44+07:00",
+      "fetched": "2026-01-06T23:24:43.068071+07:00"
+    },
+    {
+      "id": "eac006a835005f4bf9b04242dfecbd68",
+      "title": "Liên Hiệp Quốc: Mỹ vi phạm nghiêm trọng luật quốc tế khi tấn công Venezuela",
+      "link": "https://thanhnien.vn/lien-hiep-quoc-my-vi-pham-nghiem-trong-luat-quoc-te-khi-tan-cong-venezuela-185260106203919576.htm",
+      "summary": "Hôm nay (6.1), Liên Hiệp Quốc tuyên bố các cuộc không kích mà Mỹ tiến hành ở Venezuela và hành động bắt giữ nhà lãnh đạo nước này hồi cuối tuần qua 'rõ ràng làm suy yếu một nguyên tắc nền tảng của luật quốc tế'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:12:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020363+07:00"
+    },
+    {
+      "id": "819d753230cb624919219131d305ffba",
+      "title": "Diện mạo khác lạ của diễn viên Kim Thư",
+      "link": "https://thanhnien.vn/dien-mao-khac-la-cua-dien-vien-kim-thu-185260106084638513.htm",
+      "summary": "Ở tuổi 48, diễn viên Kim Thư vẫn không ngại làm mới bản thân. Mới đây, cô đăng tải hình ảnh với diện mạo khác lạ khiến dân mạng bàn tán xôn xao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:08:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020513+07:00"
+    },
+    {
+      "id": "06dcfbe947f98147d4fb4655a10e783a",
+      "title": "Báo Indonesia 'ghen tị' khi Việt Nam thắng dễ Jordan",
+      "link": "https://vnexpress.net/bao-indonesia-ghen-ti-khi-viet-nam-thang-de-jordan-5002595.html",
+      "summary": "Tờ Suara Merdeka buồn khi Indonesia phải ngồi nhà và chứng kiến Việt Nam thắng Jordan 2-0 ở lượt đầu bảng A, vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T15:06:40+07:00",
+      "fetched": "2026-01-06T23:24:43.068234+07:00"
+    },
+    {
+      "id": "06dcfbe947f98147d4fb4655a10e783a",
+      "title": "Báo Indonesia 'ghen tị' khi Việt Nam thắng dễ Jordan",
+      "link": "https://vnexpress.net/bao-indonesia-ghen-ti-khi-viet-nam-thang-de-jordan-5002595.html",
+      "summary": "Tờ Suara Merdeka buồn khi Indonesia phải ngồi nhà và chứng kiến Việt Nam thắng Jordan 2-0 ở lượt đầu bảng A, vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T15:06:40+07:00",
+      "fetched": "2026-01-06T23:24:53.878395+07:00"
+    },
+    {
+      "id": "304651e8de5c2a883ea81be65bba3f68",
+      "title": "U.23 Việt Nam thắng thuyết phục U.23 Jordan: Dấu ấn Đình Bắc và Hiểu Minh",
+      "link": "https://thanhnien.vn/u23-viet-nam-thang-thuyet-phuc-u23-jordan-dau-an-dinh-bac-va-hieu-minh-185260106214149698.htm",
+      "summary": "U.23 Việt Nam có màn ra quân thuận lợi tại bảng A giải vô địch U.23 châu Á 2026 khi đánh bại U.23 Jordan 2-0, nhờ lối chơi kỷ luật, chắc chắn và khả năng kiểm soát thế trận hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:51:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020665+07:00"
+    },
+    {
+      "id": "2aa30191d908f189e04937830a76cb6c",
+      "title": "Phi công F-16 Đài Loan bỏ máy bay, nhảy dù xuống biển",
+      "link": "https://vnexpress.net/phi-cong-f-16-dai-loan-bo-may-bay-nhay-du-xuong-bien-5002601.html",
+      "summary": "Giới chức Đài Loan mở cuộc tìm kiếm một phi công tiêm kích F-16V đã bỏ máy bay và nhảy dù xuống vùng biển phía đông hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:48:51+07:00",
+      "fetched": "2026-01-06T23:24:43.068392+07:00"
+    },
+    {
+      "id": "2aa30191d908f189e04937830a76cb6c",
+      "title": "Phi công F-16 Đài Loan bỏ máy bay, nhảy dù xuống biển",
+      "link": "https://vnexpress.net/phi-cong-f-16-dai-loan-bo-may-bay-nhay-du-xuong-bien-5002601.html",
+      "summary": "Giới chức Đài Loan mở cuộc tìm kiếm một phi công tiêm kích F-16V đã bỏ máy bay và nhảy dù xuống vùng biển phía đông hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T14:48:51+07:00",
+      "fetched": "2026-01-06T23:24:48.587795+07:00"
+    },
+    {
+      "id": "f38c4940ce1bc2633dd78b9c3e1782d8",
+      "title": "Bổ sung hồ sơ không thiếu thứ gì vẫn phải chờ ‘cơ chế của chị Nga’",
+      "link": "https://thanhnien.vn/bo-sung-ho-so-khong-thieu-thu-gi-van-phai-cho-co-che-cua-chi-nga-185260106201440226.htm",
+      "summary": "'Chờ cơ chế của chị Nga' nhiều ngày vẫn không được giải quyết hồ sơ, bà Giang lên gặp chuyên viên thẩm xét để hỏi thì được gợi ý 'lên gặp Cục phó Nga' kèm lời dặn 'đưa 2 triệu đồng/hồ sơ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:46:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020827+07:00"
+    },
+    {
+      "id": "16113662f64b33d3ead742bca560f74e",
+      "title": "Chuyên gia Jordan: ‘U.23 Việt Nam đáng sợ vì cầu thủ của họ luôn giữ kỷ luật’",
+      "link": "https://thanhnien.vn/chuyen-gia-jordan-u23-viet-nam-dang-so-vi-cau-thu-cua-ho-luon-giu-ky-luat-185260106214005147.htm",
+      "summary": "Theo nhà báo, chuyên gia bóng đá người Jordan - Mohammad Haseba, việc U.23 Việt Nam luôn giữ sự tập trung, chơi kỷ luật trong suốt 90 phút là yếu tố tiên quyết, giúp thầy trò HLV Kim Sang-sik đánh bại U.23 Jordan 2-0 vào tối 6.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:43:00+07:00",
+      "fetched": "2026-01-06T23:24:46.020997+07:00"
+    },
+    {
+      "id": "251a0e3233368e354f853083210c15fe",
+      "title": "Đà Nẵng dự kiến tạo 10.000 việc làm từ ngành dược liệu",
+      "link": "https://vnexpress.net/da-nang-du-kien-tao-10-000-viec-lam-tu-nganh-duoc-lieu-5002576.html",
+      "summary": "Đà Nẵng đặt mục tiêu tạo việc làm cho khoảng 10.000 lao động tại vùng trồng sâm và dược liệu, đồng thời hỗ trợ thành lập ít nhất 50 hợp tác xã trong giai đoạn 2026-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:40:17+07:00",
+      "fetched": "2026-01-06T23:24:43.068558+07:00"
+    },
+    {
+      "id": "b7b659dfd07a19bb141992631dc5f18d",
+      "title": "Công an Hưng Yên triệt phá đường dây lừa đảo, đánh bạc 9.300 tỉ đồng",
+      "link": "https://thanhnien.vn/cong-an-hung-yen-triet-pha-duong-day-lua-dao-danh-bac-9300-ti-dong-185260106205344847.htm",
+      "summary": "Hàng trăm cán bộ, chiến sĩ Công an tỉnh Hưng Yên đồng loạt bắt giữ 35 người trong đường dây lừa đảo, đánh bạc trực tuyến với quy mô giao dịch lên tới 9.300 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:34:00+07:00",
+      "fetched": "2026-01-06T23:24:46.021156+07:00"
+    },
+    {
+      "id": "d6fbbe513ae80cb6551ee562395a0842",
+      "title": "U.23 Việt Nam bị bào mòn dưới nắng gắt nhưng vẫn rất xuất sắc, HLV Kim Sang-sik nói gì?",
+      "link": "https://thanhnien.vn/u23-viet-nam-bi-bao-mon-duoi-nang-gat-nhung-van-rat-xuat-sac-hlv-kim-sang-sik-noi-gi-185260106212506166.htm",
+      "summary": "Dưới trời nắng gắt ở Ả Rập Xê Út, đội U.23 Việt Nam đã có những giây phút vất vả và xuống sức ở nửa sau của hiệp 2. Điều này khiến HLV Kim Sang-sik phải dùng tối đa quyền thay người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:31:00+07:00",
+      "fetched": "2026-01-06T23:24:46.021308+07:00"
+    },
+    {
+      "id": "113049b18f4740647967255476686d67",
+      "title": "Gay cấn bầu chọn Cúp Chiến thắng 2025: Nhiều ứng viên sáng giá, Đình Bắc cực sáng giá",
+      "link": "https://thanhnien.vn/gay-can-bau-chon-cup-chien-thang-2025-nhieu-ung-vien-sang-gia-dinh-bac-cuc-sang-gia-18526010621262496.htm",
+      "summary": "Hôm nay (6.1), ban tổ chức giải thưởng Cúp Chiến thắng 2025 công bố danh sách đề cử cho các hạng mục giải thưởng với rất nhiều gương mặt, đội tuyển sáng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:28:00+07:00",
+      "fetched": "2026-01-06T23:24:46.021456+07:00"
+    },
+    {
+      "id": "45c5a3a0de80cd94745f0a9006288d3f",
+      "title": "Học viện Báo chí và Tuyên truyền sẽ bỏ xét học bạ, quy đổi IELTS từ 5.0",
+      "link": "https://vnexpress.net/phuong-thuc-tuyen-sinh-bang-quy-doi-diem-ielts-2026-cua-hoc-vien-bao-chi-va-tuyen-truyen-5002587.html",
+      "summary": "Học viện Báo chí và Tuyên truyền (AJC) dự kiến bỏ xét học bạ năm 2026, thay vào đó kết hợp với IELTS 5.0, SAT 1.200 điểm trở lên, cùng hai phương thức tuyển sinh khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:27:33+07:00",
+      "fetched": "2026-01-06T23:24:43.068721+07:00"
+    },
+    {
+      "id": "5acd23b18b437693b066205a26a7e222",
+      "title": "HLV Jordan: 'Việt Nam thắng nhưng chưa chắc tiến xa ở U23 châu Á'",
+      "link": "https://vnexpress.net/hlv-jordan-viet-nam-thang-nhung-chua-chac-tien-xa-o-u23-chau-a-5002597.html",
+      "summary": "Theo HLV Omar Najhi, trận thua Việt Nam 0-2 ở ngày ra quân không nói lên nhiều điều, và cơ hội vẫn rộng mở cho các đội tại bảng A giải U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:27:23+07:00",
+      "fetched": "2026-01-06T23:24:43.068893+07:00"
+    },
+    {
+      "id": "5acd23b18b437693b066205a26a7e222",
+      "title": "HLV Jordan: 'Việt Nam thắng nhưng chưa chắc tiến xa ở U23 châu Á'",
+      "link": "https://vnexpress.net/hlv-jordan-viet-nam-thang-nhung-chua-chac-tien-xa-o-u23-chau-a-5002597.html",
+      "summary": "Theo HLV Omar Najhi, trận thua Việt Nam 0-2 ở ngày ra quân không nói lên nhiều điều, và cơ hội vẫn rộng mở cho các đội tại bảng A giải U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T14:27:23+07:00",
+      "fetched": "2026-01-06T23:24:53.878573+07:00"
+    },
+    {
+      "id": "e807aff806abc99a190e3bfbd364c964",
+      "title": "Thường trực Ban Bí thư kiểm tra công tác chuẩn bị Đại hội XIV",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-kiem-tra-cong-tac-chuan-bi-dai-hoi-xiv-185260105122350738.htm",
+      "summary": "Dự kiến ngày 14.1 sẽ diễn ra sơ duyệt và 15.1 tổng duyệt các bước cuối cùng trước ngày khai mạc Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:27:00+07:00",
+      "fetched": "2026-01-06T23:24:46.021612+07:00"
+    },
+    {
+      "id": "7ccf02ccabee08206ad210ce9fdf695c",
+      "title": "Phương Mỹ Chi hát 'Những ngôi sao xa xôi' mừng sinh nhật 40 năm Báo Thanh Niên",
+      "link": "https://thanhnien.vn/phuong-my-chi-hat-nhung-ngoi-sao-xa-xoi-mung-sinh-nhat-40-nam-bao-thanh-nien-185260106201249388.htm",
+      "summary": "Nhân dịp kỷ niệm 40 năm ngày Báo Thanh Niên ra số báo đầu tiên, Phương Mỹ Chi hát “Những ngôi sao xa xôi” như một lời tri ân gửi đến các thế hệ người làm báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:22:00+07:00",
+      "fetched": "2026-01-06T23:24:46.021765+07:00"
+    },
+    {
+      "id": "d161f262342c352d67bd422a8e48a364",
+      "title": "Tăng mức đặt cọc đấu giá đất lên tới 50%",
+      "link": "https://vnexpress.net/tang-muc-dat-coc-dau-gia-dat-len-toi-50-5002594.html",
+      "summary": "Tiền đặt trước khi đấu giá quyền sử dụng để giao đất ở cho cá nhân lên tới 10-50% giá khởi điểm, cao hơn so với mức 5-20% hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:19:05+07:00",
+      "fetched": "2026-01-06T23:24:43.069072+07:00"
+    },
+    {
+      "id": "d161f262342c352d67bd422a8e48a364",
+      "title": "Tăng mức đặt cọc đấu giá đất lên tới 50%",
+      "link": "https://vnexpress.net/tang-muc-dat-coc-dau-gia-dat-len-toi-50-5002594.html",
+      "summary": "Tiền đặt trước khi đấu giá quyền sử dụng để giao đất ở cho cá nhân lên tới 10-50% giá khởi điểm, cao hơn so với mức 5-20% hiện hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T14:19:05+07:00",
+      "fetched": "2026-01-06T23:24:50.166394+07:00"
+    },
+    {
       "id": "d12ceea720c5123b35cdd916c450ee73",
       "title": "U.23 Việt Nam như chiếc hộp kỳ diệu, đưa khán giả đi từ bất ngờ này đến bất ngờ khác",
       "link": "https://thanhnien.vn/u23-viet-nam-nhu-chiec-hop-ky-dieu-dua-khan-gia-di-tu-bat-ngo-nay-den-bat-ngo-khac-185260106205443914.htm",
@@ -651,6 +1091,36 @@ window.newsData_2026_01_06 = {
       "category": "Tổng hợp",
       "published": "2026-01-06T14:05:00+07:00",
       "fetched": "2026-01-06T21:20:10.372092+07:00"
+    },
+    {
+      "id": "42dfbcf6ce7ae91745257be54717314c",
+      "title": "Từ 2026 không ghi thông tin đất đang bị thế chấp vào sổ đỏ",
+      "link": "https://vnexpress.net/tu-2026-khong-con-ghi-thong-tin-dat-dang-bi-the-chap-vao-so-do-5002586.html",
+      "summary": "Thông tin thế chấp quyền sử dụng đất, tài sản gắn liền với đất sẽ không còn được ghi trực tiếp trên sổ đỏ mà được cập nhật vào cơ sở dữ liệu đất đai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:00:33+07:00",
+      "fetched": "2026-01-06T23:24:43.069229+07:00"
+    },
+    {
+      "id": "f5fe7ec297b3129b315ebd06c688d0af",
+      "title": "Dinh Độc Lập từng có tên gì?",
+      "link": "https://vnexpress.net/dinh-doc-lap-tung-co-ten-gi-5002573.html",
+      "summary": "Dinh Độc Lập mang tên của một người nước ngoài trước khi trở thành biểu tượng lịch sử và điểm đến du lịch nổi tiếng tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:00:00+07:00",
+      "fetched": "2026-01-06T23:24:43.069387+07:00"
+    },
+    {
+      "id": "e73658ac03d593650cb47fa6549b1467",
+      "title": "Tan nát gia đình từ khi chồng đi theo nữ đồng nghiệp giang hồ",
+      "link": "https://vnexpress.net/ly-hon-tan-nat-gia-dinh-tu-khi-chong-di-theo-nu-dong-nghiep-giang-ho-5002502.html",
+      "summary": "Anh ta chỉ muốn được thỏa mãn đam mê đỏ đen của mình bên hội đồng nghiệp, thậm chí đã dùng vũ lực với tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:00:00+07:00",
+      "fetched": "2026-01-06T23:24:43.069537+07:00"
     },
     {
       "id": "d454d182f0c05e93342242d1d5a664ae",
@@ -751,6 +1221,26 @@ window.newsData_2026_01_06 = {
       "category": "Thể thao",
       "published": "2026-01-06T13:30:56+07:00",
       "fetched": "2026-01-06T21:20:19.347316+07:00"
+    },
+    {
+      "id": "7076d123c4e5ea731c5086a89ac568bb",
+      "title": "HLV Kim Sang-sik tự hào về 'bóng chết' của Việt Nam",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tu-hao-ve-bong-chet-cua-viet-nam-5002578.html",
+      "summary": "HLV Kim Sang-sik hài lòng khi Việt Nam tận dụng tốt các tình huống cố định để đánh bại Jordan 2-0 ở lượt ra quân giải U23 châu Á 2026, tối 6/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:30:56+07:00",
+      "fetched": "2026-01-06T23:24:43.070027+07:00"
+    },
+    {
+      "id": "7076d123c4e5ea731c5086a89ac568bb",
+      "title": "HLV Kim Sang-sik tự hào về 'bóng chết' của Việt Nam",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tu-hao-ve-bong-chet-cua-viet-nam-5002578.html",
+      "summary": "HLV Kim Sang-sik hài lòng khi Việt Nam tận dụng tốt các tình huống cố định để đánh bại Jordan 2-0 ở lượt ra quân giải U23 châu Á 2026, tối 6/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T13:30:56+07:00",
+      "fetched": "2026-01-06T23:24:53.878895+07:00"
     },
     {
       "id": "750eb4ccb144ba4faf3874766dfa245a",
@@ -1441,6 +1931,16 @@ window.newsData_2026_01_06 = {
       "category": "Thể thao",
       "published": "2026-01-06T10:27:18+07:00",
       "fetched": "2026-01-06T19:39:28.322732+07:00"
+    },
+    {
+      "id": "9178abab73b38baa4f68ba6ffcf34bc1",
+      "title": "Việt Nam hạ Jordan ở trận ra quân U23 châu Á",
+      "link": "https://vnexpress.net/truc-tiep-viet-nam-vs-jordan-5002551-tong-thuat.html",
+      "summary": "Các bàn thắng của Nguyễn Đình Bắc và Nguyễn Hiểu Minh giúp Việt Nam quật ngã Jordan 2-0 ở bảng A vòng chung kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T10:27:18+07:00",
+      "fetched": "2026-01-06T23:24:53.879075+07:00"
     },
     {
       "id": "b799cee81570379050120983e9bc633f",
