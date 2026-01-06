@@ -1,7 +1,157 @@
 window.newsData_2026_01_06 = {
   "date": "2026-01-06",
-  "lastUpdated": "2026-01-06T19:39:28.334629+07:00",
+  "lastUpdated": "2026-01-06T21:20:19.359841+07:00",
   "articles": [
+    {
+      "id": "8764ed91c4dac6ee498ccd28c9163c30",
+      "title": "Thả lưới mưu sinh trên sông Hồng giữa giá lạnh 14°C",
+      "link": "https://tuoitre.vn/gio-lanh-14c-va-nhung-tay-luoi-tren-song-hong-20260106181356157.htm",
+      "summary": "Ngày 6-1, Hà Nội chìm trong giá lạnh 14-15°C. Trên sông Hồng, những chiếc thuyền chài vẫn lặng lẽ bám theo con nước, bất chấp rét buốt và những mẻ lưới báo trước một ngày thu nhập bấp bênh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.807340+07:00",
+      "fetched": "2026-01-06T21:20:11.807461+07:00"
+    },
+    {
+      "id": "6f2c97dfc821cb706365061c03f3ce8b",
+      "title": "Chủ tịch UBND TP.HCM: Xử lý dứt điểm dự án tồn đọng, tăng tốc công trình trọng điểm năm 2026",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-xu-ly-dut-diem-du-an-ton-dong-tang-toc-cong-trinh-trong-diem-nam-2026-20260106181357592.htm",
+      "summary": "Năm 2026, TP.HCM đặt mục tiêu gỡ vướng dứt điểm các dự án tồn đọng, tăng tốc đầu tư và triển khai loạt công trình trọng điểm, tạo động lực tăng trưởng mới, cải thiện diện mạo đô thị và nâng cao chất lượng sống cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.807193+07:00",
+      "fetched": "2026-01-06T21:20:11.807323+07:00"
+    },
+    {
+      "id": "52bb61473f294bbb3b28c926c4a691ce",
+      "title": "Bùi Vĩ Hào phải nghỉ gần 2 tháng",
+      "link": "https://tuoitre.vn/bui-vi-hao-phai-nghi-gan-2-thang-2026010618371272.htm",
+      "summary": "Bùi Vĩ Hào bị tổn thương xương mác chân phải, dự kiến phải nghỉ từ 6-8 tuần sau ca chấn thương trong lúc cùng U23 Việt Nam chuẩn bị cho Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.807067+07:00",
+      "fetched": "2026-01-06T21:20:11.807181+07:00"
+    },
+    {
+      "id": "8ecfe9f355febf9cada5e0660144b669",
+      "title": "Tổng thống Hàn Quốc đăng ảnh selfie với Chủ tịch Tập Cận Bình bằng điện thoại Xiaomi",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-dang-anh-selfie-voi-chu-tich-tap-can-binh-bang-dien-thoai-xiaomi-20260106190655539.htm",
+      "summary": "Tổng thống Jae Myung gây chú ý khi đăng tải ảnh selfie chụp cùng Chủ tịch Trung Quốc Tập Cận Bình và hai phu nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806933+07:00",
+      "fetched": "2026-01-06T21:20:11.807055+07:00"
+    },
+    {
+      "id": "6e598afd9f5c1abd8b72ed9cc46f061f",
+      "title": "Chủ tịch Cần Thơ giải thích lý do dự án khu hành chính tập trung thành phố phải ‘chậm một nhịp’",
+      "link": "https://tuoitre.vn/chu-tich-can-tho-giai-thich-ly-do-du-an-khu-hanh-chinh-tap-trung-thanh-pho-phai-cham-mot-nhip-2026010618541669.htm",
+      "summary": "Dự án khu hành chính tập trung thành phố Cần Thơ 2.500 tỉ đồng dự kiến khởi công trong năm 2025, nhưng đã phải \"chậm một nhịp\". Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806801+07:00",
+      "fetched": "2026-01-06T21:20:11.806921+07:00"
+    },
+    {
+      "id": "fa2cee32e6c60206d3b4c14212f9c71d",
+      "title": "Trường đại học Sư phạm Hà Nội lần đầu tổ chức 2 đợt thi đánh giá năng lực SPT",
+      "link": "https://tuoitre.vn/truong-dai-hoc-su-pham-ha-noi-lan-dau-to-chuc-2-dot-thi-danh-gia-nang-luc-spt-20260106190543122.htm",
+      "summary": "Thí sinh tham dự kỳ thi độc lập, đánh giá năng lực của Trường đại học Sư phạm Hà Nội năm 2026 (kỳ thi SPT) được khuyến cáo cần đăng ký dự thi tối thiểu 3 bài thi, tối đa 7 bài thi để có thể xét tuyển đại học chính quy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806674+07:00",
+      "fetched": "2026-01-06T21:20:11.806790+07:00"
+    },
+    {
+      "id": "70f2f003f221ec5974b34e96b7642aa3",
+      "title": "Hành trình du lịch tâm linh và trải nghiệm mùa đông tại Hong Kong",
+      "link": "https://tuoitre.vn/hanh-trinh-du-lich-tam-linh-va-trai-nghiem-mua-dong-tai-hong-kong-20251127113946537.htm",
+      "summary": "Ẩn sau vẻ hiện đại, có một Hong Kong (TQ) rất khác: an nhiên, trầm mặc và sâu lắng với các điểm đến tâm linh đang chờ bạn khám phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806546+07:00",
+      "fetched": "2026-01-06T21:20:11.806662+07:00"
+    },
+    {
+      "id": "37b91e402291f0c6827be3e9c1968c0e",
+      "title": "Mở hướng tiếp cận mới trong bảo tồn tài nguyên nước",
+      "link": "https://tuoitre.vn/mo-huong-tiep-can-moi-trong-bao-ton-tai-nguyen-nuoc-20260106174132922.htm",
+      "summary": "Vừa qua, Tập đoàn TCP đã hợp tác với Trung ương Hội Sinh viên Việt Nam nhằm trao quyền cho người trẻ hành động, lan tỏa lối sống xanh và góp phần bảo đảm an ninh nguồn nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806415+07:00",
+      "fetched": "2026-01-06T21:20:11.806534+07:00"
+    },
+    {
+      "id": "cc8985f9c0f0535a9c009182e5ea2b58",
+      "title": "Đồng Nai đôn đốc thi công 8 tuyến đường kết nối sân bay Long Thành",
+      "link": "https://tuoitre.vn/dong-nai-don-doc-thi-cong-8-tuyen-duong-ket-noi-san-bay-long-thanh-20260106192354923.htm",
+      "summary": "Đồng Nai đang thực hiện nhiều tuyến đường trọng điểm kết nối sân bay Long Thành, nhưng tiến độ chưa đáp ứng do vướng mặt bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806264+07:00",
+      "fetched": "2026-01-06T21:20:11.806402+07:00"
+    },
+    {
+      "id": "7f30fbbe5efbbcffdba3b91b61d132d3",
+      "title": "Mỹ được miễn trừ khỏi thỏa thuận thuế toàn cầu nhắm vào các tập đoàn đa quốc gia",
+      "link": "https://tuoitre.vn/my-duoc-mien-tru-khoi-thoa-thuan-thue-toan-cau-nham-vao-cac-tap-doan-da-quoc-gia-20260106155536093.htm",
+      "summary": "Việc miễn trừ này khiến các tổ chức thúc đẩy minh bạch thuế phẫn nộ, cho rằng việc miễn trừ cho Mỹ làm suy yếu nỗ lực toàn cầu nhằm ngăn chặn chuyển lợi nhuận sang các thiên đường thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806134+07:00",
+      "fetched": "2026-01-06T21:20:11.806252+07:00"
+    },
+    {
+      "id": "9a873abb314e53af9ac6743fae170052",
+      "title": "Các công ty Nhật hóa ‘ông tơ bà nguyệt’, mở ứng dụng hẹn hò cho nhân viên",
+      "link": "https://tuoitre.vn/cac-cong-ty-nhat-hoa-ong-to-ba-nguyet-mo-ung-dung-hen-ho-cho-nhan-vien-20260106193302361.htm",
+      "summary": "Trước tình trạng thiếu lao động và tỉ lệ sinh giảm, nhiều doanh nghiệp Nhật Bản đã mở ứng dụng hẹn hò để giúp nhân viên tìm kiếm nửa kia phù hợp ngay tại công sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.806003+07:00",
+      "fetched": "2026-01-06T21:20:11.806122+07:00"
+    },
+    {
+      "id": "84d37ac1b7665dd22a8d2ef7e8e31d0d",
+      "title": "Phó thủ tướng: Coi việc lái xe có nồng độ cồn là hành vi nguy hiểm, là tội phạm",
+      "link": "https://tuoitre.vn/pho-thu-tuong-coi-viec-lai-xe-co-nong-do-con-la-hanh-vi-nguy-hiem-la-toi-pham-20260106191535051.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà nhấn mạnh việc kiểm soát nồng độ cồn, coi hành vi lái xe sau khi uống bia rượu là hành vi nguy hiểm, là tội phạm; yêu cầu phấn đấu 90%, tiến tới 100% người lái xe không vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.805870+07:00",
+      "fetched": "2026-01-06T21:20:11.805991+07:00"
+    },
+    {
+      "id": "ff78e52ebdba9b1d7cad40712a299da4",
+      "title": "Thu ngân sách của TP.HCM cao chưa từng có",
+      "link": "https://tuoitre.vn/thu-ngan-sach-cua-tp-hcm-cao-chua-tung-co-20260106193841722.htm",
+      "summary": "Năm 2025, lần đầu tiên Thuế TP.HCM thu ngân sách vượt mốc 600.000 tỉ đồng, góp phần quan trọng giúp thu ngân sách nhà nước của TP.HCM lần đầu tiên trong lịch sử vượt mốc 800.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.805725+07:00",
+      "fetched": "2026-01-06T21:20:11.805858+07:00"
+    },
+    {
+      "id": "8e76f709e54309fdf09182ca28b25095",
+      "title": "Dựng nhà gỗ trước lăng mộ Hoàng thái hậu Từ Dụ: Cần tuân thủ tính nguyên gốc của di tích",
+      "link": "https://tuoitre.vn/dung-nha-go-truoc-lang-mo-hoang-thai-hau-tu-du-can-tuan-thu-tinh-nguyen-goc-cua-di-tich-20260106171214516.htm",
+      "summary": "Trước sự việc căn nhà gỗ được dựng lên trước lăng mộ Hoàng thái hậu Từ Dụ, nhà nghiên cứu văn hóa Huế Nguyễn Xuân Hoa cho rằng không thể tùy tiện thích làm thêm gì thì làm và cần phải tôn trọng tính nguyên gốc trong trùng tu, bảo tồn di tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.805577+07:00",
+      "fetched": "2026-01-06T21:20:11.805712+07:00"
+    },
+    {
+      "id": "191d73c8f56a4c728328255a3f67a92a",
+      "title": "Biểu tình lan rộng tại Iran vì khủng hoảng kinh tế, ít nhất 25 người thiệt mạng",
+      "link": "https://tuoitre.vn/bieu-tinh-lan-rong-tai-iran-vi-khung-hoang-kinh-te-it-nhat-25-nguoi-thiet-mang-20260106195137622.htm",
+      "summary": "Các cuộc biểu tình nổ ra tại Iran từ ngày 28-12 do đồng nội tệ mất giá mạnh và lạm phát leo thang đã khiến ít nhất 25 người thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T21:20:11.805346+07:00",
+      "fetched": "2026-01-06T21:20:11.805561+07:00"
+    },
     {
       "id": "a1445e66d3c0efae9ff96cbd4c6b5cd8",
       "title": "Bắt ‘chuyên gia tài chính’ ở Campuchia lừa đảo hơn 7 tỉ đồng bằng kịch bản đầu tư vàng",
@@ -453,6 +603,156 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T15:27:02.814854+07:00"
     },
     {
+      "id": "d12ceea720c5123b35cdd916c450ee73",
+      "title": "U.23 Việt Nam như chiếc hộp kỳ diệu, đưa khán giả đi từ bất ngờ này đến bất ngờ khác",
+      "link": "https://thanhnien.vn/u23-viet-nam-nhu-chiec-hop-ky-dieu-dua-khan-gia-di-tu-bat-ngo-nay-den-bat-ngo-khac-185260106205443914.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã mở màn VCK U.23 châu Á 2026 bằng chiến thắng tuyệt vời, đầy thuyết phục để thay đổi lịch sử đối đầu trước U.23 Jordan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:15:00+07:00",
+      "fetched": "2026-01-06T21:20:10.371456+07:00"
+    },
+    {
+      "id": "d8d805fea0dcd20778e4e7526f6d3a2d",
+      "title": "Tài xế bị phạt 19 triệu vì lái ô tô chạy 'ráng' vượt đèn đỏ",
+      "link": "https://thanhnien.vn/tai-xe-bi-phat-19-trieu-vi-lai-o-to-chay-rang-vuot-den-do-185260106171932577.htm",
+      "summary": "Bất chấp đèn tín hiệu chuẩn bị chuyển từ xanh sang đỏ, tài xế vẫn bất chấp nguy hiểm, cố lái ô tô băng qua giao lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:11:00+07:00",
+      "fetched": "2026-01-06T21:20:10.371629+07:00"
+    },
+    {
+      "id": "4e253c3f58bcc856ac8223e5a4ee04d9",
+      "title": "Highlight U.23 Việt nam 2-0 U.23 Jordan: Mỹ mãn trận ra quân",
+      "link": "https://thanhnien.vn/highlight-u23-viet-nam-2-0-u23-jordan-my-man-tran-ra-quan-185260106211045258.htm",
+      "summary": "U.23 Việt Nam có trận ra quân trọn vẹn tại bảng A giải vô địch U.23 châu Á 2026 khi đánh bại U.23 Jordan 2-0, với lối chơi kỷ luật, hiệu quả và khả năng kiểm soát thế trận tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:10:00+07:00",
+      "fetched": "2026-01-06T21:20:10.371789+07:00"
+    },
+    {
+      "id": "2273fc87a1ecca799506ea79f3563a22",
+      "title": "HLV Najhi thán phục: 'U.23 Việt Nam rất mạnh, Jordan đã cố hết sức nhưng...'",
+      "link": "https://thanhnien.vn/hlv-najhi-than-phuc-u23-viet-nam-rat-manh-jordan-da-co-het-suc-nhung-185260106205957485.htm",
+      "summary": "HLV Omar Najhi thừa nhận U.23 Jordan đã làm tất cả những gì có thể để ngăn U.23 Việt Nam, nhưng không thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:07:00+07:00",
+      "fetched": "2026-01-06T21:20:10.371941+07:00"
+    },
+    {
+      "id": "b6f069db30628629c1c1d563ac0ca53f",
+      "title": "HLV Kim Sang-sik nghẹn ngào cảm ơn U.23 Việt Nam, nói cực hay về bàn thắng của Hiểu Minh",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-nghen-ngao-cam-on-u23-viet-nam-noi-cuc-hay-ve-ban-thang-cua-hieu-minh-185260106195422144.htm",
+      "summary": "Sau chiến thắng 2-0 thuyết phục trước Jordan, HLV Kim Sang-sik tỏ ra cực kỳ hài lòng với màn trình diễn của đội U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T14:05:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372092+07:00"
+    },
+    {
+      "id": "d454d182f0c05e93342242d1d5a664ae",
+      "title": "U.23 Việt Nam biến đội bóng Tây Á từ thế cửa trên thành ‘chú mèo’ yếu đuối",
+      "link": "https://thanhnien.vn/u23-viet-nam-bien-doi-bong-tay-a-tu-the-cua-tren-thanh-chu-meo-yeu-duoi-185260106202603097.htm",
+      "summary": "U.23 Việt Nam đã có một trận ra quân vòng chung kết giải U.23 châu Á 2026 trên cả tuyệt vời khi biến đội bóng được coi là 'cửa trên' như Jordan thành 'chú mèo' với tâm lý sợ hãi suốt hơn 90 phút thi đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:49:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372246+07:00"
+    },
+    {
+      "id": "9b0b73e1df429cdd01f37f05e47eafa6",
+      "title": "Đường bay Hà Nội - TP HCM vào top bận rộn nhất thế giới",
+      "link": "https://vnexpress.net/duong-bay-ha-noi-tp-hcm-vao-top-ban-ron-nhat-the-gioi-5002555.html",
+      "summary": "Đường bay Hà Nội TP HCM đứng thứ 4 thế giới về mức độ nhộn nhịp năm 2025 với 11 triệu ghế, kém tuyến dẫn đầu Jeju - Seoul Gimpo của Hàn Quốc 3,3 triệu ghế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:48:39+07:00",
+      "fetched": "2026-01-06T21:20:07.140082+07:00"
+    },
+    {
+      "id": "52e4080260097b7aa5ed352ef538fb76",
+      "title": "Báo Jordan cay đắng: ‘U.23 Việt Nam đã trừng phạt sự tự mãn của cầu thủ trẻ chúng ta’",
+      "link": "https://thanhnien.vn/bao-jordan-cay-dang-u23-viet-nam-da-trung-phat-su-tu-man-cua-cau-thu-tre-chung-ta-185260106201539132.htm",
+      "summary": "Truyền thông Jordan đã chỉ trích thầy trò HLV Omar Najhi khi để thua U.23 Việt Nam ở trận ra quân giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:38:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372422+07:00"
+    },
+    {
+      "id": "3148ae75b7579b7c1778c976de1c3cf2",
+      "title": "Việt Nam đạt cột mốc lịch sử trước Jordan ở cấp U23",
+      "link": "https://vnexpress.net/viet-nam-dat-cot-moc-lich-su-truoc-jordan-o-cap-u23-5002585.html",
+      "summary": "Chiến thắng 2-0 ở trận ra quân bảng A U23 châu Á 2026 hôm nay là lần đầu Việt Nam hạ Jordan ở cấp độ này, sau bốn cuộc đối đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:35:53+07:00",
+      "fetched": "2026-01-06T21:20:07.140267+07:00"
+    },
+    {
+      "id": "3148ae75b7579b7c1778c976de1c3cf2",
+      "title": "Việt Nam đạt cột mốc lịch sử trước Jordan ở cấp U23",
+      "link": "https://vnexpress.net/viet-nam-dat-cot-moc-lich-su-truoc-jordan-o-cap-u23-5002585.html",
+      "summary": "Chiến thắng 2-0 ở trận ra quân bảng A U23 châu Á 2026 hôm nay là lần đầu Việt Nam hạ Jordan ở cấp độ này, sau bốn cuộc đối đầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T13:35:53+07:00",
+      "fetched": "2026-01-06T21:20:19.347121+07:00"
+    },
+    {
+      "id": "2c4da304a21017c0ee536662d34f5b45",
+      "title": "U.23 Việt Nam 'đánh nhanh thắng nhanh' Jordan, đứng đầu bảng A: Trận đấu của VAR, Đình Bắc và Hiểu Minh",
+      "link": "https://thanhnien.vn/u23-viet-nam-danh-nhanh-thang-nhanh-jordan-dung-dau-bang-a-tran-dau-cua-var-dinh-bac-va-hieu-minh-185260106203112782.htm",
+      "summary": "U.23 Việt Nam có màn ra quân ấn tượng tại bảng A giải vô địch U.23 châu Á 2026 khi đánh bại U.23 Jordan 2-0. VAR tạo bước ngoặt và Đình Bắc, Hiểu Minh đã tỏa sáng đúng lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:34:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372581+07:00"
+    },
+    {
+      "id": "58a705019b093c16ec367b1917e43c56",
+      "title": "Xử phạt nhiều trường hợp buôn bán lấn chiếm lòng đường ở TP.HCM",
+      "link": "https://thanhnien.vn/xu-phat-nhieu-truong-hop-buon-ban-lan-chiem-long-duong-o-tphcm-185260106195146472.htm",
+      "summary": "Nhiều trường hợp buôn bán lấn chiếm lòng đường quanh khu chợ Phạm Thế Hiển (TP.HCM), gây ùn tắc giao thông đã bị cơ quan chức năng xử phạt, yêu cầu không tái phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:33:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372731+07:00"
+    },
+    {
+      "id": "89f9d440089b97e5b9f77dfb0751b607",
+      "title": "Thủ tướng: Đẩy mạnh phát triển hộ kinh doanh, chuyển đổi hộ kinh doanh thành doanh nghiệp",
+      "link": "https://thanhnien.vn/thu-tuong-day-manh-phat-trien-ho-kinh-doanh-chuyen-doi-ho-kinh-doanh-thanh-doanh-nghiep-185260106200643291.htm",
+      "summary": "Thủ tướng yêu cầu ngành tài chính đẩy mạnh phát triển hộ kinh doanh, xây dựng cơ chế, chính sách để chuyển đổi hộ kinh doanh thành doanh nghiệp, doanh nghiệp nhỏ thành doanh nghiệp lớn, doanh nghiệp lớn thành doanh nghiệp đa quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:32:00+07:00",
+      "fetched": "2026-01-06T21:20:10.372881+07:00"
+    },
+    {
+      "id": "e59fcb4bbf6fb47cbaf0fc362f22ce1f",
+      "title": "HLV Kim Sang-sik họp báo sau trận thắng Jordan",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-thang-jordan-5002578.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau trận Việt Nam thắng Jordan 2-0 ở lượt ra quân bảng A U23 châu Á 2026 vào tối nay (giờ Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:30:56+07:00",
+      "fetched": "2026-01-06T21:20:07.140489+07:00"
+    },
+    {
+      "id": "dba7db8ed2577cf15e71ecb63ccb17f3",
+      "title": "HLV Kim Sang-sik: 'Việt Nam đã rèn rất kỹ tình huống cố định'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-da-ren-rat-ky-tinh-huong-co-dinh-5002578.html",
+      "summary": "HLV Kim Sang-sik đưa ra những đánh giá sau trận Việt Nam thắng Jordan 2-0 ở lượt ra quân bảng A U23 châu Á 2026 vào tối nay (giờ Hà Nội).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T13:30:56+07:00",
+      "fetched": "2026-01-06T21:20:19.347316+07:00"
+    },
+    {
       "id": "750eb4ccb144ba4faf3874766dfa245a",
       "title": "Vụ đốn 42 cây xà cừ ở Sóc Trăng: Chuyển đi bằng 7 xe, đã trả lại 3 xe",
       "link": "https://tuoitre.vn/vu-don-42-cay-xa-cu-o-soc-trang-chuyen-di-bang-7-xe-da-tra-lai-3-xe-20260106095913321.htm",
@@ -603,6 +903,176 @@ window.newsData_2026_01_06 = {
       "fetched": "2026-01-06T13:30:32.693833+07:00"
     },
     {
+      "id": "10c131b083fdc2d55db65560564c93f6",
+      "title": "Thu ngân sách 2025 đạt kỷ lục 2,65 triệu tỷ đồng",
+      "link": "https://vnexpress.net/thu-ngan-sach-2025-dat-ky-luc-2-65-trieu-ty-dong-5002519.html",
+      "summary": "Số thu ngân sách Nhà nước năm nay ghi nhận mức kỷ lục, vượt 2,65 triệu tỷ đồng, tương đương 20,7% quy mô nền kinh tế (GDP), theo Bộ Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:30:08+07:00",
+      "fetched": "2026-01-06T21:20:07.140659+07:00"
+    },
+    {
+      "id": "10c131b083fdc2d55db65560564c93f6",
+      "title": "Thu ngân sách 2025 đạt kỷ lục 2,65 triệu tỷ đồng",
+      "link": "https://vnexpress.net/thu-ngan-sach-2025-dat-ky-luc-2-65-trieu-ty-dong-5002519.html",
+      "summary": "Số thu ngân sách Nhà nước năm nay ghi nhận mức kỷ lục, vượt 2,65 triệu tỷ đồng, tương đương 20,7% quy mô nền kinh tế (GDP), theo Bộ Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T13:30:08+07:00",
+      "fetched": "2026-01-06T21:20:15.437468+07:00"
+    },
+    {
+      "id": "f0f13dd2d9da091235acf4c1206f0057",
+      "title": "Đập phá ô tô vì bị yêu cầu trả phí 'vệ sinh xe'",
+      "link": "https://thanhnien.vn/dap-pha-o-to-vi-bi-yeu-cau-tra-phi-ve-sinh-xe-185260106201013262.htm",
+      "summary": "Bực tức vì bị yêu cầu trả phí vệ sinh xe do có người trong nhóm nôn ói, La Thiên Bảo lao vào hành hung tài xế, bẻ gãy gương chiếu hậu ô tô rồi bỏ đi. Công an TP.HCM đã khởi tố Bảo về hành vi \"gây rối trật tự công cộng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:21:00+07:00",
+      "fetched": "2026-01-06T21:20:10.373034+07:00"
+    },
+    {
+      "id": "971493e5291b4ed259598678013bfc36",
+      "title": "Vương Tổ Hiền: 'Tôi sống thanh thản'",
+      "link": "https://vnexpress.net/vuong-to-hien-toi-song-thanh-than-5002442.html",
+      "summary": "Diễn viên Hong Kong Vương Tổ Hiền cho biết từng mắc bệnh trầm cảm, dần tìm lại được sự bình yên nhờ tín ngưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:18:11+07:00",
+      "fetched": "2026-01-06T21:20:07.140818+07:00"
+    },
+    {
+      "id": "ba9461c1eaac781264a3270ae281864a",
+      "title": "2 cựu thiếu tướng quân đội khai gì về sai phạm dự án sân bay Nha Trang?",
+      "link": "https://thanhnien.vn/2-cuu-thieu-tuong-quan-doi-khai-gi-ve-sai-pham-du-an-san-bay-nha-trang-185260106185652417.htm",
+      "summary": "2 cựu thiếu tướng quân đội bị cáo buộc có sai phạm, dẫn đến việc bàn giao đất quốc phòng không đúng quy định cho Tập đoàn Phúc Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:12:00+07:00",
+      "fetched": "2026-01-06T21:20:10.373181+07:00"
+    },
+    {
+      "id": "55e5d15277b261bf00790db52f75e932",
+      "title": "Nhiều học bổng chính phủ ở các nước nói tiếng Anh đang mở đơn",
+      "link": "https://thanhnien.vn/nhieu-hoc-bong-chinh-phu-o-cac-nuoc-noi-tieng-anh-dang-mo-don-185260106182636328.htm",
+      "summary": "Các nước nói tiếng Anh như Mỹ, Anh và New Zealand đang cung cấp nhiều suất học bổng chính phủ lên đến toàn phần cho học sinh, sinh viên Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:12:00+07:00",
+      "fetched": "2026-01-06T21:20:10.373353+07:00"
+    },
+    {
+      "id": "32193c2690535ecce90114346058b753",
+      "title": "Bệnh viện FV áp dụng bảo hiểm y tế cho toàn bộ dịch vụ",
+      "link": "https://thanhnien.vn/benh-vien-fv-ap-dung-bao-hiem-y-te-cho-toan-bo-dich-vu-185260106201157985.htm",
+      "summary": "Từ ngày 1.1, Bệnh viện FV chính thức áp dụng bảo hiểm y tế cho toàn bộ các dịch vụ khám và điều trị, bao gồm ngoại trú, nội trú và cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:11:00+07:00",
+      "fetched": "2026-01-06T21:20:10.373506+07:00"
+    },
+    {
+      "id": "4953f41ed6ec8ce5bc9fe7f31fdd2913",
+      "title": "Học sinh nước Đông Nam Á nào giỏi Toán nhất thế giới?",
+      "link": "https://vnexpress.net/hoc-sinh-nuoc-dong-nam-a-nao-gioi-toan-nhat-the-gioi-5002518.html",
+      "summary": "Với 575 điểm, học sinh nước này đứng đầu môn Toán trong kỳ khảo sát PISA 2022, cao hơn trung bình các OECD tới 103 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:05:29+07:00",
+      "fetched": "2026-01-06T21:20:07.140983+07:00"
+    },
+    {
+      "id": "ce817fe338ba20090a2235351e93e3d6",
+      "title": "'Xe máy quá nhiều nên tràn vào làn riêng cho xe đạp trên đại lộ Mai Chí Thọ'",
+      "link": "https://vnexpress.net/xe-may-qua-nhieu-nen-tran-vao-lan-rieng-cho-xe-dap-tren-dai-lo-mai-chi-tho-5002462.html",
+      "summary": "'Thiểu số phục tùng đa số' có đúng khi nói về làn riêng cho xe đạp ở TP HCM, buýt BRT ở Hà Nội?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:00:00+07:00",
+      "fetched": "2026-01-06T21:20:07.141138+07:00"
+    },
+    {
+      "id": "c6e807ee67f119aec58efd267d9c6630",
+      "title": "'Khoảng trống miễn dịch' khiến trẻ lớn dễ mắc viêm não Nhật Bản",
+      "link": "https://vnexpress.net/khoang-trong-mien-dich-khien-tre-lon-de-mac-viem-nao-nhat-ban-5001910.html",
+      "summary": "Bỏ lỡ mũi tiêm nhắc khiến hiệu quả bảo vệ của vaccine viêm não Nhật Bản suy giảm, làm tăng nguy cơ mắc bệnh ở trẻ lớn trên 5 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:00:00+07:00",
+      "fetched": "2026-01-06T21:20:07.141321+07:00"
+    },
+    {
+      "id": "3b40f33e87d67e79ccb22b6cf11e5b27",
+      "title": "Xe tải điện vận chuyển hàng nội đô tại Hà Nội",
+      "link": "https://vnexpress.net/xe-tai-dien-van-chuyen-hang-noi-do-tai-ha-noi-4997277.html",
+      "summary": "Hãng taxi điện Xanh SM ra mắt dịch vụ vận chuyển hàng bằng xe VinFast EC Van tại Hà Nội, đáp ứng nhu cầu tăng cao dịp cận Tết Nguyên đán, hôm 5/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:00:00+07:00",
+      "fetched": "2026-01-06T21:20:07.141495+07:00"
+    },
+    {
+      "id": "7c9f6f090bb99b72f616d548fe1f944a",
+      "title": "Xem nhanh 20h ngày 6.1: Hé lộ về nhà tù nơi ông Maduro bị giam | Tranh cãi chuyện đặt nước Starbucks miễn phí",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-61-he-lo-ve-nha-tu-noi-ong-maduro-bi-giam-tranh-cai-chuyen-dat-nuoc-starbucks-mien-phi-185260106192923824.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 6.1 có nhiều tin tức đáng chú ý về: Tranh cãi việc đặt hàng chục ly nước giá 0 đồng khi Starbucks Việt Nam gặp sự cố; 'Kinh khủng, tồi tàn': cựu công tố viên nói về nhà tù nơi ông Maduro bị giam giữ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T13:00:00+07:00",
+      "fetched": "2026-01-06T21:20:10.373657+07:00"
+    },
+    {
+      "id": "0c02fb650496cb07907633227158c855",
+      "title": "Châu Âu ra tuyên bố chung phản đối ý tưởng sáp nhập Greenland của ông Trump",
+      "link": "https://vnexpress.net/chau-au-ra-tuyen-bo-chung-phan-doi-y-tuong-sap-nhap-greenland-cua-ong-trump-5002582.html",
+      "summary": "Lãnh đạo Đan Mạch, Anh, Đức, Pháp và các nước khác ra tuyên bố phản đối việc Tổng thống Trump muốn sáp nhập đảo Greenland vào Mỹ, kêu gọi cùng đảm bảo an ninh tại Bắc Cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T12:46:45+07:00",
+      "fetched": "2026-01-06T21:20:07.141661+07:00"
+    },
+    {
+      "id": "0c02fb650496cb07907633227158c855",
+      "title": "Châu Âu ra tuyên bố chung phản đối ý tưởng sáp nhập Greenland của ông Trump",
+      "link": "https://vnexpress.net/chau-au-ra-tuyen-bo-chung-phan-doi-y-tuong-sap-nhap-greenland-cua-ong-trump-5002582.html",
+      "summary": "Lãnh đạo Đan Mạch, Anh, Đức, Pháp và các nước khác ra tuyên bố phản đối việc Tổng thống Trump muốn sáp nhập đảo Greenland vào Mỹ, kêu gọi cùng đảm bảo an ninh tại Bắc Cực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T12:46:45+07:00",
+      "fetched": "2026-01-06T21:20:13.736367+07:00"
+    },
+    {
+      "id": "4347ea6d2beeb82401bdb2cadeda4e65",
+      "title": "Đại học Sư phạm Hà Nội tổ chức hai đợt thi đánh giá năng lực",
+      "link": "https://vnexpress.net/lich-thi-danh-gia-nang-luc-spt-dai-hoc-su-pham-ha-noi-2026-chinh-xac-nhat-5002094.html",
+      "summary": "Kỳ thi đánh giá năng lực SPT của trường Đại học Sư phạm Hà Nội (HNUE) năm 2026 gồm hai đợt, thêm môn Tin học, Công nghệ, Giáo dục kinh tế và pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T12:41:46+07:00",
+      "fetched": "2026-01-06T21:20:07.141823+07:00"
+    },
+    {
+      "id": "0b4312e5cf998458e9d06575c176934a",
+      "title": "Đĩa Blu-ray chưa lỗi thời sau 20 năm",
+      "link": "https://vnexpress.net/dia-blu-ray-chua-loi-thoi-sau-20-nam-5002165.html",
+      "summary": "Ra mắt lần đầu tại CES 2006, định dạng đĩa Blu-ray vẫn duy trì vị trí trong cuộc sống hiện đại nhờ chất lượng hình ảnh vượt xa các nền tảng trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T12:40:00+07:00",
+      "fetched": "2026-01-06T21:20:07.141981+07:00"
+    },
+    {
+      "id": "0b4312e5cf998458e9d06575c176934a",
+      "title": "Đĩa Blu-ray chưa lỗi thời sau 20 năm",
+      "link": "https://vnexpress.net/dia-blu-ray-chua-loi-thoi-sau-20-nam-5002165.html",
+      "summary": "Ra mắt lần đầu tại CES 2006, định dạng đĩa Blu-ray vẫn duy trì vị trí trong cuộc sống hiện đại nhờ chất lượng hình ảnh vượt xa các nền tảng trực tuyến.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-06T12:40:00+07:00",
+      "fetched": "2026-01-06T21:20:18.353833+07:00"
+    },
+    {
       "id": "93f2386f8710c653ae7471e81e9395ca",
       "title": "Trò chơi thử nghiệm độ bền bản lề smartphone gập",
       "link": "https://thanhnien.vn/tro-choi-thu-nghiem-do-ben-ban-le-smartphone-gap-185260106121807981.htm",
@@ -631,6 +1101,26 @@ window.newsData_2026_01_06 = {
       "category": "Tổng hợp",
       "published": "2026-01-06T12:30:00+07:00",
       "fetched": "2026-01-06T19:39:21.588513+07:00"
+    },
+    {
+      "id": "72bb54a20cd8209f6e1f4d8dbce12c71",
+      "title": "Chủ hộ kinh doanh có thể giao bố mẹ, vợ chồng làm kế toán",
+      "link": "https://vnexpress.net/chu-ho-kinh-doanh-co-the-giao-bo-me-vo-chong-lam-ke-toan-5002568.html",
+      "summary": "Ngoài tự ghi chép sổ sách, chủ hộ kinh doanh có thể giao cho người thân trong gia đình (vợ chồng, bố mẹ, em ruột…) đảm nhận công việc kế toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T12:29:56+07:00",
+      "fetched": "2026-01-06T21:20:07.142139+07:00"
+    },
+    {
+      "id": "72bb54a20cd8209f6e1f4d8dbce12c71",
+      "title": "Chủ hộ kinh doanh có thể giao bố mẹ, vợ chồng làm kế toán",
+      "link": "https://vnexpress.net/chu-ho-kinh-doanh-co-the-giao-bo-me-vo-chong-lam-ke-toan-5002568.html",
+      "summary": "Ngoài tự ghi chép sổ sách, chủ hộ kinh doanh có thể giao cho người thân trong gia đình (vợ chồng, bố mẹ, em ruột…) đảm nhận công việc kế toán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T12:29:56+07:00",
+      "fetched": "2026-01-06T21:20:15.437645+07:00"
     },
     {
       "id": "cfc4ec0a719764c4d417ff49fd80792a",
@@ -691,6 +1181,16 @@ window.newsData_2026_01_06 = {
       "category": "Thế giới",
       "published": "2026-01-06T12:00:00+07:00",
       "fetched": "2026-01-06T19:39:23.775222+07:00"
+    },
+    {
+      "id": "6a80920a9d80c1cc2f4d59e497f10a30",
+      "title": "Cách tự nhiên hỗ trợ điều trị viêm gan C",
+      "link": "https://vnexpress.net/cach-tu-nhien-ho-tro-dieu-tri-viem-gan-c-5002318.html",
+      "summary": "Ăn quả mọng, các loại hạt, protein nạc, vận động đều đặn và uống đủ nước hỗ trợ hệ miễn dịch, kiểm soát triệu chứng viêm gan C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T12:00:00+07:00",
+      "fetched": "2026-01-06T21:20:07.142478+07:00"
     },
     {
       "id": "299ccb2463782da2f758e8f9357c90ea",
