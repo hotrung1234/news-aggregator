@@ -1,7 +1,157 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T05:18:39.028580+07:00",
+  "lastUpdated": "2026-01-07T08:25:39.067448+07:00",
   "articles": [
+    {
+      "id": "919bccf84d62deee4b43aafd34c6f9a2",
+      "title": "Hạ tầng cho xe điện: Mong để mắt tới chung cư cũ",
+      "link": "https://tuoitre.vn/ha-tang-cho-xe-dien-mong-de-mat-toi-chung-cu-cu-20260106235642906.htm",
+      "summary": "Bộ Xây dựng đề xuất chung cư xây dựng mới phải có chỗ để xe riêng cho xe điện. Người dân đô thị ủng hộ \"cả hay tay\". Họ cũng mong muốn bộ xem lại thực tế xe điện đang bị hắt hủi tại các hầm chung cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.224014+07:00",
+      "fetched": "2026-01-07T08:25:31.224139+07:00"
+    },
+    {
+      "id": "e4c1eecc855e29aa290ef3062887ffcd",
+      "title": "Chi lương từ 5 triệu phải chuyển khoản?",
+      "link": "https://tuoitre.vn/chi-luong-tu-5-trieu-phai-chuyen-khoan-20260106231226282.htm",
+      "summary": "Chi lương, thưởng trên 5 triệu đồng bằng tiền mặt có được tính vào chi phí được trừ khi quyết toán thuế thu nhập doanh nghiệp hay không đang là chủ đề nóng trên nhiều diễn đàn kế toán, thuế những ngày gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223858+07:00",
+      "fetched": "2026-01-07T08:25:31.224002+07:00"
+    },
+    {
+      "id": "d15af9bca6e315590e0ca98cc5def9ba",
+      "title": "Tin tức sáng 7-1: Đề xuất quy định mới về kinh doanh đặt cược đua ngựa, đua chó, bóng đá quốc tế",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-1-de-xuat-quy-dinh-moi-ve-kinh-doanh-dat-cuoc-dua-ngua-dua-cho-bong-da-quoc-te-20260106231437322.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất quy định mới về kinh doanh đặt cược đua ngựa, đua chó, bóng đá quốc tế; Cán bộ có kim khí quý, đá quý, tài sản 150 triệu đồng trở lên phải kê khai; Thêm ca thông tim bào thai thành công...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223733+07:00",
+      "fetched": "2026-01-07T08:25:31.223847+07:00"
+    },
+    {
+      "id": "fda2bf32c364f81ed842acc0b24c5977",
+      "title": "Báo chí Đông Nam Á ngỡ ngàng sau trận thắng của U23 Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-dong-nam-a-ngo-ngang-sau-tran-thang-cua-u23-viet-nam-20260107045408697.htm",
+      "summary": "Nhiều trang báo từ các nước trong khu vực Đông Nam Á bày tỏ sự ngỡ ngàng trước màn trình diễn ấn tượng của U23 Việt Nam trong vòng đấu mở màn Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223605+07:00",
+      "fetched": "2026-01-07T08:25:31.223721+07:00"
+    },
+    {
+      "id": "2464e3a689bad0a7862986e2ebf7724c",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: Nhật Bản, Hàn Quốc ra sân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-nhat-ban-han-quoc-ra-san-20260106202627092.htm",
+      "summary": "Hôm nay 7-1, Giải U23 châu Á 2026 tại Saudi Arabia sẽ tiếp diễn với 4 trận đấu ở bảng B và C. Trong đó, tâm điểm sẽ là các trận đấu có sự hiện diện của U23 Nhật Bản và U23 Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223473+07:00",
+      "fetched": "2026-01-07T08:25:31.223593+07:00"
+    },
+    {
+      "id": "f6fafab59efb1c897d22689f645675e6",
+      "title": "Tập cuối Running man mùa 3 sẽ ra rạp",
+      "link": "https://tuoitre.vn/tap-cuoi-running-man-mua-3-se-ra-rap-2026010623074779.htm",
+      "summary": "Tập cuối Running man mùa 3 sẽ vượt khỏi màn ảnh nhỏ để chạy ra màn ảnh rộng với một phiên bản điện ảnh đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223346+07:00",
+      "fetched": "2026-01-07T08:25:31.223462+07:00"
+    },
+    {
+      "id": "142b4b5e9e7eeda4f3808bc6a98cf4a9",
+      "title": "Tin tức thế giới 7-1: Binh sĩ Anh, Pháp sẽ đến Ukraine; Mỹ - Venezuela đàm phán việc bán dầu",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-1-binh-si-anh-phap-se-den-ukraine-my-venezuela-dam-phan-viec-ban-dau-20260107070248002.htm",
+      "summary": "Mỹ lần đầu lên tiếng ủng hộ Liên minh tự nguyện cho Ukraine; Pháp - Anh sẽ triển khai quân đội đến Ukraine sau lệnh ngừng bắn với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223218+07:00",
+      "fetched": "2026-01-07T08:25:31.223335+07:00"
+    },
+    {
+      "id": "044ae50ad94af8e9926bfdf6b239c723",
+      "title": "Sáng nay, Hà Nội rét 10 độ C",
+      "link": "https://tuoitre.vn/sang-nay-ha-noi-ret-10-do-c-20260107070304756.htm",
+      "summary": "Do ảnh hưởng không khí lạnh tăng cường mạnh, sáng sớm nay (7-1), nhiệt độ từ Hà Tĩnh trở ra Bắc Bộ phổ biến dưới 15 độ C, trong đó thủ đô Hà Nội rét đậm 10 độ C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.223087+07:00",
+      "fetched": "2026-01-07T08:25:31.223206+07:00"
+    },
+    {
+      "id": "0732558e4fe25c22ead0b5cdd0273955",
+      "title": "TP.HCM sẽ làm nút giao Gò Công quy mô 4 tầng",
+      "link": "https://tuoitre.vn/tp-hcm-se-lam-nut-giao-go-cong-quy-mo-4-tang-20260106234016844.htm",
+      "summary": "UBND TP.HCM vừa phê duyệt nhiệm vụ thiết kế thi công tuyển phương án kiến trúc nút giao Gò Công, thuộc dự án hoàn chỉnh nút giao và nhánh nối xa lộ Hà Nội - vành đai 3. Công trình được xác định là nút giao khác mức cấp đặc biệt, quy mô 4 tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222941+07:00",
+      "fetched": "2026-01-07T08:25:31.223075+07:00"
+    },
+    {
+      "id": "93169b88cd4a2706e05103e9a40b8c5d",
+      "title": "Toyota có một năm bán 'khét lẹt': Cứ 2 xe bán ra có 1 chiếc là xe điện, hybrid",
+      "link": "https://tuoitre.vn/toyota-co-mot-nam-ban-khet-let-cu-2-xe-ban-ra-co-1-chiec-la-xe-dien-hybrid-20260106174641157.htm",
+      "summary": "Toyota và Lexus kết thúc năm 2025 tại thị trường Mỹ với doanh số 2,5 triệu xe, tăng 8% so với năm trước, trong đó xe điện hóa chiếm 47%, khẳng định hybrid và plug-in hybrid là động lực tăng trưởng chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222770+07:00",
+      "fetched": "2026-01-07T08:25:31.222897+07:00"
+    },
+    {
+      "id": "d566b09d1b4210cd46a8dc9d5e066100",
+      "title": "Siết chặt phân lô bán nền từ đất nông nghiệp: Hạn chế đầu cơ, bảo vệ đất đai",
+      "link": "https://tuoitre.vn/siet-chat-phan-lo-ban-nen-tu-dat-nong-nghiep-han-che-dau-co-bao-ve-dat-dai-20260107071512219.htm",
+      "summary": "Nghị quyết mới của Quốc hội về cơ chế thực hiện Luật Đất đai với nhiều điểm thay đổi quan trọng nhằm hạn chế tình trạng phân lô bán nền tràn lan từ đất nông nghiệp, vốn gây sốt đất ảo và cản trở quản lý sử dụng đất bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222632+07:00",
+      "fetched": "2026-01-07T08:25:31.222751+07:00"
+    },
+    {
+      "id": "cde90025d3e862bd2f62b467c4722ebf",
+      "title": "Nhựa Bình Minh: Xây dựng niềm tin qua tương tác số và trải nghiệm thực tế",
+      "link": "https://tuoitre.vn/nhua-binh-minh-xay-dung-niem-tin-qua-tuong-tac-so-va-trai-nghiem-thuc-te-20260106174526642.htm",
+      "summary": "Từ các hoạt động tương tác số đến trải nghiệm thi công thực tế, Nhựa Bình Minh từng bước xây dựng niềm tin và sự gắn kết bền vững với cộng đồng người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222499+07:00",
+      "fetched": "2026-01-07T08:25:31.222619+07:00"
+    },
+    {
+      "id": "e830423826cc0c9c491b5077989ddb5b",
+      "title": "LocknLock lập cú đúp tại giải thưởng ‘Thương hiệu hàng đầu Hàn Quốc năm 2026’",
+      "link": "https://tuoitre.vn/locknlock-lap-cu-dup-tai-giai-thuong-thuong-hieu-hang-dau-han-quoc-nam-2026-20260106174905199.htm",
+      "summary": "Ngày 6-1, tại lễ trao giải 'Giải thưởng Thương hiệu hàng đầu Hàn Quốc năm 2026', thương hiệu gia dụng toàn cầu LocknLock được vinh danh tại hai hạng mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222362+07:00",
+      "fetched": "2026-01-07T08:25:31.222486+07:00"
+    },
+    {
+      "id": "305382ee11fdca07cc3b028998cf3b99",
+      "title": "Cổ phiếu FMCG Việt hội tụ tăng trưởng - dòng tiền - quy mô",
+      "link": "https://tuoitre.vn/co-phieu-fmcg-viet-hoi-tu-tang-truong-dong-tien-quy-mo-20260106175825038.htm",
+      "summary": "Cổ phiếu MCH của Công ty Cổ phần Hàng tiêu dùng Masan (Masan Consumer – HOSE: MCH) đang nổi lên như một biểu tượng tiêu biểu cho ngành hàng tiêu dùng nhanh (FMCG).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.222218+07:00",
+      "fetched": "2026-01-07T08:25:31.222349+07:00"
+    },
+    {
+      "id": "5649b6fa818a4cc72284a00e163ad7d5",
+      "title": "Điểm tin 8h: VN-Index lập kỷ lục 1.816 điểm; Ông Biden có thể hưởng lương hưu kỷ lục",
+      "link": "https://tuoitre.vn/diem-tin-8h-vn-index-lap-ky-luc-1-816-diem-ong-biden-co-the-huong-luong-huu-ky-luc-20260107061827368.htm",
+      "summary": "Điểm tin 8h ngày 7-1-2026: VN-Index lập kỷ lục 1.816 điểm; Ông Biden có thể hưởng lương hưu kỷ lục...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T08:25:31.221971+07:00",
+      "fetched": "2026-01-07T08:25:31.222203+07:00"
+    },
     {
       "id": "cfd6d93a654cfff54360a9b3a8300f60",
       "title": "Bộ Tư pháp Mỹ rút cáo buộc ông Maduro là trùm băng đảng ma túy  ‘Cartel de los Soles’",
@@ -171,6 +321,426 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T01:31:04.051590+07:00",
       "fetched": "2026-01-07T01:31:04.051806+07:00"
+    },
+    {
+      "id": "748cc0b888e49c7a53187d37df8be0ea",
+      "title": "Hộ kinh doanh ghi sổ chi tiết tiền theo dõi thu chi như thế nào?",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-ghi-so-chi-tiet-tien-theo-doi-thu-chi-nhu-the-nao-185260107080653835.htm",
+      "summary": "Ngoài các sổ kế toán về doanh thu, sản phẩm thì hộ kinh doanh còn phải ghi sổ chi tiết tiền để theo dõi tình hình thu chi hoặc tiền gửi ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:23:00+07:00",
+      "fetched": "2026-01-07T08:25:30.384630+07:00"
+    },
+    {
+      "id": "9f1f056b884f727213c859add7f3da37",
+      "title": "Việt Nam đánh bại Thái Lan trở thành lựa chọn hàng đầu của du khách Trung Quốc",
+      "link": "https://thanhnien.vn/viet-nam-danh-bai-thai-lan-tro-thanh-lua-chon-hang-dau-cua-du-khach-trung-quoc-185260107073009308.htm",
+      "summary": "Lượng khách du lịch Trung Quốc đến Việt Nam tăng 41% lên 5,3 triệu người, vượt con số 4,5 triệu người đến Thái Lan, nơi những lo ngại về an ninh đã làm giảm lượng khách Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:22:00+07:00",
+      "fetched": "2026-01-07T08:25:30.384799+07:00"
+    },
+    {
+      "id": "e7481bf00a0a6b1a5c62dff460e5849f",
+      "title": "Quốc Thuận tái xuất làm đạo diễn, tiết lộ điều tiếc nuối ở tuổi 47",
+      "link": "https://thanhnien.vn/quoc-thuan-tai-xuat-lam-dao-dien-tiet-lo-dieu-tiec-nuoi-o-tuoi-47-185260106230125204.htm",
+      "summary": "Nghệ sĩ Quốc Thuận trở lại với công việc đạo diễn khi được giao vai trò 'cầm trịch' cho liveshow 'Men đời' của ca sĩ - diễn viên Nhật Minh. Trong cuộc trò chuyện với chúng tôi, anh đã có những trải lòng về cột mốc này, đồng thời tiết lộ những điều trăn trở sau gần 30 năm làm nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:16:00+07:00",
+      "fetched": "2026-01-07T08:25:30.384975+07:00"
+    },
+    {
+      "id": "3d1f2e4ec5a101b034c979c9572cabca",
+      "title": "Mbappe nguy cơ lỡ Siêu Cup Tây Ban Nha",
+      "link": "https://vnexpress.net/mbappe-nguy-co-lo-sieu-cup-tay-ban-nha-5002653.html",
+      "summary": "Kylian Mbappe không có tên trong đội hình Real Madrid chuẩn bị đấu bán kết với Atletico Madrid vì bong gân đầu gối, nhưng không loại trừ có thể góp mặt sau đó nếu đội nhà vào chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T01:07:52+07:00",
+      "fetched": "2026-01-07T08:25:39.061857+07:00"
+    },
+    {
+      "id": "d1f2da4ed93ab75b2216f1fc9768072a",
+      "title": "Trung Quốc đáp trả Nhật Bản về Đài Loan, cấm xuất khẩu hàng lưỡng dụng",
+      "link": "https://thanhnien.vn/trung-quoc-dap-tra-nhat-ban-ve-dai-loan-cam-xuat-khau-hang-luong-dung-185260107073706425.htm",
+      "summary": "Trung Quốc đã cấm xuất khẩu hàng hóa lưỡng dụng sang Nhật Bản nhằm đáp trả việc Thủ tướng Nhật Bản Takaichi Sanae ra tuyên bố liên quan Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:04:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385131+07:00"
+    },
+    {
+      "id": "662801e98642ca97b35f863cfd25339e",
+      "title": "TBS Group - Hành trình từ đôi giày vững chãi, đến những bước sống êm ái",
+      "link": "https://thanhnien.vn/tbs-group-hanh-trinh-tu-doi-giay-vung-chai-den-nhung-buoc-song-em-ai-185260106215119364.htm",
+      "summary": "Năm 1989, khi công cuộc đổi mới mở ra những cánh cửa đầu tiên cho nền kinh tế Việt Nam, những nhà sáng lập đầu tiên đã mạnh dạn bắt đầu hành trình khởi nghiệp. Họ chọn bắt đầu từ một lĩnh vực còn rất xa lạ với Việt Nam lúc bấy giờ là sản xuất giày",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:00:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385282+07:00"
+    },
+    {
+      "id": "d8c96f4a213406ec8bd97452df1a4fb7",
+      "title": "Kiểm soát cân nặng khoa học dịp tết",
+      "link": "https://thanhnien.vn/kiem-soat-can-nang-khoa-hoc-dip-tet-185260106213948385.htm",
+      "summary": "Tết vui trọn vẹn hơn khi bạn biết ăn uống khoa học, vận động hợp lý và kiểm soát cân nặng an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:00:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385433+07:00"
+    },
+    {
+      "id": "8119c201e84a9cda8c0cde5ae4f74a94",
+      "title": "Mùa xuân 2026, mùa của những bản phối với áo khoác dáng ngắn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-xuan-2026-mua-cua-nhung-ban-phoi-voi-ao-khoac-dang-ngan-185251230094112612.htm",
+      "summary": "Bước chuyển mình từ đông sang xuân mang đến sức sống mới cho tủ đồ của quý cô. Mùa xuân 2026 được dự báo sẽ là mùa của những chiếc áo khoác dáng ngắn - chúng phù hợp với tiết trời ấm dịu dàng và mang đến vẻ ngoài thanh lịch, chỉn chu mọi lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:00:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385583+07:00"
+    },
+    {
+      "id": "a112fb28722df1f40976484b02b00d74",
+      "title": "Gelex được nâng triển vọng xếp hạng tín nhiệm",
+      "link": "https://vnexpress.net/gelex-duoc-nang-trien-vong-xep-hang-tin-nhiem-5002429.html",
+      "summary": "Gelex được VIS Rating duy trì xếp hạng tín nhiệm ở mức A, đồng thời nâng triển vọng từ \"Ổn định\" lên \"Tích cực\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-07T01:00:00+07:00",
+      "fetched": "2026-01-07T08:25:34.471422+07:00"
+    },
+    {
+      "id": "698bf81459c9a61c1a33c9414a5d9af0",
+      "title": "Ca sĩ Trúc Nhân tái xuất 'đường đua' nhạc Tết",
+      "link": "https://thanhnien.vn/ca-si-truc-nhan-tai-xuat-duong-dua-nhac-tet-185260106230131294.htm",
+      "summary": "Sau thời gian dài vắng bóng trên 'đường đua' nhạc xuân, Trúc Nhân chính thức trở lại với MV 'Vạn sự như ý', dự kiến ra mắt vào ngày 8.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:57:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385764+07:00"
+    },
+    {
+      "id": "8d5f1e993b0d478d6814cfc11cfa162b",
+      "title": "Mấu chốt pháp lý trong vụ Mỹ xét xử ông Maduro",
+      "link": "https://vnexpress.net/mau-chot-phap-ly-trong-vu-my-xet-xu-ong-maduro-5002302.html",
+      "summary": "Đặc quyền nguyên thủ của ông Maduro và bản chất chiến dịch đột kích của Mỹ vào Caracas sẽ là những mấu chốt định đoạt tiến trình tố tụng với Tổng thống Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T00:55:39+07:00",
+      "fetched": "2026-01-07T08:25:33.057977+07:00"
+    },
+    {
+      "id": "022ad00e3e5b755b90bce05480da101a",
+      "title": "Xem Mùa xuân - Khởi nguồn thắng lợi: Bác Hồ nói về bầu cử và 'làm quan cách mạng'",
+      "link": "https://thanhnien.vn/xem-mua-xuan-khoi-nguon-thang-loi-bac-ho-noi-ve-bau-cu-va-lam-quan-cach-mang-185260106223448167.htm",
+      "summary": "Trong lễ ra mắt cử tri ngày 5.1.1946, Chủ tịch Hồ Chí Minh đã nói: \"Những ai muốn làm quan cách mạng thì nhất định không nên bầu\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:51:00+07:00",
+      "fetched": "2026-01-07T08:25:30.385985+07:00"
+    },
+    {
+      "id": "377caacb00fcb6994f71ef722db89c22",
+      "title": "Venezuela tuyên bố không bị thế lực nước ngoài điều hành",
+      "link": "https://vnexpress.net/venezuela-tuyen-bo-khong-bi-the-luc-nuoc-ngoai-dieu-hanh-5002630.html",
+      "summary": "Tổng thống lâm thời Rodriguez khẳng định không có thế lực nước ngoài nào đang điều hành Venezuela, sau khi Mỹ nói sẽ tạm thời quản lý quốc gia này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:44:23+07:00",
+      "fetched": "2026-01-07T08:25:27.402476+07:00"
+    },
+    {
+      "id": "377caacb00fcb6994f71ef722db89c22",
+      "title": "Venezuela tuyên bố không bị thế lực nước ngoài điều hành",
+      "link": "https://vnexpress.net/venezuela-tuyen-bo-khong-bi-the-luc-nuoc-ngoai-dieu-hanh-5002630.html",
+      "summary": "Tổng thống lâm thời Rodriguez khẳng định không có thế lực nước ngoài nào đang điều hành Venezuela, sau khi Mỹ nói sẽ tạm thời quản lý quốc gia này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T00:44:23+07:00",
+      "fetched": "2026-01-07T08:25:33.058156+07:00"
+    },
+    {
+      "id": "34de8661a2b43722f4d14bec46778fea",
+      "title": "Bí quyết chiến thắng của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/bi-quyet-chien-thang-cua-u23-viet-nam-185260106224256883.htm",
+      "summary": "Với lối chơi kỷ luật và khả năng tận dụng tình huống cố định xuất sắc, U.23 VN dưới sự dẫn dắt của HLV Kim Sang-sik đã có khởi đầu suôn sẻ tại VCK châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:39:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386142+07:00"
+    },
+    {
+      "id": "d2cc4fb5c7000413c05f881a835b6d2d",
+      "title": "Solskjaer, Carrick cạnh tranh suất HLV tạm quyền Man Utd",
+      "link": "https://vnexpress.net/solskjaer-carrick-canh-tranh-suat-hlv-tam-quyen-man-utd-5002619.html",
+      "summary": "Ole Gunnar Solskjaer và Michael Carrick là hai ứng viên sáng giá tạm quyền dẫn Man Utd tới hết mùa giải 2025-2026, sau khi Ruben Amorim bị sa thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:37:12+07:00",
+      "fetched": "2026-01-07T08:25:27.402656+07:00"
+    },
+    {
+      "id": "d2cc4fb5c7000413c05f881a835b6d2d",
+      "title": "Solskjaer, Carrick cạnh tranh suất HLV tạm quyền Man Utd",
+      "link": "https://vnexpress.net/solskjaer-carrick-canh-tranh-suat-hlv-tam-quyen-man-utd-5002619.html",
+      "summary": "Ole Gunnar Solskjaer và Michael Carrick là hai ứng viên sáng giá tạm quyền dẫn Man Utd tới hết mùa giải 2025-2026, sau khi Ruben Amorim bị sa thải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T00:37:12+07:00",
+      "fetched": "2026-01-07T08:25:39.062039+07:00"
+    },
+    {
+      "id": "206123adc674e7a46a5d910855876d1d",
+      "title": "Kênh rạch tắc nghẽn vì rác và cỏ dại",
+      "link": "https://thanhnien.vn/kenh-rach-tac-nghen-vi-rac-va-co-dai-185260106213743155.htm",
+      "summary": "Thời gian gần đây, trên tuyến kênh đường Bờ Bắc Sông Chùa, là một đoạn của Kênh Tham Lương - Bến Cát - Rạch Nước Lên, P.Tân Tạo (trước đây thuộc P.Tân Tạo, Q.Bình Tân), TP.HCM, lục bình, cây cỏ dại phát triển dày đặc cộng thêm rác thải nổi lềnh bềnh bao phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:36:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386298+07:00"
+    },
+    {
+      "id": "b1928cd1004e382c2f2ec7f0aae4f944",
+      "title": "Tiệm mì 0 đồng tiếp sức lao động nghèo",
+      "link": "https://thanhnien.vn/tiem-mi-0-dong-tiep-suc-lao-dong-ngheo-185260106213422274.htm",
+      "summary": "Quán mì 0 đồng ở số 12A, đường Lê Lợi, P.Cái Khế, TP.Cần Thơ (trước đây là P.Cái Khế, Q.Ninh Kiều, TP.Cần Thơ) hoạt động từ giữa trưa đến tối muộn và được người lao động nghèo xem như \"trạm dừng\" để tiếp sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:35:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386454+07:00"
+    },
+    {
+      "id": "be086906d5491c8e2ceeba22160ad9c9",
+      "title": "Tắm nước lạnh mùa đông: Lợi hay hại cho sức khỏe?",
+      "link": "https://thanhnien.vn/tam-nuoc-lanh-mua-dong-loi-hay-hai-cho-suc-khoe-185260107072955275.htm",
+      "summary": "Tắm nước lạnh vào mùa đông được nhiều người xem là thói quen giúp tỉnh táo và rèn luyện thể chất. Thực tế, phương pháp này có thể mang lại một số lợi ích cho cơ thể, nhưng không phù hợp với tất cả mọi người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:29:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386601+07:00"
+    },
+    {
+      "id": "8c314b37c38ce2043de01b05348200e0",
+      "title": "Giá heo hơi hôm nay 7.1.2026: Tăng nhẹ trở lại ở miền Bắc",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-712026-tang-nhe-tro-lai-o-mien-bac-185260107065618007.htm",
+      "summary": "Giá heo hơi tiếp tục xu hướng tăng nhẹ ở một số địa phương khu vực miền Bắc và miền Trung, trong đó đã xuất hiện trở lại mức giá 70.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:28:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386752+07:00"
+    },
+    {
+      "id": "30b367b1a028a81fb38561b62c931243",
+      "title": "23 binh sĩ Venezuela thiệt mạng khi Mỹ bắt Tổng thống Maduro",
+      "link": "https://vnexpress.net/23-binh-si-venezuela-thiet-mang-khi-my-bat-tong-thong-maduro-5002622.html",
+      "summary": "Quân đội Venezuela lần đầu công bố thương vong, cho biết 23 binh sĩ nước này thiệt mạng khi Mỹ mở chiến dịch bắt Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:23:38+07:00",
+      "fetched": "2026-01-07T08:25:27.402825+07:00"
+    },
+    {
+      "id": "30b367b1a028a81fb38561b62c931243",
+      "title": "23 binh sĩ Venezuela thiệt mạng khi Mỹ bắt Tổng thống Maduro",
+      "link": "https://vnexpress.net/23-binh-si-venezuela-thiet-mang-khi-my-bat-tong-thong-maduro-5002622.html",
+      "summary": "Quân đội Venezuela lần đầu công bố thương vong, cho biết 23 binh sĩ nước này thiệt mạng khi Mỹ mở chiến dịch bắt Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T00:23:38+07:00",
+      "fetched": "2026-01-07T08:25:33.058320+07:00"
+    },
+    {
+      "id": "71121046450d5c0a90793c73eff071ed",
+      "title": "Ông Trump: Venezuela sẽ giao 30-50 triệu thùng dầu cho Mỹ",
+      "link": "https://vnexpress.net/ong-trump-venezuela-se-giao-30-50-trieu-thung-dau-cho-my-5002634.html",
+      "summary": "Tổng thống Trump cho biết Venezuela sẽ giao cho Mỹ 30-50 triệu thùng dầu và ông sẽ kiểm soát số tiền thu được từ việc bán chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:23:23+07:00",
+      "fetched": "2026-01-07T08:25:27.403011+07:00"
+    },
+    {
+      "id": "71121046450d5c0a90793c73eff071ed",
+      "title": "Ông Trump: Venezuela sẽ giao 30-50 triệu thùng dầu cho Mỹ",
+      "link": "https://vnexpress.net/ong-trump-venezuela-se-giao-30-50-trieu-thung-dau-cho-my-5002634.html",
+      "summary": "Tổng thống Trump cho biết Venezuela sẽ giao cho Mỹ 30-50 triệu thùng dầu và ông sẽ kiểm soát số tiền thu được từ việc bán chúng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T00:23:23+07:00",
+      "fetched": "2026-01-07T08:25:33.058481+07:00"
+    },
+    {
+      "id": "7be5174c39394d4de38485f6abd0cada",
+      "title": "15 phim Hollywood được mong đợi năm 2026",
+      "link": "https://vnexpress.net/15-phim-hollywood-duoc-mong-doi-nam-2026-5002241.html",
+      "summary": "Bom tấn \"The Odyssey\" của Christopher Nolan và \"Avengers: Doomsday\" - hội tụ dàn siêu anh hùng Marvel - hứa hẹn gây sốt năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:15:02+07:00",
+      "fetched": "2026-01-07T08:25:27.403172+07:00"
+    },
+    {
+      "id": "18645d67197bf227aa909bb4413cd9a2",
+      "title": "Dùng eSIM có thật sự đơn giản hơn SIM truyền thống?",
+      "link": "https://thanhnien.vn/dung-esim-co-that-su-don-gian-hon-sim-truyen-thong-18526010706360529.htm",
+      "summary": "Dù smartphone ngày nay đảm nhiệm nhiều vai trò hơn việc gọi điện, thẻ SIM vẫn là thành phần không thể thiếu mỗi khi người dùng đổi máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:14:00+07:00",
+      "fetched": "2026-01-07T08:25:30.386916+07:00"
+    },
+    {
+      "id": "b4e071fcdbb010e90dfc64d413d6a9e5",
+      "title": "Thiếu 31.000 đơn vị máu điều trị dịp Tết",
+      "link": "https://vnexpress.net/thieu-31-000-don-vi-mau-dieu-tri-dip-tet-5002564.html",
+      "summary": "Viện Huyết học - Truyền máu Trung ương cần 122.000 đơn vị máu cung cấp điều trị bệnh nhân tại 180 bệnh viện miền Bắc dịp Tết, song hiện còn thiếu khoảng 31.000 đơn vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:00:00+07:00",
+      "fetched": "2026-01-07T08:25:27.403333+07:00"
+    },
+    {
+      "id": "861e4f6ba0b9a0dae28d67dd21d6179b",
+      "title": "Vi phạm bao lâu thì có thông báo phạt nguội?",
+      "link": "https://vnexpress.net/vi-pham-bao-lau-thi-co-thong-bao-phat-nguoi-5002493.html",
+      "summary": "Đèn giao thông bị lỗi, tôi vô tình vi phạm vượt đèn đỏ nên rất hồi hộp không biết có bị phạt nguội hay không. (Minh Tuấn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T00:00:00+07:00",
+      "fetched": "2026-01-07T08:25:27.403497+07:00"
+    },
+    {
+      "id": "8a8699ca3b824adbeb4106b0a821a1e4",
+      "title": "Nợ tiếng Anh, đi làm sớm khiến 40-60% sinh viên kỹ thuật ra trường muộn",
+      "link": "https://vnexpress.net/no-tieng-anh-di-lam-som-khien-40-60-sinh-vien-ky-thuat-ra-truong-muon-5002431.html",
+      "summary": "Cứ 10 sinh viên khối kỹ thuật thì có 4-6 người tốt nghiệp muộn do không đạt tiếng Anh, mải đi làm sớm hoặc không theo kịp chương trình đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:59:02+07:00",
+      "fetched": "2026-01-07T08:25:27.403660+07:00"
+    },
+    {
+      "id": "14055d9c03ef5b20776e5ec5b88374fa",
+      "title": "Mỹ không loại trừ phương án kiểm soát Greenland bằng biện pháp quân sự",
+      "link": "https://vnexpress.net/my-khong-loai-tru-phuong-an-kiem-soat-greenland-bang-bien-phap-quan-su-5002628.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump đang xem xét các phương án để kiểm soát đảo Greenland, trong đó có biện pháp quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:49:33+07:00",
+      "fetched": "2026-01-07T08:25:27.403816+07:00"
+    },
+    {
+      "id": "14055d9c03ef5b20776e5ec5b88374fa",
+      "title": "Mỹ không loại trừ phương án kiểm soát Greenland bằng biện pháp quân sự",
+      "link": "https://vnexpress.net/my-khong-loai-tru-phuong-an-kiem-soat-greenland-bang-bien-phap-quan-su-5002628.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump đang xem xét các phương án để kiểm soát đảo Greenland, trong đó có biện pháp quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-06T23:49:33+07:00",
+      "fetched": "2026-01-07T08:25:33.058639+07:00"
+    },
+    {
+      "id": "4ec1044d1ce1b88a1dd64043b048cc5a",
+      "title": "Miền Bắc rét đậm, nơi thấp nhất 2 độ C",
+      "link": "https://vnexpress.net/mien-bac-ret-dam-noi-thap-nhat-2-do-c-5002631.html",
+      "summary": "Bước sang ngày thứ 3 chịu tác động của đợt không khí lạnh tăng cường, miền Bắc tiếp tục rét đậm, rét hại, nhiều khu vực núi cao có khả năng xảy ra băng giá và sương muối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:42:29+07:00",
+      "fetched": "2026-01-07T08:25:27.403993+07:00"
+    },
+    {
+      "id": "7bee9ed1841e66fb3c9a72e6e6385224",
+      "title": "Hộ kinh doanh tự mày mò trước thuế mới",
+      "link": "https://vnexpress.net/ho-kinh-doanh-tu-may-mo-truoc-thue-moi-5002627.html",
+      "summary": "Đánh liều gom hàng trăm đơn lẻ tẻ xuất gộp cuối ngày, Nguyễn Hoa ở Cà Mau nơm nớp lo sai, nhưng vẫn phải làm vì không thể đóng cửa chờ cán bộ thuế cầm tay chỉ việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:26:03+07:00",
+      "fetched": "2026-01-07T08:25:27.404153+07:00"
+    },
+    {
+      "id": "ffc8dafa1ad7d35c9cc68a1dc35ce58e",
+      "title": "Fletcher: 'Dẫn dắt Man Utd là vinh dự vượt ngoài giấc mơ'",
+      "link": "https://vnexpress.net/fletcher-dan-dat-man-utd-la-vinh-du-vuot-ngoai-giac-mo-5002625.html",
+      "summary": "Darren Fletcher thừa nhận cảm giác siêu thực khi ra mắt Man Utd với vai trò HLV tạm quyền trước trận gặp Burnley ở vòng 20 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:13:15+07:00",
+      "fetched": "2026-01-07T08:25:27.404314+07:00"
+    },
+    {
+      "id": "ffc8dafa1ad7d35c9cc68a1dc35ce58e",
+      "title": "Fletcher: 'Dẫn dắt Man Utd là vinh dự vượt ngoài giấc mơ'",
+      "link": "https://vnexpress.net/fletcher-dan-dat-man-utd-la-vinh-du-vuot-ngoai-giac-mo-5002625.html",
+      "summary": "Darren Fletcher thừa nhận cảm giác siêu thực khi ra mắt Man Utd với vai trò HLV tạm quyền trước trận gặp Burnley ở vòng 20 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T23:13:15+07:00",
+      "fetched": "2026-01-07T08:25:39.061527+07:00"
+    },
+    {
+      "id": "bafe0c9a235f57c93cd8779faf426dc9",
+      "title": "Loạt thiết bị độc đáo tại CES 2026",
+      "link": "https://vnexpress.net/loat-thiet-bi-doc-dao-tai-ces-2026-5002271.html",
+      "summary": "Triển lãm điện tử tiêu dùng lớn nhất thế giới CES 2026 quy tụ hàng loạt thiết bị và giải pháp độc đáo, chủ yếu liên quan đến robot và AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:11:16+07:00",
+      "fetched": "2026-01-07T08:25:27.404483+07:00"
+    },
+    {
+      "id": "bafe0c9a235f57c93cd8779faf426dc9",
+      "title": "Loạt thiết bị độc đáo tại CES 2026",
+      "link": "https://vnexpress.net/loat-thiet-bi-doc-dao-tai-ces-2026-5002271.html",
+      "summary": "Triển lãm điện tử tiêu dùng lớn nhất thế giới CES 2026 quy tụ hàng loạt thiết bị và giải pháp độc đáo, chủ yếu liên quan đến robot và AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-06T23:11:16+07:00",
+      "fetched": "2026-01-07T08:25:38.122611+07:00"
+    },
+    {
+      "id": "f3b3e78fb2e07fcec0b079d704a563cb",
+      "title": "Điểm tin 6h: Lao động trên 40 tuổi bị cắt giảm việc nhiều nhất năm 2025 | Ngân hàng dồn dập đấu giá nợ xấu doanh nghiệp",
+      "link": "https://vnexpress.net/diem-tin-6h-lao-dong-tren-40-tuoi-bi-cat-giam-viec-nhieu-nhat-nam-2025-ngan-hang-don-dap-dau-gia-no-xau-doanh-nghiep-5002629.html",
+      "summary": "Hàng không tăng trưởng mạnh cả chuyến bay, hành khách và hàng hóa dịp Tết Dương lịch; Thủ tướng đốc thúc chọn hình thức đầu tư đường sắt tốc độ cao Bắc Nam...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:10:23+07:00",
+      "fetched": "2026-01-07T08:25:27.404643+07:00"
+    },
+    {
+      "id": "27e3935dfbe114cdc7cd38780fb69dce",
+      "title": "Ferdinand: 'Arteta sẽ cân nhắc nếu Man Utd mời gọi'",
+      "link": "https://vnexpress.net/ferdinand-arteta-se-can-nhac-neu-man-utd-moi-goi-5002626.html",
+      "summary": "Theo cựu trung vệ Rio Ferdinand, sức hút của Man Utd đủ lớn để khiến những HLV hàng đầu như Mikel Arteta phải suy nghĩ, bất chấp việc nhà cầm quân người Tây Ban Nha đang thành công cùng Arsenal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-06T23:08:47+07:00",
+      "fetched": "2026-01-07T08:25:27.404799+07:00"
+    },
+    {
+      "id": "27e3935dfbe114cdc7cd38780fb69dce",
+      "title": "Ferdinand: 'Arteta sẽ cân nhắc nếu Man Utd mời gọi'",
+      "link": "https://vnexpress.net/ferdinand-arteta-se-can-nhac-neu-man-utd-moi-goi-5002626.html",
+      "summary": "Theo cựu trung vệ Rio Ferdinand, sức hút của Man Utd đủ lớn để khiến những HLV hàng đầu như Mikel Arteta phải suy nghĩ, bất chấp việc nhà cầm quân người Tây Ban Nha đang thành công cùng Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T23:08:47+07:00",
+      "fetched": "2026-01-07T08:25:39.061694+07:00"
+    },
+    {
+      "id": "e24a295ccc0b7130b1bd00eca64575bd",
+      "title": "Mai mini chơi Tết giá vài chục nghìn đồng",
+      "link": "https://vnexpress.net/mai-mini-choi-tet-gia-vai-chuc-nghin-dong-5002193.html",
+      "summary": "Giá giảm 20% so với năm ngoái, mỗi chậu mai mini hiện chỉ 60.000-80.000 đồng giúp nhà vườn tiêu thụ mạnh trong bối cảnh thị trường hoa Tết chưa khởi sắc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-06T23:00:00+07:00",
+      "fetched": "2026-01-07T08:25:34.471086+07:00"
     },
     {
       "id": "bf680b8256154c974e90fde6011a0710",
