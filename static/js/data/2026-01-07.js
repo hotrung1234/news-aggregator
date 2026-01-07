@@ -1,7 +1,157 @@
 window.newsData_2026_01_07 = {
   "date": "2026-01-07",
-  "lastUpdated": "2026-01-07T08:25:39.067448+07:00",
+  "lastUpdated": "2026-01-07T10:27:09.221521+07:00",
   "articles": [
+    {
+      "id": "a6e6c702a1b889e73a178f1879740e73",
+      "title": "Chủ sữa Kun báo lỗ, cổ đông vẫn nhận cổ tức tiền mặt 75%",
+      "link": "https://tuoitre.vn/chu-sua-kun-bao-lo-co-dong-van-nhan-co-tuc-tien-mat-75-20260106235713389.htm",
+      "summary": "Sữa Quốc tế Lof vừa công bố ngày chốt danh sách cổ đông để chi trả cổ tức tiền mặt đợt 2-2024 với tỉ lệ 25%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384830+07:00",
+      "fetched": "2026-01-07T10:26:57.384950+07:00"
+    },
+    {
+      "id": "c4b4ffa76cc1ce3871fe47677c938e37",
+      "title": "Cyclops, X-Men tái xuất đầy mạnh mẽ trong teaser  Avengers: Doomsday",
+      "link": "https://tuoitre.vn/cyclop-x-men-tai-xuat-day-manh-me-trong-teaser-avengers-doomsday-20260107085517626.htm",
+      "summary": "Teaser mới của Avengers: Doomsday đánh dấu màn tái xuất của loạt nhân vật X-Men quen thuộc thời Fox.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384700+07:00",
+      "fetched": "2026-01-07T10:26:57.384819+07:00"
+    },
+    {
+      "id": "c95c5a3f0f2f38254559a351030a9338",
+      "title": "Công an TP.HCM: Người tiếp tay tội phạm ở Campuchia 'dừng lập tức hành vi', sớm về nước trình diện",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-nguoi-tiep-tay-toi-pham-o-campuchia-dung-lap-tuc-hanh-vi-som-ve-nuoc-trinh-dien-20260107085129864.htm",
+      "summary": "Công an TP.HCM kêu gọi những người tham gia hoặc tiếp tay cho các đường dây tội phạm tại Campuchia lập tức dừng mọi hành vi vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384558+07:00",
+      "fetched": "2026-01-07T10:26:57.384686+07:00"
+    },
+    {
+      "id": "cad375b9d022487432cfd5719a527284",
+      "title": "Máy bay Vietnam Airlines hạ cánh khẩn cấp tại Ấn Độ để cấp cứu hành khách",
+      "link": "https://tuoitre.vn/may-bay-vietnam-airlines-ha-canh-khan-cap-tai-an-do-de-cap-cuu-hanh-khach-20260107090359181.htm",
+      "summary": "Chuyến bay từ Đức về Hà Nội phải chuyển hướng và hạ cánh khẩn cấp xuống sân bay Ấn Độ để cấp cứu hành khách gặp vấn đề sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384436+07:00",
+      "fetched": "2026-01-07T10:26:57.384546+07:00"
+    },
+    {
+      "id": "175d4648f6c790f2c79829f22e4ad511",
+      "title": "Reuters: Mỹ cảnh báo các mục tiêu tiếp theo ở Venezuela sau ông Nicolas Maduro",
+      "link": "https://tuoitre.vn/reuters-my-canh-bao-cac-muc-tieu-tiep-theo-o-venezuela-sau-ong-nicolas-maduro-20260107091548561.htm",
+      "summary": "Washington đã cảnh báo Bộ trưởng Nội vụ Venezuela sẽ là mục tiêu tiếp theo nếu ông không hợp tác với chính phủ lâm thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384313+07:00",
+      "fetched": "2026-01-07T10:26:57.384424+07:00"
+    },
+    {
+      "id": "670511e87e5863403deb23a1045648ce",
+      "title": "Xác định 4 cặp tứ kết Cúp bóng đá châu Phi 2025",
+      "link": "https://tuoitre.vn/xac-dinh-4-cap-tu-ket-cup-bong-da-chau-phi-2025-20260107090055993.htm",
+      "summary": "Sau loạt trận vòng 16 đội đầy kịch tính, danh sách 8 đội bóng mạnh nhất lọt vào tứ kết Cúp bóng đá châu Phi (AFCON) 2025 đã lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384183+07:00",
+      "fetched": "2026-01-07T10:26:57.384300+07:00"
+    },
+    {
+      "id": "3336a5a296630cc8a3b35b06c644dc53",
+      "title": "Trung Quốc tăng nhập sầu riêng Việt Nam, ngôi vương của Thái Lan bị đe dọa",
+      "link": "https://tuoitre.vn/trung-quoc-tang-nhap-sau-rieng-viet-nam-ngoi-vuong-cua-thai-lan-bi-de-doa-20260106125421508.htm",
+      "summary": "Thị phần sầu riêng của Việt Nam tại Trung Quốc tiếp tục tăng so với năm trước và sắp bằng Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.384059+07:00",
+      "fetched": "2026-01-07T10:26:57.384172+07:00"
+    },
+    {
+      "id": "b3cb67f7bf10384b247c5d4090ce8b7c",
+      "title": "Điệp viên hai mang làm sụp đổ mạng lưới tình báo Mỹ thời Chiến tranh Lạnh qua đời ở tuổi 84",
+      "link": "https://tuoitre.vn/diep-vien-hai-mang-lam-sup-do-mang-luoi-tinh-bao-my-thoi-chien-tranh-lanh-qua-doi-o-tuoi-84-2026010709281596.htm",
+      "summary": "Aldrich Ames, cựu sĩ quan của Cơ quan Tình báo Trung ương Mỹ (CIA), người bị kết án vì làm gián điệp cho Liên Xô, qua đời hôm 5-1 ở tuổi 84.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383932+07:00",
+      "fetched": "2026-01-07T10:26:57.384047+07:00"
+    },
+    {
+      "id": "44d56a750e2b1370ab43ba3f1e67d693",
+      "title": "'Ông trùm' sữa giả Hiup bị đề nghị 25-28 năm tù, phải nộp lại tiền thu lợi bất chính",
+      "link": "https://tuoitre.vn/ong-trum-sua-gia-hiup-bi-de-nghi-25-28-nam-tu-phai-nop-lai-tien-thu-loi-bat-chinh-2026010709305773.htm",
+      "summary": "\"Ông trùm\" sữa giả Hiup Hoàng Quang Thịnh (Chủ tịch Công ty Z Holding) bị đề nghị mức án cao nhất trong 18 người bị đưa ra xét xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383799+07:00",
+      "fetched": "2026-01-07T10:26:57.383919+07:00"
+    },
+    {
+      "id": "bebc4cc723ebb61f1a7da95910bfec33",
+      "title": "Tổng thống Trump tiết lộ bà Melania ghét điệu nhảy của chồng vì 'chẳng ra dáng tổng thống'",
+      "link": "https://tuoitre.vn/tong-thong-trump-tiet-lo-ba-melania-ghet-dieu-nhay-cua-chong-vi-chang-ra-dang-tong-thong-20260107091411529.htm",
+      "summary": "Dù bị vợ góp ý, Tổng thống Donald Trump vẫn nhảy vài động tác YMCA trước khi rời sân khấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383650+07:00",
+      "fetched": "2026-01-07T10:26:57.383785+07:00"
+    },
+    {
+      "id": "aab857332e770ef03a42bb84439bb60e",
+      "title": "Cơ quan báo chí chủ lực đa phương tiện có nhiều loại hình báo chí, cơ quan báo chí trực thuộc",
+      "link": "https://tuoitre.vn/co-quan-bao-chi-chu-luc-da-phuong-tien-co-nhieu-loai-hinh-bao-chi-co-quan-bao-chi-truc-thuoc-20260107092737958.htm",
+      "summary": "Sáng 7-1, Văn phòng Chủ tịch nước họp báo công bố 12 luật đã được Quốc hội thông qua tại kỳ họp thứ 10, trong đó có Luật Báo chí sửa đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383524+07:00",
+      "fetched": "2026-01-07T10:26:57.383638+07:00"
+    },
+    {
+      "id": "325c9c62f2db0f46aa7f2932711f900c",
+      "title": "Man City chốt thỏa thuận chiêu mộ Antoine Semenyo",
+      "link": "https://tuoitre.vn/man-city-chot-thoa-thuan-chieu-mo-antoine-semenyo-20260107093137088.htm",
+      "summary": "Man City gần như đã chính thức thức sở hữu Antoine Semenyo sau khi chấp nhận chi 65 triệu bảng giải phóng hợp đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383386+07:00",
+      "fetched": "2026-01-07T10:26:57.383513+07:00"
+    },
+    {
+      "id": "3cd4f5a5cd6156d9afe22ca5a7b0c1f9",
+      "title": "Số phận ông Maduro trước dấu hỏi lớn",
+      "link": "https://tuoitre.vn/so-phan-ong-maduro-truoc-dau-hoi-lon-20260107074455848.htm",
+      "summary": "Trước tòa án ở New York (Mỹ), Tổng thống Venezuela Nicolas Maduro tuyên bố mình bị \"bắt cóc\" và khẳng định ông là nhà lãnh đạo hợp pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383254+07:00",
+      "fetched": "2026-01-07T10:26:57.383374+07:00"
+    },
+    {
+      "id": "4321b2aa9fc6a6b93c2957b9453c8d25",
+      "title": "Cảnh báo việc rót tiền vào cổ phiếu dầu khí sau sự kiện Mỹ tập kích vào Venezuela",
+      "link": "https://tuoitre.vn/canh-bao-viec-rot-tien-vao-co-phieu-dau-khi-sau-su-kien-my-tap-kich-vao-venezuela-20260106220029985.htm",
+      "summary": "Chuyên gia từ Chứng khoán KBSV lưu ý nhà đầu tư không nên đầu cơ quá lớn vào cổ phiếu dầu khí chỉ dựa trên tin tức địa chính trị ngắn hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.383108+07:00",
+      "fetched": "2026-01-07T10:26:57.383240+07:00"
+    },
+    {
+      "id": "ff4243e5dbd4dfab7c474292a3cc0b29",
+      "title": "Nga điều tàu ngầm bảo vệ tàu bị Mỹ truy đuổi ngoài khơi Venezuela",
+      "link": "https://tuoitre.vn/nga-dieu-tau-ngam-bao-ve-tau-bi-my-truy-duoi-ngoai-khoi-venezuela-20260107094906396.htm",
+      "summary": "Căng thẳng Mỹ - Nga tiếp tục leo thang khi Nga điều một tàu ngầm cùng nhiều khí tài để hộ tống một tàu chở dầu bị Mỹ truy đuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T10:26:57.382877+07:00",
+      "fetched": "2026-01-07T10:26:57.383092+07:00"
+    },
     {
       "id": "919bccf84d62deee4b43aafd34c6f9a2",
       "title": "Hạ tầng cho xe điện: Mong để mắt tới chung cư cũ",
@@ -171,6 +321,386 @@ window.newsData_2026_01_07 = {
       "category": "Tổng hợp",
       "published": "2026-01-07T05:18:33.688661+07:00",
       "fetched": "2026-01-07T05:18:33.688881+07:00"
+    },
+    {
+      "id": "727073d7159c921439d73d91f71bd85a",
+      "title": "Vụ sữa HIUP giả: Chủ tịch Z Holding bị đề nghị đến 28 năm tù",
+      "link": "https://thanhnien.vn/vu-sua-hiup-gia-chu-tich-z-holding-bi-de-nghi-den-28-nam-tu-185260107095934604.htm",
+      "summary": "Chủ tịch Công ty Z Holding, doanh nghiệp có liên quan đến sản phẩm sữa HIUP giả, bị đề nghị đến 28 năm tù về 3 tội danh khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:26:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865107+07:00"
+    },
+    {
+      "id": "6dc9075457865421acd44bec7b38681b",
+      "title": "AMD dự báo nhu cầu về AI toàn cầu tăng 10.000 lần vào năm 2030",
+      "link": "https://thanhnien.vn/amd-du-bao-nhu-cau-ve-ai-toan-cau-tang-10000-lan-vao-nam-2030-185260106215122313.htm",
+      "summary": "Phát biểu tại CES 2026, CEO của AMD cảnh báo AI sẽ thúc đẩy nhu cầu xử lý toàn cầu tăng chưa từng có trong vòng 5 năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:25:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865273+07:00"
+    },
+    {
+      "id": "346b39cabec968e4fd1e983afe290b36",
+      "title": "Nữ diễn viên chuyên đóng vai bi kịch, nhiều nước mắt trên màn ảnh Việt là ai?",
+      "link": "https://thanhnien.vn/nu-dien-vien-chuyen-dong-vai-bi-kich-nhieu-nuoc-mat-tren-man-anh-viet-la-ai-185260107092024133.htm",
+      "summary": "Trong bộ phim truyền hình 'Bên dòng Cổ Chiên' dự kiến lên sóng trên THVL, Văn Phượng tiếp tục thử sức ở vai có chiều sâu tâm lý khi vướng vào mối quan hệ tình cảm đầy trắc trở với diễn viên Cao Minh Đạt và Thân Thúy Hà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:22:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865429+07:00"
+    },
+    {
+      "id": "83d45bf8731106970a26a7b553754f41",
+      "title": "Hà Tĩnh: Người dân bất an với dự án nhà máy điện rác đặt đầu nguồn nước",
+      "link": "https://thanhnien.vn/ha-tinh-nguoi-dan-bat-an-voi-du-an-nha-may-dien-rac-dat-dau-nguon-nuoc-185260106110415483.htm",
+      "summary": "Dự án nhà máy điện rác tại xã Hồng Lộc (tỉnh Hà Tĩnh) dù chưa triển khai xây dựng nhưng lại vấp phải sự phản ứng của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:19:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865583+07:00"
+    },
+    {
+      "id": "1a07bde3770f3ea23e0b6d97ba8aab34",
+      "title": "Hoa hậu Quế Anh biến hóa với tóc ngắn",
+      "link": "https://vnexpress.net/hoa-hau-que-anh-bien-hoa-voi-toc-ngan-5002433.html",
+      "summary": "Miss Grand Vietnam 2024 Quế Anh để tóc ngắn, diện trang phục gợi cảm, nổi loạn, khác hình ảnh nữ tính quen thuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:18:56+07:00",
+      "fetched": "2026-01-07T10:26:52.521372+07:00"
+    },
+    {
+      "id": "93d62fe5911539bbcd1da9fd699857b1",
+      "title": "Nhật Bản động đất 6,2 độ Richter, cảnh báo nguy cơ sạt lở diện rộng",
+      "link": "https://thanhnien.vn/nhat-ban-dong-dat-62-do-richter-canh-bao-nguy-co-sat-lo-dien-rong-185260107101801052.htm",
+      "summary": "Sáng 6.1, động đất mạnh xảy ra tại 2 tỉnh Shimane và Tottori của Nhật Bản khiến giới chức yêu cầu người dân cảnh giác cao độ khi nền địa chất suy yếu kết hợp với mưa lớn có thể gây sạt lở nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:18:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865760+07:00"
+    },
+    {
+      "id": "1a9ecf368c3aac0af542d366c92b7002",
+      "title": "Thêm trường kinh tế mở ngành Khoa học máy tính",
+      "link": "https://vnexpress.net/dai-hoc-thuong-mai-mo-nganh-khoa-hoc-may-tinh-tang-4-to-hop-xet-tuyen-5002610.html",
+      "summary": "Trường Đại học Thương mại (TMU) dự kiến mở mới 6 chương trình, tuyển sinh từ năm 2026, trong đó có Khoa học máy tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:17:39+07:00",
+      "fetched": "2026-01-07T10:26:52.521549+07:00"
+    },
+    {
+      "id": "6b6ce4e98822e6d218cd4a08c242b8f0",
+      "title": "VnExpress tiếp nhận báo giá gói bảo hiểm sức khỏe 2026",
+      "link": "https://vnexpress.net/vnexpress-tiep-nhan-bao-gia-goi-bao-hiem-suc-khoe-2026-5002718.html",
+      "summary": "Báo VnExpress tiếp nhận báo giá để xây dựng dự toán mua sắm gói bảo hiểm chăm sóc sức khỏe cho viên chức, người lao động trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:15:00+07:00",
+      "fetched": "2026-01-07T10:26:52.521731+07:00"
+    },
+    {
+      "id": "ca3bdb727261e2548169122290002887",
+      "title": "Jsol sẽ diễn loạt hit tại Tech Awards 2025",
+      "link": "https://vnexpress.net/jsol-se-dien-loat-hit-tai-tech-awards-2025-5001791.html",
+      "summary": "Ca sĩ Jsol sẽ trình diễn ca khúc \"Sao hạng A\",\"Độc thân\" tại Tech Awards 2025, ngày 8/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:13:54+07:00",
+      "fetched": "2026-01-07T10:26:52.521896+07:00"
+    },
+    {
+      "id": "fe674f0b6e4f3d1f9decc6e0876820e3",
+      "title": "5 năm 'học tại nhà' đầy ám ảnh của chàng trai Mỹ",
+      "link": "https://vnexpress.net/5-nam-hoc-tai-nha-day-am-anh-cua-chang-trai-my-5002671.html",
+      "summary": "Để con trai viết đẹp hơn, người mẹ bắt Stefan bò quanh nhà như trẻ sơ sinh khi cậu 12 tuổi. Đó chỉ là một phần trong \"giáo trình\" homeschooling kỳ quặc mà Stefan phải chịu đựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:06:16+07:00",
+      "fetched": "2026-01-07T10:26:52.522058+07:00"
+    },
+    {
+      "id": "98b8a88f62d39a26a0975d7e0d2feb42",
+      "title": "Trường Y dược - Đại học Đà Nẵng thông báo tuyển dụng viên chức năm 2025",
+      "link": "https://thanhnien.vn/truong-y-duoc-dai-hoc-da-nang-thong-bao-tuyen-dung-vien-chuc-nam-2025-185260107101141856.htm",
+      "summary": "Trường Y dược - Đại học Đà Nẵng thông báo tuyển dụng viên chức năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:04:00+07:00",
+      "fetched": "2026-01-07T10:26:55.865914+07:00"
+    },
+    {
+      "id": "57f8104c37808396202503fdee8549ba",
+      "title": "Bên trong nhà máy smartphone tự động hoá gần 100% của Xiaomi",
+      "link": "https://vnexpress.net/ben-trong-nha-may-smartphone-tu-dong-hoa-gan-100-cua-xiaomi-5002618.html",
+      "summary": "Nhà máy tại Bắc Kinh của Xiaomi đạt tỷ lệ tự động hóa 100% ở những công đoạn cốt lõi, vận hành bởi AI có khả năng tự đưa ra quyết định thay con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.522214+07:00"
+    },
+    {
+      "id": "3f64e700567a4e616f3cb1c69ba2a0ed",
+      "title": "Không béo phì vẫn bị gan nhiễm mỡ",
+      "link": "https://vnexpress.net/khong-beo-phi-van-bi-gan-nhiem-mo-5002710.html",
+      "summary": "Chị Linh, 33 tuổi, gan nhiễm mỡ dù chỉ số BMI đạt chuẩn, không có triệu chứng bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.522366+07:00"
+    },
+    {
+      "id": "53141590f1a34c62b65d386f11dbe311",
+      "title": "Vinamilk ra mắt sữa uống dinh dưỡng Optimum A2 Pro+",
+      "link": "https://vnexpress.net/vinamilk-ra-mat-sua-uong-dinh-duong-optimum-a2-pro-5002705.html",
+      "summary": "Sữa uống dinh dưỡng Vinamilk Optimum A2 Pro+ là sản phẩm đầu tiên của Vinamilk chứa đồng thời các thành phần đạm quý A2, 6 HMO, MFGM & DHA, chăm sóc trục não - ruột - miễn dịch của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.522525+07:00"
+    },
+    {
+      "id": "d899cbcdc370df8f82ac3cb75858ab9a",
+      "title": "LocknLock lập cú đúp tại Korea First Brand Awards 2026",
+      "link": "https://vnexpress.net/locknlock-lap-cu-dup-tai-korea-first-brand-awards-2026-5002704.html",
+      "summary": "LocknLock nhận hai giải về \"Hộp đựng kín khí\" và \"Dụng cụ nhà bếp\" tại Korea First Brand Awards 2026, ngày 6/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.522707+07:00"
+    },
+    {
+      "id": "b4a68bd6eb47d391feae379ae8cca648",
+      "title": "Bàn chân bẹt ảnh hưởng đến sự phát triển của trẻ như thế nào?",
+      "link": "https://vnexpress.net/ban-chan-bet-anh-huong-den-su-phat-trien-cua-tre-nhu-the-nao-5002696.html",
+      "summary": "Bàn chân bẹt khiến trẻ dễ vấp ngã, đau mỏi chân khi vận động, nếu không điều trị đúng, trẻ có thể lệch trục gối - hông, giảm sức bền, ảnh hưởng đến chiều cao, theo bác sĩ Gail.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.522881+07:00"
+    },
+    {
+      "id": "350ab71a07a2a4bccb29be1648914fe1",
+      "title": "Bac A Bank tặng tiền mặt cho người mở tài khoản thanh toán lần đầu",
+      "link": "https://vnexpress.net/bac-a-bank-tang-tien-mat-cho-nguoi-mo-tai-khoan-thanh-toan-lan-dau-5002457.html",
+      "summary": "Ngân hàng TMCP Bắc Á triển khai chương trình \"Mở tài khoản mới - Đón lộc tân xuân\", tặng đến 50.000 đồng tiền mặt cho khách hàng mở mới tài khoản và dịch vụ ngân hàng điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:52.523039+07:00"
+    },
+    {
+      "id": "2adce9c9832183c37c8e7cbf4a1c3eb0",
+      "title": "Phối đồ đồng bộ tinh tế, ấm áp cho ngày đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-do-dong-bo-tinh-te-am-ap-cho-ngay-dong-185260106165024548.htm",
+      "summary": "Trang phục đồng bộ với sự tương đồng về chất liệu, tông màu và phong cách chính là bí quyết riêng để mỗi quý cô thể hiện gu thời trang tinh tế, sành điệu mà vẫn ấm áp trong cái lạnh của mùa đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:26:55.866072+07:00"
+    },
+    {
+      "id": "350ab71a07a2a4bccb29be1648914fe1",
+      "title": "Bac A Bank tặng tiền mặt cho người mở tài khoản thanh toán lần đầu",
+      "link": "https://vnexpress.net/bac-a-bank-tang-tien-mat-cho-nguoi-mo-tai-khoan-thanh-toan-lan-dau-5002457.html",
+      "summary": "Ngân hàng TMCP Bắc Á triển khai chương trình \"Mở tài khoản mới - Đón lộc tân xuân\", tặng đến 50.000 đồng tiền mặt cho khách hàng mở mới tài khoản và dịch vụ ngân hàng điện tử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-07T03:00:00+07:00",
+      "fetched": "2026-01-07T10:27:00.480814+07:00"
+    },
+    {
+      "id": "1dd5be0a47a5f442c115603576fc86eb",
+      "title": "Nestlé thu hồi sữa bột tại 25 quốc gia nghi nhiễm độc tố",
+      "link": "https://vnexpress.net/nestle-thu-hoi-sua-bot-tai-25-quoc-gia-nghi-nhiem-doc-to-5002693.html",
+      "summary": "Tập đoàn Nestlé thu hồi nhiều lô sữa công thức dành cho trẻ em trên toàn thế giới vì nguy cơ nhiễm độc tố Cereulide, có thể gây nôn mửa và đau bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:54:16+07:00",
+      "fetched": "2026-01-07T10:26:52.523196+07:00"
+    },
+    {
+      "id": "14d4bf3b5b0b953c95011f7bad4eca4f",
+      "title": "5 cặp thực phẩm ăn cùng nhau tốt cho gan, ruột",
+      "link": "https://vnexpress.net/5-cap-thuc-pham-an-cung-nhau-tot-cho-gan-ruot-5002013.html",
+      "summary": "Nghệ kết hợp tiêu đen, cà chua với dầu ôliu, sữa chua và quả mọng giúp tối ưu lợi ích dinh dưỡng, tăng cường sức khỏe gan, ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:54:00+07:00",
+      "fetched": "2026-01-07T10:26:52.523352+07:00"
+    },
+    {
+      "id": "c6dcc2becf77133b65290125927590b1",
+      "title": "Thái Lan cảnh báo sẵn sàng hành động sau vụ nã cối từ Campuchia",
+      "link": "https://vnexpress.net/thai-lan-canh-bao-san-sang-hanh-dong-sau-vu-na-coi-tu-campuchia-5002666.html",
+      "summary": "Bangkok tuyên bố sẵn sàng phản ứng sau vụ đạn cối từ Campuchia bay qua biên giới, dù Phnom Penh khẳng định sự việc chỉ là tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:52:00+07:00",
+      "fetched": "2026-01-07T10:26:52.523501+07:00"
+    },
+    {
+      "id": "c6dcc2becf77133b65290125927590b1",
+      "title": "Thái Lan cảnh báo sẵn sàng hành động sau vụ nã cối từ Campuchia",
+      "link": "https://vnexpress.net/thai-lan-canh-bao-san-sang-hanh-dong-sau-vu-na-coi-tu-campuchia-5002666.html",
+      "summary": "Bangkok tuyên bố sẵn sàng phản ứng sau vụ đạn cối từ Campuchia bay qua biên giới, dù Phnom Penh khẳng định sự việc chỉ là tai nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T02:52:00+07:00",
+      "fetched": "2026-01-07T10:26:58.540058+07:00"
+    },
+    {
+      "id": "16fbb4fccf88e58fc97800f585e6e998",
+      "title": "Sở GD-ĐT TP.HCM bổ nhiệm hiệu trưởng, hiệu phó nhiều trường THPT",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-bo-nhiem-hieu-truong-hieu-pho-nhieu-truong-thpt-18526010708195709.htm",
+      "summary": "Ngày 7.1, Sở GD-ĐT TP.HCM tổ chức lễ công bố quyết định bổ nhiệm, thuyên chuyển hiệu trưởng, hiệu phó các trường phổ thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:51:00+07:00",
+      "fetched": "2026-01-07T10:26:55.866223+07:00"
+    },
+    {
+      "id": "5fa85c4537f91dab6c6d87d24a55f72a",
+      "title": "Ford: 'Triệu hồi sản phẩm kỷ lục thực chất là một điều tốt'",
+      "link": "https://vnexpress.net/ford-trieu-hoi-san-pham-ky-luc-thuc-chat-la-mot-dieu-tot-5002194.html",
+      "summary": "Theo quan điểm của Ford, 153 đợt triệu hồi mà hãng thực hiện trong 2025 không phản ánh sự cải thiện thực sự về chất lượng xe của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:50:37+07:00",
+      "fetched": "2026-01-07T10:26:52.523658+07:00"
+    },
+    {
+      "id": "629c349d46fa5091860c86156b0fa406",
+      "title": "AFC trực tiếp phỏng vấn HLV Kim Sang-sik, được tiết lộ bí quyết ‘tình huống cố định’ của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/afc-truc-tiep-phong-van-hlv-kim-sang-sik-duoc-tiet-lo-bi-quyet-tinh-huong-co-dinh-cua-u23-viet-nam-185260107094355721.htm",
+      "summary": "Các phóng viên của the-AFC.com (trang chủ Liên đoàn Bóng đá châu Á) đã hỏi trực tiếp HLV Kim Sang-sik về các tình huống cố định, dẫn đến 2 bàn thắng then chốt của U.23 Việt Nam trước U.23 Jordan tối 6.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:50:00+07:00",
+      "fetched": "2026-01-07T10:26:55.866393+07:00"
+    },
+    {
+      "id": "b6119bbfee96b6dcc036fb94eed39ce1",
+      "title": "Vợ ông Maduro 'bị thương' khi đặc nhiệm Mỹ đột kích",
+      "link": "https://vnexpress.net/vo-ong-maduro-bi-thuong-khi-dac-nhiem-my-dot-kich-5002636.html",
+      "summary": "Bà Flores, vợ ông Maduro, xuất hiện tại tòa án Mỹ với vết thương trên trán, được cho là do va vào cửa bọc thép trong lúc bị đặc nhiệm Mỹ đột kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T02:45:04+07:00",
+      "fetched": "2026-01-07T10:26:58.540251+07:00"
+    },
+    {
+      "id": "0c5803752af1e4422a494bebddc4c8fb",
+      "title": "Starbucks Việt Nam xin lỗi shipper vì sự cố đơn hàng giá 0 đồng",
+      "link": "https://thanhnien.vn/starbucks-viet-nam-xin-loi-shipper-vi-su-co-don-hang-gia-0-dong-185260107091931937.htm",
+      "summary": "Chiều 6.1, Starbucks Việt Nam đã đăng thông báo xin lỗi khách hàng và các tài xế công nghệ liên quan đến sự cố kỹ thuật khiến nhiều đơn hàng hiển thị giá 0 đồng và buộc phải hủy trong sáng cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:33:00+07:00",
+      "fetched": "2026-01-07T10:26:55.866728+07:00"
+    },
+    {
+      "id": "388d4d587025a5f8c264151c203d71b9",
+      "title": "Loạt nước châu Âu nhất trí đưa quân tới Ukraine sau ngừng bắn",
+      "link": "https://vnexpress.net/loat-nuoc-chau-au-nhat-tri-dua-quan-toi-ukraine-sau-ngung-ban-5002651.html",
+      "summary": "Các cường quốc châu Âu nhất trí về đảm bảo an ninh cho Ukraine, trong đó có đưa quân tới nước này, sau khi đạt lệnh ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T02:26:56+07:00",
+      "fetched": "2026-01-07T10:26:58.540418+07:00"
+    },
+    {
+      "id": "3484412a8ef857f8248f6cb45e5cc2f7",
+      "title": "Man City chiêu mộ Semenyo",
+      "link": "https://vnexpress.net/man-city-chieu-mo-semenyo-5002688.html",
+      "summary": "Man City đạt thỏa thuận chiêu mộ tiền đạo cánh Antoine Semenyo từ Bournemouth, sau khi kích hoạt điều khoản phá vỡ hợp đồng giá 88 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T02:10:16+07:00",
+      "fetched": "2026-01-07T10:27:09.214616+07:00"
+    },
+    {
+      "id": "cb54efbe3a99bbd792facea4f079f792",
+      "title": "Áp lực sau kỷ lục xuất khẩu 500 tỷ USD năm 2025",
+      "link": "https://vnexpress.net/ap-luc-sau-ky-luc-xuat-khau-500-ty-usd-nam-2025-5002440.html",
+      "summary": "Xuất khẩu gần 500 tỷ USD năm ngoái chủ yếu nhờ khối FDI trong khi doanh nghiệp nội địa gặp khó, với thách thức có thể kéo dài sang 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-07T02:08:54+07:00",
+      "fetched": "2026-01-07T10:27:00.480114+07:00"
+    },
+    {
+      "id": "9bf6828d1d1314e02c47725623fff040",
+      "title": "Giá Bitcoin hôm nay 7.1.2026: BTC sập, Việt Nam thí điểm tài sản mã hóa",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-712026-btc-sap-viet-nam-thi-diem-tai-san-ma-hoa-185260107072056022.htm",
+      "summary": "Giá Bitcoin bất ngờ sập mạnh từ 94.000 USD về 91.000 USD do lượng người bán tháo tăng, chặn đứng đà tăng của Bitcoin từ đầu năm đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:06:00+07:00",
+      "fetched": "2026-01-07T10:26:55.866879+07:00"
+    },
+    {
+      "id": "bce31429804ab43abbd408ce6e42049d",
+      "title": "Lego bán máy tính siêu nhỏ, hiện thực hóa tham vọng lớn nhất sau 50 năm",
+      "link": "https://thanhnien.vn/lego-ban-may-tinh-sieu-nho-hien-thuc-hoa-tham-vong-lon-nhat-sau-50-nam-185260106230052247.htm",
+      "summary": "Xuất hiện lần đầu tại CES 2026, Smart Brick là bước tiến mới của Lego khi đưa công nghệ vào viên gạch đồ chơi 2x4 quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:00:00+07:00",
+      "fetched": "2026-01-07T10:26:55.867025+07:00"
+    },
+    {
+      "id": "ad45da293c629dc1dd5e604192d51252",
+      "title": "Cảnh giác với chuyện khoe thưởng tết",
+      "link": "https://thanhnien.vn/canh-giac-voi-chuyen-khoe-thuong-tet-185251226155800547.htm",
+      "summary": "Thời điểm cuối năm, lướt mạng xã hội sẽ không khó để bắt gặp các bài đăng khoe thưởng tết. Người chụp ảnh màn hình chuyển khoản, người khoe bảng lương tháng 13, người đăng biên lai mua xe, sắm điện thoại mới, thậm chí công khai số tiền thưởng kèm dòng trạng thái đầy tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T02:00:00+07:00",
+      "fetched": "2026-01-07T10:26:55.867171+07:00"
+    },
+    {
+      "id": "9c4b0c81af64b48e9e236b5c2ab82d23",
+      "title": "Thái Lan tuyên bố phát hiện kho vũ khí trong sòng bạc Campuchia",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-phat-hien-kho-vu-khi-trong-song-bac-campuchia-5002649.html",
+      "summary": "Quân đội Thái Lan thông báo phát hiện kho vũ khí giấu trong sòng bạc Thmor Da của Campuchia, trong khi Phnom Penh bác bỏ thông tin này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T01:57:02+07:00",
+      "fetched": "2026-01-07T10:26:58.540585+07:00"
+    },
+    {
+      "id": "6923fe428563b29542494073d6353907",
+      "title": "Giá vàng hôm nay 7.1.2026: Tăng ngày thứ 3 liên tiếp",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-712026-tang-ngay-thu-3-lien-tiep-185260107084720304.htm",
+      "summary": "Giá vàng miếng SJC tăng ngày thứ 3 liên tiếp với tổng mức đi lên 6 triệu đồng/lượng. Những thông tin căng thẳng địa chính trị trên thế giới đang hỗ trợ cho vàng lên giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-07T01:53:00+07:00",
+      "fetched": "2026-01-07T10:26:55.867332+07:00"
+    },
+    {
+      "id": "468b6b87b33c29bd0ae2b70d3441f916",
+      "title": "Bão chấn thương tàn phá hàng thủ Man City",
+      "link": "https://vnexpress.net/bao-chan-thuong-tan-pha-hang-thu-man-city-5002676.html",
+      "summary": "Khủng hoảng nhân sự hàng thủ của Man City thêm nghiêm trọng khi Ruben Dias sẽ phải nghỉ 6 tuần vì chấn thương gân kheo, còn Josko Gvardiol phẫu thuật xương chày.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T01:52:47+07:00",
+      "fetched": "2026-01-07T10:27:09.215285+07:00"
+    },
+    {
+      "id": "40ce8c89fad617b9f0f3ec5bf08d3825",
+      "title": "FIFA có thể cấm vận Malaysia bất chấp phán quyết từ Tòa quốc tế",
+      "link": "https://vnexpress.net/fifa-co-the-cam-van-malaysia-bat-chap-phan-quyet-tu-toa-quoc-te-5002623.html",
+      "summary": "LĐBĐ thế giới có thể can thiệp, thậm chí tiếp quản LĐBĐ Malaysia để khôi phục hệ thống sau vụ gian lận 7 cầu thủ nhập tịch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-07T01:49:25+07:00",
+      "fetched": "2026-01-07T10:27:09.214807+07:00"
     },
     {
       "id": "d303baa0bc57302e369ccbbf7ea007d8",
@@ -363,6 +893,16 @@ window.newsData_2026_01_07 = {
       "fetched": "2026-01-07T08:25:39.061857+07:00"
     },
     {
+      "id": "7aeea8c8a94062a41f354e3dfa1e5f6a",
+      "title": "Giá vàng thế giới, chứng khoán Mỹ tiếp tục tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-my-tiep-tuc-tang-5002637.html",
+      "summary": "Mỗi ounce vàng chạm 4.500 USD, trong khi chỉ số S&P 500 và DJIA tiếp tục lên mức cao mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-07T01:05:29+07:00",
+      "fetched": "2026-01-07T10:27:00.480300+07:00"
+    },
+    {
       "id": "d1f2da4ed93ab75b2216f1fc9768072a",
       "title": "Trung Quốc đáp trả Nhật Bản về Đài Loan, cấm xuất khẩu hàng lưỡng dụng",
       "link": "https://thanhnien.vn/trung-quoc-dap-tra-nhat-ban-ve-dai-loan-cam-xuat-khau-hang-luong-dung-185260107073706425.htm",
@@ -411,6 +951,16 @@ window.newsData_2026_01_07 = {
       "category": "Kinh doanh",
       "published": "2026-01-07T01:00:00+07:00",
       "fetched": "2026-01-07T08:25:34.471422+07:00"
+    },
+    {
+      "id": "42174cbba330be409cbd436f84f3f428",
+      "title": "Màn hình iPhone Fold hé lộ tại CES 2026",
+      "link": "https://vnexpress.net/man-hinh-iphone-fold-he-lo-tai-ces-2026-5002613.html",
+      "summary": "Công nghệ tấm nền OLED gập không nếp gấp, được cho là sẽ trang bị trên iPhone Fold và Galaxy Z Fold8, vừa xuất hiện ngắn ngủi tại triển lãm CES 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-07T01:00:00+07:00",
+      "fetched": "2026-01-07T10:27:07.269697+07:00"
     },
     {
       "id": "698bf81459c9a61c1a33c9414a5d9af0",
@@ -571,6 +1121,16 @@ window.newsData_2026_01_07 = {
       "category": "Thế giới",
       "published": "2026-01-07T00:23:23+07:00",
       "fetched": "2026-01-07T08:25:33.058481+07:00"
+    },
+    {
+      "id": "5224986fafb3aa2cb6ae8e37bf7d1ccf",
+      "title": "Ông Trump: Venezuela sẽ giao nộp 30-50 triệu thùng dầu cho Mỹ",
+      "link": "https://vnexpress.net/ong-trump-venezuela-se-giao-nop-30-50-trieu-thung-dau-cho-my-5002634.html",
+      "summary": "Tổng thống Trump cho biết Venezuela sẽ giao nộp cho Mỹ 30-50 triệu thùng dầu thuộc diện trừng phạt để bán theo giá thị trường, nhưng không nêu khung thời gian.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-07T00:23:23+07:00",
+      "fetched": "2026-01-07T10:26:58.541240+07:00"
     },
     {
       "id": "7be5174c39394d4de38485f6abd0cada",
@@ -1321,6 +1881,16 @@ window.newsData_2026_01_07 = {
       "category": "Thể thao",
       "published": "2026-01-06T13:30:56+07:00",
       "fetched": "2026-01-07T01:31:11.278130+07:00"
+    },
+    {
+      "id": "f2761a5fcd42c5685b6952c19477347e",
+      "title": "HLV Kim Sang-sik tự hào về 'bóng cố định' của Việt Nam",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-tu-hao-ve-bong-co-dinh-cua-viet-nam-5002578.html",
+      "summary": "HLV Kim Sang-sik hài lòng khi Việt Nam tận dụng tốt các tình huống cố định để đánh bại Jordan 2-0 ở lượt ra quân giải U23 châu Á 2026, tối 6/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-06T13:30:56+07:00",
+      "fetched": "2026-01-07T10:27:09.216522+07:00"
     },
     {
       "id": "10c131b083fdc2d55db65560564c93f6",
