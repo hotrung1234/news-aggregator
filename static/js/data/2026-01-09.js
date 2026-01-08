@@ -1,7 +1,27 @@
 window.newsData_2026_01_09 = {
   "date": "2026-01-09",
-  "lastUpdated": "2026-01-09T03:21:44.398819+07:00",
+  "lastUpdated": "2026-01-09T05:18:48.274833+07:00",
   "articles": [
+    {
+      "id": "1d8ae208d3bb10cbf6529b7a3754da64",
+      "title": "Thời tiết hôm nay 9-1: Bắc Bộ rét 5 độ C, Nam Bộ buổi sáng cũng dưới 20 độ C",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-1-bac-bo-ret-5-do-c-nam-bo-buoi-sang-cung-duoi-20-do-c-20260108162707446.htm",
+      "summary": "Hôm nay cả nước nằm trong khối không khí lạnh mạnh, nhiệt độ giảm rất sâu, phía Bắc dưới 5 độ C. Nam Bộ dù ở xa nhưng cũng chịu ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:18:40.655566+07:00",
+      "fetched": "2026-01-09T05:18:40.655696+07:00"
+    },
+    {
+      "id": "243a5b4d5704b96d341f2a43c08ae842",
+      "title": "Dư luận Thái Lan ngao ngán vì thẻ đỏ ngớ ngẩn của đội U23",
+      "link": "https://tuoitre.vn/du-luan-thai-lan-ngao-ngan-vi-the-do-ngo-ngan-cua-doi-u23-20260109035618786.htm",
+      "summary": "\"Bài học đắt giá\", báo Thairath giật tít khi nói về thẻ đỏ thay đổi cục diện trận đấu mà Phon-Ek Maneekorn phải nhận trong trận U23 Thái Lan thua ngược Úc 1-2 tối 8-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T05:18:40.655337+07:00",
+      "fetched": "2026-01-09T05:18:40.655551+07:00"
+    },
     {
       "id": "030d77f60db7de4436ad3de1d4d1a4fd",
       "title": "Đặc phái viên của Tổng Bí thư Tô Lâm đến Vientiane chúc mừng Đại hội Đảng lần thứ XII của Lào",
@@ -151,6 +171,96 @@ window.newsData_2026_01_09 = {
       "category": "Tổng hợp",
       "published": "2026-01-09T01:24:48.959851+07:00",
       "fetched": "2026-01-09T01:24:48.960074+07:00"
+    },
+    {
+      "id": "5684d7b99d8b68629584e678b91364a4",
+      "title": "Quá trình trỗi dậy và sụp đổ của ông trùm lừa đảo Chen Zhi",
+      "link": "https://vnexpress.net/qua-trinh-troi-day-va-sup-do-cua-ong-trum-lua-dao-chen-zhi-5003097.html",
+      "summary": "Chen Zhi xây dựng hình ảnh doanh nhân thành đạt ở Campuchia, nhưng khi các đường dây lừa đảo bị bóc trần, ông trùm bị bắt và dẫn độ về Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T22:00:00+07:00",
+      "fetched": "2026-01-09T05:18:42.541556+07:00"
+    },
+    {
+      "id": "8a530ce6620242c35018aa99441ae9d2",
+      "title": "6 thiết bị xuất sắc tại Tech Awards 2025",
+      "link": "https://vnexpress.net/6-thiet-bi-xuat-sac-tai-tech-awards-2025-5003062.html",
+      "summary": "Vivo X300 Pro chiến thắng ở hạng mục smartphone xuất sắc, trong khi Xiaomi lập cú đúp giải thưởng tại Tech Awards 2025 ngày 8/1 ở TP HCM.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-08T22:00:00+07:00",
+      "fetched": "2026-01-09T05:18:47.037344+07:00"
+    },
+    {
+      "id": "f5f8effe3618bcbaaabab0453de01fa8",
+      "title": "Dembele giúp PSG đoạt Siêu Cup Pháp",
+      "link": "https://vnexpress.net/dembele-giup-psg-doat-sieu-cup-phap-5003531.html",
+      "summary": "Quả Bóng Vàng 2025 Ousmane Dembele ghi bàn mở tỷ số, khi PSG hòa Marseille 2-2 qua 90 phút rồi thắng 4-1 ở lượt loạt luân lưu trận tranh Siêu Cup Pháp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T21:32:08+07:00",
+      "fetched": "2026-01-09T05:18:48.269943+07:00"
+    },
+    {
+      "id": "59aaf8f2b99db7516399a26c14588b0e",
+      "title": "Báo Anh: 'Amorim có thể thay Mourinho tại Benfica'",
+      "link": "https://vnexpress.net/bao-anh-amorim-co-the-thay-mourinho-tai-benfica-5003483.html",
+      "summary": "Theo truyền thông Anh, HLV Ruben Amorim có thể thế chỗ Jose Mourinho ở Benfica, chỉ ba ngày sau khi bị Man Utd sa thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T21:00:00+07:00",
+      "fetched": "2026-01-09T05:18:29.181325+07:00"
+    },
+    {
+      "id": "59aaf8f2b99db7516399a26c14588b0e",
+      "title": "Báo Anh: 'Amorim có thể thay Mourinho tại Benfica'",
+      "link": "https://vnexpress.net/bao-anh-amorim-co-the-thay-mourinho-tai-benfica-5003483.html",
+      "summary": "Theo truyền thông Anh, HLV Ruben Amorim có thể thế chỗ Jose Mourinho ở Benfica, chỉ ba ngày sau khi bị Man Utd sa thải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T21:00:00+07:00",
+      "fetched": "2026-01-09T05:18:48.269767+07:00"
+    },
+    {
+      "id": "4ba33be51bdb3d86828c814cdc4a3cce",
+      "title": "Ronaldo không cứu nổi Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-khong-cuu-noi-al-nassr-5003530.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn phạt đền, nhưng Al Nassr vẫn thua Al Qadisiyah 1-2 ngay trên sân nhà ở vòng 14 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T20:32:13+07:00",
+      "fetched": "2026-01-09T05:18:29.181506+07:00"
+    },
+    {
+      "id": "4ba33be51bdb3d86828c814cdc4a3cce",
+      "title": "Ronaldo không cứu nổi Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-khong-cuu-noi-al-nassr-5003530.html",
+      "summary": "Tiền đạo Cristiano Ronaldo ghi bàn phạt đền, nhưng Al Nassr vẫn thua Al Qadisiyah 1-2 ngay trên sân nhà ở vòng 14 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T20:32:13+07:00",
+      "fetched": "2026-01-09T05:18:48.270107+07:00"
+    },
+    {
+      "id": "c9ed826033d82a3a390fa84ffbc4a755",
+      "title": "7 món ăn uống giúp giảm mỡ gan tự nhiên",
+      "link": "https://vnexpress.net/7-mon-an-uong-giup-giam-mo-gan-tu-nhien-5003343.html",
+      "summary": "Hạt óc chó, dầu ô liu cung cấp axit béo omega-3 cùng chất chống oxy hóa, góp phần giảm viêm và hạn chế tích tụ mỡ trong gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T20:00:00+07:00",
+      "fetched": "2026-01-09T05:18:29.181670+07:00"
+    },
+    {
+      "id": "5ad7424d8468ee8f9cadbffcb79f555c",
+      "title": "Gần 2,4 triệu tỷ đồng từ các dự án bất động sản chờ khơi thông",
+      "link": "https://vnexpress.net/gan-2-4-trieu-ty-dong-tu-cac-du-an-bat-dong-san-cho-khoi-thong-5003391.html",
+      "summary": "Gần 3.000 dự án bất động sản trên cả nước đang gặp vướng pháp lý với tổng vốn khoảng 2,4 triệu tỷ đồng, đây là nguồn cung tiềm năng nếu được tháo gỡ giai đoạn tới, theo Thứ trưởng Xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:28:20+07:00",
+      "fetched": "2026-01-09T05:18:29.181860+07:00"
     },
     {
       "id": "8484aee192f1c1ddb4bbe2746cd09263",
