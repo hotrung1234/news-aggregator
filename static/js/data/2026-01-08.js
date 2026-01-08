@@ -1,7 +1,157 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T17:21:46.968375+07:00",
+  "lastUpdated": "2026-01-08T19:40:14.737199+07:00",
   "articles": [
+    {
+      "id": "1c4a3c2640889af987353f9476ef63a1",
+      "title": "Bí thư Lê Ngọc Quang: Doanh nghiệp thất bại thì Đà Nẵng không thành công, xin lỗi vì các vướng mắc",
+      "link": "https://tuoitre.vn/bi-thu-le-ngoc-quang-doanh-nghiep-that-bai-thi-da-nang-khong-thanh-cong-xin-loi-vi-cac-vuong-mac-20260108171221776.htm",
+      "summary": "Phát biểu mở đầu buổi gặp mặt nhà đầu tư, cộng đồng doanh nghiệp chiều 8-1, Bí thư Thành ủy Đà Nẵng Lê Ngọc Quang nói sẽ làm hết sức để tạo điều kiện cho doanh nghiệp hoạt động, nhưng các doanh nghiệp cũng cần làm đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.049020+07:00",
+      "fetched": "2026-01-08T19:40:05.049134+07:00"
+    },
+    {
+      "id": "cd840ac12ab76cbc2309d910fab2e72e",
+      "title": "Mới tăng giá dịp cuối năm, loạt công ty xi măng thông báo tăng giá đợt nữa",
+      "link": "https://tuoitre.vn/moi-tang-gia-dip-cuoi-nam-loat-cong-ty-xi-mang-thong-bao-tang-gia-dot-nua-20260108164051893.htm",
+      "summary": "Thị trường xi măng trong nước sắp bước vào đợt điều chỉnh giá mới khi hàng loạt doanh nghiệp thông báo tăng giá bán sản phẩm từ giữa tháng 1-2026, với mức tăng phổ biến khoảng 100.000 đồng mỗi tấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048900+07:00",
+      "fetched": "2026-01-08T19:40:05.049009+07:00"
+    },
+    {
+      "id": "d02fbfa63dd07b2a8e4c3d60fe0c3dbf",
+      "title": "Thị trường bất động sản TP.HCM phục hồi sau giai đoạn suy giảm kéo dài",
+      "link": "https://tuoitre.vn/thi-truong-bat-dong-san-tp-hcm-phuc-hoi-sau-giai-doan-suy-giam-keo-dai-20260108165250508.htm",
+      "summary": "Sau giai đoạn suy giảm kéo dài, thị trường bất động sản TP.HCM đã ghi nhận sự phục hồi, khi hoạt động kinh doanh chuyển sang tăng trưởng dương từ cuối năm 2024 và tiếp tục đà tăng trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048779+07:00",
+      "fetched": "2026-01-08T19:40:05.048889+07:00"
+    },
+    {
+      "id": "f0362b17c2ddeff0fe65287bf751777c",
+      "title": "Giai đoạn 2026-2030, TP.HCM và Tây Ninh ưu tiên đầu tư quốc lộ 50B, đường Võ Văn Kiệt nối dài",
+      "link": "https://tuoitre.vn/giai-doan-2026-2030-tp-hcm-va-tay-ninh-uu-tien-dau-tu-quoc-lo-50b-duong-vo-van-kiet-noi-dai-20260108162938533.htm",
+      "summary": "Giai đoạn 2026-2030, TP.HCM và tỉnh Tây Ninh thống nhất ưu tiên đầu tư quốc lộ 50B, đường Võ Văn Kiệt nối dài cùng các dự án giao thông kết nối quan trọng khác để tăng liên kết giữa hai địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048655+07:00",
+      "fetched": "2026-01-08T19:40:05.048768+07:00"
+    },
+    {
+      "id": "f6cc35e61791b6c33b868f21c3713977",
+      "title": "Tổng thống Colombia chấp thuận lời mời gặp ông Trump",
+      "link": "https://tuoitre.vn/tong-thong-colombia-chap-thuan-loi-moi-gap-ong-trump-20260108171828096.htm",
+      "summary": "Sau cuộc điện đàm kéo dài hơn một giờ, Tổng thống Gustavo Petro đã chấp nhận lời mời gặp Tổng thống Trump tại Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048530+07:00",
+      "fetched": "2026-01-08T19:40:05.048643+07:00"
+    },
+    {
+      "id": "d74bb9e65acfb7ad184497df63aae571",
+      "title": "Phạt 114 triệu đồng 3 người hút cát lậu xuyên đêm trên sông Thạch Hãn",
+      "link": "https://tuoitre.vn/phat-114-trieu-dong-3-nguoi-hut-cat-lau-xuyen-dem-tren-song-thach-han-20260108170549934.htm",
+      "summary": "Ba người liên quan đến việc hút cát lậu trên sông Thạch Hãn và mua bán, tàng trữ cát trái phép vừa bị xử phạt hành chính hơn 114 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048397+07:00",
+      "fetched": "2026-01-08T19:40:05.048515+07:00"
+    },
+    {
+      "id": "a2aa2cf36f2e186c2ae4640745f15d07",
+      "title": "Giới thiệu 145 người ứng cử đại biểu Quốc hội hoạt động chuyên trách khóa XVI ở Trung ương",
+      "link": "https://tuoitre.vn/gioi-thieu-145-nguoi-ung-cu-dai-bieu-quoc-hoi-hoat-dong-chuyen-trach-khoa-xvi-o-trung-uong-20260108172307258.htm",
+      "summary": "Các đại biểu tại hội nghị đã xem xét, thống nhất giới thiệu 145 người ứng cử làm đại biểu Quốc hội hoạt động chuyên trách khóa XVI ở Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048272+07:00",
+      "fetched": "2026-01-08T19:40:05.048385+07:00"
+    },
+    {
+      "id": "38bdfc8581af0f9fe0ad264633ae12ae",
+      "title": "10 công trình thanh niên tiêu biểu toàn quốc năm 2025",
+      "link": "https://tuoitre.vn/10-cong-trinh-thanh-nien-tieu-bieu-toan-quoc-nam-2025-20260108164734779.htm",
+      "summary": "Hàng chục nghìn căn nhà được sửa chữa, hàng trăm cây cầu được xây mới, hàng trăm nghìn lượt đoàn viên tham gia các hoạt động tình nguyện, chuyển đổi số, an sinh xã hội… là những con số nổi bật từ 10 công trình thanh niên tiêu biểu toàn quốc năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048129+07:00",
+      "fetched": "2026-01-08T19:40:05.048260+07:00"
+    },
+    {
+      "id": "0bfc197c6b4cad05bc8edc9fc88f4987",
+      "title": "Chợ Nga ở tòa nhà Viễn thông TP.HCM sắp hoạt động chính thức",
+      "link": "https://tuoitre.vn/cho-nga-o-toa-nha-vien-thong-tp-hcm-sap-hoat-dong-chinh-thuc-20260108163627763.htm",
+      "summary": "Công trình sửa chữa tại tòa nhà Viễn thông TP.HCM, trong đó có 'Chợ Nga' đang hoàn thiện. Đơn vị cho thuê mặt bằng đang thực hiện các thủ tục pháp lý, để đủ điều kiện đưa vào kinh doanh chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.048006+07:00",
+      "fetched": "2026-01-08T19:40:05.048118+07:00"
+    },
+    {
+      "id": "d8d48f2bff3d5b154e78ff0314e8b34b",
+      "title": "Malaysia xử trắng án tổng thư ký liên đoàn bị nghi làm giả hồ sơ cầu thủ",
+      "link": "https://tuoitre.vn/malaysia-xu-trang-an-tong-thu-ky-lien-doan-bi-nghi-lam-gia-ho-so-cau-thu-20260108170925292.htm",
+      "summary": "Chiều 8-1, Liên đoàn Bóng đá Malaysia (FAM) đã tổ chức họp báo công bố sự trở lại của Tổng thư ký Noor Azman Rahman, người bị đình chỉ hoạt động vì nghi đứng sau vụ làm giả hồ sơ 7 cầu thủ nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047878+07:00",
+      "fetched": "2026-01-08T19:40:05.047994+07:00"
+    },
+    {
+      "id": "d6f759e341d10dc4fe7ac1878789dc1b",
+      "title": "Khai thác và thông xe 3.345km đường bộ cao tốc, vượt mục tiêu 3.000km đề ra",
+      "link": "https://tuoitre.vn/khai-thac-va-thong-xe-3-345km-duong-bo-cao-toc-vuot-muc-tieu-3-000km-de-ra-20260108165759546.htm",
+      "summary": "Đến nay cả nước đã hoàn thành đưa vào khai thác và thông xe kỹ thuật 3.345km tuyến chính cao tốc, 458km nút giao và đường dẫn (tổng số là 3.803km) - vượt chỉ tiêu 3.000km đề ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047745+07:00",
+      "fetched": "2026-01-08T19:40:05.047866+07:00"
+    },
+    {
+      "id": "4e774a40e9c594b82d054feb49a8dc39",
+      "title": "Bệnh nhân 88 tuổi ung thư dạ dày hồi phục ngoạn mục sau phẫu thuật tại Vinmec Nha Trang",
+      "link": "https://tuoitre.vn/benh-nhan-88-tuoi-ung-thu-da-day-hoi-phuc-ngoan-muc-sau-phau-thuat-tai-vinmec-nha-trang-20260108170425522.htm",
+      "summary": "Chỉ 5 ngày sau ca phẫu thuật cắt bán phần dạ dày điều trị ung thư giai đoạn muộn tại Vinmec Nha Trang, một bệnh nhân 88 tuổi đã có thể vận động, ăn uống, sinh hoạt bình thường và sẵn sàng xuất viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047612+07:00",
+      "fetched": "2026-01-08T19:40:05.047729+07:00"
+    },
+    {
+      "id": "e80c7462407c4e26e8bdaf4bbb7745d2",
+      "title": "Xử lý nghiêm việc đưa tin xấu độc, sai sự thật về Đại hội Đảng XIV",
+      "link": "https://tuoitre.vn/xu-ly-nghiem-viec-dua-tin-xau-doc-sai-su-that-ve-dai-hoi-dang-xiv-20260108160949108.htm",
+      "summary": "Theo Thiếu tướng Nguyễn Quốc Toản, công an các đơn vị, địa phương sẽ chủ động đấu tranh với các hoạt động chống phá, đồng thời phát hiện, xử lý nghiêm việc đưa tin xấu độc, xuyên tạc, đưa tin sai sự thật về Đại hội Đảng XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047481+07:00",
+      "fetched": "2026-01-08T19:40:05.047600+07:00"
+    },
+    {
+      "id": "6fd6b2cd8ec5664a32ad4af090384b4d",
+      "title": "Thẻ VIB - Khẳng định vị thế và vai trò định hình xu thế mới",
+      "link": "https://tuoitre.vn/the-vib-khang-dinh-vi-the-va-vai-tro-dinh-hinh-xu-the-moi-2026010514313654.htm",
+      "summary": "Nếu trong nhiều năm, cuộc cạnh tranh chủ yếu xoay quanh số lượng thẻ phát hành và độ phủ ưu đãi, thì nay, tâm điểm đang dịch chuyển rõ rệt sang trải nghiệm, cá nhân hóa và mức độ làm chủ của người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047341+07:00",
+      "fetched": "2026-01-08T19:40:05.047468+07:00"
+    },
+    {
+      "id": "3330c7a3ae63c2cc079835a4641732d6",
+      "title": "Tin tức giá xe: Hàng loạt hãng xe giảm giá mạnh đầu năm, nhiều mẫu giảm tới hàng trăm triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-hang-loat-hang-xe-giam-gia-manh-dau-nam-nhieu-mau-giam-toi-hang-tram-trieu-dong-20260108100701795.htm",
+      "summary": "Nhiều thương hiệu xe đến từ Nhật Bản, Hàn Quốc, Trung Quốc và Đức đang đồng loạt triển khai các chương trình giảm giá sâu trong tháng 1-2026, với mức ưu đãi từ hàng chục triệu tới hàng trăm triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T19:40:05.047152+07:00",
+      "fetched": "2026-01-08T19:40:05.047326+07:00"
+    },
     {
       "id": "d3eae413a303749882c265dfb11b1b0a",
       "title": "Ông Thongloun Sisoulith tái đắc cử chức Tổng Bí thư Đảng Nhân dân cách mạng Lào",
@@ -453,6 +603,226 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T13:30:54.440298+07:00"
     },
     {
+      "id": "64b9cc39ba22a9015a7c63489a52564b",
+      "title": "'Thanh Niên là nơi neo đậu của tin thật, của những thứ tin được'",
+      "link": "https://thanhnien.vn/thanh-nien-la-noi-neo-dau-cua-tin-that-cua-nhung-thu-tin-duoc-185260108190235933.htm",
+      "summary": "Trong giai đoạn hiện nay, khi tin giả, mạng xã hội và trí tuệ nhân tạo bùng nổ, các tờ báo như Thanh Niên càng có vị trí quan trọng. Đây là nơi neo đậu của tin thật, của những thứ tin được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:38:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918061+07:00"
+    },
+    {
+      "id": "36fc445fbaefffafcb3bf14d49c7fc71",
+      "title": "Đêm nay, TP.HCM lạnh nhất kể từ đầu đông",
+      "link": "https://thanhnien.vn/dem-nay-tphcm-lanh-nhat-ke-tu-dau-dong-185260108193203147.htm",
+      "summary": "Với mức nhiệt độ thấp nhất chỉ 18 độ C, dự báo đêm nay (8.1), TP.HCM lạnh nhất kể từ đầu mùa lạnh năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:36:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918245+07:00"
+    },
+    {
+      "id": "38963e14499eab4414543790f9017c10",
+      "title": "Bí thư Đà Nẵng: 'Đồng hành nhưng không buông lỏng, hỗ trợ nhưng không dung túng'",
+      "link": "https://thanhnien.vn/bi-thu-da-nang-dong-hanh-nhung-khong-buong-long-ho-tro-nhung-khong-dung-tung-185260108183052451.htm",
+      "summary": "Đó là khẳng định của ông Lê Ngọc Quang, Bí thư Thành ủy Đà Nẵng tại hội nghị gặp mặt doanh nghiệp, nhà đầu tư trên địa bàn thành phố diễn ra vào chiều nay (8.1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:36:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918403+07:00"
+    },
+    {
+      "id": "cb9e1f779443eac4b6939ae7d3c2a6d9",
+      "title": "Quảng Ngãi: Tạm giữ số lượng lớn dầu ăn, mỡ heo đã qua sử dụng",
+      "link": "https://thanhnien.vn/quang-ngai-tam-giu-so-luong-lon-dau-an-mo-heo-da-qua-su-dung-185260108163702728.htm",
+      "summary": "Công an xã Phước Giang (Quảng Ngãi) tạm giữ hơn 1,5 tấn dầu ăn và 390 kg mỡ heo đã qua sử dụng cùng 100 kg nhớt thải là chất thải nguy hại để xử lý theo quy định của pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:34:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918557+07:00"
+    },
+    {
+      "id": "6f1a8f92b99f884bd22bd3f2f5a58af1",
+      "title": "40 năm Báo Thanh Niên: Điểm tựa của những cuộc đời gian khó, hồi sinh vùng lũ",
+      "link": "https://thanhnien.vn/40-nam-bao-thanh-nien-diem-tua-cua-nhung-cuoc-doi-gian-kho-hoi-sinh-vung-lu-185260108183744042.htm",
+      "summary": "40 năm qua, Báo Thanh Niên không chỉ là tiếng nói của diễn đàn trẻ mà còn trở thành người bạn đồng hành, điểm tựa vững chãi nhất cho những số phận trong cơn bĩ cực mà còn là cầu nối hồi sinh vùng biên giới bị tàn phá sau thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:32:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918710+07:00"
+    },
+    {
+      "id": "08fca125ddefcc8fcea7dc22eca37ee8",
+      "title": "Gen Z dẫn đầu xu hướng nhảy việc, lao động trên 45 tuổi bị cắt giảm nhiều nhất",
+      "link": "https://thanhnien.vn/gen-z-dan-dau-xu-huong-nhay-viec-lao-dong-tren-45-tuoi-bi-cat-giam-nhieu-nhat-185260108160416469.htm",
+      "summary": "Trong khi nhóm lao động trên 45 tuổi bị cắt giảm nhiều nhất thì Gen Z chủ động thay đổi công việc nhiều nhất, theo Báo cáo thị trường tuyển dụng 2025 - 2026 của TopCV Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:30:00+07:00",
+      "fetched": "2026-01-08T19:40:03.918861+07:00"
+    },
+    {
+      "id": "284f025182246d6f09df0d7e05046a60",
+      "title": "Đâu là vị trí tốt nhất để cắm sạc pin điện thoại qua đêm?",
+      "link": "https://thanhnien.vn/dau-la-vi-tri-tot-nhat-de-cam-sac-pin-dien-thoai-qua-dem-185260107080655475.htm",
+      "summary": "Điện thoại đã trở thành vật bất ly thân với nhiều người, từ đó hình thành thói quen phổ biến là đặt máy trên tủ đầu giường, cạnh gối hoặc cắm sạc suốt đêm khi ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:26:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919016+07:00"
+    },
+    {
+      "id": "d9c50305b7e77fcbb9c38a771533ba0f",
+      "title": "Đến đầu năm 2026, có bao nhiêu chương trình đào tạo đạt chuẩn quốc tế?",
+      "link": "https://thanhnien.vn/den-dau-nam-2026-co-bao-nhieu-chuong-trinh-dao-tao-dat-chuan-quoc-te-185260108174352263.htm",
+      "summary": "Cục Quản lý chất lượng (Bộ GD-ĐT) vừa công bố danh sách các chương trình đào tạo đạt tiêu chuẩn chất lượng giáo dục trong nước và quốc tế tính đến ngày 31.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:20:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919171+07:00"
+    },
+    {
+      "id": "ffdb32f1f03047b11ecfffebcb948a2e",
+      "title": "Làn sóng chỉ trích khi Mỹ rút khỏi công ước khí hậu LHQ",
+      "link": "https://vnexpress.net/lan-song-chi-trich-khi-my-rut-khoi-cong-uoc-khi-hau-lhq-5003335.html",
+      "summary": "Giới chuyên gia cảnh báo ông Trump đang \"tự làm hại\" nước Mỹ khi rút khỏi công ước nền tảng cho hàng loạt hợp tác khí hậu toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T12:14:04+07:00",
+      "fetched": "2026-01-08T19:40:06.924164+07:00"
+    },
+    {
+      "id": "723f01c621a9ffdea5e2943dfd1cfd2c",
+      "title": "Những công nghệ đột phá vừa xuất hiện tại CES 2026",
+      "link": "https://thanhnien.vn/nhung-cong-nghe-dot-pha-vua-xuat-hien-tai-ces-2026-185260108113849918.htm",
+      "summary": "Robot hút bụi leo cầu thang, tai nghe tích hợp camera AI, laptop cuộn hay TV không viền màn hình là những thiết bị công nghệ ấn tượng vừa trình diễn tại CES 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:11:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919348+07:00"
+    },
+    {
+      "id": "c2a8733ede56e36dff78ee9f6670d485",
+      "title": "Người Việt chi gần 1.400 tỷ đồng nghe nhạc năm 2025",
+      "link": "https://vnexpress.net/nguoi-viet-chi-gan-1-400-ty-dong-nghe-nhac-nam-2025-5003453.html",
+      "summary": "Doanh thu thị trường nhạc số Việt Nam đạt hơn 1.370 tỷ đồng trong năm ngoái, đứng thứ 6 Đông Nam Á, tạo điều kiện cho ngành concert phát triển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-08T12:08:28+07:00",
+      "fetched": "2026-01-08T19:40:08.796558+07:00"
+    },
+    {
+      "id": "256d61b0decde6c214b20ae36deb3471",
+      "title": "Tây Ninh khẳng định vị thế với 16 doanh nghiệp lớn được xếp hạng",
+      "link": "https://thanhnien.vn/tay-ninh-khang-dinh-vi-the-voi-16-doanh-nghiep-lon-duoc-xep-hang-185260108180603787.htm",
+      "summary": "Tây Ninh tiếp tục được vinh danh trong Top 10 địa phương hấp dẫn doanh nghiệp lớn năm 2025 và có 16 doanh nghiệp được xếp hạng. Đây là năm thứ hai liên tiếp tỉnh thu hút vốn FDI kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:06:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919496+07:00"
+    },
+    {
+      "id": "02edf5582360e733c7ef63e5f0502b4e",
+      "title": "Nhật Bản phản đối Trung Quốc khoan khí đốt ở biển Hoa Đông",
+      "link": "https://thanhnien.vn/nhat-ban-phan-doi-trung-quoc-khoan-khi-dot-o-bien-hoa-dong-185260108185812607.htm",
+      "summary": "Nhật Bản ngày 8.1 cho biết đã gửi công hàm phản đối tới Trung Quốc về hoạt động của một tàu khoan di động trong khu vực giàu trữ lượng khí đốt ở biển Hoa Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:05:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919643+07:00"
+    },
+    {
+      "id": "823e844ba7d6290ed74bbf2e2af70af2",
+      "title": "Giới thiệu đại tướng Phan Văn Giang ứng cử ĐBQH khóa XVI",
+      "link": "https://thanhnien.vn/gioi-thieu-dai-tuong-phan-van-giang-ung-cu-dbqh-khoa-xvi-185260108183119477.htm",
+      "summary": "Chiều nay 8.1, Văn phòng Bộ Quốc phòng tổ chức hội nghị lấy ý kiến cử tri nơi công tác đối với đại tướng Phan Văn Giang, Ủy viên Bộ Chính trị, Phó bí thư Quân ủy T.Ư, Bộ trưởng Bộ Quốc phòng, đại biểu Quốc hội (ĐBQH) khóa XV, người được giới thiệu ứng cử ĐBQH khóa XVI, nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:01:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919797+07:00"
+    },
+    {
+      "id": "9a49e90352419f3e6139bdcecc5bc117",
+      "title": "Công an TP.HCM triệt phá đường dây cung cấp khí cười cho nhiều quán bar, nhà hàng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-cung-cap-khi-cuoi-cho-nhieu-quan-bar-nha-hang-185260108175219027.htm",
+      "summary": "Công an TP.HCM triệt phá đường dây buôn bán khí N₂O (khí cười) quy mô lớn, giao dịch qua tin nhắn mã hóa, hoạt động liên tỉnh với số tiền thu lợi bất chính gần 106 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:01:00+07:00",
+      "fetched": "2026-01-08T19:40:03.919949+07:00"
+    },
+    {
+      "id": "716fdc918b0952ce0553df94d3c7175d",
+      "title": "TP.HCM tăng tốc nhà ở xã hội, dự kiến khởi công hơn 5.500 căn trước ngày 19.1",
+      "link": "https://thanhnien.vn/tphcm-tang-toc-nha-o-xa-hoi-du-kien-khoi-cong-hon-5500-can-truoc-ngay-191-185260108174954513.htm",
+      "summary": "TP.HCM đã chuẩn bị quỹ đất, hoàn thiện thủ tục để thu hút đầu tư, phấn đấu phát triển 28.500 căn nhà ở xã hội năm 2026, dự kiến khởi công hơn 5.500 căn trước 19.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T12:00:00+07:00",
+      "fetched": "2026-01-08T19:40:03.920098+07:00"
+    },
+    {
+      "id": "2ed0a7064ab2254c20353d052fe96e3e",
+      "title": "Bộ Công an: Xử lý nghiêm hành vi đưa tin xấu độc, xuyên tạc về Đại hội XIV",
+      "link": "https://thanhnien.vn/bo-cong-an-xu-ly-nghiem-hanh-vi-dua-tin-xau-doc-xuyen-tac-ve-dai-hoi-xiv-18526010818305493.htm",
+      "summary": "Chiều 8.1, tại họp báo Chính phủ, thiếu tướng Nguyễn Quốc Toản, Chánh văn phòng, người phát ngôn Bộ Công an, đã thông tin về công tác đảm bảo an ninh cho Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:56:00+07:00",
+      "fetched": "2026-01-08T19:40:03.920261+07:00"
+    },
+    {
+      "id": "b427df17767ec9056cb1d77c910269c1",
+      "title": "Triệt phá đường dây bán khí cười 'khủng' ở TP HCM",
+      "link": "https://vnexpress.net/triet-pha-duong-day-ban-khi-cuoi-khung-o-tp-hcm-5003476.html",
+      "summary": "Công an ập vào kho tập kết ở phường Phú Thuận do Trần Tuấn Kiệt, 31 tuổi, cầm đầu, thu giữ hơn 1.560 bình kim loại chứa khí N2O, 3 kho bồn lớn dung tích khoảng 30 tấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:46:25+07:00",
+      "fetched": "2026-01-08T19:40:00.187470+07:00"
+    },
+    {
+      "id": "5868c82b042859faabb9464fe759c6ba",
+      "title": "Ông Trump nêu thời hạn Mỹ 'giám sát Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-han-my-giam-sat-venezuela-5003468.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ sẽ giám sát trực tiếp Venezuela trong thời gian lâu hơn nhiều so với mức một năm, kết hợp với tái thiết nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:44:06+07:00",
+      "fetched": "2026-01-08T19:40:00.187651+07:00"
+    },
+    {
+      "id": "5868c82b042859faabb9464fe759c6ba",
+      "title": "Ông Trump nêu thời hạn Mỹ 'giám sát Venezuela'",
+      "link": "https://vnexpress.net/ong-trump-neu-thoi-han-my-giam-sat-venezuela-5003468.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ sẽ giám sát trực tiếp Venezuela trong thời gian lâu hơn nhiều so với mức một năm, kết hợp với tái thiết nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T11:44:06+07:00",
+      "fetched": "2026-01-08T19:40:06.924356+07:00"
+    },
+    {
+      "id": "6e19e76e43da9b44a0ae9f7eb008355e",
+      "title": "Ông Trump muốn cấm doanh nghiệp mua gom nhà để cho thuê",
+      "link": "https://vnexpress.net/ong-trump-muon-cam-doanh-nghiep-mua-gom-nha-de-cho-thue-5003399.html",
+      "summary": "Ông Trump cho biết đang xúc tiến việc cấm các công ty Phố Wall mua nhà ở để cho thuê, nhằm kéo giảm giá bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:42:30+07:00",
+      "fetched": "2026-01-08T19:40:00.187813+07:00"
+    },
+    {
+      "id": "6e19e76e43da9b44a0ae9f7eb008355e",
+      "title": "Ông Trump muốn cấm doanh nghiệp mua gom nhà để cho thuê",
+      "link": "https://vnexpress.net/ong-trump-muon-cam-doanh-nghiep-mua-gom-nha-de-cho-thue-5003399.html",
+      "summary": "Ông Trump cho biết đang xúc tiến việc cấm các công ty Phố Wall mua nhà ở để cho thuê, nhằm kéo giảm giá bất động sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-08T11:42:30+07:00",
+      "fetched": "2026-01-08T19:40:08.796732+07:00"
+    },
+    {
       "id": "c57810b8ac61b4b491a2fb278d463355",
       "title": "Indonesia sẽ chơi đẹp dưới thời HLV Herdman",
       "link": "https://tuoitre.vn/indonesia-se-choi-dep-duoi-thoi-hlv-herdman-20260108100758439.htm",
@@ -601,6 +971,126 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-08T11:37:22.665574+07:00",
       "fetched": "2026-01-08T11:37:22.665780+07:00"
+    },
+    {
+      "id": "f75cef4a08d02aab78158a9292498a47",
+      "title": "Cuộc sống ở thành phố béo phì của Mỹ",
+      "link": "https://vnexpress.net/cuoc-song-o-thanh-pho-beo-phi-cua-my-5003037.html",
+      "summary": "Thành phố McAllen tại Mỹ đối mặt khủng hoảng y tế khi gần một nửa cư dân béo phì do thói quen lạm dụng thức ăn nhanh và thiếu không gian đi bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:30:00+07:00",
+      "fetched": "2026-01-08T19:40:00.187969+07:00"
+    },
+    {
+      "id": "18440bdaae25fd616b50c3fe7c476fe0",
+      "title": "Người mới chạy bộ làm gì để vượt qua tự ti nơi đông người",
+      "link": "https://vnexpress.net/nguoi-moi-chay-bo-vuot-qua-tu-ti-noi-dong-nguoi-5002909.html",
+      "summary": "Chuẩn bị trang phục và tâm thế phù hợp có thể giúp người mới chạy bộ thoát nỗi sợ bị chú ý khi tập luyện nơi đông người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:30:00+07:00",
+      "fetched": "2026-01-08T19:40:00.188122+07:00"
+    },
+    {
+      "id": "eddab32b4ea6198396333953781dc582",
+      "title": "Mèo tam thể nhận chức trưởng ga tàu ở Nhật Bản",
+      "link": "https://vnexpress.net/meo-tam-the-nhan-chuc-truong-ga-tau-o-nhat-ban-5003452.html",
+      "summary": "Yontama vừa được bổ nhiệm làm mèo trưởng ga thứ ba của một tuyến đường sắt ở tỉnh Wakayama để thay thế “mèo tiền nhiệm” đã qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:06:44+07:00",
+      "fetched": "2026-01-08T19:40:00.188294+07:00"
+    },
+    {
+      "id": "828491b42cb89d97a6af81886b62d33f",
+      "title": "Vợ chồng tôi nuôi con giúp việc học Y suốt 6 năm",
+      "link": "https://vnexpress.net/tu-thien-vo-chong-toi-hua-tai-tro-hoc-phi-6-nam-nganh-y-cho-con-gai-co-giup-viec-5003319.html",
+      "summary": "Con gái cô giúp việc nhà tôi trúng tuyển ngành Y nhưng gia đình khó khăn vì bố mất sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:00:00+07:00",
+      "fetched": "2026-01-08T19:40:00.188449+07:00"
+    },
+    {
+      "id": "e85cbe1664635cdab13c07afec731b0a",
+      "title": "Máy đo 3P bắt nhịp đà tăng trưởng của công nghệ CGM",
+      "link": "https://vnexpress.net/may-do-3p-bat-nhip-da-tang-truong-cua-cong-nghe-cgm-5003443.html",
+      "summary": "Cập nhật chỉ số đường huyết mỗi ba phút, sử dụng tiếng Việt, máy đo đường huyết liên tục (CGM) 3P ngày càng được bệnh nhân tiểu đường, người thân và bác sĩ quan tâm tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T11:00:00+07:00",
+      "fetched": "2026-01-08T19:40:00.188603+07:00"
+    },
+    {
+      "id": "71ef22f17e41558b26fe242d9c441c58",
+      "title": "Thái Lan 1-0 Australia (H1): Thẻ đỏ ngay sau bàn thắng",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-australia-5003375.html",
+      "summary": "Thái Lan gặp Australia ở trận ra quân bảng D vòng chung kết U23 châu Á 2026 trên sân Al Shabab ở Riyadh, Arab Saudi, vào lúc 18h30 hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:55:06+07:00",
+      "fetched": "2026-01-08T19:40:00.188759+07:00"
+    },
+    {
+      "id": "71ef22f17e41558b26fe242d9c441c58",
+      "title": "Thái Lan 1-2 Australia (H1): Thua ngược chóng vánh",
+      "link": "https://vnexpress.net/u23-thai-lan-v-u23-australia-5003375.html",
+      "summary": "Thái Lan mở tỷ số ở phút thứ 8, nhưng mất người chỉ ba phút sau trước Australia ở lượt ra quân bảng D vòng chung kết U23 châu Á 2026 trên sân Al Shabab ở Arab Saudi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T10:55:06+07:00",
+      "fetched": "2026-01-08T19:40:14.725380+07:00"
+    },
+    {
+      "id": "797d94d08b4887a36b871c8cabaa3d29",
+      "title": "'Bài học khi tôi bê đồ ăn mời 4 thanh niên trong quán nhậu'",
+      "link": "https://vnexpress.net/an-toan-ve-sinh-thuc-pham-cho-bieu-thuc-pham-trong-quan-nhau-5003423.html",
+      "summary": "'Khi người bạn góp ý, tôi mới hiểu vì sao bốn thanh niên không cảm ơn'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:41:37+07:00",
+      "fetched": "2026-01-08T19:40:00.188916+07:00"
+    },
+    {
+      "id": "f7f194b95a2af7b94bf461878d20f3ee",
+      "title": "Công an TP HCM triệu tập 2 người chia sẻ video giả 'Quyền Linh bị bắt'",
+      "link": "https://vnexpress.net/cong-an-tp-hcm-trieu-tap-2-nguoi-chia-se-video-gia-quyen-linh-bi-bat-5003450.html",
+      "summary": "Cảnh sát triệu tập 2 người dùng Facebook đã đăng tải video do AI làm với nội dung \"nghệ sĩ Quyền Linh bị Công an TP HCM bắt tạm giam\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:36:48+07:00",
+      "fetched": "2026-01-08T19:40:00.189070+07:00"
+    },
+    {
+      "id": "123cbd6b80f5365477ba4b5dcbb4c023",
+      "title": "Hơn 100 xe máy bị phạt vì chạy vào đường riêng xe đạp ở TP HCM",
+      "link": "https://vnexpress.net/hon-100-xe-may-bi-phat-vi-chay-vao-duong-rieng-xe-dap-o-tp-hcm-5003454.html",
+      "summary": "Sau một tuần đưa vào khai thác làn xe đạp trên đường Mai Chí Thọ (TP Thủ Đức cũ), CSGT đã xử phạt hơn 100 xe máy vì vi phạm làn đường riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:35:22+07:00",
+      "fetched": "2026-01-08T19:40:00.189251+07:00"
+    },
+    {
+      "id": "21b29869e529e3069d87a38c9385bbe4",
+      "title": "Thưởng thức bò nguyên tảng tại Bò Tơ 68",
+      "link": "https://vnexpress.net/thuong-thuc-bo-nguyen-tang-tai-bo-to-68-4998350.html",
+      "summary": "Bò Tơ 68 chuyên các món chế biến từ thịt bò non với lựa chọn đa dạng, hợp nhóm bạn, gia đình hoặc đoàn khách du lịch đến Phú Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:30:00+07:00",
+      "fetched": "2026-01-08T19:40:00.189416+07:00"
+    },
+    {
+      "id": "c5591f7bc26dd5d30724364127bb2e0e",
+      "title": "Thêm một người tử vong do đám cháy nhà ở Hà Đông",
+      "link": "https://vnexpress.net/them-mot-nguoi-tu-vong-do-dam-chay-nha-o-ha-dong-5003449.html",
+      "summary": "Chủ căn nhà bị cháy ở phường Hà Đông, người đã nhảy từ tầng 6 xuống mái nhà bên cạnh, tử vong tại viện chiều nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:28:08+07:00",
+      "fetched": "2026-01-08T19:40:00.189632+07:00"
     },
     {
       "id": "4fb0fdea49450ffddb3fa9496e018ab2",
@@ -753,6 +1243,26 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T10:27:22.606183+07:00"
     },
     {
+      "id": "182fcb3ad2684cd92c8ab6fbcb0ab21a",
+      "title": "Bịa chuyện được ưu tiên mua đất, chiếm đoạt 14 tỷ đồng",
+      "link": "https://vnexpress.net/bia-chuyen-duoc-uu-tien-mua-dat-chiem-doat-14-ty-dong-5003435.html",
+      "summary": "Hoàng Thị Thanh Tú, 45 tuổi, dựng chuyện được quyền ưu tiên mua đất tại dự án khu đô thị ở Nha Trang, lừa khách hàng đặt cọc để chiếm đoạt 14 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T10:27:11+07:00",
+      "fetched": "2026-01-08T19:40:00.189794+07:00"
+    },
+    {
+      "id": "26688d12e3195eb7202e70ef88f472d6",
+      "title": "Việt Nam mong muốn tiếp tục thúc đẩy hợp tác với Venezuela",
+      "link": "https://vnexpress.net/viet-nam-mong-muon-tiep-tuc-thuc-day-hop-tac-voi-venezuela-5003430.html",
+      "summary": "Người phát ngôn Bộ Ngoại giao cho biết Việt Nam duy trì quan hệ truyền thống tốt đẹp với Venezuela và mong muốn tiếp tục thúc đẩy hợp tác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T10:22:35+07:00",
+      "fetched": "2026-01-08T19:40:06.924517+07:00"
+    },
+    {
       "id": "f6314225a221ba808982984bfdc2150e",
       "title": "Xả súng hàng loạt bên ngoài đám tang tại nhà thờ ở Mỹ",
       "link": "https://thanhnien.vn/xa-sung-hang-loat-ben-ngoai-dam-tang-tai-nha-tho-o-my-185260108152021316.htm",
@@ -881,6 +1391,16 @@ window.newsData_2026_01_08 = {
       "category": "Kinh doanh",
       "published": "2026-01-08T09:58:39+07:00",
       "fetched": "2026-01-08T17:21:41.147353+07:00"
+    },
+    {
+      "id": "2f90bf27b401e9057d7b61b3208ed854",
+      "title": "Khoảnh khắc ông trùm Chen Zhi bị dẫn độ về Trung Quốc",
+      "link": "https://vnexpress.net/khoanh-khac-ong-trum-chen-zhi-bi-dan-do-ve-trung-quoc-5003422.html",
+      "summary": "Truyền thông Trung Quốc công bố hình ảnh lực lượng an ninh áp giải Chen Zhi về nước sau khi ông trùm bị giới chức Campuchia bắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T09:58:27+07:00",
+      "fetched": "2026-01-08T19:40:06.924676+07:00"
     },
     {
       "id": "964885833be32f4f151d5669786e1e39",
