@@ -1,7 +1,157 @@
 window.newsData_2026_01_08 = {
   "date": "2026-01-08",
-  "lastUpdated": "2026-01-08T11:37:28.943251+07:00",
+  "lastUpdated": "2026-01-08T13:31:02.520040+07:00",
   "articles": [
+    {
+      "id": "0858925638df44d04f703af08767b6c4",
+      "title": "20 địa phương đạt GRDP từ 8%, IMF, WB đánh giá cao triển vọng tăng trưởng của Việt Nam",
+      "link": "https://tuoitre.vn/20-dia-phuong-dat-grdp-tu-8-imf-wb-danh-gia-cao-trien-vong-tang-truong-cua-viet-nam-20260108113226273.htm",
+      "summary": "Thông tin tại Hội nghị Chính phủ với địa phương sáng 8-1, Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng cho biết tình hình kinh tế - xã hội năm 2025 đạt nhiều kết quả quan trọng, hoàn thành và vượt 15/15 chỉ tiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.442068+07:00",
+      "fetched": "2026-01-08T13:30:54.442183+07:00"
+    },
+    {
+      "id": "7ac9671b2137ea6fd7ce45c7b7064d95",
+      "title": "Ngày mai, Nam Bộ sẽ lạnh 17-20 độ C, ứng dụng điện thoại dự báo TP.HCM 16 độ C",
+      "link": "https://tuoitre.vn/ngay-mai-nam-bo-se-lanh-17-20-do-c-ung-dung-dien-thoai-du-bao-tp-hcm-16-do-c-20260108112201283.htm",
+      "summary": "Hôm nay thời tiết TP.HCM và Nam Bộ bị chi phối bởi không khí lạnh, trời se mát, ngày mai nhiệt độ tiếp tục giảm sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441943+07:00",
+      "fetched": "2026-01-08T13:30:54.442057+07:00"
+    },
+    {
+      "id": "8c175623e8f5188c377a31df2c8cef49",
+      "title": "Cảnh vệ bảo vệ VIP, cảnh sát và khí tài hiện đại tổng duyệt bảo vệ Đại hội Đảng XIV",
+      "link": "https://tuoitre.vn/canh-ve-bao-ve-vip-canh-sat-va-khi-tai-hien-dai-tong-duyet-bao-ve-dai-hoi-dang-xiv-20260108112931236.htm",
+      "summary": "Các lực lượng tinh nhuệ thuộc Bộ Công an và Công an TP Hà Nội và dàn xe đặc chủng với khí tài hiện đại xuất hiện trong lễ tổng duyệt cho nhiệm vụ bảo vệ an toàn cho Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441815+07:00",
+      "fetched": "2026-01-08T13:30:54.441931+07:00"
+    },
+    {
+      "id": "e65402e0bd59c1ac7b2fc29841103640",
+      "title": "Cựu Cục trưởng nói 'không biết sai ở đâu' trong hậu kiểm nhà máy của ông trùm thực phẩm giả",
+      "link": "https://tuoitre.vn/cuu-cuc-truong-noi-khong-biet-sai-o-dau-trong-hau-kiem-nha-may-cua-ong-trum-thuc-pham-gia-20260108113025757.htm",
+      "summary": "Tự bào chữa, cựu Cục trưởng Cục An toàn thực phẩm nói \"không biết sai ở đâu\" trong quá trình cấp giấy GMP và hậu kiểm nhà máy của \"ông trùm\" thực phẩm giả Nguyễn Năng Mạnh. Ông cùng cấp dưới nhận hơn 1 tỉ từ Mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441669+07:00",
+      "fetched": "2026-01-08T13:30:54.441802+07:00"
+    },
+    {
+      "id": "9fc42a2d94eec13d9f12265b55d28a55",
+      "title": "Thực hư video lính Mỹ 'đổ bộ' chiếm tàu treo cờ Nga đang lan truyền trên mạng?",
+      "link": "https://tuoitre.vn/thuc-hu-video-linh-my-do-bo-chiem-tau-treo-co-nga-dang-lan-truyen-tren-mang-20260108103646487.htm",
+      "summary": "Mạng xã hội đang xuất hiện nhiều video được dùng để tung tin Mỹ tiến hành đổ quân, chiếm giữ tàu chở dầu Bella-1 (tên cũ của tàu Marinera), tuy nhiên những đoạn video này không liên quan đến chiến dịch thực tế vừa diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441544+07:00",
+      "fetched": "2026-01-08T13:30:54.441657+07:00"
+    },
+    {
+      "id": "8d18c6779b54753cff9b0cc0303cf409",
+      "title": "HLV Mourinho chỉ trích học trò gay gắt sau trận thua bạc nhược",
+      "link": "https://tuoitre.vn/hlv-mourinho-chi-trich-hoc-tro-gay-gat-sau-tran-thua-bac-nhuoc-2026010811481099.htm",
+      "summary": "Sau thất bại bạc nhược 1-3 trước Braga tại bán kết Cúp Liên đoàn Bồ Đào Nha vào tối 7-1, HLV Jose Mourinho đã không ngần ngại dùng những lời lẽ nặng nề để chỉ trích chính các học trò của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441418+07:00",
+      "fetched": "2026-01-08T13:30:54.441532+07:00"
+    },
+    {
+      "id": "af963fd02fa861a0aad036c2be51dbe1",
+      "title": "Núi lửa Mayon 'thức giấc', Philippines khẩn cấp sơ tán gần 3.000 người",
+      "link": "https://tuoitre.vn/nui-lua-mayon-thuc-giac-philippines-khan-cap-so-tan-gan-3-000-nguoi-20260108092454432.htm",
+      "summary": "Philippines đã nâng mức cảnh báo đối với núi lửa Mayon, một điểm du lịch nổi tiếng, lên cấp 3 và gấp rút sơ tán gần 3.000 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441290+07:00",
+      "fetched": "2026-01-08T13:30:54.441406+07:00"
+    },
+    {
+      "id": "2080efb849febaf29ef7326270f04c25",
+      "title": "Tổng thống Putin bất ngờ xuất hiện trong phim hoạt hình thiếu nhi Nga",
+      "link": "https://tuoitre.vn/tong-thong-putin-bat-ngo-xuat-hien-trong-phim-hoat-hinh-thieu-nhi-nga-20260108120211162.htm",
+      "summary": "Một quan chức hãng phim cho biết việc Tổng thống Nga Vladimir Putin xuất hiện trong bộ phim hoạt hình thiếu nhi nước này sẽ là một hình thức “quyền lực mềm”, góp phần quảng bá nước Nga và văn hóa Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441163+07:00",
+      "fetched": "2026-01-08T13:30:54.441279+07:00"
+    },
+    {
+      "id": "943e714f9b1f1dd68a5f61420421a379",
+      "title": "HLV Tottenham bị chỉ trích dữ dội vì uống nước bằng ly Arsenal",
+      "link": "https://tuoitre.vn/hlv-tottenham-bi-chi-trich-du-doi-vi-uong-nuoc-bang-ly-arsenal-20260108115630503.htm",
+      "summary": "Trước trận Tottenham gặp Bournemouth, HLV Tottenham - Thomas Frank (người Đan Mạch) bị ghi lại khoảnh khắc cầm một cốc cà phê có logo của Arsenal. Bức ảnh này nhanh chóng gây ra tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.441035+07:00",
+      "fetched": "2026-01-08T13:30:54.441151+07:00"
+    },
+    {
+      "id": "4e639213ed0b7975ced33098a493bff1",
+      "title": "Nghi phạm vụ tra tấn nam sinh Hàn Quốc tới chết tại Campuchia bị bắt ở Thái Lan",
+      "link": "https://tuoitre.vn/nghi-pham-vu-tra-tan-nam-sinh-han-quoc-toi-chet-tai-campuchia-bi-bat-o-thai-lan-20260108115955582.htm",
+      "summary": "Nghi phạm là một người đàn ông Trung Quốc 42 tuổi, bị tình nghi cầm đầu đường dây lừa đảo xuyên quốc gia tại Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440891+07:00",
+      "fetched": "2026-01-08T13:30:54.441024+07:00"
+    },
+    {
+      "id": "72b06530544cf546ad71d4ce9164f84c",
+      "title": "Bacillus cereus nguy hiểm thế nào khiến Nestlé thu hồi sữa tại hơn 40 quốc gia?",
+      "link": "https://tuoitre.vn/bacillus-cereus-nguy-hiem-the-nao-khien-nestle-thu-hoi-sua-tai-hon-40-quoc-gia-20260108114226839.htm",
+      "summary": "Đến ngày 8-1, Tập đoàn Nestlé thông báo thu hồi nhiều lô sữa công thức dành cho trẻ nhỏ tại hơn 40 quốc gia và vùng lãnh thổ. Nguyên nhân được xác định là do nguy cơ tồn tại cereulid, một loại độc tố do vi khuẩn Bacillus cereus sinh ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440752+07:00",
+      "fetched": "2026-01-08T13:30:54.440878+07:00"
+    },
+    {
+      "id": "9345f4d0c24dd0ab5e11708ffb140b10",
+      "title": "TP.HCM 'đầu tàu' vẫn thiếu gần 20.000 phòng học, 'gỡ' thế nào?",
+      "link": "https://tuoitre.vn/tp-hcm-dau-tau-van-thieu-gan-20-000-phong-hoc-go-the-nao-20260108121420292.htm",
+      "summary": "Tại hội thảo về nghị quyết 71, các chuyên gia chỉ ra điểm nghẽn lớn của giáo dục TP.HCM là thiếu gần 20.000 phòng học, gây áp lực sĩ số và chất lượng dạy học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440602+07:00",
+      "fetched": "2026-01-08T13:30:54.440739+07:00"
+    },
+    {
+      "id": "974adee8ee490c1c8abf2443635555e8",
+      "title": "Ông Dương Minh Dũng làm Trưởng Ban Tuyên giáo và Dân vận Tỉnh ủy Đồng Nai",
+      "link": "https://tuoitre.vn/ong-duong-minh-dung-lam-truong-ban-tuyen-giao-va-dan-van-tinh-uy-dong-nai-20260108120744535.htm",
+      "summary": "Ban Thường vụ Tỉnh ủy Đồng Nai vừa công bố quyết định điều động, bổ nhiệm ông Dương Minh Dũng, Bí thư Đảng ủy, Chủ tịch HĐND xã Long Thành giữ chức Trưởng Ban Tuyên giáo và Dân vận Tỉnh ủy Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440457+07:00",
+      "fetched": "2026-01-08T13:30:54.440590+07:00"
+    },
+    {
+      "id": "8f81b387b0d4ee60d5aa04ecd3d55276",
+      "title": "Nghi phạm hiếp dâm ở Hà Nội bị bắt tại Hà Tĩnh trên đường bỏ trốn",
+      "link": "https://tuoitre.vn/nghi-pham-hiep-dam-o-ha-noi-bi-bat-tai-ha-tinh-tren-duong-bo-tron-20260108114749914.htm",
+      "summary": "Sau khi thực hiện hành vi hiếp dâm ở TP Hà Nội, Hồ Đức Bình trên đường bỏ trốn vào Nam thì bị công an ở Hà Tĩnh bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440313+07:00",
+      "fetched": "2026-01-08T13:30:54.440445+07:00"
+    },
+    {
+      "id": "8a0885c2fd82249683313eb4a9587afd",
+      "title": "Ô tô tự lái do VinFast sản xuất trang bị vô lăng tự động gập, màn hình tự trượt khi xe di chuyển",
+      "link": "https://tuoitre.vn/o-to-tu-lai-do-vinfast-san-xuat-trang-bi-vo-lang-tu-dong-gap-man-hinh-tu-truot-khi-xe-di-chuyen-20260107173458688.htm",
+      "summary": "Autoliv và Tensor vừa giới thiệu vô lăng gập đầu tiên trên thế giới cho xe tự lái. Tuy nhiên, với người Việt, điểm gây chú ý nhất ở mẫu xe này lại nằm ở cái tên sản xuất ra chiếc xe: VinFast.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T13:30:54.440069+07:00",
+      "fetched": "2026-01-08T13:30:54.440298+07:00"
+    },
     {
       "id": "c57810b8ac61b4b491a2fb278d463355",
       "title": "Indonesia sẽ chơi đẹp dưới thời HLV Herdman",
@@ -383,6 +533,206 @@ window.newsData_2026_01_08 = {
       "fetched": "2026-01-08T08:26:07.498914+07:00"
     },
     {
+      "id": "d5efb971d3e792726208227e25cfd5ff",
+      "title": "Mô tô điện đầu tiên dùng pin thể rắn, phạm vi di chuyển gần 600 km",
+      "link": "https://thanhnien.vn/mo-to-dien-dau-tien-dung-pin-the-ran-pham-vi-di-chuyen-gan-600-km-1852601072136302.htm",
+      "summary": "Verge TS Pro - mẫu mô tô điện đầu tiên trên thế giới trang bị pin thể rắn mang do hãng xe Phần Lan - Verge Motorcycles sản xuất, với phạm vi hoạt động sau mỗi lần sạc đầy pin lên đến gần 600 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T06:29:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500100+07:00"
+    },
+    {
+      "id": "022956d1a56ed7d18c5c93adf2e45c6a",
+      "title": "TP.HCM khen thưởng 34 phường, xã và 16 doanh nghiệp nộp ngân sách trên 3.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-khen-thuong-34-phuong-xa-va-16-doanh-nghiep-nop-ngan-sach-tren-3000-ti-dong-1852601081254243.htm",
+      "summary": "TP.HCM tặng bằng khen cho 148 tập thể có thành tích xuất sắc trong công tác thu và nộp ngân sách năm 2025, trong đó nhiều phường, xã và doanh nghiệp lớn đóng góp trên 3.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T06:25:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500268+07:00"
+    },
+    {
+      "id": "d3719753f557f89f7d13d5a7618c06d2",
+      "title": "Gần 1 triệu lon sữa HIUP: Tranh luận về hàng giả hay kém chất lượng",
+      "link": "https://thanhnien.vn/gan-1-trieu-lon-sua-hiup-tranh-luan-ve-hang-gia-hay-kem-chat-luong-185260108123422087.htm",
+      "summary": "Ngày 8.1, TAND TP.Hà Nội tiếp tục xét xử các bị cáo liên quan đến đường dây sản xuất, phân phối thực phẩm giả quy mô cực lớn, trong đó có sản phẩm sữa HIUP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T06:15:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500428+07:00"
+    },
+    {
+      "id": "0f290459b4e62c67a36f9e29a07fb3a1",
+      "title": "Lan tỏa trên mạng xã hội: Nữ sinh viên viết thư tay cảm ơn các ân nhân",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-nu-sinh-vien-viet-thu-tay-cam-on-cac-an-nhan-185260107220016497.htm",
+      "summary": "Lá thư cảm ơn của một nữ sinh viên vừa tốt nghiệp đại học gửi đến ông Trần Minh Hải và các ân nhân đã giúp mình đi học được chia sẻ trên mạng xã hội khiến nhiều người xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T06:13:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500582+07:00"
+    },
+    {
+      "id": "8f8087b6692c481b3a33d329897d03d5",
+      "title": "Những khoảnh khắc ấm lòng tại các điểm đăng ký nhận vé xe tết miễn phí",
+      "link": "https://thanhnien.vn/nhung-khoanh-khac-am-long-tai-cac-diem-dang-ky-nhan-ve-xe-tet-mien-phi-18526010812490907.htm",
+      "summary": "Trong những ngày TP.HCM se se lạnh dịp cuối năm, hình ảnh các cô chú đã có tuổi với nụ cười rạng ngời trên gương mặt rám nắng vì mưu sinh khi được đăng ký nhận vé xe về tết miễn phí… thật ấm lòng biết bao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:56:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500805+07:00"
+    },
+    {
+      "id": "36511e7cee775b157e65a92ab77f5106",
+      "title": "Mục tiêu ‘đặc biệt’ của Trường ĐH FPT Cần Thơ tại TNSV THACO cup 2026",
+      "link": "https://thanhnien.vn/muc-tieu-dac-biet-cua-truong-dh-fpt-can-tho-tai-tnsv-thaco-cup-2026-185260108115517523.htm",
+      "summary": "Bên cạnh tấm vé dự VCK toàn quốc, Trường ĐH FPT Cần Thơ còn có một mục tiêu 'đặc biệt' quan trọng tại vòng loại Tây Nam bộ giải bóng đá TNSV THACO cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:54:00+07:00",
+      "fetched": "2026-01-08T13:30:53.500984+07:00"
+    },
+    {
+      "id": "cc683dcec1153f7c9dbdeed5002df3a6",
+      "title": "10 ô tô đã qua sử dụng được ưa chuộng nhất năm 2025",
+      "link": "https://thanhnien.vn/10-o-to-da-qua-su-dung-duoc-ua-chuong-nhat-nam-2025-185260107194115206.htm",
+      "summary": "Xe bán tải cỡ lớn, sedan hạng D với nhiều mẫu mã khác nhau được người Mỹ mua ô tô đã qua sử dụng ưa chuộng và lựa chọn nhiều nhất trong năm 2025 theo kết quả khảo sát vừa được iSeeCars công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:52:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501146+07:00"
+    },
+    {
+      "id": "52ffda817aafcef19639daff876b2472",
+      "title": "Tại sao 2 cựu cục trưởng đăng kiểm được triệu tập đến tòa dù đang chấp hành án?",
+      "link": "https://thanhnien.vn/tai-sao-2-cuu-cuc-truong-dang-kiem-duoc-trieu-tap-den-toa-du-dang-chap-hanh-an-185260108122155283.htm",
+      "summary": "Từ 8.1.2026 - 22.1.2026, TAND TP.HCM mở phiên tòa xét xử sơ thẩm 64 bị cáo trong vụ án đưa và nhận hối lộ xảy ra tại Trung tâm đăng kiểm xe cơ giới 50-04V (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:49:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501299+07:00"
+    },
+    {
+      "id": "075274e8e538645402065d312a1b91d2",
+      "title": "Thử thách bản lĩnh nhà vô địch",
+      "link": "https://thanhnien.vn/thu-thach-ban-linh-nha-vo-dich-185260107214811262.htm",
+      "summary": "Trận đấu giữa Arsenal và Liverpool lúc 3 giờ ngày 9.1 là cuộc đối đầu trực tiếp giữa hai ứng cử viên hàng đầu cho chức vô địch Ngoại hạng Anh 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:46:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501454+07:00"
+    },
+    {
+      "id": "1721b1460744abbdcd2b5ec785d698b2",
+      "title": "Hậu 'Pháo': Đại gia chi gần 7.000 tỷ đồng mua công ty là người 'rất có tâm'",
+      "link": "https://vnexpress.net/hau-phao-dai-gia-chi-gan-7-000-ty-dong-mua-cong-ty-la-nguoi-rat-co-tam-5003175.html",
+      "summary": "Trước lo ngại của bị hại về quyền lợi với đất đã đầu tư tại Nha Trang khi tập đoàn Phúc Sơn được đại gia Kiên mua lại, bị cáo Hậu \"Pháo\" trấn an đây là người rất có tâm, khách hàng hãy ủng hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:45:17+07:00",
+      "fetched": "2026-01-08T13:30:50.184630+07:00"
+    },
+    {
+      "id": "9b32cf8e629340fbc52b9ccde0b7b3cb",
+      "title": "Lãnh đạo quân đội Iran cảnh báo sẽ 'phản ứng' sau đe dọa từ ông Trump",
+      "link": "https://thanhnien.vn/lanh-dao-quan-doi-iran-canh-bao-se-phan-ung-sau-de-doa-tu-ong-trump-185260108124347304.htm",
+      "summary": "Thiếu tướng Amir Hatamir, Tổng tư lệnh quân đội Iran, phản ứng gay gắt sau khi Tổng thống Mỹ Donald Trump tuyên bố có thể hành động nếu Iran dùng bạo lực trấn áp biểu tình trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:45:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501609+07:00"
+    },
+    {
+      "id": "ae608da12f3d9387e56e37e5e35c71a0",
+      "title": "Tài xế rượt đuổi xe trên cao tốc khiến khách hoảng loạn",
+      "link": "https://vnexpress.net/tai-xe-ruot-duoi-xe-tren-cao-toc-khien-khach-hoang-loan-5003284.html",
+      "summary": "Tài xế xe khách sau va chạm đã phóng nhanh, lạng lách, cúp đầu trên cao tốc TP HCM - Trung Lương đuổi theo ôtô tải khiến hành khách lo sợ, van xin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:38:55+07:00",
+      "fetched": "2026-01-08T13:30:50.184829+07:00"
+    },
+    {
+      "id": "82ddc23ab0470946dd2d00b83db8a74f",
+      "title": "Quảng Trị: Hai xe máy va chạm, một người tử vong",
+      "link": "https://thanhnien.vn/quang-tri-hai-xe-may-va-cham-mot-nguoi-tu-vong-185260108113631951.htm",
+      "summary": "Một vụ tai nạn trong đêm giữa hai xe máy tại xã Bến Hải (Quảng Trị) khiến một nam thanh niên tử vong. Người dân mong muốn địa phương sớm lắp đèn chiếu sáng tại khu vực này để hạn chế tai nạn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:37:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501800+07:00"
+    },
+    {
+      "id": "16748f49c66fcc78bd108785883ee6be",
+      "title": "HLV của Tottenham bị chỉ trích vì cầm cốc Arsenal",
+      "link": "https://vnexpress.net/hlv-cua-tottenham-bi-chi-trich-vi-cam-coc-arsenal-5003292.html",
+      "summary": "HLV Thomas Frank đối mặt làn sóng chỉ trích nặng nề khi cầm cốc in logo Arsenal trước trận Tottenham thua Bournemouth ở vòng 21 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:32:34+07:00",
+      "fetched": "2026-01-08T13:30:50.184998+07:00"
+    },
+    {
+      "id": "16748f49c66fcc78bd108785883ee6be",
+      "title": "HLV của Tottenham bị chỉ trích vì cầm cốc Arsenal",
+      "link": "https://vnexpress.net/hlv-cua-tottenham-bi-chi-trich-vi-cam-coc-arsenal-5003292.html",
+      "summary": "HLV Thomas Frank đối mặt làn sóng chỉ trích nặng nề khi cầm cốc in logo Arsenal trước trận Tottenham thua Bournemouth ở vòng 21 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T05:32:34+07:00",
+      "fetched": "2026-01-08T13:31:02.511858+07:00"
+    },
+    {
+      "id": "e1d9ea9edf6cf8e702c2452b627bb796",
+      "title": "Hãng dầu Mỹ muốn tăng hoạt động tại Venezuela",
+      "link": "https://vnexpress.net/hang-dau-my-muon-tang-hoat-dong-tai-venezuela-5003100.html",
+      "summary": "Chevron - hãng dầu lớn duy nhất của Mỹ đang hoạt động tại Venezuela - muốn chính phủ nới hạn chế với giấy phép hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:25:40+07:00",
+      "fetched": "2026-01-08T13:30:50.185158+07:00"
+    },
+    {
+      "id": "e1d9ea9edf6cf8e702c2452b627bb796",
+      "title": "Hãng dầu Mỹ muốn tăng hoạt động tại Venezuela",
+      "link": "https://vnexpress.net/hang-dau-my-muon-tang-hoat-dong-tai-venezuela-5003100.html",
+      "summary": "Chevron - hãng dầu lớn duy nhất của Mỹ đang hoạt động tại Venezuela - muốn chính phủ nới hạn chế với giấy phép hiện tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-08T05:25:40+07:00",
+      "fetched": "2026-01-08T13:30:57.057173+07:00"
+    },
+    {
+      "id": "e85f9606507c25391a84e89e8b069d4e",
+      "title": "'Luật ngầm' thu tiền hối lộ tại Trung tâm đăng kiểm 50-04V",
+      "link": "https://vnexpress.net/luat-ngam-thu-tien-hoi-lo-tai-trung-tam-dang-kiem-50-04v-5003185.html",
+      "summary": "Ông Nguyễn Xuân Hải bị cáo buộc khi làm Giám đốc Trung tâm đăng kiểm 50-04V đã yêu cầu mỗi chuyền kiểm định đưa lại 10-13 triệu đồng từ tiền nhận hối lộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:20:55+07:00",
+      "fetched": "2026-01-08T13:30:50.185314+07:00"
+    },
+    {
+      "id": "09f4e20a6af2c55b6bc1ba1a2cfa839c",
+      "title": "Thích Tiểu Long: Cuộc ‘đào thoát’ khỏi hào quang tuổi 15",
+      "link": "https://thanhnien.vn/thich-tieu-long-cuoc-dao-thoat-khoi-hao-quang-tuoi-15-185260108115404991.htm",
+      "summary": "Bước qua thời hoàng kim của một sao nhí, Thích Tiểu Long không chỉ đối mặt với áp lực hào quang sớm mà còn là hành trình tự định nghĩa lại giá trị giữa vòng xoáy đào thải nghiệt ngã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:20:00+07:00",
+      "fetched": "2026-01-08T13:30:53.501955+07:00"
+    },
+    {
+      "id": "ce791de893c42529db4a2f587dfe8ef9",
+      "title": "Lâm Đồng: Hoàn tất bàn giao nhà 'chiến dịch Quang Trung' cho dân vùng lũ ven sông Cái",
+      "link": "https://thanhnien.vn/lam-dong-hoan-tat-ban-giao-nha-chien-dich-quang-trung-cho-dan-vung-lu-ven-song-cai-185260108111230804.htm",
+      "summary": "Sáng nay 8.1, Công an tỉnh Lâm Đồng và UBND P.Hàm Thắng đã tiến hành bàn giao căn nhà cuối cùng trong số 6 căn nhà thuộc 'chiến dịch Quang Trung' cho dân vùng lũ bị  cuốn trôi nhà ở ven sông Cái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:19:00+07:00",
+      "fetched": "2026-01-08T13:30:53.502112+07:00"
+    },
+    {
       "id": "bfb10c5c2ddce1cc4bcf9207b2009a2a",
       "title": "Vì sao Trung Quốc mua nhiều phế liệu từ EU?",
       "link": "https://tuoitre.vn/vi-sao-trung-quoc-mua-nhieu-phe-lieu-tu-eu-20260107231627515.htm",
@@ -401,6 +751,166 @@ window.newsData_2026_01_08 = {
       "category": "Tổng hợp",
       "published": "2026-01-08T05:18:14.751060+07:00",
       "fetched": "2026-01-08T05:18:14.751287+07:00"
+    },
+    {
+      "id": "1e4d7ed7425c1b35a61281faf9ab92cf",
+      "title": "Tôm khô móng chim Cà Mau hiếm cỡ nào mà giá hơn 1,5 triệu đồng/kg?",
+      "link": "https://thanhnien.vn/tom-kho-mong-chim-ca-mau-hiem-co-nao-ma-gia-hon-15-trieu-dong-kg-185251229233730984.htm",
+      "summary": "Chỉ 1 - 2% tôm đất sau chế biến có dáng cong đẹp như móng chim. Từ chi tiết nhỏ ấy, một dòng tôm khô riêng biệt ra đời, được định giá hơn 1,5 triệu đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:12:00+07:00",
+      "fetched": "2026-01-08T13:30:53.502266+07:00"
+    },
+    {
+      "id": "4541a5e53583910fdd2f43b7c0539f0a",
+      "title": "Luật sư: Sữa HIUP giả không có chất cấm, chỉ vài thành phần không đạt",
+      "link": "https://vnexpress.net/luat-su-sua-hiup-gia-khong-co-chat-cam-chi-vai-thanh-phan-khong-dat-5002917.html",
+      "summary": "Luật sư cho rằng sữa không đạt hàm lượng công bố chỉ là kém chất lượng, không phải làm hàng giả, song kiểm sát viên chỉ ra các bị cáo biết không đạt mà vẫn không dừng sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:08:48+07:00",
+      "fetched": "2026-01-08T13:30:50.185477+07:00"
+    },
+    {
+      "id": "39e0d71682d981861e0c1cbe5523bd92",
+      "title": "Ông Trump muốn chi 1.500 tỷ USD để xây dựng 'quân đội trong mơ'",
+      "link": "https://vnexpress.net/ong-trump-muon-chi-1-500-ty-usd-de-xay-dung-quan-doi-trong-mo-5003266.html",
+      "summary": "Tổng thống Trump kêu gọi tăng ngân sách quốc phòng Mỹ trong năm tài khóa 2027 lên 1.500 tỷ USD, thay vì 1.000 tỷ USD như dự kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:06:06+07:00",
+      "fetched": "2026-01-08T13:30:50.185642+07:00"
+    },
+    {
+      "id": "39e0d71682d981861e0c1cbe5523bd92",
+      "title": "Ông Trump muốn chi 1.500 tỷ USD để xây dựng 'quân đội trong mơ'",
+      "link": "https://vnexpress.net/ong-trump-muon-chi-1-500-ty-usd-de-xay-dung-quan-doi-trong-mo-5003266.html",
+      "summary": "Tổng thống Trump kêu gọi tăng ngân sách quốc phòng Mỹ trong năm tài khóa 2027 lên 1.500 tỷ USD, thay vì 1.000 tỷ USD như dự kiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T05:06:06+07:00",
+      "fetched": "2026-01-08T13:30:55.490888+07:00"
+    },
+    {
+      "id": "0c06bfc6f44f588d269575c1448a0278",
+      "title": "Katy Perry công khai ảnh tình tứ bên cựu Thủ tướng Canada",
+      "link": "https://thanhnien.vn/katy-perry-cong-khai-anh-tinh-tu-ben-cuu-thu-tuong-canada-185260108114347253.htm",
+      "summary": "Trong loạt ảnh kỳ nghỉ dịp đầu năm, Katy Perry gây chú ý khi khoe khoảnh khắc thân mật bên ông Justin Trudeau. Mối tình giữa nữ ca sĩ 41 tuổi và cựu Thủ tướng Canada liên tục trở thành đề tài bàn luận trong nhiều tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:06:00+07:00",
+      "fetched": "2026-01-08T13:30:53.502421+07:00"
+    },
+    {
+      "id": "4e123c8fbf87ccee6730215be1bbed0b",
+      "title": "Công ty Trung Quốc có thể phải tạm dừng mua chip của Nvidia",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-co-the-phai-tam-dung-mua-chip-cua-nvidia-5003204.html",
+      "summary": "Trung Quốc được cho là yêu cầu các công ty công nghệ tạm dừng đặt hàng chip H200 của Nvidia và hướng đến mua chip AI nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.185824+07:00"
+    },
+    {
+      "id": "881753695b3231507f974ddb753fc935",
+      "title": "Đục thủy tinh thể ở người cao tuổi",
+      "link": "https://vnexpress.net/duc-thuy-tinh-the-o-nguoi-cao-tuoi-5003260.html",
+      "summary": "Đục thủy tinh thể thường gặp ở người cao tuổi, tiến triển âm thầm theo tuổi tác và có thể gây giảm thị lực nghiêm trọng nếu không được điều trị kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.185984+07:00"
+    },
+    {
+      "id": "30fe354cb64bb9b45c51bac3b78f317f",
+      "title": "5 món ăn giảm đau đầu mùa lạnh",
+      "link": "https://vnexpress.net/5-mon-an-giam-dau-dau-mua-lanh-5003250.html",
+      "summary": "Thực phẩm giàu magiê, omega-3, vitamin nhóm B như cá béo, các loại hạt có thể giúp giãn mạch, ổn định dẫn truyền thần kinh, giảm đau đầu khi trời lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.186136+07:00"
+    },
+    {
+      "id": "fd48a93a7641c48a27257a7e03e5257e",
+      "title": "Doanh số Ecovacs tăng 67% tại Việt Nam năm 2025",
+      "link": "https://vnexpress.net/doanh-so-ecovacs-tang-67-tai-viet-nam-nam-2025-5003240.html",
+      "summary": "Nhà phân phối Hợp Long ghi nhận gần 70.000 sản phẩm Ecovacs được tiêu thụ, đánh dấu tăng trưởng mạnh mẽ của thương hiệu trong ngành gia dụng thông minh tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.186294+07:00"
+    },
+    {
+      "id": "d7dae9379b649d039365fea8e0d29221",
+      "title": "Mảnh xương kẹt trong khớp cổ chân một năm sau tai nạn",
+      "link": "https://vnexpress.net/manh-xuong-ket-trong-khop-co-chan-mot-nam-sau-tai-nan-5003217.html",
+      "summary": "Chị Hương, 45 tuổi, đau cổ chân sau tai nạn một năm không khỏi, đi khám mới biết mảnh xương và sụn bong ra chèn ép khớp cổ chân đã vôi hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.186452+07:00"
+    },
+    {
+      "id": "2c0bf56a66b465548a18e56665a60d6b",
+      "title": "Bé gái 8 tháng tuổi nhiễm khuẩn tiết niệu biến chứng viêm màng não",
+      "link": "https://vnexpress.net/be-gai-8-thang-tuoi-nhiem-khuan-tiet-nieu-bien-chung-viem-mang-nao-5003136.html",
+      "summary": "Bé Ánh, 8 tháng tuổi, đang điều trị nhiễm khuẩn tiết niệu bất ngờ thóp căng phồng, chỉ số viêm tăng cao, bác sĩ chẩn đoán biến chứng viêm màng não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.186607+07:00"
+    },
+    {
+      "id": "c6705a004c68dc43d89881404db7ce14",
+      "title": "Hàn Quốc sắp thử nghiệm tuyến container Bắc Cực",
+      "link": "https://vnexpress.net/han-quoc-sap-thu-nghiem-tuyen-container-bac-cuc-5001854.html",
+      "summary": "Hàn Quốc dự kiến thử nghiệm tuyến vận tải container qua Tuyến đường Biển Phương Bắc (NSR) từ mùa hè năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:30:50.186794+07:00"
+    },
+    {
+      "id": "4e123c8fbf87ccee6730215be1bbed0b",
+      "title": "Công ty Trung Quốc có thể phải tạm dừng mua chip của Nvidia",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-co-the-phai-tam-dung-mua-chip-cua-nvidia-5003204.html",
+      "summary": "Trung Quốc được cho là yêu cầu các công ty công nghệ tạm dừng đặt hàng chip H200 của Nvidia và hướng đến mua chip AI nội địa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-08T05:00:00+07:00",
+      "fetched": "2026-01-08T13:31:00.669392+07:00"
+    },
+    {
+      "id": "fa10cafc53a2fcb4b72c929db503703e",
+      "title": "Quy tắc '4 giờ' của chủ tịch Visa",
+      "link": "https://vnexpress.net/quy-tac-4-gio-cua-chu-tich-visa-5003174.html",
+      "summary": "Oliver Jenkyn chấp nhận bị chê \"phản hồi email chậm\" để dành trọn vẹn 4 giờ sáng thứ 6 hàng tuần cho việc nạp kiến thức mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-08T04:57:32+07:00",
+      "fetched": "2026-01-08T13:30:50.186951+07:00"
+    },
+    {
+      "id": "e98428e5768a45871a6146bbe429fb1e",
+      "title": "Vua nhảy sào Duplantis: 'Chỉ phá kỷ lục từng centimet để kiếm tiền thưởng'",
+      "link": "https://vnexpress.net/vua-nhay-sao-duplantis-chi-pha-ky-luc-tung-centimet-de-kiem-tien-thuong-5002943.html",
+      "summary": "Armand Duplantis thừa nhận chỉ nhích một centimet mỗi lần chinh phục kỷ lục thế giới để nhận tiền thưởng, nhưng đó không phải là lý do duy nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-08T04:44:01+07:00",
+      "fetched": "2026-01-08T13:31:02.511341+07:00"
+    },
+    {
+      "id": "37aa282176640038e8dd197d8393a01a",
+      "title": "Marco Rubio - người định hình chính sách của Mỹ với Venezuela",
+      "link": "https://vnexpress.net/marco-rubio-nguoi-dinh-hinh-chinh-sach-cua-my-voi-venezuela-5002640.html",
+      "summary": "Ngoại trưởng Rubio thời gian qua trở thành người có vai trò then chốt trong định hình chính sách cứng rắn của Mỹ với Venezuela, dẫn đến chiến dịch bắt ông Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-08T04:43:43+07:00",
+      "fetched": "2026-01-08T13:30:55.491065+07:00"
     },
     {
       "id": "1be8a22fef948e9e43a15b09454a5186",
@@ -881,6 +1391,16 @@ window.newsData_2026_01_08 = {
       "category": "Công nghệ",
       "published": "2026-01-08T02:40:00+07:00",
       "fetched": "2026-01-08T10:27:29.333360+07:00"
+    },
+    {
+      "id": "6769c09ffd9db171737be8e9c7339343",
+      "title": "Tech Awards phân tích loạt xu hướng công nghệ 2026",
+      "link": "https://vnexpress.net/tech-awards-diem-lai-xu-huong-cong-nghe-2025-5002739-tong-thuat.html",
+      "summary": "Tech Awards 2025 phân tích bức tranh thị trường công nghệ cùng những xu hướng đang nổi lên ở ngành gia dụng thông minh, tự động hóa, góp phần thay đổi cuộc sống người dùng, hút 1.000 khán giả ngày 8/1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-08T02:40:00+07:00",
+      "fetched": "2026-01-08T13:31:00.670411+07:00"
     },
     {
       "id": "d1b49768f5f5c4f49b6211e6070af5cb",
