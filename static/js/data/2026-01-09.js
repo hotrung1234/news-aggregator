@@ -1,7 +1,157 @@
 window.newsData_2026_01_09 = {
   "date": "2026-01-09",
-  "lastUpdated": "2026-01-09T10:28:04.041516+07:00",
+  "lastUpdated": "2026-01-09T11:38:02.575364+07:00",
   "articles": [
+    {
+      "id": "135deccfd7e1a6c8fd44c6d4a92c264c",
+      "title": "CĐV Trung Quốc: 'Tương lai bóng đá nước nhà đây sao?'",
+      "link": "https://tuoitre.vn/cdv-trung-quoc-tuong-lai-bong-da-nuoc-nha-day-sao-2026010904270845.htm",
+      "summary": "Dù chơi không tệ ở trận ra quân khi hòa U23 Iraq không bàn thắng, U23 Trung Quốc vẫn phải nhận chỉ trích từ người hâm mộ nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282759+07:00",
+      "fetched": "2026-01-09T11:37:56.282894+07:00"
+    },
+    {
+      "id": "24388033a419d48315b41321fcae7551",
+      "title": "Lãnh đạo lâm thời Venezuela khẳng định không lệ thuộc hay khuất phục trước Mỹ",
+      "link": "https://tuoitre.vn/lanh-dao-lam-thoi-venezuela-khang-dinh-khong-le-thuoc-hay-khuat-phuc-truoc-my-20260109094506893.htm",
+      "summary": "Tuyên bố được đưa ra trong bối cảnh Mỹ khẳng định đang kiểm soát tình hình tại Venezuela sau vụ bắt giữ ông Nicolas Maduro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282630+07:00",
+      "fetched": "2026-01-09T11:37:56.282743+07:00"
+    },
+    {
+      "id": "3e34c808f3cde89cf25900eb18b3c148",
+      "title": "U23 Kyrgyzstan đối thủ của Việt Nam hay dở thế nào?",
+      "link": "https://tuoitre.vn/u23-kyrgyzstan-doi-thu-cua-viet-nam-hay-do-the-nao-20260108234244581.htm",
+      "summary": "Dù bị đánh giá yếu nhất bảng A Giải U23 châu Á 2026 nhưng U23 Kyrgyzstan không là đối thủ dễ bị đánh bại, nhất là sau những gì họ đã thể hiện trong trận thua sát nút U23 Saudi Arabia hôm 6-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282503+07:00",
+      "fetched": "2026-01-09T11:37:56.282619+07:00"
+    },
+    {
+      "id": "b1e628d27c42af783449d6de39ca6881",
+      "title": "Học sinh đăng clip đe dọa khủng bố lên TikTok cho ngầu",
+      "link": "https://tuoitre.vn/hoc-sinh-dang-clip-de-doa-khung-bo-len-tiktok-cho-ngau-2026010909464721.htm",
+      "summary": "Công an tỉnh Thái Nguyên đã mời gia đình và học sinh đăng nhiều hình ảnh, clip, chuẩn bị vũ khí đe dọa khủng bố trên TikTok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282378+07:00",
+      "fetched": "2026-01-09T11:37:56.282492+07:00"
+    },
+    {
+      "id": "66b2311a5893e7402ad26590b29f3636",
+      "title": "Hình ảnh xấu xí của HLV Simeone và màn đáp trả đến từ Xabi Alonso",
+      "link": "https://tuoitre.vn/hinh-anh-xau-xi-cua-hlv-simeone-va-man-dap-tra-den-tu-xabi-alonso-20260109095109813.htm",
+      "summary": "Rạng sáng 9-1, đánh bại Atletico 2-1 tại bán kết Siêu cúp Tây Ban Nha, Real Madrid không chỉ thắng về tỉ số mà còn thắng trong màn đấu khẩu căng thẳng giữa HLV Xabi Alonso và Diego Simeone.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282250+07:00",
+      "fetched": "2026-01-09T11:37:56.282367+07:00"
+    },
+    {
+      "id": "a98e79f576e2929713a84941fa0e8aff",
+      "title": "Bê bối ảnh AI khiêu dâm, EU yêu cầu X giữ toàn bộ hồ sơ về Grok để giám sát, điều tra",
+      "link": "https://tuoitre.vn/be-boi-anh-ai-khieu-dam-eu-yeu-cau-x-giu-toan-bo-ho-so-ve-grok-de-giam-sat-dieu-tra-2026010909545776.htm",
+      "summary": "Ủy ban châu Âu buộc mạng xã hội X giữ lại toàn bộ hồ sơ về Grok đến hết năm 2026, giữa chỉ trích liên quan ảnh AI khiêu dâm, trong đó có trẻ em.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.282120+07:00",
+      "fetched": "2026-01-09T11:37:56.282235+07:00"
+    },
+    {
+      "id": "31b68e97507a84b6d52fa212923b4e22",
+      "title": "Hai đội của TP.HCM phải loại nhau từ vòng bảng Giải U19 quốc gia 2025 - 2026",
+      "link": "https://tuoitre.vn/hai-doi-cua-tp-hcm-phai-loai-nhau-tu-vong-bang-giai-u19-quoc-gia-2025-2026-20260109102107203.htm",
+      "summary": "Sáng 9-1 tại trụ sở Liên đoàn Bóng đá Việt Nam (VFF) đã diễn ra lễ bốc thăm chia bảng vòng chung kết U19 quốc gia 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281986+07:00",
+      "fetched": "2026-01-09T11:37:56.282108+07:00"
+    },
+    {
+      "id": "dbf633912038882fb7a24e8e2a1ba40b",
+      "title": "6 xe mới sắp 'hâm nóng' thị trường ô tô Việt Nam: Từ xe điện 300 triệu đến cỗ máy gần 900 mã lực",
+      "link": "https://tuoitre.vn/6-xe-moi-sap-ham-nong-thi-truong-o-to-viet-nam-tu-xe-dien-300-trieu-den-co-may-gan-900-ma-luc-20260108224854827.htm",
+      "summary": "Trong thời gian tới, thị trường ô tô Việt Nam dự kiến đón loạt xe mới gồm Honda CR-V hybrid lắp ráp trong nước, Toyota Hilux 2026, VinFast VF 3 Plus, VinFast Limo Home, Lynk & Co 03 bản tiêu chuẩn và Lynk & Co 900.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281842+07:00",
+      "fetched": "2026-01-09T11:37:56.281974+07:00"
+    },
+    {
+      "id": "745c62be4e09d78368b306547c2db76f",
+      "title": "Ăn phở yêu thương giữa những yêu thương",
+      "link": "https://tuoitre.vn/an-pho-yeu-thuong-giua-nhung-yeu-thuong-20260109095459554.htm",
+      "summary": "Trẻ em ăn phở trong tiếng cười, người lớn tuổi cầm phiếu mời trên tay không giấu được xúc động. Hơn 10.000 tô phở đã hết trong mấy tiếng buổi sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281699+07:00",
+      "fetched": "2026-01-09T11:37:56.281828+07:00"
+    },
+    {
+      "id": "0288aef913d711d84a14b2939c4fb2aa",
+      "title": "'Đưa tiền thành thói quen', giám đốc lãnh 30 tháng tù trong vụ án hối lộ 11 tỉ tại Đắk Lắk",
+      "link": "https://tuoitre.vn/dua-tien-thanh-thoi-quen-giam-doc-lanh-30-thang-tu-trong-vu-an-hoi-lo-11-ti-tai-dak-lak-20260109100938679.htm",
+      "summary": "Sau 5 ngày xét xử và nghị án, Tòa án nhân dân TP Hà Nội đã tuyên án với hai cựu lãnh đạo Ban Quản lý dự án tỉnh Đắk Lắk, và hai giám đốc doanh nghiệp trong vụ án đưa và nhận hối lộ hơn 11 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281561+07:00",
+      "fetched": "2026-01-09T11:37:56.281688+07:00"
+    },
+    {
+      "id": "bd807f44b2c91670e38bc74c23b32fdb",
+      "title": "Trước khi xe khách rượt đuổi xe tải trên cao tốc TP.HCM - Trung Lương, đã xảy ra chuyện gì?",
+      "link": "https://tuoitre.vn/truoc-khi-xe-khach-ruot-duoi-xe-tai-tren-cao-toc-tp-hcm-trung-luong-da-xay-ra-chuyen-gi-20260109101640892.htm",
+      "summary": "Một đoạn video được quay từ xe khách Hùng Hiếu cho thấy chiếc xe tải bị rượt đuổi trước đó đã cúp đầu xe khách khiến kính bên phải bị hư, tài xế xe tải nhoài người ra khỏi xe rồi cầm một vật chỉ thẳng vào tài xế xe khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281430+07:00",
+      "fetched": "2026-01-09T11:37:56.281550+07:00"
+    },
+    {
+      "id": "3671e1ff082f7c004f47b836c468dd11",
+      "title": "Quy định mới của Chính phủ về chi tiết tỉ lệ công chức theo vị trí việc làm ở bộ, tỉnh, xã",
+      "link": "https://tuoitre.vn/quy-dinh-moi-cua-chinh-phu-ve-chi-tiet-ti-le-cong-chuc-theo-vi-tri-viec-lam-o-bo-tinh-xa-20260109102551325.htm",
+      "summary": "Phó thủ tướng Phạm Thị Thanh Trà đã ký ban hành nghị định 361/2025 của Chính phủ quy định về vị trí việc làm công chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281295+07:00",
+      "fetched": "2026-01-09T11:37:56.281418+07:00"
+    },
+    {
+      "id": "e1b1d574bb0dd65d07dc2de5c69be373",
+      "title": "NASA đưa phi hành đoàn Crew-11 về sớm sau sự cố y tế hiếm gặp trên ISS",
+      "link": "https://tuoitre.vn/nasa-dua-phi-hanh-doan-crew-11-ve-trai-dat-som-sau-su-co-y-te-hiem-gap-tren-iss-20260109100554772.htm",
+      "summary": "NASA đang khẩn trương chuẩn bị đưa bốn thành viên của phi hành đoàn Crew-11 trở về Trái đất sớm hơn kế hoạch sau khi một phi hành gia trên Trạm Vũ trụ quốc tế (ISS) gặp vấn đề y tế chưa được công bố chi tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281150+07:00",
+      "fetched": "2026-01-09T11:37:56.281274+07:00"
+    },
+    {
+      "id": "967e527446f837ba207d8d85636f7ca9",
+      "title": "U23 Việt Nam - U23 Kyrgyzstan: Săn vé vào tứ kết",
+      "link": "https://tuoitre.vn/u23-viet-nam-u23-kyrgyzstan-san-ve-vao-tu-ket-20260108233754187.htm",
+      "summary": "Chiến thắng trước U23 Kyrgyzstan ở lượt thứ 2 bảng A Giải U23 châu Á 2026, diễn ra vào 21h hôm nay (9-1, TV360 THTT) sẽ giúp tuyển U23 Việt Nam tiến gần hơn đến vé vào tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.281006+07:00",
+      "fetched": "2026-01-09T11:37:56.281138+07:00"
+    },
+    {
+      "id": "df663e20d277544d2335d1161b878fd6",
+      "title": "Việt Nam sẽ có trung tâm xạ trị proton, nâng hiệu quả điều trị ung thư",
+      "link": "https://tuoitre.vn/viet-nam-se-co-trung-tam-xa-tri-proton-nang-hieu-qua-dieu-tri-ung-thu-20260109100648345.htm",
+      "summary": "Xạ trị proton được coi là phương pháp điều trị ung thư tiên tiến nhất hiện nay do ít làm tổn thương các mô lành và ít tác dụng phụ, nhất là với người già và trẻ em so với xạ trị bằng máy gia tốc tuyến tính truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T11:37:56.280751+07:00",
+      "fetched": "2026-01-09T11:37:56.280990+07:00"
+    },
     {
       "id": "d21898b7dbc1072e233d0af9ec9cfe68",
       "title": "Reuters: Mỹ xem xét trả tiền cho người dân Greenland để sáp nhập hòn đảo",
@@ -301,6 +451,246 @@ window.newsData_2026_01_09 = {
       "category": "Tổng hợp",
       "published": "2026-01-09T05:18:40.655337+07:00",
       "fetched": "2026-01-09T05:18:40.655551+07:00"
+    },
+    {
+      "id": "461762a2965ca8f60a151a6838f3288a",
+      "title": "Ông Trump tính chuyện trả tiền để dân Greenland sáp nhập Mỹ",
+      "link": "https://thanhnien.vn/ong-trump-tinh-chuyen-tra-tien-de-dan-greenland-sap-nhap-my-185260109111532053.htm",
+      "summary": "Theo các nguồn thạo tin, các quan chức Mỹ đã thảo luận về việc gửi các khoản thanh toán một lần cho người dân Greenland như một phần trong nỗ lực thuyết phục họ ly khai khỏi Đan Mạch và có khả năng gia nhập Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:37:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567063+07:00"
+    },
+    {
+      "id": "596010127a95cf427a04130a5c3a9bce",
+      "title": "Ca sĩ Hương Tràm: Tôi hết lòng khi yêu",
+      "link": "https://thanhnien.vn/ca-si-huong-tram-toi-het-long-khi-yeu-185260109105745571.htm",
+      "summary": "Là khách mời trong chương trình 'Sao check', ca sĩ Hương Tràm đã có những phút trải lòng về quãng thời gian đi du học, đồng thời tiết lộ cuộc sống sau khi về Việt Nam hoạt động nghệ thuật trở lại sau 5 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:36:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567233+07:00"
+    },
+    {
+      "id": "ad902e4807e8406939dd7dc543a78d89",
+      "title": "TP.HCM trở lạnh: Người thích thú, người lo đổ bệnh",
+      "link": "https://thanhnien.vn/tphcm-tro-lanh-nguoi-thich-thu-nguoi-lo-do-benh-185260109112556498.htm",
+      "summary": "Tối 8.1, thời tiết TP.HCM chuyển lạnh rõ rệt, nền nhiệt giảm sâu so với thường ngày sau những cơn mưa trái mùa. Đến sáng sớm 9.1, nhiệt độ đo được là 17 độ C và là ngày lạnh nhất từ đầu mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:33:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567391+07:00"
+    },
+    {
+      "id": "4fc3737402358ec6551f3d901a2a18b5",
+      "title": "Trọng Tấn, Thanh Lam... mừng sinh nhật 40 năm Báo Thanh Niên",
+      "link": "https://thanhnien.vn/trong-tan-thanh-lam-mung-sinh-nhat-40-nam-bao-thanh-nien-185260109111133166.htm",
+      "summary": "NSND Thanh Lam, 'ông hoàng nhạc đỏ' Trọng Tấn cùng con trai Vũ Tấn Đạt - á quân Tiếng hát Hà Nội 2025, quán quân Vietnam Idol  2023 Hà An Huy cùng 'đốt nóng' sân khấu mừng sinh nhật Báo Thanh Niên tròn 40 tuổi (1986 - 2026) tại Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:31:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567549+07:00"
+    },
+    {
+      "id": "5e55ab88f1a19ac5ba0d3b987e70931d",
+      "title": "Cựu Giám đốc Ban quản lý dự án tỉnh Đắk Lắk bị tuyên 8 năm tù",
+      "link": "https://thanhnien.vn/cuu-giam-doc-ban-quan-ly-du-an-tinh-dak-lak-bi-tuyen-8-nam-tu-185260109111828551.htm",
+      "summary": "Ông Phạm Văn Hạ, cựu Giám đốc Ban quản lý dự án tỉnh Đắk Lắk và cấp phó cùng bị tuyên án 8 năm tù với cáo buộc nhận tiền để giúp doanh nghiệp trúng thầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:30:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567703+07:00"
+    },
+    {
+      "id": "a9bffb8edfdf90cc3c082b3d1f0c4967",
+      "title": "Phạt 81,5 triệu đồng chủ xe và tài xế không bằng lái chở khách trên cao tốc",
+      "link": "https://thanhnien.vn/phat-815-trieu-dong-chu-xe-va-tai-xe-khong-bang-lai-cho-khach-tren-cao-toc-185260109104109668.htm",
+      "summary": "CSGT phát hiện tài xế không có giấy phép lái xe nhưng lái ô tô khách trên cao tốc Nha Trang - Cam Lâm (Khánh Hòa). Cả tài xế và chủ xe bị phạt tổng cộng 81,5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:26:00+07:00",
+      "fetched": "2026-01-09T11:37:55.567881+07:00"
+    },
+    {
+      "id": "0fe36cba06d57273993b348b6416c9b5",
+      "title": "Hôm nay thời tiết TP.HCM lạnh lịch sử, vì sao?",
+      "link": "https://thanhnien.vn/hom-nay-thoi-tiet-tphcm-lanh-lich-su-vi-sao-185260109112213225.htm",
+      "summary": "Thời tiết TP.HCM hôm nay lạnh lịch sử. Nhiệt độ tại trạm Nhà Bè là 17,8 độ C, thấp hơn mức lịch sử ghi nhận từ năm 2013 và năm 2025 là 18,9 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:25:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568038+07:00"
+    },
+    {
+      "id": "e845bb8c567bef0a345702ea0d3c9eb7",
+      "title": "Hẻm ăn vặt 76 Hai Bà Trưng ở trung tâm TP.HCM đóng cửa: Tiếc nuối kỷ niệm xưa",
+      "link": "https://thanhnien.vn/hem-an-vat-76-hai-ba-trung-o-trung-tam-tphcm-dong-cua-im-lim-chuyen-gi-xay-ra-185260108163323173.htm",
+      "summary": "Hẻm ăn vặt 76 Hai Bà Trưng (phường Sài Gòn) nổi danh là hẻm ăn vặt 'rẻ nhất quận 1 (cũ)'. Những ngày qua, mạng xã hội ngập tràn các bài viết chia sẻ hình ảnh con hẻm này đóng cửa im lìm trong sự tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:25:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568189+07:00"
+    },
+    {
+      "id": "c79ccf931805663de827f6c545806c39",
+      "title": "Ông Trump nói Mỹ sắp tấn công băng nhóm ma túy trên bộ, gọi tên một nước",
+      "link": "https://thanhnien.vn/ong-trump-noi-my-sap-tan-cong-bang-nhom-ma-tuy-tren-bo-goi-ten-mot-nuoc-185260109110506899.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 8.1 nói rằng các cuộc tấn công trên bộ nhắm vào những băng nhóm ma túy sắp diễn ra sau các cuộc tấn công trên biển ở phía đông Thái Bình Dương và biển Caribbean.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:23:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568347+07:00"
+    },
+    {
+      "id": "8da660666be46bee845374193fc2ca7d",
+      "title": "Trung Quốc chi 24 tỉ USD mua rau quả, Việt Nam tăng mạnh nhất",
+      "link": "https://thanhnien.vn/trung-quoc-chi-24-ti-usd-mua-rau-qua-viet-nam-tang-manh-nhat-185260109110359105.htm",
+      "summary": "Việt Nam là nguồn cung rau quả lớn thứ 2 ở thị trường Trung Quốc nhưng lại đứng thứ 1 về tốc độ tăng trưởng trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:22:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568505+07:00"
+    },
+    {
+      "id": "f6cd950193a438fc2d299737bcb1c83a",
+      "title": "New York Times: Việt Nam là cường quốc du lịch đang lên, top 52 điểm đến 2026",
+      "link": "https://thanhnien.vn/new-york-times-viet-nam-la-cuong-quoc-du-lich-dang-len-top-52-diem-den-2026-185260109111633521.htm",
+      "summary": "Việt Nam vừa được New York Times - một trong những tờ báo được đọc nhiều nhất thế giới - bình chọn là một trong 52 điểm đến cho năm 2026. Đáng chú ý, để minh họa cho du lịch Việt Nam, Ban biên tập của New York Times đã chọn cáp treo Hòn Thơm ở Phú Quốc thay vì những hình ảnh truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:21:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568669+07:00"
+    },
+    {
+      "id": "af76ee9e03ae7875df898bcfb1a90588",
+      "title": "Google bổ sung loạt tính năng AI cho Gmail",
+      "link": "https://vnexpress.net/google-bo-sung-loat-tinh-nang-ai-cho-gmail-5003674.html",
+      "summary": "Google công bố các tính năng AI mới trong Gmail nhằm cải tiến ứng dụng 22 tuổi trong bối cảnh thế giới tăng cường tích hợp AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-09T04:05:31+07:00",
+      "fetched": "2026-01-09T11:38:01.400806+07:00"
+    },
+    {
+      "id": "a219bd6e866ea686df59897d93b466c6",
+      "title": "Xem nhanh 12h: Diễn biến vụ Công ty Đồ hộp Hạ Long | TP.HCM hơi lạ vì 'hơi lạnh'",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-dien-bien-vu-cong-ty-do-hop-ha-long-tphcm-hoi-la-vi-hoi-lanh-185260109110237307.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 9.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:02:00+07:00",
+      "fetched": "2026-01-09T11:37:55.568843+07:00"
+    },
+    {
+      "id": "a5011cdf6a6e6ce321adc0943c84aee8",
+      "title": "Cầu Cát Lái 18.300 tỉ đồng nối Đồng Nai - TP.HCM động thổ vào ngày 15.1",
+      "link": "https://thanhnien.vn/cau-cat-lai-18300-ti-dong-noi-dong-nai-tphcm-dong-tho-vao-ngay-151-185260109103721705.htm",
+      "summary": "UBND tỉnh Đồng Nai lên kế hoạch động thổ cầu Cát Lái vào ngày 15.1. Cùng ngày còn tổ chức thông xe, khởi công nhiều dự án quan trọng khác nhằm chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:02:00+07:00",
+      "fetched": "2026-01-09T11:37:55.569001+07:00"
+    },
+    {
+      "id": "d560313ebe0112fe5d418edbfca41b57",
+      "title": "Mâm cỗ tết 3 miền trình làng tại TP.HCM: Thực khách hào hứng ăn tết sớm",
+      "link": "https://thanhnien.vn/mam-co-tet-3-mien-trinh-lang-tai-tphcm-thuc-khach-hao-hung-an-tet-som-185260109074804683.htm",
+      "summary": "Tết Nguyên đán Bính Ngọ 2026 gần kề, một nhà hàng ở khu Thảo Điền (TP.HCM) ra mắt mâm cỗ tết của cả 3 miền Bắc - Trung - Nam. Có gì thú vị khiến nhiều thực khách tìm đến để... ăn tết sớm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T04:00:00+07:00",
+      "fetched": "2026-01-09T11:37:55.569150+07:00"
+    },
+    {
+      "id": "783914db1dce865f03301b0f98d0103a",
+      "title": "Hải quan rao bán hàng nghìn chiếc iPhone giá trung bình 800.000 đồng",
+      "link": "https://vnexpress.net/hai-quan-rao-ban-hang-nghin-chiec-iphone-gia-trung-binh-800-000-dong-5003528.html",
+      "summary": "Hải quan rao bán lô hàng hơn 2.500 điện thoại iPhone đã qua sử dụng, với giá trung bình 800.000 đồng mỗi chiếc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-09T03:58:03+07:00",
+      "fetched": "2026-01-09T11:37:58.608939+07:00"
+    },
+    {
+      "id": "2a404c1292773de824d5b9298ce7231b",
+      "title": "PepsiCo Foods Việt Nam được vinh danh Doanh nghiệp xanh TP.HCM 2025",
+      "link": "https://thanhnien.vn/pepsico-foods-viet-nam-duoc-vinh-danh-doanh-nghiep-xanh-tphcm-2025-185260109111243278.htm",
+      "summary": "PepsiCo Foods Việt Nam được vinh danh danh hiệu Doanh nghiệp xanh TP.HCM năm 2025, ghi nhận quá trình đầu tư và vận hành sản xuất bền vững bền bỉ, nhất quán. Danh hiệu này tiếp tục khẳng định năng lực duy trì và không ngừng nâng cao chuẩn mực của doanh nghiệp trong bối cảnh yêu cầu về môi trường, mi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:57:00+07:00",
+      "fetched": "2026-01-09T11:37:55.569301+07:00"
+    },
+    {
+      "id": "521f2d0b659c40675c7d59349ffa4c2b",
+      "title": "Chelsea chơi xấu bậc nhất châu Âu",
+      "link": "https://vnexpress.net/chelsea-choi-xau-bac-nhat-chau-au-5003598.html",
+      "summary": "Điểm thẻ phạt của Chelsea vượt xa hầu hết các đối thủ thuộc năm giải vô địch quốc gia hàng đầu châu Âu, gồm Ngoại hạng Anh, La Liga, Serie A, Ligue I và Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-09T03:53:59+07:00",
+      "fetched": "2026-01-09T11:38:02.569034+07:00"
+    },
+    {
+      "id": "0773f8c3e78eaa17a3e31402be132078",
+      "title": "Viêm gan D lây qua đường nào?",
+      "link": "https://vnexpress.net/viem-gan-d-lay-qua-duong-nao-5003629.html",
+      "summary": "Tôi có chẩn đoán mắc viêm gan D, trong gia đình không có ai từng bị bệnh này. Viêm gan D lây qua đường nào, có qua sinh hoạt hằng ngày không? (Hùng Long, 43 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:30:00+07:00",
+      "fetched": "2026-01-09T11:37:52.624160+07:00"
+    },
+    {
+      "id": "3f02159f61c9597e5b9909c67bc4a49e",
+      "title": "Hệ lụy khi Mỹ rút khỏi 66 tổ chức quốc tế",
+      "link": "https://vnexpress.net/he-luy-khi-my-rut-khoi-66-to-chuc-quoc-te-5003382.html",
+      "summary": "Việc rút khỏi 66 tổ chức quốc tế cho thấy ưu tiên chiến lược của Mỹ đã thay đổi, nhưng cũng có thể làm suy giảm vai trò lãnh đạo toàn cầu của Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:28:37+07:00",
+      "fetched": "2026-01-09T11:37:52.624340+07:00"
+    },
+    {
+      "id": "3f02159f61c9597e5b9909c67bc4a49e",
+      "title": "Hệ lụy khi Mỹ rút khỏi 66 tổ chức quốc tế",
+      "link": "https://vnexpress.net/he-luy-khi-my-rut-khoi-66-to-chuc-quoc-te-5003382.html",
+      "summary": "Việc rút khỏi 66 tổ chức quốc tế cho thấy ưu tiên chiến lược của Mỹ đã thay đổi, nhưng cũng có thể làm suy giảm vai trò lãnh đạo toàn cầu của Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-09T03:28:37+07:00",
+      "fetched": "2026-01-09T11:37:57.441748+07:00"
+    },
+    {
+      "id": "1c03b1994071af73b758f29916978e2c",
+      "title": "Tuyên Huyên thận trọng sau khi bị lừa tình",
+      "link": "https://vnexpress.net/tuyen-huyen-than-trong-sau-khi-bi-lua-tinh-5003583.html",
+      "summary": "Minh tinh Hong Kong Tuyên Huyên tiết lộ từng bị bạn trai lừa phỉnh, vì thế cảnh giác với đàn ông tiếp cận mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:24:54+07:00",
+      "fetched": "2026-01-09T11:37:52.624506+07:00"
+    },
+    {
+      "id": "d51be723275180c6dc1ad7d648cb3253",
+      "title": "Nhận 'lót tay' 11 tỷ đồng, cựu Giám đốc Ban quản lý dự án ở Đăk Lăk lĩnh 8 năm tù",
+      "link": "https://vnexpress.net/nhan-lot-tay-11-ty-dong-cuu-giam-doc-ban-quan-ly-du-an-o-dak-lak-linh-8-nam-tu-5003632.html",
+      "summary": "Ông Phạm Văn Hạ, cựu Giám đốc Ban Quản lý dự án ở Đăk Lăk, cùng cấp phó bị tuyên 8 năm tù vì nhận 11,1 tỷ đồng để giúp doanh nghiệp trúng thầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:24:15+07:00",
+      "fetched": "2026-01-09T11:37:52.624667+07:00"
+    },
+    {
+      "id": "be1050bf1149612494615273504bcad6",
+      "title": "Hố nhỏ giữa phố lớn khiến người đi xe máy 'đo đường'",
+      "link": "https://vnexpress.net/ho-nho-giua-pho-lon-khien-nguoi-di-xe-may-do-duong-5003579.html",
+      "summary": "Vấp phải hố, người đi xe máy ngã lăn ra đường ngay khi ôtô phía sau đi tới, hôm 8/1 tại Khuất Duy Tiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-09T03:22:12+07:00",
+      "fetched": "2026-01-09T11:37:52.624860+07:00"
     },
     {
       "id": "a1056d25bff13c2eba30eee1eb4a3d0d",
@@ -701,6 +1091,16 @@ window.newsData_2026_01_09 = {
       "category": "Công nghệ",
       "published": "2026-01-09T02:00:00+07:00",
       "fetched": "2026-01-09T10:28:02.092239+07:00"
+    },
+    {
+      "id": "28a019d00fe8c9dcd2588806c864d59e",
+      "title": "Musk: 'Tesla sẽ có nhà máy sản xuất chip 2 nm'",
+      "link": "https://vnexpress.net/musk-tesla-se-co-nha-may-san-xuat-chip-2-nm-5003481.html",
+      "summary": "Tỷ phú Elon Musk cho rằng ngành bán dẫn đang xây phòng sạch sai cách và Tesla sẽ có nhà máy chip 2 nm cho phép ăn uống bên trong.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-09T02:00:00+07:00",
+      "fetched": "2026-01-09T11:38:01.400144+07:00"
     },
     {
       "id": "6fa48ad5c42bee75fc66c859c56054ca",
