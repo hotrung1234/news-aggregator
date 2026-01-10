@@ -1,7 +1,127 @@
 window.newsData_2026_01_10 = {
   "date": "2026-01-10",
-  "lastUpdated": "2026-01-10T19:35:16.846102+07:00",
+  "lastUpdated": "2026-01-10T21:16:40.531126+07:00",
   "articles": [
+    {
+      "id": "a2c3c8c1cd6cb7d2e8f7dd390fd40165",
+      "title": "Ngọn đèn đánh thức mùa đoàn viên",
+      "link": "https://tuoitre.vn/ngon-den-danh-thuc-mua-doan-vien-20260110171256117.htm",
+      "summary": "Nhìn ngọn đèn đường vàng ấm cuối đêm, tôi chợt thấy mùa xuân cũ khẽ chạm vào mình, như bàn tay ký ức đặt nhẹ lên vai. Giữa thành phố rộng lớn, ánh sáng ấy lại đánh thức những điều tưởng đã ngủ quên từ lâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305657+07:00",
+      "fetched": "2026-01-10T21:16:34.305768+07:00"
+    },
+    {
+      "id": "e9bf59f3ca6b6dc705ca12652a3876bf",
+      "title": "Năm 2026 đầu tư kênh nào để 'tiền đẻ ra tiền'?",
+      "link": "https://tuoitre.vn/nam-2026-dau-tu-kenh-nao-de-tien-de-ra-tien-20260110180257783.htm",
+      "summary": "Các chuyên gia cho rằng năm 2026 các kênh đầu tư bước vào giai đoạn “thực chất”, đòi hỏi nhà đầu tư chọn lọc và phân bổ hợp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305532+07:00",
+      "fetched": "2026-01-10T21:16:34.305646+07:00"
+    },
+    {
+      "id": "97dfa54096a255d829b56f5a80507400",
+      "title": "Phát hiện mại dâm núp bóng dịch vụ massage tại 2 khách sạn nổi tiếng ở Đà Nẵng",
+      "link": "https://tuoitre.vn/phat-hien-mai-dam-nup-bong-dich-vu-massage-tai-2-khach-san-noi-tieng-o-da-nang-20260110184253434.htm",
+      "summary": "Công an kiểm tra hai khách sạn phát hiện hoạt động mại dâm trá hình ở dịch vụ massage tại các khách sạn Samdi và Mường Thanh nổi tiếng ở Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305408+07:00",
+      "fetched": "2026-01-10T21:16:34.305517+07:00"
+    },
+    {
+      "id": "5a1f378f9d9390c7d6d2f4b2a63daa95",
+      "title": "Đà Lạt lần đầu mở đường chạy chuẩn quốc tế xuyên rừng từ núi Voi sang hồ Tuyền Lâm",
+      "link": "https://tuoitre.vn/da-lat-lan-dau-mo-duong-chay-chuan-quoc-te-xuyen-rung-tu-nui-voi-sang-ho-tuyen-lam-20260110182719366.htm",
+      "summary": "Vietnam Highlands Trail - Lâm Đồng 2026 đã mở một cung đường chạy trail giữa lòng Đà Lạt được thiết kế đạt chuẩn quốc tế xuyên rừng từ núi Voi sang hồ Tuyền Lâm. Sự kiện đã mở ra cơ hội tổ chức các giải chạy quy mô lớn tại Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305285+07:00",
+      "fetched": "2026-01-10T21:16:34.305397+07:00"
+    },
+    {
+      "id": "70ff5cba40403b3e311ff100cb5d9838",
+      "title": "Hoa hậu Biển Việt Nam toàn cầu tổ chức tại Cần Thơ",
+      "link": "https://tuoitre.vn/hoa-hau-bien-viet-nam-toan-cau-to-chuc-tai-can-tho-20260110180127675.htm",
+      "summary": "Cuộc thi Hoa hậu Biển Việt Nam toàn cầu 2026 góp phần quảng bá du lịch, khẳng định mạnh mẽ chủ quyền biển đảo Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305154+07:00",
+      "fetched": "2026-01-10T21:16:34.305273+07:00"
+    },
+    {
+      "id": "e1fd150dcd18c40d64b2003dd0149176",
+      "title": "Giới thiệu Đại tướng Lương Tam Quang ứng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://tuoitre.vn/gioi-thieu-dai-tuong-luong-tam-quang-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-20260110182710724.htm",
+      "summary": "Đại tướng Lương Tam Quang, Thượng tướng Lê Quốc Hùng, Trung tướng Phạm Công Nguyên, Đại tá Nguyễn Trung Kiên là các nhân sự thuộc Bộ Công an được giới thiệu ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.305012+07:00",
+      "fetched": "2026-01-10T21:16:34.305141+07:00"
+    },
+    {
+      "id": "8e65fa911339ec1f0ca388e005bc279c",
+      "title": "Vệ binh Cách mạng Iran cảnh báo 'lằn ranh đỏ' với những người biểu tình",
+      "link": "https://tuoitre.vn/ve-binh-cach-mang-iran-canh-bao-lan-ranh-do-voi-nhung-nguoi-bieu-tinh-20260110191445109.htm",
+      "summary": "Tuyên bố được đưa ra bất chấp những lời cảnh báo từ phía Mỹ hôm 9-1 rằng có thể tấn công quân sự nếu chính quyền Iran tiếp tục đàn áp các cuộc biểu tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304887+07:00",
+      "fetched": "2026-01-10T21:16:34.305001+07:00"
+    },
+    {
+      "id": "f01afe419e129792bf9e608a1fa91026",
+      "title": "‘Piano là nhạc cụ quan trọng nhất để Việt Nam hội nhập thế giới’",
+      "link": "https://tuoitre.vn/piano-la-nhac-cu-quan-trong-nhat-de-viet-nam-hoi-nhap-the-gioi-20260110181908509.htm",
+      "summary": "NSND Phạm Ngọc Khôi - Phó chủ tịch Hội Nhạc sĩ Việt Nam, đưa ra nhận định trên tại buổi gặp gỡ báo chí thông tin chính thức về Yoshine Music Festival toàn quốc 2026 chiều 10-1 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304763+07:00",
+      "fetched": "2026-01-10T21:16:34.304876+07:00"
+    },
+    {
+      "id": "09771cd166093b276d59f753307fa994",
+      "title": "Thu hồi 3 lô kem chống nắng giả do công ty của chồng Đoàn Di Băng phân phối",
+      "link": "https://tuoitre.vn/thu-hoi-3-lo-kem-chong-nang-gia-do-cong-ty-cua-chong-doan-di-bang-phan-phoi-20260110192502699.htm",
+      "summary": "Công an tỉnh Đồng Nai thông báo thu hồi 3 lô kem chống nắng Hanayuki giả do công ty của ông Nguyễn Quốc Vũ - chồng ca sĩ Đoàn Di Băng - phân phối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304633+07:00",
+      "fetched": "2026-01-10T21:16:34.304752+07:00"
+    },
+    {
+      "id": "71f197bca725e10b2f7322bb31323c5e",
+      "title": "Ông Medvedev cảnh báo chiến tranh ở châu Âu, kèm minh họa sức mạnh tên lửa Nga",
+      "link": "https://tuoitre.vn/ong-medvedev-canh-bao-chien-tranh-o-chau-au-kem-minh-hoa-suc-manh-ten-lua-nga-20260110193606138.htm",
+      "summary": "Ông Medvedev phản ứng mạnh sau khi Tổng thống Pháp Emmanuel Macron thảo luận với các nghị sĩ về việc triển khai 6.000 binh sĩ đến Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304499+07:00",
+      "fetched": "2026-01-10T21:16:34.304617+07:00"
+    },
+    {
+      "id": "e5a312467100d901692684c850598caf",
+      "title": "Tăng trưởng tín dụng năm 2025 đến 19,1%, nhưng năm 2026 sẽ thấp hơn",
+      "link": "https://tuoitre.vn/tang-truong-tin-dung-nam-2025-den-19-1-nhung-nam-2026-se-thap-hon-20260110193917581.htm",
+      "summary": "Ngân hàng Nhà nước đặt mục tiêu tăng trưởng tín dụng năm 2026 chỉ khoảng 15%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304358+07:00",
+      "fetched": "2026-01-10T21:16:34.304486+07:00"
+    },
+    {
+      "id": "5386ca52b0703f9ebcde7bb7bf4564eb",
+      "title": "Lãnh đạo TP.HCM thăm nông dân làng mai vàng Bình Lợi trước Tết Bính Ngọ",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-tham-nong-dan-lang-mai-vang-binh-loi-truoc-tet-binh-ngo-20260110193621551.htm",
+      "summary": "Chiều 10-1, đoàn công tác do Phó bí thư Thành ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM Nguyễn Phước Lộc làm trưởng đoàn đến thăm nông dân làng mai vàng Bình Lợi (xã Bình Lợi, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T21:16:34.304127+07:00",
+      "fetched": "2026-01-10T21:16:34.304343+07:00"
+    },
     {
       "id": "bfed87b5c8c9b2fd76a3e218507f15b0",
       "title": "Trung Quốc, Nga, Iran tập trận hải quân, Nam Phi giải thích 'không nhằm đối đầu Mỹ'",
@@ -453,6 +573,76 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T15:23:05.772287+07:00"
     },
     {
+      "id": "9ccb7ef980008c6dc5e7dd59d92c7a42",
+      "title": "Vào tiệm vàng vờ mua trang sức rồi cướp giật nhẫn, lắc vàng",
+      "link": "https://thanhnien.vn/vao-tiem-vang-vo-mua-trang-suc-roi-cuop-giat-nhan-lac-vang-185260110203742353.htm",
+      "summary": "Giả vờ vào mua trang sức tại một tiệm vàng ở chợ Hòa Cầm (P.Cẩm Lệ, TP.Đà Nẵng), một nam thanh niên cướp giật nhẫn và lắc tay vàng trị giá gần 30 triệu đồng rồi nhanh chóng tẩu thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:14:00+07:00",
+      "fetched": "2026-01-10T21:16:33.301300+07:00"
+    },
+    {
+      "id": "05957f13f4288decaff002af3aa9baef",
+      "title": "Đội U.19 Hà Nội thắng ngược ngoạn mục tại giải U.19 nữ quốc gia",
+      "link": "https://thanhnien.vn/doi-u19-ha-noi-thang-nguoc-ngoan-muc-tai-giai-u19-nu-quoc-gia-185260110210622346.htm",
+      "summary": "U.19 Hà Nội đã có màn trình diễn ấn tượng khi giành chiến thắng 3-1 trước Than Khoáng sản Việt Nam (Than KSVN) tại lượt trận thứ hai giải bóng đá nữ vô địch U.19 nữ quốc gia – Cúp Acecook 2026 vào ngày 10.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T14:06:00+07:00",
+      "fetched": "2026-01-10T21:16:33.301468+07:00"
+    },
+    {
+      "id": "622b1be95f3d5bdbbcfbf57b62907c6b",
+      "title": "Xưởng gỗ ngoại thành Hà Nội bốc cháy ngùn ngụt",
+      "link": "https://vnexpress.net/xuong-go-ngoai-thanh-ha-noi-boc-chay-ngun-ngut-5004180.html",
+      "summary": "Xưởng sản xuất gỗ và khung tranh trong cụm công nghiệp Sông Cùng, xã Đan Phượng, bốc cháy ngùn ngụt, tối 10/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:54:39+07:00",
+      "fetched": "2026-01-10T21:16:30.214009+07:00"
+    },
+    {
+      "id": "22b3890740f417ae29bf0653724118b3",
+      "title": "Thủ môn Thái Lan vào chung kết giải bóng đá THPT Nhật Bản",
+      "link": "https://vnexpress.net/thu-mon-thai-lan-vao-chung-ket-giai-bong-da-thpt-nhat-ban-5004172.html",
+      "summary": "Poomrapee Siribunyakul cùng Kashima Gakuen đánh bại Ryutsu Keizai Kashiwa 1-0 để vào chung kết giải bóng đá THPT toàn Nhật Bản 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:46:02+07:00",
+      "fetched": "2026-01-10T21:16:30.214237+07:00"
+    },
+    {
+      "id": "bb5ef58a57de4c4c811836b6b490d8dc",
+      "title": "Tây Ninh: Xử phạt cá nhân chia sẻ thông tin từ kênh của Lê Trung Khoa",
+      "link": "https://thanhnien.vn/tay-ninh-xu-phat-ca-nhan-chia-se-thong-tin-tu-kenh-cua-le-trung-khoa-185260110180633557.htm",
+      "summary": "Một người đàn ông vừa bị Công an tỉnh Tây Ninh xử phạt vi phạm hành chính do chia sẻ những nội dung từ kênh của Lê Trung Khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:44:00+07:00",
+      "fetched": "2026-01-10T21:16:33.301623+07:00"
+    },
+    {
+      "id": "42b54fddc7df978a0d5eca4104a5b9e6",
+      "title": "Gia Lai giao KPI phát triển kinh tế, xã hội đến 135 xã, phường",
+      "link": "https://thanhnien.vn/gia-lai-giao-kpi-phat-trien-kinh-te-xa-hoi-den-135-xa-phuong-185260110165240785.htm",
+      "summary": "Gia Lai giao chỉ tiêu phát triển kinh tế - xã hội đến từng sở, ngành, xã, phường, lấy hiệu quả thực chất và sự hài lòng làm thước đo điều hành năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:44:00+07:00",
+      "fetched": "2026-01-10T21:16:33.301773+07:00"
+    },
+    {
+      "id": "6227e94da63b6308e094052f9a4d3f35",
+      "title": "U.23 Nhật Bản 'đè bẹp' UAE để xây chắc ngôi đầu, U.23 Hàn Quốc thắng đậm Li Băng",
+      "link": "https://thanhnien.vn/u23-nhat-ban-de-bep-uae-de-xay-chac-ngoi-dau-u23-han-quoc-thang-dam-li-bang-185260110203030509.htm",
+      "summary": "Dù không bung hết sức nhưng U.23 Nhật Bản vẫn có thế trận áp đảo, thắng dễ U.23 UAE 3-0 ở lượt đấu thứ 2 bảng B, diễn ra tối 10.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:31:00+07:00",
+      "fetched": "2026-01-10T21:16:33.301922+07:00"
+    },
+    {
       "id": "bc63e9ab4f0aa3afc537a5f0ae0d2977",
       "title": "Đừng để sự 'nhẹ lòng' đánh tráo sức khỏe cộng đồng",
       "link": "https://tuoitre.vn/dung-de-su-nhe-long-danh-trao-suc-khoe-cong-dong-20260110080039807.htm",
@@ -603,6 +793,216 @@ window.newsData_2026_01_10 = {
       "fetched": "2026-01-10T13:27:06.035629+07:00"
     },
     {
+      "id": "d79f0f80d1330ffb774d1c3ebfbea410",
+      "title": "Nước nào vượt Thái Lan thành điểm du lịch số một Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-vuot-thai-lan-thanh-diem-du-lich-so-mot-dong-nam-a-5004115.html",
+      "summary": "Đón hơn 38 triệu lượt khách quốc tế, nước này đã vượt mặt Thái Lan để trở thành điểm đến hấp dẫn nhất Đông Nam Á. Bạn có biết đây là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:25:39+07:00",
+      "fetched": "2026-01-10T21:16:30.214414+07:00"
+    },
+    {
+      "id": "93ff2b205b96723d86f931ac8fedfac1",
+      "title": "Hai bà cháu tử vong do va chạm xe đầu kéo",
+      "link": "https://vnexpress.net/hai-ba-chau-tu-vong-do-va-cham-xe-dau-keo-5004177.html",
+      "summary": "Bà Thái Thị Định cùng cháu trai 12 tuổi tử vong sau khi xe máy chở hai nạn nhân va chạm với xe đầu kéo trên quốc lộ 46, tại đoạn đường đang sửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:07:14+07:00",
+      "fetched": "2026-01-10T21:16:30.214574+07:00"
+    },
+    {
+      "id": "12eecf97c93d31bf3fe6bc15bb58cf79",
+      "title": "Cô gái đi xe máy nửa năm vẫn vô tư không thay nhớt",
+      "link": "https://vnexpress.net/co-gai-di-xe-may-nua-nam-van-vo-tu-khong-thay-nhot-5004119.html",
+      "summary": "Khi thợ hỏi 'chạy bao nhiêu km' rồi, cô gái không trả lời được mà áng chừng thời gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:00:00+07:00",
+      "fetched": "2026-01-10T21:16:30.214728+07:00"
+    },
+    {
+      "id": "1a62a57be8bbae87d6acd626ccbf4fdb",
+      "title": "Vì sao nên ăn khoai tây thường xuyên?",
+      "link": "https://vnexpress.net/vi-sao-nen-an-khoai-tay-thuong-xuyen-5004081.html",
+      "summary": "Khoai tây là thực phẩm đa năng chứa nhiều vitamin và khoáng chất, giúp tăng cảm giác no, thúc đẩy tiêu hóa và góp phần phòng bệnh mạn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:00:00+07:00",
+      "fetched": "2026-01-10T21:16:30.214882+07:00"
+    },
+    {
+      "id": "768b58313afc58d4d5d73426d73809f0",
+      "title": "Oppo Reno15 - smartphone chụp ảnh AI cho giới trẻ",
+      "link": "https://vnexpress.net/oppo-reno15-smartphone-chup-anh-ai-cho-gioi-tre-5003893.html",
+      "summary": "Oppo Reno15 Series chú trọng khả năng chụp ảnh selfie, chân dung kết hợp chỉnh sửa AI, pin 6.200 mAh, thiết kế mặt lưng \"mưa sao băng\", ra mắt ngày 10/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:00:00+07:00",
+      "fetched": "2026-01-10T21:16:30.215051+07:00"
+    },
+    {
+      "id": "166d5b3352f613300f5133bd34d1b1a1",
+      "title": "Xem nhanh 20h ngày 10.1: Khách Tây nói gì khi TP.HCM lạnh hiếm thấy | Kịch bản hy hữu khiến U.23 VN bị loại",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-101-khach-tay-noi-gi-khi-tphcm-lanh-hiem-thay-kich-ban-hy-huu-khien-u23-vn-bi-loai-185260110160748582.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 10.1 có nhiều tin tức đáng chú ý về: TP.HCM se lạnh hiếm thấy, khách Tây vẫn khen 'ấm áp, dễ chịu'; kịch bản ‘6 điểm vẫn bị loại’ treo lơ lửng, U.23 Việt Nam đối mặt thử thách lớn nhất bảng A;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T13:00:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302070+07:00"
+    },
+    {
+      "id": "768b58313afc58d4d5d73426d73809f0",
+      "title": "Oppo Reno15 - smartphone chụp ảnh AI cho giới trẻ",
+      "link": "https://vnexpress.net/oppo-reno15-smartphone-chup-anh-ai-cho-gioi-tre-5003893.html",
+      "summary": "Oppo Reno15 Series chú trọng khả năng chụp ảnh selfie, chân dung kết hợp chỉnh sửa AI, pin 6.200 mAh, thiết kế mặt lưng \"mưa sao băng\", ra mắt ngày 10/1.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-10T13:00:00+07:00",
+      "fetched": "2026-01-10T21:16:38.928717+07:00"
+    },
+    {
+      "id": "72b709e17d000f5a6e9ebbc92cc16d67",
+      "title": "Công an thu hồi kem chống nắng giả do Đoàn Di Băng quảng cáo",
+      "link": "https://vnexpress.net/cong-an-thu-hoi-kem-chong-nang-gia-do-doan-di-bang-quang-cao-5004175.html",
+      "summary": "Kem chống nắng Hanayuki Sunscreen Body được xác định giả, công an thu hồi để phục vụ điều tra vụ án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:53:12+07:00",
+      "fetched": "2026-01-10T21:16:30.215231+07:00"
+    },
+    {
+      "id": "fd867bd51947f278bc01248ae862aeb9",
+      "title": "Một học sinh lớp 8 chế 3.000 quả pháo nổ để bán cho bạn học",
+      "link": "https://thanhnien.vn/mot-hoc-sinh-lop-8-che-3000-qua-phao-no-de-ban-cho-ban-hoc-185260110190607483.htm",
+      "summary": "Một nam học sinh lớp 8 ở Nghệ An đã mua thuốc nổ về nhà, tự chế 3.000 quả pháo nổ để bán cho các học sinh cùng trường và bị công an bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:51:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302233+07:00"
+    },
+    {
+      "id": "08d1f5d64de7db5186d286bfe5de7400",
+      "title": "Nhiều chuỗi cafe dừng bán trà vải mua từ Công ty Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-chuoi-cafe-dung-ban-tra-vai-mua-tu-cong-ty-do-hop-ha-long-5004173.html",
+      "summary": "The Coffee House ngừng bán các dòng trà, cà phê từ vải mua của Công ty Đồ hộp Hạ Long, còn Phúc Long cũng ngừng nhập nguyên liệu vải từ đơn vị này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:46:21+07:00",
+      "fetched": "2026-01-10T21:16:30.215392+07:00"
+    },
+    {
+      "id": "08d1f5d64de7db5186d286bfe5de7400",
+      "title": "Nhiều chuỗi cafe dừng bán trà vải mua từ Công ty Đồ hộp Hạ Long",
+      "link": "https://vnexpress.net/nhieu-chuoi-cafe-dung-ban-tra-vai-mua-tu-cong-ty-do-hop-ha-long-5004173.html",
+      "summary": "The Coffee House ngừng bán các dòng trà, cà phê từ vải mua của Công ty Đồ hộp Hạ Long, còn Phúc Long cũng ngừng nhập nguyên liệu vải từ đơn vị này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-10T12:46:21+07:00",
+      "fetched": "2026-01-10T21:16:36.427996+07:00"
+    },
+    {
+      "id": "47791203baa1310155962418802c6262",
+      "title": "Cũng vẫn là phạt góc nhưng ‘nó’ lạ lắm, bảo sao U.23 Việt Nam được cả châu Á mê",
+      "link": "https://thanhnien.vn/cung-van-la-phat-goc-nhung-no-la-lam-bao-sao-u23-viet-nam-duoc-ca-chau-a-me-185260110191041373.htm",
+      "summary": "So với trận gặp U.23 Jordan, ở trận đấu với U.23 Kyrgyzstan, U.23 Việt Nam khai thác các tình huống đá phạt góc theo cách rất khác. Dù vậy, kết quả vẫn như cũ, đó là chúng ta ghi bàn từ những pha đá phạt góc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:46:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302385+07:00"
+    },
+    {
+      "id": "5b567d145f16b3db024c6846114c583e",
+      "title": "Ốc Thanh Vân đưa con gái đi quay gameshow, nhan sắc gây bất ngờ",
+      "link": "https://thanhnien.vn/oc-thanh-van-dua-con-gai-di-quay-gameshow-nhan-sac-gay-bat-ngo-185260110193350633.htm",
+      "summary": "Ốc Thanh Vân đảm nhận vai trò dẫn dắt 'Mái ấm gia đình Việt' tại Hải Phòng. Chuyến công tác này còn có sự góp mặt của con gái lớn nữ diễn viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:42:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302535+07:00"
+    },
+    {
+      "id": "f7b0b05e3adf27254488d84ff694b5aa",
+      "title": "Lâm Diệu Khả, sao nhí từng 'hát nhép' tại Olympic Bắc Kinh 2008 giờ ra sao?",
+      "link": "https://thanhnien.vn/lam-dieu-kha-sao-nhi-tung-hat-nhep-tai-olympic-bac-kinh-2008-gio-ra-sao-185260110181828528.htm",
+      "summary": "Từng được ca ngợi là 'thiên thần Olympic', Lâm Diệu Khả nhanh chóng trở thành hiện tượng quốc tế sau lễ khai mạc Olympic Bắc Kinh 2008. Thế nhưng, bê bối hát nhép ngay sau đó đã khiến sự nghiệp của cô 'nếm trái đắng', theo Kbizoom ngày 9.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:42:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302687+07:00"
+    },
+    {
+      "id": "68e860d1ae234d5463f44d8a907aeabb",
+      "title": "Hậu trường Lưu Diệc Phi đóng 'Thiên Long Bát Bộ'",
+      "link": "https://vnexpress.net/hau-truong-luu-diec-phi-dong-thien-long-bat-bo-5004008.html",
+      "summary": "Cảnh diễn viên Trung Quốc Lưu Diệc Phi đóng \"Thiên Long Bát Bộ\" năm cô 15 tuổi gây chú ý với khán giả vì độ khó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:41:44+07:00",
+      "fetched": "2026-01-10T21:16:30.215550+07:00"
+    },
+    {
+      "id": "3a82ca2b82ed77797ceb5c8137b7f7e1",
+      "title": "Doanh nghiệp và trường học ‘bắt tay’ thúc đẩy thương mại hóa tài sản trí tuệ",
+      "link": "https://thanhnien.vn/doanh-nghiep-va-truong-hoc-bat-tay-thuc-day-thuong-mai-hoa-tai-san-tri-tue-185260110190409906.htm",
+      "summary": "Trường ĐH Luật TP.HCM và Công ty cổ phần truyền thông Trường Thành ký kết thỏa thuận hợp tác đào tạo và thúc đẩy thương mại hóa tài sản trí tuệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:39:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302832+07:00"
+    },
+    {
+      "id": "5c72b34c8c4ec740d1a28ae3deb4298a",
+      "title": "Xôn xao tin Trương Mạn Ngọc tái xuất showbiz sau nhiều năm ở ẩn",
+      "link": "https://thanhnien.vn/xon-xao-tin-truong-man-ngoc-tai-xuat-showbiz-sau-nhieu-nam-o-an-185260110170306252.htm",
+      "summary": "Theo HK01, tin đồn Trương Mạn Ngọc tham gia 'Tỷ tỷ đạp gió rẽ sóng' mùa mới với những đãi ngộ đặc biệt gây xôn xao khắp mạng xã hội Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:37:00+07:00",
+      "fetched": "2026-01-10T21:16:33.302974+07:00"
+    },
+    {
+      "id": "907f009d631ba36f00103741db3fe14f",
+      "title": "Diễn viên Chang Mây đang gây xôn xao mạng xã hội là ai?",
+      "link": "https://thanhnien.vn/dien-vien-chang-may-dang-gay-xon-xao-mang-xa-hoi-la-ai-185260110151806977.htm",
+      "summary": "Trước khi vướng ồn ào, Chang Mây được biết đến là nữ diễn viên từng góp mặt trong Cách em 1 milimet hay Gia đình trái dấu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:37:00+07:00",
+      "fetched": "2026-01-10T21:16:33.303131+07:00"
+    },
+    {
+      "id": "43fa75cf4055e1b9341f4aeeeed5f24d",
+      "title": "Đẩy ngã bác của chồng, cướp bông tai",
+      "link": "https://vnexpress.net/day-nga-bac-cua-chong-cuop-bong-tai-5004140.html",
+      "summary": "Khi to tiếng, Đinh Thị Kim dùng gậy gỗ gây ra cái chết của người bác sống một mình, tháo đôi bông tai đem bán lấy 2,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:36:53+07:00",
+      "fetched": "2026-01-10T21:16:30.215705+07:00"
+    },
+    {
+      "id": "39100fa5c344b78ff7b27f9dadd61525",
+      "title": "Truy tìm 4 nghi can trong vụ án phòng khám phụ khoa 'vẽ bệnh' tại Đà Nẵng",
+      "link": "https://vnexpress.net/truy-tim-4-nghi-can-trong-vu-an-phong-kham-phu-khoa-ve-benh-tai-da-nang-5004138.html",
+      "summary": "Mở rộng điều tra giai đoạn 3 vụ án tại Phòng khám Đa khoa Quốc tế Đà Nẵng, công an truy nã nữ kế toán và truy tìm ba người Trung Quốc liên quan hoạt động phòng khám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:35:12+07:00",
+      "fetched": "2026-01-10T21:16:30.215862+07:00"
+    },
+    {
+      "id": "30bc78c46d4ae61e3ca43ca3c5d3b447",
+      "title": "VinFast VF 6 nhận giải 'Mẫu xe đáng tiền nhất năm' tại Autocar India Awards 2026",
+      "link": "https://thanhnien.vn/vinfast-vf-6-nhan-giai-mau-xe-dang-tien-nhat-nam-tai-autocar-india-awards-2026-185251108110329967.htm",
+      "summary": "Ngày 10.1, tại Ấn Độ, mẫu SUV điện VinFast VF 6 của Việt Nam đã được vinh danh với giải \"Mẫu xe đáng tiền nhất năm\" tại Autocar India Awards 2026 - một trong những hệ thống giải thưởng uy tín của ngành ô tô Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:35:00+07:00",
+      "fetched": "2026-01-10T21:16:33.303291+07:00"
+    },
+    {
       "id": "e55eb996c40adec56936f29f947316e0",
       "title": "179 nạn nhân vụ tai nạn máy bay Jeju Air lẽ ra có thể sống sót",
       "link": "https://thanhnien.vn/179-nan-nhan-vu-tai-nan-may-bay-jeju-air-le-ra-co-the-song-sot-185260110193101348.htm",
@@ -641,6 +1041,16 @@ window.newsData_2026_01_10 = {
       "category": "Tổng hợp",
       "published": "2026-01-10T12:21:00+07:00",
       "fetched": "2026-01-10T19:35:07.580799+07:00"
+    },
+    {
+      "id": "a6b76d7c55d72a312a9c5685c166a41b",
+      "title": "Dùng Facebook ảo lừa bán điện thoại giá ưu đãi",
+      "link": "https://vnexpress.net/dung-facebook-ao-lua-ban-dien-thoai-gia-uu-dai-5004159.html",
+      "summary": "Lợi dụng thông tin giảm giá nội bộ của hãng điện thoại, Nguyễn Quang Đại tạo tài khoản Facebook giả, dàn dựng giao dịch mua bán để chiếm đoạt tiền của người quen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-10T12:20:46+07:00",
+      "fetched": "2026-01-10T21:16:30.216036+07:00"
     },
     {
       "id": "247d1767a6c8e3a75e22213004bc18a3",
