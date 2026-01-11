@@ -1,7 +1,157 @@
 window.newsData_2026_01_11 = {
   "date": "2026-01-11",
-  "lastUpdated": "2026-01-11T17:18:42.750642+07:00",
+  "lastUpdated": "2026-01-11T19:36:08.828003+07:00",
   "articles": [
+    {
+      "id": "ac50be7a32ec3019f0ee504320c5ffe0",
+      "title": "Tác giả Attack on Titan kiệt sức, đã đổ cạn ý tưởng vào manga đầu tay",
+      "link": "https://tuoitre.vn/tac-gia-attack-on-titan-kiet-suc-da-do-can-y-tuong-vao-manga-dau-tay-20260111164341161.htm",
+      "summary": "Sau hơn một thập kỷ đồng hành cùng độc giả toàn cầu, Attack on Titan đã khép lại từ năm 2021 với bản manga và năm 2023 với bản anime.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807749+07:00",
+      "fetched": "2026-01-11T19:35:59.807861+07:00"
+    },
+    {
+      "id": "95fd7330edf1d45599580776d976d34c",
+      "title": "TP.HCM bắt đầu triển khai dự án công viên dọc kênh Tẻ và đường Tôn Thất Thuyết",
+      "link": "https://tuoitre.vn/tp-hcm-bat-dau-trien-khai-du-an-cong-vien-doc-kenh-te-va-duong-ton-that-thuyet-20260111164014624.htm",
+      "summary": "UBND TP.HCM vừa chỉ đạo các đơn vị triển khai nghị quyết của HĐND về chủ trương đầu tư dự án cải tạo, mở rộng đường Tôn Thất Thuyết và công viên cây xanh dọc bờ kênh Tẻ với vốn đầu tư hơn 5.500 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807625+07:00",
+      "fetched": "2026-01-11T19:35:59.807738+07:00"
+    },
+    {
+      "id": "f55736ef9a7da968996275e2aca5ce6d",
+      "title": "Sóng lớn đánh chìm thúng, ngư dân trôi dạt trên biển Dung Quất may mắn được cứu",
+      "link": "https://tuoitre.vn/song-lon-danh-chim-thung-ngu-dan-troi-dat-tren-bien-dung-quat-may-man-duoc-cuu-20260111170037387.htm",
+      "summary": "Ngư dân đi thuyền thúng đánh bắt hải sản ở biển Dung Quất (Quảng Ngãi) bị sóng lớn đánh chìm, trôi dạt trên biển. May mắn ngư dân được tàu dịch vụ dầu khí phát hiện, ứng cứu kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807477+07:00",
+      "fetched": "2026-01-11T19:35:59.807612+07:00"
+    },
+    {
+      "id": "ac78ee61165f1a5194e38fc5ed3b38a5",
+      "title": "Chuyên gia Hàn Quốc kỳ vọng Đại hội XIV sẽ xác lập tầm nhìn phát triển mới",
+      "link": "https://tuoitre.vn/chuyen-gia-han-quoc-ky-vong-dai-hoi-xiv-se-xac-lap-tam-nhin-phat-trien-moi-20260111170528078.htm",
+      "summary": "Chuyên gia Hàn Quốc kỳ vọng trong bối cảnh kinh tế toàn cầu phân mảnh, Đại hội XIV sẽ xác lập tầm nhìn phát triển mới, giúp Việt Nam nâng cấp chuỗi giá trị và tăng cường tự chủ chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807342+07:00",
+      "fetched": "2026-01-11T19:35:59.807465+07:00"
+    },
+    {
+      "id": "586109bbae6d64930c1bede368d790ab",
+      "title": "Khoa học giải mã cách mỗi người tán tỉnh và sự khác biệt giữa nam và nữ",
+      "link": "https://tuoitre.vn/khoa-hoc-giai-ma-cach-moi-nguoi-tan-tinh-va-su-khac-biet-giua-nam-va-nu-20260111171848594.htm",
+      "summary": "Một nghiên cứu mới chỉ ra tán tỉnh không chỉ vì rung động, mà còn phản ánh tính cách, động cơ và mục đích cá nhân của mỗi người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807199+07:00",
+      "fetched": "2026-01-11T19:35:59.807331+07:00"
+    },
+    {
+      "id": "be3c0c17dd0401da99eac542cf2ad5d7",
+      "title": "U23 Trung Quốc - U23 Úc (hiệp 1) 0-0: U23 Trung Quốc bị ép từ đầu trận",
+      "link": "https://tuoitre.vn/u23-trung-quoc-u23-uc-hiep-1-0-0-u23-trung-quoc-bi-ep-tu-dau-tran-20260111112614549.htm",
+      "summary": "Ngay khi tiếng còi khai cuộc vang lên, U23 Úc đã tích cực dâng cao tấn công và gia tăng sức ép lên khung thành của U23 Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.807078+07:00",
+      "fetched": "2026-01-11T19:35:59.807188+07:00"
+    },
+    {
+      "id": "79cd5cc7ebf07fdbe5d37ce9038914e9",
+      "title": "Mỹ cân nhắc bỏ trừng phạt Venezuela để bán dầu",
+      "link": "https://tuoitre.vn/my-can-nhac-bo-trung-phat-venezuela-de-ban-dau-20260111171240604.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent tiết lộ các lệnh trừng phạt bổ sung của Mỹ với Venezuela có thể được dỡ bỏ ngay trong tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806955+07:00",
+      "fetched": "2026-01-11T19:35:59.807067+07:00"
+    },
+    {
+      "id": "6a119f208de6973f76f65d0b24c9e026",
+      "title": "Cầu lông Thái Lan đạt chiến tích đáng ngưỡng mộ",
+      "link": "https://tuoitre.vn/cau-long-thai-lan-dat-chien-tich-dang-nguong-mo-2026011117183627.htm",
+      "summary": "Chiều ngày 11-1, tay vợt người Thái Lan Kunlavut Vitidsarn đã đánh bại số 1 thế giới Shi Yu Qi của Trung Quốc trong trận chung kết Malaysia Open (mở rộng) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806831+07:00",
+      "fetched": "2026-01-11T19:35:59.806944+07:00"
+    },
+    {
+      "id": "36b83bc52728b64ab43a28340274433d",
+      "title": "Hàng loạt trạm xăng ở Thái Lan bị đánh bom",
+      "link": "https://tuoitre.vn/hang-loat-tram-xang-o-thai-lan-bi-danh-bom-20260111173637212.htm",
+      "summary": "Ít nhất 11 trạm xăng ở miền nam Thái Lan đã phát nổ rạng sáng 11-1 gần như cùng lúc, khiến nhà chức trách tin đây là hành động cố ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806704+07:00",
+      "fetched": "2026-01-11T19:35:59.806820+07:00"
+    },
+    {
+      "id": "f37d87c86ffdd75f10dee891ff0f7e58",
+      "title": "Lắp camera AI tại khu vực cầu Sêrêpốk sau nhiều vụ nhảy cầu",
+      "link": "https://tuoitre.vn/lap-camera-ai-tai-khu-vuc-cau-serepok-sau-nhieu-vu-nhay-cau-20260111170633788.htm",
+      "summary": "Do có nhiều vụ việc nhảy cầu xảy ra trong thời gian qua, chính quyền xã Hòa Phú (tỉnh Đắk Lắk) đã triển khai lắp đặt camera AI tại khu vực cầu Sêrêpốk để giám sát, kịp thời phát hiện các tình huống bất thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806550+07:00",
+      "fetched": "2026-01-11T19:35:59.806691+07:00"
+    },
+    {
+      "id": "52a1417a7aad42f06b6af914ee94840b",
+      "title": "Điểm tin 18h: Hàng nghìn bạn trẻ xếp hàng hiến máu cứu người; Iran bùng nổ biểu tình",
+      "link": "https://tuoitre.vn/diem-tin-18h-hang-nghin-ban-tre-xep-hang-hien-mau-cuu-nguoi-iran-bung-no-bieu-tinh-20260111162159314.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 11-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806423+07:00",
+      "fetched": "2026-01-11T19:35:59.806537+07:00"
+    },
+    {
+      "id": "c5ecd2eb6633fbaf9249fe45778c9070",
+      "title": "TP.HCM lập Ban Điều hành đối thoại doanh nghiệp - chính quyền với 24 đầu mối",
+      "link": "https://tuoitre.vn/tp-hcm-lap-ban-dieu-hanh-doi-thoai-doanh-nghiep-chinh-quyen-voi-24-dau-moi-20260111172151022.htm",
+      "summary": "UBND TP.HCM vừa ban hành quyết định thành lập Ban Điều hành hệ thống đối thoại doanh nghiệp - chính quyền với 24 thành viên là đại diện các sở, ngành, cơ quan trung ương và đơn vị liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806295+07:00",
+      "fetched": "2026-01-11T19:35:59.806411+07:00"
+    },
+    {
+      "id": "b66fb500c16a11b3c75726cf5196f12c",
+      "title": "Vì sao Trái đất bị đồn có thêm 'mặt trăng thứ hai'?",
+      "link": "https://tuoitre.vn/vi-sao-trai-dat-bi-don-co-them-mat-trang-thu-hai-20260111171755803.htm",
+      "summary": "Tin đồn Trái đất có thêm một “mặt trăng tạm thời” tồn tại đến năm 2083 lan truyền mạnh trên mạng xã hội từ cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806161+07:00",
+      "fetched": "2026-01-11T19:35:59.806283+07:00"
+    },
+    {
+      "id": "757b7f95db62c940cca5f9ef67676730",
+      "title": "Công bố giải đấu thể hình có tiền thưởng kỷ lục",
+      "link": "https://tuoitre.vn/cong-bo-giai-dau-the-hinh-co-tien-thuong-ky-luc-20260111181101096.htm",
+      "summary": "Với tổng giải thưởng lên đến 1,6 tỉ đồng tiền mặt, Vietnam Champion Showdown 2026 trở thành giải đấu có mức tiền thưởng cao nhất trong giới thể hình Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.806020+07:00",
+      "fetched": "2026-01-11T19:35:59.806149+07:00"
+    },
+    {
+      "id": "edd4791c47504e34f61cd5f790456644",
+      "title": "Ô tô hất văng 5 xe máy trên đường Võ Văn Ngân",
+      "link": "https://tuoitre.vn/o-to-hat-vang-5-xe-may-tren-duong-vo-van-ngan-20260111181157226.htm",
+      "summary": "Chiều 11-1, ô tô do người đàn ông cầm lái bất ngờ tông 5 xe máy đang dừng chờ đèn đỏ tại giao lộ Võ Văn Ngân - đường số 6 (phường Thủ Đức, TP.HCM) khiến nhiều người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T19:35:59.805800+07:00",
+      "fetched": "2026-01-11T19:35:59.806005+07:00"
+    },
     {
       "id": "37212c36c8d4f9b85e281ff210c17df4",
       "title": "Tranh cãi đặt bánh sinh nhật khi ăn omakase phải đặt cọc 1 triệu đồng",
@@ -433,6 +583,236 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T13:27:55.030612+07:00"
     },
     {
+      "id": "a592496c8d1ceb6c27310fccda4761c6",
+      "title": "Biểu tình lan rộng ở Iran, hơn 100 sĩ quan thiệt mạng",
+      "link": "https://thanhnien.vn/bieu-tinh-lan-rong-o-iran-hon-100-si-quan-thiet-mang-185260111180858351.htm",
+      "summary": "Truyền thông nhà nước Iran ngày 11.1 cập nhật thương vong của các sĩ quan an ninh khi ứng phó với đợt biểu tình quy mô lớn toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:30:00+07:00",
+      "fetched": "2026-01-11T19:35:58.349214+07:00"
+    },
+    {
+      "id": "7fa8f7a954058b2e07e5a492333814d5",
+      "title": "Vườn dưa sai trĩu của mẹ trẻ ở Đồng Nai: Mẹo chọn dưa lưới ngon chuẩn tết",
+      "link": "https://thanhnien.vn/vuon-dua-sai-triu-cua-me-tre-o-dong-nai-meo-chon-dua-luoi-ngon-chuan-tet-185251216163117093.htm",
+      "summary": "Vườn dưa của chị Phạm Như (Đồng Nai) khiến dân mạng trầm trồ bởi giàn dưa sai trĩu, trái đẹp mắt. Người mẹ trẻ còn chia sẻ mẹo chọn dưa lưới ngon chuẩn vị dịp tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:30:00+07:00",
+      "fetched": "2026-01-11T19:35:58.349378+07:00"
+    },
+    {
+      "id": "6ce8f669de340da1d50c1233b6f100f3",
+      "title": "Iran ghi nhận hơn 100 nhân viên an ninh thiệt mạng trong làn sóng biểu tình",
+      "link": "https://vnexpress.net/iran-ghi-nhan-hon-100-nhan-vien-an-ninh-thiet-mang-trong-lan-song-bieu-tinh-5004358.html",
+      "summary": "Truyền thông nhà nước Iran cho biết các cuộc biểu tình leo thang thành bạo lực đã khiến hơn 100 thành viên lực lượng an ninh thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T12:08:28+07:00",
+      "fetched": "2026-01-11T19:36:01.283177+07:00"
+    },
+    {
+      "id": "47a681c932f3c816a105124c978d680f",
+      "title": "Vườn hoa xuân ở TP.HCM chuẩn bị bung nở, hứa hẹn điểm check-in hot Tết 2026",
+      "link": "https://thanhnien.vn/vuon-hoa-xuan-o-tphcm-chuan-bi-bung-no-hua-hen-diem-check-in-hot-tet-2026-185260111120414382.htm",
+      "summary": "Vườn hoa xuân ở xã Tân Nhựt (TP.HCM) đang trong giai đoạn gấp rút hoàn thiện tiểu cảnh để kịp bung nở dịp Tết Nguyên đán Bính Ngọ 2026, hút khách check-in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T12:00:00+07:00",
+      "fetched": "2026-01-11T19:35:58.349530+07:00"
+    },
+    {
+      "id": "24150692e7b75b84206fb264008a9faf",
+      "title": "Công ty CP Đồ hộp Hạ Long tạm dừng hoạt động nhà máy 14 ngày",
+      "link": "https://thanhnien.vn/cong-ty-cp-do-hop-ha-long-tam-dung-hoat-dong-nha-may-14-ngay-185260111183504956.htm",
+      "summary": "Sau khi tổng giám đốc cùng các thuộc cấp bị bắt khẩn cấp liên quan vụ thịt heo nhiễm dịch tả heo châu Phi, HĐQT Công ty CP Đồ hộp Hạ Long quyết định tạm dừng hoạt động nhà máy 14 ngày để ổn định bộ máy và phục vụ điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:55:00+07:00",
+      "fetched": "2026-01-11T19:35:58.349701+07:00"
+    },
+    {
+      "id": "5c3a3d225d41fa6399ea8a678de7469f",
+      "title": "Ô tô tông 6 xe máy trước nhà thiếu nhi Thủ Đức",
+      "link": "https://thanhnien.vn/o-to-tong-6-xe-may-truoc-nha-thieu-nhi-thu-duc-185260111183257989.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang làm rõ nguyên nhân vụ tai nạn liên hoàn ô tô tông 6 xe máy trước đoạn nhà thiếu nhi Thủ Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:52:00+07:00",
+      "fetched": "2026-01-11T19:35:58.349850+07:00"
+    },
+    {
+      "id": "ad2f32bbe7058dd91984b1c5c256f927",
+      "title": "UBND TP.Huế ra thời hạn tháo dỡ công trình 'lạ' trong lăng hoàng thái hậu Từ Dũ",
+      "link": "https://thanhnien.vn/ubnd-tphue-ra-thoi-han-thao-do-cong-trinh-la-trong-lang-hoang-thai-hau-tu-du-185260111171414144.htm",
+      "summary": "Liên quan đến việc xây dựng các công trình tại di tích lăng vua Thiệu Trị, trong đó có công trình 'lạ' trong lăng hoàng thái hậu Từ Dũ, UBND TP.Huế chỉ đạo thời hạn tháo dỡ và một số yêu cầu khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:52:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350003+07:00"
+    },
+    {
+      "id": "24b76abbfcdc59aecea6a0e72b4b247a",
+      "title": "Greenland - Mảnh ghép chiến lược trong tham vọng của ông Trump",
+      "link": "https://vnexpress.net/greenland-manh-ghep-chien-luoc-trong-tham-vong-cua-ong-trump-5003096.html",
+      "summary": "Greenland, hòn đảo thưa dân ở Bắc Cực, đang trở thành tâm điểm tham vọng chiến lược của ông Trump, nhưng đi kèm rủi ro leo thang căng thẳng trong NATO.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T11:49:46+07:00",
+      "fetched": "2026-01-11T19:36:01.283353+07:00"
+    },
+    {
+      "id": "fddb551f38880f3b3f1254bd50ad460b",
+      "title": "Bị chỉ trích vì phát ngôn văng tục, 'đốp chát' với khán giả, Lệ Quyên nói gì?",
+      "link": "https://thanhnien.vn/bi-chi-trich-vi-phat-ngon-vang-tuc-dop-chat-voi-khan-gia-le-quyen-noi-gi-185260111183828064.htm",
+      "summary": "Sau khi vấp phải tranh cãi trái chiều liên quan đến những bình luận bị cho là thô tục, kém văn minh với anti fan trên mạng xã hội, ca sĩ Lệ Quyên đã chính thức lên tiếng làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:49:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350151+07:00"
+    },
+    {
+      "id": "ef9dfc088ae6a804e9a033ff9ab6fe3d",
+      "title": "Ô tô tông loạt xe máy ở TPHCM, ba người bị thương",
+      "link": "https://vnexpress.net/o-to-tong-loat-xe-may-o-tphcm-ba-nguoi-bi-thuong-5004357.html",
+      "summary": "Ôtô tông loạt xe máy ở TP Thủ Đúc cũ, nhiều người bị thương, chiều",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:44:13+07:00",
+      "fetched": "2026-01-11T19:35:54.960890+07:00"
+    },
+    {
+      "id": "236b50d5d3f6a221f5d7498bc458b78b",
+      "title": "Đặt phòng ở Việt Nam qua ứng dụng có dễ bị 'bùng'?",
+      "link": "https://vnexpress.net/dat-phong-o-viet-nam-qua-ung-dung-co-de-bi-bung-5002774.html",
+      "summary": "Chuyên gia nhận định sự cố hủy chỗ khi đặt phòng trực tuyến chủ yếu xuất phát từ quy trình quản lý thủ công và sự thiếu chuyên nghiệp của các cơ sở lưu trú nhỏ lẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:30:45+07:00",
+      "fetched": "2026-01-11T19:35:54.961067+07:00"
+    },
+    {
+      "id": "afe2d50619984ad665fab8a736bcb7c0",
+      "title": "Rét khô 'khóa' bụi mịn, ô nhiễm không khí lan rộng ở miền Bắc",
+      "link": "https://thanhnien.vn/ret-kho-khoa-bui-min-o-nhiem-khong-khi-lan-rong-o-mien-bac-18526011118082357.htm",
+      "summary": "Trong những ngày rét khô vừa qua, ô nhiễm không khí mở rộng ra các tỉnh miền Bắc khi nhiều trạm đo chất lượng không khí (AQI) tại khu vực đang ở mức kém.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:27:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350299+07:00"
+    },
+    {
+      "id": "35eeff6076ed1c1e9f7ed93a51bd0f2c",
+      "title": "‘Mưa đỏ’ đại thắng, Steven Nguyễn - Lê Hạ Anh gây chú ý tại Ngôi sao xanh",
+      "link": "https://thanhnien.vn/mua-do-dai-thang-steven-nguyen-le-ha-anh-gay-chu-y-tai-ngoi-sao-xanh-185260111035719213.htm",
+      "summary": "Bom tấn 'Mưa đỏ' của Điện ảnh Quân đội Nhân dân đã tạo nên cơn địa chấn tại lễ trao giải Ngôi sao xanh 2025 với 6 cúp vàng, khép lại một năm rực rỡ của dòng phim lịch sử cách mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:18:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350446+07:00"
+    },
+    {
+      "id": "a47f88e8cef2f38c9aef90b46ed6728a",
+      "title": "Việt Nam chưa từng đứng đầu bảng ở các giải vô địch châu Á",
+      "link": "https://vnexpress.net/viet-nam-chua-tung-dung-dau-bang-o-cac-giai-vo-dich-chau-a-5004326.html",
+      "summary": "Tại vòng chung kết U17, U20, U23 châu Á và Asian Cup, các đội tuyển bóng đá Việt Nam đều chưa từng đứng đầu bảng, dù đã tám lần vượt qua vòng bảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:11:50+07:00",
+      "fetched": "2026-01-11T19:35:54.961232+07:00"
+    },
+    {
+      "id": "a47f88e8cef2f38c9aef90b46ed6728a",
+      "title": "Việt Nam chưa từng đứng đầu bảng ở các giải vô địch châu Á",
+      "link": "https://vnexpress.net/viet-nam-chua-tung-dung-dau-bang-o-cac-giai-vo-dich-chau-a-5004326.html",
+      "summary": "Tại vòng chung kết U17, U20, U23 châu Á và Asian Cup, các đội tuyển bóng đá Việt Nam đều chưa từng đứng đầu bảng, dù đã tám lần vượt qua vòng bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T11:11:50+07:00",
+      "fetched": "2026-01-11T19:36:08.817039+07:00"
+    },
+    {
+      "id": "9aa536751eae0459120eae2b0c49586f",
+      "title": "Lâm Đồng yêu cầu làm rõ yếu tố thua lỗ, rủi ro từ XSKT Đắk Nông",
+      "link": "https://thanhnien.vn/lam-dong-yeu-cau-lam-ro-yeu-to-thua-lo-rui-ro-tu-xskt-dak-nong-185260111160132371.htm",
+      "summary": "Phó chủ tịch UBND tỉnh Lâm Đồng Võ Ngọc Hiệp vừa có kết luận việc giám sát 3 công ty xổ số kiến thiết (XSKT) của tỉnh, trong đó yêu cầu công an vào cuộc làm rõ yếu tố rủi ro, thua lỗ của Công ty TNHH MTV XSKT Đắk Nông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:10:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350611+07:00"
+    },
+    {
+      "id": "6c20eb7257731586905b5112aac92a36",
+      "title": "Cá heo trắng xuất hiện ở biển Sầm Sơn",
+      "link": "https://vnexpress.net/ca-heo-trang-xuat-hien-o-bien-sam-son-5004350.html",
+      "summary": "Đàn cá heo mỗi con nặng 100-120 kg bơi sát bờ biển Sầm Sơn, trong đó có con màu trắng khiến nhiều người dân, du khách thích thú, ngày 11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:01:17+07:00",
+      "fetched": "2026-01-11T19:35:54.961391+07:00"
+    },
+    {
+      "id": "709e031e2f0f9f05762084dd917393a0",
+      "title": "Bạn gái để tôi ở vị trí dự bị",
+      "link": "https://vnexpress.net/ban-gai-de-toi-o-vi-tri-du-bi-5003942.html",
+      "summary": "Không phải vì tôi tệ, cũng không hẳn vì người kia quá tốt, chỉ là em chưa sẵn sàng buông ai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T11:00:00+07:00",
+      "fetched": "2026-01-11T19:35:54.961546+07:00"
+    },
+    {
+      "id": "d008081c50f68f03ad9e269d21ff3993",
+      "title": "EVNNPC giới thiệu UAV bảo vệ an toàn lưới điện miền Bắc",
+      "link": "https://thanhnien.vn/evnnpc-gioi-thieu-uav-bao-ve-an-toan-luoi-dien-mien-bac-185260111180210263.htm",
+      "summary": "Ngày 12 - 13.1 tại Hải Phòng, Tổng công ty Điện lực miền Bắc (EVNNPC) tổ chức triển lãm khoa học công nghệ (Techshow EVNNPC 2026) và hội nghị tổng kết công tác sản xuất, kinh doanh năm 2025, triển khai nhiệm vụ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:59:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350766+07:00"
+    },
+    {
+      "id": "f92fd4d87346827f30d34afc185761b4",
+      "title": "Ngày 15.1 bốc thăm AFF Cup 2026, đội tuyển Việt Nam sẽ là hạt giống hàng đầu",
+      "link": "https://thanhnien.vn/ngay-151-boc-tham-aff-cup-2026-doi-tuyen-viet-nam-se-la-hat-giong-hang-dau-185260111133748248.htm",
+      "summary": "Lễ bốc thăm giải vô địch bóng đá Đông Nam Á AFF Cup 2026 sẽ diễn ngày 15.1 tới đây. Với tư cách đương kim vô địch, đội tuyển Việt Nam sẽ là hạt giống số 1 của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:59:00+07:00",
+      "fetched": "2026-01-11T19:35:58.350914+07:00"
+    },
+    {
+      "id": "e4fac67908a9949f24453a7bce8fa123",
+      "title": "Những điểm gây khó chịu khi sử dụng Google Gemini",
+      "link": "https://thanhnien.vn/nhung-diem-gay-kho-chiu-khi-su-dung-google-gemini-185260111123224099.htm",
+      "summary": "Trợ lý AI (trí tuệ nhân tạo) Google Gemini hỗ trợ nhiều tác vụ phức tạp, nhưng người dùng không nên bỏ qua các rủi ro tiềm ẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:55:00+07:00",
+      "fetched": "2026-01-11T19:35:58.351059+07:00"
+    },
+    {
+      "id": "7049d78c66c05c4860abb8f3993edb67",
+      "title": "Vòng loại phía bắc đã sẵn sàng bùng nổ",
+      "link": "https://thanhnien.vn/vong-loai-phia-bac-da-san-sang-bung-no-18526011117260732.htm",
+      "summary": "Công tác chuẩn bị cho lễ khai mạc vòng loại phía bắc giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup) đã hoàn tất vào chiều nay 11.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:52:00+07:00",
+      "fetched": "2026-01-11T19:35:58.351210+07:00"
+    },
+    {
+      "id": "612eed52403ee8e0885dc5d05cc3b903",
+      "title": "Xổ số miền Nam ngày 11 tháng 1: Tiếp tục có dãy số trúng 2 giải",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-11-thang-1-tiep-tuc-co-day-so-trung-2-giai-185260111174902156.htm",
+      "summary": "Dân mạng phát hiện một dãy số đài Kiên Giang trúng 2 giải sau khi có kết quả xổ số miền Nam ngày 11 tháng 1. Trước đó, theo kết quả xổ số miền Nam ngày 10 tháng 1, vé trúng độc đắc đài TP.HCM còn trúng thêm một giải khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:50:00+07:00",
+      "fetched": "2026-01-11T19:35:58.351362+07:00"
+    },
+    {
       "id": "a2a95fbccaa3d67710effd0bb00e125e",
       "title": "VF 6 của VinFast được vinh danh 'Mẫu xe đáng tiền nhất năm' tại Ấn Độ",
       "link": "https://tuoitre.vn/vf-6-cua-vinfast-duoc-vinh-danh-mau-xe-dang-tien-nhat-nam-tai-an-do-20260110221213541.htm",
@@ -581,6 +961,76 @@ window.newsData_2026_01_11 = {
       "category": "Tổng hợp",
       "published": "2026-01-11T10:47:36.978014+07:00",
       "fetched": "2026-01-11T10:47:36.978234+07:00"
+    },
+    {
+      "id": "9037b6fdf1eeb5d09b95a66e21c134a1",
+      "title": "C.P. vào top 20 doanh nghiệp lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/c-p-vao-top-20-doanh-nghiep-lon-nhat-viet-nam-5004290.html",
+      "summary": "C.P. Việt Nam vào bảng xếp hạng Top 500 doanh nghiệp lớn nhất Việt Nam (VNR500) nhờ quy mô, hiệu quả hoạt động và tăng trưởng bền vững trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:45:00+07:00",
+      "fetched": "2026-01-11T19:35:54.961725+07:00"
+    },
+    {
+      "id": "58bc1a63c460ec6c65e2d0f49292e105",
+      "title": "Dự án Hue Heritage đủ điều kiện mở bán",
+      "link": "https://vnexpress.net/du-an-hue-heritage-du-dieu-kien-mo-ban-5004341.html",
+      "summary": "Dự án Hue Heritage gồm 669 căn hộ tại TP Huế, pháp lý đủ điều kiện mở bán, hoàn thiện cao cấp, mật độ xây dựng thấp, tiện ích nội khu đầy đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:30:00+07:00",
+      "fetched": "2026-01-11T19:35:54.961881+07:00"
+    },
+    {
+      "id": "e93a3db2ffdc269b5ff7e55d3cd30a3a",
+      "title": "'Cô giáo nhu thuật' Việt Nam giành HC vàng MMA châu Á",
+      "link": "https://vnexpress.net/co-giao-nhu-thuat-viet-nam-gianh-hc-vang-mma-chau-a-5004347.html",
+      "summary": "Võ sĩ Lò Thị Phung đánh bại Mobina Akbaridastgerdi bằng đòn khóa cổ tam giác ở chung kết hạng dưới 49kg nữ, tại giải võ thuật tổng hợp châu Á (AMMA) 2026, chiều 11/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:20:59+07:00",
+      "fetched": "2026-01-11T19:35:54.962032+07:00"
+    },
+    {
+      "id": "e93a3db2ffdc269b5ff7e55d3cd30a3a",
+      "title": "'Cô giáo nhu thuật' Việt Nam giành HC vàng MMA châu Á",
+      "link": "https://vnexpress.net/co-giao-nhu-thuat-viet-nam-gianh-hc-vang-mma-chau-a-5004347.html",
+      "summary": "Võ sĩ Lò Thị Phung đánh bại Mobina Akbaridastgerdi bằng đòn khóa cổ tam giác ở chung kết hạng dưới 49kg nữ, tại giải võ thuật tổng hợp châu Á (AMMA) 2026, chiều 11/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-11T10:20:59+07:00",
+      "fetched": "2026-01-11T19:36:08.817211+07:00"
+    },
+    {
+      "id": "76283192b8e27f3077c46e1c7bbded82",
+      "title": "Điểm tin 17h: Chất lượng không khí ở nhiều tỉnh thành miền Bắc rất xấu | Ông Maduro thông báo 'vẫn ổn' trong nhà tù Mỹ",
+      "link": "https://vnexpress.net/diem-tin-17h-chat-luong-khong-khi-o-nhieu-tinh-thanh-mien-bac-rat-xau-ong-maduro-thong-bao-van-on-trong-nha-tu-my-5004337.html",
+      "summary": "Cháy dãy nhà trong chợ ở TP HCM; Tăng trưởng tín dụng năm 2026 dự kiến 15%...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:19:38+07:00",
+      "fetched": "2026-01-11T19:35:54.962199+07:00"
+    },
+    {
+      "id": "69c8c5d90572b6bd3f3e0727106c3f5d",
+      "title": "Tháo dỡ nhà rường dựng trái phép ở lăng Hoàng thái hậu Từ Dụ",
+      "link": "https://vnexpress.net/thao-do-nha-ruong-dung-trai-phep-o-lang-hoang-thai-hau-tu-du-5004327.html",
+      "summary": "Nhà rường dựng trái phép ở lăng mộ Hoàng thái hậu Từ Dụ thuộc quần thể lăng vua Thiệu Trị sẽ được tháo dỡ sau Tết Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:18:02+07:00",
+      "fetched": "2026-01-11T19:35:54.962361+07:00"
+    },
+    {
+      "id": "b91d9be4c10aede9476ddbd7435db0f1",
+      "title": "Jennie thắng lớn ở giải âm nhạc danh giá xứ Hàn",
+      "link": "https://vnexpress.net/jennie-thang-lon-o-giai-am-nhac-danh-gia-xu-han-5004263.html",
+      "summary": "Ca sĩ Jennie (nhóm Blackpink), được xướng tên ba lần tại Golden Disc Awards lần thứ 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T10:12:09+07:00",
+      "fetched": "2026-01-11T19:35:54.962519+07:00"
     },
     {
       "id": "01a6b17184a657bff88f6ca33c2f356a",
