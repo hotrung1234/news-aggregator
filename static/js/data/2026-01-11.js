@@ -1,7 +1,157 @@
 window.newsData_2026_01_11 = {
   "date": "2026-01-11",
-  "lastUpdated": "2026-01-11T15:23:19.830996+07:00",
+  "lastUpdated": "2026-01-11T17:18:42.750642+07:00",
   "articles": [
+    {
+      "id": "37212c36c8d4f9b85e281ff210c17df4",
+      "title": "Tranh cãi đặt bánh sinh nhật khi ăn omakase phải đặt cọc 1 triệu đồng",
+      "link": "https://tuoitre.vn/tranh-cai-dat-banh-sinh-nhat-khi-an-omakase-phai-dat-coc-1-trieu-dong-20260111152115456.htm",
+      "summary": "Cộng đồng mạng đang tranh luận về trải nghiệm dịch vụ cao cấp và quyền lợi của thực khách qua một bài trên Facebook liên quan việc đặt cọc khi ăn omakase.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297741+07:00",
+      "fetched": "2026-01-11T17:18:36.297854+07:00"
+    },
+    {
+      "id": "1b8d81320e6e52fe47e3cb9688c4c4e3",
+      "title": "Iran dọa đáp trả Israel, tập kích căn cứ Mỹ nếu Washington can thiệp biểu tình",
+      "link": "https://tuoitre.vn/iran-doa-dap-tra-israel-tap-kich-can-cu-my-neu-washington-can-thiep-bieu-tinh-20260111152920602.htm",
+      "summary": "Chủ tịch Quốc hội Iran tuyên bố Israel và các căn cứ của Mỹ tại Trung Đông là mục tiêu hợp pháp nếu Washington can thiệp vào nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297617+07:00",
+      "fetched": "2026-01-11T17:18:36.297730+07:00"
+    },
+    {
+      "id": "3128ffcdf1d37db713ecd85b71482f53",
+      "title": "Bóng đá Malaysia 'ngó lơ' FIFA",
+      "link": "https://tuoitre.vn/bong-da-malaysia-ngo-lo-fifa-2026011115213193.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đã tự ý phục chức cho Tổng thư ký Azman mà không đợi phán quyết từ FIFA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297491+07:00",
+      "fetched": "2026-01-11T17:18:36.297605+07:00"
+    },
+    {
+      "id": "5b67577831569b5a1dd81c70207863c5",
+      "title": "Điều gì đang chờ đợi fan Conan trong năm 2026",
+      "link": "https://tuoitre.vn/dieu-gi-dang-cho-doi-fan-conan-trong-nam-2026-20260111143920777.htm",
+      "summary": "Năm 2026 hứa hẹn sẽ là một cột mốc đặc biệt với cộng đồng người hâm mộ Thám tử lừng danh Conan khi series đình đám của tác giả Gosho Aoyama đạt cột mốc 30 năm lên sóng không ngừng nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297366+07:00",
+      "fetched": "2026-01-11T17:18:36.297480+07:00"
+    },
+    {
+      "id": "9a92e815c806cf426987709ad15a56aa",
+      "title": "Lý Sơn - Măng Đen 'bắt tay', sáng biển - chiều rừng chẳng phải chuyện mộng mơ",
+      "link": "https://tuoitre.vn/ly-son-mang-den-bat-tay-sang-bien-chieu-rung-chang-phai-chuyen-mong-mo-20260111150825782.htm",
+      "summary": "Lý Sơn - Măng Đen có thế mạnh và định hướng phát triển du lịch mang tầm quốc gia. Bên rừng, bên biển, chính quyền hai địa phương vừa \"bắt tay\" nhau tạo thành vệt du lịch tuyệt vời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297240+07:00",
+      "fetched": "2026-01-11T17:18:36.297355+07:00"
+    },
+    {
+      "id": "1020b106a4c6e25ac7e354f3086e2649",
+      "title": "Rút xăng cho hai cha con dắt bộ trên đường: Câu chuyện đẹp ở thành phố nghĩa tình cần lan tỏa",
+      "link": "https://tuoitre.vn/rut-xang-cho-hai-cha-con-dat-bo-tren-duong-cau-chuyen-dep-o-thanh-pho-nghia-tinh-can-lan-toa-20260111112328877.htm",
+      "summary": "Hành động giúp hai cha con hết xăng trên đường ở TP.HCM của người đàn ông đã nhận được nhiều lời khen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.297111+07:00",
+      "fetched": "2026-01-11T17:18:36.297228+07:00"
+    },
+    {
+      "id": "6c678228b9b3b84d20dd0b9348519202",
+      "title": "Bộ Công an ra quyết định truy nã phạm nhân trốn khỏi trại giam Phước Hòa",
+      "link": "https://tuoitre.vn/bo-cong-an-ra-quyet-dinh-truy-na-pham-nhan-tron-khoi-trai-giam-phuoc-hoa-20260111154004572.htm",
+      "summary": "Bộ Công an đã ra quyết định truy nã phạm nhân Huỳnh Văn Đời ở tỉnh Đồng Tháp vì lợi dụng sơ hở trong lúc lao động để bỏ trốn khỏi trại giam Phước Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296974+07:00",
+      "fetched": "2026-01-11T17:18:36.297099+07:00"
+    },
+    {
+      "id": "bf381bb8d9fd6680e4156364170e575a",
+      "title": "Không biết bơi, nam thanh niên đi bắt tôm bị chết đuối thương tâm",
+      "link": "https://tuoitre.vn/khong-biet-boi-nam-thanh-nien-di-bat-tom-bi-chet-duoi-thuong-tam-20260111150245218.htm",
+      "summary": "Công an xã An Hữu, tỉnh Đồng Tháp cho biết đã tìm thấy thi thể nam thanh niên bị chết đuối trên nhánh sông Cái Cối khi đi bắt tôm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296829+07:00",
+      "fetched": "2026-01-11T17:18:36.296961+07:00"
+    },
+    {
+      "id": "186e275cfdf8c45e2a7ca08aeec3e804",
+      "title": "Ăn mày dĩ vãng",
+      "link": "https://tuoitre.vn/an-may-di-vang-20260111093444035.htm",
+      "summary": "Bao nhiêu người trong chúng ta nhớ tên người viết lời cho một ca khúc? Phần lớn những người viết lời sống bên rìa hào quang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296697+07:00",
+      "fetched": "2026-01-11T17:18:36.296814+07:00"
+    },
+    {
+      "id": "455a2e7e78438c106a61f4fdc74e6db1",
+      "title": "Jennifer Lawrence bị chỉ trích vì bỏ rơi chó cưng và phát ngôn gây sốc",
+      "link": "https://tuoitre.vn/jennifer-lawrence-bi-chi-trich-vi-bo-roi-cho-cung-va-phat-ngon-gay-soc-20260111154302275.htm",
+      "summary": "Jennifer Lawrence khiến nhiều khán giả thất vọng khi tiết lộ cho người khác nuôi chú chó chihuahua tên Princess Pippi Longstocking vì đã cắn con trai cô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296565+07:00",
+      "fetched": "2026-01-11T17:18:36.296680+07:00"
+    },
+    {
+      "id": "4fbe50b01738c9a40c531d7feb52d211",
+      "title": "Rươi kho lối Tứ Kỳ, canh măng chua nấu rươi: Dời ôi là tuyệt!",
+      "link": "https://tuoitre.vn/ruoi-kho-loi-tu-ky-canh-mang-chua-nau-ruoi-doi-oi-la-tuyet-20260111151141095.htm",
+      "summary": "Nhà báo Tuyết Nhung hướng dẫn cách chế biến hai món rươi kho theo lối Tứ Kỳ và canh măng chua nấu rươi trên trang facebook của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296435+07:00",
+      "fetched": "2026-01-11T17:18:36.296553+07:00"
+    },
+    {
+      "id": "36ba1ddbe23f6b2145d60bb3a17a1852",
+      "title": "Lãnh đạo Sở Giáo dục và Đào tạo Sơn La nói gì về dự kiến bài thi lớp 10 với tổ hợp 6 môn?",
+      "link": "https://tuoitre.vn/lanh-dao-so-giao-duc-va-dao-tao-son-la-noi-gi-ve-du-kien-bai-thi-lop-10-voi-to-hop-6-mon-20260111160554124.htm",
+      "summary": "Lãnh đạo Sở Giáo dục và Đào tạo Sơn La đề xuất đưa bài thi tổ hợp vào tuyển sinh lớp 10 từ năm 2026-2027 như một bước điều chỉnh nhằm \"nâng cao chất lượng giáo dục, tránh học tủ, học lệch\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296300+07:00",
+      "fetched": "2026-01-11T17:18:36.296422+07:00"
+    },
+    {
+      "id": "406f4e22146abcccad7e965e6b93c107",
+      "title": "Các bài tập thể dục nào có lợi cho sức khỏe tinh thần?",
+      "link": "https://tuoitre.vn/cac-bai-tap-the-duc-nao-co-loi-cho-suc-khoe-tinh-than-2026011116154496.htm",
+      "summary": "Bên cạnh vai trò với sức khỏe thể chất, khi bạn đang đối mặt với những vấn đề về sức khỏe tinh thần, việc kết hợp vận động và tập thể dục vào thói quen hàng ngày có thể là một cách hiệu quả để cải thiện tâm trạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.296161+07:00",
+      "fetched": "2026-01-11T17:18:36.296288+07:00"
+    },
+    {
+      "id": "52956cd6cc707620cec7ff28df071a6a",
+      "title": "Ngôi nhà gỗ trước mộ Hoàng thái hậu Từ Dụ: Tạm giữ nguyên, sau Tết sẽ tháo",
+      "link": "https://tuoitre.vn/ngoi-nha-go-truoc-mo-hoang-thai-hau-tu-du-tam-giu-nguyen-sau-tet-se-thao-20260111161456475.htm",
+      "summary": "UBND TP Huế yêu cầu Trung tâm Bảo tồn di tích cố đô Huế tạm thời giữ nguyên căn nhà gỗ trước lăng mộ Hoàng thái hậu Từ Dụ đến sau Tết Nguyên đán sẽ tháo dỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.295997+07:00",
+      "fetched": "2026-01-11T17:18:36.296148+07:00"
+    },
+    {
+      "id": "5f40d4fedb57500e782b4491570b36e1",
+      "title": "Nữ võ sĩ Lò Thị Phung giành HCV châu Á sau 50 giây",
+      "link": "https://tuoitre.vn/nu-vo-si-lo-thi-phung-gianh-hcv-chau-a-sau-50-giay-20260111161357944.htm",
+      "summary": "Lò Thị Phung giành huy chương vàng giải vô địch MMA châu Á 2026 sau khi đánh bại đối thủ người Iran sau 50 giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T17:18:36.295722+07:00",
+      "fetched": "2026-01-11T17:18:36.295978+07:00"
+    },
     {
       "id": "7c25fb477f339558311e68617d83a5c4",
       "title": "Làng cầu lông Trung Quốc 'tơi tả' trước An Se Young",
@@ -433,6 +583,126 @@ window.newsData_2026_01_11 = {
       "fetched": "2026-01-11T10:47:36.978234+07:00"
     },
     {
+      "id": "01a6b17184a657bff88f6ca33c2f356a",
+      "title": "Đánh bom đồng loạt tại 11 trạm xăng Thái Lan",
+      "link": "https://vnexpress.net/danh-bom-dong-loat-tai-11-tram-xang-thai-lan-5004329.html",
+      "summary": "Những quả bom được kích nổ đồng loạt tại 11 trạm xăng ở miền nam Thái Lan, dường như là vụ tấn công nhằm cản trở cuộc bầu cử địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:55:09+07:00",
+      "fetched": "2026-01-11T17:18:32.211349+07:00"
+    },
+    {
+      "id": "27620d9fa86677b2a7cfda76854dd59f",
+      "title": "Người phụ nữ đánh hàng xóm tại chung cư ở Hà Nội bị tạm giữ",
+      "link": "https://vnexpress.net/nguoi-phu-nu-danh-hang-xom-tai-chung-cu-o-ha-noi-bi-tam-giu-5004338.html",
+      "summary": "Nguyễn Thị Vân Anh, 44 tuổi, bị tạm giữ hình sự với cáo buộc chửi bới, túm tóc, tát vào mặt hàng xóm ở chung cư dù không gây thương tích cho nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:47:03+07:00",
+      "fetched": "2026-01-11T17:18:32.211532+07:00"
+    },
+    {
+      "id": "34f3583c5bf01d5055bb73163e719cae",
+      "title": "Trí Dương Group ra mắt dự án The Sensia",
+      "link": "https://vnexpress.net/tri-duong-group-ra-mat-du-an-the-sensia-5004328.html",
+      "summary": "The Sensia có quy mô 20 ha tại phường Trường Vinh, bao quanh bởi sông Rào Máng và sông Vinh, định hướng kiến trúc, cảnh quan gắn với bản sắc địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:45:00+07:00",
+      "fetched": "2026-01-11T17:18:32.211697+07:00"
+    },
+    {
+      "id": "5e5037693976255e326923d41b105448",
+      "title": "Thủ tướng: Tiếp tục tinh gọn bộ máy Trung ương và địa phương",
+      "link": "https://vnexpress.net/thu-tuong-tiep-tuc-tinh-gon-bo-may-trung-uong-va-dia-phuong-5004319.html",
+      "summary": "Lãnh đạo Chính phủ đề nghị trong năm 2026 các cơ quan tiếp tục sắp xếp, tinh gọn tổ chức bộ máy ở Trung ương và địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:37:32+07:00",
+      "fetched": "2026-01-11T17:18:32.211854+07:00"
+    },
+    {
+      "id": "3305f8ca894aeca3209ed2aa34d062a2",
+      "title": "Nhà máy Đồ hộp Hạ Long ở Hải Phòng dừng sản xuất",
+      "link": "https://vnexpress.net/nha-may-do-hop-ha-long-o-hai-phong-dung-san-xuat-5004331.html",
+      "summary": "Nhà máy đồ hộp Hạ Long ở Hải Phòng sẽ dừng sản xuất 14 ngày (kể từ ngày mai) và có thể dài hơn căn cứ tình hình thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:34:59+07:00",
+      "fetched": "2026-01-11T17:18:32.212050+07:00"
+    },
+    {
+      "id": "3305f8ca894aeca3209ed2aa34d062a2",
+      "title": "Nhà máy Đồ hộp Hạ Long ở Hải Phòng dừng sản xuất",
+      "link": "https://vnexpress.net/nha-may-do-hop-ha-long-o-hai-phong-dung-san-xuat-5004331.html",
+      "summary": "Nhà máy đồ hộp Hạ Long ở Hải Phòng sẽ dừng sản xuất 14 ngày (kể từ ngày mai) và có thể dài hơn căn cứ tình hình thực tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-11T09:34:59+07:00",
+      "fetched": "2026-01-11T17:18:39.007692+07:00"
+    },
+    {
+      "id": "f4891c45a1f70f2dacdcb83e192c076c",
+      "title": "Mất hứng cà phê vì bảo vệ bắt tự dắt xe, lấy vé",
+      "link": "https://vnexpress.net/mat-hung-ca-phe-vi-bao-ve-bat-tu-dat-xe-lay-ve-5004325.html",
+      "summary": "Tôi loay hoay tìm chỗ để xe, nhưng bảo vệ của quán vẫn thản nhiên ngồi rung đùi, hất mặt ra hiệu, để mặc khách tự luồn lách dựng xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:15:50+07:00",
+      "fetched": "2026-01-11T17:18:32.212209+07:00"
+    },
+    {
+      "id": "35f337fdce55dd3d823ee49342f2ffe8",
+      "title": "Ông Trump ký sắc lệnh bảo vệ nguồn thu từ dầu mỏ Venezuela",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-bao-ve-nguon-thu-tu-dau-mo-venezuela-5004317.html",
+      "summary": "Ông Trump ký sắc lệnh ban bố tình trạng khẩn cấp nhằm ngăn mọi nỗ lực tịch thu doanh thu từ dầu mỏ Venezuela trong các tài khoản kho bạc Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:11:11+07:00",
+      "fetched": "2026-01-11T17:18:32.212363+07:00"
+    },
+    {
+      "id": "35f337fdce55dd3d823ee49342f2ffe8",
+      "title": "Ông Trump ký sắc lệnh bảo vệ nguồn thu từ dầu mỏ Venezuela",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-bao-ve-nguon-thu-tu-dau-mo-venezuela-5004317.html",
+      "summary": "Ông Trump ký sắc lệnh ban bố tình trạng khẩn cấp nhằm ngăn mọi nỗ lực tịch thu doanh thu từ dầu mỏ Venezuela trong các tài khoản kho bạc Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-11T09:11:11+07:00",
+      "fetched": "2026-01-11T17:18:37.641985+07:00"
+    },
+    {
+      "id": "31c7b6ea1a9effba24e32795d522c41f",
+      "title": "Lướt điện thoại trước ngủ bào mòn tình dục vợ chồng",
+      "link": "https://vnexpress.net/luot-dien-thoai-truoc-ngu-bao-mon-tinh-duc-vo-chong-5004264.html",
+      "summary": "Người đàn ông 38 tuổi tìm đến bác sĩ vì lo mình \"yếu đi\" dù xét nghiệm bình thường, nguyên nhân chỉ lộ ra khi thói quen thức khuya lướt điện thoại mỗi đêm được nhắc tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T09:00:00+07:00",
+      "fetched": "2026-01-11T17:18:32.212521+07:00"
+    },
+    {
+      "id": "8df1a1f702b85d7d22b7a638cb85f9e2",
+      "title": "'Mỹ nhân sexy nhất thế giới' diện đầm của NTK Đỗ Long",
+      "link": "https://vnexpress.net/my-nhan-sexy-nhat-the-gioi-dien-dam-cua-ntk-do-long-5004307.html",
+      "summary": "Teyana Taylor - \"Mỹ nhân quyến rũ nhất thế giới\" 2021 - mặc chiếc váy có hiệu ứng đánh lừa thị giác của nhà thiết kế Đỗ Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:46:19+07:00",
+      "fetched": "2026-01-11T17:18:32.212675+07:00"
+    },
+    {
+      "id": "4ce08d7f64057e29e739bf663a9e960f",
+      "title": "Công thức làm món miến xào giò",
+      "link": "https://vnexpress.net/doi-song-cooking-cong-thuc-lam-mon-mien-xao-gio-5004301.html",
+      "summary": "Sợi miến dai mềm quyện cùng giò lụa, thịt nạc, trứng và rau củ, vị đậm đà mà không ngấy. Món ngon dễ  làm, đủ đầy dinh dưỡng cho gia đình khi cần đổi vị nhanh gọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:43:49+07:00",
+      "fetched": "2026-01-11T17:18:32.212836+07:00"
+    },
+    {
       "id": "a9098aa7d24f0876d52d1bb964df2faf",
       "title": "Cô gái Hà Nội Nguyễn Phương Linh trở thành hoa hậu đầu tiên của năm 2026",
       "link": "https://tuoitre.vn/co-gai-ha-noi-nguyen-phuong-linh-tro-thanh-hoa-hau-dau-tien-cua-nam-2026-20260111071638448.htm",
@@ -581,6 +851,36 @@ window.newsData_2026_01_11 = {
       "category": "Tổng hợp",
       "published": "2026-01-11T08:42:38.742193+07:00",
       "fetched": "2026-01-11T08:42:38.742437+07:00"
+    },
+    {
+      "id": "ff50651b5d2bb2a4519c1a3abcfda670",
+      "title": "Thi công đường gây ùn tắc, chủ đầu tư ở TP HCM bị CSGT phạt",
+      "link": "https://vnexpress.net/thi-cong-duong-gay-un-tac-chu-dau-tu-o-tp-hcm-bi-csgt-phat-5004316.html",
+      "summary": "Không bố trí người điều tiết giao thông gây ùn tắc thường xuyên khi thi công dự án ở TP Thủ Đức cũ, chủ đầu tư bị cảnh sát xử phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:35:48+07:00",
+      "fetched": "2026-01-11T17:18:32.213033+07:00"
+    },
+    {
+      "id": "888725b1a008cc2dd9a92c127d065f5f",
+      "title": "Trung Quốc dọn dẹp video AI nội dung xuyên tạc",
+      "link": "https://vnexpress.net/trung-quoc-don-dep-video-ai-noi-dung-xuyen-tac-5004309.html",
+      "summary": "Cục Phát thanh và Truyền hình Quốc gia Trung Quốc bắt đầu triển khai dọn dẹp các video dùng AI bóp méo nội dung tác phẩm phim ảnh gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:25:52+07:00",
+      "fetched": "2026-01-11T17:18:32.213194+07:00"
+    },
+    {
+      "id": "0b51cac7d9972f7e37cb00b68a2a7413",
+      "title": "Camera ghi cảnh xe khách rượt đuổi ôtô tải trên cao tốc TP HCM – Trung Lương",
+      "link": "https://vnexpress.net/camera-ghi-canh-xe-khach-ruot-duoi-oto-tai-tren-cao-toc-tp-hcm-trung-luong-5004295.html",
+      "summary": "Camera hành trình ghi cảnh xe khách rượt theo ôtô tải trên cao tốc TP HCM – Trung Lương, khiến 25 hành khách hoảng loạn, liên tục van xin tài xế dừng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-11T08:12:11+07:00",
+      "fetched": "2026-01-11T17:18:32.213348+07:00"
     },
     {
       "id": "1186639830492ff0235de98bfb341f96",
