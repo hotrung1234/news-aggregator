@@ -1,6 +1,6 @@
 window.newsData_2026_01_13 = {
   "date": "2026-01-13",
-  "lastUpdated": "2026-01-13T10:26:00.164605+07:00",
+  "lastUpdated": "2026-01-13T11:37:48.331312+07:00",
   "articles": [
     {
       "id": "fa8bd0820fd534927b88c16451ba7d0e",
@@ -353,6 +353,376 @@ window.newsData_2026_01_13 = {
       "fetched": "2026-01-13T05:17:02.016220+07:00"
     },
     {
+      "id": "5383e8048df5a5ed696510d204759709",
+      "title": "Báo Malaysia: U.23 Việt Nam quá giỏi, FAM nên sa thải Ban Chấp hành",
+      "link": "https://thanhnien.vn/bao-malaysia-u23-viet-nam-qua-gioi-fam-nen-sa-thai-ban-chap-hanh-185260113113327171.htm",
+      "summary": "Astro Arena dẫn lại đoạn clip các cầu thủ Jordan nhảy múa tại khách sạn ở Jeddah, cảm ơn U.23 Việt Nam đã gián tiếp giúp họ vào tứ kết U.23 châu Á. Các báo khác ở Malaysia thì lặng thinh, nhưng đòi FAM sa thải Ban Chấp hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:37:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993175+07:00"
+    },
+    {
+      "id": "6bcbdd48bf42b9fc6bd23291ad7f2352",
+      "title": "Mong anh trưởng thành trong suy nghĩ, sống có trách nhiệm",
+      "link": "https://vnexpress.net/mong-anh-truong-thanh-trong-suy-nghi-song-co-trach-nhiem-5004965.html",
+      "summary": "Em sinh năm 2000, sống và làm việc tại TP HCM, quê ở Quảng Bình, công tác trong khối nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:35:40+07:00",
+      "fetched": "2026-01-13T11:37:37.274671+07:00"
+    },
+    {
+      "id": "45dc833d0beb5ff026d0c8c69e13a1cc",
+      "title": "Doanh nghiệp trả lương bằng tiền mặt trên 5 triệu đồng có được trừ vào chi phí?",
+      "link": "https://thanhnien.vn/doanh-nghiep-tra-luong-bang-tien-mat-tren-5-trieu-dong-co-duoc-tru-vao-chi-phi-18526011311260064.htm",
+      "summary": "Một số doanh nghiệp vừa có thắc mắc xoay quanh việc trả lương bằng tiền mặt có giá trị từ 5 triệu đồng trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:33:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993347+07:00"
+    },
+    {
+      "id": "65eac95af611f44d25a91ef6554f025f",
+      "title": "Lô hàng điện thoại Nokia được chuyển đến người nhận sau 16 năm",
+      "link": "https://thanhnien.vn/lo-hang-dien-thoai-nokia-duoc-chuyen-den-nguoi-nhan-sau-16-nam-18526011311120293.htm",
+      "summary": "Câu chuyện được chia sẻ trên nền tảng X khi người gửi và người nhận lô điện thoại Nokia ở cùng một thành phố nhưng đến 16 năm sau mới nhận được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:33:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993507+07:00"
+    },
+    {
+      "id": "d03feb5dc70e0319f771972ab1f41594",
+      "title": "Cao thủ nào viết ra 'Cửu âm chân kinh', là quan văn triều đình?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-cao-thu-nao-viet-ra-cuu-am-chan-kinh-la-quan-van-trieu-dinh-5004690.html",
+      "summary": "Từ một quan văn 'trói gà không chặt' của triều đình, người này đã lột xác thành tuyệt thế cao thủ và là tác giả của Cửu âm chân kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:30:00+07:00",
+      "fetched": "2026-01-13T11:37:37.274899+07:00"
+    },
+    {
+      "id": "c219793571d1171c1f4397caee19f1c1",
+      "title": "Vì sao không nên nằm ngay sau khi ăn?",
+      "link": "https://vnexpress.net/vi-sao-khong-nen-nam-ngay-sau-khi-an-5004932.html",
+      "summary": "Nằm hoặc ngủ ngay sau bữa ăn tác động tiêu cực đến cân nặng, gián đoạn tiêu hóa, khiến chất lượng giấc ngủ kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:30:00+07:00",
+      "fetched": "2026-01-13T11:37:37.275071+07:00"
+    },
+    {
+      "id": "3e03fba1214cb36553f296df72214a22",
+      "title": "'Cửa ngõ trung chuyển dầu' thành tâm điểm trong căng thẳng Mỹ - Iran",
+      "link": "https://vnexpress.net/cua-ngo-trung-chuyen-dau-thanh-tam-diem-trong-cang-thang-my-iran-5004950.html",
+      "summary": "Áp thuế nhập khẩu lên đối tác của Iran, Tổng thống Trump đẩy căng thẳng leo thang, khiến eo biển Hormuz - mạch máu dầu mỏ thế giới - đứng trước nguy cơ bị phong tỏa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:27:08+07:00",
+      "fetched": "2026-01-13T11:37:37.275235+07:00"
+    },
+    {
+      "id": "3e03fba1214cb36553f296df72214a22",
+      "title": "'Cửa ngõ trung chuyển dầu' thành tâm điểm trong căng thẳng Mỹ - Iran",
+      "link": "https://vnexpress.net/cua-ngo-trung-chuyen-dau-thanh-tam-diem-trong-cang-thang-my-iran-5004950.html",
+      "summary": "Áp thuế nhập khẩu lên đối tác của Iran, Tổng thống Trump đẩy căng thẳng leo thang, khiến eo biển Hormuz - mạch máu dầu mỏ thế giới - đứng trước nguy cơ bị phong tỏa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T04:27:08+07:00",
+      "fetched": "2026-01-13T11:37:43.444394+07:00"
+    },
+    {
+      "id": "2f8e896964909317b3aa324d3273100c",
+      "title": "Phòng khám Sài Gòn Tâm Đức xin giảm chuyên khoa để 'bảo đảm chất lượng'",
+      "link": "https://thanhnien.vn/phong-kham-sai-gon-tam-duc-xin-giam-chuyen-khoa-de-bao-dam-chat-luong-185260113074941543.htm",
+      "summary": "Phòng khám Sài Gòn Tâm Đức (Cà Mau) xin giảm hai chuyên khoa tai mũi họng và da liễu nhằm 'bảo đảm chất lượng khám chữa bệnh và góp phần chăm sóc, bảo vệ, nâng cao sức khỏe nhân dân'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:26:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993666+07:00"
+    },
+    {
+      "id": "04ef859f42ed24a671fd288ec49824c6",
+      "title": "Mẹ mải nhắn tin hẹn hò khiến con 3 tuổi chết đuối dưới hồ bơi",
+      "link": "https://vnexpress.net/me-mai-nhan-tin-hen-ho-khien-con-3-tuoi-chet-duoi-duoi-ho-boi-5005048.html",
+      "summary": "Kelle Anne Brassart nói chuyện điện thoại suốt 45 phút với những người đàn ông trên ứng dụng hẹn hò trong khi con gái 3 tuổi ngã vào bể bơi.-",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:25:27+07:00",
+      "fetched": "2026-01-13T11:37:37.275393+07:00"
+    },
+    {
+      "id": "680a7e525a48ea21b1496263e9d3296f",
+      "title": "Chọn 24/11 là Ngày Văn hóa Việt Nam, người lao động được nghỉ lễ",
+      "link": "https://vnexpress.net/chon-24-11-la-ngay-van-hoa-viet-nam-nguoi-lao-dong-duoc-nghi-le-5005026.html",
+      "summary": "Bộ Chính trị thống nhất chọn ngày 24/11 hằng năm là Ngày Văn hóa Việt Nam, với chủ trương đây là ngày nghỉ lễ để người lao động được nghỉ và hưởng nguyên lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:25:22+07:00",
+      "fetched": "2026-01-13T11:37:37.275546+07:00"
+    },
+    {
+      "id": "9ab4d09233f0abeea26ba99ff134d021",
+      "title": "Nghị quyết của Bộ Chính trị về phát triển văn hóa Việt Nam",
+      "link": "https://thanhnien.vn/nghi-quyet-cua-bo-chinh-tri-ve-phat-trien-van-hoa-viet-nam-185260113111150294.htm",
+      "summary": "Ngày 7.1, thay mặt Bộ Chính trị, Tổng Bí thư Tô Lâm đã ký ban hành Nghị quyết số 80-NQ/TW của Bộ Chính trị về phát triển văn hóa Việt Nam. Báo Thanh Niên xin trân trọng giới thiệu toàn văn Nghị quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:25:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993820+07:00"
+    },
+    {
+      "id": "ecc0225a1d183ed4dab001c7aab90b3d",
+      "title": "Cảnh báo 3 trình duyệt di động âm thầm 'móc túi' dữ liệu người dùng",
+      "link": "https://thanhnien.vn/canh-bao-3-trinh-duyet-di-dong-am-tham-moc-tui-du-lieu-nguoi-dung-185260113102116505.htm",
+      "summary": "Danh sách những trình duyệt di động đang xâm phạm quyền riêng tư người dùng nhiều nhất hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:23:00+07:00",
+      "fetched": "2026-01-13T11:37:39.993994+07:00"
+    },
+    {
+      "id": "d60b1c8cee7c9f66fedd16d5bf4f29ec",
+      "title": "Cô gái giỏi lắng nghe tìm người thương",
+      "link": "https://vnexpress.net/co-gai-gioi-lang-nghe-tim-nguoi-thuong-5004967.html",
+      "summary": "Tính em nửa hướng nội nửa hướng ngoại, không giỏi nói nhiều nhưng lại rất giỏi lắng nghe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:22:47+07:00",
+      "fetched": "2026-01-13T11:37:37.275641+07:00"
+    },
+    {
+      "id": "5b5197a35cd47dd6d337a088126055c8",
+      "title": "Minnesota, Illinois kiện chính quyền Trump",
+      "link": "https://vnexpress.net/minnesota-illinois-kien-chinh-quyen-trump-5005032.html",
+      "summary": "Minnesota, Illinois khởi kiện chính quyền Trump, yêu cầu tòa ra lệnh chặn triển khai lực lượng truy quét người nhập cư tới hai bang, sau vụ ICE bắn chết người ở Minnesota.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:18:42+07:00",
+      "fetched": "2026-01-13T11:37:37.275801+07:00"
+    },
+    {
+      "id": "5b5197a35cd47dd6d337a088126055c8",
+      "title": "Minnesota, Illinois kiện chính quyền Trump",
+      "link": "https://vnexpress.net/minnesota-illinois-kien-chinh-quyen-trump-5005032.html",
+      "summary": "Minnesota, Illinois khởi kiện chính quyền Trump, yêu cầu tòa ra lệnh chặn triển khai lực lượng truy quét người nhập cư tới hai bang, sau vụ ICE bắn chết người ở Minnesota.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T04:18:42+07:00",
+      "fetched": "2026-01-13T11:37:42.269654+07:00"
+    },
+    {
+      "id": "a5d06ea7f5f6e597c70539bc0041bbc8",
+      "title": "Lập trường bất nhất của chính quyền Trump về tương lai Venezuela",
+      "link": "https://vnexpress.net/lap-truong-bat-nhat-cua-chinh-quyen-trump-ve-tuong-lai-venezuela-5004672.html",
+      "summary": "Chính quyền Trump đang thể hiện những thông điệp không nhất quán giữa mục tiêu tái thiết, khai thác dầu với tiến trình chính trị tại Venezuela sau khi bắt ông Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:17:16+07:00",
+      "fetched": "2026-01-13T11:37:37.275987+07:00"
+    },
+    {
+      "id": "a5d06ea7f5f6e597c70539bc0041bbc8",
+      "title": "Lập trường bất nhất của chính quyền Trump về tương lai Venezuela",
+      "link": "https://vnexpress.net/lap-truong-bat-nhat-cua-chinh-quyen-trump-ve-tuong-lai-venezuela-5004672.html",
+      "summary": "Chính quyền Trump đang thể hiện những thông điệp không nhất quán giữa mục tiêu tái thiết, khai thác dầu với tiến trình chính trị tại Venezuela sau khi bắt ông Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T04:17:16+07:00",
+      "fetched": "2026-01-13T11:37:42.269828+07:00"
+    },
+    {
+      "id": "d0be52376ea07fd3741892e1cd838b08",
+      "title": "Chủ tịch Ủy ban T.Ư MTTQ Việt Nam được giới thiệu ứng cử đại biểu Quốc hội",
+      "link": "https://thanhnien.vn/chu-tich-uy-ban-tu-mttq-viet-nam-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-185260113105143148.htm",
+      "summary": "Cơ quan Ủy ban T.Ư MTTQ Việt Nam thống nhất giới thiệu 5 nhân sự của Cơ quan Ủy ban T.Ư MTTQ Việt Nam và Cơ quan Đảng ủy MTTQ Việt Nam và các đoàn thể T.Ư ứng cử đại biểu quốc hội khóa XVI. Trong đó, có bà Bùi Thị Minh Hoài, Ủy viên Bộ Chính trị, Bí thư T.Ư Đảng, Bí thư Đảng ủy MTTQ, các đoàn thể T....",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:16:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994158+07:00"
+    },
+    {
+      "id": "208ec96e2ce13eb4ce78bc4f4328d579",
+      "title": "Lisa bị nhận xét mặc xấu ở Quả Cầu Vàng",
+      "link": "https://vnexpress.net/lisa-bi-nhan-xet-mac-xau-o-qua-cau-vang-5005030.html",
+      "summary": "Truyền thông, khán giả quốc tế nhận xét ca sĩ Lisa nhóm Blackpink mặc không phù hợp khi tới Quả Cầu Vàng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:15:33+07:00",
+      "fetched": "2026-01-13T11:37:37.276149+07:00"
+    },
+    {
+      "id": "bc34992aa8a5114d9ef3ff2710aafd62",
+      "title": "Bác sĩ Nhật Bản cảnh báo rủi ro khi dùng thuốc trị tiểu đường để giảm cân",
+      "link": "https://thanhnien.vn/bac-si-nhat-ban-canh-bao-rui-ro-khi-dung-thuoc-tri-tieu-duong-de-giam-can-185260113101936724.htm",
+      "summary": "Nhật Bản đang ghi nhận sự gia tăng số lượng sử dụng thuốc Mounjaro, loại dược phẩm điều trị tiểu đường, để giảm cân thẩm mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:14:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994312+07:00"
+    },
+    {
+      "id": "c672c5dd4db498651b77a18bb89fe2e6",
+      "title": "Ukraine điều tổ hợp Patriot đến Kharkov để đối phó Iskander-M",
+      "link": "https://vnexpress.net/ukraine-dieu-to-hop-patriot-den-kharkov-de-doi-pho-iskander-m-5004977.html",
+      "summary": "Mảnh tên lửa PAC-3 MSE rơi xuống thành phố Kharkov, cho thấy Ukraine đang triển khai tổ hợp Patriot ở khu vực để đối phó đòn tập kích của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:37+07:00",
+      "fetched": "2026-01-13T11:37:37.276302+07:00"
+    },
+    {
+      "id": "c672c5dd4db498651b77a18bb89fe2e6",
+      "title": "Ukraine điều tổ hợp Patriot đến Kharkov để đối phó Iskander-M",
+      "link": "https://vnexpress.net/ukraine-dieu-to-hop-patriot-den-kharkov-de-doi-pho-iskander-m-5004977.html",
+      "summary": "Mảnh tên lửa PAC-3 MSE rơi xuống thành phố Kharkov, cho thấy Ukraine đang triển khai tổ hợp Patriot ở khu vực để đối phó đòn tập kích của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T04:11:37+07:00",
+      "fetched": "2026-01-13T11:37:42.270015+07:00"
+    },
+    {
+      "id": "b16b0c0e1ddc4bee8f98755df98e8936",
+      "title": "Năm 2026 có thể ít bão nhưng thiên tai khó dự báo hơn",
+      "link": "https://vnexpress.net/nam-2026-co-the-it-bao-nhung-thien-tai-kho-du-bao-hon-5005001.html",
+      "summary": "2026 được dự báo là năm chuyển pha ENSO từ lạnh qua trung tính rồi sang nóng nên số lượng bão có thể ít hơn, nhưng khó dự báo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:14+07:00",
+      "fetched": "2026-01-13T11:37:37.276465+07:00"
+    },
+    {
+      "id": "20c4e05358abfd820c8deac8a97897c0",
+      "title": "Sáng nào cũng 1 ổ bánh mì: Khoa học phát hiện tin vui bất ngờ",
+      "link": "https://thanhnien.vn/sang-nao-cung-1-o-banh-mi-khoa-hoc-phat-hien-tin-vui-bat-ngo-185260113111130201.htm",
+      "summary": "Trong bối cảnh xu hướng tiêu thụ ngũ cốc nguyên hạt được khuyến khích, thì bánh mì trắng lại bị gắn mác 'không lành mạnh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:11:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994469+07:00"
+    },
+    {
+      "id": "bc7138bff17365be8231adda0c86d863",
+      "title": "Quân đội huy động 121 phương tiện đưa đón đại biểu dự Đại hội 14",
+      "link": "https://vnexpress.net/quan-doi-huy-dong-121-phuong-tien-dua-don-dai-bieu-du-dai-hoi-14-5005037.html",
+      "summary": "Cục Xe máy - Vận tải phối hợp các lực lượng điều động 286 cán bộ, lái xe và 121 phương tiện để tập huấn, chuẩn bị thực hiện nhiệm vụ đưa đón đại biểu dự Đại hội Đảng 14.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:09:33+07:00",
+      "fetched": "2026-01-13T11:37:37.276627+07:00"
+    },
+    {
+      "id": "60def33f4e1cba6ed33067cfdec7a2a1",
+      "title": "3 người được hồi sinh từ tạng hiến của nữ điều dưỡng ở Hà Nội",
+      "link": "https://thanhnien.vn/3-nguoi-duoc-hoi-sinh-tu-tang-hien-cua-nu-dieu-duong-o-ha-noi-185260113103633568.htm",
+      "summary": "Nữ điều dưỡng 46 tuổi, Hà Nội, được chẩn đoán chết não do đột quỵ. Dù các bác sĩ can thiệp ngay lập tức nhưng tình trạng bệnh nhân không cải thiện, tình trạng xấu đi. Gia đình chị đã đồng ý hiến tạng để hồi sinh nhiều sự sống khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:08:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994623+07:00"
+    },
+    {
+      "id": "21c987705a43d3b143ea5ffc60552cf0",
+      "title": "Hé lộ phòng thay đồ U.23 Việt Nam sau trận thắng Ả Rập Xê Út, Chủ tịch VFF hỏi... thẻ phạt",
+      "link": "https://thanhnien.vn/he-lo-phong-thay-do-u23-viet-nam-sau-tran-thang-a-rap-xe-ut-chu-tich-vff-hoi-the-phat-185260113110237039.htm",
+      "summary": "Ngay sau chiến thắng 1-0 trước Ả Rập Xê Út ở lượt trận cuối bảng A VCK U.23 châu Á 2026, không khí trong phòng thay đồ U.23 Việt Nam ngập tràn niềm vui và sự tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:05:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994784+07:00"
+    },
+    {
+      "id": "c7755a02f4082799bdfa774fa9e4cf77",
+      "title": "TP HCM cần xây nhà xã hội nhiều nhất cả nước",
+      "link": "https://vnexpress.net/tp-hcm-can-xay-nha-xa-hoi-nhieu-nhat-ca-nuoc-5005031.html",
+      "summary": "Từ nay đến 2030, Thủ tướng giao TP HCM phát triển 181.257 căn nhà ở xã hội, mức cao nhất cả nước và gấp 4 lần trước sáp nhập với Bình Dương, Bà Rịa - Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:04:59+07:00",
+      "fetched": "2026-01-13T11:37:37.276785+07:00"
+    },
+    {
+      "id": "c7755a02f4082799bdfa774fa9e4cf77",
+      "title": "TP HCM cần xây nhà xã hội nhiều nhất cả nước",
+      "link": "https://vnexpress.net/tp-hcm-can-xay-nha-xa-hoi-nhieu-nhat-ca-nuoc-5005031.html",
+      "summary": "Từ nay đến 2030, Thủ tướng giao TP HCM phát triển 181.257 căn nhà ở xã hội, mức cao nhất cả nước và gấp 4 lần trước sáp nhập với Bình Dương, Bà Rịa - Vũng Tàu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T04:04:59+07:00",
+      "fetched": "2026-01-13T11:37:43.444569+07:00"
+    },
+    {
+      "id": "db041251f273ea85fc2bb7afe26ba571",
+      "title": "Chỉ số Niềm tin kinh doanh tại Việt Nam lên cao nhất 7 năm qua",
+      "link": "https://thanhnien.vn/chi-so-niem-tin-kinh-doanh-tai-viet-nam-len-cao-nhat-7-nam-qua-18526011310574112.htm",
+      "summary": "Ngày 13.1, EuroCham công bố Chỉ số Niềm tin kinh doanh quý 4/2025 đạt mức cao nhất trong 7 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:03:00+07:00",
+      "fetched": "2026-01-13T11:37:39.994953+07:00"
+    },
+    {
+      "id": "05303a6fd2f268662fcb826d91c8d825",
+      "title": "10 ô tô điện qua sử dụng được ưa chuộng nhất năm 2025: Xe Mỹ áp đảo",
+      "link": "https://thanhnien.vn/10-o-to-dien-qua-su-dung-duoc-ua-chuong-nhat-nam-2025-xe-my-ap-dao-185260113105144349.htm",
+      "summary": "Phần lớn khách hàng mua ô tô điện qua sử dụng tại Mỹ trong năm 2025 thường ưa chuộng các mẫu xe Mỹ thuộc các thương hiệu như Tesla, Chevrolet… theo kết quả khảo sát vừa được iSeeCars công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:03:00+07:00",
+      "fetched": "2026-01-13T11:37:39.995107+07:00"
+    },
+    {
+      "id": "ed2a60c74ca4b67572567945e5b4bbb9",
+      "title": "Xem nhanh 12h: Bị bắt vì 'ẵm' 500 triệu người khác chuyển nhầm | TP.HCM bán đấu giá hơn 24.000 xe vi phạm",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bi-bat-vi-am-500-trieu-nguoi-khac-chuyen-nham-tphcm-ban-dau-gia-hon-24000-xe-vi-pham-185260113110216244.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 13.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:02:00+07:00",
+      "fetched": "2026-01-13T11:37:39.995258+07:00"
+    },
+    {
+      "id": "485f4b02c4b9bb9d950a8267f9d93fd6",
+      "title": "Rẽ phải ở làn đi thẳng khi đèn đỏ vi phạm lỗi gì?",
+      "link": "https://vnexpress.net/re-phai-o-lan-di-thang-khi-den-do-vi-pham-loi-gi-5005016.html",
+      "summary": "Ngã tư cho phép rẽ phải khi đèn đỏ, nhưng tôi rẽ từ làn đi thẳng có phạm lỗi vượt đèn đỏ hay lỗi không tuân thủ vạch kẻ đường. (Nguyễn Thắng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:01:44+07:00",
+      "fetched": "2026-01-13T11:37:37.276961+07:00"
+    },
+    {
+      "id": "d73603137631aec0a2ecde5b311fe917",
+      "title": "Vì sao Sinh viên thế hệ mới là chương trình giáo dục trọng điểm trên VTV3?",
+      "link": "https://thanhnien.vn/vi-sao-sinh-vien-the-he-moi-la-chuong-trinh-giao-duc-trong-diem-tren-vtv3-185260113103644992.htm",
+      "summary": "Đêm chung kết Sinh viên thế hệ mới 2025 (SVTHM 2025) đã khép lại với danh hiệu Quán quân được trao cho đội sinh viên đến từ Trường Quản trị và Kinh doanh Hà Nội (HSB), với tổng điểm ấn tượng 135 điểm. Bên cạnh đó, chương trình cũng ghi nhận cột mốc ấn tượng khi sinh viên gọi vốn dự án thành công gần...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-13T04:00:00+07:00",
+      "fetched": "2026-01-13T11:37:39.995410+07:00"
+    },
+    {
+      "id": "6366a3342e89d4edc05eb9955e8878bf",
+      "title": "Hermès sắp khai trương cửa hàng tại Hà Nội",
+      "link": "https://vnexpress.net/hermes-sap-khai-truong-cua-hang-tai-ha-noi-5005003.html",
+      "summary": "Cửa hàng mới của thương hiệu thời trang Pháp dự kiến khai trương trong tháng 1, tại số 24 Tràng Thi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T03:30:00+07:00",
+      "fetched": "2026-01-13T11:37:43.445544+07:00"
+    },
+    {
+      "id": "8e061a98fb878074eeca41bf7f6ba970",
+      "title": "Ông Trump 'đang xem xét phương án không kích Iran'",
+      "link": "https://vnexpress.net/ong-trump-dang-xem-xet-phuong-an-khong-kich-iran-5004925.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump \"không ngại sử dụng vũ lực với Iran\" và đang xem xét phương án không kích, dù ngoại giao vẫn là lựa chọn ưu tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-13T03:27:13+07:00",
+      "fetched": "2026-01-13T11:37:42.270175+07:00"
+    },
+    {
       "id": "47ce0cf3e9e1d670a355c528aa5f291c",
       "title": "Đánh bại Saudi Arabia, Việt Nam vào tứ kết Giải U23 châu Á 2026 với ngôi đầu bảng",
       "link": "https://tuoitre.vn/danh-bai-saudi-arabia-viet-nam-vao-tu-ket-giai-u23-chau-a-2026-voi-ngoi-dau-bang-20260112145929087.htm",
@@ -411,6 +781,16 @@ window.newsData_2026_01_13 = {
       "category": "Tổng hợp",
       "published": "2026-01-13T03:21:00+07:00",
       "fetched": "2026-01-13T10:25:51.053989+07:00"
+    },
+    {
+      "id": "aab9551a6bfa5fbaa73ef5af16644c11",
+      "title": "Dragon Capital lên sàn trong tháng 1 với định giá hơn 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/dragon-capital-len-san-trong-thang-1-voi-dinh-gia-hon-2-000-ty-dong-5004995.html",
+      "summary": "Công ty quản lý quỹ lớn nhất Việt Nam - Dragon Capital - sẽ lên UPCoM trong tháng 1 với giá tham chiếu 68.000 đồng, tương đương định giá hơn 2.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-13T03:20:34+07:00",
+      "fetched": "2026-01-13T11:37:43.444733+07:00"
     },
     {
       "id": "b18b7e3678918bbbc788e5f5dc8d8c35",
