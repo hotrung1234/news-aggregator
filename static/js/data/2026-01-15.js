@@ -1,6 +1,6 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T01:29:36.205116+07:00",
+  "lastUpdated": "2026-01-15T03:18:47.438146+07:00",
   "articles": [
     {
       "id": "22bd45bb3ea4e7aae3298a412f6548bf",
@@ -153,6 +153,16 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T01:29:28.257271+07:00"
     },
     {
+      "id": "cbaddd3a32e039eb45614029b951dde9",
+      "title": "Nhiều quý ông mất ham muốn do cơ thể 'sập nguồn'",
+      "link": "https://vnexpress.net/nhieu-quy-ong-mat-ham-muon-do-co-the-sap-nguon-5004598.html",
+      "summary": "Lầm tưởng bản thân yếu sinh lý, nhiều nam giới tự ý dùng thuốc cường dương mà không biết gốc rễ vấn đề nằm ở hội chứng kiệt sức do áp lực công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T18:02:00+07:00",
+      "fetched": "2026-01-15T03:18:32.700770+07:00"
+    },
+    {
       "id": "8b360aa6d3abc7f5f7d216cb0ba8b708",
       "title": "Vụ bắt tàu hé lộ điểm yếu hộ tống của hải quân Nga",
       "link": "https://vnexpress.net/vu-bat-tau-he-lo-diem-yeu-ho-tong-cua-hai-quan-nga-5004551.html",
@@ -161,6 +171,16 @@ window.newsData_2026_01_15 = {
       "category": "Thế giới",
       "published": "2026-01-14T18:00:00+07:00",
       "fetched": "2026-01-15T01:29:29.936266+07:00"
+    },
+    {
+      "id": "a2dd270f8a2622e5c34491b996f84ba5",
+      "title": "Đoán giá trang phục của sao Việt",
+      "link": "https://vnexpress.net/doan-gia-trang-phuc-cua-sao-viet-5005201.html",
+      "summary": "Bằng quan sát, phán đoán cũng như sự am hiểu thời trang, bạn hãy định giá các thiết kế được Hồ Ngọc Hà, Tiểu Vy và các sao lựa chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-14T18:00:00+07:00",
+      "fetched": "2026-01-15T03:18:32.701118+07:00"
     },
     {
       "id": "f961bc2542771e7851860d73fadb0e17",
