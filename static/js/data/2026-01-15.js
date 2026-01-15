@@ -1,7 +1,157 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T08:24:22.522475+07:00",
+  "lastUpdated": "2026-01-15T10:28:38.849761+07:00",
   "articles": [
+    {
+      "id": "f2cc0963ed459d923a91e2a2f105c48b",
+      "title": "Nhận biết cấp độ yếu sinh lý để chữa trị",
+      "link": "https://tuoitre.vn/nhan-biet-cap-do-yeu-sinh-ly-de-chua-tri-20260115003049088.htm",
+      "summary": "Thạc sĩ Hoàng Khánh Toàn cho biết yếu sinh lý nam là cụm từ chung để ám chỉ các đấng mày râu gặp trục trặc trong việc kiểm soát 'cậu nhỏ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.665264+07:00",
+      "fetched": "2026-01-15T10:28:31.665404+07:00"
+    },
+    {
+      "id": "c8bd023dcbf27ac449e05e00aa57fd88",
+      "title": "Lấn chiếm lòng đường: Lợi ích và văn hóa",
+      "link": "https://tuoitre.vn/lan-chiem-long-duong-loi-ich-va-van-hoa-20260115001654907.htm",
+      "summary": "Vụ tai nạn chết người do va rạp cưới dựng dưới lòng đường ở Phú Thọ mới đây một lần nữa nhắc nhở về sự an toàn trong tổ chức đám tiệc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.665140+07:00",
+      "fetched": "2026-01-15T10:28:31.665253+07:00"
+    },
+    {
+      "id": "0c7a4b6053bcff3f3f1d5cd8f9d3b1fd",
+      "title": "Mắc sai lầm trong công việc, xử lý ra sao?",
+      "link": "https://tuoitre.vn/mac-sai-lam-trong-cong-viec-xu-ly-ra-sao-20260115084030968.htm",
+      "summary": "Bạn có từng mắc một lỗi lớn ở nơi làm việc chưa, cảm giác đó thế nào? Tim đập nhanh, đầu óc bạn quay cuồng với những kịch bản tồi tệ nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.665015+07:00",
+      "fetched": "2026-01-15T10:28:31.665129+07:00"
+    },
+    {
+      "id": "ebd11d9611611a86ce3de1b969e6c0e6",
+      "title": "Giải U23 châu Á 2026: Tuyển U23 UAE rất mạnh mẽ",
+      "link": "https://tuoitre.vn/giai-u23-chau-a-2026-tuyen-u23-uae-rat-manh-me-20260115080658437.htm",
+      "summary": "U23 UAE - đối thủ của Việt Nam ở vòng tứ kết Giải U23 châu Á 2026 - là đối thủ mạnh nhưng cũng có khá nhiều vấn đề trong lối chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664884+07:00",
+      "fetched": "2026-01-15T10:28:31.664999+07:00"
+    },
+    {
+      "id": "36e53a5a4717600456de456d1e619113",
+      "title": "Đoàn thể thao người khuyết tật Việt Nam lên đường dự ASEAN Para Games",
+      "link": "https://tuoitre.vn/doan-the-thao-nguoi-khuyet-tat-viet-nam-len-duong-du-asean-para-games-20260115091259756.htm",
+      "summary": "Sáng 15-1, đoàn thể thao người khuyết tật Việt Nam đã khởi hành từ Hà Nội và TP.HCM lên đường sang Thái Lan tham dự ASEAN Para Games 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664755+07:00",
+      "fetched": "2026-01-15T10:28:31.664872+07:00"
+    },
+    {
+      "id": "e4b1290eb5eb868d7eba101645dad3a0",
+      "title": "Nên học IELTS lúc nào để không phí tiền, phí tuổi thơ?",
+      "link": "https://tuoitre.vn/nen-hoc-ielts-luc-nao-de-khong-phi-tien-phi-tuoi-tho-20260115090012951.htm",
+      "summary": "Nhiều phụ huynh cho con học IELTS từ rất sớm. Nhưng học khi nào mới hiệu quả, tránh lãng phí và áp lực không cần thiết?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664627+07:00",
+      "fetched": "2026-01-15T10:28:31.664740+07:00"
+    },
+    {
+      "id": "1ecc9c4934f77176ac997e178819f36f",
+      "title": "Nghi phạm sát hại 2 phụ nữ, cướp tài sản ở Hưng Yên ra đầu thú",
+      "link": "https://tuoitre.vn/nghi-pham-sat-hai-2-phu-nu-cuop-tai-san-o-hung-yen-ra-dau-thu-2026011509274818.htm",
+      "summary": "Kiều Ngọc Anh (27 tuổi, trú xã Lạc Đạo, tỉnh Hưng Yên) đã đến đầu thú tại cơ quan công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664496+07:00",
+      "fetched": "2026-01-15T10:28:31.664615+07:00"
+    },
+    {
+      "id": "93ba49934f24823b4a936ee912618baf",
+      "title": "Danh sách 75 nước Mỹ đình chỉ visa nhập cư",
+      "link": "https://tuoitre.vn/danh-sach-75-nuoc-my-dinh-chi-visa-nhap-cu-20260115095629159.htm",
+      "summary": "Bộ Ngoại giao Mỹ ngày 14-1 thông báo sẽ tạm dừng xử lý thị thực định cư đối với công dân của 75 quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664369+07:00",
+      "fetched": "2026-01-15T10:28:31.664484+07:00"
+    },
+    {
+      "id": "64fe6316ecb8e26f91bf499d4e4debf5",
+      "title": "Madam Pang thừa nhận thất bại của Thái Lan tại vòng chung kết U23 châu Á",
+      "link": "https://tuoitre.vn/madam-pang-thua-nhan-that-bai-cua-thai-lan-tai-vong-chung-ket-u23-chau-a-20260115095004073.htm",
+      "summary": "Tối 14-1, bà Madam Pang đã có những chia sẻ đầu tiên sau khi U23 Thái Lan bị loại sớm tại vòng chung kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664223+07:00",
+      "fetched": "2026-01-15T10:28:31.664357+07:00"
+    },
+    {
+      "id": "fa9374eaa035782e55cb6dd3a0faacd6",
+      "title": "Quân đoàn 34 bàn giao 80 căn nhà cho dân trong 'Chiến dịch Quang Trung'",
+      "link": "https://tuoitre.vn/quan-doan-34-ban-giao-80-can-nha-cho-dan-trong-chien-dich-quang-trung-20260115094340358.htm",
+      "summary": "Sau hơn một tháng triển khai \"Chiến dịch Quang Trung\", Quân đoàn 34 đã bàn giao 80 căn nhà cho người dân các tỉnh Gia Lai và Đắk Lắk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.664099+07:00",
+      "fetched": "2026-01-15T10:28:31.664212+07:00"
+    },
+    {
+      "id": "2fa606c4df8b4e6d98585e9445cdab77",
+      "title": "Iran đóng cửa không phận, Mỹ điều thêm tàu sân bay đến Trung Đông",
+      "link": "https://tuoitre.vn/iran-dong-cua-khong-phan-my-dieu-them-tau-san-bay-den-trung-dong-20260115095223099.htm",
+      "summary": "Iran bất ngờ thông báo đóng không phận từ sáng 15-1, trong khi Washington điều thêm một tàu sân bay đến Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.663973+07:00",
+      "fetched": "2026-01-15T10:28:31.664087+07:00"
+    },
+    {
+      "id": "6fd5261468e92fe3089be89104bcc9f2",
+      "title": "U23 Việt Nam đón tin vui về trọng tài ở trận tứ kết gặp UAE",
+      "link": "https://tuoitre.vn/u23-viet-nam-don-tin-vui-ve-trong-tai-o-tran-tu-ket-gap-uae-20260115083626047.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) đã chính thức công bố đội ngũ trọng tài sẽ điều khiển trận tứ kết giữa Việt Nam và UAE ở Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.663843+07:00",
+      "fetched": "2026-01-15T10:28:31.663961+07:00"
+    },
+    {
+      "id": "e2548dd31cf8171c074a5af6f74b2c91",
+      "title": "Tạo điều kiện để hộ kinh doanh, doanh nghiệp kê khai thuế minh bạch, làm ăn hiệu quả",
+      "link": "https://tuoitre.vn/tao-dieu-kien-de-ho-kinh-doanh-doanh-nghiep-ke-khai-thue-minh-bach-lam-an-hieu-qua-20260115095008207.htm",
+      "summary": "Nhiều hộ kinh doanh ở phường Cát Lái đã có mặt tại Hội trường Thuế TP.HCM cùng tham gia chương trình tương tác \"Lên số - lên đời\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.663704+07:00",
+      "fetched": "2026-01-15T10:28:31.663830+07:00"
+    },
+    {
+      "id": "d3a23327c46bb55c382a25648e584d3f",
+      "title": "Đĩa than của Taylor Swift vẫn 'cháy hàng' bất chấp bùng nổ streaming và AI",
+      "link": "https://tuoitre.vn/dia-than-cua-taylor-swift-van-chay-hang-bat-chap-su-bung-no-cua-streaming-va-ai-2026011509330074.htm",
+      "summary": "Trong bối cảnh streaming và trí tuệ nhân tạo ngày càng chi phối thị trường, đĩa than của Taylor Swift vẫn bán chạy tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.663561+07:00",
+      "fetched": "2026-01-15T10:28:31.663690+07:00"
+    },
+    {
+      "id": "72721696fcf3e879513db0fbf183959d",
+      "title": "Pin mặt trời kiểu mới cho xe điện không cần sạc, xe nào cũng tích hợp được",
+      "link": "https://tuoitre.vn/pin-mat-troi-kieu-moi-cho-xe-dien-khong-can-sac-xe-nao-cung-tich-hop-duoc-ma-khong-cong-kenh-20260115074128651.htm",
+      "summary": "Startup Hàn Quốc Solarstic gây chú ý khi phát triển công nghệ tích hợp pin mặt trời trực tiếp vào thân xe điện, giúp tăng tầm hoạt động thêm tới 30% và giảm đáng kể tần suất sạc, mở ra hướng đi mới cho giao thông xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T10:28:31.663384+07:00",
+      "fetched": "2026-01-15T10:28:31.663546+07:00"
+    },
     {
       "id": "8627de9eeca57db98340557fa3da79ed",
       "title": "Dạy thêm, học thêm không có lỗi, vấn đề là học thêm để làm gì",
@@ -151,6 +301,396 @@ window.newsData_2026_01_15 = {
       "category": "Tổng hợp",
       "published": "2026-01-15T08:24:15.329346+07:00",
       "fetched": "2026-01-15T08:24:15.329506+07:00"
+    },
+    {
+      "id": "5a4ffe6e67f5577074a9ffe042c95a93",
+      "title": "VinFast tung 4 mẫu xe máy điện mới: Có xe ga thể thao, hỗ trợ đổi pin",
+      "link": "https://thanhnien.vn/vinfast-tung-4-mau-xe-may-dien-moi-co-xe-ga-the-thao-ho-tro-doi-pin-185260115102057855.htm",
+      "summary": "Trong số 4 mẫu mã mới vừa được VinFast tung ra thị trường có đến 3 mẫu hỗ trợ đổi pin. Điều này cho thấy rõ hướng đi ngắn hạn của thương hiệu xe Việt ở mảng xe máy điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:27:00+07:00",
+      "fetched": "2026-01-15T10:28:30.465398+07:00"
+    },
+    {
+      "id": "847a2d32e9eaf555a33226eb849820eb",
+      "title": "Rò rỉ thông tin thú vị về iPhone Fold của Apple",
+      "link": "https://thanhnien.vn/ro-ri-thong-tin-thu-vi-ve-iphone-fold-cua-apple-185260114235000648.htm",
+      "summary": "Apple đang tiến gần hơn đến việc ra mắt chiếc iPhone màn hình gập, sản phẩm được đồn đoán từ lâu và tạm gọi là iPhone Fold.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:26:00+07:00",
+      "fetched": "2026-01-15T10:28:30.465567+07:00"
+    },
+    {
+      "id": "d5f56fc8bd2e5979e806a25929834aad",
+      "title": "Quân đội Mỹ giả dạng máy bay dân sự để tấn công thuyền nghi chở ma túy?",
+      "link": "https://thanhnien.vn/quan-doi-my-gia-dang-may-bay-dan-su-de-tan-cong-thuyen-nghi-cho-ma-tuy-185260115094330246.htm",
+      "summary": "Báo Mỹ dẫn nguồn thạo tin tiết lộ Mỹ đã cho sơn lại máy bay quân sự cho giống máy bay dân sự để thực hiện cuộc tấn công mở màn hôm 2.9.2025 nhằm vào tàu thuyền nghi chở ma túy từ Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:21:00+07:00",
+      "fetched": "2026-01-15T10:28:30.465723+07:00"
+    },
+    {
+      "id": "f2c7ac5e0a4b20787317110b2e16a4f3",
+      "title": "Đồng Nai bắt quả tang nhóm nam nữ 'bay lắc' ma túy trong phòng ngủ",
+      "link": "https://thanhnien.vn/dong-nai-bat-qua-tang-nhom-nam-nu-bay-lac-ma-tuy-trong-phong-ngu-185260115095425485.htm",
+      "summary": "Kiểm tra hành chính căn nhà tại phường Bình Long, tỉnh Đồng Nai, công an đã bắt quả tang nhóm 6 người đang 'bay lắc', sử dụng ma túy trong phòng ngủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:20:00+07:00",
+      "fetched": "2026-01-15T10:28:30.465882+07:00"
+    },
+    {
+      "id": "94ce08a9af1b63ba3c7ebea28f739c05",
+      "title": "Đình chỉ hoạt động HTX Tiền An sau ồn ào vận chuyển thi thể giá 119 triệu đồng",
+      "link": "https://thanhnien.vn/dinh-chi-hoat-dong-htx-tien-an-sau-on-ao-van-chuyen-thi-the-gia-119-trieu-dong-18526011509144534.htm",
+      "summary": "UBND P.Quảng Yên (Quảng Ninh) đã yêu cầu HTX Dịch vụ tang lễ trọn gói Tiền An tạm dừng hoạt động kinh doanh từ ngày 15.1 để hoàn thiện các điều kiện pháp lý, đồng thời xây dựng và niêm yết công khai bảng giá dịch vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:20:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466037+07:00"
+    },
+    {
+      "id": "bcdf840b301d5a811ee5459d80eea6b2",
+      "title": "5 xe gầm thấp bán nhiều nhất năm 2025",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-thap-ban-nhieu-nhat-nam-2025-5005749.html",
+      "summary": "Toyota Vios là xe gầm thấp bán chạy nhất với 13.424 xe, Honda City và Hyundai Accetn giữ các thứ hạng tiếp theo với 10.899 xe và 7.088 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:16:58+07:00",
+      "fetched": "2026-01-15T10:28:27.434646+07:00"
+    },
+    {
+      "id": "7f6b1db1eb2a67079e36886b04ec30ae",
+      "title": "VinFast ra mắt 4 xe máy điện, vận hành 4.500 trạm đổi pin",
+      "link": "https://vnexpress.net/vinfast-ra-mat-4-xe-may-dien-van-hanh-4-500-tram-doi-pin-5005889.html",
+      "summary": "VinFast ra mắt 3 xe máy điện đổi pin và một mẫu mới tích hợp bàn đạp, hoàn tất lắp đặt 4.500 trạm đổi pin đầu tiên, hôm 15/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:15:00+07:00",
+      "fetched": "2026-01-15T10:28:27.434827+07:00"
+    },
+    {
+      "id": "953efa90aeb609bb5edea4df328d2e5a",
+      "title": "Quảng Ngãi: Cháy 4 tàu cá khi đang neo đậu trên sông Trà Bồng",
+      "link": "https://thanhnien.vn/quang-ngai-chay-4-tau-ca-khi-dang-neo-dau-tren-song-tra-bong-185260115080849482.htm",
+      "summary": "Rạng sáng nay (15.1), 4 tàu cá neo đậu trên sông Trà Bồng (Quảng Ngãi) bị cháy, hiện nguyên nhân vụ việc đang được cơ quan chức năng điều tra, làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:12:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466191+07:00"
+    },
+    {
+      "id": "9c752bb783396ef6dd53096e759a8a7c",
+      "title": "Gemini giúp xem thời tiết tương tác tiện lợi trên smartphone",
+      "link": "https://thanhnien.vn/gemini-giup-xem-thoi-tiet-tuong-tac-tien-loi-tren-smartphone-185260114201554909.htm",
+      "summary": "Google vừa cập nhật giao diện thời tiết tương tác cho Gemini trên Android và iOS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:08:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466361+07:00"
+    },
+    {
+      "id": "bb6713402a37921aad01899ea497540c",
+      "title": "MV tôn vinh đám cưới Việt",
+      "link": "https://vnexpress.net/mv-ton-vinh-dam-cuoi-viet-5004375.html",
+      "summary": "Ca sĩ Vũ Thùy Linh giới thiệu nét đẹp trong lễ cưới truyền thống Việt ở MV ''Trộm vía''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:03:05+07:00",
+      "fetched": "2026-01-15T10:28:27.434993+07:00"
+    },
+    {
+      "id": "25b650ecd82674c3281535c6525164d6",
+      "title": "VinFast ra mắt 4 mẫu xe máy mới, hoàn thiện lắp đặt 4.500 trạm đổi pin đầu tiên",
+      "link": "https://thanhnien.vn/vinfast-ra-mat-4-mau-xe-may-moi-hoan-thien-lap-dat-4500-tram-doi-pin-dau-tien-185260115095241711.htm",
+      "summary": "VinFast công bố chính thức ra mắt 4 mẫu xe máy điện mới, đáp ứng đa dạng nhu cầu di chuyển của người dùng với 3 mẫu xe hỗ trợ đổi pin và một mẫu xe được tích hợp bàn đạp, thiết kế nhỏ gọn phù hợp với học sinh. Để chuẩn bị sẵn sàng cho những mẫu xe mới vận hành, V-Green đã hoàn tất lắp đặt 4.500 trạm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:03:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466522+07:00"
+    },
+    {
+      "id": "ccf91558f723b01bfc5c670a26a925b8",
+      "title": "Doanh thu gần 63.000 tỉ trong 5 năm, Xổ số kiến thiết TP.HCM nộp ngân sách thế nào?",
+      "link": "https://thanhnien.vn/doanh-thu-gan-63000-ti-trong-5-nam-xo-so-kien-thiet-tphcm-nop-ngan-sach-the-nao-185260115093951195.htm",
+      "summary": "Trong giai đoạn 5 năm từ 2021 - 2025, Xổ số kiến thiết TP.HCM đạt tổng doanh thu gần 63.000 tỉ đồng, nộp thuế, ngân sách nhà nước hơn 21.000 tỉ đồng. Tình hình năm 2025 vừa qua có gì nổi bật?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:03:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466673+07:00"
+    },
+    {
+      "id": "7b9941dbfc9bd72ae29a292629cfe43c",
+      "title": "10 ô tô bán ít nhất Việt Nam năm 2025: Xe Nhật chiếm đa số",
+      "link": "https://thanhnien.vn/10-o-to-ban-it-nhat-viet-nam-nam-2025-xe-nhat-chiem-da-so-185260114153433238.htm",
+      "summary": "Sức mua ô tô năm 2025 có sự hồi phục nhưng doanh số bán của nhiều mẫu xe chỉ đạt vài chục đến vài trăm xe, trong số 10 ô tô bán ít nhất Việt Nam năm 2025, hầu hết là các mẫu xe Nhật Bản, nhập khẩu phân phối tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:01:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466822+07:00"
+    },
+    {
+      "id": "e29e6f3c76dad409e5029afd9a79ff07",
+      "title": "Thách thức với tham vọng khai khoáng Greenland",
+      "link": "https://vnexpress.net/thach-thuc-voi-tham-vong-khai-khoang-greenland-5004911.html",
+      "summary": "Nguồn khoáng sản dồi dào của Greenland đã góp phần đưa hòn đảo trở thành ưu tiên trong mắt Tổng thống Trump, song khai thác chúng không phải điều dễ dàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:27.435160+07:00"
+    },
+    {
+      "id": "152d5a94c1b817907d806d05db69328a",
+      "title": "Chuyên gia bàn về ứng dụng AI trong chăm sóc sức khỏe",
+      "link": "https://vnexpress.net/chuyen-gia-ban-ve-ung-dung-ai-trong-cham-soc-suc-khoe-5005872.html",
+      "summary": "Các chuyên gia bàn về ứng dụng trí tuệ nhân tạo trong chăm sóc thể chất lẫn tinh thần, góp phần định hình con đường phát triển y tế trong kỷ nguyên AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:27.435359+07:00"
+    },
+    {
+      "id": "827db0b042f691a8227302a8c55a678b",
+      "title": "Tư thế ngủ nào giúp giảm ngáy?",
+      "link": "https://vnexpress.net/tu-the-ngu-nao-giup-giam-ngay-5005848.html",
+      "summary": "Chồng tôi ngáy rất to khi ngủ nằm ngửa, xoay người nằm nghiêng sẽ đỡ hơn. Tư thế ngủ nào có thể hạn chế ngủ ngáy? (Minh Lan, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:27.435528+07:00"
+    },
+    {
+      "id": "8d96e670e87a3d78f46cbb26fadbf2e8",
+      "title": "Nên dùng nước mắt nhân tạo thế nào?",
+      "link": "https://vnexpress.net/nen-dung-nuoc-mat-nhan-tao-the-nao-5005842.html",
+      "summary": "Tôi sử dụng nước mắt nhân tạo khoảng hơn 10 lần mỗi ngày nhưng mắt vẫn khô, rát. Tôi nên điều chỉnh liều dùng và tần suất như thế nào? (Mỹ Uyên, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:27.435692+07:00"
+    },
+    {
+      "id": "027cfeac59b103bf20ed78b1f3113c8b",
+      "title": "Trải nghiệm lễ hội Ánh sáng và Di sản 2026 tại Hội An",
+      "link": "https://vnexpress.net/trai-nghiem-le-hoi-anh-sang-va-di-san-2026-tai-hoi-an-5005196.html",
+      "summary": "Lễ hội Ánh sáng và Di sản 2026 tại Đảo Ký Ức Hội An mang đến hoạt động trình diễn đèn lồng, drone quy mô lớn kết hợp trải nghiệm văn hóa làng nghề truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:27.435850+07:00"
+    },
+    {
+      "id": "b56556b46d15705e2b779edd24e05435",
+      "title": "Ecopark ra mắt mảnh ghép đầu tiên của phân khu Mùa Lễ Hội Eco Retreat",
+      "link": "https://thanhnien.vn/ecopark-ra-mat-manh-ghep-dau-tien-cua-phan-khu-mua-le-hoi-eco-retreat-185260115090943511.htm",
+      "summary": "Sáng 15.1, nhà sáng lập Ecopark chính thức ra mắt phân khu Mùa Lễ Hội nằm tại cửa ngõ đại đô thị Eco Retreat, với quy mô lớn nhất, đa dạng dòng sản phẩm cùng hệ tiện ích đặc sắc, thu hút sự quan tâm mạnh mẽ của thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:30.466977+07:00"
+    },
+    {
+      "id": "957c0db2052ebe1bae3285212d60cb6b",
+      "title": "Cuộc sống của danh ca Tuấn Ngọc và Thái Thảo trước khi ly hôn",
+      "link": "https://thanhnien.vn/cuoc-song-cua-danh-ca-tuan-ngoc-va-thai-thao-truoc-khi-ly-hon-185260114215217312.htm",
+      "summary": "Thông tin hôn nhân của danh ca Tuấn Ngọc và Thái Thảo đổ vỡ khiến nhiều khán giả không khỏi bất ngờ vì cả hai đã có hơn 30 năm gắn bó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:30.467135+07:00"
+    },
+    {
+      "id": "55241dda200e4a6cb15ba5aa563cdd8b",
+      "title": "Người trẻ 'săn' ký ức đón Tết Bính Ngọ",
+      "link": "https://thanhnien.vn/nguoi-tre-san-ky-uc-don-tet-binh-ngo-185260114190901659.htm",
+      "summary": "Trong nhịp sống hối hả, thế hệ trẻ dường như đang khao khát những điểm chạm văn hóa sâu thẳm. Và tết Nguyên đán - khoảnh khắc thiêng liêng nhất trong năm - chính là lúc tâm hồn họ bừng cháy với khát vọng \"săn tìm ký ức\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:30.467311+07:00"
+    },
+    {
+      "id": "ec358112b43ca209d38c5871ae824303",
+      "title": "Trang phục vải tuyn bồng bềnh, tạo vẻ kiêu sa cho người mặc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-vai-tuyn-bong-benh-tao-ve-kieu-sa-cho-nguoi-mac-185260114110312623.htm",
+      "summary": "Với một chút biến tấu đầy ngẫu hứng, trang phục vải tuyn dễ dàng giúp phái đẹp khẳng định phong thái kiêu kỳ mà vẫn vô cùng thời thượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:00:00+07:00",
+      "fetched": "2026-01-15T10:28:30.467475+07:00"
+    },
+    {
+      "id": "f2cd9cd1e9d15c668fe3f76ba2e99332",
+      "title": "Sân bay trên dãy Trường Sơn với trận đánh chớp nhoáng hơn 50 năm trước",
+      "link": "https://vnexpress.net/san-bay-tren-day-truong-son-voi-tran-danh-chop-nhoang-hon-50-nam-truoc-5005716.html",
+      "summary": "Giữa thung lũng dãy Trường Sơn, sân bay dã chiến Khe Gát được xây dựng bí mật, chứng kiến lần xuất kích chỉ 17 phút tấn công hai tàu chiến Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:59:32+07:00",
+      "fetched": "2026-01-15T10:28:27.436014+07:00"
+    },
+    {
+      "id": "a4b261edf7162758797cf95c7a0eba15",
+      "title": "Ra sân thi đấu, thủ môn VAA được chị ruột và anh em bạn bè đến 'chăm từng chút một'",
+      "link": "https://thanhnien.vn/ra-san-thi-dau-thu-mon-vaa-duoc-chi-ruot-va-anh-em-ban-be-den-cham-tung-chut-mot-185260114213630943.htm",
+      "summary": "Sáng 14.1, đội bóng Học viện Hàng không Việt Nam bước vào lượt trận thứ 2 với đội bóng ĐH Tôn Đức Thắng tại giải bóng đá TNSV THACO Cup 2026. Đáng chú ý, thủ môn VAA nhận được sự cổ vũ hết mình từ chị ruột cùng đông đảo anh em bạn bè có mặt trên khán đài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:58:00+07:00",
+      "fetched": "2026-01-15T10:28:30.467623+07:00"
+    },
+    {
+      "id": "1254c222404b4e1b815843dfb823ea77",
+      "title": "Camera ghi cảnh gây án của kẻ sát hại hai phụ nữ liên tiếp",
+      "link": "https://vnexpress.net/camera-ghi-canh-gay-an-cua-ke-sat-hai-hai-phu-nu-lien-tiep-5005870.html",
+      "summary": "Kiều Ngọc Anh, 27 tuổi, dùng dao sát hại người phụ nữ đi đường ở xã Lạc Đạo, sau khi gây án với một người khác vào chiều 14/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:52:07+07:00",
+      "fetched": "2026-01-15T10:28:27.436172+07:00"
+    },
+    {
+      "id": "d7968dcecef07537515e54c451170a81",
+      "title": "Vỡ mộng đổi đời nhờ nghề IT",
+      "link": "https://vnexpress.net/vo-mong-doi-doi-nho-nghe-it-5005786.html",
+      "summary": "Từng vay gần 3 tỷ đồng để học lập trình với giấc mơ đổi đời, Adam, 42 tuổi, giờ đây đối mặt với khoản nợ khổng lồ và sự ghẻ lạnh của thị trường lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:49:47+07:00",
+      "fetched": "2026-01-15T10:28:27.436357+07:00"
+    },
+    {
+      "id": "eb69f58baf47d791c08bd927596a9fcd",
+      "title": "Học sinh Mỹ sửa ôtô cũ để tặng cho các bà mẹ đơn thân",
+      "link": "https://vnexpress.net/hoc-sinh-my-sua-oto-cu-de-tang-cho-cac-ba-me-don-than-5005540.html",
+      "summary": "Học sinh tham gia chương trình kỹ thuật ở Virginia trong 8 năm qua đã sửa sang nhiều ôtô cũ để tặng cho các bà mẹ đơn thân, giúp họ có phương tiện mưu sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:46:58+07:00",
+      "fetched": "2026-01-15T10:28:27.436523+07:00"
+    },
+    {
+      "id": "eb69f58baf47d791c08bd927596a9fcd",
+      "title": "Học sinh Mỹ sửa ôtô cũ để tặng cho các bà mẹ đơn thân",
+      "link": "https://vnexpress.net/hoc-sinh-my-sua-oto-cu-de-tang-cho-cac-ba-me-don-than-5005540.html",
+      "summary": "Học sinh tham gia chương trình kỹ thuật ở Virginia trong 8 năm qua đã sửa sang nhiều ôtô cũ để tặng cho các bà mẹ đơn thân, giúp họ có phương tiện mưu sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T02:46:58+07:00",
+      "fetched": "2026-01-15T10:28:33.011449+07:00"
+    },
+    {
+      "id": "9602bac9526c543a6de9f236d5646988",
+      "title": "Amazon mở rộng mạng lưới giao hàng nông thôn tại Oklahoma",
+      "link": "https://vnexpress.net/amazon-mo-rong-mang-luoi-giao-hang-nong-thon-tai-oklahoma-5002875.html",
+      "summary": "Amazon sẽ xây dựng một trạm giao hàng chặng cuối tại bang Oklahoma, nhằm rút ngắn thời gian giao hàng và mở rộng độ phủ dịch vụ tới các khu vực nông thôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:41:48+07:00",
+      "fetched": "2026-01-15T10:28:27.436677+07:00"
+    },
+    {
+      "id": "0e7422c009e0681dc8f88b4c4a1a82c1",
+      "title": "Xe nào chạy trên sông mà chẳng cần động cơ hay bánh xe?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-cai-gi-xe-nao-chay-tren-song-ma-chang-can-dong-co-hay-banh-xe-5003592.html",
+      "summary": "Nghe qua tưởng là câu hỏi về giao thông đường thủy, nhưng càng nghĩ càng thấy “lạ đời”, xe gì chạy trên sông, không máy móc, không bánh xe?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:40:00+07:00",
+      "fetched": "2026-01-15T10:28:27.436831+07:00"
+    },
+    {
+      "id": "c8b776847094bdfc9e3609e5eaa59e9b",
+      "title": "Tân HLV Real: 'Thua đội hạng Nhì còn hơn cả thảm kịch'",
+      "link": "https://vnexpress.net/tan-hlv-real-thua-doi-hang-nhi-con-hon-ca-tham-kich-5005805.html",
+      "summary": "HLV Alvaro Arbeloa nhận trách nhiệm về trận thua Albacete 2-3 ở vòng 1/8 Cup Nhà Vua tối 14/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T02:31:26+07:00",
+      "fetched": "2026-01-15T10:28:27.436991+07:00"
+    },
+    {
+      "id": "c8b776847094bdfc9e3609e5eaa59e9b",
+      "title": "Tân HLV Real: 'Thua đội hạng Nhì còn hơn cả thảm kịch'",
+      "link": "https://vnexpress.net/tan-hlv-real-thua-doi-hang-nhi-con-hon-ca-tham-kich-5005805.html",
+      "summary": "HLV Alvaro Arbeloa nhận trách nhiệm về trận thua Albacete 2-3 ở vòng 1/8 Cup Nhà Vua tối 14/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T02:31:26+07:00",
+      "fetched": "2026-01-15T10:28:38.844092+07:00"
+    },
+    {
+      "id": "27515bbcc9119184fdc6ae3064b8675b",
+      "title": "Mourinho bị châm chọc sau thất bại của Benfica",
+      "link": "https://vnexpress.net/mourinho-bi-cham-choc-sau-that-bai-cua-benfica-5005831.html",
+      "summary": "Sau khi thắng Benfica 1-0 ở tứ kết Cup Quốc gia, Porto đăng thông điệp mỉa mai nhằm đáp trả phát biểu trước trận của HLV Jose Mourinho.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T02:25:24+07:00",
+      "fetched": "2026-01-15T10:28:38.844244+07:00"
+    },
+    {
+      "id": "16830d544d6ac5570cfc1bea299ce1d9",
+      "title": "Arteta tiếc vì chỉ thắng sát nút Chelsea",
+      "link": "https://vnexpress.net/arteta-tiec-vi-chi-thang-sat-nut-chelsea-5005845.html",
+      "summary": "HLV Mikel Arteta tiếc nuối khi Arsenal phung phí nhiều cơ hội ngon ăn trong trận thắng 3-2 trên sân Chelsea ở lượt đi bán kết Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T02:20:24+07:00",
+      "fetched": "2026-01-15T10:28:38.844418+07:00"
+    },
+    {
+      "id": "82829438b34bfed744a5b8bdb5cc4e99",
+      "title": "NATO tăng cường điều quân tới Greenland",
+      "link": "https://vnexpress.net/nato-tang-cuong-dieu-quan-toi-greenland-5005812.html",
+      "summary": "NATO sẽ tăng cường binh sĩ đến Greenland, sau khi Đan Mạch và Mỹ không đạt thỏa thuận trong cuộc gặp tại Nhà Trắng về tương lai hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T02:19:07+07:00",
+      "fetched": "2026-01-15T10:28:33.011637+07:00"
+    },
+    {
+      "id": "a315b362c35dd68fbbd5b2087557bd64",
+      "title": "Hôm nay chia bảng ASEAN Cup 2026",
+      "link": "https://vnexpress.net/hom-nay-chia-bang-asean-cup-2026-5005822.html",
+      "summary": "Với tư cách đương kim vô địch, Việt Nam ở nhóm một và sẽ không cùng bảng Thái Lan ở lễ bốc thăm ASEAN Cup lúc 16h hôm nay 15/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T02:15:35+07:00",
+      "fetched": "2026-01-15T10:28:38.842791+07:00"
+    },
+    {
+      "id": "5565d581002633a4c19243b178fc6334",
+      "title": "'Cửa sáng' cho kinh tế năm 2026",
+      "link": "https://vnexpress.net/cua-sang-cho-kinh-te-nam-2026-5005735.html",
+      "summary": "Đầu tư công sẽ mở \"cửa sáng\" cho kinh tế năm nay, bên cạnh xuất khẩu và tiêu dùng có nhiều thuận lợi lẫn thách thức đan xen, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-15T02:10:50+07:00",
+      "fetched": "2026-01-15T10:28:33.917441+07:00"
+    },
+    {
+      "id": "16bae4853e5785621b3ad7bc9948aeaf",
+      "title": "Băng đảng đập tủ kính, cướp tiệm vàng ở California",
+      "link": "https://vnexpress.net/bang-dang-dap-tu-kinh-cuop-tiem-vang-o-california-5005837.html",
+      "summary": "Nhóm cướp đập vỡ tủ kính trưng bày tại một tiệm trang sức trong trung tâm thương mại ở hạt Los Angeles, lấy nhiều đồ giá trị rồi bỏ trốn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T02:02:39+07:00",
+      "fetched": "2026-01-15T10:28:33.011806+07:00"
+    },
+    {
+      "id": "1e0959a05e8e0db36d2b1101ae2dae15",
+      "title": "Laptop gaming giá 100 triệu đồng, có thể thay nắp phím",
+      "link": "https://vnexpress.net/laptop-gaming-gia-100-trieu-dong-co-the-thay-nap-phim-5004389.html",
+      "summary": "Legion Pro 7i Gen 10 giá 100  triệu đồng cho phiên bản dùng chip Core Ultra 9, RAM 32 GB, đồng thời có thể thay đổi nắp và kết cấu bàn phím.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T01:37:06+07:00",
+      "fetched": "2026-01-15T10:28:37.222410+07:00"
     },
     {
       "id": "22bd45bb3ea4e7aae3298a412f6548bf",
@@ -303,6 +843,16 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T01:29:28.257271+07:00"
     },
     {
+      "id": "2f4b27951554895e7e685c1a572c9b03",
+      "title": "Carvajal: 'Real rơi xuống đáy rồi'",
+      "link": "https://vnexpress.net/carvajal-real-roi-xuong-day-roi-5005794.html",
+      "summary": "Đội trưởng Dani Carvajal không giấu nổi cay đắng sau khi Real Madrid bị đội hạng nhì Albacete loại ở vòng 1/8 Cup Nhà vua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T01:25:20+07:00",
+      "fetched": "2026-01-15T10:28:38.843309+07:00"
+    },
+    {
       "id": "d426f201d930a2276083a8f8dc7375ae",
       "title": "Bong bóng sốt đất",
       "link": "https://thanhnien.vn/bong-bong-sot-dat-185260114184656431.htm",
@@ -391,6 +941,16 @@ window.newsData_2026_01_15 = {
       "category": "Tổng hợp",
       "published": "2026-01-15T01:00:00+07:00",
       "fetched": "2026-01-15T08:24:14.440267+07:00"
+    },
+    {
+      "id": "ca5ad88810b54a2cb772b1ba540f8e57",
+      "title": "TPBank cung cấp trợ lý số hỗ trợ hộ kinh doanh mùa cao điểm",
+      "link": "https://vnexpress.net/tpbank-cung-cap-tro-ly-so-ho-tro-ho-kinh-doanh-mua-cao-diem-5005689.html",
+      "summary": "TPBank triển khai nhiều giải pháp ngân hàng số giúp hộ kinh doanh theo dõi dòng tiền, thanh toán không tiền mặt và đáp ứng yêu cầu kê khai thuế trong mùa cao điểm cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-15T01:00:00+07:00",
+      "fetched": "2026-01-15T10:28:33.918289+07:00"
     },
     {
       "id": "7f2e5284d379c22eb21fa09df4ba550c",
@@ -731,6 +1291,16 @@ window.newsData_2026_01_15 = {
       "category": "Thể thao",
       "published": "2026-01-14T22:38:35+07:00",
       "fetched": "2026-01-15T08:24:22.517480+07:00"
+    },
+    {
+      "id": "ec6cc8c736f01f33d29d2a9b780a41e0",
+      "title": "Carrick: 'Man Utd cần chơi thứ bóng đá khiến người xem phải bật dậy'",
+      "link": "https://vnexpress.net/carrick-man-utd-can-choi-thu-bong-da-khien-nguoi-xem-phai-bat-day-5005769.html",
+      "summary": "Trong ngày trở lại Old Trafford trên cương vị HLV trưởng tạm quyền, Michael Carrick khẳng định ưu tiên số một là chiến thắng, song song với việc xây dựng lối chơi tích cực, giàu cảm xúc và giúp các cầu thủ phát triển toàn diện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-14T22:38:35+07:00",
+      "fetched": "2026-01-15T10:28:38.843940+07:00"
     },
     {
       "id": "a9031e282b36487e658dd4f734d0b69f",
