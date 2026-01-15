@@ -1,6 +1,6 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T10:28:38.849761+07:00",
+  "lastUpdated": "2026-01-15T11:37:54.141603+07:00",
   "articles": [
     {
       "id": "f2cc0963ed459d923a91e2a2f105c48b",
@@ -303,6 +303,376 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T08:24:15.329506+07:00"
     },
     {
+      "id": "3baf145eb29df4da1b86ab0bf22edf84",
+      "title": "Phường Gò Vấp mở rộng đường D3, hộ nhận bồi thường cao nhất hơn 21 tỉ đồng",
+      "link": "https://thanhnien.vn/phuong-go-vap-mo-rong-duong-d3-ho-nhan-boi-thuong-cao-nhat-hon-21-ti-dong-185260115102834954.htm",
+      "summary": "Dự án mở rộng đường D3 (hẻm 312 Quang Trung) thuộc phường Gò Vấp có tổng kinh phí bồi thường 561 tỉ đồng, hộ cao nhất nhận hơn 21 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:29:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363031+07:00"
+    },
+    {
+      "id": "0455c46b7b40d387b42af3e717538f9f",
+      "title": "Động thổ cầu Cát Lái và Long Hưng, kết nối Đồng Nai với TP.HCM",
+      "link": "https://thanhnien.vn/dong-tho-cau-cat-lai-va-long-hung-ket-noi-dong-nai-voi-tphcm-185260115090047837.htm",
+      "summary": "Cầu Cát Lái và cầu Long Hưng bắc qua sông Đồng Nai, kết nối TP.HCM với Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:26:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363222+07:00"
+    },
+    {
+      "id": "9beff2bd29d626f4d2d8ab5b030019b6",
+      "title": "16 giờ hôm nay bốc thăm chia bảng và xếp lịch thi đấu AFF Cup 2026: Việt Nam nhóm hạt giống 1",
+      "link": "https://thanhnien.vn/16-gio-hom-nay-boc-tham-chia-bang-va-xep-lich-thi-dau-aff-cup-2026-viet-nam-nhom-hat-giong-1-185260115112330925.htm",
+      "summary": "Lễ bốc thăm chia bảng và xếp lịch thi đấu giải vô địch bóng đá Đông Nam Á 2026 – ASEAN Hyundai Cup 2026 (AFF Cup) sẽ được tổ chức vào lúc 16 giờ ngày 15.1 tại Jakarta (Indonesia), chính thức khởi động cho sân chơi danh giá nhất khu vực dành cho các đội tuyển quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:25:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363384+07:00"
+    },
+    {
+      "id": "64854e7070fcca5f4d3092ba1ea2ba84",
+      "title": "Một hạt giống 24.000 đồng: Giàn cà chua bạch tuộc đỏ rực sân thượng ở TP.HCM",
+      "link": "https://thanhnien.vn/mot-hat-giong-24000-dong-gian-ca-chua-bach-tuoc-do-ruc-san-thuong-o-tphcm-185260114090001593.htm",
+      "summary": "Mỗi hạt giống cà chua bạch tuộc F1 chị Nhung mua 24.000 đồng, sau 3 tháng có được một giàn chi chít trái đỏ rực để ăn cũng như để bạn bè, người thân chụp ảnh tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:25:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363536+07:00"
+    },
+    {
+      "id": "f309d60e11371998dea65a2f25687911",
+      "title": "iPhone 18 Pro sắp có thiết kế chưa từng xuất hiện trên iPhone",
+      "link": "https://thanhnien.vn/iphone-18-pro-sap-co-thiet-ke-chua-tung-xuat-hien-tren-iphone-185260115110728716.htm",
+      "summary": "Gần 4 tháng kể từ khi iPhone 17 ra mắt, những tin đồn về dòng iPhone 18 công bố vào mùa thu năm nay đã bắt đầu xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:22:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363687+07:00"
+    },
+    {
+      "id": "0b432b4337e3620c866ce3fec82ad8bf",
+      "title": "Bắt 3 thanh niên dùng hung khí tấn công người gần cầu Ba Son, TP.HCM",
+      "link": "https://thanhnien.vn/bat-3-thanh-nien-dung-hung-khi-tan-cong-nguoi-gan-cau-ba-son-tphcm-185260115102416506.htm",
+      "summary": "Công an TP.HCM đã khởi tố, bắt tạm giam 3 thanh niên dùng hung khí tấn công người gần cầu Ba Son về tội gây rối trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:22:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363836+07:00"
+    },
+    {
+      "id": "70fc1fe25d6ca733159e7e98df9a5477",
+      "title": "Mỹ tốn bộn tiền nếu Bộ Quốc phòng đổi tên thành Bộ Chiến tranh",
+      "link": "https://thanhnien.vn/my-ton-bon-tien-neu-bo-quoc-phong-doi-ten-thanh-bo-chien-tranh-185260115110921863.htm",
+      "summary": "Việc đổi tên Bộ Quốc phòng thành Bộ Chiến tranh có thể tiêu tốn đến 125 triệu USD tùy theo phạm vi và tốc độ triển khai, theo phân tích của Văn phòng Ngân sách Quốc hội Mỹ hôm 14.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:19:00+07:00",
+      "fetched": "2026-01-15T11:37:46.363986+07:00"
+    },
+    {
+      "id": "d3abc406c5a2f7fa1eae29504b149220",
+      "title": "'Mùng Một Tết nội, mùng Hai Tết ngoại' có còn phù hợp?",
+      "link": "https://vnexpress.net/mung-mot-tet-noi-mung-hai-tet-ngoai-co-con-phu-hop-5005909.html",
+      "summary": "Liệu một công thức tạo ra trong bối cảnh xưa cũ có còn đủ sức bao dung cho những hoàn cảnh rất khác của hôm nay?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:14:21+07:00",
+      "fetched": "2026-01-15T11:37:42.294353+07:00"
+    },
+    {
+      "id": "44e803e30130328bc4ff4bc251ae98bb",
+      "title": "Chiến đấu cơ J-20 mới của Trung Quốc có thể tấn công mục tiêu trên biển?",
+      "link": "https://thanhnien.vn/chien-dau-co-j-20-moi-cua-trung-quoc-co-the-tan-cong-muc-tieu-tren-bien-185260115111008257.htm",
+      "summary": "Biến thể mới nhất của chiến đấu cơ tàng hình J-20 do Trung Quốc chế tạo có khả năng thực hiện các cuộc tấn công chính xác vào các mục tiêu trên biển, theo truyền thông nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:13:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364155+07:00"
+    },
+    {
+      "id": "f5be70b6e67fc74d9cff68f386c57e1a",
+      "title": "Cận cảnh 4 mặt tiền ôm trọn mọi đầu não giao thương Hải Phòng tại Lumira Ville",
+      "link": "https://thanhnien.vn/can-canh-4-mat-tien-om-tron-moi-dau-nao-giao-thuong-hai-phong-tai-lumira-ville-185260112111348635.htm",
+      "summary": "Lumira Ville là một trong số rất ít khu đô thị tại Việt Nam bao quanh bởi 4 mặt tiền đại lộ trọng yếu của thành phố lớn thứ 3 cả nước. Nhờ địa thế đặc biệt này, 100% sản phẩm đều có khả năng kinh doanh sầm uất và đón lượng khách vãng lai khổng lồ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:12:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364319+07:00"
+    },
+    {
+      "id": "64759f87d34063386566ddb57bf24d64",
+      "title": "Chồng đứng về phía bố mẹ, ép tôi nhận nợ",
+      "link": "https://vnexpress.net/chong-dung-ve-phia-bo-me-ep-toi-nhan-no-5005933.html",
+      "summary": "Chồng im lặng, gia đình chồng tuyệt giao, nợ nần vẫn còn đó, tôi thật sự không biết phải làm sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:11:49+07:00",
+      "fetched": "2026-01-15T11:37:42.294531+07:00"
+    },
+    {
+      "id": "402cbc7d8655e96dd0a54fd4bd0de1b4",
+      "title": "Campuchia cam kết tiếp tục trấn áp lừa đảo sau vụ bắt Chen Zhi",
+      "link": "https://vnexpress.net/campuchia-cam-ket-tiep-tuc-tran-ap-lua-dao-sau-vu-bat-chen-zhi-5005867.html",
+      "summary": "Campuchia tuyên bố vụ bắt ông trùm Chen Zhi không phải là kết thúc cho chiến dịch trấn áp tội phạm lừa đảo trực tuyến ở nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:10:00+07:00",
+      "fetched": "2026-01-15T11:37:42.294696+07:00"
+    },
+    {
+      "id": "51dded33dd4dcca6060f9c3d910f836a",
+      "title": "Giải mã hiện tượng lên đồng",
+      "link": "https://vnexpress.net/giai-ma-hien-tuong-len-dong-5005951.html",
+      "summary": "Dưới góc nhìn khoa học, hiện tượng lên đồng xuất phát từ một trạng thái biến đổi ý thức đặc biệt, khiến não bộ tạm thời rời xa thực tại để sống trọn vẹn trong thế giới tâm linh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:09:41+07:00",
+      "fetched": "2026-01-15T11:37:42.294864+07:00"
+    },
+    {
+      "id": "b51ea4493ac6af43b6c134dadded5d8a",
+      "title": "Xem nhanh 12: Triệu tập vợ chồng Nguyễn Phương Hằng | Vận động 624 triệu làm mái che trường học",
+      "link": "https://thanhnien.vn/xem-nhanh-12-trieu-tap-vo-chong-nguyen-phuong-hang-van-dong-624-trieu-lam-mai-che-truong-hoc-185260115110801975.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 15.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:08:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364471+07:00"
+    },
+    {
+      "id": "1d55f44f6b9916d92b21f508d688301d",
+      "title": "Ông Trump khẳng định mong muốn kiểm soát Greenland",
+      "link": "https://thanhnien.vn/ong-trump-khang-dinh-mong-muon-kiem-soat-greenland-185260115103744538.htm",
+      "summary": "Tổng thống Donald Trump hôm 14.1 nhắc lại rằng Mỹ cần Greenland và không thể trông cậy vào Đan Mạch để bảo vệ hòn đảo này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:08:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364618+07:00"
+    },
+    {
+      "id": "81aa8fcbded7b71a025e18bb9be762fa",
+      "title": "Lê Viktor muốn giải quyết UAE trong 90 phút",
+      "link": "https://vnexpress.net/le-viktor-muon-giai-quyet-uae-trong-90-phut-5005788.html",
+      "summary": "Tiền vệ Việt kiều Lê Viktor không muốn Việt Nam phải bước vào hiệp phụ hay luân lưu, khi đối đầu UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:06:36+07:00",
+      "fetched": "2026-01-15T11:37:42.295021+07:00"
+    },
+    {
+      "id": "81aa8fcbded7b71a025e18bb9be762fa",
+      "title": "Lê Viktor muốn giải quyết UAE trong 90 phút",
+      "link": "https://vnexpress.net/le-viktor-muon-giai-quyet-uae-trong-90-phut-5005788.html",
+      "summary": "Tiền vệ Việt kiều Lê Viktor không muốn Việt Nam phải bước vào hiệp phụ hay luân lưu, khi đối đầu UAE ở tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T04:06:36+07:00",
+      "fetched": "2026-01-15T11:37:54.133622+07:00"
+    },
+    {
+      "id": "9c209b2a1ff1793900bd10e240fa6108",
+      "title": "Lần đầu tiên Việt Nam ứng dụng kỹ thuật mới điều trị ung thư phụ khoa",
+      "link": "https://thanhnien.vn/lan-dau-tien-viet-nam-ung-dung-ky-thuat-moi-dieu-tri-ung-thu-phu-khoa-185260115103542736.htm",
+      "summary": "Lần đầu tiên tại Việt Nam, các bác sĩ Bệnh viện K thực hiện sinh thiết hạch cửa sau phúc mạc kết hợp phẫu thuật nội soi điều trị ung thư nội mạc tử cung thực hiện hoàn toàn qua đường âm đạo, giúp người bệnh sớm hồi phục, giảm chi phí và tối ưu điều trị ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:06:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364765+07:00"
+    },
+    {
+      "id": "39e7d65f55e251529fa5491461c7f736",
+      "title": "Nghệ An: Bắt giữ tên cướp táo tợn sau nhiều ngày lẩn trốn",
+      "link": "https://thanhnien.vn/nghe-an-bat-giu-ten-cuop-tao-ton-sau-nhieu-ngay-lan-tron-185260115102159678.htm",
+      "summary": "Một nam thanh niên ở Nghệ An vào cửa hàng giả vờ hỏi mua điện thoại, rồi cướp 2 chiếc điện thoại Iphone, sau đó tẩu thoát vào TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:04:00+07:00",
+      "fetched": "2026-01-15T11:37:46.364917+07:00"
+    },
+    {
+      "id": "a0a39e17b382c58f2862ed6f67394e04",
+      "title": "Grok dừng tạo ảnh nhạy cảm về người thật",
+      "link": "https://vnexpress.net/grok-dung-tao-anh-nhay-cam-ve-nguoi-that-5005893.html",
+      "summary": "Công ty xAI của Elon Musk vô hiệu hóa khả năng chatbot Grok tạo ảnh nhạy cảm về người thật sau khi bị phản ứng mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:05+07:00",
+      "fetched": "2026-01-15T11:37:42.295197+07:00"
+    },
+    {
+      "id": "a0a39e17b382c58f2862ed6f67394e04",
+      "title": "Grok dừng tạo ảnh nhạy cảm về người thật",
+      "link": "https://vnexpress.net/grok-dung-tao-anh-nhay-cam-ve-nguoi-that-5005893.html",
+      "summary": "Công ty xAI của Elon Musk vô hiệu hóa khả năng chatbot Grok tạo ảnh nhạy cảm về người thật sau khi bị phản ứng mạnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T04:00:05+07:00",
+      "fetched": "2026-01-15T11:37:53.128583+07:00"
+    },
+    {
+      "id": "6ddde2fac9546901610d100af83eca00",
+      "title": "Ai phò tá 5 đời vua nhà Trần, là tác giả của 'Đại Việt sử ký'?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-pho-ta-5-doi-vua-nha-tran-la-tac-gia-cua-dai-viet-su-ky-5005126.html",
+      "summary": "Ông được cho là Bảng nhãn đầu tiên của Đại Việt, đỗ khi 17 tuổi, ông cũng là thầy học của Thừa tướng Trần Quang Khải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:00+07:00",
+      "fetched": "2026-01-15T11:37:42.295354+07:00"
+    },
+    {
+      "id": "bfc5abf1393bac213d94d8eb115512af",
+      "title": "Chicilon Media ưu tiên trải nghiệm người xem",
+      "link": "https://vnexpress.net/chicilon-media-uu-tien-trai-nghiem-nguoi-xem-5005940.html",
+      "summary": "Chicilon Media truyền thông thang máy theo hướng không gián đoạn, hiển thị ngắn gọn, tần suất và bối cảnh phù hợp, giúp người xem tiếp nhận tự nhiên, dễ ghi nhớ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:00+07:00",
+      "fetched": "2026-01-15T11:37:42.295510+07:00"
+    },
+    {
+      "id": "279a6d9d81e6176f62402927f16a28a5",
+      "title": "Bé trai loét dạ dày với triệu chứng dễ nhầm rối loạn tiêu hóa",
+      "link": "https://vnexpress.net/be-trai-loet-da-day-voi-trieu-chung-de-nham-roi-loan-tieu-hoa-5005836.html",
+      "summary": "Bé Trung, 10 tuổi, bị đau bụng âm ỉ, ợ hơi, ợ chua kéo dài suốt một tháng, bác sĩ chẩn đoán loét dạ dày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:00+07:00",
+      "fetched": "2026-01-15T11:37:42.295668+07:00"
+    },
+    {
+      "id": "4c162156a7fd0c1b0fcde17077379b15",
+      "title": "CEO HP Vietnam: 'AI tái định nghĩa cách thức làm việc'",
+      "link": "https://vnexpress.net/ceo-hp-vietnam-ai-tai-dinh-nghia-cach-thuc-lam-viec-5003331.html",
+      "summary": "AI trên thiết bị cá nhân giúp tối ưu khả năng làm việc, sáng tạo, xóa bỏ khoảng cách không gian, dù người dùng ở văn phòng, sân bay hay quán cà phê, theo ông Nguyễn Minh Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:00+07:00",
+      "fetched": "2026-01-15T11:37:42.295836+07:00"
+    },
+    {
+      "id": "03a05f97bc2b7d7fe80afb4532b0d34e",
+      "title": "15.000 ha dừa hữu cơ: Betrimex và cách giải bài toán khó của ngành dừa toàn cầu",
+      "link": "https://thanhnien.vn/15000-ha-dua-huu-co-betrimex-va-cach-giai-bai-toan-kho-cua-nganh-dua-toan-cau-185260115100255129.htm",
+      "summary": "Sau hơn một thập kỷ kiên trì và âm thầm hành động, Betrimex đang mang lại những 'trái ngọt' rõ nét cho ngành dừa Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T04:00:00+07:00",
+      "fetched": "2026-01-15T11:37:46.365065+07:00"
+    },
+    {
+      "id": "bc8a27d635b2c9cf1c6028179c0f6e48",
+      "title": "Thái Lan 'giậm chân tại chỗ nhiều năm ở U23 châu Á'",
+      "link": "https://vnexpress.net/thai-lan-giam-chan-tai-cho-nhieu-nam-o-u23-chau-a-5005859.html",
+      "summary": "Báo hàng đầu Thái Lan Thai Rath thất vọng khi thầy trò Thawatchai Damrong-Ongtrakul đứng cuối bảng và lần thứ ba liên tiếp bị loại sớm ở vòng chung kết U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:59:32+07:00",
+      "fetched": "2026-01-15T11:37:42.295996+07:00"
+    },
+    {
+      "id": "bc8a27d635b2c9cf1c6028179c0f6e48",
+      "title": "Thái Lan 'giậm chân tại chỗ nhiều năm ở U23 châu Á'",
+      "link": "https://vnexpress.net/thai-lan-giam-chan-tai-cho-nhieu-nam-o-u23-chau-a-5005859.html",
+      "summary": "Báo hàng đầu Thái Lan Thai Rath thất vọng khi thầy trò Thawatchai Damrong-Ongtrakul đứng cuối bảng và lần thứ ba liên tiếp bị loại sớm ở vòng chung kết U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T03:59:32+07:00",
+      "fetched": "2026-01-15T11:37:54.133797+07:00"
+    },
+    {
+      "id": "57df520802dad16245458f9462b88d2c",
+      "title": "Hãy là người cho em và các con của chúng ta sự an yên, anh nhé",
+      "link": "https://vnexpress.net/hay-la-nguoi-cho-em-va-cac-con-cua-chung-ta-su-an-yen-anh-nhe-5003813.html",
+      "summary": "Em ưu tiên sự đơn giản, thoải mái trong cuộc sống, không thích sự rườm rà, sống ảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:55:02+07:00",
+      "fetched": "2026-01-15T11:37:42.296095+07:00"
+    },
+    {
+      "id": "22605f6fd9b72a8cd377fc10f9c0a9ae",
+      "title": "Trang Nate Sports: ‘Tránh được cả Hàn Quốc và Nhật Bản, U.23 Việt Nam mở toang cửa vào chung kết’",
+      "link": "https://thanhnien.vn/trang-nate-sports-tranh-duoc-ca-han-quoc-va-nhat-ban-u23-viet-nam-mo-toang-cua-vao-chung-ket-185260115104605161.htm",
+      "summary": "Trang tin thể thao Nate Sports (Hàn Quốc) cho rằng việc U.23 Việt Nam đứng đầu bảng A giúp thầy trò HLV Kim Sang-sik tránh được những 'ông lớn' như Hàn Quốc và Nhật Bản, qua đó mở ra con đường thuận lợi để tiến tới trận chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:54:00+07:00",
+      "fetched": "2026-01-15T11:37:46.365237+07:00"
+    },
+    {
+      "id": "c8e221f4a50cf31bbfdb9b039a4ee76c",
+      "title": "Động thổ hai cầu hơn 32.000 tỷ đồng kết nối Đồng Nai - TP HCM",
+      "link": "https://vnexpress.net/dong-tho-hai-cau-hon-32-000-ty-dong-ket-noi-dong-nai-tp-hcm-5005890.html",
+      "summary": "Cầu Cát Lái và Long Hưng bắc qua sông Đồng Nai được động thổ sáng 15/1, nhằm tăng kết nối giao thông vùng, rút ngắn hành trình từ TP HCM đến sân bay Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:49:30+07:00",
+      "fetched": "2026-01-15T11:37:42.296274+07:00"
+    },
+    {
+      "id": "3bfec02c8adf8a6f99aa588dfdc799e6",
+      "title": "'Giá trị của xe mới so với xe cũ thể hiện khi phanh khẩn cấp'",
+      "link": "https://vnexpress.net/gia-tri-cua-xe-moi-so-voi-xe-cu-the-hien-khi-phanh-khan-cap-5004931.html",
+      "summary": "Phanh khẩn cấp là tình huống thử thách rõ nhất khả năng an toàn của một chiếc ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:49:00+07:00",
+      "fetched": "2026-01-15T11:37:42.296432+07:00"
+    },
+    {
+      "id": "a510b5438d518f9e9fe8eb610be61b31",
+      "title": "Đấm bà chủ cửa hàng, cướp hai điện thoại iPhone",
+      "link": "https://vnexpress.net/dam-ba-chu-cua-hang-cuop-hai-dien-thoai-iphone-5005873.html",
+      "summary": "Nguyễn Văn Hưng vờ mua điện thoại rồi đấm vào mặt bà chủ cửa hàng, cướp hai điện thoại iPhone 14 Pro Max trị giá 30 triệu đồng, sau đó trốn vào TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T03:46:09+07:00",
+      "fetched": "2026-01-15T11:37:42.296590+07:00"
+    },
+    {
+      "id": "dc450e8138aa5eb6e41fca8582daed3c",
+      "title": "Tư lệnh hải quân Mỹ lo siêu tàu sân bay bị quá tải",
+      "link": "https://vnexpress.net/tu-lenh-hai-quan-my-lo-sieu-tau-san-bay-bi-qua-tai-5005821.html",
+      "summary": "Lãnh đạo hải quân Mỹ không muốn kéo dài thời gian triển khai tàu sân bay USS Gerald R. Ford vì lo ảnh hưởng tới binh sĩ và chiến hạm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T03:41:40+07:00",
+      "fetched": "2026-01-15T11:37:49.066522+07:00"
+    },
+    {
+      "id": "a45ffa1a0417c3e12f32f4f1b19e41a1",
+      "title": "Google ra Personal Intelligence, cạnh tranh Apple Intelligence",
+      "link": "https://vnexpress.net/google-ra-personal-intelligence-canh-tranh-apple-intelligence-5005853.html",
+      "summary": "Personal Intelligence (Trí tuệ Cá nhân) của Google sử dụng Gemini, kết nối thông tin từ Gmail, Photos để cung cấp câu trả lời cá nhân hóa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T03:39:35+07:00",
+      "fetched": "2026-01-15T11:37:53.128747+07:00"
+    },
+    {
+      "id": "21da509ce5c542172a0d897b3d5ae068",
+      "title": "Không phận Iran vắng bóng máy bay",
+      "link": "https://vnexpress.net/khong-phan-iran-vang-bong-may-bay-5005892.html",
+      "summary": "Dữ liệu của FlightRadar24 cho thấy không máy bay dân sự nào bay qua Iran sau khi nước này thông báo đóng không phận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T03:33:55+07:00",
+      "fetched": "2026-01-15T11:37:49.066698+07:00"
+    },
+    {
+      "id": "55058aed2d8f19157636682ecc48d49e",
+      "title": "9 startup AI Việt trình diễn giải pháp trước doanh nghiệp Nhật",
+      "link": "https://vnexpress.net/9-startup-ai-viet-trinh-dien-giai-phap-truoc-doanh-nghiep-nhat-5005787.html",
+      "summary": "Các startup về AI tại Việt Nam kết nối với khách hàng Nhật Bản trong chương trình VietLeap AI Accelerator.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T03:28:11+07:00",
+      "fetched": "2026-01-15T11:37:53.128905+07:00"
+    },
+    {
       "id": "5a4ffe6e67f5577074a9ffe042c95a93",
       "title": "VinFast tung 4 mẫu xe máy điện mới: Có xe ga thể thao, hỗ trợ đổi pin",
       "link": "https://thanhnien.vn/vinfast-tung-4-mau-xe-may-dien-moi-co-xe-ga-the-thao-ho-tro-doi-pin-185260115102057855.htm",
@@ -313,6 +683,16 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T10:28:30.465398+07:00"
     },
     {
+      "id": "c2190222b414e1f6310f3f1658335f00",
+      "title": "Mỹ áp thuế nhập khẩu 25% với một số chip AI",
+      "link": "https://vnexpress.net/my-ap-thue-nhap-khau-25-voi-mot-so-chip-ai-5005857.html",
+      "summary": "Tổng thống Mỹ Donald Trump sẽ áp thuế nhập khẩu 25% với một số loại chip AI cao cấp, như H200 của Nvidia và MI325X của AMD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-15T03:26:55+07:00",
+      "fetched": "2026-01-15T11:37:50.074344+07:00"
+    },
+    {
       "id": "847a2d32e9eaf555a33226eb849820eb",
       "title": "Rò rỉ thông tin thú vị về iPhone Fold của Apple",
       "link": "https://thanhnien.vn/ro-ri-thong-tin-thu-vi-ve-iphone-fold-cua-apple-185260114235000648.htm",
@@ -321,6 +701,16 @@ window.newsData_2026_01_15 = {
       "category": "Tổng hợp",
       "published": "2026-01-15T03:26:00+07:00",
       "fetched": "2026-01-15T10:28:30.465567+07:00"
+    },
+    {
+      "id": "ee4ca2c53b2a3250a61016ecf30a5f2e",
+      "title": "Thông điệp 'ngoại giao chơi trống' của lãnh đạo Nhật - Hàn",
+      "link": "https://vnexpress.net/thong-diep-ngoai-giao-choi-trong-cua-lanh-dao-nhat-han-5005658.html",
+      "summary": "Thủ tướng Nhật và Tổng thống Hàn Quốc cùng nhau đánh trống trình diễn hai bài hát K-pop, thể hiện sự cải thiện quan hệ song phương sau giai đoạn căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T03:24:08+07:00",
+      "fetched": "2026-01-15T11:37:49.066862+07:00"
     },
     {
       "id": "d5f56fc8bd2e5979e806a25929834aad",
