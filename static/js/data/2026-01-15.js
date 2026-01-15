@@ -1,7 +1,157 @@
 window.newsData_2026_01_15 = {
   "date": "2026-01-15",
-  "lastUpdated": "2026-01-15T11:37:54.141603+07:00",
+  "lastUpdated": "2026-01-15T13:29:48.122364+07:00",
   "articles": [
+    {
+      "id": "96019efef90dc2a1405eaf9027da015f",
+      "title": "Tạm giữ phó trưởng trạm giám sát tàu cá và kiểm dịch vì nhận hối lộ của Đồ hộp Hạ Long",
+      "link": "https://tuoitre.vn/tam-giu-pho-truong-tram-giam-sat-tau-ca-va-kiem-dich-vi-nhan-hoi-lo-cua-do-hop-ha-long-20260115092626511.htm",
+      "summary": "Công an thành phố Hải Phòng đã tạm giữ Phó trưởng Trạm giám sát tàu cá và kiểm dịch lưu động - Chi cục Thủy sản, Chăn nuôi và Thú y.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809731+07:00",
+      "fetched": "2026-01-15T13:29:39.809844+07:00"
+    },
+    {
+      "id": "add32c4d3a61b1cb5ebe3c04dd3db6c6",
+      "title": "Trở về cùng dựng xây quê hương - Kỳ 1: Viên kẹo ngọt thơm trả ơn đất mẹ",
+      "link": "https://tuoitre.vn/tro-ve-cung-dung-xay-que-huong-ky-1-vien-keo-ngot-thom-tra-on-dat-me-20260115083553396.htm",
+      "summary": "'Dù đi đâu ở đâu, chúng tôi vẫn luôn nhớ về cội nguồn, nhớ quê cha đất mẹ. Và chúng tôi cũng nghĩ đến trách nhiệm của mình'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809606+07:00",
+      "fetched": "2026-01-15T13:29:39.809719+07:00"
+    },
+    {
+      "id": "21e563c8d5d30bc195e1db9bfa720cbf",
+      "title": "Đức, Thụy Điển, Canada, Pháp và nhiều nước NATO điều quân tới Greenland",
+      "link": "https://tuoitre.vn/duc-thuy-dien-canada-phap-va-nhieu-nuoc-nato-dieu-quan-toi-greenland-20260115092056798.htm",
+      "summary": "Nhiều nước NATO, trong đó có Đức, Pháp, Thụy Điển và Canada, đã điều quân tới Greenland, theo yêu cầu của Đan Mạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809482+07:00",
+      "fetched": "2026-01-15T13:29:39.809595+07:00"
+    },
+    {
+      "id": "8fdbdd805b41545b59b482005ede74d4",
+      "title": "Vẫn lúng túng với thuế kê khai",
+      "link": "https://tuoitre.vn/van-lung-tung-voi-thue-ke-khai-20260115004459899.htm",
+      "summary": "Sau nửa tháng áp dụng thuế kê khai, nhiều hộ kinh doanh vẫn đau đầu với bài toán 'đầu vào - đầu ra'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809357+07:00",
+      "fetched": "2026-01-15T13:29:39.809471+07:00"
+    },
+    {
+      "id": "815b41aca673d3a8c9448194acadd335",
+      "title": "Thị trường chuyển nhượng mùa đông im ắng",
+      "link": "https://tuoitre.vn/thi-truong-chuyen-nhuong-mua-dong-im-ang-20260115081913418.htm",
+      "summary": "Dù đã 2 tuần lễ trôi qua nhưng các đội bóng tại châu Âu vẫn chưa có nhiều bản hợp đồng gây chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809229+07:00",
+      "fetched": "2026-01-15T13:29:39.809346+07:00"
+    },
+    {
+      "id": "bde074f1bda238d2a61c9ed66190c8ad",
+      "title": "Bắt thanh niên đấm nữ chủ cửa hàng cướp hai điện thoại iPhone",
+      "link": "https://tuoitre.vn/bat-thanh-nien-dam-nu-chu-cua-hang-cuop-hai-dien-thoai-iphone-20260115094431556.htm",
+      "summary": "Vờ hỏi mua điện thoại, nam thanh niên 17 tuổi đấm vào mặt nữ chủ cửa hàng điện thoại ở Nghệ An rồi cướp hai chiếc iPhone 14 Promax.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.809099+07:00",
+      "fetched": "2026-01-15T13:29:39.809217+07:00"
+    },
+    {
+      "id": "a48fc13ce16dbd4ceb18b468ab5f3644",
+      "title": "Công an Hưng Yên thông tin về vụ Kiều Ngọc Anh sát hại 2 phụ nữ",
+      "link": "https://tuoitre.vn/cong-an-hung-yen-thong-tin-ve-vu-kieu-ngoc-anh-sat-hai-2-phu-nu-20260115113502666.htm",
+      "summary": "8h19 ngày 15-1, Kiều Ngọc Anh đã đến Công an xã Như Quỳnh, tỉnh Hưng Yên đầu thú và bước đầu khai nhận hành vi phạm tội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808951+07:00",
+      "fetched": "2026-01-15T13:29:39.809087+07:00"
+    },
+    {
+      "id": "2781f38d62f6713242fa2d2a4bb7e98d",
+      "title": "Khởi công cầu Cần Giờ, định hình trung tâm hạ tầng mới của TP.HCM",
+      "link": "https://tuoitre.vn/khoi-cong-cau-can-gio-dinh-hinh-trung-tam-ha-tang-moi-cua-tp-hcm-20260115061754127.htm",
+      "summary": "Khi hoàn thành, cầu Cần Giờ sẽ trở thành điểm kết nối then chốt, định hình trung tâm hạ tầng mới của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808824+07:00",
+      "fetched": "2026-01-15T13:29:39.808940+07:00"
+    },
+    {
+      "id": "70768445081ac924ec9ec98bb3ae0d86",
+      "title": "Phim mới của Park Bo Gum công bố dàn diễn viên, không có Trấn Thành",
+      "link": "https://tuoitre.vn/phim-moi-cua-park-bo-gum-cong-bo-dan-dien-vien-khong-co-tran-thanh-20260115094442226.htm",
+      "summary": "Park Bo Gum và Joo Won sẽ có màn đối đầu diễn xuất trong phim hành động cổ trang The sword: A legend of the red wolf.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808698+07:00",
+      "fetched": "2026-01-15T13:29:39.808813+07:00"
+    },
+    {
+      "id": "bf5b3af1dc70b2186ae040ca84c74a97",
+      "title": "Nhà di động Honda đủ cho 4 người, bếp và 'phòng tắm' được bố trí khéo để ở thoải mái",
+      "link": "https://tuoitre.vn/nha-di-dong-honda-du-cho-4-nguoi-bep-va-phong-tam-duoc-bo-tri-kheo-de-o-thoai-mai-20260115094602801.htm",
+      "summary": "Nhà di động Camper Base Station của Honda gây chú ý với thiết kế nhỏ gọn, đủ chỗ ngủ cho bốn người, dùng năng lượng mặt trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808570+07:00",
+      "fetched": "2026-01-15T13:29:39.808687+07:00"
+    },
+    {
+      "id": "e760815f5ede3ed9f51877dbcbfca32f",
+      "title": "Metro số 2 Bến Thành - Tham Lương: Kỳ vọng công trình dấu ấn người Việt",
+      "link": "https://tuoitre.vn/metro-so-2-ben-thanh-tham-luong-ky-vong-cong-trinh-dau-an-nguoi-viet-20260115113348909.htm",
+      "summary": "Sáng 15-1, TP.HCM khởi công tuyến tàu điện ngầm số 2 Bến Thành - Tham Lương, dự án đầu tiên doanh nghiệp Việt làm tổng thầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808443+07:00",
+      "fetched": "2026-01-15T13:29:39.808559+07:00"
+    },
+    {
+      "id": "b1045f82216f9cc8589b93e2a15dbf19",
+      "title": "Tuyển sinh lớp 1 và 6: Mốc thời gian phụ huynh TP.HCM cần nhớ",
+      "link": "https://tuoitre.vn/tuyen-sinh-lop-1-va-6-moc-thoi-gian-phu-huynh-tp-hcm-can-nho-20260115112248158.htm",
+      "summary": "TP.HCM sẽ công bố kế hoạch tuyển sinh lớp 1 và lớp 6 năm học 2026-2027 trước 31-3. Phụ huynh cần ghi nhớ các mốc thời gian quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808311+07:00",
+      "fetched": "2026-01-15T13:29:39.808431+07:00"
+    },
+    {
+      "id": "8831398bf9e35830ef87ce573aeab747",
+      "title": "Hữu Châu: ngược dòng với nỗi cô đơn",
+      "link": "https://tuoitre.vn/huu-chau-nguoc-dong-voi-noi-co-don-20260115095746023.htm",
+      "summary": "Người đi ngược dòng là tác phẩm nghệ sĩ Hữu Châu đạo diễn, sẽ ra mắt suất đầu tiên ngày 31-1 tai Sân khấu kịch Thiên Đăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808174+07:00",
+      "fetched": "2026-01-15T13:29:39.808299+07:00"
+    },
+    {
+      "id": "b5d88520bd11c88b5613b8ef0c681e14",
+      "title": "Khởi động dự án tái định cư cho dân vùng Nhà máy điện hạt nhân Ninh Thuận 1",
+      "link": "https://tuoitre.vn/khoi-dong-du-an-tai-dinh-cu-cho-dan-vung-nha-may-dien-hat-nhan-ninh-thuan-1-20260115102832815.htm",
+      "summary": "UBND tỉnh Khánh Hòa tổ chức lễ khởi động dự án di dân, tái định cư dự án Nhà máy điện hạt nhân Ninh Thuận 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.808006+07:00",
+      "fetched": "2026-01-15T13:29:39.808160+07:00"
+    },
+    {
+      "id": "646aef797e2a2111556bb24368453aea",
+      "title": "U23 Hàn Quốc đối mặt sức ép từ HLV Kim Sang Sik",
+      "link": "https://tuoitre.vn/u23-han-quoc-doi-mat-suc-ep-tu-hlv-kim-sang-sik-20260115080949304.htm",
+      "summary": "Thành công của đội tuyển U23 Việt Nam tại Giải U23 châu Á vô tình khiến U23 Hàn Quốc bị chỉ trích bởi chính truyền thông trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T13:29:39.807759+07:00",
+      "fetched": "2026-01-15T13:29:39.807990+07:00"
+    },
     {
       "id": "f2cc0963ed459d923a91e2a2f105c48b",
       "title": "Nhận biết cấp độ yếu sinh lý để chữa trị",
@@ -303,6 +453,356 @@ window.newsData_2026_01_15 = {
       "fetched": "2026-01-15T08:24:15.329506+07:00"
     },
     {
+      "id": "d9e105bfecd3b3e388dc8137b29ce201",
+      "title": "Trường ĐH Tây Đô - Trường ĐH Sư phạm Kỹ thuật Vĩnh Long: Trận đấu 'duyên nợ'",
+      "link": "https://thanhnien.vn/truong-dh-tay-do-truong-dh-su-pham-ky-thuat-vinh-long-tran-dau-duyen-no-185260115093331102.htm",
+      "summary": "Lúc 14 giờ 30 hôm nay (15.1), Trường ĐH Tây Đô sẽ gặp Trường ĐH Sư phạm Kỹ thuật Vĩnh Long ở lượt trận thứ nhất vòng loại Tây Nam bộ giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:28:00+07:00",
+      "fetched": "2026-01-15T13:29:39.081965+07:00"
+    },
+    {
+      "id": "37990631d03667c5ec32d72f05fb5924",
+      "title": "Đố bạn có bao nhiêu quả chuối?",
+      "link": "https://vnexpress.net/mot-nai-hai-nai-khoan-da-co-bao-nhieu-qua-chuoi-o-day-5003202.html",
+      "summary": "Đây chính là kiểu câu đố sinh ra để thử độ kiên nhẫn và khả năng quan sát tinh tế của bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:20:00+07:00",
+      "fetched": "2026-01-15T13:29:36.421708+07:00"
+    },
+    {
+      "id": "92ee03b44435c5e0a50735052d3f2d91",
+      "title": "TV360 sở hữu bản quyền Úc mở rộng giai đoạn 2026-2029, phát sóng độc quyền tại Việt Nam",
+      "link": "https://thanhnien.vn/tv360-so-huu-ban-quyen-uc-mo-rong-giai-doan-2026-2029-phat-song-doc-quyen-tai-viet-nam-185260115125703036.htm",
+      "summary": "TV360 chính thức sở hữu bản quyền phát sóng độc quyền Úc mở rộng (Australian Open) tại Việt Nam giai đoạn 2026-2029, mang trọn vẹn giải Grand Slam mở màn mùa quần vợt thế giới đến khán giả trong nước trên đa nền tảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:15:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082167+07:00"
+    },
+    {
+      "id": "f6416720dbfa62b4f95ece833b98abe6",
+      "title": "U.23 Việt Nam phải 'khóa' dàn sao gốc Phi: Sẽ hạ đẹp UAE, thẳng tiến bán kết",
+      "link": "https://thanhnien.vn/u23-viet-nam-phai-khoa-dan-sao-goc-phi-se-ha-dep-uae-thang-tien-ban-ket-185260115124752989.htm",
+      "summary": "Sức mạnh của U.23 UAE nằm ở 4 cầu thủ gốc Phi, mà nếu khóa chặt, U.23 Việt Nam sẽ vượt qua tứ kết U.23 châu Á 2026 (diễn ra lúc 22 giờ 30 ngày 16.1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:15:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082335+07:00"
+    },
+    {
+      "id": "254c1d686be32ca5ea9e664245b7e5a9",
+      "title": "Tôi chưa nhận lời, anh có được quyền cùng lúc tìm hiểu người khác?",
+      "link": "https://vnexpress.net/toi-chua-nhan-loi-anh-co-duoc-quyen-cung-luc-tim-hieu-nguoi-khac-5005880.html",
+      "summary": "Tôi vô tình phát hiện anh cũng hẹn hò với người khác; một vài người bảo anh làm vậy chẳng sao bởi tôi đã nhận lời đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:14:29+07:00",
+      "fetched": "2026-01-15T13:29:36.421889+07:00"
+    },
+    {
+      "id": "78fe9fec3de5014d9d98ba3659488ba2",
+      "title": "Lời khai của nghi phạm giết 2 người ở Hưng Yên",
+      "link": "https://thanhnien.vn/loi-khai-cua-nghi-pham-giet-2-nguoi-o-hung-yen-18526011512423193.htm",
+      "summary": "Nghi phạm giết 2 người ở Hưng Yên khai gây án nhằm cướp tài sản để lấy tiền chi tiêu. Thời điểm ra đầu thú, nghi phạm dương tính với chất ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:14:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082493+07:00"
+    },
+    {
+      "id": "a81508133c692c31c1dda97f0c262c52",
+      "title": "Bánh tráng nhúng nước: Món ăn vặt gây bão mạng đầu năm 2026, đáng thử hay… bỏ qua?",
+      "link": "https://thanhnien.vn/banh-trang-nhung-nuoc-mon-an-vat-gay-bao-mang-dau-nam-2026-dang-thu-hay-bo-qua-185260113200223269.htm",
+      "summary": "Những ngày qua, nhiều clip ăn món bánh tráng nhúng nước bất ngờ đạt 'triệu view' trên mạng xã hội, trở thành món ăn hot trend ẩm thực đầu năm 2026. Món ăn này có gì thú vị và vì sao gây tranh cãi?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:13:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082647+07:00"
+    },
+    {
+      "id": "f3e254062f357d92a34ea5b34f6ea7ee",
+      "title": "Thùy Linh thua tay vợt số 1 Trung Quốc",
+      "link": "https://vnexpress.net/thuy-linh-thua-tay-vot-so-1-trung-quoc-5006001.html",
+      "summary": "Nguyễn Thuỳ Linh dẫn cách biệt ở set hai, nhưng mắc nhiều lỗi đánh hỏng rồi thua Wang Zhiyi 0-2 ở vòng hai giải cầu lông Ấn Độ Mở rộng, trưa 15/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:03:02+07:00",
+      "fetched": "2026-01-15T13:29:36.422073+07:00"
+    },
+    {
+      "id": "0bba2f7a9a804bbeb4b39ca7839a1c0a",
+      "title": "Lâm Đồng bổ nhiệm Chỉ huy trưởng Ban CHQS tại 124 xã, phường, đặc khu",
+      "link": "https://thanhnien.vn/lam-dong-bo-nhiem-chi-huy-truong-ban-chqs-tai-124-xa-phuong-dac-khu-185260115121929565.htm",
+      "summary": "Bộ Chỉ huy Quân sự tỉnh Lâm Đồng công bố quyết định của Bộ Quốc phòng về việc tổ chức lại Ban CHQS cấp xã và trao quyết bổ nhiệm Chỉ huy trưởng Ban CHQS tại 124 xã, phường, đặc khu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:01:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082801+07:00"
+    },
+    {
+      "id": "7b9853bb9dcbdc36b972d4155537f45f",
+      "title": "Người Sài Gòn thuê xe đạp điện 20 nghìn để trải nghiệm hay đi làm mỗi ngày?",
+      "link": "https://vnexpress.net/giao-thong-tphcm-cach-thue-xe-dap-cong-cong-gia-thue-xe-dap-dien-cong-cong-5005911.html",
+      "summary": "Độc giả cho rằng xe đạp điện tiện lợi với du khách có nhu cầu tham quan trung tâm thành phố, với người đi làm hàng ngày khó khả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.422239+07:00"
+    },
+    {
+      "id": "38fef41b8bc7ec12dca358f2fc46ff09",
+      "title": "Nhau tiền đạo có nguy hiểm không?",
+      "link": "https://vnexpress.net/nhau-tien-dao-co-nguy-hiem-khong-5005988.html",
+      "summary": "Tôi mang thai 20 tuần sau thụ tinh trong ống nghiệm (IVF), nhau tiền đạo nhóm 3 và dây rốn bám màng có nguy hiểm không? (Bích, 28 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.422399+07:00"
+    },
+    {
+      "id": "5ed6a8aa00cf17bebbf4e9cf3c0c3989",
+      "title": "Khối u ung thư 1,2 kg ở chân người đàn ông",
+      "link": "https://vnexpress.net/khoi-u-ung-thu-1-2-kg-o-chan-nguoi-dan-ong-5005974.html",
+      "summary": "Ông Thành, 61 tuổi, có khối u ở mặt sau đùi trái to lên nhanh, bác sĩ chẩn đoán mắc bệnh Sarcoma cơ trơn - một dạng ung thư mô mềm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.422558+07:00"
+    },
+    {
+      "id": "7527dd77aed130b89fc6052b02adc818",
+      "title": "5 tư thế yoga tốt cho mắt",
+      "link": "https://vnexpress.net/5-tu-the-yoga-tot-cho-mat-5005904.html",
+      "summary": "Bài tập đảo mắt giúp tăng cường các cơ quanh mắt, cải thiện sự linh hoạt, còn xoa lòng bàn tay vào mắt hỗ trợ thư giãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.422721+07:00"
+    },
+    {
+      "id": "6d261ca490996a561e9b8e70918bb65c",
+      "title": "Tiger Remix 2026 lập kỷ lục Việt Nam với hơn 36.000 người 'săn lộc xuân'",
+      "link": "https://vnexpress.net/tiger-remix-2026-lap-ky-luc-viet-nam-voi-hon-36-000-nguoi-san-loc-xuan-5005903.html",
+      "summary": "Chuỗi sự kiện Tiger Remix 2026 thu hút hơn 36.000 người tham gia \"săn lộc bản lĩnh\", lập hai kỷ lục Việt Nam trong những ngày đầu năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.422878+07:00"
+    },
+    {
+      "id": "c8a5ed6ef361a740002b3ee8d362c43e",
+      "title": "Người dùng sẵn sàng chi nhiều hơn cho hàng chính hãng",
+      "link": "https://vnexpress.net/nguoi-dung-san-sang-chi-nhieu-hon-cho-hang-chinh-hang-5005291.html",
+      "summary": "Nhiều người đồng ý trả thêm 10-30% giá bán để đảm bảo tính chính hãng của sản phẩm, thúc đẩy sự tăng trưởng gian hàng \"Mall\" trên sàn online, theo khảo sát từ Cube Asia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.423055+07:00"
+    },
+    {
+      "id": "419669fbe0d1aed18b2d928e7787bbf8",
+      "title": "Cách Duluth Trading cắt giảm hàng tồn kho",
+      "link": "https://vnexpress.net/cach-duluth-trading-cat-giam-hang-ton-kho-5002889.html",
+      "summary": "Những nỗ lực tinh gọn danh mục sản phẩm và điều chỉnh lượng hàng nhập giúp Duluth Trading giảm mạnh tồn kho, cải thiện dòng tiền và biên lợi nhuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:36.423242+07:00"
+    },
+    {
+      "id": "2492117b8805587796cf4e4a1c1dadda",
+      "title": "Phạt người đăng tin sai sự thật vụ bé gái 13 tuổi bị sát hại",
+      "link": "https://thanhnien.vn/phat-nguoi-dang-tin-sai-su-that-vu-be-gai-13-tuoi-bi-sat-hai-185260115114728219.htm",
+      "summary": "Một người ở Cà Mau bị xử phạt hành chính vì lan truyền thông tin sai sự thật liên quan vụ bé gái 13 tuổi bị sát hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:39.082960+07:00"
+    },
+    {
+      "id": "60548b16eb41be402adefde3595ffb44",
+      "title": "Trường ĐH Quốc tế Sài Gòn - Trường ĐH Quy Nhơn: Tìm chiến thắng thứ hai",
+      "link": "https://thanhnien.vn/truong-dh-quoc-te-sai-gon-truong-dh-quy-nhon-tim-chien-thang-thu-hai-185260115100922569.htm",
+      "summary": "14 giờ hôm nay (15.1), đội Trường ĐH Quốc tế Sài Gòn chạm trán đội Trường ĐH Quy Nhơn, ở trận đấu thuộc lượt hai nhóm 4 – vòng loại khu vực TP.HCM giải bóng đá Thanh Niên sinh viên Việt Nam lần IV – 2026 cúp THACO (TNSV THACO cup 2026).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T06:00:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083134+07:00"
+    },
+    {
+      "id": "39c79db8684037b032212d9f1646c51b",
+      "title": "Dáng dấp 'ông lớn' ở U.23 Việt Nam",
+      "link": "https://thanhnien.vn/dang-dap-ong-lon-o-u23-viet-nam-185260114225643466.htm",
+      "summary": "Sau 3 trận toàn thắng ở vòng bảng U.23 châu Á 2026, U.23 VN cho thấy mình không còn hình bóng của 'ngựa ô' mà đã mang dáng dấp 'ông lớn' thực thụ: lì lợm, tự tin và đầy bản lĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:54:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083300+07:00"
+    },
+    {
+      "id": "e21b421de629933f931401b9c1eb22ec",
+      "title": "Nguyễn Thùy Linh không thể tạo bất ngờ trước tay vợt số 2 thế giới",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-khong-the-tao-bat-ngo-truoc-tay-vot-so-2-the-gioi-185260115125044641.htm",
+      "summary": "Tay vợt cầu lông số 1 Việt Nam Nguyễn Thùy Linh (hạng 23 thế giới) dừng chân ở vòng 2 đơn nữ giải cầu lông Ấn Độ mở rộng 2026 khi thua đối thủ xếp hạng 2 thế giới Wang Zhi Yi (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:51:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083461+07:00"
+    },
+    {
+      "id": "3dfbdc113d96456f558826678fd28d9c",
+      "title": "Đà Nẵng: Xóa triệt để cơ chế xin - cho, bịt kín kẽ hở dễ tiêu cực",
+      "link": "https://thanhnien.vn/da-nang-xoa-triet-de-co-che-xin-cho-bit-kin-ke-ho-de-tieu-cuc-185260115113347917.htm",
+      "summary": "TP.Đà Nẵng yêu cầu triển khai đồng bộ các giải pháp phòng ngừa từ sớm, từ xa, từ gốc, bảo đảm nguyên tắc \"không thể\" tham nhũng, tiêu cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:47:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083614+07:00"
+    },
+    {
+      "id": "e2d7f1735679d396929f7e510a28b6b1",
+      "title": "ĐH Phenikaa - Trường ĐH Thủy lợi: Vé sớm cho chủ nhà?",
+      "link": "https://thanhnien.vn/dh-phenikaa-truong-dh-thuy-loi-ve-som-cho-chu-nha-185260115111202231.htm",
+      "summary": "Nếu đánh bại ĐH Phenikaa ở trận đấu diễn ra lúc 14 giờ hôm nay (15.1), Trường ĐH Thủy lợi sẽ đoạt tấm vé dự vòng chung kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:47:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083763+07:00"
+    },
+    {
+      "id": "3bc02031157864b68d34284fe4b64598",
+      "title": "Phó thủ tướng yêu cầu tăng mức phạt với buôn lậu, hàng giả",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-tang-muc-phat-voi-buon-lau-hang-gia-5005985.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn yêu cầu sửa quy định theo hướng tăng mức phạt với buôn lậu, gian lận thương mại và hàng giả nhằm bảo đảm tính răn đe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:45:05+07:00",
+      "fetched": "2026-01-15T13:29:36.423402+07:00"
+    },
+    {
+      "id": "3bc02031157864b68d34284fe4b64598",
+      "title": "Phó thủ tướng yêu cầu tăng mức phạt với buôn lậu, hàng giả",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-tang-muc-phat-voi-buon-lau-hang-gia-5005985.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn yêu cầu sửa quy định theo hướng tăng mức phạt với buôn lậu, gian lận thương mại và hàng giả nhằm bảo đảm tính răn đe.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-15T05:45:05+07:00",
+      "fetched": "2026-01-15T13:29:42.553225+07:00"
+    },
+    {
+      "id": "a70217956a96e209eb789745835bdf5f",
+      "title": "Doanh nghiệp vận tải đầu tiên cung cấp quyền truy cập hệ thống giám sát cho CSGT",
+      "link": "https://thanhnien.vn/doanh-nghiep-van-tai-dau-tien-cung-cap-quyen-truy-cap-he-thong-giam-sat-cho-csgt-185260115115646076.htm",
+      "summary": "Cục CSGT vừa tiếp nhận quyền truy cập hệ thống giám sát hành trình phương tiện của doanh nghiệp vận tải Phương Trang. Đây là doanh nghiệp kinh doanh vận tải đầu tiên cung cấp hệ thống giám sát cho lực lượng CSGT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:41:00+07:00",
+      "fetched": "2026-01-15T13:29:39.083916+07:00"
+    },
+    {
+      "id": "57ff67dcec508703199dcd079284cf7f",
+      "title": "Hà Nội sẽ hoàn thiện những tuyến metro nào đến 2030?",
+      "link": "https://thanhnien.vn/ha-noi-se-hoan-thien-nhung-tuyen-metro-nao-den-2030-185260115113908306.htm",
+      "summary": "Từ nay đến 2030, Hà Nội sẽ tập trung triển khai các dự án metro được xem là xương sống như tuyến Nam Thăng Long - Trần Hưng Đạo, Văn Cao - Hòa Lạc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:38:00+07:00",
+      "fetched": "2026-01-15T13:29:39.084088+07:00"
+    },
+    {
+      "id": "9fbcf530a25d8eb65c0d5ac4bffd8a7e",
+      "title": "Chàng trai sở hữu 19 thẻ chữ ký của cầu thủ Cristiano Ronaldo",
+      "link": "https://thanhnien.vn/chang-trai-so-huu-19-the-chu-ky-cua-cau-thu-cristiano-ronaldo-185260115114131666.htm",
+      "summary": "Anh Trần Trung Tín (30 tuổi, TP.Hà Nội) được cộng đồng sưu tầm sports card (tạm dịch: thẻ thể thao) biết đến như một trong những người sở hữu bộ thẻ in hình và chữ ký Cristiano Ronaldo hiếm tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:37:00+07:00",
+      "fetched": "2026-01-15T13:29:39.084250+07:00"
+    },
+    {
+      "id": "7c953cf8bc119064e5ddd3467f661911",
+      "title": "Nhã Phương nghỉ dưỡng ở nhà vườn trước khi sinh con thứ ba",
+      "link": "https://vnexpress.net/nha-phuong-nghi-duong-o-nha-vuon-truoc-khi-sinh-con-thu-ba-5005877.html",
+      "summary": "Diễn viên Nhã Phương bế bầu tháng cuối chụp ảnh kỷ niệm cùng Trường Giang và các con tại nhà vườn hơn 100 m2 ở Đà Lạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:25:54+07:00",
+      "fetched": "2026-01-15T13:29:36.423561+07:00"
+    },
+    {
+      "id": "028fc791aaf2ce95b5870f704c13c328",
+      "title": "Bị phạt vì đăng tin sai sự thật vụ bé gái bị sát hại",
+      "link": "https://vnexpress.net/bi-phat-vi-dang-tin-sai-su-that-vu-be-gai-bi-sat-hai-5005970.html",
+      "summary": "Người đàn ông 31 tuổi ở xã Phú Tân bị phạt 7,5 triệu đồng vì đăng thông tin sai sự thật về vụ án bé gái 13 tuổi bị sát hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:19:47+07:00",
+      "fetched": "2026-01-15T13:29:36.423665+07:00"
+    },
+    {
+      "id": "46eb364899690ba5c79b0d8ac8f9c7e6",
+      "title": "Đạo diễn Bảo Nguyễn làm giám khảo liên hoan phim tại Mỹ",
+      "link": "https://vnexpress.net/dao-dien-bao-nguyen-lam-giam-khao-lien-hoan-phim-tai-my-5005898.html",
+      "summary": "Bảo Nguyễn - đạo diễn phim tài liệu về bức ảnh \"Em bé Napalm\" - là một trong ba giám khảo của hạng mục Phim tài liệu quốc tế ở Liên hoan phim Sundance 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:18:38+07:00",
+      "fetched": "2026-01-15T13:29:36.423820+07:00"
+    },
+    {
+      "id": "3e3d53fc2d914a0aa083e3361b3ddb9c",
+      "title": "Fabio Capello: 'Càng nhiều ngôi sao, công việc của HLV càng khó khăn'",
+      "link": "https://vnexpress.net/fabio-capello-cang-nhieu-ngoi-sao-cong-viec-cua-hlv-cang-kho-khan-5004333.html",
+      "summary": "Trả lời phỏng vấn tờ Marca, cựu HLV Fabio Capello đưa ra nhiều góc nhìn về Barca, Real, sự khó chịu của VAR, kinh nghiệm quản lý các ngôi sao và dự đoán cho World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-15T05:03:09+07:00",
+      "fetched": "2026-01-15T13:29:36.423985+07:00"
+    },
+    {
+      "id": "3e3d53fc2d914a0aa083e3361b3ddb9c",
+      "title": "Fabio Capello: 'Càng nhiều ngôi sao, công việc của HLV càng khó khăn'",
+      "link": "https://vnexpress.net/fabio-capello-cang-nhieu-ngoi-sao-cong-viec-cua-hlv-cang-kho-khan-5004333.html",
+      "summary": "Trả lời phỏng vấn tờ Marca, cựu HLV Fabio Capello đưa ra nhiều góc nhìn về Barca, Real, sự khó chịu của VAR, kinh nghiệm quản lý các ngôi sao và dự đoán cho World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T05:03:09+07:00",
+      "fetched": "2026-01-15T13:29:48.113320+07:00"
+    },
+    {
+      "id": "6d69ec079fa4dcb5d0206600b5198e6b",
+      "title": "Bất đồng khiến đàm phán Mỹ - Đan Mạch về Greenland bế tắc",
+      "link": "https://vnexpress.net/bat-dong-khien-dam-phan-my-dan-mach-ve-greenland-be-tac-5005818.html",
+      "summary": "Cuộc đàm phán về tương lai Greenland tại Nhà Trắng kết thúc trong bế tắc, khi Mỹ vẫn muốn sở hữu hòn đảo, còn Đan Mạch quyết bảo vệ chủ quyền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T04:55:42+07:00",
+      "fetched": "2026-01-15T13:29:41.486562+07:00"
+    },
+    {
+      "id": "17373f69c30a32c9f2e83e034b82a25a",
+      "title": "Djokovic bỏ dở buổi tập vì khó thở",
+      "link": "https://vnexpress.net/djokovic-bo-do-buoi-tap-vi-kho-tho-5005885.html",
+      "summary": "Chủ nhân 24 Grand Slam Novak Djokovic thở dốc, trước khi bỏ dở hai set đấu tập với các đàn em Jiri Lehecka và Daniil Medvedev trong hai ngày liên tiếp tại Australia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-15T04:46:47+07:00",
+      "fetched": "2026-01-15T13:29:48.114163+07:00"
+    },
+    {
+      "id": "c472d26685148062789978bf6a93d463",
+      "title": "Người Thái Lan tranh cãi về chữ viết 'không đọc nổi' của ông Anutin",
+      "link": "https://vnexpress.net/nguoi-thai-lan-tranh-cai-ve-chu-viet-khong-doc-noi-cua-ong-anutin-5005891.html",
+      "summary": "Bức ảnh bản ghi chép của Thủ tướng Anutin gây tranh cãi, khi nhiều người cho rằng chữ của ông khó đọc như chữ bác sĩ, số khác nói đó là phong cách tốc ký.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-15T04:32:31+07:00",
+      "fetched": "2026-01-15T13:29:41.486739+07:00"
+    },
+    {
       "id": "3baf145eb29df4da1b86ab0bf22edf84",
       "title": "Phường Gò Vấp mở rộng đường D3, hộ nhận bồi thường cao nhất hơn 21 tỉ đồng",
       "link": "https://thanhnien.vn/phuong-go-vap-mo-rong-duong-d3-ho-nhan-boi-thuong-cao-nhat-hon-21-ti-dong-185260115102834954.htm",
@@ -341,6 +841,16 @@ window.newsData_2026_01_15 = {
       "category": "Tổng hợp",
       "published": "2026-01-15T04:25:00+07:00",
       "fetched": "2026-01-15T11:37:46.363536+07:00"
+    },
+    {
+      "id": "e6acf1dd9f53ea9795095ef13d2f7413",
+      "title": "Smartphone thiết kế giống iPhone 17 Pro Max, giá 3 triệu đồng",
+      "link": "https://vnexpress.net/smartphone-thiet-ke-giong-iphone-17-pro-max-gia-3-trieu-dong-5005941.html",
+      "summary": "Nubia V80 Design có màn hình 120 Hz, camera 50 megapixel, nút bấm riêng cho AI, hỗ trợ NFC và có khả năng kháng nước IP64.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-15T04:22:49+07:00",
+      "fetched": "2026-01-15T13:29:46.313321+07:00"
     },
     {
       "id": "f309d60e11371998dea65a2f25687911",
