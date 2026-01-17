@@ -1,7 +1,67 @@
 window.newsData_2026_01_17 = {
   "date": "2026-01-17",
-  "lastUpdated": "2026-01-17T05:18:49.849143+07:00",
+  "lastUpdated": "2026-01-17T08:22:53.313492+07:00",
   "articles": [
+    {
+      "id": "8cba7642c1e88ece3f8b414f28e29197",
+      "title": "Thời tiết hôm nay 17-1: Cả nước tăng nhiệt trước đợt rét mới",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-1-ca-nuoc-tang-nhiet-truoc-dot-ret-moi-20260116171010091.htm",
+      "summary": "Thời tiết cả nước đang ấm dần khi không khí lạnh bắt đầu yếu dần và tan đi, tuy nhiên đợt lạnh mới đang chuẩn bị tràn về nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.059395+07:00",
+      "fetched": "2026-01-17T08:22:46.059508+07:00"
+    },
+    {
+      "id": "e44b4047aa0a5da05caafc64c3e87a69",
+      "title": "Báo UAE: Chúng tôi thất bại trước sự quả cảm của U23 Việt Nam",
+      "link": "https://tuoitre.vn/bao-uae-chung-toi-that-bai-truoc-su-qua-cam-cua-u23-viet-nam-2026011702550547.htm",
+      "summary": "Dù đội nhà bị U23 Việt Nam loại, nhưng báo UAE vẫn hết lời khen ngợi màn trình diễn của thầy trò HLV Kim Sang Sik. Họ cho rằng đội nhà thua bởi sự quả cảm của các “chiến binh Sao Vàng”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.059267+07:00",
+      "fetched": "2026-01-17T08:22:46.059383+07:00"
+    },
+    {
+      "id": "f52f27ea205dccc16546ad601da5fc65",
+      "title": "Thống kê cho thấy U23 Việt Nam xứng đáng thắng UAE",
+      "link": "https://tuoitre.vn/thong-ke-cho-thay-u23-viet-nam-xung-dang-thang-uae-20260117020000649.htm",
+      "summary": "Rạng sáng 17-1, bằng lối chơi mạnh dạn, tự tin, U23 Việt Nam đã có được thế trận tốt để giành chiến thắng và có vé vào bán kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.059138+07:00",
+      "fetched": "2026-01-17T08:22:46.059255+07:00"
+    },
+    {
+      "id": "dc749bb17f04c9cd4721c61318a67403",
+      "title": "Lịch trực tiếp Giải U23 châu Á 2026: U23 Trung Quốc đấu Uzbekistan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-u23-chau-a-2026-u23-trung-quoc-dau-uzbekistan-20260116222823057.htm",
+      "summary": "Hôm nay 17-1, vòng tứ kết Giải U23 châu Á 2026 sẽ tiếp diễn với hai trận đấu: U23 Trung Quốc đụng độ Uzbekistan, và Úc chạm trán Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.059002+07:00",
+      "fetched": "2026-01-17T08:22:46.059126+07:00"
+    },
+    {
+      "id": "66aa78132283e6def06c347b84b5a61e",
+      "title": "U23 Việt Nam được AFC xóa hết thẻ phạt ở bán kết",
+      "link": "https://tuoitre.vn/u23-viet-nam-duoc-afc-xoa-het-the-phat-20260117021456496.htm",
+      "summary": "U23 Việt Nam đã được Liên đoàn Bóng đá châu Á (AFC) xóa hết thẻ phạt khi vào bán kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.058838+07:00",
+      "fetched": "2026-01-17T08:22:46.058988+07:00"
+    },
+    {
+      "id": "7c0488b9a9885d4d0f418c0ad671ce91",
+      "title": "Tin tức thế giới 17-1: Mỹ dọa đánh thuế gây sức ép trong vấn đề Greenland; Ông Trump cảm ơn Iran",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-17-1-my-doa-danh-thue-gay-suc-ep-trong-van-de-greenland-ong-trump-cam-on-iran-20260117055802157.htm",
+      "summary": "Venezuela xác nhận 83 người thiệt mạng trong chiến dịch quân sự của Mỹ; Lạm phát Nga giảm mạnh trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T08:22:46.058613+07:00",
+      "fetched": "2026-01-17T08:22:46.058823+07:00"
+    },
     {
       "id": "264707fe13815bb67baefbe0dbc958f8",
       "title": "HLV Kim Sang Sik tiết lộ chỉ đạo giúp U23 Việt Nam giành chiến thắng",
@@ -291,6 +351,416 @@ window.newsData_2026_01_17 = {
       "category": "Tổng hợp",
       "published": "2026-01-17T01:29:07.913964+07:00",
       "fetched": "2026-01-17T01:29:07.914195+07:00"
+    },
+    {
+      "id": "7b091fb576c7f73e90a1f1580f89df1d",
+      "title": "U.23 Việt Nam vào bán kết châu Á bất ngờ đứng tốp 1 sự kiện thể thao ở Indonesia, ‘đánh bật’ cả…",
+      "link": "https://thanhnien.vn/u23-viet-nam-vao-ban-ket-chau-a-bat-ngo-dung-top-1-su-kien-the-thao-o-indonesia-danh-bat-ca-185260117081440846.htm",
+      "summary": "CNN Indonesia đã đưa sự kiện U.23 Việt Nam đánh bại thuyết phục U.23 UAE với tỷ số 3-2 sau hiệp phụ trong trận đấu đầy hấp dẫn ngày 17.1 để thẳng tiến vào bán kết U.23 châu Á, là tốp số 1 sự kiện thể thao ở Indonesia trong ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:20:00+07:00",
+      "fetched": "2026-01-17T08:22:44.964359+07:00"
+    },
+    {
+      "id": "b4327f5c69b48646dd4c41f9d480b50d",
+      "title": "Bác sĩ chỉ ra khung giờ nên đi vào giấc ngủ để sống khỏe, sống thọ",
+      "link": "https://thanhnien.vn/bac-si-chi-ra-khung-gio-nen-di-vao-giac-ngu-de-song-khoe-song-tho-185260116201654617.htm",
+      "summary": "Theo y học cổ truyền, khi cơ thể mệt mỏi kéo dài, suy giảm thể lực và tinh thần không chỉ nằm ở việc thiếu ngủ, mà còn ở việc ngủ 'sai thời điểm', đi ngược lại nhịp vận hành tự nhiên của khí huyết trong cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:01:00+07:00",
+      "fetched": "2026-01-17T08:22:44.964527+07:00"
+    },
+    {
+      "id": "a6a263476724eb7aa0eefa392474a2de",
+      "title": "Tổng thống Mỹ công bố 'Hội đồng Hòa bình Gaza'",
+      "link": "https://vnexpress.net/tong-thong-my-cong-bo-hoi-dong-hoa-binh-gaza-5006681.html",
+      "summary": "Tổng thống Trump công bố danh sách 7 thành viên ban điều hành sáng lập \"Hội đồng Hòa bình Dải Gaza\", trong đó có con rể Jared Kushner.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T01:00:18+07:00",
+      "fetched": "2026-01-17T08:22:47.061009+07:00"
+    },
+    {
+      "id": "1772ecbd2b24404c176a94f924c5f95c",
+      "title": "Báo Trung Quốc cực thích Đình Bắc và Minh Phúc, quả quyết U.23 Việt Nam thắng UAE vì sự lì lợm",
+      "link": "https://thanhnien.vn/bao-trung-quoc-cuc-thich-dinh-bac-va-minh-phuc-qua-quyet-u23-viet-nam-chien-thang-vi-su-li-lom-185260117025031711.htm",
+      "summary": "Truyền thông Trung Quốc đánh giá, chiến thắng 3-2 trước U.23 UAE sau 120 phút nghẹt thở ở tứ kết U.23 châu Á 2026 không chỉ đưa U.23 Việt Nam vào bán kết, mà còn là lời khẳng định mạnh mẽ về đẳng cấp, bản lĩnh và sự trưởng thành vượt bậc của đội bóng do HLV Kim Sang-sik dẫn dắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.964687+07:00"
+    },
+    {
+      "id": "e47f70eeeeacee740d7d459378d76a61",
+      "title": "Thể thao Việt Nam chinh phục ASEAN Para Games 13",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-chinh-phuc-asean-para-games-13-185260116220029629.htm",
+      "summary": "Đoàn thể thao người khuyết tật VN đã có mặt tại Thái Lan, sẵn sàng chinh phục ASEAN Para Games 13 diễn ra từ ngày 20 - 26.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.964838+07:00"
+    },
+    {
+      "id": "3db99b3d744de447e036821828d1d6b2",
+      "title": "VAS Sales Portal - Khi tương lai được chạm bằng niềm tin và khát vọng",
+      "link": "https://thanhnien.vn/vas-sales-portal-khi-tuong-lai-duoc-cham-bang-niem-tin-va-khat-vong-185260116210833867.htm",
+      "summary": "Có những khoảnh khắc đánh dấu sự trưởng thành của một hành trình và có những bước đi khẳng định bản lĩnh đổi mới. Giờ đây, Tập đoàn VAS tự hào đánh dấu thời khắc ấy với sự ra đời của ứng dụng bán hàng VAS Sales Portal - biểu tượng của tinh thần tiên phong, của khát vọng kết nối và của một tương lai ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965013+07:00"
+    },
+    {
+      "id": "6b2a6747a3cd0084c0673a17567276f9",
+      "title": "Diện mạo mới của chân váy dáng dài",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-mao-moi-cua-chan-vay-dang-dai-185260115142041065.htm",
+      "summary": "Chân váy dáng dài ẩn chứa vẻ quyến rũ mềm mại của sự nữ tính và duyên dáng. Chân váy midi, chân váy maxi không chỉ là thiết kế dành cho nàng công sở mà từng bước len lỏi vào bản phối dạo phố, dự tiệc, cùng nàng tham gia các lễ hội và sự kiện trang trọng mùa cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T01:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965169+07:00"
+    },
+    {
+      "id": "82838432962808170903046a23bed6b1",
+      "title": "Lỗ hổng khiến hàng triệu tai nghe không dây bị 'chiếm đoạt âm thanh'",
+      "link": "https://vnexpress.net/lo-hong-khien-hang-trieu-tai-nghe-khong-day-bi-chiem-doat-am-thanh-5006324.html",
+      "summary": "WhisperPair - lỗ hổng nghiêm trọng liên quan đến chip Bluetooth và cách thiết bị xử lý giao thức Google Fast Pair, có thể khiến tai nghe bị hacker tấn công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-17T01:00:00+07:00",
+      "fetched": "2026-01-17T08:22:52.305469+07:00"
+    },
+    {
+      "id": "012a819b6abac4002f8af3a97b4e516f",
+      "title": "Ông Trump dọa áp thuế các nước không ủng hộ kế hoạch Greenland",
+      "link": "https://thanhnien.vn/ong-trump-doa-ap-thue-cac-nuoc-khong-ung-ho-ke-hoach-greenland-185260117075408517.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đe dọa áp thuế đối với các quốc gia không 'đồng thuận' với kế hoạch sáp nhập Greenland, một động thái làm gia tăng căng thẳng với các đồng minh châu Âu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:59:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965319+07:00"
+    },
+    {
+      "id": "7423687439ff11d3b0aa37ecc73c4ce7",
+      "title": "Trường ĐH Phương Đông - ĐH Kinh tế quốc dân: Thắng để bám đuổi",
+      "link": "https://thanhnien.vn/truong-dh-phuong-dong-dh-kinh-te-quoc-dan-thang-de-bam-duoi-185260116213901192.htm",
+      "summary": "ĐH Kinh tế quốc dân đặt mục tiêu lấy trọn 3 điểm trước Trường ĐH Phương Đông (9 giờ sáng nay 17.1) để bám đuổi tấm vé vượt qua vòng loại phía bắc giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:59:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965469+07:00"
+    },
+    {
+      "id": "b625cdd864c6d557d4f1c53b4f73eb00",
+      "title": "Mỹ cảnh báo về 'hoạt động quân sự' trên không phận Mexico",
+      "link": "https://vnexpress.net/my-canh-bao-ve-hoat-dong-quan-su-tren-khong-phan-mexico-5006676.html",
+      "summary": "Cơ quan quản lý hàng không Mỹ cảnh báo các hãng bay thận trọng khi hoạt động trên vùng trời Mexico và Trung Mỹ do \"các hoạt động quân sự\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:47:15+07:00",
+      "fetched": "2026-01-17T08:22:41.626150+07:00"
+    },
+    {
+      "id": "b625cdd864c6d557d4f1c53b4f73eb00",
+      "title": "Mỹ cảnh báo về 'hoạt động quân sự' trên không phận Mexico",
+      "link": "https://vnexpress.net/my-canh-bao-ve-hoat-dong-quan-su-tren-khong-phan-mexico-5006676.html",
+      "summary": "Cơ quan quản lý hàng không Mỹ cảnh báo các hãng bay thận trọng khi hoạt động trên vùng trời Mexico và Trung Mỹ do \"các hoạt động quân sự\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T00:47:15+07:00",
+      "fetched": "2026-01-17T08:22:47.061186+07:00"
+    },
+    {
+      "id": "1883854962c4034c40c1663fa143e955",
+      "title": "Nvidia giảm 20% nguồn cung GPU, không có sản phẩm mới trong năm 2026",
+      "link": "https://thanhnien.vn/nvidia-giam-20-nguon-cung-gpu-khong-co-san-pham-moi-trong-nam-2026-185260117071336659.htm",
+      "summary": "Việc giảm nguồn cung ảnh hưởng đến toàn bộ dòng sản phẩm Nvidia RTX 50, trong khi khả năng ra mắt GPU mới trong năm 2026 gần như bằng không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:41:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965617+07:00"
+    },
+    {
+      "id": "39ed79637fe93de3e70bcc342bedf966",
+      "title": "Xe khách lật ngang, 4 người chết",
+      "link": "https://vnexpress.net/xe-khach-lat-ngang-4-nguoi-chet-5006685.html",
+      "summary": "Xe khách chở 18 người chạy trên quốc lộ 6, khi đến xã Chiềng Hặc (Sơn La) lao xuống cống thoát nước ven đường rồi lật ngang, làm 4 người chết tại chỗ, sáng 17/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:40:43+07:00",
+      "fetched": "2026-01-17T08:22:41.626339+07:00"
+    },
+    {
+      "id": "d406160dde035916286ed6d33187caec",
+      "title": "Biển người ở Hà Nội, TP HCM mừng Việt Nam vào bán kết U23 châu Á",
+      "link": "https://vnexpress.net/bien-nguoi-o-ha-noi-tp-hcm-mung-viet-nam-vao-ban-ket-u23-chau-a-5006680.html",
+      "summary": "Dù trận đấu Việt Nam – UAE kết thúc vào rạng sáng, người dân Hà Nội và TP HCM vẫn mang cờ đỏ sao vàng đổ ra các tuyến đường trung tâm, ăn mừng đội tuyển lần thứ hai vào bán kết U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:40:21+07:00",
+      "fetched": "2026-01-17T08:22:41.626506+07:00"
+    },
+    {
+      "id": "9ec8fb2d7dbaa18292f1753c12b16225",
+      "title": "Giá heo hơi hôm nay 17.1.2026: Bất ngờ đảo chiều",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1712026-bat-ngo-dao-chieu-185260116164501904.htm",
+      "summary": "Giá heo hơi bất ngờ đảo chiều giảm ở các tỉnh thành miền Bắc và  miền Trung, trong khi đó miền Nam vẫn tiếp đà tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:36:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965773+07:00"
+    },
+    {
+      "id": "581b19076b8c761cc7d9409775e20dad",
+      "title": "Mỹ cảnh báo 'hoạt động quân sự' trên không phận Mexico, Trung Mỹ",
+      "link": "https://thanhnien.vn/my-canh-bao-hoat-dong-quan-su-tren-khong-phan-mexico-trung-my-18526011707141169.htm",
+      "summary": "Giới chức hàng không Mỹ hôm 16.1 phát hành những khuyến cáo cảnh báo các hãng hàng không hãy 'thận trọng' trong lúc hoạt động bên trong không phận trên Mexico và Trung Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:18:00+07:00",
+      "fetched": "2026-01-17T08:22:44.965933+07:00"
+    },
+    {
+      "id": "8ad2d37b07317fab9d27b8fa38ab94b6",
+      "title": "Ông Trump dọa áp thuế các nước không ủng hộ Mỹ kiểm soát Greenland",
+      "link": "https://vnexpress.net/ong-trump-doa-ap-thue-cac-nuoc-khong-ung-ho-my-kiem-soat-greenland-5006673.html",
+      "summary": "Tổng thống Trump cảnh báo có thể áp thuế quan lên những quốc gia không ủng hộ Mỹ sáp nhập đảo Greenland của Đan Mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:16:13+07:00",
+      "fetched": "2026-01-17T08:22:41.626665+07:00"
+    },
+    {
+      "id": "8ad2d37b07317fab9d27b8fa38ab94b6",
+      "title": "Ông Trump dọa áp thuế các nước không ủng hộ Mỹ kiểm soát Greenland",
+      "link": "https://vnexpress.net/ong-trump-doa-ap-thue-cac-nuoc-khong-ung-ho-my-kiem-soat-greenland-5006673.html",
+      "summary": "Tổng thống Trump cảnh báo có thể áp thuế quan lên những quốc gia không ủng hộ Mỹ sáp nhập đảo Greenland của Đan Mạch.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T00:16:13+07:00",
+      "fetched": "2026-01-17T08:22:47.061348+07:00"
+    },
+    {
+      "id": "a53d7fa179ee53d75f3d5b4aa4a284bc",
+      "title": "Đề xuất phạt nguội người vi phạm quy định cấm hút thuốc lá",
+      "link": "https://thanhnien.vn/de-xuat-phat-nguoi-nguoi-vi-pham-quy-dinh-cam-hut-thuoc-la-1852601161855452.htm",
+      "summary": "Góp ý cho dự thảo luật Phòng chống tác hại của thuốc lá sửa đổi, các chuyên gia đề nghị áp dụng hình thức phạt nguội với hành vi hút thuốc tại nơi cấm, thông qua hình ảnh, clip gửi về các ứng dụng do cơ quan chức năng và địa phương quản lý, đồng thời tăng mức xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:09:00+07:00",
+      "fetched": "2026-01-17T08:22:44.966093+07:00"
+    },
+    {
+      "id": "df4d857f16ce8bf12695705076759664",
+      "title": "Ba bệnh viện lớn ở Cần Thơ hợp tác điều trị ung thư",
+      "link": "https://vnexpress.net/ba-benh-vien-lon-o-can-tho-hop-tac-dieu-tri-ung-thu-5006619.html",
+      "summary": "Ba bệnh viện Ung bướu TP Cần Thơ, Đa khoa TP Cần Thơ và Quân y 121 ký kết hợp tác điều trị ung thư khu vực miền Tây, hạn chế chuyển tuyến lên TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:08:29+07:00",
+      "fetched": "2026-01-17T08:22:41.626819+07:00"
+    },
+    {
+      "id": "b781ceaf02bf0274284a67ab642b2611",
+      "title": "Khoảnh khắc UAV Geran tập kích tổ hợp HIMARS Ukraine",
+      "link": "https://vnexpress.net/khoanh-khac-uav-geran-tap-kich-to-hop-himars-ukraine-5006659.html",
+      "summary": "Nga phát hiện pháo phản lực HIMARS Ukraine khai hỏa ở tỉnh Chernihiv, sau đó triển khai UAV Geran tập kích khi mục tiêu đang rút về nơi trú ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:06:36+07:00",
+      "fetched": "2026-01-17T08:22:41.627015+07:00"
+    },
+    {
+      "id": "b781ceaf02bf0274284a67ab642b2611",
+      "title": "Khoảnh khắc UAV Geran tập kích tổ hợp HIMARS Ukraine",
+      "link": "https://vnexpress.net/khoanh-khac-uav-geran-tap-kich-to-hop-himars-ukraine-5006659.html",
+      "summary": "Nga phát hiện pháo phản lực HIMARS Ukraine khai hỏa ở tỉnh Chernihiv, sau đó triển khai UAV Geran tập kích khi mục tiêu đang rút về nơi trú ẩn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-17T00:06:36+07:00",
+      "fetched": "2026-01-17T08:22:47.061509+07:00"
+    },
+    {
+      "id": "0dd8089b14b4f047cc0eaedb77c9bee6",
+      "title": "Nhà thám hiểm Mỹ công bố video về bộ tộc chưa từng tiếp xúc với thế giới",
+      "link": "https://vnexpress.net/nha-tham-hiem-my-cong-bo-video-ve-bo-toc-chua-tung-tiep-xuc-voi-the-gioi-5006584.html",
+      "summary": "Người thuộc bộ tộc sống trong rừng Amazon không mặc quần áo, đề phòng với máy quay và sẵn sàng dùng cung để tiêu diệt mối nguy trước mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:00:00+07:00",
+      "fetched": "2026-01-17T08:22:41.627186+07:00"
+    },
+    {
+      "id": "4c731b7f10807bb0cec659d67e0b3165",
+      "title": "JAL Cargo ra mắt dịch vụ logistics kết hợp đường sắt - hàng không",
+      "link": "https://vnexpress.net/jal-cargo-ra-mat-dich-vu-logistics-ket-hop-duong-sat-hang-khong-5005218.html",
+      "summary": "Dịch vụ vận chuyển mới giúp JAL Cargo rút ngắn thời gian trung chuyển cho các lô hàng tươi sống và nông sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:00:00+07:00",
+      "fetched": "2026-01-17T08:22:41.627353+07:00"
+    },
+    {
+      "id": "a387198f11ee5622825fb326cb230a6a",
+      "title": "Hơn 1.000 người tham gia tuần tra không để tội phạm trong dịp tết",
+      "link": "https://thanhnien.vn/hon-1000-nguoi-tham-gia-tuan-tra-khong-de-toi-pham-trong-dip-tet-185260116232100246.htm",
+      "summary": "Hơn 1.000 thành viên các đội hình \"Nhân dân tuần tra\"; thanh niên phòng, chống tội phạm; phản ứng nhanh đã ra quân kiểm soát, tuần tra tại các tuyến đường lớn, các địa bàn phức tạp về an ninh tội phạm ở TP.HCM. Hoạt động này sẽ được duy trì xuyên suốt trong dịp tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.966243+07:00"
+    },
+    {
+      "id": "3ce3bb7b5350f256f6821330cc0fbb24",
+      "title": "Nhật ký Em 25 của họa sĩ Phan Anh Thư",
+      "link": "https://thanhnien.vn/nhat-ky-em-25-cua-hoa-si-phan-anh-thu-185260116221900382.htm",
+      "summary": "Chiều 16.1 tại Annam Gallery (P.Xuân Hòa, TP.HCM), họa sĩ Phan Anh Thư có cuộc gặp gỡ với những người yêu mỹ thuật bằng triển lãm mới Em 25 tràn đầy năng lượng trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-17T00:00:00+07:00",
+      "fetched": "2026-01-17T08:22:44.966391+07:00"
+    },
+    {
+      "id": "a9a275e143c00065079556647a333e57",
+      "title": "Đình Bắc lần thứ hai là ‘cầu thủ xuất sắc nhất trận’, cảm ơn khán giả",
+      "link": "https://thanhnien.vn/dinh-bac-lan-thu-hai-la-cau-thu-xuat-sac-nhat-tran-cam-on-khan-gia-185260117031437879.htm",
+      "summary": "Tiếp tục được AFC bầu chọn là ‘Cầu thủ xuất sắc nhất trận’, Đình Bắc gửi lời cảm ơn đến người hâm mộ và hứa sẽ tiếp tục chiến đấu hết mình ở những trận sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:53:00+07:00",
+      "fetched": "2026-01-17T08:22:44.966537+07:00"
+    },
+    {
+      "id": "bb5debcfc14d6b79f2cae76d5cafb94c",
+      "title": "Mỹ muốn hòa giải Ai Cập - Ethiopia về vấn đề nguồn nước sông Nile",
+      "link": "https://vnexpress.net/my-muon-hoa-giai-ai-cap-ethiopia-ve-van-de-nguon-nuoc-song-nile-5006668.html",
+      "summary": "Tổng thống Trump bày tỏ sẵn sàng thuyết phục Ethiopia chia sẻ nguồn nước từ một siêu đập thủy điện trên sông Nile, vốn đang khiến Ai Cập tức giận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:45:36+07:00",
+      "fetched": "2026-01-17T08:22:41.627510+07:00"
+    },
+    {
+      "id": "bb5debcfc14d6b79f2cae76d5cafb94c",
+      "title": "Mỹ muốn hòa giải Ai Cập - Ethiopia về vấn đề nguồn nước sông Nile",
+      "link": "https://vnexpress.net/my-muon-hoa-giai-ai-cap-ethiopia-ve-van-de-nguon-nuoc-song-nile-5006668.html",
+      "summary": "Tổng thống Trump bày tỏ sẵn sàng thuyết phục Ethiopia chia sẻ nguồn nước từ một siêu đập thủy điện trên sông Nile, vốn đang khiến Ai Cập tức giận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-16T23:45:36+07:00",
+      "fetched": "2026-01-17T08:22:47.061666+07:00"
+    },
+    {
+      "id": "f68ca6a15751ae38d16fbb62220c2b69",
+      "title": "Đình Bắc: 'Tôi không thể di chuyển bình thường'",
+      "link": "https://vnexpress.net/dinh-bac-toi-khong-the-di-chuyen-binh-thuong-5006669.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc phải nén đau thi đấu trong ba trận gần nhất, để giúp Việt Nam vào bán kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:25:32+07:00",
+      "fetched": "2026-01-17T08:22:41.627680+07:00"
+    },
+    {
+      "id": "f68ca6a15751ae38d16fbb62220c2b69",
+      "title": "Đình Bắc: 'Tôi không thể di chuyển bình thường'",
+      "link": "https://vnexpress.net/dinh-bac-toi-khong-the-di-chuyen-binh-thuong-5006669.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc phải nén đau thi đấu trong ba trận gần nhất, để giúp Việt Nam vào bán kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T23:25:32+07:00",
+      "fetched": "2026-01-17T08:22:53.306678+07:00"
+    },
+    {
+      "id": "8aa0a47e102f8a660b017734c2e90ffd",
+      "title": "Arteta: 'Sự ổn định có thể đưa Arsenal tới mùa giải đặc biệt'",
+      "link": "https://vnexpress.net/arteta-su-on-dinh-co-the-dua-arsenal-toi-mua-giai-dac-biet-5006642.html",
+      "summary": "HLV Mikel Arteta tin phong độ ổn định trong suốt mùa giải là nền tảng để Arsenal tin tưởng vào khả năng chinh phục danh hiệu, khi đội bóng đang còn nguyên cơ hội trên cả 4 đấu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:02:12+07:00",
+      "fetched": "2026-01-17T08:22:41.627833+07:00"
+    },
+    {
+      "id": "8aa0a47e102f8a660b017734c2e90ffd",
+      "title": "Arteta: 'Sự ổn định có thể đưa Arsenal tới mùa giải đặc biệt'",
+      "link": "https://vnexpress.net/arteta-su-on-dinh-co-the-dua-arsenal-toi-mua-giai-dac-biet-5006642.html",
+      "summary": "HLV Mikel Arteta tin phong độ ổn định trong suốt mùa giải là nền tảng để Arsenal tin tưởng vào khả năng chinh phục danh hiệu, khi đội bóng đang còn nguyên cơ hội trên cả 4 đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T23:02:12+07:00",
+      "fetched": "2026-01-17T08:22:53.307667+07:00"
+    },
+    {
+      "id": "6c9c64e63096c30cfb57788ca8597c2e",
+      "title": "HLV Kim: 'Chiến thắng nhờ sự hy sinh của cầu thủ'",
+      "link": "https://vnexpress.net/hlv-kim-chien-thang-nho-su-hy-sinh-cua-cau-thu-5006664.html",
+      "summary": "HLV Kim Sang-sik cho biết ông tự hào với 120 phút chiến đấu hết mình của các học trò và nhấn mạnh vé vào bán kết hoàn toàn xứng đáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:00:35+07:00",
+      "fetched": "2026-01-17T08:22:41.628018+07:00"
+    },
+    {
+      "id": "f8b06dd5219697e378ea087922d3951c",
+      "title": "45 ngày chiến dịch Quang Trung thần tốc xây nhà cho dân vùng lũ",
+      "link": "https://vnexpress.net/45-ngay-chien-dich-quang-trung-than-toc-xay-nha-cho-dan-vung-lu-5006585.html",
+      "summary": "Chiến dịch Quang Trung xây mới nhà bị đổ sập, sửa chữa nhà hư hỏng cho người dân miền Trung bị ảnh hưởng mưa bão đã hoàn thành sau 45 ngày thi công thần tốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:00:00+07:00",
+      "fetched": "2026-01-17T08:22:41.628181+07:00"
+    },
+    {
+      "id": "f2efcd5671788cd2eae7319c94386201",
+      "title": "Mổ nội soi - kỹ thuật chiếm ưu thế trong điều trị phụ khoa",
+      "link": "https://vnexpress.net/mo-noi-soi-ky-thuat-chiem-uu-the-trong-dieu-tri-phu-khoa-5005927.html",
+      "summary": "Hơn 75% bệnh nhân phụ khoa tại Bệnh viện Từ Dũ TP HCM được phẫu thuật nội soi giúp hồi phục nhanh, xuất viện chỉ sau 2-3 ngày thay vì chịu đau đớn và nằm viện dài ngày như mổ hở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:00:00+07:00",
+      "fetched": "2026-01-17T08:22:41.628354+07:00"
+    },
+    {
+      "id": "3d94693394b0f81f9e5bc1eade5605ff",
+      "title": "IELTS từ 'tấm vé ưu tiên' đến cuộc đua gây tranh cãi",
+      "link": "https://vnexpress.net/ielts-tu-tam-ve-uu-tien-den-cuoc-dua-gay-tranh-cai-5005695.html",
+      "summary": "Từ một \"luồng gió mới\" trong tuyển sinh đại học, sau một thập kỷ, việc đưa chứng chỉ IELTS vào xét tuyển đã trở thành cuộc đua và tạo ra sự bất bình đẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-16T23:00:00+07:00",
+      "fetched": "2026-01-17T08:22:41.628510+07:00"
+    },
+    {
+      "id": "2dc51862b00defc0e842d9b2e6ed752e",
+      "title": "Guardiola thận trọng trước Man Utd khó lường với Carrick",
+      "link": "https://vnexpress.net/guardiola-than-trong-truoc-man-utd-kho-luong-voi-carrick-5006648.html",
+      "summary": "Trước trận derby Manchester ở vòng 22 Ngoại hạng Anh, HLV Pep Guardiola thừa nhận không biết Man Utd sẽ vận hành thế nào dưới thời Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T22:56:09+07:00",
+      "fetched": "2026-01-17T08:22:53.307826+07:00"
+    },
+    {
+      "id": "e421ca8545bc05e38be7c5e02bcedd10",
+      "title": "Carrick phớt lờ chỉ trích từ Roy Keane",
+      "link": "https://vnexpress.net/carrick-phot-lo-chi-trich-tu-roy-keane-5006644.html",
+      "summary": "HLV Michael Carrick không bận tâm tới những công kích cá nhân từ cựu đội trưởng Roy Keane, mà chỉ tập trung giúp Man Utd giành kết quả tốt trong trận ra mắt gặp Man City ở vòng 22 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T22:48:39+07:00",
+      "fetched": "2026-01-17T08:22:53.308007+07:00"
+    },
+    {
+      "id": "1b9e56e7f8b04c33967efb15684afabc",
+      "title": "Tân HLV Real: 'Mọi chuyện trên sân là trách nhiệm của tôi'",
+      "link": "https://vnexpress.net/tan-hlv-real-moi-chuyen-tren-san-la-trach-nhiem-cua-toi-5006637.html",
+      "summary": "HLV Alvaro Arbeloa bảo vệ các cầu thủ và kêu gọi người hâm mộ ủng hộ, trước trận Real Madrid gặp Levante ở vòng 20 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-16T22:42:54+07:00",
+      "fetched": "2026-01-17T08:22:53.308166+07:00"
     },
     {
       "id": "80248bd4125494e88eb8edf3e674d269",
