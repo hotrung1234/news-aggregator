@@ -1,7 +1,157 @@
 window.newsData_2026_01_18 = {
   "date": "2026-01-18",
-  "lastUpdated": "2026-01-18T11:39:33.654751+07:00",
+  "lastUpdated": "2026-01-18T13:27:41.624476+07:00",
   "articles": [
+    {
+      "id": "6ca64fa0eaece5d7c008847a90e6c601",
+      "title": "Trở về cùng dựng xây quê hương - Kỳ 4: Milly Nguyễn và niềm vui kết nối bạn trẻ Việt",
+      "link": "https://tuoitre.vn/tro-ve-cung-dung-xay-que-huong-ky-4-milly-nguyen-va-niem-vui-ket-noi-ban-tre-viet-20260118085855829.htm",
+      "summary": "Bước sang năm thứ sáu duy trì hoạt động Tổ chức phi lợi nhuận VietConnect do mình sáng lập nhằm kết nối trí thức Việt trên thế giới, Milly Nguyễn (Nguyễn Thị Ngân Hà) chia sẻ rằng đó là tâm huyết của chị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.868059+07:00",
+      "fetched": "2026-01-18T13:27:35.868172+07:00"
+    },
+    {
+      "id": "98d5aee0faf00e7e16d38bf956c4d7f4",
+      "title": "Bỏ phố về quê: Thanh niên 8X kiếm 2 tỉ mỗi năm nhờ cây nhàu trên vùng đất U Minh Hạ",
+      "link": "https://tuoitre.vn/bo-pho-ve-que-thanh-nien-8x-kiem-2-ti-moi-nam-nho-cay-nhau-tren-vung-dat-u-minh-ha-20260118101811187.htm",
+      "summary": "Bỏ phố về quê, một thanh niên 8X đã khởi nghiệp từ cây nhàu thành công. Từ loại cây mọc nhiều ở vùng U Minh Hạ, anh xây dựng thương hiệu nước cốt nhàu đạt OCOP 4 sao, lợi nhuận khoảng 2 tỉ đồng mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867936+07:00",
+      "fetched": "2026-01-18T13:27:35.868048+07:00"
+    },
+    {
+      "id": "bec77e1001440b26aac20ce674acfc3d",
+      "title": "Hàng trăm người biểu tình tại London trước ngày phê duyệt ‘siêu đại sứ quán’ Trung Quốc",
+      "link": "https://tuoitre.vn/hang-tram-nguoi-bieu-tinh-tai-london-truoc-ngay-phe-duyet-sieu-dai-su-quan-trung-quoc-20260118105358312.htm",
+      "summary": "Dự án đại sứ quán Trung Quốc lớn nhất châu Âu tại Anh bị trì hoãn suốt 7 năm qua đã gần đến ngày ‘chốt’ quyết định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867812+07:00",
+      "fetched": "2026-01-18T13:27:35.867925+07:00"
+    },
+    {
+      "id": "92ae8c1b51fa9ebadd11e4a11e4a2ed2",
+      "title": "Hạo Khang: Diễn viên tuổi teen 'ngời sáng', tạo rung cảm thanh tao",
+      "link": "https://tuoitre.vn/hao-khang-dien-vien-tuoi-teen-ngoi-sang-tao-rung-cam-thanh-tao-20260118095717717.htm",
+      "summary": "Ở tuổi 16, Hạo Khang đã có hành trình điện ảnh đáng nhớ, trong đó có cả vai chính lẫn vai phụ ở 'Đất rừng phương Nam', 'Ngày xưa có một chuyện tình', 'Con kể ba nghe'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867686+07:00",
+      "fetched": "2026-01-18T13:27:35.867801+07:00"
+    },
+    {
+      "id": "f43637ea71199a35791425c83cfc7746",
+      "title": "Chuyển từ viên chức sang công chức cần những điều kiện nào?",
+      "link": "https://tuoitre.vn/chuyen-tu-vien-chuc-sang-cong-chuc-can-nhung-dieu-kien-nao-20260118103446716.htm",
+      "summary": "Viên chức muốn chuyển sang công chức cần đáp ứng những điều kiện, tiêu chuẩn nào là một trong những vấn đề được nhiều người quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867557+07:00",
+      "fetched": "2026-01-18T13:27:35.867671+07:00"
+    },
+    {
+      "id": "b10d400e62be4a95e923587c31639171",
+      "title": "Bồi đắp niềm tin và khát vọng phát triển đất nước phồn vinh, văn minh, hạnh phúc",
+      "link": "https://tuoitre.vn/boi-dap-niem-tin-va-khat-vong-phat-trien-dat-nuoc-phon-vinh-van-minh-hanh-phuc-2026011809304838.htm",
+      "summary": "Trong công tác chuẩn bị Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, thông tin, tuyên truyền có vai trò đặc biệt quan trọng trong định hướng dư luận, củng cố niềm tin và lan tỏa tầm nhìn, khát vọng phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867428+07:00",
+      "fetched": "2026-01-18T13:27:35.867546+07:00"
+    },
+    {
+      "id": "b7977f2aaaa723820bf8cd3e67b54272",
+      "title": "Tiêu tiết kiệm hay sắm thả ga cho Tết?",
+      "link": "https://tuoitre.vn/tieu-tiet-kiem-hay-sam-tha-ga-cho-tet-20260118004615801.htm",
+      "summary": "Tết đến phải mua sắm sang trọng, chi tiêu thoải mái để \"lấy hên\" đầu năm mới đủ đầy trong nhà hay ăn Tết tiết kiệm để năm tới khỏi túng thiếu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867283+07:00",
+      "fetched": "2026-01-18T13:27:35.867415+07:00"
+    },
+    {
+      "id": "715194774d3dd9a2a9910ae89ec36790",
+      "title": "HLV Uzbekistan chỉ ra điểm mạnh của U23 Trung Quốc mà U23 Việt Nam cần đề phòng",
+      "link": "https://tuoitre.vn/hlv-uzbekistan-chi-ra-diem-manh-cua-u23-trung-quoc-ma-u23-viet-nam-can-de-phong-20260118111705393.htm",
+      "summary": "Sau khi phải dừng bước đầy cay đắng tại tứ kết U23 châu Á 2026, HLV trưởng U23 Uzbekistan đã có những phân tích chuyên môn về U23 Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867161+07:00",
+      "fetched": "2026-01-18T13:27:35.867273+07:00"
+    },
+    {
+      "id": "fa9b68851d685812eeb1a43dd7cf1556",
+      "title": "Hoàng Anh Gia Lai tuyên bố tặng 160 căn hộ cho nhân viên đã đồng hành khi công ty khó khăn nhất",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-tuyen-bo-tang-160-can-ho-cho-nhan-vien-20260118112927254.htm",
+      "summary": "Tại lễ động thổ khu phức hợp nhà ở cao tầng và thương mại Phù Đổng, ông Đoàn Nguyên Đức- Chủ tịch Tập đoàn Hoàng Anh Gia Lai- tuyên bố dành 160 căn hộ làm quà tặng nhân viên công ty.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.867037+07:00",
+      "fetched": "2026-01-18T13:27:35.867150+07:00"
+    },
+    {
+      "id": "cccd375961957940c99421dfa0d1eebf",
+      "title": "Sắp xét xử vụ 'phù phép' hàng nghìn tấn bột động vật, thu lợi hàng ngàn tỉ",
+      "link": "https://tuoitre.vn/sap-xet-xu-vu-phu-phep-hang-nghin-tan-bot-dong-vat-thu-loi-hang-ngan-ti-20260118112734579.htm",
+      "summary": "Theo dự kiến, TAND TP.HCM sẽ mở phiên tòa xét xử vụ án buôn lậu sản phẩm động vật và đưa - nhận hối lộ với quy mô đặc biệt lớn, xảy ra tại Chi cục Thú y vùng VI và các đơn vị liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866910+07:00",
+      "fetched": "2026-01-18T13:27:35.867026+07:00"
+    },
+    {
+      "id": "85a2a198062539a3f4530361dd5ee634",
+      "title": "Xử phạt nhiều trường hợp buôn bán, để xe trên vỉa hè, lòng đường ở phường Tăng Nhơn Phú",
+      "link": "https://tuoitre.vn/xu-phat-nhieu-truong-hop-buon-ban-de-xe-tren-via-he-long-duong-o-phuong-tang-nhon-phu-20260118112758382.htm",
+      "summary": "Sáng 18-1, Đội Cảnh sát giao thông Rạch Chiếc phối hợp Công an phường Tăng Nhơn Phú; trật tự đô thị phường ra quân xử lý lấn chiếm vỉa hè, lòng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866782+07:00",
+      "fetched": "2026-01-18T13:27:35.866899+07:00"
+    },
+    {
+      "id": "2ea4da5ca125ef1a30389bb1667c964b",
+      "title": "Tàu có chữ Trung Quốc mắc cạn ở Dung Quất: Có đơn vị ở Trung Quốc nhận là chủ tàu",
+      "link": "https://tuoitre.vn/tau-co-chu-trung-quoc-mac-can-o-dung-quat-co-don-vi-o-trung-quoc-nhan-la-chu-tau-20260118114128167.htm",
+      "summary": "Đồn biên phòng cửa khẩu Dung Quất dựng lán trại, tổ chức trực 24/24 ngay trên bãi biển nơi tàu sắt có chữ Trung Quốc mắc cạn ở vùng biển Dung Quất từ ngày 4-1. Có một đơn vị ở Trung Quốc nhận là chủ tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866653+07:00",
+      "fetched": "2026-01-18T13:27:35.866771+07:00"
+    },
+    {
+      "id": "89d8616c92142c5b06bebdb288618035",
+      "title": "Quốc Trường cùng nghệ sĩ dừng tập Táo xuân, vẫy cờ mừng đội tuyển Việt Nam chiến thắng",
+      "link": "https://tuoitre.vn/quoc-truong-cung-nghe-si-dung-tap-tao-xuan-vay-co-mung-doi-tuyen-viet-nam-chien-thang-20260118100320905.htm",
+      "summary": "Mấy ngày nay, diễn viên Quốc Trường bận rộn luyện tập và ghi hình Táo xuân của Báo và Đài Phát thanh, Truyền hình Vĩnh Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866519+07:00",
+      "fetched": "2026-01-18T13:27:35.866641+07:00"
+    },
+    {
+      "id": "758181fbe28dce79b631956aeb72b865",
+      "title": "U23 Trung Quốc giỏi phòng ngự, nhưng có chịu làm 'cửa dưới' Việt Nam?",
+      "link": "https://tuoitre.vn/u23-trung-quoc-gioi-phong-ngu-nhung-co-chiu-lam-cua-duoi-viet-nam-20260118121312141.htm",
+      "summary": "U23 Trung Quốc là đội bóng phòng ngự giỏi nhất ở Giải U23 châu Á 2026 nhưng liệu họ có chấp nhận là \"cửa dưới\" của Việt Nam trong trận bán kết sắp tới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866367+07:00",
+      "fetched": "2026-01-18T13:27:35.866506+07:00"
+    },
+    {
+      "id": "42dd903f7734e73f5c3f5a29a32c3c24",
+      "title": "Những ngây thơ, dịu dàng của Lê Trang",
+      "link": "https://tuoitre.vn/nhung-ngay-tho-diu-dang-cua-le-trang-20260118120137216.htm",
+      "summary": "Phó chủ tịch Hội Mỹ thuật Việt Nam Mai Thị Ngọc Oanh nói bà thích nhất ở tranh của Lê Trang là sự ngây thơ, dịu dàng, đúng phẩm chất của người phụ nữ vừa làm công việc xã hội, vừa chăm sóc gia đình nhưng vẫn dành thời gian vẽ tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T13:27:35.866128+07:00",
+      "fetched": "2026-01-18T13:27:35.866337+07:00"
+    },
     {
       "id": "3d07eaa9eca73838fa57ac18a8ed1a44",
       "title": "Sabrina Carpenter quyến rũ, ngọt ngào và nổi loạn",
@@ -263,6 +413,326 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T08:41:52.280520+07:00"
     },
     {
+      "id": "c8b6105f76d374bdeb3c0704c1949c2d",
+      "title": "Highlight Trường ĐH Kinh tế Tài chính TP.HCM (UEF) 0-10 Trường ĐH Công nghệ Đồng Nai (DNTU): 'Trút mưa' bàn thắng",
+      "link": "https://thanhnien.vn/highlight-truong-dh-kinh-te-tai-chinh-tphcm-uef-0-10-truong-dh-cong-nghe-dong-nai-dntu-trut-mua-ban-thang-185260118125820832.htm",
+      "summary": "Trường ĐH Kinh tế - Tài chính TP.HCM (UEF) hoàn toàn lép vế trước sức tấn công dồn dập của Trường ĐH Công nghệ Đồng Nai (DNTU). Chung cuộc, DNTU 'trút mưa' bàn thắng với chiến thắng 10-0, tạo nên một trong những tỷ số đậm nhất giải và khẳng định sức mạnh vượt trội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:27:00+07:00",
+      "fetched": "2026-01-18T13:27:34.734452+07:00"
+    },
+    {
+      "id": "fd3967c8d5983233772d8a18b551ae55",
+      "title": "Highlight Trường ĐH Cửu Long (UCL) 2-0 Trường ĐH FPT Cần Thơ (FPTU): Hiệp 2 bứt phá",
+      "link": "https://thanhnien.vn/highlight-truong-dh-cuu-long-ucl-2-0-truong-dh-fpt-can-tho-fptu-hiep-2-but-pha-185260118125320189.htm",
+      "summary": "Trường ĐH Cửu Long (UCL) và Trường ĐH FPT Cần Thơ (FPTU) chơi giằng co trong hiệp 1 trước khi UCL tăng tốc mạnh mẽ sau giờ nghỉ. Bước ngoặt ở hiệp 2 giúp UCL ghi liền 2 bàn, khép lại trận đấu với chiến thắng 2-0 đầy thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:26:00+07:00",
+      "fetched": "2026-01-18T13:27:34.734626+07:00"
+    },
+    {
+      "id": "66607681b2221320dcfe5bd13c49d4c6",
+      "title": "Highlight ĐH Trà Vinh (TVU) 1-1 ĐH Cần Thơ (CTU): Chia điểm tiếc nuối",
+      "link": "https://thanhnien.vn/highlight-dh-tra-vinh-tvu-1-1-dh-can-tho-ctu-chia-diem-tiec-nuoi-185260118124652731.htm",
+      "summary": "ĐH Trà Vinh (TVU) và ĐH Cần Thơ (CTU) tạo nên màn giằng co căng thẳng trước khi chấp nhận chia điểm với tỷ số 1-1. Kết quả này khiến cả hai đội đều tiếc nuối khi bỏ lỡ cơ hội bứt lên trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:26:00+07:00",
+      "fetched": "2026-01-18T13:27:34.734781+07:00"
+    },
+    {
+      "id": "d7f1873bf5daf66b1eb671777704de5a",
+      "title": "ĐH Kinh tế TP.HCM thắng đẹp, dồn toàn lực cho lượt trận 3 quyết định vé play-off",
+      "link": "https://thanhnien.vn/dh-kinh-te-tphcm-thang-dep-don-toan-luc-cho-luot-tran-3-quyet-dinh-ve-play-off-185260118012629766.htm",
+      "summary": "Khán đài sôi động, cầu thủ thi đấu hết mình và ĐH Kinh tế TP.HCM có được chiến thắng đúng tiêu chí 'chơi đẹp – thắng đẹp – cổ vũ đẹp'. Dù còn bỡ ngỡ khi chuyển sân, đội bóng UEH vẫn hướng thẳng đến mục tiêu quan trọng nhất, thắng lượt trận 3 để mở toang cánh cửa vào play-off.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:25:00+07:00",
+      "fetched": "2026-01-18T13:27:34.734935+07:00"
+    },
+    {
+      "id": "4e9e2f3330ea0125c2372cd73f83a81d",
+      "title": "CĐV UEL 'vừa cổ vũ bóng đá vừa gõ khóa luận'",
+      "link": "https://thanhnien.vn/cdv-uel-vua-co-vu-bong-da-vua-go-khoa-luan-185260118011214652.htm",
+      "summary": "Trên khán đài SVĐ Tao Đàn sáng 16.1 xuất hiện một 'đội hình CĐV đặc biệt' đến từ rất sớm và cổ vũ rất cuồng nhiệt, dù đang ngập deadline khóa luận. Có người vừa nộp bài buổi sáng là chạy lên sân ngay, có người vừa xem bóng vừa tranh thủ gõ báo cáo để kịp deadline nộp trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:25:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735087+07:00"
+    },
+    {
+      "id": "4906974462a32b3d05177fea424a69d3",
+      "title": "Highlight Trường ĐH RMIT (RMIT) 2-3 Trường ĐH Kinh tế - Luật (UEL): Rượt đuổi nghẹt thở",
+      "link": "https://thanhnien.vn/highlight-truong-dh-rmit-rmit-2-3-truong-dh-kinh-te-luat-uel-ruot-duoi-nghet-tho-185260118130117191.htm",
+      "summary": "Trường ĐH RMIT (RMIT) và Trường ĐH Kinh tế - Luật (UEL) cống hiến màn đôi công mãn nhãn với thế trận rượt đuổi liên tục. Chung cuộc, UEL bản lĩnh hơn ở thời khắc quyết định để giành chiến thắng 3-2 nghẹt thở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:24:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735237+07:00"
+    },
+    {
+      "id": "27abbb5e983d0c3eab0991542360ddde",
+      "title": "Highlight Học viện Ngân hàng (HVNH) 1-11 Trường ĐH Sư phạm TDTT Hà Nội (HUPES): Cơn mưa",
+      "link": "https://thanhnien.vn/highlight-hoc-vien-ngan-hang-hvnh-1-11-truong-dh-su-pham-tdtt-ha-noi-hupes-con-mua-185260118124912023.htm",
+      "summary": "Học viện Ngân hàng (HVNH) sớm rơi vào thế chống đỡ trước sức tấn công quá mạnh của Trường ĐH Sư phạm TDTT Hà Nội (HUPES). Chung cuộc, HUPES tạo nên \"cơn mưa bàn thắng\" với chiến thắng hủy diệt 11-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:24:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735417+07:00"
+    },
+    {
+      "id": "168d280d62664a5100e547e1f8031cd3",
+      "title": "Cầu thủ 1m85 thần tượng Ronaldo tỏa sáng, Trường ĐH Đồng Tháp giải ‘cơn khát’ trên sân nhà",
+      "link": "https://thanhnien.vn/cau-thu-1m85-than-tuong-ronaldo-toa-sang-truong-dh-dong-thap-giai-con-khat-tren-san-nha-185260117222029914.htm",
+      "summary": "Pha lập công ở phút 71 của Huỳnh Ngọc Luân không chỉ mang về 3 điểm trọn vẹn, mà còn giúp đội Trường ĐH Đồng Tháp giải tỏa “cơn khát” bàn thắng tại vòng loại Tây Nam bộ TNSV THACO Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:24:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735574+07:00"
+    },
+    {
+      "id": "883fbbd132ee2a9c524981363028c75b",
+      "title": "Highlight Trường ĐH Sư phạm TP.HCM (HCMUE) 0-2 Trường ĐH Công nghệ TP.HCM (HUTECH): Ngôi đầu",
+      "link": "https://thanhnien.vn/highlight-truong-dh-su-pham-tphcm-hcmue-0-2-truong-dh-cong-nghe-tphcm-hutech-ngoi-dau-185260118131934041.htm",
+      "summary": "Thế trận được định đoạt bằng sự lạnh lùng và hiệu quả trong những khoảnh khắc quyết định. Với 2 bàn thắng gọn gàng, Trường ĐH Công nghệ TP. HCM (HUTECH) vượt qua Trường ĐH Sư phạm TP. HCM (HCMUE) 2-0 để khẳng định vị thế ngôi đầu một cách thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:23:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735726+07:00"
+    },
+    {
+      "id": "7815a0d0a8ded69793fdae51e830583a",
+      "title": "Highlight Trường CĐ FPT Polytechnic (FPOLY) 4-1 Trường ĐH Công nghệ Đông Á (EAUT): Chốt hạ gọn gàng",
+      "link": "https://thanhnien.vn/highlight-truong-cd-fpt-polytechnic-fpoly-4-1-dh-cong-nghe-dong-a-eaut-chot-ha-gon-gang-185260118130342536.htm",
+      "summary": "Trường CĐ FPT Polytechnic (FPOLY) nhập cuộc chủ động, tạo sức ép liên tục và sớm nắm thế trận trước Trường ĐH Công nghệ Đông Á (EAUT). Chung cuộc, FPOLY \"chốt hạ gọn gàng\" với chiến thắng 4-1, khẳng định sức mạnh tấn công và giành trọn 3 điểm thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:21:00+07:00",
+      "fetched": "2026-01-18T13:27:34.735875+07:00"
+    },
+    {
+      "id": "cb9e89770325042a8500edda86022659",
+      "title": "Highlight Trường ĐH Văn Lang (VLU) 3-0 Trường ĐH Công nghệ Kỹ thuật TP.HCM (MCMUTE): 'Chung kết' bảng sớm",
+      "link": "https://thanhnien.vn/highlight-truong-dh-van-lang-vlu-3-0-truong-dh-cong-nghe-ky-thuat-tphcm-mcmute-chung-ket-bang-som-185260118130641051.htm",
+      "summary": "Trường ĐH Văn Lang (VLU) và Trường ĐH Công nghệ Kỹ thuật TP.HCM (MCMUTE) bước vào màn so tài được ví như \"trận chung kết sớm\" của bảng đấu khi cả hai đều quyết tâm giành lợi thế. Với thế trận chắc chắn và khả năng tận dụng cơ hội hiệu quả, VLU giành chiến thắng 3-0 thuyết phục để khẳng định vị thế ứ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:19:00+07:00",
+      "fetched": "2026-01-18T13:27:34.736025+07:00"
+    },
+    {
+      "id": "bee07c396e48545758987bbd0c5685f1",
+      "title": "Highlight Trường ĐH Giao thông vận tải TP.HCM (UTH) 2-2 Trường ĐH Nông Lâm TP.HCM (NLU): Bàn thắng giây thứ 8",
+      "link": "https://thanhnien.vn/highlight-truong-dh-giao-thong-van-tai-tp-hcm-uth-2-2-truong-dh-nong-lam-tp-hcm-nlu-ban-thang-giay-thu-8-185260118131608467.htm",
+      "summary": "Bàn thắng ở giây thứ 8 khiến khán đài bùng nổ và lập tức đẩy trận đấu vào trạng thái \"nóng\" ngay từ cú chạm đầu tiên. Sau màn rượt đuổi liên tục, Trường ĐH Giao thông vận tải TP.HCM (UTH) và Trường ĐH Nông Lâm TP.HCM (NLU) khép lại 80 phút với tỷ số 2-2, để lại nhiều tiếc nuối nhưng cực kỳ mãn nhãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:17:00+07:00",
+      "fetched": "2026-01-18T13:27:34.736173+07:00"
+    },
+    {
+      "id": "ef11d6aac643886555795b9471b03e1a",
+      "title": "Sụt lún nghiêm trọng ven bờ kênh Tàu Hủ, TP.HCM",
+      "link": "https://thanhnien.vn/sut-lun-nghiem-trong-ven-bo-kenh-tau-hu-tphcm-185260118124618369.htm",
+      "summary": "Vụ sụt lún nghiêm trọng xảy ra ở kè ven kênh Tàu Hủ (thuộc đường Ba Đình, quận 8 cũ, TP.HCM) vào sáng nay 18.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:15:00+07:00",
+      "fetched": "2026-01-18T13:27:34.736319+07:00"
+    },
+    {
+      "id": "ee0620b8d1d9a3a57ddc655614b85ecc",
+      "title": "Bầu Đức thưởng cổ phiếu, tặng căn hộ cho lao động lâu năm",
+      "link": "https://vnexpress.net/bau-duc-thuong-co-phieu-tang-can-ho-cho-lao-dong-lau-nam-5006926.html",
+      "summary": "Chủ tịch Hoàng Anh Gia Lai Đoàn Nguyên Đức cho biết sẽ dành 160 căn hộ để tri ân người lao động đã gắn bó với doanh nghiệp trong giai đoạn khó khăn từ năm 2016.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-18T06:09:35+07:00",
+      "fetched": "2026-01-18T13:27:38.351117+07:00"
+    },
+    {
+      "id": "77875da25c395596cd4e7e8a1da75eb0",
+      "title": "Ngắm bộ quýt 'Phúc - Lộc - Thọ' giá nửa tỉ, đại gia xem là 'chốt đơn'",
+      "link": "https://thanhnien.vn/ngam-bo-quyt-phuc-loc-tho-gia-nua-ti-dai-gia-xem-la-chot-don-18526011812060254.htm",
+      "summary": "Hai trong 3 tác phẩm quýt cảnh 'Phúc - Lộc - Thọ' chào đón tết Nguyên đán Bính Ngọ 2026 của một nhà vườn tại Văn Giang (Hưng Yên) đã được khách hàng đặt mua từ sớm, khẳng định sức hút của dòng cây cảnh độc, lạ dịp tết năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:02:00+07:00",
+      "fetched": "2026-01-18T13:27:34.736495+07:00"
+    },
+    {
+      "id": "ba3bcc9cac5644ea89ab790c9357823a",
+      "title": "Sống 'như địa ngục' vì hàng xóm chung cư",
+      "link": "https://vnexpress.net/song-nhu-dia-nguc-vi-hang-xom-chung-cu-5006418.html",
+      "summary": "Có người bảo 'muốn thoải mái thì xuống nhà mặt đất mà ở', nhưng tôi tin ở chung cư không phải là chấp nhận sự tùy tiện của hàng xóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:00:00+07:00",
+      "fetched": "2026-01-18T13:27:32.192869+07:00"
+    },
+    {
+      "id": "44a70b3f357a0af02de36afd680dfdf8",
+      "title": "Cô dâu chú rể là hàng xóm, chia khung giờ đãi tiệc",
+      "link": "https://thanhnien.vn/co-dau-chu-re-la-hang-xom-chia-khung-gio-dai-tiec-185260115144410699.htm",
+      "summary": "Hai gia đình đối diện nhau, cô dâu chú rể là hàng xóm từ thuở nhỏ đến ngày nên duyên vợ chồng. Việc chia khung giờ đãi tiệc trong ngày vui vì nhà quá gần đã viết nên câu chuyện cưới hỏi đặc biệt, khiến cư dân mạng thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T06:00:00+07:00",
+      "fetched": "2026-01-18T13:27:34.736643+07:00"
+    },
+    {
+      "id": "d82bd95c82e775546bb8e0ee710d2ede",
+      "title": "'Hố tử thần' 50 m2 trên đường ven kênh TP HCM",
+      "link": "https://vnexpress.net/ho-tu-than-50-m2-tren-duong-ven-kenh-tp-hcm-5007024.html",
+      "summary": "Tuyến đường Ba Đình ven kênh Tàu Hũ bất ngờ sụp lún, hình thành “hố tử thần”, buộc cơ quan chức năng phải phong tỏa khu vực để đảm bảo an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:56:08+07:00",
+      "fetched": "2026-01-18T13:27:32.193050+07:00"
+    },
+    {
+      "id": "5040f4f8f85918a0f61dc87ee02bdc14",
+      "title": "Carrick cao tay thế nào ở derby Manchester?",
+      "link": "https://vnexpress.net/carrick-cao-tay-the-nao-o-derby-manchester-5007009.html",
+      "summary": "Bằng việc trở về sơ đồ 4-4-2 trả một số cầu thủ về đúng sở trường, phát huy các đường chuyền dài, và tài đọc trận đấu thay người, tân HLV Michael Carrick giúp Man Utd thể hiện thứ bóng đá rực lửa khi thắng Man City 2-0 ngày 17/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:51:45+07:00",
+      "fetched": "2026-01-18T13:27:32.193214+07:00"
+    },
+    {
+      "id": "5040f4f8f85918a0f61dc87ee02bdc14",
+      "title": "Carrick cao tay thế nào ở derby Manchester?",
+      "link": "https://vnexpress.net/carrick-cao-tay-the-nao-o-derby-manchester-5007009.html",
+      "summary": "Bằng việc trở về sơ đồ 4-4-2 trả một số cầu thủ về đúng sở trường, phát huy các đường chuyền dài, và tài đọc trận đấu thay người, tân HLV Michael Carrick giúp Man Utd thể hiện thứ bóng đá rực lửa khi thắng Man City 2-0 ngày 17/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T05:51:45+07:00",
+      "fetched": "2026-01-18T13:27:41.616199+07:00"
+    },
+    {
+      "id": "0ba4d1f84fac890c54310feaf159fbaa",
+      "title": "Đường ở TP HCM gãy đôi, trôi xuống kênh",
+      "link": "https://vnexpress.net/duong-o-tp-hcm-gay-doi-troi-xuong-kenh-5007022.html",
+      "summary": "Mặt đường ven kênh Tàu Hũ (quận 8 cũ) bất ngờ sụp hố rộng chục mét, sâu 5 m, đe dọa an toàn giao thông, trưa 18/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:37:46+07:00",
+      "fetched": "2026-01-18T13:27:32.193391+07:00"
+    },
+    {
+      "id": "012342f16c693f3b7d4eee5485906675",
+      "title": "Cơn cuồng nộ của CĐV Real",
+      "link": "https://vnexpress.net/con-cuong-no-cua-cdv-real-5007012.html",
+      "summary": "Người hâm mộ Real Madrid đã nổi dậy chống lại đội bóng ở trận đấu Levante tối 17/1, trong đó Vinicius và Chủ tịch Florentino Perez bị chỉ trích nặng nề nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:30:10+07:00",
+      "fetched": "2026-01-18T13:27:32.193565+07:00"
+    },
+    {
+      "id": "012342f16c693f3b7d4eee5485906675",
+      "title": "Cơn cuồng nộ của CĐV Real",
+      "link": "https://vnexpress.net/con-cuong-no-cua-cdv-real-5007012.html",
+      "summary": "Người hâm mộ Real Madrid đã nổi dậy chống lại đội bóng ở trận đấu Levante tối 17/1, trong đó Vinicius và Chủ tịch Florentino Perez bị chỉ trích nặng nề nhất.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T05:30:10+07:00",
+      "fetched": "2026-01-18T13:27:41.616400+07:00"
+    },
+    {
+      "id": "721d0545a34aed942b0e822e9dd3f00f",
+      "title": "Indonesia tìm thấy xác máy bay chở 11 người",
+      "link": "https://vnexpress.net/indonesia-tim-thay-xac-may-bay-cho-11-nguoi-5006999.html",
+      "summary": "Giới chức Indonesia cho hay đã tìm thấy các mảnh vỡ từ chiếc máy bay chở 11 người rải rác ở nhiều địa điểm quanh núi Bulusaraung, tỉnh Nam Sulawesi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:02:57+07:00",
+      "fetched": "2026-01-18T13:27:32.193719+07:00"
+    },
+    {
+      "id": "721d0545a34aed942b0e822e9dd3f00f",
+      "title": "Indonesia tìm thấy xác máy bay chở 11 người",
+      "link": "https://vnexpress.net/indonesia-tim-thay-xac-may-bay-cho-11-nguoi-5006999.html",
+      "summary": "Giới chức Indonesia cho hay đã tìm thấy các mảnh vỡ từ chiếc máy bay chở 11 người rải rác ở nhiều địa điểm quanh núi Bulusaraung, tỉnh Nam Sulawesi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-18T05:02:57+07:00",
+      "fetched": "2026-01-18T13:27:37.239515+07:00"
+    },
+    {
+      "id": "d404cafbddffeb37e4ace7a64b2b2a0f",
+      "title": "Trung Quốc áp đảo thị trường robot hình người",
+      "link": "https://vnexpress.net/trung-quoc-ap-dao-thi-truong-robot-hinh-nguoi-5006904.html",
+      "summary": "Trung Quốc thống trị thị trường robot hình người khi chiếm hơn 80% số lượng cỗ máy được triển khai trong năm 2025 trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:00:00+07:00",
+      "fetched": "2026-01-18T13:27:32.193868+07:00"
+    },
+    {
+      "id": "396fd3ac931ca7a9b9f97470de71c700",
+      "title": "Phong cách 'giàu ngầm' của Hoa hậu Phương Khánh",
+      "link": "https://vnexpress.net/phong-cach-giau-ngam-cua-hoa-hau-phuong-khanh-5006754.html",
+      "summary": "Hoa hậu Phương Khánh được nhiều người khen cuốn hút nhờ áp dụng công thức phối đồ phong cách giàu ngầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:00:00+07:00",
+      "fetched": "2026-01-18T13:27:32.194018+07:00"
+    },
+    {
+      "id": "e558af239fbce667170f1921469e5da4",
+      "title": "Quốc gia duy nhất Đông Nam Á nào dùng USD là đơn vị tiền tệ chính thức?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-duy-nhat-o-dong-nam-a-dung-usd-la-don-vi-tien-te-chinh-thuc-5006331.html",
+      "summary": "Là quốc gia Đông Nam Á duy nhất không có đồng tiền riêng nên nước này coi đồng đô la Mỹ (USD) là đơn vị tiền tệ chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:00:00+07:00",
+      "fetched": "2026-01-18T13:27:32.194175+07:00"
+    },
+    {
+      "id": "12a339668e2a2e9ac165ae69a7a4f81b",
+      "title": "Em sống ngay thẳng, dễ gần, luôn có trách nhiệm",
+      "link": "https://vnexpress.net/em-song-ngay-thang-de-gan-luon-co-trach-nhiem-5005428.html",
+      "summary": "Em chỉ mong gặp được người tử tế, có trách nhiệm, chung thủy, công việc ổn định và hiện tại chưa lập gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T05:00:00+07:00",
+      "fetched": "2026-01-18T13:27:32.194278+07:00"
+    },
+    {
+      "id": "d404cafbddffeb37e4ace7a64b2b2a0f",
+      "title": "Trung Quốc áp đảo thị trường robot hình người",
+      "link": "https://vnexpress.net/trung-quoc-ap-dao-thi-truong-robot-hinh-nguoi-5006904.html",
+      "summary": "Trung Quốc thống trị thị trường robot hình người khi chiếm hơn 80% số lượng cỗ máy được triển khai trong năm 2025 trên toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-18T05:00:00+07:00",
+      "fetched": "2026-01-18T13:27:40.701085+07:00"
+    },
+    {
+      "id": "cd22372f826943643ce9cac628d74656",
+      "title": "Thủ môn Trung Quốc: 'Tôi đang nghĩ đến chiến thắng ở bán kết U23 châu Á 2026'",
+      "link": "https://vnexpress.net/thu-mon-trung-quoc-toi-dang-nghi-den-chien-thang-o-ban-ket-u23-chau-a-2026-5006912.html",
+      "summary": "Sau khi hạ đối thủ cửa trên Uzbekistan, thủ môn Li Hao tự tin cùng đồng đội tiếp tục chiến thắng ở bán kết gặp Việt Nam tại giải U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:48:04+07:00",
+      "fetched": "2026-01-18T13:27:32.194466+07:00"
+    },
+    {
+      "id": "cd22372f826943643ce9cac628d74656",
+      "title": "Thủ môn Trung Quốc: 'Tôi đang nghĩ đến chiến thắng ở bán kết U23 châu Á 2026'",
+      "link": "https://vnexpress.net/thu-mon-trung-quoc-toi-dang-nghi-den-chien-thang-o-ban-ket-u23-chau-a-2026-5006912.html",
+      "summary": "Sau khi hạ đối thủ cửa trên Uzbekistan, thủ môn Li Hao tự tin cùng đồng đội tiếp tục chiến thắng ở bán kết gặp Việt Nam tại giải U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T04:48:04+07:00",
+      "fetched": "2026-01-18T13:27:41.616568+07:00"
+    },
+    {
       "id": "98014fe3a3a5fe8e3262e25762dcbf95",
       "title": "Trend 'hồi tưởng 2016' phủ sóng: 10 năm trước bạn là ai?",
       "link": "https://thanhnien.vn/trend-hoi-tuong-2016-phu-song-10-nam-truoc-ban-la-ai-185260118100216353.htm",
@@ -283,6 +753,26 @@ window.newsData_2026_01_18 = {
       "fetched": "2026-01-18T11:39:26.210152+07:00"
     },
     {
+      "id": "6781fcfef92a95e42a01fd6738b3fbb9",
+      "title": "HLV của Trung Quốc phàn nàn lịch thi đấu ở U23 châu Á",
+      "link": "https://vnexpress.net/hlv-cua-trung-quoc-phan-nan-lich-thi-dau-o-u23-chau-a-5006898.html",
+      "summary": "HLV Antonio Puche cho rằng Trung Quốc gặp nhiều khó khăn về lịch thi đấu, trước khi thắng Uzbekistan tại tứ kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:31:06+07:00",
+      "fetched": "2026-01-18T13:27:32.194627+07:00"
+    },
+    {
+      "id": "6781fcfef92a95e42a01fd6738b3fbb9",
+      "title": "HLV của Trung Quốc phàn nàn lịch thi đấu ở U23 châu Á",
+      "link": "https://vnexpress.net/hlv-cua-trung-quoc-phan-nan-lich-thi-dau-o-u23-chau-a-5006898.html",
+      "summary": "HLV Antonio Puche cho rằng Trung Quốc gặp nhiều khó khăn về lịch thi đấu, trước khi thắng Uzbekistan tại tứ kết U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-18T04:31:06+07:00",
+      "fetched": "2026-01-18T13:27:41.616724+07:00"
+    },
+    {
       "id": "10514d7f7adf3475159999472bffae13",
       "title": "Indonesia phát hiện mảnh vỡ máy bay mất tích, chưa tìm thấy người",
       "link": "https://thanhnien.vn/indonesia-phat-hien-manh-vo-may-bay-mat-tich-chua-tim-thay-nguoi-185260118111917456.htm",
@@ -291,6 +781,16 @@ window.newsData_2026_01_18 = {
       "category": "Tổng hợp",
       "published": "2026-01-18T04:31:00+07:00",
       "fetched": "2026-01-18T11:39:26.210309+07:00"
+    },
+    {
+      "id": "4ca10b700e8b28e0c74c1092dec07460",
+      "title": "Hai nút thắt trên quốc lộ 1 qua Quảng Trị thông xe",
+      "link": "https://vnexpress.net/hai-nut-that-tren-quoc-lo-1-qua-quang-tri-thong-xe-5006801.html",
+      "summary": "Sau 10 tháng khởi công, cầu Gianh và Quán Hàu với vốn đầu tư hơn 500 tỷ đồng đã thông xe, xóa bỏ các “nút thắt cổ chai” tồn tại nhiều năm trên quốc lộ 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-18T04:29:15+07:00",
+      "fetched": "2026-01-18T13:27:32.194785+07:00"
     },
     {
       "id": "085aebd9f95dc84c05d13268dae56856",
