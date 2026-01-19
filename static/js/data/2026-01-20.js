@@ -1,6 +1,6 @@
 window.newsData_2026_01_20 = {
   "date": "2026-01-20",
-  "lastUpdated": "2026-01-20T01:28:43.253964+07:00",
+  "lastUpdated": "2026-01-20T03:21:20.370776+07:00",
   "articles": [
     {
       "id": "17fe61ed13bf0c8af1d289cf5d4ee72f",
@@ -151,6 +151,46 @@ window.newsData_2026_01_20 = {
       "category": "Tổng hợp",
       "published": "2026-01-20T01:28:36.344499+07:00",
       "fetched": "2026-01-20T01:28:36.344716+07:00"
+    },
+    {
+      "id": "eaa3f81ebb9c454c1c5e80dda3799060",
+      "title": "Những người Mỹ hài lòng với nhà diện tích nhỏ",
+      "link": "https://vnexpress.net/nhung-nguoi-my-hai-long-voi-nha-dien-tich-nho-5005780.html",
+      "summary": "\"Giấc mơ Mỹ\" truyền thống thường gắn liền với nhà diện tích lớn, nhưng ngày càng nhiều người Mỹ nhận ra họ hạnh phúc hơn trong những căn hộ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T20:00:00+07:00",
+      "fetched": "2026-01-20T03:21:09.504881+07:00"
+    },
+    {
+      "id": "e4be9a61566b0ad20b18290aee975518",
+      "title": "Sao Việt 'nhìn lại năm 2016'",
+      "link": "https://vnexpress.net/sao-viet-nhin-lai-nam-2016-5007318.html",
+      "summary": "Người đẹp Minh Hằng, Lê Thảo Nhi, Quỳnh Anh Shyn nhìn lại thay đổi ngoại hình, thành tựu công việc trong 10 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T20:00:00+07:00",
+      "fetched": "2026-01-20T03:21:09.505085+07:00"
+    },
+    {
+      "id": "eaa3f81ebb9c454c1c5e80dda3799060",
+      "title": "Những người Mỹ hài lòng với nhà diện tích nhỏ",
+      "link": "https://vnexpress.net/nhung-nguoi-my-hai-long-voi-nha-dien-tich-nho-5005780.html",
+      "summary": "\"Giấc mơ Mỹ\" truyền thống thường gắn liền với nhà diện tích lớn, nhưng ngày càng nhiều người Mỹ nhận ra họ hạnh phúc hơn trong những căn hộ nhỏ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-19T20:00:00+07:00",
+      "fetched": "2026-01-20T03:21:15.842373+07:00"
+    },
+    {
+      "id": "0295aa7b9bc65888e959b4e135e049df",
+      "title": "Những thực phẩm giàu canxi nên ăn",
+      "link": "https://vnexpress.net/nhung-thuc-pham-giau-canxi-nen-an-5005450.html",
+      "summary": "Sữa, phô mai, hải sản, hay các loại rau dền, cần tây là những thực phẩm rất giàu canxi, mọi người nên ăn để bổ sung vi chất này cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-19T19:00:00+07:00",
+      "fetched": "2026-01-20T03:21:09.505252+07:00"
     },
     {
       "id": "3999c23ea132aaaf37c91e0ec7337ce6",
