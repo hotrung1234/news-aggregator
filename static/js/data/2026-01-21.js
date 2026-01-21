@@ -1,7 +1,157 @@
 window.newsData_2026_01_21 = {
   "date": "2026-01-21",
-  "lastUpdated": "2026-01-21T17:25:07.749972+07:00",
+  "lastUpdated": "2026-01-21T19:43:28.607647+07:00",
   "articles": [
+    {
+      "id": "03038292995a8061a92362e525e69e59",
+      "title": "Gìn giữ nguồn gene và phục tráng giống lúa chất lượng cao giúp nông dân sinh lợi",
+      "link": "https://tuoitre.vn/gin-giu-nguon-gene-va-phuc-trang-giong-lua-chat-luong-cao-giup-nong-dan-sinh-loi-20260121163859068.htm",
+      "summary": "Các chuyên gia, nhà khoa học góp ý cần giữ nguồn gene và phục tráng giống lúa chất lượng cao để giúp nông dân vùng Đồng bằng sông Cửu Long có sản phẩm đạt chuẩn xuất khẩu, có lợi nhuận cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.254000+07:00",
+      "fetched": "2026-01-21T19:43:22.254119+07:00"
+    },
+    {
+      "id": "f7608937427360710a1407fbe3c788c3",
+      "title": "'Ở nơi xa, chắc anh ấy sẽ mỉm cười'",
+      "link": "https://tuoitre.vn/o-noi-xa-chac-anh-ay-se-mim-cuoi-20260121161521346.htm",
+      "summary": "Một năm rưỡi sau khi chồng đi xa mãi mãi, chị Nguyễn Thị Hiền ở Đông Anh, Hà Nội vẫn rơi nước mắt khi nhắc đến anh. Nhưng điều chị được an ủi là \"anh ấy\" của chị đã giúp thay đổi cuộc đời, thậm chí là cải tử hoàn sinh 6 người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253878+07:00",
+      "fetched": "2026-01-21T19:43:22.253989+07:00"
+    },
+    {
+      "id": "7b8faad73774f73c95c7476a74bb4596",
+      "title": "Xác minh vụ hai mẹ con đánh thai phụ gây xôn xao ở Bắc Ninh",
+      "link": "https://tuoitre.vn/xac-minh-vu-hai-me-con-danh-thai-phu-gay-xon-xao-o-bac-ninh-20260121172404664.htm",
+      "summary": "Công an tỉnh Bắc Ninh đang xác minh, điều tra đơn trình báo về việc thai phụ bị đánh. Vụ việc được lan truyền trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253757+07:00",
+      "fetched": "2026-01-21T19:43:22.253867+07:00"
+    },
+    {
+      "id": "9d86e12f074b1652150ffe8654f07450",
+      "title": "Bóng đá Malaysia nhận tin dữ, sắp bị FIFA giải tán dàn lãnh đạo",
+      "link": "https://tuoitre.vn/bong-da-malaysia-nhan-tin-du-sap-bi-fifa-giai-tan-dan-lanh-dao-20260121172039087.htm",
+      "summary": "Chiều 21-1, truyền thông Malaysia cho biết Liên đoàn Bóng đá nước này (FAM) đang cận kề nguy cơ bị FIFA giải tán dàn lãnh đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253635+07:00",
+      "fetched": "2026-01-21T19:43:22.253746+07:00"
+    },
+    {
+      "id": "0adcaee9f0fe6e8ae86bdde651c52597",
+      "title": "Chủ tịch ECB: Mỹ hành xử 'rất kỳ lạ' với đồng minh",
+      "link": "https://tuoitre.vn/chu-tich-ecb-my-hanh-xu-rat-ky-la-voi-dong-minh-20260121173123275.htm",
+      "summary": "Chủ tịch Ngân hàng Trung ương châu Âu nhận định tại Davos (Thụy Sĩ) về vấn đề Greenland: Mỹ đang \"hành xử rất kỳ lạ\" đối với một đồng minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253510+07:00",
+      "fetched": "2026-01-21T19:43:22.253624+07:00"
+    },
+    {
+      "id": "2d85a3db385f4e43237198d57a2dedb8",
+      "title": "Sá xị Chương Dương có giám đốc mới",
+      "link": "https://tuoitre.vn/sa-xi-chuong-duong-co-giam-doc-moi-20260121172307391.htm",
+      "summary": "Giữa tháng này, ông Vũ Thành Chung rời vị trí Giám đốc của Sá xị Chương Dương khi hoạt động kinh doanh không đạt kỳ vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253383+07:00",
+      "fetched": "2026-01-21T19:43:22.253496+07:00"
+    },
+    {
+      "id": "705b66955ef2a22d5c1b5519c9f0820a",
+      "title": "Hàng ngàn lao động tháo chạy khỏi các sào huyệt lừa đảo tại Campuchia",
+      "link": "https://tuoitre.vn/hang-ngan-lao-dong-thao-chay-khoi-cac-sao-huyet-lua-dao-tai-campuchia-20260121174041743.htm",
+      "summary": "Tổ chức Ân xá quốc tế bày tỏ sự lo ngại sâu sắc trước hình ảnh dòng người đang phải đi lang thang tìm kiếm sự trợ giúp, sau khi thoát khỏi các khu phức hợp lừa đảo tại Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253250+07:00",
+      "fetched": "2026-01-21T19:43:22.253371+07:00"
+    },
+    {
+      "id": "affd635c98fbd67a684fd32378c2a8d0",
+      "title": "Tổng thống Pháp mắc bệnh gì khiến phải đeo kính râm trong nhà?",
+      "link": "https://tuoitre.vn/tong-thong-phap-mac-benh-gi-khien-phai-deo-kinh-ram-trong-nha-20260121174554012.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron đã đeo kính râm khi tham dự Diễn đàn Kinh tế thế giới (WEF), hình ảnh này làm nhiều người liên tưởng đến diễn viên người Mỹ Tom Cruise.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.253103+07:00",
+      "fetched": "2026-01-21T19:43:22.253238+07:00"
+    },
+    {
+      "id": "75c7a8d0ff6a91cbc1d4495e1d801e76",
+      "title": "Điểm tin 18h: Giá vàng thế giới vượt 4.800 USD/ounce; Úc siết luật sở hữu súng",
+      "link": "https://tuoitre.vn/diem-tin-18h-gia-vang-the-gioi-vuot-4-800-usd-ounce-uc-siet-luat-so-huu-sung-20260121165634634.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 21-1-2026",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252979+07:00",
+      "fetched": "2026-01-21T19:43:22.253091+07:00"
+    },
+    {
+      "id": "a186c19b8fb0f9e570700dfe97273d11",
+      "title": "Thông cáo báo chí ngày làm việc thứ 3 Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/thong-cao-bao-chi-ngay-lam-viec-thu-3-dai-hoi-xiv-cua-dang-20260121175734016.htm",
+      "summary": "Ngày 21-1, Đại hội đại biểu toàn quốc lần thứ XIV của Đảng tiếp tục làm việc cả ngày tại hội trường để thảo luận về các văn kiện Đại hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252855+07:00",
+      "fetched": "2026-01-21T19:43:22.252968+07:00"
+    },
+    {
+      "id": "4ca6c9e81d57d582b5301262c62e1979",
+      "title": "Mâm xôi vàng 2026: Bạch Tuyết live-action áp đảo số đề cử",
+      "link": "https://tuoitre.vn/mam-xoi-vang-2026-bach-tuyet-live-action-ap-dao-so-de-cu-202601211812085.htm",
+      "summary": "Giải Mâm xôi vàng lần thứ 46 - sân chơi thường niên 'tôn vinh' những phim tệ nhất năm của Hollywood - vừa công bố danh sách đề cử, trong đó có những cái tên như Bạch Tuyết, Star Trek...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252728+07:00",
+      "fetched": "2026-01-21T19:43:22.252844+07:00"
+    },
+    {
+      "id": "28ea85a34f9100564c6cba1beef746c8",
+      "title": "Generali Việt Nam ra mắt sản phẩm VITA - Đầu Tư Thịnh Vượng",
+      "link": "https://tuoitre.vn/generali-viet-nam-ra-mat-san-pham-vita-dau-tu-thinh-vuong-20260121171232921.htm",
+      "summary": "Generali Việt Nam ra mắt sản phẩm bảo hiểm liên kết đơn vị VITA - Đầu Tư Thịnh Vượng, kết hợp hài hòa giữa bảo vệ, tích lũy và đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252600+07:00",
+      "fetched": "2026-01-21T19:43:22.252716+07:00"
+    },
+    {
+      "id": "76a1daa0e274a633f98733b8c0727ffe",
+      "title": "Trường đại học nào nhiều sinh viên sớm có việc làm, lương cao sau khi ra trường?",
+      "link": "https://tuoitre.vn/truong-dai-hoc-nao-nhieu-sinh-vien-som-co-viec-lam-luong-cao-sau-khi-ra-truong-20260121180410959.htm",
+      "summary": "Nhiều khảo sát việc làm từ các trường đại học cho thấy bức tranh khá rõ về thu nhập của sinh viên sau khi ra trường với sự phân hóa rõ theo ngành học, loại hình việc làm…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252467+07:00",
+      "fetched": "2026-01-21T19:43:22.252588+07:00"
+    },
+    {
+      "id": "e29f8690747106b872a16397b1e7a6b2",
+      "title": "Lãnh đạo Gia Lai yêu cầu đẩy nhanh tiến độ xây trường nội trú biên giới",
+      "link": "https://tuoitre.vn/kiem-tra-xay-truong-noi-tru-bien-gioi-lanh-dao-gia-lai-yeu-cau-day-nhanh-tien-do-20260121181029927.htm",
+      "summary": "Trong chuyến kiểm tra công trình xây trường nội trú tại các xã biên giới của tỉnh Gia Lai, lãnh đạo tỉnh yêu cầu nhà thầu tập trung lực lượng, đẩy nhanh tiến độ để hoàn thành đúng kế hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252324+07:00",
+      "fetched": "2026-01-21T19:43:22.252454+07:00"
+    },
+    {
+      "id": "d6749a54513f952a104301f4b58d6fed",
+      "title": "Đề xuất tuyển Việt Nam đấu Malaysia trên sân Thiên Trường",
+      "link": "https://tuoitre.vn/de-xuat-tuyen-viet-nam-dau-malaysia-tren-san-thien-truong-20260121181204607.htm",
+      "summary": "VFF đang xin đăng cai tổ chức trận lượt về vòng loại thứ ba Asian Cup 2027 giữa tuyển Việt Nam và Malaysia trên sân Thiên Trường (Ninh Bình).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T19:43:22.252112+07:00",
+      "fetched": "2026-01-21T19:43:22.252309+07:00"
+    },
     {
       "id": "07bcf043f555924dae8270c10346c2c4",
       "title": "Hàn Quốc nói Triều Tiên đủ sức sản xuất 10 - 20 vũ khí hạt nhân mỗi năm",
@@ -453,6 +603,326 @@ window.newsData_2026_01_21 = {
       "fetched": "2026-01-21T13:32:15.737854+07:00"
     },
     {
+      "id": "eba7cd2b34173d2291788ac5db165ad8",
+      "title": "Hàng trăm nhân viên công nghệ Mỹ yêu cầu sếp 'gọi cho Nhà Trắng' vì ICE",
+      "link": "https://vnexpress.net/hang-tram-nhan-vien-cong-nghe-my-yeu-cau-sep-goi-cho-nha-trang-vi-ice-5008331.html",
+      "summary": "Hàng trăm nhân viên tại các tập đoàn công nghệ lớn của Mỹ kiến nghị các CEO gây áp lực lên Tổng thống Trump để rút các đặc vụ ICE trong chiến dịch truy quét nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T12:42:14+07:00",
+      "fetched": "2026-01-21T19:43:23.568262+07:00"
+    },
+    {
+      "id": "816d70ce2505950955464ad34d48eae6",
+      "title": "Highlight ĐH Trà Vinh (TVU) 2-1 ĐH Cửu Long (UCL): Bản lĩnh 'ông kẹ bóng đá miền Tây'",
+      "link": "https://thanhnien.vn/highlight-dh-tra-vinh-tvu-2-1-dh-cuu-long-ucl-ban-linh-ong-ke-bong-da-mien-tay-185260121181933159.htm",
+      "summary": "ĐH Trà Vinh (TVU) giành chiến thắng 2-1 trước Trường ĐH Cửu Long (UCL) để bỏ túi 3 điểm quan trọng, duy trì nhịp bám đuổi trên bảng xếp hạng. Chiến thắng này giúp TVU rộng cửa trong cuộc đua giành vé vào vòng tiếp theo, đồng thời tạo đà cho màn chạm trán được chờ đợi với chủ nhà Trường ĐH Đồng Tháp ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:40:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461059+07:00"
+    },
+    {
+      "id": "cb01004000e2a929a0a974fbae1dd26e",
+      "title": "Trường ĐH Công nghệ thông tin TP.HCM lần đầu tiên triển khai dự án đồng đào tạo",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-thong-tin-tphcm-lan-dau-tien-trien-khai-du-an-dong-dao-tao-185260121183752368.htm",
+      "summary": "Lần đầu tiên Trường ĐH Công nghệ thông tin TP.HCM triển khai môn học như một dự án đồng đào tạo, với sự tham gia của cả trường ĐH và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:33:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461255+07:00"
+    },
+    {
+      "id": "054d82dfcf94a227fdb6d335c0c9ed7f",
+      "title": "Rà soát việc cấp thuốc ngoại trú trên 30 ngày cho người có thẻ BHYT",
+      "link": "https://thanhnien.vn/ra-soat-viec-cap-thuoc-ngoai-tru-tren-30-ngay-cho-nguoi-co-the-bhyt-185260121181138653.htm",
+      "summary": "Từ ngày 1.7.2025, việc kê đơn và cấp thuốc ngoại trú trên 30 ngày đã được cho phép đối với 252 bệnh lý. Tuy nhiên, không ít người bệnh đến nay vẫn phải đi lại nhiều lần, thời gian chờ đợi kéo dài, ảnh hưởng đến quá trình điều trị, đặc biệt là đối với người cao tuổi, người có sức khỏe yếu hoặc mắc bệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:31:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461427+07:00"
+    },
+    {
+      "id": "82a05794b5ea008d31da7eacd33fc28f",
+      "title": "Quy định thẩm quyền tuyển dụng nhà giáo",
+      "link": "https://thanhnien.vn/quy-dinh-tham-quyen-tuyen-dung-nha-giao-185260121175949873.htm",
+      "summary": "Ngày 20.1, Bộ GD-ĐT ban hành Thông tư số 01/2026/TT-BGDĐT quy định thẩm quyền tuyển dụng nhà giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:30:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461578+07:00"
+    },
+    {
+      "id": "5e3d2c91181790e522a9d11e52973df6",
+      "title": "Thứ tư ngày 21 tháng 1, giải độc đắc của Vietlott cộng dồn 29,1 tỉ đồng",
+      "link": "https://thanhnien.vn/thu-tu-ngay-21-thang-1-giai-doc-dac-cua-vietlott-cong-don-291-ti-dong-185260121191540952.htm",
+      "summary": "Tối 21.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hiện tại hơn 29,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:29:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461726+07:00"
+    },
+    {
+      "id": "63fb84774a23aef9851fa23afe6f802c",
+      "title": "Nga muốn Mỹ làm rõ về 'vũ khí bí mật' trong cuộc đột kích ở Venezuela",
+      "link": "https://vnexpress.net/nga-muon-my-lam-ro-ve-vu-khi-bi-mat-trong-cuoc-dot-kich-o-venezuela-5008389.html",
+      "summary": "Nga muốn Mỹ cung cấp thêm thông tin, sau khi Tổng thống Trump đề cập việc Washington sở hữu \"vũ khí sóng âm bí mật\" và đã dùng trong chiến dịch ở Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:25:56+07:00",
+      "fetched": "2026-01-21T19:43:18.739935+07:00"
+    },
+    {
+      "id": "63fb84774a23aef9851fa23afe6f802c",
+      "title": "Nga muốn Mỹ làm rõ về 'vũ khí bí mật' trong cuộc đột kích ở Venezuela",
+      "link": "https://vnexpress.net/nga-muon-my-lam-ro-ve-vu-khi-bi-mat-trong-cuoc-dot-kich-o-venezuela-5008389.html",
+      "summary": "Nga muốn Mỹ cung cấp thêm thông tin sau khi Tổng thống Trump đề cập việc Washington sở hữu \"vũ khí sóng âm bí mật\" và đã dùng trong chiến dịch ở Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T12:25:56+07:00",
+      "fetched": "2026-01-21T19:43:23.568434+07:00"
+    },
+    {
+      "id": "e7ac3dc0b8e6a9e9360efdb0d7daa506",
+      "title": "Đại hội Đảng XIV rút ngắn 1,5 ngày",
+      "link": "https://vnexpress.net/dai-hoi-dang-xiv-rut-ngan-1-5-ngay-5008369.html",
+      "summary": "100% đại biểu dự Đại hội Đảng toàn quốc lần thứ XIV thống nhất điều chỉnh chương trình, rút ngắn 1,5 ngày và bế mạc ngày 23/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:23:43+07:00",
+      "fetched": "2026-01-21T19:43:18.740110+07:00"
+    },
+    {
+      "id": "3963809a2c558644bcadf73b0a0484a0",
+      "title": "Tự ý xây hạ tầng, rao bán hàng nghìn m2 đất nông lâm trường",
+      "link": "https://vnexpress.net/tu-y-xay-ha-tang-rao-ban-hang-nghin-m2-dat-nong-lam-truong-5008388.html",
+      "summary": "Hàng nghìn m2 đất nông lâm trường bị các đối tượng xây hạ tầng, tách thành nhiều thửa rao bán trái quy định trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:07:13+07:00",
+      "fetched": "2026-01-21T19:43:18.740293+07:00"
+    },
+    {
+      "id": "e46085d2345650f15f65767ff7410ac4",
+      "title": "Thuê nhiều người đánh giá '5 sao' để bán hàng tấn mỹ phẩm giả",
+      "link": "https://vnexpress.net/thue-nhieu-nguoi-danh-gia-5-sao-de-ban-hang-tan-my-pham-gia-5008372.html",
+      "summary": "Để bán được hàng giả trên sàn thương mại điện tử, Nguyễn Văn Chung, 31 tuổi thuê nhiều tài khoản ảo đánh giá sản phẩm tốt, khiến nhiều tin tưởng đặt mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:06:52+07:00",
+      "fetched": "2026-01-21T19:43:18.740451+07:00"
+    },
+    {
+      "id": "2c6e59222eed4e0a91f7ab6aad4c7675",
+      "title": "Chợ Bến Thành và 7 tuyến đường trung tâm TP.HCM 'thay áo' đón tết",
+      "link": "https://thanhnien.vn/cho-ben-thanh-va-7-tuyen-duong-trung-tam-tphcm-thay-ao-don-tet-185260121183804504.htm",
+      "summary": "Chợ Bến Thành, Hồ Con Rùa, Ngã 6 Phù Đổng và các tuyến đường ở khu vực trung tâm TP.HCM sẽ sớm khoác lên mình diện mạo với một màu sắc tươi mới trước thềm Tết Nguyên đán 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:06:00+07:00",
+      "fetched": "2026-01-21T19:43:21.461875+07:00"
+    },
+    {
+      "id": "acea865584b5f3a8ae377a82cbd5b278",
+      "title": "Hệ lụy từ việc ông Trump đăng tin nhắn riêng của lãnh đạo châu Âu",
+      "link": "https://vnexpress.net/he-luy-tu-viec-ong-trump-dang-tin-nhan-rieng-cua-lanh-dao-chau-au-5008046.html",
+      "summary": "Việc ông Trump công khai tin nhắn riêng từ các lãnh đạo châu Âu có thể gây tổn hại niềm tin, làm suy yếu một kênh hậu trường quan trọng của ngoại giao quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:00:00+07:00",
+      "fetched": "2026-01-21T19:43:18.740610+07:00"
+    },
+    {
+      "id": "186eb49f1878b9882718d4cb28afe2ab",
+      "title": "Thai nhi bất thường cơ quan sinh dục",
+      "link": "https://vnexpress.net/thai-nhi-bat-thuong-co-quan-sinh-duc-5008237.html",
+      "summary": "Thai nhi 20 tuần siêu âm phát hiện dương vật cong kèm lỗ tiểu thấp, bác sĩ nghi do mang đột biến gene và theo dõi đến khi chào đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:00:00+07:00",
+      "fetched": "2026-01-21T19:43:18.740767+07:00"
+    },
+    {
+      "id": "a06150db2759c55241b3ae37998041c0",
+      "title": "Bác sĩ Nguyễn Bảo Anh nói về tạo hình ngực nữ thành ngực nam",
+      "link": "https://thanhnien.vn/bac-si-nguyen-bao-anh-noi-ve-tao-hinh-nguc-nu-thanh-nguc-nam-18526012116433157.htm",
+      "summary": "Theo bác sĩ Nguyễn Bảo Anh, đây là can thiệp y khoa có tác động lâu dài đến cơ thể, đòi hỏi đánh giá kỹ chỉ định, cá nhân hóa phương pháp và theo dõi chặt chẽ sau can thiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T12:00:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462022+07:00"
+    },
+    {
+      "id": "acea865584b5f3a8ae377a82cbd5b278",
+      "title": "Hệ lụy từ việc ông Trump đăng tin nhắn riêng của lãnh đạo châu Âu",
+      "link": "https://vnexpress.net/he-luy-tu-viec-ong-trump-dang-tin-nhan-rieng-cua-lanh-dao-chau-au-5008046.html",
+      "summary": "Việc ông Trump công khai tin nhắn riêng từ các lãnh đạo châu Âu có thể gây tổn hại niềm tin, làm suy yếu một kênh hậu trường quan trọng của ngoại giao quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T12:00:00+07:00",
+      "fetched": "2026-01-21T19:43:23.568595+07:00"
+    },
+    {
+      "id": "682692b6e890cc000cc14f1958ace5ad",
+      "title": "Nhu cầu thành lập trung tâm an ninh mạng tại Việt Nam tăng mạnh",
+      "link": "https://thanhnien.vn/nhu-cau-thanh-lap-trung-tam-an-ninh-mang-tai-viet-nam-tang-manh-185260121171659761.htm",
+      "summary": "Nhiều doanh nghiệp Việt đang lên kế hoạch xây dựng trung tâm điều hành an ninh mạng nhằm ứng phó hiệu quả với các mối đe dọa số ngày càng tinh vi và phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:54:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462194+07:00"
+    },
+    {
+      "id": "53aed88485d0030123f839bbd87a8276",
+      "title": "Nữ giám đốc điều hành xưởng sản xuất mỹ phẩm giả",
+      "link": "https://vnexpress.net/nu-giam-doc-dieu-hanh-xuong-san-xuat-my-pham-gia-5008384.html",
+      "summary": "Vũ Thị Thu Hà bị cáo buộc cầm đầu đường dây sản xuất mỹ phẩm giả quy mô lớn trong Cụm công nghiệp Hà Khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:50:44+07:00",
+      "fetched": "2026-01-21T19:43:18.740924+07:00"
+    },
+    {
+      "id": "1eb6bd979dcee41379b0fcd6982d4ee8",
+      "title": "Giá vàng, bạc tăng cao",
+      "link": "https://thanhnien.vn/gia-vang-bac-tang-cao-185260121181406807.htm",
+      "summary": "Giá vàng và bạc tăng cao, đặc biệt vàng đã xuất hiện mức giá 170,7 triệu đồng/lượng trong ngày 21.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:35:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462354+07:00"
+    },
+    {
+      "id": "45d559fa1d1674b8ff39ad01c0ad8f92",
+      "title": "Khách Việt thuê trai đẹp bế trượt tuyết ở Cáp Nhĩ Tân",
+      "link": "https://vnexpress.net/khach-viet-thue-trai-dep-be-truot-tuyet-o-cap-nhi-tan-5008260.html",
+      "summary": "Khách Việt chi khoảng 3,8 triệu đồng thuê các vận động viên nam bế hoặc cõng khi trượt tuyết tại khu nghỉ dưỡng Yabuli, tỉnh Hắc Long Giang để tận hưởng cảm giác mới lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:30:00+07:00",
+      "fetched": "2026-01-21T19:43:18.741082+07:00"
+    },
+    {
+      "id": "964c2d330f0dfa273273e43708c04554",
+      "title": "Xây dựng và phát triển văn hóa thực sự thành nền tảng, nguồn lực nội sinh",
+      "link": "https://thanhnien.vn/xay-dung-va-phat-trien-van-hoa-thuc-su-thanh-nen-tang-nguon-luc-sinh-185260121181059107.htm",
+      "summary": "Văn hóa Việt Nam là kết tinh những giá trị tốt đẹp của dân tộc trong tiến trình hàng nghìn năm dựng nước và giữ nước, là nguồn lực nội sinh quan trọng hun đúc trí tuệ, tâm hồn, khí phách và bản lĩnh người Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:28:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462503+07:00"
+    },
+    {
+      "id": "9b213de13ee6f507a353a7e090a70fed",
+      "title": "Alcaraz tốn 78 phút cho set đầu Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-ton-78-phut-cho-set-dau-australia-mo-rong-5008391.html",
+      "summary": "Hạt giống số một Carlos Alcaraz trải qua set một dài nhất sự nghiệp ở Grand Slam khi bị Yannick Hanfmann kéo vào tie-break, rồi thắng 7-6, 6-3, 6-2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:27:10+07:00",
+      "fetched": "2026-01-21T19:43:18.741265+07:00"
+    },
+    {
+      "id": "9b213de13ee6f507a353a7e090a70fed",
+      "title": "Alcaraz tốn 78 phút cho set đầu Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-ton-78-phut-cho-set-dau-australia-mo-rong-5008391.html",
+      "summary": "Hạt giống số một Carlos Alcaraz trải qua set một dài nhất sự nghiệp ở Grand Slam khi bị Yannick Hanfmann kéo vào tie-break, rồi thắng 7-6, 6-3, 6-2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T11:27:10+07:00",
+      "fetched": "2026-01-21T19:43:28.595291+07:00"
+    },
+    {
+      "id": "8511962ee55a924b93c8424d1111baa7",
+      "title": "Man City bị chê phòng ngự như đội U10",
+      "link": "https://vnexpress.net/man-city-bi-che-phong-ngu-nhu-doi-u10-5008364.html",
+      "summary": "Các chuyên gia chỉ trích Man City phòng ngự kém cỏi trong trận thua Bodo/Glimt 1-3 ở lượt bảy vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:10:36+07:00",
+      "fetched": "2026-01-21T19:43:18.741427+07:00"
+    },
+    {
+      "id": "8511962ee55a924b93c8424d1111baa7",
+      "title": "Man City bị chê phòng ngự như đội U10",
+      "link": "https://vnexpress.net/man-city-bi-che-phong-ngu-nhu-doi-u10-5008364.html",
+      "summary": "Các chuyên gia chỉ trích Man City phòng ngự kém cỏi trong trận thua Bodo/Glimt 1-3 ở lượt bảy vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T11:10:36+07:00",
+      "fetched": "2026-01-21T19:43:28.596101+07:00"
+    },
+    {
+      "id": "ddbe5c6d253293efd0ee3e037fa3593a",
+      "title": "Viện kiểm sát lập kênh tiếp nhận thông tin",
+      "link": "https://thanhnien.vn/vien-kiem-sat-lap-kenh-tiep-nhan-thong-tin-185260121175829673.htm",
+      "summary": "Đây là một trong những việc ngành kiểm sát đang chuẩn bị để thực hiện thí điểm Viện kiểm sát nhân dân khởi kiện vụ án dân sự để bảo vệ quyền dân sự của các chủ thể là nhóm dễ bị tổn thương hoặc bảo vệ lợi ích công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:05:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462655+07:00"
+    },
+    {
+      "id": "1516301ba960b655afccd75e55eb5ba8",
+      "title": "Bộ trưởng Bộ Tài chính nói về đổi mới quản lý thuế",
+      "link": "https://thanhnien.vn/bo-truong-bo-tai-chinh-noi-ve-doi-moi-quan-ly-thue-185260121164312868.htm",
+      "summary": "Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng cho biết, hệ thống pháp luật về thuế sẽ hoàn thiện theo hướng đơn giản, hiện đại, phù hợp với thông lệ quốc tế; đổi mới tư duy quản lý thuế từ 'quản lý' sang 'phục vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:04:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462808+07:00"
+    },
+    {
+      "id": "954a71a96470b5689d91b0bbd5ca47da",
+      "title": "Bộ đôi VinFast đạt chứng nhận an toàn 5 sao tại Ấn Độ",
+      "link": "https://thanhnien.vn/bo-doi-vinfast-dat-chung-nhan-an-toan-5-sao-tai-an-do-185260121180339763.htm",
+      "summary": "Ngày 21.1, bộ đôi VF 6 và VF 7 của VinFast đã được cấp chứng nhận an toàn 5 sao, mức cao nhất, bởi Chương trình Đánh giá ô tô mới Bharat (Bharat NCAP) của Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:03:00+07:00",
+      "fetched": "2026-01-21T19:43:21.462955+07:00"
+    },
+    {
+      "id": "d52c9360e70af5505da99a4de5032208",
+      "title": "Dự án nghỉ dưỡng của SonKim Land đạt giải tại International Property Awards",
+      "link": "https://vnexpress.net/du-an-nghi-duong-cua-sonkim-land-dat-giai-tai-international-property-awards-5008387.html",
+      "summary": "JW Marriott Cam Ranh Bay Resort & Spa do SonKim Land phát triển nhận giải \"Dự án nghỉ dưỡng quốc tế xuất sắc nhất” nhờ thiết kế gắn văn hóa bản địa, định hướng phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T11:00:00+07:00",
+      "fetched": "2026-01-21T19:43:18.741587+07:00"
+    },
+    {
+      "id": "b8751e3f85487bccb1ee8dd4ac5294ac",
+      "title": "Giải thưởng Tác giả trẻ 2025 bị thu hồi: Thông điệp về liêm chính trong sáng tác",
+      "link": "https://thanhnien.vn/giai-thuong-tac-gia-tre-2025-bi-thu-hoi-thong-diep-ve-liem-chinh-trong-sang-tac-185260121172152168.htm",
+      "summary": "Việc Hội Nhà văn Việt Nam thu hồi Giải thưởng Tác giả trẻ 2025 đối với nhà thơ Lâu Văn Mua không chỉ xử lý một trường hợp cụ thể, mà còn gợi mở những vấn đề cốt lõi về liêm chính trong sáng tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T10:56:00+07:00",
+      "fetched": "2026-01-21T19:43:21.463108+07:00"
+    },
+    {
+      "id": "31df4df679b424b84e5bed3a2100da8e",
+      "title": "Giao quyền tuyển giáo viên cho giám đốc Sở Giáo dục",
+      "link": "https://vnexpress.net/giao-quyen-tuyen-giao-vien-cho-giam-doc-so-giao-duc-5008379.html",
+      "summary": "Giám đốc Sở Giáo dục có quyền tuyển dụng giáo viên ở tất cả bậc học, từ mầm non đến hết phổ thông (lớp 1-12), thay vì chủ yếu thuộc về cấp huyện như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T10:48:58+07:00",
+      "fetched": "2026-01-21T19:43:18.741741+07:00"
+    },
+    {
+      "id": "caf843853935c72c092c4cf9abfe5ff8",
+      "title": "Việt Nam tiếp tục trong nhóm các nước an toàn hàng đầu thế giới",
+      "link": "https://thanhnien.vn/viet-nam-tiep-tuc-trong-nhom-cac-nuoc-an-toan-hang-dau-the-gioi-185260121164533777.htm",
+      "summary": "Đó là khẳng định của đại tướng Lương Tam Quang, Bộ trưởng Bộ Công an trong tham luận \"Công tác công an thực hiện 3 mục tiêu chiến lược của Đảng: hòa bình, ổn định; phát triển bền vững, chất lượng cao; nâng cao mọi mặt đời sống nhân dân\" tại Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T10:48:00+07:00",
+      "fetched": "2026-01-21T19:43:21.463282+07:00"
+    },
+    {
       "id": "17e1e8c9ce151f6743aed5d1f8dd1682",
       "title": "Tri Việt Hội An bị phạt 389 triệu vì loạt vi phạm môi trường, an toàn thực phẩm tại The Pearl Hội An",
       "link": "https://tuoitre.vn/tri-viet-hoi-an-bi-phat-389-trieu-vi-loat-vi-pham-moi-truong-an-toan-thuc-pham-tai-the-pearl-hoi-an-2026012107480565.htm",
@@ -603,6 +1073,16 @@ window.newsData_2026_01_21 = {
       "fetched": "2026-01-21T10:41:21.436310+07:00"
     },
     {
+      "id": "ececeeaeeb565259a2ed8a3fdb62d44d",
+      "title": "Hợp tác nâng cao năng lực điều trị đột quỵ tại Việt Nam",
+      "link": "https://vnexpress.net/hop-tac-nang-cao-nang-luc-dieu-tri-dot-quy-tai-viet-nam-5008368.html",
+      "summary": "Cục Quản lý khám, chữa bệnh (Bộ Y tế) và công ty Medtronic Việt Nam vừa công bố chương trình hợp tác nhằm nâng cao chất lượng chăm sóc và điều trị người bệnh đột quỵ tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T10:30:00+07:00",
+      "fetched": "2026-01-21T19:43:18.741902+07:00"
+    },
+    {
       "id": "7d9d8c08454ab75df92d454491a98006",
       "title": "Tai nghe AI đầu tiên của OpenAI được sản xuất tại Việt Nam",
       "link": "https://thanhnien.vn/tai-nghe-ai-dau-tien-cua-openai-duoc-san-xuat-tai-viet-nam-18526012116382019.htm",
@@ -611,6 +1091,16 @@ window.newsData_2026_01_21 = {
       "category": "Tổng hợp",
       "published": "2026-01-21T10:21:00+07:00",
       "fetched": "2026-01-21T17:25:01.659963+07:00"
+    },
+    {
+      "id": "8dd2519f964aeeb62625bf15551f56b6",
+      "title": "Shipper bị bắt vì hãm hại bé gái",
+      "link": "https://vnexpress.net/shipper-bi-bat-vi-ham-hai-be-gai-5008339.html",
+      "summary": "Trần Chí Vĩ, 21 tuổi, bị cáo buộc lợi dụng việc quen biết trong những lần giao hàng để dụ dỗ, xâm hại bé gái 12 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T10:20:54+07:00",
+      "fetched": "2026-01-21T19:43:18.742052+07:00"
     },
     {
       "id": "27e9cb233fb737f02d6da2e680f10a9a",
