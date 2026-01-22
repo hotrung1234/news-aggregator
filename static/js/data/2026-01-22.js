@@ -1,7 +1,57 @@
 window.newsData_2026_01_22 = {
   "date": "2026-01-22",
-  "lastUpdated": "2026-01-22T05:22:05.959757+07:00",
+  "lastUpdated": "2026-01-22T08:28:29.705506+07:00",
   "articles": [
+    {
+      "id": "dbb811770639e6aad61f6f0ff82b2dc9",
+      "title": "Thời tiết hôm nay 22-1: Bắc Bộ xuống 4 độ C, Trung Bộ mưa, Nam Bộ sáng lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-1-bac-bo-xuong-4-do-c-trung-bo-mua-nam-bo-sang-lanh-20260121160845761.htm",
+      "summary": "Hôm nay 22-1, không khí lạnh tác động sâu đến thời tiết nước ta, Bắc Bộ rét đậm rét hại, Nam Bộ sáng sớm lạnh, nhiệt độ giảm mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T08:28:23.219825+07:00",
+      "fetched": "2026-01-22T08:28:23.219941+07:00"
+    },
+    {
+      "id": "f91e84ea4dbd7648aacda74f86cdffaf",
+      "title": "Thùy Linh lại thắng ấn tượng đầu năm 2026",
+      "link": "https://tuoitre.vn/thuy-linh-lai-thang-an-tuong-dau-nam-2026-20260122040312566.htm",
+      "summary": "Tay vợt cầu lông Nguyễn Thùy Linh tiếp tục thể hiện phong độ cao từ đầu năm, khi tham dự Giải Indonesia Masters 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T08:28:23.219693+07:00",
+      "fetched": "2026-01-22T08:28:23.219813+07:00"
+    },
+    {
+      "id": "955d45b7bed57d59505c79fafb30c0ac",
+      "title": "Việt Nam giành 8 HCV, phá sâu 1 kỷ lục ngày ra quân Para Games",
+      "link": "https://tuoitre.vn/viet-nam-gianh-8-hcv-pha-sau-1-ki-luc-ngay-ra-quan-para-games-20260122034647155.htm",
+      "summary": "Trong ngày thi đấu đầu tiên của Đại hội thể thao người khuyết tật Đông Nam Á (ASEAN Para Games), các VĐV Việt Nam đã đạt thành tích ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T08:28:23.219538+07:00",
+      "fetched": "2026-01-22T08:28:23.219680+07:00"
+    },
+    {
+      "id": "a13159490fedb4c44f7edb57ae276c04",
+      "title": "Tin tức sáng 22-1: Phạt chủ siêu dự án khu tứ giác Bến Thành; Đề xuất cơ chế tài chính với Cục Thuế",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-1-phat-chu-sieu-du-an-khu-tu-giac-ben-thanh-de-xuat-co-che-tai-chinh-voi-cuc-thue-20260121224538945.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất cơ chế tài chính với Cục Thuế, Hải quan, Kho bạc Nhà nước; Xử phạt chủ siêu dự án khu tứ giác Bến Thành...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T08:28:23.219396+07:00",
+      "fetched": "2026-01-22T08:28:23.219525+07:00"
+    },
+    {
+      "id": "8a9438a546b75bb3d88e8d77edc46b7c",
+      "title": "Mạnh dạn đổi mới để khai thác tiềm năng phát triển",
+      "link": "https://tuoitre.vn/manh-dan-doi-moi-de-khai-thac-tiem-nang-phat-trien-20260121231826031.htm",
+      "summary": "Hôm qua 21-1, 30 tham luận về các vấn đề kinh tế, xã hội, an ninh quốc phòng… của các đảng bộ trung ương và địa phương đã được trình bày trước Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T08:28:23.219174+07:00",
+      "fetched": "2026-01-22T08:28:23.219381+07:00"
+    },
     {
       "id": "ce0424202575ba7e9c219adb99163bb0",
       "title": "Báo Trung Quốc thảng thốt: 'Chúng ta đang sa sút ở môn mình giỏi nhất'",
@@ -151,6 +201,416 @@ window.newsData_2026_01_22 = {
       "category": "Tổng hợp",
       "published": "2026-01-22T01:38:33.167379+07:00",
       "fetched": "2026-01-22T01:38:33.167597+07:00"
+    },
+    {
+      "id": "f0563efbebe7b5d0dbfbae750711adf7",
+      "title": "Sáng lạnh, trưa nắng gắt: Vì sao cơ thể dễ ‘đuối sức’ trong những ngày chênh nhiệt?",
+      "link": "https://thanhnien.vn/sang-lanh-trua-nang-gat-vi-sao-co-the-de-duoi-suc-trong-nhung-ngay-chenh-nhiet-185260115131133735.htm",
+      "summary": "Chỉ số biến thiên nhiệt cao (sáng lạnh, trưa nắng gắt) khiến hệ tim mạch và hô hấp liên tục điều chỉnh theo 2 cực nóng - lạnh chỉ trong vài giờ, tạo gánh nặng lên mạch máu và niêm mạc đường thở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:19:00+07:00",
+      "fetched": "2026-01-22T08:28:22.088342+07:00"
+    },
+    {
+      "id": "fc8fd0cc5b5b9fe9720022e0ba89415e",
+      "title": "Thông tin đầu tiên về kết quả tìm kiếm máy bay mất tích MH370",
+      "link": "https://thanhnien.vn/thong-tin-dau-tien-ve-ket-qua-tim-kiem-may-bay-mat-tich-mh370-185260122075050689.htm",
+      "summary": "Chiến dịch tìm kiếm máy bay mất tích MH370 mới nhất được triển khai từ ngày 30.12 năm ngoái và dự kiến kết thúc trong 55 ngày. Đến nay, các thông tin liên quan rất hiếm hoi và đây là kết quả chính thức đầu tiên",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:10:00+07:00",
+      "fetched": "2026-01-22T08:28:22.088510+07:00"
+    },
+    {
+      "id": "9c224918557bd9c054ef488dcf0e6b7f",
+      "title": "Lịch cúp nước 8 phường ở TP.HCM từ trưa nay đến cuối tuần ngày 25.1",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-8-phuong-o-tphcm-tu-trua-nay-den-cuoi-tuan-ngay-251-18526012202462373.htm",
+      "summary": "Từ chiều nay 22.1 đến ngày 25.1, có 8 phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:04:00+07:00",
+      "fetched": "2026-01-22T08:28:22.088698+07:00"
+    },
+    {
+      "id": "49144f07150ccd2ac0ea60ebb7456ec6",
+      "title": "Tổng thống lâm thời Venezuela sắp thăm Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-lam-thoi-venezuela-sap-tham-my-185260122072758479.htm",
+      "summary": "AFP hôm 22.1 dẫn lời một quan chức Mỹ cho biết Tổng thống lâm thời Venezuela sẽ sớm thăm Mỹ, động thái tiếp tục cho thấy người đồng cấp Donald Trump sẵn sàng đón nhận nhà lãnh đạo mới của quốc gia giàu dầu mỏ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:03:00+07:00",
+      "fetched": "2026-01-22T08:28:22.088869+07:00"
+    },
+    {
+      "id": "2a3e3fdd2dfb46d1ac332f459786dbf7",
+      "title": "Người Greenland hoài nghi giải pháp của ông Trump về hòn đảo",
+      "link": "https://vnexpress.net/nguoi-greenland-hoai-nghi-giai-phap-cua-ong-trump-ve-hon-dao-5008485.html",
+      "summary": "Người dân Greenland tỏ ra hoài nghi, sau khi Tổng thống Trump thông báo đã giải quyết vấn đề liên quan hòn đảo và xuống thang căng thẳng với châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T01:02:36+07:00",
+      "fetched": "2026-01-22T08:28:24.572665+07:00"
+    },
+    {
+      "id": "c77ffa4bb4793ec3217f1590a8d62d66",
+      "title": "Ông Trump rút 'con bài thuế quan' sau thỏa thuận khung với NATO về Greenland",
+      "link": "https://thanhnien.vn/ong-trump-rut-con-bai-thue-quan-sau-thoa-thuan-khung-voi-nato-ve-greenland-185260122074457832.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 21.1 tuyên bố rút lại kế hoạch áp thuế đối với một số quốc gia liên quan vấn đề Greenland, sau cuộc gặp với Tổng thư ký NATO Mark Rutte bên lề Diễn đàn Kinh tế thế giới tại Davos (Thụy Sĩ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:02:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089022+07:00"
+    },
+    {
+      "id": "d51327568d700825f664d96616c0f49e",
+      "title": "Xu hướng nhạc Việt năm 2026",
+      "link": "https://thanhnien.vn/xu-huong-nhac-viet-nam-2026-185260121221116267.htm",
+      "summary": "Mỗi năm, cùng với những sự kiện, bối cảnh xã hội và trào lưu mới, dòng chảy âm nhạc sẽ phát triển theo hướng khác nhau. Sau năm 2025 thành công rực rỡ, nhạc Việt năm 2026 sẽ theo xu hướng nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089171+07:00"
+    },
+    {
+      "id": "02ee2c55820545dac9747117350221f9",
+      "title": "Cô gái Việt đưa AI vào bệnh viện Mỹ: Xóa rào cản ngôn ngữ để cứu người",
+      "link": "https://thanhnien.vn/co-gai-viet-dua-ai-vao-benh-vien-my-xoa-rao-can-ngon-ngu-de-cuu-nguoi-185260121212311833.htm",
+      "summary": "Với ứng dụng Lexi, nữ CEO 33 tuổi người VN đã mang lại sự an tâm cho những người bệnh không thông thạo tiếng Anh ở Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089320+07:00"
+    },
+    {
+      "id": "82e20d03e1f9bc8123733f0adc0eb842",
+      "title": "Khi ưu đãi trở thành nhịp khởi hành cho những chuyến du xuân đầy ắp tiếng cười",
+      "link": "https://thanhnien.vn/khi-uu-dai-tro-thanh-nhip-khoi-hanh-cho-nhung-chuyen-du-xuan-day-ap-tieng-cuoi-185260121182107399.htm",
+      "summary": "Với nhiều người, những ưu đãi đúng lúc từ TPBank đang giúp hành trình du xuân trở nên nhẹ nhàng hơn, để nụ cười xuất hiện ngay từ lúc lên kế hoạch và theo suốt hành trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089469+07:00"
+    },
+    {
+      "id": "27dc65fdcec62b5548229462db488072",
+      "title": "Chẩn đoán sớm và can thiệp đúng thời điểm - Giảm biến chứng rối loạn nhịp tim",
+      "link": "https://thanhnien.vn/chan-doan-som-va-can-thiep-dung-thoi-diem-giam-bien-chung-roi-loan-nhip-tim-185260121172125349.htm",
+      "summary": "20 giờ thứ năm, ngày 22.1.2026, chương trình tư vấn trực tuyến 'Rối loạn nhịp tim: Từ chẩn đoán đến can thiệp hiện đại - ít xâm lấn - hiệu quả tối ưu' diễn ra trên nền tảng online của Báo Thanh Niên và BVĐK Tâm Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089637+07:00"
+    },
+    {
+      "id": "489bf31dd0db9a1c2e68ae3df08a1314",
+      "title": "Gia Lai: ‘Trục xương sống’ mới của kinh tế miền Trung và Tây nguyên",
+      "link": "https://thanhnien.vn/gia-lai-truc-xuong-song-moi-cua-kinh-te-mien-trung-va-tay-nguyen-185260121160220463.htm",
+      "summary": "Sở hữu vị thế chiến lược trên hành lang kinh tế đông - tây, Gia Lai đang trải qua cuộc chuyển mình lịch sử sau khi mở rộng không gian phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089793+07:00"
+    },
+    {
+      "id": "ded68fd5a22b11d40e438be3894abd74",
+      "title": "Làm mới áo dài trong dòng chảy đương đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-moi-ao-dai-trong-dong-chay-duong-dai-185260121093343633.htm",
+      "summary": "Trải qua thăng trầm và biến chuyển lịch sử, tà áo dài vẫn bền bỉ hiện diện như biểu tượng văn hóa dân tộc. Ngày nay, áo dài được làm mới theo phong cách hiện đại hơn nhưng vẫn giữ trọn giá trị cốt lõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:22.089944+07:00"
+    },
+    {
+      "id": "34abea7185fe05de72c1265c9b749ef3",
+      "title": "'Hành trình An tâm' - cột mốc 100.000 km của Lynk &amp; Co 06",
+      "link": "https://vnexpress.net/hanh-trinh-an-tam-cot-moc-100-000-km-cua-lynk-co-06-5008060.html",
+      "summary": "Tasco Auto tổ chức “Hành trình An tâm” gồm nhiều chuyến đi khắp đất nước, chứng minh sự bền bỉ, chất lượng các dòng ôtô đang phân phối chính hãng tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-22T01:00:00+07:00",
+      "fetched": "2026-01-22T08:28:25.909061+07:00"
+    },
+    {
+      "id": "a6ca38f23005c5cdf39969fa9982915b",
+      "title": "NATO trong hố sâu chia rẽ",
+      "link": "https://thanhnien.vn/nato-trong-ho-sau-chia-re-185260121220135443.htm",
+      "summary": "Diễn đàn Kinh tế thế giới (WEF) đang diễn ra tại Davos (Thụy Sĩ) trở thành \"khán đài\" căng thẳng giữa chính Mỹ và các thành viên còn lại trong khối NATO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:52:00+07:00",
+      "fetched": "2026-01-22T08:28:22.090090+07:00"
+    },
+    {
+      "id": "d3a4ac03d738c6b5167e587c6ad7f06b",
+      "title": "Giá heo hơi hôm nay 22.1.2026: Sắc xanh khắp nơi, xuất hiện đỉnh mới",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2212026-sac-xanh-khap-noi-xuat-hien-dinh-moi-185260121205707993.htm",
+      "summary": "Giá heo hơi tiếp tục tăng ở nhiều tỉnh thành trong cả nước, đặc biệt một số địa phương xuất hiện mức đỉnh mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:42:00+07:00",
+      "fetched": "2026-01-22T08:28:22.090242+07:00"
+    },
+    {
+      "id": "31ea4e27744437a4f73ee4e381ca4eb1",
+      "title": "Ông Trump nói Tổng thống Putin 'đồng ý tham gia Hội đồng Hòa bình'",
+      "link": "https://vnexpress.net/ong-trump-noi-tong-thong-putin-dong-y-tham-gia-hoi-dong-hoa-binh-5008477.html",
+      "summary": "Tổng thống Trump nói ông Putin đã chấp nhận lời mời gia nhập Hội đồng Hòa bình, trong khi Arab Saudi và 8 nước khác cũng thông báo tham gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-22T00:41:50+07:00",
+      "fetched": "2026-01-22T08:28:24.572841+07:00"
+    },
+    {
+      "id": "2af14129bfb86ce61c6080053a6bc181",
+      "title": "Dừng đèn đỏ dùng điện thoại có bị phạt nguội?",
+      "link": "https://vnexpress.net/dung-den-do-dung-dien-thoai-co-bi-phat-nguoi-5008491.html",
+      "summary": "Xin hỏi, khi dừng đèn đỏ tôi nghe gọi điện thoại thì có bị phạt nguội không, nếu có mức phạt như thế nào. (Phương Mai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:37:19+07:00",
+      "fetched": "2026-01-22T08:28:18.549371+07:00"
+    },
+    {
+      "id": "bd9ee1713ce6dc1930775d1de7219fbf",
+      "title": "Không khí lạnh đi sâu vào miền Trung, 16 tỉnh rét đậm, rét hại",
+      "link": "https://thanhnien.vn/khong-khi-lanh-di-sau-vao-mien-trung-16-tinh-ret-dam-ret-hai-185260122064800256.htm",
+      "summary": "Dự báo thời tiết ngày hôm nay 22.1, không khí lạnh ảnh hưởng lan rộng đến các tỉnh trung Trung bộ. Do ảnh hưởng của không khí lạnh, 16 tỉnh, thành phố Bắc bộ, Thanh Hóa hôm nay có rét đậm, rét hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:36:00+07:00",
+      "fetched": "2026-01-22T08:28:22.090396+07:00"
+    },
+    {
+      "id": "aef4dbac5217bdf08941baa8a95411d0",
+      "title": "3 điều hộ kinh doanh có doanh thu dưới 500 triệu cần lưu ý",
+      "link": "https://vnexpress.net/3-dieu-ho-kinh-doanh-co-doanh-thu-duoi-500-trieu-can-luu-y-5008490.html",
+      "summary": "Dù được miễn thuế nhưng chuyên gia lưu ý, hộ có doanh thu dưới 500 triệu/năm vẫn cần chứng minh mình thuộc diện này thông qua ghi chép sổ sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:35:10+07:00",
+      "fetched": "2026-01-22T08:28:18.549553+07:00"
+    },
+    {
+      "id": "d12074d2b8bbdb20515e91479e9ffcb4",
+      "title": "Barca ngược dòng trong bữa tiệc bàn thắng",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-bua-tiec-ban-thang-5008471.html",
+      "summary": "Sức mạnh tấn công giúp Barca thắng ngược chủ nhà Slavia Prague 4-2 ở lượt bảy ngày 21/1, nuôi hy vọng cán đích trong top 8 Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:21:17+07:00",
+      "fetched": "2026-01-22T08:28:18.549749+07:00"
+    },
+    {
+      "id": "d12074d2b8bbdb20515e91479e9ffcb4",
+      "title": "Barca ngược dòng trong bữa tiệc bàn thắng",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-bua-tiec-ban-thang-5008471.html",
+      "summary": "Sức mạnh tấn công giúp Barca thắng ngược chủ nhà Slavia Prague 4-2 ở lượt bảy ngày 21/1, nuôi hy vọng cán đích trong top 8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T00:21:17+07:00",
+      "fetched": "2026-01-22T08:28:29.700315+07:00"
+    },
+    {
+      "id": "2e47b4160ee97c09d9502d2914095591",
+      "title": "U.23 Việt Nam sẽ biết cách đứng dậy",
+      "link": "https://thanhnien.vn/u23-viet-nam-se-biet-cach-dung-day-185260121204946995.htm",
+      "summary": "Nỗi buồn thất bại ở bán kết là điều khó tránh khỏi, nhưng với những gì đã thể hiện suốt hành trình tại VCK U.23 châu Á 2026, người hâm mộ có quyền tin rằng đoàn quân của HLV Kim Sang-sik sẽ không gục ngã. Trận tranh hạng ba sắp tới không chỉ là trận đấu thủ tục, mà là bài kiểm tra bản lĩnh để U.23 V...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:21:00+07:00",
+      "fetched": "2026-01-22T08:28:22.090546+07:00"
+    },
+    {
+      "id": "a5335a3553fb3ffd80f2d8de4ca58bf7",
+      "title": "'Việt Nam tiếp tục là điểm sáng thu hút FDI'",
+      "link": "https://vnexpress.net/viet-nam-tiep-tuc-la-diem-sang-thu-hut-fdi-5008418.html",
+      "summary": "Việt Nam tiếp tục là điểm sáng, thuộc nhóm 15 quốc gia đang phát triển thu hút FDI lớn nhất thế giới, theo Bộ trưởng Tài chính Nguyễn Văn Thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:00:00+07:00",
+      "fetched": "2026-01-22T08:28:18.549910+07:00"
+    },
+    {
+      "id": "13915edfa55ec3c7dfba4b621e50ebdf",
+      "title": "Ba hành trình chơi Tết ở miền Bắc cho người thích vận động",
+      "link": "https://vnexpress.net/ba-hanh-trinh-choi-tet-o-mien-bac-cho-nguoi-thich-van-dong-5006790.html",
+      "summary": "Các trải nghiệm như trekking, đạp xe, chèo kayak, tắm khoáng nóng ở Trạm Tấu, Cát Bà hay Bình Liêu phù hợp cho cả gia đình trong kỳ nghỉ dịp đầu năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-22T00:00:00+07:00",
+      "fetched": "2026-01-22T08:28:18.550066+07:00"
+    },
+    {
+      "id": "a5335a3553fb3ffd80f2d8de4ca58bf7",
+      "title": "'Việt Nam tiếp tục là điểm sáng thu hút FDI'",
+      "link": "https://vnexpress.net/viet-nam-tiep-tuc-la-diem-sang-thu-hut-fdi-5008418.html",
+      "summary": "Việt Nam tiếp tục là điểm sáng, thuộc nhóm 15 quốc gia đang phát triển thu hút FDI lớn nhất thế giới, theo Bộ trưởng Tài chính Nguyễn Văn Thắng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-22T00:00:00+07:00",
+      "fetched": "2026-01-22T08:28:25.908359+07:00"
+    },
+    {
+      "id": "94d5a7d6e4099964802e24aa4794f4fb",
+      "title": "Musk tái khởi động dự án siêu máy tính Dojo 3",
+      "link": "https://vnexpress.net/musk-tai-khoi-dong-du-an-sieu-may-tinh-dojo-3-5008445.html",
+      "summary": "Tỷ phú Elon Musk thông báo Tesla đang đẩy mạnh dự án siêu máy tính Dojo 3, sử dụng hoàn toàn chip tự phát triển nhằm giảm sự phụ thuộc vào Nvidia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:56:49+07:00",
+      "fetched": "2026-01-22T08:28:18.550220+07:00"
+    },
+    {
+      "id": "94d5a7d6e4099964802e24aa4794f4fb",
+      "title": "Musk tái khởi động dự án siêu máy tính Dojo 3",
+      "link": "https://vnexpress.net/musk-tai-khoi-dong-du-an-sieu-may-tinh-dojo-3-5008445.html",
+      "summary": "Tỷ phú Elon Musk thông báo Tesla đang đẩy mạnh dự án siêu máy tính Dojo 3, sử dụng hoàn toàn chip tự phát triển nhằm giảm sự phụ thuộc vào Nvidia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-21T23:56:49+07:00",
+      "fetched": "2026-01-22T08:28:28.313695+07:00"
+    },
+    {
+      "id": "41a21c4175819df4f7c45bb7e9fb9d20",
+      "title": "39 thủ tục mới về an toàn bức xạ và hạt nhân",
+      "link": "https://vnexpress.net/39-thu-tuc-moi-ve-an-toan-buc-xa-va-hat-nhan-5008242.html",
+      "summary": "Bộ Khoa học và Công nghệ công bố 39 thủ tục hành chính mới trong lĩnh vực an toàn bức xạ và hạt nhân, đồng thời bỏ nhiều thủ tục cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:40:13+07:00",
+      "fetched": "2026-01-22T08:28:18.550381+07:00"
+    },
+    {
+      "id": "41a21c4175819df4f7c45bb7e9fb9d20",
+      "title": "39 thủ tục mới về an toàn bức xạ và hạt nhân",
+      "link": "https://vnexpress.net/39-thu-tuc-moi-ve-an-toan-buc-xa-va-hat-nhan-5008242.html",
+      "summary": "Bộ Khoa học và Công nghệ công bố 39 thủ tục hành chính mới trong lĩnh vực an toàn bức xạ và hạt nhân, đồng thời bỏ nhiều thủ tục cũ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-21T23:40:13+07:00",
+      "fetched": "2026-01-22T08:28:28.313877+07:00"
+    },
+    {
+      "id": "861660f8d401323758e6c0b53ad345c2",
+      "title": "Liverpool vượt ải Marseille",
+      "link": "https://vnexpress.net/liverpool-vuot-ai-marseille-5008470.html",
+      "summary": "Sau khi hòa bốn trận liền ở Ngoại hạng Anh, Liverpool tìm thấy sự giải thoát ở Champions League khi đánh bại Marseille 3-0, trong đó có bàn thắng từ sút phạt hàng rào đi chìm của Dominik Szoboszlai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:40:00+07:00",
+      "fetched": "2026-01-22T08:28:18.550534+07:00"
+    },
+    {
+      "id": "861660f8d401323758e6c0b53ad345c2",
+      "title": "Liverpool vượt ải Marseille",
+      "link": "https://vnexpress.net/liverpool-vuot-ai-marseille-5008470.html",
+      "summary": "Sau khi hòa bốn trận liền ở Ngoại hạng Anh, Liverpool tìm thấy sự giải thoát ở Champions League khi đánh bại Marseille 3-0, trong đó có bàn thắng từ sút phạt hàng rào đi chìm của Dominik Szoboszlai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T23:40:00+07:00",
+      "fetched": "2026-01-22T08:28:29.699823+07:00"
+    },
+    {
+      "id": "d1957e1d2c38594902ebd3b144550430",
+      "title": "Ông Trump tuyên bố cùng NATO định hình khuôn khổ thỏa thuận về Greenland",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-cung-nato-dinh-hinh-khuon-kho-thoa-thuan-ve-greenland-5008474.html",
+      "summary": "Tổng thống Trump thông báo đã cùng lãnh đạo NATO đạt được một khuôn khổ cho thỏa thuận về Greenland mà ông cảm thấy hài lòng, rút lại cảnh báo áp thuế với châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:30:56+07:00",
+      "fetched": "2026-01-22T08:28:18.550714+07:00"
+    },
+    {
+      "id": "d1957e1d2c38594902ebd3b144550430",
+      "title": "Ông Trump tuyên bố cùng NATO định hình khuôn khổ thỏa thuận về Greenland",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-cung-nato-dinh-hinh-khuon-kho-thoa-thuan-ve-greenland-5008474.html",
+      "summary": "Tổng thống Trump thông báo đã cùng lãnh đạo NATO đạt được một khuôn khổ cho thỏa thuận về Greenland mà ông cảm thấy hài lòng, rút lại cảnh báo áp thuế với châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-21T23:30:56+07:00",
+      "fetched": "2026-01-22T08:28:24.573007+07:00"
+    },
+    {
+      "id": "98fc5f4a0862b4fb6babbd51b8a44a82",
+      "title": "Chi hàng chục triệu 'săn' cành hoa mộc lan chơi Tết",
+      "link": "https://vnexpress.net/chi-hang-chuc-trieu-san-canh-hoa-moc-lan-choi-tet-5008385.html",
+      "summary": "Dù có giá từ vài triệu đến hàng chục triệu đồng mỗi cành, Mộc Lan vẫn được nhiều người săn lùng nhờ vẻ sang trọng và hương thơm đặc trưng , phù hợp dịp Tết Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:28:00+07:00",
+      "fetched": "2026-01-22T08:28:18.550870+07:00"
+    },
+    {
+      "id": "f44865f6a9f11a86a90cdf987e4ade56",
+      "title": "Suýt mất mạng vì giảm cân bằng chế độ ăn thuần trái cây",
+      "link": "https://vnexpress.net/suyt-mat-mang-vi-giam-can-bang-che-do-an-thuan-trai-cay-5007769.html",
+      "summary": "Người phụ nữ 40 tuổi nhập viện cấp cứu trong tình trạng nguy kịch, chỉ số đường huyết vọt lên mức 600 mg/dL do chế độ ăn kiêng cực đoan chỉ toàn hoa quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:20:24+07:00",
+      "fetched": "2026-01-22T08:28:18.551034+07:00"
+    },
+    {
+      "id": "47504314f713ccbc1359ae4ba0f41895",
+      "title": "Điểm tin 6h: Cục Thuế: Không căn cứ doanh thu 2026 để truy thu thuế khoán các năm trước | Châu Âu hoãn phê chuẩn thỏa thuận thương mại với Mỹ",
+      "link": "https://vnexpress.net/diem-tin-6h-cuc-thue-khong-can-cu-doanh-thu-2026-de-truy-thu-thue-khoan-cac-nam-truoc-chau-au-hoan-phe-chuan-thoa-thuan-thuong-mai-voi-my-5008479.html",
+      "summary": "Hơn 90.000 sản phẩm bất động sản phát triển quanh các trục hạ tầng lớn; Xuất khẩu máy vi tính, sản phẩm điện tử lần đầu vượt mốc 10 tỷ USD/tháng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:11:19+07:00",
+      "fetched": "2026-01-22T08:28:18.551195+07:00"
+    },
+    {
+      "id": "c09d651021f73a2dc09b89459609c84e",
+      "title": "Cồn cát nổi giữa biển Nha Trang thành điểm check-in mới",
+      "link": "https://vnexpress.net/con-cat-noi-giua-bien-nha-trang-thanh-diem-check-in-moi-5008239.html",
+      "summary": "Một dải cát dài hơn 100 m, rộng 50 m bất ngờ \"nổi\" giữa cửa biển Nha Trang, thu hút người dân đổ ra xem, chụp ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:06:08+07:00",
+      "fetched": "2026-01-22T08:28:18.551350+07:00"
+    },
+    {
+      "id": "21e1f74685bc5b1f8a680a87b8e7d1a4",
+      "title": "Người dân có bắt buộc đóng tiền rác 'tháng 13'?",
+      "link": "https://vnexpress.net/nguoi-dan-co-bat-buoc-dong-tien-rac-thang-13-5008403.html",
+      "summary": "Thầu rác vừa đến khu nhà tôi thu tiền cho cả năm, do tôi đi vắng nên gửi lại biên lai ghi thu một lần \"13 tháng\", tổng cộng 910.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:00:00+07:00",
+      "fetched": "2026-01-22T08:28:18.551503+07:00"
+    },
+    {
+      "id": "0a6e0a2de2dec1ae1c8b7aa99a3f997f",
+      "title": "Đỗ thủ khoa tiếng Anh toàn quốc nhờ viết hơn 200 bài luận",
+      "link": "https://vnexpress.net/bi-quyet-on-tap-cua-thu-khoa-hoc-sinh-gioi-tieng-anh-quoc-gia-nam-hoc-2025-2026-5008308.html",
+      "summary": "Từng tự ti vì không có xuất phát điểm nổi bật, Đoàn Thái Minh miệt mài học, viết hơn 200 bài luận trong một năm để \"lên tay\", đạt điểm cao nhất kỳ thi học sinh giỏi quốc gia môn tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-21T23:00:00+07:00",
+      "fetched": "2026-01-22T08:28:18.551678+07:00"
+    },
+    {
+      "id": "d736b8d196f9d4ecca95a901b9b4f9b5",
+      "title": "Kane đưa Bayern vào vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/kane-dua-bayern-vao-vong-1-8-champions-league-5008473.html",
+      "summary": "Harry Kane ghi cú đúp, hạ Union SG 2-0 ở lượt bảy vòng bảng Champions League ngày 21/1, qua đó giúp Bayern giành quyền đi tiếp sớm một lượt trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T22:49:04+07:00",
+      "fetched": "2026-01-22T08:28:29.700470+07:00"
+    },
+    {
+      "id": "69c47418ba4fee8f046662382aa7bd27",
+      "title": "Ronaldo ghi bàn thứ 960",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-thu-960-5008472.html",
+      "summary": "Cristiano Ronaldo giúp Al Nassr thắng Damac 2-1 ở vòng 16 Saudi Pro League tối 21/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-21T22:35:23+07:00",
+      "fetched": "2026-01-22T08:28:29.699995+07:00"
     },
     {
       "id": "f54b48821fb48bf6996330f350a5239f",
