@@ -1,7 +1,17 @@
 window.newsData_2026_01_23 = {
   "date": "2026-01-23",
-  "lastUpdated": "2026-01-23T10:40:02.294793+07:00",
+  "lastUpdated": "2026-01-23T11:40:08.947666+07:00",
   "articles": [
+    {
+      "id": "ddfd970e6dc1c0a41b3d03940d276f2e",
+      "title": "Tân Ủy viên Trung ương Nguyễn Thị Thanh Mai: Tập trung kiến tạo các mô hình triển khai khả thi",
+      "link": "https://tuoitre.vn/tan-uy-vien-trung-uong-nguyen-thi-thanh-mai-tap-trung-kien-tao-cac-mo-hinh-trien-khai-kha-thi-20260123090128412.htm",
+      "summary": "'Với cơ hội tham gia Ban Chấp hành Trung ương khóa XIV, tôi sẽ tập trung vào việc kiểm chứng, kiến tạo các mô hình triển khai khả thi, có thể đo lường, có thể nhân rộng', Giám đốc Đại học Quốc gia TP.HCM Nguyễn Thị Thanh Mai chia sẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T11:39:59.513513+07:00",
+      "fetched": "2026-01-23T11:39:59.513632+07:00"
+    },
     {
       "id": "b868c5a0da7e8f7ea5868ccef34de2ad",
       "title": "Lộ diện cổ đông lớn nhất sàn chứng khoán Việt Nam, đây mới là 'tay to' thực sự?",
@@ -233,6 +243,336 @@ window.newsData_2026_01_23 = {
       "fetched": "2026-01-23T05:19:59.807808+07:00"
     },
     {
+      "id": "9e4420db36a21e55060f71fa7e897611",
+      "title": "Chiều nay, Tổng Bí thư chủ trì họp báo quốc tế sau Đại hội XIV",
+      "link": "https://thanhnien.vn/chieu-nay-tong-bi-thu-chu-tri-hop-bao-quoc-te-sau-dai-hoi-xiv-185260123111233514.htm",
+      "summary": "Chiều nay 23.1, Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa XIV sẽ chủ trì họp báo quốc tế. Cuộc họp báo được tổ chức ngay sau khi bế mạc Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:37:00+07:00",
+      "fetched": "2026-01-23T11:39:58.341500+07:00"
+    },
+    {
+      "id": "76e297071908f50cff0f541d68a7e554",
+      "title": "Sự sống ngoài trái đất có thể phổ biến hơn nhiều so với vẫn tưởng",
+      "link": "https://thanhnien.vn/su-song-ngoai-trai-dat-co-the-pho-bien-hon-nhieu-so-voi-van-tuong-185260123103205458.htm",
+      "summary": "Sự sống ngoài trái đất có lẽ tồn tại ở những nơi kỳ lạ hơn hình dung thông thường, theo báo cáo được bình duyệt đăng trên chuyên san The Astrophysical Journal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:37:00+07:00",
+      "fetched": "2026-01-23T11:39:58.341671+07:00"
+    },
+    {
+      "id": "8abd0af2e9893fc3cce28a5b8cbfeaa0",
+      "title": "Mỹ đổi chính sách, lực lượng người Kurd thất thế ở Syria",
+      "link": "https://thanhnien.vn/my-doi-chinh-sach-luc-luong-nguoi-kurd-that-the-o-syria-185260123111044259.htm",
+      "summary": "Việc chính phủ Syria nhanh chóng giành lại lãnh thổ vốn do Lực lượng Dân chủ Syria (SDF) do người Kurd lãnh đạo nắm giữ đã làm thay đổi hoàn toàn cán cân quyền lực và làm nổi bật sự thay đổi trong chính sách của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:34:00+07:00",
+      "fetched": "2026-01-23T11:39:58.341832+07:00"
+    },
+    {
+      "id": "3ff76708154168fbd11efeff6939f87f",
+      "title": "Bác sĩ lý giải vì sao ngủ ngày vẫn không thể bù lại thời gian thức đêm?",
+      "link": "https://thanhnien.vn/bac-si-ly-giai-vi-sao-ngu-ngay-van-khong-the-bu-lai-thoi-gian-thuc-dem-185260123093427624.htm",
+      "summary": "Ngủ ngày, thức đêm không chỉ là một thói quen xấu, mà là yếu tố gây rối loạn sâu sắc sự cân bằng âm dương và chức năng tạng phủ theo y học cổ truyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:31:00+07:00",
+      "fetched": "2026-01-23T11:39:58.341986+07:00"
+    },
+    {
+      "id": "c696d1b4a3a956ba11197378381786fa",
+      "title": "Giải pháp kiểm soát cholesterol xấu cho bệnh nhân tim mạch",
+      "link": "https://vnexpress.net/giai-phap-kiem-soat-cholesterol-xau-cho-benh-nhan-tim-mach-5009074.html",
+      "summary": "Hội nghị khoa học về kiểm soát LDL-C (cholesterol xấu) do Hội Tim mạch học Việt Nam tổ chức thu hút hơn 200 chuyên gia, cập nhật giải pháp điều trị sớm, bền vững cho bệnh nhân tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:30:00+07:00",
+      "fetched": "2026-01-23T11:39:54.902719+07:00"
+    },
+    {
+      "id": "be735ff2a7f9e9344179e3ff68b2e91f",
+      "title": "Mặc cảm, lo âu vì mắc viêm gan B",
+      "link": "https://vnexpress.net/mac-cam-lo-au-vi-mac-viem-gan-b-5009060.html",
+      "summary": "Thanh, 26 tuổi, sợ lây virus gây viêm gan B cho đồng nghiệp, tự tìm một góc khuất để ăn trưa một mình, tránh tiếp xúc quá gần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:30:00+07:00",
+      "fetched": "2026-01-23T11:39:54.902896+07:00"
+    },
+    {
+      "id": "2b241b9a6f04d4142355f67f68535f02",
+      "title": "VPBank giới thiệu gói giải pháp tài chính cho cả gia đình",
+      "link": "https://vnexpress.net/vpbank-gioi-thieu-goi-giai-phap-tai-chinh-cho-ca-gia-dinh-5009045.html",
+      "summary": "VPBank triển khai gói dịch vụ tài chính cho cả gia đình - Prime Family Banking, nhằm giúp các gia đình trẻ quản lý tài chính, đồng thời tận hưởng hệ sinh thái ưu đãi cộng gộp tối ưu nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:30:00+07:00",
+      "fetched": "2026-01-23T11:39:54.903065+07:00"
+    },
+    {
+      "id": "b65fbd9908efc0451a4ef49932130a83",
+      "title": "Thức khuya hại mạch máu não thế nào",
+      "link": "https://vnexpress.net/thuc-khuya-hai-mach-mau-nao-the-nao-5008952.html",
+      "summary": "Thường xuyên thức muộn, ngủ không đủ giấc làm rối loạn nhịp sinh học, gây tổn thương nội mạc mạch máu não, có thể làm tăng nguy cơ đột quỵ, sa sút trí tuệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:30:00+07:00",
+      "fetched": "2026-01-23T11:39:54.903233+07:00"
+    },
+    {
+      "id": "96b2ec7e2685df4956cff1851d059067",
+      "title": "Cùng đồng hành, cùng bình yên em nhé",
+      "link": "https://vnexpress.net/cung-dong-hanh-cung-binh-yen-em-nhe-5009018.html",
+      "summary": "Anh thấy vui và hạnh phúc khi người mình thương cũng vui và hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:29:17+07:00",
+      "fetched": "2026-01-23T11:39:54.903338+07:00"
+    },
+    {
+      "id": "b1270fe7acefec32c5296e856afdb09a",
+      "title": "Vợ bỏ về ngoại sau mỗi lần mâu thuẫn với tôi",
+      "link": "https://vnexpress.net/vo-len-lut-hen-ho-nguoi-khac-nhung-lai-doi-ly-hon-va-mang-toi-ich-ky-vi-lo-doc-tin-nhan-5008986.html",
+      "summary": "Tôi vô tình biết vợ hẹn đi riêng với người đàn ông khác, nói cho vợ hiểu mà em lại bỏ về nhà ngoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:26:16+07:00",
+      "fetched": "2026-01-23T11:39:54.903518+07:00"
+    },
+    {
+      "id": "1b39d238d52636a99e2c8cee5f40dd25",
+      "title": "Đội hình chiến hạm Mỹ triển khai gần Iran",
+      "link": "https://vnexpress.net/doi-hinh-chien-ham-my-trien-khai-gan-iran-5009049.html",
+      "summary": "\"Hạm đội lớn đang hướng đến Iran\" mà ông Trump đề cập dường như gồm một nhóm tác chiến tàu sân bay và nhiều chiến hạm mang tên lửa Tomahawk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:25:53+07:00",
+      "fetched": "2026-01-23T11:39:54.903675+07:00"
+    },
+    {
+      "id": "2a4026f0bf116aa5ac8121968c860aaa",
+      "title": "Chàng trai bốc vác quỳ gối cầu hôn bạn gái bán rau, cả chợ Bình Điền chúc mừng",
+      "link": "https://thanhnien.vn/chang-trai-boc-vac-quy-goi-cau-hon-ban-gai-ban-rau-ca-cho-binh-dien-chuc-mung-185260113102300271.htm",
+      "summary": "Đoạn clip chàng trai cầm nhẫn và bó hoa quỳ xuống cầu hôn bạn gái cùng làm việc ở chợ Bình Điền khiến ai cũng mỉm cười. Khoảnh khắc giản dị này cũng nhận 'mưa tim' trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:25:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342145+07:00"
+    },
+    {
+      "id": "796e27617eeabbd84422520f54157d91",
+      "title": "Bác sĩ ơi: Sai lầm chữa trị nào khiến bệnh vảy nến trở nên trầm trọng hơn?",
+      "link": "https://thanhnien.vn/bac-si-oi-sai-lam-chua-tri-nao-khien-benh-vay-nen-tro-nen-tram-trong-hon-185260123085148907.htm",
+      "summary": "Vảy nến là bệnh da mạn tính, dễ tái phát và chịu nhiều tác động từ cách điều trị hằng ngày của người bệnh. Tuy nhiên, không ít trường hợp bệnh trở nên nặng hơn không phải do bản thân bệnh, mà xuất phát từ những sai lầm trong quá trình chữa trị như tự ý dùng thuốc, ngưng điều trị sớm hay tin theo các...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:24:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342300+07:00"
+    },
+    {
+      "id": "170746ec71bfbece9209a067cdba05a2",
+      "title": "Khách Việt chọn Đà Lạt nhiều nhất dịp Tết Nguyên Đán",
+      "link": "https://vnexpress.net/khach-viet-chon-da-lat-nhieu-nhat-dip-tet-nguyen-dan-5008999.html",
+      "summary": "Phú Quốc trở thành điểm đến được khách Việt \"mê\" nhất dịp cận Tết còn Đà Lạt được khách Việt chọn du xuân đúng dịp Tết Nguyên đán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:20:45+07:00",
+      "fetched": "2026-01-23T11:39:54.903828+07:00"
+    },
+    {
+      "id": "14313852373e90111e7166753bea1596",
+      "title": "Đề xuất luật sư mặc áo choàng thay vì áo vest khi tham dự phiên tòa",
+      "link": "https://thanhnien.vn/de-xuat-luat-su-mac-ao-choang-thay-vi-ao-vest-khi-tham-du-phien-toa-185260123105013337.htm",
+      "summary": "Trang phục của luật sư khi tham gia phiên tòa được dự kiến chuyển từ đồng phục áo vest sang áo choàng, nhằm tăng nhận diện nghề nghiệp, tính tôn nghiêm và tương thích quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:17:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342494+07:00"
+    },
+    {
+      "id": "f1e0a47776d76e18e72105fa34d8ecd5",
+      "title": "'Sợ kiệt sức thì đừng lái xe ra đường, kể cả có bằng'",
+      "link": "https://vnexpress.net/so-kiet-suc-thi-dung-lai-xe-ra-duong-ke-ca-co-bang-5008962.html",
+      "summary": "Nếu thấy quá mệt mỏi từ khi học và thi thì tốt nhất đừng lái xe ra đường cho xã hội được yên bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:16:45+07:00",
+      "fetched": "2026-01-23T11:39:54.903980+07:00"
+    },
+    {
+      "id": "8df45ca08b75fdb516fc294adf6aee04",
+      "title": "Dải băng giá khổng lồ sắp quét qua nước Mỹ",
+      "link": "https://vnexpress.net/dai-bang-gia-khong-lo-sap-quet-qua-nuoc-my-5009005.html",
+      "summary": "Bản đồ dự báo cho thấy bão mùa đông giống chiếc lưỡi khổng lồ sắp quét từ tây nam sang phía đông nước Mỹ, kéo theo băng tuyết, giá rét cực đoan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:10:46+07:00",
+      "fetched": "2026-01-23T11:39:54.904142+07:00"
+    },
+    {
+      "id": "8df45ca08b75fdb516fc294adf6aee04",
+      "title": "Dải băng giá khổng lồ sắp quét qua nước Mỹ",
+      "link": "https://vnexpress.net/dai-bang-gia-khong-lo-sap-quet-qua-nuoc-my-5009005.html",
+      "summary": "Bản đồ dự báo cho thấy bão mùa đông giống chiếc lưỡi khổng lồ sắp quét từ tây nam sang phía đông nước Mỹ, kéo theo băng tuyết, giá rét cực đoan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T04:10:46+07:00",
+      "fetched": "2026-01-23T11:40:01.371466+07:00"
+    },
+    {
+      "id": "b66031d8d9cbacd5f420832779af2699",
+      "title": "Việt Nam - Hàn Quốc: Trận chiến vì danh dự ở U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-han-quoc-tran-chien-vi-danh-du-o-u23-chau-a-5009048.html",
+      "summary": "Trận tranh HC đồng hôm nay là cơ hội để Việt Nam và Hàn Quốc chữa lành, sau thất bại ở bán kết U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:10:38+07:00",
+      "fetched": "2026-01-23T11:39:54.904298+07:00"
+    },
+    {
+      "id": "9ba271b36be4610a03ac951b326775ab",
+      "title": "Cầu thủ nhí Việt Nam được tiếp cận với bóng đá Đức",
+      "link": "https://thanhnien.vn/cau-thu-nhi-viet-nam-duoc-tiep-can-voi-bong-da-duc-185260123105339205.htm",
+      "summary": "Sau gần 4 năm đưa bóng đá Đức đến với Việt Nam, CLB VfL Bochum tiếp tục khẳng định dấu ấn bền bỉ thông qua chương trình Phát triển bóng đá - dự án đã giúp hơn 2.000 'cầu thủ nhí' tại TP.HCM được tiếp cận môi trường huấn luyện chuyên nghiệp, đồng thời góp phần nâng cao chất lượng đào tạo cho đội ngũ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:10:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342662+07:00"
+    },
+    {
+      "id": "8720d26d07b7df149adc8274c84e6548",
+      "title": "Kiwi Trung Quốc bán trong siêu thị với giá 'siêu rẻ'",
+      "link": "https://vnexpress.net/kiwi-trung-quoc-ban-trong-sieu-thi-voi-gia-sieu-re-5008755.html",
+      "summary": "Các siêu thị đang bán kiwi Trung Quốc với giá 80.000-120.000 đồng mỗi kg, thấp kỷ lục, phần nào phá vỡ thế áp đảo của hàng New Zealand và Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:07:23+07:00",
+      "fetched": "2026-01-23T11:39:54.904469+07:00"
+    },
+    {
+      "id": "8720d26d07b7df149adc8274c84e6548",
+      "title": "Kiwi Trung Quốc bán trong siêu thị với giá 'siêu rẻ'",
+      "link": "https://vnexpress.net/kiwi-trung-quoc-ban-trong-sieu-thi-voi-gia-sieu-re-5008755.html",
+      "summary": "Các siêu thị đang bán kiwi Trung Quốc với giá 80.000-120.000 đồng mỗi kg, thấp kỷ lục, phần nào phá vỡ thế áp đảo của hàng New Zealand và Pháp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-23T04:07:23+07:00",
+      "fetched": "2026-01-23T11:40:03.126053+07:00"
+    },
+    {
+      "id": "e7f04fd29d7f773be4e7227dbb514fc1",
+      "title": "Xem nhanh 12h: Hôm nay, Hội nghị Trung ương lần thứ nhất bầu Tổng Bí thư, Bộ Chính trị",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-hom-nay-hoi-nghi-trung-uong-lan-thu-nhat-bau-tong-bi-thu-bo-chinh-tri-185260123110819366.htm",
+      "summary": "Đại hội XIV; Zalo, TikTok bị phạt; tin tức thời tiết… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 23.1.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:03:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342814+07:00"
+    },
+    {
+      "id": "690b7de2cbff9b2f2c54b44a1a1515dc",
+      "title": "Đại diện FPT Schools đạt thành tích cao tại kỳ thi học sinh giỏi quốc gia",
+      "link": "https://vnexpress.net/dai-dien-fpt-schools-dat-thanh-tich-cao-tai-ky-thi-hoc-sinh-gioi-quoc-gia-5009052.html",
+      "summary": "Ba học sinh FPT Schools đạt giải Nhì, Ba, Khuyến khích môn Tin học trong kỳ thi chọn học sinh giỏi Quốc gia THPT năm học 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:00:00+07:00",
+      "fetched": "2026-01-23T11:39:54.904636+07:00"
+    },
+    {
+      "id": "72b8f1c2dc7dc3c530297cbcf926e32c",
+      "title": "Vertu Việt Nam tổ chức Private Showcase cho 5 khách đặc biệt",
+      "link": "https://vnexpress.net/vertu-viet-nam-to-chuc-private-showcase-cho-5-khach-dac-biet-5008958.html",
+      "summary": "Sự kiện của Vertu Việt Nam có 5 khách mời đại diện cho các lĩnh vực khác nhau, giới thiệu mẫu Vertu Agent Q phiên bản giới hạn, giá hơn 1 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:00:00+07:00",
+      "fetched": "2026-01-23T11:39:54.904793+07:00"
+    },
+    {
+      "id": "e0b8b090fee370cd6b228f254b1ff352",
+      "title": "Vì sao nước vào tai gây nấm?",
+      "link": "https://vnexpress.net/vi-sao-nuoc-vao-tai-gay-nam-5008929.html",
+      "summary": "Tôi bị nấm tai, có thể do nước vào tai thường xuyên. Vì sao, điều trị thế nào? (Thu Trang, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T04:00:00+07:00",
+      "fetched": "2026-01-23T11:39:54.904946+07:00"
+    },
+    {
+      "id": "66487e3f7725f71ffa202cc6759ecd28",
+      "title": "Nhà báo Hàn Quốc: ‘U.23 Việt Nam chơi rất kỷ luật, chúng ta sẽ phải trả giá nếu…’",
+      "link": "https://thanhnien.vn/nha-bao-han-quoc-u23-viet-nam-la-tam-guong-soi-ro-diem-yeu-cua-chung-ta-185260122225204854.htm",
+      "summary": "Truyền thông Hàn Quốc đang dồn sự chú ý đặc biệt vào trận tranh hạng ba U.23 châu Á 2026 giữa U.23 Hàn Quốc và U.23 Việt Nam (22 giờ ngày 23.1), coi đây là trận đấu quan trọng đối với thầy trò HLV Lee Min-sung sau cú ngã trước Nhật Bản ở bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:59:00+07:00",
+      "fetched": "2026-01-23T11:39:58.342963+07:00"
+    },
+    {
+      "id": "e49ffd3204fb71a2ae2bba85ac76ab6b",
+      "title": "Windows 11 dính lỗi nghiêm trọng khiến hàng loạt ứng dụng tê liệt",
+      "link": "https://thanhnien.vn/windows-11-dinh-loi-nghiem-trong-khien-hang-loat-ung-dung-te-liet-18526012309541813.htm",
+      "summary": "Windows 11 lại khiến người dùng đau đầu với lỗi hệ thống mới, cập nhật xong... hư luôn máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:56:00+07:00",
+      "fetched": "2026-01-23T11:39:58.343110+07:00"
+    },
+    {
+      "id": "7e212bbae8d7941691053203c75d546b",
+      "title": "Quán ăn có tiếng ở TP.HCM 'nói lời tạm biệt' trước tết: Sự thật bất ngờ",
+      "link": "https://thanhnien.vn/quan-an-co-tieng-o-tphcm-noi-loi-tam-biet-truoc-tet-su-that-bat-ngo-185260120104348477.htm",
+      "summary": "Trước thềm Tết Nguyên đán 2026, mạng xã hội chia sẻ clip chi nhánh một quán ăn ở TP.HCM nói lời tạm biệt với tên thương hiệu đã gắn bó hơn 1 thập kỷ khiến nhiều thực khách tiếc nuối. Tuy nhiên, anh chủ chia sẻ sự thật bất ngờ khi nhiều khách hiểu lầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:51:00+07:00",
+      "fetched": "2026-01-23T11:39:58.343256+07:00"
+    },
+    {
+      "id": "aa7197b94d42c0ae7a1218eb1460da53",
+      "title": "Giá vàng miếng vượt 173 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-vuot-173-trieu-dong-5009012.html",
+      "summary": "Giá vàng và bạc miếng trong nước sáng nay cùng tăng mạnh, tiếp tục xác lập kỷ lục mới lần lượt hơn 173 triệu và 3,85 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-23T03:42:35+07:00",
+      "fetched": "2026-01-23T11:40:03.126226+07:00"
+    },
+    {
+      "id": "b27c8a58a496029e4d5f985f69c2e0c8",
+      "title": "Muốn không ra về tay trắng, U.23 Việt Nam phải hóa giải sức mạnh đặc biệt của người Hàn: Đó là…",
+      "link": "https://thanhnien.vn/muon-khong-ra-ve-tay-trang-u23-viet-nam-phai-hoa-giai-suc-manh-dac-biet-cua-nguoi-han-do-la-185260123102838927.htm",
+      "summary": "Mất đi hai 'cột tháp' hàng thủ, U.23 Việt Nam đối mặt thử thách cực đại từ những pha không chiến của U.23 Hàn Quốc trong trận tranh hạng ba diễn ra vào lúc 22 giờ hôm nay (23.1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:41:00+07:00",
+      "fetched": "2026-01-23T11:39:58.343447+07:00"
+    },
+    {
+      "id": "25d1f7efefaa70a3dc34c3de519ff116",
+      "title": "Cảnh báo: Bổ sung collagen sai thời điểm, da không căng trẻ mà còn lão hóa nhanh",
+      "link": "https://thanhnien.vn/canh-bao-bo-sung-collagen-sai-thoi-diem-da-khong-cang-tre-ma-con-lao-hoa-nhanh-185260123105343167.htm",
+      "summary": "Collagen được ví như 'thanh xuân' của làn da, nhưng không phải cứ bổ sung là trẻ. Thực tế, rất nhiều chị em đang bổ sung collagen sai thời điểm, sai cách khiến da không những không căng mịn mà còn lão hóa nhanh hơn. Khi hiểu đúng lúc da cần collagen và bổ sung đúng, việc trẻ hóa làn da mới thực sự h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:40:00+07:00",
+      "fetched": "2026-01-23T11:39:58.343640+07:00"
+    },
+    {
+      "id": "19ddaafeed379bf11c278f45b2e67316",
+      "title": "Việt Nam dự lễ ký Hiến chương Hội đồng Hòa bình",
+      "link": "https://vnexpress.net/viet-nam-du-le-ky-hien-chuong-hoi-dong-hoa-binh-5008994.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn dẫn đầu đoàn đại biểu Việt Nam dự lễ ký Hiến chương Hội đồng Hòa bình về chấm dứt xung đột Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T03:38:45+07:00",
+      "fetched": "2026-01-23T11:40:01.371641+07:00"
+    },
+    {
       "id": "09286f7088eb5320431998302f79fed2",
       "title": "TikTok ‘thoát cửa tử’ tại Mỹ nhờ thỏa thuận liên doanh phút chót",
       "link": "https://thanhnien.vn/tiktok-thoat-cua-tu-tai-my-nho-thoa-thuan-lien-doanh-phut-chot-185260123094108965.htm",
@@ -241,6 +581,16 @@ window.newsData_2026_01_23 = {
       "category": "Tổng hợp",
       "published": "2026-01-23T03:36:00+07:00",
       "fetched": "2026-01-23T10:39:54.463311+07:00"
+    },
+    {
+      "id": "b462ba4df3603acdb79f168c05bf867f",
+      "title": "Ông Trump rút lời mời Thủ tướng Canada tham gia Hội đồng Hòa bình",
+      "link": "https://vnexpress.net/ong-trump-rut-loi-moi-thu-tuong-canada-tham-gia-hoi-dong-hoa-binh-5008966.html",
+      "summary": "Ông Trump rút lại lời mời Thủ tướng Canada Carney tham gia Hội đồng Hòa bình, sau những phát biểu đáp trả qua lại gần đây giữa hai lãnh đạo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T03:30:54+07:00",
+      "fetched": "2026-01-23T11:40:01.371859+07:00"
     },
     {
       "id": "75303a82c261a0b0247bb6767fed7cd3",
@@ -271,6 +621,16 @@ window.newsData_2026_01_23 = {
       "category": "Tổng hợp",
       "published": "2026-01-23T03:12:00+07:00",
       "fetched": "2026-01-23T10:39:54.463644+07:00"
+    },
+    {
+      "id": "1e9716fe16d5adb3629d30d479336eb4",
+      "title": "Ukraine hoàn tất 'văn kiện về bảo đảm an ninh' với Mỹ",
+      "link": "https://vnexpress.net/ukraine-hoan-tat-van-kien-ve-bao-dam-an-ninh-voi-my-5008949.html",
+      "summary": "Tổng thống Zelensky cho biết đã hoàn tất văn kiện về gói bảo đảm an ninh của Mỹ, mở đường cho những thỏa thuận nhằm chấm dứt xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T03:11:21+07:00",
+      "fetched": "2026-01-23T11:40:01.372119+07:00"
     },
     {
       "id": "5b1bd6dd7466821791365e73ca8ef658",
