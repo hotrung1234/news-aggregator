@@ -1,7 +1,57 @@
 window.newsData_2026_01_24 = {
   "date": "2026-01-24",
-  "lastUpdated": "2026-01-24T03:22:39.098045+07:00",
+  "lastUpdated": "2026-01-24T05:16:28.663764+07:00",
   "articles": [
+    {
+      "id": "29f0f98476af383d682a7cc0f82935d0",
+      "title": "Giới trẻ Hà Nội 'đi bão' mừng U23 Việt Nam thắng Hàn Quốc giữa trời lạnh rét",
+      "link": "https://tuoitre.vn/gioi-tre-ha-noi-di-bao-mung-u23-viet-nam-thang-han-quoc-giua-troi-lanh-ret-20260124022014436.htm",
+      "summary": "Sau chiến thắng nghẹt thở, kịch tính của U23 Việt Nam trước U23 Hàn Quốc, ghi nhận của Tuổi Trẻ Online thời điểm 2h sáng ngày 24-1, hàng ngàn người hâm mộ vẫn đổ ra đường hòa cùng niềm vui chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T05:16:22.484723+07:00",
+      "fetched": "2026-01-24T05:16:22.484820+07:00"
+    },
+    {
+      "id": "38a09dda631570092db72f20f2dbceaf",
+      "title": "Cổ động viên Đông Nam Á khâm phục tinh thần chiến đấu của U23 Việt Nam",
+      "link": "https://tuoitre.vn/co-dong-vien-dong-nam-a-kham-phuc-tinh-than-chien-dau-cua-u23-viet-nam-20260124013329702.htm",
+      "summary": "Thi đấu thiếu người hơn 30 phút, nhưng U23 Việt Nam đã thi đấu kiên cường và giành chiến thắng U23 Hàn Quốc 7-6 sau loạt luân lưu căng thẳng. Cổ động viên Đông Nam Á cảm thấy khâm phục tinh thần chiến đấu của các “chiến binh sao vàng”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T05:16:22.484614+07:00",
+      "fetched": "2026-01-24T05:16:22.484714+07:00"
+    },
+    {
+      "id": "50374a598eef3a82a4261193df5f033b",
+      "title": "Thủ môn Cao Văn Bình: 'Tôi nhìn mắt cầu thủ Hàn Quốc rồi cản penalty'",
+      "link": "https://tuoitre.vn/thu-mon-cao-van-binh-toi-nhin-mat-cau-thu-han-quoc-roi-can-penalty-20260124022016671.htm",
+      "summary": "Người hùng Cao Văn Bình tiết lộ bí mật ở cú cản penalty quyết định trong loạt luân lưu giúp U23 Việt Nam thắng U23 Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T05:16:22.484502+07:00",
+      "fetched": "2026-01-24T05:16:22.484604+07:00"
+    },
+    {
+      "id": "6e8472637d44359064115da7bdce3d8a",
+      "title": "U23 Việt Nam phá kỷ lục của lứa Thường Châu 2018",
+      "link": "https://tuoitre.vn/u23-viet-nam-pha-ky-luc-cua-lua-thuong-chau-2018-20260124020246839.htm",
+      "summary": "Chiến thắng trước U23 Hàn Quốc giúp lứa U23 của HLV Kim Sang Sik thiết lập kỷ lục về số bàn thắng ở giải đấu châu lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T05:16:22.484380+07:00",
+      "fetched": "2026-01-24T05:16:22.484491+07:00"
+    },
+    {
+      "id": "beef08721fd5a324910d9b6b09c5407d",
+      "title": "Thủ môn dự bị của U23 Việt Nam nhận vinh dự đặc biệt sau trận thắng Hàn Quốc",
+      "link": "https://tuoitre.vn/thu-mon-du-bi-cua-u23-viet-nam-nhan-vinh-du-dac-biet-sau-tran-thang-han-quoc-20260124025833048.htm",
+      "summary": "Ở lần đầu tiên được trao cơ hội, thủ môn Cao Văn Bình đã góp công lớn giúp U23 Việt Nam giành chiến thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T05:16:22.484144+07:00",
+      "fetched": "2026-01-24T05:16:22.484366+07:00"
+    },
     {
       "id": "5c47319794cdba40c5f8e5a92c4dcb42",
       "title": "Nhận thẻ đỏ, Đình Bắc không thể khoác áo tuyển Việt Nam đấu Malaysia",
@@ -251,6 +301,196 @@ window.newsData_2026_01_24 = {
       "category": "Tổng hợp",
       "published": "2026-01-24T01:29:33.210585+07:00",
       "fetched": "2026-01-24T01:29:33.210754+07:00"
+    },
+    {
+      "id": "f574de47b992e146c8cb12c2211922b7",
+      "title": "Tử vi ngày 24 tháng 1: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-24-thang-1-con-giap-nao-may-man-hom-nay-18526012318521182.htm",
+      "summary": "Tử vi ngày 24 tháng 1 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:15:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568315+07:00"
+    },
+    {
+      "id": "9cb737c94b9a776ca2b73e742609e4f5",
+      "title": "Sinh viên tranh thủ bán kèn cho người 'đi bão': ‘Vừa kiếm thu nhập vừa chung vui với U.23 Việt Nam’",
+      "link": "https://thanhnien.vn/sinh-vien-tranh-thu-ban-ken-cho-nguoi-di-bao-vua-kiem-thu-nhap-vua-chung-vui-voi-u23-viet-nam-185260124031646335.htm",
+      "summary": "Không chỉ người hâm mộ hòa vào niềm vui chiến thắng của U.23 Việt Nam, nhiều tiểu thương bán cờ, kèn tại TP.HCM cũng tất bật suốt đêm, kịp thời phục vụ dòng người \"đi bão\" mừng HCĐ châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:09:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568464+07:00"
+    },
+    {
+      "id": "637ce43e0e5de6e1e1dbda79dc1c6c6c",
+      "title": "Báo chí Hàn Quốc thừa nhận HLV Kim Sang-sik thắng cuộc đấu trí với HLV Lee Min-sung",
+      "link": "https://thanhnien.vn/bao-chi-han-quoc-thua-nhan-hlv-kim-sang-sik-thang-cuoc-dau-tri-voi-hlv-lee-min-sung-185260124033624524.htm",
+      "summary": "Sau trận tranh hạng ba VCK U.23 châu Á 2026, truyền thông Hàn Quốc không chỉ nhìn lại thất bại của U.23 Hàn Quốc mà còn tập trung phân tích cuộc đấu trí giữa hai HLV Kim Sang-sik và Lee Min-sung, trong đó dấu ấn chiến thuật của nhà cầm quân U.23 Việt Nam được thừa nhận rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:08:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568598+07:00"
+    },
+    {
+      "id": "29627a4c725411f3efff26f6c2803d41",
+      "title": "Kim Sang-sik tri ân U.23 Việt Nam sau chiến thắng, Cao Văn Bình là cầu thủ xuất sắc nhất trận",
+      "link": "https://thanhnien.vn/kim-sang-sik-tri-an-u23-viet-nam-sau-chien-thang-cao-van-binh-la-cau-thu-xuat-sac-nhat-tran-18526012404132529.htm",
+      "summary": "Sau chiến thắng nghẹt thở trước U.23 Hàn Quốc tại VCK U.23 châu Á 2026, HLV Kim Sang-sik dành nhiều lời tri ân cho các học trò, người hâm mộ và thể hiện sự cảm phục trước tinh thần chiến đấu của U.23 Việt Nam, trong khi HLV Lee Min-sung không giấu được sự tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:07:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568730+07:00"
+    },
+    {
+      "id": "491940052ed0dbc90b214140d59d4678",
+      "title": "Đối thoại 3 bên về Ukraine",
+      "link": "https://thanhnien.vn/doi-thoai-3-ben-ve-ukraine-185260123184439466.htm",
+      "summary": "Trong ngày 23.1, phái đoàn quan chức Mỹ, Nga và Ukraine gặp nhau tại Abu Dhabi (UAE) nhằm giải quyết những rào cản then chốt đối với thỏa thuận chấm dứt chiến sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568861+07:00"
+    },
+    {
+      "id": "d1aa0ae6352680e8d820368bbf8d343b",
+      "title": "Căng thẳng Mỹ - Iran lại leo thang",
+      "link": "https://thanhnien.vn/cang-thang-my-iran-lai-leo-thang-185260123184329203.htm",
+      "summary": "Hôm qua (giờ VN), Tổng thống Donald Trump tuyên bố hạm đội Mỹ đang trên đường đến vùng Vịnh, trong khi quân đội Iran khẳng định luôn trong trạng thái sẵn sàng chiến đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.568992+07:00"
+    },
+    {
+      "id": "0eecc8ab78d34c3826b4dfe881df681d",
+      "title": "Ô tô đỗ trước cửa, chủ nhà có quyền đuổi, đặt biển cấm?",
+      "link": "https://thanhnien.vn/o-to-do-truoc-cua-chu-nha-co-quyen-duoi-dat-bien-cam-185260123152614877.htm",
+      "summary": "Nhiều chủ nhà tự ý đặt biển cấm đỗ, có trường hợp thì xua đuổi, chửi bới tài xế, thậm chí phá hoại phương tiện khi ô tô dừng đỗ trước cửa nhà hoặc cửa hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569119+07:00"
+    },
+    {
+      "id": "d38918fa406c48c75019a418a7749979",
+      "title": "Đường huyết tăng nhẹ nhưng kéo dài nguy hiểm ra sao?",
+      "link": "https://thanhnien.vn/duong-huyet-tang-nhe-nhung-keo-dai-nguy-hiem-ra-sao-185260123130544908.htm",
+      "summary": "Đường huyết tăng nhẹ nhưng kéo dài thường không gây ra những triệu chứng rõ rệt như khát nước nhiều hay sụt cân. Tuy nhiên, tình trạng này lại âm thầm gây tổn thương mạch máu và nhiều cơ quan quan trọng. Trên thực tế, đây chính là giai đoạn tiền tiểu đường, giai đoạn “cảnh báo sớm” nhưng dễ bị bỏ qu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T22:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569262+07:00"
+    },
+    {
+      "id": "656802512050e7073e0f7b565375e738",
+      "title": "Thỏa thuận Greenland của ông Trump có thể là 'bình mới rượu cũ'",
+      "link": "https://vnexpress.net/thoa-thuan-greenland-cua-ong-trump-co-the-la-binh-moi-ruou-cu-5008917.html",
+      "summary": "Dù ông Trump tuyên bố đạt được \"khuôn khổ thỏa thuận\" về Greenland, đây có thể chỉ là bản cập nhật hiệp ước từ năm 1951 mà Mỹ đã nắm nhiều đặc quyền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T22:00:00+07:00",
+      "fetched": "2026-01-24T05:16:23.896576+07:00"
+    },
+    {
+      "id": "e2d36869b93dc84387dcc6203792a444",
+      "title": "Chiến sự Ukraine ngày 1.250: Đàm phán ba bên ở UAE",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1250-dam-phan-ba-ben-o-uae-185260123210552511.htm",
+      "summary": "Ukraine và Nga cho biết sẽ thảo luận về vấn đề lãnh thổ trong cuộc đàm phán trực tiếp với Mỹ ở Abu Dhabi (UAE), nhưng chưa có dấu hiệu nào cho thấy hai bên sẽ nới lỏng lập trường để tiến tới kết thúc cuộc chiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:31:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569395+07:00"
+    },
+    {
+      "id": "547257fd753a72c28acaf7867fb0da0b",
+      "title": "Cú cứu thua của Văn Bình giúp Việt Nam giành giải ba U23 châu Á",
+      "link": "https://vnexpress.net/cu-cuu-thua-cua-van-binh-giup-viet-nam-gianh-giai-ba-u23-chau-a-5009356.html",
+      "summary": "Cản phá thành công lượt sút thứ bảy của U23 Hàn Quốc, thủ môn Cao Văn Bình giúp U23 Việt Nam thắng 7-6 ở loạt luân lưu, giành hạng ba U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:30:21+07:00",
+      "fetched": "2026-01-24T05:16:18.419720+07:00"
+    },
+    {
+      "id": "785cf320ef91f67010d5691fed935fdd",
+      "title": "Nhân viên cũ lấy trộm hơn 20 ôtô của đại lý",
+      "link": "https://vnexpress.net/nhan-vien-cu-lay-trom-hon-20-oto-cua-dai-ly-5009001.html",
+      "summary": "Một cựu nhân viên của một đại lý ôtô ở Moskva lấy đi 26 chiếc xe trong vòng 6 tháng trước khi bị phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:18.419876+07:00"
+    },
+    {
+      "id": "e98d6eebdcbc27fafe463e38d43645c2",
+      "title": "'Công chúa tuyết' Eileen Gu tiếp tục chọn Trung Quốc, ngó lơ Mỹ",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-tiep-tuc-chon-trung-quoc-ngo-lo-my-5009305.html",
+      "summary": "VĐV trượt tuyết 22 tuổi Eileen Gu xác nhận tiếp tục thi đấu cho Trung Quốc tại Olympic Mùa đông 2026, thay vì nước Mỹ nơi cô sinh ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:18.420017+07:00"
+    },
+    {
+      "id": "237bc61f6edfaf46abee5486da69b1f1",
+      "title": "Bảo đảm đủ điện cho tăng trưởng",
+      "link": "https://thanhnien.vn/bao-dam-du-dien-cho-tang-truong-185260123225131502.htm",
+      "summary": "Bất chấp việc triển khai kế hoạch gặp nhiều khó khăn, thách thức, Tập đoàn điện lực VN (EVN) khẳng định sẽ bảo đảm cung ứng đủ điện phục vụ phát triển kinh tế xã hội, đạt mục tiêu tăng trưởng kinh tế 2 con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569521+07:00"
+    },
+    {
+      "id": "f2629f71d8ae8a1f5240f34a99430c5d",
+      "title": "Làm gì để xuất khẩu nông sản lặp lại kỳ tích?",
+      "link": "https://thanhnien.vn/lam-gi-de-xuat-khau-nong-san-lap-lai-ky-tich-185260123224209094.htm",
+      "summary": "Ngành nông nghiệp năm 2025 trải qua nhiều biến động do thiên tai và những rào cản từ thị trường xuất khẩu nhưng lại bất ngờ tăng trưởng mạnh, mang về kim ngạch cao nhất từ trước đến nay. Để giữ vững thành tích tăng trưởng trong năm 2026, các doanh nghiệp đã kiến nghị lãnh đạo Bộ NN-MT nhiều vấn đề c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569649+07:00"
+    },
+    {
+      "id": "c5a343aa0c30ebf46ebb2110c7bac017",
+      "title": "Trái cây ngoại ồ ạt về Việt Nam đón tết",
+      "link": "https://thanhnien.vn/trai-cay-ngoai-o-at-ve-viet-nam-don-tet-185260123200245943.htm",
+      "summary": "Trong khi các nhà vườn VN tất bật chuẩn bị nhiều sản phẩm độc lạ để phục vụ thị trường tết thì các sản phẩm ngoại nhập cũng ồ ạt đổ bộ về VN cho mùa cao điểm đang đến gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569775+07:00"
+    },
+    {
+      "id": "9cf5ed46ce66b43c0f18f263b0c07155",
+      "title": "Hội hoa xuân ở TP.HCM rộn ràng chưa từng có",
+      "link": "https://thanhnien.vn/hoi-hoa-xuan-o-tphcm-ron-rang-chua-tung-co-185260123195232789.htm",
+      "summary": "Tết Bính Ngọ 2026, TP.HCM tổ chức Hội hoa xuân Tao Đàn lần thứ 46 cùng hệ thống chợ hoa, đường hoa với quy mô mở rộng hiếm thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:21.569900+07:00"
+    },
+    {
+      "id": "e98d6eebdcbc27fafe463e38d43645c2",
+      "title": "'Công chúa tuyết' Eileen Gu tiếp tục chọn Trung Quốc, ngó lơ Mỹ",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-tiep-tuc-chon-trung-quoc-ngo-lo-my-5009305.html",
+      "summary": "VĐV trượt tuyết 22 tuổi Eileen Gu xác nhận tiếp tục thi đấu cho Trung Quốc tại Olympic Mùa đông 2026, thay vì nước Mỹ nơi cô sinh ra.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T21:00:00+07:00",
+      "fetched": "2026-01-24T05:16:28.659114+07:00"
+    },
+    {
+      "id": "09d045543382b91ad9e757f16d360184",
+      "title": "Cách người Nhật biến cửa hàng tiện lợi thành điểm du lịch",
+      "link": "https://vnexpress.net/cach-nguoi-nhat-bien-cua-hang-tien-loi-thanh-diem-du-lich-5009263.html",
+      "summary": "Cửa hàng tiện lợi được xem như lát cắt đời sống Nhật Bản, nơi du khách khám phá văn hóa tiêu dùng bản địa và mua những món quà lưu niệm độc đáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T20:30:21+07:00",
+      "fetched": "2026-01-24T05:16:18.420153+07:00"
     },
     {
       "id": "e2f12c77b100a7b1c1130b8e5f64fd2f",
