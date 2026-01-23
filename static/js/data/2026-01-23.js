@@ -1,7 +1,157 @@
 window.newsData_2026_01_23 = {
   "date": "2026-01-23",
-  "lastUpdated": "2026-01-23T08:26:01.438531+07:00",
+  "lastUpdated": "2026-01-23T10:40:02.294793+07:00",
   "articles": [
+    {
+      "id": "b868c5a0da7e8f7ea5868ccef34de2ad",
+      "title": "Lộ diện cổ đông lớn nhất sàn chứng khoán Việt Nam, đây mới là 'tay to' thực sự?",
+      "link": "https://tuoitre.vn/lo-dien-co-dong-lon-nhat-san-chung-khoan-viet-nam-day-moi-la-tay-to-thuc-su-20260123085312802.htm",
+      "summary": "Nhà nước là cổ đông lớn nhất trên thị trường chứng khoán, nắm giữ khoảng 1/3 tổng vốn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.680224+07:00",
+      "fetched": "2026-01-23T10:39:55.680339+07:00"
+    },
+    {
+      "id": "5debd6f79af05d8e8449e00caf330771",
+      "title": "Nhà Trắng bị phát hiện chỉnh sửa ảnh của người bị bắt sau biểu tình phản đối ICE",
+      "link": "https://tuoitre.vn/nha-trang-bi-phat-hien-chinh-sua-anh-cua-nguoi-bi-bat-sau-bieu-tinh-phan-doi-ice-2026012308564655.htm",
+      "summary": "Nhà Trắng bị cáo buộc chỉnh sửa ảnh của một người bị bắt sau cuộc biểu tình chống ICE, khiến người này trông như đang khóc nức nở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.680094+07:00",
+      "fetched": "2026-01-23T10:39:55.680213+07:00"
+    },
+    {
+      "id": "767c89c4869b0ff8ebd93c0811111ea7",
+      "title": "Tại Davos, ông Zelensky chỉ trích châu Âu 'lạc lối' vì cố gắng khiến ông Trump 'thay đổi'",
+      "link": "https://tuoitre.vn/tai-davos-ong-zelensky-chi-trich-chau-au-lac-loi-vi-co-gang-khien-ong-trump-thay-doi-20260123092211101.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cáo buộc châu Âu đang 'lạc lối' và tìm cách thuyết phục Tổng thống Mỹ Donald Trump giúp đỡ, thay vì đoàn kết để tự bảo vệ mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679943+07:00",
+      "fetched": "2026-01-23T10:39:55.680082+07:00"
+    },
+    {
+      "id": "db620a4771affd950b85318a5a9d26c2",
+      "title": "Tuyển Senegal được thưởng tiền tỉ và đất ven biển sau chức vô địch AFCON",
+      "link": "https://tuoitre.vn/tuyen-senegal-duoc-thuong-tien-ty-va-dat-ven-bien-sau-chuc-vo-dich-afcon-20260123093907435.htm",
+      "summary": "Dù đang đối mặt với cuộc khủng hoảng nợ công, nhưng Tổng thống Senegal Bassirou Diomaye Faye vẫn quyết định thưởng lớn để tri ân những \"người hùng\" vừa đoạt chức vô địch Cúp bóng đá châu Phi (AFCON) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679811+07:00",
+      "fetched": "2026-01-23T10:39:55.679931+07:00"
+    },
+    {
+      "id": "727a84653f8f06040141a43fd1129e92",
+      "title": "Hàn Quốc kêu gọi cải tổ bóng đá",
+      "link": "https://tuoitre.vn/han-quoc-keu-goi-cai-to-bong-da-20260122232308538.htm",
+      "summary": "Tại trận bán kết Giải U23 châu Á 2026, U23 Hàn Quốc để thua Nhật Bản 0-1. Đó là trận thua mà nhiều CĐV Hàn Quốc có thể xem là \"xấu hổ\" khi xét về lịch sử đối đầu căng thẳng giữa hai đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679680+07:00",
+      "fetched": "2026-01-23T10:39:55.679799+07:00"
+    },
+    {
+      "id": "9a39cc4497e7a72549055c43b5767b02",
+      "title": "Tuổi Trẻ mang 'Tết sẻ chia' đến học sinh vùng lũ Phú Yên cũ",
+      "link": "https://tuoitre.vn/tuoi-tre-mang-tet-se-chia-den-hoc-sinh-vung-lu-phu-yen-cu-20260123094437296.htm",
+      "summary": "Ngày 22-1, báo Tuổi Trẻ đã trao 1.000 suất quà đầu tiên trong chương trình \"Tết sẻ chia\" cho học sinh vùng lũ tại tỉnh Phú Yên cũ (nay thuộc Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679543+07:00",
+      "fetched": "2026-01-23T10:39:55.679666+07:00"
+    },
+    {
+      "id": "4240912bb9ab038fd9aaee3566f70725",
+      "title": "Tác động kép hỗ trợ hấp thu và vận chuyển canxi",
+      "link": "https://tuoitre.vn/tac-dong-kep-ho-tro-hap-thu-va-van-chuyen-canxi-20260123100231187.htm",
+      "summary": "Trong nhịp sống hiện đại, chế độ ăn uống thiếu cân đối, ít tiếp xúc ánh nắng khiến không ít gia đình lo lắng về nguy cơ thiếu hụt vitamin D, ảnh hưởng đến quá trình hấp thu canxi và sức khỏe xương răng lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679407+07:00",
+      "fetched": "2026-01-23T10:39:55.679531+07:00"
+    },
+    {
+      "id": "3cda169d087377bd0b4ec2fbaff205d2",
+      "title": "Phó thủ tướng Bùi Thanh Sơn dự lễ ký hiến chương Hội đồng Hòa bình tại Davos",
+      "link": "https://tuoitre.vn/pho-thu-tuong-bui-thanh-son-du-le-ky-hien-chuong-hoi-dong-hoa-binh-tai-davos-20260123095736418.htm",
+      "summary": "Các đối tác hoan nghênh quyết định của Việt Nam tham gia Hội đồng Hòa bình về Gaza, đánh giá sự tham gia của Việt Nam sẽ đóng góp tích cực cho tiến trình hòa bình tại khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679270+07:00",
+      "fetched": "2026-01-23T10:39:55.679396+07:00"
+    },
+    {
+      "id": "5f54a33d6ce75a8cf6c73b7c9c5e5599",
+      "title": "Top 10 phim hay nhưng bị Oscar 2026 ngó lơ",
+      "link": "https://tuoitre.vn/top-10-phim-hay-nhung-bi-oscar-2026-ngo-lo-20260123092637298.htm",
+      "summary": "Bên lề cuộc đua Oscar 2026, ngoài những phim liên tục được xướng tên trong các hạng mục đề cử, không ít phim được giới phê bình và khán giả yêu mến lại bất ngờ vắng bóng, để lại nhiều tiếc nuối và tranh luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.679140+07:00",
+      "fetched": "2026-01-23T10:39:55.679258+07:00"
+    },
+    {
+      "id": "041d27aaafe92529d7e1918ec40c4087",
+      "title": "Đại hội XIV của Đảng:  Đổi mới mô hình tăng trưởng để bứt phá và tránh bẫy thu nhập trung bình",
+      "link": "https://tuoitre.vn/dai-hoi-xiv-cua-dang-doi-moi-mo-hinh-tang-truong-de-but-pha-va-tranh-bay-thu-nhap-trung-binh-20260123095033559.htm",
+      "summary": "Đại hội XIV được kỳ vọng mở ra hướng đổi mới mô hình tăng trưởng, giúp Việt Nam bứt phá, nâng cao năng suất và tránh nguy cơ rơi vào bẫy thu nhập trung bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678988+07:00",
+      "fetched": "2026-01-23T10:39:55.679127+07:00"
+    },
+    {
+      "id": "5c33289391ed844efb277d0b9b943cec",
+      "title": "Phân làn theo tốc độ, loại xe chạy trên cao tốc Phan Thiết - Dầu Giây: Thông thoáng và an toàn hơn",
+      "link": "https://tuoitre.vn/phan-lan-theo-toc-do-loai-xe-chay-tren-cao-toc-phan-thiet-dau-giay-thong-thoang-va-an-toan-hon-20260122194716161.htm",
+      "summary": "Thời gian qua, cao tốc Phan Thiết - Dầu Giây nối hai tỉnh Lâm Đồng (Bình Thuận cũ) với Đồng Nai thông thoáng, an toàn hơn khi các cơ quan chức năng phân lại làn xe chạy theo tốc độ và loại xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678858+07:00",
+      "fetched": "2026-01-23T10:39:55.678976+07:00"
+    },
+    {
+      "id": "5c913d2fad51ca3a8972f281b2490b6c",
+      "title": "Vụ làm giả 102.591 phiếu kiểm nghiệm: Viện kiểm sát đề nghị xử lý nghiêm bị cáo chủ mưu, cầm đầu",
+      "link": "https://tuoitre.vn/vu-lam-gia-102-591-phieu-kiem-nghiem-vien-kiem-sat-de-nghi-xu-ly-nghiem-bi-cao-chu-muu-cam-dau-20260123100013694.htm",
+      "summary": "TAND TP.HCM xét xử vụ án đặc biệt nghiêm trọng liên quan đến hành vi làm giả phiếu kết quả kiểm nghiệm tại Công ty TSL và Công ty Avatek, gây ảnh hưởng nghiêm trọng đến công tác quản lý Nhà nước trong lĩnh vực an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678725+07:00",
+      "fetched": "2026-01-23T10:39:55.678846+07:00"
+    },
+    {
+      "id": "f43a7f0c3bd4842a8d830b9d4f7c60ca",
+      "title": "Chờ cái kết đẹp cho U23 Việt Nam",
+      "link": "https://tuoitre.vn/cho-cai-ket-dep-cho-u23-viet-nam-2026012223150835.htm",
+      "summary": "Đánh bại U23 Hàn Quốc trong trận tranh hạng 3 Giải U23 châu Á 2026, diễn ra vào 22h hôm nay (23-1, TV360 THTT), sẽ là một cái kết đẹp cho tuyển U23 Việt Nam sau hành trình dài tận hiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678589+07:00",
+      "fetched": "2026-01-23T10:39:55.678713+07:00"
+    },
+    {
+      "id": "23d8fddea16dcd32a98ab1a6c4ae4c1f",
+      "title": "'Trận gió lịch sử' đã thổi tuyết phủ khắp đỉnh Tháp Quỷ ở Mỹ?",
+      "link": "https://tuoitre.vn/tran-gio-lich-su-da-thoi-tuyet-phu-khap-dinh-thap-quy-o-my-20260123102030751.htm",
+      "summary": "Bức ảnh lan truyền mô tả tuyết bao phủ đỉnh Tháp Quỷ (Devils Tower) ở bang Wyoming, Mỹ là kết quả của một \"trận gió lịch sử\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678445+07:00",
+      "fetched": "2026-01-23T10:39:55.678576+07:00"
+    },
+    {
+      "id": "60707152ef316ba40e45b39c798b8478",
+      "title": "Trọng trách đưa Việt Nam tiến lên giàu mạnh",
+      "link": "https://tuoitre.vn/trong-trach-dua-viet-nam-tien-len-giau-manh-20260123080010353.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh Đại hội XIV của Đảng diễn ra vào thời điểm chưa bao giờ nguyện ước về một Việt Nam dân chủ, giàu mạnh, phồn vinh, văn minh, hạnh phúc lại gần như hôm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T10:39:55.678223+07:00",
+      "fetched": "2026-01-23T10:39:55.678430+07:00"
+    },
     {
       "id": "560bd7902c1bc120beb6d67ead9f9f06",
       "title": "Lịch trực tiếp Giải U23 châu Á 2026: U23 Việt Nam gặp U23 Hàn Quốc",
@@ -81,6 +231,396 @@ window.newsData_2026_01_23 = {
       "category": "Tổng hợp",
       "published": "2026-01-23T05:19:59.807530+07:00",
       "fetched": "2026-01-23T05:19:59.807808+07:00"
+    },
+    {
+      "id": "09286f7088eb5320431998302f79fed2",
+      "title": "TikTok ‘thoát cửa tử’ tại Mỹ nhờ thỏa thuận liên doanh phút chót",
+      "link": "https://thanhnien.vn/tiktok-thoat-cua-tu-tai-my-nho-thoa-thuan-lien-doanh-phut-chot-185260123094108965.htm",
+      "summary": "TikTok và công ty mẹ ByteDance của Trung Quốc đã chính thức thành lập một liên doanh nhằm chuyển giao một phần hoạt động kinh doanh tại Mỹ cho một tập đoàn do các nhà đầu tư Mỹ chiếm đa số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:36:00+07:00",
+      "fetched": "2026-01-23T10:39:54.463311+07:00"
+    },
+    {
+      "id": "75303a82c261a0b0247bb6767fed7cd3",
+      "title": "An toàn trong chăm sóc vết thương: Xu hướng không kháng sinh, không corticoid",
+      "link": "https://thanhnien.vn/an-toan-trong-cham-soc-vet-thuong-xu-huong-khong-khang-sinh-khong-corticoid-185260123102123631.htm",
+      "summary": "Kháng sinh và corticoid từng được xem là lựa chọn trong chăm sóc vết thương, nhưng việc sử dụng rộng rãi và kéo dài đang bộc lộ nhiều hạn chế. Trước nguy cơ kháng thuốc và biến chứng hậu thủ thuật, y học hiện đại đang dịch chuyển sang xu hướng chăm sóc vết thương không kháng sinh, không corticoid, t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:15:00+07:00",
+      "fetched": "2026-01-23T10:39:54.463483+07:00"
+    },
+    {
+      "id": "c6497700d6d3ae60a804ffa304ac53b8",
+      "title": "Nhật Bản 'hồi sinh' nhà máy điện hạt nhân lớn nhất thế giới",
+      "link": "https://vnexpress.net/nhat-ban-hoi-sinh-nha-may-dien-hat-nhan-lon-nhat-the-gioi-5008853.html",
+      "summary": "15 năm sau thảm họa Fukushima, Nhật Bản tái khởi động một phần lò phản ứng số 6 tại Kashiwazaki-Kariwa, nhà máy điện hạt nhân lớn nhất thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-23T03:13:45+07:00",
+      "fetched": "2026-01-23T10:40:00.922661+07:00"
+    },
+    {
+      "id": "fe48f5ee4838e940173665b3c4b9b17c",
+      "title": "Yêu cầu đặc biệt khi giao EVN, Petrovietnam 64.000 ha biển khảo sát điện gió ngoài khơi",
+      "link": "https://thanhnien.vn/yeu-cau-dac-biet-khi-giao-evn-petrovietnam-64000-ha-bien-khao-sat-dien-gio-ngoai-khoi-185260123093827961.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường ban hành quyết định giao gần 64.000 ha diện tích mặt biển cho Tập đoàn Điện lực Việt Nam (EVN) và Tập đoàn Công nghiệp - Năng lượng quốc gia Việt Nam (Petrovietnam) để khảo sát dự án điện gió ngoài khơi với những yêu cầu đặc biệt, doanh nghiệp phải tuân thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:12:00+07:00",
+      "fetched": "2026-01-23T10:39:54.463644+07:00"
+    },
+    {
+      "id": "5b1bd6dd7466821791365e73ca8ef658",
+      "title": "GM, Honda bất đồng về công nghệ pin nhiên liệu, CR-V có thể gánh hậu quả",
+      "link": "https://thanhnien.vn/gm-honda-bat-dong-ve-cong-nghe-pin-nhien-lieu-cr-v-co-the-ganh-hau-qua-185260121135530801.htm",
+      "summary": "Nhà máy sản xuất pin nhiên liệu ở Michigan, Mỹ đang đứng trước nguy cơ đóng cửa sau khi GM, Honda không thể tìm được tiếng nói chung, vấn đề này khiến tương lai của phiên bản Honda CR-V e:FCEV đứng trước những dấu hỏi lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:02:00+07:00",
+      "fetched": "2026-01-23T10:39:54.463799+07:00"
+    },
+    {
+      "id": "0c443a8732d32e79d7da77dc30d4d90c",
+      "title": "Cao hơn bản dịch vụ Limo Green 70 triệu, VinFast VF MPV 7 thêm trang bị gì?",
+      "link": "https://thanhnien.vn/cao-hon-ban-dich-vu-limo-green-70-trieu-vinfast-vf-mpv-7-them-trang-bi-gi-185260123065453934.htm",
+      "summary": "VinFast vừa chính thức trình làng phiên bản VF MPV 7 tại thị trường Việt Nam với giá 819 triệu đồng. So với phiên bản Limo Green định hướng dịch vụ, bản mới dành cho gia đình được bổ sung nhiều trang bị tiện nghi và công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:01:00+07:00",
+      "fetched": "2026-01-23T10:39:54.463952+07:00"
+    },
+    {
+      "id": "7ca510671f422b1fe9f8afbe82257ea2",
+      "title": "Váy ca rô dáng dài mang đến nét cổ điển 'đốn tim' phái đẹp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-ca-ro-dang-dai-mang-den-net-co-dien-don-tim-phai-dep-185260121184253618.htm",
+      "summary": "Không chạy theo những trào lưu phô trương, váy ca rô dáng dài chinh phục phái đẹp bằng vẻ đẹp cổ điển bền bỉ và khả năng ứng dụng linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T03:00:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464123+07:00"
+    },
+    {
+      "id": "ed6d3ce6ca5c7ec8b75e584fbad16fd6",
+      "title": "Cơ cấu, độ tuổi 200 ủy viên Trung ương Đảng khóa XIV",
+      "link": "https://thanhnien.vn/co-cau-do-tuoi-200-uy-vien-trung-uong-dang-khoa-xiv-185260123090220897.htm",
+      "summary": "Trong 200 ủy viên Trung ương Đảng khóa XIV vừa được bầu, ủy viên Trung ương trẻ tuổi nhất là 38 tuổi, người lớn tuổi nhất 69 tuổi; có 21 nữ ủy viên và 179 nam ủy viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:57:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464278+07:00"
+    },
+    {
+      "id": "a46aa8236ef525d2ac67253f416b1c98",
+      "title": "33 Ủy viên Trung ương Đảng khóa XIV công tác trong lực lượng vũ trang",
+      "link": "https://thanhnien.vn/33-uy-vien-trung-uong-dang-khoa-xiv-cong-tac-trong-luc-luong-vu-trang-185260123063228661.htm",
+      "summary": "Trong số 200 ủy viên Trung ương Đảng khóa XIV được công bố tối 22.1, có 33 ủy viên công tác trong lực lượng vũ trang. Trong đó, quân đội có 26 ủy viên Trung ương (gồm 25 ủy viên chính thức và 1 ủy viên dự khuyết), lực lượng công an có 7 ủy viên Trung ương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:57:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464432+07:00"
+    },
+    {
+      "id": "2c56bc0aabf2c4ee7f1e865b3701632c",
+      "title": "Google Gemini tung tính năng 'gia sư' mới đáng giá cho sinh viên",
+      "link": "https://thanhnien.vn/google-gemini-tung-tinh-nang-gia-su-moi-dang-gia-cho-sinh-vien-185260123093447056.htm",
+      "summary": "Không tốn tiền học thêm, học sinh giờ có thể dùng Gemini làm 'gia sư' luyện đề thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:52:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464588+07:00"
+    },
+    {
+      "id": "4ea04b4525ed3f79486641966895a3d2",
+      "title": "Gia chủ có quyền gì với phần vỉa hè, mặt đường trước cửa nhà?",
+      "link": "https://vnexpress.net/gia-chu-co-quyen-gi-voi-phan-via-he-mat-duong-truoc-cua-nha-5008890.html",
+      "summary": "Gia đình tôi bức xúc khi có ôtô đậu chắn mặt đường trước nhà, việc kinh doanh bị cản trở, lên xuống vỉa hè khó khăn; còn chủ xe cho rằng đường không biển cấm, chẳng có quyền cấm cản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:46:31+07:00",
+      "fetched": "2026-01-23T10:39:50.921903+07:00"
+    },
+    {
+      "id": "bbfd1427343346a24ce9c60a55ce64fd",
+      "title": "Hạm đội Mỹ hướng về Trung Đông, Iran cảnh báo sẵn sàng 'bóp cò'",
+      "link": "https://thanhnien.vn/ham-doi-my-huong-ve-trung-dong-iran-canh-bao-san-sang-bop-co-185260123090139524.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết Washington đang điều một 'hạm đội' hướng về Trung Đông trong bối cảnh căng thẳng với Iran gia tăng, song bày tỏ hy vọng sẽ không phải sử dụng đến lực lượng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:44:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464756+07:00"
+    },
+    {
+      "id": "ee00fc7361bf4b1e09f985d885b81060",
+      "title": "'Sinners' lập kỷ lục đề cử Oscar 2026",
+      "link": "https://thanhnien.vn/sinners-lap-ky-luc-de-cu-oscar-2026-185260123084839819.htm",
+      "summary": "Phim kinh dị 'Sinners' gây chú ý khi dẫn đầu danh sách đề cử Oscar với việc ghi tên ở 16 đề cử. Trong khi đó, Leonardo DiCaprio - Timothée Chalamet là hai ứng viên nổi bật của đường đua nam chính. Còn 'F1' có Brad Pitt đóng chính bất ngờ tranh giải Phim hay nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:40:00+07:00",
+      "fetched": "2026-01-23T10:39:54.464906+07:00"
+    },
+    {
+      "id": "01dc2149ea85d0ac0d1a61abcd1ee52c",
+      "title": "'Nàng thơ Đà Lạt' có cái tên... Vui đang hút hồn dân mạng",
+      "link": "https://thanhnien.vn/nang-tho-da-lat-co-cai-ten-vui-dang-hut-hon-dan-mang-18526012111051609.htm",
+      "summary": "Một cô gái gây sốt trên mạng xã hội không chỉ bởi gương mặt khả ái mà còn vì cái tên lạ tai. Cô gái đang chiếm cảm tình của dân mạng được gọi bằng danh xưng \"nàng thơ Đà Lạt\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:32:00+07:00",
+      "fetched": "2026-01-23T10:39:54.465082+07:00"
+    },
+    {
+      "id": "65314bc70f52ac6cf353729e0ba58372",
+      "title": "Cơ cấu Trung ương khóa XIV",
+      "link": "https://vnexpress.net/co-cau-trung-uong-khoa-xiv-5008982.html",
+      "summary": "Ban Chấp hành Trung ương khóa XIV có 200 ủy viên, trong đó khoảng một nửa là gương mặt mới, tuổi trung bình là 55, ủy viên chính thức trẻ nhất 46 tuổi, dự khuyết trẻ nhất 38 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:30:00+07:00",
+      "fetched": "2026-01-23T10:39:50.922108+07:00"
+    },
+    {
+      "id": "54b3f76d99df2ac6c47367249ccbc43f",
+      "title": "Con gì đi ngồi, đứng ngồi, nằm ngồi, ngủ cũng ngồi?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-con-gi-di-ngoi-dung-ngoi-nam-ngoi-ngu-cung-ngoi-5008596.html",
+      "summary": "Một câu hỏi ngắn nhưng lại khiến nhiều người phải suy nghĩ thật kỹ mới dám trả lời, bạn có đoán ra đáp án ngay lần đọc đầu tiên không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:30:00+07:00",
+      "fetched": "2026-01-23T10:39:50.922282+07:00"
+    },
+    {
+      "id": "5c85f7bb4328b14cd4c0edf875e2daaf",
+      "title": "Mỹ công bố logo vàng của Hội đồng Hòa bình",
+      "link": "https://vnexpress.net/my-cong-bo-logo-vang-cua-hoi-dong-hoa-binh-5008960.html",
+      "summary": "Tổng thống Trump công bố logo vàng của Hội đồng Hòa bình, với thiết kế đặt nước Mỹ vào trung tâm và có nét tương đồng với logo LHQ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:27:01+07:00",
+      "fetched": "2026-01-23T10:39:50.922446+07:00"
+    },
+    {
+      "id": "5c85f7bb4328b14cd4c0edf875e2daaf",
+      "title": "Mỹ công bố logo vàng của Hội đồng Hòa bình",
+      "link": "https://vnexpress.net/my-cong-bo-logo-vang-cua-hoi-dong-hoa-binh-5008960.html",
+      "summary": "Tổng thống Trump công bố logo vàng của Hội đồng Hòa bình, với thiết kế đặt nước Mỹ vào trung tâm và có nét tương đồng với logo LHQ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T02:27:01+07:00",
+      "fetched": "2026-01-23T10:39:57.061421+07:00"
+    },
+    {
+      "id": "2c4aad6317e3e1f14ae9dcef1ff85c7b",
+      "title": "Đèn chuyển xanh, lái xe dùng điện thoại chưa di chuyển có bị phạt?",
+      "link": "https://vnexpress.net/den-chuyen-xanh-lai-xe-dung-dien-thoai-chua-di-chuyen-co-bi-phat-5008912.html",
+      "summary": "Đèn chuyển từ đỏ sang xanh nhưng lái xe phía trước mải dùng điện thoại chưa di chuyển gây ùn ứ thì có bị phạt. (Thái Thịnh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:20:00+07:00",
+      "fetched": "2026-01-23T10:39:50.922614+07:00"
+    },
+    {
+      "id": "d7a91caf081235f8fd1d1ee5b818f755",
+      "title": "Công ty liên quan ông Johnathan Hạnh Nguyễn lãi kỷ lục",
+      "link": "https://vnexpress.net/cong-ty-lien-quan-ong-johnathan-hanh-nguyen-lai-ky-luc-5008965.html",
+      "summary": "Sasco do ông Johnathan Hạnh Nguyễn làm chủ tịch lãi trước thuế 432 tỷ đồng trong quý cuối năm ngoái, nâng lũy kế cả năm lên mức kỷ lục 843 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:16:06+07:00",
+      "fetched": "2026-01-23T10:39:50.922777+07:00"
+    },
+    {
+      "id": "d7a91caf081235f8fd1d1ee5b818f755",
+      "title": "Công ty liên quan ông Johnathan Hạnh Nguyễn lãi kỷ lục",
+      "link": "https://vnexpress.net/cong-ty-lien-quan-ong-johnathan-hanh-nguyen-lai-ky-luc-5008965.html",
+      "summary": "Sasco do ông Johnathan Hạnh Nguyễn làm chủ tịch lãi trước thuế 432 tỷ đồng trong quý cuối năm ngoái, nâng lũy kế cả năm lên mức kỷ lục 843 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-23T02:16:06+07:00",
+      "fetched": "2026-01-23T10:39:58.392108+07:00"
+    },
+    {
+      "id": "11d94a2a021755c8a17698217aeb6f36",
+      "title": "Tổng thư ký AFC chỉ ra vấn đề nghiêm trọng của FAM, mách nước ‘chiêu độc’ tránh FIFA trừng phạt nặng",
+      "link": "https://thanhnien.vn/tong-thu-ky-afc-chi-ra-van-de-nghiem-trong-cua-fam-mach-nuoc-chieu-doc-tranh-fifa-trung-phat-nang-185260123091024605.htm",
+      "summary": "Theo Harian Metro, Liên đoàn Bóng đá Malaysia (FAM) đang đứng trước ngã ba đường khi AFC bày tỏ sẵn sàng can thiệp để giúp đỡ nếu cơ quan quản lý này chọn con đường cải cách để tránh nguy cơ bị FIFA đình chỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:16:00+07:00",
+      "fetched": "2026-01-23T10:39:54.465235+07:00"
+    },
+    {
+      "id": "c00f77e7263cf01d89783a46a9d27a64",
+      "title": "Ba thập kỷ Sony gắn bó Tết của gia đình Việt",
+      "link": "https://vnexpress.net/ba-thap-ky-sony-gan-bo-tet-cua-gia-dinh-viet-5007936.html",
+      "summary": "Từ chiếc TV màu đầu tiên xuất hiện mỗi dịp Tết đến hệ sinh thái giải trí hiện đại, Sony gắn bó với nhiều thế hệ gia đình Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:10:00+07:00",
+      "fetched": "2026-01-23T10:39:50.922931+07:00"
+    },
+    {
+      "id": "c719851971dfc0edb6043e5e54438c3f",
+      "title": "Lễ hằng thuận của Á hậu Phương Nhi và chồng thiếu gia",
+      "link": "https://thanhnien.vn/le-hang-thuan-cua-a-hau-phuong-nhi-va-chong-thieu-gia-185260123085243039.htm",
+      "summary": "Trong lễ hằng thuận, Á hậu Phương Nhi và Phạm Nhật Hoàng (con trai thứ hai của tỉ phú Phạm Nhật Vượng) đều lựa chọn trang phục áo dài truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:08:00+07:00",
+      "fetched": "2026-01-23T10:39:54.465385+07:00"
+    },
+    {
+      "id": "01b91ee65fd1475d3c295059fceb8c90",
+      "title": "Giải Arab Saudi dùng sức hút của Ronaldo để đăng tin tuyển dụng",
+      "link": "https://vnexpress.net/giai-arab-saudi-dung-suc-hut-cua-ronaldo-de-dang-tin-tuyen-dung-5008967.html",
+      "summary": "Saudi Pro League đăng tin tuyển tiền vệ trụ trên một website tìm việc của bóng đá Tây Ban Nha với lương gần 1,2 triệu USD mỗi tháng, cùng thông điệp \"Bạn có muốn đối đầu Cristiano Ronaldo?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:07:18+07:00",
+      "fetched": "2026-01-23T10:39:50.923111+07:00"
+    },
+    {
+      "id": "01b91ee65fd1475d3c295059fceb8c90",
+      "title": "Giải Arab Saudi dùng sức hút của Ronaldo để đăng tin tuyển dụng",
+      "link": "https://vnexpress.net/giai-arab-saudi-dung-suc-hut-cua-ronaldo-de-dang-tin-tuyen-dung-5008967.html",
+      "summary": "Saudi Pro League đăng tin tuyển tiền vệ trụ trên một website tìm việc của bóng đá Tây Ban Nha với lương gần 1,2 triệu USD mỗi tháng, cùng thông điệp \"Bạn có muốn đối đầu Cristiano Ronaldo?\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T02:07:18+07:00",
+      "fetched": "2026-01-23T10:40:02.287995+07:00"
+    },
+    {
+      "id": "a32671d3af124bb1c9870d84fbb212ff",
+      "title": "Con trai cao 1,78 m, thạo 3 thứ tiếng của Thu Trang - Tiến Luật",
+      "link": "https://thanhnien.vn/con-trai-cao-178-m-thao-3-thu-tieng-cua-thu-trang-tien-luat-18526012309025378.htm",
+      "summary": "Sinh năm 2014, con trai bộ đôi diễn viên Thu Trang - Tiến Luật khiến nhiều người xuýt xoa vì chiều cao 1,78 m. Cậu bé được nhận xét sống tình cảm, chăm ngoan và là niềm tự hào của vợ chồng đạo diễn 'Ai thương ai mến'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:07:00+07:00",
+      "fetched": "2026-01-23T10:39:54.465534+07:00"
+    },
+    {
+      "id": "5fd731912723ae6095a13378813ca764",
+      "title": "Chồng không muốn đi đâu cùng vợ con",
+      "link": "https://vnexpress.net/toi-song-nhu-nguoi-thua-trong-nha-chong-va-khong-co-duong-lui-ve-nha-me-de-vi-anh-trai-pha-phach-5008717.html",
+      "summary": "Đám cưới họ hàng, sang nhà họ hàng chơi hoặc các kỳ nghỉ mát ở công ty, anh đi một mình, không muốn đi cùng vợ con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.923278+07:00"
+    },
+    {
+      "id": "4cd37f2159d6b6a6bf1eaaf8c00bb997",
+      "title": "Lưu trữ tế bào gốc con mới sinh dự phòng điều trị ung thư máu",
+      "link": "https://vnexpress.net/luu-tru-te-bao-goc-con-moi-sinh-du-phong-dieu-tri-ung-thu-mau-5008953.html",
+      "summary": "Con trai anh Thanh chào đời được bác sĩ lưu trữ tế bào gốc từ máu và mô dây rốn để dự phòng điều trị ung thư máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.923439+07:00"
+    },
+    {
+      "id": "e9d92fa3e18cb7e19b8cdbe8b276d9cb",
+      "title": "Chuỗi hoạt động đón Tết tại khu đô thị Happy Home Cà Mau",
+      "link": "https://vnexpress.net/chuoi-hoat-dong-don-tet-tai-khu-do-thi-happy-home-ca-mau-5008938.html",
+      "summary": "Happy Home Cà Mau triển khai loạt hoạt động thông qua nền tảng RISE cho cư dân và người dân khu vực, qua đó mở rộng chức năng từ không gian ở sang điểm sinh hoạt cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.923608+07:00"
+    },
+    {
+      "id": "4e0e2fc4cba2dd9661bc40b0649e7fc9",
+      "title": "Lợi thế tăng giá của bất động sản khu Tây TP HCM",
+      "link": "https://vnexpress.net/loi-the-tang-gia-cua-bat-dong-san-khu-tay-tp-hcm-5008867.html",
+      "summary": "Vành đai 3, 4 cùng nhiều trục kết nối phía Tây TP HCM kéo theo đà tăng trưởng nhà đất, được kỳ vọng đạt mức tăng gấp 3 lần trong 5 năm như Hà Nội, theo dự báo Batdongsan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.923766+07:00"
+    },
+    {
+      "id": "bc6dae6f100705def5a6111c13640591",
+      "title": "Chuyên gia Dragon Capital phân tích bức tranh đầu tư 2026",
+      "link": "https://vnexpress.net/chuyen-gia-dragon-capital-phan-tich-buc-tranh-dau-tu-2026-5008825.html",
+      "summary": "Đại diện Dragon Capital sẽ phân tích chuyên sâu về kinh tế vĩ mô, chứng khoán và triển vọng đầu tư trong năm 2026, tại sự kiện Investor Day 2026 ngày 26/1, phát sóng trên VnExpress.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.923918+07:00"
+    },
+    {
+      "id": "ee4b27f7776a7812af34f8575fe3bd8a",
+      "title": "Diễn viên 9x lội ruộng bắt cá trong phim truyền hình Tết",
+      "link": "https://vnexpress.net/dien-vien-9x-loi-ruong-bat-ca-trong-phim-truyen-hinh-tet-5008590.html",
+      "summary": "PT Ngọc Diệp - nữ diễn viên từng tham gia \"Làm giàu với ma\", \"Bịt mắt bắt nai\" có vai chính đầu tay trong phim truyền hình lên sóng dịp Tết này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:50.924099+07:00"
+    },
+    {
+      "id": "bc6dae6f100705def5a6111c13640591",
+      "title": "Chuyên gia Dragon Capital phân tích bức tranh đầu tư 2026",
+      "link": "https://vnexpress.net/chuyen-gia-dragon-capital-phan-tich-buc-tranh-dau-tu-2026-5008825.html",
+      "summary": "Đại diện Dragon Capital sẽ phân tích chuyên sâu về kinh tế vĩ mô, chứng khoán và triển vọng đầu tư trong năm 2026, tại sự kiện Investor Day 2026 ngày 26/1, phát sóng trên VnExpress.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-23T02:00:00+07:00",
+      "fetched": "2026-01-23T10:39:58.392451+07:00"
+    },
+    {
+      "id": "2653c98d77ea936d070334f246a57d44",
+      "title": "Du khách quẹt nhầm thẻ 300 triệu đồng, được công an hỗ trợ nhận lại",
+      "link": "https://vnexpress.net/du-khach-quet-nham-the-300-trieu-dong-duoc-cong-an-ho-tro-nhan-lai-5008939.html",
+      "summary": "Công an đặc khu Phú Quốc vừa hỗ trợ hai du khách người Anh nhận lại gần 300 triệu đồng quẹt thẻ nhầm khi thanh toán tiền lưu trú tại resort.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-23T01:58:21+07:00",
+      "fetched": "2026-01-23T10:39:50.924322+07:00"
+    },
+    {
+      "id": "9f625dc5642d466749354ec598736069",
+      "title": "Gerrard nhắc khéo Arne Slot ngừng than vãn",
+      "link": "https://vnexpress.net/gerrard-nhac-kheo-arne-slot-ngung-than-van-5008963.html",
+      "summary": "Cựu danh thủ Steven Gerrard cảnh báo HLV Arne Slot nên thôi phàn nàn về những khiếm khuyết của Liverpool trước truyền thông, và thách thức chiến lược gia Hà Lan tìm ra lời giải cho bài toán này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T01:57:10+07:00",
+      "fetched": "2026-01-23T10:40:02.288531+07:00"
+    },
+    {
+      "id": "4091fc9a8c3b9020baff31bfcb33f8b7",
+      "title": "Mỹ hoàn tất rút khỏi WHO",
+      "link": "https://vnexpress.net/my-hoan-tat-rut-khoi-who-5008921.html",
+      "summary": "Mỹ chính thức rút khỏi WHO, cho biết không có kế hoạch làm quan sát viên hay tái gia nhập trong tương lai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-23T01:51:34+07:00",
+      "fetched": "2026-01-23T10:39:57.061600+07:00"
+    },
+    {
+      "id": "aabb02bb221b699bca82d985062b2a43",
+      "title": "Redmi Note 15 Pro+ 5G - smartphone bền nhất của Xiaomi",
+      "link": "https://vnexpress.net/redmi-note-15-pro-5g-smartphone-ben-nhat-cua-xiaomi-5008892.html",
+      "summary": "Redmi Note 15 Pro+ 5G, smartphone đầu tiên trang bị chip Snapdragon 7s Gen 4 của Xiaomi, có khả năng chịu va đập, nước nóng và chống trầy xước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-23T01:44:12+07:00",
+      "fetched": "2026-01-23T10:40:00.922839+07:00"
+    },
+    {
+      "id": "7b83ce946a73d9070ca57ea4d986f3ba",
+      "title": "Man Utd tụt kỷ lục trên bảng doanh thu toàn cầu",
+      "link": "https://vnexpress.net/man-utd-tut-ky-luc-tren-bang-doanh-thu-toan-cau-5008936.html",
+      "summary": "Thành tích bết bát trên sân cỏ đẩy Man Utd xuống vị trí thấp kỷ lục trong bảng xếp hạng doanh thu mùa 2024-2025 của Deloitte, trong khi không một CLB Ngoại hạng Anh nào lọt vào top 4.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-23T01:31:53+07:00",
+      "fetched": "2026-01-23T10:40:02.288692+07:00"
     },
     {
       "id": "d36bf75fcee88554d2fbf5a5170accbb",
@@ -601,6 +1141,16 @@ window.newsData_2026_01_23 = {
       "category": "Thể thao",
       "published": "2026-01-22T22:46:19+07:00",
       "fetched": "2026-01-23T08:26:01.432916+07:00"
+    },
+    {
+      "id": "1120992e5a8e2820cbff59d777d954d1",
+      "title": "Kỷ luật thép của HLV Puche giúp Trung Quốc thành công",
+      "link": "https://vnexpress.net/ky-luat-thep-cua-hlv-puche-giup-trung-quoc-thanh-cong-5008894.html",
+      "summary": "Việc siết chặt kỷ luật sinh hoạt, nâng cao tinh thần thi đấu cùng phong cách làm việc nghiêm khắc của HLV Antonio Puche được xem là yếu tố then chốt giúp Trung Quốc tạo nên kỳ tích tại U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-22T22:46:19+07:00",
+      "fetched": "2026-01-23T10:40:02.289022+07:00"
     },
     {
       "id": "a880309cb3deff2cd0e52677c82cf0f1",
