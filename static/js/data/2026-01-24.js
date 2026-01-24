@@ -1,7 +1,157 @@
 window.newsData_2026_01_24 = {
   "date": "2026-01-24",
-  "lastUpdated": "2026-01-24T15:23:34.657517+07:00",
+  "lastUpdated": "2026-01-24T17:18:55.394959+07:00",
   "articles": [
+    {
+      "id": "866bba46111303091a3402a6629abe5b",
+      "title": "Đưa thiết bị đến tận nhà cấp căn cước cho trẻ khuyết tật",
+      "link": "https://tuoitre.vn/dua-thiet-bi-den-tan-nha-cap-can-cuoc-cho-tre-khuyet-tat-20260124142725692.htm",
+      "summary": "15 trẻ em khuyết tật, bại não tại phường Thủ Đức, TP.HCM đã được các cán bộ chiến sĩ Công an phường Thủ Đức, Viện Kiểm sát nhân dân khu vực 2 hỗ trợ làm thủ tục cấp căn cước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577828+07:00",
+      "fetched": "2026-01-24T17:18:45.577960+07:00"
+    },
+    {
+      "id": "e994e442e874f8bc3156a3a0003cfe91",
+      "title": "Xe đạp điện chạy thẳng từ TP.HCM đến Đà Nẵng mới cần sạc, giá chỉ ngang Honda Vision",
+      "link": "https://tuoitre.vn/xe-dap-dien-chay-thang-tu-tp-hcm-den-da-nang-moi-can-sac-gia-chi-ngang-honda-vision-20260124100133755.htm",
+      "summary": "Một doanh nghiệp Nhật Bản đang gây chú ý khi có thể giúp xe đạp điện di chuyển tới 1.000km chỉ với một lần sạc, nhờ khả năng thu hồi và quản lý năng lượng ở mức cao chưa từng có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577702+07:00",
+      "fetched": "2026-01-24T17:18:45.577813+07:00"
+    },
+    {
+      "id": "9c47ce7d7b199a3cb19532c072959d88",
+      "title": "Tân khoa cõng mẹ lên nhận bằng đại học cùng bức tâm thư khiến cả hội trường rưng rưng",
+      "link": "https://tuoitre.vn/tan-khoa-cong-me-len-nhan-bang-dai-hoc-cung-buc-tam-thu-khien-ca-hoi-truong-rung-rung-20260124134919674.htm",
+      "summary": "Tốt nghiệp đại học xuất sắc, Phạm Trung Trí Dũng đã cõng mẹ lên nhận bằng tốt nghiệp. Trên sân khấu, Dũng nấc nghẹn khi phát biểu, mẹ và anh trai ngồi dưới cũng lệ nhòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577580+07:00",
+      "fetched": "2026-01-24T17:18:45.577691+07:00"
+    },
+    {
+      "id": "ba6a9264cb27e34ae55f1680f67bebe2",
+      "title": "Rút ròng ở các quỹ đầu tư cổ phiếu cao kỷ lục: Gần 31.000 tỉ đồng",
+      "link": "https://tuoitre.vn/rut-rong-o-cac-quy-dau-tu-co-phieu-cao-ky-luc-gan-31-000-ti-dong-20260124114014053.htm",
+      "summary": "Quy mô rút ròng tại các quỹ đầu tư đạt mức cao kỷ lục trong năm 2025, chủ yếu đến từ hoạt động chốt lời và tái cơ cấu danh mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577456+07:00",
+      "fetched": "2026-01-24T17:18:45.577568+07:00"
+    },
+    {
+      "id": "dc82433fe435a2c56814cb4ec8963ecb",
+      "title": "Ra mắt bộ tarot vẽ tay bằng màu nước: Tái hiện thần tích, truyện cổ Việt Nam",
+      "link": "https://tuoitre.vn/ra-mat-bo-tarot-ve-tay-bang-mau-nuoc-tai-hien-than-tich-truyen-co-viet-nam-20260124150531465.htm",
+      "summary": "Sáng 24-1, tại Trung tâm Lưu trữ quốc gia (TP.HCM), bộ bài tarot song ngữ lấy cảm hứng từ thần tích, truyện cổ và tín ngưỡng truyền thống Việt Nam mang tên 'Sông núi nước Nam' chính thức ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577328+07:00",
+      "fetched": "2026-01-24T17:18:45.577445+07:00"
+    },
+    {
+      "id": "05ceefe3c6eab77be014f348e88d238f",
+      "title": "Áo dài Tô Thị của Phan Đăng Hoàng",
+      "link": "https://tuoitre.vn/ao-dai-to-thi-cua-phan-dang-hoang-20260124134824342.htm",
+      "summary": "Hình ảnh phố Kỳ Lừa, chùa Tam Thanh, nàng Tô Thị trong câu ca dao quen thuộc được nhà thiết kế Phan Đăng Hoàng khéo léo đưa vào bộ sưu tập áo dài Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577200+07:00",
+      "fetched": "2026-01-24T17:18:45.577313+07:00"
+    },
+    {
+      "id": "4324ff398dbd15283abb510eccc5229e",
+      "title": "Báo Trung Quốc tin đội nhà sẽ thắng U23 Nhật Bản lại bằng chiến thuật 'dựng xe buýt'",
+      "link": "https://tuoitre.vn/bao-trung-quoc-tin-doi-nha-se-thang-u23-nhat-ban-lai-bang-chien-thuat-dung-xe-buyt-20260124152713337.htm",
+      "summary": "Trước thềm trận chung kết Giải U23 châu Á 2026 chạm trán Nhật Bản, truyền thông Trung Quốc tin tưởng đội nhà sẽ sánh ngang kỷ lục mà Saudi Arabia từng thiết lập 4 năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.577075+07:00",
+      "fetched": "2026-01-24T17:18:45.577188+07:00"
+    },
+    {
+      "id": "ab16167d2c60f8473e59cca457a8a755",
+      "title": "Menas tổ chức thử rượu vang và thịt nguội ý tại Đà Nẵng",
+      "link": "https://tuoitre.vn/menas-to-chuc-thu-ruou-vang-va-thit-nguoi-y-tai-da-nang-20260124150438164.htm",
+      "summary": "Ngày 21-1, Công ty Menas thông báo tổ chức thành công sự kiện thử rượu vang và thịt nguội Ý tại Don Cipriani’s Italian Restaurant - Furama Resort Danang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576943+07:00",
+      "fetched": "2026-01-24T17:18:45.577063+07:00"
+    },
+    {
+      "id": "9fac9b7e035058d3954e02f4073a7953",
+      "title": "Tuyển sinh lớp 10 ở TP.HCM: Phụ huynh đề xuất thi vào đầu tháng 6-2026",
+      "link": "https://tuoitre.vn/tuyen-sinh-lop-10-o-tp-hcm-phu-huynh-de-xuat-thi-vao-dau-thang-6-2026-20260124153402749.htm",
+      "summary": "Đa số phụ huynh có con đang học lớp 9 ở TP.HCM đều mong muốn kỳ thi tuyển sinh lớp 10 diễn ra ngay đầu tháng 6-2026. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576788+07:00",
+      "fetched": "2026-01-24T17:18:45.576930+07:00"
+    },
+    {
+      "id": "202e56e98b4c201993cb7d28134f0421",
+      "title": "Bắt nghi can chạy trốn, chém thương tích nhân viên bảo vệ rừng Đồng Nai",
+      "link": "https://tuoitre.vn/bat-nghi-can-chay-tron-chem-thuong-tich-nhan-vien-bao-ve-rung-dong-nai-20260124161111835.htm",
+      "summary": "Trong lúc truy bắt nghi can chạy trốn trong Khu bảo tồn thiên nhiên văn hóa Đồng Nai, một nhân viên bảo vệ rừng cộng đồng bất ngờ bị đối phương chém thương tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576662+07:00",
+      "fetched": "2026-01-24T17:18:45.576776+07:00"
+    },
+    {
+      "id": "17aa8d5a641cab58136bf37dafa61e1c",
+      "title": "Trung Quốc điều tra 2 lãnh đạo cấp cao của quân đội vi phạm kỷ luật 'nghiêm trọng'",
+      "link": "https://tuoitre.vn/trung-quoc-dieu-tra-2-lanh-dao-cap-cao-cua-quan-doi-vi-pham-ky-luat-nghiem-trong-20260124160708287.htm",
+      "summary": "Trung Quốc điều tra 3 cán bộ quân đội và tình báo, khai trừ đảng cựu Thứ trưởng Bộ An ninh trong nỗ lực trấn áp tham nhũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576536+07:00",
+      "fetched": "2026-01-24T17:18:45.576650+07:00"
+    },
+    {
+      "id": "d142134ee335bc8f403bf5738273da3e",
+      "title": "Đình chỉ cô giáo nghi sửa gần 20 bài thi học sinh từ đúng thành... sai",
+      "link": "https://tuoitre.vn/dinh-chi-co-giao-nghi-sua-gan-20-bai-thi-hoc-sinh-tu-dung-thanh-sai-20260124160214731.htm",
+      "summary": "Một giáo viên dạy môn tiếng Anh tại Gia Lai bị đình chỉ giảng dạy 15 ngày để làm rõ nghi vấn sửa bài thi của nhiều học sinh từ đúng thành sai để hạ điểm thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576405+07:00",
+      "fetched": "2026-01-24T17:18:45.576524+07:00"
+    },
+    {
+      "id": "74ecb89ac0c2904bf3a0b725274eef6c",
+      "title": "Thu hồi 4,6 tỉ đồng, đề nghị kỷ luật lãnh đạo Trung tâm Y tế An Phú",
+      "link": "https://tuoitre.vn/thu-hoi-4-6-ti-dong-de-nghi-ky-luat-lanh-dao-trung-tam-y-te-an-phu-20260124155345136.htm",
+      "summary": "Kết luận kiểm tra cho thấy Trung tâm Y tế An Phú chi vượt quỹ, nợ tiền thuốc kéo dài. Sở Y tế An Giang yêu cầu thu hồi 4,6 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576272+07:00",
+      "fetched": "2026-01-24T17:18:45.576393+07:00"
+    },
+    {
+      "id": "d3fdf50c9a0af0c75b7a172b6f8bfd46",
+      "title": "Giá vàng miếng SJC vượt 174 triệu đồng/lượng, giá bạc lên hơn 4 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-vuot-174-trieu-dong-luong-gia-bac-len-hon-4-trieu-dong-luong-20260124162441994.htm",
+      "summary": "Thị trường kim loại quý cuối tuần lại thu hút sự chú ý khi giá vàng thế giới kết thúc tuần giao dịch sát mốc 5.000 USD/ounce trong khi giá bạc đóng cửa ở mức 103,08 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.576129+07:00",
+      "fetched": "2026-01-24T17:18:45.576259+07:00"
+    },
+    {
+      "id": "06c8affbcc9a0f7085364363999a8004",
+      "title": "Người lao động Việt ưu tiên chỗ làm ‘chữa lành’ hơn lương cao",
+      "link": "https://tuoitre.vn/nguoi-lao-dong-viet-uu-tien-cho-lam-chua-lanh-hon-luong-cao-20260124152814278.htm",
+      "summary": "Thị trường lao động Việt Nam đang chứng kiến xu hướng thay đổi mới khi người lao động thận trọng, ưu tiên những nơi làm việc 'chữa lành' thay vì thu nhập cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T17:18:45.575880+07:00",
+      "fetched": "2026-01-24T17:18:45.576113+07:00"
+    },
     {
       "id": "8aa020c9b2ad556ccabf82f9b62fd079",
       "title": "Lý do khiến 2 bệnh viện không được ký hợp đồng khám chữa bệnh bảo hiểm y tế",
@@ -583,6 +733,286 @@ window.newsData_2026_01_24 = {
       "fetched": "2026-01-24T10:24:29.277610+07:00"
     },
     {
+      "id": "c63834376eb738f70bde75fcbf90698d",
+      "title": "Một tính năng hữu ích của Gmail sắp biến mất",
+      "link": "https://thanhnien.vn/mot-tinh-nang-huu-ich-cua-gmail-sap-bien-mat-185260124162542746.htm",
+      "summary": "Google vừa thông báo sẽ ngừng hỗ trợ Gmailify, công cụ cho phép người dùng kết nối các hộp thư đến không phải Gmail với tài khoản Gmail của họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T10:08:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380091+07:00"
+    },
+    {
+      "id": "483e5caea10828ad75ba2aaea961c815",
+      "title": "Chậu bưởi Diễn nặng 10 tấn, giá hơn 200 triệu được đại gia thuê về chơi tết",
+      "link": "https://thanhnien.vn/chau-buoi-dien-nang-10-tan-gia-hon-200-trieu-duoc-dai-gia-thue-ve-choi-tet-185260124160555589.htm",
+      "summary": "Lấy cảm hứng từ hình tượng 'cuốn thư' ngày tết, một chủ vườn ở Hưng Yên đã tạo ra chậu bưởi cảnh nặng hơn 10 tấn, kết hợp điêu khắc thủ công trở thành điểm nhấn trên thị trường cây cảnh tết năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T10:07:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380259+07:00"
+    },
+    {
+      "id": "dd2d3bfa17d0d19d1ce9927be929ce5d",
+      "title": "Đình Bắc cần thêm một chút tỉnh táo!",
+      "link": "https://thanhnien.vn/dinh-bac-can-them-mot-chut-tinh-tao-185260124012855745.htm",
+      "summary": "Tỏa sáng rực rỡ trong trận tranh hạng ba với U.23 Hàn Quốc, Nguyễn Đình Bắc cho thấy sự trưởng thành vượt bậc về chuyên môn. Tuy nhiên, anh cần thêm một chút tỉnh táo để sự nghiệp của anh bừng sáng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T10:01:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380415+07:00"
+    },
+    {
+      "id": "55331308c7725bc83a099a07877aacef",
+      "title": "Nhạc sĩ Nguyễn Văn Chung: 'Mẹ thích tôi thi Bách khoa, nhưng...'",
+      "link": "https://thanhnien.vn/nhac-si-nguyen-van-chung-me-thich-toi-thi-bach-khoa-nhung-185260124152626226.htm",
+      "summary": "Nhạc sĩ Nguyễn Văn Chung có những trải lòng về việc học đại học, lý do anh thi đại học chính quy ngành sư phạm âm nhạc ở tuổi 42 và động lực tìm cảm hứng trong học tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:58:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380567+07:00"
+    },
+    {
+      "id": "63aafdc3e26daa3a81d1c90d6169d547",
+      "title": "Hai bộ xương cá voi lớn nhất Việt Nam bị hư hỏng, chờ đánh giá mức độ xuống cấp",
+      "link": "https://thanhnien.vn/hai-bo-xuong-ca-voi-lon-nhat-viet-nam-bi-hu-hong-cho-danh-gia-muc-do-xuong-cap-185260124120554892.htm",
+      "summary": "Sau 4 năm phục dựng, trưng bày phục vụ du lịch, 2 bộ xương cá voi lớn nhất Việt Nam ở đặc khu Lý Sơn (Quảng Ngãi) đã bị hư hỏng phần xương nhựa phục dựng, tiềm ẩn nguy cơ mất an toàn cho khách tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:47:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380716+07:00"
+    },
+    {
+      "id": "b8090dbc6826a03dc09332c6e621768d",
+      "title": "Đào 'rồng bay, phượng múa' được đeo khóa chống trộm",
+      "link": "https://thanhnien.vn/dao-rong-bay-phuong-mua-duoc-deo-khoa-chong-trom-185260124160853521.htm",
+      "summary": "Nằm trong số những dòng đào tết độc lạ, đào long phụng được uốn dáng 'rồng bay phượng múa' có giá bán từ vài trăm nghìn đến vài triệu đồng một cành hoặc cây. Những cây đẹp, chủ vườn phải đeo xích, khóa giữ cây đề phòng bị cắt trộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:46:00+07:00",
+      "fetched": "2026-01-24T17:18:44.380871+07:00"
+    },
+    {
+      "id": "9c5d996eefcc3e2b70b9c65589d7a3bb",
+      "title": "Hộ kinh doanh, cá nhân kinh doanh không phải nộp lệ phí môn bài",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-ca-nhan-kinh-doanh-khong-phai-nop-le-phi-mon-bai-185260124162450351.htm",
+      "summary": "Cục Thuế vừa ban hành công văn phổ biến nội dung liên quan về kê khai, nộp lệ phí môn bài đối với hộ kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:45:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381043+07:00"
+    },
+    {
+      "id": "81fb76c730c9b585d4cf9bab6ea7c387",
+      "title": "Vụ hàng chục trạm cân nông sản sai phạm: Khẩn trương kiểm tra xử lý",
+      "link": "https://thanhnien.vn/vu-hang-chuc-tram-can-nong-san-sai-pham-khan-truong-kiem-tra-xu-ly-185260124161220068.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên về thực trạng sai phạm của nhiều trạm cân nông sản trên địa bàn H.Krông Pa cũ cũng như nhiều địa phương khác của tỉnh Gia Lai, UBND tỉnh Gia Lai đã có công văn yêu cầu các sở ngành kiểm tra, xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:45:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381193+07:00"
+    },
+    {
+      "id": "eaae26bf7fb6e03a92ab5b475ebeb207",
+      "title": "'Em không nghĩ đi Tư vấn mùa thi lại được lo cả cơm ăn, nước uống'",
+      "link": "https://thanhnien.vn/em-khong-nghi-di-tu-van-mua-thi-lai-duoc-lo-ca-com-an-nuoc-uong-185260124155446645.htm",
+      "summary": "Buổi khai mạc Tư vấn mùa thi 2026 do Báo Thanh Niên tổ chức tại Trường ĐH Đồng Nai (tỉnh Đồng Nai) sáng nay (24.1) không chỉ mang đến những thông tin thiết thực về tuyển sinh, hướng nghiệp cho hàng ngàn học sinh lớp 12 mà còn lan tỏa tinh thần sẻ chia qua những suất cơm trưa miễn phí dành tặng các h...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:41:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381342+07:00"
+    },
+    {
+      "id": "a4870c9258b5ca337df99a0a30b70f20",
+      "title": "Mỹ sẽ chuyển cho Hàn Quốc trách nhiệm chính về đối phó Triều Tiên?",
+      "link": "https://thanhnien.vn/my-se-chuyen-cho-han-quoc-trach-nhiem-chinh-ve-doi-pho-trieu-tien-185260124161304216.htm",
+      "summary": "Lầu Năm Góc dự báo Mỹ sẽ đóng vai trò “hạn chế hơn” trong việc răn đe CHDCND Triều Tiên, trong khi Hàn Quốc sẽ đảm nhận trách nhiệm chính cho nhiệm vụ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:40:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381496+07:00"
+    },
+    {
+      "id": "17b0ebfcb9d05052a39296a64572ac0b",
+      "title": "Trung Quốc điều tra Phó chủ tịch Quân ủy Trung ương",
+      "link": "https://vnexpress.net/trung-quoc-dieu-tra-pho-chu-tich-quan-uy-trung-uong-5009510.html",
+      "summary": "Phó chủ tịch Quân ủy Trung ương Trung Quốc cùng lãnh đạo Bộ tham mưu Liên hợp bị điều tra vì cáo buộc \"vi phạm nghiêm trọng kỷ luật\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T09:36:31+07:00",
+      "fetched": "2026-01-24T17:18:47.414371+07:00"
+    },
+    {
+      "id": "4a34e50857b5c2ba0f1845fd62e2b388",
+      "title": "Đi kiểm tra rừng, một bảo vệ bị người đàn ông lạ mặt chém bị thương",
+      "link": "https://thanhnien.vn/di-kiem-tra-rung-mot-bao-ve-bi-nguoi-dan-ong-la-mat-chem-bi-thuong-18526012414564584.htm",
+      "summary": "Người đàn ông đi trong rừng lúc 2 giờ sáng, khi bị kiểm lâm cùng lực lượng bảo vệ rừng yêu cầu kiểm tra thì người này bỏ chạy, vung dao chém gây thương tích một nhân viên bảo vệ rừng trong quá trình truy đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:34:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381645+07:00"
+    },
+    {
+      "id": "4bf92a0a35d21ab5406f2a13e9f8e295",
+      "title": "Doanh nghiệp, hộ kinh doanh không phải khai, nộp phí môn bài từ 2026",
+      "link": "https://vnexpress.net/doanh-nghiep-ho-kinh-doanh-khong-phai-khai-nop-phi-mon-bai-tu-2026-5009500.html",
+      "summary": "Từ 2026, người nộp thuế không phải nộp lệ phí môn bài và hồ sơ khai lệ phí này cho năm nay và các năm tiếp theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:21:22+07:00",
+      "fetched": "2026-01-24T17:18:40.952481+07:00"
+    },
+    {
+      "id": "4bf92a0a35d21ab5406f2a13e9f8e295",
+      "title": "Doanh nghiệp, hộ kinh doanh không phải khai, nộp phí môn bài từ 2026",
+      "link": "https://vnexpress.net/doanh-nghiep-ho-kinh-doanh-khong-phai-khai-nop-phi-mon-bai-tu-2026-5009500.html",
+      "summary": "Từ 2026, người nộp thuế không phải nộp lệ phí môn bài và hồ sơ khai lệ phí này cho năm nay và các năm tiếp theo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-24T09:21:22+07:00",
+      "fetched": "2026-01-24T17:18:49.243052+07:00"
+    },
+    {
+      "id": "754714f77d583c19dec2c6068e4802d8",
+      "title": "Cư dân kể giây phút ép tim cứu bé gái trong vụ cháy chung cư",
+      "link": "https://vnexpress.net/cu-dan-ke-giay-phut-ep-tim-cuu-be-gai-trong-vu-chay-chung-cu-5009501.html",
+      "summary": "Thấy bé gái 9 tuổi bị bỏng nặng, có dấu hiệu ngừng tim, chị Thu cùng nhiều cư dân chạy đua thời gian ép tim, cố giành lại sự sống cho nạn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:18:30+07:00",
+      "fetched": "2026-01-24T17:18:40.952658+07:00"
+    },
+    {
+      "id": "192fe3766278b1af5493e355bedb923a",
+      "title": "Giáo viên bị tố sửa bài thi, thêm chữ làm sai câu trả lời của học sinh",
+      "link": "https://thanhnien.vn/giao-vien-bi-to-sua-bai-thi-them-chu-lam-sai-cau-tra-loi-cua-hoc-sinh-18526012415412003.htm",
+      "summary": "Trường tiểu học Nguyễn Văn Cừ (tỉnh Gia Lai) tạm đình chỉ giáo viên tiếng Anh sau phản ánh sửa bài thi, thêm nét chữ làm sai câu trả lời của học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:13:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381790+07:00"
+    },
+    {
+      "id": "53b9d88709cafd45c5fce9fa517ea086",
+      "title": "Mặc đúng cách khi chạy bộ dưới trời rét đậm",
+      "link": "https://vnexpress.net/mac-dung-cach-khi-chay-bo-duoi-troi-ret-dam-5009522.html",
+      "summary": "Những ngày rét đậm với nền nhiệt thấp đặt ra thách thức cho runner, vì nếu mặc phong phanh, cơ thể dễ bị hạ thân nhiệt, nhưng mặc quá dày sẽ làm đổ nhiều mồ hôi, dẫn đến ẩm ướt và lạnh ngược trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:08:44+07:00",
+      "fetched": "2026-01-24T17:18:40.952822+07:00"
+    },
+    {
+      "id": "53b9d88709cafd45c5fce9fa517ea086",
+      "title": "Mặc đúng cách khi chạy bộ dưới trời rét đậm",
+      "link": "https://vnexpress.net/mac-dung-cach-khi-chay-bo-duoi-troi-ret-dam-5009522.html",
+      "summary": "Những ngày rét đậm với nền nhiệt thấp đặt ra thách thức cho runner, vì nếu mặc phong phanh, cơ thể dễ bị hạ thân nhiệt, nhưng mặc quá dày sẽ làm đổ nhiều mồ hôi, dẫn đến ẩm ướt và lạnh ngược trở lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T09:08:44+07:00",
+      "fetched": "2026-01-24T17:18:55.384689+07:00"
+    },
+    {
+      "id": "e2214451f5c6341ef3d4759620a535c7",
+      "title": "Đồ hộp Hạ Long giải trình với Sở Giao dịch Chứng khoán Hà Nội",
+      "link": "https://thanhnien.vn/do-hop-ha-long-giai-trinh-voi-so-giao-dich-chung-khoan-ha-noi-185260124153200725.htm",
+      "summary": "Công ty CP Đồ hộp Hạ Long khẳng định đã tiêu hủy toàn bộ hơn 130 tấn nguyên liệu vi phạm, không đưa vào sản xuất, không cung ứng ra thị trường, đồng thời chủ động tạm dừng nhà máy để rà soát, khắc phục sai phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:08:00+07:00",
+      "fetched": "2026-01-24T17:18:44.381952+07:00"
+    },
+    {
+      "id": "d0214b33aad906748fd33d55553223a4",
+      "title": "Thiếu tá công an bị đâm trọng thương khi làm nhiệm vụ",
+      "link": "https://vnexpress.net/thieu-ta-cong-an-bi-dam-trong-thuong-khi-lam-nhiem-vu-5009467.html",
+      "summary": "Thiếu tá Nguyễn Khắc Huy, công an xã Tam Nông, bị nghi phạm say rượu, gây rối, đâm trọng thương khi đến hiện trường làm việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:06:45+07:00",
+      "fetched": "2026-01-24T17:18:40.953015+07:00"
+    },
+    {
+      "id": "916a14ddd8d113014586c58c29752cd0",
+      "title": "U.23 Việt Nam lại biến hóa khôn lường, xem đi xem lại màn thắng Hàn Quốc mãi không chán",
+      "link": "https://thanhnien.vn/u23-viet-nam-lai-bien-hoa-khon-luong-xem-di-xem-lai-man-thang-han-quoc-mai-khong-chan-1852601240347541.htm",
+      "summary": "U.23 Việt Nam thi đấu với U.23 Hàn Quốc bằng sơ đồ chiến thuật và lối chơi khác hẳn so với trận trước đó, khiến cho đội bóng trẻ đến từ xứ sở kim chi lúng túng thấy rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:04:00+07:00",
+      "fetched": "2026-01-24T17:18:44.382107+07:00"
+    },
+    {
+      "id": "7a497ca90d17c061e11e0cc53d7de41b",
+      "title": "Nhan sắc nóng bỏng của bạn gái cầu thủ sút tung lưới U.23 Hàn Quốc",
+      "link": "https://thanhnien.vn/nhan-sac-nong-bong-cua-ban-gai-cau-thu-sut-tung-luoi-u23-han-quoc-185260124154117144.htm",
+      "summary": "Nhan sắc xinh đẹp của Chu Hồng Nghi, bạn gái cầu thủ Nguyễn Quốc Việt nhanh chóng nhận được sự quan tâm của khán giả sau khi nam cầu thủ 10X ghi bàn trong trận đấu với U.23 Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:02:00+07:00",
+      "fetched": "2026-01-24T17:18:44.382251+07:00"
+    },
+    {
+      "id": "0547f65a37dd8ccca2446a1965339c52",
+      "title": "Tôi lặng lẽ kẹp tờ giấy vào kính lại khi bị tài xế đỗ ôtô chắn trước cửa nhà",
+      "link": "https://vnexpress.net/toi-lang-le-kep-to-giay-vao-kinh-lai-khi-bi-tai-xe-do-oto-chan-truoc-cua-nha-5009394.html",
+      "summary": "Tôi chịu khó đi xung quanh quán cà phê tìm tài xế, nếu không được tôi lặng lẽ kẹp tờ giấy có nội dung nhắc nhở vào kính lái ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:00:00+07:00",
+      "fetched": "2026-01-24T17:18:40.953185+07:00"
+    },
+    {
+      "id": "422a809f444e4fe6dde36da054e5fe8c",
+      "title": "Những nguyên tắc dâng hoa cúng cần biết",
+      "link": "https://vnexpress.net/nhung-nguyen-tac-dang-hoa-cung-can-biet-5004391.html",
+      "summary": "Trong tín ngưỡng thờ cúng, hoa dâng cúng được xem là cầu nối năng lượng trong nghi lễ tâm linh, đòi hỏi sự khắt khe về thời điểm thu hái và quy cách bài trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:00:00+07:00",
+      "fetched": "2026-01-24T17:18:40.953356+07:00"
+    },
+    {
+      "id": "a02b2503dd154cd3407cd8e628aea4ef",
+      "title": "5 thay đổi lối sống phòng ung thư cổ tử cung",
+      "link": "https://vnexpress.net/5-thay-doi-loi-song-phong-ung-thu-co-tu-cung-5009439.html",
+      "summary": "Duy trì lối sống lành mạnh, quan hệ tình dục an toàn, tiêm vaccine HPV góp phần phòng ngừa ung thư cổ tử cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T09:00:00+07:00",
+      "fetched": "2026-01-24T17:18:40.953510+07:00"
+    },
+    {
+      "id": "f197763957c365880fc2c82ce9f7ce12",
+      "title": "Nhân viên ngân hàng chiếm đoạt tiền của 5 khách từ điện thoại",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-chiem-doat-tien-cua-5-khach-tu-dien-thoai-5009509.html",
+      "summary": "Khi 5 khách hàng thực hiện đáo hạn ngân hàng, Vương Khánh Hưng lấy điện thoại của họ nhập lệnh chuyển tiền trong tài khoản, chiếm đoạt 2,8 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:56:07+07:00",
+      "fetched": "2026-01-24T17:18:40.953668+07:00"
+    },
+    {
+      "id": "e80d663458154ef7bbe5d730227397f1",
+      "title": "4 máy bay chở khách Nga gặp sự cố trong hai ngày",
+      "link": "https://vnexpress.net/4-may-bay-cho-khach-nga-gap-su-co-trong-hai-ngay-5009488.html",
+      "summary": "4 máy bay Boeing của các hãng hàng không Nga gặp sự cố phải hạ cánh khẩn cấp hoặc hủy cất cánh trong hai ngày qua, không có thương vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:27:35+07:00",
+      "fetched": "2026-01-24T17:18:40.953828+07:00"
+    },
+    {
+      "id": "e80d663458154ef7bbe5d730227397f1",
+      "title": "4 máy bay chở khách Nga gặp sự cố trong hai ngày",
+      "link": "https://vnexpress.net/4-may-bay-cho-khach-nga-gap-su-co-trong-hai-ngay-5009488.html",
+      "summary": "4 máy bay Boeing của các hãng hàng không Nga gặp sự cố phải hạ cánh khẩn cấp hoặc hủy cất cánh trong hai ngày qua, không có thương vong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-24T08:27:35+07:00",
+      "fetched": "2026-01-24T17:18:47.414544+07:00"
+    },
+    {
       "id": "6743486475ee60014772567e1b6afb18",
       "title": "Trần Tiến 'cái thời của tôi'",
       "link": "https://tuoitre.vn/tran-tien-cai-thoi-cua-toi-20260123231430886.htm",
@@ -733,6 +1163,16 @@ window.newsData_2026_01_24 = {
       "fetched": "2026-01-24T15:23:26.495290+07:00"
     },
     {
+      "id": "5347a498fcb0022fffb3a9a7d73285dd",
+      "title": "Bộ tem Tết Bính Ngọ có hình ảnh ngựa chín hồng mao",
+      "link": "https://vnexpress.net/bo-tem-tet-binh-ngo-co-hinh-anh-ngua-chin-hong-mao-5008188.html",
+      "summary": "Bộ tem Tết Bính Ngọ lấy cảm hứng từ hình tượng ngựa chín hồng mao trong truyền thuyết \"Sơn Tinh, Thủy Tinh\", mang thông điệp ''Mã đáo thành công''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:11:06+07:00",
+      "fetched": "2026-01-24T17:18:40.954008+07:00"
+    },
+    {
       "id": "54fd0671858ce349183a125a51c837b3",
       "title": "12% thí sinh dự thi TSA 2026 đợt 1 là học sinh lớp 10, 11",
       "link": "https://thanhnien.vn/12-thi-sinh-du-thi-tsa-2026-dot-1-la-hoc-sinh-lop-10-11-185260124143119631.htm",
@@ -741,6 +1181,16 @@ window.newsData_2026_01_24 = {
       "category": "Tổng hợp",
       "published": "2026-01-24T08:07:00+07:00",
       "fetched": "2026-01-24T15:23:26.495485+07:00"
+    },
+    {
+      "id": "063ee24e6c0c831041f781da20e9fdb2",
+      "title": "Nhìn lại 4 bàn thắng đưa Đình Bắc đồng dẫn đầu Vua phá lưới",
+      "link": "https://vnexpress.net/nhin-lai-4-ban-thang-dua-dinh-bac-dong-dan-dau-vua-pha-luoi-5009492.html",
+      "summary": "Với tuyệt phẩm sút phạt tung lưới Hàn Quốc cùng ba bàn thắng vào lướiJordan, Arab Saudi và UAE, Đình Bắc góp mặt trong nhóm ba cầu thủ dẫn đầu danh sách Vua phá lưới U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T08:06:33+07:00",
+      "fetched": "2026-01-24T17:18:40.954167+07:00"
     },
     {
       "id": "bbaa42ce4950975fb29cc07f77ee17bf",
