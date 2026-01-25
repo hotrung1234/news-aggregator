@@ -1,7 +1,117 @@
 window.newsData_2026_01_25 = {
   "date": "2026-01-25",
-  "lastUpdated": "2026-01-25T21:16:58.447305+07:00",
+  "lastUpdated": "2026-01-25T23:22:16.989292+07:00",
   "articles": [
+    {
+      "id": "d5274e7e69c85c4f0f3fea4012ee3ee3",
+      "title": "Cựu Thủ tướng Hàn Quốc qua đời tại TP.HCM",
+      "link": "https://tuoitre.vn/cuu-thu-tuong-han-quoc-qua-doi-tai-tp-hcm-20260125204542517.htm",
+      "summary": "Việt Nam đã phối hợp chặt chẽ, tạo mọi điều kiện y tế tốt nhất để chữa trị cựu thủ tướng Hàn Quốc Lee Han Chan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.262193+07:00",
+      "fetched": "2026-01-25T23:22:11.262306+07:00"
+    },
+    {
+      "id": "fd6c6edbd50d778a1e47c22d49223377",
+      "title": "Người đánh tài xế Grab vì không được hút thuốc trong xe đã ra trình diện công an",
+      "link": "https://tuoitre.vn/nguoi-danh-tai-xe-grab-vi-khong-duoc-hut-thuoc-trong-xe-da-ra-trinh-dien-cong-an-20260125204619791.htm",
+      "summary": "Tối 25-1, Công an phường Hòa Xuân, TP Đà Nẵng xác nhận người đập màn hình, đánh tài xế xe công nghệ đã ra trình diện cơ quan công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.262061+07:00",
+      "fetched": "2026-01-25T23:22:11.262181+07:00"
+    },
+    {
+      "id": "be3b3de3a7db9ab1033036c31cd29902",
+      "title": "Điện Kremlin: Nga sẽ không bao giờ nói chuyện với bà Kaja Kallas",
+      "link": "https://tuoitre.vn/dien-kremlin-nga-se-khong-bao-gio-noi-chuyen-voi-ba-kaja-kallas-2026012520512863.htm",
+      "summary": "Điện Kremlin khẳng định Matxcơva không bao giờ trao đổi với đại diện cấp cao EU về đối ngoại, đồng thời phê phán châu Âu yếu đuối và \"đạo đức giả\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261925+07:00",
+      "fetched": "2026-01-25T23:22:11.262049+07:00"
+    },
+    {
+      "id": "ed12883a5ae8610595418ca24a68cebf",
+      "title": "Những địa điểm check-in Tết sớm không thể bỏ qua tại TP.HCM",
+      "link": "https://tuoitre.vn/nhung-dia-diem-check-in-tet-som-khong-the-bo-qua-tai-tp-hcm-20260121130536481.htm",
+      "summary": "Còn gần một tháng nữa mới đến Tết Nguyên đán nhưng những ngày này rất nhiều chị em và cả quý ông diện áo dài lưu lại những khoảnh khắc đầu năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261769+07:00",
+      "fetched": "2026-01-25T23:22:11.261912+07:00"
+    },
+    {
+      "id": "311f5965d03ed3dd798778666385216d",
+      "title": "Tạ Minh Tâm, Đông Nhi và nhiều nghệ sĩ hát mừng thành công Đại hội XIV của Đảng",
+      "link": "https://tuoitre.vn/ta-minh-tam-dong-nhi-va-nhieu-nghe-si-hat-mung-thanh-cong-dai-hoi-xiv-cua-dang-20260125205517558.htm",
+      "summary": "Nhiều ca sĩ như Tạ Minh Tâm, Đông Nhi, Phương Vy, Thanh Ngọc, Anh Bằng… góp giọng hát mừng thành công Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261642+07:00",
+      "fetched": "2026-01-25T23:22:11.261758+07:00"
+    },
+    {
+      "id": "e94ac062263ba1cdcae4f2408bd5bca1",
+      "title": "Khởi tố vụ án cùng 4 bị can liên quan đến vụ 3 người chết trên đường tại Quảng Trị",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-cung-4-bi-can-lien-quan-den-vu-3-nguoi-chet-tren-duong-tai-quang-tri-20260125212651993.htm",
+      "summary": "Công an tỉnh Quảng Trị đã quyết định khởi tố vụ án về tội 'vi phạm quy định về tham gia giao thông đường bộ' và 'gây rối trật tự công cộng' liên quan đến vụ việc 3 người chết trên đường trong đêm tại phường Đồng Hới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261514+07:00",
+      "fetched": "2026-01-25T23:22:11.261631+07:00"
+    },
+    {
+      "id": "f5aa22fa38a6c3992c416eef567e5368",
+      "title": "Nam sinh viên đại học cùng đồng phạm bị bắt vì cướp tiệm vàng tại Ninh Bình",
+      "link": "https://tuoitre.vn/nam-sinh-vien-dai-hoc-cung-dong-pham-bi-bat-vi-cuop-tiem-vang-tai-ninh-binh-2026012521315964.htm",
+      "summary": "Nghi phạm Triệu Văn Nam, Đào Nguyên Bách khai do cần tiền tiêu xài, trả nợ, thông qua quen biết trên Facebook, cả hai đã bàn bạc, hẹn nhau thực hiện hành vi cướp tiệm vàng trên địa bàn tỉnh Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261384+07:00",
+      "fetched": "2026-01-25T23:22:11.261502+07:00"
+    },
+    {
+      "id": "9aa0568cfa3345ec11a906d6124b0092",
+      "title": "Đi ra sông chơi cùng bạn nhân dịp sinh nhật, một học sinh bị chết đuối thương tâm",
+      "link": "https://tuoitre.vn/di-ra-song-choi-cung-ban-nhan-dip-sinh-nhat-mot-hoc-sinh-bi-chet-duoi-thuong-tam-20260125213459307.htm",
+      "summary": "Một nhóm học sinh rủ nhau ra sông Chống Gậy, xã Sơn Thành, Đắk Lắk (huyện Tây Hòa, Phú Yên cũ) để vui chơi sau khi dự sinh nhật bạn, bất ngờ một em học sinh bị đuối nước tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261250+07:00",
+      "fetched": "2026-01-25T23:22:11.261372+07:00"
+    },
+    {
+      "id": "ffc1e11d3a1cfdb22eda677b94da8754",
+      "title": "Pháp bắt tàu nghi thuộc 'hạm đội bóng đêm', toàn bộ thủy thủ đoàn là người Ấn Độ",
+      "link": "https://tuoitre.vn/phap-bat-tau-nghi-thuoc-ham-doi-bong-dem-toan-bo-thuy-thu-doan-la-nguoi-an-do-20260125211326867.htm",
+      "summary": "Pháp tuyên bố đang bắt giữ và lai dắt tàu chở dầu Grinch nghi thuộc \"hạm đội bóng đêm\" của Nga, bắt giữ thuyền trưởng người Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.261113+07:00",
+      "fetched": "2026-01-25T23:22:11.261238+07:00"
+    },
+    {
+      "id": "e7be5887b5d700154cf1aa6bbd171b19",
+      "title": "Kiểm điểm 5 nguyên giám đốc, phó giám đốc Sở Giáo dục và đào tạo Bạc Liêu",
+      "link": "https://tuoitre.vn/kiem-diem-5-nguyen-giam-doc-pho-giam-doc-so-giao-duc-va-dao-tao-bac-lieu-20260125210216137.htm",
+      "summary": "Liên quan kết luận nội dung tố cáo của một giáo viên, Chủ tịch UBND tỉnh Cà Mau chỉ đạo tổ chức kiểm điểm 5 nguyên giám đốc, phó giám đốc Sở Giáo dục và Đào tạo tỉnh Bạc Liêu (cũ) và nhiều tổ chức, cá nhân khác liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.260962+07:00",
+      "fetched": "2026-01-25T23:22:11.261100+07:00"
+    },
+    {
+      "id": "49fdbc29380654ef54a20af98e0c0cdb",
+      "title": "Ngân hàng đổ mạnh tiền vào chứng khoán, bất động sản: VPBank, LPBank, TCB gây chú ý",
+      "link": "https://tuoitre.vn/ngan-hang-do-manh-tien-vao-chung-khoan-bat-dong-san-vpbank-lpbank-tcb-gay-chu-y-20260125211606888.htm",
+      "summary": "Dư nợ cho vay hoạt động kinh doanh bất động sản của LPBank ghi nhận mức tăng rất mạnh năm qua với gần 49%. Trong khi ở mảng chứng khoán, Techcombank, VPBank gây ấn tượng với con số tăng lần lượt 70% và 260%...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T23:22:11.260706+07:00",
+      "fetched": "2026-01-25T23:22:11.260945+07:00"
+    },
     {
       "id": "89dbb4cd92933e87c6683dc040b12122",
       "title": "World tour của BTS gây sốt toàn cầu với tốc độ bán vé kỷ lục",
@@ -413,6 +523,76 @@ window.newsData_2026_01_25 = {
       "fetched": "2026-01-25T17:19:24.500478+07:00"
     },
     {
+      "id": "05d7dd96155624365dae11045a327bff",
+      "title": "Tìm thấy xe máy nghi của đối tượng trong vụ cướp ngân hàng ở Gia Lai",
+      "link": "https://thanhnien.vn/tim-thay-xe-may-nghi-cua-doi-tuong-trong-vu-cuop-ngan-hang-o-gia-lai-185260125225207152.htm",
+      "summary": "Cơ quan chức năng phát hiện chiếc xe máy Yamaha Exciter nghi là của hai đối tượng dùng di chuyển trong vụ cướp ngân hàng ở Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T16:16:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323094+07:00"
+    },
+    {
+      "id": "3a5d55a839701740ce76a006628494d3",
+      "title": "Dàn người hùng Nutifood của U.23 Việt Nam tri ân HLV Giôm: 'Hơn cả một người thầy'",
+      "link": "https://thanhnien.vn/dan-nguoi-hung-nutifood-cua-u23-viet-nam-tri-an-hlv-giom-hon-ca-mot-nguoi-thay-185260125230347847.htm",
+      "summary": "Ngay sau khi trở về Việt Nam, những người hùng U.23 Việt Nam của lò Học viện Nutifood lập tức bay lên Gia Lai để tri ân HLV Guillaume Graechen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T16:06:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323273+07:00"
+    },
+    {
+      "id": "c5ccd510cf9b3d6f68a6fb69a8734931",
+      "title": "Chất xơ - Người gác cổng thầm lặng của hệ tiêu hóa và chuyển hóa",
+      "link": "https://thanhnien.vn/chat-xo-nguoi-gac-cong-tham-lang-cua-he-tieu-hoa-va-chuyen-hoa-185260125224636978.htm",
+      "summary": "Trong cuộc sống bận rộn, chất xơ thường bị xem nhẹ dù đóng vai trò quan trọng đối với tiêu hóa và chuyển hóa. Bổ sung đủ chất xơ mỗi ngày giúp giảm mỡ máu, hỗ trợ ổn định đường huyết, cải thiện tiêu hóa và phòng ngừa nhiều bệnh mạn tính đang ngày càng gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:53:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323437+07:00"
+    },
+    {
+      "id": "143535cf2f159454cb7ff6f3fc91b7b6",
+      "title": "Hơn 700.000 hộ gia đình tại Mỹ mất điện vì bão tuyết",
+      "link": "https://vnexpress.net/hon-700-000-ho-gia-dinh-tai-my-mat-dien-vi-bao-tuyet-5009786.html",
+      "summary": "Trận bão tuyết lớn khiến hơn 700.000 hộ tiêu dùng tại Mỹ bị mất điện, các bang Tennessee, Texas, Mississippi và Louisiana chịu ảnh hưởng nặng nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:44:12+07:00",
+      "fetched": "2026-01-25T23:22:07.042462+07:00"
+    },
+    {
+      "id": "143535cf2f159454cb7ff6f3fc91b7b6",
+      "title": "Hơn 700.000 hộ gia đình tại Mỹ mất điện vì bão tuyết",
+      "link": "https://vnexpress.net/hon-700-000-ho-gia-dinh-tai-my-mat-dien-vi-bao-tuyet-5009786.html",
+      "summary": "Trận bão tuyết lớn khiến hơn 700.000 hộ tiêu dùng tại Mỹ bị mất điện, các bang Tennessee, Texas, Mississippi và Louisiana chịu ảnh hưởng nặng nhất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T15:44:12+07:00",
+      "fetched": "2026-01-25T23:22:12.610314+07:00"
+    },
+    {
+      "id": "0c6dd94b67cb28fd24daf02ab977c1b1",
+      "title": "Bê bối trốn thuế của mỹ nam 'đẹp nhất Hàn Quốc'",
+      "link": "https://vnexpress.net/be-boi-tron-thue-cua-my-nam-dep-nhat-han-quoc-5009767.html",
+      "summary": "\"Mỹ nam đẹp nhất Hàn Quốc\" Cha Eun Woo bị tẩy chay khi vướng cáo buộc trốn thuế số tiền hàng chục triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:28:20+07:00",
+      "fetched": "2026-01-25T23:22:07.042645+07:00"
+    },
+    {
+      "id": "e217a315dcf9f89ea4f579244e857268",
+      "title": "Hai sinh viên, công nhân nợ nần rủ nhau đi cướp tiệm vàng",
+      "link": "https://vnexpress.net/hai-sinh-vien-cong-nhan-no-nan-ru-nhau-di-cuop-tiem-vang-5009780.html",
+      "summary": "Hai nghi can đến tiệm vàng Hồng Ngát ở phường Duy Tiên, cầm búa và dao bầu xông cướp lượng lớn trang sức và bị bắt sau 40 giờ gây án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:24:51+07:00",
+      "fetched": "2026-01-25T23:22:07.042809+07:00"
+    },
+    {
       "id": "d389ce8d807a2a2746f0c0d143cb545e",
       "title": "Học sinh lo lắng AI có thể thay thế con người trong tương lai, thầy cô trấn an",
       "link": "https://tuoitre.vn/hoc-sinh-lo-lang-ai-co-the-thay-the-con-nguoi-trong-tuong-lai-thay-co-tran-an-20260125100950037.htm",
@@ -563,6 +743,136 @@ window.newsData_2026_01_25 = {
       "fetched": "2026-01-25T15:24:30.768836+07:00"
     },
     {
+      "id": "5a6ef960e278f773c7a868f54e52bde9",
+      "title": "Báo Thái Lan 'giải mã' thành công rực rỡ của HLV Kim Sang-sik: Không phải phép màu nhất thời!",
+      "link": "https://thanhnien.vn/bao-thai-lan-giai-ma-thanh-cong-ruc-ro-cua-hlv-kim-sang-sik-khong-phai-phep-mau-nhat-thoi-185260125221633088.htm",
+      "summary": "Thành công của U.23 Việt Nam dưới sự dẫn dắt của HLV Kim Sang-sik không chỉ tạo dấu ấn mạnh mẽ tại các giải đấu khu vực và châu lục, mà còn khiến truyền thông Thái Lan phải dành nhiều sự quan tâm đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:20:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323592+07:00"
+    },
+    {
+      "id": "d6a36c345e40a223ea381ba2106da7ef",
+      "title": "Ninh Bình: Bắt nam sinh đại học cướp tiệm vàng",
+      "link": "https://thanhnien.vn/ninh-binh-bat-nam-sinh-dai-hoc-cuop-tiem-vang-185260125211131069.htm",
+      "summary": "Đào Nguyên Bách là sinh viên đại học và Triệu Văn Nam là công nhân đã cùng nhau mang theo búa, dao bầu đến đe dọa và cướp tiệm vàng trên địa bàn tỉnh Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:02:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323746+07:00"
+    },
+    {
+      "id": "7eb6eeaf34b991148ec0c3f6eeae9227",
+      "title": "Rà soát lô sữa Aptamil cho trẻ nhỏ có cảnh báo nhiễm độc tố vi khuẩn",
+      "link": "https://thanhnien.vn/ra-soat-lo-sua-aptamil-cho-tre-nho-co-canh-bao-nhiem-doc-to-vi-khuan-185260125210506591.htm",
+      "summary": "Rà soát, ngừng sử dụng và thu hồi toàn quốc sữa Aptamil first infant formula đóng gói 800 gam, hạn sử dụng trước ngày 31.10.2026 do có cảnh báo sản phẩm nhiễm độc tố do vi khuẩn Bacillus cereus.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:00:00+07:00",
+      "fetched": "2026-01-25T23:22:10.323932+07:00"
+    },
+    {
+      "id": "037ff399e79e35dcbd70c0d079980cc3",
+      "title": "Lãnh đạo các nước và tổ chức quốc tế gửi điện, thư chúc mừng Tổng Bí thư Tô Lâm",
+      "link": "https://thanhnien.vn/lanh-dao-cac-nuoc-va-to-chuc-quoc-te-gui-dien-thu-chuc-mung-tong-bi-thu-to-lam-185260125210118331.htm",
+      "summary": "Nhân dịp Tổng Bí thư Tô Lâm được Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIV bầu lại làm Tổng Bí thư, lãnh đạo nhiều quốc gia, tổ chức quốc tế đã gửi điện, thư mừng chúc mừng Tổng Bí thư Tô Lâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T15:00:00+07:00",
+      "fetched": "2026-01-25T23:22:10.324092+07:00"
+    },
+    {
+      "id": "1049d3e39e25e96eb964fe7312f00a24",
+      "title": "Cựu Thủ tướng Hàn Quốc Lee Hae Chan qua đời tại TP.HCM",
+      "link": "https://thanhnien.vn/cuu-thu-tuong-han-quoc-lee-hae-chan-qua-doi-tai-tphcm-185260125212028927.htm",
+      "summary": "Bộ Ngoại giao đã phối hợp chặt chẽ với TP.HCM và các cơ quan tạo mọi điều kiện y tế tốt nhất chữa trị cho cựu Thủ tướng Hàn Quốc Lee Hae Chan. Tuy nhiên, do bệnh nặng, ông Lee Hae Chan đã từ trần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:59:00+07:00",
+      "fetched": "2026-01-25T23:22:10.324247+07:00"
+    },
+    {
+      "id": "1a5a83e9884d10a48653112d0cdebf6f",
+      "title": "Trộm sạch cây cầu thép 10 tấn chỉ trong một đêm",
+      "link": "https://thanhnien.vn/trom-sach-cay-cau-thep-10-tan-chi-trong-mot-dem-185260125213613087.htm",
+      "summary": "Một cây cầu thép dài khoảng 21 m và nặng hơn 10 tấn tại thành phố Korba thuộc bang Chhattisgarh của Ấn Độ đã bị trộm trong đêm, theo tờ The Hindu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:51:00+07:00",
+      "fetched": "2026-01-25T23:22:10.324398+07:00"
+    },
+    {
+      "id": "a797527a2831ac393143aa9d5d70c278",
+      "title": "Người Mỹ tích trữ đồ ăn ứng phó bão tuyết",
+      "link": "https://vnexpress.net/nguoi-my-tich-tru-do-an-ung-pho-bao-tuyet-5009750.html",
+      "summary": "Các kệ hàng đồ thiết yếu trong siêu thị ở Mỹ trống trơn khi người dân tại nhiều bang đổ xô mua tích trữ trước lúc bão mùa đông ập đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:45:51+07:00",
+      "fetched": "2026-01-25T23:22:07.043003+07:00"
+    },
+    {
+      "id": "6555509404b5bd6881285442d2ea45cd",
+      "title": "Cựu thủ tướng Hàn Quốc qua đời tại TP HCM",
+      "link": "https://vnexpress.net/cuu-thu-tuong-han-quoc-qua-doi-tai-tp-hcm-5009776.html",
+      "summary": "Cựu thủ tướng Hàn Quốc Lee Hae-chan qua đời do bệnh nặng sau thời gian điều trị tại TP HCM, theo người phát ngôn Bộ Ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:38:16+07:00",
+      "fetched": "2026-01-25T23:22:07.043176+07:00"
+    },
+    {
+      "id": "6555509404b5bd6881285442d2ea45cd",
+      "title": "Cựu thủ tướng Hàn Quốc qua đời tại TP HCM",
+      "link": "https://vnexpress.net/cuu-thu-tuong-han-quoc-qua-doi-tai-tp-hcm-5009776.html",
+      "summary": "Cựu thủ tướng Hàn Quốc Lee Hae-chan qua đời do bệnh nặng sau thời gian điều trị tại TP HCM, theo người phát ngôn Bộ Ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T14:38:16+07:00",
+      "fetched": "2026-01-25T23:22:12.610510+07:00"
+    },
+    {
+      "id": "270adfb2e80c19a09ea078aff24ddce1",
+      "title": "Djokovic không cần thi đấu vẫn vào tứ kết Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/djokovic-khong-can-thi-dau-van-vao-tu-ket-australia-mo-rong-2026-5009778.html",
+      "summary": "Kỷ lục gia 10 lần vô địch Novak Djokovic vào tứ kết Australia Mở rộng 2026, sau khi đối thủ Jakub Mensik thông báo rút lui vì chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:34:05+07:00",
+      "fetched": "2026-01-25T23:22:07.043336+07:00"
+    },
+    {
+      "id": "270adfb2e80c19a09ea078aff24ddce1",
+      "title": "Djokovic không cần thi đấu vẫn vào tứ kết Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/djokovic-khong-can-thi-dau-van-vao-tu-ket-australia-mo-rong-2026-5009778.html",
+      "summary": "Kỷ lục gia 10 lần vô địch Novak Djokovic vào tứ kết Australia Mở rộng 2026, sau khi đối thủ Jakub Mensik thông báo rút lui vì chấn thương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T14:34:05+07:00",
+      "fetched": "2026-01-25T23:22:16.977252+07:00"
+    },
+    {
+      "id": "303fb9ce3ea11e5e53c9d1c2214694fa",
+      "title": "Tài xế chở container 'thuốc lá lậu nhiều kỷ lục' lạng lách trốn cảnh sát",
+      "link": "https://vnexpress.net/tai-xe-cho-container-thuoc-la-lau-nhieu-ky-luc-lang-lach-tron-canh-sat-5009769.html",
+      "summary": "Suốt hai km, tài xế xe tải chở thuốc lá lậu đã lạng lách, đánh võng bỏ chạy, không chấp hành hiệu lệnh của cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:22:21+07:00",
+      "fetched": "2026-01-25T23:22:07.043500+07:00"
+    },
+    {
+      "id": "8c2ff0ad1b824aae8dd19dbb75277cbd",
+      "title": "Phá đường dây cho người nước ngoài nhập cảnh trái phép, bắt giữ nhiều nghi phạm",
+      "link": "https://thanhnien.vn/pha-duong-day-cho-nguoi-nuoc-ngoai-nhap-canh-trai-phep-bat-giu-nhieu-nghi-pham-185260125174025056.htm",
+      "summary": "Công an Tây Ninh vừa triệt phá đường dây tổ chức cho người nước ngoài nhập cảnh trái phép từ Campuchia, bắt giữ nhiều nghi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:18:00+07:00",
+      "fetched": "2026-01-25T23:22:10.324554+07:00"
+    },
+    {
       "id": "5b5577b2df7c38f14353cdfedb5ed749",
       "title": "Ra mắt Con đường Nhiếp ảnh 'độc nhất vô nhị' tại Việt Nam",
       "link": "https://thanhnien.vn/ra-mat-con-duong-nhiep-anh-doc-nhat-vo-nhi-tai-viet-nam-185260125190020851.htm",
@@ -583,6 +893,26 @@ window.newsData_2026_01_25 = {
       "fetched": "2026-01-25T21:16:48.036249+07:00"
     },
     {
+      "id": "599256e93d58084014a537a6105a6332",
+      "title": "Elon Musk: 'Robot sẽ đông hơn con người'",
+      "link": "https://vnexpress.net/elon-musk-robot-se-dong-hon-con-nguoi-5009609.html",
+      "summary": "CEO Tesla, Elon Musk, dự đoán robot sẽ trở nên phổ biến khắp nơi, tạo ra sự bùng nổ cho nền kinh tế toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:09:02+07:00",
+      "fetched": "2026-01-25T23:22:07.043663+07:00"
+    },
+    {
+      "id": "599256e93d58084014a537a6105a6332",
+      "title": "Elon Musk: 'Robot sẽ đông hơn con người'",
+      "link": "https://vnexpress.net/elon-musk-robot-se-dong-hon-con-nguoi-5009609.html",
+      "summary": "CEO Tesla, Elon Musk, dự đoán robot sẽ trở nên phổ biến khắp nơi, tạo ra sự bùng nổ cho nền kinh tế toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-25T14:09:02+07:00",
+      "fetched": "2026-01-25T23:22:15.914848+07:00"
+    },
+    {
       "id": "bd53e874f55250055f97e907d952c76f",
       "title": "HLV tuyển Thái Lan: 'Cầu thủ của chúng tôi có tiềm năng hơn Việt Nam'",
       "link": "https://vnexpress.net/hlv-tuyen-thai-lan-cau-thu-cua-chung-toi-co-tiem-nang-hon-viet-nam-5009773.html",
@@ -593,6 +923,16 @@ window.newsData_2026_01_25 = {
       "fetched": "2026-01-25T21:16:58.435950+07:00"
     },
     {
+      "id": "18f7f2fae3623fc6a8891ed96016182f",
+      "title": "Tù nhân Anh gây phẫn nộ vì livestream TikTok kiếm tiền từ phòng giam",
+      "link": "https://vnexpress.net/tu-nhan-anh-gay-phan-no-vi-livestream-tiktok-kiem-tien-tu-phong-giam-5009757.html",
+      "summary": "Tội phạm giết người Eugert Merizaj kiếm được 20.000 bảng Anh chỉ trong 7 phút từ buổi phát trực tiếp trên TikTok bằng điện thoại lậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T14:02:42+07:00",
+      "fetched": "2026-01-25T23:22:07.044015+07:00"
+    },
+    {
       "id": "39438ffaafb355c200c4e12b77874a82",
       "title": "Trải nghiệm ứng dụng công nghệ miễn phí tại Tư vấn mùa thi 2026",
       "link": "https://thanhnien.vn/trai-nghiem-ung-dung-cong-nghe-mien-phi-tai-tu-van-mua-thi-2026-185260125190537894.htm",
@@ -601,6 +941,16 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T13:56:00+07:00",
       "fetched": "2026-01-25T21:16:48.036407+07:00"
+    },
+    {
+      "id": "6193c4cd35edc3d3eb91674a6542fe76",
+      "title": "Đại học hơn 100 tuổi ở California giải thể vì thiếu sinh viên",
+      "link": "https://vnexpress.net/dai-hoc-hon-100-tuoi-o-california-giai-the-vi-thieu-sinh-vien-5005939.html",
+      "summary": "Vì thiếu sinh viên, trường Nghệ thuật California (California College of the Arts) sẽ đóng cửa vào cuối năm học tới, chấm dứt 119 năm hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T13:47:34+07:00",
+      "fetched": "2026-01-25T23:22:07.044180+07:00"
     },
     {
       "id": "d400c409b6f8039f5bf6c4fee36d0d98",
@@ -1371,6 +1721,16 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T10:13:47+07:00",
       "fetched": "2026-01-25T17:19:20.283043+07:00"
+    },
+    {
+      "id": "0df6f9c8775f19b5e59251e69d3ca1fa",
+      "title": "Alcaraz vượt ải Paul ở Australia Mở rộng 2026",
+      "link": "https://vnexpress.net/alcaraz-vuot-ai-paul-o-australia-mo-rong-2026-5009758.html",
+      "summary": "Hạt giống số một Carlos Alcaraz vào tứ kết mà không thua set nào, khi hạ đối thủ hạt giống số 19 Tommy Paul 7-6 (6), 6-4, 7-5 hôm 25/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T10:13:47+07:00",
+      "fetched": "2026-01-25T23:22:16.977590+07:00"
     },
     {
       "id": "7f6c5ab751a6b61f5ec8fcf17253978b",
