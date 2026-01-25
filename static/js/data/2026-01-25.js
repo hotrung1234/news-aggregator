@@ -1,6 +1,6 @@
 window.newsData_2026_01_25 = {
   "date": "2026-01-25",
-  "lastUpdated": "2026-01-25T10:51:42.437003+07:00",
+  "lastUpdated": "2026-01-25T11:50:10.731516+07:00",
   "articles": [
     {
       "id": "c2a4925683b480be83949aea0f504bdb",
@@ -261,6 +261,66 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T05:17:33.308640+07:00",
       "fetched": "2026-01-25T05:17:33.308853+07:00"
+    },
+    {
+      "id": "8c3226ca541a4c7793407cd0a4d019da",
+      "title": "Cận cảnh khu ‘đất vàng’ thành công viên ở TP.HCM, mở cửa đón người dân chiều nay",
+      "link": "https://thanhnien.vn/can-canh-khu-dat-vang-thanh-cong-vien-o-tphcm-mo-cua-don-nguoi-dan-chieu-nay-18526012511123508.htm",
+      "summary": "Sau thời gian cải tạo, chỉnh trang, khu 'đất vàng' nhà thi đấu Phan Đình Phùng (phường Xuân Hòa, TP.HCM) đã hoàn thiện và sẵn sàng mở cửa phục vụ người dân từ chiều nay với hàng loạt hạng mục chủ đề về thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:24:00+07:00",
+      "fetched": "2026-01-25T11:50:03.388320+07:00"
+    },
+    {
+      "id": "70bcc07267c4cfc818ea1ea06d75e851",
+      "title": "HLV Kim Sang-sik đi theo lộ trình rực rỡ của ông Park Hang-seo, đội tuyển Việt Nam vươn tới đỉnh cao",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-di-theo-lo-trinh-ruc-ro-cua-ong-park-hang-seo-doi-tuyen-viet-nam-vuon-toi-dinh-cao-185260125102957299.htm",
+      "summary": "Dàn sao trẻ U.23 Việt Nam đã có những bước trưởng thành vượt bậc khi vào đến tốp 3 U.23 châu Á 2026, hứa hẹn trở thành trụ cột của đội tuyển Việt Nam trong tương lai gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:20:00+07:00",
+      "fetched": "2026-01-25T11:50:03.388489+07:00"
+    },
+    {
+      "id": "a3e84ae4b078c54f09e7c4e8d5641dcf",
+      "title": "Ca sĩ là thực tập sinh ở Hàn, nói lý do về Việt Nam hoạt động",
+      "link": "https://thanhnien.vn/ca-si-la-thuc-tap-sinh-o-han-noi-ly-do-ve-viet-nam-hoat-dong-185260125093723997.htm",
+      "summary": "Trước khi trở về Việt Nam, CongB từng có thời gian dài làm thực tập sinh tại Hàn Quốc và tham gia nhiều chương trình âm nhạc sống còn tại châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:16:00+07:00",
+      "fetched": "2026-01-25T11:50:03.388663+07:00"
+    },
+    {
+      "id": "449fa90ec286c4dc20091936ae801bea",
+      "title": "Góc bất ngờ trận tranh HCĐ châu Á: U.23 Việt Nam và U.23 Hàn Quốc, ai nhỏ tuổi hơn?",
+      "link": "https://thanhnien.vn/goc-bat-ngo-tran-tranh-hcd-chau-a-u23-viet-nam-va-u23-han-quoc-ai-nho-tuoi-hon-185260125105619729.htm",
+      "summary": "Nhiều người cho rằng U.23 Hàn Quốc tung ra đội hình trẻ để đấu với U.23 Việt Nam trong trận tranh HCĐ VCK U.23 châu Á 2026 hẳn sẽ phải bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:01:00+07:00",
+      "fetched": "2026-01-25T11:50:03.388822+07:00"
+    },
+    {
+      "id": "c5f0bbdc87aaf4e4177f2b3323321f78",
+      "title": "Xem nhanh 12h: Manh động cướp tiệm vàng ở Ninh Bình | Miền Trung sẽ đón 2 đợt mưa lớn",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-manh-dong-cuop-tiem-vang-o-ninh-binh-mien-trung-se-don-2-dot-mua-lon-185260125110119677.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 25.1.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:00:00+07:00",
+      "fetched": "2026-01-25T11:50:03.389000+07:00"
+    },
+    {
+      "id": "bf93c38266bfe60cb55a12fcbdaad172",
+      "title": "U.23 Việt Nam còn nhiều 'ngọc quý': Sẵn sàng đua huy chương U.23 châu Á 2028",
+      "link": "https://thanhnien.vn/u23-viet-nam-con-nhieu-ngoc-quy-san-sang-dua-huy-chuong-u23-chau-a-2028-185260125103712934.htm",
+      "summary": "Lực lượng hiện tại của U.23 Việt Nam vẫn còn một số gương mặt đủ điều kiện dự giải U.23 châu Á 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T04:00:00+07:00",
+      "fetched": "2026-01-25T11:50:03.389153+07:00"
     },
     {
       "id": "4bb3df4ca75731458437c2a9208ba987",
