@@ -1,7 +1,97 @@
 window.newsData_2026_01_25 = {
   "date": "2026-01-25",
-  "lastUpdated": "2026-01-25T05:17:41.034738+07:00",
+  "lastUpdated": "2026-01-25T08:44:33.091057+07:00",
   "articles": [
+    {
+      "id": "15ff2fb6e3204e1332a0788fbfbdc1ef",
+      "title": "Thắng đậm U23 Trung Quốc, Nhật Bản đi vào lịch sử U23 châu Á",
+      "link": "https://tuoitre.vn/thang-dam-u23-trung-quoc-nhat-ban-di-vao-lich-su-u23-chau-a-20260125012754893.htm",
+      "summary": "Nhật Bản là đội bóng đầu tiên trong lịch sử bảo vệ thành công ngôi vương trong lịch sử U23 châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894795+07:00",
+      "fetched": "2026-01-25T08:44:26.894930+07:00"
+    },
+    {
+      "id": "b3261346b1d895b9320c9b635ec370ec",
+      "title": "Bí quyết giúp Đình Bắc cao thêm 15cm ngay giữa đại dịch COVID-19",
+      "link": "https://tuoitre.vn/bi-quyet-giup-dinh-bac-cao-them-15cm-ngay-giua-dai-dich-covid-19-20260124182859338.htm",
+      "summary": "Dậy thì muộn - tình trạng từng khiến Nguyễn Đình Bắc suýt bị loại khỏi các lò đào tạo bóng đá trẻ, thật ra cũng là một tác nhân giúp siêu sao của U23 Việt Nam bùng nổ thể chất ở tuổi đôi mươi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894664+07:00",
+      "fetched": "2026-01-25T08:44:26.894784+07:00"
+    },
+    {
+      "id": "1ce4449142398bdd9bfed273fa4c395c",
+      "title": "Mbappe lập cú đúp giúp Real Madrid vươn lên dẫn đầu La Liga",
+      "link": "https://tuoitre.vn/mbappe-lap-cu-dup-giup-real-madrid-vuon-len-dan-dau-la-liga-20260125053315671.htm",
+      "summary": "Tiền đạo người Pháp Kylian Mbappe lập cú đúp trong hiệp hai giúp Real Madrid giành chiến thắng 2-0 trước Villarreal trên sân khách, qua đó vượt qua Barcelona để tạm thời chiếm vị trí dẫn đầu La Liga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894532+07:00",
+      "fetched": "2026-01-25T08:44:26.894653+07:00"
+    },
+    {
+      "id": "b5888b00fdeb586bc948bdbd17e8141a",
+      "title": "10 bàn thắng, U23 Việt Nam sở hữu hàng công tốt thứ 2 U23 châu Á",
+      "link": "https://tuoitre.vn/10-ban-thang-u23-viet-nam-so-huu-hang-cong-tot-thu-2-u23-chau-a-20260125031419031.htm",
+      "summary": "U23 Việt Nam là một trong những đội có đầu ra bàn thắng tốt nhất tại Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894400+07:00",
+      "fetched": "2026-01-25T08:44:26.894520+07:00"
+    },
+    {
+      "id": "c8e69e3722fadf2ea8c11ae458131550",
+      "title": "HLV U23 Trung Quốc thấy 'quá bất công' khi Li Hao mất giải Thủ môn xuất sắc vào tay Nhật Bản",
+      "link": "https://tuoitre.vn/hlv-u23-trung-quoc-thay-qua-bat-cong-khi-li-hao-mat-giai-thu-mon-xuat-sac-vao-tay-nhat-ban-20260125035257703.htm",
+      "summary": "HLV U23 Trung Quốc Antonio Puche bày tỏ sự không hài lòng về quyết định trao giải của ban tổ chức U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894258+07:00",
+      "fetched": "2026-01-25T08:44:26.894388+07:00"
+    },
+    {
+      "id": "2474f7b2c3b6504664397055fc4a5a05",
+      "title": "U23 Trung Quốc được báo chí nước nhà so sánh với á quân Euro 2012",
+      "link": "https://tuoitre.vn/u23-trung-quoc-duoc-bao-chi-nuoc-nha-so-sanh-voi-a-quan-euro-2012-20260125011719871.htm",
+      "summary": "Thất bại 0-4 trước U23 Nhật Bản đã khiến dư luận Trung Quốc dậy sóng. Trong bối cảnh đó, báo chí Trung Quốc liền trấn an người hâm mộ bằng cách so sánh đội bóng “xứ tỉ dân” với á quân Euro 2012 - tuyển Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.894119+07:00",
+      "fetched": "2026-01-25T08:44:26.894246+07:00"
+    },
+    {
+      "id": "cefe7275af866a1f3c7c58fd9176b273",
+      "title": "Hút thuốc trên xe bị nhắc còn giở thói côn đồ, không sợ vướng vòng lao lý?",
+      "link": "https://tuoitre.vn/hut-thuoc-tren-xe-bi-nhac-con-gio-thoi-con-do-khong-so-vuong-vong-lao-ly-20260124233513821.htm",
+      "summary": "Vụ tài xế xe công nghệ nhắc nhở hành khách không hút thuốc trên xe bị hành hung một lần nữa gióng lên hồi chuông về thói côn đồ, hành vi bạo lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.893977+07:00",
+      "fetched": "2026-01-25T08:44:26.894107+07:00"
+    },
+    {
+      "id": "03f4781f4c93a115f846f2738108c510",
+      "title": "Lấn chiếm vỉa hè: Cần quy hoạch, thiết kế, tuyên truyền, đối thoại rồi mới xử phạt",
+      "link": "https://tuoitre.vn/lan-chiem-via-he-can-quy-hoach-thiet-ke-tuyen-truyen-doi-thoai-roi-moi-xu-phat-20260124234906796.htm",
+      "summary": "Sau khi các lực lượng chức năng ra quân xử lý vi phạm lấn chiếm lòng lề đường, cần duy trì nhiều cách để duy trì trật tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.893792+07:00",
+      "fetched": "2026-01-25T08:44:26.893962+07:00"
+    },
+    {
+      "id": "cb726168738b7d8bb39653bfc269c3a4",
+      "title": "Đưa Nghị quyết thành hành động: Trách nhiệm của thế hệ trẻ với sự phát triển của đất nước",
+      "link": "https://tuoitre.vn/dua-nghi-quyet-thanh-hanh-dong-trach-nhiem-cua-the-he-tre-voi-su-phat-trien-cua-dat-nuoc-20260124225447653.htm",
+      "summary": "Sau thành công của Đại hội XIV, nhiều sinh viên, đảng viên trẻ bày tỏ niềm tin và xác định rõ trách nhiệm đưa Nghị quyết sớm đi vào cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T08:44:26.893550+07:00",
+      "fetched": "2026-01-25T08:44:26.893776+07:00"
+    },
     {
       "id": "73ba8a701e32d3dde906faa9114e8acd",
       "title": "Thời tiết hôm nay 25-1: Bắc Bộ rét mướt mưa phùn, Nam Bộ nắng",
@@ -61,6 +151,26 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T03:19:05.441796+07:00",
       "fetched": "2026-01-25T03:19:05.442014+07:00"
+    },
+    {
+      "id": "2b5d1ae83b2c71508556e67c370c93c0",
+      "title": "Sắc vóc gây chú ý của NSND Hồng Vân ở tuổi 60",
+      "link": "https://thanhnien.vn/sac-voc-gay-chu-y-cua-nsnd-hong-van-o-tuoi-60-185260125033749897.htm",
+      "summary": "Ở tuổi 60, NSND Hồng Vân vẫn giữ được vẻ ngoài trẻ trung, rạng rỡ. Đáng chú ý, sau quãng thời gian giảm cân thành công, nữ nghệ sĩ nhận được nhiều lời khen ngợi từ khán giả bởi sắc vóc thon gọn, thần thái tươi tắn và nguồn năng lượng tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:43:00+07:00",
+      "fetched": "2026-01-25T08:44:24.239476+07:00"
+    },
+    {
+      "id": "123ad9bf8a478102f7f1bb183df7a87e",
+      "title": "Động thái cực thú vị của Đình Bắc khi nhận danh hiệu Vua phá lưới châu Á, thốt lên: Trời ơi!",
+      "link": "https://thanhnien.vn/dong-thai-cuc-thu-vi-cua-dinh-bac-khi-nhan-danh-hieu-vua-pha-luoi-chau-a-thot-len-troi-oi-185260125084108345.htm",
+      "summary": "Có vẻ như chính Đình Bắc cũng rất bất ngờ khi mình nhận được danh hiệu 'Vua phá lưới' của giải U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:41:00+07:00",
+      "fetched": "2026-01-25T08:44:24.239659+07:00"
     },
     {
       "id": "39426d380ed48beecd6ccb418ffe9556",
@@ -211,6 +321,316 @@ window.newsData_2026_01_25 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T01:26:34.072986+07:00",
       "fetched": "2026-01-25T01:26:34.073193+07:00"
+    },
+    {
+      "id": "770c21349b4be43d6c6be70ace595666",
+      "title": "Những lưu ý về các kỳ thi riêng phục vụ tuyển sinh đại học năm 2026",
+      "link": "https://thanhnien.vn/nhung-luu-y-ve-cac-ky-thi-rieng-phuc-vu-tuyen-sinh-dai-hoc-nam-2026-185260124210149996.htm",
+      "summary": "Vào 8 giờ 30 sáng nay (25.1), chương trình Tư vấn mùa thi 2026 của Báo Thanh Niên tiếp tục diễn ra tại Trung tâm Hội nghị và Triển lãm Bình Dương (số 1 Lê Lợi, phường Bình Dương, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:20:00+07:00",
+      "fetched": "2026-01-25T08:44:24.239819+07:00"
+    },
+    {
+      "id": "37ec340fa593b1e33d7664f789e0efad",
+      "title": "Nói cùng hoa sao tím - Thơ của Hạ Minh",
+      "link": "https://thanhnien.vn/noi-cung-hoa-sao-tim-tho-cua-ha-minh-185260124201337002.htm",
+      "summary": "",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:05:00+07:00",
+      "fetched": "2026-01-25T08:44:25.624750+07:00"
+    },
+    {
+      "id": "dda3b5ba22e896c7c7ea131f753a53a1",
+      "title": "Tập nhẹ nhưng đều: Bí quyết giữ thận khỏe",
+      "link": "https://thanhnien.vn/tap-nhe-nhung-deu-bi-quyet-giu-than-khoe-185260123200237162.htm",
+      "summary": "Suy giảm chức năng thận thường tiến triển âm thầm, đặc biệt ở người lớn tuổi, mắc tiểu đường, huyết áp cao hay thừa cân. Bên cạnh điều trị bằng thuốc và kiểm soát bệnh nền thì mức độ vận động hằng ngày cũng rất quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:04:00+07:00",
+      "fetched": "2026-01-25T08:44:25.624963+07:00"
+    },
+    {
+      "id": "3204be746ca4d6b5b336eb20e290966b",
+      "title": "4 năm đại học, cô gái nhận được 9 loại học bổng",
+      "link": "https://thanhnien.vn/4-nam-dai-hoc-co-gai-nhan-duoc-9-loai-hoc-bong-18526012421412151.htm",
+      "summary": "Từ tuổi thơ gắn với nỗi lo cơm áo của gia đình, đến ký ức lớp 10 đi học xa một tuần chỉ dám tiêu 220.000 đồng, với Võ Thị Khánh Linh, thủ khoa tốt nghiệp Trường ĐH Khoa học tự nhiên (ĐH Quốc gia TP.HCM), đó thật sự là một hành trình kỳ diệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:00:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625126+07:00"
+    },
+    {
+      "id": "8c34b5df381be14dcda83d1bb6832b8b",
+      "title": "Mùi thơm bí ẩn",
+      "link": "https://thanhnien.vn/mui-thom-bi-an-185260124202119231.htm",
+      "summary": "Hơn một tuần rồi, vào buổi sáng, tôi phát hiện chỗ mình ngồi làm việc có một mùi thơm thoảng, dịu nhẹ; đến nỗi tôi cảm giác một cử động nhỏ cũng dễ làm tan vỡ mùi hương. Nó còn trêu tức tôi khi thoảng nhẹ, lúc ngọt đậm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:00:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625290+07:00"
+    },
+    {
+      "id": "cd5d04afab4e2d5bcf48088f62ee19eb",
+      "title": "Bỏ học bạ, thêm xét tuyển tổng hợp: Công bằng hơn cho thí sinh?",
+      "link": "https://thanhnien.vn/bo-hoc-ba-them-xet-tuyen-tong-hop-cong-bang-hon-cho-thi-sinh-18526012413215238.htm",
+      "summary": "Năm nay nhiều trường bỏ phương thức xét học bạ, hoặc thêm phương thức xét tuyển tổng hợp trong đó có sử dụng kết hợp điểm học bạ, điểm thi, điểm đánh giá năng lực... Điều này có tác động tới thí sinh ra sao theo đề án tuyển sinh của các trường?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:00:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625444+07:00"
+    },
+    {
+      "id": "6166360141f556465bffda87c04fcc3c",
+      "title": "Áo len mặc ngoài váy, diện lúc nào cũng đẹp, dịu dàng mà lại ấm áp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-len-mac-ngoai-vay-dien-luc-nao-cung-dep-diu-dang-ma-lai-am-ap-18526011913193468.htm",
+      "summary": "Áo len mặc ngoài váy là cách phối đồ đơn giản, dễ áp dụng nhưng có thể mang đến những bản phối đẹp mắt và giàu tính ứng dụng. Nàng có thể sử dụng áo len cổ chữ V, cardigan, áo len oversized mặc cùng chân váy bút chì, chân váy xếp ly, chân váy họa tiết cổ điển...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T01:00:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625603+07:00"
+    },
+    {
+      "id": "6ced1129ad5cbb7d394a449c7f2c53fd",
+      "title": "Trung Quốc ra mắt 'chip dạng sợi' mỏng như tóc",
+      "link": "https://vnexpress.net/trung-quoc-ra-mat-chip-dang-soi-mong-nhu-toc-5009600.html",
+      "summary": "Các nhà khoa học Trung Quốc phát triển thành công chip dạng sợi dẻo, trong đó mạch tích hợp vào đoạn cáp chỉ dày bằng sợi tóc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-25T01:00:00+07:00",
+      "fetched": "2026-01-25T08:44:31.366385+07:00"
+    },
+    {
+      "id": "45083dbf09184360991a6d72ccb28656",
+      "title": "Nga mang đạn chống UAV cho súng bộ binh đến Ukraine thử nghiệm",
+      "link": "https://thanhnien.vn/nga-mang-dan-chong-uav-cho-sung-bo-binh-den-ukraine-thu-nghiem-185260124222804291.htm",
+      "summary": "Loại đạn súng trường tấn công mới này giúp tăng đáng kể độ chính xác khi bắn trúng các mục tiêu trên không cỡ nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:58:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625757+07:00"
+    },
+    {
+      "id": "ed076b56fd2a44c95a3174d8ab61c5b3",
+      "title": "'Chùa ve chai' ở Lâm Đồng có gì mà khách nườm nượp check-in?",
+      "link": "https://thanhnien.vn/chua-ve-chai-o-lam-dong-co-gi-ma-khach-nuom-nuop-check-in-185260124201313119.htm",
+      "summary": "Ở tỉnh Lâm Đồng, nói về độc lạ phải kể đến chùa Linh Phước - thường gọi là \"Chùa ve chai\" - nơi có con rồng làm từ 12.000 vỏ chai, tượng Quan Âm kết từ 650.000 hoa bất tử…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:45:00+07:00",
+      "fetched": "2026-01-25T08:44:25.625926+07:00"
+    },
+    {
+      "id": "5c9407bbfbf7d48ab290d9bd87571781",
+      "title": "Bournemouth 3-2 Liverpool",
+      "link": "https://vnexpress.net/bournemouth-3-2-liverpool-5009615.html",
+      "summary": "Bị thủng lưới ở phút bù thứ năm, ĐKVĐ Liverpool nhận thất bại ở vòng 23 Ngoại hạng Anh, tối 24/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:25:05+07:00",
+      "fetched": "2026-01-25T08:44:21.395867+07:00"
+    },
+    {
+      "id": "3d441c9ad4bdbf9fe38605f686b38c54",
+      "title": "Giá USD hôm nay 25.1.2026: Sụt giảm trong khi euro, bảng Anh tăng cao",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2512026-sut-giam-trong-khi-euro-bang-anh-tang-cao-185260125064718774.htm",
+      "summary": "Giá USD thế giới lẫn trong nước đồng loạt giảm trong tuần khi nhà đầu tư lo ngại về nguy cơ chiến tranh thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:25:00+07:00",
+      "fetched": "2026-01-25T08:44:25.626085+07:00"
+    },
+    {
+      "id": "5806e8c5d2a49d42d92b565fbf554804",
+      "title": "Giá vàng hôm nay 25.1.2026: Tăng vọt hơn 13 triệu đồng trong tuần",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2512026-tang-vot-hon-13-trieu-dong-trong-tuan-185260125064254464.htm",
+      "summary": "Giá vàng liên tục tăng cao và xác lập kỷ lục mới cả trên thị trường quốc tế lẫn trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:25:00+07:00",
+      "fetched": "2026-01-25T08:44:25.626240+07:00"
+    },
+    {
+      "id": "c3d9941205044d36f9195fa0c7519e9c",
+      "title": "Sạc nhanh iPhone có khiến pin chai sớm?",
+      "link": "https://thanhnien.vn/sac-nhanh-iphone-co-khien-pin-chai-som-185260121182827542.htm",
+      "summary": "Sạc nhanh là một trong những phụ kiện được người dùng iPhone sử dụng phổ biến hiện nay để nhanh chóng tiếp tục công việc trên điện thoại của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:22:00+07:00",
+      "fetched": "2026-01-25T08:44:25.626388+07:00"
+    },
+    {
+      "id": "3392bab6f71479147f90ad5d54318539",
+      "title": "Bão tuyết lịch sử tấn công nước Mỹ",
+      "link": "https://thanhnien.vn/bao-tuyet-lich-su-tan-cong-nuoc-my-185260125071430805.htm",
+      "summary": "Đợt bão tuyết mang tên Fern đang gây ảnh hưởng nghiêm trọng đến hơn 10 bang ở khu vực đông và đông nam của Mỹ, khiến giao thông tê liệt và có nơi đã ghi nhận trường hợp thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:17:00+07:00",
+      "fetched": "2026-01-25T08:44:25.626540+07:00"
+    },
+    {
+      "id": "2dce453c9aeaf11d145ca333efa6b7db",
+      "title": "Đặc vụ liên bang bắn chết công dân Mỹ tại Minneapolis",
+      "link": "https://vnexpress.net/dac-vu-lien-bang-ban-chet-cong-dan-my-tai-minneapolis-5009613.html",
+      "summary": "Một người đàn ông là công dân Mỹ bị đặc vụ liên bang bắn chết trong cuộc biểu tình ở bang Minneapolis, là trường hợp thứ hai xảy ra trong gần ba tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:13:50+07:00",
+      "fetched": "2026-01-25T08:44:21.396091+07:00"
+    },
+    {
+      "id": "2dce453c9aeaf11d145ca333efa6b7db",
+      "title": "Đặc vụ liên bang bắn chết công dân Mỹ tại Minneapolis",
+      "link": "https://vnexpress.net/dac-vu-lien-bang-ban-chet-cong-dan-my-tai-minneapolis-5009613.html",
+      "summary": "Một người đàn ông là công dân Mỹ bị đặc vụ liên bang bắn chết trong cuộc biểu tình ở bang Minneapolis, là trường hợp thứ hai xảy ra trong gần ba tuần.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T00:13:50+07:00",
+      "fetched": "2026-01-25T08:44:27.758342+07:00"
+    },
+    {
+      "id": "da2d978ee5c08f968596c966b0a6e9ab",
+      "title": "Tranh cãi chiếc phin cà phê giá gần 27 triệu đồng",
+      "link": "https://vnexpress.net/tranh-cai-chiec-phin-ca-phe-gia-gan-27-trieu-dong-5009519.html",
+      "summary": "Chiếc phin làm từ titanium grade 23 với họa tiết ngựa chín hồng mao gây tranh cãi khi bán với giá gần 27 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.396273+07:00"
+    },
+    {
+      "id": "a1e03f7f82d07f4f6ccb51d69270e7d3",
+      "title": "Có nên ăn phao câu gà?",
+      "link": "https://vnexpress.net/co-nen-an-phao-cau-ga-5008928.html",
+      "summary": "Tôi thường vứt bỏ phao câu gà vì cho rằng nhiều vi khuẩn, không tốt cho tiêu hóa, nhưng nhiều người nói bộ phận này ngon béo giàu dinh dưỡng, đúng không? (Trúc, 22 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.396441+07:00"
+    },
+    {
+      "id": "34bd9f7bc825c259fce9a6adcae5e43c",
+      "title": "Siri sẽ thành chatbot AI trên iOS 27",
+      "link": "https://vnexpress.net/siri-se-thanh-chatbot-ai-tren-ios-27-5009596.html",
+      "summary": "Siri bắt đầu áp dụng mô hình ngôn ngữ lớn LLM trên iOS 26.4 trước khi trở thành chatbot AI thực thụ trên iOS 27 ra mắt vào tháng 6 tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.396604+07:00"
+    },
+    {
+      "id": "16f3d6e260dc0cd79d765cbdc4103ace",
+      "title": "Kier Property hoàn tất dự án Logistics City tại Milton Keynes",
+      "link": "https://vnexpress.net/kier-property-hoan-tat-du-an-logistics-city-tai-milton-keynes-5007276.html",
+      "summary": "Dự án Logistics City của Kier Property hoàn thành xây dựng với quy mô hơn 11.700 m2, hướng tới các tiêu chuẩn phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T00:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.396775+07:00"
+    },
+    {
+      "id": "34bd9f7bc825c259fce9a6adcae5e43c",
+      "title": "Siri sẽ thành chatbot AI trên iOS 27",
+      "link": "https://vnexpress.net/siri-se-thanh-chatbot-ai-tren-ios-27-5009596.html",
+      "summary": "Siri bắt đầu áp dụng mô hình ngôn ngữ lớn LLM trên iOS 26.4 trước khi trở thành chatbot AI thực thụ trên iOS 27 ra mắt vào tháng 6 tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-25T00:00:00+07:00",
+      "fetched": "2026-01-25T08:44:31.366730+07:00"
+    },
+    {
+      "id": "df6ff6e49930f3b355aff275657e97ab",
+      "title": "Mbappe lập cú đúp, đưa Real lên đầu bảng La Liga",
+      "link": "https://vnexpress.net/mbappe-lap-cu-dup-dua-real-len-dau-bang-la-liga-5009612.html",
+      "summary": "Đánh bại Villarreal 2-0 ở vòng 21 La Liga nhờ cú đúp từ Kylian Mbappe, Real Madrid chiếm đầu bảng của Barca.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:50:36+07:00",
+      "fetched": "2026-01-25T08:44:21.397008+07:00"
+    },
+    {
+      "id": "df6ff6e49930f3b355aff275657e97ab",
+      "title": "Mbappe lập cú đúp, đưa Real lên đầu bảng La Liga",
+      "link": "https://vnexpress.net/mbappe-lap-cu-dup-dua-real-len-dau-bang-la-liga-5009612.html",
+      "summary": "Đánh bại Villarreal 2-0 ở vòng 21 La Liga nhờ cú đúp từ Kylian Mbappe, Real Madrid chiếm đầu bảng của Barca.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-24T23:50:36+07:00",
+      "fetched": "2026-01-25T08:44:33.085002+07:00"
+    },
+    {
+      "id": "d20cfb6fcfe4dc65df40a31a3dfb9a43",
+      "title": "Chật vật tìm 'khách sạn' cho thú cưng nghỉ Tết",
+      "link": "https://vnexpress.net/chat-vat-tim-khach-san-cho-thu-cung-nghi-tet-5009424.html",
+      "summary": "Chấp nhận trả phí gấp đôi ngày thường, nhiều chủ nuôi vẫn bị từ chối do các cơ sở lưu trú cho chó mèo đã kín lịch từ đầu tháng 12 âm lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:30:00+07:00",
+      "fetched": "2026-01-25T08:44:21.397191+07:00"
+    },
+    {
+      "id": "4bf025b1ef6ca9ec7d01a1d872f170fa",
+      "title": "Cô gái gán nợ bằng lời hứa kết hôn",
+      "link": "https://vnexpress.net/co-gai-gan-no-bang-loi-hua-ket-hon-5009270.html",
+      "summary": "Vay bạn trai 50.000 tệ (175 triệu đồng), cô Jia viết giấy cam kết nếu hai người làm đám cưới, khoản nợ sẽ tự động chuyển thành sính lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:16:00+07:00",
+      "fetched": "2026-01-25T08:44:21.397357+07:00"
+    },
+    {
+      "id": "75e8b39512e628d37ef96147a7cc572e",
+      "title": "Zalo và TikTok bị phạt, dữ liệu cá nhân của người dùng sẽ xử lý ra sao?",
+      "link": "https://vnexpress.net/zalo-va-tiktok-bi-phat-du-lieu-ca-nhan-cua-nguoi-dung-se-xu-ly-ra-sao-5009531.html",
+      "summary": "Theo chuyên gia luật, Zalo và TikTok có trách nhiệm chấm dứt ngay việc xử lý dữ liệu cá nhân của người dùng dựa trên những điều khoản vi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.397515+07:00"
+    },
+    {
+      "id": "815bad19cbc7a2bfd6739a00ff4a9575",
+      "title": "'Triệu phú' ăn xin sở hữu 3 nhà, cho vay nặng lãi",
+      "link": "https://vnexpress.net/trieu-phu-an-xin-so-huu-3-nha-cho-vay-nang-lai-5009489.html",
+      "summary": "Mangilal, người đàn ông khuyết tật tại thành phố Indore, sở hữu ba ngôi nhà, ôtô riêng và vận hành đường dây cho vay lãi từ số tiền xin được hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.397683+07:00"
+    },
+    {
+      "id": "0e07d0c5ab983b9ccbfe3c9638fa2d91",
+      "title": "8 món ăn sáng giàu năng lượng nên dùng thường xuyên",
+      "link": "https://vnexpress.net/8-mon-an-sang-giau-nang-luong-nen-dung-thuong-xuyen-5009223.html",
+      "summary": "Yến mạch, sữa chua, trứng, hạt chia, quả bơ thơm ngon, bổ dưỡng và cung cấp nguồn năng lượng dồi dào, giúp no lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.397861+07:00"
+    },
+    {
+      "id": "b783f95c8f060133ba5d9cd59fb65060",
+      "title": "Người dân tháo dỡ nhà, giao mặt bằng cải tạo rạch Xuyên Tâm",
+      "link": "https://vnexpress.net/nguoi-dan-thao-do-nha-giao-mat-bang-cai-tao-rach-xuyen-tam-5009178.html",
+      "summary": "Nhiều hộ dân đồng loạt tháo dỡ nhà, bàn giao mặt bằng cho dự án cải tạo rạch Xuyên Tâm dài gần 9 km chảy qua nội đô thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.398051+07:00"
+    },
+    {
+      "id": "215dc4acdc5a1ab78d82ad69fc91fab0",
+      "title": "9 đại học công bố mức quy đổi điểm IELTS năm 2026",
+      "link": "https://vnexpress.net/9-dai-hoc-cong-bo-muc-quy-doi-diem-ielts-nam-2026-5009171.html",
+      "summary": "9 trường quy đổi từ IELTS 4.5 trở lên để xét tuyển, trong đó Đại học Khoa học và Công nghệ Hà Nội yêu cầu cao nhất khi IELTS 8.0 mới tính là 10 điểm Tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-24T23:00:00+07:00",
+      "fetched": "2026-01-25T08:44:21.398221+07:00"
     },
     {
       "id": "8e35474292a784c23c8e2a5c9553ad88",
