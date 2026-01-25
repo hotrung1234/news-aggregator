@@ -1,6 +1,6 @@
 window.newsData_2026_01_26 = {
   "date": "2026-01-26",
-  "lastUpdated": "2026-01-26T01:26:33.800225+07:00",
+  "lastUpdated": "2026-01-26T03:21:11.017270+07:00",
   "articles": [
     {
       "id": "3f4e92eb4e0a24bbbd3b5583335ff5a6",
@@ -151,6 +151,76 @@ window.newsData_2026_01_26 = {
       "category": "Tổng hợp",
       "published": "2026-01-26T01:26:25.378345+07:00",
       "fetched": "2026-01-26T01:26:25.378554+07:00"
+    },
+    {
+      "id": "c6451f82e23646e01c82cde86172fb5c",
+      "title": "Yamal lập siêu phẩm móc bóng cho Barca",
+      "link": "https://vnexpress.net/yamal-lap-sieu-pham-moc-bong-cho-barca-5009801.html",
+      "summary": "Tiền đạo Lamine Yamal ngả người móc bóng thành bàn giúp Barca thắng đội khách Oviedo 3-0 ở vòng 21 để trở lại đỉnh bảng La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T19:07:42+07:00",
+      "fetched": "2026-01-26T03:20:59.348690+07:00"
+    },
+    {
+      "id": "c6451f82e23646e01c82cde86172fb5c",
+      "title": "Yamal lập siêu phẩm móc bóng cho Barca",
+      "link": "https://vnexpress.net/yamal-lap-sieu-pham-moc-bong-cho-barca-5009801.html",
+      "summary": "Tiền đạo Lamine Yamal ngả người móc bóng thành bàn giúp Barca thắng đội khách Oviedo 3-0 ở vòng 21 để trở lại đỉnh bảng La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T19:07:42+07:00",
+      "fetched": "2026-01-26T03:21:11.012334+07:00"
+    },
+    {
+      "id": "61e1c6b55522cd5d8fd5eef389fa9bce",
+      "title": "'Ngủ ngày cày đêm' có hại thận?",
+      "link": "https://vnexpress.net/ngu-ngay-cay-dem-co-hai-than-5009572.html",
+      "summary": "Tôi phải làm việc xuyên đêm, nếu ngủ bù đủ 7-9 tiếng vào ngày hôm sau thì có còn gây hại sức khỏe vì thức đêm không? (Trường, 33 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T19:00:00+07:00",
+      "fetched": "2026-01-26T03:20:59.348877+07:00"
+    },
+    {
+      "id": "699a6371dba863f8f8dcf9123d3e9f33",
+      "title": "5 lưu ý cho người mới đầu tư bạc",
+      "link": "https://vnexpress.net/5-luu-y-cho-nguoi-moi-dau-tu-bac-5009656.html",
+      "summary": "Với đà tăng giá mạnh, bạc không còn là kim loại quý phụ trợ, nhưng trước khi xuống tiền, hãy kiểm tra xem bạn hiểu thị trường này đến đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T18:48:42+07:00",
+      "fetched": "2026-01-26T03:20:59.349041+07:00"
+    },
+    {
+      "id": "699a6371dba863f8f8dcf9123d3e9f33",
+      "title": "5 lưu ý cho người mới đầu tư bạc",
+      "link": "https://vnexpress.net/5-luu-y-cho-nguoi-moi-dau-tu-bac-5009656.html",
+      "summary": "Với đà tăng giá mạnh, bạc không còn là kim loại quý phụ trợ, nhưng trước khi xuống tiền, hãy kiểm tra xem bạn hiểu thị trường này đến đâu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-25T18:48:42+07:00",
+      "fetched": "2026-01-26T03:21:06.170436+07:00"
+    },
+    {
+      "id": "af786a133c958e80f3e1ddab6c92155c",
+      "title": "Man Utd thắng ngược Arsenal",
+      "link": "https://vnexpress.net/man-utd-thang-nguoc-arsenal-5009800.html",
+      "summary": "Hai siêu phẩm của Patrick Dorgu và Matheus Cunha giúp Man Utd ngược dòng thắng chủ nhà Arsenal 3-2 ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-25T18:42:46+07:00",
+      "fetched": "2026-01-26T03:20:59.349204+07:00"
+    },
+    {
+      "id": "af786a133c958e80f3e1ddab6c92155c",
+      "title": "Man Utd thắng ngược Arsenal",
+      "link": "https://vnexpress.net/man-utd-thang-nguoc-arsenal-5009800.html",
+      "summary": "Hai siêu phẩm của Patrick Dorgu và Matheus Cunha giúp Man Utd ngược dòng thắng chủ nhà Arsenal 3-2 ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T18:42:46+07:00",
+      "fetched": "2026-01-26T03:21:11.012513+07:00"
     },
     {
       "id": "e4e67edf54d6b74cb55ebc8899567524",
