@@ -1,6 +1,6 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T03:24:07.286873+07:00",
+  "lastUpdated": "2026-01-27T05:19:36.160636+07:00",
   "articles": [
     {
       "id": "c0ab0174e020ce56b438d928473aed4a",
@@ -171,6 +171,166 @@ window.newsData_2026_01_27 = {
       "category": "Tổng hợp",
       "published": "2026-01-27T01:31:40.485624+07:00",
       "fetched": "2026-01-27T01:31:40.485845+07:00"
+    },
+    {
+      "id": "3ee187f1850500a416c8732810e08061",
+      "title": "Tử vi ngày 27 tháng 1: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-27-thang-1-con-giap-nao-may-man-hom-nay-18526012623451131.htm",
+      "summary": "Tử vi ngày 27 tháng 1 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T22:15:00+07:00",
+      "fetched": "2026-01-27T05:19:28.322622+07:00"
+    },
+    {
+      "id": "ee317fa2d61d0b728a899a465309db94",
+      "title": "Chìm phà chở 359 người ở Philippines",
+      "link": "https://thanhnien.vn/chim-pha-cho-359-nguoi-o-philippines-185260126203446632.htm",
+      "summary": "Lực lượng Tuần duyên Philippines (PCG) cho hay ít nhất 15 người thiệt mạng và 28 người mất tích sau khi một chiếc phà chở theo 359 người bị chìm trong lúc đang trên đường đến TP.Jolo (tỉnh Sulu, Philippines) vào ngày 26.1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T22:15:00+07:00",
+      "fetched": "2026-01-27T05:19:28.322797+07:00"
+    },
+    {
+      "id": "77572525621ffcfab162ee6e2b9f8842",
+      "title": "Michael Schumacher không còn nằm liệt giường",
+      "link": "https://vnexpress.net/michael-schumacher-khong-con-nam-liet-giuong-5010254.html",
+      "summary": "Huyền thoại F1 người Đức, Michael Schumacher được cho là không còn phải nằm liệt giường, sau hơn 12 năm kể từ tai nạn trượt tuyết, theo Daily Mail.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-26T22:06:47+07:00",
+      "fetched": "2026-01-27T05:19:36.155488+07:00"
+    },
+    {
+      "id": "ace8d6877511c28181e773e964b24d5f",
+      "title": "Chào đón công viên trên 'đất vàng'",
+      "link": "https://thanhnien.vn/chao-don-cong-vien-tren-dat-vang-185260126205359353.htm",
+      "summary": "Bạn đọc mong muốn TP.HCM tiếp tục phát huy cách làm linh hoạt, hiệu quả trong việc sử dụng quỹ đất đô thị, đặc biệt với các khu 'đất vàng' đang bỏ trống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T22:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.322958+07:00"
+    },
+    {
+      "id": "5420a075e324f533faa0f75473be54cf",
+      "title": "Lạm dụng dung dịch vệ sinh phụ nữ: Lợi bất cập hại?",
+      "link": "https://thanhnien.vn/lam-dung-dung-dich-ve-sinh-phu-nu-loi-bat-cap-hai-18526012620111146.htm",
+      "summary": "Nhiều phụ nữ cho rằng sử dụng dung dịch vệ sinh hằng ngày là cách tốt nhất để giữ vùng kín sạch sẽ, ngăn mùi và phòng bệnh. Tuy nhiên, theo cảnh báo từ các chuyên gia sản phụ khoa đăng tải trên Health Shots, thói quen này nếu không đúng cách có thể gây phản tác dụng, làm tăng nguy cơ viêm nhiễm và r...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T22:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323133+07:00"
+    },
+    {
+      "id": "8f660b791a14efc0b173d973bdf6fb7a",
+      "title": "'Siêu phường' nhiều khu công nghiệp nhất: 'Giờ mà đẻ con là không lo nổi'",
+      "link": "https://thanhnien.vn/sieu-phuong-nhieu-khu-cong-nghiep-nhat-nhung-uoc-mo-bi-hoan-lai-185260123203419518.htm",
+      "summary": "Giữa 'siêu phường' Bình Dương nơi có nhiều khu công nghiệp nhất cả nước, những căn phòng trọ chật hẹp ấy vẫn lặng lẽ chứa đựng những ước mơ bị hoãn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T22:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323292+07:00"
+    },
+    {
+      "id": "cd7274a390eb389ddb09b4e8d78a1608",
+      "title": "Thông điệp của ông Trump khi điều hạm đội đến gần Iran",
+      "link": "https://vnexpress.net/thong-diep-cua-ong-trump-khi-dieu-ham-doi-den-gan-iran-5009847.html",
+      "summary": "Ông Trump điều hạm đội đến Vùng Vịnh có thể nhằm răn đe Iran, trấn an đồng minh ở Trung Đông, nhưng cũng tiềm ẩn nguy cơ gây bất ổn khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T22:00:00+07:00",
+      "fetched": "2026-01-27T05:19:31.612231+07:00"
+    },
+    {
+      "id": "c6f25b53d80e5f9a5d6919debd979853",
+      "title": "TP.HCM: Nhiều người dân chậm nộp hồ sơ hưởng 5 triệu đồng khi sinh đủ 2 con",
+      "link": "https://thanhnien.vn/tphcm-nhieu-nguoi-dan-cham-nop-ho-so-huong-5-trieu-dong-khi-sinh-du-2-con-185260126100904988.htm",
+      "summary": "Nhiều xã, phường ở khu vực phía bắc TP.HCM sau khi thông báo cho người dân nộp hồ sơ để hưởng chính sách 5 triệu đồng khi sinh đủ 2 con trước 35 tuổi nhưng nhiều tháng nay vẫn chưa có người nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:30:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323445+07:00"
+    },
+    {
+      "id": "f727e1fc955951f381b067cb1990c18c",
+      "title": "Chiến sự Ukraine ngày 1.253: Nga quyết tâm kiểm soát toàn bộ Donbass",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1253-nga-quyet-tam-kiem-soat-toan-bo-donbass-185260126184312619.htm",
+      "summary": "Ukraine cho biết Nga đang tìm cách mở rộng vùng kiểm soát tại Pokrovsk trong khi Điện Kremlin tái khẳng định ý muốn nắm toàn vùng Donbass trong cuộc đàm phán 3 bên với Ukraine và Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:27:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323595+07:00"
+    },
+    {
+      "id": "3f7a86e6b8258fa2ca3bb50d379c2da4",
+      "title": "Thủ tướng yêu cầu chấn chỉnh tình trạng 'ba không' án hành chính",
+      "link": "https://thanhnien.vn/thu-tuong-yeu-cau-chan-chinh-tinh-trang-ba-khong-an-hanh-chinh-185260126202628679.htm",
+      "summary": "Bản án hành chính được đôn đốc nhưng chưa thi hành, Thủ tướng yêu cầu Ban Thường vụ tỉnh ủy, Thành ủy xem xét đưa vào diện Ban Chỉ đạo phòng, chống tham nhũng, lãng phí, tiêu cực để theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:26:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323750+07:00"
+    },
+    {
+      "id": "37d8276410a3339dc73de558319dc4de",
+      "title": "Đột ngột méo miệng là bệnh gì?",
+      "link": "https://thanhnien.vn/dot-ngot-meo-mieng-la-benh-gi-185260126190227749.htm",
+      "summary": "Bé trai 11 tuổi được gia đình đưa đến bệnh viện do đột ngột bị méo miệng, cơ mặt cứng đơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:11:00+07:00",
+      "fetched": "2026-01-27T05:19:28.323901+07:00"
+    },
+    {
+      "id": "2ef4e465fad6d5c73ef542588e3f5a04",
+      "title": "10 xe năng lượng mới bán chạy nhất Trung Quốc năm 2025",
+      "link": "https://vnexpress.net/10-xe-nang-luong-moi-ban-chay-nhat-trung-quoc-nam-2025-5009995.html",
+      "summary": "Mẫu hatchback thuần điện của Geely dẫn đầu danh sách với hơn 465.000 xe bàn giao trong 2025, xe điện mini của Wuling xếp sau với gần 436.000 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:00:00+07:00",
+      "fetched": "2026-01-27T05:19:25.524018+07:00"
+    },
+    {
+      "id": "6277e89cbd7cc9263b09b7eb3a352a10",
+      "title": "Dự án lưu trú phục vụ APEC 2027 vướng mặt bằng",
+      "link": "https://thanhnien.vn/du-an-luu-tru-phuc-vu-apec-2027-vuong-mat-bang-185260126200454844.htm",
+      "summary": "Nếu các công trình hạ tầng phục vụ APEC 2027 vừa được Chính phủ, chính quyền đặc khu và tỉnh An Giang quyết liệt tháo gỡ vướng mắc thì Phú Quốc lại đứng trước nỗi lo mới: hệ thống lưu trú hiện hữu quá tải trong khi dự án mới phục vụ khách VIP đang kẹt vì mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.324051+07:00"
+    },
+    {
+      "id": "c78b0d05dac4f9406e3a9aa8ed37ac75",
+      "title": "Sinh trắc khuôn mặt có chặn được SIM rác?",
+      "link": "https://thanhnien.vn/sinh-trac-khuon-mat-co-chan-duoc-sim-rac-185260126185648364.htm",
+      "summary": "Khoảng 2 năm trước, người dân đã thực hiện thuê bao chính chủ với SIM điện thoại nhưng tình trạng cuộc gọi rác, SIM rác vẫn tràn lan. Vậy sinh trắc khuôn mặt với điện thoại di động như Dự thảo thông tư mà Bộ KH-CN đang lấy ý kiến liệu có ngăn chặn được tình trạng này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.324223+07:00"
+    },
+    {
+      "id": "d6b51005588b3bebfa0b9fa80acbf79f",
+      "title": "Khánh thành công trình ‘Thắp sáng Trà Tập’, lan tỏa ánh sáng sạch đến vùng cao",
+      "link": "https://thanhnien.vn/khanh-thanh-cong-trinh-thap-sang-tra-tap-lan-toa-anh-sang-sach-den-vung-cao-185260126183932456.htm",
+      "summary": "Chiều 26.1, tại xã vùng cao Trà Tập (TP. Đà Nẵng), Đoàn Thanh niên Tổng công ty Điện lực miền Trung (EVNCPC) tổ chức lễ khánh thành công trình chiếu sáng và trao tặng quà cho bà con địa phương trong khuôn khổ chương trình \"Thắp sáng Trà Tập\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.324373+07:00"
+    },
+    {
+      "id": "a768322b9f477ac23f4345d29840d303",
+      "title": "Tiểu thương ‘thủ phủ’ đồ trang trí: ‘Khách tới xem nhiều, nhưng mua thì cân nhắc lắm’",
+      "link": "https://thanhnien.vn/tieu-thuong-thu-phu-do-trang-tri-khach-toi-xem-nhieu-nhung-mua-thi-can-nhac-lam-185260126153721542.htm",
+      "summary": "Tết Nguyên đán 2026 đang đến gần, tuyến đường Hải Thượng Lãn Ông (phường Chợ Lớn, TP.HCM) tiếp tục khoác lên mình sắc xuân rực rỡ. Tuy nhiên sức mua tại 'thủ phủ' đồ trang trí tết này vẫn trầm lắng, khi người dân có xu hướng chi tiêu dè dặt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T21:00:00+07:00",
+      "fetched": "2026-01-27T05:19:28.324528+07:00"
     },
     {
       "id": "b99da09c55fdf593a13af620fd67540a",
