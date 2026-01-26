@@ -1,7 +1,207 @@
 window.newsData_2026_01_26 = {
   "date": "2026-01-26",
-  "lastUpdated": "2026-01-26T05:17:50.196513+07:00",
+  "lastUpdated": "2026-01-26T08:44:09.568910+07:00",
   "articles": [
+    {
+      "id": "3af5a73eaa7a24a252f9ede6832fbbb2",
+      "title": "Thời tiết hôm nay 26-1: Bắc Bộ mưa phùn, Nam Bộ nắng ráo",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-26-1-bac-bo-mua-phun-nam-bo-nang-rao-20260125172057711.htm",
+      "summary": "Hôm nay 26-1, thời tiết Bắc Bộ tiếp tục mưa phùn nhưng về trưa hửng nắng. Nam Bộ sáng lạnh, ngày nắng ráo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737893+07:00",
+      "fetched": "2026-01-26T08:44:01.738016+07:00"
+    },
+    {
+      "id": "7e5b79f81729ad8a18c28aea5c3aabaf",
+      "title": "Ông Zelensky khoe đã có được văn kiện bảo đảm an ninh từ Mỹ",
+      "link": "https://tuoitre.vn/ong-zelensky-khoe-da-co-duoc-van-kien-bao-dam-an-ninh-tu-my-20260126012958804.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky thông báo văn kiện của Mỹ về các bảo đảm an ninh dành cho Ukraine đã hoàn toàn sẵn sàng và Kiev đang chờ thời điểm cũng như địa điểm để ký kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737751+07:00",
+      "fetched": "2026-01-26T08:44:01.737867+07:00"
+    },
+    {
+      "id": "3acef5cb5e406d97e4b6dcc85c1c707e",
+      "title": "Tin tức thế giới 26-1: Ukraine kêu gọi hỗ trợ phòng không; Mỹ cảnh báo cứng rắn với Canada",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-26-1-ukraine-keu-goi-ho-tro-phong-khong-my-canh-bao-cung-ran-voi-canada-20260126020408419.htm",
+      "summary": "Ông Obama cáo buộc Tổng thống Trump 'tấn công các giá trị Mỹ'; Thái Lan tăng cường kiểm soát sân bay ngăn dịch bệnh do virus Nipah.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737623+07:00",
+      "fetched": "2026-01-26T08:44:01.737740+07:00"
+    },
+    {
+      "id": "1318dd15c6b2428ca763c3118bf13c50",
+      "title": "Đa dạng giá quà Tết ngoại nhập, cao cấp đến bình dân đều có",
+      "link": "https://tuoitre.vn/da-dang-gia-qua-tet-ngoai-nhap-cao-cap-den-binh-dan-deu-co-20260125225359056.htm",
+      "summary": "Dù hàng hóa sản xuất trong nước đa dạng nhưng thị trường hàng ngoại nhập dịp Tết vẫn khá sôi nổi, nhất là với các mặt hàng mới lạ, phục vụ biếu tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737493+07:00",
+      "fetched": "2026-01-26T08:44:01.737612+07:00"
+    },
+    {
+      "id": "b9df035f27e9e768e0fc41067a8e917c",
+      "title": "Man United lại gây sốc khi đánh bại Arsenal, giúp Premier League thêm kịch tính",
+      "link": "https://tuoitre.vn/man-united-lai-gay-soc-khi-danh-bai-arsenal-giup-premier-league-them-kich-tinh-20260126020104989.htm",
+      "summary": "Rạng sáng 26-1, Man United đã đánh bại Arsenal 3-2 trong trận cầu tâm điểm vòng 23 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737361+07:00",
+      "fetched": "2026-01-26T08:44:01.737477+07:00"
+    },
+    {
+      "id": "2ebb0530159b0e8a9418c7ae1f1291af",
+      "title": "Người dân vẫn lúng túng khi xác nhận chỗ ở đăng ký thường trú và tìm thông tin thế chấp nhà, đất",
+      "link": "https://tuoitre.vn/nguoi-dan-van-lung-tung-khi-xac-nhan-cho-o-dang-ky-thuong-tru-va-tim-thong-tin-the-chap-nha-dat-20260124092728583.htm",
+      "summary": "Người dân cho biết vẫn lúng túng khi phải xác nhận, chứng minh chỗ ở hợp pháp để đăng ký thường trú hay tìm thông tin thế chấp nhà, đất khi tham gia giao dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737236+07:00",
+      "fetched": "2026-01-26T08:44:01.737350+07:00"
+    },
+    {
+      "id": "6613f549f9dbac1661ca38f90fa8604e",
+      "title": "Running man mùa 3 thống trị phòng vé giữa lúc các phim Việt hạ nhiệt",
+      "link": "https://tuoitre.vn/running-man-mua-3-thong-tri-phong-ve-giua-luc-cac-phim-viet-ha-nhiet-20260125100719452.htm",
+      "summary": "Giữa bức tranh phòng vé nhiều biến động, Running man Việt Nam mùa 3 tạo cú bứt phá ngoạn mục với tập cuối Con rối tự do, trong khi nhiều phim mới nhanh chóng hạ nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.737107+07:00",
+      "fetched": "2026-01-26T08:44:01.737224+07:00"
+    },
+    {
+      "id": "ae5a17db41c03e737c6df8540bf37c74",
+      "title": "Ái Phương, Ngô Lan Hương tung nhạc Tết",
+      "link": "https://tuoitre.vn/ai-phuong-ngo-lan-huong-tung-nhac-tet-20260125215512445.htm",
+      "summary": "Nhạc Tết 2026 trở nên sôi động hơn khi đường đua âm nhạc mùa xuân liên tục đón thêm các sản phẩm mới, mang đến nhiều sắc thái khác nhau cho không khí đón năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736976+07:00",
+      "fetched": "2026-01-26T08:44:01.737095+07:00"
+    },
+    {
+      "id": "b1e1c0e0c1da990a2808f2c51b4aa40c",
+      "title": "Tin tức sáng 26-1: Đã có 30/34 địa phương hoàn thành việc xử lý các cơ sở nhà, đất dôi dư",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-1-da-co-30-34-dia-phuong-hoan-thanh-viec-xu-ly-cac-co-so-nha-dat-doi-du-20260125231411608.htm",
+      "summary": "Tin tức đáng chú ý: Đã có 30/34 địa phương hoàn thành việc xử lý các cơ sở nhà, đất dôi dư; Điều kiện với cơ sở được sản xuất hóa chất cấm để phục vụ nghiên cứu khoa học từ 17-1-2026...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736819+07:00",
+      "fetched": "2026-01-26T08:44:01.736963+07:00"
+    },
+    {
+      "id": "3b19ff416266034bec6405bb5f31f220",
+      "title": "Tay vợt gốc Việt Learner Tien gây chấn động, làm nên lịch sử ở Úc mở rộng",
+      "link": "https://tuoitre.vn/tay-vot-goc-viet-learner-tien-gay-chan-dong-lam-nen-lich-su-o-uc-mo-rong-20260126060841006.htm",
+      "summary": "Rạng sáng 26-1, tay vợt người Mỹ gốc Việt Learner Tien đã tạo ra cú sốc khi đánh bại Daniil Medvedev tại vòng 4 Giải quần vợt Úc mở rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736690+07:00",
+      "fetched": "2026-01-26T08:44:01.736807+07:00"
+    },
+    {
+      "id": "bb8c517f313251d1e961cbf48f696b5a",
+      "title": "Tỉ phú dạy con: Bí quyết giữ gia sản",
+      "link": "https://tuoitre.vn/ti-phu-day-con-bi-quyet-giu-gia-san-20260125224723289.htm",
+      "summary": "Khoảng 70% gia đình giàu có mất phần lớn tài sản ở thế hệ thứ hai, con số này tăng lên gần 90% ở thế hệ thứ ba. Nhiều tỉ phú đã tìm cách \"tạo sự khan hiếm\" cho con cái để chống lại xu hướng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736557+07:00",
+      "fetched": "2026-01-26T08:44:01.736678+07:00"
+    },
+    {
+      "id": "cac994701d589a6ea8e209d8cfe3cb27",
+      "title": "Mỗi bất động sản nên có một 'biển số', cò đất hết thời làm giá, 'lùa gà'",
+      "link": "https://tuoitre.vn/moi-bat-dong-san-nen-co-mot-bien-so-co-dat-het-thoi-lam-gia-lua-ga-2026011315182329.htm",
+      "summary": "Hệ thống dữ liệu thị trường và cấp mã định danh cho bất động sản sẽ giúp người mua nhà tìm được thông tin chính xác, cơ quan chức năng quản lý hiệu quả hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736420+07:00",
+      "fetched": "2026-01-26T08:44:01.736544+07:00"
+    },
+    {
+      "id": "9c86844b3b7a53457fcc093151e86c2b",
+      "title": "Đình Bắc tăng gấp 3 lượng fan sau Giải U23 châu Á",
+      "link": "https://tuoitre.vn/dinh-bac-tang-gap-3-luong-fan-sau-giai-u23-chau-a-20260125122050072.htm",
+      "summary": "Chỉ trong 3 tuần ngắn ngủi, ngôi sao Nguyễn Đình Bắc của U23 Việt Nam đã tăng gấp 2, thậm chí gấp 3 lượng người theo dõi trên mọi nền tảng mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736277+07:00",
+      "fetched": "2026-01-26T08:44:01.736408+07:00"
+    },
+    {
+      "id": "30960ecd66115d309fab0690c6765fe4",
+      "title": "Ông Medvedev: Nếu Nga không có vũ khí hạt nhân thì rất có thể không còn tồn tại",
+      "link": "https://tuoitre.vn/ong-medvedev-neu-nga-khong-co-vu-khi-hat-nhan-thi-rat-co-the-khong-con-ton-tai-2026012606280386.htm",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga Dmitry Medvedev cho rằng câu lạc bộ các quốc gia sở hữu vũ khí hạt nhân sẽ tiếp tục mở rộng trong tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T08:44:01.736016+07:00",
+      "fetched": "2026-01-26T08:44:01.736262+07:00"
+    },
+    {
+      "id": "31d585ce7338ff1aeccdfc2de122c411",
+      "title": "Mazda CX-5 bán chạy nhất phân khúc năm thứ 6 liên tiếp",
+      "link": "https://vnexpress.net/mazda-cx-5-ban-chay-nhat-phan-khuc-nam-thu-6-lien-tiep-5009675.html",
+      "summary": "Mẫu xe chủ lực của Mazda tiếp tục áp đảo Territory, Tucson, CR-V với doanh số hơn 17.000 xe trong 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:40:05+07:00",
+      "fetched": "2026-01-26T08:43:57.069406+07:00"
+    },
+    {
+      "id": "9401abc2aaa0f017441ba11b23be54ea",
+      "title": "Khởi tố vụ án liên quan 3 người tử vong trên đường phố Quảng Trị",
+      "link": "https://thanhnien.vn/khoi-to-vu-an-lien-quan-3-nguoi-tu-vong-tren-duong-pho-quang-tri-185260126082133556.htm",
+      "summary": "Liên quan vụ 3 người tử vong, 2 người bị thương nặng trên đường Võ Nguyên Giáp (P.Đồng Hới), Công an tỉnh Quảng Trị đã khởi tố vụ án, khởi tố các bị can và tiếp tục mở rộng điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:40:00+07:00",
+      "fetched": "2026-01-26T08:44:00.309459+07:00"
+    },
+    {
+      "id": "dcb01e67a689a954590de9990238677a",
+      "title": "Làng mai vàng Bình Lợi bán chậm giáp Tết Bính Ngọ: Chủ vườn thấp thỏm chờ 'cú hích' phút chót",
+      "link": "https://thanhnien.vn/lang-mai-vang-binh-loi-ban-cham-giap-tet-binh-ngo-chu-vuon-thap-thom-cho-cu-hich-phut-chot-185260126010850834.htm",
+      "summary": "Giáp Tết Nguyên đán, làng mai vàng Bình Lợi (huyện Bình Chánh cũ, TP.HCM) bất ngờ rơi vào cảnh mua bán chậm hơn hẳn mọi năm. Khách thưa, giá giảm, trong khi người trồng mai vẫn chăm sóc thâu đêm để giữ hoa nở đúng dịp",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:37:00+07:00",
+      "fetched": "2026-01-26T08:44:00.309627+07:00"
+    },
+    {
+      "id": "d6f6de237e8bcd65bfcf977f847fb8d1",
+      "title": "Đường băng cất cánh cho tương lai",
+      "link": "https://thanhnien.vn/duong-bang-cat-canh-cho-tuong-lai-185260125221825736.htm",
+      "summary": "Tấm HCĐ giải U.23 châu Á 2026 mở ra tương lai đầy triển vọng cho các cầu thủ U.23 Việt Nam (VN).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:37:00+07:00",
+      "fetched": "2026-01-26T08:44:00.309795+07:00"
+    },
+    {
+      "id": "5fb731f46de3e6ecfd0f062ab82b51d0",
+      "title": "Giá vàng thế giới vượt 5.000 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-5-000-usd-5009835.html",
+      "summary": "Nhu cầu trú ẩn trong căng thẳng địa chính trị tiếp tục kéo giá vàng lên mốc cao kỷ lục mới, tại 5.066 USD một ounce.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:34:53+07:00",
+      "fetched": "2026-01-26T08:43:57.069591+07:00"
+    },
+    {
+      "id": "d63d3ff2b2028c2f07aaf667a82d5d1e",
+      "title": "5 tỉnh miền Trung sắp có mưa lớn, miền Bắc đang ấm lên",
+      "link": "https://thanhnien.vn/5-tinh-mien-trung-sap-co-mua-lon-mien-bac-dang-am-len-185260126081053149.htm",
+      "summary": "Dự báo thời tiết 5 tỉnh, thành miền Trung, từ Quảng Trị đến Đà Nẵng và phía đông các tỉnh từ Quảng Ngãi đến Gia Lai sắp có mưa lớn diện rộng. Ở miền Bắc, không khí lạnh suy yếu, thời tiết ấm lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:32:00+07:00",
+      "fetched": "2026-01-26T08:44:00.309975+07:00"
+    },
     {
       "id": "3f4e92eb4e0a24bbbd3b5583335ff5a6",
       "title": "Nước Anh sắp có lực lượng cảnh sát kiểu FBI",
@@ -153,6 +353,336 @@ window.newsData_2026_01_26 = {
       "fetched": "2026-01-26T01:26:25.378554+07:00"
     },
     {
+      "id": "434a25a925083f042373bf2a7e38f892",
+      "title": "Những điều cần biết để không bị tạm hoãn xuất cảnh do nợ thuế",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-de-khong-bi-tam-hoan-xuat-canh-do-no-thue-5009838.html",
+      "summary": "Khi ra sân bay làm thủ tục xuất cảnh, anh chị tôi bất ngờ bị tạm hoãn với lý do nợ thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:25:57+07:00",
+      "fetched": "2026-01-26T08:43:57.069757+07:00"
+    },
+    {
+      "id": "d0c85e3279ad4569f6a68f40d0d4cf69",
+      "title": "Công nhân phường Bình Dương nhiều khu công nghiệp nhất cả nước: Nỗi niềm xa xứ",
+      "link": "https://thanhnien.vn/cong-nhan-phuong-binh-duong-nhieu-khu-cong-nghiep-nhat-ca-nuoc-noi-niem-xa-xu-185260123202322858.htm",
+      "summary": "Sở hữu 7 khu công nghiệp, 'siêu phường' Bình Dương, TP.HCM mỗi chiều tan ca hiện lên như bức tranh đời sống công nhân với mưu sinh, hy vọng và chật vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:25:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310131+07:00"
+    },
+    {
+      "id": "eef6ea9dd2f1c9c189ec9276c3f793f6",
+      "title": "Bộ Y tế yêu cầu ngăn chặn lô sữa Aptamil nhiễm độc",
+      "link": "https://vnexpress.net/bo-y-te-yeu-cau-ngan-chan-lo-sua-aptamil-nhiem-doc-5009831.html",
+      "summary": "Dù chưa cấp phép cho lô sữa Aptamil nhiễm độc bị thu hồi tại Anh, Cục An toàn thực phẩm yêu cầu các đơn vị rà soát và khuyến cáo người dân tránh sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:24:55+07:00",
+      "fetched": "2026-01-26T08:43:57.069946+07:00"
+    },
+    {
+      "id": "27b34929f9ac17e97cd20f54059d6535",
+      "title": "Tính năng tự động trên Gmail nên tắt ngay để bảo vệ quyền riêng tư",
+      "link": "https://thanhnien.vn/tinh-nang-tu-dong-tren-gmail-nen-tat-ngay-de-bao-ve-quyen-rieng-tu-185260125154351241.htm",
+      "summary": "Một video gần đây làm dấy lên cuộc tranh luận về ranh giới giữa việc thu thập dữ liệu và việc Gmail xâm phạm quyền riêng tư cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:20:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310281+07:00"
+    },
+    {
+      "id": "8f902c3c7a63309318c8204d637e48f1",
+      "title": "Chàng trai du học Mỹ, Thụy Sĩ khiến MC 'toát mồ hôi' với tiêu chuẩn tìm vợ",
+      "link": "https://thanhnien.vn/chang-trai-du-hoc-my-thuy-si-khien-mc-toat-mo-hoi-voi-tieu-chuan-tim-vo-185260125205400345.htm",
+      "summary": "Đưa ra những tiêu chuẩn chọn bạn đời khiến hai MC đánh giá là 'khá cao', chàng du học sinh Minh Đức và nữ nhân viên văn phòng Kiều Như vẫn tìm thấy tiếng nói chung tại 'Bạn muốn hẹn hò', để rồi cùng nhau bấm nút mở ra cơ hội hẹn hò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:17:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310431+07:00"
+    },
+    {
+      "id": "ed871666e8cf2472f2c92e89b5e31438",
+      "title": "Chìm phà chở hơn 300 khách ở Philippines, nhiều người chết và mất tích",
+      "link": "https://thanhnien.vn/chim-pha-cho-hon-300-khach-o-philippines-nhieu-nguoi-chet-va-mat-tich-185260126075451948.htm",
+      "summary": "Thông tin ban đầu cho biết phà M/V Trisha Kerstin 3 gặp sự cố kỹ thuật và bị chìm khi đang trên đường từ thành phố Zamboanga đến đảo Jolo (tỉnh Sulu) ở miền nam Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:05:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310582+07:00"
+    },
+    {
+      "id": "5ac4b84cb0a9330aefaabdec869aaff5",
+      "title": "TP.HCM: Hào khí vùng bưng 6 xã sống lại trong đêm nghệ thuật ở Long Trường",
+      "link": "https://thanhnien.vn/tphcm-hao-khi-vung-bung-6-xa-song-lai-trong-dem-nghe-thuat-o-long-truong-185260125224857086.htm",
+      "summary": "Các tiết mục dàn dựng công phu, giàu cảm xúc giúp người dân, nhất là các bạn trẻ, hiểu hơn về mảnh đất vùng bưng 6 xã giàu truyền thống cách mạng của huyện Thủ Đức xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:02:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310733+07:00"
+    },
+    {
+      "id": "bc6def897889b7fe6cfc7da67138eeef",
+      "title": "Voi 'cầm gậy' ra đòn khiến tê giác chùn bước",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-voi-cam-gay-ra-don-khien-te-giac-chun-buoc-5009180.html",
+      "summary": "Khi voi không chỉ dùng sức mạnh mà còn biết… dùng não, thì trận chiến rừng già bỗng giống một pha hành động hài hước ngoài sức tưởng tượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070110+07:00"
+    },
+    {
+      "id": "cb567c2770b3971d1f889a65e80e4061",
+      "title": "Á Đông ứng dụng công nghệ cơ khí trong không gian bán lẻ",
+      "link": "https://vnexpress.net/a-dong-ung-dung-cong-nghe-co-khi-trong-khong-gian-ban-le-5009804.html",
+      "summary": "Á Đông phát triển giải pháp nội thất bền vững bằng công nghệ cơ khí hiện đại, thông qua cắt laser, uốn CNC và hoàn thiện bề mặt công nghiệp, nhằm nâng cao độ bền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070270+07:00"
+    },
+    {
+      "id": "da92e10463e49eaaf42259e98b7054fd",
+      "title": "Swinburne Vietnam đào tạo chương trình MBA đạt kiểm định quốc tế",
+      "link": "https://vnexpress.net/swinburne-vietnam-dao-tao-chuong-trinh-mba-dat-kiem-dinh-quoc-te-5009802.html",
+      "summary": "Swinburne Vietnam đào tạo Thạc sĩ Quản trị kinh doanh (MBA) đạt kiểm định AACSB, chương trình dài một năm với giảng viên quốc tế, mức học phí ưu đãi giai đoạn đầu triển khai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070431+07:00"
+    },
+    {
+      "id": "5375c099473acfac5bf6e56f9def724d",
+      "title": "Thiết kế mở linh hoạt tại căn hộ Nobu Danang",
+      "link": "https://vnexpress.net/thiet-ke-mo-linh-hoat-tai-can-ho-nobu-danang-5009766.html",
+      "summary": "Căn studio và một phòng ngủ tại dự án Nobu Danang có ban công rộng, kính panorama, nội thất hoàn thiện, vận hành tiêu chuẩn quốc tế, phù hợp nhu cầu ở, nghỉ dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070591+07:00"
+    },
+    {
+      "id": "ff81d5cfd36ebf8c410251767c700e8e",
+      "title": "Lợi thế của bất động sản trong khu đô thị quy hoạch đồng bộ",
+      "link": "https://vnexpress.net/loi-the-cua-bat-dong-san-trong-khu-do-thi-quy-hoach-dong-bo-5009203.html",
+      "summary": "Bất động sản trong các khu đô thị được quy hoạch đồng bộ có lợi thế nhờ hạ tầng kết nối hoàn chỉnh, hệ tiện ích đa dạng và môi trường sống đáp ứng nhu cầu an cư dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070760+07:00"
+    },
+    {
+      "id": "b0074bf51043e4e5ee786678e357d5ae",
+      "title": "Men gan cao gấp 30 lần, phát hiện ung thư tụy",
+      "link": "https://vnexpress.net/men-gan-cao-gap-30-lan-phat-hien-ung-thu-tuy-5008964.html",
+      "summary": "Ông Quang, 69 tuổi, chán ăn, sụt cân, men gan tăng gấp 30 lần, bác sĩ chẩn đoán ung thư tụy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.070942+07:00"
+    },
+    {
+      "id": "3e31906a6fcd093f4c665515118547e6",
+      "title": "Loạt đồng hồ Jaeger-LeCoultre sắp ra mắt Việt Nam",
+      "link": "https://vnexpress.net/loat-dong-ho-jaeger-lecoultre-sap-ra-mat-viet-nam-5008482.html",
+      "summary": "Jaeger-LeCoultre trở lại thị trường Việt Nam thông qua cửa hàng mới đặt tại phố Tràng Tiền, giới thiệu bộ sưu tập đồng hồ nổi tiếng đến giới mộ điệu trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.071101+07:00"
+    },
+    {
+      "id": "8005d397d16021191bfb5bc6f0d31f49",
+      "title": "Swissport mở trung tâm kiểm soát nhiệt độ hàng tươi sống tại Heathrow",
+      "link": "https://vnexpress.net/swissport-mo-trung-tam-kiem-soat-nhiet-do-hang-tuoi-song-tai-heathrow-5007364.html",
+      "summary": "Swissport đưa vào vận hành cơ sở kiểm soát nhiệt độ hàng tươi sống rộng 2.694 m2 tại sân bay Heathrow, hướng tới công suất 30.000 tấn/năm, phục vụ thủy sản và nông sản tươi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:43:57.071261+07:00"
+    },
+    {
+      "id": "0921f350333cd09247a1dde3ac34577b",
+      "title": "Áo khoác, quần Jeans UNIQLO có gì đặc biệt mà Duy Khánh và dàn KOL mê tít?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-quan-jeans-uniqlo-co-gi-dac-biet-ma-duy-khanh-va-dan-kol-me-tit-185260125223659364.htm",
+      "summary": "Có nhiều lý do để bổ sung bộ sưu tập mới toanh của UNIQLO vào tủ đồ xuân hè hơn bạn nghĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:44:00.310913+07:00"
+    },
+    {
+      "id": "2f3caa02fa9f719d2c8fb1ce2e734258",
+      "title": "Người 'đánh thức' bản lòng hồ sông Đà",
+      "link": "https://thanhnien.vn/nguoi-danh-thuc-ban-long-ho-song-da-185260125192210134.htm",
+      "summary": "Khởi nghiệp từ ngôi nhà sàn của gia đình, chị Lù Thị Toản đã góp phần tạo sinh kế và khơi dậy sức mạnh cộng đồng, nâng cao đời sống của bà con tại bản Quang Chiêng, P.Mường Lay (tỉnh Điện Biên).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:44:00.311081+07:00"
+    },
+    {
+      "id": "858c2e341288e71c32f4f7ffeb625add",
+      "title": "Đột quỵ khi chạy: Không dấu hiệu cảnh báo, làm sao dừng lại đúng lúc?",
+      "link": "https://thanhnien.vn/dot-quy-khi-chay-khong-dau-hieu-canh-bao-lam-sao-dung-lai-dung-luc-185260125110839457.htm",
+      "summary": "Thông thường, đột quỵ không có dấu hiệu báo trước mà xuất hiện đột ngột, diễn tiến rất nhanh và nguy cơ cao gây tử vong. Vì vậy, việc lắng nghe cơ thể và nhận diện các yếu tố nguy cơ là 'chìa khóa' sống còn đối với các vận động viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:44:00.311236+07:00"
+    },
+    {
+      "id": "bbdb251c4c5893fc6b09185914fe78e0",
+      "title": "Có được học song ngành ở bậc đại học?",
+      "link": "https://thanhnien.vn/co-duoc-hoc-song-nganh-o-bac-dai-hoc-185260124132642753.htm",
+      "summary": "Một thí sinh hỏi: ''Em thấy Trường ĐH Tài chính – Marketing có đào tạo cả ngành kế toán và kiểm toán, em có thể học song ngành được không?''",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T01:00:00+07:00",
+      "fetched": "2026-01-26T08:44:00.311384+07:00"
+    },
+    {
+      "id": "8d63ae695261885c4939b4a3c7143301",
+      "title": "Pháp bắt thuyền trưởng Ấn Độ nghi liên quan 'hạm đội ngầm' Nga",
+      "link": "https://thanhnien.vn/phap-bat-thuyen-truong-an-do-nghi-lien-quan-ham-doi-ngam-nga-185260126073332793.htm",
+      "summary": "Các công tố viên Pháp ngày 25.1 cho biết đã bắt giữ thuyền trưởng người Ấn Độ của một tàu chở dầu bị nghi thuộc 'hạm đội ngầm' chuyên vận chuyển dầu Nga để né các lệnh trừng phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T00:59:00+07:00",
+      "fetched": "2026-01-26T08:44:00.311532+07:00"
+    },
+    {
+      "id": "e021a45f973441cc7d4b333530b1a15e",
+      "title": "Báo Thái Lan giải mã sự thành công của HLV Hàn Quốc ở Việt Nam",
+      "link": "https://vnexpress.net/bao-thai-lan-giai-ma-su-thanh-cong-cua-hlv-han-quoc-o-viet-nam-5009818.html",
+      "summary": "Các trang thể thao Thái Lan phân tích những yếu tố cốt lõi đằng sau dấu ấn của các HLV người Hàn Quốc với U23 và đội tuyển Việt Nam trong gần 10 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T00:53:00+07:00",
+      "fetched": "2026-01-26T08:43:57.071423+07:00"
+    },
+    {
+      "id": "e021a45f973441cc7d4b333530b1a15e",
+      "title": "Báo Thái Lan giải mã sự thành công của HLV Hàn Quốc ở Việt Nam",
+      "link": "https://vnexpress.net/bao-thai-lan-giai-ma-su-thanh-cong-cua-hlv-han-quoc-o-viet-nam-5009818.html",
+      "summary": "Các trang thể thao Thái Lan phân tích những yếu tố cốt lõi đằng sau dấu ấn của các HLV người Hàn Quốc với U23 và đội tuyển Việt Nam trong gần 10 năm qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-26T00:53:00+07:00",
+      "fetched": "2026-01-26T08:44:09.563108+07:00"
+    },
+    {
+      "id": "f042af3b306dbffa438ae4af695a746c",
+      "title": "Trắng đêm mưu sinh ở chợ đầu mối Bình Điền",
+      "link": "https://thanhnien.vn/trang-dem-muu-sinh-o-cho-dau-moi-binh-dien-185260125191517061.htm",
+      "summary": "Ở chợ đầu mối Bình Điền (P.Bình Đông; trước là P.7, Q.8, TP.HCM), đêm không dành cho giấc ngủ, mà là để mưu sinh. Cuối năm, không khí ở đây càng tất bật hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T00:52:00+07:00",
+      "fetched": "2026-01-26T08:44:00.311685+07:00"
+    },
+    {
+      "id": "d0d6524f746697148394c0523e7714fc",
+      "title": "Chìm phà chở 350 người ở Philippines",
+      "link": "https://vnexpress.net/chim-pha-cho-350-nguoi-o-philippines-5009821.html",
+      "summary": "Phà chở khoảng 350 người chìm trong đêm tại miền nam Philippines khiến ít nhất 8 người thiệt mạng, hơn 200 người đã được giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T00:51:03+07:00",
+      "fetched": "2026-01-26T08:43:57.071575+07:00"
+    },
+    {
+      "id": "d0d6524f746697148394c0523e7714fc",
+      "title": "Chìm phà chở 350 người ở Philippines",
+      "link": "https://vnexpress.net/chim-pha-cho-350-nguoi-o-philippines-5009821.html",
+      "summary": "Phà chở khoảng 350 người chìm trong đêm tại miền nam Philippines khiến ít nhất 8 người thiệt mạng, hơn 200 người đã được giải cứu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T00:51:03+07:00",
+      "fetched": "2026-01-26T08:44:03.463604+07:00"
+    },
+    {
+      "id": "f18367b199c37f29cdba0be84f73d238",
+      "title": "Wenger: 'Carrick tạo ra điều gì đó đặc biệt ở Man Utd'",
+      "link": "https://vnexpress.net/wenger-carrick-tao-ra-dieu-gi-do-dac-biet-o-man-utd-5009813.html",
+      "summary": "Cựu HLV Arsene Wenger khen ngợi Michael Carrick sau khi Man Utd thắng Arsenal 3-2 ngay tại Emirates ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T00:46:06+07:00",
+      "fetched": "2026-01-26T08:43:57.071734+07:00"
+    },
+    {
+      "id": "f18367b199c37f29cdba0be84f73d238",
+      "title": "Wenger: 'Carrick tạo ra điều gì đó đặc biệt ở Man Utd'",
+      "link": "https://vnexpress.net/wenger-carrick-tao-ra-dieu-gi-do-dac-biet-o-man-utd-5009813.html",
+      "summary": "Cựu HLV Arsene Wenger khen ngợi Michael Carrick sau khi Man Utd thắng Arsenal 3-2 ngay tại Emirates ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-26T00:46:06+07:00",
+      "fetched": "2026-01-26T08:44:09.563285+07:00"
+    },
+    {
+      "id": "b649fec1646cc39c2a553d966681ed5d",
+      "title": "Ông Zelensky: Mỹ cũng cần sẵn sàng thỏa hiệp",
+      "link": "https://vnexpress.net/ong-zelensky-my-cung-can-san-sang-thoa-hiep-5009814.html",
+      "summary": "Tổng thống Zelensky cho rằng mọi bên tham gia đàm phán đều phải sẵn sàng thỏa hiệp, kể cả Mỹ, sau khi cuộc họp ba bên không đạt kết quả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T00:30:57+07:00",
+      "fetched": "2026-01-26T08:44:03.463780+07:00"
+    },
+    {
+      "id": "15d36fbbce999ee62d96e751815cabca",
+      "title": "Giới chức Mỹ tranh cãi sau vụ sĩ quan bắn chết người ở Minneapolis",
+      "link": "https://vnexpress.net/gioi-chuc-my-tranh-cai-sau-vu-si-quan-ban-chet-nguoi-o-minneapolis-5009817.html",
+      "summary": "Quan chức Mỹ nói rằng đặc vụ liên bang bị đe dọa trong vụ nổ súng ở Minneapolis, trong khi truyền thông và giới chức bang Minnesota bác thông tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-26T00:18:31+07:00",
+      "fetched": "2026-01-26T08:44:03.463971+07:00"
+    },
+    {
+      "id": "5a89c6d307dd759b7fd3969b32459cf5",
+      "title": "Keane: 'Carrick vẫn không phải HLV lâu dài dù Man Utd toàn thắng'",
+      "link": "https://vnexpress.net/keane-carrick-van-khong-phai-hlv-lau-dai-du-man-utd-toan-thang-5009809.html",
+      "summary": "Sau trận thắng Arsenal 3-2 ở vòng 23 Ngoại hạng Anh, Roy Keane cho rằng Man Utd thể hiện bộ mặt giàu năng lượng và bản lĩnh hơn, nhưng vẫn không xem Michael Carrick là lựa chọn phù hợp lâu dài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T23:13:59+07:00",
+      "fetched": "2026-01-26T08:44:09.563949+07:00"
+    },
+    {
+      "id": "2bb09715a5ce9a3c470b82b044c53709",
+      "title": "Tiền vệ Man Utd: 'Arsenal chỉ trông chờ đá phạt góc'",
+      "link": "https://vnexpress.net/tien-ve-man-utd-arsenal-chi-trong-cho-da-phat-goc-5009811.html",
+      "summary": "Tiền vệ Amad Diallo chế giễu Arsenal trên mạng xã hội sau chiến thắng 3-2 của Man Utd ngay trên sân Emirates, ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T23:09:29+07:00",
+      "fetched": "2026-01-26T08:44:09.563450+07:00"
+    },
+    {
+      "id": "b0f695fb22fb9097274e149c5bf13a3b",
+      "title": "Arsenal bị chê thiếu bản lĩnh sau trận thua Man Utd",
+      "link": "https://vnexpress.net/arsenal-bi-che-thieu-ban-linh-sau-tran-thua-man-utd-5009807.html",
+      "summary": "Cựu thủ quân Patrick Vieira và cựu HLV Arsene Wenger chê màn trình diễn của đội bóng cũ Arsenal, sau trận thua ngược Man Utd 2-3 ở vòng 23 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-25T23:01:38+07:00",
+      "fetched": "2026-01-26T08:44:09.564109+07:00"
+    },
+    {
+      "id": "0d92a2ec927dfe454384f195bdfdb765",
+      "title": "Nỗi lo khi AI tạo nên 'cuộc cách mạng tự chủ'",
+      "link": "https://vnexpress.net/noi-lo-khi-ai-tao-nen-cuoc-cach-mang-tu-chu-5009207.html",
+      "summary": "Chuyên gia, lãnh đạo công nghệ hàng đầu thế giới cho rằng \"tác nhân AI tự chủ\" sẽ đi sâu từng lĩnh vực ngay trong năm nay, nhưng kéo theo nhiều nguy cơ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-25T23:00:00+07:00",
+      "fetched": "2026-01-26T08:44:07.756581+07:00"
+    },
+    {
       "id": "aa8ece0a334da05fe2536447eac79da3",
       "title": "Tử vi ngày 26 tháng 1: Con giáp nào may mắn hôm nay?",
       "link": "https://thanhnien.vn/tu-vi-ngay-26-thang-1-con-giap-nao-may-man-hom-nay-185260125231240744.htm",
@@ -191,6 +721,16 @@ window.newsData_2026_01_26 = {
       "category": "Tổng hợp",
       "published": "2026-01-25T22:00:00+07:00",
       "fetched": "2026-01-26T05:17:42.217751+07:00"
+    },
+    {
+      "id": "fab3597d3f0e6b2f321b33166f986171",
+      "title": "Khủng hoảng Greenland dạy cho châu Âu bài học về ông Trump",
+      "link": "https://vnexpress.net/khung-hoang-greenland-day-cho-chau-au-bai-hoc-ve-ong-trump-5008947.html",
+      "summary": "Cuộc khủng hoảng Greenland cho châu Âu thấy chiến thuật \"mềm nắn, rắn buông\" của ông Trump buộc họ phải tìm cách ứng phó hợp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-25T22:00:00+07:00",
+      "fetched": "2026-01-26T08:44:03.464138+07:00"
     },
     {
       "id": "3115518f8f334da166fea99e6c17920c",
