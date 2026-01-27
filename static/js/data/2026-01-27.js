@@ -1,7 +1,157 @@
 window.newsData_2026_01_27 = {
   "date": "2026-01-27",
-  "lastUpdated": "2026-01-27T05:19:36.160636+07:00",
+  "lastUpdated": "2026-01-27T08:41:36.648088+07:00",
   "articles": [
+    {
+      "id": "f09cbebe99cdf66afeafdd9c43baf60c",
+      "title": "Thời tiết hôm nay 27-1: Bắc Bộ đến Trung Bộ mưa nhẹ, sương mù, Nam Bộ ngày nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-1-bac-bo-den-trung-bo-mua-nhe-suong-mu-nam-bo-ngay-nang-20260126154456487.htm",
+      "summary": "Hôm nay 27-1, thời tiết Bắc Bộ vẫn rét kèm mưa nhỏ khá khó chịu, Trung Bộ mưa rào nhẹ, Nam Bộ ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.118138+07:00",
+      "fetched": "2026-01-27T08:41:27.118255+07:00"
+    },
+    {
+      "id": "12bc691ade9afbb0889ca9fd8911e822",
+      "title": "CĐV Đông Nam Á phẫn nộ vụ Malaysia, 'quá bất công cho Việt Nam'",
+      "link": "https://tuoitre.vn/cdv-dong-nam-a-phan-no-vu-malaysia-qua-bat-cong-cho-viet-nam-20260127001123997.htm",
+      "summary": "Cộng đồng người hâm mộ bóng đá Đông Nam Á hoàn toàn ngỡ ngàng khi Tòa án Trọng tài thể thao quốc tế (CAS) bước đầu thay đổi quyết định của FIFA trong vụ xử phạt bóng đá Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.118017+07:00",
+      "fetched": "2026-01-27T08:41:27.118127+07:00"
+    },
+    {
+      "id": "dc975b211d281edcac1505e293fb65f5",
+      "title": "Tin tức sáng 27-1: Lộ diện 5 cổ phiếu bị khối ngoại bán ròng mạnh nhất",
+      "link": "https://tuoitre.vn/tin-tuc-sang-27-1-lo-dien-5-co-phieu-bi-khoi-ngoai-ban-rong-manh-nhat-20260126151514418.htm",
+      "summary": "Một số tin tức đáng chú ý: 'Trùm' phân phối ô tô lớn nhất Việt Nam mất tư cách đại chúng; Quy định mới về hộ chiếu số của sản phẩm; Hà Nội ghi nhận ca mắc ho gà, COVID-19; Thu nhập của người lao động tăng 789.000 đồng so với năm 2024...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117894+07:00",
+      "fetched": "2026-01-27T08:41:27.118006+07:00"
+    },
+    {
+      "id": "2edb5a1db3b2edfce0e6e00c9078c26e",
+      "title": "Vi rút Nipah tái xuất tại Ấn Độ, nguy cơ xâm nhập Việt Nam?",
+      "link": "https://tuoitre.vn/vi-rut-nipah-tai-xuat-tai-an-do-nguy-co-xam-nhap-viet-nam-20260126230529863.htm",
+      "summary": "Ổ dịch vi rút Nipah vừa xuất hiện tại Ấn Độ, buộc hàng trăm người phải cách ly và khiến các quốc gia trong khu vực nâng mức cảnh giác. Thái Lan đã triển khai sàng lọc y tế tại sân bay đối với hành khách đến từ vùng dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117773+07:00",
+      "fetched": "2026-01-27T08:41:27.117884+07:00"
+    },
+    {
+      "id": "5a8549285f5ee950d01d2f577b94a56d",
+      "title": "Đừng tiếc cho Kiều Minh Tuấn",
+      "link": "https://tuoitre.vn/dung-tiec-cho-kieu-minh-tuan-20260126225950904.htm",
+      "summary": "'Chẳng tiếc đâu' - Kiều Minh Tuấn nói khi anh từng là diễn viên chính trong nhiều phim trăm tỉ, được khán giả yêu mến nhưng lại vắng bóng trong hai năm điện ảnh khởi sắc vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117648+07:00",
+      "fetched": "2026-01-27T08:41:27.117762+07:00"
+    },
+    {
+      "id": "c80f645401c3636f20f40be80333307d",
+      "title": "Tổng Bí thư Tô Lâm điện đàm với lãnh đạo Cuba",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-dien-dam-voi-lanh-dao-cuba-2026012700260285.htm",
+      "summary": "Tổng Bí thư Tô Lâm khẳng định Việt Nam hết sức coi trọng, sẵn sàng làm tất cả những gì có thể để không ngừng củng cố tình đoàn kết với Cuba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117519+07:00",
+      "fetched": "2026-01-27T08:41:27.117633+07:00"
+    },
+    {
+      "id": "0c9204ff72b208779c3448e4676c4c31",
+      "title": "Được CAS 'tạm tha', Malaysia có thể không bị xử thua tuyển Việt Nam",
+      "link": "https://tuoitre.vn/duoc-cas-tam-tha-malaysia-co-the-khong-bi-xu-thua-tuyen-viet-nam-20260126234231233.htm",
+      "summary": "Những nỗ lực kháng cáo lên Tòa án Trọng tài thể thao quốc tế (CAS) của Liên đoàn Bóng đá Malaysia (FAM) đã mang lại kết quả đầy bất ngờ, có thể ảnh hưởng trực tiếp đến cơ hội giành vé dự Asian Cup 2027 của tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117388+07:00",
+      "fetched": "2026-01-27T08:41:27.117507+07:00"
+    },
+    {
+      "id": "825e6b0d65afcd8dc960fdea8a0b0abc",
+      "title": "Tin tức thế giới 27-1: Động thái mới về nguy cơ Mỹ tấn công Iran; Mỹ tăng thuế với Hàn Quốc",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-27-1-dong-thai-moi-ve-nguy-co-my-tan-cong-iran-my-tang-thue-voi-han-quoc-20260127055635025.htm",
+      "summary": "Ông Trump tuyên bố tăng thuế lên 25% vì Hàn Quốc không tuân thủ thỏa thuận; Hezbollah ở Lebanon cảnh báo sẽ có đáp trả nếu Mỹ tấn công Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117247+07:00",
+      "fetched": "2026-01-27T08:41:27.117375+07:00"
+    },
+    {
+      "id": "961027deffed6e78c77c5dbdebb95c88",
+      "title": "Kylie Jenner và những diện mạo thảm đỏ làm nên ngôi sao thời trang toàn cầu",
+      "link": "https://tuoitre.vn/kylie-jenner-va-nhung-dien-mao-tham-do-lam-nen-ngoi-sao-thoi-trang-toan-cau-20260126164437291.htm",
+      "summary": "Kylie Jenner, người mẫu, nhà sáng lập của đế chế Kylie Cosmetics và là một trong những nhân vật có tầm ảnh hưởng lớn nhất trên mạng xã hội với 391 triệu người theo dõi Instagram.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.117123+07:00",
+      "fetched": "2026-01-27T08:41:27.117236+07:00"
+    },
+    {
+      "id": "aa0971bdbdd4ec2711cfd5e9078773f0",
+      "title": "Sự thật quyết định 'tạm tha' của CAS với cầu thủ nhập tịch Malaysia",
+      "link": "https://tuoitre.vn/su-that-quyet-dinh-tam-tha-cua-cas-voi-cau-thu-nhap-tich-malaysia-20260127062257494.htm",
+      "summary": "Việc Tòa án trọng tài thể thao (CAS) tạm đình chỉ án phạt cấm thi đấu 12 tháng với 7 cầu thủ nhập tịch trái phép của Malaysia là quyết định gây sốc nhưng mọi thứ vẫn chưa kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116997+07:00",
+      "fetched": "2026-01-27T08:41:27.117112+07:00"
+    },
+    {
+      "id": "89db9d32c05e30541eaab787f60c19d8",
+      "title": "Hòa Minzy khóc, phim 'Mưa đỏ' thắng lớn tại giải Tinh hoa Việt",
+      "link": "https://tuoitre.vn/hoa-minzy-khoc-phim-mua-do-thang-lon-tai-giai-tinh-hoa-viet-20260127063407677.htm",
+      "summary": "Hòa Minzy, Nguyễn Hùng, DTAP thắng lớn ở giải Tinh hoa Việt. 'Mưa đỏ' vượt qua nhiều bộ phim trở thành Tinh hoa điện ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116862+07:00",
+      "fetched": "2026-01-27T08:41:27.116985+07:00"
+    },
+    {
+      "id": "62ae098dbc3f9a721bb7467b2ebb2399",
+      "title": "Phát hiện mới về Trần Hưng Đạo từ Trần triều sự tích ở chùa Thắng Nghiêm - Khúc Thủy",
+      "link": "https://tuoitre.vn/phat-hien-moi-ve-tran-hung-dao-tu-tran-trieu-su-tich-o-chua-thang-nghiem-khuc-thuy-20260126222658881.htm",
+      "summary": "Chính sử lâu nay không ghi Trần Hưng Đạo sinh năm nào và thời niên thiếu của ông sinh sống ra sao, nhưng một số nhà sử học vừa đưa ra phát hiện mới. Điều đó liệu có làm rõ thêm khoảng trống lịch sử này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116734+07:00",
+      "fetched": "2026-01-27T08:41:27.116851+07:00"
+    },
+    {
+      "id": "0d8bf7a8c258c4e0b66a4f331c21b175",
+      "title": "Việt Nam bước vào thời kỳ dân số già trong ít năm tới",
+      "link": "https://tuoitre.vn/viet-nam-buoc-vao-thoi-ky-dan-so-gia-trong-it-nam-toi-20260126171300799.htm",
+      "summary": "Việt Nam đang đứng trước một bước ngoặt lớn về dân số. Các dự báo mới nhất cho thấy chỉ trong hơn một thập kỷ tới, đất nước sẽ khép lại thời kỳ “dân số vàng” để bước nhanh vào thời kỳ già hóa, thậm chí “siêu già” từ giữa thế kỷ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116599+07:00",
+      "fetched": "2026-01-27T08:41:27.116722+07:00"
+    },
+    {
+      "id": "9bccc8e2ee5bf2db350b150eef5b5d63",
+      "title": "Vụ cướp ngân hàng tại Gia Lai: Treo thưởng người cung cấp thông tin có giá trị",
+      "link": "https://tuoitre.vn/vu-cuop-ngan-hang-tai-gia-lai-treo-thuong-nguoi-cung-cap-thong-tin-co-gia-tri-20260127065237291.htm",
+      "summary": "Công an tỉnh Gia Lai kêu gọi tổ chức, cá nhân tố giác tội phạm trong vụ cướp ngân hàng táo tợn lấy đi 1,8 tỉ đồng ở phường Hội Phú và sẽ khen thưởng xứng đáng các thông tin có giá trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116453+07:00",
+      "fetched": "2026-01-27T08:41:27.116586+07:00"
+    },
+    {
+      "id": "883ef68dde0e42ef74478cdc206d581f",
+      "title": "Tổng thư ký NATO: Châu Âu không thể tự vệ nếu thiếu Mỹ",
+      "link": "https://tuoitre.vn/tong-thu-ky-nato-chau-au-khong-the-tu-ve-neu-thieu-my-20260127064026482.htm",
+      "summary": "Tổng thư ký NATO cho rằng chiếc ô hạt nhân của Mỹ là sự đảm bảo lớn nhất cho tự do của châu Âu, và NATO sẽ phải tăng chi tiêu quốc phòng lên tới 10% GDP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T08:41:27.116210+07:00",
+      "fetched": "2026-01-27T08:41:27.116437+07:00"
+    },
     {
       "id": "c0ab0174e020ce56b438d928473aed4a",
       "title": "Tòa án Trọng tài thể thao công bố gây sốc: Đình chỉ án của FIFA vụ Malaysia nhập tịch cầu thủ",
@@ -21,6 +171,26 @@ window.newsData_2026_01_27 = {
       "category": "Tổng hợp",
       "published": "2026-01-27T03:23:59.402323+07:00",
       "fetched": "2026-01-27T03:23:59.402562+07:00"
+    },
+    {
+      "id": "b8a38e83a1e3b178b636ab33ab4ad5ce",
+      "title": "Chợ Bà Chiểu 'lột xác': Vỉa hè, lòng đường rộng thênh thang, người dân ngỡ ngàng",
+      "link": "https://thanhnien.vn/cho-ba-chieu-lot-xac-via-he-long-duong-rong-thenh-thang-nguoi-dan-ngo-ngang-185260126233538576.htm",
+      "summary": "Sau 10 ngày TP.HCM xử lý lấn chiếm vỉa hè, hình ảnh chợ Bà Chiểu 'lột xác', đường sá đi lại rộng thênh thang khiến người dân ngạc nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:38:00+07:00",
+      "fetched": "2026-01-27T08:41:26.102762+07:00"
+    },
+    {
+      "id": "36a3dc307223303194955f60f42d728f",
+      "title": "Thái Lan phát hiện virus Nipah chết người, tiếp tục sàng lọc du khách",
+      "link": "https://thanhnien.vn/thai-lan-phat-hien-virus-nipah-chet-nguoi-tiep-tuc-sang-loc-du-khach-185260127080547444.htm",
+      "summary": "Một số loài dơi ăn quả ở Thái Lan mang chủng virus Nipah mạnh, nhưng mối nguy hiểm lớn hơn đến từ những du khách nhiễm bệnh đến nước này từ các quốc gia đang có dịch bệnh bùng phát, cơ quan y tế Thái Lan khuyến cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:37:00+07:00",
+      "fetched": "2026-01-27T08:41:26.102938+07:00"
     },
     {
       "id": "96edc39605970aa7676b4d0b56667662",
@@ -171,6 +341,396 @@ window.newsData_2026_01_27 = {
       "category": "Tổng hợp",
       "published": "2026-01-27T01:31:40.485624+07:00",
       "fetched": "2026-01-27T01:31:40.485845+07:00"
+    },
+    {
+      "id": "9f571c09172b008668f8e76ef0aaf188",
+      "title": "Movespeed ST10 - ổ cứng di động có màn cảm ứng",
+      "link": "https://vnexpress.net/movespeed-st10-o-cung-di-dong-co-man-cam-ung-5010256.html",
+      "summary": "Movespeed ST10 là ổ cứng di động hiếm hoi trang bị màn hình cảm ứng, nhưng giá 5,5 triệu đồng cao hơn mặt bằng chung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-27T01:22:59+07:00",
+      "fetched": "2026-01-27T08:41:34.796835+07:00"
+    },
+    {
+      "id": "533698f3737148ca9a2943599beeb065",
+      "title": "'Đồng vọng', hồi ức rực rỡ của nền văn hóa Đông Sơn",
+      "link": "https://thanhnien.vn/dong-vong-hoi-uc-ruc-ro-cua-nen-van-hoa-dong-son-185260126221057101.htm",
+      "summary": "Đến với triển lãm 'Đồng vọng', người xem không chỉ hiểu rõ vai trò của chất liệu đồng trong chế tác hiện vật, mà còn là hồi ức về một thời đại rực rỡ của đồ đồng trong quá khứ, qua tay nghề người Việt xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:15:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103098+07:00"
+    },
+    {
+      "id": "50e65913ddbf5a40f5667d273fce8926",
+      "title": "Vingroup tham gia thị trường tín chỉ carbon xe điện, trạm sạc",
+      "link": "https://vnexpress.net/vingroup-tham-gia-thi-truong-tin-chi-carbon-xe-dien-tram-sac-5010261.html",
+      "summary": "Vingroup thực hiện hai dự án tín chỉ carbon cho xe máy điện và trạm sạc, trong đó riêng trạm sạc có thể giảm tới 3,5 triệu tấn CO2 mỗi năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-27T01:12:34+07:00",
+      "fetched": "2026-01-27T08:41:30.766791+07:00"
+    },
+    {
+      "id": "79f728289dd98556bc923bd201526eec",
+      "title": "Hà Nội tính di dời hơn 860.000 dân nội thành để tái cấu trúc đô thị",
+      "link": "https://thanhnien.vn/ha-noi-tinh-di-doi-hon-860000-dan-noi-thanh-de-tai-cau-truc-do-thi-185260126232722073.htm",
+      "summary": "Để giải quyết tận gốc các điểm nghẽn hạ tầng, hướng tới một đô thị phát triển, xanh, thông minh và bền vững, Hà Nội đề xuất trong giai đoạn 2026 - 2045 sẽ di dời hơn 860.000 người dân nằm trong Vành đai 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:06:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103252+07:00"
+    },
+    {
+      "id": "fef77ceb8022a42aac9d0e416cefad5e",
+      "title": "Giáo sư Vũ Hà Văn gia nhập Đại học Hồng Kông",
+      "link": "https://thanhnien.vn/giao-su-vu-ha-van-gia-nhap-dai-hoc-hong-kong-185260126212731444.htm",
+      "summary": "GS Vũ Hà Văn, một trong những nhà toán học Việt Nam nổi tiếng nhất đã rời Đại học Yale của Mỹ để về châu Á gia nhập Đại học Hồng Kông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:04:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103423+07:00"
+    },
+    {
+      "id": "bc5835318ce06a1c6547e6ce7a06cdb3",
+      "title": "'Mỹ nam đẹp nhất Hàn Quốc' xin lỗi",
+      "link": "https://vnexpress.net/my-nam-dep-nhat-han-quoc-xin-loi-5010219.html",
+      "summary": "\"Idol đẹp trai nhất Hàn Quốc\" Cha Eun Woo xin lỗi vì khiến mọi người lo lắng khi anh vướng tin trốn thuế, hứa hợp tác cơ quan chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:03:35+07:00",
+      "fetched": "2026-01-27T08:41:22.840456+07:00"
+    },
+    {
+      "id": "f5c1e243fa44f03d8aa2153b5f46436c",
+      "title": "Bộ Y tế khuyến cáo không ăn trái cây bị động vật cắn đề phòng virus Nipah",
+      "link": "https://thanhnien.vn/bo-y-te-khuyen-cao-khong-an-trai-cay-bi-dong-vat-can-de-phong-virus-nipah-185260127073113417.htm",
+      "summary": "Bộ Y tế đề nghị địa phương tăng cường công tác giám sát, phòng chống dịch bệnh do virus Nipah ngay từ các cửa khẩu, cơ sở y tế và cộng đồng, sẵn sàng các biện pháp đáp ứng, phòng chống dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:02:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103575+07:00"
+    },
+    {
+      "id": "d699b3fc45b27fa5b164f6e89aedfb9a",
+      "title": "Mẹ 'tăng xông' vì con gái bỗng dưng đảm đang",
+      "link": "https://vnexpress.net/thu-gian-video-hai-me-tang-xong-vi-con-gai-bong-dung-dam-dang-5010113.html",
+      "summary": "Cô con gái hậu đậu bất ngờ vào bếp phụ mẹ, điều đầu tiên mẹ nhận được không phải là niềm vui mà là… một bài test huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.840637+07:00"
+    },
+    {
+      "id": "32a2ad6597e612bce0178e64d32231fb",
+      "title": "Tên Venezuela có ý nghĩa gì?",
+      "link": "https://vnexpress.net/ten-venezuela-co-y-nghia-gi-5010031.html",
+      "summary": "Nhiều du khách khi đến Venezuela bất ngờ khi biết nguồn gốc tên gọi Venezuela có quan hệ mật thiết với thành phố Venice, Italy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.840806+07:00"
+    },
+    {
+      "id": "1c0eac7c189f55b7a3b4451a323bdae2",
+      "title": "Rối loạn chuyển hóa ở tuổi 24",
+      "link": "https://vnexpress.net/roi-loan-chuyen-hoa-o-tuoi-24-5010225.html",
+      "summary": "Mạnh, 24 tuổi, mờ mắt, nhức đầu, mệt mỏi kéo dài, vòng bụng to, bác sĩ chẩn đoán béo phì, tăng đường huyết và huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.840966+07:00"
+    },
+    {
+      "id": "325d48a2b2a05689cfd024cb5fbffbbb",
+      "title": "Giảm áp lực dọn dẹp ngày Tết với thiết bị gia dụng thông minh",
+      "link": "https://vnexpress.net/giam-ap-luc-don-dep-ngay-tet-voi-thiet-bi-gia-dung-thong-minh-5010069.html",
+      "summary": "Việc dọn dẹp nhà ngày Tết có thể trở nên nhẹ nhàng hơn khi các thành viên cùng chia sẻ, đồng thời tận dụng thêm các thiết bị công nghệ như robot hút bụi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.841131+07:00"
+    },
+    {
+      "id": "d035c49e88b8ecc019750a56a1e503e6",
+      "title": "Du xuân, nghỉ dưỡng tại Duyên Hà Resort Cam Ranh",
+      "link": "https://vnexpress.net/du-xuan-nghi-duong-tai-duyen-ha-resort-cam-ranh-5008803.html",
+      "summary": "Duyên Hà Resort Cam Ranh mang đến kỳ nghỉ xuân bên biển với không gian biệt lập giữa thiên nhiên, ẩm thực trọn gói cùng hệ tiện ích hợp gia đình nhiều thế hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.841288+07:00"
+    },
+    {
+      "id": "02da0b2d9e0cba7e2cd84a06368b6bac",
+      "title": "Khám sức khỏe trước tết công nghệ cao: Chủ động tầm soát - An tâm trọn năm",
+      "link": "https://thanhnien.vn/kham-suc-khoe-truoc-tet-cong-nghe-cao-chu-dong-tam-soat-an-tam-tron-nam-185260126215700236.htm",
+      "summary": "Cận tết, rất nhiều người nói: 'Qua tết rồi khám sức khỏe cũng được'. Nhưng thực tế, rất nhiều bệnh lại được phát hiện ngay sau tết. Vấn đề là: Khám thế nào cho đúng và đủ? Khám sơ sài thì không an tâm. Khám tràn lan thì tốn thời gian, chi phí mà vẫn rối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103723+07:00"
+    },
+    {
+      "id": "659b1d77d93970121c9ff8f18a123dde",
+      "title": "ISOFH - Mô hình 'bệnh viện thông minh' và câu chuyện nâng cao hiệu quả y tế",
+      "link": "https://thanhnien.vn/isofh-mo-hinh-benh-vien-thong-minh-va-cau-chuyen-nang-cao-hieu-qua-y-te-185260126203350129.htm",
+      "summary": "Quá tải bệnh viện không chỉ là câu chuyện chuyên môn, mà còn là bài toán quản trị hệ thống y tế. Khi thời gian chờ đợi của người bệnh càng kéo dài, áp lực lên đội ngũ y bác sĩ ngày càng lớn, nhu cầu đổi mới mô hình vận hành càng trở nên cấp thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.103870+07:00"
+    },
+    {
+      "id": "e74a5f1e3cb73668346ca1134473c07b",
+      "title": "Đừng để đánh mất cơ hội chỉ vì những nỗi sợ",
+      "link": "https://thanhnien.vn/dung-de-danh-mat-co-hoi-chi-vi-nhung-noi-so-185260126201621508.htm",
+      "summary": "Không ít người trẻ có ý định học thêm, đổi việc, bắt đầu một dự án nhỏ hay đơn giản là rẽ sang con đường khác. Thế nhưng trước khi kịp hành động, họ đã tự vẽ ra hàng loạt rủi ro: sợ thất bại, sợ tốn kém, sợ không đi đến đâu…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104017+07:00"
+    },
+    {
+      "id": "1606de49458a2b66e63158e6406d4cc5",
+      "title": "Piaggio Việt Nam cán mốc 2 triệu xe, nâng tầm vị thế sản xuất toàn cầu",
+      "link": "https://thanhnien.vn/piaggio-viet-nam-can-moc-2-trieu-xe-nang-tam-vi-the-san-xuat-toan-cau-185260126194036319.htm",
+      "summary": "Đầu tháng 12.2025, chiếc xe thứ 2 triệu chính thức xuất xưởng tại nhà máy Phú Thọ (tỉnh Vĩnh Phúc cũ), đánh dấu một cột mốc sản xuất mới trong hành trình 18 năm phát triển của Piaggio tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104180+07:00"
+    },
+    {
+      "id": "b09965d7f5d60e46da4d6a8c983047d1",
+      "title": "Kỳ 118: Hàng quán cà phê - Nơi con người nhận thức bản thân và xã hội",
+      "link": "https://thanhnien.vn/ky-118-hang-quan-ca-phe-noi-con-nguoi-nhan-thuc-ban-than-va-xa-hoi-185260126170007873.htm",
+      "summary": "Hàng quán cà phê vừa là không gian để con người thấu suốt chính mình, vừa là nơi phản chiếu môi trường xã hội đang vận động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104327+07:00"
+    },
+    {
+      "id": "d90e8303d7c720d888189ec6846fc573",
+      "title": "Công nghệ đang thay đổi cách gia đình Việt chuẩn bị Tết như thế nào?",
+      "link": "https://thanhnien.vn/cong-nghe-dang-thay-doi-cach-gia-dinh-viet-chuan-bi-tet-nhu-the-nao-18526012615272473.htm",
+      "summary": "Những ngày cận Tết, không khó để bắt gặp hình ảnh các gia đình tất bật dọn dẹp nhà cửa, mua sắm, sắp xếp lại không gian sống. Tuy nhiên, những năm gần đây, nhiều gia đình Việt đang ứng dụng các thiết bị công nghệ để giảm áp lực việc nhà, tiết kiệm thời gian và giữ nhịp sinh hoạt ổn định trong suốt m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104497+07:00"
+    },
+    {
+      "id": "1dd59e7ab7e2bbb2422f4bc1a56b063a",
+      "title": "Tết 2026 và lựa chọn mua sắm chủ động trên sàn TMĐT của người tiêu dùng Việt",
+      "link": "https://thanhnien.vn/tet-2026-va-lua-chon-mua-sam-chu-dong-tren-san-tmdt-cua-nguoi-tieu-dung-viet-18526012615121839.htm",
+      "summary": "Không muốn 'nước đến chân mới nhảy' hay phải chen chúc đi từng khu phố để tìm kiếm quần áo, quà biếu, đồ trang trí… trong những ngày cận Tết, nhiều người tiêu dùng đã mua sắm chuẩn bị Tết Nguyên đán 2026 từ sớm trên sàn thương mại điện tử (TMĐT).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104645+07:00"
+    },
+    {
+      "id": "eb1b49dbf4af45d683eae99c66125e30",
+      "title": "Đơn giản nhưng không đơn điệu với sắc đen và xám",
+      "link": "https://thanhnien.vn/thoi-trang-tre/don-gian-nhung-khong-don-dieu-voi-sac-den-va-xam-185260125172608113.htm",
+      "summary": "Sự kết hợp giữa đen và xám trong thời trang nữ thường gây bất ngờ bởi một diện mạo tinh giản nhưng đầy chiều sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T01:00:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104789+07:00"
+    },
+    {
+      "id": "a25a0bd0c13dd067d82b9ffbe82e9019",
+      "title": "Giá vàng thế giới tiếp tục tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-5010274.html",
+      "summary": "Giá vàng có thời điểm vượt 5.100 USD một ounce phiên đầu tuần, do nhu cầu trú ẩn trong căng thẳng chính trị toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:51:40+07:00",
+      "fetched": "2026-01-27T08:41:22.841461+07:00"
+    },
+    {
+      "id": "a25a0bd0c13dd067d82b9ffbe82e9019",
+      "title": "Giá vàng thế giới tiếp tục tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-5010274.html",
+      "summary": "Giá vàng có thời điểm vượt 5.100 USD một ounce phiên đầu tuần, do nhu cầu trú ẩn trong căng thẳng chính trị toàn cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-27T00:51:40+07:00",
+      "fetched": "2026-01-27T08:41:30.765934+07:00"
+    },
+    {
+      "id": "f1fabfa1c6d8054ebe329eb9b0cdddfb",
+      "title": "Cựu sếp VICEM khai gì về việc nhận hơn 3 tỉ đồng tiền 'bôi trơn'?",
+      "link": "https://thanhnien.vn/cuu-sep-vicem-khai-gi-ve-viec-nhan-hon-3-ti-dong-tien-boi-tron-185260126223910265.htm",
+      "summary": "Ngoài sai phạm khiến tòa tháp ngàn tỉ 'đắp chiếu' suốt 10 năm qua, một số cựu lãnh đạo VICEM còn bị cáo buộc nhận hơn 3 tỉ đồng tiền 'bôi trơn' từ nhà thầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:49:00+07:00",
+      "fetched": "2026-01-27T08:41:26.104935+07:00"
+    },
+    {
+      "id": "081f2a51c204fcf32210bb7c9bb652fd",
+      "title": "Nhà Trắng tuyên bố không lùi bước khi truy quét nhập cư ở Minnesota",
+      "link": "https://vnexpress.net/nha-trang-tuyen-bo-khong-lui-buoc-khi-truy-quet-nhap-cu-o-minnesota-5010272.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump không muốn thấy người dân bị thương hay thiệt mạng trên đường phố Mỹ, nhưng sẽ không khoan nhượng trong nỗ lực truy quét nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:44:20+07:00",
+      "fetched": "2026-01-27T08:41:22.841617+07:00"
+    },
+    {
+      "id": "081f2a51c204fcf32210bb7c9bb652fd",
+      "title": "Nhà Trắng tuyên bố không lùi bước khi truy quét nhập cư ở Minnesota",
+      "link": "https://vnexpress.net/nha-trang-tuyen-bo-khong-lui-buoc-khi-truy-quet-nhap-cu-o-minnesota-5010272.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump không muốn thấy người dân bị thương hay thiệt mạng trên đường phố Mỹ, nhưng sẽ không khoan nhượng trong nỗ lực truy quét nhập cư.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T00:44:20+07:00",
+      "fetched": "2026-01-27T08:41:28.961637+07:00"
+    },
+    {
+      "id": "c5b0b4bfacb2245853313a09f592fbde",
+      "title": "Việt Nam ra quân tại giải vô địch futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-ra-quan-tai-giai-vo-dich-futsal-chau-a-5010268.html",
+      "summary": "Với lực lượng trẻ hóa, HLV Diego Giustozzi vẫn đặt quyết tâm thắng Kuwait trong trận ra quân giải vô địch futsal châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:42:35+07:00",
+      "fetched": "2026-01-27T08:41:22.841782+07:00"
+    },
+    {
+      "id": "c5b0b4bfacb2245853313a09f592fbde",
+      "title": "Việt Nam ra quân tại giải vô địch futsal châu Á",
+      "link": "https://vnexpress.net/viet-nam-ra-quan-tai-giai-vo-dich-futsal-chau-a-5010268.html",
+      "summary": "Với lực lượng trẻ hóa, HLV Diego Giustozzi vẫn đặt quyết tâm thắng Kuwait trong trận ra quân giải vô địch futsal châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T00:42:35+07:00",
+      "fetched": "2026-01-27T08:41:36.642523+07:00"
+    },
+    {
+      "id": "b52093c991dc63c29b04138adef198a8",
+      "title": "Ronaldo vô duyên trong chiến thắng của Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-vo-duyen-trong-chien-thang-cua-al-nassr-5010264.html",
+      "summary": "Al Nassr phải nhờ bàn phản lưới để hạ Al Taawoun 1-0, ở vòng 17 Saudi Pro League tối 26/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:31:34+07:00",
+      "fetched": "2026-01-27T08:41:22.841958+07:00"
+    },
+    {
+      "id": "b52093c991dc63c29b04138adef198a8",
+      "title": "Ronaldo vô duyên trong chiến thắng của Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-vo-duyen-trong-chien-thang-cua-al-nassr-5010264.html",
+      "summary": "Al Nassr phải nhờ bàn phản lưới để hạ Al Taawoun 1-0, ở vòng 17 Saudi Pro League tối 26/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-27T00:31:34+07:00",
+      "fetched": "2026-01-27T08:41:36.642686+07:00"
+    },
+    {
+      "id": "331210ad65dc098bc1b669ddebb7fedb",
+      "title": "Ứng viên Cộng hòa từ bỏ tranh cử thống đốc Minnesota vì chiến dịch của ICE",
+      "link": "https://vnexpress.net/ung-vien-cong-hoa-tu-bo-tranh-cu-thong-doc-minnesota-vi-chien-dich-cua-ice-5010267.html",
+      "summary": "Ứng viên đảng Cộng hòa Chris Madel bất ngờ dừng tranh cử ghế thống đốc bang Minnesota nhằm phản đối chiến dịch truy quét nhập cư của ICE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:14:58+07:00",
+      "fetched": "2026-01-27T08:41:22.842122+07:00"
+    },
+    {
+      "id": "331210ad65dc098bc1b669ddebb7fedb",
+      "title": "Ứng viên Cộng hòa từ bỏ tranh cử thống đốc Minnesota vì chiến dịch của ICE",
+      "link": "https://vnexpress.net/ung-vien-cong-hoa-tu-bo-tranh-cu-thong-doc-minnesota-vi-chien-dich-cua-ice-5010267.html",
+      "summary": "Ứng viên đảng Cộng hòa Chris Madel bất ngờ dừng tranh cử ghế thống đốc bang Minnesota nhằm phản đối chiến dịch truy quét nhập cư của ICE.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T00:14:58+07:00",
+      "fetched": "2026-01-27T08:41:28.961818+07:00"
+    },
+    {
+      "id": "c129bcf7f8d19d93d7aae1ff21ee5665",
+      "title": "Tổng Bí thư Tô Lâm điện đàm với Bí thư thứ nhất, Chủ tịch Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-bi-thu-thu-nhat-chu-tich-cuba-5010270.html",
+      "summary": "Tổng Bí thư Tô Lâm điện đàm với Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel, khẳng định Việt Nam hết sức coi trọng quan hệ hữu nghị đặc biệt, mẫu mực với Cuba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:01:50+07:00",
+      "fetched": "2026-01-27T08:41:22.842277+07:00"
+    },
+    {
+      "id": "c129bcf7f8d19d93d7aae1ff21ee5665",
+      "title": "Tổng Bí thư Tô Lâm điện đàm với Bí thư thứ nhất, Chủ tịch Cuba",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-dien-dam-voi-bi-thu-thu-nhat-chu-tich-cuba-5010270.html",
+      "summary": "Tổng Bí thư Tô Lâm điện đàm với Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel, khẳng định Việt Nam hết sức coi trọng quan hệ hữu nghị đặc biệt, mẫu mực với Cuba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-27T00:01:50+07:00",
+      "fetched": "2026-01-27T08:41:28.961991+07:00"
+    },
+    {
+      "id": "e9ced14122bcf9590aeb336b48d39d71",
+      "title": "33 Ủy viên Trung ương khóa 14 khối Quân đội, Công an",
+      "link": "https://vnexpress.net/33-uy-vien-trung-uong-khoa-14-khoi-quan-doi-cong-an-5010211.html",
+      "summary": "Danh sách Ủy viên Trung ương khóa XIV có 33 đại diện từ lực lượng vũ trang, gồm 26 người thuộc Quân đội nhân dân và 7 người thuộc Công an nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.842453+07:00"
+    },
+    {
+      "id": "91d2829a9c41f9af3403e433e10cc850",
+      "title": "Subaru WRX 2026 giảm giá, bản tiêu chuẩn tái xuất",
+      "link": "https://vnexpress.net/subaru-wrx-2026-giam-gia-ban-tieu-chuan-tai-xuat-5010022.html",
+      "summary": "Doanh số giảm mạnh trong 2025 khiến hãng Nhật mạnh tay giảm giá cho WRX 2026 đồng thời đưa trở lại bản tiêu chuẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T00:00:00+07:00",
+      "fetched": "2026-01-27T08:41:22.842608+07:00"
+    },
+    {
+      "id": "86d5b11298b80a0d3eccea7e8e5577a0",
+      "title": "Ông Trump nâng thuế nhập khẩu lên 25% với nhiều hàng hóa Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-nang-thue-nhap-khau-len-25-voi-nhieu-hang-hoa-han-quoc-5010269.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết sẽ tăng thuế nhập khẩu lên 25% với ôtô, gỗ và dược phẩm Hàn Quốc, cáo buộc nước này \"không thực hiện đúng\" thỏa thuận thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-26T23:59:34+07:00",
+      "fetched": "2026-01-27T08:41:22.842765+07:00"
+    },
+    {
+      "id": "86d5b11298b80a0d3eccea7e8e5577a0",
+      "title": "Ông Trump nâng thuế nhập khẩu lên 25% với nhiều hàng hóa Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-nang-thue-nhap-khau-len-25-voi-nhieu-hang-hoa-han-quoc-5010269.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết sẽ tăng thuế nhập khẩu lên 25% với ôtô, gỗ và dược phẩm Hàn Quốc, cáo buộc nước này \"không thực hiện đúng\" thỏa thuận thương mại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-26T23:59:34+07:00",
+      "fetched": "2026-01-27T08:41:30.766113+07:00"
+    },
+    {
+      "id": "a39a58d30c27a45974e691ccbb2423d8",
+      "title": "Thị trường smartphone lao đao đầu năm",
+      "link": "https://vnexpress.net/thi-truong-smartphone-lao-dao-dau-nam-5010181.html",
+      "summary": "Nhu cầu tiêu dùng giảm sút, giá linh kiện tăng cao khiến các hãng smartphone đối mặt áp lực buộc nâng giá sản phẩm và dự báo tăng trưởng âm trong năm 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-26T23:00:00+07:00",
+      "fetched": "2026-01-27T08:41:34.796490+07:00"
+    },
+    {
+      "id": "5415f46f3d0ff386d418957e416de667",
+      "title": "Làn sóng VĐV đổi quốc tịch trước Olympic 2028",
+      "link": "https://vnexpress.net/lan-song-vdv-doi-quoc-tich-truoc-olympic-2028-5010263.html",
+      "summary": "Trước thềm Olympic Los Angeles 2028, làn sóng các VĐV hàng đầu được mời chào bằng những hợp đồng giá trị lớn để đổi quốc tịch đang làm dấy lên lo ngại về nguy cơ thương mại hóa Thế vận hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-26T22:18:23+07:00",
+      "fetched": "2026-01-27T08:41:36.642844+07:00"
     },
     {
       "id": "3ee187f1850500a416c8732810e08061",
