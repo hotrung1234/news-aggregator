@@ -1,7 +1,17 @@
 window.newsData_2026_01_28 = {
   "date": "2026-01-28",
-  "lastUpdated": "2026-01-28T01:35:11.697015+07:00",
+  "lastUpdated": "2026-01-28T03:20:23.357769+07:00",
   "articles": [
+    {
+      "id": "8691c8083b29f30f9636fcfab9e1db34",
+      "title": "Liên đoàn Quyền anh quốc tế sắp tổ chức hội nghị thường niên ở Việt Nam",
+      "link": "https://tuoitre.vn/lien-doan-quyen-anh-quoc-te-sap-to-chuc-hoi-nghi-thuong-nien-o-viet-nam-20260128000843453.htm",
+      "summary": "Liên đoàn Quyền anh quốc tế - IBF tiến gần hơn kế hoạch tổ chức hội nghị thường niên lần thứ 41 tại The Grand Ho Tram (Việt Nam) vào cuối tháng 5-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:20:14.783587+07:00",
+      "fetched": "2026-01-28T03:20:14.783791+07:00"
+    },
     {
       "id": "eaf8337b1b565ee96b9a88377429ecc2",
       "title": "Vì sao nhiều 'thần đồng' lúc nhỏ không chạm đỉnh cao khi trưởng thành?",
@@ -151,6 +161,16 @@ window.newsData_2026_01_28 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T01:35:03.537748+07:00",
       "fetched": "2026-01-28T01:35:03.537974+07:00"
+    },
+    {
+      "id": "f9f310748f567ddeb89142f0db080bbe",
+      "title": "Chuyên gia: 6 thói quen buổi sáng giúp kiểm soát huyết áp",
+      "link": "https://thanhnien.vn/chuyen-gia-6-thoi-quen-buoi-sang-cuc-hay-de-kiem-soat-huyet-ap-185260127224800497.htm",
+      "summary": "Kiểm soát huyết áp là chìa khóa quan trọng để ngăn ngừa các biến chứng nghiêm trọng như đau tim và đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-27T18:37:00+07:00",
+      "fetched": "2026-01-28T03:20:13.866432+07:00"
     },
     {
       "id": "bc428d650f206a283db55e2a3adf4871",
