@@ -1,7 +1,157 @@
 window.newsData_2026_01_28 = {
   "date": "2026-01-28",
-  "lastUpdated": "2026-01-28T08:28:22.507080+07:00",
+  "lastUpdated": "2026-01-28T10:42:50.047061+07:00",
   "articles": [
+    {
+      "id": "b45b3307cbb13667a6e5014a12f71618",
+      "title": "Bảo hiểm y tế: 'Lá chắn' cho bệnh nhân mắc bệnh hiểm nghèo",
+      "link": "https://tuoitre.vn/bao-hiem-y-te-la-chan-cho-benh-nhan-mac-benh-hiem-ngheo-20260128080758152.htm",
+      "summary": "Hướng tới mục tiêu xây dựng một Việt Nam khỏe mạnh, ngành y tế đã triển khai nhiều chính sách đột phá, trong đó có bảo hiểm y tế (BHYT).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633709+07:00",
+      "fetched": "2026-01-28T10:42:42.633820+07:00"
+    },
+    {
+      "id": "b3e0a5ad0a53deca710c51b3243cf654",
+      "title": "Mỹ đang cân nhắc lại chính quyền lâm thời Venezuela?",
+      "link": "https://tuoitre.vn/my-dang-can-nhac-lai-chinh-quyen-lam-thoi-venezuela-20260128082655256.htm",
+      "summary": "Nhiều báo cáo tình báo Mỹ cho thấy Washington đang xem xét thái độ hợp tác của chính quyền lâm thời Venezuela, bất chấp các tín hiệu khả quan trong quan hệ hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633580+07:00",
+      "fetched": "2026-01-28T10:42:42.633698+07:00"
+    },
+    {
+      "id": "3875b4a0292cb93169e4ca3d32a83edc",
+      "title": "Vĩnh Long yêu cầu không để xảy ra việc chèo kéo, đeo bám khách du lịch",
+      "link": "https://tuoitre.vn/vinh-long-yeu-cau-khong-de-xay-ra-viec-cheo-keo-deo-bam-khach-du-lich-20260128085541048.htm",
+      "summary": "Ngoài yêu cầu các cơ sở kinh doanh dịch vụ du lịch niêm yết giá công khai, bán đúng giá, Vĩnh Long còn đề nghị đảm bảo đúng số lượng, chất lượng, không chèo kéo, đeo bám khách du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633456+07:00",
+      "fetched": "2026-01-28T10:42:42.633569+07:00"
+    },
+    {
+      "id": "36085b0ebbb995852fe86baf65e2adb2",
+      "title": "Thời này còn ai ‘thương câu dân ca’?",
+      "link": "https://tuoitre.vn/thoi-nay-con-ai-thuong-cau-dan-ca-20260128023522627.htm",
+      "summary": "Nếu có người hỏi vậy, chắc chắn nhạc sĩ Nguyễn Quang Long và AnhHI Thanh Cường sẽ trả lời bằng album Thương câu dân ca vừa ra mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633313+07:00",
+      "fetched": "2026-01-28T10:42:42.633444+07:00"
+    },
+    {
+      "id": "860ca69523767d61b5222d793e2190c5",
+      "title": "Công nghệ gene đã giúp người Việt như thế nào?",
+      "link": "https://tuoitre.vn/cong-nghe-gene-da-giup-nguoi-viet-nhu-the-nao-20260127213136943.htm",
+      "summary": "Trong khoảng một thập kỷ trở lại đây, công nghệ gene đang từng bước thay đổi cách hệ thống y tế tiếp cận việc sàng lọc và chẩn đoán bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633189+07:00",
+      "fetched": "2026-01-28T10:42:42.633301+07:00"
+    },
+    {
+      "id": "c1aa1e718bba5f7dde1611040f14c0ae",
+      "title": "Quân khu 7 xây nhà tặng dân vùng biên giới, đón cả ngàn dân ăn Tết với bộ đội",
+      "link": "https://tuoitre.vn/quan-khu-7-xay-nha-tang-dan-vung-bien-gioi-don-ca-ngan-dan-an-tet-voi-bo-doi-2026012808493918.htm",
+      "summary": "Trong chương trình Xuân chiến sĩ 2026, Quân khu 7 sẽ khởi công 60 căn nhà tại xã biên giới thuộc tỉnh Lâm Đồng trao tặng cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.633059+07:00",
+      "fetched": "2026-01-28T10:42:42.633174+07:00"
+    },
+    {
+      "id": "b9c5dbf9f8c6b3a8e69a53ea92fb2640",
+      "title": "Tuyển futsal Indonesia thị uy sức mạnh khi 'đè bẹp' Hàn Quốc 5-0",
+      "link": "https://tuoitre.vn/tuyen-futsal-indonesia-thi-uy-suc-manh-khi-de-bep-han-quoc-5-0-20260128081311439.htm",
+      "summary": "Tuyển futsal Indonesia vừa có màn khởi đầu như mơ tại Giải futsal châu Á 2026 khi hủy diệt đội tuyển Hàn Quốc với tỉ số đậm 5-0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632927+07:00",
+      "fetched": "2026-01-28T10:42:42.633047+07:00"
+    },
+    {
+      "id": "db7a44ceeb3a4ec0f03072205c95fdfe",
+      "title": "Con lên mạng mỗi ngày, cha mẹ đã đi cùng chưa?",
+      "link": "https://tuoitre.vn/con-len-mang-moi-ngay-cha-me-da-di-cung-chua-20260127220949478.htm",
+      "summary": "Đã từng có suy nghĩ an toàn trực tuyến là câu chuyện của ai đó trên mạng ảo chứ con mình ngoan, nhà mình an toàn nên đâu có gì liên quan!",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632800+07:00",
+      "fetched": "2026-01-28T10:42:42.632915+07:00"
+    },
+    {
+      "id": "92fb0f8ca6036beba2efa708a0a97c73",
+      "title": "Ngôi sao của Tottenham thoát chết sau sự cố nổ lốp xe trên cao tốc",
+      "link": "https://tuoitre.vn/ngoi-sao-cua-tottenham-thoat-chet-sau-su-co-no-lop-xe-tren-cao-toc-20260128083450031.htm",
+      "summary": "Ngôi sao của Tottenham, Kolo Muani vừa trải qua một phen hú vía khi chiếc xe của anh gặp tai nạn nghiêm trọng trên đường cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632674+07:00",
+      "fetched": "2026-01-28T10:42:42.632789+07:00"
+    },
+    {
+      "id": "6d1b12dd4be69ac147559f0c84cfae37",
+      "title": "Lộ trình định vị giá trị trung tâm công nghiệp văn hóa khu vực",
+      "link": "https://tuoitre.vn/lo-trinh-dinh-vi-gia-tri-trung-tam-cong-nghiep-van-hoa-khu-vuc-20260128082218813.htm",
+      "summary": "Việt Nam thời điểm hiện tại không chỉ là một giai đoạn phát triển thông thường mà là một 'điểm rơi' chiến lược, một cuộc chuyển mình vĩ đại để định vị lại vị thế dân tộc trên bản đồ quyền lực mềm toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632545+07:00",
+      "fetched": "2026-01-28T10:42:42.632662+07:00"
+    },
+    {
+      "id": "8b745ea3200f18423198997104aa68d6",
+      "title": "Những công trình làm bệ phóng cho Cần Giờ 'cất cánh'",
+      "link": "https://tuoitre.vn/nhung-cong-trinh-lam-be-phong-cho-can-gio-cat-canh-20260128075644054.htm",
+      "summary": "Những dự án giao thông có quy mô và kỹ thuật cao đang đồng loạt triển khai, tập trung về Cần Giờ, từng bước thay đổi khả năng kết nối của khu vực này với trung tâm TP.HCM và vùng kinh tế trọng điểm phía Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632416+07:00",
+      "fetched": "2026-01-28T10:42:42.632533+07:00"
+    },
+    {
+      "id": "cebf6e928b8473756c59c6bd02ed5b47",
+      "title": "Những lỗ hổng trong kế hoạch phá băng thị trường bất động sản Mỹ",
+      "link": "https://tuoitre.vn/nhung-lo-hong-trong-ke-hoach-pha-bang-thi-truong-bat-dong-san-my-20260127161643541.htm",
+      "summary": "Ngay cả khi Tổng thống Mỹ can thiệp đẩy lãi suất xuống mức gần 6%, những người đang sở hữu nhà cũng không có động lực tài chính để bán nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632266+07:00",
+      "fetched": "2026-01-28T10:42:42.632403+07:00"
+    },
+    {
+      "id": "dd7b01e2b1052d50b00b85678048b59a",
+      "title": "Lỗ hổng nghiêm trọng trên Google Fast Pair: Tai nghe Bluetooth có thể thành thiết bị nghe lén",
+      "link": "https://tuoitre.vn/lo-hong-nghiem-trong-tren-google-fast-pair-tai-nghe-bluetooth-co-the-thanh-thiet-bi-nghe-len-20260127104708805.htm",
+      "summary": "Sự cố bảo mật nghiêm trọng trên tính năng Google Fast Pair do các nhà nghiên cứu tại Đại học KU Leuven (Bỉ) phát hiện đã gióng lên hồi chuông cảnh báo về sự đánh đổi giữa trải nghiệm người dùng và an toàn thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.632133+07:00",
+      "fetched": "2026-01-28T10:42:42.632254+07:00"
+    },
+    {
+      "id": "029a36df41eec045ce8209fecb36eac8",
+      "title": "Ông Trump nói 'có thêm' một hạm đội đang tiến về phía Iran",
+      "link": "https://tuoitre.vn/ong-trump-noi-co-them-mot-ham-doi-dang-tien-ve-phia-iran-20260128091339923.htm",
+      "summary": "Tổng thống Mỹ khẳng định đang có thêm một hạm đội tiến về phía Iran, trong khi Tehran cảnh báo nỗ lực của Mỹ sẽ chỉ dẫn đến bất ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.631991+07:00",
+      "fetched": "2026-01-28T10:42:42.632121+07:00"
+    },
+    {
+      "id": "7cc5e509aac914eeb12b7b388322b43d",
+      "title": "Văn hóa là một nguồn lực phát triển",
+      "link": "https://tuoitre.vn/van-hoa-la-mot-nguon-luc-phat-trien-20260128083536878.htm",
+      "summary": "Nghị quyết số 80 và tinh thần của Đại hội XIV cho thấy bước chuyển quan trọng trong nhận thức chiến lược của Đảng với văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:42:42.631818+07:00",
+      "fetched": "2026-01-28T10:42:42.631976+07:00"
+    },
     {
       "id": "5f85052fc578be37c9bd63cf55b009c7",
       "title": "Viên chức chuyển công tác đến đơn vị khác có phải ký hợp đồng làm việc mới không?",
@@ -153,6 +303,126 @@ window.newsData_2026_01_28 = {
       "fetched": "2026-01-28T08:28:13.067025+07:00"
     },
     {
+      "id": "6d3374499e5e7d725e664c77e6ef0964",
+      "title": "Bệnh viện Bệnh nhiệt đới TP.HCM: Nơi cách ly, điều trị người mắc bệnh Nipah",
+      "link": "https://thanhnien.vn/benh-vien-benh-nhiet-doi-tphcm-noi-cach-ly-dieu-tri-nguoi-mac-benh-nipah-185260128093647557.htm",
+      "summary": "Tuy nhận định nguy cơ bùng phát dịch bệnh Nipah tại TP.HCM hiện nay không cao nhưng Sở Y tế chỉ đạo các đơn vị tăng cường giám sát, chủ động phòng chống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:38:00+07:00",
+      "fetched": "2026-01-28T10:42:41.416786+07:00"
+    },
+    {
+      "id": "453536d8fe84d4e9ca8c600bbdd99ed0",
+      "title": "Con gái David Beckham dát hàng hiệu dạo phố",
+      "link": "https://vnexpress.net/con-gai-david-beckham-dat-hang-hieu-dao-pho-5010877.html",
+      "summary": "Harper, con gái 15 tuổi nhà David Beckham, khoác áo lông thú và túi hàng nghìn USD dạo phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:33:44+07:00",
+      "fetched": "2026-01-28T10:42:37.741665+07:00"
+    },
+    {
+      "id": "76d5bf63878b42f12b4ce5155f9da782",
+      "title": "Dàn sao dự khai trương cửa hàng Hermès tại Hà Nội",
+      "link": "https://vnexpress.net/dan-sao-du-khai-truong-cua-hang-hermes-tai-ha-noi-5010727.html",
+      "summary": "Fashionista Châu Bùi, ca sĩ Văn Mai Hương, ca sĩ Thiên Minh… diện mẫu mới nhất bộ sưu tập của Hermès, dự khai trương cửa hàng số 24 Tràng Tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:30:00+07:00",
+      "fetched": "2026-01-28T10:42:37.741841+07:00"
+    },
+    {
+      "id": "aeaca1f5cb540c52261c096f046afcaf",
+      "title": "Chuyên gia quốc tế: Vinhomes Green Paradise vượt nhiều khuôn mẫu đô thị",
+      "link": "https://vnexpress.net/chuyen-gia-quoc-te-vinhomes-green-paradise-vuot-nhieu-khuon-mau-do-thi-5010714.html",
+      "summary": "Chuyên gia Marc Townsend của Arcadia Consulting Việt Nam cho biết, Vinhomes Green Paradise quy hoạch khác mô hình đô thị truyền thống khi đặt nền tảng môi trường và vận hành tích hợp từ giai đoạn đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:30:00+07:00",
+      "fetched": "2026-01-28T10:42:37.742012+07:00"
+    },
+    {
+      "id": "c4b83a1c7068752392bde2c4630e1d11",
+      "title": "Máy bay quân sự rơi trên vùng núi Đắk Lắk",
+      "link": "https://thanhnien.vn/may-bay-quan-su-roi-tren-vung-nui-dak-lak-185260128102601682.htm",
+      "summary": "Máy bay quân sự rơi trên vùng núi giáp ranh giữa xã Hòa Xuân và P.Đông Hòa (tỉnh Đắk Lắk, trước đây thuộc H.Đông Hòa, tỉnh Phú Yên cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:30:00+07:00",
+      "fetched": "2026-01-28T10:42:41.416953+07:00"
+    },
+    {
+      "id": "928ffd59153cb16df3dedfaa8b85f1a2",
+      "title": "Vệ tinh Trung Quốc buộc 4.400 vệ tinh Starlink phải hạ độ cao?",
+      "link": "https://thanhnien.vn/ve-tinh-trung-quoc-buoc-4400-ve-tinh-starlink-phai-ha-do-cao-185260128101005348.htm",
+      "summary": "Các nhà nghiên cứu Trung Quốc cho rằng một vụ suýt va chạm gần đây giữa vệ tinh Trung Quốc và thiết bị Starlink của SpaceX là nguyên nhân khiến công ty của tỉ phú Mỹ Elon Musk phải hạ độ cao trên quỹ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:28:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417110+07:00"
+    },
+    {
+      "id": "82db710092d28793562d00dc6fb6b8f8",
+      "title": "Tàu hộ vệ săn ngầm 17 tham gia diễn tập đa phương tại Ấn Độ",
+      "link": "https://thanhnien.vn/tau-ho-ve-san-ngam-17-tham-gia-dien-tap-da-phuong-tai-an-do-18526012810132387.htm",
+      "summary": "Sáng nay 28.1, tàu hộ vệ săn ngầm 17 và đoàn công tác Hải quân nhân dân Việt Nam đã rời quân cảng để tham gia các hoạt động trong khuôn khổ diễn tập hải quân đa phương Milan năm 2026 diễn ra tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:26:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417262+07:00"
+    },
+    {
+      "id": "36e17dcb50fcb3000205e1ec5432ee27",
+      "title": "Xếp hàng bán thìa, đũa bạc khi giá lập đỉnh",
+      "link": "https://vnexpress.net/xep-hang-ban-thia-dua-bac-khi-gia-lap-dinh-5005624.html",
+      "summary": "Nghe tin giá bạc vượt 100 USD mỗi ounce, nhiều người dân Seoul lục tìm những bộ thìa đũa cũ trong bếp, mang ra tiệm kim hoàn xếp hàng chờ bán kiếm lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:23:20+07:00",
+      "fetched": "2026-01-28T10:42:37.742169+07:00"
+    },
+    {
+      "id": "af44041ebb0ca2ea8932f7a7271b6013",
+      "title": "Lừa bán máy nông cơ cho hơn 500 người, chiếm đoạt 5 tỉ đồng tiền cọc",
+      "link": "https://thanhnien.vn/lua-ban-may-nong-co-cho-hon-500-nguoi-chiem-doat-5-ti-dong-tien-coc-185260128091849252.htm",
+      "summary": "Bằng thủ đoạn giả danh công ty có uy tín để lừa bán máy nông cơ, 2 thanh niên ở Vĩnh Long đã chiếm đoạt 5 tỉ đồng tiền đặt cọc của hơn 500 người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:23:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417433+07:00"
+    },
+    {
+      "id": "9d4d3f44e9dc5a80740190965925903b",
+      "title": "Tiền Iran trượt giá chưa từng có so với đồng USD",
+      "link": "https://vnexpress.net/tien-iran-truot-gia-chua-tung-co-so-voi-dong-usd-5010859.html",
+      "summary": "Đồng rial của Iran giảm xuống mức thấp chưa từng có, 1,5 triệu rial đổi 1 USD, khi nước này đối mặt sức ép ngày càng lớn từ các lệnh trừng phạt của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:22:10+07:00",
+      "fetched": "2026-01-28T10:42:37.742333+07:00"
+    },
+    {
+      "id": "9d4d3f44e9dc5a80740190965925903b",
+      "title": "Tiền Iran trượt giá chưa từng có so với đồng USD",
+      "link": "https://vnexpress.net/tien-iran-truot-gia-chua-tung-co-so-voi-dong-usd-5010859.html",
+      "summary": "Đồng rial của Iran giảm xuống mức thấp chưa từng có, 1,5 triệu rial đổi 1 USD, khi nước này đối mặt sức ép ngày càng lớn từ các lệnh trừng phạt của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T03:22:10+07:00",
+      "fetched": "2026-01-28T10:42:44.771897+07:00"
+    },
+    {
+      "id": "239a4ba14bb3b2479eaabe3bb412d320",
+      "title": "Máy bay quân sự rơi ở Đăk Lăk, phi công thoát nạn",
+      "link": "https://vnexpress.net/may-bay-quan-su-roi-o-dak-lak-phi-cong-thoat-nan-5010856.html",
+      "summary": "Máy bay huấn luyện gặp sự cố ở khu vực miền núi phường Đông Hòa (Phú Yên cũ), phi công nhảy dù thoát hiểm và được người dân cứu sống, sáng 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:21:17+07:00",
+      "fetched": "2026-01-28T10:42:37.742515+07:00"
+    },
+    {
       "id": "8691c8083b29f30f9636fcfab9e1db34",
       "title": "Liên đoàn Quyền anh quốc tế sắp tổ chức hội nghị thường niên ở Việt Nam",
       "link": "https://tuoitre.vn/lien-doan-quyen-anh-quoc-te-sap-to-chuc-hoi-nghi-thuong-nien-o-viet-nam-20260128000843453.htm",
@@ -161,6 +431,316 @@ window.newsData_2026_01_28 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T03:20:14.783587+07:00",
       "fetched": "2026-01-28T03:20:14.783791+07:00"
+    },
+    {
+      "id": "e41c50df94d3a4b26e59219ef45b02fd",
+      "title": "Khom lưng giữa nắng gắt trên cánh đồng dưa hấu vụ tết",
+      "link": "https://thanhnien.vn/khom-lung-giua-nang-gat-tren-canh-dong-dua-hau-vu-tet-185260128093847853.htm",
+      "summary": "Giữa cái nắng gắt, hàng trăm người, chủ yếu là phụ nữ lớn tuổi, khom lưng cả ngày trên cánh đồng dưa hấu ở Lâm Đồng để kịp vụ tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:19:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417586+07:00"
+    },
+    {
+      "id": "8ef33f6d4a62f33da077dbdcc650c138",
+      "title": "6 cựu chiến binh kêu oan: Luật sư đề nghị tuyên không phạm tội hủy hoại rừng",
+      "link": "https://thanhnien.vn/6-cuu-chien-binh-keu-oan-luat-su-de-nghi-tuyen-khong-pham-toi-huy-hoai-rung-185260128092214065.htm",
+      "summary": "Bào chữa cho 6 cựu chiến binh, luật sư đề nghị tòa tuyên các bị cáo không phạm tội hủy hoại rừng. Bởi việc xác định đối tượng bị xâm hại (rừng) chủ yếu dựa vào các tài liệu và qua lời khai mà không kiểm đếm thực tế tại hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:18:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417740+07:00"
+    },
+    {
+      "id": "9ac6217a5cc5f7f230a9875a13ec2a64",
+      "title": "10 ô tô bán chạy nhất từng phân khúc tại Việt Nam năm 2025",
+      "link": "https://thanhnien.vn/10-o-to-ban-chay-nhat-tung-phan-khuc-tai-viet-nam-nam-2025-185260126135212344.htm",
+      "summary": "Ngôi vương ở một số phân khúc như xe bán tải, SUV 7 chỗ, Crossover cỡ trung hay sedan… vẫn không đổi chủ, tuy nhiên sự phát triển của ô tô điện góp phần tạo nên những cuộc lật đổ đáng chú ý ở phân khúc MPV, ô tô cỡ nhỏ hạng A trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:16:00+07:00",
+      "fetched": "2026-01-28T10:42:41.417888+07:00"
+    },
+    {
+      "id": "20f7d2ddbe8da2dde2b72a03eeb608ec",
+      "title": "Khách không thắt dây an toàn, vì sao tài xế cũng bị CSGT phạt?",
+      "link": "https://thanhnien.vn/khach-khong-that-day-an-toan-vi-sao-tai-xe-cung-bi-csgt-phat-185260128100246843.htm",
+      "summary": "Phát hiện khách ngồi trên xe ô tô không thắt dây an toàn, CSGT đã lập biên bản phạt cả tài xế cùng hành khách. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:15:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418034+07:00"
+    },
+    {
+      "id": "ad159d74190749e556b4b46fbf8978c8",
+      "title": "Thúc đẩy sinh con bằng câu hỏi 'ngược đời'",
+      "link": "https://vnexpress.net/thuc-day-sinh-con-bang-cau-hoi-nguoc-doi-5010568.html",
+      "summary": "Thay vì khẩu hiệu giục giã, chính quyền Thâm Quyến dán lên xe buýt câu hỏi \"Dành 20 năm nuôi dạy con liệu có đáng?\", châm ngòi cho làn sóng tranh luận của giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:09:27+07:00",
+      "fetched": "2026-01-28T10:42:37.742675+07:00"
+    },
+    {
+      "id": "3b14c29e6e8f210b573f254651cbee5e",
+      "title": "‘FAM và 7 cầu thủ nhập tịch lậu không được phán quyết vô tội, AFC sẽ trừng phạt đội tuyển Malaysia’",
+      "link": "https://thanhnien.vn/fam-va-7-cau-thu-nhap-tich-lau-khong-duoc-phan-quyet-vo-toi-afc-se-trung-phat-doi-tuyen-malaysia-185260128090322898.htm",
+      "summary": "Theo một chuyên gia bóng đá Malaysia, việc CAS hoãn thi hành án không đồng nghĩa các cầu thủ nhập tịch được minh oan, và nếu tiếp tục sử dụng họ ở cấp đội tuyển, bóng đá Malaysia buộc phải chấp nhận rủi ro lớn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:09:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418193+07:00"
+    },
+    {
+      "id": "553623fee9502f4535ef9d9cdec63b8b",
+      "title": "Cơn ác mộng người giúp việc lương 11 triệu đánh cụ bà 82 tuổi",
+      "link": "https://vnexpress.net/thue-nguoi-giup-viec-nha-osin-giup-viec-nha-giup-viec-nha-theo-gio-5010889.html",
+      "summary": "Chủ nhà thuê người giúp việc với đãi ngộ tốt, nhưng bà ta lại bạo hành mẹ của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:22+07:00",
+      "fetched": "2026-01-28T10:42:37.742828+07:00"
+    },
+    {
+      "id": "4f7967c526048ef3d06999e5686ab0c4",
+      "title": "Bé trai bị áp xe do mảnh gỗ kẹt trong đùi",
+      "link": "https://vnexpress.net/be-trai-bi-ap-xe-do-manh-go-ket-trong-dui-5010830.html",
+      "summary": "Tân, 8 tuổi, ngã xuống hồ nước nông bị cây gỗ đâm thủng đùi trái, vết thương sưng to tạo ổ áp xe, rỉ dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:00+07:00",
+      "fetched": "2026-01-28T10:42:37.742984+07:00"
+    },
+    {
+      "id": "50332b65a7cb687a5b0c79351f7e9728",
+      "title": "Phổi cụ bà đông đặc trắng xóa do viêm",
+      "link": "https://vnexpress.net/phoi-cu-ba-dong-dac-trang-xoa-do-viem-5010821.html",
+      "summary": "Bà Châm, 88 tuổi, suy hô hấp nặng, sốc nhiễm khuẩn, suy đa tạng, viêm phổi do phế cầu biến chứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:00+07:00",
+      "fetched": "2026-01-28T10:42:37.743136+07:00"
+    },
+    {
+      "id": "fd8b0859f1227df74159de70313e6322",
+      "title": "Thịt heo mát Linley Valley Pork có mặt tại Việt Nam",
+      "link": "https://vnexpress.net/thit-heo-mat-linley-valley-pork-co-mat-tai-viet-nam-5010640.html",
+      "summary": "Thịt heo mát (chilled pork) được bảo quản liên tục trong dải nhiệt độ 0-5 độ C, giúp giữ trọn độ tươi, cấu trúc thịt và hương vị tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:00+07:00",
+      "fetched": "2026-01-28T10:42:37.743291+07:00"
+    },
+    {
+      "id": "09929f79356c17a181ca78fabb2ae8e0",
+      "title": "Y học cá thể hóa nâng hy vọng sống lâu dài cho ung thư dạ dày",
+      "link": "https://vnexpress.net/y-hoc-ca-the-hoa-nang-hy-vong-song-lau-dai-cho-ung-thu-da-day-5008078.html",
+      "summary": "Những thắc mắc về ung thư dạ dày và điều trị cá thể hóa sẽ được bác sĩ giải đáp trong chương trình Alo Doctor - Cuối tuần, phát sóng VTV9 ngày 31/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:00+07:00",
+      "fetched": "2026-01-28T10:42:37.743472+07:00"
+    },
+    {
+      "id": "7d3fc4648f16f292b3edfa0f658b0fb1",
+      "title": "OMO viết chương tiếp của hành trình 1 triệu cây: Từ Núi Chúa đến khắp Việt Nam",
+      "link": "https://thanhnien.vn/omo-viet-chuong-tiep-cua-hanh-trinh-1-trieu-cay-tu-nui-chua-den-khap-viet-nam-185260127210248458.htm",
+      "summary": "Mở đầu cam kết trồng 1 triệu cây xanh trong giai đoạn 2026 - 2030, nhãn hàng OMO thuộc công ty TNHH Quốc tế Unilever Việt Nam đã trao tặng 20.000 banh hạt giống các loài cây quý hiếm cho Vườn quốc gia Núi Chúa - Phước Bình (thôn Thái An - xã Vĩnh Hải - tỉnh Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T03:00:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418361+07:00"
+    },
+    {
+      "id": "69d74c84155f38669e56ed5b446132f7",
+      "title": "Top 7 sữa rửa mặt cho da nhạy cảm cỡ nào cũng sạch sâu mà ‘êm ru’",
+      "link": "https://thanhnien.vn/top-7-sua-rua-mat-cho-da-nhay-cam-co-nao-cung-sach-sau-ma-em-ru-185260128100447643.htm",
+      "summary": "Da nhạy cảm luôn 'khó chiều', chỉ cần chọn sai sữa rửa mặt là khô căng, châm chích ngay tức thì. Nhưng làm sạch vẫn là bước không thể thiếu để da khỏe và đẹp lâu dài. Thử ngay top 7 sữa rửa mặt cho da nhạy cảm cỡ nào cũng sạch sâu mà 'êm ru' dưới đây: dịu nhẹ, an toàn nhưng hiệu quả sau khi sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:59:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418515+07:00"
+    },
+    {
+      "id": "ef8a41130dabea502900308a6047d755",
+      "title": "Bước chuyển mình trong chiến lược chuyển nhượng của Man Utd",
+      "link": "https://vnexpress.net/buoc-chuyen-minh-trong-chien-luoc-chuyen-nhuong-cua-man-utd-5010680.html",
+      "summary": "Man Utd bắt đầu thu về những tín hiệu tích cực nhờ chính sách chuyển nhượng có cấu trúc, thay vì phụ thuộc hoàn toàn vào ý muốn của HLV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:57:25+07:00",
+      "fetched": "2026-01-28T10:42:37.743625+07:00"
+    },
+    {
+      "id": "ef8a41130dabea502900308a6047d755",
+      "title": "Bước chuyển mình trong chiến lược chuyển nhượng của Man Utd",
+      "link": "https://vnexpress.net/buoc-chuyen-minh-trong-chien-luoc-chuyen-nhuong-cua-man-utd-5010680.html",
+      "summary": "Man Utd bắt đầu thu về những tín hiệu tích cực nhờ chính sách chuyển nhượng có cấu trúc, thay vì phụ thuộc hoàn toàn vào ý muốn của HLV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T02:57:25+07:00",
+      "fetched": "2026-01-28T10:42:50.040063+07:00"
+    },
+    {
+      "id": "3d361fb6d2892a73aacb7ec25243b365",
+      "title": "Trương Minh Cường nói gì về 'cảnh nóng' với người đẹp 10X?",
+      "link": "https://thanhnien.vn/truong-minh-cuong-noi-gi-ve-canh-nong-voi-nguoi-dep-10x-185260128043059834.htm",
+      "summary": "Sự kiện ra mắt phim 'Chiến Nam: Ve sầu thoát xác' vừa diễn ra tại TP.HCM thu hút sự chú ý của truyền thông và khán giả. Bên cạnh đó, khoảnh khắc tình tứ của Trương Minh Cường và Thùy Vi khiến dân mạng thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:57:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418667+07:00"
+    },
+    {
+      "id": "5e71b5bde5367e3dd8927e7787867c92",
+      "title": "Grab kết nối đối tác tài xế với đơn vị cho thuê xe điện",
+      "link": "https://vnexpress.net/grab-ket-noi-doi-tac-tai-xe-voi-don-vi-cho-thue-xe-dien-5010836.html",
+      "summary": "Đối tác tài xế xe hai bánh của Grab có thể thuê xe máy điện do Aizen cung cấp với nhiều ưu đãi, theo thỏa thuận vừa ký kết giữa hai doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:56:00+07:00",
+      "fetched": "2026-01-28T10:42:37.743784+07:00"
+    },
+    {
+      "id": "301da71dadca2fd65b77809aeffc432e",
+      "title": "Sinh viên ngành Thiết kế đồ họa - Trường ĐH Nguyễn Tất Thành: Mang Đà Lạt vào từng nét vẽ",
+      "link": "https://thanhnien.vn/sinh-vien-nganh-thiet-ke-do-hoa-truong-dh-nguyen-tat-thanh-mang-da-lat-vao-tung-net-ve-185260128095200489.htm",
+      "summary": "Vừa qua, 150 sinh viên ngành Thiết kế đồ họa của Trường ĐH Nguyễn Tất Thành (NTTU) đã có chuyến học tập thực tế đầy cảm hứng tại thành phố Đà Lạt - vùng đất được mệnh danh là “bảo tàng kiến trúc giữa cao nguyên”. Mang theo sổ vẽ, bút chì và tinh thần sáng tạo, các bạn sinh viên đã trực tiếp trải ngh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:55:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418816+07:00"
+    },
+    {
+      "id": "5f8ed2c2dab34138fce56ef807f727c2",
+      "title": "50 phút giành giật sự sống cho nam sinh gục ở giảng đường",
+      "link": "https://vnexpress.net/50-phut-gianh-giat-su-song-cho-nam-sinh-guc-o-giang-duong-5010789.html",
+      "summary": "Nam sinh 22 tuổi gục ngã, ngừng tim, ngừng thở 15 phút tại giảng đường Đại học Giao thông Vận tải, được các bác sĩ cứu sống sau gần một giờ ép tim không nghỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:51:22+07:00",
+      "fetched": "2026-01-28T10:42:37.743942+07:00"
+    },
+    {
+      "id": "c9153e32bd4197d9e6485ab6a7ea60a8",
+      "title": "Đức tuyên bố ngừng viện trợ tổ hợp Patriot cho Ukraine",
+      "link": "https://vnexpress.net/duc-tuyen-bo-ngung-vien-tro-to-hop-patriot-cho-ukraine-5010875.html",
+      "summary": "Bộ trưởng Quốc phòng Đức cho biết nước này đang thiếu các tổ hợp phòng không Patriot nên không thể chuyển thêm cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T02:51:05+07:00",
+      "fetched": "2026-01-28T10:42:44.772070+07:00"
+    },
+    {
+      "id": "284ec420ecc44ec120c00e66955db7d5",
+      "title": "Đại diện Meta: Threads tăng trưởng rất tốt tại Việt Nam",
+      "link": "https://vnexpress.net/dai-dien-meta-threads-tang-truong-rat-tot-tai-viet-nam-5010759.html",
+      "summary": "Ông Khôi Lê, Giám đốc quốc gia Meta Việt Nam, cho biết mạng xã hội Threads phát triển nhanh và ngày càng phổ biến trong giới trẻ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T02:45:26+07:00",
+      "fetched": "2026-01-28T10:42:48.962000+07:00"
+    },
+    {
+      "id": "293d1b10c0dbef9383172c231c856bae",
+      "title": "Hạ nghị sĩ Mỹ bị tấn công bằng chất lạ ngay lúc phát biểu",
+      "link": "https://thanhnien.vn/ha-nghi-si-my-bi-tan-cong-bang-chat-la-ngay-luc-phat-bieu-18526012809383654.htm",
+      "summary": "Hạ nghị sĩ Mỹ thuộc đảng Dân chủ Ilhan Omar bị một người đàn ông xịt chất lạ lên người trong lúc phát biểu, kêu gọi Bộ trưởng An ninh Nội địa Kristi Noem từ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T02:43:00+07:00",
+      "fetched": "2026-01-28T10:42:41.418969+07:00"
+    },
+    {
+      "id": "615645fe1c1cd48c5bda4f9c50549713",
+      "title": "Giá vàng vượt 180 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-vuot-180-trieu-dong-5010869.html",
+      "summary": "Vàng miếng và nhẫn trơn tăng 3 triệu đồng một lượng, vượt mốc 180 triệu đồng vào sáng nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T02:32:32+07:00",
+      "fetched": "2026-01-28T10:42:45.896118+07:00"
+    },
+    {
+      "id": "32f9a0425fbab38575bed389b6f740f7",
+      "title": "Ông Trump: Một hạm đội đẹp đẽ nữa đang đến gần Iran",
+      "link": "https://vnexpress.net/ong-trump-mot-ham-doi-dep-de-nua-dang-den-gan-iran-5010837.html",
+      "summary": "Tổng thống Trump nói Mỹ đang triển khai thêm một hạm đội tới gần Iran, sau khi nhóm tác chiến tàu sân bay Abraham Lincoln hiện diện ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T02:27:01+07:00",
+      "fetched": "2026-01-28T10:42:44.772232+07:00"
+    },
+    {
+      "id": "90d7f56e7d478f0dcc11cc3ea100cc45",
+      "title": "Mỹ 'gỡ phong tỏa một phần tài sản' của Venezuela",
+      "link": "https://vnexpress.net/my-go-phong-toa-mot-phan-tai-san-cua-venezuela-5010848.html",
+      "summary": "Tổng thống lâm thời Rodriguez cho biết chính quyền Mỹ đã bắt đầu gỡ phong tỏa một phần nguồn tiền của Venezuela bị đóng băng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T02:23:55+07:00",
+      "fetched": "2026-01-28T10:42:44.772411+07:00"
+    },
+    {
+      "id": "4a7cb7815f251fce1670b7f4448c00f4",
+      "title": "Mỹ thông báo kết quả điều tra vụ y tá bị bắn chết ở Minneapolis",
+      "link": "https://vnexpress.net/my-thong-bao-ket-qua-dieu-tra-vu-y-ta-bi-ban-chet-o-minneapolis-5010846.html",
+      "summary": "Biên phòng Mỹ thông báo kết quả điều tra, xác nhận hai đặc vụ liên bang đã nổ súng trong cuộc đụng độ khiến y tá Alex Pretti thiệt mạng tại Minneapolis.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T02:09:33+07:00",
+      "fetched": "2026-01-28T10:42:44.772574+07:00"
+    },
+    {
+      "id": "83da6907257790af0a80c6174a1edd85",
+      "title": "Đám cưới lần hai của người chồng quên mất vợ",
+      "link": "https://vnexpress.net/dam-cuoi-lan-hai-cua-nguoi-chong-quen-mat-vo-5010685.html",
+      "summary": "Người đàn ông 77 tuổi mắc bệnh Alzheimer quên bản thân đã kết hôn 39 năm, cầu hôn lại vợ khi bà đến thăm ông trong trung tâm chăm sóc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T02:00:56+07:00",
+      "fetched": "2026-01-28T10:42:44.772741+07:00"
+    },
+    {
+      "id": "2c4e0506f42dccd88176293d90a5bba0",
+      "title": "Startup fintech Mỹ rót 5 triệu USD vào Việt Nam",
+      "link": "https://vnexpress.net/startup-fintech-my-rot-5-trieu-usd-vao-viet-nam-5010805.html",
+      "summary": "Tala, startup fintech từng huy động thành công 500 triệu USD, lập pháp nhân tại Việt Nam và bắt tay với ngân hàng cho vay từ quý đầu năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-28T01:51:39+07:00",
+      "fetched": "2026-01-28T10:42:45.896297+07:00"
+    },
+    {
+      "id": "dc28c5c641a9793a472ea54ae8208fd4",
+      "title": "Mỹ hoàn tất rút khỏi Hiệp định Paris về khí hậu",
+      "link": "https://vnexpress.net/my-hoan-tat-rut-khoi-hiep-dinh-paris-ve-khi-hau-5010831.html",
+      "summary": "Mỹ lần thứ hai rút khỏi thỏa thuận khí hậu Paris, một năm sau khi Tổng thống Trump ký sắc lệnh liên quan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T01:48:54+07:00",
+      "fetched": "2026-01-28T10:42:44.772898+07:00"
+    },
+    {
+      "id": "6fa63c319b3a6f95f72afa6dffe56ce6",
+      "title": "Mourinho: 'Trận đấu với Real là cuộc chiến sinh tử'",
+      "link": "https://vnexpress.net/mourinho-tran-dau-voi-real-la-cuoc-chien-sinh-tu-5010812.html",
+      "summary": "HLV Jose Mourinho thừa nhận Benfica không còn đường lùi, khi đối đầu Real Madrid ở lượt cuối vòng bảng Champions League hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T01:40:37+07:00",
+      "fetched": "2026-01-28T10:42:50.040419+07:00"
+    },
+    {
+      "id": "8fa03c07d2bfbd9494f8432208b73338",
+      "title": "Carragher: 'Slot có thể mất ghế nếu Liverpool không dự Champions League'",
+      "link": "https://vnexpress.net/carragher-slot-co-the-mat-ghe-neu-liverpool-khong-du-champions-league-5010809.html",
+      "summary": "Theo cựu trung vệ Jamie Carragher, sau khi vô địch Ngoại hạng Anh và chi tiêu mạnh tay trên sàn chuyển nhượng, việc Liverpool không lọt top 5 mùa này là điều khó chấp nhận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T01:37:41+07:00",
+      "fetched": "2026-01-28T10:42:50.040581+07:00"
     },
     {
       "id": "eaf8337b1b565ee96b9a88377429ecc2",
@@ -311,6 +891,16 @@ window.newsData_2026_01_28 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T01:35:03.537748+07:00",
       "fetched": "2026-01-28T01:35:03.537974+07:00"
+    },
+    {
+      "id": "977fec0b8ded9ae0ed18b3136f53e286",
+      "title": "Mỹ gây hoang mang khi điều ICE tới Olympic Mùa đông ở Italy",
+      "link": "https://vnexpress.net/my-gay-hoang-mang-khi-dieu-ice-toi-olympic-mua-dong-o-italy-5010816.html",
+      "summary": "Dư luận Italy dậy sóng trước thông tin một đơn vị thuộc ICE sẽ có mặt tại Thế vận hội Mùa đông sắp tới ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T01:25:39+07:00",
+      "fetched": "2026-01-28T10:42:44.773058+07:00"
     },
     {
       "id": "6c97d44e9c594226a2bf31d89cc17a57",
