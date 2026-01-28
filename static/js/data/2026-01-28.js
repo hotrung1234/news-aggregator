@@ -1,7 +1,157 @@
 window.newsData_2026_01_28 = {
   "date": "2026-01-28",
-  "lastUpdated": "2026-01-28T17:25:40.283960+07:00",
+  "lastUpdated": "2026-01-28T19:43:26.046545+07:00",
   "articles": [
+    {
+      "id": "f25b85bbb4797647719bdf2521d232eb",
+      "title": "Tờ báo nào là thủy tổ của báo xuân Việt Nam?",
+      "link": "https://tuoitre.vn/to-bao-nao-la-thuy-to-cua-bao-xuan-viet-nam-20260128154755427.htm",
+      "summary": "Cứ mỗi mùa xuân về, làng báo lại rộn ràng chuẩn bị những tờ báo xuân thật đẹp, thật đặc sắc để phục vụ độc giả. Thế nhưng báo xuân có từ bao giờ? Tờ báo nào làm báo xuân đầu tiên? có lẽ là những câu hỏi thú vị mà bạn đọc muốn biết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.451300+07:00",
+      "fetched": "2026-01-28T19:43:17.451416+07:00"
+    },
+    {
+      "id": "2ce6b23a9b0999107d827dda09e1e197",
+      "title": "Dân số Mỹ tăng chậm nhất kể từ năm 2021, nguyên nhân do đâu?",
+      "link": "https://tuoitre.vn/dan-so-my-tang-cham-nhat-ke-tu-nam-2021-nguyen-nhan-do-dau-20260128162407068.htm",
+      "summary": "Theo số liệu mới công bố của Cục Điều tra dân số Mỹ, đà tăng dân số của nước này đã chậm lại, xuống mức thấp nhất kể từ sau đại dịch COVID-19.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.451177+07:00",
+      "fetched": "2026-01-28T19:43:17.451289+07:00"
+    },
+    {
+      "id": "8a50bbd425636f88a13e08e3163b9d8b",
+      "title": "Nha Trang sắp đón hơn 2.000 biker quốc tế dự lễ hội mô tô phân khối lớn châu Á - Thái Bình Dương",
+      "link": "https://tuoitre.vn/nha-trang-sap-don-hon-2-000-biker-quoc-te-du-le-hoi-mo-to-phan-khoi-lon-chau-a-thai-binh-duong-20260128155351062.htm",
+      "summary": "Lần đầu tiên, một lễ hội mô tô quy mô châu Á - Thái Bình Dương sẽ diễn ra tại Nha Trang, quy tụ hơn 2.000 biker và 100 câu lạc bộ đến từ 8 quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.451050+07:00",
+      "fetched": "2026-01-28T19:43:17.451166+07:00"
+    },
+    {
+      "id": "e1ebca44127ad775dd070dc6580f343f",
+      "title": "Triển khai miễn thị thực có thời hạn cho người nước ngoài thuộc diện đặc biệt cần ưu đãi",
+      "link": "https://tuoitre.vn/trien-khai-mien-thi-thuc-co-thoi-han-cho-nguoi-nuoc-ngoai-thuoc-dien-dac-biet-can-uu-dai-20260128161717397.htm",
+      "summary": "Rà soát để triển khai việc miễn thị thực có thời hạn cho người nước ngoài thuộc diện đối tượng đặc biệt cần ưu đãi phục vụ phát triển kinh tế - xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450925+07:00",
+      "fetched": "2026-01-28T19:43:17.451039+07:00"
+    },
+    {
+      "id": "6cf1e7f3a07081d88f14dccef338bb77",
+      "title": "Bóng đá Malaysia phải nhờ AFC giúp đỡ 'tái thiết' liên đoàn",
+      "link": "https://tuoitre.vn/bong-da-malaysia-phai-nho-afc-giup-do-tai-thiet-lien-doan-20260128150158249.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) sẽ hỗ trợ Liên đoàn Bóng đá Malaysia (FAM) rà soát và cải tổ công tác quản lý, sau khi toàn bộ ban chấp hành của tổ chức này đồng loạt từ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450795+07:00",
+      "fetched": "2026-01-28T19:43:17.450914+07:00"
+    },
+    {
+      "id": "fc7102bef5725cbb54bb2962cb127396",
+      "title": "Mang ‘lộc xanh’ đến Vườn quốc gia Núi Chúa - Phước Bình",
+      "link": "https://tuoitre.vn/mang-loc-xanh-den-vuon-quoc-gia-nui-chua-phuoc-binh-20260127185652658.htm",
+      "summary": "Không phải trekking hay check-in tại những địa hiểm hot, đây là một hoạt động ý nghĩa tại Vườn quốc gia Núi Chúa - Phước Bình mà không phải ai cũng có cơ hội trải nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450634+07:00",
+      "fetched": "2026-01-28T19:43:17.450764+07:00"
+    },
+    {
+      "id": "444ff3ca0cc7afb24550a8675f01c159",
+      "title": "Thực tế xe điện còn chạy thêm được hàng chục km khi màn hình báo pin 0%",
+      "link": "https://tuoitre.vn/thuc-te-xe-dien-con-chay-them-duoc-hang-chuc-km-khi-man-hinh-bao-pin-0-20260128145129604.htm",
+      "summary": "Nhiều thử nghiệm độc lập cho thấy xe điện không \"chết đứng\" ngay khi màn hình báo phạm vi hoạt động về 0km. Trong điều kiện nhất định, các mẫu xe phổ biến vẫn có thể đi thêm từ hơn 10km đến gần 30km nhờ pin dự phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450509+07:00",
+      "fetched": "2026-01-28T19:43:17.450623+07:00"
+    },
+    {
+      "id": "7fa7eb366ba063f22aae3a07f0fbc814",
+      "title": "Thêm ngân hàng gia nhập nhóm tài sản trên 1 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/them-ngan-hang-gia-nhap-nhom-tai-san-tren-1-trieu-ti-dong-20260128164133635.htm",
+      "summary": "ACB trở thành ngân hàng thứ 8 có tổng tài sản vượt 1 triệu tỉ đồng, bên cạnh 4 ngân hàng quốc doanh và 3 ngân hàng tư nhân gồm MB, VPBank và Techcombank.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450386+07:00",
+      "fetched": "2026-01-28T19:43:17.450499+07:00"
+    },
+    {
+      "id": "88a85eb5a7b38055b84b3b09207ebc01",
+      "title": "6 cựu chiến binh bị truy tố 'hủy hoại rừng' tiếp tục kêu oan tại phiên tòa sơ thẩm lần 3",
+      "link": "https://tuoitre.vn/6-cuu-chien-binh-bi-truy-to-huy-hoai-rung-tiep-tuc-keu-oan-tai-phien-toa-so-tham-lan-3-20260128150639097.htm",
+      "summary": "Tại phiên tòa sơ thẩm lần thứ ba, 6 cựu chiến binh tiếp tục kêu oan, khẳng định họ không hủy hoại rừng như cáo trạng truy tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450263+07:00",
+      "fetched": "2026-01-28T19:43:17.450375+07:00"
+    },
+    {
+      "id": "0cd9c258fdc03842a0a7e9aa70b40602",
+      "title": "Hà Nội ngăn vi rút Nipah xâm nhập: Điều tra, khai thác tiền sử dịch tễ người đi - về từ vùng dịch",
+      "link": "https://tuoitre.vn/ha-noi-ngan-vi-rut-nipah-xam-nhap-dieu-tra-khai-thac-tien-su-dich-te-nguoi-di-ve-tu-vung-dich-20260128170434513.htm",
+      "summary": "Trước diễn biến phức tạp của bệnh do vi rút Nipah trên thế giới, đặc biệt sau khi Ấn Độ ghi nhận các ca mắc mới, Sở Y tế Hà Nội vừa có văn bản yêu cầu các đơn vị chủ động phòng, chống dịch, sẵn sàng ứng phó nếu bệnh xâm nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450137+07:00",
+      "fetched": "2026-01-28T19:43:17.450252+07:00"
+    },
+    {
+      "id": "f861cb6c1a50926ce6a79aa63b1a781b",
+      "title": "Lâm Đồng phê bình liên danh nhà đầu tư cao tốc Bảo Lộc - Liên Khương",
+      "link": "https://tuoitre.vn/lam-dong-phe-binh-lien-danh-nha-dau-tu-cao-toc-bao-loc-lien-khuong-20260128165302655.htm",
+      "summary": "UBND tỉnh Lâm Đồng phê bình liên danh nhà đầu tư cao tốc Bảo Lộc - Liên Khương vì chậm tiến độ triển khai dự án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.450012+07:00",
+      "fetched": "2026-01-28T19:43:17.450126+07:00"
+    },
+    {
+      "id": "827d483a7c35a655339c682ffa5bbec2",
+      "title": "Sau 20 tuổi vẫn có thể tăng trưởng về chiều cao?",
+      "link": "https://tuoitre.vn/sau-20-tuoi-van-co-the-tang-truong-ve-chieu-cao-20260128171410459.htm",
+      "summary": "Chiều cao vượt trội và thời gian tăng trưởng chiều cao giai đoạn sau tuổi 15 của cầu thủ Đình Bắc, trụ cột U23 Việt Nam tại Giải đấu U23 châu Á 2026 vừa qua, khiến nhiều người quan tâm. Như vậy có thể cao thêm sau lứa tuổi này, thậm chí sau tuổi 20?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.449885+07:00",
+      "fetched": "2026-01-28T19:43:17.450001+07:00"
+    },
+    {
+      "id": "0e5cf49c328a3eaa4050e3c61adfaba9",
+      "title": "Giáo viên bị ‘tố’ sửa điểm thi của học sinh, nhà trường đang xác minh",
+      "link": "https://tuoitre.vn/giao-vien-bi-to-sua-diem-thi-cua-hoc-sinh-nha-truong-dang-xac-minh-20260128165904361.htm",
+      "summary": "Một giáo viên Trường THPT Tô Hiến Thành, tỉnh Thanh Hóa vừa phản ánh vụ việc có giáo viên của trường này tự ý sửa điểm thi của học sinh. Trường THPT Tô Hiến Thành đang làm rõ vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.449749+07:00",
+      "fetched": "2026-01-28T19:43:17.449873+07:00"
+    },
+    {
+      "id": "2b4d7e130dd4ea82bec77d1b07a750aa",
+      "title": "Gundam, Evangelion và top 5 anime mecha hay nhất",
+      "link": "https://tuoitre.vn/gundam-evangelion-va-top-5-anime-mecha-hay-nhat-202601281455149.htm",
+      "summary": "Cùng Tuổi Trẻ Online điểm qua những tác phẩm tiêu biểu của anime mecha như Gundam, Evangelion… để khám phá một trong những thể loại độc đáo và lâu đời bậc nhất của anime Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.449586+07:00",
+      "fetched": "2026-01-28T19:43:17.449735+07:00"
+    },
+    {
+      "id": "3fd1f92ad244da328a367233b4b336cd",
+      "title": "Công nhân xuyên đêm chỉnh trang, làm đẹp chợ Bến Thành, thương xá Tax, hồ Con Rùa",
+      "link": "https://tuoitre.vn/cong-nhan-xuyen-dem-chinh-trang-lam-dep-cho-ben-thanh-thuong-xa-tax-ho-con-rua-2026012808070687.htm",
+      "summary": "Từ 10 ngày qua, hàng trăm công nhân, kỹ sư, kiến trúc sư miệt mài xuyên đêm thi công chỉnh trang, làm đẹp cho khu vực chợ Bến Thành, thương xá Tax, hồ Con Rùa, đường Nguyễn Huệ... để đẩy nhanh tiến độ phục vụ người dân dịp tết Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T19:43:17.449327+07:00",
+      "fetched": "2026-01-28T19:43:17.449569+07:00"
+    },
     {
       "id": "c664a0defd8b95b30398483276a38591",
       "title": "Công an TP.HCM triệt phá đường dây sản xuất, mua bán thạch tín dùng trong nha khoa",
@@ -453,6 +603,316 @@ window.newsData_2026_01_28 = {
       "fetched": "2026-01-28T13:32:40.354230+07:00"
     },
     {
+      "id": "b974514ebd0ebeed4dbb451772df87ae",
+      "title": "Garmin Venu 4: Thiết kế gọn nhẹ, màn hình 2.000 nits, hơn 80 chế độ tập luyện",
+      "link": "https://thanhnien.vn/garmin-venu-4-thiet-ke-gon-nhe-man-hinh-2000-nits-hon-80-che-do-tap-luyen-185260128194036718.htm",
+      "summary": "Ra mắt trong phân khúc smartwatch tầm trung – cận cao cấp, Garmin Venu 4 được định hướng là mẫu đồng hồ thông minh cân bằng giữa thời trang và sức khỏe. Sản phẩm có hai phiên bản 41 mm và 45 mm, trang bị màn hình AMOLED độ sáng tối đa 2.000 nits, hệ thống theo dõi sức khỏe 24/7, GPS đa băng tần và t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:40:00+07:00",
+      "fetched": "2026-01-28T19:43:16.516510+07:00"
+    },
+    {
+      "id": "8c91e689f189044a75c30a119507a76d",
+      "title": "Sự cố với vệ tinh Trung Quốc buộc 4.400 vệ tinh Starlink hạ độ cao?",
+      "link": "https://thanhnien.vn/su-co-voi-ve-tinh-trung-quoc-buoc-4400-ve-tinh-starlink-ha-do-cao-185260128190315384.htm",
+      "summary": "Các nhà nghiên cứu Trung Quốc cho rằng một vụ suýt va chạm gần đây giữa vệ tinh Trung Quốc và thiết bị Starlink của SpaceX là nguyên nhân khiến công ty của tỉ phú Mỹ Elon Musk phải hạ độ cao trên quỹ đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:36:00+07:00",
+      "fetched": "2026-01-28T19:43:16.516679+07:00"
+    },
+    {
+      "id": "d36136f0e650a7cf115b28d514985341",
+      "title": "TP.HCM: Anh trai 10 tuổi hiến tế bào gốc cứu em 8 tuổi bị suy tủy nặng",
+      "link": "https://thanhnien.vn/tphcm-anh-trai-10-tuoi-hien-te-bao-goc-cuu-em-8-tuoi-bi-suy-tuy-nang-185260128184558575.htm",
+      "summary": "Bệnh viện Nhi đồng 1 TP.HCM lần đầu ghép tế bào gốc tạo máu cho bệnh nhi người H'Mông, 8 tuổi. Điều đặc biệt, tế bào gốc là của người anh trai bệnh nhi hiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:34:00+07:00",
+      "fetched": "2026-01-28T19:43:16.516867+07:00"
+    },
+    {
+      "id": "e54eeae21b7c329cc578515b749f1900",
+      "title": "Tổng Bí thư Tô Lâm gặp mặt nhân dân các dân tộc tỉnh Cao Bằng",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-gap-mat-nhan-dan-cac-dan-toc-tinh-cao-bang-185260128191327105.htm",
+      "summary": "Chiều 28.1, tại sân vận động tỉnh Cao Bằng, Tổng Bí thư Tô Lâm đã gặp mặt, nói chuyện với nhân dân các dân tộc tỉnh Cao Bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:33:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517032+07:00"
+    },
+    {
+      "id": "ea15a2a2d2e17653172052741c661968",
+      "title": "Quảng bá du lịch Quảng Trị qua VGA Union Cup",
+      "link": "https://thanhnien.vn/quang-ba-du-lich-quang-tri-qua-vga-union-cup-185260128184807198.htm",
+      "summary": "Để có sự chuẩn bị tốt nhất cho VGA Union Cup 2026, tuyển miền Bắc đã có 2 ngày tập luyện tại sân Blue Diamond Golf Links (Quảng Trị), đây là sân golf độc đáo và đẹp mắt bên bờ biển Bảo Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:30:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517184+07:00"
+    },
+    {
+      "id": "ed1c744ec92edfea1658fd81318e8338",
+      "title": "Vợ chồng NSND Lan Hương quảng bá nông sản Việt",
+      "link": "https://thanhnien.vn/vo-chong-nsnd-lan-huong-quang-ba-nong-san-viet-185260128185433248.htm",
+      "summary": "Ngày 27.1, Hội chợ VTV xuân 2026 khai mạc tại Khu phụ trợ tầng 1 Tòa nhà trung tâm VTV, thu hút sự tham gia của nhiều doanh nghiệp nông, đặc sản, hàng tiêu dùng Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:22:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517340+07:00"
+    },
+    {
+      "id": "f28bda938cd45a21237a1e4f9092bd7a",
+      "title": "Ca sĩ Siu Black hủy show vì lý do sức khỏe",
+      "link": "https://thanhnien.vn/ca-si-siu-black-huy-show-vi-ly-do-suc-khoe-1852601281849335.htm",
+      "summary": "Ca sĩ Siu Black khiến người hâm mộ lo lắng khi thông báo vắng mặt trong show diễn ở Đà Lạt vì tình hình sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:19:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517496+07:00"
+    },
+    {
+      "id": "d122c7d5dacc3632511c8397d8803cfa",
+      "title": "Đội tuyển Việt Nam đá giờ lạ đấu Li Băng, HLV Giustozzi lập tức lên phương án ‘lạ’ để ứng phó",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-da-gio-la-dau-li-bang-hlv-giustozzi-lap-tuc-len-phuong-an-la-de-ung-pho-185260128184842563.htm",
+      "summary": "Ngày 28.1, đội tuyển Việt Nam đã đến sân tập ở GKB Arena để làm quen với giờ thi đấu, chuẩn bị cho lượt trận thứ hai ở bảng B gặp Li Băng tại VCK futsal châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:12:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517647+07:00"
+    },
+    {
+      "id": "d1ff69956dfbeecb2c01c54222f07059",
+      "title": "Tuyển sinh đại học 2026: Thí sinh chỉ được đăng ký tối đa 10 nguyện vọng",
+      "link": "https://thanhnien.vn/tuyen-sinh-dai-hoc-2026-thi-sinh-chi-duoc-dang-ky-toi-da-10-nguyen-vong-185260128183039141.htm",
+      "summary": "Bộ GD-ĐT dự định điều chỉnh một số quy định trong tuyển sinh đại học 2026, trong đó có quy định thí sinh chỉ được đăng ký tối đa 10 nguyện vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:12:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517815+07:00"
+    },
+    {
+      "id": "d6849215cbadda73b095656ac891be5c",
+      "title": "Nhiều chủ doanh nghiệp lớn làm cố vấn chiến lược ĐH Quốc gia TP.HCM",
+      "link": "https://thanhnien.vn/nhieu-chu-doanh-nghiep-lon-lam-co-van-chien-luoc-dh-quoc-gia-tphcm-185260128175411393.htm",
+      "summary": "ĐH Quốc gia TP.HCM chính thức ra mắt Hội đồng Cố vấn chiến lược đổi mới sáng tạo. Trong đó, nhiều doanh nhân nổi tiếng làm chủ tịch và thành viên hội đồng này như: ông Phạm Phú Ngọc Trai, ông Trần Hùng Huy, ông Lê Hồng Minh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:12:00+07:00",
+      "fetched": "2026-01-28T19:43:16.517967+07:00"
+    },
+    {
+      "id": "ac8aa945138c4abe78a34cae05c77d6d",
+      "title": "Thứ tư ngày 28 tháng 1 không có người trúng, giải độc đắc Vietlott tăng 36,7 tỉ",
+      "link": "https://thanhnien.vn/thu-tu-ngay-28-thang-1-khong-co-nguoi-trung-giai-doc-dac-vietlott-tang-367-ti-185260128190335073.htm",
+      "summary": "Tối 28.1, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45 và không ghi nhận người trúng giải độc đắc nào nên số tiền cộng dồn hơn 36,7 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:08:00+07:00",
+      "fetched": "2026-01-28T19:43:16.518121+07:00"
+    },
+    {
+      "id": "d7e38decbd59c2aff61e63b82b4edf33",
+      "title": "6 cựu chiến binh kêu oan: Viện kiểm sát lý giải sao về vụ án?",
+      "link": "https://thanhnien.vn/6-cuu-chien-binh-keu-oan-vien-kiem-sat-ly-giai-sao-ve-vu-an-185260128181725739.htm",
+      "summary": "Theo đại diện Viện kiểm sát, có căn cứ cho rằng 6 cựu chiến binh gây thiệt hại cho rừng sản xuất hơn 53 triệu đồng, nên không thể áp dụng kết luận giám định của Bộ NN-PTNT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:06:00+07:00",
+      "fetched": "2026-01-28T19:43:16.518270+07:00"
+    },
+    {
+      "id": "6ee32f8b655e0ddc1862d5e95a398008",
+      "title": "Lương 6-8 triệu nên 'chạy xe ôm công nghệ để không bị gò bó'",
+      "link": "https://vnexpress.net/luong-6-8-trieu-nen-chay-xe-om-cong-nghe-de-khong-bi-go-bo-5011134.html",
+      "summary": "Nếu chênh lệch thu nhập không đủ hấp dẫn, người trẻ sẽ nghiêng về các công việc tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.415199+07:00"
+    },
+    {
+      "id": "785a19a4c7356cf4162f208d097e64b3",
+      "title": "Cuộc đấu trí của Thủ tướng Đan Mạch với ông Trump về Greenland",
+      "link": "https://vnexpress.net/cuoc-dau-tri-cua-thu-tuong-dan-mach-voi-ong-trump-ve-greenland-5010282.html",
+      "summary": "Bằng lập trường kiên định kết hợp ngoại giao khéo léo, Thủ tướng Frederiksen đến nay đã thành công trong nỗ lực ngăn Tổng thống Trump kiểm soát Greenland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.415382+07:00"
+    },
+    {
+      "id": "dbb56070ae17fc51bcf98e3cf571f550",
+      "title": "Sacombank thêm ưu đãi trả góp cho chủ thẻ Visa tại Hàn Quốc",
+      "link": "https://vnexpress.net/sacombank-them-uu-dai-tra-gop-cho-chu-the-visa-tai-han-quoc-5011189.html",
+      "summary": "Sacombank triển khai chương trình hoàn tiền và miễn phí chuyển đổi trả góp cho chủ thẻ tín dụng Visa khi mua sắm tại các cửa hàng, website hoặc ứng dụng tại Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.415564+07:00"
+    },
+    {
+      "id": "ace2b34803cab76215009f031c88dddd",
+      "title": "Omo tặng Vườn quốc gia Núi Chúa - Phước Bình 20.000 banh hạt giống",
+      "link": "https://vnexpress.net/omo-tang-vuon-quoc-gia-nui-chua-phuoc-binh-20-000-banh-hat-giong-5011173.html",
+      "summary": "Nhãn hàng Omo trao tặng 20.000 banh hạt giống các loài cây quý như mun, gõ biển và thanh thất cho Vườn quốc gia Núi Chúa - Phước Bình ngay trước thềm Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.415750+07:00"
+    },
+    {
+      "id": "6430f9fd7e692d609bbeb4950f8e22c9",
+      "title": "Bỏng da sau laser điều trị sẹo lõm",
+      "link": "https://vnexpress.net/bong-da-sau-laser-dieu-tri-seo-lom-5011046.html",
+      "summary": "Anh Ngọc, 44 tuổi, điều trị sẹo lõm bằng laser tại spa, sau đó vùng má sẫm màu, nóng rát kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.415860+07:00"
+    },
+    {
+      "id": "90041f167bc041463e7d12433155cb5f",
+      "title": "Chuỗi tọa độ Tích lộc xuyên Việt 2026: Hoạt động ‘Tích lộc’ thu hút người chơi",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chuoi-toa-do-tich-loc-xuyen-viet-2026-hoat-dong-tich-loc-thu-hut-nguoi-choi-185260128181402502.htm",
+      "summary": "Chỉ với vài thao tác đơn giản trên điện thoại, bạn đã có thể tham gia 'Tích lộc' và sở hữu cơ hội trúng xe Mercedes-Benz, 1 năm bay miễn phí cùng Vietnam Airlines và hàng ngàn phần quà giá trị khác từ chương trình Chuỗi tọa độ Tích lộc xuyên Việt 2026 của PNJ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T12:00:00+07:00",
+      "fetched": "2026-01-28T19:43:16.518424+07:00"
+    },
+    {
+      "id": "ef83de8eb1e26e183760c51c3b671bb4",
+      "title": "Bệnh viện Quân y 120 công bố năng lực Khoa Xét nghiệm đạt chuẩn ISO 15189:2022",
+      "link": "https://thanhnien.vn/benh-vien-quan-y-120-cong-bo-nang-luc-khoa-xet-nghiem-dat-chuan-iso-151892022-185260128160905082.htm",
+      "summary": "Việc đạt chuẩn ISO 15189:2022 không chỉ khẳng định chất lượng chuyên môn mà còn là cam kết về độ chính xác, độ tin cậy kết quả xét nghiệm của Bệnh viện Quân y 120.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:58:00+07:00",
+      "fetched": "2026-01-28T19:43:16.518573+07:00"
+    },
+    {
+      "id": "2279dde8bce568f20b1af187980ae38b",
+      "title": "Xuất hiện ảnh cận cảnh tên lửa đối không bí ẩn nhất của Trung Quốc",
+      "link": "https://vnexpress.net/xuat-hien-anh-can-canh-ten-lua-doi-khong-bi-an-nhat-cua-trung-quoc-5011123.html",
+      "summary": "Ảnh mới công bố cho thấy một số chi tiết của PL-17, mẫu tên lửa tầm xa được mô tả là \"bí ẩn nhất của Trung Quốc\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:54:09+07:00",
+      "fetched": "2026-01-28T19:43:13.416021+07:00"
+    },
+    {
+      "id": "9bae98c9b810b6062aecacd11d5c790d",
+      "title": "Người mẹ bất lực nhìn ba con thiệt mạng dưới ao băng",
+      "link": "https://vnexpress.net/nguoi-me-bat-luc-nhin-ba-con-thiet-mang-duoi-ao-bang-5011170.html",
+      "summary": "Ba bé trai kẹt dưới ao băng ở bang Texas, người mẹ cố gắng giải cứu nhưng không thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:36:57+07:00",
+      "fetched": "2026-01-28T19:43:13.416176+07:00"
+    },
+    {
+      "id": "9bae98c9b810b6062aecacd11d5c790d",
+      "title": "Người mẹ bất lực nhìn ba con thiệt mạng dưới ao băng",
+      "link": "https://vnexpress.net/nguoi-me-bat-luc-nhin-ba-con-thiet-mang-duoi-ao-bang-5011170.html",
+      "summary": "Ba bé trai kẹt dưới ao băng ở bang Texas, người mẹ cố gắng giải cứu nhưng không thành công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T11:36:57+07:00",
+      "fetched": "2026-01-28T19:43:19.370382+07:00"
+    },
+    {
+      "id": "c1d48ecd7687eeea2a8d71a78df904ca",
+      "title": "TP.HCM: Nhiều trường tạm dừng ăn bán trú sau phản ánh về thực phẩm",
+      "link": "https://thanhnien.vn/tphcm-nhieu-truong-tam-dung-an-ban-tru-sau-phan-anh-ve-thuc-pham-185260128162834966.htm",
+      "summary": "Trong chiều nay, 28.1, nhiều trường học trên địa bàn TP.HCM phát đi thông báo tạm dừng ăn bán trú sau phản ánh của một cơ quan báo chí về thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:20:00+07:00",
+      "fetched": "2026-01-28T19:43:16.518735+07:00"
+    },
+    {
+      "id": "0080a6e8645002e561a0c31f9ec9391e",
+      "title": "Nhan sắc 'bông hồng lai đẹp nhất Thái Lan'",
+      "link": "https://vnexpress.net/nhan-sac-bong-hong-lai-dep-nhat-thai-lan-5011110.html",
+      "summary": "Urassaya Sperbund - diễn viên mang hai dòng máu Thái Lan và Na Uy - thu hút với nụ cười tỏa nắng, vòng eo con kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:13:48+07:00",
+      "fetched": "2026-01-28T19:43:13.416327+07:00"
+    },
+    {
+      "id": "1750182fd5940cf5d67c959dc4d4e0f3",
+      "title": "Bộ Giáo dục dự kiến bỏ xét riêng học bạ, giảm 1,5 điểm cộng IELTS",
+      "link": "https://vnexpress.net/quy-che-tuyen-sinh-dai-hoc-2026-bo-xet-hoc-rieng-giam-1-5-diem-cong-ielts-5011179.html",
+      "summary": "Thí sinh xét học bạ phải đạt sàn về điểm thi tốt nghiệp, điểm cộng IELTS chỉ còn tối đa 1,5, giảm một nửa so với trước, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:05:59+07:00",
+      "fetched": "2026-01-28T19:43:13.416485+07:00"
+    },
+    {
+      "id": "417f1dd387a29475e8b031dec5192d2f",
+      "title": "15 người thoát nạn sau sự cố máy bay đáp xuống biển ở Indonesia",
+      "link": "https://vnexpress.net/15-nguoi-thoat-nan-sau-su-co-may-bay-dap-xuong-bien-o-indonesia-5011006.html",
+      "summary": "Máy bay hạng nhẹ Cessna 208B chở 15 người gặp sự cố động cơ sau khi cất cánh, buộc phi công đáp khẩn cấp xuống biển, trưa 27/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.416644+07:00"
+    },
+    {
+      "id": "240d37f40ec8e3bb1cc4a36923be1876",
+      "title": "Nguy cơ khi nói 'có' qua bẫy 'cuộc gọi im lặng'",
+      "link": "https://vnexpress.net/nguy-co-khi-noi-co-qua-bay-cuoc-goi-im-lang-5010542.html",
+      "summary": "Một từ \"vâng\" hoặc \"có\" đơn giản qua điện thoại có thể bị kẻ gian ghi âm để vượt qua các lớp bảo mật ngân hàng hoặc thực hiện hành vi lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.416838+07:00"
+    },
+    {
+      "id": "590b17185cf1bc36f014561737a9cdae",
+      "title": "Liên tiếp bị chó nhà cắn",
+      "link": "https://vnexpress.net/lien-tiep-bi-cho-nha-can-5011154.html",
+      "summary": "Bốn năm liên tiếp, ông La Thái Minh, 61 tuổi, (phường Tân Sơn Nhì, TP HCM) bị chó nhà nuôi cắn nhiều lần và phải tiêm vaccine để phòng dại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.416998+07:00"
+    },
+    {
+      "id": "55d7d33c91e9b6cbe753e9825ca2eeb0",
+      "title": "VPBank hợp tác DMX ra mắt thẻ tín dụng",
+      "link": "https://vnexpress.net/vpbank-hop-tac-dmx-ra-mat-the-tin-dung-5011150.html",
+      "summary": "Ngân hàng TMCP Việt Nam Thịnh Vượng hợp tác Công ty Cổ phần Đầu tư Điện Máy Xanh (DMX) ra mắt thẻ tín dụng VPBank MWG Mastercard, với nhiều ưu đãi dành riêng cho lĩnh vực bán lẻ điện tử - tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.417162+07:00"
+    },
+    {
+      "id": "216b2a1ec8ae0e77e236da90fcace8e6",
+      "title": "Vì sao miệng có vị chua?",
+      "link": "https://vnexpress.net/vi-sao-mieng-co-vi-chua-5011081.html",
+      "summary": "Miệng có vị chua thường liên quan đến thực phẩm song trong một số trường hợp là dấu hiệu thiếu kẽm, thay đổi hormone hoặc nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:13.417323+07:00"
+    },
+    {
+      "id": "240d37f40ec8e3bb1cc4a36923be1876",
+      "title": "Nguy cơ khi nói 'có' qua bẫy 'cuộc gọi im lặng'",
+      "link": "https://vnexpress.net/nguy-co-khi-noi-co-qua-bay-cuoc-goi-im-lang-5010542.html",
+      "summary": "Một từ \"vâng\" hoặc \"có\" đơn giản qua điện thoại có thể bị kẻ gian ghi âm để vượt qua các lớp bảo mật ngân hàng hoặc thực hiện hành vi lừa đảo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-28T11:00:00+07:00",
+      "fetched": "2026-01-28T19:43:24.155942+07:00"
+    },
+    {
       "id": "b45b3307cbb13667a6e5014a12f71618",
       "title": "Bảo hiểm y tế: 'Lá chắn' cho bệnh nhân mắc bệnh hiểm nghèo",
       "link": "https://tuoitre.vn/bao-hiem-y-te-la-chan-cho-benh-nhan-mac-benh-hiem-ngheo-20260128080758152.htm",
@@ -603,6 +1063,26 @@ window.newsData_2026_01_28 = {
       "fetched": "2026-01-28T10:42:42.631976+07:00"
     },
     {
+      "id": "1858a168f85cce9d86c3caddffcb4e51",
+      "title": "Hơn 2.200 học sinh dừng ăn bán trú vì nghi thực phẩm bẩn",
+      "link": "https://vnexpress.net/hon-2-200-hoc-sinh-dung-an-ban-tru-vi-nghi-thuc-pham-ban-5011159.html",
+      "summary": "Khoảng 2.200 học sinh Tiểu học Tân Quy và Nguyễn Văn Hưởng phải tạm dừng ăn bán trú vì nghi nguồn thịt bẩn tuồn vào trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-28T10:41:48+07:00",
+      "fetched": "2026-01-28T19:43:13.417476+07:00"
+    },
+    {
+      "id": "5033636e7c301f67e78fe0de1a47a5df",
+      "title": "Chốt ngày LĐBĐ Malaysia và FIFA hầu tòa",
+      "link": "https://vnexpress.net/chot-ngay-ldbd-malaysia-va-fifa-hau-toa-5011174.html",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) thông báo phiên điều trần của Tòa Trọng tài Thể thao (CAS) về vụ kiện FIFA diễn ra ngày 25/2 hoặc 26/2 tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-28T10:29:30+07:00",
+      "fetched": "2026-01-28T19:43:26.034497+07:00"
+    },
+    {
       "id": "eab5336f696a89ca347d3e7702a03581",
       "title": "Iran nói không đề nghị đàm phán với Mỹ",
       "link": "https://vnexpress.net/iran-noi-khong-de-nghi-dam-phan-voi-my-5011146.html",
@@ -611,6 +1091,16 @@ window.newsData_2026_01_28 = {
       "category": "Tổng hợp",
       "published": "2026-01-28T10:16:19+07:00",
       "fetched": "2026-01-28T17:25:30.738077+07:00"
+    },
+    {
+      "id": "b32cbaca38bec0ac3612a9f984e81499",
+      "title": "Iran 'chỉ đàm phán khi không bị hăm dọa'",
+      "link": "https://vnexpress.net/iran-chi-dam-phan-khi-khong-bi-ham-doa-5011146.html",
+      "summary": "Ngoại trưởng Iran Araqchi tuyên bố không đề nghị đàm phán với Mỹ, cho rằng các cuộc thương lượng chỉ có thể diễn ra khi \"không còn những lời hăm dọa\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-28T10:16:19+07:00",
+      "fetched": "2026-01-28T19:43:19.370556+07:00"
     },
     {
       "id": "3400d4112dc9cfe142075a5effe51a64",
