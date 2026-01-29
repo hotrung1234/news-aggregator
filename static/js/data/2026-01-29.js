@@ -1,6 +1,6 @@
 window.newsData_2026_01_29 = {
   "date": "2026-01-29",
-  "lastUpdated": "2026-01-29T19:52:19.521648+07:00",
+  "lastUpdated": "2026-01-29T21:36:29.269085+07:00",
   "articles": [
     {
       "id": "bc2129f5a35f3203b6b3fc2463df9222",
@@ -453,6 +453,66 @@ window.newsData_2026_01_29 = {
       "fetched": "2026-01-29T15:35:37.746382+07:00"
     },
     {
+      "id": "d5bfd682a9cffc7440fa0abaf3b85354",
+      "title": "Xuân Son ghi bàn bùng nổ, CLB Nam Định đánh bại Singapore: Vào bán kết giải vô địch CLB ASEAN",
+      "link": "https://thanhnien.vn/xuan-son-ghi-ban-bung-no-clb-nam-dinh-danh-bai-singapore-vao-ban-ket-giai-vo-dich-clb-asean-185260129213259271.htm",
+      "summary": "Xuân Son đã có pha nhảy múa trong khu vực cấm địa và ghi bàn giúp CLB Nam Định đánh bại Lion City Sailors (Singapore), sớm đoạt vé dự vòng bán kết giải vô địch CLB ASEAN 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:35:00+07:00",
+      "fetched": "2026-01-29T21:36:22.049988+07:00"
+    },
+    {
+      "id": "d2960264e3402a3c642f3e5c4df112d6",
+      "title": "Phó vụ trưởng Vụ Giáo dục phổ thông làm Giám đốc Sở GD-ĐT Thanh Hóa",
+      "link": "https://thanhnien.vn/pho-vu-truong-vu-giao-duc-pho-thong-lam-giam-doc-so-gd-dt-thanh-hoa-185260129204704619.htm",
+      "summary": "Tiến sĩ Đỗ Đức Quế, Phó vụ trưởng Vụ Giáo dục phổ thông (Bộ GD-ĐT), vừa được Chủ tịch UBND tỉnh Thanh Hóa ký quyết định tiếp nhận và bổ nhiệm chức Giám đốc Sở GD-ĐT Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T14:05:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050172+07:00"
+    },
+    {
+      "id": "7e5f8e9cd8b0fe65a95781bac7209972",
+      "title": "Ký kết gói thầu nghìn tỉ cung cấp thiết bị cho nhà máy thủy điện Trị An mở rộng",
+      "link": "https://thanhnien.vn/ky-ket-goi-thau-nghin-ti-cung-cap-thiet-bi-cho-nha-may-thuy-dien-tri-an-mo-rong-185260129200344905.htm",
+      "summary": "Tập đoàn điện Đông Phương (Dongfang Electric International Corporation - DEC) Trung Quốc cùng 2 đối tác tại Việt Nam đã trúng gói thầu hơn 1.112 tỉ đồng, cung cấp thiết bị cho Dự án nhà máy thủy điện Trị An mở rộng tại tỉnh Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:49:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050333+07:00"
+    },
+    {
+      "id": "d28c0b6528e1536ad8067a4aa8c19fbb",
+      "title": "AI và deepfake khiến 'mắt thấy, tai nghe' không còn đáng tin",
+      "link": "https://thanhnien.vn/ai-va-deepfake-khien-mat-thay-tai-nghe-khong-con-dang-tin-185260129201303542.htm",
+      "summary": "Các chuyên gia an ninh mạng cảnh báo tội phạm công nghệ cao đang tận dụng triệt để AI và deepfake để tạo ra những cái bẫy tinh vi, khiến người dùng khó phân biệt thật - giả dù đã gọi video kiểm chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:45:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050486+07:00"
+    },
+    {
+      "id": "f76870b4191dfad103f60c713bbb272b",
+      "title": "Doanh số ô tô hybrid lần đầu tiên vượt xe xăng, xe điện chiếm 30% thị phần",
+      "link": "https://thanhnien.vn/doanh-so-o-to-hybrid-lan-dau-tien-vuot-xe-xang-xe-dien-chiem-30-thi-phan-18526012721142377.htm",
+      "summary": "Xu hướng chọn mua ô tô của khách hàng có sự thay đổi chuyển dịch giúp ô tô hybrid tạo sức hút, doanh số bán lần đầu tiên vượt xe động cơ xăng tại châu Âu, trong khi đó ô tô điện tiếp tục tăng trưởng và chiếm 30% thị phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:44:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050645+07:00"
+    },
+    {
+      "id": "cd0c70fac66badde423ce54de4acec38",
+      "title": "Chuẩn bị năng lực để kiểm định khí thải hơn 70 triệu xe máy",
+      "link": "https://vnexpress.net/chuan-bi-nang-luc-de-kiem-dinh-khi-thai-hon-70-trieu-xe-may-5011637.html",
+      "summary": "Ngành đăng kiểm phải xây dựng mạng lưới hơn 5.000 cơ sở để kiểm định khí thải hơn 70 triệu xe máy trong cả nước, dự kiến lộ trình áp dụng tại thành phố lớn từ 1/7/2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:43:00+07:00",
+      "fetched": "2026-01-29T21:36:18.815854+07:00"
+    },
+    {
       "id": "95ff035bcb84c330fe54a2a334a11432",
       "title": "CII đề xuất tái thiết đô thị khu vực Hàng Xanh với tổng mức đầu tư 486.600 tỉ đồng",
       "link": "https://tuoitre.vn/cii-de-xuat-tai-thiet-do-thi-khu-vuc-hang-xanh-voi-tong-muc-dau-tu-486-600-ti-dong-20260129092128086.htm",
@@ -601,6 +661,286 @@ window.newsData_2026_01_29 = {
       "category": "Tổng hợp",
       "published": "2026-01-29T13:42:40.091800+07:00",
       "fetched": "2026-01-29T13:42:40.092136+07:00"
+    },
+    {
+      "id": "cb807f943ce4604acafbdfb1a56756eb",
+      "title": "Toyota Hilux 2026 lột xác thiết kế, chốt giá từ 632 triệu đồng",
+      "link": "https://thanhnien.vn/toyota-hilux-2026-lot-xac-thiet-ke-chot-gia-tu-632-trieu-dong-185260129194952408.htm",
+      "summary": "Chỉ hơn hai tháng sau khi trình làng tại Thái Lan, Toyota Hilux 2026 chính thức tung ra thị trường Việt Nam với giá khởi điểm thấp nhất phân khúc xe bán tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:39:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050827+07:00"
+    },
+    {
+      "id": "0f6d7436b91771cc762e5d7602e36304",
+      "title": "Người dân nổi giận vì cầu vượt 4 làn bị bóp thành hai",
+      "link": "https://vnexpress.net/nguoi-dan-noi-gian-vi-cau-vuot-4-lan-bi-bop-thanh-hai-5011630.html",
+      "summary": "Cầu vượt mới xây ở Mira-Bhayander gần Mumbai thu hút sự chú ý khi đoạn đường 4 làn xe bị đột ngột thu hẹp như nút thắt cổ chai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:33:56+07:00",
+      "fetched": "2026-01-29T21:36:18.815985+07:00"
+    },
+    {
+      "id": "3e35e71ddaf9363516bb0f0e7fdae2c1",
+      "title": "Lao vào nhà xưởng cháy cứu hàng mã bán Tết",
+      "link": "https://vnexpress.net/lao-vao-nha-xuong-chay-cuu-hang-ma-ban-tet-5011641.html",
+      "summary": "Giữa khói lửa ngùn ngụt, hàng chục người dân ở xã Thuận Thành đã lao vào khu vực cháy để cứu các kiện hàng mã chuẩn bị bán dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:33:36+07:00",
+      "fetched": "2026-01-29T21:36:18.816162+07:00"
+    },
+    {
+      "id": "0ca9842ab0e98144de009a0aef0043a8",
+      "title": "Gelex báo lãi kỷ lục",
+      "link": "https://vnexpress.net/gelex-bao-lai-ky-luc-5011639.html",
+      "summary": "Tập đoàn Gelex ghi nhận lợi nhuận trước thuế 4.636 tỷ đồng trong năm 2025, mức cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:30:00+07:00",
+      "fetched": "2026-01-29T21:36:18.816330+07:00"
+    },
+    {
+      "id": "d86b75abea5c5f2951141361a1286b47",
+      "title": "Nhật Bản giúp 85 tỉ đồng xây dựng hệ thống cảnh báo sớm sạt lở ở Huế",
+      "link": "https://thanhnien.vn/nhat-ban-giup-85-ti-dong-xay-dung-he-thong-canh-bao-som-sat-lo-o-hue-185260129184143518.htm",
+      "summary": "Nhật Bản giúp Việt Nam gần 85 tỉ đồng để các nhà khoa học hai nước cùng xây dựng hệ thống cảnh báo sớm sạt lở đất ở Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:20:00+07:00",
+      "fetched": "2026-01-29T21:36:22.050983+07:00"
+    },
+    {
+      "id": "8b56cff62f43c9da8e438e1b16a826f7",
+      "title": "Ca sĩ Khánh Phương bị phạt vì giao dịch chui cổ phiếu",
+      "link": "https://vnexpress.net/ca-si-khanh-phuong-bi-phat-vi-giao-dich-chui-co-phieu-5011636.html",
+      "summary": "Ca sĩ Khánh Phương bị phạt 100 triệu đồng vì bán hơn 900.000 cổ phiếu SJC vào giữa tháng 6/2023 nhưng không báo trước với tư cách thành viên HĐQT công ty này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:16:31+07:00",
+      "fetched": "2026-01-29T21:36:18.816503+07:00"
+    },
+    {
+      "id": "8b56cff62f43c9da8e438e1b16a826f7",
+      "title": "Ca sĩ Khánh Phương bị phạt vì giao dịch chui cổ phiếu",
+      "link": "https://vnexpress.net/ca-si-khanh-phuong-bi-phat-vi-giao-dich-chui-co-phieu-5011636.html",
+      "summary": "Ca sĩ Khánh Phương bị phạt 100 triệu đồng vì bán hơn 900.000 cổ phiếu SJC vào giữa tháng 6/2023 nhưng không báo trước với tư cách thành viên HĐQT công ty này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-29T13:16:31+07:00",
+      "fetched": "2026-01-29T21:36:25.480486+07:00"
+    },
+    {
+      "id": "b0a4d6dd907211f2f98901fd7966efe8",
+      "title": "Đặc phái viên của Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình thăm Việt Nam",
+      "link": "https://thanhnien.vn/dac-phai-vien-cua-tong-bi-thu-chu-tich-nuoc-trung-quoc-tap-can-binh-tham-viet-nam-185260129192611216.htm",
+      "summary": "Đặc phái viên của Tổng Bí thư, Chủ tịch nước Trung Quốc Tập Cận Bình, Ủy viên Trung ương Đảng, Trưởng ban Liên lạc đối ngoại T.Ư Đảng Cộng sản Trung Quốc Lưu Hải Tinh thăm Việt Nam để chuyển lời chúc mừng thành công của Đại hội XIV của Đảng Cộng sản Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:09:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051133+07:00"
+    },
+    {
+      "id": "63fe5f0d6247eff25d1c482296490c59",
+      "title": "Đài Loan tập trận mô phỏng đẩy lùi cuộc tấn công từ biển",
+      "link": "https://thanhnien.vn/dai-loan-tap-tran-mo-phong-day-lui-cuoc-tan-cong-tu-bien-185260129190822224.htm",
+      "summary": "Cuộc tập trận tại thành phố Cao Hùng có sự phối hợp của tên lửa phóng từ bờ, máy bay không người lái và các tàu tuần tra tốc độ cao để ngăn chặn một cuộc tấn công mô phỏng từ ngoài biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:07:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051286+07:00"
+    },
+    {
+      "id": "872731fe0ebb53d7b2f7074e986e9e49",
+      "title": "Động thái của Tóc Tiên khi bị xoi mói không gian riêng tư sau ly hôn",
+      "link": "https://thanhnien.vn/dong-thai-cua-toc-tien-khi-bi-xoi-moi-khong-gian-rieng-tu-sau-ly-hon-18526012918094381.htm",
+      "summary": "Sau khi hình ảnh xuất hiện cùng Hoàng Touliver lan truyền trên mạng xã hội kéo theo nhiều đồn đoán, Tóc Tiên chính thức lên tiếng, khẳng định cả hai vẫn cư xử bình thường như anh em, bạn bè. Đồng thời, nữ ca sĩ mong truyền thông và khán giả tôn trọng sự riêng tư và không gian riêng của cả hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:06:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051442+07:00"
+    },
+    {
+      "id": "54e1754bc18fe7ccf8ab3172885ca7e7",
+      "title": "Khách thử thách cơn đau chuyển dạ bằng máy mô phỏng",
+      "link": "https://vnexpress.net/khach-thu-thach-con-dau-chuyen-da-bang-may-mo-phong-5011491.html",
+      "summary": "Người tham gia trải nghiệm cường độ đau tăng dần từ 1 đến 12 nhằm thấu hiểu quá trình vượt cạn của người phụ nữ thông qua thiết bị chuyên dụng dán trên bụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:05+07:00",
+      "fetched": "2026-01-29T21:36:18.816686+07:00"
+    },
+    {
+      "id": "8dc77fbd353b250586297daae21f87f1",
+      "title": "Sếu đầu đỏ là biểu tượng của tỉnh nào?",
+      "link": "https://vnexpress.net/seu-dau-do-la-bieu-tuong-cua-tinh-nao-5011623.html",
+      "summary": "Sếu đầu đỏ - loài chim hiếm, từng xuất hiện hàng nghìn con ở tỉnh này, nhưng giờ chỉ đếm trên đầu ngón tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.816857+07:00"
+    },
+    {
+      "id": "05b804cbca32a5eab8ed3a6715d2fd6b",
+      "title": "Người vô gia cư New York 'thà chịu rét còn hơn vào khu tạm trú'",
+      "link": "https://vnexpress.net/nguoi-vo-gia-cu-new-york-tha-chiu-ret-con-hon-vao-khu-tam-tru-5011539.html",
+      "summary": "Nhiều người vô gia cư ở New York từ chối vào nhà tạm trú của chính quyền, chấp nhận đối mặt đợt rét lịch sử, do \"không muốn phiền nhiễu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817026+07:00"
+    },
+    {
+      "id": "7ebe014a18ad34306e96758997cfb244",
+      "title": "Bạn trai lớn hơn 10 tuổi muốn cưới, còn tôi vừa vào đại học",
+      "link": "https://vnexpress.net/ban-trai-lon-hon-10-tuoi-muon-cuoi-con-toi-vua-vao-dai-hoc-5011532.html",
+      "summary": "Anh nói không còn trẻ để chờ đợi tôi quá lâu; tôi ngược lại, chưa thể nghĩ đến chuyện lấy chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817188+07:00"
+    },
+    {
+      "id": "c81cfcd6a6e5bc8ea5e2f88e959c4a12",
+      "title": "'Phụ huynh nên tự nấu ăn trưa cho con mang đi học'",
+      "link": "https://vnexpress.net/suat-an-ban-tru-bi-tuon-thuc-pham-ban-suat-ban-ban-tru-tu-nau-com-cho-con-mang-di-hoc-5011529.html",
+      "summary": "Việc tự nấu cơm cho con mang đi học là cách thiết thực nhất để bảo vệ sức khỏe cho trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817342+07:00"
+    },
+    {
+      "id": "2815ad212f1db218647fde040f13d4df",
+      "title": "Đặc vụ liên bang 'đến tận nhà cảnh cáo' người phản đối ICE",
+      "link": "https://vnexpress.net/dac-vu-lien-bang-den-tan-nha-canh-cao-nguoi-phan-doi-ice-5011293.html",
+      "summary": "Nhiều tình nguyện viên giám sát hoạt động của ICE tại các bang của Mỹ nói họ bị đặc vụ liên bang tới nhà riêng để cảnh cáo, đe dọa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817492+07:00"
+    },
+    {
+      "id": "6976aefcafe79555ffd302ddb94ba667",
+      "title": "VIB lãi hơn 9.100 tỷ, hoàn thiện nền tảng cho kỳ tăng trưởng mới",
+      "link": "https://vnexpress.net/vib-lai-hon-9-100-ty-hoan-thien-nen-tang-cho-ky-tang-truong-moi-5011618.html",
+      "summary": "Kết thúc năm 2025, VIB ghi nhận lãi trước thuế hơn 9.100 tỷ, quy mô tài sản vượt 556.000 tỷ, đồng thời khép lại 9 năm xây dựng nền tảng để bước vào giai đoạn tăng trưởng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817667+07:00"
+    },
+    {
+      "id": "14d786774d297bfd4b2fedf8f2fac97c",
+      "title": "Hanel PT được vinh danh 'Nhà cung ứng xuất sắc Việt Nam 2025'",
+      "link": "https://vnexpress.net/hanel-pt-duoc-vinh-danh-nha-cung-ung-xuat-sac-viet-nam-2025-5011555.html",
+      "summary": "Công ty cổ phần công nghệ Thế Hệ Mới Hanel PT nhận danh hiệu do VCCI trao tặng, tại diễn đàn \"Nhà cung ứng Việt Nam – Hành trình tới sự xuất sắc\", ngày 29/1",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:18.817826+07:00"
+    },
+    {
+      "id": "7db707a50c88b0046e372084dfe81685",
+      "title": "Xem nhanh 20h ngày 29.1: 6 vật nuôi có thể nhiễm virus Nipah | Dừng bữa ăn bán trú có sản phẩm Sago",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-291-6-vat-nuoi-co-the-nhiem-virus-nipah-dung-bua-an-ban-tru-co-san-pham-sago-185260129194340786.htm",
+      "summary": "'Xem nhanh 20h' ngày 29.1 có nhiều tin tức đáng chú ý về: 6 loài vật nuôi này có thể nhiễm vi rút Nipah; Sở GD-ĐT TP.HCM yêu cầu dừng mọi bữa ăn bán trú có sản phẩm Sago Food;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051594+07:00"
+    },
+    {
+      "id": "b92f57d9df6e41ab83b612d1124cc930",
+      "title": "Bộ ảnh khiến ai cũng muốn mặc áo dài, khăn lụa đi du xuân",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bo-anh-khien-ai-cung-muon-mac-ao-dai-khan-lua-di-du-xuan-185260128230728587.htm",
+      "summary": "Những ngày đầu xuân, khi hoa đào, hoa mơ, hoa ban nở rộ khắp các vùng miền, áo dài, khăn lụa trở lại như một nhịp thở chậm của thời trang, hòa cùng thiên nhiên và gợi mở những ký ức văn hóa quen thuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051768+07:00"
+    },
+    {
+      "id": "05b804cbca32a5eab8ed3a6715d2fd6b",
+      "title": "Người vô gia cư New York 'thà chịu rét còn hơn vào khu tạm trú'",
+      "link": "https://vnexpress.net/nguoi-vo-gia-cu-new-york-tha-chiu-ret-con-hon-vao-khu-tam-tru-5011539.html",
+      "summary": "Nhiều người vô gia cư ở New York từ chối vào nhà tạm trú của chính quyền, chấp nhận đối mặt đợt rét lịch sử, do \"không muốn phiền nhiễu\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:24.471606+07:00"
+    },
+    {
+      "id": "2815ad212f1db218647fde040f13d4df",
+      "title": "Đặc vụ liên bang 'đến tận nhà cảnh cáo' người phản đối ICE",
+      "link": "https://vnexpress.net/dac-vu-lien-bang-den-tan-nha-canh-cao-nguoi-phan-doi-ice-5011293.html",
+      "summary": "Nhiều tình nguyện viên giám sát hoạt động của ICE tại các bang của Mỹ nói họ bị đặc vụ liên bang tới nhà riêng để cảnh cáo, đe dọa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T13:00:00+07:00",
+      "fetched": "2026-01-29T21:36:24.471809+07:00"
+    },
+    {
+      "id": "4ac904f5b6e9d02d8501204ea2333844",
+      "title": "Nhận hối lộ, 3 nhân viên bảo vệ rừng bị phạt tù",
+      "link": "https://thanhnien.vn/nhan-hoi-lo-3-nhan-vien-bao-ve-rung-bi-phat-tu-185260129181030516.htm",
+      "summary": "3 nhân viên bảo vệ rừng thuộc Công ty TNHH MTV Lâm nghiệp Kông Chiêng (Gia Lai) lãnh án tù vì nhận hối lộ trong quá trình công tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:59:00+07:00",
+      "fetched": "2026-01-29T21:36:22.051919+07:00"
+    },
+    {
+      "id": "76ece351a5fd37e6a7d60e3a177bfed3",
+      "title": "Làm phiên dịch cho tội phạm mạng ở Campuchia lừa tiền người Việt",
+      "link": "https://vnexpress.net/lam-phien-dich-cho-toi-pham-mang-o-campuchia-lua-tien-nguoi-viet-5011624.html",
+      "summary": "Lê Minh Dũng bị phạt 15 năm tù vì trong lúc làm việc ở casino đã kiêm vai trò phiên dịch cho công ty lừa đảo tại Campuchia, hưởng lương mỗi tháng 1.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:55:59+07:00",
+      "fetched": "2026-01-29T21:36:18.817985+07:00"
+    },
+    {
+      "id": "030175a290fa50e6b16cd9d5ecf49ef2",
+      "title": "Đề xuất dừng hoạt động Ủy ban An toàn giao thông quốc gia từ tháng 3",
+      "link": "https://thanhnien.vn/de-xuat-dung-hoat-dong-uy-ban-an-toan-giao-thong-quoc-gia-tu-thang-3-185260129193818004.htm",
+      "summary": "Bộ Xây dựng đang dự thảo văn bản thực hiện quyết định của Thủ tướng về chấm dứt hoạt động của Ủy ban An toàn giao thông quốc gia và ban an toàn giao thông các tỉnh, thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:55:00+07:00",
+      "fetched": "2026-01-29T21:36:22.052072+07:00"
+    },
+    {
+      "id": "9381a9a84f863679781feda0ee218d0b",
+      "title": "Trường Giang: Nếu nói bị chửi, ai bị chửi nhiều hơn tôi...",
+      "link": "https://thanhnien.vn/truong-giang-neu-noi-bi-chui-ai-bi-chui-nhieu-hon-toi-185260129172746074.htm",
+      "summary": "Tại buổi ra mắt dự án phim 'Nhà ba tôi một phòng', Trường Giang cho biết trong dàn diễn viên, anh là người bị chửi nhiều nhất. Dù vậy, thay vì đáp trả, nam nghệ sĩ chọn im lặng, âm thầm làm việc và chứng minh qua sản phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:54:00+07:00",
+      "fetched": "2026-01-29T21:36:22.052220+07:00"
+    },
+    {
+      "id": "f08a608f3e9eb044ef5dc0ada2d5f0b4",
+      "title": "Lâm Đồng thông qua 5 dự án tổng vốn hơn 114.000 tỷ đồng",
+      "link": "https://vnexpress.net/lam-dong-thong-qua-5-du-an-tong-von-hon-114-000-ty-dong-5011592.html",
+      "summary": "5 dự án lớn về du lịch sinh thái, bất động sản, khai thác khoáng sản với tổng vốn hơn 114.000 tỷ đồng dự kiến triển khai trong năm nay, được cấp có thẩm quyền thông qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-29T12:53:59+07:00",
+      "fetched": "2026-01-29T21:36:18.818142+07:00"
+    },
+    {
+      "id": "5d40a6cc61b8f5f14b17016f76d3e9bd",
+      "title": "Iran tuyên bố biên chế thêm 1.000 UAV chiến đấu",
+      "link": "https://vnexpress.net/iran-tuyen-bo-bien-che-them-1-000-uav-chien-dau-5011634.html",
+      "summary": "Quân đội Iran thông báo bổ sung 1.000 máy bay không người lái chiến đấu cho các binh chủng, khi căng thẳng với Mỹ gia tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T12:52:09+07:00",
+      "fetched": "2026-01-29T21:36:24.471988+07:00"
     },
     {
       "id": "72e26c3ff7e3f51edb3e9918f2dd079d",
@@ -831,6 +1171,16 @@ window.newsData_2026_01_29 = {
       "category": "Thế giới",
       "published": "2026-01-29T11:49:15+07:00",
       "fetched": "2026-01-29T19:52:12.032611+07:00"
+    },
+    {
+      "id": "f8de9dc785bbf946d250a3ddfedf513d",
+      "title": "Chủ tịch Hội đồng châu Âu thăm dự án metro số 3 Hà Nội",
+      "link": "https://vnexpress.net/chu-tich-hoi-dong-chau-au-tham-du-an-metro-so-3-ha-noi-5011621.html",
+      "summary": "Chủ tịch Hội đồng châu Âu Antonio Costa tham quan Văn Miếu - Quốc Tử Giám và thăm dự án metro số 3 tại Hà Nội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-29T11:49:15+07:00",
+      "fetched": "2026-01-29T21:36:24.472309+07:00"
     },
     {
       "id": "2caa39f946e4520b81a957f1c1cd3818",
