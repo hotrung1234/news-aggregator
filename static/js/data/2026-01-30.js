@@ -1,7 +1,157 @@
 window.newsData_2026_01_30 = {
   "date": "2026-01-30",
-  "lastUpdated": "2026-01-30T05:25:03.815166+07:00",
+  "lastUpdated": "2026-01-30T08:50:23.281513+07:00",
   "articles": [
+    {
+      "id": "7babc49a38e4daa9d4f413ecb19bd7fd",
+      "title": "Đình Bắc ngược dòng ngoạn mục trước 2 ngôi sao Trung Quốc",
+      "link": "https://tuoitre.vn/dinh-bac-nguoc-dong-ngoan-muc-truoc-2-ngoi-sao-trung-quoc-20260129212835782.htm",
+      "summary": "Sau 1 ngày lép vế trước thủ môn Li Hao của Trung Quốc, Đình Bắc đã \"lội ngược dòng\" trong cuộc bình chọn danh hiệu Cầu thủ gây ấn tượng nhất Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.061261+07:00",
+      "fetched": "2026-01-30T08:50:14.061370+07:00"
+    },
+    {
+      "id": "39addefd8c6b1728f8e38c8692d2514f",
+      "title": "Vụ 3.000 tấn thịt ốc tẩm hóa chất: Vì sao cơ sở tồn tại trong nhiều năm?",
+      "link": "https://tuoitre.vn/vu-3-000-tan-thit-oc-tam-hoa-chat-vi-sao-co-so-ton-tai-trong-nhieu-nam-20260129221357153.htm",
+      "summary": "Cận Tết Bính Ngọ, Phòng Cảnh sát kinh tế Công an TP.HCM liên tiếp phát hiện xử lý nhiều vụ vi phạm pháp luật về an toàn thực phẩm, kịp thời ngăn chặn các loại thực phẩm bẩn hoặc không rõ nguồn gốc len lỏi vào bữa ăn hằng ngày của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.061138+07:00",
+      "fetched": "2026-01-30T08:50:14.061250+07:00"
+    },
+    {
+      "id": "83d05c89eb2f814b5d0516dce48d4a89",
+      "title": "Sabalenka thách thức trọng tài khi bị trừ điểm vì 'tiếng hét bất thường' ở trận bán kết",
+      "link": "https://tuoitre.vn/sabalenka-thach-thuc-trong-tai-khi-bi-tru-diem-vi-tieng-het-bat-thuong-o-tran-ban-ket-20260130050654266.htm",
+      "summary": "Tay vợt nữ số 1 thế giới Sabalenka đã giành quyền vào chung kết Giải Úc mở rộng 2026 sau chiến thắng 2-0 (6-2, 6-3) trước đối thủ Elina Svitolina. Sau trận này, Sabalenka đã lên tiếng thách thức trọng tài vì đã trừ điểm cô do \"tiếng hét bất thường\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.061015+07:00",
+      "fetched": "2026-01-30T08:50:14.061126+07:00"
+    },
+    {
+      "id": "b5ea5a397236d8ae1e3342fb8f3364a2",
+      "title": "Úc nắng nóng như thiêu đốt, nhiệt độ gần chạm 50℃",
+      "link": "https://tuoitre.vn/uc-nang-nong-nhu-thieu-dot-nhiet-do-gan-cham-50-20260129235435509.htm",
+      "summary": "Hai tuần trước, tiểu bang Victoria, Úc bắt đầu những ngày nắng nóng đến cháy rừng. Nhiệt độ 45℃ tưởng cực điểm, ai ngờ tuần này có nơi chạm mức gần 50℃.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060892+07:00",
+      "fetched": "2026-01-30T08:50:14.061004+07:00"
+    },
+    {
+      "id": "d578a6d411ab02b94b8609032301b395",
+      "title": "Antony tỏa sáng giúp Real Betis đi tiếp ở Europa League",
+      "link": "https://tuoitre.vn/antony-toa-sang-giup-real-betis-di-tiep-o-europa-league-20260130053620747.htm",
+      "summary": "\"Thánh xoay compa\" Antony đã tỏa sáng với 1 bàn thắng và 1 pha kiến tạo giúp Real Betis đánh bại Feyenoord của HLV Robin van Persie với tỉ số 2-1 tại sân vận động Estadio de la Cartuja vào rạng sáng 30-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060757+07:00",
+      "fetched": "2026-01-30T08:50:14.060881+07:00"
+    },
+    {
+      "id": "558f278719a1391dc928ce148042732c",
+      "title": "Tin tức sáng 30-1: Quy định mới về trường hợp doanh nghiệp được tạm dừng đóng bảo hiểm xã hội",
+      "link": "https://tuoitre.vn/tin-tuc-sang-30-1-quy-dinh-moi-ve-truong-hop-doanh-nghiep-duoc-tam-dung-dong-bao-hiem-xa-hoi-2026012918462866.htm",
+      "summary": "Một số tin tức đáng chú ý: Hà Nội có hơn 1.500 tỉ đồng chậm đóng bảo hiểm xã hội phải tính lãi; Quy định mới về quản lý và sử dụng Quỹ phòng, chống tội phạm; Cà Mau phê duyệt chiến lược chuyển đổi số...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060597+07:00",
+      "fetched": "2026-01-30T08:50:14.060708+07:00"
+    },
+    {
+      "id": "a0230e3cf7a0f2d155bdb70d78d6aab8",
+      "title": "Hòa Minzy, Soobin, Mưa đỏ nhận giải Mai Vàng 2025",
+      "link": "https://tuoitre.vn/hoa-minzy-soobin-mua-do-nhan-giai-mai-vang-2025-20260129222432351.htm",
+      "summary": "Ca sĩ Hòa Minzy thắng lớn tại giải Mai Vàng 2025 ở hạng mục Nữ ca sĩ được yêu thích nhất, Nghệ sĩ vì cộng đồng và MV của năm với Bắc Bling.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060474+07:00",
+      "fetched": "2026-01-30T08:50:14.060586+07:00"
+    },
+    {
+      "id": "9a32c323301aa3df53cb3060c15765e3",
+      "title": "Người đẹp 18 tuổi đến từ Nga là Hoa hậu Liên lục địa 2025, Thu Ngân dừng chân top 23",
+      "link": "https://tuoitre.vn/nguoi-dep-18-tuoi-den-tu-nga-la-hoa-hau-lien-luc-dia-2025-thu-ngan-dung-chan-top-23-20260130051823814.htm",
+      "summary": "Người đẹp Varvara Yakovenko đến từ Nga đoạt vương miện Hoa hậu Liên lục địa 2025. Đại diện của Việt Nam dừng chân ở top 23 trong nuối tiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060349+07:00",
+      "fetched": "2026-01-30T08:50:14.060463+07:00"
+    },
+    {
+      "id": "57ac96a6d4c70d1066d09f59d25995d1",
+      "title": "Viết sách về góc khuất ngành y, vì sao bác sĩ Nguyễn Lân Hiếu đặt tên ‘Thương’?",
+      "link": "https://tuoitre.vn/viet-sach-ve-goc-khuat-nganh-y-vi-sao-bac-si-nguyen-lan-hieu-dat-ten-thuong-20260130055515624.htm",
+      "summary": "Bác sĩ Nguyễn Lân Hiếu, tác giả sách bán chạy, ra mắt cuốn sách thứ hai, chủ yếu nói về ngành y và góc khuất của ngành này lấy tên ‘Thương - Câu chuyện tiếp tục từ trái tim’. Nhưng chữ ‘thương’ ấy có phải để dành cho các bác sĩ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060219+07:00",
+      "fetched": "2026-01-30T08:50:14.060338+07:00"
+    },
+    {
+      "id": "e51fef87ea40aed883cd813cf805b69e",
+      "title": "Jennie BlackPink và hành trình biến hóa phong cách qua thời gian",
+      "link": "https://tuoitre.vn/jennie-blackpink-va-hanh-trinh-bien-hoa-phong-cach-qua-thoi-gian-20260129203237172.htm",
+      "summary": "Mỗi lần xuất hiện, Jennie (BlackPink) đều biến trang phục thành tâm điểm và khẳng định vị thế It-girl hàng đầu của thời trang đương đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.060094+07:00",
+      "fetched": "2026-01-30T08:50:14.060208+07:00"
+    },
+    {
+      "id": "8afa1323909f10d2b017a423f6152390",
+      "title": "Tin tức thế giới 30-1: Ông Trump nói ông Putin đồng ý ngừng bắn Ukraine 1 tuần, Nga chưa xác nhận",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-30-1-ong-trump-noi-ong-putin-dong-y-ngung-ban-ukraine-1-tuan-nga-chua-xac-nhan-20260130061754091.htm",
+      "summary": "EU, Liên hợp quốc kêu gọi hạ nhiệt căng thẳng Iran - Mỹ trong khi quân đội Mỹ tuyên bố sẵn sàng theo lệnh Tổng thống; Mỹ mở lại không phận Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.059965+07:00",
+      "fetched": "2026-01-30T08:50:14.060082+07:00"
+    },
+    {
+      "id": "2afcbce7180de1e8e4ae14d49f5ea9c1",
+      "title": "108 cao thủ cờ tướng Trung Quốc đại chiến, phần thưởng là... Lại Lý Huynh",
+      "link": "https://tuoitre.vn/108-cao-thu-co-tuong-trung-quoc-dai-chien-phan-thuong-la-lai-ly-huynh-20260129222759168.htm",
+      "summary": "Từ ngày 29-1, tại Quảng Châu (Trung Quốc), \"siêu giải\" cờ tướng Ngũ Dương Bôi bắt đầu diễn ra giai đoạn vòng loại, với sự tham dự của 108 kỳ thủ mạnh bậc nhất làng cờ Trung Hoa hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.059831+07:00",
+      "fetched": "2026-01-30T08:50:14.059953+07:00"
+    },
+    {
+      "id": "cf0190c4193f17a0fd58c727ada5f51a",
+      "title": "'Vàng trắng' sinh thái: Lợi thế cạnh tranh mới của Cần Giờ",
+      "link": "https://tuoitre.vn/vang-trang-sinh-thai-loi-the-canh-tranh-moi-cua-can-gio-20260129225337689.htm",
+      "summary": "Không chỉ được biết đến như “lá phổi xanh” của TP.HCM, Cần Giờ còn đang dần khẳng định một giá trị kinh tế đặc thù khác với nghề nuôi chim yến gắn với hệ sinh thái rừng ngập mặn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.059673+07:00",
+      "fetched": "2026-01-30T08:50:14.059817+07:00"
+    },
+    {
+      "id": "9af8e94b09adb009bf0c3009122397f8",
+      "title": "Dự án nạo vét cửa biển La Gi chậm trễ, ghe cá thấp thỏm ra vào",
+      "link": "https://tuoitre.vn/du-an-nao-vet-cua-bien-la-gi-cham-tre-ghe-ca-thap-thom-ra-vao-20260129184725413.htm",
+      "summary": "Dự án nạo vét luồng cửa biển La Gi, tỉnh Lâm Đồng (Bình Thuận cũ) chậm trễ khiến ghe cá ngư dân ra vào gặp vô vàn khó khăn. Nơi đây đã từng xảy ra nhiều vụ chìm ghe cá khiến ngư dân mất tiền tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.059525+07:00",
+      "fetched": "2026-01-30T08:50:14.059659+07:00"
+    },
+    {
+      "id": "288c513960d6102df1647a3136982f65",
+      "title": "Iran cảnh báo sẽ tung đòn đáp trả ngay lập tức nếu Mỹ tấn công",
+      "link": "https://tuoitre.vn/iran-canh-bao-se-tung-don-dap-tra-ngay-lap-tuc-neu-my-tan-cong-20260130070148844.htm",
+      "summary": "Ngày 29-1, Iran cảnh báo sẽ đưa ra “phản ứng tức thì” trong trường hợp bị Mỹ tấn công, đồng thời nêu rõ các căn cứ quân sự hoặc tàu sân bay của Mỹ cũng có thể trở thành mục tiêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T08:50:14.059285+07:00",
+      "fetched": "2026-01-30T08:50:14.059509+07:00"
+    },
     {
       "id": "33075fbecd3bd40e505a2cb2de66e367",
       "title": "Tổng Bí thư Tô Lâm: Thời khắc lịch sử trong quan hệ Việt Nam - EU",
@@ -173,6 +323,456 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T01:40:14.843572+07:00"
     },
     {
+      "id": "d643544005c52c7343b39f1f13ecf765",
+      "title": "Lộ diện số áo Thái Sơn, Văn Thuận ở Ninh Bình: Cuộc đối đầu Đình Bắc và đội CAHN siêu kịch tính",
+      "link": "https://thanhnien.vn/lo-dien-so-ao-thai-son-van-thuan-o-ninh-binh-cuoc-doi-dau-dinh-bac-va-doi-cahn-sieu-kich-tinh-185260129110548967.htm",
+      "summary": "Cuộc đại chiến giữa CLB Công an Hà Nội (CAHN) và đội Ninh Bình ở vòng 12 V-League 2025-2026 trở nên hấp dẫn hơn với sự góp mặt của hàng loạt ngôi sao U.23 Việt Nam vừa tỏa sáng tại SEA Games 33 cũng như VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:40:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931022+07:00"
+    },
+    {
+      "id": "cb2e61543f8f4475cfb3c98aa1ae2125",
+      "title": "Ông Trump dọa áp thuế 50% lên máy bay Canada",
+      "link": "https://vnexpress.net/ong-trump-doa-ap-thue-50-len-may-bay-canada-5011706.html",
+      "summary": "Ngày 29/1, Tổng thống Mỹ Donald Trump tuyên bố sẽ trả đũa việc Canada từ chối cấp chứng nhận cho các máy bay của Gulfstream Aerospace.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T01:31:41+07:00",
+      "fetched": "2026-01-30T08:50:17.596867+07:00"
+    },
+    {
+      "id": "2a706e7b7680d3666df471a921f2ae98",
+      "title": "Antony đưa Betis vào vòng 1/8 Europa League",
+      "link": "https://vnexpress.net/antony-dua-betis-vao-vong-1-8-europa-league-5011705.html",
+      "summary": "Antony mở tỷ số và kiến tạo bàn còn lại khi Betis hạ Feyenoord 2-1 ở lượt cuối vòng bảng tối 29/1, và giành vé vào thẳng vòng 1/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T01:21:34+07:00",
+      "fetched": "2026-01-30T08:50:23.275422+07:00"
+    },
+    {
+      "id": "135ea9515cb7931e41d418ef21c76d4d",
+      "title": "Bên trong 'bộ não' điều hành hàng trăm camera giám sát tài xế Phương Trang",
+      "link": "https://thanhnien.vn/ben-trong-bo-nao-dieu-hanh-hang-tram-camera-giam-sat-tai-xe-phuong-trang-185260130001531484.htm",
+      "summary": "Trung tâm Giám sát Chất lượng Dịch vụ & Camera GPS của nhà xe Phương Trang là đơn vị làm nhiệm vụ giám sát liên tục 24/7 của hơn 4.600 phương tiện được trang bị camera và thiết bị giám sát hành trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:21:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931201+07:00"
+    },
+    {
+      "id": "5ccd448eaa5330b12173d3816662a195",
+      "title": "Cựu số 1 pickleball thế giới khiến khán giả TP.HCM trầm trồ",
+      "link": "https://thanhnien.vn/cuu-so-1-pickleball-the-gioi-khien-khan-gia-tphcm-tram-tro-185260130071936241.htm",
+      "summary": "Tối 29.1, người hâm mộ TP.HCM đã có dịp mãn nhãn trước những màn trình diễn đẳng cấp của các ngôi sao hàng đầu thế giới như Federico Staksrud và Tyra Black tại sự kiện Legend Tour 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:17:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931359+07:00"
+    },
+    {
+      "id": "415d8d2795d91170c36f51646fd8dcf7",
+      "title": "Lãnh đạo Ba Lan đấu khẩu với Elon Musk vì Starlink ở Ukraine",
+      "link": "https://vnexpress.net/lanh-dao-ba-lan-dau-khau-voi-elon-musk-vi-starlink-o-ukraine-5011535.html",
+      "summary": "Ngoại trưởng Ba Lan tranh cãi với Elon Musk vì vấn đề Nga trang bị bộ thu phát Internet vệ tinh Starlink cho UAV tập kích Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:11:23+07:00",
+      "fetched": "2026-01-30T08:50:09.823076+07:00"
+    },
+    {
+      "id": "415d8d2795d91170c36f51646fd8dcf7",
+      "title": "Lãnh đạo Ba Lan đấu khẩu với Elon Musk vì Starlink ở Ukraine",
+      "link": "https://vnexpress.net/lanh-dao-ba-lan-dau-khau-voi-elon-musk-vi-starlink-o-ukraine-5011535.html",
+      "summary": "Ngoại trưởng Ba Lan tranh cãi với Elon Musk vì vấn đề Nga trang bị bộ thu phát Internet vệ tinh Starlink cho UAV tập kích Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T01:11:23+07:00",
+      "fetched": "2026-01-30T08:50:15.956410+07:00"
+    },
+    {
+      "id": "4a34341556b1e7c36dbf73ee314be6c9",
+      "title": "Khánh thành điểm trường biên giới ở Quảng Trị",
+      "link": "https://vnexpress.net/khanh-thanh-diem-truong-bien-gioi-o-quang-tri-5011669.html",
+      "summary": "Hai phòng học, hai phòng cho giáo viên ở và công trình vệ sinh xây mới được Quỹ Hy vọng và các đơn vị đồng hành bàn giao cho xã Thượng Trạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:09:09+07:00",
+      "fetched": "2026-01-30T08:50:09.823258+07:00"
+    },
+    {
+      "id": "e0b58d77ecb9572c14414c8db903c6f5",
+      "title": "Giá xăng dầu hôm nay 30.1.2026: Lập đỉnh 5 tháng, vượt mốc 70 USD/thùng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-3012026-lap-dinh-5-thang-vuot-moc-70-usd-thung-185260130073930589.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng mạnh lên mức cao nhất trong 5 tháng, do lo ngại căng thẳng địa chính trị tại Trung Đông gia tăng. Trong nước, giá xăng dầu vừa được điều chỉnh tăng đồng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:09:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931515+07:00"
+    },
+    {
+      "id": "4978d83de013a5443bcff13cd4f2f29b",
+      "title": "Sao 'Sex and the City' đọc 153 quyển sách trong bảy tháng",
+      "link": "https://vnexpress.net/sao-sex-and-the-city-doc-153-quyen-sach-trong-bay-thang-5011105.html",
+      "summary": "Sao \"Sex and the City\" Sarah Jessica Parker đọc hơn 100 quyển sách trong bảy tháng, khoảng hai cuốn mỗi ngày khi làm giám khảo giải Booker.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:07:37+07:00",
+      "fetched": "2026-01-30T08:50:09.823423+07:00"
+    },
+    {
+      "id": "d0cb0653486c9ac3dea343b589b6d2c5",
+      "title": "Elon Musk có thể sáp nhập SpaceX vào xAI hoặc Tesla",
+      "link": "https://vnexpress.net/elon-musk-co-the-sap-nhap-spacex-vao-xai-hoac-tesla-5011693.html",
+      "summary": "Elon Musk được cho là sẽ hợp nhất công ty hàng không vũ trụ SpaceX vào công ty trí tuệ nhân tạo xAI hoặc hãng xe Tesla.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:06:33+07:00",
+      "fetched": "2026-01-30T08:50:09.823582+07:00"
+    },
+    {
+      "id": "d0cb0653486c9ac3dea343b589b6d2c5",
+      "title": "Elon Musk có thể sáp nhập SpaceX vào xAI hoặc Tesla",
+      "link": "https://vnexpress.net/elon-musk-co-the-sap-nhap-spacex-vao-xai-hoac-tesla-5011693.html",
+      "summary": "Elon Musk được cho là sẽ hợp nhất công ty hàng không vũ trụ SpaceX vào công ty trí tuệ nhân tạo xAI hoặc hãng xe Tesla.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T01:06:33+07:00",
+      "fetched": "2026-01-30T08:50:20.552692+07:00"
+    },
+    {
+      "id": "98bf4aa27c510fd74965f6f9d9fc246e",
+      "title": "Hàng trăm con cá tranh nhau bánh mì",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-hang-tram-con-ca-tranh-nhau-banh-mi-5011508.html",
+      "summary": "Chỉ vài mẩu bánh mì nhỏ nhưng đủ khiến mặt sông Chao Phraya ở Bangkok dậy sóng như phim hành động phiên bản… cá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.823756+07:00"
+    },
+    {
+      "id": "6569989171e8591d7f775f8e00b1c71d",
+      "title": "Tưởng viêm họng hóa nhiễm HIV",
+      "link": "https://vnexpress.net/tuong-viem-hong-hoa-nhiem-hiv-5011699.html",
+      "summary": "Hạo, 20 tuổi, đau rát họng, nuốt khó hơn một tháng tưởng viêm họng, bác sĩ chẩn đoán nhiễm virus HIV gây suy giảm miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.823918+07:00"
+    },
+    {
+      "id": "b888ba6ce07ec7991739b249101fb879",
+      "title": "U lồng ngực xâm lấn màng tim",
+      "link": "https://vnexpress.net/u-long-nguc-xam-lan-mang-tim-5011695.html",
+      "summary": "Anh Đông, 40 tuổi, khó thở, nặng ngực, sốt nhẹ kéo dài, chụp CT phát hiện khối u lớn trong lồng ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824080+07:00"
+    },
+    {
+      "id": "5f944a0a8bc2758d72ebcb18cbf7b72e",
+      "title": "Frasers Property quản lý phát triển dự án 13 ha tại Hải Phòng",
+      "link": "https://vnexpress.net/frasers-property-quan-ly-phat-trien-du-an-13-ha-tai-hai-phong-5011694.html",
+      "summary": "ANmaison quy mô 13,6 ha tại trung tâm Hải Phòng, gồm 280 căn biệt thự và nhà phố, do thương hiệu Frasers Property quản lý phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824242+07:00"
+    },
+    {
+      "id": "9f8c67349d3f3b6b5d3bdee7cef59cfd",
+      "title": "Hermès ra mắt bộ sưu tập Thu Đông 2026 cho nam giới",
+      "link": "https://vnexpress.net/hermes-ra-mat-bo-suu-tap-thu-dong-2026-cho-nam-gioi-5011547.html",
+      "summary": "Hermès Thu Đông 2026 tôn vinh sự đồng hành bền bỉ của nam giới - là lời chia tay của nhà thiết kế Véronique Nichanian sau gần 4 thập kỷ gắn bó với thương hiệu Pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824404+07:00"
+    },
+    {
+      "id": "e6d0affed270250afa4b38cff9dde0c8",
+      "title": "Loạt laptop AI dùng AMD Ryzen AI 400 series mới từ Asus",
+      "link": "https://vnexpress.net/loat-laptop-ai-dung-amd-ryzen-ai-400-series-moi-tu-asus-5011488.html",
+      "summary": "Chip AMD Ryzen AI 400 series trên Zenbook 14 và Vivobook S14 hứa hẹn là lựa chọn cho người dùng tìm kiếm laptop AI mỏng nhẹ, thời lượng pin lâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824562+07:00"
+    },
+    {
+      "id": "410056fee7085018d2ffb9b3bf98cf10",
+      "title": "4 bệnh truyền nhiễm từ dơi từng bùng phát thành dịch",
+      "link": "https://vnexpress.net/4-benh-truyen-nhiem-tu-doi-tung-bung-phat-thanh-dich-5011482.html",
+      "summary": "Các bệnh dại, Nipah, Ebola, Marburg có nguồn gốc từ dơi, từng bùng phát thành dịch tại nhiều quốc gia, hiện chưa có thuốc điều trị đặc hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824720+07:00"
+    },
+    {
+      "id": "09cd2e72cdd70be4fe8896527744c476",
+      "title": "Tủ lạnh âm tường LG tiết kiệm không gian cho nhà bếp",
+      "link": "https://vnexpress.net/tu-lanh-am-tuong-lg-tiet-kiem-khong-gian-cho-nha-bep-5011469.html",
+      "summary": "LG French Door thiết kế âm tường 595 mm, theo chuẩn tủ bếp căn hộ, giúp tiết kiệm diện tích, tích hợp các công nghệ bảo quản phù hợp nhu cầu gia đình Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.824897+07:00"
+    },
+    {
+      "id": "81dd24eefbe94f6633bf2ea924fb2b16",
+      "title": "Lựa chọn đồng hồ cao cấp cho năm Bính Ngọ",
+      "link": "https://vnexpress.net/lua-chon-dong-ho-cao-cap-cho-nam-binh-ngo-5011260.html",
+      "summary": "Các nhà chế tác đồng hồ cao cấp Thụy Sĩ tung loạt thiết kế linh vật ngựa độc đáo mang màu sắc Á đông, chào đón năm Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.825061+07:00"
+    },
+    {
+      "id": "6753b3043e0dbb6aff33d3d6d5f9a894",
+      "title": "VinFast công bố loạt xe máy điện phân khúc mới",
+      "link": "https://vnexpress.net/vinfast-cong-bo-loat-xe-may-dien-phan-khuc-moi-5008484.html",
+      "summary": "VinFast dự kiến ra mắt thêm 7 dòng xe máy điện hoàn toàn mới, quy hoạch lại các phân khúc của hãng gồm phổ thông, cao cấp và thể thao, hôm 30/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.825222+07:00"
+    },
+    {
+      "id": "d4d64cb7770222691c81aebff8b3db45",
+      "title": "Startup giao hàng bằng drone Zipline được định giá 7,6 tỷ USD",
+      "link": "https://vnexpress.net/startup-giao-hang-bang-drone-zipline-duoc-dinh-gia-7-6-ty-usd-5008100.html",
+      "summary": "Zipline gọi thêm hơn 600 triệu USD, nâng định giá lên 7,6 tỷ USD, khi mở rộng giao hàng thương mại bằng drone từ y tế sang thực phẩm, bán lẻ và hàng tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:09.825379+07:00"
+    },
+    {
+      "id": "ae0a4b6e94a59a39d89cb968e9adcb4d",
+      "title": "Đen: 'Buổi đầu tập làm cha, khó kinh khủng'",
+      "link": "https://thanhnien.vn/den-buoi-dau-tap-lam-cha-kho-kinh-khung-185260130010254682.htm",
+      "summary": "Đúng dịp tết đến xuân về, Đen tiếp tục 'truyền thống' phát hành sản phẩm âm nhạc về gia đình với MV 'Việc lớn' vào tối 29.1, nhưng lần này, nam rapper chọn khai thác hình tượng người cha, đề tài ít được anh đề cập trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931665+07:00"
+    },
+    {
+      "id": "322859a4b38b41f995328dc4434bf4f8",
+      "title": "Người Việt ở Đan Mạch xây ‘mạng lưới an tâm’ cho sinh viên, thực tập sinh",
+      "link": "https://thanhnien.vn/nguoi-viet-o-dan-mach-xay-mang-luoi-an-tam-cho-sinh-vien-thuc-tap-sinh-185260129182215481.htm",
+      "summary": "Khi ngày càng nhiều sinh viên Việt Nam chọn Đan Mạch làm điểm đến, một cộng đồng người Việt tại quốc gia Bắc Âu này đang trở thành 'mạng lưới an tâm' cho người mới sang: từ chia sẻ thông tin, hỗ trợ đời sống đến đồng hành trong các tình huống khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931835+07:00"
+    },
+    {
+      "id": "b1f479a23a7d969579a92a593e9de3f6",
+      "title": "19 năm Dai-ichi Life Việt Nam kiến tạo niềm tin ‘Tất cả vì con người’",
+      "link": "https://thanhnien.vn/19-nam-dai-ichi-life-viet-nam-kien-tao-niem-tin-tat-ca-vi-con-nguoi-185260129174651241.htm",
+      "summary": "Trải qua 19 năm hình thành và phát triển (18.1.2007 - 18.1.2026), Dai-ichi Life Việt Nam từng bước xây dựng niềm tin trở thành người bạn đồng hành tin cậy, cùng hàng triệu gia đình Việt vun đắp cuộc sống bình an và hướng tới tương lai an tâm tươi sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.931989+07:00"
+    },
+    {
+      "id": "5cbf2157f3a9fd542d1f0b45fd14a6b3",
+      "title": "Gia tăng tỷ lệ thành công trong IVF cùng các kỹ thuật hiện đại",
+      "link": "https://thanhnien.vn/gia-tang-ty-le-thanh-cong-trong-ivf-cung-cac-ky-thuat-hien-dai-18526012917324703.htm",
+      "summary": "Tại Việt Nam, khoảng 7,7% cặp vợ chồng trong độ tuổi sinh sản gặp tình trạng vô sinh - hiếm muộn. Giữa \"ma trận\" phương pháp điều trị, phác đồ cá thể hóa là chìa khóa giúp tăng cơ hội mang thai và tối ưu chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932142+07:00"
+    },
+    {
+      "id": "5d1d81795b669698e343cde8e22eb4a3",
+      "title": "Khi học bổng không chỉ chọn người giỏi, mà chọn người có nội lực",
+      "link": "https://thanhnien.vn/khi-hoc-bong-khong-chi-chon-nguoi-gioi-ma-chon-nguoi-co-noi-luc-185260129164035908.htm",
+      "summary": "Trường đại học Anh Quốc Việt Nam triển khai Chương trình Học bổng BUV 2026, đồng hành cùng thế hệ trẻ, mở ra cơ hội học tập trong môi trường giáo dục quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932303+07:00"
+    },
+    {
+      "id": "e3a761f69a25860ca347b89b6d9962c5",
+      "title": "Loạt laptop AI tiên phong dùng chip Ryzen AI 400 Series mới ở Việt Nam",
+      "link": "https://thanhnien.vn/loat-laptop-ai-tien-phong-dung-chip-ryzen-ai-400-series-moi-o-viet-nam-185260129154324954.htm",
+      "summary": "Dải laptop AI Zenbook 14 và Vivobook S14/16 trang bị chip Ryzen AI 400 Series mới tại thị trường Việt Nam cung cấp thêm lựa chọn tối ưu, cân bằng giữa thiết kế mỏng nhẹ, pin lâu và hiệu suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932459+07:00"
+    },
+    {
+      "id": "594519a9d33ccb5cf4243bd70d72ce8e",
+      "title": "Chuyên nghiệp, cuốn hút với set vest cho dân công sở",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chuyen-nghiep-cuon-hut-voi-set-vest-cho-dan-cong-so-185260129091852463.htm",
+      "summary": "Chinh phục phong cách thanh lịch mà vẫn chuyên nghiệp với những set trang phục vest đang trở thành lựa chọn lý tưởng của các quý cô công sở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932619+07:00"
+    },
+    {
+      "id": "81dd24eefbe94f6633bf2ea924fb2b16",
+      "title": "Lựa chọn đồng hồ cao cấp cho năm Bính Ngọ",
+      "link": "https://vnexpress.net/lua-chon-dong-ho-cao-cap-cho-nam-binh-ngo-5011260.html",
+      "summary": "Các nhà chế tác đồng hồ cao cấp Thụy Sĩ tung loạt thiết kế linh vật ngựa độc đáo mang màu sắc Á đông, chào đón năm Bính Ngọ 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:17.597036+07:00"
+    },
+    {
+      "id": "e6d0affed270250afa4b38cff9dde0c8",
+      "title": "Loạt laptop AI dùng AMD Ryzen AI 400 series mới từ Asus",
+      "link": "https://vnexpress.net/loat-laptop-ai-dung-amd-ryzen-ai-400-series-moi-tu-asus-5011488.html",
+      "summary": "Chip AMD Ryzen AI 400 series trên Zenbook 14 và Vivobook S14 hứa hẹn là lựa chọn cho người dùng tìm kiếm laptop AI mỏng nhẹ, thời lượng pin lâu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:20.553208+07:00"
+    },
+    {
+      "id": "09cd2e72cdd70be4fe8896527744c476",
+      "title": "Tủ lạnh âm tường LG tiết kiệm không gian cho nhà bếp",
+      "link": "https://vnexpress.net/tu-lanh-am-tuong-lg-tiet-kiem-khong-gian-cho-nha-bep-5011469.html",
+      "summary": "LG French Door thiết kế âm tường 595 mm, theo chuẩn tủ bếp căn hộ, giúp tiết kiệm diện tích, tích hợp các công nghệ bảo quản phù hợp nhu cầu gia đình Việt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-01-30T01:00:00+07:00",
+      "fetched": "2026-01-30T08:50:20.553365+07:00"
+    },
+    {
+      "id": "bb61f88c6664a431fd9dd3058697402e",
+      "title": "Khủng hoảng RAM, Xiaomi tung Redmi Note 15 Pro 'nồi đồng cối đá'",
+      "link": "https://thanhnien.vn/khung-hoang-ram-xiaomi-tung-redmi-note-15-pro-noi-dong-coi-da-18526012915452606.htm",
+      "summary": "Cuộc khủng hoảng RAM làm tăng giá linh kiện và khiến các thương hiệu smartphone Android như Xiaomi phải chọn hướng đi khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T00:54:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932788+07:00"
+    },
+    {
+      "id": "84111c3d40cc17e0736f31cbbea7d207",
+      "title": "Cắm USB-C tưởng đơn giản nhưng nhiều người vẫn dùng sai",
+      "link": "https://thanhnien.vn/cam-usb-c-tuong-don-gian-nhung-nhieu-nguoi-van-dung-sai-185260129184919377.htm",
+      "summary": "Nhiều người đã quen thuộc với việc cắm thiết bị vào cổng USB nhưng phải lật ngược đầu cắm mới có thể kết nối thành công, nhưng USB-C lại khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T00:46:00+07:00",
+      "fetched": "2026-01-30T08:50:12.932946+07:00"
+    },
+    {
+      "id": "01659f565964804334666e114c7b4d22",
+      "title": "Công an TP.HCM cảnh báo loạt chiêu trò lừa đảo tăng mạnh dịp tết",
+      "link": "https://thanhnien.vn/cong-an-tphcm-canh-bao-loat-chieu-tro-lua-dao-tang-manh-dip-tet-185260129193701566.htm",
+      "summary": "Vào dịp Tết Nguyên đán, các chiêu trò lừa đảo trên không gian mạng bùng phát mạnh. Công an TP.HCM cảnh báo người dân cần đặc biệt cảnh giác để tránh 'sập bẫy'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T00:36:00+07:00",
+      "fetched": "2026-01-30T08:50:12.933101+07:00"
+    },
+    {
+      "id": "970c86f15a58690cea101ee18f37401e",
+      "title": "Giá vàng thế giới quay đầu giảm",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-5011698.html",
+      "summary": "Sau nhiều phiên liên tiếp lập kỷ lục, giá vàng thế giới đảo chiều khi nhà đầu tư bán chốt lời, có thời điểm xuống sát 5.100 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T00:35:35+07:00",
+      "fetched": "2026-01-30T08:50:17.596185+07:00"
+    },
+    {
+      "id": "cac6b370de8e951d7bbc3a0d40c4bf60",
+      "title": "Lao động thời vụ được săn đón mùa tết",
+      "link": "https://thanhnien.vn/lao-dong-thoi-vu-duoc-san-don-mua-tet-185260129192631256.htm",
+      "summary": "Cận Tết Nguyên đán Bính Ngọ, nhu cầu tuyển dụng lao động thời vụ tại Hà Nội và nhiều địa phương tăng mạnh, đặc biệt trong các lĩnh vực bán lẻ, dịch vụ ăn uống, logistics. Dù mức lương ngày tết cao, nhưng nhiều doanh nghiệp vẫn chưa tuyển đủ người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T00:35:00+07:00",
+      "fetched": "2026-01-30T08:50:12.933255+07:00"
+    },
+    {
+      "id": "2454a26ee4b9421bbe53225c6001f97a",
+      "title": "Iran nêu kịch bản tấn công tàu sân bay Mỹ",
+      "link": "https://vnexpress.net/iran-neu-kich-ban-tan-cong-tau-san-bay-my-5011692.html",
+      "summary": "Iran cho rằng các tàu sân bay Mỹ \"có những điểm yếu nghiêm trọng\" và Tehran sẽ nhắm vào chúng trong trường hợp bị Washington tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T00:24:35+07:00",
+      "fetched": "2026-01-30T08:50:15.956584+07:00"
+    },
+    {
+      "id": "a1adedcc4576f2b1cfc8ada34a245c28",
+      "title": "Ông Trump: Nga đồng ý ngừng không kích Ukraine trong đợt giá rét khắc nghiệt",
+      "link": "https://vnexpress.net/ong-trump-nga-dong-y-ngung-khong-kich-ukraine-trong-dot-gia-ret-khac-nghiet-5011691.html",
+      "summary": "Ông Trump cho biết Tổng thống Putin đã đồng ý với đề nghị của ông về việc ngừng không kích Kiev và các thành phố khác của Ukraine trong một tuần do thời tiết giá rét cực đoan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T00:00:05+07:00",
+      "fetched": "2026-01-30T08:50:15.956764+07:00"
+    },
+    {
+      "id": "8e9f30bf754ab56813c152ee7a330fee",
+      "title": "Roy Keane đổi ý về Carrick",
+      "link": "https://vnexpress.net/roy-keane-doi-y-ve-carrick-5011687.html",
+      "summary": "Roy Keane bất ngờ bày tỏ hy vọng Michael Carrick được bổ nhiệm làm HLV trưởng chính thức của Man Utd, dù trước đó gay gắt phản đối và vướng tranh cãi cá nhân liên quan đến vợ của nhà cầm quân người Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T23:26:45+07:00",
+      "fetched": "2026-01-30T08:50:23.275775+07:00"
+    },
+    {
+      "id": "44c933ac30f8f7a0600125976d0b2a62",
+      "title": "Silva: 'Arsenal tự trao hy vọng vô địch cho Man City'",
+      "link": "https://vnexpress.net/silva-arsenal-tu-trao-hy-vong-vo-dich-cho-man-city-5011688.html",
+      "summary": "Tiền vệ Bernardo Silva cho rằng Arsenal đã đánh rơi lợi thế, qua đó mở ra hy vọng để Man City tiếp tục bám đuổi trong cuộc đua Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T23:21:10+07:00",
+      "fetched": "2026-01-30T08:50:23.275943+07:00"
+    },
+    {
+      "id": "ff2712b88a8b8fa868afcbfcb524ef24",
+      "title": "Senegal, Morocco bị phạt hơn 1 triệu USD",
+      "link": "https://vnexpress.net/senegal-morocco-bi-phat-hon-1-trieu-usd-5011686.html",
+      "summary": "Hai đội tuyển Senegal và Morocco phải nộp tổng cộng hơn 1 triệu USD sau hàng loạt hành vi phi thể thao, làm gián đoạn và gây hình ảnh xấu cho bóng đá châu Phi ở chung kết Cup châu Phi (AFCON).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T23:16:31+07:00",
+      "fetched": "2026-01-30T08:50:23.276103+07:00"
+    },
+    {
+      "id": "576cb8472ae78dafbbb2ddd25bb307e8",
+      "title": "Trung Quốc cấm trọn đời 73 nhân vật bóng đá",
+      "link": "https://vnexpress.net/trung-quoc-cam-tron-doi-73-nhan-vat-bong-da-5011666.html",
+      "summary": "Trung Quốc cấm trọn đời 73 cá nhân tham gia các hoạt động bóng đá, trừ điểm 13 CLB hàng đầu vì tiêu cực và dàn xếp tỷ số.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T23:13:22+07:00",
+      "fetched": "2026-01-30T08:50:23.276258+07:00"
+    },
+    {
+      "id": "bec5bced86d359453fd9567ab1072cb4",
+      "title": "Slot phản bác chỉ trích về phát ngôn Champions League",
+      "link": "https://vnexpress.net/slot-phan-bac-chi-trich-ve-phat-ngon-champions-league-5011689.html",
+      "summary": "HLV Arne Slot lên tiếng bảo vệ bản thân trước làn sóng phản ứng dữ dội từ người hâm mộ Liverpool, xoay quanh phát biểu gây tranh cãi về việc đội bóng bị loại sớm khỏi Champions League mùa 2024-2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T23:10:51+07:00",
+      "fetched": "2026-01-30T08:50:23.276431+07:00"
+    },
+    {
       "id": "61f0fbc64b1ca622d2bcb6885d42ce74",
       "title": "Chiến sự Ukraine khắc nghiệt giữa băng giá",
       "link": "https://thanhnien.vn/chien-su-ukraine-khac-nghiet-giua-bang-gia-185260129213332406.htm",
@@ -251,6 +851,16 @@ window.newsData_2026_01_30 = {
       "category": "Công nghệ",
       "published": "2026-01-29T22:00:00+07:00",
       "fetched": "2026-01-30T05:25:02.047237+07:00"
+    },
+    {
+      "id": "10298e86c2de44e950a8d3e723d90e3b",
+      "title": "Djokovic - Sinner: Trông chờ vận may",
+      "link": "https://vnexpress.net/djokovic-sinner-trong-cho-van-may-5011536.html",
+      "summary": "Kỷ lục gia 10 lần vô địch Novak Djokovic sẽ cần tới nhiều may mắn để phục thù đàn em Jannik Sinner tại bán kết Australia Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-29T22:00:00+07:00",
+      "fetched": "2026-01-30T08:50:23.275597+07:00"
     },
     {
       "id": "5bdb1fb3720ca185209c7475dea73cc1",
