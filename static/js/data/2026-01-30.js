@@ -1,7 +1,157 @@
 window.newsData_2026_01_30 = {
   "date": "2026-01-30",
-  "lastUpdated": "2026-01-30T21:33:37.294451+07:00",
+  "lastUpdated": "2026-01-30T23:35:36.492310+07:00",
   "articles": [
+    {
+      "id": "51a9c34bacb32b3c1a0e983172be54d5",
+      "title": "Thêm một tàu chiến Mỹ cập cảng Trung Đông giữa căng thẳng với Iran",
+      "link": "https://tuoitre.vn/them-mot-tau-chien-my-cap-cang-trung-dong-giua-cang-thang-voi-iran-20260130190612577.htm",
+      "summary": "Tàu khu trục tên lửa USS Delbert D.Black của Mỹ cập cảng Eilat, Israel trong bối cảnh căng thẳng Mỹ và Iran leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.376552+07:00",
+      "fetched": "2026-01-30T23:35:29.376665+07:00"
+    },
+    {
+      "id": "ee47d0205500e743c1c96ca18f59be98",
+      "title": "Bộ đội pháo phòng không Trung đoàn 224 trổ tài gói bánh chưng ngày Tết",
+      "link": "https://tuoitre.vn/bo-doi-phao-phong-khong-trung-doan-224-tro-tai-goi-banh-chung-ngay-tet-20260130172641456.htm",
+      "summary": "Bên công viên bờ đông cầu Rồng (Đà Nẵng), gian trưng bày của bộ đội Trung đoàn 224, Sư đoàn 375 (Quân chủng Phòng không - Không quân) gây thích thú với kiểu bài trí Tết xưa và những cặp bánh chưng vuông vức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.376421+07:00",
+      "fetched": "2026-01-30T23:35:29.376540+07:00"
+    },
+    {
+      "id": "2589b470d1d8dbb29dc9590cc10514a2",
+      "title": "Việt kiều Thụy Điển giúp CLB Bắc Ninh trở lại đường đua vô địch",
+      "link": "https://tuoitre.vn/viet-kieu-thuy-dien-giup-clb-bac-ninh-tro-lai-duong-dua-vo-dich-20260130191808108.htm",
+      "summary": "Bàn thắng duy nhất của tiền vệ Việt kiều Eddie Tran (Thụy Điển) đã giúp CLB Bắc Ninh thắng TP.HCM và trở lại cuộc đua vô địch ở Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.376294+07:00",
+      "fetched": "2026-01-30T23:35:29.376410+07:00"
+    },
+    {
+      "id": "2b459e43ed368f99fc88643f18decde7",
+      "title": "Bộ Xây dựng giải thích thêm về việc bỏ cấp phép xây dựng với nhà ở riêng lẻ",
+      "link": "https://tuoitre.vn/bo-xay-dung-giai-thich-them-ve-viec-bo-cap-phep-xay-dung-voi-nha-o-rieng-le-20260130192724528.htm",
+      "summary": "Thông tin được cục phó Cục Kinh tế - Quản lý đầu tư xây dựng cho biết trong cuộc họp báo thường kỳ và gặp mặt báo chí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.376162+07:00",
+      "fetched": "2026-01-30T23:35:29.376283+07:00"
+    },
+    {
+      "id": "18b4dd7da168ea06dad1c7ec1dcb2441",
+      "title": "Vinatex lãi gấp đôi, vẫn có doanh nghiệp ngành dệt may  'đuối sức'",
+      "link": "https://tuoitre.vn/vinatex-lai-gap-doi-van-co-doanh-nghiep-nganh-det-may-duoi-suc-20260130201053261.htm",
+      "summary": "Lợi nhuận năm 2025 của các doanh nghiệp dệt may có cải thiện, nhưng đà phục hồi giữa các doanh nghiệp cùng ngành còn chênh lệch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.376037+07:00",
+      "fetched": "2026-01-30T23:35:29.376151+07:00"
+    },
+    {
+      "id": "1f796fdd194eeda2c4fd981f6ac3470b",
+      "title": "Xã cửa ngõ TP.HCM khánh thành Trung tâm phục vụ hành chính công với mức đầu tư hơn 2 tỉ đồng",
+      "link": "https://tuoitre.vn/xa-cua-ngo-tp-hcm-khanh-thanh-trung-tam-phuc-vu-hanh-chinh-cong-voi-muc-dau-tu-hon-2-ti-dong-20260130193211741.htm",
+      "summary": "Chiều 30-1, UBND xã Thái Mỹ (TP.HCM, giáp tỉnh Tây Ninh) khánh thành và đưa vào hoạt động Trung tâm phục vụ hành chính công, nâng cao chất lượng phục vụ các yêu cầu của người dân, doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375908+07:00",
+      "fetched": "2026-01-30T23:35:29.376026+07:00"
+    },
+    {
+      "id": "b9c31228cb3d347d805b9adf01d3e840",
+      "title": "Người nổi tiếng quảng cáo 'nổ': Không nhận tiền, vẫn có thể dính án phạt",
+      "link": "https://tuoitre.vn/nguoi-noi-tieng-quang-cao-no-khong-nhan-tien-van-co-the-dinh-an-phat-20260130190201839.htm",
+      "summary": "Nhiều quảng cáo núp bóng 'trải nghiệm cá nhân', 'tôi dùng thấy tốt nên chia sẻ cho mọi người', vẫn có thể bị xử phạt nặng dù không trực tiếp nhận tiền hay hoa hồng. Cơ quan chức năng có thể gọi điện để yêu cầu dừng, gỡ ngay livestream.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375756+07:00",
+      "fetched": "2026-01-30T23:35:29.375895+07:00"
+    },
+    {
+      "id": "7c0cd56c9b415ed4ebf353be45ab9c10",
+      "title": "Nhà sư chia sẻ nội dung 'chữa lành' gây sốt mạng xã hội là sản phẩm của AI",
+      "link": "https://tuoitre.vn/nha-su-chia-se-noi-dung-chua-lanh-gay-sot-mang-xa-hoi-la-san-pham-cua-ai-20260130152026885.htm",
+      "summary": "Một nhà sư với những lời khuyên giúp chữa lành đã thu hút hàng triệu người theo dõi trên mạng xã hội, song thực chất là sản phẩm AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375632+07:00",
+      "fetched": "2026-01-30T23:35:29.375744+07:00"
+    },
+    {
+      "id": "a7f4c3169071fe4daac3718e29c4e101",
+      "title": "Công an Khánh Hòa sẽ tôn tạo các nhà đẹp, xây thời Pháp ở Nha Trang cho cả cộng đồng",
+      "link": "https://tuoitre.vn/cong-an-khanh-hoa-se-ton-tao-cac-nha-dep-xay-thoi-phap-o-nha-trang-cho-ca-cong-dong-20260130170724702.htm",
+      "summary": "Theo giám đốc Công an tỉnh Khánh Hòa, cơ quan này sẽ sắp xếp các đơn vị liên quan để tôn tạo các biệt thự kiến trúc, xây thời Pháp ở Nha Trang thành không gian văn hóa cho người dân, du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375506+07:00",
+      "fetched": "2026-01-30T23:35:29.375620+07:00"
+    },
+    {
+      "id": "94b0d8ce5d127fd46c87bb37ff7c2a07",
+      "title": "Kevin Warsh, người được ông Trump đề cử làm Chủ tịch Fed là ai?",
+      "link": "https://tuoitre.vn/kevin-warsh-nguoi-duoc-ong-trump-de-cu-lam-chu-tich-fed-la-ai-20260130202221639.htm",
+      "summary": "Ông Trump đã đề cử cựu thành viên Hội đồng thống đốc Fed Kevin Warsh làm Chủ tịch Fed kế nhiệm ông Jerome Powell.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375375+07:00",
+      "fetched": "2026-01-30T23:35:29.375494+07:00"
+    },
+    {
+      "id": "9669371b1c0a92ce93798298ecf4eff5",
+      "title": "‘Tự hào cơ đồ Việt Nam’ 80 năm qua",
+      "link": "https://tuoitre.vn/tu-hao-co-do-viet-nam-80-nam-qua-20260130191830008.htm",
+      "summary": "Cuốn sách ‘Tự hào cơ đồ Việt Nam’ mang tới bức tranh toàn cảnh, sinh động về một Việt Nam với những thành tựu to lớn, có ý nghĩa lịch sử qua 80 năm thành lập nước, đặc biệt là những thành tựu qua 40 năm đổi mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375242+07:00",
+      "fetched": "2026-01-30T23:35:29.375359+07:00"
+    },
+    {
+      "id": "88d3ccb7916a4a648a36a688aacf7440",
+      "title": "'Siêu nhân' trở lại, CLB Phú Thọ hạ đẹp Quảng Ninh",
+      "link": "https://tuoitre.vn/sieu-nhan-tro-lai-clb-phu-tho-ha-dep-quang-ninh-2026013020494345.htm",
+      "summary": "\"Siêu nhân\" Trần Gia Huy đã ghi bàn trong ngày ra mắt, giúp CLB Phú Thọ hạ Quảng Ninh 3-0 ở Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.375111+07:00",
+      "fetched": "2026-01-30T23:35:29.375230+07:00"
+    },
+    {
+      "id": "68594a0d5143ee09127bbb62c25b16c2",
+      "title": "Bí thư Hà Nội: Nói ít, làm nhiều, làm hiệu quả đến cùng vì lợi ích người dân",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-noi-it-lam-nhieu-lam-hieu-qua-den-cung-vi-loi-ich-nguoi-dan-20260130210139926.htm",
+      "summary": "Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc phát biểu như vậy tại hội nghị giao ban công tác tháng 1, triển khai nhiệm vụ tháng 2-2026 diễn ra chiều 30-1 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.374972+07:00",
+      "fetched": "2026-01-30T23:35:29.375099+07:00"
+    },
+    {
+      "id": "4698d11bf3ecec9106c2feaa85e2baca",
+      "title": "Hòa Phát đạt 15.515 tỉ đồng lợi nhuận sau thuế, mảng gia dụng doanh thu gấp 5 lần",
+      "link": "https://tuoitre.vn/hoa-phat-dat-15-515-ti-dong-loi-nhuan-sau-thue-mang-gia-dung-doanh-thu-gap-5-lan-2026013021001188.htm",
+      "summary": "Lũy kế cả năm 2025, Tập đoàn Hòa Phát (HPG) đạt 158.332 tỉ đồng doanh thu, 15.515 tỉ đồng lợi nhuận sau thuế, lần lượt đạt 93% và 103% kế hoạch đề ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.374808+07:00",
+      "fetched": "2026-01-30T23:35:29.374958+07:00"
+    },
+    {
+      "id": "22e21a410b2ab853589aef59ce182add",
+      "title": "Futsal Việt Nam muốn né Indonesia ở tứ kết giải châu Á",
+      "link": "https://tuoitre.vn/futsal-viet-nam-muon-ne-indonesia-o-tu-ket-giai-chau-a-20260130212515669.htm",
+      "summary": "HLV đội tuyển futsal Việt Nam Diego Giustozzi bày tỏ muốn gặp Iraq ở tứ kết Giải futsal châu Á 2026 hơn là chủ nhà Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T23:35:29.374566+07:00",
+      "fetched": "2026-01-30T23:35:29.374777+07:00"
+    },
     {
       "id": "39bed72149352a1430cf1676676c111a",
       "title": "Thực hư tin lực lượng liên ngành Mỹ bắt hơn 5.000 thành viên băng đảng ở Minneapolis",
@@ -303,6 +453,46 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T17:30:46.200403+07:00"
     },
     {
+      "id": "0bd0e88846a326b185cd072f9b24d8c1",
+      "title": "Ảnh vệ tinh trận địa Patriot đặt gần Iran",
+      "link": "https://vnexpress.net/anh-ve-tinh-tran-dia-patriot-dat-gan-iran-5012011.html",
+      "summary": "Mỹ triển khai loạt bệ phóng của tổ hợp phòng không Patriot tại căn cứ Al Udeid ở Qatar, được cho là đề phòng kịch bản bị Iran tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T16:18:16+07:00",
+      "fetched": "2026-01-30T23:35:30.702049+07:00"
+    },
+    {
+      "id": "9ad911c98daae4add2628d1762eb35d9",
+      "title": "Ông Trump đề cử Chủ tịch Fed tiếp theo",
+      "link": "https://thanhnien.vn/ong-trump-de-cu-chu-tich-fed-tiep-theo-185260130223714832.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 30.1 thông báo đề cử cựu Thống đốc Cục Dự trữ Liên bang (Fed) Kevin Warsh làm người đứng đầu ngân hàng trung ương Mỹ tiếp theo, kế nhiệm ông Jerome Powell.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T16:08:00+07:00",
+      "fetched": "2026-01-30T23:35:28.576557+07:00"
+    },
+    {
+      "id": "3760db82f23aa2e3b546b42a4564708c",
+      "title": "Mỹ đối mặt hàng trăm cuộc biểu tình chống ICE trên toàn quốc",
+      "link": "https://vnexpress.net/my-doi-mat-hang-tram-cuoc-bieu-tinh-chong-ice-tren-toan-quoc-5012029.html",
+      "summary": "Hàng trăm cuộc biểu tình dự kiến diễn ra tại 50 bang của Mỹ trong ngày 30-31/1 nhằm phản đối các hành động truy quét nhập cư của ICE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:52:49+07:00",
+      "fetched": "2026-01-30T23:35:25.037905+07:00"
+    },
+    {
+      "id": "3760db82f23aa2e3b546b42a4564708c",
+      "title": "Mỹ đối mặt hàng trăm cuộc biểu tình chống ICE trên toàn quốc",
+      "link": "https://vnexpress.net/my-doi-mat-hang-tram-cuoc-bieu-tinh-chong-ice-tren-toan-quoc-5012029.html",
+      "summary": "Hàng trăm cuộc biểu tình dự kiến diễn ra tại 50 bang của Mỹ trong ngày 30-31/1 nhằm phản đối các hành động truy quét nhập cư của ICE.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T15:52:49+07:00",
+      "fetched": "2026-01-30T23:35:30.702237+07:00"
+    },
+    {
       "id": "c0518f8840a8a8c841e8ea7e343cd119",
       "title": "Taylor Swift không biểu diễn tại lễ trao giải Grammy 2026",
       "link": "https://tuoitre.vn/taylor-swift-khong-bieu-dien-tai-le-trao-giai-grammy-2026-20260130104204405.htm",
@@ -453,6 +643,146 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T15:34:32.630821+07:00"
     },
     {
+      "id": "d11bd6af2ae4f78a73e239413fb0394b",
+      "title": "Em mong tìm thấy tình yêu và sự đồng hành của anh",
+      "link": "https://vnexpress.net/em-mong-tim-thay-tinh-yeu-va-su-dong-hanh-cua-anh-5010958.html",
+      "summary": "Ước mong một bờ vai tựa vào cho giấc ngủ ngon hơn, em còn thiếu một tình yêu nữa và chờ đợi ở bài viết này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:27:07+07:00",
+      "fetched": "2026-01-30T23:35:25.038041+07:00"
+    },
+    {
+      "id": "320b302693676cc28f87bffd978e3a5d",
+      "title": "Thuê công ty Tây Ban Nha lập báo cáo khả thi đường sắt tốc độ cao Bắc Nam",
+      "link": "https://vnexpress.net/thue-cong-ty-tay-ban-nha-lap-bao-cao-kha-thi-duong-sat-toc-do-cao-bac-nam-5012087.html",
+      "summary": "Bộ Xây dựng đã thuê Công ty tư vấn Ineco của Tây Ban Nha lập báo cáo nghiên cứu khả thi dự án đường sắt tốc độ cao Bắc Nam, làm cơ sở đánh giá kỹ thuật, công nghệ, tổng mức đầu tư và mô hình đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:23:14+07:00",
+      "fetched": "2026-01-30T23:35:25.038219+07:00"
+    },
+    {
+      "id": "af66b7a79ac2126d03cea4ce34c9f700",
+      "title": "Vụ 6 cựu chiến binh kêu oan: Tòa tiếp tục tuyên phạt 7 tháng tù",
+      "link": "https://thanhnien.vn/vu-6-cuu-chien-binh-keu-oan-toa-tiep-tuc-tuyen-phat-7-thang-tu-185260130212519833.htm",
+      "summary": "Sau 2 ngày xét xử và nghị án, chiều 30.1.2026, TAND khu vực 6 (tỉnh Lâm Đồng) đã tuyên án sơ thẩm đối với 6 cựu chiến binh bị truy tố về tội \"hủy hoại rừng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:05:00+07:00",
+      "fetched": "2026-01-30T23:35:28.576740+07:00"
+    },
+    {
+      "id": "35c76eef6815bc16f3ad54ceaa9ec823",
+      "title": "Tên trộm gây rò rỉ khí gas khiến chung cư ở New York cháy",
+      "link": "https://vnexpress.net/ten-trom-gay-ro-ri-khi-gas-khien-chung-cu-o-new-york-chay-5012078.html",
+      "summary": "Samuel Calderon, 55 tuổi, bị công an bắt giữ với cáo buộc gây ra vụ hỏa hoạn tại chung cư 17 tầng ở Bronx hôm 24/1, khiến một người thiệt mạng và 15 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:04:40+07:00",
+      "fetched": "2026-01-30T23:35:25.038385+07:00"
+    },
+    {
+      "id": "ca992d0bab76e992d973ac458ae7794b",
+      "title": "Djokovic hạ Sinner, vào chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/djokovic-ha-sinner-vao-chung-ket-australia-mo-rong-5012088.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic thắng hạt giống số hai Jannik Sinner 3-6, 6-3, 4-6, 6-4, 6-4 ở bán kết Australia Mở rộng hôm 30/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:00:38+07:00",
+      "fetched": "2026-01-30T23:35:25.038551+07:00"
+    },
+    {
+      "id": "ca992d0bab76e992d973ac458ae7794b",
+      "title": "Djokovic hạ Sinner, vào chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/djokovic-ha-sinner-vao-chung-ket-australia-mo-rong-5012088.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic thắng hạt giống số hai Jannik Sinner 3-6, 6-3, 4-6, 6-4, 6-4 ở bán kết Australia Mở rộng hôm 30/1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-30T15:00:38+07:00",
+      "fetched": "2026-01-30T23:35:36.479183+07:00"
+    },
+    {
+      "id": "e06a2e787c7795cfa8115600ebc19752",
+      "title": "Tôi hối hận ngay khi cho con học Tiếng Anh từ ba tuổi",
+      "link": "https://vnexpress.net/toi-hoi-han-ngay-khi-cho-con-hoc-tieng-anh-tu-ba-tuoi-5011973.html",
+      "summary": "Nhiều người khuyên tôi nên cho con học Tiếng Anh ngay từ ba tuổi, nếu không sẽ 'lỡ mất giai đoạn vàng'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:00:00+07:00",
+      "fetched": "2026-01-30T23:35:25.038711+07:00"
+    },
+    {
+      "id": "4163961fa85b3588951ed62cb75d2587",
+      "title": "Những kiểu tóc ngắn đẹp cho mùa xuân 2026, cắt là thăng hạng nhan sắc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-kieu-toc-ngan-dep-cho-mua-xuan-2026-cat-la-thang-hang-nhan-sac-185260126124101916.htm",
+      "summary": "Mùa xuân 2026 vẫn là mùa của tóc ngắn và mạng xã hội tràn ngập hình ảnh các kiểu tóc ngắn đẹp, sang trọng và tôn gương mặt một cách thần kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T15:00:00+07:00",
+      "fetched": "2026-01-30T23:35:28.576929+07:00"
+    },
+    {
+      "id": "33fedc3a32173b7129029fd1758bfb3e",
+      "title": "ASEAN - Trung Quốc nhất trí đẩy nhanh đàm phán Bộ Quy tắc ứng xử ở Biển Đông",
+      "link": "https://vnexpress.net/asean-trung-quoc-nhat-tri-day-nhanh-dam-phan-bo-quy-tac-ung-xu-o-bien-dong-5012081.html",
+      "summary": "Các nước ASEAN và Trung Quốc họp ở Philippines để trao đổi về tình hình Biển Đông, nhất trí cần đẩy nhanh đàm phán nhằm sớm đạt được một Bộ Quy tắc hiệu lực, thực chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T14:43:45+07:00",
+      "fetched": "2026-01-30T23:35:25.038892+07:00"
+    },
+    {
+      "id": "33fedc3a32173b7129029fd1758bfb3e",
+      "title": "ASEAN - Trung Quốc nhất trí đẩy nhanh đàm phán Bộ Quy tắc ứng xử ở Biển Đông",
+      "link": "https://vnexpress.net/asean-trung-quoc-nhat-tri-day-nhanh-dam-phan-bo-quy-tac-ung-xu-o-bien-dong-5012081.html",
+      "summary": "Các nước ASEAN và Trung Quốc họp ở Philippines để trao đổi về tình hình Biển Đông, nhất trí cần đẩy nhanh đàm phán nhằm sớm đạt được một Bộ Quy tắc hiệu lực, thực chất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-01-30T14:43:45+07:00",
+      "fetched": "2026-01-30T23:35:30.702418+07:00"
+    },
+    {
+      "id": "dfd4d412ac35de2abfca5b40af96fb84",
+      "title": "Công ty của bầu Đức lãi kỷ lục",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-lai-ky-luc-5012080.html",
+      "summary": "Hoàng Anh Gia Lai ghi nhận lợi nhuận sau thuế 2.243 tỷ đồng năm 2025 - cao kỷ lục, trong bối cảnh doanh nghiệp hoàn tất tái cơ cấu trái phiếu và cải thiện dòng tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T14:37:40+07:00",
+      "fetched": "2026-01-30T23:35:25.039049+07:00"
+    },
+    {
+      "id": "dfd4d412ac35de2abfca5b40af96fb84",
+      "title": "Công ty của bầu Đức lãi kỷ lục",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-lai-ky-luc-5012080.html",
+      "summary": "Hoàng Anh Gia Lai ghi nhận lợi nhuận sau thuế 2.243 tỷ đồng năm 2025 - cao kỷ lục, trong bối cảnh doanh nghiệp hoàn tất tái cơ cấu trái phiếu và cải thiện dòng tiền.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T14:37:40+07:00",
+      "fetched": "2026-01-30T23:35:31.771661+07:00"
+    },
+    {
+      "id": "d1ef83b383d9d0168d9d79cd94e6a1a8",
+      "title": "Novaland trở lại mức lãi nghìn tỷ",
+      "link": "https://vnexpress.net/novaland-tro-lai-muc-lai-nghin-ty-5012007.html",
+      "summary": "Nhờ tiết giảm giá vốn, chi phí tài chính, được hoàn nhập tiền thuê và sử dụng đất, Novaland báo lãi hơn 1.800 tỷ đồng trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T14:24:01+07:00",
+      "fetched": "2026-01-30T23:35:25.039201+07:00"
+    },
+    {
+      "id": "d1ef83b383d9d0168d9d79cd94e6a1a8",
+      "title": "Novaland trở lại mức lãi nghìn tỷ",
+      "link": "https://vnexpress.net/novaland-tro-lai-muc-lai-nghin-ty-5012007.html",
+      "summary": "Nhờ tiết giảm giá vốn, chi phí tài chính, được hoàn nhập tiền thuê và sử dụng đất, Novaland báo lãi hơn 1.800 tỷ đồng trong năm 2025.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-30T14:24:01+07:00",
+      "fetched": "2026-01-30T23:35:31.771869+07:00"
+    },
+    {
       "id": "2f045680ad040b727fb17214e3827785",
       "title": "HLV đội tuyển Việt Nam tuyên bố bất ngờ: 'Nếu được chọn, tôi không muốn gặp Indonesia ở tứ kết châu Á’",
       "link": "https://thanhnien.vn/hlv-doi-tuyen-viet-nam-tuyen-bo-bat-ngo-neu-duoc-chon-toi-khong-muon-gap-indonesia-o-tu-ket-chau-a-185260130210410237.htm",
@@ -493,6 +823,16 @@ window.newsData_2026_01_30 = {
       "fetched": "2026-01-30T21:33:30.104415+07:00"
     },
     {
+      "id": "ee3582d843608c5176a1acb379f83afc",
+      "title": "Bạn gái liên tục từ chối gặp tôi sau lần thứ hai hẹn hò",
+      "link": "https://vnexpress.net/yeu-xa-ban-gai-quen-mot-nam-lien-tuc-tu-choi-gap-toi-sau-hai-lan-hen-ho-5011956.html",
+      "summary": "Riết rồi việc từ chối gặp tôi như một thông lệ, kéo dài từ tháng 8 năm ngoái tới hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T14:00:00+07:00",
+      "fetched": "2026-01-30T23:35:25.039511+07:00"
+    },
+    {
       "id": "d1e0d88afe0d94c94c271efb404a94e1",
       "title": "Bạn gái xinh đẹp rủ bạn thân đi cổ vũ bạn trai đá giải sinh viên: 'Thấy bạn chấn thương em đau lòng'",
       "link": "https://thanhnien.vn/ban-gai-xinh-dep-ru-ban-than-di-co-vu-ban-trai-da-giai-sinh-vien-thay-ban-chan-thuong-em-dau-long-185260128030550267.htm",
@@ -501,6 +841,16 @@ window.newsData_2026_01_30 = {
       "category": "Tổng hợp",
       "published": "2026-01-30T13:54:00+07:00",
       "fetched": "2026-01-30T21:33:30.104566+07:00"
+    },
+    {
+      "id": "cfc1a536d713ab423a47bb04f64a8c3d",
+      "title": "Phụ huynh tất tả mang cơm cho con vì trường dừng bữa ăn bán trú",
+      "link": "https://vnexpress.net/phu-huynh-tat-ta-mang-com-cho-con-vi-truong-dung-bua-an-ban-tru-5012043.html",
+      "summary": "Chị Hồng phải ngược xuôi 2-3 lượt nấu nướng rồi mang cơm trưa cho hai con, khi trường dừng bữa ăn bán trú vì nghi thực phẩm bẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-30T13:51:08+07:00",
+      "fetched": "2026-01-30T23:35:25.039668+07:00"
     },
     {
       "id": "9d1e80343721c0d627a7fce20c831b30",
