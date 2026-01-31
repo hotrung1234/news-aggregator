@@ -1,6 +1,6 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T01:28:12.028703+07:00",
+  "lastUpdated": "2026-02-01T03:22:19.350908+07:00",
   "articles": [
     {
       "id": "70a84cb53a185fc87bd1366ddfe0b82a",
@@ -151,6 +151,36 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T01:28:06.010394+07:00",
       "fetched": "2026-02-01T01:28:06.010603+07:00"
+    },
+    {
+      "id": "8c4d4da1a36bb37f104719434a770be2",
+      "title": "Bitcoin thủng mốc 80.000 USD",
+      "link": "https://vnexpress.net/bitcoin-thung-moc-80-000-usd-5012404.html",
+      "summary": "Bitcoin lao dốc xuống sát 78.000 USD vào rạng sáng 1/2, tiệm cận vùng giá thấp nhất một năm, bởi lo ngại rủi ro địa chính trị gia tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-01-31T19:58:11+07:00",
+      "fetched": "2026-02-01T03:22:15.240630+07:00"
+    },
+    {
+      "id": "8ff010f8cf33363cffc54d88fd17fa84",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5012393.html",
+      "summary": "Arsenal cắt mạch ba trận không thắng, khi đè bẹp chủ nhà Leeds 4-0 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-01-31T18:32:23+07:00",
+      "fetched": "2026-02-01T03:22:08.747276+07:00"
+    },
+    {
+      "id": "8ff010f8cf33363cffc54d88fd17fa84",
+      "title": "Arsenal hơn Man City 7 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-7-diem-5012393.html",
+      "summary": "Arsenal cắt mạch ba trận không thắng, khi đè bẹp chủ nhà Leeds 4-0 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T18:32:23+07:00",
+      "fetched": "2026-02-01T03:22:19.346000+07:00"
     },
     {
       "id": "ddd49f9eb004553849944cfaf4201011",
