@@ -1,6 +1,6 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T12:20:36.289644+07:00",
+  "lastUpdated": "2026-02-01T13:44:43.919838+07:00",
   "articles": [
     {
       "id": "37eb2e14cf86464bc1913d179529c042",
@@ -273,6 +273,236 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T09:04:38.016770+07:00"
     },
     {
+      "id": "9cb1ac391f0467e234eb619bf5e97cf0",
+      "title": "Công an TP.HCM xác minh clip bốc đầu để quảng cáo cửa hàng độ xe",
+      "link": "https://thanhnien.vn/cong-an-tphcm-xac-minh-clip-boc-dau-de-quang-cao-cua-hang-do-xe-185260201125628245.htm",
+      "summary": "Mạng xã hội đang lan truyền các đoạn clip ghi lại cảnh nam thanh niên thường xuyên đăng tải các clip nẹt ga, bốc đầu, biểu diễn để quảng cáo cửa hàng độ xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:43:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819199+07:00"
+    },
+    {
+      "id": "28b81431de2f977fed580900f825aa34",
+      "title": "Đi bộ trên đường, người đàn ông ở TP.HCM bị xe tông tử vong",
+      "link": "https://thanhnien.vn/di-bo-tren-duong-nguoi-dan-ong-o-tphcm-bi-xe-tong-tu-vong-185260201131800737.htm",
+      "summary": "Đi bộ trên đường không có vạch kẻ dành cho người đi bộ, người đàn ông 54 tuổi bị xe máy tông tử vong trước cửa nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:34:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819365+07:00"
+    },
+    {
+      "id": "0f2becd81eba3f92e246f3f103f1234b",
+      "title": "Cháy văn phòng công ty thực phẩm ở Nha Trang",
+      "link": "https://vnexpress.net/chay-van-phong-cong-ty-thuc-pham-o-nha-trang-5012499.html",
+      "summary": "Văn phòng một công ty thực phẩm tại phường Bắc Nha Trang bốc cháy, thiêu rụi nhiều tài liệu và thiết bị, trưa 1/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:21:09+07:00",
+      "fetched": "2026-02-01T13:44:30.708594+07:00"
+    },
+    {
+      "id": "b66effc95bcf96390a5cfbc19fb8d39d",
+      "title": "Phó trưởng ban Tổ chức Trung ương trao quà tết cho người dân Quảng Ngãi",
+      "link": "https://thanhnien.vn/pho-truong-ban-to-chuc-trung-uong-trao-qua-tet-cho-nguoi-dan-quang-ngai-185260201124100309.htm",
+      "summary": "Bà Bùi Thị Quỳnh Vân, Phó trưởng ban Tổ chức Trung ương, trao quà cho người dân có hoàn cảnh khó khăn ở Quảng Ngãi nhân dịp Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:21:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819521+07:00"
+    },
+    {
+      "id": "5aedf5121a92159213187f057c47ace9",
+      "title": "CEO Nvidia lên tiếng về tin đồn bất hòa với OpenAI",
+      "link": "https://vnexpress.net/ceo-nvidia-len-tieng-ve-tin-don-bat-hoa-voi-openai-5012470.html",
+      "summary": "CEO Nvidia Jensen Huang phủ nhận thông tin ông không hài lòng với OpenAI, khẳng định sẽ đầu tư lớn vào công ty này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:18:52+07:00",
+      "fetched": "2026-02-01T13:44:30.708774+07:00"
+    },
+    {
+      "id": "5aedf5121a92159213187f057c47ace9",
+      "title": "CEO Nvidia lên tiếng về tin đồn bất hòa với OpenAI",
+      "link": "https://vnexpress.net/ceo-nvidia-len-tieng-ve-tin-don-bat-hoa-voi-openai-5012470.html",
+      "summary": "CEO Nvidia Jensen Huang phủ nhận thông tin ông không hài lòng với OpenAI, khẳng định sẽ đầu tư lớn vào công ty này.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T06:18:52+07:00",
+      "fetched": "2026-02-01T13:44:42.875995+07:00"
+    },
+    {
+      "id": "d8671b3fcc7b000a2fc7cd44798df73a",
+      "title": "Hai người chết, ba người nhập viện sau khi uống rượu ngâm",
+      "link": "https://vnexpress.net/hai-nguoi-chet-ba-nguoi-nhap-vien-sau-khi-uong-ruou-ngam-5012492.html",
+      "summary": "5 người ở xã Bình Trưng cùng uống rượu ngâm dây mỏ quạ, hôm sau lần lượt xuất hiện những triệu chứng bất thường phải nhập viện, hai người tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:08:58+07:00",
+      "fetched": "2026-02-01T13:44:30.708958+07:00"
+    },
+    {
+      "id": "4d55348131269f2d308767f4fc4fab73",
+      "title": "Lái xe bán tải đánh chết người sau 'va chạm cánh cửa' bị bắt",
+      "link": "https://vnexpress.net/lai-xe-ban-tai-danh-chet-nguoi-sau-va-cham-canh-cua-bi-bat-5012497.html",
+      "summary": "Mai Anh Nhật, 43 tuổi, đánh liên tiếp vào thái dương của tài xế 64 tuổi khi giải quyết va chạm giao thông, gây tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:05:44+07:00",
+      "fetched": "2026-02-01T13:44:30.709126+07:00"
+    },
+    {
+      "id": "6a0e829bc2ed62d9121cff1872da5b3a",
+      "title": "Nhìn từ tượng nữ thần Tự do đến màu sơn chợ Bến Thành",
+      "link": "https://vnexpress.net/nhin-tu-tuong-nu-than-tu-do-den-mau-son-cho-ben-thanh-5012489.html",
+      "summary": "Vì sao hễ mỗi khi chỉnh trang lại các công trình cổ, màu sắc là thứ được nhiều người quan tâm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:00:00+07:00",
+      "fetched": "2026-02-01T13:44:30.709284+07:00"
+    },
+    {
+      "id": "1c1dba1f55205d404832c680da45c089",
+      "title": "Cha con Bầu Thụy tăng sở hữu tại Chứng khoán LPBank",
+      "link": "https://vnexpress.net/cha-con-bau-thuy-tang-so-huu-tai-chung-khoan-lpbank-5012475.html",
+      "summary": "Ông Nguyễn Đức Thụy vừa nhận chuyển nhượng 151 triệu cổ phần LPBS, còn con trai nhận 83 triệu cổ phần, nâng tổng sở hữu lên gần 27% tại Chứng khoán LPBank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:00:00+07:00",
+      "fetched": "2026-02-01T13:44:30.709439+07:00"
+    },
+    {
+      "id": "743d68d258fbb3c7356b8b47bc7707a7",
+      "title": "Uống rượu trắng dễ say hơn rượu màu?",
+      "link": "https://vnexpress.net/uong-ruou-trang-de-say-hon-ruou-mau-5011675.html",
+      "summary": "Uống rượu trắng nguyên chất nồng độ cồn cao hơn nên dễ say hơn các loại rượu pha, rượu ngâm, đúng không bác sĩ? (Hoàng, 22 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:00:00+07:00",
+      "fetched": "2026-02-01T13:44:30.709592+07:00"
+    },
+    {
+      "id": "29bc72e4d9685b22d5580daf7ed5412a",
+      "title": "'Nàng thơ’ áo dài đẹp tựa tranh thủy mặc giữa lòng di sản thế giới",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nang-tho-ao-dai-dep-tua-tranh-thuy-mac-giua-long-di-san-the-gioi-185260131192549861.htm",
+      "summary": "Giữa non xanh nước biếc của di sản thế giới, những tà áo dài như hòa cùng thiên nhiên, tạo nên những khung hình tựa như tranh thủy mặc đầy chất thơ tại Tràng An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T06:00:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819673+07:00"
+    },
+    {
+      "id": "1c1dba1f55205d404832c680da45c089",
+      "title": "Cha con Bầu Thụy tăng sở hữu tại Chứng khoán LPBank",
+      "link": "https://vnexpress.net/cha-con-bau-thuy-tang-so-huu-tai-chung-khoan-lpbank-5012475.html",
+      "summary": "Ông Nguyễn Đức Thụy vừa nhận chuyển nhượng 151 triệu cổ phần LPBS, còn con trai nhận 83 triệu cổ phần, nâng tổng sở hữu lên gần 27% tại Chứng khoán LPBank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T06:00:00+07:00",
+      "fetched": "2026-02-01T13:44:38.891260+07:00"
+    },
+    {
+      "id": "701e01b3be3b8efd31ace2a2f5d5cf9b",
+      "title": "Người Thượng Hải xếp hàng bán vàng cho máy thu mua tự động",
+      "link": "https://vnexpress.net/nguoi-thuong-hai-xep-hang-ban-vang-cho-may-thu-mua-tu-dong-5012485.html",
+      "summary": "Hàng chục người xếp hàng, chờ đến lượt bán trang sức cho máy thu tự động tại trung tâm thương mại ở Thượng Hải khi giá vàng cao kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:59:51+07:00",
+      "fetched": "2026-02-01T13:44:30.709749+07:00"
+    },
+    {
+      "id": "701e01b3be3b8efd31ace2a2f5d5cf9b",
+      "title": "Người Thượng Hải xếp hàng bán vàng cho máy thu mua tự động",
+      "link": "https://vnexpress.net/nguoi-thuong-hai-xep-hang-ban-vang-cho-may-thu-mua-tu-dong-5012485.html",
+      "summary": "Hàng chục người xếp hàng, chờ đến lượt bán trang sức cho máy thu tự động tại trung tâm thương mại ở Thượng Hải khi giá vàng cao kỷ lục.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T05:59:51+07:00",
+      "fetched": "2026-02-01T13:44:37.042051+07:00"
+    },
+    {
+      "id": "15213eea0e88313cd84775e4c3ee8d05",
+      "title": "Mang xuân từ đất liền đến các nhà giàn DK1",
+      "link": "https://thanhnien.vn/mang-xuan-tu-dat-lien-den-cac-nha-gian-dk1-185260201122950254.htm",
+      "summary": "Từ ngày 16 - 30.1.2026, Bộ Tư lệnh Vùng 2 Hải quân đã tổ chức 2 đoàn đại biểu và phóng viên đi thăm, chúc tết các nhà giàn DK1, tàu trực và cơ quan dân chính Đảng đặc khu Côn Đảo nhân dịp xuân Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:46:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819821+07:00"
+    },
+    {
+      "id": "4b3d9ff2705876fd9e3c0ddd1b6cef36",
+      "title": "Thanh niên Cà Mau biến sân thượng thành khu vườn và giàn cà chua 'hái mỏi tay'",
+      "link": "https://thanhnien.vn/thanh-nien-ca-mau-bien-san-thuong-thanh-khu-vuon-va-gian-ca-chua-hai-moi-tay-185260201121426129.htm",
+      "summary": "Tận dụng khoảng sân thượng nhỏ, anh Lê Thanh Hiền (31 tuổi, ngụ Cà Mau) biến không gian tưởng chỉ để phơi quần áo thành một khu vườn mini xanh mướt, đủ rau ăn hằng ngày và một số loại trái cây. Đặc biệt ấn tượng nhất là giàn cà chua trĩu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:43:00+07:00",
+      "fetched": "2026-02-01T13:44:33.819994+07:00"
+    },
+    {
+      "id": "502c0c4e66994475ccfea0c7b0c3ac51",
+      "title": "Miền Bắc đầu tuần tạnh ráo, cuối tuần mưa rét",
+      "link": "https://vnexpress.net/mien-bac-dau-tuan-tanh-rao-cuoi-tuan-mua-ret-5012493.html",
+      "summary": "Không khí lạnh suy yếu sẽ giúp miền Bắc tuần tới tạnh ráo, cuối tuần mưa trở lại do tác động của đợt không khí lạnh mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:36:14+07:00",
+      "fetched": "2026-02-01T13:44:30.709930+07:00"
+    },
+    {
+      "id": "ac2acf414a7e8ea8d4dc9e8607bda790",
+      "title": "Hơn 70 triệu xe máy phải kiểm định khí thải - Bước đi tất yếu!",
+      "link": "https://thanhnien.vn/hon-70-trieu-xe-may-phai-kiem-dinh-khi-thai-buoc-di-tat-yeu-185260201121413254.htm",
+      "summary": "Xe máy chiếm khoảng 29% nguồn phát thải NO, 90% CO, 65,4% NMVOC; 37,7% nguồn phát thải bụi; 31% nguồn phát thải bụi siêu mịn. Việc kiểm soát khí thải của 'thủ phạm' chính gây ô nhiễm này là bước đi cần thiết để Việt Nam tiến tới xây dựng hệ thống giao thông bền vững và phát triển đô thị xanh trong t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:34:00+07:00",
+      "fetched": "2026-02-01T13:44:33.820148+07:00"
+    },
+    {
+      "id": "fb8f4f87b19f0a16b7f98d8507d717ae",
+      "title": "Omo cam kết trồng 1 triệu cây xanh giai đoạn 2026-2030",
+      "link": "https://thanhnien.vn/omo-cam-ket-trong-1-trieu-cay-xanh-giai-doan-2026-2030-185260201122056658.htm",
+      "summary": "Nhãn hàng OMO thuộc Công ty TNHH Quốc tế Unilever Việt Nam vừa chính thức thiết lập Kỷ lục Guinness Thế giới \"Xếp chữ 'Việt Nam' từ banh hạt giống lớn nhất\" tại Công viên Sáng tạo (TP.HCM). Dịp này, Unilever Việt Nam đã ký kết biên bản ghi nhớ cùng Bộ NN-MT, cam kết trồng 1 triệu cây xanh tại Việt N...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:33:00+07:00",
+      "fetched": "2026-02-01T13:44:33.820300+07:00"
+    },
+    {
+      "id": "d04719aa2721881aee26a73d06c960ae",
+      "title": "Mùa hoa mai anh đào Đà Lạt xuân 2026 đẹp chưa từng có",
+      "link": "https://thanhnien.vn/mua-hoa-mai-anh-dao-da-lat-xuan-2026-dep-chua-tung-co-185260201110506805.htm",
+      "summary": "Lễ hội hoa mai anh đào - Đà Lạt xuân 2026 khép lại sau những ngày rộn ràng, nhưng sắc hoa, nhịp người và cảm xúc thì vẫn còn neo lại trên từng con dốc, bên mặt hồ Xuân Hương lặng sóng, trong ánh mắt những người đã kịp yêu thêm một mùa xuân phố núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:33:00+07:00",
+      "fetched": "2026-02-01T13:44:33.820447+07:00"
+    },
+    {
+      "id": "c4f9227ee654a1be5c66a92f249c189a",
+      "title": "Mạo danh người nổi tiếng để tiếp cận, cưỡng bức thiếu nữ 16 tuổi",
+      "link": "https://vnexpress.net/mao-danh-nguoi-noi-tieng-de-tiep-can-cuong-buc-thieu-nu-16-tuoi-5012491.html",
+      "summary": "Nguyễn Hữu Duẩn lập Facebook giả người nổi tiếng để làm quen với cô gái 16 tuổi, rủ đi chơi rồi xâm hại tình dục, ép không được tiết lộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:29:25+07:00",
+      "fetched": "2026-02-01T13:44:30.710094+07:00"
+    },
+    {
+      "id": "7baf4678b380c45cb64bc0d87eff226d",
+      "title": "Người đi xe máy bay lên cao vì tông vào ôtô ở ngã tư",
+      "link": "https://vnexpress.net/nguoi-di-xe-may-bay-len-cao-vi-tong-vao-oto-o-nga-tu-5012450.html",
+      "summary": "Người đi xe máy vượt đèn đỏ, không làm chủ tốc độ dẫn dến tông vào đầu ôtô, tối 31/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:22:50+07:00",
+      "fetched": "2026-02-01T13:44:30.710256+07:00"
+    },
+    {
       "id": "8b9d55b865e9ef2d8fee2f6297adcfa0",
       "title": "Arsenal trở lại mạch thắng, bỏ xa Man City 7 điểm",
       "link": "https://tuoitre.vn/arsenal-tro-lai-mach-thang-bo-xa-man-city-7-diem-20260201002558178.htm",
@@ -323,6 +553,26 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T05:19:37.173577+07:00"
     },
     {
+      "id": "2b20508b251a8a6712ed18425f7c034a",
+      "title": "Quán ngan cháy tỏi phố cổ được các cầu thủ U23 yêu thích",
+      "link": "https://vnexpress.net/quan-ngan-chay-toi-pho-co-duoc-cac-cau-thu-u23-yeu-thich-5011219.html",
+      "summary": "Quán ở phố Hàng Lược hấp dẫn thực khách nhờ món ngan cháy tỏi, trở thành điểm đến yêu thích của các cầu thủ U23 Việt Nam như Đình Bắc, Duy Mạnh, Văn Hậu, Văn Toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:15:36+07:00",
+      "fetched": "2026-02-01T13:44:30.710421+07:00"
+    },
+    {
+      "id": "0debd332786d09c9722ce4e7fd4a1b6b",
+      "title": "Khúc mắc tiền rác cao gấp đôi vì đóng thêm 'thưởng tháng 13'",
+      "link": "https://vnexpress.net/khuc-mac-tien-rac-cao-gap-doi-vi-dong-them-thuong-thang-13-5012441.html",
+      "summary": "Tiền thu thêm 65.000 đồng không có hóa đơn, chứng từ khiến tôi băn khoăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:12:34+07:00",
+      "fetched": "2026-02-01T13:44:30.710577+07:00"
+    },
+    {
       "id": "56cfac961120c0e622debfbf632cf10a",
       "title": "Ngày hội việc làm ĐH Thủy lợi 2026: Sân trường thành ‘sàn giao dịch’ việc làm",
       "link": "https://thanhnien.vn/ngay-hoi-viec-lam-dh-thuy-loi-2026-san-truong-thanh-san-giao-dich-viec-lam-185260201113844832.htm",
@@ -371,6 +621,26 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T05:00:00+07:00",
       "fetched": "2026-02-01T12:20:26.247853+07:00"
+    },
+    {
+      "id": "9e7778b857ffc6741ea0d5592253fa2c",
+      "title": "Tôi khó sống với mẹ chồng vì có bầu trước cưới",
+      "link": "https://vnexpress.net/song-chung-voi-me-chong-toi-kho-song-voi-me-chong-vi-co-bau-truoc-cuoi-5012412.html",
+      "summary": "Mẹ chồng ngày nào cũng soi mói: từ cách tôi ăn, cách tôi nằm, cách tôi chăm con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:00:00+07:00",
+      "fetched": "2026-02-01T13:44:30.710728+07:00"
+    },
+    {
+      "id": "45f2d47ccd63612d5c7ef23e667307f1",
+      "title": "Tỉnh nào có biệt danh 'Vùng đất của những đỉnh núi cao'?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tinh-nao-co-biet-danh-vung-dat-cua-nhung-dinh-nui-cao-5010911.html",
+      "summary": "Địa hình của tỉnh có nhiều dãy núi và cao nguyên, có nhiều đỉnh núi cao trên 3.000 mét... trên 60% diện tích có độ cao trên 1.000 mét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:00:00+07:00",
+      "fetched": "2026-02-01T13:44:30.710900+07:00"
     },
     {
       "id": "e33b954fc584eae37725f36cf4336496",
