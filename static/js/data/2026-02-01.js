@@ -1,7 +1,157 @@
 window.newsData_2026_02_01 = {
   "date": "2026-02-01",
-  "lastUpdated": "2026-02-01T09:04:44.009919+07:00",
+  "lastUpdated": "2026-02-01T12:20:36.289644+07:00",
   "articles": [
+    {
+      "id": "37eb2e14cf86464bc1913d179529c042",
+      "title": "AFC ra thông báo: 'FIFA sẽ không trừng phạt Malaysia'",
+      "link": "https://tuoitre.vn/afc-ra-thong-bao-fifa-se-khong-trung-phat-malaysia-20260201030959598.htm",
+      "summary": "Tổng thư ký Liên đoàn Bóng đá châu Á (AFC) - ông Windsor John mới đây đã báo tin vui lớn cho Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.404186+07:00",
+      "fetched": "2026-02-01T12:20:27.404310+07:00"
+    },
+    {
+      "id": "b3d6f5e65a7a3b2fa0c4fac3c495f2bd",
+      "title": "Sóng ngầm nước Anh",
+      "link": "https://tuoitre.vn/song-ngam-nuoc-anh-20260201102551278.htm",
+      "summary": "Khi Sienna Spiro bắt đầu lên những nốt cao trong bản ballad Die on this hill do cô sáng tác trong chương trình talkshow hàng đầu của Mỹ với Jimmy Fallon, người đệm piano cũng phải ngước mắt nhìn cô thán phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.404053+07:00",
+      "fetched": "2026-02-01T12:20:27.404175+07:00"
+    },
+    {
+      "id": "f80f1048b019befd80982df9ef0e8b8e",
+      "title": "Quy chế tuyển sinh đại học 2026: Thêm ràng buộc, nảy sinh lấn cấn",
+      "link": "https://tuoitre.vn/quy-che-tuyen-sinh-dai-hoc-2026-them-rang-buoc-nay-sinh-lan-can-20260201100452268.htm",
+      "summary": "Nhiều trường cho rằng các ràng buộc mới trong dự thảo Quy chế tuyển sinh đại học 2026 có thể tạo thêm áp lực cho thí sinh, nhất là khi quy định được ban hành sát kỳ thi tốt nghiệp THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403926+07:00",
+      "fetched": "2026-02-01T12:20:27.404042+07:00"
+    },
+    {
+      "id": "806ce7014dc586d8aecc65ec28f6c8e8",
+      "title": "Đi, đứng, ngồi, đậu xe trên đường ray xe lửa bị xử phạt ra sao?",
+      "link": "https://tuoitre.vn/di-dung-ngoi-dau-xe-tren-duong-ray-xe-lua-bi-xu-phat-ra-sao-20260131163023849.htm",
+      "summary": "Mới đây, cơ quan chức năng đã xử phạt tài xế đậu ô tô giữa đường ray tàu hỏa. Thực tế nhiều người dân ở cạnh đường ray xe lửa vô tư sử dụng không gian bên cạnh, thậm chí cả trên đường ray.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403781+07:00",
+      "fetched": "2026-02-01T12:20:27.403914+07:00"
+    },
+    {
+      "id": "2368e70455178591c82961b937fa61ee",
+      "title": "Mỹ cử đặc phái viên mới tới Venezuela, hướng tới mở lại đại sứ quán",
+      "link": "https://tuoitre.vn/my-cu-dac-phai-vien-moi-toi-venezuela-huong-toi-mo-lai-dai-su-quan-20260201105416018.htm",
+      "summary": "Đặc phái viên Mỹ Laura F. Dogu tới Caracas, mở đường cho kế hoạch tái lập hiện diện ngoại giao tại Venezuela sau gần bảy năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403656+07:00",
+      "fetched": "2026-02-01T12:20:27.403770+07:00"
+    },
+    {
+      "id": "af66bd81cc6f5cc58583127c977b7a16",
+      "title": "Dự báo thời tiết từ 1-2 đến 7-2: Miền Bắc rét, miền Trung mưa, miền Nam nắng",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-1-2-den-7-2-mien-bac-ret-mien-trung-mua-mien-nam-nang-20260131143537328.htm",
+      "summary": "Những ngày đầu tháng 2, thời tiết ba miền mỗi nơi một vẻ dù chịu chung sự chi phối của đợt không khí lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403536+07:00",
+      "fetched": "2026-02-01T12:20:27.403646+07:00"
+    },
+    {
+      "id": "6a964bcd58f48d87b3da16c81f75d390",
+      "title": "Công ty SpaceX xin phóng 1 triệu vệ tinh lên quỹ đạo",
+      "link": "https://tuoitre.vn/cong-ty-spacex-xin-phong-1-trieu-ve-tinh-len-quy-dao-20260201105523721.htm",
+      "summary": "Công ty của ông Elon Musk muốn phóng 1 triệu vệ tinh, để tạo thành một hệ thống tính toán AI chạy bằng năng lượng mặt trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403413+07:00",
+      "fetched": "2026-02-01T12:20:27.403524+07:00"
+    },
+    {
+      "id": "be3626080be82913ca495c8cbe6c7202",
+      "title": "Hành khách khỏa thân, gây hỗn loạn trên chuyến bay từ Việt Nam sang Thái Lan",
+      "link": "https://tuoitre.vn/hanh-khach-khoa-than-gay-hon-loan-tren-chuyen-bay-tu-viet-nam-sang-thai-lan-20260201110222326.htm",
+      "summary": "Một công dân Nga đã bị Thái Lan từ chối nhập cảnh và trục xuất, do có hành vi gây rối nghiêm trọng và biểu hiện say xỉn trên chuyến bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403287+07:00",
+      "fetched": "2026-02-01T12:20:27.403402+07:00"
+    },
+    {
+      "id": "f1cecc589688983484201d6b94b37bdc",
+      "title": "Uống rượu ngâm dây mỏ quạ tại nhà, 2 người chết, 3 người nhập viện cấp cứu",
+      "link": "https://tuoitre.vn/uong-ruou-ngam-day-mo-qua-tai-nha-2-nguoi-chet-3-nguoi-nhap-vien-cap-cuu-20260201104730716.htm",
+      "summary": "Ông Sĩ tổ chức nhậu tại nhà cùng với nhóm bạn. Sau khi uống rượu ngâm dây mỏ quạ, cả 5 người có biểu hiện khó chịu, mệt mỏi, được gia đình đưa vào bệnh viện cấp cứu, sau đó ông Sĩ và ông Hạnh đã tử vong tại bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403160+07:00",
+      "fetched": "2026-02-01T12:20:27.403276+07:00"
+    },
+    {
+      "id": "ef7d84babdf734373859d5fc30164745",
+      "title": "Trao gửi báo xuân",
+      "link": "https://tuoitre.vn/trao-gui-bao-xuan-20260201080831487.htm",
+      "summary": "Dù thói quen tiếp nhận thông tin của công chúng đã thay đổi trong kỷ nguyên số, văn hóa đọc báo - đặc biệt là đọc - xem báo xuân dịp Tết đến - vẫn giữ một vị trí bền bỉ trong đời sống tinh thần của nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.403030+07:00",
+      "fetched": "2026-02-01T12:20:27.403149+07:00"
+    },
+    {
+      "id": "a4755af06dfea1a4e900dc1461903b56",
+      "title": "Trẻ làm sếp, không sợ trách nhiệm, chỉ ngại phá vỡ trật tự đã được rập khuôn",
+      "link": "https://tuoitre.vn/tre-lam-sep-khong-so-trach-nhiem-chi-ngai-pha-vo-trat-tu-da-duoc-rap-khuon-20260113160325478.htm",
+      "summary": "Với người trẻ làm sếp, có những lời nhắc nhở đáng ra phải nói thẳng, nhưng được diễn đạt mềm hơn để tránh làm tổn thương lòng tự trọng của người nghe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.402897+07:00",
+      "fetched": "2026-02-01T12:20:27.403018+07:00"
+    },
+    {
+      "id": "10657a95aab4aa9d6ad047816d072342",
+      "title": "Sức bật mới cho bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/suc-bat-moi-cho-bong-da-viet-nam-20260131230507225.htm",
+      "summary": "Sau hơn 2 tháng tạm nghỉ nhường chỗ cho U23 Việt Nam thi đấu SEA Games 33 và Giải U23 châu Á 2026, V-League 2025-2026 đã trở lại với vòng 12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.402744+07:00",
+      "fetched": "2026-02-01T12:20:27.402883+07:00"
+    },
+    {
+      "id": "a6fd4f120f26892ef7f61af50c023dee",
+      "title": "Nhà máy Đạm Cà Mau đặt mục tiêu đạt cấp độ cao nhất của nhà máy thông minh",
+      "link": "https://tuoitre.vn/nha-may-dam-ca-mau-dat-muc-tieu-dat-cap-do-cao-nhat-cua-nha-may-thong-minh-20260131063844184.htm",
+      "summary": "Nhà máy Đạm Cà Mau đang từng bước thực hiện mục tiêu đạt cấp độ ba và đang tiến tới cấp độ bốn của mô hình nhà máy thông minh - là nhà máy tự động hóa nghiệp vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.402610+07:00",
+      "fetched": "2026-02-01T12:20:27.402732+07:00"
+    },
+    {
+      "id": "aee9d217393a17fb611b2bce59285b61",
+      "title": "Nhặt được lắc vàng dài gần gang tay, người bán hàng rong trả lại người đánh rơi",
+      "link": "https://tuoitre.vn/nhat-duoc-lac-vang-dai-gan-gang-tay-nguoi-ban-hang-rong-tra-lai-nguoi-danh-roi-20260201110703433.htm",
+      "summary": "Khi lấy hàng tại chợ Hồ Xá lúc rạng sáng, một tiểu thương nhặt được lắc vàng trọng lượng 1,3 cây và nhanh chóng trao trả lại cho người đánh rơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.402467+07:00",
+      "fetched": "2026-02-01T12:20:27.402597+07:00"
+    },
+    {
+      "id": "60916f57d2eb5c2e1e0bcf4da0ec5130",
+      "title": "Sao ta mãi thương mai mùa cũ?",
+      "link": "https://tuoitre.vn/sao-ta-mai-thuong-mai-mua-cu-20260201101825846.htm",
+      "summary": "Bao nhiêu cái Tết đã trôi qua, sao ta vẫn thương mai mùa cũ? Phải chăng những cánh mai mỏng manh ấy đã vì ta mà nở, vì ta mà khoe trọn vẻ rực rỡ đến nao lòng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T12:20:27.402241+07:00",
+      "fetched": "2026-02-01T12:20:27.402452+07:00"
+    },
     {
       "id": "c65c2123bcc2e8b08eb536c7f9188ad7",
       "title": "Lịch thi đấu chung kết Úc mở rộng 2026: Djokovic đối đầu Alcaraz",
@@ -173,6 +323,386 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T05:19:37.173577+07:00"
     },
     {
+      "id": "56cfac961120c0e622debfbf632cf10a",
+      "title": "Ngày hội việc làm ĐH Thủy lợi 2026: Sân trường thành ‘sàn giao dịch’ việc làm",
+      "link": "https://thanhnien.vn/ngay-hoi-viec-lam-dh-thuy-loi-2026-san-truong-thanh-san-giao-dich-viec-lam-185260201113844832.htm",
+      "summary": "Không còn là những buổi tư vấn việc làm lý thuyết suông, Ngày hội việc làm ĐH Thủy lợi lần 1 - JobFair 2026 đã thực sự biến thành một 'sàn giao dịch' việc làm với hơn 50 doanh nghiệp và hàng ngàn chỉ tiêu tuyển dụng ngay tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:08:00+07:00",
+      "fetched": "2026-02-01T12:20:26.247212+07:00"
+    },
+    {
+      "id": "17a66a856ef34fc1339e5507aeac27a6",
+      "title": "Giá Bitcoin hôm nay 1.2.2026: Chạm đáy 77.000 USD, thổi bay 2,5 tỉ USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-122026-cham-day-77000-usd-thoi-bay-25-ti-usd-185260201111717286.htm",
+      "summary": "Giá Bitcoin liên tục giảm sâu, chạm đáy 77.000 USD sau vụ nổ tại cảng Bandar Abbas của Iran, khiến 2,58 tỉ USD của người chơi trên thị trường phái sinh bị thanh lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:05:00+07:00",
+      "fetched": "2026-02-01T12:20:26.247378+07:00"
+    },
+    {
+      "id": "b4df5235a67c7173e2319dbe8225105e",
+      "title": "JobFair 2026 ĐH Thủy lợi: Hàng nghìn cơ hội việc làm cho sinh viên",
+      "link": "https://thanhnien.vn/jobfair-2026-dh-thuy-loi-hang-nghin-co-hoi-viec-lam-cho-sinh-vien-18526020110471177.htm",
+      "summary": "Ngày hội JobFair 2026 ĐH Thủy lợi đã được khai mạc, mở ra cơ hội giúp hàng nghìn sinh viên tìm được việc làm hoặc vị trí thực tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:05:00+07:00",
+      "fetched": "2026-02-01T12:20:26.247534+07:00"
+    },
+    {
+      "id": "5bfaca4104e7ba60fd4b55193ca64ebd",
+      "title": "Quán ăn 'huyền thoại' ở TP.HCM đóng cửa vĩnh viễn trước tết, bà chủ chia sẻ xúc động",
+      "link": "https://thanhnien.vn/quan-an-huyen-thoai-o-tphcm-dong-cua-vinh-vien-truoc-tet-ba-chu-chia-se-xuc-dong-185260131181901562.htm",
+      "summary": "Ngay trước thềm Tết Nguyên đán Bính Ngọ 2026, một quán ăn nổi tiếng ở TP.HCM đóng cửa vĩnh viễn. Bà chủ xúc động chia sẻ về ngày bán cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:02:00+07:00",
+      "fetched": "2026-02-01T12:20:26.247686+07:00"
+    },
+    {
+      "id": "317e884541d5d68901e5ff3ec3659b1f",
+      "title": "Tôn dáng, khoe vai trần quyến rũ cùng áo cổ yếm và chân váy ngắn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ton-dang-khoe-vai-tran-quyen-ru-cung-ao-co-yem-va-chan-vay-ngan-185260129110931529.htm",
+      "summary": "Áo cổ yếm luôn giữ một vị trí đặc biệt trong tủ đồ của các tín đồ thời trang nhờ khả năng tôn dáng. Khi kết hợp cùng chân váy ngắn giúp mở ra nhiều hướng phối đồ đa dạng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T05:00:00+07:00",
+      "fetched": "2026-02-01T12:20:26.247853+07:00"
+    },
+    {
+      "id": "e33b954fc584eae37725f36cf4336496",
+      "title": "Hé lộ thêm manh mối về đại dịch đầu tiên trên thế giới",
+      "link": "https://thanhnien.vn/he-lo-them-manh-moi-ve-dai-dich-dau-tien-tren-the-gioi-185260201114250474.htm",
+      "summary": "Các nghiên cứu sâu về ngôi mộ tập thể ở Jordan đã cung cấp chi tiết về yếu tố xã hội khi đại dịch đầu tiên trên thế giới bùng phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:55:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248012+07:00"
+    },
+    {
+      "id": "5188e47922c3b6722cbe8278c980c87d",
+      "title": "Messi giúp Inter Miami thắng trận đầu tiên trong năm 2026",
+      "link": "https://thanhnien.vn/messi-giup-inter-miami-thang-tran-dau-tien-trong-nam-2026-185260201115136582.htm",
+      "summary": "Messi đã chính thức vào guồng cho chặng chạy đà cùng Inter Miami trước mùa giải mới và hướng đến World Cup 2026 bằng phong độ ấn tượng, anh vừa giúp CLB của mình có chiến thắng đầu tiên trong năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:53:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248168+07:00"
+    },
+    {
+      "id": "156975aaa8f506573a305b846f705e0c",
+      "title": "TP.HCM: Cận cảnh hầm chui nút giao An Phú thông xe sáng mai",
+      "link": "https://thanhnien.vn/tphcm-can-canh-ham-chui-nut-giao-an-phu-thong-xe-sang-mai-185260131224931234.htm",
+      "summary": "Hầm chui HC1-02 tại nút giao An Phú - nút giao hiện đại nhất TP.HCM dự kiến thông xe ngày mai 2.2, kỳ vọng giảm 80% ùn tắc cửa ngõ phía đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:50:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248322+07:00"
+    },
+    {
+      "id": "ed1aac21a29b964fa31f05ac6e8690e7",
+      "title": "Trình Bộ Chính trị dự thảo nghị quyết kinh tế có vốn đầu tư nước ngoài",
+      "link": "https://thanhnien.vn/trinh-bo-chinh-tri-du-thao-nghi-quyet-kinh-te-co-von-dau-tu-nuoc-ngoai-185260201102140863.htm",
+      "summary": "Sáng 1.2, Thủ tướng Phạm Minh Chính đã chủ trì phiên họp của Ban Chỉ đạo quốc gia triển khai Nghị quyết số 79 của Bộ Chính trị về phát triển kinh tế nhà nước (Ban Chỉ đạo).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:38:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248476+07:00"
+    },
+    {
+      "id": "42ed155fc67fde28232e8d89e4ecf13d",
+      "title": "Huế: Xe máy chở 3 tự gây tai nạn trong đêm, 2 thanh thiếu niên tử vong",
+      "link": "https://thanhnien.vn/hue-xe-may-cho-3-tu-gay-tai-nan-trong-dem-2-thanh-thieu-nien-tu-vong-185260201104402262.htm",
+      "summary": "Chiếc xe máy chở 3 do thiếu niên 15 tuổi cầm lái đã tự gây tai nạn ở TP.Huế khiến 2 thanh thiếu niên tử vong tại chỗ, 1 người bị thương nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:28:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248629+07:00"
+    },
+    {
+      "id": "7ac82db9e56b09830660616eb460df9e",
+      "title": "Ngô Thanh Vân, Huy Trần quấn quýt con gái",
+      "link": "https://vnexpress.net/ngo-thanh-van-huy-tran-quan-quyt-con-gai-5011934.html",
+      "summary": "Bé Gạo - con gái Ngô Thanh Vân - được khen đáng yêu với đôi má \"bánh bao\", hay đùa nghịch khi du lịch cùng bố mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:27:20+07:00",
+      "fetched": "2026-02-01T12:20:22.613947+07:00"
+    },
+    {
+      "id": "5ec004957b58d3c78e4de9e3bd46921e",
+      "title": "Gia Lai mời gọi đầu tư hàng loạt dự án điện năng lượng tái tạo",
+      "link": "https://thanhnien.vn/gia-lai-moi-goi-dau-tu-hang-loat-du-an-dien-nang-luong-tai-tao-185260201110315402.htm",
+      "summary": "Tỉnh Gia Lai kêu gọi đầu tư 12 dự án điện năng lượng tái tạo tại khu vực phía tây, tổng vốn khoảng 22,3 nghìn tỉ đồng, kỳ vọng cung cấp khoảng 700 MW điện sạch cho hệ thống điện quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:20:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248778+07:00"
+    },
+    {
+      "id": "9b437105f9a183a025390be832405006",
+      "title": "Bão tuyết càn quét miền nam nước Mỹ",
+      "link": "https://vnexpress.net/bao-tuyet-can-quet-mien-nam-nuoc-my-5012461.html",
+      "summary": "Trận bão tuyết mạnh quét qua các bang miền nam nước Mỹ, làm nhiệt độ ở một số nơi xuống tới -33 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:17:17+07:00",
+      "fetched": "2026-02-01T12:20:22.614137+07:00"
+    },
+    {
+      "id": "9b437105f9a183a025390be832405006",
+      "title": "Bão tuyết càn quét miền nam nước Mỹ",
+      "link": "https://vnexpress.net/bao-tuyet-can-quet-mien-nam-nuoc-my-5012461.html",
+      "summary": "Trận bão tuyết mạnh quét qua các bang miền nam nước Mỹ, làm nhiệt độ ở một số nơi xuống tới -33 độ C.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T04:17:17+07:00",
+      "fetched": "2026-02-01T12:20:29.380252+07:00"
+    },
+    {
+      "id": "b2ba0805753599afa33472ba11fd40ca",
+      "title": "Loạt smartphone đáng chú ý ra mắt trong tháng 2",
+      "link": "https://thanhnien.vn/loat-smartphone-dang-chu-y-ra-mat-trong-thang-2-185260131165508834.htm",
+      "summary": "Tháng 2 hứa hẹn mang đến nhiều điều thú vị cho người dùng với sự xuất hiện của smartphone mới từ các thương hiệu lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:14:00+07:00",
+      "fetched": "2026-02-01T12:20:26.248960+07:00"
+    },
+    {
+      "id": "1e280a74dfeee64843eded6ea10b755c",
+      "title": "Động thái cực mới của CAS và AFC, Malaysia có nguy cơ bị xử thua Việt Nam cả 2 trận nếu…",
+      "link": "https://thanhnien.vn/dong-thai-cuc-moi-cua-cas-va-afc-doi-tuyen-malaysia-co-nguy-co-xu-thua-viet-nam-ca-2-tran-neu-185260201105453024.htm",
+      "summary": "CAS làm rõ việc cho phép tạm thời 7 cầu thủ nhập tịch 'lậu' Malaysia thi đấu, nhưng các CLB và đội tuyển sử dụng có thể gặp bất lợi nếu họ bị xử thua ở phiên tòa ngày 26.2 tới. Trong lúc, AFC hoãn ngày đánh giá FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:13:00+07:00",
+      "fetched": "2026-02-01T12:20:26.249111+07:00"
+    },
+    {
+      "id": "b2e18b100676c5d21c0f433a15d4a401",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn kiểm tra chuẩn bị bầu cử tại Cần Thơ",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-kiem-tra-chuan-bi-bau-cu-tai-can-tho-185260201100454648.htm",
+      "summary": "Kiểm tra tại Cần Thơ, Chủ tịch Quốc hội Trần Thanh Mẫn lưu ý nhiều vấn đề để thành phố thực hiện tốt công tác bầu cử khi vận hành chính quyền địa phương 2 cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:13:00+07:00",
+      "fetched": "2026-02-01T12:20:26.249260+07:00"
+    },
+    {
+      "id": "68276e0f3771c971aa156aea4ce75ec5",
+      "title": "Những năm tháng cuối đời của minh tinh 'Ở nhà một mình'",
+      "link": "https://vnexpress.net/nhung-nam-thang-cuoi-doi-cua-minh-tinh-o-nha-mot-minh-5012451.html",
+      "summary": "Diễn viên Catherine O'Hara - nổi tiếng với phim \"Ở nhà một mình\" - nhiều năm chung sống căn bệnh bẩm sinh về tim, trước khi mất ở tuổi 72.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:08:37+07:00",
+      "fetched": "2026-02-01T12:20:22.614304+07:00"
+    },
+    {
+      "id": "b5bee48d2be751bc891a76e547d729a1",
+      "title": "Hà Nội sẽ xây hơn 2 triệu căn nhà thương mại đến 2035",
+      "link": "https://vnexpress.net/ha-noi-se-xay-hon-2-trieu-can-nha-thuong-mai-den-2035-5012440.html",
+      "summary": "Thành phố đặt chỉ tiêu hoàn thành hơn 2 triệu căn nhà thương mại, tương ứng hơn 245 triệu m2 sàn trong một thập kỷ tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:08:14+07:00",
+      "fetched": "2026-02-01T12:20:22.614466+07:00"
+    },
+    {
+      "id": "9e3e0938595a195e15e9d0ec25bc5a1c",
+      "title": "Vĩnh Long: Khởi tố người đàn ông cho vay lãi nặng 180%/năm",
+      "link": "https://thanhnien.vn/vinh-long-khoi-to-nguoi-dan-ong-cho-vay-lai-nang-180-nam-18526020110390399.htm",
+      "summary": "Cho vay với lãi suất 180%/năm, một người đàn ông ở Vĩnh Long bị khởi tố để điều tra về hành vi cho vay lãi nặng trong giao dịch dân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:03:00+07:00",
+      "fetched": "2026-02-01T12:20:26.249407+07:00"
+    },
+    {
+      "id": "b74fd2ee163e93fd07b4efe047d0ceed",
+      "title": "Tấm séc đầu tiên và bo mạch Apple-1 được đấu giá hơn 5 triệu USD",
+      "link": "https://vnexpress.net/tam-sec-dau-tien-va-bo-mach-apple-1-duoc-dau-gia-hon-5-trieu-usd-5012383.html",
+      "summary": "Tấm séc đánh dấu giao dịch đầu tiên của Steve Jobs và nguyên mẫu bo mạch chủ Apple-1 vừa lập kỷ lục về giá trị trong một phiên đấu giá kỷ niệm 50 năm thành lập Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T12:20:22.614622+07:00"
+    },
+    {
+      "id": "ef97d380063f6e093680a7eb17872136",
+      "title": "'Ăn mày mà đòi xôi gấc' trong tiếng Anh nói thế nào?",
+      "link": "https://vnexpress.net/an-may-ma-doi-xoi-gac-trong-tieng-anh-noi-the-nao-5012376.html",
+      "summary": "\"Ăn mày mà đòi xôi gấc\" là cách nói để chỉ những người ở vị thế yếu nhưng lại đưa ra đòi hỏi cao. Bạn có biết cách nói tương tự trong tiếng Anh?.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T12:20:22.614777+07:00"
+    },
+    {
+      "id": "7278af0d955f4049122a01d5685a6b02",
+      "title": "VinFast nhận cú đúp giải thưởng về đầu tư tại Ấn Độ",
+      "link": "https://vnexpress.net/vinfast-nhan-cu-dup-giai-thuong-ve-dau-tu-tai-an-do-5012462.html",
+      "summary": "VinFast được các tạp chí chuyên ngành Ấn Độ vinh danh \"Nhà đầu tư của năm\" và \"Xe điện đô thị của năm\", nhờ chiến lược dài hạn vào hệ sinh thái xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T12:20:22.614955+07:00"
+    },
+    {
+      "id": "b74fd2ee163e93fd07b4efe047d0ceed",
+      "title": "Tấm séc đầu tiên và bo mạch Apple-1 được đấu giá hơn 5 triệu USD",
+      "link": "https://vnexpress.net/tam-sec-dau-tien-va-bo-mach-apple-1-duoc-dau-gia-hon-5-trieu-usd-5012383.html",
+      "summary": "Tấm séc đánh dấu giao dịch đầu tiên của Steve Jobs và nguyên mẫu bo mạch chủ Apple-1 vừa lập kỷ lục về giá trị trong một phiên đấu giá kỷ niệm 50 năm thành lập Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T04:00:00+07:00",
+      "fetched": "2026-02-01T12:20:34.286672+07:00"
+    },
+    {
+      "id": "b87537d789e9d4d726f19d8b7534f59b",
+      "title": "Đỗ xe máy trên vỉa hè vào quán mua hàng, có bị phạt nguội qua camera AI?",
+      "link": "https://vnexpress.net/do-xe-may-tren-via-he-vao-quan-mua-hang-co-bi-phat-nguoi-qua-camera-ai-5012454.html",
+      "summary": "Biết dừng đỗ xe máy trên vỉa hè trái phép sẽ bị phạt 400.000-600.000 đồng song nhiều người thắc mắc đỗ xe trước quán vào mua hàng rồi ra ngay thì có bị phạt không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:40:26+07:00",
+      "fetched": "2026-02-01T12:20:22.615124+07:00"
+    },
+    {
+      "id": "ce100436c989109145f0b9abaa3807d1",
+      "title": "'AI chưa thâm nhập sâu vào sản xuất ở Việt Nam'",
+      "link": "https://vnexpress.net/ai-chua-tham-nhap-sau-vao-san-xuat-o-viet-nam-5012111.html",
+      "summary": "Các khảo sát chỉ ra Việt Nam có mức độ tiếp cận cao với AI, nhưng chuyên gia cho rằng công nghệ này chưa thâm nhập sâu vào sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:36:33+07:00",
+      "fetched": "2026-02-01T12:20:22.615300+07:00"
+    },
+    {
+      "id": "ce100436c989109145f0b9abaa3807d1",
+      "title": "'AI chưa thâm nhập sâu vào sản xuất ở Việt Nam'",
+      "link": "https://vnexpress.net/ai-chua-tham-nhap-sau-vao-san-xuat-o-viet-nam-5012111.html",
+      "summary": "Các khảo sát chỉ ra Việt Nam có mức độ tiếp cận cao với AI, nhưng chuyên gia cho rằng công nghệ này chưa thâm nhập sâu vào sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T03:36:33+07:00",
+      "fetched": "2026-02-01T12:20:31.105658+07:00"
+    },
+    {
+      "id": "9fe6d66e25b3cf0482ad117730ca5cfd",
+      "title": "Giảng viên như tôi thưởng Tết 3,5 triệu đồng",
+      "link": "https://vnexpress.net/thuong-tet-thuong-nghi-dinh-73-giang-vien-nhu-toi-thuong-tet-3-5-trieu-dong-5012230.html",
+      "summary": "Với những giảng viên có thưởng Tết cố định ở mức 3,5 triệu đồng, tiền thưởng Nghị định 73 trở thành nguồn khích lệ rất lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:31:01+07:00",
+      "fetched": "2026-02-01T12:20:22.615463+07:00"
+    },
+    {
+      "id": "deb134b7e9b64e055643fea7a6c34daf",
+      "title": "Hạt nở 'lớn nhanh' gấp 300 lần gây tắc ruột bé gái",
+      "link": "https://vnexpress.net/hat-no-lon-nhanh-gap-300-lan-gay-tac-ruot-be-gai-5012449.html",
+      "summary": "Bé gái 18 tháng tuổi nôn ói, bí đại tiện do nuốt phải hạt nở - loại đồ chơi khi gặp dịch tiêu hóa có thể trương to gấp 300 lần gây tắc ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:24:57+07:00",
+      "fetched": "2026-02-01T12:20:22.615628+07:00"
+    },
+    {
+      "id": "6a1631009a3d23b8ab561aa840ab3033",
+      "title": "Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô",
+      "link": "https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html",
+      "summary": "Giới chức Malaysia bắt hai tàu bị nghi chuyển dầu trái phép cùng lượng hàng trị giá gần 130 triệu USD ở vùng biển miền tây nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:11:49+07:00",
+      "fetched": "2026-02-01T12:20:22.615789+07:00"
+    },
+    {
+      "id": "6a1631009a3d23b8ab561aa840ab3033",
+      "title": "Malaysia bắt tàu nghi chuyển lậu gần 130 triệu USD dầu thô",
+      "link": "https://vnexpress.net/malaysia-bat-tau-nghi-chuyen-lau-gan-130-trieu-usd-dau-tho-5012442.html",
+      "summary": "Giới chức Malaysia bắt hai tàu bị nghi chuyển dầu trái phép cùng lượng hàng trị giá gần 130 triệu USD ở vùng biển miền tây nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T03:11:49+07:00",
+      "fetched": "2026-02-01T12:20:29.380429+07:00"
+    },
+    {
+      "id": "fd99a3fcff1a5a4fc0947db30c9634b9",
+      "title": "Công ty đầu ngành xây dựng có 2,4 tỷ USD đơn hàng tồn đọng",
+      "link": "https://vnexpress.net/cong-ty-dau-nganh-xay-dung-co-2-4-ty-usd-don-hang-ton-dong-5012388.html",
+      "summary": "Coteccons trúng thầu 18.000 tỷ đồng trong ba tháng cuối năm ngoái, nâng giá trị đơn hàng tồn đọng (backlog) lên 62.500 tỷ đồng, tương đương 2,4 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:07:43+07:00",
+      "fetched": "2026-02-01T12:20:22.615966+07:00"
+    },
+    {
+      "id": "fd99a3fcff1a5a4fc0947db30c9634b9",
+      "title": "Công ty đầu ngành xây dựng có 2,4 tỷ USD đơn hàng tồn đọng",
+      "link": "https://vnexpress.net/cong-ty-dau-nganh-xay-dung-co-2-4-ty-usd-don-hang-ton-dong-5012388.html",
+      "summary": "Coteccons trúng thầu 18.000 tỷ đồng trong ba tháng cuối năm ngoái, nâng giá trị đơn hàng tồn đọng (backlog) lên 62.500 tỷ đồng, tương đương 2,4 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T03:07:43+07:00",
+      "fetched": "2026-02-01T12:20:31.105853+07:00"
+    },
+    {
+      "id": "90fee074cc1c4ca80f132bbe4d2a6e29",
+      "title": "Alcaraz - Djokovic: Lịch sử vẫy gọi ở chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-djokovic-lich-su-vay-goi-o-chung-ket-australia-mo-rong-5012408.html",
+      "summary": "Nếu vô địch Australia Mở rộng 2026, Novak Djokovic sẽ độc chiếm kỷ lục 25 Grand Slam, còn Carlos Alcaraz sở hữu trọn bộ major.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:07:22+07:00",
+      "fetched": "2026-02-01T12:20:22.616121+07:00"
+    },
+    {
+      "id": "90fee074cc1c4ca80f132bbe4d2a6e29",
+      "title": "Alcaraz - Djokovic: Lịch sử vẫy gọi ở chung kết Australia Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-djokovic-lich-su-vay-goi-o-chung-ket-australia-mo-rong-5012408.html",
+      "summary": "Nếu vô địch Australia Mở rộng 2026, Novak Djokovic sẽ độc chiếm kỷ lục 25 Grand Slam, còn Carlos Alcaraz sở hữu trọn bộ major.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T03:07:22+07:00",
+      "fetched": "2026-02-01T12:20:36.282796+07:00"
+    },
+    {
+      "id": "3e8882549348b0310f99f4a64247c483",
+      "title": "Hai thiếu niên tử vong sau tai nạn xe máy",
+      "link": "https://vnexpress.net/hai-thieu-nien-tu-vong-sau-tai-nan-xe-may-5012429.html",
+      "summary": "Hai thiếu niên đi xe máy tốc độ cao bị ngã, tử vong tại chỗ trên đường Lý Thái Tổ, một người khác bị thương nặng, rạng sáng 1/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T03:06:31+07:00",
+      "fetched": "2026-02-01T12:20:22.616280+07:00"
+    },
+    {
+      "id": "f9653d4e1f0b8c98d2b949512f604e91",
+      "title": "Ekitike được so sánh với Fernando Torres",
+      "link": "https://vnexpress.net/ekitike-duoc-so-sanh-voi-fernando-torres-5012424.html",
+      "summary": "Steven Gerrard cho rằng Hugo Ekitike gợi nhớ đến hình ảnh \"sát thủ\" Fernando Torres thời đỉnh cao, sau khi tiền đạo người Pháp lập cú đúp giúp Liverpool thắng Newcastle 4-1 ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T02:51:02+07:00",
+      "fetched": "2026-02-01T12:20:36.283797+07:00"
+    },
+    {
+      "id": "1e21544f4a7ad22f64b9a1d27eee2e58",
+      "title": "SpaceX dùng 'biện pháp khẩn cấp' để ngăn Nga lái UAV bằng Starlink",
+      "link": "https://vnexpress.net/spacex-dung-bien-phap-khan-cap-de-ngan-nga-lai-uav-bang-starlink-5012416.html",
+      "summary": "Cố vấn quốc phòng Ukraine cho biết SpaceX đã triển khai biện pháp khẩn cấp nhằm hạn chế Nga sử dụng Starlink để điều khiển UAV.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-01T02:19:27+07:00",
+      "fetched": "2026-02-01T12:20:29.380599+07:00"
+    },
+    {
       "id": "64b987bee836eea8a1dd7a70514d25c1",
       "title": "Linh vật Ngựa Thương được mua giá 222.222.2222 đồng, nghệ nhân làm điều bất ngờ trước tết",
       "link": "https://thanhnien.vn/linh-vat-ngua-thuong-duoc-mua-gia-2222222222-dong-nghe-nhan-lam-dieu-bat-ngo-truoc-tet-185260201071739827.htm",
@@ -203,6 +733,16 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T09:04:37.047441+07:00"
     },
     {
+      "id": "aa3ecb3a43c7648287fbdbeda406a6ec",
+      "title": "Galaxy Z TriFold hết hàng sau vài phút mở bán",
+      "link": "https://vnexpress.net/galaxy-z-trifold-het-hang-sau-vai-phut-mo-ban-5012384.html",
+      "summary": "Galaxy Z TriFold, smartphone gập ba đầu tiên của Samsung, được mua hết sau vài phút lên kệ cuối tháng 1, dù có giá gần 3.000 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T02:00:00+07:00",
+      "fetched": "2026-02-01T12:20:34.286875+07:00"
+    },
+    {
       "id": "89acbc52edcc0e598c295e11769a3225",
       "title": "Học sinh múa võ Tây Sơn, hào hứng trải nghiệm gian hàng Tư vấn mùa thi",
       "link": "https://thanhnien.vn/hoc-sinh-mua-vo-tay-son-hao-hung-trai-nghiem-gian-hang-tu-van-mua-thi-185260201061841599.htm",
@@ -231,6 +771,16 @@ window.newsData_2026_02_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-01T01:52:00+07:00",
       "fetched": "2026-02-01T09:04:37.047925+07:00"
+    },
+    {
+      "id": "b1295018942c5ab0add77c3c24b95803",
+      "title": "Việt Nam nới lỏng nhập khẩu thiết bị bán dẫn qua sử dụng",
+      "link": "https://vnexpress.net/viet-nam-noi-long-nhap-khau-thiet-bi-ban-dan-qua-su-dung-5012017.html",
+      "summary": "Bộ Khoa học và Công nghệ ban hành thông tư, mở rộng điều kiện, cho phép doanh nghiệp nhập khẩu máy móc, thiết bị phục vụ sản xuất bán dẫn dưới 20 năm tuổi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T01:46:05+07:00",
+      "fetched": "2026-02-01T12:20:34.287042+07:00"
     },
     {
       "id": "68e51c823bbcc88912f07fa084db5f0c",
@@ -533,6 +1083,16 @@ window.newsData_2026_02_01 = {
       "fetched": "2026-02-01T09:04:44.004492+07:00"
     },
     {
+      "id": "4d71cd957d6ab14ed0a555d35a62dd2a",
+      "title": "Liverpool đè bẹp Newcastle",
+      "link": "https://vnexpress.net/liverpool-de-bep-newcastle-5012414.html",
+      "summary": "Hai tân binh Hugo Ekitike, Florian Wirtz cùng ghi bàn giúp Liverpool thắng ngược đội khách Newcastle 4-1 ở vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T01:03:39+07:00",
+      "fetched": "2026-02-01T12:20:36.283157+07:00"
+    },
+    {
       "id": "c0d8631bb76050a4a5854b5ba0c6f579",
       "title": "Vệ tinh Nga có thể vỡ trên quỹ đạo",
       "link": "https://vnexpress.net/ve-tinh-nga-co-the-vo-tren-quy-dao-5012338.html",
@@ -831,6 +1391,16 @@ window.newsData_2026_02_01 = {
       "category": "Thể thao",
       "published": "2026-01-31T20:23:41+07:00",
       "fetched": "2026-02-01T05:19:44.725678+07:00"
+    },
+    {
+      "id": "8f8d63dac55b13c08c681a495dee0d46",
+      "title": "Chelsea thắng ngược dù bị dẫn hai bàn ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thang-nguoc-du-bi-dan-hai-ban-o-ngoai-hang-anh-5012406.html",
+      "summary": "Sau khi bị West Ham dẫn 2-0 ở hiệp một, Chelsea ghi ba bàn trong hiệp hai để thắng ngược 3-2 tại vòng 24 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-01-31T20:23:41+07:00",
+      "fetched": "2026-02-01T12:20:36.283318+07:00"
     },
     {
       "id": "8c4d4da1a36bb37f104719434a770be2",
