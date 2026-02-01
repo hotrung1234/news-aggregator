@@ -1,6 +1,6 @@
 window.newsData_2026_02_02 = {
   "date": "2026-02-02",
-  "lastUpdated": "2026-02-02T01:31:08.884456+07:00",
+  "lastUpdated": "2026-02-02T03:23:21.960959+07:00",
   "articles": [
     {
       "id": "b17504b08c205ac1ed3d38cc2b803975",
@@ -151,6 +151,16 @@ window.newsData_2026_02_02 = {
       "category": "Tổng hợp",
       "published": "2026-02-02T01:31:02.374579+07:00",
       "fetched": "2026-02-02T01:31:02.374814+07:00"
+    },
+    {
+      "id": "1c20c77436562c5b1947b9c4b667301a",
+      "title": "HLV Rosenior âm thầm tự khẳng định ở Chelsea",
+      "link": "https://thanhnien.vn/hlv-rosenior-am-tham-tu-khang-dinh-o-chelsea-185260201220435828.htm",
+      "summary": "Thắng 6 trong 7 trận đầu tiên, HLV ít tên tuổi Liam Rosenior của Chelsea (chỉ mới cầm quân từ ngày 8.1) đã âm thầm khẳng định được khả năng của mình. Ông vừa làm nên lịch sử qua trận thắng West Ham 3-2 tại giải Ngoại hạng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T20:02:00+07:00",
+      "fetched": "2026-02-02T03:23:11.796048+07:00"
     },
     {
       "id": "a2ffb4472bba28cfa3af18d90a31d057",
