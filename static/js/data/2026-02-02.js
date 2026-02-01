@@ -1,6 +1,6 @@
 window.newsData_2026_02_02 = {
   "date": "2026-02-02",
-  "lastUpdated": "2026-02-02T03:23:21.960959+07:00",
+  "lastUpdated": "2026-02-02T05:21:03.361343+07:00",
   "articles": [
     {
       "id": "b17504b08c205ac1ed3d38cc2b803975",
@@ -151,6 +151,216 @@ window.newsData_2026_02_02 = {
       "category": "Tổng hợp",
       "published": "2026-02-02T01:31:02.374579+07:00",
       "fetched": "2026-02-02T01:31:02.374814+07:00"
+    },
+    {
+      "id": "dd767e7a6a12f81deaefab154bbf1b45",
+      "title": "Tử vi ngày 2 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-2-thang-2-con-giap-nao-may-man-hom-nay-18526020123510316.htm",
+      "summary": "Tử vi ngày 2 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:15:00+07:00",
+      "fetched": "2026-02-02T05:20:54.919465+07:00"
+    },
+    {
+      "id": "1b58d7e9c2ac20615b61abfcf82b76d1",
+      "title": "Lịch âm hôm nay 2.2: Rằm tháng chạp cuối cùng năm Ất Tỵ có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-22-ram-thang-chap-cuoi-cung-nam-at-ty-co-gi-dac-biet-185260201112420994.htm",
+      "summary": "Hôm nay là ngày rằm tháng chạp, tức ngày rằm cuối cùng của năm Ất Tỵ theo lịch âm. Dương lịch lẫn âm lịch hôm nay có gì đặc biệt mà nhiều người quan tâm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:10:00+07:00",
+      "fetched": "2026-02-02T05:20:54.919634+07:00"
+    },
+    {
+      "id": "abf5933cb173663d2a19938430cd912f",
+      "title": "Chiến sự Ukraine ngày 1.439: Ông Zelensky thông báo ngày đàm phán Nga - Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1439-ong-zelensky-thong-bao-ngay-dam-phan-nga-ukraine-185260201210223652.htm",
+      "summary": "Tiến trình đàm phán nhằm tìm giải pháp hòa bình giữa phái đoàn Ukraine và Nga dự kiến tiếp diễn trong tuần này, trong bối cảnh giao tranh trên thực địa vẫn căng thẳng vào ngày 1.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:09:00+07:00",
+      "fetched": "2026-02-02T05:20:54.919790+07:00"
+    },
+    {
+      "id": "2f657a9b1ed6c3cb8ca7e11bde073baa",
+      "title": "Lịch thi đấu billiards hấp dẫn hôm nay: 2 cơ thủ Việt Nam tranh vé chung kết",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-hap-dan-hom-nay-2-co-thu-viet-nam-tranh-ve-chung-ket-185260202010216707.htm",
+      "summary": "Hôm nay (2.2), 2 cơ thủ Việt Nam là Nguyễn Quốc Nguyện và Nguyễn Đức Anh Chiến sẽ ra sân ở bán kết giải billiards carom 3 băng Hàn Quốc (PBA Tour) mùa 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:08:00+07:00",
+      "fetched": "2026-02-02T05:20:54.919965+07:00"
+    },
+    {
+      "id": "b61a3505b295fcd4aca6e5998faf9638",
+      "title": "Xác định 4 cặp tứ kết futsal châu Á: Đội tuyển Việt Nam đấu Indonesia giờ đẹp",
+      "link": "https://thanhnien.vn/xac-dinh-4-cap-tu-ket-futsal-chau-a-doi-tuyen-viet-nam-dau-indonesia-gio-dep-185260202000220275.htm",
+      "summary": "8 đội bóng sẽ tranh tài ở vòng tứ kết giải futsal châu Á 2026 đã lộ diện. Tại vòng knock-out, đội tuyển Việt Nam so tài với chủ nhà Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:04:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920126+07:00"
+    },
+    {
+      "id": "12f0eb551a40d9975fbe862d43936804",
+      "title": "Đà Nẵng chuẩn hóa quy trình xử lý rác trước áp lực chạm mốc 3.600 tấn/ngày",
+      "link": "https://thanhnien.vn/da-nang-chuan-hoa-quy-trinh-xu-ly-rac-truoc-ap-luc-cham-moc-3600-tan-ngay-185260201165404225.htm",
+      "summary": "Trước dự báo lượng rác thải sinh hoạt chạm mốc 3.600 tấn/ngày vào năm 2030, UBND TP.Đà Nẵng đã chính thức ban hành quy trình kỹ thuật đồng bộ từ khâu thu gom, vận chuyển đến xử lý chất thải trên toàn địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:04:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920289+07:00"
+    },
+    {
+      "id": "17ba6e6d742fd4a598df49b93f1c97fe",
+      "title": "Đặc phái viên Mỹ đến Venezuela khôi phục quan hệ ngoại giao",
+      "link": "https://thanhnien.vn/dac-phai-vien-my-den-venezuela-khoi-phuc-quan-he-ngoai-giao-185260201210515049.htm",
+      "summary": "Reuters ngày 1.2 đưa tin Đặc phái viên Mỹ Laura Dogu vừa đến thủ đô Caracas của Venezuela nhằm mở lại phái đoàn ngoại giao, trong bối cảnh 2 nước dần khôi phục quan hệ bị cắt đứt vào tháng 2.2019.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:02:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920442+07:00"
+    },
+    {
+      "id": "727a099db6fafdf1fb441443f4079064",
+      "title": "Tín hiệu tích cực cho căng thẳng Mỹ - Iran",
+      "link": "https://thanhnien.vn/tin-hieu-tich-cuc-cho-cang-thang-my-iran-185260201210350946.htm",
+      "summary": "Hôm qua 1.2 (giờ VN), ông Ali Larijani, người đứng đầu Hội đồng An ninh quốc gia tối cao Iran, cho biết đã có tiến triển trong đàm phán với Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:01:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920589+07:00"
+    },
+    {
+      "id": "7f06e5f200c0f2fc04b54233860c4b28",
+      "title": "Nỗi niềm hộ kinh doanh",
+      "link": "https://thanhnien.vn/noi-niem-ho-kinh-doanh-185260201220156619.htm",
+      "summary": "Sau hơn 1 tháng áp dụng phương pháp tính thuế mới, xuất hóa đơn điện tử..., một số vấn đề bất cập đã nảy sinh với nhiều hộ kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:00:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920736+07:00"
+    },
+    {
+      "id": "904a0d27a3702255d759990b673f2a40",
+      "title": "Mòn mỏi chờ ngày thoát khỏi ô nhiễm",
+      "link": "https://thanhnien.vn/mon-moi-cho-ngay-thoat-khoi-o-nhiem-185260201203436211.htm",
+      "summary": "Ở cạnh trạm nghiền xi măng và bãi rác thải, hàng chục hộ dân ở Nghệ An phải sống chung với ô nhiễm, trong khi phương án di dời khỏi khu vực này đang gặp khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:00:00+07:00",
+      "fetched": "2026-02-02T05:20:54.920889+07:00"
+    },
+    {
+      "id": "cbd5f0c51d8dc2d4a55183cdc71931f4",
+      "title": "Bác sĩ ơi: Sốt xuất huyết tấn công trẻ nhỏ - Dấu hiệu nào cần nhập viện ngay?",
+      "link": "https://thanhnien.vn/bac-si-oi-sot-xuat-huyet-tan-cong-tre-nho-dau-hieu-nao-can-nhap-vien-ngay-185260119092337918.htm",
+      "summary": "Sốt xuất huyết đang gia tăng ở trẻ nhỏ với nguy cơ diễn tiến nhanh và biến chứng nguy hiểm. Nhiều trường hợp ban đầu chỉ sốt nhẹ, mệt mỏi, dễ bị nhầm với các bệnh thông thường, khiến việc điều trị bị chậm trễ. Vậy những dấu hiệu nào cảnh báo trẻ cần được đưa đến bệnh viện ngay để tránh nguy cơ sốc v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T22:00:00+07:00",
+      "fetched": "2026-02-02T05:20:54.921063+07:00"
+    },
+    {
+      "id": "95c5c524e98814cbf78cd75971007eaa",
+      "title": "Ngành gỗ nội thất tìm cách gỡ mác gia công",
+      "link": "https://vnexpress.net/nganh-go-noi-that-tim-cach-go-mac-gia-cong-5008343.html",
+      "summary": "Nhiều doanh nghiệp gỗ nội thất đang tích cực ra mắt thiết kế riêng, tự bán lẻ trực tuyến và quay lại sân nhà để thoát mác \"làm thuê\", gia tăng biên lợi nhuận.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-01T22:00:00+07:00",
+      "fetched": "2026-02-02T05:20:59.143255+07:00"
+    },
+    {
+      "id": "80784b3ca60b7da35b32dc0c9eafcebb",
+      "title": "Lý do thế giới theo đuổi năng lượng hạt nhân",
+      "link": "https://vnexpress.net/ly-do-the-gioi-theo-duoi-nang-luong-hat-nhan-5012423.html",
+      "summary": "Câu trả lời về lý do thế giới theo đuổi năng lượng hạt nhân được lý giải trong cuốn sách của kỹ sư Bertrand Barré, vừa ra mắt bạn đọc Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-01T22:00:00+07:00",
+      "fetched": "2026-02-02T05:21:01.657740+07:00"
+    },
+    {
+      "id": "4aaf919dd67186fcabb622a04c4efe3c",
+      "title": "Trạm trộn bê tông gây ô nhiễm khu dân cư TP.HCM: Doanh nghiệp nói gì?",
+      "link": "https://thanhnien.vn/tram-tron-be-tong-gay-o-nhiem-khu-dan-cu-tphcm-doanh-nghiep-noi-gi-185260201204252121.htm",
+      "summary": "Trước phản ánh trạm trộn bê tông gây ô nhiễm khu dân cư ở hẻm 230 Nguyễn Xiển (phường Long Phước, TP.HCM), doanh nghiệp vận hành khẳng định đã khắc phục các tồn tại, cam kết không lặp lại sự việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:57:00+07:00",
+      "fetched": "2026-02-02T05:20:54.921210+07:00"
+    },
+    {
+      "id": "c025a1b3cac3f2f17fd1bbe1acf27c16",
+      "title": "Futsal Đông Nam Á ghi dấu ấn ở sân chơi châu lục",
+      "link": "https://thanhnien.vn/futsal-dong-nam-a-ghi-dau-an-o-san-choi-chau-luc-185260201215638622.htm",
+      "summary": "Với 3 đại diện góp mặt tại vòng tứ kết sau khi vượt mặt nhiều đối thủ khu vực Trung Á và Tây Á, futsal Đông Nam Á đang khẳng định vị thế tại đấu trường châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:54:00+07:00",
+      "fetched": "2026-02-02T05:20:54.921358+07:00"
+    },
+    {
+      "id": "197c8f42367e67f33e16c062240876e0",
+      "title": "Cà Mau: Công ty Sing Việt chiếm đất ven sông, xây dựng sai phép",
+      "link": "https://thanhnien.vn/ca-mau-cong-ty-sing-viet-chiem-dat-ven-song-xay-dung-sai-phep-185260201153453436.htm",
+      "summary": "Thanh tra tỉnh Cà Mau xác định Công ty TNHH Sing Việt Sông Đốc sử dụng hàng ngàn mét vuông đất ngoài ranh thuê, xây dựng công trình trái phép, chồng lấn hành lang sông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:54:00+07:00",
+      "fetched": "2026-02-02T05:20:54.921502+07:00"
+    },
+    {
+      "id": "6143549d4a974c4e6a1adc0b2001a0e7",
+      "title": "Giới trẻ miền Tây mê mệt ‘phim trường ảnh tết’ trong Thiền viện Trúc Lâm phương Nam",
+      "link": "https://thanhnien.vn/gioi-tre-mien-tay-me-met-phim-truong-anh-tet-trong-thien-vien-truc-lam-phuong-nam-185260201180348445.htm",
+      "summary": "Với kiến trúc cổ kính, nhiều tiểu cảnh trong không gian rộng gần 4 ha, Thiền viện Trúc Lâm phương Nam là một trong những ‘phim trường ảnh tết’ thu hút giới trẻ bậc nhất ở miền Tây mỗi dịp xuân về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:53:00+07:00",
+      "fetched": "2026-02-02T05:20:54.921645+07:00"
+    },
+    {
+      "id": "aaa753326a1fc4b35bc1aaf239ee5407",
+      "title": "Hyundai triệu hồi hơn nửa triệu xe tại Mỹ vì nguy cơ túi khí bung sai",
+      "link": "https://vnexpress.net/hyundai-trieu-hoi-hon-nua-trieu-xe-tai-my-vi-nguy-co-tui-khi-bung-sai-5012600.html",
+      "summary": "Hyundai triệu hồi 568.576 xe Palisade do nguy cơ túi khí rèm hàng ghế ba bung không đúng cách khi va chạm, theo cơ quan an toàn giao thông Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:00:00+07:00",
+      "fetched": "2026-02-02T05:20:52.136782+07:00"
+    },
+    {
+      "id": "3792656a50449d52a63655903b7811fb",
+      "title": "Thầy cũ của Djokovic: 'Nole đã trở lại, Alcaraz, Sinner hãy dè chừng'",
+      "link": "https://vnexpress.net/thay-cu-cua-djokovic-nole-da-tro-lai-alcaraz-sinner-hay-de-chung-5012598.html",
+      "summary": "Từng dẫn dắt Novak Djokovic, Jannik Sinner thời đầu sự nghiệp, HLV người Italy Riccardo Piatti tin Nole còn nhiều cơ hội chinh phục các đỉnh cao mới trong mùa 2026, dù vừa thua chung kết Australia Mở rộng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T21:00:00+07:00",
+      "fetched": "2026-02-02T05:20:52.136991+07:00"
+    },
+    {
+      "id": "3792656a50449d52a63655903b7811fb",
+      "title": "Thầy cũ của Djokovic: 'Nole đã trở lại, Alcaraz, Sinner hãy dè chừng'",
+      "link": "https://vnexpress.net/thay-cu-cua-djokovic-nole-da-tro-lai-alcaraz-sinner-hay-de-chung-5012598.html",
+      "summary": "Từng dẫn dắt Novak Djokovic, Jannik Sinner thời đầu sự nghiệp, HLV người Italy Riccardo Piatti tin Nole còn nhiều cơ hội chinh phục các đỉnh cao mới trong mùa 2026, dù vừa thua chung kết Australia Mở rộng 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-01T21:00:00+07:00",
+      "fetched": "2026-02-02T05:21:03.356525+07:00"
+    },
+    {
+      "id": "ce9a6212a505bb48b5130bbe17cedebc",
+      "title": "Hà Nội tìm nhà đầu tư dự án nhà xã hội hơn 1.900 tỷ đồng",
+      "link": "https://vnexpress.net/ha-noi-tim-nha-dau-tu-du-an-nha-xa-hoi-hon-1-900-ty-dong-5012601.html",
+      "summary": "Bộ Quốc phòng đang tìm nhà đầu tư xây dự án nhà ở xã hội cho lực lượng vũ trang, quy mô gần 1.000 căn, vốn trên 1.900 tỷ đồng tại quận Bắc Từ Liêm (cũ).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-01T20:15:00+07:00",
+      "fetched": "2026-02-02T05:20:52.137158+07:00"
     },
     {
       "id": "1c20c77436562c5b1947b9c4b667301a",
