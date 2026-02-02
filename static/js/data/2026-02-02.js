@@ -1,7 +1,137 @@
 window.newsData_2026_02_02 = {
   "date": "2026-02-02",
-  "lastUpdated": "2026-02-02T21:38:57.059268+07:00",
+  "lastUpdated": "2026-02-02T23:36:26.823979+07:00",
   "articles": [
+    {
+      "id": "30146dbc1d129a2ae3af8c1ad5df8a8f",
+      "title": "Áp lực lãi suất margin dần lộ diện, chứng khoán ra sao?",
+      "link": "https://tuoitre.vn/ap-luc-lai-suat-margin-dan-lo-dien-chung-khoan-ra-sao-20260202192440692.htm",
+      "summary": "Thị trường đã ghi nhận một số công ty chứng khoán tăng lãi suất margin khoảng 1%, và trong kịch bản cơ sở, mặt bằng lãi suất margin tiêu chuẩn trong nửa đầu 2026 có thể duy trì ở vùng 12%-14%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.526460+07:00",
+      "fetched": "2026-02-02T23:36:21.526575+07:00"
+    },
+    {
+      "id": "92b04ba7d034d46d25d94feaff767a3e",
+      "title": "Bị chê tơi tả, phim của Đệ nhất phu nhân Melania Trump vẫn thu 7 triệu USD",
+      "link": "https://tuoitre.vn/bi-che-toi-ta-phim-cua-de-nhat-phu-nhan-melania-trump-van-thu-7-trieu-usd-20260202194429684.htm",
+      "summary": "Phim tài liệu Melania về Đệ nhất phu nhân Melania Trump đã vượt kỳ vọng phòng vé khi thu về khoảng 7 triệu USD trong tuần đầu tiên, trở thành phim tài liệu ra mắt thành công nhất trong hơn 10 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.526317+07:00",
+      "fetched": "2026-02-02T23:36:21.526448+07:00"
+    },
+    {
+      "id": "233959fb7079190fdfd573bae69835bb",
+      "title": "Rosé BlackPink trắng tay, Grammy lại 'ngó lơ' K-pop?",
+      "link": "https://tuoitre.vn/rose-blackpink-trang-tay-grammy-lai-ngo-lo-k-pop-20260202182535182.htm",
+      "summary": "Việc Rosé (BlackPink) và siêu hit APT. không giành được giải thưởng nào tại Grammy nhanh chóng khiến khán giả phẫn nộ, cho rằng giải thưởng này chú trọng nghệ thuật mà bỏ qua tính đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.526182+07:00",
+      "fetched": "2026-02-02T23:36:21.526305+07:00"
+    },
+    {
+      "id": "889af8e073c18ffb33d1302d3de4e3ce",
+      "title": "Lâm Đồng yêu cầu làm rõ trách nhiệm cán bộ để lộ thông tin người tố cáo tiêu cực",
+      "link": "https://tuoitre.vn/lam-dong-yeu-cau-lam-ro-trach-nhiem-can-bo-de-lo-thong-tin-nguoi-to-cao-tieu-cuc-20260202191914565.htm",
+      "summary": "UBND tỉnh Lâm Đồng yêu cầu các cơ quan chức năng làm rõ trách nhiệm cá nhân, tập thể liên quan đến việc để lộ danh tính người tố cáo tiêu cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.526056+07:00",
+      "fetched": "2026-02-02T23:36:21.526171+07:00"
+    },
+    {
+      "id": "792eb7b0f53c3d233e80c1062fc17674",
+      "title": "Khi Tết 'chạm' vào không gian trường học cùng con trẻ",
+      "link": "https://tuoitre.vn/khi-tet-cham-vao-khong-gian-truong-hoc-cung-con-tre-20260202195512633.htm",
+      "summary": "Mấy hôm nay, cậu con trai tiểu học của tôi về nhà là nhắc mãi một việc: 'Mẹ ơi, mẹ nhớ chuẩn bị trang phục với hoa quả nha mẹ, trường con có Lễ hội Tết Việt đó!'",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525930+07:00",
+      "fetched": "2026-02-02T23:36:21.526044+07:00"
+    },
+    {
+      "id": "e631d6d38293add3a6fb50748bd1c3c7",
+      "title": "Vụ xe biển xanh đỗ ngay dưới biển cấm: Vì sao không xử phạt lỗi biển số xe bị bùn đất che lấp?",
+      "link": "https://tuoitre.vn/vu-xe-bien-xanh-do-ngay-duoi-bien-cam-vi-sao-khong-xu-phat-loi-bien-so-xe-bi-bun-dat-che-lap-20260202200832011.htm",
+      "summary": "Chiếc xe biển xanh bị bùn đất che lấp chữ số, tài xế cho biết vừa đi công tác trên quãng đường xấu, lầy lội. Căn cứ lời khai, cảnh sát giao thông đã sử dụng các biện pháp nghiệp vụ (hệ thống camera giám sát, camera hành trình…) để xác minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525803+07:00",
+      "fetched": "2026-02-02T23:36:21.525919+07:00"
+    },
+    {
+      "id": "5e45efd4a3f3bc6c76fcfe1963b657aa",
+      "title": "Tổng Bí thư Tô Lâm và Thủ tướng Phạm Minh Chính tiếp Đặc phái viên Đảng, Nhà nước Cuba",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-va-thu-tuong-pham-minh-chinh-tiep-dac-phai-vien-dang-nha-nuoc-cuba-20260202201450886.htm",
+      "summary": "Ngày 2-2, Tổng Bí thư Tô Lâm và Thủ tướng Phạm Minh Chính đã có các cuộc tiếp Đặc phái viên Cuba Bruno Rodríguez Parrilla.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525678+07:00",
+      "fetched": "2026-02-02T23:36:21.525792+07:00"
+    },
+    {
+      "id": "4bc293dd7b9093b26029732108151e6b",
+      "title": "Kỳ nhông ‘rụng như mưa’ vì lạnh, Mỹ kêu gọi người dân tranh thủ ‘thu hoạch’",
+      "link": "https://tuoitre.vn/ky-nhong-rung-nhu-mua-vi-lanh-my-keu-goi-nguoi-dan-tranh-thu-thu-hoach-20260202205808572.htm",
+      "summary": "Đợt thời tiết cực đoan ở Mỹ mở ra cơ hội cho người dân bang Florida xử lý loài kỳ nhông xanh gây hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525547+07:00",
+      "fetched": "2026-02-02T23:36:21.525666+07:00"
+    },
+    {
+      "id": "d81b9f46fe543a9ce7c46304688df9d5",
+      "title": "Ngắm đàn ‘ngựa xuân’ của 20 họa sĩ nam, bắc",
+      "link": "https://tuoitre.vn/ngam-dan-ngua-xuan-cua-20-hoa-si-nam-bac-20260202182000628.htm",
+      "summary": "Hơn 30 bức tranh xuân vẽ chủ đề con ngựa, hầu hết mới sáng tác trong những ngày đầu năm 2026 của 20 họa sĩ khắp trong nam, ngoài bắc đang được giới thiệu tới đông đảo công chúng trong triển lãm ‘Ngựa xuân’ tại trụ sở Báo Nhân Dân ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525388+07:00",
+      "fetched": "2026-02-02T23:36:21.525529+07:00"
+    },
+    {
+      "id": "a552060edd0addb57d87b08cfa83bf23",
+      "title": "'Hóng' thời đại Hùng Vương lần đầu lên màn ảnh rộng",
+      "link": "https://tuoitre.vn/hong-thoi-dai-hung-vuong-lan-dau-len-man-anh-rong-202602022011532.htm",
+      "summary": "Phim ‘Huyền tình Dạ Trạch’ đang nhận được sự chú ý và thảo luận của các hội nhóm trên mạng khi lần đầu đưa thời đại Hùng Vương lên màn ảnh rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525257+07:00",
+      "fetched": "2026-02-02T23:36:21.525377+07:00"
+    },
+    {
+      "id": "e72812c6f8a3180f97a810f90f5ecaf6",
+      "title": "Cần Thơ tổ chức chương trình vận động gây quỹ cho bệnh nhân ung thư",
+      "link": "https://tuoitre.vn/chuong-trinh-van-dong-gay-quy-cho-benh-nhan-ung-thu-20260202205418701.htm",
+      "summary": "Tối 2-2, trong chương trình gây quỹ “Hỗ trợ bệnh nhân ung thư”, do Bệnh viện Ung bướu TP Cần Thơ tổ chức, đã vận động được 3,6 tỉ đồng gồm tiền mặt và hiện vật cho quỹ hỗ trợ bệnh nhân ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.525122+07:00",
+      "fetched": "2026-02-02T23:36:21.525245+07:00"
+    },
+    {
+      "id": "70938974f2dca1cb8eab3b4d03f5a51e",
+      "title": "Uống trà lá bồ đề có giúp ngăn tái phát nhồi máu cơ tim?",
+      "link": "https://tuoitre.vn/uong-tra-la-bo-de-co-giup-ngan-tai-phat-nhoi-mau-co-tim-20260202115239023.htm",
+      "summary": "Thông tin uống trà lá bồ đề có thể loại bỏ 99% mảng bám trong mạch máu và ngăn ngừa hoàn toàn nhồi máu cơ tim tái phát là sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.524980+07:00",
+      "fetched": "2026-02-02T23:36:21.525110+07:00"
+    },
+    {
+      "id": "70c56d1899cff4451ee903952ad9c276",
+      "title": "Thông tin thêm về đại gia ngân hàng Việt 'kín tiếng' vừa vào danh sách tỉ phú USD",
+      "link": "https://tuoitre.vn/thong-tin-them-ve-dai-gia-ngan-hang-viet-kin-tieng-vua-vao-danh-sach-ti-phu-usd-2026020221250327.htm",
+      "summary": "Ông Ngô Chí Dũng, Chủ tịch VPBank, vừa được Forbes ghi nhận là tỉ phú USD, trở thành người thứ ba trong lĩnh vực ngân hàng ở Việt Nam có tên trong danh sách những người giàu nhất hành tinh của tạp chí này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T23:36:21.524790+07:00",
+      "fetched": "2026-02-02T23:36:21.524964+07:00"
+    },
     {
       "id": "e6cc4c7bdf8d7d76591983390250564c",
       "title": "Cần Thơ có 4 người tự ứng cử đại biểu Quốc hội, 3 người tự ứng cử đại biểu HĐND thành phố",
@@ -603,6 +733,96 @@ window.newsData_2026_02_02 = {
       "fetched": "2026-02-02T15:39:33.510449+07:00"
     },
     {
+      "id": "cef9e82e66e742c0c7cbd7ec81010954",
+      "title": "Quốc Cường Gia Lai trả 1.200 tỷ đồng nợ liên quan bà Trương Mỹ Lan",
+      "link": "https://vnexpress.net/quoc-cuong-gia-lai-tra-1-200-ty-dong-no-lien-quan-ba-truong-my-lan-5013289.html",
+      "summary": "Quốc Cường Gia Lai đã trả 1.200 tỷ đồng trong số 2.882 tỷ đồng nhận từ Sunny Island của bà Trương Mỹ Lan theo giao kết mua bán dự án khu dân cư Bắc Phước Kiển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T15:24:28+07:00",
+      "fetched": "2026-02-02T23:36:16.823097+07:00"
+    },
+    {
+      "id": "cef9e82e66e742c0c7cbd7ec81010954",
+      "title": "Quốc Cường Gia Lai trả 1.200 tỷ đồng nợ liên quan bà Trương Mỹ Lan",
+      "link": "https://vnexpress.net/quoc-cuong-gia-lai-tra-1-200-ty-dong-no-lien-quan-ba-truong-my-lan-5013289.html",
+      "summary": "Quốc Cường Gia Lai đã trả 1.200 tỷ đồng trong số 2.882 tỷ đồng nhận từ Sunny Island của bà Trương Mỹ Lan theo giao kết mua bán dự án khu dân cư Bắc Phước Kiển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-02T15:24:28+07:00",
+      "fetched": "2026-02-02T23:36:24.034746+07:00"
+    },
+    {
+      "id": "759866400ee75bca086b1d9458fa9434",
+      "title": "Trung Quốc kết án chung thân cựu bộ trưởng nhận hối lộ gần 20 triệu USD",
+      "link": "https://vnexpress.net/trung-quoc-ket-an-chung-than-cuu-bo-truong-nhan-hoi-lo-gan-20-trieu-usd-5013278.html",
+      "summary": "Cựu bộ trưởng tư pháp Đường Nhất Quân bị tuyên án tù chung thân vì phạm tội nhận hối lộ gần 20 triệu USD trong hơn 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T15:18:57+07:00",
+      "fetched": "2026-02-02T23:36:16.823273+07:00"
+    },
+    {
+      "id": "759866400ee75bca086b1d9458fa9434",
+      "title": "Trung Quốc kết án chung thân cựu bộ trưởng nhận hối lộ gần 20 triệu USD",
+      "link": "https://vnexpress.net/trung-quoc-ket-an-chung-than-cuu-bo-truong-nhan-hoi-lo-gan-20-trieu-usd-5013278.html",
+      "summary": "Cựu bộ trưởng tư pháp Đường Nhất Quân bị tuyên án tù chung thân vì phạm tội nhận hối lộ gần 20 triệu USD trong hơn 10 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-02T15:18:57+07:00",
+      "fetched": "2026-02-02T23:36:23.094666+07:00"
+    },
+    {
+      "id": "961c65f64b72c5bb4991aa71060f83d3",
+      "title": "Nóng: Thái Sơn chốt ngày mổ dây chằng ở Bệnh viện Vạn Hạnh, chờ tái xuất",
+      "link": "https://thanhnien.vn/nong-thai-son-chot-ngay-mo-o-benh-vien-van-hanh-cho-tai-xuat-185260202214338223.htm",
+      "summary": "Tiền vệ Thái Sơn sẽ được thực hiện ca mổ phẫu thuật điều trị chấn thương dây chằng gặp phải ở trận Ninh Bình gặp CLB CAHN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T15:04:00+07:00",
+      "fetched": "2026-02-02T23:36:20.217175+07:00"
+    },
+    {
+      "id": "0b62b5742451c64f0ed1b9dd21484a95",
+      "title": "Túi clutch cầm tay, chi tiết nhỏ thay đổi diện mạo tức thì",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-clutch-cam-tay-chi-tiet-nho-thay-doi-dien-mao-tuc-thi-185260202091000628.htm",
+      "summary": "Clutch cầm tay luôn giữ một vị trí riêng biệt trong thế giới thời trang, thiết kế nhỏ gọn chính là điểm mạnh giúp món phụ kiện này dễ dàng biến hóa nhiều phong cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T15:00:00+07:00",
+      "fetched": "2026-02-02T23:36:20.217342+07:00"
+    },
+    {
+      "id": "e3bd5ef90f79b00b9e4727f16718d757",
+      "title": "Chụp X-quang chỉ vài giây, vì sao phải 'đủ 6 phút' mới được thanh toán?",
+      "link": "https://vnexpress.net/chup-x-quang-chi-vai-giay-vi-sao-phai-du-6-phut-moi-duoc-thanh-toan-5013281.html",
+      "summary": "Dù máy móc hiện đại chỉ mất vài giây để chụp X-quang, cơ quan Bảo hiểm xã hội vẫn yêu cầu quy trình phải kéo dài đủ 6 phút mới thanh toán, khiến nhiều bệnh viện bị xuất toán chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T14:59:02+07:00",
+      "fetched": "2026-02-02T23:36:16.823453+07:00"
+    },
+    {
+      "id": "e2c51a93a39065680f5ccdd3cdc35da5",
+      "title": "Xin đầu thú nhưng không hộ chiếu, đối tượng truy nã được công an đưa về nước",
+      "link": "https://thanhnien.vn/xin-dau-thu-nhung-khong-ho-chieu-doi-tuong-truy-na-duoc-cong-an-dua-ve-nuoc-185260202204744916.htm",
+      "summary": "Sau thời gian lẩn trốn tại Campuchia, đối tượng truy nã đã liên hệ xin đầu thú nhưng không thể nhập cảnh do không có hộ chiếu, lực lượng công an phối hợp đưa về Việt Nam qua cửa khẩu Xa Mát (Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T14:55:00+07:00",
+      "fetched": "2026-02-02T23:36:20.217520+07:00"
+    },
+    {
+      "id": "3b92a2651646ff42bb9724f77c943108",
+      "title": "Tiềm năng diễn xuất ở người điếc",
+      "link": "https://vnexpress.net/tiem-nang-dien-xuat-o-nguoi-diec-5009265.html",
+      "summary": "Vượt rào cản âm thanh, diễn xuất bằng ngôn ngữ hình thể của người điếc mở hướng phát triển cho cộng đồng này ở lĩnh vực phim ảnh trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T14:37:57+07:00",
+      "fetched": "2026-02-02T23:36:16.823613+07:00"
+    },
+    {
       "id": "3218cd645aca8d7aa689458cd3693560",
       "title": "Hà Lê, Đỗ Hoàng Hiệp… tái hợp trong đêm diễn hơn 3.000 khán giả",
       "link": "https://thanhnien.vn/ha-le-do-hoang-hiep-tai-hop-trong-dem-dien-hon-3000-khan-gia-18526020219191166.htm",
@@ -633,6 +853,16 @@ window.newsData_2026_02_02 = {
       "fetched": "2026-02-02T21:38:50.788242+07:00"
     },
     {
+      "id": "e3fd9c8dd1061c29538607d1f602aaac",
+      "title": "Bà chủ chuỗi nhà thuốc Mỹ Châu được giảm 13 năm tù",
+      "link": "https://vnexpress.net/ba-chu-chuoi-nha-thuoc-my-chau-duoc-giam-13-nam-tu-5013279.html",
+      "summary": "Tòa phúc thẩm ghi nhận bà Lê Thị Mỹ Châu có nhiều tình tiết giảm nhẹ chưa được cấp sơ thẩm ghi nhận trong vụ đưa 7 tỷ đồng \"chạy án\" nên giảm cho bà 13 năm tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T14:02:07+07:00",
+      "fetched": "2026-02-02T23:36:16.823937+07:00"
+    },
+    {
       "id": "fb47203ec8070cb0845f812065e2dbdc",
       "title": "Việt Nam luôn đoàn kết, ủng hộ và sát cánh cùng Cuba",
       "link": "https://thanhnien.vn/viet-nam-luon-doan-ket-ung-ho-va-sat-canh-cung-cuba-185260202195503856.htm",
@@ -651,6 +881,16 @@ window.newsData_2026_02_02 = {
       "category": "Tổng hợp",
       "published": "2026-02-02T14:01:00+07:00",
       "fetched": "2026-02-02T21:38:50.788558+07:00"
+    },
+    {
+      "id": "107ea8b2ab3d9ce4febfb6623ae66531",
+      "title": "Chồng giao nhiệm vụ 'nhà 9 người ăn Tết với 5 triệu đồng'",
+      "link": "https://vnexpress.net/gia-thit-heo-dip-tet-2026-chi-phi-don-tet-gia-dinh-bao-nhieu-la-vua-5013202.html",
+      "summary": "Số tiền ấy chỉ đủ nấu cơm như ngày bình thường, nhưng hễ có khách là bị hỏi 'đồ ăn đâu?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-02T14:00:00+07:00",
+      "fetched": "2026-02-02T23:36:16.824088+07:00"
     },
     {
       "id": "df7581c107ae9aa0603fe6005b88721f",
