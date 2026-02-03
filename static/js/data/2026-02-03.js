@@ -1,7 +1,157 @@
 window.newsData_2026_02_03 = {
   "date": "2026-02-03",
-  "lastUpdated": "2026-02-03T08:55:58.287134+07:00",
+  "lastUpdated": "2026-02-03T11:14:07.188572+07:00",
   "articles": [
+    {
+      "id": "80271aceb4918b7e36cf4f2ceade1855",
+      "title": "Chất ống bê tông cao 2-3 tầng nhưng không chằng buộc an toàn, tài xế xe container bị phạt",
+      "link": "https://tuoitre.vn/chat-ong-be-tong-cao-2-3-tang-nhung-khong-chang-buoc-an-toan-tai-xe-xe-container-bi-phat-20260203082456261.htm",
+      "summary": "Cảnh sát đã lập biên bản vi phạm hành chính với ông C. về hành vi vận chuyển hàng hóa không bảo đảm an toàn. Mức phạt theo Nghị định 168 là 10 triệu đồng, trừ 4 điểm giấy phép lái xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.102160+07:00",
+      "fetched": "2026-02-03T11:13:59.102290+07:00"
+    },
+    {
+      "id": "702bffb7507f31afb09bc19b9283a41a",
+      "title": "Chợ đêm Lê Duẩn nhộn nhịp cận Tết, khách đông nhưng mua sắm dè dặt",
+      "link": "https://tuoitre.vn/cho-dem-le-duan-nhon-nhip-can-tet-khach-dong-nhung-mua-sam-de-dat-20260203004633666.htm",
+      "summary": "Gần Tết, chợ đêm Lê Duẩn (TP Đà Nẵng) ngày càng nhộn nhịp người đến mua sắm. Tuy nhiên nhiều tiểu thương vẫn không khỏi lo lắng, khi sức mua năm nay giảm so với những mùa Tết trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.102032+07:00",
+      "fetched": "2026-02-03T11:13:59.102148+07:00"
+    },
+    {
+      "id": "1b5272dd3c54f4c471f6fdd673174864",
+      "title": "Người thầy mang sứ mệnh trưởng thành cùng thiếu nhi",
+      "link": "https://tuoitre.vn/nguoi-thay-mang-su-menh-truong-thanh-cung-thieu-nhi-20260203054044553.htm",
+      "summary": "Tôi vẫn nghiên cứu để nâng cao chuyên môn, tham gia các đề tài khoa học để làm gương cho học trò, cũng là học Bác tinh thần tự học bền bỉ', anh Đạt cho hay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101906+07:00",
+      "fetched": "2026-02-03T11:13:59.102017+07:00"
+    },
+    {
+      "id": "a3b06b56722dc9b09551f2bf4ecc4d52",
+      "title": "Mỹ - Iran đối đầu: Có cơ hội cho ngoại giao?",
+      "link": "https://tuoitre.vn/my-iran-doi-dau-co-co-hoi-cho-ngoai-giao-20260203080609107.htm",
+      "summary": "Lãnh tụ tối cao Iran Ali Khamenei cảnh báo bất kỳ cuộc tấn công nào của Mỹ nhằm vào Iran đều sẽ dẫn tới \"chiến tranh khu vực\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101782+07:00",
+      "fetched": "2026-02-03T11:13:59.101895+07:00"
+    },
+    {
+      "id": "174b13a7860bcdc0b6e92df93d50e9e1",
+      "title": "Cần Giờ ra mắt 'siêu điểm đến' với lễ hội Xuân xuyên Tết",
+      "link": "https://tuoitre.vn/can-gio-ra-mat-sieu-diem-den-voi-le-hoi-xuan-xuyen-tet-20260203075714403.htm",
+      "summary": "Lễ hội Xuân Cần Giờ năm nay kéo dài ba tuần, kết hợp khinh khí cầu, dù lượn, pháo hoa...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101657+07:00",
+      "fetched": "2026-02-03T11:13:59.101771+07:00"
+    },
+    {
+      "id": "bbb8e5fcc0bbe62378612a1b3e48babb",
+      "title": "Nga tấn công Kiev sau khi thỏa thuận tạm ngừng bắn hết thời hạn",
+      "link": "https://tuoitre.vn/nga-tan-cong-kiev-sau-khi-thoa-thuan-tam-ngung-ban-het-thoi-han-20260203092712441.htm",
+      "summary": "Ukraine cáo buộc Nga tấn công vào Kiev trong bối cảnh nhiệt độ ở thủ đô giảm xuống tới -20ºC, sau khi thỏa thuận tạm ngừng bắn kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101524+07:00",
+      "fetched": "2026-02-03T11:13:59.101634+07:00"
+    },
+    {
+      "id": "c82241fa6a914ad1742729cfe42ccf83",
+      "title": "Ông bà Clinton đồng ý ra điều trần vụ Epstein, nói muốn làm gương",
+      "link": "https://tuoitre.vn/vo-chong-clinton-chiu-ra-dieu-tran-vu-epstein-noi-muon-lam-guong-202602030922186.htm",
+      "summary": "Vợ chồng cựu Tổng thống Mỹ đồng ý tham gia phiên điều trần trước Quốc hội về vụ Epstein, vài tuần sau khi từ chối việc này và bị đe dọa pháp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101400+07:00",
+      "fetched": "2026-02-03T11:13:59.101512+07:00"
+    },
+    {
+      "id": "01a5dd1132200d48a35f76215c7927e9",
+      "title": "'Bé 3 tuổi bị rết biển cắn cần máu hiếm' gây 'bão' chia sẻ: Hóa ra là tin vịt",
+      "link": "https://tuoitre.vn/be-3-tuoi-bi-ret-bien-can-can-mau-hiem-gay-bao-chia-se-hoa-ra-la-tin-vit-20260203091612968.htm",
+      "summary": "Thông tin kêu gọi hiến máu hiếm cho bé 3 tuổi bị rết biển cắn ở Vũng Tàu thu hút hàng chục ngàn lượt bình luận, chia sẻ của cộng đồng mạng. Tuy nhiên đây là thông tin sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101273+07:00",
+      "fetched": "2026-02-03T11:13:59.101388+07:00"
+    },
+    {
+      "id": "20792e864c40c6b54835868c5df37fc6",
+      "title": "Những thực phẩm nên ăn và nên tránh để có hàm răng khỏe mạnh",
+      "link": "https://tuoitre.vn/nhung-thuc-pham-nen-an-va-nen-tranh-de-co-ham-rang-khoe-manh-2026020309363619.htm",
+      "summary": "Hàm răng trắng đều là mơ ước của mọi người, nhưng làm gì để có nó?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101127+07:00",
+      "fetched": "2026-02-03T11:13:59.101260+07:00"
+    },
+    {
+      "id": "4742124d71e23912f4f721089ff2b417",
+      "title": "Netflix sẽ phát sóng trực tiếp toàn cầu sân khấu tái xuất của BTS",
+      "link": "https://tuoitre.vn/netflix-se-phat-song-truc-tiep-toan-cau-san-khau-tai-xuat-cua-bts-20260203091258536.htm",
+      "summary": "Concert trở lại của BTS tại quảng trường Gwanghwamun vào ngày 21-3 sẽ được Netflix phát sóng trực tiếp tới hơn 190 quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.101003+07:00",
+      "fetched": "2026-02-03T11:13:59.101116+07:00"
+    },
+    {
+      "id": "2fdcb0958a7872c53546625d13edd3cf",
+      "title": "Nâng cao trách nhiệm của Bí thư chi bộ",
+      "link": "https://tuoitre.vn/nang-cao-trach-nhiem-cua-bi-thu-chi-bo-20260203075159242.htm",
+      "summary": "Văn kiện Đại hội XIV của Đảng tiếp tục khẳng định yêu cầu tăng cường củng cố tổ chức cơ sở đảng, xây dựng đội ngũ cán bộ, đảng viên đáp ứng yêu cầu nhiệm vụ trong giai đoạn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.100877+07:00",
+      "fetched": "2026-02-03T11:13:59.100992+07:00"
+    },
+    {
+      "id": "4e3106a71e47e774f482aa6c7400090e",
+      "title": "Tai nạn giữa máy cày chở keo tràm và xe máy, hai học sinh tử vong",
+      "link": "https://tuoitre.vn/tai-nan-giua-may-cay-cho-keo-tram-va-xe-may-hai-hoc-sinh-tu-vong-20260203091309931.htm",
+      "summary": "Trên đường chở hai con đi học về, xe máy của chị N.L. xảy ra tai nạn với máy cày chở keo tràm, khiến hai con nhỏ của chị L. bị thương nặng, tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.100750+07:00",
+      "fetched": "2026-02-03T11:13:59.100866+07:00"
+    },
+    {
+      "id": "6fe965dd513e1df65547e97d1a122c9e",
+      "title": "Chỉ một cái ôm khi ngủ chung, cơ thể nhận lại 7 lợi ích bất ngờ",
+      "link": "https://tuoitre.vn/chi-mot-cai-om-khi-ngu-chung-co-the-nhan-lai-7-loi-ich-bat-ngo-20260203085753072.htm",
+      "summary": "Ngủ chung hay ôm ấp người bạn đời không chỉ là biểu hiện của tình yêu mà còn có lợi cho sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.100619+07:00",
+      "fetched": "2026-02-03T11:13:59.100739+07:00"
+    },
+    {
+      "id": "378f1a91312488f02160a1b52f59f2e6",
+      "title": "Không phải tất cả thực phẩm nhập khẩu đều bị kiểm tra chặt",
+      "link": "https://tuoitre.vn/khong-phai-tat-ca-thuc-pham-nhap-khau-deu-bi-kiem-tra-chat-20260203082818544.htm",
+      "summary": "Theo quy định, chỉ những sản phẩm có quy chuẩn kỹ thuật về chỉ tiêu chất lượng, chỉ tiêu an toàn mới thuộc diện bắt buộc đăng ký bản công bố hợp quy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.100476+07:00",
+      "fetched": "2026-02-03T11:13:59.100607+07:00"
+    },
+    {
+      "id": "ccc123f7d60a6a32f3de3bad9b230405",
+      "title": "Thực phẩm 'tẩm' chất cấm: Ăn ít hại lâu, nguy cơ bệnh tật chồng chất",
+      "link": "https://tuoitre.vn/thuc-pham-tam-chat-cam-an-it-hai-lau-nguy-co-benh-tat-chong-chat-20260203085343565.htm",
+      "summary": "Hàn the, thủy tinh lỏng hay thạch tín bị dùng sai trong thực phẩm, nha khoa có thể tích lũy lâu dài, gây tổn thương gan, thận, tiêu hóa và làm tăng nguy cơ ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T11:13:59.100247+07:00",
+      "fetched": "2026-02-03T11:13:59.100461+07:00"
+    },
     {
       "id": "d1dad05b7e6c2e9178137632de2a7db5",
       "title": "TP.HCM tuyển sinh đầu cấp: Phụ huynh lớp 1, lớp 6 nhớ rà soát thông tin, đề lớp 10 theo dạng 'mở'",
@@ -153,6 +303,416 @@ window.newsData_2026_02_03 = {
       "fetched": "2026-02-03T08:55:52.030368+07:00"
     },
     {
+      "id": "f1345b60c376733a3f72336bbb3b880f",
+      "title": "Cậu bé bơi 4 km trong vùng biển động để cứu gia đình bị cuốn ra biển",
+      "link": "https://thanhnien.vn/cau-be-boi-4-km-trong-vung-bien-dong-de-cuu-gia-dinh-bi-cuon-ra-bien-185260203092251758.htm",
+      "summary": "Một cậu bé 13 tuổi đã được ca ngợi là người hùng sau khi bơi 4 km trong vùng biển động để tìm kiếm giúp đỡ sau khi mẹ và 2 em bị cuốn ra biển ở phía tây nam của Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:13:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961152+07:00"
+    },
+    {
+      "id": "893c20a1da21781d5cb12fd7911df5b1",
+      "title": "Lâm Đồng: Hội sách, báo Xuân Bính Ngọ 2026 lan tỏa sắc xuân đến nhiều vùng miền",
+      "link": "https://thanhnien.vn/lam-dong-hoi-sach-bao-xuan-binh-ngo-2026-lan-toa-sac-xuan-den-nhieu-vung-mien-185260203103725584.htm",
+      "summary": "Hội sách, báo và triển lãm ảnh Xuân Bính Ngọ năm 2026 tỉnh Lâm Đồng mở rộng không gian đến các vùng trong tỉnh, nhằm lan tỏa sắc xuân và giá trị văn hóa đọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:11:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961343+07:00"
+    },
+    {
+      "id": "fc271e7b4b43f2168d3a6567868e620b",
+      "title": "Đội tuyển Việt Nam nhận tin vui trước trận tái đấu, Malaysia sắp bị AFC xử thua lượt đi",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-nhan-tin-vui-truoc-tran-tai-dau-malaysia-sap-bi-afc-xu-thua-luot-di-185260203104741778.htm",
+      "summary": "CAS xét xử vụ việc FAM và 7 cầu thủ nhập tịch 'lậu' Malaysia kháng cáo án phạt FIFA vào ngày 26.2, nhưng quyết định sẽ được công bố vào một ngày khác có thể trong tháng 3 ngay trước trận tái đấu với đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:10:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961502+07:00"
+    },
+    {
+      "id": "49daa60c49390e8c17dc63a8bc758eaa",
+      "title": "iPhone 17 Pro cải thiện thời lượng pin ra sao?",
+      "link": "https://thanhnien.vn/iphone-17-pro-cai-thien-thoi-luong-pin-ra-sao-185260201211701247.htm",
+      "summary": "Apple quảng bá pin iPhone 17 Pro tăng gần 37% so với iPhone 13 Pro, trải nghiệm sử dụng hằng ngày cho thấy khoảng cách ấy rõ ràng đến đâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:08:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961653+07:00"
+    },
+    {
+      "id": "a453abaef4f26b759e1f991575ab662e",
+      "title": "Vợ chồng cựu Tổng thống Mỹ Clinton đồng ý điều trần vụ hồ sơ Epstein",
+      "link": "https://thanhnien.vn/vo-chong-cuu-tong-thong-my-clinton-dong-y-dieu-tran-vu-ho-so-epstein-18526020309452052.htm",
+      "summary": "Vợ chồng ông Bill Clinton và bà Hillary Clinton đồng ý điều trần trước ủy ban hạ viện Mỹ về mối liên hệ của họ với tỉ phú ấu dâm Jeffrey Epstein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:05:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961805+07:00"
+    },
+    {
+      "id": "557f326dede238a11109e7c21e4e1ae1",
+      "title": "Bị Trường Giang đồn là 'MC giàu nhất Việt Nam', Đại Nghĩa nói gì?",
+      "link": "https://thanhnien.vn/bi-truong-giang-don-la-mc-giau-nhat-viet-nam-dai-nghia-noi-gi-185260203103555176.htm",
+      "summary": "Đại Nghĩa chia sẻ anh có cuộc sống bình yên ở tuổi U.50. Nam nghệ sĩ cũng phủ nhận tin đồn là 'MC giàu nhất Việt Nam', cho rằng đây chỉ là câu nói đùa của Trường Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:03:00+07:00",
+      "fetched": "2026-02-03T11:13:57.961955+07:00"
+    },
+    {
+      "id": "f86ba35263deae935cd9bfcd0d9a3043",
+      "title": "2 học sinh đi xe đạp điện tử vong sau va chạm với xe tải",
+      "link": "https://thanhnien.vn/2-hoc-sinh-di-xe-dap-dien-tu-vong-sau-va-cham-voi-xe-tai-185260203101051647.htm",
+      "summary": "Một vụ tai nạn giao thông nghiêm trọng vừa xảy ra tại phường Mỹ Ngãi (Đồng Tháp) khiến 2 học sinh lớp 8 tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:01:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962101+07:00"
+    },
+    {
+      "id": "a16919aff572063fcf56c7e9e1c3e80d",
+      "title": "Xem nhanh 12h: Học 10 ngày được phẫu thuật thẩm mỹ | Quy định mới về tài khoản ngân hàng hộ kinh doanh",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-hoc-10-ngay-duoc-phau-thuat-tham-my-quy-dinh-moi-ve-tai-khoan-ngan-hang-ho-kinh-doanh-185260203110533453.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 3.2.2026 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:00:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962270+07:00"
+    },
+    {
+      "id": "c0ec85dee787d736e405ef4c767eff6e",
+      "title": "Tết Việt ở Singapore: Ấn tượng màn múa 'Ngựa ô thương nhớ' của đại sứ và kiều bào",
+      "link": "https://thanhnien.vn/tet-viet-o-singapore-an-tuong-man-mua-ngua-o-thuong-nho-cua-dai-su-va-kieu-bao-185260202142725653.htm",
+      "summary": "Hàng trăm người Việt ở Singapore cùng diện áo dài, hòa mình vào lễ hội đón xuân sớm với màn trình diễn ấn tượng 'Ngựa ô thương nhớ' của đại sứ và kiều bào khi Tết Nguyên đán Bính Ngọ cận kề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T04:00:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962439+07:00"
+    },
+    {
+      "id": "a4510342c9ff1f522d2708fb71439b40",
+      "title": "Thời tiết TP.HCM hanh khô, nắng nóng: Vì sao ra đường buổi trưa thấy rát da?",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-hanh-kho-nang-nong-vi-sao-ra-duong-buoi-trua-thay-rat-da-185260203091649712.htm",
+      "summary": "Thời tiết TP.HCM những ngày gần đây hanh khô, ít mưa, nắng mạnh vào buổi trưa khiến nhiều người cảm giác rát da, khó chịu dù chỉ ra ngoài trong thời gian ngắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:59:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962598+07:00"
+    },
+    {
+      "id": "0e9500cd60d44045ba2e9d27ec8a99fb",
+      "title": "Lãnh đạo Đảng, Nhà nước vào Lăng viếng Chủ tịch Hồ Chí Minh",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-vao-lang-vieng-chu-tich-ho-chi-minh-185260203095639496.htm",
+      "summary": "Sáng 3.2, nhân 96 năm Ngày thành lập Đảng Cộng sản Việt Nam, lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước cùng đại diện các bộ, ngành Trung ương và TP.Hà Nội đặt vòng hoa và vào Lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:45:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962749+07:00"
+    },
+    {
+      "id": "78bbfc85066207a7a70e7b2b4bf37195",
+      "title": "OpenAI có thể không hài lòng với chip Nvidia",
+      "link": "https://vnexpress.net/openai-co-the-khong-hai-long-voi-chip-nvidia-5013338.html",
+      "summary": "OpenAI được cho là không hài lòng với khả năng suy luận của một số chip Nvidia và đang tìm giải pháp thay thế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-03T03:44:12+07:00",
+      "fetched": "2026-02-03T11:14:06.183277+07:00"
+    },
+    {
+      "id": "a93dfb670ac7f38cd75ba52c24df9190",
+      "title": "TP.HCM sắp có quy định mới về tách, hợp thửa đất",
+      "link": "https://thanhnien.vn/tphcm-sap-co-quy-dinh-moi-ve-tach-hop-thua-dat-185260203094311557.htm",
+      "summary": "Ông Nguyễn Toàn Thắng, Giám đốc Sở Nông nghiệp và Môi trường TP.HCM đã có tờ trình số 1187 gửi UBND TP.HCM về việc đề nghị xây dựng quyết định quy định về điều kiện tách thửa đất và hợp thửa đất trên địa bàn thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:44:00+07:00",
+      "fetched": "2026-02-03T11:13:57.962906+07:00"
+    },
+    {
+      "id": "9e7655098bd3aad6364767ebc172091d",
+      "title": "Hộ kinh doanh phải dùng tài khoản ngân hàng đúng tên đăng ký từ 1.3.2026",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-phai-dung-tai-khoan-ngan-hang-dung-ten-dang-ky-tu-132026-185260203103949476.htm",
+      "summary": "Từ 1.3.2026, tài khoản ngân hàng của hộ kinh doanh bắt buộc phải mang đúng tên đăng ký trên giấy phép thay vì tên chủ hộ, theo quy định của Ngân hàng Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:39:00+07:00",
+      "fetched": "2026-02-03T11:13:57.963056+07:00"
+    },
+    {
+      "id": "0f7f283f4c5ee32d3889177de3854f2e",
+      "title": "Video bé 7 tuổi một mình chăm cha trong viện hút 12 triệu lượt xem",
+      "link": "https://vnexpress.net/video-be-7-tuoi-mot-minh-cham-cha-trong-vien-hut-12-trieu-luot-xem-5013341.html",
+      "summary": "Video ghi lại cảnh bé gái San Mengru thạo việc chăm sóc cha tại Bệnh viện Tề Cáp Nhĩ gây xúc động mạnh, thu hút 12 triệu lượt xem cùng làn sóng hỗ trợ từ cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:28:27+07:00",
+      "fetched": "2026-02-03T11:13:54.461209+07:00"
+    },
+    {
+      "id": "6a7ed60a572016d40047cde613414e34",
+      "title": "Nam nhạc sĩ sống bình yên tuổi U.40, thừa nhận ít bạn trong showbiz",
+      "link": "https://thanhnien.vn/nam-nhac-si-song-binh-yen-tuoi-u40-thua-nhan-it-ban-trong-showbiz-185260203095843516.htm",
+      "summary": "Trong hậu trường 'Tỏa sáng sao đôi', Hamlet Trương có những trải lòng về cuộc sống riêng, đồng thời nêu quan điểm khi làm nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:16:00+07:00",
+      "fetched": "2026-02-03T11:13:57.963223+07:00"
+    },
+    {
+      "id": "e311a1e11dd2bacda0bbf406f8ca56ee",
+      "title": "Người Trung Quốc quay lưng với ôtô chạy xăng",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-quay-lung-voi-oto-chay-xang-5012833.html",
+      "summary": "Tổng sản lượng xe xăng hàng năm giảm từ 17,8 triệu chiếc vào 2020 còn 10,85 triệu chiếc trong 2025, trùng hợp với sự gia tăng xe năng lượng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:14:58+07:00",
+      "fetched": "2026-02-03T11:13:54.461402+07:00"
+    },
+    {
+      "id": "1c656ab3905386eeaafc064b5eb6871e",
+      "title": "Người Việt kể quy định bắt buộc xúc tuyết trước nhà ở Canada",
+      "link": "https://vnexpress.net/nguoi-viet-ke-quy-dinh-bat-buoc-xuc-tuyet-truoc-nha-o-canada-5012896.html",
+      "summary": "Dọn tuyết trước nhà là trách nhiệm bắt buộc của cư dân ở Canada, nếu không tuân thủ có thể bị phạt tiền hàng trăm USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:14:11+07:00",
+      "fetched": "2026-02-03T11:13:54.461562+07:00"
+    },
+    {
+      "id": "1c656ab3905386eeaafc064b5eb6871e",
+      "title": "Người Việt kể quy định bắt buộc xúc tuyết trước nhà ở Canada",
+      "link": "https://vnexpress.net/nguoi-viet-ke-quy-dinh-bat-buoc-xuc-tuyet-truoc-nha-o-canada-5012896.html",
+      "summary": "Dọn tuyết trước nhà là trách nhiệm bắt buộc của cư dân ở Canada, nếu không tuân thủ có thể bị phạt tiền hàng trăm USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T03:14:11+07:00",
+      "fetched": "2026-02-03T11:14:00.938982+07:00"
+    },
+    {
+      "id": "5679e2c55dd66258b18ceff5f3093745",
+      "title": "Ông lão bắn chết nữ tài xế vì nhầm kẻ lừa đảo qua mạng",
+      "link": "https://vnexpress.net/ong-lao-ban-chet-nu-tai-xe-vi-nham-ke-lua-dao-qua-mang-5013410.html",
+      "summary": "William Brock, 83 tuổi, phải ngồi tù đến cuối đời sau khi bắn chết tài xế Uber đến nhận bưu kiện vì nhầm tưởng người này đang cố tống tiền mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:13:33+07:00",
+      "fetched": "2026-02-03T11:13:54.461721+07:00"
+    },
+    {
+      "id": "cc101ceb156916ffe96a1461eb7ed42b",
+      "title": "Đồng Nai thông xe hai trục giao thông gần 3.000 tỷ đồng",
+      "link": "https://vnexpress.net/dong-nai-thong-xe-hai-truc-giao-thong-gan-3-000-ty-dong-5010967.html",
+      "summary": "Đường trục trung tâm đô thị Biên Hòa và vành đai một đô thị Long Khánh, thông xe sáng 3/2, kỳ vọng giảm ùn tắc trên quốc lộ 1 và tăng kết nối với sân bay Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:10:43+07:00",
+      "fetched": "2026-02-03T11:13:54.461871+07:00"
+    },
+    {
+      "id": "710f49991e36ba5132864219db0d8d63",
+      "title": "Tàu chở 15 người bị chìm",
+      "link": "https://vnexpress.net/tau-cho-15-nguoi-bi-chim-5013385.html",
+      "summary": "Tàu cá chở 15 người bị sóng đánh chìm khi rời cảng La Gi, toàn bộ thuyền viên được cứu, lực lượng chức năng đang trục vớt phương tiện, sáng 3/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:10:22+07:00",
+      "fetched": "2026-02-03T11:13:54.462029+07:00"
+    },
+    {
+      "id": "2c702b40c14be1364e93dd4ebf407c9c",
+      "title": "Công nghệ làm mát từ 30 độ xuống 0 độ C trong 20 giây",
+      "link": "https://vnexpress.net/cong-nghe-lam-mat-tu-30-do-xuong-0-do-c-trong-20-giay-5013225.html",
+      "summary": "Viện Hàn lâm Khoa học Trung Quốc (CAS) cho biết phát triển thành công giải pháp giúp chất lỏng giảm từ 30 độ xuống dưới 0 độ C trong vòng 20 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:05:31+07:00",
+      "fetched": "2026-02-03T11:13:54.462197+07:00"
+    },
+    {
+      "id": "2c702b40c14be1364e93dd4ebf407c9c",
+      "title": "Công nghệ làm mát từ 30 độ xuống 0 độ C trong 20 giây",
+      "link": "https://vnexpress.net/cong-nghe-lam-mat-tu-30-do-xuong-0-do-c-trong-20-giay-5013225.html",
+      "summary": "Viện Hàn lâm Khoa học Trung Quốc (CAS) cho biết phát triển thành công giải pháp giúp chất lỏng giảm từ 30 độ xuống dưới 0 độ C trong vòng 20 giây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-03T03:05:31+07:00",
+      "fetched": "2026-02-03T11:14:06.183080+07:00"
+    },
+    {
+      "id": "0a98180645c631dd4a43b4d9317ecccd",
+      "title": "Những điều cần cân nhắc khi mua laptop 8 GB RAM",
+      "link": "https://thanhnien.vn/nhung-dieu-can-can-nhac-khi-mua-laptop-8-gb-ram-185260202091714165.htm",
+      "summary": "Liệu việc chọn mua chiếc laptop mới được trang bị 8 GB vào năm 2026 có đáng tiền?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:05:00+07:00",
+      "fetched": "2026-02-03T11:13:57.963381+07:00"
+    },
+    {
+      "id": "d05efe3a891b64c5024dd4f750d0dea6",
+      "title": "Công ty đào vàng, bạc trong nước lãi gần 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-dao-vang-bac-trong-nuoc-lai-gan-2-000-ty-dong-5013367.html",
+      "summary": "Tổng công ty Khoáng sản - TKV năm ngoái lãi kỷ lục hơn 2.000 tỷ đồng nhờ giá bán nhiều mặt hàng chủ lực như vàng, bạc, đồng tấm... tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:02:39+07:00",
+      "fetched": "2026-02-03T11:13:54.462357+07:00"
+    },
+    {
+      "id": "d05efe3a891b64c5024dd4f750d0dea6",
+      "title": "Công ty đào vàng, bạc trong nước lãi gần 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-dao-vang-bac-trong-nuoc-lai-gan-2-000-ty-dong-5013367.html",
+      "summary": "Tổng công ty Khoáng sản - TKV năm ngoái lãi kỷ lục hơn 2.000 tỷ đồng nhờ giá bán nhiều mặt hàng chủ lực như vàng, bạc, đồng tấm... tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T03:02:39+07:00",
+      "fetched": "2026-02-03T11:14:02.964524+07:00"
+    },
+    {
+      "id": "1cbf98db46ca659bcef4e750bcbb5824",
+      "title": "Djokovic và sự công nhận muộn màng",
+      "link": "https://vnexpress.net/djokovic-va-su-cong-nhan-muon-mang-5013299.html",
+      "summary": "Từng không được chào đón ở Australia, Novak Djokovic cuối cùng cũng được trân trọng xứng đáng với tài năng, sau những gì làm được ở Grand Slam đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.462506+07:00"
+    },
+    {
+      "id": "3565fc8b5fde4df72226e320bc908355",
+      "title": "'Mũi giáo nhập cư' của ông Trump thất thế ở Minneapolis",
+      "link": "https://vnexpress.net/mui-giao-nhap-cu-cua-ong-trump-that-the-o-minneapolis-5012635.html",
+      "summary": "Từ \"mũi giáo\" trong chiến lược trấn áp nhập cư của ông Trump, chỉ huy Bovino trở thành gánh nặng chính trị sau những vụ nổ súng gây tranh cãi ở Minneapolis.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.462663+07:00"
+    },
+    {
+      "id": "bddad8c84c134d321942ea33b2df9e19",
+      "title": "Thủ phạm gây rối loạn chức năng gan",
+      "link": "https://vnexpress.net/thu-pham-gay-roi-loan-chuc-nang-gan-5013374.html",
+      "summary": "Nhiễm virus viêm gan, dùng thuốc không theo chỉ định, uống nhiều rượu bia có thể gây tổn thương tế bào, tăng nguy cơ rối loạn chức năng gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.462809+07:00"
+    },
+    {
+      "id": "112e50d11a1da1a04779c7adee5b9257",
+      "title": "Nghệ An giao hơn 96.000 m2 tại Nghĩa Đàn làm khu đô thị",
+      "link": "https://vnexpress.net/nghe-an-giao-hon-96-000-m2-tai-nghia-dan-lam-khu-do-thi-5013354.html",
+      "summary": "Nghệ An giao đất trên thực địa và cấp giấy chứng nhận quyền sử dụng đất cho các lô thuộc dự án khu đô thị Nghia Dan New Center, ngày 28/1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.462955+07:00"
+    },
+    {
+      "id": "97839a065810f836e01ef9c805cabbf7",
+      "title": "Tasco báo lãi gấp hai lần năm trước",
+      "link": "https://vnexpress.net/tasco-bao-lai-gap-hai-lan-nam-truoc-5013348.html",
+      "summary": "Năm 2025, Tasco đạt hơn 623 tỷ đồng lợi nhuận sau thuế, gấp hai lần năm trước và cao nhất trong lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.463114+07:00"
+    },
+    {
+      "id": "9da4c1d5df4ce88c6a6a50e3367fe8a1",
+      "title": "Bơm keo sinh học điều trị suy giãn tĩnh mạch chi dưới",
+      "link": "https://vnexpress.net/bom-keo-sinh-hoc-dieu-tri-suy-gian-tinh-mach-chi-duoi-5013318.html",
+      "summary": "Bà Chi, 61 tuổi, bị phù chân, đau mỏi, chuột rút về đêm do suy tĩnh mạch chi dưới, được bác sĩ bơm keo sinh học điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.463292+07:00"
+    },
+    {
+      "id": "65cc527f736adde91c9e155556204306",
+      "title": "Mở đường phụ dẫn máu lên não do hẹp mạch máu",
+      "link": "https://vnexpress.net/mo-duong-phu-dan-mau-len-nao-do-hep-mach-mau-5013024.html",
+      "summary": "Bà Mỹ, 50 tuổi, mạch máu não hẹp nặng do bệnh Moyamoya, được bác sĩ phẫu thuật mở đường dẫn máu mới bù đắp mạch bị hẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:13:54.463453+07:00"
+    },
+    {
+      "id": "3565fc8b5fde4df72226e320bc908355",
+      "title": "'Mũi giáo nhập cư' của ông Trump thất thế ở Minneapolis",
+      "link": "https://vnexpress.net/mui-giao-nhap-cu-cua-ong-trump-that-the-o-minneapolis-5012635.html",
+      "summary": "Từ \"mũi giáo\" trong chiến lược trấn áp nhập cư của ông Trump, chỉ huy Bovino trở thành gánh nặng chính trị sau những vụ nổ súng gây tranh cãi ở Minneapolis.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:14:00.939163+07:00"
+    },
+    {
+      "id": "97839a065810f836e01ef9c805cabbf7",
+      "title": "Tasco báo lãi gấp hai lần năm trước",
+      "link": "https://vnexpress.net/tasco-bao-lai-gap-hai-lan-nam-truoc-5013348.html",
+      "summary": "Năm 2025, Tasco đạt hơn 623 tỷ đồng lợi nhuận sau thuế, gấp hai lần năm trước và cao nhất trong lịch sử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:14:02.965831+07:00"
+    },
+    {
+      "id": "1cbf98db46ca659bcef4e750bcbb5824",
+      "title": "Djokovic và sự công nhận muộn màng",
+      "link": "https://vnexpress.net/djokovic-va-su-cong-nhan-muon-mang-5013299.html",
+      "summary": "Từng không được chào đón ở Australia, Novak Djokovic cuối cùng cũng được trân trọng xứng đáng với tài năng, sau những gì làm được ở Grand Slam đầu năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-03T03:00:00+07:00",
+      "fetched": "2026-02-03T11:14:07.181538+07:00"
+    },
+    {
+      "id": "7ce2a1b33fcebe3bffb0749e51e69fac",
+      "title": "Lực lượng Nga giúp Niger đẩy lùi cuộc tấn công của IS vào thủ đô",
+      "link": "https://vnexpress.net/luc-luong-nga-giup-niger-day-lui-cuoc-tan-cong-cua-is-vao-thu-do-5013329.html",
+      "summary": "Thành viên Quân đoàn châu Phi của Nga đã giúp quân đội Niger đẩy lùi cuộc tấn công do IS tiến hành nhằm vào sân bay thủ đô Niamey.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T02:51:26+07:00",
+      "fetched": "2026-02-03T11:14:00.939345+07:00"
+    },
+    {
+      "id": "db54e41263a3ad6d7ab0b10e6003f0eb",
+      "title": "Mỗi lượng vàng quay đầu tăng trên 7 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-3-2-5013368.html",
+      "summary": "Giá vàng miếng và nhẫn trơn mở cửa sáng nay tăng 7,5 triệu một lượng lên 173 triệu đồng theo diễn biến phục hồi của thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T02:41:19+07:00",
+      "fetched": "2026-02-03T11:14:02.964703+07:00"
+    },
+    {
+      "id": "5afead2d2847a50b245973a5d779eace",
+      "title": "Lừa vàng của người cao tuổi để nấu chảy",
+      "link": "https://vnexpress.net/lua-vang-cua-nguoi-cao-tuoi-de-nau-chay-5013343.html",
+      "summary": "Đường dây ở Texas chuyên hù dọa người cao tuổi, lừa họ giao nộp vàng, rồi đem đến hai tiệm kim hoàn để nấu chảy, gây thiệt hại hàng chục triệu USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T02:39:02+07:00",
+      "fetched": "2026-02-03T11:14:00.939500+07:00"
+    },
+    {
+      "id": "f7371be7fd89fc3919d517bd4df52090",
+      "title": "TCL hợp tác Vietnam Airlines triển khai ưu đãi dịp Tết 2026",
+      "link": "https://vnexpress.net/tcl-hop-tac-vietnam-airlines-trien-khai-uu-dai-dip-tet-2026-5012800.html",
+      "summary": "TCL và Vietnam Airlines triển khai chiến dịch Tết, tặng sản phẩm TV hơn 110 triệu đồng, vé bay hạng thương gia 60.000 dặm cho người mua sản phẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T02:00:00+07:00",
+      "fetched": "2026-02-03T11:14:02.965982+07:00"
+    },
+    {
       "id": "7cfb42f420a41774828ef19469ffd5c3",
       "title": "Hàng triệu du khách sẽ từ bỏ du lịch Mỹ vì chính sách mới này",
       "link": "https://thanhnien.vn/hang-trieu-du-khach-se-tu-bo-du-lich-my-vi-chinh-sach-moi-nay-185260129070843174.htm",
@@ -191,6 +751,16 @@ window.newsData_2026_02_03 = {
       "category": "Tổng hợp",
       "published": "2026-02-03T01:49:00+07:00",
       "fetched": "2026-02-03T08:55:51.071367+07:00"
+    },
+    {
+      "id": "12d8287a816cbf0b56e47890fd4a5c26",
+      "title": "Thiếu niên bơi 4 tiếng trên biển để tìm người cứu gia đình",
+      "link": "https://vnexpress.net/thieu-nien-boi-4-tieng-tren-bien-de-tim-nguoi-cuu-gia-dinh-5013315.html",
+      "summary": "Thiếu niên 13 tuổi bơi suốt 4 tiếng trên vùng biển động ngoài khơi bang Tây Australia để tìm người cứu mẹ và các em.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-03T01:48:59+07:00",
+      "fetched": "2026-02-03T11:14:00.939667+07:00"
     },
     {
       "id": "889af8e073c18ffb33d1302d3de4e3ce",
@@ -351,6 +921,16 @@ window.newsData_2026_02_03 = {
       "category": "Thế giới",
       "published": "2026-02-03T01:28:18+07:00",
       "fetched": "2026-02-03T08:55:53.298476+07:00"
+    },
+    {
+      "id": "162adc83d18ca53a1561511992dcdf45",
+      "title": "Ông Trump: Ấn Độ sẽ dừng mua dầu Nga",
+      "link": "https://vnexpress.net/ong-trump-an-do-se-dung-mua-dau-nga-5013308.html",
+      "summary": "Tổng thống Mỹ vừa công bố thỏa thuận thương mại với Ấn Độ, gồm giảm thuế nhập khẩu từ 50% xuống 18% và New Delhi dừng mua dầu Nga.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T01:22:55+07:00",
+      "fetched": "2026-02-03T11:14:02.964863+07:00"
     },
     {
       "id": "8fbd7671ca5ea4456980b4b6b4004626",
@@ -731,6 +1311,16 @@ window.newsData_2026_02_03 = {
       "category": "Kinh doanh",
       "published": "2026-02-02T23:00:00+07:00",
       "fetched": "2026-02-03T08:55:55.028322+07:00"
+    },
+    {
+      "id": "c636d28d71ac340a3bfda867654facf9",
+      "title": "Thợ cắm hoa lan thu chục triệu đồng mỗi ngày dịp Tết",
+      "link": "https://vnexpress.net/tho-cam-hoa-lan-thu-chuc-trieu-dong-moi-ngay-dip-tet-5012558.html",
+      "summary": "Mỗi ngày cắm hàng trăm cành lan, thợ chính tại các chợ hoa Hà Nội có thể nhận tiền công 10-20 triệu đồng dịp cao điểm Tết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-02T23:00:00+07:00",
+      "fetched": "2026-02-03T11:14:02.965197+07:00"
     },
     {
       "id": "1d67e2888e85f44cc8e6b702f6c3bcad",
