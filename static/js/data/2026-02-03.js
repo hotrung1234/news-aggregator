@@ -1,7 +1,157 @@
 window.newsData_2026_02_03 = {
   "date": "2026-02-03",
-  "lastUpdated": "2026-02-03T19:54:19.928783+07:00",
+  "lastUpdated": "2026-02-03T21:41:12.457486+07:00",
   "articles": [
+    {
+      "id": "a95e150064a97d4ef1056ef665929df4",
+      "title": "Tuyển sinh đầu cấp ở TP.HCM: Gặp 'lỗi' khi đăng ký, phải làm sao?",
+      "link": "https://tuoitre.vn/tuyen-sinh-dau-cap-o-tp-hcm-gap-loi-khi-dang-ky-phai-lam-sao-20260203180254295.htm",
+      "summary": "Ngày đầu tiên thực hiện rà soát thông tin trên hệ thống tuyển sinh đầu cấp ở TP.HCM, một số phụ huynh đã gặp trục trặc, Sở Giáo dục và Đào tạo TP.HCM giải đáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.964446+07:00",
+      "fetched": "2026-02-03T21:41:05.964555+07:00"
+    },
+    {
+      "id": "d7ce0973ab1acd6b17710bcb1afde70d",
+      "title": "Long An - Đức Hòa - Tân Ninh sẽ là 3 trung tâm của Tây Ninh",
+      "link": "https://tuoitre.vn/long-an-duc-hoa-tan-ninh-se-la-3-trung-tam-cua-tay-ninh-20260203181900853.htm",
+      "summary": "Ngày 3-2, Hội đồng thẩm định điều chỉnh quy hoạch tỉnh Tây Ninh thời kỳ 2021 - 2030, tầm nhìn đến năm 2050 đã tổ chức hội thảo lấy ý kiến, bỏ phiếu biểu quyết thống nhất thông qua hồ sơ điều chỉnh quy hoạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.964324+07:00",
+      "fetched": "2026-02-03T21:41:05.964435+07:00"
+    },
+    {
+      "id": "0743415fe21af3a0d97290402f5b4c5d",
+      "title": "Pháp triệu tập tỉ phú Elon Musk, khám xét văn phòng mạng xã hội X",
+      "link": "https://tuoitre.vn/phap-trieu-tap-ti-phu-elon-musk-kham-xet-van-phong-mang-xa-hoi-x-20260203183428058.htm",
+      "summary": "Cảnh sát Pháp ngày 3-2 đã tiến hành khám xét văn phòng của mạng xã hội X tại Paris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.964203+07:00",
+      "fetched": "2026-02-03T21:41:05.964313+07:00"
+    },
+    {
+      "id": "e3176a1d3d910ae819fdc11e00136f29",
+      "title": "5 điểm bắn pháo hoa Tết Nguyên đán tại Cần Thơ tổ chức ở đâu?",
+      "link": "https://tuoitre.vn/5-diem-ban-phao-hoa-tet-nguyen-dan-tai-can-tho-o-dau-20260203183704702.htm",
+      "summary": "Phục vụ người dân vui xuân đón Tết, TP Cần Thơ tổ chức bắn pháo hoa tại 5 điểm đêm giao thừa Tết Nguyên đán Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.964082+07:00",
+      "fetched": "2026-02-03T21:41:05.964192+07:00"
+    },
+    {
+      "id": "d7737f216a5772c356709c58781c3abc",
+      "title": "Kiểm tra loạt trung tâm hội nghị, nhà hàng tiệc cưới, Sở An toàn thực phẩm TP.HCM phát hiện gì?",
+      "link": "https://tuoitre.vn/kiem-tra-hang-loat-trung-tam-hoi-nghi-nha-hang-tiec-cuoi-so-an-toan-thuc-pham-tp-hcm-phat-hien-gi-20260203183654524.htm",
+      "summary": "Sau chỉ đạo công khai từ Cục An toàn thực phẩm (Bộ Y tế), Sở An toàn thực phẩm TP.HCM đã khẩn trương rà soát, kiểm tra loạt trung tâm hội nghị, nhà hàng tiệc cưới trên địa bàn thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963954+07:00",
+      "fetched": "2026-02-03T21:41:05.964071+07:00"
+    },
+    {
+      "id": "7074be00bfedd0921ea6298ab6737096",
+      "title": "Waymo huy động được 16 tỉ đô, mở rộng dịch vụ xe tự hành",
+      "link": "https://tuoitre.vn/waymo-huy-dong-duoc-16-ti-do-mo-rong-dich-vu-xe-tu-hanh-20260203150013818.htm",
+      "summary": "Waymo - công ty xe tự lái thuộc Tập đoàn Alphabet, ngày 3-2 cho biết đã huy động thành công 16 tỉ USD trong vòng gọi vốn mới, qua đó định giá doanh nghiệp ở mức 126 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963807+07:00",
+      "fetched": "2026-02-03T21:41:05.963938+07:00"
+    },
+    {
+      "id": "06337c5c1fbe8a12a824612c8d21bf4f",
+      "title": "Bộ Y tế đề xuất cấm hoàn toàn việc hút thuốc trong nhà, nơi công cộng",
+      "link": "https://tuoitre.vn/bo-y-te-de-xuat-cam-hoan-toan-viec-hut-thuoc-trong-nha-noi-cong-cong-20260203181859013.htm",
+      "summary": "Bộ Y tế đề xuất cấm hút thuốc hoàn toàn trong nhà, nơi công cộng, các cơ sở giáo dục và chỉ được hút thuốc tại các địa điểm được quy định rõ ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963685+07:00",
+      "fetched": "2026-02-03T21:41:05.963796+07:00"
+    },
+    {
+      "id": "414d2a419ece3ad66de2ad4bcf1b7f0f",
+      "title": "Cần cấp bách có hướng dẫn kiểm tra thực phẩm nhập khẩu bảo đảm khả thi, thông quan kịp thời",
+      "link": "https://tuoitre.vn/can-cap-bach-co-huong-dan-kiem-tra-thuc-pham-nhap-khau-bao-dam-kha-thi-thong-quan-kip-thoi-20260203184723359.htm",
+      "summary": "Nhiệm vụ và yêu cầu cấp bách đặt ra là phải có hướng dẫn, tổ chức thực hiện việc kiểm tra nhà nước đối với thực phẩm nhập khẩu theo quy định tại Nghị định 46/2026 bảo đảm khả thi, thông quan hàng hóa kịp thời, thông suốt, tuyệt đối không để ách tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963546+07:00",
+      "fetched": "2026-02-03T21:41:05.963674+07:00"
+    },
+    {
+      "id": "9a701b583162304becd33f35698c2a52",
+      "title": "Cơ quan điều tra yêu cầu cung cấp hồ sơ, các hợp đồng về môi trường tại Khánh Hòa",
+      "link": "https://tuoitre.vn/co-quan-dieu-tra-yeu-cau-cung-cap-ho-so-cac-hop-dong-ve-moi-truong-tai-khanh-hoa-20260203184326733.htm",
+      "summary": "Cơ quan cảnh sát điều tra Bộ Công an vừa yêu cầu Sở Nông nghiệp và Môi trường tỉnh Khánh Hòa khẩn trương cung cấp hồ sơ, tài liệu các gói thầu, hợp đồng về môi trường, liên quan đến doanh nghiệp đang bị điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963422+07:00",
+      "fetched": "2026-02-03T21:41:05.963535+07:00"
+    },
+    {
+      "id": "4340e4241bc5728b073ef0777cbfdfe6",
+      "title": "Xẩm trong cõi đời của Mai Tuyết Hoa đáo để, đanh đá mà vẫn đáng yêu",
+      "link": "https://tuoitre.vn/xam-trong-coi-doi-cua-mai-tuyet-hoa-dao-de-danh-da-ma-van-dang-yeu-20260203184542737.htm",
+      "summary": "Giọng nghệ sĩ Mai Tuyết Hoa đáo để, đanh quánh nhưng vẫn đáng yêu, cá tính trong album xẩm mới trước thềm Tết Nguyên đán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963296+07:00",
+      "fetched": "2026-02-03T21:41:05.963411+07:00"
+    },
+    {
+      "id": "72e07b1e9113875bd95792130028ab1d",
+      "title": "Tổng Bí thư Tô Lâm dự lễ tuyên dương 96 bí thư chi bộ xuất sắc và trao Giải Búa liềm vàng",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-le-tuyen-duong-96-bi-thu-chi-bo-xuat-sac-va-trao-giai-bua-liem-vang-20260203183409722.htm",
+      "summary": "Tối 3-2, lễ tuyên dương bí thư chi bộ xuất sắc và trao Giải Búa liềm vàng lần thứ 10 năm 2025 được tổ chức tại Nhà hát Hồ Gươm, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963166+07:00",
+      "fetched": "2026-02-03T21:41:05.963284+07:00"
+    },
+    {
+      "id": "c28479ea002c4ada17a46a65c72a57a3",
+      "title": "Du học sinh lựa chọn thị trường 'Big 4' đang giảm dần",
+      "link": "https://tuoitre.vn/du-hoc-sinh-lua-chon-thi-truong-big-4-dang-giam-dan-20260203181427605.htm",
+      "summary": "Các chuyên gia phân tích thị trường du học nói tiếng Anh lớn \"Big 4\" gồm Anh, Úc, Mỹ, Canada đang gặp thách thức từ bên trong lẫn sức cạnh tranh từ các điểm đến du học mới nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.963035+07:00",
+      "fetched": "2026-02-03T21:41:05.963155+07:00"
+    },
+    {
+      "id": "3b35a7ffb43d1302bb607d6c59c1244b",
+      "title": "Tổng thống Philippines đối mặt nguy cơ bị luận tội",
+      "link": "https://tuoitre.vn/tong-thong-philippines-doi-mat-nguy-co-bi-luan-toi-20260203192656238.htm",
+      "summary": "Tiến trình luận tội ông Marcos đang bước vào thời điểm quyết định, sau khi hai đơn khiếu nại vượt qua bước thẩm tra ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.962873+07:00",
+      "fetched": "2026-02-03T21:41:05.963012+07:00"
+    },
+    {
+      "id": "895f4e5a4d9672f2a702b980edda4d8d",
+      "title": "Những tấm vé hạnh phúc cho công nhân",
+      "link": "https://tuoitre.vn/nhung-tam-ve-hanh-phuc-cho-cong-nhan-20260203190722418.htm",
+      "summary": "550 tấm vé máy bay, 550 công nhân khó khăn xa quê được về nhà ăn Tết, đó là hoạt động ý nghĩa mà Tổng liên đoàn Lao động Việt Nam dành tặng cho người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.962734+07:00",
+      "fetched": "2026-02-03T21:41:05.962860+07:00"
+    },
+    {
+      "id": "12f6868a5cbbc24d1b06e1b2fbc08911",
+      "title": "Cục Chính trị Quân khu 7 nhận Huân chương Bảo vệ Tổ quốc hạng nhất",
+      "link": "https://tuoitre.vn/cuc-chinh-tri-quan-khu-7-nhan-huan-chuong-bao-ve-to-quoc-hang-nhat-20260203193242622.htm",
+      "summary": "Ngày 3-2, Cục Chính trị Quân khu 7 tổ chức lễ kỷ niệm 80 năm ngày truyền thống (20-2-1946 – 20-2-2026) và đón nhận Huân chương Bảo vệ Tổ quốc hạng nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T21:41:05.962508+07:00",
+      "fetched": "2026-02-03T21:41:05.962719+07:00"
+    },
     {
       "id": "895e5b3d176e36d17399f7199a315479",
       "title": "Tesla được phép thử nghiệm lái xe tự hành có giám sát tại Israel",
@@ -453,6 +603,96 @@ window.newsData_2026_02_03 = {
       "fetched": "2026-02-03T15:32:58.330289+07:00"
     },
     {
+      "id": "4f2ef79b9da5e98ba27730163382646f",
+      "title": "Xác định 2 cặp bán kết futsal châu Á: Lộ diện kênh phát sóng mới nhất, đá ngày nào?",
+      "link": "https://thanhnien.vn/xac-dinh-2-cap-ban-ket-futsal-chau-a-lo-dien-kenh-phat-song-moi-nhat-da-ngay-nao-185260203213256712.htm",
+      "summary": "Sau một ngày thi đấu hấp dẫn tại Jakarta, VCK futsal châu Á 2026 đã chính thức xác định được 4 cái tên xuất sắc nhất bước vào vòng bán kết. Chủ nhà Indonesia là đội bóng cuối cùng giành lấy tấm vé quý giá này sau chiến thắng kịch tính trước đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:34:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836142+07:00"
+    },
+    {
+      "id": "fdda2bc69ddde8a9f7542f38dbfcc87e",
+      "title": "Duyên Quỳnh xin lỗi sau vụ lộ hát nhép 'Viết tiếp câu chuyện hòa bình'",
+      "link": "https://thanhnien.vn/duyen-quynh-xin-loi-sau-vu-lo-hat-nhep-viet-tiep-cau-chuyen-hoa-binh-185260203212651749.htm",
+      "summary": "Trước những phản ứng của khán giả liên quan đến màn trình diễn ca khúc Viết tiếp câu chuyện hòa bình ở Làn Sóng Xanh, ca sĩ Duyên Quỳnh lên tiếng xin lỗi, đồng thời cho biết sẽ rút kinh nghiệm sâu sắc, nghiêm túc sửa đổi và hoàn thiện bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:33:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836306+07:00"
+    },
+    {
+      "id": "07db16db67c5b0aaabead84a659b4918",
+      "title": "MPV 7 chỗ rẻ nhất Việt Nam sắp có bản mới, tung ra thị trường tháng 3.2026",
+      "link": "https://thanhnien.vn/mpv-7-cho-re-nhat-viet-nam-sap-co-ban-moi-tung-ra-thi-truong-thang-32026-185260203071753948.htm",
+      "summary": "Dù thuộc nhóm MPV 7 chỗ rẻ nhất Việt Nam, Hyundai Stargazer vẫn chưa tạo được sức hút do thiết kế quá khác biệt, doanh số chỉ ở mức cầm chừng. Trước thực tế này, hãng xe Hàn Quốc được cho là sắp tung ra bản nâng cấp nhằm cải thiện khả năng cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:18:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836459+07:00"
+    },
+    {
+      "id": "ec943bdc9921d7ba6d90858335efb5b0",
+      "title": "Viltrox tiếp tục phát triển ống kính ngàm Z bất chấp khả năng bị Nikon kiện",
+      "link": "https://thanhnien.vn/viltrox-tiep-tuc-phat-trien-ong-kinh-ngam-z-bat-chap-kha-nang-bi-nikon-kien-185251230174304577.htm",
+      "summary": "Dù thông tin kiện tụng đang lan truyền, Viltrox tuyên bố vẫn triển khai lộ trình phát triển ống kính ngàm Z như dự kiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:18:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836609+07:00"
+    },
+    {
+      "id": "372f2076784df5717361f8164732c6f3",
+      "title": "Nhiều người 'thấy lạ' khi trăng rằm tháng chạp đỏ như máu, vì sao vậy?",
+      "link": "https://thanhnien.vn/nhieu-nguoi-thay-la-khi-trang-ram-thang-chap-do-nhu-mau-vi-sao-vay-185260203090800169.htm",
+      "summary": "Ngắm trăng rằm tháng chạp, trăng tròn cuối cùng của năm âm lịch Ất Tỵ 2025, nhiều người Việt chụp lại được khoảnh khắc mặt trăng có màu đỏ rực như máu. Dưới đây là lý giải khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:11:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836757+07:00"
+    },
+    {
+      "id": "fc563d5a126bcd1177b0f6a73c40de48",
+      "title": "Honda Zoomer, Dax phiên bản điện đăng ký bản quyền kiểu dáng, liệu có về Việt Nam?",
+      "link": "https://thanhnien.vn/honda-zoomer-dax-phien-ban-dien-dang-ky-ban-quyen-kieu-dang-lieu-co-ve-viet-nam-185260202150854965.htm",
+      "summary": "Phiên bản thuần điện của các dòng xe cá tính như Honda Zoomer, Honda Dax vừa được Honda đăng ký bản quyền kiểu dáng, làm dấy lên thông tin các mẫu mã này sẽ được hãng xe Nhật Bản phân phối trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:11:00+07:00",
+      "fetched": "2026-02-03T21:41:04.836922+07:00"
+    },
+    {
+      "id": "aa08a157089c59aa36cdcc1315e5c27f",
+      "title": "Triệt phá đường dây sản xuất xăng giả: Pha dung môi, phẩm màu ngay tại bồn ngầm cây xăng",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-san-xuat-xang-gia-pha-dung-moi-pham-mau-ngay-tai-bon-ngam-cay-xang-185260203195334741.htm",
+      "summary": "Ngày 3.2, Cơ quan Cảnh sát điều tra Công an TP.HCM đã ra quyết định khởi tố vụ án hình sự, khởi tố bị can và lệnh bắt bị can để tạm giam để điều tra về hành vi sản xuất, buôn bán xăng giả RON A95.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:05:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837087+07:00"
+    },
+    {
+      "id": "e1072dd9fc63480799e20e9d9fae2f32",
+      "title": "Văn phòng Chính phủ 'hỏa tốc' yêu cầu hướng  dẫn kiểm tra thực phẩm nhập khẩu trước 5.2.",
+      "link": "https://thanhnien.vn/van-phong-chinh-phu-hoa-toc-yeu-cau-huong-dan-kiem-tra-thuc-pham-nhap-khau-truoc52-18526020320563953.htm",
+      "summary": "Nhiệm vụ và yêu cầu cấp bách đặt ra là phải có hướng dẫn, tổ chức thực hiện việc kiểm tra nhà nước đối với thực phẩm nhập khẩu theo quy định tại Nghị định 46/2026 bảo đảm khả thi, thông quan hàng hóa kịp thời, thông suốt, tuyệt đối không để ách tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T14:03:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837248+07:00"
+    },
+    {
+      "id": "5d4c841be77205d4ad1441e3a35c72ef",
+      "title": "Phá đường dây lô đề hơn 20 tỉ đồng giao dịch 'kín' qua Zalo",
+      "link": "https://thanhnien.vn/pha-duong-day-lo-de-hon-20-ti-dong-giao-dich-kin-qua-zalo-185260203202508896.htm",
+      "summary": "Hoạt động tinh vi qua Zalo và tin nhắn SMS, đường dây ghi lô đề tổ chức cá cược cho hàng chục con bạc mỗi ngày với tổng số tiền giao dịch hơn 20 tỉ đồng vừa bị Công an TP.Đà Nẵng triệt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:50:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837398+07:00"
+    },
+    {
       "id": "7e7e8f9d9b7f6709bd7306fd566c081c",
       "title": "Bóng đá Nga sắp được FIFA dỡ bỏ án cấm thi đấu",
       "link": "https://tuoitre.vn/bong-da-nga-sap-duoc-fifa-do-bo-an-cam-thi-dau-20260203105123398.htm",
@@ -601,6 +841,176 @@ window.newsData_2026_02_03 = {
       "category": "Tổng hợp",
       "published": "2026-02-03T13:46:23.185154+07:00",
       "fetched": "2026-02-03T13:46:23.185377+07:00"
+    },
+    {
+      "id": "55a749e55fb803809d15a0d2cc92b24a",
+      "title": "Công an Lâm Đồng giải cứu thanh niên bị lừa sang Campuchia, đòi tiền chuộc 200 triệu đồng",
+      "link": "https://thanhnien.vn/cong-an-lam-dong-giai-cuu-thanh-nien-bi-lua-sang-campuchia-doi-tien-chuoc-200-trieu-dong-185260203203737307.htm",
+      "summary": "Công an Lâm Đồng nhanh chóng vào cuộc và giải cứu thành công một thanh niên bị lừa sang Campuchia, đòi tiền chuộc 200 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:40:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837554+07:00"
+    },
+    {
+      "id": "1dfd6b9b6da069f60bc278cdd9f249cd",
+      "title": "Phó thủ tướng yêu cầu hướng dẫn thực hiện Nghị định 46 để không ách tắc hàng hoá",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-huong-dan-thuc-hien-nghi-dinh-46-de-khong-ach-tac-hang-hoa-5013689.html",
+      "summary": "Phó thủ tướng yêu cầu các bộ ngành, địa phương hướng dẫn thực hiện việc kiểm tra nhà nước với thực phẩm để hàng hóa nhập khẩu không bị ách tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:32:17+07:00",
+      "fetched": "2026-02-03T21:41:01.050069+07:00"
+    },
+    {
+      "id": "43f764f8806299ff31fb936d39218b46",
+      "title": "Phó thủ tướng yêu cầu hướng dẫn Nghị định 46 để không ách tắc hàng hoá",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-huong-dan-nghi-dinh-46-de-khong-ach-tac-hang-hoa-5013689.html",
+      "summary": "Phó thủ tướng yêu cầu các bộ ngành, địa phương hướng dẫn thực hiện việc kiểm tra nhà nước với thực phẩm để hàng hóa nhập khẩu không bị ách tắc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-03T13:32:17+07:00",
+      "fetched": "2026-02-03T21:41:08.476075+07:00"
+    },
+    {
+      "id": "d2439fc9f2b68dd9a35547ee7719054f",
+      "title": "Arteta: 'Arsenal là đội bóng hấp dẫn nhất châu Âu'",
+      "link": "https://vnexpress.net/arteta-arsenal-la-doi-bong-hap-dan-nhat-chau-au-5013698.html",
+      "summary": "Đáp trả nhận định của Paul Scholes gần đây rằng Arsenal sẽ là nhà vô địch Ngoại hạng Anh tẻ nhạt nhất lịch sử, HLV Mikel Arteta quả quyết đội của ông đang được xem là \"hấp dẫn nhất châu Âu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:31:58+07:00",
+      "fetched": "2026-02-03T21:41:01.050247+07:00"
+    },
+    {
+      "id": "d2439fc9f2b68dd9a35547ee7719054f",
+      "title": "Arteta: 'Arsenal là đội bóng hấp dẫn nhất châu Âu'",
+      "link": "https://vnexpress.net/arteta-arsenal-la-doi-bong-hap-dan-nhat-chau-au-5013698.html",
+      "summary": "Đáp trả nhận định của Paul Scholes gần đây rằng Arsenal sẽ là nhà vô địch Ngoại hạng Anh tẻ nhạt nhất lịch sử, HLV Mikel Arteta quả quyết đội của ông đang được xem là \"hấp dẫn nhất châu Âu\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-03T13:31:58+07:00",
+      "fetched": "2026-02-03T21:41:12.445457+07:00"
+    },
+    {
+      "id": "23e487bb985d8dc4c44cf5056feaadfe",
+      "title": "Olivia Dean - giọng ca Anh thắng Nghệ sĩ mới xuất sắc Grammy",
+      "link": "https://vnexpress.net/olivia-dean-giong-ca-anh-thang-nghe-si-moi-xuat-sac-grammy-5013364.html",
+      "summary": "Olivia Dean - Nghệ sĩ mới xuất sắc Grammy 2026 - có chất giọng ấm và phong cách hoài cổ, được nhận xét sẽ trở thành \"Adele thứ hai\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:31:00+07:00",
+      "fetched": "2026-02-03T21:41:01.050409+07:00"
+    },
+    {
+      "id": "86d39a9b93053e2936fc121bec774b30",
+      "title": "NASA hoãn đưa người tới Mặt Trăng sau thử nghiệm trục trặc",
+      "link": "https://vnexpress.net/nasa-hoan-dua-nguoi-toi-mat-trang-sau-thu-nghiem-truc-trac-5013684.html",
+      "summary": "NASA lùi lịch phóng tàu chở bốn phi hành gia tới Mặt Trăng ít nhất một tháng do gặp một số vấn đề trong cuộc thử nghiệm quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:19:53+07:00",
+      "fetched": "2026-02-03T21:41:01.050582+07:00"
+    },
+    {
+      "id": "86d39a9b93053e2936fc121bec774b30",
+      "title": "NASA hoãn đưa người tới Mặt Trăng sau thử nghiệm trục trặc",
+      "link": "https://vnexpress.net/nasa-hoan-dua-nguoi-toi-mat-trang-sau-thu-nghiem-truc-trac-5013684.html",
+      "summary": "NASA lùi lịch phóng tàu chở bốn phi hành gia tới Mặt Trăng ít nhất một tháng do gặp một số vấn đề trong cuộc thử nghiệm quan trọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-03T13:19:53+07:00",
+      "fetched": "2026-02-03T21:41:11.387502+07:00"
+    },
+    {
+      "id": "58987d68e84fa2de4c0ef3931de8bade",
+      "title": "Anh quan ngại trước sức mạnh Hạm đội phương Bắc của Nga",
+      "link": "https://thanhnien.vn/anh-quan-ngai-truoc-suc-manh-ham-doi-phuong-bac-cua-nga-185260203194415792.htm",
+      "summary": "Tư lệnh hải quân Hoàng gia Anh Gwyn Jenkins cho hay Nga vẫn duy trì mức đầu tư đáng kể vào Hạm đội phương Bắc, bất chấp nhiều năm xung đột tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:18:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837701+07:00"
+    },
+    {
+      "id": "c185ba8fd9330a5d64d465709f382fae",
+      "title": "Nem Hà Nội và chả giò Sài Gòn khác nhau thế nào?",
+      "link": "https://vnexpress.net/nem-ha-noi-va-cha-gio-sai-gon-khac-nhau-the-nao-5013629.html",
+      "summary": "Hai món ăn duy trì những đặc điểm riêng trong cách lựa chọn nguyên liệu và kỹ thuật chế biến dù có ngoại hình tương đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:09:58+07:00",
+      "fetched": "2026-02-03T21:41:01.050740+07:00"
+    },
+    {
+      "id": "5de54f2bbfcf3b1bdc4f8639a3f7a3d9",
+      "title": "Microsoft sắp có đợt 'đại tu' cho Windows 11",
+      "link": "https://thanhnien.vn/microsoft-sap-co-dot-dai-tu-cho-windows-11-185260203103759709.htm",
+      "summary": "Khi các tính năng AI trên Windows 11 khiến người dùng khó chịu và sắp không còn là 'con cưng' của Microsoft.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:09:00+07:00",
+      "fetched": "2026-02-03T21:41:04.837845+07:00"
+    },
+    {
+      "id": "e49ffdb6e37149711d7157ec0d10bb6e",
+      "title": "Pháp 'sờ gáy' nền tảng X của tỉ phú Elon Musk",
+      "link": "https://thanhnien.vn/phap-so-gay-nen-tang-x-cua-ti-phu-elon-musk-1852602031930085.htm",
+      "summary": "Cảnh sát Pháp đã tiến hành khám xét văn phòng của mạng xã hội X tại Paris trong khuôn khổ cuộc điều tra mở rộng liên quan hàng loạt cáo buộc vi phạm nghiêm trọng của nền tảng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:06:00+07:00",
+      "fetched": "2026-02-03T21:41:04.838013+07:00"
+    },
+    {
+      "id": "1a7c7ab52f704f4ea21c7ea09eaca54d",
+      "title": "Petrolimex nhận diện thương hiệu mới - sẵn sàng cùng đất nước tiến vào kỷ nguyên mới",
+      "link": "https://thanhnien.vn/petrolimex-nhan-dien-thuong-hieu-moi-san-sang-cung-dat-nuoc-tien-vao-ky-nguyen-moi-18526020320015664.htm",
+      "summary": "Ngày 3.2, Tập đoàn Xăng dầu Việt Nam (Petrolimex) tổ chức Lễ giới thiệu nhận diện thương hiệu mới Petrolimex, đánh dấu một cột mốc quan trọng của chiến lược phát triển và hành trình tái định vị thương hiệu Petrolimex trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:01:00+07:00",
+      "fetched": "2026-02-03T21:41:04.838162+07:00"
+    },
+    {
+      "id": "226c4b36f9281131acd8fddd512e2a01",
+      "title": "Australia thử nghiệm vaccine điều trị ung thư não cho trẻ em",
+      "link": "https://vnexpress.net/australia-thu-nghiem-vaccine-dieu-tri-ung-thu-nao-cho-tre-em-5013663.html",
+      "summary": "8 bệnh viện tại Australia sẽ thử nghiệm vaccine dành cho trẻ em mắc bệnh ung thư não ác tính, thử nghiệm kéo dài 4 năm trên khoảng 70 em bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:00:00+07:00",
+      "fetched": "2026-02-03T21:41:01.050893+07:00"
+    },
+    {
+      "id": "96d7194458c2d73afec1155a21bac856",
+      "title": "Môtô thể thao điện của VinFast gây chú ý",
+      "link": "https://vnexpress.net/moto-the-thao-dien-cua-vinfast-gay-chu-y-5013642.html",
+      "summary": "Nhiều người dùng đánh giá cao thiết kế các dòng xe mới của VinFast, ấn tượng với hình ảnh bốn mẫu môtô thể thao thuần điện dự kiến ra mắt năm 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:00:00+07:00",
+      "fetched": "2026-02-03T21:41:01.051071+07:00"
+    },
+    {
+      "id": "57d92504579b53bb687d5c6e95ed77e5",
+      "title": "Xem nhanh 20h ngày 3.2: Miễn cưỡng đóng tiền rác tháng 13 | Khu ‘biệt thự triệu đô’ chờ thoát ngập",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-32-mien-cuong-dong-tien-rac-thang-13-khu-biet-thu-trieu-do-cho-thoat-ngap-185260203195504644.htm",
+      "summary": "'Xem nhanh 20h' ngày 3.2 có nhiều tin tức đáng chú ý về: Thu tiền rác tháng 13: Miễn cưỡng đóng hoặc 'ăn tết' cùng rác; dự án thoát nước 'khu biệt thự triệu đô' tiến độ ra sao?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T13:00:00+07:00",
+      "fetched": "2026-02-03T21:41:04.838314+07:00"
+    },
+    {
+      "id": "631ded1c2e52d47fd87c2167720afdd0",
+      "title": "'Cỗ máy' giải Toán là thủ khoa thi đánh giá tư duy Bách khoa",
+      "link": "https://vnexpress.net/thu-khoa-chia-se-kinh-nghiem-thi-danh-gia-tu-duy-dai-hoc-bach-khoa-ha-noi-2026-5013391.html",
+      "summary": "Được coi là \"tay chơi\" Liên Quân Mobile nhưng Anh Tú cũng học rất cừ, từng hai lần giành điểm tuyệt đối thi Toán cấp tỉnh, trước khi trở thành thủ khoa thi đánh giá tư duy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-03T12:59:42+07:00",
+      "fetched": "2026-02-03T21:41:01.051225+07:00"
     },
     {
       "id": "1fb57bbca0ef7b5d5aa0649165f87b55",
