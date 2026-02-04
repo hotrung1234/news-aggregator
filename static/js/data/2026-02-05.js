@@ -1,6 +1,6 @@
 window.newsData_2026_02_05 = {
   "date": "2026-02-05",
-  "lastUpdated": "2026-02-05T03:30:43.307002+07:00",
+  "lastUpdated": "2026-02-05T05:24:43.166091+07:00",
   "articles": [
     {
       "id": "e370c4cf99bff171d4eb9b86355d9dfc",
@@ -151,6 +151,256 @@ window.newsData_2026_02_05 = {
       "category": "Tổng hợp",
       "published": "2026-02-05T01:43:54.201459+07:00",
       "fetched": "2026-02-05T01:43:54.201718+07:00"
+    },
+    {
+      "id": "a5055640559edcc1a1494ca06c83a856",
+      "title": "Bác sĩ chỉ ra những 'cạm bẫy' với người bệnh thận dịp Tết",
+      "link": "https://vnexpress.net/bac-si-chi-ra-nhung-cam-bay-voi-nguoi-benh-than-dip-tet-5013630.html",
+      "summary": "Chế độ ăn giàu đạm, muối của mâm cỗ Tết cùng kỳ nghỉ dài dễ khiến sức khỏe người bệnh thận rơi vào vòng nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:18:43+07:00",
+      "fetched": "2026-02-05T05:24:34.253898+07:00"
+    },
+    {
+      "id": "df7f5688486d78cb6be85504e55bccfd",
+      "title": "Rộn ràng không khí xuân biên giới ở Đồng Nai",
+      "link": "https://thanhnien.vn/ron-rang-khong-khi-xuan-bien-gioi-o-dong-nai-185260204213108478.htm",
+      "summary": "Chương trình \"Xuân biên giới\" vừa được tỉnh Đồng Nai tổ chức tại Khu di tích quốc gia đặc biệt Tà Thiết với nhiều hoạt động thiết thực và ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:15:00+07:00",
+      "fetched": "2026-02-05T05:24:36.769747+07:00"
+    },
+    {
+      "id": "5041828bf0591386d9f7df894277d50d",
+      "title": "Slot: 'Lối đá đẹp quan trọng hơn danh hiệu'",
+      "link": "https://vnexpress.net/slot-loi-da-dep-quan-trong-hon-danh-hieu-5014177.html",
+      "summary": "HLV Arne Slot cho rằng giá trị của Liverpool không nằm ở những chiếc cup, mà là bản sắc lối chơi khiến người hâm mộ muốn đến Anfield mỗi tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:25+07:00",
+      "fetched": "2026-02-05T05:24:34.254078+07:00"
+    },
+    {
+      "id": "5041828bf0591386d9f7df894277d50d",
+      "title": "Slot: 'Lối đá đẹp quan trọng hơn danh hiệu'",
+      "link": "https://vnexpress.net/slot-loi-da-dep-quan-trong-hon-danh-hieu-5014177.html",
+      "summary": "HLV Arne Slot cho rằng giá trị của Liverpool không nằm ở những chiếc cup, mà là bản sắc lối chơi khiến người hâm mộ muốn đến Anfield mỗi tuần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T22:00:25+07:00",
+      "fetched": "2026-02-05T05:24:43.161441+07:00"
+    },
+    {
+      "id": "cc2548353355120ff84c97e8c7e5fcf0",
+      "title": "Odegaard thừa nhận Arsenal chịu tác động từ sự lo lắng của CĐV",
+      "link": "https://vnexpress.net/odegaard-thua-nhan-arsenal-chiu-tac-dong-tu-su-lo-lang-cua-cdv-5014185.html",
+      "summary": "Đội trưởng Martin Odegaard cho biết các cầu thủ Arsenal đôi khi cảm nhận rõ sự lo lắng lan tỏa từ khán đài sân Emirates, nhưng khẳng định toàn đội đã đủ bản lĩnh để đối mặt áp lực trong cuộc đua danh hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:04+07:00",
+      "fetched": "2026-02-05T05:24:34.254252+07:00"
+    },
+    {
+      "id": "cc2548353355120ff84c97e8c7e5fcf0",
+      "title": "Odegaard thừa nhận Arsenal chịu tác động từ sự lo lắng của CĐV",
+      "link": "https://vnexpress.net/odegaard-thua-nhan-arsenal-chiu-tac-dong-tu-su-lo-lang-cua-cdv-5014185.html",
+      "summary": "Đội trưởng Martin Odegaard cho biết các cầu thủ Arsenal đôi khi cảm nhận rõ sự lo lắng lan tỏa từ khán đài sân Emirates, nhưng khẳng định toàn đội đã đủ bản lĩnh để đối mặt áp lực trong cuộc đua danh hiệu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T22:00:04+07:00",
+      "fetched": "2026-02-05T05:24:43.161619+07:00"
+    },
+    {
+      "id": "ee5f2ba1fc337820be50937f1ba1b44d",
+      "title": "Lý do Pháp triệu tập Elon Musk, khám xét văn phòng của X",
+      "link": "https://vnexpress.net/ly-do-phap-trieu-tap-elon-musk-kham-xet-van-phong-cua-x-5014003.html",
+      "summary": "Mạng xã hội X đang đối mặt cuộc điều tra lớn tại Pháp với loạt cáo buộc nghiêm trọng, từ lạm dụng dữ liệu đến buông lỏng kiểm soát nội dung độc hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:34.254413+07:00"
+    },
+    {
+      "id": "1c2030eff3dedc4c2829a5ce5b8cf1d8",
+      "title": "CEO AWS: Trung tâm dữ liệu ngoài không gian 'xa rời thực tế'",
+      "link": "https://vnexpress.net/ceo-aws-trung-tam-du-lieu-ngoai-khong-gian-xa-roi-thuc-te-5013853.html",
+      "summary": "Matt Garman, CEO Amazon Web Services (AWS), cho rằng ý tưởng xây trung tâm dữ liệu ngoài không gian khó khả thi, liên quan đến chi phí vận chuyển máy chủ, phụ kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:34.254593+07:00"
+    },
+    {
+      "id": "47ff84eccf768e859030b4c56d5592cc",
+      "title": "Cách tính thuế thu nhập cá nhân với tiền thưởng Tết Âm lịch 2026",
+      "link": "https://vnexpress.net/cach-tinh-thue-thu-nhap-ca-nhan-voi-tien-thuong-tet-am-lich-2026-5013484.html",
+      "summary": "Tôi vừa nhận lương tháng 1/2026 và thưởng Tết Âm lịch thì bị trừ tiền thuế rất nhiều và không biết cách tính thuế thu nhập cá nhân của kế toán công ty có đúng hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:34.254755+07:00"
+    },
+    {
+      "id": "1a58ea234e6ff8ed12725d0b0c08c596",
+      "title": "Học sinh đi xe 50 phân khối gây tai nạn và trách nhiệm phụ huynh",
+      "link": "https://vnexpress.net/hoc-sinh-di-xe-50-phan-khoi-gay-tai-nan-va-trach-nhiem-phu-huynh-5013945.html",
+      "summary": "Nếu giao xe dưới 50 phân khối kèm đủ giấy tờ, phụ huynh sẽ không chịu trách nhiệm liên đới khi con em điều khiển xe gây tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:34.254909+07:00"
+    },
+    {
+      "id": "a0f556a73b17832c70028a49b0633021",
+      "title": "Căng thẳng Mỹ - Iran gia tăng trước thềm đàm phán",
+      "link": "https://thanhnien.vn/cang-thang-my-iran-gia-tang-truoc-them-dam-phan-185260204223223372.htm",
+      "summary": "Mỹ cáo buộc Iran có các động thái nhắm vào tàu sân bay và tàu dầu Mỹ trong khu vực, giữa lúc Iran muốn đổi địa điểm và quy mô đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:36.769916+07:00"
+    },
+    {
+      "id": "bb691184a663285cc4df72c1138d25d0",
+      "title": "Thi công đường Lò Lu, người dân 'sống chung với bụi' suốt nhiều tháng",
+      "link": "https://thanhnien.vn/thi-cong-duong-lo-lu-nguoi-dan-an-com-cung-bui-suot-nhieu-thang-185260204161623635.htm",
+      "summary": "Công trình nâng cấp, mở rộng đường Lò Lu (TP.HCM) gây bụi mù kéo dài suốt nhiều tháng, ảnh hưởng nghiêm trọng đến sức khỏe, sinh hoạt và việc buôn bán của người dân, trong khi nguy cơ mất an toàn giao thông luôn hiện hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770074+07:00"
+    },
+    {
+      "id": "405ba9c09340cc4d923d6be2c03d4c71",
+      "title": "Mất tết vì hàng nghìn gốc hoa ly, hoa hồng bị phá hoại",
+      "link": "https://thanhnien.vn/mat-tet-vi-hang-nghin-goc-hoa-ly-hoa-hong-bi-pha-hoai-185260203163019934.htm",
+      "summary": "Cận Tết Nguyên đán, gia đình hai anh em Trần Ngọc Xướng và Trần Ngọc Hưởng ở xã Mê Linh (Hà Nội) rơi vào cảnh mất ăn, mất ngủ khi vườn hoa ly và hoa hồng bị kẻ gian phá hoại trong đêm, thiệt hại ước tính khoảng 250 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T22:00:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770233+07:00"
+    },
+    {
+      "id": "45bc851d45e17fba56fd2dabb6a197ee",
+      "title": "Ronaldo tiếp tục đình công ở Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-tiep-tuc-dinh-cong-o-al-nassr-5014184.html",
+      "summary": "Cristiano Ronaldo sẽ không thi đấu trận thứ hai liên tiếp do chưa nhận được cam kết rõ ràng từ Quỹ đầu tư công Saudi (PIF) về việc thay đổi bộ máy quản lý và định hướng đầu tư của Al Nassr.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:52:40+07:00",
+      "fetched": "2026-02-05T05:24:34.255071+07:00"
+    },
+    {
+      "id": "45bc851d45e17fba56fd2dabb6a197ee",
+      "title": "Ronaldo tiếp tục đình công ở Al Nassr",
+      "link": "https://vnexpress.net/ronaldo-tiep-tuc-dinh-cong-o-al-nassr-5014184.html",
+      "summary": "Cristiano Ronaldo sẽ không thi đấu trận thứ hai liên tiếp do chưa nhận được cam kết rõ ràng từ Quỹ đầu tư công Saudi (PIF) về việc thay đổi bộ máy quản lý và định hướng đầu tư của Al Nassr.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T21:52:40+07:00",
+      "fetched": "2026-02-05T05:24:43.161106+07:00"
+    },
+    {
+      "id": "f72228805de1c66b831ed9d3ce4a8e75",
+      "title": "Benzema: 'Al Hilal là Real Madrid của châu Á'",
+      "link": "https://vnexpress.net/benzema-al-hilal-la-real-madrid-cua-chau-a-5014141.html",
+      "summary": "Tiền đạo Karim Benzema khẳng định khát khao chinh phục thêm danh hiệu khi gia nhập Al Hilal, CLB đang dẫn đầu Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:48:57+07:00",
+      "fetched": "2026-02-05T05:24:34.255231+07:00"
+    },
+    {
+      "id": "f72228805de1c66b831ed9d3ce4a8e75",
+      "title": "Benzema: 'Al Hilal là Real Madrid của châu Á'",
+      "link": "https://vnexpress.net/benzema-al-hilal-la-real-madrid-cua-chau-a-5014141.html",
+      "summary": "Tiền đạo Karim Benzema khẳng định khát khao chinh phục thêm danh hiệu khi gia nhập Al Hilal, CLB đang dẫn đầu Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-04T21:48:57+07:00",
+      "fetched": "2026-02-05T05:24:43.161279+07:00"
+    },
+    {
+      "id": "88ffeb8968e3c5f8554734a272bd9716",
+      "title": "Cây mùa xuân 2026: Tiếp tục trao quà tết đến các hộ khó khăn",
+      "link": "https://thanhnien.vn/cay-mua-xuan-2026-tiep-tuc-trao-qua-tet-den-cac-ho-kho-khan-18526020418410434.htm",
+      "summary": "Ngày 4.2, chương trình Cây mùa xuân - Báo Thanh Niên tiếp tục đến với bà con có hoàn cảnh khó khăn, người già neo đơn, khuyết tật trên địa bàn TP.HCM. Chương trình có sự đồng hành, tài trợ của quý bạn đọc và Bệnh viện thẩm mỹ Gangwhoo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:43:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770384+07:00"
+    },
+    {
+      "id": "48eae2866032450677f8656c15ae058f",
+      "title": "Chiến sự ngày 1.442: Nga - Ukraine vừa đánh vừa đàm, hiệp ước hạt nhân hết hạn",
+      "link": "https://thanhnien.vn/chien-su-ngay-1442-nga-ukraine-vua-danh-vua-dam-hiep-uoc-hat-nhan-het-han-185260204211737546.htm",
+      "summary": "Vòng đàm phán mới giữa Nga và Ukraine do Mỹ làm trung gian diễn ra tại UAE, trong khi một hiệp ước quan trọng giữa Mỹ và Nga về vũ khí hạt nhân sắp hết hạn khiến Giáo hoàng Leo XIV cảnh báo nguy cơ chạy đua vũ trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:32:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770538+07:00"
+    },
+    {
+      "id": "138570c03d05eaa4b457a598b115e9fc",
+      "title": "6 cựu chiến binh bị phạt tù: Đại diện Hội Cựu chiến binh Việt Nam nói gì?",
+      "link": "https://thanhnien.vn/6-cuu-chien-binh-bi-phat-tu-dai-dien-hoi-cuu-chien-binh-viet-nam-noi-gi-18526020420423345.htm",
+      "summary": "Sau khi 6 cựu chiến binh kêu oan tiếp tục bị cấp sơ thẩm phạt mức án từ 6 - 7 tháng tù về tội hủy hoại rừng, đại diện Hội Cựu chiến binh Việt Nam cho biết sẽ tiếp tục đồng hành cùng các bị cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:30:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770733+07:00"
+    },
+    {
+      "id": "36d84d208a2a1fab7250f44314a82c73",
+      "title": "Rác thải ùn ứ khi 2 công ty thu gom 'giao thời', 110 lao động mất việc",
+      "link": "https://thanhnien.vn/rac-thai-un-u-khi-2-cong-ty-thu-gom-giao-thoi-110-lao-dong-mat-viec-185260204145146872.htm",
+      "summary": "Sau khi chuyển giao quyền thu gom, vận chuyển rác thải ở các phường của TP.Trà Vinh, Trà Vinh (cũ) giữa 2 công ty, có khoảng 110 lao động mất việc; rác ùn ứ, chất đống tại nhiều tuyến đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:29:00+07:00",
+      "fetched": "2026-02-05T05:24:36.770895+07:00"
+    },
+    {
+      "id": "eb36c80a53e4f8746be0684e0a431677",
+      "title": "Cháy nhà hai tầng ở TP HCM, 3 mẹ con chết",
+      "link": "https://vnexpress.net/chay-nha-hai-tang-o-tp-hcm-3-me-con-chet-5014183.html",
+      "summary": "Đám cháy bùng lên tại căn nhà hai tầng trong hẻm đường Tô Ký, phường Đông Hưng Thuận, TP HCM, khiến ba mẹ con tử vong, sáng 5/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:25:03+07:00",
+      "fetched": "2026-02-05T05:24:34.255392+07:00"
+    },
+    {
+      "id": "56d36800b2bfee4f2ef4937c31612866",
+      "title": "Yamaha sắp ra mắt xe tay ga 124 phân khối mới",
+      "link": "https://vnexpress.net/yamaha-sap-ra-mat-xe-tay-ga-124-phan-khoi-moi-5013986.html",
+      "summary": "Hãng Nhật có kế hoạch ra mắt mẫu xe tay ga mới tên Jog One vào ngày 19/3 kèm mức giá 259.600 yen (1.660 USD).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:00:00+07:00",
+      "fetched": "2026-02-05T05:24:34.255546+07:00"
+    },
+    {
+      "id": "0d234272943d6554da26af8f7d356a48",
+      "title": "Bất bình với việc bị 'ép' đóng tiền rác tháng 13",
+      "link": "https://thanhnien.vn/bat-binh-voi-viec-bi-ep-dong-tien-rac-thang-13-185260204195001913.htm",
+      "summary": "Ngành nào cũng thường có 'thưởng tháng 13' khi tết đến xuân về, nhưng câu chuyện người dân bị 'ép' đóng tiền rác tháng 13 tại TP.HCM đã thu hút cuộc tranh luận sôi nổi của bạn đọc Thanh Niên khi đặt ra nhiều vấn đề quản lý nguồn thu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T21:00:00+07:00",
+      "fetched": "2026-02-05T05:24:36.771052+07:00"
+    },
+    {
+      "id": "553e740296ebee3cd92ce934dde49c52",
+      "title": "Lịch thi đấu Cúp C1 Đông Nam Á hôm nay: CLB Nam Định thay CAHN viết tiếp giấc mơ",
+      "link": "https://thanhnien.vn/lich-thi-dau-cup-c1-dong-nam-a-hom-nay-clb-nam-dinh-thay-cahn-viet-tiep-giac-mo-185260204231849624.htm",
+      "summary": "Tại Cúp C1 Đông Nam Á, niềm hy vọng của bóng đá VN dồn về phía Nam Định khi họ sẽ chạm trán đối thủ rất mạnh là Johor Darul Ta'zim (JDT - Malaysia). Trận đấu này diễn ra lúc 19 giờ 30 ngày 5.2 trên sân Thiên Trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-04T20:31:00+07:00",
+      "fetched": "2026-02-05T05:24:36.771202+07:00"
     },
     {
       "id": "1c0eabd17da66e6238c9de61fe07e4eb",
