@@ -1,6 +1,6 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T01:43:44.073349+07:00",
+  "lastUpdated": "2026-02-06T03:30:35.453030+07:00",
   "articles": [
     {
       "id": "d397beeee1a3b6802b7abb6a6b6ae12e",
@@ -151,6 +151,76 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T01:43:35.763698+07:00",
       "fetched": "2026-02-06T01:43:35.763939+07:00"
+    },
+    {
+      "id": "a1e4a80f931593075cd2981a2715e5bd",
+      "title": "Lan công chúa dát vàng 24K giá vài triệu đồng một cành",
+      "link": "https://vnexpress.net/lan-cong-chua-dat-vang-24k-gia-vai-trieu-dong-mot-canh-5012793.html",
+      "summary": "Lan công chúa dát vàng 24K sở hữu thiết kế riêng, nguồn khan hiếm, có giá bán vài triệu đồng mỗi cành đang hút khách dịp Tết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:57:10+07:00",
+      "fetched": "2026-02-06T03:30:31.324205+07:00"
+    },
+    {
+      "id": "d2693c3ca0a3b097e8a06a6c1f215bd0",
+      "title": "Bitcoin bị bán tháo, thủng mốc 70.000 USD",
+      "link": "https://vnexpress.net/bitcoin-bi-ban-thao-thung-moc-70-000-usd-5014514.html",
+      "summary": "Nhà đầu tư toàn cầu bán tháo khiến Bitcoin giảm thêm 8% so với cuối ngày hôm trước, thủng mốc 70.000 USD và có thời điểm xuống dưới 67.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T19:23:38+07:00",
+      "fetched": "2026-02-06T03:30:19.791438+07:00"
+    },
+    {
+      "id": "d2693c3ca0a3b097e8a06a6c1f215bd0",
+      "title": "Bitcoin bị bán tháo, thủng mốc 70.000 USD",
+      "link": "https://vnexpress.net/bitcoin-bi-ban-thao-thung-moc-70-000-usd-5014514.html",
+      "summary": "Nhà đầu tư toàn cầu bán tháo khiến Bitcoin giảm thêm 8% so với cuối ngày hôm trước, thủng mốc 70.000 USD và có thời điểm xuống dưới 67.000 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:23:38+07:00",
+      "fetched": "2026-02-06T03:30:31.324379+07:00"
+    },
+    {
+      "id": "7b04b5bedc9208e636a42c09739b69de",
+      "title": "FLC bổ nhiệm nhân sự 9x làm tổng giám đốc",
+      "link": "https://vnexpress.net/flc-bo-nhiem-nhan-su-9x-lam-tong-giam-doc-5014513.html",
+      "summary": "Nửa tháng sau khi ông Trịnh Văn Quyết tái xuất, FLC bổ nhiệm ông Trịnh Văn Nam (35 tuổi) làm Tổng giám đốc, còn người tiền nhiệm đảm trách Phó tổng giám đốc thường trực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T19:12:48+07:00",
+      "fetched": "2026-02-06T03:30:19.791617+07:00"
+    },
+    {
+      "id": "7b04b5bedc9208e636a42c09739b69de",
+      "title": "FLC bổ nhiệm nhân sự 9x làm tổng giám đốc",
+      "link": "https://vnexpress.net/flc-bo-nhiem-nhan-su-9x-lam-tong-giam-doc-5014513.html",
+      "summary": "Nửa tháng sau khi ông Trịnh Văn Quyết tái xuất, FLC bổ nhiệm ông Trịnh Văn Nam (35 tuổi) làm Tổng giám đốc, còn người tiền nhiệm đảm trách Phó tổng giám đốc thường trực.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T19:12:48+07:00",
+      "fetched": "2026-02-06T03:30:31.324540+07:00"
+    },
+    {
+      "id": "7da201e90949b2a6397e863adc4c5de5",
+      "title": "Chùm đô thị vệ tinh trong quy hoạch Thủ đô tầm nhìn 100 năm",
+      "link": "https://vnexpress.net/chum-do-thi-ve-tinh-trong-quy-hoach-thu-do-tam-nhin-100-nam-5014328.html",
+      "summary": "Đồ án Quy hoạch tổng thể Thủ đô định hướng cấu trúc chùm đô thị hướng tâm, trong đó Hà Nội là hạt nhân, các đô thị thuộc tỉnh xung quanh là vệ tinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T18:02:22+07:00",
+      "fetched": "2026-02-06T03:30:19.791781+07:00"
+    },
+    {
+      "id": "da89ab58ae3893cb8e93b4f91fc240df",
+      "title": "7 món ít tinh bột nên ăn thường xuyên",
+      "link": "https://vnexpress.net/7-mon-it-tinh-bot-nen-an-thuong-xuyen-5014064.html",
+      "summary": "Thịt, trứng, hải sản và một số loại rau quả như bông cải xanh dâu tây có hàm lượng tinh bột thấp song chứa nhiều chất dinh dưỡng tốt cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T18:00:00+07:00",
+      "fetched": "2026-02-06T03:30:19.791940+07:00"
     },
     {
       "id": "cff9601edb444e2f883008195fbb8d5e",
