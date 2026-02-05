@@ -1,6 +1,6 @@
 window.newsData_2026_02_05 = {
   "date": "2026-02-05",
-  "lastUpdated": "2026-02-05T19:56:14.325424+07:00",
+  "lastUpdated": "2026-02-05T21:40:55.687930+07:00",
   "articles": [
     {
       "id": "23e5175715e6cdb6f06c97ce2e627424",
@@ -353,6 +353,76 @@ window.newsData_2026_02_05 = {
       "fetched": "2026-02-05T15:39:54.083091+07:00"
     },
     {
+      "id": "3a661ef2728add1f22936ad9b3b94f2e",
+      "title": "Thiếu Xuân Son, Nam Định hòa đối thủ Malaysia ‘liều lĩnh’ dùng sao nhập tịch lậu: Vẫn vững ngôi đầu!",
+      "link": "https://thanhnien.vn/thieu-xuan-son-nam-dinh-hoa-doi-thu-malaysia-lieu-linh-dung-sao-nhap-tich-lau-van-vung-ngoi-dau-185260205213225847.htm",
+      "summary": "Tạo ra nhiều cơ hội ăn bàn hơn nhưng CLB Nam Định lại để đại diện của Malaysia - JDT cầm chân 1-1 ở lượt đấu cuối bảng B, giải CLB ASEAN 2025 - 2026 diễn ra tối 5.2. Tuy nhiên, kết quả này vẫn giúp đại diện của Việt Nam vào bán kết với ngôi đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:39:00+07:00",
+      "fetched": "2026-02-05T21:40:47.781476+07:00"
+    },
+    {
+      "id": "0e41e15bf1805ba754d091fcbb9077e8",
+      "title": "Tướng Iran tuyên bố chuyển đổi học thuyết quân sự, Nga cảnh báo tình hình",
+      "link": "https://thanhnien.vn/tuong-iran-tuyen-bo-chuyen-doi-hoc-thuyet-quan-su-nga-canh-bao-tinh-hinh-185260205212420175.htm",
+      "summary": "Tham mưu trưởng Lực lượng vũ trang Iran tuyên bố nước này đã hoàn thành việc nâng cấp kỹ thuật kho tên lửa đạn đạo và chính thức chuyển đổi học thuyết quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:37:00+07:00",
+      "fetched": "2026-02-05T21:40:47.781627+07:00"
+    },
+    {
+      "id": "1e7d9d6670f6d83cf94e19515cc8e48a",
+      "title": "Việt Nam luôn coi trọng và dành ưu tiên hàng đầu cho mối quan hệ đặc biệt với Lào",
+      "link": "https://thanhnien.vn/viet-nam-luon-coi-trong-va-danh-uu-tien-hang-dau-cho-moi-quan-he-dac-biet-voi-lao-185260205210944447.htm",
+      "summary": "Chiều 5.2, Tổng Bí thư Tô Lâm đã có cuộc hội kiến với Chủ tịch Quốc hội Lào Saysomphone Phomvihane.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:24:00+07:00",
+      "fetched": "2026-02-05T21:40:47.781769+07:00"
+    },
+    {
+      "id": "8f9521b53bd6c45ce19511db6dc2dc19",
+      "title": "Linh vật ngựa và long mã xứ Huế cùng thành ngữ 'ngựa Thượng Tứ' ít người biết",
+      "link": "https://thanhnien.vn/linh-vat-ngua-va-long-ma-xu-hue-cung-thanh-ngu-ngua-thuong-tu-it-nguoi-biet-185260205164236267.htm",
+      "summary": "Khám phá linh vật ngựa và long mã trong văn hóa Huế cùng thành ngữ 'ngựa Thượng Tứ', triển lãm chào đón Xuân Bính Ngọ 2026 sẽ đưa người thưởng lãm về di sản văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:22:00+07:00",
+      "fetched": "2026-02-05T21:40:47.781901+07:00"
+    },
+    {
+      "id": "f00c0f6b98e8aa206cdf951df51b5ce2",
+      "title": "Gắn kết chiến lược là 'chìa khóa' cho giai đoạn hợp tác mới giữa Việt Nam và Lào",
+      "link": "https://thanhnien.vn/gan-ket-chien-luoc-la-chia-khoa-cho-giai-doan-hop-tac-moi-giua-viet-nam-va-lao-185260205203931084.htm",
+      "summary": "Chiều 5.2, Tổng Bí thư Tô Lâm đã có cuộc hội kiến với Thủ tướng Lào Sonexay Siphandone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:02:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782030+07:00"
+    },
+    {
+      "id": "06079e31259dd5a3fb7ec87023da2ae3",
+      "title": "Gần 21.000 phần quà tết được Công an tỉnh Gia Lai trao cho người nghèo",
+      "link": "https://thanhnien.vn/gan-21000-phan-qua-tet-duoc-cong-an-tinh-gia-lai-trao-cho-nguoi-ngheo-185260204150729659.htm",
+      "summary": "Gần 21.000 suất quà tết từ chương trình 'Xuân ấm áp, tết yêu thương' đã được Công an tỉnh Gia Lai trao tận tay người dân nghèo, giúp bà con đón Tết Bính Ngọ an toàn, đủ đầy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T14:00:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782159+07:00"
+    },
+    {
+      "id": "ef7a5064dbd8f02eb7466fbc3884cf66",
+      "title": "'Băng Robin Hood' cướp thực phẩm chia cho người nghèo ở Canada",
+      "link": "https://vnexpress.net/bang-robin-hood-cuop-thuc-pham-chia-cho-nguoi-ngheo-o-canada-5014372.html",
+      "summary": "Hàng chục người bịt mặt tự nhận là \"băng Robin Hood\" xông vào cửa hàng, lấy thực phẩm để chia cho các bếp ăn cho người nghèo ở Montreal.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T14:00:00+07:00",
+      "fetched": "2026-02-05T21:40:50.410247+07:00"
+    },
+    {
       "id": "b48f327d9edb58072f8dae4468602d71",
       "title": "Trình HĐND TP.HCM thống nhất để tỉnh Đồng Nai chủ trì làm metro số 1 nối dài tới sân bay Long Thành",
       "link": "https://tuoitre.vn/trinh-hdnd-tp-hcm-thong-nhat-de-tinh-dong-nai-chu-tri-lam-metro-so-1-noi-dai-toi-san-bay-long-thanh-20260205122020699.htm",
@@ -501,6 +571,156 @@ window.newsData_2026_02_05 = {
       "category": "Tổng hợp",
       "published": "2026-02-05T13:55:12.962000+07:00",
       "fetched": "2026-02-05T13:55:12.962220+07:00"
+    },
+    {
+      "id": "a48046087e0dcecf8c2954fe628f3908",
+      "title": "Quảng Trị: Bị khởi tố vì vận chuyển 43 kg thịt sơn dương",
+      "link": "https://thanhnien.vn/quang-tri-bi-khoi-to-vi-van-chuyen-43-kg-thit-son-duong-185260205201904407.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa có quyết định khởi tố vụ án, khởi tố bị can 1 người đàn ông có hành vi vận chuyển, tàng trữ trái phép thịt sơn dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:42:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782285+07:00"
+    },
+    {
+      "id": "d61d11681677cf27d4935cf906fd3eff",
+      "title": "Tối nay 5.2, người Việt có thể nhìn thấy mưa sao băng lạ ít người biết",
+      "link": "https://thanhnien.vn/toi-nay-52-nguoi-viet-co-the-nhin-thay-mua-sao-bang-la-it-nguoi-biet-185260205084618821.htm",
+      "summary": "Nhìn lên bầu trời tối nay 5.2, người Việt có thể may mắn nhìn thấy những vệt sao băng α-Centaurids. Đây là trận mưa sao băng lạ lẫm với nhiều người Việt, không phải ai cũng biết tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:39:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782421+07:00"
+    },
+    {
+      "id": "cc6da473c551c8aa5acd2f6ec26f6ea4",
+      "title": "Khởi tố 3 bị can xông vào bãi tập kết cát cản trở hoạt động kinh doanh",
+      "link": "https://thanhnien.vn/khoi-to-3-bi-can-xong-vao-bai-tap-ket-cat-can-tro-hoat-dong-kinh-doanh-185260205200216247.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa có quyết định khởi vụ án, khởi tố 3 bị can có hành vi gây rối trật tự công cộng trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:36:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782548+07:00"
+    },
+    {
+      "id": "ffcef845c93400bf48868be3a1f8242c",
+      "title": "Lý Nhã Kỳ tạo dáng bên ngựa tại resort riêng",
+      "link": "https://vnexpress.net/ly-nha-ky-tao-dang-ben-ngua-tai-resort-rieng-5014318.html",
+      "summary": "Diễn viên Lý Nhã Kỳ chụp bộ ảnh thời trang với ngựa - linh vật Bính Ngọ - tại resort 10 ha của gia đình ở Đồng Nai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:34:24+07:00",
+      "fetched": "2026-02-05T21:40:44.166513+07:00"
+    },
+    {
+      "id": "e4e561578a3e6374f7cfd841e38fa93c",
+      "title": "Phim điện ảnh 'Đồi gió hú' được khen hình ảnh",
+      "link": "https://vnexpress.net/phim-dien-anh-doi-gio-hu-duoc-khen-hinh-anh-5014214.html",
+      "summary": "\"Đồi gió hú\" ghi điểm nhờ hình ảnh và sự ăn ý trong diễn xuất giữa Margot Robbie và Jacob Elordi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:25:00+07:00",
+      "fetched": "2026-02-05T21:40:44.166673+07:00"
+    },
+    {
+      "id": "877f275b8af491f41948b9e8e88e0126",
+      "title": "Người dân nước nào tiết kiệm nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-tiet-kiem-nhat-the-gioi-5014482.html",
+      "summary": "Người dân nước này dành hơn 34% thu nhập để tiết kiệm, cao nhất thế giới và gấp 2-3 lần mức trung bình của các quốc gia OECD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:11:45+07:00",
+      "fetched": "2026-02-05T21:40:44.166815+07:00"
+    },
+    {
+      "id": "a49337490b3fb6de7494ccf8dd96048c",
+      "title": "Thiên Long muốn bỏ mảng phát hành và nhà sách, cửa hàng bán lẻ, đồ chơi",
+      "link": "https://vnexpress.net/thien-long-muon-bo-mang-phat-hanh-va-nha-sach-cua-hang-ban-le-do-choi-5014478.html",
+      "summary": "Thiên Long lên kế hoạch giải thể chuỗi cửa hàng bán lẻ và đồ chơi Clever Box, thoái vốn phát hành sách Pega Holdings cùng chuỗi nhà sách Phương Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:11:17+07:00",
+      "fetched": "2026-02-05T21:40:44.166952+07:00"
+    },
+    {
+      "id": "a49337490b3fb6de7494ccf8dd96048c",
+      "title": "Thiên Long muốn bỏ mảng phát hành và nhà sách, cửa hàng bán lẻ, đồ chơi",
+      "link": "https://vnexpress.net/thien-long-muon-bo-mang-phat-hanh-va-nha-sach-cua-hang-ban-le-do-choi-5014478.html",
+      "summary": "Thiên Long lên kế hoạch giải thể chuỗi cửa hàng bán lẻ và đồ chơi Clever Box, thoái vốn phát hành sách Pega Holdings cùng chuỗi nhà sách Phương Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T13:11:17+07:00",
+      "fetched": "2026-02-05T21:40:51.633499+07:00"
+    },
+    {
+      "id": "fc2e7b42471dadb12bb810561c71cce1",
+      "title": "CAS sắp xử vụ nhập tịch, trận Malaysia - Việt Nam có nguy cơ thành trận thủ tục",
+      "link": "https://thanhnien.vn/cas-sap-xu-vu-nhap-tich-tran-malaysia-viet-nam-co-nguy-co-thanh-tran-thu-tuc-185260205200813106.htm",
+      "summary": "Bóng đá Malaysia đang chờ phán quyết từ Tòa án Trọng tài Thể thao quốc tế (CAS) về vụ nhập tịch cầu thủ gây tranh cãi. Phán quyết sắp tới không chỉ quyết định số phận 7 cầu thủ liên quan, mà còn có thể làm thay đổi cục diện vòng loại Asian Cup 2027, thậm chí khiến trận tái đấu với đội tuyển Việt Nam...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:10:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782688+07:00"
+    },
+    {
+      "id": "39e05f48ad81b8c024d68ffb654efdce",
+      "title": "Mở rộng đối tượng xét danh hiệu Doanh nhân trẻ khởi nghiệp xuất sắc 2026",
+      "link": "https://thanhnien.vn/mo-rong-doi-tuong-xet-danh-hieu-doanh-nhan-tre-khoi-nghiep-xuat-sac-2026-185260205192650861.htm",
+      "summary": "Một trong những điểm đổi mới nổi bật của chương trình năm 2026 là việc chính thức bỏ điều kiện doanh nghiệp phải thành lập và hoạt động không quá 10 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:04:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782815+07:00"
+    },
+    {
+      "id": "62db106443e8503fee99fcedcbf7cb31",
+      "title": "Công ty trạm sạc của ông Phạm Nhật Vượng có Chủ tịch mới",
+      "link": "https://vnexpress.net/cong-ty-tram-sac-cua-ong-pham-nhat-vuong-co-chu-tich-moi-5014491.html",
+      "summary": "V-Green, công ty vận hành trạm sạc do ông Phạm Nhật Vượng sáng lập, vừa bổ nhiệm bà Phạm Thanh Thúy làm Chủ tịch kiêm Tổng giám đốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:01:27+07:00",
+      "fetched": "2026-02-05T21:40:44.167086+07:00"
+    },
+    {
+      "id": "62db106443e8503fee99fcedcbf7cb31",
+      "title": "Công ty trạm sạc của ông Phạm Nhật Vượng có Chủ tịch mới",
+      "link": "https://vnexpress.net/cong-ty-tram-sac-cua-ong-pham-nhat-vuong-co-chu-tich-moi-5014491.html",
+      "summary": "V-Green, công ty vận hành trạm sạc do ông Phạm Nhật Vượng sáng lập, vừa bổ nhiệm bà Phạm Thanh Thúy làm Chủ tịch kiêm Tổng giám đốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T13:01:27+07:00",
+      "fetched": "2026-02-05T21:40:51.633652+07:00"
+    },
+    {
+      "id": "7bfa713683a1760eb664dfc5b8893871",
+      "title": "Kho vũ khí hạt nhân hơn 8.000 đầu đạn của Nga - Mỹ",
+      "link": "https://vnexpress.net/kho-vu-khi-hat-nhan-hon-8-000-dau-dan-cua-nga-my-5014397.html",
+      "summary": "Nga đang biên chế 4.309 đầu đạn hạt nhân và 759 bệ phóng, con số này với Mỹ lần lượt là 3.700 và 800.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:40:44.167220+07:00"
+    },
+    {
+      "id": "df72f39d6ffe62f0ef21e0ca269be6e2",
+      "title": "Xem nhanh 20h ngày 5.2: Tạm dừng Nghị định 46 đến giữa tháng 4 | Cầu Rạch Ngang sắp về đích, chợ Thủ Đức giảm ngập?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-52-tam-dung-nghi-dinh-46-den-giua-thang-4-cau-rach-ngang-sap-ve-dich-cho-thu-duc-giam-ngap-185260205195530867.htm",
+      "summary": "'Xem nhanh 20h' ngày 5.2 có nhiều tin tức đáng chú ý về: Chính phủ tạm dừng Nghị định 46 đến hết ngày 15.4; Cầu Rạch Ngang sắp về đích, tháo gỡ 'nút thắt' ngập úng chợ Thủ Đức;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:40:47.782939+07:00"
+    },
+    {
+      "id": "7bfa713683a1760eb664dfc5b8893871",
+      "title": "Kho vũ khí hạt nhân hơn 8.000 đầu đạn của Nga - Mỹ",
+      "link": "https://vnexpress.net/kho-vu-khi-hat-nhan-hon-8-000-dau-dan-cua-nga-my-5014397.html",
+      "summary": "Nga đang biên chế 4.309 đầu đạn hạt nhân và 759 bệ phóng, con số này với Mỹ lần lượt là 3.700 và 800.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T13:00:00+07:00",
+      "fetched": "2026-02-05T21:40:50.410406+07:00"
     },
     {
       "id": "9de04ddf2bb78db8fceffbbf797a904a",
