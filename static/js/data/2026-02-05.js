@@ -1,7 +1,57 @@
 window.newsData_2026_02_05 = {
   "date": "2026-02-05",
-  "lastUpdated": "2026-02-05T13:55:21.076524+07:00",
+  "lastUpdated": "2026-02-05T15:39:59.586731+07:00",
   "articles": [
+    {
+      "id": "d05d2cfb2105ebd0ac587e476d1d171b",
+      "title": "Khi nông sản Việt được kể bằng câu chuyện văn hóa",
+      "link": "https://tuoitre.vn/khi-nong-san-viet-duoc-ke-bang-cau-chuyen-van-hoa-20260205095622252.htm",
+      "summary": "Trong những chuyến đi đến các vùng trồng và thị trường tiêu thụ khác nhau, Lê Ngọc Nguyên dần nhận ra một điều tưởng chừng đơn giản nhưng quyết định trải nghiệm thưởng thức trái cây: cách ăn và khẩu vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T15:39:54.083481+07:00",
+      "fetched": "2026-02-05T15:39:54.083599+07:00"
+    },
+    {
+      "id": "56614e757fe5897746e03b4a4e127708",
+      "title": "Dangrangto trở lại cực tình trước thềm Valentine",
+      "link": "https://tuoitre.vn/dangrangto-tro-lai-cuc-tinh-truoc-them-valentine-20260205100556198.htm",
+      "summary": "MV Thế giới của anh, một ca khúc mang màu sắc tình yêu ngọt ngào với giai điệu ấm áp và ca từ gần gũi, góp thêm sắc thái lãng mạn cho không khí Valentine cận kề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T15:39:54.083352+07:00",
+      "fetched": "2026-02-05T15:39:54.083469+07:00"
+    },
+    {
+      "id": "4679d7e24ca557030ec964d60eb586b8",
+      "title": "TP.HCM bổ nhiệm lãnh đạo các ‘siêu’ ban dự án sau sáp nhập",
+      "link": "https://tuoitre.vn/tp-hcm-bo-nhiem-lanh-dao-cac-sieu-ban-du-an-sau-sap-nhap-20260205122917667.htm",
+      "summary": "Sáng 5-2, Phó chủ tịch UBND TP.HCM Nguyễn Công Vinh chủ trì lễ trao quyết định về công tác cán bộ đối với các ban quản lý dự án trực thuộc UBND thành phố sau khi sắp xếp, kiện toàn tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T15:39:54.083227+07:00",
+      "fetched": "2026-02-05T15:39:54.083338+07:00"
+    },
+    {
+      "id": "ea6fa3a2722c7ff57157c1bfc4b12125",
+      "title": "Sinh viên quốc tế chọn giảng đường Việt Nam - Kỳ 5: Gắn bó Việt Nam bằng những điều tử tế",
+      "link": "https://tuoitre.vn/sinh-vien-quoc-te-chon-giang-duong-viet-nam-ky-5-gan-bo-viet-nam-bang-nhung-dieu-tu-te-20260205113018594.htm",
+      "summary": "Rời quê hương sang Việt Nam học tập, nhiều sinh viên nước ngoài sớm bước vào nhịp sống tự lập qua các việc làm thêm như dạy học hay tham gia hoạt động tình nguyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T15:39:54.083102+07:00",
+      "fetched": "2026-02-05T15:39:54.083216+07:00"
+    },
+    {
+      "id": "fdff2e91889a16bd47a5420118f4fadc",
+      "title": "TP.HCM điều động, bổ nhiệm nhiều hiệu trưởng các trường THPT",
+      "link": "https://tuoitre.vn/tp-hcm-dieu-dong-bo-nhiem-nhieu-hieu-truong-cac-truong-thpt-20260205120426264.htm",
+      "summary": "Sáng 5-2, Sở Giáo dục và Đào tạo TP.HCM đã trao quyết định điều động, bổ nhiệm, bổ nhiệm lại nhiều hiệu trưởng, phó hiệu trưởng các trường THPT trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T15:39:54.082969+07:00",
+      "fetched": "2026-02-05T15:39:54.083091+07:00"
+    },
     {
       "id": "b48f327d9edb58072f8dae4468602d71",
       "title": "Trình HĐND TP.HCM thống nhất để tỉnh Đồng Nai chủ trì làm metro số 1 nối dài tới sân bay Long Thành",
@@ -453,6 +503,386 @@ window.newsData_2026_02_05 = {
       "fetched": "2026-02-05T08:52:28.735524+07:00"
     },
     {
+      "id": "6616bfef0bbf20817761cfabfa5339a4",
+      "title": "Thường trực Ban Bí thư tặng quà tết cho hộ nghèo, gia đình chính sách tại Đà Nẵng",
+      "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-tang-qua-tet-cho-ho-ngheo-gia-dinh-chinh-sach-tai-da-nang-185260205141807627.htm",
+      "summary": "Ủy viên Bộ Chính trị, Thường trực Ban Bí thư Trần Cẩm Tú cùng đoàn công tác Trung ương đã đến thăm, trao quà tết cho hộ nghèo, gia đình chính sách tại thành phố Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:37:00+07:00",
+      "fetched": "2026-02-05T15:39:52.656380+07:00"
+    },
+    {
+      "id": "0cf4e28db6b1f81542562dc7f3a1adce",
+      "title": "Doanh nghiệp vận hành trung tâm dữ liệu của VNG được bán với giá 10 tỉ USD",
+      "link": "https://thanhnien.vn/doanh-nghiep-van-hanh-trung-tam-du-lieu-cua-vng-duoc-ban-voi-gia-10-ti-usd-18526020515195126.htm",
+      "summary": "Ngày 4.2, ST Telemedia đã bán toàn bộ cổ phần cho liên doanh của Mỹ và Singapore. Tại Việt Nam, ST Telemedia đang hợp tác với Công ty VNG để để vận hành trung tâm dữ liệu của doanh nghiệp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:34:00+07:00",
+      "fetched": "2026-02-05T15:39:52.656552+07:00"
+    },
+    {
+      "id": "8cd994cc655674fc001571241ab6bec0",
+      "title": "Techcom Life ứng dụng công nghệ, nâng cao trải nghiệm khách hàng",
+      "link": "https://vnexpress.net/techcom-life-ung-dung-cong-nghe-nang-cao-trai-nghiem-khach-hang-5014441.html",
+      "summary": "Techcom Life phối hợp Techcombank đẩy mạnh ứng dụng công nghệ và dữ liệu lớn trong thiết kế các giải pháp bảo hiểm, hướng tới cá nhân hóa trải nghiệm theo nhu cầu của từng khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:30:00+07:00",
+      "fetched": "2026-02-05T15:39:49.711131+07:00"
+    },
+    {
+      "id": "3afabc3a16e60030f4fb9e4064d7981f",
+      "title": "Học sinh lo ngại 'phông bạt' bằng AI: Ngồi nhà vẫn check-in như thật",
+      "link": "https://thanhnien.vn/hoc-sinh-lo-ngai-phong-bat-bang-ai-ngoi-nha-van-check-in-nhu-that-185260205151147028.htm",
+      "summary": "Chỉ bằng vài cú click chuột, người dùng có thể tạo ảnh check in bằng AI như đang du lịch, xuất hiện ở quán cà phê sang chảnh hoặc địa điểm nổi tiếng. Thế nhưng, việc 'phông bạt' này tiềm ẩn nhiều nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:23:00+07:00",
+      "fetched": "2026-02-05T15:39:52.656710+07:00"
+    },
+    {
+      "id": "4d426713f4cd04cc1a97f3f587c73e0b",
+      "title": "Nghệ sĩ Kim Cương tái xuất",
+      "link": "https://vnexpress.net/nghe-si-kim-cuong-tai-xuat-5014380.html",
+      "summary": "\"Kỳ nữ\" Kim Cương trở lại sân khấu sau nhiều năm, gây xúc động với trích đoạn kịch kinh điển \"Lá sầu riêng\", sáng 5/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:20:38+07:00",
+      "fetched": "2026-02-05T15:39:49.711314+07:00"
+    },
+    {
+      "id": "3d527a068b293dbf88f6d6fb1199e779",
+      "title": "Doanh nghiệp, nhà hảo tâm chung tay chăm lo tết cho người nghèo ở Đồng Tháp",
+      "link": "https://thanhnien.vn/doanh-nghiep-nha-hao-tam-chung-tay-cham-lo-tet-cho-nguoi-ngheo-o-dong-thap-185260205143744925.htm",
+      "summary": "Hơn 1.000 phần quà tết từ các doanh nghiệp, nhà hảo tâm vừa được trao tặng cho các hộ nghèo, cận nghèo và gia đình có hoàn cảnh khó khăn trên địa bàn xã Long Bình, tỉnh Đồng Tháp (xã Long Bình và xã Bình Tân, huyện Gò Công Tây, tỉnh Tiền Giang cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:20:00+07:00",
+      "fetched": "2026-02-05T15:39:52.656863+07:00"
+    },
+    {
+      "id": "cc5da69450712994d8e86e7ecf04f402",
+      "title": "Xác định danh tính hai hài cốt liệt sĩ tìm thấy ở rừng keo xã Đakrông",
+      "link": "https://vnexpress.net/xac-dinh-danh-tinh-hai-hai-cot-liet-si-tim-thay-o-rung-keo-xa-dakrong-5014386.html",
+      "summary": "Sau 55 năm hy sinh, hai trong năm hài cốt liệt sĩ được tìm thấy ở xã Đakrông được cơ quan chức năng đã xác định được danh tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:18:37+07:00",
+      "fetched": "2026-02-05T15:39:49.711482+07:00"
+    },
+    {
+      "id": "9e032c8fafce24bb8623d759964973fb",
+      "title": "Mây âm u cả ngày, thời tiết TP.HCM tháng 2 thế nào?",
+      "link": "https://thanhnien.vn/may-am-u-ca-ngay-thoi-tiet-tphcm-thang-2-the-nao-185260205151038621.htm",
+      "summary": "Vì sao giữa mùa khô nhưng thời tiết TP.HCM lại xuất hiện mây âm u cả ngày? Đài Khí tượng thủy văn Nam bộ dự báo trong những ngày tới TP.HCM sẽ đón một đợt mưa trái mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:17:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657034+07:00"
+    },
+    {
+      "id": "b47c8104194683b1ac75208b7fbd72bd",
+      "title": "Giá xăng dầu tiếp tục tăng từ 15 giờ hôm nay",
+      "link": "https://thanhnien.vn/gia-xang-dau-tiep-tuc-tang-tu-15-gio-hom-nay-18526020515055668.htm",
+      "summary": "Giá xăng dầu tiếp tục tăng từ 15 giờ hôm nay 5.2. Trong đó, giá dầu mazut tăng mạnh nhất với 517 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:17:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657184+07:00"
+    },
+    {
+      "id": "f8509ab8963e8e40cf9f002242ee4060",
+      "title": "Malaysia đóng cửa nhà hàng rửa lại đồ ăn thừa để phục vụ khách mới",
+      "link": "https://thanhnien.vn/malaysia-dong-cua-nha-hang-rua-lai-do-an-thua-de-phuc-vu-khach-moi-18526020512582013.htm",
+      "summary": "Giới hữu trách Malaysia đã đóng cửa một nhà hàng sau khi một đoạn video lan truyền trên mạng xã hội cho thấy nhân viên ở đây rửa thực phẩm thừa để tái sử dụng và bán cho khách mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:17:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657332+07:00"
+    },
+    {
+      "id": "9b059b9effbcb7270719721d71e99b99",
+      "title": "Cháy nhà 3 mẹ con tử vong: Dự định mãi dang dở trước thềm Tết Nguyên đán",
+      "link": "https://thanhnien.vn/chay-nha-3-me-con-tu-vong-du-dinh-mai-dang-do-truoc-them-tet-nguyen-dan-185260205122135687.htm",
+      "summary": "Liên quan vụ cháy nhà tại hẻm 17 Tô Ký (phường Đông Hưng Thuận, TP.HCM), cơ quan chức năng xác định có 3 người trong một gia đình tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:12:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657487+07:00"
+    },
+    {
+      "id": "81ef2556b25cfb42cf180f56c3e6fcd8",
+      "title": "Sản xuất hơn 60.000 lít giấm giả từ axít công nghiệp và nước lã",
+      "link": "https://vnexpress.net/san-xuat-hon-60-000-lit-giam-gia-tu-axit-cong-nghiep-va-nuoc-la-5014433.html",
+      "summary": "Lê Thị Lộc bị cáo buộc sử dụng axit axetic công nghiệp pha loãng với nước lã để sản xuất hơn 60.000 lít giấm giả, tiêu thụ tại các chợ và cửa hàng tạp hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:07:58+07:00",
+      "fetched": "2026-02-05T15:39:49.711642+07:00"
+    },
+    {
+      "id": "efa44efb0bba7ffd27f6191ff65877e0",
+      "title": "Quỹ lớp, quỹ trường: Tự nguyện hay 'tự nguyện bắt buộc'?",
+      "link": "https://thanhnien.vn/quy-lop-quy-truong-tu-nguyen-hay-tu-nguyen-bat-buoc-185260204135751177.htm",
+      "summary": "Năm học 2025-2026, học sinh trường công lập trên cả nước được miễn học phí theo quyết định của Bộ Chính trị ngày 28.2.2025. Dù vậy, đã qua học kỳ 2, nhiều phụ huynh vẫn bức xúc khi phải đóng các khoản quỹ lớp, quỹ trường với mức từ vài trăm ngàn đến hàng triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:06:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657637+07:00"
+    },
+    {
+      "id": "927b859d4b53026e87ac69b1e9975607",
+      "title": "TP HCM có Trung tâm Tài chính Hàng không",
+      "link": "https://vnexpress.net/tp-hcm-co-trung-tam-tai-chinh-hang-khong-5014399.html",
+      "summary": "Trung tâm Tài chính Hàng không châu Á - Thái Bình Dương thuộc Trung tâm tài chính quốc tế tại TP HCM, vừa thành lập, huy động được 6,1 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:04:33+07:00",
+      "fetched": "2026-02-05T15:39:49.711801+07:00"
+    },
+    {
+      "id": "927b859d4b53026e87ac69b1e9975607",
+      "title": "TP HCM có Trung tâm Tài chính Hàng không",
+      "link": "https://vnexpress.net/tp-hcm-co-trung-tam-tai-chinh-hang-khong-5014399.html",
+      "summary": "Trung tâm Tài chính Hàng không châu Á - Thái Bình Dương thuộc Trung tâm tài chính quốc tế tại TP HCM, vừa thành lập, huy động được 6,1 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T08:04:33+07:00",
+      "fetched": "2026-02-05T15:39:56.068164+07:00"
+    },
+    {
+      "id": "d1c37044738af1bd884e86c4a1cfac20",
+      "title": "10 doanh nghiệp nộp hồ sơ thử nghiệm cho vay ngang hàng",
+      "link": "https://thanhnien.vn/10-doanh-nghiep-nop-ho-so-thu-nghiem-cho-vay-ngang-hang-185260205145914471.htm",
+      "summary": "Số lượng doanh nghiệp nộp hồ sơ lên Ngân hàng Nhà nước đăng ký cơ chế thử nghiệm đối với giải pháp cho vay ngang hàng tăng thêm 3 hồ sơ so với đầu tháng 1, lên 10 hồ sơ. Hiện các hồ sơ trong trạng thái đang được Ngân hàng Nhà nước xem xét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:04:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657791+07:00"
+    },
+    {
+      "id": "984bb7221716de86050162291b63bcc9",
+      "title": "Không khí lạnh mạnh đang tràn xuống miền Bắc",
+      "link": "https://vnexpress.net/khong-khi-lanh-manh-dang-tran-xuong-mien-bac-5014414.html",
+      "summary": "Đợt không khí lạnh cường độ mạnh dự báo kéo nhiệt độ miền Bắc xuống thấp nhất dưới 3 độ C, vùng núi cao có thể xuất hiện băng giá, mưa tuyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:01:26+07:00",
+      "fetched": "2026-02-05T15:39:49.711974+07:00"
+    },
+    {
+      "id": "431d4edfdebdbe65c0a330aea7e9d5f1",
+      "title": "Tôi 'không được' nên chẳng có người phụ nữ nào chịu ở bên",
+      "link": "https://vnexpress.net/yeu-sinh-ly-sex-toi-khong-duoc-nen-chang-co-nguoi-phu-nu-nao-chiu-o-ben-5014245.html",
+      "summary": "Cô gái tôi yêu sâu đậm còn nói rằng \"rất khó để một người phụ nữ trong độ tuổi thanh xuân chấp nhận điều này...\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:49.712129+07:00"
+    },
+    {
+      "id": "b1eac69b0b378a4a169363dec59800f7",
+      "title": "5 trải nghiệm 'ngoài sức tưởng tượng' ở Bhutan",
+      "link": "https://vnexpress.net/5-trai-nghiem-ngoai-suc-tuong-tuong-o-bhutan-5014011.html",
+      "summary": "Ngủ qua đêm tại ngôi đền ở độ cao gần 4.000 m, trekking đến nơi an táng trên không, đi xuyên rừng rậm Manas là những trải nghiệm hiếm có tại vương quốc Himalaya.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:49.712285+07:00"
+    },
+    {
+      "id": "a475300a50d80618fa48e276c8f24a6b",
+      "title": "Giới hạn 10 nguyện vọng để loại bỏ 'điểm cao vẫn trượt đại học'",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-2026-gioi-han-10-nguyen-vong-dai-hoc-5014401.html",
+      "summary": "Khi cánh cửa vào đại học hẹp, mỗi nguyện vọng đều mang sức nặng rất lớn, đòi hỏi thí sinh phải chọn lựa kỹ càng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:49.712439+07:00"
+    },
+    {
+      "id": "855081ef2b1f06ef246635fdf3f06f3d",
+      "title": "Vô sinh do nhiều 'trứng lép'",
+      "link": "https://vnexpress.net/vo-sinh-do-nhieu-trung-lep-5014292.html",
+      "summary": "Chị Kiều 39 tuổi, vô sinh hai năm do nhiều nang trứng rỗng, không có noãn, cuối cùng có con nhờ phôi duy nhất thụ tinh trong ống nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:49.712607+07:00"
+    },
+    {
+      "id": "d22e798b44fd418e3413d59546318547",
+      "title": "Doanh nghiệp logistics Ba Lan gia nhập thị trường Mỹ",
+      "link": "https://vnexpress.net/doanh-nghiep-logistics-ba-lan-gia-nhap-thi-truong-my-5012708.html",
+      "summary": "HayWay Logistics đầu tư 80 xe đầu kéo Volvo VNL 860 có cabin ngủ, khởi động kế hoạch mở rộng sang thị trường Bắc Mỹ với trọng tâm vận tải đường dài xuyên bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:49.712764+07:00"
+    },
+    {
+      "id": "a13bb1574f5bea901bec6d4147febbdd",
+      "title": "Coca - Cola Tết Fest 2026: ‘Dệt’ tết mới từ giá trị truyền thống và hiện đại",
+      "link": "https://thanhnien.vn/coca-cola-tet-fest-2026-det-tet-moi-tu-gia-tri-truyen-thong-va-hien-dai-185260205142746337.htm",
+      "summary": "Hiện thực hóa thông điệp 'Bật Hứng Khởi, Dệt Nên Tết Mới' trong chiến dịch tết 2026, sự kiện Coca - Cola Tết Fest được tổ chức như một điểm hẹn trải nghiệm nổi bật, nơi người tham gia không chỉ đến để vui chơi, mà còn góp phần tạo nên những giá trị kết nối mang đậm tinh thần tết Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T08:00:00+07:00",
+      "fetched": "2026-02-05T15:39:52.657971+07:00"
+    },
+    {
+      "id": "5dc62470c26e5472421f91bcb5e28520",
+      "title": "Việt Nam - Lào sẽ sớm hiện thực hóa mục tiêu gắn kết chiến lược",
+      "link": "https://vnexpress.net/viet-nam-lao-se-som-hien-thuc-hoa-muc-tieu-gan-ket-chien-luoc-5014410.html",
+      "summary": "Tổng Bí thư Tô Lâm hội đàm với Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith, nhất trí sớm hiện thực hóa mục tiêu gắn kết chiến lược, đẩy mạnh gắn kết hai nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:59:48+07:00",
+      "fetched": "2026-02-05T15:39:49.712939+07:00"
+    },
+    {
+      "id": "5dc62470c26e5472421f91bcb5e28520",
+      "title": "Việt Nam - Lào sẽ sớm hiện thực hóa mục tiêu gắn kết chiến lược",
+      "link": "https://vnexpress.net/viet-nam-lao-se-som-hien-thuc-hoa-muc-tieu-gan-ket-chien-luoc-5014410.html",
+      "summary": "Tổng Bí thư Tô Lâm hội đàm với Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith, nhất trí sớm hiện thực hóa mục tiêu gắn kết chiến lược, đẩy mạnh gắn kết hai nền kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T07:59:48+07:00",
+      "fetched": "2026-02-05T15:39:55.172382+07:00"
+    },
+    {
+      "id": "ad983f9f6852cc3218b7d6fd0b47764c",
+      "title": "Chiêu trò giả 'khuyết tật' của sinh viên đại học danh tiếng Mỹ",
+      "link": "https://vnexpress.net/chieu-tro-gia-khuyet-tat-cua-sinh-vien-dai-hoc-danh-tieng-my-5014136.html",
+      "summary": "Nhiều sinh viên Stanford, Harvard, Brown... viện lý do \"dễ xao nhãng\", \"bị lo âu\" để được hưởng đặc quyền của người khuyết tật, từ nghỉ học không phép cho tới phòng riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:58:12+07:00",
+      "fetched": "2026-02-05T15:39:49.713097+07:00"
+    },
+    {
+      "id": "64dcfb39e6b22816828cf959da16a65f",
+      "title": "Miền Bắc đón 2 đợt không khí lạnh mạnh cuối tuần, có nơi rét 3 độ C",
+      "link": "https://thanhnien.vn/mien-bac-don-2-dot-khong-khi-lanh-manh-cuoi-tuan-co-noi-ret-3-do-c-185260205142823619.htm",
+      "summary": "Theo dự báo, trong ngày 7.2, miền Bắc đón 2 đợt không khí lạnh khiến trời rét đậm, rét hại, có nơi nhiệt độ xuống 3 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:53:00+07:00",
+      "fetched": "2026-02-05T15:39:52.658123+07:00"
+    },
+    {
+      "id": "1f0f0f3d8a57dd8d30bd5f3a64e28ef8",
+      "title": "Dai-ichi Life Việt Nam và hành trình mang nước uống sạch đến học đường",
+      "link": "https://thanhnien.vn/dai-ichi-life-viet-nam-va-hanh-trinh-mang-nuoc-uong-sach-den-hoc-duong-185260205145244064.htm",
+      "summary": "'Nước sạch học đường', một trong những dự án trọng điểm của Dai-ichi Life Việt Nam hướng đến sự phát triển bền vững và toàn diện cho trẻ em đã và đang đến với các trường học vùng nông thôn trong những năm qua, góp phần bảo vệ và chăm sóc sức khỏe các thế hệ tương lai của đất nước…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:50:00+07:00",
+      "fetched": "2026-02-05T15:39:52.658277+07:00"
+    },
+    {
+      "id": "060f604c9bbc67e912079c570d1feb39",
+      "title": "Đông nghịt người đổ về hội xuân kiểu... 'miệt vườn'",
+      "link": "https://thanhnien.vn/dong-nghit-nguoi-do-ve-hoi-xuan-kieu-miet-vuon-185260205130920244.htm",
+      "summary": "Chương trình 'Sắc xuân miệt vườn' và \"Công viên Sách Xuân\" năm 2026 khai mạc tại Cần Thơ thu hút đông đảo người dân đến tham quan, đặc biệt là các em học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:50:00+07:00",
+      "fetched": "2026-02-05T15:39:52.658428+07:00"
+    },
+    {
+      "id": "95291bb3c2be365ae3e143f7b43999fd",
+      "title": "Hơn 6,1 tỉ đô la Mỹ sẽ được huy động về trung tâm tài chính tại TP.HCM",
+      "link": "https://thanhnien.vn/hon-61-ti-do-la-my-se-duoc-huy-dong-ve-trung-tam-tai-chinh-tai-tphcm-185260205141816561.htm",
+      "summary": "Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCM) và Hãng hàng không Vietjet vừa chính thức công bố Trung tâm Tài chính hàng không châu Á - Thái Bình Dương (Asia-Pacific Aviation Financial Hub - AAFH), một chương trình nằm trong VIFC-HCM, tại Triển lãm Hàng không quốc tế Singapore Airshow 2...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:48:00+07:00",
+      "fetched": "2026-02-05T15:39:52.658583+07:00"
+    },
+    {
+      "id": "b7eefa73bcc06fb96bb5d6afdd418f09",
+      "title": "Alcaraz: 'Tôi còn lâu mới bằng Djokovic, Nadal, Federer'",
+      "link": "https://vnexpress.net/alcaraz-toi-con-lau-moi-bang-djokovic-nadal-federer-5014412.html",
+      "summary": "Nhà vô địch Australia Mở rộng 2026 Carlos Alcaraz cho rằng anh chưa đạt đến đẳng cấp của nhóm \"Big 3\" huyền thoại trong làng quần vợt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:45:54+07:00",
+      "fetched": "2026-02-05T15:39:49.713248+07:00"
+    },
+    {
+      "id": "b7eefa73bcc06fb96bb5d6afdd418f09",
+      "title": "Alcaraz: 'Tôi còn lâu mới bằng Djokovic, Nadal, Federer'",
+      "link": "https://vnexpress.net/alcaraz-toi-con-lau-moi-bang-djokovic-nadal-federer-5014412.html",
+      "summary": "Nhà vô địch Australia Mở rộng 2026 Carlos Alcaraz cho rằng anh chưa đạt đến đẳng cấp của nhóm \"Big 3\" huyền thoại trong làng quần vợt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T07:45:54+07:00",
+      "fetched": "2026-02-05T15:39:59.577374+07:00"
+    },
+    {
+      "id": "e9d31f4c4dcaa88e5495b8bdb1da6270",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-5-2-5014389.html",
+      "summary": "Giá xăng, dầu cùng tăng 40-520 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T07:43:57+07:00",
+      "fetched": "2026-02-05T15:39:49.713403+07:00"
+    },
+    {
+      "id": "e9d31f4c4dcaa88e5495b8bdb1da6270",
+      "title": "Giá xăng, dầu cùng tăng",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-5-2-5014389.html",
+      "summary": "Giá xăng, dầu cùng tăng 40-520 đồng một lít, kg từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T07:43:57+07:00",
+      "fetched": "2026-02-05T15:39:56.066821+07:00"
+    },
+    {
+      "id": "e16da62bbaeb3bf57391a613e11f7adb",
+      "title": "Haaland và Salah đóng thuế nhiều nhất Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-va-salah-dong-thue-nhieu-nhat-ngoai-hang-anh-5014424.html",
+      "summary": "Erling Haaland và Mohamed Salah hiện dẫn đầu danh sách đóng thuế cho ngân khố Anh năm 2025, với tổng cộng gần 43 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T07:41:04+07:00",
+      "fetched": "2026-02-05T15:39:59.578053+07:00"
+    },
+    {
+      "id": "e459218c39f51b98d4e1a02919a8b853",
+      "title": "Giá vàng quay đầu giảm hơn 4 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay5-2-5014415.html",
+      "summary": "Mỗi lượng vàng miếng và nhẫn trơn giảm từ 3 đến 4,5 triệu một lượng, về dưới vùng 177 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T07:40:05+07:00",
+      "fetched": "2026-02-05T15:39:56.067014+07:00"
+    },
+    {
+      "id": "6b54d1bd2a28eeceadf4490afb444e65",
+      "title": "Đốt cháy tuổi thơ trong lò luyện thi Hàn Quốc",
+      "link": "https://vnexpress.net/dot-chay-tuoi-tho-trong-lo-luyen-thi-han-quoc-5014036.html",
+      "summary": "Ở Hàn Quốc, tuổi thơ của nhiều đứa trẻ không trôi qua trên sân chơi mà trong trung tâm học thêm, nơi áp lực thành tích bắt đầu từ lứa tuổi mẫu giáo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T07:22:17+07:00",
+      "fetched": "2026-02-05T15:39:55.172564+07:00"
+    },
+    {
+      "id": "188da748fabfcf8bc99212067f05d7c3",
+      "title": "Argentina yêu cầu Mỹ 'dẫn độ ông Maduro'",
+      "link": "https://vnexpress.net/argentina-yeu-cau-my-dan-do-ong-maduro-5014325.html",
+      "summary": "Thẩm phán Argentina ký lệnh yêu cầu Mỹ dẫn độ Tổng thống Venezuela Nicolas Maduro tới nước này để điều tra cáo buộc \"tội ác chống lại loài người\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T07:04:01+07:00",
+      "fetched": "2026-02-05T15:39:55.172729+07:00"
+    },
+    {
       "id": "268cf17d88a9c3bcfc2ce3345c229db1",
       "title": "Đề xuất tạm ngưng hiệu lực Nghị định 46 đến hết ngày 15.4",
       "link": "https://thanhnien.vn/de-xuat-tam-ngung-hieu-luc-nghi-dinh-46-den-het-ngay-154-185260205132106927.htm",
@@ -461,6 +891,16 @@ window.newsData_2026_02_05 = {
       "category": "Tổng hợp",
       "published": "2026-02-05T06:44:00+07:00",
       "fetched": "2026-02-05T13:55:11.748253+07:00"
+    },
+    {
+      "id": "ef0ba2292d0b48ab95f71c48e4785bda",
+      "title": "Lùi thực hiện Nghị định 46 về an toàn thực phẩm đến 15/4",
+      "link": "https://vnexpress.net/lui-thuc-hien-nghi-dinh-46-ve-an-toan-thuc-pham-den-15-4-5014382.html",
+      "summary": "Nghị định 46 về an toàn thực phẩm được lùi thời gian thực hiện, sau gần 10 ngày được ban hành, theo Nghị quyết của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-05T06:42:46+07:00",
+      "fetched": "2026-02-05T15:39:56.067196+07:00"
     },
     {
       "id": "ced98187943916c37a72f0214e770859",
