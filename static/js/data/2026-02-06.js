@@ -1,6 +1,6 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T03:30:35.453030+07:00",
+  "lastUpdated": "2026-02-06T05:24:07.231212+07:00",
   "articles": [
     {
       "id": "d397beeee1a3b6802b7abb6a6b6ae12e",
@@ -151,6 +151,136 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T01:43:35.763698+07:00",
       "fetched": "2026-02-06T01:43:35.763939+07:00"
+    },
+    {
+      "id": "8ee874d73bb484206aab1f2978aceab8",
+      "title": "Giao thừa trên… quốc lộ",
+      "link": "https://thanhnien.vn/giao-thua-tren-quoc-lo-185260205185649058.htm",
+      "summary": "Khi nhiều gia đình đã gói ghém hành lý, háo hức chờ ngày về quê ăn tết, vẫn có những người miệt mài với công việc đến tận ngày cuối năm. Với họ, 'về nhà trước tết' đôi khi chỉ bắt đầu sau ca trực cuối, chuyến xe cuối hay phiên chợ cuối cùng của năm…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:21:00+07:00",
+      "fetched": "2026-02-06T05:23:57.742325+07:00"
+    },
+    {
+      "id": "6888a21c9830e09cc61d56a20c924b3a",
+      "title": "Cao tốc sắp thông xe, nhiều hộ dân chưa có lối đi",
+      "link": "https://thanhnien.vn/cao-toc-sap-thong-xe-nhieu-ho-dan-chua-co-loi-di-185260205230309256.htm",
+      "summary": "Dự án thành phần 2 cao tốc Biên Hòa - Vũng Tàu dài 18,2 km được đề xuất thông xe tạm trước Tết Nguyên đán 2026 làm rất nhiều người vui mừng. Thế nhưng, một số hộ dân đang thấp thỏm, lo lắng vì nguy cơ không còn đường đi khi cao tốc thông xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:19:00+07:00",
+      "fetched": "2026-02-06T05:23:57.742496+07:00"
+    },
+    {
+      "id": "c7fe63825a59f520e0e2f210d0760d4b",
+      "title": "Tử vi ngày 6 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-6-thang-2-con-giap-nao-may-man-hom-nay-185260206032753568.htm",
+      "summary": "Tử vi ngày 6 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:15:00+07:00",
+      "fetched": "2026-02-06T05:23:57.742653+07:00"
+    },
+    {
+      "id": "53339164322b05d472d51dbd449260a6",
+      "title": "Thẩm mỹ 'chui' bủa vây: Xâm phạm trực tiếp sức khỏe người dân",
+      "link": "https://thanhnien.vn/tham-my-chui-bua-vay-xam-pham-truc-tiep-suc-khoe-nguoi-dan-185260205200122389.htm",
+      "summary": "Tình trạng người tay ngang dạy phẫu thuật thẩm mỹ, người không có chuyên môn vẫn thực hiện các thủ thuật xâm lấn cần bị xử lý hình sự để đủ sức răn đe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:04:00+07:00",
+      "fetched": "2026-02-06T05:23:57.742804+07:00"
+    },
+    {
+      "id": "d7c83749e613d9175819a9c54765ff39",
+      "title": "Điếu thuốc lá đắt giá nhất đời!",
+      "link": "https://thanhnien.vn/dieu-thuoc-la-dat-gia-nhat-doi-185260205183323464.htm",
+      "summary": "Chỉ vì một điếu thuốc lá, chuyến xe công nghệ bình thường ở TP.Đà Nẵng biến thành vụ việc gây bức xúc dư luận, để rồi người hút thuốc phải đối diện với cơ quan công an. Cái giá không hề rẻ cho thói quen hút thuốc không đúng chỗ và hành vi côn đồ…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:04:00+07:00",
+      "fetched": "2026-02-06T05:23:57.742955+07:00"
+    },
+    {
+      "id": "73d8c14daebfd181ca07910626a5480d",
+      "title": "Quân khu 5: Những thước phim giữa dòng lũ đã khắc họa trọn vẹn tình quân dân",
+      "link": "https://thanhnien.vn/quan-khu-5-nhung-thuoc-phim-giua-dong-lu-da-khac-hoa-tron-ven-tinh-quan-dan-185260205204011239.htm",
+      "summary": "Giữa những đợt bão lũ dồn dập cuối năm 2025, hình ảnh bộ đội Quân khu 5 sát cánh cùng nhân dân và phóng viên báo chí bám trụ nơi tuyến đầu đã để lại dấu ấn sâu đậm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:23:57.743130+07:00"
+    },
+    {
+      "id": "e4b38880158cf5d404c76ebbc5214b67",
+      "title": "Mang xuân đến các DK1: Hậu phương của lính nhà giàn",
+      "link": "https://thanhnien.vn/mang-xuan-den-cac-dk1-hau-phuong-cua-linh-nha-gian-18526020517374133.htm",
+      "summary": "Vượt qua nỗi lòng riêng, những hậu phương của lính nhà giàn DK1 vẫn luôn là điểm tựa tinh thần vững chãi tiếp thêm động lực giúp các chiến sĩ hải quân vững tay súng, bảo vệ chủ quyền biển đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:23:57.743286+07:00"
+    },
+    {
+      "id": "05538dccec4958b9594e130b8075bf1a",
+      "title": "Chiến sự Ukraine ngày 1.443: Ukraine dùng tên lửa tầm xa tấn công đất Nga?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1443-ukraine-dung-ten-lua-tam-xa-tan-cong-dat-nga-185260205172837685.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố hệ thống phòng không nước này đã bắn hạ 95 UAV do Ukraine phóng vào 4 tỉnh của Nga, bán đảo Crimea và trên biển Azov trong một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:23:57.743438+07:00"
+    },
+    {
+      "id": "a09ef6b1c05390ea75bb7f0f1fe7565a",
+      "title": "New START - 'rào chắn hạt nhân' cuối cùng của Mỹ - Nga",
+      "link": "https://vnexpress.net/new-start-rao-chan-hat-nhan-cuoi-cung-cua-my-nga-5014332.html",
+      "summary": "Sự kết thúc của New START đánh dấu việc Mỹ - Nga không còn bất cứ ràng buộc hạt nhân nào, làm dấy lên lo ngại về khoảng trống kiểm soát vũ khí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:24:00.395474+07:00"
+    },
+    {
+      "id": "557b21297e1b725d3196cc85a30ed932",
+      "title": "7 cầu thủ nhập tịch có thể bị tước hộ chiếu Malaysia",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-co-the-bi-tuoc-ho-chieu-malaysia-5014510.html",
+      "summary": "7 cầu thủ nhập tịch của Malaysia đang đối mặt nguy cơ mất quốc tịch, khi phán quyết cuối cùng của CAS dự kiến được đưa ra cuối tháng này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T22:00:00+07:00",
+      "fetched": "2026-02-06T05:24:07.226098+07:00"
+    },
+    {
+      "id": "ad2263aa0f3d82eb65f54e830e59a45c",
+      "title": "Bắn súng Việt Nam tìm đối tác ăn ý với Trịnh Thu Vinh",
+      "link": "https://thanhnien.vn/ban-sung-viet-nam-tim-doi-tac-an-y-voi-trinh-thu-vinh-185260205210232504.htm",
+      "summary": "Đội tuyển bắn súng VN nỗ lực tranh tài ở giải vô địch súng ngắn, súng trường châu Á tại Ấn Độ, trong đó tăng cường thử nghiệm ở nội dung hỗn hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T21:58:00+07:00",
+      "fetched": "2026-02-06T05:23:57.743583+07:00"
+    },
+    {
+      "id": "cd4f69b37075840f0b7421890d1c2dae",
+      "title": "Benzema lập hat-trick trong trận ra mắt Al Hilal",
+      "link": "https://vnexpress.net/benzema-lap-hat-trick-trong-tran-ra-mat-al-hilal-5014521.html",
+      "summary": "Tiền đạo Karim Benzema góp ba bàn và một kiến tạo, giúp Al Hilal đè bẹp chủ nhà Al Akhdoud 6-0 ở vòng 21 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-05T20:39:25+07:00",
+      "fetched": "2026-02-06T05:23:54.475309+07:00"
+    },
+    {
+      "id": "cd4f69b37075840f0b7421890d1c2dae",
+      "title": "Benzema lập hat-trick trong trận ra mắt Al Hilal",
+      "link": "https://vnexpress.net/benzema-lap-hat-trick-trong-tran-ra-mat-al-hilal-5014521.html",
+      "summary": "Tiền đạo Karim Benzema góp ba bàn và một kiến tạo, giúp Al Hilal đè bẹp chủ nhà Al Akhdoud 6-0 ở vòng 21 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-05T20:39:25+07:00",
+      "fetched": "2026-02-06T05:24:07.226274+07:00"
     },
     {
       "id": "a1e4a80f931593075cd2981a2715e5bd",
