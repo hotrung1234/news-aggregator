@@ -1,6 +1,6 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T01:44:53.572585+07:00",
+  "lastUpdated": "2026-02-07T03:30:15.828379+07:00",
   "articles": [
     {
       "id": "827cac484d3048ec1fd9b91dd95081dd",
@@ -151,6 +151,46 @@ window.newsData_2026_02_07 = {
       "category": "Tổng hợp",
       "published": "2026-02-07T01:44:46.716685+07:00",
       "fetched": "2026-02-07T01:44:46.716895+07:00"
+    },
+    {
+      "id": "e268d6b83721aad563cf77cd11558299",
+      "title": "Canada phát hiện nhóm cảnh sát tiếp tay băng đảng ám sát đồng nghiệp",
+      "link": "https://vnexpress.net/canada-phat-hien-nhom-canh-sat-tiep-tay-bang-dang-am-sat-dong-nghiep-5015160.html",
+      "summary": "Ít nhất 8 cảnh sát Toronto, đương chức và đã nghỉ hưu, bị bắt với cáo buộc tiếp tay cho băng đảng lên kế hoạch sát hại một sĩ quan quản giáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T20:00:00+07:00",
+      "fetched": "2026-02-07T03:30:04.761146+07:00"
+    },
+    {
+      "id": "e2a00c27cdee3c619001db6a41cd0be0",
+      "title": "Bệnh tim mạch giết chết 200.000 người Việt mỗi năm",
+      "link": "https://vnexpress.net/benh-tim-mach-giet-chet-200-000-nguoi-viet-moi-nam-5015151.html",
+      "summary": "Tử vong do tim mạch vẫn giữ vị trí số một toàn cầu, cao hơn cả ung thư, riêng Việt Nam mỗi năm có khoảng 200.000 người chết vì nguyên nhân này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T19:04:00+07:00",
+      "fetched": "2026-02-07T03:30:04.761321+07:00"
+    },
+    {
+      "id": "0fd8f930a33fe0a6a86782f8ef3d0b28",
+      "title": "Hôm nay quán triệt Nghị quyết Đại hội Đảng XIV",
+      "link": "https://vnexpress.net/hom-nay-quan-triet-nghi-quyet-dai-hoi-dang-xiv-5015247.html",
+      "summary": "Ngày 7/2, Bộ Chính trị, Ban Bí thư tổ chức hội nghị toàn quốc nghiên cứu, học tập, quán triệt và triển khai thực hiện Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T19:00:00+07:00",
+      "fetched": "2026-02-07T03:30:04.761507+07:00"
+    },
+    {
+      "id": "a0d2674d89f34fc7a6995bdd6ed71970",
+      "title": "Sân bay Nội Bài, Tân Sơn Nhật dự báo đón lượng khách kỷ lục",
+      "link": "https://vnexpress.net/san-bay-noi-bai-tan-son-nhat-du-bao-don-luong-khach-ky-luc-5015249.html",
+      "summary": "Trong các ngày cao điểm Tết Bính Ngọ, hai sân bay lớn nhất cả nước là Nội Bài và Tân Sơn Nhất được dự báo sẽ thiết lập những mốc khai thác mới, với số chuyến bay và lượng hành khách tăng mạnh so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T18:00:00+07:00",
+      "fetched": "2026-02-07T03:30:04.761671+07:00"
     },
     {
       "id": "cf557c574155cb7e0c72fe007050cd86",
