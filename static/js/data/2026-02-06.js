@@ -1,6 +1,6 @@
 window.newsData_2026_02_06 = {
   "date": "2026-02-06",
-  "lastUpdated": "2026-02-06T19:53:54.518569+07:00",
+  "lastUpdated": "2026-02-06T21:37:56.354016+07:00",
   "articles": [
     {
       "id": "1c0ad5059ad705fc2bf28ca99988c82d",
@@ -313,6 +313,66 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T15:37:53.922187+07:00"
     },
     {
+      "id": "9f01a82a90102e2e5f635744508fd34d",
+      "title": "Nhận hối lộ 1,2 tỉ đồng, cựu Cục trưởng Chi cục Thú y vùng 6 lãnh án 7 năm tù",
+      "link": "https://thanhnien.vn/nhan-hoi-lo-12-ti-dong-cuu-cuc-truong-chi-cuc-thu-y-vung-6-lanh-an-18526020619524673.htm",
+      "summary": "Sau thời gian nghị án, HĐXX TAND TP.HCM tuyên phạt bị cáo Bạch Đức Lữu (cựu Chi cục trưởng Chi cục Thú y vùng 6) mức án 7 năm tù vì nhận hối lộ, tạo điều kiện cho doanh nghiệp nhập lậu vào Việt Nam hàng trăm lô hàng trị giá hơn 1.800 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:34:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168039+07:00"
+    },
+    {
+      "id": "d474912e8168987c0d0ec7fe8cff96d1",
+      "title": "Có gì trong chương trình 'Sóng 26' đón giao thừa do Trấn Thành dẫn dắt?",
+      "link": "https://thanhnien.vn/co-gi-trong-chuong-trinh-song-26-don-giao-thua-do-tran-thanh-dan-dat-185260206203528056.htm",
+      "summary": "Ban tổ chức Sóng 26 - Tơ tưởng với thời gian, đồng hành cùng khán giả trong đêm giao thừa tết 2026 chính thức công bố bộ tứ cầm trịch gồm Trấn Thành trong vai trò người dẫn dắt chính, cùng ba người hỗ trợ là Ngô Kiến Huy, buitruonglinh và Mỹ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:25:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168272+07:00"
+    },
+    {
+      "id": "6e3c036cd6cb9ceb77076d98711f99ea",
+      "title": "Hành trình lẩn trốn của hai nghi phạm cướp ngân hàng ở Gia Lai",
+      "link": "https://vnexpress.net/hanh-trinh-lan-tron-cua-hai-nghi-pham-cuop-ngan-hang-o-gia-lai-5015200.html",
+      "summary": "Sau khi cướp phòng giao dịch Vietcombank, Phạm Anh Tài và Lê Văn Ân liên tục lẩn trốn, di chuyển qua nhiều địa phương nhằm tránh sự truy xét của công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:01:39+07:00",
+      "fetched": "2026-02-06T21:37:47.262878+07:00"
+    },
+    {
+      "id": "36f9b4280cfbcebd49bb58bb7536be42",
+      "title": "Áo sheer phối ngoài áo hai dây, tôn nét quyến rũ đầy kín đáo",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-sheer-phoi-ngoai-ao-hai-day-ton-net-quyen-ru-day-kin-dao-185260205113901981.htm",
+      "summary": "Giữa vô vàn xu hướng thay đổi liên tục, áo sheer mỏng nổi lên như một lựa chọn mang tính cân bằng. Là sự kết hợp hoàn hảo với áo hai dây để tạo vẻ ngoài vừa đủ quyến rũ nhưng vẫn tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T14:00:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168476+07:00"
+    },
+    {
+      "id": "3a82649496ad46b90c1e802edfc5a589",
+      "title": "Saigontourist Group tìm đường bứt phá để giữ vai trò dẫn dắt du lịch",
+      "link": "https://thanhnien.vn/saigontourist-group-tim-duong-but-pha-de-giu-vai-tro-dan-dat-du-lich-185260206181256588.htm",
+      "summary": "Hơn 100 chuyên gia, nhà khoa học và lãnh đạo Saigontourist Group cùng bàn chiến lược phát triển đến năm 2035, hướng tới chuyển đổi toàn diện và vai trò dẫn dắt du lịch Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:53:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168634+07:00"
+    },
+    {
+      "id": "17eeb48e6a99efbac2128c0ab410541c",
+      "title": "Khởi tố nhóm thanh niên nhậu say rồi đuổi đánh người đi đường, cướp tài sản",
+      "link": "https://thanhnien.vn/khoi-to-nhom-thanh-nien-nhau-say-roi-duoi-danh-nguoi-di-duong-cuop-tai-san-185260206205811206.htm",
+      "summary": "Nhóm thanh niên tụ tập ăn nhậu rồi truy đuổi, đánh dã man người đi đường và cướp tài sản. Vụ việc gây phẫn nộ trong dư luận khi clip lan truyền trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:52:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168785+07:00"
+    },
+    {
       "id": "f2afaed62df1fd6f2689aa0eaf422c12",
       "title": "Đội ngũ y tế: Người bảo vệ sự nghiệp các cầu thủ",
       "link": "https://tuoitre.vn/doi-ngu-y-te-nguoi-bao-ve-su-nghiep-cac-cau-thu-20260206101032252.htm",
@@ -463,6 +523,246 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T13:51:13.479772+07:00"
     },
     {
+      "id": "293cdd0afa4a79b2fb673e23979b9ae0",
+      "title": "18 ngày truy lùng nhóm cướp ngân hàng ở Gia Lai của hàng trăm cảnh sát",
+      "link": "https://vnexpress.net/18-ngay-truy-lung-nhom-cuop-ngan-hang-o-gia-lai-cua-hang-tram-canh-sat-5015215.html",
+      "summary": "Suốt 18 ngày đêm sau vụ cướp chi nhánh Vietcombank, hàng trăm cán bộ, chiến sĩ Công an Gia Lai, Bộ Công an... đã liên tục rà soát, lần theo từng dấu vết nhỏ nhất để lần ra nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:48:29+07:00",
+      "fetched": "2026-02-06T21:37:47.263054+07:00"
+    },
+    {
+      "id": "7cede99a682299b271a3a0bddfea7e9b",
+      "title": "Mỹ cáo buộc Trung Quốc lén thử hạt nhân",
+      "link": "https://thanhnien.vn/my-cao-buoc-trung-quoc-len-thu-hat-nhan-185260206203158192.htm",
+      "summary": "Mỹ cáo buộc Trung Quốc từng bí mật thử hạt nhân vào năm 2020 và kêu gọi Bắc Kinh tham gia hiệp ước kiểm soát hạt nhân mới với Washington và Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:43:00+07:00",
+      "fetched": "2026-02-06T21:37:50.168935+07:00"
+    },
+    {
+      "id": "2bfd2e11df9684bfcf8689c2baaeec80",
+      "title": "Đà Nẵng triệt phá đường dây sản xuất cà phê giả, tuồn ra thị trường 1 tấn/ngày",
+      "link": "https://thanhnien.vn/da-nang-triet-pha-duong-day-san-xuat-ca-phe-gia-tuon-ra-thi-truong-1-tan-ngay-185260206202953826.htm",
+      "summary": "Từ nguồn cà phê bột có giá bán rẻ bất thường trên thị trường, Công an TP.Đà Nẵng xác lập chuyên án, triệt phá cơ sở sản xuất cà phê bột giả với quy mô gần 1 tấn mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:39:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169085+07:00"
+    },
+    {
+      "id": "eb4f8915496b38777fc495fc1df7adc5",
+      "title": "Nga cáo buộc Ukraine đứng sau vụ bắn tướng tình báo ở Moskva",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-dung-sau-vu-ban-tuong-tinh-bao-o-moskva-5015228.html",
+      "summary": "Ngoại trưởng Nga Lavrov cho rằng Ukraine đứng sau vụ bắn tướng Alekseyev nhằm phá hoại các cuộc đàm phán hòa bình giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:37:52+07:00",
+      "fetched": "2026-02-06T21:37:47.263248+07:00"
+    },
+    {
+      "id": "eb4f8915496b38777fc495fc1df7adc5",
+      "title": "Nga cáo buộc Ukraine đứng sau vụ bắn tướng tình báo ở Moskva",
+      "link": "https://vnexpress.net/nga-cao-buoc-ukraine-dung-sau-vu-ban-tuong-tinh-bao-o-moskva-5015228.html",
+      "summary": "Ngoại trưởng Nga Lavrov cho rằng Ukraine đứng sau vụ bắn tướng Alekseyev nhằm phá hoại các cuộc đàm phán hòa bình giữa hai nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-06T13:37:52+07:00",
+      "fetched": "2026-02-06T21:37:51.991176+07:00"
+    },
+    {
+      "id": "e926f95bd7720470cf3113c781f6bf26",
+      "title": "Cháy lớn ở xưởng mây tre rộng hàng nghìn m2 ngoại thành Hà Nội",
+      "link": "https://vnexpress.net/chay-lon-o-xuong-may-tre-rong-hang-nghin-m2-ngoai-thanh-ha-noi-5015238.html",
+      "summary": "Hỏa hoạn bùng phát tối 6/2 tại xưởng mây tre giang đan ở xã Phú Nghĩa, thiêu rụi nhà xưởng nghìn m2, lực lượng chữa cháy huy động xe khống chế đám cháy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:36:17+07:00",
+      "fetched": "2026-02-06T21:37:47.263413+07:00"
+    },
+    {
+      "id": "8d75cf336cf11d0f3552bd0bf27e7ee5",
+      "title": "Bước vào Dinh Độc Lập, chạm văn hóa Việt bằng mọi giác quan",
+      "link": "https://thanhnien.vn/buoc-vao-dinh-doc-lap-cham-van-hoa-viet-bang-moi-giac-quan-185260206191331912.htm",
+      "summary": "Tại Dinh Độc Lập, lần đầu tiên VietCharm mang đến hành trình chạm văn hóa Việt bằng xem - nghe - nếm - chạm, biến di sản thành trải nghiệm sống động, gần gũi và đáng nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:35:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169265+07:00"
+    },
+    {
+      "id": "ad2761452b87ede7bb72e59aec62c5ef",
+      "title": "Việt Nam - Lào - Campuchia tiếp tục tăng cường đoàn kết",
+      "link": "https://thanhnien.vn/viet-nam-lao-campuchia-tiep-tuc-tang-cuong-doan-ket-185260206192454161.htm",
+      "summary": "Ngày 6.2, Tổng Bí thư Tô Lâm cùng Chủ tịch CPP Hun Sen và Tổng Bí thư Đảng Nhân dân Cách mạng Lào Thongloun Sisoulith đã đồng chủ trì cuộc gặp giữa người đứng đầu 3 đảng (Việt Nam - Campuchia - Lào). Cùng dự cuộc gặp có Thủ tướng 3 nước, Chủ tịch Quốc hội Việt Nam và Chủ tịch Quốc hội Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:34:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169421+07:00"
+    },
+    {
+      "id": "948478554c4d55eb878c55b15ed384d4",
+      "title": "Một ngân hàng quốc doanh tăng mạnh lãi suất tiết kiệm lên 6%",
+      "link": "https://vnexpress.net/mot-ngan-hang-quoc-doanh-tang-manh-lai-suat-tiet-kiem-len-6-5015229.html",
+      "summary": "Lãi suất tiết kiệm tại ngân hàng 100% vốn nhà nước Agribank vừa tăng 0,7 điểm % lên 6% - mức cao nhất hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:19:56+07:00",
+      "fetched": "2026-02-06T21:37:47.263576+07:00"
+    },
+    {
+      "id": "948478554c4d55eb878c55b15ed384d4",
+      "title": "Một ngân hàng quốc doanh tăng mạnh lãi suất tiết kiệm lên 6%",
+      "link": "https://vnexpress.net/mot-ngan-hang-quoc-doanh-tang-manh-lai-suat-tiet-kiem-len-6-5015229.html",
+      "summary": "Lãi suất tiết kiệm tại ngân hàng 100% vốn nhà nước Agribank vừa tăng 0,7 điểm % lên 6% - mức cao nhất hai năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-06T13:19:56+07:00",
+      "fetched": "2026-02-06T21:37:53.071285+07:00"
+    },
+    {
+      "id": "d1547fd00ba2b0c2b11fbd1d92162022",
+      "title": "Vụ đánh người tử vong sau va chạm giao thông: Điều tra về hành vi giết người",
+      "link": "https://thanhnien.vn/vu-danh-nguoi-tu-vong-sau-va-cham-giao-thong-dieu-tra-ve-hanh-vi-giet-nguoi-185260206193843072.htm",
+      "summary": "Công an tỉnh Tây Ninh đã khởi tố bị can, bắt tạm giam Mai Anh Nhật để điều tra về hành vi giết người, sau vụ hành hung tài xế ô tô dẫn đến tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:18:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169584+07:00"
+    },
+    {
+      "id": "d5625e139f6759dc62fc2be78bc73410",
+      "title": "Kỹ sư điện hụt hẫng khi bị mẹ đơn thân từ chối hẹn hò",
+      "link": "https://thanhnien.vn/ky-su-dien-hut-hang-khi-bi-me-don-than-tu-choi-hen-ho-185260206193042123.htm",
+      "summary": "Nam kỹ sư điện U.40 tham gia 'Bạn muốn hẹn hò' với mong muốn tìm người bạn đời phù hợp, được ghép đôi cùng cô giáo mầm non là mẹ đơn thân. Dù thể hiện sự chân thành, anh vẫn không thể khiến đàng gái rung động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:03:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169734+07:00"
+    },
+    {
+      "id": "6b0e273822a144c70bc5486eff6bb419",
+      "title": "Uống rượu bia buổi tối, bao lâu nồng độ cồn về 0?",
+      "link": "https://vnexpress.net/uong-ruou-bia-buoi-toi-bao-lau-nong-do-con-ve-0-5015174.html",
+      "summary": "Tôi 75 kg, 10h tối qua vừa liên hoan, uống nhiều rượu và bia, vậy sau bao lâu cơ thể sẽ thải hết cồn để lái xe? (Hoàng, 40 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.263733+07:00"
+    },
+    {
+      "id": "3d7b7518ab5613c425f8b71570e21a47",
+      "title": "Tranh vẽ bàn chân trị giá 27 triệu USD",
+      "link": "https://vnexpress.net/tranh-ve-ban-chan-tri-gia-27-trieu-usd-5014636.html",
+      "summary": "Bản vẽ bàn chân bằng phấn đỏ của danh họa thời Phục Hưng Michelangelo có giá 27,2 triệu USD (700 tỷ đồng), lập kỷ lục tranh đắt nhất của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.263886+07:00"
+    },
+    {
+      "id": "85bc00925ad33884d707788bd08138ea",
+      "title": "Hơn 100 nghệ sĩ dự đêm hội cuối năm DatVietVAC",
+      "link": "https://vnexpress.net/hon-100-nghe-si-du-dem-hoi-cuoi-nam-datvietvac-5015232.html",
+      "summary": "\"DatVietVAC Year End Party 2025: The Normalist\" (Chủ nghĩa bình thường)\" tối 4/2 trở thành điểm hẹn của âm nhạc, cảm xúc và hàng trăm nghệ sĩ, trong đó Quang Dũng, Hoàng Hải, Hieuthuhai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.264039+07:00"
+    },
+    {
+      "id": "8b945f2b6cbe020029396e9a1d186f92",
+      "title": "Viettel Money thúc đẩy thói quen thanh toán số dịch vụ công",
+      "link": "https://vnexpress.net/viettel-money-thuc-day-thoi-quen-thanh-toan-so-dich-vu-cong-5015221.html",
+      "summary": "Viettel Money kết nối Cổng dịch vụ công Quốc gia, iHanoi và VNeID, hỗ trợ thanh toán phí, lệ phí... góp phần hoàn thiện trải nghiệm dịch vụ công trực tuyến cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.264208+07:00"
+    },
+    {
+      "id": "e67b4305035440b096747499bae7e1bc",
+      "title": "Tuyệt chiêu giúp vợ hào hứng, hết sợ \"trả bài\"",
+      "link": "https://vnexpress.net/tuyet-chieu-giup-vo-hao-hung-het-so-tra-bai-5015212.html",
+      "summary": "Đừng mãi hụt hẫng khi đối phương làm cho xong chuyện, quý ông hãy thử 'mở khóa' ham muốn của nàng bằng sự quan tâm từ... buổi chiều, thay vì chỉ dồn lực vào kỹ thuật trên giường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.264383+07:00"
+    },
+    {
+      "id": "470928dc8324c04c02fd4d1ffc60d711",
+      "title": "Thiết bị điện tử ảnh hưởng đến tinh thần trẻ em thế nào",
+      "link": "https://vnexpress.net/thiet-bi-dien-tu-anh-huong-den-tinh-than-tre-em-the-nao-5015109.html",
+      "summary": "Trẻ dành nhiều giờ trước xem thiết bị điện tử ảnh hưởng tiêu cực đến sức khỏe tinh thần, gây thiếu ngủ, căng thẳng, tăng nguy cơ rối loạn tâm lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.264535+07:00"
+    },
+    {
+      "id": "77aee0fc9ac3d1c5749506096ad51136",
+      "title": "Nhóm nghiên cứu BK Auto: Xe điện bền, ổn định hơn xe xăng",
+      "link": "https://vnexpress.net/nhom-nghien-cuu-bk-auto-xe-dien-ben-on-dinh-hon-xe-xang-5014716.html",
+      "summary": "BK Auto công bố nghiên cứu so sánh độ bền giữa ôtô điện và ôtô động cơ đốt trong, tại Hội nghị quốc tế về Công nghệ chế tạo, sản xuất 2026, ngày 2-5/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:47.264694+07:00"
+    },
+    {
+      "id": "257339cdc639ff3d3e611368e2efe439",
+      "title": "Viettel Money: Cách một nền tảng tài chính số đi vào đời sống của người Việt",
+      "link": "https://thanhnien.vn/viettel-money-cach-mot-nen-tang-tai-chinh-so-di-vao-doi-song-cua-nguoi-viet-185260206190408112.htm",
+      "summary": "Năm 2025 đánh dấu giai đoạn chuyển biến tích cực của các nền tảng tài chính số tại Việt Nam. Không chỉ dừng lại ở vai trò trung gian thanh toán hay công cụ giao dịch tiện lợi, nhiều nền tảng đã tham gia sâu hơn vào đời sống dân sinh của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:50.169887+07:00"
+    },
+    {
+      "id": "77bc3de495b0de5833890278f3d2d340",
+      "title": "Xem nhanh 20h ngày 6.2: Thưởng 5 người dân giúp phá vụ án cướp ngân hàng ở Gia Lai | Kéo dài metro số 1 tới Long Thành",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-62-thuong-5-nguoi-dan-giup-pha-vu-an-cuop-ngan-hang-o-gia-lai-keo-dai-metro-so-1-toi-long-thanh-185260206184428797.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 6.2 có nhiều tin tức đáng chú ý về: Cướp ngân hàng ở Gia Lai: Thưởng nóng 5 người dân giúp phá án nhanh; chốt phương án hơn 60.000 tỉ kéo dài metro số 1 TP.HCM đến sân bay Long Thành;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:50.170041+07:00"
+    },
+    {
+      "id": "18f185c90ea5a35505d18e6fcbc3458b",
+      "title": "Leandix giới thiệu kiến trúc AI giúp doanh nghiệp ứng dụng AI ở quy mô lớn",
+      "link": "https://thanhnien.vn/leandix-gioi-thieu-kien-truc-ai-giup-doanh-nghiep-ung-dung-ai-o-quy-mo-lon-185260206183119741.htm",
+      "summary": "TP.HCM - Tháng 2.2026 - Leandix vừa chính thức công bố White Paper 'Leandix Fabric, AI-Native Enterprise Intelligence Architecture', giới thiệu một cách tiếp cận kiến trúc mới nhằm hỗ trợ doanh nghiệp ứng dụng trí tuệ nhân tạo (AI) một cách bài bản, có kiểm soát và phù hợp với yêu cầu quản trị ở quy...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T13:00:00+07:00",
+      "fetched": "2026-02-06T21:37:50.170204+07:00"
+    },
+    {
+      "id": "4da46eda563ef8615e19a7311f93da75",
+      "title": "TP HCM cấp trợ lý ảo có bản quyền cho cán bộ",
+      "link": "https://vnexpress.net/tp-hcm-cap-tro-ly-ao-co-ban-quyen-cho-can-bo-5015206.html",
+      "summary": "TP HCM bắt đầu cấp bản quyền trợ lý ảo cho khu vực công để nâng cao hiệu quả làm việc, bảo đảm an toàn dữ liệu, chuẩn hóa việc ứng dụng trí tuệ nhân tạo trong quản lý nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T12:59:34+07:00",
+      "fetched": "2026-02-06T21:37:47.264844+07:00"
+    },
+    {
+      "id": "4da46eda563ef8615e19a7311f93da75",
+      "title": "TP HCM cấp trợ lý ảo có bản quyền cho cán bộ",
+      "link": "https://vnexpress.net/tp-hcm-cap-tro-ly-ao-co-ban-quyen-cho-can-bo-5015206.html",
+      "summary": "TP HCM bắt đầu cấp bản quyền trợ lý ảo cho khu vực công để nâng cao hiệu quả làm việc, bảo đảm an toàn dữ liệu, chuẩn hóa việc ứng dụng trí tuệ nhân tạo trong quản lý nhà nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-06T12:59:34+07:00",
+      "fetched": "2026-02-06T21:37:55.502084+07:00"
+    },
+    {
       "id": "23256bfce13bf515e49f7423f0bb23d6",
       "title": "Cả xã đỏ lửa gói 2.500 bánh tét: Mang tết đến từng nhà",
       "link": "https://thanhnien.vn/ca-xa-do-lua-goi-2500-banh-tet-mang-tet-den-tung-nha-185260206161604426.htm",
@@ -473,6 +773,26 @@ window.newsData_2026_02_06 = {
       "fetched": "2026-02-06T19:53:47.309917+07:00"
     },
     {
+      "id": "0322b02dd75a660b6a39ab0c505a0e3f",
+      "title": "Việt Nam ưu tiên phát triển quan hệ với Campuchia, Lào",
+      "link": "https://vnexpress.net/viet-nam-uu-tien-phat-trien-quan-he-voi-campuchia-lao-5015218.html",
+      "summary": "Tổng Bí thư Tô Lâm khẳng định Việt Nam luôn coi trọng và ưu tiên phát triển quan hệ đoàn kết đặc biệt, hợp tác toàn diện với Campuchia và Lào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T12:35:15+07:00",
+      "fetched": "2026-02-06T21:37:47.264991+07:00"
+    },
+    {
+      "id": "0322b02dd75a660b6a39ab0c505a0e3f",
+      "title": "Việt Nam ưu tiên phát triển quan hệ với Campuchia, Lào",
+      "link": "https://vnexpress.net/viet-nam-uu-tien-phat-trien-quan-he-voi-campuchia-lao-5015218.html",
+      "summary": "Tổng Bí thư Tô Lâm khẳng định Việt Nam luôn coi trọng và ưu tiên phát triển quan hệ đoàn kết đặc biệt, hợp tác toàn diện với Campuchia và Lào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-06T12:35:15+07:00",
+      "fetched": "2026-02-06T21:37:51.991477+07:00"
+    },
+    {
       "id": "8d88c2472282c16659a7ca4d086ca179",
       "title": "100% cử tri tín nhiệm Viện trưởng Lê Văn Đông ứng cử ĐBQH khóa XVI",
       "link": "https://thanhnien.vn/100-cu-tri-tin-nhiem-vien-truong-le-van-dong-ung-cu-dbqh-khoa-xvi-185260206183547185.htm",
@@ -481,6 +801,16 @@ window.newsData_2026_02_06 = {
       "category": "Tổng hợp",
       "published": "2026-02-06T12:32:00+07:00",
       "fetched": "2026-02-06T19:53:47.310087+07:00"
+    },
+    {
+      "id": "51ecd7ae02690c6dbe58d9917ffae3ec",
+      "title": "Trung Quốc thử nghiệm máy bay vận chuyển không người lái cỡ lớn",
+      "link": "https://vnexpress.net/trung-quoc-thu-nghiem-may-bay-van-chuyen-khong-nguoi-lai-co-lon-5015142.html",
+      "summary": "V5000 Matrix của AutoFlight được trang bị 6 cụm cánh quạt, dài 20 m, rộng 17,1 m, vừa hoàn thành chuyến bay thử nghiệm đầu tiên ngày 6/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T12:12:16+07:00",
+      "fetched": "2026-02-06T21:37:47.265153+07:00"
     },
     {
       "id": "078d8f5fcebc8986422aa0b57867935e",
