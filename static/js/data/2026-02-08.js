@@ -1,7 +1,27 @@
 window.newsData_2026_02_08 = {
   "date": "2026-02-08",
-  "lastUpdated": "2026-02-08T01:31:26.828529+07:00",
+  "lastUpdated": "2026-02-08T03:23:47.283078+07:00",
   "articles": [
+    {
+      "id": "aa3a35b0c7de6fca02ada5e793e68960",
+      "title": "Dư luận Thái Lan: 'Chúng ta đã không còn đứng đầu ở bất kỳ môn bóng đá nào'",
+      "link": "https://tuoitre.vn/du-luan-thai-lan-chung-ta-da-khong-con-dung-dau-o-bat-ky-mon-bong-da-nao-2026020722453872.htm",
+      "summary": "Kết thúc Giải futsal châu Á 2026, dư luận Thái Lan phải thừa nhận một sự thật cay đắng là họ không còn đứng đầu ở bất kỳ nội dung nào của môn bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:23:41.133045+07:00",
+      "fetched": "2026-02-08T03:23:41.133193+07:00"
+    },
+    {
+      "id": "8bcd8ce8df0a37b7b9e532d05b7b5058",
+      "title": "Đánh bại Sunderland, Arsenal hun nóng đại chiến Man City - Liverpool",
+      "link": "https://tuoitre.vn/danh-bai-sunderland-arsenal-hun-nong-dai-chien-man-city-liverpool-20260208005848064.htm",
+      "summary": "Khuya 7-2, chủ nhà Arsenal tiếp tục giữ vững phong độ ấn tượng khi đánh bại Sunderland 3-0 ở vòng 25 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T03:23:41.132820+07:00",
+      "fetched": "2026-02-08T03:23:41.133030+07:00"
+    },
     {
       "id": "805191238135d41b821c203d4ec714ff",
       "title": "HLV Nhật Bản thất vọng vì thua trận đầu tiên ở V-League",
@@ -153,6 +173,56 @@ window.newsData_2026_02_08 = {
       "fetched": "2026-02-08T01:31:19.337932+07:00"
     },
     {
+      "id": "e82ddacbe3fe9b59ecc48a5c63749af1",
+      "title": "Arsenal hơn Man City 9 điểm",
+      "link": "https://vnexpress.net/arsenal-hon-man-city-9-diem-5015575.html",
+      "summary": "Arsenal đè bẹp đội khách Sunderland 3-0 ở vòng 25 Ngoại hạng Anh để nới rộng cách biệt với Man City lên chín điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T20:16:38+07:00",
+      "fetched": "2026-02-08T03:23:47.278320+07:00"
+    },
+    {
+      "id": "a49ae6eebc3b7fe8350c3d958b1713f1",
+      "title": "Nhà 45 m2 linh hoạt của cặp đôi thiết kế đồ họa",
+      "link": "https://vnexpress.net/nha-45-m2-linh-hoat-cua-cap-doi-thiet-ke-do-hoa-5014409.html",
+      "summary": "Căn hộ một phòng ngủ được cải tạo cho phép không gian thay đổi công năng theo nhu cầu ở, làm việc và tiếp khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T18:50:38+07:00",
+      "fetched": "2026-02-08T03:23:37.644707+07:00"
+    },
+    {
+      "id": "4af671624ff753d54a3580b8b748af65",
+      "title": "Pizza Hut sa sút trong cuộc đua toàn cầu",
+      "link": "https://vnexpress.net/pizza-hut-sa-sut-trong-cuoc-dua-toan-cau-5015503.html",
+      "summary": "Kém cạnh tranh về giá và khó nâng cấp cửa hàng khiến kết quả kinh doanh Pizza Hut sa sút, công ty mẹ Yum Brands cân nhắc bán lại thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T18:48:57+07:00",
+      "fetched": "2026-02-08T03:23:37.644891+07:00"
+    },
+    {
+      "id": "4af671624ff753d54a3580b8b748af65",
+      "title": "Pizza Hut sa sút trong cuộc đua toàn cầu",
+      "link": "https://vnexpress.net/pizza-hut-sa-sut-trong-cuoc-dua-toan-cau-5015503.html",
+      "summary": "Kém cạnh tranh về giá và khó nâng cấp cửa hàng khiến kết quả kinh doanh Pizza Hut sa sút, công ty mẹ Yum Brands cân nhắc bán lại thương hiệu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T18:48:57+07:00",
+      "fetched": "2026-02-08T03:23:43.759988+07:00"
+    },
+    {
+      "id": "601ba9a2b4b1649d5e094742a06c1f78",
+      "title": "Bài tập 'vượt mặt' đi bộ trong việc kiểm soát đường huyết",
+      "link": "https://vnexpress.net/bai-tap-vuot-mat-di-bo-trong-viec-kiem-soat-duong-huyet-5014681.html",
+      "summary": "Bài tập squat được nghiên cứu cho thấy giúp quản lý lượng đường trong máu tốt hơn so với đi bộ thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T18:03:00+07:00",
+      "fetched": "2026-02-08T03:23:37.645054+07:00"
+    },
+    {
       "id": "fd8cb62cbdd22586563b4800c75750c1",
       "title": "Tính năng trực thăng 'thợ săn đêm' Nga có thể đã chuyển cho Iran",
       "link": "https://vnexpress.net/tinh-nang-truc-thang-tho-san-dem-nga-co-the-da-chuyen-cho-iran-5015403.html",
@@ -161,6 +231,16 @@ window.newsData_2026_02_08 = {
       "category": "Thế giới",
       "published": "2026-02-07T18:00:00+07:00",
       "fetched": "2026-02-08T01:31:20.686535+07:00"
+    },
+    {
+      "id": "6edd53746dfb7e79b63d21919a522a17",
+      "title": "Tết Hy Vọng đến với người mù Đà Nẵng",
+      "link": "https://vnexpress.net/tet-hy-vong-den-voi-nguoi-mu-da-nang-5015371.html",
+      "summary": "Vượt hàng chục cây số từ các huyện thị về Tam Kỳ, hàng trăm người khiếm thị nhận những món quà từ chương trình \"Tết Hy vọng\", giúp vơi bớt gánh nặng mưu sinh khi xuân về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T17:46:04+07:00",
+      "fetched": "2026-02-08T03:23:37.645395+07:00"
     },
     {
       "id": "22944eadffc2df83dbeb976c153f56c4",
