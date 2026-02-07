@@ -1,7 +1,157 @@
 window.newsData_2026_02_07 = {
   "date": "2026-02-07",
-  "lastUpdated": "2026-02-07T05:20:22.092196+07:00",
+  "lastUpdated": "2026-02-07T08:48:36.000914+07:00",
   "articles": [
+    {
+      "id": "1a8b12b81f2ca284707f9ea6f4d947de",
+      "title": "Thời tiết hôm nay 7-2: Không khí lạnh bao trùm, nhiệt độ giảm mạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-2-khong-khi-lanh-bao-trum-nhiet-do-giam-manh-20260206154519784.htm",
+      "summary": "Hôm nay 7-2, khối không khí lạnh mạnh đã tràn tới nước ta, nhiều nơi nhiệt độ giảm mạnh, trời trở gió, thời tiết rét.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.686412+07:00",
+      "fetched": "2026-02-07T08:48:30.686543+07:00"
+    },
+    {
+      "id": "9eca4c458e55a14bc0eea591e9a1df0b",
+      "title": "Lùi thời hạn áp dụng nghị định 46: Chưa gỡ tận gốc",
+      "link": "https://tuoitre.vn/lui-thoi-han-ap-dung-nghi-dinh-46-chua-go-tan-goc-20260206225346709.htm",
+      "summary": "Theo nhiều doanh nghiệp, việc tạm dừng thực hiện nghị định 46 đến ngày 15-4 chỉ là giải pháp tình thế. Để gỡ vướng tận gốc cho doanh nghiệp, cần sửa đổi Luật An toàn thực phẩm, ban hành nghị định mới thay thế nghị định 46.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.686288+07:00",
+      "fetched": "2026-02-07T08:48:30.686401+07:00"
+    },
+    {
+      "id": "3071f835d0632bc890b960db40515cca",
+      "title": "Hiệp ước New START hết hiệu lực: Bóng ma hạt nhân quay trở lại",
+      "link": "https://tuoitre.vn/hiep-uoc-new-start-het-hieu-luc-bong-ma-hat-nhan-quay-tro-lai-20260206222840582.htm",
+      "summary": "Hậu New START sẽ là một \"khởi đầu mới\" nguy hiểm. Theo các nhà phân tích, những lời lẽ đe dọa liên quan vũ khí hạt nhân có thể sẽ ngày càng bị sử dụng như một công cụ cưỡng ép chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.686163+07:00",
+      "fetched": "2026-02-07T08:48:30.686277+07:00"
+    },
+    {
+      "id": "7fd0ba5c6f47e8bc3ba6f1577c302803",
+      "title": "Tin tức sáng 7-2: Chuyển nhượng, kinh doanh tài sản mã hóa không phải chịu thuế giá trị gia tăng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-7-2-chuyen-nhuong-kinh-doanh-tai-san-ma-hoa-khong-phai-chiu-thue-gia-tri-gia-tang-20260207003158056.htm",
+      "summary": "Tin tức đáng chú ý: Chuyển nhượng, kinh doanh tài sản mã hóa không phải chịu thuế giá trị gia tăng; Bệnh viện Nhi đồng 2 đã ghép tạng cho 100 bệnh nhi, \"em bé 100\" đã được xuất viện đón Tết...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.686037+07:00",
+      "fetched": "2026-02-07T08:48:30.686151+07:00"
+    },
+    {
+      "id": "186edf922b241a0e8a336db534f5f0ff",
+      "title": "Tin tức thế giới 7-2: Mỹ trừng phạt Iran ngay sau đàm phán; Mexico viện trợ nhân đạo gấp cho Cuba",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-7-2-my-trung-phat-iran-ngay-sau-dam-phan-mexico-vien-tro-nhan-dao-gap-cho-cuba-20260207050853876.htm",
+      "summary": "Mỹ áp lệnh trừng phạt mới với Iran liên quan đến dầu mỏ, Iran nói đàm phán tốt; Vòng đàm phán thứ ba giữa Nga và Ukraine sẽ sớm diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685905+07:00",
+      "fetched": "2026-02-07T08:48:30.686025+07:00"
+    },
+    {
+      "id": "704d28eb203b5ed3a46b6bd92feae562",
+      "title": "Al Nassr tiếp tục thắng khi vắng Ronaldo",
+      "link": "https://tuoitre.vn/al-nassr-tiep-tuc-thang-khi-vang-ronaldo-20260207060006017.htm",
+      "summary": "Rạng sáng 7-2, Al Nassr đã đánh bại Al Ittihad 2-0 ở vòng 20 Giải vô địch Saudi Arabia (Saudi Pro League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685771+07:00",
+      "fetched": "2026-02-07T08:48:30.685890+07:00"
+    },
+    {
+      "id": "1b5e6f6e0526b608ab5960f35d331f0e",
+      "title": "Một nhịp cầu Long Biên gặp sự cố, ngành đường sắt tạm dừng chạy tàu qua cầu",
+      "link": "https://tuoitre.vn/mot-nhip-cau-long-bien-gap-su-co-nganh-duong-sat-tam-dung-chay-tau-qua-cau-20260206230934237.htm",
+      "summary": "Do một bản thép liên kết các thanh của giàn thép cầu Long Biên bị đứt, nên ngành đường sắt đã tạm dừng chạy tàu qua cây cầu 124 tuổi này trong thời gian khắc phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685642+07:00",
+      "fetched": "2026-02-07T08:48:30.685759+07:00"
+    },
+    {
+      "id": "e985b5a6586d690e65b310bb88361d51",
+      "title": "Jujutsu Kaisen và top 5 anime có hoạt họa xuất sắc nhất 10 năm qua",
+      "link": "https://tuoitre.vn/jujutsu-kaisen-va-top-5-anime-co-hoat-hoa-xuat-sac-nhat-10-nam-qua-20260206161724957.htm",
+      "summary": "Trong hơn một thập niên trở lại đây, anime chứng kiến bước nhảy vọt rõ rệt về mặt kỹ thuật, nổi bật có thể nhắc đến sự trỗi dậy của studio Mappa (Jujutsu Kaisen), Ufotable (Thanh gươm diệt quỷ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685482+07:00",
+      "fetched": "2026-02-07T08:48:30.685629+07:00"
+    },
+    {
+      "id": "b3facd5a0379b7d29958dd6488cdc85e",
+      "title": "Thời trang cổ điển của Margot Robbie trong chuỗi sự kiện quảng bá Đồi gió hú",
+      "link": "https://tuoitre.vn/thoi-trang-co-dien-cua-margot-robbie-trong-chuoi-su-kien-quang-ba-doi-gio-hu-20260206105934247.htm",
+      "summary": "Phong cách ăn vận cổ điển của Margot Robbie chưa bao giờ trông ngầu đến thế xuyên suốt các chuyến quảng bá phim Đồi gió hú thời gian vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685355+07:00",
+      "fetched": "2026-02-07T08:48:30.685470+07:00"
+    },
+    {
+      "id": "715939987a8dd271e62fb7f9016c2aee",
+      "title": "Nhà Trắng 'cấm vĩnh viễn' Đài CNN, gọi đây là ‘cỗ máy tẩy não’?",
+      "link": "https://tuoitre.vn/nha-trang-cam-vinh-vien-dai-cnn-goi-day-la-co-may-tay-nao-20260206104446639.htm",
+      "summary": "Mạng xã hội đang lan truyền thông tin rằng Nhà Trắng đã áp đặt “lệnh cấm vĩnh viễn” đối với Đài CNN hàng đầu nước Mỹ. Tuy nhiên không có bằng chứng nào xác thực thông tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685224+07:00",
+      "fetched": "2026-02-07T08:48:30.685343+07:00"
+    },
+    {
+      "id": "64c43d24ebaa3f1b92eb721677a95bd0",
+      "title": "Xem, ăn, chơi ở Happy Tết 2026",
+      "link": "https://tuoitre.vn/xem-an-choi-o-happy-tet-2026-20260206230250342.htm",
+      "summary": "Trải nghiệm Tết từ truyền thống đến hiện đại trong không gian hơn 7.000m² tại Hoàng thành Thăng Long là hoạt động thú vị dịp Tết Nguyên đán Bính Ngọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.685089+07:00",
+      "fetched": "2026-02-07T08:48:30.685212+07:00"
+    },
+    {
+      "id": "68821685135fb21215bc651b3fc8f4a3",
+      "title": "Trước mốc 4 năm chiến sự Nga - Ukraine, EU đề xuất gói trừng phạt quy mô lớn với Matxcơva",
+      "link": "https://tuoitre.vn/truoc-moc-4-nam-chien-su-nga-ukraine-eu-de-xuat-goi-trung-phat-quy-mo-lon-voi-matxcova-20260207065230302.htm",
+      "summary": "Ủy ban châu Âu đã đề xuất gói biện pháp trừng phạt mới với quy mô rộng nhất từ trước tới nay, nhằm vào xuất khẩu dầu thô của Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.684945+07:00",
+      "fetched": "2026-02-07T08:48:30.685076+07:00"
+    },
+    {
+      "id": "2a9d0151398b8191f47f5ba469d426f8",
+      "title": "Bệnh viện đa khoa Tâm Anh hợp tác nghiên cứu xét nghiệm chẩn đoán sớm bệnh Alzheimer",
+      "link": "https://tuoitre.vn/benh-vien-da-khoa-tam-anh-hop-tac-nghien-cuu-xet-nghiem-chan-doan-som-benh-alzheimer-20260206182357907.htm",
+      "summary": "Ngày 6-2, Hệ thống Bệnh viện Tâm Anh và Bệnh viện Lão khoa Trung ương hợp tác nghiên cứu toàn diện bệnh Alzheimer, trong đó có triển khai xét nghiệm máu để phát hiện từ rất sớm bệnh Alzheimer.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T08:48:30.684705+07:00",
+      "fetched": "2026-02-07T08:48:30.684930+07:00"
+    },
+    {
+      "id": "4d980134ac55e74d2000a2c4d09fb03c",
+      "title": "Giá xăng dầu hôm nay 7.2.2026: Tuần giảm mạnh, trong nước tuần tới thế nào?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-722026-tuan-giam-manh-trong-nuoc-tuan-toi-the-nao-185260207083812391.htm",
+      "summary": "Giá dầu thế giới có phiên cuối tuần tăng nhẹ, tuy vậy, do trong tuần giảm mạnh nên tính cả tuần, dầu giảm hơn 3%. Trong nước, dự báo giá xăng dầu tuần tới tăng tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:47:00+07:00",
+      "fetched": "2026-02-07T08:48:29.919543+07:00"
+    },
+    {
+      "id": "4bcbad1f000052d8b0301f4d8c1daf3a",
+      "title": "Giá USD hôm nay 7.2.2026: Đồng loạt giảm trong và ngoài nước",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-722026-dong-loat-giam-trong-va-ngoai-nuoc-185260207084150947.htm",
+      "summary": "Ngân hàng giảm giá USD cùng các ngoại tệ khác. Trong khi đó, đồng bạc xanh thế giới giảm nhẹ, rời khỏi mức cao nhất trong 2 tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:45:00+07:00",
+      "fetched": "2026-02-07T08:48:29.919720+07:00"
+    },
     {
       "id": "827cac484d3048ec1fd9b91dd95081dd",
       "title": "Một đạo diễn đình đám bị kiện vì xúc phạm Kim Soo Hyun",
@@ -153,6 +303,386 @@ window.newsData_2026_02_07 = {
       "fetched": "2026-02-07T01:44:46.716895+07:00"
     },
     {
+      "id": "124daeb7be4f76c316474794a1defbe1",
+      "title": "9 điều thú vị về Tết Nguyên đán trên thế giới",
+      "link": "https://thanhnien.vn/9-dieu-thu-vi-ve-tet-nguyen-dan-tren-the-gioi-185260120134731783.htm",
+      "summary": "Tết Nguyên đán là lễ hội lâu đời được nhiều quốc gia ở châu Á tổ chức và ngày càng phổ biến ở một số nước phương Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:39:00+07:00",
+      "fetched": "2026-02-07T08:48:29.919875+07:00"
+    },
+    {
+      "id": "1301bfd2ccca81c6ca838b4d227d0d9f",
+      "title": "Giá vàng hôm nay 7.2.2026: Bật tăng gần 3 triệu lên sát 180 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-722026-bat-tang-gan-3-trieu-len-sat-180-trieu-dong-mot-luong-185260207075439003.htm",
+      "summary": "Giá vàng thế giới hồi phục trở lại đẩy thị trường trong nước tăng lên gần sát 180 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:37:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920026+07:00"
+    },
+    {
+      "id": "25f07f51a2e3117c997a338395920dc7",
+      "title": "Giải marathon cao nhất thế giới",
+      "link": "https://vnexpress.net/giai-marathon-cao-nhat-the-gioi-5015250.html",
+      "summary": "Cuộc đua lập kỷ lục thế giới sẽ xuất phát từ đỉnh Ojos del Salado - núi lửa cao nhất hành tinh, ở độ cao gần 7.000 m so với mực nước biển, nơi lượng oxy chỉ còn chưa đến một nửa so với bình thường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:35:46+07:00",
+      "fetched": "2026-02-07T08:48:35.995410+07:00"
+    },
+    {
+      "id": "f3c2db9e53bfc803ffef39d3f36e0013",
+      "title": "Guardiola: 'Anfield là nơi để Man City chứng tỏ đẳng cấp'",
+      "link": "https://vnexpress.net/guardiola-anfield-la-noi-de-man-city-chung-to-dang-cap-5015280.html",
+      "summary": "Theo HLV Pep Guardiola, làm khách của Liverpool ở vòng 25 Ngoại hạng Anh là trận đấu thích hợp để Man City khẳng định bản lĩnh và đẳng cấp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:32:23+07:00",
+      "fetched": "2026-02-07T08:48:35.995588+07:00"
+    },
+    {
+      "id": "b339859ae3516b5ce1c1f859eda9756d",
+      "title": "Trước kỳ nghỉ Tết Nguyên đán 2026: Trường học TP.HCM nhộn nhịp hội xuân",
+      "link": "https://thanhnien.vn/truoc-ky-nghi-tet-nguyen-dan-2026-truong-hoc-tphcm-nhon-nhip-hoi-xuan-185260206164136913.htm",
+      "summary": "Trước kỳ nghỉ Tết Nguyên đán, các trường học của TP.HCM nhộn nhịp những hoạt động vui xuân, để học sinh được trải nghiệm nhiều văn hóa cổ truyền của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:29:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920178+07:00"
+    },
+    {
+      "id": "6832fb3c1b9cd0cb19647b553dba94ee",
+      "title": "Al Nassr thắng trận thứ hai liên tiếp vắng Ronaldo",
+      "link": "https://vnexpress.net/al-nassr-thang-tran-thu-hai-lien-tiep-vang-ronaldo-5015281.html",
+      "summary": "Al Nassr rút ngắn khoảng cách với đầu bảng Al Hilal bằng trận thắng Al Ittihad 2-0, ở vòng 21 Saudi Pro League tối 6/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-07T01:28:51+07:00",
+      "fetched": "2026-02-07T08:48:35.995751+07:00"
+    },
+    {
+      "id": "b33147adba6cc7bae76f622ccb07653d",
+      "title": "Giá heo hơi hôm nay 7.2.2026: Lùi thêm một bước",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-722026-lui-them-mot-buoc-185260207071852302.htm",
+      "summary": "Giá heo hơi ở miền Bắc chựng lại nhưng miền Trung và miền Nam tiếp tục giảm; đáng chú ý, mức giá thấp nhất cả nước lùi về 72.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:24:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920326+07:00"
+    },
+    {
+      "id": "ed9106a16ccc743b191b82cfbc45d453",
+      "title": "Khởi động cuộc thi Sáng kiến Khoa học 2026",
+      "link": "https://vnexpress.net/khoi-dong-cuoc-thi-sang-kien-khoa-hoc-2026-5015278.html",
+      "summary": "Cuộc thi Sáng kiến Khoa học 2026 sẽ mở cổng nhận bài thi từ ngày 9/2, nhằm tìm kiếm, tôn vinh và hỗ trợ các sáng kiến đột phá, mang lại giá trị thiết thực trong phát triển kinh tế và cuộc sống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-07T01:16:34+07:00",
+      "fetched": "2026-02-07T08:48:34.991946+07:00"
+    },
+    {
+      "id": "e30ea68010ff76d0cf32b51328deed5c",
+      "title": "CSGT TP.HCM lưu ý quan trọng để người dân về quê, đi chơi tết an toàn",
+      "link": "https://thanhnien.vn/csgt-tphcm-luu-y-quan-trong-de-nguoi-dan-ve-que-di-choi-tet-an-toan-185260206171305949.htm",
+      "summary": "CSGT TP.HCM vừa có lưu ý quan trọng để người dân về quê, đi chơi tết an toàn, trong đó nhấn mạnh cần bình tĩnh, nhường nhịn khi tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:16:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920475+07:00"
+    },
+    {
+      "id": "7603af971a51f4c8f41548a930483e83",
+      "title": "Người trẻ Báo Thanh Niên mang quà đến cho các trẻ em tại Làng SOS",
+      "link": "https://thanhnien.vn/nguoi-tre-bao-thanh-nien-mang-qua-den-cho-cac-tre-em-tai-lang-sos-185260207002254807.htm",
+      "summary": "Các bạn trẻ Báo Thanh Niên đã mang quà tết ý nghĩa đến Làng trẻ em SOS, động viên tinh thần các em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:15:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920652+07:00"
+    },
+    {
+      "id": "408c1aeca215ae1183e31110e713c148",
+      "title": "Đại học Việt ra 'biển lớn' mời hợp tác, điều gì khiến trường nước ngoài ấn tượng?",
+      "link": "https://thanhnien.vn/dai-hoc-viet-ra-bien-lon-moi-hop-tac-dieu-gi-khien-truong-nuoc-ngoai-an-tuong-185260207012846712.htm",
+      "summary": "Trong số hơn 500 đại biểu tham dự sự kiện ở Indonesia mới đây, hơn 10 đại diện đến từ 7 trường đại học (ĐH) Việt Nam góp mặt để học hỏi kinh nghiệm và tìm cơ hội hợp tác giáo dục với đơn vị nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:10:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920802+07:00"
+    },
+    {
+      "id": "792a6e4f76700e73162077412afc34ac",
+      "title": "Giá Bitcoin hôm nay 7.2.2026: Bất ngờ tăng vọt sau đợt bán tháo lịch sử",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-722026-bat-ngo-tang-vot-sau-dot-ban-thao-lich-su-185260207073143104.htm",
+      "summary": "Giá Bitcoin hôm nay bật tăng vọt gần 12% lên vùng giá 70.000 USD nhưng các nhà giao dịch vẫn thận trọng trong bối cảnh tín hiệu phục hồi yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:07:00+07:00",
+      "fetched": "2026-02-07T08:48:29.920954+07:00"
+    },
+    {
+      "id": "9344c1f73d6a341aa977fdb807a2baf4",
+      "title": "Pháp, Canada mở lãnh sự quán ở Greenland, phản đối ý định của ông Trump",
+      "link": "https://thanhnien.vn/phap-canada-mo-lanh-su-quan-o-greenland-phan-doi-y-dinh-cua-ong-trump-185260207071651723.htm",
+      "summary": "Mở lãnh sự quán ở Greenland, Pháp và Canada thể hiện sự ủng hộ đối với chính quyền vùng lãnh thổ tự trị của Đan Mạch mà Tổng thống Mỹ Donald Trump muốn sáp nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:06:00+07:00",
+      "fetched": "2026-02-07T08:48:29.921101+07:00"
+    },
+    {
+      "id": "47ebbc2cab27c8002ffef071260354df",
+      "title": "Ông Trump ký sắc lệnh chọn các quốc gia được ưu tiên mua vũ khí Mỹ",
+      "link": "https://thanhnien.vn/ong-trump-ky-sac-lenh-chon-cac-quoc-gia-duoc-uu-tien-mua-vu-khi-my-18526020706522293.htm",
+      "summary": "Theo sắc lệnh, Mỹ sẽ ưu tiên bán vũ khí cho một số quốc gia có chi tiêu quốc phòng cao hơn và tầm quan trọng chiến lược trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:04:00+07:00",
+      "fetched": "2026-02-07T08:48:29.921246+07:00"
+    },
+    {
+      "id": "0374472132fa8ed93d7fe487c9a543e8",
+      "title": "Mỹ có động thái mới ngay sau khi kết thúc đàm phán với Iran",
+      "link": "https://thanhnien.vn/my-co-dong-thai-moi-ngay-sau-khi-ket-thuc-dam-phan-voi-iran-18526020707490305.htm",
+      "summary": "Bộ Ngoại giao Mỹ ngày 6.2 thông báo các lệnh cấm vận mới nhằm hạn chế xuất khẩu dầu mỏ của Iran ngay sau khi hai bên kết thúc cuộc đàm phán gián tiếp tại Oman, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:03:00+07:00",
+      "fetched": "2026-02-07T08:48:29.921393+07:00"
+    },
+    {
+      "id": "687cc6b9abd911b8f96840105faa5a5f",
+      "title": "The Cafuné: Minh bạch là cách tốt nhất để xây dựng niềm tin?",
+      "link": "https://thanhnien.vn/the-cafune-minh-bach-la-cach-tot-nhat-de-xay-dung-niem-tin-185260206191507806.htm",
+      "summary": "Thị trường mỹ phẩm Việt đang chứng kiến sự nổi lên của thương hiệu nội địa The Cafuné. Dù nhận hàng nghìn đánh giá 5 sao, thương hiệu này vẫn không tránh khỏi hoài nghi: Liệu The Cafuné chỉ là hàng gia công?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:00:00+07:00",
+      "fetched": "2026-02-07T08:48:29.921570+07:00"
+    },
+    {
+      "id": "b591b7595c750387a2868859c410add8",
+      "title": "Bí quyết lên đồ dự tiệc đơn giản mà sang xịn, ai cũng muốn ngắm nhìn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bi-quyet-len-do-du-tiec-don-gian-ma-sang-xin-ai-cung-muon-ngam-nhin-185260201215353965.htm",
+      "summary": "Mặc gì dự tiệc là chủ đề 'nóng' nhất trong những ngày này, khi nàng vừa phải gấp rút hoàn thành các kế hoạch, làm đầy các con số đồng thời lên kế hoạch trang phục cho buổi tiệc quan trọng sắp tới. Những bí quyết lên đồ dự tiệc dưới đây đơn giản và dễ áp dụng, có thể giúp nàng tìm ra ý tưởng đắt giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T01:00:00+07:00",
+      "fetched": "2026-02-07T08:48:29.921726+07:00"
+    },
+    {
+      "id": "b3d2c7be8773b537a69ab9e439111829",
+      "title": "Giá vàng thế giới quay đầu tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-tang-5015289.html",
+      "summary": "Sau phiên giảm mạnh, giá vàng thế giới lại đảo chiều tăng gần 190 USD một ounce, hướng tới mốc 5.000 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T00:46:58+07:00",
+      "fetched": "2026-02-07T08:48:33.233026+07:00"
+    },
+    {
+      "id": "048fad9aa68aef9d7d23a8bfc70e7f38",
+      "title": "Nhà 320 m2 ở làng chài thiết kế cho người cao tuổi",
+      "link": "https://vnexpress.net/nha-320-m2-o-lang-chai-thiet-ke-cho-nguoi-cao-tuoi-5014432.html",
+      "summary": "Ngôi nhà tại vùng ven biển được thiết kế để người cao tuổi sinh hoạt thuận tiện, kết nối thiên nhiên và giữ nhịp sống làng quê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:24:14+07:00",
+      "fetched": "2026-02-07T08:48:27.336790+07:00"
+    },
+    {
+      "id": "e86ddf0c7486cd5319cabc2e2f65cf21",
+      "title": "Giá sầu riêng cận Tết tăng từng ngày",
+      "link": "https://vnexpress.net/gia-sau-rieng-can-tet-tang-tung-ngay-5014721.html",
+      "summary": "Sầu riêng trái vụ khan hiếm trong những ngày cận Tết, nguồn cung sụt giảm khiến giá tại nhiều vựa miền Tây tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:20:14+07:00",
+      "fetched": "2026-02-07T08:48:27.336968+07:00"
+    },
+    {
+      "id": "e86ddf0c7486cd5319cabc2e2f65cf21",
+      "title": "Giá sầu riêng cận Tết tăng từng ngày",
+      "link": "https://vnexpress.net/gia-sau-rieng-can-tet-tang-tung-ngay-5014721.html",
+      "summary": "Sầu riêng trái vụ khan hiếm trong những ngày cận Tết, nguồn cung sụt giảm khiến giá tại nhiều vựa miền Tây tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T00:20:14+07:00",
+      "fetched": "2026-02-07T08:48:33.233199+07:00"
+    },
+    {
+      "id": "3292550954b02191d2ee7e060619e122",
+      "title": "Mariah Carey hát mở màn Olympic mùa đông 2026",
+      "link": "https://vnexpress.net/mariah-carey-hat-mo-man-olympic-mua-dong-2026-5015279.html",
+      "summary": "Danh ca Mariah Carey lần đầu thể hiện một ca khúc bằng tiếng Italy - nhạc phẩm \"Volare\" kinh điển - tại lễ khai mạc Olympic mùa đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:19:48+07:00",
+      "fetched": "2026-02-07T08:48:27.337135+07:00"
+    },
+    {
+      "id": "b17596b4f4df1f47adccdf58cd87cc77",
+      "title": "Canada, Pháp mở lãnh sự quán ở Greenland",
+      "link": "https://vnexpress.net/canada-phap-mo-lanh-su-quan-o-greenland-5015284.html",
+      "summary": "Canada, Pháp mở lãnh sự quán tại Greenland, thể hiện ủng hộ lãnh thổ tự trị của Đan Mạch giữa lúc Mỹ vẫn muốn kiểm soát hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:19:28+07:00",
+      "fetched": "2026-02-07T08:48:27.337295+07:00"
+    },
+    {
+      "id": "b17596b4f4df1f47adccdf58cd87cc77",
+      "title": "Canada, Pháp mở lãnh sự quán ở Greenland",
+      "link": "https://vnexpress.net/canada-phap-mo-lanh-su-quan-o-greenland-5015284.html",
+      "summary": "Canada, Pháp mở lãnh sự quán tại Greenland, thể hiện ủng hộ lãnh thổ tự trị của Đan Mạch giữa lúc Mỹ vẫn muốn kiểm soát hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T00:19:28+07:00",
+      "fetched": "2026-02-07T08:48:31.987994+07:00"
+    },
+    {
+      "id": "2c8a62594a284fcf77d1e9b64fb4ee0d",
+      "title": "Sàn tiền số tặng nhầm 2.000 Bitcoin cho mỗi người dùng",
+      "link": "https://vnexpress.net/san-tien-so-tang-nham-2-000-bitcoin-cho-moi-nguoi-dung-5015268.html",
+      "summary": "Thay vì tặng người dùng 2.000 won, sàn tiền số lớn thứ hai Hàn Quốc Bithumb chuyển nhầm 2.000 Bitcoin cho mỗi người, tương đương khoảng 140 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:16:18+07:00",
+      "fetched": "2026-02-07T08:48:27.337450+07:00"
+    },
+    {
+      "id": "2c8a62594a284fcf77d1e9b64fb4ee0d",
+      "title": "Sàn tiền số tặng nhầm 2.000 Bitcoin cho mỗi người dùng",
+      "link": "https://vnexpress.net/san-tien-so-tang-nham-2-000-bitcoin-cho-moi-nguoi-dung-5015268.html",
+      "summary": "Thay vì tặng người dùng 2.000 won, sàn tiền số lớn thứ hai Hàn Quốc Bithumb chuyển nhầm 2.000 Bitcoin cho mỗi người, tương đương khoảng 140 triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-07T00:16:18+07:00",
+      "fetched": "2026-02-07T08:48:33.233361+07:00"
+    },
+    {
+      "id": "083d2cb0faf2c2c8fe52aa8fe69db02d",
+      "title": "Hậu duệ Samsung đạt điểm thi đại học gần tuyệt đối nhờ 'cai' điện thoại",
+      "link": "https://vnexpress.net/hau-due-samsung-dat-diem-thi-dai-hoc-gan-tuyet-doi-nho-cai-dien-thoai-5015271.html",
+      "summary": "Bỏ điện thoại và trò chơi điện tử suốt 3 năm trung học, Lim Dong-hyun, cháu ngoại cố Chủ tịch Samsung, vừa trúng tuyển đại học số 1 Hàn Quốc với điểm gần tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:04:26+07:00",
+      "fetched": "2026-02-07T08:48:27.337629+07:00"
+    },
+    {
+      "id": "fe3acfafadac097c3c65fe315889a8ba",
+      "title": "Mỹ cáo buộc Trung Quốc bí mật thử nổ hạt nhân",
+      "link": "https://vnexpress.net/my-cao-buoc-trung-quoc-bi-mat-thu-no-hat-nhan-5015286.html",
+      "summary": "Quan chức Mỹ nói rằng Trung Quốc đã bí mật thử hạt nhân và chuẩn bị cho những đợt thử nghiệm quy mô lớn, vi phạm lệnh cấm quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:01:44+07:00",
+      "fetched": "2026-02-07T08:48:27.337783+07:00"
+    },
+    {
+      "id": "fe3acfafadac097c3c65fe315889a8ba",
+      "title": "Mỹ cáo buộc Trung Quốc bí mật thử nổ hạt nhân",
+      "link": "https://vnexpress.net/my-cao-buoc-trung-quoc-bi-mat-thu-no-hat-nhan-5015286.html",
+      "summary": "Quan chức Mỹ nói rằng Trung Quốc đã bí mật thử hạt nhân và chuẩn bị cho những đợt thử nghiệm quy mô lớn, vi phạm lệnh cấm quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-07T00:01:44+07:00",
+      "fetched": "2026-02-07T08:48:31.988168+07:00"
+    },
+    {
+      "id": "5f062bc6840e38e2bb666130a2ae2a43",
+      "title": "Bán tháo căn hộ vì ngày nào cũng phải đợi thang máy 20 phút",
+      "link": "https://vnexpress.net/ban-thao-can-ho-vi-ngay-nao-cung-phai-doi-thang-may-20-phut-5015248.html",
+      "summary": "Từng may mắn bốc trúng căn hộ tầng 40 tại dự án \"hot\" nhất Hàng Châu, anh Ma nay chấp nhận bán lỗ vì không chịu nổi cảnh chờ thang máy 20 phút mỗi sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:27.337944+07:00"
+    },
+    {
+      "id": "23128016f374a0de5da49d734fcfd40e",
+      "title": "Bạn trẻ đổ đến check in diện mạo mới chợ Bến Thành",
+      "link": "https://vnexpress.net/ban-tre-do-den-check-in-dien-mao-moi-cho-ben-thanh-5015222.html",
+      "summary": "Nhiều người dân và du khách đổ về chợ Bến Thành tham quan sau khi công trình này được sơn mới tường, mái và mặt trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:27.338104+07:00"
+    },
+    {
+      "id": "a901969fc6498044fa5f1abc77670dd3",
+      "title": "Startup Việt dự định bán vòng đeo theo dõi thần kinh dưới 250 USD",
+      "link": "https://vnexpress.net/startup-viet-du-dinh-ban-vong-deo-theo-doi-than-kinh-duoi-250-usd-5015223.html",
+      "summary": "Startup công nghệ thần kinh Brain-Life của Việt Nam dự kiến thương mại hóa vòng đeo theo dõi trạng thái tinh thần trong năm nay, giá 200-250 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:27.338262+07:00"
+    },
+    {
+      "id": "e0fcf6832a9567d6c6e24e93a5ccfcf7",
+      "title": "Hãng xe điện Mỹ mang xe Xiaomi về nghiên cứu",
+      "link": "https://vnexpress.net/hang-xe-dien-my-mang-xe-xiaomi-ve-nghien-cuu-5014197.html",
+      "summary": "Chiếc YU7 bản Max mang biển số của một nhà sản xuất ở Illinois, được cho có thể là Rivian - hãng xe điện có nhà máy ở bang này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:27.338423+07:00"
+    },
+    {
+      "id": "d731eacc44c0050792557c8d83f1fa2b",
+      "title": "UPS triển khai mở rộng tần số vô tuyến theo dõi bưu kiện",
+      "link": "https://vnexpress.net/ups-trien-khai-mo-rong-tan-so-vo-tuyen-theo-doi-buu-kien-5013822.html",
+      "summary": "UPS đang mở rộng triển khai công nghệ nhận dạng bằng tần số vô tuyến (RFID) nhằm nâng cao khả năng theo dõi bưu kiện và cải thiện hiệu quả vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:27.338601+07:00"
+    },
+    {
+      "id": "a901969fc6498044fa5f1abc77670dd3",
+      "title": "Startup Việt dự định bán vòng đeo theo dõi thần kinh dưới 250 USD",
+      "link": "https://vnexpress.net/startup-viet-du-dinh-ban-vong-deo-theo-doi-than-kinh-duoi-250-usd-5015223.html",
+      "summary": "Startup công nghệ thần kinh Brain-Life của Việt Nam dự kiến thương mại hóa vòng đeo theo dõi trạng thái tinh thần trong năm nay, giá 200-250 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-07T00:00:00+07:00",
+      "fetched": "2026-02-07T08:48:34.992108+07:00"
+    },
+    {
+      "id": "75b22a26c9dcfc6552055e70500f47f8",
+      "title": "'Đầy ải thể xác vì gánh nợ 20 năm vay mua nhà sớm'",
+      "link": "https://vnexpress.net/mua-nha-hay-thue-nha-gia-nha-ha-noi-gia-nha-tp-hcm-day-ai-the-xac-vi-ganh-no-20-nam-vay-mua-nha-som-5015146.html",
+      "summary": "Ở nhà thuê mà tài khoản rủng rỉnh, tâm trạng thoải mái còn hơn người vay mua nhà rồi tài chính tháng nào cạn tháng đó vì lo trả nợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:53:50+07:00",
+      "fetched": "2026-02-07T08:48:27.338758+07:00"
+    },
+    {
+      "id": "6718625a54d51b11d74fad8508f3be92",
+      "title": "Không khí lạnh mạnh ảnh hưởng miền Bắc từ trưa nay",
+      "link": "https://vnexpress.net/khong-khi-lanh-manh-anh-huong-mien-bac-tu-trua-nay-5015285.html",
+      "summary": "Đợt không khí lạnh cường độ mạnh tràn xuống miền Bắc từ trưa 7/2 gây rét đậm rộng; ngày mai là cao điểm khi vùng núi có nơi rét hại, nguy cơ băng giá, mưa tuyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:37:31+07:00",
+      "fetched": "2026-02-07T08:48:27.338914+07:00"
+    },
+    {
+      "id": "0e556f5cd35fa95b30be080cd878eb59",
+      "title": "Thủ khoa 'có thể giải toán ở bất cứ đâu'",
+      "link": "https://vnexpress.net/thu-khoa-co-the-giai-toan-o-bat-cu-dau-5015226.html",
+      "summary": "Tô An Kỳ, thủ khoa môn Toán của Hà Nội, luôn mang theo vở nháp và bút để giải bài trong mọi chuyến du lịch, từng làm bài thi ngay trên xe lúc tắc đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-06T23:05:00+07:00",
+      "fetched": "2026-02-07T08:48:27.339063+07:00"
+    },
+    {
       "id": "ec251e11e7eb889ed34d061f9bc2fdc1",
       "title": "Công an Cần Thơ vận động THACO tặng 1.000 căn nhà cho hộ dân khó khăn",
       "link": "https://thanhnien.vn/cong-an-can-tho-van-dong-thaco-tang-1000-can-nha-cho-ho-dan-kho-khan-185260206225009949.htm",
@@ -191,6 +721,16 @@ window.newsData_2026_02_07 = {
       "category": "Thế giới",
       "published": "2026-02-06T22:00:00+07:00",
       "fetched": "2026-02-07T05:20:16.487243+07:00"
+    },
+    {
+      "id": "bd9503b1db194bfe633a482faa461e32",
+      "title": "Apple bán tablet nhiều gấp ba so với Samsung",
+      "link": "https://vnexpress.net/apple-ban-tablet-nhieu-gap-ba-so-voi-samsung-5015125.html",
+      "summary": "Trong quý cuối năm 2025, Apple xuất xưởng 19,6 triệu iPad, gấp ba lần so với mức 6,4 triệu chiếc của Samsung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-06T22:00:00+07:00",
+      "fetched": "2026-02-07T08:48:34.991772+07:00"
     },
     {
       "id": "859ba9625bc7460b4909aa745392f2b8",
