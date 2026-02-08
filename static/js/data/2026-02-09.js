@@ -1,6 +1,6 @@
 window.newsData_2026_02_09 = {
   "date": "2026-02-09",
-  "lastUpdated": "2026-02-09T01:33:00.287615+07:00",
+  "lastUpdated": "2026-02-09T03:23:52.955238+07:00",
   "articles": [
     {
       "id": "20b48cc49452d88d135c2d68de6f18e4",
@@ -153,6 +153,116 @@ window.newsData_2026_02_09 = {
       "fetched": "2026-02-09T01:32:54.435488+07:00"
     },
     {
+      "id": "519e263b10cc03e3bb9a1b38521e4003",
+      "title": "Gần 1 tỉ đồng chăm lo tết cho người dân Đồng Nai",
+      "link": "https://thanhnien.vn/gan-1-ti-dong-cham-lo-tet-cho-nguoi-dan-dong-nai-185260208231849812.htm",
+      "summary": "Những ngày giáp Tết Bính Ngọ, trong khuôn khổ chương trình Gieo xuân mùa 3 - Hạnh phúc nảy mầm, Quỹ Khởi sự từ tâm (thuộc Kim Oanh Group) đã đồng hành cùng chính quyền địa phương tổ chức chuỗi hoạt động chăm lo an sinh xã hội tại các xã Dầu Giây, Nhơn Trạch và Long Thành (Đồng Nai) với tổng kinh phí...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T20:16:00+07:00",
+      "fetched": "2026-02-09T03:23:43.868225+07:00"
+    },
+    {
+      "id": "cce981a2f0159f261f6d44fe2d073ca9",
+      "title": "Cây mùa xuân 2026: Trao 100 phần quà tết cho bà con khó khăn",
+      "link": "https://thanhnien.vn/cay-mua-xuan-2026-trao-100-phan-qua-tet-cho-ba-con-kho-khan-185260208183731456.htm",
+      "summary": "Ngày 7.2, chương trình Cây mùa xuân 2026 - Báo Thanh Niên tiếp tục đến với bà con khó khăn ở P.Thông Tây Hội (thuộc Q.Gò Vấp cũ), TP.HCM. 100 phần quà do bạn đọc Báo Thanh Niên đóng góp được gửi đến bà con khó khăn, bệnh tật ở địa phương khi Tết Bính Ngọ đang đến rất gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T20:10:00+07:00",
+      "fetched": "2026-02-09T03:23:43.868372+07:00"
+    },
+    {
+      "id": "07540c5445e102e6b26ee1c6c4c2c983",
+      "title": "Trao học bổng Nguyễn Thái Bình cho học sinh mồ côi vùng lũ ở Huế",
+      "link": "https://thanhnien.vn/trao-hoc-bong-nguyen-thai-binh-cho-hoc-sinh-mo-coi-vung-lu-o-hue-185260208182103548.htm",
+      "summary": "Chiều 6.2, PV Thanh Niên cùng Thành đoàn TP.Huế trao học bổng Nguyễn Thái Bình cho 2 học sinh mồ côi do lũ lụt tại TP.Huế. Mỗi suất học bổng trị giá 25 triệu đồng/năm/học sinh được trao cho em Trần Ng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T20:10:00+07:00",
+      "fetched": "2026-02-09T03:23:45.224429+07:00"
+    },
+    {
+      "id": "7f469d747eb0e605fff179e8b89f325d",
+      "title": "Kane ghi cú đúp phạt đền cho Bayern",
+      "link": "https://vnexpress.net/kane-ghi-cu-dup-phat-den-cho-bayern-5015775.html",
+      "summary": "Tiền đạo Harry Kane có hai bàn phạt đền và một kiến tạo, giúp Bayern đè bẹp đội khách Hoffenheim 5-1 ở vòng 21 Bundesliga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T20:01:24+07:00",
+      "fetched": "2026-02-09T03:23:40.590277+07:00"
+    },
+    {
+      "id": "7f469d747eb0e605fff179e8b89f325d",
+      "title": "Kane ghi cú đúp phạt đền cho Bayern",
+      "link": "https://vnexpress.net/kane-ghi-cu-dup-phat-den-cho-bayern-5015775.html",
+      "summary": "Tiền đạo Harry Kane có hai bàn phạt đền và một kiến tạo, giúp Bayern đè bẹp đội khách Hoffenheim 5-1 ở vòng 21 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T20:01:24+07:00",
+      "fetched": "2026-02-09T03:23:52.950664+07:00"
+    },
+    {
+      "id": "109bbb314770513596f6316a6109b856",
+      "title": "Nhà 600 m2 phủ 70% mảng xanh, chia không gian bằng cao độ",
+      "link": "https://vnexpress.net/nha-600-m2-phu-70-mang-xanh-chia-khong-gian-bang-cao-do-5013632.html",
+      "summary": "Không gian căn nhà được định hình bằng chênh lệch cao độ, ánh sáng và sân vườn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:57:53+07:00",
+      "fetched": "2026-02-09T03:23:40.590434+07:00"
+    },
+    {
+      "id": "ffda921283ab11c9da78a1b8c8c774ee",
+      "title": "Lịch thi đấu V-League rất hay hôm nay: CLB Nam Định không còn đường lùi",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-rat-hay-hom-nay-clb-nam-dinh-khong-con-duong-lui-185260208220428272.htm",
+      "summary": "Đội bóng thành Nam cần phải chặn đứng chuỗi trận đáng thất vọng của mình trong cuộc đón tiếp CLB Hồng Lĩnh Hà Tĩnh lúc 18 giờ hôm nay 9.2 trên sân Thiên Trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:03:00+07:00",
+      "fetched": "2026-02-09T03:23:45.224832+07:00"
+    },
+    {
+      "id": "84fd3ec2513012106285c57728c9b566",
+      "title": "HLV Guardiola thay đổi 'lạ', may vẫn kịp sửa sai: Man City thắng ngược ngoạn mục Liverpool",
+      "link": "https://thanhnien.vn/hlv-guardiola-thay-doi-la-may-van-kip-sua-sai-man-city-thang-nguoc-ngoan-muc-liverpool-185260209014557524.htm",
+      "summary": "Những sự điều chỉnh kịp thời của HLV Guardiola đã giúp Man City thắng ngược Liverpool 2-1 ở trận đấu thuộc vòng 25 Ngoại hạng Anh 2025 - 2026, diễn ra rạng sáng 9.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:02:00+07:00",
+      "fetched": "2026-02-09T03:23:45.224986+07:00"
+    },
+    {
+      "id": "c2aaa05dee154d603f59859601028657",
+      "title": "Người phụ nữ mắc bệnh lạ khiến ngực phát triển không ngừng dù giảm 32 kg",
+      "link": "https://vnexpress.net/nguoi-phu-nu-mac-benh-la-khien-nguc-phat-trien-khong-ngung-du-giam-32-kg-5015674.html",
+      "summary": "Tianna Moon, 30 tuổi, giảm gần 32 kg nhờ thuốc và phẫu thuật thu nhỏ dạ dày, nhưng vòng một vẫn tăng kích thước không kiểm soát do chứng phì đại tuyến vú, buộc cô phải tính phương án can thiệp dao kéo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T19:00:00+07:00",
+      "fetched": "2026-02-09T03:23:40.590579+07:00"
+    },
+    {
+      "id": "54a9faebccf3cb5581f76091ef232ebc",
+      "title": "Man City thắng ngược Liverpool nghẹt thở ở phút bù",
+      "link": "https://vnexpress.net/man-city-thang-nguoc-liverpool-nghet-tho-o-phut-bu-5015772.html",
+      "summary": "Tiền đạo Erling Haaland ghi bàn trong phút bù hiệp hai, giúp Man City thắng chủ nhà Liverpool 2-1 ở trận muộn vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T18:33:50+07:00",
+      "fetched": "2026-02-09T03:23:40.590715+07:00"
+    },
+    {
+      "id": "54a9faebccf3cb5581f76091ef232ebc",
+      "title": "Man City thắng ngược Liverpool nghẹt thở ở phút bù",
+      "link": "https://vnexpress.net/man-city-thang-nguoc-liverpool-nghet-tho-o-phut-bu-5015772.html",
+      "summary": "Tiền đạo Erling Haaland ghi bàn trong phút bù hiệp hai, giúp Man City thắng chủ nhà Liverpool 2-1 ở trận muộn vòng 25 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T18:33:50+07:00",
+      "fetched": "2026-02-09T03:23:52.950818+07:00"
+    },
+    {
       "id": "52fbe4bebeb9bb7cf59714a696343460",
       "title": "Bộ Tài chính: Áp thuế vàng miếng không gây xáo trộn thị trường",
       "link": "https://vnexpress.net/bo-tai-chinh-ap-thue-vang-mieng-khong-gay-xao-tron-thi-truong-5015677.html",
@@ -161,6 +271,16 @@ window.newsData_2026_02_09 = {
       "category": "Kinh doanh",
       "published": "2026-02-08T18:18:23+07:00",
       "fetched": "2026-02-09T01:32:57.024520+07:00"
+    },
+    {
+      "id": "b4c77ec994ccee59d3944b4b24cdaefd",
+      "title": "Gần 900 căn nhà xã hội tại Bắc Ninh có giá 16 triệu một m2",
+      "link": "https://vnexpress.net/gan-900-can-nha-xa-hoi-tai-bac-ninh-co-gia-16-trieu-mot-m2-5015750.html",
+      "summary": "Khu nhà xã hội Thống Nhất Smart City tại huyện Yên Phong cũ mở bán 16 triệu đồng một m2, tương đương một căn từ 792 triệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T18:01:23+07:00",
+      "fetched": "2026-02-09T03:23:40.590987+07:00"
     },
     {
       "id": "9fa16365dfad29c6b8ba2aeaae458214",
