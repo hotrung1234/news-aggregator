@@ -1,7 +1,157 @@
 window.newsData_2026_02_08 = {
   "date": "2026-02-08",
-  "lastUpdated": "2026-02-08T13:45:02.284615+07:00",
+  "lastUpdated": "2026-02-08T15:30:08.240581+07:00",
   "articles": [
+    {
+      "id": "4bd81dc80ecd9a340fadf53b0ebfb1c7",
+      "title": "Hộp quà nhỏ trong phòng con trai tuổi 17",
+      "link": "https://tuoitre.vn/hop-qua-nho-trong-phong-con-trai-tuoi-17-20260208093643351.htm",
+      "summary": "Dọn dẹp phòng cho con trai, tôi tình cờ thấy một hộp quà nhỏ. Tò mò, tôi mở ra xem thử. Bên trong là nhiều món đồ lặt vặt dành cho phái nữ: dây buộc tóc, kẹp tóc, băng đô cài đầu, vài sợi dây thun mềm mại đủ màu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827939+07:00",
+      "fetched": "2026-02-08T15:30:01.828056+07:00"
+    },
+    {
+      "id": "32b77d52f4d06367e3fd3cb63df1433c",
+      "title": "Trao hơn 1.000 phần quà Tết, khám sàng lọc cho đồng bào vùng cao Đà Nẵng",
+      "link": "https://tuoitre.vn/trao-hon-1-000-phan-qua-tet-kham-sang-loc-cho-dong-bao-vung-cao-da-nang-20260208121843409.htm",
+      "summary": "Chương trình trao quà Tết Bính Ngọ 2026 \"Gắn kết Đà Nẵng - lan tỏa yêu thương\" ngoài trao quà cho bà con vùng cao còn tổ chức khám sàng lọc tim mạch cho bà con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827812+07:00",
+      "fetched": "2026-02-08T15:30:01.827928+07:00"
+    },
+    {
+      "id": "08a320890571afd64d547cdd2e0122b4",
+      "title": "Vì sao Trung Quốc huấn luyện kung fu Thiếu Lâm cho robot?",
+      "link": "https://tuoitre.vn/vi-sao-trung-quoc-huan-luyen-kung-fu-thieu-lam-cho-robot-20260208120914951.htm",
+      "summary": "Vài ngày qua, một đoạn clip đăng tải trên mạng xã hội Trung Quốc cho thấy khung cảnh đáng ngạc nhiên, khi một dàn robot cùng tập luyện võ thuật với các nhà sư Thiếu Lâm trong khuôn viên ngôi cổ tự nổi danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827685+07:00",
+      "fetched": "2026-02-08T15:30:01.827800+07:00"
+    },
+    {
+      "id": "08c08c3e8e4cb2640305bd9ae60ef909",
+      "title": "Cử tri tín nhiệm 100%, giới thiệu Bí thư Thành ủy TP.HCM Trần Lưu Quang ứng cử đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/cu-tri-tin-nhiem-100-gioi-thieu-bi-thu-thanh-uy-tp-hcm-tran-luu-quang-ung-cu-dai-bieu-quoc-hoi-2026020813250036.htm",
+      "summary": "100% cử tri dự hội nghị đã biểu quyết, thể hiện sự tín nhiệm đối với Ủy viên Bộ Chính trị, Bí thư Thành ủy TP.HCM Trần Lưu Quang ứng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827560+07:00",
+      "fetched": "2026-02-08T15:30:01.827674+07:00"
+    },
+    {
+      "id": "1424aa8a94b131aa391308c831416032",
+      "title": "Vũ Luân lần đầu diễn kịch Tết, Nhà hát kịch TP.HCM trở lại sau 7 năm gián đoạn",
+      "link": "https://tuoitre.vn/vu-luan-lan-dau-dien-kich-tet-nha-hat-kich-tp-hcm-tro-lai-sau-7-nam-gian-doan-20260208095403914.htm",
+      "summary": "Đây là lần đầu tiên nghệ sĩ cải lương Vũ Luân diễn kịch Tết, vở Ra giêng anh cưới em 2 của Nhà hát kịch TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827434+07:00",
+      "fetched": "2026-02-08T15:30:01.827548+07:00"
+    },
+    {
+      "id": "6fc9497f973c0ae8fd6e4ed16fb0a69e",
+      "title": "Chủ tịch nước Lương Cường cùng kiều bào thả cá chép tiễn ông Công, ông Táo",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-cung-kieu-bao-tha-ca-chep-tien-ong-cong-ong-tao-20260208134348143.htm",
+      "summary": "Sáng 8-2 tại Hà Nội, Chủ tịch nước Lương Cường và Phu nhân cùng 100 kiều bào tiêu biểu đã dâng hương tại tượng đài vua Lý Thái Tổ và thực hiện nghi thức thả cá chép tại Đền Ngọc Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827309+07:00",
+      "fetched": "2026-02-08T15:30:01.827422+07:00"
+    },
+    {
+      "id": "f26d5a71fd790ba74b20774e07820bb4",
+      "title": "Võ Minh Lâm tặng khán giả hai MV xuân với màu sắc khác biệt",
+      "link": "https://tuoitre.vn/vo-minh-lam-tang-khan-gia-hai-mv-xuan-voi-mau-sac-khac-biet-20260208135208778.htm",
+      "summary": "Những ngày cận Tết, hotboy làng cải lương Võ Minh Lâm gởi đến công chúng 2 MV mừng xuân mới như tâm tình chàng kép trẻ muốn gởi gắm đến muôn người, muôn nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827177+07:00",
+      "fetched": "2026-02-08T15:30:01.827297+07:00"
+    },
+    {
+      "id": "a5bac55eca7906daec1b561b10f57bdd",
+      "title": "Tái hiện Lễ Mở cửa Ô, mở đầu mùa xuân Thăng Long, Hà Nội",
+      "link": "https://tuoitre.vn/tai-hien-le-mo-cua-o-mo-dau-mua-xuan-thang-long-ha-noi-20260208134034301.htm",
+      "summary": "Sáng 8-2 (tức 21 tháng Chạp), tại không gian Phố cổ Hà Nội diễn ra Chương trình 'Tết Việt - Tết Phố' Xuân Bính Ngọ 2026. Điểm nhấn đặc biệt là Lễ Mở cửa Ô tại Ô Quan Chưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.827034+07:00",
+      "fetched": "2026-02-08T15:30:01.827164+07:00"
+    },
+    {
+      "id": "270c1a9f99997d0940d885735d4f9296",
+      "title": "25 chuyến xe nghĩa tình chở hơn 1.000 sinh viên về quê ăn Tết",
+      "link": "https://tuoitre.vn/25-chuyen-xe-nghia-tinh-cho-hon-1-000-sinh-vien-ve-que-an-tet-20260208115407042.htm",
+      "summary": "Hơn 1.000 sinh viên xa quê đang trên 25 chuyến xe miễn phí rời TP.HCM trở về các tỉnh miền Trung dọc Quốc lộ 1 để sum họp cùng gia đình sau một năm học tập, làm việc xa nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826906+07:00",
+      "fetched": "2026-02-08T15:30:01.827023+07:00"
+    },
+    {
+      "id": "5567993c8a42efb91400d15217164ed7",
+      "title": "Mạ tôi làm tóc đón Tết",
+      "link": "https://tuoitre.vn/ma-toi-lam-toc-don-tet-20260208093056822.htm",
+      "summary": "Những ngày cận Tết, có một \"nhiệm vụ quan trọng\" mà mạ tôi luôn phải lo thu xếp thời gian để làm: đi làm tóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826776+07:00",
+      "fetched": "2026-02-08T15:30:01.826895+07:00"
+    },
+    {
+      "id": "869ac0ebfeb6ee3d9f23cdb838e1679e",
+      "title": "Dùng drone chở heo chuẩn bị Tết, cả làng mất điện nửa ngày trời",
+      "link": "https://tuoitre.vn/dung-drone-cho-heo-chuan-bi-tet-ca-lang-mat-dien-nua-ngay-troi-2026020808080916.htm",
+      "summary": "Việc dùng máy bay không người lái (done) vận chuyển lợn xuống núi ở Trung Quốc dẫn đến sự cố vướng đường dây cao thế, khiến một ngôi làng mất điện gần nửa ngày và kéo theo nguy cơ bị xử phạt vì bay trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826644+07:00",
+      "fetched": "2026-02-08T15:30:01.826763+07:00"
+    },
+    {
+      "id": "e5f8bd13e43d88781b90b41fb70b1cc0",
+      "title": "Thời trang phá cách của Bad Bunny, ngôi sao làm nên lịch sử Grammy 2026",
+      "link": "https://tuoitre.vn/thoi-trang-pha-cach-cua-bad-bunny-ngoi-sao-lam-nen-lich-su-grammy-2026-20260207160232386.htm",
+      "summary": "Bậc thầy trong nghệ thuật phối họa tiết, kết hợp những gam màu tưởng chừng đối chọi và thử nghiệm các chất liệu táo bạo, Bad Bunny sở hữu một phong cách không thể trộn lẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826512+07:00",
+      "fetched": "2026-02-08T15:30:01.826632+07:00"
+    },
+    {
+      "id": "611a7592ce67c10cfe680eaf6c896213",
+      "title": "Chen chân đến nửa đêm để sắm đồ diện Tết tại TP.HCM",
+      "link": "https://tuoitre.vn/chen-chan-den-nua-dem-de-sam-do-dien-tet-tai-tp-hcm-20260208133328165.htm",
+      "summary": "Tranh thủ cuối tuần cuối cùng trước kỳ nghỉ Tết, nhiều bạn trẻ đổ về phố thời trang để mua sắm quần áo, phụ kiện đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826378+07:00",
+      "fetched": "2026-02-08T15:30:01.826500+07:00"
+    },
+    {
+      "id": "01af0f21d03255b420cfccfd13e94275",
+      "title": "Phạm Thu Hà ra đĩa than Be my love",
+      "link": "https://tuoitre.vn/pham-thu-ha-ra-dia-than-be-my-love-20260208100912618.htm",
+      "summary": "\"Họa mi bán cổ điển\" Phạm Thu Hà phát hành đĩa than Be me love đúng dịp Valentine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.826225+07:00",
+      "fetched": "2026-02-08T15:30:01.826365+07:00"
+    },
+    {
+      "id": "2aec4c3968178e8401789931965284eb",
+      "title": "Hàn Quốc vùi dập Trung Quốc ở chung kết giải cầu lông châu Á",
+      "link": "https://tuoitre.vn/han-quoc-vui-dap-trung-quoc-o-chung-ket-giai-cau-long-chau-a-20260208135425381.htm",
+      "summary": "Trận chung kết nữ Giải vô địch đồng đội cầu lông châu Á diễn ra đầy chóng vánh, khi Hàn Quốc hoàn toàn áp đảo Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T15:30:01.825958+07:00",
+      "fetched": "2026-02-08T15:30:01.826207+07:00"
+    },
     {
       "id": "3da5281b351b8154c48bfd7b7c029b77",
       "title": "Cảm giác về quê ăn Tết áp lực hơn là niềm vui?",
@@ -421,6 +571,366 @@ window.newsData_2026_02_08 = {
       "category": "Tổng hợp",
       "published": "2026-02-08T09:21:50.742618+07:00",
       "fetched": "2026-02-08T09:21:50.742823+07:00"
+    },
+    {
+      "id": "3ed9236bbd34fb773ba495bddda3980d",
+      "title": "'Xuân sẻ chia - Tết yêu thương' đến với trẻ mồ côi, khó khăn",
+      "link": "https://thanhnien.vn/xuan-se-chia-tet-yeu-thuong-den-voi-tre-mo-coi-kho-khan-185260208152526424.htm",
+      "summary": "Trong không khí rộn ràng của những ngày cận tết, chương trình \"Xuân sẻ chia - Tết yêu thương\" đã mang niềm vui, sự sẻ chia kịp thời đến những trẻ em có hoàn cảnh khó khăn, mồ côi vì đại dịch Covid-19. Mùa xuân của các em nhờ thế cũng trở nên ấm áp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T08:27:00+07:00",
+      "fetched": "2026-02-08T15:30:00.791738+07:00"
+    },
+    {
+      "id": "6649e7d5d7d7f1d27af25c27fba2eaf8",
+      "title": "Những vấn đề thường gặp với loa soundbar giá rẻ",
+      "link": "https://thanhnien.vn/nhung-van-de-thuong-gap-voi-loa-soundbar-gia-re-185260204084008156.htm",
+      "summary": "Loa soundbar đã trở thành một trong những phát minh nổi bật cho hệ thống giải trí tại gia trong những năm gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T08:04:00+07:00",
+      "fetched": "2026-02-08T15:30:00.791906+07:00"
+    },
+    {
+      "id": "d6f8d94a61f519fa51012c1f2e8bafd7",
+      "title": "Diễn viên Hoàng Phúc tiết lộ hôn nhân với vợ kém 12 tuổi",
+      "link": "https://thanhnien.vn/dien-vien-hoang-phuc-tiet-lo-hon-nhan-voi-vo-kem-12-tuoi-185260208141817027.htm",
+      "summary": "Vào dịp cuối tuần, diễn viên Hoàng Phúc hâm nóng tình yêu cùng người bạn đời là Uyên Phương với buổi ra mắt một dự án phim điện ảnh. Vợ chồng \"ông trùm vai phản diện\" mặc trang phục đồng điệu, không ngại thể hiện tình cảm trước truyền thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T08:00:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792067+07:00"
+    },
+    {
+      "id": "02c9ec602d8b966827d71484d5b266aa",
+      "title": "Hơn một tỷ thiết bị Android không còn nhận được bản vá",
+      "link": "https://vnexpress.net/hon-mot-ty-thiet-bi-android-khong-con-nhan-duoc-ban-va-5015549.html",
+      "summary": "Hơn 40% thiết bị chạy Android toàn cầu không còn nhận được bản vá bảo mật, khiến khoảng một tỷ người sử dụng chúng đứng trước rủi ro tấn công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-08T08:00:00+07:00",
+      "fetched": "2026-02-08T15:30:07.339532+07:00"
+    },
+    {
+      "id": "adbf541b1bfdc0f696d122e9d90404f1",
+      "title": "Điểm sáng y tế mới tại cửa ngõ Tây Nam bộ",
+      "link": "https://thanhnien.vn/diem-sang-y-te-moi-tai-cua-ngo-tay-nam-bo-18526020814590776.htm",
+      "summary": "Chính thức đổi tên và thông tuyến bảo hiểm y tế từ tháng 8.2025, Bệnh viện Đa khoa Quốc tế Tân An đánh dấu bước ngoặt trở thành địa chỉ chăm sóc sức khỏe toàn diện, kỹ thuật cao với chi phí hợp lý cho người dân Long An Tây (nay là Tây Ninh) và vùng lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:57:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792243+07:00"
+    },
+    {
+      "id": "a43224f54e9f5304c316ab341b52e7fa",
+      "title": "Trường Giang khuyên Đình Bắc 'bớt đi sự kiện'",
+      "link": "https://thanhnien.vn/truong-giang-khuyen-dinh-bac-bot-di-su-kien-185260208145252352.htm",
+      "summary": "Khoảnh khắc trò chuyện của Trường Giang và cầu thủ Đình Bắc tại sự kiện lễ trao giải diễn ra ngày 7.2 được cộng đồng mạng quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:56:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792400+07:00"
+    },
+    {
+      "id": "0c6ac0e0194534bbc8cbb14875f52494",
+      "title": "6 trải nghiệm Tết Việt Nam khác biệt",
+      "link": "https://vnexpress.net/6-trai-nghiem-tet-viet-nam-khac-biet-5015636.html",
+      "summary": "Đến Côn Đảo đón giao thừa, ghé Cao Bằng ăn Tết ở nhà cổ trăm năm tuổi, đi chợ nổi Cái Trăng lúc bình minh nằm trong số những gợi ý cho khách tìm trải nghiệm khác biệt cho kỳ nghỉ Tết năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:51:13+07:00",
+      "fetched": "2026-02-08T15:29:57.744486+07:00"
+    },
+    {
+      "id": "521c4757f5ad634d59498e0ce02d0352",
+      "title": "Chuyển làn 12 lần trong 5 phút khi cao tốc Pháp Vân - Cầu Giẽ tắc dài",
+      "link": "https://vnexpress.net/chuyen-lan-12-lan-trong-5-phut-khi-cao-toc-phap-van-cau-gie-tac-dai-5015647.html",
+      "summary": "Thay vì kiễn nhẫn xếp hàng chờ đợi, tài xế xe bốn chỗ chỉ trong 5 phút đã chuyển làn qua lại, tạt đầu xe khác tới 12 lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:47:49+07:00",
+      "fetched": "2026-02-08T15:29:57.744667+07:00"
+    },
+    {
+      "id": "5adb2efbeca3a74ee318169fffe3d580",
+      "title": "3 phường ở Cà Mau ngưng gom rác 3 ngày tết: Có lo ứ rác, ô nhiễm?",
+      "link": "https://thanhnien.vn/3-phuong-o-ca-mau-ngung-gom-rac-3-ngay-tet-co-lo-u-rac-o-nhiem-185260208135649245.htm",
+      "summary": "Trước lo lắng của nhiều hộ dân về thông tin Trung tâm Dịch vụ đô thị Bạc Liêu tạm ngưng thu gom rác thải sinh hoạt trong 3 ngày Tết Nguyên đán Bính Ngọ 2026, lãnh đạo trung tâm đã nêu nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:43:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792553+07:00"
+    },
+    {
+      "id": "52e5a3f7d99814a4d87797a2d232cab0",
+      "title": "Rùa cảnh khổng lồ chuyên săn cá của nông dân",
+      "link": "https://vnexpress.net/rua-canh-khong-lo-chuyen-san-ca-cua-nong-dan-5015650.html",
+      "summary": "Chính quyền Hong Kong phát hiện một con rùa cảnh nặng gần 100 kg bị người nuôi thả rông ra hồ, chuyên săn trộm cá của nông dân trong vùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:42:52+07:00",
+      "fetched": "2026-02-08T15:29:57.744837+07:00"
+    },
+    {
+      "id": "52e5a3f7d99814a4d87797a2d232cab0",
+      "title": "Rùa cảnh khổng lồ chuyên săn cá của nông dân",
+      "link": "https://vnexpress.net/rua-canh-khong-lo-chuyen-san-ca-cua-nong-dan-5015650.html",
+      "summary": "Chính quyền Hong Kong phát hiện một con rùa cảnh nặng gần 100 kg bị người nuôi thả rông ra hồ, chuyên săn trộm cá của nông dân trong vùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T07:42:52+07:00",
+      "fetched": "2026-02-08T15:30:02.926409+07:00"
+    },
+    {
+      "id": "877b2252509590725ef1f006de960c1a",
+      "title": "Tập đoàn T&T Group và hành trình 'Vươn mình ra biển lớn' tại WeChoice Awards 2025",
+      "link": "https://thanhnien.vn/tap-doan-tt-group-va-hanh-trinh-vuon-minh-ra-bien-lon-tai-wechoice-awards-2025-185260208144446888.htm",
+      "summary": "Tối 7.2, tại Lễ trao giải WeChoice Awards 2025, Tập đoàn T&T Group đã được vinh danh tại hạng mục 'Vươn mình ra biển lớn'. Đây là giải thưởng do Hội đồng chuyên môn WeChoice bình chọn, nhằm ghi nhận và tôn vinh những doanh nghiệp Việt Nam có nội lực phát triển mạnh mẽ, tinh thần dấn thân và đóng góp...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:31:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792713+07:00"
+    },
+    {
+      "id": "010963cb3d472bccfece9bce4a81ae67",
+      "title": "Đường hoa xuân Hà Nội được UNESCO vinh danh",
+      "link": "https://vnexpress.net/duong-hoa-xuan-ha-noi-duoc-unesco-vinh-danh-5015660.html",
+      "summary": "Đường hoa Home Hanoi Xuan tại Mailand Hanoi City được UNESCO trao chứng nhận sáng kiến tiêu biểu trong sự kiện khai mạc tối ngày 7/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:30:00+07:00",
+      "fetched": "2026-02-08T15:29:57.745005+07:00"
+    },
+    {
+      "id": "ab02e66d280d9a47749bcc4163070e53",
+      "title": "Cơn lốc hồi hương của du học sinh Trung Quốc",
+      "link": "https://vnexpress.net/con-loc-hoi-huong-cua-du-hoc-sinh-trung-quoc-5014030.html",
+      "summary": "Lượng du học sinh hồi hương sau tốt nghiệp cao kỷ lục, chấp nhận về các thành phố nhỏ để nắm bắt cơ hội trong các ngành công nghệ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:29:25+07:00",
+      "fetched": "2026-02-08T15:29:57.745203+07:00"
+    },
+    {
+      "id": "3c7085d4cdca30fd50f5a72660ee0c02",
+      "title": "Xuân biên giới - Tết biển đảo sưởi ấm vùng bão lũ Gia Lai",
+      "link": "https://thanhnien.vn/xuan-bien-gioi-tet-bien-dao-suoi-am-vung-bao-lu-gia-lai-185260208130953299.htm",
+      "summary": "Thông qua chương trình Xuân biên giới - Tết biển đảo, hàng trăm suất quà được trao cho người dân, học sinh xã Tuy Phước, Gia Lai, thể hiện trách nhiệm, sự sẻ chia của tuổi trẻ với vùng thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:23:00+07:00",
+      "fetched": "2026-02-08T15:30:00.792868+07:00"
+    },
+    {
+      "id": "c46e9b8aea35c61ed2e8f5b01bb73cae",
+      "title": "Thế giới trong tuần qua ảnh",
+      "link": "https://vnexpress.net/the-gioi-trong-tuan-qua-anh-5015331.html",
+      "summary": "Iran ngỏ ý đàm phán hạt nhân với Mỹ, EU cân nhắc áp gói trừng phạt thứ 20 với Moskva, tướng Nga bị bắn ở thủ đô là những sự kiện nổi bật trong tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:21:33+07:00",
+      "fetched": "2026-02-08T15:29:57.745371+07:00"
+    },
+    {
+      "id": "c46e9b8aea35c61ed2e8f5b01bb73cae",
+      "title": "Thế giới trong tuần qua ảnh",
+      "link": "https://vnexpress.net/the-gioi-trong-tuan-qua-anh-5015331.html",
+      "summary": "Iran ngỏ ý đàm phán hạt nhân với Mỹ, EU cân nhắc áp gói trừng phạt thứ 20 với Moskva, tướng Nga bị bắn ở thủ đô là những sự kiện nổi bật trong tuần qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T07:21:33+07:00",
+      "fetched": "2026-02-08T15:30:02.926589+07:00"
+    },
+    {
+      "id": "bd5d1313589591951c764e1daec77aab",
+      "title": "Hội đồng Hòa bình của ông Trump sắp triệu tập phiên họp đầu tiên",
+      "link": "https://vnexpress.net/hoi-dong-hoa-binh-cua-ong-trump-sap-trieu-tap-phien-hop-dau-tien-5015623.html",
+      "summary": "Quan chức chính phủ Mỹ cho biết Hội đồng Hòa bình sắp tổ chức cuộc gặp lãnh đạo đầu tiên, trong đó có bàn bạc về vấn đề Dải Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:14:57+07:00",
+      "fetched": "2026-02-08T15:29:57.745528+07:00"
+    },
+    {
+      "id": "bd5d1313589591951c764e1daec77aab",
+      "title": "Hội đồng Hòa bình của ông Trump sắp triệu tập phiên họp đầu tiên",
+      "link": "https://vnexpress.net/hoi-dong-hoa-binh-cua-ong-trump-sap-trieu-tap-phien-hop-dau-tien-5015623.html",
+      "summary": "Quan chức chính phủ Mỹ cho biết Hội đồng Hòa bình sắp tổ chức cuộc gặp lãnh đạo đầu tiên, trong đó có bàn bạc về vấn đề Dải Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-08T07:14:57+07:00",
+      "fetched": "2026-02-08T15:30:02.926756+07:00"
+    },
+    {
+      "id": "7a0d58b4f71a7a8228365a993c4c9581",
+      "title": "Carragher: 'Nên trân trọng từng phút còn lại của Guardiola tại Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/carragher-nen-tran-trong-tung-phut-con-lai-cua-guardiola-tai-ngoai-hang-anh-5015672.html",
+      "summary": "Trong bài viết mới trên Telegraph, cựu danh thủ Jamie Carragher khẳng định Pep Guardiola là HLV bóng đá vĩ đại nhất nhưng không còn nhiều thời gian ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:13:30+07:00",
+      "fetched": "2026-02-08T15:29:57.745696+07:00"
+    },
+    {
+      "id": "7a0d58b4f71a7a8228365a993c4c9581",
+      "title": "Carragher: 'Nên trân trọng từng phút còn lại của Guardiola tại Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/carragher-nen-tran-trong-tung-phut-con-lai-cua-guardiola-tai-ngoai-hang-anh-5015672.html",
+      "summary": "Trong bài viết mới trên Telegraph, cựu danh thủ Jamie Carragher khẳng định Pep Guardiola là HLV bóng đá vĩ đại nhất nhưng không còn nhiều thời gian ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-08T07:13:30+07:00",
+      "fetched": "2026-02-08T15:30:08.231959+07:00"
+    },
+    {
+      "id": "a74a8efc396573d2bb424b074af3049e",
+      "title": "Cây mai vàng hơn 70 năm tuổi được 'hét giá' 3,5 tỉ đồng: Chủ khẳng định độc nhất vô nhị",
+      "link": "https://thanhnien.vn/cay-mai-vang-hon-70-nam-tuoi-duoc-het-gia-35-ti-dong-chu-khang-dinh-doc-nhat-vo-nhi-185260208110907952.htm",
+      "summary": "Một cây mai vàng hơn 70 năm tuổi ở xã Tư Nghĩa, tỉnh Quảng Ngãi gây xôn xao khi chủ nhân hét giá 3,5 tỉ đồng, đồng thời khẳng định đây là cây mai độc nhất vô nhị ở vùng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:08:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793019+07:00"
+    },
+    {
+      "id": "0a121baf914e695864e25d4d74528132",
+      "title": "Đột kích quán bar trung tâm TP.HCM nửa đêm, phát hiện 17 người dương tính ma túy",
+      "link": "https://thanhnien.vn/dot-kich-quan-bar-trung-tam-tphcm-nua-dem-phat-hien-17-nguoi-duong-tinh-ma-tuy-185260208144615467.htm",
+      "summary": "Công an TP.HCM kiểm tra hành chính quán bar APLUS (phường Cầu Ông Lãnh, quận 1 cũ) và phát hiện 17 trường hợp dương tính với chất ma túy, 2 trường hợp nghi vấn tàng trữ trái phép chất ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:07:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793202+07:00"
+    },
+    {
+      "id": "927f400451ab8d4e1820b56f31a97559",
+      "title": "Công an Gia Lai bàn giao 23 căn nhà đại đoàn kết cho hộ đặc biệt khó khăn",
+      "link": "https://thanhnien.vn/cong-an-gia-lai-ban-giao-23-can-nha-dai-doan-ket-cho-ho-dac-biet-kho-khan-185260208142229997.htm",
+      "summary": "Công an tỉnh Gia Lai phối hợp Cục V05 Bộ Công an và các nhà hảo tâm bàn giao 23 căn nhà đại đoàn kết cho hộ đặc biệt khó khăn tại xã Phú Túc và xã Ia Rsai, góp phần ổn định đời sống người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:03:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793364+07:00"
+    },
+    {
+      "id": "5ed6a4c9552e9a80ccaba234f7bb6cfa",
+      "title": "Lưu ý khi uống sữa đặc có đường",
+      "link": "https://vnexpress.net/luu-y-khi-uong-sua-dac-co-duong-5015381.html",
+      "summary": "Sữa đặc có đường thời hạn sử dụng lâu hơn sữa thông thường, có thể linh hoạt sử dụng trong nhiều món ăn, đồ uống song chứa nhiều calo nên dễ gây tăng cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:29:57.745863+07:00"
+    },
+    {
+      "id": "c71111535e1fa55cca437970bed08f04",
+      "title": "Đi bộ 1.400 km về quê, chàng trai giảm 25 kg và hết sạch mỡ máu",
+      "link": "https://vnexpress.net/di-bo-1-400-km-ve-que-chang-trai-giam-25-kg-va-het-sach-mo-mau-5015253.html",
+      "summary": "Mắc bệnh viêm tụy cấp tái phát nhiều lần, anh Vương quyết định đi bộ 33 ngày từ Thượng Hải về Hồ Bắc, giúp đẩy lùi mỡ máu và giảm 25 kg, tuy nhiên chuyên gia y tế khuyến cáo người dân không bắt chước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:29:57.746024+07:00"
+    },
+    {
+      "id": "22015883c1372a7784b34cd6c1f617c5",
+      "title": "Di chuyển que diêm nào để 8 - 1 = 10 đúng?",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-8-1-10-dung-5015167.html",
+      "summary": "Chỉ với một que diêm nhỏ bé, bạn có thể biến một phép tính sai lè thành hoàn toàn chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:29:57.746205+07:00"
+    },
+    {
+      "id": "a4c4d2396e8bd37e6581d5437bf095b7",
+      "title": "Jingdong Logistics hoàn tất đơn nhanh nhờ hệ thống xử lý thùng hàng",
+      "link": "https://vnexpress.net/jingdong-logistics-hoan-tat-don-nhanh-nho-he-thong-xu-ly-thung-hang-5012862.html",
+      "summary": "Hệ thống Goods-to-Person LangzuTech của Jingdong Logistics giúp doanh nghiệp đáp ứng biến động đơn hàng, tăng mật độ lưu trữ và nâng hiệu quả kho thông minh trong bối cảnh thương mại điện tử phát triển mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:29:57.746365+07:00"
+    },
+    {
+      "id": "6cc0ce5a12064a95643df3fed0058cf2",
+      "title": "Va chạm giao thông, 2 tài xế dùng kéo và rựa lao vào 'hỗn chiến'",
+      "link": "https://thanhnien.vn/va-cham-giao-thong-2-tai-xe-dung-keo-va-rua-lao-vao-hon-chien-185260208132602872.htm",
+      "summary": "Qua xác minh của cơ quan chức năng, vụ xô xát giữa 2 tài xế xảy ra ở khu vực Cửa khẩu quốc tế Cha Lo (xã Dân Hóa, Quảng Trị) có sử dụng rựa và kéo để tấn công nhau, gây thương tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793520+07:00"
+    },
+    {
+      "id": "22b0132681746b1361af3c3922318a23",
+      "title": "Trang phục họa tiết vân đá mang nét thanh tao ngày xuân",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-hoa-tiet-van-da-mang-net-thanh-tao-ngay-xuan-18526020715391734.htm",
+      "summary": "Họa tiết vân đá mang đến lựa chọn mới mẻ nhờ hiệu ứng loang màu tự nhiên, những đường vân mềm giúp trang phục có điểm nhấn vừa phải, phù hợp với nhiều phong cách khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T07:00:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793672+07:00"
+    },
+    {
+      "id": "191c016f2f084aff02a722fc20c27262",
+      "title": "Thanh Thúy cùng CLB Gunma Green Wings 'lột xác', quật ngã đội ĐKVĐ giải Nhật Bản",
+      "link": "https://thanhnien.vn/thanh-thuy-cung-clb-gunma-green-wings-lot-xac-quat-nga-doi-dkvd-giai-nhat-ban-185260208134352075.htm",
+      "summary": "Trần Thị Thanh Thúy cùng CLB Gunma Green Wings có trận đấu bùng nổ, vượt qua đội đương kim vô địch (ĐKVĐ) Osaka Marvelous tại giải bóng chuyền vô địch Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T06:59:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793820+07:00"
+    },
+    {
+      "id": "9c3fffee0ef25f5f47d5312d011b178d",
+      "title": "Chưa đến tết nhưng… hết vé máy bay trở lại TP.HCM sau tết",
+      "link": "https://thanhnien.vn/chua-den-tet-nhung-het-ve-may-bay-tro-lai-tphcm-sau-tet-185260208122828714.htm",
+      "summary": "Nay mới 21 tháng chạp, nhưng nhiều người trẻ ta thán việc không thể tìm vé máy bay trở lại TP.HCM sau Tết Nguyên đán 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T06:54:00+07:00",
+      "fetched": "2026-02-08T15:30:00.793973+07:00"
+    },
+    {
+      "id": "a71e7b22596d872f95b65e08281b8fe4",
+      "title": "Ý tưởng mở kho vàng cứu nền kinh tế ở Lebanon",
+      "link": "https://vnexpress.net/y-tuong-mo-kho-vang-cuu-nen-kinh-te-o-lebanon-5015492.html",
+      "summary": "Sở hữu kho vàng thuộc hàng lớn nhất Trung Đông, chính phủ Lebanon muốn dùng dự trữ này để khôi phục nền kinh tế nhưng quốc hội phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T06:48:38+07:00",
+      "fetched": "2026-02-08T15:29:57.746526+07:00"
+    },
+    {
+      "id": "a71e7b22596d872f95b65e08281b8fe4",
+      "title": "Ý tưởng mở kho vàng cứu nền kinh tế ở Lebanon",
+      "link": "https://vnexpress.net/y-tuong-mo-kho-vang-cuu-nen-kinh-te-o-lebanon-5015492.html",
+      "summary": "Sở hữu kho vàng thuộc hàng lớn nhất Trung Đông, chính phủ Lebanon muốn dùng dự trữ này để khôi phục nền kinh tế nhưng quốc hội phản đối.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-08T06:48:38+07:00",
+      "fetched": "2026-02-08T15:30:04.655162+07:00"
+    },
+    {
+      "id": "7593980ed3064cbb51c3c951d76dc363",
+      "title": "Chủ tịch nước Lương Cường thả cá chép hồ Hoàn Kiếm",
+      "link": "https://vnexpress.net/chu-tich-nuoc-luong-cuong-tha-ca-chep-ho-hoan-kiem-5015655.html",
+      "summary": "Sáng 8/2, Chủ tịch nước Lương Cường và phu nhân cùng 100 kiều bào dâng hương tại tượng đài vua Lý Thái Tổ, đền Ngọc Sơn và thả cá chép tại hồ Hoàn Kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T06:46:23+07:00",
+      "fetched": "2026-02-08T15:29:57.746690+07:00"
+    },
+    {
+      "id": "cb70263e65dbb1870c30665f5391684e",
+      "title": "Hội thư pháp tại ngôi miếu 300 tuổi của người Hoa ở TP HCM",
+      "link": "https://vnexpress.net/hoi-thu-phap-tai-ngoi-mieu-300-tuoi-cua-nguoi-hoa-o-tp-hcm-5015646.html",
+      "summary": "Cộng đồng người Hoa tổ chức hội chợ thư pháp, gây quỹ lo Tết cho người khó khăn tại Miếu Nhị Phủ, phường Chợ Lớn, sáng 8/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-08T06:45:52+07:00",
+      "fetched": "2026-02-08T15:29:57.746845+07:00"
     },
     {
       "id": "e1e0bbebd366e551278099d51d9c199c",
