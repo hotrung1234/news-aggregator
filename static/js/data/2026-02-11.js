@@ -1,7 +1,57 @@
 window.newsData_2026_02_11 = {
   "date": "2026-02-11",
-  "lastUpdated": "2026-02-11T00:00:15.771236+07:00",
+  "lastUpdated": "2026-02-11T02:01:46.587918+07:00",
   "articles": [
+    {
+      "id": "6cd6dafee92d624e4abf473589b4e707",
+      "title": "Linh vật Phú Yên lên đèn, du khách nối đuôi nhau đến check-in",
+      "link": "https://tuoitre.vn/linh-vat-phu-yen-len-den-du-khach-noi-duoi-nhau-den-check-in-20260210211738976.htm",
+      "summary": "Đường hoa xuân Tuy Hòa, Phú Yên (nay là Đắk Lắk) lên đèn rực rỡ với linh vật cùng nhiều đại cảnh nổi bật, thu hút đông đảo người dân và du khách đến tham quan, chụp ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T02:01:40.482785+07:00",
+      "fetched": "2026-02-11T02:01:40.482910+07:00"
+    },
+    {
+      "id": "0f195f506430e18ba3cc6ed8d77164eb",
+      "title": "Tổng Bí thư Tô Lâm thắp hương tưởng nhớ các cố Tổng Bí thư và Đại tướng Võ Nguyên Giáp",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-thap-huong-tuong-nho-cac-co-tong-bi-thu-va-dai-tuong-vo-nguyen-giap-20260210222341365.htm",
+      "summary": "Tổng Bí thư Tô Lâm đã đến thắp hương tưởng niệm các cố Tổng Bí thư Trường Chinh, Lê Duẩn, Đỗ Mười, Lê Khả Phiêu, Nguyễn Phú Trọng và Đại tướng Võ Nguyên Giáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T02:01:40.482652+07:00",
+      "fetched": "2026-02-11T02:01:40.482773+07:00"
+    },
+    {
+      "id": "4572c2ca0ea04602013f9a0ff092d87c",
+      "title": "TP.HCM tổ chức chương trình 'Giai điệu hữu nghị', lan tỏa thông điệp đoàn kết, hợp tác quốc tế",
+      "link": "https://tuoitre.vn/tp-hcm-to-chuc-chuong-trinh-giai-dieu-huu-nghi-lan-toa-thong-diep-doan-ket-hop-tac-quoc-te-202602102240088.htm",
+      "summary": "Chương trình “Giai điệu hữu nghị” mừng Xuân Bính Ngọ 2026 diễn ra tại Trường ĐH Sư phạm TP.HCM tối 10-2, góp phần tăng cường giao lưu văn hóa, thắt chặt tình hữu nghị giữa TP.HCM với bạn bè quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T02:01:40.482515+07:00",
+      "fetched": "2026-02-11T02:01:40.482640+07:00"
+    },
+    {
+      "id": "807c1e34e1e2df75281892a0a24a82fc",
+      "title": "Mỹ tụt hạng kỷ lục trên chỉ số tham nhũng toàn cầu: Do chính sách ông Trump?",
+      "link": "https://tuoitre.vn/my-tut-hang-ky-luc-tren-chi-so-tham-nhung-toan-cau-do-chinh-sach-ong-trump-20260210230057242.htm",
+      "summary": "Đánh giá về mức độ minh bạch của khu vực công tại Mỹ đang cho thấy xu hướng suy giảm rõ rệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T02:01:40.482367+07:00",
+      "fetched": "2026-02-11T02:01:40.482501+07:00"
+    },
+    {
+      "id": "85a702806b56fa85546928b9a25ac1d5",
+      "title": "Các đội bóng Trung Quốc chơi tệ chưa từng thấy ở AFC Champions League",
+      "link": "https://tuoitre.vn/cac-doi-bong-trung-quoc-choi-te-chua-tung-thay-o-afc-champions-league-20260210231508428.htm",
+      "summary": "Bóng đá Trung Quốc phải nhận một cú sốc lớn ở giai đoạn vòng bảng AFC Champions League mùa giải năm nay, khi cả ba đại diện của họ đều rơi xuống vị trí bét bảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T02:01:40.482131+07:00",
+      "fetched": "2026-02-11T02:01:40.482352+07:00"
+    },
     {
       "id": "b71ec83b1473c9a0bc606aef5307d77d",
       "title": "CLB Đà Nẵng 'ngồi trên lửa' trước kỳ nghỉ Tết Bính Ngọ",
@@ -153,6 +203,86 @@ window.newsData_2026_02_11 = {
       "fetched": "2026-02-11T00:00:09.612929+07:00"
     },
     {
+      "id": "e6d103e80618a1c58f3153d6ce4f6be7",
+      "title": "Tình trạng 'trắng bệ' khiến Patriot Ukraine chịu trận trước Iskander-M",
+      "link": "https://vnexpress.net/tinh-trang-trang-be-khien-patriot-ukraine-chiu-tran-truoc-iskander-m-5019559.html",
+      "summary": "Nhiều khẩu đội Patriot Ukraine dường như đã rơi vào tình trạng trắng bệ, không còn đạn chiến đấu, khiến tên lửa Iskander-M liên tiếp vượt qua lưới phòng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T18:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.183512+07:00"
+    },
+    {
+      "id": "e6d103e80618a1c58f3153d6ce4f6be7",
+      "title": "Tình trạng 'trắng bệ' khiến Patriot Ukraine chịu trận trước Iskander-M",
+      "link": "https://vnexpress.net/tinh-trang-trang-be-khien-patriot-ukraine-chiu-tran-truoc-iskander-m-5019559.html",
+      "summary": "Nhiều khẩu đội Patriot Ukraine dường như đã rơi vào tình trạng trắng bệ, không còn đạn chiến đấu, khiến tên lửa Iskander-M liên tiếp vượt qua lưới phòng không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T18:00:00+07:00",
+      "fetched": "2026-02-11T02:01:41.580718+07:00"
+    },
+    {
+      "id": "4d2e23be1d3b3399815b36a32315bac4",
+      "title": "Bạn hiểu gì về 'mùa đông tiền số'?",
+      "link": "https://vnexpress.net/ban-hieu-gi-ve-mua-dong-tien-so-5017809.html",
+      "summary": "Giá giảm kéo dài không đơn thuần là may rủi, mà phản ánh quy luật của \"mùa đông tiền số\" - giai đoạn có quy luật và bài học riêng cho nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:05:00+07:00",
+      "fetched": "2026-02-11T02:01:36.183692+07:00"
+    },
+    {
+      "id": "4d2e23be1d3b3399815b36a32315bac4",
+      "title": "Bạn hiểu gì về 'mùa đông tiền số'?",
+      "link": "https://vnexpress.net/ban-hieu-gi-ve-mua-dong-tien-so-5017809.html",
+      "summary": "Giá giảm kéo dài không đơn thuần là may rủi, mà phản ánh quy luật của \"mùa đông tiền số\" - giai đoạn có quy luật và bài học riêng cho nhà đầu tư.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-10T17:05:00+07:00",
+      "fetched": "2026-02-11T02:01:43.099244+07:00"
+    },
+    {
+      "id": "c98e2f56ca994ce17a54ac82c842f62a",
+      "title": "Tài xế xe Bentley đuổi đánh người gây náo loạn bị triệu tập",
+      "link": "https://vnexpress.net/tai-xe-xe-bentley-duoi-danh-nguoi-gay-nao-loan-bi-trieu-tap-5039789.html",
+      "summary": "Cảnh sát xác định, Mã Thanh - tài xế xe Bentley, và bạn là Ngô Duy Đông đã đuổi đánh người ngồi trên ôtô đã va chạm, gây náo loạn trung tâm thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:04:25+07:00",
+      "fetched": "2026-02-11T02:01:36.183857+07:00"
+    },
+    {
+      "id": "5215ce14a92d279328efc97892695bbb",
+      "title": "Bóng đá Việt Nam làm được điều rất đặc biệt, AFC lập tức trao vé dự ASIAD 2026",
+      "link": "https://thanhnien.vn/bong-da-viet-nam-lam-duoc-dieu-rat-dac-biet-de-afc-trao-ve-du-asiad-2026-185260210235405075.htm",
+      "summary": "Theo ASEAN Football, số lượng đội tham dự ASIAD 20 năm 2026 đã được thông qua và bóng đá Việt Nam đón nhận tin vui.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:04:00+07:00",
+      "fetched": "2026-02-11T02:01:39.429848+07:00"
+    },
+    {
+      "id": "96949397dff5e0d7e55fc88bcb029bac",
+      "title": "7 nhóm thực phẩm nên hạn chế để giảm nguy cơ ung thư",
+      "link": "https://vnexpress.net/7-nhom-thuc-pham-nen-han-che-de-giam-nguy-co-ung-thu-5015676.html",
+      "summary": "Các chuyên gia báo động thịt chế biến sẵn, bánh kẹo, bánh mì siêu thị... chứa chất bảo quản công nghiệp gây hại cơ thể, dễ dẫn đến ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:03:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184039+07:00"
+    },
+    {
+      "id": "32d9c17d1dde034001b18e1952198760",
+      "title": "Ba con giáp may mắn siêu cấp từ ngày 10/2",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-11-2-tu-10-2-3-con-giap-may-man-sieu-cap-cua-cai-bung-no-5030551.html",
+      "summary": "Những nỗ lực âm thầm trong suốt thời gian trước đó nay bắt đầu sinh trái ngọt, giống như hạt giống kiên nhẫn chờ ngày nảy mầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:02:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184214+07:00"
+    },
+    {
       "id": "95c27ba8210845f5869c00bb7190d78a",
       "title": "Liêm chính bóng đá phải được bảo vệ, CAS không thể đảo ngược công lý",
       "link": "https://thanhnien.vn/liem-chinh-bong-da-phai-duoc-bao-ve-cas-khong-the-dao-nguoc-cong-ly-185260210224405781.htm",
@@ -171,6 +301,136 @@ window.newsData_2026_02_11 = {
       "category": "Tổng hợp",
       "published": "2026-02-10T17:00:00+07:00",
       "fetched": "2026-02-11T00:00:08.580635+07:00"
+    },
+    {
+      "id": "0f4996023c31f7108172883acfc238ad",
+      "title": "Siết chặt kiểm định khí thải ôtô từ 1/3",
+      "link": "https://vnexpress.net/siet-chat-kiem-dinh-khi-thai-oto-tu-1-3-5039779.html",
+      "summary": "Từ 1/3, các trung tâm đăng kiểm áp dụng quy trình kiểm định khí thải ôtô nghiêm ngặt hơn theo lộ trình mới, yêu cầu nhiều phương tiện, nhất là ôtô diesel, phải đáp ứng tiêu chuẩn cao hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184370+07:00"
+    },
+    {
+      "id": "0dea71bcf896dd032689707fb9645d7d",
+      "title": "Cấp giấy chứng nhận kiểm định điện tử cho ôtô từ 1/3",
+      "link": "https://vnexpress.net/cap-giay-chung-nhan-kiem-dinh-dien-tu-cho-oto-tu-1-3-5039774.html",
+      "summary": "Từ 1/3, trung tâm đăng kiểm sẽ cấp giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường bản điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184523+07:00"
+    },
+    {
+      "id": "82280a2537b37706d828e416202a432c",
+      "title": "Khách Tây chèo SUP trên sông, được cả xóm miền Tây chào đón",
+      "link": "https://vnexpress.net/khach-tay-cheo-sup-tren-song-duoc-ca-xom-mien-tay-chao-don-5039735.html",
+      "summary": "Đi phượt bằng SUP trên sông, du khách Hungary được đại gia đình ở An Giang mời cơm, cho ngủ nhờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184680+07:00"
+    },
+    {
+      "id": "2208efe7d85eaeac850d16ba83be9458",
+      "title": "Sau trận ốm, tôi chia tay chồng bạc bẽo, ngừng tâm sự với mẹ đẻ",
+      "link": "https://vnexpress.net/sau-tran-om-toi-chia-tay-chong-bac-beo-ngung-tam-su-voi-me-de-5039712.html",
+      "summary": "Tôi từng ốm nặng đến mức phải nhập viện, trong khi người chồng nghiện ngập lại đi nhậu, trong túi tôi không có nổi một đồng để ăn trưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.184842+07:00"
+    },
+    {
+      "id": "1a3e36fb26fb297bc9ad6d746c6fc040",
+      "title": "Sụp đổ nghỉ hưu sớm vì tin 'cho thuê nhà tháng kiếm 70 triệu'",
+      "link": "https://vnexpress.net/nghi-huu-som-o-tuoi-45-vi-cho-thue-nha-thang-kiem-70-trieu-5039682.html",
+      "summary": "Những buổi cà phê giữa giờ hành chính sau khi nghỉ hưu sớm, bạn tôi thường cười nói đầy tự hào: 'Làm đủ rồi, giờ sống cho mình thôi'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185016+07:00"
+    },
+    {
+      "id": "812b93476ee4387deb3e4ca829003f75",
+      "title": "Làng bánh chưng Thủy Đường vào vụ Tết Bính Ngọ",
+      "link": "https://vnexpress.net/lang-banh-chung-thuy-duong-vao-vu-tet-binh-ngo-5039653.html",
+      "summary": "Cận Tết Bính Ngọ, làng Thủy Đường sực mùi nếp, tiêu bắc khi các hộ làm nghề hối hả gói hàng chục nghìn bánh chưng bán ra thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185177+07:00"
+    },
+    {
+      "id": "9222489c312dc7fd6a1514ec78ecc134",
+      "title": "Người dân lội bùn, bắc ván vào nhà trên đường Nguyễn Tuân",
+      "link": "https://vnexpress.net/nguoi-dan-loi-bun-bac-van-vao-nha-tren-duong-nguyen-tuan-5039577.html",
+      "summary": "Quá trình mở rộng đường Nguyễn Tuân, nối hai tuyến xuyên tâm lớn phía tây Hà Nội, gây nhiều phiền toái khi bùn đất ngổn ngang, người dân phải bắc ván để vào nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185330+07:00"
+    },
+    {
+      "id": "a2689a2bc67464eef3eef08968088081",
+      "title": "'Tầm Tần ký' - màn đối đầu giữa Lâm Phong và Cổ Thiên Lạc",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/back-to-the-past-876",
+      "summary": "Cảnh sát Hạng Thiếu Long - Cổ Thiên Lạc đóng - chạm trán Triệu Bàn (Lâm Phong), người được anh nâng đỡ lên ngôi vua, trong phim \"Tầm Tần ký\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185480+07:00"
+    },
+    {
+      "id": "0671275419de8f30ee78baa3384b72d2",
+      "title": "Đảng Cộng hòa 'ngồi trên đống lửa' khi ông Trump thờ ơ với bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/dang-cong-hoa-ngoi-tren-dong-lua-khi-ong-trump-tho-o-voi-bau-cu-giua-ky-5039387.html",
+      "summary": "Nhiều đảng viên Cộng hòa đang lo lắng trước việc Tổng thống Trump kém nhiệt huyết trước cuộc bầu cử giữa kỳ, khiến vị thế của họ trở nên bấp bênh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185634+07:00"
+    },
+    {
+      "id": "dbeb10d62166599fa4e8ec9e95798619",
+      "title": "Xử lý quần áo cũ đúng cách để giảm 'rác thải thời trang'",
+      "link": "https://vnexpress.net/xu-ly-quan-ao-cu-dung-cach-de-giam-rac-thai-thoi-trang-5029135.html",
+      "summary": "Ngành thời trang thải ra 92 triệu tấn rác mỗi năm, nhưng ít người biết thói quen \"dọn tủ\" từ thiện thiếu chọn lọc đang góp phần làm trầm trọng thêm con số này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:36.185790+07:00"
+    },
+    {
+      "id": "0671275419de8f30ee78baa3384b72d2",
+      "title": "Đảng Cộng hòa 'ngồi trên đống lửa' khi ông Trump thờ ơ với bầu cử giữa kỳ",
+      "link": "https://vnexpress.net/dang-cong-hoa-ngoi-tren-dong-lua-khi-ong-trump-tho-o-voi-bau-cu-giua-ky-5039387.html",
+      "summary": "Nhiều đảng viên Cộng hòa đang lo lắng trước việc Tổng thống Trump kém nhiệt huyết trước cuộc bầu cử giữa kỳ, khiến vị thế của họ trở nên bấp bênh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:41.580898+07:00"
+    },
+    {
+      "id": "dbeb10d62166599fa4e8ec9e95798619",
+      "title": "Xử lý quần áo cũ đúng cách để giảm 'rác thải thời trang'",
+      "link": "https://vnexpress.net/xu-ly-quan-ao-cu-dung-cach-de-giam-rac-thai-thoi-trang-5029135.html",
+      "summary": "Ngành thời trang thải ra 92 triệu tấn rác mỗi năm, nhưng ít người biết thói quen \"dọn tủ\" từ thiện thiếu chọn lọc đang góp phần làm trầm trọng thêm con số này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:43.099415+07:00"
+    },
+    {
+      "id": "361eb33cf2970e47c2c6eaca5ccc2b41",
+      "title": "LĐBĐ châu Á: 'Malaysia có 50% khả năng thắng kiện FIFA'",
+      "link": "https://vnexpress.net/ldbd-chau-a-malaysia-co-50-kha-nang-thang-kien-fifa-5039729.html",
+      "summary": "Tổng thư ký LĐBĐ châu Á (AFC), Windsor Paul John cho rằng vụ kiện giữa LĐBĐ Malaysia (FAM) và FIFA đang có những chuyển biến tích cực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-10T17:00:00+07:00",
+      "fetched": "2026-02-11T02:01:46.582792+07:00"
     },
     {
       "id": "42919b3e27a15962bc0adae8d3b7fcaa",
