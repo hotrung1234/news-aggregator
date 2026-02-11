@@ -1,7 +1,47 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T00:02:05.208007+07:00",
+  "lastUpdated": "2026-02-12T01:58:56.973036+07:00",
   "articles": [
+    {
+      "id": "04b3fca9849bd5d5b944743bc2ab1dd2",
+      "title": "HLV Polking: 'Đình Bắc còn phải học nhiều', mong truyền thông và người hâm mộ 'kiên nhẫn'",
+      "link": "https://tuoitre.vn/hlv-polking-dinh-bac-con-phai-hoc-nhieu-mong-truyen-thong-va-nguoi-ham-mo-kien-nhan-20260211221924453.htm",
+      "summary": "HLV trưởng Alexandre Polking của Công An Hà Nội mong truyền thông và người hâm mộ kiên nhẫn với Nguyễn Đình Bắc và cũng nhắn nhủ cầu thủ này còn nhiều điều phải học để tiến bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T01:58:49.351464+07:00",
+      "fetched": "2026-02-12T01:58:49.351560+07:00"
+    },
+    {
+      "id": "7a345ae1ebb0f9025cdc7562f9a48892",
+      "title": "NATO khởi động sứ mệnh quân sự mới trước tham vọng kiểm soát Greenland của Mỹ",
+      "link": "https://tuoitre.vn/nato-khoi-dong-su-menh-quan-su-moi-truoc-tham-vong-kiem-soat-greenland-cua-my-20260211221339121.htm",
+      "summary": "NATO triển khai sứ mệnh mới mang tên Arctic Sentry, nhằm tăng cường an ninh tại khu vực Bắc Cực, được cho nhằm trấn an Tổng thống Trump với tham vọng kiểm soát Greenland.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T01:58:49.351352+07:00",
+      "fetched": "2026-02-12T01:58:49.351454+07:00"
+    },
+    {
+      "id": "ff24cf24c21a2260c20f52efe94bff9b",
+      "title": "Techcombank phối hợp ngành Thuế hỗ trợ hộ kinh doanh minh bạch dòng tiền",
+      "link": "https://tuoitre.vn/techcombank-phoi-hop-nganh-thue-ho-tro-ho-kinh-doanh-minh-bach-dong-tien-20260211222842303.htm",
+      "summary": "Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank) phối hợp cơ quan Thuế hỗ trợ hộ kinh doanh, tiểu thương hiện đại hóa hoạt động tài chính, minh bạch dòng tiền và thực hiện nghĩa vụ thuế thuận tiện hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T01:58:49.351224+07:00",
+      "fetched": "2026-02-12T01:58:49.351341+07:00"
+    },
+    {
+      "id": "43932417ea5aad8f999fa8e7193942ac",
+      "title": "Tết Việt đầu tiên 'chạm' vào cảm xúc của Tổng lãnh sự Pháp tại TP.HCM",
+      "link": "https://tuoitre.vn/tet-viet-dau-tien-cham-vao-cam-xuc-cua-tong-lanh-su-phap-tai-tp-hcm-20260211231324687.htm",
+      "summary": "Tổng lãnh sự Pháp tại TP.HCM Etienne Ranaivoson tham quan, trải nghiệm các hoạt động Lễ hội Tết Việt tại Nhà văn hóa Thanh niên TP.HCM. Đây cũng là lần đầu tiên ông đón Tết tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T01:58:49.350986+07:00",
+      "fetched": "2026-02-12T01:58:49.351211+07:00"
+    },
     {
       "id": "123be8d804f6c44bc7ee3a7094a3c927",
       "title": "Một tình yêu ồn ào, tưng tửng trong Không giới hạn",
@@ -153,6 +193,116 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T00:01:57.922421+07:00"
     },
     {
+      "id": "f126f6f7eead1a6f3123b5899bdae716",
+      "title": "UAV Nga bắn rơi trực thăng vũ trang Ukraine thế nào",
+      "link": "https://vnexpress.net/uav-nga-ban-roi-truc-thang-vu-trang-ukraine-the-nao-5040068.html",
+      "summary": "Quân nhân Nga có thể trực tiếp lệnh cho UAV Geran-2 phóng tên lửa vào trực thăng Ukraine nhờ mạng kết nối giữa các phi cơ, không cần đến Starlink.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T18:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.947379+07:00"
+    },
+    {
+      "id": "f126f6f7eead1a6f3123b5899bdae716",
+      "title": "UAV Nga bắn rơi trực thăng vũ trang Ukraine thế nào",
+      "link": "https://vnexpress.net/uav-nga-ban-roi-truc-thang-vu-trang-ukraine-the-nao-5040068.html",
+      "summary": "Quân nhân Nga có thể trực tiếp lệnh cho UAV Geran-2 phóng tên lửa vào trực thăng Ukraine nhờ mạng kết nối giữa các phi cơ, không cần đến Starlink.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-11T18:00:00+07:00",
+      "fetched": "2026-02-12T01:58:50.953617+07:00"
+    },
+    {
+      "id": "4b7322fde3fc6536bdedf75ef17b39e8",
+      "title": "Những đôi tay 'quá tải' ngày cuối năm",
+      "link": "https://vnexpress.net/nhung-doi-tay-qua-tai-ngay-cuoi-nam-5040155.html",
+      "summary": "Làm việc 13-15 tiếng mỗi ngày, người dọn nhà theo giờ, nhân viên tiệm tóc kín khách đặt lịch cố định từ rằm tháng chạp đến ngày cuối cùng của năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:51:02+07:00",
+      "fetched": "2026-02-12T01:58:44.947540+07:00"
+    },
+    {
+      "id": "02b597b837e3e52079443cc4a82b5f61",
+      "title": "Real rút lui, Super League giải thể",
+      "link": "https://vnexpress.net/real-rut-lui-super-league-giai-the-5040198.html",
+      "summary": "Real Madrid và LĐBĐ châu Âu (UEFA) đồng ý hòa giải vụ kiện liên quan tới Super League, đồng thời chấm dứt dự án gây tranh cãi này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:32:32+07:00",
+      "fetched": "2026-02-12T01:58:44.947681+07:00"
+    },
+    {
+      "id": "02b597b837e3e52079443cc4a82b5f61",
+      "title": "Real rút lui, Super League giải thể",
+      "link": "https://vnexpress.net/real-rut-lui-super-league-giai-the-5040198.html",
+      "summary": "Real Madrid và LĐBĐ châu Âu (UEFA) đồng ý hòa giải vụ kiện liên quan tới Super League, đồng thời chấm dứt dự án gây tranh cãi này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T17:32:32+07:00",
+      "fetched": "2026-02-12T01:58:56.968541+07:00"
+    },
+    {
+      "id": "96d3547298864079d538f08551f382a1",
+      "title": "Nữ tài xế gây tai nạn liên hoàn",
+      "link": "https://vnexpress.net/nu-tai-xe-gay-tai-nan-lien-hoan-5040200.html",
+      "summary": "Nữ tài xế lái ôtô ngược chiều trên đường Quang Trung, phường Dương Nội, sau đó gây tai nạn liên hoàn với 4 xe khác, tối 11/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:27:03+07:00",
+      "fetched": "2026-02-12T01:58:44.947839+07:00"
+    },
+    {
+      "id": "8c076404befcb6c3e7a4ceab351bee4c",
+      "title": "Hiện trạng các lô đất vùng ven Hà Nội sau hơn một năm đấu giá lập đỉnh",
+      "link": "https://vnexpress.net/hien-trang-cac-lo-dat-vung-ven-ha-noi-sau-hon-mot-nam-dau-gia-lap-dinh-5040134.html",
+      "summary": "Các lô đất tại khu Lòng Khúc, huyện Hoài Đức cũ chưa được đưa vào sử dụng dù hồi tháng 8/2024 từng được hàng trăm người xuyên đêm đấu giá lên hơn 130 triệu mỗi m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:06:00+07:00",
+      "fetched": "2026-02-12T01:58:44.947967+07:00"
+    },
+    {
+      "id": "e90f48bdc2a31774143e13742807257f",
+      "title": "Phó thủ tướng: Trung tâm tài chính quốc tế còn 'núi việc' cần làm",
+      "link": "https://vnexpress.net/pho-thu-tuong-trung-tam-tai-chinh-quoc-te-con-nui-viec-can-lam-5040159.html",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình cho rằng trung tâm tài chính quốc tế cần 5-10 năm để kiểm chứng thành công, nên khối lượng việc cần giải quyết trong thời gian này rất lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:03:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948096+07:00"
+    },
+    {
+      "id": "675443d0aa379e82f163c075d54ac581",
+      "title": "Ăn gì cơ thể thải độc tố?",
+      "link": "https://vnexpress.net/an-gi-co-the-thai-doc-to-5039663.html",
+      "summary": "Trà xanh, tỏi, gừng cung cấp chất chống oxy hóa, có tác dụng chống viêm, hỗ trợ cơ thể loại bỏ độc tố qua các cơ quan như gan và thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:03:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948220+07:00"
+    },
+    {
+      "id": "e90f48bdc2a31774143e13742807257f",
+      "title": "Phó thủ tướng: Trung tâm tài chính quốc tế còn 'núi việc' cần làm",
+      "link": "https://vnexpress.net/pho-thu-tuong-trung-tam-tai-chinh-quoc-te-con-nui-viec-can-lam-5040159.html",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình cho rằng trung tâm tài chính quốc tế cần 5-10 năm để kiểm chứng thành công, nên khối lượng việc cần giải quyết trong thời gian này rất lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-11T17:03:00+07:00",
+      "fetched": "2026-02-12T01:58:52.099324+07:00"
+    },
+    {
+      "id": "b88cf89f4b60ecd25392b91d9381ebb8",
+      "title": "4 con giáp ví tiền căng tràn, cuộc sống nở hoa",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-12-2-xuan-ve-loc-toi-4-con-giap-vi-tien-cang-tran-cuoc-song-no-hoa-5013223.html",
+      "summary": "Không chỉ tài chính khởi sắc, đời sống tinh thần của họ cũng trở nên nhẹ nhàng, vui tươi hơn bao giờ hết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:02:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948352+07:00"
+    },
+    {
       "id": "aa5132f009173ed8a8d53ac8c2922c8b",
       "title": "Lộ diện giờ đấu đội tuyển Việt Nam đại chiến Malaysia tại Thiên Trường, thêm kênh nào phát trực tiếp?",
       "link": "https://thanhnien.vn/xac-dinh-4-kenh-phat-truc-tiep-tran-dau-nong-doi-tuyen-viet-nam-dai-chien-malaysia-da-gio-dep-185260211174958852.htm",
@@ -171,6 +321,106 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-11T17:00:00+07:00",
       "fetched": "2026-02-12T00:01:56.877897+07:00"
+    },
+    {
+      "id": "e117ec097d07273426ff9e71dd6c4194",
+      "title": "Chồng để mặc tôi lo cho mọi việc và các con dù lương bằng nhau",
+      "link": "https://vnexpress.net/chong-de-mac-toi-lo-cho-moi-viec-va-cac-con-du-luong-bang-nhau-5040192.html",
+      "summary": "Những lúc cần trao đổi chuyện gì, tôi nhắn tin, anh gần như im lặng, không trả lời, cũng chẳng thả một cái like để tôi biết là đã đọc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948479+07:00"
+    },
+    {
+      "id": "382e20345639d452e24d2470219ea520",
+      "title": "'Thần trượt băng' Ilia Malinin và tham vọng phá vỡ giới hạn vật lý",
+      "link": "https://vnexpress.net/than-truot-bang-ilia-malinin-va-tham-vong-pha-vo-gioi-han-vat-ly-5040187.html",
+      "summary": "VĐV trượt băng nghệ thuật Mỹ Ilia Malinin được kỳ vọng trở thành người đầu tiên thực hiện thành công cú nhảy xoay bốn vòng rưỡi tại Olympic mùa Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948609+07:00"
+    },
+    {
+      "id": "44b837fe8b7b85c5a7fbd641d2fb0c3f",
+      "title": "Vụ lừa đảo mang thai hộ 26 đứa trẻ ở Mỹ",
+      "link": "https://vnexpress.net/vu-lua-dao-mang-thai-ho-26-dua-tre-o-my-5040151.html",
+      "summary": "Cặp vợ chồng người Trung Quốc bị cáo buộc lừa nhiều phụ nữ mang thai hộ, nuôi những đứa trẻ trong biệt thự ở California trước khi bị bắt vì tội ngược đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948750+07:00"
+    },
+    {
+      "id": "7e9e9525c9320f126dc4fdb5c63d9bc9",
+      "title": "Bạn gái không tha thứ cho VĐV Olympic thú nhận ngoại tình",
+      "link": "https://vnexpress.net/ban-gai-khong-tha-thu-cho-vdv-olympic-thu-nhan-ngoai-tinh-5040123.html",
+      "summary": "Bạn gái giấu tên của Sturla Holm Laegreid cho biết cô chưa thể tha thứ, dù biathlon Na Uy công khai bày tỏ tình yêu trước hàng triệu khán giả tại Olympic mùa Đông Milan-Cortina 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.948878+07:00"
+    },
+    {
+      "id": "75f1068db40153d11765d79eaf80f8f8",
+      "title": "Mua được ôtô sau tám năm không về quê dịp Tết",
+      "link": "https://vnexpress.net/mua-duoc-oto-sau-tam-nam-khong-ve-que-dip-tet-5040029.html",
+      "summary": "Từ ba năm nay, Tết nào tôi cũng tự lái ôtô đưa vợ con về quê, cách Sài Gòn hơn 700 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.949001+07:00"
+    },
+    {
+      "id": "11bfe356e0297a24de202ad70b770169",
+      "title": "Tết ta ở tây",
+      "link": "https://vnexpress.net/tet-ta-o-tay-5039785.html",
+      "summary": "Nếu ở Việt Nam, Tết đã về tận cửa thì với hàng triệu người Việt xa xứ, Tết vẫn chỉ là những ngày bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.949119+07:00"
+    },
+    {
+      "id": "7e8eea20a2722cb9bbb0f416c39edc1f",
+      "title": "Cụm linh vật hình cung tên ở Quy Nhơn",
+      "link": "https://vnexpress.net/cum-linh-vat-hinh-cung-ten-o-quy-nhon-5039760.html",
+      "summary": "Nhìn từ trên cao, cụm Linh vật Xuân Bính Ngọ 2026 ở phường Quy Nhơn hình dáng cây cung lớn với hai mũi tên vàng hướng ra Biển Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:44.949248+07:00"
+    },
+    {
+      "id": "382e20345639d452e24d2470219ea520",
+      "title": "'Thần trượt băng' Ilia Malinin và tham vọng phá vỡ giới hạn vật lý",
+      "link": "https://vnexpress.net/than-truot-bang-ilia-malinin-va-tham-vong-pha-vo-gioi-han-vat-ly-5040187.html",
+      "summary": "VĐV trượt băng nghệ thuật Mỹ Ilia Malinin được kỳ vọng trở thành người đầu tiên thực hiện thành công cú nhảy xoay bốn vòng rưỡi tại Olympic mùa Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:56.968242+07:00"
+    },
+    {
+      "id": "7e9e9525c9320f126dc4fdb5c63d9bc9",
+      "title": "Bạn gái không tha thứ cho VĐV Olympic thú nhận ngoại tình",
+      "link": "https://vnexpress.net/ban-gai-khong-tha-thu-cho-vdv-olympic-thu-nhan-ngoai-tinh-5040123.html",
+      "summary": "Bạn gái giấu tên của Sturla Holm Laegreid cho biết cô chưa thể tha thứ, dù biathlon Na Uy công khai bày tỏ tình yêu trước hàng triệu khán giả tại Olympic mùa Đông Milan-Cortina 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:56.968398+07:00"
+    },
+    {
+      "id": "1572aa7869cd1be91f6cf999e37b710c",
+      "title": "VĐV trượt băng Mỹ khóa mạng xã hội sau khi ngã vào đối thủ Hàn Quốc",
+      "link": "https://vnexpress.net/vdv-truot-bang-my-khoa-mang-xa-hoi-sau-khi-nga-vao-doi-thu-han-quoc-5040166.html",
+      "summary": "VĐV Mỹ Corinne Stoddard bị ngã và làm đối thủ Hàn Quốc Kim Gil-li ngã vào rào chắn, khiến cả hai đội thất bại tại bán kết trượt băng tốc độ hỗn hợp ở Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-11T17:00:00+07:00",
+      "fetched": "2026-02-12T01:58:56.968675+07:00"
     },
     {
       "id": "b1ba4e1716bbbb1edde0b52b4f78416c",
