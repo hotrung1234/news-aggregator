@@ -1,6 +1,6 @@
 window.newsData_2026_02_13 = {
   "date": "2026-02-13",
-  "lastUpdated": "2026-02-13T03:31:46.542253+07:00",
+  "lastUpdated": "2026-02-13T05:29:24.955519+07:00",
   "articles": [
     {
       "id": "8d1b304ab6db17b9fd71762a2ae1bdf2",
@@ -161,6 +161,116 @@ window.newsData_2026_02_13 = {
       "category": "Tổng hợp",
       "published": "2026-02-13T01:59:37.111575+07:00",
       "fetched": "2026-02-13T01:59:37.111785+07:00"
+    },
+    {
+      "id": "ba71606ff97b3d466da062da65650946",
+      "title": "Xe Phương Trang trung chuyển miễn phí tại các bệnh viện TP.HCM: Bệnh nhân vơi bớt nhọc nhằn",
+      "link": "https://thanhnien.vn/xe-phuong-trang-trung-chuyen-mien-phi-tai-cac-benh-vien-tphcm-benh-nhan-voi-bot-nhoc-nhan-185260212173609708.htm",
+      "summary": "Hành trình đi khám chữa bệnh của các bệnh nhân đã bớt phần gian nan nhờ xe trung chuyển miễn phí do Công ty Phương Trang triển khai tại 6 bệnh viện lớn ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T22:27:00+07:00",
+      "fetched": "2026-02-13T05:29:17.825413+07:00"
+    },
+    {
+      "id": "0034b533a4be5ed9dcbc9655b0dc35d3",
+      "title": "Tử vi ngày 13 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-13-thang-2-con-giap-nao-may-man-hom-nay-185260213015834169.htm",
+      "summary": "Tử vi ngày 13 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T22:15:00+07:00",
+      "fetched": "2026-02-13T05:29:17.825577+07:00"
+    },
+    {
+      "id": "8d8ccdbdd835d1ac3094bbdbc99c66ae",
+      "title": "Chiến sự Ukraine ngày 1.450: UAV Kyiv tấn công sâu kỷ lục vào Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1450-uav-kyiv-tan-cong-sau-ky-luc-vao-nga-185260212211719996.htm",
+      "summary": "Kyiv Independent hôm 12.2 dẫn nguồn tin từ Cơ quan An ninh Ukraine (SBU) cho biết máy bay không người lái (UAV) tầm xa của Ukraine đã tấn công nhà máy lọc dầu Ukhta tại CH Komi thuộc Nga, cách biên giới Ukraine khoảng 1.750 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T22:15:00+07:00",
+      "fetched": "2026-02-13T05:29:17.825714+07:00"
+    },
+    {
+      "id": "db8d49887b2a6fb17175e86ffef60d8b",
+      "title": "Gần 100 xe khách chạy quá tốc độ trên cao tốc TP.HCM - Vân Phong",
+      "link": "https://thanhnien.vn/gan-100-xe-khach-chay-qua-toc-do-tren-cao-toc-tphcm-van-phong-185260212223444949.htm",
+      "summary": "Gần 100 xe khách vi phạm tốc độ trên cao tốc TP.HCM - Vân Phong trong một ngày, CSGT phạt hơn 350 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T22:00:00+07:00",
+      "fetched": "2026-02-13T05:29:17.825846+07:00"
+    },
+    {
+      "id": "2ff42e3adc7155fe973f1e570ac2c7d1",
+      "title": "'Nắn' dưa hấu thành thỏi vàng: Cách lão nông nâng tầm trái dưa ngày tết",
+      "link": "https://thanhnien.vn/nan-dua-hau-thanh-thoi-vang-cach-lao-nong-nang-tam-trai-dua-ngay-tet-185260212163723412.htm",
+      "summary": "Theo phong tục người Việt Nam thì dưa hấu là 1 loại trái cây không thể thiếu trong những ngày Tết dân tộc. Thông thường, người dân sẽ chưng trên bàn thờ một cặp vuông, tròn, với quan niệm năm mới mọi thứ đều vuông tròn, làm ăn may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T22:00:00+07:00",
+      "fetched": "2026-02-13T05:29:17.825973+07:00"
+    },
+    {
+      "id": "c717e43e2e84ac476231abf4dc108179",
+      "title": "Cuộc tháo chạy hỗn loạn khỏi 'địa ngục' lừa đảo ở Campuchia",
+      "link": "https://vnexpress.net/cuoc-thao-chay-hon-loan-khoi-dia-nguc-lua-dao-o-campuchia-5040336.html",
+      "summary": "Hàng nghìn người đang tháo chạy khỏi các \"địa ngục\" lừa đảo ở Campuchia, nhưng bên ngoài là một tương lai bất định, không chốn dung thân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T22:00:00+07:00",
+      "fetched": "2026-02-13T05:29:20.223923+07:00"
+    },
+    {
+      "id": "2cac103f66817b016775545c507ae8d7",
+      "title": "Viettel tìm nhân tài bán dẫn, hàng không vũ trụ",
+      "link": "https://vnexpress.net/viettel-tim-nhan-tai-ban-dan-hang-khong-vu-tru-5040574.html",
+      "summary": "Viettel đang tuyển chọn, đào tạo nhân lực cho các lĩnh vực công nghệ chiến lược như bán dẫn, hàng không vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-12T22:00:00+07:00",
+      "fetched": "2026-02-13T05:29:23.977971+07:00"
+    },
+    {
+      "id": "aab1216c31e6bfc441e52adb57db591a",
+      "title": "Đu dây lên nhà giàn DK1: Trải nghiệm không quên giữa trùng khơi",
+      "link": "https://thanhnien.vn/du-day-len-nha-gian-dk1-trai-nghiem-khong-quen-giua-trung-khoi-185260210175317853.htm",
+      "summary": "Đu dây, hay thường được các chiến sĩ hải quân gọi vui là 'đi máy bay' trên biển, là cách thức để đưa người lên các nhà giàn - 'pháo đài thép' giữa biển khơi. Với nhiều người, đây là một trải nghiệm đầy phấn khích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:59:00+07:00",
+      "fetched": "2026-02-13T05:29:17.826102+07:00"
+    },
+    {
+      "id": "156d62d3d2fdc70a50d579a5777b032d",
+      "title": "San lấp trái phép 1.800 m2 giữa rừng cây TP.HCM: Phải chờ chủ đất về mới xử lý?",
+      "link": "https://thanhnien.vn/san-lap-trai-phep-1800-m2-giua-rung-cay-tphcm-phai-cho-chu-dat-ve-moi-xu-ly-185260212085601858.htm",
+      "summary": "Vụ san lấp gần 1.800 m² đất giữa khu rừng cây ở phường Long Phước (TP.Thủ Đức cũ, TP.HCM) đặt ra nhiều câu hỏi về trách nhiệm quản lý địa bàn. Trong khi đến nay, việc xử lý vẫn đang 'treo' để chờ chủ đất ở nước ngoài về làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:57:00+07:00",
+      "fetched": "2026-02-13T05:29:17.826235+07:00"
+    },
+    {
+      "id": "5975f92817ae766c89060c8d67114ea8",
+      "title": "Tối cuối năm, phố thời trang TP.HCM 'vỡ trận' vì người dân sắm tết",
+      "link": "https://thanhnien.vn/toi-cuoi-nam-pho-thoi-trang-tphcm-vo-tran-vi-nguoi-dan-sam-tet-185260212223005646.htm",
+      "summary": "Hơn 21 giờ tối 25 tháng chạp, 'phố thời trang' sầm uất bậc nhất TP.HCM đông nghẹt người, nhiều cửa hàng hết chỗ giữ xe vì khách đổ về mua sắm, săn sale dịp tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:37:00+07:00",
+      "fetched": "2026-02-13T05:29:17.826363+07:00"
+    },
+    {
+      "id": "9ab713166c7788be2049b78f6647c0bc",
+      "title": "Trung tướng Cao Minh Nhạn: Tinh thần thép từ cái nôi cách mạng Khánh Hòa",
+      "link": "https://thanhnien.vn/trung-tuong-cao-minh-nhan-tinh-than-thep-tu-cai-noi-cach-mang-khanh-hoa-185260211155406002.htm",
+      "summary": "Sinh ra tại Diên Sơn - vùng đất cách mạng của Khánh Hòa, trung tướng Cao Minh Nhạn, nguyên Phó tổng cục trưởng Tổng cục Cảnh sát (Bộ Công an), nguyên Giám đốc Công an Khánh Hòa, được hun đúc một bản lĩnh thép từ quê hương, để viết nên hành trình cống hiến bền bỉ, dũng cảm và giàu nhân ái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T21:30:00+07:00",
+      "fetched": "2026-02-13T05:29:17.826490+07:00"
     },
     {
       "id": "b56249da6e12dae84f3d00d9e915b21f",
