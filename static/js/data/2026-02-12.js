@@ -1,7 +1,157 @@
 window.newsData_2026_02_12 = {
   "date": "2026-02-12",
-  "lastUpdated": "2026-02-12T15:42:13.134530+07:00",
+  "lastUpdated": "2026-02-12T17:42:01.737560+07:00",
   "articles": [
+    {
+      "id": "809d6482b7e3c19afc3b127cf97b2458",
+      "title": "Xe điện Toyota vẫn phá kỷ lục trong lúc hãng chuẩn bị xuất xưởng 6,7 triệu xe hybrid",
+      "link": "https://tuoitre.vn/xe-dien-toyota-van-pha-ky-luc-trong-luc-hang-chuan-bi-xuat-xuong-6-7-trieu-xe-hybrid-20260212145900328.htm",
+      "summary": "Khi nhu cầu xe điện có dấu hiệu chững lại, Toyota đẩy mạnh sản xuất hybrid và đặt mục tiêu tăng mạnh sản lượng trong vài năm tới, qua đó đưa dòng xe này chiếm tỉ trọng lớn trong tổng doanh số toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494998+07:00",
+      "fetched": "2026-02-12T17:41:55.495112+07:00"
+    },
+    {
+      "id": "e7fbf0d9e7a2cd51dcd14b748b730d8e",
+      "title": "Phó chủ tịch Quốc hội: Từ 'người ứng cử' trở thành 'người đại biểu' là một thử thách lớn",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-tu-nguoi-ung-cu-tro-thanh-nguoi-dai-bieu-la-mot-thu-thach-lon-20260212155154861.htm",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Thị Thanh cho rằng mỗi ứng cử viên đại biểu Quốc hội khóa XVI cần chinh phục niềm tin của cử tri bằng tài năng, tâm huyết, trách nhiệm và phẩm chất đạo đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494873+07:00",
+      "fetched": "2026-02-12T17:41:55.494983+07:00"
+    },
+    {
+      "id": "0c60d20c427ec1c0d8f00e6e3946af8f",
+      "title": "Chim én bay về ngủ đêm, người dân Mỹ Tho than trời vì phân chim thải xuống",
+      "link": "https://tuoitre.vn/chim-en-bay-ve-ngu-dem-nguoi-dan-my-tho-than-troi-vi-phan-chim-thai-xuong-20260212154110763.htm",
+      "summary": "Nguyên nhân xuất phát từ việc chim én kéo về trú ngụ với số lượng lớn, để lại lượng phân dày đặc, gây ô nhiễm môi trường và ảnh hưởng nghiêm trọng đến sinh hoạt, buôn bán của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494750+07:00",
+      "fetched": "2026-02-12T17:41:55.494862+07:00"
+    },
+    {
+      "id": "f337f0aac0eec1acca074817cc3d80d5",
+      "title": "Masan Consumer lan tỏa “Tết Sum Vầy”",
+      "link": "https://tuoitre.vn/masan-consumer-lan-toa-tet-sum-vay-20260212160902523.htm",
+      "summary": "Trong không khí chuẩn bị đón Tết cổ truyền, Masan Consumer triển khai chương trình “Tết Sum Vầy” trên phạm vi toàn quốc, trao tặng hơn 100 tấn thực phẩm thiết yếu cùng tiền mặt với tổng giá trị trên 10 tỷ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494625+07:00",
+      "fetched": "2026-02-12T17:41:55.494739+07:00"
+    },
+    {
+      "id": "69a3fa8ecd5c67222861bb0296cbf773",
+      "title": "Cải lương Tết Bính Ngọ: Ít nhưng chất",
+      "link": "https://tuoitre.vn/cai-luong-tet-binh-ngo-it-nhung-chat-20260212153115134.htm",
+      "summary": "Tết Bính Ngọ năm nay trong khi làng kịch rần rần thì cải lương Tết có vẻ hẻo hơn. Số lượng vở diễn khá ít và chủ yếu chỉ làm lại kịch bản cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494497+07:00",
+      "fetched": "2026-02-12T17:41:55.494613+07:00"
+    },
+    {
+      "id": "ae5e82873c91ae57647ee8b6868d9681",
+      "title": "Futsal Indonesia nhận thêm tin vui từ AFC",
+      "link": "https://tuoitre.vn/futsal-indonesia-nhan-them-tin-vui-tu-afc-202602121552012.htm",
+      "summary": "Dù để thua đáng tiếc trước Iran trong trận chung kết, tuyển futsal Indonesia được an ủi phần nào khi siêu phẩm của Israr Megantara lọt vào danh sách đề cử Bàn thắng đẹp nhất vòng chung kết futsal châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494367+07:00",
+      "fetched": "2026-02-12T17:41:55.494482+07:00"
+    },
+    {
+      "id": "2f1fb01d2bd1dc32e584322add64016f",
+      "title": "Tạm giữ người đàn ông mang 2 con dao đến trụ sở công an chửi bới, đe dọa",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-dan-ong-mang-2-con-dao-den-tru-so-cong-an-chui-boi-de-doa-20260212161026867.htm",
+      "summary": "Cơ quan công an xác định Chu Văn Lộc lấy hai con dao đút vào túi quần, sau đó trèo cổng vào trụ sở công an phường chửi bới, xúc phạm, đe dọa lực lượng chức năng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494216+07:00",
+      "fetched": "2026-02-12T17:41:55.494354+07:00"
+    },
+    {
+      "id": "4cad069c76b86a4b01d073553908d7e1",
+      "title": "U17 Việt Nam gặp Hàn Quốc ở VCK U17 châu Á 2026",
+      "link": "https://tuoitre.vn/u17-viet-nam-gap-han-quoc-o-vck-u17-chau-a-2026-20260212160406322.htm",
+      "summary": "Kết quả bốc thăm đưa U17 Việt Nam chung bảng với U17 Hàn Quốc, U17 UAE và U17 Yemen tại VCK U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.494082+07:00",
+      "fetched": "2026-02-12T17:41:55.494205+07:00"
+    },
+    {
+      "id": "c9a63cd3a5784ae7bac12df15f165f46",
+      "title": "Tình báo Hàn Quốc: Con gái ông Kim Jong Un 'được chỉ định là người kế nhiệm'",
+      "link": "https://tuoitre.vn/tinh-bao-han-quoc-con-gai-ong-kim-jong-un-duoc-chi-dinh-la-nguoi-ke-nhiem-20260212160149128.htm",
+      "summary": "Cơ quan tình báo Hàn Quốc nhận định dựa trên nhiều dấu hiệu về vai trò và mức độ xuất hiện của Kim Ju Ae trong các sự kiện trọng đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493958+07:00",
+      "fetched": "2026-02-12T17:41:55.494071+07:00"
+    },
+    {
+      "id": "70740ceab46a47ce438733d1107e5bb8",
+      "title": "Khang Điền 'chi bạo' hơn 2.500 tỉ đồng thâu tóm một công ty bất động sản",
+      "link": "https://tuoitre.vn/khang-dien-chi-bao-hon-2-500-ti-dong-thau-tom-mot-cong-ty-bat-dong-san-20260212161734683.htm",
+      "summary": "Công ty cổ phần Đầu tư và Kinh doanh Nhà Khang Điền (mã chứng khoán KDH) vừa thông qua chủ trương nhận chuyển nhượng 99% vốn điều lệ tại Công ty cổ phần Phát triển bất động sản An Lập, với tổng giá trị giao dịch hơn 2.552 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493829+07:00",
+      "fetched": "2026-02-12T17:41:55.493946+07:00"
+    },
+    {
+      "id": "b3fe4472954dc8b781ac32d56e991170",
+      "title": "Giao thừa trên HTV: Táo quân trên Thiên đình số, rộn ràng sắc xuân 2026",
+      "link": "https://tuoitre.vn/giao-thua-tren-htv-tao-quan-tren-thien-dinh-so-ron-rang-sac-xuan-2026-20260212155824226.htm",
+      "summary": "Tết hội ngộ - Xuân yêu thương là chương trình nghệ thuật đặc biệt phát sóng 21h30 Giao thừa (16-2) trên HTV9 và các nền tảng số của HTV và kéo dài sang năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493697+07:00",
+      "fetched": "2026-02-12T17:41:55.493816+07:00"
+    },
+    {
+      "id": "77c27e40f82cda265dee11fac0cbe4e3",
+      "title": "Top 5 anime hoàn hảo cho mùa Valentine 2026",
+      "link": "https://tuoitre.vn/top-5-anime-hoan-hao-cho-mua-valentine-2026-20260212160400333.htm",
+      "summary": "Đôi khi, cách tận hưởng ngày Valentine tuyệt vời nhất lại là ở nhà, quấn chăn và xem một bộ anime tình cảm, lãng mạn với khả năng 'nói hộ lòng mình'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493562+07:00",
+      "fetched": "2026-02-12T17:41:55.493685+07:00"
+    },
+    {
+      "id": "d86ca1a7255058418d22138d3b47c6e0",
+      "title": "Tết trong khu nhà ở xã hội theo 'chuẩn Singapore' ở Bình Dương",
+      "link": "https://tuoitre.vn/tet-trong-khu-nha-o-xa-hoi-theo-chuan-singapore-o-binh-duong-20260212151442689.htm",
+      "summary": "Những ngày giáp Tết, K-Home New City (phường Bình Dương, TP.HCM) toát lên cảm giác bình yên đặc biệt: nhiều gia đình công nhân lần đầu được đón Tết trong chính căn nhà của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493414+07:00",
+      "fetched": "2026-02-12T17:41:55.493538+07:00"
+    },
+    {
+      "id": "4d11b7f19eaac96cae7d500728091199",
+      "title": "Nhiều người gặp 'bế tắc' khi nộp hồ sơ mua, thuê nhà ở xã hội 324 Lý Thường Kiệt",
+      "link": "https://tuoitre.vn/nhieu-nguoi-gap-be-tac-khi-nop-ho-so-mua-thue-nha-o-xa-hoi-324-ly-thuong-kiet-20260212154856721.htm",
+      "summary": "Nhiều người dân đang bức xúc vì không thể nộp hồ sơ đăng ký mua hoặc thuê nhà ở xã hội tại dự án 324 Lý Thường Kiệt (phường Diên Hồng, TP.HCM) dù Sở Xây dựng TP.HCM đã công bố thông tin tiếp nhận hồ sơ từ nay đến hết ngày 31-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493266+07:00",
+      "fetched": "2026-02-12T17:41:55.493401+07:00"
+    },
+    {
+      "id": "c84b4a6270db9b869055e03a1db1a749",
+      "title": "Phát triển kinh tế tư nhân: Tạo cơ hội và nâng cao chuẩn mực cho SME Việt Nam",
+      "link": "https://tuoitre.vn/phat-trien-kinh-te-tu-nhan-tao-co-hoi-va-nang-cao-chuan-muc-cho-sme-viet-nam-20260212162724406.htm",
+      "summary": "Theo chuyên gia, bên cạnh việc được đồng hành và nâng cao năng lực cạnh tranh trong nước lẫn quốc tế, SME Việt Nam cũng cần được định hướng tuân thủ yêu cầu về kinh tế tuần hoàn và trách nhiệm với người tiêu dùng trong bối cảnh số hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T17:41:55.493014+07:00",
+      "fetched": "2026-02-12T17:41:55.493249+07:00"
+    },
     {
       "id": "8192d463571db7a66ad8f2c5b39a07bc",
       "title": "Thầy trò hạnh ngộ ngày Tết: Chỉ một lời chúc cũng đủ làm dịu cả năm dài",
@@ -453,6 +603,306 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T11:27:01.440047+07:00"
     },
     {
+      "id": "bfcd45beda3a432c94eccee95889936d",
+      "title": "Cơm tất niên và chuyến xe yêu thương dành tặng người bệnh ung thư",
+      "link": "https://thanhnien.vn/com-tat-nien-va-chuyen-xe-yeu-thuong-danh-tang-nguoi-benh-ung-thu-18526021217081662.htm",
+      "summary": "Chương trình Cơm tất niên và Chuyến xe yêu thương dành cho người bệnh ung thư được Bệnh viện K tổ chức ngày 12.12 (25 tháng chạp), với tinh thần sẻ chia, lan tỏa niềm tin, hy vọng với người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:39:00+07:00",
+      "fetched": "2026-02-12T17:41:54.546891+07:00"
+    },
+    {
+      "id": "5fde20051634f05c60678b493bc4be6d",
+      "title": "Từ 1.3 chính thức áp mức khí thải mới khi đăng kiểm ô tô",
+      "link": "https://thanhnien.vn/tu-13-chinh-thuc-ap-muc-khi-thai-moi-khi-dang-kiem-o-to-18526021216585924.htm",
+      "summary": "Cục Đăng kiểm Việt Nam cho biết, từ ngày 1.3, các trung tâm đăng kiểm trên cả nước sẽ thực hiện kiểm định khí thải xe ô tô theo quy trình và phương pháp kiểm tra mới, chặt chẽ và nghiêm ngặt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:34:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547065+07:00"
+    },
+    {
+      "id": "eed7aa8f1698cd01a8b75ee6c332c6b3",
+      "title": "Từ 1.3 cấp giấy chứng nhận kiểm định online với ô tô, xe máy",
+      "link": "https://thanhnien.vn/tu-13-cap-giay-chung-nhan-kiem-dinh-online-voi-o-to-xe-may-185260212170805897.htm",
+      "summary": "Cục Đăng kiểm Việt Nam cho biết, từ ngày 1.3 sẽ chính thức cấp Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường (GCN) dưới hình thức điện tử (online) cho xe cơ giới và xe máy chuyên dùng trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:31:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547240+07:00"
+    },
+    {
+      "id": "72733d14d82266507d0d0de388a8306e",
+      "title": "TP.HCM: CSGT dầm mưa điều tiết giao thông cửa ngõ phía Tây dịp cận Tết",
+      "link": "https://thanhnien.vn/tphcm-csgt-dam-mua-dieu-tiet-giao-thong-cua-ngo-phia-tay-dip-can-tet-185260212141324869.htm",
+      "summary": "Chiều 11.02.2026 (24 tháng Chạp), cửa ngõ phía Tây TP.HCM rơi vào tình trạng ùn ứ khi lượng người dân về quê đón Tết tăng cao, lại gặp mưa lớn đúng giờ cao điểm. Lực lượng CSGT đã có mặt từ sớm, bám chốt điều tiết, phân luồng giao thông nhằm đảm bảo người dân di chuyển an toàn trên hành trình về quê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:28:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547404+07:00"
+    },
+    {
+      "id": "f276c5fe7c1a90aaa2ba29f4a05cd87a",
+      "title": "Bóng đá Indonesia sốc nặng vì mất suất dự ASIAD 20, sếp lớn PSSI có động thái bất ngờ",
+      "link": "https://thanhnien.vn/bong-da-indonesia-soc-nang-vi-mat-suat-du-asiad-20-sep-lon-pssi-co-dong-thai-bat-ngo-185260212170505444.htm",
+      "summary": "Bóng đá Indonesia đứng trước nguy cơ không được tham dự môn bóng đá nam tại ASIAD 20, sau khi AFC công bố thay đổi quan trọng về thể thức. Trong bối cảnh đó, lãnh đạo cấp cao của PSSI đã có động thái bất ngờ khi không làm việc trực tiếp với AFC mà yêu cầu Ủy ban Olympic Indonesia làm rõ toàn bộ sự v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:23:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547560+07:00"
+    },
+    {
+      "id": "b35ad46212fd3a0a52198460c9317e69",
+      "title": "Máy bay chở khách trượt khỏi đường băng, lao ra biển",
+      "link": "https://vnexpress.net/may-bay-cho-khach-truot-khoi-duong-bang-lao-ra-bien-5040458.html",
+      "summary": "Máy bay chở khách của Starsky Aviation trượt khỏi đường băng, lao ra bãi biển, toàn bộ hành khách và phi hành đoàn đều an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T10:21:47+07:00",
+      "fetched": "2026-02-12T17:41:57.162366+07:00"
+    },
+    {
+      "id": "9f02e31ac7aed98f828cf9e9d70f339d",
+      "title": "Hơn 700 căn hộ trên 'đất vàng' ở Đà Nẵng chính thức trình làng",
+      "link": "https://thanhnien.vn/hon-700-can-ho-tren-dat-vang-o-da-nang-chinh-thuc-trinh-lang-185260212134755972.htm",
+      "summary": "Sở Xây dựng TP.Đà Nẵng vừa có văn bản cho phép mở bán 737 căn hộ thuộc dự án Capital Square 2 trên 'đất vàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:21:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547717+07:00"
+    },
+    {
+      "id": "ce35ef1ff80fc2970c3b654116264fdf",
+      "title": "Bộ Tài chính nói gì về đề xuất giảm giá vé cho người Việt Nam vào casino?",
+      "link": "https://thanhnien.vn/bo-tai-chinh-noi-gi-ve-de-xuat-giam-gia-ve-cho-nguoi-viet-nam-vao-casino-185260212170200569.htm",
+      "summary": "Có ý kiến đề xuất cần giữ nguyên giá vé cho người Việt Nam vào chơi tại casino thay vì tăng cao trong dự thảo mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:19:00+07:00",
+      "fetched": "2026-02-12T17:41:54.547867+07:00"
+    },
+    {
+      "id": "da7e55d63eea83e438355bbdf2366178",
+      "title": "Cháy ở TP.HCM, khói đen cuồn cuộn khiến khu dân cư nháo nhào",
+      "link": "https://thanhnien.vn/chay-o-tphcm-khoi-den-cuon-cuon-khien-khu-dan-cu-nhao-nhao-185260212165739234.htm",
+      "summary": "Một vụ cháy vừa xảy ra trên đường Lê Đức Anh (phường Bình Hưng Hòa, TP.HCM) khiến cả khu dân cư hốt hoảng khi khói đen bốc cao, đe dọa cháy lan sang các xưởng sản xuất lân cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:14:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548017+07:00"
+    },
+    {
+      "id": "66b107a18346e83ece5475397c0ae867",
+      "title": "Siêu mẫu Cindy Crawford từng bị coi thường vì bỏ đại học theo nghề người mẫu",
+      "link": "https://thanhnien.vn/sieu-mau-cindy-crawford-tung-bi-coi-thuong-vi-bo-dai-hoc-theo-nghe-nguoi-mau-185260212145816747.htm",
+      "summary": "Trước khi trở thành một trong những biểu tượng thời trang hàng đầu thế giới, Cindy Crawford từng là học sinh xuất sắc với thành tích học tập nổi bật. Tuy nhiên, quyết định rời giảng đường đại học để theo đuổi sự nghiệp người mẫu đã khiến bà phải đối mặt với không ít định kiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:07:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548173+07:00"
+    },
+    {
+      "id": "a2f59c8b2aa25d87c5edfccb0cb84ae2",
+      "title": "Chuyển Nhà 247 - dịch vụ chuyển nhà trọn gói với mức giá ưu đãi tại TP.HCM",
+      "link": "https://thanhnien.vn/chuyen-nha-247-dich-vu-chuyen-nha-tron-goi-voi-muc-gia-uu-dai-tai-tphcm-185260212170637303.htm",
+      "summary": "Trong bối cảnh TP.HCM không ngừng phát triển, nhu cầu chuyển nhà trọn gói giữa các quận, khu vực ngày càng gia tăng. Từ gia đình trẻ, người lao động đến các hộ kinh doanh nhỏ, việc thay đổi nơi ở để thuận tiện công việc và nâng cao chất lượng sống đã trở nên phổ biến. Tuy nhiên, chuyển nhà luôn là c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:05:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548346+07:00"
+    },
+    {
+      "id": "81a9e7e05e93a5dff409397d554e55cb",
+      "title": "Techcombank Private: Kiến tạo tương lai quản lý gia sản tại Việt Nam",
+      "link": "https://thanhnien.vn/techcombank-private-kien-tao-tuong-lai-quan-ly-gia-san-tai-viet-nam-185260212165934862.htm",
+      "summary": "Hà Nội, ngày 10.2.2026, Ngân hàng TMCP Kỹ Thương (Techcombank) vừa được Global Finance vinh danh là Ngân hàng Private Banking tốt nhất Việt Nam năm 2026. Giải thưởng ghi dấu bước tiến mới của Techcombank trong lĩnh vực quản lý gia sản, giữa bối cảnh thị trường trong nước đang tăng trưởng mạnh mẽ cùn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:02:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548498+07:00"
+    },
+    {
+      "id": "8d93818ad6b253769f8d8c2647dac2cb",
+      "title": "Tăng vốn điều lệ",
+      "link": "https://thanhnien.vn/tang-von-dieu-le-185260212164317489.htm",
+      "summary": "Công ty Tài chính Tín dụng Tiêu dùng TNHH MTV AEON ('AEON FINANCE')",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:00:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548654+07:00"
+    },
+    {
+      "id": "f508c54d558b8004a916668ba7a8ad4b",
+      "title": "Toàn cảnh 17h: 5 giờ truy bắt nghi phạm cướp tiệm vàng | Lão nông \"hô biến\" dưa hấu thành thỏi vàng",
+      "link": "https://thanhnien.vn/toan-canh-17h-5-gio-truy-bat-nghi-pham-cuop-tiem-vang-lao-nong-ho-bien-dua-hau-thanh-thoi-vang-185260212153500246.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T10:00:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548805+07:00"
+    },
+    {
+      "id": "de45ead510f69ea3d677dcf587696036",
+      "title": "VNPAY và Napas tăng cường hợp tác thúc đẩy thanh toán số",
+      "link": "https://vnexpress.net/vnpay-va-napas-tang-cuong-hop-tac-thuc-day-thanh-toan-so-5040153.html",
+      "summary": "VNPAY và Napas ký thỏa thuận hợp tác toàn diện, tập trung phát triển công nghệ thanh toán mới, chia sẻ chuyên môn và triển khai các giải pháp phù hợp xu hướng số hóa của thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T10:00:00+07:00",
+      "fetched": "2026-02-12T17:41:58.195465+07:00"
+    },
+    {
+      "id": "e569e86e37ca069dc818a8a55fb7ef9b",
+      "title": "Nghệ sĩ Hồng Đào đính chính",
+      "link": "https://thanhnien.vn/nghe-si-hong-dao-dinh-chinh-185260212152417608.htm",
+      "summary": "Trước việc bị kẻ xấu mạo danh với mục đích bán thuốc, nghệ sĩ Hồng Đào phải lên tiếng đính chính. Nữ diễn viên mong khán giả cảnh giác trước thủ đoạn tinh vi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:59:00+07:00",
+      "fetched": "2026-02-12T17:41:54.548950+07:00"
+    },
+    {
+      "id": "c91667d206e7ce08cb70289e8322da9e",
+      "title": "Xổ số miền Nam ngày 12 tháng 2: Bất ngờ vé trúng đài An Giang!",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-12-thang-2-bat-ngo-ve-trung-dai-an-giang-185260212164815115.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 12 tháng 2, nhiều người không giấu được bất ngờ với những vé trúng đài An Giang vì quá hy hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:53:00+07:00",
+      "fetched": "2026-02-12T17:41:54.549098+07:00"
+    },
+    {
+      "id": "c8b6cbe70a4bb828b1edcb13f70853f7",
+      "title": "Hồi sinh đôi chân bằng robot phẫu thuật",
+      "link": "https://vnexpress.net/hoi-sinh-doi-chan-bang-robot-phau-thuat-5040401.html",
+      "summary": "Người phụ nữ 62 tuổi, bị thoái hóa khớp, uống thuốc Đông y, Tây Y nhiều năm không khỏi, được các bác sĩ Bệnh viện Đại học Y phẫu thuật thành công bằng robot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:39:24+07:00",
+      "fetched": "2026-02-12T17:41:51.939613+07:00"
+    },
+    {
+      "id": "88211ca803419f1cda7f3eb23d42ed3f",
+      "title": "Ứng viên Quốc hội phải vận động công khai, bình đẳng",
+      "link": "https://vnexpress.net/ung-vien-quoc-hoi-phai-van-dong-cong-khai-binh-dang-5040502.html",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Thị Thanh yêu cầu ứng viên đại biểu Quốc hội thực hiện vận động bầu cử dân chủ, công khai, bình đẳng, coi đây là thử thách lớn trước khi trở thành đại biểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:38:25+07:00",
+      "fetched": "2026-02-12T17:41:51.939798+07:00"
+    },
+    {
+      "id": "fda5762e2703a16fdd50822f953f30bd",
+      "title": "Hà Nội miễn phí xe buýt, tàu điện dịp Tết Bính Ngọ",
+      "link": "https://vnexpress.net/ha-noi-mien-phi-xe-buyt-tau-dien-dip-tet-binh-ngo-5040501.html",
+      "summary": "Từ ngày 14/2 đến hết 22/2, người dân đi 128 tuyến buýt có trợ giá và hai tuyến đường sắt đô thị Cát Linh - Hà Đông và Nhổn - Cầu Giấy sẽ không phải trả tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:31:53+07:00",
+      "fetched": "2026-02-12T17:41:51.939963+07:00"
+    },
+    {
+      "id": "3ae498d0baecc63725454d802afed387",
+      "title": "Sân bay Tân Sơn Nhất đông nghịt người về quê ăn Tết",
+      "link": "https://vnexpress.net/san-bay-tan-son-nhat-dong-nghit-nguoi-ve-que-an-tet-5040454.html",
+      "summary": "Ngày 25 tháng Chạp, khu vực làm thủ tục tại nhà ga T1 và T3 chật kín hành khách, nhiều người có mặt trước giờ bay vài giờ để tránh trễ chuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:30:04+07:00",
+      "fetched": "2026-02-12T17:41:51.940121+07:00"
+    },
+    {
+      "id": "a546e72b46d243c189c65c34c95fd0b3",
+      "title": "Trường đầu tiên ở TP HCM dự kiến chỉ tiêu tuyển lớp 10",
+      "link": "https://vnexpress.net/truong-dau-tien-o-tp-hcm-du-kien-chi-tieu-tuyen-lop-10-5040337.html",
+      "summary": "Trường THPT Nguyễn Hữu Huân dự kiến tuyển 700 học sinh, tương đương 16 lớp 10 cho năm học tới, tăng một so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:24:39+07:00",
+      "fetched": "2026-02-12T17:41:51.940303+07:00"
+    },
+    {
+      "id": "3e6452ff35b8c527e38c77618bd34264",
+      "title": "'Cua quỷ' chứa độc tố thần kinh khiến nữ vlogger tử vong",
+      "link": "https://vnexpress.net/cua-quy-chua-doc-to-than-kinh-khien-nu-vlogger-tu-vong-5040470.html",
+      "summary": "Emma Amit, vlogger ẩm thực nổi tiếng, trúng độc tố cực mạnh và qua đời 2 ngày sau khi ăn loài cua mặt quỷ chứa độc tố thần kinh khi quay clip đăng mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:18:44+07:00",
+      "fetched": "2026-02-12T17:41:51.940461+07:00"
+    },
+    {
+      "id": "2c57af9c64332a9c7427513e87bed8f6",
+      "title": "Nhóm Vingroup giúp chứng khoán trở lại mốc 1.800 điểm",
+      "link": "https://vnexpress.net/nhom-vingroup-giup-chung-khoan-tro-lai-moc-1-800-diem-5040484.html",
+      "summary": "Cổ phiếu Vingroup và Vinhomes làm bệ đỡ giúp chứng khoán tăng thêm 17 điểm hôm nay để trở lại mốc tâm lý quan trọng 1.800 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:06:28+07:00",
+      "fetched": "2026-02-12T17:41:51.940617+07:00"
+    },
+    {
+      "id": "2c57af9c64332a9c7427513e87bed8f6",
+      "title": "Nhóm Vingroup giúp chứng khoán trở lại mốc 1.800 điểm",
+      "link": "https://vnexpress.net/nhom-vingroup-giup-chung-khoan-tro-lai-moc-1-800-diem-5040484.html",
+      "summary": "Cổ phiếu Vingroup và Vinhomes làm bệ đỡ giúp chứng khoán tăng thêm 17 điểm hôm nay để trở lại mốc tâm lý quan trọng 1.800 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T09:06:28+07:00",
+      "fetched": "2026-02-12T17:41:58.193897+07:00"
+    },
+    {
+      "id": "17d3b5d1a7d606ad6b128690f112737c",
+      "title": "Nếu anh chưa vội, hãy về đội em",
+      "link": "https://vnexpress.net/neu-anh-chua-voi-hay-ve-doi-em-5039675.html",
+      "summary": "Em mong có một người xuất hiện, đủ trưởng thành, đủ sâu sắc để giúp em cảm nhận lại sự yêu thương trọn vẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:00:00+07:00",
+      "fetched": "2026-02-12T17:41:51.940714+07:00"
+    },
+    {
+      "id": "118d3a5b26bd6e938612ac38cceb0bd2",
+      "title": "Bánh kẹo Hải Hà 'đón Tết' với bộ nhận diện mới",
+      "link": "https://vnexpress.net/banh-keo-hai-ha-don-tet-voi-bo-nhan-dien-moi-5040453.html",
+      "summary": "Bánh kẹo Hải Hà ra mắt diện mạo mới nhưng vẫn giữ nguyên hương vị quen thuộc với người Việt bao năm qua, thể hiện sự giao thoa giữa truyền thống và hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:00:00+07:00",
+      "fetched": "2026-02-12T17:41:51.940872+07:00"
+    },
+    {
+      "id": "2ba93c3a8386012d612e35db9cfe9281",
+      "title": "Phoenix CV Golf &amp; Resort - tổ hợp đa tiện ích nghỉ dưỡng, giải trí",
+      "link": "https://vnexpress.net/phoenix-cv-golf-resort-to-hop-da-tien-ich-nghi-duong-giai-tri-5040389.html",
+      "summary": "Phoenix CV Golf & Resort tái định vị bằng việc chuyển mình từ sân golf thành hệ sinh thái tích hợp đa tiện ích từ nghỉ dưỡng, ẩm thực đến giải trí sau 20 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:00:00+07:00",
+      "fetched": "2026-02-12T17:41:51.941032+07:00"
+    },
+    {
+      "id": "fcc6433f60172e2c02741b51f8426dd3",
+      "title": "Thức khuya, mất ngủ ngày Tết hại não thế nào",
+      "link": "https://vnexpress.net/thuc-khuya-mat-ngu-ngay-tet-hai-nao-the-nao-5040104.html",
+      "summary": "Rối loạn giấc ngủ kéo dài trong 1-2 tuần trong những ngày Tết có thể làm rối loạn huyết áp, nhịp tim và hoạt động tuần hoàn não, từ đó tăng nguy cơ đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T09:00:00+07:00",
+      "fetched": "2026-02-12T17:41:51.941196+07:00"
+    },
+    {
+      "id": "2ba93c3a8386012d612e35db9cfe9281",
+      "title": "Phoenix CV Golf &amp; Resort - tổ hợp đa tiện ích nghỉ dưỡng, giải trí",
+      "link": "https://vnexpress.net/phoenix-cv-golf-resort-to-hop-da-tien-ich-nghi-duong-giai-tri-5040389.html",
+      "summary": "Phoenix CV Golf & Resort tái định vị bằng việc chuyển mình từ sân golf thành hệ sinh thái tích hợp đa tiện ích từ nghỉ dưỡng, ẩm thực đến giải trí sau 20 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-12T09:00:00+07:00",
+      "fetched": "2026-02-12T17:41:58.195650+07:00"
+    },
+    {
       "id": "e462e00950a28c6597e27617fd01a563",
       "title": "Bộ trưởng Tư pháp Mỹ bị cáo buộc che đậy hồ sơ Epstein",
       "link": "https://tuoitre.vn/bo-truong-tu-phap-my-bi-cao-buoc-che-day-ho-so-epstein-20260212072653694.htm",
@@ -613,6 +1063,46 @@ window.newsData_2026_02_12 = {
       "fetched": "2026-02-12T15:42:02.692203+07:00"
     },
     {
+      "id": "2be541a146af56174a7b8da70c15bbbe",
+      "title": "Thiết kế giúp bom lượn Nga bay xa hơn cả tên lửa Patriot",
+      "link": "https://vnexpress.net/thiet-ke-giup-bom-luon-nga-bay-xa-hon-ca-ten-lua-patriot-5040370.html",
+      "summary": "Cải tiến khí động học giúp bom lượn UMPK Nga bay xa tới 150 km, hơn cả tầm bắn của tổ hợp Patriot, mà không cần động cơ phụ trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:39:41+07:00",
+      "fetched": "2026-02-12T17:41:51.941370+07:00"
+    },
+    {
+      "id": "2be541a146af56174a7b8da70c15bbbe",
+      "title": "Thiết kế giúp bom lượn Nga bay xa hơn cả tên lửa Patriot",
+      "link": "https://vnexpress.net/thiet-ke-giup-bom-luon-nga-bay-xa-hon-ca-ten-lua-patriot-5040370.html",
+      "summary": "Cải tiến khí động học giúp bom lượn UMPK Nga bay xa tới 150 km, hơn cả tầm bắn của tổ hợp Patriot, mà không cần động cơ phụ trợ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T08:39:41+07:00",
+      "fetched": "2026-02-12T17:41:57.162542+07:00"
+    },
+    {
+      "id": "a21e7e29ebe1ef37a41c654e7640bd1e",
+      "title": "Bộ trưởng Mỹ đấu khẩu tại Hạ viện về hồ sơ Epstein",
+      "link": "https://vnexpress.net/bo-truong-my-dau-khau-tai-ha-vien-ve-ho-so-epstein-5040342.html",
+      "summary": "Bộ trưởng Tư pháp Mỹ Pam Bondi đấu khẩu với các nghị sĩ khi bị chất vấn trong phiên điều trần tại Hạ viện về cách công bố hồ sơ Epstein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:33:28+07:00",
+      "fetched": "2026-02-12T17:41:51.941530+07:00"
+    },
+    {
+      "id": "a21e7e29ebe1ef37a41c654e7640bd1e",
+      "title": "Bộ trưởng Mỹ đấu khẩu tại Hạ viện về hồ sơ Epstein",
+      "link": "https://vnexpress.net/bo-truong-my-dau-khau-tai-ha-vien-ve-ho-so-epstein-5040342.html",
+      "summary": "Bộ trưởng Tư pháp Mỹ Pam Bondi đấu khẩu với các nghị sĩ khi bị chất vấn trong phiên điều trần tại Hạ viện về cách công bố hồ sơ Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T08:33:28+07:00",
+      "fetched": "2026-02-12T17:41:57.162704+07:00"
+    },
+    {
       "id": "e63247b79eadc01faf08b9aee8bfb23b",
       "title": "Tiếp sức hàng ngàn chai nước, bánh cho người dân trên đường về quê đón tết",
       "link": "https://thanhnien.vn/tiep-suc-hang-ngan-chai-nuoc-banh-cho-nguoi-dan-tren-duong-ve-que-don-tet-185260212142841628.htm",
@@ -631,6 +1121,16 @@ window.newsData_2026_02_12 = {
       "category": "Tổng hợp",
       "published": "2026-02-12T08:29:00+07:00",
       "fetched": "2026-02-12T15:42:02.692540+07:00"
+    },
+    {
+      "id": "27efe209e0d4e5dbda1c8cd8df978954",
+      "title": "Hạ mình xin ba mẹ anh cho chúng tôi ở bên nhau",
+      "link": "https://vnexpress.net/ha-minh-xin-ba-me-anh-cho-chung-toi-o-ben-nhau-5040448.html",
+      "summary": "Anh bảo ba mẹ cho rằng hai đứa không hợp tuổi, lỡ lấy về khổ sẽ đổ lên đầu tôi, đêm đó chúng tôi nằm ôm nhau khóc rất nhiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-12T08:22:56+07:00",
+      "fetched": "2026-02-12T17:41:51.941688+07:00"
     },
     {
       "id": "c75a82fdfeb59c9d7415cf8cc7fc88c2",
@@ -701,6 +1201,16 @@ window.newsData_2026_02_12 = {
       "category": "Thế giới",
       "published": "2026-02-12T08:07:51+07:00",
       "fetched": "2026-02-12T15:42:05.880213+07:00"
+    },
+    {
+      "id": "e7e832b313a17230cb278df765bf6cb2",
+      "title": "Quan chức Trung Quốc thiệt mạng vì ngã ngựa khi quay phim quảng bá địa phương",
+      "link": "https://vnexpress.net/quan-chuc-trung-quoc-thiet-mang-vi-nga-ngua-khi-quay-phim-quang-ba-dia-phuong-5040363.html",
+      "summary": "Hạ Kiều Long, quan chức Trung Quốc nổi tiếng trên mạng, qua đời ở tuổi 47 do cưỡi ngựa khi quay phim quảng bá nông nghiệp địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-12T08:07:51+07:00",
+      "fetched": "2026-02-12T17:41:57.162863+07:00"
     },
     {
       "id": "92d77cf39d46c1fb74e40d15b716d99e",
