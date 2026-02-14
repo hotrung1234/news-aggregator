@@ -1,7 +1,157 @@
 window.newsData_2026_02_14 = {
   "date": "2026-02-14",
-  "lastUpdated": "2026-02-14T17:23:23.712147+07:00",
+  "lastUpdated": "2026-02-14T19:41:33.056511+07:00",
   "articles": [
+    {
+      "id": "bcc90241ee765765ceec1a31aeec237d",
+      "title": "Trung Quốc miễn thuế cho 53 nước châu Phi, trừ một nước thân Đài Loan",
+      "link": "https://tuoitre.vn/trung-quoc-mien-thue-cho-53-nuoc-chau-phi-tru-mot-nuoc-than-dai-loan-20260214163255733.htm",
+      "summary": "Chủ tịch Tập Cận Bình tuyên bố Bắc Kinh sẽ miễn thuế với hàng nhập khẩu từ 53 quốc gia châu Phi có quan hệ ngoại giao với Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.583291+07:00",
+      "fetched": "2026-02-14T19:41:25.583401+07:00"
+    },
+    {
+      "id": "bc52c91bc7da55d19e32660b9fa66fa5",
+      "title": "Trung tâm Tài chính quốc tế TP.HCM: Ưu tiên hoàn thiện thể chế trong 3 năm đầu",
+      "link": "https://tuoitre.vn/trung-tam-tai-chinh-quoc-te-tp-hcm-uu-tien-hoan-thien-the-che-trong-3-nam-dau-20260214155056754.htm",
+      "summary": "Giám đốc điều hành cơ quan điều hành Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (VIFC - HCMC) cho biết thành công của VIFC trong 3 - 5 năm tới trước hết nên được đo bằng mức độ trưởng thành về thể chế, sau đó đến độ sâu của thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.583169+07:00",
+      "fetched": "2026-02-14T19:41:25.583280+07:00"
+    },
+    {
+      "id": "2f48c4393f5ea9ab4acf2b16b3bfb2d8",
+      "title": "Nam Bộ, TP.HCM có 2 đợt mưa trái mùa trước và sau tết",
+      "link": "https://tuoitre.vn/nam-bo-tp-hcm-co-2-dot-mua-trai-mua-truoc-va-sau-tet-20260214164136024.htm",
+      "summary": "Trước Tết và ngay sau Tết, thời tiết Nam Bộ, TP.HCM sẽ có mưa trái mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.583047+07:00",
+      "fetched": "2026-02-14T19:41:25.583157+07:00"
+    },
+    {
+      "id": "0991cd952b5c19d7340866077d418978",
+      "title": "Mỹ, châu Âu cùng thừa nhận: Trật tự thế giới cũ đã chấm dứt",
+      "link": "https://tuoitre.vn/my-chau-au-cung-thua-nhan-trat-tu-the-gioi-cu-da-cham-dut-20260214152608653.htm",
+      "summary": "Hội nghị An ninh Munich (Đức) năm nay trở thành diễn đàn cho một chủ đề thu hút nhiều chú ý: trật tự quốc tế sau Thế chiến 2 đang tan rã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582923+07:00",
+      "fetched": "2026-02-14T19:41:25.583036+07:00"
+    },
+    {
+      "id": "fc17f65d0f91be704f8dc35c7746cb6d",
+      "title": "Steven Nguyễn trở lại diễn kịch Tết, fan chộn rộn bàn tán tìm vé",
+      "link": "https://tuoitre.vn/steven-nguyen-tro-lai-dien-kich-tet-fan-chon-ron-ban-tan-tim-ve-20260214164105081.htm",
+      "summary": "Sau một thời gian bận rộn với phim ảnh và các chương trình truyền hình, diễn viên Steven Nguyễn sẽ trở lại mùa kịch Tết Bính Ngọ tại Sân khấu Mới (5B Phạm Ngũ Lão).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582767+07:00",
+      "fetched": "2026-02-14T19:41:25.582910+07:00"
+    },
+    {
+      "id": "a95427d7f96baacd5a341b4a9dd07b7d",
+      "title": "Bắt đôi nam nữ trong nhóm cho vay lãi nặng lên đến 730%/năm ở TP.HCM",
+      "link": "https://tuoitre.vn/bat-doi-nam-nu-trong-nhom-cho-vay-lai-nang-len-den-730-nam-o-tp-hcm-20260214170302045.htm",
+      "summary": "Ngày 14-2, Cơ quan cảnh sát điều tra Công an TP.HCM đã khởi tố bị can, bắt tạm giam người phụ nữ trong nhóm cho vay lãi nặng từ 365% đến 730%/năm tại xã Phước Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582644+07:00",
+      "fetched": "2026-02-14T19:41:25.582756+07:00"
+    },
+    {
+      "id": "b41942e6d2c967a24d21982ea224b0d4",
+      "title": "Cháu song sinh của Công nương Diana diện đồ đồng điệu tại dạ tiệc Opera Vienna Ball",
+      "link": "https://tuoitre.vn/chau-song-sinh-cua-cong-nuong-diana-dien-do-dong-dieu-tai-da-tiec-opera-vienna-ball-20260214153854553.htm",
+      "summary": "Lady Eliza Spencer và Lady Amelia Spencer - hai cháu gái song sinh của Công nương Diana - chưa bao giờ bỏ lỡ cơ hội lên đồ đồng điệu cùng nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582519+07:00",
+      "fetched": "2026-02-14T19:41:25.582633+07:00"
+    },
+    {
+      "id": "24e257170cd97aa26c17c8cee514f716",
+      "title": "Du lịch dịp Tết: người Hàn Quốc đi Nhật nhiều hơn đi Trung Quốc",
+      "link": "https://tuoitre.vn/du-lich-dip-tet-nguoi-han-quoc-di-nhat-nhieu-hon-di-trung-quoc-20260214171200196.htm",
+      "summary": "Ban quản lý sân bay quốc tế Incheon (Hàn Quốc) dự báo tổng cộng 204.084 du khách dự kiến sẽ từ Hàn Quốc đến thăm các nước Đông Nam Á dịp Tết Nguyên đán năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582393+07:00",
+      "fetched": "2026-02-14T19:41:25.582507+07:00"
+    },
+    {
+      "id": "8cc60154f30dcc31c28f51dbb88419d3",
+      "title": "Cung ứng xăng dầu trên cao tốc TP.HCM - Long Thành - Dầu Giây: Bạn đọc ngạc nhiên vì sự chậm chạp",
+      "link": "https://tuoitre.vn/cung-ung-xang-dau-tren-cao-toc-tp-hcm-long-thanh-dau-giay-ban-doc-ngac-nhien-vi-su-cham-chap-20260214121757398.htm",
+      "summary": "Đến nay, ngày 27 Tết, mà địa phương vẫn loay hoay giải quyết chuyện trạm xăng dầu trên cao tốc TP.HCM - Long Thành - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582261+07:00",
+      "fetched": "2026-02-14T19:41:25.582381+07:00"
+    },
+    {
+      "id": "7a892cf65d7c6c98f86cfb92c09b230f",
+      "title": "Hẹn hò Ngày tình yêu 14-2 tại Vinhomes Green Paradise Cần Giờ",
+      "link": "https://tuoitre.vn/hen-ho-ngay-tinh-yeu-14-2-tai-vinhomes-green-paradise-can-gio-20260214104236783.htm",
+      "summary": "Ngày tình yêu 14-2, đông đảo gia đình và các cặp đôi trẻ đã chọn Vinhomes Green Paradise Cần Giờ làm điểm hẹn, trải nghiệm lễ hội xuân rộn ràng sắc màu nơi đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.582131+07:00",
+      "fetched": "2026-02-14T19:41:25.582249+07:00"
+    },
+    {
+      "id": "ea380087294013e59d79c6661d7f03bd",
+      "title": "Ngoại trưởng Mỹ dịu giọng, châu Âu thở phào",
+      "link": "https://tuoitre.vn/ngoai-truong-my-diu-giong-chau-au-tho-phao-20260214174013068.htm",
+      "summary": "Ngoại trưởng Marco Rubio khẳng định Washington muốn “tái sinh” liên minh xuyên Đại Tây Dương và kêu gọi châu Âu sát cánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.581995+07:00",
+      "fetched": "2026-02-14T19:41:25.582113+07:00"
+    },
+    {
+      "id": "bad523a02b0e1ca5042fdb8d27c24414",
+      "title": "Chúng ta sống để trở về",
+      "link": "https://tuoitre.vn/chung-ta-song-de-tro-ve-20260214122752395.htm",
+      "summary": "Cuốn sách 'Chúng ta sống để trở về' gợi nhắc ý nghĩa của mái nhà, của những chờ đợi lặng thầm và của chính bản thân mình giữa nhịp sống nhiều biến động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.581832+07:00",
+      "fetched": "2026-02-14T19:41:25.581982+07:00"
+    },
+    {
+      "id": "db1f8f1f57af9ba48877a3f5e1d2a44a",
+      "title": "Kẹt xe do đèn đỏ dài, đèn xanh ngắn: Bạn đọc dẫn chứng nhiều nơi",
+      "link": "https://tuoitre.vn/ket-xe-do-den-do-dai-den-xanh-ngan-ban-doc-dan-chung-nhieu-noi-2026021411500259.htm",
+      "summary": "Nhiều đô thị trên cả nước cũng có tình trạng đèn đỏ dài, đèn xanh ngắn, bạn đọc đề xuất cơ quan chức năng cần điều chỉnh kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.581699+07:00",
+      "fetched": "2026-02-14T19:41:25.581820+07:00"
+    },
+    {
+      "id": "710e9b07d4068d127e765d76d5af0b23",
+      "title": "Ngày Tết, thèm thịt heo ngâm mắm xứ Quảng của má",
+      "link": "https://tuoitre.vn/ngay-tet-them-thit-heo-ngam-mam-xu-quang-cua-ma-20260214150803251.htm",
+      "summary": "Thịt heo ngâm mắm đường săn chắc, ít béo, có vị mặn, ngọt thơm ngon, là món ăn không thể thiếu mỗi dịp Tết đến Xuân về của người dân xứ Quảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.581556+07:00",
+      "fetched": "2026-02-14T19:41:25.581686+07:00"
+    },
+    {
+      "id": "d73c573aa70bd8662d765e6cc49dc4ed",
+      "title": "Dập tắt tin đồn dứt áo ra đi, Ronaldo trở lại đội hình Al Nassr",
+      "link": "https://tuoitre.vn/dap-tat-tin-don-dut-ao-ra-di-ronaldo-tro-lai-doi-hinh-al-nassr-20260214180451818.htm",
+      "summary": "Sau ba trận không có tên trong danh sách thi đấu, siêu sao Cristiano Ronaldo đã chính thức trở lại đội hình Al Nassr cho cuộc đối đầu với Al Fateh tại vòng 22 Saudi Pro League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T19:41:25.581327+07:00",
+      "fetched": "2026-02-14T19:41:25.581541+07:00"
+    },
     {
       "id": "33150bb1fa8e0aa6793ae3f4df4de6fb",
       "title": "Hà Anh Tuấn song ca với ai hay nhất: danh ca Tuấn Ngọc hay Quang Hùng MasterD?",
@@ -453,6 +603,66 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T13:40:38.012584+07:00"
     },
     {
+      "id": "b987fc233a0dfedd4f3ddad8294420e5",
+      "title": "Lính Ukraine chật vật tìm cách sống sót trong chiến hào lạnh giá",
+      "link": "https://vnexpress.net/linh-ukraine-chat-vat-tim-cach-song-sot-trong-chien-hao-lanh-gia-5040940.html",
+      "summary": "Binh sĩ Ukraine phải tìm mọi cách giữ ấm cho bản thân, tránh bị chết cóng khi làm nhiệm vụ trong chiến hào giữa mùa đông lạnh giá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-14T12:00:00+07:00",
+      "fetched": "2026-02-14T19:41:26.851504+07:00"
+    },
+    {
+      "id": "19004a0cfc164bac528187d09a899d41",
+      "title": "Giải pháp MB Seller hỗ trợ hộ kinh doanh 'buôn bán an tâm' thế nào?",
+      "link": "https://vnexpress.net/giai-phap-mb-seller-ho-tro-ho-kinh-doanh-buon-ban-an-tam-the-nao-5041313.html",
+      "summary": "Bộ giải pháp MB Seller của Ngân hàng TMCP Quân đội (MB) hỗ trợ hộ kinh doanh từ tư vấn kê khai thuế đến tối ưu vận hành ngay trên điện thoại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-14T12:00:00+07:00",
+      "fetched": "2026-02-14T19:41:28.190101+07:00"
+    },
+    {
+      "id": "16aee8e852f9e10123c55da7c2eb311c",
+      "title": "Ùn ứ kéo dài trên đường nối Mũi Né - Đà Lạt",
+      "link": "https://vnexpress.net/un-u-keo-dai-tren-duong-noi-mui-ne-da-lat-5041310.html",
+      "summary": "Dòng ôtô xếp hàng dài nhiều km trên quốc lộ 28B (nối Mũi Né - Đà Lạt), đoạn qua đèo Đại Ninh, do xe gầm thấp phải nhích từng mét qua khu vực đang thi công, chiều 14/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T11:56:45+07:00",
+      "fetched": "2026-02-14T19:41:22.021336+07:00"
+    },
+    {
+      "id": "eb3ccb1c343597f83ddc946b3edc7675",
+      "title": "Valentine thời 'bão giá'",
+      "link": "https://vnexpress.net/valentine-thoi-bao-gia-5041212.html",
+      "summary": "Giá hoa, chocolate và dịch vụ ăn uống tăng cao khiến nhiều cặp đôi chọn ở nhà hoặc cắt giảm chi tiêu, trong khi nhóm thu nhập tốt vẫn mạnh tay mua sắm dịp Valentine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T11:50:49+07:00",
+      "fetched": "2026-02-14T19:41:22.021513+07:00"
+    },
+    {
+      "id": "7eb15d6042c1ddb1d49fa02400efb745",
+      "title": "'Eternal Sunshine of the Spotless Mind' - công nghệ thử thách tình yêu",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/eternal-sunshine-of-the-spotless-mind-73",
+      "summary": "Sau hơn 20 năm, \"Eternal Sunshine of the Spotless Mind\" vẫn khiến khán giả day dứt với câu chuyện đôi tình nhân xóa ký ức về nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T11:27:10+07:00",
+      "fetched": "2026-02-14T19:41:22.021680+07:00"
+    },
+    {
+      "id": "81b6b17eeeaaa9e09d395417efeae846",
+      "title": "Cầu Vàng Đà Nẵng vào danh sách 10 cây cầu đẹp nhất thế giới",
+      "link": "https://vnexpress.net/cau-vang-da-nang-vao-danh-sach-10-cay-cau-dep-nhat-the-gioi-5041261.html",
+      "summary": "Tạp chí du lịch Time Out công bố danh sách 19 cây cầu đẹp nhất thế giới trong đó Cầu Vàng của Đà Nẵng xếp thứ 4 nhờ thiết kế độc đáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T11:20:37+07:00",
+      "fetched": "2026-02-14T19:41:22.021854+07:00"
+    },
+    {
       "id": "b343bfe430e334ab514d0108b5596791",
       "title": "Trung Quốc đưa 10 mô hình AI lên quỹ đạo, vệ tinh tự xử lý dữ liệu",
       "link": "https://tuoitre.vn/trung-quoc-dua-10-mo-hinh-ai-len-quy-dao-ve-tinh-tu-xu-ly-du-lieu-20260214090821315.htm",
@@ -603,6 +813,66 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T11:08:14.841018+07:00"
     },
     {
+      "id": "677c35e1d308474cbde8ce0cc447a613",
+      "title": "Bố mẹ chồng đồng tình với những hành vi sai trái của chồng tôi",
+      "link": "https://vnexpress.net/bo-me-chong-dong-tinh-voi-nhung-hanh-vi-sai-trai-cua-chong-toi-5041024.html",
+      "summary": "Chồng tôi vốn nghĩ mình vô tội, giờ thêm bố mẹ hậu thuẫn, tôi nghĩ chắc anh chẳng có gì phải sợ, sẽ tiếp tục hành động sai trái đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T11:00:00+07:00",
+      "fetched": "2026-02-14T19:41:22.022025+07:00"
+    },
+    {
+      "id": "f9804081bf9e971bcff7fa3980ad0f8b",
+      "title": "Người đàn bà bị cáo buộc làm giả giấy tờ đất, lừa 270 tỷ đồng",
+      "link": "https://vnexpress.net/nguoi-dan-ba-bi-cao-buoc-lam-gia-giay-to-dat-lua-270-ty-dong-5041301.html",
+      "summary": "Bà Bùi Thị Kim Dung, 54 tuổi, bị cáo buộc làm giả giấy tờ, bán dự án \"ma\" để chiếm đoạt gần 270 tỷ đồng của 86 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:57:17+07:00",
+      "fetched": "2026-02-14T19:41:22.022180+07:00"
+    },
+    {
+      "id": "066b0852fe755113cdbe2376e425e7c1",
+      "title": "Starlink được cấp phép Internet vệ tinh tại Việt Nam",
+      "link": "https://vnexpress.net/starlink-duoc-cap-phep-internet-ve-tinh-tai-viet-nam-5041294.html",
+      "summary": "Sau nhiều tháng hoàn tất thủ tục, công ty SpaceX của Elon Musk được cấp phép cung cấp dịch vụ Internet vệ tinh Starlink tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:39:08+07:00",
+      "fetched": "2026-02-14T19:41:22.022344+07:00"
+    },
+    {
+      "id": "066b0852fe755113cdbe2376e425e7c1",
+      "title": "Starlink được cấp phép Internet vệ tinh tại Việt Nam",
+      "link": "https://vnexpress.net/starlink-duoc-cap-phep-internet-ve-tinh-tai-viet-nam-5041294.html",
+      "summary": "Sau nhiều tháng hoàn tất thủ tục, công ty SpaceX của Elon Musk được cấp phép cung cấp dịch vụ Internet vệ tinh Starlink tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-14T10:39:08+07:00",
+      "fetched": "2026-02-14T19:41:31.372683+07:00"
+    },
+    {
+      "id": "7625a19800a260a190dd3aec5049bbfb",
+      "title": "Ngân hàng số Vikki trao một ký vàng cho khách hàng gửi tiết kiệm",
+      "link": "https://vnexpress.net/ngan-hang-so-vikki-trao-mot-ky-vang-cho-khach-hang-gui-tiet-kiem-5041274.html",
+      "summary": "Ngân hàng số Vikki trao giải đặc biệt là một ký vàng SJC cho khách hàng tham gia gửi tiết kiệm, vào ngày 14/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:30:00+07:00",
+      "fetched": "2026-02-14T19:41:22.022518+07:00"
+    },
+    {
+      "id": "7625a19800a260a190dd3aec5049bbfb",
+      "title": "Ngân hàng số Vikki trao một ký vàng cho khách hàng gửi tiết kiệm",
+      "link": "https://vnexpress.net/ngan-hang-so-vikki-trao-mot-ky-vang-cho-khach-hang-gui-tiet-kiem-5041274.html",
+      "summary": "Ngân hàng số Vikki trao giải đặc biệt là một ký vàng SJC cho khách hàng tham gia gửi tiết kiệm, vào ngày 14/2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-14T10:30:00+07:00",
+      "fetched": "2026-02-14T19:41:28.190257+07:00"
+    },
+    {
       "id": "bb774e027c9532dc0eb200ed3bfb1594",
       "title": "'Nhà sư trượt tuyết' đứng sau kỳ tích Olympic của Hàn Quốc",
       "link": "https://vnexpress.net/nha-su-truot-tuyet-dung-sau-ky-tich-olympic-cua-han-quoc-5041260.html",
@@ -611,6 +881,16 @@ window.newsData_2026_02_14 = {
       "category": "Thế giới",
       "published": "2026-02-14T10:18:54+07:00",
       "fetched": "2026-02-14T17:23:19.651557+07:00"
+    },
+    {
+      "id": "c075b6011484197f7920cf84e9a0ad31",
+      "title": "Điểm tin 17h: Giá vàng miếng tăng 2 triệu đồng mỗi lượng | Sa Pa, Phú Quốc 'cháy' phòng dịp Tết",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-vang-mieng-tang-2-trieu-dong-moi-luong-sa-pa-phu-quoc-chay-phong-dip-tet-5041277.html",
+      "summary": "Sa Pa, Phú Quốc 'cháy' phòng dịp Tết; Tổng Bí thư Tô Lâm: Mỹ là một trong những đối tác quan trọng hàng đầu;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:14:58+07:00",
+      "fetched": "2026-02-14T19:41:22.022832+07:00"
     },
     {
       "id": "02179162574ca099be87a1435f1b26ec",
@@ -653,6 +933,16 @@ window.newsData_2026_02_14 = {
       "fetched": "2026-02-14T17:23:16.913240+07:00"
     },
     {
+      "id": "4e520f44f5210b56bf996fcf12e1aa91",
+      "title": "Giải áp lực lì xì ngày Tết",
+      "link": "https://vnexpress.net/giai-ap-luc-li-xi-ngay-tet-5041254.html",
+      "summary": "Tiền mừng tuổi ngày càng vượt khả năng tài chính, nhiều người chọn không lì xì hoặc cắt giảm để tiết kiệm chi tiêu ngày Tết và đưa về đúng nghĩa tập tục lấy may đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:06:45+07:00",
+      "fetched": "2026-02-14T19:41:22.023008+07:00"
+    },
+    {
       "id": "b545d6456db1e4c59ca0494f9b80d8cb",
       "title": "Dãy số độc lạ 444444 trúng xổ số miền Nam ngày 14 tháng 2 đài Long An",
       "link": "https://thanhnien.vn/day-so-doc-la-444444-trung-xo-so-mien-nam-ngay-14-thang-2-dai-long-an-185260214165321407.htm",
@@ -691,6 +981,16 @@ window.newsData_2026_02_14 = {
       "category": "Tổng hợp",
       "published": "2026-02-14T10:03:00+07:00",
       "fetched": "2026-02-14T17:23:16.913627+07:00"
+    },
+    {
+      "id": "76d22326c834ee2a67a6a142ffa51d2e",
+      "title": "Khu đô thị 12.000 tỷ đồng ở Tây Ninh tìm được chủ",
+      "link": "https://vnexpress.net/khu-do-thi-12-000-ty-dong-o-tay-ninh-tim-duoc-chu-5041265.html",
+      "summary": "Doanh nghiệp liên quan Him Lam vừa được duyệt đầu tư khu dân cư tại Đức Hòa, Long An cũ với quy mô gần 190 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-14T10:02:58+07:00",
+      "fetched": "2026-02-14T19:41:22.023326+07:00"
     },
     {
       "id": "9a1ac4b11ad4dd49a9a554f73cb1c854",
