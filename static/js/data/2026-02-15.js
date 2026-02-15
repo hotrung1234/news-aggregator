@@ -1,7 +1,97 @@
 window.newsData_2026_02_15 = {
   "date": "2026-02-15",
-  "lastUpdated": "2026-02-15T21:24:55.617942+07:00",
+  "lastUpdated": "2026-02-15T23:27:06.585934+07:00",
   "articles": [
+    {
+      "id": "d77db6c075463a3ff7b25b6b48f1478b",
+      "title": "Mùa xuân cất cánh",
+      "link": "https://tuoitre.vn/mua-xuan-cat-canh-20260205131808574.htm",
+      "summary": "Vào những ngày đầu xuân năm 2026, khi cần cẩu, sà lan được tập kết để thi công siêu dự án cầu vượt biển Hòn Khoai, người dân cả nước và bà con vùng Đất Mũi - Hòn Khoai (tỉnh Cà Mau) vô cùng phấn khích về một công trình lịch sử sắp hình thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.917460+07:00",
+      "fetched": "2026-02-15T23:26:58.917586+07:00"
+    },
+    {
+      "id": "79c713cd311499865892c94e0d869839",
+      "title": "Trải nghiệm phiên bản đêm của đường hoa Nguyễn Huệ Tết Bính Ngọ 2026 sau lễ khai mạc",
+      "link": "https://tuoitre.vn/trai-nghiem-phien-ban-dem-cua-duong-hoa-nguyen-hue-tet-binh-ngo-2026-sau-le-khai-mac-20260215205232824.htm",
+      "summary": "Tối 15-2 (28 tháng chạp), người dân và du khách ở TP.HCM đã được trải nghiệm phiên bản đặc biệt của đường hoa Nguyễn Huệ 2026 ngay trong đêm khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.917335+07:00",
+      "fetched": "2026-02-15T23:26:58.917448+07:00"
+    },
+    {
+      "id": "e39981bd93e50e5654b015237ed4f981",
+      "title": "Việt Nam còn đón giao thừa vào 29 Tết thêm mấy năm nữa?",
+      "link": "https://tuoitre.vn/viet-nam-con-don-giao-thua-vao-29-tet-them-may-nam-nua-20260215165537528.htm",
+      "summary": "Tết Bính Ngọ 2026, người Việt lại đón giao thừa vào đêm 29 tháng chạp thay vì 'đêm 30' quen thuộc. Chuỗi không có ngày 30 Tết này sẽ còn kéo dài thêm nhiều năm nữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.917210+07:00",
+      "fetched": "2026-02-15T23:26:58.917324+07:00"
+    },
+    {
+      "id": "7c5013a5067b44d42eca6a11bcfc8205",
+      "title": "15 trường thuộc Bộ Quốc phòng tuyển gần 3.900 chỉ tiêu hệ dân sự năm 2026",
+      "link": "https://tuoitre.vn/15-truong-thuoc-bo-quoc-phong-tuyen-gan-3-900-chi-tieu-he-dan-su-nam-2026-20260215211422725.htm",
+      "summary": "Năm học 2026, các cơ sở đào tạo trong quân đội được Bộ Quốc phòng giao đào tạo hệ dân sự với 3.883 chỉ tiêu ở các trình độ, gồm: trung cấp, cao đẳng, đại học và sau đại học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.917084+07:00",
+      "fetched": "2026-02-15T23:26:58.917199+07:00"
+    },
+    {
+      "id": "20dcb31882fff0c0ddba6081ea8be5f5",
+      "title": "Cựu bộ trưởng Ukraine bị bắt khi đang vượt biên giữa bê bối tham nhũng 100 triệu USD",
+      "link": "https://tuoitre.vn/cuu-bo-truong-ukraine-bi-bat-khi-dang-vuot-bien-giua-be-boi-tham-nhung-100-trieu-usd-20260215212812649.htm",
+      "summary": "Ukraine đã bắt giữ cựu Bộ trưởng Tư pháp Herman Halushchenko khi ông đang tìm cách vượt biên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.916958+07:00",
+      "fetched": "2026-02-15T23:26:58.917073+07:00"
+    },
+    {
+      "id": "5152f0e439c4987453dc1bfc28caf20e",
+      "title": "Lắp cầu phao sông Lô 'thần tốc', đại tướng Phan Văn Giang gửi thư biểu dương các lực lượng tham gia",
+      "link": "https://tuoitre.vn/lap-cau-phao-song-lo-than-toc-dai-tuong-phan-van-giang-gui-thu-bieu-duong-cac-luc-luong-tham-gia-20260215213731956.htm",
+      "summary": "Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, vừa có thư bày tỏ xúc động và biểu dương toàn thể cán bộ, chiến sĩ tham gia bắc cầu phao sông Lô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.916825+07:00",
+      "fetched": "2026-02-15T23:26:58.916946+07:00"
+    },
+    {
+      "id": "b4e72a8c132cc5409e8be86f3fa1208c",
+      "title": "Du học sinh xa nhà: giao thừa qua màn hình, nước mắt rơi sau tắt máy, chúc Tết lúc 3h sáng",
+      "link": "https://tuoitre.vn/du-hoc-sinh-xa-nha-giao-thua-qua-man-hinh-nuoc-mat-roi-sau-tat-may-chuc-tet-luc-3h-sang-20260130135811718.htm",
+      "summary": "Tết xa nhà, nỗi nhớ gia đình trở nên rõ ràng hơn với nhiều du học sinh. Giữa nhịp sống bận rộn nơi xứ người, cách đón Tết của họ cũng theo nhiều cách riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.916692+07:00",
+      "fetched": "2026-02-15T23:26:58.916813+07:00"
+    },
+    {
+      "id": "60cdef5ec8dee290f26b35cf0a114949",
+      "title": "Lễ hội Đường sách Tết 2026 rộn ràng ngày khai mạc",
+      "link": "https://tuoitre.vn/le-hoi-duong-sach-tet-2026-ron-rang-ngay-khai-mac-20260215162203793.htm",
+      "summary": "Chiều tối 15-2, lễ hội Đường sách Tết 2026 chính thức khai mạc tại đường Lê Lợi, mở đầu cho chuỗi hoạt động văn hóa đặc sắc dịp xuân mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.916527+07:00",
+      "fetched": "2026-02-15T23:26:58.916678+07:00"
+    },
+    {
+      "id": "df1d28ea369c72d4b27459bc4fe67070",
+      "title": "Trang điểm ba ngày Tết: Đẹp thế nào, tránh tông màu gì cho đỡ... xui?",
+      "link": "https://tuoitre.vn/trang-diem-ba-ngay-tet-dep-the-nao-tranh-tong-mau-gi-cho-do-xui-20260215203436373.htm",
+      "summary": "Tết là dịp sum họp gia đình, lưu lại những khoảnh khắc rạng rỡ đầu năm. Trang điểm sao cho phù hợp điểm đến chúc xuân rất quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T23:26:58.916307+07:00",
+      "fetched": "2026-02-15T23:26:58.916512+07:00"
+    },
     {
       "id": "73727c496ebdc6dbb2a9f5bdf8c2eb73",
       "title": "Trốn tội say rượu lái xe, tài xế ngủ để xe tự lái bằng ADAS, vẫn nhận kết quả đắng",
@@ -433,6 +523,66 @@ window.newsData_2026_02_15 = {
       "fetched": "2026-02-15T17:23:06.314946+07:00"
     },
     {
+      "id": "96f6d52131f08c8acd0bbea6eb3976a4",
+      "title": "Dàn sao dạo đường hoa Nguyễn Huệ ngày khai mạc",
+      "link": "https://vnexpress.net/dan-sao-dao-duong-hoa-nguyen-hue-ngay-khai-mac-5041619.html",
+      "summary": "Vợ chồng Tăng Thanh Hà cùng dàn sao diện áo dài dự lễ khai mạc đường hoa Nguyễn Huệ, tối 15/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T16:01:44+07:00",
+      "fetched": "2026-02-15T23:26:53.794233+07:00"
+    },
+    {
+      "id": "d8771b52da5d75db369bb995683c9299",
+      "title": "Thái Lan cấm thi đấu vĩnh viễn Tokyogurl - Cheerio vì gian lận ở SEA Games, chờ tòa tuyên án ngày 17.3",
+      "link": "https://thanhnien.vn/thai-lan-cam-thi-dau-vinh-vien-tokyogurl-cheerio-vi-gian-lan-o-sea-games-cho-toa-tuyen-an-ngay-173-185260215225717869.htm",
+      "summary": "2 game thủ RoV Thái Lan Tokyogurl và Cheerio bị cấm thi đấu vĩnh viễn sau bê bối gian lận tại SEA Games 2025. Tòa án dự kiến tuyên án ngày 17.3, có thể phạt tù và phạt tiền theo luật Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T16:00:00+07:00",
+      "fetched": "2026-02-15T23:26:57.755292+07:00"
+    },
+    {
+      "id": "6391493b3c607d3cb87813817624698e",
+      "title": "Thủ tướng Hungary: EU là mối đe dọa, không phải Nga",
+      "link": "https://vnexpress.net/thu-tuong-hungary-eu-la-moi-de-doa-khong-phai-nga-5041631.html",
+      "summary": "Ông Orban gọi EU là \"mối nguy hiểm cận kề\" dù Hungary là thành viên của khối, bác bỏ quan điểm Nga đe dọa an ninh của châu lục. ​​​",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:50:33+07:00",
+      "fetched": "2026-02-15T23:26:53.794436+07:00"
+    },
+    {
+      "id": "6391493b3c607d3cb87813817624698e",
+      "title": "Thủ tướng Hungary: EU là mối đe dọa, không phải Nga",
+      "link": "https://vnexpress.net/thu-tuong-hungary-eu-la-moi-de-doa-khong-phai-nga-5041631.html",
+      "summary": "Ông Orban gọi EU là \"mối nguy hiểm cận kề\" dù Hungary là thành viên của khối, bác bỏ quan điểm Nga đe dọa an ninh của châu lục. ​​​",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T15:50:33+07:00",
+      "fetched": "2026-02-15T23:27:00.232140+07:00"
+    },
+    {
+      "id": "8f9dfd19df66f2e382a23d8502a97cdc",
+      "title": "Đường hoa Nguyễn Huệ đông nghịt người ngày mở cửa",
+      "link": "https://vnexpress.net/duong-hoa-nguyen-hue-dong-nghit-nguoi-ngay-mo-cua-5041641.html",
+      "summary": "Tối 28 Tết, hàng chục nghìn người dân, du khách đổ về đường hoa Nguyễn Huệ tham quan, chụp ảnh với linh vật ngựa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:40:25+07:00",
+      "fetched": "2026-02-15T23:26:53.794633+07:00"
+    },
+    {
+      "id": "2bca725d5e46266816c55b8e60c9cec7",
+      "title": "'Biển người' ở đường hoa Nguyễn Huệ đêm khai mạc 28 tết",
+      "link": "https://thanhnien.vn/bien-nguoi-o-duong-hoa-nguyen-hue-trong-dem-khai-mac-toi-28-tet-185260215221645561.htm",
+      "summary": "Tối 15.2 (28 tháng chạp), hàng ngàn người từ khắp nơi đổ về đường hoa Nguyễn Huệ ở trung tâm TP.HCM tham quan, chụp ảnh trong đêm khai mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:31:00+07:00",
+      "fetched": "2026-02-15T23:26:57.755461+07:00"
+    },
+    {
       "id": "b12fdecaba982d6b3894893ebdf03dfc",
       "title": "Ông Obama phản ứng vụ bị ghép mặt lên thân khỉ",
       "link": "https://tuoitre.vn/ong-obama-phan-ung-vu-bi-ghep-mat-len-than-khi-20260215125844927.htm",
@@ -581,6 +731,66 @@ window.newsData_2026_02_15 = {
       "category": "Tổng hợp",
       "published": "2026-02-15T15:29:44.550208+07:00",
       "fetched": "2026-02-15T15:29:44.550436+07:00"
+    },
+    {
+      "id": "0d332527c9ccaade3762925b1d7cf87c",
+      "title": "Đoạt mạng bạn trong cuộc nhậu tất niên",
+      "link": "https://vnexpress.net/doat-mang-ban-trong-cuoc-nhau-tat-nien-5041626.html",
+      "summary": "Đinh Văn Diện, 37 tuổi, bị cáo buộc cầm dao đâm chết anh Trần Viết Vinh, 39 tuổi, do mâu thuẫn trong cuộc nhậu tất niên chiều 28 Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T15:15:21+07:00",
+      "fetched": "2026-02-15T23:26:53.794805+07:00"
+    },
+    {
+      "id": "f0a3b70a5f044bd7f9585f6c71780f82",
+      "title": "Nỗi buồn cây mai 120 triệu mới rằm tháng Chạp đã nở vàng rực",
+      "link": "https://vnexpress.net/noi-buon-cay-mai-120-trieu-moi-ram-thang-chap-da-no-vang-ruc-5041588.html",
+      "summary": "Anh tôi canh ngày tuốt lá mai nhưng vẫn thua những biến số không lường trước được bằng kinh nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T14:44:23+07:00",
+      "fetched": "2026-02-15T23:26:53.794974+07:00"
+    },
+    {
+      "id": "b47dd2c8d1007116ec82b5610e219c34",
+      "title": "Cựu bộ trưởng Ukraine bị bắt khi đang tìm cách ra nước ngoài",
+      "link": "https://vnexpress.net/cuu-bo-truong-ukraine-bi-bat-khi-dang-tim-cach-ra-nuoc-ngoai-5041623.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine thông báo đã bắt một cựu bộ trưởng năng lượng trong vụ điều tra bê bối tham nhũng 100 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T14:33:12+07:00",
+      "fetched": "2026-02-15T23:26:53.795137+07:00"
+    },
+    {
+      "id": "b47dd2c8d1007116ec82b5610e219c34",
+      "title": "Cựu bộ trưởng Ukraine bị bắt khi đang tìm cách ra nước ngoài",
+      "link": "https://vnexpress.net/cuu-bo-truong-ukraine-bi-bat-khi-dang-tim-cach-ra-nuoc-ngoai-5041623.html",
+      "summary": "Cơ quan chống tham nhũng Ukraine thông báo đã bắt một cựu bộ trưởng năng lượng trong vụ điều tra bê bối tham nhũng 100 triệu USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-15T14:33:12+07:00",
+      "fetched": "2026-02-15T23:27:00.232316+07:00"
+    },
+    {
+      "id": "ef665c2f0bd738a4274d4e2b68274363",
+      "title": "Brooklyn Beckham phản ứng khi bị nhận xét 'quá say mê vợ'",
+      "link": "https://vnexpress.net/brooklyn-beckham-phan-ung-khi-bi-nhan-xet-qua-say-me-vo-5041608.html",
+      "summary": "Brooklyn Beckham gây chú ý với khán giả khi hủy theo dõi đầu bếp Gordon Ramsay trên Instagram khi ông bình luận anh \"quá say mê vợ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T14:31:53+07:00",
+      "fetched": "2026-02-15T23:26:53.795293+07:00"
+    },
+    {
+      "id": "58502e737d6667cdc110e8bbfbcc25dd",
+      "title": "Hàng ngàn người đổ về check-in cùng linh vật 'trùm cuối' Kim Mã 4.0 bên sông Hàn",
+      "link": "https://thanhnien.vn/hang-ngan-nguoi-do-ve-check-in-cung-linh-vat-trum-cuoi-kim-ma-40-ben-song-han-185260215190701082.htm",
+      "summary": "Trong ngày 28 tết trước giao thừa, khu vực đường hoa ven sông Hàn (TP.Đà Nẵng) đã thu hút đông đúc người dân và du khách đổ về chiêm ngưỡng dàn linh vật ngựa độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-15T14:26:00+07:00",
+      "fetched": "2026-02-15T23:26:57.755640+07:00"
     },
     {
       "id": "3620e6141c94e7dee070234ef51ca090",
