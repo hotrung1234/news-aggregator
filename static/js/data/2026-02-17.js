@@ -1,7 +1,77 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T17:41:50.802320+07:00",
+  "lastUpdated": "2026-02-17T19:57:51.326717+07:00",
   "articles": [
+    {
+      "id": "5b8a73ae9ccd547d79253f8fd2fdc2f8",
+      "title": "Niềm vui của kiều bào có sổ hồng: 'Câu nói nhà tôi ở Việt Nam thật sự thiêng liêng'",
+      "link": "https://tuoitre.vn/niem-vui-cua-kieu-bao-co-so-hong-cau-noi-nha-toi-o-viet-nam-that-su-thieng-lieng-20260204144829954.htm",
+      "summary": "Một chiều đầu tháng 9-2025, chị Nguyễn Thị Thu Trang, kiều bào đã sống 15 năm ở Phần Lan, hạnh phúc khi được cầm trên tay giấy chứng nhận quyền sở hữu căn nhà tại thành phố Phan Thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173988+07:00",
+      "fetched": "2026-02-17T19:57:45.174170+07:00"
+    },
+    {
+      "id": "f0dfd08a55bb54f61d61622da96dbcbc",
+      "title": "Chủ tịch UBND TP.HCM Nguyễn Văn Được chúc Tết xuân Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-nguyen-van-duoc-chuc-tet-xuan-binh-ngo-2026-20260217165650027.htm",
+      "summary": "Năm mới Bính Ngọ 2026, Chủ tịch UBND TP.HCM Nguyễn Văn Được gửi lời chúc mừng năm mới tới đồng bào, cán bộ, chiến sĩ thành phố và kiều bào đang sinh sống, học tập, làm việc ở nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173790+07:00",
+      "fetched": "2026-02-17T19:57:45.173969+07:00"
+    },
+    {
+      "id": "2fa1c10d95b408f4e9b0e2306aa998f5",
+      "title": "Canh trực, sẵn sàng chiến đấu giữ bình yên mùa xuân mới",
+      "link": "https://tuoitre.vn/canh-truc-san-sang-chien-dau-giu-binh-yen-mua-xuan-moi-20260217165549231.htm",
+      "summary": "Cán bộ, chiến sĩ Tiểu đoàn Pháo phòng không 553, Vùng 5 Hải quân đã sẵn sàng canh trực giữ bình yên mùa xuân mới Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173600+07:00",
+      "fetched": "2026-02-17T19:57:45.173773+07:00"
+    },
+    {
+      "id": "33f590532f8abf0e6f39227a01b40fda",
+      "title": "173 chuyến bay đến Đà Nẵng mỗi ngày, tăng 46 chuyến so với Tết 2025",
+      "link": "https://tuoitre.vn/173-chuyen-bay-den-da-nang-moi-ngay-tang-46-chuyen-so-voi-tet-2025-20260217173341764.htm",
+      "summary": "Số liệu từ các cảng hàng không Đà Nẵng cho thấy những ngày Tết lượng khách đặt vé bay đến Đà Nẵng du lịch tăng vọt so với cùng kỳ năm trước. Các điểm tham quan như Hội An, chùa Linh Ứng... chộn rộn khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173348+07:00",
+      "fetched": "2026-02-17T19:57:45.173580+07:00"
+    },
+    {
+      "id": "57837890843acadf6a1be707df970ea8",
+      "title": "Đã cảnh báo trước kiểm tra nồng độ cồn, 1.570 lái xe vẫn vi phạm trong mùng 1 Tết",
+      "link": "https://tuoitre.vn/da-canh-bao-truoc-kiem-tra-nong-do-con-1-570-lai-xe-van-vi-pham-trong-mung-1-20260217172426165.htm",
+      "summary": "1.570 trường hợp vi phạm nồng độ cồn bị phát hiện trong mùng 1 Tết. Đáng chú ý, hàng loạt thông tin về đợt cao điểm kiểm soát đã được thông báo từ sớm kèm những khuyến cáo, nhưng nhiều người vẫn chủ quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173210+07:00",
+      "fetched": "2026-02-17T19:57:45.173336+07:00"
+    },
+    {
+      "id": "6314974a0faa280821923e5cd07a4f53",
+      "title": "Lược sử thuần hóa, hàng ngàn năm người và ngựa thành đồng đội",
+      "link": "https://tuoitre.vn/luoc-su-thuan-hoa-hang-ngan-nam-nguoi-va-ngua-thanh-dong-doi-20260206135339842.htm",
+      "summary": "Trong số những động vật được loài người thuần hóa, có lẽ ngựa là loài được lưu danh nhiều nhất trong sử sách, trở thành một biểu tượng trong văn hóa, tinh thần của con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.173063+07:00",
+      "fetched": "2026-02-17T19:57:45.173197+07:00"
+    },
+    {
+      "id": "0cc7bf414b4e918051e7f44edb11055d",
+      "title": "CĐV Đông Nam Á không phục, đặt câu hỏi 'công lý ở đâu' khi Công An Hà Nội bị xử thua",
+      "link": "https://tuoitre.vn/cdv-dong-nam-a-khong-phuc-dat-cau-hoi-cong-ly-o-dau-khi-cong-an-ha-noi-bi-xu-thua-20260217180830684.htm",
+      "summary": "Việc AFC xử Công An Hà Nội thua 0-3 trước BG Tampines Rovers đã dấy lên làn sóng tranh luận trên các diễn đàn bóng đá khu vực. Nhiều cổ động viên ở Đông Nam Á cảm thấy bất công trước cách làm việc của AFC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T19:57:45.172822+07:00",
+      "fetched": "2026-02-17T19:57:45.173048+07:00"
+    },
     {
       "id": "3dc2ab58e3468408aae31972daec830b",
       "title": "Truyền thông quốc tế: 'Không khí Tết Nguyên đán rộn ràng ở Việt Nam, Trung Quốc, Nga và Argentina'",
@@ -383,6 +453,196 @@ window.newsData_2026_02_17 = {
       "fetched": "2026-02-17T13:55:34.563662+07:00"
     },
     {
+      "id": "53bc7fed1c60b0d5c9beb4e2bf6817ed",
+      "title": "Hiểu Minh đăng ảnh chống nạng đón tết cùng gia đình, Đình Bắc và Minh Phúc nói lời cảm động",
+      "link": "https://thanhnien.vn/hieu-minh-dang-anh-chong-nang-don-tet-cung-gia-dinh-dinh-bac-va-minh-phuc-noi-loi-cam-dong-18526021719515076.htm",
+      "summary": "Chiều mùng 1 Tết Nguyên đán 2026, Trung vệ Nguyễn Hiểu Minh đăng ảnh đón tết cùng gia đình tại Hà Nội. Anh vẫn phải chống nạng sau chấn thương nặng ở VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:54:00+07:00",
+      "fetched": "2026-02-17T19:57:44.349908+07:00"
+    },
+    {
+      "id": "a20c882b063b668c86b2fc69a053cacc",
+      "title": "Bông thọ - mùi vị tết quê",
+      "link": "https://thanhnien.vn/bong-tho-mui-vi-tet-que-185260210150524224.htm",
+      "summary": "Bông thọ không chỉ là loài hoa ngày tết, mà còn là mùi vị ký ức của làng quê Việt. Từ vườn nhà đến gian thờ tổ tiên, bông thọ lặng lẽ giữ hơi ấm tết quê qua bao thế hệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:45:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350079+07:00"
+    },
+    {
+      "id": "ae2f51380fc43ea0bec88a22d3df5fc2",
+      "title": "Các hãng xa xỉ chinh phục lại khách hàng Trung Quốc nhân dịp Tết",
+      "link": "https://vnexpress.net/cac-hang-xa-xi-chinh-phuc-lai-khach-hang-trung-quoc-nhan-dip-tet-5042034.html",
+      "summary": "Các thương hiệu xa xỉ từ Harry Winston đến Loewe đang đẩy mạnh các bộ sưu tập Tết Nguyên đán nhằm thu hút khách hàng Trung Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-17T12:38:47+07:00",
+      "fetched": "2026-02-17T19:57:47.857066+07:00"
+    },
+    {
+      "id": "7c5f7a363ddb22549cbfefa5f4b14631",
+      "title": "Những lãnh đạo, người nổi tiếng thế giới tuổi Ngọ",
+      "link": "https://vnexpress.net/nhung-lanh-dao-nguoi-noi-tieng-the-gioi-tuoi-ngo-5005703.html",
+      "summary": "Thế giới có nhiều người nổi tiếng sinh vào năm Ngựa như cựu thủ tướng Đức Angela Merkel, Tổng thống Belarus và Thổ Nhĩ Kỳ, tỷ phú Buffett hay lãnh tụ của giai cấp vô sản Lenin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:27:07+07:00",
+      "fetched": "2026-02-17T19:57:41.746785+07:00"
+    },
+    {
+      "id": "7c5f7a363ddb22549cbfefa5f4b14631",
+      "title": "Những lãnh đạo, người nổi tiếng thế giới tuổi Ngọ",
+      "link": "https://vnexpress.net/nhung-lanh-dao-nguoi-noi-tieng-the-gioi-tuoi-ngo-5005703.html",
+      "summary": "Thế giới có nhiều người nổi tiếng sinh vào năm Ngựa như cựu thủ tướng Đức Angela Merkel, Tổng thống Belarus và Thổ Nhĩ Kỳ, tỷ phú Buffett hay lãnh tụ của giai cấp vô sản Lenin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T12:27:07+07:00",
+      "fetched": "2026-02-17T19:57:46.574004+07:00"
+    },
+    {
+      "id": "b2b37319cb7236c3ad4f37dc1553ee60",
+      "title": "Tết bình yên của đội trưởng U.23 Việt Nam Khuất Văn Khang: Giữ lời hứa đặc biệt với bà!",
+      "link": "https://thanhnien.vn/tet-binh-yen-cua-doi-truong-u23-viet-nam-khuat-van-khang-giu-loi-hua-dac-biet-voi-ba-185260217190634917.htm",
+      "summary": "Đội trưởng U.23 Việt Nam Khuất Văn Khang gây chú ý với khoảnh khắc đời thường nướng chả cho mâm cơm tất niên của gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:13:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350240+07:00"
+    },
+    {
+      "id": "9fe3ca59a203b75a0251bef903058b32",
+      "title": "Nam ca sĩ từng được vợ chồng Cẩm Ly giúp đỡ, sống độc thân tuổi U.50",
+      "link": "https://thanhnien.vn/nam-ca-si-tung-duoc-vo-chong-cam-ly-giup-do-song-doc-than-tuoi-u50-185260217173316189.htm",
+      "summary": "Ca sĩ Quốc Đại vừa có những trải lòng khi ngồi ghế nóng 'Người kể chuyện tình', đồng thời nêu quan điểm về chuyện độc thân ở tuổi U.50.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:12:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350410+07:00"
+    },
+    {
+      "id": "72d417d42d73f7a3c76b9ef765a1cf5b",
+      "title": "6 mỹ nhân tuổi Ngọ của showbiz Việt",
+      "link": "https://vnexpress.net/6-my-nhan-tuoi-ngo-cua-showbiz-viet-5040440.html",
+      "summary": "Thanh Thủy, Phương Nhi, Ý Nhi, Nhã Phương, Diễm My 9x và Lan Ngọc là sáu mỹ nhân tuổi Ngọ (sinh năm 1990, 2002) thành công trong sự nghiệp, cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:00:00+07:00",
+      "fetched": "2026-02-17T19:57:41.746965+07:00"
+    },
+    {
+      "id": "5d0e9493e388228d2b6dac6a2a47d016",
+      "title": "Xuân xưa với ký ức rang nếp ngự và hương tết quyến rũ",
+      "link": "https://thanhnien.vn/xuan-xua-voi-ky-uc-rang-nep-ngu-va-huong-tet-quyen-ru-185260213084538702.htm",
+      "summary": "Tháng chạp, lòng dạ xốn xang. Nắng nhuộm vàng xóm làng ở Quảng Ngãi sau những ngày trời mây u ám. Gió la đà mơn man cây lá. Ký ức xuân xa ùa về gợi nhớ những yêu thương...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:00:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350568+07:00"
+    },
+    {
+      "id": "c62152bc9b3d1042a10c133cc74ce2ed",
+      "title": "Bộ Khoa học và Công nghệ khởi đầu năm bằng tinh thần đổi mới",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-khoi-dau-nam-bang-tinh-than-doi-moi-5042037.html",
+      "summary": "Sáng 17/2, Bộ Khoa học và Công nghệ dâng hương đầu xuân, khởi động năm mới bằng tinh thần phụng sự và đổi mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:59:57+07:00",
+      "fetched": "2026-02-17T19:57:41.747132+07:00"
+    },
+    {
+      "id": "c62152bc9b3d1042a10c133cc74ce2ed",
+      "title": "Bộ Khoa học và Công nghệ khởi đầu năm bằng tinh thần đổi mới",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-khoi-dau-nam-bang-tinh-than-doi-moi-5042037.html",
+      "summary": "Sáng 17/2, Bộ Khoa học và Công nghệ dâng hương đầu xuân, khởi động năm mới bằng tinh thần phụng sự và đổi mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-17T11:59:57+07:00",
+      "fetched": "2026-02-17T19:57:50.346237+07:00"
+    },
+    {
+      "id": "ad3de9cd4de483613d5a36f411b0339e",
+      "title": "Rượu, bia ngày tết ảnh hưởng tới thuốc điều trị tăng huyết áp như thế nào?",
+      "link": "https://thanhnien.vn/ruou-bia-ngay-tet-anh-huong-toi-thuoc-dieu-tri-tang-huyet-ap-nhu-the-nao-185260217142318566.htm",
+      "summary": "Ngày tết, người bị huyết áp cao nên ưu tiên rau xanh trong chế độ ăn, đồng thời nên tránh uống rượu, bia khi đang dùng thuốc điều trị tăng huyết áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:56:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350722+07:00"
+    },
+    {
+      "id": "81d1832c2a28d95e8d34df9fe67cd2c6",
+      "title": "Tủi thân vì bạn trai mải đón giao thừa với bạn bè, không hỏi thăm tôi",
+      "link": "https://vnexpress.net/yeu-xa-tui-than-vi-ban-trai-mai-don-giao-thua-voi-ban-be-khong-hoi-tham-toi-5042017.html",
+      "summary": "Đến tận khuya tôi mới nhận được một tin nhắn: 'Ngủ ngon nhé, cô bé của anh'; và kể việc anh vừa chở bạn thân khác giới về nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:47:57+07:00",
+      "fetched": "2026-02-17T19:57:41.747293+07:00"
+    },
+    {
+      "id": "f8426e5c89158d980651bb9981fa3ed0",
+      "title": "Nồng độ cồn dẫn đầu trong số lỗi vi phạm giao thông ngày mùng 1 tết",
+      "link": "https://thanhnien.vn/nong-do-con-dan-dau-trong-so-loi-vi-pham-giao-thong-ngay-mung-1-tet-185260217173801332.htm",
+      "summary": "Trong ngày mùng 1 tết Nguyên đán 2026, lực lượng CSGT toàn quốc xử lý 6.219 trường hợp vi phạm, trong đó có tới 1.570 trường hợp vi phạm nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:47:00+07:00",
+      "fetched": "2026-02-17T19:57:44.350874+07:00"
+    },
+    {
+      "id": "326b587dd5b14f2afbe915f759482290",
+      "title": "CSGT TP.HCM phạt hàng loạt người vi phạm nồng độ cồn, quá tốc độ mùng 1 tết",
+      "link": "https://thanhnien.vn/csgt-tphcm-phat-hang-loat-nguoi-vi-pham-nong-do-con-qua-toc-do-mung-1-tet-185260217180000489.htm",
+      "summary": "Ngay trong đêm giao thừa và mùng 1 tết, CSGT TP.HCM đã xử phạt hàng loạt người vi phạm nồng độ cồn, quá tốc độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:45:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351023+07:00"
+    },
+    {
+      "id": "609bab6667255ddd7c75b6fa276a75c1",
+      "title": "Khách Trung Quốc xa lánh Nhật Bản mùa du xuân",
+      "link": "https://vnexpress.net/khach-trung-quoc-xa-lanh-nhat-ban-mua-du-xuan-5042030.html",
+      "summary": "Lượng du khách Trung Quốc đến Nhật Bản tiếp tục sụt giảm mạnh trong dịp Tết Nguyên đán, trong bối cảnh quan hệ song phương còn căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:39:35+07:00",
+      "fetched": "2026-02-17T19:57:41.747472+07:00"
+    },
+    {
+      "id": "609bab6667255ddd7c75b6fa276a75c1",
+      "title": "Khách Trung Quốc xa lánh Nhật Bản mùa du xuân",
+      "link": "https://vnexpress.net/khach-trung-quoc-xa-lanh-nhat-ban-mua-du-xuan-5042030.html",
+      "summary": "Lượng du khách Trung Quốc đến Nhật Bản tiếp tục sụt giảm mạnh trong dịp Tết Nguyên đán, trong bối cảnh quan hệ song phương còn căng thẳng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T11:39:35+07:00",
+      "fetched": "2026-02-17T19:57:46.574185+07:00"
+    },
+    {
+      "id": "6fd7ba0344d42797f83f78d9ebfc1ac8",
+      "title": "Mùng 1 tết, nhiều tuyến đường ở TP.HCM đông xe: Vì sao 'không vắng như tưởng tượng'?",
+      "link": "https://thanhnien.vn/mung-1-tet-nhieu-tuyen-duong-o-tphcm-dong-xe-vi-sao-khong-vang-nhu-tuong-tuong-185260217172526946.htm",
+      "summary": "Đường phố vắng xe được nhiều người nói vui là 'đặc sản' chỉ có ở TP.HCM mỗi dịp tết đến. Trong khi hầu hết các tuyến đường trung tâm thông thoáng mùng 1 tết, vẫn có một số nơi ùn ùn xe, không vắng như nhiều người nghĩ. Vì sao vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:34:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351182+07:00"
+    },
+    {
+      "id": "5dc91e7fb2aa371ff9f8e53e5678ec70",
+      "title": "Chủ tịch Nguyễn Văn Được chúc Xuân Bính Ngọ: Vận hội Thiên Mã, TP.HCM bứt phá",
+      "link": "https://thanhnien.vn/chu-tich-nguyen-van-duoc-chuc-xuan-binh-ngo-van-hoi-thien-ma-tphcm-but-pha-185260217172041091.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được chia sẻ, bước sang năm mới Bính Ngọ 2026, năm của hình tượng 'Thiên Mã' mạnh mẽ và kiêu hãnh, TP.HCM đứng trước vận hội mới để bứt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:24:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351343+07:00"
+    },
+    {
       "id": "95483c60b9ff3e581cba5ae174f470d8",
       "title": "Đặc biệt thiêng liêng lễ chào cờ ngày đầu năm mới ở đỉnh núi mịt mù sương",
       "link": "https://tuoitre.vn/dac-biet-thieng-lieng-le-chao-co-ngay-dau-nam-moi-o-dinh-nui-mit-mu-suong-20260217083711299.htm",
@@ -531,6 +791,126 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T11:18:09.338783+07:00",
       "fetched": "2026-02-17T11:18:09.339023+07:00"
+    },
+    {
+      "id": "3d613a588e767589cc16bc9d63c418e0",
+      "title": "Hơn 800 trường hợp vi phạm nồng đồ cồn bị xử lý",
+      "link": "https://vnexpress.net/hon-800-truong-hop-vi-pham-nong-do-con-bi-xu-ly-5042032.html",
+      "summary": "Mùng 1 Tết (17/2), cảnh sát giao thông toàn quốc đồng loạt kiểm tra, xử lý vi phạm nồng độ cồn, hơn 800 trường hợp đã bị lập biên bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:04:36+07:00",
+      "fetched": "2026-02-17T19:57:41.747643+07:00"
+    },
+    {
+      "id": "5fcec987461573bc62bf14ee34a3e9ec",
+      "title": "Lương 13 triệu cuối năm dư 72 triệu nhờ ChatGPT tư vấn",
+      "link": "https://vnexpress.net/tai-chinh-ca-nhan-chatgpt-nho-chatgpt-tu-van-tai-chinh-ca-nhan-tiet-kiem-duoc-72-trieu-dong-du-luong-13-trieu-dong-5042010.html",
+      "summary": "Khi tôi chia sẻ, nhiều người đều cho rằng mức lương 13 triệu đồng mỗi tháng thì chỉ đủ sống, không thể nói đến chuyện tích lũy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:41.747799+07:00"
+    },
+    {
+      "id": "b1939869f28aff657dd1b9ff32f8328c",
+      "title": "Lễ Ramưwan của người Chăm trùng Tết âm lịch sau 33 năm",
+      "link": "https://vnexpress.net/le-ramuwan-cua-nguoi-cham-trung-tet-am-lich-sau-33-nam-5041908.html",
+      "summary": "Năm 2026, lễ Ramưwan của người Chăm trùng với Tết Nguyên đán, diễn ra đúng mùng 1, tạo nên sự giao thoa hiếm có giữa hai hệ lịch và hai không gian văn hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:41.747959+07:00"
+    },
+    {
+      "id": "c5bcf5e9e00c1909069c529018d692b6",
+      "title": "Hiệu ứng 'kỳ nghỉ Tết' ở người đặt stent và can thiệp tim mạch",
+      "link": "https://vnexpress.net/hieu-ung-ky-nghi-tet-o-nguoi-dat-stent-va-can-thiep-tim-mach-5041232.html",
+      "summary": "Với người đã đặt stent mạch vành hoặc thực hiện các thủ thuật can thiệp tim mạch, Tết là thời điểm \"nhạy cảm\" cần sự chăm sóc đặc biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:41.748127+07:00"
+    },
+    {
+      "id": "21cec8c90d8bdeb0d789225c06914631",
+      "title": "Mourinho: 'Benfica không cần phép màu để loại Real'",
+      "link": "https://vnexpress.net/mourinho-benfica-khong-can-phep-mau-de-loai-real-5042029.html",
+      "summary": "HLV Jose Mourinho khẳng định Benfica không cần đến phép màu để tiếp tục thắng Real Madrid ở play-off Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:41.748284+07:00"
+    },
+    {
+      "id": "102ba17bc573ec73d03481d5ee44579c",
+      "title": "Áo dài Việt 'du xuân' quốc tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-dai-viet-du-xuan-quoc-te-185260215230033229.htm",
+      "summary": "Mùa xuân Bính Ngọ 2026, áo dài Việt không chỉ xuất hiện khắp mọi nơi trên dải đất hình chữ S mà còn gợi lên nhiều cảm xúc thân thương khi xuất hiện tại nhiều địa danh nổi tiếng trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351515+07:00"
+    },
+    {
+      "id": "21cec8c90d8bdeb0d789225c06914631",
+      "title": "Mourinho: 'Benfica không cần phép màu để loại Real'",
+      "link": "https://vnexpress.net/mourinho-benfica-khong-can-phep-mau-de-loai-real-5042029.html",
+      "summary": "HLV Jose Mourinho khẳng định Benfica không cần đến phép màu để tiếp tục thắng Real Madrid ở play-off Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T11:00:00+07:00",
+      "fetched": "2026-02-17T19:57:51.317060+07:00"
+    },
+    {
+      "id": "093051d4883b1af4499a7e956fe6685b",
+      "title": "Vì sao Lý Hùng và Lý Hương không nhận show diễn tết?",
+      "link": "https://thanhnien.vn/vi-sao-ly-hung-va-ly-huong-khong-nhan-show-dien-tet-185260217144401742.htm",
+      "summary": "Trong dịp Tết Bính Ngọ, Lý Hùng và Lý Hương đưa mẹ đi du xuân, tận hưởng không khí nô nức, vui tươi của ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:59:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351664+07:00"
+    },
+    {
+      "id": "eed61b21a5cd34692dd79cc78d4915f3",
+      "title": "Vì sao 'Táo quân' được tìm kiếm tăng vọt dù ngừng lên sóng?",
+      "link": "https://thanhnien.vn/vi-sao-tao-quan-duoc-tim-kiem-tang-vot-du-ngung-len-song-18526021717133234.htm",
+      "summary": "Được thay thế bằng 'Gặp nhau cuối năm - Quảng trường mùa xuân' nhưng chương trình 'Táo quân' vẫn được nhiều khán giả nhắc đến như một ký ức đẹp trong đêm giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:54:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351816+07:00"
+    },
+    {
+      "id": "79c41fbaa66666f03d8e2dcfcfdb887c",
+      "title": "Thế giới trong ngày đầu năm Bính Ngọ",
+      "link": "https://vnexpress.net/the-gioi-trong-ngay-dau-nam-binh-ngo-5042028.html",
+      "summary": "Từ Bắc Kinh đến New York, hàng triệu người khắp thế giới đón mùng một năm Bính Ngọ trong không khí cầu an, lễ hội rực rỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:48:41+07:00",
+      "fetched": "2026-02-17T19:57:41.748466+07:00"
+    },
+    {
+      "id": "79c41fbaa66666f03d8e2dcfcfdb887c",
+      "title": "Thế giới trong ngày đầu năm Bính Ngọ",
+      "link": "https://vnexpress.net/the-gioi-trong-ngay-dau-nam-binh-ngo-5042028.html",
+      "summary": "Từ Bắc Kinh đến New York, hàng triệu người khắp thế giới đón mùng một năm Bính Ngọ trong không khí cầu an, lễ hội rực rỡ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T10:48:41+07:00",
+      "fetched": "2026-02-17T19:57:46.574362+07:00"
+    },
+    {
+      "id": "83f1d2e6d61ae6420cd8eda04af4a55e",
+      "title": "HLV Tampines nói điều bất ngờ khi CLB CAHN bị AFC xử thua: ‘Chúng tôi sẽ ghi nhiều bàn hơn đối thủ’",
+      "link": "https://thanhnien.vn/hlv-tampines-noi-dieu-bat-ngo-khi-clb-cahn-bi-afc-xu-thua-chung-toi-se-ghi-nhieu-ban-hon-doi-thu-185260217173247975.htm",
+      "summary": "Ban huấn luyện cùng cầu thủ Tampines Rovers đang rất tự tin trước trận lượt về vòng 16 đội AFC Champions League Two gặp CLB Công an Hà Nội (CAHN) trên sân Jalan Besar Stadium lúc 19 giờ 15 ngày 18.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T10:48:00+07:00",
+      "fetched": "2026-02-17T19:57:44.351981+07:00"
     },
     {
       "id": "6b282aff79c06dddd6116562951f4dd7",
