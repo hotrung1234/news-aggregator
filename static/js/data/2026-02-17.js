@@ -1,7 +1,47 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T19:57:51.326717+07:00",
+  "lastUpdated": "2026-02-17T21:42:29.791381+07:00",
   "articles": [
+    {
+      "id": "86599ccc751d473bf4b6179189e36875",
+      "title": "Mùng 1 Tết thị trường 'êm', cảnh báo phí giữ xe tăng mấy ngày tới",
+      "link": "https://tuoitre.vn/mung-1-tet-thi-truong-em-canh-bao-phi-giu-xe-tang-may-ngay-toi-20260217190349012.htm",
+      "summary": "Bộ Tài chính dự báo giá các mặt hàng thiết yếu trong mùng 2 Tết Bính Ngọ 2026 tiếp tục ổn định do nhu cầu mua sắm không cao. Riêng dịch vụ giữ xe tại điểm vui chơi, đền chùa có thể tăng cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:42:22.563308+07:00",
+      "fetched": "2026-02-17T21:42:22.563425+07:00"
+    },
+    {
+      "id": "6b9596ad90cd039378c1ee6b4235463e",
+      "title": "Không gì vui và sâu lắng bằng trở về Việt Nam để đón Tết",
+      "link": "https://tuoitre.vn/khong-gi-vui-va-sau-lang-bang-tro-ve-viet-nam-de-don-tet-viet-nam-20260204151317272.htm",
+      "summary": "Sáng sớm nơi khoảnh vườn sát mé sông, bà Hoách Thị Kiêm Em (80 tuổi, ngụ Chợ Mới, An Giang) thư thả tưới chậu bông dừa cạn, ngắm khóm hoa điệp đung đưa trong nắng, buồng dừa già rọi trên cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:42:22.563174+07:00",
+      "fetched": "2026-02-17T21:42:22.563296+07:00"
+    },
+    {
+      "id": "aea719c5b2598c6006cfe084fa4d64c1",
+      "title": "Du khách ùn ùn đổ về Hội An mùng 1 Tết, chen chân nhau tham quan phố cổ",
+      "link": "https://tuoitre.vn/du-khach-un-un-do-ve-hoi-an-ngay-mung-1-tet-chen-chan-nhau-tham-quan-pho-co-20260217193418482.htm",
+      "summary": "Du khách trong và ngoài nước ùn ùn đổ về phố cổ Hội An (Đà Nẵng) du xuân trong ngày đầu năm mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:42:22.563030+07:00",
+      "fetched": "2026-02-17T21:42:22.563161+07:00"
+    },
+    {
+      "id": "a856527a5eec1e875dbe864342c6b226",
+      "title": "Tổng thống Pháp, UAE chúc Tết Nguyên đán bằng tiếng Việt",
+      "link": "https://tuoitre.vn/tong-thong-phap-uae-chuc-tet-nguyen-dan-bang-tieng-viet-20260217202942915.htm",
+      "summary": "Nhân dịp Tết Nguyên đán, Tổng thống Pháp Macron mong năm con ngựa sẽ mang đến nhiều sức mạnh và động lực, trong khi Tổng thống UAE Sheikh Mohamed gửi lời chúc năm mới hạnh phúc, an khang, thịnh vượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T21:42:22.562787+07:00",
+      "fetched": "2026-02-17T21:42:22.563014+07:00"
+    },
     {
       "id": "5b8a73ae9ccd547d79253f8fd2fdc2f8",
       "title": "Niềm vui của kiều bào có sổ hồng: 'Câu nói nhà tôi ở Việt Nam thật sự thiêng liêng'",
@@ -333,6 +373,56 @@ window.newsData_2026_02_17 = {
       "fetched": "2026-02-17T15:41:19.976271+07:00"
     },
     {
+      "id": "ec773d587c6537ab78721c92e47f71fd",
+      "title": "Nhiều người nhập viện cấp cứu đêm Giao thừa",
+      "link": "https://vnexpress.net/nhieu-nguoi-nhap-vien-cap-cuu-dem-giao-thua-5041968.html",
+      "summary": "Thời khắc chuyển giao năm mới Tết Bính Ngọ, Bệnh viện E tiếp nhận nhiều bệnh nhân nặng từ sốc nhiễm khuẩn, viêm tụy cấp đến chấn thương do tai nạn giao thông và biến chứng tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T14:31:46+07:00",
+      "fetched": "2026-02-17T21:42:18.479738+07:00"
+    },
+    {
+      "id": "68213f4d11ff704f0d173f187d6da750",
+      "title": "HLV Polking nhận lỗi vụ sử dụng cầu thủ không hợp lệ, HLV Tampines Rovers tự tin chờ CLB CAHN",
+      "link": "https://thanhnien.vn/hlv-polking-nhan-loi-vu-su-dung-cau-thu-khong-hop-le-hlv-tampines-rovers-tu-tin-cho-clb-cahn-18526021720381886.htm",
+      "summary": "Trước trận lượt về vòng 16 đội AFC Champions League 2 gặp Tampines Rovers, HLV Alexandre Polking thừa nhận CLB CAHN hoàn toàn chịu trách nhiệm trong việc sử dụng cầu thủ không hợp lệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T14:25:00+07:00",
+      "fetched": "2026-02-17T21:42:21.584787+07:00"
+    },
+    {
+      "id": "d796cf002420378e2ef9e11df583c832",
+      "title": "GS Nguyễn Thành Vinh: Tôi vượt qua thất bại bằng sự kiên nhẫn của người Việt",
+      "link": "https://vnexpress.net/nguyen-thanh-vinh-duong-tu-a-quan-olympia-den-giao-su-dai-hoc-top-20-the-gioi-5041559.html",
+      "summary": "Cựu Á quân Olympia, nay thuộc top nhà khoa học ảnh hưởng nhất Australia, nói từng hoài nghi bản thân khi liên tiếp thất bại, nhưng vượt qua bằng sự kiên nhẫn, \"lì lợm\" đặc trưng của người Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T14:12:00+07:00",
+      "fetched": "2026-02-17T21:42:18.479917+07:00"
+    },
+    {
+      "id": "9ec0df6a92a02ce049c27f698a84a052",
+      "title": "Chồng vô tư về quê ăn Tết, để tôi mang bầu sắp sinh ở nhà một mình",
+      "link": "https://vnexpress.net/chong-vo-tu-ve-que-an-tet-de-vo-mang-bau-sap-sinh-o-nha-mot-minh-5042015.html",
+      "summary": "Tôi không ghen tị với tình cảm anh dành cho bố mẹ, chỉ chạnh lòng vì trong sự ưu tiên ấy, mẹ con tôi dường như đứng sau cùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T14:00:00+07:00",
+      "fetched": "2026-02-17T21:42:18.480103+07:00"
+    },
+    {
+      "id": "877f8a7275c5c8911fa502225cb7932a",
+      "title": "U40 lương 40 triệu ung dung thuê nhà",
+      "link": "https://vnexpress.net/gia-nha-ha-noi-gia-nha-tp-hcm-u40-luong-40-trieu-ung-dung-thue-nha-5041794.html",
+      "summary": "Điều tôi thấy mình làm đúng nhất sau 15 năm đi làm là không 'liều mạng' vay nợ mua nhà bằng mọi giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T14:00:00+07:00",
+      "fetched": "2026-02-17T21:42:18.480273+07:00"
+    },
+    {
       "id": "362d2e62140a3119ff5768684e260df8",
       "title": "Chờ năm 2026 bùng nổ của Trần Quyết Chiến",
       "link": "https://tuoitre.vn/cho-nam-2026-bung-no-cua-tran-quyet-chien-20260216114542003.htm",
@@ -453,6 +543,106 @@ window.newsData_2026_02_17 = {
       "fetched": "2026-02-17T13:55:34.563662+07:00"
     },
     {
+      "id": "820f4c005727fc76205949fa42179bb7",
+      "title": "Khỉ con ôm thú bông gây sốt ở Nhật Bản",
+      "link": "https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html",
+      "summary": "Con khỉ bị mẹ bỏ rơi ở sở thú tỉnh Chiba tìm thấy niềm an ủi từ một con thú nhồi bông, khiến nhiều người Nhật Bản chú ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:54:18+07:00",
+      "fetched": "2026-02-17T21:42:18.480439+07:00"
+    },
+    {
+      "id": "820f4c005727fc76205949fa42179bb7",
+      "title": "Khỉ con ôm thú bông gây sốt ở Nhật Bản",
+      "link": "https://vnexpress.net/khi-con-om-thu-bong-gay-sot-o-nhat-ban-5042040.html",
+      "summary": "Con khỉ bị mẹ bỏ rơi ở sở thú tỉnh Chiba tìm thấy niềm an ủi từ một con thú nhồi bông, khiến nhiều người Nhật Bản chú ý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T13:54:18+07:00",
+      "fetched": "2026-02-17T21:42:24.254590+07:00"
+    },
+    {
+      "id": "33a238d56691e15adac894721f968b11",
+      "title": "Dàn sao sum họp gia đình ngày đầu năm Bính Ngọ",
+      "link": "https://vnexpress.net/dan-sao-sum-hop-gia-dinh-ngay-dau-nam-binh-ngo-5042006.html",
+      "summary": "Vợ chồng Lý Hải đưa các con về quê đón Tết bên mẹ hơn 100 tuổi, Mỹ Tâm không nhận show đầu năm để quây quần gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:40:18+07:00",
+      "fetched": "2026-02-17T21:42:18.480600+07:00"
+    },
+    {
+      "id": "b83dcb1b8e4220d35997f17b7e28782b",
+      "title": "Nhật Kim Anh, Dương Cẩm Lynh, Kim Tuyến, Thúy Diễm, Quỳnh Lam rộn ràng khai xuân, chia sẻ hành trình thăng trầm",
+      "link": "https://thanhnien.vn/nhat-kim-anh-duong-cam-lynh-kim-tuyen-thuy-diem-quynh-lam-ron-rang-khai-xuan-chia-se-hanh-trinh-thang-tram-185260215151209601.htm",
+      "summary": "Mùng 1 Tết Bính Ngọ, khán giả có dịp hội ngộ dàn mỹ nhân quen thuộc của màn ảnh Việt - Nhật Kim Anh, Dương Cẩm Lynh, Kim Tuyến, Thúy Diễm và Quỳnh Lam - trong cuộc trò chuyện đầu xuân đầy cảm xúc. Không chỉ nhắc chuyện nghề, các nghệ sĩ còn mở lòng về cuộc sống, gia đình và những ước nguyện cho năm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:30:00+07:00",
+      "fetched": "2026-02-17T21:42:21.584976+07:00"
+    },
+    {
+      "id": "9559246075ddcb452bb52890e6d6a775",
+      "title": "Những chiếc điện thoại 'độc lạ' nhất thế giới từng ra mắt",
+      "link": "https://thanhnien.vn/nhung-chiec-dien-thoai-doc-la-nhat-the-gioi-tung-ra-mat-185260202104846047.htm",
+      "summary": "Trong suốt 14 năm qua, làng công nghệ đã có những chiếc điện thoại kỳ dị đến mức khó tin được xuất xưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:23:00+07:00",
+      "fetched": "2026-02-17T21:42:21.585138+07:00"
+    },
+    {
+      "id": "cdc4fbf36944cf03c441bb6c8a9acd6b",
+      "title": "Lộ diện thẻ Pokemon giá 428 tỉ đồng, lập kỷ lục thế giới",
+      "link": "https://thanhnien.vn/lo-dien-the-pokemon-gia-428-ti-dong-lap-ky-luc-the-gioi-185260217194856539.htm",
+      "summary": "Một tấm thẻ Pokemon cực hiếm thuộc sở hữu của YouTuber người Mỹ Logan Paul vừa được bán với giá 16.492.000 USD (khoảng 428 tỉ đồng), trở thành tấm thẻ giao dịch đắt nhất từng được đấu giá trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:16:00+07:00",
+      "fetched": "2026-02-17T21:42:21.585291+07:00"
+    },
+    {
+      "id": "5191cf05e67f952ced932169e28194bd",
+      "title": "Loại quả may mắn đầu năm giảm huyết áp, mỡ máu, ngừa ung thư, tiểu đường",
+      "link": "https://thanhnien.vn/loai-qua-may-man-dau-nam-giam-huyet-ap-mo-mau-ngua-ung-thu-tieu-duong-185260217200851884.htm",
+      "summary": "Có một loại quả quen thuộc được xem là trái cây may mắn cho năm mới. Tại Tây Ban Nha, truyền thống '12 quả nho may mắn' diễn ra vào khoảnh khắc giao thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:08:00+07:00",
+      "fetched": "2026-02-17T21:42:21.585444+07:00"
+    },
+    {
+      "id": "8044e50c9f75d80424ea952f35942bf1",
+      "title": "Chợ nào chỉ họp vào mùng 1 Tết?",
+      "link": "https://vnexpress.net/cho-nao-chi-hop-vao-mung-1-tet-5041827.html",
+      "summary": "Phiên chợ này chủ yếu bán trầu, cau, muối và chỉ họp một lần trong năm vào mùng 1 Tết, cốt để cầu may mắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:00:00+07:00",
+      "fetched": "2026-02-17T21:42:18.480755+07:00"
+    },
+    {
+      "id": "02d50ad33f3e4c43db166f0992bf5466",
+      "title": "Móc họng nôn có đào thải cồn giải rượu?",
+      "link": "https://vnexpress.net/moc-hong-non-co-dao-thai-con-giai-ruou-5015453.html",
+      "summary": "Mọi người nói nôn xong thường tỉnh táo hơn. Tôi có nên móc họng để cố nôn ra thức ăn và rượu, giúp mã hồi nhanh hơn? (Tùng, 30 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:00:00+07:00",
+      "fetched": "2026-02-17T21:42:18.480909+07:00"
+    },
+    {
+      "id": "dc7f36cfab0e18cc0c0226359371f8a5",
+      "title": "Áo gấm xuống phố, tô điểm ngày đầu năm rạng rỡ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-gam-xuong-pho-to-diem-ngay-dau-nam-rang-ro-185260214152316169.htm",
+      "summary": "Áo gấm là biểu tượng của vẻ đẹp truyền thống và sự sang trọng đang trở lại đầy tinh tế trong nhịp sống hiện đại mỗi dịp xuân về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T13:00:00+07:00",
+      "fetched": "2026-02-17T21:42:21.585601+07:00"
+    },
+    {
       "id": "53bc7fed1c60b0d5c9beb4e2bf6817ed",
       "title": "Hiểu Minh đăng ảnh chống nạng đón tết cùng gia đình, Đình Bắc và Minh Phúc nói lời cảm động",
       "link": "https://thanhnien.vn/hieu-minh-dang-anh-chong-nang-don-tet-cung-gia-dinh-dinh-bac-va-minh-phuc-noi-loi-cam-dong-18526021719515076.htm",
@@ -461,6 +651,16 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T12:54:00+07:00",
       "fetched": "2026-02-17T19:57:44.349908+07:00"
+    },
+    {
+      "id": "3a40676eff7f9decfd8339ac79201b1e",
+      "title": "Hội An vào top điểm đến trải nghiệm Tết hàng đầu châu Á",
+      "link": "https://vnexpress.net/hoi-an-vao-top-diem-den-trai-nghiem-tet-hang-dau-chau-a-5042002.html",
+      "summary": "Tạp chí Anh Time Out xếp Hội An vào danh sách 6 điểm đến trải nghiệm Tết tại châu Á, nhờ các lễ hội và nghi lễ đậm dấu ấn văn hóa bản địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T12:49:56+07:00",
+      "fetched": "2026-02-17T21:42:18.481101+07:00"
     },
     {
       "id": "a20c882b063b668c86b2fc69a053cacc",
@@ -1771,6 +1971,16 @@ window.newsData_2026_02_17 = {
       "category": "Công nghệ",
       "published": "2026-02-17T06:22:31+07:00",
       "fetched": "2026-02-17T13:55:41.263949+07:00"
+    },
+    {
+      "id": "8473148cfbf5bd69a9fe997fd2a3f3c2",
+      "title": "Phi hành gia hát karaoke, làm bánh mừng năm mới trên trạm vũ trụ",
+      "link": "https://vnexpress.net/phi-hanh-gia-hat-karaoke-lam-banh-mung-nam-moi-tren-tram-vu-tru-5042005.html",
+      "summary": "Các phi hành gia của sứ mệnh Thần Châu 21 cùng nướng bánh, hát karaoke mừng năm mới từ không gian, ở độ cao khoảng 400 km so với Trái Đất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-17T06:22:31+07:00",
+      "fetched": "2026-02-17T21:42:28.163755+07:00"
     },
     {
       "id": "a9efef66fe76f028f4a2fcec489f9884",
