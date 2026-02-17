@@ -1,7 +1,157 @@
 window.newsData_2026_02_17 = {
   "date": "2026-02-17",
-  "lastUpdated": "2026-02-17T05:25:20.278972+07:00",
+  "lastUpdated": "2026-02-17T08:54:35.561150+07:00",
   "articles": [
+    {
+      "id": "273e4f1a900f82e05570b4122b301d08",
+      "title": "Xuân về và niềm vui của những cuộc đời hồi sinh nhờ ghép tế bào gốc",
+      "link": "https://tuoitre.vn/xuan-ve-va-niem-vui-cua-nhung-cuoc-doi-hoi-sinh-nho-ghep-te-bao-goc-20260212105511531.htm",
+      "summary": "Mỗi năm, hàng ngàn bệnh nhân mắc bệnh huyết học ác tính phải đối diện ranh giới mong manh giữa sự sống và cái chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187964+07:00",
+      "fetched": "2026-02-17T08:54:28.188078+07:00"
+    },
+    {
+      "id": "88537d017983d8da1f958d01d5ad2d9c",
+      "title": "Đầu năm ngựa, 'xông đất' Đoàn Cảnh sát cơ động kỵ binh",
+      "link": "https://tuoitre.vn/dau-nam-ngua-xong-dat-doan-canh-sat-co-dong-ky-binh-20260113154134531.htm",
+      "summary": "Xuân Bính Ngọ trở thành dấu mốc để Đoàn Cảnh sát cơ động kỵ binh ôn lại hành trình tự hào đã qua, và chuẩn bị cho những \"nước phi\" mạnh mẽ hơn trên chặng đường phía trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187837+07:00",
+      "fetched": "2026-02-17T08:54:28.187953+07:00"
+    },
+    {
+      "id": "bda1c62260e061da3c223b4938e3cadd",
+      "title": "Mùa xuân về miền Chapi, nghe ‘giấc mơ’ kể chuyện hạnh phúc nằm trong tiếng đàn tre",
+      "link": "https://tuoitre.vn/mua-xuan-ve-mien-chapi-nghe-giac-mo-ke-chuyen-hanh-phuc-nam-trong-tieng-dan-tre-20260216105453973.htm",
+      "summary": "Nhiều năm sau “Giấc mơ Chapi” của nhạc sĩ Trần Tiến, chúng tôi gặp lại ông Chamalea Âu giữa núi rừng Ninh Thuận cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187703+07:00",
+      "fetched": "2026-02-17T08:54:28.187821+07:00"
+    },
+    {
+      "id": "67811e2764d99d47aaf06f02105c3446",
+      "title": "Vĩnh biệt Robert Duvall của Bố già và Apocalypse Now",
+      "link": "https://tuoitre.vn/vinh-biet-robert-duvall-cua-bo-gia-va-apocalypse-now-20260217073916048.htm",
+      "summary": "Robert Duvall, một diễn viên đa tài cả trên màn ảnh và sân khấu Mỹ, qua đời ở tuổi 95. Ở Việt Nam, ông nổi tiếng với vai Tom Hagen trong 'Bố già'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187556+07:00",
+      "fetched": "2026-02-17T08:54:28.187690+07:00"
+    },
+    {
+      "id": "2bfaccbcec4f79b3ffdc365b72243f5b",
+      "title": "Thái Lê Minh Hiếu: Chúc bạn đọc báo Tuổi Trẻ năm mới bùng nổ",
+      "link": "https://tuoitre.vn/thai-le-minh-hieu-chuc-ban-doc-bao-tuoi-tre-nam-moi-bung-no-202602141024422.htm",
+      "summary": "Thái Lê Minh Hiếu là một trong những gương mặt trẻ tuổi nhất thuộc thế hệ nghệ sĩ sinh năm Ngọ. Năm 2025, anh nổi bật trong chương trình Tân binh toàn năng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187430+07:00",
+      "fetched": "2026-02-17T08:54:28.187544+07:00"
+    },
+    {
+      "id": "d4d96f03ea66459a95fac385edc7676d",
+      "title": "‘Nhà ba tôi một phòng’ bất ngờ với cặp đôi trẻ",
+      "link": "https://tuoitre.vn/nha-ba-toi-mot-phong-bat-ngo-voi-cap-doi-tre-20260212181627569.htm",
+      "summary": "Giữa mạch phim lấy cảm xúc gia đình làm trục chính, cặp đôi Phát (Anh Tú ATUS) và An (Đoàn Minh Anh) trong lần đầu kết hợp đã trở thành những mảnh ghép ăn ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187301+07:00",
+      "fetched": "2026-02-17T08:54:28.187419+07:00"
+    },
+    {
+      "id": "2f8ec2828ce5a27a993467c13d33eb4a",
+      "title": "Vietlott: Thử vận may đầu năm với xổ số tự chọn",
+      "link": "https://tuoitre.vn/vietlott-thu-van-may-dau-nam-voi-xo-so-tu-chon-20260213132406446.htm",
+      "summary": "Ngoài những phong tục truyền thống, các hình thức giải trí như xổ số điện toán cũng len lỏi dần vào ngày Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187161+07:00",
+      "fetched": "2026-02-17T08:54:28.187289+07:00"
+    },
+    {
+      "id": "12ccd8b81fda35ca79b54847ffa363c9",
+      "title": "Khai xuân đón lộc: Tiền Tết sinh lời tự động tới 5,5% cùng Techcombank",
+      "link": "https://tuoitre.vn/khai-xuan-don-loc-tien-tet-sinh-loi-tu-dong-toi-5-5-cung-techcombank-20260217073813732.htm",
+      "summary": "Không còn cảnh ‘tiền nằm im chờ chi tiêu’, nhiều người Việt đang đón Tết theo cách hiện đại hơn với chi tiêu linh hoạt 24/7, trong khi số dư chưa dùng đến vẫn âm thầm sinh lời mỗi ngày nhờ giải pháp Sinh Lời Tự Động từ Techcombank.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.187032+07:00",
+      "fetched": "2026-02-17T08:54:28.187149+07:00"
+    },
+    {
+      "id": "5d2fd2da3d0a7a713370052765ed8532",
+      "title": "Mua vé số sau khi chờ đèn đỏ, trúng thưởng 2,6 tỉ đồng",
+      "link": "https://tuoitre.vn/mua-ve-so-sau-khi-cho-den-do-trung-thuong-2-6-ti-dong-20260216232755647.htm",
+      "summary": "Quyết định chớp nhoáng trong lúc dừng chờ đèn đỏ và rẽ vào khi đèn giao thông vừa chuyển xanh đã khiến một người đàn ông Mỹ trúng thưởng số tiền tương đương 2,6 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186904+07:00",
+      "fetched": "2026-02-17T08:54:28.187021+07:00"
+    },
+    {
+      "id": "a64484cc0dc3de2276c5d23e1ef7f5f1",
+      "title": "Người dân Cà Mau làm giàu nhờ nuôi chồn hương sinh sản",
+      "link": "https://tuoitre.vn/nguoi-dan-ca-mau-lam-giau-nho-nuoi-chon-huong-sinh-san-20260216161550702.htm",
+      "summary": "Những năm gần đây, phong trào nuôi chồn hương ở tỉnh Cà Mau trở nên nở rộ, nhiều người đã mạnh dạn đầu tư số tiền lớn để xây dựng chuồng trại, mua con giống... bắt đầu hành trình làm giàu và đã có người trở thành tỉ phú nhờ nuôi chồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186777+07:00",
+      "fetched": "2026-02-17T08:54:28.186893+07:00"
+    },
+    {
+      "id": "84858f51cbac7929e3e0546a4c0c7887",
+      "title": "Tiết lộ lý do tỉ phú Ấn Độ bao trọn khu nghỉ dưỡng, tổ chức đám cưới 7 ngày ở Hạ Long",
+      "link": "https://tuoitre.vn/tiet-lo-ly-do-ti-phu-an-do-bao-tron-khu-nghi-duong-to-chuc-dam-cuoi-7-ngay-o-ha-long-20260217081008127.htm",
+      "summary": "Chỉ trong vòng 2 tuần đầu tháng 2-2026, ba đám cưới của tỉ phú Ấn Độ được tổ chức tại Hạ Long, mới đây nhất là đám cưới với khoảng 500 khách mời, họ đều là giới tài phiệt của Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186643+07:00",
+      "fetched": "2026-02-17T08:54:28.186765+07:00"
+    },
+    {
+      "id": "7b17622aaa1a133945737ae625f91d69",
+      "title": "Tổng Bí thư Tô Lâm sắp đi Mỹ, dự cuộc họp Hội đồng Hòa bình Gaza",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-sap-di-my-du-cuoc-hop-hoi-dong-hoa-binh-gaza-20260213151639383.htm",
+      "summary": "Chuyến công tác Mỹ lần này của Tổng Bí thư Tô Lâm kéo dài trong 3 ngày, là chuyến công tác đầu tiên của ông đến Mỹ sau Đại hội XIV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186493+07:00",
+      "fetched": "2026-02-17T08:54:28.186630+07:00"
+    },
+    {
+      "id": "9cd0ab6463df3d896ee05bd7d386f6dd",
+      "title": "Vietcombank đồng hành Đường hoa Nguyễn Huệ, lan tỏa “Tết Cực Vui”",
+      "link": "https://tuoitre.vn/vietcombank-dong-hanh-duong-hoa-nguyen-hue-lan-toa-tet-cuc-vui-20260217081717312.htm",
+      "summary": "Xuân Bính Ngọ 2026, Vietcombank tiếp tục đồng hành cùng Đường hoa Nguyễn Huệ, góp thêm sắc màu hiện đại vào không gian lễ hội giữa trung tâm TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186357+07:00",
+      "fetched": "2026-02-17T08:54:28.186481+07:00"
+    },
+    {
+      "id": "77cc31cbd95e7eae8f7d5c41dbbba62f",
+      "title": "Đi chùa sáng mùng 1 Tết: 5 lưu ý này bạn đã biết chưa?",
+      "link": "https://tuoitre.vn/di-chua-sang-mung-1-tet-5-luu-y-nay-ban-da-biet-chua-20260217082212829.htm",
+      "summary": "Đi chùa sáng mùng 1 từ lâu đã trở thành thói quen đẹp của nhiều gia đình Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.186215+07:00",
+      "fetched": "2026-02-17T08:54:28.186344+07:00"
+    },
+    {
+      "id": "98754a8e5b59f50d9df8cb0f52d2b95b",
+      "title": "Xu hướng trang sức nào thống trị 2026?",
+      "link": "https://tuoitre.vn/xu-huong-trang-suc-nao-thong-tri-2026-20260216212947212.htm",
+      "summary": "Nếu quần áo đang nghiêng về chủ nghĩa tối giản, thì trang sức chính là điểm chạm định hình toàn bộ diện mạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T08:54:28.185982+07:00",
+      "fetched": "2026-02-17T08:54:28.186200+07:00"
+    },
     {
       "id": "ed6f36cbeb89ab305a428392cd2a64f8",
       "title": "Một năm chuyển đổi số mạnh mẽ",
@@ -11,6 +161,56 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T03:27:35.166820+07:00",
       "fetched": "2026-02-17T03:27:35.166931+07:00"
+    },
+    {
+      "id": "f0ff1e78752e08106be559886339f53e",
+      "title": "Bệnh viện Từ Dũ tặng vàng may mắn cho những 'em bé Bính Ngọ' đầu tiên",
+      "link": "https://thanhnien.vn/benh-vien-tu-du-tang-vang-may-man-cho-nhung-em-be-binh-ngo-dau-tien-185260217083545383.htm",
+      "summary": "Trong thời khắc chuyển giao sang năm mới, Bệnh viện Từ Dũ (TP.HCM) đã đón 4 'em bé Bính Ngọ' đầu tiên cất tiếng khóc chào đời. Mỗi bé được tặng một miếng vàng 24K hình ngựa, tương đương 0,79 chỉ vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:52:00+07:00",
+      "fetched": "2026-02-17T08:54:26.876941+07:00"
+    },
+    {
+      "id": "188f744bde99196ed1ee29edf6d0b633",
+      "title": "Chất lượng không khí nhiều nơi ở miền Bắc rất xấu",
+      "link": "https://vnexpress.net/chat-luong-khong-khi-nhieu-noi-o-mien-bac-rat-xau-5041950.html",
+      "summary": "Sáng mùng 1 Tết (17/2), dù mật độ giao thông giảm, chất lượng không khí ở Thái Nguyên, Ninh Bình, Hưng Yên ghi nhận ở mức rất xấu, Hà Nội mức xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:46:16+07:00",
+      "fetched": "2026-02-17T08:54:23.418711+07:00"
+    },
+    {
+      "id": "79d5a3094a505f447ab97ed7b10cc481",
+      "title": "Giá Bitcoin hôm nay 17.2.2026: Phục hồi nhẹ ngày đầu năm",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-1722026-phuc-hoi-nhe-ngay-dau-nam-185260217064117676.htm",
+      "summary": "Giá Bitcoin hôm nay giao dịch quanh mốc 68.000 USD, có lúc tiến sát 70.000 USD trong bối cảnh Tết Nguyên đán trở thành dịp lý tưởng để phổ biến tiền kỹ thuật số ở Trung Quốc và các quốc gia châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:45:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877112+07:00"
+    },
+    {
+      "id": "a42c591741c603d353dce6810e1cefa1",
+      "title": "Ukraine 'tiến quân nhanh chưa từng thấy' trong 2,5 năm",
+      "link": "https://vnexpress.net/ukraine-tien-quan-nhanh-chua-tung-thay-trong-2-5-nam-5041936.html",
+      "summary": "Ukraine được cho là tái kiểm soát hơn 200 km2 lãnh thổ trong vòng 5 ngày vào tuần trước, mức cao nhất kể từ tháng 6/2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:43:06+07:00",
+      "fetched": "2026-02-17T08:54:23.418892+07:00"
+    },
+    {
+      "id": "a42c591741c603d353dce6810e1cefa1",
+      "title": "Ukraine 'tiến quân nhanh chưa từng thấy' trong 2,5 năm",
+      "link": "https://vnexpress.net/ukraine-tien-quan-nhanh-chua-tung-thay-trong-2-5-nam-5041936.html",
+      "summary": "Ukraine được cho là tái kiểm soát hơn 200 km2 lãnh thổ trong vòng 5 ngày vào tuần trước, mức cao nhất kể từ tháng 6/2023.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T01:43:06+07:00",
+      "fetched": "2026-02-17T08:54:29.852993+07:00"
     },
     {
       "id": "31b9681865f6a67135694bbdd0166bd7",
@@ -161,6 +361,376 @@ window.newsData_2026_02_17 = {
       "category": "Tổng hợp",
       "published": "2026-02-17T01:39:14.830010+07:00",
       "fetched": "2026-02-17T01:39:14.830229+07:00"
+    },
+    {
+      "id": "788a2245393544775b27cdb87d41184d",
+      "title": "Tết nhiều niềm vui, ăn uống thế nào để bảo vệ tim?",
+      "link": "https://thanhnien.vn/tet-nhieu-niem-vui-an-uong-the-nao-de-bao-ve-tim-185260217083933317.htm",
+      "summary": "Các chuyên gia y tế cảnh báo, trong những ngày tết, việc ăn uống cần thực hiện một cách điều độ. Theo thống kê, các trường hợp cấp cứu tim mạch thường tăng vọt đáng kể vào dịp lễ tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:39:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877266+07:00"
+    },
+    {
+      "id": "bb9f868b907992e03482d3228f76a101",
+      "title": "Từ chối chia vàng cho chồng vì cho là tài sản riêng",
+      "link": "https://vnexpress.net/tu-choi-chia-vang-cho-chong-vi-cho-la-tai-san-rieng-5040505.html",
+      "summary": "Được gia đình hai bên trao tổng cộng 10 lượng vàng khi cưới nhưng chị Hoài nhất định không chia cho chồng khi chuẩn bị ly hôn vì cho rằng đây là tài sản riêng của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:37:43+07:00",
+      "fetched": "2026-02-17T08:54:23.419057+07:00"
+    },
+    {
+      "id": "45d5add20321da0841ffc16bcda9ad76",
+      "title": "Báo Anh gọi tên một thành phố của Việt Nam vào top 'tuyệt vời nhất' năm 2026",
+      "link": "https://thanhnien.vn/bao-anh-goi-ten-mot-thanh-pho-cua-viet-nam-vao-top-tuyet-voi-nhat-nam-2026-185260211144340896.htm",
+      "summary": "Tờ Guardian của Anh đưa ra danh sách 4 thành phố 'tuyệt vời nhất' ở khu vực châu Á - Thái Bình Dương phù hợp với xu hướng du lịch có chủ đích trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:33:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877417+07:00"
+    },
+    {
+      "id": "c234917357de0b6e4c1a3e076320864d",
+      "title": "Tử vi ngày 17 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-17-thang-2-con-giap-nao-may-man-hom-nay-185260217082826758.htm",
+      "summary": "Tử vi ngày 17 tháng 2 mang đến những gợi ý mang tính tham khảo cho tử vi hằng ngày của 12 con giáp ngày mùng 1 Tết Bính Ngọ 2026. Đây là thời điểm mở đầu năm mới, nhiều người chú trọng lời nói, tâm thế và cả những bước đi đầu tiên trong ngày với mong muốn \"đầu xuôi đuôi lọt\". Hôm nay, tài lộc mang t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:28:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877568+07:00"
+    },
+    {
+      "id": "279a971838fe979d1e72de835a105bc1",
+      "title": "Vươn mình cùng dân tộc",
+      "link": "https://thanhnien.vn/vuon-minh-cung-dan-toc-185251008171203275.htm",
+      "summary": "Với mục tiêu trở thành quốc gia phát triển có thu nhập cao vào năm 2045, một trong những động lực tiên quyết được Đảng và Nhà nước ta xác định là phải khơi dậy được khát vọng phát triển đất nước phồn vinh, hạnh phúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:27:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877743+07:00"
+    },
+    {
+      "id": "161201da00c19499ba260ac033c93b78",
+      "title": "Mỹ công bố 300 người nổi tiếng xuất hiện trong hồ sơ Epstein",
+      "link": "https://vnexpress.net/my-cong-bo-300-nguoi-noi-tieng-xuat-hien-trong-ho-so-epstein-5041845.html",
+      "summary": "Bộ Tư pháp Mỹ tiết lộ danh sách 300 người nổi tiếng, chính trị gia và lãnh đạo doanh nghiệp xuất hiện trong hồ sơ về tỷ phú ấu dâm Epstein.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:23:32+07:00",
+      "fetched": "2026-02-17T08:54:23.419225+07:00"
+    },
+    {
+      "id": "161201da00c19499ba260ac033c93b78",
+      "title": "Mỹ công bố 300 người nổi tiếng xuất hiện trong hồ sơ Epstein",
+      "link": "https://vnexpress.net/my-cong-bo-300-nguoi-noi-tieng-xuat-hien-trong-ho-so-epstein-5041845.html",
+      "summary": "Bộ Tư pháp Mỹ tiết lộ danh sách 300 người nổi tiếng, chính trị gia và lãnh đạo doanh nghiệp xuất hiện trong hồ sơ về tỷ phú ấu dâm Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T01:23:32+07:00",
+      "fetched": "2026-02-17T08:54:29.853489+07:00"
+    },
+    {
+      "id": "a45517e80e888589def9f84ad37a061d",
+      "title": "Doanh nhân tuổi ngựa đón tết: 'Chủ tịch soái ca' Trần Hùng Huy cảm giác đặc biệt trong năm tuổi",
+      "link": "https://thanhnien.vn/doanh-nhan-tuoi-ngua-don-tet-chu-tich-soai-ca-tran-hung-huy-cam-giac-dac-biet-trong-nam-tuoi-18526021523103589.htm",
+      "summary": "Trong 2 năm trở lại đây, hình ảnh Chủ tịch HĐQT Ngân hàng TMCP Á Châu (ACB) Trần Hùng Huy gói bánh tét đã trở nên quen thuộc vào những ngày cận Tết Nguyên đán. Khoảnh khắc giản dị ấy góp phần tạo nên hình ảnh một vị \"Chủ tịch nghìn tỉ\", \"Chủ tịch soái ca\"… gần gũi, đời thường, khác với sự hào nhoáng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:23:00+07:00",
+      "fetched": "2026-02-17T08:54:26.877895+07:00"
+    },
+    {
+      "id": "2196140620a3abb4ce117d5653e8fb6c",
+      "title": "Sáng sớm mùng 1 tết: Đường phố trung tâm TP.HCM thênh thang, xuân về khắp muôn nơi",
+      "link": "https://thanhnien.vn/sang-som-mung-1-tet-duong-pho-trung-tam-tphcm-thenh-thang-xuan-ve-khap-muon-noi-185260217074552489.htm",
+      "summary": "Sáng sớm mùng 1 Tết Nguyên đán Bính Ngọ, đường phố trung tâm TP.HCM vắng xe, người người hồ hởi du xuân trong tiết trời dịu mát, dễ chịu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:18:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878043+07:00"
+    },
+    {
+      "id": "fa499184b2e3d25f5482077dd99cde10",
+      "title": "Pháo hoa rực sáng từ tòa tháp 55 tầng tại TP HCM",
+      "link": "https://vnexpress.net/phao-hoa-ruc-sang-tu-toa-thap-55-tang-tai-tp-hcm-5041462.html",
+      "summary": "Đêm Giao thừa, khu vực chân cầu Ba Son và tòa tháp Saigon Marina IFC chật kín người đến xem pháo hoa, chụp ảnh check-in.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:15:00+07:00",
+      "fetched": "2026-02-17T08:54:23.419385+07:00"
+    },
+    {
+      "id": "243771be92858e14e2721049b37fbddc",
+      "title": "Uống rượu bia có làm tăng mỡ bụng?",
+      "link": "https://thanhnien.vn/uong-ruou-bia-bao-nhieu-la-bat-dau-lam-tang-mo-bung-185260216000558208.htm",
+      "summary": "Vòng bụng lớn là do tích mỡ dưới da và cả mỡ nội tạng. Mỡ nội tạng dễ dẫn đến kháng insulin, rối loạn mỡ máu và bệnh tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:14:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878188+07:00"
+    },
+    {
+      "id": "662849ba18634032ba184a275e70cbaa",
+      "title": "Xử phạt thầy giáo dạy lái xe 'tranh đường' với xe máy ở Đồng Tháp",
+      "link": "https://thanhnien.vn/xu-phat-thay-giao-day-lai-xe-tranh-duong-voi-xe-may-o-dong-thap-185260217071354261.htm",
+      "summary": "Xe tập lái chạy lấn vào làn xe máy, một thầy giáo dạy lái xe tại Đồng Tháp bị CSGT xử phạt 5 triệu đồng và trừ 2 điểm bằng lái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:12:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878342+07:00"
+    },
+    {
+      "id": "07c7a71f2878f0d0507b002e2e23a03f",
+      "title": "Tết ăn nhiều món kho mặn: Cách ‘cứu nguy’ cho người huyết áp cao",
+      "link": "https://thanhnien.vn/tet-an-nhieu-mon-kho-man-cach-cuu-nguy-cho-nguoi-huyet-ap-cao-185260216000857815.htm",
+      "summary": "Mâm cơm ngày tết thường có các món đậm đà như cá kho, thịt kho hay dưa mắm. Các món này ngon miệng nhưng nếu thiếu kiểm soát, người bị huyết áp cao dễ đối mặt với tình trạng huyết áp tăng do nạp muối quá nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:11:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878488+07:00"
+    },
+    {
+      "id": "bcd0acca2b515b56ec768ae9b5076b88",
+      "title": "Du lịch - 'chú ngựa ô' của tăng trưởng kinh tế 2026",
+      "link": "https://vnexpress.net/du-lich-chu-ngua-o-cua-tang-truong-kinh-te-2026-5041549.html",
+      "summary": "Như chú ngựa ô, ngành du lịch là động lực bất ngờ, đáng chú ý năm 2025 và dự báo tiếp tục xán lạn, đóng góp lớn cho tăng trưởng 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:08:00+07:00",
+      "fetched": "2026-02-17T08:54:23.419546+07:00"
+    },
+    {
+      "id": "bcd0acca2b515b56ec768ae9b5076b88",
+      "title": "Du lịch - 'chú ngựa ô' của tăng trưởng kinh tế 2026",
+      "link": "https://vnexpress.net/du-lich-chu-ngua-o-cua-tang-truong-kinh-te-2026-5041549.html",
+      "summary": "Như chú ngựa ô, ngành du lịch là động lực bất ngờ, đáng chú ý năm 2025 và dự báo tiếp tục xán lạn, đóng góp lớn cho tăng trưởng 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-17T01:08:00+07:00",
+      "fetched": "2026-02-17T08:54:31.513109+07:00"
+    },
+    {
+      "id": "47017db7b97dddaff708890d5a425e30",
+      "title": "Lũ lụt ở miền Trung, vấn nạn hàng giả... xuất hiện trong 'Táo xuân'",
+      "link": "https://thanhnien.vn/lu-lut-o-mien-trung-van-nan-hang-gia-xuat-hien-trong-tao-xuan-185260216231531101.htm",
+      "summary": "Bên cạnh những màn tung hứng hài hước, dàn diễn viên 'Táo xuân' như NSND Trịnh Kim Chi, NSƯT Kim Tử Long, Lê Khánh, Hải Triều, Quốc Trường, Hoa hậu Yến Nhi... còn khéo léo lồng ghép những câu chuyện về lũ lụt miền Trung, vấn nạn lừa đảo, hàng giả vào trong tiết mục biểu diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:06:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878654+07:00"
+    },
+    {
+      "id": "df2d56404965267f344cb369a74ba040",
+      "title": "Đại sứ xe đạp vì hòa bình thế giới mang thông điệp từ Hungary đến Việt Nam",
+      "link": "https://thanhnien.vn/dai-su-xe-dap-vi-hoa-binh-the-gioi-mang-thong-diep-tu-hungary-den-viet-nam-185260216184915915.htm",
+      "summary": "Mùng Một Tết Bính Ngọ (17.2), ông József Zelei, Đại sứ xe đạp vì hòa bình thế giới người Hungary, từ TP.HCM bắt đầu chuyến đạp xe xuyên Việt trong khuôn khổ Sứ mệnh Hòa bình châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:05:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878806+07:00"
+    },
+    {
+      "id": "42c5be3700f89966d07afbcd3abdb046",
+      "title": "Phim tết của Trấn Thành phá kỷ lục doanh thu vé đặt trước",
+      "link": "https://thanhnien.vn/phim-tet-cua-tran-thanh-pha-ky-luc-doanh-thu-ve-dat-truoc-185260217014522302.htm",
+      "summary": "'Thỏ ơi' - phim điện ảnh do Trấn Thành làm đạo diễn vừa được công bố phá kỷ lục phim Việt có số vé đặt trước cao nhất từ trước tới nay, với hơn 130.000 vé bán ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:03:00+07:00",
+      "fetched": "2026-02-17T08:54:26.878955+07:00"
+    },
+    {
+      "id": "7f0cd025e05bfe0626266b535681d69f",
+      "title": "Táo Giao Thông mời Ngọc Hoàng 'vi hành' đường sắt trên cao",
+      "link": "https://vnexpress.net/thu-gian-video-hai-tao-giao-thong-ru-ngoc-hoang-vi-hanh-duong-sat-tren-cao-5041858.html",
+      "summary": "Trong không khí châm biếm quen thuộc của Táo Quân - Gặp nhau cuối năm, Táo Giao Thông mạnh dạn mời Ngọc Hoàng trải nghiệm đường sắt trên cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:05+07:00",
+      "fetched": "2026-02-17T08:54:23.419729+07:00"
+    },
+    {
+      "id": "57faab1a8825c71965e1bc1b358b2c48",
+      "title": "Cách chăm sóc da đơn giản cho ngày Tết",
+      "link": "https://vnexpress.net/cach-cham-soc-da-don-gian-cho-ngay-tet-5041252.html",
+      "summary": "Làm sạch da đúng và đủ, tăng cường dưỡng ẩm, chống nắng đều đặn, ngủ đủ giấc và sinh hoạt điều độ để làn da khỏe mạnh, tươi tắn trong ngày Tết bận rộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:23.419893+07:00"
+    },
+    {
+      "id": "c5eed375eb865a772cfc06df7b1f06a6",
+      "title": "Mẹ bất thường nhiễm sắc thể sinh hai con khỏe mạnh",
+      "link": "https://vnexpress.net/me-bat-thuong-nhiem-sac-the-sinh-hai-con-khoe-manh-5041248.html",
+      "summary": "Chị Thùy mang bất thường cấu trúc nhiễm sắc thể gọi là chuyển đoạn Robertson, nhờ thụ tinh trong ống nghiệm và sàng lọc phôi sinh hai con khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:23.420056+07:00"
+    },
+    {
+      "id": "62a742a24eabb5d8478f552cd0786521",
+      "title": "Có nên cho trẻ ăn nem chua, dưa muối ngày Tết?",
+      "link": "https://vnexpress.net/co-nen-cho-tre-an-nem-chua-dua-muoi-ngay-tet-5041219.html",
+      "summary": "Nhà tôi hay làm món nem chua, dưa muối ngày Tết. Trẻ con có được ăn những món này không? (Thúy Lan, 28 tuổi, Đà Nẵng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:23.420215+07:00"
+    },
+    {
+      "id": "4522b9d28453f7314178412c035f9766",
+      "title": "Mổ u phổi bằng robot",
+      "link": "https://vnexpress.net/mo-u-phoi-bang-robot-5041205.html",
+      "summary": "Bà Vân, 52 tuổi, tức ngực, khó thở, ho ra máu, bác sĩ chẩn đoán u phổi, kết hợp sinh thiết lạnh và phẫu thuật triệt căn bằng robot.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:23.420378+07:00"
+    },
+    {
+      "id": "8229c73a1f16746a8261ac1eebc32f98",
+      "title": "Trường Giang vào vai ông bố đơn thân trong phim Tết",
+      "link": "https://vnexpress.net/truong-giang-vao-vai-ong-bo-don-than-trong-phim-tet-5039424.html",
+      "summary": "Trong \"Nhà ba tôi một phòng\", Trường Giang hóa thân thành ông bố nghiêm khắc, khô khan, tìm mọi cách để bước chân vào thế giới của con gái An (Đoàn Minh Anh).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:23.420544+07:00"
+    },
+    {
+      "id": "bd1395692c026e07484038b47008fd69",
+      "title": "Làn da cũng cần ‘khai xuân’ đúng cách để xin vía tươi trẻ rạng ngời cả năm",
+      "link": "https://thanhnien.vn/lan-da-cung-can-khai-xuan-dung-cach-de-xin-via-tuoi-tre-rang-ngoi-ca-nam-185260216164842524.htm",
+      "summary": "Mỗi dịp đầu năm, người Việt có thói quen 'khai bút', 'khai trương', 'xuất hành' với mong muốn một năm hanh thông, thuận lợi. Nhưng giữa bao dự định mới, nhiều người lại quên rằng làn da 'tấm danh thiếp' của nhan sắc cũng cần một quy trình chăm sóc 'khai xuân' bài bản. Bởi chăm da đúng ngay từ những ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T01:00:00+07:00",
+      "fetched": "2026-02-17T08:54:26.879113+07:00"
+    },
+    {
+      "id": "48a473fc6b224b5a4f2a1bff12427d65",
+      "title": "Mỹ nữ Tân Cương hóa nàng tiên cá",
+      "link": "https://vnexpress.net/my-nu-tan-cuong-hoa-nang-tien-ca-5041942.html",
+      "summary": "Mỹ nữ Tân Cương Địch Lệ Nhiệt Ba nổi bật khi hóa thân hình ảnh nàng tiên cá, múa trong gala đón năm mới 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T00:54:52+07:00",
+      "fetched": "2026-02-17T08:54:23.420730+07:00"
+    },
+    {
+      "id": "77ea91f45d34daae57c4e2474ce5ce50",
+      "title": "Mỹ Tâm: 'Tôi hạnh phúc vì biết đủ'",
+      "link": "https://vnexpress.net/my-tam-toi-hanh-phuc-vi-biet-du-5015521.html",
+      "summary": "Mỹ Tâm nói tìm thấy niềm vui ở điều giản dị thay vì mưu cầu vật chất, hân hoan khi kết hợp Mai Tài Phến trong phim điện ảnh sắp ra rạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T00:39:13+07:00",
+      "fetched": "2026-02-17T08:54:23.420892+07:00"
+    },
+    {
+      "id": "08e53b866fb374d3d798af84bb1ad843",
+      "title": "Ước vọng của giới trẻ trong thời khắc giao thừa",
+      "link": "https://vnexpress.net/uoc-vong-cua-gioi-tre-trong-thoi-khac-giao-thua-5041931.html",
+      "summary": "Trong màn pháo hoa rực sáng đêm giao thừa khắp cả nước, nhiều bạn trẻ gửi gắm ước vọng cho gia đình và đất nước trong năm mới Bính Ngọ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-17T00:36:50+07:00",
+      "fetched": "2026-02-17T08:54:23.421052+07:00"
+    },
+    {
+      "id": "1fa576bba88212a2331289d6a367eb9a",
+      "title": "VĐV Nhật Bản lập kỷ lục thế giới đi bộ half marathon",
+      "link": "https://vnexpress.net/vdv-nhat-ban-lap-ky-luc-the-gioi-di-bo-half-marathon-5041907.html",
+      "summary": "Đúng ngày sinh nhật tuổi 30, Toshikazu Yamanishi lập kỷ lục thế giới đi bộ half marathon với 1 giờ 20 phút 34 giây tại giải vô địch quốc gia ở Kobe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T00:32:18+07:00",
+      "fetched": "2026-02-17T08:54:35.555941+07:00"
+    },
+    {
+      "id": "0a3362a87a1ce5312e1926822be852c2",
+      "title": "Sinner thắng trận đầu sau Australia Mở rộng",
+      "link": "https://vnexpress.net/sinner-thang-tran-dau-sau-australia-mo-rong-5041939.html",
+      "summary": "Hai tuần sau khi thua Novak Djokovic ở Australia Mở rộng, Jannik Sinner thắng Tomas Machac 6-1, 6-4 tại giải ATP 500 trên mặt sân cứng ở Doha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T00:28:55+07:00",
+      "fetched": "2026-02-17T08:54:35.555437+07:00"
+    },
+    {
+      "id": "308db5daa05424cdc73c3d470460a71a",
+      "title": "VĐV vào rừng nằm trên tuyết sau khi bị loại ở Olympic",
+      "link": "https://vnexpress.net/vdv-vao-rung-nam-tren-tuyet-sau-khi-bi-loai-o-olympic-5041924.html",
+      "summary": "Sau khi bị loại ở vị trí dẫn đầu, VĐV Na Uy Atle Lie McGrath ném gậy, vượt hàng rào và đi vào rừng, nằm trên tuyết ở Olympic mùa Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T00:26:17+07:00",
+      "fetched": "2026-02-17T08:54:35.556108+07:00"
+    },
+    {
+      "id": "fd5acae964a32dc53725436a23c07189",
+      "title": "Iran diễn tập kiểm soát eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-dien-tap-kiem-soat-eo-bien-hormuz-5041934.html",
+      "summary": "Vệ binh Cách mạng Iran tổ chức diễn tập tại eo biển Hormuz để \"chuẩn bị đối phó mối đe dọa tiềm tàng\" ngay trước thềm đàm phán với Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-17T00:25:57+07:00",
+      "fetched": "2026-02-17T08:54:29.853166+07:00"
+    },
+    {
+      "id": "ec7e3d83ac64d41dc4497609238063ca",
+      "title": "VĐV trượt giật lùi về đích vẫn giành huy chương Olympic",
+      "link": "https://vnexpress.net/vdv-truot-giat-lui-ve-dich-van-gianh-huy-chuong-olympic-5041831.html",
+      "summary": "Cú ngã ở dốc cuối không ngăn Ikuma Horishima đoạt HC bạc nội dung moguls đôi nam tại Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T00:22:01+07:00",
+      "fetched": "2026-02-17T08:54:35.555616+07:00"
+    },
+    {
+      "id": "24faca09114e9be750ed23abe2c7a4aa",
+      "title": "Yamal sút hỏng phạt đền khi Barca thua trận",
+      "link": "https://vnexpress.net/yamal-sut-hong-phat-den-khi-barca-thua-tran-5041933.html",
+      "summary": "Tiền đạo Lamine Yamal đá hỏng phạt đền ở hiệp một khi Barca thua Girona 1-2 tại vòng 24, qua đó tụt lại với hai điểm kém đầu bảng Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-17T00:14:49+07:00",
+      "fetched": "2026-02-17T08:54:35.555261+07:00"
+    },
+    {
+      "id": "fd66cd7f621799325f1bf518107961bd",
+      "title": "Phong thủy kinh tế năm Bính Ngọ",
+      "link": "https://vnexpress.net/phong-thuy-kinh-te-nam-binh-ngo-5040923.html",
+      "summary": "Việc yếu tố Hỏa lên đỉnh điểm trong năm Bính Ngọ khiến các chuyên gia phong thủy dự báo có lợi cho giá vàng và thị trường chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-17T00:09:00+07:00",
+      "fetched": "2026-02-17T08:54:31.513293+07:00"
+    },
+    {
+      "id": "3c9afc52890dd38ae7823a75ee54ebd9",
+      "title": "Robot hình người múa kiếm mừng năm mới",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-mua-kiem-mung-nam-moi-5041882.html",
+      "summary": "Công ty Robotera của Trung Quốc chia sẻ video robot L7 biểu diễn điệu múa kiếm truyền thống, cho thấy năng lực cử động và giữ cân bằng ấn tượng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-16T23:00:00+07:00",
+      "fetched": "2026-02-17T08:54:33.710966+07:00"
+    },
+    {
+      "id": "e88753810f1df2c4d17c68869a713581",
+      "title": "HLV Al Nassr thừa nhận thua kém tiềm lực tài chính so với Al Hilal",
+      "link": "https://vnexpress.net/hlv-al-nassr-thua-nhan-thua-kem-tiem-luc-tai-chinh-so-voi-al-hilal-5041915.html",
+      "summary": "HLV Jorge Jesus cho rằng Al Nassr phải tìm cách bù đắp khoảng cách về sức mạnh kinh tế nếu muốn cạnh tranh ngôi vô địch Saudi Pro League với Al Hilal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-16T23:00:00+07:00",
+      "fetched": "2026-02-17T08:54:35.555784+07:00"
     },
     {
       "id": "93eb0e979f7aa702bf6c75631d9acf7a",
