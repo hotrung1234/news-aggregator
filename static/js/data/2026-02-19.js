@@ -1,7 +1,27 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T01:51:19.219375+07:00",
+  "lastUpdated": "2026-02-19T03:36:05.264599+07:00",
   "articles": [
+    {
+      "id": "2c6593c01ca20a7b21f16112be706745",
+      "title": "Thời tiết hôm nay mùng 3 Tết: Nam Bộ nắng nóng 35 độ C, tia cực tím gây hại",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-mung-3-tet-nam-bo-nang-nong-35-do-c-tia-cuc-tim-gay-hai-20260218171227923.htm",
+      "summary": "Hôm nay 19-2 (mùng 3 Tết Bính Ngọ), thời tiết Bắc Bộ vẫn mưa rét, Nam Bộ nắng nóng oi bức, nhiệt độ tăng cao, tia cực tím gây hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T03:35:56.991544+07:00",
+      "fetched": "2026-02-19T03:35:56.991679+07:00"
+    },
+    {
+      "id": "554250b6805a4e2ea2c190d3c1fe5792",
+      "title": "Tổng Bí thư Tô Lâm đến Mỹ dự cuộc họp khai mạc Hội đồng Hòa bình về Gaza",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-den-my-du-cuoc-hop-khai-mac-hoi-dong-hoa-binh-ve-gaza-20260219010830684.htm",
+      "summary": "Tổng Bí thư Tô Lâm đã đến Mỹ trưa 18-2 (giờ địa phương), bắt đầu các hoạt động trong khuôn khổ chuyến công tác 3 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T03:35:56.991319+07:00",
+      "fetched": "2026-02-19T03:35:56.991529+07:00"
+    },
     {
       "id": "6b609fe08aeb777f7ab9d5cf9555c42b",
       "title": "Mỹ nhân trượt băng Nhật Bản 'gây sốt' nhờ màn ngược dòng ngoạn mục",
@@ -171,6 +191,26 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T00:00:09.369076+07:00",
       "fetched": "2026-02-19T00:00:09.369289+07:00"
+    },
+    {
+      "id": "7adf13cbd5b6535d40065c269092bfdc",
+      "title": "Đi bộ tham quan ngày tết: Người huyết áp cao nên vận động bao nhiêu là vừa?",
+      "link": "https://thanhnien.vn/di-bo-tham-quan-ngay-tet-nguoi-huyet-ap-cao-nen-van-dong-bao-nhieu-la-vua-18526021600024109.htm",
+      "summary": "Khi đi thăm họ hàng hay tham quan dịp tết, đi bộ nhiều là điều rất thường gặp. Tuy nhiên, với người bị huyết áp cao, vấn đề đặt ra là đi bộ nhiều như vậy liệu có an toàn và đi bao nhiêu là phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T20:14:00+07:00",
+      "fetched": "2026-02-19T03:35:55.840972+07:00"
+    },
+    {
+      "id": "354db6057825040beece99e17e88ce50",
+      "title": "Loại quả 'quét' sạch chất béo ngày Tết",
+      "link": "https://vnexpress.net/loai-qua-quet-sach-chat-beo-ngay-tet-5042138.html",
+      "summary": "Để giảm đầy hơi, chướng bụng, bạn có thể ăn chuối, bưởi, cam, chanh, uống nhiều nước lọc, vận động nhẹ nhàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-18T19:00:00+07:00",
+      "fetched": "2026-02-19T03:35:52.383593+07:00"
     },
     {
       "id": "a15e8e058f6e719cb3b39752c5aeb919",
