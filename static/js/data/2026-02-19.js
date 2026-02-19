@@ -1,7 +1,117 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T15:40:07.957149+07:00",
+  "lastUpdated": "2026-02-19T17:40:08.571134+07:00",
   "articles": [
+    {
+      "id": "5e4a6210125a0f2156d05944f412ba1d",
+      "title": "5 ngày Tết, hơn 18.000 ca cấp cứu nghi do tai nạn giao thông",
+      "link": "https://tuoitre.vn/5-ngay-tet-hon-18-000-ca-cap-cuu-nghi-do-tai-nan-giao-thong-20260219141555722.htm",
+      "summary": "Tính chung 5 ngày nghỉ Tết (từ 14 đến 19-2), cả nước ghi nhận 18.255 trường hợp khám, cấp cứu và 123 ca tử vong nghi liên quan tai nạn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.767142+07:00",
+      "fetched": "2026-02-19T17:40:01.767274+07:00"
+    },
+    {
+      "id": "3bcf011ab9ae498aa891291523866430",
+      "title": "Hàn Quốc tuyên án chung thân cựu Tổng thống Yoon Suk Yeol",
+      "link": "https://tuoitre.vn/han-quoc-tuyen-an-chung-than-cuu-tong-thong-yoon-suk-yeol-20260219150138752.htm",
+      "summary": "Cựu Tổng thống Hàn Quốc Yoon Suk Yeol lãnh án chung thân vì thiết lập thiết quân luật nhằm kiểm soát quốc hội hồi năm 2024.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766779+07:00",
+      "fetched": "2026-02-19T17:40:01.766889+07:00"
+    },
+    {
+      "id": "5959ffc80469c924b9f2122ef9174739",
+      "title": "Ông Zelensky giải thích vì sao Ukraine quyết không rút khỏi Donbass",
+      "link": "https://tuoitre.vn/ong-zelensky-giai-thich-vi-sao-ukraine-quyet-khong-rut-khoi-donbass-20260219151016795.htm",
+      "summary": "'Donbass là một phần của nền độc lập của chúng tôi. Đó là một phần trong các giá trị của chúng tôi' - Tổng thống Zelensky giải thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766658+07:00",
+      "fetched": "2026-02-19T17:40:01.766768+07:00"
+    },
+    {
+      "id": "20730dd18f848cb295228250daa5baad",
+      "title": "Vietjet trao loạt văn kiện trị giá 6,3 tỉ đô la Mỹ",
+      "link": "https://tuoitre.vn/vietjet-trao-loat-van-kien-tri-gia-6-3-ti-do-la-my-2026021915591423.htm",
+      "summary": "Ngày 18-2-2026, tại thủ đô Hoa Kỳ, Vietjet vừa ký kết loạt thỏa thuận hợp tác chiến lược với các tập đoàn và tổ chức tài chính hàng đầu của nước này, với tổng giá trị hơn 6,3 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766534+07:00",
+      "fetched": "2026-02-19T17:40:01.766647+07:00"
+    },
+    {
+      "id": "22d7a595f6d2471043c984a217e438c0",
+      "title": "Cứ rảnh là du lịch với nhà di động, gia đình Hà Nội hé lộ cuộc sống thật trên xe bán tải",
+      "link": "https://tuoitre.vn/cu-ranh-la-du-lich-voi-nha-di-dong-gia-dinh-ha-noi-he-lo-cuoc-song-that-tren-xe-ban-tai-202602191345444.htm",
+      "summary": "Gia đình anh Trường coi những chuyến đi là một phần nhịp sống. Mỗi mùa hè, họ đưa “ngôi nhà di động” lên đường rong ruổi nhiều nơi, để con trẻ trưởng thành giữa thiên nhiên và những hành trình dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766412+07:00",
+      "fetched": "2026-02-19T17:40:01.766523+07:00"
+    },
+    {
+      "id": "04bbafb5525e5732689ebe619e6f9b6e",
+      "title": "VKS tối cao phản hồi đề xuất kê biên tài sản trong giai đoạn giải quyết nguồn tin về tội tham nhũng",
+      "link": "https://tuoitre.vn/vks-toi-cao-phan-hoi-de-xuat-ke-bien-tai-san-trong-giai-doan-giai-quyet-nguon-tin-ve-toi-tham-nhung-20260219152731802.htm",
+      "summary": "Viện Kiểm sát nhân dân tối cao đã có phản hồi ý kiến của cử tri TP Đà Nẵng đề xuất kê biên, phong tỏa tài sản ngay từ giai đoạn giải quyết nguồn tin về tội phạm tham nhũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766288+07:00",
+      "fetched": "2026-02-19T17:40:01.766401+07:00"
+    },
+    {
+      "id": "2524bb23abca2d13e0b7ba0b7178db22",
+      "title": "Cùng chung mâm cơm Tết, sao mà đàn ông ngồi nhậu, phụ nữ cắm mặt rửa chén, dọn dẹp!",
+      "link": "https://tuoitre.vn/cung-chung-mam-com-tet-sao-ma-dan-ong-ngoi-nhau-phu-nu-cam-mat-rua-chen-don-dep-20260219145018478.htm",
+      "summary": "Tết đến, ở nhiều gia đình vẫn là đàn ông ngồi tiếp khách, nâng chén, còn phụ nữ lủi thủi ở bếp, nấu nướng, dọn dẹp, rửa chén... Với không ít người trẻ, đó là sự bất công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766140+07:00",
+      "fetched": "2026-02-19T17:40:01.766275+07:00"
+    },
+    {
+      "id": "0625e78106483278dc28af4a6b00bee2",
+      "title": "'Giữ lửa' nghề làm cối đá ở Thoại Sơn, An Giang",
+      "link": "https://tuoitre.vn/giu-lua-nghe-lam-coi-da-o-thoai-son-an-giang-20260219160606076.htm",
+      "summary": "Đầu năm Bính Ngọ, ông Nguyễn Ngọc Sĩ - một trong số ít người còn gắn bó với nghề làm cối đá truyền thống tại núi Sập (xã Thoại Sơn, tỉnh An Giang) - tất bật với các đơn hàng để kịp giao cho khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.766012+07:00",
+      "fetched": "2026-02-19T17:40:01.766128+07:00"
+    },
+    {
+      "id": "b655208dd4d7d1e068b90fc15f7e0750",
+      "title": "Iran khẳng định quyền làm giàu uranium bất chấp ông Trump dọa tấn công",
+      "link": "https://tuoitre.vn/iran-khang-dinh-quyen-lam-giau-uranium-bat-chap-ong-trump-doa-tan-cong-20260219162118823.htm",
+      "summary": "Người đứng đầu Tổ chức Năng lượng nguyên tử Iran khẳng định không nước nào có thể tước bỏ quyền làm giàu uranium của Iran, bất chấp Mỹ liên tục úp mở khả năng tấn công sau vòng đàm phán Geneva.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.765882+07:00",
+      "fetched": "2026-02-19T17:40:01.766001+07:00"
+    },
+    {
+      "id": "621f2218b2785000ffa832ea34e396cb",
+      "title": "Nồi giả cầy ngày Tết, món ăn từ sự gói ghém của cư dân làng biển",
+      "link": "https://tuoitre.vn/noi-gia-cay-ngay-tet-mon-an-tu-su-goi-ghem-cua-cu-dan-lang-bien-20260219140937858.htm",
+      "summary": "Nồi giả cầy ngày Tết xuất phát từ sự chắt chiu, nghèo khổ nhưng ẩn đằng sau đó là sự quan tâm, lo lắng của người cha, người mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.765744+07:00",
+      "fetched": "2026-02-19T17:40:01.765869+07:00"
+    },
+    {
+      "id": "65b2ec376145908d687b2a60fd2498df",
+      "title": "Công an thụ lý vụ tài xế taxi bị khách đấm vào mặt rồi... xin lỗi",
+      "link": "https://tuoitre.vn/cong-an-thu-ly-vu-tai-xe-taxi-bi-khach-dam-vao-mat-roi-xin-loi-20260219163128501.htm",
+      "summary": "Công an phường Tân Lập (tỉnh Đắk Lắk) thụ lý vụ một hành khách hung hăng đấm vào mặt tài xế taxi khi xe vẫn đang di chuyển rồi xuống xe xin lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T17:40:01.765546+07:00",
+      "fetched": "2026-02-19T17:40:01.765730+07:00"
+    },
     {
       "id": "d67b5fb570f70553c04758425ffa6804",
       "title": "'Thỏ ơi!!' thu 100 tỉ sau 2 ngày rưỡi, ngang 'Bộ tứ báo thủ'",
@@ -413,6 +523,256 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T11:21:31.865145+07:00"
     },
     {
+      "id": "387ad9e64b902883d9d452fa9909d279",
+      "title": "Sun PhuQuoc Airways mua 40 tàu bay Boeing trị giá 22,5 tỷ USD",
+      "link": "https://vnexpress.net/sun-phuquoc-airways-mua-40-tau-bay-boeing-tri-gia-22-5-ty-usd-5042340.html",
+      "summary": "Boeing và Sun PhuQuoc Airways ký hợp đồng mua 40 tàu bay thân rộng Boeing 787-9 Dreamliner hướng đến mục tiêu bay xuyên lục địa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-19T10:15:00+07:00",
+      "fetched": "2026-02-19T17:40:04.448742+07:00"
+    },
+    {
+      "id": "7bca2d760185cdf6b0f3257fb8739086",
+      "title": "Loạt dự án giao thông tạo cú hích cho Tây Ninh",
+      "link": "https://thanhnien.vn/loat-du-an-giao-thong-tao-cu-hich-cho-tay-ninh-185260219161431486.htm",
+      "summary": "Tỉnh Tây Ninh kỳ vọng khi hoàn thành các trục giao thông huyết mạch sẽ tạo cú hích cho nền kinh tế của tỉnh bứt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T10:02:00+07:00",
+      "fetched": "2026-02-19T17:40:00.726795+07:00"
+    },
+    {
+      "id": "cad145e039050411fdc5bf2ae5d2386d",
+      "title": "Vi phạm nồng độ cồn tăng 'chóng mặt' trong ngày mùng 3 tết",
+      "link": "https://thanhnien.vn/vi-pham-nong-do-con-tang-chong-mat-trong-ngay-mung-3-tet-18526021915194281.htm",
+      "summary": "Trong ngày mùng 3 Tết Nguyên đán 2026, toàn quốc có 4.268 trường hợp vi phạm nồng độ cồn khi tham gia giao thông, tăng khoảng 2,7 lần so với ngày mùng 1 và tăng khoảng 1,5 lần so với ngày mùng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T10:00:00+07:00",
+      "fetched": "2026-02-19T17:40:00.726964+07:00"
+    },
+    {
+      "id": "ba1cfac66afbb37218820c2c9deba989",
+      "title": "Sẽ có quy định về AI trong ứng dụng ngân hàng",
+      "link": "https://thanhnien.vn/se-co-quy-dinh-ve-ai-trong-ung-dung-ngan-hang-185260219130956207.htm",
+      "summary": "Ngân hàng Nhà nước (NHNN) vừa đưa ra dự thảo Thông tư quy định về an toàn, quản lý rủi ro và điều kiện triển khai ứng dụng trí tuệ nhân tạo (AI) trong ngành ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T10:00:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727116+07:00"
+    },
+    {
+      "id": "b0d533c31c2f3ff659451ca469812140",
+      "title": "Tái định vị kinh tế nhà nước",
+      "link": "https://thanhnien.vn/tai-dinh-vi-kinh-te-nha-nuoc-185260218165846339.htm",
+      "summary": "Sau 40 năm đổi mới, kinh tế nhà nước dù nắm giữ nguồn lực khổng lồ nhưng vẫn chưa thực sự tỉnh giấc bởi \"chiếc áo\" cơ chế chật hẹp. Nghị quyết 79 của Bộ Chính trị về phát triển kinh tế nhà nước được ví như \"lệnh xuất quân\" lịch sử, tái định vị toàn bộ nguồn lực quốc gia để để hình thành những \"sếu đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T10:00:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727290+07:00"
+    },
+    {
+      "id": "1d5dbfac8dbccfe726b3560e4503f3c6",
+      "title": "Hàng nghìn du khách đổ về Hội xuân núi Bà Đen",
+      "link": "https://vnexpress.net/hang-nghin-du-khach-do-ve-hoi-xuan-nui-ba-den-5042303.html",
+      "summary": "Hội xuân núi Bà Đen 2026 thu hút hàng nghìn du khách đổ về chiêm ngưỡng thảm hoa tulip và trải nghiệm không gian di sản đặc sắc những ngày đầu năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:45:00+07:00",
+      "fetched": "2026-02-19T17:39:57.380433+07:00"
+    },
+    {
+      "id": "28241f0ee75102506135a51477b181fb",
+      "title": "Xổ số miền Nam ngày 19 tháng 2: Truy tìm vé dãy số đẹp 222222 mùng 3 tết",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-2-truy-tim-ve-day-so-dep-222222-mung-3-tet-185260219163723026.htm",
+      "summary": "Chiều mùng 3 tết, nhiều người chơi xổ số truy tìm vé số có dãy số đẹp 222222 trúng xổ số miền Nam ngày 19 tháng 2 đài Bình Thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:40:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727441+07:00"
+    },
+    {
+      "id": "211172beb8249f31f0c81e0c81cf164d",
+      "title": "Robot hình người đầu tiên 'mở nguồn' toàn bộ phần cứng, phần mềm",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-dau-tien-mo-nguon-toan-bo-phan-cung-phan-mem-5042331.html",
+      "summary": "RoboParty, công ty của nhà sáng lập 22 tuổi, gây xôn xao khi công khai toàn bộ thiết kế, mã nguồn và kỹ thuật của robot hình người Origin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:38:35+07:00",
+      "fetched": "2026-02-19T17:39:57.380617+07:00"
+    },
+    {
+      "id": "211172beb8249f31f0c81e0c81cf164d",
+      "title": "Robot hình người đầu tiên 'mở nguồn' toàn bộ phần cứng, phần mềm",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-dau-tien-mo-nguon-toan-bo-phan-cung-phan-mem-5042331.html",
+      "summary": "RoboParty, công ty của nhà sáng lập 22 tuổi, gây xôn xao khi công khai toàn bộ thiết kế, mã nguồn và kỹ thuật của robot hình người Origin.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-19T09:38:35+07:00",
+      "fetched": "2026-02-19T17:40:07.657780+07:00"
+    },
+    {
+      "id": "7e5fb5d2516b02ace7b145e795b37f65",
+      "title": "Mùng 3 tết, siêu thị mở cửa trở lại với hàng hóa dồi dào",
+      "link": "https://thanhnien.vn/mung-3-tet-sieu-thi-mo-cua-tro-lai-voi-hang-hoa-doi-dao-185260219162552658.htm",
+      "summary": "Ngày 19.2, nhằm mùng 3 tết, hàng hóa trong nước dồi dào và không xảy ra hiện tượng sốt giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:32:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727588+07:00"
+    },
+    {
+      "id": "076032cf8ed22af54b619cbb37a91a15",
+      "title": "Nhà thầu xây dựng giảm hơn nghìn tỷ doanh thu do 'sai sót in ấn'",
+      "link": "https://vnexpress.net/nha-thau-xay-dung-giam-hon-nghin-ty-doanh-thu-do-sai-sot-in-an-5042311.html",
+      "summary": "Công ty xây dựng Fecon đính chính doanh thu quý cuối năm ngoái từ 2.714 tỷ đồng giảm còn 1.572 tỷ đồng vì \"sai sót trong quá trình in ấn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:25:34+07:00",
+      "fetched": "2026-02-19T17:39:57.380783+07:00"
+    },
+    {
+      "id": "076032cf8ed22af54b619cbb37a91a15",
+      "title": "Nhà thầu xây dựng giảm hơn nghìn tỷ doanh thu do 'sai sót in ấn'",
+      "link": "https://vnexpress.net/nha-thau-xay-dung-giam-hon-nghin-ty-doanh-thu-do-sai-sot-in-an-5042311.html",
+      "summary": "Công ty xây dựng Fecon đính chính doanh thu quý cuối năm ngoái từ 2.714 tỷ đồng giảm còn 1.572 tỷ đồng vì \"sai sót trong quá trình in ấn\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-19T09:25:34+07:00",
+      "fetched": "2026-02-19T17:40:04.447393+07:00"
+    },
+    {
+      "id": "56563d86963937ec7114153de0c47aae",
+      "title": "Cà Mau hoàn thành tuyển 448 công dân nghĩa vụ Công an nhân dân",
+      "link": "https://thanhnien.vn/ca-mau-hoan-thanh-tuyen-448-cong-dan-nghia-vu-cong-an-nhan-dan-185260219153646722.htm",
+      "summary": "Công an tỉnh Cà Mau đã hoàn tất tuyển chọn 448 công dân thực hiện nghĩa vụ tham gia Công an nhân dân năm 2026, đạt 100% chỉ tiêu Bộ Công an giao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:22:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727733+07:00"
+    },
+    {
+      "id": "aac2716c0029a6690f227fad1bbce79b",
+      "title": "Vụ lật thuyền trên sông Gianh: 7 nạn nhân cùng một gia đình",
+      "link": "https://thanhnien.vn/vu-lat-thuyen-tren-song-gianh-7-nan-nhan-cung-mot-gia-dinh-185260219153935848.htm",
+      "summary": "Lực lượng chức năng xác định 7 nạn nhân trong vụ lật thuyền khiến 2 người chết và 2 người mất tích đều cùng trong một gia đình. Công tác tìm kiếm vẫn đang được triển khai khẩn trương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:19:00+07:00",
+      "fetched": "2026-02-19T17:40:00.727881+07:00"
+    },
+    {
+      "id": "8fce83775d54543432e5f00c0b912c73",
+      "title": "Báo Malaysia lo ngại đội nhà không chuẩn bị cho trận tái đấu Việt Nam: ‘Sự im lặng đáng sợ’",
+      "link": "https://thanhnien.vn/bao-malaysia-lo-ngai-doi-nha-khong-chuan-bi-cho-tran-tai-dau-viet-nam-su-im-lang-dang-so-18526021916095385.htm",
+      "summary": "Theo New Straits Times, cho đến nay trên các nền tảng mạng xã hội, website của đội tuyển và Liên đoàn Bóng đá Malaysia (FAM) đều bao trùm một sự im lặng đáng sợ, trong khi thời gian chuẩn bị cho trận tái đấu đội tuyển Việt Nam ngày càng gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:16:00+07:00",
+      "fetched": "2026-02-19T17:40:00.728026+07:00"
+    },
+    {
+      "id": "5d88fc60eeb5f029d9539be3ba3ef2e5",
+      "title": "Gã khổng lồ eBay 'đặt cược' 1,2 tỷ USD vào thị trường quần áo cũ",
+      "link": "https://vnexpress.net/ga-khong-lo-ebay-dat-cuoc-1-2-ty-usd-vao-thi-truong-quan-ao-cu-5042327.html",
+      "summary": "eBay chi 1,2 tỷ USD mua lại sàn thương mại điện tử thời trang qua sử dụng của Etsy, đặt cược vào nhu cầu của Gen Z với lối sống bền vững, tái sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:09:08+07:00",
+      "fetched": "2026-02-19T17:39:57.380939+07:00"
+    },
+    {
+      "id": "5d88fc60eeb5f029d9539be3ba3ef2e5",
+      "title": "Gã khổng lồ eBay 'đặt cược' 1,2 tỷ USD vào thị trường quần áo cũ",
+      "link": "https://vnexpress.net/ga-khong-lo-ebay-dat-cuoc-1-2-ty-usd-vao-thi-truong-quan-ao-cu-5042327.html",
+      "summary": "eBay chi 1,2 tỷ USD mua lại sàn thương mại điện tử thời trang qua sử dụng của Etsy, đặt cược vào nhu cầu của Gen Z với lối sống bền vững, tái sử dụng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-19T09:09:08+07:00",
+      "fetched": "2026-02-19T17:40:04.447565+07:00"
+    },
+    {
+      "id": "62acbffb467658127a89cda45a63a058",
+      "title": "Vàng 'bay màu' khiến gia chủ khóc thét",
+      "link": "https://vnexpress.net/vang-bay-mau-khi-vua-qua-mung-2-tet-5041859.html",
+      "summary": "Đầu năm đeo vàng cho đỏ cho sang, ai ngờ mới hết mùng 2 đã để lại “kỷ niệm” in hằn trên tay gia chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:04:44+07:00",
+      "fetched": "2026-02-19T17:39:57.381099+07:00"
+    },
+    {
+      "id": "fcf795090d9c2c2a7e0220adfb67e490",
+      "title": "Tết sum vầy của sao Việt đông con",
+      "link": "https://vnexpress.net/tet-sum-vay-cua-sao-viet-dong-con-5042293.html",
+      "summary": "Hoa hậu Đặng Thu Thảo, diễn viên Trang Nhung, Vân Trang đón Tết Bính Ngọ bên chồng con trong không khí tươi vui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:04:06+07:00",
+      "fetched": "2026-02-19T17:39:57.381280+07:00"
+    },
+    {
+      "id": "1c62926bf3a96ce33bbbf513a3bbe0e1",
+      "title": "Hơn 18.000 ca cấp cứu liên quan giao thông 5 ngày nghỉ Tết",
+      "link": "https://vnexpress.net/hon-18-000-ca-cap-cuu-lien-quan-giao-thong-5-ngay-nghi-tet-5042267.html",
+      "summary": "Bộ Y tế ghi nhận 18.255 lượt khám, cấp cứu do tai nạn liên quan giao thông 5 ngày Tết, giảm nhẹ so cùng kỳ năm ngoái, trong đó 123 người tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:02:27+07:00",
+      "fetched": "2026-02-19T17:39:57.381440+07:00"
+    },
+    {
+      "id": "d81ba1e97473b820f87a2366c5969126",
+      "title": "'Tôi hát karaoke ở nhà tôi, sai chỗ nào?'",
+      "link": "https://vnexpress.net/toi-hat-karaoke-o-nha-toi-sai-cho-nao-5042302.html",
+      "summary": "Vài hàng xóm hát karaoke, bật nhạc ầm ĩ khiến mẹ tôi 70 tuổi đổ bệnh, góp ý thì họ bảo 'chẳng làm gì sai'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:00:00+07:00",
+      "fetched": "2026-02-19T17:39:57.381597+07:00"
+    },
+    {
+      "id": "eb4bf858b0d234f9162b896e8bc74ea6",
+      "title": "Những đột phá vaccine diễn ra vào năm Ngọ",
+      "link": "https://vnexpress.net/nhung-dot-pha-vaccine-dien-ra-vao-nam-ngo-5041485.html",
+      "summary": "Các năm Ngọ trong lịch sử y học thế giới gắn liền sự ra đời, thử nghiệm của nhiều loại vaccine, đặt nền móng cho dự phòng, kiểm soát dịch bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:00:00+07:00",
+      "fetched": "2026-02-19T17:39:57.381752+07:00"
+    },
+    {
+      "id": "386ef9906d3a861bab921fdfaaab46fd",
+      "title": "Xổ số miền Nam ngày 19 tháng 2 - Kết quả xổ số hôm nay thứ năm",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-2-ket-qua-xo-so-hom-nay-thu-nam-185260219124250128.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 19 tháng 2; xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ năm ngày 19.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:00:00+07:00",
+      "fetched": "2026-02-19T17:40:00.728185+07:00"
+    },
+    {
+      "id": "67360a2af74eeee5e9fbaf2e9f7591be",
+      "title": "Tôn vinh trang phục ngày tết với túi ngọc trai kiêu sa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ton-vinh-trang-phuc-ngay-tet-voi-tui-ngoc-trai-kieu-sa-185260215160708265.htm",
+      "summary": "Túi ngọc trai là phụ kiện dễ ứng dụng trong dịp đầu năm. Dù kết hợp với áo dài, đồ cách tân hay trang phục thường ngày, thiết kế này dễ dàng tôn vinh khí chất người mặc trong những ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T09:00:00+07:00",
+      "fetched": "2026-02-19T17:40:00.728335+07:00"
+    },
+    {
+      "id": "90027be39e22b5f3a2cf624be3cf640b",
+      "title": "Kinh hoàng ô tô liều lĩnh quay đầu trên cao tốc",
+      "link": "https://thanhnien.vn/kinh-hoang-o-to-lieu-linh-quay-dau-tren-cao-toc-185260219135053248.htm",
+      "summary": "Bất chấp luật và nguy hiểm, tài xế vẫn liều lĩnh lái ô tô con quay đầu trên cao tốc; suýt dẫn đến tai nạn nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:59:00+07:00",
+      "fetched": "2026-02-19T17:40:00.728479+07:00"
+    },
+    {
       "id": "3bcaa0d60d62797abf18b28afc8da856",
       "title": "Ăn Tết xong, nên đi bộ thay vì chạy",
       "link": "https://tuoitre.vn/an-tet-xong-nen-di-bo-thay-vi-chay-20260215133132561.htm",
@@ -481,6 +841,16 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T08:57:00.127036+07:00",
       "fetched": "2026-02-19T08:57:00.127248+07:00"
+    },
+    {
+      "id": "2c1287f6c0ebe711a36829e10f604d0a",
+      "title": "Dinh thự Bạch công tử và những màn ăn chơi khét tiếng bậc nhất Nam kỳ",
+      "link": "https://thanhnien.vn/dinh-thu-bach-cong-tu-va-nhung-man-an-choi-khet-tieng-bac-nhat-nam-ky-185260218232240341.htm",
+      "summary": "Không chỉ gắn với giai thoại đốt tiền phô trương, Bạch công tử ở Mỹ Tho còn có dinh thự xa hoa mang hồn Nam bộ, 'xác' Âu châu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T08:43:00+07:00",
+      "fetched": "2026-02-19T17:40:00.728620+07:00"
     },
     {
       "id": "177bf1b57ef87d7a99ae11211789782a",
