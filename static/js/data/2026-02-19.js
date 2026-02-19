@@ -1,7 +1,77 @@
 window.newsData_2026_02_19 = {
   "date": "2026-02-19",
-  "lastUpdated": "2026-02-19T21:44:12.483724+07:00",
+  "lastUpdated": "2026-02-19T23:48:33.256653+07:00",
   "articles": [
+    {
+      "id": "6271c4ce94dc56dfc2e9b84f9a6428f5",
+      "title": "Giá dầu tăng theo căng thẳng Mỹ - Iran",
+      "link": "https://tuoitre.vn/gia-dau-tang-theo-cang-thang-my-iran-20260219211452862.htm",
+      "summary": "Căng thẳng giữa Iran và Mỹ đe dọa sự hanh thông của tuyến đường vận chuyển dầu quan trọng, giá dầu thế giới nhờ vậy được đà tăng theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.713209+07:00",
+      "fetched": "2026-02-19T23:48:25.713325+07:00"
+    },
+    {
+      "id": "fca8aac1842a5ad878e11f647f4e1925",
+      "title": "Biển Vũng Tàu kín người, nhiều khách sạn ‘cháy phòng’ ngày đầu năm mới",
+      "link": "https://tuoitre.vn/bien-vung-tau-kin-nguoi-nhieu-khach-san-chay-phong-ngay-dau-nam-moi-20260219211707451.htm",
+      "summary": "Trong ngày mùng 3 Tết, gần 40.000 lượt khách đến Vũng Tàu du xuân, nhiều khách sạn “cháy phòng”, đường sá ùn tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.713078+07:00",
+      "fetched": "2026-02-19T23:48:25.713197+07:00"
+    },
+    {
+      "id": "4c6a199502568bed4f63a14344779f10",
+      "title": "Nga đả kích tuyên bố của Mỹ về vai trò trọng yếu trong đàm phán Nga - Ukraine",
+      "link": "https://tuoitre.vn/nga-da-kich-tuyen-bo-cua-my-ve-vai-tro-trong-yeu-trong-dam-phan-nga-ukraine-20260219213404989.htm",
+      "summary": "Người phát ngôn Bộ Ngoại giao Nga Maria Zakharova nói rằng Nga coi tuyên bố chỉ Mỹ mới có thể đưa Nga và Ukraine ngồi vào bàn đàm phán là không chính xác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.712946+07:00",
+      "fetched": "2026-02-19T23:48:25.713065+07:00"
+    },
+    {
+      "id": "79c6c68391cdc58d895dad1c40e1d348",
+      "title": "Iran tập trận trên biển với Nga, thông báo Trung Quốc sắp nhập cuộc",
+      "link": "https://tuoitre.vn/iran-tap-tran-tren-bien-voi-nga-thong-bao-trung-quoc-sap-nhap-cuoc-20260219220159457.htm",
+      "summary": "Iran đã tiến hành các cuộc tập trận quân sự với Nga trong bối cảnh căng thẳng giữa Tehran và Washington đang leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.712807+07:00",
+      "fetched": "2026-02-19T23:48:25.712934+07:00"
+    },
+    {
+      "id": "518c7fb37aca558492ebce12f8c207b0",
+      "title": "Bóng đá Thái Lan thành công lớn ở đấu trường châu Á",
+      "link": "https://tuoitre.vn/bong-da-thai-lan-thanh-cong-lon-o-dau-truong-chau-a-2026021922000354.htm",
+      "summary": "Các CLB Thái Lan khẳng định sức mạnh khi thi đấu thành công ở hai giải đấu cấp CLB cao nhất của bóng đá châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.712655+07:00",
+      "fetched": "2026-02-19T23:48:25.712777+07:00"
+    },
+    {
+      "id": "47a44ae3116c344b6960e69baab11e2f",
+      "title": "Công an thông báo tài xế 'khóa đầu, khóa đuôi' trong ngõ nhỏ ở Hà Tĩnh đã nhận sai",
+      "link": "https://tuoitre.vn/cong-an-thong-bao-tai-xe-khoa-dau-khoa-duoi-trong-ngo-nho-o-ha-tinh-da-nhan-sai-20260219220823525.htm",
+      "summary": "Tình tiết mới liên quan đến sự việc xảy ra vào sáng ngày 18-2 (mùng 2 Tết), tại ngõ 71 đường Quang Lĩnh (phường Trần Phú, Hà Tĩnh) giữa các phương tiện ô tô dẫn đến xảy ra cãi cọ giữa anh P.T.A. và anh N.V.L. gây cản trở giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.712506+07:00",
+      "fetched": "2026-02-19T23:48:25.712641+07:00"
+    },
+    {
+      "id": "7c87af54a5cfe26024ce1f6e511d9bb9",
+      "title": "'Ông nội quốc dân' tổ chức trò chơi cho các cháu ngày Tết được cộng đồng mạng khen nức nở",
+      "link": "https://tuoitre.vn/ong-noi-quoc-dan-to-chuc-tro-choi-cho-cac-chau-ngay-tet-duoc-cong-dong-mang-khen-nuc-no-20260219223346725.htm",
+      "summary": "Ông Vũ Xuân Thùy ở Nam Định cũ (nay là Ninh Bình) bỗng trở thành ‘người ông quốc dân’ khi được cộng đồng mạng hết lời ngợi khen, sau bài đăng của cháu gái khoe ông tự tay tổ chức buổi vui chơi sum họp gia đình để nuôi dưỡng tình thân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T23:48:25.712244+07:00",
+      "fetched": "2026-02-19T23:48:25.712490+07:00"
+    },
     {
       "id": "8e20d9577ab383c82e6156657fc4bc5e",
       "title": "Tập đoàn sở hữu thương hiệu Conan sáp nhập studio đứng sau Blue Lock, Tower of God",
@@ -293,6 +363,56 @@ window.newsData_2026_02_19 = {
       "fetched": "2026-02-19T17:40:01.765730+07:00"
     },
     {
+      "id": "d235ba687cd9aa82c7691bbb6a68b7ef",
+      "title": "Ông Trump: Mỹ sẽ góp 10 tỷ USD cho Hội đồng Hòa bình",
+      "link": "https://vnexpress.net/ong-trump-my-se-gop-10-ty-usd-cho-hoi-dong-hoa-binh-5042380.html",
+      "summary": "Ông Trump cho biết Mỹ sẽ tài trợ 10 tỷ USD cho Hội đồng Hòa bình, trong khi các đồng minh góp 7 tỷ USD cho gói cứu trợ Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T16:38:23+07:00",
+      "fetched": "2026-02-19T23:48:27.719527+07:00"
+    },
+    {
+      "id": "343f4fb9663fcb49fcaf629eef18b7ec",
+      "title": "Ông Macron chỉ trích Thủ tướng Italy can dự chuyện của Pháp",
+      "link": "https://vnexpress.net/ong-macron-chi-trich-thu-tuong-italy-can-du-chuyen-cua-phap-5042371.html",
+      "summary": "Tổng thống Macron đề nghị Thủ tướng Italy không bình luận vấn đề nội bộ nước khác, sau khi bà lên tiếng về sự việc gây chết người ở Pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-19T16:25:45+07:00",
+      "fetched": "2026-02-19T23:48:27.719704+07:00"
+    },
+    {
+      "id": "2c80527039bdf2d9843d230af9a6b3bf",
+      "title": "Tố My nói về tâm huyết với bolero, trải lòng chuyện lập gia đình",
+      "link": "https://thanhnien.vn/to-my-noi-ve-tam-huyet-voi-bolero-trai-long-chuyen-lap-gia-dinh-185260219213644853.htm",
+      "summary": "Tố My dành thời gian chiêm nghiệm về năm cũ với nhiều thăng trầm, đồng thời tiết lộ thêm những kế hoạch trong 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T16:22:00+07:00",
+      "fetched": "2026-02-19T23:48:24.196648+07:00"
+    },
+    {
+      "id": "f74b8db79fbf76d8efd8d139b1e918e6",
+      "title": "Tết đặc biệt của Khánh Thi - Phan Hiển",
+      "link": "https://thanhnien.vn/tet-dac-biet-cua-khanh-thi-phan-hien-185260219225034063.htm",
+      "summary": "Trong những ngày đầu năm, Khánh Thi cùng Phan Hiển và các con đến mừng tuổi, xông đất nhà ông bà của chồng. Đáng chú ý, mẹ ruột nữ kiện tướng cũng đồng hành trong chuyến đi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T16:18:00+07:00",
+      "fetched": "2026-02-19T23:48:24.196844+07:00"
+    },
+    {
+      "id": "afed3165947f039a41c39c7d14642a45",
+      "title": "Mình đề cao sự chân thành, tôn trọng và biết điều trong giao tiếp",
+      "link": "https://vnexpress.net/minh-de-cao-su-chan-thanh-ton-trong-va-biet-dieu-trong-giao-tiep-5042182.html",
+      "summary": "Mình là người thẳng thắn, rõ ràng trong quan điểm sống, sống tình cảm nhưng không mập mờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T16:00:00+07:00",
+      "fetched": "2026-02-19T23:48:21.271929+07:00"
+    },
+    {
       "id": "d67b5fb570f70553c04758425ffa6804",
       "title": "'Thỏ ơi!!' thu 100 tỉ sau 2 ngày rưỡi, ngang 'Bộ tứ báo thủ'",
       "link": "https://tuoitre.vn/tho-oi-thu-100-ti-sau-2-ngay-ruoi-ngang-bo-tu-bao-thu-20260219111747351.htm",
@@ -441,6 +561,66 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T15:40:00.375487+07:00",
       "fetched": "2026-02-19T15:40:00.375714+07:00"
+    },
+    {
+      "id": "1c395e8603a708fc8c0e56cc960aecb4",
+      "title": "Tối mùng 3 tết không có người trúng độc đắc Vietlott, tiền cộng dồn 66,5 tỉ đồng",
+      "link": "https://thanhnien.vn/toi-mung-3-tet-khong-co-nguoi-trung-doc-dac-vietlott-tien-cong-don-665-ti-dong-18526021919061288.htm",
+      "summary": "Tối 19.2 (mùng 3 tết), Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, tuy nhiên không xuất hiện người trúng độc đắc nên số tiền cộng dồn là 66,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:00:00+07:00",
+      "fetched": "2026-02-19T23:48:24.197009+07:00"
+    },
+    {
+      "id": "32c58c3405a5bce59f3568469270f5fe",
+      "title": "Mang cả vườn xuân vào tủ đồ với họa tiết hoa rạng rỡ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mang-ca-vuon-xuan-vao-tu-do-voi-hoa-tiet-hoa-rang-ro-185260216133316453.htm",
+      "summary": "Tết năm nay, họa tiết hoa không còn dừng ở vai trò điểm xuyết mà thực sự trở thành tuyên ngôn thẩm mỹ và sang trọng của tủ đồ đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T15:00:00+07:00",
+      "fetched": "2026-02-19T23:48:24.197162+07:00"
+    },
+    {
+      "id": "4e0885995a7fd90ad2901160cd20538f",
+      "title": "Hàng nghìn người đổ về du xuân ở đường hoa xứ Trà Thái Nguyên",
+      "link": "https://thanhnien.vn/hang-nghin-nguoi-do-ve-du-xuan-o-duong-hoa-xu-tra-thai-nguyen-18526021921400746.htm",
+      "summary": "Chiều mùng 3 Tết Bính Ngọ, hàng nghìn người dân và du khách đổ về Đường hoa xứ Trà, Quảng trường Võ Nguyên Giáp du xuân, check-in khiến khu vực trung tâm tỉnh Thái Nguyên đông đúc, nhiều tuyến đường quá tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:59:00+07:00",
+      "fetched": "2026-02-19T23:48:24.197319+07:00"
+    },
+    {
+      "id": "87719b87a0367910838da84693fdc316",
+      "title": "Hàng chục nghìn khách đổ về 'nóc nhà' miền Tây đầu năm",
+      "link": "https://vnexpress.net/hang-chuc-nghin-khach-do-ve-noc-nha-mien-tay-dau-nam-5042332.html",
+      "summary": "Những ngày đầu năm mới, Khu du lịch núi Cấm thuộc dãy Thất Sơn đón hàng chục nghìn khách du xuân, hành hương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:58:00+07:00",
+      "fetched": "2026-02-19T23:48:21.272163+07:00"
+    },
+    {
+      "id": "1e50b850fefeb81aec496cb587ddd123",
+      "title": "Khách Trung Quốc xúc động nhận lì xì từ quân nhân Việt Nam",
+      "link": "https://vnexpress.net/khach-trung-quoc-xuc-dong-nhan-li-xi-tu-quan-nhan-viet-nam-5042322.html",
+      "summary": "Ông Sun, người Trung Quốc, xúc động trước cử chỉ trao lì xì của quân nhân Việt Nam ngày mùng 2 Tết, quyết định giữ lại món quà để làm kỷ niệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:46:26+07:00",
+      "fetched": "2026-02-19T23:48:21.272342+07:00"
+    },
+    {
+      "id": "adbd9f502bc918db21a4d7e25592ec13",
+      "title": "Hai đứa trẻ lao qua đường lúc ôtô lao tới",
+      "link": "https://vnexpress.net/hai-dua-tre-lao-qua-duong-luc-oto-lao-toi-5042339.html",
+      "summary": "Ôtô đang chạy tốc độ cao trên QL18 bất ngờ gặp trẻ nhỏ lao qua đường, khiến tài xế phanh gấp, may mắn tránh va chạm, ngày 18/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T14:38:42+07:00",
+      "fetched": "2026-02-19T23:48:21.272510+07:00"
     },
     {
       "id": "f5f134c8a6ebd3f9e42927e4382f574b",
@@ -711,6 +891,16 @@ window.newsData_2026_02_19 = {
       "category": "Tổng hợp",
       "published": "2026-02-19T12:45:23+07:00",
       "fetched": "2026-02-19T19:59:14.965961+07:00"
+    },
+    {
+      "id": "77c14b3e0522752d354de309daab15e2",
+      "title": "Cáp treo Hòn Thơm gặp sự cố, ảnh hưởng hàng nghìn khách",
+      "link": "https://vnexpress.net/cap-treo-hon-thom-gap-su-co-anh-huong-hang-nghin-khach-5042352.html",
+      "summary": "Hệ thống cáp treo Hòn Thơm, Phú Quốc, tạm ngừng hoạt động chiều 19/2 do sự cố điện, đơn vị vận hành phải huy động hàng chục canô đưa hàng nghìn khách vào bờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-19T12:45:23+07:00",
+      "fetched": "2026-02-19T23:48:21.273825+07:00"
     },
     {
       "id": "02e006155a130bc7e06df1c98d8d51dd",
