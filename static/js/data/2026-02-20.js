@@ -1,7 +1,77 @@
 window.newsData_2026_02_20 = {
   "date": "2026-02-20",
-  "lastUpdated": "2026-02-20T21:37:37.641008+07:00",
+  "lastUpdated": "2026-02-20T23:34:50.604617+07:00",
   "articles": [
+    {
+      "id": "cb494ab74b3ec7a0ba897d24ca204bbb",
+      "title": "Cha con ngược dòng sông Gianh cứu 3 mẹ con trong vụ lật đò mùng 3 Tết",
+      "link": "https://tuoitre.vn/cha-con-nguoc-dong-song-gianh-cuu-3-me-con-trong-vu-lat-do-mung-3-tet-20260220205719565.htm",
+      "summary": "Vụ lật đò chở 7 người trên sông Gianh sáng mùng 3 Tết có thể bi thảm hơn nếu không có hai cha con ông Cao Hữu Tình lao xuống cứu người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.369626+07:00",
+      "fetched": "2026-02-20T23:34:44.369747+07:00"
+    },
+    {
+      "id": "d9d06849bfd435a70a1d2afe8f62e905",
+      "title": "Quốc lộ 1 thông thoáng, cao tốc Vân Phong - Nha Trang, Nha Trang - Cam Lâm xe cộ bắt đầu tấp nập",
+      "link": "https://tuoitre.vn/quoc-lo-1-thong-thoang-cao-toc-van-phong-nha-trang-nha-trang-cam-lam-xe-co-bat-dau-tap-nap-20260220212030924.htm",
+      "summary": "Tuyến quốc lộ 1 qua Khánh Hòa thông thoáng, trong khi cao tốc Vân Phong - Nha Trang, Nha Trang - Cam Lâm (đoạn qua Khánh Hòa) xe cộ bắt đầu tấp nập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.369501+07:00",
+      "fetched": "2026-02-20T23:34:44.369615+07:00"
+    },
+    {
+      "id": "c7fa865e75d4f953140e72713bc8bff1",
+      "title": "Đình Bắc ghi 4 bàn, ủng hộ 60 triệu đồng trong trận bóng thiện nguyện",
+      "link": "https://tuoitre.vn/dinh-bac-ghi-4-ban-ung-ho-60-trieu-dong-trong-tran-bong-thien-nguyen-2026022021385284.htm",
+      "summary": "Tiền đạo Nguyễn Đình Bắc có hoạt động ý nghĩa trong dịp đầu xuân Bính Ngọ 2026 ở quê nhà Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.369375+07:00",
+      "fetched": "2026-02-20T23:34:44.369489+07:00"
+    },
+    {
+      "id": "1e5228ab29a3c9f528784e0a05db0ee2",
+      "title": "Iran phản bác tuyên bố của ông Trump: Mỹ chưa từng yêu cầu chấm dứt làm giàu uranium",
+      "link": "https://tuoitre.vn/iran-phan-bac-tuyen-bo-cua-ong-trump-my-chua-tung-yeu-cau-cham-dut-lam-giau-uranium-2026022021353967.htm",
+      "summary": "Ngoại trưởng Abbas Araghchi khẳng định Mỹ chưa từng yêu cầu Tehran chấm dứt làm giàu uranium, trái với tuyên bố từ Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.369217+07:00",
+      "fetched": "2026-02-20T23:34:44.369362+07:00"
+    },
+    {
+      "id": "322b9124e8d3b76779b8342df617ebfc",
+      "title": "'Du lịch ký ức' đầu xuân: Người dân tìm về Thành cổ Quảng Trị đông cả ngày lẫn đêm",
+      "link": "https://tuoitre.vn/du-lich-ky-uc-dau-xuan-nguoi-dan-tim-ve-thanh-co-quang-tri-dong-ca-ngay-lan-dem-20260220214848941.htm",
+      "summary": "Trong không khí du xuân đầu năm, nhiều gia đình tìm về Thành cổ Quảng Trị để bày tỏ lòng thành kính, mở đầu năm mới bằng một hành trình ý nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.369083+07:00",
+      "fetched": "2026-02-20T23:34:44.369205+07:00"
+    },
+    {
+      "id": "124659bd112cb8b4a1116edc3eb61c49",
+      "title": "Bắt nóng nghi phạm cướp giật điện thoại thiếu nữ ở TP.HCM",
+      "link": "https://tuoitre.vn/bat-nong-nghi-pham-cuop-giat-dien-thoai-thieu-nu-o-tp-hcm-20260220222234819.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM đã nhanh chóng truy xét, bắt giữ nghi phạm cướp giật điện thoại trên địa bàn phường Chánh Hưng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.368945+07:00",
+      "fetched": "2026-02-20T23:34:44.369071+07:00"
+    },
+    {
+      "id": "85420f5c72169ffe35e223b18e88f9e2",
+      "title": "Xe hơi chở 3 người rơi xuống vực sâu ở Khánh Hòa chiều mùng 4 Tết",
+      "link": "https://tuoitre.vn/xe-hoi-cho-3-nguoi-roi-xuong-vuc-sau-o-khanh-hoa-chieu-mung-4-tet-20260220225304448.htm",
+      "summary": "Sau va chạm mạnh, xe hơi 4 chỗ rơi xuống vực sâu trên địa bàn xã Phước Dinh (tỉnh Khánh Hòa). Sự việc xảy ra vào mùng 4 Tết Bính Ngọ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:34:44.368735+07:00",
+      "fetched": "2026-02-20T23:34:44.368930+07:00"
+    },
     {
       "id": "87822355b90fc58caec7536c9c24449d",
       "title": "Việt Nam chúc mừng Đại hội IX của Đảng Lao động Triều Tiên",
@@ -333,6 +403,36 @@ window.newsData_2026_02_20 = {
       "fetched": "2026-02-20T17:34:01.624773+07:00"
     },
     {
+      "id": "10c337a6f6f324d427b242865cf8c231",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế đối ứng của ông Trump",
+      "link": "https://vnexpress.net/toa-an-toi-cao-my-bac-bo-thue-doi-ung-cua-ong-trump-5042558.html",
+      "summary": "Tòa án Tối cao Mỹ đã phán quyết rằng các mức thuế đối ứng của Tổng thống Donald Trump là bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:52:06+07:00",
+      "fetched": "2026-02-20T23:34:40.756644+07:00"
+    },
+    {
+      "id": "10c337a6f6f324d427b242865cf8c231",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế đối ứng của ông Trump",
+      "link": "https://vnexpress.net/toa-an-toi-cao-my-bac-bo-thue-doi-ung-cua-ong-trump-5042558.html",
+      "summary": "Tòa án Tối cao Mỹ đã phán quyết rằng các mức thuế đối ứng của Tổng thống Donald Trump là bất hợp pháp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T15:52:06+07:00",
+      "fetched": "2026-02-20T23:34:46.682022+07:00"
+    },
+    {
+      "id": "98b08c6e3993bfddcd2405a72c763493",
+      "title": "Sân bay Phú Quốc liên tục lập kỷ lục số chuyến bay",
+      "link": "https://vnexpress.net/san-bay-phu-quoc-lien-tuc-lap-ky-luc-so-chuyen-bay-5042559.html",
+      "summary": "Cảng Hàng không quốc tế Phú Quốc đón 2.044 chuyến bay quốc tế từ ngày 1/1 đến 19/2 - giai đoạn sau khi bàn giao cho Sun Group.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:40:00+07:00",
+      "fetched": "2026-02-20T23:34:40.756818+07:00"
+    },
+    {
       "id": "25c33abc86b244f66f6eeaf4b9e82838",
       "title": "Bán tải điện Ford ngang cỡ Ranger lộ diện với thiết kế khí động học như siêu xe",
       "link": "https://tuoitre.vn/ban-tai-dien-ford-ngang-co-ranger-lo-dien-voi-thiet-ke-khi-dong-hoc-nhu-sieu-xe-20260220085238087.htm",
@@ -481,6 +581,76 @@ window.newsData_2026_02_20 = {
       "category": "Tổng hợp",
       "published": "2026-02-20T15:36:58.348510+07:00",
       "fetched": "2026-02-20T15:36:58.348739+07:00"
+    },
+    {
+      "id": "f5683fc84fadbb5ac853edb81b25d4d1",
+      "title": "Tòa án Tối cao Mỹ bác bỏ thuế quan toàn cầu của ông Trump",
+      "link": "https://thanhnien.vn/toa-an-toi-cao-my-bac-bo-thue-quan-toan-cau-cua-ong-trump-185260220222829264.htm",
+      "summary": "Tòa án Tối cao Mỹ vừa ra phán quyết ngăn chặn các mức thuế quan của Tổng thống Donald Trump đối với hàng nhập khẩu từ các nước, cho rằng nhà lãnh đạo đã vượt quá thẩm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:32:00+07:00",
+      "fetched": "2026-02-20T23:34:43.570912+07:00"
+    },
+    {
+      "id": "6e7944d3572ba588a4bf08171050c014",
+      "title": "Ninh Bình đón gần nửa triệu lượt khách ngày mùng 4 tết",
+      "link": "https://thanhnien.vn/ninh-binh-don-gan-nua-trieu-luot-khach-ngay-mung-4-tet-185260220221320937.htm",
+      "summary": "Riêng ngày mùng 4 tết, tỉnh Ninh Bình đón gần nửa triệu lượt khách, có những thời điểm ở một số khu du lịch lượng khách đổ về quá đông gây ách tắc cục bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:31:00+07:00",
+      "fetched": "2026-02-20T23:34:43.571076+07:00"
+    },
+    {
+      "id": "a83d2231a1a0fcf59647b9527cfc5ed0",
+      "title": "Nhiều điểm du lịch 'thất thủ' ngày mùng 4 Tết",
+      "link": "https://vnexpress.net/nhieu-diem-du-lich-that-thu-ngay-mung-4-tet-5042537.html",
+      "summary": "Các điểm du lịch nổi tiếng ở Ninh Bình, Hà Giang, Phú Quốc đông nghịt người, có nơi phải tạm dừng bán vé cho khách vì quá tải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:29:42+07:00",
+      "fetched": "2026-02-20T23:34:40.756977+07:00"
+    },
+    {
+      "id": "fb8a89633da9c625c20ffb1f90a53706",
+      "title": "Nhiều người nghi ngộ độc sau khi ăn trứng cá rồng",
+      "link": "https://thanhnien.vn/nhieu-nguoi-nghi-ngo-doc-sau-khi-an-trung-ca-rong-185260220215225445.htm",
+      "summary": "2 trong số 11 người ăn trứng cá rồng có các triệu chứng nặng là đau bụng, buồn nôn, nôn, phải truyền dịch mới ổn định sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:28:00+07:00",
+      "fetched": "2026-02-20T23:34:43.571247+07:00"
+    },
+    {
+      "id": "52a96054ae8109f132eeb7feb9057f71",
+      "title": "Ôtô chở ba người rơi xuống vực",
+      "link": "https://vnexpress.net/oto-cho-ba-nguoi-roi-xuong-vuc-5042548.html",
+      "summary": "Sau va chạm, xe 4 chỗ rơi xuống vực sâu ở đường đèo ven biển qua xã Phước Dinh, khiến người phụ nữ chấn thương nặng, chiều mùng 4 Tết (20/2).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:21:34+07:00",
+      "fetched": "2026-02-20T23:34:40.757130+07:00"
+    },
+    {
+      "id": "de75afc70e4b4752295a22752ea2e0ef",
+      "title": "Bác sĩ 24/7: Có nên uống cà phê đặc hay paracetamol sau khi say rượu?",
+      "link": "https://thanhnien.vn/bac-si-24-7-co-nen-uong-ca-phe-dac-hay-paracetamol-sau-khi-say-ruou-185260220171659496.htm",
+      "summary": "'Tôi nghe nói sau khi say rượu nếu uống cà phê đặc hay paracetamol sẽ giúp tỉnh táo, đỡ đau đầu hơn. Xin hỏi bác sĩ điều này có đúng?'. (Quốc Anh, 33 tuổi, Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:20:00+07:00",
+      "fetched": "2026-02-20T23:34:43.571403+07:00"
+    },
+    {
+      "id": "b54eabd322b1561c204aa7683d766440",
+      "title": "Cherry An Nhiên - diễn viên nhí triển vọng",
+      "link": "https://vnexpress.net/cherry-an-nhien-dien-vien-nhi-trien-vong-5042199.html",
+      "summary": "Cherry An Nhiên, 9 tuổi, đóng nhiều phim truyền hình như ''Gia đình trái dấu'', ''Đừng làm mẹ cáu'', được khen diễn xuất tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T15:00:00+07:00",
+      "fetched": "2026-02-20T23:34:40.757307+07:00"
     },
     {
       "id": "0e2193aae3a84279c52ba4f064f1be86",
