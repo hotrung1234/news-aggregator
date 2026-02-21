@@ -1,7 +1,157 @@
 window.newsData_2026_02_21 = {
   "date": "2026-02-21",
-  "lastUpdated": "2026-02-21T08:48:23.732361+07:00",
+  "lastUpdated": "2026-02-21T11:05:00.873783+07:00",
   "articles": [
+    {
+      "id": "56ead32f2a64dfc46ba1f6c175a4b50b",
+      "title": "Bị phạt vì dùng điện thoại khi lái xe, nhưng tài xế lại… không có tay",
+      "link": "https://tuoitre.vn/bi-phat-vi-dung-dien-thoai-khi-lai-xe-nhung-tai-xe-lai-khong-co-tay-20260221002507141.htm",
+      "summary": "Một tấm vé phạt giao thông ở Mỹ đang gây xôn xao khi một phụ nữ bị cáo buộc dùng điện thoại khi lái xe bằng bàn tay phải không tồn tại. Vụ việc đang được đưa ra tòa, làm dấy lên tranh cãi về cách thực thi luật giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.310047+07:00",
+      "fetched": "2026-02-21T11:04:53.310162+07:00"
+    },
+    {
+      "id": "46cc4e8c75f679773972569efdae7132",
+      "title": "Tin tức thế giới 21-2: Ông Trump tạm áp thuế quan toàn cầu 10%, tuyên bố sắp đi Trung Quốc",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-21-2-ong-trump-tam-ap-thue-quan-toan-cau-10-tuyen-bo-sap-di-trung-quoc-20260221074411353.htm",
+      "summary": "Ông Trump công bố mức thuế quan toàn cầu mới; Phản ứng của các nước trước phán quyết thuế quan của Tòa tối cao Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309889+07:00",
+      "fetched": "2026-02-21T11:04:53.310035+07:00"
+    },
+    {
+      "id": "967c7453fd90c1745a473b64537d47e8",
+      "title": "Tốc độ cải cách của Việt Nam cuốn hút CEO ngoại",
+      "link": "https://tuoitre.vn/toc-do-cai-cach-cua-viet-nam-cuon-hut-ceo-ngoai-20260206121545484.htm",
+      "summary": "Tuổi Trẻ trò chuyện với ông Ashish Joshi - Tổng giám đốc điều hành (CEO) Suntory PepsiCo Việt Nam, và ông Bae In Han - CEO Hyosung Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309758+07:00",
+      "fetched": "2026-02-21T11:04:53.309874+07:00"
+    },
+    {
+      "id": "ba8c961e7274cb7759302cabaf070f82",
+      "title": "10 chiếc váy cưới biểu tượng nhất lịch sử",
+      "link": "https://tuoitre.vn/10-chiec-vay-cuoi-bieu-tuong-nhat-lich-su-20260220224252658.htm",
+      "summary": "Váy cưới thường được xem là tấm gương phản chiếu thẩm mỹ đương thời, góp phần khắc họa bề dày lịch sử thời trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309635+07:00",
+      "fetched": "2026-02-21T11:04:53.309747+07:00"
+    },
+    {
+      "id": "18f30ed9cb3f9e51575b8bc9089cb281",
+      "title": "Não bộ không 'chốt sổ' ở tuổi 25: Khoa học tiết lộ mốc trưởng thành thật sự gây bất ngờ",
+      "link": "https://tuoitre.vn/nao-bo-khong-chot-so-o-tuoi-25-khoa-hoc-tiet-lo-moc-truong-thanh-that-su-gay-bat-ngo-20260220224223932.htm",
+      "summary": "Nghiên cứu quét não quy mô lớn cho thấy thùy trán vẫn tiếp tục phát triển đến đầu tuổi 30, bác bỏ mốc 25 từng được tin là 'vạch đích' trưởng thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309511+07:00",
+      "fetched": "2026-02-21T11:04:53.309624+07:00"
+    },
+    {
+      "id": "47a6f363a5bb7a9713e2546d5c9b27e2",
+      "title": "Bị cảnh sát giao thông dừng xe kiểm tra, thanh niên phóng hỏa đốt luôn xe máy",
+      "link": "https://tuoitre.vn/bi-canh-sat-giao-thong-dung-xe-kiem-tra-thanh-nien-phong-hoa-dot-luon-xe-may-20260221083740705.htm",
+      "summary": "Không đội mũ bảo hiểm khi lái xe, khi cảnh sát giao thông yêu cầu dừng xe để xử lý, nam thanh niên không chấp hành, còn châm lửa đốt luôn xe máy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309382+07:00",
+      "fetched": "2026-02-21T11:04:53.309500+07:00"
+    },
+    {
+      "id": "2f9c5627aebe198f063fbb9ac7114bad",
+      "title": "Thủ tướng: Chủ động ứng phó xâm nhập mặn bất thường tăng cao, không để người dân thiếu nước ngọt",
+      "link": "https://tuoitre.vn/thu-tuong-chu-dong-ung-pho-xam-nhap-man-bat-thuong-tang-cao-khong-de-nguoi-dan-thieu-nuoc-ngot-20260221081057878.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa ký Công điện số 15 về việc chủ động ứng phó xâm nhập mặn ở Đồng bằng sông Cửu Long và hạn hán, cháy rừng ở khu vực Nam Trung Bộ và Đông Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309251+07:00",
+      "fetched": "2026-02-21T11:04:53.309370+07:00"
+    },
+    {
+      "id": "718ee843189d797ae2be9787181150e9",
+      "title": "Xe khách chạy trên cao tốc Phan Thiết - Vĩnh Hảo bị phạt 104 triệu đồng vì vi phạm nghiêm trọng",
+      "link": "https://tuoitre.vn/xe-khach-chay-tren-cao-toc-phan-thiet-vinh-hao-bi-phat-104-trieu-dong-vi-vi-pham-nghiem-trong-20260221083502089.htm",
+      "summary": "Ngày 21-2, đại diện Đội Cảnh sát giao thông số 6 vừa xử lý trường hợp xe khách vi phạm 3 lỗi nghiêm trọng với tổng mức phạt chủ xe và tài xế hơn 104 triệu đồng, tước phù hiệu xe 2 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.309123+07:00",
+      "fetched": "2026-02-21T11:04:53.309240+07:00"
+    },
+    {
+      "id": "7d01f4a3130190319fff16c909abdb51",
+      "title": "Phát hiện hàng loạt hóa chất gây ung thư và rối loạn nội tiết trong tóc giả",
+      "link": "https://tuoitre.vn/phat-hien-hang-loat-hoa-chat-gay-ung-thu-va-roi-loan-noi-tiet-trong-toc-gia-2026022021443987.htm",
+      "summary": "Phân tích 43 nhãn tóc nối, tóc giả, Viện Silent Spring phát hiện hơn 900 dấu hiệu hóa học, nhiều chất liên quan ung thư, vô sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308988+07:00",
+      "fetched": "2026-02-21T11:04:53.309111+07:00"
+    },
+    {
+      "id": "bc6dd5db98559a32df1baf52deed2572",
+      "title": "Trung Quốc hợp nhất cáp quang - không dây, lập kỷ lục 512 Gbps, mở đường 6G",
+      "link": "https://tuoitre.vn/trung-quoc-hop-nhat-cap-quang-khong-day-lap-ky-luc-512-gbps-mo-duong-6g-20260221083535485.htm",
+      "summary": "Hệ thống cáp quang - không dây tích hợp đạt 512 Gbps, mô phỏng 6G phát 86 kênh 8K thời gian thực, gấp hơn 10 lần 5G hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308778+07:00",
+      "fetched": "2026-02-21T11:04:53.308972+07:00"
+    },
+    {
+      "id": "cf77b45957e7f69ee691c271c91a9039",
+      "title": "Alcaraz tiết lộ bí quyết vượt khó sau trận bán kết tại Giải Qatar mở rộng",
+      "link": "https://tuoitre.vn/alcaraz-tiet-lo-bi-quyet-vuot-kho-sau-tran-ban-ket-tai-giai-qatar-mo-rong-20260221083459469.htm",
+      "summary": "Vượt qua những thời khắc khó khăn tại Doha (rạng sáng 21-2), Carlos Alcaraz đã chính thức biến Andrey Rublev thành cựu vương để tiến vào trận tranh ngôi vô địch Giải Qatar mở rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308551+07:00",
+      "fetched": "2026-02-21T11:04:53.308758+07:00"
+    },
+    {
+      "id": "6e6d95e447cdb4ae817a0c7b8f79bc81",
+      "title": "Chi tiết nơi ứng cử đại biểu Quốc hội khóa XVI của phó thủ tướng, các bộ trưởng, thứ trưởng",
+      "link": "https://tuoitre.vn/chi-tiet-noi-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-cua-pho-thu-tuong-cac-bo-truong-thu-truong-20260221085308061.htm",
+      "summary": "Dưới đây là chi tiết nơi ứng cử đại biểu Quốc hội khóa XVI của Phó Thủ tướng Phạm Thị Thanh Trà, các bộ trưởng, trưởng ngành, quyền bộ trưởng, thứ trưởng các bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308409+07:00",
+      "fetched": "2026-02-21T11:04:53.308528+07:00"
+    },
+    {
+      "id": "9b1dc00b457679fc5302a65186d4497d",
+      "title": "Vận động viên trượt băng người Ba Lan bị giày của đối thủ cứa vào mắt",
+      "link": "https://tuoitre.vn/van-dong-vien-truot-bang-nguoi-ba-lan-bi-giay-cua-doi-thu-cua-vao-mat-20260221085256531.htm",
+      "summary": "Trong cuộc thi trượt băng tốc độ tại Olympic mùa đông 2026, vận động viên trượt băng người Ba Lan - Kamila Sellier (25 tuổi) buộc phải rời sân bằng cáng sau khi bị giày trượt của đối thủ cứa vào mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308269+07:00",
+      "fetched": "2026-02-21T11:04:53.308390+07:00"
+    },
+    {
+      "id": "0ff6acda5645cb727c4a2015a980f055",
+      "title": "Bắt giữ người dùng súng cướp ô tô trong đêm",
+      "link": "https://tuoitre.vn/bat-giu-nguoi-dung-sung-cuop-o-to-trong-dem-20260221090644387.htm",
+      "summary": "Công an tỉnh Bắc Ninh đã huy động lực lượng, bắt được nghi phạm dùng súng cướp ô tô trong đêm tại địa bàn xã Nhã Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.308129+07:00",
+      "fetched": "2026-02-21T11:04:53.308257+07:00"
+    },
+    {
+      "id": "7406019f41e7bf72d91d096eed62a500",
+      "title": "Tết ở Houston, nhớ đường Trần Phú, chợ Xóm Mới...",
+      "link": "https://tuoitre.vn/tet-o-houston-nho-duong-tran-phu-cho-xom-moi-20260220200945052.htm",
+      "summary": "Lịch làm việc học kỳ mùa xuân ở Mỹ vốn dày đặc, nhưng năm nay tôi bất ngờ có một khoảng lặng đúng vào dịp Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T11:04:53.307916+07:00",
+      "fetched": "2026-02-21T11:04:53.308113+07:00"
+    },
     {
       "id": "6a688f6b99946c4073ed38be0de0ac6c",
       "title": "Tổng Bí thư Tô Lâm gặp Tổng thống Mỹ Trump tại Nhà Trắng",
@@ -21,6 +171,376 @@ window.newsData_2026_02_21 = {
       "category": "Tổng hợp",
       "published": "2026-02-21T08:48:16.578378+07:00",
       "fetched": "2026-02-21T08:48:16.578589+07:00"
+    },
+    {
+      "id": "304fdfa9bd75472efb69690285b4b6b8",
+      "title": "Tin vui đầu năm cho ngành hàng tỉ USD tại thị trường Mỹ",
+      "link": "https://thanhnien.vn/tin-vui-dau-nam-cho-nganh-hang-ti-usd-tai-thi-truong-my-185260221105255497.htm",
+      "summary": "Tôm - ngành hàng xuất khẩu tỉ USD của Việt Nam đón tin vui đúng mùng 1 Tết Bính Ngọ (ngày 17.2) khi Bộ Thương mại Mỹ (DOC) công bố kết quả cuối cùng giảm thuế chống bán phá giá tôm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T04:02:00+07:00",
+      "fetched": "2026-02-21T11:04:52.279410+07:00"
+    },
+    {
+      "id": "481a26d588af96590d296accb18dfe2f",
+      "title": "Tôi làm báo",
+      "link": "https://thanhnien.vn/toi-lam-bao-185260130191637882.htm",
+      "summary": "Nếu tính từ tháng đầu tiên tôi làm báo, tháng 1.1970, thì tới nay tôi ở trong nghề báo đúng 56 năm. Cũng là một nửa đời người rồi còn gì!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T04:00:00+07:00",
+      "fetched": "2026-02-21T11:04:52.279579+07:00"
+    },
+    {
+      "id": "e17171218599d448aff2767232d8823f",
+      "title": "Tổng thống Trump nhắn gửi Ronaldo: ‘Cậu là GOAT, nước Mỹ đang rất cần cậu'",
+      "link": "https://thanhnien.vn/tong-thong-trump-nhan-gui-ronaldo-cau-la-goat-nuoc-my-dang-rat-can-cau-185260221102858893.htm",
+      "summary": "Tổng thống Trump tiếp tục thể hiện sự hâm mộ Cristiano Ronaldo khi gửi thông điệp công khai trên TikTok, trong bối cảnh Mỹ chuẩn bị đăng cai World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:51:00+07:00",
+      "fetched": "2026-02-21T11:04:52.279736+07:00"
+    },
+    {
+      "id": "fc0a4d1e0c1dc6d57edbbc2e212387cc",
+      "title": "Xuất khẩu rau quả đạt 'kỷ lục kép', kỳ vọng lập đỉnh 10 tỉ USD",
+      "link": "https://thanhnien.vn/xuat-khau-rau-qua-dat-ky-luc-kep-ky-vong-lap-dinh-10-ti-usd-185260221065115154.htm",
+      "summary": "Xuất khẩu rau quả năm 2025 đạt 'kỷ lục kép', kim ngạch toàn ngành đạt 8,56 tỉ USD và xuất khẩu sản phẩm chế biến lần đầu tiên đạt trên 2 tỉ USD. Dự báo xuất khẩu rau quả năm nay sẽ lập đỉnh mới với 10 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:51:00+07:00",
+      "fetched": "2026-02-21T11:04:52.279889+07:00"
+    },
+    {
+      "id": "aaad482bb64e95b6c81cb3e0e89b618a",
+      "title": "Những sản phẩm Apple được chờ đợi nhất có thể ra mắt ngày 4.3",
+      "link": "https://thanhnien.vn/nhung-san-pham-apple-duoc-cho-doi-nhat-co-the-ra-mat-ngay-43-185260220115917215.htm",
+      "summary": "Apple đã thông báo sẽ tổ chức một sự kiện trải nghiệm vào ngày 4.3 tại thành phố New York (Mỹ) với nhiều sản phẩm hứa hẹn được ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:49:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280060+07:00"
+    },
+    {
+      "id": "47e73ac1cec6e8414d2e14a2da21a5f8",
+      "title": "Giá bạc tăng mạnh lên hơn 86 triệu đồng/kg",
+      "link": "https://thanhnien.vn/gia-bac-tang-manh-len-hon-86-trieu-dong-kg-185260221075922737.htm",
+      "summary": "Sáng nay 21.2, giá bạc tăng mạnh so với chốt ngày 20.2, mua vào 83,840 triệu đồng/kg và bán ra 86,427 triệu đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:35:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280212+07:00"
+    },
+    {
+      "id": "7bba27b98e55312f1f263d00631e3d98",
+      "title": "Gen Z sợ đi chúc Tết",
+      "link": "https://vnexpress.net/gen-z-so-di-chuc-tet-5042606.html",
+      "summary": "Một bạn trẻ than rằng có lẽ thế hệ bố mẹ là những người cuối cùng còn giữ thói quen đi thăm hỏi họ hàng mỗi dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:17:49+07:00",
+      "fetched": "2026-02-21T11:04:48.537416+07:00"
+    },
+    {
+      "id": "730fc3511db50218c5d63c80962790b0",
+      "title": "FAT nợ đầm đìa khiến Madam Pang khổ sở, các CLB Thái Lan vẫn kiếm tiền tỉ từ AFC",
+      "link": "https://thanhnien.vn/fat-no-dam-dia-khien-madam-pang-kho-so-cac-clb-thai-lan-van-kiem-tien-ti-tu-afc-185260221100306563.htm",
+      "summary": "Các CLB Thái Lan thi đấu thành công tại các cúp châu Á gồm AFC Champions League Elite và Two đã kiếm được số tiền 'khủng' từ 690.000 USD (khoảng 17,9 tỉ đồng) đến 1,4 triệu USD (36,3 tỉ đồng), trái ngược hình ảnh đội tuyển và FAT nợ nần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:15:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280371+07:00"
+    },
+    {
+      "id": "2b856947dfd615d59c93be0837e4c4ee",
+      "title": "Điều tra vụ người đàn ông tử vong tại quán cà phê trên đường Hoàng Hoa Thám",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nguoi-dan-ong-tu-vong-tai-quan-ca-phe-tren-duong-hoang-hoa-tham-18526022109462838.htm",
+      "summary": "Vụ người đàn ông tử vong tại quán cà phê trên đường Hoàng Hoa Thám (TP.HCM) đang thu hút sự chú ý. Công an đã phong tỏa hiện trường và điều tra nguyên nhân vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:15:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280524+07:00"
+    },
+    {
+      "id": "d8f0e48a96f0a677dba033f9ada07ecf",
+      "title": "Đốt xe máy khi bị kiểm tra nồng độ cồn",
+      "link": "https://vnexpress.net/dot-xe-may-khi-bi-kiem-tra-nong-do-con-5042610.html",
+      "summary": "Nguyễn Văn Thắng, 34 tuổi, đốt xe máy và chửi bới cảnh sát ở phường Cam Linh khi bị yêu cầu dừng xe để kiểm tra giấy tờ và đo nồng độ cồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:11:56+07:00",
+      "fetched": "2026-02-21T11:04:48.537594+07:00"
+    },
+    {
+      "id": "109ed8efaaecf47282f231236c41cd46",
+      "title": "Cảnh sát theo dấu bắt tên cướp giật điện thoại của thiếu nữ dịp Tết",
+      "link": "https://vnexpress.net/canh-sat-theo-dau-bat-ten-cuop-giat-dien-thoai-cua-thieu-nu-dip-tet-5042608.html",
+      "summary": "Phát hiện thiếu nữ bấm điện thoại ngoài quán nước, Nguyễn Thành Tài, 33 tuổi, áp sát để giật rồi bỏ chạy nhưng bị cảnh sát lần theo dấu, bắt giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:11:38+07:00",
+      "fetched": "2026-02-21T11:04:48.537764+07:00"
+    },
+    {
+      "id": "f8c5ed6885e8cbf60f1bebab3188db44",
+      "title": "Bị kết tội ngộ sát vì bỏ mặc bạn gái chết cóng khi leo núi",
+      "link": "https://vnexpress.net/bi-ket-toi-ngo-sat-vi-bo-mac-ban-gai-chet-cong-khi-leo-nui-5042614.html",
+      "summary": "Thomas Plamberger, 37 tuổi, bị kết tội ngộ sát do sơ suất nghiêm trọng sau khi bỏ lại bạn gái đang kiệt sức ở trên đỉnh núi để đi 'tìm người giúp đỡ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:11:17+07:00",
+      "fetched": "2026-02-21T11:04:48.537926+07:00"
+    },
+    {
+      "id": "9db64b02496eb33e4f462df2eb9d4f94",
+      "title": "Sách của nhà sư Thích Pháp Hòa (kỳ một): dạy con sống",
+      "link": "https://vnexpress.net/sach-cua-nha-su-thich-phap-hoa-ky-mot-day-con-song-5041715.html",
+      "summary": "Trong sách \"Lá hoa trên đường về\", nhà sư Thích Pháp Hòa cho rằng cha mẹ muốn dạy con cái trước tiên phải làm gương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:10:40+07:00",
+      "fetched": "2026-02-21T11:04:48.538110+07:00"
+    },
+    {
+      "id": "74fc74dfbf37b2cf2d06f5880a3c44cc",
+      "title": "Guardiola và gợi mở chiến thuật từ bài báo 20 năm trước",
+      "link": "https://vnexpress.net/guardiola-va-goi-mo-chien-thuat-tu-bai-bao-20-nam-truoc-5042569.html",
+      "summary": "Những phân tích về tuyển Tây Ban Nha của chính Pep Guardiola năm 2006 trở thành những gợi mở cho chiến thuật mới mà ông đang triển khai ở Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.538267+07:00"
+    },
+    {
+      "id": "30663b6f47a241efdc9034f93520571c",
+      "title": "Con gì có hai đầu chín đuôi?",
+      "link": "https://vnexpress.net/con-gi-co-hai-dau-chin-duoi-5042514.html",
+      "summary": "Nghe qua tưởng nói về một sinh vật kỳ lạ nào đó trong truyền thuyết, nhưng đáp án lại đơn giản đến bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.538421+07:00"
+    },
+    {
+      "id": "f60b9fa6a67a5813247f51141fc0c69f",
+      "title": "Vì sao da dễ dị ứng, nổi mề đay dịp Tết?",
+      "link": "https://vnexpress.net/vi-sao-da-de-di-ung-noi-me-day-dip-tet-5041654.html",
+      "summary": "Ăn uống thất thường, uống nhiều rượu bia, thức khuya có thể làm mất cân bằng cơ chế điều hòa miễn dịch và phản ứng viêm, khiến dị ứng, mề đay bùng phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.538579+07:00"
+    },
+    {
+      "id": "c21ef122781bcb31fbda6af65576326a",
+      "title": "Nguyên tắc dinh dưỡng cho người bệnh đái tháo đường",
+      "link": "https://vnexpress.net/nguyen-tac-dinh-duong-cho-nguoi-benh-dai-thao-duong-5041346.html",
+      "summary": "Người bệnh đái tháo đường chỉ nên ăn khoảng 1/8 cái bánh chưng hoặc bánh tét, hạn chế kẹo mứt để kiểm soát hàm lượng bột đường, chất béo trong dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.538737+07:00"
+    },
+    {
+      "id": "3f8f299e9b0bf7634e786ecc631ae794",
+      "title": "Làm gì giảm ngủ ngáy sau khi uống rượu bia?",
+      "link": "https://vnexpress.net/lam-gi-giam-ngu-ngay-sau-khi-uong-ruou-bia-5041320.html",
+      "summary": "Chồng tôi thường ngáy to sau khi uống rượu bia, có cách nào ngăn tình trạng này không? (Dung Trần, 45 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.538892+07:00"
+    },
+    {
+      "id": "480c40b8414f7a5deccfce52099fd229",
+      "title": "Thức đêm hại mắt thế nào",
+      "link": "https://vnexpress.net/thuc-dem-hai-mat-the-nao-5041249.html",
+      "summary": "Thức đêm gây thiếu ngủ kéo dài, làm gián đoạn quá trình tự phục hồi của mắt, dễ khô mắt, giảm thị lực và tăng nguy cơ rối loạn bề mặt nhãn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:48.539068+07:00"
+    },
+    {
+      "id": "087f2b6f6c6807c4e80beb16964adc80",
+      "title": "Linh vật ngựa Kim Mã 4.0 ở Đà Nẵng 'gây sốt', thợ ảnh cầu Rồng thu tiền triệu mỗi ngày",
+      "link": "https://thanhnien.vn/linh-vat-ngua-kim-ma-40-o-da-nang-gay-sot-tho-anh-cau-rong-thu-tien-trieu-moi-ngay-185260221092128007.htm",
+      "summary": "Linh vật ngựa Kim Mã 4.0 bên bờ tây cầu Rồng (Đà Nẵng) hút đông du khách check-in dịp Tết Bính Ngọ 2026, giúp thợ ảnh thu tiền triệu mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280674+07:00"
+    },
+    {
+      "id": "74fc74dfbf37b2cf2d06f5880a3c44cc",
+      "title": "Guardiola và gợi mở chiến thuật từ bài báo 20 năm trước",
+      "link": "https://vnexpress.net/guardiola-va-goi-mo-chien-thuat-tu-bai-bao-20-nam-truoc-5042569.html",
+      "summary": "Những phân tích về tuyển Tây Ban Nha của chính Pep Guardiola năm 2006 trở thành những gợi mở cho chiến thuật mới mà ông đang triển khai ở Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T03:00:00+07:00",
+      "fetched": "2026-02-21T11:05:00.867395+07:00"
+    },
+    {
+      "id": "7c985e936f5fda564e14dbe7d888181b",
+      "title": "Tiền vệ Benfica khai miệt thị đồng tính với Vinicius chứ không phân biệt chủng tộc: UEFA vẫn sẽ phạt nặng",
+      "link": "https://thanhnien.vn/tien-ve-benfica-khai-miet-thi-dong-tinh-voi-vinicius-chu-khong-phan-biet-chung-toc-uefa-van-se-phat-nang-185260221095516348.htm",
+      "summary": "Gianluca Prestianni khai với UEFA rằng anh đã dùng lời lẽ mang tính kỳ thị đồng tính với Vinicius Junior, không phải từ ngữ phân biệt chủng tộc như cáo buộc ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:58:00+07:00",
+      "fetched": "2026-02-21T11:04:52.280833+07:00"
+    },
+    {
+      "id": "cfc34795a5d3973f77c3102ca667ab97",
+      "title": "CLB VTV Bình Điền Long An hội quân sớm, quyết tâm giành vé dự giải châu Á",
+      "link": "https://thanhnien.vn/clb-vtv-binh-dien-long-an-hoi-quan-som-quyet-tam-gianh-ve-du-giai-chau-a-185260221094603735.htm",
+      "summary": "Với quyết tâm vượt qua CLB Supreme Chonburi (Thái Lan) để giành vé tham dự giải bóng chuyền các CLB nữ châu Á (AVC Champions League) 2026, CLB VTV Bình Điền Long An hội quân từ mồng 3 tết (19.2).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:58:00+07:00",
+      "fetched": "2026-02-21T11:04:52.281008+07:00"
+    },
+    {
+      "id": "a6deeb539e2fbdc509b995595cd5b910",
+      "title": "Chế độ ăn nghiêm ngặt của tuyển thủ eSports thế nào?",
+      "link": "https://vnexpress.net/che-do-an-nghiem-ngat-cua-tuyen-thu-esports-the-nao-5042605.html",
+      "summary": "Các tuyển thủ luyện tập hàng giờ trong không gian kín dưới áp lực cao, dễ mỏi mắt, stress, burnout, nếu không bù năng lượng cho não đúng cách thì phong độ sẽ nhanh tụt dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:52:04+07:00",
+      "fetched": "2026-02-21T11:04:48.539229+07:00"
+    },
+    {
+      "id": "968415eb8dc53937f92da1c62751631e",
+      "title": "Vì sao Samsung chậm nâng cấp phần cứng cho điện thoại Galaxy?",
+      "link": "https://thanhnien.vn/vi-sao-samsung-cham-nang-cap-phan-cung-cho-dien-thoai-galaxy-185260209131258704.htm",
+      "summary": "5 lý do khiến flagship Samsung ngày càng tụt hậu phần cứng so với đối thủ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:49:00+07:00",
+      "fetched": "2026-02-21T11:04:52.281166+07:00"
+    },
+    {
+      "id": "8125019323d02b77042e58110efb425c",
+      "title": "Quân đội Mỹ bắn nổ 'xuồng ma túy' ở Thái Bình Dương",
+      "link": "https://vnexpress.net/quan-doi-my-ban-no-xuong-ma-tuy-o-thai-binh-duong-5042596.html",
+      "summary": "Quân đội Mỹ đăng video cho thấy xuồng nghi chở ma túy bị bắn nổ tung ở phía đông Thái Bình Dương, khiến ba người trên phương tiện thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:38:37+07:00",
+      "fetched": "2026-02-21T11:04:48.539391+07:00"
+    },
+    {
+      "id": "8125019323d02b77042e58110efb425c",
+      "title": "Quân đội Mỹ bắn nổ 'xuồng ma túy' ở Thái Bình Dương",
+      "link": "https://vnexpress.net/quan-doi-my-ban-no-xuong-ma-tuy-o-thai-binh-duong-5042596.html",
+      "summary": "Quân đội Mỹ đăng video cho thấy xuồng nghi chở ma túy bị bắn nổ tung ở phía đông Thái Bình Dương, khiến ba người trên phương tiện thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T02:38:37+07:00",
+      "fetched": "2026-02-21T11:04:54.998176+07:00"
+    },
+    {
+      "id": "ede635748d0be3415594c9bf2034ed53",
+      "title": "Đường hoa Nguyễn Huệ bế mạc tối mai mùng 6: Giữ đại cảnh ngựa thêm 1 tháng",
+      "link": "https://thanhnien.vn/dai-canh-ngua-o-duong-hoa-nguyen-hue-duoc-giu-lai-them-1-thang-185260221090126531.htm",
+      "summary": "Sau khi đường hoa Nguyễn Huệ kết thúc hoạt động vào tối mùng 6 tết, khu vực đại cảnh có linh vật ngựa ở cổng đầu và cuối sẽ được giữ lại đến ngày 22.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:37:00+07:00",
+      "fetched": "2026-02-21T11:04:52.281314+07:00"
+    },
+    {
+      "id": "7df294a3c48f7815a9c512ceaabc1cf1",
+      "title": "Alcaraz vào chung kết Qatar Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-vao-chung-ket-qatar-mo-rong-5042607.html",
+      "summary": "Hạt giống số 1 Carlos Alcaraz tận dụng match-point thứ sáu, để thắng nhà vô địch 2025 Andrey Rublev 7-6(3), 6-4 ở bán kết giải ATP 500 tại Doha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:35:12+07:00",
+      "fetched": "2026-02-21T11:04:48.539544+07:00"
+    },
+    {
+      "id": "7df294a3c48f7815a9c512ceaabc1cf1",
+      "title": "Alcaraz vào chung kết Qatar Mở rộng",
+      "link": "https://vnexpress.net/alcaraz-vao-chung-ket-qatar-mo-rong-5042607.html",
+      "summary": "Hạt giống số 1 Carlos Alcaraz tận dụng match-point thứ sáu, để thắng nhà vô địch 2025 Andrey Rublev 7-6(3), 6-4 ở bán kết giải ATP 500 tại Doha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T02:35:12+07:00",
+      "fetched": "2026-02-21T11:05:00.867567+07:00"
+    },
+    {
+      "id": "e7b5395a66c7c795e65a7fb9c7582f44",
+      "title": "Trường công đầu tiên ở Canada đóng cửa vì siết thị thực du học",
+      "link": "https://vnexpress.net/truong-cong-dau-tien-o-canada-dong-cua-vi-siet-thi-thuc-du-hoc-5042397.html",
+      "summary": "Dự kiến giảm hơn 55% lượng du học sinh, Viện Công nghệ và Thương mại Manitoba (MITT) phải đóng cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:31:59+07:00",
+      "fetched": "2026-02-21T11:04:48.539696+07:00"
+    },
+    {
+      "id": "a9ac0709948f9bb25d62710ccb44e453",
+      "title": "Tổng thống Ukraine nói phản công giành lại hàng trăm km vuông",
+      "link": "https://thanhnien.vn/tong-thong-ukraine-noi-phan-cong-gianh-lai-hang-tram-km-vuong-1852602210809413.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky khẳng định Ukraine không thua trong cuộc chiến chống lại Nga, và đã giành được hàng trăm km2 trong một cuộc phản công mới, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:30:00+07:00",
+      "fetched": "2026-02-21T11:04:52.281461+07:00"
+    },
+    {
+      "id": "eea71cfcf83ce84b38bd5980470455bd",
+      "title": "Thống đốc Mỹ đòi chính quyền ông Trump hoàn 9 tỷ USD tiền thuế",
+      "link": "https://vnexpress.net/thong-doc-my-doi-chinh-quyen-ong-trump-hoan-9-ty-usd-tien-thue-5042589.html",
+      "summary": "Thống đốc bang Illinois yêu cầu chính quyền Tổng thống Trump hoàn tiền thuế cho người dân Mỹ sau phán quyết mới của Tòa án Tối cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T02:22:33+07:00",
+      "fetched": "2026-02-21T11:04:54.998347+07:00"
+    },
+    {
+      "id": "b38bb675d3b02cd4a6066ff65ae7398f",
+      "title": "Giá xăng dầu hôm nay 21.2.2026: Tăng hơn 5% sau một tuần",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2122026-tang-hon-5-sau-mot-tuan-185260221085250781.htm",
+      "summary": "Thị trường dầu thô đã trải qua một tuần đầy biến động khiến giá cả tuần tăng mạnh. Trong khi đó, giá bán lẻ xăng dầu trong nước cũng vừa được điều chỉnh theo hướng xăng giảm, dầu tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T02:21:00+07:00",
+      "fetched": "2026-02-21T11:04:52.281609+07:00"
+    },
+    {
+      "id": "d79fa339e3961e6cb4d6f284504fdf1b",
+      "title": "Seedance 2.0 và kỷ nguyên 'đoàn làm phim một người'",
+      "link": "https://vnexpress.net/seedance-2-0-va-ky-nguyen-doan-lam-phim-mot-nguoi-5042336.html",
+      "summary": "Với khả năng tạo video chân thực, Seedance 2.0 mở ra khả năng tạo phim chất lượng cao siêu nhanh với nguồn nhân lực ít ỏi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-21T02:03:37+07:00",
+      "fetched": "2026-02-21T11:04:59.959555+07:00"
+    },
+    {
+      "id": "9168c7734a742264fed8210f19a50276",
+      "title": "Các sản phẩm vàng 'rước lộc' của PNJ",
+      "link": "https://vnexpress.net/cac-san-pham-vang-ruoc-loc-cua-pnj-5041048.html",
+      "summary": "PNJ \"phủ sóng\" hình tượng linh vật ngựa trong các thiết kế vàng, đại diện cho tinh thần chuyển mình, tiến bước và hành động chủ động \"rước lộc\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-21T02:00:00+07:00",
+      "fetched": "2026-02-21T11:04:56.826244+07:00"
+    },
+    {
+      "id": "d40f874f6e7a260cc9c73395289b5b21",
+      "title": "Arteta bác bỏ định kiến 'chuyên gia hụt bước cuối'",
+      "link": "https://vnexpress.net/arteta-bac-bo-dinh-kien-chuyen-gia-hut-buoc-cuoi-5042592.html",
+      "summary": "HLV Mikel Arteta khẳng định từ \"chuyên gia hụt bước cuối\" không nằm trong từ điển của ông, sau khi Arsenal hòa Wolves và đối mặt hoài nghi về bản lĩnh ở giai đoạn quyết định của Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T01:51:06+07:00",
+      "fetched": "2026-02-21T11:05:00.868698+07:00"
     },
     {
       "id": "f88f7dd20f811ea06b2d544ae6bad106",
@@ -651,6 +1171,16 @@ window.newsData_2026_02_21 = {
       "category": "Kinh doanh",
       "published": "2026-02-20T18:57:58+07:00",
       "fetched": "2026-02-21T03:27:34.880954+07:00"
+    },
+    {
+      "id": "2a571dbae4332d5263bd4f0f84c44ab8",
+      "title": "Ông Trump: Áp thêm 10% thuế nhập khẩu sau phán quyết của Tòa Tối cao",
+      "link": "https://vnexpress.net/ong-trump-ap-them-10-thue-nhap-khau-sau-phan-quyet-cua-toa-toi-cao-5042573.html",
+      "summary": "Tổng thống Donald Trump cho biết đưa ra phương án thuế quan thay thế, trong đó áp thêm 10% vào mức đang áp dụng, sau phán quyết của Tòa án Tối cao Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-20T18:57:58+07:00",
+      "fetched": "2026-02-21T11:04:56.825594+07:00"
     },
     {
       "id": "e16ab0a40db9653b149f8d56ac7d6186",
