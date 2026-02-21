@@ -1,7 +1,37 @@
 window.newsData_2026_02_21 = {
   "date": "2026-02-21",
-  "lastUpdated": "2026-02-21T05:22:38.334553+07:00",
+  "lastUpdated": "2026-02-21T08:48:23.732361+07:00",
   "articles": [
+    {
+      "id": "6a688f6b99946c4073ed38be0de0ac6c",
+      "title": "Tổng Bí thư Tô Lâm gặp Tổng thống Mỹ Trump tại Nhà Trắng",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-gap-tong-thong-my-trump-tai-nha-trang-20260221061740358.htm",
+      "summary": "Theo Bộ Ngoại giao Việt Nam, cuộc gặp diễn ra trong không khí \"cởi mở, thân tình\". Tổng Bí thư Tô Lâm và Tổng thống Mỹ Trump đã trao đổi nhiều nội dung hợp tác song phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:48:16.578604+07:00",
+      "fetched": "2026-02-21T08:48:16.578732+07:00"
+    },
+    {
+      "id": "668723e78d437867113bbe1eb3caa3a8",
+      "title": "Kết quả chuyến đi Mỹ của Tổng Bí thư Tô Lâm",
+      "link": "https://tuoitre.vn/ket-qua-chuyen-di-my-cua-tong-bi-thu-to-lam-20260221064900646.htm",
+      "summary": "Chuyến đi Mỹ của Tổng Bí thư Tô Lâm là hoạt động đối ngoại rất quan trọng, thể hiện sự đóng góp tích cực và trách nhiệm của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T08:48:16.578378+07:00",
+      "fetched": "2026-02-21T08:48:16.578589+07:00"
+    },
+    {
+      "id": "f88f7dd20f811ea06b2d544ae6bad106",
+      "title": "Xử phạt tài xế vi phạm nồng độ cồn khi đang chở 41 hành khách vào TP.HCM",
+      "link": "https://thanhnien.vn/xu-phat-tai-xe-vi-pham-nong-do-con-khi-dang-cho-41-hanh-khach-vao-tphcm-185260221081015715.htm",
+      "summary": "Lực lượng Cảnh sát giao thông Quảng Trị vừa xử phạt một tài xế điều khiển xe ô tô khách 42 chỗ không có giấy phép lái xe và vi phạm nồng độ cồn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:45:00+07:00",
+      "fetched": "2026-02-21T08:48:15.467667+07:00"
+    },
     {
       "id": "5c533ce89e652321991ff6cb6a9336ff",
       "title": "Mùng 4 Tết, Đà Lạt đông đúc, khách sạn treo bảng 'hết phòng' khắp trung tâm",
@@ -151,6 +181,406 @@ window.newsData_2026_02_21 = {
       "category": "Tổng hợp",
       "published": "2026-02-21T01:42:05.024969+07:00",
       "fetched": "2026-02-21T01:42:05.025226+07:00"
+    },
+    {
+      "id": "eecd64fed92d144f5d7c54ad5da2ba41",
+      "title": "Anh từ chối cho Mỹ dùng căn cứ không kích Iran",
+      "link": "https://thanhnien.vn/anh-tu-choi-cho-my-dung-can-cu-khong-kich-iran-185260221074929143.htm",
+      "summary": "Thủ tướng Anh Keir Starmer được cho là đã bác đề nghị của Tổng thống Mỹ Donald Trump về việc cho phép lực lượng Mỹ sử dụng các căn cứ không quân của Anh trong trường hợp tiến hành tấn công phủ đầu Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:39:00+07:00",
+      "fetched": "2026-02-21T08:48:15.467834+07:00"
+    },
+    {
+      "id": "5db530456d26ca2de0359c7fe316b769",
+      "title": "No mắt, sướng tai với nghệ thuật múa lân ngày tết của người Hoa khu Chợ Lớn",
+      "link": "https://thanhnien.vn/no-mat-suong-tai-voi-nghe-thuat-mua-lan-ngay-tet-cua-nguoi-hoa-khu-cho-lon-185260220232013049.htm",
+      "summary": "Người Hoa ở Chợ Lớn quan niệm tiếng trống lân vang lên ở đâu thì điềm lành đến đó. Vậy nên, trong những ngày đầu năm mới, ở khu Chợ Lớn, tiếng trống lân gần như không dứt trên khắp các khu phố, đặc biệt là tại các ngôi chùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:35:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468013+07:00"
+    },
+    {
+      "id": "26ead46fa5bed4bf6a0af359aac33609",
+      "title": "Cây cầu ở Việt Nam vào top 5 đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/cay-cau-o-viet-nam-vao-top-5-dep-nhat-the-gioi-185260220200805547.htm",
+      "summary": "Vượt qua những cây có kiến trúc không lẫn vào đâu được và tồn tại hàng thế kỷ ở châu Âu hay Mỹ, Úc, cây cầu mới xây dựng ở Việt Nam được tạp chí du lịch Anh Time Out xếp hạng 4 trong danh sách 19 cây cầu đẹp nhất thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:30:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468165+07:00"
+    },
+    {
+      "id": "d855f6d64bc9696799389ef5020b6d84",
+      "title": "Khách Việt lưu ý: Thái Lan tăng mạnh phí hành khách quốc tế ở sân bay",
+      "link": "https://thanhnien.vn/khach-viet-luu-y-thai-lan-tang-manh-phi-hanh-khach-quoc-te-o-san-bay-185260221075244522.htm",
+      "summary": "Thái Lan quyết định tăng 53% phí hành khách quốc tế khi xuất cảnh ở các sân bay lớn trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:28:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468314+07:00"
+    },
+    {
+      "id": "a0f221bcc8a2900c234d31751a7334c5",
+      "title": "Mùng 5 tết, giá vàng tăng sốc hơn 2 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/mung-5-tet-gia-vang-tang-soc-hon-2-trieu-dong-mot-luong-185260221080642369.htm",
+      "summary": "Giá vàng bật tăng cao trở lại trên thị trường thế giới và đẩy thị trường trong nước lên cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:27:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468459+07:00"
+    },
+    {
+      "id": "b530f9908400876b8ea8c9b0bf0dfeed",
+      "title": "Ông Trump chỉ trích thẩm phán Tòa Tối cao 'bất trung' với Hiến pháp",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-tham-phan-toa-toi-cao-bat-trung-voi-hien-phap-5042579.html",
+      "summary": "Tổng thống Trump cho rằng một số thẩm phán Tòa Tối cao \"không yêu nước\" và \"bất trung\" với Hiến pháp khi ra phán quyết bác bỏ thuế đối ứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T01:24:41+07:00",
+      "fetched": "2026-02-21T08:48:18.440267+07:00"
+    },
+    {
+      "id": "0bbcc4e7c8f25ca199b022ed58c091ec",
+      "title": "Giá Bitcoin hôm nay 21.2.2026: BTC 'phớt lờ' thuế toàn cầu 10% của ông Donald Trump",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2122026-btc-phot-lo-thue-toan-cau-10-cua-ong-donald-trump-185260221054741736.htm",
+      "summary": "Giá Bitcoin hôm nay hồi phục nhẹ, bất chấp tuyên bố của Tổng thống Mỹ Donald Trump về tuyên bố áp thêm 10% thuế nhập khẩu sau phán quyết của Tòa án Tối cao Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:20:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468605+07:00"
+    },
+    {
+      "id": "455fb6c337d1c42db72aecee1adc1f09",
+      "title": "Thung lũng Quy Hòa - Nơi tình thương nở hoa và tri thức cất cánh",
+      "link": "https://thanhnien.vn/thung-lung-quy-hoa-noi-tinh-thuong-no-hoa-va-tri-thuc-cat-canh-18526013117144468.htm",
+      "summary": "Nếu có một nơi mà thời gian như chậm lại để lòng người kịp lắng giữa nhịp sống hối hả, thì đó chính là thung lũng Quy Hòa (P.Quy Nhơn Nam, Gia Lai; trước đây thuộc TP.Quy Nhơn, Bình Định).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:09:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468760+07:00"
+    },
+    {
+      "id": "e60d5d3f39fe79f231e46cc1a9ac7843",
+      "title": "Xúc động khoảnh khắc NSND Xuân Bắc đến thăm NSND Công Lý ngày đầu năm",
+      "link": "https://thanhnien.vn/xuc-dong-khoanh-khac-nsnd-xuan-bac-den-tham-nsnd-cong-ly-ngay-dau-nam-185260220204953282.htm",
+      "summary": "Trên trang cá nhân, Ngọc Hà - vợ NSND Công Lý gây chú ý khi chia sẻ lại khoảnh khắc NSND Xuân Bắc đến thăm và chúc tết gia đình cô. Đáng chú ý, chuyến đi này còn có con trai của nam diễn viên 'Sóng ở đáy sông'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:04:00+07:00",
+      "fetched": "2026-02-21T08:48:15.468934+07:00"
+    },
+    {
+      "id": "bb6bd1ce2be117c584bd8b3815176087",
+      "title": "Đổi mới 2.0: 'Đường băng' thể chế cho kỷ nguyên vươn mình",
+      "link": "https://thanhnien.vn/doi-moi-20-duong-bang-the-che-cho-ky-nguyen-vuon-minh-18526020111101994.htm",
+      "summary": "Năm 2025 đã đi qua với những sự kiện mang tính cách mạng: tinh gọn bộ máy, sắp xếp lại giang sơn cùng loạt nghị quyết đột phá trong nhiều lĩnh vực then chốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:03:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469083+07:00"
+    },
+    {
+      "id": "e0de50000086e5e201d044c4fa10eb13",
+      "title": "Cổng Ethernet trên Smart TV không hoạt động như mọi người nghĩ",
+      "link": "https://thanhnien.vn/cong-ethernet-tren-smart-tv-khong-hoat-dong-nhu-moi-nguoi-nghi-185260221073819127.htm",
+      "summary": "Nhiều người vẫn tin rằng cắm dây mạng trực tiếp vào Smart TV sẽ cho tốc độ internet nhanh và ổn định hơn so với Wi-Fi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:00:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469239+07:00"
+    },
+    {
+      "id": "574bfaaafeffeb145a0ce0f40ddf45ac",
+      "title": "Phi Thanh Vân nói lý do chưa tổ chức đám cưới với bạn trai doanh nhân",
+      "link": "https://thanhnien.vn/phi-thanh-van-noi-ly-do-chua-to-chuc-dam-cuoi-voi-ban-trai-doanh-nhan-185260220224121981.htm",
+      "summary": "Dịp đầu năm mới, Phi Thanh Vân có những trải lòng với Thanh Niên về cuộc sống hiện tại, đồng thời nêu quan điểm về chuyện hôn nhân sau đổ vỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:00:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469383+07:00"
+    },
+    {
+      "id": "9c0c84bcf2d95ee710244d66cf29dfaf",
+      "title": "Những bộ suit đương đại: Tối giản, hiện đại và đầy khí chất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-suit-duong-dai-toi-gian-hien-dai-va-day-khi-chat-185260216153052664.htm",
+      "summary": "Những set đồ suit hiện đại mang đến sự giao thoa hài hòa giữa tính chuẩn mực, sự thanh lịch và tinh thần thời trang đương đại, giúp quý cô tự tin xuất hiện trong mọi khoảnh khắc quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T01:00:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469529+07:00"
+    },
+    {
+      "id": "c002c2a26943d5d2bd91ec75c3de251e",
+      "title": "Ông Trump phản ứng mạnh phán quyết thuế của tòa án, có động thái mới tức thì",
+      "link": "https://thanhnien.vn/ong-trump-phan-ung-manh-phan-quyet-thue-cua-toa-an-co-dong-thai-moi-tuc-thi-185260221064342916.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã phản ứng dữ dội trước phán quyết của Tòa án Tối cao Mỹ về thuế quan, và tuyên bố sẽ sử dụng một đạo luật khắc nghiệt hơn để tiếp tục cuộc chiến thương mại toàn cầu của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:58:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469679+07:00"
+    },
+    {
+      "id": "e940cf0a60a3766443e7acc8809b8b93",
+      "title": "Việt Nam có thể cử lực lượng bảo đảm an toàn, trật tự ở Dải Gaza",
+      "link": "https://vnexpress.net/viet-nam-co-the-cu-luc-luong-bao-dam-an-toan-trat-tu-o-dai-gaza-5042584.html",
+      "summary": "Công an có thể tham gia bảo đảm an toàn, trật tự xã hội ở Gaza khi Việt Nam triển khai lộ trình thực hiện kế hoạch hòa bình sau chuyến tham dự hội nghị khai mạc Hội đồng Hòa bình về Dải Gaza của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T00:57:04+07:00",
+      "fetched": "2026-02-21T08:48:18.440442+07:00"
+    },
+    {
+      "id": "0d0f2aebeb79aea8de38969310067e68",
+      "title": "Bạn trai kém tuổi kể 'góc khuất' khi yêu Jennifer Aniston",
+      "link": "https://thanhnien.vn/ban-trai-kem-tuoi-ke-goc-khuat-khi-yeu-jennifer-aniston-185260221002952263.htm",
+      "summary": "Quá trình yêu đương, Jim Curtis thừa nhận anh và Jennifer Aniston không tránh khỏi xích mích, mâu thuẫn song cả hai luôn cố gắng giải quyết căng thẳng một cách văn minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:51:00+07:00",
+      "fetched": "2026-02-21T08:48:15.469829+07:00"
+    },
+    {
+      "id": "edaf0b006ec3b911b72a58c8818e8d73",
+      "title": "Giá vàng thế giới, chứng khoán Mỹ cùng tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-my-cung-tang-5042585.html",
+      "summary": "Số liệu GDP Mỹ và phán quyết của Tòa án Tối cao về thuế nhập khẩu khiến giá vàng tăng hơn 100 USD, còn Wall Street thêm 0,5-0,9%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:43:18+07:00",
+      "fetched": "2026-02-21T08:48:12.119449+07:00"
+    },
+    {
+      "id": "edaf0b006ec3b911b72a58c8818e8d73",
+      "title": "Giá vàng thế giới, chứng khoán Mỹ cùng tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-chung-khoan-my-cung-tang-5042585.html",
+      "summary": "Số liệu GDP Mỹ và phán quyết của Tòa án Tối cao về thuế nhập khẩu khiến giá vàng tăng hơn 100 USD, còn Wall Street thêm 0,5-0,9%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-21T00:43:18+07:00",
+      "fetched": "2026-02-21T08:48:20.096115+07:00"
+    },
+    {
+      "id": "97746d983448d397fc98db995a2809bb",
+      "title": "Hungary dọa ngăn EU cho Ukraine vay hơn 100 tỷ USD",
+      "link": "https://vnexpress.net/hungary-doa-ngan-eu-cho-ukraine-vay-hon-100-ty-usd-5042580.html",
+      "summary": "Thủ tướng Orban cảnh báo sẽ chặn khoản vay 106 tỷ USD của EU dành cho Ukraine nếu Kiev không khôi phục hoạt động của đường ống dẫn dầu Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:32:42+07:00",
+      "fetched": "2026-02-21T08:48:12.119626+07:00"
+    },
+    {
+      "id": "97746d983448d397fc98db995a2809bb",
+      "title": "Hungary dọa ngăn EU cho Ukraine vay hơn 100 tỷ USD",
+      "link": "https://vnexpress.net/hungary-doa-ngan-eu-cho-ukraine-vay-hon-100-ty-usd-5042580.html",
+      "summary": "Thủ tướng Orban cảnh báo sẽ chặn khoản vay 106 tỷ USD của EU dành cho Ukraine nếu Kiev không khôi phục hoạt động của đường ống dẫn dầu Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T00:32:42+07:00",
+      "fetched": "2026-02-21T08:48:18.440607+07:00"
+    },
+    {
+      "id": "15be9408b21ad0e957fdb505e4247767",
+      "title": "Lớp học nhạc trong bóng tối của vị giáo sư 85 tuổi",
+      "link": "https://vnexpress.net/lop-hoc-nhac-trong-bong-toi-cua-vi-giao-su-85-tuoi-5013731.html",
+      "summary": "Không chữ nổi, không giáo trình chuyên biệt, GS Tôn Thất Triêm dạy học trò khiếm thị bằng phương pháp truyền khẩu, biến mặc cảm thành tiếng hát lay động hàng nghìn khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:29:00+07:00",
+      "fetched": "2026-02-21T08:48:12.119796+07:00"
+    },
+    {
+      "id": "d9d4e04bfa1ed3409a3f2c0a0bf10b3c",
+      "title": "10 nạn nhân vụ ném mìn ở Thanh Hóa 'bị găm đầy mảnh kim khí'",
+      "link": "https://vnexpress.net/10-nan-nhan-vu-nem-min-o-thanh-hoa-bi-gam-day-manh-kim-khi-5042555.html",
+      "summary": "10 nạn nhân vụ nổ vật liệu tự chế đêm mùng 2 Tết tại phường Nghi Sơn, Thanh Hóa, nhập viện trong tình trạng đa chấn thương phức tạp, cơ thể bị găm nhiều dị vật kim khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:28:22+07:00",
+      "fetched": "2026-02-21T08:48:12.119978+07:00"
+    },
+    {
+      "id": "5e46359c6f8e7024d8ef447570800a37",
+      "title": "Ông Zelensky hé lộ cuộc sống cá nhân trong 4 năm chiến sự",
+      "link": "https://vnexpress.net/ong-zelensky-he-lo-cuoc-song-ca-nhan-trong-4-nam-chien-su-5042581.html",
+      "summary": "Ông Zelensky cho biết từng phải sống dưới boong-ke suốt hai năm đầu chiến sự và hiện không có trọn vẹn một ngày dành cho gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:11:12+07:00",
+      "fetched": "2026-02-21T08:48:12.120135+07:00"
+    },
+    {
+      "id": "5e46359c6f8e7024d8ef447570800a37",
+      "title": "Ông Zelensky hé lộ cuộc sống cá nhân trong 4 năm chiến sự",
+      "link": "https://vnexpress.net/ong-zelensky-he-lo-cuoc-song-ca-nhan-trong-4-nam-chien-su-5042581.html",
+      "summary": "Ông Zelensky cho biết từng phải sống dưới boong-ke suốt hai năm đầu chiến sự và hiện không có trọn vẹn một ngày dành cho gia đình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-21T00:11:12+07:00",
+      "fetched": "2026-02-21T08:48:18.440766+07:00"
+    },
+    {
+      "id": "57d4be7a7355b1a0e90c794260e0818f",
+      "title": "Địa điểm đặt bốn trạm mặt đất Starlink tại Việt Nam",
+      "link": "https://vnexpress.net/dia-diem-dat-bon-tram-mat-dat-starlink-tai-viet-nam-5042572.html",
+      "summary": "Starlink, dịch vụ Internet vệ tinh của Elon Musk, đặt bốn trạm mặt đất (gateway) ở Phú Thọ, Đà Nẵng và hai địa điểm tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:05:17+07:00",
+      "fetched": "2026-02-21T08:48:12.120295+07:00"
+    },
+    {
+      "id": "57d4be7a7355b1a0e90c794260e0818f",
+      "title": "Địa điểm đặt bốn trạm mặt đất Starlink tại Việt Nam",
+      "link": "https://vnexpress.net/dia-diem-dat-bon-tram-mat-dat-starlink-tai-viet-nam-5042572.html",
+      "summary": "Starlink, dịch vụ Internet vệ tinh của Elon Musk, đặt bốn trạm mặt đất (gateway) ở Phú Thọ, Đà Nẵng và hai địa điểm tại TP HCM.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-21T00:05:17+07:00",
+      "fetched": "2026-02-21T08:48:22.774493+07:00"
+    },
+    {
+      "id": "bd049e217d0478b009f370ba9c8ee318",
+      "title": "Doanh số MPV tháng 1 - sân chơi của Xpander, Veloz",
+      "link": "https://vnexpress.net/doanh-so-mpv-thang-1-san-choi-cua-xpander-veloz-5042392.html",
+      "summary": "Hai mẫu xe Nhật chiếm hơn một nửa lượng bán ra của phân khúc MPV cỡ nhỏ trong tháng đầu 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:00:54+07:00",
+      "fetched": "2026-02-21T08:48:12.120452+07:00"
+    },
+    {
+      "id": "14e355b7528271a68193d840ed958f08",
+      "title": "Thế giới ngầm vô hình ở Canada",
+      "link": "https://vnexpress.net/the-gioi-ngam-vo-hinh-o-canada-5042273.html",
+      "summary": "Hàng nghìn nhân viên văn phòng tại Canada lựa chọn làm việc và giải trí bên trong các đường hầm chằng chịt dưới lòng đất thay vì đi bộ trên mặt phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:00:00+07:00",
+      "fetched": "2026-02-21T08:48:12.120617+07:00"
+    },
+    {
+      "id": "b637104b19180ec10d0597931683ea08",
+      "title": "Ho do kích ứng khác dấu hiệu bệnh hô hấp thế nào",
+      "link": "https://vnexpress.net/ho-do-kich-ung-khac-dau-hieu-benh-ho-hap-the-nao-5041344.html",
+      "summary": "Ho kích ứng thường do tiếp xúc với chất ô nhiễm sẽ tự khỏi sau vài ngày, còn ho kèm đờm, tức ngực, kéo dài trên ba tuần là dấu hiệu của bệnh hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:00:00+07:00",
+      "fetched": "2026-02-21T08:48:12.120778+07:00"
+    },
+    {
+      "id": "dbb956ce67a9e9500d3d6d8a1ba62ac6",
+      "title": "Ung thư dạ dày nên ăn uống thế nào",
+      "link": "https://vnexpress.net/ung-thu-da-day-nen-an-uong-the-nao-5041330.html",
+      "summary": "Người bệnh ung thư dạ dày nên chia nhỏ bữa ăn, dùng đa dạng thực phẩm gồm tinh bột, đạm, xơ, vitamin, tránh món chua, cay, chất béo bão hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:00:00+07:00",
+      "fetched": "2026-02-21T08:48:12.120951+07:00"
+    },
+    {
+      "id": "d348264ea1e34d688420f7719c957c8b",
+      "title": "Corvus Robotics ra mắt drone kiểm kê tự động cho kho lạnh",
+      "link": "https://vnexpress.net/corvus-robotics-ra-mat-drone-kiem-ke-tu-dong-cho-kho-lanh-5039607.html",
+      "summary": "Hệ thống Corvus One for Cold Chain cho phép kiểm kê tồn kho chính xác, liên tục trong kho đông, hoạt động ổn định ở nhiệt độ xuống -20 độ F.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T00:00:00+07:00",
+      "fetched": "2026-02-21T08:48:12.121103+07:00"
+    },
+    {
+      "id": "dd9159bf895b7368555f53e4e958c26b",
+      "title": "Tổng Bí thư Tô Lâm gặp Tổng thống Donald Trump",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-gap-tong-thong-donald-trump-5042582.html",
+      "summary": "Tổng Bí thư Tô Lâm gặp Tổng thống Mỹ Donald Trump tại Nhà Trắng, trao đổi nhiều nội dung hợp tác, trong đó có thương mại, khoa học - công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:21:37+07:00",
+      "fetched": "2026-02-21T08:48:12.121257+07:00"
+    },
+    {
+      "id": "dd9159bf895b7368555f53e4e958c26b",
+      "title": "Tổng Bí thư Tô Lâm gặp Tổng thống Donald Trump",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-gap-tong-thong-donald-trump-5042582.html",
+      "summary": "Tổng Bí thư Tô Lâm gặp Tổng thống Mỹ Donald Trump tại Nhà Trắng, trao đổi nhiều nội dung hợp tác, trong đó có thương mại, khoa học - công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-20T23:21:37+07:00",
+      "fetched": "2026-02-21T08:48:18.440945+07:00"
+    },
+    {
+      "id": "73a0e592768132b8dd9c051969c772eb",
+      "title": "AI và cuộc cách mạng trên đường chạy",
+      "link": "https://vnexpress.net/ai-va-cuoc-cach-mang-tren-duong-chay-5042382.html",
+      "summary": "Dữ liệu hiệu suất và trí tuệ nhân tạo đang thay đổi cách VĐV chạy bộ tập luyện và thi đấu, đồng thời mở ra cơ hội kinh doanh mới cho ngành công nghiệp thể thao",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:21:16+07:00",
+      "fetched": "2026-02-21T08:48:12.121406+07:00"
+    },
+    {
+      "id": "73a0e592768132b8dd9c051969c772eb",
+      "title": "AI và cuộc cách mạng trên đường chạy",
+      "link": "https://vnexpress.net/ai-va-cuoc-cach-mang-tren-duong-chay-5042382.html",
+      "summary": "Dữ liệu hiệu suất và trí tuệ nhân tạo đang thay đổi cách VĐV chạy bộ tập luyện và thi đấu, đồng thời mở ra cơ hội kinh doanh mới cho ngành công nghiệp thể thao",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T23:21:16+07:00",
+      "fetched": "2026-02-21T08:48:23.727718+07:00"
+    },
+    {
+      "id": "be1efbc596553941b485d5ad1e88173f",
+      "title": "'Công chúa tuyết' Eileen Gu: 'Tôi giống bao cát của chính trị Mỹ'",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-toi-giong-bao-cat-cua-chinh-tri-my-5042567.html",
+      "summary": "Nữ VĐV 22 tuổi Eileen Gu đáp trả Phó tổng thống Mỹ JD Vance, và cho rằng nhiều người có vấn đề với cô vì họ ghét Trung Quốc",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:16:05+07:00",
+      "fetched": "2026-02-21T08:48:12.121560+07:00"
+    },
+    {
+      "id": "be1efbc596553941b485d5ad1e88173f",
+      "title": "'Công chúa tuyết' Eileen Gu: 'Tôi giống bao cát của chính trị Mỹ'",
+      "link": "https://vnexpress.net/cong-chua-tuyet-eileen-gu-toi-giong-bao-cat-cua-chinh-tri-my-5042567.html",
+      "summary": "Nữ VĐV 22 tuổi Eileen Gu đáp trả Phó tổng thống Mỹ JD Vance, và cho rằng nhiều người có vấn đề với cô vì họ ghét Trung Quốc",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T23:16:05+07:00",
+      "fetched": "2026-02-21T08:48:23.726914+07:00"
+    },
+    {
+      "id": "d9b51473bac113638df2962e80c13c8f",
+      "title": "Chủ tịch CLB Thái Lan: 'Thai League là giải đấu mạnh nhất Đông Nam Á'",
+      "link": "https://vnexpress.net/chu-tich-clb-thai-lan-thai-league-la-giai-dau-manh-nhat-dong-nam-a-5042528.html",
+      "summary": "Chủ tịch Tanawat Nitikanchana khẳng định Thái Lan sở hữu giải vô địch quốc gia tốt nhất Đông Nam Á, sau khi CLB Ratchaburi lần đầu vào tứ kết AFC Champions League Two.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-20T23:14:25+07:00",
+      "fetched": "2026-02-21T08:48:12.121724+07:00"
+    },
+    {
+      "id": "d9b51473bac113638df2962e80c13c8f",
+      "title": "Chủ tịch CLB Thái Lan: 'Thai League là giải đấu mạnh nhất Đông Nam Á'",
+      "link": "https://vnexpress.net/chu-tich-clb-thai-lan-thai-league-la-giai-dau-manh-nhat-dong-nam-a-5042528.html",
+      "summary": "Chủ tịch Tanawat Nitikanchana khẳng định Thái Lan sở hữu giải vô địch quốc gia tốt nhất Đông Nam Á, sau khi CLB Ratchaburi lần đầu vào tứ kết AFC Champions League Two.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T23:14:25+07:00",
+      "fetched": "2026-02-21T08:48:23.727091+07:00"
+    },
+    {
+      "id": "906f480a99c1f7f5aded22c6a21a927c",
+      "title": "Nhà vô địch Olympic hoàn thành lời hứa giúp chồng giành HC vàng",
+      "link": "https://vnexpress.net/nha-vo-dich-olympic-hoan-thanh-loi-hua-giup-chong-gianh-hc-vang-5042570.html",
+      "summary": "Nhà vô địch Olympic trượt tuyết tự do nữ, Xu Mengtao từng nói trong lễ cưới sẽ giúp chồng, Wang Xindi, giành HC vàng Thế vận hội. Và cô đã thành công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-20T23:07:21+07:00",
+      "fetched": "2026-02-21T08:48:23.727252+07:00"
     },
     {
       "id": "9cde307db2fd4166e325d5e8906c4a5d",
@@ -671,6 +1101,16 @@ window.newsData_2026_02_21 = {
       "category": "Công nghệ",
       "published": "2026-02-20T10:40:46+07:00",
       "fetched": "2026-02-21T01:42:09.486115+07:00"
+    },
+    {
+      "id": "d62aedde69e2110a2ee56a872e78d063",
+      "title": "Hai kiểu người dùng AI",
+      "link": "https://vnexpress.net/hai-kieu-nguoi-dung-ai-5042504.html",
+      "summary": "Tỷ phú Mark Cuban cho rằng \"có hai loại người dùng mô hình ngôn ngữ lớn (LLM), là nhóm dùng để học mọi thứ và nhóm còn lại sử dụng để không phải học gì nữa\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-20T10:40:46+07:00",
+      "fetched": "2026-02-21T08:48:22.775020+07:00"
     },
     {
       "id": "8a124c633a83bbe36a5e3dd99476631a",
