@@ -1,6 +1,6 @@
 window.newsData_2026_02_22 = {
   "date": "2026-02-22",
-  "lastUpdated": "2026-02-22T01:30:47.717627+07:00",
+  "lastUpdated": "2026-02-22T03:21:14.730282+07:00",
   "articles": [
     {
       "id": "f8cc5660643ff4053711d54933f1bb9a",
@@ -151,6 +151,56 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-22T01:30:41.525028+07:00",
       "fetched": "2026-02-22T01:30:41.525218+07:00"
+    },
+    {
+      "id": "d2e104a43d85f3129c4e6840365e4e5a",
+      "title": "Kane lập cú đúp, vượt thành tích mùa trước",
+      "link": "https://vnexpress.net/kane-lap-cu-dup-vuot-thanh-tich-mua-truoc-5042766.html",
+      "summary": "Cú đúp trong trận Bayern thắng Frankfurt 3-2 ở vòng 23 giúp Harry Kane có 28 bàn mùa này, nhiều hơn 2 bàn so với mùa 2024-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T19:02:58+07:00",
+      "fetched": "2026-02-22T03:21:01.149548+07:00"
+    },
+    {
+      "id": "d2e104a43d85f3129c4e6840365e4e5a",
+      "title": "Kane lập cú đúp, vượt thành tích mùa trước",
+      "link": "https://vnexpress.net/kane-lap-cu-dup-vuot-thanh-tich-mua-truoc-5042766.html",
+      "summary": "Cú đúp trong trận Bayern thắng Frankfurt 3-2 ở vòng 23 giúp Harry Kane có 28 bàn mùa này, nhiều hơn 2 bàn so với mùa 2024-2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T19:02:58+07:00",
+      "fetched": "2026-02-22T03:21:14.725396+07:00"
+    },
+    {
+      "id": "fefcd72314cfcb2c368319a64c21e358",
+      "title": "Chelsea rơi điểm phút cuối ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-roi-diem-phut-cuoi-o-ngoai-hang-anh-5042768.html",
+      "summary": "Thủng lưới ở phút bù thứ 3, Chelsea chấp nhận trận hòa 1-1 với Burnley ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T19:02:18+07:00",
+      "fetched": "2026-02-22T03:21:01.149743+07:00"
+    },
+    {
+      "id": "fefcd72314cfcb2c368319a64c21e358",
+      "title": "Chelsea rơi điểm phút cuối ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-roi-diem-phut-cuoi-o-ngoai-hang-anh-5042768.html",
+      "summary": "Thủng lưới ở phút bù thứ 3, Chelsea chấp nhận trận hòa 1-1 với Burnley ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-21T19:02:18+07:00",
+      "fetched": "2026-02-22T03:21:14.725576+07:00"
+    },
+    {
+      "id": "c3a9cfd8f9dce6157932a8fae542cfa8",
+      "title": "Tắm bồn có ảnh hưởng chức năng sinh sản của đàn ông?",
+      "link": "https://vnexpress.net/tam-bon-co-anh-huong-chuc-nang-sinh-san-cua-dan-ong-5000914.html",
+      "summary": "Nam giới ngâm mình trong bồn nước nóng thời gian dài có thể giảm hiệu quả quá trình sinh tinh, ảnh hưởng tạm thời đến chất lượng tinh trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T18:00:00+07:00",
+      "fetched": "2026-02-22T03:21:01.149910+07:00"
     },
     {
       "id": "9057cb1d6956b3502273b86972b3e39f",
@@ -491,6 +541,26 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-21T13:00:00+07:00",
       "fetched": "2026-02-22T01:30:40.599293+07:00"
+    },
+    {
+      "id": "8bac6ea14fea34d1c7c0e18d1a000f10",
+      "title": "Ông Trump công bố ngày thăm Trung Quốc giữa căng thẳng thương mại",
+      "link": "https://thanhnien.vn/ong-trump-cong-bo-ngay-tham-trung-quoc-giua-cang-thang-thuong-mai-18526022118540171.htm",
+      "summary": "Nhà Trắng thông báo Tổng thống Mỹ Donald Trump sẽ thăm Trung Quốc từ ngày 31.3 đến ngày 2.4, đánh dấu chuyến công du đầu tiên tới Bắc Kinh kể từ khi ông trở lại Nhà Trắng vào tháng 1.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T12:58:00+07:00",
+      "fetched": "2026-02-22T03:21:04.677557+07:00"
+    },
+    {
+      "id": "bf79a7d44c169dea323b00cede4f366f",
+      "title": "Tổng thống Zelensky nói Ukraine không thua, phản công giành 300 km vuông",
+      "link": "https://thanhnien.vn/tong-thong-zelensky-noi-ukraine-khong-thua-phan-cong-gianh-300-km-vuong-185260221180514965.htm",
+      "summary": "Theo AFP, Tổng thống Ukraine Volodymyr Zelensky khẳng định Ukraine không thua trong cuộc chiến chống lại Nga, và đã giành được hàng trăm km2 trong một cuộc phản công mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-21T12:48:00+07:00",
+      "fetched": "2026-02-22T03:21:04.677738+07:00"
     },
     {
       "id": "918f9e8b1e487612faa37c17dad75de0",
