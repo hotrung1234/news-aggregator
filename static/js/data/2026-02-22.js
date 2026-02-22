@@ -1,7 +1,37 @@
 window.newsData_2026_02_22 = {
   "date": "2026-02-22",
-  "lastUpdated": "2026-02-22T13:43:12.477407+07:00",
+  "lastUpdated": "2026-02-22T15:28:37.353310+07:00",
   "articles": [
+    {
+      "id": "d8ac607dc50c1ef90346601bfdf618cd",
+      "title": "CSGT dùng loa kẹo kéo để hướng dẫn người dân miền Tây né kẹt xe",
+      "link": "https://tuoitre.vn/csgt-dung-loa-keo-keo-de-huong-dan-nguoi-dan-mien-tay-ne-ket-xe-2026022212542372.htm",
+      "summary": "Giữa trưa nắng, chiến sĩ cảnh sát giao thông cầm micro liên tục nhắc nhở bà con né kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T15:28:27.233000+07:00",
+      "fetched": "2026-02-22T15:28:27.233140+07:00"
+    },
+    {
+      "id": "e9c207c4ffe2c53e74b45ad6841d3c97",
+      "title": "5 ngày Tết, hơn 100 người gặp nạn khi tắm biển Vũng Tàu được ứng cứu kịp thời",
+      "link": "https://tuoitre.vn/5-ngay-tet-hon-100-nguoi-gap-nan-khi-tam-bien-vung-tau-duoc-ung-cuu-kip-thoi-20260222132111697.htm",
+      "summary": "Trong 5 ngày Tết,  hơn 100 người gặp nạn khi tắm biển Vũng Tàu, đã được ứng cứu kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T15:28:27.232858+07:00",
+      "fetched": "2026-02-22T15:28:27.232988+07:00"
+    },
+    {
+      "id": "568488804d7fc46b42b35c8e1667205e",
+      "title": "Ông Trump tuyên bố gửi tàu bệnh viện tới Greenland",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-gui-tau-benh-vien-toi-greenland-20260222124531911.htm",
+      "summary": "Ông Trump thông báo sẽ gửi tàu bệnh viện đến Greenland với lý do chăm sóc cho người bị bệnh, dù Greenland và Đan Mạch đều có hệ thống chăm sóc y tế miễn phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T15:28:27.232616+07:00",
+      "fetched": "2026-02-22T15:28:27.232842+07:00"
+    },
     {
       "id": "bff5ee098b2bf933ff477ccfee52b5bd",
       "title": "Lực lượng an ninh Cuba rút khỏi Venezuela",
@@ -393,6 +423,166 @@ window.newsData_2026_02_22 = {
       "fetched": "2026-02-22T08:56:04.734828+07:00"
     },
     {
+      "id": "43861dd50dd238339f6a728b28654e04",
+      "title": "Mùng 6 tết, dâng hương tri ân các liệt sĩ biệt động Sài Gòn - Gia Định",
+      "link": "https://thanhnien.vn/mung-6-tet-dang-huong-tri-an-cac-liet-si-biet-dong-sai-gon-gia-dinh-185260222150235973.htm",
+      "summary": "Ngày 22.2 (mùng 6 tết), Bộ Tư lệnh TP.HCM phối hợp Câu lạc bộ Truyền thống kháng chiến khối vũ trang - biệt động Sài Gòn - Gia Định tổ chức lễ dâng hương tưởng niệm liệt sĩ biệt động Sài Gòn hy sinh trong cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:27:00+07:00",
+      "fetched": "2026-02-22T15:28:26.190658+07:00"
+    },
+    {
+      "id": "79e5dfc66998265a1b90473dffe7d5a3",
+      "title": "Triều Tiên phát sóng phim về âm mưu ám sát lãnh tụ trên truyền hình",
+      "link": "https://thanhnien.vn/trieu-tien-phat-song-phim-ve-am-muu-am-sat-lanh-tu-tren-truyen-hinh-185260222143300075.htm",
+      "summary": "CHDCND Triều Tiên đã phát sóng trên truyền hình một bộ phim mới xoay quanh âm mưu ám sát bất thành nhằm vào nhà cố lãnh đạo Kim Jong-il, cha của Chủ tịch Kim Jong-un, theo Kyodo News hôm 22.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:06:00+07:00",
+      "fetched": "2026-02-22T15:28:26.190826+07:00"
+    },
+    {
+      "id": "40eedf0ac92b3f2d02742d84ed9ba5f4",
+      "title": "Vì sao UOB tăng mức dự báo giá vàng trong năm 2026?",
+      "link": "https://thanhnien.vn/vi-sao-uob-tang-muc-du-bao-gia-vang-trong-nam-2026-185260222133953405.htm",
+      "summary": "Sau khi đạt mức cao kỷ lục với 5.600 USD mỗi ounce vào cuối tháng 1, giá vàng đã có đợt điều chỉnh giảm từ đó đến nay, xoay quanh 5.000 USD/ounce. Dù vậy, ông Heng Koon How, Trưởng bộ phận Chiến lược Thị trường, Khối Nghiên cứu thị trường và Kinh tế toàn cầu, Ngân hàng UOB Singapore cho rằng, hoạt đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:40:00+07:00",
+      "fetched": "2026-02-22T15:28:26.190991+07:00"
+    },
+    {
+      "id": "e265d8e0360f907343f79eabecd5e244",
+      "title": "Du lịch TP.HCM thu 12.150 tỉ đồng trong kỳ nghỉ Tết Nguyên đán",
+      "link": "https://thanhnien.vn/du-lich-tphcm-thu-12150-ti-dong-trong-ky-nghi-tet-nguyen-dan-185260222140925517.htm",
+      "summary": "Trong 9 ngày nghỉ Tết Nguyên đán Bính Ngọ 2026 (14.2 - 22.2), TP.HCM ghi nhận 4,32 triệu lượt khách tham quan tại các khu, điểm du lịch, tăng 35% so với cùng kỳ. Lượng khách quốc tế đạt khoảng 170.000 lượt, tăng 51,7%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:38:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191173+07:00"
+    },
+    {
+      "id": "82b455f8319d6815052c72ade8edc1c4",
+      "title": "Cấp cứu thuyền trưởng nghi bị đột quỵ khi đang điều khiển tàu cá trên biển",
+      "link": "https://thanhnien.vn/cap-cuu-thuyen-truong-nghi-bi-dot-quy-khi-dang-dieu-khien-tau-ca-tren-bien-185260222135321447.htm",
+      "summary": "Một thuyền trưởng đang điều khiển tàu cá trên biển bất ngờ có dấu hiệu bị đột quỵ, được các chiến sĩ Đồn biên phòng cửa khẩu cảng Giao Long (Vĩnh Long) hỗ trợ cấp cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:38:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191328+07:00"
+    },
+    {
+      "id": "7c1b96bc82fe30c29c8675e1f026524a",
+      "title": "Nắng gắt giữa trưa, hàng ngàn xe nhích từng mét qua Tây Ninh để về TP.HCM",
+      "link": "https://thanhnien.vn/nang-gat-giua-trua-hang-ngan-xe-nhich-tung-met-qua-tay-ninh-de-ve-tphcm-185260222132632207.htm",
+      "summary": "Đến trưa mùng 6 tết, lưu lượng phương tiện từ miền Tây đổ về tăng đột biến khiến nhiều nút giao ở Tây Ninh ùn ứ kéo dài, hàng ngàn xe phải nhích từng mét dưới nắng gắt trên đường trở lại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:20:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191477+07:00"
+    },
+    {
+      "id": "29308696ad10945c058751658da5c580",
+      "title": "Jessica Alba đi nghỉ dưỡng cùng tình trẻ",
+      "link": "https://vnexpress.net/jessica-alba-di-nghi-duong-cung-tinh-tre-5042848.html",
+      "summary": "Jessica Alba đi biển cùng bạn trai kém 11 tuổi - diễn viên Danny Ramirez - sau khi chồng cũ nộp đơn xin hoàn tất thủ tục ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:06:29+07:00",
+      "fetched": "2026-02-22T15:28:22.793058+07:00"
+    },
+    {
+      "id": "0452328fd626e3890a302889900e554c",
+      "title": "Cần làm gì khi Wi-Fi trong nhà chập chờn?",
+      "link": "https://thanhnien.vn/can-lam-gi-khi-wi-fi-trong-nha-chap-chon-185260221222653843.htm",
+      "summary": "Khi Wi-Fi trong nhà chập chờn, phản xạ quen thuộc của nhiều người là nghĩ đến việc nâng cấp lên hệ thống Wi-Fi Mesh có giá không hề rẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:06:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191623+07:00"
+    },
+    {
+      "id": "56ec4f3d12535c2c2975b2b6b7c8db82",
+      "title": "Top 9 sữa rửa mặt là chìa khóa giúp nâng tầm diện mạo làn da bạn",
+      "link": "https://thanhnien.vn/top-9-sua-rua-mat-la-chia-khoa-giup-nang-tam-dien-mao-lan-da-ban-185260222143219406.htm",
+      "summary": "Một làn da đẹp không bắt đầu từ serum đắt tiền mà từ bước làm sạch mỗi ngày. Chọn sai sữa rửa mặt, da có thể khô căng, nổi mụn và lão hóa sớm. Chọn đúng, bạn đã nắm trong tay 'chìa khóa' cho làn da khỏe và rạng rỡ. Top 9 sữa rửa mặt dưới đây chính là những cái tên đang được săn đón vì khả năng giúp ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:05:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191775+07:00"
+    },
+    {
+      "id": "003a65377d2518356294f4cc72d6f3ce",
+      "title": "Khách hoảng loạn bỏ chạy khi quán cà phê ở TP HCM bốc cháy",
+      "link": "https://vnexpress.net/khach-hoang-loan-bo-chay-khi-quan-ca-phe-o-tp-hcm-boc-chay-5042880.html",
+      "summary": "Lửa bùng lên từ khu vực pha chế của quán Nhà bên suối trên đường Linh Đông, sau đó bao trùm khu vực khiến khách và nhân viên hốt hoảng bỏ chạy, sáng 22/2 (mùng 6 Tết).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:02:52+07:00",
+      "fetched": "2026-02-22T15:28:22.793264+07:00"
+    },
+    {
+      "id": "35ff358fee657bc046ca27106a59d89c",
+      "title": "Di chuyển que diêm nào để cứu phép tính 8 - 1 = 6?",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-cuu-phep-tinh-8-1-6-5042863.html",
+      "summary": "Một phép tính sai tưởng như không thể sửa, nhưng chỉ cần di chuyển đúng 1 que diêm là mọi thứ lập tức thay đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:00:00+07:00",
+      "fetched": "2026-02-22T15:28:22.793437+07:00"
+    },
+    {
+      "id": "6839e3446427098f19b783413133f28e",
+      "title": "Công ty dược phẩm bị phạt bởi sản xuất thuốc không đạt chất lượng",
+      "link": "https://vnexpress.net/cong-ty-duoc-pham-bi-phat-boi-san-xuat-thuoc-khong-dat-chat-luong-5042829.html",
+      "summary": "Cục Quản lý Dược phạt Công ty cổ phần Dược Medipharco 50 triệu đồng do sản xuất thuốc không đạt tiêu chuẩn chất lượng mức độ 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:00:00+07:00",
+      "fetched": "2026-02-22T15:28:22.793547+07:00"
+    },
+    {
+      "id": "89ec10dcbe9eba50e6d2b181bf5f23f7",
+      "title": "Rối loạn tiêu hóa dịp Tết có cần đến viện khám không?",
+      "link": "https://vnexpress.net/roi-loan-tieu-hoa-dip-tet-co-can-den-vien-kham-khong-5041329.html",
+      "summary": "Sau Tết, tôi bị đầy hơi, ăn uống khó tiêu, thỉnh thoảng đau bụng âm ỉ, táo bón. Triệu chứng này của bệnh gì, khi nào tôi cần đi khám? (Mai, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:00:00+07:00",
+      "fetched": "2026-02-22T15:28:22.793708+07:00"
+    },
+    {
+      "id": "36302588bdebaba003f26e832b6511e8",
+      "title": "Chiều mùng 6 tết nhiều người 'ngược dòng' từ TP.HCM về miền Tây… ăn tết, vì sao?",
+      "link": "https://thanhnien.vn/chieu-mung-6-tet-nhieu-nguoi-nguoc-dong-tu-tphcm-ve-mien-tay-an-tet-vi-sao-185260222114147962.htm",
+      "summary": "Hôm nay mùng 6 tết, trong khi nhiều người trở lại TP.HCM trong ngày cuối cùng nghỉ tết thì cũng có một số người 'ngược dòng' bắt xe trở về miền Tây ăn tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:00:00+07:00",
+      "fetched": "2026-02-22T15:28:26.191932+07:00"
+    },
+    {
+      "id": "e06f6e043f42fe510125af9dac56cf26",
+      "title": "Diện tất ống chân sao cho khéo để chuẩn gu sành điệu?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-tat-ong-chan-sao-cho-kheo-de-chuan-gu-sanh-dieu-185260221151544832.htm",
+      "summary": "Không còn là món phụ kiện chỉ để giữ ấm, tất ống chân đã chính thức bước vào 'bản đồ quyền lực' của thời trang hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T07:00:00+07:00",
+      "fetched": "2026-02-22T15:28:26.192080+07:00"
+    },
+    {
+      "id": "ba21b0926bb23b6ab9a373c216d25b00",
+      "title": "Dòng xe từ miền Tây đổ về TP.HCM sau tết, nhiều tuyến đường 'nghẹt thở'",
+      "link": "https://thanhnien.vn/dong-xe-tu-mien-tay-do-ve-tphcm-sau-tet-nhieu-tuyen-duong-nghet-tho-18526022212543648.htm",
+      "summary": "Hết tết, dòng người từ miền Tây trở lại TP.HCM làm việc, học tập tăng mạnh khiến nhiều tuyến đường quá tải, giao thông ùn ứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T06:52:00+07:00",
+      "fetched": "2026-02-22T15:28:26.192254+07:00"
+    },
+    {
       "id": "9e9e308eadbad03674968ef6e61b99f2",
       "title": "U.23 Indonesia bị loại khỏi ASIAD 20, sếp lớn KOI giận dữ: Viết tâm thư phản đối gay gắt",
       "link": "https://thanhnien.vn/u23-indonesia-bi-loai-khoi-asiad-20-sep-lon-koi-gian-du-viet-tam-thu-phan-doi-gay-gat-185260222132616926.htm",
@@ -401,6 +591,16 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-22T06:37:00+07:00",
       "fetched": "2026-02-22T13:43:04.650198+07:00"
+    },
+    {
+      "id": "900d7e2930e261cb136e5b335fb28929",
+      "title": "Khách đổ xô đến phiên chợ kỳ quặc nhất xứ Thanh",
+      "link": "https://vnexpress.net/khach-do-xo-den-phien-cho-ky-quac-nhat-xu-thanh-5042876.html",
+      "summary": "Hàng nghìn du khách và người dân đổ về chợ Chuộng mua cà chua, trứng thối ném nhau, với quan niệm ai \"trúng đạn\" càng nhiều càng gặp may trong năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T06:35:44+07:00",
+      "fetched": "2026-02-22T15:28:22.793867+07:00"
     },
     {
       "id": "5e25529558af6bc7b60156c815841113",
