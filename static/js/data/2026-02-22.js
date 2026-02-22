@@ -1,7 +1,157 @@
 window.newsData_2026_02_22 = {
   "date": "2026-02-22",
-  "lastUpdated": "2026-02-22T15:28:37.353310+07:00",
+  "lastUpdated": "2026-02-22T17:22:20.676925+07:00",
   "articles": [
+    {
+      "id": "a4132759367d1a49c9eff6441c049b79",
+      "title": "Vụ chìm tàu trên hồ Thác Bà: Kết quả kiểm tra nồng độ cồn, ma túy của hai lái tàu",
+      "link": "https://tuoitre.vn/vu-chim-tau-tren-ho-thac-ba-ket-qua-kiem-tra-nong-do-con-ma-tuy-cua-hai-lai-tau-20260222160050381.htm",
+      "summary": "Liên quan đến vụ chìm tàu chở khách trên hồ Thác Bà làm 1 người chết, 5 người mất tích, cơ quan công an xác định cả hai lái tàu thủy đều có giấy phép lái tàu, không có nồng độ cồn và âm tính với các chất ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.475201+07:00",
+      "fetched": "2026-02-22T17:22:12.475334+07:00"
+    },
+    {
+      "id": "0a45d19b2f89ffb8c9407470ab8a0aaf",
+      "title": "Khánh Hòa hướng tới 'mỏ vàng' du lịch cưới xa xỉ của giới siêu giàu Ấn Độ",
+      "link": "https://tuoitre.vn/khanh-hoa-huong-toi-mo-vang-du-lich-cuoi-xa-xi-cua-gioi-sieu-giau-an-do-2026022215304479.htm",
+      "summary": "Năm 2026, Khánh Hòa đặt mục tiêu đẩy mạnh du lịch cưới, đặc biệt hướng tới phân khúc xa xỉ của giới siêu giàu Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.475074+07:00",
+      "fetched": "2026-02-22T17:22:12.475190+07:00"
+    },
+    {
+      "id": "a7e512c8317ebf8a5760a24f306dd3b4",
+      "title": "Lãnh đạo tỉnh thăm, chúc tết Công ty cổ phần Môi trường đô thị Gia Lai",
+      "link": "https://tuoitre.vn/lanh-dao-tinh-tham-chuc-tet-cong-ty-co-phan-moi-truong-do-thi-gia-lai-20260222162537171.htm",
+      "summary": "Ngày 22-2, Chủ tịch UBND tỉnh Gia Lai Phạm Anh Tuấn cùng đoàn công tác thăm, chúc Tết các đơn vị, doanh nghiệp khu vực phía tây Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474950+07:00",
+      "fetched": "2026-02-22T17:22:12.475062+07:00"
+    },
+    {
+      "id": "616cbd6f2161e45158b723890ca38215",
+      "title": "9 ngày nghỉ Tết: Tai nạn giảm mạnh, xử phạt 76.374 trường hợp vi phạm giao thông",
+      "link": "https://tuoitre.vn/9-ngay-nghi-tet-tai-nan-giam-manh-xu-phat-76-374-truong-hop-vi-pham-giao-thong-20260222162130743.htm",
+      "summary": "So với 9 ngày cùng kỳ Tết Ất Tỵ năm 2025, số tai nạn giảm 154 vụ (-28,79%), giảm 73 người chết (-23,2%), giảm 118 người bị thương (-30,10%).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474826+07:00",
+      "fetched": "2026-02-22T17:22:12.474939+07:00"
+    },
+    {
+      "id": "addec4b5f8a435b74b8dcbbf71c71899",
+      "title": "Nữ Ủy viên Trung ương Đảng có số lần ứng cử đại biểu Quốc hội nhiều nhất",
+      "link": "https://tuoitre.vn/nu-uy-vien-trung-uong-dang-co-so-lan-ung-cu-dai-bieu-quoc-hoi-nhieu-nhat-20260222161520446.htm",
+      "summary": "Theo danh sách 864 ứng viên ứng cử đại biểu Quốc hội khóa XVI, có Phó chủ nhiệm thường trực Ủy ban Dân nguyện và Giám sát Lê Thị Nga. Bà là đại biểu Quốc hội 6 khóa liên tiếp và ứng cử đại biểu Quốc hội khóa XVI là khóa thứ 7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474698+07:00",
+      "fetched": "2026-02-22T17:22:12.474815+07:00"
+    },
+    {
+      "id": "3920eac92329b257ced5ba00cdb55fa6",
+      "title": "Motorola tung loạt smartphone phiên bản World Cup 2026",
+      "link": "https://tuoitre.vn/motorola-tung-loat-smartphone-phien-ban-world-cup-2026-20260222162128446.htm",
+      "summary": "Sau mẫu smartphone Razr 60 đặc biệt, Motorola sắp ra mắt Edge 70 Fusion bản FIFA World Cup 2026, đón sóng giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474568+07:00",
+      "fetched": "2026-02-22T17:22:12.474682+07:00"
+    },
+    {
+      "id": "a2df423f6770e7005882810b4cd3f7fc",
+      "title": "Tên lửa của NASA lại gặp sự cố, lùi sứ mệnh chinh phục Mặt trăng",
+      "link": "https://tuoitre.vn/ten-lua-cua-nasa-lai-gap-su-co-lui-su-menh-chinh-phuc-mat-trang-20260222163125561.htm",
+      "summary": "NASA lùi lịch phóng Artemis II sang tháng 4, do sự cố khí heli của tên lửa SLS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474440+07:00",
+      "fetched": "2026-02-22T17:22:12.474556+07:00"
+    },
+    {
+      "id": "b9c4678be242c275bf236e3645e77933",
+      "title": "Chém vợ và mẹ vợ cũ trọng thương vì ghen tuông",
+      "link": "https://tuoitre.vn/chem-vo-va-me-vo-cu-trong-thuong-vi-ghen-tuong-20260222163129808.htm",
+      "summary": "Biết vợ cũ có quan hệ tình cảm mới, Hiếu ghen tuông, cầm dao chém vợ và mẹ vợ cũ trọng thương vào mùng 1 Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474291+07:00",
+      "fetched": "2026-02-22T17:22:12.474428+07:00"
+    },
+    {
+      "id": "32c73fa9249acc8611b0da0905abb8f4",
+      "title": "Phật giáo TP.HCM tưởng niệm đồng bào tử vong do COVID-19 tại công viên số 1 Lý Thái Tổ",
+      "link": "https://tuoitre.vn/phat-giao-tp-hcm-tuong-niem-dong-bao-tu-vong-do-covid-19-tai-cong-vien-so-1-ly-thai-to-20260222163104608.htm",
+      "summary": "Lễ tưởng niệm đồng bào tử vong vì đại dịch COVID-19 diễn ra tại công viên Lý Thái Tổ, hồi hướng cho những người đã khuất do Phật giáo TP.HCM tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474165+07:00",
+      "fetched": "2026-02-22T17:22:12.474280+07:00"
+    },
+    {
+      "id": "5598ac65a669e1ad4327f9936abfb00c",
+      "title": "Cần Giờ, 'đảo thiên đường' mới của TP.HCM",
+      "link": "https://tuoitre.vn/can-gio-dao-thien-duong-moi-cua-tp-hcm-20260222163844844.htm",
+      "summary": "Cần Giờ, ốc đảo hoang sơ khi xưa đang trên đà định vị thành một \"đảo thiên đường\" mới, hấp dẫn của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.474035+07:00",
+      "fetched": "2026-02-22T17:22:12.474153+07:00"
+    },
+    {
+      "id": "e66775d29472db42b76d28b2bd91a11c",
+      "title": "Đại ngàn về với đại dương một nhà",
+      "link": "https://tuoitre.vn/dai-ngan-ve-voi-dai-duong-mot-nha-20260204102624985.htm",
+      "summary": "Kon Tum sáp nhập với Quảng Ngãi, Gia Lai hợp nhất với Bình Định tạo nên một cửa ngõ thông thương từ đại ngàn tới đại dương. Lật mở sử liệu thấy rõ vệt giao thương này đã tồn tại từ lâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.473898+07:00",
+      "fetched": "2026-02-22T17:22:12.474015+07:00"
+    },
+    {
+      "id": "c752fa4be56d9fb8b8ae678143fbff08",
+      "title": "Mỹ áp mức thuế mới, rủi ro hay cơ hội, doanh nghiệp Việt cần làm gì?",
+      "link": "https://tuoitre.vn/my-ap-muc-thue-moi-rui-ro-hay-co-hoi-doanh-nghiep-viet-can-lam-gi-20260222152418219.htm",
+      "summary": "Việc chính quyền Trump áp thuế quan tạm thời với hàng nhập khẩu trên toàn cầu với mức 15% khiến rủi ro thuế quan sẽ còn kéo dài dưới những hình thức tinh vi hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.473768+07:00",
+      "fetched": "2026-02-22T17:22:12.473886+07:00"
+    },
+    {
+      "id": "bf82230151d87f5b63ba8e7dc1b9844f",
+      "title": "K-pop Demon Hunters thắng lớn Annie Awards 2026",
+      "link": "https://tuoitre.vn/k-pop-demon-hunters-thang-lon-annie-awards-2026-20260222170328602.htm",
+      "summary": "K-pop Demon Hunters dẫn đầu với 10 chiến thắng tại lễ trao giải Annie Awards lần thứ 53, ẵm hết các hạng mục quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.473636+07:00",
+      "fetched": "2026-02-22T17:22:12.473756+07:00"
+    },
+    {
+      "id": "45f255d30298d5ec834eca7958d6bd3d",
+      "title": "Bắt chủ quán và đầu bếp đánh du khách ở phường Vũng Tàu",
+      "link": "https://tuoitre.vn/bat-chu-quan-va-dau-bep-danh-du-khach-o-phuong-vung-tau-20260222170957231.htm",
+      "summary": "Công an TP.HCM đã bắt khẩn cấp 2 người đuổi đánh du khách tại phường Vũng Tàu hôm mùng 5 Tết (21-2), đồng thời tiếp tục củng cố chứng cứ để xử lý đối với người liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.473482+07:00",
+      "fetched": "2026-02-22T17:22:12.473623+07:00"
+    },
+    {
+      "id": "191f4cf62d958106022265525d4071ed",
+      "title": "Vụ chìm tàu ở hồ Thác Bà: Tìm thấy thêm 4 thi thể nạn nhân",
+      "link": "https://tuoitre.vn/vu-chim-tau-o-ho-thac-ba-tim-thay-them-4-thi-the-nan-nhan-20260222170348423.htm",
+      "summary": "Chiều 22-2, lực lượng cứu hộ, cứu nạn đã tìm thấy thêm 4 thi thể nạn nhân trong vụ chìm tàu chở khách trên hồ Thác Bà, tỉnh Lào Cai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T17:22:12.473235+07:00",
+      "fetched": "2026-02-22T17:22:12.473466+07:00"
+    },
     {
       "id": "d8ac607dc50c1ef90346601bfdf618cd",
       "title": "CSGT dùng loa kẹo kéo để hướng dẫn người dân miền Tây né kẹt xe",
@@ -323,6 +473,286 @@ window.newsData_2026_02_22 = {
       "fetched": "2026-02-22T11:16:36.522844+07:00"
     },
     {
+      "id": "8aa48278836319a0ddfc3e75ab9a725a",
+      "title": "Những cách 'lì xì tri thức' đầu năm Bính Ngọ cho học sinh",
+      "link": "https://thanhnien.vn/nhung-cach-li-xi-tri-thuc-dau-nam-binh-ngo-cho-hoc-sinh-185260222165044578.htm",
+      "summary": "Nhiều giáo viên có thói quen lì xì bằng tiền cho lớp mình chủ nhiệm ngay sau tết, khi học sinh trở lại trường. Nhưng có một thứ lì xì bền lâu và ý nghĩa hơn, đó là lì xì... tri thức. Nếu biết trao và nhận đúng cách, 'lì xì tri thức' có thể trở thành món quà quý giá nhất của những ngày đầu năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:15:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452055+07:00"
+    },
+    {
+      "id": "83fcd0f6c5687e92c0600194279af1fe",
+      "title": "Cục CSGT phân luồng, cho phép đi ngược chiều trên cao tốc Pháp Vân để giảm ùn tắc",
+      "link": "https://thanhnien.vn/cuc-csgt-phan-luong-cho-phep-di-nguoc-chieu-tren-cao-toc-phap-van-de-giam-un-tac-185260222165128968.htm",
+      "summary": "Do lưu lượng trên tuyến cao tốc Pháp Vân - Cao Bồ - Mai Sơn từ (đoạn Km230 hướng về Km211) tăng cao, các phương tiện di chuyển chậm, nên Cục CSGT cho phép ô tô đi ngược chiều từ Km216 đến Km211.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:07:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452223+07:00"
+    },
+    {
+      "id": "81fe1b8cf7f680eba3c4008bd1ce9bf5",
+      "title": "Điểm tin 17h: Hơn 330 ca cấp cứu do pháo nổ trong 8 ngày Tết | Đặc công Hải quân tìm thấy một nạn nhân vụ lật tàu hồ Thác Bà",
+      "link": "https://vnexpress.net/diem-tin-17h-hon-330-ca-cap-cuu-do-phao-no-trong-8-ngay-tet-dac-cong-hai-quan-tim-thay-mot-nan-nhan-vu-lat-tau-ho-thac-ba-5042914.html",
+      "summary": "Nghiên cứu tích hợp mạng xã hội với VNeID để định danh người dùng; Việt Nam lên tiếng sau khi bị EU thêm vào danh sách không hợp tác về thuế...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:04:12+07:00",
+      "fetched": "2026-02-22T17:22:07.824572+07:00"
+    },
+    {
+      "id": "b6a140f0ac5a137005e2f4c5b38aeaf1",
+      "title": "Người dân ùn ùn trở lại Hà Nội trong ngày cuối dịp nghỉ tết Nguyên đán 2026",
+      "link": "https://thanhnien.vn/nguoi-dan-un-un-tro-lai-ha-noi-trong-ngay-cuoi-dip-nghi-tet-nguyen-dan-2026-185260222163530892.htm",
+      "summary": "Trong ngày cuối của dịp nghỉ tết Nguyên đán Bính Ngọ 2026, rất đông người dân trở lại Hà Nội khiến nhiều tuyến đường cửa ngõ thủ đô xảy ra ùn ứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:03:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452415+07:00"
+    },
+    {
+      "id": "f605640c9fd06f31bdafba0258d0b19c",
+      "title": "Đội tuyển Việt Nam sẽ mạnh lên nhờ Đỗ Hoàng Hên và… HLV Harry Kewell",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-se-manh-len-nho-do-hoang-hen-va-hlv-harry-kewell-185260222150204713.htm",
+      "summary": "Sự trở lại của CLB Hà Nội có thể tạo tiền đề thúc đẩy đội tuyển Việt Nam bùng nổ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:03:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452571+07:00"
+    },
+    {
+      "id": "d83682155910414d9106f6cdac3c3ef3",
+      "title": "Yêu đơn phương 5 năm, có nên tiếp tục",
+      "link": "https://vnexpress.net/yeu-don-phuong-5-nam-co-nen-tiep-tuc-5042871.html",
+      "summary": "Tôi hỏi còn yêu anh khóa trên không, cô ấy nói chia tay lâu rồi; tôi hỏi giờ đang yêu ai, cô ấy bảo không yêu ai cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T10:00:00+07:00",
+      "fetched": "2026-02-22T17:22:07.824751+07:00"
+    },
+    {
+      "id": "75f3a15942f3b1a9b7e9a50d6e416493",
+      "title": "Trường quốc tế của ĐH Quốc gia TP.HCM tuyển sinh năm 2026 ra sao?",
+      "link": "https://thanhnien.vn/truong-quoc-te-cua-dh-quoc-gia-tphcm-tuyen-sinh-nam-2026-ra-sao-185260222163852117.htm",
+      "summary": "Trường ĐH Quốc tế (ĐH Quốc gia TP.HCM) đã công bố dự kiến thông tin tuyển sinh ĐH năm 2026. Đáng chú ý, trường công bố 24 ngành với mã xét tuyển riêng thay vì 5 ngành/nhóm ngành như năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:57:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452725+07:00"
+    },
+    {
+      "id": "e96f2700c2d38db98f93b647dad0c5a5",
+      "title": "Bị phạt vì huấn luyện chó vứt rác trộm ven đường",
+      "link": "https://vnexpress.net/bi-phat-vi-huan-luyen-cho-vut-rac-trom-ven-duong-5042907.html",
+      "summary": "Người đàn ông ở Sicily nhận án phạt sau khi bị phát hiện huấn luyện chó cưng vứt rác thải bên đường nhằm tránh camera giám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:56:39+07:00",
+      "fetched": "2026-02-22T17:22:07.824917+07:00"
+    },
+    {
+      "id": "e96f2700c2d38db98f93b647dad0c5a5",
+      "title": "Bị phạt vì huấn luyện chó vứt rác trộm ven đường",
+      "link": "https://vnexpress.net/bi-phat-vi-huan-luyen-cho-vut-rac-trom-ven-duong-5042907.html",
+      "summary": "Người đàn ông ở Sicily nhận án phạt sau khi bị phát hiện huấn luyện chó cưng vứt rác thải bên đường nhằm tránh camera giám sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T09:56:39+07:00",
+      "fetched": "2026-02-22T17:22:13.812922+07:00"
+    },
+    {
+      "id": "70b879df9b6f3b00722e226fef086102",
+      "title": "Hành trình 60 triệu năm của những khối đá curling tại Olympic mùa Đông 2026",
+      "link": "https://vnexpress.net/hanh-trinh-60-trieu-nam-cua-nhung-khoi-da-curling-tai-olympic-mua-dong-2026-5042911.html",
+      "summary": "Mọi khối đá curling trong môn bi đá trên băng tại Olympic mùa Đông Milan-Cortina 2026 đều được chế tác duy nhất từ loại đá hoa cương quý hiếm khai thác tại Ailsa Craig, một hòn đảo núi lửa nhỏ nằm ngoài khơi phía Tây Scotland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:54:44+07:00",
+      "fetched": "2026-02-22T17:22:07.825079+07:00"
+    },
+    {
+      "id": "70b879df9b6f3b00722e226fef086102",
+      "title": "Hành trình 60 triệu năm của những khối đá curling tại Olympic mùa Đông 2026",
+      "link": "https://vnexpress.net/hanh-trinh-60-trieu-nam-cua-nhung-khoi-da-curling-tai-olympic-mua-dong-2026-5042911.html",
+      "summary": "Mọi khối đá curling trong môn bi đá trên băng tại Olympic mùa Đông Milan-Cortina 2026 đều được chế tác duy nhất từ loại đá hoa cương quý hiếm khai thác tại Ailsa Craig, một hòn đảo núi lửa nhỏ nằm ngoài khơi phía Tây Scotland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-22T09:54:44+07:00",
+      "fetched": "2026-02-22T17:22:20.667692+07:00"
+    },
+    {
+      "id": "f4f1df98d27c4eeeaa4aeac025281047",
+      "title": "Báo khu vực phản đối AFC và đội tuyển Malaysia nếu vẫn dùng 7 cầu thủ nhập tịch lậu đấu Việt Nam",
+      "link": "https://thanhnien.vn/bao-khu-vuc-phan-doi-afc-va-doi-tuyen-malaysia-neu-van-dung-7-cau-thu-nhap-tich-lau-dau-viet-nam-185260222113249262.htm",
+      "summary": "Nhiều tờ báo tại Đông Nam Á, trong đó có cả báo chí Malaysia không ủng hộ bóng đá nước này vụ 7 cầu thủ nhập tịch bị nghi sử dụng hồ sơ giả. Khi Tổng thư ký AFC Seri Windsor John có ý bảo vệ những cầu thủ có liên quan, ông cũng bị phản ứng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:44:00+07:00",
+      "fetched": "2026-02-22T17:22:11.452879+07:00"
+    },
+    {
+      "id": "c8188ba1b9eb7cbd8cb71d3e02f5588b",
+      "title": "Hải quân Mỹ muốn sở hữu tên lửa chuyên hạ 'máy bay mắt thần'",
+      "link": "https://vnexpress.net/hai-quan-my-muon-so-huu-ten-lua-chuyen-ha-may-bay-mat-than-5042824.html",
+      "summary": "Hải quân Mỹ muốn phát triển tên lửa diệt radar mới, có thể hạ cả mục tiêu mặt đất và trên không, trong đó có máy bay cảnh báo sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:42:49+07:00",
+      "fetched": "2026-02-22T17:22:07.825247+07:00"
+    },
+    {
+      "id": "c8188ba1b9eb7cbd8cb71d3e02f5588b",
+      "title": "Hải quân Mỹ muốn sở hữu tên lửa chuyên hạ 'máy bay mắt thần'",
+      "link": "https://vnexpress.net/hai-quan-my-muon-so-huu-ten-lua-chuyen-ha-may-bay-mat-than-5042824.html",
+      "summary": "Hải quân Mỹ muốn phát triển tên lửa diệt radar mới, có thể hạ cả mục tiêu mặt đất và trên không, trong đó có máy bay cảnh báo sớm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T09:42:49+07:00",
+      "fetched": "2026-02-22T17:22:13.813094+07:00"
+    },
+    {
+      "id": "f9b0d6a58a5f627e608e094653c2c9e0",
+      "title": "Du lịch Lâm Đồng, Khánh Hòa bội thu dịp Tết Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/du-lich-lam-dong-khanh-hoa-boi-thu-dip-tet-binh-ngo-2026-185260222140705055.htm",
+      "summary": "Doanh thu từ du lịch của tỉnh Lâm Đồng và Khánh Hòa dịp Tết Bính Ngọ 2026 tăng mạnh so với năm trước, mỗi địa phương ước đạt khoảng 2.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:41:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453027+07:00"
+    },
+    {
+      "id": "a402e94b5bbe99ab9ee3b5cdfe848b77",
+      "title": "Nam bộ bước vào cao điểm hạn mặn, cần đề phòng tình huống bất thường",
+      "link": "https://thanhnien.vn/nam-bo-buoc-vao-cao-diem-han-man-can-de-phong-tinh-huong-bat-thuong-18526022216223702.htm",
+      "summary": "Từ cuối tháng 2, Nam bộ bước vào giai đoạn cao điểm hạn mặn, Thủ tướng Chính phủ Phạm Minh Chính vừa ký Công điện số 15 yêu cầu các địa phương và bộ ngành chủ động ứng phó với các tình huống bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:40:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453181+07:00"
+    },
+    {
+      "id": "1f7d9d9661022b703683473c3ef550b9",
+      "title": "Chủ quán cơm niêu bị bắt sau vụ cầm xẻng đánh du khách ở Vũng Tàu",
+      "link": "https://vnexpress.net/chu-quan-com-nieu-bi-bat-sau-vu-cam-xeng-danh-du-khach-o-vung-tau-5042905.html",
+      "summary": "Đặng Trần Quốc Vũ cùng hai người bị điều tra sau vụ mâu thuẫn chỗ đậu ôtô ở phường Vũng Tàu, xô xát, dùng xẻng đánh nhau với nhóm du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:33:31+07:00",
+      "fetched": "2026-02-22T17:22:07.825431+07:00"
+    },
+    {
+      "id": "0c1b889b5a53bf3b829da8a865baf337",
+      "title": "Việt Nam lên tiếng sau khi bị EU thêm vào danh sách không hợp tác về thuế",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-sau-khi-bi-eu-them-vao-danh-sach-khong-hop-tac-ve-thue-5042900.html",
+      "summary": "Việt Nam sẵn sàng hợp tác với EU để có đánh giá khách quan hơn về những kết quả trong hoàn thiện hệ thống pháp luật, theo người phát ngôn Bộ Ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:30:23+07:00",
+      "fetched": "2026-02-22T17:22:07.825595+07:00"
+    },
+    {
+      "id": "0c1b889b5a53bf3b829da8a865baf337",
+      "title": "Việt Nam lên tiếng sau khi bị EU thêm vào danh sách không hợp tác về thuế",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-sau-khi-bi-eu-them-vao-danh-sach-khong-hop-tac-ve-thue-5042900.html",
+      "summary": "Việt Nam sẵn sàng hợp tác với EU để có đánh giá khách quan hơn về những kết quả trong hoàn thiện hệ thống pháp luật, theo người phát ngôn Bộ Ngoại giao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T09:30:23+07:00",
+      "fetched": "2026-02-22T17:22:13.813259+07:00"
+    },
+    {
+      "id": "836310c1134ff79eb7d9ecf1628014e9",
+      "title": "Hàng ngàn nam giới Nhật Bản tham gia ‘lễ hội khỏa thân’, 6 người nhập viện",
+      "link": "https://thanhnien.vn/hang-ngan-nam-gioi-nhat-ban-tham-gia-le-hoi-khoa-than-6-nguoi-nhap-vien-185260222160708851.htm",
+      "summary": "Truyền thông Nhật Bản đưa tin 6 người phải nhập viện khi tham gia ‘lễ hội khỏa thân’ truyền thống ở thành phố Okayama, với khoảng 10.000 người tụ tập trong không gian hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:17:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453353+07:00"
+    },
+    {
+      "id": "87168bdc1f94993b01efde1249c7d8b4",
+      "title": "7 ôtô tông liên hoàn trên cao tốc Phan Thiết - Dầu Giây",
+      "link": "https://vnexpress.net/7-oto-tong-lien-hoan-tren-cao-toc-phan-thiet-dau-giay-5042904.html",
+      "summary": "Ôtô 5 chỗ không giữ khoảng cách an toàn trên cao tốc Phan Thiết - Dầu Giây đã va chạm dây chuyền với 6 xe khác, khiến tuyến đường ùn tắc cục bộ trưa 22/2 (mùng 6 Tết).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:16:51+07:00",
+      "fetched": "2026-02-22T17:22:07.825759+07:00"
+    },
+    {
+      "id": "e5a17d0d61bdee1c65a3978a1e8cfae6",
+      "title": "Gia đình Hồ Ngọc Hà trượt tuyết dịp đầu xuân",
+      "link": "https://vnexpress.net/gia-dinh-ho-ngoc-ha-truot-tuyet-dip-dau-xuan-5042897.html",
+      "summary": "Hồ Ngọc Hà, Kim Lý đưa cặp song sinh 6 tuổi Lisa, Leon đi trượt tuyết, trong kỳ nghỉ đầu năm ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:13:55+07:00",
+      "fetched": "2026-02-22T17:22:07.825925+07:00"
+    },
+    {
+      "id": "278845fec331b6c8059fd525d336432c",
+      "title": "Vi phạm nồng độ cồn dịp tết Nguyên đán 2026 tăng hơn 50% so với tết 2025",
+      "link": "https://thanhnien.vn/vi-pham-nong-do-con-dip-tet-nguyen-dan-2026-tang-hon-50-so-voi-tet-2025-185260222160554718.htm",
+      "summary": "Trong 9 ngày nghỉ tết Nguyên đán Bính Ngọ 2026, toàn quốc có 26.337 trường hợp vi phạm nồng độ cồn (chiếm 34,4% tổng số vi phạm về trật tự, an toàn giao thông), tăng 9.188 trường hợp (tăng 53,5%) so với cùng thời gian tết Nguyên đán Ất Tỵ 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:11:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453512+07:00"
+    },
+    {
+      "id": "ba8e4d574a206b596c94a36f31af34d7",
+      "title": "Dòng xe đông đúc đổ về TP HCM sau kỳ nghỉ Tết",
+      "link": "https://vnexpress.net/dong-xe-dong-duc-do-ve-tp-hcm-sau-ky-nghi-tet-5042898.html",
+      "summary": "Hàng nghìn người, xe đổ về các tuyến đường cửa ngõ TP HCM gây ùn ứ kéo dài trong ngày cuối kỳ nghỉ Tết Bính Ngọ, chiều 22/2 (mùng 6 Tết)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:09:40+07:00",
+      "fetched": "2026-02-22T17:22:07.826082+07:00"
+    },
+    {
+      "id": "510f356fd3215ac0e91065a4c5fa6eb8",
+      "title": "Việt Nam lên tiếng việc EU đưa vào danh sách không hợp tác về thuế",
+      "link": "https://thanhnien.vn/viet-nam-len-tieng-viec-eu-dua-vao-danh-sach-khong-hop-tac-ve-thue-185260222154924277.htm",
+      "summary": "Chính phủ Việt Nam đang xây dựng và triển khai Kế hoạch hành động quốc gia thực hiện các khuyến nghị của Diễn đàn toàn cầu về minh bạch và trao đổi thông tin về thuế của OECD, đồng thời tăng cường hợp tác quốc tế trong lĩnh vực thuế với các đối tác, trong đó có EU.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:01:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453670+07:00"
+    },
+    {
+      "id": "95e599541464ab639a22c9d0aed85b75",
+      "title": "Dấu hiệu ngộ độc rượu dễ nhầm với say ngày Tết",
+      "link": "https://vnexpress.net/dau-hieu-ngo-doc-ruou-de-nham-voi-say-ngay-tet-5042817.html",
+      "summary": "Tình trạng \"say - tỉnh - nặng dần\" kèm đau đầu dữ dội thường bị nhầm lẫn với cơn say, khiến nhiều người ngộ độc rượu mất thời điểm vàng cứu chữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:00:00+07:00",
+      "fetched": "2026-02-22T17:22:07.826239+07:00"
+    },
+    {
+      "id": "9d1bc4b84964da5a6e898ac6a53d13d9",
+      "title": "Cathay Cargo đẩy mạnh vận chuyển hàng tươi sống",
+      "link": "https://vnexpress.net/cathay-cargo-day-manh-van-chuyen-hang-tuoi-song-5040091.html",
+      "summary": "Cathay Cargo kỳ vọng gia tăng công suất với dòng máy bay chở hàng Airbus A350F, đồng thời phát triển mạnh mảng hàng tươi sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:00:00+07:00",
+      "fetched": "2026-02-22T17:22:07.826411+07:00"
+    },
+    {
+      "id": "e9dae030c1d7d8d48c2506e9e9161bc8",
+      "title": "Xổ số miền Nam ngày 22 tháng 2 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-22-thang-2-ket-qua-xo-so-hom-nay-chu-nhat-185260222130401299.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 22 tháng 2; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 22.2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T09:00:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453823+07:00"
+    },
+    {
       "id": "ef0323107884c69e5d0b415144797f5b",
       "title": "Thanh Thúy được chọn làm 'đại sứ' cho Lễ hội văn hóa Việt - Nhật 2026",
       "link": "https://tuoitre.vn/thanh-thuy-duoc-chon-lam-dai-su-cho-le-hoi-van-hoa-viet-nhat-2026-20260221090203935.htm",
@@ -423,6 +853,36 @@ window.newsData_2026_02_22 = {
       "fetched": "2026-02-22T08:56:04.734828+07:00"
     },
     {
+      "id": "56833f6d58d63f63ee6b5f97589901f9",
+      "title": "Thủ tướng đốc thúc tiến độ metro Nhổn - ga Hà Nội",
+      "link": "https://thanhnien.vn/thu-tuong-doc-thuc-tien-do-metro-nhon-ga-ha-noi-185260222152047159.htm",
+      "summary": "Sáng 22.2 (mùng 6 tháng giêng), Thủ tướng Phạm Minh Chính đã kiểm tra hiện trường dự án tuyến đường sắt đô thị số 3 Nhổn - ga Hà Nội và công tác phục vụ vận tải tết tại ga Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:49:00+07:00",
+      "fetched": "2026-02-22T17:22:11.453974+07:00"
+    },
+    {
+      "id": "47878ceb5724a5afe9a6ee670efc1c3c",
+      "title": "Ứng cứu thuyền trưởng nghi đột quỵ trên biển",
+      "link": "https://vnexpress.net/ung-cuu-thuyen-truong-nghi-dot-quy-tren-bien-5042893.html",
+      "summary": "Đang lái tàu đánh bắt hải sản trên biển, thuyền trưởng Phạm Việt Quyết đột ngột co giật rồi bất tỉnh, lực lượng biên phòng Vĩnh Long ứng cứu đưa vào bờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:45:31+07:00",
+      "fetched": "2026-02-22T17:22:07.826570+07:00"
+    },
+    {
+      "id": "1cae591fe34be39375b7c1d03a314f62",
+      "title": "Hàng vạn người dự khai hội chùa Hương",
+      "link": "https://vnexpress.net/hang-van-nguoi-du-khai-hoi-chua-huong-5042894.html",
+      "summary": "Sáng 22/2 (mùng 6 Tết), lễ hội chùa Hương 2026 khai mạc với chủ đề “An toàn - thân thiện - chất lượng”, thu hút hàng vạn người dân và du khách thập phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:40:10+07:00",
+      "fetched": "2026-02-22T17:22:07.826732+07:00"
+    },
+    {
       "id": "43861dd50dd238339f6a728b28654e04",
       "title": "Mùng 6 tết, dâng hương tri ân các liệt sĩ biệt động Sài Gòn - Gia Định",
       "link": "https://thanhnien.vn/mung-6-tet-dang-huong-tri-an-cac-liet-si-biet-dong-sai-gon-gia-dinh-185260222150235973.htm",
@@ -441,6 +901,26 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-22T08:06:00+07:00",
       "fetched": "2026-02-22T15:28:26.190826+07:00"
+    },
+    {
+      "id": "13ee7094520cc8516d05c7142e94494f",
+      "title": "Bố mắng tôi 'mất dạy' vì không về ăn cỗ Tết",
+      "link": "https://vnexpress.net/bo-mang-toi-mat-day-vi-khong-ve-an-co-tet-5042743.html",
+      "summary": "Trước mặt các cô chú trong họ, bố sang nhà bà nội và mắng chửi tôi nặng nề rằng 'đi học cao rồi coi thường bố, hỗn láo, mất dạy'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T08:01:42+07:00",
+      "fetched": "2026-02-22T17:22:07.826889+07:00"
+    },
+    {
+      "id": "5abbe1a36c890e55432264c04af0c0c0",
+      "title": "Ông chủ ChatGPT: Nhiều công ty viện cớ triển khai AI để sa thải",
+      "link": "https://vnexpress.net/ong-chu-chatgpt-nhieu-cong-ty-vien-co-trien-khai-ai-de-sa-thai-5042751.html",
+      "summary": "Sam Altman, CEO OpenAI, cho rằng nhiều công ty đang viện cớ triển khai AI để cắt giảm nhân sự, dù nguyên nhân thực sự có thể không liên quan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-22T08:00:00+07:00",
+      "fetched": "2026-02-22T17:22:18.658908+07:00"
     },
     {
       "id": "40eedf0ac92b3f2d02742d84ed9ba5f4",
