@@ -1,7 +1,157 @@
 window.newsData_2026_02_22 = {
   "date": "2026-02-22",
-  "lastUpdated": "2026-02-22T08:56:10.575454+07:00",
+  "lastUpdated": "2026-02-22T11:16:45.189439+07:00",
   "articles": [
+    {
+      "id": "4a6e21c88ea81909c7e49c2c586a52e3",
+      "title": "Vì sao AFC 'quay xe', dồn Malaysia vào thế thua Việt Nam?",
+      "link": "https://tuoitre.vn/vi-sao-afc-quay-xe-don-malaysia-vao-the-thua-viet-nam-20260221172439159.htm",
+      "summary": "Dù vẫn chưa chính thức ngã ngũ, Liên đoàn Bóng đá châu Á (AFC) đã liên tục đưa ra những thông tin bất lợi cho tuyển Malaysia ở vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.524633+07:00",
+      "fetched": "2026-02-22T11:16:36.524750+07:00"
+    },
+    {
+      "id": "5dbb805a19e5f60fb238b7d3932c2a74",
+      "title": "Thành phố Hồ Chí Minh sáng tạo trên bản sắc Sài Gòn",
+      "link": "https://tuoitre.vn/thanh-pho-ho-chi-minh-sang-tao-tren-ban-sac-sai-gon-202602092308599.htm",
+      "summary": "Những ngày này, đi trên những con đường thành phố Hồ Chí Minh dưới ánh nắng sớm xiên qua hàng cây, hơi gió chướng lùa qua những tòa nhà làm cho thanh âm đường phố bỗng trở nên dịu dàng…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.524503+07:00",
+      "fetched": "2026-02-22T11:16:36.524617+07:00"
+    },
+    {
+      "id": "3be27065b2ea369c08aa3cf8774119fe",
+      "title": "'Yellow Letters' giành Gấu vàng tại Liên hoan phim Berlin giữa tranh cãi về Gaza",
+      "link": "https://tuoitre.vn/yellow-letters-gianh-gau-vang-tai-lien-hoan-phim-berlin-giua-tranh-cai-ve-gaza-2026022208525467.htm",
+      "summary": "Tại lễ khai mạc Liên hoan phim Berlin lần thứ 76, 'Yellow Letters' - phim chính kịch về sự trỗi dậy âm ỉ của chủ nghĩa chuyên chế tại Thổ Nhĩ Kỳ - giành giải Gấu vàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.524376+07:00",
+      "fetched": "2026-02-22T11:16:36.524492+07:00"
+    },
+    {
+      "id": "36de841998e312fe205c2716721f5834",
+      "title": "Khẩn trương điều tra nguyên nhân vụ chìm tàu chở khách trên hồ Thác Bà",
+      "link": "https://tuoitre.vn/khan-truong-dieu-tra-nguyen-nhan-vu-chim-tau-cho-khach-tren-ho-thac-ba-20260222090742678.htm",
+      "summary": "Liên quan đến vụ chìm tàu chở khách trên hồ Thác Bà, UBND tỉnh Lào Cai giao Công an tỉnh khẩn trương điều tra, làm rõ nguyên nhân vụ tai nạn và xử lý nghiêm các tổ chức, cá nhân vi phạm (nếu có).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.524237+07:00",
+      "fetched": "2026-02-22T11:16:36.524364+07:00"
+    },
+    {
+      "id": "a5b96a3b94dcc8dee8807fdb324c017b",
+      "title": "Thủ tướng yêu cầu không để xảy ra ùn tắc kéo dài trên các tuyến vào trung tâm Hà Nội và TP.HCM",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-khong-de-xay-ra-un-tac-keo-dai-tren-cac-tuyen-vao-trung-tam-ha-noi-va-tp-hcm-20260222091756451.htm",
+      "summary": "Thủ tướng yêu cầu các cơ quan chức năng nghiên cứu phương án tổ chức giao thông theo hướng: Điều tiết bớt số làn của chiều đường có mật độ thấp dành cho chiều đường có lưu lượng cao, giảm nguy cơ ùn tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.524076+07:00",
+      "fetched": "2026-02-22T11:16:36.524224+07:00"
+    },
+    {
+      "id": "8daa79d0f3ef00a718bc1ab6713d5035",
+      "title": "Báo Anh: Hoàng gia không phản đối việc loại cựu Hoàng tử Andrew khỏi danh sách kế vị",
+      "link": "https://tuoitre.vn/bao-anh-hoang-gia-khong-phan-doi-viec-loai-cuu-hoang-tu-andrew-khoi-danh-sach-ke-vi-20260222091651908.htm",
+      "summary": "Các nguồn tin nói rằng Vua Charles sẽ không can thiệp việc quốc hội nước này muốn loại cựu Hoàng tử Andrew khỏi danh sách kế vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523949+07:00",
+      "fetched": "2026-02-22T11:16:36.524064+07:00"
+    },
+    {
+      "id": "4846dfc2cde63005db7cd7963dfeb256",
+      "title": "New York Times: Tử chiến trên không của Việt Nam là 1 trong 5 phim hành động đáng xem nhất",
+      "link": "https://tuoitre.vn/new-york-times-tu-chien-tren-khong-cua-viet-nam-la-1-trong-5-phim-hanh-dong-dang-xem-nhat-20260222091459059.htm",
+      "summary": "Đạo diễn Hàm Trần tự hào khi phim 'Tử chiến trên không' được New York Times xếp vào danh sách 5 phim hành động hay nhất trên ứng dụng trực tuyến trong tháng 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523813+07:00",
+      "fetched": "2026-02-22T11:16:36.523938+07:00"
+    },
+    {
+      "id": "4c1facb4bed7e4c0ffe1a2be1280c844",
+      "title": "Luân phiên đóng, mở nhiều đoạn cao tốc từ Lâm Đồng về TP.HCM để tránh ùn ứ",
+      "link": "https://tuoitre.vn/luan-phien-dong-mo-nhieu-doan-cao-toc-tu-lam-dong-ve-tp-hcm-de-tranh-un-u-20260222093526195.htm",
+      "summary": "Sáng 22-2, lượng xe từ miền Trung, miền Bắc đổ về TP.HCM, Đồng Nai tăng cao. Đội CSGT đường bộ cao tốc số 6 luân phiên đóng, mở một số nút giao để giảm áp lực giao thông, tránh ùn ứ cục bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523687+07:00",
+      "fetched": "2026-02-22T11:16:36.523802+07:00"
+    },
+    {
+      "id": "ccbcf039549f3113f9af7ea9888cb869",
+      "title": "Sân bay Nội Bài đón hơn 124.000 lượt khách trong ngày cuối của kỳ nghỉ Tết",
+      "link": "https://tuoitre.vn/san-bay-noi-bai-don-hon-124-000-luot-khach-trong-ngay-cuoi-cua-ky-nghi-tet-20260222095208714.htm",
+      "summary": "Ngày 22-2, ngày cuối cùng của kỳ nghỉ Tết (mùng 6 Tết), sân bay Nội Bài có lượng khách đạt mốc kỷ lục khi có 124.546 lượt hành khách và 702 chuyến bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523561+07:00",
+      "fetched": "2026-02-22T11:16:36.523675+07:00"
+    },
+    {
+      "id": "b495f2473b1ce4cc373776440676495b",
+      "title": "Muốn vươn lên bằng công nghệ, phải ra thế giới",
+      "link": "https://tuoitre.vn/muon-vuon-len-bang-cong-nghe-phai-ra-the-gioi-20260211161550432.htm",
+      "summary": "Những năm qua, không ít sản phẩm công nghệ Việt đã tạo được dấu ấn trên trường quốc tế, khẳng định người Việt hoàn toàn có thể tạo ra sản phẩm công nghệ đẳng cấp thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523432+07:00",
+      "fetched": "2026-02-22T11:16:36.523550+07:00"
+    },
+    {
+      "id": "8bdc4df9e41a0d2a3e42b47b39340164",
+      "title": "EU cử đại diện đến Mỹ, nói có công cụ đối phó với thuế của ông Trump",
+      "link": "https://tuoitre.vn/eu-cu-dai-dien-den-my-noi-co-cong-cu-doi-pho-voi-thue-cua-ong-trump-20260222100044984.htm",
+      "summary": "Brussels sẽ cử Thủ tướng Đức đến Mỹ để đàm phán nhưng cũng khẳng định có đủ công cụ đối phó thuế quan của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523300+07:00",
+      "fetched": "2026-02-22T11:16:36.523420+07:00"
+    },
+    {
+      "id": "acb4144e3572c1ab8cadb012ea835295",
+      "title": "Du khách, giới trẻ đến Nha Trang 'đổi gió' tìm về ký ức tuổi thơ, hoài niệm ngày xưa",
+      "link": "https://tuoitre.vn/du-khach-gioi-tre-den-nha-trang-doi-gio-tim-ve-ky-uc-tuoi-tho-hoai-niem-ngay-xua-20260222100919683.htm",
+      "summary": "Mùng 6 Tết, ngoài trải nghiệm các tour biển, đảo, nhiều du khách, bạn trẻ đến Nha Trang đã lựa chọn các điểm du lịch gắn liền với truyền thống, văn hóa dân gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523162+07:00",
+      "fetched": "2026-02-22T11:16:36.523288+07:00"
+    },
+    {
+      "id": "eb65d8ab09cdc69260f6894829ee297a",
+      "title": "Sốc: Vi khuẩn bị đóng băng 5.000 năm vẫn kháng nhiều kháng sinh mạnh",
+      "link": "https://tuoitre.vn/soc-vi-khuan-bi-dong-bang-5-000-nam-van-khang-nhieu-khang-sinh-manh-20260221104652104.htm",
+      "summary": "Chủng Psychrobacter bị đóng băng 5.000 năm vẫn kháng nhiều kháng sinh mạnh, dấy lên lo ngại siêu vi khuẩn trỗi dậy khi băng tan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.523006+07:00",
+      "fetched": "2026-02-22T11:16:36.523148+07:00"
+    },
+    {
+      "id": "ee78e8af1c587c3d34f2887a5d1d2856",
+      "title": "Loại trái cây phổ biến nhất thế giới đối mặt nguy cơ biến mất",
+      "link": "https://tuoitre.vn/loai-trai-cay-pho-bien-nhat-the-gioi-doi-mat-nguy-co-bien-mat-20260221093851001.htm",
+      "summary": "Từng thoát nạn Panama thế kỷ trước, chuối Cavendish nay lại bị nấm TR4 đe dọa, buộc các nhà khoa học chạy đua tìm gene kháng bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.522860+07:00",
+      "fetched": "2026-02-22T11:16:36.522993+07:00"
+    },
+    {
+      "id": "cdc234e7e5f24353a1268c4d4ec2eebb",
+      "title": "Dự báo thời tiết từ 22-2 đến 28-2: Bắc Bộ giảm nhiệt, Nam Bộ nắng nóng",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-22-2-den-28-2-bac-bo-giam-nhiet-nam-bo-nang-nong-20260221171450511.htm",
+      "summary": "Tuần này, từ 22-2 đến 28-2, thời tiết Bắc Bộ có đợt giảm nhiệt nhẹ, Nam Bộ tiếp tục nắng nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T11:16:36.522639+07:00",
+      "fetched": "2026-02-22T11:16:36.522844+07:00"
+    },
     {
       "id": "ef0323107884c69e5d0b415144797f5b",
       "title": "Thanh Thúy được chọn làm 'đại sứ' cho Lễ hội văn hóa Việt - Nhật 2026",
@@ -111,6 +261,336 @@ window.newsData_2026_02_22 = {
       "category": "Tổng hợp",
       "published": "2026-02-22T05:20:04.790460+07:00",
       "fetched": "2026-02-22T05:20:04.790659+07:00"
+    },
+    {
+      "id": "816c2b0e184ef7212f1c13b352c6267e",
+      "title": "Cao điểm sau tết: 1 ngày, xử lý 52 xe chạy quá tốc độ trên cao tốc",
+      "link": "https://thanhnien.vn/cao-diem-sau-tet-1-ngay-xu-ly-52-xe-chay-qua-toc-do-tren-cao-toc-185260222104010408.htm",
+      "summary": "Chỉ trong 1 ngày tuần tra, lực lượng CSGT cao tốc phát hiện 52 trường hợp vi phạm tốc độ trên cao tốc từ TP.HCM đến Khánh Hòa với tổng số tiền xử phạt gần 255 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T04:07:00+07:00",
+      "fetched": "2026-02-22T11:16:35.483673+07:00"
+    },
+    {
+      "id": "d7d6b2c9f2a823afa72b9db27a58bae8",
+      "title": "Du xuân ở Lý Sơn, có gì hấp dẫn?",
+      "link": "https://thanhnien.vn/du-xuan-o-ly-son-co-gi-hap-dan-185260222082848354.htm",
+      "summary": "Đặc khu Lý Sơn (Quảng Ngãi) là một trong những điểm du lịch hấp dẫn mà người trẻ tìm đến trong mỗi dịp đầu năm mới. Du xuân ở đảo không chỉ có biển xanh, nắng vàng mà còn là hành trình khám phá văn hóa biển đảo độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T04:02:00+07:00",
+      "fetched": "2026-02-22T11:16:35.483923+07:00"
+    },
+    {
+      "id": "bc2f030155025e3e733e922156df9050",
+      "title": "Ngựa lùn Pony thành 'ngôi sao', Trại rắn Đồng Tâm đông nghẹt khách xếp hàng chờ chụp ảnh",
+      "link": "https://thanhnien.vn/ngua-lun-pony-thanh-ngoi-sao-trai-ran-dong-tam-dong-nghet-khach-xep-hang-cho-chup-anh-185260221150552273.htm",
+      "summary": "Đầu năm Bính Ngọ, ngựa lùn Pony trở thành 'ngôi sao' tại Trại rắn Đồng Tâm (Đồng Tháp), thu hút hàng ngàn du khách xếp hàng chụp ảnh check-in.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:52:00+07:00",
+      "fetched": "2026-02-22T11:16:35.484177+07:00"
+    },
+    {
+      "id": "8ebfe63e2898b7f95eb0533accb8dfab",
+      "title": "Samsung sắp có bước tiến lớn về pin thể rắn",
+      "link": "https://thanhnien.vn/samsung-sap-co-buoc-tien-lon-ve-pin-the-ran-185260221205544067.htm",
+      "summary": "Samsung SDI đang cân nhắc việc bán 15,2% cổ phần của mình tại Samsung Display, tương đương mức định giá khoảng 10.000 tỉ won (6,9 tỉ USD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:48:00+07:00",
+      "fetched": "2026-02-22T11:16:35.484344+07:00"
+    },
+    {
+      "id": "93285a4c9f63fccb2001e27efc50c524",
+      "title": "11 ca tử vong do pháo nổ trong 8 ngày Tết",
+      "link": "https://vnexpress.net/11-ca-tu-vong-do-phao-no-trong-8-ngay-tet-5042813.html",
+      "summary": "Bộ Y tế ghi nhận 338 ca khám, cấp cứu do pháo nổ hoặc chất nổ, trong đó 11 người tử vong trong 8 ngày nghỉ Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:41:46+07:00",
+      "fetched": "2026-02-22T11:16:32.175037+07:00"
+    },
+    {
+      "id": "b3c63bc55982ce6f8af188e171a3dc11",
+      "title": "Hơn 20 tỉnh, thành công bố môn thứ ba thi lớp 10",
+      "link": "https://vnexpress.net/hon-20-tinh-thanh-cong-bo-mon-thu-ba-thi-lop-10-5015423.html",
+      "summary": "Hầu hết địa phương chọn Tiếng Anh là môn thứ ba thi lớp 10, chỉ Tuyên Quang thi Khoa học Tự nhiên, còn Vĩnh Long, Lâm Đồng xét tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:31:00+07:00",
+      "fetched": "2026-02-22T11:16:32.175243+07:00"
+    },
+    {
+      "id": "c18a97d4177f8f1efc9de4a4e111676a",
+      "title": "Aston Villa 1-1 Leeds",
+      "link": "https://vnexpress.net/aston-villa-1-1-leeds-5042827.html",
+      "summary": "Áp đảo đội khách, nhưng Aston Villa phải chờ đến gần cuối trận mới thoát thua nhờ bàn gỡ của Tammy Abraham ở vòng 27 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:29:15+07:00",
+      "fetched": "2026-02-22T11:16:32.175419+07:00"
+    },
+    {
+      "id": "50e6dddd50b490bc235d3cf07656b633",
+      "title": "Những vụ kiện lạ",
+      "link": "https://vnexpress.net/nhung-vu-kien-la-5042783.html",
+      "summary": "Nuôi con nhiều năm mới biết không cùng huyết thống, 4,5 tỷ \"để trong cốp xe SH\", biệt thự nhờ bạn đứng tên 17 năm chưa thể đòi... là các vụ kiện tưởng chừng khó xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:26:54+07:00",
+      "fetched": "2026-02-22T11:16:32.175580+07:00"
+    },
+    {
+      "id": "7411b46319e2637cffe400ef10c4d0ab",
+      "title": "Nhạc phim 'Thỏ ơi' của Trấn Thành gây chú ý",
+      "link": "https://vnexpress.net/nhac-phim-tho-oi-cua-tran-thanh-gay-chu-y-5042796.html",
+      "summary": "Ca khúc \"Giữ anh em cũng làm không xong\" do LyLy - diễn viên phim 18+ \"Thỏ ơi\" - thể hiện, thu hút hàng triệu lượt nghe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:24:37+07:00",
+      "fetched": "2026-02-22T11:16:32.175736+07:00"
+    },
+    {
+      "id": "31d09f46ef3d1c84b7e2836080a9cee4",
+      "title": "West Ham 0-0 Bournemouth",
+      "link": "https://vnexpress.net/west-ham-0-0-bournemouth-5042825.html",
+      "summary": "Dứt điểm nhiều gần gấp đôi nhưng không thể ghi bàn, West Ham bị cầm hòa ở vòng 27 và chưa thể bứt ra khỏi nhóm ba đội cuối bảng Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:23:26+07:00",
+      "fetched": "2026-02-22T11:16:32.175892+07:00"
+    },
+    {
+      "id": "5343749c917b495858e82104e8ab16f3",
+      "title": "Giá Bitcoin hôm nay 22.2.2026: Không nao núng trước thuế quan của ông Donald Trump",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-2222026-khong-nao-nung-truoc-thue-quan-cua-ong-donald-trump-185260222092840639.htm",
+      "summary": "Giá Bitcoin hôm nay tiếp tục tăng nhẹ, bất chấp việc Tổng thống Mỹ Donald Trump tìm cách áp thuế toàn cầu và địa chính trị có nhiều bất ổn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:22:00+07:00",
+      "fetched": "2026-02-22T11:16:35.484501+07:00"
+    },
+    {
+      "id": "961c6f624f17087d836d2c35822c8d61",
+      "title": "Tết từ bếp lửa",
+      "link": "https://thanhnien.vn/tet-tu-bep-lua-185260130202838325.htm",
+      "summary": "Nồi bánh chưng đặt giữa nhà, trên bếp lửa, cả gia đình quần tụ xung quanh trò chuyện, cười đùa đến khuya lắc, ấm áp đến lạ thường. Người ta bảo nửa hồn tết luôn nằm ở góc bếp mỗi nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:22:00+07:00",
+      "fetched": "2026-02-22T11:16:35.484653+07:00"
+    },
+    {
+      "id": "139ac86f5d09b1db8027012464fdd58f",
+      "title": "Minh tinh Sandra Hüller thắng Gấu Bạc LHP Berlin 2026",
+      "link": "https://vnexpress.net/minh-tinh-sandra-h-ller-thang-gau-bac-lhp-berlin-2026-5042795.html",
+      "summary": "Sandra Hüller thắng giải Diễn viên chính xuất sắc tại Liên hoan phim Berlin với vai một phụ nữ giả làm đàn ông trong phim \"Rose\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:21:23+07:00",
+      "fetched": "2026-02-22T11:16:32.176046+07:00"
+    },
+    {
+      "id": "138d2b275f4bb3ecccd205a3d75be5cc",
+      "title": "Hà Phương: Ở nhà thì bị nói ăn bám, đi diễn thì bị đồn ly hôn",
+      "link": "https://thanhnien.vn/ha-phuong-o-nha-thi-bi-noi-an-bam-di-dien-thi-bi-don-ly-hon-18526022209534956.htm",
+      "summary": "Sau nhiều năm gần như rút khỏi ánh đèn sân khấu, Hà Phương trở lại với một đêm nhạc tổ chức ở quê hương. Dịp đầu năm, nữ ca sĩ dành thời gian trải lòng với Thanh Niên về màn tái xuất sau quãng thời gian im ắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:20:00+07:00",
+      "fetched": "2026-02-22T11:16:35.484824+07:00"
+    },
+    {
+      "id": "d9064c1fd620838d974a79e398b6fb1e",
+      "title": "Lý Hương: Mỗi khi nhắc đến ba tôi là chú Mạc Can lại khóc",
+      "link": "https://thanhnien.vn/ly-huong-moi-khi-nhac-den-ba-toi-la-chu-mac-can-lai-khoc-185260221230800519.htm",
+      "summary": "Lý Hương chia sẻ ba cô - NSND Lý Huỳnh luôn kính trọng, yêu thương những nghệ sĩ có hoàn cảnh khó khăn. Nên dù ba đã qua đời nhưng những nghệ sĩ như Diệu Hiền, Mạc Can... vẫn tưởng nhớ về ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:20:00+07:00",
+      "fetched": "2026-02-22T11:16:35.485028+07:00"
+    },
+    {
+      "id": "12faca69a6e90c3e323fb9004be7ee88",
+      "title": "NASA tiếp tục lùi ngày đưa người tới Mặt Trăng vì lỗi kỹ thuật",
+      "link": "https://vnexpress.net/nasa-tiep-tuc-lui-ngay-dua-nguoi-toi-mat-trang-vi-loi-ky-thuat-5042791.html",
+      "summary": "Giám đốc NASA cho biết nhiệm vụ Artemis 2 không thể diễn ra trong tháng 3, do phát hiện trục trặc với tên lửa SLS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:14:37+07:00",
+      "fetched": "2026-02-22T11:16:32.176219+07:00"
+    },
+    {
+      "id": "12faca69a6e90c3e323fb9004be7ee88",
+      "title": "NASA tiếp tục lùi ngày đưa người tới Mặt Trăng vì lỗi kỹ thuật",
+      "link": "https://vnexpress.net/nasa-tiep-tuc-lui-ngay-dua-nguoi-toi-mat-trang-vi-loi-ky-thuat-5042791.html",
+      "summary": "Giám đốc NASA cho biết nhiệm vụ Artemis 2 không thể diễn ra trong tháng 3, do phát hiện trục trặc với tên lửa SLS.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-22T03:14:37+07:00",
+      "fetched": "2026-02-22T11:16:43.543504+07:00"
+    },
+    {
+      "id": "060d937cfe09daad0c292a849962a03e",
+      "title": "Chó là cẩu, mèo là miêu, vậy chuột gọi là gì?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-con-gi-cho-la-cau-meo-la-mieu-vay-chuot-goi-la-gi-5042515.html",
+      "summary": "Nếu chó là “cẩu”, mèo là “miêu” theo âm Hán Việt quen thuộc, vậy chuột sẽ được gọi như thế nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:00:00+07:00",
+      "fetched": "2026-02-22T11:16:32.176387+07:00"
+    },
+    {
+      "id": "878be8d7af7727e86956c6621dfe993e",
+      "title": "5 lưu ý khi cho trẻ đi học lại sau Tết",
+      "link": "https://vnexpress.net/5-luu-y-khi-cho-tre-di-hoc-lai-sau-tet-5041351.html",
+      "summary": "Phụ huynh cần thiết lập lại đồng hồ sinh học, điều chỉnh dinh dưỡng để đảm bảo sức khỏe và tâm lý trẻ trước khi trở lại trường học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:00:00+07:00",
+      "fetched": "2026-02-22T11:16:32.176547+07:00"
+    },
+    {
+      "id": "e6168ca49f12555d557c06d4b1a39dec",
+      "title": "Dùng máy lạnh, máy hút ẩm thế nào để không hại phổi?",
+      "link": "https://vnexpress.net/dung-may-lanh-may-hut-am-the-nao-de-khong-hai-phoi-5041348.html",
+      "summary": "Nhà tôi dùng máy lạnh, máy lọc không khí quanh năm. Sử dụng như thế nào để không hại phổi? (Thanh Tâm, 40 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:00:00+07:00",
+      "fetched": "2026-02-22T11:16:32.176704+07:00"
+    },
+    {
+      "id": "0f5f8ba40e55e8a380dbe004a555951a",
+      "title": "Vì sao uống rượu bia hại mắt?",
+      "link": "https://vnexpress.net/vi-sao-uong-ruou-bia-hai-mat-5041259.html",
+      "summary": "Uống rượu bia có thể gây mất nước, thúc đẩy viêm và cản trở quá trình vận chuyển vitamin, ảnh hưởng đến chất lượng và số lượng nước mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:00:00+07:00",
+      "fetched": "2026-02-22T11:16:32.176866+07:00"
+    },
+    {
+      "id": "a8e071b39a852dbfc8ac3932e1942ccf",
+      "title": "'Nữ hoàng ảnh lịch' Hiền Mai nhớ tết còn mẹ, kể chuyện được fan tặng xe xịn",
+      "link": "https://thanhnien.vn/nu-hoang-anh-lich-hien-mai-nho-tet-con-me-ke-chuyen-duoc-fan-tang-xe-xin-18526022123022373.htm",
+      "summary": "Mỗi dịp xuân về, 'nữ hoàng ảnh lịch' Hiền Mai bồi hồi nhớ về ký ức ngày tết những năm 90 của thế kỷ trước. Đó không chỉ là thời kỳ đỉnh cao trong sự nghiệp của Hiền Mai mà còn là những năm tháng cô được đón tết bên mẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T03:00:00+07:00",
+      "fetched": "2026-02-22T11:16:35.485300+07:00"
+    },
+    {
+      "id": "4f4d99e6e5ebc8901224c8b534367c6e",
+      "title": "Hoàng gia Anh 'bật đèn xanh' cho kế hoạch tước quyền kế vị của ông Andrew?",
+      "link": "https://thanhnien.vn/hoang-gia-anh-bat-den-xanh-cho-ke-hoach-tuoc-quyen-ke-vi-cua-ong-andrew-185260222090827072.htm",
+      "summary": "Báo The Guardian hôm 21.2 dẫn nguồn thạo tin xác nhận Hoàng gia Anh không phản đối kế hoạch của chính phủ nhằm loại trừ khả năng cựu hoàng tử Andrew, em trai Vua Charles, có thể kế vị ngai vàng trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:58:00+07:00",
+      "fetched": "2026-02-22T11:16:35.485543+07:00"
+    },
+    {
+      "id": "e2006596396b49cf45cd6cfab0b45d59",
+      "title": "Bị gây khó dễ khi đến với tình cũ sau chia tay vợ",
+      "link": "https://vnexpress.net/bi-gay-kho-de-khi-den-voi-tinh-cu-sau-chia-tay-vo-5042806.html",
+      "summary": "Trước đây các cô từng phản đối, chửi bới về chuyện cưới xin của tôi, giờ tôi đến với người khác, các cô lại can thiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:49:31+07:00",
+      "fetched": "2026-02-22T11:16:32.177028+07:00"
+    },
+    {
+      "id": "2e473876f88c4e7bf0c16d59be7eec21",
+      "title": "Hà Nội tính phá dỡ khu tập thể 3 tầng để xây 3 tòa 34 tầng",
+      "link": "https://thanhnien.vn/ha-noi-tinh-pha-do-khu-tap-the-3-tang-de-xay-3-toa-34-tang-185260222092731055.htm",
+      "summary": "Tại ô đất khu tập thể 3 tầng trên đường Lê Hồng Phong (P.Hà Đông, Hà Nội), chính quyền sở tại dự kiến sau khi phá dỡ khu tập thể sẽ đầu tư xây dựng 3 tòa nhà cao 34 tầng nổi và 2 tầng hầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:44:00+07:00",
+      "fetched": "2026-02-22T11:16:35.485775+07:00"
+    },
+    {
+      "id": "8734d20a6130b7a31164c2744c9a3358",
+      "title": "Sau Tết Nguyên đán, TP.HCM ban hành 2 đề án giáo dục quan trọng",
+      "link": "https://thanhnien.vn/sau-tet-nguyen-dan-tphcm-ban-hanh-2-de-an-giao-duc-quan-trong-185260221132848477.htm",
+      "summary": "Kết thúc kỳ nghỉ Tết Nguyên đán, Sở GD-ĐT TP.HCM triển khai kết luận của Phó giám đốc Nguyễn Bảo Quốc đến gần 3.500 trường học về nhiệm vụ trọng tâm của học kỳ 2 năm học 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:38:00+07:00",
+      "fetched": "2026-02-22T11:16:35.486003+07:00"
+    },
+    {
+      "id": "1d5b92583baa211e054aaf36572b8b61",
+      "title": "Bí ẩn 'cơn sốt chớp nhoáng' cướp sinh mạng nhiều trẻ Ấn Độ",
+      "link": "https://vnexpress.net/bi-an-con-sot-chop-nhoang-cuop-sinh-mang-nhieu-tre-an-do-5042734.html",
+      "summary": "Nhiều trẻ tử vong do suy gan chỉ trong 48 giờ tại làng Chhainsa, Ấn Độ, đang khiến giới y khoa bế tắc, giả thuyết về nguồn nước bẩn và lây nhiễm chéo chưa được xác thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:31:53+07:00",
+      "fetched": "2026-02-22T11:16:32.177219+07:00"
+    },
+    {
+      "id": "311cf4f6594de90756a1343e2e788d76",
+      "title": "Tranh cãi về kế hoạch mua lại 7 tòa chung cư cháy ở Hong Kong",
+      "link": "https://vnexpress.net/tranh-cai-ve-ke-hoach-mua-lai-7-toa-chung-cu-chay-o-hong-kong-5042782.html",
+      "summary": "Nhiều người dân tại khu chung cư Wang Fuk Court phản đối kế hoạch mua lại nhà do chính quyền đề xuất, dù mức giá được cho là hào phóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:29:04+07:00",
+      "fetched": "2026-02-22T11:16:32.177402+07:00"
+    },
+    {
+      "id": "311cf4f6594de90756a1343e2e788d76",
+      "title": "Tranh cãi về kế hoạch mua lại 7 tòa chung cư cháy ở Hong Kong",
+      "link": "https://vnexpress.net/tranh-cai-ve-ke-hoach-mua-lai-7-toa-chung-cu-chay-o-hong-kong-5042782.html",
+      "summary": "Nhiều người dân tại khu chung cư Wang Fuk Court phản đối kế hoạch mua lại nhà do chính quyền đề xuất, dù mức giá được cho là hào phóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-22T02:29:04+07:00",
+      "fetched": "2026-02-22T11:16:38.393305+07:00"
+    },
+    {
+      "id": "7af67832bbdd742c972ff1c970045508",
+      "title": "Định danh số và bước chuyển mới của không gian mạng Việt Nam",
+      "link": "https://thanhnien.vn/dinh-danh-so-va-buoc-chuyen-moi-cua-khong-gian-mang-viet-nam-185260222092335568.htm",
+      "summary": "Việc nghiên cứu tích hợp các dịch vụ mạng xã hội với hệ thống định danh điện tử quốc gia VNeID để phục vụ định danh và xác thực tài khoản người dùng đang thu hút sự quan tâm lớn của xã hội. Đây không chỉ là một giải pháp kỹ thuật trong tiến trình chuyển đổi số quốc gia mà còn là một bước chuyển quan...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:26:00+07:00",
+      "fetched": "2026-02-22T11:16:35.486250+07:00"
+    },
+    {
+      "id": "f51aabc9099761333be48ad69ff8b0a3",
+      "title": "Biển người hành hương về Yên Tử",
+      "link": "https://thanhnien.vn/bien-nguoi-hanh-huong-ve-yen-tu-185260222090102019.htm",
+      "summary": "Từ 4 giờ sáng 22.2 (mùng 6 tháng giêng), hàng vạn du khách đã hành hương về Yên Tử (Quảng Ninh) cầu an đầu xuân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:22:00+07:00",
+      "fetched": "2026-02-22T11:16:35.486434+07:00"
+    },
+    {
+      "id": "0cf46b1c74d2b698b4357c0a4b3a84e2",
+      "title": "Người Mỹ khó mua hàng giá rẻ sau phán quyết thuế",
+      "link": "https://vnexpress.net/nguoi-my-kho-mua-hang-gia-re-sau-phan-quyet-thue-5042763.html",
+      "summary": "Chuyên gia cảnh báo giá hàng hóa tại Mỹ khó giảm sau phán quyết bác bỏ thuế nhập khẩu của Tòa án Tối cao, trước những động thái đáp trả từ ông Trump.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-22T02:18:00+07:00",
+      "fetched": "2026-02-22T11:16:39.867709+07:00"
+    },
+    {
+      "id": "a881295fe512a578c8a991007283c175",
+      "title": "Mùng 6 tết: Đường phố TP.HCM bắt đầu nhộn nhịp, xe đông trở lại",
+      "link": "https://thanhnien.vn/mung-6-tet-duong-pho-tphcm-bat-dau-nhon-nhip-xe-dong-tro-lai-185260222090649535.htm",
+      "summary": "Hôm nay mùng 6 tết, tức ngày 22.2 là ngày cuối cùng của kỳ nghỉ Tết Nguyên đán Bính Ngọ 2026. Đường phố TP.HCM thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-22T02:17:00+07:00",
+      "fetched": "2026-02-22T11:16:35.486593+07:00"
     },
     {
       "id": "e4dd17657d2771c1ae54922fdd990518",
