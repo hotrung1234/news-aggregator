@@ -1,6 +1,6 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T01:58:02.333702+07:00",
+  "lastUpdated": "2026-02-25T03:31:48.909183+07:00",
   "articles": [
     {
       "id": "fd6097b63fe221f247829b3e356da859",
@@ -151,6 +151,46 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T00:03:14.921978+07:00",
       "fetched": "2026-02-25T00:03:14.922209+07:00"
+    },
+    {
+      "id": "68188247cb9e8fd1ed68fbd8df6842b4",
+      "title": "Sự trở lại của Đoàn Văn Hậu",
+      "link": "https://thanhnien.vn/su-tro-lai-cua-doan-van-hau-18526022500235019.htm",
+      "summary": "Đoàn Văn Hậu đánh dấu sự trở lại bằng một siêu phẩm sút xa, góp công lớn giúp CLB Công an Hà Nội lội ngược dòng trước CLB Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T20:21:00+07:00",
+      "fetched": "2026-02-25T03:31:40.437416+07:00"
+    },
+    {
+      "id": "d61662cfa2d3ee4827025e1037654b4d",
+      "title": "Lối sống 'nhà giàu không kéo rèm cửa' ở Mỹ",
+      "link": "https://vnexpress.net/loi-song-nha-giau-khong-keo-rem-cua-o-my-5043537.html",
+      "summary": "Từ thói quen từng bị gắn mác là thiếu thốn, nếp sống \"không kéo rèm cửa sổ\" giờ đây trở thành xu hướng được nhiều người giàu ở Mỹ ưa chuộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T20:00:00+07:00",
+      "fetched": "2026-02-25T03:31:37.166954+07:00"
+    },
+    {
+      "id": "d61662cfa2d3ee4827025e1037654b4d",
+      "title": "Lối sống 'nhà giàu không kéo rèm cửa' ở Mỹ",
+      "link": "https://vnexpress.net/loi-song-nha-giau-khong-keo-rem-cua-o-my-5043537.html",
+      "summary": "Từ thói quen từng bị gắn mác là thiếu thốn, nếp sống \"không kéo rèm cửa sổ\" giờ đây trở thành xu hướng được nhiều người giàu ở Mỹ ưa chuộng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T20:00:00+07:00",
+      "fetched": "2026-02-25T03:31:43.673801+07:00"
+    },
+    {
+      "id": "8b8aa527270319cb04057f0cc836d6b7",
+      "title": "Mang song thai, một trong một ngoài tử cung",
+      "link": "https://vnexpress.net/mang-song-thai-mot-trong-mot-ngoai-tu-cung-5043340.html",
+      "summary": "Người phụ nữ 26 tuổi mang song thai dị vị với một thai trong buồng tử cung và một thai ở vòi tử cung phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T19:00:00+07:00",
+      "fetched": "2026-02-25T03:31:37.167109+07:00"
     },
     {
       "id": "1fb5bdc2391d9bcbe47920e744889324",
