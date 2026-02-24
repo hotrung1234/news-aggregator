@@ -1,7 +1,157 @@
 window.newsData_2026_02_24 = {
   "date": "2026-02-24",
-  "lastUpdated": "2026-02-24T13:57:04.544673+07:00",
+  "lastUpdated": "2026-02-24T15:42:50.210746+07:00",
   "articles": [
+    {
+      "id": "ed0dd22f12facc9a05370d6ee143d864",
+      "title": "Hai cha con cứu 3 người trong vụ lật đò trên sông Gianh được khen thưởng",
+      "link": "https://tuoitre.vn/hai-cha-con-cuu-3-nguoi-trong-vu-lat-do-tren-song-gianh-duoc-khen-thuong-20260224132656724.htm",
+      "summary": "UBND xã Tân Gianh, tỉnh Quảng Trị đã có quyết định khen thưởng 2 cha con cứu sống 3 người trong vụ lật đò trên sông Gianh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681960+07:00",
+      "fetched": "2026-02-24T15:42:40.682045+07:00"
+    },
+    {
+      "id": "ad800ff37816cb3b4ca8842655698bee",
+      "title": "Nam giới càng lớn tuổi càng 'mất' nhiễm sắc thể Y: Điều gì đang xảy ra?",
+      "link": "https://tuoitre.vn/nam-gioi-cang-lon-tuoi-cang-mat-nhiem-sac-the-y-dieu-gi-dang-xay-ra-20260224115221217.htm",
+      "summary": "Ngày càng nhiều bằng chứng cho thấy sự mất mát nhiễm sắc thể Y theo tuổi tác có liên quan đến nhiều bệnh lý nghiêm trọng và có thể góp phần làm giảm tuổi thọ nam giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681866+07:00",
+      "fetched": "2026-02-24T15:42:40.681952+07:00"
+    },
+    {
+      "id": "6d4a22e203244d1c95aa387bd079549a",
+      "title": "Gần 45% email toàn cầu là thư rác, lừa đảo và mã độc",
+      "link": "https://tuoitre.vn/gan-45-email-toan-cau-la-thu-rac-lua-dao-va-ma-doc-20260224131406928.htm",
+      "summary": "Thư rác điện tử không chỉ dừng lại ở các nội dung quảng cáo mà còn có thể là vỏ bọc cho hàng loạt hình thức tấn công như lừa đảo, giả mạo và phần mềm độc hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681758+07:00",
+      "fetched": "2026-02-24T15:42:40.681858+07:00"
+    },
+    {
+      "id": "1cda4ee71e5c2cca5446518d07f065e7",
+      "title": "Mực nước sông Mekong xuống thấp kỷ lục, người dân Thái đi bộ được qua Lào",
+      "link": "https://tuoitre.vn/muc-nuoc-song-mekong-xuong-thap-ky-luc-nguoi-dan-thai-di-bo-duoc-qua-lao-2026022412502625.htm",
+      "summary": "Mực nước sông Mekong tại Nong Khai chỉ còn 1,37m, lộ bãi cát và ghềnh đá; nhiều nơi có thể đi bộ từ Thái Lan sang đảo thuộc Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681666+07:00",
+      "fetched": "2026-02-24T15:42:40.681751+07:00"
+    },
+    {
+      "id": "1bbfe2d8acf55943fbac350a75a8edb4",
+      "title": "Trao bằng khen người cứu 6 nạn nhân vụ chìm tàu trên hồ Thác Bà",
+      "link": "https://tuoitre.vn/trao-bang-khen-nguoi-cuu-6-nan-nhan-vu-chim-tau-tren-ho-thac-ba-20260224131326704.htm",
+      "summary": "Chủ tịch UBND tỉnh Lào Cai trao tặng bằng khen cho ông Hà Ngọc Sơn - người đã cứu được 6 người trong vụ chìm tàu chở khách trên hồ Thác Bà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681571+07:00",
+      "fetched": "2026-02-24T15:42:40.681658+07:00"
+    },
+    {
+      "id": "3d6d5ff050a71b11197111f5ba6da90e",
+      "title": "Romeo Beckham catwalk tại Tuần lễ thời trang London giữa lúc Brooklyn đoạn tuyệt gia đình",
+      "link": "https://tuoitre.vn/romeo-beckham-catwalk-tai-tuan-le-thoi-trang-london-giua-luc-brooklyn-doan-tuyet-gia-dinh-20260224120632534.htm",
+      "summary": "Romeo Beckham khẳng định vị thế người mẫu của mình khi trở thành ngôi sao trong những chiến dịch quảng cáo toàn cầu của Burberry kể từ năm 2012.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681472+07:00",
+      "fetched": "2026-02-24T15:42:40.681563+07:00"
+    },
+    {
+      "id": "c26614141c41d9a7c89ce953b5db0753",
+      "title": "Taekwondo Việt Nam nhận vinh dự từ Liên đoàn Taekwondo thế giới",
+      "link": "https://tuoitre.vn/taekwondo-viet-nam-nhan-vinh-du-tu-lien-doan-taekwondo-the-gioi-20260224122310455.htm",
+      "summary": "Taekwondo Việt Nam là liên đoàn thành viên đầu tiên được Liên đoàn Taekwondo thế giới mở khóa tập huấn HLV quốc tế và phổ biến luật mới trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681373+07:00",
+      "fetched": "2026-02-24T15:42:40.681463+07:00"
+    },
+    {
+      "id": "0e80a69e61ff291a00c133b39c6f9298",
+      "title": "Hành trình truy bắt trùm ma túy Mexico: Theo dấu ‘người tình’, Mỹ hỗ trợ tình báo",
+      "link": "https://tuoitre.vn/hanh-trinh-truy-bat-trum-ma-tuy-mexico-theo-dau-nguoi-tinh-my-ho-tro-tinh-bao-20260224122639867.htm",
+      "summary": "Lần theo “bạn tình” của trùm ma túy El Mencho và kết hợp với thông tin tình báo do Mỹ hỗ trợ, Mexico đã xác định chính xác nơi ẩn náu, triển khai chiến dịch truy bắt quy mô lớn và tiêu diệt ông trùm khét tiếng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681269+07:00",
+      "fetched": "2026-02-24T15:42:40.681360+07:00"
+    },
+    {
+      "id": "29226132246ee5f5fdb488bf153511ca",
+      "title": "Mexico có hủy tổ chức World Cup 2026 vì bạo động?",
+      "link": "https://tuoitre.vn/mexico-co-huy-to-chuc-world-cup-2026-vi-bao-dong-20260224130759037.htm",
+      "summary": "Hiện tại, những cuộc bạo động tràn lan tại Mexico liên quan đến cái chết của trùm ma túy El Mancho đang dấy lên những lo ngại về khả năng tổ chức World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681170+07:00",
+      "fetched": "2026-02-24T15:42:40.681260+07:00"
+    },
+    {
+      "id": "a988368ac9995d9a0a0adc0f0372ab40",
+      "title": "Ít đường trong 1.000 ngày đầu đời, nguy cơ tim mạch giảm đến 30%",
+      "link": "https://tuoitre.vn/it-duong-trong-1-000-ngay-dau-doi-nguy-co-tim-mach-giam-den-30-2026022410233215.htm",
+      "summary": "Phân tích hơn 63.000 người cho thấy ít đường trong 1.000 ngày đầu đời liên quan đến nguy cơ bệnh tim mạch thấp hơn và thời điểm khởi phát bệnh muộn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.681069+07:00",
+      "fetched": "2026-02-24T15:42:40.681161+07:00"
+    },
+    {
+      "id": "1ee73555001376f980aa80629016450c",
+      "title": "Chiêu thức ác hiểm bị cấm trong truyện Kim Dung, lại hữu dụng ngoài đời",
+      "link": "https://tuoitre.vn/chieu-thuc-ac-hiem-bi-cam-trong-truyen-kim-dung-lai-huu-dung-ngoai-doi-20260224113522807.htm",
+      "summary": "Dù luôn được đề cao là \"danh môn chánh phái\", võ thuật phái Võ Đang cũng có chiêu thức bị Kim Dung mô tả là \"quá ác hiểm, không được phép sử dụng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.680965+07:00",
+      "fetched": "2026-02-24T15:42:40.681061+07:00"
+    },
+    {
+      "id": "6b8be62976f5d8d7f2022a49c5795f7a",
+      "title": "Không thi đánh giá năng lực có được xét tuyển vào Trường ĐH Khoa học xã hội và Nhân văn?",
+      "link": "https://tuoitre.vn/khong-thi-danh-gia-nang-luc-co-duoc-xet-tuyen-vo-truong-dh-khoa-hoc-xa-hoi-va-nhan-van-20260224114759718.htm",
+      "summary": "Trường đại học Khoa học xã hội và Nhân văn (Đại học Quốc gia TP.HCM) tuyển sinh theo phương thức xét tuyển tổng hợp. Thí sinh không thi đánh giá năng lực liệu có giảm cơ hội trúng tuyển?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.680858+07:00",
+      "fetched": "2026-02-24T15:42:40.680956+07:00"
+    },
+    {
+      "id": "de99c26a44243f64d7f1ceb07d6258b6",
+      "title": "Đề nghị ứng viên đại biểu Quốc hội không hứa hẹn vượt quá khả năng",
+      "link": "https://tuoitre.vn/de-nghi-ung-vien-dai-bieu-quoc-hoi-noi-dung-noi-trung-khong-hua-hen-vuot-qua-kha-nang-20260224135131852.htm",
+      "summary": "Với các cán bộ ứng cử đại biểu Quốc hội, Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị cần chuẩn bị kỹ lưỡng, nói đúng, nói trúng, nói đi đôi với làm, không hứa hẹn vượt quá khả năng thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.680728+07:00",
+      "fetched": "2026-02-24T15:42:40.680848+07:00"
+    },
+    {
+      "id": "c81446738ef3a3facccd103910228306",
+      "title": "Nữ sinh cứu bà lão ngã xe giữa đường, bị đòi bồi thường hàng trăm triệu: Luật sư nói gì?",
+      "link": "https://tuoitre.vn/nu-sinh-cuu-ba-lao-nga-xe-giua-duong-bi-doi-boi-thuong-hang-tram-trieu-luat-su-noi-gi-20260224090820949.htm",
+      "summary": "Thấy cụ bà ngã giữa đường, 2 nữ sinh Trung Quốc đã dừng xe đạp điện để giúp đỡ, không ngờ sau đó bị chính nạn nhân kiện ngược đòi bồi thường với số tiền tương đương hàng trăm triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.680602+07:00",
+      "fetched": "2026-02-24T15:42:40.680719+07:00"
+    },
+    {
+      "id": "bb328f643d28be867d2a74cd874196a1",
+      "title": "Thu Trang nói gì khi bị đồn xích mích đoàn phim 'Mùi phở' và NSND Xuân Hinh?",
+      "link": "https://tuoitre.vn/thu-trang-noi-gi-khi-bi-don-xich-mich-doan-phim-mui-pho-va-nsnd-xuan-hinh-20260224135131922.htm",
+      "summary": "Hôm 23-2, diễn viên Thu Trang lên tiếng trước lời đồn về việc cô không tham gia quảng bá phim 'Mùi phở' trong thời gian chiếu Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T15:42:40.680371+07:00",
+      "fetched": "2026-02-24T15:42:40.680589+07:00"
+    },
     {
       "id": "cf39d6eb57bee3f976322c9f871c7f31",
       "title": "Futsal nữ Việt Nam đấu Úc (hiệp 1): 0-0",
@@ -401,6 +551,346 @@ window.newsData_2026_02_24 = {
       "category": "Tổng hợp",
       "published": "2026-02-24T08:54:06.164988+07:00",
       "fetched": "2026-02-24T08:54:06.165199+07:00"
+    },
+    {
+      "id": "a4c15e7261494e6d2dc80659584fdc02",
+      "title": "Trường ĐH Cảnh sát nhân dân không dùng riêng điểm thi tốt nghiệp THPT để tuyển sinh",
+      "link": "https://thanhnien.vn/truong-dh-canh-sat-nhan-dan-khong-dung-rieng-diem-thi-tot-nghiep-thpt-de-tuyen-sinh-185260224145905882.htm",
+      "summary": "Năm 2026, kết quả thi tốt nghiệp THPT không được sử dụng như một phương thức tuyển sinh độc lập để xét tuyển vào Trường ĐH Cảnh sát nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:41:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547089+07:00"
+    },
+    {
+      "id": "a8314f70552128ccfeb5c0b0daf5271a",
+      "title": "Đại tướng Phan Văn Giang: Tiếp tục điều chỉnh tổ chức quân đội giai đoạn 2026 - 2030",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-tiep-tuc-dieu-chinh-to-chuc-quan-doi-giai-doan-2026-2030-185260224145217134.htm",
+      "summary": "Ngày 24.2, tại Hà Nội, Bộ Quốc phòng tổ chức hội nghị giao ban đầu xuân Bính Ngọ 2026 theo hình thức trực tiếp kết hợp trực tuyến với 49 điểm cầu trong toàn quân. Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, chủ trì hội nghị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:31:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547235+07:00"
+    },
+    {
+      "id": "c0e47d61869f03b616a907749cca2791",
+      "title": "Mới tháng 2 đã nắng cháy da, nhiều người bị 'sốc nhiệt' vì quá nóng",
+      "link": "https://thanhnien.vn/moi-thang-2-da-nang-chay-da-nhieu-nguoi-bi-soc-nhiet-vi-qua-nong-185260224150615557.htm",
+      "summary": "Chưa bước vào cao điểm mùa khô, TP.HCM đã xuất hiện những ngày nắng gắt trên 34 độ C. Nhiều người than mệt, chóng mặt, ngại ra ngoài vì ngại nắng nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:22:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547367+07:00"
+    },
+    {
+      "id": "91ca74341a6d1cf9c9f453a5853aea13",
+      "title": "Lòng đỏ trứng: 'Thủ phạm' tăng cholesterol hay kho dinh dưỡng?",
+      "link": "https://thanhnien.vn/long-do-trung-thu-pham-tang-cholesterol-hay-kho-dinh-duong-185260224151943233.htm",
+      "summary": "Trứng từ lâu được xem là thực phẩm giàu dinh dưỡng. Nhiều người ăn trứng để bổ sung đạm, tăng năng lượng và hỗ trợ kiểm soát cân nặng. Tuy nhiên, không ít người chỉ ăn lòng trắng và bỏ lòng đỏ trứng vì lo ngại cholesterol.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:19:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547495+07:00"
+    },
+    {
+      "id": "f930a9bdd394984a7b5d00ba277d4c60",
+      "title": "Lộ thời điểm CAS phán quyết ‘số phận’ FAM và 7 cầu thủ nhập tịch lậu: Trận tái đấu Việt Nam sẽ…",
+      "link": "https://thanhnien.vn/lo-thoi-diem-cas-phan-quyet-so-phan-fam-va-7-cau-thu-nhap-tich-lau-tran-tai-dau-viet-nam-se-185260224150444438.htm",
+      "summary": "Theo Harian Metro, phiên điều trần ở CAS ở diễn ra ngày 26.2 và Liên đoàn Bóng đá Malaysia (FAM) chỉ cử bộ phận pháp lý tham dự để xử lý vụ việc, qua đó đang bị đặt dấu hỏi về khả năng thắng kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:18:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547617+07:00"
+    },
+    {
+      "id": "40bd0b5cacc91d42070bbeeca5b5798d",
+      "title": "Thủ tướng: Phải có lời giải thỏa đáng cho những câu hỏi lớn",
+      "link": "https://vnexpress.net/thu-tuong-phai-co-loi-giai-thoa-dang-cho-nhung-cau-hoi-lon-5043576.html",
+      "summary": "Thủ tướng Phạm Minh Chính cho rằng phải có lời giải thỏa đáng cho những câu hỏi lớn như thoát bẫy thu nhập trung bình, mô hình quản trị đất nước, xây dựng hệ giá trị quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:12:13+07:00",
+      "fetched": "2026-02-24T15:42:35.949080+07:00"
+    },
+    {
+      "id": "5eea4d7c600e3241b13eb1c8c25f57d0",
+      "title": "Venezuela yêu cầu Mỹ lập tức thả ông Nicolas Maduro",
+      "link": "https://thanhnien.vn/venezuela-yeu-cau-my-lap-tuc-tha-ong-nicolas-maduro-185260224150708904.htm",
+      "summary": "Ngoại trưởng Venezuela Yvan Gil Pinto yêu cầu Mỹ trả tự do ngay lập tức cho ông Nicolas Maduro, cáo buộc Mỹ có hành động quân sự bất hợp pháp chống lại Venezuela và bắt giữ tùy tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:11:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547738+07:00"
+    },
+    {
+      "id": "d4bea6afabeed50a42ed18aec5b12b13",
+      "title": "Thu Trang làm rõ tin đồn bất hòa với ê kíp phim tết",
+      "link": "https://thanhnien.vn/thu-trang-lam-ro-tin-don-bat-hoa-voi-e-kip-phim-tet-185260224150542091.htm",
+      "summary": "Thu Trang buồn vì những tin đồn thất thiệt liên quan đến dự án phim 'Mùi phở'. Cô khẳng định bản thân vẫn cố gắng quảng bá tác phẩm điện ảnh của Minh Beta đến với khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:08:00+07:00",
+      "fetched": "2026-02-24T15:42:39.547884+07:00"
+    },
+    {
+      "id": "c015164e91631d385f20de4b4f146bcc",
+      "title": "James Cameron cảnh báo việc sáp nhập Netflix và Warner Bros. sẽ là 'thảm họa điện ảnh'",
+      "link": "https://thanhnien.vn/james-cameron-canh-bao-viec-sap-nhap-netflix-va-warner-bros-se-la-tham-hoa-dien-anh-185260224144116759.htm",
+      "summary": "Nhà làm phim James Cameron vừa lên tiếng phản đối kế hoạch Netflix mua lại Warner Bros., cho rằng thương vụ trị giá hàng chục tỉ USD này có thể gây ra những hệ lụy nghiêm trọng đối với ngành công nghiệp điện ảnh và hệ thống rạp chiếu, Daily Mail đưa tin ngày 23.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:05:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548005+07:00"
+    },
+    {
+      "id": "e8051bf76287449c8980103cfccc722d",
+      "title": "Lý do điện thoại Xiaomi bản Trung Quốc luôn có pin lớn hơn bản toàn cầu",
+      "link": "https://thanhnien.vn/ly-do-dien-thoai-xiaomi-ban-trung-quoc-luon-co-pin-lon-hon-ban-toan-cau-185260224092457119.htm",
+      "summary": "Các mẫu điện thoại Xiaomi ra mắt tại Trung Quốc thường có dung lượng pin lớn hơn so với các phiên bản tương tự được bán trên thị trường toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:04:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548127+07:00"
+    },
+    {
+      "id": "b753c48e60a0ae6850a9018cbae3bec5",
+      "title": "Mỹ chậm tấn công Iran vì nhà vệ sinh trên tàu sân bay bị tắc nghẽn?",
+      "link": "https://thanhnien.vn/my-cham-tan-cong-iran-vi-nha-ve-sinh-tren-tau-san-bay-bi-tac-nghen-185260224144437403.htm",
+      "summary": "Tàu sân bay USS Gerald R. Ford của Mỹ gặp vấn đề về thoát nước thải tại các nhà vệ sinh, ảnh hưởng đến sinh hoạt của thủy thủ đoàn và làm rộ lên đồn đoán sự cố này đang cản trở khả năng Mỹ tấn công Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:03:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548254+07:00"
+    },
+    {
+      "id": "94479dd991cae74e2467efcb146d754d",
+      "title": "BAFTA xin lỗi vì khách mời phát ngôn thô tục",
+      "link": "https://vnexpress.net/bafta-xin-loi-vi-khach-moi-phat-ngon-tho-tuc-5043362.html",
+      "summary": "Viện Hàn lâm Anh nhận trách nhiệm vụ khách mời phát ngôn khiếm nhã tại lễ trao giải BAFTA, được cho là do người này mắc chứng mất kiểm soát ngôn từ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:02:19+07:00",
+      "fetched": "2026-02-24T15:42:35.949247+07:00"
+    },
+    {
+      "id": "c7ceedcec092ea323cba3fce3112b714",
+      "title": "Tổn thất Nga - Ukraine hứng chịu qua 4 năm chiến sự",
+      "link": "https://vnexpress.net/ton-that-nga-ukraine-hung-chiu-qua-4-nam-chien-su-5043419.html",
+      "summary": "4 năm chiến sự đã gây thiệt hại khổng lồ cho Nga và Ukraine cả về con người lẫn kinh tế, song xung đột vẫn chưa có dấu hiệu dừng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:09+07:00",
+      "fetched": "2026-02-24T15:42:35.949386+07:00"
+    },
+    {
+      "id": "c7ceedcec092ea323cba3fce3112b714",
+      "title": "Tổn thất Nga - Ukraine hứng chịu qua 4 năm chiến sự",
+      "link": "https://vnexpress.net/ton-that-nga-ukraine-hung-chiu-qua-4-nam-chien-su-5043419.html",
+      "summary": "4 năm chiến sự đã gây thiệt hại khổng lồ cho Nga và Ukraine cả về con người lẫn kinh tế, song xung đột vẫn chưa có dấu hiệu dừng lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T08:00:09+07:00",
+      "fetched": "2026-02-24T15:42:42.520402+07:00"
+    },
+    {
+      "id": "dcace2ceed6ca62fd84222d03e174ed0",
+      "title": "Robot Trung Quốc khiến cô giúp việc nhà tôi lo lắng",
+      "link": "https://vnexpress.net/robot-trung-quoc-ai-chatgpt-viec-lam-nguoi-lao-dong-5043460.html",
+      "summary": "Người lao động trí óc và chân tay sẽ đứng ở đâu trước làn sóng ứng dụng AI và robot hình người?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.949517+07:00"
+    },
+    {
+      "id": "7da477dad7308feb3431472526a2e45c",
+      "title": "Nửa đời còn lại dành cho em, trọn đời bình yên có nhau",
+      "link": "https://vnexpress.net/nua-doi-con-lai-danh-cho-em-tron-doi-binh-yen-co-nhau-5043409.html",
+      "summary": "Gửi em - người phụ nữ đang kiên nhẫn tìm kiếm một mảnh ghép thật sự vừa vặn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.949606+07:00"
+    },
+    {
+      "id": "80eff7167c72e92a0ddea605202bd196",
+      "title": "Vì sao trẻ tăng cân nhanh, rối loạn nội tiết sau Tết?",
+      "link": "https://vnexpress.net/vi-sao-tre-tang-can-nhanh-roi-loan-noi-tiet-sau-tet-5043556.html",
+      "summary": "Con gái tôi 13 tuổi, sau kỳ nghỉ Tết đã tăng 3 kg, rối loạn kinh nguyệt. Nguyên nhân có phải do chế độ ăn uống thất thường, nên điều chỉnh cho bé thế nào? (Mỹ Hà, tỉnh Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.949750+07:00"
+    },
+    {
+      "id": "6509036c556710d98cd5cdf5ecd1d441",
+      "title": "KDI đặt mục tiêu tăng chất lượng vận hành đa ngành",
+      "link": "https://vnexpress.net/kdi-dat-muc-tieu-tang-chat-luong-van-hanh-da-nganh-5043551.html",
+      "summary": "Tập đoàn KDI định hướng tập trung nâng cao chất lượng vận hành, tạo dòng tiền bền vững từ du lịch - dịch vụ, tăng giá trị sử dụng của sản phẩm trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.949900+07:00"
+    },
+    {
+      "id": "99996dab514b22dadd2511b09ad322a5",
+      "title": "Phòng khô mắt, tránh giảm thị lực",
+      "link": "https://vnexpress.net/phong-kho-mat-tranh-giam-thi-luc-5043406.html",
+      "summary": "Khám mắt định kỳ, mang kính râm khi ra ngoài nắng, uống đủ nước và tránh tiếp xúc với khói thuốc có thể phòng khô mắt, giữ đôi mắt khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.950028+07:00"
+    },
+    {
+      "id": "707f37848aad9f258fcda301d4b50972",
+      "title": "Fesco tăng gần 20% công suất vận chuyển trên tuyến Ấn Độ - Nga",
+      "link": "https://vnexpress.net/fesco-tang-gan-20-cong-suat-van-chuyen-tren-tuyen-an-do-nga-5040135.html",
+      "summary": "Tập đoàn Vận tải Fesco của Nga tăng công suất trên tuyến Fesco Indian Line West (FIL-W), củng cố mạng lưới vận chuyển container giữa cảng Novorossiysk với Ấn Độ, Trung Đông và khu vực Biển Đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T08:00:00+07:00",
+      "fetched": "2026-02-24T15:42:35.950158+07:00"
+    },
+    {
+      "id": "ac8959cfde3bbea1adb71f8ca04e096f",
+      "title": "Nissan Gravite - MPV 7 chỗ giá từ 6.200 USD",
+      "link": "https://vnexpress.net/nissan-gravite-mpv-7-cho-gia-tu-6-200-usd-5043456.html",
+      "summary": "Mẫu xe đa dụng 7 chỗ của Nissan phát triển dựa trên mẫu Renault Triber nhưng mang vẻ hiện đại với kiểu dáng lai crossover.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:59:52+07:00",
+      "fetched": "2026-02-24T15:42:35.950286+07:00"
+    },
+    {
+      "id": "3b465a07bb08546308c80fe79f93c45c",
+      "title": "THACO tham vọng thành lập thương hiệu ô tô du lịch riêng, nối gót VinFast",
+      "link": "https://thanhnien.vn/thaco-tham-vong-thanh-lap-thuong-hieu-o-to-du-lich-rieng-noi-got-vinfast-185260224135540928.htm",
+      "summary": "Nếu kế hoạch phát triển thương hiệu ô tô riêng và ra mắt sản phẩm vào năm 2027 của THACO trở thành hiện thực, thị trường sẽ có hãng xe nội địa thứ hai sau VinFast, kỳ vọng mở ra bước ngoặt mới cho ngành công nghiệp ô tô Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:58:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548377+07:00"
+    },
+    {
+      "id": "96dcc62f5859871d509b4796f0a33147",
+      "title": "Hé lộ công năng cực 'xịn' của lỗ bé xíu cạnh camera iPhone",
+      "link": "https://thanhnien.vn/he-lo-cong-nang-cuc-xin-cua-lo-be-xiu-canh-camera-iphone-185260224082600516.htm",
+      "summary": "Nhiều người dùng vẫn chưa biết chiếc lỗ nhỏ bên cạnh camera sau iPhone sinh ra để làm gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:58:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548510+07:00"
+    },
+    {
+      "id": "28cf64a4588d2fb9eff44a541fce9df5",
+      "title": "3 phân khúc ô tô dự báo được người Việt ưa chuộng nhất năm 2026",
+      "link": "https://thanhnien.vn/3-phan-khuc-o-to-du-bao-duoc-nguoi-viet-ua-chuong-nhat-nam-2026-185260219083430012.htm",
+      "summary": "Nhu cầu sử dụng thực tế đang định hình lại thị trường ô tô Việt Nam. Trong bối cảnh đó, ba phân khúc xe gồm SUV đô thị, xe gia đình cỡ nhỏ 7 chỗ và crossover cỡ trung với lợi thế về tính đa dụng, hợp xu hướng dự báo tiếp tục được ưa chuộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:54:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548632+07:00"
+    },
+    {
+      "id": "82b938f8eb9c6f3ddff9aed328a47fa0",
+      "title": "Vì sao da sau mụn dễ thâm và để lại sẹo?",
+      "link": "https://thanhnien.vn/vi-sao-da-sau-mun-de-tham-va-de-lai-seo-185260224150403987.htm",
+      "summary": "Sau mụn, làn da không chỉ yếu hơn mà còn dễ xuất hiện thâm sậm màu và thay đổi cấu trúc bề mặt, đòi hỏi hiểu đúng cơ chế sinh học để có hướng chăm sóc phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:48:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548747+07:00"
+    },
+    {
+      "id": "6698a9dc4cb77e0dc66ded64c787bd73",
+      "title": "Trái tim xuyên Việt hồi sinh bé 11 tuổi",
+      "link": "https://vnexpress.net/trai-tim-xuyen-viet-hoi-sinh-be-11-tuoi-5043560.html",
+      "summary": "Các bác sĩ Bệnh viện Đại học Y Dược TP HCM thực hiện thành công ca ghép tim từ một người hiến tại Hà Nội hồi sinh em bé 11 tuổi, rạng sáng mùng 7 Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:47:37+07:00",
+      "fetched": "2026-02-24T15:42:35.950406+07:00"
+    },
+    {
+      "id": "8148e5c9f1927cba884aef623daaf6d3",
+      "title": "Cuộc bầu cử như 'kỳ sát hạch' để mỗi ứng viên rèn luyện bản lĩnh chính trị",
+      "link": "https://thanhnien.vn/cuoc-bau-cu-nhu-ky-sat-hach-de-moi-ung-vien-ren-luyen-ban-linh-chinh-tri-185260224142412412.htm",
+      "summary": "Phó chủ tịch Ủy ban Trung ương MTTQ Việt Nam Hoàng Công Thủy nhấn mạnh mỗi ứng cử viên đại biểu Quốc hội khóa XVI, đại biểu Hội đồng nhân dân các cấp có thể coi đây là một kỳ sát hạch, là cơ hội để rèn luyện bản lĩnh chính trị, chuyên môn vững vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:47:00+07:00",
+      "fetched": "2026-02-24T15:42:39.548885+07:00"
+    },
+    {
+      "id": "d94039f736a022f7bcce27c6bb890b03",
+      "title": "Tưởng làm giàu từ cờ bạc, tôi trắng tay ngay sau lần đầu thắng",
+      "link": "https://vnexpress.net/tuong-lam-giau-tu-co-bac-toi-trang-tay-ngay-sau-lan-dau-thang-5043546.html",
+      "summary": "Tôi không vay tiền ai, cũng không nợ nần gì nhưng toàn bộ tiền tiết kiệm đã \"bay\" hết trong vòng hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:41:31+07:00",
+      "fetched": "2026-02-24T15:42:35.950535+07:00"
+    },
+    {
+      "id": "c6b2e07ade4b7a316f85adafa128a90d",
+      "title": "Con gái 13 tuổi cao 1,75 m của Hoa hậu Thùy Lâm",
+      "link": "https://vnexpress.net/con-gai-13-tuoi-cao-1-75-m-cua-hoa-hau-thuy-lam-5043323.html",
+      "summary": "Bé Mon - 13 tuổi, con út của Hoa hậu Thùy Lâm - gây chú ý khán giả với chiều cao 1,75 m, vượt hơn mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:40:07+07:00",
+      "fetched": "2026-02-24T15:42:35.950658+07:00"
+    },
+    {
+      "id": "8f1ac927c2cc2228393e75ca46a1dc09",
+      "title": "Điểm du lịch 'trả giá' vì quá đẹp",
+      "link": "https://vnexpress.net/diem-du-lich-tra-gia-vi-qua-dep-5043532.html",
+      "summary": "Từng là một ngôi làng hẻo lánh và yên bình, Santa Maddalena hiện phải đối mặt với tình trạng quá tải và sự thiếu ý thức của du khách trong cơn sốt \"sống ảo\"",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:40:06+07:00",
+      "fetched": "2026-02-24T15:42:35.950781+07:00"
+    },
+    {
+      "id": "1a9504b982fdd33599e17974ea527241",
+      "title": "Cần thay đổi cách đặt vấn đề tạo đột phá cho khoa học công nghệ",
+      "link": "https://vnexpress.net/can-thay-doi-cach-dat-van-de-tao-dot-pha-cho-khoa-hoc-cong-nghe-5043566.html",
+      "summary": "Cần thay đổi cách đặt vấn đề về khoa học công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-24T07:39:07+07:00",
+      "fetched": "2026-02-24T15:42:35.950875+07:00"
+    },
+    {
+      "id": "095c2cfeb964624eecef403d9382a069",
+      "title": "Neville: 'Man Utd có thể về ba Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/neville-man-utd-co-the-ve-ba-ngoai-hang-anh-5043484.html",
+      "summary": "Gary Neville tin Man Utd đủ sức vươn lên thứ ba Ngoại hạng Anh, trong khi Jamie Carragher cho rằng \"Quỷ Đỏ\" gần như chắc suất dự Champions League mùa tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-24T07:20:34+07:00",
+      "fetched": "2026-02-24T15:42:50.202726+07:00"
+    },
+    {
+      "id": "4402093a96bd865173ef2ad09a0c4b29",
+      "title": "Tàu ngầm hạt nhân mới của Trung Quốc lần đầu lộ diện",
+      "link": "https://vnexpress.net/tau-ngam-hat-nhan-moi-cua-trung-quoc-lan-dau-lo-dien-5043480.html",
+      "summary": "Ảnh vệ tinh cho thấy tàu ngầm hạt nhân lớp Type-095 Trung Quốc, ứng dụng thiết kế mới, được hạ thủy tại nhà máy đóng tàu ở tỉnh Liêu Ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T07:17:34+07:00",
+      "fetched": "2026-02-24T15:42:42.520556+07:00"
+    },
+    {
+      "id": "e9d4ee6f9b7c78158a241e26f55a71bc",
+      "title": "Canada sắp viện trợ cho Cuba giữa khủng hoảng nhiên liệu",
+      "link": "https://vnexpress.net/canada-sap-vien-tro-cho-cuba-giua-khung-hoang-nhien-lieu-5043467.html",
+      "summary": "Chính phủ Canada thông báo đang chuẩn bị kế hoạch hỗ trợ Cuba trong bối cảnh đảo quốc thiếu hụt nhiên liệu trầm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-24T07:04:54+07:00",
+      "fetched": "2026-02-24T15:42:42.520700+07:00"
     },
     {
       "id": "b8bf5e928f29b399c7613f3467b621b5",
