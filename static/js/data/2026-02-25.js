@@ -1,7 +1,17 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T19:59:05.171479+07:00",
+  "lastUpdated": "2026-02-25T21:45:18.830941+07:00",
   "articles": [
+    {
+      "id": "522e1ef384a13bb879ddb05e8810ce0e",
+      "title": "Phó chủ tịch thường trực UBND TP.HCM Nguyễn Lộc Hà thăm, chúc Tết Nutifood và Kumho",
+      "link": "https://tuoitre.vn/pho-chu-tich-thuong-truc-ubnd-tp-hcm-nguyen-loc-ha-tham-chuc-tet-nutifood-va-kumho-20260225191914646.htm",
+      "summary": "Dự kiến sẽ khánh thành cầu đi bộ qua sông Sài Gòn dịp 2-9, đại diện  Nutifood cho biết tại buổi làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T21:45:12.678497+07:00",
+      "fetched": "2026-02-25T21:45:12.678704+07:00"
+    },
     {
       "id": "ae0be0be5b1893fc2ac4425ac7e947a0",
       "title": "Giá vàng miếng SJC tăng thêm 700.000 đồng/lượng trước ngày Thần Tài",
@@ -333,6 +343,76 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T15:44:01.216840+07:00"
     },
     {
+      "id": "724b9ca353567fb06d71b9b9d42f45c3",
+      "title": "Xôn xao vụ tấn công hàng xóm ở TP.HCM, nghi do tranh chấp đất đai",
+      "link": "https://thanhnien.vn/xon-xao-vu-tan-cong-hang-xom-o-tphcm-nghi-do-tranh-chap-dat-dai-18526022520094646.htm",
+      "summary": "Ngày 25.2, Công an xã Phú Hòa Đông (TP.HCM) đang phối hợp các đơn vị liên quan điều tra, làm rõ vụ ông Trương Duy Khánh (55 tuổi, ở xã Phú Hòa Đông) trình báo bị người phụ nữ tấn công gây thương tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:31:00+07:00",
+      "fetched": "2026-02-25T21:45:11.302715+07:00"
+    },
+    {
+      "id": "c2def637ed74191a6ce86d8bd1a411bf",
+      "title": "Ông Trump ca ngợi ‘thời kỳ hoàng kim’ trong thông điệp liên bang dài nhất lịch sử",
+      "link": "https://thanhnien.vn/ong-trump-ca-ngoi-thoi-ky-hoang-kim-trong-thong-diep-lien-bang-dai-nhat-lich-su-185260225195055242.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 24.2 tự hào tuyên bố ông đã mở ra ‘thời kỳ hoàng kim của nước Mỹ’, nhằm tạo dựng hình ảnh thành công bất chấp tỷ lệ ủng hộ giảm sút và sự thất vọng ngày càng tăng của cử tri trước cuộc bầu cử giữa nhiệm kỳ vào tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:21:00+07:00",
+      "fetched": "2026-02-25T21:45:11.302905+07:00"
+    },
+    {
+      "id": "ad65316816827c2bee3a77429e554d19",
+      "title": "Chủ tịch Cung điện Versailles tiếp quản bảo tàng Louvre",
+      "link": "https://thanhnien.vn/chu-tich-cung-dien-versailles-tiep-quan-bao-tang-louvre-185260225204555935.htm",
+      "summary": "Chính phủ Pháp ngày 25.2 đã bổ nhiệm ông Christophe Leribault làm tân Giám đốc bảo tàng Louvre, sau vụ trộm trang sức 100 triệu USD gây chấn động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:09:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303067+07:00"
+    },
+    {
+      "id": "7134c06144d7dadef20fa71f96e943f8",
+      "title": "Nga phạt Telegram 7 triệu ruble, quân đội nêu lý do không sử dụng",
+      "link": "https://thanhnien.vn/nga-phat-telegram-7-trieu-ruble-quan-doi-neu-ly-do-khong-su-dung-185260225200835959.htm",
+      "summary": "Tòa án tại Nga đã phạt Công ty Telegram 7 triệu ruble (khoảng 2,3 tỉ đồng) do nền tảng mạng xã hội này không gỡ bỏ những nội dung phi pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:08:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303222+07:00"
+    },
+    {
+      "id": "4a3e76ba3a36a02d33fe21a7dac2efa1",
+      "title": "Nghệ thuật tạo điểm nhấn của ông Trump trong Thông điệp Liên bang",
+      "link": "https://vnexpress.net/nghe-thuat-tao-diem-nhan-cua-ong-trump-trong-thong-diep-lien-bang-5044037.html",
+      "summary": "Bên cạnh các thông tin chính sách khô khan, ông Trump biết cách tạo kịch tính cho Thông điệp Liên bang bằng nhiều yếu tố bất ngờ, khiến cả khán phòng hưởng ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.936546+07:00"
+    },
+    {
+      "id": "92d7d759d7793510ac992715bac2dac0",
+      "title": "Du khách bị cấm mang gì khi nhập cảnh Nhật Bản?",
+      "link": "https://vnexpress.net/du-khach-bi-cam-mang-gi-khi-nhap-canh-nhat-ban-5015659.html",
+      "summary": "Tôi sắp đi Nhật Bản ngắm hoa anh đào nhưng không biết hàng hóa nào bị cấm mang vào nước bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T14:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.936732+07:00"
+    },
+    {
+      "id": "4a3e76ba3a36a02d33fe21a7dac2efa1",
+      "title": "Nghệ thuật tạo điểm nhấn của ông Trump trong Thông điệp Liên bang",
+      "link": "https://vnexpress.net/nghe-thuat-tao-diem-nhan-cua-ong-trump-trong-thong-diep-lien-bang-5044037.html",
+      "summary": "Bên cạnh các thông tin chính sách khô khan, ông Trump biết cách tạo kịch tính cho Thông điệp Liên bang bằng nhiều yếu tố bất ngờ, khiến cả khán phòng hưởng ứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T14:00:00+07:00",
+      "fetched": "2026-02-25T21:45:14.026354+07:00"
+    },
+    {
       "id": "39c3a856369c175d817c19376e956d3f",
       "title": "Thủ tướng: Không để chậm trễ trong việc báo cáo thành lập sàn giao dịch vàng quốc gia",
       "link": "https://tuoitre.vn/thu-tuong-khong-de-cham-tre-trong-viec-bao-cao-thanh-lap-san-giao-dich-vang-quoc-gia-20260225114654831.htm",
@@ -483,6 +563,196 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T13:59:00.591259+07:00"
     },
     {
+      "id": "6b8dba51e1e63847bb958bbe33e7acd3",
+      "title": "Panasonic chuyển giao sản xuất TV cho công ty Trung Quốc",
+      "link": "https://thanhnien.vn/panasonic-chuyen-giao-san-xuat-tv-cho-cong-ty-trung-quoc-185260225185953168.htm",
+      "summary": "Kể từ nay, tất cả các sản phẩm TV mang thương hiệu Panasonic sẽ được sản xuất, tiếp thị và phân phối bởi công ty Skyworth đến từ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:59:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303373+07:00"
+    },
+    {
+      "id": "c6b4a10e9de121db0000598989f87b16",
+      "title": "Cần lưu ý điều gì khi cho người khác mượn vàng để tránh rắc rối?",
+      "link": "https://vnexpress.net/can-luu-y-dieu-gi-khi-cho-nguoi-khac-muon-vang-de-tranh-rac-roi-5043570.html",
+      "summary": "Vợ chồng anh trai tôi đang chuẩn bị mua nhà để ra ở riêng. Mới đây, anh ấy ngỏ lời muốn mượn tôi từ 3 đến 4 cây vàng thì mới đủ tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:55:00+07:00",
+      "fetched": "2026-02-25T21:45:07.936922+07:00"
+    },
+    {
+      "id": "adbaab71ce2d2297305a64f33dbc8bf0",
+      "title": "Ngày thơ Việt Nam 2026 'đến' Quảng Ninh vào rằm tháng giêng",
+      "link": "https://thanhnien.vn/ngay-tho-viet-nam-2026-den-quang-ninh-vao-ram-thang-gieng-185260225203718465.htm",
+      "summary": "Ngày thơ Việt Nam lần thứ 24 do Hội Nhà văn Việt Nam tổ chức sẽ diễn ra tại Hạ Long, Quảng Ninh với chủ đề đầy khát vọng: 'Trước biển lớn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:50:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303526+07:00"
+    },
+    {
+      "id": "dbf79f409de1c710ce0c001f14366a5a",
+      "title": "Đà Nẵng: Dọa tung video nhạy cảm, ép bạn gái cũ quan hệ tình dục",
+      "link": "https://thanhnien.vn/da-nang-doa-tung-video-nhay-cam-ep-ban-gai-cu-quan-he-tinh-duc-185260225191620337.htm",
+      "summary": "Bị chia tay, nam thanh niên 20 tuổi dùng các video nhạy cảm quay trong thời gian yêu đương để đe dọa, ép bạn gái cũ tiếp tục quan hệ tình dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:34:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303676+07:00"
+    },
+    {
+      "id": "9cc0d00d937502726bc70b79ff346ff8",
+      "title": "Đoạt mạng vợ trong cuộc ẩu đả",
+      "link": "https://vnexpress.net/doat-mang-vo-trong-cuoc-au-da-5044107.html",
+      "summary": "Nguyễn Xuân Sáu, 56 tuổi, bị phạt 12 năm tù vì cầm dao đâm chết vợ trong cuộc ẩu đả sau khi bị nạn nhân dùng quạt điện đánh trúng đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:33:09+07:00",
+      "fetched": "2026-02-25T21:45:07.937085+07:00"
+    },
+    {
+      "id": "f9f76ac533353519f7adbbfbfd217ab4",
+      "title": "Australia đề nghị thân nhân các nhà ngoại giao ở Trung Đông sơ tán",
+      "link": "https://vnexpress.net/australia-de-nghi-than-nhan-cac-nha-ngoai-giao-o-trung-dong-so-tan-5044101.html",
+      "summary": "Chính phủ Australia đề nghị thân nhân các nhà ngoại giao và quan chức tại một số nước Trung Đông tự nguyện sơ tán do lo ngại căng thẳng Mỹ - Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:26:06+07:00",
+      "fetched": "2026-02-25T21:45:07.937245+07:00"
+    },
+    {
+      "id": "f9f76ac533353519f7adbbfbfd217ab4",
+      "title": "Australia đề nghị thân nhân các nhà ngoại giao ở Trung Đông sơ tán",
+      "link": "https://vnexpress.net/australia-de-nghi-than-nhan-cac-nha-ngoai-giao-o-trung-dong-so-tan-5044101.html",
+      "summary": "Chính phủ Australia đề nghị thân nhân các nhà ngoại giao và quan chức tại một số nước Trung Đông tự nguyện sơ tán do lo ngại căng thẳng Mỹ - Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T13:26:06+07:00",
+      "fetched": "2026-02-25T21:45:14.026528+07:00"
+    },
+    {
+      "id": "3a6bd98483ad4655d81e2fd25a118159",
+      "title": "Đồng Tháp: Tạm giữ nghi phạm ghen tuông đâm 'người tình' cũ tử vong",
+      "link": "https://thanhnien.vn/dong-thap-tam-giu-nghi-pham-ghen-tuong-dam-nguoi-tinh-cu-tu-vong-185260225194102219.htm",
+      "summary": "Ghen tuông, dùng dao đâm nhiều nhát khiến 'người tình' cũ tử vong, người đàn ông quê An Giang bị Công an tỉnh Đồng Tháp tạm giữ hình sự để điều tra về hành vi giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:24:00+07:00",
+      "fetched": "2026-02-25T21:45:11.303844+07:00"
+    },
+    {
+      "id": "ec3cadec040a8a26189d3e96a31d1dcf",
+      "title": "Bệnh viện 108 phá 'rào cản' nhóm máu, ghép gan cứu thiếu nữ 17 tuổi",
+      "link": "https://vnexpress.net/benh-vien-108-pha-rao-can-nhom-mau-ghep-gan-cuu-thieu-nu-17-tuoi-5044099.html",
+      "summary": "Bằng cách hạ kháng thể, Bệnh viện 108 ghép gan thành công từ mẹ khác nhóm máu, cứu sống thiếu nữ 17 tuổi, xác lập kỷ lục quốc gia với 1.305 ca ghép tạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:18:37+07:00",
+      "fetched": "2026-02-25T21:45:07.937408+07:00"
+    },
+    {
+      "id": "1d4a6ff863cecc6bda676ba3c0df55c8",
+      "title": "Chồng hoa hậu Đỗ Thị Hà ứng cử đại biểu HĐND Quảng Trị",
+      "link": "https://vnexpress.net/chong-hoa-hau-do-thi-ha-ung-cu-dai-bieu-hdnd-quang-tri-5044102.html",
+      "summary": "Nguyễn Viết Vương, 32 tuổi, chồng hoa hậu Đỗ Thị Hà nằm trong danh sách 104 người ứng cử đại biểu HĐND tỉnh Quảng Trị nhiệm kỳ 2026-2031.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:12:51+07:00",
+      "fetched": "2026-02-25T21:45:07.937572+07:00"
+    },
+    {
+      "id": "4c1d3101d16866054a4a118d88da258a",
+      "title": "Thanh niên đứng trước trụ sở công an, nhận là 'người trong ngành' để lừa đảo",
+      "link": "https://thanhnien.vn/thanh-nien-dung-truoc-tru-so-cong-an-nhan-la-nguoi-trong-nganh-de-lua-dao-185260225182408367.htm",
+      "summary": "Công an phường An Cựu (TP.Huế) vừa làm rõ nghi phạm có hành vi giả danh cán bộ công an để lừa đảo, chiếm đoạt số tiền 4 triệu đồng của một nữ nạn nhân. Hiện đơn vị này củng cố hồ sơ để xử lý nghi phạm theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:02:00+07:00",
+      "fetched": "2026-02-25T21:45:11.304001+07:00"
+    },
+    {
+      "id": "3fe63e9bed5431ea03567fbd1fee0a2e",
+      "title": "Có nên đưa ô tô đi kiểm tra, bảo dưỡng ngay sau tết?",
+      "link": "https://thanhnien.vn/co-nen-dua-o-to-di-kiem-tra-bao-duong-ngay-sau-tet-185260225110408549.htm",
+      "summary": "Ô tô vừa vận hành cường độ cao hoặc \"đắp chiếu\" nhiều ngày sau tết đều có thể phát sinh vấn đề. Song, việc đưa xe đến xưởng kiểm tra, bảo dưỡng ngay hay chờ đến kỳ định sẵn cần được cân nhắc trên cơ sở kỹ thuật, tránh làm theo cảm tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:02:00+07:00",
+      "fetched": "2026-02-25T21:45:11.304152+07:00"
+    },
+    {
+      "id": "80c7a2c3d0108ef514d81f1d7e7f4199",
+      "title": "Người dân nước nào thấp nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-thap-nhat-dong-nam-a-5044080.html",
+      "summary": "Với chiều cao trung bình 160,1 cm với nam và 152,7 cm với nữ, người dân nước này thấp nhất Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.937729+07:00"
+    },
+    {
+      "id": "2bf17aaa2b2eea9acce06097c3ffa611",
+      "title": "'Tôi lãi hơn 1,6 tỷ đồng sau tám năm mua vàng'",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-toi-lai-hon-1-6-ty-dong-sau-tam-nam-mua-vang-5044029.html",
+      "summary": "Nếu tám năm trước, tôi đem 430 triệu đồng đi gửi tiết kiệm ngân hàng, thử hỏi đến nay cộng cả vốn lẫn lời được bao nhiêu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.937911+07:00"
+    },
+    {
+      "id": "52fc75a03864cae4bb1ef65bbd26d299",
+      "title": "Tuyên ngôn thời trang tại sự kiện Thông điệp Liên bang của ông Trump",
+      "link": "https://vnexpress.net/tuyen-ngon-thoi-trang-tai-su-kien-thong-diep-lien-bang-cua-ong-trump-5044023.html",
+      "summary": "Các chính trị gia và người có ảnh hưởng đã sử dụng trang phục để bày tỏ thái độ khi ông Trump đọc Thông điệp Liên bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.938073+07:00"
+    },
+    {
+      "id": "f52abbfe8d33e8d6e4eefd73e53bcbcf",
+      "title": "ColdStar mở trung tâm chuỗi lạnh 20.400 m2 tại Pune",
+      "link": "https://vnexpress.net/coldstar-mo-trung-tam-chuoi-lanh-20-400-m2-tai-pune-5040142.html",
+      "summary": "ColdStar Logistics khai trương cơ sở chuỗi lạnh thứ hai tại thành phố Pune, bang Maharashtra, miền Tây Ấn Độ, mở rộng năng lực phục vụ hàng dễ hỏng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:07.938233+07:00"
+    },
+    {
+      "id": "79cee4b1393a53139ffe8517f906d6e8",
+      "title": "Xem nhanh 20h ngày 25.2: Người dân đi lễ chùa đông nghịt ngày vía Ngọc Hoàng | Mexico đảm bảo World Cup an toàn",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-252-nguoi-dan-di-le-chua-dong-nghit-ngay-via-ngoc-hoang-mexico-dam-bao-world-cup-an-toan-185260225185817686.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 25.2 có nhiều tin tức đáng chú ý về: Dòng người đổ về chùa Ngọc Hoàng ngày vía: Nắng gắt không ngăn được lòng thành; Mexico trấn an an ninh World Cup 2026 sau làn sóng bạo lực vì cái chết của trùm ma túy;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:11.304304+07:00"
+    },
+    {
+      "id": "8f64a031394c9613888632f367adc4ea",
+      "title": "Chuyến du lịch đầu năm thêm sành điệu với quần tất mỏng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chuyen-du-lich-dau-nam-them-sanh-dieu-voi-quan-tat-mong-185260225104952248.htm",
+      "summary": "Quần tất với chất liệu mỏng nhẹ này không nhằm che phủ hoàn toàn mà tạo ra khoảng chuyển tinh tế giữa làn da, phom dáng và sắc độ. Khi được đặt đúng vị trí, quần tất giúp bản phối cá tính giữ được độ mềm mại cần thiết, tránh rơi vào cảm giác phô trương hay đối kháng thẩm mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:11.304465+07:00"
+    },
+    {
+      "id": "52fc75a03864cae4bb1ef65bbd26d299",
+      "title": "Tuyên ngôn thời trang tại sự kiện Thông điệp Liên bang của ông Trump",
+      "link": "https://vnexpress.net/tuyen-ngon-thoi-trang-tai-su-kien-thong-diep-lien-bang-cua-ong-trump-5044023.html",
+      "summary": "Các chính trị gia và người có ảnh hưởng đã sử dụng trang phục để bày tỏ thái độ khi ông Trump đọc Thông điệp Liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T13:00:00+07:00",
+      "fetched": "2026-02-25T21:45:14.026690+07:00"
+    },
+    {
       "id": "9046dcbfee17b15b8c308c7e4a2150c8",
       "title": "Nguyễn Tiến Minh 'khóc ròng' với sự cố bất ngờ ở giải cầu lông quốc tế Singapore",
       "link": "https://thanhnien.vn/nguyen-tien-minh-khoc-rong-voi-su-co-bat-ngo-o-giai-cau-long-quoc-te-singapore-185260225192158624.htm",
@@ -501,6 +771,16 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T12:58:00+07:00",
       "fetched": "2026-02-25T19:58:57.169907+07:00"
+    },
+    {
+      "id": "d32e2e6ddc1ce95389cc3be3ac420c45",
+      "title": "Thủ tướng: Duy trì tối thiểu 3% ngân sách cho chuyển đổi số",
+      "link": "https://vnexpress.net/thu-tuong-duy-tri-toi-thieu-3-ngan-sach-cho-chuyen-doi-so-5044097.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu đảm bảo tối thiểu 3% tổng chi ngân sách nhà nước hằng năm cho chuyển đổi số, ưu tiên đào tạo nhân lực và hoàn thiện khung pháp lý về dữ liệu, trí tuệ nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:57:12+07:00",
+      "fetched": "2026-02-25T21:45:07.938393+07:00"
     },
     {
       "id": "d50cac2a217531de94dc5ef001eb0156",
