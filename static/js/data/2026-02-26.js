@@ -1,6 +1,6 @@
 window.newsData_2026_02_26 = {
   "date": "2026-02-26",
-  "lastUpdated": "2026-02-26T00:05:18.687289+07:00",
+  "lastUpdated": "2026-02-26T02:02:29.027059+07:00",
   "articles": [
     {
       "id": "4d6e092a73e8019f4235b843ce121afa",
@@ -153,6 +153,156 @@ window.newsData_2026_02_26 = {
       "fetched": "2026-02-26T00:05:10.255659+07:00"
     },
     {
+      "id": "7e5f2b650e2acafe2b08c8c00d2235d6",
+      "title": "Phát hiện cách không ngờ để ngừa đau tim, đột quỵ ở tuổi trung niên",
+      "link": "https://thanhnien.vn/phat-hien-cach-khong-ngo-de-ngua-dau-tim-dot-quy-o-tuoi-trung-nien-185260225221615776.htm",
+      "summary": "Hạn chế đường trong 2 - 3 năm đầu đời giúp giảm mạnh tỷ lệ mắc bệnh tim mạch khi trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:00:00+07:00",
+      "fetched": "2026-02-26T02:02:20.780119+07:00"
+    },
+    {
+      "id": "3bc2e8de3e2da80d9a58ced93c17da87",
+      "title": "Sáng nào cũng 1 tô phở: Chuyên gia chỉ điều bất ngờ xảy ra với cơ thể",
+      "link": "https://thanhnien.vn/sang-nao-cung-1-to-pho-chuyen-gia-chi-dieu-bat-ngo-xay-ra-voi-co-the-18526022522143751.htm",
+      "summary": "Phở, món ăn truyền thống đầy hương vị của Việt Nam, có nhiều thành phần dinh dưỡng tốt cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T18:47:00+07:00",
+      "fetched": "2026-02-26T02:02:20.780286+07:00"
+    },
+    {
+      "id": "eb782810b849955916bd4dbd3742068e",
+      "title": "Ăn gừng mỗi ngày có giúp kiểm soát đường huyết hiệu quả?",
+      "link": "https://thanhnien.vn/an-gung-moi-ngay-co-giup-kiem-soat-duong-huyet-hieu-qua-185260226000913503.htm",
+      "summary": "Gừng chứa các hoạt chất sinh học có thể góp phần kiểm soát đường huyết. Tuy nhiên, mức độ hiệu quả thì còn tùy thuộc vào nhiều yếu tố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T18:36:00+07:00",
+      "fetched": "2026-02-26T02:02:20.780443+07:00"
+    },
+    {
+      "id": "a67284be8ffaba8f41bfcfa6595103f4",
+      "title": "Samsung ra mắt Galaxy Buds 4 series hỗ trợ AI, giá từ 4,9 triệu đồng",
+      "link": "https://thanhnien.vn/samsung-ra-mat-galaxy-buds-4-series-ho-tro-ai-gia-tu-49-trieu-dong-185260225191431902.htm",
+      "summary": "Samsung Galaxy Buds 4 và Buds 4 Pro được nâng cấp về thiết kế, dùng viền kim loại, màng loa không viền để nâng cao chất lượng âm thanh và tích hợp AI để chống ồn, tương tác thông minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T18:30:00+07:00",
+      "fetched": "2026-02-26T02:02:20.780599+07:00"
+    },
+    {
+      "id": "d86d08936249b58d940f623def09ad83",
+      "title": "Galaxy S26 Ultra trình làng: Chống nhìn trộm, trở lại viền nhôm",
+      "link": "https://vnexpress.net/galaxy-s26-ultra-trinh-lang-chong-nhin-trom-tro-lai-vien-nhom-5043764.html",
+      "summary": "Mẫu Galaxy S26 Ultra vừa được Samsung ra mắt có màn hình chống nhìn trộm chủ động, chip Snapdragon 8 Elite Gen 5, nhiều tính năng AI và viền nhôm thay vì titanium.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T18:12:00+07:00",
+      "fetched": "2026-02-26T02:02:27.962441+07:00"
+    },
+    {
+      "id": "8a802e25f8b0c063e7ed32da0c0ef6dd",
+      "title": "Smartphone đầu tiên dùng chip 2 nm",
+      "link": "https://vnexpress.net/smartphone-dau-tien-dung-chip-2-nm-5043756.html",
+      "summary": "Bộ đôi Galaxy S26 và S26+ không thay đổi nhiều về thiết kế, nhưng nâng cấp chip Exynos 2 nm, RAM 12 GB, Galaxy AI thông minh hơn trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T18:11:00+07:00",
+      "fetched": "2026-02-26T02:02:27.962620+07:00"
+    },
+    {
+      "id": "4a31a4dcd0045f1d8eee8adb5a893fcc",
+      "title": "Galaxy Buds 4 ra mắt với thiết kế mới, nhiều tính năng AI",
+      "link": "https://vnexpress.net/galaxy-buds-4-ra-mat-voi-thiet-ke-moi-nhieu-tinh-nang-ai-5043948.html",
+      "summary": "Bộ đôi tai nghe Galaxy Buds 4 và Buds 4 Pro có thiết kế mới, driver hai chiều, điều chỉnh EQ bằng AI, hỗ trợ phiên dịch và điều khiển bằng cử chỉ đầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T18:10:00+07:00",
+      "fetched": "2026-02-26T02:02:27.962808+07:00"
+    },
+    {
+      "id": "21a662589f357cab019b96294d1ae1cd",
+      "title": "Trái đất nóng lên đe doạ Olympic mùa Đông như thế nào?",
+      "link": "https://vnexpress.net/trai-dat-nong-len-de-doa-olympic-mua-dong-nhu-the-nao-5043859.html",
+      "summary": "Giới khoa học dự báo chỉ còn 8 thành phố đủ lạnh để đăng cai Olympic mùa Đông và riêng Ban tổ chức Thế vận hội năm nay cũng đã phải bơm 2,3 triệu m3 tuyết nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:19:00+07:00",
+      "fetched": "2026-02-26T02:02:17.132705+07:00"
+    },
+    {
+      "id": "21a662589f357cab019b96294d1ae1cd",
+      "title": "Trái đất nóng lên đe doạ Olympic mùa Đông như thế nào?",
+      "link": "https://vnexpress.net/trai-dat-nong-len-de-doa-olympic-mua-dong-nhu-the-nao-5043859.html",
+      "summary": "Giới khoa học dự báo chỉ còn 8 thành phố đủ lạnh để đăng cai Olympic mùa Đông và riêng Ban tổ chức Thế vận hội năm nay cũng đã phải bơm 2,3 triệu m3 tuyết nhân tạo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T17:19:00+07:00",
+      "fetched": "2026-02-26T02:02:25.203526+07:00"
+    },
+    {
+      "id": "de24ca545995b5340387daf3bb00da2e",
+      "title": "Giá vàng thường tăng hay giảm sau ngày vía Thần Tài?",
+      "link": "https://vnexpress.net/gia-vang-thuong-tang-hay-giam-sau-ngay-via-than-tai-5044129.html",
+      "summary": "Bạn có biết giá vàng các năm qua diễn biến thế nào sau ngày Thần Tài - thời điểm người dân đổ xô mua kim loại quý lớn nhất trong năm?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:15:00+07:00",
+      "fetched": "2026-02-26T02:02:17.132909+07:00"
+    },
+    {
+      "id": "de24ca545995b5340387daf3bb00da2e",
+      "title": "Giá vàng thường tăng hay giảm sau ngày vía Thần Tài?",
+      "link": "https://vnexpress.net/gia-vang-thuong-tang-hay-giam-sau-ngay-via-than-tai-5044129.html",
+      "summary": "Bạn có biết giá vàng các năm qua diễn biến thế nào sau ngày Thần Tài - thời điểm người dân đổ xô mua kim loại quý lớn nhất trong năm?",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T17:15:00+07:00",
+      "fetched": "2026-02-26T02:02:25.203701+07:00"
+    },
+    {
+      "id": "d4907b15f997b08e9bd2ff708c14efa3",
+      "title": "Muốn sinh 'ngựa vàng' 2026, nam giới cần ăn gì từ bây giờ?",
+      "link": "https://vnexpress.net/muon-sinh-ngua-vang-2026-nam-gioi-can-an-gi-tu-bay-gio-5043853.html",
+      "summary": "Nam giới cần nâng cấp \"tinh binh\" trước 2-3 tháng bằng chiến lược tăng đạm sạch, nạp Omega-3, bổ sung vi chất và cắt giảm tối đa đường tinh luyện cùng thực phẩm siêu chế biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:03:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133077+07:00"
+    },
+    {
+      "id": "cf4c5d3a23049467eb27c38f2ce7ef31",
+      "title": "Đức trước áp lực cạnh tranh ngày càng lớn từ Trung Quốc",
+      "link": "https://vnexpress.net/duc-truoc-ap-luc-canh-tranh-ngay-cang-lon-tu-trung-quoc-5043991.html",
+      "summary": "Từng là động lực thúc đẩy xuất khẩu của Đức, Trung Quốc giờ lại được xem như đối thủ cạnh tranh thương mại trực diện với đầu tàu châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:02:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133239+07:00"
+    },
+    {
+      "id": "412448bb8b3f0ffa841d944c5721b410",
+      "title": "4 con giáp tài lộc nhân đôi ngày vía Thần Tài",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-26-2-4-con-giap-tai-loc-nhan-doi-ngay-via-than-tai-mung-10-am-lich-5043797.html",
+      "summary": "Ngày vía Thần Tài 26/2 (mùng 10 tháng Giêng âm lịch) luôn được nhiều người xem là dịp khởi đầu cho một năm làm ăn suôn sẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:02:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133406+07:00"
+    },
+    {
+      "id": "cf4c5d3a23049467eb27c38f2ce7ef31",
+      "title": "Đức trước áp lực cạnh tranh ngày càng lớn từ Trung Quốc",
+      "link": "https://vnexpress.net/duc-truoc-ap-luc-canh-tranh-ngay-cang-lon-tu-trung-quoc-5043991.html",
+      "summary": "Từng là động lực thúc đẩy xuất khẩu của Đức, Trung Quốc giờ lại được xem như đối thủ cạnh tranh thương mại trực diện với đầu tàu châu Âu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T17:02:00+07:00",
+      "fetched": "2026-02-26T02:02:25.203891+07:00"
+    },
+    {
       "id": "ec0fba55e891980976624914e89db8f5",
       "title": "Lịch thi đấu futsal nữ Việt Nam - Myanmar hôm nay: Sáng cửa vào bán kết",
       "link": "https://thanhnien.vn/lich-thi-dau-futsal-nu-viet-nam-myanmar-hom-nay-sang-cua-vao-ban-ket-185260225220819113.htm",
@@ -181,6 +331,116 @@ window.newsData_2026_02_26 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T17:00:00+07:00",
       "fetched": "2026-02-26T00:05:08.761465+07:00"
+    },
+    {
+      "id": "45345dbc5f318ba813a9a20f3a00328b",
+      "title": "Dấu vết bất thường của sợi dây điện tố cáo tội ác của gã chồng",
+      "link": "https://vnexpress.net/dau-vet-bat-thuong-cua-soi-day-dien-to-cao-toi-ac-cua-ga-chong-5044119.html",
+      "summary": "Kiểm tra hiện trường vụ tai nạn điện ở phòng trọ, cảnh sát phát hiện nhiều dấu hiệu bất thường, trong đó có sợi dây điện đã bị lột vỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133569+07:00"
+    },
+    {
+      "id": "5d7f82587887a5203748f26f90b82d96",
+      "title": "Bạn trai chia tay vì tôi không đi tiếp khách quan trọng cùng anh",
+      "link": "https://vnexpress.net/ban-trai-chia-tay-vi-toi-khong-di-tiep-khach-quan-trong-cung-anh-5044116.html",
+      "summary": "Anh nói rằng khách đó rất quan trọng, là các sếp lớn của anh và ai cũng muốn gặp vợ chưa cưới của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133749+07:00"
+    },
+    {
+      "id": "80850b74029bfc1e5da6fc3816a8a031",
+      "title": "Hơn 700 giờ đấu trí với kẻ sát nhân số một nước Mỹ",
+      "link": "https://vnexpress.net/hon-700-gio-dau-tri-voi-ke-sat-nhan-so-mot-nuoc-my-5044093.html",
+      "summary": "Đối mặt với tên sát nhân thông minh và giỏi thao túng, điều tra viên James Holland vượt qua đòn tâm lý để giải mã hắn, thu được 93 lời thú tội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.133913+07:00"
+    },
+    {
+      "id": "c8b2900981773bc9eedd9578ecf715ca",
+      "title": "16 ngành học có lương cao nhất Mỹ",
+      "link": "https://vnexpress.net/16-nganh-hoc-co-luong-cao-nhat-my-5044071.html",
+      "summary": "Nhóm ngành kỹ thuật mang lại thu nhập tốt nhất cho sinh viên tại Mỹ sau 5 năm ra trường, trung bình lên tới 90.000 USD mỗi năm (2,3 tỷ đồng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134067+07:00"
+    },
+    {
+      "id": "18dc33682537c1104b33f5cd86e439c9",
+      "title": "Hòn Khoai định hướng thành đảo di sản",
+      "link": "https://vnexpress.net/hon-khoai-dinh-huong-thanh-dao-di-san-5044067.html",
+      "summary": "Cụm đảo Hòn Khoai sẽ trở thành đảo di sản, gắn bảo tồn lịch sử, sinh thái với kinh tế biển và quốc phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134221+07:00"
+    },
+    {
+      "id": "fe36549169c063e2c647af4165802410",
+      "title": "Tân Thủ tướng Hà Lan và chuyện tình với chàng trai Olympic",
+      "link": "https://vnexpress.net/tan-thu-tuong-ha-lan-va-chuyen-tinh-voi-chang-trai-olympic-5044064.html",
+      "summary": "Trở thành Thủ tướng trẻ nhất lịch sử Hà Lan ở tuổi 38, ông Rob Jetten còn gây chú ý với chuyện tình cùng hôn phu là vận động viên Olympic.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134379+07:00"
+    },
+    {
+      "id": "ae86538e09dd291338b6d01b22e573bc",
+      "title": "Nỗi đau đầu của người ở trọ 4,5 triệu đồng có 17 cây vàng",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-gia-vang-sjc-gia-vang-via-than-tai-ban-vang-mua-chung-cu-5044044.html",
+      "summary": "Nếu bán vàng ra có lẽ vừa đủ tiền mua căn hộ chung cư ở xa. Nhưng an cư thì vỡ quỹ dự phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134548+07:00"
+    },
+    {
+      "id": "4b7c7a471a3a90997c814c92209554d8",
+      "title": "5 loại cây giúp hút ẩm và giảm mùi trong nhà mùa nồm",
+      "link": "https://vnexpress.net/5-loai-cay-giup-hut-am-va-giam-mui-trong-nha-mua-nom-5043910.html",
+      "summary": "Lưỡi hổ, trầu bà hay dương xỉ có khả năng hấp thụ hơi nước qua lá, giúp không gian sống thoáng đãng hơn khi độ ẩm miền Bắc tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134701+07:00"
+    },
+    {
+      "id": "6e34cc303c2da16e7d757e9f1e80f97f",
+      "title": "Y đức và y thuật",
+      "link": "https://vnexpress.net/y-duc-va-y-thuat-5043874.html",
+      "summary": "Cuối năm ngoái, khi tới thăm điều dưỡng Nguyễn Thị Thùy Trang - người đã dũng cảm che chắn cho trẻ sơ sinh trong vụ truy sát tại Bệnh viện Sản Nhi Nghệ An - tôi xem rất kỹ bản phác họa mô tả vị trí hơn 10 vết đâm mà chị phải chịu đựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.134883+07:00"
+    },
+    {
+      "id": "781854a04418e0175acd06f4a19e369f",
+      "title": "Khách sống trong khách sạn 5 sao suốt 67 năm",
+      "link": "https://vnexpress.net/khach-song-trong-khach-san-5-sao-suot-67-nam-5043738.html",
+      "summary": "Jean Le Bon nhận phòng tại Grand Hôtel de Paris năm 1957 rồi sống ở đó cho đến khi qua đời năm 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:00:00+07:00",
+      "fetched": "2026-02-26T02:02:17.135042+07:00"
+    },
+    {
+      "id": "21341b8ac26c7f9d7972cc22c9215462",
+      "title": "Bill Gates thừa nhận từng ngoại tình với hai phụ nữ Nga",
+      "link": "https://vnexpress.net/bill-gates-thua-nhan-tung-ngoai-tinh-voi-hai-phu-nu-nga-5044143.html",
+      "summary": "Tỷ phú Bill Gates thừa nhận ông từng có quan hệ tình cảm ngoài luồng với hai phụ nữ Nga khi vẫn trong cuộc hôn nhân với bà Melinda.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T16:48:54+07:00",
+      "fetched": "2026-02-26T02:02:23.793927+07:00"
     },
     {
       "id": "079ff3599e5d5229bfd75ff8a9202d61",
