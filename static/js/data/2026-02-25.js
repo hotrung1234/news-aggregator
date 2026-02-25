@@ -1,7 +1,37 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T15:44:09.399857+07:00",
+  "lastUpdated": "2026-02-25T17:48:12.748316+07:00",
   "articles": [
+    {
+      "id": "58fa4b353971a2a464981381a84f6ec9",
+      "title": "'Siêu dự án' Làng Vân Đà Nẵng chính thức có giá đất, đất ở đô thị giá hơn 15 triệu đồng/m²",
+      "link": "https://tuoitre.vn/sieu-du-an-lang-van-da-nang-chinh-thuc-co-gia-dat-dat-o-do-thi-gia-hon-15-trieu-dong-m2-2026022515104484.htm",
+      "summary": "Phó chủ tịch thường trực UBND TP Đà Nẵng Hồ Kỳ Minh đã ký quyết định phê duyệt giá đất cụ thể đối với dự án khu phức hợp du lịch và đô thị nghỉ dưỡng Làng Vân dưới chân đèo Hải Vân, TP Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:48:06.827474+07:00",
+      "fetched": "2026-02-25T17:48:06.827617+07:00"
+    },
+    {
+      "id": "0650d59671cb05d64b48dc94c0d98596",
+      "title": "Đề xuất mức thu phí  5 đoạn tuyến đường cao tốc Bắc - Nam",
+      "link": "https://tuoitre.vn/de-xuat-muc-thu-phi-5-doan-tuyen-duong-cao-toc-bac-nam-20260225132638568.htm",
+      "summary": "Cục Đường bộ Việt Nam vừa đề xuất Bộ Xây dựng chấp thuận, phê duyệt mức thu phí tại 5 đoạn tuyến cao tốc Bắc - Nam phía Đông do Nhà nước đầu tư để có cơ sở triển khai thu phí sử dụng đường bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:48:06.827332+07:00",
+      "fetched": "2026-02-25T17:48:06.827461+07:00"
+    },
+    {
+      "id": "8a4f1af2ad93db74ac46ffda996b0fce",
+      "title": "Diêm dân Ninh Thuận cũ vui khi muối được mùa được giá",
+      "link": "https://tuoitre.vn/diem-dan-ninh-thuan-cu-vui-khi-muoi-duoc-mua-duoc-gia-20260225112641459.htm",
+      "summary": "Giá muối đầu năm Bính Ngọ đang tăng ở mức 1-1,3 triệu đồng/tấn, cùng với sản lượng tăng, giúp diêm dân Ninh Thuận cũ kỳ vọng vụ mùa bội thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T17:48:06.827102+07:00",
+      "fetched": "2026-02-25T17:48:06.827317+07:00"
+    },
     {
       "id": "3149a4029e70f6e106d8b86182d686f4",
       "title": "Ông chủ Trung Quốc chi 26 triệu USD thưởng Tết, nhân viên được vơ tiền thỏa thích",
@@ -453,6 +483,336 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T11:20:55.034075+07:00"
     },
     {
+      "id": "06f55032e3ae9cf49f579135c858c93c",
+      "title": "Rộn ràng lễ hội cầu ngư hơn 200 năm tuổi ở Quy Nhơn",
+      "link": "https://thanhnien.vn/ron-rang-le-hoi-cau-ngu-hon-200-nam-tuoi-o-quy-nhon-185260225172126685.htm",
+      "summary": "Lễ hội cầu ngư 200 năm tuổi ở làng chài Nhơn Lý (phường Quy Nhơn Đông, tỉnh Gia Lai) nhằm tôn vinh tín ngưỡng thờ cá ông và mong ước về một mùa biển bình an, bội thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:38:00+07:00",
+      "fetched": "2026-02-25T17:48:06.038786+07:00"
+    },
+    {
+      "id": "eec89c948b860d09b9f86244414d43f4",
+      "title": "Đội tuyển nữ Việt Nam quyết trở lại World Cup",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-quyet-tro-lai-world-cup-185260224222021684.htm",
+      "summary": "HLV Mai Đức Chung đang hoàn thiện một số chi tiết cuối cùng trước khi chốt 26 cầu thủ đội tuyển nữ VN tham dự Asian Cup nữ 2026, với mục tiêu lấy vé dự World Cup lần thứ 2 liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:35:00+07:00",
+      "fetched": "2026-02-25T17:48:06.038953+07:00"
+    },
+    {
+      "id": "ccee3209362684f82a4f670f75c21aa9",
+      "title": "Hơn 60 chuyên gia quốc tế bàn cách lập mạng lưới kính hiển vi cho Việt Nam",
+      "link": "https://thanhnien.vn/hon-60-chuyen-gia-quoc-te-ban-cach-lap-mang-luoi-kinh-hien-vi-cho-viet-nam-185260225164857883.htm",
+      "summary": "Hơn 60 chuyên gia từ 12 quốc gia bàn cách xây dựng mạng lưới kính hiển vi dùng chung, nâng cao năng lực công nghệ lõi cho Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:21:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039107+07:00"
+    },
+    {
+      "id": "30f664d05f40243e73659b6be5ecf3ef",
+      "title": "Khánh Hòa quyết ‘phủ sóng’ tiếng Anh đến từng xã phường, khu công nghiệp",
+      "link": "https://thanhnien.vn/khanh-hoa-quyet-phu-song-tieng-anh-den-tung-xa-phuong-khu-cong-nghiep-185260225154153297.htm",
+      "summary": "Khánh Hòa đặt mục tiêu 220.000 người tham gia và 50.000 người cải thiện năng lực tiếng Anh giao tiếp thực chất trong giai đoạn 4 của chương trình 'Người dân Khánh Hòa nói tiếng Anh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:21:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039257+07:00"
+    },
+    {
+      "id": "c5ebb234498fc3af9b070890ad78fe18",
+      "title": "Cà Mau tổ chức 12 kỳ sát hạch lái xe trong tháng 3",
+      "link": "https://thanhnien.vn/ca-mau-to-chuc-12-ky-sat-hach-lai-xe-trong-thang-3-185260225161116815.htm",
+      "summary": "Trước nhu cầu sát hạch, cấp giấy phép lái xe trên địa bàn tăng cao, Công an tỉnh Cà Mau mở 12 kỳ thi trong tháng 3.2026, rút ngắn thời gian cấp giấy phép lái xe điện tử xuống còn 2 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:18:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039411+07:00"
+    },
+    {
+      "id": "f2cb959320fe253659b16247b7ab57fe",
+      "title": "Nóng: Trung vệ Lý Đức có thể cập bến PVF-CAND, chuyển từ đua vô địch sang... đua trụ hạng?",
+      "link": "https://thanhnien.vn/nong-trung-ve-ly-duc-co-the-cap-ben-pvf-cand-chuyen-tu-dua-vo-dich-sang-dua-tru-hang-185260225171116771.htm",
+      "summary": "Trung vệ Lý Đức nhiều khả năng rời CLB CAHN để gia nhập PVF-CAND ở giai đoạn hai V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:15:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039579+07:00"
+    },
+    {
+      "id": "2148fb18cf62b615343610e5c6defabe",
+      "title": "Quảng Trị: Trâu 'điên' tấn công 2 người nhập viện",
+      "link": "https://thanhnien.vn/quang-tri-trau-dien-tan-cong-2-nguoi-nhap-vien-185260225155147671.htm",
+      "summary": "Một con trâu đã bất ngờ tấn công 2 người dân tại xã Lao Bảo (Quảng Trị) bị thương phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:12:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039739+07:00"
+    },
+    {
+      "id": "ba18ea3403ef382e8ccf759c60057884",
+      "title": "Từ 1.3, bãi bỏ hàng loạt quy định về công chức, viên chức",
+      "link": "https://thanhnien.vn/tu-13-bai-bo-hang-loat-quy-dinh-ve-cong-chuc-vien-chuc-185260225164053128.htm",
+      "summary": "Từ ngày 1.3, nhiều quyết định, thông tư liên quan đến quản lý công chức, viên chức, thanh tra, lưu trữ và một số lĩnh vực khác sẽ chính thức bị bãi bỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:10:00+07:00",
+      "fetched": "2026-02-25T17:48:06.039895+07:00"
+    },
+    {
+      "id": "9334d29cd897340ac81c95570c32f9a5",
+      "title": "Bé khỉ ôm 'mẹ' thú bông: Câu chuyện cảm động sẽ có hậu?",
+      "link": "https://thanhnien.vn/be-khi-om-me-thu-bong-cau-chuyen-cam-dong-se-co-hau-185260225120538393.htm",
+      "summary": "Trong cái nóng hầm hập của mùa hè Tokyo, một vị khách tại vườn thú Ichikawa bỗng phát hiện một sinh linh nhỏ bé nằm đơn độc giữa bầy khỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:08:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040042+07:00"
+    },
+    {
+      "id": "48f707b402a7a0e8e620ff849bc2c999",
+      "title": "Việt Nam sẽ đào tạo 5.000 nhân lực phát triển trò chơi điện tử giáo dục lịch sử",
+      "link": "https://vnexpress.net/viet-nam-se-dao-tao-5-000-nhan-luc-phat-trien-tro-choi-dien-tu-giao-duc-lich-su-5043966.html",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình cho biết Chính phủ sẽ tổ chức chương trình đào tạo chuyên sâu 5.000 nhân lực phát triển trò chơi điện tử phục vụ giáo dục lịch sử Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:06:05+07:00",
+      "fetched": "2026-02-25T17:48:02.590724+07:00"
+    },
+    {
+      "id": "877446cec27fac7d339f119742aca9bf",
+      "title": "Quảng Trị: Học sinh lớp 4 giao nộp cá thể rái cá quý hiếm",
+      "link": "https://thanhnien.vn/quang-tri-hoc-sinh-lop-4-giao-nop-ca-the-rai-ca-quy-hiem-185260225160906321.htm",
+      "summary": "Một học sinh lớp 4 tại Quảng Trị phát hiện cá thể rái cá bên bờ suối trong tình trạng sức khỏe yếu, đã đưa đi giao nộp cho lực lượng chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:04:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040198+07:00"
+    },
+    {
+      "id": "88990e52e068f4dc82ccb3d9ee3da863",
+      "title": "Con trai bầu Hiển ứng cử đại biểu HĐND TP.Hà Nội",
+      "link": "https://thanhnien.vn/con-trai-bau-hien-ung-cu-dai-bieu-hdnd-tpha-noi-18526022516005765.htm",
+      "summary": "Ông Đỗ Vinh Quang (31 tuổi; con trai bầu Hiển) đã ứng cử đại biểu HĐND TP.Hà Nội nhiệm kỳ 2026 - 2031 tại đơn vị bầu cử số 30, gồm các xã: Mê Linh, Yên Lãng, Tiến Thắng và Quang Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:01:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040344+07:00"
+    },
+    {
+      "id": "ee25d48dc5f67b0fedaba5149d244628",
+      "title": "Công ty mẹ TikTok được định giá 550 tỷ USD",
+      "link": "https://vnexpress.net/cong-ty-me-tiktok-duoc-dinh-gia-550-ty-usd-5044033.html",
+      "summary": "General Atlantic đang bán cổ phần tại ByteDance, định giá công ty mẹ TikTok ở mức 550 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:00:00+07:00",
+      "fetched": "2026-02-25T17:48:02.590902+07:00"
+    },
+    {
+      "id": "d60a273021cf558bbc9263b3b60b8abf",
+      "title": "Vì sao tiền mãn kinh có thể xuất hiện ở tuổi 30?",
+      "link": "https://vnexpress.net/vi-sao-tien-man-kinh-co-the-xuat-hien-o-tuoi-30-5043919.html",
+      "summary": "Di truyền, bệnh nền và rối loạn nội tiết có thể làm tăng nguy cơ suy buồng trứng sớm, trong khi căng thẳng, môi trường góp phần khiến triệu chứng xuất hiện từ tuổi 30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:00:00+07:00",
+      "fetched": "2026-02-25T17:48:02.591066+07:00"
+    },
+    {
+      "id": "a2be4764242bd5a2d32f120b06dc63a7",
+      "title": "Xổ số miền Nam ngày 25 tháng 2: Lộ diện nhiều vé trúng đài Đồng Nai",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-2-lo-dien-nhieu-ve-trung-dai-dong-nai-185260225165057297.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 25 tháng 2, nhiều vé trúng đài Đồng Nai lộ diện sớm ở TP.HCM, Đồng Nai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:00:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040488+07:00"
+    },
+    {
+      "id": "e719f5944a14eeb0eff15215edf941cb",
+      "title": "Toàn cảnh 17h: Lời khai điều dưỡng vụ tử vong sau khi truyền trắng da | Hành hung tài xế trước cửa nhà",
+      "link": "https://thanhnien.vn/toan-canh-17h-loi-khai-dieu-duong-vu-tu-vong-sau-khi-truyen-trang-da-hanh-hung-tai-xe-truoc-cua-nha-185260225162243413.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T10:00:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040661+07:00"
+    },
+    {
+      "id": "ee25d48dc5f67b0fedaba5149d244628",
+      "title": "Công ty mẹ TikTok được định giá 550 tỷ USD",
+      "link": "https://vnexpress.net/cong-ty-me-tiktok-duoc-dinh-gia-550-ty-usd-5044033.html",
+      "summary": "General Atlantic đang bán cổ phần tại ByteDance, định giá công ty mẹ TikTok ở mức 550 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T10:00:00+07:00",
+      "fetched": "2026-02-25T17:48:10.010244+07:00"
+    },
+    {
+      "id": "2e07f640e13a54be1b1322c51c2f9658",
+      "title": "Ông Nguyễn Toàn Thắng: Tập trung gỡ vướng để cấp sổ hồng cho người mua nhà",
+      "link": "https://thanhnien.vn/ong-nguyen-toan-thang-tap-trung-go-vuong-de-cap-so-hong-cho-nguoi-mua-nha-185260225154737682.htm",
+      "summary": "Trao đổi với Thanh Niên, ông Nguyễn Toàn Thắng, Giám đốc Sở Nông nghiệp và Môi trường TP.HCM, Tổ trưởng Tổ công tác 1645 khẳng định, một trong những nhiệm vụ trọng tâm năm 2026 là đẩy mạnh gỡ vướng để cấp sổ hồng cho người mua nhà tại các dự án nhà ở thương mại trên địa bàn TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:54:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040817+07:00"
+    },
+    {
+      "id": "c48721cac1cba46c8168dd3a24338958",
+      "title": "Các món canh cá chua được yêu thích sau Tết",
+      "link": "https://vnexpress.net/cac-mon-canh-ca-chua-duoc-yeu-thich-sau-tet-5044058.html",
+      "summary": "Sau những ngày Tết nhiều thịt mỡ, giò chả, mâm cơm gia đình trở nên cân bằng, nhẹ bụng hơn khi có thêm bát canh cá nấu chua thanh dịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:52:27+07:00",
+      "fetched": "2026-02-25T17:48:02.591226+07:00"
+    },
+    {
+      "id": "11c05c537b3aa000143107eece0c00f6",
+      "title": "Con trai cựu Thủ tướng Canada lên tiếng về chuyện tình của cha với Katy Perry",
+      "link": "https://thanhnien.vn/con-trai-cuu-thu-tuong-canada-len-tieng-ve-chuyen-tinh-cua-cha-voi-katy-perry-185260225142608689.htm",
+      "summary": "Con trai cựu Thủ tướng Canada Justin Trudeau là Xavier Trudeau đã lần đầu chia sẻ về mối quan hệ giữa cha mình và nữ ca sĩ Katy Perry, tiết lộ những cuộc trò chuyện riêng tư và lời khuyên giá trị mà anh nhận được từ ngôi sao nhạc pop đình đám, E! News đưa tin ngày 25.2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:46:00+07:00",
+      "fetched": "2026-02-25T17:48:06.040963+07:00"
+    },
+    {
+      "id": "11e08cbe404e75611f9decb631f8ae01",
+      "title": "Con trai bầu Hiển ứng cử đại biểu Hội đồng nhân dân TP Hà Nội",
+      "link": "https://vnexpress.net/con-trai-bau-hien-ung-cu-dai-bieu-hoi-dong-nhan-dan-tp-ha-noi-5044030.html",
+      "summary": "Đỗ Vinh Quang 31 tuổi, con trai ông Đỗ Quang Hiển, nằm trong danh sách 205 người ứng cử đại biểu HĐND TP Hà Nội nhiệm kỳ 2026-2031.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:42:34+07:00",
+      "fetched": "2026-02-25T17:48:02.591383+07:00"
+    },
+    {
+      "id": "e67039404d4559d202dd7a5cd36ca4ce",
+      "title": "Công ty tài sản số liên quan VPBank sắp tăng vốn lên 10.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-tai-san-so-lien-quan-vpbank-sap-tang-von-len-10-000-ty-dong-5043996.html",
+      "summary": "CAEX, công ty tài sản số liên quan VPBank, đang hoàn tất thủ tục nâng vốn lên 10.000 tỷ đồng để đủ điều kiện thí điểm sàn giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:38:29+07:00",
+      "fetched": "2026-02-25T17:48:02.591572+07:00"
+    },
+    {
+      "id": "e67039404d4559d202dd7a5cd36ca4ce",
+      "title": "Công ty tài sản số liên quan VPBank sắp tăng vốn lên 10.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-tai-san-so-lien-quan-vpbank-sap-tang-von-len-10-000-ty-dong-5043996.html",
+      "summary": "CAEX, công ty tài sản số liên quan VPBank, đang hoàn tất thủ tục nâng vốn lên 10.000 tỷ đồng để đủ điều kiện thí điểm sàn giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T09:38:29+07:00",
+      "fetched": "2026-02-25T17:48:10.012005+07:00"
+    },
+    {
+      "id": "a22237221f2429d2b42592b348b2f1fb",
+      "title": "F-16 Thổ Nhĩ Kỳ lao xuống cao tốc, phát nổ",
+      "link": "https://vnexpress.net/f-16-tho-nhi-ky-lao-xuong-cao-toc-phat-no-5044028.html",
+      "summary": "Tiêm kích F-16 gặp nạn ngay sau khi cất cánh ở miền tây Thổ Nhĩ Kỳ, khiến phi công thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:35:45+07:00",
+      "fetched": "2026-02-25T17:48:02.591739+07:00"
+    },
+    {
+      "id": "a22237221f2429d2b42592b348b2f1fb",
+      "title": "F-16 Thổ Nhĩ Kỳ lao xuống cao tốc, phát nổ",
+      "link": "https://vnexpress.net/f-16-tho-nhi-ky-lao-xuong-cao-toc-phat-no-5044028.html",
+      "summary": "Tiêm kích F-16 gặp nạn ngay sau khi cất cánh ở miền tây Thổ Nhĩ Kỳ, khiến phi công thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T09:35:45+07:00",
+      "fetched": "2026-02-25T17:48:08.487973+07:00"
+    },
+    {
+      "id": "da69b7d38147e1285a44dfde07ec120e",
+      "title": "Vàng mini 'lên ngôi' dịp vía Thần Tài năm nay",
+      "link": "https://vnexpress.net/vang-mini-len-ngoi-dip-via-than-tai-nam-nay-5043980.html",
+      "summary": "Trong bối cảnh nguồn cung hạn chế, nhiều doanh nghiệp đẩy mạnh vàng mini dưới 1 chỉ đáp ứng nhu cầu \"lấy may\" của người dân dịp vía Thần Tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:30:49+07:00",
+      "fetched": "2026-02-25T17:48:02.591900+07:00"
+    },
+    {
+      "id": "da69b7d38147e1285a44dfde07ec120e",
+      "title": "Vàng mini 'lên ngôi' dịp vía Thần Tài năm nay",
+      "link": "https://vnexpress.net/vang-mini-len-ngoi-dip-via-than-tai-nam-nay-5043980.html",
+      "summary": "Trong bối cảnh nguồn cung hạn chế, nhiều doanh nghiệp đẩy mạnh vàng mini dưới 1 chỉ đáp ứng nhu cầu \"lấy may\" của người dân dịp vía Thần Tài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T09:30:49+07:00",
+      "fetched": "2026-02-25T17:48:10.010417+07:00"
+    },
+    {
+      "id": "938d0d509e5bdea3b0da0a88a8adde2c",
+      "title": "Mong anh sống lành mạnh, có trách nhiệm, ưu tiên gia đình",
+      "link": "https://vnexpress.net/mong-anh-song-lanh-manh-co-trach-nhiem-uu-tien-gia-dinh-5043831.html",
+      "summary": "Mình mong một gia đình nhỏ ấm áp, nơi cả hai cùng vun vén, cùng nuôi dạy con cái và hướng đến cuộc sống ngày một tốt đẹp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:19:28+07:00",
+      "fetched": "2026-02-25T17:48:02.592003+07:00"
+    },
+    {
+      "id": "4e75d95b23325df102727f8d4653f2e4",
+      "title": "Mình sẽ tổ chức lễ hằng thuận nhẹ nhàng và đầm ấm, em nhé",
+      "link": "https://vnexpress.net/minh-se-to-chuc-le-hang-thuan-nhe-nhang-va-dam-am-em-nhe-5043828.html",
+      "summary": "Anh là một phật tử và góc nhìn nhân sinh của anh là nhân quả, luôn hướng thiện và gắng sống tử tế, đạo đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:11:55+07:00",
+      "fetched": "2026-02-25T17:48:02.592094+07:00"
+    },
+    {
+      "id": "2d02dc530ae3a830f7cc924141c7dbb8",
+      "title": "Chung Lệ Đề và chồng con ăn Tết ở Việt Nam",
+      "link": "https://vnexpress.net/chung-le-de-va-chong-con-an-tet-o-viet-nam-5044013.html",
+      "summary": "Diễn viên gốc Việt Chung Lệ Đề cùng gia đình chồng và các con về Việt Nam đón năm mới, nghỉ dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T09:06:19+07:00",
+      "fetched": "2026-02-25T17:48:02.592245+07:00"
+    },
+    {
+      "id": "ef591b140641ad9e8f8b88f338a4850d",
+      "title": "Mình tính chuyện lâu dài anh nhé",
+      "link": "https://vnexpress.net/minh-tinh-chuyen-lau-dai-anh-nhe-5043824.html",
+      "summary": "Em hiền lành, vui vẻ, biết suy nghĩ, biết trước biết sau, không được khôn khéo vì tính tình thẳng thắn nhưng tâm thiện lành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T08:58:48+07:00",
+      "fetched": "2026-02-25T17:48:02.592337+07:00"
+    },
+    {
+      "id": "f551912e047d036d006c0613e064a569",
+      "title": "Đà Nẵng duyệt giá đất dự án Làng Vân hơn 15 triệu đồng mỗi m2",
+      "link": "https://vnexpress.net/da-nang-duyet-gia-dat-du-an-lang-van-hon-15-trieu-dong-moi-m2-5043982.html",
+      "summary": "UBND TP Đà Nẵng vừa phê duyệt giá đất tại dự án Khu phức hợp du lịch và đô thị nghỉ dưỡng Làng Vân, với giá cao nhất 15,4 triệu đồng mỗi m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T08:58:17+07:00",
+      "fetched": "2026-02-25T17:48:02.592500+07:00"
+    },
+    {
+      "id": "c7b60908407cb43dd2180b67dda091fc",
+      "title": "Những doanh nhân tuổi teen kiếm bộn tiền nhờ AI",
+      "link": "https://vnexpress.net/nhung-doanh-nhan-tuoi-teen-kiem-bon-tien-nho-ai-5043959.html",
+      "summary": "Nhờ các công cụ AI, ngày càng nhiều thiếu niên lập công ty công nghệ và gọi vốn hàng triệu USD ngay khi còn ngồi trên ghế nhà trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T08:57:22+07:00",
+      "fetched": "2026-02-25T17:48:02.592672+07:00"
+    },
+    {
       "id": "0aa6bc6e640ce13b7e941c37e92e81b3",
       "title": "Mùa xuân trên 'mắt thần' Đông Dương",
       "link": "https://tuoitre.vn/mua-xuan-tren-mat-than-dong-duong-20260224232402169.htm",
@@ -603,6 +963,46 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T08:56:21.423765+07:00"
     },
     {
+      "id": "3c11531308ed3014508803490c5e4dd2",
+      "title": "Những khoảnh khắc ấn tượng trong buổi đọc Thông điệp Liên bang của ông Trump",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-buoi-doc-thong-diep-lien-bang-cua-ong-trump-5043975.html",
+      "summary": "Các nghị sĩ liên tục vỗ tay, nhà lập pháp bị mời khỏi phòng họp là những khoảnh khắc ấn tượng khi ông Trump đến Đồi Capitol đọc Thông điệp Liên bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T08:51:51+07:00",
+      "fetched": "2026-02-25T17:48:02.592829+07:00"
+    },
+    {
+      "id": "3c11531308ed3014508803490c5e4dd2",
+      "title": "Những khoảnh khắc ấn tượng trong buổi đọc Thông điệp Liên bang của ông Trump",
+      "link": "https://vnexpress.net/nhung-khoanh-khac-an-tuong-trong-buoi-doc-thong-diep-lien-bang-cua-ong-trump-5043975.html",
+      "summary": "Các nghị sĩ liên tục vỗ tay, nhà lập pháp bị mời khỏi phòng họp là những khoảnh khắc ấn tượng khi ông Trump đến Đồi Capitol đọc Thông điệp Liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T08:51:51+07:00",
+      "fetched": "2026-02-25T17:48:08.488152+07:00"
+    },
+    {
+      "id": "aa148d4a2367acae3595d70b3043db3a",
+      "title": "Chứng khoán đứt chuỗi tăng 5 phiên liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-dut-chuoi-tang-5-phien-lien-tiep-5044018.html",
+      "summary": "Áp lực chốt lời xuất hiện trên diện rộng sau chuỗi tăng 5 phiên liên tục khiến VN-Index giảm gần 7 điểm, về 1.860 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-25T08:49:54+07:00",
+      "fetched": "2026-02-25T17:48:10.010595+07:00"
+    },
+    {
+      "id": "5eb465060e946b7f028a03ec60989afa",
+      "title": "Thủ tướng Nhật Bản vướng rắc rối vì tặng quà cho hơn 300 nghị sĩ",
+      "link": "https://vnexpress.net/thu-tuong-nhat-ban-vuong-rac-roi-vi-tang-qua-cho-hon-300-nghi-si-5043960.html",
+      "summary": "Thủ tướng Nhật Bản Sanae Takaichi gây nghi ngại khi tặng quà chúc mừng cho hơn 300 nghị sĩ đảng cầm quyền, mỗi món có giá khoảng 190 USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T08:43:11+07:00",
+      "fetched": "2026-02-25T17:48:08.488312+07:00"
+    },
+    {
       "id": "6e911b20bf4555ae4ac06762f15e66b6",
       "title": "Dòng người đổ về chùa Ngọc Hoàng ngày vía: Nắng gắt không ngăn được lòng thành",
       "link": "https://thanhnien.vn/dong-nguoi-do-ve-chua-ngoc-hoang-ngay-via-nang-gat-khong-ngan-duoc-long-thanh-185260225154222311.htm",
@@ -633,6 +1033,16 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T15:43:59.875606+07:00"
     },
     {
+      "id": "754739fcd2ad97a276c45b88f56d6f5a",
+      "title": "Chủ đề được ông Trump đề cập nhiều nhất trong Thông điệp Liên bang",
+      "link": "https://vnexpress.net/chu-de-duoc-ong-trump-de-cap-nhieu-nhat-trong-thong-diep-lien-bang-5044000.html",
+      "summary": "Tổng thống Trump dành nhiều thời lượng nhất cho an ninh quốc gia, tiếp theo là tội phạm, nhập cư, chính sách thuế và kinh tế cùng Venezuela trong Thông điệp Liên bang 2026.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T08:32:44+07:00",
+      "fetched": "2026-02-25T17:48:08.488476+07:00"
+    },
+    {
       "id": "184baa43dd40a61d82775b9dd008cad4",
       "title": "Máy bay Boeing 737 từ Colombia đi Mỹ bị trúng đạn",
       "link": "https://thanhnien.vn/may-bay-boeing-737-tu-colombia-di-my-bi-trung-dan-185260225151906451.htm",
@@ -641,6 +1051,36 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T08:29:00+07:00",
       "fetched": "2026-02-25T15:43:59.875739+07:00"
+    },
+    {
+      "id": "e82474629780d44175c47930e0f19b2d",
+      "title": "Nạn câu giờ trong bóng đá sắp bị triệt tiêu",
+      "link": "https://vnexpress.net/nan-cau-gio-trong-bong-da-sap-bi-triet-tieu-5044006.html",
+      "summary": "Ủy ban Bóng đá Quốc tế (IFAB) sẽ một loạt đề xuất mang tính đột phá nhằm ngăn chặn tình trạng câu giờ, trong đó có quy định cầu thủ cần chăm sóc y tế sẽ phải rời sân tạm thời trong một phút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T08:25:37+07:00",
+      "fetched": "2026-02-25T17:48:12.737854+07:00"
+    },
+    {
+      "id": "1c241ce8e26c5b9d12ed6ae5412f48e3",
+      "title": "Việt Nam thắng Philippines ở giải futsal nữ Đông Nam Á",
+      "link": "https://vnexpress.net/viet-nam-thang-philippines-o-giai-futsal-nu-dong-nam-a-5043992.html",
+      "summary": "Các bàn thắng của Thanh Ngân và Biện Thị Hằng giúp Việt Nam hạ Phillippines 2-0 ở lượt hai bảng B giải vô địch futsal nữ Đông Nam Á 2026, chiều 25/2.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T08:25:28+07:00",
+      "fetched": "2026-02-25T17:48:12.738667+07:00"
+    },
+    {
+      "id": "48669dd61b08fb581d9e36fa316a1a15",
+      "title": "Bodo/Glimt và sự trỗi dậy của CLB 'gia đình'",
+      "link": "https://vnexpress.net/bodo-glimt-va-su-troi-day-cua-clb-gia-dinh-5043987.html",
+      "summary": "Chỉ trong ít năm, Bodo/Glimt từ một đội hạng hai Na Uy trở thành CLB hàng đầu nước này, liên tục gây sốc ở sân chơi châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-25T08:24:06+07:00",
+      "fetched": "2026-02-25T17:48:12.738026+07:00"
     },
     {
       "id": "df7b0987e15adf9daa7c193c955f0617",
