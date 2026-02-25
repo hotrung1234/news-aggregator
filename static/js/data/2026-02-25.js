@@ -1,7 +1,157 @@
 window.newsData_2026_02_25 = {
   "date": "2026-02-25",
-  "lastUpdated": "2026-02-25T17:48:12.748316+07:00",
+  "lastUpdated": "2026-02-25T19:59:05.171479+07:00",
   "articles": [
+    {
+      "id": "ae0be0be5b1893fc2ac4425ac7e947a0",
+      "title": "Giá vàng miếng SJC tăng thêm 700.000 đồng/lượng trước ngày Thần Tài",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-tang-them-700-000-dong-luong-truoc-ngay-than-tai-20260225182357008.htm",
+      "summary": "Giá vàng miếng SJC tăng thêm 700.000 đồng/lượng trong ngày hôm nay, 25-2 (mùng 9 tháng giêng), lên mức 185,3 triệu đồng/lượng. Giá mua vào cũng tăng tương ứng, lên mức 182,3 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.131168+07:00",
+      "fetched": "2026-02-25T19:58:58.131305+07:00"
+    },
+    {
+      "id": "74704429d11825ffa77a63da6261c3cd",
+      "title": "‘Con đĩ đánh bồng’ gây sốt hội làng Triều Khúc",
+      "link": "https://tuoitre.vn/con-di-danh-bong-gay-sot-hoi-lang-trieu-khuc-20260225181552783.htm",
+      "summary": "Hàng nghìn người đổ về Lễ hội làng Triều Khúc xem ‘con đĩ đánh bồng’, trong đó có hai cậu bé 8 tuổi gây sốt, nhận được nhiều sự quan tâm của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.131035+07:00",
+      "fetched": "2026-02-25T19:58:58.131156+07:00"
+    },
+    {
+      "id": "6bdfd6bdce3828725ec0d2cbfad04649",
+      "title": "Giải bài toán từ gia công đến làm chủ công nghệ điện tử",
+      "link": "https://tuoitre.vn/giai-bai-toan-tu-gia-cong-den-lam-chu-cong-nghe-dien-tu-20260225174417787.htm",
+      "summary": "Dù đã có nhiều doanh nghiệp Việt Nam từng bước tham gia chuỗi sản xuất của các tập đoàn đa quốc gia, song chị Trần Thị Thu Trang - Chủ tịch Công ty Cổ phần Công nghệ Thế hệ mới Hanel PT nhận thấy giá trị gia tăng trên mỗi sản phẩm vẫn còn khiêm tốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130908+07:00",
+      "fetched": "2026-02-25T19:58:58.131023+07:00"
+    },
+    {
+      "id": "a6fa28223a5947127bc0cc5c0dbf62f6",
+      "title": "Thủ tướng: Hoàn thành cơ sở dữ liệu thanh tra kiểm soát tài sản, thu nhập của cán bộ, công chức",
+      "link": "https://tuoitre.vn/thu-tuong-hoan-thanh-co-so-du-lieu-thanh-tra-kiem-soat-tai-san-thu-nhap-cua-can-bo-cong-chuc-20260225183035326.htm",
+      "summary": "Chiều 25-2, Thủ tướng Phạm Minh Chính, Trưởng Ban Chỉ đạo Chính phủ về phát triển khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số và Đề án 06, chủ trì phiên họp lần thứ nhất năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130783+07:00",
+      "fetched": "2026-02-25T19:58:58.130897+07:00"
+    },
+    {
+      "id": "b8a7ae112987ebfa560ee5c3e654f6a4",
+      "title": "Bộ Nông nghiệp và Môi trường yêu cầu Lào Cai công khai kết quả xử lý vụ nổ nhà máy phốt pho",
+      "link": "https://tuoitre.vn/bo-nong-nghiep-va-moi-truong-yeu-cau-lao-cai-cong-khai-ket-qua-xu-ly-vu-no-nha-may-phot-pho-20260225183933892.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường đề nghị tỉnh Lào Cai xử lý sự cố gây nổ ở Công ty TNHH Phốt pho vàng Việt Nam (PP5) và công khai kết quả xử lý cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130658+07:00",
+      "fetched": "2026-02-25T19:58:58.130771+07:00"
+    },
+    {
+      "id": "cd80cfc8722736eb962dc67ac10e96e1",
+      "title": "Gần 1.300 người bệnh được cứu sống nhờ ghép tạng tại Bệnh viện Trung ương Quân đội 108",
+      "link": "https://tuoitre.vn/gan-1-300-nguoi-benh-duoc-cuu-song-nho-ghep-tang-tai-benh-vien-trung-uong-quan-doi-108-20260225183717766.htm",
+      "summary": "Bắt đầu từ ca ghép thận tháng 12-2016, sau 10 năm Bệnh viện Trung ương Quân đội 108 đã thực hiện thành công hơn 1.000 ca ghép, mang lại sự sống cho người bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130534+07:00",
+      "fetched": "2026-02-25T19:58:58.130647+07:00"
+    },
+    {
+      "id": "5d0111d72ce07f55b3ce846a59f7c797",
+      "title": "Từ mũi kim xuyên tử cung đến thông tim bào thai trong 30 phút, bé trai đã chào đời an toàn",
+      "link": "https://tuoitre.vn/tu-mui-kim-xuyen-tu-cung-den-thong-tim-bao-thai-trong-30-phut-be-trai-da-chao-doi-an-toan-20260225185201179.htm",
+      "summary": "Sau gần hai tháng can thiệp tim bào thai, bé trai đã chào đời khỏe mạnh, nặng 3,2kg. Sau tiếng khóc đầu đời này là hành trình mang thai đầy thử thách của người mẹ trẻ và từng được can thiệp tim bào thai thành công chỉ trong 30 phút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130406+07:00",
+      "fetched": "2026-02-25T19:58:58.130522+07:00"
+    },
+    {
+      "id": "a00e770aa9e53e4c7ffe3e6c143ffb8a",
+      "title": "Bí thư Thành ủy TP.HCM Trần Lưu Quang thăm cán bộ lão thành ngành y tế",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-tp-hcm-tran-luu-quang-tham-can-bo-lao-thanh-nganh-y-te-20260225184918814.htm",
+      "summary": "Chiều 25-2, Bí thư Thành ủy TP.HCM Trần Lưu Quang thăm, tri ân các cán bộ lão thành ngành y nhân 71 năm Ngày Thầy thuốc Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130272+07:00",
+      "fetched": "2026-02-25T19:58:58.130390+07:00"
+    },
+    {
+      "id": "bab14dcb634d4e155d857efc71382734",
+      "title": "120 tài xế bị phạt vì dùng điện thoại khi lái xe trên cao tốc",
+      "link": "https://tuoitre.vn/120-tai-xe-bi-phat-vi-dung-dien-thoai-khi-lai-xe-tren-cao-toc-20260225190519682.htm",
+      "summary": "Cảnh sát giao thông phát hiện nhiều tài xế vừa lái xe vừa dùng điện thoại trên cao tốc, đã xử lý 120 trường hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.130127+07:00",
+      "fetched": "2026-02-25T19:58:58.130259+07:00"
+    },
+    {
+      "id": "034b0a862a932dd6038afda5b61f3d50",
+      "title": "Vikki Bank tiếp tục triển khai gói tín dụng khôi phục sản xuất kinh doanh",
+      "link": "https://tuoitre.vn/vikki-bank-tiep-tuc-trien-khai-goi-tin-dung-khoi-phuc-san-xuat-kinh-doanh-20260225165402992.htm",
+      "summary": "Bước sang năm mới Bính Ngọ 2026 Vikki Bank tiếp tục triển khai gói tín dụng ưu đãi 10.000 tỉ đồng nhằm đồng hành cùng doanh nghiệp và người dân khôi phục sản xuất - kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129999+07:00",
+      "fetched": "2026-02-25T19:58:58.130116+07:00"
+    },
+    {
+      "id": "5a03d839c8fc943b4636033577625e3f",
+      "title": "Tuyển thủ U23 Việt Nam Phạm Lý Đức đua trụ hạng cùng PVF-CAND",
+      "link": "https://tuoitre.vn/tuyen-thu-u23-viet-nam-pham-ly-duc-dua-tru-hang-cung-pvf-cand-20260225192034628.htm",
+      "summary": "Trung vệ Phạm Lý Đức được CLB Công An Hà Nội \"chi viện\" cho PVF-CAND, để đua trụ hạng trong giai đoạn còn lại của LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129864+07:00",
+      "fetched": "2026-02-25T19:58:58.129987+07:00"
+    },
+    {
+      "id": "6a2e11d41aa650a5c9d1770bea8a0faf",
+      "title": "TP.HCM bỏ phiếu sớm từ ngày 26-2 bầu cử đại biểu Quốc hội và HĐND",
+      "link": "https://tuoitre.vn/tp-hcm-bo-phieu-som-tu-ngay-26-2-bau-cu-dai-bieu-quoc-hoi-va-hdnd-20260225191614575.htm",
+      "summary": "Do đặc thù công tác dài ngày trên biển nên hơn 4.500 cử tri TP.HCM công tác trong quân đội, dầu khí sẽ bắt đầu bỏ phiếu sớm từ ngày 26-2, trong khi công tác chuẩn bị cho ngày bầu cử 15-3 tiếp tục  được thực hiện chu đáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129733+07:00",
+      "fetched": "2026-02-25T19:58:58.129853+07:00"
+    },
+    {
+      "id": "08fa59b0606b96cfc0730ed9a8dfd062",
+      "title": "Ngày thơ Việt Nam năm nay không thả thơ lên trời nữa",
+      "link": "https://tuoitre.vn/ngay-tho-viet-nam-nam-nay-khong-tha-tho-len-troi-nua-20260225185825501.htm",
+      "summary": "Một số bạn yêu thơ sẽ không còn phải/được hài hước đặt câu hỏi: ‘Thả thơ lên trời cho ai đọc?’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129596+07:00",
+      "fetched": "2026-02-25T19:58:58.129720+07:00"
+    },
+    {
+      "id": "9d138c102d1190f9705238883a27df0e",
+      "title": "Công an Đồng Tháp tạm giữ người đàn ông giết nhân tình trong đêm",
+      "link": "https://tuoitre.vn/cong-an-dong-thap-tam-giu-nguoi-dan-ong-giet-nhan-tinh-trong-dem-20260225191703279.htm",
+      "summary": "Ngày 25-2, Cơ quan Cảnh sát điều tra Công an tỉnh Đồng Tháp đã tạm giữ hình sự Nguyễn Việt Thanh (38 tuổi, thường trú ấp Trung Bình, xã Thoại Sơn, tỉnh An Giang) để điều tra, xử lý về hành vi giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129444+07:00",
+      "fetched": "2026-02-25T19:58:58.129573+07:00"
+    },
+    {
+      "id": "5124742f133fdfc784a8ad4f69b8fed4",
+      "title": "Tòa án nhân dân tỉnh Đồng Tháp mở phiên tòa tái thẩm đầu tiên",
+      "link": "https://tuoitre.vn/toa-an-nhan-dan-tinh-dong-thap-mo-phien-toa-tai-tham-dau-tien-20260225180639633.htm",
+      "summary": "Tòa án nhân dân tỉnh Đồng Tháp mở phiên tòa tái thẩm xét xử vụ án vi phạm quy định về tham gia giao thông đường bộ đối với người bị kết án Trần Quốc Cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T19:58:58.129201+07:00",
+      "fetched": "2026-02-25T19:58:58.129428+07:00"
+    },
     {
       "id": "58fa4b353971a2a464981381a84f6ec9",
       "title": "'Siêu dự án' Làng Vân Đà Nẵng chính thức có giá đất, đất ở đô thị giá hơn 15 triệu đồng/m²",
@@ -333,6 +483,336 @@ window.newsData_2026_02_25 = {
       "fetched": "2026-02-25T13:59:00.591259+07:00"
     },
     {
+      "id": "9046dcbfee17b15b8c308c7e4a2150c8",
+      "title": "Nguyễn Tiến Minh 'khóc ròng' với sự cố bất ngờ ở giải cầu lông quốc tế Singapore",
+      "link": "https://thanhnien.vn/nguyen-tien-minh-khoc-rong-voi-su-co-bat-ngo-o-giai-cau-long-quoc-te-singapore-185260225192158624.htm",
+      "summary": "Tay vợt kỳ cựu Nguyễn Tiến Minh không may gặp sự cố bất ngờ ở giải cầu lông quốc tế Singapore (SBH Singapore International Challenge) diễn ra hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:58:00+07:00",
+      "fetched": "2026-02-25T19:58:57.169738+07:00"
+    },
+    {
+      "id": "b3d172e4e904d44fa0e190a69fde561e",
+      "title": "CSGT xử phạt tài xế lái xe bán tải 'cướp làn', vượt ẩu trên cao tốc",
+      "link": "https://thanhnien.vn/csgt-xu-phat-tai-xe-lai-xe-ban-tai-cuop-lan-vuot-au-tren-cao-toc-185260225163249855.htm",
+      "summary": "Trong khi các phương tiện khác \"rồng rắn\" xếp hàng, nối đuôi nhau trên cao tốc,  tài xế bất chấp lái xe bán tải lấn hẳn sang làn đường ngược chiều để vượt cùng lúc nhiều ô tô. Thậm chí, khi thấy xe ngược hướng, người này còn liên tục \"đá\" đèn pha đòi nhường đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:58:00+07:00",
+      "fetched": "2026-02-25T19:58:57.169907+07:00"
+    },
+    {
+      "id": "d50cac2a217531de94dc5ef001eb0156",
+      "title": "Sếp Trung Quốc chi 26 triệu USD thưởng tết, cho nhân viên 'vét tiền' thỏa thích",
+      "link": "https://thanhnien.vn/sep-trung-quoc-chi-26-trieu-usd-thuong-tet-cho-nhan-vien-vet-tien-thoa-thich-185260225191051536.htm",
+      "summary": "Lãnh đạo một công ty ở Trung Quốc đã gây bão mạng xã hội khi chi 180 triệu nhân dân tệ (khoảng 26 triệu USD) để thưởng tết cho nhân viên, với hình thức tặng thưởng độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:53:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170065+07:00"
+    },
+    {
+      "id": "f9ab931e2204e4975e09ceed2daf6926",
+      "title": "Vẻ đẹp 'Nàng Dae Jang Geum' Lee Young Ae",
+      "link": "https://vnexpress.net/ve-dep-nang-dae-jang-geum-lee-young-ae-5044042.html",
+      "summary": "Lee Young Ae - minh tinh Hàn đóng chính \"Nàng Dae Jang Geum\" - được fan khen vóc dáng, làn da và nụ cười đẹp ở tuổi 55.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:46:58+07:00",
+      "fetched": "2026-02-25T19:58:54.279751+07:00"
+    },
+    {
+      "id": "4676c343e46b2c92b4225bdc55bd48e0",
+      "title": "Du khách đội mưa lên huyệt đạo thiêng lấy ‘nước tiên’ cầu may",
+      "link": "https://vnexpress.net/du-khach-doi-mua-len-huyet-dao-thieng-lay-nuoc-tien-cau-may-5044087.html",
+      "summary": "Hàng nghìn người leo lên đỉnh Ngàn Nưa trong ngày \"mở cổng trời\", dâng hương, thiền hành quanh huyệt đạo thiêng và xin nước giếng tiên với niềm tin mang lại may mắn, bình an năm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:43:56+07:00",
+      "fetched": "2026-02-25T19:58:54.279933+07:00"
+    },
+    {
+      "id": "5b3cbdc6c0a6b6480c722849c3ba16a0",
+      "title": "Sát hại 'vợ hờ' vì ghen",
+      "link": "https://vnexpress.net/sat-hai-vo-ho-vi-ghen-5044100.html",
+      "summary": "Nguyễn Việt Thanh, 38 tuổi, sau khi chia tay phát hiện \"vợ hờ\" có người đàn ông khác nên cầm dao mai phục, sát hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:37:34+07:00",
+      "fetched": "2026-02-25T19:58:54.280099+07:00"
+    },
+    {
+      "id": "ed3a07acfab37f186c549b3735a69476",
+      "title": "Thi công mở rộng cao tốc La Sơn - Hòa Liên: Khi nào về đích?",
+      "link": "https://thanhnien.vn/thi-cong-mo-rong-cao-toc-la-son-hoa-lien-khi-nao-ve-dich-185260225163128406.htm",
+      "summary": "Những ngày đầu năm Bính Ngọ 2026, các nhà thầu thi công mở rộng cao tốc La Sơn - Hòa Liên đang hối hả đôn đốc công nhân, làm việc hết công suất, hoàn thành mục tiêu về đích cuối tháng 3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:34:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170217+07:00"
+    },
+    {
+      "id": "7883179aadd439da1b0de633c012668b",
+      "title": "Xe đi vào làn khẩn cấp cao tốc TP.HCM - Trung Lương tối mùng 6 tết không bị phạt",
+      "link": "https://thanhnien.vn/xe-di-vao-lan-khan-cap-cao-toc-tphcm-trung-luong-toi-mung-6-tet-khong-bi-phat-185260225171448073.htm",
+      "summary": "Cơ quan chức năng cho biết, những xe chấp thuận theo hướng dẫn của CSGT đi vào làn khẩn cấp trên cao tốc TP.HCM - Trung Lương vào tối mùng 6 Tết Bính Ngọ 2026 sẽ không bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:32:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170391+07:00"
+    },
+    {
+      "id": "2e7667c8e8c062986327d0efcd3b8f7f",
+      "title": "Lễ hội đầu năm nào dài nhất Việt Nam?",
+      "link": "https://vnexpress.net/le-hoi-dau-nam-nao-dai-nhat-viet-nam-5044032.html",
+      "summary": "Lễ hội diễn ra ngay sau Tết, kéo dài hơn ba tháng, trong đó giai đoạn cao điểm từ rằm tháng Giêng đến 18/2 âm lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:30:00+07:00",
+      "fetched": "2026-02-25T19:58:54.280301+07:00"
+    },
+    {
+      "id": "68168d5bca4350a19ea5116d9ffea2ff",
+      "title": "Hẻm TP.HCM rộn ràng tục cúng xóm cầu an của người Quảng",
+      "link": "https://thanhnien.vn/hem-tphcm-ron-rang-tuc-cung-xom-cau-an-cua-nguoi-quang-185241006122029125.htm",
+      "summary": "Mùng 8 tết, cộng đồng người Quảng Nam (nay là TP.Đà Nẵng) sinh sống trên địa bàn quận Tân Bình cũ làm lễ cúng xóm cầu an dịp đầu năm mới theo tục lệ truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:30:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170550+07:00"
+    },
+    {
+      "id": "cedc48b32fb281b66ced1311eb0b3773",
+      "title": "'Mắt thần' hé lộ thế giới động vật kỳ thú tại di sản Mỹ Sơn",
+      "link": "https://thanhnien.vn/mat-than-he-lo-the-gioi-dong-vat-ky-thu-tai-di-san-my-son-185260225175207769.htm",
+      "summary": "Hàng chục loài động vật quý hiếm, bao gồm cả những loài linh trưởng và thú ăn thịt cỡ trung, vừa được ghi nhận thông qua hệ thống bẫy ảnh tự động, khẳng định sự hồi sinh mạnh mẽ của hệ sinh thái tại khu di sản văn hóa thế giới Mỹ Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:28:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170711+07:00"
+    },
+    {
+      "id": "bddc142001a526fe8c2071a6024bc593",
+      "title": "Thanh niên dùng clip nóng để cưỡng dâm người yêu cũ",
+      "link": "https://vnexpress.net/thanh-nien-dung-clip-nong-de-cuong-dam-nguoi-yeu-cu-5044098.html",
+      "summary": "Bị dọa phát tán clip riêng tư, cô gái 19 tuổi nhiều lần phải miễn cưỡng quan hệ với người yêu cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:27:45+07:00",
+      "fetched": "2026-02-25T19:58:54.280471+07:00"
+    },
+    {
+      "id": "b97b8054ce16fe874df8c567b954a56b",
+      "title": "Toàn văn Thông điệp Liên bang dài nhất lịch sử Mỹ của ông Trump",
+      "link": "https://vnexpress.net/toan-van-thong-diep-lien-bang-dai-nhat-lich-su-my-cua-ong-trump-5043933.html",
+      "summary": "Tổng thống Mỹ Donald Trump tối 24/2 đề cập hàng loạt vấn đề về đối nội và đối ngoại trong 108 phút trình bày Thông điệp Liên bang dài nhất lịch sử Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:25:18+07:00",
+      "fetched": "2026-02-25T19:58:54.280631+07:00"
+    },
+    {
+      "id": "b97b8054ce16fe874df8c567b954a56b",
+      "title": "Toàn văn Thông điệp Liên bang dài nhất lịch sử Mỹ của ông Trump",
+      "link": "https://vnexpress.net/toan-van-thong-diep-lien-bang-dai-nhat-lich-su-my-cua-ong-trump-5043933.html",
+      "summary": "Tổng thống Mỹ Donald Trump tối 24/2 đề cập hàng loạt vấn đề về đối nội và đối ngoại trong 108 phút trình bày Thông điệp Liên bang dài nhất lịch sử Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T12:25:18+07:00",
+      "fetched": "2026-02-25T19:58:59.596321+07:00"
+    },
+    {
+      "id": "f65b1b4fd204caa7e9608f9dac7795ca",
+      "title": "Nhân viên Uber tạo bản sao AI của CEO",
+      "link": "https://vnexpress.net/nhan-vien-uber-tao-ban-sao-ai-cua-ceo-5044070.html",
+      "summary": "Tại Uber, AI không chỉ hỗ trợ lái xe và sắp xếp chuyến đi mà còn mô phỏng CEO Dara Khosrowshahi để giúp nhân viên chỉnh sửa bài thuyết trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:21:44+07:00",
+      "fetched": "2026-02-25T19:58:54.280793+07:00"
+    },
+    {
+      "id": "f65b1b4fd204caa7e9608f9dac7795ca",
+      "title": "Nhân viên Uber tạo bản sao AI của CEO",
+      "link": "https://vnexpress.net/nhan-vien-uber-tao-ban-sao-ai-cua-ceo-5044070.html",
+      "summary": "Tại Uber, AI không chỉ hỗ trợ lái xe và sắp xếp chuyến đi mà còn mô phỏng CEO Dara Khosrowshahi để giúp nhân viên chỉnh sửa bài thuyết trình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-25T12:21:44+07:00",
+      "fetched": "2026-02-25T19:59:03.367146+07:00"
+    },
+    {
+      "id": "82250f7f2d04de9778b40055e010d836",
+      "title": "Mua vàng trước ngày vía Thần Tài: Khách hàng trẻ chọn nữ trang lấy hên đầu năm",
+      "link": "https://thanhnien.vn/mua-vang-truoc-ngay-via-than-tai-khach-hang-tre-chon-nu-trang-lay-hen-dau-nam-185260225191346677.htm",
+      "summary": "Chưa đến ngày vía Thần Tài, không khí ở nhiều điểm kinh doanh vàng ở TP.HCM đã nhộn nhịp khi có nhiều người trẻ tại TP.HCM đã chủ động mua vàng sớm. Không chỉ với mong muốn cầu may đầu năm, việc mua vàng còn được xem là một hình thức tích trữ tài sản lâu dài, phù hợp với điều kiện tài chính cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:20:00+07:00",
+      "fetched": "2026-02-25T19:58:57.170863+07:00"
+    },
+    {
+      "id": "48f991626ae019da2151e9e7c4ef44c5",
+      "title": "4 smartphone pin 'trâu' hàng đầu hiện nay",
+      "link": "https://thanhnien.vn/4-smartphone-pin-trau-hang-dau-hien-nay-185260211134533501.htm",
+      "summary": "Danh sách những điện thoại pin 'khủng' nhất giúp chụp ảnh, quay phim cả ngày không cần sạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:20:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171010+07:00"
+    },
+    {
+      "id": "5cd3aa18b70219d267e1040825b830ce",
+      "title": "Top 7 sữa rửa mặt trắng da ‘ai dùng rồi cũng dính’ tới già",
+      "link": "https://thanhnien.vn/top-7-sua-rua-mat-trang-da-ai-dung-roi-cung-dinh-toi-gia-185260225195132493.htm",
+      "summary": "'Sữa rửa mặt trắng da' đang là từ khóa được săn lùng nhiều khi làn da ngày càng xỉn màu vì nắng, khói bụi và stress. Nhưng đâu mới là sản phẩm vừa làm sạch sâu, vừa hỗ trợ nâng tông thật sự? Top 7 sữa rửa mặt trắng da dưới đây không chỉ gây sốt vì hiệu quả, mà còn khiến nhiều người 'dùng một lần là ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:11:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171170+07:00"
+    },
+    {
+      "id": "1495ba82f45615a8c3276fee5a8740dd",
+      "title": "Hành trình trỗi dậy của CJNG - băng đảng bạo lực nhất Mexico",
+      "link": "https://vnexpress.net/hanh-trinh-troi-day-cua-cjng-bang-dang-bao-luc-nhat-mexico-5043559.html",
+      "summary": "Từ tàn dư sau nội chiến băng đảng, CJNG trỗi dậy thành tổ chức tội phạm khét tiếng và quyền lực nhất Mexico, với hàng nghìn thành viên trang bị không kém gì quân đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:54.280956+07:00"
+    },
+    {
+      "id": "abc4735d8c6899cde36a431debf8dc11",
+      "title": "Mắc bệnh tình dục ở tuổi già",
+      "link": "https://vnexpress.net/mac-benh-tinh-duc-o-tuoi-gia-5044095.html",
+      "summary": "Sau lần quan hệ không sử dụng biện pháp an toàn, vùng kín của ông Hạch, 65 tuổi, Hà Nội, mọc nhiều nốt sùi to nhỏ, khiến việc điều trị khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:54.281120+07:00"
+    },
+    {
+      "id": "8e0d532b7f8b00ab73a694b77f5cd5a3",
+      "title": "Sỏi thận rơi xuống bàng quang nguy hiểm thế nào?",
+      "link": "https://vnexpress.net/soi-than-roi-xuong-bang-quang-nguy-hiem-the-nao-5044082.html",
+      "summary": "Tôi có sỏi bàng quang 19 mm, sỏi này có nguy hiểm không và nên điều trị thế nào? (Hoàng Lê, 57 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:54.281299+07:00"
+    },
+    {
+      "id": "032038afa724a62c91bd9b16c982798f",
+      "title": "Phì đại tuyến tiền liệt kèm sỏi bàng quang gây bí tiểu",
+      "link": "https://vnexpress.net/phi-dai-tuyen-tien-liet-kem-soi-bang-quang-gay-bi-tieu-5044021.html",
+      "summary": "Tuyến tiền liệt phình to gấp 4 lần kèm sỏi bàng quang khiến ông Đức, 84 tuổi, hai lần bí tiểu phải nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:54.281457+07:00"
+    },
+    {
+      "id": "2ce91568b51496923e0fa24ac5c0fd4d",
+      "title": "6 lý do hít thở sâu tốt cho sức khỏe tổng thể",
+      "link": "https://vnexpress.net/6-ly-do-hit-tho-sau-tot-cho-suc-khoe-tong-the-5043977.html",
+      "summary": "Hít thở sâu giúp cải thiện thông khí phổi và kích hoạt phản ứng thư giãn của cơ thể, từ đó hỗ trợ tuần hoàn máu và góp phần ổn định huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:54.281614+07:00"
+    },
+    {
+      "id": "6e87d5b610289aff6987eeed93671fb3",
+      "title": "Vikki Bank tiếp tục triển khai gói tín dụng 10.000 tỉ đồng năm Bính Ngọ 2026",
+      "link": "https://thanhnien.vn/vikki-bank-tiep-tuc-trien-khai-goi-tin-dung-10000-ti-dong-nam-binh-ngo-2026-18526022516385995.htm",
+      "summary": "Bước sang năm mới Bính Ngọ 2026 với tinh thần 'Mã đáo thành công', Vikki Bank tiếp tục triển khai gói tín dụng ưu đãi 10.000 tỉ đồng nhằm đồng hành cùng doanh nghiệp và người dân khôi phục sản xuất - kinh doanh, ổn định đời sống và tạo đà tăng trưởng bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171338+07:00"
+    },
+    {
+      "id": "b644ce0c9b894d33c99d01b63c45f5b5",
+      "title": "Đại học thời đại số: Bức tranh ngành học đang thay đổi ra sao?",
+      "link": "https://thanhnien.vn/dai-hoc-thoi-dai-so-buc-tranh-nganh-hoc-dang-thay-doi-ra-sao-185260215125849946.htm",
+      "summary": "Giữa thời đại bùng nổ công nghệ, ngành học hiện đang thay đổi ra sao, đó là băn khoăn của nhiều phụ huynh, học sinh?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171487+07:00"
+    },
+    {
+      "id": "1495ba82f45615a8c3276fee5a8740dd",
+      "title": "Hành trình trỗi dậy của CJNG - băng đảng bạo lực nhất Mexico",
+      "link": "https://vnexpress.net/hanh-trinh-troi-day-cua-cjng-bang-dang-bao-luc-nhat-mexico-5043559.html",
+      "summary": "Từ tàn dư sau nội chiến băng đảng, CJNG trỗi dậy thành tổ chức tội phạm khét tiếng và quyền lực nhất Mexico, với hàng nghìn thành viên trang bị không kém gì quân đội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T12:00:00+07:00",
+      "fetched": "2026-02-25T19:58:59.596501+07:00"
+    },
+    {
+      "id": "0e9dc7b935ece52c1b34558c1336ad18",
+      "title": "Quán quân 'Sing! Asia' tới Việt Nam",
+      "link": "https://vnexpress.net/quan-quan-sing-asia-toi-viet-nam-5043955.html",
+      "summary": "Miyuna, người Nhật Bản - quán quân \"Sing! Asia 2025\" - sẽ đến TP HCM biểu diễn ở lễ hội âm nhạc vào tháng 3 cùng loạt sao Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:55:07+07:00",
+      "fetched": "2026-02-25T19:58:54.281767+07:00"
+    },
+    {
+      "id": "47c3f64152b7ed3289d2c69a44b290ea",
+      "title": "Bảng xếp hạng giải Đông Nam Á mới nhất: Việt Nam bứt phá giành ngôi nhì, đấu Myanmar tranh vé bán kết",
+      "link": "https://thanhnien.vn/bang-xep-hang-giai-dong-nam-a-moi-nhat-viet-nam-but-pha-gianh-ngoi-nhi-dau-myanmar-tranh-ve-ban-ket-185260225184156844.htm",
+      "summary": "Sau chiến thắng thuyết phục trước Philippines vào trưa nay (25.2), đội tuyển futsal nữ Việt Nam đã có bước tiến mạnh mẽ trên bảng xếp hạng giải vô địch Đông Nam Á 2026. Kết quả này giúp thầy trò HLV Nguyễn Đình Hoàng thắp sáng lại hy vọng giành vé đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:46:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171634+07:00"
+    },
+    {
+      "id": "dfb9cdcaffb154ab81628312af43c699",
+      "title": "Trạm dừng nghỉ cao tốc 'thất thủ': Cục Đường bộ nói gì?",
+      "link": "https://thanhnien.vn/tram-dung-nghi-cao-toc-that-thu-cuc-duong-bo-noi-gi-185260225172446774.htm",
+      "summary": "Cục Đường bộ cho biết, tình trạng ùn tắc cục bộ trên cao tốc Cam Lâm - Vĩnh Hảo lý do lưu lượng tăng cao. Trạm dừng nghỉ do nhà đầu tư vận hành, cục sẽ có văn bản nhắc nhở hoàn thiện và sớm khai thác để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:44:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171786+07:00"
+    },
+    {
+      "id": "e2a757e9bf2720b7d530c0562d6909b3",
+      "title": "Luật sư dự báo 7 cầu thủ nhập tịch ‘lậu’ Malaysia thua kiện tại CAS, FAM đã bỏ cuộc",
+      "link": "https://thanhnien.vn/luat-su-du-bao-7-cau-thu-nhap-tich-lau-malaysia-thua-kien-tai-cas-fam-da-bo-cuoc-185260225183253666.htm",
+      "summary": "Theo luật sư thể thao Nik Erman Nik Roseli, tình thế của 7 cầu thủ nhập tịch 'lậu' Malaysia tại CAS không có nhiều khả năng thắng kiện, trong khi FAM đã bỏ cuộc từ các phiên điều trần của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:42:00+07:00",
+      "fetched": "2026-02-25T19:58:57.171946+07:00"
+    },
+    {
+      "id": "321713a84d4dda6212633fb68d088d5c",
+      "title": "Mỹ hé lộ phiên bản tiêm kích tàng hình hiện đại hơn F-22",
+      "link": "https://vnexpress.net/my-he-lo-phien-ban-tiem-kich-tang-hinh-hien-dai-hon-f-22-5044057.html",
+      "summary": "Tập đoàn Mỹ giới thiệu mô hình biến thể F-22 nâng cấp với biệt danh \"Raptor 2.0\", dự kiến được trang bị thùng dầu phụ tàng hình và cảm biến hồng ngoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:40:16+07:00",
+      "fetched": "2026-02-25T19:58:54.281932+07:00"
+    },
+    {
+      "id": "321713a84d4dda6212633fb68d088d5c",
+      "title": "Mỹ hé lộ phiên bản tiêm kích tàng hình hiện đại hơn F-22",
+      "link": "https://vnexpress.net/my-he-lo-phien-ban-tiem-kich-tang-hinh-hien-dai-hon-f-22-5044057.html",
+      "summary": "Tập đoàn Mỹ giới thiệu mô hình biến thể F-22 nâng cấp với biệt danh \"Raptor 2.0\", dự kiến được trang bị thùng dầu phụ tàng hình và cảm biến hồng ngoại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T11:40:16+07:00",
+      "fetched": "2026-02-25T19:58:59.596662+07:00"
+    },
+    {
       "id": "4a9e40d9ea7b3546dbe1d7a4ee9e37fa",
       "title": "Thay 'áo xanh' cho công nghiệp",
       "link": "https://tuoitre.vn/thay-ao-xanh-cho-cong-nghiep-20260225080515507.htm",
@@ -481,6 +961,26 @@ window.newsData_2026_02_25 = {
       "category": "Tổng hợp",
       "published": "2026-02-25T11:20:55.033859+07:00",
       "fetched": "2026-02-25T11:20:55.034075+07:00"
+    },
+    {
+      "id": "7fb1dcb9d5707e8b7478c20dbec567a2",
+      "title": "Điểm tin 17h: Giá vàng miếng vượt 185 triệu đồng | Đi máy bay từ năm 2026: Khách phải chịu trách nhiệm về hành lý",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-vang-mieng-vuot-185-trieu-dong-di-may-bay-tu-nam-2026-khach-phai-chiu-trach-nhiem-ve-hanh-ly-5044092.html",
+      "summary": "Ông Nguyễn Thanh Nghị: Sẽ sửa Luật Đất đai trong năm nay; Đề xuất làm trục 8-10 làn xe và đường sắt nhẹ ven sông Sài Gòn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-25T11:12:34+07:00",
+      "fetched": "2026-02-25T19:58:54.282090+07:00"
+    },
+    {
+      "id": "ba6c7acc379a3f36f86dcead09eb8461",
+      "title": "Iran bác cáo buộc của ông Trump về 'tên lửa vươn tới Mỹ'",
+      "link": "https://vnexpress.net/iran-bac-cao-buoc-cua-ong-trump-ve-ten-lua-vuon-toi-my-5044078.html",
+      "summary": "Tehran cho rằng Washington lan truyền \"những lời dối trá\" về chương trình vũ khí của họ sau khi ông Trump nói Iran đang chế tạo tên lửa có thể tấn công Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-25T11:08:00+07:00",
+      "fetched": "2026-02-25T19:58:59.596819+07:00"
     },
     {
       "id": "06f55032e3ae9cf49f579135c858c93c",
