@@ -1,6 +1,6 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T03:34:13.829320+07:00",
+  "lastUpdated": "2026-02-27T05:30:33.660771+07:00",
   "articles": [
     {
       "id": "ac60baedb8c7628d8ca641d5c2fd997b",
@@ -161,6 +161,176 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T01:50:21.409363+07:00",
       "fetched": "2026-02-27T01:50:21.409594+07:00"
+    },
+    {
+      "id": "dd0b5ff21598f6e0f9d02a7eab79287d",
+      "title": "Nghề lạ: Đi vòng tròn đến chóng mặt bắt cá lia thia mưu sinh",
+      "link": "https://thanhnien.vn/nghe-la-di-vong-tron-den-chong-mat-bat-ca-lia-thia-muu-sinh-185260121093818545.htm",
+      "summary": "Giữa đồng bưng giáp ranh Tây Ninh và TP.HCM, nhiều người đi vòng tròn đến chóng mặt bắt cá lia thia mưu sinh, có ngày tốn tiền xăng mà tay trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:30:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012045+07:00"
+    },
+    {
+      "id": "1cdd9d1436a2e91251bb3fe7a9cb1d67",
+      "title": "Triều Tiên tung hai lá bài trái ngược với Mỹ - Hàn",
+      "link": "https://thanhnien.vn/trieu-tien-tung-hai-la-bai-trai-nguoc-voi-my-han-185260226214620074.htm",
+      "summary": "Trong khi đưa ra điều kiện để có thể hòa hợp với Mỹ, CHDCND Triều Tiên khước từ \"cành ô liu\" của Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:22:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012233+07:00"
+    },
+    {
+      "id": "ae6258407d47b889c5ca6b5f1ae3dabd",
+      "title": "Để linh vật 'sống' qua mùa tết",
+      "link": "https://thanhnien.vn/de-linh-vat-song-qua-mua-tet-185260226194844899.htm",
+      "summary": "Đề xuất của Sở Xây dựng TP.Đà Nẵng về việc tiếp tục trưng bày các linh vật ngựa sau Tết Bính Ngọ 2026 là tín hiệu tích cực cho thấy cách ứng xử văn minh với ngân sách và với chính những giá trị thẩm mỹ mà thành phố đã dày công đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:21:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012404+07:00"
+    },
+    {
+      "id": "9e85f98c1bf8af15b231257998a51e84",
+      "title": "Tử vi ngày 27 tháng 2: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-27-thang-2-con-giap-nao-may-man-hom-nay-185260227004123314.htm",
+      "summary": "Tử vi ngày 27 tháng 2 mang đến những gợi ý mang tính tham khảo cho 12 con giáp, xoay quanh công việc, tài chính và cảm xúc trong nhịp sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:15:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012562+07:00"
+    },
+    {
+      "id": "87a66b26bbbff5fee5da5ef182aa4dbd",
+      "title": "Ngày Thầy thuốc Việt Nam 27.2: Thầy thuốc Việt lập kỳ tích",
+      "link": "https://thanhnien.vn/ngay-thay-thuoc-viet-nam-272-thay-thuoc-viet-lap-ky-tich-18526022620360323.htm",
+      "summary": "Có những đêm, trong phòng mổ, ánh đèn vẫn sáng, tập trung vào từng chuyển động chính xác đến từng mi li mét của đôi tay bác sĩ. Ngoài hành lang, người nhà bệnh nhân 'nín thở' chờ đợi. Phía sau tất cả là một hệ thống đang vận hành nhịp nhàng không ngừng nghỉ - hệ thống y tế VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:05:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012714+07:00"
+    },
+    {
+      "id": "7f119dea7d5b14f0fecc2ab853d8e537",
+      "title": "AI và chuyên gia trị liệu tâm lý: Nghề 'lên ngôi' trong tương lai gần",
+      "link": "https://thanhnien.vn/ai-va-chuyen-gia-tri-lieu-tam-ly-nghe-len-ngoi-trong-tuong-lai-gan-185260226181553552.htm",
+      "summary": "Trong 3 - 5 năm tới, các nghề liên quan đến AI, công nghệ dữ liệu được dự đoán sẽ 'thống trị' thị trường việc làm, theo sau là ngành trị liệu tâm lý, sức khỏe tinh thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:01:00+07:00",
+      "fetched": "2026-02-27T05:30:25.012865+07:00"
+    },
+    {
+      "id": "6dc287ca87ef37ac5716dafe367d23c4",
+      "title": "Số phận bí ẩn của chủ mưu vụ trộm ngân hàng khét tiếng",
+      "link": "https://vnexpress.net/so-phan-bi-an-cua-chu-muu-vu-trom-ngan-hang-khet-tieng-5044457.html",
+      "summary": "Suốt 17 tiếng đồng hồ, gã thợ điện nằm co trong lớp trần giả của Bank of America cầm theo chiếc kính viễn vọng bỏ túi, cây bút, tờ giấy và cái bô trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:21.646359+07:00"
+    },
+    {
+      "id": "2fc3864267df89b7844786505fc8a362",
+      "title": "Người Việt mua gần 60 ôtô siêu sang, siêu xe trong 2025",
+      "link": "https://vnexpress.net/nguoi-viet-mua-gan-60-oto-sieu-sang-sieu-xe-trong-2025-5044266.html",
+      "summary": "Ngoài Bentley với lượng hàng chục, những hãng như Rolls-Royce, Lamborghini, Ferrari, McLaren có số xe đăng ký ra biển mới chỉ đếm trên đầu ngón tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:21.646539+07:00"
+    },
+    {
+      "id": "f758782cdb006a12b6eb5c5cf0eca1e4",
+      "title": "Không phải bốc thăm mua nhà xã hội: 'Lối ưu tiên' cho người bị thu hồi đất",
+      "link": "https://thanhnien.vn/khong-phai-boc-tham-mua-nha-xa-hoi-loi-uu-tien-cho-nguoi-bi-thu-hoi-dat-185260226212857493.htm",
+      "summary": "Chuyên gia pháp lý đánh giá quy định người bị thu hồi đất không phải bốc thăm mua nhà xã hội là một hình thức bảo đảm công bằng thực chất; giúp người bị thu hồi đảm bảo quyền có chỗ ở mới bằng hoặc tốt hơn nơi ở cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013015+07:00"
+    },
+    {
+      "id": "09bda8ea38b3dcacceee917cb8fa2d04",
+      "title": "Giữ 'hồn' núi rừng trên giấy bản",
+      "link": "https://thanhnien.vn/giu-hon-nui-rung-tren-giay-ban-185260226194119473.htm",
+      "summary": "Nép mình bên những sườn núi mờ sương của thôn Thanh Sơn (xã Bắc Quang, Tuyên Quang), bản của người Dao đỏ với nghề làm giấy được gìn giữ, phát triển bền bỉ hơn 1 thế kỷ nay. Từ những xấp giấy thô mộc phục vụ nghi lễ tâm linh, nay kỹ nghệ cổ truyền này đã trở thành Di sản văn hóa phi vật thể quốc gia...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013164+07:00"
+    },
+    {
+      "id": "527d6ae7cbadbf95df63e004546e2a60",
+      "title": "Chiến sự Ukraine ngày 1.464: Nga giáng đòn trả đũa khắp Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1464-nga-giang-don-tra-dua-khap-ukraine-185260226185205217.htm",
+      "summary": "Bộ Quốc phòng Nga hôm 26.2 xác nhận đã tấn công hàng loạt bằng máy bay không người lái (UAV) và tên lửa vào các cơ sở quân sự - công nghiệp và năng lượng trên khắp Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013343+07:00"
+    },
+    {
+      "id": "d768e010f5dbd5ec69298f49d13cdfe0",
+      "title": "Ngày 27.2 hôm nay là ngày gì mà nhiều người đặc biệt quan tâm?",
+      "link": "https://thanhnien.vn/ngay-272-la-ngay-gi-ma-hom-nay-nhieu-nguoi-dac-biet-quan-tam-185260226172322719.htm",
+      "summary": "Nhiều người quan tâm, tìm kiếm thông tin về ngày 27.2 hôm nay. Theo lịch vạn niên, lịch âm hôm nay là ngày gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013493+07:00"
+    },
+    {
+      "id": "bee79eb0d7237d5e459b066b31312b8d",
+      "title": "Nước đá không giúp 'mát' khi trời nóng như bạn tưởng",
+      "link": "https://thanhnien.vn/nuoc-da-khong-giup-mat-khi-troi-nong-nhu-ban-tuong-185260226082717087.htm",
+      "summary": "Nhiều người cho rằng trời nóng phải uống nước đá mới giải nhiệt nhanh. Tuy nhiên, các chuyên gia sức khỏe cho biết nước quá lạnh có thể khiến cơ thể mất cân bằng nhiệt tạm thời, thậm chí làm bạn khát nhanh hơn. Ngược lại, nước ấm hoặc nước ở nhiệt độ phòng lại giúp cơ thể làm mát hiệu quả và bền hơn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T22:00:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013644+07:00"
+    },
+    {
+      "id": "6aa0a56002c086a9e70dbac1c4ef8fe4",
+      "title": "Nóng: CAS bất ngờ 'lùi giờ G' vụ FAM kiện FIFA, hoãn phán quyết vì cần thêm thời gian",
+      "link": "https://thanhnien.vn/nong-cas-bat-ngo-lui-gio-g-vu-fam-kien-fifa-hoan-phan-quyet-vi-can-them-thoi-gian-185260227043915834.htm",
+      "summary": "Tòa án Trọng tài Thể thao quốc tế (CAS) đã khiến giới bóng đá Đông Nam Á bất ngờ khi chưa công bố phán quyết vụ kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) đối với án phạt từ FIFA, trái với kỳ vọng sẽ có kết quả vào rạng sáng 27.2 (giờ Việt Nam).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T21:46:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013799+07:00"
+    },
+    {
+      "id": "9f449da8e4e92e68f136e5acf9517711",
+      "title": "Tăng nguồn cung ở nhiều phân khúc để giảm giá nhà ở",
+      "link": "https://thanhnien.vn/tang-nguon-cung-o-nhieu-phan-khuc-de-giam-gia-nha-o-185260226203214696.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì phiên họp Ban Chỉ đạo T.Ư về chính sách nhà ở và thị trường bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T21:46:00+07:00",
+      "fetched": "2026-02-27T05:30:25.013952+07:00"
+    },
+    {
+      "id": "51cd67efc9d73d29a6ad05fe25269763",
+      "title": "Xung đột Ukraine giữa đánh và đàm",
+      "link": "https://thanhnien.vn/xung-dot-ukraine-giua-danh-va-dam-185260226195748073.htm",
+      "summary": "Chiến trường Ukraine tiếp tục hứng chịu các đợt không kích dữ dội gây thương vong và tàn phá hạ tầng, trong khi các kênh ngoại giao được thúc đẩy nhằm tìm lối thoát cho cuộc xung đột đã bước sang năm thứ 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T21:30:00+07:00",
+      "fetched": "2026-02-27T05:30:25.014099+07:00"
+    },
+    {
+      "id": "23a4c7428137b8e026a06abd9c17a404",
+      "title": "Đảm bảo công bằng tiếp cận giáo dục, coi trọng bảo vệ môi trường",
+      "link": "https://thanhnien.vn/dam-bao-cong-bang-tiep-can-giao-duc-coi-trong-bao-ve-moi-truong-185260226210821222.htm",
+      "summary": "Trả lời câu hỏi của cử tri, Tổng Bí thư Tô Lâm nêu rõ cần bảo đảm công bằng trong tiếp cận giáo dục và coi bảo vệ môi trường là nhiệm vụ trung tâm, ngang hàng với phát triển kinh tế và bảo đảm an sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T21:28:00+07:00",
+      "fetched": "2026-02-27T05:30:25.014322+07:00"
     },
     {
       "id": "7b474529b29ba1222d20f8cbb0119a1e",
