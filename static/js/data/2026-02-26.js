@@ -1,7 +1,157 @@
 window.newsData_2026_02_26 = {
   "date": "2026-02-26",
-  "lastUpdated": "2026-02-26T08:51:50.671469+07:00",
+  "lastUpdated": "2026-02-26T11:14:11.443984+07:00",
   "articles": [
+    {
+      "id": "531bc2c3694139247e912f0fddf34ee6",
+      "title": "Đọc nhanh 26-2: Bitcoin tăng vọt; chủ đầu tư sân bay Long Thành thay người đại diện pháp luật",
+      "link": "https://tuoitre.vn/doc-nhanh-26-2-bitcoin-tang-vot-chu-dau-tu-san-bay-long-thanh-thay-nguoi-dai-dien-phap-luat-20260226075455266.htm",
+      "summary": "Thị trường tài sản thế giới ghi nhận nhiều biến động mạnh. Trong nước, VN-Index kết phiên ngày 25-2 trong sắc đỏ sau 5 phiên tăng liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.164520+07:00",
+      "fetched": "2026-02-26T11:14:04.164632+07:00"
+    },
+    {
+      "id": "bde9de857dd494b582224d2b8f6b2aa8",
+      "title": "10 ngôi sao mặc đẹp nhất lịch sử SAG Awards",
+      "link": "https://tuoitre.vn/10-ngoi-sao-mac-dep-nhat-lich-su-sag-awards-20260225110850568.htm",
+      "summary": "Nhiều năm qua, thảm đỏ của SAG Awards là nơi ghi dấu nhiều khoảnh khắc thời trang ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.164392+07:00",
+      "fetched": "2026-02-26T11:14:04.164508+07:00"
+    },
+    {
+      "id": "8cb27d9b77eda9a64b60dc09d9616b25",
+      "title": "Báo Tuổi Trẻ thăm, chúc mừng Sở Y tế, các bệnh viện nhân Ngày Thầy thuốc Việt Nam 27-2",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-tham-chuc-mung-so-y-te-cac-benh-vien-nhan-ngay-thay-thuoc-viet-nam-27-2-20260225214930812.htm",
+      "summary": "Nhân kỷ niệm 71 năm Ngày Thầy thuốc Việt Nam (27-2-1955 - 27-2-2026), Ban biên tập báo Tuổi Trẻ đã tổ chức các đoàn đến thăm, chúc mừng và tri ân đội ngũ y bác sĩ, nhân viên y tế tại nhiều bệnh viện, cơ sở y tế trên địa bàn TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.164262+07:00",
+      "fetched": "2026-02-26T11:14:04.164376+07:00"
+    },
+    {
+      "id": "a5f5418796cda9d162c89d0d5a83b24c",
+      "title": "Bứt tốc ghép tạng, hiến tạng bước ra 'bản đồ' thế giới",
+      "link": "https://tuoitre.vn/but-toc-ghep-tang-hien-tang-buoc-ra-ban-do-the-gioi-20260226081157653.htm",
+      "summary": "Năm qua, Việt Nam ghi nhận loạt cột mốc lần đầu ghép đồng thời cả tim lẫn phổi và kỷ lục 66 người chết não hiến tạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.164130+07:00",
+      "fetched": "2026-02-26T11:14:04.164250+07:00"
+    },
+    {
+      "id": "9fb94639e7c5a345241e2bb5607f90fe",
+      "title": "Những thực phẩm nào chứa vitamin có tác dụng hỗ trợ làm da đẹp?",
+      "link": "https://tuoitre.vn/nhung-thuc-pham-nao-chua-vitamin-co-tac-dung-ho-tro-lam-da-dep-20260226082516281.htm",
+      "summary": "Các loại thực phẩm như ớt, cam, kiwi, cà chua và bông cải xanh, cải bó xôi, ngũ cốc, sữa, phô mai... được cho là chứa các vitamin rất hữu ích cho sức khỏe của da.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163986+07:00",
+      "fetched": "2026-02-26T11:14:04.164117+07:00"
+    },
+    {
+      "id": "575d97e7b7d40547bf0738fba7c64258",
+      "title": "Giá vàng cao, vàng mini lên ngôi ngày Thần Tài",
+      "link": "https://tuoitre.vn/gia-vang-cao-vang-mini-len-ngoi-ngay-than-tai-20260225231122422.htm",
+      "summary": "Giá vàng miếng SJC tăng thêm 700.000 đồng/lượng trước ngày Thần Tài, lên mức 185,3 triệu đồng/lượng. Đáng chú ý, do giá vàng cao nên các công ty vàng chế tác ra các sản phẩm vàng mini để vừa túi tiền khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163852+07:00",
+      "fetched": "2026-02-26T11:14:04.163961+07:00"
+    },
+    {
+      "id": "ce5bb88ea331970585ba627272b96e2f",
+      "title": "Chứng khoán 26-2: Cổ phiếu vừa và nhỏ hút dòng tiền, VN-Index hướng về vùng 1.900 điểm?",
+      "link": "https://tuoitre.vn/chung-khoan-26-2-co-phieu-vua-va-nho-hut-dong-tien-vn-index-huong-ve-vung-1-900-diem-20260226082542833.htm",
+      "summary": "Các công ty chứng khoán nhận định dù chịu áp lực giảm điểm của nhóm vốn hóa lớn, tâm lý thị trường vẫn tích cực và dòng tiền luân chuyển sang nhóm cổ phiếu vốn hóa vừa và nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163729+07:00",
+      "fetched": "2026-02-26T11:14:04.163841+07:00"
+    },
+    {
+      "id": "a6c8fc9c596120149be62777744c6115",
+      "title": "Khi bệnh viện công cũng phải thay đổi mạnh để thực sự cạnh tranh",
+      "link": "https://tuoitre.vn/khi-benh-vien-cong-cung-phai-thay-doi-manh-de-thuc-su-canh-tranh-20260226081736876.htm",
+      "summary": "Trước đây người dân đến bệnh viện công có nhiều nỗi sợ: sợ đông người, sợ chờ khám, sợ đợi kết quả xét nghiệm, sợ… dơ. Nhưng nay đã khác, nhiều bệnh viện công đã có những thay đổi mạnh và người bệnh được hưởng lợi từ thay đổi này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163604+07:00",
+      "fetched": "2026-02-26T11:14:04.163717+07:00"
+    },
+    {
+      "id": "9253d018bfedd240f0ed49363395f0e0",
+      "title": "Ronaldo tỏa sáng, Al Nassr xây chắc ngôi đầu",
+      "link": "https://tuoitre.vn/ronaldo-toa-sang-al-nassr-xay-chac-ngoi-dau-20260226084902666.htm",
+      "summary": "Rạng sáng 26-2, ngôi sao Cristiano Ronaldo góp công lớn trong chiến thắng đậm của Al Nassr để xây chắc ngôi đầu sau vòng 23 giải bóng đá vô địch quốc gia Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163480+07:00",
+      "fetched": "2026-02-26T11:14:04.163593+07:00"
+    },
+    {
+      "id": "dee89d9921636439633e282bdf844400",
+      "title": "The Parkland - đáp án cho bài toán ở thực và đầu tư dài hạn",
+      "link": "https://tuoitre.vn/the-parkland-dap-an-cho-bai-toan-o-thuc-va-dau-tu-dai-han-20260225220127572.htm",
+      "summary": "Sau những chu kỳ tăng giá mạnh mẽ và các cơn sốt đất ngắn hạn trước đó, thị trường bất động sản Hà Nội đang bước vào giai đoạn điều chỉnh thận trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163351+07:00",
+      "fetched": "2026-02-26T11:14:04.163468+07:00"
+    },
+    {
+      "id": "610c2dcd9aa59292684785c8b31c372e",
+      "title": "Đưa 2 nghị quyết quan trọng vào cuộc sống: Tăng cường nội lực vật chất và củng cố nội lực tinh thần",
+      "link": "https://tuoitre.vn/dua-2-nghi-quyet-quan-trong-vao-cuoc-song-tang-cuong-noi-luc-vat-chat-va-cung-co-noi-luc-tinh-than-20260226084721683.htm",
+      "summary": "Hôm qua (25-2), Ban Bí thư tổ chức Hội nghị toàn quốc nghiên cứu, học tập, quán triệt và triển khai thực hiện nghị quyết 79 về phát triển kinh tế nhà nước và nghị quyết 80 về phát triển văn hóa Việt Nam của Bộ Chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163219+07:00",
+      "fetched": "2026-02-26T11:14:04.163339+07:00"
+    },
+    {
+      "id": "251a34a0a1c18d77174fbc78a0376982",
+      "title": "Hiến tạng: Kỷ lục và niềm hy vọng mới",
+      "link": "https://tuoitre.vn/hien-tang-ky-luc-va-niem-hy-vong-moi-20260226082307831.htm",
+      "summary": "Kỷ lục 66 ca chết não hiến tạng - con số cao nhất từ trước đến nay cho thấy nhận thức cộng đồng đang thay đổi, mở ra thêm nhiều cơ hội hồi sinh cho những bệnh nhân đang chờ ghép tạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.163067+07:00",
+      "fetched": "2026-02-26T11:14:04.163206+07:00"
+    },
+    {
+      "id": "8eb938630cc35255d9a11045a7c04be9",
+      "title": "Thủ tướng Hun Manet nêu lý do giao trùm lừa đảo Chen Zhi cho Bắc Kinh",
+      "link": "https://tuoitre.vn/thu-tuong-hun-manet-neu-ly-do-giao-trum-lua-dao-chen-zhi-cho-bac-kinh-20260226085022476.htm",
+      "summary": "Ngày 25-2, Thủ tướng Campuchia Hun Manet nói rằng các trung tâm lừa đảo đang phá hoại nền kinh tế Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.162935+07:00",
+      "fetched": "2026-02-26T11:14:04.163055+07:00"
+    },
+    {
+      "id": "44d284a088c4835fd7ec93d9c76c4647",
+      "title": "Avatar 3 kéo IMAX bứt phá, hướng tới doanh thu 1,4 tỉ USD năm 2026",
+      "link": "https://tuoitre.vn/avatar-3-keo-imax-but-pha-huong-toi-doanh-thu-1-4-ti-usd-nam-2026-20260226091627157.htm",
+      "summary": "Bom tấn Avatar 3 của James Cameron giúp IMAX ghi nhận quý 4 tăng trưởng mạnh về doanh thu và phòng vé, trong khi hãng đặt mục tiêu lập kỷ lục mới trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.162789+07:00",
+      "fetched": "2026-02-26T11:14:04.162921+07:00"
+    },
+    {
+      "id": "3b0c6d49fbcee987203a7ed2a88a9514",
+      "title": "Ông Trump 'tự chấm điểm', cử tri chưa đồng ý",
+      "link": "https://tuoitre.vn/ong-trump-tu-cham-diem-cu-tri-chua-dong-y-20260226070706854.htm",
+      "summary": "Bài phát biểu dài kỷ lục của Tổng thống Trump tràn ngập những hình ảnh lạc quan về nước Mỹ \"huy hoàng hơn bao giờ hết\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T11:14:04.162554+07:00",
+      "fetched": "2026-02-26T11:14:04.162774+07:00"
+    },
     {
       "id": "5e405be4dfadcfe3a3fe5654286be08f",
       "title": "Benfica bất lực trước Real Madrid",
@@ -153,6 +303,406 @@ window.newsData_2026_02_26 = {
       "fetched": "2026-02-26T08:51:42.984647+07:00"
     },
     {
+      "id": "af52ea1bab6fec7051e0d7785ed20ec4",
+      "title": "Mỹ mở đường cho dầu mỏ Venezuela tới Cuba",
+      "link": "https://vnexpress.net/my-mo-duong-cho-dau-mo-venezuela-toi-cuba-5044182.html",
+      "summary": "Mỹ cho biết sẽ cấp phép cho các công ty muốn bán lại dầu của Venezuela cho Cuba nhằm giảm tình trạng thiếu nhiên liệu nghiêm trọng tại quốc đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T04:11:45+07:00",
+      "fetched": "2026-02-26T11:14:05.938269+07:00"
+    },
+    {
+      "id": "b237644d5f77e435e0e80760728066f4",
+      "title": "Cá lóc nướng vía Thần tài ở TP.HCM: Đỏ lửa xuyên đêm nhưng không còn vài tấn như trước",
+      "link": "https://thanhnien.vn/ca-loc-nuong-via-than-tai-o-tphcm-do-lua-xuyen-dem-nhung-khong-con-vai-tan-nhu-truoc-185260226071900364.htm",
+      "summary": "Ngày vía Thần tài 2026, con đường bán cá lóc nướng nổi tiếng ở TP.HCM vẫn đỏ lửa xuyên đêm, nhưng nhiều tiệm cho biết không còn cảnh chuẩn bị vài tấn do sức mua chững lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T04:10:00+07:00",
+      "fetched": "2026-02-26T11:14:03.375263+07:00"
+    },
+    {
+      "id": "897bd6c63abe88f43cda96a06921e1b7",
+      "title": "13 năm chồng không chia sẻ về tôi trên mạng xã hội",
+      "link": "https://vnexpress.net/13-nam-chong-khong-chia-se-ve-toi-tren-mang-xa-hoi-5044016.html",
+      "summary": "Tôi không mơ mộng, cũng không đòi hỏi chồng phải phô trương, thế nhưng thi thoảng vẫn muốn được anh chia sẻ một dòng về vợ trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T04:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.417778+07:00"
+    },
+    {
+      "id": "b90b86d4dd5f9b8631f671b4909585ec",
+      "title": "Ba thói quen sau chơi thể thao dễ gây đột quỵ",
+      "link": "https://vnexpress.net/ba-thoi-quen-sau-choi-the-thao-de-gay-dot-quy-5044241.html",
+      "summary": "Tắm nước lạnh sau khi chơi thể thao, dừng vận động đột ngột, uống rượu bia hoặc cà phê dễ làm co mạch máu và tăng huyết áp, dẫn đến tai biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T04:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.417958+07:00"
+    },
+    {
+      "id": "b097833a2d68d46cfc821d3d07dbf137",
+      "title": "Áp xe dạ dày bởi mảnh xương cá",
+      "link": "https://vnexpress.net/ap-xe-da-day-boi-manh-xuong-ca-5044191.html",
+      "summary": "Bà Mỹ, 57 tuổi, đau bụng, mệt mỏi, nôn ói, sốt, bác sĩ phát hiện xương cá đâm xuyên thành dạ dày tạo khối áp xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T04:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.418142+07:00"
+    },
+    {
+      "id": "3d81483af597eeed0baafea9fe01e628",
+      "title": "Xem nhanh 12h: Giá vàng ngày vía Thần tài ra sao? | Khoảnh khắc tàu hỏa 'vò nát' xe tải",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-gia-vang-ngay-via-than-tai-ra-sao-khoanh-khac-tau-hoa-vo-nat-xe-tai-185260226103243896.htm",
+      "summary": "Giá vàng ngày vía Thần tài, vụ tàu hỏa 'vò nát' xe tải, tin tức thời tiết… sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 26.2.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T04:00:00+07:00",
+      "fetched": "2026-02-26T11:14:03.375436+07:00"
+    },
+    {
+      "id": "55d2d47fb1d28818daa3e3cd65ae8be8",
+      "title": "Giới trẻ bạo chi đi du lịch để 'khổ luyện'",
+      "link": "https://vnexpress.net/gioi-tre-bao-chi-di-du-lich-de-kho-luyen-5044054.html",
+      "summary": "Thay vì nằm dài trên bãi biển, nhiều người trẻ đang chọn chi hàng nghìn USD cho những kỳ nghỉ khổ luyện thể thao để nâng cấp thể chất và tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:55:31+07:00",
+      "fetched": "2026-02-26T11:13:59.418308+07:00"
+    },
+    {
+      "id": "7a4cde75551ff1cb81edf9cecfbe31f4",
+      "title": "Trường ĐH Bách khoa TP.HCM nhân đôi điểm toán trong tuyển sinh năm 2026",
+      "link": "https://thanhnien.vn/truong-dh-bach-khoa-tphcm-nhan-doi-diem-toan-trong-tuyen-sinh-nam-2026-185260226102754738.htm",
+      "summary": "Năm 2026, Trường ĐH Bách khoa TP.HCM thực hiện nhân đôi điểm môn toán trong kết quả bài thi đánh giá năng lực, thi tốt nghiệp THPT và học bạ THPT khi xét tuyển tổng hợp. Đây là bước tiếp nối trong lộ trình lấy môn toán làm trọng tâm đánh giá đầu vào của trường này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:54:00+07:00",
+      "fetched": "2026-02-26T11:14:03.375593+07:00"
+    },
+    {
+      "id": "284d6a7a527b388a55a75265b5c6fb72",
+      "title": "Chú khỉ 'cô đơn' khiến khách xếp hàng đến vườn thú Nhật Bản",
+      "link": "https://vnexpress.net/chu-khi-co-don-khien-khach-xep-hang-den-vuon-thu-nhat-ban-5044063.html",
+      "summary": "Chú khỉ bị mẹ bỏ rơi, quấn quýt bên thú nhồi bông tạo nên hiệu ứng lan rộng, khiến lượng khách nườm nượp đổ đến vườn thú tại Nhật Bản tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:52:34+07:00",
+      "fetched": "2026-02-26T11:13:59.418465+07:00"
+    },
+    {
+      "id": "7499e43c5875e9b3072c962ceb0a7f82",
+      "title": "Ngày vía thần tài, phố cá lóc TP.HCM giảm lượng bán: ‘Như mọi năm là kẹt xe rồi’",
+      "link": "https://thanhnien.vn/ngay-via-than-tai-pho-ca-loc-tphcm-giam-luong-ban-nhu-moi-nam-la-ket-xe-roi-185260226105153279.htm",
+      "summary": "Từ sáng sớm 25.2 (mùng 10 tháng giêng), tuyến đường Tân Kỳ Tân Quý (phường Tân Sơn Nhì, TP.HCM) đỏ lửa cá lóc nướng. Người dân tất bật mua cá cúng Thần Tài, không khí trên con đường nhộn nhịp kéo dài từ lúc trời còn tối đến sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:52:00+07:00",
+      "fetched": "2026-02-26T11:14:03.375746+07:00"
+    },
+    {
+      "id": "659b233fb58edbddd3817de1359cfb96",
+      "title": "World Cup có Messi và Ronaldo, liệu Neymar phải ở nhà?",
+      "link": "https://thanhnien.vn/world-cup-co-messi-va-ronaldo-lieu-neymar-phai-o-nha-185260226103059315.htm",
+      "summary": "World Cup 2026 đang đến thật gần, những danh thủ kỳ cựu Messi và Ronaldo chắc chắn sẽ góp mặt ở lần cuối trong sự nghiệp. Nhưng với Neymar, cơ hội với anh giờ quá mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:49:00+07:00",
+      "fetched": "2026-02-26T11:14:03.375896+07:00"
+    },
+    {
+      "id": "a506e1236bd8fa70721667c563f45047",
+      "title": "Chợ vàng Dubai tấp nập khách du lịch",
+      "link": "https://thanhnien.vn/cho-vang-dubai-tap-nap-khach-du-lich-185260226100837034.htm",
+      "summary": "Dubai từ lâu đã được mệnh danh là \"thủ phủ vàng\" của Trung Đông, khách du lịch có thể mua vàng cầu may quanh năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:49:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376044+07:00"
+    },
+    {
+      "id": "b5fbd3170df87e51e50b3a699ae20eab",
+      "title": "Tiệm vàng tại TP.HCM đông 'nghẹt thở' ngày vía Thần tài",
+      "link": "https://thanhnien.vn/tiem-vang-tai-tphcm-dong-nghet-tho-ngay-via-than-tai-185260226094753844.htm",
+      "summary": "Ngày vía Thần tài, từ tờ mờ sáng 26.2, nhiều người dân đã kiên nhẫn xếp hàng trước các tiệm vàng tại TP.HCM, sẵn sàng mua dù giá neo cao, chỉ mong \"lấy vía\" đầu năm, cầu tài lộc và một năm làm ăn hanh thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:46:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376213+07:00"
+    },
+    {
+      "id": "602f07b6ec560ce2ce1a1e74dd508fc4",
+      "title": "Giá bạc vượt 92 triệu đồng, hàng trăm kg bạc bán sẵn lấy ngay",
+      "link": "https://thanhnien.vn/gia-bac-vuot-92-trieu-dong-hang-tram-kg-bac-ban-san-lay-ngay-185260226085425434.htm",
+      "summary": "Sáng 26.2, giá bạc giảm nhẹ so với chốt hôm qua. Hiện mỗi kg bạc được bán ra trên 92 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:46:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376371+07:00"
+    },
+    {
+      "id": "eea046df39e94c0c9da852fa16ba61f9",
+      "title": "Thủ tướng: Phát triển nhà ở cho người thu nhập trung bình trên 20 triệu/tháng",
+      "link": "https://thanhnien.vn/thu-tuong-phat-trien-nha-o-cho-nguoi-thu-nhap-trung-binh-tren-20-trieu-thang-185260226101124424.htm",
+      "summary": "Sáng 26.2, Thủ tướng Phạm Minh Chính chủ trì phiên họp Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản, thảo luận về chính sách cho phân khúc nhà ở đối với người có thu nhập trung bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:45:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376516+07:00"
+    },
+    {
+      "id": "924256fdaf1100b0870485aadce7aeb3",
+      "title": "Xiaomi thắng kiện hãng truyền thông, nhận 725.000 USD",
+      "link": "https://vnexpress.net/xiaomi-thang-kien-hang-truyen-thong-nhan-725-000-usd-5044168.html",
+      "summary": "Hãng xe điện thắng kiện kỷ lục trong vụ kiện chống lại công ty truyền thông hàng đầu trong lĩnh vực ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:43:30+07:00",
+      "fetched": "2026-02-26T11:13:59.418634+07:00"
+    },
+    {
+      "id": "eb765bb8556f996203e39a4a4294c1fe",
+      "title": "Nhóm sinh viên cùng ‘Góp nắng xuân’ một cách ý nghĩa",
+      "link": "https://thanhnien.vn/nhom-sinh-vien-cung-gop-nang-xuan-mot-cach-y-nghia-185260226104047062.htm",
+      "summary": "Nằm trong chuỗi hoạt động của dự án cộng đồng phi lợi nhuận Share for Love – Lan tỏa yêu thương, chương trình thiện nguyện \"Góp nắng xuân\" đã mang đến những phần quà và sân chơi giáo dục đầy tính nhân văn cho các em nhỏ trong những ngày đầu năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:42:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376662+07:00"
+    },
+    {
+      "id": "eccf4af7201d461bf0665f4c129cb653",
+      "title": "Mourinho đánh lừa truyền thông khi cùng Benfica đấu Real",
+      "link": "https://vnexpress.net/mourinho-danh-lua-truyen-thong-khi-cung-benfica-dau-real-5044173.html",
+      "summary": "HLV Jose Mourinho không vào cabin được bố trí trên sân Bernabeu, mà ngồi trên xe bus theo dõi các học trò thi đấu, trong trận Benfica thua Real 1-2 ở lượt về play-off Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:38:19+07:00",
+      "fetched": "2026-02-26T11:13:59.418787+07:00"
+    },
+    {
+      "id": "eccf4af7201d461bf0665f4c129cb653",
+      "title": "Mourinho đánh lừa truyền thông khi cùng Benfica đấu Real",
+      "link": "https://vnexpress.net/mourinho-danh-lua-truyen-thong-khi-cung-benfica-dau-real-5044173.html",
+      "summary": "HLV Jose Mourinho không vào cabin được bố trí trên sân Bernabeu, mà ngồi trên xe bus theo dõi các học trò thi đấu, trong trận Benfica thua Real 1-2 ở lượt về play-off Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T03:38:19+07:00",
+      "fetched": "2026-02-26T11:14:11.436297+07:00"
+    },
+    {
+      "id": "ae01a61051f5120a70aae7b8416eb217",
+      "title": "Courtois khoe dùng gen bóng chuyền cứu thua cho Real",
+      "link": "https://vnexpress.net/courtois-khoe-dung-gen-bong-chuyen-cuu-thua-cho-real-5044189.html",
+      "summary": "Thủ môn Thibaut Courtois khoe thừa hưởng gen phản xạ nhanh từ cha mẹ, những người từng là cầu thủ bóng chuyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:37:44+07:00",
+      "fetched": "2026-02-26T11:13:59.418939+07:00"
+    },
+    {
+      "id": "ae01a61051f5120a70aae7b8416eb217",
+      "title": "Courtois khoe dùng gen bóng chuyền cứu thua cho Real",
+      "link": "https://vnexpress.net/courtois-khoe-dung-gen-bong-chuyen-cuu-thua-cho-real-5044189.html",
+      "summary": "Thủ môn Thibaut Courtois khoe thừa hưởng gen phản xạ nhanh từ cha mẹ, những người từng là cầu thủ bóng chuyền.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T03:37:44+07:00",
+      "fetched": "2026-02-26T11:14:11.437151+07:00"
+    },
+    {
+      "id": "88202162d8c801529d009a488255604a",
+      "title": "Người lái ôtô 'khóa đuôi' xe khác ở Hà Tĩnh bị khởi tố",
+      "link": "https://vnexpress.net/nguoi-lai-oto-khoa-duoi-xe-khac-o-ha-tinh-bi-khoi-to-5042407.html",
+      "summary": "Nguyễn Viết Linh bị cáo buộc khi được đề nghị dời ôtô 5 chỗ trong đường nhỏ hẹp đã lái thêm xe đến \"khóa đuôi\" ôtô người khác, cản trở giao thông, thách thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:27:04+07:00",
+      "fetched": "2026-02-26T11:13:59.419119+07:00"
+    },
+    {
+      "id": "ebbab13858a96c6f761bfd53330d3206",
+      "title": "Tìm ra sinh vật độc nhãn là nguồn gốc của những đôi mắt ngày nay",
+      "link": "https://thanhnien.vn/tim-ra-sinh-vat-doc-nhan-la-nguon-goc-cua-nhung-doi-mat-ngay-nay-185260226094255612.htm",
+      "summary": "Từng có một sinh vật độc nhãn trong số các tổ tiên cổ xưa nhất của muôn loài, và con người chia sẻ nguồn gốc đặc biệt này với toàn bộ các loài động vật có xương sống khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:27:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376816+07:00"
+    },
+    {
+      "id": "1405050d59bef3cbc687193eed6c8ea5",
+      "title": "Khoảnh khắc tên lửa Flamingo tập kích nhà máy sản xuất Kinzhal, Iskander",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-flamingo-tap-kich-nha-may-san-xuat-kinzhal-iskander-5044180.html",
+      "summary": "Video mới công bố cho thấy tên lửa Flamingo của Ukraine lao xuống nhà máy Votkinsk tại Nga trong đòn tập kích hồi tuần trước, gây ra vụ nổ lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:25:56+07:00",
+      "fetched": "2026-02-26T11:13:59.419285+07:00"
+    },
+    {
+      "id": "1405050d59bef3cbc687193eed6c8ea5",
+      "title": "Khoảnh khắc tên lửa Flamingo tập kích nhà máy sản xuất Kinzhal, Iskander",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-flamingo-tap-kich-nha-may-san-xuat-kinzhal-iskander-5044180.html",
+      "summary": "Video mới công bố cho thấy tên lửa Flamingo của Ukraine lao xuống nhà máy Votkinsk tại Nga trong đòn tập kích hồi tuần trước, gây ra vụ nổ lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T03:25:56+07:00",
+      "fetched": "2026-02-26T11:14:05.938465+07:00"
+    },
+    {
+      "id": "9a877f55dcea4a4c3e205b77dd96c796",
+      "title": "Galaxy S26 Ultra đi tiên phong với công nghệ màn hình mới",
+      "link": "https://thanhnien.vn/galaxy-s26-ultra-di-tien-phong-voi-cong-nghe-man-hinh-moi-185260226083448625.htm",
+      "summary": "Samsung gần đây có xu hướng tích hợp vào các mẫu điện thoại cao cấp của mình những tính năng đã xuất hiện trên sản phẩm của đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:25:00+07:00",
+      "fetched": "2026-02-26T11:14:03.376960+07:00"
+    },
+    {
+      "id": "da3f5618e8a316fe6f5ea4ae253668b9",
+      "title": "Hà Nội mùa này, thiếu một người đi cùng",
+      "link": "https://vnexpress.net/ha-noi-mua-nay-thieu-mot-nguoi-di-cung-5044193.html",
+      "summary": "Em sinh năm 1994, sinh ra và lớn lên ở Hà Nội, sống cùng bố mẹ ở khu vực Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:24:30+07:00",
+      "fetched": "2026-02-26T11:13:59.419383+07:00"
+    },
+    {
+      "id": "ca6267d9ba5bf2e93660da31f1f6b8a0",
+      "title": "Hai trọng tài Thái Lan điều hành trận nóng Thể Công Viettel đấu Hà Nội: Cực gay cấn",
+      "link": "https://thanhnien.vn/hai-trong-tai-thai-lan-dieu-hanh-tran-nong-the-cong-viettel-dau-ha-noi-cuc-gay-can-185260226102119821.htm",
+      "summary": "Trận derby thủ đô giữa CLB Thể Công Viettel và CLB Hà Nội (19 giờ 15 phút ngày 1.3.2026), thuộc vòng 14 LPBank V-League 1 2025-2026, thu hút sự quan tâm lớn của người hâm mộ. Hai trọng tài FIFA người Thái Lan được mời làm nhiệm vụ ở trận cầu tâm điểm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:24:00+07:00",
+      "fetched": "2026-02-26T11:14:03.377122+07:00"
+    },
+    {
+      "id": "c88fcb2c143ee2e4781538298fc35038",
+      "title": "Mỹ bắt cựu phi công bị cáo buộc huấn luyện cho quân nhân Trung Quốc",
+      "link": "https://thanhnien.vn/my-bat-cuu-phi-cong-bi-cao-buoc-huan-luyen-cho-quan-nhan-trung-quoc-185260226100848643.htm",
+      "summary": "Bộ Tư pháp Mỹ hôm 25.2 đã thông báo về việc bắt giữ một cựu phi công tác chiến của Không quân Mỹ với cáo buộc huấn luyện quân nhân Trung Quốc mà không được phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:15:00+07:00",
+      "fetched": "2026-02-26T11:14:03.377279+07:00"
+    },
+    {
+      "id": "4cd817389b6e4086aba4259a13950c00",
+      "title": "Nghi vấn một người nước ngoài trộm ô tô Mercedes ở trung tâm Đà Nẵng",
+      "link": "https://thanhnien.vn/nghi-van-mot-nguoi-nuoc-ngoai-trom-o-to-mercedes-o-trung-tam-da-nang-18526022609253218.htm",
+      "summary": "Ô tô Mercedes đậu trên đường Chính Hữu (thành phố  Đà Nẵng) bất ngờ bị trộm lấy mất; camera an ninh ghi lại cảnh kẻ trộm ô tô nghi là người nước ngoài lái xe rời khỏi hiện trường theo hướng đi phố cổ Hội An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:12:00+07:00",
+      "fetched": "2026-02-26T11:14:03.377428+07:00"
+    },
+    {
+      "id": "a529740085391cd3f5b725ce8f6a1c0a",
+      "title": "Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật",
+      "link": "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-doi-nguoi-dai-dien-phap-luat-5044226.html",
+      "summary": "Tổng công ty Cảng hàng không Việt Nam (ACV) cử ông Lê Văn Khiên làm người đại diện theo pháp luật, thay Chủ tịch HĐQT Vũ Thế Phiệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:00:53+07:00",
+      "fetched": "2026-02-26T11:13:59.419549+07:00"
+    },
+    {
+      "id": "a529740085391cd3f5b725ce8f6a1c0a",
+      "title": "Chủ đầu tư sân bay Long Thành đổi người đại diện pháp luật",
+      "link": "https://vnexpress.net/chu-dau-tu-san-bay-long-thanh-doi-nguoi-dai-dien-phap-luat-5044226.html",
+      "summary": "Tổng công ty Cảng hàng không Việt Nam (ACV) cử ông Lê Văn Khiên làm người đại diện theo pháp luật, thay Chủ tịch HĐQT Vũ Thế Phiệt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-26T03:00:53+07:00",
+      "fetched": "2026-02-26T11:14:07.400079+07:00"
+    },
+    {
+      "id": "28f3418eeaed5082d2fd898ed0a44977",
+      "title": "Hạ đường huyết do uống rượu lúc đói",
+      "link": "https://vnexpress.net/ha-duong-huyet-do-uong-ruou-luc-doi-5044223.html",
+      "summary": "Anh Nghĩa, 35 tuổi, uống rượu lúc đói sau đó run tay, vã mồ hôi, tim đập nhanh, bác sĩ chẩn đoán tụt đường huyết cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.419701+07:00"
+    },
+    {
+      "id": "51fa36aa7814bbf87071aa461844bbec",
+      "title": "5 cách xử lý tắc tia sữa",
+      "link": "https://vnexpress.net/5-cach-xu-ly-tac-tia-sua-5044215.html",
+      "summary": "Mẹ cho trẻ bú mẹ thường xuyên, massage ngực, hút sữa đều đặn, vệ sinh đầu ti, chườm nóng bầu ngực giúp thông tắc tia sữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.419859+07:00"
+    },
+    {
+      "id": "cb9e28d2ed250c0e9f9a27ec6fdc6945",
+      "title": "Siêu âm tim cho trẻ sơ sinh có ảnh hưởng sức khỏe không?",
+      "link": "https://vnexpress.net/sieu-am-tim-cho-tre-so-sinh-co-anh-huong-suc-khoe-khong-5044211.html",
+      "summary": "Con tôi mới sinh được vài ngày, bác sĩ dùng ống nghe kiểm tra tim nghi ngờ bất thường nên khuyên siêu âm tim. Siêu âm có thể ảnh hưởng gì đến trẻ nhỏ không? (Nguyễn Thanh Mai, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T03:00:00+07:00",
+      "fetched": "2026-02-26T11:13:59.420015+07:00"
+    },
+    {
+      "id": "5a737e54080b56978fefd2db14dbc1cd",
+      "title": "Mỹ nói Iran đang phát triển tên lửa đạn đạo xuyên lục địa",
+      "link": "https://vnexpress.net/my-noi-iran-dang-phat-trien-ten-lua-dan-dao-xuyen-luc-dia-5044194.html",
+      "summary": "Ngoại trưởng Mỹ cho rằng Iran đang cố gắng phát triển tên lửa đạn đạo xuyên lục địa, kêu gọi Tehran đàm phán về vấn đề liên quan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T02:43:06+07:00",
+      "fetched": "2026-02-26T11:14:05.938636+07:00"
+    },
+    {
+      "id": "24e190ca84192c702584eb5b08650b25",
+      "title": "Nam Định thay HLV Bồ Đào Nha sau 104 ngày",
+      "link": "https://vnexpress.net/nam-dinh-thay-hlv-bo-dao-nha-sau-104-ngay-5044228.html",
+      "summary": "Nam Định chia tay HLV Mauro Jerorimo sau hơn 3 tháng dẫn dắt, để đưa ông Vũ Hồng Việt trở lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T02:41:22+07:00",
+      "fetched": "2026-02-26T11:14:11.436553+07:00"
+    },
+    {
+      "id": "e1d96b503d245dc69a25dfe85bddff81",
+      "title": "Xếp hàng từ mờ sáng mua vàng, bạc ngày Thần Tài",
+      "link": "https://vnexpress.net/xep-hang-tu-mo-sang-mua-vang-bac-ngay-than-tai-5044207.html",
+      "summary": "Tại Hà Nội và TP HCM, khách hàng chờ đợi từ mờ sáng để mua vàng, bạc lấy may ngày vía Thần Tài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-26T02:28:49+07:00",
+      "fetched": "2026-02-26T11:14:07.400314+07:00"
+    },
+    {
+      "id": "55603504b3cc5dd019b9be04e58b3967",
+      "title": "Robot hình người 'mini' phô diễn khả năng thăng bằng",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-mini-pho-dien-kha-nang-thang-bang-5043840.html",
+      "summary": "EngineAI PM01 được đánh giá một trong những robot hình người cỡ nhỏ nhanh nhẹn nhất khi thực hiện động tác khó một cách linh hoạt, giữ thăng bằng tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-26T02:00:00+07:00",
+      "fetched": "2026-02-26T11:14:09.987755+07:00"
+    },
+    {
+      "id": "007c468ad6311af803687230a75bcfd0",
+      "title": "Samsung: AI tạo cuộc 'cách mạng' cho thị trường smartphone",
+      "link": "https://vnexpress.net/samsung-ai-tao-cuoc-cach-mang-cho-thi-truong-smartphone-5044205.html",
+      "summary": "Trước sự phát triển của AI, thị trường smartphone ghi nhận những xu hướng mới, kéo theo loạt nâng cấp mang tính nhảy vọt về phần cứng lẫn phần mềm trên Galaxy S26 series, theo Tổng giám đốc Hyung Bin Joo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-26T02:00:00+07:00",
+      "fetched": "2026-02-26T11:14:09.988582+07:00"
+    },
+    {
       "id": "7d7f7907e7d5e3f4a3e1ea938d004883",
       "title": "Lý do du khách Anh tìm kiếm chuyến bay đến Hà Nội tăng vọt",
       "link": "https://thanhnien.vn/ly-do-du-khach-anh-tim-kiem-chuyen-bay-den-ha-noi-tang-vot-18526022514064958.htm",
@@ -193,6 +743,16 @@ window.newsData_2026_02_26 = {
       "fetched": "2026-02-26T08:51:41.845478+07:00"
     },
     {
+      "id": "6b4b65a36769c3eb498f3f5981c9bbdb",
+      "title": "Nhật Bản ra mắt 'nhà sư robot'",
+      "link": "https://vnexpress.net/nhat-ban-ra-mat-nha-su-robot-5044186.html",
+      "summary": "Đại học Nhật Bản ra mắt \"nhà sư robot\" ứng dụng trí tuệ nhân tạo (AI), kỳ vọng giúp giảm tác động từ tình trạng thiếu hụt tăng sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T01:46:06+07:00",
+      "fetched": "2026-02-26T11:14:05.938805+07:00"
+    },
+    {
       "id": "0384e5acc23bb99aad2df8843acfc56c",
       "title": "Mưa lớn ở Bắc bộ và Trung bộ, có nơi trên 80 mm",
       "link": "https://thanhnien.vn/mua-lon-o-bac-bo-va-trung-bo-co-noi-tren-80-mm-185260226075031865.htm",
@@ -231,6 +791,16 @@ window.newsData_2026_02_26 = {
       "category": "Tổng hợp",
       "published": "2026-02-26T01:34:00+07:00",
       "fetched": "2026-02-26T08:51:41.845974+07:00"
+    },
+    {
+      "id": "f428bac731c557695dc0e9e462fff22a",
+      "title": "Giá vàng giảm nhẹ ngày vía Thần Tài",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-26-2-ngay-via-than-tai-5044187.html",
+      "summary": "Giá vàng mở cửa ngày vía Thần Tài giảm nhẹ về 185 triệu đồng một lượng, giữ mức chênh lệch trên 20 triệu đồng so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-26T01:33:16+07:00",
+      "fetched": "2026-02-26T11:14:07.400487+07:00"
     },
     {
       "id": "dfe5791baef73e678147304072c73bff",
