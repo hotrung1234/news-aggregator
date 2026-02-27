@@ -1,7 +1,157 @@
 window.newsData_2026_02_27 = {
   "date": "2026-02-27",
-  "lastUpdated": "2026-02-27T05:30:33.660771+07:00",
+  "lastUpdated": "2026-02-27T08:50:35.803538+07:00",
   "articles": [
+    {
+      "id": "1f3fdd234bb80861aed3c39aed31998c",
+      "title": "Tỉ lệ sinh của Hàn Quốc phục hồi, nhờ kết thúc dịch COVID-19 và chính sách hấp dẫn",
+      "link": "https://tuoitre.vn/ti-le-sinh-cua-han-quoc-phuc-hoi-nho-ket-thuc-dich-covid-19-va-chinh-sach-hap-dan-20260226225249633.htm",
+      "summary": "Từng được coi là \"tâm chấn\" của cuộc khủng hoảng nhân khẩu học toàn cầu, Hàn Quốc đang ghi nhận tín hiệu đảo chiều hiếm có: tỉ suất sinh tăng 2 năm liên tiếp, lên 0,80 vào năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976679+07:00",
+      "fetched": "2026-02-27T08:50:29.976776+07:00"
+    },
+    {
+      "id": "561ab0bb3b94c888d39167c0128d1c08",
+      "title": "Tin tức thế giới 27-2: Chủ tịch Cuba nói về vụ nổ súng ở biển; Mỹ, Ukraine họp tái thiết hậu chiến",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-27-2-chu-tich-cuba-noi-ve-vu-no-sung-o-bien-my-ukraine-hop-tai-thiet-hau-chien-20260227061848865.htm",
+      "summary": "Bà Melania Trump sẽ chủ trì cuộc họp của Hội đồng Bảo an Liên hợp quốc; Mỹ dọa phạt ngân hàng Thụy Sĩ do vi phạm lệnh trừng phạt với Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976570+07:00",
+      "fetched": "2026-02-27T08:50:29.976667+07:00"
+    },
+    {
+      "id": "c189258c947038ae9ed643cee0aadf3b",
+      "title": "Người đẹp hát bolero Mai Diễm My đoạt quán quân Người kể chuyện tình",
+      "link": "https://tuoitre.vn/nguoi-dep-hat-bolero-mai-diem-my-doat-quan-quan-nguoi-ke-chuyen-tinh-2026022704204029.htm",
+      "summary": "Sở hữu chất giọng ngọt ngào, giàu cảm xúc, giọng ca bolero Mai Diễm My giành giải cao nhất Người kể chuyện tình mùa 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976454+07:00",
+      "fetched": "2026-02-27T08:50:29.976560+07:00"
+    },
+    {
+      "id": "63e109aedaf8b196fcd3b3160cffbc0b",
+      "title": "Đêm cuối với cố HLV Nguyễn Văn Vinh, học trò cũ nhớ câu 'đá giỏi phải có thể lực và trí tuệ'",
+      "link": "https://tuoitre.vn/dem-cuoi-voi-co-hlv-nguyen-van-vinh-hoc-tro-cu-nho-cau-da-gioi-phai-co-the-luc-va-tri-tue-20260227021013716.htm",
+      "summary": "Cựu cầu thủ Nguyễn Lợi lặng lẽ thắp nén nhang cho người thầy. Trong khi đó, con gái ông Nguyễn Văn Vinh kể về những tâm huyết của bố với bóng đá Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976348+07:00",
+      "fetched": "2026-02-27T08:50:29.976445+07:00"
+    },
+    {
+      "id": "ef1f3df74a65c77fd5b6ad4e23bf5565",
+      "title": "Tin tức giá xe: Honda HR-V hybrid giảm hàng chục triệu, từ đắt thành rẻ hơn Toyota Corolla Cross HEV",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-honda-hr-v-hybrid-giam-hang-chuc-trieu-tu-dat-thanh-re-hon-toyota-corolla-cross-hev-20260226165654457.htm",
+      "summary": "Việc điều chỉnh giá giúp bản hybrid của Honda HR-V tiếp cận khách hàng dễ dàng hơn, trong bối cảnh phân khúc CUV đô thị ngày càng chật chội và cạnh tranh gay gắt với nhiều lựa chọn mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976241+07:00",
+      "fetched": "2026-02-27T08:50:29.976339+07:00"
+    },
+    {
+      "id": "5602bf063cf3841886588ee2dbe46f0f",
+      "title": "Đọc nhanh 27-2: Đại gia Thái muốn thâu tóm nhà máy nước ngọt 70 năm tuổi của Việt Nam",
+      "link": "https://tuoitre.vn/doc-nhanh-27-2-dai-gia-thai-muon-thau-tom-nha-may-nuoc-ngot-70-nam-tuoi-cua-viet-nam-2026022706484031.htm",
+      "summary": "F&N, doanh nghiệp thuộc hệ sinh thái Thai Beverage của tỉ phú Thái Lan Charoen Sirivadhanabhakdi, đã đưa ra mức giá 98 tỉ đồng để nhận chuyển nhượng nhà máy nước ngọt của Sá Xị Chương Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976122+07:00",
+      "fetched": "2026-02-27T08:50:29.976232+07:00"
+    },
+    {
+      "id": "aac4bd48ef4bfeb4809df892c8e9845c",
+      "title": "Biến động ‘lạ’ từ phía chủ đầu tư sân bay Gia Bình",
+      "link": "https://tuoitre.vn/bien-dong-la-tu-phia-chu-dau-tu-san-bay-gia-binh-20260227002920954.htm",
+      "summary": "Tập đoàn Masterise vừa có động thái giảm vốn từ hơn 35.227 tỉ đồng xuống chỉ còn gần 2.978 tỉ đồng sau khi tăng vốn thần tốc vào gần cuối năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.976013+07:00",
+      "fetched": "2026-02-27T08:50:29.976113+07:00"
+    },
+    {
+      "id": "454195a1ffd86448d241bbb48b944bd5",
+      "title": "Margot Robbie và 10 khoảnh khắc trang sức kim cương đáng nhớ nhất",
+      "link": "https://tuoitre.vn/margot-robbie-va-10-khoanh-khac-trang-suc-kim-cuong-dang-nho-nhat-20260226102801627.htm",
+      "summary": "Margot Robbie ghi dấu ấn trên thảm đỏ bằng những tuyệt tác kim cương tự nhiên choáng ngợp trong chuyến quảng bá phim Đồi gió hú và nhiều sự kiện danh giá khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975904+07:00",
+      "fetched": "2026-02-27T08:50:29.976004+07:00"
+    },
+    {
+      "id": "5f97aeca30336535f9cafb2c0bb6f851",
+      "title": "Bệnh viện Tâm Anh lập kỷ lục châu Á về phẫu thuật não bằng Robot AI",
+      "link": "https://tuoitre.vn/benh-vien-tam-anh-lap-ky-luc-chau-a-ve-phau-thuat-nao-bang-robot-ai-20260227063425537.htm",
+      "summary": "Ngày 26-2, Bệnh viện Đa khoa Tâm Anh TP.HCM được trao chứng nhận xác lập đồng thời hai kỷ lục Việt Nam và châu Á về ứng dụng Robot AI Modus V Synaptive phẫu thuật não, cột sống, tủy sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975798+07:00",
+      "fetched": "2026-02-27T08:50:29.975895+07:00"
+    },
+    {
+      "id": "79fcff7ae0759fdd1fa6c709bb18fe17",
+      "title": "Niềm vui Ngày Thầy thuốc Việt Nam 27-2: Kỳ tích điều trị thành công cho trẻ mắc ung thư phức tạp",
+      "link": "https://tuoitre.vn/niem-vui-ngay-thay-thuoc-viet-nam-27-2-ky-tich-dieu-tri-thanh-cong-cho-tre-mac-ung-thu-phuc-tap-20260226165715797.htm",
+      "summary": "Những ngày cả nước hướng về Ngày Thầy thuốc Việt Nam 27-2, tại Bệnh viện Nhi trung ương, niềm vui như được nhân lên gấp bội khi các bác sĩ đã điều trị thành công cho bé gái 8 tuổi mắc ung thư sụn, mở ra hy vọng cho nhiều bệnh nhi khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975686+07:00",
+      "fetched": "2026-02-27T08:50:29.975789+07:00"
+    },
+    {
+      "id": "b296fa0c2bf138693f88d02440f3cbd1",
+      "title": "Mức sinh TP.HCM: Tín hiệu khởi sắc, bài toán vẫn còn dài",
+      "link": "https://tuoitre.vn/muc-sinh-tp-hcm-tin-hieu-khoi-sac-bai-toan-van-con-dai-20260226225746346.htm",
+      "summary": "Sau nhiều năm ở mức thấp đáng lo ngại, mức sinh tại TP.HCM đã có dấu hiệu phục hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975577+07:00",
+      "fetched": "2026-02-27T08:50:29.975677+07:00"
+    },
+    {
+      "id": "44242c979f915cc823e4c646d0cd97a7",
+      "title": "Cần đột phá để phát triển cao tốc",
+      "link": "https://tuoitre.vn/can-dot-pha-de-phat-trien-cao-toc-20260227060258121.htm",
+      "summary": "Tết này đường về quê và trở lại các đô thị lớn với nhiều người đỡ vất vả hơn những năm trước nhờ có thêm cao tốc, giảm tải đáng kể áp lực phương tiện cho các tuyến đường độc đạo trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975443+07:00",
+      "fetched": "2026-02-27T08:50:29.975566+07:00"
+    },
+    {
+      "id": "14a37c386987c3137f4eb0891642214d",
+      "title": "Vợ chồng Lương Thế Thành, Thúy Diễm bận rộn đầu xuân",
+      "link": "https://tuoitre.vn/vo-chong-luong-the-thanh-thuy-diem-ban-ron-dau-xuan-2026022700420303.htm",
+      "summary": "Sau những ngày nghỉ Tết vui vẻ bên gia đình, vợ chồng Lương Thế Thành, Thúy Diễm lại lao vào công việc bận rộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975330+07:00",
+      "fetched": "2026-02-27T08:50:29.975433+07:00"
+    },
+    {
+      "id": "3c88538412fcc072f46032c9e50cd5ec",
+      "title": "Ngoại trưởng Iran: Đàm phán hạt nhân Mỹ - Iran có 'tiến triển rất tốt'",
+      "link": "https://tuoitre.vn/ngoai-truong-iran-dam-phan-hat-nhan-my-iran-co-tien-trien-rat-tot-20260227074710862.htm",
+      "summary": "Ngày 26-2, Ngoại trưởng Iran Abbas Araghchi thông báo Washington và Tehran đã đạt được 'tiến triển tốt' sau vòng đàm phán mới nhất, nhưng vẫn còn nhiều bất đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.975207+07:00",
+      "fetched": "2026-02-27T08:50:29.975319+07:00"
+    },
+    {
+      "id": "50d3ffd755a3846facd63a82f79adab3",
+      "title": "GeoSpy AI là gì mà có thể định vị địa điểm thông qua hình ảnh?",
+      "link": "https://tuoitre.vn/geospy-ai-la-gi-ma-co-the-dinh-vi-dia-diem-thong-qua-hinh-anh-20260226161434215.htm",
+      "summary": "Chỉ từ một bức ảnh du lịch đăng mạng xã hội, hệ thống AI có thể tìm ra quán cà phê bạn ngồi, con phố bạn đứng, thậm chí cả thành phố bạn ghé qua. GeoSpy AI thực sự hoạt động như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T08:50:29.974994+07:00",
+      "fetched": "2026-02-27T08:50:29.975194+07:00"
+    },
     {
       "id": "ac60baedb8c7628d8ca641d5c2fd997b",
       "title": "Thời tiết hôm nay 27-2: Bắc Bộ giảm mưa, Nam Bộ mưa trái mùa",
@@ -161,6 +311,446 @@ window.newsData_2026_02_27 = {
       "category": "Tổng hợp",
       "published": "2026-02-27T01:50:21.409363+07:00",
       "fetched": "2026-02-27T01:50:21.409594+07:00"
+    },
+    {
+      "id": "d68d55ae316ef2bcdec71b6ae9bce14a",
+      "title": "Tổng thư ký AFC dự đoán chính xác CAS hoãn phán quyết, sếp FAM báo tin quan trọng…",
+      "link": "https://thanhnien.vn/tong-thu-ky-afc-du-doan-chinh-xac-cas-hoan-phan-quyet-sep-fam-bao-tin-quan-trong-18526022708414985.htm",
+      "summary": "Theo Bernama, Liên đoàn Bóng đá Malaysia (FAM) sẽ đưa ra thông báo trong ngày hôm nay (27.2) về phiên điều trần của CAS và phán quyết cuối cùng sẽ có vào tuần sau. Trước đó, Tổng thư ký AFC đã dự báo được tình hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:49:00+07:00",
+      "fetched": "2026-02-27T08:50:29.197459+07:00"
+    },
+    {
+      "id": "7051ee56c1b30cd9c446d11eb4f56ebd",
+      "title": "Giá vàng hôm nay 27.2.2026: Giảm gần triệu đồng sau ngày vía Thần tài",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2722026-giam-gan-trieu-dong-sau-ngay-via-than-tai-185260227074917443.htm",
+      "summary": "Giá vàng nhẫn trong nước quay đầu giảm sau ngày vía Thần tài dù thị trường thế giới không thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:49:00+07:00",
+      "fetched": "2026-02-27T08:50:29.197619+07:00"
+    },
+    {
+      "id": "dba496874fb2b76b09c0ec87c59b1c2a",
+      "title": "Giá heo hơi hôm nay 27.2.2026: Tiếp tục chiều giảm nhẹ",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2722026-tiep-tuc-chieu-giam-nhe-185260227082942663.htm",
+      "summary": "Giá heo hơi tiếp tục xu hướng giảm. Khảo sát mới nhất cho thấy, giá heo hơi hiện dao động từ 69.000 - 72.000 đồng/kg, bình quân cả nước đã lùi về mức 70.600 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:39:00+07:00",
+      "fetched": "2026-02-27T08:50:29.197751+07:00"
+    },
+    {
+      "id": "a50bef3af014d257442da62194191f83",
+      "title": "Tiếng loa học bài !",
+      "link": "https://thanhnien.vn/tieng-loa-hoc-bai-185260226164021353.htm",
+      "summary": "Mỗi tối, đúng 19 giờ, tiếng loa truyền thanh ở những vùng quê miền núi Quảng Trị lại vang lên lời nhắc học bài. Một việc làm nhỏ, giản dị, nhưng đủ sức vun bồi thói quen học tập cho con trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:18:00+07:00",
+      "fetched": "2026-02-27T08:50:29.197879+07:00"
+    },
+    {
+      "id": "c328f763387d5a1ea5cf79cad334bca5",
+      "title": "Thông gia của ông Trump thành tâm điểm căng thẳng Mỹ - Pháp",
+      "link": "https://vnexpress.net/thong-gia-cua-ong-trump-thanh-tam-diem-cang-thang-my-phap-5043774.html",
+      "summary": "Việc đại sứ Mỹ Kushner phớt lờ yêu cầu trình diện từ Pháp đã đẩy căng thẳng Paris - Washington lên cao, làm dấy lên tranh cãi về sự nghiệp chính trị của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:14:06+07:00",
+      "fetched": "2026-02-27T08:50:25.992092+07:00"
+    },
+    {
+      "id": "c328f763387d5a1ea5cf79cad334bca5",
+      "title": "Thông gia của ông Trump thành tâm điểm căng thẳng Mỹ - Pháp",
+      "link": "https://vnexpress.net/thong-gia-cua-ong-trump-thanh-tam-diem-cang-thang-my-phap-5043774.html",
+      "summary": "Việc đại sứ Mỹ Kushner phớt lờ yêu cầu trình diện từ Pháp đã đẩy căng thẳng Paris - Washington lên cao, làm dấy lên tranh cãi về sự nghiệp chính trị của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T01:14:06+07:00",
+      "fetched": "2026-02-27T08:50:31.298098+07:00"
+    },
+    {
+      "id": "9d5df13b860d931553193cf60e046d96",
+      "title": "Thời trang đồng điệu của Kỳ Duyên, Đoàn Thiên Ân",
+      "link": "https://vnexpress.net/thoi-trang-dong-dieu-cua-ky-duyen-doan-thien-an-5043034.html",
+      "summary": "Hoa hậu Kỳ Duyên, Thiên Ân thường chọn trang chung phom dáng, màu sắc khi sánh đôi dự sự kiện, chụp ảnh thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:12:34+07:00",
+      "fetched": "2026-02-27T08:50:25.992249+07:00"
+    },
+    {
+      "id": "529b783551d05f5d207d6352418ed54d",
+      "title": "Singapore đối mặt 'thử thách tồn vong' khi tỷ lệ sinh chạm đáy kỷ lục",
+      "link": "https://vnexpress.net/singapore-doi-mat-thu-thach-ton-vong-khi-ty-le-sinh-cham-day-ky-luc-5044486.html",
+      "summary": "Tỷ lệ sinh của Singapore năm 2025 lao dốc xuống mức kỷ lục 0,87, đẩy quốc gia này vào \"thử thách tồn vong\" khi đối mặt cùng lúc hai gánh nặng là người trẻ ngại kết hôn và dân số già hóa nhanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:12:00+07:00",
+      "fetched": "2026-02-27T08:50:25.992392+07:00"
+    },
+    {
+      "id": "0c4b89803b503618f92b8017c69922eb",
+      "title": "Thụy Điển đối phó drone 'nghi của Nga' gần tàu sân bay Pháp",
+      "link": "https://thanhnien.vn/thuy-dien-doi-pho-drone-nghi-cua-nga-gan-tau-san-bay-phap-185260227075650967.htm",
+      "summary": "Quân đội Thụy Điển đã có biện pháp đối phó một thiết bị bay không người lái (drone) gần tàu sân bay Charles de Gaulle của Pháp đang có chuyến thăm thành phố Malmo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:12:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198006+07:00"
+    },
+    {
+      "id": "d049c7b2bba0c64187e4e38631d74dd6",
+      "title": "Pakistan tuyên bố 'chiến tranh không hạn chế' với Afghanistan",
+      "link": "https://vnexpress.net/pakistan-tuyen-bo-chien-tranh-khong-han-che-voi-afghanistan-5044512.html",
+      "summary": "Bộ trưởng Quốc phòng Pakistan tuyên bố nước này bước vào \"chiến tranh không hạn chế\" với Afghanistan, sau khi Taliban mở đợt tấn công trả đũa dọc biên giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:09:42+07:00",
+      "fetched": "2026-02-27T08:50:25.992560+07:00"
+    },
+    {
+      "id": "d049c7b2bba0c64187e4e38631d74dd6",
+      "title": "Pakistan tuyên bố 'chiến tranh không hạn chế' với Afghanistan",
+      "link": "https://vnexpress.net/pakistan-tuyen-bo-chien-tranh-khong-han-che-voi-afghanistan-5044512.html",
+      "summary": "Bộ trưởng Quốc phòng Pakistan tuyên bố nước này bước vào \"chiến tranh không hạn chế\" với Afghanistan, sau khi Taliban mở đợt tấn công trả đũa dọc biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T01:09:42+07:00",
+      "fetched": "2026-02-27T08:50:31.298249+07:00"
+    },
+    {
+      "id": "f31dfdd88f143f58e74c23d9eb1ef991",
+      "title": "Ra điều trần về vụ Epstein, bà Clinton nói ông Trump cũng phải điều trần",
+      "link": "https://thanhnien.vn/ra-dieu-tran-ve-vu-epstein-ba-clinton-noi-ong-trump-cung-phai-dieu-tran-185260227075306564.htm",
+      "summary": "Cựu Ngoại trưởng Mỹ Hillary Clinton bác bỏ mối quan hệ với tội phạm tình dục Jeffrey Epstein, đồng thời cho rằng Tổng thống Donald Trump cũng cần ra điều trần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:09:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198133+07:00"
+    },
+    {
+      "id": "e74b76e9cab402389ba892384b229165",
+      "title": "Bác sĩ Nguyễn Hoàng Tuấn: Chọn sản khoa vì mỗi ca bệnh gắn 2 sinh mệnh",
+      "link": "https://thanhnien.vn/bac-si-nguyen-hoang-tuan-chon-san-khoa-vi-moi-ca-benh-gan-2-sinh-menh-185260226111737913.htm",
+      "summary": "Tiếng gõ cửa dồn dập xé toạc khoảng lặng phòng trực đêm: 'Bác ơi, băng huyết'. Chỉ 4 chữ, nhưng với bác sĩ Nguyễn Hoàng Tuấn - Giám đốc Bệnh viện Phương Nam - đó là âm thanh đủ khiến ông bật dậy như một chiếc lò xo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:08:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198267+07:00"
+    },
+    {
+      "id": "30eee11bb1e68270f8d609ade7402161",
+      "title": "CAS hoãn công bố phán quyết vụ 7 cầu thủ Malaysia nhập tịch",
+      "link": "https://vnexpress.net/cas-hoan-cong-bo-phan-quyet-vu-7-cau-thu-malaysia-nhap-tich-5044529.html",
+      "summary": "Tòa Trọng tài Thể thao (CAS) cần thời gian để xem xét toàn bộ hồ sơ và lập luận, nên chưa đưa ra phán quyết về vụ 7 cầu thủ Malaysia nhập tịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:04:29+07:00",
+      "fetched": "2026-02-27T08:50:25.992722+07:00"
+    },
+    {
+      "id": "af7822eb64c2a195217b50bba14b13e3",
+      "title": "CAS hoãn công bố phán quyết vụ 7 cầu thủ nhập tịch của Malaysia",
+      "link": "https://vnexpress.net/cas-hoan-cong-bo-phan-quyet-vu-7-cau-thu-nhap-tich-cua-malaysia-5044529.html",
+      "summary": "Tòa Trọng tài Thể thao (CAS) cần thời gian để xem xét toàn bộ hồ sơ và lập luận nên chưa đưa ra phán quyết về vụ 7 cầu thủ nhập tịch của Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T01:04:29+07:00",
+      "fetched": "2026-02-27T08:50:35.797891+07:00"
+    },
+    {
+      "id": "661b850ce306998ac11963bd636f86ca",
+      "title": "Vịt nhanh trí biến đại bàng thành trò cười",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-vit-nhanh-tri-bien-dai-bang-thanh-tro-cuoi-5044367.html",
+      "summary": "Một màn rượt đuổi nghẹt thở trên mặt nước khép lại bằng việc đại bàng phải lắc đầu bỏ cuộc trước sự nhanh trí của chú vịt nhỏ bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:25.992862+07:00"
+    },
+    {
+      "id": "b19c35167843ecdf7ec4ec7db9ba097e",
+      "title": "Phác đồ IVF 'nhẹ' giúp người mẹ mang thai sau 10 năm hiếm muộn",
+      "link": "https://vnexpress.net/phac-do-ivf-nhe-giup-nguoi-me-mang-thai-sau-10-nam-hiem-muon-5044047.html",
+      "summary": "Phương pháp sử dụng liều thuốc kích thích thấp, tối ưu noãn, nuôi cấy cẩn trọng từng phôi, can thiệp đúng thời điểm, giúp một người mẹ có con đầu lòng sau 10 năm hiếm muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:25.992994+07:00"
+    },
+    {
+      "id": "a0293735434c657c56f16d6f5d869655",
+      "title": "Amazon Leo ký kết với các nhà phân phối hàng hải",
+      "link": "https://vnexpress.net/amazon-leo-ky-ket-voi-cac-nha-phan-phoi-hang-hai-5040295.html",
+      "summary": "Amazon Leo - mạng vệ tinh quỹ đạo thấp (LEO) mới của tập đoàn thương mại điện tử Amazon bắt đầu ký kết các nhà phân phối cho lĩnh vực hàng hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:25.993133+07:00"
+    },
+    {
+      "id": "aac35f5f37febc6d197ae76d1eb7dc3f",
+      "title": "Vũ điệu ánh sáng trong những thiết kế váy tiệc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vu-dieu-anh-sang-trong-nhung-thiet-ke-vay-tiec-185260226184222025.htm",
+      "summary": "Trong không gian tiệc tối lấp lánh, ánh sáng không chỉ soi rọi không gian mà còn đánh thức vẻ đẹp của từng chuyển động. Váy tiệc, vì thế, trở thành nơi ánh sáng được 'khiêu vũ' - len lỏi qua chất liệu và thiết kế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198396+07:00"
+    },
+    {
+      "id": "28bba37e77b805f6fb6567a181580b76",
+      "title": "Tư vấn điều trị rối loạn nhịp chậm bằng máy tạo nhịp không dây thế hệ mới",
+      "link": "https://thanhnien.vn/tu-van-dieu-tri-roi-loan-nhip-cham-bang-may-tao-nhip-khong-day-the-he-moi-185260226182703995.htm",
+      "summary": "20 giờ thứ Sáu ngày 27.2.2026, chương trình tư vấn trực tuyến 'Tiên phong công nghệ điều trị rối loạn nhịp chậm bằng máy tạo nhịp không dây thế hệ mới' diễn ra trên nền tảng online của Báo Thanh Niên và BVĐK Tâm Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198532+07:00"
+    },
+    {
+      "id": "2742028c0f9a2df2ed834543a6926c2e",
+      "title": "Hoa hậu Du lịch Việt Nam 2026 chính thức trở thành Đại sứ thương hiệu Kaitashi",
+      "link": "https://thanhnien.vn/hoa-hau-du-lich-viet-nam-2026-chinh-thuc-tro-thanh-dai-su-thuong-hieu-kaitashi-185260226152329985.htm",
+      "summary": "Tân Hoa hậu Du Lịch Việt Nam Nguyễn Phương Linh và thương hiệu Kaitashi đã chính thức ký kết hợp tác đại sứ giai đoạn 2026 - 2028, đánh dấu bước ngoặt quan trọng trong chiến lược kết nối hình ảnh nhan sắc Việt với sứ mệnh chăm sóc sức khỏe cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198659+07:00"
+    },
+    {
+      "id": "5e8ec8c452cd8173d60d7d2533c77709",
+      "title": "Hoa hậu Khánh Vân: Tôi đưa chồng vào sự nghiệp của mình",
+      "link": "https://thanhnien.vn/hoa-hau-khanh-van-toi-dua-chong-vao-su-nghiep-cua-minh-185260220002623391.htm",
+      "summary": "Sau hai năm kết hôn, Khánh Vân thấy mình may mắn khi có người bạn đời cùng tần số, luôn thấu hiểu và đồng hành. Với cô, hôn nhân không chỉ là gắn bó mà còn là hành trình trưởng thành, tiếp thêm động lực để cả hai tự tin theo đuổi ước mơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T01:00:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198784+07:00"
+    },
+    {
+      "id": "163c9b4e5146ed32e73f6e10d80af860",
+      "title": "Bê bối nhập tịch Malaysia: CAS lùi giờ ra phán quyết, sẽ có vào tuần tới",
+      "link": "https://thanhnien.vn/be-boi-nhap-tich-malaysia-cas-lui-gio-ra-phan-quyet-se-co-vao-tuan-toi-18526022707321394.htm",
+      "summary": "Tòa Trọng tài Thể thao (CAS) xác nhận hội đồng trọng tài đã bắt đầu thảo luận về đơn kháng cáo liên quan đến 7 cầu thủ nhập tịch. Phán quyết cuối cùng dự kiến sẽ được đưa ra vào tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:48:00+07:00",
+      "fetched": "2026-02-27T08:50:29.198909+07:00"
+    },
+    {
+      "id": "5d29653e54a636ca9eaa6b93c7c1b59c",
+      "title": "Đề nghị Trường CĐ Lý Tự Trọng hoàn trả hơn 20 tỉ đồng tạm thu học phí",
+      "link": "https://thanhnien.vn/de-nghi-truong-cd-ly-tu-trong-hoan-tra-hon-20-ti-dong-tam-thu-hoc-phi-18526022622005853.htm",
+      "summary": "Liên quan đến việc Trường CĐ Lý Tự Trọng TP.HCM tạm thu học phí hơn 158 tỉ đồng, Sở GD-ĐT TP.HCM đề nghị trường khẩn trương hoàn trả số tiền đã tạm thu của học sinh, sinh viên thuộc đối tượng được miễn, giảm học phí theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:45:00+07:00",
+      "fetched": "2026-02-27T08:50:29.199038+07:00"
+    },
+    {
+      "id": "1f8e35910d8cfa3482c72a0effac3057",
+      "title": "Bà Hillary công kích ông Trump khi điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/ba-hillary-cong-kich-ong-trump-khi-dieu-tran-ve-ty-phu-au-dam-epstein-5044505.html",
+      "summary": "Bà Hillary Clinton phủ nhận mọi liên quan đến Jeffrey Epstein, đồng thời yêu cầu Tổng thống Trump ra điều trần về liên hệ với tỷ phú ấu dâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:43:47+07:00",
+      "fetched": "2026-02-27T08:50:25.993267+07:00"
+    },
+    {
+      "id": "1f8e35910d8cfa3482c72a0effac3057",
+      "title": "Bà Hillary công kích ông Trump khi điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/ba-hillary-cong-kich-ong-trump-khi-dieu-tran-ve-ty-phu-au-dam-epstein-5044505.html",
+      "summary": "Bà Hillary Clinton phủ nhận mọi liên quan đến Jeffrey Epstein, đồng thời yêu cầu Tổng thống Trump ra điều trần về liên hệ với tỷ phú ấu dâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T00:43:47+07:00",
+      "fetched": "2026-02-27T08:50:31.298389+07:00"
+    },
+    {
+      "id": "a34cb6fe1abd3da627e1a403d81282d7",
+      "title": "Maddox bỏ họ Brad Pitt",
+      "link": "https://vnexpress.net/maddox-bo-ho-brad-pitt-5044504.html",
+      "summary": "Maddox - 25 tuổi, con trai nuôi của Brad Pitt và Angelina Jolie - bỏ họ bố, chỉ dùng họ mẹ khi để tên xuất hiện trong dự án mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:43:15+07:00",
+      "fetched": "2026-02-27T08:50:25.993408+07:00"
+    },
+    {
+      "id": "78192db3b25978ecf1b0d72c3b5497ed",
+      "title": "Bệnh viện đầu tiên tại Việt Nam cấy máy tạo nhịp tim không dây thế hệ mới",
+      "link": "https://thanhnien.vn/benh-vien-dau-tien-tai-viet-nam-cay-may-tao-nhip-tim-khong-day-the-he-moi-185260227080016147.htm",
+      "summary": "Kỹ thuật cấy máy tạo nhịp tim không dây thế hệ mới nhất được triển khai đầu tiên và đạt tỷ lệ thành công 100% tại Bệnh viện Đa khoa Tâm Anh TP.HCM, đưa Việt Nam tiệm cận các chuẩn mực điều trị hiện đại trên thế giới với nhiều lợi ích vượt trội cho người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:43:00+07:00",
+      "fetched": "2026-02-27T08:50:29.199165+07:00"
+    },
+    {
+      "id": "252c28e4964c9b7f66d626e7cf38ae3f",
+      "title": "Bộ Quốc phòng phân cấp, giám sát hoạt động bay của UAV thế nào?",
+      "link": "https://thanhnien.vn/bo-quoc-phong-phan-cap-giam-sat-hoat-dong-bay-cua-uav-the-nao-185260227063520998.htm",
+      "summary": "Thông tư số 146/2025/TT-BQP ngày 25.12.2025 của Bộ trưởng Bộ Quốc phòng đã hướng dẫn cụ thể về việc cấp phép, giám sát, quản lý khu vực bay của tàu bay không người lái (UAV) và các phương tiện khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:32:00+07:00",
+      "fetched": "2026-02-27T08:50:29.199299+07:00"
+    },
+    {
+      "id": "475d8d0d1a124cd66ef5d6407235cfcc",
+      "title": "Nga bàn giao 1.000 thi thể binh sĩ cho Ukraine",
+      "link": "https://vnexpress.net/nga-ban-giao-1-000-thi-the-binh-si-cho-ukraine-5044501.html",
+      "summary": "Quan chức Điện Kremlin thông báo Nga đã hoàn tất đợt bàn giao 1.000 thi thể binh sĩ Ukraine và nhận lại 35 tử sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:14:55+07:00",
+      "fetched": "2026-02-27T08:50:25.993553+07:00"
+    },
+    {
+      "id": "475d8d0d1a124cd66ef5d6407235cfcc",
+      "title": "Nga bàn giao 1.000 thi thể binh sĩ cho Ukraine",
+      "link": "https://vnexpress.net/nga-ban-giao-1-000-thi-the-binh-si-cho-ukraine-5044501.html",
+      "summary": "Quan chức Điện Kremlin thông báo Nga đã hoàn tất đợt bàn giao 1.000 thi thể binh sĩ Ukraine và nhận lại 35 tử sĩ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T00:14:55+07:00",
+      "fetched": "2026-02-27T08:50:31.298537+07:00"
+    },
+    {
+      "id": "60471ac29b013f967212482cd27b5c74",
+      "title": "Cẩm nang du lịch Đàn Kính Thiên - Thung Ui",
+      "link": "https://vnexpress.net/cam-nang-du-lich-dan-kinh-thien-thung-ui-5043589.html",
+      "summary": "Đàn Kính Thiên - Thung Ui là khu du lịch văn hóa - tâm linh - nghỉ dưỡng mang dấu ấn Việt, nằm giữa núi đá vôi, hồ nước và cảnh quan của vùng Tràng An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:02:47+07:00",
+      "fetched": "2026-02-27T08:50:25.993687+07:00"
+    },
+    {
+      "id": "9e4470d2a71c1895bad318c32a90e318",
+      "title": "Hoài niệm thời 'căn từng giây' khi gọi di động",
+      "link": "https://vnexpress.net/hoai-niem-thoi-can-tung-giay-khi-goi-di-dong-5044012.html",
+      "summary": "Người Việt ngày càng ít thực hiện cuộc gọi truyền thống, dù từng trải nghiệm cảnh nghẽn mạng dịp lễ tết, hay phải căn từng giây, nói chuyện \"siêu ngắn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-27T00:00:00+07:00",
+      "fetched": "2026-02-27T08:50:25.993818+07:00"
+    },
+    {
+      "id": "9e4470d2a71c1895bad318c32a90e318",
+      "title": "Hoài niệm thời 'căn từng giây' khi gọi di động",
+      "link": "https://vnexpress.net/hoai-niem-thoi-can-tung-giay-khi-goi-di-dong-5044012.html",
+      "summary": "Người Việt ngày càng ít thực hiện cuộc gọi truyền thống, dù từng trải nghiệm cảnh nghẽn mạng dịp lễ tết, hay phải căn từng giây, nói chuyện \"siêu ngắn\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-27T00:00:00+07:00",
+      "fetched": "2026-02-27T08:50:34.366800+07:00"
+    },
+    {
+      "id": "8534cf39d3e16685ee0936444be21e49",
+      "title": "Ít nhất hai công dân Mỹ có mặt trên xuồng bị Cuba bắn hạ",
+      "link": "https://vnexpress.net/it-nhat-hai-cong-dan-my-co-mat-tren-xuong-bi-cuba-ban-ha-5044499.html",
+      "summary": "Quan chức Nhà Trắng xác nhận ít nhất hai người trên xuồng cao tốc xâm nhập lãnh hải Cuba và bị bắn hạ là công dân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:54:26+07:00",
+      "fetched": "2026-02-27T08:50:25.993953+07:00"
+    },
+    {
+      "id": "8534cf39d3e16685ee0936444be21e49",
+      "title": "Ít nhất hai công dân Mỹ có mặt trên xuồng bị Cuba bắn hạ",
+      "link": "https://vnexpress.net/it-nhat-hai-cong-dan-my-co-mat-tren-xuong-bi-cuba-ban-ha-5044499.html",
+      "summary": "Quan chức Nhà Trắng xác nhận ít nhất hai người trên xuồng cao tốc xâm nhập lãnh hải Cuba và bị bắn hạ là công dân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T23:54:26+07:00",
+      "fetched": "2026-02-27T08:50:31.298671+07:00"
+    },
+    {
+      "id": "229d4172aaa0a02121a3e4762fe0971a",
+      "title": "5 công dụng bất ngờ của nồi chiên không dầu",
+      "link": "https://vnexpress.net/5-cong-dung-bat-ngo-cua-noi-chien-khong-dau-5044476.html",
+      "summary": "Không chỉ dùng nướng thịt hay khoai tây, nồi chiên không dầu còn có công dụng tuyệt vời để luộc trứng, sấy hoa quả và khử mùi ẩm mốc cho cả căn nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-26T23:51:00+07:00",
+      "fetched": "2026-02-27T08:50:25.994087+07:00"
+    },
+    {
+      "id": "e9497c9b8d856ed7ff7cca3b6f18f8ba",
+      "title": "Man Utd chi ròng chuyển nhượng nhiều nhất châu Âu 5 năm qua",
+      "link": "https://vnexpress.net/man-utd-chi-rong-chuyen-nhuong-nhieu-nhat-chau-au-5-nam-qua-5044488.html",
+      "summary": "UEFA cho biết Man Utd dẫn đầu châu Âu về mức chi ròng chuyển nhượng giai đoạn 2021-2025 với 878 triệu USD, phơi bày rõ sự sa sút thành tích so với số tiền đầu tư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T23:04:10+07:00",
+      "fetched": "2026-02-27T08:50:35.798329+07:00"
+    },
+    {
+      "id": "365f02048f167c4992c7c364d3882cd2",
+      "title": "Sóng ngầm an ninh tại Mexico trước thềm World Cup 2026",
+      "link": "https://vnexpress.net/song-ngam-an-ninh-tai-mexico-truoc-them-world-cup-2026-5044491.html",
+      "summary": "Sau vụ tiêu diệt trùm ma túy khét tiếng, làn sóng bạo lực tại bang Jalisco làm dấy lên lo ngại về an ninh World Cup 2026 ở Guadalajara, buộc FIFA theo dõi sát tình hình và tính đến kịch bản điều chỉnh một số trận play-off nếu rủi ro vượt tầm kiểm soát.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T23:01:33+07:00",
+      "fetched": "2026-02-27T08:50:35.798466+07:00"
+    },
+    {
+      "id": "3ea0a4b27484670f39e2a8d3d32f8844",
+      "title": "Sai lầm khiến trùm ma túy Mexico bị tiêu diệt",
+      "link": "https://vnexpress.net/sai-lam-khien-trum-ma-tuy-mexico-bi-tieu-diet-5044171.html",
+      "summary": "El Mencho luôn được bảo vệ bởi gần 400 tay súng cùng các biện pháp an ninh hiện đại, nhưng sai lầm của ông trùm đã tạo điều kiện cho đặc nhiệm Mexico đột kích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-26T23:00:00+07:00",
+      "fetched": "2026-02-27T08:50:31.298809+07:00"
+    },
+    {
+      "id": "6e32eefc2839ebaf8766a52599784238",
+      "title": "Thủ môn ăn vạ vì lễ Ramadan",
+      "link": "https://vnexpress.net/thu-mon-an-va-vi-le-ramadan-5044498.html",
+      "summary": "Thủ thành CLB Nantes, Anthony Lopes giả vờ bị chấn thương để giúp đỡ đồng đội theo đạo Hồi trong trận thắng Le Havre 2-0 ở vòng 23 Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:56:22+07:00",
+      "fetched": "2026-02-27T08:50:35.798613+07:00"
+    },
+    {
+      "id": "4922f33dda798a44e74e5bb2136cc856",
+      "title": "Runner nữ bị giẫm đạp vì sự cố xuất phát nhầm",
+      "link": "https://vnexpress.net/runner-nu-bi-giam-dap-vi-su-co-xuat-phat-nham-5044496.html",
+      "summary": "Pháo hoa phát nổ nhầm thời điểm, ngay trước hiệu lệnh xuất phát, khiến nhóm VĐV phía sau lao lên, xô ngã nhiều chân chạy nữ elite tại giải 10K Facsa Castellon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:52:58+07:00",
+      "fetched": "2026-02-27T08:50:35.798756+07:00"
+    },
+    {
+      "id": "5a0054be3dfa0225f8f88fc3452effe8",
+      "title": "Vì sao Ronaldo mừng bàn kiểu úp rổ?",
+      "link": "https://vnexpress.net/vi-sao-ronaldo-mung-ban-kieu-up-ro-5044487.html",
+      "summary": "Cristiano Ronaldo được cho đáp trả phát biểu của cầu thủ Al Hilal, bằng pha ăn mừng kiểu úp rổ trong trận Al Nassr thắng Al Najima 5-0 ở vòng 24 Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:46:01+07:00",
+      "fetched": "2026-02-27T08:50:35.798047+07:00"
+    },
+    {
+      "id": "928b5586090646665a929b71f278568a",
+      "title": "Hôm nay bốc thăm vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hom-nay-boc-tham-vong-1-8-champions-league-5044497.html",
+      "summary": "Lễ bốc thăm vòng 1/8 và xác định nhánh tứ kết, bán kết Champions League, diễn ra lúc 18h hôm nay, theo giờ Hà Nội tại trụ sở UEFA ở Nyon.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-26T22:43:11+07:00",
+      "fetched": "2026-02-27T08:50:35.798191+07:00"
     },
     {
       "id": "dd0b5ff21598f6e0f9d02a7eab79287d",
@@ -351,6 +941,16 @@ window.newsData_2026_02_27 = {
       "category": "Kinh doanh",
       "published": "2026-02-26T20:06:09+07:00",
       "fetched": "2026-02-27T03:34:10.092806+07:00"
+    },
+    {
+      "id": "37f72bde04ba674f00494780d10cd765",
+      "title": "Nhiều 'đại gia' nông nghiệp lãi kỷ lục",
+      "link": "https://vnexpress.net/nhieu-dai-gia-nong-nghiep-lai-ky-luc-5040387.html",
+      "summary": "Năm 2025 đánh dấu bước chuyển mạnh của doanh nghiệp nông nghiệp khi Dabaco lãi hơn 1.500 tỷ đồng, còn HAG ghi nhận 2.243 tỷ - mức cao nhất kể từ khi hoạt động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-26T20:06:09+07:00",
+      "fetched": "2026-02-27T08:50:32.190170+07:00"
     },
     {
       "id": "2e193255885f2d68da503b58534616b7",
