@@ -1,7 +1,177 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T05:20:14.380067+07:00",
+  "lastUpdated": "2026-02-28T08:42:12.379106+07:00",
   "articles": [
+    {
+      "id": "bd715f15cd7341cd2ae1d2f1d7195fcd",
+      "title": "Đối thủ của Lại Lý Huynh sẽ là 'kỳ vương khuyết tật'",
+      "link": "https://tuoitre.vn/doi-thu-cua-lai-ly-huynh-se-la-ky-vuong-khuyet-tat-20260227220519563.htm",
+      "summary": "Đối thủ của Lại Lý Huynh ở vòng bán kết siêu giải cờ tướng Ngũ Dương Bôi là Triệu Phàn Vĩ, một kỳ thủ Trung Quốc nổi danh với câu chuyện vượt lên nghịch cảnh vô cùng phi thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267737+07:00",
+      "fetched": "2026-02-28T08:42:06.267832+07:00"
+    },
+    {
+      "id": "d68dd28be161e24af2033e089a6e2b5a",
+      "title": "BlackPink mặc đồ thiết kế thương hiệu Việt Nam trong MV Go",
+      "link": "https://tuoitre.vn/blackpink-mac-do-thiet-ke-thuong-hieu-viet-nam-trong-mv-go-20260228032717421.htm",
+      "summary": "Nhóm nhạc BlackPink gây chú ý khi cả bốn thành viên diện thiết kế của FENG - thương hiệu thời trang nội địa của Việt Nam - trong MV Go và loạt ấn phẩm quảng bá album Deadline.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267632+07:00",
+      "fetched": "2026-02-28T08:42:06.267728+07:00"
+    },
+    {
+      "id": "fb2a22947eb93657be685593d1f22928",
+      "title": "5 phim xuyên không Hoa ngữ có điểm cao nhất, 'Còn ra thể thống gì nữa' chỉ xếp hạng 2",
+      "link": "https://tuoitre.vn/5-phim-xuyen-khong-hoa-ngu-co-diem-cao-nhat-con-ra-the-thong-gi-nua-chi-xep-hang-2-20260227110335154.htm",
+      "summary": "Vĩnh dạ tinh hà, Còn ra thể thống gì nữa... là những phim cổ trang xuyên không Hoa ngữ có điểm số cao nhất 3 năm gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267528+07:00",
+      "fetched": "2026-02-28T08:42:06.267623+07:00"
+    },
+    {
+      "id": "3d46cc72759231f2dff454e3ff305ac8",
+      "title": "10 ngôi sao mặc đẹp nhất lịch sử Oscar",
+      "link": "https://tuoitre.vn/10-ngoi-sao-mac-dep-nhat-lich-su-oscar-20260227203339243.htm",
+      "summary": "Thảm đỏ tại lễ trao giải Oscar từ lâu được xem là 'thánh địa' của thời trang, nơi quy tụ những ngôi sao phong cách hàng đầu thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267412+07:00",
+      "fetched": "2026-02-28T08:42:06.267518+07:00"
+    },
+    {
+      "id": "3d78e2bf9cfe0ac7f6127fe9ac90b893",
+      "title": "AFC nhắc tên một cầu thủ Việt Nam nào trước Giải bóng đá nữ châu Á 2026",
+      "link": "https://tuoitre.vn/afc-nhac-ten-mot-cau-thu-viet-nam-nao-truoc-giai-bong-da-nu-chau-a-2026-20260228063254155.htm",
+      "summary": "Trong bài viết giới thiệu danh sách các đội bóng dự Giải bóng đá nữ châu Á 2026, AFC đã bất ngờ gọi tên một tuyển thủ nữ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267307+07:00",
+      "fetched": "2026-02-28T08:42:06.267403+07:00"
+    },
+    {
+      "id": "59affbf86a3814d720f7191f65e55e5a",
+      "title": "Steven Nguyễn nói về mình bằng ba chữ: ‘tẽn, tèn, ten’",
+      "link": "https://tuoitre.vn/steven-nguyen-noi-ve-minh-bang-ba-chu-ten-ten-ten-20260228065031931.htm",
+      "summary": "Diễn viên Steven Nguyễn xuất hiện trong chương trình Sao check phát sóng trên VTV3 ngày 27-2 với nhiều chia sẻ chân thành về hành trình làm nghề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267199+07:00",
+      "fetched": "2026-02-28T08:42:06.267296+07:00"
+    },
+    {
+      "id": "8d62f35f068663e0bd20368b191760f0",
+      "title": "6 tấn thực phẩm mù mờ nguồn gốc, bốc mùi hôi thối chờ đi vào quán lẩu, quán nhậu",
+      "link": "https://tuoitre.vn/6-tan-thuc-pham-mu-mo-nguon-goc-boc-mui-hoi-thoi-cho-di-vao-quan-lau-quan-nhau-20260228065409879.htm",
+      "summary": "Ngày 27-2, Phòng Cảnh sát kinh tế Công an tỉnh Thanh Hóa phối hợp với cơ quan chức năng kiểm tra cơ sở thu mua, chế biến xương, đuôi, chân trâu, bò ở xã Hoàng Giang và xã Thọ Long, thu giữ gần 6 tấn thực phẩm không rõ nguồn gốc, bốc mùi hôi thối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.267095+07:00",
+      "fetched": "2026-02-28T08:42:06.267190+07:00"
+    },
+    {
+      "id": "464d39ffcb9e4e4233b5b14559429a9e",
+      "title": "Tàu sân bay USS Gerald Ford đến bờ biển Israel, ông Trump nói 'đôi khi bạn phải dùng vũ lực'",
+      "link": "https://tuoitre.vn/tau-san-bay-uss-gerald-ford-den-bo-bien-israel-ong-trump-noi-doi-khi-ban-phai-dung-vu-luc-20260228071254017.htm",
+      "summary": "Ngày 27-2, Tổng thống Trump bày tỏ sự thất vọng về các cuộc đàm phán của Mỹ với Iran về chương trình hạt nhân và cảnh báo rằng 'đôi khi bạn phải dùng vũ lực'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266989+07:00",
+      "fetched": "2026-02-28T08:42:06.267086+07:00"
+    },
+    {
+      "id": "e763260f0689d02930510689ef73b11d",
+      "title": "Wuling Mini EV 2026 ra mắt về Việt Nam",
+      "link": "https://tuoitre.vn/wuling-mini-ev-2026-ra-mat-ve-viet-nam-co-the-dat-khach-hon-truoc-20260227171403134.htm",
+      "summary": "Mẫu xe điện đô thị siêu nhỏ Wuling Mini EV đã ra mắt bản nâng cấp tại Trung Quốc với diện mạo mới và cấu hình 5 cửa. Hãng kỳ vọng phiên bản này sẽ giúp vực dậy doanh số sau giai đoạn sụt giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266884+07:00",
+      "fetched": "2026-02-28T08:42:06.266980+07:00"
+    },
+    {
+      "id": "9b7a5064ba99e46302abd5cffca69544",
+      "title": "Khi ‘biết chơi một nhạc cụ’ trở thành mục tiêu giáo dục",
+      "link": "https://tuoitre.vn/khi-biet-choi-mot-nhac-cu-tro-thanh-muc-tieu-giao-duc-20260227111707541.htm",
+      "summary": "TP.HCM đang hướng đến mục tiêu mỗi học sinh biết chơi một nhạc cụ vào năm 2030, âm nhạc không còn là môn học “cho vui” mà trở thành một phần trong chiến lược giáo dục toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266779+07:00",
+      "fetched": "2026-02-28T08:42:06.266875+07:00"
+    },
+    {
+      "id": "901898a7da0d165ec061b3fc7c4841de",
+      "title": "Du xuân 2026: Khám phá sức sống Đà Lạt cùng Dalattourist",
+      "link": "https://tuoitre.vn/du-xuan-2026-kham-pha-suc-song-da-lat-cung-dalattourist-20260227154054174.htm",
+      "summary": "Trong tiết trời giao hòa của những ngày đầu năm Bính Ngọ 2026, khi Đà Lạt khoác lên mình tấm áo rực rỡ của cỏ hoa, Dalattourist cũng tự hào đánh dấu cột mốc 50 năm hình thành và phát triển (1976 - 2026).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266672+07:00",
+      "fetched": "2026-02-28T08:42:06.266770+07:00"
+    },
+    {
+      "id": "86e504ee23bf12cfc3deddcf78f89304",
+      "title": "Chủ tịch UBND TP.HCM yêu cầu ngưng tổ chức sự kiện trên đường Lê Lợi, trừ sự kiện quá đặc thù",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-yeu-cau-ngung-to-chuc-su-kien-tren-duong-le-loi-tru-su-kien-qua-dac-thu-2026022807474116.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được đề nghị giảm mạnh, thậm chí ngưng tổ chức sự kiện trên đường Lê Lợi để tránh kẹt xe, ô nhiễm tiếng ồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266558+07:00",
+      "fetched": "2026-02-28T08:42:06.266662+07:00"
+    },
+    {
+      "id": "c46d33b6590f571add30e9419f1d81b9",
+      "title": "Nghiên cứu gây lo ngại: AI dễ chọn tấn công hạt nhân khi vào vai cố vấn quân sự",
+      "link": "https://tuoitre.vn/nghien-cuu-gay-lo-ngai-ai-de-chon-tan-cong-hat-nhan-khi-vao-vai-co-van-quan-su-20260227124012311.htm",
+      "summary": "Nghiên cứu mới cho thấy các mô hình AI ngôn ngữ lớn (LLM) có xu hướng dễ leo thang xung đột hạt nhân khi làm cố vấn trong mô phỏng chiến tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266403+07:00",
+      "fetched": "2026-02-28T08:42:06.266534+07:00"
+    },
+    {
+      "id": "f85756471f1baf625f81a3752a9324af",
+      "title": "Trọng tài Ngoại hạng Anh cho tạm dừng trận đấu vì lý do khó đỡ",
+      "link": "https://tuoitre.vn/trong-tai-ngoai-hang-anh-cho-tam-dung-tran-dau-vi-li-do-kho-do-2026022808084211.htm",
+      "summary": "Trận đấu sớm vòng 28 Giải Ngoại hạng Anh (rạng sáng 28-2) đã bị gián đoạn bởi một sự cố hy hữu: trọng tài buộc phải rời sân giữa chừng vì lý do cá nhân khó đỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266284+07:00",
+      "fetched": "2026-02-28T08:42:06.266393+07:00"
+    },
+    {
+      "id": "17ae1a9fab6216514399b96181e32152",
+      "title": "Đề xuất lãi vay ưu đãi với người mua nhà ở thương mại giá phù hợp 6-7%/năm",
+      "link": "https://tuoitre.vn/de-xuat-lai-vay-uu-dai-voi-nguoi-mua-nha-o-thuong-mai-gia-phu-hop-6-7-nam-20260228080542803.htm",
+      "summary": "Để tạo thuận lợi cho người mua nhà, Hiệp hội Bất động sản TP.HCM đề xuất áp dụng mức lãi suất hợp lý từ 6-7%/năm, trong kỳ hạn 10-12 năm đối với người mua, thuê mua nhà ở thương mại giá phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:06.266074+07:00",
+      "fetched": "2026-02-28T08:42:06.266271+07:00"
+    },
+    {
+      "id": "a0637af004db688800cd9e524f641f99",
+      "title": "Giá vàng hôm nay 28.2.2026: Tăng vọt thêm 3 triệu, bán ra lên 187 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2822026-tang-vot-them-3-trieu-ban-ra-len-187-trieu-dong-18526022808064906.htm",
+      "summary": "Giá vàng trong nước bật tăng thêm 3 triệu đồng sau một đêm khi thị trường thế giới lên cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:41:00+07:00",
+      "fetched": "2026-02-28T08:42:05.274853+07:00"
+    },
+    {
+      "id": "92100a65fde234c530c8a2129cd4a383",
+      "title": "CAS hoãn phán quyết, FAM và 7 cầu thủ nhập tịch lậu chớ vội mừng: Thủ tục pháp lý bình thường",
+      "link": "https://thanhnien.vn/cas-hoan-phan-quyet-fam-va-7-cau-thu-nhap-tich-lau-cho-voi-mung-thu-tuc-phap-ly-binh-thuong-185260228083138135.htm",
+      "summary": "Theo 2 luật sư thể thao hàng đầu Malaysia, ông Nik Erman Nik Roseli và Richard Wee, việc CAS hoãn phán quyết với FAM và 7 cầu thủ liên quan là một bước đi bình thường của bất kỳ cơ quan xét xử nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:39:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275006+07:00"
+    },
     {
       "id": "518d4140b292de477cc2486449048158",
       "title": "Tăng cường phối hợp với Vùng Cảnh sát biển 3 để giữ vững chủ quyền biển đảo",
@@ -151,6 +321,416 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T01:38:09.358338+07:00",
       "fetched": "2026-02-28T01:38:09.358539+07:00"
+    },
+    {
+      "id": "79856074c83117996f3d128b9edda822",
+      "title": "Giá USD hôm nay 28.2.2026: Giảm sâu",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2822026-giam-sau-185260228083023358.htm",
+      "summary": "Các ngân hàng tiếp tục giảm giá USD, nâng tổng mức giảm trong 2 tháng qua lên 0,55%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:36:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275141+07:00"
+    },
+    {
+      "id": "1411ac5e1d97eb4f04bd57f837d1fca9",
+      "title": "Bên trong 'thị trấn ma', nơi ngọn lửa cháy trăm năm dưới lòng đất",
+      "link": "https://thanhnien.vn/ben-trong-thi-tran-ma-noi-ngon-lua-chay-tram-nam-duoi-long-dat-185260225110451831.htm",
+      "summary": "Nếu không phải vì khói bốc lên như sương mù từ những vết nứt trên mặt đất, bạn có thể lái xe thẳng vào thị trấn từng thịnh vượng này mà không hề nhận ra mình đã đi qua nơi chết chóc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:31:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275272+07:00"
+    },
+    {
+      "id": "9a2f6ef592be0cc1ebe3c66694c6abd3",
+      "title": "Diễn viên Quỳnh Lam chia sẻ khoảnh khắc ngọt ngào bên bạn trai kém 9 tuổi",
+      "link": "https://thanhnien.vn/dien-vien-quynh-lam-chia-se-khoanh-khac-ngot-ngao-ben-ban-trai-kem-9-tuoi-185260228082106765.htm",
+      "summary": "Diễn viên Quỳnh Lam thu hút sự chú ý khi chia sẻ hành trình xuất ngoại đầu năm cùng bạn trai Vũ Đằng. Dù không phô trương, những khoảnh khắc đồng hành giữa cả hai vẫn khiến khán giả dành nhiều quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:30:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275408+07:00"
+    },
+    {
+      "id": "3d3183a5635f5018f3e2840ecba5ea9a",
+      "title": "Ì ạch dự án đường nghìn tỉ nối sân bay Phú Bài với trung tâm TP.Huế",
+      "link": "https://thanhnien.vn/i-ach-du-an-duong-nghin-ti-noi-san-bay-phu-bai-voi-trung-tam-tphue-185260227171939707.htm",
+      "summary": "Sau hơn 1 năm khởi công, dự án đường Tố Hữu nối dài đi sân bay Phú Bài, TP.Huế vẫn trong tình trạng thi công cầm chừng, nhiều hạng mục dang dở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:29:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275551+07:00"
+    },
+    {
+      "id": "de4f2a3f1ccbbef36ef85e17c427c58f",
+      "title": "Vận tải cơ chở tiền gặp nạn, 15 người chết",
+      "link": "https://vnexpress.net/van-tai-co-cho-tien-gap-nan-15-nguoi-chet-5044921.html",
+      "summary": "Vận tải cơ của không quân Bolivia chở tiền giấy mới in trượt đường băng khi hạ cánh gần thủ đô La Paz, khiến ít nhất 15 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:22:26+07:00",
+      "fetched": "2026-02-28T08:42:02.250709+07:00"
+    },
+    {
+      "id": "de4f2a3f1ccbbef36ef85e17c427c58f",
+      "title": "Vận tải cơ chở tiền gặp nạn, 15 người chết",
+      "link": "https://vnexpress.net/van-tai-co-cho-tien-gap-nan-15-nguoi-chet-5044921.html",
+      "summary": "Vận tải cơ của không quân Bolivia chở tiền giấy mới in trượt đường băng khi hạ cánh gần thủ đô La Paz, khiến ít nhất 15 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T01:22:26+07:00",
+      "fetched": "2026-02-28T08:42:07.989822+07:00"
+    },
+    {
+      "id": "0ccdea3bc8ce2cbdb6e4188689ce7095",
+      "title": "Bất cập thu nhập 1 triệu không được tính người phụ thuộc, Bộ Tài chính nói gì?",
+      "link": "https://thanhnien.vn/bat-cap-thu-nhap-1-trieu-khong-duoc-tinh-nguoi-phu-thuoc-bo-tai-chinh-noi-gi-185260228073902932.htm",
+      "summary": "Bộ Tài chính sẽ rà soát, nghiên cứu để điều chỉnh mức thu nhập làm căn cứ xác định người phụ thuộc nhằm bảo đảm phù hợp với tình hình kinh tế - xã hội và mức sống của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:22:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275681+07:00"
+    },
+    {
+      "id": "dd74a220116c5e3dfd9556a8f6f6c135",
+      "title": "Lâm Bảo Châu giữ vóc dáng nhờ chạy bộ",
+      "link": "https://vnexpress.net/lam-bao-chau-giu-voc-dang-nho-chay-bo-5044610.html",
+      "summary": "Người mẫu Lâm Bảo Châu, 34 tuổi, chạy bộ mỗi ngày để có hình thể săn chắc, từng chinh phục quãng đường 50 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:20:09+07:00",
+      "fetched": "2026-02-28T08:42:02.250865+07:00"
+    },
+    {
+      "id": "c06f0365bd26af232d65e27600b6fcae",
+      "title": "4 phán quyết có thể xảy ra ở vụ Malaysia kiện FIFA",
+      "link": "https://vnexpress.net/4-phan-quyet-co-the-xay-ra-o-vu-malaysia-kien-fifa-5044888.html",
+      "summary": "Chuyên gia tư vấn luật thể thao Zhafri Aminurashid khẳng định Tòa Trọng tài Thể thao (CAS) không giải quyết vụ việc dựa trên giả thuyết hay áp lực từ dư luận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:18:50+07:00",
+      "fetched": "2026-02-28T08:42:02.251004+07:00"
+    },
+    {
+      "id": "c06f0365bd26af232d65e27600b6fcae",
+      "title": "4 phán quyết có thể xảy ra ở vụ Malaysia kiện FIFA",
+      "link": "https://vnexpress.net/4-phan-quyet-co-the-xay-ra-o-vu-malaysia-kien-fifa-5044888.html",
+      "summary": "Chuyên gia tư vấn luật thể thao Zhafri Aminurashid khẳng định Tòa Trọng tài Thể thao (CAS) không giải quyết vụ việc dựa trên giả thuyết hay áp lực từ dư luận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T01:18:50+07:00",
+      "fetched": "2026-02-28T08:42:12.373934+07:00"
+    },
+    {
+      "id": "f48cdba4f3cccf60990b40f5de10220e",
+      "title": "Bỏ loạt quy định quản lý công chức, viên chức tồn tại 10 - 30 năm",
+      "link": "https://thanhnien.vn/bo-loat-quy-dinh-quan-ly-cong-chuc-vien-chuc-ton-tai-10-30-nam-185260227180913384.htm",
+      "summary": "Bộ Nội vụ vừa bãi bỏ 12 văn bản quy phạm pháp luật, trong đó có nhiều quy định về công chức, viên chức tồn tại suốt 10 - 30 năm. Đây được xem là bước đi rõ nét trong quá trình chuyển từ quản lý theo ngạch, bậc sang quản lý theo vị trí việc làm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:18:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275809+07:00"
+    },
+    {
+      "id": "96dba42a0a11c74159d13c74d65546d3",
+      "title": "Giá xăng dầu hôm nay 28.2.2026: Tăng mạnh, dự báo xăng trong nước tăng tiếp?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2822026-tang-manh-du-bao-xang-trong-nuoc-tang-tiep-185260228073821247.htm",
+      "summary": "Giá dầu thế giới tăng hơn 3% trong phiên giao dịch cuối tuần. Diễn biến cho thấy, giá xăng dầu trong nước có thể tăng tiếp trong kỳ điều hành giá tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:17:00+07:00",
+      "fetched": "2026-02-28T08:42:05.275935+07:00"
+    },
+    {
+      "id": "00b17133e614536302c134ebb5a7057c",
+      "title": "Hà Nội phải là nơi đi đầu, thí điểm chính sách",
+      "link": "https://thanhnien.vn/ha-noi-phai-la-noi-di-dau-thi-diem-chinh-sach-185260227222818562.htm",
+      "summary": "Sáng 27.2, Chính phủ đã họp phiên chuyên đề xây dựng pháp luật tháng 2 năm 2026 để xem xét, thảo luận cho ý kiến 5 nội dung chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:17:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276059+07:00"
+    },
+    {
+      "id": "d3e28fee5d709542e5be3f865509c147",
+      "title": "Cựu Tổng thống Mỹ Clinton nói gì trong phiên điều trần vụ Epstein?",
+      "link": "https://thanhnien.vn/cuu-tong-thong-my-clinton-noi-gi-trong-phien-dieu-tran-vu-epstein-185260228080013162.htm",
+      "summary": "Cựu Tổng thống Mỹ Bill Clinton ngày 27.2 được cho là đã 'trả lời mọi câu hỏi' trước một ủy ban hạ viện đang điều tra mối liên hệ của ông với tội phạm tình dục Jeffrey Epstein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:11:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276183+07:00"
+    },
+    {
+      "id": "d40c02d2ed6c80ce01f50a8aab75ebb8",
+      "title": "Ông Trump lệnh cho chính phủ Mỹ ngừng hợp tác với Anthropic",
+      "link": "https://vnexpress.net/ong-trump-lenh-cho-chinh-phu-my-ngung-hop-tac-voi-anthropic-5044911.html",
+      "summary": "Tổng thống Donald Trump chỉ đạo toàn bộ cơ quan liên bang Mỹ ngừng sử dụng sản phẩm của Anthropic, startup AI nổi tiếng với mô hình Claude, tuyên bố \"không cần đến chúng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:07:08+07:00",
+      "fetched": "2026-02-28T08:42:02.251139+07:00"
+    },
+    {
+      "id": "d40c02d2ed6c80ce01f50a8aab75ebb8",
+      "title": "Ông Trump lệnh cho chính phủ Mỹ ngừng hợp tác với Anthropic",
+      "link": "https://vnexpress.net/ong-trump-lenh-cho-chinh-phu-my-ngung-hop-tac-voi-anthropic-5044911.html",
+      "summary": "Tổng thống Donald Trump chỉ đạo toàn bộ cơ quan liên bang Mỹ ngừng sử dụng sản phẩm của Anthropic, startup AI nổi tiếng với mô hình Claude, tuyên bố \"không cần đến chúng\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-02-28T01:07:08+07:00",
+      "fetched": "2026-02-28T08:42:11.504812+07:00"
+    },
+    {
+      "id": "1fb3a7c4a3e71b1215a081617e529144",
+      "title": "Nên ăn trái cây lúc bụng đói hay sau bữa ăn: Bạn có đang làm sai?",
+      "link": "https://thanhnien.vn/nen-an-trai-cay-luc-bung-doi-hay-sau-bua-an-ban-co-dang-lam-sai-185260228080446432.htm",
+      "summary": "Thêm trái cây vào chế độ ăn uống sẽ hỗ trợ sức khỏe tổng thể. Đó là sự bổ sung thông minh vì trái cây ít calo, nhiều chất xơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:04:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276307+07:00"
+    },
+    {
+      "id": "92476f7dfa20f1a1ebf05b88d856eaec",
+      "title": "Mỹ ủng hộ Pakistan không kích Afghanistan",
+      "link": "https://vnexpress.net/my-ung-ho-pakistan-khong-kich-afghanistan-5044913.html",
+      "summary": "Mỹ tuyên bố ủng hộ \"quyền tự vệ\" của Pakistan, sau khi Islamabad tuyên bố \"chiến tranh không hạn chế\" và mở chiến dịch không kích nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:51+07:00",
+      "fetched": "2026-02-28T08:42:02.251271+07:00"
+    },
+    {
+      "id": "92476f7dfa20f1a1ebf05b88d856eaec",
+      "title": "Mỹ ủng hộ Pakistan không kích Afghanistan",
+      "link": "https://vnexpress.net/my-ung-ho-pakistan-khong-kich-afghanistan-5044913.html",
+      "summary": "Mỹ tuyên bố ủng hộ \"quyền tự vệ\" của Pakistan, sau khi Islamabad tuyên bố \"chiến tranh không hạn chế\" và mở chiến dịch không kích nước láng giềng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T01:00:51+07:00",
+      "fetched": "2026-02-28T08:42:07.989978+07:00"
+    },
+    {
+      "id": "7cdd0923fb2d7e1b141e30b97d87573c",
+      "title": "'Văn hóa gật đầu cảm ơn' khiến tài xế ôtô ấm lòng",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-van-hoa-gat-dau-cam-on-khien-tai-xe-oto-am-long-5044368.html",
+      "summary": "Giữa dòng xe đông đúc của Thành phố Hồ Chí Minh, có một “đặc sản” dễ thương mang tên… cái gật đầu cảm ơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.251403+07:00"
+    },
+    {
+      "id": "e2a9491798d9475ff2bb5fc1a433cab2",
+      "title": "Thiếu niên liên tục đột ngột mất ý thức do u não",
+      "link": "https://vnexpress.net/thieu-nien-lien-tuc-dot-ngot-mat-y-thuc-do-u-nao-5044912.html",
+      "summary": "Hoàng, 17 tuổi, thường xuyên mất ý thức tạm thời, bác sĩ chẩn đoán u não chèn ép thần kinh, phẫu thuật bằng robot AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.251546+07:00"
+    },
+    {
+      "id": "cd692100c1a44a467a91e3b20b7c439a",
+      "title": "Uống nước cốt chanh có giảm cân?",
+      "link": "https://vnexpress.net/uong-nuoc-cot-chanh-co-giam-can-5044909.html",
+      "summary": "Uống nước cốt chanh nguyên chất 3-5 quả một ngày có giúp thải độc, giảm cân được không, nên lưu ý gì? (Nguyên Anh, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.251676+07:00"
+    },
+    {
+      "id": "ea90aba778a0cb37f59db6209949d2b1",
+      "title": "Ba trải nghiệm chữa lành khi tới Ehime",
+      "link": "https://vnexpress.net/ba-trai-nghiem-chua-lanh-khi-toi-ehime-5044531.html",
+      "summary": "Du khách tới Ehime của Nhật Bản có thể đến ga Shimonada buông lỏng tâm trí, trải nghiệm suối nước nóng Dogo Onsen hoặc đi dạo, hái quả tại những vườn cam quýt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.251805+07:00"
+    },
+    {
+      "id": "066083f23417d7cc8218c2b5edcbb552",
+      "title": "Honda Accord nỗ lực tồn tại ở Trung Quốc",
+      "link": "https://vnexpress.net/honda-accord-no-luc-ton-tai-o-trung-quoc-5044528.html",
+      "summary": "Mẫu sedan cỡ D được hãng Nhật giảm giá hơn 14.000 USD, tức gần 42%, đánh dấu mức giảm lớn nhất của một mẫu sedan liên doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.251935+07:00"
+    },
+    {
+      "id": "b35386adecb750c4973a8e00e0218f38",
+      "title": "AIT Worldwide Logistics có nhà đầu tư mới",
+      "link": "https://vnexpress.net/ait-worldwide-logistics-co-nha-dau-tu-moi-5043130.html",
+      "summary": "AIT Worldwide Logistics đạt thỏa thuận bổ sung Greenbriar Equity Group làm đối tác đầu tư, đánh dấu thay đổi trong cơ cấu sở hữu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:02.252071+07:00"
+    },
+    {
+      "id": "6e8ebf549ab4ddeb4d55957896e47b19",
+      "title": "Giá vàng tăng, nhiều cặp đôi 'đứng hình' chuyện cưới hỏi",
+      "link": "https://thanhnien.vn/gia-vang-tang-nhieu-cap-doi-dung-hinh-chuyen-cuoi-hoi-18526022717181166.htm",
+      "summary": "Giá vàng tăng cao khiến nhiều cặp đôi chưa thể tiến tới hôn nhân. Nhiều chàng trai lo sợ nhà gái… sốt ruột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276436+07:00"
+    },
+    {
+      "id": "1e5fe96b0ae986de65ba8dbd202c8054",
+      "title": "Phối đồ chuẩn xu hướng với những món đồ tone sur tone",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phoi-do-chuan-xu-huong-voi-nhung-mon-do-tone-sur-tone-185260226181355959.htm",
+      "summary": "Việc mặc đẹp giờ đây dễ dàng hơn với những set đồ tone sur tone, khi chỉ cần khéo léo lựa chọn các gam màu cùng sắc độ là có ngay bản phối tinh tế, không cầu kỳ nhưng vẫn đủ để tôn lên phong cách cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T01:00:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276571+07:00"
+    },
+    {
+      "id": "bdd784473f98a55c558718921a059366",
+      "title": "Bóng đá Malaysia bất lợi khi cuộc chiến pháp lý kéo dài",
+      "link": "https://thanhnien.vn/bong-da-malaysia-bat-loi-khi-cuoc-chien-phap-ly-keo-dai-185260227190706559.htm",
+      "summary": "Việc Tòa án Trọng tài Thể thao (CAS) bất ngờ hoãn ra quyết định trong vụ Liên đoàn Bóng đá Malaysia (FAM) kiện FIFA cho thấy độ phức tạp về mặt pháp lý cao đến mức nào. Đương nhiên, đây không phải là điều có lợi cho FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:50:00+07:00",
+      "fetched": "2026-02-28T08:42:05.276701+07:00"
+    },
+    {
+      "id": "7a8cda8c3214873f1b43060a746daa4c",
+      "title": "Loạt nước châu Âu kêu gọi công dân rời Trung Đông",
+      "link": "https://vnexpress.net/loat-nuoc-chau-au-keu-goi-cong-dan-roi-trung-dong-5044915.html",
+      "summary": "Nhiều quốc gia châu Âu kêu gọi công dân sơ tán hoặc tránh đến Iran và một số nước Trung Đông, lo ngại tình hình khu vực xấu đi nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:47:46+07:00",
+      "fetched": "2026-02-28T08:42:02.252201+07:00"
+    },
+    {
+      "id": "7a8cda8c3214873f1b43060a746daa4c",
+      "title": "Loạt nước châu Âu kêu gọi công dân rời Trung Đông",
+      "link": "https://vnexpress.net/loat-nuoc-chau-au-keu-goi-cong-dan-roi-trung-dong-5044915.html",
+      "summary": "Nhiều quốc gia châu Âu kêu gọi công dân sơ tán hoặc tránh đến Iran và một số nước Trung Đông, lo ngại tình hình khu vực xấu đi nhanh chóng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T00:47:46+07:00",
+      "fetched": "2026-02-28T08:42:07.990120+07:00"
+    },
+    {
+      "id": "1caf6f6f17757ec8baef02c35e76cb36",
+      "title": "Man Utd có cơ hội lên thứ ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-co-co-hoi-len-thu-ba-ngoai-hang-anh-5044917.html",
+      "summary": "Aston Villa thua 0-2 trên sân đội bét bảng Wolves ở trận đấu sớm nhất vòng 28 Ngoại hạng Anh và nguy cơ mất vị trí thứ ba vào tay Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:20:39+07:00",
+      "fetched": "2026-02-28T08:42:02.252334+07:00"
+    },
+    {
+      "id": "1caf6f6f17757ec8baef02c35e76cb36",
+      "title": "Man Utd có cơ hội lên thứ ba Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-co-co-hoi-len-thu-ba-ngoai-hang-anh-5044917.html",
+      "summary": "Aston Villa thua 0-2 trên sân đội bét bảng Wolves ở trận đấu sớm nhất vòng 28 Ngoại hạng Anh và nguy cơ mất vị trí thứ ba vào tay Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:20:39+07:00",
+      "fetched": "2026-02-28T08:42:12.374091+07:00"
+    },
+    {
+      "id": "5027fac54f6f9ff51357ae5eb9dd4628",
+      "title": "Không thể quên người đàn ông khiến bao phụ nữ khao khát có được",
+      "link": "https://vnexpress.net/khong-the-quen-nguoi-dan-ong-khien-bao-phu-nu-khao-khat-co-duoc-5044741.html",
+      "summary": "Người đàn ông từng đi qua cuộc đời tôi là người tôi yêu nhất và cũng chính anh là người khiến tôi đau đớn nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:18:53+07:00",
+      "fetched": "2026-02-28T08:42:02.252483+07:00"
+    },
+    {
+      "id": "4839eb697d40f72b3244d3c3209a268f",
+      "title": "Lãnh đạo Malaysia lạc quan sau 12 tiếng điều trần ở CAS",
+      "link": "https://vnexpress.net/lanh-dao-malaysia-lac-quan-sau-12-tieng-dieu-tran-o-cas-5044465.html",
+      "summary": "Giám đốc Điều hành của đội tuyển Malaysia Rob Friend cảm nhận được sự tích cực sau phiên điều trần tại Tòa án Trọng tài Thể thao (CAS) về vụ 7 cầu thủ gian lận nhập tịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T00:17:25+07:00",
+      "fetched": "2026-02-28T08:42:02.252621+07:00"
+    },
+    {
+      "id": "4839eb697d40f72b3244d3c3209a268f",
+      "title": "Lãnh đạo Malaysia lạc quan sau 12 tiếng điều trần ở CAS",
+      "link": "https://vnexpress.net/lanh-dao-malaysia-lac-quan-sau-12-tieng-dieu-tran-o-cas-5044465.html",
+      "summary": "Giám đốc Điều hành của đội tuyển Malaysia Rob Friend cảm nhận được sự tích cực sau phiên điều trần tại Tòa án Trọng tài Thể thao (CAS) về vụ 7 cầu thủ gian lận nhập tịch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:17:25+07:00",
+      "fetched": "2026-02-28T08:42:12.374232+07:00"
+    },
+    {
+      "id": "97e3f409fb1e5000e81d7bf9313fe250",
+      "title": "Cựu tổng thống Clinton điều trần về tỷ phú ấu dâm Epstein",
+      "link": "https://vnexpress.net/cuu-tong-thong-clinton-dieu-tran-ve-ty-phu-au-dam-epstein-5044904.html",
+      "summary": "Cựu tổng thống Bill Clinton tuyên bố không biết về các hành động phạm tội của Epstein và khẳng định bản thân không làm sai điều gì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T00:10:28+07:00",
+      "fetched": "2026-02-28T08:42:07.990254+07:00"
+    },
+    {
+      "id": "f8881f38d75ab944f60d1e146089fd57",
+      "title": "HLV Chelsea háo hức chạm trán PSG ở vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/hlv-chelsea-hao-huc-cham-tran-psg-o-vong-1-8-champions-league-5044907.html",
+      "summary": "HLV Liam Rosenior phấn khích và ngưỡng mộ đồng nghiệp Luis Enrique khi Chelsea chạm trán PSG tại vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:09:22+07:00",
+      "fetched": "2026-02-28T08:42:12.374510+07:00"
+    },
+    {
+      "id": "d592eb563438d963ff21d47f66199a57",
+      "title": "Guardiola: 'Gặp Real giúp Man City hoàn thiện hơn'",
+      "link": "https://vnexpress.net/guardiola-gap-real-giup-man-city-hoan-thien-hon-5044905.html",
+      "summary": "HLV Pep Guardiola khẳng định việc chạm trán Real Madrid ở vòng 1/8 Champions League là thử thách cần thiết để Man City tích lũy kinh nghiệm và trưởng thành.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:06:31+07:00",
+      "fetched": "2026-02-28T08:42:12.374641+07:00"
+    },
+    {
+      "id": "df9f82e2e9764c7df60968874cc465e3",
+      "title": "Arteta không nghĩ nhiều về giấc mơ ăn bốn của Arsenal",
+      "link": "https://vnexpress.net/arteta-khong-nghi-nhieu-ve-giac-mo-an-bon-cua-arsenal-5044901.html",
+      "summary": "Sau lễ bốc thăm vòng 1/8 Champions League, HLV Mikel Arteta khẳng định chưa nghĩ đến kịch bản giành cú ăn bốn, dù Arsenal đang dẫn đầu Ngoại hạng Anh và có cơ hội tiến sâu ở châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T00:02:50+07:00",
+      "fetched": "2026-02-28T08:42:12.374769+07:00"
+    },
+    {
+      "id": "2fce3315c6cf2f5fe32bfdea04eea5ed",
+      "title": "Arsenal được dự đoán vô địch Champions League",
+      "link": "https://vnexpress.net/arsenal-duoc-du-doan-vo-dich-champions-league-5044914.html",
+      "summary": "Siêu máy tính của Opta đưa ra tỷ lệ vô địch Champions League cao nhất cho Arsenal, sau kết quả bốc thăm giai đoạn còn lại ở vòng knock-out.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-27T23:59:53+07:00",
+      "fetched": "2026-02-28T08:42:12.374365+07:00"
+    },
+    {
+      "id": "a1ef8f2dfcba3376a5223f431a2c656e",
+      "title": "Mỹ liệt Iran vào danh sách đen",
+      "link": "https://vnexpress.net/my-liet-iran-vao-danh-sach-den-5044902.html",
+      "summary": "Ngoại trưởng Rubio thông báo Mỹ sẽ coi Iran là quốc gia bảo trợ hoạt động giam giữ sai trái, loại danh sách đen mới có thể dẫn tới lệnh cấm đi lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-27T23:53:12+07:00",
+      "fetched": "2026-02-28T08:42:07.990394+07:00"
     },
     {
       "id": "ef319dd68387bf5803c2e3448535385d",
