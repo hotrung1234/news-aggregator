@@ -1,7 +1,157 @@
 window.newsData_2026_02_28 = {
   "date": "2026-02-28",
-  "lastUpdated": "2026-02-28T15:25:37.728644+07:00",
+  "lastUpdated": "2026-02-28T17:20:11.685030+07:00",
   "articles": [
+    {
+      "id": "f74e6b4e144de3216962cb78f83cd2be",
+      "title": "Bitcoin bất ngờ lao dốc xuống 60.000 USD, vài phút sau khi Mỹ và Israel tấn công Iran",
+      "link": "https://tuoitre.vn/bitcoin-bat-ngo-lao-doc-xuong-60-000-usd-vai-phut-sau-khi-my-va-israel-tan-cong-iran-20260228142917009.htm",
+      "summary": "Giá Bitcoin lao dốc gần 5% chỉ trong vài phút sau khi Mỹ và Israel tấn công Iran, rơi thẳng về mốc 60.000 USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.601516+07:00",
+      "fetched": "2026-02-28T17:20:04.601635+07:00"
+    },
+    {
+      "id": "c18b7fdf81b56b153cc90361b7cf0d05",
+      "title": "Giữa ruộng hoa bàn chuyện người 'nông dân chuyên nghiệp'",
+      "link": "https://tuoitre.vn/giua-ruong-hoa-ban-chuyen-nguoi-nong-dan-chuyen-nghiep-20260228133948917.htm",
+      "summary": "Lần đầu tiên một buổi tọa đàm về nông nghiệp, bàn về chuyện người nông dân diễn ra ngay tại cánh đồng hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.601390+07:00",
+      "fetched": "2026-02-28T17:20:04.601505+07:00"
+    },
+    {
+      "id": "4fb7ccd7891a8e148f3e5832cec7da4a",
+      "title": "Ô tô chèn ép làm xe máy chở trẻ em ngã ra đường, ngay sát gầm xe tải",
+      "link": "https://tuoitre.vn/o-to-chen-ep-lam-xe-may-cho-tre-em-nga-ra-duong-ngay-sat-gam-xe-tai-20260228145140733.htm",
+      "summary": "Đoạn clip được lan truyền ghi lại cảnh chiếc xe bán tải cố lạng lách, chèn ép khiến xe máy đổ ra đường. Trên xe máy lúc này có 3 người, bao gồm một trẻ nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.601261+07:00",
+      "fetched": "2026-02-28T17:20:04.601378+07:00"
+    },
+    {
+      "id": "f0e74442bbc13c26680cfc57798510c9",
+      "title": "Chính quyền Trump xin hoãn hoàn tiền thuế quan thêm 4 tháng",
+      "link": "https://tuoitre.vn/chinh-quyen-trump-xin-hoan-hoan-tien-thue-quan-them-4-thang-20260228142033503.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump cảnh báo việc hoàn trả các khoản thuế quan sẽ 'mất thời gian', xin hoãn thêm 4 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.601137+07:00",
+      "fetched": "2026-02-28T17:20:04.601249+07:00"
+    },
+    {
+      "id": "f99b608ac395b00ecd4da068a20956fb",
+      "title": "Nguy cơ sống thực vật sau đuối nước, em bé 3 tuổi hồi phục thần kỳ",
+      "link": "https://tuoitre.vn/nguy-co-song-thuc-vat-sau-duoi-nuoc-em-be-3-tuoi-hoi-phuc-than-ky-20260228135308278.htm",
+      "summary": "Bị đuối nước, tổn thương não thiếu oxy nặng, liệt tứ chi và tiên lượng sống thực vật, cậu bé 3 tuổi đã hồi phục một cách thần kỳ sau hơn ba tháng điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.601010+07:00",
+      "fetched": "2026-02-28T17:20:04.601126+07:00"
+    },
+    {
+      "id": "4e4f87777833eb7f5fae7417561d6f9e",
+      "title": "Giá vàng miếng SJC chạm mốc 187 triệu đồng/lượng trước tin Mỹ tấn công Iran",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-cham-moc-187-trieu-dong-luong-truoc-tin-my-tan-cong-iran-20260228145740345.htm",
+      "summary": "Giá vàng thế giới đã bật tăng mạnh trước cả tin Mỹ tấn công Iran và đóng cửa tuần giao dịch ở mức 5.280,2 USD/ounce, tăng đến 94,3 USD/ounce so với phiên trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600879+07:00",
+      "fetched": "2026-02-28T17:20:04.600994+07:00"
+    },
+    {
+      "id": "d69937c65a8078c8b9c0375bfb37160f",
+      "title": "Ông Trump lên tiếng về chiến dịch cùng Israel tấn công Iran",
+      "link": "https://tuoitre.vn/ong-trump-len-tieng-ve-chien-dich-cung-israel-tan-cong-iran-20260228150751476.htm",
+      "summary": "Tổng thống Trump tuyên bố mục tiêu của chiến dịch là loại bỏ các mối đe dọa 'cận kề' đối với người dân Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600731+07:00",
+      "fetched": "2026-02-28T17:20:04.600866+07:00"
+    },
+    {
+      "id": "99a7d45e3d4ed0e19b5502d1eb91bda9",
+      "title": "TP.HCM quy định mới về vỉa hè: Ai được dùng, ai phải đóng phí?",
+      "link": "https://tuoitre.vn/tp-hcm-quy-dinh-moi-ve-via-he-ai-duoc-dung-ai-phai-dong-phi-2026022815013213.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản hướng dẫn triển khai thực hiện một số nội dung liên quan đến công tác quản lý, thu phí sử dụng tạm thời lòng đường, vỉa hè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600607+07:00",
+      "fetched": "2026-02-28T17:20:04.600720+07:00"
+    },
+    {
+      "id": "8a00d4b5eb359657dcb5de5801fc22ba",
+      "title": "Nối dài mạch thắng, Lại Lý Huynh chạm tay vào 'tấm vé 1 tỉ đồng'",
+      "link": "https://tuoitre.vn/noi-dai-mach-thang-lai-ly-huynh-cham-tay-vao-tam-ve-1-ti-dong-20260228151037569.htm",
+      "summary": "Chiều 28-2 (giờ Việt Nam), Lại Lý Huynh đã xuất sắc giành chiến thắng trước Triệu Phàn Vĩ của Trung Quốc trong trận lượt đi bán kết Giải cờ tướng danh giá Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600485+07:00",
+      "fetched": "2026-02-28T17:20:04.600596+07:00"
+    },
+    {
+      "id": "fe690f7e9e09614e9774afd4df2d2896",
+      "title": "Triệu tập người phụ nữ khóa bánh ô tô đỗ ở lề đường",
+      "link": "https://tuoitre.vn/trieu-tap-nguoi-phu-nu-khoa-banh-o-to-do-o-le-duong-20260228145445047.htm",
+      "summary": "Công an phường Thủy Nguyên, TP Hải Phòng đã triệu tập người phụ nữ khóa bánh ô tô đỗ ở lề đường lên làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600361+07:00",
+      "fetched": "2026-02-28T17:20:04.600473+07:00"
+    },
+    {
+      "id": "058983dc4a692f89c1d4006a345b1d35",
+      "title": "Vé tàu từ Quảng Trị vào TP.HCM đến đầu tháng 3 mới 'hạ nhiệt', bến xe báo 'còn vé'",
+      "link": "https://tuoitre.vn/ve-tau-tu-quang-tri-vao-tp-hcm-den-dau-thang-3-moi-ha-nhiet-ben-xe-bao-con-ve-20260228150153565.htm",
+      "summary": "Vé tàu Quảng Trị - TP.HCM khan hiếm đến sau rằm tháng giêng, đơn vị quản lý bến xe tỉnh báo vẫn còn vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600229+07:00",
+      "fetched": "2026-02-28T17:20:04.600349+07:00"
+    },
+    {
+      "id": "870be4b8c9267680c2c889cee4cd94c0",
+      "title": "Lễ hội áo dài TP.HCM sắp bắt đầu",
+      "link": "https://tuoitre.vn/le-hoi-ao-dai-tp-hcm-sap-bat-dau-20260228095013859.htm",
+      "summary": "Qua 11 lần tổ chức, Lễ hội áo dài TP.HCM không ngừng phát triển và khẳng định vị thế là một trong những sự kiện tiêu biểu của thành phố mang tên Bác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.600090+07:00",
+      "fetched": "2026-02-28T17:20:04.600216+07:00"
+    },
+    {
+      "id": "bfaf8d3c1ed9ae60de8cf34dafe0d099",
+      "title": "TP.HCM đề nghị Viettel, VNPT, MobiFone nghiên cứu thử nghiệm 6G trong năm 2026",
+      "link": "https://tuoitre.vn/tp-hcm-de-nghi-viettel-vnpt-mobifone-nghien-cuu-thu-nghiem-6g-trong-nam-2026-20260228151252463.htm",
+      "summary": "TP.HCM đề nghị ba tập đoàn viễn thông lớn là Viettel, VNPT và MobiFone nghiên cứu, phát triển công nghệ 6G trong năm 2026 và phối hợp thí điểm tại một khu vực ở thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.599958+07:00",
+      "fetched": "2026-02-28T17:20:04.600078+07:00"
+    },
+    {
+      "id": "5dac62ba9c7f5b1cd69e6c60b0cc668c",
+      "title": "Nghi can 18 tuổi cầm đầu nhóm giả danh công an cưỡng đoạt tài sản người đi đường",
+      "link": "https://tuoitre.vn/nghi-can-18-tuoi-cam-dau-nhom-gia-danh-cong-an-cuong-doat-tai-san-nguoi-di-duong-20260228152033912.htm",
+      "summary": "Công an Đồng Nai vừa bắt nhóm thanh niên giả danh công an chặn xe kiểm tra hành chính, rồi chiếm đoạt tài sản. Nghi can cầm đầu mới 18 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.599817+07:00",
+      "fetched": "2026-02-28T17:20:04.599945+07:00"
+    },
+    {
+      "id": "530fdf3be39fa467eca09064ec0b3521",
+      "title": "Paramount phải trả cho Netflix bao nhiêu sau thương vụ thâu tóm Warner Bros.?",
+      "link": "https://tuoitre.vn/paramount-phai-tra-cho-netflix-bao-nhieu-sau-thuong-vu-thau-tom-warner-bros-20260228153525734.htm",
+      "summary": "Paramount phải trả 2,8 tỉ USD phí chấm dứt hợp đồng cho Netflix sau khi Warner Bros. Discovery chấp nhận đề nghị được đánh giá là 'ưu việt hơn' của hãng phim này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T17:20:04.599576+07:00",
+      "fetched": "2026-02-28T17:20:04.599801+07:00"
+    },
     {
       "id": "3061ce099d8c437a70c97ee871933488",
       "title": "Vụ tô phở 346.000 đồng ở sân bay Cam Ranh: Hé lộ doanh nghiệp vốn 1.000 tỉ phía sau",
@@ -453,6 +603,286 @@ window.newsData_2026_02_28 = {
       "fetched": "2026-02-28T10:51:52.721740+07:00"
     },
     {
+      "id": "9122926b82b29dc48c471ef989987b38",
+      "title": "Bị ô tô tạt đầu, 3 người đi xe máy ngã sát gầm xe tải lớn",
+      "link": "https://thanhnien.vn/bi-o-to-tat-dau-3-nguoi-di-xe-may-nga-sat-gam-xe-tai-lon-185260228170513674.htm",
+      "summary": "Chiếc xe máy chở theo 3 người bất ngờ bị xe bán tải tạt đầu khiến 3 người trên xe ngã ra đường, suýt chút nữa thì bị xe tải di chuyển cùng chiều cán trúng. Công an Hà Nội đang làm rõ sự việc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T10:16:00+07:00",
+      "fetched": "2026-02-28T17:20:03.494951+07:00"
+    },
+    {
+      "id": "a3a3a2b34d76d31d04a619d9117671a2",
+      "title": "Chung cư Millennium khởi động cấp sổ hồng cho cư dân",
+      "link": "https://thanhnien.vn/chung-cu-millennium-khoi-dong-cap-so-hong-cho-cu-dan-185260228164124339.htm",
+      "summary": "Sau quá trình rà soát và tháo gỡ các vướng mắc pháp lý liên quan đến giao dịch chuyển nhượng, việc cấp sổ hồng cho cư dân chung cư Millennium đang chính thức được triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T10:10:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495118+07:00"
+    },
+    {
+      "id": "adf4da472bc36c92f5340e55405376dc",
+      "title": "Thái Lan 0-0 Việt Nam, futsal nữ Đông Nam Á 2026: Tái hiện chung kết lịch sử",
+      "link": "https://thanhnien.vn/thai-lan-0-0-viet-nam-futsal-nu-dong-nam-a-2026-tai-hien-chung-ket-lich-su-185260228155930748.htm",
+      "summary": "Trận đấu giữa đội tuyển futsal nữ Việt Nam và Thái Lan tại bán kết giải Đông Nam Á 2026 vào lúc 18 giờ 30 hôm nay (28.2) hứa hẹn là màn so tài kịch tính, nơi bản lĩnh nhà vô địch sẽ được thử thách trước khát khao chiến thắng của đội chủ nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T10:05:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495277+07:00"
+    },
+    {
+      "id": "c240611fa245296d269f110ff32af8c8",
+      "title": "Toàn cảnh 17h: Lý do tài xế taxi bị khách kẹp cổ, đánh tới tấp | Israel tấn công phủ đầu Iran",
+      "link": "https://thanhnien.vn/toan-canh-17h-ly-do-tai-xe-taxi-bi-khach-kep-co-danh-toi-tap-israel-tan-cong-phu-dau-iran-185260228155724782.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T10:00:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495428+07:00"
+    },
+    {
+      "id": "09668c6f002e70c76f8ab35c3234fcfc",
+      "title": "Nhìn lại Cuộc chiến 12 ngày giữa Iran - Israel năm 2025",
+      "link": "https://thanhnien.vn/nhin-lai-cuoc-chien-12-ngay-giua-iran-israel-nam-2025-185260228155612429.htm",
+      "summary": "Cuộc chiến 12 ngày, tên khác là Chiến tranh Iran – Israel, bùng phát vào ngày 13.6.2025 khi Israel phối hợp Mỹ tấn công vào lãnh thổ Iran và kết thúc ngày 24.6 cùng năm khi Tel Aviv và Tehran đạt được thỏa thuận ngừng bắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:57:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495579+07:00"
+    },
+    {
+      "id": "9f7413b1019342e8651afa3c20189ec5",
+      "title": "Afghanistan nói bắn hạ chiến đấu cơ Pakistan, gần 400 người đã chết do xung đột",
+      "link": "https://thanhnien.vn/afghanistan-noi-ban-ha-chien-dau-co-pakistan-gan-400-nguoi-da-chet-do-xung-dot-185260228144842418.htm",
+      "summary": "Lực lượng Afghanistan đã bắn hạ một chiến đấu cơ của Pakistan ở tỉnh Nangarhar trong hôm nay 28.2 và phi công lái chiếc máy bay đó đã bị bắt sống, theo Tân Hoa xã dẫn lời cảnh sát trưởng của tỉnh Mohibullah Hamas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:56:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495728+07:00"
+    },
+    {
+      "id": "c1dfe08830348989dd56fea5c5b71b1f",
+      "title": "Thủ tướng: Nâng cao năng lực quản trị quốc gia trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/thu-tuong-nang-cao-nang-luc-quan-tri-quoc-gia-trong-ky-nguyen-moi-185260228163522431.htm",
+      "summary": "Sáng 28.2, Thủ tướng Phạm Minh Chính đã tới thăm, làm việc với Học viện Hành chính và Quản trị công (Học viện Chính trị Quốc gia Hồ Chí Minh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:54:00+07:00",
+      "fetched": "2026-02-28T17:20:03.495896+07:00"
+    },
+    {
+      "id": "fa2079e037e598416c38e5270585fc70",
+      "title": "Vĩnh Long: Đâm bạn gái nguy kịch, đâm người can ngăn tử vong",
+      "link": "https://thanhnien.vn/vinh-long-dam-ban-gai-nguy-kich-dam-nguoi-can-ngan-tu-vong-18526022816184011.htm",
+      "summary": "Do mâu thuẫn, người đàn ông ở Vĩnh Long dùng dao đâm bạn gái nguy kịch, đâm tử vong một người can ngăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:54:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496043+07:00"
+    },
+    {
+      "id": "040e21d84c19d06eec49b3dc84c62845",
+      "title": "Xổ số miền Nam ngày 28 tháng 2: Bất ngờ xuất hiện dãy số trúng 2 giải",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-28-thang-2-bat-ngo-xuat-hien-day-so-trung-2-giai-185260228164736086.htm",
+      "summary": "Kết quả xổ số miền Nam ngày 28 tháng 2 khiến nhiều người bất ngờ khi xuất hiện dãy số trúng 2 giải của đài Bình Phước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:51:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496188+07:00"
+    },
+    {
+      "id": "2d597b8df04ebab3648284440f36b78d",
+      "title": "Chủ tịch Quốc hội: Lập danh sách cử tri đúng, đủ, chuẩn, kịp thời",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-lap-danh-sach-cu-tri-dung-du-chuan-kip-thoi-185260228162642421.htm",
+      "summary": "Sáng 28.2, Chủ tịch Quốc hội Trần Thanh Mẫn, Chủ tịch Hội đồng Bầu cử quốc gia, cùng đoàn công tác đã kiểm tra, giám sát công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 ở tỉnh Nghệ An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:46:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496370+07:00"
+    },
+    {
+      "id": "5260a4cfd60bfee0e4c3cf8641ad5ff4",
+      "title": "Năm 2026, những ai phải cấp đổi thẻ căn cước?",
+      "link": "https://thanhnien.vn/nam-2026-nhung-ai-phai-cap-doi-the-can-cuoc-185260228154952973.htm",
+      "summary": "Trong năm 2026, những công dân Việt Nam đến độ tuổi theo quy định sẽ phải thực hiện cấp đổi thẻ căn cước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:39:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496523+07:00"
+    },
+    {
+      "id": "b6aac5939876201875e58ef39a193614",
+      "title": "Đề xuất phương án hoàn chỉnh cao tốc Cao Lãnh - An Hữu giai đoạn 2",
+      "link": "https://thanhnien.vn/de-xuat-phuong-an-hoan-chinh-cao-toc-cao-lanh-an-huu-giai-doan-2-185260228150440285.htm",
+      "summary": "UBND tỉnh Đồng Tháp đã gửi báo cáo cho Bộ Xây dựng đề xuất hai phương án đầu tư nâng cấp hoàn chỉnh cao tốc Cao Lãnh - An Hữu giai đoạn 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:37:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496676+07:00"
+    },
+    {
+      "id": "a93a5ced9371ecabb9abe96b685a4375",
+      "title": "Đan Trường và vợ cũ mở quán chung, dạy con trai kinh doanh từ nhỏ",
+      "link": "https://thanhnien.vn/dan-truong-va-vo-cu-mo-quan-chung-day-con-trai-kinh-doanh-tu-nho-185260228135159595.htm",
+      "summary": "Không chỉ giữ mối quan hệ văn minh, Đan Trường và vợ cũ là Thủy Tiên cùng phát triển một thương hiệu cà phê chung. Đây cũng là cách cả hai dạy con kinh doanh từ bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:28:00+07:00",
+      "fetched": "2026-02-28T17:20:03.496849+07:00"
+    },
+    {
+      "id": "fdfbc17c4e1a17188684447da9518fe7",
+      "title": "NSND Thanh Thúy ứng cử đại biểu Quốc hội khóa XVI tại TP.HCM",
+      "link": "https://thanhnien.vn/nsnd-thanh-thuy-ung-cu-dai-bieu-quoc-hoi-khoa-xvi-tai-tphcm-185260228162300537.htm",
+      "summary": "NSND Nguyễn Thị Thanh Thúy, Ủy viên Ban Thường vụ Đảng ủy, Phó giám đốc Sở VH-TT TP.HCM là ứng cử viên đại biểu Quốc hội khóa XVI (nhiệm kỳ 2026 - 2031) tại đơn vị bầu cử số 4, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:26:00+07:00",
+      "fetched": "2026-02-28T17:20:03.497004+07:00"
+    },
+    {
+      "id": "283c8089d87a8105f42a690a05d704ae",
+      "title": "Việt Nam phát khuyến cáo khẩn tới cộng đồng người Việt tại Israel",
+      "link": "https://vnexpress.net/viet-nam-phat-khuyen-cao-khan-toi-cong-dong-nguoi-viet-tai-israel-5045057.html",
+      "summary": "Đại sứ quán Việt Nam tại Israel kêu gọi cộng đồng người Việt ở nước này nâng cao cảnh giác, tuân thủ quy định sở tại khi Mỹ - Israel không kích Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:21:06+07:00",
+      "fetched": "2026-02-28T17:19:59.870713+07:00"
+    },
+    {
+      "id": "283c8089d87a8105f42a690a05d704ae",
+      "title": "Việt Nam phát khuyến cáo khẩn tới cộng đồng người Việt tại Israel",
+      "link": "https://vnexpress.net/viet-nam-phat-khuyen-cao-khan-toi-cong-dong-nguoi-viet-tai-israel-5045057.html",
+      "summary": "Đại sứ quán Việt Nam tại Israel kêu gọi cộng đồng người Việt ở nước này nâng cao cảnh giác, tuân thủ quy định sở tại khi Mỹ - Israel không kích Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T09:21:06+07:00",
+      "fetched": "2026-02-28T17:20:05.936537+07:00"
+    },
+    {
+      "id": "76c0406b5ad71295543a800025c77d85",
+      "title": "Hơn 50% học sinh dùng AI làm bài, nói gian lận là điều phổ biến",
+      "link": "https://thanhnien.vn/hon-50-hoc-sinh-dung-ai-lam-bai-noi-gian-lan-la-dieu-pho-bien-18526022816040194.htm",
+      "summary": "Đó là kết quả nghiên cứu của Trung tâm nghiên cứu Pew (Mỹ) về xu hướng dùng trí tuệ nhân tạo (AI) của thanh thiếu niên Mỹ, trong bối cảnh AI tác động khắp các ngóc ngách của ngành giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:19:00+07:00",
+      "fetched": "2026-02-28T17:20:03.497152+07:00"
+    },
+    {
+      "id": "99858aee36ffdf2106942a6174247085",
+      "title": "Mở cổng đăng ký giải chạy hỗ trợ trẻ sống chung bệnh hiếm",
+      "link": "https://vnexpress.net/mo-cong-dang-ky-giai-chay-ho-tro-tre-song-chung-benh-hiem-5045001.html",
+      "summary": "Với phí đăng ký 100.000 đồng, người tham gia giải chạy trực tuyến \"Run for Rare Kids\" sẽ đóng góp trực tiếp vào Quỹ Hy vọng để hỗ trợ viện phí cho các bệnh nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:06:23+07:00",
+      "fetched": "2026-02-28T17:19:59.870912+07:00"
+    },
+    {
+      "id": "4241e71c6ed5991208fb21e727dd33e9",
+      "title": "Messi có thể gặp Tổng thống Trump",
+      "link": "https://vnexpress.net/messi-co-the-gap-tong-thong-trump-5045070.html",
+      "summary": "Lionel Messi và các đồng đội tại Inter Miami sẽ được mời tới thăm Nhà Trắng để gặp Tổng thống Donald Trump vào ngày 5/3, nhằm đánh dấu cột mốc đăng quang MLS Cup 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:01:57+07:00",
+      "fetched": "2026-02-28T17:19:59.871077+07:00"
+    },
+    {
+      "id": "4241e71c6ed5991208fb21e727dd33e9",
+      "title": "Messi có thể gặp Tổng thống Trump",
+      "link": "https://vnexpress.net/messi-co-the-gap-tong-thong-trump-5045070.html",
+      "summary": "Lionel Messi và các đồng đội tại Inter Miami sẽ được mời tới thăm Nhà Trắng để gặp Tổng thống Donald Trump vào ngày 5/3, nhằm đánh dấu cột mốc đăng quang MLS Cup 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T09:01:57+07:00",
+      "fetched": "2026-02-28T17:20:11.675680+07:00"
+    },
+    {
+      "id": "314f7fde9121d749f4edf04a818a2b77",
+      "title": "Ba bệnh nghiêm trọng có thể phát hiện khi khám mắt",
+      "link": "https://vnexpress.net/ba-benh-nghiem-trong-co-the-phat-hien-khi-kham-mat-5044982.html",
+      "summary": "Khám mắt định kỳ không chỉ bảo vệ thị lực mà còn phát hiện sớm bệnh đái tháo đường, tăng huyết áp, tăng mỡ máu qua những thay đổi ở võng mạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T09:00:00+07:00",
+      "fetched": "2026-02-28T17:19:59.871232+07:00"
+    },
+    {
+      "id": "701040d1a935819c539e6b6150591935",
+      "title": "Bệnh viện Bình Dân ghi dấu ấn 70 tuổi với tòa nhà mới 340 tỷ đồng",
+      "link": "https://vnexpress.net/benh-vien-binh-dan-ghi-dau-an-70-tuoi-voi-toa-nha-moi-340-ty-dong-5045047.html",
+      "summary": "Bệnh viện Bình Dân, cơ sở ngoại khoa đầu ngành của TP HCM, khánh thành tòa nhà trung tâm 340 tỷ đồng và nhận Huân chương Lao động hạng Nhì đánh dấu 70 năm hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:56:18+07:00",
+      "fetched": "2026-02-28T17:19:59.871389+07:00"
+    },
+    {
+      "id": "96e8071c088a0f4b3b2999bec15ecb28",
+      "title": "Cuba công bố tang vật trên xuồng của nhóm vũ trang xâm nhập",
+      "link": "https://vnexpress.net/cuba-cong-bo-tang-vat-tren-xuong-cua-nhom-vu-trang-xam-nhap-5045045.html",
+      "summary": "Giới chức Cuba công bố tang vật thu được trên xuồng của nhóm vũ trang xâm phạm lãnh hải, trong đó có 25 khẩu súng, gần 13.000 viên đạn và trang thiết bị quân sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:52:06+07:00",
+      "fetched": "2026-02-28T17:19:59.871543+07:00"
+    },
+    {
+      "id": "96e8071c088a0f4b3b2999bec15ecb28",
+      "title": "Cuba công bố tang vật trên xuồng của nhóm vũ trang xâm nhập",
+      "link": "https://vnexpress.net/cuba-cong-bo-tang-vat-tren-xuong-cua-nhom-vu-trang-xam-nhap-5045045.html",
+      "summary": "Giới chức Cuba công bố tang vật thu được trên xuồng của nhóm vũ trang xâm phạm lãnh hải, trong đó có 25 khẩu súng, gần 13.000 viên đạn và trang thiết bị quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T08:52:06+07:00",
+      "fetched": "2026-02-28T17:20:05.936706+07:00"
+    },
+    {
+      "id": "7f0c363c069c226fc586fd361b2ce5f4",
+      "title": "Bên trong tàu sân bay 13 tỷ USD được Mỹ triển khai gần Iran",
+      "link": "https://vnexpress.net/ben-trong-tau-san-bay-13-ty-usd-duoc-my-trien-khai-gan-iran-5044976.html",
+      "summary": "Siêu tàu sân bay USS Gerald R. Ford là chiến hạm đắt nhất lịch sử Mỹ, được trang bị nhiều vũ khí và công nghệ hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:51:37+07:00",
+      "fetched": "2026-02-28T17:19:59.871702+07:00"
+    },
+    {
+      "id": "7f0c363c069c226fc586fd361b2ce5f4",
+      "title": "Bên trong tàu sân bay 13 tỷ USD được Mỹ triển khai gần Iran",
+      "link": "https://vnexpress.net/ben-trong-tau-san-bay-13-ty-usd-duoc-my-trien-khai-gan-iran-5044976.html",
+      "summary": "Siêu tàu sân bay USS Gerald R. Ford là chiến hạm đắt nhất lịch sử Mỹ, được trang bị nhiều vũ khí và công nghệ hiện đại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T08:51:37+07:00",
+      "fetched": "2026-02-28T17:20:05.936889+07:00"
+    },
+    {
+      "id": "fda9ab804aed1255987d0aadb42e893e",
+      "title": "Tàu điện chở hàng chục khách lao vào cửa hàng ở Milan",
+      "link": "https://vnexpress.net/tau-dien-cho-hang-chuc-khach-lao-vao-cua-hang-o-milan-5045055.html",
+      "summary": "Tàu điện dài 25 m ôm cua tốc độ cao, trật bánh lao vào cửa hàng ở Milan ngày 27/2, làm 2 người chết và khoảng 40 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:48:01+07:00",
+      "fetched": "2026-02-28T17:19:59.871896+07:00"
+    },
+    {
+      "id": "e2117645daedafab23ad3e0c3f6c415e",
+      "title": "Mai Trần làm shipper phụ vợ mưu sinh",
+      "link": "https://vnexpress.net/mai-tran-lam-shipper-phu-vo-muu-sinh-5045033.html",
+      "summary": "Ở tuổi 72, diễn viên Mai Trần vẫn chạy xe máy giao gà, bánh flan cho khách, phụ vợ mưu sinh dù sức khỏe xuống dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:45:18+07:00",
+      "fetched": "2026-02-28T17:19:59.872057+07:00"
+    },
+    {
       "id": "bd715f15cd7341cd2ae1d2f1d7195fcd",
       "title": "Đối thủ của Lại Lý Huynh sẽ là 'kỳ vương khuyết tật'",
       "link": "https://tuoitre.vn/doi-thu-cua-lai-ly-huynh-se-la-ky-vuong-khuyet-tat-20260227220519563.htm",
@@ -603,6 +1033,36 @@ window.newsData_2026_02_28 = {
       "fetched": "2026-02-28T08:42:06.266271+07:00"
     },
     {
+      "id": "9de80325a8e9b24bf3593db226db74a6",
+      "title": "Ducati Panigale V2 S 2026 giá 759 triệu đồng",
+      "link": "https://vnexpress.net/ducati-panigale-v2-s-2026-gia-759-trieu-dong-5045007.html",
+      "summary": "Mẫu sportbike tầm trung của Ducati nâng cấp diện mạo, động cơ mới 890 phân khối, trọng lượng nhẹ hơn 17 kg so với tiền nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:42:00+07:00",
+      "fetched": "2026-02-28T17:19:59.872216+07:00"
+    },
+    {
+      "id": "5ca92bd9962cc11fe8f3ec1d02b4b6f9",
+      "title": "Hai doanh nghiệp của ông Phạm Nhật Vượng sáp nhập",
+      "link": "https://vnexpress.net/hai-doanh-nghiep-cua-ong-pham-nhat-vuong-sap-nhap-5045049.html",
+      "summary": "GSM hoàn tất việc sáp nhập GF, trở thành doanh nghiệp cung cấp giải pháp giao thông vận tải đa dạng nhất Việt Nam, hôm 28/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:30:00+07:00",
+      "fetched": "2026-02-28T17:19:59.872374+07:00"
+    },
+    {
+      "id": "5ca92bd9962cc11fe8f3ec1d02b4b6f9",
+      "title": "Hai doanh nghiệp của ông Phạm Nhật Vượng sáp nhập",
+      "link": "https://vnexpress.net/hai-doanh-nghiep-cua-ong-pham-nhat-vuong-sap-nhap-5045049.html",
+      "summary": "GSM hoàn tất việc sáp nhập GF, trở thành doanh nghiệp cung cấp giải pháp giao thông vận tải đa dạng nhất Việt Nam, hôm 28/2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-28T08:30:00+07:00",
+      "fetched": "2026-02-28T17:20:07.442495+07:00"
+    },
+    {
       "id": "9cc46d7bfdb4a93f4113d2286e49d2fa",
       "title": "Mắc bệnh hiếm trên thế giới, người đàn ông 7 năm liền ăn vào là nôn ra",
       "link": "https://thanhnien.vn/mac-benh-hiem-tren-the-gioi-nguoi-dan-ong-7-nam-lien-an-vao-la-non-ra-185260228152420615.htm",
@@ -623,6 +1083,16 @@ window.newsData_2026_02_28 = {
       "fetched": "2026-02-28T15:25:29.249226+07:00"
     },
     {
+      "id": "cf95b4913f8dca8e7c88864f8c53bfa4",
+      "title": "Những chính sách về ôtô có hiệu lực trong 2026",
+      "link": "https://vnexpress.net/nhung-chinh-sach-ve-oto-co-hieu-luc-trong-2026-5044939.html",
+      "summary": "Cấp giấy đăng kiểm điện tử, siết kiểm định khí thải, giảm thuế TTĐB cho xe hybrid, quy định ghế trẻ em là những điểm mới với người dùng ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:06:57+07:00",
+      "fetched": "2026-02-28T17:19:59.872525+07:00"
+    },
+    {
       "id": "442153c2bdfd8780289a396272d759d3",
       "title": "Afghanistan tuyên bố bắn hạ chiến đấu cơ Pakistan",
       "link": "https://vnexpress.net/afghanistan-tuyen-bo-ban-ha-chien-dau-co-pakistan-5045029.html",
@@ -641,6 +1111,16 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T08:01:00+07:00",
       "fetched": "2026-02-28T15:25:29.249383+07:00"
+    },
+    {
+      "id": "851b872f1db99d5865726dd7dd123009",
+      "title": "28.000 xe taxi chạy xăng, dầu sẽ đi về đâu khi phải chuyển sang xe điện?",
+      "link": "https://vnexpress.net/28-000-xe-taxi-chay-xang-dau-se-di-ve-dau-khi-phai-chuyen-sang-xe-dien-5044967.html",
+      "summary": "Nếu 100% taxi chuyển sang xe điện, môi trường chắc chắn sẽ cải thiện đáng kể, nhưng 28.000 xe chạy xăng, dầu hiện nay sẽ đi về đâu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:00:24+07:00",
+      "fetched": "2026-02-28T17:19:59.872894+07:00"
     },
     {
       "id": "d49e5443e69b551c33b9850c5d3cbef7",
@@ -671,6 +1151,16 @@ window.newsData_2026_02_28 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T08:00:00+07:00",
       "fetched": "2026-02-28T15:25:29.249877+07:00"
+    },
+    {
+      "id": "5569818bf62b386d0f4dc19ce0bbd5f1",
+      "title": "Tình cũ của bạn gái gửi tôi những hình ảnh 'không nên xem'",
+      "link": "https://vnexpress.net/tinh-cu-cua-ban-gai-gui-toi-nhung-hinh-anh-khong-nen-xem-5044748.html",
+      "summary": "Anh ta bảo: “Tao bỏ nó rồi, giờ của mày đấy. Nhớ cẩn thận, nó không như mày nghĩ đâu. Tao cũng là người bị hại thôi”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-02-28T08:00:00+07:00",
+      "fetched": "2026-02-28T17:19:59.873061+07:00"
     },
     {
       "id": "53a98eb2c86a41b6321c3bd0420c45d0",
@@ -861,6 +1351,16 @@ window.newsData_2026_02_28 = {
       "category": "Thế giới",
       "published": "2026-02-28T06:37:24+07:00",
       "fetched": "2026-02-28T15:25:32.232198+07:00"
+    },
+    {
+      "id": "6188817d9e7c8f5c6fef4e23e649f06c",
+      "title": "Căn cứ Mỹ tại Bahrain trúng tên lửa Iran",
+      "link": "https://vnexpress.net/can-cu-my-tai-bahrain-trung-ten-lua-iran-5045024.html",
+      "summary": "Bộ trưởng Quốc phòng Israel tuyên bố phát động \"tấn công phủ đầu\" nhằm vào Iran, Tehran thông báo đang chuẩn bị tiến hành đòn trả đũa mạnh mẽ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T06:37:24+07:00",
+      "fetched": "2026-02-28T17:20:05.937209+07:00"
     },
     {
       "id": "542cf9c46afdefeae16142aa2db7ff8a",
