@@ -1,7 +1,157 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T17:22:32.070699+07:00",
+  "lastUpdated": "2026-03-01T19:41:59.487550+07:00",
   "articles": [
+    {
+      "id": "cb09229336e9aaa30e422ebc163205df",
+      "title": "2 kỳ thủ Trung Quốc bật khóc khi đấu với Lại Lý Huynh",
+      "link": "https://tuoitre.vn/2-ky-thu-trung-quoc-bat-khoc-khi-dau-voi-lai-ly-huynh-20260301163929078.htm",
+      "summary": "Dù nhận về những kết quả khác nhau, cả Triệu Phàn Vĩ lẫn Trình Vũ Đông đều bật khóc khi kết thúc ván đấu với Lại Lý Huynh, cho thấy giá trị cảm xúc cực cao ở giải cờ tướng danh giá Ngũ Dương Bôi diễn ra ở Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.091068+07:00",
+      "fetched": "2026-03-01T19:41:51.091155+07:00"
+    },
+    {
+      "id": "7ea56ee208bb565ec1d5879ce55d275d",
+      "title": "Du khách thích thú với vườn cao su đang thay lá ở TP.HCM",
+      "link": "https://tuoitre.vn/du-khach-thich-thu-voi-vuon-cao-su-dang-thay-la-o-tp-hcm-20260228173242813.htm",
+      "summary": "Đầu năm Bính Ngọ 2026, vườn cao su dọc bên đường Phạm Văn Cội (xã Phú Hòa Đông, TP.HCM) trút bỏ lớp lá khô vàng úa, khoác lên \"chiếc áo\" tươi mới đầy sức sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090967+07:00",
+      "fetched": "2026-03-01T19:41:51.091059+07:00"
+    },
+    {
+      "id": "3f9183d446af77ffa576f9ebdf3bbacf",
+      "title": "Cận cảnh bộ tượng bảo vật quốc gia gốm men nhiều màu Tam quan Đại đế",
+      "link": "https://tuoitre.vn/can-canh-bo-tuong-bao-vat-quoc-gia-gom-men-nhieu-mau-tam-quan-dai-de-20260228082157228.htm",
+      "summary": "Bộ tượng gốm men nhiều màu Tam quan Đại đế gồm 9 tượng của nhà sưu tập Lê Thanh Nghĩa được công nhận bảo vật quốc gia (đợt 14) năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090867+07:00",
+      "fetched": "2026-03-01T19:41:51.090959+07:00"
+    },
+    {
+      "id": "4eb35b9a4245b215da72f060df595c85",
+      "title": "Du khách Việt kể chuyện 'mắc kẹt' ở Trung Đông",
+      "link": "https://tuoitre.vn/du-khach-viet-ke-chuyen-mac-ket-o-trung-dong-2026030115001851.htm",
+      "summary": "Tình hình chiến sự leo thang tại Trung Đông khiến sân bay ở Dubai và Doha đóng cửa, nhiều chuyến bay bị hoãn - hủy chuyến, nhiều du khách 'mắc kẹt' ở Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090758+07:00",
+      "fetched": "2026-03-01T19:41:51.090858+07:00"
+    },
+    {
+      "id": "3cdf20847aebec1cd1678af271834cf7",
+      "title": "Phủ Tây Hồ đông đặc người trước rằm tháng giêng",
+      "link": "https://tuoitre.vn/phu-tay-ho-dong-dac-nguoi-truoc-ram-thang-gieng-20260301173057306.htm",
+      "summary": "Từng dòng người nườm nượp đổ về Phủ Tây Hồ, biến nơi đây trở thành một trong những địa chỉ văn hóa \"nóng\" nhất tháng giêng tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090654+07:00",
+      "fetched": "2026-03-01T19:41:51.090749+07:00"
+    },
+    {
+      "id": "70c887487a6da4e85b22f9b2ee7e46f5",
+      "title": "Iran tấn công 27 căn cứ quân sự của Mỹ",
+      "link": "https://tuoitre.vn/iran-tan-cong-27-can-cu-quan-su-cua-my-20260301173830502.htm",
+      "summary": "IRGC tuyên bố tấn công 27 căn cứ quân sự của Mỹ cùng nhiều cơ sở của Israel, khẳng định sẽ khiến \"còi báo động rung không ngừng giây nào trên toàn Israel\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090553+07:00",
+      "fetched": "2026-03-01T19:41:51.090641+07:00"
+    },
+    {
+      "id": "96056e5c48f4347b87c21047646367c6",
+      "title": "Nga, Triều Tiên, châu Âu lên tiếng về cái chết của Đại giáo chủ Iran Ali Khamenei",
+      "link": "https://tuoitre.vn/nga-trieu-tien-chau-au-len-tieng-ve-cai-chet-cua-dai-giao-chu-iran-ali-khamenei-20260301175130909.htm",
+      "summary": "Ngày 1-3, nhiều quốc gia và lực lượng trên thế giới đã lên tiếng trước sự ra đi của Lãnh tụ tối cao Iran Ali Khamenei trong đợt không kích phối hợp của Mỹ và Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090455+07:00",
+      "fetched": "2026-03-01T19:41:51.090545+07:00"
+    },
+    {
+      "id": "dd537333267b34bc0dc0aa1d456ff113",
+      "title": "Thu phí 5 đoạn tuyến đường cao tốc Bắc - Nam từ 22h ngày 2-3, mức phí thế nào?",
+      "link": "https://tuoitre.vn/thu-phi-5-doan-tuyen-duong-cao-toc-bac-nam-tu-22h-ngay-2-3-muc-phi-the-nao-2026030117443846.htm",
+      "summary": "Cục Đường bộ Việt Nam quyết định thu phí 5 đoạn tuyến đường cao tốc Bắc - Nam phía Đông từ 22h ngày 2-3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090356+07:00",
+      "fetched": "2026-03-01T19:41:51.090446+07:00"
+    },
+    {
+      "id": "fed299890827989717436f5031ece2f5",
+      "title": "Mùa hoa hậu 2026 bắt đầu nóng, vương miện nào đáng chờ đợi nhất?",
+      "link": "https://tuoitre.vn/mua-hoa-hau-2026-bat-dau-nong-vuong-mien-nao-dang-cho-doi-nhat-20260301170550047.htm",
+      "summary": "Đấu trường sắc đẹp 2026 khởi động sớm với nhiều động thái đáng chú ý: format thay đổi, tiêu chí tuyển chọn nới rộng. Bạn đang mong chờ cuộc thi hoa hậu nào nhất đầu năm 2026?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090256+07:00",
+      "fetched": "2026-03-01T19:41:51.090348+07:00"
+    },
+    {
+      "id": "f31093eaac78b25fc496a42a357bf739",
+      "title": "Cố tình nhận thanh toán tiền mặt nhằm trốn thuế có thể bị xử lý hình sự",
+      "link": "https://tuoitre.vn/co-tinh-nhan-thanh-toan-tien-mat-nham-tron-thue-co-the-bi-xu-ly-hinh-su-20260301171445845.htm",
+      "summary": "Cơ quan Thuế tỉnh Đắk Lắk hướng dẫn nộp thuế, cảnh báo các trường hợp cố tình nhận thanh toán tiền mặt trong hoạt động sản xuất kinh doanh để che dấu doanh thu nhằm trốn thuế có thể bị xử lý hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090151+07:00",
+      "fetched": "2026-03-01T19:41:51.090248+07:00"
+    },
+    {
+      "id": "c659c6c1fc35c172b5df9378eb92cbf3",
+      "title": "Lâm Đồng gấp rút gỡ khó cho 400 dự án để khơi thông dòng vốn 250.000 tỉ đồng",
+      "link": "https://tuoitre.vn/lam-dong-gap-rut-go-kho-cho-400-du-an-de-khoi-thong-dong-von-250-000-ti-dong-20260301171850922.htm",
+      "summary": "Lãnh đạo tỉnh Lâm Đồng rà soát hơn 400 dự án gặp khó, tổng vốn đăng ký hơn 250.000 tỉ đồng. Tỉnh cam kết tháo gỡ nhanh nhưng sẽ kiên quyết thu hồi dự án nếu nhà đầu tư không thực hiện nghĩa vụ, không đủ năng lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.090037+07:00",
+      "fetched": "2026-03-01T19:41:51.090142+07:00"
+    },
+    {
+      "id": "c8fe3a2e6e83ad040c1751f83032a72b",
+      "title": "Chủ tịch Vietcombank ứng cử đại biểu Quốc hội tại TP.HCM",
+      "link": "https://tuoitre.vn/chu-tich-vietcombank-ung-cu-dai-bieu-quoc-hoi-tai-tp-hcm-20260301165414488.htm",
+      "summary": "Ông Nguyễn Thanh Tùng - Chủ tịch Hội đồng quản trị Vietcombank được giới thiệu ứng cử đại biểu Quốc hội khóa XVI (nhiệm kỳ 2026 - 2031) tại đơn vị bầu cử số 12, TP.HCM, với sự tín nhiệm cao của cử tri nơi công tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.089911+07:00",
+      "fetched": "2026-03-01T19:41:51.090027+07:00"
+    },
+    {
+      "id": "c3199207707377b581a9c7d02ec78143",
+      "title": "EVNGENCO3 vận hành ổn định trong dịp Tết Nguyên đán Bính Ngọ 2026",
+      "link": "https://tuoitre.vn/evngenco3-van-hanh-on-dinh-trong-dip-tet-nguyen-dan-binh-ngo-2026-20260301173242902.htm",
+      "summary": "Tết Nguyên đán Bính Ngọ 2026, EVNGENCO3 triển khai đồng bộ giải pháp kỹ thuật quản lý, đảm bảo các nhà máy vận hành an toàn, ổn định, đáp ứng huy động hệ thống điện quốc gia phục vụ sinh hoạt và sản xuất kinh doanh",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.089772+07:00",
+      "fetched": "2026-03-01T19:41:51.089901+07:00"
+    },
+    {
+      "id": "6be83509c24ca454e9e0979a1e733b31",
+      "title": "Cảng dưới chân đèo Hải Vân có gì mà chiều nào cũng đông kín người check-in?",
+      "link": "https://tuoitre.vn/cang-duoi-chan-deo-hai-van-co-gi-ma-chieu-nao-cung-dong-kin-nguoi-check-in-20260301152411357.htm",
+      "summary": "Những ngày gần đây, khu vực cảng Liên Chiểu (TP Đà Nẵng) trở thành điểm check-in \"hot\", thu hút hàng ngàn người dân và du khách đổ về đây mỗi buổi chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.089644+07:00",
+      "fetched": "2026-03-01T19:41:51.089762+07:00"
+    },
+    {
+      "id": "2718da5c4de1767dbf0d78438e577af9",
+      "title": "Anime rất hot Attack on Titan sắp trở lại?",
+      "link": "https://tuoitre.vn/anime-rat-hot-attack-on-titan-sap-tro-lai-2026030117400911.htm",
+      "summary": "Hơn hai năm sau khi khép lại, anime Attack on Titan khiến người hâm mộ xôn xao khi studio từng thực hiện ba mùa đầu có động thái mới, làm dấy lên đồn đoán về khả năng thương hiệu anime đình đám này tái xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T19:41:51.089406+07:00",
+      "fetched": "2026-03-01T19:41:51.089630+07:00"
+    },
     {
       "id": "b377530148f79a1583692bf9f4c0693e",
       "title": "Cầu thủ Thái Lan bị hủy hợp đồng vì đạp đối thủ",
@@ -443,6 +593,56 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T13:41:36.015928+07:00"
     },
     {
+      "id": "2596798c0765d503e3c685ea5c4a5c8e",
+      "title": "Ủy ban Thường vụ Quốc hội chuẩn bị cho ý kiến sửa đổi luật Thủ đô",
+      "link": "https://thanhnien.vn/uy-ban-thuong-vu-quoc-hoi-chuan-bi-cho-y-kien-sua-doi-luat-thu-do-185260301174935198.htm",
+      "summary": "Văn phòng Quốc hội cho biết, theo dự kiến, phiên họp thứ 55 của Ủy ban Thường vụ Quốc hội sẽ chia thành 2 đợt: đợt 1 diễn ra ngày 2.3; đợt 2 ngày 16 - 17.3, tại Nhà Quốc hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:40:00+07:00",
+      "fetched": "2026-03-01T19:41:49.981371+07:00"
+    },
+    {
+      "id": "e6fc586da6c8afb55b7f007c1a71b196",
+      "title": "Ông Vũ Văn Tiến ứng cử đại biểu Quốc hội tại Hải Phòng",
+      "link": "https://thanhnien.vn/ong-vu-van-tien-ung-cu-dai-bieu-quoc-hoi-tai-hai-phong-185260301190951491.htm",
+      "summary": "Ông Vũ Văn Tiến, Ủy viên Đoàn chủ tịch, Trưởng ban Tuyên giáo - Dân vận Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, ứng cử tại TP.Hải Phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:39:00+07:00",
+      "fetched": "2026-03-01T19:41:49.981520+07:00"
+    },
+    {
+      "id": "39d4e02a9fc63002db59c73885abb339",
+      "title": "Bà Nguyễn Quỳnh Liên ứng cử đại biểu Quốc hội tại tỉnh An Giang",
+      "link": "https://thanhnien.vn/ba-nguyen-quynh-lien-ung-cu-dai-bieu-quoc-hoi-tai-tinh-an-giang-185260301190319958.htm",
+      "summary": "Bà Nguyễn Quỳnh Liên, Ủy viên Đoàn chủ tịch, Trưởng ban Dân chủ, Giám sát và Phản biện xã hội, Phó Chủ nhiệm Hội đồng tư vấn Dân chủ - Pháp luật cơ quan Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, ứng cử đại biểu Quốc hội tại tỉnh An Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:39:00+07:00",
+      "fetched": "2026-03-01T19:41:49.981652+07:00"
+    },
+    {
+      "id": "42bc88488b7f4c17480f527160890e10",
+      "title": "Bà Bùi Thị Minh Hoài ứng cử đại biểu Quốc hội tại Phú Thọ",
+      "link": "https://thanhnien.vn/ba-bui-thi-minh-hoai-ung-cu-dai-bieu-quoc-hoi-tai-phu-tho-185260301191824922.htm",
+      "summary": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam ứng cử đại biểu Quốc hội tại tỉnh Phú Thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:37:00+07:00",
+      "fetched": "2026-03-01T19:41:49.981775+07:00"
+    },
+    {
+      "id": "1868eeffe285f8874e7f67a0c1ad91de",
+      "title": "Cà Mau giải thể 5 trung tâm y tế, đưa nhân lực và thiết bị về tuyến cơ sở",
+      "link": "https://thanhnien.vn/ca-mau-giai-the-5-trung-tam-y-te-dua-nhan-luc-va-thiet-bi-ve-tuyen-co-so-185260301175419181.htm",
+      "summary": "Cà Mau giải thể 5 trung tâm y tế khu vực không có giường bệnh, nhằm tái phân bổ nguồn lực và bổ sung trang thiết bị còn thiếu cho các trạm y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:24:00+07:00",
+      "fetched": "2026-03-01T19:41:49.981917+07:00"
+    },
+    {
       "id": "b6fc461b0f0559844c64471062424399",
       "title": "Israel tiếp tục không kích Iran",
       "link": "https://tuoitre.vn/israel-tiep-tuc-khong-kich-iran-20260301083839448.htm",
@@ -593,6 +793,276 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T12:16:08.118559+07:00"
     },
     {
+      "id": "4e758fad4b7b1e25d5624ad3daabb4a0",
+      "title": "Lâm Đồng họp bàn 'giải cứu' 359 dự án đình trệ",
+      "link": "https://thanhnien.vn/lam-dong-hop-ban-giai-cuu-359-du-an-dinh-tre-185260301164134504.htm",
+      "summary": "Chiều 1.3, lãnh đạo tỉnh Lâm Đồng tổ chức cuộc gặp gỡ hàng trăm doanh nghiệp, nhà đầu tư đang triển khai dự án trên địa bàn, tập trung tháo gỡ các 'điểm nghẽn' khiến 359 dự án bị chậm tiến độ hoặc đình trệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:11:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982041+07:00"
+    },
+    {
+      "id": "4198cf98f355debfed3a8b46fe231aa3",
+      "title": "8 trường của Đại học Quốc gia TP HCM bỏ xét riêng điểm tốt nghiệp",
+      "link": "https://vnexpress.net/cong-thuc-tinh-diem-xet-tuyen-tong-hop-cua-8-truong-thanh-vien-dai-hoc-quoc-gia-tp-hcm-5045351.html",
+      "summary": "Kết hợp điểm tốt nghiệp THPT, học bạ, đánh giá năng lực là phương thức tuyển sinh chủ đạo của Đại học Quốc gia TP HCM, thay vì xét riêng từng loại điểm như các năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:01:00+07:00",
+      "fetched": "2026-03-01T19:41:46.440507+07:00"
+    },
+    {
+      "id": "03fa667861e7e0de3b57669217d02a2e",
+      "title": "Tổ ấm rộn tiếng cười của 'tiên đồng ngọc nữ' Thái Lan",
+      "link": "https://vnexpress.net/to-am-ron-tieng-cuoi-cua-tien-dong-ngoc-nu-thai-lan-5045328.html",
+      "summary": "Pattie Ungsumalynn và tài tử Dan Worrawech - \"tiên đồng ngọc nữ\" Thái Lan - ví tổ ấm của họ như thiên đường sắc màu, rộn tiếng cười.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.440669+07:00"
+    },
+    {
+      "id": "d8f7792d651271c4916ccd328506b7c6",
+      "title": "UAE có bao nhiêu tiểu vương quốc?",
+      "link": "https://vnexpress.net/uae-co-bao-nhieu-tieu-vuong-quoc-5045314.html",
+      "summary": "UAE là quốc gia nằm ở Trung Đông, gồm nhiều vương quốc nhỏ gộp lại và là điểm du lịch được nhiều khách Việt yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.440809+07:00"
+    },
+    {
+      "id": "024f7ad4867a976dbcd5ce2b2713f67c",
+      "title": "Màn 'đi đêm' của Giám đốc trung tâm đào tạo lái xe và cán bộ thuế TP HCM",
+      "link": "https://vnexpress.net/man-di-dem-cua-giam-doc-trung-tam-dao-tao-lai-xe-va-can-bo-thue-tp-hcm-5045310.html",
+      "summary": "Ông Hồ Văn Búp bị cáo buộc khi là Giám đốc trung tâm Kỹ năng thực hành cơ giới giao thông vận tải đã chỉ đạo chi tiền cho 2 cán bộ thuế để bỏ qua sai phạm, né truy thu hơn 40 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.440966+07:00"
+    },
+    {
+      "id": "e716f69b940c3c32545d3538abcbed38",
+      "title": "Thụt rửa bằng dung dịch vệ sinh có giúp phòng sùi mào gà?",
+      "link": "https://vnexpress.net/thut-rua-bang-dung-dich-ve-sinh-co-giup-phong-sui-mao-ga-5045223.html",
+      "summary": "Tôi lỡ qua đêm với người lạ, đã thụt rửa vùng kín bằng dung dịch vệ sinh, có nguy cơ mắc bệnh sùi mào gà không? (Phương Ly, 23 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.441096+07:00"
+    },
+    {
+      "id": "b6941b8378fcb04370517f0a5a4257db",
+      "title": "Vụ đâm chết người tình cũ trước mặt con trai ở Đồng Tháp: Hung thủ khai gì?",
+      "link": "https://thanhnien.vn/vu-dam-chet-nguoi-tinh-cu-truoc-mat-con-trai-o-dong-thap-hung-thu-khai-gi-185260301181346713.htm",
+      "summary": "Thấy người tình cũ quen người mới, Nguyễn Việt Thanh (38 tuổi, ngụ An Giang) đã ra tay đâm nạn nhân nhiều nhát dao trước sự van xin của con trai nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T12:00:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982162+07:00"
+    },
+    {
+      "id": "562d252c34fcc2b2b186dc42463117aa",
+      "title": "Có 16.093 người trúng Vietlott tối 1.3, tiền cộng dồn tăng 13,5 tỉ đồng",
+      "link": "https://thanhnien.vn/co-16093-nguoi-trung-vietlott-toi-13-tien-cong-don-tang-135-ti-dong-185260301184208759.htm",
+      "summary": "Tối 1.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nào nên số tiền cộng dồn là 13,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:50:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982282+07:00"
+    },
+    {
+      "id": "6714b022782a742bfbb5bb81a02ee51e",
+      "title": "Hình ảnh hỗn loạn ở ký túc xá, sân bay Dubai do người Việt ghi lại",
+      "link": "https://vnexpress.net/hinh-anh-hon-loan-o-ky-tuc-xa-san-bay-dubai-do-nguoi-viet-ghi-lai-5045349.html",
+      "summary": "Rời khỏi những khu nhà cao tầng, kí túc xá hay tìm đường về nước… nhiều người Việt ở Dubai đang loay hoay khi chiến sự ở Trung Đông xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:48:21+07:00",
+      "fetched": "2026-03-01T19:41:46.441223+07:00"
+    },
+    {
+      "id": "7a4fd1d6a9047c3b64d4f0011a161cef",
+      "title": "Xiaomi ra 17 Ultra với camera Leica, giá cao hơn iPhone 17 Pro Max",
+      "link": "https://vnexpress.net/xiaomi-ra-17-ultra-voi-camera-leica-gia-cao-hon-iphone-17-pro-max-5045305.html",
+      "summary": "Điện thoại cao cấp nhất 17 Ultra của Xiaomi trang bị camera Leica, cảm biến ảnh một inch, có giá từ 40 triệu đồng, đắt hơn iPhone 17 Pro Max và Galaxy S26 Ultra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:30:00+07:00",
+      "fetched": "2026-03-01T19:41:46.441361+07:00"
+    },
+    {
+      "id": "7a4fd1d6a9047c3b64d4f0011a161cef",
+      "title": "Xiaomi ra 17 Ultra với camera Leica, giá cao hơn iPhone 17 Pro Max",
+      "link": "https://vnexpress.net/xiaomi-ra-17-ultra-voi-camera-leica-gia-cao-hon-iphone-17-pro-max-5045305.html",
+      "summary": "Điện thoại cao cấp nhất 17 Ultra của Xiaomi trang bị camera Leica, cảm biến ảnh một inch, có giá từ 40 triệu đồng, đắt hơn iPhone 17 Pro Max và Galaxy S26 Ultra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-01T11:30:00+07:00",
+      "fetched": "2026-03-01T19:41:57.720256+07:00"
+    },
+    {
+      "id": "c8c17061d9f00420e4143423db2e1adb",
+      "title": "Các hộ dân tại cư xá Thanh Đa bắt đầu di dời",
+      "link": "https://thanhnien.vn/cac-ho-dan-tai-cu-xa-thanh-da-bat-dau-di-doi-185260301165416058.htm",
+      "summary": "Thông tin từ Công ty cổ phần Phát triển nhà Thanh Đa (Công ty Thanh Đa), chủ đầu tư dự án đầu tư xây dựng cụm tám chung cư lô số, cư xá Thanh Đa, phường Bình Quới, TP.HCM, đến nay đã có 165 hộ dân đồng ý di dời sau hàng chục năm chờ đợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:27:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982423+07:00"
+    },
+    {
+      "id": "19b310b2218420e46e57d45bf30d144b",
+      "title": "Đóng cửa sân bay Liên Khương, kịch bản nào đón khách đến Lâm Đồng?",
+      "link": "https://thanhnien.vn/dong-cua-san-bay-lien-khuong-kich-ban-nao-don-khach-den-lam-dong-18526030116581739.htm",
+      "summary": "Sân bay Liên Khương tạm đóng cửa gần 6 tháng để nâng cấp, sửa chữa (kể từ ngày 4.3), điều này sẽ tạo ra áp lực trực tiếp đến ngành du lịch Lâm Đồng. Kịch bản nào ứng phó hiệu quả khi sân bay đóng cửa?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:25:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982544+07:00"
+    },
+    {
+      "id": "60731dff4523b2a8fb9ecf4802a5b4ad",
+      "title": "Du khách Việt mắc kẹt giữa chiến sự Trung Đông",
+      "link": "https://vnexpress.net/du-khach-viet-mac-ket-giua-chien-su-trung-dong-5045356.html",
+      "summary": "Đang trên đường ra sân bay, nhóm anh Đạt nhận tin \"sét đánh\" khi không phận Georgia đóng cửa, kẹt giữa dòng người tháo chạy cùng áp lực giá vé vọt lên gấp đôi chỉ sau hai tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:08:28+07:00",
+      "fetched": "2026-03-01T19:41:46.441488+07:00"
+    },
+    {
+      "id": "8621a7f92b94d81708e0a20f3d899159",
+      "title": "Canh bạc rủi ro với ông Trump sau cuộc tập kích hạ sát Lãnh tụ Iran",
+      "link": "https://vnexpress.net/canh-bac-rui-ro-voi-ong-trump-sau-cuoc-tap-kich-ha-sat-lanh-tu-iran-5045316.html",
+      "summary": "Hạ sát Lãnh tụ Tối cao Iran, Tổng thống Trump đang đối mặt một canh bạc đầy rủi ro, nơi nguy cơ sa lầy có thể đe dọa chính di sản của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:08:05+07:00",
+      "fetched": "2026-03-01T19:41:46.441611+07:00"
+    },
+    {
+      "id": "8621a7f92b94d81708e0a20f3d899159",
+      "title": "Canh bạc rủi ro với ông Trump sau cuộc tập kích hạ sát Lãnh tụ Iran",
+      "link": "https://vnexpress.net/canh-bac-rui-ro-voi-ong-trump-sau-cuoc-tap-kich-ha-sat-lanh-tu-iran-5045316.html",
+      "summary": "Hạ sát Lãnh tụ Tối cao Iran, Tổng thống Trump đang đối mặt một canh bạc đầy rủi ro, nơi nguy cơ sa lầy có thể đe dọa chính di sản của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T11:08:05+07:00",
+      "fetched": "2026-03-01T19:41:52.862256+07:00"
+    },
+    {
+      "id": "8437898827dd6812a1ab99c909416b38",
+      "title": "Chị gái bảo tôi 'im đi' khi con chị hỗn với tôi",
+      "link": "https://vnexpress.net/co-bac-chi-gai-bao-toi-im-di-khi-con-chi-hon-voi-toi-5045224.html",
+      "summary": "Tôi có đứa cháu 21 tuổi, đang học đại học năm thứ ba, ham mê chơi cờ bạc online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.441738+07:00"
+    },
+    {
+      "id": "3c3acc7012c418b36a121c290d2bed21",
+      "title": "Tôi phải vay tiền chữa bệnh cho con dù có 15 lượng vàng trong két",
+      "link": "https://vnexpress.net/gia-vang-hom-nay-toi-phai-vay-tien-chua-benh-cho-con-du-co-15-luong-vang-trong-ket-5044993.html",
+      "summary": "15 lượng vàng đang nằm trong két sắt nhưng khi con bất ngờ phải nhập viện, tôi lại phải đi hỏi vay tiền người thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:00:00+07:00",
+      "fetched": "2026-03-01T19:41:46.441882+07:00"
+    },
+    {
+      "id": "84a3fd1c3d1a2480251f19389588b784",
+      "title": "Mùa mốt năm nay, kiểu quần này đang dần thay thế quần denim",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-mot-nam-nay-kieu-quan-nay-dang-dan-thay-the-quan-denim-185260227112727714.htm",
+      "summary": "Khi quần jeans trở nên nhàm chán, nhiều tín đồ thời trang bắt đầu tìm kiếm những lựa chọn mới mẻ nhưng vẫn dễ mặc. Thay vì chạy theo các thiết kế quen thuộc, xu hướng mùa này hướng đến những kiểu quần họa tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T11:00:00+07:00",
+      "fetched": "2026-03-01T19:41:49.982669+07:00"
+    },
+    {
+      "id": "6da18c096f990d2e81b13a21d38dc289",
+      "title": "Chatbot Anthropic đứng đầu bảng ứng dụng miễn phí App Store Mỹ",
+      "link": "https://vnexpress.net/chatbot-anthropic-dung-dau-bang-ung-dung-mien-phi-app-store-my-5045295.html",
+      "summary": "Trong bối cảnh Anthropic đối đầu với Lầu Năm Góc, chatbot Claude của công ty tăng mạnh độ phổ biến với người dùng thiết bị Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:59:57+07:00",
+      "fetched": "2026-03-01T19:41:46.442015+07:00"
+    },
+    {
+      "id": "6da18c096f990d2e81b13a21d38dc289",
+      "title": "Chatbot Anthropic đứng đầu bảng ứng dụng miễn phí App Store Mỹ",
+      "link": "https://vnexpress.net/chatbot-anthropic-dung-dau-bang-ung-dung-mien-phi-app-store-my-5045295.html",
+      "summary": "Trong bối cảnh Anthropic đối đầu với Lầu Năm Góc, chatbot Claude của công ty tăng mạnh độ phổ biến với người dùng thiết bị Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-01T10:59:57+07:00",
+      "fetched": "2026-03-01T19:41:57.720415+07:00"
+    },
+    {
+      "id": "59596c9bee7f491dc19cbae72f35fada",
+      "title": "Lammens - Gã 'mọt sách' ưa thích sự hỗn loạn trong bóng cố định",
+      "link": "https://vnexpress.net/lammens-ga-mot-sach-ua-thich-su-hon-loan-trong-bong-co-dinh-5045341.html",
+      "summary": "Thủ thành Senne Lammens xem đọc sách là cách lấy lại cân bằng sau khi hết mình với bóng đá, nơi anh phấn khích với cảm giác bị đối phương bủa vây trong các pha cố định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:50:07+07:00",
+      "fetched": "2026-03-01T19:41:46.442142+07:00"
+    },
+    {
+      "id": "59596c9bee7f491dc19cbae72f35fada",
+      "title": "Lammens - Gã 'mọt sách' ưa thích sự hỗn loạn trong bóng cố định",
+      "link": "https://vnexpress.net/lammens-ga-mot-sach-ua-thich-su-hon-loan-trong-bong-co-dinh-5045341.html",
+      "summary": "Thủ thành Senne Lammens xem đọc sách là cách lấy lại cân bằng sau khi hết mình với bóng đá, nơi anh phấn khích với cảm giác bị đối phương bủa vây trong các pha cố định.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T10:50:07+07:00",
+      "fetched": "2026-03-01T19:41:59.477057+07:00"
+    },
+    {
+      "id": "c38c76691d463fd40e2eb64a9be6413b",
+      "title": "Khách sạn, sân bay ở UAE bị hư hại sau loạt tên lửa của Iran",
+      "link": "https://vnexpress.net/khach-san-san-bay-o-uae-bi-hu-hai-sau-loat-ten-lua-cua-iran-5045348.html",
+      "summary": "Khách sạn Burj Al Arab, đảo cọ Palm Jumeirah, sân bay quốc tế… nhiều công trình, biểu tượng của UAE bị hư hại sau loạt đòn trả đũa của Iran với Mỹ - Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:28:39+07:00",
+      "fetched": "2026-03-01T19:41:46.442264+07:00"
+    },
+    {
+      "id": "1c384b0cc7fcc8a3c03b2273bfeb98a1",
+      "title": "Loạt quan chức quân sự Iran bị Mỹ - Israel hạ sát",
+      "link": "https://vnexpress.net/loat-quan-chuc-quan-su-iran-bi-my-israel-ha-sat-5045307.html",
+      "summary": "Bộ máy cầm quyền Iran hứng thiệt hại nặng nề sau chiến dịch tập kích của Mỹ - Israel, khi nhiều quan chức cấp cao thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:24:06+07:00",
+      "fetched": "2026-03-01T19:41:46.442389+07:00"
+    },
+    {
+      "id": "1c384b0cc7fcc8a3c03b2273bfeb98a1",
+      "title": "Loạt quan chức quân sự Iran bị Mỹ - Israel hạ sát",
+      "link": "https://vnexpress.net/loat-quan-chuc-quan-su-iran-bi-my-israel-ha-sat-5045307.html",
+      "summary": "Bộ máy cầm quyền Iran hứng thiệt hại nặng nề sau chiến dịch tập kích của Mỹ - Israel, khi nhiều quan chức cấp cao thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T10:24:06+07:00",
+      "fetched": "2026-03-01T19:41:52.862418+07:00"
+    },
+    {
+      "id": "40a17517e1d796b4c47ca373023884c5",
+      "title": "Đại giáo chủ Iran kêu gọi trả thù cho lãnh tụ Khamenei",
+      "link": "https://vnexpress.net/tong-thong-iran-tra-thu-la-quyen-va-nghia-vu-5045347.html",
+      "summary": "Đại giáo chủ Makarem Shirazi kêu gọi người Hồi giáo tiến hành \"thánh chiến\" chống lại Mỹ và Israel để trả thù cho cái chết của lãnh tụ Khamenei.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T10:21:45+07:00",
+      "fetched": "2026-03-01T19:41:52.862554+07:00"
+    },
+    {
       "id": "95285404538d5f8e0816fd215987e4b8",
       "title": "Đề xuất nâng ngưỡng thu nhập xác định người phụ thuộc lên 4,5 triệu đồng",
       "link": "https://thanhnien.vn/de-xuat-nang-nguong-thu-nhap-xac-dinh-nguoi-phu-thuoc-len-45-trieu-dong-185260301150435779.htm",
@@ -651,6 +1121,16 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T10:00:00+07:00",
       "fetched": "2026-03-01T17:22:22.558550+07:00"
+    },
+    {
+      "id": "266e4ce550dee92f93d9d57691e6f5f6",
+      "title": "Bóng đá châu Á xáo trộn vì bất ổn ở Trung Đông",
+      "link": "https://vnexpress.net/bong-da-chau-a-xao-tron-vi-bat-on-o-trung-dong-5045339.html",
+      "summary": "LĐBĐ châu Á (AFC) phải hoãn nhiều trận đấu vô thời hạn, đồng thời dành sự chú ý lớn hơn cho đội tuyển bóng đá nữ Iran.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T09:55:40+07:00",
+      "fetched": "2026-03-01T19:41:59.477216+07:00"
     },
     {
       "id": "7d7ac3a661793a2de857631d00657e0e",
