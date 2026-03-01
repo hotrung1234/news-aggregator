@@ -1,7 +1,157 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T05:19:57.521778+07:00",
+  "lastUpdated": "2026-03-01T09:03:14.720460+07:00",
   "articles": [
+    {
+      "id": "edeb90f42bf2114fff8ff9c54c48f7f3",
+      "title": "Ronaldo lần thứ... 35 sút hỏng phạt đền, số bàn thắng 'giậm chân' ở số 965",
+      "link": "https://tuoitre.vn/ronaldo-lan-thu-35-sut-hong-phat-den-so-ban-thang-dam-chan-o-so-965-20260301041305985.htm",
+      "summary": "Siêu sao 41 tuổi Cristiano Ronaldo đã sút hỏng phạt đền trong trận Al Nassr thắng Al-Fayha Club 3-1 rạng sáng 1-3 ở vòng 24 Saudi Pro League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.176096+07:00",
+      "fetched": "2026-03-01T09:03:07.176213+07:00"
+    },
+    {
+      "id": "36ae59030e6ac074f8ad112cde8dc14c",
+      "title": "Làng cờ Trung Quốc cảm thán: 'Nước cờ Lại Lý Huynh không thâm sâu nhưng tìm được ai thắng anh ấy?'",
+      "link": "https://tuoitre.vn/lang-co-trung-quoc-cam-than-nuoc-co-lai-ly-huynh-khong-tham-sau-nhung-tim-duoc-ai-thang-anh-ay-2026022815310381.htm",
+      "summary": "Trước giải Ngũ Dương Bôi, huyền thoại làng cờ tướng Trung Quốc Hứa Ngân Xuyên từng đưa ra bình luận khiến người hâm mộ nước nhà phải phiền lòng, khi ông khẳng định rằng: \"Không một kỳ thủ Trung Quốc nào có thể áp đảo được Lại Lý Huynh lúc này\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175945+07:00",
+      "fetched": "2026-03-01T09:03:07.176083+07:00"
+    },
+    {
+      "id": "67092c4981c54e8a89e1952e1b25bfe1",
+      "title": "Đeo tai nghe điện thoại khi đang lái xe, đừng tưởng không bị phạt",
+      "link": "https://tuoitre.vn/deo-tai-nghe-dien-thoai-khi-dang-lai-xe-dung-tuong-khong-bi-phat-20260225143237155.htm",
+      "summary": "Đang lái xe mà điện thoại có cuộc gọi gấp nhưng không thể dừng lại để nghe, ai cũng từng gặp phải. Nghe thì bị phạt, không nghe thì lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175812+07:00",
+      "fetched": "2026-03-01T09:03:07.175934+07:00"
+    },
+    {
+      "id": "bb6148c1be4a16a54e118ccf3c11d931",
+      "title": "Dự báo thời tiết từ 1-3 đến 7-3: Miền Nam mưa trái mùa, miền Bắc giảm nhiệt",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-1-3-den-7-3-mien-nam-mua-trai-mua-mien-bac-giam-nhiet-20260228153705496.htm",
+      "summary": "Tuần này, thời tiết Bắc Bộ có đợt giảm nhiệt do không khí lạnh yếu. Nam Bộ đón mưa trái mùa sau những ngày nóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175685+07:00",
+      "fetched": "2026-03-01T09:03:07.175801+07:00"
+    },
+    {
+      "id": "824fe063d58b185aeedc7fc4641acce0",
+      "title": "Khi người lớn cùng mang lại khoảnh khắc diệu kỳ cho trẻ em khỏi bệnh ung thư",
+      "link": "https://tuoitre.vn/khi-nguoi-lon-cung-mang-lai-khoanh-khac-dieu-ky-cho-tre-em-khoi-benh-ung-thu-20260301023544415.htm",
+      "summary": "Từ những ngày gần như buông xuôi trong hành trình chống chọi bệnh tật, nhiều em nhỏ mắc ung thư đã tìm lại niềm vui sống, sự tự tin và khát vọng học tập khi tham gia lớp học nhiếp ảnh mang tên “Khoảnh khắc diệu kỳ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175556+07:00",
+      "fetched": "2026-03-01T09:03:07.175673+07:00"
+    },
+    {
+      "id": "5e5e2ed5ba385da1364ad577d34d8adb",
+      "title": "Thị trường dầu thế giới căng thẳng, sốc ngắn hạn hay bão dài ngày?",
+      "link": "https://tuoitre.vn/thi-truong-dau-the-gioi-cang-thang-soc-ngan-han-hay-bao-dai-ngay-20260228230722763.htm",
+      "summary": "Cuộc tấn công của Mỹ và Israel vào các mục tiêu trên lãnh thổ Iran vào ngày 28-2 đã đẩy thị trường năng lượng toàn cầu vào trạng thái căng thẳng cao độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175423+07:00",
+      "fetched": "2026-03-01T09:03:07.175543+07:00"
+    },
+    {
+      "id": "6e98832522f949573a13600617830583",
+      "title": "Trung Đông khói lửa, kịch bản chiến sự nào tiếp theo?",
+      "link": "https://tuoitre.vn/trung-dong-khoi-lua-kich-ban-chien-su-nao-tiep-theo-20260228225946633.htm",
+      "summary": "Sáng 28-2 (giờ địa phương), Israel phát động chiến dịch tấn công phủ đầu vào thủ đô Tehran và nhiều khu vực khác ở Iran. Cùng lúc, Mỹ tham chiến hỗ trợ Israel chống lại Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175296+07:00",
+      "fetched": "2026-03-01T09:03:07.175411+07:00"
+    },
+    {
+      "id": "83957ad8e6d3370b31172d3b114c8744",
+      "title": "Tin tức thế giới 1-3: Họp khẩn của LHQ về Iran đầy căng thẳng; Ông Biden chỉ trích ông Trump",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-1-3-hop-khan-cua-lhq-ve-iran-day-cang-thang-ong-biden-chi-trich-ong-trump-20260301071206011.htm",
+      "summary": "Lãnh đạo Liên hợp quốc cảnh báo chiến sự Iran có thể châm ngòi bất ổn khắp Trung Đông; Ukraine nói Nga chấp nhận đề xuất an ninh của Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175163+07:00",
+      "fetched": "2026-03-01T09:03:07.175284+07:00"
+    },
+    {
+      "id": "ad3350723672b5ee949ac01a04491a5a",
+      "title": "Thiết bị giúp chủ xe điện hết phải lo tìm trạm sạc khi đi xa",
+      "link": "https://tuoitre.vn/thiet-bi-giup-chu-xe-dien-het-phai-lo-tim-tram-sac-khi-di-xa-20260228220529862.htm",
+      "summary": "Công ty con Changan ra mắt máy phát turbine tháo rời, biến xe điện thuần thành xe điện mở rộng tầm hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.175019+07:00",
+      "fetched": "2026-03-01T09:03:07.175150+07:00"
+    },
+    {
+      "id": "39bf47c6af761a93674749a31b6330c5",
+      "title": "Trần Quyết Chiến tung series, Thanh Tự thắng trận đầu, Việt Nam vào bán kết giải thế giới",
+      "link": "https://tuoitre.vn/tran-quyet-chien-tung-series-thanh-tu-thang-tran-dau-viet-nam-vao-ban-ket-giai-the-gioi-20260301072004059.htm",
+      "summary": "Rạng sáng 1-3, tại tứ kết Giải billiards carom 3 băng thế giới, Trần Quyết Chiến và Nguyễn Trần Thanh Tự đã có được chiến thắng ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174861+07:00",
+      "fetched": "2026-03-01T09:03:07.175000+07:00"
+    },
+    {
+      "id": "ce66b4fb132bd326c4fca359cec859b3",
+      "title": "Bông lúa vàng Biện Thuy cấp tốc thay vai trong kịch Tết Gánh hát về khuya",
+      "link": "https://tuoitre.vn/bong-lua-vang-bien-thuy-cap-toc-thay-vai-trong-kich-tet-ganh-hat-ve-khuya-20260228232842542.htm",
+      "summary": "Gánh hát về khuya là một trong hai vở mới toanh của Sân khấu Thế Giới Trẻ mùa kịch Tết năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174724+07:00",
+      "fetched": "2026-03-01T09:03:07.174842+07:00"
+    },
+    {
+      "id": "4845614488c54df509860c04e788cf0d",
+      "title": "Tháng thanh niên 2026: Tiên phong đổi mới, hành động vì cộng đồng",
+      "link": "https://tuoitre.vn/thang-thanh-nien-2026-tien-phong-doi-moi-hanh-dong-vi-cong-dong-20260301064826503.htm",
+      "summary": "Tuổi trẻ TP.HCM đã chính thức bước vào Tháng thanh niên 2026 từ sáng 28-2, bắt đầu tháng cao điểm hành động của tuổi trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174589+07:00",
+      "fetched": "2026-03-01T09:03:07.174712+07:00"
+    },
+    {
+      "id": "c2287811b53ca958d76d0dd83f4092bb",
+      "title": "Fan Trung Quốc mong Trình Vũ Đông giữ gìn thể diện làng cờ tướng nước nhà",
+      "link": "https://tuoitre.vn/fan-trung-quoc-mong-trinh-vu-dong-giu-gin-the-dien-lang-co-tuong-nuoc-nha-20260228233253281.htm",
+      "summary": "Truyền thông và người hâm mộ Trung Quốc ra sức cổ vũ sĩ khí cho Trình Vũ Đông trước thềm trận chung kết chạm trán kỳ thủ Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174452+07:00",
+      "fetched": "2026-03-01T09:03:07.174576+07:00"
+    },
+    {
+      "id": "7eca905fb00c294df82439675840c960",
+      "title": "VietinBank năm 2025: Cải thiện hiệu quả, tăng trưởng mạnh mẽ",
+      "link": "https://tuoitre.vn/vietinbank-nam-2025-cai-thien-hieu-qua-tang-truong-manh-me-20260228205652376.htm",
+      "summary": "Chiều 26-2-2026, Ngân hàng TMCP Công Thương Việt Nam (VietinBank) tổ chức Hội nghị cập nhật kết quả kinh doanh quý 4 và năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174302+07:00",
+      "fetched": "2026-03-01T09:03:07.174438+07:00"
+    },
+    {
+      "id": "6cc84d70265fdc79414e1544a27164d0",
+      "title": "Giá gas trong nước tháng 3-2026: duy trì mức ổn định sau Tết",
+      "link": "https://tuoitre.vn/gia-gas-trong-nuoc-thang-3-2026-duy-tri-muc-on-dinh-sau-tet-20260228211245912.htm",
+      "summary": "Giá gas bán lẻ trong nước tháng 3-2026 không có sự thay đổi so với tháng trước, giúp thị trường giữ mức ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:03:07.174060+07:00",
+      "fetched": "2026-03-01T09:03:07.174285+07:00"
+    },
     {
       "id": "90e67e89e5322db19dd08e8f03620901",
       "title": "Thủ tướng Israel: Lãnh tụ tối cao Iran 'có dấu hiệu không còn sống'",
@@ -61,6 +211,46 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T03:22:09.241273+07:00",
       "fetched": "2026-03-01T03:22:09.241496+07:00"
+    },
+    {
+      "id": "88a500fe243e0ae26dacb42c4817f5f2",
+      "title": "'Triệu Mẫn' Giả Tịnh Văn không lo tăng cân sau Tết",
+      "link": "https://vnexpress.net/trieu-man-gia-tinh-van-khong-lo-tang-can-sau-tet-5045192.html",
+      "summary": "Diễn viên Đài Loan Giả Tịnh Văn nói mập lên sau kỳ nghỉ Tết nhưng không áp lực hay lo lắng như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:48:38+07:00",
+      "fetched": "2026-03-01T09:03:02.479798+07:00"
+    },
+    {
+      "id": "b51bb5853455aaa2033f5c071d149b52",
+      "title": "Xe bán tải tạt đầu xe máy khiến 3 người suýt lao vào xe tải",
+      "link": "https://vnexpress.net/xe-ban-tai-tat-dau-xe-may-khien-3-nguoi-suyt-lao-vao-xe-tai-5045183.html",
+      "summary": "Xe bán tải bất ngờ tạt đầu xe máy, khiến hai người lớn cùng em bé ngã xuống đường, suýt va chạm xe tải, ngày 27/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:44:55+07:00",
+      "fetched": "2026-03-01T09:03:02.479980+07:00"
+    },
+    {
+      "id": "2b44349c3b8e406e6b8f358a5a6409b8",
+      "title": "11 người nghi ngộ độc sau ăn bánh mì heo quay ở TP HCM",
+      "link": "https://vnexpress.net/11-nguoi-nghi-ngo-doc-sau-an-banh-mi-heo-quay-o-tp-hcm-5045193.html",
+      "summary": "Bệnh viện Quân y 175 tiếp nhận 11 người nhập viện từ ngày 27/2 với các triệu chứng như sốt rét run, đau bụng, nôn ói, tiêu chảy sau khi ăn bánh mì heo quay trên đường Phan Văn Trị, phường Hạnh Thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:41:28+07:00",
+      "fetched": "2026-03-01T09:03:02.480167+07:00"
+    },
+    {
+      "id": "93d22021951c8afb00fdd6ae8842f76d",
+      "title": "Iran xác nhận Lãnh tụ Tối cao Khamenei thiệt mạng",
+      "link": "https://vnexpress.net/iran-xac-nhan-lanh-tu-toi-cao-khamenei-thiet-mang-5045197.html",
+      "summary": "Truyền hình nhà nước Iran cùng các hãng tin như Tasnim và Fars News hôm nay xác nhận Lãnh tụ Tối cao Ali Khamenei đã thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:39:53+07:00",
+      "fetched": "2026-03-01T09:03:02.480326+07:00"
     },
     {
       "id": "5187605b8913c7a67ce3decf32d20932",
@@ -213,6 +403,196 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T01:29:26.637630+07:00"
     },
     {
+      "id": "fb9ef50b235b88359f61ac48dfd1e493",
+      "title": "Ngoại trưởng Iran: Mỹ không thể thay đổi chế độ của Tehran",
+      "link": "https://vnexpress.net/ngoai-truong-iran-my-khong-the-thay-doi-che-do-cua-tehran-5045181.html",
+      "summary": "Ngoại trưởng Iran tuyên bố việc thay đổi chế độ của Tehran là \"nhiệm vụ bất khả thi\", sau khi Tổng thống Trump kêu gọi người dân nước này \"giành lại chính quyền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:22:59+07:00",
+      "fetched": "2026-03-01T09:03:02.480483+07:00"
+    },
+    {
+      "id": "a67c6637b382c676ea855c0efb5b48fb",
+      "title": "Robot hình người lắp ráp pin xe điện",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-lap-rap-pin-xe-dien-5044920.html",
+      "summary": "BMW đưa robot hình người đến nhà máy ở Leipzig để lắp ráp pin, sau khi thành công với dự án ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:20:28+07:00",
+      "fetched": "2026-03-01T09:03:02.480637+07:00"
+    },
+    {
+      "id": "2621d870abb41dab43104917166840a7",
+      "title": "Điểm mù của xe SUV có thể che khuất 93 đứa trẻ",
+      "link": "https://vnexpress.net/diem-mu-cua-xe-suv-co-the-che-khuat-93-dua-tre-5044765.html",
+      "summary": "Nữ tài xế bịt mắt ngồi vào ghế lái, tháo bịt mắt rồi nhìn ra ngoài và không thấy ai, nhưng thực tế 93 đứa trẻ đang ngồi quanh xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:20:01+07:00",
+      "fetched": "2026-03-01T09:03:02.480799+07:00"
+    },
+    {
+      "id": "7d7bf5a56af9049001e4b2559a45e9c8",
+      "title": "Leeds 0-1 Man City",
+      "link": "https://vnexpress.net/leeds-0-1-man-city-5045191.html",
+      "summary": "Bàn duy nhất của Semenyo giúp Man City giành chiến thắng ở vòng 28 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:11:49+07:00",
+      "fetched": "2026-03-01T09:03:02.480960+07:00"
+    },
+    {
+      "id": "0304fcad85dc568b47023671ff402cca",
+      "title": "Mỹ, Nga, Trung đấu khẩu tại Hội đồng Bảo an về tình hình Iran",
+      "link": "https://vnexpress.net/my-nga-trung-dau-khau-tai-hoi-dong-bao-an-ve-tinh-hinh-iran-5045178.html",
+      "summary": "Đại sứ Mỹ ca ngợi quyết định tấn công Iran của ông Trump, trong khi Nga, Trung Quốc lên tiếng chỉ trích, kêu gọi Washington và Tel Aviv dừng gây hấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:11:30+07:00",
+      "fetched": "2026-03-01T09:03:02.481159+07:00"
+    },
+    {
+      "id": "aa50e665540179e1aca70b61a7db0b26",
+      "title": "Liverpool 5-2 West Ham",
+      "link": "https://vnexpress.net/liverpool-5-2-west-ham-5045188.html",
+      "summary": "Ba bàn thắng từ phạt góc giúp Liverpool đại thắng ở vòng 28 Ngoại hạng Anh, ngày 28/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:08:31+07:00",
+      "fetched": "2026-03-01T09:03:02.481315+07:00"
+    },
+    {
+      "id": "01fb6924610ae921fc24c3401e18e999",
+      "title": "Ronaldo sút hỏng phạt đền và chấn thương ở Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-sut-hong-phat-den-va-chan-thuong-o-saudi-pro-league-5045173.html",
+      "summary": "Cristiano Ronaldo phải trải qua một ngày buồn vui lẫn lộn trong trận Al Nassr thắng Al Fayha 3-1 ở vòng 24 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:01:47+07:00",
+      "fetched": "2026-03-01T09:03:02.481467+07:00"
+    },
+    {
+      "id": "01fb6924610ae921fc24c3401e18e999",
+      "title": "Ronaldo sút hỏng phạt đền và chấn thương ở Saudi Pro League",
+      "link": "https://vnexpress.net/ronaldo-sut-hong-phat-den-va-chan-thuong-o-saudi-pro-league-5045173.html",
+      "summary": "Cristiano Ronaldo phải trải qua một ngày buồn vui lẫn lộn trong trận Al Nassr thắng Al Fayha 3-1 ở vòng 24 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T01:01:47+07:00",
+      "fetched": "2026-03-01T09:03:14.714905+07:00"
+    },
+    {
+      "id": "7bead69f8fa0c3d7269841de17082aa1",
+      "title": "Vì sao đánh răng mỗi ngày vẫn hôi miệng?",
+      "link": "https://vnexpress.net/vi-sao-danh-rang-moi-ngay-van-hoi-mieng-5045071.html",
+      "summary": "Hôi miệng không chỉ liên quan đến vệ sinh răng miệng kém mà còn do ăn thực phẩm mùi nồng, viêm xoang, bệnh lý toàn thân như tiểu đường hoặc bệnh thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:00:00+07:00",
+      "fetched": "2026-03-01T09:03:02.481635+07:00"
+    },
+    {
+      "id": "2462fea6b18c783f4b756567931df87d",
+      "title": "Hai khách nước ngoài rủ nhau vào quán cà phê nói chuyện bằng tiếng Việt",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-hai-khach-nuoc-ngoai-ru-nhau-vao-quan-ca-phe-noi-chuyen-bang-tieng-viet-5044795.html",
+      "summary": "Đang mải quay vlog du lịch Việt Nam, hai vị khách nước ngoài bất ngờ gặp nhau đầy “hữu duyên”, và cái kết khiến nhiều người bật cười thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:00:00+07:00",
+      "fetched": "2026-03-01T09:03:02.481848+07:00"
+    },
+    {
+      "id": "20bc8527c4cb33ac719ae9568f135b1e",
+      "title": "Trẻ nuốt phải hạt nở có bị tắc ruột?",
+      "link": "https://vnexpress.net/tre-nuot-phai-hat-no-co-bi-tac-ruot-5045156.html",
+      "summary": "Con tôi 3 tuổi thích chơi hạt nở nhiều màu, mềm trơn. Trẻ nuốt phải hạt nở sẽ tắc ruột, đúng không? (Mai, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:00:00+07:00",
+      "fetched": "2026-03-01T09:03:02.482034+07:00"
+    },
+    {
+      "id": "a2a2650b359509db9ecd87045ac641b3",
+      "title": "Làm thế nào giảm da chảy xệ, nọng cằm sau sinh?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-da-chay-xe-nong-cam-sau-sinh-5045129.html",
+      "summary": "Tôi tăng cân nhiều khi mang thai, sau sinh da mặt chảy xệ, nọng cằm rõ. Nên dùng công nghệ HIFU hay Sofwave nếu da hơi mỏng và nhạy cảm? (Anh Trương, 28 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T01:00:00+07:00",
+      "fetched": "2026-03-01T09:03:02.482248+07:00"
+    },
+    {
+      "id": "ff16f701d5c6d3b1aa87d8478a6fc601",
+      "title": "Phân loại AI rủi ro cao: Phép thử đầu tiên của Luật Trí tuệ nhân tạo",
+      "link": "https://vnexpress.net/phan-loai-ai-rui-ro-cao-phep-thu-dau-tien-cua-luat-tri-tue-nhan-tao-5045115.html",
+      "summary": "Ngày 1/3, Luật Trí tuệ nhân tạo chính thức có hiệu lực, trong đó cách xác định và quản lý hệ thống \"rủi ro cao\" sẽ quyết định tác động thực tế của khung pháp lý mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-01T00:00:00+07:00",
+      "fetched": "2026-03-01T09:03:13.549958+07:00"
+    },
+    {
+      "id": "772d63b5914d5881f15e4a9f378356c1",
+      "title": "Lukaku bật khóc sau bàn thắng giải cơn khát 9 tháng",
+      "link": "https://vnexpress.net/lukaku-bat-khoc-sau-ban-thang-giai-con-khat-9-thang-5045180.html",
+      "summary": "Tiền đạo Romelu Lukaku rơi nước mắt khi ghi bàn quyết định ở phút bù thứ sáu giúp Napoli thắng Hellas Verona 2-1 ở vòng 27 Serie A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T23:57:17+07:00",
+      "fetched": "2026-03-01T09:03:14.715125+07:00"
+    },
+    {
+      "id": "6c6b1f3c82ea052372edc0e11acc821b",
+      "title": "Iran phóng tên lửa đạn đạo vào Israel",
+      "link": "https://vnexpress.net/iran-phong-ten-lua-dan-dao-vao-israel-5045179.html",
+      "summary": "Iran tiếp tục khai hỏa loạt tên lửa đạn đạo mới vào lãnh thổ Israel, sau khi ông Trump tuyên bố Lãnh tụ Tối cao nước này đã bị hạ sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T23:51:16+07:00",
+      "fetched": "2026-03-01T09:03:08.991685+07:00"
+    },
+    {
+      "id": "8cbf2cf9e6430ad958c870fe781f53a0",
+      "title": "Kane giúp Bayern thắng nghẹt thở Dortmund",
+      "link": "https://vnexpress.net/kane-giup-bayern-thang-nghet-tho-dortmund-5045175.html",
+      "summary": "Tiền đạo Harry Kane lập cú đúp, giúp Bayern thắng ngược chủ nhà Dortmund 3-2 ở vòng 24 Bundesliga để tạo khoảng cách 11 điểm phía đỉnh bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T23:27:32+07:00",
+      "fetched": "2026-03-01T09:03:14.715307+07:00"
+    },
+    {
+      "id": "9a86344b40ae23936a23bfd1c7a57a88",
+      "title": "Tên lửa trả đũa của Iran làm rung chuyển các thành phố Vùng Vịnh",
+      "link": "https://vnexpress.net/ten-lua-tra-dua-cua-iran-lam-rung-chuyen-cac-thanh-pho-vung-vinh-5045153.html",
+      "summary": "Hàng loạt tên lửa Iran đã xé ngang bầu trời Vùng Vịnh, gây ra nhiều vụ nổ lớn và khiến người dân địa phương hoảng sợ tìm nơi trú ẩn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-02-28T23:16:08+07:00",
+      "fetched": "2026-03-01T09:03:08.991861+07:00"
+    },
+    {
+      "id": "87deed1be9f045f3b73073f6b553cc09",
+      "title": "Man City thắng 6 trận liên tiếp",
+      "link": "https://vnexpress.net/man-city-thang-6-tran-lien-tiep-5045174.html",
+      "summary": "Man City thắng nhọc 1-0 trên sân Leeds ở vòng 28 Ngoại hạng Anh để rút ngắn cách biệt với Arsenal xuống hai điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T23:03:05+07:00",
+      "fetched": "2026-03-01T09:03:14.715503+07:00"
+    },
+    {
+      "id": "8978ab4f47cdd89ab7630499a4e24dad",
+      "title": "Liverpool lập kỷ lục từ bóng cố định",
+      "link": "https://vnexpress.net/liverpool-lap-ky-luc-tu-bong-co-dinh-5045176.html",
+      "summary": "Ba bàn thắng từ phạt góc trong thắng lợi 5-2 trước West Ham ở vòng 28 Ngoại hạng Anh giúp Liverpool ghi bảy bàn liên tiếp nhờ tình huống bóng cố định.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-02-28T22:34:06+07:00",
+      "fetched": "2026-03-01T09:03:14.714309+07:00"
+    },
+    {
       "id": "e9b5135a80a2d242695dbf2534d5a261",
       "title": "Tử vi ngày 1 tháng 3: Con giáp nào may mắn hôm nay?",
       "link": "https://thanhnien.vn/tu-vi-ngay-1-thang-3-con-giap-nao-may-man-hom-nay-185260228143346658.htm",
@@ -221,6 +601,16 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-02-28T22:15:00+07:00",
       "fetched": "2026-03-01T05:19:49.081896+07:00"
+    },
+    {
+      "id": "6145671d6465716bcf2a4c47772fa4fa",
+      "title": "Phép thử của Chủ tịch Burger King sau hai tuần trực điện thoại",
+      "link": "https://vnexpress.net/phep-thu-cua-chu-tich-burger-king-sau-hai-tuan-truc-dien-thoai-5045106.html",
+      "summary": "Sau hai tuần bị \"đẩy\" ra nghe điện thoại, trực tin nhắn phản hồi của khách hàng, Chủ tịch Burger King Mỹ, Canada quyết định đổi công thức món burger lần đầu sau gần 10 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-02-28T22:03:00+07:00",
+      "fetched": "2026-03-01T09:03:10.923124+07:00"
     },
     {
       "id": "877490ce753fd09ff4a195a74150c543",
