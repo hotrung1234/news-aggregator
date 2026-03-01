@@ -1,7 +1,157 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T15:28:06.274318+07:00",
+  "lastUpdated": "2026-03-01T17:22:32.070699+07:00",
   "articles": [
+    {
+      "id": "b377530148f79a1583692bf9f4c0693e",
+      "title": "Cầu thủ Thái Lan bị hủy hợp đồng vì đạp đối thủ",
+      "link": "https://tuoitre.vn/cau-thu-thai-lan-bi-huy-hop-dong-vi-dap-doi-thu-20260301145652511.htm",
+      "summary": "Một cầu thủ đang thi đấu tại giải hạng 3 Thái Lan (Thai League 3) đã mất việc ngay lập tức sau hành vi phi thể thao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643701+07:00",
+      "fetched": "2026-03-01T17:22:23.643796+07:00"
+    },
+    {
+      "id": "543ab60718f7558c07d3b74929562923",
+      "title": "Nữ kỳ thủ Việt Nam lập chiến tích ở giải cờ vua danh giá của Pháp",
+      "link": "https://tuoitre.vn/nu-ky-thu-viet-nam-lap-chien-tich-o-giai-co-vua-danh-gia-cua-phap-2026030115003581.htm",
+      "summary": "Một nữ kỳ thủ cờ vua danh tiếng của Việt Nam là Lương Phương Hạnh đã tạo kỳ tích trên đất Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643597+07:00",
+      "fetched": "2026-03-01T17:22:23.643692+07:00"
+    },
+    {
+      "id": "d9f6c438ee05ed63988485dfe7f9aba2",
+      "title": "Nhà Trắng công bố hình ảnh, nêu lý do ông Trump theo dõi chiến dịch tập kích Iran từ Mar-a-Lago",
+      "link": "https://tuoitre.vn/nha-trang-cong-bo-hinh-anh-neu-ly-do-ong-trump-theo-doi-chien-dich-tap-kich-iran-tu-mar-a-lago-20260301141724599.htm",
+      "summary": "Tổng thống Donald Trump đã không có mặt tại Nhà Trắng như thông lệ trong ngày Mỹ tham chiến cùng Israel tấn công Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643490+07:00",
+      "fetched": "2026-03-01T17:22:23.643587+07:00"
+    },
+    {
+      "id": "ab9fba6be78569e1c2d0d17ec24e3dae",
+      "title": "Đồ ăn ở sân bay đắt đỏ, bình thường hay 'chặt chém'?",
+      "link": "https://tuoitre.vn/do-an-o-san-bay-dat-do-binh-thuong-hay-chat-chem-20260301095522423.htm",
+      "summary": "Một tô phở có giá 346.000 đồng (khoảng 14 USD) tại sân bay quốc tế Cam Ranh đang gây tranh luận sôi nổi trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643385+07:00",
+      "fetched": "2026-03-01T17:22:23.643480+07:00"
+    },
+    {
+      "id": "825bb3e896cd73e6fbb4badacfca08f2",
+      "title": "Chỉ 20 phút đi bộ mỗi ngày đã đem lại nhiều lợi ích cho tâm trạng và sức khỏe tim mạch",
+      "link": "https://tuoitre.vn/chi-20-phut-di-bo-moi-ngay-da-dem-lai-nhieu-loi-ich-cho-tam-trang-va-suc-khoe-tim-mach-20260301142506687.htm",
+      "summary": "Bài viết trên tạp chí Health.com về những lợi ích mà việc đi bộ chỉ 20 phút mỗi ngày có thể mang lại cho tâm trạng và sức khỏe tim mạch của bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643279+07:00",
+      "fetched": "2026-03-01T17:22:23.643376+07:00"
+    },
+    {
+      "id": "1563993e6ba16e59c0a5687c0f067d76",
+      "title": "Pakistan: Người biểu tình ủng hộ Iran xông vào đập phá Lãnh sự quán Mỹ, 9 người thiệt mạng",
+      "link": "https://tuoitre.vn/pakistan-nguoi-bieu-tinh-ung-ho-iran-xong-vao-dap-pha-lanh-su-quan-my-9-nguoi-thiet-mang-20260301151103774.htm",
+      "summary": "Ngày 1-3, người biểu tình đã tràn vào Lãnh sự quán Mỹ tại thành phố cảng Karachi (Pakistan), đập vỡ cửa kính và phóng hỏa tòa nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643171+07:00",
+      "fetched": "2026-03-01T17:22:23.643268+07:00"
+    },
+    {
+      "id": "0812afd227421ce01d2e2a1eacca4680",
+      "title": "Ấn Độ: Nổ nhà máy sản xuất đạn dược, 17 người chết",
+      "link": "https://tuoitre.vn/an-do-no-nha-may-san-xuat-dan-duoc-17-nguoi-chet-20260301154817713.htm",
+      "summary": "Ít nhất 17 người thiệt mạng và 18 người khác bị thương nặng trong một vụ nổ tại nhà máy sản xuất thuốc nổ ở bang Maharashtra (Ấn Độ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.643065+07:00",
+      "fetched": "2026-03-01T17:22:23.643162+07:00"
+    },
+    {
+      "id": "c373c2aaf90d3bbfe09869f8a3e8d0da",
+      "title": "Công trình số 2 Tôn Đức Thắng, TP.HCM gây tiếng ồn cả ngày lẫn đêm",
+      "link": "https://tuoitre.vn/cong-trinh-so-2-ton-duc-thang-tp-hcm-gay-tieng-on-ca-ngay-lan-dem-20260301112750167.htm",
+      "summary": "Trước phản ánh của cư dân về tiếng ồn lớn từ công trình tại số 2 Tôn Đức Thắng, UBND phường Sài Gòn cho biết sẽ tiếp tục kiểm tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642955+07:00",
+      "fetched": "2026-03-01T17:22:23.643055+07:00"
+    },
+    {
+      "id": "131b2c34f2d996152b3327da7f6d9282",
+      "title": "Chính trường Mỹ chia rẽ sâu sắc trước chiến dịch tấn công Iran",
+      "link": "https://tuoitre.vn/chinh-truong-my-chia-re-sau-sac-truoc-chien-dich-tan-cong-iran-202603011518458.htm",
+      "summary": "Chính trường Mỹ phản ứng trái chiều trước chiến dịch không kích Iran, một số cáo buộc hành động này \"vi hiến\", một số khác ủng hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642850+07:00",
+      "fetched": "2026-03-01T17:22:23.642946+07:00"
+    },
+    {
+      "id": "53e1e9161233e84af06231c4f2eeeb07",
+      "title": "Thua đáng tiếc chung kết, Lại Lý Huynh chưa thể thay đổi lịch sử làng cờ tướng",
+      "link": "https://tuoitre.vn/thua-dang-tiec-chung-ket-lai-ly-huynh-chua-the-thay-doi-lich-su-lang-co-tuong-20260301151656007.htm",
+      "summary": "Chiều 1-3, Lại Lý Huynh đã bại trận trước kỳ thủ Trung Quốc Trình Vũ Đông ở trận chung kết lượt về \"siêu giải\" cờ tướng Ngũ Dương Bôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642732+07:00",
+      "fetched": "2026-03-01T17:22:23.642840+07:00"
+    },
+    {
+      "id": "20b40c161250f95926481e7bc8a7315f",
+      "title": "Hoa hậu H'Hen Niê, nhạc sĩ Hứa Kim Tuyền làm đại sứ Giải chạy vì trẻ em sống chung với bệnh hiếm",
+      "link": "https://tuoitre.vn/hoa-hau-h-hen-nie-nhac-si-hua-kim-tuyen-lam-dai-su-giai-chay-vi-tre-em-song-chung-voi-benh-hiem-20260301153022154.htm",
+      "summary": "Giải chạy vì trẻ em sống chung với bệnh hiếm - Run for Rare Kids nhằm gây quỹ hỗ trợ điều trị cho các bệnh nhi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642627+07:00",
+      "fetched": "2026-03-01T17:22:23.642723+07:00"
+    },
+    {
+      "id": "bf63f94b07c205c59192139e7be8917a",
+      "title": "Tuyển Việt Nam chung bảng với Thái Lan ở Giải futsal Đông Nam Á 2026",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-chung-bang-voi-thai-lan-o-giai-futsal-dong-nam-a-2026-20260301151509911.htm",
+      "summary": "Đội tuyển futsal Việt Nam và Thái Lan sẽ nằm chung bảng đấu ở Giải futsal Đông Nam Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642518+07:00",
+      "fetched": "2026-03-01T17:22:23.642618+07:00"
+    },
+    {
+      "id": "b9003a83afff30462788255e078f718a",
+      "title": "Hợp tác xã, tổ hợp tác 'tố' doanh nghiệp vì nợ tiền lúa nhiều tháng?",
+      "link": "https://tuoitre.vn/hop-tac-xa-to-hop-tac-to-doanh-nghiep-vi-no-tien-lua-nhieu-thang-20260301145712869.htm",
+      "summary": "Nhiều Hợp tác xã, tổ hợp tác và có lúa tại An Giang \"tố\" một doanh nghiệp mua lúa của dân nhưng nhiều tháng nay không trả đầy đủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642406+07:00",
+      "fetched": "2026-03-01T17:22:23.642509+07:00"
+    },
+    {
+      "id": "07a44c40e93f00ac1e41fcefdbdfa8cf",
+      "title": "UAE lo toàn bộ chi phí cho 20.200 hành khách bị ảnh hưởng từ các cuộc tấn công tại Iran",
+      "link": "https://tuoitre.vn/uae-lo-toan-bo-chi-phi-cho-20-200-hanh-khach-bi-anh-huong-tu-cac-cuoc-tan-cong-tai-iran-20260301153603872.htm",
+      "summary": "Khoảng 20.200 hành khách đã được hỗ trợ đặt lại vé, được cấp chỗ ở tạm thời, phục vụ ăn uống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642248+07:00",
+      "fetched": "2026-03-01T17:22:23.642394+07:00"
+    },
+    {
+      "id": "9edb2dcb942079d1412a698eaeec285e",
+      "title": "Cục Đăng kiểm hướng dẫn cách tra cứu giấy chứng nhận kiểm định điện tử",
+      "link": "https://tuoitre.vn/cuc-dang-kiem-huong-dan-cach-tra-cuu-giay-chung-nhan-kiem-dinh-dien-tu-20260301160632149.htm",
+      "summary": "Từ ngày 1-3 các trung tâm đăng kiểm cấp giấy chứng nhận kiểm định điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T17:22:23.642030+07:00",
+      "fetched": "2026-03-01T17:22:23.642235+07:00"
+    },
     {
       "id": "c6743274260c78ebc9bfd00d263cfece",
       "title": "Hạ cốt nền làm đường, nhà mặt tiền bỗng cheo leo bên mép vực",
@@ -443,6 +593,216 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T12:16:08.118559+07:00"
     },
     {
+      "id": "95285404538d5f8e0816fd215987e4b8",
+      "title": "Đề xuất nâng ngưỡng thu nhập xác định người phụ thuộc lên 4,5 triệu đồng",
+      "link": "https://thanhnien.vn/de-xuat-nang-nguong-thu-nhap-xac-dinh-nguoi-phu-thuoc-len-45-trieu-dong-185260301150435779.htm",
+      "summary": "Nhiều chuyên gia đề xuất nhanh chóng điều chỉnh ngưỡng thu nhập làm căn cứ xác định người phụ thuộc từ 1 triệu đồng/tháng lên khoảng 2,34 triệu đồng/tháng, thậm chí lên 4,5 triệu đồng/tháng tùy vào căn cứ khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:20:00+07:00",
+      "fetched": "2026-03-01T17:22:22.557892+07:00"
+    },
+    {
+      "id": "12a12f7741f7453baf8f4a08b0a9e03d",
+      "title": "Giá smartphone tăng mạnh, ốp lưng đang trở thành phụ kiện cấp thiết",
+      "link": "https://thanhnien.vn/gia-smartphone-tang-manh-op-lung-dang-tro-thanh-phu-kien-cap-thiet-185260227172034245.htm",
+      "summary": "Với mức giá ngày càng cao, việc bảo vệ smartphone trở nên quan trọng hơn bao giờ hết, và ốp lưng là một trong những phụ kiện được nghĩ đến nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:13:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558039+07:00"
+    },
+    {
+      "id": "34141902c58d55d97f8530c59c78b8f5",
+      "title": "Người dân Hà Nội chật vật vì thời tiết nồm ẩm sau tết",
+      "link": "https://thanhnien.vn/nguoi-dan-ha-noi-chat-vat-vi-thoi-tiet-nom-am-sau-tet-185260301155523541.htm",
+      "summary": "Sau Tết, người dân Hà Nội lại đối diện với cảnh \"khóc ròng\" khi thời tiết nồm ẩm quay trở lại khiến nhà cửa ướt nhẹp, quần áo phơi mãi không khô, sinh hoạt đảo lộn và sức khỏe của nhiều người bị ảnh hưởng rõ rệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:08:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558170+07:00"
+    },
+    {
+      "id": "18dc85b9e807cab1370a5c5a390e3c45",
+      "title": "Hạ cốt nền đường ở Đồng Nai, nhiều nhà dân chênh vênh bên mép vực sâu",
+      "link": "https://thanhnien.vn/ha-cot-nen-duong-o-dong-nai-nhieu-nha-dan-chenh-venh-ben-mep-vuc-sau-185260301130558092.htm",
+      "summary": "Những ngày qua, nhiều hộ dân ở mặt tiền đường ĐT.753 đang phải 'sống trong sợ hãi' khi dự án nâng cấp, mở rộng đường ĐT.753 đoạn qua xã Tân Lợi, tỉnh Đồng Nai thi công hạ cốt nền đường, khiến phía trước nhà trở thành bờ vực sâu với vách đất dựng đứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:08:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558297+07:00"
+    },
+    {
+      "id": "bf4a5366ada368f03043f2f6117de67e",
+      "title": "Quảng Trị: Va chạm xe container, 1 người tử vong tại chỗ",
+      "link": "https://thanhnien.vn/quang-tri-va-cham-xe-container-1-nguoi-tu-vong-tai-cho-185260301164313238.htm",
+      "summary": "Vụ tai nạn giữa xe container và xe máy không có biển kiểm soát tại Quảng Trị đã khiến người điều khiển xe máy tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:00:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558422+07:00"
+    },
+    {
+      "id": "d4deada97e044e987cc15d5b4ed26d43",
+      "title": "Toàn cảnh 17h: Ai sẽ tiếp tục điều hành Iran trong cơn biến động? | Lật tẩy đường dây mua bán thận tiền tỉ",
+      "link": "https://thanhnien.vn/toan-canh-17h-ai-se-tiep-tuc-dieu-hanh-iran-trong-con-bien-dong-lat-tay-duong-day-mua-ban-than-tien-ti-185260301163440452.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T10:00:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558550+07:00"
+    },
+    {
+      "id": "7d7ac3a661793a2de857631d00657e0e",
+      "title": "Xổ số miền Nam ngày 1 tháng 3: Truy tìm dãy số 111111 trúng đài Kiên Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-3-truy-tim-day-so-111111-trung-dai-kien-giang-185260301164658399.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 1 tháng 3, người chơi xổ số truy tìm những tờ vé số có 6 số giống nhau dãy 111111 trúng đài Kiên Giang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:51:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558676+07:00"
+    },
+    {
+      "id": "9593b81f25bc3cca59a9141ce6b000ae",
+      "title": "Iran bầu Lãnh tụ Tối cao mới thế nào",
+      "link": "https://vnexpress.net/iran-bau-lanh-tu-toi-cao-moi-the-nao-5045303.html",
+      "summary": "Iran bước vào quá trình chọn Lãnh tụ Tối cao kế nhiệm ông Khamenei, người vừa bị Israel hạ sát, để lãnh đạo quốc gia trong thời khắc quyết định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:40:45+07:00",
+      "fetched": "2026-03-01T17:22:19.438007+07:00"
+    },
+    {
+      "id": "9593b81f25bc3cca59a9141ce6b000ae",
+      "title": "Iran bầu Lãnh tụ Tối cao mới thế nào",
+      "link": "https://vnexpress.net/iran-bau-lanh-tu-toi-cao-moi-the-nao-5045303.html",
+      "summary": "Iran bước vào quá trình chọn Lãnh tụ Tối cao kế nhiệm ông Khamenei, người vừa bị Israel hạ sát, để lãnh đạo quốc gia trong thời khắc quyết định.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T09:40:45+07:00",
+      "fetched": "2026-03-01T17:22:25.546209+07:00"
+    },
+    {
+      "id": "7be6ac12b2eb65d4346a3f745d49dad0",
+      "title": "Ôtô đánh lái như chơi game tránh xe máy 'từ dưới đất chui lên'",
+      "link": "https://vnexpress.net/oto-danh-lai-nhu-choi-game-tranh-xe-may-tu-duoi-dat-chui-len-5045331.html",
+      "summary": "Chiếc xe máy bất ngờ sang đường từ phía sau hàng cây dải phân cách khiến tài xế ôtô đánh lái liên tục để tránh, hôm 27/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:40:16+07:00",
+      "fetched": "2026-03-01T17:22:19.438166+07:00"
+    },
+    {
+      "id": "a958f71696a0e364e73c82a6d19ec82e",
+      "title": "Bộ Xây dựng: Cấm dàn xếp thông thầu",
+      "link": "https://thanhnien.vn/bo-xay-dung-cam-dan-xep-thong-thau-185260301160701448.htm",
+      "summary": "Bộ Xây dựng đề nghị các địa phương và đơn vị chủ động nhận diện và xử lý các hành vi gây lãng phí, \"không có vùng cấm, không có ngoại lệ\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:40:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558802+07:00"
+    },
+    {
+      "id": "1c9321b1b9a26df17f27a02db2b3e6d0",
+      "title": "Đồng Nai: Xe 7 chỗ lật nghiêng trên đường, 2 bà cháu tử vong",
+      "link": "https://thanhnien.vn/dong-nai-xe-7-cho-lat-nghieng-tren-duong-2-ba-chau-tu-vong-185260301160723841.htm",
+      "summary": "Chiếc xe 7 chỗ đi trên đường ĐT.753 đoạn qua xã Tân Lợi, tỉnh Đồng Nai bất ngờ bị lật nghiêng khiến 2 bà cháu tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:37:00+07:00",
+      "fetched": "2026-03-01T17:22:22.558944+07:00"
+    },
+    {
+      "id": "f3558f24c490baf1203c53e14a492b22",
+      "title": "Lại Lý Huynh về nhì siêu giải Ngũ Dương",
+      "link": "https://vnexpress.net/lai-ly-huynh-ve-nhi-sieu-giai-ngu-duong-5045330.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lại Lý Huynh thua đối thủ chủ nhà Trình Vũ Đông ở chung kết giải cờ tướng danh giá Ngũ Dương chiều 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:35:52+07:00",
+      "fetched": "2026-03-01T17:22:19.438309+07:00"
+    },
+    {
+      "id": "f3558f24c490baf1203c53e14a492b22",
+      "title": "Lại Lý Huynh về nhì siêu giải Ngũ Dương",
+      "link": "https://vnexpress.net/lai-ly-huynh-ve-nhi-sieu-giai-ngu-duong-5045330.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lại Lý Huynh thua đối thủ chủ nhà Trình Vũ Đông ở chung kết giải cờ tướng danh giá Ngũ Dương chiều 1/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T09:35:52+07:00",
+      "fetched": "2026-03-01T17:22:32.062047+07:00"
+    },
+    {
+      "id": "df94db2577729e2ae96500974c2e1fc9",
+      "title": "Ai thay thế sau khi Lãnh tụ tối cao Iran Khamenei thiệt mạng?",
+      "link": "https://thanhnien.vn/ai-thay-the-sau-khi-lanh-tu-toi-cao-iran-khamenei-thiet-mang-185260301162126165.htm",
+      "summary": "Iran đang thành lập hội đồng lãnh đạo lâm thời nhằm dẫn dắt đất nước trong quá trình chuyển giao sau khi Lãnh tụ tối cao Ali Khamenei thiệt mạng trong đợt tấn công của Mỹ và Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:35:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559072+07:00"
+    },
+    {
+      "id": "ba19fd4789ea380ba7ce583b1b4f541e",
+      "title": "Bitcoin có thể về dưới 60.000 USD do xung đột ở Iran",
+      "link": "https://vnexpress.net/bitcoin-co-the-ve-duoi-60-000-usd-do-xung-dot-o-iran-5045308.html",
+      "summary": "Giới phân tích dự báo Bitcoin có thể giảm về dưới 60.000 USD một đơn vị, nếu xung đột tại Iran kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:34:16+07:00",
+      "fetched": "2026-03-01T17:22:19.438447+07:00"
+    },
+    {
+      "id": "ba19fd4789ea380ba7ce583b1b4f541e",
+      "title": "Bitcoin có thể về dưới 60.000 USD do xung đột ở Iran",
+      "link": "https://vnexpress.net/bitcoin-co-the-ve-duoi-60-000-usd-do-xung-dot-o-iran-5045308.html",
+      "summary": "Giới phân tích dự báo Bitcoin có thể giảm về dưới 60.000 USD một đơn vị, nếu xung đột tại Iran kéo dài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T09:34:16+07:00",
+      "fetched": "2026-03-01T17:22:27.115876+07:00"
+    },
+    {
+      "id": "3c2de4bdb48d492cd5adb13796dd0a6c",
+      "title": "Thủ tướng kiểm tra sân bay Phù Cát, thống nhất rút ngắn 3 tháng tiến độ",
+      "link": "https://thanhnien.vn/thu-tuong-kiem-tra-san-bay-phu-cat-thong-nhat-rut-ngan-3-thang-tien-do-18526030115141011.htm",
+      "summary": "Thủ tướng Phạm Minh Chính kiểm tra công trường đường băng số 2 sân bay Phù Cát, thống nhất rút ngắn tiến độ, bảo đảm chất lượng, sớm đưa dự án vào khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:29:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559200+07:00"
+    },
+    {
+      "id": "6b40c20d96f7dc13bbd069817eedc6ce",
+      "title": "Vẻ đằm thắm của mỹ nhân đóng nữ vương 'Tây du ký'",
+      "link": "https://vnexpress.net/ve-dam-tham-cua-my-nhan-dong-nu-vuong-tay-du-ky-5045230.html",
+      "summary": "Diễn viên Trung Quốc Chu Lâm, 74 tuổi, được nhiều khán giả nhận xét đằm thắm khi bà hiếm hoi xuất hiện ở chương trình nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:26:00+07:00",
+      "fetched": "2026-03-01T17:22:19.438579+07:00"
+    },
+    {
+      "id": "c36e127744228e93105d938d78e4ecd1",
+      "title": "Bà Hà Thị Nga: Kiến nghị Quốc hội ban hành cơ chế, chính sách hợp lòng dân",
+      "link": "https://thanhnien.vn/ba-ha-thi-nga-kien-nghi-quoc-hoi-ban-hanh-co-che-chinh-sach-hop-long-dan-185260301140137503.htm",
+      "summary": "Sáng 1.3, bà Hà Thị Nga, Ủy viên Ban Chấp hành T.Ư Đảng, Phó bí thư Thường trực Đảng ủy MTTQ, các đoàn thể T.Ư, Bí thư Đảng ủy Cơ quan Ủy ban T.Ư MTTQ Việt Nam, Phó chủ tịch - Tổng thư ký Ủy ban T.Ư MTTQ Việt Nam, cùng các ứng cử viên thuộc đơn vị bầu cử số 1, tỉnh Lai Châu tiếp xúc cử tri xã Khoen ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:12:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559329+07:00"
+    },
+    {
+      "id": "057188d028610c4a371bd1005b12aa65",
+      "title": "Đang đi đường, một phụ nữ ở Tây Ninh bị bắt cóc để bán qua Campuchia",
+      "link": "https://thanhnien.vn/dang-di-duong-mot-phu-nu-o-tay-ninh-bi-bat-coc-de-ban-qua-campuchia-185260301154116662.htm",
+      "summary": "Một phụ nữ ở Tây Ninh đang đi trên đường thì bị bắt cóc. Trong lúc nhóm đối tượng đưa sang Campuchia, nạn nhân may mắn trốn thoát thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:06:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559457+07:00"
+    },
+    {
       "id": "edeb90f42bf2114fff8ff9c54c48f7f3",
       "title": "Ronaldo lần thứ... 35 sút hỏng phạt đền, số bàn thắng 'giậm chân' ở số 965",
       "link": "https://tuoitre.vn/ronaldo-lan-thu-35-sut-hong-phat-den-so-ban-thang-dam-chan-o-so-965-20260301041305985.htm",
@@ -593,6 +953,96 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T09:03:07.174285+07:00"
     },
     {
+      "id": "0de8711381516083b3ddbbbdd30af5bc",
+      "title": "TP.HCM nắng nóng đến 39 độ C, mưa trái mùa tăng trong tháng 3",
+      "link": "https://thanhnien.vn/tphcm-nang-nong-den-39-do-c-mua-trai-mua-tang-trong-thang-3-185260301155215467.htm",
+      "summary": "Trong tháng 3, thời tiết TP.HCM và Nam bộ sẽ xuất hiện nhiều ngày nắng nóng 38 - 39 độ C. Ở chiều ngược lại, mưa trái mùa cũng xuất hiện nhiều hơn so với tháng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:00:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559582+07:00"
+    },
+    {
+      "id": "b2ba5f7029d58f52d72f5b5ea40b024a",
+      "title": "Xổ số miền Nam ngày 1 tháng 3 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-1-thang-3-ket-qua-xo-so-hom-nay-chu-nhat-18526030115001834.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 1 tháng 3; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 1.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T09:00:00+07:00",
+      "fetched": "2026-03-01T17:22:22.559708+07:00"
+    },
+    {
+      "id": "b2e8dc6fc922d54f50a388bd854e0000",
+      "title": "Nằm viện xuyên Tết vì sốt xuất huyết",
+      "link": "https://vnexpress.net/nam-vien-xuyen-tet-vi-sot-xuat-huyet-5045300.html",
+      "summary": "Thay vì du xuân cùng bạn bè như kế hoạch, Tuấn Hùng, 21 tuổi, bất ngờ phải giành giật sự sống với men gan tăng vọt vì sốt xuất huyết, chung cảnh ngộ \"mất Tết\" với nhiều bệnh nhân chật vật nơi phòng hồi sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:54:42+07:00",
+      "fetched": "2026-03-01T17:22:19.438710+07:00"
+    },
+    {
+      "id": "e8096c515f2cd23f8af788ceccffb47a",
+      "title": "Australia tăng gấp đôi phí visa ở lại sau tốt nghiệp",
+      "link": "https://vnexpress.net/australia-tang-gap-doi-phi-visa-o-lai-sau-tot-nghiep-5045299.html",
+      "summary": "Phí xin visa 485 dành cho du học sinh muốn ở lại Australia làm việc sau tốt nghiệp là 4.600 AUD (hơn 85 triệu đồng), từ ngày 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:36:51+07:00",
+      "fetched": "2026-03-01T17:22:19.438853+07:00"
+    },
+    {
+      "id": "9e62ec5cbea0542e863141d2ffdc14eb",
+      "title": "H'Hen Niê đồng hành giải chạy vì trẻ em sống chung với bệnh hiếm",
+      "link": "https://vnexpress.net/h-hen-nie-dong-hanh-giai-chay-vi-tre-em-song-chung-voi-benh-hiem-5045290.html",
+      "summary": "H'Hen Niê cùng Hứa Kim Tuyền làm đại sứ cho giải chạy \"Run For Rare Kids\" vì muốn lan tỏa sự quan tâm, gây quỹ hỗ trợ bệnh nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:34:08+07:00",
+      "fetched": "2026-03-01T17:22:19.438987+07:00"
+    },
+    {
+      "id": "0c23a9d8e4f2ec5550e1db1560b9d0f5",
+      "title": "Đại sứ Iran, Mỹ đấu khẩu tại Hội đồng Bảo an LHQ",
+      "link": "https://vnexpress.net/dai-su-iran-my-dau-khau-tai-hoi-dong-bao-an-lhq-5045319.html",
+      "summary": "Đại sứ của Mỹ và Iran đã công kích nhau trực diện, diễn biến được mô tả là hiếm thấy ở cuối cuộc họp Hội đồng Bảo an Liên Hợp Quốc diễn ra ngày 28/2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:31:56+07:00",
+      "fetched": "2026-03-01T17:22:19.439121+07:00"
+    },
+    {
+      "id": "7f372b96ddca4c22c7f2e9d62c1a9308",
+      "title": "Khó nghĩ khi bạn trai hơn 8 tuổi muốn cưới ngay sau khi em ra trường",
+      "link": "https://vnexpress.net/yeu-nguoi-hon-nhieu-tuoi-kho-nghi-khi-ban-trai-hon-8-tuoi-muon-cuoi-ngay-sau-khi-em-ra-truong-5045225.html",
+      "summary": "Em sợ nếu cưới khi chưa thật sự sẵn sàng, sau này em sẽ tiếc nuối những năm tháng tuổi trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:22:10+07:00",
+      "fetched": "2026-03-01T17:22:19.439250+07:00"
+    },
+    {
+      "id": "f4135d32efc8328d5913dce0839c4be2",
+      "title": "'Phố đi bộ Nguyễn Huệ không phải là nơi tổ chức sự kiện tràn lan'",
+      "link": "https://vnexpress.net/pho-di-bo-nguyen-hue-khong-to-chuc-su-kien-tran-lan-o-pho-di-bo-nguyen-hue-5045248.html",
+      "summary": "Nếu có nhiều sự kiện được tổ chức tràn lan, trải nghiệm phố đi bộ sẽ không còn nguyên vẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:21:08+07:00",
+      "fetched": "2026-03-01T17:22:19.439378+07:00"
+    },
+    {
+      "id": "d9153e02057c010529e71de6c8f4b4fd",
+      "title": "'Robinson Crusoe' - bài học về sinh tồn",
+      "link": "https://vnexpress.net/robinson-crusoe-bai-hoc-ve-sinh-ton-5045317.html",
+      "summary": "Tác phẩm ''Robinson Crusoe'' dạy cho em cách yêu thiên nhiên, cuộc sống, tinh thần lạc quan, nghị lực vượt qua mọi nghịch cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:18:27+07:00",
+      "fetched": "2026-03-01T17:22:19.439508+07:00"
+    },
+    {
       "id": "b424fd850df208465d41d8133fe1e6b3",
       "title": "Cuộc họp định mệnh khiến Lãnh tụ Tối cao Iran bị hạ sát",
       "link": "https://vnexpress.net/cuoc-hop-dinh-menh-khien-lanh-tu-toi-cao-iran-bi-ha-sat-5045302.html",
@@ -601,6 +1051,16 @@ window.newsData_2026_03_01 = {
       "category": "Thế giới",
       "published": "2026-03-01T08:15:07+07:00",
       "fetched": "2026-03-01T15:28:01.776746+07:00"
+    },
+    {
+      "id": "706148cb502c676de48b35e39e84bb6d",
+      "title": "Ôtô lật khi ôm cua, hai bà cháu tử vong",
+      "link": "https://vnexpress.net/oto-lat-khi-om-cua-hai-ba-chau-tu-vong-5045309.html",
+      "summary": "Xe 7 chỗ chở ba người đang lưu thông trên tỉnh lộ 753, đoạn qua xã Tân Lợi, bất ngờ lật ngang lúc vào cua, khiến hai bà cháu tử vong, người ông bị thương, ngày 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T08:13:24+07:00",
+      "fetched": "2026-03-01T17:22:19.439773+07:00"
     },
     {
       "id": "143435c27dc455b5732cb908bb517896",
