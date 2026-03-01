@@ -1,7 +1,157 @@
 window.newsData_2026_03_01 = {
   "date": "2026-03-01",
-  "lastUpdated": "2026-03-01T12:16:15.339059+07:00",
+  "lastUpdated": "2026-03-01T13:41:42.026559+07:00",
   "articles": [
+    {
+      "id": "7a49d23cb0bfe765b4ccd82b020f4fbc",
+      "title": "TP.HCM: 17 người ngộ độc thực phẩm sau khi ăn bánh mì ở phường Hạnh Thông",
+      "link": "https://tuoitre.vn/tp-hcm-17-nguoi-ngo-doc-thuc-pham-sau-khi-an-banh-mi-o-phuong-hanh-thong-20260301115427017.htm",
+      "summary": "Tính đến ngày 1-3 đã có 17 người ngộ độc thực phẩm sau khi ăn bánh mì tại phường Hạnh Thông (TP.HCM, quận Gò Vấp trước đây).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017665+07:00",
+      "fetched": "2026-03-01T13:41:36.017775+07:00"
+    },
+    {
+      "id": "09679c328af44a03904fa2916df04556",
+      "title": "Chờ thầy Việt 'hồi sinh' Xuân Son",
+      "link": "https://tuoitre.vn/cho-thay-viet-hoi-sinh-xuan-son-20260301095826394.htm",
+      "summary": "Với sự trở lại của HLV Vũ Hồng Việt, CLB Nam Định nói chung và tiền đạo nhập tịch Nguyễn Xuân Son được kỳ vọng sẽ vượt qua khủng hoảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017541+07:00",
+      "fetched": "2026-03-01T13:41:36.017653+07:00"
+    },
+    {
+      "id": "66c2a294f6a8bf3046e56a1ff9857996",
+      "title": "Huế sắp có bảo tàng Trịnh Công Sơn",
+      "link": "https://tuoitre.vn/hue-sap-co-bao-tang-trinh-cong-son-20260301100411607.htm",
+      "summary": "Sau nhiều năm chuẩn bị, gia đình cố nhạc sĩ Trịnh Công Sơn sắp khởi công xây dựng một bảo tàng mang tên ông ở khu vực đồi Kim Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017419+07:00",
+      "fetched": "2026-03-01T13:41:36.017530+07:00"
+    },
+    {
+      "id": "084ec74b4094a766da6ad8c94f811c4f",
+      "title": "Vòng 28 Giải Ngoại hạng Anh: Arsenal đấu Chelsea quyết định mùa giải",
+      "link": "https://tuoitre.vn/vong-28-giai-ngoai-hang-anh-arsenal-dau-chelsea-quyet-dinh-mua-giai-20260301100812784.htm",
+      "summary": "Cuộc đối đầu tâm điểm của vòng 28 Premier League tuần này sẽ hướng về sân Emirates, nơi Arsenal tiếp đón đối thủ cùng thành phố Chelsea.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017297+07:00",
+      "fetched": "2026-03-01T13:41:36.017407+07:00"
+    },
+    {
+      "id": "a02d8683ba734028eb9e26cbefc12ec7",
+      "title": "Kỷ niệm 120 năm ngày sinh Thủ tướng Phạm Văn Đồng: Biểu tượng phụng sự Tổ quốc",
+      "link": "https://tuoitre.vn/ky-niem-120-nam-ngay-sinh-thu-tuong-pham-van-dong-bieu-tuong-phung-su-to-quoc-2026030111503765.htm",
+      "summary": "Sáng 1-3, tại Khu lưu niệm Thủ tướng Phạm Văn Đồng (tỉnh Quảng Ngãi) diễn ra lễ kỷ niệm 120 năm Ngày sinh Thủ tướng Phạm Văn Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017159+07:00",
+      "fetched": "2026-03-01T13:41:36.017286+07:00"
+    },
+    {
+      "id": "6df49875bef322957986e318202c6f53",
+      "title": "Có thể gộp 2 mảnh đất lại để hưởng giá bồi thường tốt hơn?",
+      "link": "https://tuoitre.vn/co-the-gop-2-manh-dat-lai-de-huong-gia-boi-thuong-tot-hon-20260301092312856.htm",
+      "summary": "Tôi muốn gộp 2 thửa đất lại để hưởng bồi thường đất mặt đường thì có được không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.017016+07:00",
+      "fetched": "2026-03-01T13:41:36.017146+07:00"
+    },
+    {
+      "id": "e6b04908b767cc70ab98453b5941c94a",
+      "title": "Bất ngờ màng bao bì làm từ sữa, phân hủy hoàn toàn trong 13 tuần",
+      "link": "https://tuoitre.vn/bat-ngo-mang-bao-bi-lam-tu-sua-phan-huy-hoan-toan-trong-13-tuan-20260301110145531.htm",
+      "summary": "Các nhà khoa học tại Đại học Flinders phát triển màng bao bì từ protein sữa và đất sét, có thể phân hủy hoàn toàn trong đất sau 13 tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016896+07:00",
+      "fetched": "2026-03-01T13:41:36.017005+07:00"
+    },
+    {
+      "id": "363434d1376f201fe68ad63b11e4b6d4",
+      "title": "Thái Lan siết mua bán vàng để kiềm đà tăng đồng baht",
+      "link": "https://tuoitre.vn/thai-lan-siet-mua-ban-vang-de-kiem-da-tang-dong-baht-20260301113249095.htm",
+      "summary": "Người dân Thái Lan có xu hướng bán USD để mua vàng bằng đồng baht, khiến đồng tiền này tăng giá mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016773+07:00",
+      "fetched": "2026-03-01T13:41:36.016885+07:00"
+    },
+    {
+      "id": "f7451f678a82514470d6d58e2049e0b0",
+      "title": "Có gì trong tô phở 364.000 đồng ở sân bay Cam Ranh?; Tăng tuổi nghỉ hưu trong năm 2026",
+      "link": "https://tuoitre.vn/co-gi-trong-to-pho-364-000-dong-o-san-bay-cam-ranh-tang-tuoi-nghi-huu-trong-nam-2026-20260228001918882.htm",
+      "summary": "Đây là những thông tin được bạn đọc quan tâm nhiều trong tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016647+07:00",
+      "fetched": "2026-03-01T13:41:36.016762+07:00"
+    },
+    {
+      "id": "97f6e97487cd52596a16d0530ed03c0e",
+      "title": "Ai sẽ kế nhiệm lãnh tụ tối cao Iran Ali Khamenei?",
+      "link": "https://tuoitre.vn/ai-se-ke-nhiem-lanh-tu-toi-cao-iran-ali-khamenei-20260301114306716.htm",
+      "summary": "Tổng thống Iran Masoud Pezeshkian và hai quan chức cấp cao khác sẽ lãnh đạo Iran trong giai đoạn chuyển tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016512+07:00",
+      "fetched": "2026-03-01T13:41:36.016635+07:00"
+    },
+    {
+      "id": "158a2d51162d63c6f523cb0ac008f803",
+      "title": "Thể Công Viettel đấu Hà Nội (19h15): Kịch tính ở Hàng Đẫy",
+      "link": "https://tuoitre.vn/the-cong-viettel-dau-ha-noi-19h15-kich-tinh-o-hang-day-20260301114856889.htm",
+      "summary": "Thể Công Viettel và CLB Hà Nội hứa hẹn sẽ cống hiến cho người xem một trận cầu đôi công đẹp mắt tại Hàng Đẫy vào 19h15 tối nay (1-3) ở vòng 14 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016371+07:00",
+      "fetched": "2026-03-01T13:41:36.016500+07:00"
+    },
+    {
+      "id": "c53a751630dab5a6221b68dbd28f5dbb",
+      "title": "Người trở lại thành phố mưu sinh cũng chênh vênh sau ngày đoàn viên",
+      "link": "https://tuoitre.vn/nguoi-tro-lai-thanh-pho-muu-sinh-cung-chenh-venh-sau-ngay-doan-vien-20260227224855875.htm",
+      "summary": "Sau các chuyến xe rời quê, nỗi trống trải không chỉ ở lại trong căn nhà vắng, mà còn theo chân người trẻ trở lại thành phố mưu sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016241+07:00",
+      "fetched": "2026-03-01T13:41:36.016359+07:00"
+    },
+    {
+      "id": "13d624b96603e8df3a23c21059372475",
+      "title": "Đòn tấn công kiểu Mỹ: Dùng bản sao mẫu Shahed của Iran tấn công chính Iran",
+      "link": "https://tuoitre.vn/don-tan-cong-kieu-my-dung-ban-sao-mau-shahed-cua-iran-tan-cong-chinh-iran-20260301120531157.htm",
+      "summary": "\"Bản sao\" mẫu UAV Shahed-136 của Iran do Mỹ sản xuất đã được sử dụng để chống lại Iran trong cuộc không kích ngày 28-2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.016082+07:00",
+      "fetched": "2026-03-01T13:41:36.016227+07:00"
+    },
+    {
+      "id": "9ba09608eeb4d0fcc59ef3900a9ff211",
+      "title": "AFC phải hoãn hàng loạt trận đấu cấp châu lục ở Trung Đông vì xung đột",
+      "link": "https://tuoitre.vn/afc-phai-hoan-hang-loat-tran-dau-cap-chau-luc-o-trung-dong-vi-xung-dot-20260301102329067.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) vừa thông báo hoãn các trận đấu thuộc hệ thống giải cúp châu lục liên quan các đội bóng khu vực Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.015943+07:00",
+      "fetched": "2026-03-01T13:41:36.016069+07:00"
+    },
+    {
+      "id": "f1253608be52a0251cbd84d21a566c3b",
+      "title": "Infographic: Hiệu suất các kênh đầu tư 2025 và dự báo 2026",
+      "link": "https://tuoitre.vn/infographic-hieu-suat-cac-kenh-dau-tu-2025-va-du-bao-2026-20260301102102707.htm",
+      "summary": "Sau một năm đạt mức sinh lời ấn tượng, các kênh đầu tư chứng khoán, kim loại quý năm 2026 được dự báo như thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T13:41:36.015719+07:00",
+      "fetched": "2026-03-01T13:41:36.015928+07:00"
+    },
     {
       "id": "b6fc461b0f0559844c64471062424399",
       "title": "Israel tiếp tục không kích Iran",
@@ -303,6 +453,176 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T09:03:07.174285+07:00"
     },
     {
+      "id": "7d9a6e4f91392b1f0a6f653b3cc2ef11",
+      "title": "Trang phục giúp 'nàng cáo' Shin Min Ah tỏa sáng",
+      "link": "https://vnexpress.net/trang-phuc-giup-nang-cao-shin-min-ah-toa-sang-5044612.html",
+      "summary": "Shin Min Ah, sao Hàn đóng \"Bạn gái tôi là cáo chín đuôi\", được fan khen tỏa sáng với váy áo đơn sắc, kiểu dáng thanh lịch, gợi cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:18:36+07:00",
+      "fetched": "2026-03-01T13:41:31.563467+07:00"
+    },
+    {
+      "id": "e951124b1b6a7d264801966a608db660",
+      "title": "Vì sao Arsenal liên tiếp mắc sai lầm trong cuộc đua vô địch?",
+      "link": "https://vnexpress.net/vi-sao-arsenal-lien-tiep-mac-sai-lam-trong-cuoc-dua-vo-dich-5045240.html",
+      "summary": "Dù đang dẫn đầu Ngoại hạng Anh, những lỗi cá nhân liên tục từ đầu năm 2006 là dấu hiệu cho thấy áp lực vô địch đang bào mòn sự chắc chắn từng là nền tảng cho thành công của họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:17:36+07:00",
+      "fetched": "2026-03-01T13:41:31.563648+07:00"
+    },
+    {
+      "id": "5cf0cc6bd875febfae94f84af9d23c59",
+      "title": "Thủ tướng Phạm Minh Chính thị sát cao tốc Quảng Ngãi - Hoài Nhơn",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-thi-sat-cao-toc-quang-ngai-hoai-nhon-18526030112530904.htm",
+      "summary": "Thủ tướng Phạm Minh Chính dẫn đầu đoàn công tác Chính phủ thị sát dự án cao tốc Quảng Ngãi - Hoài Nhơn, yêu cầu đẩy nhanh tiến độ, bảo đảm vận hành an toàn và phát huy hiệu quả dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:15:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669098+07:00"
+    },
+    {
+      "id": "d0cf2fe8b95f31b13bd0a3d89399edc5",
+      "title": "Cách tra cứu giấy chứng nhận kiểm định điện tử từ 1.3",
+      "link": "https://thanhnien.vn/cach-tra-cuu-giay-chung-nhan-kiem-dinh-dien-tu-tu-13-18526030111412793.htm",
+      "summary": "Từ ngày 1.3, các cơ sở đăng kiểm xe cơ giới trên toàn quốc sẽ thực hiện cấp giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường bản điện tử cho phương tiện có kết quả kiểm định đạt yêu cầu để tham gia giao thông đường bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:12:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669308+07:00"
+    },
+    {
+      "id": "906cdbbe8c50d45ec899f33a2ce04564",
+      "title": "Thu phí 5 tuyến cao tốc Bắc - Nam từ ngày mai 2.3",
+      "link": "https://thanhnien.vn/thu-phi-5-tuyen-cao-toc-bac-nam-tu-ngay-mai-23-18526030111292761.htm",
+      "summary": "Cục Đường bộ Việt Nam cho biết, 5 dự án cao tốc Bắc - Nam giai đoạn 2027 - 2020 được đầu tư bằng vốn ngân sách sẽ bắt đầu thu phí từ 22 giờ ngày mai 2.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:12:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669475+07:00"
+    },
+    {
+      "id": "6821759435bb242018f07aa8bd062be1",
+      "title": "Nguyên cục phó Cục Hàng không làm phó tổng giám đốc Bamboo Airways",
+      "link": "https://thanhnien.vn/nguyen-cuc-pho-cuc-hang-khong-lam-pho-tong-giam-doc-bamboo-airways-185260301120446167.htm",
+      "summary": "Hãng hàng không Bamboo Airways vừa chính thức công bố nghị quyết bổ nhiệm ông Võ Huy Cường, nguyên Cục phó Cục Hàng không giữ vị trí phó tổng giám đốc hãng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:11:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669633+07:00"
+    },
+    {
+      "id": "184ece2e5aa36bc3ae234c9911e9eb6f",
+      "title": "HIEUTHUHAI 'lột xác' thành tổng tài",
+      "link": "https://thanhnien.vn/hieuthuhai-lot-xac-thanh-tong-tai-1852603011240183.htm",
+      "summary": "Sự xuất hiện của HIEUTHUHAI tại Thái Lan mới đây được dân mạng quan tâm. Nam rapper gây chú ý bởi phong cách thời trang ấn tượng cùng ngoại hình điển trai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:10:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669786+07:00"
+    },
+    {
+      "id": "ce0fd46d9868e348f76fda6aa7abb3c2",
+      "title": "Kane nhắm kỷ lục một mùa Bundesliga của Lewandowski",
+      "link": "https://vnexpress.net/kane-nham-ky-luc-mot-mua-bundesliga-cua-lewandowski-5045218.html",
+      "summary": "Tiền đạo Harry Kane muốn phá kỷ lục ghi 41 bàn một mùa Bundesliga của Robert Lewandowski, sau khi lập cú đúp giúp Bayern thắng Dortmund 3-2 ở vòng 24 Bundesliga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T06:00:00+07:00",
+      "fetched": "2026-03-01T13:41:31.563814+07:00"
+    },
+    {
+      "id": "ce0fd46d9868e348f76fda6aa7abb3c2",
+      "title": "Kane nhắm kỷ lục một mùa Bundesliga của Lewandowski",
+      "link": "https://vnexpress.net/kane-nham-ky-luc-mot-mua-bundesliga-cua-lewandowski-5045218.html",
+      "summary": "Tiền đạo Harry Kane muốn phá kỷ lục ghi 41 bàn một mùa Bundesliga của Robert Lewandowski, sau khi lập cú đúp giúp Bayern thắng Dortmund 3-2 ở vòng 24 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T06:00:00+07:00",
+      "fetched": "2026-03-01T13:41:42.019960+07:00"
+    },
+    {
+      "id": "14944b538844ed032f843ddb37f794b6",
+      "title": "Bị kiện vì nhặt được điện thoại, giấu 4 tháng không trả",
+      "link": "https://vnexpress.net/bi-kien-vi-nhat-duoc-dien-thoai-giau-4-thang-khong-tra-5045288.html",
+      "summary": "Khi chủ nhân chiếc điện thoại tìm đến tận nhà qua định vị Wi-Fi, bà Lý nói \"tình cờ nhặt được và giúp giữ gìn\", muốn lấy lại phải trả phí bảo quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:56:11+07:00",
+      "fetched": "2026-03-01T13:41:31.563973+07:00"
+    },
+    {
+      "id": "da65453532d628e4bf7fd4239e14fab8",
+      "title": "83 chuyến bay bị ảnh hưởng bởi flycam trong một tuần",
+      "link": "https://vnexpress.net/83-chuyen-bay-bi-anh-huong-boi-flycam-trong-mot-tuan-5045269.html",
+      "summary": "Trong một tuần nghỉ Tết, 83 chuyến bay đến và đi từ Đà Nẵng bị ảnh hưởng do flycam xâm nhập trái phép khu vực sân bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:54:51+07:00",
+      "fetched": "2026-03-01T13:41:31.564148+07:00"
+    },
+    {
+      "id": "f316def990540694368047e0c09e5e98",
+      "title": "Người vợ giúp cảnh sát bắt gã chồng dụ dỗ thiếu nữ trên mạng",
+      "link": "https://vnexpress.net/nguoi-vo-giup-canh-sat-bat-ga-chong-du-do-thieu-nu-tren-mang-5045289.html",
+      "summary": "Bắt quả tang chồng nhắn tin tán tỉnh thiếu nữ 15 tuổi, người vợ báo cảnh sát và trợ giúp họ bắt giữ anh ta về tội dụ dỗ trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:50:37+07:00",
+      "fetched": "2026-03-01T13:41:31.564308+07:00"
+    },
+    {
+      "id": "ce0a4a5879712146209383aebd490932",
+      "title": "Kỷ nguyên AI trong túi mỗi người",
+      "link": "https://thanhnien.vn/ky-nguyen-ai-trong-tui-moi-nguoi-185260228225549022.htm",
+      "summary": "Khi các con chip di động đủ mạnh để xử lý các mô hình tính toán phức tạp, nhà sản xuất di động dịch chuyển từ smartphone sang AI Phone, tương lai AI trong túi người dùng đã thành hiện thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:48:00+07:00",
+      "fetched": "2026-03-01T13:41:34.669939+07:00"
+    },
+    {
+      "id": "80ba93e84c6873cd37f7501b2f92b06c",
+      "title": "'Mẹ mìn' sa lưới sau 15 năm trốn truy nã",
+      "link": "https://vnexpress.net/me-min-sa-luoi-sau-15-nam-tron-truy-na-5045286.html",
+      "summary": "Nguyễn Thị Sâm, 58 tuổi, sau hơn 15 năm trốn truy nã vì lừa bán 5 trẻ em sang Trung Quốc làm vợ, bị bắt khi đang lẩn trốn tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:44:42+07:00",
+      "fetched": "2026-03-01T13:41:31.564463+07:00"
+    },
+    {
+      "id": "dc4b6bfa595412a40572122c22f94ce4",
+      "title": "Gần 1.000 người Hoa hóa trang diễu hành ở TP HCM",
+      "link": "https://vnexpress.net/gan-1-000-nguoi-hoa-hoa-trang-dieu-hanh-o-tp-hcm-5045250.html",
+      "summary": "Đoàn người rước tượng Quan Công hoá trang thành tiên nữ, Thần Tài, quân lính, ngựa xích thố, diễu hành quanh Chợ Lớn sáng 1/3 (13 tháng Giêng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:43:45+07:00",
+      "fetched": "2026-03-01T13:41:31.564622+07:00"
+    },
+    {
+      "id": "662b90f7f5326af7292ea81fb948ef58",
+      "title": "Tình cảm sứt mẻ vì cưới lúc vàng chỉ 40 triệu đồng một lượng",
+      "link": "https://vnexpress.net/tinh-cam-sut-me-vi-cuoi-luc-vang-chi-40-trieu-dong-mot-luong-5045280.html",
+      "summary": "Nếu quay lại thời điểm làm đám cưới, chắc chắn tôi sẽ từ chối nhận quà cưới bằng vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:34:44+07:00",
+      "fetched": "2026-03-01T13:41:31.564785+07:00"
+    },
+    {
+      "id": "96253c42edf5a48d6b1aea74423c7162",
+      "title": "Thủ tướng Phạm Minh Chính: Trân trọng kế thừa, phát huy di sản của Thủ tướng Phạm Văn Đồng",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-tran-trong-ke-thua-phat-huy-di-san-cua-thu-tuong-pham-van-dong-185260301114955555.htm",
+      "summary": "Thủ tướng Phạm Minh Chính dự lễ dâng hương tưởng niệm 120 năm ngày sinh Thủ tướng Phạm Văn Đồng, tri ân nhà lãnh đạo tận trung với Đảng, tận hiếu với dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:33:00+07:00",
+      "fetched": "2026-03-01T13:41:34.670091+07:00"
+    },
+    {
       "id": "90e67e89e5322db19dd08e8f03620901",
       "title": "Thủ tướng Israel: Lãnh tụ tối cao Iran 'có dấu hiệu không còn sống'",
       "link": "https://tuoitre.vn/thu-tuong-israel-lanh-tu-toi-cao-iran-co-dau-hieu-khong-con-song-2026030102514703.htm",
@@ -323,6 +643,26 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T12:16:07.112622+07:00"
     },
     {
+      "id": "c934859bfa885648aa7e6c787489365d",
+      "title": "Những ứng viên có thể kế nhiệm Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/nhung-ung-vien-co-the-ke-nhiem-lanh-tu-toi-cao-iran-5045227.html",
+      "summary": "5 giáo sĩ nổi tiếng được coi là những ứng viên hàng đầu kế nhiệm ông Khamenei, sau khi Lãnh tụ Tối cao Iran thiệt mạng trong đòn không kích của Mỹ, Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:11:41+07:00",
+      "fetched": "2026-03-01T13:41:31.564947+07:00"
+    },
+    {
+      "id": "c934859bfa885648aa7e6c787489365d",
+      "title": "Những ứng viên có thể kế nhiệm Lãnh tụ Tối cao Iran",
+      "link": "https://vnexpress.net/nhung-ung-vien-co-the-ke-nhiem-lanh-tu-toi-cao-iran-5045227.html",
+      "summary": "5 giáo sĩ nổi tiếng được coi là những ứng viên hàng đầu kế nhiệm ông Khamenei, sau khi Lãnh tụ Tối cao Iran thiệt mạng trong đòn không kích của Mỹ, Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T05:11:41+07:00",
+      "fetched": "2026-03-01T13:41:37.406714+07:00"
+    },
+    {
       "id": "0f8345a7913a5dc5ae54a538fc7aa9be",
       "title": "Vóc dáng bình thường vẫn mắc tiểu đường: Đừng chủ quan!",
       "link": "https://thanhnien.vn/voc-dang-binh-thuong-van-mac-tieu-duong-dung-chu-quan-185260301121101307.htm",
@@ -331,6 +671,16 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T05:10:00+07:00",
       "fetched": "2026-03-01T12:16:07.112790+07:00"
+    },
+    {
+      "id": "bce3d34fc198e0dc7842f2a99f101ef3",
+      "title": "Sử dụng chai xịt vết thương khi nào để hạn chế nhiễm trùng, sẹo xấu?",
+      "link": "https://thanhnien.vn/su-dung-chai-xit-vet-thuong-khi-nao-de-han-che-nhiem-trung-seo-xau-185260301122701367.htm",
+      "summary": "Trong cuộc sống bận rộn, vết thương hở từ vết cắt nhỏ, bỏng nhẹ hay sau phẫu thuật là chuyện thường gặp. Nếu không xử lý đúng, chúng dễ nhiễm trùng, viêm kéo dài và để lại sẹo xấu ảnh hưởng thẩm mỹ. Chai xịt vết thương hở chính là sản phẩm hiện đại giúp tạo lớp bảo vệ, hỗ trợ thúc đẩy lành nhanh và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:10:00+07:00",
+      "fetched": "2026-03-01T13:41:34.670417+07:00"
     },
     {
       "id": "1215c45722d43731c042b36146b0303f",
@@ -343,6 +693,16 @@ window.newsData_2026_03_01 = {
       "fetched": "2026-03-01T12:16:07.112950+07:00"
     },
     {
+      "id": "af8b041e4a70623410b802aa56e3c5f8",
+      "title": "Ngọa Vân - nơi lưu giữ tư tưởng Thiền phái Trúc Lâm",
+      "link": "https://vnexpress.net/ngoa-van-noi-luu-giu-tu-tuong-thien-phai-truc-lam-5045279.html",
+      "summary": "Chùa Ngọa Vân là nơi Phật hoàng Trần Nhân Tông hoàn tất hành trình tu hành từ ngai vàng đến đài sen, kết tinh trọn vẹn tư tưởng của Thiền phái Trúc Lâm Yên Tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:00:30+07:00",
+      "fetched": "2026-03-01T13:41:31.565122+07:00"
+    },
+    {
       "id": "3990560295530ad58d538cbad0cab62d",
       "title": "Cardigan, thiết kế áo khoác mỏng hữu dụng lúc giao mùa",
       "link": "https://thanhnien.vn/thoi-trang-tre/cardigan-thiet-ke-ao-khoac-mong-huu-dung-luc-giao-mua-185260227145454448.htm",
@@ -351,6 +711,46 @@ window.newsData_2026_03_01 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T05:00:00+07:00",
       "fetched": "2026-03-01T12:16:07.113127+07:00"
+    },
+    {
+      "id": "e53e723ca02b126e7bb291d928ef7124",
+      "title": "Gia đình có điều kiện nhưng mẹ xin làm bảo vệ, bắt cả bố đi làm",
+      "link": "https://vnexpress.net/phung-duong-bo-me-gia-dinh-co-dieu-kien-nhung-me-xin-lam-bao-ve-bat-ca-bo-di-lam-5045226.html",
+      "summary": "Mẹ tôi 55 tuổi, cả bố mẹ tôi đều là cán bộ về hưu sớm nhưng lương hưu khá ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:00:00+07:00",
+      "fetched": "2026-03-01T13:41:31.565279+07:00"
+    },
+    {
+      "id": "7278c770247f29e71c64530f3edeb3ca",
+      "title": "Nữ sinh ngưng tim sau 31 tiếng ngồi tàu ghế cứng",
+      "link": "https://vnexpress.net/nu-sinh-ngung-tim-sau-31-tieng-ngoi-tau-ghe-cung-5045054.html",
+      "summary": "Nữ sinh 19 tuổi đột ngột ngưng tim ngay trên sân ga ở Quảng Đông, Trung Quốc, do mắc \"hội chứng khoang phổ thông\" sau hành trình 31 tiếng ngồi tàu hỏa ghế cứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:00:00+07:00",
+      "fetched": "2026-03-01T13:41:31.565440+07:00"
+    },
+    {
+      "id": "bb3e35644c513b1e2bce7b1acd6448af",
+      "title": "Quốc gia duy nhất Đông Nam Á có dân số dưới 1 triệu người?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-quoc-gia-duy-nhat-dong-nam-a-co-dan-so-duoi-1-trieu-nguoi-5044557.html",
+      "summary": "Nước này có dân số khoảng 469.775 người, ít nhất trong 11 quốc gia Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:00:00+07:00",
+      "fetched": "2026-03-01T13:41:31.565600+07:00"
+    },
+    {
+      "id": "de3bfa3ba32cf5d3f57772e539257c5f",
+      "title": "Nguyên nhân khiến hai bên mí mắt không đều",
+      "link": "https://vnexpress.net/nguyen-nhan-khien-hai-ben-mi-mat-khong-deu-5045152.html",
+      "summary": "Phần lớn trường hợp mí mắt không đều do bất đối xứng sinh lý hoặc lão hóa, song đôi khi đây có thể là dấu hiệu của một bệnh lý tiềm ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T05:00:00+07:00",
+      "fetched": "2026-03-01T13:41:31.565753+07:00"
     },
     {
       "id": "e9f885632f29f6e6f74667cd3c172160",
