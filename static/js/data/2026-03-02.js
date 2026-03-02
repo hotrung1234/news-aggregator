@@ -1,7 +1,157 @@
 window.newsData_2026_03_02 = {
   "date": "2026-03-02",
-  "lastUpdated": "2026-03-02T05:20:42.775020+07:00",
+  "lastUpdated": "2026-03-02T08:53:53.835247+07:00",
   "articles": [
+    {
+      "id": "641bac113510868ea615fb6520729c49",
+      "title": "Thỏ ơi!! thu gần 400 tỉ đồng, liệu có vượt qua nổi Mai?",
+      "link": "https://tuoitre.vn/tho-oi-thu-gan-400-ti-dong-lieu-co-vuot-qua-noi-mai-20260301211221166.htm",
+      "summary": "Trong khi Thỏ ơi!! vẫn giữ vững ngôi vương với tốc độ tăng trưởng ấn tượng, phần còn lại của đường đua phòng vé chứng kiến cuộc cạnh tranh gay gắt giữa các phim Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501730+07:00",
+      "fetched": "2026-03-02T08:53:47.501839+07:00"
+    },
+    {
+      "id": "d5d977e7d7f7ee81aa2804a05c5574c4",
+      "title": "Một đội bóng dự giải châu Á cao trung bình chưa đến 1m50",
+      "link": "https://tuoitre.vn/mot-doi-bong-du-giai-chau-a-cao-trung-binh-chua-den-1m50-2026030123154717.htm",
+      "summary": "Khi Liên đoàn Bóng đá châu Á công bố chiều cao trung bình của các đội dự Giải vô địch bóng đá nữ châu Á 2026, Bangladesh khiến cho nhiều người hâm mộ phải ngỡ ngàng vì thể hình quá mức thấp bé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501605+07:00",
+      "fetched": "2026-03-02T08:53:47.501718+07:00"
+    },
+    {
+      "id": "dfb38588097d0b0b10b88e95239a2f43",
+      "title": "Xe máy điện Yadea Osta chốt giá ngang Honda Vision, chạy tới 181km/sạc, nhiều công nghệ giống ô tô",
+      "link": "https://tuoitre.vn/xe-may-dien-yadea-osta-chot-gia-ngang-honda-vision-chay-toi-181km-sac-nhieu-cong-nghe-giong-o-to-20260301172915204.htm",
+      "summary": "Yadea Osta hiện là mẫu xe cao cấp nhất của thương hiệu Trung Quốc này, được trang bị nhiều tính năng vốn hiếm gặp trong phân khúc xe máy điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501476+07:00",
+      "fetched": "2026-03-02T08:53:47.501594+07:00"
+    },
+    {
+      "id": "ee6265eb0937a857b983fcc64f020e34",
+      "title": "Cuối tuần về nhà ở quê nghỉ ngơi, có phải đăng ký tạm trú?",
+      "link": "https://tuoitre.vn/cuoi-tuan-ve-nha-o-que-nghi-ngoi-co-phai-dang-ky-tam-tru-20260301232857155.htm",
+      "summary": "Tôi có căn nhà ở Tây Ninh, thứ bảy và chủ nhật về đây ở. Vậy có phải đăng ký tạm trú hoặc thông báo cư trú cho công an cấp xã không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501333+07:00",
+      "fetched": "2026-03-02T08:53:47.501459+07:00"
+    },
+    {
+      "id": "d9ad12a82df1fb6913d4778945c0b34d",
+      "title": "Khám phá 'siêu nhà máy sữa' Vinamilk: Điểm sáng phát triển bền vững",
+      "link": "https://tuoitre.vn/kham-pha-sieu-nha-may-sua-vinamilk-diem-sang-phat-trien-ben-vung-20260213105223042.htm",
+      "summary": "Nhà máy Sữa Việt Nam (Nhà máy Mega) của Vinamilk như một hình mẫu tiêu biểu về việc ứng dụng công nghệ hiện đại để hiện thực hóa cam kết giảm phát thải, tiến đến phát thải ròng bằng 0 (net zero) vào 2050.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501208+07:00",
+      "fetched": "2026-03-02T08:53:47.501322+07:00"
+    },
+    {
+      "id": "d9742425467fc28bf44e5350157b6905",
+      "title": "SME Forum 2026: Bàn cách tạo ‘sức bật’ mới cho doanh nghiệp",
+      "link": "https://tuoitre.vn/sme-forum-2026-ban-cach-tao-suc-bat-moi-cho-doanh-nghiep-20260228170759079.htm",
+      "summary": "Trong bối cảnh biên lợi nhuận thu hẹp, tiêu chuẩn vận hành ngày càng cao và áp lực cạnh tranh gia tăng, SME Forum 2026 được tổ chức với trọng tâm thảo luận về quản trị và thực thi, yếu tố được xem là quyết định khả năng tăng trưởng của doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.501080+07:00",
+      "fetched": "2026-03-02T08:53:47.501192+07:00"
+    },
+    {
+      "id": "85bad9aa3659811d75c6300d1a26b5f1",
+      "title": "Đọc nhanh 2-3: Vàng bạc cùng giá dầu tăng vọt, thấp thỏm chứng khoán trong nước",
+      "link": "https://tuoitre.vn/doc-nhanh-2-3-vang-bac-cung-gia-dau-tang-vot-thap-thom-chung-khoan-trong-nuoc-20260302064423285.htm",
+      "summary": "Tác động tâm lý từ các diễn biến quân sự cùng với nhu cầu trú ẩn tài sản an toàn đã đẩy giá vàng bạc, dầu bùng nổ ngay khi giao dịch mở cửa trở lại sau kỳ nghỉ cuối tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500958+07:00",
+      "fetched": "2026-03-02T08:53:47.501069+07:00"
+    },
+    {
+      "id": "73754b5979d332c14f37213508a8cacc",
+      "title": "Nổ lốp, xe khách giường nằm cháy dữ dội giữa đường tránh Đông Đắk Lắk",
+      "link": "https://tuoitre.vn/no-lop-xe-khach-giuong-nam-chay-du-doi-giua-duong-tranh-dong-dak-lak-20260302071139244.htm",
+      "summary": "Một xe khách bốc cháy dữ dội trên đường tránh phía Đông tỉnh Đắk Lắk nhưng may mắn toàn bộ người trên xe đều an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500834+07:00",
+      "fetched": "2026-03-02T08:53:47.500946+07:00"
+    },
+    {
+      "id": "7f4b909b01b3b1a2ea298219e6931acf",
+      "title": "Chứng khoán tuần mới: VN-Index liệu có giữ được quán tính tăng điểm sau Tết?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-vn-index-lieu-co-giu-duoc-quan-tinh-tang-diem-sau-tet-20260302045525844.htm",
+      "summary": "Sau tuần bứt phá hơn 56 điểm và áp sát vùng 1.900 điểm, VN-Index đang đối mặt đồng thời với lực chốt lời ngắn hạn và những biến số vĩ mô mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500710+07:00",
+      "fetched": "2026-03-02T08:53:47.500823+07:00"
+    },
+    {
+      "id": "68eaf7e4aaf1b24ce7d656d7495698ed",
+      "title": "Khao khát phục thù của làng cờ Trung Quốc giúp Lại Lý Huynh... phát tài",
+      "link": "https://tuoitre.vn/khao-khat-phuc-thu-cua-lang-co-trung-quoc-giup-lai-ly-huynh-phat-tai-20260301222501514.htm",
+      "summary": "Chỉ trong vòng 2 tháng đầu năm 2026, Lại Lý Huynh đã gặt hái số tiền thưởng lên đến mức tỉ đồng nhờ tham dự các giải đấu do Trung Quốc tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500580+07:00",
+      "fetched": "2026-03-02T08:53:47.500699+07:00"
+    },
+    {
+      "id": "7a6591d09f6c0a24a852c31719ef9eb7",
+      "title": "Cẩn trọng những ‘mẹo dân gian’ biến vết thương nhẹ thành nhiễm trùng nặng",
+      "link": "https://tuoitre.vn/can-trong-nhung-meo-dan-gian-bien-vet-thuong-nhe-thanh-nhiem-trung-nang-2026030116265101.htm",
+      "summary": "Nhiều người vẫn giữ thói quen tự ý đắp lá, bôi thuốc không rõ nguồn gốc mỗi khi sưng đau do chấn thương. Tuy nhiên, hành động tưởng chừng vô hại này có thể dẫn đến những hậu quả khôn lường, thậm chí là hoại tử chi hoặc nhiễm khuẩn huyết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500427+07:00",
+      "fetched": "2026-03-02T08:53:47.500567+07:00"
+    },
+    {
+      "id": "15a8eae595e9ca26714b59914c10d1f8",
+      "title": "Căng thẳng Mỹ - Iran: Chứng khoán trong nước chịu tác động ra sao?",
+      "link": "https://tuoitre.vn/cang-thang-my-iran-chung-khoan-trong-nuoc-chiu-tac-dong-ra-sao-20260302040643818.htm",
+      "summary": "Chứng khoán Việt Nam có thể chịu áp lực tâm lý ngắn hạn cùng sự phân hóa mạnh giữa các nhóm ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500299+07:00",
+      "fetched": "2026-03-02T08:53:47.500415+07:00"
+    },
+    {
+      "id": "afdb52fd9a766d873d03cd9d933b4d4e",
+      "title": "Chiến sự Iran: Tàn cuộc sẽ ra sao?",
+      "link": "https://tuoitre.vn/chien-su-iran-tan-cuoc-se-ra-sao-2026030200442433.htm",
+      "summary": "Mỹ - Israel khai hỏa tiêu diệt giới lãnh đạo Iran, thế trận sơ bộ rõ ràng, nhưng kịch bản tàn cuộc vẫn chưa rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500163+07:00",
+      "fetched": "2026-03-02T08:53:47.500287+07:00"
+    },
+    {
+      "id": "c8accf80325b3eca5aa640d79ab8585a",
+      "title": "Tuyển sinh 2026 nhiều đổi mới, 600 gian tư vấn giải đáp 'nóng' ngày 8-3",
+      "link": "https://tuoitre.vn/tuyen-sinh-2026-nhieu-doi-moi-600-gian-tu-van-giai-dap-nong-ngay-8-3-20260302074019662.htm",
+      "summary": "Quy chế tuyển sinh đại học 2026 nhiều thay đổi, 600 gian tư vấn tại TP.HCM và Hà Nội sẵn sàng giải đáp những thắc mắc 'nóng' của học sinh, phụ huynh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.500005+07:00",
+      "fetched": "2026-03-02T08:53:47.500150+07:00"
+    },
+    {
+      "id": "77a2aa49b4562bf9ea1ef2e90fa0002d",
+      "title": "Ngôi nhà tiết kiệm năng lượng xây dựng từ vật liệu tái chế",
+      "link": "https://tuoitre.vn/ngoi-nha-tiet-kiem-nang-luong-xay-dung-tu-vat-lieu-tai-che-20260301181254979.htm",
+      "summary": "Ngôi nhà tiết kiệm đến 90% năng lượng so với nhà tiêu chuẩn được xây dựng bằng các phụ kiện và vật liệu tái chế từ một thư viện và sân chơi bowling.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T08:53:47.499759+07:00",
+      "fetched": "2026-03-02T08:53:47.499990+07:00"
+    },
     {
       "id": "688fbd5b3a7b288c156f384f328b4ce9",
       "title": "Israel thả 2.000 quả bom xuống Iran, Mỹ cho máy bay tàng hình B-2 tham chiến",
@@ -71,6 +221,56 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-02T03:23:20.891758+07:00",
       "fetched": "2026-03-02T03:23:20.891968+07:00"
+    },
+    {
+      "id": "99d4b7e52e6f5501db50122904ff9b1c",
+      "title": "Khốn khổ sống cạnh bãi rác Đông Nam",
+      "link": "https://thanhnien.vn/khon-kho-song-canh-bai-rac-dong-nam-185260301163301153.htm",
+      "summary": "Khu xử lý rác thải Đông Nam (P.Đông Quang, Thanh Hóa) - khu xử lý rác thải lớn nhất tỉnh Thanh Hóa, gây mùi hôi thối, ruồi nhặng bu kín nhà khiến hàng ngàn người dân sống xung quanh rơi vào tình trạng cùng cực, \"đi không nổi, ở không xong\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:52:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529161+07:00"
+    },
+    {
+      "id": "15e46cd662017eb90c34f53368229d4b",
+      "title": "Giá vàng hôm nay 2.3.2026: Tăng mạnh ngay khi mở cửa thị trường",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-232026-tang-manh-ngay-khi-mo-cua-thi-truong-185260302082919716.htm",
+      "summary": "Giá vàng thế giới tăng mạnh trước những xung đột ở Trung Đông. Giá vàng trong nước cũng đã tăng thêm 1,5 - 1,6 triệu đồng mỗi lượng trong ngày đầu tháng 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:39:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529338+07:00"
+    },
+    {
+      "id": "aea7a8d180e94abe8da7daf5e0ed40f2",
+      "title": "Đề xuất địa điểm tìm kiếm mới cho chuyến bay MH370 mất tích",
+      "link": "https://thanhnien.vn/de-xuat-dia-diem-tim-kiem-moi-cho-chuyen-bay-mh370-mat-tich-185260301095108359.htm",
+      "summary": "Một địa điểm tìm kiếm khả thi mới cho chuyến bay MH370 mất tích của hãng hàng không Malaysia Airlines đã được đề xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:36:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529519+07:00"
+    },
+    {
+      "id": "ad173918b2bcdeac128d31c0ca394b80",
+      "title": "Giá xăng dầu hôm nay 2.3.2026: Tăng gần 10%, hướng đến mốc 80 USD/thùng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-232026-tang-gan-10-huong-den-moc-80-usd-thung-18526030208231973.htm",
+      "summary": "Giá dầu thế giới biến động mạnh, các nhà phân tích dự báo có thể vọt lên 100 USD/thùng sau khi Mỹ và Israel tấn công quân sự nhằm vào Iran. Trong nước, giá xăng dầu tại kỳ điều hành tuần này dự báo tăng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:34:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529675+07:00"
+    },
+    {
+      "id": "6768c784cd31402a4aaaad75c641b3d1",
+      "title": "Giá USD hôm nay 2.3.2026: Biến động trái chiều",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-232026-bien-dong-trai-chieu-18526030208090009.htm",
+      "summary": "Giá USD trong nước biến động trái chiều dù thế giới gia tăng trước nhu cầu tích lũy tài sản an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:33:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529825+07:00"
     },
     {
       "id": "62fcd2e20f86d15687dfb3e89e1ac156",
@@ -223,6 +423,376 @@ window.newsData_2026_03_02 = {
       "fetched": "2026-03-02T01:29:29.243929+07:00"
     },
     {
+      "id": "11886f0c85f58c3b5d13f8e511bdcd92",
+      "title": "Phán quyết của CAS: FAM nắm chắc phần thua, 7 cầu thủ nhập tịch lậu còn chờ",
+      "link": "https://thanhnien.vn/phan-quyet-cua-cas-fam-nam-chac-phan-thua-7-cau-thu-nhap-tich-lau-con-cho-185260302081126945.htm",
+      "summary": "Thêm luật sư luật thể thao Malaysia, ông Syed Nur Aiman Syed Abdul Hamid vừa khẳng định FAM đã nắm chắc phần thua, trong khi 7 cầu thủ nhập tịch 'lậu' chỉ hy vọng mong manh được giảm án phạt trước thời điểm CAS ra phán quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:25:00+07:00",
+      "fetched": "2026-03-02T08:53:46.529975+07:00"
+    },
+    {
+      "id": "e47717a3aede7b0f3803bc9f98c9ee36",
+      "title": "Giá heo hơi hôm nay 2.3.2026: Về dưới 70.000 đồng/kg",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-232026-ve-duoi-70000-dong-kg-185260302080037863.htm",
+      "summary": "Giá heo hơi liên tục giảm trong suốt tuần qua và dự báo xu hướng giảm giá vẫn còn tiếp diễn trong tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:18:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530131+07:00"
+    },
+    {
+      "id": "c6175b9064e268d68e0edd51b4f75e25",
+      "title": "iPhone 18 Pro có thể trở thành 'vũ khí' mới của giới sáng tạo",
+      "link": "https://thanhnien.vn/iphone-18-pro-co-the-tro-thanh-vu-khi-moi-cua-gioi-sang-tao-185260225134449788.htm",
+      "summary": "Apple đang hướng tới việc biến dòng iPhone Pro thành chiếc điện thoại lý tưởng cho các nhà sáng tạo, bắt đầu với iPhone 18 Pro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:16:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530280+07:00"
+    },
+    {
+      "id": "9bd097657128feb8a2326e54f8991588",
+      "title": "Xe giường nằm 38 chỗ, nhưng chở tới 53 khách",
+      "link": "https://vnexpress.net/xe-giuong-nam-38-cho-nhung-cho-toi-53-khach-5045453.html",
+      "summary": "Xe khách 38 chỗ chở 53 người bị CSGT Đà Nẵng lập biên bản, yêu cầu sang tải hành khách vì vi phạm quy định an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:08:20+07:00",
+      "fetched": "2026-03-02T08:53:43.715591+07:00"
+    },
+    {
+      "id": "e63b33332c03699ef0f2554bf71c79bf",
+      "title": "Chuyên gia giấc ngủ: Cách để ngủ trưa ngon hơn",
+      "link": "https://thanhnien.vn/chuyen-gia-giac-ngu-cach-de-ngu-trua-ngon-hon-185260301181119431.htm",
+      "summary": "Ngủ trưa đúng cách không chỉ tái tạo năng lượng mà còn tránh ảnh hưởng đến chất lượng giấc ngủ ban đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:07:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530432+07:00"
+    },
+    {
+      "id": "cf367bc98c42177e85bbfce1709c4a44",
+      "title": "Fulham 2-1 Tottenham",
+      "link": "https://vnexpress.net/fulham-2-1-tottenham-5045472.html",
+      "summary": "Nỗ lực trong hiệp hai cùng bàn gỡ của Richarlison không đủ giúp Tottenham đảo ngược tình thế sau hai bàn thua từ hiệp một trận vòng 28 Ngoại hạng Anh ngày 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:05:35+07:00",
+      "fetched": "2026-03-02T08:53:43.715773+07:00"
+    },
+    {
+      "id": "212d7c4f05913cc6cdfc07bb4a49e17d",
+      "title": "Brighton 2-1 Nottingham Forest",
+      "link": "https://vnexpress.net/brighton-2-1-nottingham-forest-5045471.html",
+      "summary": "Cả ba bàn đều được ghi trong 15 phút đầu trận, nhưng Nottingham không thể đảo ngược tình thế trước chủ nhà ở vòng 28 Ngoại hạng Anh ngày 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:03:28+07:00",
+      "fetched": "2026-03-02T08:53:43.715939+07:00"
+    },
+    {
+      "id": "7fc3a191641c2b9c840f9bdcc65654f1",
+      "title": "Cậu học trò hát khiến cả trường 'nổi da gà'",
+      "link": "https://vnexpress.net/cau-hoc-tro-hat-khien-ca-truong-noi-da-ga-5044796.html",
+      "summary": "Cậu học trò Trường THCS Phan Bội Châu 'đốt nóng' lễ chào cờ bằng màn trình diễn đầy cảm xúc bài hát 'Tiếng đàn Ta Lư'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:43.716100+07:00"
+    },
+    {
+      "id": "840ea0d403660b6b11e4aab0ffd12d32",
+      "title": "Rối loạn kinh nguyệt do béo phì",
+      "link": "https://vnexpress.net/roi-loan-kinh-nguyet-do-beo-phi-5045458.html",
+      "summary": "Cân nặng tăng nhanh khiến chị Giang, 26 tuổi, rối loạn nội tiết tố, 6 tháng có kinh một lần nhưng kéo dài hơn một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:43.716268+07:00"
+    },
+    {
+      "id": "de4d6c70062b16e82f43be2d0d68774b",
+      "title": "Newland USA tổ chức hội thảo EB-3 lao động tay nghề",
+      "link": "https://vnexpress.net/newland-usa-to-chuc-hoi-thao-eb-3-lao-dong-tay-nghe-5044816.html",
+      "summary": "Newland USA tổ chức hội thảo cập nhật chính sách di trú Mỹ và chương trình EB-3 dành cho lao động tay nghề, tại Sofitel Saigon Plaza, số 17 Lê Duẩn, TP HCM, sáng 14/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:43.716429+07:00"
+    },
+    {
+      "id": "7e6db9611127780d19722d18d1699553",
+      "title": "Nam chính 'Cảm ơn người đã thức cùng tôi': Làm bồi bàn, không dám ăn cơm 30 ngàn",
+      "link": "https://thanhnien.vn/nam-chinh-cam-on-nguoi-da-thuc-cung-toi-lam-boi-ban-khong-dam-an-com-30-ngan-185260301192917492.htm",
+      "summary": "Sau 8 năm bền bỉ theo đuổi nghệ thuật, Trần Doãn Hoàng chính thức chạm tay vào vai nam chính điện ảnh đầu tiên trong phim Cảm ơn người đã thức cùng tôi. Cột mốc này không chỉ đánh dấu bước trưởng thành trong diễn xuất mà còn mở ra chương mới cho sự nghiệp của anh sau quãng thời gian nhiều trăn trở, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530610+07:00"
+    },
+    {
+      "id": "876eb9c51f441d69df0075b9a3e1ed8c",
+      "title": "Biệt thự bán đảo lõi trung tâm, dấu ấn định danh của giới thượng lưu toàn cầu",
+      "link": "https://thanhnien.vn/biet-thu-ban-dao-loi-trung-tam-dau-an-dinh-danh-cua-gioi-thuong-luu-toan-cau-185260301192041264.htm",
+      "summary": "Với giới thượng lưu, nơi ở không được quyết định bởi khoảng cách hay tiện ích, mà bởi cách họ muốn sống mỗi ngày. Trung tâm đô thị chưa bao giờ là điều cần đánh đổi, mà là một điều kiện mặc định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530766+07:00"
+    },
+    {
+      "id": "a1f0b1aa79cdc248145891401421f32a",
+      "title": "Diện mạo mùa xuân tươi sáng từ chân váy dáng dài",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-mao-mua-xuan-tuoi-sang-tu-chan-vay-dang-dai-185260225154119128.htm",
+      "summary": "Từ những mẫu chân váy dáng dài bay bổng lãng mạn, nàng vẽ nên bức chân dung đầy sức sống, sự hứng khởi và tươi trẻ khi đi giữa mùa xuân 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T01:00:00+07:00",
+      "fetched": "2026-03-02T08:53:46.530914+07:00"
+    },
+    {
+      "id": "8f25d3cddf69f1bc441b5115f5f10459",
+      "title": "Campuchia thúc đẩy cắm mốc biên giới tạm với Thái Lan",
+      "link": "https://thanhnien.vn/campuchia-thuc-day-cam-moc-bien-gioi-tam-voi-thai-lan-185260302074817626.htm",
+      "summary": "Campuchia đề nghị Đoàn khảo sát chung Campuchia - Thái Lan tiếp tục lắp đặt các mốc biên giới tạm thời, trong khi Thái Lan cập nhật với nước chủ tịch luân phiên của ASEAN là Philippines về diễn biến về lệnh ngừng bắn với Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:59:00+07:00",
+      "fetched": "2026-03-02T08:53:46.531063+07:00"
+    },
+    {
+      "id": "4fc296d4570f5322e7baaab44d3a394b",
+      "title": "Man Utd 2-1 Crystal Palace",
+      "link": "https://vnexpress.net/man-utd-2-1-crystal-palace-5045466.html",
+      "summary": "Quả phạt đền của Bruno Fernandes rồi bàn của Benjamin Sesko giúp Man Utd thắng ngược 2-1 ở vòng 28 Ngoại hạng Anh ngày 1/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:56:19+07:00",
+      "fetched": "2026-03-02T08:53:43.716621+07:00"
+    },
+    {
+      "id": "2339e1e437b1f5541e6303a6a6f708d2",
+      "title": "300 triệu nên mua ôtô điện cũ nào?",
+      "link": "https://vnexpress.net/300-trieu-nen-mua-oto-dien-cu-nao-5045464.html",
+      "summary": "Tầm tiền này tôi muốn mua xe điện cũ đi lại trong nội đô phục vụ gia đình 4 người, xin hỏi tôi có những lựa chọn nào. (Anh Quân)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:51:07+07:00",
+      "fetched": "2026-03-02T08:53:43.716779+07:00"
+    },
+    {
+      "id": "b23783eacad902163c12b394b6cba784",
+      "title": "Người dân ở hẻm có địa chỉ tới 6 'xuyệt' nói gì khi TP.HCM số hóa số nhà?",
+      "link": "https://thanhnien.vn/nguoi-dan-o-hem-co-dia-chi-toi-6-xuyet-noi-gi-khi-tphcm-so-hoa-so-nha-185260301221244017.htm",
+      "summary": "Từ những địa chỉ dài tới 5–6 “xuyệt” được rút gọn còn 3 xuyệt, câu chuyện đánh số nhà tại TP.HCM đang bước sang một giai đoạn mới: số hóa và quản lý bằng công nghệ GIS dùng chung toàn thành phố. Chủ trương này được kỳ vọng chấm dứt cảnh “ma trận” số nhà, giúp người dân và cơ quan quản lý thuận tiện ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:51:00+07:00",
+      "fetched": "2026-03-02T08:53:46.531210+07:00"
+    },
+    {
+      "id": "be3085396e7e84cbf90ccdaa54372a73",
+      "title": "Thăm quê cụ Bảng Đôn",
+      "link": "https://thanhnien.vn/tham-que-cu-bang-don-185260301194541182.htm",
+      "summary": "Từng là học sinh, rồi giáo viên Trường PTTH chuyên Lê Quý Đôn (tỉnh Quảng Nam - Đà Nẵng trước đây, nay là TP.Đà Nẵng), tôi vốn đã ấp ủ mong muốn về đất học Hưng Hà (Thái Bình, nay là Hưng Yên) thăm quê hương nhà bác học được mệnh danh là 'túi khôn' của thời đại. Vậy mà đầu Xuân Bính Ngọ này mới thực...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:44:00+07:00",
+      "fetched": "2026-03-02T08:53:46.531359+07:00"
+    },
+    {
+      "id": "3903136748d757e837d1c01bcdaacfaa",
+      "title": "Xiaomi 17 - đối thủ của Galaxy S26 và iPhone 17",
+      "link": "https://vnexpress.net/xiaomi-17-doi-thu-cua-galaxy-s26-va-iphone-17-5045417.html",
+      "summary": "Xiaomi 17 mới ra mắt có ba camera do Leica phát triển và là smartphone đầu tiên tại Việt Nam dùng chip Snapdragon 8 Elite Gen 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:35:23+07:00",
+      "fetched": "2026-03-02T08:53:43.716941+07:00"
+    },
+    {
+      "id": "3903136748d757e837d1c01bcdaacfaa",
+      "title": "Xiaomi 17 - đối thủ của Galaxy S26 và iPhone 17",
+      "link": "https://vnexpress.net/xiaomi-17-doi-thu-cua-galaxy-s26-va-iphone-17-5045417.html",
+      "summary": "Xiaomi 17 mới ra mắt có ba camera do Leica phát triển và là smartphone đầu tiên tại Việt Nam dùng chip Snapdragon 8 Elite Gen 5.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-02T00:35:23+07:00",
+      "fetched": "2026-03-02T08:53:52.359299+07:00"
+    },
+    {
+      "id": "746542d0a41af5ffc9515e2f57e7c731",
+      "title": "Anh cho phép Mỹ dùng căn cứ để tấn công Iran",
+      "link": "https://vnexpress.net/anh-cho-phep-my-dung-can-cu-de-tan-cong-iran-5045438.html",
+      "summary": "Thủ tướng Starmer cho phép Mỹ dùng căn cứ Anh để thực hiện \"các đòn tấn công phòng vệ\" nhằm phá hủy tên lửa Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:22:37+07:00",
+      "fetched": "2026-03-02T08:53:43.717106+07:00"
+    },
+    {
+      "id": "746542d0a41af5ffc9515e2f57e7c731",
+      "title": "Anh cho phép Mỹ dùng căn cứ để tấn công Iran",
+      "link": "https://vnexpress.net/anh-cho-phep-my-dung-can-cu-de-tan-cong-iran-5045438.html",
+      "summary": "Thủ tướng Starmer cho phép Mỹ dùng căn cứ Anh để thực hiện \"các đòn tấn công phòng vệ\" nhằm phá hủy tên lửa Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-02T00:22:37+07:00",
+      "fetched": "2026-03-02T08:53:48.517507+07:00"
+    },
+    {
+      "id": "1861f93b3606bf204d3ff7d3ceb21276",
+      "title": "Giá vàng, dầu thế giới tăng vọt vì căng thẳng Trung Đông",
+      "link": "https://vnexpress.net/gia-vang-dau-the-gioi-tang-vot-vi-cang-thang-trung-dong-5045449.html",
+      "summary": "Mỗi ounce vàng tăng hơn 100 USD, trong khi giá dầu thế giới đắt thêm 9% vì diễn biến cuối tuần trước tại Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:22:03+07:00",
+      "fetched": "2026-03-02T08:53:43.717271+07:00"
+    },
+    {
+      "id": "1861f93b3606bf204d3ff7d3ceb21276",
+      "title": "Giá vàng, dầu thế giới tăng vọt vì căng thẳng Trung Đông",
+      "link": "https://vnexpress.net/gia-vang-dau-the-gioi-tang-vot-vi-cang-thang-trung-dong-5045449.html",
+      "summary": "Mỗi ounce vàng tăng hơn 100 USD, trong khi giá dầu thế giới đắt thêm 9% vì diễn biến cuối tuần trước tại Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-02T00:22:03+07:00",
+      "fetched": "2026-03-02T08:53:49.580681+07:00"
+    },
+    {
+      "id": "632498224782ac82f5a99476614fdb4a",
+      "title": "CEO Anthropic lên tiếng sau mâu thuẫn với Lầu Năm Góc",
+      "link": "https://vnexpress.net/ceo-anthropic-len-tieng-sau-mau-thuan-voi-lau-nam-goc-5045326.html",
+      "summary": "CEO Dario Amodei cho biết Anthropic đang thực hiện quyền tự do ngôn luận khi từ chối các điều khoản của Lầu Năm Góc về việc sử dụng AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:18:05+07:00",
+      "fetched": "2026-03-02T08:53:43.717432+07:00"
+    },
+    {
+      "id": "632498224782ac82f5a99476614fdb4a",
+      "title": "CEO Anthropic lên tiếng sau mâu thuẫn với Lầu Năm Góc",
+      "link": "https://vnexpress.net/ceo-anthropic-len-tieng-sau-mau-thuan-voi-lau-nam-goc-5045326.html",
+      "summary": "CEO Dario Amodei cho biết Anthropic đang thực hiện quyền tự do ngôn luận khi từ chối các điều khoản của Lầu Năm Góc về việc sử dụng AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-02T00:18:05+07:00",
+      "fetched": "2026-03-02T08:53:52.359125+07:00"
+    },
+    {
+      "id": "633b7c34fa2a5da361643f18c1f07d14",
+      "title": "Siêu phẩm tốc độ Bugatti W16 Mistral lấy cảm hứng từ ngọc trai",
+      "link": "https://vnexpress.net/sieu-pham-toc-do-bugatti-w16-mistral-lay-cam-hung-tu-ngoc-trai-5044651.html",
+      "summary": "Mẫu xe mui trần được đặt riêng thông qua bộ phận cá nhân hóa, mất 3 năm để phát triển và là chiếc duy nhất có lớp sơn trắng vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-02T00:00:00+07:00",
+      "fetched": "2026-03-02T08:53:43.717611+07:00"
+    },
+    {
+      "id": "c398d5e44d3c2af3c6230632d92cd268",
+      "title": "Khách Việt hoãn hủy tour đi Trung Đông vì lo sợ chiến sự",
+      "link": "https://vnexpress.net/khach-viet-hoan-huy-tour-di-trung-dong-vi-lo-so-chien-su-5045360.html",
+      "summary": "Nhiều công ty lữ hành liên tục nhận yêu cầu hoãn, hủy hoặc chuyển hướng tour đi Dubai và các nước lân cận trong tháng 3 và 4 do tình hình chiến sự tại khu vực gia tăng căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T23:30:00+07:00",
+      "fetched": "2026-03-02T08:53:43.717774+07:00"
+    },
+    {
+      "id": "195035b3117355708cb464717486b0de",
+      "title": "Ông Trump thề trả thù cho binh sĩ thiệt mạng trong xung đột với Iran",
+      "link": "https://vnexpress.net/ong-trump-the-tra-thu-cho-binh-si-thiet-mang-trong-xung-dot-voi-iran-5045434.html",
+      "summary": "Tổng thống Trump thừa nhận Mỹ có thể hứng chịu thêm thương vong trong chiến dịch nhằm vào Iran, tuyên bố sẽ trả thù cho những người đã thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-01T23:26:41+07:00",
+      "fetched": "2026-03-02T08:53:43.717934+07:00"
+    },
+    {
+      "id": "195035b3117355708cb464717486b0de",
+      "title": "Ông Trump thề trả thù cho binh sĩ thiệt mạng trong xung đột với Iran",
+      "link": "https://vnexpress.net/ong-trump-the-tra-thu-cho-binh-si-thiet-mang-trong-xung-dot-voi-iran-5045434.html",
+      "summary": "Tổng thống Trump thừa nhận Mỹ có thể hứng chịu thêm thương vong trong chiến dịch nhằm vào Iran, tuyên bố sẽ trả thù cho những người đã thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T23:26:41+07:00",
+      "fetched": "2026-03-02T08:53:48.517696+07:00"
+    },
+    {
+      "id": "678654f9bbfff0fdb1b565fe2be5c319",
+      "title": "Trận Messi so tài Yamal có thể bị hoãn vì bất ổn Trung Đông",
+      "link": "https://vnexpress.net/tran-messi-so-tai-yamal-co-the-bi-hoan-vi-bat-on-trung-dong-5045428.html",
+      "summary": "Trận Siêu Cup Liên lục địa giữa Argentina và Tây Ban Nha dự kiến diễn ra ngày 27/3 tại Doha rơi vào thế bất định, khi căng thẳng leo thang ở Trung Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T23:10:20+07:00",
+      "fetched": "2026-03-02T08:53:53.829647+07:00"
+    },
+    {
+      "id": "e024153980d691edc81ae2b92d55c0b4",
+      "title": "Usyk bảo vệ đai hạng nặng tại Kim tự tháp Ai Cập",
+      "link": "https://vnexpress.net/usyk-bao-ve-dai-hang-nang-tai-kim-tu-thap-ai-cap-5045334.html",
+      "summary": "Oleksandr Usyk sẽ bảo vệ đai WBC hạng nặng trước võ sĩ kickboxing người Hà Lan Rico Verhoeven tại quần thể Kim tự tháp Giza ngày 23/5.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T23:03:15+07:00",
+      "fetched": "2026-03-02T08:53:53.829815+07:00"
+    },
+    {
+      "id": "613d3fc4fd013cf61fbde8f903567bb6",
+      "title": "Carrick ca ngợi bản lĩnh Man Utd sau màn ngược dòng",
+      "link": "https://vnexpress.net/carrick-ca-ngoi-ban-linh-man-utd-sau-man-nguoc-dong-5045427.html",
+      "summary": "HLV Michael Carrick đặc biệt hài lòng với cách Man Utd phản ứng khi bị dẫn bàn để thắng ngược Crystal Palace 2-1 ở vòng 28 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T23:00:17+07:00",
+      "fetched": "2026-03-02T08:53:53.829975+07:00"
+    },
+    {
+      "id": "f1a7ff8a190b251858f719a5aa41d662",
+      "title": "Kinh tế Hà Nội sẽ phát triển ra sao tới 2045?",
+      "link": "https://vnexpress.net/kinh-te-ha-noi-se-phat-trien-ra-sao-toi-2045-5043663.html",
+      "summary": "Hà Nội lên kế hoạch duy trì tăng trưởng hai chữ số trong 2 thập kỷ tới, với mục tiêu GRDP bình quân đạt 44.300 USD vào 2045 - gấp hơn 6 lần hiện tại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T23:00:00+07:00",
+      "fetched": "2026-03-02T08:53:49.580855+07:00"
+    },
+    {
+      "id": "b9a978ea21be3a897a69eea7b5276130",
+      "title": "HLV Rosenior thừa nhận Chelsea có vấn đề kỷ luật nghiêm trọng",
+      "link": "https://vnexpress.net/hlv-rosenior-thua-nhan-chelsea-co-van-de-ky-luat-nghiem-trong-5045431.html",
+      "summary": "HLV Liam Rosenior thừa nhận cần sớm giải quyết vấn đề kỷ luật \"ăn sâu\" trong nội bộ, khi Chelsea mất Pedro Neto trong trận thua Arsenal 1-2 ở vòng 28 Ngoại hạng Anh và chạm mốc 10 thẻ đỏ mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T22:57:05+07:00",
+      "fetched": "2026-03-02T08:53:53.830129+07:00"
+    },
+    {
+      "id": "282b89eca8a5bb018595eff7c022dfc2",
+      "title": "Arteta thót tim với pha cứu thua phút bù của Raya",
+      "link": "https://vnexpress.net/arteta-thot-tim-voi-pha-cuu-thua-phut-bu-cua-raya-5045430.html",
+      "summary": "HLV Mikel Arteta thừa nhận đứng tim trước khi thủ thành David Raya bay người cản phá ở phút bù giờ, giúp Arsenal thắng Chelsea 2-1 ở vòng 28 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T22:52:44+07:00",
+      "fetched": "2026-03-02T08:53:53.829109+07:00"
+    },
+    {
+      "id": "adfcfa90f10b9fcaae47339f97788633",
+      "title": "Loạt vụ nổ tại căn cứ Mỹ ở Iraq",
+      "link": "https://vnexpress.net/iran-xac-nhan-them-7-chi-huy-quan-doi-thiet-mang-5045433.html",
+      "summary": "Nhiều tiếng nổ vang lên tại sân bay quốc tế Erbil ở miền bắc Iraq, nơi đặt căn cứ đồn trú của lực lượng Mỹ, chưa rõ thiệt hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-01T22:40:19+07:00",
+      "fetched": "2026-03-02T08:53:48.517867+07:00"
+    },
+    {
       "id": "5aadc072484d2ff3ffd363846a5ace77",
       "title": "Tử vi ngày 2 tháng 3: Con giáp nào may mắn hôm nay?",
       "link": "https://thanhnien.vn/tu-vi-ngay-2-thang-3-con-giap-nao-may-man-hom-nay-185260301222617488.htm",
@@ -231,6 +801,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T22:15:00+07:00",
       "fetched": "2026-03-02T05:20:35.483434+07:00"
+    },
+    {
+      "id": "d16b0f75d20a23aece24ac88684a7bc0",
+      "title": "Arsenal thắng Chelsea nhờ phạt góc",
+      "link": "https://vnexpress.net/arsenal-thang-chelsea-nho-phat-goc-5045432.html",
+      "summary": "Hai bàn của William Saliba và Jurrien Timber từ các quả phạt góc giúp Arsenal hạ Chelsea 2-1, ở vòng 28 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-01T22:10:37+07:00",
+      "fetched": "2026-03-02T08:53:53.829283+07:00"
     },
     {
       "id": "2a2c6ae8a386b0bd454fbf8687a1de07",
@@ -271,6 +851,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T22:00:00+07:00",
       "fetched": "2026-03-02T05:20:35.484105+07:00"
+    },
+    {
+      "id": "dcf6f7e54d57b69ebc4036e7fd90de10",
+      "title": "Áp lực điều chỉnh khi chứng khoán tiệm cận vùng 1.900 điểm",
+      "link": "https://vnexpress.net/ap-luc-dieu-chinh-khi-chung-khoan-tiem-can-vung-1-900-diem-5045378.html",
+      "summary": "VN-Index tiến gần vùng đỉnh 1.900 điểm, khiến thị trường chứng khoán xuất hiện áp lực điều chỉnh, đòi hỏi nhà đầu tư chọn lọc kỹ cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T22:00:00+07:00",
+      "fetched": "2026-03-02T08:53:49.581016+07:00"
     },
     {
       "id": "83b6dde4faead65b57b173a516724b51",
@@ -561,6 +1151,16 @@ window.newsData_2026_03_02 = {
       "category": "Tổng hợp",
       "published": "2026-03-01T17:02:00+07:00",
       "fetched": "2026-03-02T01:29:24.267969+07:00"
+    },
+    {
+      "id": "30dc2765e8fa52fede549ec9fee86601",
+      "title": "Nhà phân phối Connecticut lỗ chục triệu USD vì hoàn  vỏ chai",
+      "link": "https://vnexpress.net/nha-phan-phoi-connecticut-lo-chuc-trieu-usd-vi-hoan-vo-chai-5045268.html",
+      "summary": "Mức chênh lệch phí đặt cọc khiến nhiều người chở hàng tỷ vỏ chai từ các bang lân cận đổ về Connecticut kiếm lời, gây thiệt hại hàng chục triệu USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-01T17:01:00+07:00",
+      "fetched": "2026-03-02T08:53:49.581508+07:00"
     },
     {
       "id": "3d38ee471f77f58731c45bbb88c26b6b",
