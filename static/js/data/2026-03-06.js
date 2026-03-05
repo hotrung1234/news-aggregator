@@ -1,6 +1,6 @@
 window.newsData_2026_03_06 = {
   "date": "2026-03-06",
-  "lastUpdated": "2026-03-06T01:01:00.407624+07:00",
+  "lastUpdated": "2026-03-06T03:34:56.637078+07:00",
   "articles": [
     {
       "id": "f930c7b508e90f28acd459ef8bbe608e",
@@ -151,6 +151,36 @@ window.newsData_2026_03_06 = {
       "category": "Tổng hợp",
       "published": "2026-03-06T01:00:53.021040+07:00",
       "fetched": "2026-03-06T01:00:53.021206+07:00"
+    },
+    {
+      "id": "2c2e0508a76e54eff29e7174ef6457c8",
+      "title": "CAS xử FAM thua kiện FIFA",
+      "link": "https://thanhnien.vn/cas-xu-fam-thua-kien-fifa-18526030521334884.htm",
+      "summary": "Tối 5.3 (giờ VN), Tòa án Trọng tài thể thao (CAS) ra phán quyết cuối cùng về vụ bê bối nhập tịch 7 cầu thủ trái quy định của Liên đoàn Bóng đá Malaysia (FAM). FAM phải trả giá vì hành động của mình, còn các cầu thủ vẫn có cơ hội cứu vãn sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T20:00:00+07:00",
+      "fetched": "2026-03-06T03:34:27.786560+07:00"
+    },
+    {
+      "id": "051252dd7513563bd2670b731f88075a",
+      "title": "Xung đột địa chính trị ảnh hưởng ra sao tới giá vàng?",
+      "link": "https://vnexpress.net/xung-dot-dia-chinh-tri-anh-huong-ra-sao-toi-gia-vang-5046136.html",
+      "summary": "Chiến sự, trừng phạt hay căng thẳng toàn cầu thường khiến giá vàng biến động mạnh, nhưng liệu bạn hiểu cơ chế tác động này đến đâu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T18:54:30+07:00",
+      "fetched": "2026-03-06T03:34:23.645176+07:00"
+    },
+    {
+      "id": "051252dd7513563bd2670b731f88075a",
+      "title": "Xung đột địa chính trị ảnh hưởng ra sao tới giá vàng?",
+      "link": "https://vnexpress.net/xung-dot-dia-chinh-tri-anh-huong-ra-sao-toi-gia-vang-5046136.html",
+      "summary": "Chiến sự, trừng phạt hay căng thẳng toàn cầu thường khiến giá vàng biến động mạnh, nhưng liệu bạn hiểu cơ chế tác động này đến đâu?",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-05T18:54:30+07:00",
+      "fetched": "2026-03-06T03:34:32.173657+07:00"
     },
     {
       "id": "9493e8f4bf00f7d5a5341f4adb2e54af",
