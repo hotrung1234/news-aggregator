@@ -1,7 +1,157 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T17:36:20.739962+07:00",
+  "lastUpdated": "2026-03-05T19:54:38.109906+07:00",
   "articles": [
+    {
+      "id": "65a748b7be7b88908b35f3e1482e6fb7",
+      "title": "'Ẩm thực Anh đâu chỉ có cá và khoai chiên'",
+      "link": "https://tuoitre.vn/am-thuc-anh-dau-chi-co-ca-va-khoai-chien-20260305165510722.htm",
+      "summary": "Nhân dịp “Tuần lễ ẩm thực Anh”, hơn 100 sản phẩm chất lượng được giới thiệu tới người tiêu dùng Việt Nam, góp phần thay đổi những định kiến về ẩm thực xứ sở sương mù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264774+07:00",
+      "fetched": "2026-03-05T19:54:31.264864+07:00"
+    },
+    {
+      "id": "0a9241345e14af8f750613d7fe1f0824",
+      "title": "Vĩnh Long chuẩn bị gần 40.000m³ nước dự phòng để ứng phó xâm nhập mặn",
+      "link": "https://tuoitre.vn/vinh-long-chuan-bi-gan-40-000m3-nuoc-du-phong-de-ung-pho-xam-nhap-man-20260305151633959.htm",
+      "summary": "Dự kiến từ tháng 3 đến tháng 5-2026, nếu độ mặn vượt 2‰, tỉnh Vĩnh Long sẽ triển khai vận chuyển 39.800m³ nước thô bằng sà lan về 5 nhà máy xử lý, ứng phó nguy cơ xâm nhập mặn dẫn đến thiếu nước sinh hoạt nông thôn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264674+07:00",
+      "fetched": "2026-03-05T19:54:31.264766+07:00"
+    },
+    {
+      "id": "c531ac62dcc6ac3e57753607aaa4d74c",
+      "title": "Giám đốc Sở Xây dựng Trần Quang Lâm: Phát triển hạ tầng TP.HCM hiện đại, xứng tầm vị thế siêu đô thị",
+      "link": "https://tuoitre.vn/giam-doc-so-xay-tran-quang-lam-phat-trien-ha-tang-tp-hcm-hien-dai-xung-tam-vi-the-sieu-do-thi-2026030516562203.htm",
+      "summary": "Phát biểu tại buổi tiếp xúc cử tri, ông Trần Quang Lâm - Giám đốc Sở Xây dựng TP.HCM - cho biết thành phố đang bước vào giai đoạn đặc biệt khi đẩy nhanh tiến độ nhiều công trình hạ tầng giao thông, đô thị quy mô lớn, hiện đại, chưa từng có.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264571+07:00",
+      "fetched": "2026-03-05T19:54:31.264665+07:00"
+    },
+    {
+      "id": "95effbeea2d01cb583e1c8d691c7b32c",
+      "title": "Bí thư Thành ủy Trần Lưu Quang: Nghiên cứu cho 'nâng tầng' trong quy hoạch dự án Mả Lạng, Chợ Gạo",
+      "link": "https://tuoitre.vn/bi-thu-thanh-uy-tran-luu-quang-nghien-cuu-cho-nang-tang-trong-quy-hoach-du-an-ma-lang-cho-gao-20260305172205419.htm",
+      "summary": "Trước phản ánh của cử tri, Bí thư Trần Lưu Quang cho biết một trong những đau đáu lớn nhất của ông hiện nay là việc thực hiện dự án chỉnh trang hai khu Mả Lạng và Chợ Gạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264465+07:00",
+      "fetched": "2026-03-05T19:54:31.264562+07:00"
+    },
+    {
+      "id": "1c5adc7ec41771635b1374778e4a58c7",
+      "title": "Hòa Minzy, Soobin và Đình Bắc có điểm chung gì?",
+      "link": "https://tuoitre.vn/hoa-minzy-soobin-va-dinh-bac-co-diem-chung-gi-20260305164953995.htm",
+      "summary": "Hòa Minzy, Soobin và Đình Bắc đều là gương mặt nổi bật trong danh sách đề cử giải Cống hiến 2026 cùng DTAP, Hoàng Dũng, Hồ Hoài Anh, Nguyễn Văn Chung...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264355+07:00",
+      "fetched": "2026-03-05T19:54:31.264456+07:00"
+    },
+    {
+      "id": "2dccadb3480213b552df2a7abdfbf1dd",
+      "title": "U23 Việt Nam thay Iran dự giải giao hữu ở Trung Quốc",
+      "link": "https://tuoitre.vn/u23-viet-nam-thay-iran-du-giai-giao-huu-o-trung-quoc-20260305174643365.htm",
+      "summary": "Ngày 5-3, Liên đoàn Bóng đá Việt Nam (VFF) xác nhận U23 Việt Nam sẽ tham dự giải giao hữu tứ hùng CFA Team China 2026, diễn ra tại Tây An (Trung Quốc) vào cuối tháng 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264256+07:00",
+      "fetched": "2026-03-05T19:54:31.264347+07:00"
+    },
+    {
+      "id": "9b2134eaa776846b59ba4a72b1e07cd3",
+      "title": "Nữ tài xế 'lao' ô tô ngược chiều ở làn 90km/h trên cao tốc",
+      "link": "https://tuoitre.vn/nu-tai-xe-lao-o-to-nguoc-chieu-o-lan-90km-h-tren-cao-toc-20260305174333466.htm",
+      "summary": "Làn đường chị L. lái ngược chiều sát dải phân cách giữa, nơi có tốc độ tối đa cho phép lên tới 90km/h. Một số tài xế đi đúng chiều với tốc độ cao, khi phát hiện chiếc xe đã phải phanh gấp và đánh lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264153+07:00",
+      "fetched": "2026-03-05T19:54:31.264247+07:00"
+    },
+    {
+      "id": "4249c24a7c6d009590e1a56fca2d23ab",
+      "title": "Ba nữ công dân Đồng Tháp tình nguyện thực hiện nghĩa vụ Công an nhân dân",
+      "link": "https://tuoitre.vn/ba-nu-cong-dan-dong-thap-tinh-nguyen-thuc-hien-nghia-vu-cong-an-nhan-dan-20260305173130623.htm",
+      "summary": "Năm nay, tỉnh Đồng Tháp có 731 thanh niên ưu tú lên đường thực hiện nghĩa vụ tham gia Công an nhân dân, trong đó có 3 nữ tân binh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.264051+07:00",
+      "fetched": "2026-03-05T19:54:31.264144+07:00"
+    },
+    {
+      "id": "880b955f8dee88a48b8a4d2ad421a977",
+      "title": "Việt Nam không để bị bất ngờ về an ninh năng lượng do xung đột Trung Đông",
+      "link": "https://tuoitre.vn/viet-nam-khong-de-bi-bat-ngo-ve-an-ninh-nang-luong-do-xung-dot-trung-dong-20260305175322274.htm",
+      "summary": "Chính phủ và các bộ, ngành Việt Nam đang thực hiện nhiều giải pháp nhằm bảo đảm giảm thiểu tác động tiêu cực từ xung đột tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263953+07:00",
+      "fetched": "2026-03-05T19:54:31.264043+07:00"
+    },
+    {
+      "id": "bbf2d50bbc952c38dacdf145f5b72fc0",
+      "title": "Ứng cử viên ĐBQH đơn vị bầu cử số 3 TP.HCM cam kết thúc đẩy an sinh xã hội",
+      "link": "https://tuoitre.vn/ung-cu-vien-dbqh-don-vi-bau-cu-so-3-tp-hcm-cam-ket-thuc-day-an-sinh-xa-hoi-20260305153138574.htm",
+      "summary": "Tại buổi tiếp xúc cử tri, các ứng cử viên đại biểu Quốc hội khóa XVI đơn vị bầu cử số 3 TP.HCM trình bày chương trình hành động, tập trung an sinh xã hội, chính sách y tế, nhà ở và phát triển đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263850+07:00",
+      "fetched": "2026-03-05T19:54:31.263944+07:00"
+    },
+    {
+      "id": "4c823ac73038162570b79c7dd96b4757",
+      "title": "Phó chủ tịch Quốc hội: Chuẩn bị thùng phiếu lưu động cho người dân thực hiện quyền bầu cử",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-chuan-bi-thung-phieu-luu-dong-cho-nguoi-dan-thuc-hien-quyen-bau-cu-20260305175318826.htm",
+      "summary": "Phó chủ tịch Quốc hội Trần Quang Phương yêu cầu chuẩn bị phương án thùng phiếu lưu động để người dân thực hiện quyền bầu cử trong trường hợp bất khả kháng như già yếu, bệnh tật, tai nạn bất ngờ trước ngày bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263742+07:00",
+      "fetched": "2026-03-05T19:54:31.263841+07:00"
+    },
+    {
+      "id": "1e137f666841e9b0185632579fadce8e",
+      "title": "Ukraine đề xuất hoãn đàm phán hòa bình với Nga vì cuộc chiến ở Iran",
+      "link": "https://tuoitre.vn/ukraine-de-xuat-hoan-dam-phan-hoa-binh-voi-nga-vi-cuoc-chien-o-iran-20260305181059425.htm",
+      "summary": "Tổng thống Ukraine đề xuất đổi địa điểm hoặc hoãn hẳn vòng đàm phán hòa bình ba bên Nga - Ukraine - Mỹ vì chiến sự Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263632+07:00",
+      "fetched": "2026-03-05T19:54:31.263732+07:00"
+    },
+    {
+      "id": "a9c31245d8c412d08593498ca24b0b73",
+      "title": "Năm 2025, TP.HCM phát hiện nhiều vụ ma túy qua chuyển phát nhanh",
+      "link": "https://tuoitre.vn/nam-2025-tp-hcm-phat-hien-nhieu-vu-ma-tuy-qua-chuyen-phat-nhanh-20260305180715565.htm",
+      "summary": "Bên cạnh các tuyến vận chuyển từ khu vực “Tam giác vàng”, năm 2025 TP.HCM tiếp tục ghi nhận các vụ ma túy có nguồn gốc từ châu Âu, châu Mỹ được đưa về qua đường chuyển phát nhanh và hàng không, với thủ đoạn ngày càng tinh vi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263516+07:00",
+      "fetched": "2026-03-05T19:54:31.263622+07:00"
+    },
+    {
+      "id": "4df5aea247ce6c1669d23b6e7194d488",
+      "title": "Bộ trưởng Đào Hồng Lan: Nghiên cứu thêm thuốc ung thư, bệnh hiếm vào danh mục bảo hiểm y tế",
+      "link": "https://tuoitre.vn/bo-truong-dao-hong-lan-nghien-cuu-them-thuoc-ung-thu-benh-hiem-vao-danh-muc-bao-hiem-y-te-20260305170658105.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan cho biết ngành y tế xác định sức khỏe là vốn quý nhất của đất nước nên sẽ tiếp tục tham mưu chính sách có lợi cho người dân, nghiên cứu mở rộng thuốc liên quan bệnh ung thư, bệnh hiếm vào danh mục bảo hiểm y tế chi trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263367+07:00",
+      "fetched": "2026-03-05T19:54:31.263505+07:00"
+    },
+    {
+      "id": "b5e0118db589accd7e8b51010aebc0cd",
+      "title": "Chia sẻ thông tin sai sự thật 'sáp nhập 34 còn 16 tỉnh, thành', một phụ nữ bị xử phạt 7,5 triệu đồng",
+      "link": "https://tuoitre.vn/chia-se-thong-tin-sai-su-that-sap-nhap-34-con-16-tinh-thanh-mot-phu-nu-bi-xu-phat-7-5-trieu-dong-20260305180700339.htm",
+      "summary": "Một phụ nữ ở Phú Thọ bị xử phạt 7,5 triệu đồng vì chia sẻ thông tin sai sự thật về việc 'tiếp tục sắp xếp, sáp nhập các tỉnh, thành phố của Việt Nam còn 16 tỉnh, thành phố'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T19:54:31.263108+07:00",
+      "fetched": "2026-03-05T19:54:31.263354+07:00"
+    },
     {
       "id": "06c7f99b23fc85312225b6b33989ac99",
       "title": "Thủ tướng: Thi công '3 ca, 4 kíp' hoàn thành đường gom, trạm dừng nghỉ cao tốc Bắc - Nam phía Đông",
@@ -453,6 +603,356 @@ window.newsData_2026_03_05 = {
       "fetched": "2026-03-05T13:47:15.962085+07:00"
     },
     {
+      "id": "9dd0efa8d3d3e210a5476194e89b11e5",
+      "title": "Chiêm ngưỡng ảnh chụp nguyệt thực ở TP.HCM đang gây sốt mạng xã hội",
+      "link": "https://thanhnien.vn/chiem-nguong-anh-chup-nguyet-thuc-o-tphcm-dang-gay-sot-mang-xa-hoi-185260305100847853.htm",
+      "summary": "Nhiều bức ảnh chụp nguyệt thực toàn phần hay còn gọi là trăng máu xuất hiện đỏ rực trên bầu trời TP.HCM ngày 3.3 bất ngờ đang 'hot' trên mạng xã hội vì quá đẹp và huyền ảo. Hãy cùng chiêm ngưỡng những khoảnh khắc thú vị này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:45:00+07:00",
+      "fetched": "2026-03-05T19:54:30.253771+07:00"
+    },
+    {
+      "id": "4d2e1a1eb9effe3db2ed0e35b413a2e6",
+      "title": "'Đất vàng' trung tâm TP.HCM rào kín nhiều năm: Bí thư Trần Lưu Quang lên tiếng",
+      "link": "https://thanhnien.vn/dat-vang-trung-tam-tphcm-rao-kin-nhieu-nam-bi-thu-tran-luu-quang-len-tieng-1852603051919097.htm",
+      "summary": "Cử tri TP.HCM phản ánh nhiều khu 'đất vàng' trung tâm TP.HCM rào kín nhiều năm, trong khi người dân thiếu không gian sinh hoạt cộng đồng. Bí thư Trần Lưu Quang đã lên tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:43:00+07:00",
+      "fetched": "2026-03-05T19:54:30.253925+07:00"
+    },
+    {
+      "id": "716beadd03ff25c10545faf834301803",
+      "title": "Máy Plasma Lạnh điều trị da có tốt không - Giải đáp từ chuyên gia",
+      "link": "https://thanhnien.vn/may-plasma-lanh-dieu-tri-da-co-tot-khong-giai-dap-tu-chuyen-gia-185260305193652934.htm",
+      "summary": "Máy Plasma Lạnh đang được xem là bước tiến mới trong hỗ trợ điều trị da sau thủ thuật. Nhưng liệu công nghệ này có thực sự hiệu quả và đáng để spa, thẩm mỹ viện, phòng khám đầu tư? Chuyên gia sẽ phân tích cơ chế tác động và lý giải vì sao Plasma Gold đang trở thành lựa chọn được nhiều cơ sở thẩm mỹ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:41:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254070+07:00"
+    },
+    {
+      "id": "2694e42a26e271b789d0e94e86f17b37",
+      "title": "An Giang: Tạm giữ bảo vệ trường để làm rõ vụ nhiều lần hiếp dâm học sinh",
+      "link": "https://thanhnien.vn/an-giang-tam-giu-bao-ve-truong-de-lam-ro-vu-nhieu-lan-hiep-dam-hoc-sinh-185260305175324166.htm",
+      "summary": "Công an tỉnh An Giang tạm giữ hình sự bảo vệ một trường tiểu học ở xã Ô Lâm, để điều tra làm rõ về hành vi hiếp dâm người dưới 16 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:39:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254199+07:00"
+    },
+    {
+      "id": "01ce734c74704baa9644b45058f4b60c",
+      "title": "Báo Malaysia cay đắng sau phán quyết của CAS vụ nhập tịch lậu: ‘Thật đau đớn, xấu hổ...'",
+      "link": "https://thanhnien.vn/bao-malaysia-cay-dang-sau-phan-quyet-cua-cas-vu-nhap-tich-lau-that-dau-don-xau-ho-185260305192323325.htm",
+      "summary": "Phán quyết mới nhất của Tòa án Trọng tài Thể thao (CAS) liên quan đến vụ bê bối nhập tịch cầu thủ của Liên đoàn Bóng đá Malaysia (FAM) đang gây chấn động truyền thông nước này. Dù một phần kháng cáo của các cầu thủ được chấp thuận, nhiều tờ báo Malaysia thừa nhận kết quả cuối cùng vẫn là ‘thật đau đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:35:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254332+07:00"
+    },
+    {
+      "id": "0e1bed22d399e6f4f90e7fe2dcd64e4e",
+      "title": "Bị phạt 7,5 triệu vì đăng tin sai sự thật 'Việt Nam sáp nhập còn 16 tỉnh'",
+      "link": "https://thanhnien.vn/bi-phat-75-trieu-vi-dang-tin-sai-su-that-viet-nam-sap-nhap-con-16-tinh-185260305182504375.htm",
+      "summary": "Một phụ nữ tại Phú Thọ bị xử phạt 7,5 triệu đồng vì đăng thông tin sai sự thật về việc 'Việt Nam sáp nhập còn 16 tỉnh, thành'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:32:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254477+07:00"
+    },
+    {
+      "id": "de4c2cdfdb78f344343df01b6d1affd4",
+      "title": "FAM thua kiện FIFA, bóng đá Malaysia chao đảo: Đội tuyển Việt Nam lấy vé Asian Cup 2027?",
+      "link": "https://thanhnien.vn/fam-thua-kien-fifa-bong-da-malaysia-chao-dao-doi-tuyen-viet-nam-lay-ve-asian-cup-2027-185260305192407637.htm",
+      "summary": "Tối 5.3, Tòa án Trọng tài Thể thao (CAS) đã ra phán quyết bác bỏ đơn kháng cáo của FAM và chỉ chấp thuận một phần đơn kháng cáo của 7 cầu thủ liên quan, qua đó đã giữ nguyên án phạt của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:25:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254611+07:00"
+    },
+    {
+      "id": "a6315c44af467ad5aa9675829b84c5f9",
+      "title": "Thách thức du lịch Lâm Đồng khi sân bay Liên Khương tạm đóng cửa",
+      "link": "https://thanhnien.vn/thach-thuc-du-lich-lam-dong-khi-san-bay-lien-khuong-tam-dong-cua-185260305174102931.htm",
+      "summary": "Ngày 5.3, tỉnh Lâm Đồng tổ chức buổi gặp mặt các doanh nghiệp hoạt động trong lĩnh vực văn hóa, thể thao và du lịch nhằm đánh giá tác động và tìm giải pháp thu hút du khách trong thời gian Cảng hàng không quốc tế Liên Khương (sân bay Liên Khương) tạm đóng cửa để sửa chữa, nâng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:25:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254735+07:00"
+    },
+    {
+      "id": "c32321e36573e1b90796a3ab0f4433b7",
+      "title": "Giá dầu tăng chưa ráo mực, cước xe đầu kéo container báo tăng mạnh",
+      "link": "https://thanhnien.vn/gia-dau-tang-chua-rao-muc-cuoc-xe-dau-keo-container-bao-tang-manh-185260305182900684.htm",
+      "summary": "Giá dầu diesel vừa được điều chỉnh tăng gần 3.800 đồng/lít, ngay lập tức, các dịch vụ vận chuyển hàng hóa đã thông báo tăng giá cước trong cùng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:24:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254861+07:00"
+    },
+    {
+      "id": "5dbf98c70687c3d2fe0fba8aa520c0ae",
+      "title": "Oppo lần đầu đưa flagship Ultra ra toàn cầu với Find X9 Ultra",
+      "link": "https://thanhnien.vn/oppo-lan-dau-dua-flagship-ultra-ra-toan-cau-voi-find-x9-ultra-185240423124136798.htm",
+      "summary": "Tại Triển lãm Di động Toàn cầu (MWC) 2026 diễn ra ở Barcelona (Tây Ban Nha), Oppo chính thức xác nhận mẫu smartphone cao cấp nhất của hãng là Find X9 Ultra sẽ được phát hành trên phạm vi toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:22:00+07:00",
+      "fetched": "2026-03-05T19:54:30.254983+07:00"
+    },
+    {
+      "id": "fa6efd25838d434766113bc8a2947a2d",
+      "title": "Đại tướng Nguyễn Tân Cương tiếp Bộ trưởng Bộ Tình trạng khẩn cấp Nga",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-tan-cuong-tiep-bo-truong-bo-tinh-trang-khan-cap-nga-185260305185918711.htm",
+      "summary": "Chiều 5.3, tại trụ sở Bộ Quốc phòng, đại tướng Nguyễn Tân Cương, Tổng tham mưu trưởng Quân đội nhân dân Việt Nam, Thứ trưởng Bộ Quốc phòng, đã tiếp ông Aleksandr Vyacheslavovich Kurenkov, Bộ trưởng Bộ Phòng thủ dân sự, Tình trạng khẩn cấp và Khắc phục hậu quả thiên tai Liên bang Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:20:00+07:00",
+      "fetched": "2026-03-05T19:54:30.255106+07:00"
+    },
+    {
+      "id": "7ee64be7b2eba3d0663aa4d6910d15b7",
+      "title": "iPhone màn hình gập chưa ra mắt đã 'áp đảo' đối thủ",
+      "link": "https://thanhnien.vn/iphone-man-hinh-gap-chua-ra-mat-da-ap-dao-doi-thu-185260305145119529.htm",
+      "summary": "Cái tên Apple luôn gắn liền với sự nhận diện thương hiệu mạnh mẽ và đây có thể là lý do khiến chiếc iPhone màn hình gập thu hút người dùng dù chưa ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:18:00+07:00",
+      "fetched": "2026-03-05T19:54:30.255222+07:00"
+    },
+    {
+      "id": "97c0d6d1c1d23c3756a8143a8e47012a",
+      "title": "Bí quyết 3 chìa khóa chinh phục học bổng Manaaki New Zealand cùng Đại học Otago",
+      "link": "https://thanhnien.vn/bi-quyet-3-chia-khoa-chinh-phuc-hoc-bong-manaaki-new-zealand-cung-dai-hoc-otago-185260305184836528.htm",
+      "summary": "Từ hành trình chinh phục học bổng Chính phủ New Zealand của hai sinh viên Nguyễn Đức Thành và Nguyễn Đức Trung tại Đại học Otago (ĐH Otago), những 'từ khóa' để xây dựng một hồ sơ thuyết phục được hé lộ: sự phù hợp, câu chuyện cá nhân và sự chuẩn bị chiến lược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:16:00+07:00",
+      "fetched": "2026-03-05T19:54:30.255340+07:00"
+    },
+    {
+      "id": "21689dea8ff99930ee41906dd5dd9097",
+      "title": "TP.HCM hỏa tốc cùng cả nước gỡ thẻ vàng IUU",
+      "link": "https://thanhnien.vn/tphcm-hoa-toc-cung-ca-nuoc-go-the-vang-iuu-185260305183913634.htm",
+      "summary": "Trong nỗ lực cùng cả nước gỡ thẻ vàng IUU, ngày 5.3, Phó chủ tịch UBND TP.HCM Hoàng Nguyên Dinh, kiêm Trưởng Ban Chỉ đạo IUU Thành phố liên tiếp ký 2 công văn hỏa tốc liên quan đến nhiệm vụ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:13:00+07:00",
+      "fetched": "2026-03-05T19:54:30.255478+07:00"
+    },
+    {
+      "id": "4fb6893bf2acc7970e90136e9dc693d7",
+      "title": "5 lý do đàn ông dứt áo ra đi dù còn yêu",
+      "link": "https://vnexpress.net/5-ly-do-dan-ong-dut-ao-ra-di-du-con-yeu-5046170.html",
+      "summary": "Khi áp lực cảm xúc lấn át niềm vui hay định hướng tương lai trái ngược, đàn ông thường chọn cách rời đi dù trong lòng vẫn còn yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:03:34+07:00",
+      "fetched": "2026-03-05T19:54:27.513623+07:00"
+    },
+    {
+      "id": "f513c069ad2a51da49d72399d14d09e7",
+      "title": "Học bí quyết sống thọ cụ bà 117 tuổi: Mỗi ngày đều ăn  món quen thuộc này",
+      "link": "https://thanhnien.vn/hoc-bi-quyet-song-tho-cu-ba-117-tuoi-moi-ngay-deu-an-mon-quen-thuoc-nay-185260305163143895.htm",
+      "summary": "Ngày càng nhiều nghiên cứu cho thấy việc sống thọ không chỉ phụ thuộc vào gien mà còn gắn chặt với những gì chúng ta ăn mỗi ngày. Một số thực phẩm quen thuộc âm thầm nuôi dưỡng hệ vi sinh đường ruột, tăng cường miễn dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:03:00+07:00",
+      "fetched": "2026-03-05T19:54:30.255608+07:00"
+    },
+    {
+      "id": "5fceaeb8d32008f790187239069be38a",
+      "title": "Bí thư Trần Lưu Quang: Sớm khởi động lại dự án Mả Lạng, chợ Gà - Gạo",
+      "link": "https://vnexpress.net/bi-thu-tran-luu-quang-som-khoi-dong-lai-du-an-ma-lang-cho-ga-gao-5047113.html",
+      "summary": "Phường khảo sát nhu cầu hơn 1.400 hộ dân ở Mả Lạng, chợ Gạo, thành phố quy hoạch lại chiều cao tòa nhà, đường xá để thu hút nhà đầu tư, theo Bí thư Thành ủy TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:10+07:00",
+      "fetched": "2026-03-05T19:54:27.513792+07:00"
+    },
+    {
+      "id": "95676e875701d2c0f8a165e63a47d40f",
+      "title": "Cậu ruột không chịu bán đất trả tiền cho mẹ tôi như đã hứa",
+      "link": "https://vnexpress.net/cho-nguoi-than-vay-tien-cau-ruot-khong-chiu-ban-dat-tra-tien-cho-me-toi-nhu-da-hua-5047035.html",
+      "summary": "Tôi hỏi xem cậu đã đăng bán chưa thì thấy cậu chẳng hề muốn bán. Lúc này tôi mới biết mẹ mình đã bị cậu lừa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.513938+07:00"
+    },
+    {
+      "id": "4ed48ff31639a04ffa274adbceabd0c0",
+      "title": "Mẫu ngư lôi 'bẻ gãy sống tàu' Mỹ dùng để hạ chiến hạm Iran",
+      "link": "https://vnexpress.net/mau-ngu-loi-be-gay-song-tau-my-dung-de-ha-chien-ham-iran-5046801.html",
+      "summary": "Ngư lôi hạng nặng Mark 48 của Mỹ được thiết kế để bẻ gãy sống tàu, có thể đánh chìm nhiều loại tàu chiến chỉ bằng một phát đạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514068+07:00"
+    },
+    {
+      "id": "63561d241fbf68cf92831eaeb5a392d8",
+      "title": "Xiaomi Pad 8 Pro - tablet dùng chip 3 nm như điện thoại cao cấp",
+      "link": "https://vnexpress.net/xiaomi-pad-8-pro-tablet-dung-chip-3-nm-nhu-dien-thoai-cao-cap-5046218.html",
+      "summary": "Xiaomi Pad 8 Pro giá từ 17 triệu đồng có ưu điểm vỏ nhôm nguyên khối, kích thước mỏng, hiệu năng mạnh nhờ chip Snapdragon 8 Elite cùng thời lượng pin rất tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514199+07:00"
+    },
+    {
+      "id": "1a521c54004bb5b34c55c59e5af13f25",
+      "title": "Khách Việt làm gì để giảm nguy cơ bị từ chối nhập cảnh Singapore?",
+      "link": "https://vnexpress.net/khach-viet-lam-gi-de-giam-nguy-co-bi-tu-choi-nhap-canh-singapore-5044778.html",
+      "summary": "Chuyên gia du lịch cho biết chính quyền Singapore luôn tạo điều kiện cho du khách và chỉ kiểm soát nghiêm ngặt những người có dấu hiệu vi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514333+07:00"
+    },
+    {
+      "id": "67dd82a914a91360ab936e3857e83658",
+      "title": "Lazada vinh danh 12 thương hiệu tiêu biểu",
+      "link": "https://vnexpress.net/lazada-vinh-danh-12-thuong-hieu-tieu-bieu-5047082.html",
+      "summary": "Tại LazMall Brand Awards 2025, Lazada Việt Nam trao giải cho 12 thương hiệu ở ba hạng mục chính, ghi nhận chiến lược đổi mới và thích ứng của doanh nghiệp trong thương mại điện tử hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514474+07:00"
+    },
+    {
+      "id": "ad5e42358c3b2165d4de3a31010c8142",
+      "title": "Mắc cùng lúc ba bệnh lý tử cung gây vô sinh",
+      "link": "https://vnexpress.net/mac-cung-luc-ba-benh-ly-tu-cung-gay-vo-sinh-5047058.html",
+      "summary": "Chị Hiệp, 36 tuổi, bị đa u xơ, viêm niêm mạc kèm polyp mọc thành từng chùm bên trong tử cung dẫn đến vô sinh thứ phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514610+07:00"
+    },
+    {
+      "id": "328157277e25b34558f6e7b853fbcecd",
+      "title": "Gai sinh dục và sùi mào gà khác nhau thế nào?",
+      "link": "https://vnexpress.net/gai-sinh-duc-va-sui-mao-ga-khac-nhau-the-nao-5046990.html",
+      "summary": "Làm sao để phân biệt gai sinh dục và sùi mào gà? Tình trạng nào nguy hiểm hơn và phòng tránh ra sao? (Hoài Lâm, 30 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514741+07:00"
+    },
+    {
+      "id": "d30c46dce24c93c093b2cea6558ae409",
+      "title": "'Nhiều người chỉ biết mắc bệnh béo phì khi đã xảy ra biến chứng'",
+      "link": "https://vnexpress.net/nhieu-nguoi-chi-biet-mac-benh-beo-phi-khi-da-xay-ra-bien-chung-5046961.html",
+      "summary": "\"Béo phì không phải là câu chuyện thẩm mỹ mà là căn bệnh mạn tính phức tạp cần điều trị, nhiều người chỉ tìm đến bác sĩ khi đã có biến chứng\", chuyên gia nêu tại tọa đàm ngày 5/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:27.514861+07:00"
+    },
+    {
+      "id": "4ed48ff31639a04ffa274adbceabd0c0",
+      "title": "Mẫu ngư lôi 'bẻ gãy sống tàu' Mỹ dùng để hạ chiến hạm Iran",
+      "link": "https://vnexpress.net/mau-ngu-loi-be-gay-song-tau-my-dung-de-ha-chien-ham-iran-5046801.html",
+      "summary": "Ngư lôi hạng nặng Mark 48 của Mỹ được thiết kế để bẻ gãy sống tàu, có thể đánh chìm nhiều loại tàu chiến chỉ bằng một phát đạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:32.280989+07:00"
+    },
+    {
+      "id": "63561d241fbf68cf92831eaeb5a392d8",
+      "title": "Xiaomi Pad 8 Pro - tablet dùng chip 3 nm như điện thoại cao cấp",
+      "link": "https://vnexpress.net/xiaomi-pad-8-pro-tablet-dung-chip-3-nm-nhu-dien-thoai-cao-cap-5046218.html",
+      "summary": "Xiaomi Pad 8 Pro giá từ 17 triệu đồng có ưu điểm vỏ nhôm nguyên khối, kích thước mỏng, hiệu năng mạnh nhờ chip Snapdragon 8 Elite cùng thời lượng pin rất tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-05T12:00:00+07:00",
+      "fetched": "2026-03-05T19:54:37.105099+07:00"
+    },
+    {
+      "id": "91460871981b4cfc620babf505404870",
+      "title": "Ông Kim Jong-un ngắm nhìn tàu khu trục thử tên lửa chiến lược",
+      "link": "https://vnexpress.net/ong-kim-jong-un-ngam-nhin-tau-khu-truc-thu-ten-lua-chien-luoc-5047121.html",
+      "summary": "Lãnh đạo Triều Tiên ông Kim Jong-un giám sát vụ phóng thử tên lửa hành trình chiến lược từ tàu khu trục vừa được đóng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T11:53:12+07:00",
+      "fetched": "2026-03-05T19:54:27.514987+07:00"
+    },
+    {
+      "id": "632b43db522dfc30d603475bd9464c28",
+      "title": "Tòa Trọng tài Thể thao bác bỏ hầu hết kháng cáo của Malaysia",
+      "link": "https://vnexpress.net/toa-trong-tai-the-thao-bac-bo-hau-het-khang-cao-cua-malaysia-5047131.html",
+      "summary": "Tòa Trọng tài Thể thao (CAS) giữ nguyên hầu hết các quyết định xử phạt của FIFA dành cho LĐBĐ Malaysia (FAM) và 7 cầu thủ nhập tịch gian lận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T11:52:08+07:00",
+      "fetched": "2026-03-05T19:54:27.515110+07:00"
+    },
+    {
+      "id": "632b43db522dfc30d603475bd9464c28",
+      "title": "Tòa Trọng tài Thể thao bác bỏ hầu hết kháng cáo của Malaysia",
+      "link": "https://vnexpress.net/toa-trong-tai-the-thao-bac-bo-hau-het-khang-cao-cua-malaysia-5047131.html",
+      "summary": "Tòa Trọng tài Thể thao (CAS) giữ nguyên hầu hết các quyết định xử phạt của FIFA dành cho LĐBĐ Malaysia (FAM) và 7 cầu thủ nhập tịch gian lận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T11:52:08+07:00",
+      "fetched": "2026-03-05T19:54:38.098262+07:00"
+    },
+    {
+      "id": "1a4852e6408d7c5bfb379354a6958f61",
+      "title": "'Trùm' tín dụng đen dí súng ép giám đốc ngân hàng ký giấy nợ",
+      "link": "https://vnexpress.net/trum-tin-dung-den-di-sung-ep-giam-doc-ngan-hang-ky-giay-no-5047097.html",
+      "summary": "Phạm Hữu Tài cho giám đốc một chi nhánh ngân hàng vay 2,6 tỷ đồng với lãi suất tới 180%/năm, sau đó dùng súng uy hiếp buộc ký giấy nhận nợ 4,6 tỷ khi khó đòi tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T11:50:54+07:00",
+      "fetched": "2026-03-05T19:54:27.515235+07:00"
+    },
+    {
+      "id": "c8206cf91ec62dba250f25f872b09841",
+      "title": "Iran bị tố phóng UAV vào sân bay Azerbaijan",
+      "link": "https://vnexpress.net/iran-bi-to-phong-uav-vao-san-bay-azerbaijan-5047106.html",
+      "summary": "Azerbaijan nói UAV Iran đánh trúng sân bay và khu vực gần trường học của nước này, Tehran bác bỏ và cáo buộc Tel Aviv đứng sau sự việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T11:46:06+07:00",
+      "fetched": "2026-03-05T19:54:27.515359+07:00"
+    },
+    {
+      "id": "c8206cf91ec62dba250f25f872b09841",
+      "title": "Iran bị tố phóng UAV vào sân bay Azerbaijan",
+      "link": "https://vnexpress.net/iran-bi-to-phong-uav-vao-san-bay-azerbaijan-5047106.html",
+      "summary": "Azerbaijan nói UAV Iran đánh trúng sân bay và khu vực gần trường học của nước này, Tehran bác bỏ và cáo buộc Tel Aviv đứng sau sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T11:46:06+07:00",
+      "fetched": "2026-03-05T19:54:32.281148+07:00"
+    },
+    {
+      "id": "dcc909cd0b1744b017de5abcc99e8a75",
+      "title": "Scholes xóa bài đăng ví Man Utd như 'đống phân'",
+      "link": "https://vnexpress.net/scholes-xoa-bai-dang-vi-man-utd-nhu-dong-phan-5047108.html",
+      "summary": "Cựu tiền vệ Paul Scholes gây tranh cãi khi đăng rồi xóa một đoạn Instagram, ví màn thể hiện gần đây của Man Utd là rác rưởi, dưới thời HLV Michael Carrick.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T11:39:09+07:00",
+      "fetched": "2026-03-05T19:54:27.515504+07:00"
+    },
+    {
+      "id": "dcc909cd0b1744b017de5abcc99e8a75",
+      "title": "Scholes xóa bài đăng ví Man Utd như 'đống phân'",
+      "link": "https://vnexpress.net/scholes-xoa-bai-dang-vi-man-utd-nhu-dong-phan-5047108.html",
+      "summary": "Cựu tiền vệ Paul Scholes gây tranh cãi khi đăng rồi xóa một đoạn Instagram, ví màn thể hiện gần đây của Man Utd là rác rưởi, dưới thời HLV Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T11:39:09+07:00",
+      "fetched": "2026-03-05T19:54:38.098428+07:00"
+    },
+    {
       "id": "3a75a7c233756e94b65b729cdcc1f4c9",
       "title": "Lãnh đạo Triều Tiên thị sát tàu khu trục mới, có thể mang đầu đạn hạt nhân",
       "link": "https://tuoitre.vn/lanh-dao-trieu-tien-thi-sat-tau-khu-truc-moi-co-the-mang-dau-dan-hat-nhan-20260305092618008.htm",
@@ -601,6 +1101,26 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T11:10:43.747772+07:00",
       "fetched": "2026-03-05T11:10:43.747995+07:00"
+    },
+    {
+      "id": "2937e739a179811c8008f7ddf174a641",
+      "title": "Việt Nam sẽ không để bị động về an ninh năng lượng",
+      "link": "https://vnexpress.net/viet-nam-se-khong-de-bi-dong-ve-an-ninh-nang-luong-5047088.html",
+      "summary": "Việt Nam sẽ không để bị động, bất ngờ về an ninh năng lượng trước những diễn biến phức tạp của xung đột tại Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T10:47:51+07:00",
+      "fetched": "2026-03-05T19:54:32.281285+07:00"
+    },
+    {
+      "id": "10253f27ac916b72b6dbbcd97b2cbf94",
+      "title": "Trùm yakuza lĩnh án tù ở Mỹ vì âm mưu bán vật liệu hạt nhân cho Iran",
+      "link": "https://vnexpress.net/trum-yakuza-linh-an-tu-o-my-vi-am-muu-ban-vat-lieu-hat-nhan-cho-iran-5047046.html",
+      "summary": "Takeshi Ebisawa, 61 tuổi, bị tòa án Mỹ tuyên 20 năm tù với cáo buộc âm mưu tuồn ma túy vào Mỹ và âm mưu buôn lậu uranium, plutonium cho Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T10:41:36+07:00",
+      "fetched": "2026-03-05T19:54:32.281419+07:00"
     },
     {
       "id": "7efbaba6ab2ae80dc23ac15da8b84fc1",
