@@ -1,7 +1,157 @@
 window.newsData_2026_03_05 = {
   "date": "2026-03-05",
-  "lastUpdated": "2026-03-05T05:28:16.819208+07:00",
+  "lastUpdated": "2026-03-05T08:53:09.518331+07:00",
   "articles": [
+    {
+      "id": "f01ca73cc4b131430096283be27395dd",
+      "title": "Nguồn cung địa ốc bùng nổ, đầu tư khách sạn toàn cầu tăng tốc",
+      "link": "https://tuoitre.vn/nguon-cung-dia-oc-bung-no-dau-tu-khach-san-toan-cau-tang-toc-2026030420571603.htm",
+      "summary": "Nguồn cung địa ốc đang dần trở lại khi các chủ đầu tư đẩy nhanh tiến độ và rục rịch kế hoạch bán hàng. Sự chuyển động này cho thấy niềm tin vào triển vọng thị trường đã cải thiện, đồng thời báo hiệu giai đoạn cạnh tranh mới đang hình thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460835+07:00",
+      "fetched": "2026-03-05T08:53:03.460942+07:00"
+    },
+    {
+      "id": "76eb9eaf6a9a245df2117d087dcf594c",
+      "title": "VinFast nhận giải 'Tân binh của năm' tại Ấn Độ",
+      "link": "https://tuoitre.vn/vinfast-nhan-giai-tan-binh-cua-nam-tai-an-do-20260305070501858.htm",
+      "summary": "Ngày 4-3, VinFast cho biết vừa được vinh danh với giải thưởng \"Tân binh của năm\" tại Faster Awards 2026, do hiệp hội các nhà báo và chuyên gia xe tại Ấn Độ tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460730+07:00",
+      "fetched": "2026-03-05T08:53:03.460826+07:00"
+    },
+    {
+      "id": "7b6becee6e41af3d7f19fd95fe54dbcc",
+      "title": "Thí sinh đăng ký kỳ thi V-SAT năm 2026 để mở rộng cơ hội vào đại học",
+      "link": "https://tuoitre.vn/thi-sinh-dang-ky-ky-thi-v-sat-nam-2026-de-mo-rong-co-hoi-vao-dai-hoc-20260304145321576.htm",
+      "summary": "Trong những năm gần đây, tuyển sinh đại học có nhiều chuyển dịch mạnh mẽ từ mô hình dựa vào một kỳ thi duy nhất sang đa dạng phương thức xét tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460622+07:00",
+      "fetched": "2026-03-05T08:53:03.460721+07:00"
+    },
+    {
+      "id": "29e0c50c790e148d867721e0dbddee28",
+      "title": "Công ty khoáng sản Việt hưởng lợi từ chu kỳ giá vonfram",
+      "link": "https://tuoitre.vn/cong-ty-khoang-san-viet-huong-loi-tu-chu-ky-gia-vonfram-2026030418031242.htm",
+      "summary": "Giá vonfram tăng mạnh do sự mất cân đối cán cân cung - cầu khoáng sản toàn cầu, đã thiết lập mặt bằng lợi nhuận mới cho các doanh nghiệp trong ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460517+07:00",
+      "fetched": "2026-03-05T08:53:03.460613+07:00"
+    },
+    {
+      "id": "10241a78c5c09d0d5b80cfa12e094aeb",
+      "title": "Đăng Quang Watch ra mắt bộ sưu tập Diamond D dịp 8-3",
+      "link": "https://tuoitre.vn/dang-quang-watch-ra-mat-bo-suu-tap-diamond-d-dip-8-3-20260305052232795.htm",
+      "summary": "Ngày Quốc tế Phụ nữ 8-3 là dịp đặc biệt để tri ân những người phụ nữ quan trọng trong cuộc đời. Khác với những món quà mang tính ngắn hạn, đồng hồ có giá trị bền vững, trường tồn qua năm tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460408+07:00",
+      "fetched": "2026-03-05T08:53:03.460507+07:00"
+    },
+    {
+      "id": "0f18b69cc1a5a99028f8c713a60e10ca",
+      "title": "Lo ngại trước tình trạng giá dầu thế giới tăng: Tìm kiếm các nguồn dầu thô cho nhà máy lọc dầu",
+      "link": "https://tuoitre.vn/lo-ngai-truoc-tinh-trang-gia-dau-the-gioi-tang-tim-kiem-cac-nguon-dau-tho-cho-nha-may-loc-dau-20260304231546866.htm",
+      "summary": "Để đảm bảo nguồn dầu thô cho sản xuất tại các nhà máy lọc dầu, Tập đoàn Công nghiệp - Năng lượng quốc gia Việt Nam (Petrovietnam) đã chỉ đạo tại Công ty lọc hóa dầu Nghi Sơn làm việc với các bên nước ngoài tham gia dự án cung cấp khẩn dầu dự phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460299+07:00",
+      "fetched": "2026-03-05T08:53:03.460396+07:00"
+    },
+    {
+      "id": "54588f6d9c45bf993f0b39e04dcd1ce4",
+      "title": "Nhà di động đầu tiên của nhân loại trên Mặt trăng, có khả năng tự lái khi không có người điều khiển",
+      "link": "https://tuoitre.vn/nha-di-dong-dau-tien-cua-nhan-loai-tren-mat-trang-co-kha-nang-tu-lai-khi-khong-co-nguoi-dieu-khien-20260304221652711.htm",
+      "summary": "Khác với hình dung về một căn cứ cố định, mô-đun sinh sống đầu tiên của con người trên Mặt trăng được thiết kế như một \"nhà di động\" ngoài hành tinh, có thể tự lăn bánh vượt địa hình khắc nghiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460194+07:00",
+      "fetched": "2026-03-05T08:53:03.460290+07:00"
+    },
+    {
+      "id": "9a6b0c7f3514434d89e2432144847b9b",
+      "title": "Kasim Hoàng Vũ qua đời tại Mỹ",
+      "link": "https://tuoitre.vn/kasim-hoang-vu-qua-doi-tai-my-2026030506350475.htm",
+      "summary": "Ngày 5-3, nghệ sĩ, khán giả chia sẻ thông tin ca sĩ Kasim Hoàng Vũ qua đời kèm những lời thương tiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.460089+07:00",
+      "fetched": "2026-03-05T08:53:03.460185+07:00"
+    },
+    {
+      "id": "3aef8093343e353f1ddcfc6e5f1913ab",
+      "title": "Đọc nhanh 5-3: Bitcoin vọt lên sát mốc 73.000 USD; chỉ số USD quay đầu giảm",
+      "link": "https://tuoitre.vn/doc-nhanh-5-3-bitcoin-vot-len-sat-moc-73-000-usd-chi-so-usd-quay-dau-giam-20260305080745801.htm",
+      "summary": "Sáng 5-3, Bitcoin tiếp tục bứt phá khi tăng thêm gần 7%, lên 72.890 USD. Trong khi chỉ số USD (DXY) đã quay đầu giảm nhẹ, hạ bớt áp lực cho các kênh tài sản khác như vàng bạc, chứng khoán...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459982+07:00",
+      "fetched": "2026-03-05T08:53:03.460080+07:00"
+    },
+    {
+      "id": "ae0fa3dfc627fedb7e8df8dda48c16c5",
+      "title": "Chứng khoán 5-3: VN-Index có tiếp tục đi lên sau phiên hồi phục nhẹ?",
+      "link": "https://tuoitre.vn/chung-khoan-5-3-vn-index-co-tiep-tuc-di-len-sau-phien-hoi-phuc-nhe-20260305081737198.htm",
+      "summary": "Các công ty chứng khoán đánh giá VN-Index bật tăng trong phiên 4-3 nghiêng về phục hồi kỹ thuật và cần thêm các phiên xác nhận. Thị trường chưa có tín hiệu quay đầu tăng điểm rõ ràng sau 2 phiên giảm mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459872+07:00",
+      "fetched": "2026-03-05T08:53:03.459973+07:00"
+    },
+    {
+      "id": "b8ba5285f06ea7db2fc24dbfb9f77bca",
+      "title": "Muỗi bắt đầu hút máu người từ khi nào? DNA tiết lộ điều bất ngờ",
+      "link": "https://tuoitre.vn/muoi-bat-dau-hut-mau-nguoi-tu-khi-nao-dna-tiet-lo-dieu-bat-ngo-20260304111626068.htm",
+      "summary": "Một nghiên cứu mới cho thấy muỗi có thể đã bắt đầu hút máu tổ tiên loài người từ gần 2 triệu năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459753+07:00",
+      "fetched": "2026-03-05T08:53:03.459861+07:00"
+    },
+    {
+      "id": "96ce4d6ef22c5861137277ea483f5260",
+      "title": "Nghiên cứu chấn động: Thuốc diệt nấm có thể tàn phá sức khỏe 20 thế hệ",
+      "link": "https://tuoitre.vn/nghien-cuu-chan-dong-thuoc-diet-nam-co-the-tan-pha-suc-khoe-20-the-he-20260304091224667.htm",
+      "summary": "Nghiên cứu dài hạn cho thấy phơi nhiễm thuốc diệt nấm có thể gây biến đổi di truyền, để lại hệ lụy sức khỏe kéo dài 20 thế hệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459637+07:00",
+      "fetched": "2026-03-05T08:53:03.459737+07:00"
+    },
+    {
+      "id": "8951dfe75f5f575d7f9603dc91366077",
+      "title": "Viettel bắt tay với hàng loạt Big Tech cùng định hình tương lai công nghệ",
+      "link": "https://tuoitre.vn/viettel-bat-tay-voi-hang-loat-big-tech-cung-dinh-hinh-tuong-lai-cong-nghe-20260305071331823.htm",
+      "summary": "Viettel là doanh nghiệp Việt Nam có mặt tại Hội nghị Di động Thế giới (MWC) 2026 đang diễn ra tại Barcelona, sự kiện được kỳ vọng tạo ra bước ngoặt cho ngành công nghệ di động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459523+07:00",
+      "fetched": "2026-03-05T08:53:03.459627+07:00"
+    },
+    {
+      "id": "f5787f54b0eb801b5b0b2dcc9c735389",
+      "title": "Phân biệt thật - giả giữa thời đại deepfake: Chuyên gia làm cách nào?",
+      "link": "https://tuoitre.vn/phan-biet-that-gia-giua-thoi-dai-deepfake-chuyen-gia-lam-cach-nao-20260304111536257.htm",
+      "summary": "Deepfake không còn là trò đùa công nghệ. Khi 'mắt thấy tai nghe' cũng có thể bị đánh lừa, các chuyên gia phải dựa vào AI, pháp y số và hệ thống xác thực nguồn gốc để tìm ra sự thật. Nhưng liệu cuộc đua này bao giờ kết thúc?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459399+07:00",
+      "fetched": "2026-03-05T08:53:03.459512+07:00"
+    },
+    {
+      "id": "ceb288bbc2ee3c84cdd238c2c4d15f92",
+      "title": "Thời của lao động gen Z: Gỡ nút thắt lao động giá rẻ",
+      "link": "https://tuoitre.vn/thoi-cua-lao-dong-gen-z-go-nut-that-lao-dong-gia-re-2026030423222409.htm",
+      "summary": "Lợi thế lao động giá rẻ dần cạn, Việt Nam đứng trước bài toán phải tăng năng suất để đạt mục tiêu tăng trưởng hai con số mà Đại hội Đảng XIV đã thông qua. Và gen Z được kỳ vọng sẽ là chìa khóa góp sức tháo gỡ điểm nghẽn này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T08:53:03.459191+07:00",
+      "fetched": "2026-03-05T08:53:03.459386+07:00"
+    },
     {
       "id": "c4c6b430b4dadaef3a052f493072d81e",
       "title": "Mỹ có khả năng nâng thuế nhập khẩu toàn cầu lên 15% ngay trong tuần này",
@@ -21,6 +171,26 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T03:28:51.332162+07:00",
       "fetched": "2026-03-05T03:28:51.332385+07:00"
+    },
+    {
+      "id": "3a5d18bd3bdc5ddc30884a2925d3c6a5",
+      "title": "Người hùng U.20 World Cup ‘bén duyên’ với TNSV",
+      "link": "https://thanhnien.vn/nguoi-hung-u20-world-cup-ben-duyen-voi-tnsv-185260304222555785.htm",
+      "summary": "VCK TNSV THACO cup 2026 sẽ chào đón thành viên đặc biệt, người hùng U.20 VN từng dự U.20 World Cup 2017 Nguyễn Bá Minh Hiếu trong thành phần Trường CĐ FPT Polytechnic.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:48:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434033+07:00"
+    },
+    {
+      "id": "c3bcbb56a88a4e98b256bf4713c4c9b3",
+      "title": "Tài năng nhí Huỳnh Phúc Khang 'tầm sư học đạo', theo đuổi ước mơ pickleball chuyên nghiệp",
+      "link": "https://thanhnien.vn/tai-nang-nhi-huynh-phuc-khang-tam-su-hoc-dao-theo-duoi-uoc-mo-pickleball-chuyen-nghiep-185260304172848105.htm",
+      "summary": "Bước sang tuổi 12, tài năng nhí pickleball Huỳnh Phúc Khang không ngừng nỗ lực tập luyện với ước mơ trở thành VĐV pickleball chuyên nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:47:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434179+07:00"
     },
     {
       "id": "931fedb4f46f32e09b91963350a885d6",
@@ -171,6 +341,386 @@ window.newsData_2026_03_05 = {
       "category": "Tổng hợp",
       "published": "2026-03-05T01:43:53.046913+07:00",
       "fetched": "2026-03-05T01:43:53.047165+07:00"
+    },
+    {
+      "id": "1ecefb4c8e901fc4b4936d2667f9b201",
+      "title": "11 tuyến cáp treo đẹp nhất châu Á, Việt Nam chiếm tới 3",
+      "link": "https://thanhnien.vn/11-tuyen-cap-treo-dep-nhat-chau-a-viet-nam-chiem-toi-3-185260304132748773.htm",
+      "summary": "Những cung đường cáp treo ngoạn mục nhất châu Á do tạp chí du lịch Mỹ Travel + Leisure bình chọn có tới 3 cáp treo của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:42:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434312+07:00"
+    },
+    {
+      "id": "a45a13eb2cccba480696531197ec3a27",
+      "title": "Giá vàng hôm nay 5.3.2026: Neo trên 184 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-532026-neo-tren-184-trieu-dong-mot-luong-185260305081057406.htm",
+      "summary": "Giá vàng trong nước đứng yên trên mức 184 triệu đồng một lượng khi thế giới tăng nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:40:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434440+07:00"
+    },
+    {
+      "id": "ca0fc94418c3691909cf2dd86665dfd7",
+      "title": "Lão nông Trung Quốc được cảnh sát bảo vệ 24/24",
+      "link": "https://vnexpress.net/lao-nong-trung-quoc-duoc-canh-sat-bao-ve-24-24-5046298.html",
+      "summary": "Sang Nigeria truyền kỹ thuật canh tác, ông Yang Xiugang giúp nông dân tăng gấp ba sản lượng lúa và được nước này cử đặc nhiệm bảo vệ 24/24.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:37:08+07:00",
+      "fetched": "2026-03-05T08:52:57.508249+07:00"
+    },
+    {
+      "id": "a3ec11366f48c271bc3a590161aba58f",
+      "title": "Hàng xóm phá đám khiến tôi nửa năm không thể bán nhà",
+      "link": "https://vnexpress.net/hang-xom-pha-dam-khien-toi-nua-nam-khong-the-ban-nha-5046612.html",
+      "summary": "Tôi hạ giá bán 300 triệu so với mức kỳ vọng, nhưng nửa năm qua, khách nào đến cũng bỏ chạy vì người hàng xóm nhà bên cạnh chọc ngoáy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:35:00+07:00",
+      "fetched": "2026-03-05T08:52:57.508408+07:00"
+    },
+    {
+      "id": "86eaa6b8ffcdb3de3370ab899609a393",
+      "title": "Brighton 0-1 Arsenal",
+      "link": "https://vnexpress.net/brighton-0-1-arsenal-5046816.html",
+      "summary": "Dẫn bàn sớm, Arsenal đá phòng ngự và giành trọn 3 điểm ở vòng 29 ngày 4/3 và bỏ cách Man City 7 điểm ở Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:32:19+07:00",
+      "fetched": "2026-03-05T08:52:57.508555+07:00"
+    },
+    {
+      "id": "ae8acdc9e9699ca700ed9f2bbefa151f",
+      "title": "Hôm nay đóng đăng ký giải chạy đêm lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/hom-nay-dong-dang-ky-giai-chay-dem-lon-nhat-viet-nam-2026-5045491.html",
+      "summary": "VnExpress Marathon Ho Chi Minh City Midnight 2026, giải chạy đêm lớn nhất Việt Nam diễn ra ngày 22/3, sẽ đóng đăng ký vào 23h59 hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:30:00+07:00",
+      "fetched": "2026-03-05T08:52:57.508691+07:00"
+    },
+    {
+      "id": "9de25dbd8aaa326a0a1e86b8c8cf08fb",
+      "title": "Giá xăng dầu hôm nay 5.3.2026: Thế giới tăng, trong nước chiều nay thế nào?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-532026-the-gioi-tang-trong-nuoc-chieu-nay-the-nao-185260304195755076.htm",
+      "summary": "Dự báo của các nhà nhập khẩu vừa tính toán theo giá thế giới cho thấy, giá xăng dầu trong nước tại kỳ điều chỉnh chiều nay (5.3) có thể tăng mạnh. Trong khi đó, đà tăng của giá dầu thế giới chưa có dấu hiệu ngừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:30:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434567+07:00"
+    },
+    {
+      "id": "03b556c202298e7203662883065f1791",
+      "title": "Man City 2-2 Nottingham Forest",
+      "link": "https://vnexpress.net/man-city-2-2-nottingham-forest-5046814.html",
+      "summary": "Hai lần dẫn bàn, nhưng Man City chỉ hòa trên sân nhà ở vòng 29 Ngoại hạng Anh, và tụt lại sau đầu bảng Arsenal với 7 điểm cách biệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:29:31+07:00",
+      "fetched": "2026-03-05T08:52:57.508825+07:00"
+    },
+    {
+      "id": "d4647f9c998a598db4a02f77c663dab5",
+      "title": "Newcastle 2-1 Man Utd",
+      "link": "https://vnexpress.net/newcastle-2-1-man-utd-5046813.html",
+      "summary": "Hơn người từ cuối hiệp một trận vòng 29 Ngoại hạng Anh ngày 4/3, nhưng Man Utd vẫn gục ngã vì bàn thua ở phút 90 và lần đầu bại trận với HLV Michael Carrick.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:26:25+07:00",
+      "fetched": "2026-03-05T08:52:57.508977+07:00"
+    },
+    {
+      "id": "7b0ec984d2fdabec04fc49663e320afe",
+      "title": "Những xe máy điện khoảng giá 25-30 triệu đồng tại Việt Nam",
+      "link": "https://vnexpress.net/nhung-xe-may-dien-khoang-gia-25-30-trieu-dong-tai-viet-nam-5046459.html",
+      "summary": "Thị trường xe máy điện ngày có nhiều lựa chọn phong phú bên cạnh những mẫu xe máy xăng truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:24:02+07:00",
+      "fetched": "2026-03-05T08:52:57.509107+07:00"
+    },
+    {
+      "id": "b700150471feb4e8c4192278598c7fd7",
+      "title": "Chelsea 1-4 Aston Villa",
+      "link": "https://vnexpress.net/chelsea-1-4-aston-villa-5046810.html",
+      "summary": "Hattrick của Joao Pedro cùng bàn của Cole Palmer giúp Chelsea đè bẹp chủ nhà Aston Villa ở vòng 29 Ngoại hạng Anh ngày 4/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:21:15+07:00",
+      "fetched": "2026-03-05T08:52:57.509235+07:00"
+    },
+    {
+      "id": "1193b6f006b7ebf8b9dc1516ba072208",
+      "title": "Silva: 'Man City đã quen nhận quyết định bất lợi từ trọng tài'",
+      "link": "https://vnexpress.net/silva-man-city-da-quen-nhan-quyet-dinh-bat-loi-tu-trong-tai-5046786.html",
+      "summary": "Tiền vệ Bernardo Silva cho rằng Man City nhận nhiều quyết định bất lợi của trọng tài trong trận hòa Nottingham Forest 2-2 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:18:27+07:00",
+      "fetched": "2026-03-05T08:52:57.509367+07:00"
+    },
+    {
+      "id": "1193b6f006b7ebf8b9dc1516ba072208",
+      "title": "Silva: 'Man City đã quen nhận quyết định bất lợi từ trọng tài'",
+      "link": "https://vnexpress.net/silva-man-city-da-quen-nhan-quyet-dinh-bat-loi-tu-trong-tai-5046786.html",
+      "summary": "Tiền vệ Bernardo Silva cho rằng Man City nhận nhiều quyết định bất lợi của trọng tài trong trận hòa Nottingham Forest 2-2 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T01:18:27+07:00",
+      "fetched": "2026-03-05T08:53:09.513483+07:00"
+    },
+    {
+      "id": "aa1000a0668365088441671cd7a33727",
+      "title": "Ca sĩ Kasim Hoàng Vũ qua đời",
+      "link": "https://thanhnien.vn/ca-si-kasim-hoang-vu-qua-doi-18526030507125936.htm",
+      "summary": "Theo người em đồng nghiệp thân thiết với Kasim Hoàng Vũ là ca sĩ Duy Trường xác nhận với chúng tôi Kasim Hoàng Vũ qua đời tại bệnh viện sau thời gian dài chống chọi với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:15:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434694+07:00"
+    },
+    {
+      "id": "88c236b406d4d6ca785de18fc9dbcac2",
+      "title": "Đồng Nai: Bắt con rể cầm dao chém cha mẹ vợ cũ lúc nửa đêm",
+      "link": "https://thanhnien.vn/dong-nai-bat-con-re-cam-dao-chem-cha-me-vo-cu-luc-nua-dem-185260305073334512.htm",
+      "summary": "Công an tỉnh Đồng Nai vừa bắt giữ Nguyễn Thành Phát, người cầm dao chém cha mẹ vợ cũ trong đêm gây thương tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:12:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434818+07:00"
+    },
+    {
+      "id": "eddd850e3b0a186095e9cbfa84be422a",
+      "title": "Fulham 0-1 West Ham",
+      "link": "https://vnexpress.net/fulham-0-1-west-ham-5046802.html",
+      "summary": "Lép vế trước chủ nhà, nhưng West Ham vẫn giành trọn ba điểm nhờ bàn duy nhất của cầu thủ đá cánh Crysencio Summerville ở vòng 29 Ngoại hạng Anh ngày 4/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:11:26+07:00",
+      "fetched": "2026-03-05T08:52:57.509498+07:00"
+    },
+    {
+      "id": "80291f584437908405274796add7c6b0",
+      "title": "Thí sinh 'như bị đánh úp khi tuyển sinh thay đổi phút 89'",
+      "link": "https://vnexpress.net/thi-sinh-nhu-bi-danh-up-khi-tuyen-sinh-thay-doi-phut-89-5045787.html",
+      "summary": "Tập trung ôn thi IELTS từ lớp 10 để có lợi thế, Thúy Hằng thấy \"như bị đánh úp\" khi luật chơi thay đổi ở phút 89 - những tháng cuối trước xét tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:09:27+07:00",
+      "fetched": "2026-03-05T08:52:57.509628+07:00"
+    },
+    {
+      "id": "779a2b902da2dfc5587b1dc408ee0fd7",
+      "title": "Xác định 110 điểm nóng gây ô nhiễm không khí Hà Nội",
+      "link": "https://vnexpress.net/xac-dinh-110-diem-nong-gay-o-nhiem-khong-khi-ha-noi-5046744.html",
+      "summary": "14 làng nghề, 68 công trình xây dựng quy mô lớn và gần 30 khu vực đốt rơm rạ, được Cục Viễn thám quốc gia xác định là điểm nóng gây ô nhiễm không khí Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:09:15+07:00",
+      "fetched": "2026-03-05T08:52:57.509766+07:00"
+    },
+    {
+      "id": "025cfdd57ccc3e224443f00d8162eb61",
+      "title": "Điểm trừ của Google Maps ứng dụng trên ô tô",
+      "link": "https://thanhnien.vn/diem-tru-cua-google-maps-ung-dung-tren-o-to-185260304201330812.htm",
+      "summary": "Dù mạnh về dữ liệu, Google Maps vẫn có điểm trừ khi sử dụng trên ô tô tại Việt Nam. Những điểm trừ này gây bất tiện, khiến tài xế dễ vướng phải rủi ro vi phạm luật giao thông khi quy định mới ngày càng siết chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:09:00+07:00",
+      "fetched": "2026-03-05T08:53:02.434958+07:00"
+    },
+    {
+      "id": "b2d0d839f7ee5e3f1c2d578a2eaa5677",
+      "title": "Starlink hé lộ tốc độ 5G từ không gian",
+      "link": "https://vnexpress.net/starlink-he-lo-toc-do-5g-tu-khong-gian-5046329.html",
+      "summary": "SpaceX cho biết thế hệ vệ tinh V2 của Starlink Mobile sẽ đạt tốc độ 5G từ không gian với mật độ dữ liệu gấp 100 lần V1 hiện tại, cho phép kết nối trực tiếp với smartphone thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:08:59+07:00",
+      "fetched": "2026-03-05T08:52:57.509908+07:00"
+    },
+    {
+      "id": "b2d0d839f7ee5e3f1c2d578a2eaa5677",
+      "title": "Starlink hé lộ tốc độ 5G từ không gian",
+      "link": "https://vnexpress.net/starlink-he-lo-toc-do-5g-tu-khong-gian-5046329.html",
+      "summary": "SpaceX cho biết thế hệ vệ tinh V2 của Starlink Mobile sẽ đạt tốc độ 5G từ không gian với mật độ dữ liệu gấp 100 lần V1 hiện tại, cho phép kết nối trực tiếp với smartphone thông thường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-05T01:08:59+07:00",
+      "fetched": "2026-03-05T08:53:08.139953+07:00"
+    },
+    {
+      "id": "c22a1a53becf61844e359ada96e67933",
+      "title": "Nghị quyết ngăn ông Trump gây chiến với Iran bị chặn tại Thượng viện Mỹ",
+      "link": "https://thanhnien.vn/nghi-quyet-ngan-ong-trump-gay-chien-voi-iran-bi-chan-tai-thuong-vien-my-185260305074403971.htm",
+      "summary": "Các thượng nghị sĩ đảng Cộng hòa tại Thượng viện Mỹ đã bỏ phiếu phản đối nghị quyết nhằm chấm dứt chiến dịch quân sự của Tổng thống Donald Trump chống lại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:08:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435086+07:00"
+    },
+    {
+      "id": "a0b661f4ed262cf846f67b14212a8067",
+      "title": "Xuất khẩu ô tô Trung Quốc bị gián đoạn do xung đột tại Trung Đông leo thang",
+      "link": "https://thanhnien.vn/xuat-khau-o-to-trung-quoc-bi-gian-doan-do-xung-dot-tai-trung-dong-leo-thang-185260304142101218.htm",
+      "summary": "Các nhà sản xuất ô tô Trung Quốc đang đối mặt với những gián đoạn trong hoạt động xuất khẩu ô tô do xung đột tại Trung Đông leo thang, ảnh hưởng đến nguồn cung cũng như doanh số bán hàng không chỉ ở Iran mà còn tại các thị trường khu vực châu Âu, Tây Phi và Bắc Phi…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:06:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435215+07:00"
+    },
+    {
+      "id": "b7a3110338d09b45d6229a5ab4d016b1",
+      "title": "Cá lóc tấn công đàn vịt để bảo vệ con",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-ca-loc-tan-cong-dan-vit-de-bao-ve-con-5046605.html",
+      "summary": "Thấy đàn vịt bơi ngày một áp sát đàn cá con, cá lóc bố mẹ lập tức tung “đòn phủ đầu” khiến đối phương phải rút lui trong tích tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:52:57.510037+07:00"
+    },
+    {
+      "id": "ff71a340c704a47b1a73163cde498075",
+      "title": "Vivo X300 Ultra ra mắt tại MWC 2026",
+      "link": "https://vnexpress.net/vivo-x300-ultra-ra-mat-tai-mwc-2026-5046784.html",
+      "summary": "Vivo lần đầu giới thiệu mẫu smartphone đầu bảng X300 Ultra tại sự kiện công nghệ di động lớn nhất thế giới Mobile World Congress (MWC), ngày 3/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:52:57.510168+07:00"
+    },
+    {
+      "id": "8680022a2046a7687796641c15cb4052",
+      "title": "Tỉnh ủy Đồng Nai chỉ đạo làm rõ nội dung Báo Thanh Niên phản ánh về hạ cốt nền đường",
+      "link": "https://thanhnien.vn/tinh-uy-dong-nai-chi-dao-lam-ro-noi-dung-bao-thanh-nien-phan-anh-ve-ha-cot-nen-duong-185260305072923778.htm",
+      "summary": "Văn phòng Tỉnh ủy Đồng Nai đã có văn bản gửi UBND tỉnh Đồng Nai yêu cầu làm rõ nội dung phản ánh của Báo Thanh Niên liên quan bài viết \"Hạ cốt nền đường ở Đồng Nai, nhiều nhà dân chênh vênh bên mép vực sâu\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435342+07:00"
+    },
+    {
+      "id": "bd74949658c44583952f76b3549c1b35",
+      "title": "Vật thiêng của làng: Bay đi cánh chim triing",
+      "link": "https://thanhnien.vn/vat-thieng-cua-lang-bay-di-canh-chim-triing-185260304231532482.htm",
+      "summary": "Hình ảnh chim triing (chim hồng hoàng) thường xuất hiện trên nhà gươl (nhà cộng đồng làng), nhà mồ, cổng làng, được coi như sứ giả của Thần lúa, biểu tượng cho cái đẹp và sự thiêng liêng của cộng đồng Cơ Tu ở vùng cao Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435470+07:00"
+    },
+    {
+      "id": "d9ad3328ee9f910dd14f9902fc3951f2",
+      "title": "Cập nhật bước tiến mới trong tầm soát, chẩn đoán và điều trị ung thư vú",
+      "link": "https://thanhnien.vn/cap-nhat-buoc-tien-moi-trong-tam-soat-chan-doan-va-dieu-tri-ung-thu-vu-185260304195947555.htm",
+      "summary": "Ung thư vú là bệnh chiếm tỷ lệ cao trong các bệnh ung thư ở phụ nữ. Hiện y khoa ghi nhận nhiều bước tiến mới trong tầm soát, chẩn đoán và điều trị căn bệnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435595+07:00"
+    },
+    {
+      "id": "bd516777fd7ded3157874a45e0bbfb82",
+      "title": "Sống trên đảo tự nhiên: Biểu tượng xa xỉ mới của giới tinh hoa",
+      "link": "https://thanhnien.vn/song-tren-dao-tu-nhien-bieu-tuong-xa-xi-moi-cua-gioi-tinh-hoa-185260304195157183.htm",
+      "summary": "Giữa dòng chảy hối hả của thời đại, hành trình tìm về các hòn đảo tự nhiên đang trở thành đích đến của giới tinh hoa. Rời xa nhịp sống đô thị, họ chọn an trú giữa thiên nhiên biệt lập. Cuộc sống trên đảo là nơi họ được tận hưởng sự bình yên xa xỉ, bởi trước mặt nước mềm mại, dường như mọi xôn xao đề...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435721+07:00"
+    },
+    {
+      "id": "b7cbd35504467371a2d886d4d77636ff",
+      "title": "Hơn 10 năm thi công đường Hoàng Hữu Nam: Người dân vẫn mòn mỏi chờ hoàn thiện",
+      "link": "https://thanhnien.vn/hon-10-nam-thi-cong-duong-hoang-huu-nam-nguoi-dan-van-mon-moi-cho-hoan-thien-185260304121029927.htm",
+      "summary": "Hơn 10 năm kể từ ngày khởi công, dự án mở rộng đường Hoàng Hữu Nam, P.Long Bình, TP.HCM vẫn chưa thể hoàn thành do vướng mắc trong công tác giải phóng mặt bằng, khiến việc đi lại và sinh hoạt của người dân khu vực bị ảnh hưởng kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-05T01:00:00+07:00",
+      "fetched": "2026-03-05T08:53:02.435847+07:00"
+    },
+    {
+      "id": "1c4fda759b9681ec8696623b98f5fa45",
+      "title": "Xiaomi đưa hai robot hình người vào nhà máy sản xuất xe điện",
+      "link": "https://vnexpress.net/xiaomi-dua-hai-robot-hinh-nguoi-vao-nha-may-san-xuat-xe-dien-5046754.html",
+      "summary": "Chủ tịch Xiaomi cho biết robot hình người do hãng tự phát triển bắt đầu tham gia dây chuyền sản xuất xe điện và đạt năng suất như kỳ vọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-05T00:59:02+07:00",
+      "fetched": "2026-03-05T08:53:08.140091+07:00"
+    },
+    {
+      "id": "615bfed3d5df371156e66641ab479d05",
+      "title": "Hezbollah tuyên bố quyết không đầu hàng trước Mỹ - Israel",
+      "link": "https://vnexpress.net/hezbollah-tuyen-bo-quyet-khong-dau-hang-truoc-my-israel-5046781.html",
+      "summary": "Hezbollah khẳng định sẽ đối đầu đến cùng với Israel và Mỹ, quyết không đầu hàng dù \"tương quan lực lượng chênh lệch\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T00:55:35+07:00",
+      "fetched": "2026-03-05T08:53:04.916756+07:00"
+    },
+    {
+      "id": "9b537b85c22e7f401e2487e1e01678bb",
+      "title": "HLV Brighton: 'Arsenal câu giờ quá nhiều'",
+      "link": "https://vnexpress.net/hlv-brighton-arsenal-cau-gio-qua-nhieu-5046780.html",
+      "summary": "HLV Fabian Hurzeler cho rằng chỉ một đội cố gắng chơi bóng, đội còn lại câu giờ, ở trận Brighton thua Arsenal 0-1 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-05T00:23:36+07:00",
+      "fetched": "2026-03-05T08:53:09.513635+07:00"
+    },
+    {
+      "id": "b9d3fe2c0f78e8d0e8fc18f74a32db47",
+      "title": "Thượng viện Mỹ phản đối siết quyền của ông Trump trong cuộc chiến với Iran",
+      "link": "https://vnexpress.net/thuong-vien-my-phan-doi-siet-quyen-cua-ong-trump-trong-cuoc-chien-voi-iran-5046777.html",
+      "summary": "Thượng viện Mỹ, do phe Cộng hòa kiểm soát, bác bỏ đề xuất hạn chế quyền lực của Tổng thống Trump trong việc tiếp tục các cuộc tấn công Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-05T00:13:14+07:00",
+      "fetched": "2026-03-05T08:53:04.916918+07:00"
+    },
+    {
+      "id": "ccda3ee4a2ea89194e1ed19a7702fe32",
+      "title": "Man Utd thua trận đầu dưới thời Carrick",
+      "link": "https://vnexpress.net/man-utd-thua-tran-dau-duoi-thoi-carrick-5046771.html",
+      "summary": "Đá hơn người cả hiệp hai, Man Utd vẫn thua chủ nhà Newcastle 1-2 ở vòng 29 Ngoại hạng Anh và đứt mạch bất bại dưới thời HLV Michael Carrick.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T23:14:04+07:00",
+      "fetched": "2026-03-05T08:53:09.512690+07:00"
+    },
+    {
+      "id": "01f843e61035c38d49616ef3275ccc9a",
+      "title": "Ông Trump: Chiến dịch tập kích Iran đạt 15 trên 10 điểm",
+      "link": "https://vnexpress.net/ong-trump-chien-dich-tap-kich-iran-dat-15-tren-10-diem-5046766.html",
+      "summary": "Tổng thống Trump cho rằng hiệu quả hoạt động của Mỹ trong chiến dịch tấn công Iran đạt 15 điểm trên thang 10, nhấn mạnh sẽ tiếp tục tăng cường sức ép.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T23:10:37+07:00",
+      "fetched": "2026-03-05T08:53:04.917058+07:00"
+    },
+    {
+      "id": "f1d654deae0cdbca331e743c2f609c19",
+      "title": "Vệ binh Cách mạng Hồi giáo - lực lượng chỉ tuân lệnh lãnh tụ Iran",
+      "link": "https://vnexpress.net/ve-binh-cach-mang-hoi-giao-luc-luong-chi-tuan-lenh-lanh-tu-iran-5046535.html",
+      "summary": "Từ lực lượng bảo vệ cách mạng Hồi giáo, IRGC đã phát triển thành trụ cột an ninh và có quyền lực chính trị sâu rộng dưới quyền của Lãnh tụ Tối cao Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-04T23:00:00+07:00",
+      "fetched": "2026-03-05T08:53:04.917193+07:00"
+    },
+    {
+      "id": "831c9fcf96255cf18608c1996d30b9fe",
+      "title": "Man City bị chia điểm ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-city-bi-chia-diem-o-ngoai-hang-anh-5046769.html",
+      "summary": "Man City hai lần dẫn trước, nhưng vẫn bị đội khách Nottingham Forest cầm hòa 2-2 ở vòng 29 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-04T22:56:00+07:00",
+      "fetched": "2026-03-05T08:53:09.512867+07:00"
     },
     {
       "id": "4e1873904b65a01a4545bb9f75747a9c",
