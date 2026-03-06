@@ -1,6 +1,6 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T01:40:09.478006+07:00",
+  "lastUpdated": "2026-03-07T03:28:20.325878+07:00",
   "articles": [
     {
       "id": "b447d4a8fded33bfa9e738acc241a0c4",
@@ -151,6 +151,16 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T01:39:59.183677+07:00",
       "fetched": "2026-03-07T01:39:59.183885+07:00"
+    },
+    {
+      "id": "404afa2e4eb1ec6a04e43af0b06fb15d",
+      "title": "Lời kể của nạn nhân vụ ôtô đâm 9 xe trên đường Hà Nội",
+      "link": "https://vnexpress.net/loi-ke-cua-nan-nhan-vu-oto-dam-9-xe-tren-duong-ha-noi-5047610.html",
+      "summary": "Tài xế Nguyễn Bách kể sau khi húc xe của anh văng lên vỉa hè, ôtô do người đàn ông lái tiếp tục phóng đi tốc độ cao, đâm vào nhiều xe khác trên phố Nguyễn Chánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-06T18:45:48+07:00",
+      "fetched": "2026-03-07T03:28:06.438513+07:00"
     },
     {
       "id": "cedbf93aabef982b67ff9c20b61c24d8",
