@@ -1,7 +1,37 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T10:58:34.049241+07:00",
+  "lastUpdated": "2026-03-07T12:02:29.068207+07:00",
   "articles": [
+    {
+      "id": "14a49c68e886911e7c914126fe68f308",
+      "title": "Đàn gà bị lũ cuốn trôi, người dân Huế được tặng 7.500 con gà giống để dựng lại sinh kế",
+      "link": "https://tuoitre.vn/dan-ga-bi-lu-cuon-troi-nguoi-dan-hue-duoc-tang-7-500-con-ga-giong-de-dung-lai-sinh-ke-20260307103354177.htm",
+      "summary": "Sau trận lũ dữ cuối năm 2025, đàn gà hơn 80 con của gia đình bà Trần Thị Lan (50 tuổi, trú phường Hương An, TP Huế) bị cuốn trôi. Sau lũ, bà Lan được báo Tuổi Trẻ và Công ty CP GREENFEED hỗ trợ 150 con gà giống cùng thức ăn và thuốc thú y.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T12:02:20.514013+07:00",
+      "fetched": "2026-03-07T12:02:20.514134+07:00"
+    },
+    {
+      "id": "a8bb8ec70ca09e52cef6abd7682d8a33",
+      "title": "Bắt người đánh vợ, tung tin vu khống công an trên mạng xã hội",
+      "link": "https://tuoitre.vn/bat-nguoi-danh-vo-tung-tin-vu-khong-cong-an-tren-mang-xa-hoi-20260307102940536.htm",
+      "summary": "Công an xã Bờ Y, tỉnh Quảng Ngãi vừa bắt giữ khẩn cấp nghi phạm đe dọa giết người, bạo hành vợ dã man, vu khống công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T12:02:20.513868+07:00",
+      "fetched": "2026-03-07T12:02:20.514000+07:00"
+    },
+    {
+      "id": "a37cab44acfd7916bce681b11e51fa8d",
+      "title": "Tuyển nữ Triều Tiên hướng đến ngôi hậu",
+      "link": "https://tuoitre.vn/tuyen-nu-trieu-tien-huong-den-ngoi-hau-20260307060322832.htm",
+      "summary": "Sau 16 năm vắng bóng tại đấu trường Asian Cup nữ, các cô gái Triều Tiên đang chứng tỏ sức mạnh của họ vẫn vượt trội sau thời gian dài không tham dự giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T12:02:20.513643+07:00",
+      "fetched": "2026-03-07T12:02:20.513852+07:00"
+    },
     {
       "id": "7fa54a540db4ad87ca9bf102d70f5150",
       "title": "Thời của lao động gen Z: Ổn định năng lực thay vì ổn định việc làm",
@@ -293,6 +323,256 @@ window.newsData_2026_03_07 = {
       "fetched": "2026-03-07T08:46:17.403371+07:00"
     },
     {
+      "id": "4029ac2b830fd857a67c010a0f38acc4",
+      "title": "Bomber lụa đa sắc - làn gió mới thu hút tín đồ mùa thời trang xuân hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bomber-lua-da-sac-lan-gio-moi-thu-hut-tin-do-mua-thoi-trang-xuan-he-185260306212246144.htm",
+      "summary": "Những thiết kế bomber lụa organza nhẹ và thoáng mới xuất hiện mang đến diện mạo độc đáo, dễ phối kết đã nhanh chóng chinh phục nhiều tín đồ thời trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:00:00+07:00",
+      "fetched": "2026-03-07T12:02:19.408694+07:00"
+    },
+    {
+      "id": "8fbe490869a95f8fc981427313c52f76",
+      "title": "Hành trình táo bạo của cô gái gen Z",
+      "link": "https://thanhnien.vn/hanh-trinh-tao-bao-cua-co-gai-gen-z-185260305130301612.htm",
+      "summary": "Từng bỏ ngang 'Harvard Việt Nam' để theo đuổi lối đi riêng, Trần Diễm Quỳnh đang từng bước khẳng định bản lĩnh với dự án khởi nghiệp Trazen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:59:00+07:00",
+      "fetched": "2026-03-07T12:02:19.408863+07:00"
+    },
+    {
+      "id": "096e389e62c5f60bae6f309eed068e44",
+      "title": "Bí thư T.Ư Đoàn thăm mẹ VN anh hùng và tham gia nhiều hoạt động cộng đồng",
+      "link": "https://thanhnien.vn/bi-thu-tu-doan-tham-me-vn-anh-hung-va-tham-gia-nhieu-hoat-dong-cong-dong-185260307113058881.htm",
+      "summary": "Trong khuôn khổ các hoạt động Tháng Thanh niên, sáng 7.3, chị Nguyễn Phạm Duy Trang, Bí thư T.Ư Đoàn cùng đoàn công tác đến thăm Mẹ VN anh hùng ở xã An Long và dự chương trình phối hợp với Công an TP.HCM tổ chức ra quân đảm bảo an ninh trật tự, an toàn giao thông (ATGT) cổng trường học, bến xe khách...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:49:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409023+07:00"
+    },
+    {
+      "id": "894af502ef647ed956a0f83dde34de42",
+      "title": "Khám sức khỏe tiền hôn nhân: Vì sao các cặp đôi nên chuẩn bị sớm?",
+      "link": "https://thanhnien.vn/kham-suc-khoe-tien-hon-nhan-vi-sao-cac-cap-doi-nen-chuan-bi-som-185260307105522384.htm",
+      "summary": "Trước khi bước vào cuộc sống hôn nhân, nhiều cặp đôi trẻ hiện nay không chỉ chuẩn bị cho lễ cưới mà còn chủ động quan tâm đến sức khỏe của cả hai. Khám sức khỏe tiền hôn nhân đang dần trở thành một xu hướng, giúp các cặp đôi hiểu rõ tình trạng sức khỏe, chuẩn bị tâm lý và kiến thức cần thiết cho cuộ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:45:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409176+07:00"
+    },
+    {
+      "id": "d75709bba3bcb8f990571f67135d1013",
+      "title": "Lan tỏa lòng hiếu thảo từ câu chuyện đời thường về mẹ",
+      "link": "https://thanhnien.vn/lan-toa-long-hieu-thao-tu-cau-chuyen-doi-thuong-ve-me-185260305120920089.htm",
+      "summary": "Những hình ảnh đời thường nhưng thân thương, giản dị về mẹ được ghi lại và đăng tải trên mạng xã hội nhận được sự yêu thích, quan tâm, chia sẻ của cộng đồng, giúp người chia sẻ trở nên nổi tiếng, lan tỏa những giá trị tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:35:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409335+07:00"
+    },
+    {
+      "id": "92577314ab9efbdf73a564ff15ee76d2",
+      "title": "Bị zona thần kinh có tắm được không?",
+      "link": "https://vnexpress.net/bi-zona-than-kinh-co-tam-duoc-khong-5047688.html",
+      "summary": "Tôi đang mắc zona thần kinh một bên lưng phải. Tôi có cần kiêng tắm và tránh nước không để không làm vết thương lan rộng? (Thanh Liêm, 70 tuổi, Thanh Hóa)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:30:00+07:00",
+      "fetched": "2026-03-07T12:02:16.322194+07:00"
+    },
+    {
+      "id": "2fdea1ae4c4313ab1ced4883f3cf3aca",
+      "title": "Du khách Nga quay lại bấm chuông cảm ơn vì món ăn ngon",
+      "link": "https://thanhnien.vn/du-khach-nga-quay-lai-bam-chuong-cam-on-vi-mon-an-ngon-185260307091612808.htm",
+      "summary": "Một du khách Nga sau khi dùng bữa tại quán ăn ở Đà Nẵng đã quay lại bấm chuông trước cửa quán và cúi đầu cảm ơn vì món ăn ngon, khiến nhiều người thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:25:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409482+07:00"
+    },
+    {
+      "id": "85dc77097bf5e41b378b3631c04847e2",
+      "title": "Tuyển nữ Iran bị gọi là 'những kẻ phản quốc thời chiến'",
+      "link": "https://vnexpress.net/tuyen-nu-iran-bi-goi-la-nhung-ke-phan-quoc-thoi-chien-5047659.html",
+      "summary": "Lời kêu gọi Australia hỗ trợ tuyển bóng đá nữ Iran đang gia tăng sau khi các cầu thủ bị truyền thông nhà nước Iran lên án vì không hát quốc ca trước trận gặp Hàn Quốc tại Asian Cup hôm 2/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:20:23+07:00",
+      "fetched": "2026-03-07T12:02:16.322379+07:00"
+    },
+    {
+      "id": "85dc77097bf5e41b378b3631c04847e2",
+      "title": "Tuyển nữ Iran bị gọi là 'những kẻ phản quốc thời chiến'",
+      "link": "https://vnexpress.net/tuyen-nu-iran-bi-goi-la-nhung-ke-phan-quoc-thoi-chien-5047659.html",
+      "summary": "Lời kêu gọi Australia hỗ trợ tuyển bóng đá nữ Iran đang gia tăng sau khi các cầu thủ bị truyền thông nhà nước Iran lên án vì không hát quốc ca trước trận gặp Hàn Quốc tại Asian Cup hôm 2/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T04:20:23+07:00",
+      "fetched": "2026-03-07T12:02:29.061356+07:00"
+    },
+    {
+      "id": "7a5aa67d3fe50848674fe3b5bcbdb7c8",
+      "title": "Phụ nữ trong thế giới kết nối",
+      "link": "https://thanhnien.vn/phu-nu-trong-the-gioi-ket-noi-185260305105525999.htm",
+      "summary": "Chưa bao giờ công nghệ bước vào đời sống con người nhanh và sâu như hiện nay. Chỉ trong hơn một thập niên, chiếc điện thoại thông minh đã thay đổi cách chúng ta làm việc, chăm sóc gia đình, yêu thương, nuôi dạy con cái, và nhìn nhận chính mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:16:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409661+07:00"
+    },
+    {
+      "id": "026f2cf566e24a081f6ef1466e96ddb6",
+      "title": "Giá xăng tại Mỹ tăng vọt vì xung đột ở Trung Đông",
+      "link": "https://vnexpress.net/gia-xang-tai-my-tang-vot-vi-xung-dot-o-trung-dong-5047673.html",
+      "summary": "Giá xăng, dầu diesel tại Mỹ tăng 11-15% so với tuần trước, khi chuỗi cung ứng năng lượng toàn cầu gián đoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:13:11+07:00",
+      "fetched": "2026-03-07T12:02:16.322545+07:00"
+    },
+    {
+      "id": "026f2cf566e24a081f6ef1466e96ddb6",
+      "title": "Giá xăng tại Mỹ tăng vọt vì xung đột ở Trung Đông",
+      "link": "https://vnexpress.net/gia-xang-tai-my-tang-vot-vi-xung-dot-o-trung-dong-5047673.html",
+      "summary": "Giá xăng, dầu diesel tại Mỹ tăng 11-15% so với tuần trước, khi chuỗi cung ứng năng lượng toàn cầu gián đoạn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-07T04:13:11+07:00",
+      "fetched": "2026-03-07T12:02:24.021445+07:00"
+    },
+    {
+      "id": "6a8511cedc6bb76cea2257048d8b8f81",
+      "title": "Cảnh sát bảo vệ Thị trưởng San Francisco bị quật ngã trên phố",
+      "link": "https://vnexpress.net/canh-sat-bao-ve-thi-truong-san-francisco-bi-quat-nga-tren-pho-5047669.html",
+      "summary": "Sĩ quan cảnh sát bảo vệ Thị trưởng Lurie bị kẻ tấn công quật ngã, gây chảy máu đầu tại khu phố tệ nạn ở San Francisco.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:07:44+07:00",
+      "fetched": "2026-03-07T12:02:16.322730+07:00"
+    },
+    {
+      "id": "6a8511cedc6bb76cea2257048d8b8f81",
+      "title": "Cảnh sát bảo vệ Thị trưởng San Francisco bị quật ngã trên phố",
+      "link": "https://vnexpress.net/canh-sat-bao-ve-thi-truong-san-francisco-bi-quat-nga-tren-pho-5047669.html",
+      "summary": "Sĩ quan cảnh sát bảo vệ Thị trưởng Lurie bị kẻ tấn công quật ngã, gây chảy máu đầu tại khu phố tệ nạn ở San Francisco.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-07T04:07:44+07:00",
+      "fetched": "2026-03-07T12:02:22.103014+07:00"
+    },
+    {
+      "id": "c418972c23bac1bb944d6df6a8b188a1",
+      "title": "Nhóm cầu thủ vi phạm 'vẫn có thể chơi cho Malaysia trong tương lai'",
+      "link": "https://vnexpress.net/nhom-cau-thu-vi-pham-van-co-the-choi-cho-malaysia-trong-tuong-lai-5047550.html",
+      "summary": "Các cầu thủ nhập tịch bị cấm thi đấu vì giấy tờ không hợp lệ vẫn có thể khoác áo đội tuyển Malaysia trong tương lai nếu đáp ứng các quy định của FIFA sau khi án phạt kết thúc, theo luật sư Nik Erman.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:33+07:00",
+      "fetched": "2026-03-07T12:02:16.322887+07:00"
+    },
+    {
+      "id": "c418972c23bac1bb944d6df6a8b188a1",
+      "title": "Nhóm cầu thủ vi phạm 'vẫn có thể chơi cho Malaysia trong tương lai'",
+      "link": "https://vnexpress.net/nhom-cau-thu-vi-pham-van-co-the-choi-cho-malaysia-trong-tuong-lai-5047550.html",
+      "summary": "Các cầu thủ nhập tịch bị cấm thi đấu vì giấy tờ không hợp lệ vẫn có thể khoác áo đội tuyển Malaysia trong tương lai nếu đáp ứng các quy định của FIFA sau khi án phạt kết thúc, theo luật sư Nik Erman.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T04:00:33+07:00",
+      "fetched": "2026-03-07T12:02:29.060700+07:00"
+    },
+    {
+      "id": "c3731a56ee552edb6d2a6861fd8733a8",
+      "title": "Sắp có sự kiện ẩm thực thế giới tại Đà Nẵng",
+      "link": "https://vnexpress.net/sap-co-su-kien-am-thuc-the-gioi-tai-da-nang-5047685.html",
+      "summary": "Sự kiện Grand Chapitre Vietnam 2026 kéo dài 4 ngày, gồm các bữa tiệc ngoài trời, lớp học nấu ăn, lễ kết nạp hội viên, do Hiệp hội Ẩm thực thế giới tổ chức ngày 26-29/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:16.323043+07:00"
+    },
+    {
+      "id": "bfab83848267899ff8c2276e5cafe6eb",
+      "title": "Tổ hợp Y tế Mediplus 5 năm chăm sóc sức khỏe cộng đồng",
+      "link": "https://vnexpress.net/to-hop-y-te-mediplus-5-nam-cham-soc-suc-khoe-cong-dong-5047681.html",
+      "summary": "Tổ hợp Y tế Mediplus đầu tư thiết bị, xây dựng không gian thăm khám thân thiện, số hóa quy trình nhằm giảm áp lực tâm lý cho khách hàng khi khám bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:16.323201+07:00"
+    },
+    {
+      "id": "c27d11f1228b265db78115bba6ffaee2",
+      "title": "Khi nào cần cấy máy tạo nhịp tim?",
+      "link": "https://vnexpress.net/khi-nao-can-cay-may-tao-nhip-tim-5047569.html",
+      "summary": "Tôi thường xuyên bị chóng mặt, có lúc ngất xỉu, bác sĩ chẩn đoán nhịp tim chậm và tư vấn đặt máy tạo nhịp. Thiết bị này hoạt động ra sao và trường hợp nào bắt buộc phải dùng? (Đức Mạnh, 52 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:16.323351+07:00"
+    },
+    {
+      "id": "8eabf9adecdc981f75416e18596b4da6",
+      "title": "Home Depot theo dõi giao hàng cồng kềnh theo thời gian thực",
+      "link": "https://vnexpress.net/home-depot-theo-doi-giao-hang-cong-kenh-theo-thoi-gian-thuc-5045548.html",
+      "summary": "Chuỗi bán lẻ vật liệu xây dựng Home Depot vừa triển khai tính năng theo dõi giao hàng cồng kềnh theo thời gian thực, nhằm nâng cao độ tin cậy và khả năng giao tiếp với khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:16.323500+07:00"
+    },
+    {
+      "id": "7144a41c3b980215b3b10735ef26d5f8",
+      "title": "Rộ nghi vấn Nga chia sẻ tình báo cho Iran, Mỹ lên tiếng",
+      "link": "https://thanhnien.vn/ro-nghi-van-nga-chia-se-tinh-bao-cho-iran-my-len-tieng-185260307095342821.htm",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Pete Hegseth ngày 6.3 cho biết nước này 'không lo ngại' về các báo cáo cho rằng Nga đang cung cấp thông tin tình báo cho Iran về vị trí và hoạt động của quân đội Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409814+07:00"
+    },
+    {
+      "id": "d8c3e22faeb9a82634e9b464420a28d3",
+      "title": "Đội tuyển nữ Việt Nam 0-0 Đài Loan, VCK châu Á 2026: Đoạt vé tứ kết sớm",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-0-0-dai-loan-vck-chau-a-2026-doat-ve-tu-ket-som-18526030708352343.htm",
+      "summary": "Đội tuyển nữ Việt Nam bước vào lượt đấu thứ hai bảng C VCK châu Á - Asian Cup 2026, gặp Đài Loan lúc 12 giờ hôm nay ngày 7.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:00:00+07:00",
+      "fetched": "2026-03-07T12:02:19.409972+07:00"
+    },
+    {
+      "id": "1650795e3f7742c4c6c456234342c6c4",
+      "title": "Tự uống thuốc giảm đau, cụ ông 87 tuổi nhập viện ở TP.HCM",
+      "link": "https://thanhnien.vn/tu-uong-thuoc-giam-dau-cu-ong-87-tuoi-nhap-vien-o-tphcm-185260307005750954.htm",
+      "summary": "Tự ý dùng thuốc giảm đau không rõ nguồn gốc trong thời gian dài, cụ ông 87 tuổi nhập viện trong tình trạng suy kiệt và được xác định suy thượng thận mạn do corticoid.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T03:59:00+07:00",
+      "fetched": "2026-03-07T12:02:19.410120+07:00"
+    },
+    {
+      "id": "3f094941eabcba88bc3b12c79a871e64",
+      "title": "Messi nhận tới 80 triệu USD mỗi năm tại Inter Miami",
+      "link": "https://vnexpress.net/messi-nhan-toi-80-trieu-usd-moi-nam-tai-inter-miami-5047693.html",
+      "summary": "Chủ sở hữu Inter Miami Jorge Mas xác nhận thu nhập của Lionel Messi tại CLB dao động từ 70 đến 80 triệu USD mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T03:58:54+07:00",
+      "fetched": "2026-03-07T12:02:16.323681+07:00"
+    },
+    {
+      "id": "3f094941eabcba88bc3b12c79a871e64",
+      "title": "Messi nhận tới 80 triệu USD mỗi năm tại Inter Miami",
+      "link": "https://vnexpress.net/messi-nhan-toi-80-trieu-usd-moi-nam-tai-inter-miami-5047693.html",
+      "summary": "Chủ sở hữu Inter Miami Jorge Mas xác nhận thu nhập của Lionel Messi tại CLB dao động từ 70 đến 80 triệu USD mỗi năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T03:58:54+07:00",
+      "fetched": "2026-03-07T12:02:29.062783+07:00"
+    },
+    {
       "id": "ee534a4b7230e3821a1ee429ac92e635",
       "title": "Xem nhanh 12h: Giá xăng dầu có thể điều chỉnh sớm | Mỹ nới lỏng cấm vận dầu mỏ Nga",
       "link": "https://thanhnien.vn/xem-nhanh-12h-gia-xang-dau-co-the-dieu-chinh-som-my-noi-long-cam-van-dau-mo-nga-185260307105652307.htm",
@@ -301,6 +581,26 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T03:58:00+07:00",
       "fetched": "2026-03-07T10:58:26.767911+07:00"
+    },
+    {
+      "id": "27371a21db33cdb6cc56e3ef79d8dbfa",
+      "title": "Xavi từ chối dẫn dắt Morocco tại World Cup 2026",
+      "link": "https://vnexpress.net/xavi-tu-choi-dan-dat-morocco-tai-world-cup-2026-5047674.html",
+      "summary": "Liên đoàn bóng đá Morocco muốn huyền thoại Xavi Hernandez dẫn dắt đội tuyển nước này dự World Cup 2026 sau khi Walid Regragui từ chức, nhưng không đạt thỏa thuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T03:57:28+07:00",
+      "fetched": "2026-03-07T12:02:16.323837+07:00"
+    },
+    {
+      "id": "27371a21db33cdb6cc56e3ef79d8dbfa",
+      "title": "Xavi từ chối dẫn dắt Morocco tại World Cup 2026",
+      "link": "https://vnexpress.net/xavi-tu-choi-dan-dat-morocco-tai-world-cup-2026-5047674.html",
+      "summary": "Liên đoàn bóng đá Morocco muốn huyền thoại Xavi Hernandez dẫn dắt đội tuyển nước này dự World Cup 2026 sau khi Walid Regragui từ chức, nhưng không đạt thỏa thuận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T03:57:28+07:00",
+      "fetched": "2026-03-07T12:02:29.061846+07:00"
     },
     {
       "id": "45b94ecf6c30b5f80d8d36c950645868",
