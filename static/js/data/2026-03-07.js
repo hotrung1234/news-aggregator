@@ -1,7 +1,157 @@
 window.newsData_2026_03_07 = {
   "date": "2026-03-07",
-  "lastUpdated": "2026-03-07T12:02:29.068207+07:00",
+  "lastUpdated": "2026-03-07T13:36:30.193616+07:00",
   "articles": [
+    {
+      "id": "5141255f9de75b3cf21ed0d7aeaf67dc",
+      "title": "Chưa đầy 3 năm, một công ty chứng khoán thay tổng giám đốc tới 5 lần",
+      "link": "https://tuoitre.vn/chua-day-3-nam-mot-cong-ty-chung-khoan-thay-tong-giam-doc-toi-5-lan-20260307114051871.htm",
+      "summary": "Công ty CP Chứng khoán T-Cap (TVB) liên tục trải qua những biến động nhân sự cấp cao trong thời gian gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285656+07:00",
+      "fetched": "2026-03-07T13:36:22.285751+07:00"
+    },
+    {
+      "id": "91af04714754b4e33f81137c74d36988",
+      "title": "Ảnh hưởng xung đột Trung Đông, doanh nghiệp đề xuất nạp 6kg gas cho bình 12kg",
+      "link": "https://tuoitre.vn/anh-huong-xung-dot-trung-dong-doanh-nghiep-de-xuat-nap-6kg-gas-cho-binh-12kg-20260307104032571.htm",
+      "summary": "Trước nguy cơ nguồn cung gas có thể bị gián đoạn do tác động từ xung đột tại Trung Đông, một số doanh nghiệp kinh doanh khí hóa lỏng tại khu vực phía Nam đã đề xuất phương án tạm thời chiết nạp khoảng 6kg gas vào bình 12kg.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285552+07:00",
+      "fetched": "2026-03-07T13:36:22.285644+07:00"
+    },
+    {
+      "id": "274c3d95ab0c104e2544858c71bcdaf7",
+      "title": "Người đàn ông lượm ve chai phát hiện 24 bánh nghi ma túy ở bờ biển Kê Gà",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-luom-ve-chai-phat-hien-24-banh-nghi-ma-tuy-o-bo-bien-ke-ga-20260307112023384.htm",
+      "summary": "Trong lúc đi lượm ve chai trên bờ biển địa phương, một người đàn ông ở thôn Kê Gà, xã Tân Thành, tỉnh Lâm Đồng lượm được một bao chứa 24 bánh nghi là ma túy trôi dạt từ ngoài khơi vào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285452+07:00",
+      "fetched": "2026-03-07T13:36:22.285543+07:00"
+    },
+    {
+      "id": "d9f044e0d3c7c9d9bdcbd1000a299a4b",
+      "title": "Sếp doanh nghiệp nhộn nhịp mua bán cổ phiếu, Chủ tịch PVTrans chốt lời tiền tỉ",
+      "link": "https://tuoitre.vn/sep-doanh-nghiep-nhon-nhip-mua-ban-co-phieu-chu-tich-pvtrans-chot-loi-tien-ti-20260307112357276.htm",
+      "summary": "Cổ phiếu dầu khí tăng nóng thời gian qua kéo theo làn sóng chốt lời từ nhà đầu tư và lãnh đạo doanh nghiệp. Trong bối cảnh đó, một số lãnh đạo doanh nghiệp ngành khác lại tranh thủ mua vào giữa nhịp điều chỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285343+07:00",
+      "fetched": "2026-03-07T13:36:22.285444+07:00"
+    },
+    {
+      "id": "0c35102f614500aeb36207bf0df70d7d",
+      "title": "Du học sinh hiến kế nâng chất nhân lực Việt: Học phải gắn thực tiễn, rèn tư duy toàn cầu",
+      "link": "https://tuoitre.vn/du-hoc-sinh-hien-ke-nang-chat-nhan-luc-viet-hoc-phai-gan-thuc-tien-ren-tu-duy-toan-cau-20260307094857432.htm",
+      "summary": "Theo nhiều du học sinh Việt, để có nguồn nhân lực chất lượng cao, giáo dục cần thay đổi từ chương trình, cách dạy đến hệ sinh thái nghiên cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285211+07:00",
+      "fetched": "2026-03-07T13:36:22.285320+07:00"
+    },
+    {
+      "id": "5d8db8ff6bcca3cebab0e3d11166440b",
+      "title": "Đường sắt Bắc - Nam gián đoạn, hàng hóa được vận chuyển ra sao?",
+      "link": "https://tuoitre.vn/duong-sat-bac-nam-gian-doan-hang-hoa-duoc-van-chuyen-ra-sao-20260307110838793.htm",
+      "summary": "Sau sự cố một sà lan chở hàng trên sông Đồng Nai va vào gầm cầu Ghềnh khiến tuyến đường sắt Bắc - Nam bị gián đoạn, ngành đường sắt khẩn trương đưa ra những phương án đảm bảo việc vận chuyển hàng hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285112+07:00",
+      "fetched": "2026-03-07T13:36:22.285202+07:00"
+    },
+    {
+      "id": "b5f9b08fa6617e92bebb70ffbf8a8495",
+      "title": "Xác minh thông tin phát hiện thi thể trẻ sơ sinh nổi trên sông ở Cà Mau",
+      "link": "https://tuoitre.vn/xac-minh-thong-tin-phat-hien-thi-the-tre-so-sinh-noi-tren-song-o-ca-mau-20260307120402473.htm",
+      "summary": "Những ngày qua, trên mạng xã hội lan truyền thông tin người dân phát hiện thi thể một trẻ sơ sinh nổi trên sông tại khu vực Rau Dừa gần cầu Ba Vinh (xã Hưng Mỹ, tỉnh Cà Mau).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.285010+07:00",
+      "fetched": "2026-03-07T13:36:22.285103+07:00"
+    },
+    {
+      "id": "23b49f65c07f24aad904689f092f3931",
+      "title": "Vụ hạ cốt nền múc đất ở Đồng Nai: Cơ quan chuyên môn khẳng định ‘chưa nhận được hồ sơ về môi trường'",
+      "link": "https://tuoitre.vn/vu-ha-cot-nen-muc-dat-o-dong-nai-co-quan-chuyen-mon-khang-dinh-chua-nhan-duoc-ho-so-ve-moi-truong-20260307112835549.htm",
+      "summary": "Liên quan vụ hạ cốt nền múc đất ở dự án đường ĐT.753 khiến nhà dân cheo leo, Sở Nông nghiệp và Môi trường tỉnh Đồng Nai khẳng định chưa nhận được hồ sơ đăng ký về môi trường của dự án này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284907+07:00",
+      "fetched": "2026-03-07T13:36:22.285001+07:00"
+    },
+    {
+      "id": "a066813c7eae66ca1ac2c348cc85e9f9",
+      "title": "Giá dầu tăng kỷ lục vì chiến sự Iran, nguy cơ vượt 100 USD/thùng",
+      "link": "https://tuoitre.vn/gia-dau-tang-ky-luc-vi-chien-su-iran-nguy-co-vuot-100-usd-thung-20260307115253434.htm",
+      "summary": "Giá dầu tăng mạnh khi xung đột tại Iran làm gián đoạn nguồn cung năng lượng toàn cầu và tê liệt tuyến vận chuyển qua eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284804+07:00",
+      "fetched": "2026-03-07T13:36:22.284899+07:00"
+    },
+    {
+      "id": "d35dae6d261746307275b41cbd3830b1",
+      "title": "Đặc khu Thổ Châu, Phú Quốc sẵn sàng cho bầu cử sớm",
+      "link": "https://tuoitre.vn/dac-khu-tho-chau-phu-quoc-san-sang-cho-bau-cu-som-20260307113048352.htm",
+      "summary": "Đặc khu Thổ Châu (tỉnh An Giang) chuẩn bị xong và sẵn sàng để cử tri đi bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 sớm vào ngày 8-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284701+07:00",
+      "fetched": "2026-03-07T13:36:22.284796+07:00"
+    },
+    {
+      "id": "1f3a921063d2d15ad341173a3f254f37",
+      "title": "Toyota sẽ cắt giảm sản lượng gần 40.000 xe dành cho thị trường Trung Đông",
+      "link": "https://tuoitre.vn/toyota-se-cat-giam-san-luong-gan-40-000-xe-danh-cho-thi-truong-trung-dong-20260307092024627.htm",
+      "summary": "Theo Hãng tin Nikkei Asia, hãng sản xuất ô tô Toyota Motor của Nhật Bản sẽ cắt giảm sản xuất gần 40.000 xe dành cho thị trường Trung Đông, do những lo ngại về logistics phát sinh từ cuộc khủng hoảng đang xảy ra tại khu vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284596+07:00",
+      "fetched": "2026-03-07T13:36:22.284692+07:00"
+    },
+    {
+      "id": "52060284bfaa78fa26674dde928de3ab",
+      "title": "Ông Nguyễn Thanh Nghị cam kết giám sát các chương trình, dự án trọng điểm quốc gia",
+      "link": "https://tuoitre.vn/ong-nguyen-thanh-nghi-cam-ket-giam-sat-cac-chuong-trinh-du-an-trong-diem-quoc-gia-20260307114025709.htm",
+      "summary": "Trình bày chương trình hành động khi ứng cử đại biểu Quốc hội khóa XVI tại Đắk Lắk, ông Nguyễn Thanh Nghị cho biết sẽ theo dõi, giám sát việc triển khai các chương trình, dự án trọng điểm quốc gia, phản ánh kiến nghị cử tri đến Quốc hội, Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284491+07:00",
+      "fetched": "2026-03-07T13:36:22.284587+07:00"
+    },
+    {
+      "id": "aad8079df3fec3ff157ac2b70efde816",
+      "title": "Hơn 16.500 thí sinh tham dự kỳ thi đánh giá năng lực HSA lớn nhất từ trước tới nay",
+      "link": "https://tuoitre.vn/hon-16-500-thi-sinh-tham-du-ky-thi-danh-gia-nang-luc-hsa-lon-nhat-tu-truoc-toi-nay-20260307113449451.htm",
+      "summary": "Sáng 7-3, kỳ thi đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2026 đợt 1 (kỳ thi HSA) chính thức diễn ra. Có hơn 16.500 thí sinh đăng ký dự thi, tăng khoảng hơn 5.000 thí sinh so với đợt 1 năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284375+07:00",
+      "fetched": "2026-03-07T13:36:22.284481+07:00"
+    },
+    {
+      "id": "248507fc789c121204d7d46e845e019b",
+      "title": "Qua đời vì ung thư, cô gái trẻ hiến giác mạc trao ánh sáng cho 2 cuộc đời",
+      "link": "https://tuoitre.vn/qua-doi-vi-ung-thu-co-gai-tre-hien-giac-mac-trao-anh-sang-cho-2-cuoc-doi-20260307113324306.htm",
+      "summary": "Mắc ung thư giai đoạn cuối khi tuổi đời còn rất trẻ, cô gái ấy vẫn kiên cường chống chọi với bệnh tật trong những ngày tháng cuối đời. Trước khi ra đi, cô để lại di nguyện hiến tặng giác mạc của mình để trao lại ánh sáng cho người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.284227+07:00",
+      "fetched": "2026-03-07T13:36:22.284364+07:00"
+    },
+    {
+      "id": "92f38b573706e91315e6ceb50a84c4ff",
+      "title": "Camera AI bị tố khiến tài xế nhận phạt oan khi hành khách mất kiểm soát, nghịch dây an toàn",
+      "link": "https://tuoitre.vn/camera-ai-bi-to-khien-tai-xe-nhan-phat-oan-khi-hanh-khach-mat-kiem-soat-nghich-day-an-toan-20260306151834972.htm",
+      "summary": "Nhiều tài xế tại Úc cho biết hệ thống camera AI đã mắc sai lầm khi ghi nhận lỗi vi phạm giao thông trong những tình huống mà họ cho là \"không công bằng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T13:36:22.283971+07:00",
+      "fetched": "2026-03-07T13:36:22.284213+07:00"
+    },
     {
       "id": "14a49c68e886911e7c914126fe68f308",
       "title": "Đàn gà bị lũ cuốn trôi, người dân Huế được tặng 7.500 con gà giống để dựng lại sinh kế",
@@ -323,6 +473,196 @@ window.newsData_2026_03_07 = {
       "fetched": "2026-03-07T08:46:17.403371+07:00"
     },
     {
+      "id": "167e7e066310e87e187e7afd5d92fe49",
+      "title": "Cầu xây xong 'đắp chiếu' chờ đường dẫn",
+      "link": "https://thanhnien.vn/cau-xay-xong-dap-chieu-cho-duong-dan-185260306190510765.htm",
+      "summary": "Cây cầu đã cơ bản hoàn thành, nhưng phải \"đắp chiếu\" gần 1 năm qua vì thiếu đường dẫn lên cầu, trong khi người dân sốt ruột vì giao thông bị cách trở, nông sản bị ép giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:34:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141067+07:00"
+    },
+    {
+      "id": "640836858441b05603c582330d9390e8",
+      "title": "Bò thả rông trên đường",
+      "link": "https://thanhnien.vn/bo-tha-rong-tren-duong-185260306185931402.htm",
+      "summary": "Bạn đọc phản ánh một đàn bò thả rông không thấy người trông coi, chăn dắt thường ra khu vực đường Phạm Thị Khế, đoạn gần trước cổng Trường tiểu học Bùi Văn Ngữ, xã Bà Điểm, TP.HCM, gây nguy hiểm cho người đi lại và cản trở lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:34:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141218+07:00"
+    },
+    {
+      "id": "dd7bacca69336e7c699a7af9b3aa82a5",
+      "title": "Dốc cầu Chánh Hưng ùn tắc giờ cao điểm, vì sao ?",
+      "link": "https://thanhnien.vn/doc-cau-chanh-hung-un-tac-gio-cao-diem-vi-sao-185260306185430228.htm",
+      "summary": "Tại khu vực dốc cầu Chánh Hưng, hướng rẽ trái vào đường Hưng Phú (P.Chánh Hưng, TP.HCM) thường xuyên xảy ra tình trạng ùn tắc giao thông, đặc biệt vào các khung giờ cao điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:34:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141371+07:00"
+    },
+    {
+      "id": "b03270779004eea11f1f9e1a598e4641",
+      "title": "Hòa Minzy công khai chồng sắp cưới là quân nhân",
+      "link": "https://thanhnien.vn/hoa-minzy-cong-khai-chong-sap-cuoi-la-quan-nhan-185260307132524233.htm",
+      "summary": "Chia sẻ hình ảnh thân thiết trên mạng xã hội, Hòa Minzy không ngại bày tỏ những lời tình cảm cho một chàng trai. Khoảnh khắc này được dân mạng quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:32:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141501+07:00"
+    },
+    {
+      "id": "5be21ea4e00d601f4fca1c8560c743bc",
+      "title": "Kỳ thú Hungary: Những kiến thức này bạn có biết?",
+      "link": "https://thanhnien.vn/ky-thu-hungary-nhung-kien-thuc-nay-ban-co-biet-185260207231428805.htm",
+      "summary": "Nhiều người trong chúng ta biết Hungary là một quốc gia ở Trung Âu. Những game thủ có thể nhớ đến đội quân kỵ binh Magyard hùng mạnh trong game Đế chế. Fan bóng đá không thể nào quên đội hình hùng mạnh với ngôi sao Ferenc Puskás trong thập niên 1950 – 1960. Tín đồ thời trang có thể nhớ đến gốc gác H...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:28:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141629+07:00"
+    },
+    {
+      "id": "aec7699b4c8140f53c418c44bb0bb52b",
+      "title": "Khai mạc lễ hội Việt - Nhật lớn nhất từ trước đến nay",
+      "link": "https://thanhnien.vn/khai-mac-le-hoi-viet-nhat-lon-nhat-tu-truoc-den-nay-185260307130802227.htm",
+      "summary": "Sáng 7.3, lễ hội Việt - Nhật lần thứ 11 tại TP.HCM chính thức khai mạc tại Công viên 23 Tháng 9 (phường Bến Thành, TP.HCM), mang đến nhiều trải nghiệm thú vị cho khách tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:19:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141766+07:00"
+    },
+    {
+      "id": "8e52b510dc02ee5c90965a0282d976bd",
+      "title": "Bác sĩ: Những điều cần biết khi dùng tía tô",
+      "link": "https://thanhnien.vn/bac-si-nhung-dieu-can-biet-khi-dung-tia-to-185260306143326803.htm",
+      "summary": "Tía tô không chỉ là một loại rau gia vị giúp gia tăng hương vị cho các món ăn mà còn là vị thuốc trong y học cổ truyền. Tuy nhiên, việc sử dụng loại rau này cần phải tuân thủ các nguyên tắc để không gây hại sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:17:00+07:00",
+      "fetched": "2026-03-07T13:36:21.141895+07:00"
+    },
+    {
+      "id": "7040e5b2a2858a0698ef397b93556e89",
+      "title": "Áo dài truyền cảm hứng cho các tổng lãnh sự tại TP.HCM",
+      "link": "https://thanhnien.vn/ao-dai-truyen-cam-hung-cho-cac-tong-lanh-su-tai-tphcm-185260307115324317.htm",
+      "summary": "Tại sự kiện khai mạc Lễ hội Áo dài TP.HCM lần thứ 12 tại đường đi bộ Nguyễn Huệ (TP.HCM), các tổng lãnh sự đã chia sẻ với Thanh Niên cảm nghĩ khi sải bước trên sàn trình diễn trong bộ áo dài thiết kế riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:12:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142017+07:00"
+    },
+    {
+      "id": "0007dc3dc78b901e3e6d05220d086289",
+      "title": "Bộ ảnh cưới đặc biệt của cặp đôi nên duyên nhờ... đi nhặt rác",
+      "link": "https://thanhnien.vn/bo-anh-cuoi-dac-biet-cua-cap-doi-nen-duyen-nho-di-nhat-rac-185260307123044997.htm",
+      "summary": "Không gặp nhau ở quán cà phê lãng mạn hay trong một chuyến du lịch thơ mộng, Nguyễn Bá An và Đặng Thái Bảo Vy (cùng 24 tuổi, ngụ tại TP.HCM) lại nên duyên từ một buổi nhặt rác bảo vệ môi trường. Ba năm sau cuộc gặp gỡ đặc biệt ấy, họ quyết định chụp bộ ảnh cưới ngay tại nơi lần đầu gặp nhau với áo c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:03:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142138+07:00"
+    },
+    {
+      "id": "fff631e4bda15a123eb0dc57009ec720",
+      "title": "Mỗi lượng vàng tăng 1 triệu đồng",
+      "link": "https://vnexpress.net/moi-luong-vang-tang-1-trieu-dong-5047716.html",
+      "summary": "Giá vàng trong nước sáng nay tăng 1 triệu đồng mỗi lượng lên 185 triệu đồng, duy trì mức chênh lệch gần 21 triệu so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-07T06:00:37+07:00",
+      "fetched": "2026-03-07T13:36:26.254355+07:00"
+    },
+    {
+      "id": "9f169ee7908640470a7ca5838394d211",
+      "title": "Quảng Ngãi: 4 lễ hội được công nhận di sản văn hóa phi vật thể quốc gia",
+      "link": "https://thanhnien.vn/quang-ngai-4-le-hoi-duoc-cong-nhan-di-san-van-hoa-phi-vat-the-quoc-gia-185260307114135374.htm",
+      "summary": "Bộ VH-TT-DL công nhận di sản văn hóa phi vật thể quốc gia với 4 lễ hội của tỉnh Quảng Ngãi, gồm: lễ hội cầu mưa của người Hrê; lễ hội cầu ngư ở Sa Huỳnh; nghề dệt và lễ ăn than của người Gié Triêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T06:00:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142257+07:00"
+    },
+    {
+      "id": "0df2395b50484695d045c4996d597b61",
+      "title": "Mỹ khẩn cấp duyệt bán vũ khí cho Israel",
+      "link": "https://thanhnien.vn/my-khan-cap-duyet-ban-vu-khi-cho-israel-18526030711475174.htm",
+      "summary": "Bộ Ngoại giao Mỹ đã phê duyệt thương vụ bán 'khẩn cấp' 12.000 vỏ bom cho Israel trong bối cảnh hai nước đang leo thang chiến tranh ở Trung Đông với Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:58:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142395+07:00"
+    },
+    {
+      "id": "6836ad91d7db6da517aecd2628c94789",
+      "title": "Hàng không Việt tuyển thêm hàng nghìn tiếp viên",
+      "link": "https://vnexpress.net/hang-khong-viet-tuyen-them-hang-nghin-tiep-vien-5047321.html",
+      "summary": "Vietnam Airlines dự kiến tuyển 1.200 tiếp viên, Bamboo Airways khoảng 1.000 người, Vietjet Air cũng sắp bổ sung trong năm nay để mở rộng khai thác.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-07T05:54:59+07:00",
+      "fetched": "2026-03-07T13:36:26.254517+07:00"
+    },
+    {
+      "id": "cf150fc77b4588add8796495aaa6eaae",
+      "title": "Cục CSGT cảnh báo nguy cơ tai nạn đường sắt",
+      "link": "https://thanhnien.vn/cuc-csgt-canh-bao-nguy-co-tai-nan-duong-sat-185260307113637529.htm",
+      "summary": "Theo Cục CSGT (Bộ Công an), an toàn giao thông đường sắt không có chỗ cho sự liều lĩnh, do đó, người dân tuyệt đối không vượt khi đèn đỏ đã bật và rào chắn đã đóng để không phải hối hận suốt đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:42:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142516+07:00"
+    },
+    {
+      "id": "1160814f5171c774d631f6f6957c6a9a",
+      "title": "Vụ tài xế có cồn gây tai nạn liên hoàn ở Hà Nội: Một nạn nhân tử vong",
+      "link": "https://thanhnien.vn/vu-tai-xe-co-con-gay-tai-nan-lien-hoant-o-ha-noi-mot-nan-nhan-tu-vong-185260307115314443.htm",
+      "summary": "Công an Hà Nội cho hay, nam tài xế 66 tuổi vi phạm nồng độ cồn vẫn lái xe và không làm chủ được tay lái gây tai nạn với 10 phương tiện khác, khiến 1 người chết, 2 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:35:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142635+07:00"
+    },
+    {
+      "id": "4b8e9eb47ff82e2525dd33a948c753b9",
+      "title": "Chính thức có quy định về hồ sơ thuế của hộ kinh doanh",
+      "link": "https://thanhnien.vn/chinh-thuc-co-quy-dinh-ve-ho-so-thue-cua-ho-kinh-doanh-185260307114849616.htm",
+      "summary": "Thông tư 18/2026 của Bộ Tài chính quy định về hồ sơ, thủ tục quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:31:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142749+07:00"
+    },
+    {
+      "id": "bc1d1ff0023a18a785cc8284c43005c5",
+      "title": "Honor đưa smartphone pin 7.000 mAh, giá 8 triệu đồng về Việt Nam",
+      "link": "https://thanhnien.vn/honor-dua-smartphone-pin-7000-mah-gia-8-trieu-dong-ve-viet-nam-185260307094929313.htm",
+      "summary": "Honor vừa mang đến thị trường Việt Nam mẫu X8d, smartphone được trang bị pin 7.000 mAh mỏng nhất phân khúc kèm thiết kế bền bỉ và nhiều tính năng AI được tích hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:28:00+07:00",
+      "fetched": "2026-03-07T13:36:21.142863+07:00"
+    },
+    {
+      "id": "bc26063d6417939b3717beeb2a50be40",
+      "title": "Loạt tác phẩm sắp đặt siêu nhỏ của nghệ sĩ Australia",
+      "link": "https://vnexpress.net/loat-tac-pham-sap-dat-sieu-nho-cua-nghe-si-australia-5046859.html",
+      "summary": "Nghệ sĩ sắp đặt Michael Pederson dựng không gian thảm đỏ từ một khe đá nhỏ, công viên mini trên mảng rêu ở mặt đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:14:45+07:00",
+      "fetched": "2026-03-07T13:36:17.603207+07:00"
+    },
+    {
+      "id": "79cce560afa26cc96ce5135fe7d8d409",
+      "title": "Hình thể như thanh niên của người mẫu 60 tuổi",
+      "link": "https://vnexpress.net/hinh-the-nhu-thanh-nien-cua-nguoi-mau-60-tuoi-5047112.html",
+      "summary": "Trần Truyền Đa (Chuando Tan) - 60 tuổi, người mẫu kiêm nhiếp ảnh gia Singapore - hút fan nhờ hình thể sáu múi, trẻ trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:06:25+07:00",
+      "fetched": "2026-03-07T13:36:17.603391+07:00"
+    },
+    {
       "id": "4029ac2b830fd857a67c010a0f38acc4",
       "title": "Bomber lụa đa sắc - làn gió mới thu hút tín đồ mùa thời trang xuân hè",
       "link": "https://thanhnien.vn/thoi-trang-tre/bomber-lua-da-sac-lan-gio-moi-thu-hut-tin-do-mua-thoi-trang-xuan-he-185260306212246144.htm",
@@ -331,6 +671,46 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T05:00:00+07:00",
       "fetched": "2026-03-07T12:02:19.408694+07:00"
+    },
+    {
+      "id": "2789467d4b3e2c5860376da28e316c0b",
+      "title": "Bố chồng không chịu nhận lại cô con gái rơi nghèo khổ",
+      "link": "https://vnexpress.net/bo-chong-khong-chiu-nhan-lai-co-con-gai-roi-ngheo-kho-5047628.html",
+      "summary": "Bố chồng bảo không khẳng định được đó có phải là con ông hay không và trách tôi tại sao không bàn với ông trước khi tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:00:00+07:00",
+      "fetched": "2026-03-07T13:36:17.603539+07:00"
+    },
+    {
+      "id": "3b5522ab78abc873925aa4a5e431afe8",
+      "title": "Vị vua nào đặt quốc hiệu nước ta là Đại Việt?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vi-vua-nao-dat-quoc-hieu-nuoc-ta-la-dai-viet-5046850.html",
+      "summary": "Đây là quốc hiệu Việt Nam tồn tại hơn 700 năm trong 2 giai đoạn từ năm 1054 đến năm 1400 và từ năm 1428 đến năm 1804.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:00:00+07:00",
+      "fetched": "2026-03-07T13:36:17.603680+07:00"
+    },
+    {
+      "id": "60c711c6403b3b8e61b004a4b29d7534",
+      "title": "Uống rượu bia buổi tối, đến sáng có hết nồng độ cồn?",
+      "link": "https://vnexpress.net/uong-ruou-bia-buoi-toi-den-sang-co-het-nong-do-con-5046806.html",
+      "summary": "Nếu tôi uống rượu bia lúc 19h tối, sau đó uống thêm nhiều nước lọc để đào thải cồn, thì đến 7h sáng có hết nồng độ cồn để lái xe không? (Trường, 38 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:00:00+07:00",
+      "fetched": "2026-03-07T13:36:17.603827+07:00"
+    },
+    {
+      "id": "7606cca71e9476c322155e1fc7d4e19b",
+      "title": "Trẻ ho 5 ngày không khỏi, cần xét nghiệm gì?",
+      "link": "https://vnexpress.net/tre-ho-5-ngay-khong-khoi-can-xet-nghiem-gi-5047572.html",
+      "summary": "Con tôi 10 tuổi, từ Hà Nội vào TP HCM thì ho 5 ngày không giảm dù đã uống siro. Bé cần làm xét nghiệm gì để chẩn đoán bệnh không? (Vy, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T05:00:00+07:00",
+      "fetched": "2026-03-07T13:36:17.603956+07:00"
     },
     {
       "id": "8fbe490869a95f8fc981427313c52f76",
@@ -351,6 +731,16 @@ window.newsData_2026_03_07 = {
       "category": "Tổng hợp",
       "published": "2026-03-07T04:49:00+07:00",
       "fetched": "2026-03-07T12:02:19.409023+07:00"
+    },
+    {
+      "id": "917893495118bbf4e1122b6da1f25431",
+      "title": "Đổ xô thi đánh giá năng lực, phòng rủi ro điểm thi tốt nghiệp",
+      "link": "https://vnexpress.net/do-xo-thi-danh-gia-nang-luc-phong-rui-ro-diem-thi-tot-nghiep-5047667.html",
+      "summary": "Hơn 120.000 lượt thí sinh đăng ký thi đánh giá năng lực HSA, cao nhất từ trước đến nay, nhiều em cho biết để dự phòng, thay vì chỉ trông chờ vào điểm thi tốt nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T04:45:34+07:00",
+      "fetched": "2026-03-07T13:36:17.604087+07:00"
     },
     {
       "id": "894af502ef647ed956a0f83dde34de42",
