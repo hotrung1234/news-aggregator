@@ -1,6 +1,6 @@
 window.newsData_2026_03_08 = {
   "date": "2026-03-08",
-  "lastUpdated": "2026-03-08T01:29:51.893458+07:00",
+  "lastUpdated": "2026-03-08T03:22:14.320845+07:00",
   "articles": [
     {
       "id": "0267b58ca685fdf25d860afee25b1935",
@@ -151,6 +151,26 @@ window.newsData_2026_03_08 = {
       "category": "Tổng hợp",
       "published": "2026-03-08T01:29:45.431784+07:00",
       "fetched": "2026-03-08T01:29:45.432029+07:00"
+    },
+    {
+      "id": "e58546f1940a36d7f2813d5ce7b04ac9",
+      "title": "Tuyển nữ Iran được kêu gọi cho tị nạn ở Australia",
+      "link": "https://vnexpress.net/tuyen-nu-iran-duoc-keu-goi-cho-ti-nan-o-australia-5047835.html",
+      "summary": "Một số chính trị gia và tổ chức nhân quyền kêu gọi Australia cho tuyển nữ Iran tị nạn, sau khi các cầu thủ bị chỉ trích vì không hát quốc ca tại Asian Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-07T18:39:02+07:00",
+      "fetched": "2026-03-08T03:22:03.716185+07:00"
+    },
+    {
+      "id": "e58546f1940a36d7f2813d5ce7b04ac9",
+      "title": "Tuyển nữ Iran được kêu gọi cho tị nạn ở Australia",
+      "link": "https://vnexpress.net/tuyen-nu-iran-duoc-keu-goi-cho-ti-nan-o-australia-5047835.html",
+      "summary": "Một số chính trị gia và tổ chức nhân quyền kêu gọi Australia cho tuyển nữ Iran tị nạn, sau khi các cầu thủ bị chỉ trích vì không hát quốc ca tại Asian Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-07T18:39:02+07:00",
+      "fetched": "2026-03-08T03:22:14.315988+07:00"
     },
     {
       "id": "54d10edf2f4c8c0bb6c5932b0663b531",
