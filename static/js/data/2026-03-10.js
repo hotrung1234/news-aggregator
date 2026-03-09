@@ -1,6 +1,6 @@
 window.newsData_2026_03_10 = {
   "date": "2026-03-10",
-  "lastUpdated": "2026-03-10T01:49:28.254223+07:00",
+  "lastUpdated": "2026-03-10T03:31:11.273362+07:00",
   "articles": [
     {
       "id": "f25b883b2cdddcf8cfb9b556b7a7ae4b",
@@ -151,6 +151,36 @@ window.newsData_2026_03_10 = {
       "category": "Tổng hợp",
       "published": "2026-03-10T01:49:21.852301+07:00",
       "fetched": "2026-03-10T01:49:21.852537+07:00"
+    },
+    {
+      "id": "2988a62b8fa1510079fd6cf63dd7d338",
+      "title": "16 giờ hôm nay đội tuyển nữ Việt Nam - Nhật Bản: Trận đấu khó, tình thế khó",
+      "link": "https://thanhnien.vn/16-gio-hom-nay-doi-tuyen-nu-viet-nam-nhat-ban-tran-dau-kho-tinh-the-kho-185260309211540648.htm",
+      "summary": "Chạm trán Nhật Bản, đội tuyển nữ mạnh nhất châu Á chưa bao giờ là nhiệm vụ dễ dàng đối với đội tuyển nữ VN. Vào 16 giờ hôm nay, ở trận đấu mang tính quyết định đến tấm vé đi tiếp vào tứ kết Asian Cup 2026, thầy trò HLV Mai Đức Chung đứng trước thử thách cực đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T20:26:00+07:00",
+      "fetched": "2026-03-10T03:31:01.149722+07:00"
+    },
+    {
+      "id": "e8ae7203f2ca9b470edbf938c5ce3c6e",
+      "title": "Bác sĩ 24/7: 30 tuổi tiêm vắc xin HPV hiệu quả ra sao, có kiêng quan hệ?",
+      "link": "https://thanhnien.vn/bac-si-24-7-30-tuoi-tiem-vac-xin-hpv-hieu-qua-ra-sao-co-kieng-quan-he-185260309193151898.htm",
+      "summary": "'Tôi năm nay 30 tuổi, chưa có gia đình. Lứa tuổi này, tôi tiêm vắc xin HPV có hiệu quả không? Cho tôi hỏi, tiêm vắc xin HPV có phải kiêng quan hệ tình dục? Cảm ơn bác sĩ!'. (Thùy Trang, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T20:23:00+07:00",
+      "fetched": "2026-03-10T03:31:01.149896+07:00"
+    },
+    {
+      "id": "60d288721e7dabc997a1e1d358f172bd",
+      "title": "1,4 tỷ đồng hoàn thiện căn penthouse 140 m2 phong cách farmhouse",
+      "link": "https://vnexpress.net/1-4-ty-dong-hoan-thien-can-penthouse-140-m2-phong-cach-farmhouse-5047393.html",
+      "summary": "Không gian căn penthouse ưu tiên vật liệu gỗ, ánh sáng tự nhiên và bố cục liên thông giữa các khu chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-09T19:11:01+07:00",
+      "fetched": "2026-03-10T03:30:58.023326+07:00"
     },
     {
       "id": "e89a7652b77f325cfc679484b7eb3f98",
