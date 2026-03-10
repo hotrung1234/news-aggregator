@@ -1,7 +1,117 @@
 window.newsData_2026_03_10 = {
   "date": "2026-03-10",
-  "lastUpdated": "2026-03-10T05:25:45.927183+07:00",
+  "lastUpdated": "2026-03-10T08:48:35.316891+07:00",
   "articles": [
+    {
+      "id": "9f5b960c1934cce4707f67ba07f8a1ba",
+      "title": "Lịch trực tiếp Asian Cup nữ 2026: Việt Nam đấu Nhật Bản",
+      "link": "https://tuoitre.vn/lich-truc-tiep-asian-cup-nu-2026-viet-nam-dau-nhat-ban-20260309153651872.htm",
+      "summary": "Tâm điểm của ngày thi đấu cuối vòng bảng Asian Cup nữ 2026 là cuộc đối đầu giữa Việt Nam và Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067596+07:00",
+      "fetched": "2026-03-10T08:48:29.067702+07:00"
+    },
+    {
+      "id": "1470fa42ec2bdef6afee9cf41404adbd",
+      "title": "Thời tiết hôm nay 10-3: Hà Tĩnh đến đông Gia Lai có mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-3-ha-tinh-den-dong-gia-lai-co-mua-to-20260309170418567.htm",
+      "summary": "Hôm nay 10-3, vùng mưa to dịch vào các tỉnh miền Trung, thời tiết miền Bắc giảm mưa, miền Nam nắng nhưng sắp có mưa trái mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067490+07:00",
+      "fetched": "2026-03-10T08:48:29.067587+07:00"
+    },
+    {
+      "id": "6ea1c516f87ae1ef13f9493f382c22cd",
+      "title": "Giá dầu vượt 100 USD/thùng: Mỹ tìm cách 'mở lại' eo biển Hormuz",
+      "link": "https://tuoitre.vn/gia-dau-vuot-100-usd-thung-my-tim-cach-mo-lai-eo-bien-hormuz-20260309232207918.htm",
+      "summary": "Xung đột giữa Mỹ - Israel và Iran kéo dài khiến tuyến vận tải năng lượng quan trọng bậc nhất thế giới là eo biển Hormuz gần như tê liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067384+07:00",
+      "fetched": "2026-03-10T08:48:29.067480+07:00"
+    },
+    {
+      "id": "d7eedb6d8d64b1dbce8132e637187320",
+      "title": "Váy cưới của con dâu Tổng thống Kennedy gây sốt sau gần 30 năm",
+      "link": "https://tuoitre.vn/vay-cuoi-cua-con-dau-tong-thong-kennedy-gay-sot-sau-gan-30-nam-20260309223933507.htm",
+      "summary": "Series American Love Story của đạo diễn Ryan Murphy khiến khán giả một lần nữa say mê chiếc váy cưới mà Carolyn Bessette Kennedy mặc khi kết hôn vào năm 1996.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067268+07:00",
+      "fetched": "2026-03-10T08:48:29.067374+07:00"
+    },
+    {
+      "id": "53658fa6c7aa74e3f7bfc5d0fb6fbe61",
+      "title": "Duyên Quỳnh sẽ hát Viết tiếp câu chuyện hòa bình tại lễ tưởng niệm cụ Phan Châu Trinh",
+      "link": "https://tuoitre.vn/duyen-quynh-se-hat-viet-tiep-cau-chuyen-hoa-binh-tai-le-tuong-niem-cu-phan-chau-trinh-20260309195338755.htm",
+      "summary": "Nhân kỷ niệm 100 năm ngày mất của cụ Phan Châu Trinh (1926-2026), chuỗi hoạt động tưởng niệm cụ sẽ diễn ra vào ngày 24-3 tại Trường đại học Văn hóa TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067162+07:00",
+      "fetched": "2026-03-10T08:48:29.067259+07:00"
+    },
+    {
+      "id": "d147d3dbdaa141a9c1ff82095fd6ef74",
+      "title": "NÓNG: Ông Trump khoe ông Putin ấn tượng với sức mạnh quân sự Mỹ trong chiến sự với Iran",
+      "link": "https://tuoitre.vn/nong-ong-trump-khoe-ong-putin-an-tuong-voi-suc-manh-quan-su-my-trong-chien-su-voi-iran-2026031005325649.htm",
+      "summary": "Ông Trump họp báo chỉ vài tiếng sau khi điện đàm riêng với người đồng cấp Nga Vladimir Putin về các cuộc xung đột tại Iran và Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.067055+07:00",
+      "fetched": "2026-03-10T08:48:29.067153+07:00"
+    },
+    {
+      "id": "5e140eca6dd3863ce0e8daf671c380a7",
+      "title": "Ông Trump là tác nhân đưa Khamenei 'con' lên làm tân lãnh tụ Iran?",
+      "link": "https://tuoitre.vn/ong-trump-la-tac-nhan-dua-khamenei-con-len-lam-tan-lanh-tu-iran-20260309232139292.htm",
+      "summary": "Việc Iran chọn ông Mojtaba Khamenei làm lãnh tụ tối cao mới có thể được xem là thất bại lớn của ông Trump, và sẽ cay đắng hơn khi chính ông Trump là 'kẻ tạo vua'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.066949+07:00",
+      "fetched": "2026-03-10T08:48:29.067046+07:00"
+    },
+    {
+      "id": "bcfa181383d47acce00587f0d6b92ec7",
+      "title": "Lịch trực tiếp lượt đi vòng 16 đội Champions League",
+      "link": "https://tuoitre.vn/lich-truc-tiep-luot-di-vong-16-doi-champions-league-20260309193638014.htm",
+      "summary": "Rạng sáng 11-3 và 12-3 sẽ diễn ra các trận đấu ở lượt đi vòng 16 đội Champions League. Trong đó có rất nhiều cuộc đối đầu đáng chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.066841+07:00",
+      "fetched": "2026-03-10T08:48:29.066939+07:00"
+    },
+    {
+      "id": "62f7d6965b3ccb089f5e6da5fd1327f4",
+      "title": "5 cầu thủ nữ Iran xin ở lại Úc",
+      "link": "https://tuoitre.vn/5-cau-thu-nu-iran-xin-o-lai-uc-20260310060414312.htm",
+      "summary": "Năm cầu thủ nữ của tuyển Iran đang thi đấu tại Giải bóng đá nữ châu Á 2026 đã nộp đơn xin tị nạn với cảnh sát liên bang Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.066726+07:00",
+      "fetched": "2026-03-10T08:48:29.066831+07:00"
+    },
+    {
+      "id": "52cd66f03cab585b552deb00015ef1ad",
+      "title": "Là bom tấn 1,87 tỉ USD, Zootopia 2 vẫn còn thử thách tại Oscar 2026",
+      "link": "https://tuoitre.vn/la-bom-tan-1-87-ti-usd-zootopia-2-van-con-thu-thach-tai-oscar-2026-20260309145012322.htm",
+      "summary": "Góp mặt trong hạng mục Phim hoạt hình xuất sắc tại Oscar 2026, Zootopia 2 khép lại hành trình phòng vé với hàng loạt kỷ lục toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.066592+07:00",
+      "fetched": "2026-03-10T08:48:29.066715+07:00"
+    },
+    {
+      "id": "1e36d138ccb74d07a93a22eb94963b76",
+      "title": "Làng cờ tướng Trung Quốc tranh luận về nguy cơ bị Việt Nam vượt mặt",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-tranh-luan-ve-nguy-co-bi-viet-nam-vuot-mat-2026030921413233.htm",
+      "summary": "Các chiến tích liên tiếp của Lại Lý Huynh trong thời gian qua khiến làng cờ tướng Trung Quốc bắt đầu tỏ ra lo ngại về nguy cơ bị Việt Nam vượt mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T08:48:29.066380+07:00",
+      "fetched": "2026-03-10T08:48:29.066578+07:00"
+    },
     {
       "id": "05e25be521c5d10b1fcfed5bfa03a67b",
       "title": "Tín hiệu thách thức Mỹ và Israel từ Iran",
@@ -181,6 +291,416 @@ window.newsData_2026_03_10 = {
       "category": "Tổng hợp",
       "published": "2026-03-10T01:49:21.852301+07:00",
       "fetched": "2026-03-10T01:49:21.852537+07:00"
+    },
+    {
+      "id": "70993fd9a66f9e8cf7d7e535016130e9",
+      "title": "Chiến sự Iran thổi bùng cơn sốt dầu toàn cầu, nhiều nước khẩn cấp ứng phó",
+      "link": "https://thanhnien.vn/chien-su-iran-thoi-bung-con-sot-dau-toan-cau-nhieu-nuoc-khan-cap-ung-pho-185260310080328799.htm",
+      "summary": "Giá dầu thế giới tiếp tục biến động mạnh khi xung đột tại Iran leo thang, đe dọa các tuyến vận chuyển và cơ sở hạ tầng năng lượng quan trọng tại Trung Đông, gây áp lực lớn lên nguồn cung toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:46:00+07:00",
+      "fetched": "2026-03-10T08:48:28.106601+07:00"
+    },
+    {
+      "id": "dfc72ff9fc850fcfc61dae6d74baccdd",
+      "title": "Tổng thống Brazil cảnh báo Nam Phi về nguy cơ bị xâm lược",
+      "link": "https://thanhnien.vn/tong-thong-brazil-canh-bao-nam-phi-ve-nguy-co-bi-xam-luoc-185260310074918418.htm",
+      "summary": "Tổng thống Brazil Luiz Inacio Lula da Silva đã kêu gọi người đồng cấp Nam Phi Cyril Ramaphosa tăng cường hợp tác quốc phòng, cảnh báo rằng cả hai nước đều dễ bị tổn thương trước sự xâm lược từ nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:44:00+07:00",
+      "fetched": "2026-03-10T08:48:28.106770+07:00"
+    },
+    {
+      "id": "54345a30231e63cdc1856e4578657d15",
+      "title": "Nghiên cứu mới: Ung thư 'ngại' nhất kiểu ăn này",
+      "link": "https://thanhnien.vn/nghien-cuu-moi-ung-thu-ngai-nhat-kieu-an-nay-185260309200457797.htm",
+      "summary": "Ung thư là nguyên nhân gây tử vong hàng đầu, thôi thúc các nhà khoa học không ngừng tìm kiếm giải pháp ngăn ngừa. Trong các yếu tố rủi ro, chế độ ăn uống đóng vai trò then chốt, tác động trực tiếp đến khả năng phòng bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:43:00+07:00",
+      "fetched": "2026-03-10T08:48:28.106911+07:00"
+    },
+    {
+      "id": "1a95353b70fccfab39fe3fe4d9953c94",
+      "title": "Giá USD hôm nay 10.3.2026: Ngân hàng đẩy mạnh mua vào",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1032026-ngan-hang-day-manh-mua-vao-185260310074643315.htm",
+      "summary": "Giá USD tại các ngân hàng thương mại tăng vọt chiều mua vào trong khi chiều bán ra không biến động nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:40:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107041+07:00"
+    },
+    {
+      "id": "90c0d39e637af1cee15abb039672f9b6",
+      "title": "Trọng tài Việt Nam gây tranh cãi ở trận nữ Triều Tiên thua Trung Quốc",
+      "link": "https://vnexpress.net/trong-tai-viet-nam-gay-tranh-cai-o-tran-nu-trieu-tien-thua-trung-quoc-5048520.html",
+      "summary": "HLV Triều Tiên Ri Song-ho và truyền thông Trung Quốc cho rằng trọng tài Lê Thị Ly đã mắc nhiều sai sót, trong trận đấu thuộc lượt cuối bảng B Asian Cup nữ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:36:21+07:00",
+      "fetched": "2026-03-10T08:48:25.292645+07:00"
+    },
+    {
+      "id": "90c0d39e637af1cee15abb039672f9b6",
+      "title": "Trọng tài Việt Nam gây tranh cãi ở trận nữ Triều Tiên thua Trung Quốc",
+      "link": "https://vnexpress.net/trong-tai-viet-nam-gay-tranh-cai-o-tran-nu-trieu-tien-thua-trung-quoc-5048520.html",
+      "summary": "HLV Triều Tiên Ri Song-ho và truyền thông Trung Quốc cho rằng trọng tài Lê Thị Ly đã mắc nhiều sai sót, trong trận đấu thuộc lượt cuối bảng B Asian Cup nữ 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T01:36:21+07:00",
+      "fetched": "2026-03-10T08:48:35.312411+07:00"
+    },
+    {
+      "id": "d7e5ba35cf843ddd5100648ec0cb1e68",
+      "title": "Chính phủ Malaysia chấp nhận phán quyết đúng của CAS, 7 cầu thủ sẽ bị tước quốc tịch trước trận Việt Nam",
+      "link": "https://thanhnien.vn/chinh-phu-malaysia-chap-nhan-phan-quyet-dung-cua-cas-7-cau-thu-se-bi-tuoc-quoc-tich-truoc-tran-viet-nam-185260310083137136.htm",
+      "summary": "Theo Bộ trưởng Thanh niên và Thể thao Malaysia, Taufiq Johari, chính phủ nước này đã chấp nhận phán quyết của Tòa án Trọng tài Thể thao (CAS), vì CAS đã tuân thủ đúng quy trình pháp lý xác định 7 cầu thủ sử dụng giấy tờ không hợp lệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:34:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107170+07:00"
+    },
+    {
+      "id": "c984b994dc5d3bc7912239ea75cfa37b",
+      "title": "Xe giường nằm chở nhiều khách lật trên quốc lộ 19 trong đêm mưa",
+      "link": "https://thanhnien.vn/xe-giuong-nam-cho-nhieu-khach-lat-tren-quoc-lo-19-trong-dem-mua-185260310075032628.htm",
+      "summary": "Xe giường nằm chở 10 người lật trên quốc lộ 19 trong đêm mưa lớn, khiến 2 người bị thương, thiệt hại tài sản khoảng 250 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:31:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107303+07:00"
+    },
+    {
+      "id": "dc05a472e1dfcfba1f20e3eb9a0f7bd2",
+      "title": "Nữ Việt Nam - Nhật Bản: Thử thách cực đại ở Asian Cup",
+      "link": "https://vnexpress.net/nu-viet-nam-nhat-ban-thu-thach-cuc-dai-o-asian-cup-5048489.html",
+      "summary": "Thầy trò ông Mai Đức Chung không chỉ phải giải bài toán khó Nhật Bản, mà còn trông chờ trận đấu cùng giờ để tìm vé vào tứ kết Asian Cup nữ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:30:44+07:00",
+      "fetched": "2026-03-10T08:48:25.292806+07:00"
+    },
+    {
+      "id": "dc05a472e1dfcfba1f20e3eb9a0f7bd2",
+      "title": "Nữ Việt Nam - Nhật Bản: Thử thách cực đại ở Asian Cup",
+      "link": "https://vnexpress.net/nu-viet-nam-nhat-ban-thu-thach-cuc-dai-o-asian-cup-5048489.html",
+      "summary": "Thầy trò ông Mai Đức Chung không chỉ phải giải bài toán khó Nhật Bản, mà còn trông chờ trận đấu cùng giờ để tìm vé vào tứ kết Asian Cup nữ 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T01:30:44+07:00",
+      "fetched": "2026-03-10T08:48:35.311249+07:00"
+    },
+    {
+      "id": "cca09ab3a65d06d1e3677bec919e7995",
+      "title": "Xe điện BYD sạc nhanh 5 phút phá vỡ thế lực đổi pin của đối thủ",
+      "link": "https://vnexpress.net/xe-dien-byd-sac-nhanh-5-phut-pha-vo-the-luc-doi-pin-cua-doi-thu-5048087.html",
+      "summary": "Công nghệ sạc nhanh mới nhất của BYD được ví như đòn tấn công chớp nhoáng đối với hệ thống đổi pin của Nio.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:29:39+07:00",
+      "fetched": "2026-03-10T08:48:25.292946+07:00"
+    },
+    {
+      "id": "40c471e83946ef7fb181864e85ac7ca9",
+      "title": "Hạnh phúc của cặp vợ chồng 'nhà ai ấy ở'",
+      "link": "https://vnexpress.net/hanh-phuc-cua-cap-vo-chong-nha-ai-ay-o-5048403.html",
+      "summary": "Dù hôn nhân hạnh phúc, Luana và chồng vẫn chọn sống ở hai ngôi nhà, cách nhau 50 phút lái xe để duy trì tự do cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:28:16+07:00",
+      "fetched": "2026-03-10T08:48:25.293079+07:00"
+    },
+    {
+      "id": "02cebccdc738328dd1f0384800fa4f02",
+      "title": "NATO đánh chặn tên lửa Iran phóng vào Thổ Nhĩ Kỳ, Ankara cảnh báo Tehran",
+      "link": "https://thanhnien.vn/nato-danh-chan-ten-lua-iran-phong-vao-tho-nhi-ky-ankara-canh-bao-tehran-185260310082132221.htm",
+      "summary": "NATO tuyên bố đã bắn hạ tên lửa đạn đạo thứ hai được phóng từ Iran vào không phận Thổ Nhĩ Kỳ hôm 9.3, khiến Ankara đưa ra lời cảnh báo nghiêm khắc đối với Tehran, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:28:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107432+07:00"
+    },
+    {
+      "id": "22d2b470b1fda2ca7755fbf664c4dd36",
+      "title": "Đề xuất chi Quỹ Bình ổn để 'hạ nhiệt' giá xăng dầu",
+      "link": "https://thanhnien.vn/de-xuat-chi-quy-binh-on-de-ha-nhiet-gia-xang-dau-185260310072024649.htm",
+      "summary": "Bộ Công thương và Bộ Tài chính đang xây dựng và trình Thủ tướng Chính phủ các phương án bình ổn giá trong đó có sử dụng Quỹ bình ổn giá xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:28:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107558+07:00"
+    },
+    {
+      "id": "b714de8dfe23e0f298aa3a4815688631",
+      "title": "Không khí lạnh đi sâu vào miền Trung, 6 tỉnh dự báo mưa lớn",
+      "link": "https://thanhnien.vn/khong-khi-lanh-di-sau-vao-mien-trung-6-tinh-du-bao-mua-lon-185260310075127503.htm",
+      "summary": "Dự báo thời tiết ngày 10.3, không khí lạnh tiếp tục đi sâu vào các tỉnh nam Trung bộ; từ Hà Tĩnh đến Gia Lai dự báo sẽ có mưa, mưa lớn cục bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:27:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107696+07:00"
+    },
+    {
+      "id": "7d2975e7872588c7ba9cf2f0e2014d8b",
+      "title": "Scholes xin lỗi Carrick",
+      "link": "https://vnexpress.net/scholes-xin-loi-carrick-5048545.html",
+      "summary": "Cựu tiền vệ Paul Scholes lên tiếng giải thích và xin lỗi Michael Carrick, sau khi bài đăng trên của ông bị hiểu là công kích HLV Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:21:27+07:00",
+      "fetched": "2026-03-10T08:48:25.293212+07:00"
+    },
+    {
+      "id": "7d2975e7872588c7ba9cf2f0e2014d8b",
+      "title": "Scholes xin lỗi Carrick",
+      "link": "https://vnexpress.net/scholes-xin-loi-carrick-5048545.html",
+      "summary": "Cựu tiền vệ Paul Scholes lên tiếng giải thích và xin lỗi Michael Carrick, sau khi bài đăng trên của ông bị hiểu là công kích HLV Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T01:21:27+07:00",
+      "fetched": "2026-03-10T08:48:35.311883+07:00"
+    },
+    {
+      "id": "befbc3837c14a0405f46a3acd6004981",
+      "title": "Những ứng cử viên sáng giá tại Oscar 2026",
+      "link": "https://thanhnien.vn/nhung-ung-cu-vien-sang-gia-tai-oscar-2026-185260310020245345.htm",
+      "summary": "Trước thềm lễ trao giải Oscar, Michael B Jordan, Timothée Chalamet là ứng cử viên hàng đầu ở hạng mục nam chính. Còn Jessie Buckley được đoán định sẽ giành chiến thắng hạng mục nữ chính. Trong khi đó, Phim hay nhất là cuộc cạnh tranh sít sao của 'One Battle After Another' và 'Sinners'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:16:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107826+07:00"
+    },
+    {
+      "id": "8306e8c098b3ed0e4d0b0a268f7148ec",
+      "title": "Ưu tiên cát cho cao tốc TP.HCM - Trung Lương - Mỹ Thuận",
+      "link": "https://thanhnien.vn/uu-tien-cat-cho-cao-toc-tphcm-trung-luong-my-thuan-185260309181520651.htm",
+      "summary": "Đó là chỉ đạo của Bộ Trưởng Bộ Xây dựng Trần Hồng Minh trong buổi làm việc với các đơn vị liên quan về tiến độ dự án mở rộng cao tốc TP.HCM - Trung Lương - Mỹ Thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:15:00+07:00",
+      "fetched": "2026-03-10T08:48:28.107952+07:00"
+    },
+    {
+      "id": "934e8d4845b2a2117c3d802654aac077",
+      "title": "Mong những lời nói vụng về này có thể đến với cô gái phù hợp",
+      "link": "https://vnexpress.net/mong-nhung-loi-noi-vung-ve-nay-co-the-den-voi-co-gai-phu-hop-5048201.html",
+      "summary": "Mình thích những bạn nữ truyền thống, đơn giản, nhưng nếu bạn hiện đại, thời trang cũng chẳng sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:14:05+07:00",
+      "fetched": "2026-03-10T08:48:25.293301+07:00"
+    },
+    {
+      "id": "9fdf6fd10564d4123583e3a02e94296c",
+      "title": "Công viên nước bỏ hoang ở Việt Nam xuất hiện đầy ma mị trên báo Anh",
+      "link": "https://thanhnien.vn/cong-vien-nuoc-bo-hoang-o-viet-nam-xuat-hien-day-ma-mi-tren-bao-anh-185260309153407561.htm",
+      "summary": "Công viên nước này chỉ tồn tại được vài năm sau khi mở cửa vào năm 2004, được báo Anh mô tả như là điểm đến không thể bỏ qua khi tới miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:14:00+07:00",
+      "fetched": "2026-03-10T08:48:28.108078+07:00"
+    },
+    {
+      "id": "4f4d2bbc403086abbfac86f064f9750a",
+      "title": "Lịch thi đấu billiards hôm nay: Cơ thủ Việt Nam so tài cựu vô địch thế giới",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-hom-nay-co-thu-viet-nam-so-tai-cuu-vo-dich-the-gioi-185260310074657393.htm",
+      "summary": "Tối nay (10.3), Nguyễn Huỳnh Phương Linh có màn chạm trán gay cấn với cơ thủ đẳng cấp của chủ nhà Hàn Quốc Choi Sung-won để cạnh tranh trực tiếp tấm vé vào vòng 16 giải billiards carom 3 băng PBA World Championship 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:12:00+07:00",
+      "fetched": "2026-03-10T08:48:28.108207+07:00"
+    },
+    {
+      "id": "4467a602d7612b931c189f75138822cc",
+      "title": "Nhà bạn trai muốn tháng sau cưới chạy bầu nhưng em chưa dám nói với bố mẹ",
+      "link": "https://vnexpress.net/co-bau-truoc-cuoi-nha-ban-trai-muon-thang-sau-cuoi-chay-bau-nhung-em-chua-dam-noi-voi-bo-me-5048514.html",
+      "summary": "Em đang là sinh viên đại học năm thứ ba, hiện mang bầu hơn 3 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:11:20+07:00",
+      "fetched": "2026-03-10T08:48:25.293435+07:00"
+    },
+    {
+      "id": "801d0b43cc6650d7a7632c7bb16fb14e",
+      "title": "Mong chung tay hỗ trợ cô gái nghèo thực hiện ước mơ",
+      "link": "https://thanhnien.vn/mong-chung-tay-ho-tro-co-gai-ngheo-thuc-hien-uoc-mo-185260309182907468.htm",
+      "summary": "Với nhiều người, trở thành giáo viên mầm non là một ước mơ giản dị, nỗ lực vài năm đèn sách là có thể chạm tới. Nhưng với Nguyễn Ngọc Trân (23 tuổi, ngụ ấp Hưng Long, xã Tân Thành Bình, tỉnh Vĩnh Long), ước mơ ấy đã theo em 5 năm qua mà vẫn xa vời, bởi phía sau là một gia cảnh mất mát, nhọc nhằn và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:07:00+07:00",
+      "fetched": "2026-03-10T08:48:28.108335+07:00"
+    },
+    {
+      "id": "d3bfd1b01e9792b961b093b1c62be065",
+      "title": "Hối hận sau 5 năm đưa con đi khắp thế giới",
+      "link": "https://vnexpress.net/hoi-han-sau-5-nam-dua-con-di-khap-the-gioi-5048511.html",
+      "summary": "Sau nhiều năm ngủ trên máy bay và ở khách sạn, Phil Lockwood nhận ra ba con đã trở nên kiệt sức với những chuyến đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:03:56+07:00",
+      "fetched": "2026-03-10T08:48:25.293566+07:00"
+    },
+    {
+      "id": "0b63bb00925ac54c457eaf091b00ddc6",
+      "title": "Chàng kỹ sư xây dựng nhút nhát khiến Quyền Linh 'nổi quạu' trên show hẹn hò",
+      "link": "https://thanhnien.vn/chang-ky-su-xay-dung-nhut-nhat-khien-quyen-linh-noi-quau-tren-show-hen-ho-185260309234746097.htm",
+      "summary": "Nam kỹ sư 31 tuổi chưa từng yêu ai đến 'Bạn muốn hẹn hò' tìm bạn gái, được Quyền Linh mai mối cho cô giáo tiếng Anh. Dù được hai MC hỗ trợ hết mình nhưng anh vẫn tỏ ra nhút nhát, không biết thể hiện tình cảm khiến cô gái từ chối bấm nút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:03:00+07:00",
+      "fetched": "2026-03-10T08:48:28.108464+07:00"
+    },
+    {
+      "id": "50fac35d2d727c3032a4f99fd8c57146",
+      "title": "Quản lý tiệm vàng tá hỏa vì khách chạy nhanh",
+      "link": "https://vnexpress.net/quan-ly-tiem-vang-ta-hoa-vi-khach-chay-nhanh-5048386.html",
+      "summary": "Vị khách có những hành động quá nhanh khiến quản lý tiệm vàng tưởng trộm, nhưng cú “twist” cuối mới thật sự bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.293707+07:00"
+    },
+    {
+      "id": "0f1f3d6633c7d1c610d070a585157b6f",
+      "title": "Những dấu ấn trong triển khai ESG của VietinBank",
+      "link": "https://vnexpress.net/nhung-dau-an-trong-trien-khai-esg-cua-vietinbank-5048500.html",
+      "summary": "Trong những năm qua, VietinBank xây dựng khung tài chính bền vững, lập bộ máy ESG chuyên trách và phát triển các sản phẩm tài chính xanh, từng bước hướng tới mô hình ngân hàng xanh chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.293840+07:00"
+    },
+    {
+      "id": "8860602fbcb5979789dba707fd6459bf",
+      "title": "Ăn gì sau sinh mổ để mau hồi sức?",
+      "link": "https://vnexpress.net/an-gi-sau-sinh-mo-de-mau-hoi-suc-5048468.html",
+      "summary": "Ngũ cốc nguyên hạt, các loại đậu và cá béo giúp sản phụ tăng cường miễn dịch, cải thiện sức khỏe sau sinh mổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.293973+07:00"
+    },
+    {
+      "id": "355f02695cb1e47d4616eaab0f0fcf75",
+      "title": "Thay khớp cho cụ ông phình động mạch chủ",
+      "link": "https://vnexpress.net/thay-khop-cho-cu-ong-phinh-dong-mach-chu-5048465.html",
+      "summary": "Ông Hậu, 80 tuổi, phình động mạch chủ, được bác sĩ điều trị ổn định trước khi phẫu thuật thay khớp ngừa nguy cơ vỡ túi phình trong lúc mổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.294105+07:00"
+    },
+    {
+      "id": "8d51c3eb0a9b8f40dd1f2cb4f6fdcc58",
+      "title": "Hai Thành cùng nhiều đối tác lớn triển khai dự án Hiep Phuoc Premia",
+      "link": "https://vnexpress.net/hai-thanh-cung-nhieu-doi-tac-lon-trien-khai-du-an-hiep-phuoc-premia-5048458.html",
+      "summary": "Hai Thành Group ký kết hợp tác chiến lược với loạt đối tác lớn trong ngày 6/3, để triển khai dự án Hiep Phuoc Premia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.294238+07:00"
+    },
+    {
+      "id": "a64f1727699783fca8ddac9db686f640",
+      "title": "6 nguyên tắc lựa chọn thực phẩm tốt cho hệ tiêu hóa",
+      "link": "https://vnexpress.net/6-nguyen-tac-lua-chon-thuc-pham-tot-cho-he-tieu-hoa-5048451.html",
+      "summary": "Chọn thực phẩm tươi, chất xơ tự nhiên, ít chế biến, giàu lợi khuẩn hỗ trợ hệ tiêu hóa, giúp nhu động ruột hoạt động ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.294365+07:00"
+    },
+    {
+      "id": "025784889bee3c2ba3d6c2e2ae008ee0",
+      "title": "Người gầy có thể mắc đái tháo đường không?",
+      "link": "https://vnexpress.net/nguoi-gay-co-the-mac-dai-thao-duong-khong-5048446.html",
+      "summary": "Tôi cao 1,57 m, nặng 43 kg. Người gầy như tôi có thể mắc bệnh đái tháo đường không, phòng ngừa thế nào? (Minh Anh, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-10T01:00:00+07:00",
+      "fetched": "2026-03-10T08:48:25.294494+07:00"
+    },
+    {
+      "id": "e8d2d871b2e8718061ccc3d120588cef",
+      "title": "Giá dầu thế giới quay đầu giảm",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-quay-dau-giam-5048547.html",
+      "summary": "Giá Brent và WTI cùng giảm gần 7%, sau tuyên bố của ông Trump rằng xung đột tại Trung Đông sẽ sớm kết thúc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-10T00:59:25+07:00",
+      "fetched": "2026-03-10T08:48:31.627794+07:00"
+    },
+    {
+      "id": "51b5e6b3ac31ef7e3436e87919f8a661",
+      "title": "OpenAI hủy kế hoạch mở rộng siêu trung tâm dữ liệu Stargate",
+      "link": "https://vnexpress.net/openai-huy-ke-hoach-mo-rong-sieu-trung-tam-du-lieu-stargate-5048506.html",
+      "summary": "Dự án hạ tầng Stargate của OpenAI và Oracle tại Texas đổ vỡ do không thống nhất được điều khoản tài chính và lo ngại về hạ tầng kỹ thuật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-10T00:53:58+07:00",
+      "fetched": "2026-03-10T08:48:34.016219+07:00"
+    },
+    {
+      "id": "38e4f20ad26ae71dc80463ae2600f723",
+      "title": "Iran quyết dùng tổn thất kinh tế ép Mỹ lùi bước",
+      "link": "https://vnexpress.net/iran-quyet-dung-ton-that-kinh-te-ep-my-lui-buoc-5048528.html",
+      "summary": "Cố vấn của lãnh tụ tối cao Iran loại trừ phương án ngoại giao với Mỹ, tuyên bố chiến tranh chỉ kết thúc thông qua tổn thất về kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T00:16:30+07:00",
+      "fetched": "2026-03-10T08:48:30.331257+07:00"
+    },
+    {
+      "id": "c7e7adfec65d97fcb29776ab0048ce04",
+      "title": "Vỏ iPhone có thể được in 3D nhôm",
+      "link": "https://vnexpress.net/vo-iphone-co-the-duoc-in-3d-nhom-5048036.html",
+      "summary": "Công nghệ in 3D hợp kim nhôm thế hệ mới được kỳ vọng giúp Apple tối ưu hóa chi phí sản xuất, tăng độ bền và tạo thiết bị mỏng hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-10T00:00:00+07:00",
+      "fetched": "2026-03-10T08:48:34.016357+07:00"
+    },
+    {
+      "id": "7c08a006f4e2c387753ca0cb86239875",
+      "title": "Ông Trump: 'Chiến sự với Iran sẽ sớm kết thúc'",
+      "link": "https://vnexpress.net/ong-trump-chien-su-voi-iran-se-som-ket-thuc-5048523.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ và Israel đã đạt các mục tiêu và cuộc chiến với Iran sẽ sớm kết thúc, nhưng không ấn định ngày cụ thể.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-09T23:52:12+07:00",
+      "fetched": "2026-03-10T08:48:30.331407+07:00"
+    },
+    {
+      "id": "4ed4b88e37f52b0099a0b664a5e73cbf",
+      "title": "Vì sao Trung Quốc ít tổn thương hơn các nước với cú sốc giá dầu 100 USD?",
+      "link": "https://vnexpress.net/vi-sao-trung-quoc-it-ton-thuong-hon-cac-nuoc-voi-cu-soc-gia-dau-100-usd-5048376.html",
+      "summary": "1,2 tỷ thùng dầu dự trữ và quá trình chuyển đổi nhanh sang xe điện giúp Trung Quốc có bộ đệm lớn dù là nước nhập dầu nhiều nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-09T23:00:00+07:00",
+      "fetched": "2026-03-10T08:48:31.627949+07:00"
+    },
+    {
+      "id": "2305286c51b730bb48ff85ef721c3ed7",
+      "title": "Rooney khuyên Arsenal phớt lờ chỉ trích về lối chơi",
+      "link": "https://vnexpress.net/rooney-khuyen-arsenal-phot-lo-chi-trich-ve-loi-choi-5048518.html",
+      "summary": "Cựu tiền đạo Wayne Rooney muốn Arsenal gạt những chỉ trích và tiếp tục khai thác các chiến thuật hiện tại nếu đối thủ vẫn chưa tìm ra cách ngăn chặn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T22:59:04+07:00",
+      "fetched": "2026-03-10T08:48:35.312017+07:00"
+    },
+    {
+      "id": "bfd216ece272f52ca8b20fb106113a45",
+      "title": "Ngôi sao bóng bầu dục Mỹ hủy hôn một tháng trước ngày cưới",
+      "link": "https://vnexpress.net/ngoi-sao-bong-bau-duc-my-huy-hon-mot-thang-truoc-ngay-cuoi-5048521.html",
+      "summary": "Theo TMZ, mối quan hệ giữa Dak Prescott, ngôi sao của đội Dallas Cowboys và vị hôn thê Sarah Jane Ramos kết thúc chỉ khoảng một tháng trước ngày cưới dự kiến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-09T22:50:51+07:00",
+      "fetched": "2026-03-10T08:48:35.312149+07:00"
     },
     {
       "id": "ee31c6775a0818352ed58df341abf0ab",
