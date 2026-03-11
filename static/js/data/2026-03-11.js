@@ -1,7 +1,67 @@
 window.newsData_2026_03_11 = {
   "date": "2026-03-11",
-  "lastUpdated": "2026-03-11T05:25:57.809320+07:00",
+  "lastUpdated": "2026-03-11T08:48:26.157914+07:00",
   "articles": [
+    {
+      "id": "5f02ab0c8de91171d9dd6583958d3a5f",
+      "title": "Thời tiết hôm nay 11-3: Bắc Bộ rét, Nam Bộ ngày nắng, chiều tối mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-11-3-bac-bo-ret-nam-bo-ngay-nang-chieu-toi-mua-20260310170237965.htm",
+      "summary": "Hôm nay 11-3, thời tiết Bắc Bộ nắng nhưng trời lạnh đến rét. Nam Bộ ngày nắng nóng, chiều tối lại có mưa trái mùa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.680396+07:00",
+      "fetched": "2026-03-11T08:48:17.680513+07:00"
+    },
+    {
+      "id": "aa98500f8c67d34e85f76771e5a06127",
+      "title": "Tài xế công nghệ bán bánh tráng kiếm thêm",
+      "link": "https://tuoitre.vn/tai-xe-cong-nghe-ban-banh-trang-kiem-them-20260310233113126.htm",
+      "summary": "Giữa nhịp sống hối hả của những đô thị lớn như TP.HCM, hình ảnh những chiếc áo khoác xanh, cam, đỏ của các tài xế công nghệ đã trở thành một phần không thể thiếu của hơi thở đường phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.680263+07:00",
+      "fetched": "2026-03-11T08:48:17.680384+07:00"
+    },
+    {
+      "id": "170bea03332eca7fece9344dd19db8f1",
+      "title": "Tin tức thế giới 11-3: Giá dầu tiếp tục giảm, thị trường chứng khoán vùng Vịnh phục hồi",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-11-3-gia-dau-tiep-tuc-giam-thi-truong-chung-khoan-vung-vinh-phuc-hoi-20260311044641357.htm",
+      "summary": "Giá dầu biến động vì bài đăng rồi gỡ nhanh của Bộ trưởng Năng lượng Mỹ; Ukraine chia sẻ kinh nghiệm hạ drone Iran với Trung Đông...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.680111+07:00",
+      "fetched": "2026-03-11T08:48:17.680249+07:00"
+    },
+    {
+      "id": "b5b8fb8e54da909a65686ac6520deffb",
+      "title": "Nhà Trắng: Cuộc chiến sẽ kết thúc khi ông Trump quyết định; 140 lính Mỹ bị thương",
+      "link": "https://tuoitre.vn/nha-trang-cuoc-chien-se-ket-thuc-khi-ong-trump-quyet-dinh-140-linh-my-bi-thuong-20260311061002866.htm",
+      "summary": "Diễn biến mới về xung đột Mỹ - Israel với Iran: Israel bắt đầu đợt tấn công tiếp theo vào Iran và Lebanon; Mỹ phá hủy 16 tàu rải thủy lôi của Iran gần eo biển Hormuz; Nhà máy lọc dầu lớn hàng đầu thế giới ở UAE dừng hoạt động...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.679976+07:00",
+      "fetched": "2026-03-11T08:48:17.680099+07:00"
+    },
+    {
+      "id": "16fb6c455ed0c69d895bb9f1a64f2ca6",
+      "title": "Bayern Munich, Atletico đặt 1 chân vào tứ kết Champions League",
+      "link": "https://tuoitre.vn/bayern-munich-atletico-dat-1-chan-vao-tu-ket-champions-league-20260311061050915.htm",
+      "summary": "Sáng 11-3 (giờ Việt Nam) đã diễn ra 4 trận đầu tiên của giai đoạn lượt đi vòng 16 đội Champions League, với tâm điểm là những màn thị uy sức mạnh của các ứng cử viên vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.679831+07:00",
+      "fetched": "2026-03-11T08:48:17.679963+07:00"
+    },
+    {
+      "id": "8b99d13a91e17648c107c7f60845e495",
+      "title": "Barca và Liverpool cùng gây thất vọng",
+      "link": "https://tuoitre.vn/barca-va-liverpool-cung-gay-that-vong-20260311062750954.htm",
+      "summary": "Phải thi đấu sân khách ở lượt đi vòng 16 đội Champions League trước những đối thủ khó chịu, 2 ứng cử viên vô địch Barca và Liverpool đều không có được màn trình diễn ưng ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T08:48:17.679595+07:00",
+      "fetched": "2026-03-11T08:48:17.679816+07:00"
+    },
     {
       "id": "16d0061dcc7cbc896d0a005857237a62",
       "title": "Điều chỉnh tăng giá xăng, giảm giá dầu hỏa, chi mạnh quỹ bình ổn tới 5.000 đồng/lít",
@@ -181,6 +241,416 @@ window.newsData_2026_03_11 = {
       "category": "Tổng hợp",
       "published": "2026-03-11T01:42:53.085472+07:00",
       "fetched": "2026-03-11T01:42:53.085715+07:00"
+    },
+    {
+      "id": "7a24029fa77b6cea60750e45be245f10",
+      "title": "Giá heo hơi hôm nay 11.3.2026: Đà giảm chưa dứt",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1132026-da-giam-chua-dut-185260311082618461.htm",
+      "summary": "Giá heo hơi tiếp tục xu hướng giảm nhẹ trên cả nước, giá bình quân đang ở mức 64.000 đồng/kg và còn có thể giảm thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:42:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571047+07:00"
+    },
+    {
+      "id": "ba92f4a70d1b15e24a81368a15fcbb7f",
+      "title": "Một thành phố ở Việt Nam vào danh sách có chi phí thấp nhất thế giới",
+      "link": "https://thanhnien.vn/mot-thanh-pho-o-viet-nam-vao-danh-sach-co-chi-phi-thap-nhat-the-gioi-185260305145554328.htm",
+      "summary": "Đối với hầu hết du khách, giá cả phải chăng là yếu tố quyết định khi lên kế hoạch du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:37:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571234+07:00"
+    },
+    {
+      "id": "c24d042e2f7d9d417cc8ce7a458c416c",
+      "title": "Mỹ đã 'mất 11 UAV Reaper' trong xung đột với Iran",
+      "link": "https://vnexpress.net/my-da-mat-11-uav-reaper-trong-xung-dot-voi-iran-5048828.html",
+      "summary": "Truyền thông Mỹ cho biết 11 phi cơ MQ-9 Reaper, mỗi chiếc có giá 30 triệu USD, đã bị rơi kể từ khi xung đột Trung Đông bùng phát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-11T01:36:04+07:00",
+      "fetched": "2026-03-11T08:48:19.702323+07:00"
+    },
+    {
+      "id": "4954ed5e3b85239385364404eebf5fe8",
+      "title": "Giá USD hôm nay 11.3.2026: Quay đầu giảm cùng euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1132026-quay-dau-giam-cung-euro-bang-anh-185260311074500654.htm",
+      "summary": "Giá USD trong nước và một số ngoại tệ khác đồng loạt đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:36:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571397+07:00"
+    },
+    {
+      "id": "8c3dc9ec88b2d268fe836b165d6efbff",
+      "title": "THỂ LỆ CUỘC THI VIẾT VÀ ẢNH\n“Tự hào 50 năm ngành điện thành phố mang tên Bác” với tổng giải thưởng 220 triệu đồng",
+      "link": "https://thanhnien.vn/the-le-cuoc-thi-viet-va-anhtu-hao-50-nam-nganh-dien-thanh-pho-mang-ten-bac-voi-tong-giai-thuong-220-trieu-dong-185260304114314034.htm",
+      "summary": "Kỷ niệm 50 năm ngày thành lập Sở Quản lý và Phân phối điện TP.HCM (7.8.1976 -7.8.2026), nay là Tổng công ty Điện lực TP.HCM (EVNHCMC), Báo Thanh Niên và EVNHCMC phát động cuộc thi viết và ảnh \"Tự hào 50 năm ngành điện thành phố mang tên Bác\", nhằm tôn vinh chặng đường 50 năm xây dựng, phát triển, đồ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:31:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571554+07:00"
+    },
+    {
+      "id": "2b346694ab50a3b47aec84b2f6329bca",
+      "title": "Nóng: Sự cố đội tuyển nữ tại giải châu Á, Iran sẽ rút khỏi World Cup 2026",
+      "link": "https://thanhnien.vn/nong-su-co-doi-tuyen-nu-tai-giai-chau-a-iran-se-rut-khoi-world-cup-2026-185260311082034463.htm",
+      "summary": "Theo Chủ tịch Liên đoàn Bóng đá Iran (FFIRI), Mehdi Taj, với sự cố của đội tuyển nữ nước này tại Asian Cup diễn ra ở Úc, chắc chắn họ sẽ không để đội tuyển nam tham dự World Cup 2026. FIFA phải tìm giải pháp thay thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:23:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571706+07:00"
+    },
+    {
+      "id": "fdb6d890453db9896510d3e20c19639c",
+      "title": "Lo Iran rải thủy lôi ra eo biển Hormuz, phương Tây tính hộ tống tàu dầu",
+      "link": "https://thanhnien.vn/lo-iran-rai-thuy-loi-ra-eo-bien-hormuz-phuong-tay-tinh-ho-tong-tau-dau-185260311070958652.htm",
+      "summary": "Nguồn tin tình báo của Mỹ cho biết Iran đang tính rải thủy lôi tại eo biển Hormuz, trong khi Anh đang làm việc với các đồng minh để hộ tống tàu thuyền qua tuyến hàng hải quan trọng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:22:00+07:00",
+      "fetched": "2026-03-11T08:48:16.571857+07:00"
+    },
+    {
+      "id": "fabdaa61f9f1072f52ea7c5e7efc32ef",
+      "title": "Lâm Đồng: Xăng dầu tăng tới 40%, nhà xe tính tăng giá vận chuyển",
+      "link": "https://thanhnien.vn/lam-dong-xang-dau-tang-toi-40-nha-xe-tinh-tang-gia-van-chuyen-185260311060902458.htm",
+      "summary": "Giá xăng dầu tăng mạnh khiến chi phí mỗi chuyến xe Phan Thiết - TP.HCM, Phan Thiết - Đà Lạt đội lên hàng triệu đồng, nhiều nhà xe ở Lâm Đồng đang cân nhắc tăng giá vé để bù chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:21:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572012+07:00"
+    },
+    {
+      "id": "4f0f8f15a9bbc6767e14aee951ee03bc",
+      "title": "Nhiều cây xà cừ cổ thụ trên đường Láng trụi lá bất thường",
+      "link": "https://thanhnien.vn/nhieu-cay-xa-cu-co-thu-tren-duong-lang-trui-la-bat-thuong-185260310220526485.htm",
+      "summary": "Trên tuyến đường Láng ở Hà Nội xuất hiện 3 cây xà cừ cổ thụ trong tình trạng trụi lá bất thường, dù những cây còn lại vẫn xanh tốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:20:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572162+07:00"
+    },
+    {
+      "id": "8de11fe5f9da6c97113e715b55903972",
+      "title": "Áp lực công việc: Khi nào nên khám chuyên khoa tâm thần?",
+      "link": "https://thanhnien.vn/ap-luc-cong-viec-khi-nao-nen-kham-chuyen-khoa-tam-than-185260310220235965.htm",
+      "summary": "Nên đi khám sức khỏe tâm thần nếu thường xuyên bị hồi hộp, đánh trống ngực, vã mồ hôi, lo sợ khi phải đến nơi làm việc; thường xuyên ác mộng liên quan đến công việc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:16:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572339+07:00"
+    },
+    {
+      "id": "60fa7a9dd06e30f39ed0a968e3c76a92",
+      "title": "Phái viên Mỹ: Nga phủ nhận chia sẻ dữ liệu tình báo cho Iran",
+      "link": "https://vnexpress.net/phai-vien-my-nga-phu-nhan-chia-se-du-lieu-tinh-bao-cho-iran-5048945.html",
+      "summary": "Đặc phái viên Witkoff cho biết Nga phủ nhận chia sẻ thông tin tình báo với Iran trong xung đột Trung Đông, thêm rằng Mỹ tin tưởng điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:01:42+07:00",
+      "fetched": "2026-03-11T08:48:13.058585+07:00"
+    },
+    {
+      "id": "60fa7a9dd06e30f39ed0a968e3c76a92",
+      "title": "Phái viên Mỹ: Nga phủ nhận chia sẻ dữ liệu tình báo cho Iran",
+      "link": "https://vnexpress.net/phai-vien-my-nga-phu-nhan-chia-se-du-lieu-tinh-bao-cho-iran-5048945.html",
+      "summary": "Đặc phái viên Witkoff cho biết Nga phủ nhận chia sẻ thông tin tình báo với Iran trong xung đột Trung Đông, thêm rằng Mỹ tin tưởng điều này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-11T01:01:42+07:00",
+      "fetched": "2026-03-11T08:48:19.702513+07:00"
+    },
+    {
+      "id": "e4d617f517bc1e846b9180c4776663cf",
+      "title": "Khách hò reo cổ vũ trong cuộc thi cõng vợ tại Anh",
+      "link": "https://vnexpress.net/khach-ho-reo-co-vu-trong-cuoc-thi-cong-vo-tai-anh-5048816.html",
+      "summary": "Hàng chục nam giới cõng bạn đời vượt qua nhiều thử thách địa hình khó khăn tại giải thể thao kỳ lạ nhất nước Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.058768+07:00"
+    },
+    {
+      "id": "3c7924635b95230af322be6f7b90cb23",
+      "title": "Đàn cá rô đồng 'diễu hành' sau mưa",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-ro-dong-dieu-hanh-sau-mua-5048387.html",
+      "summary": "Sau cơn mưa lớn, hàng chục con cá rô đồng bất ngờ xuất hiện trên con đường mòn và di chuyển ngay ngắn theo hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.058933+07:00"
+    },
+    {
+      "id": "8890b1261b3acd615f337415897f3222",
+      "title": "Vingroup hỗ trợ người dùng 'thu xăng - đổi điện'",
+      "link": "https://vnexpress.net/vingroup-ho-tro-nguoi-dung-thu-xang-doi-dien-5048929.html",
+      "summary": "Vingroup ưu đãi 3% giá ôtô, 5% giá xe máy điện VinFast tại 4 thị trường, taxi điện Xanh SM giảm 10% giá cước, trước áp lực giá xăng, dầu tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059098+07:00"
+    },
+    {
+      "id": "6c7c7ea4c03fb1ef2f6ab2f037e1595a",
+      "title": "Bất động sản phía Tây Hà Nội hưởng lợi từ mô hình đô thị TOD",
+      "link": "https://vnexpress.net/bat-dong-san-phia-tay-ha-noi-huong-loi-tu-mo-hinh-do-thi-tod-5048899.html",
+      "summary": "Hạ tầng metro cùng định hướng giãn dân thúc đẩy mô hình TOD phía Tây Hà Nội, mở ra hướng tổ chức không gian đô thị gắn với giao thông công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059315+07:00"
+    },
+    {
+      "id": "999a1f99e04e7f50a6e937406af67254",
+      "title": "Thương hiệu gia dụng Tactflow ra mắt thị trường Việt Nam",
+      "link": "https://vnexpress.net/thuong-hieu-gia-dung-tactflow-ra-mat-thi-truong-viet-nam-5048857.html",
+      "summary": "Tactflow - thương hiệu gia dụng đến từ Hàn Quốc, tập trung vào sự cân bằng, nghỉ ngơi của cá nhân giữa nhịp sống hối hả, ra mắt đồng thời tại xứ sở kim chi và Việt Nam từ tháng 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059490+07:00"
+    },
+    {
+      "id": "52ddcdfea676f8ce0914f5eee6f540c0",
+      "title": "Vô sinh do suy tuyến yên",
+      "link": "https://vnexpress.net/vo-sinh-do-suy-tuyen-yen-5048623.html",
+      "summary": "Chị Miên, 37 tuổi, tưởng khó có con do kinh nguyệt không đều song bác sĩ chẩn đoán nguyên nhân từ suy tuyến yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059653+07:00"
+    },
+    {
+      "id": "5b4c3aa54dda2d1a9d028889046ca665",
+      "title": "WorldHotels tham gia vận hành dự án căn hộ tại TP HCM",
+      "link": "https://vnexpress.net/worldhotels-tham-gia-van-hanh-du-an-can-ho-tai-tp-hcm-5048350.html",
+      "summary": "Thương hiệu khách sạn WorldHotels tham gia vận hành tòa tháp Lusso Saigon, dự án căn hộ hàng hiệu hướng đến nhu cầu lưu trú của chuyên gia quốc tế tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059816+07:00"
+    },
+    {
+      "id": "19e6ce979f4e65c0a38a938b8650c2f3",
+      "title": "U phổi tiến triển ung thư sau 4 năm",
+      "link": "https://vnexpress.net/u-phoi-tien-trien-ung-thu-sau-4-nam-5048078.html",
+      "summary": "Ông Hiếu, 60 tuổi, theo dõi u phổi lành tính 4 năm, nay u tăng kích thước, sinh thiết xác định ung thư tế bào thần kinh nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.059983+07:00"
+    },
+    {
+      "id": "f09ad63c77464ff2b09828aa01028364",
+      "title": "Vì sao người Việt ngày càng ưu tiên chọn nha khoa nổi tiếng làm răng thẩm mỹ?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-viet-ngay-cang-uu-tien-chon-nha-khoa-noi-tieng-lam-rang-tham-my-185260310202614381.htm",
+      "summary": "Thay vì chỉ quan tâm đến chi phí, người tiêu dùng hiện đại đang chuyển hướng sang các hệ thống nha khoa lớn, nơi sở hữu nền tảng công nghệ số và đội ngũ chuyên môn cao để đảm bảo an toàn và hiệu quả thẩm mỹ bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572494+07:00"
+    },
+    {
+      "id": "1c5f59b281aaf10633c676747ef97786",
+      "title": "Bài toán tài chính an toàn cho người mua nhà ở thực và đầu tư dài hạn",
+      "link": "https://thanhnien.vn/bai-toan-tai-chinh-an-toan-cho-nguoi-mua-nha-o-thuc-va-dau-tu-dai-han-185260310195937395.htm",
+      "summary": "Thị trường bất động sản đang chịu tác động từ chu kỳ tăng lãi suất và sự thay đổi trong tâm lý đầu tư. Diễn biến này cho thấy một nguyên tắc quen thuộc của thị trường: khả năng chịu đựng dòng tiền quan trọng không kém tiềm năng tăng giá của tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572643+07:00"
+    },
+    {
+      "id": "89ce4ebb9a18ce3a606f3e2423ff5501",
+      "title": "Mong bảo vệ trẻ em an toàn trên không gian mạng",
+      "link": "https://thanhnien.vn/mong-bao-ve-tre-em-an-toan-tren-khong-gian-mang-185260310195914566.htm",
+      "summary": "Đó là một trong nhiều ý kiến của cử tri TP.HCM tại buổi các ứng viên đại biểu Quốc hội và HĐND TP.HCM tiếp xúc cử tri ở xã Phú Giáo (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572794+07:00"
+    },
+    {
+      "id": "ef829a5af29f8a35b3862a871f659926",
+      "title": "Công nghệ cao kiểm soát bệnh lý mắt người cao tuổi: chủ động dự phòng biến chứng",
+      "link": "https://thanhnien.vn/cong-nghe-cao-kiem-soat-benh-ly-mat-nguoi-cao-tuoi-chu-dong-du-phong-bien-chung-185260310181516405.htm",
+      "summary": "Cùng với quá trình lão hóa, nhiều bệnh lý mắt như đục thủy tinh thể, glocom, thoái hóa hoàng điểm hay bệnh võng mạc có xu hướng gia tăng ở người cao tuổi, khiến thị lực suy giảm và ảnh hưởng đến chất lượng cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.572938+07:00"
+    },
+    {
+      "id": "c1b4f078f94b7246d8a584166311b5f4",
+      "title": "Hơn 600 chuyên viên kinh doanh bùng nổ cùng lễ ra quân dự án Salacia Villas",
+      "link": "https://thanhnien.vn/hon-600-chuyen-vien-kinh-doanh-bung-no-cung-le-ra-quan-du-an-salacia-villas-185260310161122935.htm",
+      "summary": "Sáng 10.3, sự kiện ra quân dự án Salacia Villas đã chào đón hơn 600 chuyên viên kinh doanh đến từ hệ thống 10 đại lý phân phối chiến lược, đánh dấu bước khởi động chính thức cho chiến dịch kinh doanh của dự án trên thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.573096+07:00"
+    },
+    {
+      "id": "9915e7fb20367c04d66c4eda4a0a12bc",
+      "title": "Những mẫu áo đẹp nên phối cùng chân váy xếp ly",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-mau-ao-dep-nen-phoi-cung-chan-vay-xep-ly-185260309142619199.htm",
+      "summary": "Chân váy xếp ly là đại diện cho vẻ đẹp nữ tính đặc trưng của phái đẹp. Những nếp gấp mềm mại uyển chuyển của thiết kế mang đến nét dịu dàng dù nàng kết hợp cùng sơ mi lụa, áo vest hay các thiết kế blouse.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T01:00:00+07:00",
+      "fetched": "2026-03-11T08:48:16.573261+07:00"
+    },
+    {
+      "id": "d04c4c31f64c5c220fdd225432fff15e",
+      "title": "Anh có cần một người ở bên nắm tay cả khi đẹp trời lẫn mưa gió?",
+      "link": "https://vnexpress.net/anh-co-can-mot-nguoi-o-ben-nam-tay-ca-khi-dep-troi-lan-mua-gio-5047987.html",
+      "summary": "Có lẽ một ngày sẽ trọn vẹn hơn khi có một người tri kỷ cùng chia sẻ những điều giản dị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:57:43+07:00",
+      "fetched": "2026-03-11T08:48:13.060090+07:00"
+    },
+    {
+      "id": "bdba6278df9c9bb228b79eb4c789fcf9",
+      "title": "10 ôtô bán nhiều nhất tháng 2 - xe VinFast áp đảo",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thang-2-xe-vinfast-ap-dao-5048921.html",
+      "summary": "Hãng xe Việt Nam VinFast góp 5 trên 10 mẫu xe bán chạy nhất tháng, VF 3 giữ ngôi đầu, tiếp đến là Limo Green, VF 5, VF MPV 7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:56:41+07:00",
+      "fetched": "2026-03-11T08:48:13.060276+07:00"
+    },
+    {
+      "id": "2f58aaaa09d656ae58bf57a0112d2bac",
+      "title": "Giá dầu thế giới giảm nhẹ",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-giam-nhe-5048947.html",
+      "summary": "Dầu thô ghi nhận phiên giảm thứ 2 liên tiếp, sau thông tin Cơ quan Năng lượng Quốc tế (IEA) đề xuất các nước xả lượng dầu dự trữ kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:51:21+07:00",
+      "fetched": "2026-03-11T08:48:13.060449+07:00"
+    },
+    {
+      "id": "2f58aaaa09d656ae58bf57a0112d2bac",
+      "title": "Giá dầu thế giới giảm nhẹ",
+      "link": "https://vnexpress.net/gia-dau-the-gioi-giam-nhe-5048947.html",
+      "summary": "Dầu thô ghi nhận phiên giảm thứ 2 liên tiếp, sau thông tin Cơ quan Năng lượng Quốc tế (IEA) đề xuất các nước xả lượng dầu dự trữ kỷ lục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-11T00:51:21+07:00",
+      "fetched": "2026-03-11T08:48:21.728859+07:00"
+    },
+    {
+      "id": "11a9a3866dca15e6fb0d44b456b2222c",
+      "title": "Israel cáo buộc Iran đã phóng hơn 100 tên lửa mang đầu đạn chùm",
+      "link": "https://vnexpress.net/israel-cao-buoc-iran-da-phong-hon-100-ten-lua-mang-dau-dan-chum-5048946.html",
+      "summary": "Quân đội Israel cho biết Iran đã phóng khoảng 300 tên lửa đạn đạo vào nước này, một nửa trong số đó mang đầu đạn chùm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:24:00+07:00",
+      "fetched": "2026-03-11T08:48:13.060610+07:00"
+    },
+    {
+      "id": "11a9a3866dca15e6fb0d44b456b2222c",
+      "title": "Israel cáo buộc Iran đã phóng hơn 100 tên lửa mang đầu đạn chùm",
+      "link": "https://vnexpress.net/israel-cao-buoc-iran-da-phong-hon-100-ten-lua-mang-dau-dan-chum-5048946.html",
+      "summary": "Quân đội Israel cho biết Iran đã phóng khoảng 300 tên lửa đạn đạo vào nước này, một nửa trong số đó mang đầu đạn chùm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-11T00:24:00+07:00",
+      "fetched": "2026-03-11T08:48:19.702678+07:00"
+    },
+    {
+      "id": "bef5d5eb3275de7d533378244171f164",
+      "title": "Hoa kèn hồng bung nở khắp tuyến phố Sài Gòn",
+      "link": "https://vnexpress.net/hoa-ken-hong-bung-no-khap-tuyen-pho-sai-gon-5048860.html",
+      "summary": "Hoa kèn hồng nở rộ những ngày đầu tháng 3 trên  nhiều đường phố ở TP HCM , tạo nên khung cảnh được nhiều người ví như \"mùa anh đào\" giữa lòng Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:01:10+07:00",
+      "fetched": "2026-03-11T08:48:13.060765+07:00"
+    },
+    {
+      "id": "47e0d6ede10bfa89514322c110cba7c1",
+      "title": "Trái tim người lạ giúp bé gái viết tiếp giấc mơ đến trường",
+      "link": "https://vnexpress.net/trai-tim-nguoi-la-giup-be-gai-viet-tiep-giac-mo-den-truong-5048697.html",
+      "summary": "7 năm sau ca ghép tim, thiếu nữ 17 tuổi Hà Ngọc Chi hiện sức khỏe ổn định và tiếp tục nuôi dưỡng ước mơ tuổi học trò nhờ trái tim hiến tặng từ một người xa lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-11T00:00:00+07:00",
+      "fetched": "2026-03-11T08:48:13.060923+07:00"
+    },
+    {
+      "id": "6996340098fec7e312a5de32d0d0c256",
+      "title": "Thiết kế dự kiến của iPhone màn hình gập",
+      "link": "https://vnexpress.net/thiet-ke-du-kien-cua-iphone-man-hinh-gap-5048508.html",
+      "summary": "Bản vẽ CAD từ các nhà sản xuất ốp lưng cho thấy mẫu iPhone gập nhiều khả năng có thiết kế tương tự iPad Mini khi mở và cụm camera đặt ngang giống iPhone Air.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-11T00:00:00+07:00",
+      "fetched": "2026-03-11T08:48:25.094227+07:00"
+    },
+    {
+      "id": "a0ff31e76f379bff6e3033fdc39568bb",
+      "title": "Mỹ tuyên bố phá hủy 16 tàu rải thủy lôi Iran gần Eo biển Hormuz",
+      "link": "https://vnexpress.net/my-tuyen-bo-pha-huy-16-tau-rai-thuy-loi-iran-gan-eo-bien-hormuz-5048942.html",
+      "summary": "Mỹ thông báo phá hủy 16 tàu rải thủy lôi Iran gần Eo biển Hormuz, trong khi ông Trump cảnh báo Tehran không được phong tỏa tuyến hàng hải này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-10T23:56:06+07:00",
+      "fetched": "2026-03-11T08:48:19.702836+07:00"
+    },
+    {
+      "id": "aa0e78b0b1628b86d847170ad26d0a85",
+      "title": "Bayern đặt một chân vào tứ kết Champions League",
+      "link": "https://vnexpress.net/bayern-dat-mot-chan-vao-tu-ket-champions-league-5048937.html",
+      "summary": "Bayern đè bẹp chủ nhà Atalanta 6-1 ở lượt đi vòng 1/8 và nắm lợi thế lớn vào tứ kết Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T23:16:48+07:00",
+      "fetched": "2026-03-11T08:48:26.152114+07:00"
+    },
+    {
+      "id": "17a4497198310d9a0854c6c86dc9579a",
+      "title": "Yamal cứu Barca thoát thua ở Champions League",
+      "link": "https://vnexpress.net/yamal-cuu-barca-thoat-thua-o-champions-league-5048938.html",
+      "summary": "Lamine Yamal ghi bàn phạt đền ở phút bù thứ sáu giúp Barca hòa Newcastle 1-1 ở lượt đi vòng 1/8 Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T22:51:30+07:00",
+      "fetched": "2026-03-11T08:48:26.152301+07:00"
+    },
+    {
+      "id": "5c31940a77226aa5b738f953b3313aac",
+      "title": "Liverpool thất bại ở lượt đi vòng 1/8 Champions League",
+      "link": "https://vnexpress.net/liverpool-that-bai-o-luot-di-vong-1-8-champions-league-5048939.html",
+      "summary": "Lần thứ hai ở Champions League mùa này, Liverpool thua 0-1 trên sân Galatasaray.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T22:47:15+07:00",
+      "fetched": "2026-03-11T08:48:26.151938+07:00"
+    },
+    {
+      "id": "d3680131d55ec6c1abd82cba762169ce",
+      "title": "World Cup 'lớn đến nỗi không thể bị hoãn vì xung đột Trung Đông'",
+      "link": "https://vnexpress.net/world-cup-lon-den-noi-khong-the-bi-hoan-vi-xung-dot-trung-dong-5048925.html",
+      "summary": "Quan chức điều hành FIFA Heimo Schirgi khẳng định World Cup 2026 sẽ vẫn diễn ra theo kế hoạch, bất chấp căng thẳng quân sự tại Trung Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T22:45:36+07:00",
+      "fetched": "2026-03-11T08:48:26.152465+07:00"
+    },
+    {
+      "id": "e84a791c4b0b175a2275dea4c5f32337",
+      "title": "HLV Trần Tiến Đại dẫn dắt PVF-CAND",
+      "link": "https://vnexpress.net/hlv-tran-tien-dai-dan-dat-pvf-cand-5048933.html",
+      "summary": "PVF-CAND chia tay HLV Nguyễn Thành Công để bổ nhiệm ông Trần Tiến Đại khi đang chật vật đua trụ hạng V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-10T22:38:50+07:00",
+      "fetched": "2026-03-11T08:48:26.152624+07:00"
     },
     {
       "id": "ca7ee52496cc04caae25af8bb8c6fd1f",
@@ -451,6 +921,16 @@ window.newsData_2026_03_11 = {
       "category": "Kinh doanh",
       "published": "2026-03-10T17:19:49+07:00",
       "fetched": "2026-03-11T01:42:56.690925+07:00"
+    },
+    {
+      "id": "9654980f2846d74555d6cef46178fa06",
+      "title": "Giá xăng tăng hơn 2.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-tang-hon-2-000-dong-mot-lit-5048728.html",
+      "summary": "Từ 23h45 ngày 10/3, giá xăng RON95-III tăng 2.080 đồng lên 29.120 đồng, dầu diesel đắt thêm 480 đồng ở mức 30.710 đồng một lít.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-10T17:19:49+07:00",
+      "fetched": "2026-03-11T08:48:21.729215+07:00"
     },
     {
       "id": "7b824ab6766ac435172efc463fe44d0d",
