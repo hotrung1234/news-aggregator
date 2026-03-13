@@ -1,7 +1,17 @@
 window.newsData_2026_03_14 = {
   "date": "2026-03-14",
-  "lastUpdated": "2026-03-14T01:37:48.482650+07:00",
+  "lastUpdated": "2026-03-14T03:30:50.284181+07:00",
   "articles": [
+    {
+      "id": "ead9d8140afeb93a01dfb689947ba9fe",
+      "title": "Tiếp tục chi mạnh quỹ bình ổn lên tới 5.000 đồng/lít để giữ nguyên giá xăng dầu",
+      "link": "https://tuoitre.vn/tiep-tuc-chi-manh-quy-binh-on-len-toi-5-000-dong-lit-de-giu-nguyen-gia-xang-dau-20260313172906353.htm",
+      "summary": "Bộ Công Thương vừa công bố điều hành giá các mặt hàng xăng dầu ngày 14-3 với mức giữ ổn định khi tiếp tục thực hiện chi mạnh quỹ bình ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T03:30:43.896810+07:00",
+      "fetched": "2026-03-14T03:30:43.897009+07:00"
+    },
     {
       "id": "6c48de6e396aaec57965b94547796409",
       "title": "Dự kiến trình Quốc hội thông qua Luật Đô thị đặc biệt cho TP.HCM trong năm 2026",
@@ -151,6 +161,16 @@ window.newsData_2026_03_14 = {
       "category": "Tổng hợp",
       "published": "2026-03-14T01:37:41.102727+07:00",
       "fetched": "2026-03-14T01:37:41.102965+07:00"
+    },
+    {
+      "id": "48d18359adee2ec60d3a2d316f5cd4af",
+      "title": "Những người hùng thầm lặng tại sân Nha Trang",
+      "link": "https://thanhnien.vn/nhung-nguoi-hung-tham-lang-tai-san-nha-trang-185260313202122564.htm",
+      "summary": "VCK TNSV THACO cup 2026 đang diễn ra sôi nổi với chất lượng cao, nhờ sự đồng lòng góp sức thầm lặng nhưng quan trọng của thầy trò Trường ĐH Nha Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T19:49:00+07:00",
+      "fetched": "2026-03-14T03:30:42.808791+07:00"
     },
     {
       "id": "e97a4001f26f2da6a3315efe7f0e90f4",
