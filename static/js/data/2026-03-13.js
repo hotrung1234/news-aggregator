@@ -1,7 +1,157 @@
 window.newsData_2026_03_13 = {
   "date": "2026-03-13",
-  "lastUpdated": "2026-03-13T21:40:12.420414+07:00",
+  "lastUpdated": "2026-03-13T23:37:06.417716+07:00",
   "articles": [
+    {
+      "id": "32a405997d66ab207225ba1fef7edb95",
+      "title": "Xuân Son lại 'tịt ngòi', Nam Định thắng Thanh Hóa với 10 người",
+      "link": "https://tuoitre.vn/xuan-son-lai-tit-ngoi-nam-dinh-thang-thanh-hoa-voi-10-nguoi-20260313202710391.htm",
+      "summary": "Tối 13-3, CLB Nam Định vất vả thắng Thanh Hóa 1-0 tại vòng 16 LPBank V-League 2025 - 2026, nơi Xuân Son im hơi lặng tiếng, còn Lucas nhận thẻ đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317920+07:00",
+      "fetched": "2026-03-13T23:36:58.318033+07:00"
+    },
+    {
+      "id": "57607416b38553e511f08ca82bf7858e",
+      "title": "Dân đề nghị sớm bồi thường do thi công cao tốc Chí Thạnh - Vân Phong gây nứt nhà",
+      "link": "https://tuoitre.vn/dan-de-nghi-som-boi-thuong-do-thi-cong-cao-toc-chi-thanh-van-phong-gay-nut-nha-2026031318163796.htm",
+      "summary": "Nhiều hộ dân ở khu Đá Dựng, khu phố Bàn Nham Nam, phường Đông Hòa, Đắk Lắk (Phú Yên cũ) phản ánh nhà cửa xuất hiện nhiều vết nứt lớn, do ảnh hưởng công trình thi công cao tốc Chí Thạnh - Vân Phong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317796+07:00",
+      "fetched": "2026-03-13T23:36:58.317909+07:00"
+    },
+    {
+      "id": "ca4fe16c1ba87f3b902dbebcd629b0c5",
+      "title": "Bất động sản bắt tay bệnh viện, đón làn sóng du lịch chăm sóc sức khỏe và 'kinh tế bạc'",
+      "link": "https://tuoitre.vn/bat-dong-san-bat-tay-benh-vien-don-lan-song-du-lich-cham-soc-suc-khoe-va-kinh-te-bac-20260313200057066.htm",
+      "summary": "Một tập đoàn bất động sản vừa bắt đầu tích hợp dịch vụ y tế và chăm sóc sức khỏe vào các khu đô thị, du lịch nghỉ dưỡng của mình, trong bối cảnh xu hướng du lịch chăm sóc sức khỏe và 'kinh tế bạc' đang tăng nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317669+07:00",
+      "fetched": "2026-03-13T23:36:58.317785+07:00"
+    },
+    {
+      "id": "0fbb26ceb8115cabbdc6b11f71307ed0",
+      "title": "Cần Giờ sẵn sàng hòa nhịp 'Ngày hội toàn dân'",
+      "link": "https://tuoitre.vn/can-gio-san-sang-hoa-nhip-ngay-hoi-toan-dan-20260313190828528.htm",
+      "summary": "Những ngày này, các xã khu vực Cần Giờ rực rỡ cờ hoa, rộn ràng chuẩn bị hòa nhịp 'Ngày hội toàn dân' - ngày bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317520+07:00",
+      "fetched": "2026-03-13T23:36:58.317653+07:00"
+    },
+    {
+      "id": "c213c918091d187e2d94c90e6aafe04d",
+      "title": "Quỹ bình ổn xăng dầu chỉ còn đủ 15 ngày nếu tiếp tục chi như hiện nay",
+      "link": "https://tuoitre.vn/quy-binh-on-xang-dau-chi-con-du-15-ngay-neu-tiep-tuc-chi-nhu-hien-nay-20260313202326749.htm",
+      "summary": "Theo Cục trưởng Trần Hữu Linh, Quỹ bình ổn xăng dầu còn hơn 5.600 tỉ đồng, chỉ đủ hỗ trợ khoảng 15 ngày nếu tiếp tục chi như hiện nay khi giá thế giới biến động mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317390+07:00",
+      "fetched": "2026-03-13T23:36:58.317508+07:00"
+    },
+    {
+      "id": "a27baa64cc41d5fc1891abeeb855b088",
+      "title": "Hà Nội rào chắn 1.200m đường Nguyễn Trãi để làm dự án chống ngập",
+      "link": "https://tuoitre.vn/ha-noi-rao-chan-1-200m-duong-nguyen-trai-de-lam-du-an-chong-ngap-20260313204034541.htm",
+      "summary": "Sở Xây dựng Hà Nội phân luồng giao thông, rào 1.200m đường Nguyễn Trãi để thi công hệ thống cống thoát nước, chống ngập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317268+07:00",
+      "fetched": "2026-03-13T23:36:58.317379+07:00"
+    },
+    {
+      "id": "6c48de6e396aaec57965b94547796409",
+      "title": "Dự kiến trình Quốc hội thông qua Luật Đô thị đặc biệt cho TP.HCM trong năm 2026",
+      "link": "https://tuoitre.vn/du-kien-trinh-quoc-hoi-thong-qua-luat-do-thi-dac-biet-cho-tp-hcm-trong-nam-2026-20260313210636462.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được cho biết dự kiến Luật Đô thị đặc biệt sẽ được trình Quốc hội thông qua, để mở rộng không gian phát triển và đẩy mạnh phân cấp phân quyền cho thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317143+07:00",
+      "fetched": "2026-03-13T23:36:58.317256+07:00"
+    },
+    {
+      "id": "275fc9930eee028d36db58d02f0dc465",
+      "title": "Hé lộ số tiền khủng Highlands Coffee 'bỏ túi' từ gần 1.000 cửa hàng ở Việt Nam",
+      "link": "https://tuoitre.vn/he-lo-so-tien-khung-highlands-coffee-bo-tui-tu-gan-1-000-cua-hang-o-viet-nam-20260313205043878.htm",
+      "summary": "Sau 27 năm hoạt động, Highlands Coffee đang tiến gần 1.000 cửa hàng và đạt lợi nhuận gần 1.100 tỉ đồng năm vừa qua, trong bối cảnh công ty chuẩn bị kế hoạch IPO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.317018+07:00",
+      "fetched": "2026-03-13T23:36:58.317132+07:00"
+    },
+    {
+      "id": "9fd4608e22a1bf385569ee4d4fe7f4e7",
+      "title": "Starbucks mở cửa hàng cao nhất châu Á trên núi Fansipan",
+      "link": "https://tuoitre.vn/starbucks-mo-cua-hang-cao-nhat-chau-a-tren-nui-fansipan-20260313211019917.htm",
+      "summary": "Đây là một trong những cửa hàng Starbucks đặc biệt tại Việt Nam, với thiết kế kính bao quanh để khách hàng dễ dàng 'săn mây' trên nóc nhà Đông Dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316888+07:00",
+      "fetched": "2026-03-13T23:36:58.317006+07:00"
+    },
+    {
+      "id": "49f1c648cbf4a1f5cca30db9cd310cea",
+      "title": "TP.HCM vận hành thử quy trình bầu cử trước ngày 15-3",
+      "link": "https://tuoitre.vn/tp-hcm-van-hanh-thu-quy-trinh-bau-cu-truoc-ngay-15-3-20260313205059197.htm",
+      "summary": "TP.HCM tổ chức vận hành thử quy trình bầu cử với 150 cử tri tại phường Bình Trị Đông nhằm rà soát, hoàn thiện các khâu chuẩn bị trước ngày bỏ phiếu chính thức 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316755+07:00",
+      "fetched": "2026-03-13T23:36:58.316876+07:00"
+    },
+    {
+      "id": "432fc133abed15487babf6bcd19e5b0a",
+      "title": "Đỗ Hoàng Hên kiến tạo giúp CLB Hà Nội thắng đậm Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/do-hoang-hen-kien-tao-giup-clb-ha-noi-thang-dam-song-lam-nghe-an-2026031321222613.htm",
+      "summary": "CLB Hà Nội thắng Sông Lam Nghệ An 3-0, trong đó tiền đạo nhập tịch Đỗ Hoàng Hên góp 1 kiến tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316625+07:00",
+      "fetched": "2026-03-13T23:36:58.316743+07:00"
+    },
+    {
+      "id": "719f70c83b010736a54b362588d77581",
+      "title": "Khi rác 'nở hoa': Triển lãm nghệ thuật từ phế liệu hút sinh viên TP.HCM",
+      "link": "https://tuoitre.vn/khi-rac-no-hoa-trien-lam-nghe-thuat-tu-phe-lieu-hut-sinh-vien-tp-hcm-20260312231645942.htm",
+      "summary": "Triển lãm 'Hoa và Rác' tại Nhà văn hóa Sinh viên TP.HCM đã biến rác thải thành 13 tác phẩm nghệ thuật, lan tỏa thông điệp sống xanh đến giới trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316475+07:00",
+      "fetched": "2026-03-13T23:36:58.316613+07:00"
+    },
+    {
+      "id": "9f94de64be0dd0c687b8a78cc2a24b46",
+      "title": "CLB Thanh Niên TP.HCM không thắng trận thứ 12 liên tiếp",
+      "link": "https://tuoitre.vn/clb-thanh-nien-tp-hcm-khong-thang-tran-thu-12-lien-tiep-20260313212852979.htm",
+      "summary": "Chơi hơn người hơn 70 phút nhưng CLB Thanh Niên TP.HCM vẫn nhận thất bại trước Đại học Văn Hiến ở vòng 12 Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316340+07:00",
+      "fetched": "2026-03-13T23:36:58.316462+07:00"
+    },
+    {
+      "id": "f68870820afb1e4d683e68b31d1c08e2",
+      "title": "Video: Siêu phẩm của trung vệ Đà Nẵng làm bùng nổ sân Chi Lăng",
+      "link": "https://tuoitre.vn/video-sieu-pham-cua-trung-ve-da-nang-lam-bung-no-san-chi-lang-20260313214014154.htm",
+      "summary": "Phút bù giờ cuối cùng, trung vệ Vũ Văn Sơn (22 tuổi) lập siêu phẩm sút xa cứu CLB Đà Nẵng thoát thua trước Hoàng Anh Gia Lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316198+07:00",
+      "fetched": "2026-03-13T23:36:58.316327+07:00"
+    },
+    {
+      "id": "3b4c9afe14a0a3ae48381c696e783c2e",
+      "title": "Thủ tướng đề nghị Thái Lan đảm bảo cung ứng ổn định nhiên liệu cho hàng không",
+      "link": "https://tuoitre.vn/thu-tuong-de-nghi-thai-lan-dam-bao-cung-ung-on-dinh-nhien-lieu-cho-hang-khong-20260313210025665.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị Thái Lan xem xét tạo thuận lợi để bảo đảm ổn định cung ứng nhiên liệu cho hoạt động hàng không dân dụng tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T23:36:58.316014+07:00",
+      "fetched": "2026-03-13T23:36:58.316183+07:00"
+    },
     {
       "id": "122bbe31fcbcdbc6fff8be06b80e9220",
       "title": "Xuyên đêm đưa nguồn tạng hiến từ TP.HCM ra Hà Nội cứu người",
@@ -453,6 +603,16 @@ window.newsData_2026_03_13 = {
       "fetched": "2026-03-13T17:33:42.490408+07:00"
     },
     {
+      "id": "d3f196c17052f74c63ca16cbedcfbdb0",
+      "title": "ASEAN sẵn sàng hỗ trợ công dân của nhau trong trường hợp khẩn cấp ở Trung Đông",
+      "link": "https://vnexpress.net/asean-san-sang-ho-tro-cong-dan-cua-nhau-trong-truong-hop-khan-cap-o-trung-dong-5050252.html",
+      "summary": "Các Bộ trưởng ASEAN nhất trí tiếp tục phối hợp, hợp tác chặt chẽ và sẵn sàng hỗ trợ công dân của nhau trong trường hợp khẩn cấp, khủng hoảng ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-13T16:16:35+07:00",
+      "fetched": "2026-03-13T23:37:00.369976+07:00"
+    },
+    {
       "id": "8c38474dc5404a3b3369fc1fddca1ec6",
       "title": "TP.HCM vào top điểm đến tuyệt vời với chi phí phải chăng cho khách Mỹ",
       "link": "https://tuoitre.vn/tp-hcm-vao-top-diem-den-tuyet-voi-voi-chi-phi-phai-chang-cho-khach-my-20260313122057013.htm",
@@ -603,6 +763,126 @@ window.newsData_2026_03_13 = {
       "fetched": "2026-03-13T15:36:16.040504+07:00"
     },
     {
+      "id": "7be0d81e0645232c06ef6f48577e305b",
+      "title": "Đỗ Hoàng Hên tiếp tục ghi dấu ấn ở Hà Nội FC",
+      "link": "https://vnexpress.net/do-hoang-hen-tiep-tuc-ghi-dau-an-o-ha-noi-fc-5050255.html",
+      "summary": "Tiền vệ nhập tịch gốc Brazil Đỗ Hoàng Hên góp một kiến tạo giúp Hà Nội FC hạ SLNA 3-0 ở vòng 16, để cán mốc 10 bàn tại V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:25:15+07:00",
+      "fetched": "2026-03-13T23:36:53.450260+07:00"
+    },
+    {
+      "id": "7be0d81e0645232c06ef6f48577e305b",
+      "title": "Đỗ Hoàng Hên tiếp tục ghi dấu ấn ở Hà Nội FC",
+      "link": "https://vnexpress.net/do-hoang-hen-tiep-tuc-ghi-dau-an-o-ha-noi-fc-5050255.html",
+      "summary": "Tiền vệ nhập tịch gốc Brazil Đỗ Hoàng Hên góp một kiến tạo giúp Hà Nội FC hạ SLNA 3-0 ở vòng 16, để cán mốc 10 bàn tại V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T15:25:15+07:00",
+      "fetched": "2026-03-13T23:37:06.404320+07:00"
+    },
+    {
+      "id": "00536bd0031501bf3f98259d806c2186",
+      "title": "Billiards: Ngô Đình Nại thất thủ trước thần đồng Hàn Quốc, bất ngờ lớn ở bán kết",
+      "link": "https://thanhnien.vn/billiards-ngo-dinh-nai-that-thu-truoc-than-dong-han-quoc-bat-ngo-lon-o-ban-ket-185260313222250539.htm",
+      "summary": "Ngô Đình Nại đã không thể nối dài chuỗi trận thắng để giành vé vào bán kết giải billiards carom 3 băng PBA World Championship 2026. Vòng đấu dành cho 4 cái tên xuất sắc nhất giải chứng kiến bất ngờ cực lớn, khi toàn bộ là cơ thủ chủ nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:23:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151035+07:00"
+    },
+    {
+      "id": "3f475429f9e2299784f2fb436e5c8d89",
+      "title": "‘Cậu Huy cố lên!’: Sức mạnh từ fan nhí đặc biệt của số 10 Trường ĐH TDTT Đà Nẵng",
+      "link": "https://thanhnien.vn/cau-huy-co-len-suc-manh-tu-fan-nhi-dac-biet-cua-so-10-truong-dh-tdtt-da-nang-185260313154726702.htm",
+      "summary": "Giữa không khí sôi động của Vòng chung kết giải bóng đá Thanh Niên sinh viên Việt Nam 2026, chiến thắng 2-0 của Trường ĐH TDTT Đà Nẵng không chỉ mang về tấm vé tứ kết mà còn ghi dấu khoảnh khắc đầy cảm xúc. Đó là sự cổ vũ của fan nhí 4 tuổi dành cho cậu mình - tiền đạo Nguyễn Nhật Huy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:20:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151203+07:00"
+    },
+    {
+      "id": "15a4f39cf0d5a94c698de71765d1a215",
+      "title": "Ai chứng nhận 'Di sản gia truyền' cho bài thuốc Hoàng Minh Đường?",
+      "link": "https://thanhnien.vn/ai-chung-nhan-di-san-gia-truyen-cho-bai-thuoc-hoang-minh-duong-185260313181959878.htm",
+      "summary": "Trái ngược với lời cam kết, quảng cáo về bài thuốc 'Thảo dược đắp xương khớp Hoàng Minh Đường' của Công ty TNHH Hoàng Minh Đường chữa khỏi bệnh 100%, điều trị tận gốc bệnh về xương khớp là hậu quả khi nhiều người dân tiền mất tật mang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:16:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151361+07:00"
+    },
+    {
+      "id": "2b1095714f0dd800afc22273082734c5",
+      "title": "Highlight CLB Đà Nẵng 3-3 HAGL: 'Chung kết ngược' quá kịch tính",
+      "link": "https://thanhnien.vn/highlight-clb-da-nang-3-3-hagl-chung-ket-nguoc-qua-kich-tinh-185260313221527372.htm",
+      "summary": "CLB Đà Nẵng và HAGL tạo nên trận cầu nghẹt thở với 6 bàn thắng trong cuộc đối đầu được xem như 'chung kết ngược', khi hai đội rượt đuổi tỷ số kịch tính trước khi khép lại với kết quả hòa 3-3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:15:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151514+07:00"
+    },
+    {
+      "id": "6206409b11bbc510d8642f57bad05fd6",
+      "title": "Highlight CLB Nam Định 1-0 Thanh Hóa: Thắng chật vật",
+      "link": "https://thanhnien.vn/highlight-clb-nam-dinh-1-0-thanh-hoa-thang-chat-vat-185260313221433225.htm",
+      "summary": "CLB Nam Định giành chiến thắng tối thiểu 1-0 trước CLB Thanh Hóa sau trận đấu nhiều khó khăn, qua đó có thêm 3 điểm quan trọng tại V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:14:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151684+07:00"
+    },
+    {
+      "id": "9fcc35b5e472461569d565870c14cf60",
+      "title": "Highlight CLB SLNA 0-3 CLB Hà Nội: Hoàng Hên, Hai Long quá xuất sắc",
+      "link": "https://thanhnien.vn/highlight-clb-slna-0-3-clb-ha-noi-hoang-hen-hai-long-qua-xuat-sac-185260313221344812.htm",
+      "summary": "CLB Hà Nội thắng đậm 3-0 trên sân của CLB SLNA, trong đó Hoàng Hên và Hai Long để lại dấu ấn đậm nét với màn trình diễn nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:13:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151835+07:00"
+    },
+    {
+      "id": "11c186f365c8001987266fdc871eaadf",
+      "title": "Highlight CLB Khánh Hòa 0-2 Trường Tươi Đồng Nai: Dấu ấn Xuân Trường",
+      "link": "https://thanhnien.vn/highlight-clb-khanh-hoa-0-2-truong-tuoi-dong-nai-dau-an-xuan-truong-185260313221247797.htm",
+      "summary": "Lương Xuân Trường để lại dấu ấn trong chiến thắng 2-0 của CLB Trường Tươi Đồng Nai trước CLB Khánh Hòa, góp công giúp đội khách giành 3 điểm quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:12:00+07:00",
+      "fetched": "2026-03-13T23:36:57.151984+07:00"
+    },
+    {
+      "id": "7f8772308d297d028326fd61c3c2e6fc",
+      "title": "Highlight CLB Thanh niên TP.HCM 0-1 ĐH Văn Hiến: Chuyền dài như đặt",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-nien-tphcm-0-1-dh-van-hien-chuyen-dai-nhu-dat-185260313221010799.htm",
+      "summary": "CLB ĐH Văn Hiến giành chiến thắng tối thiểu 1-0 trước CLB Thanh niên TP.HCM sau pha chuyền dài chuẩn xác mở ra bàn thắng quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T15:10:00+07:00",
+      "fetched": "2026-03-13T23:36:57.152140+07:00"
+    },
+    {
+      "id": "ed0b4ce00eca322ac44ecba6491e1087",
+      "title": "TP HCM được xây dựng Luật đô thị đặc biệt",
+      "link": "https://vnexpress.net/tp-hcm-duoc-xay-dung-luat-do-thi-dac-biet-5050244.html",
+      "summary": "Bộ Chính trị đồng ý cho TP HCM xây dựng Luật đô thị đặc biệt, tương tự Luật Thủ đô của Hà Nội, dự kiến trình Quốc hội xem xét vào cuối năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T14:45:08+07:00",
+      "fetched": "2026-03-13T23:36:53.450441+07:00"
+    },
+    {
+      "id": "e3549e64ef85d9103343cf936af32978",
+      "title": "Hơn 65.000 cuộc tấn công mạng nhắm tới người Việt mỗi ngày",
+      "link": "https://thanhnien.vn/hon-65000-cuoc-tan-cong-mang-nham-toi-nguoi-viet-moi-ngay-185260313161922823.htm",
+      "summary": "Dù tỷ lệ tại Việt Nam thấp hơn so với một số quốc gia trong khu vực, việc gần một phần tư người dùng đối mặt với rủi ro bị tấn công mạng vẫn là con số đáng lưu tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T14:41:00+07:00",
+      "fetched": "2026-03-13T23:36:57.152295+07:00"
+    },
+    {
       "id": "9f820ac6c22f52841be890d9f0209c44",
       "title": "Samsung Galaxy S26 Ultra khan hàng, lập kỷ lục về doanh số tại Việt Nam",
       "link": "https://thanhnien.vn/samsung-galaxy-s26-ultra-khan-hang-lap-ky-luc-ve-doanh-so-tai-viet-nam-185260313211801529.htm",
@@ -611,6 +891,36 @@ window.newsData_2026_03_13 = {
       "category": "Tổng hợp",
       "published": "2026-03-13T14:37:00+07:00",
       "fetched": "2026-03-13T21:40:02.547809+07:00"
+    },
+    {
+      "id": "92569a977a22472600f516a52c6265d4",
+      "title": "Samsung Galaxy S26 Ultra lập kỷ lục về doanh số tại Việt Nam",
+      "link": "https://thanhnien.vn/samsung-galaxy-s26-ultra-lap-ky-luc-ve-doanh-so-tai-viet-nam-185260313211801529.htm",
+      "summary": "Trong những ngày đầu mở bán, Samsung Galaxy S26 Ultra ghi nhận doanh số tăng vọt so với bản tiền nhiệm, một số hệ thống bán lẻ ghi nhận tình trạng khan hàng với phiên bản màu trắng và màu tím.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T14:37:00+07:00",
+      "fetched": "2026-03-13T23:36:57.152444+07:00"
+    },
+    {
+      "id": "4d8e237132efb01b443da80d9859395c",
+      "title": "HLV Thanh Hóa: ‘Không mong được thiên vị, chỉ cần V-League công bằng’",
+      "link": "https://vnexpress.net/hlv-thanh-hoa-khong-mong-duoc-thien-vi-chi-can-v-league-cong-bang-5050245.html",
+      "summary": "HLV Mai Xuân Hợp tiếc nuối khi Thanh Hóa không được hưởng phạt đền trong trận thua Nam Định 0-1 ở vòng 16 V-League 2025-2026, tối nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T14:32:06+07:00",
+      "fetched": "2026-03-13T23:36:53.450634+07:00"
+    },
+    {
+      "id": "4d8e237132efb01b443da80d9859395c",
+      "title": "HLV Thanh Hóa: ‘Không mong được thiên vị, chỉ cần V-League công bằng’",
+      "link": "https://vnexpress.net/hlv-thanh-hoa-khong-mong-duoc-thien-vi-chi-can-v-league-cong-bang-5050245.html",
+      "summary": "HLV Mai Xuân Hợp tiếc nuối khi Thanh Hóa không được hưởng phạt đền trong trận thua Nam Định 0-1 ở vòng 16 V-League 2025-2026, tối nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T14:32:06+07:00",
+      "fetched": "2026-03-13T23:37:06.404494+07:00"
     },
     {
       "id": "403d2f79dcd6d560065f33f701c1b4ed",
@@ -641,6 +951,26 @@ window.newsData_2026_03_13 = {
       "category": "Tổng hợp",
       "published": "2026-03-13T14:19:00+07:00",
       "fetched": "2026-03-13T21:40:02.548318+07:00"
+    },
+    {
+      "id": "6b5d85ee101928572fc51767d438fe68",
+      "title": "Cuba đã đối thoại với Mỹ",
+      "link": "https://vnexpress.net/cuba-da-doi-thoai-voi-my-5050233.html",
+      "summary": "Chủ tịch Cuba Miguel Diaz-Canel cho biết giới chức nước này và phía Mỹ gần đây đã thảo luận để giải quyết các khác biệt theo hướng đối thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T14:17:23+07:00",
+      "fetched": "2026-03-13T23:36:53.450800+07:00"
+    },
+    {
+      "id": "6b5d85ee101928572fc51767d438fe68",
+      "title": "Cuba đã đối thoại với Mỹ",
+      "link": "https://vnexpress.net/cuba-da-doi-thoai-voi-my-5050233.html",
+      "summary": "Chủ tịch Cuba Miguel Diaz-Canel cho biết giới chức nước này và phía Mỹ gần đây đã thảo luận để giải quyết các khác biệt theo hướng đối thoại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-13T14:17:23+07:00",
+      "fetched": "2026-03-13T23:37:00.370156+07:00"
     },
     {
       "id": "bce4b7b9d7ce713c7fdaf06257277eba",
@@ -1081,6 +1411,16 @@ window.newsData_2026_03_13 = {
       "category": "Thế giới",
       "published": "2026-03-13T12:45:12+07:00",
       "fetched": "2026-03-13T19:53:07.444681+07:00"
+    },
+    {
+      "id": "c0d18c6c73cd9ee7553c42d05c64eb18",
+      "title": "6 lính Mỹ thiệt mạng trong vụ máy bay tiếp dầu rơi gần Iran",
+      "link": "https://vnexpress.net/6-linh-my-thiet-mang-trong-vu-may-bay-tiep-dau-roi-gan-iran-5050230.html",
+      "summary": "Quân đội Mỹ cho biết vụ máy bay tiếp dầu KC-135 rơi ở miền tây Iraq khiến toàn bộ 6 thành viên tổ bay thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-13T12:45:12+07:00",
+      "fetched": "2026-03-13T23:37:00.370317+07:00"
     },
     {
       "id": "1dd3361fbe74d34d6e889209a53441da",
