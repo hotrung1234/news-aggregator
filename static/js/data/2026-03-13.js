@@ -1,7 +1,157 @@
 window.newsData_2026_03_13 = {
   "date": "2026-03-13",
-  "lastUpdated": "2026-03-13T15:36:23.906444+07:00",
+  "lastUpdated": "2026-03-13T17:33:50.047957+07:00",
   "articles": [
+    {
+      "id": "1b224018ffd2b0b79eb88737571259f5",
+      "title": "Một doanh nghiệp Hà Nội '0 đồng' doanh thu, toàn bộ sếp từ chủ tịch tới CEO nghỉ việc",
+      "link": "https://tuoitre.vn/mot-doanh-nghiep-ha-noi-0-dong-doanh-thu-toan-bo-sep-tu-chu-tich-toi-ceo-nghi-viec-2026031315312433.htm",
+      "summary": "Ông Đoàn Công Dũng - Tổng giám đốc kiêm người đại diện pháp luật của CET - đã nộp đơn đề nghị thôi chức. Cả Chủ tịch HĐQT và Phó chủ tịch cũng được miễn nhiệm thôi chức tại đại hội đồng cổ đông sắp diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.492184+07:00",
+      "fetched": "2026-03-13T17:33:42.492304+07:00"
+    },
+    {
+      "id": "db2e9bba77f8d57728599792f4ccead1",
+      "title": "Đà Nẵng: Từ xã đảo đến vùng miền núi rộn ràng trước thềm 'ngày hội toàn dân'",
+      "link": "https://tuoitre.vn/da-nang-tu-xa-dao-den-vung-mien-nui-ron-rang-truoc-them-ngay-hoi-toan-dan-20260313150511208.htm",
+      "summary": "Những ngày này, không khí hướng tới 'ngày hội toàn dân' rộn ràng khắp TP Đà Nẵng. Từ xã đảo đến các bản làng miền núi, công tác chuẩn bị được triển khai khẩn trương, đồng bộ, sẵn sàng cho ngày bầu cử 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.492050+07:00",
+      "fetched": "2026-03-13T17:33:42.492171+07:00"
+    },
+    {
+      "id": "f6ca8d842bcb6032389087ab25b62e95",
+      "title": "Tỉ giá, lãi suất trong năm 2026 sẽ diễn biến ra sao?",
+      "link": "https://tuoitre.vn/ti-gia-lai-suat-trong-nam-2026-se-dien-bien-ra-sao-20260313153044394.htm",
+      "summary": "Ngân hàng Nhà nước được dự báo sẽ giữ nguyên lãi suất trong bối cảnh tăng trưởng kinh tế duy trì tích cực. Dự báo tỉ giá USD/VND sẽ biến động khoảng 2-3% trong năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491901+07:00",
+      "fetched": "2026-03-13T17:33:42.492037+07:00"
+    },
+    {
+      "id": "71a0a65510586ff67ed4650f46eb5a5f",
+      "title": "16 hồ, ao không được san lấp, xả thải, tự ý cải tạo hay tác động trên địa bàn tỉnh Tây Ninh",
+      "link": "https://tuoitre.vn/16-ho-ao-khong-duoc-san-lap-xa-thai-tu-y-cai-tao-hay-tac-dong-tren-dia-ban-tinh-tay-ninh-20260313150448681.htm",
+      "summary": "Các ao, hồ đều được bảo vệ, quản lý chặt chẽ để thực hiện các chức năng riêng. Từ điều tiết, tích trữ, cấp nước đến phòng ngập úng đô thị, bảo tồn các giá trị văn hóa, các hoạt động liên quan tôn giáo, tín ngưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491775+07:00",
+      "fetched": "2026-03-13T17:33:42.491889+07:00"
+    },
+    {
+      "id": "617934521a3507aa637deffd7a42343b",
+      "title": "Nhiều phường ở TP.HCM triển khai công cụ tra cứu giúp người dân tìm điểm bỏ phiếu chỉ trong vài giây",
+      "link": "https://tuoitre.vn/nhieu-phuong-o-tp-hcm-trien-khai-cong-cu-tra-cuu-giup-nguoi-dan-tim-diem-bo-phieu-chi-trong-vai-giay-20260313152620878.htm",
+      "summary": "Nhiều phường ở TP.HCM triển khai công cụ số giúp cử tri tra cứu khu vực, điểm bỏ phiếu, không còn băn khoăn mình phải đến đâu để thực hiện quyền bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491648+07:00",
+      "fetched": "2026-03-13T17:33:42.491763+07:00"
+    },
+    {
+      "id": "b631b0ca01960d0ee7cf0be2e9e25fb7",
+      "title": "Thủ tướng: Phối hợp chặt chẽ để phóng vệ tinh LOTUSat-1 vào cuối năm 2027",
+      "link": "https://tuoitre.vn/thu-tuong-phoi-hop-chat-che-de-phong-ve-tinh-lotusat-1-vao-cuoi-nam-2027-20260313153341236.htm",
+      "summary": "Thủ tướng Chính phủ nhấn mạnh cần phải phối hợp chặt chẽ để phóng vệ tinh LOTUSat-1 vào cuối năm 2027 và khai thác hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491521+07:00",
+      "fetched": "2026-03-13T17:33:42.491636+07:00"
+    },
+    {
+      "id": "f432792282131206bd83235ec1afe1a0",
+      "title": "Nguyễn Thị Thật giành áo xanh ở chặng quan trọng Giải xe đạp quốc tế TP.HCM",
+      "link": "https://tuoitre.vn/nguyen-thi-that-gianh-ao-xanh-o-chang-quan-trong-giai-xe-dap-quoc-te-tp-hcm-20260313155247697.htm",
+      "summary": "Với việc giữ vững phong độ nước rút, cua rơ Nguyễn Thị Thật đã chiếm được chiếc áo xanh sau chặng 4 Giải xe đạp nữ quốc tế TP.HCM - Biwase Cup 2026 hôm 13-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491381+07:00",
+      "fetched": "2026-03-13T17:33:42.491509+07:00"
+    },
+    {
+      "id": "058547fa9bf86cdf2a1feec992984553",
+      "title": "Báo Malaysia yêu cầu FAM công khai xin lỗi người hâm mộ",
+      "link": "https://tuoitre.vn/bao-malaysia-yeu-cau-fam-cong-khai-xin-loi-nguoi-ham-mo-20260313155450454.htm",
+      "summary": "Báo Malaysia đã đăng một bài báo có tiêu đề “Lời xin lỗi đâu?” hướng đến Liên đoàn Bóng đá Malaysia (FAM). Bài viết yêu cầu FAM phải xin lỗi người hâm mộ về bê bối nhập tịch trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491252+07:00",
+      "fetched": "2026-03-13T17:33:42.491369+07:00"
+    },
+    {
+      "id": "61fd4fa26258847c7128549c545b1597",
+      "title": "Góp vốn mua đất rồi người đàn ông tự ý bán đất chung hơn 1,4 tỉ đồng, chiếm đoạt tiền để trả nợ",
+      "link": "https://tuoitre.vn/gop-von-mua-dat-roi-nguoi-dan-ong-tu-y-ban-dat-chung-hon-1-4-ti-dong-chiem-doat-tien-de-tra-no-20260313154304662.htm",
+      "summary": "Hai người dân góp vốn mua một thửa đất để đầu tư, tuy nhiên người này đã tự ý bán lô đất chung hơn 1,4 tỉ đồng mà không thông báo cho người kia, chiếm đoạt tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.491123+07:00",
+      "fetched": "2026-03-13T17:33:42.491240+07:00"
+    },
+    {
+      "id": "93aac7a37fccba3c1729af49ba403117",
+      "title": "Mệt mỏi với 'tranh phiên vị', Trung Quốc công bố quy tắc mới",
+      "link": "https://tuoitre.vn/met-moi-voi-tranh-phien-vi-trung-quoc-cong-bo-quy-tac-moi-2026031315301686.htm",
+      "summary": "Trước tình trạng 'tranh phiên vị' kéo dài nhiều năm trong ngành phim ảnh Hoa ngữ, cơ quan quản lý Trung Quốc cho biết sẽ công bố quy tắc xếp thứ tự dựa trên số nét trong tên diễn viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490989+07:00",
+      "fetched": "2026-03-13T17:33:42.491110+07:00"
+    },
+    {
+      "id": "da62490f7786816155280f42f1643e44",
+      "title": "Chuyện lạ, đất giáp đường tỉnh nhưng không có lối ra?",
+      "link": "https://tuoitre.vn/chuyen-la-dat-giap-duong-tinh-nhung-khong-co-loi-ra-20260313141935696.htm",
+      "summary": "Ngày 13-3, ông Đỗ Thanh Tuyền (ngụ xã Chợ Mới, tỉnh An Giang) - cho biết đã gửi đơn cầu cứu đến chính quyền tỉnh An Giang, về việc người khác tự ý xây dựng bức tường chắn toàn bộ mặt tiền thửa đất của gia đình giáp đường tỉnh 942.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490836+07:00",
+      "fetched": "2026-03-13T17:33:42.490975+07:00"
+    },
+    {
+      "id": "81a08602f0342d93f757ae495e643d69",
+      "title": "Sà lan chở thùng container vướng dây điện giăng ngang sông trên kênh Chợ Gạo",
+      "link": "https://tuoitre.vn/sa-lan-cho-thung-container-vuong-day-dien-giang-ngang-song-tren-kenh-cho-gao-20260313154228704.htm",
+      "summary": "Phòng Cảnh sát giao thông Công an tỉnh Đồng Tháp đang phối hợp với các đơn vị nghiệp vụ liên quan điều tra nguyên nhân của vụ sà lan chở thùng container vướng vào dây điện, giăng ngang sông trên tuyến kênh Chợ Gạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490705+07:00",
+      "fetched": "2026-03-13T17:33:42.490824+07:00"
+    },
+    {
+      "id": "9b057d8e876b5ba91436ede6f901cc9f",
+      "title": "Rạch Giá: 'siêu phường' đông dân nhất nước trước ngày bầu cử",
+      "link": "https://tuoitre.vn/rach-gia-sieu-phuong-dong-dan-nhat-nuoc-truoc-ngay-bau-cu-20260313152002796.htm",
+      "summary": "Phường Rạch Giá (tỉnh An Giang) có dân số đông nhất nước với hơn 250.600 người sinh sống và làm việc. Siêu phường này đã sẵn sàng cho ngày bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp ngày 15-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490569+07:00",
+      "fetched": "2026-03-13T17:33:42.490692+07:00"
+    },
+    {
+      "id": "2fc53bc394614a0ea08269d7c2270b6b",
+      "title": "Tâm lũ Mỹ Lý ngày trở lại: Đàn gà giống gây dựng cuộc sống no ấm",
+      "link": "https://tuoitre.vn/tam-lu-my-ly-ngay-tro-lai-dan-ga-giong-gay-dung-cuoc-song-no-am-20260313151826637.htm",
+      "summary": "Ngoài nguồn lực tiền mặt hỗ trợ khẩn cấp, bà con vùng bão lũ Nghệ An còn nhận được gà giống, thức ăn chăn nuôi, thuốc thú y…tạo sinh kế, phát triển kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490423+07:00",
+      "fetched": "2026-03-13T17:33:42.490556+07:00"
+    },
+    {
+      "id": "9045c5486a2b1a929397c61966cfb844",
+      "title": "FIFA cần làm việc với AFC để tránh tiền lệ xấu sau vụ Malaysia",
+      "link": "https://tuoitre.vn/fifa-can-lam-viec-voi-afc-de-tranh-tien-le-xau-sau-vu-malaysia-20260313104503614.htm",
+      "summary": "Người hâm mộ Việt Nam cho rằng FIFA cần làm việc với Liên đoàn Bóng đá châu Á (AFC) vì xử lý quá chậm chạp trong vụ bê bối nhập tịch của bóng đá Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T17:33:42.490172+07:00",
+      "fetched": "2026-03-13T17:33:42.490408+07:00"
+    },
     {
       "id": "8c38474dc5404a3b3369fc1fddca1ec6",
       "title": "TP.HCM vào top điểm đến tuyệt vời với chi phí phải chăng cho khách Mỹ",
@@ -453,6 +603,346 @@ window.newsData_2026_03_13 = {
       "fetched": "2026-03-13T11:10:23.654857+07:00"
     },
     {
+      "id": "72a5de326fbca37819fbd0f7e216f779",
+      "title": "Đà Nẵng tạm dừng hoạt động một số loại xe tải trong ngày bầu cử",
+      "link": "https://thanhnien.vn/da-nang-tam-dung-hoat-dong-mot-so-loai-xe-tai-trong-ngay-bau-cu-185260313164554772.htm",
+      "summary": "Sở Xây dựng TP.Đà Nẵng thông báo tạm dừng hoạt động đối với một số loại xe ô tô tải trên địa bàn thành phố trong thời gian diễn ra bầu cử vào ngày 15.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:25:00+07:00",
+      "fetched": "2026-03-13T17:33:41.553849+07:00"
+    },
+    {
+      "id": "232e15635538bce31d68aa6523f82700",
+      "title": "Cảnh sát phá cabin, cứu tài xế mắc kẹt sau tai nạn trên cao tốc",
+      "link": "https://vnexpress.net/canh-sat-pha-cabin-cuu-tai-xe-mac-ket-sau-tai-nan-tren-cao-toc-5050161.html",
+      "summary": "Cảnh sát phải dùng thiết bị thủy lực phá cabin, cứu tài xế đang mắc kẹt sau tai nạn trên đường dẫn ra cao tốc Đà Nẵng - Quảng Ngãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:24:57+07:00",
+      "fetched": "2026-03-13T17:33:38.687379+07:00"
+    },
+    {
+      "id": "868ef7b7d6157183d599b7a93a646eb3",
+      "title": "'Mưa vàng' giải nhiệt cho TP.HCM sau những ngày nắng nóng",
+      "link": "https://thanhnien.vn/mua-vang-giai-nhiet-cho-tphcm-sau-nhung-ngay-nang-nong-185260313170908029.htm",
+      "summary": "Chiều nay (13.3), khu vực trung tâm TP.HCM bất ngờ xuất hiện 'mưa vàng' giải nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:24:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554043+07:00"
+    },
+    {
+      "id": "2d37a60319fd81fc56416069abcf482d",
+      "title": "Cà Mau hoàn tất chuẩn bị bầu cử, hơn 1,87 triệu cử tri sẵn sàng bỏ phiếu",
+      "link": "https://thanhnien.vn/ca-mau-hoan-tat-chuan-bi-bau-cu-hon-187-trieu-cu-tri-san-sang-bo-phieu-185260313153626322.htm",
+      "summary": "Tỉnh Cà Mau đã cơ bản hoàn tất toàn bộ công tác chuẩn bị cho cuộc bầu cử đại biểu Quốc hội khóa XVI và HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:19:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554203+07:00"
+    },
+    {
+      "id": "3f71a8c7c674aad331757048ebf2dac6",
+      "title": "Xổ số miền Nam ngày 13 tháng 3: Lộ diện vé trúng đài Trà Vinh, Bình Dương",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-13-thang-3-lo-dien-ve-trung-dai-tra-vinh-binh-duong-185260313162430424.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 13 tháng 3, nhiều vé trúng đài Trà Vinh lộ diện sớm ở Đồng Tháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:15:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554357+07:00"
+    },
+    {
+      "id": "f2ab6d92cdf2ed2bfc60ef57e41bd619",
+      "title": "Những mẫu MacBook giá rẻ đáng mua nhất đầu năm 2026",
+      "link": "https://thanhnien.vn/nhung-mau-macbook-gia-re-dang-mua-nhat-dau-nam-2026-185260313162323391.htm",
+      "summary": "Năm 2026, tiêu chuẩn chọn laptop đã thay đổi: Không chỉ cần mỏng nhẹ mà phải sở hữu hiệu năng AI mạnh mẽ. Đây là 3 mẫu MacBook giá rẻ đứng đầu xu hướng từ 16,5 triệu, phù hợp sinh viên, dân văn phòng và creator.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:15:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554517+07:00"
+    },
+    {
+      "id": "e0da293ef9ab081af916560d34f28fe5",
+      "title": "VNeTraffic thêm tính năng thông báo GPLX sắp hết hạn",
+      "link": "https://thanhnien.vn/vnetraffic-them-tinh-nang-thong-bao-gplx-sap-het-han-185260313170112509.htm",
+      "summary": "Tính năng thông báo giấy phép lái xe (GPLX) sắp hết hạn vừa được Cục CSGT Bộ Công an tích hợp trên ứng dụng VNeTraffic. Người dùng có tài khoản mức độ 2 sẽ được nhắc trước 30 ngày để làm thủ tục cấp đổi GPLX đúng thời hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:11:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554669+07:00"
+    },
+    {
+      "id": "4700443063f67e2636ba616e3cfbe53e",
+      "title": "Phúc lợi động vật: Chuẩn mực mới của ngành Thú y và cách HUTECH thích ứng hội nhập",
+      "link": "https://thanhnien.vn/phuc-loi-dong-vat-chuan-muc-moi-cua-nganh-thu-y-va-cach-hutech-thich-ung-hoi-nhap-185260313160129467.htm",
+      "summary": "Giữa những tiến bộ công nghệ và chuẩn mực toàn cầu, yếu tố nhân đạo đang trở thành trụ cột mới của ngành Thú y.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:10:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554818+07:00"
+    },
+    {
+      "id": "9259da9fbd506596d0b80d5d3ed01876",
+      "title": "Công an TP.HCM bắt ‘Na Đắc Kỷ’ sau gần 5 năm trốn truy nã",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-na-dac-ky-sau-gan-5-nam-tron-truy-na-18526031316462716.htm",
+      "summary": "Sau gần 5 năm lẩn trốn lệnh truy nã trong vụ hỗn chiến trước quán karaoke, Phạm Thùy Trang Đài, tức 'Na Đắc Kỷ' đã bị Công an TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:07:00+07:00",
+      "fetched": "2026-03-13T17:33:41.554985+07:00"
+    },
+    {
+      "id": "c82539d0c7e73061d728e8977d54aa50",
+      "title": "'Sập bẫy' mang thai hộ, cặp vợ chồng hiếm muộn bị lừa tiền tỉ",
+      "link": "https://thanhnien.vn/sap-bay-mang-thai-ho-cap-vo-chong-hiem-muon-bi-lua-tien-ti-185260313164554257.htm",
+      "summary": "Cặp vợ chồng hiếm muộn nhờ người mang thai hộ với hy vọng có một mụn con để nuôi dưỡng, nhưng không ngờ bị lừa tiền tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:07:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555142+07:00"
+    },
+    {
+      "id": "2e19cea39d70270f01705297ec8ba4e0",
+      "title": "Katy Perry tạm gác công việc, dành thời gian bên cựu Thủ tướng Canada",
+      "link": "https://thanhnien.vn/katy-perry-tam-gac-cong-viec-danh-thoi-gian-ben-cuu-thu-tuong-canada-185260313164519113.htm",
+      "summary": "Sau chuyến lưu diễn quốc tế bận rộn, Katy Perry quyết định tạm gác lại công việc để nghỉ ngơi. Cô dành nhiều thời gian riêng tư bên con gái nhỏ và bạn trai là cựu Thủ tướng Canada Justin Trudeau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:07:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555314+07:00"
+    },
+    {
+      "id": "dca88978286af506cc17504304f44cb2",
+      "title": "Chày kim loại kẹt trong trực tràng: Tuổi dậy thì và tâm lý 'một mình, thử xem sao'",
+      "link": "https://thanhnien.vn/chay-kim-loai-ket-trong-truc-trang-tuoi-day-thi-va-tam-ly-mot-minh-thu-xem-sao-18526031314244077.htm",
+      "summary": "Một thiếu niên 15 tuổi ở Hà Nội phải nhập viện cấp cứu vì chày kim loại kẹt trong trực tràng. Vụ việc gióng lên hồi chuông về khoảng trống giáo dục giới tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:07:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555482+07:00"
+    },
+    {
+      "id": "80a411c932b34296d8d6ef2903c05b39",
+      "title": "Những nhà khoa học ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/nhung-nha-khoa-hoc-ung-cu-dai-bieu-quoc-hoi-5049923.html",
+      "summary": "Nhiều giáo sư, phó giáo sư, chuyên gia công nghệ và lãnh đạo viện nghiên cứu tham gia ứng cử đại biểu Quốc hội khóa 16, mang theo kỳ vọng đưa tri thức khoa học vào quá trình làm luật và hoạch định chính sách quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:38.687567+07:00"
+    },
+    {
+      "id": "7d25a40e38e445e5e13d9e9aa8bc8536",
+      "title": "Tôi sẽ tiếp tục quan tâm em chồng thất lạc dù bố chồng nhận lại hay không",
+      "link": "https://vnexpress.net/con-roi-toi-se-tiep-tuc-quan-tam-em-chong-that-lac-du-bo-chong-nhan-lai-hay-khong-5049919.html",
+      "summary": "Có lẽ ông cũng khó mở lời với người vợ thứ ba nên chưa có động thái gì thêm sau đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:38.687733+07:00"
+    },
+    {
+      "id": "8f8f0cfa6b3946e2c7a3a1867685969c",
+      "title": "Ăn thịt bò sống có bị nhiễm sán?",
+      "link": "https://vnexpress.net/an-thit-bo-song-co-bi-nhiem-san-5049424.html",
+      "summary": "Tôi thích ăn thịt bò sống, thịt bò tái vì mềm, ngọt, không bị khô, nhưng mẹ khuyên nên hạn chế, tránh nguy cơ nhiễm sán, có đúng không?(Hoa, 25 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:38.687894+07:00"
+    },
+    {
+      "id": "41444c54ddf81a2540b18e0ef4e0ca60",
+      "title": "Chơi gì, ở đâu trong hai ngày khám phá Cần Giờ",
+      "link": "https://vnexpress.net/choi-gi-o-dau-trong-hai-ngay-kham-pha-can-gio-5050177.html",
+      "summary": "Du khách có thể dành một ngày khám phá hệ sinh thái ngập mặn - vào đầm dơi, câu cá sấu; rồi ngày thứ hai đến chợ hải sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:38.688079+07:00"
+    },
+    {
+      "id": "a0a68fa1a7beb648014c35ea7a4a15ee",
+      "title": "Các món ăn uống mùa nóng dễ ôi thiu gây ngộ độc",
+      "link": "https://vnexpress.net/cac-mon-an-uong-mua-nong-de-oi-thiu-gay-ngo-doc-5050155.html",
+      "summary": "Nhiệt độ cao khiến thịt, cá, hải sản, sữa tươi, pate dễ nhiễm vi khuẩn e.coli nếu không được bảo quản và chế biến đúng cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:38.688237+07:00"
+    },
+    {
+      "id": "22570eabec5b9d53957ba5f3d1942769",
+      "title": "‘Thoải mái là khi mình có nhau’ - Laurier khuyến khích cởi mở về kỳ kinh nguyệt",
+      "link": "https://thanhnien.vn/thoai-mai-la-khi-minh-co-nhau-laurier-khuyen-khich-coi-mo-ve-ky-kinh-nguyet-185260313161740112.htm",
+      "summary": "Để phụ nữ luôn tự tin là chính mình, Laurier Việt Nam triển khai chiến dịch đặc biệt về kỳ kinh nguyệt, định nghĩa sự thoải mái, an tâm đến từ những quan tâm nhỏ nhưng ý nghĩa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555637+07:00"
+    },
+    {
+      "id": "f8b34830c17a51fba52fce964c9d5c8e",
+      "title": "Toàn cảnh 17h: Đại gia kim cương Chu Đăng Khoa bị bắt | Lãnh đạo tối cao mới của Iran thề trả thù",
+      "link": "https://thanhnien.vn/toan-canh-17h-dai-gia-kim-cuong-chu-dang-khoa-bi-bat-185260313161424223.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555791+07:00"
+    },
+    {
+      "id": "02b278390f114ff910b480a439b75bc8",
+      "title": "Nicole Kidman táo bạo, hé lộ cuộc sống sau ly hôn",
+      "link": "https://thanhnien.vn/nicole-kidman-tao-bao-he-lo-cuoc-song-sau-ly-hon-185260313153003841.htm",
+      "summary": "Nhắc đến năm 2025 vừa qua, Nicole Kidman thừa nhận cô chọn im lặng, sống thu mình. Nhưng 'thiên nga nước Úc' sớm trở lại với dự án điện ảnh mới và cho biết mình vẫn đang cố gắng để bước tiếp sau đổ vỡ hôn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:41.555954+07:00"
+    },
+    {
+      "id": "80a411c932b34296d8d6ef2903c05b39",
+      "title": "Những nhà khoa học ứng cử đại biểu Quốc hội",
+      "link": "https://vnexpress.net/nhung-nha-khoa-hoc-ung-cu-dai-bieu-quoc-hoi-5049923.html",
+      "summary": "Nhiều giáo sư, phó giáo sư, chuyên gia công nghệ và lãnh đạo viện nghiên cứu tham gia ứng cử đại biểu Quốc hội khóa 16, mang theo kỳ vọng đưa tri thức khoa học vào quá trình làm luật và hoạch định chính sách quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-13T10:00:00+07:00",
+      "fetched": "2026-03-13T17:33:48.173778+07:00"
+    },
+    {
+      "id": "7fd387551d00710d754becc4b03d6eb3",
+      "title": "Mỹ - Trung Quốc sắp đàm phán thương mại",
+      "link": "https://vnexpress.net/my-trung-quoc-sap-dam-phan-thuong-mai-5050150.html",
+      "summary": "Vòng đàm phán thương mại thứ 6 giữa hai nền kinh tế lớn nhất thế giới sẽ diễn ra tại Paris (Pháp) từ cuối tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:53:22+07:00",
+      "fetched": "2026-03-13T17:33:38.688391+07:00"
+    },
+    {
+      "id": "7fd387551d00710d754becc4b03d6eb3",
+      "title": "Mỹ - Trung Quốc sắp đàm phán thương mại",
+      "link": "https://vnexpress.net/my-trung-quoc-sap-dam-phan-thuong-mai-5050150.html",
+      "summary": "Vòng đàm phán thương mại thứ 6 giữa hai nền kinh tế lớn nhất thế giới sẽ diễn ra tại Paris (Pháp) từ cuối tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-13T09:53:22+07:00",
+      "fetched": "2026-03-13T17:33:45.392727+07:00"
+    },
+    {
+      "id": "0a353a180e8390c75842a99ce768d798",
+      "title": "'Đại gia kim cương' Chu Đăng Khoa hầu tòa ở Nam Phi",
+      "link": "https://vnexpress.net/dai-gia-kim-cuong-chu-dang-khoa-hau-toa-o-nam-phi-5050141.html",
+      "summary": "Hai công dân Việt Nam gồm \"đại gia kim cương\" Chu Đăng Khoa và Trần Huy Bảo bị bắt giữ tại Nam Phi với cáo buộc liên quan hoạt động buôn bán động vật hoang dã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:52:14+07:00",
+      "fetched": "2026-03-13T17:33:38.688544+07:00"
+    },
+    {
+      "id": "5210e963cfd0f3717454ea15eb249ea9",
+      "title": "TP.HCM đấu giá 8 lô 'đất vàng' Thủ Thiêm trong năm 2026",
+      "link": "https://thanhnien.vn/tphcm-dau-gia-8-lo-dat-vang-thu-thiem-trong-nam-2026-185260313161834931.htm",
+      "summary": "Trong năm 2026, TP.HCM đưa 50 khu đất ra đấu giá quyền sử dụng đất, trong đó có 8 lô 'đất vàng' tại khu đô thị mới Thủ Thiêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:51:00+07:00",
+      "fetched": "2026-03-13T17:33:41.556107+07:00"
+    },
+    {
+      "id": "8ac6caa9eaed9b8c5bbffac0fad6a27d",
+      "title": "Việt kiều Croatia thử sức ở U19 Việt Nam",
+      "link": "https://vnexpress.net/viet-kieu-croatia-thu-suc-o-u19-viet-nam-5050183.html",
+      "summary": "Antonio Moric, mang hai dòng máu Việt Nam và Croatia, lần đầu được triệu tập lên đội tuyển U19, trong đợt tập trung tháng 3",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:46:28+07:00",
+      "fetched": "2026-03-13T17:33:38.688702+07:00"
+    },
+    {
+      "id": "8ac6caa9eaed9b8c5bbffac0fad6a27d",
+      "title": "Việt kiều Croatia thử sức ở U19 Việt Nam",
+      "link": "https://vnexpress.net/viet-kieu-croatia-thu-suc-o-u19-viet-nam-5050183.html",
+      "summary": "Antonio Moric, mang hai dòng máu Việt Nam và Croatia, lần đầu được triệu tập lên đội tuyển U19, trong đợt tập trung tháng 3",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T09:46:28+07:00",
+      "fetched": "2026-03-13T17:33:50.036730+07:00"
+    },
+    {
+      "id": "8d2d713601864d67507678c1c200f2e2",
+      "title": "Tình cảnh của thủy thủ mắc kẹt ở eo biển Hormuz",
+      "link": "https://vnexpress.net/tinh-canh-cua-thuy-thu-mac-ket-o-eo-bien-hormuz-5050066.html",
+      "summary": "Gần 20.000 thủy thủ mắc kẹt trên các tàu hàng ở eo biển Hormuz đang đối mặt với nguy cơ tên lửa rơi trúng và tình trạng cạn kiệt nhu yếu phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:42:38+07:00",
+      "fetched": "2026-03-13T17:33:38.688869+07:00"
+    },
+    {
+      "id": "9b241fb96bd775cba9c9450e5506230a",
+      "title": "Chuyến bay mang những chiếc thùng đặc biệt cứu 7 người ở lằn ranh sinh tử",
+      "link": "https://vnexpress.net/chuyen-bay-mang-nhung-chiec-thung-dac-biet-cuu-7-nguoi-o-lan-ranh-sinh-tu-5050169.html",
+      "summary": "Trên chuyến bay từ TP HCM ra Hà Nội, trong khoang hành khách có những chiếc thùng đặc biệt, đựng trái tim và tạng hiến của một người đã mất chuẩn bị ghép cho nhiều bệnh nhân khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:30:24+07:00",
+      "fetched": "2026-03-13T17:33:38.689046+07:00"
+    },
+    {
+      "id": "45f96145ca722cb5f60ae077f9e048dc",
+      "title": "FPT tích hợp VNeID vào ứng dụng quản lý nhà thông minh",
+      "link": "https://vnexpress.net/fpt-tich-hop-vneid-vao-ung-dung-quan-ly-nha-thong-minh-5050129.html",
+      "summary": "Người dùng hệ sinh thái gia đình của FPT có thể đăng nhập ứng dụng FPT Life bằng định danh điện tử VNeID, giúp tăng cường bảo mật dữ liệu camera, đơn giản hóa thao tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:30:00+07:00",
+      "fetched": "2026-03-13T17:33:38.689207+07:00"
+    },
+    {
+      "id": "a79e7ab71733d7125133d267daa5c74e",
+      "title": "Quy tắc 'muối tách, đường giữ' trong nấu ăn",
+      "link": "https://vnexpress.net/quy-tac-muoi-tach-duong-giu-trong-nau-an-5050168.html",
+      "summary": "Nêm gia vị đúng thời điểm không chỉ giúp món ăn đậm đà mà còn ảnh hưởng đến độ ngon, độ giòn, độ mọng của món ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:27:14+07:00",
+      "fetched": "2026-03-13T17:33:38.689372+07:00"
+    },
+    {
+      "id": "715ae3602227e9d0d90034900eac73a6",
+      "title": "F1 trước nguy cơ 'đẽo cày giữa đường'",
+      "link": "https://vnexpress.net/f1-truoc-nguy-co-deo-cay-giua-duong-5048940.html",
+      "summary": "Những thay đổi lớn trên chiếc xe F1 mùa 2026 đang vấp phải nhiều ý kiến trái chiều, buộc Liên đoàn Đua xe thế giới (FIA) phải tính đến phương án điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:07:07+07:00",
+      "fetched": "2026-03-13T17:33:38.689525+07:00"
+    },
+    {
+      "id": "715ae3602227e9d0d90034900eac73a6",
+      "title": "F1 trước nguy cơ 'đẽo cày giữa đường'",
+      "link": "https://vnexpress.net/f1-truoc-nguy-co-deo-cay-giua-duong-5048940.html",
+      "summary": "Những thay đổi lớn trên chiếc xe F1 mùa 2026 đang vấp phải nhiều ý kiến trái chiều, buộc Liên đoàn Đua xe thế giới (FIA) phải tính đến phương án điều chỉnh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T09:07:07+07:00",
+      "fetched": "2026-03-13T17:33:50.037732+07:00"
+    },
+    {
+      "id": "2d6b5ebe81112a367bce63d508256ef0",
+      "title": "Cú chọc thủng cặp lốp xe Sh của người đàn ông đi Range Rover",
+      "link": "https://vnexpress.net/cu-choc-thung-cap-lop-xe-sh-cua-nguoi-dan-ong-di-range-rover-5050098.html",
+      "summary": "Những kịch bản nào sẽ xảy ra sau cú chọc thủng cặp lốp xe này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-13T09:01:44+07:00",
+      "fetched": "2026-03-13T17:33:38.689676+07:00"
+    },
+    {
       "id": "2389327c12ee2211e1b3226f051a4a9f",
       "title": "Uống rượu bia rồi vẫn lái xe: Phải dừng lại ngay từ trong suy nghĩ",
       "link": "https://tuoitre.vn/uong-ruou-bia-roi-van-lai-xe-phai-dung-lai-ngay-tu-trong-suy-nghi-20260312231716066.htm",
@@ -601,6 +1091,36 @@ window.newsData_2026_03_13 = {
       "category": "Tổng hợp",
       "published": "2026-03-13T08:52:03.524274+07:00",
       "fetched": "2026-03-13T08:52:03.524507+07:00"
+    },
+    {
+      "id": "13237c7fdbc7010ae0199ee8c8560258",
+      "title": "Cổ phiếu Novaland nổi sóng",
+      "link": "https://vnexpress.net/co-phieu-novaland-noi-song-5050136.html",
+      "summary": "Trong phiên chứng khoán tiếp tục điều chỉnh hơn 13 điểm, cổ phiếu Novaland lại tăng hết biên độ, vào top mã giúp nâng đỡ chỉ số chung.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-13T08:49:29+07:00",
+      "fetched": "2026-03-13T17:33:45.392904+07:00"
+    },
+    {
+      "id": "e83e38ef357ea07db800c85fba3bcd2e",
+      "title": "Cáo đỏ vượt 6.000 km, 'đi lậu vé' từ Anh đến Mỹ",
+      "link": "https://vnexpress.net/cao-do-vuot-6-000-km-di-lau-ve-tu-anh-den-my-5049950.html",
+      "summary": "Con cáo đỏ đã lên một tàu hàng từ Southampton, Anh và cập cảng New York hai tuần sau đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-13T08:43:46+07:00",
+      "fetched": "2026-03-13T17:33:43.689098+07:00"
+    },
+    {
+      "id": "a5f7bd0c15adbe650250d0e1665249b4",
+      "title": "Oppo hé lộ Find N6 'không nếp gập', hỗ trợ bút AI",
+      "link": "https://vnexpress.net/oppo-he-lo-find-n6-khong-nep-gap-ho-tro-but-ai-5050112.html",
+      "summary": "Điện thoại gập mới của Oppo là Find N6 có nếp gập gần như không thể thấy bằng mắt thường cùng nâng cấp quan trọng hỗ trợ bút và các tính năng AI theo kèm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-13T08:41:44+07:00",
+      "fetched": "2026-03-13T17:33:48.174464+07:00"
     },
     {
       "id": "15e0f50d63a2d106e51a94ae7fae1680",
@@ -1811,6 +2331,16 @@ window.newsData_2026_03_13 = {
       "category": "Thể thao",
       "published": "2026-03-13T02:38:48+07:00",
       "fetched": "2026-03-13T11:10:31.564181+07:00"
+    },
+    {
+      "id": "a64d281cc9d7758b248a0883af8493e6",
+      "title": "Trang Indonesia: 'FIFA mất uy tín nếu không trừng phạt Mỹ'",
+      "link": "https://vnexpress.net/trang-indonesia-fifa-mat-uy-tin-neu-khong-trung-phat-my-5049943.html",
+      "summary": "CNN Indonesia cho rằng Liên đoàn Bóng đá Thế giới (FIFA) cần trừng phạt Mỹ vì những gì họ đã làm với Iran, như khi Indonesia bị tước quyền đăng cai U20 World Cup 2023.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T02:38:48+07:00",
+      "fetched": "2026-03-13T17:33:50.037415+07:00"
     },
     {
       "id": "605c829fd6e3ed8937cc4d44f2993655",
