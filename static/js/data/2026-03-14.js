@@ -1,7 +1,157 @@
 window.newsData_2026_03_14 = {
   "date": "2026-03-14",
-  "lastUpdated": "2026-03-14T05:25:14.436704+07:00",
+  "lastUpdated": "2026-03-14T08:49:52.438696+07:00",
   "articles": [
+    {
+      "id": "171e22fcf01848c7664f63d4360ce9ee",
+      "title": "Siêu máy tính dự đoán vòng 30 Giải ngoại hạng Anh",
+      "link": "https://tuoitre.vn/sieu-may-tinh-du-doan-vong-30-giai-ngoai-hang-anh-20260314062959928.htm",
+      "summary": "Siêu máy tính của Opta đưa ra dự đoán về các trận đấu thuộc vòng 30 Giải ngoại hạng Anh (Premier League) diễn ra cuối tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087731+07:00",
+      "fetched": "2026-03-14T08:49:43.087847+07:00"
+    },
+    {
+      "id": "e3b52989214e8f1aff214ead5e4fc87a",
+      "title": "Bầu cử Quốc hội và HĐND: Những phiếu bầu cử nào là phiếu không hợp lệ?",
+      "link": "https://tuoitre.vn/bau-cu-quoc-hoi-va-hdnd-nhung-phieu-bau-cu-nao-la-phieu-khong-hop-le-20260313152313506.htm",
+      "summary": "Những phiếu bầu cử không hợp lệ là phiếu không theo mẫu quy định do Tổ bầu cử phát ra, không có dấu của Tổ bầu cử và phiếu để số người được bầu nhiều hơn số lượng đại biểu được bầu đã ấn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087604+07:00",
+      "fetched": "2026-03-14T08:49:43.087719+07:00"
+    },
+    {
+      "id": "8ffc9bcff8cab5cd2a93f1f17638b895",
+      "title": "Hơn 30 đại học quy đổi điểm IELTS, có trường cách biệt hơn 3 điểm",
+      "link": "https://tuoitre.vn/hon-30-dai-hoc-quy-doi-diem-ielts-co-truong-cach-biet-hon-3-diem-20260313163348102.htm",
+      "summary": "Với IELTS 5.0, nhiều trường quy đổi sang điểm môn tiếng Anh thành 7 - 8,5 điểm. Còn Trường đại học Tài chính - Quản trị kinh doanh thành 9,25 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087471+07:00",
+      "fetched": "2026-03-14T08:49:43.087592+07:00"
+    },
+    {
+      "id": "000ec406998fdd1bf92bb3677bc182e9",
+      "title": "Ông Trump lại nói về việc hộ tống tàu dầu qua Hormuz và 'thời gian chiến sự' với Iran",
+      "link": "https://tuoitre.vn/ong-trump-lai-noi-ve-viec-ho-tong-tau-dau-qua-hormuz-va-thoi-gian-chien-su-voi-iran-20260314065747384.htm",
+      "summary": "Ông Trump nói Hải quân Mỹ sẽ sớm triển khai kế hoạch hộ tống các tàu chở dầu qua eo biển Hormuz, vì thời gian chiến sự có thể dài lâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087343+07:00",
+      "fetched": "2026-03-14T08:49:43.087459+07:00"
+    },
+    {
+      "id": "e492aacabefe80681b0adac21fdaf985",
+      "title": "Lễ hội Du lịch Hà Nội 2026 diễn ra tại công viên Thống Nhất từ 13 đến 15-3",
+      "link": "https://tuoitre.vn/le-hoi-du-lich-ha-noi-2026-dien-ra-tai-cong-vien-thong-nhat-tu-13-den-15-3-20260313073448138.htm",
+      "summary": "Sở Du lịch thành phố Hà Nội sẽ tổ chức Lễ hội Du lịch Hà Nội năm 2026 với chủ đề “Hà Nội - Du lịch xanh, trải nghiệm số” từ ngày 13 đến 15-3 tại công viên Thống Nhất, phường Hai Bà Trưng, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087212+07:00",
+      "fetched": "2026-03-14T08:49:43.087332+07:00"
+    },
+    {
+      "id": "6555f6eb85b34446aa1b0c1f7fa3c24f",
+      "title": "Concert Mùa chim én bay của Vũ Thắng Lợi ca ngợi những ‘trái tim Việt Nam’",
+      "link": "https://tuoitre.vn/concert-mua-chim-en-bay-cua-vu-thang-loi-ca-ngoi-nhung-trai-tim-viet-nam-20260314065706371.htm",
+      "summary": "21 tiết mục gói lại những mùa xuân trong lịch sử cách mạng Việt Nam, concert Mùa chim én bay của ca sĩ, NSƯT Vũ Thắng Lợi hát về những ‘trái tim Việt Nam’, giữa thế kỷ 20 vẫn cháy rực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.087075+07:00",
+      "fetched": "2026-03-14T08:49:43.087200+07:00"
+    },
+    {
+      "id": "11eea614d3caa855fa7ecaad325c91cf",
+      "title": "Manhunt International 2026 bất ngờ dời lịch, Trần Tiến Dũng có thêm thời gian ‘tăng tốc’",
+      "link": "https://tuoitre.vn/manhunt-international-2026-bat-ngo-doi-lich-tran-tien-dung-co-them-thoi-gian-tang-toc-20260313232751552.htm",
+      "summary": "Thay vì diễn ra vào tháng 5 tại Sri Lanka như kế hoạch ban đầu, cuộc thi Nam vương Quốc tế Manhunt International 2026 sẽ dời sang tháng 9 năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086946+07:00",
+      "fetched": "2026-03-14T08:49:43.087063+07:00"
+    },
+    {
+      "id": "4539cb71f1d8651537586cd4a5a98bbd",
+      "title": "Nhà thiết kế phục trang ‘Gái già lắm chiêu’ muốn mang lụa Việt đến Paris",
+      "link": "https://tuoitre.vn/nha-thiet-ke-phuc-trang-gai-gia-lam-chieu-muon-mang-lua-viet-den-paris-20260314065121564.htm",
+      "summary": "Sau nhiều năm thiết kế phục trang cho điện ảnh và nghệ sĩ, nhà thiết kế Nguyễn Phúc Tuấn nuôi tham vọng đưa chất liệu lụa truyền thống của Việt Nam đến sàn diễn thời trang Paris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086793+07:00",
+      "fetched": "2026-03-14T08:49:43.086933+07:00"
+    },
+    {
+      "id": "4a5de81ae685841629e439caddc44b7b",
+      "title": "Lo di tích bị trúng bom, UNESCO gửi tọa độ cho các bên để tránh đánh nhầm",
+      "link": "https://tuoitre.vn/lo-di-tich-bi-trung-bom-unesco-gui-toa-do-cho-cac-ben-de-tranh-danh-nham-20260312174651036.htm",
+      "summary": "UNESCO cho biết xung đột Trung Đông đã gây thiệt hại cho ít nhất 4 địa điểm Di sản thế giới tại Iran và kêu gọi các bên kiềm chế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086664+07:00",
+      "fetched": "2026-03-14T08:49:43.086781+07:00"
+    },
+    {
+      "id": "96fc31f25a88c2d8e6da0bb939000e8d",
+      "title": "Đăng nhập không mật khẩu: Tiện lợi tăng, rủi ro cũng tăng",
+      "link": "https://tuoitre.vn/dang-nhap-khong-mat-khau-tien-loi-tang-rui-ro-cung-tang-20260313113551345.htm",
+      "summary": "Từ ngân hàng đến mạng xã hội, nhiều dịch vụ chuyển sang đăng nhập bằng passkey hoặc sinh trắc học. Tiện lợi hơn, nhưng nguy cơ bảo mật cũng xuất hiện theo cách mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086533+07:00",
+      "fetched": "2026-03-14T08:49:43.086649+07:00"
+    },
+    {
+      "id": "48c2d3597dc90e002402e90af2213c81",
+      "title": "Soái ca Mạnh Trường: cảm ơn may mắn của cuộc đời",
+      "link": "https://tuoitre.vn/soai-ca-manh-truong-cam-on-may-man-cua-cuoc-doi-20260314070039701.htm",
+      "summary": "Diễn viên Mạnh Trường khi nói về gia đình và hành trình sự nghiệp nhắc đến hai chữ 'cảm ơn' và 'may mắn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086397+07:00",
+      "fetched": "2026-03-14T08:49:43.086521+07:00"
+    },
+    {
+      "id": "84b0b7896edca468c95e1d0bf28f1f0b",
+      "title": "Bắt nhiều người trong nhóm dàn cảnh cướp giật tài sản tại khu Liên Hoa Bảo Tháp",
+      "link": "https://tuoitre.vn/bat-nhieu-nguoi-trong-nhom-dan-canh-cuop-giat-tai-san-tai-khu-lien-hoa-bao-thap-20260314073645999.htm",
+      "summary": "Ngày 14-3, thông tin từ Công an TP Cần Thơ cho biết Phòng Cảnh sát hình sự vừa bắt giữ nhóm nghi phạm trong vụ dàn cảnh để cướp giật tài sản, xảy ra tại khu Liên Hoa Bảo Tháp (xã An Ninh, TP Cần Thơ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.086258+07:00",
+      "fetched": "2026-03-14T08:49:43.086384+07:00"
+    },
+    {
+      "id": "7fc2244586a60b538bb713c5bef67f28",
+      "title": "Mở lối hội nhập toàn cầu từ mạng lưới đối tác quốc tế",
+      "link": "https://tuoitre.vn/mo-loi-hoi-nhap-toan-cau-tu-mang-luoi-doi-tac-quoc-te-20260312091049256.htm",
+      "summary": "Thông qua mạng lưới đối tác rộng khắp, Trường Đại học Quốc tế Sài Gòn (SIU) hiện thực hóa giấc mơ sở hữu bằng cấp quốc tế và trải nghiệm học tập toàn cầu cho nhiều thế hệ sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:43.085849+07:00",
+      "fetched": "2026-03-14T08:49:43.086243+07:00"
+    },
+    {
+      "id": "4c45303fc0843f4952a870c30c6f3717",
+      "title": "Câu chuyện ứng dụng AI của The Anam",
+      "link": "https://tuoitre.vn/cau-chuyen-ung-dung-ai-cua-the-anam-20260313152702109.htm",
+      "summary": "Từ khâu tư vấn, đặt phòng đến hỗ trợ khách hàng trước và trong kỳ nghỉ, AI góp phần rút ngắn thời gian phản hồi, tối ưu quy trình và nâng cao khả năng cá nhân hóa trải nghiệm. Tại Việt Nam, The Anam G...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:41.008454+07:00",
+      "fetched": "2026-03-14T08:49:43.085818+07:00"
+    },
+    {
+      "id": "6c75094537a5a403200bade6241bde5b",
+      "title": "Dầu tẩy trang Inolab Derma Depure Oil cho làn da người Việt",
+      "link": "https://tuoitre.vn/dau-tay-trang-inolab-derma-depure-oil-cho-lan-da-nguoi-viet-20260313165701185.htm",
+      "summary": "Ứng dụng công nghệ hiện đại, đội ngũ chuyên gia Inolab Derma đã nghiên cứu và phát triển dầu tẩy trang Depure Oil - giải pháp hỗ trợ làm sạch da, phù hợp với đặc điểm khí hậu, làn da, cũng như thói quen chăm sóc da của người Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:49:41.008222+07:00",
+      "fetched": "2026-03-14T08:49:41.008438+07:00"
+    },
     {
       "id": "ead9d8140afeb93a01dfb689947ba9fe",
       "title": "Tiếp tục chi mạnh quỹ bình ổn lên tới 5.000 đồng/lít để giữ nguyên giá xăng dầu",
@@ -11,6 +161,46 @@ window.newsData_2026_03_14 = {
       "category": "Tổng hợp",
       "published": "2026-03-14T03:30:43.896810+07:00",
       "fetched": "2026-03-14T03:30:43.897009+07:00"
+    },
+    {
+      "id": "404365da936f9e8b5c9680fb23da20d7",
+      "title": "Chuyện lạ: Cảnh sát bắt giữ robot hình người ngay trên đường phố",
+      "link": "https://thanhnien.vn/chuyen-la-canh-sat-bat-giu-robot-hinh-nguoi-ngay-tren-duong-pho-185260314075805957.htm",
+      "summary": "Một phụ nữ đã phải nhập viện sau sự cố kỳ lạ với robot hình người, buộc cảnh sát phải can thiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:46:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836163+07:00"
+    },
+    {
+      "id": "304d481da9c7461256a9d9215c31aea0",
+      "title": "Giá vàng hôm nay 14.3.2026: Giảm thêm 2,2 triệu đồng một lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1432026-giam-them-22-trieu-dong-mot-luong-185260314081737083.htm",
+      "summary": "Giá vàng thế giới và trong nước cuối tuần lao dốc mạnh khi lùi về gần 182 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:45:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836335+07:00"
+    },
+    {
+      "id": "af56c6522e56b9ae214a5309e09d3948",
+      "title": "Giá xăng dầu hôm nay 14.3.2026: Thế giới tăng, trong nước đứng yên nhờ xả Quỹ bình ổn",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1432026-the-gioi-tang-trong-nuoc-dung-yen-nho-xa-quy-binh-on-185260314082408643.htm",
+      "summary": "Giá dầu thế giới giữ đà tăng, giao dịch quanh mốc 100 USD/thùng. Xăng dầu trong nước nhờ xả Quỹ bình ổn nên giữ nguyên giá bán lẻ ở kỳ điều hành trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:43:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836494+07:00"
+    },
+    {
+      "id": "88ab45689946ad0fc6e3b4ada75b1010",
+      "title": "Giá USD hôm nay 14.3.2026: Cao kịch trần, còn EUR, bảng Anh giảm sâu",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1432026-cao-kich-tran-con-eur-bang-anh-giam-sau-185260314083441389.htm",
+      "summary": "Các ngân hàng giữ giá USD cao kịch trần, trong khi các ngoại tệ khác như EUR, bảng Anh… lại giảm sâu. Đồng bạc xanh trên thị trường thế giới tăng mạnh khi dòng tiền tìm kiếm kênh trú ẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:40:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836649+07:00"
     },
     {
       "id": "6c48de6e396aaec57965b94547796409",
@@ -163,6 +353,376 @@ window.newsData_2026_03_14 = {
       "fetched": "2026-03-14T01:37:41.102965+07:00"
     },
     {
+      "id": "e2973f745b409ee883e47c3824272576",
+      "title": "Ông Trump: Mục tiêu của Mỹ và Israel ở Iran có thể hơi khác",
+      "link": "https://vnexpress.net/ong-trump-muc-tieu-cua-my-va-israel-o-iran-co-the-hoi-khac-5050293.html",
+      "summary": "Tổng thống Trump cho biết các mục tiêu của Mỹ và Israel trong chiến dịch Iran \"có thể hơi khác nhau\", khi xung đột đã bước sang tuần thứ ba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T01:27:58+07:00",
+      "fetched": "2026-03-14T08:49:44.650175+07:00"
+    },
+    {
+      "id": "6729d119488062a835ed82496c4614ae",
+      "title": "Giá vàng thế giới về sát 5.000 USD, dầu thô tiếp tục tăng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-ve-sat-5-000-usd-dau-tho-tiep-tuc-tang-5050302.html",
+      "summary": "Chốt phiên cuối tuần, mỗi ounce vàng mất 60 USD, trong khi dầu Brent tăng gần 3% lên 103 USD một thùng,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:26:00+07:00",
+      "fetched": "2026-03-14T08:49:36.229217+07:00"
+    },
+    {
+      "id": "d932625456f02f536b0282c4f8aef94e",
+      "title": "Container vướng dây điện rơi xuống kênh Chợ Gạo",
+      "link": "https://vnexpress.net/container-vuong-day-dien-roi-xuong-kenh-cho-gao-5050265.html",
+      "summary": "Một container rỗng rơi xuống kênh Chợ Gạo sau khi sà lan chở hàng vướng dây điện trong lúc di chuyển qua khu vực này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:24:04+07:00",
+      "fetched": "2026-03-14T08:49:36.229412+07:00"
+    },
+    {
+      "id": "f76def501c63069e93f6d76d8a27bf34",
+      "title": "Ông Trump giải thích thói quen mua giày tây tặng cấp dưới",
+      "link": "https://thanhnien.vn/ong-trump-giai-thich-thoi-quen-mua-giay-tay-tang-cap-duoi-185260314081205941.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đề cập việc tặng giày tây cho các thành viên nội các gần đây, giải thích rằng ông muốn các thành viên ăn mặc chỉnh tề, cũng như không thích giày thể thao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:24:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836801+07:00"
+    },
+    {
+      "id": "b8c42729c67e79aa3091b8690e6cb9e0",
+      "title": "Lời chúc ngày Valentine Trắng 14.3 hay, ý nghĩa và ấn tượng năm 2026",
+      "link": "https://thanhnien.vn/loi-chuc-ngay-valentine-trang-143-hay-y-nghia-va-an-tuong-nam-2026-18526031407555448.htm",
+      "summary": "Hôm nay là ngày Valentine Trắng 14.3. Mạng xã hội ngập tràn những lời hay ý đẹp, lời chúc ý nghĩa dành tặng cho nửa kia nhân ngày đặc biệt này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:21:00+07:00",
+      "fetched": "2026-03-14T08:49:39.836973+07:00"
+    },
+    {
+      "id": "54f519d55fc1a5c447cc5fa593115d41",
+      "title": "Đau bụng 5 ngày, đi khám phát hiện xương cá đâm xuyên ruột non",
+      "link": "https://thanhnien.vn/dau-bung-5-ngay-di-kham-phat-hien-xuong-ca-dam-xuyen-ruot-non-185260312111843527.htm",
+      "summary": "Bệnh nhân N.N.T (40 tuổi, ở Vĩnh Long) nhập viện trong tình trạng đau âm ỉ vùng hạ vị suốt 4-5 ngày, cơn đau tăng lên khi di chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:11:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837137+07:00"
+    },
+    {
+      "id": "40b6f6ea64a05e778e06f32c70af6bdd",
+      "title": "Đóng góp GDP của ngành khoa học và công nghệ tăng 35% sau hợp nhất hai Bộ",
+      "link": "https://vnexpress.net/dong-gop-gdp-cua-nganh-khoa-hoc-va-cong-nghe-tang-35-sau-hop-nhat-hai-bo-5050258.html",
+      "summary": "Sau một năm hợp nhất Bộ Khoa học và Công nghệ với Bộ Thông tin và Truyền thông, giá trị đóng góp vào GDP của toàn ngành tăng trưởng 35%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:09:42+07:00",
+      "fetched": "2026-03-14T08:49:36.229587+07:00"
+    },
+    {
+      "id": "40b6f6ea64a05e778e06f32c70af6bdd",
+      "title": "Đóng góp GDP của ngành khoa học và công nghệ tăng 35% sau hợp nhất hai Bộ",
+      "link": "https://vnexpress.net/dong-gop-gdp-cua-nganh-khoa-hoc-va-cong-nghe-tang-35-sau-hop-nhat-hai-bo-5050258.html",
+      "summary": "Sau một năm hợp nhất Bộ Khoa học và Công nghệ với Bộ Thông tin và Truyền thông, giá trị đóng góp vào GDP của toàn ngành tăng trưởng 35%.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-14T01:09:42+07:00",
+      "fetched": "2026-03-14T08:49:50.397631+07:00"
+    },
+    {
+      "id": "faf9304ef82e7147a9332eba61965b71",
+      "title": "Giá heo hơi hôm nay 14.3.2026: Sẽ xuống dưới mốc 60.000 đồng/kg?",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1432026-se-xuong-duoi-moc-60000-dong-kg-185260314071851595.htm",
+      "summary": "Giá heo hơi tăng nhẹ một vài nơi trong khi đó ở miền Nam tiếp tục giảm ở hầu hết các tỉnh thành. Một số chuyên gia và doanh nghiệp dự báo giá heo hơi tiếp tục hạ trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:08:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837287+07:00"
+    },
+    {
+      "id": "050d91e59472bf33a92628403765c7d1",
+      "title": "Lợi ích của dưa chuột với làn da",
+      "link": "https://vnexpress.net/loi-ich-cua-dua-chuot-voi-lan-da-5049291.html",
+      "summary": "Dưa chuột cung cấp vitamin C, chứa khoảng 96% nước, có thể được sử dụng như một biện pháp chăm sóc bổ trợ, kết hợp với chế độ sinh hoạt và chăm sóc da phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.229747+07:00"
+    },
+    {
+      "id": "b265be6b69edc591637f18ca76bac3f0",
+      "title": "Đàn cá koi 'trèo' lên bờ tranh nhau bánh mì",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-koi-treo-len-bo-tranh-nhau-banh-mi-5049037.html",
+      "summary": "Một cảnh tượng hiếm thấy khi đàn cá koi trong hồ bất ngờ lao lên bờ chỉ để giành vài mẩu bánh mì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.229925+07:00"
+    },
+    {
+      "id": "ef35d118a0b6210b96ff254178ba7432",
+      "title": "Bị hen phế quản, lưu ý gì khi giao mùa?",
+      "link": "https://vnexpress.net/bi-hen-phe-quan-luu-y-gi-khi-giao-mua-5050281.html",
+      "summary": "Tôi bị hen phế quản nhiều năm, gần đây thời tiết giao mùa, nồm ẩm khiến tôi thường xuyên ho, thở khò khè và tức ngực hơn. Cần lưu ý gì để hạn chế cơn hen? (Quang Minh, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230086+07:00"
+    },
+    {
+      "id": "40f7eff7e602acaadde831cb71f01312",
+      "title": "Ba sai lầm khi ăn sáng dễ gây hại sức khỏe",
+      "link": "https://vnexpress.net/ba-sai-lam-khi-an-sang-de-gay-hai-suc-khoe-5050276.html",
+      "summary": "Ăn quá ít, thực đơn đơn điệu hoặc thường xuyên ăn sáng muộn có thể làm rối loạn quá trình trao đổi chất, khiến đường huyết dễ dao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230240+07:00"
+    },
+    {
+      "id": "b2b8d5fba3fde1b6dc627113b5c60753",
+      "title": "Điều gì xảy ra khi đeo kính cận sai độ?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-deo-kinh-can-sai-do-5050251.html",
+      "summary": "Tôi bị cận thị, đeo kính từ lâu nhưng chưa đo lại nên kính hiện tại có thể không đúng độ. Đeo kính sai độ có khiến thị lực giảm nhanh? (Hồng Minh, 27 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230392+07:00"
+    },
+    {
+      "id": "345f34e3de98f1404cea0ceab5b1ce0c",
+      "title": "Mỹ phẩm Collagen Vegan Peptide ra mắt tại Việt Nam",
+      "link": "https://vnexpress.net/my-pham-collagen-vegan-peptide-ra-mat-tai-viet-nam-5050232.html",
+      "summary": "Thương hiệu mỹ phẩm Être Belle Cosmetics (Đức) vừa giới thiệu dòng Collagen Vegan Peptide, hướng đến xu hướng làm đẹp tự nhiên, không xâm lấn và chăm sóc da bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230556+07:00"
+    },
+    {
+      "id": "f3002032936a5afd73d4a6558e0ecbea",
+      "title": "Cơ hội gặp các trường top đầu Hà Lan tại Dutch Placement Day 2026",
+      "link": "https://vnexpress.net/co-hoi-gap-cac-truong-top-dau-ha-lan-tai-dutch-placement-day-2026-5050164.html",
+      "summary": "Triển lãm du học Dutch Placement Day 2026 quy tụ đại diện các trường đại học top đầu Hà Lan, diễn ra tại Hà Nội, TP HCM và Đà Nẵng, từ ngày 20 đến 22/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230716+07:00"
+    },
+    {
+      "id": "0101b3004d7c538d42a7d5e908f2376b",
+      "title": "Biệt thự ven sông Centa Riverside mở bán kèm gói hỗ trợ tài chính",
+      "link": "https://vnexpress.net/biet-thu-ven-song-centa-riverside-mo-ban-kem-goi-ho-tro-tai-chinh-5049428.html",
+      "summary": "Dự án Centa Riverside tại VSIP Bắc Ninh mở bán dòng biệt thự ngày 22/3, kèm gói hỗ trợ vay đến 70%, ưu đãi ân hạn gốc và lãi trong 24 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.230890+07:00"
+    },
+    {
+      "id": "57f7d5fdccc77f753559a33f0e362343",
+      "title": "Cách Techcombank giúp người dùng tối ưu lợi ích từ mọi chi tiêu hằng ngày",
+      "link": "https://vnexpress.net/cach-techcombank-giup-nguoi-dung-toi-uu-loi-ich-tu-moi-chi-tieu-hang-ngay-5044946.html",
+      "summary": "Techcombank cho phép người dùng tích lũy U-Point từ các giao dịch hàng ngày và dùng điểm thưởng để đổi voucher hoặc thanh toán trực tiếp cho các giao dịch ăn uống, mua sắm, di chuyển… đáp ứng mọi nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:36.231060+07:00"
+    },
+    {
+      "id": "4259dd1f0d4065703d0d2c653aba84ab",
+      "title": "Chương trình Tư vấn mùa thi 2026 tại tỉnh Quảng Trị (buổi sáng)",
+      "link": "https://thanhnien.vn/chuong-trinh-tu-van-mua-thi-2026-tai-tinh-quang-tri-buoi-sang-185260313161615809.htm",
+      "summary": "Ngày 14.3.2026, Báo Thanh Niên phối hợp với Bộ GD-ĐT, Sở GD-ĐT tỉnh Quảng Trị tổ chức chương trình tư vấn mùa thi tại Trường THPT Đông Hà, số 103 Nguyễn Trãi, Phường Đông Hà - tỉnh Quảng Trị.Chương trình được trực tuyến tại địa chỉ: thanhnien.vn, fanpage Facebook, kênh YouTube, TikTok Báo Thanh Niên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837438+07:00"
+    },
+    {
+      "id": "9a31eb372a08dcd2f0ebb885ae520b51",
+      "title": "Đầm dự tiệc hè, khi gam màu lãng mạn, nhẹ nhàng khiến nàng nổi bật",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-du-tiec-he-khi-gam-mau-lang-man-nhe-nhang-khien-nang-noi-bat-18526031117263198.htm",
+      "summary": "Tạm biệt các thiết kế đầm dự tiệc dài thướt tha của mùa cũ, nàng làm mới tủ đồ hè 2026 bằng những thiết kế midi lãng mạn, nhẹ nhàng nhưng cực kỳ nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837587+07:00"
+    },
+    {
+      "id": "57f7d5fdccc77f753559a33f0e362343",
+      "title": "Cách Techcombank giúp người dùng tối ưu lợi ích từ mọi chi tiêu hằng ngày",
+      "link": "https://vnexpress.net/cach-techcombank-giup-nguoi-dung-toi-uu-loi-ich-tu-moi-chi-tieu-hang-ngay-5044946.html",
+      "summary": "Techcombank cho phép người dùng tích lũy U-Point từ các giao dịch hàng ngày và dùng điểm thưởng để đổi voucher hoặc thanh toán trực tiếp cho các giao dịch ăn uống, mua sắm, di chuyển… đáp ứng mọi nhu cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-14T01:00:00+07:00",
+      "fetched": "2026-03-14T08:49:46.510519+07:00"
+    },
+    {
+      "id": "613d2a3b606244736842dea14b0b118a",
+      "title": "‘Người hùng’ của đội Trường ĐH Nha Trang: ‘Không biết vì sao được vậy luôn!’",
+      "link": "https://thanhnien.vn/nguoi-hung-cua-doi-truong-dh-nha-trang-khong-biet-vi-sao-duoc-vay-luon-185260314074015.htm",
+      "summary": "Bàn thắng quý như vàng của Trương Đặng Trí Thức trong trận hòa 1-1 trước đội Trường ĐH Tôn Đức Thắng chiều 13.3 đã thắp lại hy vọng đi tiếp cho chủ nhà Trường ĐH Nha Trang. Chàng sinh viên năm hai đã có những chia sẻ đầy hồn nhiên về khoảnh khắc tỏa sáng của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:59:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837734+07:00"
+    },
+    {
+      "id": "b6673620a697ba2296eac692bad5a0cb",
+      "title": "Ông Trump nói Mỹ sắp hộ tống tàu ở eo biển Hormuz, Iran ra điều kiện",
+      "link": "https://thanhnien.vn/ong-trump-noi-my-sap-ho-tong-tau-o-eo-bien-hormuz-iran-ra-dieu-kien-185260314071905345.htm",
+      "summary": "Tổng thống Donald Trump cho hay quân đội Mỹ vừa có đòn tấn công mạnh nhằm vào Iran và sắp hộ tống các tàu dầu đi qua eo biển Hormuz, trong bối cảnh giá dầu thô thế giới tăng vọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:57:00+07:00",
+      "fetched": "2026-03-14T08:49:39.837898+07:00"
+    },
+    {
+      "id": "82dffdd6b3f06baf3de4a32192206953",
+      "title": "Mỹ tấn công đảo Kharg, điều thêm quân và tàu chiến tới Trung Đông",
+      "link": "https://thanhnien.vn/my-tan-cong-dao-kharg-dieu-them-quan-va-tau-chien-toi-trung-dong-185260314074959212.htm",
+      "summary": "Mỹ đang điều thêm hàng nghìn binh sĩ thủy quân lục chiến và tàu chiến đến Trung Đông, 2 tuần sau khi Mỹ và Israel bắt đầu chiến dịch quân sự chống lại Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:56:00+07:00",
+      "fetched": "2026-03-14T08:49:39.838050+07:00"
+    },
+    {
+      "id": "6fb55a93e76e1b47f25f7d59303da8b2",
+      "title": "Mỹ treo thưởng 10 triệu USD truy lùng giới lãnh đạo Iran",
+      "link": "https://thanhnien.vn/my-treo-thuong-10-trieu-usd-truy-lung-gioi-lanh-dao-iran-185260314072308175.htm",
+      "summary": "Bộ Ngoại giao Mỹ treo thưởng truy lùng Lãnh tụ tối cao Mojtaba Khamenei, Bộ trưởng Nội vụ Eskandar Momeni, Bộ trưởng Tình báo và An ninh Esmail Khatib và 7 quan chức khác của Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:56:00+07:00",
+      "fetched": "2026-03-14T08:49:39.838197+07:00"
+    },
+    {
+      "id": "d8a48c27210ffbf006541bf50e457416",
+      "title": "5 máy bay tiếp dầu Mỹ 'trúng đòn tập kích tên lửa Iran'",
+      "link": "https://vnexpress.net/5-may-bay-tiep-dau-my-trung-don-tap-kich-ten-lua-iran-5050294.html",
+      "summary": "Đòn tấn công của Iran nhằm vào căn cứ Prince Sultan ở Arab Saudi đã làm hư hại 5 máy bay tiếp dầu, theo quan chức Mỹ giấu tên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:55:03+07:00",
+      "fetched": "2026-03-14T08:49:36.231224+07:00"
+    },
+    {
+      "id": "d8a48c27210ffbf006541bf50e457416",
+      "title": "5 máy bay tiếp dầu Mỹ 'trúng đòn tập kích tên lửa Iran'",
+      "link": "https://vnexpress.net/5-may-bay-tiep-dau-my-trung-don-tap-kich-ten-lua-iran-5050294.html",
+      "summary": "Đòn tấn công của Iran nhằm vào căn cứ Prince Sultan ở Arab Saudi đã làm hư hại 5 máy bay tiếp dầu, theo quan chức Mỹ giấu tên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T00:55:03+07:00",
+      "fetched": "2026-03-14T08:49:44.650352+07:00"
+    },
+    {
+      "id": "5908078ed9054979a13873ce4067dc17",
+      "title": "Bộ GD-ĐT lưu ý điểm mới của kỳ thi tốt nghiệp THPT 2026",
+      "link": "https://thanhnien.vn/bo-gd-dt-luu-y-diem-moi-cua-ky-thi-tot-nghiep-thpt-2026-185260313165923095.htm",
+      "summary": "Tiến sĩ Lê Mỹ Phong, Phó cục trưởng Cục Quản lý chất lượng Bộ GD-ĐT, lưu ý với thí sinh về các điểm mới kỳ thi tốt nghiệp THPT năm 2026, trong đó có thông tin liên quan đến đề thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:52:00+07:00",
+      "fetched": "2026-03-14T08:49:39.838354+07:00"
+    },
+    {
+      "id": "07c33afa4b9cdeb0aec13982ffc0f784",
+      "title": "Nhan sắc mỹ nhân Thái Lan hot nhất Paris Fashion Week",
+      "link": "https://vnexpress.net/nhan-sac-my-nhan-thai-lan-hot-nhat-paris-fashion-week-5050195.html",
+      "summary": "Diễn viên Thái Lan Lingling Kwong - người vượt Lisa (Blackpink) và nhiều sao về sức ảnh hưởng ở Paris Fashion Week - có vẻ đẹp ngọt ngào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:51:38+07:00",
+      "fetched": "2026-03-14T08:49:36.231382+07:00"
+    },
+    {
+      "id": "0a2a3c7cb3edf61db536960066654206",
+      "title": "Mỹ không kích hòn đảo 'huyết mạch dầu mỏ' của Iran",
+      "link": "https://vnexpress.net/my-khong-kich-hon-dao-huyet-mach-dau-mo-cua-iran-5050275.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ đã phá hủy hoàn toàn mọi mục tiêu quân sự trên đảo Kharg, được coi là \"huyết mạch dầu mỏ\" của Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T00:06:18+07:00",
+      "fetched": "2026-03-14T08:49:36.231534+07:00"
+    },
+    {
+      "id": "0a2a3c7cb3edf61db536960066654206",
+      "title": "Mỹ không kích hòn đảo 'huyết mạch dầu mỏ' của Iran",
+      "link": "https://vnexpress.net/my-khong-kich-hon-dao-huyet-mach-dau-mo-cua-iran-5050275.html",
+      "summary": "Tổng thống Trump tuyên bố Mỹ đã phá hủy hoàn toàn mọi mục tiêu quân sự trên đảo Kharg, được coi là \"huyết mạch dầu mỏ\" của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T00:06:18+07:00",
+      "fetched": "2026-03-14T08:49:44.650515+07:00"
+    },
+    {
+      "id": "2f6fa834e3305a021ae96e4e6e09ed7a",
+      "title": "Loạt sự cố hé lộ rủi ro khi Mỹ tham chiến dài ngày ở Trung Đông",
+      "link": "https://vnexpress.net/loat-su-co-he-lo-rui-ro-khi-my-tham-chien-dai-ngay-o-trung-dong-5049977.html",
+      "summary": "Quân đội Mỹ gần đây liên tục gặp sự cố trong chiến dịch tập kích Iran, cho thấy hậu quả từ áp lực với hoạt động quân sự kéo dài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T00:00:00+07:00",
+      "fetched": "2026-03-14T08:49:44.650682+07:00"
+    },
+    {
+      "id": "03ae5fd5609b4fa8eac12f860a69c940",
+      "title": "JBL BandBox - loa di động đầu tiên tích hợp AI tách nhạc",
+      "link": "https://vnexpress.net/jbl-bandbox-loa-di-dong-dau-tien-tich-hop-ai-tach-nhac-5049698.html",
+      "summary": "JBL BandBox trang bị công nghệ Stem AI cho phép tách tiếng nhạc cụ và giọng hát theo thời gian thực không cần kết nối mạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-14T00:00:00+07:00",
+      "fetched": "2026-03-14T08:49:50.398003+07:00"
+    },
+    {
+      "id": "4c574c9acbafec5b2a64a7fb399e70b4",
+      "title": "Thủ môn Mexico 40 tuổi có thể dự World Cup lần thứ sáu",
+      "link": "https://vnexpress.net/thu-mon-mexico-40-tuoi-co-the-du-world-cup-lan-thu-sau-5050268.html",
+      "summary": "Guillermo Ochoa có thể được Mexico triệu tập dự World Cup 2026, sau khi thủ thành số một Angel Malagon chấn thương nghiêm trọng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T23:48:28+07:00",
+      "fetched": "2026-03-14T08:49:52.432652+07:00"
+    },
+    {
+      "id": "80895af8f6c5c2ae27151af2c7ea92f4",
+      "title": "Man Utd được khuyên bổ nhiệm Unai Emery",
+      "link": "https://vnexpress.net/man-utd-duoc-khuyen-bo-nhiem-unai-emery-5050262.html",
+      "summary": "Theo cựu hậu vệ Jamie Carragher, Unai Emery - HLV đương nhiệm của Aston Villa - có đầy đủ năng lực, thành tích và cá tính để đưa Man Utd trở lại đỉnh cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T23:45:09+07:00",
+      "fetched": "2026-03-14T08:49:52.432819+07:00"
+    },
+    {
+      "id": "ed4d0ae8dd74c9cab8f5d1b91b930bd3",
+      "title": "Iraq đối mặt hành trình 12 giờ để dự play-off World Cup",
+      "link": "https://vnexpress.net/iraq-doi-mat-hanh-trinh-12-gio-de-du-play-off-world-cup-5050269.html",
+      "summary": "Tuyển Iraq có thể phải di chuyển đường bộ dài tới 12 giờ qua khu vực chịu ảnh hưởng chiến sự để sang Jordan bắt chuyến bay tới Mexico đá play-off World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T23:41:01+07:00",
+      "fetched": "2026-03-14T08:49:52.433022+07:00"
+    },
+    {
+      "id": "4fd635f22c0f2b60a64f8c08319567ca",
+      "title": "Mourinho bị cấm chỉ đạo hai trận",
+      "link": "https://vnexpress.net/mourinho-bi-cam-chi-dao-hai-tran-5050267.html",
+      "summary": "LĐBĐ Bồ Đào Nha ra hai án phạt riêng biệt, khiến HLV Benfica Jose Mourinho bị treo quyền chỉ đạo ở hai trận đấu kế tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-13T23:35:09+07:00",
+      "fetched": "2026-03-14T08:49:52.433187+07:00"
+    },
+    {
       "id": "60ac37aa9ab4b21051af589ec45d7630",
       "title": "Tử vi ngày 14 tháng 3: Con giáp nào may mắn hôm nay?",
       "link": "https://thanhnien.vn/tu-vi-ngay-14-thang-3-con-giap-nao-may-man-hom-nay-185260314001608702.htm",
@@ -271,6 +831,16 @@ window.newsData_2026_03_14 = {
       "category": "Thế giới",
       "published": "2026-03-13T22:00:00+07:00",
       "fetched": "2026-03-14T05:25:06.903065+07:00"
+    },
+    {
+      "id": "30054451c3576bc78780abac2dd3cdd3",
+      "title": "Túi tiền người Mỹ bắt đầu ngấm đòn xung đột Trung Đông",
+      "link": "https://vnexpress.net/tui-tien-nguoi-my-bat-dau-ngam-don-xung-dot-trung-dong-5050121.html",
+      "summary": "Giá dầu 100 USD mỗi thùng khiến gia đình Mỹ tốn thêm hơn 100 USD tiền xăng mỗi tháng, chưa kể lạm phát có thể tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-13T22:00:00+07:00",
+      "fetched": "2026-03-14T08:49:46.510005+07:00"
     },
     {
       "id": "12566f6f948db6bb6b93df65f2dbbeb0",
