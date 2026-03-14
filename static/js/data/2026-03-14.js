@@ -1,7 +1,97 @@
 window.newsData_2026_03_14 = {
   "date": "2026-03-14",
-  "lastUpdated": "2026-03-14T13:41:45.642235+07:00",
+  "lastUpdated": "2026-03-14T15:32:00.604212+07:00",
   "articles": [
+    {
+      "id": "126294102ad9f7a137f2ac74b99e2772",
+      "title": "Lao động tự do, giáo viên, công nhân được Quảng Ngãi cho thuê nhà ở xã hội",
+      "link": "https://tuoitre.vn/lao-dong-tu-do-giao-vien-cong-nhan-duoc-quang-ngai-cho-thue-nha-o-xa-hoi-20260314123543769.htm",
+      "summary": "Ngày 14-3, UBND tỉnh Quảng Ngãi ban hành quyết định phê duyệt danh sách người đủ điều kiện thuê nhà ở xã hội tại khu đô thị phía Nam cầu Đăk Bla, phường Đăk Bla. Danh sách gồm lao động tự do, giáo viên, công nhân…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.493628+07:00",
+      "fetched": "2026-03-14T15:31:54.493768+07:00"
+    },
+    {
+      "id": "9eba1402b0142b50367f5720beacf1af",
+      "title": "David Beckham sắp bỏ túi khoản tiền khổng lồ nhờ World Cup 2026",
+      "link": "https://tuoitre.vn/david-beckham-sap-bo-tui-khoan-tien-khong-lo-nho-world-cup-2026-20260314122417305.htm",
+      "summary": "Cựu danh thủ David Beckham được cho là sắp bỏ túi khoảng 19 triệu bảng Anh nhờ hàng loạt hợp đồng quảng cáo liên quan đến World Cup 2026. Dù đã giải nghệ nhiều năm, 'thương hiệu Beckham' vẫn được đánh giá là ngày càng có sức hút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.493473+07:00",
+      "fetched": "2026-03-14T15:31:54.493615+07:00"
+    },
+    {
+      "id": "2b2bc2a72d6779e6561ce942944550e2",
+      "title": "FIFA xóa 2 án, CLB Thanh Hóa còn 2 lệnh cấm",
+      "link": "https://tuoitre.vn/fifa-xoa-2-an-clb-thanh-hoa-con-2-lenh-cam-2026031412425798.htm",
+      "summary": "CLB Thanh Hóa đã xử lý nghĩa vụ tài chính với 2 trường hợp họ nợ lương, và FIFA đã xóa 2 lệnh cấm đăng ký cầu thủ mới cho đội bóng ở V-League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.493344+07:00",
+      "fetched": "2026-03-14T15:31:54.493461+07:00"
+    },
+    {
+      "id": "10f7a999d824f63dc5e525af037d0b3f",
+      "title": "Xã phường TP.HCM 'chạy thử' quy trình bầu cử, sẵn sàng trước 'giờ G'",
+      "link": "https://tuoitre.vn/xa-phuong-tp-hcm-chay-thu-quy-trinh-bau-cu-san-sang-truoc-gio-g-20260314124110075.htm",
+      "summary": "Công tác chuẩn bị cho ngày bầu cử (15-3) được rà soát đến giờ chót, nhiều xã phường “chạy thử” công tác bỏ phiếu bầu cử để sẵn sàng đón tiếp cử tri.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.493213+07:00",
+      "fetched": "2026-03-14T15:31:54.493332+07:00"
+    },
+    {
+      "id": "eb22b9be46cb17260b7506071318aea6",
+      "title": "Lữ đoàn 127, Vùng 5 Hải quân bầu cử sớm",
+      "link": "https://tuoitre.vn/lu-doan-127-vung-5-hai-quan-bau-cu-som-20260314125517109.htm",
+      "summary": "Cán bộ, chiến sĩ Lữ đoàn 127, Bộ Tư lệnh Vùng 5 Hải quân vừa tổ chức bầu cử sớm đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp. Sự kiện quan trọng này đơn vị tổ chức nghiêm túc, với 100% cử tri tham gia bỏ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.493078+07:00",
+      "fetched": "2026-03-14T15:31:54.493201+07:00"
+    },
+    {
+      "id": "44113746f7c8e2d5981568be4e873e2a",
+      "title": "Lãi suất thế chấp tăng cao, gây áp lực lên thị trường nhà ở Mỹ",
+      "link": "https://tuoitre.vn/lai-suat-the-chap-tang-cao-gay-ap-luc-len-thi-truong-nha-o-my-20260314131843389.htm",
+      "summary": "Lãi suất thế chấp tại Mỹ đã tăng vọt lên mức cao nhất kể từ tháng 9-2025 vào ngày 13-3, khi lợi suất trái phiếu tăng do cuộc xung đột tại Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.492945+07:00",
+      "fetched": "2026-03-14T15:31:54.493066+07:00"
+    },
+    {
+      "id": "f83215d31f2c66812939794c28c912ad",
+      "title": "Trực tuyến Ninh Bình - Công An Hà Nội (18h): trận cầu 6 điểm",
+      "link": "https://tuoitre.vn/truc-tuyen-ninh-binh-cong-an-ha-noi-18h-tran-cau-6-diem-20260314132543607.htm",
+      "summary": "Trận đấu giữa Ninh Bình với Công An Hà Nội vào chiều nay 14-3 được gọi là \"trận cầu 6 điểm\" vì nó có ý nghĩa quan trọng trong cuộc đua tranh ngôi vô địch V-League mùa này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.492803+07:00",
+      "fetched": "2026-03-14T15:31:54.492932+07:00"
+    },
+    {
+      "id": "c76d1f360eca1ce909270fb1abb11e85",
+      "title": "Doanh nghiệp chi hơn 26 tỉ đồng xây ký túc xá cho sinh viên luật",
+      "link": "https://tuoitre.vn/doanh-nghiep-chi-hon-26-ti-dong-xay-ky-tuc-xa-cho-sinh-vien-luat-202603141330467.htm",
+      "summary": "Một khu ký túc xá mới có sức chứa 500 sinh viên vừa được đưa vào sử dụng tại cơ sở 3 của Trường đại học Luật TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.492654+07:00",
+      "fetched": "2026-03-14T15:31:54.492790+07:00"
+    },
+    {
+      "id": "bb65505dad92dba4efd9209c757352c7",
+      "title": "Gần 500 học sinh TP.HCM tranh tài cờ vua",
+      "link": "https://tuoitre.vn/gan-500-hoc-sinh-tp-hcm-tranh-tai-co-vua-20260314121043514.htm",
+      "summary": "Sáng 14-3, tại Trường quốc tế Việt Nam - Phần Lan đã diễn ra Lễ hội Cờ vua - VFIS Chess Fest lần thứ 3, với gần 500 kỳ thủ từ 5-18 tuổi tại TP.HCM và các tỉnh lân cận tranh tài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T15:31:54.492373+07:00",
+      "fetched": "2026-03-14T15:31:54.492638+07:00"
+    },
     {
       "id": "6263e826f50cb9b3bb6eed0b67d7c5cd",
       "title": "Ném bom: Lịch sử ác mộng của chiến tranh - Kỳ 5: Những thành phố bốc cháy",
@@ -451,6 +541,326 @@ window.newsData_2026_03_14 = {
       "category": "Tổng hợp",
       "published": "2026-03-14T08:49:41.008222+07:00",
       "fetched": "2026-03-14T08:49:41.008438+07:00"
+    },
+    {
+      "id": "86c68297fbeb31840c78b6d58d8c3c13",
+      "title": "HLV Cklamovski nói đội tuyển Malaysia không bị ảnh hưởng dù vắng 7 cầu thủ nhập tịch",
+      "link": "https://thanhnien.vn/hlv-cklamovski-noi-doi-tuyen-malaysia-khong-bi-anh-huong-du-vang-7-cau-thu-nhap-tich-185260314150915011.htm",
+      "summary": "Dù đội tuyển Malaysia mất 7 cầu thủ nhập tịch sau phán quyết của CAS, HLV Peter Cklamovski khẳng định kế hoạch chuẩn bị cho trận gặp đội tuyển Việt Nam tại vòng loại Asian Cup 2027 vẫn không thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:28:00+07:00",
+      "fetched": "2026-03-14T15:31:53.525401+07:00"
+    },
+    {
+      "id": "df36bf9df622905854ad115f5ec73d7d",
+      "title": "Khám phá các hoạt động thú vị bên trong chương trình Tư vấn mùa thi 2026",
+      "link": "https://thanhnien.vn/kham-pha-cac-hoat-dong-thu-vi-ben-trong-chuong-trinh-tu-van-mua-thi-2026-185260314110503922.htm",
+      "summary": "Báo Thanh Niên phối hợp với Bộ GD-ĐT và Sở GD-ĐT tỉnh Quảng Trị tổ chức chương trình Tư vấn mùa thi tại Trường THPT Đông Hà (Quảng Trị).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:28:00+07:00",
+      "fetched": "2026-03-14T15:31:53.525608+07:00"
+    },
+    {
+      "id": "2c1be7fa2f66be1a6b0837a4e738abd9",
+      "title": "Bầu cử Quốc hội: Vùng biên Gia Lai sẵn sàng cho ngày hội lớn",
+      "link": "https://thanhnien.vn/bau-cu-quoc-hoi-vung-bien-gia-lai-san-sang-cho-ngay-hoi-lon-185260314143122833.htm",
+      "summary": "Tại các xã vùng sâu, vùng xa và biên giới tỉnh Gia Lai, không khí chuẩn bị bầu cử đại biểu Quốc hội và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 đang sôi nổi và khẩn trương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:22:00+07:00",
+      "fetched": "2026-03-14T15:31:53.525779+07:00"
+    },
+    {
+      "id": "a4cdd22465bc2fa218e1017fbf769eed",
+      "title": "Khu vườn 'mùa nào thức ấy' xanh mướt trên sân thượng",
+      "link": "https://thanhnien.vn/khu-vuon-mua-nao-thuc-ay-tren-san-thuong-cua-nguoi-phu-nu-hung-yen-185260314143418702.htm",
+      "summary": "Trên sân thượng rộng khoảng 80 m² ở tầng 3, chị Nguyễn Thị Hiếu (36 tuổi, ngụ tại Hưng Yên, trước đây là tỉnh Thái Bình) đã biến khoảng không gian tưởng chừng chỉ để phơi đồ thành một khu vườn xanh mướt với hàng chục loại rau củ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:20:00+07:00",
+      "fetched": "2026-03-14T15:31:53.525938+07:00"
+    },
+    {
+      "id": "c0758f285010c4134e49938e6b2a4745",
+      "title": "Nguồn nhân lực kỹ sư cầu đường đang rất thiếu",
+      "link": "https://thanhnien.vn/nguon-nhan-luc-ky-su-cau-duong-dang-rat-thieu-185260314145257907.htm",
+      "summary": "Tại phiên tư vấn chuyên sâu chương trình Tư vấn mùa thi, các chuyên gia đã giải đáp hàng loạt băn khoăn của học sinh Quảng Trị về thị trường lao động, từ tình trạng thiếu nhân lực ngành xây dựng đến cơ hội cho nữ giới trong khối ngành kỹ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:18:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526104+07:00"
+    },
+    {
+      "id": "aadcbd5c6f99636dfb9c2617b29e9f20",
+      "title": "Mua hai cây vàng qua mạng, người phụ nữ suýt mất hơn 370 triệu đồng",
+      "link": "https://vnexpress.net/mua-hai-cay-vang-qua-mang-nguoi-phu-nu-suyt-mat-hon-370-trieu-dong-5050422.html",
+      "summary": "Người phụ nữ 56 tuổi sau khi chuyển khoản hơn 372 triệu đồng mua hai cây vàng được rao trên mạng xã hội thì bị người bán ngắt liên lạc, trong khi hàng chưa nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:16:41+07:00",
+      "fetched": "2026-03-14T15:31:50.981615+07:00"
+    },
+    {
+      "id": "d0b54a5ec8f18a6e283f0c9e04edf87e",
+      "title": "Chồng khô khan nhưng luôn cho tôi sự bình yên",
+      "link": "https://vnexpress.net/chong-kho-khan-nhung-luon-cho-toi-su-binh-yen-5049734.html",
+      "summary": "Nhiều khi tôi tự nghĩ, chắc mình phải tu nhiều kiếp mới có được người chồng như anh bây giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.981799+07:00"
+    },
+    {
+      "id": "46eca138fa6e67bf64a73187c2ce661a",
+      "title": "Nhà mạng phải ứng trực 24/24 ngày bầu cử",
+      "link": "https://vnexpress.net/nha-mang-phai-ung-truc-24-24-ngay-bau-cu-5050266.html",
+      "summary": "Doanh nghiệp viễn thông được yêu cầu duy trì chế độ trực lãnh đạo, trực ban và trực ứng cứu thông tin trong thời gian bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.981973+07:00"
+    },
+    {
+      "id": "f1e9ce12004e80a76a828e31e3223f6f",
+      "title": "M.Homes Holdings vận hành khu thiết chế Công đoàn Hà Nam",
+      "link": "https://vnexpress.net/m-homes-holdings-van-hanh-khu-thiet-che-cong-doan-ha-nam-5050435.html",
+      "summary": "M.Homes Holdings hợp tác Ban quản lý dự án Công đoàn thuộc Tổng liên đoàn Lao động Việt Nam cung cấp dịch vụ quản lý, vận hành khu thiết chế Công đoàn Hà Nam nhằm nâng cao chất lượng dịch vụ, môi trường sống cho công nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.982144+07:00"
+    },
+    {
+      "id": "1969eb356531f20bb25cc28cd574d847",
+      "title": "Phát hiện ung thư dương vật từ nốt sùi nhỏ",
+      "link": "https://vnexpress.net/phat-hien-ung-thu-duong-vat-tu-not-sui-nho-5050349.html",
+      "summary": "Ông Toàn, 65 tuổi, có nốt sùi nhỏ ở quy đầu, hoại tử sau vài tháng, bác sĩ chẩn đoán ung thư dương vật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.982316+07:00"
+    },
+    {
+      "id": "07740c6f810aaa1384c294fd0d5312b0",
+      "title": "Những bệnh lý có thể khiến bạn mất cảm giác đói",
+      "link": "https://vnexpress.net/nhung-benh-ly-co-the-khien-ban-mat-cam-giac-doi-5050319.html",
+      "summary": "Căng thẳng, rối loạn tiêu hóa thường ảnh hưởng đến cảm giác thèm ăn song đây cũng có thể là dấu hiệu của một số bệnh như suy giáp, trầm cảm, ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.982476+07:00"
+    },
+    {
+      "id": "1808b123ae05402cc3da6b0cdb0e4665",
+      "title": "7 dấu hiệu bệnh động mạch vành dễ bỏ qua",
+      "link": "https://vnexpress.net/7-dau-hieu-benh-dong-mach-vanh-de-bo-qua-5050042.html",
+      "summary": "Chóng mặt, buồn nôn, đau cơ, khó tiêu, đổ mồ hôi nhiều, tay chân lạnh là những dấu hiệu cảnh báo bệnh động mạch vành, dễ nhầm với thiếu chất, mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.982651+07:00"
+    },
+    {
+      "id": "5c4e571bbc204dfc0e051eca9faa0516",
+      "title": "Công an phường Đông Hà 'vượt nắng thắng mưa' đảm bảo nhiệm vụ kép",
+      "link": "https://thanhnien.vn/cong-an-phuong-dong-ha-vuot-nang-thang-mua-dam-bao-nhiem-vu-kep-185260314141833066.htm",
+      "summary": "Giữa thời điểm địa phương diễn ra cùng lúc các sự kiện quan trọng, dù thời tiết tại chuyển biến từ mưa sang nắng gắt, lực lượng cán bộ chiến sĩ Công an phường Đông Hà (Quảng Trị) vẫn bám trụ hiện trường để đảm bảo an ninh tuyệt đối cho chương trình Tư vấn mùa thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526274+07:00"
+    },
+    {
+      "id": "d543e733c095f7eaf82be151393173e6",
+      "title": "Vì sao khối ngành kinh tế, quản lý, luật 'hút' thí sinh?",
+      "link": "https://thanhnien.vn/vi-sao-khoi-nganh-kinh-te-quan-ly-luat-hut-thi-sinh-185260313225808049.htm",
+      "summary": "Không chỉ là khối ngành có nhiều thí sinh trúng tuyển, kinh tế - quản lý còn được đào tạo ở nhiều trường, với chỉ tiêu chiếm số lượng lớn ở hầu hết các trường. Ngoài ra, lĩnh vực pháp luật cũng được mở rộng đào tạo ở nhiều trường ĐH. Vì sao khối ngành này được đào tạo rộng rãi ở các trường ĐH?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526430+07:00"
+    },
+    {
+      "id": "46eca138fa6e67bf64a73187c2ce661a",
+      "title": "Nhà mạng phải ứng trực 24/24 ngày bầu cử",
+      "link": "https://vnexpress.net/nha-mang-phai-ung-truc-24-24-ngay-bau-cu-5050266.html",
+      "summary": "Doanh nghiệp viễn thông được yêu cầu duy trì chế độ trực lãnh đạo, trực ban và trực ứng cứu thông tin trong thời gian bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-14T08:00:00+07:00",
+      "fetched": "2026-03-14T15:31:59.725453+07:00"
+    },
+    {
+      "id": "6f2abd26c604f8505f2c5a7bbc3891ce",
+      "title": "Thế hệ đẳng cấp của U.23 Việt Nam lộ diện: Khuấy đảo giải giao hữu Trung Quốc?",
+      "link": "https://thanhnien.vn/the-he-dang-cap-cua-u23-viet-nam-lo-dien-khuay-dao-giai-giao-huu-trung-quoc-185260314134053533.htm",
+      "summary": "Sau thành công tại giải U.23 châu Á 2026 với tấm HCĐ, bóng đá trẻ nước nhà sẽ chào đón thế hệ U.23 Việt Nam mới mẻ với tiềm năng và thể hình không kém thế hệ đàn anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:57:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526604+07:00"
+    },
+    {
+      "id": "2b698f696497be4febf29ed6f254ccdf",
+      "title": "Thời tiết tháng 3 nóng hơn, dự báo nắng nóng gay gắt đến sớm",
+      "link": "https://thanhnien.vn/thoi-tiet-thang-3-nong-hon-du-bao-nang-nong-gay-gat-den-som-185260314141039772.htm",
+      "summary": "Dự báo thời tiết tháng 3 năm nay mưa ít, trời nóng hơn so với trung bình nhiều năm. Đặc biệt, nắng nóng năm nay được nhận định sẽ xảy ra nhiều hơn, gay gắt hơn so với năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:55:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526761+07:00"
+    },
+    {
+      "id": "bcfb7cefa436c47ee4cb230b40c01101",
+      "title": "Báo Malaysia bất ngờ nhắc đến VFF, lộ diện ngày đội tuyển Việt Nam công bố danh sách và hội quân",
+      "link": "https://thanhnien.vn/bao-malaysia-bat-ngo-nhac-den-vff-lo-dien-ngay-doi-tuyen-viet-nam-cong-bo-danh-sach-va-hoi-quan-185260314142921721.htm",
+      "summary": "Báo New Straits Times của Malaysia cho rằng Liên đoàn Bóng đá Việt Nam (VFF) có thể đưa vụ việc liên quan 7 cầu thủ nhập tịch của Malaysia lên FIFA nếu phán quyết của AFC bị xem là thiếu công bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:53:00+07:00",
+      "fetched": "2026-03-14T15:31:53.526917+07:00"
+    },
+    {
+      "id": "4e71d46fa176fe9bf762c59d0c1c7c2a",
+      "title": "Váy áo tôn eo con kiến của Hoa hậu Thanh Thủy",
+      "link": "https://vnexpress.net/vay-ao-ton-eo-con-kien-cua-hoa-hau-thanh-thuy-5050365.html",
+      "summary": "Hoa hậu Thanh Thủy thường mặc áo ngắn tôn eo 63 cm theo phong cách năng động, pha hơi thở Y2K.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:50:52+07:00",
+      "fetched": "2026-03-14T15:31:50.982824+07:00"
+    },
+    {
+      "id": "e28e598efcccf0987bee8802d5f6ed2f",
+      "title": "Cử tri Bạch Long Vỹ bỏ phiếu sớm",
+      "link": "https://vnexpress.net/cu-tri-bach-long-vy-bo-phieu-som-5050421.html",
+      "summary": "Đã có 94.5% cử tri tại đặc khu Bạch Long Vỹ đã hoàn thành việc bầu cử đại biểu HĐND TP Hải Phòng và Đại biểu Quốc hội, số còn lại đang làm nhiệm vụ trên biển sẽ bỏ phiếu vào chiều nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:34:21+07:00",
+      "fetched": "2026-03-14T15:31:50.982995+07:00"
+    },
+    {
+      "id": "8fbc95f1e32d4e649d09a0037e13819b",
+      "title": "Trường ĐH Công nghệ Đồng Nai 0-0 Trường ĐH Thủy lợi: 'Chung kết sớm' rực lửa",
+      "link": "https://thanhnien.vn/truong-dh-cong-nghe-dong-nai-0-0-truong-dh-thuy-loi-chung-ket-som-ruc-lua-18526031410112275.htm",
+      "summary": "Trường ĐH Công nghệ Đồng Nai đối đầu Trường ĐH Thủy lợi ở trận hạ màn bảng B TNSV THACO cup 2026 lúc 15 giờ 45 hôm nay (14.3), với mục tiêu duy nhất: giành ngôi đầu bảng để có nhánh đấu thuận lợi tại tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:34:00+07:00",
+      "fetched": "2026-03-14T15:31:53.527076+07:00"
+    },
+    {
+      "id": "8962435ca47d2f77f9c026471cb9d84b",
+      "title": "UOB: Kinh tế Việt Nam vẫn có tiềm năng tăng trưởng tích cực",
+      "link": "https://vnexpress.net/uob-kinh-te-viet-nam-van-co-tiem-nang-tang-truong-tich-cuc-5050436.html",
+      "summary": "Chuyên gia UOB duy trì dự báo tích cực về kinh tế Việt Nam với GDP năm 2026 dự kiến đạt 7,5%, sản xuất và xuất khẩu giữ vai trò động lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:30:00+07:00",
+      "fetched": "2026-03-14T15:31:50.983152+07:00"
+    },
+    {
+      "id": "5cc0e7190c9ba6aa8881e5670a4ee206",
+      "title": "FAM sẽ họp báo ngay thời điểm AFC tuyên án phạt đội tuyển Malaysia: Có thể đầu tuần sau",
+      "link": "https://thanhnien.vn/fam-se-hop-bao-ngay-thoi-diem-afc-cong-bo-an-phat-doi-tuyen-malaysia-co-the-dau-tuan-sau-185260314141905799.htm",
+      "summary": "Theo nhà báo Zulhelmi Zainal Azam của kênh Astro Arena, Liên đoàn Bóng đá Malaysia (FAM) sẽ tổ chức cuộc họp báo quan trọng vào ngày 16.3, liên quan khả năng bị AFC cấm vận và đội tuyển Malaysia bị xử thua tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:30:00+07:00",
+      "fetched": "2026-03-14T15:31:53.527231+07:00"
+    },
+    {
+      "id": "e76e82c830daee29ee514c4fcc6248eb",
+      "title": "Hàng ngàn việc làm từ 12-15 triệu đồng/tháng đang chờ ứng viên",
+      "link": "https://thanhnien.vn/hang-ngan-viec-lam-tu-12-15-trieu-dong-thang-dang-cho-ung-vien-18526031413572688.htm",
+      "summary": "Nhiều nhà tuyển dụng cho biết sẵn sàng trả mức lương hấp dẫn cho các vị trí việc làm. Thậm chí, có nhân sự đạt thu nhập lên tới 60 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:28:00+07:00",
+      "fetched": "2026-03-14T15:31:53.527383+07:00"
+    },
+    {
+      "id": "edaddabac7235d7f6efbfedd5a086322",
+      "title": "Giá bắp, ớt, mít... giảm mạnh",
+      "link": "https://thanhnien.vn/gia-bap-ot-mit-giam-manh-185260314133702964.htm",
+      "summary": "Nhiều loại nông sản ở Đồng Tháp đang gặp khó khăn đầu ra nên giá giảm mạnh, một số nhà vườn trên địa bàn tỉnh đang đứng trước nguy cơ thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:25:00+07:00",
+      "fetched": "2026-03-14T15:31:53.527552+07:00"
+    },
+    {
+      "id": "e1154ec4cdc7b55cc8df29992cb013a9",
+      "title": "Tạm giữ nhóm mang dao tự chế đi chém người ở Đồng Tháp",
+      "link": "https://thanhnien.vn/tam-giu-nhom-thanh-thieu-nien-mang-dao-tu-che-di-chem-nguoi-o-dong-thap-185260314125841825.htm",
+      "summary": "Công an tỉnh Đồng Tháp đang tạm giữ 5 đối tượng để điều tra về hành vi mang dao tự chế đi chém người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:25:00+07:00",
+      "fetched": "2026-03-14T15:31:53.527711+07:00"
+    },
+    {
+      "id": "e167f38ece776ee2b1570a22460759a1",
+      "title": "Thường xuyên bị nhầm là con vì kém vợ 23 tuổi",
+      "link": "https://vnexpress.net/thuong-xuyen-bi-nham-la-con-vi-kem-vo-23-tuoi-5050133.html",
+      "summary": "Bất chấp khoảng cách 23 tuổi và hay bị nhầm là mẹ con, cặp đôi Azmirullah (28 tuổi) và Wan Nazihah (51 tuổi) vẫn có cuộc sống viên mãn sau gần 7 năm kết hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:24:33+07:00",
+      "fetched": "2026-03-14T15:31:50.983312+07:00"
+    },
+    {
+      "id": "abdf7e7b6a1fdcb47da0fbd0c64681c3",
+      "title": "'Gen Z không đáng bị chê bai vì uống ly matcha 160 K'",
+      "link": "https://vnexpress.net/gen-z-khong-dang-bi-che-bai-vi-uong-ly-matcha-160-k-5050430.html",
+      "summary": "Nếu chỉ nhìn cách Gen Z tiêu tiền rồi quy kết rằng họ hoang phí, không biết tiết kiệm, thì có lẽ quá phiến diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:12:28+07:00",
+      "fetched": "2026-03-14T15:31:50.983487+07:00"
+    },
+    {
+      "id": "f87e5bc8c70c0ebe3156410203ec50d0",
+      "title": "Triều Tiên phóng loạt tên lửa đạn đạo ra biển",
+      "link": "https://vnexpress.net/trieu-tien-phong-loat-ten-lua-dan-dao-ra-bien-5050403.html",
+      "summary": "Hàn Quốc cho biết Triều Tiên đã phóng khoảng 10 tên lửa đạn đạo ra vùng biển phía đông bán đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:00:53+07:00",
+      "fetched": "2026-03-14T15:31:50.983670+07:00"
+    },
+    {
+      "id": "f87e5bc8c70c0ebe3156410203ec50d0",
+      "title": "Triều Tiên phóng loạt tên lửa đạn đạo ra biển",
+      "link": "https://vnexpress.net/trieu-tien-phong-loat-ten-lua-dan-dao-ra-bien-5050403.html",
+      "summary": "Hàn Quốc cho biết Triều Tiên đã phóng khoảng 10 tên lửa đạn đạo ra vùng biển phía đông bán đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-14T07:00:53+07:00",
+      "fetched": "2026-03-14T15:31:55.552452+07:00"
+    },
+    {
+      "id": "7fe1ae171c45773090a9a413260b25eb",
+      "title": "Trong 9 con bò, đâu là 'kẻ lạ mặt'?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-trong-9-con-bo-dau-la-ke-la-mat-5048777.html",
+      "summary": "Đâu đó trong số đó, có một \"nhân vật đặc biệt\" đang chờ bạn phát hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.983830+07:00"
+    },
+    {
+      "id": "d8210c1a855a49c5e63078f6df59c844",
+      "title": "Gặp vấn đề sức khỏe khi cưu mang chó đi lạc",
+      "link": "https://vnexpress.net/gap-van-de-suc-khoe-khi-cuu-mang-cho-di-lac-5050404.html",
+      "summary": "Thảo Linh (26 tuổi, Tây Ninh) cưu mang nhiều chú chó đi lạc, vô tình bị cắn vào tay, phải tiêm ngừa và điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-14T07:00:00+07:00",
+      "fetched": "2026-03-14T15:31:50.983991+07:00"
     },
     {
       "id": "daef0f9b1a8b8d45881faf7e51bd3094",
