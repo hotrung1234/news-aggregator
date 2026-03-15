@@ -1,7 +1,17 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T12:26:21.770664+07:00",
+  "lastUpdated": "2026-03-15T13:53:18.465224+07:00",
   "articles": [
+    {
+      "id": "05e5568b674ffa9a8aaa9d3c145306b9",
+      "title": "Trường Thiếu sinh quân miền Trung dự kiến có 5 khoa, tuyển sinh 1.000 học viên",
+      "link": "https://tuoitre.vn/truong-thieu-sinh-quan-mien-trung-du-kien-co-5-khoa-tuyen-sinh-1-000-hoc-vien-20260315113707604.htm",
+      "summary": "Sáng 15-3, tại Sở Chỉ huy Quân khu 5, Trung tướng Lê Ngọc Hải - Ủy viên Trung ương Đảng, Tư lệnh Quân khu 5, đã chủ trì hội nghị thông qua quy hoạch xây dựng doanh trại Trường Thiếu sinh quân miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T13:53:10.414616+07:00",
+      "fetched": "2026-03-15T13:53:10.414812+07:00"
+    },
     {
       "id": "bdbc0ea11e25518cf2253c5b282e28c7",
       "title": "Ngày hội bầu cử ở Cần Giờ cũ: Nhiều lần đi bầu, lần nào cũng xúc động",
@@ -301,6 +311,206 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T09:06:22.864803+07:00",
       "fetched": "2026-03-15T09:06:22.865026+07:00"
+    },
+    {
+      "id": "c6f1dfbc87eb0351c61ee15e1ecc98ed",
+      "title": "Quyền Linh, Phương Mỹ Chi… cùng dàn sao Việt háo hức đi bầu cử",
+      "link": "https://thanhnien.vn/quyen-linh-phuong-my-chi-cung-dan-sao-viet-hao-huc-di-bau-cu-185260315130058401.htm",
+      "summary": "Từ sáng sớm, nhiều văn nghệ sĩ đã đến các điểm bỏ phiếu để tham gia bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:19:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464094+07:00"
+    },
+    {
+      "id": "c44f8b12a9075f09774a8c8d36f294d3",
+      "title": "Henry khoe hình thể săn chắc ở tuổi 48",
+      "link": "https://vnexpress.net/henry-khoe-hinh-the-san-chac-o-tuoi-48-5050506.html",
+      "summary": "Cựu tiền đạo vô địch World Cup 1998, Thierry Henry tiết lộ ba bí quyết giúp anh duy trì hình thể săn chắc hơn thời còn thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:08:29+07:00",
+      "fetched": "2026-03-15T13:53:06.240160+07:00"
+    },
+    {
+      "id": "c44f8b12a9075f09774a8c8d36f294d3",
+      "title": "Henry khoe hình thể săn chắc ở tuổi 48",
+      "link": "https://vnexpress.net/henry-khoe-hinh-the-san-chac-o-tuoi-48-5050506.html",
+      "summary": "Cựu tiền đạo vô địch World Cup 1998, Thierry Henry tiết lộ ba bí quyết giúp anh duy trì hình thể săn chắc hơn thời còn thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T06:08:29+07:00",
+      "fetched": "2026-03-15T13:53:18.458034+07:00"
+    },
+    {
+      "id": "1eaaec4b17b73819fa1cbbbed5642de3",
+      "title": "HLV Tudor phân bua việc ngó lơ thủ môn Tottenham",
+      "link": "https://vnexpress.net/hlv-tudor-phan-bua-viec-ngo-lo-thu-mon-tottenham-5050604.html",
+      "summary": "HLV Igor Tudor không đến an ủi thủ môn Antonin Kinsky sau khi thay ra ở trận thua Atletico 2-5 tại Champions League, vì lo ngại điều đó có thể khiến tình huống trở nên nhạy cảm hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:07:30+07:00",
+      "fetched": "2026-03-15T13:53:06.240349+07:00"
+    },
+    {
+      "id": "1eaaec4b17b73819fa1cbbbed5642de3",
+      "title": "HLV Tudor phân bua việc ngó lơ thủ môn Tottenham",
+      "link": "https://vnexpress.net/hlv-tudor-phan-bua-viec-ngo-lo-thu-mon-tottenham-5050604.html",
+      "summary": "HLV Igor Tudor không đến an ủi thủ môn Antonin Kinsky sau khi thay ra ở trận thua Atletico 2-5 tại Champions League, vì lo ngại điều đó có thể khiến tình huống trở nên nhạy cảm hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T06:07:30+07:00",
+      "fetched": "2026-03-15T13:53:18.458201+07:00"
+    },
+    {
+      "id": "54d86c0f174d9cbfbf0b94d8cd5a77fb",
+      "title": "12 đội bóng dự giải Thanh Niên sinh viên Việt Nam 2026 nô nức đi bầu cử",
+      "link": "https://thanhnien.vn/12-doi-bong-du-giai-thanh-nien-sinh-vien-viet-nam-2026-no-nuc-di-bau-cu-185260315124344041.htm",
+      "summary": "Sáng ngày 15.3, hòa chung không khí ngày hội toàn dân, các cầu thủ và ban huấn luyện của 12 đội bóng tham dự Vòng chung kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 đã thực hiện quyền công dân tại điểm bỏ phiếu số 1, phường Bắc Nha Trang, tỉnh Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:03:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464262+07:00"
+    },
+    {
+      "id": "4b196967c6eac5fd6fea071ee0363e85",
+      "title": "Tài tử Hollywood tái hiện điệu nhảy của Alysa Liu",
+      "link": "https://vnexpress.net/tai-tu-hollywood-tai-hien-dieu-nhay-cua-alysa-liu-5050600.html",
+      "summary": "Diễn viên chính trong một phim Marvel, Simu Liu cùng dàn nghệ sĩ Broadway múa cùng \"Thiên thần băng\" Alysa Liu theo điệu nhảy gây bão tại Olympic mùa Đông 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:01:31+07:00",
+      "fetched": "2026-03-15T13:53:06.240512+07:00"
+    },
+    {
+      "id": "4b196967c6eac5fd6fea071ee0363e85",
+      "title": "Tài tử Hollywood tái hiện điệu nhảy của Alysa Liu",
+      "link": "https://vnexpress.net/tai-tu-hollywood-tai-hien-dieu-nhay-cua-alysa-liu-5050600.html",
+      "summary": "Diễn viên chính trong một phim Marvel, Simu Liu cùng dàn nghệ sĩ Broadway múa cùng \"Thiên thần băng\" Alysa Liu theo điệu nhảy gây bão tại Olympic mùa Đông 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T06:01:31+07:00",
+      "fetched": "2026-03-15T13:53:18.458358+07:00"
+    },
+    {
+      "id": "2542783b18d44580a432e48e548c07ca",
+      "title": "Cựu chiến binh sưu tầm hơn 200 kỷ vật về các kỳ bầu cử Quốc hội",
+      "link": "https://thanhnien.vn/cuu-chien-binh-suu-tam-hon-200-ky-vat-ve-cac-ky-bau-cu-quoc-hoi-185260315120046398.htm",
+      "summary": "Một cựu chiến binh ở TP.HCM đang trưng bày hơn 200 kỷ vật liên quan đến các kỳ bầu cử Quốc hội do ông sưu tầm và lưu giữ hơn 40 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:01:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464416+07:00"
+    },
+    {
+      "id": "dae58aa4831ed801faa5f14ef3a0cab8",
+      "title": "Cháy căn hộ chung cư 25 tầng ở TP HCM",
+      "link": "https://vnexpress.net/chay-can-ho-chung-cu-25-tang-o-tp-hcm-5050638.html",
+      "summary": "Ngọn lửa bùng lên từ căn hộ nằm ở tầng 7 chung cư Lexington, phường Bình Trưng (TP Thủ Đức cũ), hàng trăm cư dân phải di tản xuống đất, sáng 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:00:34+07:00",
+      "fetched": "2026-03-15T13:53:06.240671+07:00"
+    },
+    {
+      "id": "b2eef1e6e32ec81e2ed60302dd74cb36",
+      "title": "4 thành viên tuyển nữ Iran xin thôi tị nạn ở Australia",
+      "link": "https://vnexpress.net/4-thanh-vien-tuyen-nu-iran-xin-thoi-ti-nan-o-australia-5050628.html",
+      "summary": "Ba cầu thủ và một nhân viên Iran, đã được cấp thị thực nhân đạo ở Australia, quyết định về nước sau những tranh cãi về việc không hát quốc ca tại Asian Cup nữ 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T06:00:00+07:00",
+      "fetched": "2026-03-15T13:53:06.240825+07:00"
+    },
+    {
+      "id": "b2eef1e6e32ec81e2ed60302dd74cb36",
+      "title": "4 thành viên tuyển nữ Iran xin thôi tị nạn ở Australia",
+      "link": "https://vnexpress.net/4-thanh-vien-tuyen-nu-iran-xin-thoi-ti-nan-o-australia-5050628.html",
+      "summary": "Ba cầu thủ và một nhân viên Iran, đã được cấp thị thực nhân đạo ở Australia, quyết định về nước sau những tranh cãi về việc không hát quốc ca tại Asian Cup nữ 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T06:00:00+07:00",
+      "fetched": "2026-03-15T13:53:18.457658+07:00"
+    },
+    {
+      "id": "5135388f2ccd2444db30cc43487e0833",
+      "title": "Tàu SAR 631 xuyên đêm vượt sóng cứu người từ đảo Cù Lao Chàm",
+      "link": "https://thanhnien.vn/tau-sar-631-xuyen-dem-vuot-song-cuu-nguoi-tu-dao-cu-lao-cham-185260315114442741.htm",
+      "summary": "Giữa thời tiết biển động, đảo Cù Lao Chàm (xã Tân Hiệp, TP.Đà Nẵng) bị cô lập bởi sóng lớn, lực lượng cứu nạn hàng hải cùng y bác sĩ đã xuyên đêm chạy đua với thời gian để giành giật sự sống cho một bệnh nhân nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:50:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464565+07:00"
+    },
+    {
+      "id": "53fc2899f3e2941ee6bbb1ebb00c6f17",
+      "title": "8 đại học y dược công bố phương thức, tổ hợp xét tuyển năm 2026",
+      "link": "https://vnexpress.net/tuyen-sinh-dai-hoc-2026-chi-tieu-phuong-thuc-to-hop-xet-tuyen-cac-truong-y-duoc-moi-nhat-5049241.html",
+      "summary": "Hầu hết trường y, dược xét tuyển bằng điểm thi tốt nghiệp, chủ yếu ở các tổ hợp khối A và B.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:40:15+07:00",
+      "fetched": "2026-03-15T13:53:06.241007+07:00"
+    },
+    {
+      "id": "0797f69af30ca69b973d10b8eefaf35b",
+      "title": "Người đàn ông bị hàng loạt nhà tang lễ từ chối vì béo",
+      "link": "https://vnexpress.net/nguoi-dan-ong-bi-hang-loat-nha-tang-le-tu-choi-vi-beo-5050625.html",
+      "summary": "Ở Canada, béo phì không chỉ là một bài toán khó về sức khỏe khi còn sống, mà nay lại biến thành \"rào cản cuối cùng\" sau khi chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:37:00+07:00",
+      "fetched": "2026-03-15T13:53:06.241163+07:00"
+    },
+    {
+      "id": "307f24b2638c9ec5166b346ceedf3857",
+      "title": "Rủ nhau dậy sớm săn ảnh kèn hồng ở TP.HCM",
+      "link": "https://thanhnien.vn/ru-nhau-day-som-san-anh-ken-hong-o-tphcm-185260314234722703.htm",
+      "summary": "Những ngày đầu tháng 3, nhiều tuyến đường và công viên tại TP.HCM bỗng trở nên dịu dàng và lãng mạn hơn khi hoa kèn hồng đồng loạt bung nở. Sắc hoa phớt hồng phủ kín các tán cây, tạo nên những \"dải mây hoa\" giữa phố thị đông đúc, thu hút đông đảo người dân, du khách và các nhiếp ảnh gia đến chiêm ng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:37:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464717+07:00"
+    },
+    {
+      "id": "089d17ce918aa734e06375314187e7a5",
+      "title": "Cử tri trẻ lần đầu tham gia bầu cử Quốc hội: đã tìm hiểu kỹ thông tin từ Facebook ‘Thông tin Chính phủ’",
+      "link": "https://thanhnien.vn/cu-tri-tre-lan-dau-tham-gia-bau-cu-quoc-hoi-da-tim-hieu-ky-thong-tin-tu-facebook-thong-tin-chinh-phu-185260315112142759.htm",
+      "summary": "Anh Đỗ Gia Huy (21 tuổi, ở P.Xuân Hòa, TP.HCM) chia sẻ đã tìm hiểu kỹ thông tin về quy trình bầu cử trên mạng xã hội, xác định trách nhiệm của người trẻ đối với lá phiếu bầu đại biểu Quốc hội và HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:36:00+07:00",
+      "fetched": "2026-03-15T13:53:09.464875+07:00"
+    },
+    {
+      "id": "a2921cd4658881c11e40ca8c90a7c6bd",
+      "title": "Trường ĐH TDTT Đà Nẵng 0-0 Trường ĐH VH-TT-DL Thanh Hóa: Chờ kịch tính ở trận 'Siêu kinh điển'",
+      "link": "https://thanhnien.vn/truong-dh-tdtt-da-nang-0-0-truong-dh-vh-tt-dl-thanh-hoa-cho-kich-tinh-o-tran-sieu-kinh-dien-185260315114109281.htm",
+      "summary": "Lượt trận cuối bảng C VCK TNSV THACO cup 2026 sẽ chứng kiến cuộc đối đầu rất đáng chú ý giữa Trường ĐH TDTT Đà Nẵng và Trường ĐH VH-TT-DL Thanh Hóa, diễn ra lúc 13 giờ 30 ngày 15.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:29:00+07:00",
+      "fetched": "2026-03-15T13:53:09.465044+07:00"
+    },
+    {
+      "id": "67a23ac5a7cd16bc7e786a74abfc38be",
+      "title": "Sinh viên, phóng viên và trọng tài VCK TNSV THACO Cup 2026 tham gia bầu cử",
+      "link": "https://thanhnien.vn/sinh-vien-phong-vien-va-trong-tai-vck-tnsv-thaco-cup-2026-tham-gia-bau-cu-185260315114256986.htm",
+      "summary": "Gần 900 sinh viên, cán bộ các trường cùng phóng viên và trọng tài làm nhiệm vụ tại VCK TNSV THACO Cup 2026 được bố trí bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và HĐND các cấp nhiệm kỳ 2026 - 2031 tại phường Bắc Nha Trang, Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:28:00+07:00",
+      "fetched": "2026-03-15T13:53:09.465197+07:00"
+    },
+    {
+      "id": "59675456627e87d66b9c70efa425bfd4",
+      "title": "1.081 học viên Cơ sở cai nghiện ở TP.HCM đi bầu cử",
+      "link": "https://thanhnien.vn/1081-hoc-vien-co-so-cai-nghien-o-tphcm-di-bau-cu-185260315102337253.htm",
+      "summary": "Ngày 15.3, cùng với cử tri cả nước, 1.081 học viên và 139 cán bộ, chiến sĩ tại Cơ sở cai nghiện số 1 (xã Xuân Thới Sơn, TP.HCM) bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:28:00+07:00",
+      "fetched": "2026-03-15T13:53:09.465345+07:00"
     },
     {
       "id": "fa98950a1b206a137c7bb0d0ec193d62",
@@ -671,6 +881,16 @@ window.newsData_2026_03_15 = {
       "category": "Thể thao",
       "published": "2026-03-15T03:48:31+07:00",
       "fetched": "2026-03-15T12:26:21.764538+07:00"
+    },
+    {
+      "id": "9a754d807044efba08f479450902088b",
+      "title": "Các chặng đua F1 ở vùng Trung Đông bị hủy",
+      "link": "https://vnexpress.net/cac-chang-dua-f1-o-vung-trung-dong-bi-huy-5050503.html",
+      "summary": "Ban tổ chức F1 quyết định hủy các chặng đua diễn ra vào tháng 4 tại Bahrain và Saudi Arabia vì chiến sự tại Trung Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T03:48:31+07:00",
+      "fetched": "2026-03-15T13:53:18.458831+07:00"
     },
     {
       "id": "fd0be4db5fc2e1c2cb3d7fd87729a665",
