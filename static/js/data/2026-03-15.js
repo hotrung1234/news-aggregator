@@ -1,7 +1,157 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T09:06:30.325105+07:00",
+  "lastUpdated": "2026-03-15T12:26:21.770664+07:00",
   "articles": [
+    {
+      "id": "bdbc0ea11e25518cf2253c5b282e28c7",
+      "title": "Ngày hội bầu cử ở Cần Giờ cũ: Nhiều lần đi bầu, lần nào cũng xúc động",
+      "link": "https://tuoitre.vn/ngay-hoi-bau-cu-o-can-gio-cu-nhieu-lan-di-bau-lan-nao-cung-xuc-dong-20260315090527889.htm",
+      "summary": "Hòa trong không khí chung cả nước, cử tri khu vực Cần Giờ cũ háo hức đến điểm bầu cử. Nhiều người cho biết đã nhiều lần đi bầu nhưng vẫn thấy xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.299627+07:00",
+      "fetched": "2026-03-15T12:26:15.299748+07:00"
+    },
+    {
+      "id": "f4f301c30eced2fa15fb3ed49e25c7bb",
+      "title": "Iran tấn công Israel và 3 căn cứ Mỹ, Iraq thành tâm điểm giao tranh",
+      "link": "https://tuoitre.vn/iran-tan-cong-israel-va-3-can-cu-my-iraq-thanh-tam-diem-giao-tranh-20260315110621683.htm",
+      "summary": "Tên lửa và drone của Iran được tuyên bố đã phá hủy 3 căn cứ quân sự có lính Mỹ đóng tại Iraq và Kuwait.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.299496+07:00",
+      "fetched": "2026-03-15T12:26:15.299610+07:00"
+    },
+    {
+      "id": "d850e8eee3ce86389f424a4c96d3e232",
+      "title": "Các lực lượng vũ trang đặc khu Phú Quý hoàn thành bỏ phiếu",
+      "link": "https://tuoitre.vn/cac-luc-luong-vu-trang-dac-khu-phu-quy-hoan-thanh-bo-phieu-20260315105956956.htm",
+      "summary": "Ban Chỉ huy Quân sự đặc khu Phú Quý, tỉnh Lâm Đồng cho biết đến 8h30 sáng 15-3, khu vực bỏ phiếu số 5 dành cho các lực lượng vũ trang đóng quân trên đảo đã hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.299363+07:00",
+      "fetched": "2026-03-15T12:26:15.299484+07:00"
+    },
+    {
+      "id": "6627e20dbd8cdcf809f87881c6819ee7",
+      "title": "Tàu Cảnh sát biển mang thùng phiếu phụ đến từng tàu trên biển để cử tri bầu cử",
+      "link": "https://tuoitre.vn/tau-canh-sat-bien-mang-thung-phieu-phu-den-tung-tau-tren-bien-de-cu-tri-bau-cu-20260315104332734.htm",
+      "summary": "Hôm nay 15-3, cán bộ, chiến sĩ Vùng Cảnh sát biển 4 thực hiện bầu cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031 từ đất liền đến giữa biển trời Tây Nam Tổ quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.299218+07:00",
+      "fetched": "2026-03-15T12:26:15.299335+07:00"
+    },
+    {
+      "id": "a57de21fb43e6a683def8b7034cd0e5d",
+      "title": "Nhóm 'thần y' dỏm thu lợi bất chính hàng trăm tỉ đồng; AFC có thiên vị Malaysia?",
+      "link": "https://tuoitre.vn/nhom-than-y-dom-thu-loi-bat-chinh-hang-tram-ti-dong-afc-co-thien-vi-malaysia-20260313222950749.htm",
+      "summary": "Thu hút nhiều bạn đọc quan tâm tuần qua là các thông tin: Khởi tố nhóm ‘thần y’ dỏm; Khó hiểu khi AFC cư xử trái ngược trong 2 vụ việc; Rò rỉ điện, vỉa hè nóng đến 40-50°C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.299071+07:00",
+      "fetched": "2026-03-15T12:26:15.299206+07:00"
+    },
+    {
+      "id": "82f41a80358b1261f8e14b28b267bb90",
+      "title": "Chờ nước lớn, người dân Thiềng Liềng chạy vỏ lãi đi bỏ phiếu",
+      "link": "https://tuoitre.vn/cho-nuoc-lon-nguoi-dan-thieng-lieng-chay-vo-lai-di-bo-phieu-20260315093512735.htm",
+      "summary": "Với địa bàn xa cách, nhiều cử tri ấp đảo Thiềng Liềng phải xuôi con nước, đi vỏ lãi để bầu cử, quyết tâm tự tay bỏ lá phiếu tín nhiệm bầu đại biểu nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298943+07:00",
+      "fetched": "2026-03-15T12:26:15.299060+07:00"
+    },
+    {
+      "id": "373e6db1b21dda90ced74242cc1043b1",
+      "title": "Thùng phiếu đến tận giường bệnh: Xúc động những lá phiếu ngày bầu cử",
+      "link": "https://tuoitre.vn/thung-phieu-den-tan-giuong-benh-xuc-dong-nhung-la-phieu-ngay-bau-cu-20260315105030269.htm",
+      "summary": "Sáng 15-3, nhiều bệnh nhân tại các bệnh viện xúc động thực hiện quyền công dân khi thùng phiếu được mang đến tận giường bệnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298818+07:00",
+      "fetched": "2026-03-15T12:26:15.298931+07:00"
+    },
+    {
+      "id": "2695192ab790ae8d3c661d5b62b1e3f7",
+      "title": "Kung fu Trung Quốc vô dụng vì giữ lại quá nhiều những thứ thừa thãi",
+      "link": "https://tuoitre.vn/kung-fu-trung-quoc-vo-dung-vi-giu-lai-qua-nhieu-nhung-thu-thua-thai-20260315083127078.htm",
+      "summary": "\"Hấp thu cái hữu dụng, loại bỏ những gì vô dụng\", triết lý võ thuật nổi tiếng của Lý Tiểu Long, đồng thời cũng là \"nhát dao\" cứa vào niềm tự hào ngàn năm của làng kung fu Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298691+07:00",
+      "fetched": "2026-03-15T12:26:15.298806+07:00"
+    },
+    {
+      "id": "a2026af4d2c22d8246d325d894422d19",
+      "title": "Nam thần gây sốt vì tạo hình quá giống Zoro trong One Piece live-action mùa 2",
+      "link": "https://tuoitre.vn/nam-than-gay-sot-vi-tao-hinh-qua-giong-zoro-trong-one-piece-live-action-mua-2-20260315112648189.htm",
+      "summary": "Trong bản live-action One Piece mùa 2, nhân vật Roronoa Zoro do diễn viên Nhật Bản Mackenyu thủ vai, gây chú ý nhờ ngoại hình và khí chất được đánh giá giống nguyên tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298563+07:00",
+      "fetched": "2026-03-15T12:26:15.298680+07:00"
+    },
+    {
+      "id": "a0ea455faf6231ea23b1128351f4f7bf",
+      "title": "Cải lương về Đức Tả quân Lê Văn Duyệt sắp trở lại",
+      "link": "https://tuoitre.vn/cai-luong-ve-duc-ta-quan-le-van-duyet-sap-tro-lai-20260315092351061.htm",
+      "summary": "Vừa kết thúc xong vở cải lương Tết Gánh cải trạng nguyên, sân khấu mới Đại Việt tiếp tục làm khán giả nôn nao khi công bố sắp diễn vở về Đức ông Lê Văn Duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298434+07:00",
+      "fetched": "2026-03-15T12:26:15.298551+07:00"
+    },
+    {
+      "id": "4ab37525e53bb443a8a3a1d0654911fb",
+      "title": "Mẹ Việt Nam anh hùng sức khỏe yếu, tổ bầu cử mang thùng phiếu đến nhà",
+      "link": "https://tuoitre.vn/me-viet-nam-anh-hung-suc-khoe-yeu-to-bau-cu-mang-thung-phieu-den-nha-20260315095920605.htm",
+      "summary": "Tổ bầu cử xã Tu Mơ Rông (tỉnh Quảng Ngãi) mang thùng phiếu phụ đến tận nhà Mẹ Việt Nam anh hùng I Tría để Mẹ thực hiện quyền bầu cử. Hình ảnh người Mẹ tuổi cao tự tay bỏ lá phiếu trong ngày hội toàn dân đã để lại nhiều xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298281+07:00",
+      "fetched": "2026-03-15T12:26:15.298421+07:00"
+    },
+    {
+      "id": "15ac5db497c83fa5279cfcd76b481bba",
+      "title": "Phó chủ tịch Quốc hội ấn tượng với cử tri 109 tuổi và 18 tuổi đi bầu đúng ngày sinh nhật",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-an-tuong-voi-cu-tri-109-tuoi-va-18-tuoi-di-bau-dung-ngay-sinh-nhat-20260315115118164.htm",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Thị Thanh cho biết đến 11h20, tại 31 tỉnh, thành đã có trên 50% cử tri đi bầu. Trong đó, Hà Tĩnh có tỉ lệ đi bầu cao nhất đạt 91,64%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298152+07:00",
+      "fetched": "2026-03-15T12:26:15.298270+07:00"
+    },
+    {
+      "id": "5420a49136e1830f1f2fd6f18d762a2e",
+      "title": "Nhiều hồ sơ xin việc gây bão mạng vì độ sáng tạo, là lợi thế hay chỉ là ấn tượng ban đầu?",
+      "link": "https://tuoitre.vn/nhieu-ho-so-xin-viec-gay-bao-mang-vi-do-sang-tao-la-loi-the-hay-chi-la-an-tuong-ban-dau-20260304233941569.htm",
+      "summary": "Nhiều người trẻ đầu tư hồ sơ năng lực như sản phẩm giới thiệu bản thân, có câu chuyện, phong cách, dấu ấn riêng rõ rệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.298016+07:00",
+      "fetched": "2026-03-15T12:26:15.298139+07:00"
+    },
+    {
+      "id": "f7febdd9f3577a0e95024309284482ad",
+      "title": "Lá phiếu gửi gắm niềm tin của công nhân, người dân TP.HCM",
+      "link": "https://tuoitre.vn/la-phieu-gui-gam-niem-tin-cua-cong-nhan-nguoi-dan-tp-hcm-20260315104944296.htm",
+      "summary": "Sáng 15-3, nhiều công nhân và người dân đi bầu cử từ sớm, gửi gắm kỳ vọng qua lá phiếu, mong chọn được những đại biểu có tâm, có tầm, quan tâm hơn đến đời sống người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.297871+07:00",
+      "fetched": "2026-03-15T12:26:15.298002+07:00"
+    },
+    {
+      "id": "c5130e4c61f5ad41ecf94fd40a765116",
+      "title": "Đưa thùng phiếu bầu cử ra trận địa phòng không",
+      "link": "https://tuoitre.vn/dua-thung-phieu-bau-cu-ra-tran-dia-phong-khong-20260315111230343.htm",
+      "summary": "Làm nhiệm vụ trực chiến bảo vệ không phận cao điểm bầu cử ngày 15-3, bộ đội ra đa, pháo phòng không thuộc Sư đoàn 375 đóng tại Đà Nẵng được bỏ phiếu ngay trên mâm pháo, trận địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T12:26:15.297615+07:00",
+      "fetched": "2026-03-15T12:26:15.297855+07:00"
+    },
     {
       "id": "429bb7e226627615a498e8b0f57b5533",
       "title": "Ngày hội toàn dân đi bầu cử 15-3: Chọn người tài đức, hành động quyết liệt để phát triển đất nước",
@@ -163,6 +313,366 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T05:22:31.114042+07:00"
     },
     {
+      "id": "73fdcc305db38607676db09ed94ed389",
+      "title": "Lỗ hổng giúp phá khóa điện thoại Android trong 60 giây",
+      "link": "https://thanhnien.vn/lo-hong-giup-pha-khoa-dien-thoai-android-trong-60-giay-185260315114038726.htm",
+      "summary": "Có tới 25% điện thoại Android dính lỗi bảo mật nghiêm trọng, mã mở khóa màn hình trở nên vô dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:20:00+07:00",
+      "fetched": "2026-03-15T12:26:14.211232+07:00"
+    },
+    {
+      "id": "eaef0c5eb6f2f934d0be441151f42e8d",
+      "title": "Bếp thanh niên đỏ lửa ngày bầu cử: Hàng trăm suất cơm tiếp sức các lực lượng",
+      "link": "https://thanhnien.vn/bep-thanh-nien-do-lua-ngay-bau-cu-hang-tram-suat-com-tiep-suc-cac-luc-luong-185260315113000971.htm",
+      "summary": "Trong không khí rộn ràng của ngày bầu cử, tuổi trẻ phường Hải Châu (TP.Đà Nẵng) đã góp sức bằng những việc làm giản dị nhưng đầy ý nghĩa khi tự tay chuẩn bị hàng trăm suất ăn nóng hổi gửi tặng các lực lượng đang làm nhiệm vụ tại các điểm bỏ phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:17:00+07:00",
+      "fetched": "2026-03-15T12:26:14.211438+07:00"
+    },
+    {
+      "id": "45fc1fa7b0b7fb0aad2a306d3d62a9e6",
+      "title": "Oscar 2026 siết chặt an ninh trước giờ G",
+      "link": "https://vnexpress.net/oscar-2026-siet-chat-an-ninh-truoc-gio-g-5050596.html",
+      "summary": "Trong bối cảnh xung đột Trung Đông căng thẳng, Oscar năm nay tăng cường công tác bảo vệ với nhiều lớp an ninh, hệ thống giám sát AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:05:04+07:00",
+      "fetched": "2026-03-15T12:26:10.884096+07:00"
+    },
+    {
+      "id": "c9d513d107ed53810109bd6c1b601cdd",
+      "title": "Campuchia xem xét phạt tù chung thân kẻ chủ mưu lừa đảo",
+      "link": "https://vnexpress.net/campuchia-xem-xet-phat-tu-chung-than-ke-chu-muu-lua-dao-5050609.html",
+      "summary": "Chính phủ Campuchia đề xuất dự luật trấn áp các trung tâm lừa đảo trực tuyến, trong đó áp dụng án chung thân với kẻ cầm đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:01:14+07:00",
+      "fetched": "2026-03-15T12:26:10.884278+07:00"
+    },
+    {
+      "id": "c9d513d107ed53810109bd6c1b601cdd",
+      "title": "Campuchia xem xét phạt tù chung thân kẻ chủ mưu lừa đảo",
+      "link": "https://vnexpress.net/campuchia-xem-xet-phat-tu-chung-than-ke-chu-muu-lua-dao-5050609.html",
+      "summary": "Chính phủ Campuchia đề xuất dự luật trấn áp các trung tâm lừa đảo trực tuyến, trong đó áp dụng án chung thân với kẻ cầm đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T05:01:14+07:00",
+      "fetched": "2026-03-15T12:26:17.167333+07:00"
+    },
+    {
+      "id": "e861196ec1ae7c7c54f873d632b431e4",
+      "title": "Khoảnh khắc bước ra ánh sáng của Max Dowman",
+      "link": "https://vnexpress.net/khoanh-khac-buoc-ra-anh-sang-cua-max-dowman-5050560.html",
+      "summary": "Chỉ cần 15 phút vào thay người tối 14/3, tài năng 16 tuổi Max Dowman đã tạo bước ngoặt cho cả trận đấu Everton lẫn cuộc đua vô địch Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:08+07:00",
+      "fetched": "2026-03-15T12:26:10.884474+07:00"
+    },
+    {
+      "id": "e861196ec1ae7c7c54f873d632b431e4",
+      "title": "Khoảnh khắc bước ra ánh sáng của Max Dowman",
+      "link": "https://vnexpress.net/khoanh-khac-buoc-ra-anh-sang-cua-max-dowman-5050560.html",
+      "summary": "Chỉ cần 15 phút vào thay người tối 14/3, tài năng 16 tuổi Max Dowman đã tạo bước ngoặt cho cả trận đấu Everton lẫn cuộc đua vô địch Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T05:00:08+07:00",
+      "fetched": "2026-03-15T12:26:21.763331+07:00"
+    },
+    {
+      "id": "cebcb43111a46715e17e0eb0c969ddf8",
+      "title": "Chạy chữa IVF mãi mới có được con nhưng bé lại bị dị tật",
+      "link": "https://vnexpress.net/chay-chua-ivf-mai-moi-co-duoc-con-nhung-be-lai-bi-di-tat-5050581.html",
+      "summary": "Suốt thai kỳ, vợ chồng tôi đã siêu âm và xét nghiệm rất nhiều lần nhưng không phát hiện ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.884643+07:00"
+    },
+    {
+      "id": "cc70614128547916366f77c4adad79ce",
+      "title": "Khách Tây thử cảm giác được đàn vịt vây quanh 'massage'",
+      "link": "https://vnexpress.net/khach-tay-thu-cam-giac-duoc-dan-vit-vay-quanh-massage-5047556.html",
+      "summary": "Nhiều du khách nước ngoài thích thú tham gia trải nghiệm cho đàn vịt ăn, cưỡi trâu, câu cá ở Phong Nha - Kẻ Bàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.884804+07:00"
+    },
+    {
+      "id": "fe53ee0b407790dc57c11079d0fc46e8",
+      "title": "Người tinh tế biết ngay đây là thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nguoi-tinh-te-biet-ngay-day-la-thanh-ngu-nao-5047020.html",
+      "summary": "Thành ngữ ý chỉ những người ham học, có học vấn, hiểu biết rất rộng, uyên bác và thâm sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.884971+07:00"
+    },
+    {
+      "id": "f2ddf9e1258d112490bb6b6e17fbb15c",
+      "title": "Carrick ủng hộ mục tiêu Man Utd vô địch Ngoại hạng Anh 2028",
+      "link": "https://vnexpress.net/carrick-ung-ho-muc-tieu-man-utd-vo-dich-ngoai-hang-anh-2028-5050597.html",
+      "summary": "HLV tạm quyền Michael Carrick tin rằng Man Utd có thể cạnh tranh chức vô địch Ngoại hạng Anh trong hai năm tới, theo tham vọng của ban lãnh đạo CLB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.885134+07:00"
+    },
+    {
+      "id": "8eef1f81aad098eb198ef8f4257d5608",
+      "title": "Slot: 'Liverpool ghi bàn thấp bất thường mùa này'",
+      "link": "https://vnexpress.net/slot-liverpool-ghi-ban-thap-bat-thuong-mua-nay-5050371.html",
+      "summary": "HLV Arne Slot cho rằng chấn thương của Alexander Isak là một trong những nguyên nhân khiến Liverpool gặp khó trong khâu ghi bàn mùa này, nhưng khẳng định đội bóng vẫn còn nhiều tiềm năng để cải thiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.885304+07:00"
+    },
+    {
+      "id": "09415f6eee86d105fe76f6432556f45b",
+      "title": "Vì sao mắt trẻ sơ sinh hay có ghèn?",
+      "link": "https://vnexpress.net/vi-sao-mat-tre-so-sinh-hay-co-ghen-5050523.html",
+      "summary": "Ghèn mắt ở trẻ sơ sinh khá phổ biến, thường do tắc ống dẫn lệ, viêm kết mạc hoặc kích ứng hóa chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:10.885485+07:00"
+    },
+    {
+      "id": "e0776ee05e6fadf7d43bb6c29a582261",
+      "title": "Diện trang phục kẻ sọc dọc, nàng dễ dàng 'ăn gian' chiều cao đầy tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-trang-phuc-ke-soc-doc-nang-de-dang-an-gian-chieu-cao-day-tinh-te-185260313134653575.htm",
+      "summary": "Họa tiết kẻ sọc dọc giúp nàng khéo léo tạo hiệu ứng kéo dài vóc dáng, mang lại vẻ ngoài thanh thoát và cao ráo hơn. Đây cũng là lựa chọn tinh tế để nàng làm mới phong cách thời trang hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:14.211605+07:00"
+    },
+    {
+      "id": "f2ddf9e1258d112490bb6b6e17fbb15c",
+      "title": "Carrick ủng hộ mục tiêu Man Utd vô địch Ngoại hạng Anh 2028",
+      "link": "https://vnexpress.net/carrick-ung-ho-muc-tieu-man-utd-vo-dich-ngoai-hang-anh-2028-5050597.html",
+      "summary": "HLV tạm quyền Michael Carrick tin rằng Man Utd có thể cạnh tranh chức vô địch Ngoại hạng Anh trong hai năm tới, theo tham vọng của ban lãnh đạo CLB.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:21.764166+07:00"
+    },
+    {
+      "id": "8eef1f81aad098eb198ef8f4257d5608",
+      "title": "Slot: 'Liverpool ghi bàn thấp bất thường mùa này'",
+      "link": "https://vnexpress.net/slot-liverpool-ghi-ban-thap-bat-thuong-mua-nay-5050371.html",
+      "summary": "HLV Arne Slot cho rằng chấn thương của Alexander Isak là một trong những nguyên nhân khiến Liverpool gặp khó trong khâu ghi bàn mùa này, nhưng khẳng định đội bóng vẫn còn nhiều tiềm năng để cải thiện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T05:00:00+07:00",
+      "fetched": "2026-03-15T12:26:21.764323+07:00"
+    },
+    {
+      "id": "4751b2f3a8b64ae1b749e6c1dc3c4a11",
+      "title": "Cảng dầu mỏ quan trọng của UAE ngưng hoạt động",
+      "link": "https://vnexpress.net/cang-dau-mo-quan-trong-cua-uae-ngung-hoat-dong-5050617.html",
+      "summary": "Một số hoạt động bốc xếp dầu thô và các sản phẩm tinh chế tại cảng Fujairah, thuộc UAE, đã bị tạm dừng sau vụ tấn công bằng UAV, gây ra hỏa hoạn ngày 14/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:48:09+07:00",
+      "fetched": "2026-03-15T12:26:10.885644+07:00"
+    },
+    {
+      "id": "4751b2f3a8b64ae1b749e6c1dc3c4a11",
+      "title": "Cảng dầu mỏ quan trọng của UAE ngưng hoạt động",
+      "link": "https://vnexpress.net/cang-dau-mo-quan-trong-cua-uae-ngung-hoat-dong-5050617.html",
+      "summary": "Một số hoạt động bốc xếp dầu thô và các sản phẩm tinh chế tại cảng Fujairah, thuộc UAE, đã bị tạm dừng sau vụ tấn công bằng UAV, gây ra hỏa hoạn ngày 14/3.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-15T04:48:09+07:00",
+      "fetched": "2026-03-15T12:26:18.162756+07:00"
+    },
+    {
+      "id": "4f163f740b215c8bd1ea9b3ff7ed8cd1",
+      "title": "Những điểm bỏ phiếu đặc biệt",
+      "link": "https://vnexpress.net/nhung-diem-bo-phieu-dac-biet-5050577.html",
+      "summary": "Mang thùng phiếu đến giường bệnh nhân, bỏ phiếu trong trại giam, cử tri đi xuồng tới điểm bầu cử... là những hình ảnh đáng chú ý trong ngày bầu cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:42:12+07:00",
+      "fetched": "2026-03-15T12:26:10.885809+07:00"
+    },
+    {
+      "id": "8d1731843f657c39a88b6056c9456846",
+      "title": "U.23 Việt Nam lộ rõ khát vọng Olympic, không hề ‘tầm thường’ tại ASIAD 20",
+      "link": "https://thanhnien.vn/u23-viet-nam-lo-ro-khat-vong-olympic-khong-he-tam-thuong-tai-asiad-20-185260314135410101.htm",
+      "summary": "Danh sách 30 cầu thủ U.23 Việt Nam vừa được công bố ở độ tuổi 21, lứa tuổi sẽ tham dự Olympic năm 2028. Điều này cho thấy khát vọng vươn xa của bóng đá Việt Nam. Đáng nói hơn nữa, đội hình này không hề yếu nếu tham dự ASIAD 20 vào tháng 9 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:41:00+07:00",
+      "fetched": "2026-03-15T12:26:14.211762+07:00"
+    },
+    {
+      "id": "aea59cb276e6f9b51c3d38f3ea710f50",
+      "title": "Tôi không bị quán phở 'tăng 5.000 đồng vì xăng lên giá' thao túng",
+      "link": "https://vnexpress.net/toi-khong-bi-quan-pho-tang-5-000-dong-vi-xang-len-gia-thao-tung-5050620.html",
+      "summary": "Tiền tôi làm ra nên tôi toàn quyền quyết định chi tiêu sao cho thoải mái, không thể để bản thân khó chịu vì những quán tăng giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:36:27+07:00",
+      "fetched": "2026-03-15T12:26:10.885969+07:00"
+    },
+    {
+      "id": "6dd0d87399723e672abc611728831383",
+      "title": "Những lá phiếu đặc biệt trong ngày hội bầu cử toàn dân",
+      "link": "https://thanhnien.vn/nhung-la-phieu-dac-biet-trong-ngay-hoi-bau-cu-toan-dan-185260315104907783.htm",
+      "summary": "Những hình ảnh đẹp, xúc động trong ngày hội bầu cử toàn dân 15.3, bầu đại biểu Quốc hội khóa XVI, HĐND các cấp nhiệm kỳ 2026 - 2031 trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:30:00+07:00",
+      "fetched": "2026-03-15T12:26:14.211969+07:00"
+    },
+    {
+      "id": "172daf4096136c65c0c6d737e113204a",
+      "title": "Vì sao laser, bóc tách xong sẹo vẫn lõm lại? Chuyên gia giải thích cơ chế",
+      "link": "https://thanhnien.vn/vi-sao-laser-boc-tach-xong-seo-van-lom-lai-chuyen-gia-giai-thich-co-che-185260315115047105.htm",
+      "summary": "Vì sao nhiều người laser trị sẹo rỗ hoặc bóc tách sẹo rỗ nhưng vẫn tái lõm? Chuyên gia giải thích cơ chế tăng sinh collagen và vai trò của giai đoạn phục hồi da sau điều trị sẹo rỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:28:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212149+07:00"
+    },
+    {
+      "id": "e2294ef542a3c6f1fb56794bbb8d277d",
+      "title": "Nguyên Thủ tướng Nguyễn Tấn Dũng bỏ phiếu ở phường Xuân Hòa, TP.HCM",
+      "link": "https://thanhnien.vn/nguyen-thu-tuong-nguyen-tan-dung-bo-phieu-o-phuong-xuan-hoa-tphcm-185260315110922776.htm",
+      "summary": "Khoảng 6 giờ 30 sáng 15.3.2026, Nguyên Thủ tướng Chính phủ Nguyễn Tấn Dũng cùng phu nhân và ông Nguyễn Văn Được (Chủ tịch UBND TP.HCM) đã đến khu vực bỏ phiếu số 2 (phường Xuân Hòa, TP.HCM) để bỏ phiếu bầu Quốc hội và HĐND các cấp nhiệm kỳ 2026 - 2031.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:23:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212310+07:00"
+    },
+    {
+      "id": "f1db4a01a7499daa5acdec45d0554f16",
+      "title": "Trúc Anh 'Mắt biếc' đón tin vui ở tuổi 28",
+      "link": "https://thanhnien.vn/truc-anh-mat-biec-don-tin-vui-o-tuoi-28-185260315111306139.htm",
+      "summary": "Trên trang cá nhân, diễn viên Trúc Anh chia sẻ tin vui khi vừa tốt nghiệp khoa Quản trị truyền thông sau quãng thời gian miệt mài đèn sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:22:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212485+07:00"
+    },
+    {
+      "id": "b44e4f8909b6828cf46662670dab0280",
+      "title": "Nghỉ việc đi học tiếng Trung",
+      "link": "https://vnexpress.net/nghi-viec-di-hoc-tieng-trung-5050190.html",
+      "summary": "Nguyễn Oanh quyết định nghỉ việc vào ngày cuối tháng 9/2025 sau ba năm làm ở doanh nghiệp FDI vị trí nhân viên kiểm soát chất lượng (QC) để đi học tiếng Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:21:18+07:00",
+      "fetched": "2026-03-15T12:26:10.886122+07:00"
+    },
+    {
+      "id": "8b285ec36d2567ff7b2649658ac0ecce",
+      "title": "Xem nhanh 12h: Rộn ràng 'ngày hội non sông', cầu thủ nhập tịch lần đầu đi bầu cử",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ron-rang-ngay-hoi-non-song-cau-thu-nhap-tich-lan-dau-di-bau-cu-185260315111709763.htm",
+      "summary": "Ngày hội bầu cử, giá xăng dầu, tin tức Iran … sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 15.3.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:20:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212642+07:00"
+    },
+    {
+      "id": "13b73d693a987781a18847a47c48bfcb",
+      "title": "Nhóm Quả Dưa Hấu gợi ký ức âm nhạc thập niên 1990",
+      "link": "https://vnexpress.net/nhom-qua-dua-hau-goi-ky-uc-am-nhac-thap-nien-1990-5050594.html",
+      "summary": "Bằng Kiều, Tuấn Hưng, Tú Dưa thể hiện các bản hit thập niên 1990 như \"Mặt trời dịu êm\", \"Hè muộn\", trong lần tái hợp sau 28 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:17:30+07:00",
+      "fetched": "2026-03-15T12:26:10.886278+07:00"
+    },
+    {
+      "id": "07bcd0050c236f98926670aa3105c4e0",
+      "title": "TP HCM gỡ vướng cấp sổ hồng cho thêm ba dự án nhà ở",
+      "link": "https://vnexpress.net/tp-hcm-go-vuong-cap-so-hong-cho-them-ba-du-an-nha-o-5050591.html",
+      "summary": "Ba dự án nhà ở tại TP HCM vừa được Tổ công tác 1645 xem xét tháo gỡ vướng mắc pháp lý, nhằm đẩy nhanh việc cấp sổ hồng cho người mua nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:16:35+07:00",
+      "fetched": "2026-03-15T12:26:10.886454+07:00"
+    },
+    {
+      "id": "2cfd5db3e6476efe3b38d3faa542996a",
+      "title": "Quyết toán thuế thu nhập cá nhân có cần cập nhật mã số thuế?",
+      "link": "https://thanhnien.vn/quyet-toan-thue-thu-nhap-ca-nhan-co-can-cap-nhat-ma-so-thue-185260315085907805.htm",
+      "summary": "Doanh nghiệp phải nộp hồ sơ quyết toán thuế thu nhập cá nhân chậm nhất là ngày 31.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:01:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212791+07:00"
+    },
+    {
+      "id": "cdbefbd3335bf9f39f2cc6ca1f27a7be",
+      "title": "Những bộ cánh sang trọng không đắt tiền 'phải có' trong tủ đồ xuân hè",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-canh-sang-trong-khong-dat-tien-phai-co-trong-tu-do-xuan-he-185260314201850685.htm",
+      "summary": "Sau vài năm bùng nổ của thời trang logo và những thiết kế phô trương, làn sóng quiet luxury - sang trọng kín đáo đã trở thành một trong những xu hướng nổi bật của thập niên 2020 đặc biệt là mùa thời trang xuân hè 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:00:00+07:00",
+      "fetched": "2026-03-15T12:26:14.212942+07:00"
+    },
+    {
+      "id": "7505d306aa51e44ce9dbe316780d25c5",
+      "title": "Khói lửa xung đột Trung Đông đã lan rộng đến mức độ nào?",
+      "link": "https://thanhnien.vn/khoi-lua-xung-dot-trung-dong-da-lan-rong-den-muc-do-nao-185260314063850078.htm",
+      "summary": "Nhiều quốc gia khác bị kéo vào cuộc xung đột giữa Mỹ và Israel với Iran khi tình hình trở nên phức tạp hơn về mặt địa chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T04:00:00+07:00",
+      "fetched": "2026-03-15T12:26:14.213098+07:00"
+    },
+    {
+      "id": "540c7f927adc996081814748a974fd9b",
+      "title": "Tách thửa: Vì sao dân kẹt ở 'luật địa phương'?",
+      "link": "https://thanhnien.vn/tach-thua-vi-sao-dan-ket-o-luat-dia-phuong-185260311114346994.htm",
+      "summary": "Cùng một loại đất nhưng mỗi địa phương quy định diện tích tách thửa khác nhau khiến người dân gặp nhiều vướng mắc. Vì sao lại xuất hiện 'luật địa phương' trong tách thửa đất?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T03:59:00+07:00",
+      "fetched": "2026-03-15T12:26:14.213252+07:00"
+    },
+    {
+      "id": "18d92abb8daf8f2722a4f60504e19e52",
+      "title": "TP.HCM: Phường Xuân Hòa tổ chức bỏ phiếu bầu cử trong trại tạm giam",
+      "link": "https://thanhnien.vn/tphcm-phuong-xuan-hoa-to-chuc-bo-phieu-bau-cu-trong-trai-tam-giam-185260315101504309.htm",
+      "summary": "Ủy ban Bầu cử phường Xuân Hòa (TP.HCM) mang thùng phiếu lưu động đến trại tạm giam để các can phạm bỏ phiếu bầu cử, thực hiện quyền công dân của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T03:58:00+07:00",
+      "fetched": "2026-03-15T12:26:14.213425+07:00"
+    },
+    {
+      "id": "4ebe1918135bc7d09d5ce60d15d2dbc5",
+      "title": "Cử tri gen Z đi bầu cử: Hồi hộp nhưng rất tự hào",
+      "link": "https://thanhnien.vn/cu-tri-gen-z-di-bau-cu-hoi-hop-nhung-rat-tu-hao-18526031510270086.htm",
+      "summary": "Tại điểm bỏ phiếu Trường mầm non Tuổi Ngọc (phường Phú Lợi, TP.HCM), nhiều cử tri gen Z không giấu được cảm xúc hồi hộp xen lẫn tự hào khi thực hiện quyền và nghĩa vụ công dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T03:49:00+07:00",
+      "fetched": "2026-03-15T12:26:14.213584+07:00"
+    },
+    {
+      "id": "6444b9301b6f50f77d5e04c1ed4de56d",
+      "title": "Các chặng đua F1 ở vùng Trung Đông nguy cơ bị hủy",
+      "link": "https://vnexpress.net/cac-chang-dua-f1-o-vung-trung-dong-nguy-co-bi-huy-5050503.html",
+      "summary": "Sau khi Grand Prix Trung Quốc kết thúc, ban tổ chức F1 có thể sẽ thông báo hủy các chặng đua tiếp theo tại Bahrain và Saudi Arabia vì chiến sự tại Trung Đông.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T03:48:31+07:00",
+      "fetched": "2026-03-15T12:26:21.764538+07:00"
+    },
+    {
       "id": "fd0be4db5fc2e1c2cb3d7fd87729a665",
       "title": "Cô gái Việt cao 1m95 và đồng đội vô địch chặng 2 bóng chuyền Thái Lan",
       "link": "https://tuoitre.vn/co-gai-viet-cao-1m95-va-dong-doi-vo-dich-chang-2-bong-chuyen-thai-lan-20260314220046123.htm",
@@ -181,6 +691,66 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T03:25:04.234513+07:00",
       "fetched": "2026-03-15T03:25:04.234792+07:00"
+    },
+    {
+      "id": "3fdcbb24c809ce548ceefb4c1853046c",
+      "title": "Guardiola: 'Cuộc đua chưa kết thúc'",
+      "link": "https://vnexpress.net/guardiola-cuoc-dua-chua-ket-thuc-5050582.html",
+      "summary": "HLV Pep Guardiola chưa từ bỏ hy vọng trong cuộc đua vô địch Ngoại hạng Anh, nhưng thừa nhận Man City cần sự bùng nổ trở lại của tiền đạo Erling Haaland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T03:15:29+07:00",
+      "fetched": "2026-03-15T12:26:21.764700+07:00"
+    },
+    {
+      "id": "8c9eb96ff38fcb23edd49fa065477ff2",
+      "title": "Gen Z hoài niệm TikTok cũ",
+      "link": "https://vnexpress.net/gen-z-hoai-niem-tiktok-cu-5049280.html",
+      "summary": "Khảo sát mới cho thấy người dùng Gen Z nhớ thời kỳ đầu của TikTok, khi bảng tin tràn ngập video ngắn ngẫu hứng, ít dàn dựng hay quảng cáo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-15T03:00:00+07:00",
+      "fetched": "2026-03-15T12:26:20.096115+07:00"
+    },
+    {
+      "id": "f7ca2acea1e9c8602c17c3dd6c90910f",
+      "title": "Ông Trump: Mỹ chưa sẵn sàng ngừng bắn với Iran",
+      "link": "https://vnexpress.net/ong-trump-my-chua-san-sang-ngung-ban-voi-iran-5050580.html",
+      "summary": "Tổng thống Trump cho biết Iran đã sẵn sàng đạt lệnh ngừng bắn, nhưng ông thì chưa do \"các điều khoản thỏa thuận chưa đủ tốt\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T02:39:02+07:00",
+      "fetched": "2026-03-15T12:26:17.167544+07:00"
+    },
+    {
+      "id": "e18fb26bdb013d0fd7dcf3bb2eefa007",
+      "title": "Ukraine yêu cầu Hungary trả lại 82 triệu USD tiền, vàng",
+      "link": "https://vnexpress.net/ukraine-yeu-cau-hungary-tra-lai-82-trieu-usd-tien-vang-5050579.html",
+      "summary": "Ngân hàng Ukraine Oschadbank yêu cầu Hungary lập tức trả lại số tiền mặt và vàng trị giá 82 triệu USD bị tịch thu trong đoàn xe chở tiền.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T02:23:07+07:00",
+      "fetched": "2026-03-15T12:26:17.167716+07:00"
+    },
+    {
+      "id": "0abc6d6e9505499c97dbe5ed3d9b3d9f",
+      "title": "Inter Miami chia điểm khi vắng Messi",
+      "link": "https://vnexpress.net/inter-miami-chia-diem-khi-vang-messi-5050559.html",
+      "summary": "Lionel Messi không có tên cả trong danh sách đá chính lẫn dự bị, khi Inter Miami hòa Charlotte 0-0 ở vòng bốn MLS ngày 14/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T02:22:26+07:00",
+      "fetched": "2026-03-15T12:26:21.764856+07:00"
+    },
+    {
+      "id": "f244387cc1664263dcfd31c5d654ab5c",
+      "title": "Cách điều hành giá xăng dầu lần này khác gì trước?",
+      "link": "https://vnexpress.net/cach-dieu-hanh-gia-xang-dau-lan-nay-khac-gi-truoc-5049704.html",
+      "summary": "Chỉ trong chưa đầy hai tuần kể từ khi xung đột Trung Đông bùng phát, giá xăng trong nước đã điều chỉnh 6 lần - tần suất hiếm thấy trong nhiều năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-15T02:05:20+07:00",
+      "fetched": "2026-03-15T12:26:18.162950+07:00"
     },
     {
       "id": "c81e84391c2e109e4cfe0ba53a78da52",
