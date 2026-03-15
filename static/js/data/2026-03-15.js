@@ -1,7 +1,147 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T15:33:36.621624+07:00",
+  "lastUpdated": "2026-03-15T17:26:34.807345+07:00",
   "articles": [
+    {
+      "id": "dc0a3b25ee77bb3d33d394778aa67209",
+      "title": "'Tiền mua xe chưa là gì: Gửi xe hàng chục triệu/năm, bảo dưỡng 'tằn tiện' cũng 4 triệu...'",
+      "link": "https://tuoitre.vn/tien-mua-xe-chua-la-gi-gui-xe-hang-chuc-trieu-nam-bao-duong-tan-tien-cung-4-trieu-20260314233417031.htm",
+      "summary": "Giá mua xe chỉ là một phần trong bài toán sở hữu ô tô. Từ chi phí lăn bánh, trả góp, nhiên liệu đến bảo dưỡng, gửi xe… tổng số tiền người dùng phải chi mỗi tháng có thể cao hơn nhiều so với dự tính ban đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.239158+07:00",
+      "fetched": "2026-03-15T17:26:28.239274+07:00"
+    },
+    {
+      "id": "186b210569fb7dccb07283211d3c7a0a",
+      "title": "Cụ bà 106 tuổi đến tận điểm bầu cử thực hiện quyền và nghĩa vụ của công dân",
+      "link": "https://tuoitre.vn/cu-ba-106-tuoi-den-tan-diem-bau-cu-thuc-hien-quyen-va-nghia-vu-cua-cong-dan-20260315133037811.htm",
+      "summary": "Cụ bà 106 tuổi ở xã An Trường, TP Hải Phòng mặc dù tuổi cao nhưng vẫn cố gắng đến điểm bỏ phiếu thực hiện quyền và nghĩa vụ của công dân của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.239033+07:00",
+      "fetched": "2026-03-15T17:26:28.239146+07:00"
+    },
+    {
+      "id": "62002c0f1e9363cfa96985fb01a66bec",
+      "title": "Vùi dập Philippines 7-0, Nhật Bản vào bán kết Asian Cup nữ 2026",
+      "link": "https://tuoitre.vn/vui-dap-philippines-7-0-nhat-ban-vao-ban-ket-asian-cup-nu-2026-20260315141900103.htm",
+      "summary": "Chiều 15-3, tuyển nữ Nhật Bản đã giành chiến thắng 7-0 trước Philippines ở tứ kết Giải bóng đá nữ châu Á (Asian Cup nữ) 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238906+07:00",
+      "fetched": "2026-03-15T17:26:28.239021+07:00"
+    },
+    {
+      "id": "1a2e552632fbe489604a48f46f960dbc",
+      "title": "Dừng xe trên cao tốc Trung Lương - Mỹ Thuận để 'giải quyết nỗi buồn', tài xế bị phạt 13 triệu đồng",
+      "link": "https://tuoitre.vn/dung-xe-tren-cao-toc-trung-luong-my-thuan-de-giai-quyet-noi-buon-tai-xe-bi-phat-13-trieu-dong-2026031514203442.htm",
+      "summary": "Đội Cảnh sát giao thông đường bộ cao tốc số 7 cho biết vừa xử lý tài xế dừng, đỗ xe tải ở làn dừng sai quy định để đi vệ sinh trên cao tốc Trung Lương - Mỹ Thuận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238776+07:00",
+      "fetched": "2026-03-15T17:26:28.238891+07:00"
+    },
+    {
+      "id": "272948a5f7c8707e81ac69d6d8e0826f",
+      "title": "Xác định 4 đội vào bán kết Asian Cup nữ 2026",
+      "link": "https://tuoitre.vn/xac-dinh-4-doi-vao-ban-ket-asian-cup-nu-2026-20260315144823405.htm",
+      "summary": "Giải bóng đá nữ châu Á (Asian Cup nữ) 2026 đã tìm ra 4 đội bóng xuất sắc bước vào bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238649+07:00",
+      "fetched": "2026-03-15T17:26:28.238765+07:00"
+    },
+    {
+      "id": "a0648bfc40ce86fc9e0ec23053888bc0",
+      "title": "Diễn viên Anh John Alford qua đời trong tù",
+      "link": "https://tuoitre.vn/dien-vien-anh-john-alford-qua-doi-trong-tu-20260315141734334.htm",
+      "summary": "Nam diễn viên người Anh John Alford qua đời trong tù vào ngày 13-3, chỉ 2 tháng sau khi bị kết án 8 năm rưỡi tù vì tội tấn công tình dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238505+07:00",
+      "fetched": "2026-03-15T17:26:28.238637+07:00"
+    },
+    {
+      "id": "0a8ababa0c4397d38ec483d41b6698ec",
+      "title": "Rực rỡ hay giá trị của mình không ở iPad, iPhone... mà ở 'I am'",
+      "link": "https://tuoitre.vn/ruc-ro-hay-gia-tri-cua-minh-khong-o-ipad-iphone-ma-o-i-am-20260313183700409.htm",
+      "summary": "Sự rực rỡ của bản thân tỏa ra từ nỗ lực cá nhân chứ không phải từ sự đánh giá của người khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238375+07:00",
+      "fetched": "2026-03-15T17:26:28.238494+07:00"
+    },
+    {
+      "id": "d5b2d34416451dcd7d08a78717a1d2e0",
+      "title": "Khán giả chia sẻ clip Ngọc Giàu, Thanh Nam hát Tiếng trống Mê Linh",
+      "link": "https://tuoitre.vn/khan-gia-chia-se-clip-ngoc-giau-thanh-nam-hat-tieng-trong-me-linh-2026031514584672.htm",
+      "summary": "Từ vụ Bùm Bum hát Mê Linh biệt khúc (trích trong Tiếng trống Mê Linh) bị phản ứng, khán giả chia sẻ nhiều clip Mê Linh biệt khúc các nghệ sĩ gạo cội hát rất hay, trong đó có Ngọc Giàu và Thanh Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238224+07:00",
+      "fetched": "2026-03-15T17:26:28.238362+07:00"
+    },
+    {
+      "id": "e10555885fba6732bc946067c9069e0e",
+      "title": "Người không có nơi thường trú, tạm trú làm thẻ căn cước được không?",
+      "link": "https://tuoitre.vn/nguoi-khong-co-noi-thuong-tru-tam-tru-lam-the-can-cuoc-duoc-khong-20260312144535899.htm",
+      "summary": "Người không có nơi thường trú, nơi tạm trú có thể đến cơ quan đăng ký cư trú cấp xã nơi cư trú để được xác minh thông tin và làm thủ tục cấp thẻ căn cước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.238093+07:00",
+      "fetched": "2026-03-15T17:26:28.238212+07:00"
+    },
+    {
+      "id": "90795d529548823278b20687354dfcb3",
+      "title": "Thái Tuấn - Từ áo dài đến chuỗi cung ứng dệt may toàn cầu",
+      "link": "https://tuoitre.vn/thai-tuan-tu-ao-dai-den-chuoi-cung-ung-det-may-toan-cau-20260312172628119.htm",
+      "summary": "Sau khi hai bộ sưu tập áo dài ‘Mặt Trời - Cánh Cò - Thành Phố Của Tôi’ và ‘Tứ Bình Phong Hoa’ được trình diễn tại Lễ hội Áo dài TP.HCM 2026, nhiều khán giả ấn tượng với chất liệu và họa tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.237966+07:00",
+      "fetched": "2026-03-15T17:26:28.238082+07:00"
+    },
+    {
+      "id": "f06feabda49a8a31454af3d17cd37a89",
+      "title": "Ông Trump từ chối đề nghị hỗ trợ của Ukraine, nói ông Zelensky là ‘phương án cuối cùng’",
+      "link": "https://tuoitre.vn/ong-trump-tu-choi-de-nghi-ho-tro-cua-ukraine-noi-ong-zelensky-la-phuong-an-cuoi-cung-20260315150833452.htm",
+      "summary": "Ngày 14-3, ông Trump đã bác đề nghị của Ukraine về việc hỗ trợ Mỹ đối phó với máy bay không người lái của Iran tại Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.237836+07:00",
+      "fetched": "2026-03-15T17:26:28.237954+07:00"
+    },
+    {
+      "id": "cd5ec59b0325accf48546de4878f60da",
+      "title": "Truy tìm lái xe tông gãy chân người phụ nữ trên vỉa hè rồi tăng ga bỏ chạy",
+      "link": "https://tuoitre.vn/truy-tim-lai-xe-tong-gay-chan-nguoi-phu-nu-tren-via-he-roi-tang-ga-bo-chay-20260315143154769.htm",
+      "summary": "Công an thành phố Hải Phòng đang truy tìm lái xe tông gãy chân người phụ nữ trên vỉa hè rồi tăng ga bỏ chạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.237700+07:00",
+      "fetched": "2026-03-15T17:26:28.237823+07:00"
+    },
+    {
+      "id": "e5aa960442d2552c249e31741ee59d1b",
+      "title": "Thuyền buồm có thể gấp gọn để trong cốp xe, mở ra chở được gia đình 4 người",
+      "link": "https://tuoitre.vn/thuyen-buom-co-the-gap-gon-de-trong-cop-xe-mo-ra-cho-duoc-gia-dinh-4-nguoi-20260315133329817.htm",
+      "summary": "Nhà sản xuất Pháp Tiwal vừa ra mắt mẫu thuyền buồm bơm hơi 2XL có thể chở 4 người nhưng vẫn gấp gọn vào hai túi để đặt trong cốp ô tô, hướng tới những gia đình muốn đi thuyền cuối tuần mà không cần bến đỗ cố định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.237545+07:00",
+      "fetched": "2026-03-15T17:26:28.237687+07:00"
+    },
+    {
+      "id": "e7204a09bd93c15911ee89e13164565b",
+      "title": "Thôn biệt lập nằm sâu trong rừng, cách trung tâm xã 6 giờ đi bộ, 68 cử tri nô nức bầu cử",
+      "link": "https://tuoitre.vn/thon-biet-lap-nam-sau-trong-rung-cach-trung-tam-xa-6-gio-di-bo-68-cu-tri-no-nuc-bau-cu-2026031514362674.htm",
+      "summary": "A'ur, một ngôi làng nằm xa nhất của xã Avương, sâu trong rừng đặc dụng bảo vệ loài và sinh cảnh Sao la, cách trung tâm xã gần 20km, đi bộ mất gần 6 giờ đồng hồ, người dân nô nức bầu cử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T17:26:28.237303+07:00",
+      "fetched": "2026-03-15T17:26:28.237528+07:00"
+    },
     {
       "id": "615c0da9e81692f428736b6dda201fe8",
       "title": "Tuần tới nhiều doanh nghiệp 'mở két' trả cổ tức tiền mặt, cao nhất 88%",
@@ -263,6 +403,246 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T12:26:15.297855+07:00"
     },
     {
+      "id": "089482c614ccc8f7d14f05e27b82a3e0",
+      "title": "Dư luận Malaysia vẫn sục sôi vụ nhập tịch lậu, chỉ thẳng kẻ chủ mưu là tội phạm",
+      "link": "https://thanhnien.vn/du-luan-malaysia-van-suc-soi-be-boi-nhap-tich-chi-thang-ke-chu-muu-la-toi-pham-18526031517033786.htm",
+      "summary": "Lãnh đạo Hiệp hội Bóng đá người Hoa Malaysia (MCFA) kêu gọi xác định người đứng sau vụ làm giả giấy khai sinh liên quan đến 7 cầu thủ nhập tịch, cho rằng đây là vấn đề nghiêm trọng ảnh hưởng đến uy tín bóng đá Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:23:00+07:00",
+      "fetched": "2026-03-15T17:26:26.995279+07:00"
+    },
+    {
+      "id": "46dc5b09693e72e517e55fc390b3ba76",
+      "title": "Diễn viên Huy Khánh hứa hẹn tỏa sáng tại giải pickleball đồng hành cùng VCK TNSV 2026",
+      "link": "https://thanhnien.vn/dien-vien-huy-khanh-hua-hen-toa-sang-tai-giai-pickleball-dong-hanh-cung-vck-tnsv-2026-185260315170338503.htm",
+      "summary": "Dù rất bận rộn với nhiều dự án của mình, diễn viên Huy Khánh sẽ góp mặt ở Nha Trang để tham gia giải pickleball đồng hành VCK TNSV THACO CUP 2026 trên sân Army Pickleball vào ngày 16.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:20:00+07:00",
+      "fetched": "2026-03-15T17:26:26.995496+07:00"
+    },
+    {
+      "id": "f27226de9e101a3402e1c5234a6ea075",
+      "title": "4 cặp tứ kết của TNSV THACO cup đã lộ diện: Lịch thi đấu mới nhất",
+      "link": "https://thanhnien.vn/4-cap-tu-ket-cua-tnsv-thaco-cup-da-lo-dien-lich-thi-dau-moi-nhat-185260315165153597.htm",
+      "summary": "8 đội bóng lọt vào chơi tứ kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) đã được xác định đầy đủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:20:00+07:00",
+      "fetched": "2026-03-15T17:26:26.995660+07:00"
+    },
+    {
+      "id": "9c8d814844a03698ff6c74ca9028652a",
+      "title": "Chỉ hơn 3 giờ bầu cử, cử tri xã đảo ở An Giang bỏ phiếu đạt 100%",
+      "link": "https://thanhnien.vn/chi-hon-3-gio-bau-cu-cu-tri-xa-dao-o-an-giang-bo-phieu-dat-100-185260315153652677.htm",
+      "summary": "Theo Ủy ban bầu cử xã Hòn Nghệ, tỉnh An Giang, đến 10 giờ 30 phút sáng 15.3, cử tri của xã bỏ phiếu bầu cử đại biểu Quốc hội khóa XVI và HĐND các cấp, nhiệm kỳ 2026 - 2031 đạt tỷ lệ 100%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:19:00+07:00",
+      "fetched": "2026-03-15T17:26:26.995825+07:00"
+    },
+    {
+      "id": "d12333fb32a0d48eba889c66a7cb1f48",
+      "title": "Tạm giữ hình sự 5 nghi phạm giật dây chuyền ở Tân Huê Viên",
+      "link": "https://thanhnien.vn/tam-giu-hinh-su-5-nghi-pham-giat-day-chuyen-o-tan-hue-vien-185260315165815501.htm",
+      "summary": "Công an thành phố Cần Thơ đang tạm giữ hình sự 5 nghi phạm trong vụ giật dây chuyền ở Liên Hoa Bảo Tháp của Tân Huê Viên, trong đó xác định Huỳnh Thị Bích Thủy là người cầm đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:16:00+07:00",
+      "fetched": "2026-03-15T17:26:26.995977+07:00"
+    },
+    {
+      "id": "1c0c14fcf6e7b75b9e1c32bcceb06c9d",
+      "title": "5 mẫu xe máy điện giá dưới 15 triệu tại Việt Nam",
+      "link": "https://thanhnien.vn/5-mau-xe-may-dien-gia-duoi-15-trieu-tai-viet-nam-185260314104906134.htm",
+      "summary": "Với ngân sách chưa đến 15 triệu đồng, người Việt hiện vẫn có khá nhiều lựa chọn xe máy điện phục vụ nhu cầu di chuyển hằng ngày. Những mẫu xe này có thiết kế nhỏ gọn, chi phí vận hành thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:13:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996128+07:00"
+    },
+    {
+      "id": "9ba1f43e8f3552937c4a5f9b5fbe3ee2",
+      "title": "Ngày 16.3 AFC tuyên bố kết luận điều tra bê bối nhập tịch, các thành viên của FAM lo sốt vó",
+      "link": "https://thanhnien.vn/ngay-163-afc-tuyen-bo-ket-luan-dieu-tra-be-boi-nhap-tich-cac-thanh-vien-cua-fam-lo-sot-vo-185260315165848058.htm",
+      "summary": "Các tổ chức thành viên của Liên đoàn Bóng đá Malaysia (FAM) bày tỏ lo ngại về nguy cơ cơ quan này phải nhận thêm án phạt từ FIFA hoặc AFC liên quan đến bê bối làm giả giấy tờ của 7 cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:10:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996286+07:00"
+    },
+    {
+      "id": "a60221923266c83e2885137b4a0111ca",
+      "title": "Sự thật về công cụ đo tốc độ mạng mới trên Windows 11",
+      "link": "https://thanhnien.vn/su-that-ve-cong-cu-do-toc-do-mang-moi-tren-windows-11-185260313081535292.htm",
+      "summary": "Trải nghiệm thử công cụ đo tốc độ mạng mới của Microsoft trên Windows 11 và cái kết không thể thất vọng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:03:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996458+07:00"
+    },
+    {
+      "id": "c56ea11c456bfcaf40e72ed33051f1a4",
+      "title": "Xông vào tiệm vàng, cướp hơn 1,5 triệu USD trang sức trong 70 giây",
+      "link": "https://vnexpress.net/xong-vao-tiem-vang-cuop-hon-1-5-trieu-usd-trang-suc-trong-70-giay-5050683.html",
+      "summary": "Băng cướp gần 20 người đột nhập tiệm kim hoàn ở bang California, lấy đi số trang sức trị giá hơn 1,5 triệu USD chỉ trong khoảng 70 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:01:14+07:00",
+      "fetched": "2026-03-15T17:26:24.339943+07:00"
+    },
+    {
+      "id": "c56ea11c456bfcaf40e72ed33051f1a4",
+      "title": "Xông vào tiệm vàng, cướp hơn 1,5 triệu USD trang sức trong 70 giây",
+      "link": "https://vnexpress.net/xong-vao-tiem-vang-cuop-hon-1-5-trieu-usd-trang-suc-trong-70-giay-5050683.html",
+      "summary": "Băng cướp gần 20 người đột nhập tiệm kim hoàn ở bang California, lấy đi số trang sức trị giá hơn 1,5 triệu USD chỉ trong khoảng 70 giây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T10:01:14+07:00",
+      "fetched": "2026-03-15T17:26:29.843106+07:00"
+    },
+    {
+      "id": "68c05bbabc63466469fd06affa9c0cfb",
+      "title": "Toàn cảnh 17h: Người dân phấn khởi đi bầu cử, rộn ràng ‘ngày hội non sông’",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguoi-dan-phan-khoi-di-bau-cu-ron-rang-ngay-hoi-non-song-185260315161834451.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T10:00:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996625+07:00"
+    },
+    {
+      "id": "3565b1f9dec0f6bc74bd33448ec2aebd",
+      "title": "Xung đột Trung Đông ảnh hưởng thế nào đến ngành ô tô?",
+      "link": "https://thanhnien.vn/xung-dot-trung-dong-anh-huong-the-nao-den-nganh-o-to-185260315164505422.htm",
+      "summary": "Xung đột tại Trung Đông leo thang ảnh hưởng lan rộng đến ngành ô tô trên toàn cầu, tình trạng chậm trễ giao xe, thiếu linh kiện sản xuất bắt đầu xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:55:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996782+07:00"
+    },
+    {
+      "id": "78aa8ff66098a3df5558fa264152e19f",
+      "title": "Điểm tin 17h: Bước sang ngày 16 xung đột Trung Đông",
+      "link": "https://vnexpress.net/diem-tin-17h-buoc-sang-ngay-16-xung-dot-trung-dong-5050684.html",
+      "summary": "Tổng thống Mỹ dọa tiếp tục không kích đảo Kharg 'cho vui'; Vệ binh Iran đe dọa 'săn lùng' Thủ tướng Israel;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:53:59+07:00",
+      "fetched": "2026-03-15T17:26:24.340144+07:00"
+    },
+    {
+      "id": "a84ba3c4e6f63badab70d1496977ba09",
+      "title": "Pickleball: Lý Hoàng Nam cạnh tranh hấp dẫn với Triệu 'cầu lông'",
+      "link": "https://thanhnien.vn/pickleball-ly-hoang-nam-canh-tranh-hap-dan-voi-trieu-cau-long-185260315160817207.htm",
+      "summary": "Tính đến lúc này ở hạng mục nam VĐV xuất sắc nhất của giải thưởng Vietnam Pickleball Awards 2025, Lý Hoàng Nam và Trần Ngọc Triệu đang cạnh tranh khốc liệt trong giai đoạn nước rút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:52:00+07:00",
+      "fetched": "2026-03-15T17:26:26.996933+07:00"
+    },
+    {
+      "id": "8a9c3dfa88ca9bdae4d50f2e1296a660",
+      "title": "Xổ số miền Nam ngày 15 tháng 3: Hai người vừa trúng 2,1 tỉ đài Tiền Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-15-thang-3-hai-nguoi-vua-trung-21-ti-dai-tien-giang-185260315154731817.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 15 tháng 3, hai người trúng số đài Tiền Giang xuất hiện sớm, chia nhau 2,1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:46:00+07:00",
+      "fetched": "2026-03-15T17:26:26.997087+07:00"
+    },
+    {
+      "id": "7506eb3a07e4b68020f869389ce3b3b2",
+      "title": "Iran đe dọa trả đũa vì vụ Mỹ tấn công đảo Kharg",
+      "link": "https://thanhnien.vn/iran-de-doa-tra-dua-vi-vu-my-tan-cong-dao-kharg-1852603151632273.htm",
+      "summary": "Iran đe dọa sẽ leo thang cuộc chiến đang diễn ra ở Trung Đông bằng cách nhắm mục tiêu vào bất kỳ cơ sở nào trong khu vực có liên hệ với Mỹ, sau khi Washington ném bom trung tâm năng lượng chính của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:45:00+07:00",
+      "fetched": "2026-03-15T17:26:26.997238+07:00"
+    },
+    {
+      "id": "19ada9cde3d8307b9f04eb10617f6fa1",
+      "title": "Mang hòm phiếu đến nhà những cử tri đặc biệt: ‘Đúng là quyền lợi rất hân hạnh’",
+      "link": "https://thanhnien.vn/mang-hom-phieu-den-nha-nhung-cu-tri-dac-biet-dung-la-quyen-loi-rat-han-hanh-185260315160539584.htm",
+      "summary": "Trong ngày hội bầu cử đại biểu Quốc hội khóa XVI và HĐND các cấp nhiệm kỳ 2026 - 2031, bên cạnh những cử tri trực tiếp đến điểm bỏ phiếu, nhiều tổ bầu cử đã mang hòm phiếu đến tận nhà, giúp các cử tri đặc biệt vẫn có thể tự tay gửi gắm lá phiếu và niềm tin của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:39:00+07:00",
+      "fetched": "2026-03-15T17:26:26.997412+07:00"
+    },
+    {
+      "id": "8d33c76a53c00c0c93b73f4080c367e2",
+      "title": "Đường cấm ô tô tải có bao gồm xe tải van?",
+      "link": "https://thanhnien.vn/duong-cam-o-to-tai-co-bao-gom-xe-tai-van-185260314163558344.htm",
+      "summary": "Quy định về xe tải van kể từ năm 2025 đã có nhiều thay đổi theo Thông tư 53/2024/TT-BGTVT, tài xế cần nắm rõ để tránh bị xử phạt khi chạy vào đường cấm ô tô tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:33:00+07:00",
+      "fetched": "2026-03-15T17:26:26.997574+07:00"
+    },
+    {
+      "id": "c20a8f61b90449b7b4d4e7d1354a8b15",
+      "title": "Khoảnh khắc lửa bốc cháy từ căn hộ chung cư 25 tầng",
+      "link": "https://vnexpress.net/khoanh-khac-lua-boc-chay-tu-can-ho-chung-cu-25-tang-5050666.html",
+      "summary": "Lửa và khói đen bốc lên từ căn hộ tầng 7, block LB chung cư ở phường Bình Trưng, nhiều cư dân hoảng loạn thoát hiểm bằng thang bộ, trưa 15/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:28:32+07:00",
+      "fetched": "2026-03-15T17:26:24.340336+07:00"
+    },
+    {
+      "id": "5f906d38ba7f0a5b8475905182676842",
+      "title": "Bịt mặt, cầm hung khí vào phòng tập thể dục giật dây chuyền",
+      "link": "https://vnexpress.net/bit-mat-cam-hung-khi-vao-phong-tap-the-duc-giat-day-chuyen-5050673.html",
+      "summary": "Gã đàn ông đeo khẩu trang, mặt áo khoác trùm đầu, cầm hung khí đi vào phòng tập thể dục giật dây chuyền của người phụ nữ, bị chống trả nên bỏ chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:25:09+07:00",
+      "fetched": "2026-03-15T17:26:24.340509+07:00"
+    },
+    {
+      "id": "c695862df3eafee18cb03456365484ad",
+      "title": "Vệ binh Iran đe dọa 'săn lùng' Thủ tướng Israel",
+      "link": "https://vnexpress.net/ve-binh-iran-de-doa-san-lung-thu-tuong-israel-5050672.html",
+      "summary": "Vệ binh Cách mạng Hồi giáo Iran tuyên bố sẽ \"dốc sức truy lùng\" Thủ tướng Israel, đồng thời tăng cường tập kích căn cứ Mỹ ở Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:23:34+07:00",
+      "fetched": "2026-03-15T17:26:24.340698+07:00"
+    },
+    {
+      "id": "c695862df3eafee18cb03456365484ad",
+      "title": "Vệ binh Iran đe dọa 'săn lùng' Thủ tướng Israel",
+      "link": "https://vnexpress.net/ve-binh-iran-de-doa-san-lung-thu-tuong-israel-5050672.html",
+      "summary": "Vệ binh Cách mạng Hồi giáo Iran tuyên bố sẽ \"dốc sức truy lùng\" Thủ tướng Israel, đồng thời tăng cường tập kích căn cứ Mỹ ở Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T09:23:34+07:00",
+      "fetched": "2026-03-15T17:26:29.843335+07:00"
+    },
+    {
+      "id": "3de13ab7d890aaf171a31bcc73b65f52",
+      "title": "Bạn biết gì về 'đội quân vệ tinh' quanh Trái Đất?",
+      "link": "https://vnexpress.net/ban-biet-gi-ve-doi-quan-ve-tinh-quanh-trai-dat-5050658.html",
+      "summary": "Hàng nghìn vệ tinh quay quanh Trái Đất, giúp định vị, chụp ảnh, cung cấp Internet và dự báo thời tiết. Bạn hiểu \"đội quân\" này đến đâu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:13:38+07:00",
+      "fetched": "2026-03-15T17:26:24.340857+07:00"
+    },
+    {
+      "id": "3de13ab7d890aaf171a31bcc73b65f52",
+      "title": "Bạn biết gì về 'đội quân vệ tinh' quanh Trái Đất?",
+      "link": "https://vnexpress.net/ban-biet-gi-ve-doi-quan-ve-tinh-quanh-trai-dat-5050658.html",
+      "summary": "Hàng nghìn vệ tinh quay quanh Trái Đất, giúp định vị, chụp ảnh, cung cấp Internet và dự báo thời tiết. Bạn hiểu \"đội quân\" này đến đâu?",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-15T09:13:38+07:00",
+      "fetched": "2026-03-15T17:26:33.187124+07:00"
+    },
+    {
       "id": "429bb7e226627615a498e8b0f57b5533",
       "title": "Ngày hội toàn dân đi bầu cử 15-3: Chọn người tài đức, hành động quyết liệt để phát triển đất nước",
       "link": "https://tuoitre.vn/ngay-hoi-toan-dan-di-bau-cu-15-3-chon-nguoi-tai-duc-hanh-dong-quyet-liet-de-phat-trien-dat-nuoc-20260314230035439.htm",
@@ -413,6 +793,56 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T09:06:22.865026+07:00"
     },
     {
+      "id": "3225a398446f17c914a496e552835b6e",
+      "title": "Nhiễm trùng do đắp lá chữa gãy xương",
+      "link": "https://vnexpress.net/nhiem-trung-do-dap-la-chua-gay-xuong-5049518.html",
+      "summary": "Người đàn ông 46 tuổi đắp \"thuốc\" lá của thầy lang khiến vết gãy xương cổ chân biến chứng nhiễm trùng nặng, suýt phải cắt bỏ chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:00:00+07:00",
+      "fetched": "2026-03-15T17:26:24.341017+07:00"
+    },
+    {
+      "id": "2c468000f4ea2825347559a9a171bda9",
+      "title": "Khi nào cần khám viêm âm đạo trong thai kỳ?",
+      "link": "https://vnexpress.net/khi-nao-can-kham-viem-am-dao-trong-thai-ky-5050431.html",
+      "summary": "Tôi mang thai 25 tuần, gần đây có khí hư màu trắng, vón cục. Khi nào tôi cần đi khám? (Lan, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T09:00:00+07:00",
+      "fetched": "2026-03-15T17:26:24.341191+07:00"
+    },
+    {
+      "id": "c3a992c1e16c56e3ecdc9cbb9c6da763",
+      "title": "Thế khó của các lãnh đạo cánh hữu châu Âu giữa chiến sự Iran",
+      "link": "https://vnexpress.net/the-kho-cua-cac-lanh-dao-canh-huu-chau-au-giua-chien-su-iran-5050307.html",
+      "summary": "Các lãnh đạo cánh hữu châu Âu đang rơi vào thế tiến thoái lưỡng nan khi phải bảo vệ mối quan hệ với ông Trump trước làn sóng phản đối chiến sự Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:43:59+07:00",
+      "fetched": "2026-03-15T17:26:24.341374+07:00"
+    },
+    {
+      "id": "c3a992c1e16c56e3ecdc9cbb9c6da763",
+      "title": "Thế khó của các lãnh đạo cánh hữu châu Âu giữa chiến sự Iran",
+      "link": "https://vnexpress.net/the-kho-cua-cac-lanh-dao-canh-huu-chau-au-giua-chien-su-iran-5050307.html",
+      "summary": "Các lãnh đạo cánh hữu châu Âu đang rơi vào thế tiến thoái lưỡng nan khi phải bảo vệ mối quan hệ với ông Trump trước làn sóng phản đối chiến sự Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T08:43:59+07:00",
+      "fetched": "2026-03-15T17:26:29.843520+07:00"
+    },
+    {
+      "id": "c750a56ddba728ee24a4d014cf1a769a",
+      "title": "Sức hút của người mẫu gốc Hàn cao 1,78 m",
+      "link": "https://vnexpress.net/suc-hut-cua-nguoi-mau-goc-han-cao-1-78-m-5046321.html",
+      "summary": "Irene Kim, 39 tuổi, đắt show sự kiện, cộng tác loạt thương hiệu xa xỉ nhờ thần thái, gương mặt Á Đông, cách phối đồ tôn chiều cao 1,78 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:37:58+07:00",
+      "fetched": "2026-03-15T17:26:24.341533+07:00"
+    },
+    {
       "id": "c86dbfd66d7f84e580c7dbea6f77460d",
       "title": "Xuân Son lần đầu đi bầu cử ở Việt Nam: ‘Tôi vô cùng tự hào’",
       "link": "https://thanhnien.vn/xuan-son-lan-dau-di-bau-cu-o-viet-nam-toi-vo-cung-tu-hao-185260315153119167.htm",
@@ -451,6 +881,26 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T08:24:00+07:00",
       "fetched": "2026-03-15T15:33:31.227927+07:00"
+    },
+    {
+      "id": "2884878274dcdbed9f9a8184cf854441",
+      "title": "Xuân Son, Hoàng Hên đi bầu cử",
+      "link": "https://vnexpress.net/xuan-son-hoang-hen-di-bau-cu-5050660.html",
+      "summary": "Các cầu thủ nhập tịch và Việt kiều cảm thấy có trách nhiệm khi đi bầu cử Quốc hội khóa 16 và đại biểu HĐND các cấp nhiệm kỳ 2026-2031.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T08:19:54+07:00",
+      "fetched": "2026-03-15T17:26:24.341703+07:00"
+    },
+    {
+      "id": "2884878274dcdbed9f9a8184cf854441",
+      "title": "Xuân Son, Hoàng Hên đi bầu cử",
+      "link": "https://vnexpress.net/xuan-son-hoang-hen-di-bau-cu-5050660.html",
+      "summary": "Các cầu thủ nhập tịch và Việt kiều cảm thấy có trách nhiệm khi đi bầu cử Quốc hội khóa 16 và đại biểu HĐND các cấp nhiệm kỳ 2026-2031.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T08:19:54+07:00",
+      "fetched": "2026-03-15T17:26:34.797772+07:00"
     },
     {
       "id": "57bdfea79b66e2c05fcf5b5e2a36d580",
