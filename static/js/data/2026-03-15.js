@@ -1,7 +1,117 @@
 window.newsData_2026_03_15 = {
   "date": "2026-03-15",
-  "lastUpdated": "2026-03-15T21:27:38.737337+07:00",
+  "lastUpdated": "2026-03-15T23:29:02.625097+07:00",
   "articles": [
+    {
+      "id": "800dd97f6437694ea481672b3e37c41d",
+      "title": "Gần 97% cử tri TP.HCM đã bỏ phiếu bầu cử, 31 xã phường đạt 100%",
+      "link": "https://tuoitre.vn/gan-97-cu-tri-tp-hcm-da-bo-phieu-bau-cu-31-xa-phuong-dat-100-20260315201323158.htm",
+      "summary": "Tính đến 19h ngày 15-3, là mốc thời gian kết thúc bỏ phiếu theo lịch chung, hầu hết cử tri TP.HCM bỏ phiếu bầu cử, không có khu vực nào có tỉ lệ cử tri đi bầu dưới 50%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864775+07:00",
+      "fetched": "2026-03-15T23:28:54.864890+07:00"
+    },
+    {
+      "id": "725c42a612aa501b386cd0270657e000",
+      "title": "Giá vàng đã giảm mạnh so với đỉnh, giới chuyên gia nhận định gì?",
+      "link": "https://tuoitre.vn/gia-vang-da-giam-manh-so-voi-dinh-gioi-chuyen-gia-nhan-dinh-gi-20260315201720528.htm",
+      "summary": "Từ mức trên 5.500 USD/ounce cuối tháng 1, giá vàng đã giảm về ngưỡng 5.019,7 USD/ounce cuối tuần qua. Gần đây, có hai lần giá vàng thế giới vượt mức 5.200 USD/ounce nhưng sau đó đều giảm rất mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864645+07:00",
+      "fetched": "2026-03-15T23:28:54.864763+07:00"
+    },
+    {
+      "id": "c49752044a5dfe3960f6039fa275fecc",
+      "title": "Hàng chục ô tô chạy trên cao tốc TP.HCM - Long Thành không bật xi nhan khi chuyển làn bị xử lý",
+      "link": "https://tuoitre.vn/hang-chuc-o-to-chay-tren-cao-toc-tp-hcm-long-thanh-khong-bat-xi-nhan-khi-chuyen-lan-bi-xu-ly-20260315202811751.htm",
+      "summary": "Tối 15-3, lãnh đạo Đội cảnh sát giao thông đường bộ cao tốc số 6 cho biết trong hôm nay đã ghi nhận 12 trường hợp ô tô vi phạm 'chuyển làn không có tín hiệu báo trước' khi chạy trên cao tốc TP.HCM - Long Thành - Dầu Giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864496+07:00",
+      "fetched": "2026-03-15T23:28:54.864632+07:00"
+    },
+    {
+      "id": "65e4428210a9126a90f09786a50ef556",
+      "title": "Bóng bàn Trung Quốc thua ê chề tại giải đấu danh giá,  ngay trên sân nhà",
+      "link": "https://tuoitre.vn/bong-ban-trung-quoc-thua-e-che-tai-giai-dau-danh-gia-ngay-tren-san-nha-20260315201222537.htm",
+      "summary": "Dù được thi đấu trên sân nhà, các tay vợt hàng đầu Trung Quốc lại trắng tay ở WTT Champions Trùng Khánh, giải đấu lớn nhất của làng bóng bàn đỉnh cao trong tháng 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864362+07:00",
+      "fetched": "2026-03-15T23:28:54.864484+07:00"
+    },
+    {
+      "id": "ab50d176f13342c280a8b4a698236a63",
+      "title": "Một ngày bảo vệ 'ngày hội toàn dân' của công an cơ sở tại TP.HCM",
+      "link": "https://tuoitre.vn/mot-ngay-bao-ve-ngay-hoi-toan-dan-cua-cong-an-co-so-tai-tp-hcm-2026031516493021.htm",
+      "summary": "Trong những ngày qua, lực lượng Công an TP.HCM đã tăng cường bám địa bàn, triển khai đồng bộ các biện pháp nghiệp vụ, phối hợp với các lực lượng chức năng bảo đảm an ninh trật tự, góp phần để ngày hội toàn dân diễn ra an toàn, trang nghiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864236+07:00",
+      "fetched": "2026-03-15T23:28:54.864350+07:00"
+    },
+    {
+      "id": "940f579589dd7ca7bf0258eacd4f6eb7",
+      "title": "Dùng súng bắn chết vợ rồi đâm một người khác tử vong: Nghi can được phát hiện đã tử vong trong ô tô",
+      "link": "https://tuoitre.vn/dung-sung-ban-chet-vo-roi-dam-mot-nguoi-khac-tu-vong-nghi-can-duoc-phat-hien-da-tu-vong-trong-o-to-20260315203643464.htm",
+      "summary": "Đến 18h40 ngày 15-3, cảnh sát phát hiện nghi can Nguyễn Xuân Thăng tử vong trong xe ô tô tại khu vực thôn Bắc Dũng, xã Trà Giang, Hưng Yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.864090+07:00",
+      "fetched": "2026-03-15T23:28:54.864223+07:00"
+    },
+    {
+      "id": "c2a80a5dca63633e60b466631a75ebd6",
+      "title": "Vợ chồng Hoàng tử Harry vướng nhiều cáo buộc gây sốc",
+      "link": "https://tuoitre.vn/vo-chong-hoang-tu-harry-vuong-nhieu-cao-buoc-gay-soc-20260315202157912.htm",
+      "summary": "Hoàng tử Harry và Meghan Markle lên tiếng đáp trả những trích đoạn từ một cuốn sách mới về hoàng gia, trong đó đưa ra nhiều cáo buộc gây chấn động liên quan đến họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.863961+07:00",
+      "fetched": "2026-03-15T23:28:54.864078+07:00"
+    },
+    {
+      "id": "a47ef472b3dceed822ff1b253fb4bc27",
+      "title": "Video: VAR can thiệp giúp Công An TP.HCM thoát 1 bàn thua",
+      "link": "https://tuoitre.vn/video-var-can-thiep-giup-cong-an-tp-hcm-thoat-1-ban-thua-20260315205713323.htm",
+      "summary": "Trong trận đấu với PVF-CAND, lưới của Công An TP.HCM sớm rung lên ngay phút thứ 10. Tuy nhiên các trọng tài VAR đã can thiệp chính xác, giúp đội chủ nhà thoát được một bàn thua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.863828+07:00",
+      "fetched": "2026-03-15T23:28:54.863948+07:00"
+    },
+    {
+      "id": "7fef9c94a3186674555709f452eec578",
+      "title": "Ukraine mong bán drone được 50 tỉ USD",
+      "link": "https://tuoitre.vn/ukraine-mong-ban-drone-duoc-50-ti-usd-20260315213614138.htm",
+      "summary": "Tổng thống Ukraine nói muốn bán drone cho các nước Trung Đông để lấy tiền và công nghệ, băn khoăn không hiểu vì sao Mỹ không chịu thỏa thuận mua drone trị giá 50 tỉ USD từ nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.863689+07:00",
+      "fetched": "2026-03-15T23:28:54.863815+07:00"
+    },
+    {
+      "id": "1b25f11cf563faa0a45250d20a98d88a",
+      "title": "Thể Công - Viettel phả hơi nóng sau lưng CLB Công An Hà Nội",
+      "link": "https://tuoitre.vn/the-cong-viettel-pha-hoi-nong-sau-lung-clb-cong-an-ha-noi-20260315215447512.htm",
+      "summary": "Tối 15-3, CLB Thể Công - Viettel thắng Hải Phòng 1-0 để duy trì thế bám đuổi đội đầu bảng Công An Hà Nội trên bảng xếp hạng LPBank V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.863501+07:00",
+      "fetched": "2026-03-15T23:28:54.863675+07:00"
+    },
+    {
+      "id": "202c9d795d7f76bf8fe2ad69a4f99b82",
+      "title": "Iran nói lãnh tụ Khamenei khỏe mạnh, bắt hàng chục người nghi cung cấp tin cho Israel",
+      "link": "https://tuoitre.vn/iran-noi-lanh-tu-khamenei-khoe-manh-bat-hang-chuc-nguoi-nghi-cung-cap-tin-cho-israel-20260315220410112.htm",
+      "summary": "Ngoại trưởng Iran khẳng định lãnh tụ tối cao hoàn toàn khỏe mạnh, giữa lúc nước này bắt hàng chục người nghi là cung cấp tin nhạy cảm cho Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T23:28:54.863245+07:00",
+      "fetched": "2026-03-15T23:28:54.863483+07:00"
+    },
     {
       "id": "bad57dedf27206824b6c8407f2b73a4e",
       "title": "TP.HCM: Thùng phiếu lưu động đến với những cử tri 'đặc biệt'",
@@ -433,6 +543,96 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T17:26:28.237528+07:00"
     },
     {
+      "id": "4e7dfcb8d80ba150f55cf403d75ee29e",
+      "title": "Highlight tứ kết đội tuyển nữ Nhật Bản 7-0 Philippines: Sức mạnh hủy diệt",
+      "link": "https://thanhnien.vn/highlight-tu-ket-doi-tuyen-nu-nhat-ban-7-0-philippines-suc-manh-huy-diet-185260315232204518.htm",
+      "summary": "Đội tuyển nữ Nhật Bản phô diễn sức mạnh vượt trội khi vùi dập Philippines với tỷ số 7-0 ở tứ kết, tạo nên màn trình diễn tấn công hủy diệt và khẳng định vị thế ứng viên vô địch. Các cô gái xứ mặt trời mọc hoàn toàn áp đảo, liên tục ghi bàn và không cho đối thủ bất kỳ cơ hội phản kháng nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T16:21:00+07:00",
+      "fetched": "2026-03-15T23:28:53.964637+07:00"
+    },
+    {
+      "id": "298a41e076808189f9c7d8391c4b51a7",
+      "title": "AFC lại bị chê trách dữ dội vì có dấu hiệu ‘chống lại’ CAS và FIFA: ‘Cứ như trò đùa’",
+      "link": "https://thanhnien.vn/afc-lai-bi-che-trach-du-doi-vi-co-dau-hieu-chong-lai-cas-va-fifa-cu-nhu-tro-dua-185260315230633221.htm",
+      "summary": "Bê bối nhập tịch của bóng đá Malaysia tiếp tục gây tranh cãi khi một nhà bình luận nổi tiếng cho rằng cách xử lý của AFC và FAM đang làm rối loạn luật bóng đá và có thể ảnh hưởng đến tính công bằng ở các giải đấu khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T16:18:00+07:00",
+      "fetched": "2026-03-15T23:28:53.964813+07:00"
+    },
+    {
+      "id": "c68b587843df7d5b0c0fae3b67f4fc47",
+      "title": "Thống kê đặc biệt tại vòng bảng giải bóng đá Thanh Niên sinh viên Việt Nam",
+      "link": "https://thanhnien.vn/thong-ke-dac-biet-tai-vong-bang-giai-bong-da-thanh-nien-sinh-vien-viet-nam-185260315230325152.htm",
+      "summary": "Sau 9 ngày tranh tài sôi nổi từ 7.3 đến 15.3 tại sân vận động Trường ĐH Nha Trang, vòng bảng giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) đã khép lại với những diễn biến đầy kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T16:13:00+07:00",
+      "fetched": "2026-03-15T23:28:53.964972+07:00"
+    },
+    {
+      "id": "66e09348863478390832b5492fca3a19",
+      "title": "VAR gây tranh cãi, M.U đánh bại Aston Villa trận 'đại chiến' tốp 3",
+      "link": "https://thanhnien.vn/var-gay-tranh-cai-mu-danh-bai-aston-villa-tran-dai-chien-top-3-185260315230637729.htm",
+      "summary": "Đêm 15.3, M.U có trận thắng 3-1 trước Aston Villa ở vòng 31 Ngoại hạng Anh 2025 - 2026, qua đó tiếp tục củng cố vị trí thứ 3 trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T16:12:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965124+07:00"
+    },
+    {
+      "id": "2ca4639dc784b5c0c5de52f45e61e078",
+      "title": "Hà Nội dự kiến phát triển 2 trung tâm tài chính",
+      "link": "https://vnexpress.net/ha-noi-du-kien-phat-trien-2-trung-tam-tai-chinh-5050616.html",
+      "summary": "Thủ đô dự kiến hình thành trung tâm tài chính với hai hợp phần, gồm trung tâm tài chính Hoàn Kiếm và tại trục Nhật Tân - Nội Bài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T16:00:46+07:00",
+      "fetched": "2026-03-15T23:28:50.729903+07:00"
+    },
+    {
+      "id": "2ca4639dc784b5c0c5de52f45e61e078",
+      "title": "Hà Nội dự kiến phát triển 2 trung tâm tài chính",
+      "link": "https://vnexpress.net/ha-noi-du-kien-phat-trien-2-trung-tam-tai-chinh-5050616.html",
+      "summary": "Thủ đô dự kiến hình thành trung tâm tài chính với hai hợp phần, gồm trung tâm tài chính Hoàn Kiếm và tại trục Nhật Tân - Nội Bài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-15T16:00:46+07:00",
+      "fetched": "2026-03-15T23:28:58.368478+07:00"
+    },
+    {
+      "id": "8d4b89c2f054de914efc23923e14b83e",
+      "title": "Man Utd thắng Aston Villa, vững vàng trong Top 3",
+      "link": "https://vnexpress.net/man-utd-thang-aston-villa-vung-vang-trong-top-3-5050734.html",
+      "summary": "Tiền vệ Bruno Fernandes kiến tạo hai bàn giúp Man Utd thắng đội khách Aston Villa 3-1, trong \"trận cầu 6 điểm\" ở vòng 30 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:56:45+07:00",
+      "fetched": "2026-03-15T23:28:50.730122+07:00"
+    },
+    {
+      "id": "5fa12563ad4164756b67089084d3d42a",
+      "title": "HLV Huỳnh Đức: 'Tôi cũng muốn để Tiến Linh dự bị mà hết tiền đạo'",
+      "link": "https://vnexpress.net/hlv-huynh-duc-toi-cung-muon-de-tien-linh-du-bi-ma-het-tien-dao-5050741.html",
+      "summary": "Dù tiền đạo Nguyễn Tiến Linh sa sút, HLV Lê Huỳnh Đức không thể không sử dụng vì CA TP HCM thiếu phương án thay thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:34:36+07:00",
+      "fetched": "2026-03-15T23:28:50.730307+07:00"
+    },
+    {
+      "id": "5fa12563ad4164756b67089084d3d42a",
+      "title": "HLV Huỳnh Đức: 'Tôi cũng muốn để Tiến Linh dự bị mà hết tiền đạo'",
+      "link": "https://vnexpress.net/hlv-huynh-duc-toi-cung-muon-de-tien-linh-du-bi-ma-het-tien-dao-5050741.html",
+      "summary": "Dù tiền đạo Nguyễn Tiến Linh sa sút, HLV Lê Huỳnh Đức không thể không sử dụng vì CA TP HCM thiếu phương án thay thế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T15:34:36+07:00",
+      "fetched": "2026-03-15T23:29:02.612322+07:00"
+    },
+    {
       "id": "615c0da9e81692f428736b6dda201fe8",
       "title": "Tuần tới nhiều doanh nghiệp 'mở két' trả cổ tức tiền mặt, cao nhất 88%",
       "link": "https://tuoitre.vn/tuan-toi-nhieu-doanh-nghiep-mo-ket-tra-co-tuc-tien-mat-cao-nhat-88-20260315120315406.htm",
@@ -533,6 +733,166 @@ window.newsData_2026_03_15 = {
       "fetched": "2026-03-15T15:33:31.904808+07:00"
     },
     {
+      "id": "11dc7209544d7b624ee934cdf3f77b23",
+      "title": "Tỷ lệ cử tri đi bỏ phiếu đạt 99,38%",
+      "link": "https://vnexpress.net/ty-le-cu-tri-di-bo-phieu-dat-99-38-5050731.html",
+      "summary": "Đến 20h, tỷ lệ cử tri cả nước đi bầu cử đạt trên 99% trong đó Lào Cai và Huế là hai địa phương có 100% cử tri đi bầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:25:44+07:00",
+      "fetched": "2026-03-15T23:28:50.730474+07:00"
+    },
+    {
+      "id": "c855b9845db8bfda27f4f31ede9949f3",
+      "title": "Cả nước đã có hơn 76 triệu cử tri đi bỏ phiếu, đạt tỷ lệ  99,38%",
+      "link": "https://thanhnien.vn/ca-nuoc-da-co-hon-76-trieu-cu-tri-di-bo-phieu-dat-ty-le-9938-185260315201105994.htm",
+      "summary": "Tổng số cử tri của cả nước đã tham gia bỏ phiếu là 76.043.527, đạt tỷ lệ 99,38%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:23:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965276+07:00"
+    },
+    {
+      "id": "9e27fbf7f28f4b2bef6e290f0b2c7ab0",
+      "title": "Thần đồng billiards Hàn Quốc vô địch với tiền thưởng 3,5 tỉ đồng, chỉ thua 1 trận trước cơ thủ Việt Nam",
+      "link": "https://thanhnien.vn/than-dong-billiards-han-quoc-vo-dich-voi-tien-thuong-35-ti-dong-chi-thua-1-tran-truoc-co-thu-viet-nam-185260315220934116.htm",
+      "summary": "Thần đồng billiards 19 tuổi người Hàn Quốc có màn trình diễn ấn tượng ở trận chung kết, qua đó đăng quang thuyết phục giải PBA World Championship 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:20:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965430+07:00"
+    },
+    {
+      "id": "7288d10be16f1ca1f907fe5b58cb42ef",
+      "title": "Tân HLV Trần Tiến Đại chấp nhận thua nhưng không đổ lỗi, HLV Huỳnh Đức tiết lộ 'sốc' về Tiến Linh",
+      "link": "https://thanhnien.vn/tan-hlv-tran-tien-dai-chap-nhan-thua-nhung-khong-do-loi-hlv-huynh-duc-tiet-lo-soc-ve-tien-linh-18526031522064801.htm",
+      "summary": "HLV Lê Huỳnh Đức cho rằng Tiến Linh đang gặp áp lực tâm lý, dẫn tới chuỗi trận không ghi bàn trong màu áo CLB Công an TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:16:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965596+07:00"
+    },
+    {
+      "id": "c0249696c1317b24cc587ff91d69226b",
+      "title": "Iran nói chỉ cấm tàu Mỹ, Israel qua eo biển Hormuz",
+      "link": "https://thanhnien.vn/iran-noi-chi-cam-tau-my-israel-qua-eo-bien-hormuz-185260315190259501.htm",
+      "summary": "Ngoại trưởng Iran Abbas Araghchi cho biết eo biển Hormuz vẫn mở cửa trên thực tế và Iran để tàu của mọi quốc gia đi qua, trừ Mỹ và Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:04:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965755+07:00"
+    },
+    {
+      "id": "50cf83abf04a402b0af3c8bb62d57ba9",
+      "title": "Israel đang cạn tên lửa đánh chặn đòn trả đũa từ Iran?",
+      "link": "https://thanhnien.vn/israel-dang-can-ten-lua-danh-chan-don-tra-dua-tu-iran-185260315192526855.htm",
+      "summary": "Israel được cho là đang sắp cạn kiệt tên lửa đánh chặn giữa lúc chiến sự căng thẳng với Iran tại khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:00:00+07:00",
+      "fetched": "2026-03-15T23:28:53.965913+07:00"
+    },
+    {
+      "id": "7aa244df5d36ce42f784782e00a62c5e",
+      "title": "Những kiểu quần giúp nàng 'hack' tuổi, sở hữu tủ đồ trẻ trung hơn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-kieu-quan-giup-nang-hack-tuoi-so-huu-tu-do-tre-trung-hon-185260315144311751.htm",
+      "summary": "Môi trường làm việc và giao tiếp ngày càng cởi mở và linh hoạt, thời trang cũng dần thoát khỏi những khuôn mẫu cứng nhắc của những mẫu quần đơn thuần, cổ điển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T15:00:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966074+07:00"
+    },
+    {
+      "id": "97b327c976708223d49de0dc12874026",
+      "title": "AFC sắp công bố kết luận điều tra bóng đá Malaysia, các tổ chức thành viên FAM lo nguy cơ án phạt mới",
+      "link": "https://thanhnien.vn/afc-sap-cong-bo-ket-luan-dieu-tra-bong-da-malaysia-cac-to-chuc-thanh-vien-fam-lo-nguy-co-an-phat-moi-185260315212706408.htm",
+      "summary": "Các tổ chức thành viên của Liên đoàn Bóng đá Malaysia (FAM) tỏ ra lo ngại trước khả năng cơ quan này tiếp tục bị AFC hoặc FIFA trừng phạt sau bê bối làm giả giấy tờ của 7 cầu thủ nhập tịch. Kết luận điều tra của AFC dự kiến công bố ngày 16.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:58:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966233+07:00"
+    },
+    {
+      "id": "2439ba91d8db36fe6c9e60034fcb2da0",
+      "title": "Dư luận Malaysia kêu gọi điều tra chủ mưu phía sau bê bối làm giả giấy tờ nhập tịch",
+      "link": "https://thanhnien.vn/du-luan-malaysia-keu-goi-dieu-tra-chu-muu-phia-sau-be-boi-lam-gia-giay-to-nhap-tich-185260315213509686.htm",
+      "summary": "Bê bối làm giả giấy tờ nhập tịch của 7 cầu thủ tiếp tục gây tranh cãi tại Malaysia. Lãnh đạo Hiệp hội Bóng đá người Hoa Malaysia (MCFA) kêu gọi điều tra người đứng sau vụ việc, cho rằng kẻ chủ mưu phải bị coi là tội phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:57:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966384+07:00"
+    },
+    {
+      "id": "f2347494db4eeab27aece3e5949f18a2",
+      "title": "Highlight CLB Bắc Ninh 2-3 TP.HCM: Mưa bàn thắng",
+      "link": "https://thanhnien.vn/highlight-clb-bac-ninh-2-3-tphcm-mua-ban-thang-185260315215520561.htm",
+      "summary": "Cuộc đối đầu giữa CLB Bắc Ninh và TP.HCM diễn ra cởi mở với cơn mưa bàn thắng hấp dẫn, khi hai đội liên tục ăn miếng trả miếng trước khi đội khách TP.HCM giành chiến thắng kịch tính 3-2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:55:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966536+07:00"
+    },
+    {
+      "id": "6c5c0bcb5a0cc48058505c4ed983e838",
+      "title": "Highlight CLB Trẻ PVF-CAND 2-1 Long An: Rượt đuổi hấp dẫn",
+      "link": "https://thanhnien.vn/highlight-clb-tre-pvf-cand-2-1-long-an-ruot-duoi-hap-dan-185260315215243218.htm",
+      "summary": "Trận đấu giữa CLB Trẻ PVF-CAND và Long An diễn ra sôi nổi với thế trận rượt đuổi hấp dẫn, trước khi đội chủ nhà tận dụng tốt cơ hội để giành chiến thắng 2-1 đầy kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:52:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966714+07:00"
+    },
+    {
+      "id": "922fbe7e56304151251e19da73ad57bd",
+      "title": "Brooklyn Beckham dự sinh nhật mẹ vợ",
+      "link": "https://vnexpress.net/brooklyn-beckham-du-sinh-nhat-me-vo-5050705.html",
+      "summary": "Brooklyn Beckham xuất hiện tại tiệc sinh nhật của mẹ vợ, chụp ảnh thân thiết giữa lúc mâu thuẫn với gia đình ruột thịt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:49:57+07:00",
+      "fetched": "2026-03-15T23:28:50.730660+07:00"
+    },
+    {
+      "id": "931a5eef3f56c1f91f9778bb86e0dad9",
+      "title": "Highlight CLB Công an TP.HCM 1-0 PVF-CAND: Khoa Ngô tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-1-0-pvf-cand-khoa-ngo-toa-sang-185260315214728301.htm",
+      "summary": "Bàn thắng duy nhất của Việt kiều Ngô Đăng Khoa (Khoa Ngô) đã giúp CLB Công an TP.HCM vượt qua PVF-CAND với tỷ số 1-0 trong trận đấu thuộc vòng 16 V-League 2025–2026, diễn ra lúc 19 giờ 15 ngày 15.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:47:00+07:00",
+      "fetched": "2026-03-15T23:28:53.966866+07:00"
+    },
+    {
+      "id": "6e48508cf13a472735168f7786ca5db9",
+      "title": "Iran lần đầu phóng 'tên lửa siêu nặng' trong chiến dịch trả đũa Mỹ - Israel",
+      "link": "https://vnexpress.net/iran-lan-dau-phong-ten-lua-sieu-nang-trong-chien-dich-tra-dua-my-israel-5050719.html",
+      "summary": "Iran thông báo khai hỏa loạt tên lửa nhằm vào các mục tiêu ở Israel, trong đó lần đầu sử dụng mẫu Sejjil kể từ khi xung đột bùng phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:41:16+07:00",
+      "fetched": "2026-03-15T23:28:50.730827+07:00"
+    },
+    {
+      "id": "6e48508cf13a472735168f7786ca5db9",
+      "title": "Iran lần đầu phóng 'tên lửa siêu nặng' trong chiến dịch trả đũa Mỹ - Israel",
+      "link": "https://vnexpress.net/iran-lan-dau-phong-ten-lua-sieu-nang-trong-chien-dich-tra-dua-my-israel-5050719.html",
+      "summary": "Iran thông báo khai hỏa loạt tên lửa nhằm vào các mục tiêu ở Israel, trong đó lần đầu sử dụng mẫu Sejjil kể từ khi xung đột bùng phát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-15T14:41:16+07:00",
+      "fetched": "2026-03-15T23:28:56.365674+07:00"
+    },
+    {
+      "id": "ffab016dd4eb06f2a3760f4d1171415c",
+      "title": "Nguyên Phó chủ tịch nước Nguyễn Thị Bình muốn chọn đại biểu chất lượng",
+      "link": "https://vnexpress.net/nguyen-pho-chu-tich-nuoc-nguyen-thi-binh-muon-chon-dai-bieu-chat-luong-5050721.html",
+      "summary": "Ở tuổi 99, nguyên Phó chủ tịch nước Nguyễn Thị Bình tham gia bỏ phiếu tại Bệnh viện Trung ương Quân đội 108, kỳ vọng cuộc bầu cử sẽ lựa chọn được những đại biểu có năng lực, góp phần phát triển đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:29:59+07:00",
+      "fetched": "2026-03-15T23:28:50.730988+07:00"
+    },
+    {
       "id": "b5ac65dff58c823977236b49882371ed",
       "title": "Mới: Trận Finalissima giữa Tây Ban Nha và Argentina chính thức bị hủy, Messi lỡ hẹn Yamal",
       "link": "https://thanhnien.vn/moi-tran-finalissima-giua-tay-ban-nha-va-argentina-chinh-thuc-bi-huy-messi-lo-hen-yamal-185260315212444703.htm",
@@ -541,6 +901,26 @@ window.newsData_2026_03_15 = {
       "category": "Tổng hợp",
       "published": "2026-03-15T14:27:00+07:00",
       "fetched": "2026-03-15T21:27:28.833433+07:00"
+    },
+    {
+      "id": "f133f85c20f18128d45550ae1c9b975a",
+      "title": "Hủy trận Messi - Yamal vì xung đột Trung Đông",
+      "link": "https://vnexpress.net/huy-tran-messi-yamal-vi-xung-dot-trung-dong-5050726.html",
+      "summary": "LĐBĐ châu Âu (UEFA) thông báo hủy trận Siêu cup Liên lục địa 2026 giữa Tây Ban Nha và Argentina, do các bên không thống nhất được địa điểm thay thế Qatar.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T14:26:39+07:00",
+      "fetched": "2026-03-15T23:28:50.731154+07:00"
+    },
+    {
+      "id": "f133f85c20f18128d45550ae1c9b975a",
+      "title": "Hủy trận Messi - Yamal vì xung đột Trung Đông",
+      "link": "https://vnexpress.net/huy-tran-messi-yamal-vi-xung-dot-trung-dong-5050726.html",
+      "summary": "LĐBĐ châu Âu (UEFA) thông báo hủy trận Siêu cup Liên lục địa 2026 giữa Tây Ban Nha và Argentina, do các bên không thống nhất được địa điểm thay thế Qatar.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T14:26:39+07:00",
+      "fetched": "2026-03-15T23:29:02.612521+07:00"
     },
     {
       "id": "15dd10380ef7c264b841fbc511186da9",
