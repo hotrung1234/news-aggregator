@@ -1,6 +1,6 @@
 window.newsData_2026_03_16 = {
   "date": "2026-03-16",
-  "lastUpdated": "2026-03-16T01:34:52.635790+07:00",
+  "lastUpdated": "2026-03-16T03:26:04.236043+07:00",
   "articles": [
     {
       "id": "65e4428210a9126a90f09786a50ef556",
@@ -151,6 +151,26 @@ window.newsData_2026_03_16 = {
       "category": "Tổng hợp",
       "published": "2026-03-16T01:34:45.653271+07:00",
       "fetched": "2026-03-16T01:34:45.653477+07:00"
+    },
+    {
+      "id": "7d6c77954bfc7335e3b4a7b3177bd3eb",
+      "title": "Tottenham níu chân Liverpool",
+      "link": "https://vnexpress.net/tottenham-niu-chan-liverpool-5050756.html",
+      "summary": "Richarlison ghi bàn phút cuối giúp Tottenham hòa Liverpool 1-1 ở vòng 30 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-15T19:36:33+07:00",
+      "fetched": "2026-03-16T03:26:04.231265+07:00"
+    },
+    {
+      "id": "76c3e4b383eb5b81a1cfd6b5951718e8",
+      "title": "Những lợi ích sức khỏe của vitamin A",
+      "link": "https://vnexpress.net/nhung-loi-ich-suc-khoe-cua-vitamin-a-5050428.html",
+      "summary": "Vitamin A là một loại vitamin tan trong chất béo quan trọng, hỗ trợ hệ miễn dịch, thị lực, sức khỏe sinh sản và sự phát triển của thai nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-15T19:00:00+07:00",
+      "fetched": "2026-03-16T03:25:56.048392+07:00"
     },
     {
       "id": "712378e6d1db88df541fd7a1875f4883",
