@@ -1,7 +1,157 @@
 window.newsData_2026_03_16 = {
   "date": "2026-03-16",
-  "lastUpdated": "2026-03-16T14:12:44.175941+07:00",
+  "lastUpdated": "2026-03-16T15:53:18.197624+07:00",
   "articles": [
+    {
+      "id": "17db705da0e5914704be03bec6769741",
+      "title": "Hoài Linh và Sân khấu Mới đưa kịch dài ra Đà Nẵng",
+      "link": "https://tuoitre.vn/hoai-linh-va-san-khau-moi-dua-kich-dai-ra-da-nang-20260316123504646.htm",
+      "summary": "Vào hai đêm 28 và 29-3, nghệ sĩ Hoài Linh và các diễn viên Sân khấu Mới (TP.HCM) sẽ phục vụ bà con Đà Nẵng vở kịch dài Ra giêng cho cưới hôn?.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.101635+07:00",
+      "fetched": "2026-03-16T15:53:13.101768+07:00"
+    },
+    {
+      "id": "bb10502bfd0e1b07999c8da8d649c13c",
+      "title": "Thủ tục 7 bước với 132 ngày để làm dự án nhà ở xã hội tại TP.HCM",
+      "link": "https://tuoitre.vn/thu-tuc-7-buoc-voi-132-ngay-de-lam-du-an-nha-o-xa-hoi-tai-tp-hcm-20260316123309908.htm",
+      "summary": "UBND TP.HCM vừa chỉ đạo thống nhất trình tự thủ tục làm dự án nhà ở xã hội gồm 7 bước (132 ngày đối với dự án tư nhân) và 8 bước (122 ngày đối với dự án vốn đầu tư công).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.101492+07:00",
+      "fetched": "2026-03-16T15:53:13.101624+07:00"
+    },
+    {
+      "id": "065047c754fe017c5e5892dd66d0dbef",
+      "title": "Ông Trump tuyên bố sẽ áp thuế quan theo hình thức khác",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-se-ap-thue-quan-theo-hinh-thuc-khac-20260316121905853.htm",
+      "summary": "Ông Trump khẳng định có quyền 'tuyệt đối' để áp thuế theo hình thức khác và đã bắt đầu hành động, bất chấp phán quyết của Tòa án tối cao Mỹ vào tháng trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.101367+07:00",
+      "fetched": "2026-03-16T15:53:13.101481+07:00"
+    },
+    {
+      "id": "e92ea96d18085ef3abdbf13038b2199f",
+      "title": "Việt Nam - Trung Quốc lần đầu đối thoại chiến lược 3+3, tăng cường chia sẻ thông tin an ninh",
+      "link": "https://tuoitre.vn/viet-nam-trung-quoc-lan-dau-doi-thoai-chien-luoc-3-3-tang-cuong-chia-se-thong-tin-an-ninh-20260316130459398.htm",
+      "summary": "Đối thoại chiến lược 3+3 lần đầu tiên giữa ba bộ Ngoại giao, Quốc phòng và Công an Việt Nam - Trung Quốc được tổ chức tại Hà Nội ngày 16-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.101241+07:00",
+      "fetched": "2026-03-16T15:53:13.101355+07:00"
+    },
+    {
+      "id": "b75c55e058b83006767e11df8a23bee2",
+      "title": "Cao ủy EU Jozef Síkela thăm Việt Nam, dự Diễn đàn Đầu tư EU - Việt Nam",
+      "link": "https://tuoitre.vn/cao-uy-eu-jozef-sikela-tham-viet-nam-du-dien-dan-dau-tu-eu-viet-nam-20260316124057519.htm",
+      "summary": "Cao ủy phụ trách Quan hệ đối tác quốc tế của Liên minh châu Âu (EU) Jozef Síkela sẽ thăm Việt Nam và dự Diễn đàn Doanh nghiệp và Đầu tư EU - Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.101100+07:00",
+      "fetched": "2026-03-16T15:53:13.101220+07:00"
+    },
+    {
+      "id": "709aff28e376bf15931f9fb0ae4ec472",
+      "title": "Tổng Bí thư Tô Lâm: Hướng tới xây dựng Hải Phòng là một siêu đô thị biển, có sức cạnh tranh toàn cầu",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-huong-toi-xay-dung-hai-phong-la-mot-sieu-do-thi-bien-co-suc-canh-tranh-toan-cau-20260316131200864.htm",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh tầm nhìn trong quy hoạch TP Hải Phòng, hướng tới xây dựng một siêu đô thị biển có sức cạnh tranh toàn cầu, trung tâm giao thương, logistics và kinh tế biển của Đông Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100973+07:00",
+      "fetched": "2026-03-16T15:53:13.101088+07:00"
+    },
+    {
+      "id": "e7cfc3f2b3a1f6c5e7b87b413fafd713",
+      "title": "Timothée Chalamet 3 lần trượt giải Oscar và bài học về sự khiêm nhường",
+      "link": "https://tuoitre.vn/timothee-chalamet-3-lan-truot-giai-oscar-va-bai-hoc-ve-su-khiem-nhuong-20260316132334239.htm",
+      "summary": "Dù tiếp tục trắng tay ở hạng mục Nam diễn viên chính xuất sắc nhất tại Oscar, hành trình Timothée Chalamet vẫn được nhìn nhận như câu chuyện về sự kiên trì và những bài học sự nghiệp sau thất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100842+07:00",
+      "fetched": "2026-03-16T15:53:13.100961+07:00"
+    },
+    {
+      "id": "1d5fbe586cca7e3e70b1d159798a1f07",
+      "title": "Ông Trump trước lựa chọn khó: đánh tiếp hay rút khỏi Iran",
+      "link": "https://tuoitre.vn/ong-trump-truoc-lua-chon-kho-danh-tiep-hay-rut-khoi-iran-2026031612395203.htm",
+      "summary": "Tổng thống Mỹ đối mặt lựa chọn khó: leo thang tấn công Iran để đạt mục tiêu lớn, hay rút khỏi cuộc chiến gây tổn thất quân sự, ngoại giao và kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100688+07:00",
+      "fetched": "2026-03-16T15:53:13.100829+07:00"
+    },
+    {
+      "id": "d3e2098f61392617312d02e7cd54c544",
+      "title": "Ukraine không kích trúng kho dầu Nga; Matxcơva nói bắn hạ gần 5.000 drone",
+      "link": "https://tuoitre.vn/ukraine-khong-kich-trung-kho-dau-nga-matxcova-noi-ban-ha-gan-5-000-drone-20260316131449578.htm",
+      "summary": "Nga cho biết Ukraine mở đợt tấn công lớn nhất từ đầu năm vào thủ đô Matxcơva cuối tuần này. Trong khi đó một kho dầu ở miền nam Nga bốc cháy sau khi bị không kích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100559+07:00",
+      "fetched": "2026-03-16T15:53:13.100673+07:00"
+    },
+    {
+      "id": "80c5b6d53279b80d5a1d99b6d21708fb",
+      "title": "Toyota Hilux 2026: Viết tiếp hành trình phiêu lưu không giới hạn",
+      "link": "https://tuoitre.vn/toyota-hilux-2026-viet-tiep-hanh-trinh-phieu-luu-khong-gioi-han-20260312102317842.htm",
+      "summary": "Lấy di sản bền bỉ làm điểm tựa, Hilux thế hệ thứ 9 được coi là cuộc cách mạng trong lịch sử gần 60 năm của dòng bán tải cỡ trung này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100435+07:00",
+      "fetched": "2026-03-16T15:53:13.100548+07:00"
+    },
+    {
+      "id": "a0398c222add7335b575f6b204fd0d79",
+      "title": "Vịnh Tiên đón đầu chu kỳ tăng trưởng mới",
+      "link": "https://tuoitre.vn/vinh-tien-don-dau-chu-ky-tang-truong-moi-20260316110329552.htm",
+      "summary": "Vinhomes Green Paradise cùng vùng lõi Vịnh Tiên cũng đang vươn mình trở thành nơi tụ hội của dòng người, dòng tiền và dòng trải nghiệm trên cả nước và trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100298+07:00",
+      "fetched": "2026-03-16T15:53:13.100422+07:00"
+    },
+    {
+      "id": "032aa63860e55cc3d5a7c83ac8ed5d54",
+      "title": "Người Việt chi 5.600 tỉ xem phim và tương lai thị trường điện ảnh Việt",
+      "link": "https://tuoitre.vn/nguoi-viet-chi-5-600-ti-xem-phim-va-tuong-lai-thi-truong-dien-anh-viet-20260316084656855.htm",
+      "summary": "Con số 5.600 tỉ đồng và 70 triệu vé - quy mô thị trường điện ảnh Việt trong năm 2025 - đang gây ấn tượng với cộng đồng mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100162+07:00",
+      "fetched": "2026-03-16T15:53:13.100279+07:00"
+    },
+    {
+      "id": "68f80d80d664b51d54fb6cfe30852649",
+      "title": "Hội nghị khoa học Bệnh viện Đại học Y Dược Buôn Ma Thuột",
+      "link": "https://tuoitre.vn/hoi-nghi-khoa-hoc-benh-vien-dai-hoc-y-duoc-buon-ma-thuot-20260316130715056.htm",
+      "summary": "Ngày 15-3, Bệnh viện Đại học Y Dược Buôn Ma Thuột tổ chức hội nghị khoa học thường niên lần thứ IV năm 2026 với sự tham gia của hơn 900 đại biểu, gồm chuyên gia, giảng viên, bác sĩ đến từ các bệnh viện lớn trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.100026+07:00",
+      "fetched": "2026-03-16T15:53:13.100150+07:00"
+    },
+    {
+      "id": "f60463f06653e2c44dddbfa587e960ec",
+      "title": "Drone điều khiển từ xa lần đầu xuyên thủng phòng thủ căn cứ Mỹ ở Iraq",
+      "link": "https://tuoitre.vn/drone-dieu-khien-tu-xa-lan-dau-xuyen-thung-phong-thu-can-cu-my-o-iraq-20260316134423848.htm",
+      "summary": "Nhóm vũ trang thân Iran công bố video drone tấn công căn cứ Victory của Mỹ tại Baghdad, đánh dấu lần đầu loại drone giá rẻ này được cho là vượt qua hệ thống phòng thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.099877+07:00",
+      "fetched": "2026-03-16T15:53:13.100013+07:00"
+    },
+    {
+      "id": "61aa181447b44370a7570166c3047b97",
+      "title": "Nhân vật nào thời Tam quốc sáng tạo nên môn võ phổ biến đến tận ngày nay?",
+      "link": "https://tuoitre.vn/nhan-vat-nao-thoi-tam-quoc-sang-tao-nen-mon-vo-pho-bien-den-tan-ngay-nay-20260316102901722.htm",
+      "summary": "Câu trả lời không phải là Quan Vũ, Triệu Vân, Lã Bố hay một danh tướng nào khác trong Tam quốc diễn nghĩa, mà bất ngờ lại là vị danh y Hoa Đà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T15:53:13.099587+07:00",
+      "fetched": "2026-03-16T15:53:13.099859+07:00"
+    },
     {
       "id": "82b39553208d3eab81d280c640392f74",
       "title": "Vượt qua những lùm xùm, Laporta tái đắc cử Chủ tịch Barca",
@@ -301,6 +451,346 @@ window.newsData_2026_03_16 = {
       "category": "Tổng hợp",
       "published": "2026-03-16T09:07:39.743218+07:00",
       "fetched": "2026-03-16T09:07:39.743419+07:00"
+    },
+    {
+      "id": "18e8bd57735469100fbfcb1f65095aca",
+      "title": "Việt Nam - Trung Quốc thúc đẩy hợp tác thực chất qua Đối thoại chiến lược 3+3",
+      "link": "https://thanhnien.vn/viet-nam-trung-quoc-thuc-day-hop-tac-thuc-chat-qua-doi-thoai-chien-luoc-33-185260316151612119.htm",
+      "summary": "Các bộ trưởng Ngoại giao, Quốc phòng và Công an Việt Nam - Trung Quốc khẳng định tầm quan trọng của cơ chế Đối thoại chiến lược 3+3 trong việc hiện thực hóa nhận thức chung cấp cao, phát huy vai trò của các cơ quan trọng yếu, thường xuyên trong việc thúc đẩy quan hệ Việt - Trung, cũng như hợp tác ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:48:00+07:00",
+      "fetched": "2026-03-16T15:53:12.185678+07:00"
+    },
+    {
+      "id": "613c8b39fd83f05a17b691edc80ef1b7",
+      "title": "Nữ thứ trưởng mới của Bộ GD-ĐT phụ trách lĩnh vực nào?",
+      "link": "https://thanhnien.vn/nu-thu-truong-moi-cua-bo-gd-dt-phu-trach-linh-vuc-nao-185260316152834711.htm",
+      "summary": "Ngày 16.3, Bộ GD-ĐT tổ chức Hội nghị công bố quyết định của Thủ tướng Chính phủ tiếp nhận, bổ nhiệm thứ trưởng Bộ GD-ĐT với bà Nguyễn Thị Quyên Thanh, dự kiến phân công các lĩnh vực mà nữ thứ trưởng sẽ phụ trách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:47:00+07:00",
+      "fetched": "2026-03-16T15:53:12.185867+07:00"
+    },
+    {
+      "id": "dbc49fc4e71fc1d3d6f4dc1f0ece4b66",
+      "title": "Dầu ô liu, đậu nành, hướng dương: Dùng thế nào tốt cho tim mạch?",
+      "link": "https://thanhnien.vn/dau-o-liu-dau-nanh-huong-duong-dung-the-nao-tot-cho-tim-mach-185260316104626818.htm",
+      "summary": "Dầu ăn là nguyên liệu quen thuộc trong nhiều món chiên, xào. Tuy nhiên, sự khác biệt giữa dầu ô liu, đậu nành và hướng dương có thể ảnh hưởng đáng kể đến sức khỏe tim mạch nếu lựa chọn và sử dụng không đúng cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:43:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186023+07:00"
+    },
+    {
+      "id": "555430fb5a4ff888f94eeadc466e0577",
+      "title": "Ô tô hybrid hút khách bất chấp sức mua giảm, xe Toyota bán chạy nhất",
+      "link": "https://thanhnien.vn/o-to-hybrid-hut-khach-bat-chap-suc-mua-giam-xe-toyota-ban-chay-nhat-18526031114173374.htm",
+      "summary": "Bất chấp sức mua trên thị trường ô tô giảm mạnh, doanh số xe hybrid tại Việt Nam vẫn tăng trưởng gần 23%, trong đó cứ 10 người mua ô tô hybrid có hơn 6 người chọn xe Toyota.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:43:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186175+07:00"
+    },
+    {
+      "id": "85b9562c087f2a5538c2daa5497f2dd7",
+      "title": "Internet vệ tinh Starlink dự kiến có giá 2,2 triệu mỗi tháng tại Việt Nam",
+      "link": "https://vnexpress.net/internet-ve-tinh-starlink-du-kien-co-gia-2-2-trieu-moi-thang-tai-viet-nam-5051073.html",
+      "summary": "Dịch vụ Internet vệ tinh Starlink tại Việt Nam dự kiến có giá thiết bị 9,2 triệu và cước thuê bao hàng tháng 2,2 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-16T08:21:21+07:00",
+      "fetched": "2026-03-16T15:53:17.154519+07:00"
+    },
+    {
+      "id": "1483dca1374fa0128451741cb50f02e2",
+      "title": "MC Conan O'Brien được trả thù lao bao nhiêu khi 'cầm trịch' Oscar 2026",
+      "link": "https://thanhnien.vn/mc-conan-obrien-duoc-tra-thu-lao-bao-nhieu-khi-cam-trich-oscar-2026-185260316150653267.htm",
+      "summary": "Số tiền mà MC Conan O'Brien nhận được khi dẫn dắt lễ trao giải Oscar 2026 có thể khiến nhiều người bất ngờ. Dù là một trong những sự kiện điện ảnh lớn nhất thế giới, mức thù lao dành cho người dẫn chương trình lại thấp hơn nhiều so với tưởng tượng của công chúng, tờ E!News đưa tin ngày 16.3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:16:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186327+07:00"
+    },
+    {
+      "id": "3892e7f24a8399c13370b1a9f3ea3968",
+      "title": "Israel thừa nhận tiêm kích suýt bị Iran bắn rơi",
+      "link": "https://vnexpress.net/israel-thua-nhan-tiem-kich-suyt-bi-iran-ban-roi-5051056.html",
+      "summary": "Quân đội Israel cho biết một tiêm kích suýt trúng đạn trên bầu trời Iran, nhưng không nêu cụ thể tình huống dẫn đến sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T08:12:22+07:00",
+      "fetched": "2026-03-16T15:53:14.122490+07:00"
+    },
+    {
+      "id": "2118e81045f28442be9894e1e41647d6",
+      "title": "Bất động sản, hàng không, nhà hàng, thẩm mỹ... nợ thuế 'khủng'",
+      "link": "https://thanhnien.vn/bat-dong-san-hang-khong-nha-hang-tham-my-no-thue-khung-185260316150626322.htm",
+      "summary": "Thuế TP.HCM vừa công bố danh sách hàng chục ngàn doanh nghiệp nợ thuế, trong đó có nhiều doanh nghiệp nổi tiếng lĩnh vực bất động sản, khách sạn, nhà hàng, thẩm mỹ…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:12:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186476+07:00"
+    },
+    {
+      "id": "2e7a339bb371d42969c276d511411d01",
+      "title": "Miss Charm 2025 Anna Blanco diện áo dài diễn thời trang cùng nghệ sĩ Việt",
+      "link": "https://thanhnien.vn/miss-charm-2025-anna-blanco-dien-ao-dai-dien-thoi-trang-cung-nghe-si-viet-185260316144609848.htm",
+      "summary": "Hoa hậu Venezuela Anna Blanco gây chú ý khi diện áo dài trình diễn thời trang cùng nhiều nghệ sĩ Việt trong chuỗi sự kiện nghệ thuật lan tỏa thông điệp hòa bình. Chương trình quy tụ 108 nghệ sĩ trong và ngoài nước, do ca sĩ - nhạc sĩ A Tuân đảm nhiệm vai trò tổng đạo diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:11:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186627+07:00"
+    },
+    {
+      "id": "a5da80990114c8b629b38a289c67d7d1",
+      "title": "Gần 64.000 câu hỏi gửi Diễn đàn Tiếng nói tuổi trẻ - Hành động của Đoàn",
+      "link": "https://thanhnien.vn/gan-64000-cau-hoi-gui-dien-dan-tieng-noi-tuoi-tre-hanh-dong-cua-doan-185260316144321071.htm",
+      "summary": "T.Ư Đoàn cho biết Diễn đàn Tiếng nói tuổi trẻ - Hành động của Đoàn sẽ chính thức diễn ra vào chiều 19.3. Hiện diễn đàn đã nhận được 64.000 câu hỏi của đoàn viên thanh niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:11:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186796+07:00"
+    },
+    {
+      "id": "01e03a26bd2580a1d868175d8c9c5171",
+      "title": "Đà Nẵng công bố tình huống khẩn cấp sạt lở ở xã miền núi",
+      "link": "https://thanhnien.vn/da-nang-cong-bo-tinh-huong-khan-cap-sat-lo-o-xa-mien-nui-185260316141908147.htm",
+      "summary": "Nhiều quả đồi xuất hiện vết nứt kéo dài hàng trăm mét, nền đất lún sâu và nguy cơ sạt lở có thể vùi lấp khu dân cư. Trước tình hình nguy hiểm, TP.Đà Nẵng đã công bố tình huống khẩn cấp về thiên tai, yêu cầu các lực lượng sẵn sàng sơ tán người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:11:00+07:00",
+      "fetched": "2026-03-16T15:53:12.186950+07:00"
+    },
+    {
+      "id": "416396239012ae723de069ff55c381a2",
+      "title": "Nữ chính phim giờ vàng tiết lộ về Thanh Sơn",
+      "link": "https://thanhnien.vn/nu-chinh-phim-gio-vang-tiet-lo-ve-thanh-son-185260316141748977.htm",
+      "summary": "Trong phim 'Đồng hồ đếm ngược' đang phát sóng khung giờ vàng, lần đầu tiên Hoàng Hà và Thanh Sơn hợp tác trong vai nam - nữ chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:02:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187102+07:00"
+    },
+    {
+      "id": "ed8ad72d769bb1c66efab00b0a06cb1f",
+      "title": "8 năm chu toàn việc nhà để chồng đi làm xa, tôi phát hiện anh có con riêng",
+      "link": "https://vnexpress.net/8-nam-chu-toan-viec-nha-de-chong-di-lam-xa-toi-phat-hien-anh-co-con-rieng-5049685.html",
+      "summary": "Anh thừa nhận và bảo sẽ có trách nhiệm với cả gia đình và mẹ con cô ấy, không bỏ rơi ai cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:00:00+07:00",
+      "fetched": "2026-03-16T15:53:09.516930+07:00"
+    },
+    {
+      "id": "846e8609366643b35043970b29409928",
+      "title": "Từ lễ hội xuân đến tầm nhìn 'điểm đến quốc tế' của Cần Giờ",
+      "link": "https://vnexpress.net/tu-le-hoi-xuan-den-tam-nhin-diem-den-quoc-te-cua-can-gio-5050944.html",
+      "summary": "Hàng chục nghìn du khách trải nghiệm hội xuân \"giữa rừng, bên biển\" tại Vinhomes Green Paradise, thể hiện sức hút của đô thị ESG, tạo nền tảng cho tầm nhìn hút 40 triệu du khách mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T08:00:00+07:00",
+      "fetched": "2026-03-16T15:53:09.517122+07:00"
+    },
+    {
+      "id": "5a80811d93c0da489bdefb025235c2dc",
+      "title": "AFC: Tuyển Malaysia khó bị đình chỉ thi đấu như Timor Leste",
+      "link": "https://vnexpress.net/afc-tuyen-malaysia-kho-bi-dinh-chi-thi-dau-nhu-timor-leste-5051058.html",
+      "summary": "Theo Tổng thư ký LĐBĐ châu Á (AFC) Datuk Seri Windsor John, tuy cùng vấn đề gian lận nhập tịch, bối cảnh khác nhau có thể khiến cách xử lý Malaysia khác với Timor Leste cách đây ít năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:57:11+07:00",
+      "fetched": "2026-03-16T15:53:09.517297+07:00"
+    },
+    {
+      "id": "5a80811d93c0da489bdefb025235c2dc",
+      "title": "AFC: Tuyển Malaysia khó bị đình chỉ thi đấu như Timor Leste",
+      "link": "https://vnexpress.net/afc-tuyen-malaysia-kho-bi-dinh-chi-thi-dau-nhu-timor-leste-5051058.html",
+      "summary": "Theo Tổng thư ký LĐBĐ châu Á (AFC) Datuk Seri Windsor John, tuy cùng vấn đề gian lận nhập tịch, bối cảnh khác nhau có thể khiến cách xử lý Malaysia khác với Timor Leste cách đây ít năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-16T07:57:11+07:00",
+      "fetched": "2026-03-16T15:53:18.188319+07:00"
+    },
+    {
+      "id": "7f3bcad95129584abd3ae274370c51f4",
+      "title": "Tuyệt đối không để cài cắm lợi ích, tác động tiêu cực đến hệ thống pháp luật",
+      "link": "https://thanhnien.vn/tuyet-doi-khong-de-cai-cam-loi-ich-tac-dong-tieu-cuc-den-he-thong-phap-luat-185260316134725534.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú vừa ký ban hành Kết luận số 09-KL/TW về hoàn thiện cấu trúc hệ thống pháp luật Việt Nam đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:57:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187246+07:00"
+    },
+    {
+      "id": "46af28d3b37b609db967ea82a417fd99",
+      "title": "Nam ca sĩ rẽ hướng từ nhạc trẻ sang bolero, sống đơn giản tuổi U.50",
+      "link": "https://thanhnien.vn/nam-ca-si-re-huong-tu-nhac-tre-sang-bolero-song-don-gian-tuoi-u50-185260316133610634.htm",
+      "summary": "Trong hậu trường 'Tỏa sáng sao đôi', ca sĩ Lâm Vũ có những trải lòng về việc thử sức ở bolero, đồng thời hé lộ quan niệm về thành công ở độ tuổi U.50.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:57:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187394+07:00"
+    },
+    {
+      "id": "e8d5dab1f625fa58c4b7ecf9feed0a0e",
+      "title": "Tổng Bí thư Tô Lâm: Hải Phòng phải hướng tới siêu đô thị biển",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-hai-phong-phai-huong-toi-sieu-do-thi-bien-185260316131432555.htm",
+      "summary": "Làm việc với Ban Thường vụ Thành ủy Hải Phòng, Tổng Bí thư Tô Lâm nhấn mạnh thành phố cần tầm nhìn phát triển dài hạn, hướng tới mục tiêu trở thành siêu đô thị biển có sức cạnh tranh toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:55:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187541+07:00"
+    },
+    {
+      "id": "c14ee59dd4f8297dab45a1b9021964fa",
+      "title": "Tôi đi ăn cưới không gửi tiền mừng",
+      "link": "https://vnexpress.net/toi-di-an-cuoi-khong-gui-tien-mung-5051060.html",
+      "summary": "Tôi chỉ đi ăn cưới những người thật sự thân thiết và nói thẳng với họ rằng sẽ không đưa tiền mừng, nếu không chấp nhận tôi sẽ không đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:51:41+07:00",
+      "fetched": "2026-03-16T15:53:09.517456+07:00"
+    },
+    {
+      "id": "ebf47fa63da8a69b7107bc577cde21cf",
+      "title": "Cựu hiệu trưởng bị truy tố vì lạm thu tiền dạy thêm",
+      "link": "https://thanhnien.vn/cuu-hieu-truong-bi-truy-to-vi-lam-thu-tien-day-them-185260316133314305.htm",
+      "summary": "Cựu hiệu trưởng và cựu kế toán Trường THCS Ba Đình cùng bị truy tố với cáo buộc lạm thu tiền dạy thêm, học thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:50:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187705+07:00"
+    },
+    {
+      "id": "f374c7b8284a44b96724ade77a9f8551",
+      "title": "Bán vàng có cần xuất hóa đơn đầy đủ tên, mã số thuế người mua?",
+      "link": "https://thanhnien.vn/ban-vang-co-can-xuat-hoa-don-day-du-ten-ma-so-thue-nguoi-mua-185260316121145334.htm",
+      "summary": "Theo Thuế TP.Hà Nội, với hóa đơn điện tử khởi tạo từ máy tính tiền, trên hóa đơn không bắt buộc phải thể hiện đầy đủ tên, địa chỉ, mã số thuế/số định danh cá nhân/số điện thoại của người mua hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:46:00+07:00",
+      "fetched": "2026-03-16T15:53:12.187855+07:00"
+    },
+    {
+      "id": "f0656c6d5278c78148a573c733b9143e",
+      "title": "Ngã nhào vì bùn đất trên phố Hà Nội",
+      "link": "https://vnexpress.net/nga-nhao-vi-bun-dat-tren-pho-ha-noi-5051005.html",
+      "summary": "Hàng chục người bị ngã, có người phải nhập viện khi di chuyển trên đường Tô Hiệu, Quang Trung do nhiều bùn đất rơi vãi trên mặt đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:41:12+07:00",
+      "fetched": "2026-03-16T15:53:09.517616+07:00"
+    },
+    {
+      "id": "2c40a416a1ea5a98eeeccfb941a0c8df",
+      "title": "Lời kể của người mất 7 tỷ đồng vì sập bẫy 'hệ sinh thái công nghệ triệu đô Xintel'",
+      "link": "https://vnexpress.net/loi-ke-cua-nguoi-mat-7-ty-dong-vi-sap-bay-he-sinh-thai-cong-nghe-trieu-do-xintel-5051001.html",
+      "summary": "Không am hiểu về tiền số, nhưng sau khi tham gia một số hội thảo và \"lời tư vấn có cánh\" của nhân viên hệ sinh thái Xintel, bà Thu đổ hơn 7 tỷ đồng đầu tư và mất trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:37:33+07:00",
+      "fetched": "2026-03-16T15:53:09.517793+07:00"
+    },
+    {
+      "id": "c688ebc09f2ebf0a2b8b4e67744a5c2f",
+      "title": "Ngư dân sông Nile đổi sang 'săn' rác nhựa bởi quá ít cá",
+      "link": "https://vnexpress.net/ngu-dan-song-nile-doi-sang-san-rac-nhua-boi-qua-it-ca-5051000.html",
+      "summary": "Lượng cá sụt giảm nghiêm trọng vì rác nhựa khiến hàng trăm ngư dân Ai Cập phải bỏ nghề truyền thống, chuyển sang thu gom phế liệu để mưu sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:31:55+07:00",
+      "fetched": "2026-03-16T15:53:09.517949+07:00"
+    },
+    {
+      "id": "c688ebc09f2ebf0a2b8b4e67744a5c2f",
+      "title": "Ngư dân sông Nile đổi sang 'săn' rác nhựa bởi quá ít cá",
+      "link": "https://vnexpress.net/ngu-dan-song-nile-doi-sang-san-rac-nhua-boi-qua-it-ca-5051000.html",
+      "summary": "Lượng cá sụt giảm nghiêm trọng vì rác nhựa khiến hàng trăm ngư dân Ai Cập phải bỏ nghề truyền thống, chuyển sang thu gom phế liệu để mưu sinh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T07:31:55+07:00",
+      "fetched": "2026-03-16T15:53:15.169472+07:00"
+    },
+    {
+      "id": "0a774e9624a6d50a1dbf47e175696431",
+      "title": "Ngủ trưa quá lâu có tăng nguy cơ đột quỵ không?",
+      "link": "https://vnexpress.net/ngu-trua-qua-lau-co-tang-nguy-co-dot-quy-khong-5050891.html",
+      "summary": "Tôi nghe nói thường xuyên ngủ trưa quá lâu, trên một giờ sẽ dễ làm tăng nguy cơ đột quỵ. Mong bác sĩ tư vấn. (Hùng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:31:48+07:00",
+      "fetched": "2026-03-16T15:53:09.518110+07:00"
+    },
+    {
+      "id": "3a77cca65e80515a737c47d152df1129",
+      "title": "Những điểm mới của AirTag 2 giá 890.000 đồng",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-airtag-2-gia-890-000-dong-5051038.html",
+      "summary": "AirTag 2, được bán tại Việt Nam từ 11/3, giữ nguyên giá 890.000 đồng như thế hệ trước, loa lớn hơn, kết nối và tìm thiết bị ở xa hơn nhờ chip Ultra Wideband 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:30:22+07:00",
+      "fetched": "2026-03-16T15:53:09.518268+07:00"
+    },
+    {
+      "id": "3a77cca65e80515a737c47d152df1129",
+      "title": "Những điểm mới của AirTag 2 giá 890.000 đồng",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-airtag-2-gia-890-000-dong-5051038.html",
+      "summary": "AirTag 2, được bán tại Việt Nam từ 11/3, giữ nguyên giá 890.000 đồng như thế hệ trước, loa lớn hơn, kết nối và tìm thiết bị ở xa hơn nhờ chip Ultra Wideband 2.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-16T07:30:22+07:00",
+      "fetched": "2026-03-16T15:53:17.154720+07:00"
+    },
+    {
+      "id": "9b55b5ea2a2cdbe341c6c87c59ef9d5b",
+      "title": "Ấn Độ miễn phí vaccine HPV",
+      "link": "https://vnexpress.net/an-do-mien-phi-vaccine-hpv-5051018.html",
+      "summary": "Ấn Độ tiêm vaccine HPV miễn phí cho khoảng 11,5 triệu bé gái 14 tuổi, nhằm giảm gánh nặng ung thư cổ tử cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:30:00+07:00",
+      "fetched": "2026-03-16T15:53:09.518421+07:00"
+    },
+    {
+      "id": "73e373a92b6aa65929e8d0ee6f833c0f",
+      "title": "Lợi ích của vitamin B6 với sức khỏe",
+      "link": "https://vnexpress.net/loi-ich-cua-vitamin-b6-voi-suc-khoe-5050900.html",
+      "summary": "Vitamin B6 hỗ trợ sức khỏe não bộ, tham gia chuyển hóa năng lượng, tăng cường chức năng miễn dịch và vận chuyển oxy đến các mô trong cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:30:00+07:00",
+      "fetched": "2026-03-16T15:53:09.518572+07:00"
+    },
+    {
+      "id": "f3887d165d4c8c976476b39d69019384",
+      "title": "'Siêu vi khuẩn' tụ cầu vàng tấn công não và tim thiếu nữ 16 tuổi",
+      "link": "https://vnexpress.net/sieu-vi-khuan-tu-cau-vang-tan-cong-nao-va-tim-thieu-nu-16-tuoi-5050985.html",
+      "summary": "Từ triệu chứng viêm họng, thiếu nữ rơi vào nguy kịch do siêu vi khuẩn tụ cầu vàng kháng thuốc tấn công đa cơ quan, gây viêm phổi, nhồi máu não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:29:49+07:00",
+      "fetched": "2026-03-16T15:53:09.518752+07:00"
+    },
+    {
+      "id": "6af233d357b4e57c497562195e071bf9",
+      "title": "Em chỉ mong gặp người đàn ông chững chạc, có trách nhiệm",
+      "link": "https://vnexpress.net/em-chi-mong-gap-nguoi-dan-ong-chung-chac-co-trach-nhiem-5050880.html",
+      "summary": "Người phụ nữ Bình Phước 41 tuổi vẫn tin rằng đâu đó có một người đang đợi mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:26:41+07:00",
+      "fetched": "2026-03-16T15:53:09.518868+07:00"
+    },
+    {
+      "id": "3f4c2b10ad535b08ccbea5a39a588723",
+      "title": "Bé gái Hàn Quốc bị xô đẩy trong hàng tiện lợi Nhật Bản",
+      "link": "https://vnexpress.net/be-gai-han-quoc-bi-xo-day-trong-hang-tien-loi-nhat-ban-5050998.html",
+      "summary": "Video ghi lại cảnh một phụ nữ dùng túi xô đẩy bé gái Hàn Quốc trong cửa hàng tiện lợi tại Nhật Bản gây ra làn sóng phản ứng và bức xúc trên các nền tảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T07:23:22+07:00",
+      "fetched": "2026-03-16T15:53:09.519027+07:00"
     },
     {
       "id": "4358d31f890b36d749350aa681d6da8f",
