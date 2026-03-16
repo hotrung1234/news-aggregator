@@ -1,7 +1,157 @@
 window.newsData_2026_03_16 = {
   "date": "2026-03-16",
-  "lastUpdated": "2026-03-16T09:07:47.409534+07:00",
+  "lastUpdated": "2026-03-16T12:47:46.860637+07:00",
   "articles": [
+    {
+      "id": "82b39553208d3eab81d280c640392f74",
+      "title": "Vượt qua những lùm xùm, Laporta tái đắc cử Chủ tịch Barca",
+      "link": "https://tuoitre.vn/vuot-qua-nhung-lum-xum-laporta-tai-dac-chu-tich-barca-20260316102606924.htm",
+      "summary": "Rạng sáng 16-3, kết quả bầu cử Chủ tịch Barca đã được công bố và Joan Laporta (63 tuổi) đã tái đắc cử thành công với chiến thắng áp đảo trước Victor Font.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.503295+07:00",
+      "fetched": "2026-03-16T12:47:39.503409+07:00"
+    },
+    {
+      "id": "acf828dc458f916b412af1ee1fc89a4a",
+      "title": "Nam thanh niên ngừng tuần hoàn sau tai nạn, được bác sĩ đi ngang ép tim cứu sống",
+      "link": "https://tuoitre.vn/nam-thanh-nien-ngung-tuan-hoan-sau-tai-nan-duoc-bac-si-di-ngang-ep-tim-cuu-song-20260316103028536.htm",
+      "summary": "Sáng sớm khi đang trên đường đi làm, một bác sĩ tại Hà Nội đã kịp thời dừng lại cấp cứu cho nam thanh niên gặp tai nạn giao thông, giúp nạn nhân thoát khỏi tình trạng ngừng tuần hoàn ngay trên đường phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.503159+07:00",
+      "fetched": "2026-03-16T12:47:39.503280+07:00"
+    },
+    {
+      "id": "49c2823268acf9fbd9b812ff9764afc1",
+      "title": "Đường Đồng Văn Cống cấm xe máy rẽ trái qua đường, quay đầu, người dân đi sao cho đúng?",
+      "link": "https://tuoitre.vn/duong-dong-van-cong-cam-xe-may-re-trai-qua-duong-quay-dau-nguoi-dan-di-sao-cho-dung-20260316102417271.htm",
+      "summary": "Theo cơ quan chức năng từ ngày 7-3, đường Đồng Văn Cống (TP.HCM) sẽ cấm xe 2 bánh rẽ trái để  qua đường, quay đầu tại các giao lộ, người dân cần chú ý đi đúng để tránh vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.503010+07:00",
+      "fetched": "2026-03-16T12:47:39.503146+07:00"
+    },
+    {
+      "id": "da27cd581be4142f8ec6f89b3f69587a",
+      "title": "2 trạm thu phí bỏ hoang chình ình trên quốc lộ 51, vì sao?",
+      "link": "https://tuoitre.vn/2-tram-thu-phi-bo-hoang-chinh-inh-tren-quoc-lo-51-vi-sao-20260316102220942.htm",
+      "summary": "Quốc lộ 51 có 3 trạm thu phí đã dừng thu phí nhiều năm. TP.HCM đã tổ chức tháo dỡ xong 1 trạm, còn 2 trạm qua địa bàn tỉnh Đồng Nai nằm chình ình, gây cản trở giao thông vẫn chưa được tháo dỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502882+07:00",
+      "fetched": "2026-03-16T12:47:39.502998+07:00"
+    },
+    {
+      "id": "2a98cc41b39a17fe4ff7c2ebf66ed8aa",
+      "title": "Rượt đuổi chém người trong đêm, 11 thanh niên bị triệu tập",
+      "link": "https://tuoitre.vn/ruot-duoi-chem-nguoi-trong-dem-11-thanh-nien-bi-trieu-tap-20260315141400769.htm",
+      "summary": "Công an xã Nam Trạch (tỉnh Quảng Trị) đã triệu tập 11 thanh thiếu niên liên quan đến vụ đuổi chém người trên địa bàn đến làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502760+07:00",
+      "fetched": "2026-03-16T12:47:39.502871+07:00"
+    },
+    {
+      "id": "dac6ff323f5b62ef22a723cf5039c382",
+      "title": "2 cầu thủ Việt kiều Croatia và Nhật Bản hội quân U19 Việt Nam",
+      "link": "https://tuoitre.vn/2-cau-thu-viet-kieu-croatia-va-nhat-ban-hoi-quan-u19-viet-nam-20260316102605676.htm",
+      "summary": "Sáng 16-3, U19 Việt Nam chính thức hội quân tại Hà Nội với sự hiện diện của 2 cầu thủ Việt kiều Antonio Moric và thủ môn Nguyễn Bá Nhật Ka.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502635+07:00",
+      "fetched": "2026-03-16T12:47:39.502749+07:00"
+    },
+    {
+      "id": "b0c3580cd54164dc6406d040937d2e03",
+      "title": "Ném bom: Lịch sử ác mộng của chiến tranh - Kỳ 7: Những trận mưa bom cuối cùng ở Berlin",
+      "link": "https://tuoitre.vn/nem-bom-lich-su-ac-mong-cua-chien-tranh-ky-7-nhung-tran-mua-bom-cuoi-cung-o-berlin-20260316093904925.htm",
+      "summary": "Những quả bom đầu tiên trên các phi đội máy bay ném bom không quân Hoàng gia Anh (RAF) đã giội xuống Berlin, đầu não chiến tranh xâm lược của Hitler ngay năm 1940.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502504+07:00",
+      "fetched": "2026-03-16T12:47:39.502623+07:00"
+    },
+    {
+      "id": "47824639606ab763b9e87a8bbaf11ff3",
+      "title": "Cụ ông cụt hai tay kẹp con rắn hổ mang về nhà sau khi bị cắn",
+      "link": "https://tuoitre.vn/cu-ong-cut-hai-tay-kep-con-ran-ho-mang-ve-nha-sau-khi-bi-can-20260316103007975.htm",
+      "summary": "Ngày 16-3, Bệnh viện Đà Nẵng cho biết đang điều trị cho một bệnh nhân bị rắn hổ mang cắn trong tình trạng khá hy hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502372+07:00",
+      "fetched": "2026-03-16T12:47:39.502492+07:00"
+    },
+    {
+      "id": "d559d6f40ee0365cdb32b6ee19615142",
+      "title": "Ông Netanyahu đăng video đi uống cà phê, bác tin đồn đã thiệt mạng",
+      "link": "https://tuoitre.vn/ong-netanyahu-dang-video-di-uong-ca-phe-bac-tin-don-da-thiet-mang-20260316103312336.htm",
+      "summary": "Thủ tướng Netanyahu đăng tải video ông đi uống cà phê và bác bỏ tin đồn từ Iran cho rằng ông đã thiệt mạng hoặc bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502246+07:00",
+      "fetched": "2026-03-16T12:47:39.502361+07:00"
+    },
+    {
+      "id": "60a05c1828d1b8fa3c9bf904f226171d",
+      "title": "Anh tính dùng drone rà phá thủy lôi ở eo biển Hormuz",
+      "link": "https://tuoitre.vn/anh-tinh-dung-drone-ra-pha-thuy-loi-o-eo-bien-hormuz-20260316110747405.htm",
+      "summary": "Anh đang cân nhắc đưa drone rà phá thủy lôi tới Hormuz, nhằm hỗ trợ dọn mìn và khôi phục hoạt động vận tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.502117+07:00",
+      "fetched": "2026-03-16T12:47:39.502234+07:00"
+    },
+    {
+      "id": "16eb0c8f51531f7c9d9778a0478954f2",
+      "title": "Đại diện K-pop Demon Hunters sốc vì bất ngờ bị cắt ngang khi phát biểu tại lễ trao giải Oscar",
+      "link": "https://tuoitre.vn/dai-dien-k-pop-demon-hunters-soc-vi-bat-ngo-bi-cat-ngang-khi-phat-bieu-tai-le-trao-giai-oscar-20260316111548588.htm",
+      "summary": "Ca khúc Golden trong phim hoạt hình K-pop Demon Hunters giành giải Bài hát gốc hay nhất tại Oscar 2026, lập nhiều kỷ lục cho K-pop. Tuy nhiên khoảnh khắc nhận giải của ê kíp cũng gây chú ý khi bài phát biểu bất ngờ bị cắt ngang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.501964+07:00",
+      "fetched": "2026-03-16T12:47:39.502104+07:00"
+    },
+    {
+      "id": "f1c8bc132d501e11fdf1236cb84840e5",
+      "title": "Tập đoàn Sovico đề xuất đầu tư 100.000 tỉ đồng làm đường ven sông Sài Gòn và 4 dự án khác",
+      "link": "https://tuoitre.vn/tap-doan-sovico-de-xuat-dau-tu-100-000-ti-dong-lam-duong-ven-song-sai-gon-va-4-du-an-khac-20260316112739247.htm",
+      "summary": "Tập đoàn Sovico của tỉ phú Nguyễn Thị Phương Thảo đề xuất làm loạt dự án như đường ven sông Sài Gòn, khép kín đường vành đai 2, đường liên cảng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.501827+07:00",
+      "fetched": "2026-03-16T12:47:39.501952+07:00"
+    },
+    {
+      "id": "8488f6cd37aa3db014e9a98d2462f4d7",
+      "title": "Tưởng viêm họng nhẹ, nữ sinh 16 tuổi bị ‘siêu vi khuẩn’ tấn công não, tim suýt mất mạng",
+      "link": "https://tuoitre.vn/tuong-viem-hong-nhe-nu-sinh-16-tuoi-bi-sieu-vi-khuan-tan-cong-nao-tim-suyt-mat-mang-20260316110642119.htm",
+      "summary": "Bị sốt cao, viêm họng tưởng nhẹ, nữ sinh 16 tuổi rơi vào nguy kịch khi nhiễm ‘siêu vi khuẩn’ gây tổn thương tim, phổi và não.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.501697+07:00",
+      "fetched": "2026-03-16T12:47:39.501815+07:00"
+    },
+    {
+      "id": "82f0fa65321842fd2caf945648692480",
+      "title": "Công an thông tin vụ lái xe đâm gãy chân cụ bà rồi tăng ga bỏ chạy trên đường Hồ Sen",
+      "link": "https://tuoitre.vn/cong-an-thong-tin-vu-lai-xe-dam-gay-chan-cu-ba-roi-tang-ga-bo-chay-tren-duong-ho-sen-20260316112409848.htm",
+      "summary": "Sau khi tông bà già đứng trên vỉa hè đường Hồ Sen, phường Lê Chân, TP Hải Phòng, lái xe đã lùi lại rồi về số tăng ga và rời khỏi hiện trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.501553+07:00",
+      "fetched": "2026-03-16T12:47:39.501684+07:00"
+    },
+    {
+      "id": "93c7fc29f460f24a4ca9d4fa26ed1181",
+      "title": "Khánh Hòa thi lớp 10 sớm hơn 2 tuần, không phân tuyến theo địa giới cấp xã",
+      "link": "https://tuoitre.vn/khanh-hoa-thi-lop-10-som-hon-2-tuan-khong-phan-tuyen-theo-dia-gioi-cap-xa-20260316112542699.htm",
+      "summary": "Kỳ thi vào lớp 10 trên địa bàn tỉnh Khánh Hòa năm học 2026 - 2027 sẽ diễn ra sớm hơn so với mọi năm và có nhiều điểm mới trong công tác tuyển sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T12:47:39.501319+07:00",
+      "fetched": "2026-03-16T12:47:39.501537+07:00"
+    },
     {
       "id": "897337bf80052849a4b43eb34d1b3834",
       "title": "Đọc nhanh 16-3: Bất ngờ với giá dầu; chứng khoán ra sao với diễn biến mới ở Trung Đông",
@@ -153,6 +303,446 @@ window.newsData_2026_03_16 = {
       "fetched": "2026-03-16T09:07:39.743419+07:00"
     },
     {
+      "id": "fd414b19af37f7e0fa7f9871dbc84173",
+      "title": "Teyana Taylor bị chỉ trích vì phản ứng giả tạo sau khi thua tại Oscar",
+      "link": "https://thanhnien.vn/teyana-taylor-bi-chi-trich-vi-phan-ung-gia-tao-sau-khi-thua-tai-oscar-185260316122716241.htm",
+      "summary": "Phản ứng quá mức của Teyana Taylor sau khi không giành chiến thắng tại Oscar 2026 đã khiến mạng xã hội dậy sóng. Một chuyên gia ngôn ngữ cơ thể cho rằng sự thể hiện của nữ nghệ sĩ có phần quá đà, 'giống như một màn trình diễn hơn là phản ứng tự nhiên'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:43:00+07:00",
+      "fetched": "2026-03-16T12:47:38.792592+07:00"
+    },
+    {
+      "id": "a5024db55d96b4f565d2d824ed622fbd",
+      "title": "Leonardo DiCaprio đưa bạn gái kém 24 tuổi dự Oscar",
+      "link": "https://thanhnien.vn/leonardo-dicaprio-dua-ban-gai-kem-24-tuoi-du-oscar-185260316121603718.htm",
+      "summary": "Bên cạnh chiến thắng vang dội cùng đoàn phim 'One Battle After Another', tài tử Leonardo DiCaprio gây chú ý khi dự lễ trao giải Oscar 2026 với bạn gái Vittoria Ceretti. Đây là lần hiếm hoi họ cùng xuất hiện tại sự kiện công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:35:00+07:00",
+      "fetched": "2026-03-16T12:47:38.792759+07:00"
+    },
+    {
+      "id": "32b7bb73b6b3a500a9f9bf7aa065d1a8",
+      "title": "Tập gym online có an toàn, hiệu quả?",
+      "link": "https://thanhnien.vn/tap-gym-online-co-an-toan-hieu-qua-185260316114435709.htm",
+      "summary": "Không cần đến phòng tập đông đúc, chỉ cần một chiếc điện thoại hoặc laptop, nhiều người trẻ hiện nay chọn tập gym ngay trong phòng trọ hay căn hộ của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:29:00+07:00",
+      "fetched": "2026-03-16T12:47:38.792918+07:00"
+    },
+    {
+      "id": "49cfe4cab52e6043143239407edded38",
+      "title": "6 bộ trưởng Việt Nam - Trung Quốc lần đầu đối thoại chiến lược",
+      "link": "https://thanhnien.vn/6-bo-truong-viet-nam-trung-quoc-lan-dau-doi-thoai-chien-luoc-185260316112902422.htm",
+      "summary": "Sáng 16.3, Hội nghị lần thứ nhất Đối thoại chiến lược cấp bộ trưởng Ngoại giao, Quốc phòng, Công an Việt Nam - Trung Quốc đã diễn ra tại Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:18:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793095+07:00"
+    },
+    {
+      "id": "2da88f31df13e3840bc654f22badf945",
+      "title": "Vì sao AFC xử phạt tối thiểu đội tuyển Malaysia, không cấm vận như Timor Leste?",
+      "link": "https://thanhnien.vn/vi-sao-afc-xu-phat-toi-thieu-doi-tuyen-malaysia-khong-cam-van-nhu-timor-leste-185260316120107746.htm",
+      "summary": "Trong cuộc họp báo sáng 16.3, Tổng thư ký Liên đoàn Bóng đá châu Á (AFC), Windsor Paul John cho rằng, đội tuyển Malaysia sẽ bị kỷ luật theo quy định ở 2 điều khoản, gồm Điều 25 và Điều 56 của Quy tắc kỷ luật AFC. Nhưng không bị cấm vận như trường hợp Timor Leste.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:17:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793250+07:00"
+    },
+    {
+      "id": "f28230fc5cc19ad9e18c4fd047c618d8",
+      "title": "CR7 phiên bản HUTECH: Bí mật chiếc áo vía đưa đội vào tứ kết",
+      "link": "https://thanhnien.vn/cr7-phien-ban-hutech-bi-mat-chiec-ao-via-dua-doi-vao-tu-ket-185260316113842493.htm",
+      "summary": "Mang áo số 7 vì thần tượng CR7 và tỏa sáng đúng lúc như một siêu sao thực thụ! Lê Thanh Tùng – MVP của HUTECH trong trận thắng 4-0 trước trường ĐH Quy Nhơn đang là cái tên khiến mọi đối thủ tại tứ kết phải dè chừng. Mùa giải năm nay, cầu thủ này đặt niềm tin vào số 7 huyền thoại có thể thực hiện 'vũ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:12:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793403+07:00"
+    },
+    {
+      "id": "ad4dc726f29c60beedc5cc25a4858c58",
+      "title": "Đằng sau trận đấu hết mình để ‘lọt khe cửa hẹp’ vào tứ kết của HUTECH",
+      "link": "https://thanhnien.vn/dang-sau-tran-dau-het-minh-de-lot-khe-cua-hep-vao-tu-ket-cua-hutech-18526031611351832.htm",
+      "summary": "Không chỉ lách qua khe cửa hẹp để tiến vào tứ kết TNSV THACO Cup 2026, HUTECH còn cho thấy bản lĩnh của một đội bóng 'chết hụt thường sống dai'. Đằng sau tấm vé đi tiếp đầy cảm xúc ấy là câu chuyện về tình đồng đội dành cho chiếc áo số 22 và một lời khẳng định đanh thép trước thềm trận đại chiến với...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:12:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793552+07:00"
+    },
+    {
+      "id": "14816e484b80be395134c279d61ccea0",
+      "title": "Cà phê vợt Ba Lù hơn 70 năm ở Chợ Lớn: Vì sao bỗng có thêm tiệm mới?",
+      "link": "https://thanhnien.vn/ca-phe-vot-ba-lu-hon-70-nam-o-cho-lon-vi-sao-bong-co-them-tiem-moi-185260314134241594.htm",
+      "summary": "Thương hiệu cà phê vợt Ba Lù hơn 70 năm ở chợ Phùng Hưng (Chợ Lớn) bất ngờ xuất hiện thêm tiệm mới, khiến nhiều người tò mò về nguồn gốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:12:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793702+07:00"
+    },
+    {
+      "id": "20c5ce4ff76bfe7b6450e75f3c75c3e2",
+      "title": "Vì sao Lan Phương thường gây tranh cãi khi đóng vai phản diện?",
+      "link": "https://thanhnien.vn/vi-sao-lan-phuong-thuong-gay-tranh-cai-khi-dong-vai-phan-dien-185260316113638348.htm",
+      "summary": "Là gương mặt quen thuộc của phim truyền hình Việt Nam, diễn viên Lan Phương nhiều lần khiến khán giả chú ý với những vai diễn có cá tính mạnh, thậm chí gây tranh cãi. Đặc biệt vai phản diện trong 'Đồng hồ đếm ngược' đang phát sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:05:00+07:00",
+      "fetched": "2026-03-16T12:47:38.793851+07:00"
+    },
+    {
+      "id": "1ca49bf071eb624c7670f2d7563d3feb",
+      "title": "'Iran nắm chìa khóa mở lại thị trường năng lượng toàn cầu'",
+      "link": "https://vnexpress.net/iran-nam-chia-khoa-mo-lai-thi-truong-nang-luong-toan-cau-5050790.html",
+      "summary": "Iran đang gửi đi thông điệp cho thấy họ, chứ không phải Mỹ, mới là bên quyết định thời điểm chấm dứt gián đoạn nguồn cung năng lượng toàn cầu, theo Reuters.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T05:05:00+07:00",
+      "fetched": "2026-03-16T12:47:42.779102+07:00"
+    },
+    {
+      "id": "8099291e89fe3af4478209dcb87f8638",
+      "title": "Tạo 'chuyên gia' bằng AI để giảm áp lực hối cưới từ phụ huynh",
+      "link": "https://thanhnien.vn/tao-chuyen-gia-bang-ai-de-giam-ap-luc-hoi-cuoi-tu-phu-huynh-185260314091848752.htm",
+      "summary": "Các nhân vật, nội dung do AI tạo ra dưới vỏ bọc \"chuyên gia\" của người trẻ nhằm thuyết phục và thay đổi quan điểm cũ của phụ huynh đang trở thành một trào lưu mới trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:03:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794007+07:00"
+    },
+    {
+      "id": "a19b4b6c3c1c73270e5ffb5c6c2b8d4f",
+      "title": "'Làm theo trực giác khiến nhiều nhà đầu tư thua lỗ'",
+      "link": "https://vnexpress.net/lam-theo-truc-giac-khien-nhieu-nha-dau-tu-thua-lo-5050834.html",
+      "summary": "Theo chuyên gia, hành động theo trực giác xuất phát từ thiên kiến mặc định trong não bộ khiến nhiều nhà đầu tư đưa ra quyết định thua lỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:01:04+07:00",
+      "fetched": "2026-03-16T12:47:35.385410+07:00"
+    },
+    {
+      "id": "a19b4b6c3c1c73270e5ffb5c6c2b8d4f",
+      "title": "'Làm theo trực giác khiến nhiều nhà đầu tư thua lỗ'",
+      "link": "https://vnexpress.net/lam-theo-truc-giac-khien-nhieu-nha-dau-tu-thua-lo-5050834.html",
+      "summary": "Theo chuyên gia, hành động theo trực giác xuất phát từ thiên kiến mặc định trong não bộ khiến nhiều nhà đầu tư đưa ra quyết định thua lỗ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-16T05:01:04+07:00",
+      "fetched": "2026-03-16T12:47:42.779284+07:00"
+    },
+    {
+      "id": "f6bece36204534620f15976b8585d963",
+      "title": "8 điểm nhấn vòng 30 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-30-ngoai-hang-anh-5050851.html",
+      "summary": "Khoảnh khắc sao trẻ Max Dowman bước ra ánh sáng, Bruno Fernandes phá kỷ lục của David Beckham hay Liverpool tiếp tục thủng lưới phút cuối nằm trong danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:35.385596+07:00"
+    },
+    {
+      "id": "ee55b38a328e74ade6ecc466c9fad4ab",
+      "title": "9 năm 6 lần thụ tinh trong ống nghiệm",
+      "link": "https://vnexpress.net/9-nam-6-lan-thu-tinh-trong-ong-nghiem-5050975.html",
+      "summary": "9 năm hiếm muộn với 6 lần thụ tinh trong ống nghiệm tại nhiều bệnh viện, vợ chồng chị Tuyết cuối cùng đón cặp song sinh ở tuổi 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:35.385764+07:00"
+    },
+    {
+      "id": "1f086250e3ea2a5daddbd436336317d7",
+      "title": "Thiếu nữ rụng tóc sau nhiều tháng stress",
+      "link": "https://vnexpress.net/thieu-nu-rung-toc-sau-nhieu-thang-stress-5050947.html",
+      "summary": "Mái tóc của Thu, 16 tuổi, thưa dần rồi rụng từng mảng lớn bằng nửa bàn tay sau 3 tháng căng thẳng, thiếu ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:35.385924+07:00"
+    },
+    {
+      "id": "8e0e2dfa716c628d50d222384a775275",
+      "title": "Cụ bà suy thận giai đoạn cuối không phải lọc máu",
+      "link": "https://vnexpress.net/cu-ba-suy-than-giai-doan-cuoi-khong-phai-loc-mau-5050937.html",
+      "summary": "Nhờ tuân thủ dùng thuốc và điều chỉnh chế độ dinh dưỡng, bà Ngọc, 88 tuổi, suy thận độ 5 đã hồi phục về độ 3, không phải lọc máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:35.386100+07:00"
+    },
+    {
+      "id": "053685787aacdb16152662d9fa4b8b38",
+      "title": "Uống cà phê thế nào không hại dạ dày?",
+      "link": "https://vnexpress.net/uong-ca-phe-the-nao-khong-hai-da-day-5050915.html",
+      "summary": "Uống cà phê đúng cách, với lượng vừa phải và tránh khi bụng đói có thể hạn chế kích thích dạ dày tiết axit, giảm nôn nao và mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:35.386263+07:00"
+    },
+    {
+      "id": "b28afbf66392c2c0d66946b5080e77e0",
+      "title": "SonKim Land ra mắt 85 căn hộ phiên bản giới hạn tại Thảo Điền",
+      "link": "https://thanhnien.vn/sonkim-land-ra-mat-85-can-ho-phien-ban-gioi-han-tai-thao-dien-185260316104755882.htm",
+      "summary": "Hiện hữu tại trung tâm Thảo Điền, một trong những địa chỉ bất động sản đắt giá bậc nhất TP.HCM, The Berkley nổi bật với bộ sưu tập 85 căn hộ giới hạn, mang đến cơ hội hiếm hoi để sở hữu không gian sống chuẩn quốc tế giữa cộng đồng cư dân toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794184+07:00"
+    },
+    {
+      "id": "f6bece36204534620f15976b8585d963",
+      "title": "8 điểm nhấn vòng 30 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/8-diem-nhan-vong-30-ngoai-hang-anh-5050851.html",
+      "summary": "Khoảnh khắc sao trẻ Max Dowman bước ra ánh sáng, Bruno Fernandes phá kỷ lục của David Beckham hay Liverpool tiếp tục thủng lưới phút cuối nằm trong danh sách điểm nhấn tại Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-16T05:00:00+07:00",
+      "fetched": "2026-03-16T12:47:46.853452+07:00"
+    },
+    {
+      "id": "46ed5db1103ab85fa087b82120b4428a",
+      "title": "Lý do tài tử Sean Penn thắng ở Oscar 2026 nhưng không lên nhận giải",
+      "link": "https://thanhnien.vn/ly-do-tai-tu-sean-penn-thang-o-oscar-2026-nhung-khong-len-nhan-giai-185260316112958472.htm",
+      "summary": "Sean Penn vừa thắng giải Nam diễn viên phụ xuất sắc nhất ở Oscar 2026. Thế nhưng, ngôi sao kỳ cựu lại không có mặt để nhận giải khiến nhiều khán giả đặt câu hỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:57:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794337+07:00"
+    },
+    {
+      "id": "b823630f6a20c5ae1e9871357a9a132a",
+      "title": "Lịch thi đấu đội tuyển Việt Nam - Malaysia mới nhất sau khi AFC ra án: Đá mấy giờ, phát kênh nào?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-viet-nam-malaysia-moi-nhat-sau-khi-afc-ra-an-da-may-gio-phat-kenh-nao-18526031611433184.htm",
+      "summary": "Trận đấu thuộc lượt cuối bảng F vòng loại thứ ba Asian Cup 2027 giữa đội tuyển Việt Nam và Malaysia sẽ là tâm điểm của bóng đá khu vực vào cuối tháng 3 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:52:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794491+07:00"
+    },
+    {
+      "id": "9ff5b059c44a3ae315babcb87e2d0c13",
+      "title": "Lý do NSND Quế Trân sống kín tiếng ở tuổi 45",
+      "link": "https://thanhnien.vn/ly-do-nsnd-que-tran-song-kin-tieng-o-tuoi-45-185260205142427483.htm",
+      "summary": "Được sinh ra trong 'cái nôi' của bộ môn nghệ thuật cải lương, NSND Quế Trân cố gắng gìn giữ và phát huy truyền thống của gia đình. Xuyên suốt nhiều năm làm nghề, cô cũng giữ kín chuyện đời tư để có cuộc sống bình yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:51:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794640+07:00"
+    },
+    {
+      "id": "39b3ad663a0c989b1bef615cb75c1dae",
+      "title": "Yamaha ra mắt Tricity 300 2026 giá 11.400 USD",
+      "link": "https://vnexpress.net/yamaha-ra-mat-tricity-300-2026-gia-11-400-usd-5050893.html",
+      "summary": "Dòng xe ba bánh nâng cấp thiết kế với diện mạo mới, bổ sung công nghệ dẫn đường, trang bị thêm túi khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:46:04+07:00",
+      "fetched": "2026-03-16T12:47:35.386417+07:00"
+    },
+    {
+      "id": "cfe986555a51478b8d2a9fc4ece55796",
+      "title": "Cháy nhà 4 tầng ở trung tâm TP.HCM, cảnh sát cứu 5 người mắc kẹt",
+      "link": "https://thanhnien.vn/chay-nha-4-tang-o-trung-tam-tphcm-canh-sat-cuu-5-nguoi-mac-ket-185260316105641236.htm",
+      "summary": "Đám cháy bùng phát tại lầu một căn nhà trên đường Yersin, phường Bến Thành khiến hai vợ chồng cùng ba con nhỏ mắc kẹt, lực lượng Cảnh sát PCCC nhanh chóng triển khai xe thang giải cứu an toàn cả 5 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:41:00+07:00",
+      "fetched": "2026-03-16T12:47:38.794793+07:00"
+    },
+    {
+      "id": "a796b4d5cbe9fd99b31637b743be73e1",
+      "title": "Giây phút Triều Tiên khai hỏa loạt rocket có thể mang đầu đạn hạt nhân",
+      "link": "https://vnexpress.net/giay-phut-trieu-tien-khai-hoa-loat-rocket-co-the-mang-dau-dan-hat-nhan-5050913.html",
+      "summary": "Triều Tiên công bố video các tổ hợp pháo phản lực hạng nặng liên tiếp khai hỏa trong diễn tập, đánh trúng mục tiêu cách thao trường hơn 364 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:39:29+07:00",
+      "fetched": "2026-03-16T12:47:35.386577+07:00"
+    },
+    {
+      "id": "a796b4d5cbe9fd99b31637b743be73e1",
+      "title": "Giây phút Triều Tiên khai hỏa loạt rocket có thể mang đầu đạn hạt nhân",
+      "link": "https://vnexpress.net/giay-phut-trieu-tien-khai-hoa-loat-rocket-co-the-mang-dau-dan-hat-nhan-5050913.html",
+      "summary": "Triều Tiên công bố video các tổ hợp pháo phản lực hạng nặng liên tiếp khai hỏa trong diễn tập, đánh trúng mục tiêu cách thao trường hơn 364 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T04:39:29+07:00",
+      "fetched": "2026-03-16T12:47:41.139561+07:00"
+    },
+    {
+      "id": "51cd89aaa4df5bc97ce35bf5b9e15efb",
+      "title": "7 dưỡng chất tốt cho thị lực",
+      "link": "https://vnexpress.net/7-duong-chat-tot-cho-thi-luc-5050922.html",
+      "summary": "Vitamin A, B, C, E, omega-3 trong cá, các loại hạt giúp nuôi dưỡng, bảo vệ sức khỏe đôi mắt, hạn chế tình trạng suy giảm thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:30:00+07:00",
+      "fetched": "2026-03-16T12:47:35.386729+07:00"
+    },
+    {
+      "id": "c4670d3f7d1916a54ab943e9daf455a3",
+      "title": "5 thói quen sau bữa ăn giúp ổn định đường huyết",
+      "link": "https://vnexpress.net/5-thoi-quen-sau-bua-an-giup-on-dinh-duong-huyet-5050845.html",
+      "summary": "Hít thở sâu, uống một cốc nước lọc và ăn nhẹ có thể ngăn ngừa tăng đường huyết đột ngột, giúp cơ thể tỉnh táo và hỗ trợ trao đổi chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:30:00+07:00",
+      "fetched": "2026-03-16T12:47:35.386880+07:00"
+    },
+    {
+      "id": "6a643c22dbcbf49ccf51ec0852c6690c",
+      "title": "Ngồi tù oan 5 tháng vì AI nhận dạng nhầm khuôn mặt",
+      "link": "https://vnexpress.net/ngoi-tu-oan-5-thang-vi-ai-nhan-dang-nham-khuon-mat-5050955.html",
+      "summary": "Angela Lipps, 50 tuổi, bị bắt giam oan sau khi phần mềm nhận dạng khuôn mặt chỉ ra bà là nghi phạm chính trong vụ gian lận ngân hàng có tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:26:53+07:00",
+      "fetched": "2026-03-16T12:47:35.387045+07:00"
+    },
+    {
+      "id": "015abb138a92c24ab81b3c6df6982000",
+      "title": "Iran thách ông Trump điều tàu chiến đi qua Eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-thach-ong-trump-dieu-tau-chien-di-qua-eo-bien-hormuz-5050927.html",
+      "summary": "Vệ binh Iran thách thức các tuyên bố từ Tổng thống Trump, kêu gọi Mỹ triển khai tàu chiến đi qua Eo biển Hormuz và Vịnh Ba Tư \"nếu dám\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:13:31+07:00",
+      "fetched": "2026-03-16T12:47:35.387222+07:00"
+    },
+    {
+      "id": "015abb138a92c24ab81b3c6df6982000",
+      "title": "Iran thách ông Trump điều tàu chiến đi qua Eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-thach-ong-trump-dieu-tau-chien-di-qua-eo-bien-hormuz-5050927.html",
+      "summary": "Vệ binh Iran thách thức các tuyên bố từ Tổng thống Trump, kêu gọi Mỹ triển khai tàu chiến đi qua Eo biển Hormuz và Vịnh Ba Tư \"nếu dám\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T04:13:31+07:00",
+      "fetched": "2026-03-16T12:47:41.139734+07:00"
+    },
+    {
+      "id": "6a8cd632d476d587e4dfaea91d6022c1",
+      "title": "Cựu hiệu trưởng ở Hà Nội bị cáo buộc thu vượt một tỷ đồng tiền dạy thêm",
+      "link": "https://vnexpress.net/cuu-hieu-truong-o-ha-noi-bi-cao-buoc-thu-vuot-mot-ty-dong-tien-day-them-5050745.html",
+      "summary": "Bị cáo buộc \" áp giá\" dạy thêm gấp đôi quy định, chỉ đạo lập hai sổ kế toán, cựu hiệu trưởng trường THCS Ba Đình Nguyễn Thị Bình, 53 tuổi, sẽ hầu tòa sau 13 năm xảy ra sự việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:12:13+07:00",
+      "fetched": "2026-03-16T12:47:35.387380+07:00"
+    },
+    {
+      "id": "54e0862b741d42a8751f6dc19cd89291",
+      "title": "Làm thế nào để đặt số 4 vào bên trong số 5?",
+      "link": "https://vnexpress.net/lam-the-nao-de-dat-so-4-vao-ben-trong-so-5-5048692.html",
+      "summary": "Trong những câu đố trí tuệ thú vị, mọi thứ đều có thể xảy ra nếu bạn chịu khó nhìn vấn đề theo một góc độ khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:09:45+07:00",
+      "fetched": "2026-03-16T12:47:35.387560+07:00"
+    },
+    {
+      "id": "08116c654cf6625b5fe8fd4260284809",
+      "title": "Người châu Á chật vật giữa khủng hoảng xăng dầu",
+      "link": "https://vnexpress.net/nguoi-chau-a-chat-vat-giua-khung-hoang-xang-dau-5050111.html",
+      "summary": "Bị ảnh hưởng nặng nề khi thị trường dầu khí biến động do chiến sự Trung Đông, nhiều người dân châu Á phải xếp hàng chờ đổ xăng và tăng cường tiết kiệm năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-16T04:07:02+07:00",
+      "fetched": "2026-03-16T12:47:35.387715+07:00"
+    },
+    {
+      "id": "08116c654cf6625b5fe8fd4260284809",
+      "title": "Người châu Á chật vật giữa khủng hoảng xăng dầu",
+      "link": "https://vnexpress.net/nguoi-chau-a-chat-vat-giua-khung-hoang-xang-dau-5050111.html",
+      "summary": "Bị ảnh hưởng nặng nề khi thị trường dầu khí biến động do chiến sự Trung Đông, nhiều người dân châu Á phải xếp hàng chờ đổ xăng và tăng cường tiết kiệm năng lượng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T04:07:02+07:00",
+      "fetched": "2026-03-16T12:47:41.139896+07:00"
+    },
+    {
+      "id": "56b14f889d0dcf65635a924d7a82e47e",
+      "title": "Thủ tướng Israel đăng video uống cà phê, đáp trả tin đồn 'đã chết'",
+      "link": "https://vnexpress.net/thu-tuong-israel-dang-video-uong-ca-phe-dap-tra-tin-don-da-chet-5050842.html",
+      "summary": "Thủ tướng Israel Netanyahu đăng video uống cà phê và trò chuyện với trợ lý, đáp trả tin đồn ông đã chết hoặc bị thương trong đòn tập kích của Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T03:33:04+07:00",
+      "fetched": "2026-03-16T12:47:41.140076+07:00"
+    },
+    {
+      "id": "8a09f3d3c011ec683d123b82f7bcf7e1",
+      "title": "Hai anh em tự chế robot xoay rubik",
+      "link": "https://vnexpress.net/hai-anh-em-tu-che-robot-xoay-rubik-5050896.html",
+      "summary": "The Revenger, robot tự chế của hai anh em Matthew và Thomas Pidden (Anh), lập kỷ lục thế giới về thời gian giải khối rubik 4x4x4 ngắn nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-16T03:25:32+07:00",
+      "fetched": "2026-03-16T12:47:45.208570+07:00"
+    },
+    {
+      "id": "a132db42536eae90b136ba2e2ae92cdc",
+      "title": "Du học sinh Việt quay lén phụ nữ trong nhà vệ sinh ở Australia",
+      "link": "https://vnexpress.net/du-hoc-sinh-viet-quay-len-phu-nu-trong-nha-ve-sinh-o-australia-5050342.html",
+      "summary": "Bao Phuc Cao phải ra hầu tòa sau khi thừa nhận dùng điện thoại quay lén phụ nữ tại nhà vệ sinh công cộng ở Docklands, Melbourne.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T03:16:17+07:00",
+      "fetched": "2026-03-16T12:47:41.140238+07:00"
+    },
+    {
+      "id": "7ec5b4f7657b605248792ecf30732ca6",
+      "title": "Anh có thể đưa drone săn thủy lôi đến Eo biển Hormuz",
+      "link": "https://vnexpress.net/anh-co-the-dua-drone-san-thuy-loi-den-eo-bien-hormuz-5050787.html",
+      "summary": "Chính phủ Anh đang xem xét kế hoạch triển khai thiết bị không người lái chuyên rà phá thủy lôi tới Eo biển Hormuz, thay vì điều tàu quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T03:11:26+07:00",
+      "fetched": "2026-03-16T12:47:41.140396+07:00"
+    },
+    {
+      "id": "a982963823743e631e220d93dc7de6e7",
+      "title": "Sinner hạ Medvedev, vô địch Indian Wells",
+      "link": "https://vnexpress.net/sinner-ha-medvedev-vo-dich-indian-wells-5050886.html",
+      "summary": "Hạt giống số hai Jannik Sinner thắng 7-6(6), 7-6(4) trước Daniil Medvedev trong trận chung kết Indian Wells Masters, hôm 15/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-16T03:01:21+07:00",
+      "fetched": "2026-03-16T12:47:46.853625+07:00"
+    },
+    {
+      "id": "51535290f56188b9b55760b984c9a800",
+      "title": "Iran 'đập tan âm mưu của kẻ thù' vụ cầu thủ nữ rút đơn tị nạn",
+      "link": "https://vnexpress.net/iran-dap-tan-am-muu-cua-ke-thu-vu-cau-thu-nu-rut-don-ti-nan-5050852.html",
+      "summary": "Báo Iran Tasnim cho rằng việc 5 trong 7 thành viên tuyển bóng đá nữ nước này rút đơn tị nạn ở Australia là \"quyết định yêu nước\", \"thoát khỏi cái bẫy của Mỹ\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-16T02:59:34+07:00",
+      "fetched": "2026-03-16T12:47:46.853788+07:00"
+    },
+    {
+      "id": "8f85cfe8ba55c73fb4fdb1130c4c692b",
+      "title": "Mỹ bỏ biểu tượng hòa bình trên đồng xu quốc khánh",
+      "link": "https://vnexpress.net/my-bo-bieu-tuong-hoa-binh-tren-dong-xu-quoc-khanh-5050822.html",
+      "summary": "Mỹ phát hành đồng 10 cent kỷ niệm 250 năm quốc khánh, nhưng bỏ hình ảnh cành ô liu, biểu tượng của hòa bình, gây chú ý trong dư luận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T02:47:24+07:00",
+      "fetched": "2026-03-16T12:47:41.140550+07:00"
+    },
+    {
+      "id": "9aee57a73097fad68d0e771fd2de9f5b",
+      "title": "Ông Trump muốn NATO, Trung Quốc giúp mở lại Eo biển Hormuz",
+      "link": "https://vnexpress.net/ong-trump-muon-nato-trung-quoc-giup-mo-lai-eo-bien-hormuz-5050784.html",
+      "summary": "Ông Trump muốn NATO, Trung Quốc hỗ trợ mở lại Eo biển Hormuz vì cho rằng họ phụ thuộc dầu từ Vùng Vịnh nhiều hơn Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-16T02:13:50+07:00",
+      "fetched": "2026-03-16T12:47:41.140710+07:00"
+    },
+    {
       "id": "84ac37ca54ea20447399ca39124fe21d",
       "title": "Giá vàng đứng im, giá bạc tiếp tục giảm ngay đầu tuần",
       "link": "https://thanhnien.vn/gia-vang-dung-im-gia-bac-tiep-tuc-giam-ngay-dau-tuan-185260316082822855.htm",
@@ -191,6 +781,16 @@ window.newsData_2026_03_16 = {
       "category": "Tổng hợp",
       "published": "2026-03-16T02:00:00+07:00",
       "fetched": "2026-03-16T09:07:38.663649+07:00"
+    },
+    {
+      "id": "a345ddd06f1a0f4ffe3904db09f4f4f8",
+      "title": "Sony WF-1000XM6 nâng cấp chống ồn, âm thanh 32 bit",
+      "link": "https://vnexpress.net/sony-wf-1000xm6-nang-cap-chong-on-am-thanh-32-bit-5050540.html",
+      "summary": "WF-1000XM6, tai nghe TWS đầu bảng của Sony, có khả năng khử ổn tốt hơn 25% so với thế hệ trước, khả năng xử lý âm thanh 32 bit.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-16T02:00:00+07:00",
+      "fetched": "2026-03-16T12:47:45.209094+07:00"
     },
     {
       "id": "682a9737b80046f23a2cdd553cdef451",
