@@ -1,7 +1,17 @@
 window.newsData_2026_03_17 = {
   "date": "2026-03-17",
-  "lastUpdated": "2026-03-17T01:57:49.931392+07:00",
+  "lastUpdated": "2026-03-17T03:35:39.756605+07:00",
   "articles": [
+    {
+      "id": "8cb436c216f532de479c4087e3af84bb",
+      "title": "CLB Thanh Hóa được FIFA xóa án sát giờ 'G'",
+      "link": "https://tuoitre.vn/clb-thanh-hoa-duoc-fifa-xoa-an-sat-gio-g-20260316235330157.htm",
+      "summary": "CLB Thanh Hóa đã hoàn tất nghĩa vụ tài chính, được FIFA gỡ lệnh cấm đăng ký cầu thủ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T03:35:33.544607+07:00",
+      "fetched": "2026-03-17T03:35:33.544813+07:00"
+    },
     {
       "id": "ef89df54131182ddc45e4ceda039b1a7",
       "title": "Mỹ giảm hơn 80% phí cho người từ bỏ quốc tịch, còn chỉ 450 USD",
