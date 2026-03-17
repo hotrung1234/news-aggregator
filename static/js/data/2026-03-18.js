@@ -1,6 +1,6 @@
 window.newsData_2026_03_18 = {
   "date": "2026-03-18",
-  "lastUpdated": "2026-03-18T01:59:10.827786+07:00",
+  "lastUpdated": "2026-03-18T03:36:05.166936+07:00",
   "articles": [
     {
       "id": "7951e192066d4de44ce753aeded9f37f",
@@ -191,6 +191,26 @@ window.newsData_2026_03_18 = {
       "category": "Tổng hợp",
       "published": "2026-03-18T00:01:24.762372+07:00",
       "fetched": "2026-03-18T00:01:24.762592+07:00"
+    },
+    {
+      "id": "b130cb414ffe05d70288e67782ac197e",
+      "title": "U.23 Việt Nam khởi đầu chu kỳ mới",
+      "link": "https://thanhnien.vn/u23-viet-nam-khoi-dau-chu-ky-moi-185260317212809125.htm",
+      "summary": "Chiều 17.3, đội tuyển U.23 VN đã có buổi tập đầu tiên với HLV tạm quyền Đinh Hồng Vinh, đánh dấu chu kỳ mới với nhiều kỳ vọng cho mục tiêu chinh phục VCK U.23 châu Á 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T19:14:00+07:00",
+      "fetched": "2026-03-18T03:35:57.470023+07:00"
+    },
+    {
+      "id": "abef26eb147c95313d1ae532c26b4831",
+      "title": "Có nên giặt quần áo mới trước khi mặc?",
+      "link": "https://vnexpress.net/co-nen-giat-quan-ao-moi-truoc-khi-mac-5050832.html",
+      "summary": "Làn da của tôi khá nhạy cảm, tôi có nên giặt quần áo mới trước khi mặc để hạn chế tình trạng ngứa, nổi mẩn hay không?(Tú, 23 tuổi, Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-17T19:00:00+07:00",
+      "fetched": "2026-03-18T03:35:54.539016+07:00"
     },
     {
       "id": "34121f263050420652fa8541c7dde884",
