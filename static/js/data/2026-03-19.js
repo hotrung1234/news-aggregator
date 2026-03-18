@@ -1,6 +1,6 @@
 window.newsData_2026_03_19 = {
   "date": "2026-03-19",
-  "lastUpdated": "2026-03-19T03:32:31.794059+07:00",
+  "lastUpdated": "2026-03-19T05:29:35.674606+07:00",
   "articles": [
     {
       "id": "50fbf1d8ef4fe146a114a05829a7224f",
@@ -151,6 +151,206 @@ window.newsData_2026_03_19 = {
       "category": "Tổng hợp",
       "published": "2026-03-19T01:55:30.865773+07:00",
       "fetched": "2026-03-19T01:55:30.865982+07:00"
+    },
+    {
+      "id": "1188451c2eb60fe1ac9a5d28125f222e",
+      "title": "Ukraine tăng cường hợp tác với EU để đối phó Nga",
+      "link": "https://thanhnien.vn/ukraine-tang-cuong-hop-tac-voi-eu-de-doi-pho-nga-185260318221433405.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky tiếp tục chuyến công du châu Âu, sau khi đạt thỏa thuận quan trọng về máy bay không người lái (UAV) với Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:27:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422154+07:00"
+    },
+    {
+      "id": "2f743fa016b31b8f184b6faf2a841d5c",
+      "title": "Khổ sở trên con đường ùn tắc nhất TP.HCM, người dân chờ mở rộng 8 làn xe",
+      "link": "https://thanhnien.vn/kho-so-tren-con-duong-un-tac-nhat-tphcm-nguoi-dan-cho-mo-rong-8-lan-xe-185260318103737953.htm",
+      "summary": "Tình trạng ùn tắc kéo dài trên đường Nguyễn Tất Thành – trục kết nối trung tâm TP.HCM với khu Nam thành phố đang gây nhiều áp lực cho việc đi lại của người dân. Trước thực tế này, kế hoạch mở rộng tuyến đường lên tối thiểu 8 làn xe được kỳ vọng sẽ sớm triển khai, góp phần giải bài toán giao thông và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:25:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422325+07:00"
+    },
+    {
+      "id": "660e0d3641a800be50e7c8da444c6996",
+      "title": "Phòng khám miễn phí trong chùa: Người ở lại mấy chục năm không lương vì điều gì?",
+      "link": "https://thanhnien.vn/phong-kham-mien-phi-trong-chua-nguoi-o-lai-may-chuc-nam-khong-luong-vi-dieu-gi-185260318142834069.htm",
+      "summary": "Không chỉ chữa bệnh miễn phí, phòng khám trong chùa ở TP.HCM còn giữ chân nhiều người bằng nghĩa tình: có người từng là bệnh nhân, khỏi bệnh rồi ở lại, lặng lẽ giúp đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:22:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422506+07:00"
+    },
+    {
+      "id": "bfc630eb18c8998501f24b2b6c8f47fe",
+      "title": "Mỹ tuyên bố đang phá hủy năng lực tên lửa, Iran đánh trả ra sao?",
+      "link": "https://thanhnien.vn/my-tuyen-bo-dang-pha-huy-nang-luc-ten-lua-iran-danh-tra-ra-sao-185260318221910237.htm",
+      "summary": "Mặc dù khả năng phóng bị suy giảm, các chuyên gia cho rằng Iran vẫn có đủ tên lửa để tấn công chiến lược và gây căng thẳng trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:18:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422666+07:00"
+    },
+    {
+      "id": "a3c478f562f5e0abd404c16fb3b4843d",
+      "title": "Tử vi ngày 19 tháng 3: Con giáp nào may mắn hôm nay?",
+      "link": "https://thanhnien.vn/tu-vi-ngay-19-thang-3-con-giap-nao-may-man-hom-nay-185260318234248179.htm",
+      "summary": "Tử vi ngày 19 tháng 3 mang đến những gợi ý mang tính tham khảo cho 12 con giáp trong ngày mùng 1 tháng 2 âm lịch. Vận khí thiên về sự khởi động nhẹ nhàng nhưng rõ định hướng. Tài lộc hôm nay mang tính \"gieo hạt\", chưa thấy ngay kết quả nhưng có tín hiệu tích cực nếu đi đúng hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:15:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422820+07:00"
+    },
+    {
+      "id": "a6c3ef8d8947dc67ce54c14fd5771782",
+      "title": "Tiêm vắc xin não mô cầu cho trẻ: Phụ huynh không nên hoảng loạn",
+      "link": "https://thanhnien.vn/tiem-vac-xin-nao-mo-cau-cho-tre-phu-huynh-khong-nen-hoang-loan-185260318211907183.htm",
+      "summary": "Sau ca tử vong nghi do não mô cầu tại Phú Quốc (An Giang), nhiều phụ huynh đã đưa con đi tiêm vắc xin, khiến các điểm tiêm chủng rơi vào tình trạng quá tải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:11:00+07:00",
+      "fetched": "2026-03-19T05:29:27.422995+07:00"
+    },
+    {
+      "id": "e3c25e5ab7563a7f25bc4b5e3221db20",
+      "title": "Đà Nẵng yêu cầu không để tài nguyên khoáng sản 'nằm trên giấy'",
+      "link": "https://thanhnien.vn/da-nang-yeu-cau-khong-de-tai-nguyen-khoang-san-nam-tren-giay-18526031820445411.htm",
+      "summary": "Trong bối cảnh nguồn vật liệu xây dựng khan hiếm, lãnh đạo UBND thành phố Đà Nẵng yêu cầu đẩy nhanh cấp phép, đấu giá, không để tài nguyên 'nằm trên giấy', xử lý dứt điểm tình trạng khai thác trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:10:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423148+07:00"
+    },
+    {
+      "id": "1507dd3c44a35054da0fe24cae618641",
+      "title": "Công nghiệp văn hóa: 'Mỏ vàng' cần khung pháp lý",
+      "link": "https://thanhnien.vn/cong-nghiep-van-hoa-mo-vang-can-khung-phap-ly-185260311113054305.htm",
+      "summary": "Công nghiệp văn hóa có thể trở thành 'mỏ vàng' kinh tế nếu được bảo vệ bởi khung pháp lý minh bạch, đặc biệt về sở hữu trí tuệ, đầu tư và thực thi bản quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:09:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423303+07:00"
+    },
+    {
+      "id": "c26ba81b10d3f733e1ba9062d431a83e",
+      "title": "Đà Nẵng thu hồi hơn 220 tỉ đồng thất thoát, thúc đẩy tháo 'điểm nghẽn' đất đai",
+      "link": "https://thanhnien.vn/da-nang-thu-hoi-hon-220-ti-dong-that-thoat-thuc-day-thao-diem-nghen-dat-dai-185260318183913384.htm",
+      "summary": "Chỉ trong quý 1/2026, thành phố Đà Nẵng đã thu hồi hơn 220 tỉ đồng thất thoát từ các vụ án tham nhũng, đồng thời xử lý hàng loạt vụ việc tồn đọng kéo dài. Tuy nhiên, nhiều 'nút thắt' lớn về đất đai vẫn chưa được tháo gỡ dứt điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:05:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423472+07:00"
+    },
+    {
+      "id": "4806a173736c278a70b8ecbe23bb451c",
+      "title": "Biệt thự chứng tích của 'lãnh chúa miền Trung' Ngô Đình Cẩn ở Huế đang thế nào?",
+      "link": "https://thanhnien.vn/biet-thu-chung-tich-cua-lanh-chua-mien-trung-ngo-dinh-can-o-hue-dang-the-nao-185260318153715562.htm",
+      "summary": "Từng là nơi xa hoa của 'lãnh chúa miền Trung' Ngô Đình Cẩn, biệt thự ở đường Thiên Thai (Huế) đang hoang phế, cỏ cây bủa vây, phủ vẻ u ám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:05:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423624+07:00"
+    },
+    {
+      "id": "23f03c37b6e74d85727dbe15957e8eb9",
+      "title": "Barcelona thắng đậm Newcastle, Liverpool đánh bại Galatasaray: Champions League xuất hiện 4 trận tứ kết cực căng",
+      "link": "https://thanhnien.vn/barcelona-thang-dam-newcastle-liverpool-danh-bai-galatasaray-champions-league-xuat-hien-4-tran-tu-ket-cuc-cang-185260319045926984.htm",
+      "summary": "Sau khi 4 trận lượt về khép lại vào rạng sáng 19.3, Champions League 2025 - 2026 đã xác định được 4 trận tứ kết cực hấp dẫn, khó đoán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:03:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423773+07:00"
+    },
+    {
+      "id": "920dec7c901eb4dd36d3c30c9f2f25b4",
+      "title": "Kane chạm mốc 50 bàn ở Champions League",
+      "link": "https://vnexpress.net/kane-cham-moc-50-ban-o-champions-league-5052159.html",
+      "summary": "Lập cú đúp trong trận Bayern thắng Atalanta 4-1 ở lượt về vòng 1/8, Harry Kane trở thành cầu thủ người Anh đầu tiên chạm mốc 50 bàn ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-18T22:01:51+07:00",
+      "fetched": "2026-03-19T05:29:35.669561+07:00"
+    },
+    {
+      "id": "ad7da46d2c15b63004c0930c223acaa5",
+      "title": "Tranh cãi về 'mắt thần' truy quét tội phạm ở Sao Paulo",
+      "link": "https://thanhnien.vn/tranh-cai-ve-mat-than-truy-quet-toi-pham-o-sao-paulo-185260318220557384.htm",
+      "summary": "Năm 2024, Sao Paulo - thành phố đóng vai trò trung tâm tài chính của Brazil - đưa vào sử dụng Smart Sampa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:01:00+07:00",
+      "fetched": "2026-03-19T05:29:27.423931+07:00"
+    },
+    {
+      "id": "7d17d04af67127446fca194971508544",
+      "title": "Hôm nay 19.3 ngày đầu tháng 2 âm lịch: Mùng 1 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/hom-nay-193-ngay-dau-thang-2-am-lich-mung-1-co-gi-dac-biet-185260318152022413.htm",
+      "summary": "Ngày 19.3 hôm nay là ngày đầu tiên người Việt đón tháng 2 âm lịch. Tháng này có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:00:00+07:00",
+      "fetched": "2026-03-19T05:29:27.424080+07:00"
+    },
+    {
+      "id": "92ea7427c260587259be86ba504d6503",
+      "title": "Mối tương quan đặc biệt giữa béo phì và ung thư",
+      "link": "https://thanhnien.vn/moi-tuong-quan-dac-biet-giua-beo-phi-va-ung-thu-185260316160603408.htm",
+      "summary": "Theo chuyên trang sức khỏe Verywell Health, một nghịch lý đáng báo động đang diễn ra tại Mỹ khi tỷ lệ ung thư ở người dưới 50 tuổi tăng vọt bất chấp những tiến bộ y khoa vượt bậc. Các nhà khoa học đã xác định béo phì chính là tác nhân chung giữa cuộc khủng hoảng này với tình trạng thừa cân diện rộng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:00:00+07:00",
+      "fetched": "2026-03-19T05:29:27.424229+07:00"
+    },
+    {
+      "id": "65165fb850a4415b02aea58af31212e8",
+      "title": "Tòa nhà 162 năm tuổi giữa trung tâm TP.HCM, cổ hơn nhà thờ Đức Bà",
+      "link": "https://thanhnien.vn/toa-nha-162-nam-tuoi-giua-trung-tam-tphcm-co-hon-nha-tho-duc-ba-185260314145745698.htm",
+      "summary": "Ít ai biết ngay trung tâm TP.HCM có Dinh Thượng Thơ hơn 162 năm tuổi, một trong những công trình cổ nhất thành phố và lâu đời hơn nhà thờ Đức Bà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T22:00:00+07:00",
+      "fetched": "2026-03-19T05:29:27.424375+07:00"
+    },
+    {
+      "id": "b90ad39a94f176f053b71bf11f9d838b",
+      "title": "Startup Việt phát triển nền tảng AI cho đồ chơi tại Mỹ",
+      "link": "https://vnexpress.net/startup-viet-phat-trien-nen-tang-ai-cho-do-choi-tai-my-5051160.html",
+      "summary": "Olli, startup Việt phát triển \"hệ điều hành\" cho đồ chơi AI, được nhiều ông lớn trên thế giới sử dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-18T22:00:00+07:00",
+      "fetched": "2026-03-19T05:29:33.838058+07:00"
+    },
+    {
+      "id": "499c20c45d9b31b3a33e1da6e888e433",
+      "title": "Barca thắng Newcastle 7-2 ở Champions League",
+      "link": "https://vnexpress.net/barca-thang-newcastle-7-2-o-champions-league-5052158.html",
+      "summary": "Barca thắng đội khách Newcastle 7-2 ở lượt về vòng 1/8, qua đó vào tứ kết Champions League với tổng tỷ số 8-3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T21:25:28+07:00",
+      "fetched": "2026-03-19T05:29:24.339111+07:00"
+    },
+    {
+      "id": "499c20c45d9b31b3a33e1da6e888e433",
+      "title": "Barca thắng Newcastle 7-2 ở Champions League",
+      "link": "https://vnexpress.net/barca-thang-newcastle-7-2-o-champions-league-5052158.html",
+      "summary": "Barca thắng đội khách Newcastle 7-2 ở lượt về vòng 1/8, qua đó vào tứ kết Champions League với tổng tỷ số 8-3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-18T21:25:28+07:00",
+      "fetched": "2026-03-19T05:29:35.669362+07:00"
+    },
+    {
+      "id": "3a7c81324defbc87dcfd7c691e9731a8",
+      "title": "Xe siêu trường tự chuyển hàng không cần tài xế",
+      "link": "https://vnexpress.net/xe-sieu-truong-tu-chuyen-hang-khong-can-tai-xe-5051089.html",
+      "summary": "Xe đầu kéo tự hành trang bị 13 camera, 6 cảm biến radar và 4 thiết bị LiDAR nhằm giám sát môi trường và điều khiển theo thời gian thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T21:00:00+07:00",
+      "fetched": "2026-03-19T05:29:24.339292+07:00"
     },
     {
       "id": "f06d5b88a92fd3bbd0fbbf55e729716b",
