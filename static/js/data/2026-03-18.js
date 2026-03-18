@@ -1,7 +1,27 @@
 window.newsData_2026_03_18 = {
   "date": "2026-03-18",
-  "lastUpdated": "2026-03-18T21:59:49.701934+07:00",
+  "lastUpdated": "2026-03-18T23:56:13.359316+07:00",
   "articles": [
+    {
+      "id": "c855076ce49e190ce5d9dbb42b4bf184",
+      "title": "Tàu hộ vệ tên lửa 016 - Quang Trung sẵn sàng tham gia diễn tập hải quân đa phương Kakadu 2026",
+      "link": "https://tuoitre.vn/tau-ho-ve-ten-lua-016-quang-trung-san-sang-tham-gia-dien-tap-hai-quan-da-phuong-kakadu-2026-20260318205008524.htm",
+      "summary": "Ngày 18-3, tàu hộ vệ tên lửa 016 - Quang Trung, thuộc Lữ đoàn 162, Vùng 4 Hải quân đã có mặt tại vịnh Jervis, bang New South Wales, Úc, sẵn sàng tham gia diễn tập hải quân đa phương Kakadu 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T23:56:06.046269+07:00",
+      "fetched": "2026-03-18T23:56:06.046416+07:00"
+    },
+    {
+      "id": "b02c90ab66832abf3d2ec87d6a622673",
+      "title": "Hai tân binh đặc biệt ở Sư đoàn Phòng không 375",
+      "link": "https://tuoitre.vn/hai-tan-binh-dac-biet-o-su-doan-phong-khong-375-20260318213752065.htm",
+      "summary": "Trên thao trường huấn luyện chiến sĩ mới ở Sư đoàn Phòng không 375, câu chuyện vào lính của các tân binh luôn tạo cảm xúc đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T23:56:06.046039+07:00",
+      "fetched": "2026-03-18T23:56:06.046253+07:00"
+    },
     {
       "id": "f7127e436c507728ce6afed1c494943b",
       "title": "Lãnh đạo Đà Nẵng yêu cầu công an vào cuộc kiểm tra giá cát",
@@ -453,6 +473,16 @@ window.newsData_2026_03_18 = {
       "fetched": "2026-03-18T17:50:03.376601+07:00"
     },
     {
+      "id": "fd5a03398d5a9be7066596d58e43f8e1",
+      "title": "Nhập tịch - cuộc chơi đắt đỏ",
+      "link": "https://vnexpress.net/nhap-tich-cuoc-choi-dat-do-5052147.html",
+      "summary": "Bê bối nhập tịch khiến đội tuyển quốc gia Malaysia bị xử thua 0-3 là một lợi thế cho Việt Nam. Nhưng đó là lợi thế tình huống, không phải một bước ngoặt lợi thế cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T16:52:34+07:00",
+      "fetched": "2026-03-18T23:56:01.455272+07:00"
+    },
+    {
       "id": "3fe7c3402170777bef484aa321a69c1b",
       "title": "Ông Zelensky tặng Vua Charles chiếc iPad hiển thị tình hình chiến trường và không phận Ukraine",
       "link": "https://tuoitre.vn/ong-zelensky-tang-vua-charles-chiec-ipad-hien-thi-tinh-hinh-chien-truong-va-khong-phan-ukraine-20260318125114272.htm",
@@ -601,6 +631,76 @@ window.newsData_2026_03_18 = {
       "category": "Tổng hợp",
       "published": "2026-03-18T15:43:50.357564+07:00",
       "fetched": "2026-03-18T15:43:50.357772+07:00"
+    },
+    {
+      "id": "dfcf103215b761931f83d74a4f3cae2e",
+      "title": "Tàu sân bay Mỹ phải cập cảng khắc phục sự cố cháy hơn 30 tiếng",
+      "link": "https://thanhnien.vn/tau-san-bay-my-phai-cap-cang-khac-phuc-su-co-chay-hon-30-tieng-18526031818531825.htm",
+      "summary": "Tàu sân bay USS Gerald R. Ford của quân đội Mỹ đang thực hiện nhiệm vụ tại Trung Đông sẽ tạm thời cập cảng để khắc phục sự cố sau vụ cháy hơn 30 tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T15:29:00+07:00",
+      "fetched": "2026-03-18T23:56:04.680757+07:00"
+    },
+    {
+      "id": "bb1d0baba9668e41a77b669fc36e851b",
+      "title": "Highlight Cúp quốc gia Đà Nẵng 1-2 Nam Định: Xuân Son tỏa sáng",
+      "link": "https://thanhnien.vn/highlight-cup-quoc-gia-da-nang-1-2-nam-dinh-xuan-son-toa-sang-18526031822274261.htm",
+      "summary": "Tối 18.3, ở tứ kết Cúp quốc gia 2025-2026, CLB Nam Định phải rất vất vả mới có thể bảo toàn được chiến thắng 2-1 trước đội Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T15:27:00+07:00",
+      "fetched": "2026-03-18T23:56:04.680924+07:00"
+    },
+    {
+      "id": "c56fd409f1e4cb87c88719f24b906894",
+      "title": "HLV Vũ Văn Trung lý giải đấu pháp tâm lý đưa Trường ĐH Thủy lợi trở lại bán kết",
+      "link": "https://thanhnien.vn/hlv-vu-van-trung-ly-giai-dau-phap-tam-ly-dua-truong-dh-thuy-loi-tro-lai-ban-ket-185260318221559485.htm",
+      "summary": "Bằng việc giải mã áp lực đối thủ và khơi dậy khát khao từ những thất bại cũ, HLV Vũ Văn Trung đã đưa ĐH Thủy lợi trở lại bán kết sau 2 năm chờ đợi. Đây không chỉ là sự thăng hoa trên sân cỏ mà còn khẳng định một chiến thuật tâm lý đầy bản lĩnh đã mở đường cho chiến thắng \"4 sao\" trước đội đương kim ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T15:20:00+07:00",
+      "fetched": "2026-03-18T23:56:04.681084+07:00"
+    },
+    {
+      "id": "9a4f5396ac766a384ee2458c041ef7bb",
+      "title": "Xuân Son háo hức tái ngộ Hoàng Hên: 'Chúng tôi muốn chiến đấu vì màu cờ sắc áo Việt Nam’",
+      "link": "https://thanhnien.vn/xuan-son-hao-huc-tai-ngo-hoang-hen-chung-toi-muon-chien-dau-vi-mau-co-sac-ao-viet-nam-185260318215941567.htm",
+      "summary": "Ngay sau khi góp công giúp CLB Nam Định đánh bại Đà Nẵng 2-1 ở Cúp quốc gia 2025 - 2026 tối 18.3, Xuân Son đã hướng sự tập trung cho đội tuyển quốc gia Việt Nam, nơi anh sắp gặp lại đồng đội cũ Hoàng Hên. Trong khi đó, HLV hai đội cũng đã có những chia sẻ về cảm xúc sau trận tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T15:01:00+07:00",
+      "fetched": "2026-03-18T23:56:04.681235+07:00"
+    },
+    {
+      "id": "6330c8ad4fd842f1fc1545f39eca78e6",
+      "title": "5 doanh nghiệp nghìn tỉ vượt vòng hồ sơ thí điểm sàn tài sản mã hóa",
+      "link": "https://thanhnien.vn/5-doanh-nghiep-nghin-ti-vuot-vong-ho-so-thi-diem-san-tai-san-ma-hoa-185260318212416968.htm",
+      "summary": "Có 5/7 hồ sơ đề nghị cấp Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa được Bộ Tài chính đánh giá đầy đủ, hợp lệ, đã gửi xin ý kiến Bộ Công an và Ngân hàng Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T15:00:00+07:00",
+      "fetched": "2026-03-18T23:56:04.681402+07:00"
+    },
+    {
+      "id": "57844d41813fba3dd90e60e2550e205f",
+      "title": "Ông Trump tạm gỡ 'luật hàng hải trăm năm' để giảm tác động từ chiến sự Iran",
+      "link": "https://vnexpress.net/ong-trump-tam-go-luat-hang-hai-tram-nam-de-giam-tac-dong-tu-chien-su-iran-5052121.html",
+      "summary": "Tổng thống Trump gỡ các quy định trong Đạo luật Jones về vận tải biển trong 60 ngày, cho phép Mỹ giảm thiểu tác động từ chiến sự với Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T14:59:11+07:00",
+      "fetched": "2026-03-18T23:56:01.455474+07:00"
+    },
+    {
+      "id": "57844d41813fba3dd90e60e2550e205f",
+      "title": "Ông Trump tạm gỡ 'luật hàng hải trăm năm' để giảm tác động từ chiến sự Iran",
+      "link": "https://vnexpress.net/ong-trump-tam-go-luat-hang-hai-tram-nam-de-giam-tac-dong-tu-chien-su-iran-5052121.html",
+      "summary": "Tổng thống Trump gỡ các quy định trong Đạo luật Jones về vận tải biển trong 60 ngày, cho phép Mỹ giảm thiểu tác động từ chiến sự với Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-18T14:59:11+07:00",
+      "fetched": "2026-03-18T23:56:07.541500+07:00"
     },
     {
       "id": "e0b676a496f00b2134f22cd0b567c2c0",
