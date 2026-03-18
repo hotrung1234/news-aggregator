@@ -1,6 +1,6 @@
 window.newsData_2026_03_19 = {
   "date": "2026-03-19",
-  "lastUpdated": "2026-03-19T01:55:37.402232+07:00",
+  "lastUpdated": "2026-03-19T03:32:31.794059+07:00",
   "articles": [
     {
       "id": "50fbf1d8ef4fe146a114a05829a7224f",
@@ -151,6 +151,46 @@ window.newsData_2026_03_19 = {
       "category": "Tổng hợp",
       "published": "2026-03-19T01:55:30.865773+07:00",
       "fetched": "2026-03-19T01:55:30.865982+07:00"
+    },
+    {
+      "id": "f06d5b88a92fd3bbd0fbbf55e729716b",
+      "title": "Loạt sân bay Mỹ có thể đóng cửa vì thiếu nhân viên soi chiếu",
+      "link": "https://vnexpress.net/loat-san-bay-my-co-the-dong-cua-vi-thieu-nhan-vien-soi-chieu-5052029.html",
+      "summary": "Quan chức Cơ quan An ninh Vận tải Mỹ cảnh báo nhiều sân bay quy mô nhỏ có thể phải đóng cửa khi nhân viên soi chiếu vắng mặt hàng loạt vì làm việc không lương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T19:00:00+07:00",
+      "fetched": "2026-03-19T03:32:23.811684+07:00"
+    },
+    {
+      "id": "9360b92b8cf1c2505f4c36ae18848b97",
+      "title": "6 bài tập đơn giản tại nhà giúp kéo dài tuổi thọ",
+      "link": "https://vnexpress.net/6-bai-tap-don-gian-tai-nha-giup-keo-dai-tuoi-tho-5050935.html",
+      "summary": "Chìa khóa của sự trường thọ nằm ở những chuyển động bền bỉ như đi bộ, đi cầu thang, squat, chống đẩy, đứng một chân và plank ngay tại chính ngôi nhà của bạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T19:00:00+07:00",
+      "fetched": "2026-03-19T03:32:23.811866+07:00"
+    },
+    {
+      "id": "f06d5b88a92fd3bbd0fbbf55e729716b",
+      "title": "Loạt sân bay Mỹ có thể đóng cửa vì thiếu nhân viên soi chiếu",
+      "link": "https://vnexpress.net/loat-san-bay-my-co-the-dong-cua-vi-thieu-nhan-vien-soi-chieu-5052029.html",
+      "summary": "Quan chức Cơ quan An ninh Vận tải Mỹ cảnh báo nhiều sân bay quy mô nhỏ có thể phải đóng cửa khi nhân viên soi chiếu vắng mặt hàng loạt vì làm việc không lương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-18T19:00:00+07:00",
+      "fetched": "2026-03-19T03:32:28.106119+07:00"
+    },
+    {
+      "id": "d8da338dba36c71c486c413ecd2ae51a",
+      "title": "Hành trình nhọc nhằn trở lại châu Âu của lao động Việt",
+      "link": "https://vnexpress.net/hanh-trinh-nhoc-nhan-tro-lai-chau-au-cua-lao-dong-viet-5051437.html",
+      "summary": "Để trở lại Ba Lan trong khi đường bay qua Trung Đông tạm dừng, chị Phương Thanh ở TP Huế mất nửa tháng lên mạng săn vé và trải qua ba chặng bay chuyển tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-18T18:20:25+07:00",
+      "fetched": "2026-03-19T03:32:23.812064+07:00"
     },
     {
       "id": "1fcb0b9f925405f352750610149e6b0b",
