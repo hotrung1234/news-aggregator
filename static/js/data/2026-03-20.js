@@ -1,6 +1,6 @@
 window.newsData_2026_03_20 = {
   "date": "2026-03-20",
-  "lastUpdated": "2026-03-20T01:54:36.060814+07:00",
+  "lastUpdated": "2026-03-20T03:34:07.112078+07:00",
   "articles": [
     {
       "id": "0040791f8a53aaa93258c49a6a742418",
@@ -151,6 +151,26 @@ window.newsData_2026_03_20 = {
       "category": "Tổng hợp",
       "published": "2026-03-20T01:54:30.237113+07:00",
       "fetched": "2026-03-20T01:54:30.237339+07:00"
+    },
+    {
+      "id": "c6849bd4f6bcaf5630ea79410b0716ee",
+      "title": "Nảy lửa 2 cặp đấu bán kết",
+      "link": "https://thanhnien.vn/nay-lua-2-cap-dau-ban-ket-185260319225309153.htm",
+      "summary": "Hôm nay 20.3, trên sân Trường ĐH Nha Trang diễn ra 2 cặp đấu hứa hẹn đầy gay cấn của vòng bán kết giải bóng đá Thanh Niên sinh viên VN lần IV - 2026 cúp THACO (TNSV THACO cup 2026), được trực tiếp trên FPT Play và các nền tảng YouTube, Facebook của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-19T20:17:00+07:00",
+      "fetched": "2026-03-20T03:34:00.288552+07:00"
+    },
+    {
+      "id": "964e65f01fa60b0ab34428617a5ce86e",
+      "title": "7 thói quen làm tăng đường huyết buổi sáng",
+      "link": "https://vnexpress.net/7-thoi-quen-lam-tang-duong-huyet-buoi-sang-5050517.html",
+      "summary": "Mức đường huyết thường xuyên tăng vào buổi sáng có thể do nhiều nguyên nhân liên quan đến giấc ngủ, vận động, ăn uống vào đêm hôm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-19T19:00:00+07:00",
+      "fetched": "2026-03-20T03:33:56.952284+07:00"
     },
     {
       "id": "df4a90faa34f9edccef64c6ee8e0c4bd",
