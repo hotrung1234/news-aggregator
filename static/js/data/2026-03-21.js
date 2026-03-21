@@ -1,7 +1,157 @@
 window.newsData_2026_03_21 = {
   "date": "2026-03-21",
-  "lastUpdated": "2026-03-21T05:25:45.017281+07:00",
+  "lastUpdated": "2026-03-21T08:48:13.422444+07:00",
   "articles": [
+    {
+      "id": "bce02d4e9f7529286e8e822f9d1da70b",
+      "title": "Lịch trực tiếp chung kết Asian Cup nữ 2026: Úc đấu Nhật Bản",
+      "link": "https://tuoitre.vn/lich-truc-tiep-chung-ket-asian-cup-nu-2026-uc-dau-nhat-ban-20260320171054478.htm",
+      "summary": "Vào lúc 16h ngày 21-3, tuyển nữ Úc sẽ chạm trán Nhật Bản ở trận chung kết Asian Cup nữ 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729884+07:00",
+      "fetched": "2026-03-21T08:48:04.730028+07:00"
+    },
+    {
+      "id": "fc1478623be5d7525452a03f2f544637",
+      "title": "Maguire nhận thẻ đỏ, Man United bị Bournemouth cầm chân",
+      "link": "https://tuoitre.vn/maguire-nhan-the-do-man-united-bi-bournemouth-cam-chan-20260321053930747.htm",
+      "summary": "Rạng sáng 21-3, Man United đã để chủ nhà Bournemouth cầm chân 2-2 ở trận đấu sớm vòng 31 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729763+07:00",
+      "fetched": "2026-03-21T08:48:04.729873+07:00"
+    },
+    {
+      "id": "31c223da8b8787c5ed07f28be382dc62",
+      "title": "Ronaldo có dự World Cup 2026?",
+      "link": "https://tuoitre.vn/ronaldo-co-du-world-cup-2026-20260321043030718.htm",
+      "summary": "Việc Cristiano Ronaldo sẽ vắng mặt trong đợt tập trung cuối tháng 3 của tuyển Bồ Đào Nha khiến nhiều CĐV lo lắng về khả năng anh không thể dự World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729641+07:00",
+      "fetched": "2026-03-21T08:48:04.729752+07:00"
+    },
+    {
+      "id": "5a68756bb417ebfa79d3957abb8b19fa",
+      "title": "Tin tức thế giới 21-3: Ông Trump bác khả năng ngừng bắn với Iran; Anh cho Mỹ dùng căn cứ quân sự",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-21-3-ong-trump-bac-kha-nang-ngung-ban-voi-iran-anh-cho-my-dung-can-cu-quan-su-20260321055517981.htm",
+      "summary": "Ông Trump nói có thể cân nhắc đối thoại với Iran chứ không ngừng bắn; Mỹ không kích tàu nghi chở ma túy ở Thái Bình Dương, 2 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729519+07:00",
+      "fetched": "2026-03-21T08:48:04.729630+07:00"
+    },
+    {
+      "id": "a43a48e38ce822b141be14d90078fff2",
+      "title": "Bộ trưởng Trần Đức Thắng kêu gọi doanh nghiệp giảm giá phân bón, thức ăn chăn nuôi",
+      "link": "https://tuoitre.vn/bo-truong-tran-duc-thang-keu-goi-doanh-nghiep-giam-gia-phan-bon-thuc-an-chan-nuoi-20260321062141743.htm",
+      "summary": "Bộ trưởng Trần Đức Thắng kêu gọi các doanh nghiệp phân bón, thức ăn chăn nuôi, thuốc bảo vệ thực vật,... giữ ổn định hoặc giảm giá và duy trì ổn định việc thu mua nông sản để tránh tình trạng 'được mùa mất giá'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729395+07:00",
+      "fetched": "2026-03-21T08:48:04.729508+07:00"
+    },
+    {
+      "id": "15c9219cf1a83c505d36ee3363517df0",
+      "title": "Cúng đất để biết ơn những người mở đất",
+      "link": "https://tuoitre.vn/cung-dat-de-biet-on-nhung-nguoi-mo-dat-2026031915330434.htm",
+      "summary": "Quê tôi có tục lệ cúng đất. Người xưa đặt, người nay theo. Cúng đất vừa sắp đồ cúng trong nhà vừa sắp ngoài sân. Trong nhà để cúng ông bà tổ tiên, ông Địa, ông Táo. Ngoài sân để cúng chư thần và các bác tứ phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729259+07:00",
+      "fetched": "2026-03-21T08:48:04.729384+07:00"
+    },
+    {
+      "id": "901b7b48307f6dd315bb1282b6c258bf",
+      "title": "Các nước đào tạo sơ cấp cứu cho người học lái xe thế nào?",
+      "link": "https://tuoitre.vn/cac-nuoc-dao-tao-so-cap-cuu-cho-nguoi-hoc-lai-xe-the-nao-20260319155108839.htm",
+      "summary": "Trong đào tạo lái xe ô tô nước ta, cả Thực hành cấp cứu (1 giờ) và Kỹ năng phòng cháy, chữa cháy và cứu nạn, cứu hộ (4 giờ) đều là lý thuyết và được học từ xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.729119+07:00",
+      "fetched": "2026-03-21T08:48:04.729235+07:00"
+    },
+    {
+      "id": "0f41b51406afc29323b5b872ae83ef37",
+      "title": "Mới khẳng định đang thắng nên không ngừng bắn, ông Trump lại 'cân nhắc thu hẹp chiến sự'",
+      "link": "https://tuoitre.vn/moi-khang-dinh-dang-thang-nen-khong-ngung-ban-ong-trump-lai-can-nhac-thu-hep-chien-su-20260321064836377.htm",
+      "summary": "Ông Trump phát đi những tín hiệu trái ngược khi một mặt cân nhắc giảm dần chiến dịch quân sự, song bác bỏ khả năng ngừng bắn Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728992+07:00",
+      "fetched": "2026-03-21T08:48:04.729108+07:00"
+    },
+    {
+      "id": "4541922d702928feac4bb65f5a99355f",
+      "title": "Cổ động viên phấn khích khi 'idol' Messi xuất hiện xuyên suốt MV của ca sĩ Tini Stoessel",
+      "link": "https://tuoitre.vn/co-dong-vien-phan-khich-khi-idol-messi-xuat-hien-xuyen-suot-mv-cua-ca-si-tini-stoessel-20260321065006358.htm",
+      "summary": "Siêu sao bóng đá Lionel Messi khiến các CĐV phấn khích khi tham gia đóng MV của nữ ca sĩ đồng hương Tini Stoessel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728846+07:00",
+      "fetched": "2026-03-21T08:48:04.728979+07:00"
+    },
+    {
+      "id": "5826f61916539897a57c871266dc3fca",
+      "title": "Cháy nhà máy phụ tùng ô tô tại Hàn Quốc khiến 10 người thiệt mạng",
+      "link": "https://tuoitre.vn/chay-nha-may-phu-tung-o-to-tai-han-quoc-khien-10-nguoi-thiet-mang-20260321072621703.htm",
+      "summary": "Vụ hỏa hoạn khiến ít nhất 10 người thiệt mạng, 59 người bị thương và 4 công nhân vẫn còn mất tích tính đến sáng 21-3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728720+07:00",
+      "fetched": "2026-03-21T08:48:04.728834+07:00"
+    },
+    {
+      "id": "4335348b575949effa34c3e337ecaae2",
+      "title": "Wuling hé mở tung loạt xe mới ở Việt Nam, trải dài từ ô tô điện mini đến SUV hybrid cỡ lớn",
+      "link": "https://tuoitre.vn/wuling-he-mo-tung-loat-xe-moi-o-viet-nam-trai-dai-tu-o-to-dien-mini-den-suv-hybrid-co-lon-20260320220426799.htm",
+      "summary": "Wuling Việt Nam hé lộ kế hoạch tung 6 mẫu xe mới, chuyển sang chuẩn sạc CCS2 và mở rộng sang cả xe hybrid, cho thấy chiến lược thay đổi đáng chú ý tại thị trường trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728592+07:00",
+      "fetched": "2026-03-21T08:48:04.728708+07:00"
+    },
+    {
+      "id": "3783d48fdec8c0ae119f129e99f3a143",
+      "title": "Ngôi nhà có những vách ngăn di động và căn phòng xây trên cột",
+      "link": "https://tuoitre.vn/ngoi-nha-co-nhung-vach-ngan-di-dong-va-can-phong-xay-tren-cot-20260321001405597.htm",
+      "summary": "Kết hợp các giải pháp lưu trữ sáng tạo với cấu trúc làm từ những khúc gỗ tuyết tùng xẻ thô, ngôi nhà ở Saitama, Nhật Bản còn gây ngạc nhiên với một căn phòng xây trên cột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728445+07:00",
+      "fetched": "2026-03-21T08:48:04.728579+07:00"
+    },
+    {
+      "id": "075809a4829a018dc07a2098022793e6",
+      "title": "Cài rồi bỏ: Vì sao người dùng hủy đăng ký app AI nhanh hơn 30% so với app thường?",
+      "link": "https://tuoitre.vn/cai-roi-bo-vi-sao-nguoi-dung-huy-dang-ky-app-ai-nhanh-hon-30-so-voi-app-thuong-2026032014103706.htm",
+      "summary": "Nghiên cứu RevenueCat cho thấy app AI kiếm tiền tốt hơn nhưng người dùng hủy đăng ký nhanh hơn 30%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728314+07:00",
+      "fetched": "2026-03-21T08:48:04.728432+07:00"
+    },
+    {
+      "id": "f1d937adaceeeb6df4fc2e4932caa9ff",
+      "title": "Hòa Minzy, Phương Mỹ Chi, SOOBIN và Tùng Dương có tên ở 2 hạng mục kịch tính nhất giải Cống hiến",
+      "link": "https://tuoitre.vn/hoa-minzy-phuong-my-chi-soobin-va-tung-duong-co-ten-o-2-hang-muc-kich-tinh-nhat-giai-cong-hien-20260320232330112.htm",
+      "summary": "Hòa Minzy, Phương Mỹ Chi, SOOBIN, Tùng Dương... cùng loạt nghệ sĩ hoạt động âm nhạc năng nổ trong năm qua cùng chia nhau các đề cử tại giải Cống hiến 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.728174+07:00",
+      "fetched": "2026-03-21T08:48:04.728302+07:00"
+    },
+    {
+      "id": "0b89b0a4eaea337cb1fc17f4db25d7d5",
+      "title": "Lịch trực tiếp bán kết Giải bóng chuyền Cúp Hoa Lư ngày 21-3",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-giai-bong-chuyen-cup-hoa-lu-ngay-21-3-20260321072823196.htm",
+      "summary": "Ngày 21-3, Giải bóng chuyền Cúp Hoa Lư bắt đầu bước vào các lượt trận bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T08:48:04.727944+07:00",
+      "fetched": "2026-03-21T08:48:04.728159+07:00"
+    },
     {
       "id": "fc6628eb39be979fcd077d734415302b",
       "title": "Thời tiết hôm nay 21-3: Nam Bộ nắng nóng, xâm nhập mặn vào sâu các sông",
@@ -11,6 +161,46 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T05:25:39.702417+07:00",
       "fetched": "2026-03-21T05:25:39.702628+07:00"
+    },
+    {
+      "id": "60563ccb615d460b9b6a048df35a1e55",
+      "title": "Giá xăng dầu hôm nay 21.3.2026: Về dưới mốc 110 USD/thùng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-2132026-ve-duoi-moc-110-usd-thung-185260321072856499.htm",
+      "summary": "Giá dầu thế giới tăng khoảng 2 - 3% trong phiên giao dịch cuối tuần. Tuy vậy, tính cả tuần, cả 2 loại dầu chuẩn biến động trái chiều theo hướng giá dầu Brent tăng, dầu WTI lùi nhẹ. Trong nước, Chính phủ vừa điều chỉnh một số chính sách liên quan điều hành giá xăng dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:46:00+07:00",
+      "fetched": "2026-03-21T08:48:03.637411+07:00"
+    },
+    {
+      "id": "ff4b3bf530f2b552aad962265bb32169",
+      "title": "Giá USD hôm nay 21.3.2026: Ngân hàng tăng giá trong tuần",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2132026-ngan-hang-tang-gia-trong-tuan-185260321082914387.htm",
+      "summary": "USD trong ngân hàng ghi nhận mức tăng giá trong tuần qua. Đồng bạc xanh trên thị trường thế giới cũng tiếp tục tăng lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:45:00+07:00",
+      "fetched": "2026-03-21T08:48:03.637574+07:00"
+    },
+    {
+      "id": "f897b9d5497a46e03ec840a45e3fe1ee",
+      "title": "Ông Trump nói sắp đạt mục tiêu chiến tranh, lãnh tụ Iran vẫn cứng rắn",
+      "link": "https://thanhnien.vn/ong-trump-noi-sap-dat-muc-tieu-chien-tranh-lanh-tu-iran-van-cung-ran-185260321075946518.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 20.3 nói rằng Mỹ đang xem xét giảm dần các hoạt động quân sự chống lại Iran nhưng không tìm kiếm một thỏa thuận ngừng bắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:45:00+07:00",
+      "fetched": "2026-03-21T08:48:03.637727+07:00"
+    },
+    {
+      "id": "e64d94d9fdcd59a61860ec9a8f1cfd4d",
+      "title": "Giá vàng hôm nay 21.3.2026: Ngủ dậy lại mất thêm 5 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2132026-ngu-day-lai-mat-them-5-trieu-dong-185260321080942127.htm",
+      "summary": "Giá vàng thế giới giảm mạnh kéo thị trường trong nước đi lùi xuống còn 171 triệu đồng một lượng. Những người mua vàng hôm qua, ngủ dậy sáng nay đã mất thêm 5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:44:00+07:00",
+      "fetched": "2026-03-21T08:48:03.637876+07:00"
     },
     {
       "id": "f0d93c4fa3991895e96cc5e0e9181f73",
@@ -161,6 +351,356 @@ window.newsData_2026_03_21 = {
       "category": "Tổng hợp",
       "published": "2026-03-21T01:43:37.842572+07:00",
       "fetched": "2026-03-21T01:43:37.842805+07:00"
+    },
+    {
+      "id": "ac36a766a316954e679de37c7028686d",
+      "title": "Mỹ nới lỏng lệnh trừng phạt với dầu Iran",
+      "link": "https://vnexpress.net/my-noi-long-lenh-trung-phat-voi-dau-iran-5053117.html",
+      "summary": "Mỹ tạm dỡ lệnh trừng phạt đối những thùng dầu Iran đã được chất lên tàu, nhằm ứng phó cuộc khủng hoảng nguồn cung do chiến sự Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-21T01:33:56+07:00",
+      "fetched": "2026-03-21T08:48:06.873910+07:00"
+    },
+    {
+      "id": "a8e00a4891dc3c0ead70175bec54f78d",
+      "title": "Tìm thân nhân bé gái 2 tháng tuổi bị bỏ rơi trước chùa Minh Giác",
+      "link": "https://thanhnien.vn/tim-than-nhan-be-gai-2-thang-tuoi-bi-bo-roi-truoc-chua-minh-giac-185260321073958935.htm",
+      "summary": "Đến gần chùa Minh Giác, xã Nha Bích, người dân địa phương bất ngờ phát hiện bé gái 2 tháng tuổi bị bỏ rơi trước cổng chùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:33:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638048+07:00"
+    },
+    {
+      "id": "63441eb88af6c923e45c75517295f8e6",
+      "title": "Nhà khoa học chỉ 'điểm nghẽn' khiến kết quả nghiên cứu khó ra thị trường",
+      "link": "https://vnexpress.net/nha-khoa-hoc-chi-diem-nghen-khien-ket-qua-nghien-cuu-kho-ra-thi-truong-5053081.html",
+      "summary": "Nhiều sản phẩm nghiên cứu đã hoàn thiện, có doanh nghiệp quan tâm nhưng vẫn \"kẹt\" trong phòng thí nghiệm do vướng cơ chế sở hữu và định giá, theo lãnh đạo trường Đại học Bách khoa TP HCM.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T01:29:08+07:00",
+      "fetched": "2026-03-21T08:48:11.683231+07:00"
+    },
+    {
+      "id": "c73fe9b09d8c6dd10589bf0ca3237bd6",
+      "title": "Argentina cấp tốc chọn đối thủ cho Messi trước World Cup, Bồ Đào Nha thiếu vắng Ronaldo vì…",
+      "link": "https://thanhnien.vn/argentina-cap-toc-chon-doi-thu-cho-messi-truoc-world-cup-bo-dao-nha-thieu-vang-ronaldo-vi-185260321082139322.htm",
+      "summary": "Ngày 21.3, Liên đoàn Bóng đá Argentina (AFA) chính thức công bố lịch thi đấu FIFA Days tháng 3 của những nhà đương kim vô địch World Cup, khi Messi và đồng đội sẽ có 2 trận đấu tại Buenos Aires. Trong khi Ronaldo vắng mặt dịp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:26:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638200+07:00"
+    },
+    {
+      "id": "4fbe2d8143df131ffe238ce91d41bd0d",
+      "title": "Công an tỉnh Đồng Nai trục xuất 36 người Bangladesh cư trú bất hợp pháp",
+      "link": "https://thanhnien.vn/cong-an-tinh-dong-nai-truc-xuat-36-nguoi-bangladesh-cu-tru-bat-hop-phap-185260321081342477.htm",
+      "summary": "Công an tỉnh Đồng Nai vừa trục xuất 36 người Bangladesh cư trú, lao động bất hợp pháp trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:26:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638345+07:00"
+    },
+    {
+      "id": "40eeeab87e1d53a239ec8ac3abeca4d3",
+      "title": "Ăn trái cây lúc nào tốt nhất: Trước, trong hay sau bữa ăn?",
+      "link": "https://thanhnien.vn/bac-si-nen-an-trai-cay-truoc-trong-hay-sau-bua-an-185260320103343276.htm",
+      "summary": "Trái cây được xem là món tráng miệng lành mạnh nên nhiều người có thói quen ăn trái cây sau bữa ăn. Tuy nhiên, một số người lại e ngại rằng thói quen này sẽ dễ đầy bụng, khó tiêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:24:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638492+07:00"
+    },
+    {
+      "id": "9cc0e489fdd42c54798e90c43665c854",
+      "title": "Samsung mang AirDrop lên điện thoại Galaxy",
+      "link": "https://thanhnien.vn/samsung-mang-airdrop-len-dien-thoai-galaxy-185260320214839476.htm",
+      "summary": "Apple im lặng nhìn Samsung phá vỡ độc quyền, One UI 8.5 sắp làm nên lịch sử với AirDrop?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:21:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638635+07:00"
+    },
+    {
+      "id": "78146ba52f57933d0ad182ca048551b7",
+      "title": "Giá vàng thế giới giảm mạnh phiên thứ 3 liên tiếp",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-giam-manh-phien-thu-3-lien-tiep-5053124.html",
+      "summary": "Mỗi ounce vàng thế giới xuống dưới 4.500 USD, sau phiên thứ 3 liên tiếp giảm với mức hơn 100 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-21T01:20:59+07:00",
+      "fetched": "2026-03-21T08:48:08.594905+07:00"
+    },
+    {
+      "id": "3491377dbe3148b508a5151744706cf3",
+      "title": "Người đánh tới tấp nữ shipper ở TP HCM bị bắt",
+      "link": "https://vnexpress.net/nguoi-danh-toi-tap-nu-shipper-o-tp-hcm-bi-bat-5053115.html",
+      "summary": "Trương Nguyên Huy, 31 tuổi, do không đồng ý với cách thức giao hàng của nữ shipper 44 tuổi đã xông đến đánh tới tấp vào đầu, mặt, khiến người phụ nữ ngã nhào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:18:49+07:00",
+      "fetched": "2026-03-21T08:48:00.372076+07:00"
+    },
+    {
+      "id": "ca12334193baf9b0d2b8822c156c2f00",
+      "title": "Mỹ cho phép bán dầu nguồn gốc Iran, cho vay 45,2 triệu thùng dự trữ chiến lược",
+      "link": "https://thanhnien.vn/my-cho-phep-ban-dau-nguon-goc-iran-cho-vay-452-trieu-thung-du-tru-chien-luoc-185260321075057911.htm",
+      "summary": "Mỹ đặt mục tiêu cho vay tổng cộng 172 triệu thùng dầu từ kho dự trữ chiến lược và kỳ vọng thu lại khoảng 200 triệu thùng, đồng thời tạm cho phép bán dầu có nguồn gốc từ Iran trên các tàu dầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:17:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638785+07:00"
+    },
+    {
+      "id": "291969373d1eabe61e5fee936efa8a09",
+      "title": "iPhone gập có thể chậm trễ như iPhone X?",
+      "link": "https://thanhnien.vn/iphone-gap-co-the-cham-tre-nhu-iphone-x-185260321063523654.htm",
+      "summary": "iPhone gập đang trở thành một trong những sản phẩm được mong đợi nhất ra mắt mùa thu năm nay, nhưng một tin xấu có thể xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:17:00+07:00",
+      "fetched": "2026-03-21T08:48:03.638947+07:00"
+    },
+    {
+      "id": "0e4b76f095f22e5d727f5be76241da13",
+      "title": "Những cách thiết kế bếp gọn gàng trong căn hộ nhỏ",
+      "link": "https://vnexpress.net/nhung-cach-thiet-ke-bep-gon-gang-trong-can-ho-nho-5052079.html",
+      "summary": "Bếp trong nhà nhỏ có thể đặt ở hành lang, giấu trong tủ nội thất hoặc thiết kế linh hoạt để tối ưu diện tích và công năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:02:01+07:00",
+      "fetched": "2026-03-21T08:48:00.372254+07:00"
+    },
+    {
+      "id": "db21d9bc7591ad78614e840e9a7edf1f",
+      "title": "Chiều nay công bố danh sách trúng cử đại biểu Quốc hội khóa XVI",
+      "link": "https://thanhnien.vn/chieu-nay-cong-bo-danh-sach-trung-cu-dai-bieu-quoc-hoi-khoa-xvi-185260321074238929.htm",
+      "summary": "Văn phòng Quốc hội sẽ họp báo công bố Nghị quyết của Hội đồng bầu cử quốc gia về kết quả bầu cử và danh sách những người trúng cử đại biểu Quốc hội khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:02:00+07:00",
+      "fetched": "2026-03-21T08:48:03.639103+07:00"
+    },
+    {
+      "id": "2708d14cdf43541c5bba6a634eb1db6d",
+      "title": "Túi ngực vỡ một năm mới biết",
+      "link": "https://vnexpress.net/tui-nguc-vo-mot-nam-moi-biet-5052775.html",
+      "summary": "Nâng ngực 4 năm, người phụ nữ 30 tuổi phát hiện ngực lệch không đau nên không kiểm tra, một năm sau mới phát hiện túi ngực đã vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.372426+07:00"
+    },
+    {
+      "id": "4193f8e65bdb08ddac10375505bbe464",
+      "title": "Lái Camry đời mới đi bán hàng rong",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-lai-camry-doi-moi-di-ban-hang-rong-5052705.html",
+      "summary": "Một người phụ nữ bước xuống từ chiếc Toyota Camry đời mới, rồi đẩy xe bán hàng rong trên phố, tạo nên khoảnh khắc đối lập đầy thú vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.372600+07:00"
+    },
+    {
+      "id": "473a15d137fcebe3d3a0e5df88a988ba",
+      "title": "Mặt trái khắc nghiệt trong căn bếp của những nhà hàng cao cấp",
+      "link": "https://vnexpress.net/mat-trai-khac-nghiet-trong-can-bep-cua-nhung-nha-hang-cao-cap-5050859.html",
+      "summary": "Nhiều đầu bếp nổi tiếng thế giới thừa nhận hành vi ngược đãi nhân viên do áp lực duy trì tiêu chuẩn khắt khe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.372764+07:00"
+    },
+    {
+      "id": "b275722a0a18d5d85230c1509a16a8c9",
+      "title": "Di chứng thường gặp sau đột quỵ",
+      "link": "https://vnexpress.net/di-chung-thuong-gap-sau-dot-quy-5053114.html",
+      "summary": "Não người bệnh sau đột quỵ bị tổn thương khiến sức cơ yếu, dễ dẫn đến liệt nửa người, suy giảm trí nhớ, khó nuốt, rối loạn ngôn ngữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.372942+07:00"
+    },
+    {
+      "id": "c9ce475cb9ef3062e2dfa905da01b953",
+      "title": "Mãn kinh sớm có làm tăng nguy cơ ung thư vú?",
+      "link": "https://vnexpress.net/man-kinh-som-co-lam-tang-nguy-co-ung-thu-vu-5053113.html",
+      "summary": "Tôi 45 tuổi, mãn kinh sớm lúc 39 tuổi. Tình trạng của tôi có làm tăng nguy cơ ung thư vú không? (Quỳnh Anh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.373111+07:00"
+    },
+    {
+      "id": "c76a4ce1c08a2b6b94d779368b146474",
+      "title": "Hưng Yên có thêm dự án nhà ở gần 65.000 m2",
+      "link": "https://vnexpress.net/hung-yen-co-them-du-an-nha-o-gan-65-000-m2-5052887.html",
+      "summary": "Atera Holdings phát triển dự án nhà ở gần 65.000 m2 với tổng vốn hơn 2.242 tỷ đồng tại huyện Yên Mỹ, Hưng Yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.373265+07:00"
+    },
+    {
+      "id": "196716841f164a01fa07bf310fa7c99c",
+      "title": "Vì sao người bệnh gan nên kiêng dầu, mỡ?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-benh-gan-nen-kieng-dau-mo-5052654.html",
+      "summary": "Tôi bị gan nhiễm mỡ độ một, được khuyên nên hạn chế các món ăn chiên rán, giàu chất béo. Vì sao người mắc bệnh gan không nên ăn những thực phẩm này? (Thanh Tùng, 38 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.373421+07:00"
+    },
+    {
+      "id": "8bbc7908a5048df4fbbf31c47225228b",
+      "title": "Vai trò của DHA trong 1.000 ngày đầu đời của trẻ",
+      "link": "https://vnexpress.net/vai-tro-cua-dha-trong-1-000-ngay-dau-doi-cua-tre-5051258.html",
+      "summary": "DHA đóng vai trò thiết yếu trong 1.000 ngày đầu đời, khi não bộ trẻ phát triển mạnh, tạo nền tảng cho trí não, thị giác và khả năng nhận thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.373576+07:00"
+    },
+    {
+      "id": "e1541465209df21400dbde6b6416b41a",
+      "title": "Agribank đồng hành nâng cao năng lực chuyển đổi xanh của doanh nghiệp",
+      "link": "https://thanhnien.vn/agribank-dong-hanh-nang-cao-nang-luc-chuyen-doi-xanh-cua-doanh-nghiep-185260320203116812.htm",
+      "summary": "Ngày 20.3.2026, Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) - Văn phòng đại diện khu vực miền Nam phối hợp Hiệp hội Doanh nghiệp xanh TP.HCM (HGBA) tổ chức Hội thảo kết nối Doanh nghiệp xanh với nguồn vốn xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:03.639253+07:00"
+    },
+    {
+      "id": "205e755896a536366d7cfd11e3ef7302",
+      "title": "Nghệ sĩ Quang Minh: Tôi buồn vì con trai bị nói nặng lời",
+      "link": "https://thanhnien.vn/nghe-si-quang-minh-toi-buon-vi-con-trai-bi-noi-nang-loi-185260320175219056.htm",
+      "summary": "Công khai quý tử với bạn gái trẻ tuổi, Quang Minh vấp phải ý kiến trái chiều. Đặc biệt, những bình luận tiêu cực nhắm vào bé Dustin khiến nam nghệ sĩ không khỏi chạnh lòng. Chính vì vậy suốt thời gian qua, anh chủ động hạn chế xuất hiện trước truyền thông, chọn cách lùi lại để bảo vệ sự bình yên cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:03.639405+07:00"
+    },
+    {
+      "id": "4d3ab93d7e1d6a66b030e913208245c7",
+      "title": "Diện trang phục đồng bộ sao cho sang mà không nhàm chán?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-trang-phuc-dong-bo-sao-cho-sang-ma-khong-nham-chan-185260319155124228.htm",
+      "summary": "Không đơn thuần là cách phối đồ giống nhau, xu hướng trang phục đồng bộ nâng tầm sự ăn ý thành một tuyên ngôn phong cách, nơi cá tính cá nhân vẫn được tôn trọng trong một tổng thể hài hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T01:00:00+07:00",
+      "fetched": "2026-03-21T08:48:03.639548+07:00"
+    },
+    {
+      "id": "3d30400098d59b0b69b5aaf1aba2d635",
+      "title": "Ba tên miền hai ký tự được đấu giá gần hai tỷ đồng",
+      "link": "https://vnexpress.net/ba-ten-mien-hai-ky-tu-duoc-dau-gia-gan-hai-ty-dong-5053079.html",
+      "summary": "Ba tên miền \".vn\" gồm mb, hi, ok được trả giá cao nhất với tổng gần hai tỷ đồng trong đợt đấu giá đầu tiên tại Việt Nam ngày 18-20/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T00:57:45+07:00",
+      "fetched": "2026-03-21T08:48:00.373731+07:00"
+    },
+    {
+      "id": "3d30400098d59b0b69b5aaf1aba2d635",
+      "title": "Ba tên miền hai ký tự được đấu giá gần hai tỷ đồng",
+      "link": "https://vnexpress.net/ba-ten-mien-hai-ky-tu-duoc-dau-gia-gan-hai-ty-dong-5053079.html",
+      "summary": "Ba tên miền \".vn\" gồm mb, hi, ok được trả giá cao nhất với tổng gần hai tỷ đồng trong đợt đấu giá đầu tiên tại Việt Nam ngày 18-20/3.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T00:57:45+07:00",
+      "fetched": "2026-03-21T08:48:11.682873+07:00"
+    },
+    {
+      "id": "baad7213b3f99bd4ec78124cfeef85d9",
+      "title": "Oppo Find N6 - smartphone 'ẩn' nếp gấp, hỗ trợ bút AI",
+      "link": "https://vnexpress.net/oppo-find-n6-smartphone-an-nep-gap-ho-tro-but-ai-5052845.html",
+      "summary": "Điện thoại gập Oppo Find N6 có phần nếp gấp gần như \"tàng hình\" khi sử dụng, trang bị bút AI Magic Pen cạnh tranh Galaxy Z Fold7 nhưng giá cao hơn thế hệ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T00:32:38+07:00",
+      "fetched": "2026-03-21T08:48:00.373890+07:00"
+    },
+    {
+      "id": "baad7213b3f99bd4ec78124cfeef85d9",
+      "title": "Oppo Find N6 - smartphone 'ẩn' nếp gấp, hỗ trợ bút AI",
+      "link": "https://vnexpress.net/oppo-find-n6-smartphone-an-nep-gap-ho-tro-but-ai-5052845.html",
+      "summary": "Điện thoại gập Oppo Find N6 có phần nếp gấp gần như \"tàng hình\" khi sử dụng, trang bị bút AI Magic Pen cạnh tranh Galaxy Z Fold7 nhưng giá cao hơn thế hệ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-21T00:32:38+07:00",
+      "fetched": "2026-03-21T08:48:11.683068+07:00"
+    },
+    {
+      "id": "843802bf19b50882dab05242e7015200",
+      "title": "Chính quyền Trump kiện Đại học Harvard",
+      "link": "https://vnexpress.net/chinh-quyen-trump-kien-dai-hoc-harvard-5053108.html",
+      "summary": "Chính quyền Trump đệ đơn kiện Đại học Harvard vì các cuộc biểu tình phản đối Israel, ủng hộ Palestine trong khuôn viên trường năm 2023-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T00:27:16+07:00",
+      "fetched": "2026-03-21T08:48:00.374082+07:00"
+    },
+    {
+      "id": "843802bf19b50882dab05242e7015200",
+      "title": "Chính quyền Trump kiện Đại học Harvard",
+      "link": "https://vnexpress.net/chinh-quyen-trump-kien-dai-hoc-harvard-5053108.html",
+      "summary": "Chính quyền Trump đệ đơn kiện Đại học Harvard vì các cuộc biểu tình phản đối Israel, ủng hộ Palestine trong khuôn viên trường năm 2023-2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-21T00:27:16+07:00",
+      "fetched": "2026-03-21T08:48:06.874109+07:00"
+    },
+    {
+      "id": "89260fea6cf95c576526a942fbe22044",
+      "title": "Điều gì xảy ra với hệ tiêu hóa khi uống cà phê mỗi ngày?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-he-tieu-hoa-khi-uong-ca-phe-moi-ngay-5052000.html",
+      "summary": "Uống cà phê với lượng vừa phải có thể tác động đáng kể đến hệ vi sinh đường ruột, giúp tăng vi khuẩn có lợi cho tim mạch và não bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T00:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.374249+07:00"
+    },
+    {
+      "id": "da8d388c3f109a191a32d4b139224b2c",
+      "title": "Kỹ năng sống còn khi xe chết máy trên cao tốc không làn khẩn cấp",
+      "link": "https://vnexpress.net/ky-nang-song-con-khi-xe-chet-may-tren-cao-toc-khong-lan-khan-cap-5052516.html",
+      "summary": "Khi gặp sự cố trên cao tốc không làn khẩn cấp, tài xế cần đưa xe đến nơi phù hợp, cảnh báo, rời xe một cách an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-21T00:00:00+07:00",
+      "fetched": "2026-03-21T08:48:00.374413+07:00"
+    },
+    {
+      "id": "f5bf0e0a3360121527217171cd932e3e",
+      "title": "Ông Trump tuyên bố không muốn thỏa thuận ngừng bắn với Iran",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-khong-muon-thoa-thuan-ngung-ban-voi-iran-5053103.html",
+      "summary": "Ông Trump tuyên bố không muốn thỏa thuận ngừng bắn khi Mỹ đang gây tổn thất nặng nề cho Iran, nhưng sẽ xem xét giảm dần hoạt động quân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-20T23:53:15+07:00",
+      "fetched": "2026-03-21T08:48:06.874274+07:00"
+    },
+    {
+      "id": "a2cff98e5979a39562e4938f38c7a401",
+      "title": "300.000 doanh nghiệp nhỏ và vừa sẽ được hỗ trợ dùng AI",
+      "link": "https://vnexpress.net/300-000-doanh-nghiep-nho-va-vua-se-duoc-ho-tro-dung-ai-5052954.html",
+      "summary": "Chính phủ đặt mục tiêu hỗ trợ ít nhất 300.000 doanh nghiệp nhỏ và vừa ứng dụng AI, theo Đề án 433 vừa được phê duyệt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-20T23:40:42+07:00",
+      "fetched": "2026-03-21T08:48:11.683388+07:00"
+    },
+    {
+      "id": "3b3a2da459a50b024d49b409e3a5b47e",
+      "title": "Man Utd rơi điểm ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-roi-diem-o-ngoai-hang-anh-5053104.html",
+      "summary": "Man Utd hai lần dẫn trước, nhưng vẫn bị chủ nhà Bournemouth cầm hòa 2-2 ở vòng 31 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-20T23:27:49+07:00",
+      "fetched": "2026-03-21T08:48:13.416537+07:00"
     },
     {
       "id": "b97e3d404f91c9045e35a7f4382f191f",
@@ -751,6 +1291,16 @@ window.newsData_2026_03_21 = {
       "category": "Thế giới",
       "published": "2026-03-20T13:58:50+07:00",
       "fetched": "2026-03-21T01:43:39.219367+07:00"
+    },
+    {
+      "id": "c1c3178fe6fab515aabf3f47ce5d369a",
+      "title": "Cháy lớn ở nhà máy phụ tùng ôtô, 10 người chết",
+      "link": "https://vnexpress.net/chay-lon-o-nha-may-phu-tung-oto-10-nguoi-chet-5053034.html",
+      "summary": "Vụ cháy xảy ra tại nhà máy sản xuất phụ tùng ôtô ở thành phố Daejeon, khiến ít nhất 10 người thiệt mạng và 4 người mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-20T13:58:50+07:00",
+      "fetched": "2026-03-21T08:48:06.875248+07:00"
     },
     {
       "id": "7b78ae3c5546ad1ebf0a91cf33aceebe",
