@@ -1,6 +1,6 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T13:47:40.341892+07:00",
+  "lastUpdated": "2026-03-22T15:31:34.643858+07:00",
   "articles": [
     {
       "id": "0b3494d75171faef2e5a025582f13888",
@@ -453,6 +453,226 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T08:59:48.927590+07:00"
     },
     {
+      "id": "b70185998a3e34dcfd9abf124ea89bdb",
+      "title": "Trường đại học Quang Trung công bố 3 ngành đạt kiểm định dịp 20 năm thành lập",
+      "link": "https://thanhnien.vn/truong-dai-hoc-quang-trung-cong-bo-3-nganh-dat-kiem-dinh-dip-20-nam-thanh-lap-185260322142620001.htm",
+      "summary": "Trường đại học Quang Trung kỷ niệm 20 năm thành lập, công bố 3 ngành đạt kiểm định, nhận khen thưởng và trao học bổng cho sinh viên toàn trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:29:00+07:00",
+      "fetched": "2026-03-22T15:31:24.949906+07:00"
+    },
+    {
+      "id": "c667255cbabc550128fd34ea97256584",
+      "title": "Phim giờ vàng gây tranh cãi vì những cảnh ‘nóng mắt’",
+      "link": "https://thanhnien.vn/phim-gio-vang-gay-tranh-cai-vi-nhung-canh-nong-mat-185260322132522806.htm",
+      "summary": "Phim truyền hình giờ vàng vốn là \"khung giờ gia đình\", nơi khán giả nhiều thế hệ cùng theo dõi, nhưng thời gian gần đây, không ít tác phẩm lại khiến người xem \"đỏ mặt\" vì những cảnh bạo lực, gợi dục được thể hiện khá trực diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:28:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950080+07:00"
+    },
+    {
+      "id": "d2dc9f5aaed8860f2701643c4d6e4aa4",
+      "title": "Hàng nghìn người tham gia Ngày chạy Olympic sức khỏe toàn dân tại TP.HCM",
+      "link": "https://thanhnien.vn/hang-nghin-nguoi-tham-gia-ngay-chay-olympic-suc-khoe-toan-dan-tai-tphcm-185260322122819025.htm",
+      "summary": "Sáng 22.3 tại khu vực đường Lê Duẩn, UBND TP.HCM, Sở VH-TT TP.HCM phối hợp cùng Nhà hát ca múa nhạc Bông Sen tổ chức 'Ngày chạy Olympic vì sức khỏe toàn dân, vì an ninh Tổ quốc năm 2026'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:23:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950280+07:00"
+    },
+    {
+      "id": "a14e71a27ed977cb4d77702ba0ffbf5f",
+      "title": "Iran sẵn sàng hợp tác với IMO cải thiện an ninh hàng hải eo biển Hormuz",
+      "link": "https://thanhnien.vn/iran-san-sang-hop-tac-voi-imo-cai-thien-an-ninh-hang-hai-o-vung-vinh-185260322150632281.htm",
+      "summary": "Phía Iran đã có phản ứng sau khi Tổng thống Mỹ Donald Trump đe dọa nhắm mục tiêu vào các nhà máy điện của Iran nếu eo biển Hormuz không được mở hoàn toàn trong vòng 48 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:16:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950445+07:00"
+    },
+    {
+      "id": "c5d17a086f081d507e9de52280eb5a5e",
+      "title": "Gabriel Jesus: 'Đối thủ nóng mặt với bóng chết vì Arsenal đứng trên họ'",
+      "link": "https://vnexpress.net/gabriel-jesus-doi-thu-nong-mat-voi-bong-chet-vi-arsenal-dung-tren-ho-5053438.html",
+      "summary": "Trò chuyện trên podcast Athletic FC trước thềm chung kết Cup Liên đoàn Anh, tiền đạo Gabriel Jesus nói về cuộc đua vô địch Ngoại hạng Anh, bản lĩnh sau ba lần về nhì liên tiếp và vũ khí bóng chết của Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T08:12:03+07:00",
+      "fetched": "2026-03-22T15:31:34.635161+07:00"
+    },
+    {
+      "id": "0c208204bf6d1c076f3e6de0c64c4c43",
+      "title": "Tư vấn mùa thi: Gian hàng 'nóng' từ sáng sớm, học sinh săn cơ hội tương lai",
+      "link": "https://thanhnien.vn/tu-van-mua-thi-gian-hang-nong-tu-sang-som-hoc-sinh-san-co-hoi-tuong-lai-185260322112123656.htm",
+      "summary": "Chương trình Tư vấn mùa thi năm 2026 do Báo Thanh Niên khai mạc sáng nay 22.3 thu hút đông đảo học sinh đến lắng nghe chuyên gia giải đáp quy chế thi, tìm hiểu sâu về các ngành nghề đào tạo và đặc biệt là cơ hội tiếp cận các gian hàng tư vấn tuyển sinh của các trường cao đẳng, đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:09:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950601+07:00"
+    },
+    {
+      "id": "2600f2b232a0b7d9abefb6668ba037cd",
+      "title": "Lãnh đạo Viện KSND TP.HCM trúng cử đại biểu Quốc hội và HĐND TP.HCM",
+      "link": "https://thanhnien.vn/lanh-dao-vien-ksnd-tphcm-trung-cu-dai-bieu-quoc-hoi-va-hdnd-tphcm-185260322145523667.htm",
+      "summary": "Viện trưởng Viện KSND TP.HCM Lê Văn Đông đã trúng cử đại biểu Quốc hội; Phó viện trưởng Viện KSND TP.HCM Ngô Phạm Việt trúng cử đại biểu HĐND TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:05:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950757+07:00"
+    },
+    {
+      "id": "12e8a5d584e394ce105bc0cd6737db5b",
+      "title": "U.23 Việt Nam lên đường tham dự giải CFA Team China 2026: Đi một ngày đàng, học nhiều sàng khôn",
+      "link": "https://thanhnien.vn/u23-viet-nam-len-duong-tham-du-giai-cfa-team-china-2026-di-mot-ngay-dang-hoc-nhieu-sang-khon-185260322150136292.htm",
+      "summary": "Chiều 22.3, đội tuyển U.23 Việt Nam với 34 thành viên, trong đó có 25 cầu thủ, dưới sự dẫn dắt của HLV tạm quyền Đinh Hồng Vinh, đã lên đường tham dự giải bóng đá quốc tế CFA Team China 2026, tại Tây An (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:04:00+07:00",
+      "fetched": "2026-03-22T15:31:24.950911+07:00"
+    },
+    {
+      "id": "21edb41295c00ddd8ec352fcaa843d8a",
+      "title": "Intel có thể kéo dài vòng đời socket CPU để cạnh tranh với AMD",
+      "link": "https://thanhnien.vn/intel-co-the-keo-dai-vong-doi-socket-cpu-de-canh-tranh-voi-amd-185260322135815909.htm",
+      "summary": "Intel có thể đang chuẩn bị thay đổi cách duy trì nền tảng CPU desktop, khi lãnh đạo của hãng cho biết công ty đang suy nghĩ nghiêm túc về việc kéo dài vòng đời socket.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:03:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951065+07:00"
+    },
+    {
+      "id": "ebfee9a21dfa088c4c222137eb0140fd",
+      "title": "Rộn tiếng cười vào Ngày chạy Olympic 2026 hướng đến 80 năm ngành TDTT Việt Nam",
+      "link": "https://thanhnien.vn/ron-tieng-cuoi-vao-ngay-chay-olympic-2026-huong-den-80-nam-nganh-tdtt-viet-nam-185260322135024609.htm",
+      "summary": "Sáng 22.3, khu vực quảng trường Đông Kinh Nghĩa Thục (Hà Nội) đã trở thành tâm điểm khi hơn 17.000 người cùng tham gia Ngày chạy Olympic chào mừng 80 năm ngày truyền thống Thể dục Thể thao Việt Nam. Sự kiện không chỉ mang ý nghĩa kỷ niệm, mà còn là dịp để tinh thần 'Khỏe để xây dựng và bảo vệ Tổ quố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T08:00:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951244+07:00"
+    },
+    {
+      "id": "e739f2182dc452f44c5a38bd330ca6f5",
+      "title": "Dreame X60 Ultra – nâng cấp tính năng, giá rẻ hơn 10 triệu đồng",
+      "link": "https://vnexpress.net/dreame-x60-ultra-nang-cap-tinh-nang-gia-re-hon-10-trieu-dong-5053358.html",
+      "summary": "X60 Ultra, robot hút bụi lau nhà cao cấp của Dreame có thiết kế mỏng hơn, lực hút cao 36.000 Pa, giá 30 triệu, rẻ hơn 10 triệu đồng so với thế hệ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-22T08:00:00+07:00",
+      "fetched": "2026-03-22T15:31:32.546944+07:00"
+    },
+    {
+      "id": "c6cd115fe478fe8625e9de660c4e7796",
+      "title": "Săn ngành, chọn trường: Học sinh Đà Nẵng ‘đổ bộ’ Tư vấn mùa thi 2026",
+      "link": "https://thanhnien.vn/san-nganh-chon-truong-hoc-sinh-da-nang-do-bo-tu-van-mua-thi-2026-185260322143506285.htm",
+      "summary": "Hàng ngàn học sinh lớp 12 tại TP. Đà Nẵng đã có mặt tại chương trình Tư vấn mùa thi 2026 do Báo Thanh Niên tổ chức, mang theo những băn khoăn, kỳ vọng và cả những ước mơ về cánh cửa đại học phía trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:58:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951400+07:00"
+    },
+    {
+      "id": "7b63cae9beba247c6a1134df06ce958a",
+      "title": "Làm đẹp từ biển đảo đến di tích ở đặc khu Lý Sơn",
+      "link": "https://thanhnien.vn/lam-dep-tu-bien-dao-den-di-tich-o-dac-khu-ly-son-185260322113039065.htm",
+      "summary": "Thanh niên Quảng Ngãi đồng loạt ra quân \"Ngày chủ nhật xanh\", tổ chức dọn rác tại điểm du lịch ở đặc khu Lý Sơn và các di tích, góp phần lan tỏa ý thức bảo vệ môi trường trong cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:56:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951551+07:00"
+    },
+    {
+      "id": "1d71f7dcade946342c519b1ce54d7f07",
+      "title": "Những điểm lưu ý khi chọn khối ngành Dịch vụ - Du lịch",
+      "link": "https://thanhnien.vn/nhung-diem-luu-y-khi-chon-khoi-nganh-dich-vu-du-lich-185260322110422821.htm",
+      "summary": "Nhân sự các ngành du lịch - dịch vụ hiện nay đối mặt với áp lực phải thành thạo các nền tảng quản trị, ứng dụng trí tuệ nhân tạo (AI) trong cá nhân hóa trải nghiệm khách hàng và tiếp thị số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:54:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951707+07:00"
+    },
+    {
+      "id": "7c15f4e7cc9dbb1bc2008bfb5ac7af0a",
+      "title": "Cơn mưa học bổng tại Tư vấn mùa thi 2026: Mở rộng cánh cửa du học cho học sinh Đà Nẵng",
+      "link": "https://thanhnien.vn/con-mua-hoc-bong-tai-tu-van-mua-thi-2026-mo-rong-canh-cua-du-hoc-cho-hoc-sinh-da-nang-18526032213502127.htm",
+      "summary": "Sáng 22.3, tại Trường THPT Phan Châu Trinh (TP. Đà Nẵng), chương trình Tư vấn mùa thi 2026 do Báo Thanh Niên phối hợp với Bộ GD-ĐT, Sở GD-ĐT TP. Đà Nẵng cùng các đơn vị liên quan tổ chức đã diễn ra sôi nổi, thu hút gần 5.000 học sinh lớp 12 trên địa bàn và các khu vực lân cận tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:52:00+07:00",
+      "fetched": "2026-03-22T15:31:24.951863+07:00"
+    },
+    {
+      "id": "04b2fbb660ffff1d8290c6c8c10c1313",
+      "title": "Tủ đồ của con dâu cựu Tổng thống Kennedy gây sốt",
+      "link": "https://vnexpress.net/tu-do-cua-con-dau-cuu-tong-thong-kennedy-gay-sot-5053210.html",
+      "summary": "Di sản thời trang của Carolyn - con dâu cựu Tổng thống Kennedy - được xem là bí ẩn với chỉ bảy món lộ diện trước công chúng đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:49:31+07:00",
+      "fetched": "2026-03-22T15:31:21.423628+07:00"
+    },
+    {
+      "id": "a0fd8ff0e15c06b5e657237713911172",
+      "title": "Tổng Bí thư: Công binh phải không để bị động, bất ngờ trong mọi tình huống",
+      "link": "https://thanhnien.vn/tong-bi-thu-cong-binh-phai-khong-de-bi-dong-bat-ngo-trong-moi-tinh-huong-185260322142005648.htm",
+      "summary": "Theo yêu cầu của Tổng Bí thư, Binh chủng Công binh phải tuyệt đối trung thành, tuyệt đối chấp hành, tuyệt đối sẵn sàng chiến đấu; giữ vững bản lĩnh chính trị, nâng cao nhận thức chiến lược, không để bị động, bất ngờ trong mọi tình huống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:47:00+07:00",
+      "fetched": "2026-03-22T15:31:24.952019+07:00"
+    },
+    {
+      "id": "2d8aaa626992ba4169e1b4d3996e9bc1",
+      "title": "Iran nêu cách để tàu bè đi qua eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-neu-cach-de-tau-be-di-qua-eo-bien-hormuz-5053452.html",
+      "summary": "Iran nói tàu của các nước không \"thù địch\" có thể đi qua eo biển Hormuz bằng cách phối hợp với Tehran về biện pháp an ninh và an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:41:22+07:00",
+      "fetched": "2026-03-22T15:31:21.423813+07:00"
+    },
+    {
+      "id": "2d8aaa626992ba4169e1b4d3996e9bc1",
+      "title": "Iran nêu cách để tàu bè đi qua eo biển Hormuz",
+      "link": "https://vnexpress.net/iran-neu-cach-de-tau-be-di-qua-eo-bien-hormuz-5053452.html",
+      "summary": "Iran nói tàu của các nước không \"thù địch\" có thể đi qua eo biển Hormuz bằng cách phối hợp với Tehran về biện pháp an ninh và an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-22T07:41:22+07:00",
+      "fetched": "2026-03-22T15:31:27.408264+07:00"
+    },
+    {
+      "id": "b66510d3092e318c4f52ae5faeb9bfeb",
+      "title": "Tuyến đường 17 km có 6 cây xăng không chấp nhận thanh toán chuyển khoản ở TP.HCM",
+      "link": "https://thanhnien.vn/tuyen-duong-17-km-co-6-cay-xang-khong-chap-nhan-thanh-toan-chuyen-khoan-o-tphcm-185260322120116731.htm",
+      "summary": "Tuyến đường từ khu công nghiệp Việt Hương 1 (đại lộ Bình Dương, P.Thuận Giao, TP.HCM; trước là P.Thuận Giao, TP.Thuận An, Bình Dương) hướng đến ngã tư Bình Triệu (P.Hiệp Bình, TP.HCM; trước là P.Hiệp Bình Chánh) dài khoảng 17 km có 6 cây xăng không chấp nhận thanh toán bằng hình thức chuyển khoản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:39:00+07:00",
+      "fetched": "2026-03-22T15:31:24.952169+07:00"
+    },
+    {
+      "id": "910c229b21024d097032a84b8815b23c",
+      "title": "Phú Thọ duyệt quy hoạch khu nghỉ dưỡng sân golf Đầm Vạc",
+      "link": "https://vnexpress.net/phu-tho-duyet-quy-hoach-khu-nghi-duong-san-golf-dam-vac-5053446.html",
+      "summary": "Khu nghỉ dưỡng và sân golf Đầm Vạc có tổng vốn hơn 1.100 tỷ đồng vừa được duyệt quy hoạch chi tiết 1/500.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:14:32+07:00",
+      "fetched": "2026-03-22T15:31:21.423985+07:00"
+    },
+    {
+      "id": "0186cb81d1340e4da215ce7f58da0069",
+      "title": "Vì sao ngồi quá lâu làm tăng nguy cơ đột quỵ?",
+      "link": "https://vnexpress.net/vi-sao-ngoi-qua-lau-lam-tang-nguy-co-dot-quy-5048778.html",
+      "summary": "Ngồi lâu một chỗ trong thời gian dài có thể làm giảm lưu thông máu, khiến huyết áp tăng cao và tăng nguy cơ đột quỵ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T07:00:00+07:00",
+      "fetched": "2026-03-22T15:31:21.424149+07:00"
+    },
+    {
       "id": "6520d61db56b1e1ab225c4596250006e",
       "title": "Rùa, vẹt, cừu… diễu hành mừng 162 năm Thảo Cầm Viên, trẻ em thích thú",
       "link": "https://thanhnien.vn/rua-vet-cuu-dieu-hanh-mung-162-nam-thao-cam-vien-tre-em-thich-thu-185260322131054543.htm",
@@ -461,6 +681,16 @@ window.newsData_2026_03_22 = {
       "category": "Tổng hợp",
       "published": "2026-03-22T06:46:00+07:00",
       "fetched": "2026-03-22T13:47:31.681560+07:00"
+    },
+    {
+      "id": "58988104b2af6dd75242401324a33ff0",
+      "title": "Tục ngữ nào ẩn sau rừng tre xanh này?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-tuc-ngu-nao-an-sau-rung-tre-xanh-nay-5051395.html",
+      "summary": "Câu tục ngữ nói về sự tiếp nối giữa các thế hệ, khi lớp trước già đi, sẽ luôn có lớp người trẻ hơn kế tục, phát triển...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T06:43:00+07:00",
+      "fetched": "2026-03-22T15:31:21.424336+07:00"
     },
     {
       "id": "342806288627c65234fb1135ad885c6c",
