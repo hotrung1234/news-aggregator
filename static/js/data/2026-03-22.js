@@ -1,7 +1,157 @@
 window.newsData_2026_03_22 = {
   "date": "2026-03-22",
-  "lastUpdated": "2026-03-22T17:24:27.552590+07:00",
+  "lastUpdated": "2026-03-22T19:44:06.026500+07:00",
   "articles": [
+    {
+      "id": "89e4a990dad500adfcaff88a240489f2",
+      "title": "Hình ảnh đẹp từ Ngày chạy Olympic Vì sức khỏe toàn dân - Vì an ninh Tổ quốc tại TP.HCM",
+      "link": "https://tuoitre.vn/hinh-anh-dep-tu-ngay-chay-olympic-vi-suc-khoe-toan-dan-vi-an-ninh-to-quoc-tai-tp-hcm-20260322161831671.htm",
+      "summary": "Sáng 22-3, hàng ngàn người dân tại TP.HCM tham gia sự kiện Ngày chạy Olympic - Vì sức khỏe toàn dân - Vì an ninh Tổ quốc năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.871073+07:00",
+      "fetched": "2026-03-22T19:43:56.871186+07:00"
+    },
+    {
+      "id": "d37799ccdf2f63496c0f0489acca76a4",
+      "title": "Bán tô phở, chai nước suối có phải xuất hóa đơn bán lẻ?",
+      "link": "https://tuoitre.vn/ban-to-pho-chai-nuoc-suoi-co-phai-xuat-hoa-don-ban-le-20260314115258032.htm",
+      "summary": "Quy định mới yêu cầu các hộ kinh doanh phải kê khai thuế và xuất hóa đơn cho từng lần thu. Vậy có phải hộ kinh doanh bán chai nước, tô phở cũng phải xuất hóa đơn cho khách không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870950+07:00",
+      "fetched": "2026-03-22T19:43:56.871062+07:00"
+    },
+    {
+      "id": "fe1bbb1e1db870d03d70e553aeda581d",
+      "title": "Đại học Bách khoa Hà Nội miễn học phí cho tất cả nghiên cứu sinh",
+      "link": "https://tuoitre.vn/dai-hoc-bach-khoa-ha-noi-mien-hoc-phi-cho-tat-ca-nghien-cuu-sinh-20260322163508528.htm",
+      "summary": "PGS.TS Nguyễn Phong Điền - Phó giám đốc Đại học Bách khoa Hà Nội - cho biết từ năm nay, Đại học Bách khoa Hà Nội miễn học phí cho tất cả nghiên cứu sinh trúng tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870826+07:00",
+      "fetched": "2026-03-22T19:43:56.870939+07:00"
+    },
+    {
+      "id": "9f4dc4ec292443db667fb3f883842af9",
+      "title": "Axios: Chính quyền Tổng thống Trump bắt đầu tính đến việc đàm phán hòa bình với Iran",
+      "link": "https://tuoitre.vn/axios-chinh-quyen-tong-thong-trump-bat-dau-tinh-den-viec-dam-phan-hoa-binh-voi-iran-20260322164057423.htm",
+      "summary": "Trang tin Axios tiết lộ chính quyền Tổng thống Donald Trump đã bắt đầu thảo luận về khả năng tiến hành các cuộc đàm phán hòa bình với Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870701+07:00",
+      "fetched": "2026-03-22T19:43:56.870814+07:00"
+    },
+    {
+      "id": "d1690ea957da10f13043f07316afd31f",
+      "title": "Bóng ma hạnh phúc: 'Nhịn và hy sinh quá nhiều là hai cái sai của phụ nữ?'",
+      "link": "https://tuoitre.vn/bong-ma-hanh-phuc-nhin-va-hi-sinh-qua-nhieu-la-hai-cai-sai-cua-phu-nu-20260322152236261.htm",
+      "summary": "Bộ phim truyền hình Bóng ma hạnh phúc khai thác những mảng tối trong đời sống gia đình hiện đại, đặc biệt là câu chuyện về sự hy sinh và đánh mất bản thân của người phụ nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870571+07:00",
+      "fetched": "2026-03-22T19:43:56.870689+07:00"
+    },
+    {
+      "id": "952d19ae13626bfa2ecce5aba6eb7889",
+      "title": "Studio Ghibli chính thức có mặt ở Việt Nam",
+      "link": "https://tuoitre.vn/studio-ghibli-chinh-thuc-co-mat-o-viet-nam-20260322161651097.htm",
+      "summary": "Studio Ghibli 'cập bến' tại Việt Nam với trang Facebook được ủy quyền trực tiếp từ Studio Ghibli Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870436+07:00",
+      "fetched": "2026-03-22T19:43:56.870560+07:00"
+    },
+    {
+      "id": "b7da8f3125a34c1fae858c6210dda05b",
+      "title": "Hai tài xế đánh nhau ở phường Chợ Lớn vì 'không ai nhường đường cho ai'",
+      "link": "https://tuoitre.vn/hai-tai-xe-danh-nhau-o-phuong-cho-lon-vi-khong-ai-nhuong-duong-cho-ai-2026032216462546.htm",
+      "summary": "Đội cảnh sát giao thông Chợ Lớn đã mời hai tài xế đánh nhau trên đường Hải Thượng Lãn Ông lên làm việc và chuyển hồ sơ sang Công an phường Chợ Lớn thụ lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870291+07:00",
+      "fetched": "2026-03-22T19:43:56.870420+07:00"
+    },
+    {
+      "id": "b59ec5d46d20bec211b3f99cfd3feb2f",
+      "title": "Sao bóng chuyền Việt Nam lần đầu nhận vinh dự đặc biệt tại Nhật Bản",
+      "link": "https://tuoitre.vn/sao-bong-chuyen-viet-nam-lan-dau-nhan-vinh-du-dac-biet-tai-nhat-ban-20260322164218792.htm",
+      "summary": "Với màn trình diễn chói sáng, phụ công Nguyễn Thị Bích Thủy được vinh danh ở Giải bóng chuyền vô địch Nhật Bản (SV.League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870160+07:00",
+      "fetched": "2026-03-22T19:43:56.870279+07:00"
+    },
+    {
+      "id": "70c0003d33d0b61f7d9cb29aa786a4e1",
+      "title": "World Cup Pickleball lần đầu tiên có mặt ở Việt Nam",
+      "link": "https://tuoitre.vn/world-cup-pickleball-lan-dau-tien-co-mat-o-viet-nam-20260322165326536.htm",
+      "summary": "World Cup Pickleball 2026 sẽ diễn ra ở Đà Nẵng vào cuối tháng 8-2026, dự kiến trở thành một trong những giải đấu quy mô vận động viên lớn nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.870035+07:00",
+      "fetched": "2026-03-22T19:43:56.870149+07:00"
+    },
+    {
+      "id": "c85f3935ab8c4051a3fe258af778e427",
+      "title": "Sinh viên tiết kiệm năng lượng ra sao để không 'đau ví'?",
+      "link": "https://tuoitre.vn/gia-xang-tang-sinh-vien-dau-vi-nhung-van-tim-cach-tiet-kiem-ra-sao-20260322111905384.htm",
+      "summary": "Giá xăng tăng những ngày gần đây đang tác động không nhỏ đến đời sống của nhiều bạn trẻ. Trước áp lực chi phí, họ đã nhanh chóng tìm ra nhiều cách thích nghi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869905+07:00",
+      "fetched": "2026-03-22T19:43:56.870023+07:00"
+    },
+    {
+      "id": "86e4d2cde4f9ffa02bd9b1a45c7df559",
+      "title": "Xuân Son chưa thể tập cùng tuyển Việt Nam",
+      "link": "https://tuoitre.vn/xuan-son-chua-the-tap-cung-tuyen-viet-nam-20260322170301085.htm",
+      "summary": "Tiền đạo nhập tịch Nguyễn Xuân Son phải tập riêng vì chấn thương cơ đùi trái trong buổi tập thứ hai của tuyển Việt Nam dịp FIFA Days tháng 3-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869770+07:00",
+      "fetched": "2026-03-22T19:43:56.869891+07:00"
+    },
+    {
+      "id": "4821908dbb0bb942b3aa15caea8d9e08",
+      "title": "JoJo bất ngờ soán ngôi Frieren, cuộc đua top 1 anime gây tranh cãi",
+      "link": "https://tuoitre.vn/jojo-bat-ngo-soan-ngoi-frieren-cuoc-dua-top-1-anime-gay-tranh-cai-20260322173127572.htm",
+      "summary": "Chỉ vài ngày sau khi ra mắt trên Netflix, JoJo’s Bizarre Adventure: Steel Ball Run đã vượt mặt Frieren: Beyond Journey’s End để vươn lên vị trí số 1 trên MyAnimeList, khép lại hơn hai năm thống trị của Frieren.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869642+07:00",
+      "fetched": "2026-03-22T19:43:56.869759+07:00"
+    },
+    {
+      "id": "d08c76ae8fad8634791b7f3f4d691f87",
+      "title": "Tranh cãi quanh yêu cầu thi tuyển kiến trúc chung cư tại TP.HCM, doanh nghiệp kêu khó",
+      "link": "https://tuoitre.vn/tranh-cai-quanh-yeu-cau-thi-tuyen-kien-truc-chung-cu-tai-tp-hcm-doanh-nghiep-keu-kho-20260322154830148.htm",
+      "summary": "Một báo cáo phản biện vừa được gửi UBND TP.HCM và các sở ngành liên quan việc áp dụng cơ chế thi tuyển phương án kiến trúc với các dự án chung cư cao tầng có bố trí chức năng thương mại - dịch vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869510+07:00",
+      "fetched": "2026-03-22T19:43:56.869630+07:00"
+    },
+    {
+      "id": "4e7dde6eb965427e6332ce7ab3750da1",
+      "title": "Netflix lỗ nặng khi hợp tác với Meghan Markle",
+      "link": "https://tuoitre.vn/netflix-lo-nang-khi-hop-tac-voi-meghan-markle-20260322173301344.htm",
+      "summary": "Thương vụ hợp tác sản xuất show thực tế từng được kỳ vọng là 'con át chủ bài' của Meghan Markle, đến nay trở thành gánh nặng khi Netflix bị cho là thua lỗ hàng triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869348+07:00",
+      "fetched": "2026-03-22T19:43:56.869496+07:00"
+    },
+    {
+      "id": "bacd1341773c58430f3d5c5a71e67c52",
+      "title": "Tạm giữ 2 người đàn ông giở trò đồi bại với bé gái 13 tuổi",
+      "link": "https://tuoitre.vn/tam-giu-2-nguoi-dan-ong-gio-tro-doi-bai-voi-be-gai-13-tuoi-20260322173610744.htm",
+      "summary": "Công an đã tạm giữ hai người đàn ông ở phường Điện Bàn, TP Đà Nẵng để điều tra về các hành vi hiếp dâm người dưới 16 tuổi và dâm ô người dưới 16 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T19:43:56.869116+07:00",
+      "fetched": "2026-03-22T19:43:56.869333+07:00"
+    },
     {
       "id": "6b9e51fc209abd8018613672f24416ba",
       "title": "19h ngày 22-3, Trường cao đẳng Công nghệ quốc tế Lilama 2 lên sóng Khám phá trường học",
@@ -283,6 +433,156 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T13:47:32.680116+07:00"
     },
     {
+      "id": "c56c662b9dc44edeec220de063d51f4a",
+      "title": "Hà Nội: Người dân chờ mong diện mạo mới cho các khu tập thể cũ",
+      "link": "https://thanhnien.vn/ha-noi-nguoi-dan-cho-mong-dien-mao-moi-cho-cac-khu-tap-the-cu-185260321144106567.htm",
+      "summary": "Nhiều khu tập thể như Kim Liên, Trung Tự, Khương Thượng đang được kiểm định, chuẩn bị cải tạo trong thời gian tới để đáp ứng kỳ vọng của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:39:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674024+07:00"
+    },
+    {
+      "id": "383bafe7259b75d94f3e562ef9c67482",
+      "title": "Highlight Trường ĐH Thủy lợi 4-0 Trường ĐH Công nghiệp TP.HCM: 'Thủy triều đỏ' lên ngôi vương",
+      "link": "https://thanhnien.vn/highlight-truong-dh-thuy-loi-4-0-truong-dh-cong-nghiep-tphcm-thuy-trieu-do-len-ngoi-vuong-185260322183545404.htm",
+      "summary": "Chiều 22.3, trận chung kết giải bóng đá Thanh Niên sinh viên Việt Nam lần IV - 2026 cúp THACO (TNSV THACO cup 2026) khép lại với chiến thắng thuyết phục 4-0 của Trường ĐH Thủy lợi trước Trường ĐH Công nghiệp TP.HCM, qua đó lần đầu đăng quang đầy ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:37:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674192+07:00"
+    },
+    {
+      "id": "d74b7a48ee2177347094bc8cae794903",
+      "title": "Đã xác định 6 thiếu niên ném đá vào hàng loạt xe trên cao tốc Quảng Trị",
+      "link": "https://thanhnien.vn/da-xac-dinh-6-thieu-nien-nem-da-vao-hang-loat-xe-tren-cao-toc-quang-tri-185260322183321796.htm",
+      "summary": "Lực lượng chức năng đã làm rõ 6 thiếu niên trú tại xã Bố Trạch và xã Phong Nha (tỉnh Quảng Trị) là thủ phạm ném đá vào hàng loạt phương tiện di chuyển trên cao tốc qua xã Bắc Trạch (tỉnh Quảng Trị).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:30:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674347+07:00"
+    },
+    {
+      "id": "4270d889f24c0ae4d92b2b4053b7a09a",
+      "title": "Ăn từ dưới đất lên trên trời ở Las Vegas: Người Việt ở Mỹ trải nghiệm food tour 'đỉnh nóc'",
+      "link": "https://thanhnien.vn/an-tu-duoi-dat-len-tren-troi-o-las-vegas-nguoi-viet-o-my-trai-nghiem-food-tour-dinh-noc-185260320142906605.htm",
+      "summary": "Từ buffet khổng lồ, show ăn kiểu trung cổ đến bữa tối ở tầng 108, hành trình food tour Las Vegas mang đến trải nghiệm ẩm thực từ dưới đất lên trên trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:28:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674525+07:00"
+    },
+    {
+      "id": "892cd27e3b00a2f82888741a5797f092",
+      "title": "Không có người trúng Vietlott Mega 6/45 tối nay, giải độc đắc cộng dồn 35,3 tỉ đồng",
+      "link": "https://thanhnien.vn/khong-co-nguoi-trung-vietlott-mega-6-45-toi-nay-giai-doc-dac-cong-don-353-ti-dong-185260322191438217.htm",
+      "summary": "Tối 22.3, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không có người trúng giải độc đắc nên số tiền cộng dồn là 35,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:18:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674678+07:00"
+    },
+    {
+      "id": "6751e620f4d8a3ecd5b5248ae8c283e8",
+      "title": "Trường ĐH Thủy lợi: Nhà vô địch toàn diện nhất của TNSV THACO cup",
+      "link": "https://thanhnien.vn/truong-dh-thuy-loi-nha-vo-dich-toan-dien-nhat-cua-tnsv-thaco-cup-185260322190845501.htm",
+      "summary": "Chiến thắng giòn giã 4-0 trước Trường ĐH Công nghiệp TP.HCM giúp Trường ĐH Thủy lợi trở thành nhà vô địch toàn diện nhất lịch sử giải bóng đá Thanh Niên sinh viên Việt Nam (TNSV THACO cup).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:15:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674829+07:00"
+    },
+    {
+      "id": "d27cd32833d1b786fe58c5c87f870a58",
+      "title": "Chuyên gia lưu ý nguy cơ gây ung thư bị bỏ sót trong nội soi tiêu hóa",
+      "link": "https://thanhnien.vn/chuyen-gia-luu-y-nguy-co-gay-ung-thu-bi-bo-sot-trong-noi-soi-tieu-hoa-185260322182635314.htm",
+      "summary": "Nội soi tiêu hóa siêu phóng đại giúp phát hiện rất sớm, chính xác các tổn thương đường tiêu hóa. Với đại trực tràng, tăng 1% polyp được phát hiện giúp giảm 3% nguy cơ ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T12:04:00+07:00",
+      "fetched": "2026-03-22T19:43:55.674977+07:00"
+    },
+    {
+      "id": "e6be17564b0b01f93bc8c60052cc450c",
+      "title": "iPhone 18 có thể hồi sinh' dòng Plus",
+      "link": "https://vnexpress.net/iphone-18-co-the-hoi-sinh-dong-plus-5053356.html",
+      "summary": "Apple được cho là đang cân nhắc đưa trở lại dòng Plus, dù sản phẩm từng có doanh số không như kỳ vọng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-22T12:00:00+07:00",
+      "fetched": "2026-03-22T19:44:04.256410+07:00"
+    },
+    {
+      "id": "9aee904580f66ceb7153d8ff262b5c72",
+      "title": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn qua đời",
+      "link": "https://thanhnien.vn/duc-hong-y-gioan-baotixita-pham-minh-man-qua-doi-185260322185629646.htm",
+      "summary": "Đức Hồng Y Gioan Baotixita Phạm Minh Mẫn vừa qua đời lúc 17 giờ 22 phút chiều nay 22.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:59:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675124+07:00"
+    },
+    {
+      "id": "caa7cf3aff78a3d464169001eb373218",
+      "title": "Món quà đặc biệt tặng con gái của HLV Vũ Văn Trung",
+      "link": "https://thanhnien.vn/mon-qua-dac-biet-tang-con-gai-cua-hlv-vu-van-trung-185260322182458815.htm",
+      "summary": "Sau hai lần lỡ hẹn ở chung kết, HLV Vũ Văn Trung đã thỏa ước nguyện vô địch TNSV THACO cup, khi cùng Trường ĐH Thủy lợi chinh phục ngai vàng bằng chiến thắng '4 sao' trước Trường ĐH Công nghiệp TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:54:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675271+07:00"
+    },
+    {
+      "id": "3d1efc5916604d2774aa970a93b939f4",
+      "title": "Việt Nam lên vị trí FIFA cao nhất sau hơn hai năm",
+      "link": "https://vnexpress.net/viet-nam-len-vi-tri-fifa-cao-nhat-sau-hon-hai-nam-5053507.html",
+      "summary": "LĐBĐ Thế giới (FIFA) vừa cập nhật bảng thứ bậc các đội tuyển quốc gia sau khi xử thua hai trận của Malaysia, giúp Việt Nam áp sát Top 100.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:51:39+07:00",
+      "fetched": "2026-03-22T19:43:52.312191+07:00"
+    },
+    {
+      "id": "3d1efc5916604d2774aa970a93b939f4",
+      "title": "Việt Nam lên vị trí FIFA cao nhất sau hơn hai năm",
+      "link": "https://vnexpress.net/viet-nam-len-vi-tri-fifa-cao-nhat-sau-hon-hai-nam-5053507.html",
+      "summary": "LĐBĐ Thế giới (FIFA) vừa cập nhật bảng thứ bậc các đội tuyển quốc gia sau khi xử thua hai trận của Malaysia, giúp Việt Nam áp sát Top 100.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-22T11:51:39+07:00",
+      "fetched": "2026-03-22T19:44:06.015941+07:00"
+    },
+    {
+      "id": "4e3c68bfb79b8fe29fe6bd7c71280e6e",
+      "title": "Tạm giữ 2 người đàn ông xâm hại tình dục bé gái 13 tuổi ở Đà Nẵng",
+      "link": "https://thanhnien.vn/tam-giu-2-nguoi-dan-ong-xam-hai-tinh-duc-be-gai-13-tuoi-o-da-nang-185260322181539234.htm",
+      "summary": "Lợi dụng bé gái 13 tuổi thường xuyên ở nhà một mình, 2 'yêu râu xanh' ở thành phố Đà Nẵng đã dụ dỗ nạn nhân bằng thủ đoạn cho tiền để nhiều lần thực hiện hành vi xâm hại tình dục, sự việc kéo dài nhiều tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:41:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675439+07:00"
+    },
+    {
+      "id": "1d9da86ec5653797d35530cf07ee456e",
+      "title": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn qua đời",
+      "link": "https://vnexpress.net/duc-hong-y-gioan-baotixita-pham-minh-man-qua-doi-5053509.html",
+      "summary": "Đức Hồng y Phạm Minh Mẫn, vị Hồng y thứ 5 của Giáo hội Việt Nam, từng đảm trách Tổng Giám mục Tổng Giáo phận TP HCM qua đời tại thành phố, hưởng thọ 92 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:38:17+07:00",
+      "fetched": "2026-03-22T19:43:52.312373+07:00"
+    },
+    {
+      "id": "4988e3e6924267fc76a0d13c6bbf059f",
+      "title": "Đà Nẵng cấm kinh doanh trên vỉa hè",
+      "link": "https://vnexpress.net/da-nang-cam-kinh-doanh-tren-via-he-5053478.html",
+      "summary": "Người dân Đà Nẵng không được phép sử dụng vỉa hè để kinh doanh buôn bán, kể cả việc đặt biển hiệu di động, chậu cây xanh, tượng trang trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:29:23+07:00",
+      "fetched": "2026-03-22T19:43:52.312586+07:00"
+    },
+    {
       "id": "ec4892ffe0f092d3cab70d0b0494eef8",
       "title": "Trồng người nơi biên cương",
       "link": "https://tuoitre.vn/trong-nguoi-noi-bien-cuong-20260321230912223.htm",
@@ -433,6 +733,96 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T11:26:11.399095+07:00"
     },
     {
+      "id": "6502a625da203e464e195f4f3402b4c1",
+      "title": "Đoàn Thanh niên Bộ Công an nhận Huân chương Bảo vệ Tổ quốc hạng nhất",
+      "link": "https://thanhnien.vn/doan-thanh-nien-bo-cong-an-nhan-huan-chuong-bao-ve-to-quoc-hang-nhat-185260322172301469.htm",
+      "summary": "Bộ trưởng Bộ Công an nhấn mạnh, thanh niên công an phải là một bộ phận ưu tú của thanh niên Việt Nam, là những cán bộ kỷ luật nhất, trung thành nhất, gần dân nhất, đi đầu giúp dân lúc hiểm nguy gian khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:22:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675597+07:00"
+    },
+    {
+      "id": "0ee4c96929feaf5f482d04972c78f8b7",
+      "title": "Tôi kiệt sức vì không theo kịp giá nhà Sài Gòn",
+      "link": "https://vnexpress.net/toi-kiet-suc-vi-khong-theo-kip-gia-nha-sai-gon-5053429.html",
+      "summary": "Tôi cố gắng tăng thu nhập, giảm chi tiêu... nhưng mỗi khi nhìn lại, khoảng cách giữa số tiền mình có và giá nhà lại giãn ra thêm một chút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:05:37+07:00",
+      "fetched": "2026-03-22T19:43:52.312749+07:00"
+    },
+    {
+      "id": "0848208a3f826b0405373bb7e8565359",
+      "title": "Công an Cần Thơ truy tìm người giật dây chuyền trên tỉnh lộ 931",
+      "link": "https://thanhnien.vn/cong-an-can-tho-truy-tim-nguoi-giat-day-chuyen-tren-tinh-lo-931-185260322164746154.htm",
+      "summary": "Công an thành phố Cần Thơ thông báo truy tìm nghi phạm giật dây chuyền của một phụ nữ ở xã Vĩnh Viễn. Người cung cấp thông tin có giá trị sẽ được thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:05:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675750+07:00"
+    },
+    {
+      "id": "e992ab37815aaf88db3af50d6a871ec7",
+      "title": "Nghệ sĩ bày tỏ quan điểm về nạn giết mổ lậu chó, mèo",
+      "link": "https://thanhnien.vn/nghe-si-bay-to-quan-diem-ve-nan-giet-mo-lau-cho-meo-185260322174013701.htm",
+      "summary": "Trước câu chuyện nhiều lò giết mổ lậu chó, mèo đang gây xôn xao dư luận, nghệ sĩ Hạnh Thúy, Trác Thúy Miêu đưa ra những góc nhìn, quan điểm riêng về tính nhân văn và pháp lý xoay quanh vấn đề giết mổ và kinh doanh chó, mèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:03:00+07:00",
+      "fetched": "2026-03-22T19:43:55.675896+07:00"
+    },
+    {
+      "id": "c78fd9c433f3eb17616db79a5e44a7e1",
+      "title": "Cựu HC vàng SEA Games người Thái vô địch 21km giải chạy đêm",
+      "link": "https://vnexpress.net/cuu-hc-vang-sea-games-nguoi-thai-vo-dich-21km-giai-chay-dem-5053481.html",
+      "summary": "Thận trọng trong nửa đầu chặng đua, Arthit Soda bứt lên ở nửa sau để vô địch 21km VnExpress Marathon Ho Chi Minh City Midnight 2026 trong lần đầu sang Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:00:00+07:00",
+      "fetched": "2026-03-22T19:43:52.312909+07:00"
+    },
+    {
+      "id": "518e7efd14c0e27026d1191f37536b17",
+      "title": "Privacy Display trên Galaxy S26 Ultra: Giải pháp cho vấn đề thường gặp nhưng ít nói ra",
+      "link": "https://thanhnien.vn/privacy-display-tren-galaxy-s26-ultra-giai-phap-cho-van-de-thuong-gap-nhung-it-noi-ra-185260322172845137.htm",
+      "summary": "Sau vài ngày trải nghiệm, nhiều người dùng cho biết Privacy Display không chỉ là một tính năng mới, mà là lời giải cho nhu cầu bảo vệ thông tin cá nhân vốn đã tồn tại từ lâu nhưng chưa từng có cách xử lý thực sự phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:00:00+07:00",
+      "fetched": "2026-03-22T19:43:55.676046+07:00"
+    },
+    {
+      "id": "2d8daf320581d16bc12d84b9a60926e6",
+      "title": "Sự trỗi dậy của vẻ đẹp quyến rũ với áo corset",
+      "link": "https://thanhnien.vn/thoi-trang-tre/su-troi-day-cua-ve-dep-quyen-ru-voi-ao-corset-185260319163205316.htm",
+      "summary": "Không còn là biểu tượng của những chuẩn mực khắt khe trong quá khứ, áo corset ngày nay đang trở lại đầy ngoạn mục, trở thành tuyên ngôn của vẻ đẹp quyến rũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T11:00:00+07:00",
+      "fetched": "2026-03-22T19:43:55.676198+07:00"
+    },
+    {
+      "id": "aacbef64a9cb0c7e702cf731fca52b16",
+      "title": "Nghĩa cử của người vợ hiến tạng chồng chết não cứu 6 người",
+      "link": "https://vnexpress.net/nghia-cu-cua-nguoi-vo-hien-tang-chong-chet-nao-cuu-6-nguoi-5053492.html",
+      "summary": "Vào phòng bệnh xin phép chồng hiến một phần cơ thể cứu sống nhiều người, người vợ dường như cảm nhận được khóe mắt anh chảy ra dòng nước mắt, như thầm đồng ý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T10:54:11+07:00",
+      "fetched": "2026-03-22T19:43:52.313071+07:00"
+    },
+    {
+      "id": "165d7165bbaf2c1d550e8e59b3c1a903",
+      "title": "Hai gã đàn ông nhiều lần hãm hại bé gái",
+      "link": "https://vnexpress.net/hai-ga-dan-ong-nhieu-lan-ham-hai-be-gai-5053497.html",
+      "summary": "Hai người đàn ông 53 tuổi nhiều lần cho tiền dụ dỗ bé gái 13 tuổi rồi xâm hại, yêu cầu không được kể cho ai biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T10:27:11+07:00",
+      "fetched": "2026-03-22T19:43:52.313234+07:00"
+    },
+    {
       "id": "273be0710651655c880a6d08f0a16318",
       "title": "Tuần tới ở TP.HCM nóng nhất đến 36 độ C",
       "link": "https://thanhnien.vn/tuan-toi-o-tphcm-nong-nhat-den-36-do-c-185260322170533539.htm",
@@ -523,6 +913,16 @@ window.newsData_2026_03_22 = {
       "fetched": "2026-03-22T17:24:17.382376+07:00"
     },
     {
+      "id": "5820fdf13e1792aac0ff5ff05bcda8da",
+      "title": "Điểm tin 17h: Ông Trump ra tối hậu thư cho Iran về Hormuz | Doanh nhân tăng hiện diện tại Quốc hội",
+      "link": "https://vnexpress.net/diem-tin-17h-ong-trump-ra-toi-hau-thu-cho-iran-ve-hormuz-doanh-nhan-tang-hien-dien-tai-quoc-hoi-5053494.html",
+      "summary": "Tiếp tục lùi thực hiện Nghị định 46 về an toàn thực phẩm; Iran nêu cách để tàu bè đi qua eo biển Hormuz...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T10:05:40+07:00",
+      "fetched": "2026-03-22T19:43:52.313428+07:00"
+    },
+    {
       "id": "57811375ea60f328b116aec7cc19eef2",
       "title": "Một người tử vong, 3 người mất tích do sóng lớn tại Nhật Bản",
       "link": "https://thanhnien.vn/mot-nguoi-tu-vong-3-nguoi-mat-tich-do-song-lon-tai-nhat-ban-185260322160223776.htm",
@@ -551,6 +951,26 @@ window.newsData_2026_03_22 = {
       "category": "Tổng hợp",
       "published": "2026-03-22T10:00:00+07:00",
       "fetched": "2026-03-22T17:24:17.382844+07:00"
+    },
+    {
+      "id": "75feb2ee45c312649e6666cb9fdf7aa6",
+      "title": "40 năm hạnh phúc bên chồng",
+      "link": "https://vnexpress.net/40-nam-hanh-phuc-ben-chong-5053436.html",
+      "summary": "Suốt 40 năm qua, tôi chưa từng đi một mình; luôn có chồng ở bên với tất cả yêu thương, trách nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T10:00:00+07:00",
+      "fetched": "2026-03-22T19:43:52.313606+07:00"
+    },
+    {
+      "id": "a61dd0337877255b68a48438aa6d2dae",
+      "title": "Phó giám đốc Thảo Cầm Viên: 'Cần dạy trẻ yêu muôn loài từ sớm'",
+      "link": "https://vnexpress.net/pho-giam-doc-thao-cam-vien-can-day-tre-yeu-muon-loai-tu-som-5053479.html",
+      "summary": "Lồng ghép giáo dục bảo vệ động vật vào giải chạy Kun Marathon giúp trẻ em hình thành ý thức yêu thiên nhiên từ sớm, theo Phó giám đốc Thảo Cầm Viên Nguyễn Thanh Nhựt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-22T10:00:00+07:00",
+      "fetched": "2026-03-22T19:43:52.313765+07:00"
     },
     {
       "id": "9dcab3adabe32a518876af3dbe15e945",
