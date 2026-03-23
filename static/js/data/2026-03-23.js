@@ -1,7 +1,77 @@
 window.newsData_2026_03_23 = {
   "date": "2026-03-23",
-  "lastUpdated": "2026-03-23T21:51:57.526936+07:00",
+  "lastUpdated": "2026-03-23T23:54:57.415749+07:00",
   "articles": [
+    {
+      "id": "f4cfdb991ae6b62c8449c07735a03c94",
+      "title": "Ngành thuế ra quân ‘cầm tay chỉ việc’ cho hộ kinh doanh",
+      "link": "https://tuoitre.vn/nganh-thue-ra-quan-cam-tay-chi-viec-cho-ho-kinh-doanh-2026032321280777.htm",
+      "summary": "Sau khi Thuế TP.HCM phát động “Tháng cao điểm đồng hành, hỗ trợ hộ kinh doanh, cá nhân kinh doanh tuân thủ chính sách, pháp luật thuế”, hàng loạt thuế cơ sở đã ra quân hỗ trợ hộ kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746776+07:00",
+      "fetched": "2026-03-23T23:54:50.746900+07:00"
+    },
+    {
+      "id": "95a9c95ff6a84978b0bf07f15b0e8b04",
+      "title": "Camera AI ở Hà Nội phát hiện hơn 19.300 vi phạm sau 3 tháng",
+      "link": "https://tuoitre.vn/camera-ai-o-ha-noi-phat-hien-hon-19-300-vi-pham-sau-3-thang-20260323221507147.htm",
+      "summary": "Bên cạnh vi phạm giao thông, hệ thống camera AI ở Hà Nội còn cung cấp hơn 1.000 lượt hình ảnh vi phạm về trật tự đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746632+07:00",
+      "fetched": "2026-03-23T23:54:50.746748+07:00"
+    },
+    {
+      "id": "d32842dc9b98ae537d0c077e9ac9ff4c",
+      "title": "Vì sao chợ đêm Đài Loan giữ được sức hút với du khách?",
+      "link": "https://tuoitre.vn/vi-sao-cho-dem-dai-loan-giu-duoc-suc-hut-voi-du-khach-20260323222247098.htm",
+      "summary": "Từ lâu các chợ đêm ở Đài Loan (Trung Quốc) đã trở thành một phần không thể thiếu trong trải nghiệm du lịch của các du khách quốc tế khi đến hòn đảo này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746506+07:00",
+      "fetched": "2026-03-23T23:54:50.746620+07:00"
+    },
+    {
+      "id": "778a04181350d29cf12acaa5828a936e",
+      "title": "Việt Nam và Nga ký hiệp định xây dựng nhà máy điện hạt nhân",
+      "link": "https://tuoitre.vn/viet-nam-va-nga-ky-hiep-dinh-xay-dung-nha-may-dien-hat-nhan-20260323221833224.htm",
+      "summary": "Theo VTV, lễ ký kết Hiệp định hợp tác xây dựng nhà máy điện hạt nhân trên lãnh thổ Việt Nam đã diễn ra dưới sự chứng kiến của Thủ tướng hai nước Việt Nam và Liên bang Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746375+07:00",
+      "fetched": "2026-03-23T23:54:50.746494+07:00"
+    },
+    {
+      "id": "8122fbc969683a7ebdc0ec5e126da2ce",
+      "title": "Phó Thủ tướng Thường trực sang Mỹ kêu gọi đầu tư vào trung tâm tài chính từ quỹ Warburg Pincus",
+      "link": "https://tuoitre.vn/pho-thu-tuong-thuong-truc-sang-my-keu-goi-dau-tu-vao-trung-tam-tai-chinh-tu-quy-warburg-pincus-20260323225212023.htm",
+      "summary": "Việt Nam cam kết đồng hành, hỗ trợ và tạo điều kiện thuận lợi nhất để các nhà đầu tư Mỹ kinh doanh thành công tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746242+07:00",
+      "fetched": "2026-03-23T23:54:50.746363+07:00"
+    },
+    {
+      "id": "415223312020742b1cb4af2fb6d01d0a",
+      "title": "Giá dầu giảm hơn 9% sau tuyên bố hoãn tấn công Iran của ông Trump",
+      "link": "https://tuoitre.vn/gia-dau-giam-hon-9-sau-tuyen-bo-hoan-tan-cong-iran-cua-ong-trump-20260323225833179.htm",
+      "summary": "Giá dầu giảm hơn 9%, trong khi thị trường chứng khoán toàn cầu phục hồi từ mức thấp nhất 4 tháng qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.746098+07:00",
+      "fetched": "2026-03-23T23:54:50.746229+07:00"
+    },
+    {
+      "id": "2337f4cf21311bdef37e0c2c5d74366d",
+      "title": "Công ty đứng sau sàn tiền số ONUS hiện ra sao?",
+      "link": "https://tuoitre.vn/cong-ty-dung-sau-san-tien-so-onus-hien-ra-sao-20260323213026049.htm",
+      "summary": "Sau sự cố của sàn tiền số ONUS, HVA Group - đối tác chiến lược của nền tảng này, cho biết vẫn duy trì hoạt động bình thường, đồng thời đang phối hợp cung cấp thông tin cho cơ quan chức năng theo đúng quy định pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T23:54:50.745863+07:00",
+      "fetched": "2026-03-23T23:54:50.746082+07:00"
+    },
     {
       "id": "28b4e6b8c7e30f38477bacabcd80b0ee",
       "title": "Lãnh đạo TP.HCM viếng Đức Hồng y Gioan Baotixita Phạm Minh Mẫn",
@@ -453,6 +523,26 @@ window.newsData_2026_03_23 = {
       "fetched": "2026-03-23T17:50:51.209078+07:00"
     },
     {
+      "id": "cd539143d5a5e901c384ea45e37200da",
+      "title": "Hiện trường vụ máy bay nát đầu vì tông vào xe cứu hỏa",
+      "link": "https://vnexpress.net/hien-truong-vu-may-bay-nat-dau-vi-tong-vao-xe-cuu-hoa-5053973.html",
+      "summary": "Sau khi va chạm với xe cứu hỏa tại sân bay LaGuardia ở New York, máy bay Air Canada vỡ nát đầu, khiến hai phi công thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T16:16:33+07:00",
+      "fetched": "2026-03-23T23:54:47.666152+07:00"
+    },
+    {
+      "id": "cd539143d5a5e901c384ea45e37200da",
+      "title": "Hiện trường vụ máy bay nát đầu vì tông vào xe cứu hỏa",
+      "link": "https://vnexpress.net/hien-truong-vu-may-bay-nat-dau-vi-tong-vao-xe-cuu-hoa-5053973.html",
+      "summary": "Sau khi va chạm với xe cứu hỏa tại sân bay LaGuardia ở New York, máy bay Air Canada vỡ nát đầu, khiến hai phi công thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-23T16:16:33+07:00",
+      "fetched": "2026-03-23T23:54:51.647575+07:00"
+    },
+    {
       "id": "4dd72704c3ce9c3009712a753f0398e1",
       "title": "Nhóm cho vay lãi nặng tới 2%/ngày, thu lợi bất chính hơn 1,6 tỉ đồng lãnh án",
       "link": "https://tuoitre.vn/nhom-cho-vay-lai-nang-toi-2-ngay-thu-loi-bat-chinh-hon-1-6-ti-dong-lanh-an-20260323141508576.htm",
@@ -601,6 +691,36 @@ window.newsData_2026_03_23 = {
       "category": "Tổng hợp",
       "published": "2026-03-23T15:51:28.800669+07:00",
       "fetched": "2026-03-23T15:51:28.800876+07:00"
+    },
+    {
+      "id": "921ea1b85fa2ebf8f44e7078b6ea0b0b",
+      "title": "Ăn bánh mì, 10 người phải cấp cứu với triệu chứng nghi ngộ độc",
+      "link": "https://thanhnien.vn/an-banh-mi-10-nguoi-phai-cap-cuu-voi-trieu-chung-nghi-ngo-doc-1852603232144173.htm",
+      "summary": "10 người tại Quảng Ngãi phải nhập viện với các triệu chứng nghi ngộ độc thực phẩm sau khi ăn bánh mì, cơ quan chức năng đang khẩn trương xác minh nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T15:43:00+07:00",
+      "fetched": "2026-03-23T23:54:50.083546+07:00"
+    },
+    {
+      "id": "511f486de047af99cd2b5247620f4cc1",
+      "title": "Ông Trump nói đang đàm phán với 'lãnh đạo hàng đầu' của Iran",
+      "link": "https://vnexpress.net/ong-trump-noi-dang-dam-phan-voi-lanh-dao-hang-dau-cua-iran-5053977.html",
+      "summary": "Tổng thống Mỹ nói đang đàm phán với một lãnh đạo cấp cao Iran để chấm dứt xung đột, nhưng người này không phải Lãnh tụ Tối cao Mojtaba Khamenei.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T15:07:01+07:00",
+      "fetched": "2026-03-23T23:54:47.666342+07:00"
+    },
+    {
+      "id": "511f486de047af99cd2b5247620f4cc1",
+      "title": "Ông Trump nói đang đàm phán với 'lãnh đạo hàng đầu' của Iran",
+      "link": "https://vnexpress.net/ong-trump-noi-dang-dam-phan-voi-lanh-dao-hang-dau-cua-iran-5053977.html",
+      "summary": "Tổng thống Mỹ nói đang đàm phán với một lãnh đạo cấp cao Iran để chấm dứt xung đột, nhưng người này không phải Lãnh tụ Tối cao Mojtaba Khamenei.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-23T15:07:01+07:00",
+      "fetched": "2026-03-23T23:54:51.647771+07:00"
     },
     {
       "id": "dabbc2243529e95c6a8b66f749307c05",
@@ -1291,6 +1411,16 @@ window.newsData_2026_03_23 = {
       "category": "Tổng hợp",
       "published": "2026-03-23T12:00:00+07:00",
       "fetched": "2026-03-23T20:01:09.102457+07:00"
+    },
+    {
+      "id": "c47c64aa2703d9cdd211a46fc7130c64",
+      "title": "Cá mập trắng dài hơn 4 m đến gần bãi biển đông đúc ở Mỹ",
+      "link": "https://thanhnien.vn/ca-map-trang-dai-hon-4-m-den-gan-bai-bien-dong-duc-o-my-185260323184949322.htm",
+      "summary": "Du khách đổ về các bãi biển bang Florida (Mỹ) trong kỳ nghỉ xuân năm nay cần chú ý sau khi một con cá mập trắng lớn nhất từ trước đến nay đã lộ diện gần St. Augustine, điểm đến đông đúc vào dịp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T12:00:00+07:00",
+      "fetched": "2026-03-23T23:54:50.085784+07:00"
     },
     {
       "id": "01beac034c7a7c790ecaeabaaf9ee658",
