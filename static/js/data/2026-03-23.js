@@ -1,7 +1,157 @@
 window.newsData_2026_03_23 = {
   "date": "2026-03-23",
-  "lastUpdated": "2026-03-23T15:51:36.739194+07:00",
+  "lastUpdated": "2026-03-23T17:50:56.604130+07:00",
   "articles": [
+    {
+      "id": "a0efc20476cd52f317992857fbd87ebd",
+      "title": "Phát hiện hài cốt liệt sĩ cùng nhiều di vật ở vùng rừng giáp biên giới Lào",
+      "link": "https://tuoitre.vn/phat-hien-hai-cot-liet-si-cung-nhieu-di-vat-o-vung-rung-giap-bien-gioi-lao-20260323152320354.htm",
+      "summary": "Đội quy tập hài cốt liệt sĩ Đoàn Kinh tế - Quốc phòng 337 vừa phát hiện, quy tập 1 hài cốt liệt sĩ tại khu vực khe núi xã Hướng Lập, tỉnh Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210795+07:00",
+      "fetched": "2026-03-23T17:50:51.210913+07:00"
+    },
+    {
+      "id": "f3f7633bbe90ba1bdd24befb0c1aee3f",
+      "title": "Vụ bôi xấu đối thủ trước khi bầu trưởng thôn: UBND tỉnh yêu cầu kiểm tra, xử lý",
+      "link": "https://tuoitre.vn/vu-boi-xau-doi-thu-truoc-khi-bau-truong-thon-ubnd-tinh-yeu-cau-kiem-tra-xu-ly-20260323154208267.htm",
+      "summary": "UBND tỉnh yêu cầu UBND xã Trường Sơn kiểm tra, xử lý đơn thư khiếu nại, tố cáo của người dân thôn Hồng Sơn về hành vi vu khống, xúc phạm danh dự và gian lận, vi phạm quy định về bầu cử khi tổ chức bầu trưởng thôn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210672+07:00",
+      "fetched": "2026-03-23T17:50:51.210784+07:00"
+    },
+    {
+      "id": "b73f6b9ec72a616f2b28c3c952dd530f",
+      "title": "Có gì tại Hội chợ Du lịch quốc tế Việt Nam VITM 2026?",
+      "link": "https://tuoitre.vn/co-gi-tai-hoi-cho-du-lich-quoc-te-viet-nam-vitm-2026-20260323152424736.htm",
+      "summary": "Ngày 23-3, Hiệp hội Du lịch Việt Nam chính thức công bố chuỗi sự kiện tại Hội chợ Du lịch quốc tế Việt Nam - VITM 2026 với chủ đề “Phát triển điểm đến xanh, nâng tầm du lịch Việt Nam”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210550+07:00",
+      "fetched": "2026-03-23T17:50:51.210661+07:00"
+    },
+    {
+      "id": "6b05c312ae34b27c68e8fca05259fc0e",
+      "title": "Hơn 630 mã giảm giá, VN-Index rơi sâu về đáy 5 tháng",
+      "link": "https://tuoitre.vn/hon-630-ma-giam-gia-vn-index-roi-sau-ve-day-5-thang-202603231535056.htm",
+      "summary": "Áp lực bán lan rộng trên diện rộng, đặc biệt ở nhóm vốn hóa lớn, khiến VN-Index lao dốc hơn 56 điểm, rơi về vùng đáy thấp nhất trong 5 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210428+07:00",
+      "fetched": "2026-03-23T17:50:51.210539+07:00"
+    },
+    {
+      "id": "c3d2835eaac86ae913e5584fa1f6d8ca",
+      "title": "Bất cập quy định thi tuyển kiến trúc: 'Rào cản' trực tiếp khiến giá nhà bị đẩy cao",
+      "link": "https://tuoitre.vn/bat-cap-quy-dinh-thi-tuyen-kien-truc-rao-can-truc-tiep-khien-gia-nha-bi-day-cao-2026032307091244.htm",
+      "summary": "Theo ông Lê Hoàng Châu, Chủ tịch Hiệp hội Bất động sản TP.HCM, những bất cập trong quy định thi tuyển phương án kiến trúc hiện nay không chỉ gây lãng phí thời gian, tiền bạc của doanh nghiệp mà còn là tác nhân trực tiếp đẩy giá bất động sản tăng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210302+07:00",
+      "fetched": "2026-03-23T17:50:51.210418+07:00"
+    },
+    {
+      "id": "8f3b31d166040275970f6c830058f106",
+      "title": "Ngành bảo hiểm sẽ thay đổi ra sao trong kỷ nguyên AI?",
+      "link": "https://tuoitre.vn/nganh-bao-hiem-se-thay-doi-ra-sao-trong-ky-nguyen-ai-20260323160425829.htm",
+      "summary": "Sự kiện InsurTech 2026 với chủ đề 'Tái định hình ngành bảo hiểm trong kỷ nguyên AI' sẽ chính thức kích hoạt vào ngày 27-3 tới đây tại TP.HCM với sự đồng hành bởi Techcombank, Techcom Life và Techcom Insurance.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210177+07:00",
+      "fetched": "2026-03-23T17:50:51.210291+07:00"
+    },
+    {
+      "id": "99563cf2946f404b7e82e1d814a1f051",
+      "title": "Tập đoàn TTC và BIDV tăng cường hợp tác, thúc đẩy phát triển bền vững",
+      "link": "https://tuoitre.vn/tap-doan-ttc-va-bidv-tang-cuong-hop-tac-thuc-day-phat-trien-ben-vung-20260323154451116.htm",
+      "summary": "Tập đoàn TTC và Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) vừa ký kết thỏa thuận hợp tác toàn diện giai đoạn 2026 - 2031, đánh dấu bước tiến mới trong quan hệ hợp tác giữa hai bên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.210043+07:00",
+      "fetched": "2026-03-23T17:50:51.210162+07:00"
+    },
+    {
+      "id": "3a4f76d5eb93c557439059eaf59df9cf",
+      "title": "AI làm mờ ranh giới thật-giả, đặt thách thức lớn cho thông tin số",
+      "link": "https://tuoitre.vn/ai-lam-mo-ranh-gioi-that-gia-dat-thach-thuc-lon-cho-thong-tin-so-20260323154821295.htm",
+      "summary": "Theo các chuyên gia, sự phát triển nhanh chóng của AI không chỉ khiến việc nhận diện nội dung giả trở nên khó khăn hơn mà còn làm thay đổi cách thông tin được tạo ra và lan truyền trong xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209892+07:00",
+      "fetched": "2026-03-23T17:50:51.210030+07:00"
+    },
+    {
+      "id": "4803bdf692fec8bffe221463c2ece011",
+      "title": "Giải mã vì sao cơn đau trở nên dữ dội hơn vào ban đêm",
+      "link": "https://tuoitre.vn/giai-ma-vi-sao-con-dau-tro-nen-du-doi-hon-vao-ban-dem-20260323155016782.htm",
+      "summary": "Các nhà khoa học vừa làm sáng tỏ vì sao nhiều người cảm thấy cơn đau trở nên nghiêm trọng hơn vào ban đêm - một hiện tượng phổ biến nhưng trước đây chưa được hiểu rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209768+07:00",
+      "fetched": "2026-03-23T17:50:51.209880+07:00"
+    },
+    {
+      "id": "75f820e00b1356dfa195254e441fc066",
+      "title": "Lần đầu có giải pickleball cho người làm báo",
+      "link": "https://tuoitre.vn/lan-dau-co-giai-pickleball-cho-nguoi-lam-bao-20260323162153933.htm",
+      "summary": "Chiều 23-3, tại Văn phòng đại diện phía Nam của Hội Nhà báo Việt Nam đã diễn ra buổi họp báo, công bố Giải Pickleball Hội Nhà báo Việt Nam 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209642+07:00",
+      "fetched": "2026-03-23T17:50:51.209756+07:00"
+    },
+    {
+      "id": "d9790014b87366e768aaccaf21a1340a",
+      "title": "UOB Việt Nam tặng phòng máy vi tính cho học sinh vùng sâu An Giang",
+      "link": "https://tuoitre.vn/uob-viet-nam-tang-phong-may-vi-tinh-cho-hoc-sinh-vung-sau-an-giang-20260323154624966.htm",
+      "summary": "Ngày 20-3, Ngân hàng UOB Việt Nam phối hợp tổ chức Saigon Children’s Charity CIO trao tặng và khánh thành ba phòng máy vi tính “UOB My Digital Space” cho ba trường trung học cơ sở trên địa bàn phường Tịnh Biên và xã An Cư, tỉnh An Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209507+07:00",
+      "fetched": "2026-03-23T17:50:51.209630+07:00"
+    },
+    {
+      "id": "18f44f5c938cfecf770c9b087eeb41ea",
+      "title": "Thái Lan xem xét giảm thời gian lưu trú miễn thị thực của du khách quốc tế",
+      "link": "https://tuoitre.vn/thai-lan-xem-xet-giam-thoi-gian-luu-tru-mien-thi-thuc-cua-du-khach-quoc-te-20260323155404777.htm",
+      "summary": "Bộ Ngoại giao Thái Lan cho biết sẽ đề xuất giảm thời gian lưu trú miễn thị thực cho khách du lịch nước ngoài tại nước này từ 60 ngày xuống còn 30 ngày.\\",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209372+07:00",
+      "fetched": "2026-03-23T17:50:51.209495+07:00"
+    },
+    {
+      "id": "ba1bb35e41c30bd48d68a0c4d9b2b52c",
+      "title": "3 vấn đề cho phát triển kinh tế của Việt Nam và Lào trong bối cảnh mới",
+      "link": "https://tuoitre.vn/3-van-de-cho-phat-trien-kinh-te-cua-viet-nam-va-lao-trong-boi-canh-moi-20260323141931608.htm",
+      "summary": "Bộ Ngoại giao Việt Nam và Lào cùng ĐH Fulbright Việt Nam tổ chức chương trình đối thoại, chia sẻ kinh nghiệm dành cho cán bộ lãnh đạo nhiều ngành của Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209234+07:00",
+      "fetched": "2026-03-23T17:50:51.209353+07:00"
+    },
+    {
+      "id": "749420d27a1a0ec87fe47c0fe213aeaa",
+      "title": "Dân Nhật phản đối triển khai quân sự tới Hormuz, ủng hộ cách xử lý của Thủ tướng Takaichi",
+      "link": "https://tuoitre.vn/dan-nhat-phan-doi-trien-khai-quan-su-toi-hormuz-ung-ho-cach-xu-ly-cua-thu-tuong-takaichi-20260323162434941.htm",
+      "summary": "Khảo sát được thực hiện trong bối cảnh Mỹ đang gây sức ép buộc các đồng minh tham gia bảo vệ eo biển Hormuz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.209094+07:00",
+      "fetched": "2026-03-23T17:50:51.209221+07:00"
+    },
+    {
+      "id": "5e931f5947190457c8d1b32b16eff5f2",
+      "title": "VN-Index mất 120 điểm sau 3 phiên: Nhà đầu tư nên làm gì?",
+      "link": "https://tuoitre.vn/vn-index-mat-120-diem-sau-3-phien-nha-dau-tu-nen-lam-gi-20260323163541374.htm",
+      "summary": "Giới chuyên gia khuyến nghị nhà đầu tư thận trọng, ưu tiên chiến lược phòng thủ trong giai đoạn này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T17:50:51.208896+07:00",
+      "fetched": "2026-03-23T17:50:51.209078+07:00"
+    },
     {
       "id": "4dd72704c3ce9c3009712a753f0398e1",
       "title": "Nhóm cho vay lãi nặng tới 2%/ngày, thu lợi bất chính hơn 1,6 tỉ đồng lãnh án",
@@ -453,6 +603,336 @@ window.newsData_2026_03_23 = {
       "fetched": "2026-03-23T12:28:22.433222+07:00"
     },
     {
+      "id": "f55a4846c01d7f67ae3f653c9ca6c1f9",
+      "title": "Xác minh 2 nữ sinh Hà Tĩnh liều lĩnh vượt gác chắn trước đầu tàu hỏa",
+      "link": "https://thanhnien.vn/xac-minh-2-nu-sinh-ha-tinh-lieu-linh-vuot-gac-chan-truoc-dau-tau-hoa-185260323171749081.htm",
+      "summary": "Dù gác chắn đã đóng và tàu hỏa liên tục hú còi báo hiệu đang lao tới, nhưng 2 nữ sinh tại Hà Tĩnh vẫn bất chấp nguy hiểm, cố tình băng qua đường ray.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:44:00+07:00",
+      "fetched": "2026-03-23T17:50:50.430608+07:00"
+    },
+    {
+      "id": "37b023cd0cb95d0a82a8779cd4457ae3",
+      "title": "Đại học lên lịch nghỉ lễ 9 ngày dịp Giỗ Tổ Hùng Vương, 30.4 và 1.5",
+      "link": "https://thanhnien.vn/dai-hoc-len-lich-nghi-le-9-ngay-dip-gio-to-hung-vuong-304-va-15-185260323170641166.htm",
+      "summary": "Một đại học (ĐH) tại TP.HCM lên lịch nghỉ lễ dài 9 ngày dịp Giỗ Tổ Hùng Vương, ngày Thống nhất đất nước 30.4, ngày Quốc tế Lao động 1.5 nhờ kết hợp hình thức học tập, làm việc trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:42:00+07:00",
+      "fetched": "2026-03-23T17:50:50.430776+07:00"
+    },
+    {
+      "id": "37b41db624933c942bfa0eb87ff7b9a4",
+      "title": "Nhiều hoạt động văn hóa, tín ngưỡng tại lễ hội Dinh Cô Long Hải",
+      "link": "https://thanhnien.vn/nhieu-hoat-dong-van-hoa-tin-nguong-tai-le-hoi-dinh-co-long-hai-185260323170921831.htm",
+      "summary": "Lễ hội Dinh Cô Long Hải được tổ chức từ ngày 27 - 30.3, với nhiều hoạt động văn hóa, tín ngưỡng đặc sắc nhằm thu hút người dân và du khách tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:41:00+07:00",
+      "fetched": "2026-03-23T17:50:50.430931+07:00"
+    },
+    {
+      "id": "59323da097cee2f84968431810968c69",
+      "title": "Gỡ vướng cấp sổ hồng cho dự án nhà ở trên địa bàn tỉnh Bình Dương cũ",
+      "link": "https://thanhnien.vn/go-vuong-cap-so-hong-cho-du-an-nha-o-tren-dia-ban-tinh-binh-duong-cu-185260323171222987.htm",
+      "summary": "Giám đốc Sở Nông nghiệp và Môi trường TP.HCM Nguyễn Toàn Thắng đã chủ trì cuộc họp với Tổ công tác 1645 để tháo gỡ vướng mắc để cấp sổ hồng cho người mua nhà tại các dự án nhà ở trên địa bàn tỉnh Bình Dương cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:37:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431108+07:00"
+    },
+    {
+      "id": "f383d82d4b5d091cc2a450215f0a5211",
+      "title": "Lọc màng bụng tại nhà: Bước tiến giúp người bệnh thận sống chủ động hơn",
+      "link": "https://thanhnien.vn/loc-mang-bung-tai-nha-buoc-tien-giup-nguoi-benh-than-song-chu-dong-hon-1852603231730403.htm",
+      "summary": "Anh T. (45 tuổi, ở TP.HCM) bị suy thận mạn, phải chạy thận 3 lần mỗi tuần. Điều khiến anh mệt mỏi không chỉ bệnh tật mà còn hành trình lặp lại, áp lực thời gian, ảnh hưởng đến cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:30:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431264+07:00"
+    },
+    {
+      "id": "c4c12fa3a8bb30a3e6c737932332dfc3",
+      "title": "Thánh lễ đưa chân Đức Hồng y Gioan Baotixita Phạm Minh Mẫn",
+      "link": "https://vnexpress.net/thanh-le-dua-chan-duc-hong-y-gioan-baotixita-pham-minh-man-5053905.html",
+      "summary": "Hàng trăm giáo dân dự lễ tẩn liệm và thánh lễ đưa chân Đức Hồng y Gioan Baotixita Phạm Minh Mẫn tại trung tâm Mục vụ Tổng giáo phận Sài Gòn, chiều 23/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:25:24+07:00",
+      "fetched": "2026-03-23T17:50:47.667730+07:00"
+    },
+    {
+      "id": "4b89e231720b86a65968df02577669a9",
+      "title": "16 cảnh sát quần thảo trên sông Hồng tìm kiếm 2 nạn nhân bị chìm tàu",
+      "link": "https://thanhnien.vn/16-canh-sat-quan-thao-tren-song-hong-tim-kiem-2-nan-nhan-bi-chim-tau-18526032316425141.htm",
+      "summary": "Công an tỉnh Phú Thọ huy động 16 cán bộ, chiến sĩ, quần thảo khắp mặt sông Hồng để tìm kiếm 2 nạn nhân trong vụ chìm tàu hút cát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:19:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431417+07:00"
+    },
+    {
+      "id": "ceb16e3442821863700f6dea8cee9e04",
+      "title": "Vé máy bay quốc tế tăng 'khét lẹt', du lịch hồi hộp lo tour nhảy giá",
+      "link": "https://thanhnien.vn/ve-may-bay-quoc-te-tang-khet-let-du-lich-hoi-hop-lo-tour-nhay-gia-185260323170558022.htm",
+      "summary": "Các hãng hàng không quốc tế đồng loạt áp phụ thu nhiên liệu hoặc tăng giá vé máy bay do ảnh hưởng của chiến sự Trung Đông, đẩy giá tour tăng cao đúng giai đoạn cao điểm của ngành du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:14:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431565+07:00"
+    },
+    {
+      "id": "a18300e2abf729a5e057eae58f04432b",
+      "title": "Điểm tin 17h: IEA có thể xả thêm kho dầu dự trữ | Chứng khoán bị bán tháo",
+      "link": "https://vnexpress.net/diem-tin-17h-iea-co-the-xa-them-kho-dau-du-tru-chung-khoan-bi-ban-thao-5053923.html",
+      "summary": "Giá vàng biến động mạnh; Mỹ cảnh báo nguy cơ công dân bị nhắm mục tiêu khắp thế giới;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:11:58+07:00",
+      "fetched": "2026-03-23T17:50:47.667909+07:00"
+    },
+    {
+      "id": "5ba068d2f425f89da4da24500899e5b2",
+      "title": "Cách giúp vết thương hở nhanh lành chuẩn y khoa ngăn ngừa nhiễm trùng và sẹo xấu",
+      "link": "https://thanhnien.vn/cach-giup-vet-thuong-ho-nhanh-lanh-chuan-y-khoa-ngan-ngua-nhiem-trung-va-seo-xau-185260323172333561.htm",
+      "summary": "Vết thương hở nếu chăm sóc sai cách không chỉ lâu lành mà còn tiềm ẩn nguy cơ nhiễm trùng, để lại sẹo xấu khó phục hồi. Áp dụng đúng nguyên tắc y khoa ngay từ đầu chính là 'chìa khóa' giúp rút ngắn thời gian lành thương, bảo vệ làn da và hạn chế nguy cơ biến chứng về sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:06:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431718+07:00"
+    },
+    {
+      "id": "94abb08c55c96da06130416b516225fc",
+      "title": "Iran dọa rải thủy lôi phong tỏa vịnh Ba Tư",
+      "link": "https://vnexpress.net/iran-doa-rai-thuy-loi-phong-toa-vinh-ba-tu-5053859.html",
+      "summary": "Hội đồng Quốc phòng Iran cảnh báo về khả năng rải thủy lôi trên toàn bộ vịnh Ba Tư nếu đối phương tấn công duyên hải nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:04:35+07:00",
+      "fetched": "2026-03-23T17:50:47.668101+07:00"
+    },
+    {
+      "id": "94abb08c55c96da06130416b516225fc",
+      "title": "Iran dọa rải thủy lôi phong tỏa vịnh Ba Tư",
+      "link": "https://vnexpress.net/iran-doa-rai-thuy-loi-phong-toa-vinh-ba-tu-5053859.html",
+      "summary": "Hội đồng Quốc phòng Iran cảnh báo về khả năng rải thủy lôi trên toàn bộ vịnh Ba Tư nếu đối phương tấn công duyên hải nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-23T10:04:35+07:00",
+      "fetched": "2026-03-23T17:50:52.251557+07:00"
+    },
+    {
+      "id": "70009d39310962f8548459e2afa5d2c3",
+      "title": "Tiếp xúc ca tử vong não mô cầu ở Phú Quốc, bé gái 11 tuổi nguy kịch",
+      "link": "https://thanhnien.vn/tiep-xuc-ca-tu-vong-nao-mo-cau-o-phu-quoc-be-gai-11-tuoi-nguy-kich-185260323163518873.htm",
+      "summary": "Sau khi tiếp xúc ca tử vong do não mô cầu tại Phú Quốc, bé gái 11 tuổi nhập viện trong tình trạng nguy kịch, đối mặt nguy cơ sốc nhiễm trùng, rối loạn đông máu và suy đa cơ quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:03:00+07:00",
+      "fetched": "2026-03-23T17:50:50.431864+07:00"
+    },
+    {
+      "id": "05259191193e2db66d04efb5b3289039",
+      "title": "Ba tàu muốn đổi sang quốc tịch Việt Nam để được an toàn ở Trung Đông",
+      "link": "https://vnexpress.net/ba-tau-muon-doi-sang-quoc-tich-viet-nam-de-duoc-an-toan-o-trung-dong-5053871.html",
+      "summary": "Cục Hàng hải và Đường thủy Việt Nam nhận được kiến nghị của ba chủ tàu Việt Nam muốn đổi quốc tịch từ tàu nước ngoài sang Việt Nam để được an toàn khi hoạt động tại Trung đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:01:58+07:00",
+      "fetched": "2026-03-23T17:50:47.668260+07:00"
+    },
+    {
+      "id": "4e12866936b5226573ac5079ad16abac",
+      "title": "HLV Cklamovski lên tiếng về 2 cầu thủ nhập tịch Malaysia: ‘Họ chưa đủ điều kiện đấu Việt Nam’",
+      "link": "https://thanhnien.vn/hlv-cklamovski-len-tieng-ve-2-cau-thu-nhap-tich-malaysia-ho-chua-du-dieu-kien-dau-viet-nam-18526032316460171.htm",
+      "summary": "Trưa 23.3, HLV Cklamovski đã có cuộc họp báo ở khách sạn tại Bukit Jalil khi đội tuyển Malaysia tập trung chuẩn bị cho trận gặp đội tuyển Việt Nam lúc 19 giờ ngày 31.3 trên sân Thiên Trường (Ninh Bình), thuộc lượt cuối vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:01:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432037+07:00"
+    },
+    {
+      "id": "8402dbadbfb77d7fcb765052cbff80c9",
+      "title": "Chàng trai bị từ chối 24 lần vẫn muốn phát triển AI Việt",
+      "link": "https://vnexpress.net/chang-trai-bi-tu-choi-24-lan-van-muon-phat-trien-ai-viet-5053624.html",
+      "summary": "Nguyễn Hoàng Hiệp - COO AI Hay, ứng dụng AI top 2 Việt Nam về lượng người dùng, kể về hành trình biến những đả kích, sự ê chề thành động lực để \"chiến\" hết mình và tinh thần dám đối diện kẻ mạnh dù chỉ có 1–2% cơ hội thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:40+07:00",
+      "fetched": "2026-03-23T17:50:47.668424+07:00"
+    },
+    {
+      "id": "b1ac43518020177172c28878bbe17640",
+      "title": "Tôi phải đặt cọc 9 triệu đồng giữ chỗ cho con vào lớp 6",
+      "link": "https://vnexpress.net/dat-coc-9-trieu-giu-cho-cho-con-vao-lop-6-5053786.html",
+      "summary": "Nhà trường gửi thông báo cho tôi, yêu cầu đặt cọc 9 triệu đồng để nhập học cho con, trong đó 4,5 triệu là phí tuyển sinh không hoàn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.668585+07:00"
+    },
+    {
+      "id": "97120ecb081cf7803aaaee516a147eb9",
+      "title": "Smartcom AI dự báo điểm IELTS qua dữ liệu",
+      "link": "https://vnexpress.net/smartcom-ai-du-bao-diem-ielts-qua-du-lieu-5053925.html",
+      "summary": "Smartcom English phát triển nền tảng luyện thi IELTS - Smartcom AI tích hợp AI với tính năng dự báo điểm dựa trên phân tích kết quả học tập cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.668750+07:00"
+    },
+    {
+      "id": "59fb88e3be1f39141233ac4e20f795dc",
+      "title": "Doanh nghiệp khó tìm lao động phù hợp dù ứng viên dồi dào",
+      "link": "https://vnexpress.net/doanh-nghiep-kho-tim-lao-dong-phu-hop-du-ung-vien-doi-dao-5053906.html",
+      "summary": "Mặt bằng lương tăng song kỳ vọng của lao động trẻ cao hơn mức nhà tuyển dụng trả, được xem là một trong số lý do khiến doanh nghiệp khó tìm nhân sự phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.668902+07:00"
+    },
+    {
+      "id": "5ceab669e2d858c125387d65329f6ceb",
+      "title": "Bên trong bệnh viện gần 1.500 tỷ đồng phía đông Hà Nội",
+      "link": "https://vnexpress.net/ben-trong-benh-vien-gan-1-500-ty-dong-phia-dong-ha-noi-5053900.html",
+      "summary": "Vinmec Ocean Park 2 sở hữu hệ thống thiết bị hiện đại, dịch vụ y tế tiêu chuẩn quốc tế, phát triển theo mô hình tích hợp điều trị - phẫu thuật - phục hồi - an dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.669081+07:00"
+    },
+    {
+      "id": "5ea0d2db08de373a961f7eeb36190df7",
+      "title": "Cảm hứng thời trang và nghệ thuật trên Vivo V70 Series",
+      "link": "https://vnexpress.net/cam-hung-thoi-trang-va-nghe-thuat-tren-vivo-v70-series-5053892.html",
+      "summary": "V70 và V70 FE đánh dấu hợp tác giữa Vivo và Pop Mart Zsiga, đưa yếu tố nghệ thuật đương đại vào thiết kế smartphone, hướng đến nhóm người dùng trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.669239+07:00"
+    },
+    {
+      "id": "386d83ab3e304e809f68ab88620081c9",
+      "title": "6 dấu hiệu cảnh báo lượng collagen suy giảm",
+      "link": "https://vnexpress.net/6-dau-hieu-canh-bao-luong-collagen-suy-giam-5053760.html",
+      "summary": "Collagen giảm thường thấy qua các biểu hiện như da nhăn nheo, chảy xệ, tóc khô xơ, móng tay giòn và xương khớp đau cứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.669394+07:00"
+    },
+    {
+      "id": "7a4db7e4962a79bec105d73f29214b24",
+      "title": "Cửa hàng Zara 2.000 m2, tích hợp công nghệ tại Crescent Mall",
+      "link": "https://vnexpress.net/cua-hang-zara-2-000-m2-tich-hop-cong-nghe-tai-crescent-mall-5053743.html",
+      "summary": "Cửa hàng Zara Crescent Mall rộng 2.000 m2, tích hợp tính năng tra cứu tồn kho, trang bị hệ thống tiết kiệm năng lượng và điểm thu gom bao bì giấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:47.669547+07:00"
+    },
+    {
+      "id": "8a34c47afab8888bd6b8dcf5dc276ff8",
+      "title": "Toàn cảnh 17h: Khởi tố 2 người rượt đuổi, kẹp cổ tài xế | Danh tính người hành hung phóng viên ở Đà Lạt",
+      "link": "https://thanhnien.vn/toan-canh-17h-khoi-to-2-nguoi-ruot-duoi-kep-co-tai-xe-danh-tinh-nguoi-hanh-hung-phong-vien-o-da-lat-185260323161814095.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T10:00:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432187+07:00"
+    },
+    {
+      "id": "4ea07909db3a48ba9ff2e673cafd5ab7",
+      "title": "Thế Giới Di Động - Điểm đến lý tưởng cho tín đồ đồng hồ thời trang",
+      "link": "https://thanhnien.vn/the-gioi-di-dong-diem-den-ly-tuong-cho-tin-do-dong-ho-thoi-trang-185260323170501342.htm",
+      "summary": "Nếu bạn đang tìm kiếm một chiếc đồng hồ đeo tay để khẳng định phong cách cá nhân, Thế Giới Di Động chính là điểm dừng chân không thể bỏ qua. Không chỉ đứng hàng đầu về thiết bị di động, hệ thống hiện còn là địa chỉ bán lẻ đồng hồ thời trang chính hãng uy tín với danh mục sản phẩm cực kỳ phong phú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:59:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432331+07:00"
+    },
+    {
+      "id": "26e316d604b16b59c3c999b5c99b21ee",
+      "title": "Hai khách Nhật nguy kịch trên du thuyền được đưa vào TP HCM cấp cứu",
+      "link": "https://vnexpress.net/hai-khach-nhat-nguy-kich-tren-du-thuyen-duoc-dua-vao-tp-hcm-cap-cuu-5053903.html",
+      "summary": "Hai hành khách Nhật Bản bị suy hô hấp nặng khi đi trên du thuyền Pacific World đã được lực lượng cứu nạn Việt Nam tiếp cận, đưa vào bờ điều trị, chiều 23/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:58:28+07:00",
+      "fetched": "2026-03-23T17:50:47.669695+07:00"
+    },
+    {
+      "id": "f7ac7c6c3da490f1fc2a6cc452dcc031",
+      "title": "Kỳ vọng thế hệ trẻ đóng góp thực chất vào quyết sách quốc gia",
+      "link": "https://thanhnien.vn/ky-vong-the-he-tre-dong-gop-thuc-chat-vao-quyet-sach-quoc-gia-185260323165703435.htm",
+      "summary": "Chia sẻ về vai trò của đại biểu trẻ, bà Nguyễn Thị Ngọc Xuân, Thành ủy viên, Phó trưởng Đoàn đại biểu Quốc hội TP.HCM (khóa XV), nhấn mạnh tham gia Quốc hội là thách thức lớn khi đại biểu phải nắm vững chức năng lập pháp, giám sát, quyết định các vấn đề quan trọng của đất nước, đồng thời có chiều sâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:52:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432478+07:00"
+    },
+    {
+      "id": "536fd06e91dd6af555121dabeaa3bf44",
+      "title": "Đàn bò chạy trên cao tốc TP HCM - Long Thành",
+      "link": "https://vnexpress.net/dan-bo-chay-tren-cao-toc-tp-hcm-long-thanh-5053913.html",
+      "summary": "Bốn con bò đi vào làn đường trên cao tốc TP HCM - Long Thành - Dầu Giây gây gián đoạn giao thông, cảnh sát phải điều tiết để tránh gây tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:50:52+07:00",
+      "fetched": "2026-03-23T17:50:47.669851+07:00"
+    },
+    {
+      "id": "a0bcf31cf0c3a4ebdac7291a53542572",
+      "title": "Cách xử lý thịt bị dai trong 15 phút",
+      "link": "https://vnexpress.net/cach-xu-ly-thit-bi-dai-trong-15-phut-5053912.html",
+      "summary": "Nếu gặp tình trạng thịt nấu xong bị dai cứng, những mẹo xử lý nhanh trong 15 phút sau đây có thể giúp bạn “cứu” món ăn mà không cần nấu lại từ đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:46:08+07:00",
+      "fetched": "2026-03-23T17:50:47.670031+07:00"
+    },
+    {
+      "id": "0aa0dedbc5ed5428f626bff74c7dbee8",
+      "title": "Cao đẳng Trung Quốc khuyến khích sinh viên hẹn hò dịp nghỉ xuân",
+      "link": "https://vnexpress.net/cao-dang-trung-quoc-khuyen-khich-sinh-vien-hen-ho-dip-nghi-xuan-5053835.html",
+      "summary": "Trường cao đẳng ở Tứ Xuyên kêu gọi sinh viên \"ngắm hoa, yêu đương\", giữa lúc chính phủ nỗ lực thúc đẩy hôn nhân, sinh nở, kích thích tiêu dùng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-23T09:45:43+07:00",
+      "fetched": "2026-03-23T17:50:52.251737+07:00"
+    },
+    {
+      "id": "d96fd331b2f6b306a53195273f3faacb",
+      "title": "Điện lực Quảng Trị tích cực hưởng ứng Giờ Trái Đất 2026",
+      "link": "https://thanhnien.vn/dien-luc-quang-tri-tich-cuc-huong-ung-gio-trai-dat-2026-185260323165213321.htm",
+      "summary": "Hưởng ứng Chiến dịch Giờ Trái Đất 2026 với thông điệp 'Sáng tạo xanh - Tương lai xanh', Công ty Điện lực Quảng Trị (PC Quảng Trị) đang triển khai đồng bộ nhiều hoạt động, góp phần bảo vệ môi trường và phát triển bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:45:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432623+07:00"
+    },
+    {
+      "id": "f92f7909faa967f64a387c50962fd266",
+      "title": "Kịp thời đưa 2 khách Nhật từ tàu du lịch nước ngoài vào bờ cấp cứu",
+      "link": "https://thanhnien.vn/kip-thoi-dua-2-khach-nhat-tu-tau-du-lich-nuoc-ngoai-vao-bo-cap-cuu-18526032316253046.htm",
+      "summary": "Hai khách Nhật đang đi trên tàu du lịch nước ngoài bị bệnh nặng, được tàu SAR 272 đưa vào bờ để cấp cứu chuyên sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-23T09:41:00+07:00",
+      "fetched": "2026-03-23T17:50:50.432773+07:00"
+    },
+    {
+      "id": "11a09ee0d961784ea793738f1d18486d",
+      "title": "Nico O’Reilly - người hùng chung kết Cup Liên đoàn của Man City",
+      "link": "https://vnexpress.net/nico-o-reilly-nguoi-hung-chung-ket-cup-lien-doan-cua-man-city-5053879.html",
+      "summary": "Nico O’Reilly trở thành mắt xích quan trọng trong đội hình Man City mùa này và ghi cả hai bàn trong trận chung kết Cup Liên đoàn Anh 2026, dù xuất phát từ vị trí hậu vệ trái.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-23T09:13:41+07:00",
+      "fetched": "2026-03-23T17:50:56.593398+07:00"
+    },
+    {
       "id": "9c1a64419d66b617fa4960fad49db5df",
       "title": "Cần giải pháp giảm 'giải cứu' nông sản",
       "link": "https://tuoitre.vn/can-giai-phap-giam-giai-cuu-nong-san-20260323052030178.htm",
@@ -603,6 +1083,36 @@ window.newsData_2026_03_23 = {
       "fetched": "2026-03-23T09:00:47.181210+07:00"
     },
     {
+      "id": "fe359285eb780a2a2e5be5e27602bcfe",
+      "title": "Bảo hiểm PVI 4 năm liền được xếp hạng năng lực tài chính xuất sắc",
+      "link": "https://vnexpress.net/bao-hiem-pvi-4-nam-lien-duoc-xep-hang-nang-luc-tai-chinh-xuat-sac-5053800.html",
+      "summary": "Tổng công ty Bảo hiểm PVI năm thứ 4 liên tiếp được tổ chức xếp hạng tín nhiệm AM Best xếp hạng năng lực tài chính A- (xuất sắc) cùng triển vọng ổn định, nhờ chiến lược kinh doanh hiệu quả.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-23T09:00:00+07:00",
+      "fetched": "2026-03-23T17:50:53.135431+07:00"
+    },
+    {
+      "id": "7f164e012541da87afaffed32b72609d",
+      "title": "Musk sẽ xây hai nhà máy chip cho robot, trung tâm dữ liệu vũ trụ",
+      "link": "https://vnexpress.net/musk-se-xay-hai-nha-may-chip-cho-robot-trung-tam-du-lieu-vu-tru-5053819.html",
+      "summary": "Elon Musk cho biết sẽ xây hai \"Terafab\" ở Texas, một cho ôtô và robot hình người, còn lại cho trung tâm dữ liệu AI ngoài không gian.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-23T09:00:00+07:00",
+      "fetched": "2026-03-23T17:50:55.070708+07:00"
+    },
+    {
+      "id": "fb75270ab5cc43a58036cd6fb940e200",
+      "title": "Bạn gái tin đồn đến xem Mbappe thi đấu",
+      "link": "https://vnexpress.net/ban-gai-tin-don-den-xem-mbappe-thi-dau-5052834.html",
+      "summary": "Ester Exposito, diễn viên người Tây Ban Nha, đến sân Bernabeu xem Kylian Mbappe thi đấu trong trận Real thắng Atletico ở vòng 29 La Liga, tối 22/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-23T08:51:05+07:00",
+      "fetched": "2026-03-23T17:50:56.593896+07:00"
+    },
+    {
       "id": "080cfb020993478746daf131c948e671",
       "title": "Viêm não mô cầu: Dấu hiệu dễ bị nhầm với cảm cúm và cách phòng tránh",
       "link": "https://thanhnien.vn/viem-nao-mo-cau-dau-hieu-de-bi-nham-voi-cam-cum-va-cach-phong-tranh-185260323155052526.htm",
@@ -631,6 +1141,16 @@ window.newsData_2026_03_23 = {
       "category": "Tổng hợp",
       "published": "2026-03-23T08:49:00+07:00",
       "fetched": "2026-03-23T15:51:27.680319+07:00"
+    },
+    {
+      "id": "e7eb6d2a7d7a70118364c883fec82ed1",
+      "title": "HLV cũ lên tiếng về nghi vấn ngăn 'Thiên thần băng' uống nước",
+      "link": "https://vnexpress.net/hlv-cu-len-tieng-ve-nghi-van-ngan-thien-than-bang-uong-nuoc-5053690.html",
+      "summary": "Sau khi “Thiên thần băng” Alysa Liu tiết lộ từng bị kiểm soát lượng nước trong quá trình tập luyện, HLV cũ Laura Lipetsky đã lên tiếng bác bỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-23T08:48:44+07:00",
+      "fetched": "2026-03-23T17:50:56.594076+07:00"
     },
     {
       "id": "97baf9a22c502afd266ff8fd71f08688",
@@ -1321,6 +1841,16 @@ window.newsData_2026_03_23 = {
       "category": "Kinh doanh",
       "published": "2026-03-23T05:36:35+07:00",
       "fetched": "2026-03-23T14:06:00.751930+07:00"
+    },
+    {
+      "id": "d5cb26f1fcc5fe92e11c50fe4a6c8270",
+      "title": "IEA: 40 cơ sở năng lượng ở Trung Đông bị hư hại do xung đột",
+      "link": "https://vnexpress.net/iea-40-co-so-nang-luong-o-trung-dong-bi-hu-hai-do-xung-dot-5053767.html",
+      "summary": "Cơ quan Năng lượng Quốc tế (IEA) thông tin 40 cơ sở năng lượng tại Trung Đông bị hư hại sau các cuộc công kích của Iran.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-23T05:36:35+07:00",
+      "fetched": "2026-03-23T17:50:53.134300+07:00"
     },
     {
       "id": "cd1137a5dc7093c3cdd781df10c0bfdf",
