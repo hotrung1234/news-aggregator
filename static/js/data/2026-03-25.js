@@ -1,6 +1,6 @@
 window.newsData_2026_03_25 = {
   "date": "2026-03-25",
-  "lastUpdated": "2026-03-25T15:47:46.922981+07:00",
+  "lastUpdated": "2026-03-25T17:45:40.554813+07:00",
   "articles": [
     {
       "id": "12408f6ef41ae288a46814e602497aaf",
@@ -453,6 +453,386 @@ window.newsData_2026_03_25 = {
       "fetched": "2026-03-25T11:24:25.592216+07:00"
     },
     {
+      "id": "84db3095d0535df071939cfac7574cb7",
+      "title": "Xe khách chạy ngược chiều bị CSGT TP.HCM phạt đến 20 triệu đồng",
+      "link": "https://thanhnien.vn/xe-khach-chay-nguoc-chieu-bi-csgt-tphcm-phat-den-20-trieu-dong-185260325161810696.htm",
+      "summary": "Một xe khách chạy ngược chiều trên đường Tân Sơn (TP.HCM) vừa bị lực lượng CSGT xác minh, xử lý nghiêm. Hành vi này được cảnh báo đặc biệt nguy hiểm, tiềm ẩn nguy cơ tai nạn nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:30:00+07:00",
+      "fetched": "2026-03-25T17:45:34.959814+07:00"
+    },
+    {
+      "id": "3e0dd49f9bd8b66f71279d89d7f879c3",
+      "title": "TP.HCM: Bắt tạm giam đối tượng chuyên trộm chó, từng thực hiện nhiều vụ trót lọt",
+      "link": "https://thanhnien.vn/tphcm-bat-tam-giam-doi-tuong-chuyen-trom-cho-tung-thuc-hien-nhieu-vu-trot-lot-185260325165344641.htm",
+      "summary": "Trần Văn Bình, người trộm chó tại TP.HCM đã bị bắt sau nhiều lần thực hiện hành vi vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:24:00+07:00",
+      "fetched": "2026-03-25T17:45:34.959982+07:00"
+    },
+    {
+      "id": "524cc001c0578d7217a07ee1a670391e",
+      "title": "Xổ số miền Nam ngày 25 tháng 3: Vừa có người trúng 14 vé đài Đồng Nai",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-3-vua-co-nguoi-trung-14-ve-dai-dong-nai-185260325161334674.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 25 tháng 3, hàng loạt vé trúng đài Đồng Nai xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:21:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960163+07:00"
+    },
+    {
+      "id": "3cbeb790f9d214fc604d815302aaff7b",
+      "title": "Ai đứng sau ca khúc Việt đang gây sốt toàn cầu?",
+      "link": "https://thanhnien.vn/ai-dung-sau-ca-khuc-viet-dang-gay-sot-toan-cau-185260325160518978.htm",
+      "summary": "Sau 6 năm phát hành, ca khúc 'Ai đưa em về' của ca sĩ Tia Hải Châu bất ngờ gây sốt trở lại trên mạng xã hội TikTok nhờ trào lưu 'low cortisol'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:08:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960341+07:00"
+    },
+    {
+      "id": "c4ce337b24eaed4e5c0ff7656ce69a47",
+      "title": "Điểm tin 17h: Quân đội Iran bác tin đàm phán với ông Trump | Giá xăng giảm gần 4.000 đồng một lít",
+      "link": "https://vnexpress.net/diem-tin-17h-quan-doi-iran-bac-tin-dam-phan-voi-ong-trump-gia-xang-giam-gan-4-000-dong-mot-lit-5054773.html",
+      "summary": "Iran cho phép 'tàu không thù địch' đi qua eo biển Hormuz; Cựu Bộ trưởng Nguyễn Thị Kim Tiến bị truy tố trong vụ gây thất thoát 803 tỷ đồng,...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:07:10+07:00",
+      "fetched": "2026-03-25T17:45:32.188381+07:00"
+    },
+    {
+      "id": "6b33e8b783479618c69602f78e870ea8",
+      "title": "Nhận huân chương vì thuyết phục kẻ tấn công bỏ ý định đánh bom bệnh viện",
+      "link": "https://vnexpress.net/nhan-huan-chuong-vi-thuyet-phuc-ke-tan-cong-bo-y-dinh-danh-bom-benh-vien-5054632.html",
+      "summary": "Nathan Newby được trao Huân chương George vì đã thuyết phục một người đàn ông từ bỏ ý định kích nổ bom tại bệnh viện ở thành phố Leeds.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:04:45+07:00",
+      "fetched": "2026-03-25T17:45:32.188557+07:00"
+    },
+    {
+      "id": "6b33e8b783479618c69602f78e870ea8",
+      "title": "Nhận huân chương vì thuyết phục kẻ tấn công bỏ ý định đánh bom bệnh viện",
+      "link": "https://vnexpress.net/nhan-huan-chuong-vi-thuyet-phuc-ke-tan-cong-bo-y-dinh-danh-bom-benh-vien-5054632.html",
+      "summary": "Nathan Newby được trao Huân chương George vì đã thuyết phục một người đàn ông từ bỏ ý định kích nổ bom tại bệnh viện ở thành phố Leeds.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T10:04:45+07:00",
+      "fetched": "2026-03-25T17:45:36.646766+07:00"
+    },
+    {
+      "id": "a78b5cdda52f7d65262e0f41a182b870",
+      "title": "Vì sao Kim Tử Long vắng mặt trong đêm nhạc của ‘người tình sân khấu’?",
+      "link": "https://thanhnien.vn/vi-sao-kim-tu-long-vang-mat-trong-dem-nhac-cua-nguoi-tinh-san-khau-185260325161134471.htm",
+      "summary": "Việc nghệ sĩ Kim Tử Long vắng mặt trong đêm nhạc của Ngọc Huyền khiến khán giả tò mò. Nữ nghệ sĩ cải lương đã có những chia sẻ về điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:03:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960491+07:00"
+    },
+    {
+      "id": "a8822012dbd43e69bcf6d8c4b4af5c7c",
+      "title": "Lynk &amp; Co 06 và lựa chọn SUV cỡ B tại thị trường Việt Nam",
+      "link": "https://vnexpress.net/lynk-co-06-va-lua-chon-suv-co-b-tai-thi-truong-viet-nam-5054700.html",
+      "summary": "Lynk & Co 06 tạo điểm nhấn nhờ trải nghiệm thể thao trong phân khúc, nền tảng khung gầm sử dụng thép boron siêu cường và trang bị hàng loạt công nghệ an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:00:00+07:00",
+      "fetched": "2026-03-25T17:45:32.188734+07:00"
+    },
+    {
+      "id": "f78a1b5ae78f49120371befdf638e964",
+      "title": "4 dưỡng chất giúp giảm sắc tố melanin",
+      "link": "https://vnexpress.net/4-duong-chat-giup-giam-sac-to-melanin-5054660.html",
+      "summary": "Vitamin A, C, E và chất chống oxy hóa có thể hỗ trợ kiểm soát sự gia tăng melanin tập trung quá mức tại một điểm, hạn chế sạm nám, tàn nhang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:00:00+07:00",
+      "fetched": "2026-03-25T17:45:32.188898+07:00"
+    },
+    {
+      "id": "45515ad801b111be8c2a1c8cffbd9010",
+      "title": "Gãy xương chậu bao lâu có thể đi lại được?",
+      "link": "https://vnexpress.net/gay-xuong-chau-bao-lau-co-the-di-lai-duoc-5054642.html",
+      "summary": "Tôi đang điều trị bảo tồn xương chậu gãy, khoảng bao lâu tôi có thể đi lại được bình thường? (Minh Tuấn, 35 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:00:00+07:00",
+      "fetched": "2026-03-25T17:45:32.189062+07:00"
+    },
+    {
+      "id": "15c08d53729d67c0f5b87ef22f37025c",
+      "title": "Toàn cảnh 17h: Giá xăng dầu đồng loạt giảm | Khách mua sầu riêng bị đánh hội đồng giữa đêm?",
+      "link": "https://thanhnien.vn/toan-canh-17h-gia-xang-dau-dong-loat-giam-khach-mua-sau-rieng-bi-danh-hoi-dong-giua-dem-185260325163441399.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T10:00:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960641+07:00"
+    },
+    {
+      "id": "e18f705d6f155a320af868450f7394fc",
+      "title": "Đồng Nai: Tổ chức đấu giá 16 mỏ khoáng sản trong năm 2026",
+      "link": "https://thanhnien.vn/dong-nai-to-chuc-dau-gia-16-mo-khoang-san-trong-nam-2026-185260325161311611.htm",
+      "summary": "Trong năm 2026, Đồng Nai lên kế hoạch tổ chức đấu giá 16 mỏ khoáng sản với tổng diện tích hơn 464 ha. Trong đó, có 112 ha đất mặt nước (cát xây dựng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:58:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960796+07:00"
+    },
+    {
+      "id": "dbcb01895c735aa9361d1c58aac050ac",
+      "title": "Đội tuyển Malaysia trước trận tái đấu Việt Nam: Ngoại binh áp đảo, cầu thủ nội lép vế",
+      "link": "https://thanhnien.vn/doi-tuyen-malaysia-truoc-tran-tai-dau-viet-nam-ngoai-binh-ap-dao-cau-thu-noi-lep-ve-18526032516231694.htm",
+      "summary": "Dù đã loại 7 cầu thủ nhập tịch vì sử dụng hồ sơ giả, đội tuyển Malaysia trước màn tái đấu đội tuyển Việt Nam vẫn cho thấy sự phụ thuộc rõ rệt vào lực lượng cầu thủ gốc ngoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:57:00+07:00",
+      "fetched": "2026-03-25T17:45:34.960950+07:00"
+    },
+    {
+      "id": "8c485acc12d6c29d4461ad967ca4e11e",
+      "title": "Dùng dầu ăn đưa bé trai mắc kẹt trong khe tường 20 cm ra ngoài",
+      "link": "https://vnexpress.net/dung-dau-an-dua-be-trai-mac-ket-trong-khe-tuong-20-cm-ra-ngoai-5054765.html",
+      "summary": "Cảnh sát sử dụng dầu ăn làm trơn cơ thể, phối hợp nhiều phương án để đưa bé trai 9 tuổi mắc kẹt giữa hai bức tường hẹp ra ngoài an toàn, sau hơn 20 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:56:04+07:00",
+      "fetched": "2026-03-25T17:45:32.189237+07:00"
+    },
+    {
+      "id": "0d5c4e700f7e03e693594bc5c8937e87",
+      "title": "Khoảnh khắc drone tập kích radar phòng không, trực thăng Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-drone-tap-kich-radar-phong-khong-truc-thang-my-5054772.html",
+      "summary": "Dân quân Iraq thân Iran công bố video triển khai drone tự sát để tấn công radar và trực thăng tại căn cứ Mỹ ở thủ đô Baghdad.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:50:11+07:00",
+      "fetched": "2026-03-25T17:45:32.189396+07:00"
+    },
+    {
+      "id": "0d5c4e700f7e03e693594bc5c8937e87",
+      "title": "Khoảnh khắc drone tập kích radar phòng không, trực thăng Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-drone-tap-kich-radar-phong-khong-truc-thang-my-5054772.html",
+      "summary": "Dân quân Iraq thân Iran công bố video triển khai drone tự sát để tấn công radar và trực thăng tại căn cứ Mỹ ở thủ đô Baghdad.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T09:50:11+07:00",
+      "fetched": "2026-03-25T17:45:36.646940+07:00"
+    },
+    {
+      "id": "5994f6ee1e966b7426c64503a69ff72a",
+      "title": "Đề xuất dự án luyện quặng đồng hơn 3.000 tỉ đồng ở phía tây Quảng Ngãi",
+      "link": "https://thanhnien.vn/de-xuat-du-an-luyen-quang-dong-hon-3000-ti-dong-o-phia-tay-quang-ngai-185260325160741032.htm",
+      "summary": "Lãnh đạo UBND tỉnh Quảng Ngãi kiểm tra thực địa dự án nhà máy tuyển, luyện quặng đồng hơn 3.100 tỉ đồng, yêu cầu khẩn trương tháo gỡ vướng mắc, hoàn thiện hồ sơ để sớm triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:50:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961098+07:00"
+    },
+    {
+      "id": "c73eacc5ebaea34db7eb67b29b25f109",
+      "title": "3 cửa hàng của Bảo Tín Minh Châu ở Hà Nội đồng loạt đóng cửa",
+      "link": "https://thanhnien.vn/3-cua-hang-cua-bao-tin-minh-chau-o-ha-noi-dong-loat-dong-cua-185260325163056929.htm",
+      "summary": "Chiều nay 25.3, 3 cửa hàng kinh doanh của Bảo Tín Minh Châu tại Hà Nội đột ngột đóng cửa, ngừng giao dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:49:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961266+07:00"
+    },
+    {
+      "id": "051115378dc83c88ac078af62b0ae8fa",
+      "title": "EU siết kiểm soát nông sản nhập khẩu, hàng Việt Nam gặp khó",
+      "link": "https://thanhnien.vn/eu-siet-kiem-soat-nong-san-nhap-khau-hang-viet-nam-gap-kho-185260325162422271.htm",
+      "summary": "Thị trường châu Âu (EU) đang dự thảo quy định mới về dư lượng thuốc bảo vệ thực vật với tiêu chuẩn và yêu cầu cao hơn. Diễn biến này có thể tác động lớn đến sản xuất và xuất khẩu hàng hóa nông sản Việt Nam sang thị trường này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:49:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961411+07:00"
+    },
+    {
+      "id": "447a8ea7aef231de3c4bbcd27f2849df",
+      "title": "Gia Lai lên kịch bản 'vỡ trận' trước thềm khai mạc Năm du lịch Quốc gia",
+      "link": "https://thanhnien.vn/gia-lai-len-kich-ban-vo-tran-truoc-them-khai-mac-nam-du-lich-quoc-gia-185260325162546927.htm",
+      "summary": "Không để xảy ra 'vỡ trận' du lịch, Gia Lai đã rà soát toàn bộ cơ sở lưu trú, đồng thời huy động người dân sẵn sàng tham gia đón khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:48:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961554+07:00"
+    },
+    {
+      "id": "77206aadda1a9e62783a196d49e94b23",
+      "title": "Tổng Bí thư: Giữ vững '4 kiên định' và thúc đẩy tăng trưởng hai con số",
+      "link": "https://vnexpress.net/tong-bi-thu-giu-vung-4-kien-dinh-va-thuc-day-tang-truong-hai-con-so-5054741.html",
+      "summary": "Tổng Bí thư Tô Lâm nhấn mạnh toàn Đảng phải quán triệt \"4 kiên định\", kiên trì mục tiêu tăng trưởng kinh tế hai con số, đồng thời triển khai đồng bộ cải cách bộ máy, kiểm soát quyền lực và bảo đảm quốc phòng, an ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:47:36+07:00",
+      "fetched": "2026-03-25T17:45:32.189557+07:00"
+    },
+    {
+      "id": "e7881cca4d5575a000fab84bb3d8ebb0",
+      "title": "Bắt khẩn cấp thanh niên rượt đuổi, đập phá xe taxi trên quốc lộ 20",
+      "link": "https://thanhnien.vn/bat-khan-cap-thanh-nien-ruot-duoi-dap-pha-xe-taxi-tren-quoc-lo-20-185260325152738643.htm",
+      "summary": "Chỉ vì mâu thuẫn gia đình, một thanh niên tại Lâm Đồng đã lái ô tô rượt đuổi, ép dừng và đập phá xe taxi giữa trưa trên quốc lộ 20, gây náo loạn khu vực đông người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:47:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961700+07:00"
+    },
+    {
+      "id": "22bf153d5daeadffe29ca03f2c16c1ef",
+      "title": "U23 Việt Nam rơi chiến thắng trước Triều Tiên",
+      "link": "https://vnexpress.net/u23-viet-nam-roi-chien-thang-truoc-trieu-tien-5054600.html",
+      "summary": "U23 Việt Nam mở tỷ số từ phút thứ 8, nhưng chỉ hòa Triều Tiên 1-1 trong trận ra quân giải giao hữu CFA Team China Cup chiều 25/3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:41:28+07:00",
+      "fetched": "2026-03-25T17:45:32.189715+07:00"
+    },
+    {
+      "id": "22bf153d5daeadffe29ca03f2c16c1ef",
+      "title": "U23 Việt Nam rơi chiến thắng trước Triều Tiên",
+      "link": "https://vnexpress.net/u23-viet-nam-roi-chien-thang-truoc-trieu-tien-5054600.html",
+      "summary": "U23 Việt Nam mở tỷ số từ phút thứ 8, nhưng chỉ hòa Triều Tiên 1-1 trong trận ra quân giải giao hữu CFA Team China Cup chiều 25/3.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-25T09:41:28+07:00",
+      "fetched": "2026-03-25T17:45:40.544437+07:00"
+    },
+    {
+      "id": "af6fc999934c0998bf8c8f650a762dee",
+      "title": "Hoãn xét xử tranh chấp giữa VEC và Công ty Thái Sơn",
+      "link": "https://thanhnien.vn/hoan-xet-xu-tranh-chap-giua-vec-va-cong-ty-thai-son-18526032516042819.htm",
+      "summary": "Tranh chấp giữa Tổng công ty đầu tư phát triển đường cao tốc Việt Nam và Công ty cổ phần Thái Sơn dẫn đến 2 cây xăng của trạm dừng nghỉ trên cao tốc TP.HCM - Long Thành - Dầu Giây phải ngừng bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:39:00+07:00",
+      "fetched": "2026-03-25T17:45:34.961848+07:00"
+    },
+    {
+      "id": "7f850f39f2389bddf08963ef32aac3c2",
+      "title": "Điểm khác biệt của học sinh Việt Nam dưới góc nhìn của sinh viên Nhật Bản",
+      "link": "https://thanhnien.vn/diem-khac-biet-cua-hoc-sinh-viet-nam-duoi-goc-nhin-cua-sinh-vien-nhat-ban-185260325153105252.htm",
+      "summary": "Ngày 25.3, học sinh Trường THPT Bình Tân (P.Bình Tân, TP.HCM) đã có buổi giao lưu với sinh viên của Trường ĐH Mie (Nhật Bản) và ngành ngôn ngữ Nhật Bản của Trường ĐH Sư phạm TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:36:00+07:00",
+      "fetched": "2026-03-25T17:45:34.962002+07:00"
+    },
+    {
+      "id": "d23450387fe60738f7c8a77d8bfc2bfd",
+      "title": "Hạ tầng tỷ USD tạo động lực cho bất động sản biển Vũng Tàu",
+      "link": "https://vnexpress.net/ha-tang-ty-usd-tao-dong-luc-cho-bat-dong-san-bien-vung-tau-5054751.html",
+      "summary": "Cao tốc Biên Hòa - Vũng Tàu, sân bay Long Thành, cầu vượt biển giúp mở rộng khả năng kết nối, tạo dư địa tăng trưởng cho du lịch và bất động sản ven biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:30:00+07:00",
+      "fetched": "2026-03-25T17:45:32.189872+07:00"
+    },
+    {
+      "id": "2f49ac169a567d0a7e3dff64d21dca5f",
+      "title": "Công ty phát hành USDT lần đầu thuê Big 4 kiểm toán",
+      "link": "https://vnexpress.net/cong-ty-phat-hanh-usdt-lan-dau-thue-big-4-kiem-toan-5054705.html",
+      "summary": "Tether, công ty phát hành stablecoin lớn nhất thế giới USDT, lần đầu thuê đơn vị kiểm toán Big 4 để minh bạch tỷ lệ neo giá với đôla Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:28:41+07:00",
+      "fetched": "2026-03-25T17:45:32.190025+07:00"
+    },
+    {
+      "id": "2f49ac169a567d0a7e3dff64d21dca5f",
+      "title": "Công ty phát hành USDT lần đầu thuê Big 4 kiểm toán",
+      "link": "https://vnexpress.net/cong-ty-phat-hanh-usdt-lan-dau-thue-big-4-kiem-toan-5054705.html",
+      "summary": "Tether, công ty phát hành stablecoin lớn nhất thế giới USDT, lần đầu thuê đơn vị kiểm toán Big 4 để minh bạch tỷ lệ neo giá với đôla Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T09:28:41+07:00",
+      "fetched": "2026-03-25T17:45:37.674650+07:00"
+    },
+    {
+      "id": "9a1da717b696f81efd12271ba2b7eba7",
+      "title": "'Giữ vững bốn kiên định, thúc đẩy tăng trưởng hai con số'",
+      "link": "https://vnexpress.net/giu-vung-bon-kien-dinh-thuc-day-tang-truong-hai-con-so-5054762.html",
+      "summary": "VnExpress giới thiệu phát biểu bế mạc Hội nghị Trung ương 2 khóa 14 của Tổng Bí thư Tô Lâm, chiều 25/3/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:27:21+07:00",
+      "fetched": "2026-03-25T17:45:32.190200+07:00"
+    },
+    {
+      "id": "fecd9ebe1ac0b207ac23db7a6b7cb12f",
+      "title": "Miền Bắc và Trung nắng nóng diện rộng từ 30/3",
+      "link": "https://vnexpress.net/mien-bac-va-trung-nang-nong-dien-rong-tu-30-3-5054746.html",
+      "summary": "Từ cuối tháng 3, nhiều khu vực có thể trải qua đợt nắng nóng đầu tiên năm 2026, nhiệt độ cao nhất phổ biến 35-37 độ, có nơi trên 38 độ C.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:25:32+07:00",
+      "fetched": "2026-03-25T17:45:32.190358+07:00"
+    },
+    {
+      "id": "336e601f60a53853f87cdf9a382dca3e",
+      "title": "Ngân hàng quốc doanh nâng lãi suất tiết kiệm lên sát 7%",
+      "link": "https://vnexpress.net/lai-suat-ngan-hang-thang-3-2026-5054690.html",
+      "summary": "Ba trên 4 nhà băng quốc doanh vừa nâng lãi suất tiết kiệm lên mức sát 7%, cao nhất kể từ tháng 8/2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:23:26+07:00",
+      "fetched": "2026-03-25T17:45:32.190522+07:00"
+    },
+    {
+      "id": "336e601f60a53853f87cdf9a382dca3e",
+      "title": "Ngân hàng quốc doanh nâng lãi suất tiết kiệm lên sát 7%",
+      "link": "https://vnexpress.net/lai-suat-ngan-hang-thang-3-2026-5054690.html",
+      "summary": "Ba trên 4 nhà băng quốc doanh vừa nâng lãi suất tiết kiệm lên mức sát 7%, cao nhất kể từ tháng 8/2023.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T09:23:26+07:00",
+      "fetched": "2026-03-25T17:45:37.674822+07:00"
+    },
+    {
+      "id": "52f0f1fb4127dcba38140e8a8ece76da",
+      "title": "Người mua nhà ở xã hội khó tiếp cận vốn vay ngân hàng",
+      "link": "https://vnexpress.net/nguoi-mua-nha-o-xa-hoi-kho-tiep-can-von-vay-ngan-hang-5052931.html",
+      "summary": "Nhiều người mua nhà ở xã hội ngại vay nhà băng thương mại vì lãi suất ưu đãi ngắn nên họ chấp nhận chờ vốn từ ngân hàng chính sách, dù hạn mức rất hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-25T09:18:56+07:00",
+      "fetched": "2026-03-25T17:45:32.190678+07:00"
+    },
+    {
+      "id": "82ded5bc0aaed8b28dd403b1014ca684",
+      "title": "Vì sao Starlink chỉ được phép có 600.000 thuê bao tại Việt Nam?",
+      "link": "https://vnexpress.net/vi-sao-starlink-chi-duoc-phep-co-600-000-thue-bao-tai-viet-nam-5054725.html",
+      "summary": "Dù đã có giấy phép cung cấp dịch vụ Internet vệ tinh tại Việt Nam, Starlink chỉ được triển khai tối đa 600.000 thuê bao trong giai đoạn đầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-25T09:10:01+07:00",
+      "fetched": "2026-03-25T17:45:39.510201+07:00"
+    },
+    {
+      "id": "a6d8d6bfcc492ab9006bbf24ff5717b8",
+      "title": "Iran tuyên bố đã rèn quân suốt 20 năm để 'chờ lính Mỹ đến'",
+      "link": "https://vnexpress.net/iran-tuyen-bo-da-ren-quan-suot-20-nam-de-cho-linh-my-den-5054598.html",
+      "summary": "Quan chức cấp cao Iran nói các lực lượng nước này đã được huấn luyện \"chiến tranh phi đối xứng\" trong hơn hai thập kỷ để đối phó Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T09:09:01+07:00",
+      "fetched": "2026-03-25T17:45:36.647103+07:00"
+    },
+    {
+      "id": "af6646104c4ba16551f19050706f8cf3",
+      "title": "Tây Ban Nha thay gần nửa đội hình vô địch Euro",
+      "link": "https://vnexpress.net/tay-ban-nha-thay-gan-nua-doi-hinh-vo-dich-euro-5054444.html",
+      "summary": "Đội hình mới nhất của tuyển Tây Ban Nha vắng một nửa thành viên so với đội hình vô địch Euro 2024.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-25T09:06:05+07:00",
+      "fetched": "2026-03-25T17:45:40.545412+07:00"
+    },
+    {
       "id": "d0b361ed05b01f1b39ba49c4fe09236a",
       "title": "Góc khuất cỗ máy ăn cắp bản quyền - Kỳ 2: Cử nhân, thạc sĩ… trộm cắp nội dung xuyên biên giới",
       "link": "https://tuoitre.vn/goc-khuat-co-may-an-cap-ban-quyen-ky-2-cu-nhan-thac-si-trom-cap-noi-dung-xuyen-bien-gioi-20260324231852043.htm",
@@ -841,6 +1221,16 @@ window.newsData_2026_03_25 = {
       "category": "Tổng hợp",
       "published": "2026-03-25T08:01:51+07:00",
       "fetched": "2026-03-25T15:47:34.221909+07:00"
+    },
+    {
+      "id": "11130efdc770b861846666a3d39b089e",
+      "title": "Tàu Thái Lan đi qua eo biển Hormuz an toàn sau cuộc đàm phán với Iran",
+      "link": "https://vnexpress.net/tau-thai-lan-di-qua-eo-bien-hormuz-an-toan-sau-cuoc-dam-phan-voi-iran-5054687.html",
+      "summary": "Iran cho phép một tàu dầu Thái Lan đi qua eo biển Hormuz và không phải trả phí, sau sự phối hợp ngoại giao giữa Tehran và Bangkok.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-25T08:01:51+07:00",
+      "fetched": "2026-03-25T17:45:36.647475+07:00"
     },
     {
       "id": "16c5fd9d130a0b4600b63f77338ebead",
@@ -1731,6 +2121,16 @@ window.newsData_2026_03_25 = {
       "category": "Kinh doanh",
       "published": "2026-03-25T03:02:57+07:00",
       "fetched": "2026-03-25T11:24:28.615247+07:00"
+    },
+    {
+      "id": "5e3d3cbb20253edcae004c834f1403bf",
+      "title": "Giá vàng neo sát 174 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-neo-sat-174-trieu-dong-mot-luong-5054537.html",
+      "summary": "Mỗi lượng vàng tăng 5 triệu đồng vào phiên sáng sau đó đảo chiều giảm nhẹ 1,5 triệu xuống còn 173,5 triệu đồng một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-25T03:02:57+07:00",
+      "fetched": "2026-03-25T17:45:37.676100+07:00"
     },
     {
       "id": "439fe4538fd6a5bcdbdb6b4fc075ed5b",
