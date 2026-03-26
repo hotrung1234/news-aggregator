@@ -1,7 +1,157 @@
 window.newsData_2026_03_26 = {
   "date": "2026-03-26",
-  "lastUpdated": "2026-03-26T12:39:56.064894+07:00",
+  "lastUpdated": "2026-03-26T14:04:05.239777+07:00",
   "articles": [
+    {
+      "id": "82c068682add9a25c465b5f98d7e0d54",
+      "title": "HLV Đinh Hồng Vinh nói gì khi U23 Việt Nam hòa U23 Triều Tiên?",
+      "link": "https://tuoitre.vn/hlv-dinh-hong-vinh-noi-gi-khi-u23-viet-nam-hoa-u23-trieu-tien-20260326124917238.htm",
+      "summary": "Quyền HLV trưởng đội tuyển U23 Việt Nam Đinh Hồng Vinh cho rằng hòa đối thủ mạnh U23 Triều Tiên là kết quả đáng khích lệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160849+07:00",
+      "fetched": "2026-03-26T14:03:56.160960+07:00"
+    },
+    {
+      "id": "7b159fb6fd6044363036e3d53e521158",
+      "title": "Cháy nhà ở trung tâm Nha Trang, hàng chục cảnh sát được huy động",
+      "link": "https://tuoitre.vn/chay-nha-o-trung-tam-nha-trang-hang-chuc-canh-sat-duoc-huy-dong-20260326122106366.htm",
+      "summary": "Vụ cháy xảy ra tại ngôi nhà trên đường Lê Thành Phương (phường Nha Trang, tỉnh Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160714+07:00",
+      "fetched": "2026-03-26T14:03:56.160838+07:00"
+    },
+    {
+      "id": "8f4aeea2a4ddaa3417790a7ae74406b1",
+      "title": "Israel tấn công Iran trên diện rộng giữa lúc Tehran phủ nhận đang đàm phán với Mỹ",
+      "link": "https://tuoitre.vn/israel-tan-cong-iran-tren-dien-rong-giua-luc-tehran-phu-nhan-dang-dam-phan-voi-my-20260326121920286.htm",
+      "summary": "Israel ngày 26-3 thông báo mở đợt không kích quy mô lớn nhằm vào Iran. Động thái này diễn ra trong bối cảnh đàm phán chấm dứt xung đột vẫn bế tắc, giữa những tuyên bố trái chiều từ Mỹ và Iran.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160589+07:00",
+      "fetched": "2026-03-26T14:03:56.160703+07:00"
+    },
+    {
+      "id": "8f6755b55e862361a79d02f98671fadf",
+      "title": "Học sinh cấp 2 mang hung khí hẹn đánh nhau vì mâu thuẫn trên TikTok",
+      "link": "https://tuoitre.vn/hoc-sinh-cap-2-mang-hung-khi-hen-danh-nhau-vi-mau-thuan-tren-tiktok-20260326113822283.htm",
+      "summary": "Mâu thuẫn phát sinh trên TikTok, hai nhóm học sinh cấp 2 ở Đắk Lắk rủ nhau mang gạch, đá, gậy đến đường hẻm để \"giải quyết\". Công an xác định 15 thiếu niên liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160439+07:00",
+      "fetched": "2026-03-26T14:03:56.160577+07:00"
+    },
+    {
+      "id": "97897acf1b47bf0a08a1ea670586f94c",
+      "title": "Tiết lộ 'món quà' Iran dành cho Mỹ: Cho tàu nhiên liệu đi qua eo biển Hormuz",
+      "link": "https://tuoitre.vn/tiet-lo-mon-qua-iran-danh-cho-my-cho-tau-nhien-lieu-di-qua-eo-bien-hormuz-20260326121347756.htm",
+      "summary": "Món quà ông Trump nhắc đến được cho là việc Iran cho phép một số tàu thuyền đi qua eo biển Hormuz an toàn trong những ngày gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160316+07:00",
+      "fetched": "2026-03-26T14:03:56.160428+07:00"
+    },
+    {
+      "id": "04a3c901e3b671c7dcd6d892e42160ba",
+      "title": "Kinh nghiệm tiết kiệm điện: Chọn thiết bị đúng ngay từ đầu",
+      "link": "https://tuoitre.vn/kinh-nghiem-tiet-kiem-dien-chon-thiet-bi-dung-ngay-tu-dau-2026032609503863.htm",
+      "summary": "Việc sử dụng điện lãng phí đang đặt ra thách thức trong việc tiết kiệm và sử dụng năng lượng. Thay đổi những thói quen nhỏ đến chú trọng đầu tư, sử dụng thiết bị năng lượng hiệu suất thấp... góp phần tiêu dùng năng lượng tiết kiệm hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160192+07:00",
+      "fetched": "2026-03-26T14:03:56.160304+07:00"
+    },
+    {
+      "id": "010684935ab062a32cccd820c1743d70",
+      "title": "Chuyện chưa kể nhà máy sửa tiêm kích hiện đại Việt Nam: Kỳ 1: Ba lô bộ đội tới nhà máy sửa tiêm kích",
+      "link": "https://tuoitre.vn/chuyen-chua-ke-nha-may-sua-tiem-kich-hien-dai-viet-nam-ky-1-ba-lo-bo-doi-toi-nha-may-sua-tiem-kich-20260326102332814.htm",
+      "summary": "Vài năm qua, câu chuyện về một nhà máy sửa chữa máy bay tiêm kích của Việt Nam tiếp nhận và sửa chữa, tăng niên hạn thành công các dòng chiến đấu cơ hiện đại gây chú ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.160071+07:00",
+      "fetched": "2026-03-26T14:03:56.160181+07:00"
+    },
+    {
+      "id": "8ede6580cf550c6befa21a64d0a524e7",
+      "title": "Siết gian lận, chặn trốn thuế giữa cao điểm thu hoạch sầu riêng",
+      "link": "https://tuoitre.vn/dak-lak-siet-gian-lan-chan-tron-thue-giua-cao-diem-thu-hoach-sau-rieng-20260326115549763.htm",
+      "summary": "Tỉnh Đắk Lắk ban hành quy chế quản lý toàn diện hoạt động sầu riêng, từ vùng trồng đến hóa đơn, nhằm ngăn gian lận thương mại, thất thu thuế và ổn định thị trường trong mùa vụ sôi động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159949+07:00",
+      "fetched": "2026-03-26T14:03:56.160060+07:00"
+    },
+    {
+      "id": "7bd8a983f833d9cf89abb7a081f83315",
+      "title": "Thứ trưởng Bộ Xây dựng Nguyễn Việt Hùng giữ chức Phó bí thư Tỉnh ủy Khánh Hòa",
+      "link": "https://tuoitre.vn/thu-truong-bo-xay-dung-nguyen-viet-hung-giu-chuc-pho-bi-thu-tinh-uy-khanh-hoa-20260326131331488.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú vừa ký quyết định số 79-QĐNS/TW về việc điều động, chỉ định ông Nguyễn Việt Hùng, Thứ trưởng Bộ Xây dựng, giữ chức Phó bí thư Tỉnh ủy Khánh Hòa nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159824+07:00",
+      "fetched": "2026-03-26T14:03:56.159938+07:00"
+    },
+    {
+      "id": "375be546050d6047a5fc6a0cff60259c",
+      "title": "Vì sao không khởi tố vụ nổ bồn axit ở Lâm Đồng làm 2 công nhân thiệt mạng?",
+      "link": "https://tuoitre.vn/vu-no-bon-axit-lam-hai-cong-nhan-tu-vong-khong-khoi-to-20260326120655322.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Lâm Đồng quyết định không khởi tố vụ nổ bồn axit tại Công ty cổ phần HC Bảo Lâm làm 2 công nhân thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159679+07:00",
+      "fetched": "2026-03-26T14:03:56.159812+07:00"
+    },
+    {
+      "id": "5112baa5ffb231e2e976e0af374a9b0a",
+      "title": "Heineken ngưng sản xuất bia tại Singapore, tăng cường tại Việt Nam",
+      "link": "https://tuoitre.vn/heineken-ngung-san-xuat-bia-tai-singapore-tang-cuong-tai-viet-nam-20260326122351352.htm",
+      "summary": "Đây là động thái tái cấu trúc của hãng bia lớn thứ hai thế giới, song song với kế hoạch cắt giảm hàng ngàn việc làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159473+07:00",
+      "fetched": "2026-03-26T14:03:56.159660+07:00"
+    },
+    {
+      "id": "bbe4564b6122becb8002fce84217b78a",
+      "title": "Bộ Xây dựng đề nghị TP.HCM mở rộng quốc lộ 1 theo kiến nghị cử tri",
+      "link": "https://tuoitre.vn/bo-xay-dung-de-nghi-tp-hcm-mo-rong-quoc-lo-1-theo-kien-nghi-cu-tri-2026032612463442.htm",
+      "summary": "Quốc lộ 1 qua địa phận TP.HCM đã được bàn giao cho UBND TP.HCM quản lý, nên Bộ Xây dựng đề nghị UBND TP.HCM nghiên cứu kiến nghị của cử tri, bố trí nguồn vốn để đầu tư mở rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159346+07:00",
+      "fetched": "2026-03-26T14:03:56.159462+07:00"
+    },
+    {
+      "id": "48dc6a9e2da1c46268de6ced09d6996f",
+      "title": "HLV tuyển Ý mất ngủ trước trận đấu với Bắc Ireland",
+      "link": "https://tuoitre.vn/hlv-tuyen-y-mat-ngu-truoc-tran-dau-voi-bac-ireland-20260326125931801.htm",
+      "summary": "Phát biểu trước trận đấu, HLV tuyển Ý - Gennaro Gattuso (48 tuổi) cho rằng gặp Bắc Ireland là trận đấu quan trọng nhất sự nghiệp của ông. Vị chiến lược gia người Ý thừa nhận ông đang chịu áp lực lớn từ việc phải đưa tuyển Ý đến World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159217+07:00",
+      "fetched": "2026-03-26T14:03:56.159335+07:00"
+    },
+    {
+      "id": "89d886cbe7b7334bbbc94bce07bb078c",
+      "title": "Nghi chập điện năng lượng mặt trời, tàu cá Cà Mau cháy trơ khung",
+      "link": "https://tuoitre.vn/nghi-chap-dien-nang-luong-mat-troi-tau-ca-ca-mau-chay-tro-khung-20260326124239094.htm",
+      "summary": "Ngày 26-3, một chiếc tàu thu mua hải sản đang neo đậu ven kênh tại phường Hiệp Thành, tỉnh Cà Mau bất ngờ bốc cháy dữ dội, thiêu rụi toàn bộ phương tiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.159079+07:00",
+      "fetched": "2026-03-26T14:03:56.159205+07:00"
+    },
+    {
+      "id": "e8f070573986fbafa0e5a1826d878396",
+      "title": "Muôn kiểu chống nóng tại TP.HCM đợt nắng dài ngày",
+      "link": "https://tuoitre.vn/muon-kieu-chong-nong-tai-tp-hcm-dot-nang-dai-ngay-2026031912004074.htm",
+      "summary": "Nam Bộ và TP.HCM đang trải qua nắng nóng trên diện rộng. Nhiều người dân tại TP.HCM phải che kín từ đầu đến chân khi ra đường và tìm đủ cách tránh nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T14:03:56.158854+07:00",
+      "fetched": "2026-03-26T14:03:56.159064+07:00"
+    },
     {
       "id": "652571f82c6daf3e764a9954f5e33bac",
       "title": "Thêm một thanh niên bị xử phạt do không chấp hành quyết định gọi nhập ngũ",
@@ -303,6 +453,266 @@ window.newsData_2026_03_26 = {
       "fetched": "2026-03-26T09:04:35.305992+07:00"
     },
     {
+      "id": "37c1447faf1aaeaa37f82cf96a3ce06d",
+      "title": "Bệnh viện Bạch Mai phát triển AI hỗ trợ chẩn đoán chính xác ung thư phổi",
+      "link": "https://thanhnien.vn/benh-vien-bach-mai-phat-trien-ai-ho-tro-chan-doan-chinh-xac-ung-thu-phoi-185260326132654495.htm",
+      "summary": "Trí tuệ nhân tạo (AI) phân tích hình ảnh chẩn đoán (CT scan) giúp phát hiện sớm các nốt tổn thương phổi, tăng độ chính xác và tối ưu hóa thời gian chẩn đoán ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T07:03:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977147+07:00"
+    },
+    {
+      "id": "97f777194e6b87418b579d1bf130dcbe",
+      "title": "Nhẫn cưới mắc vào cửa xe, tài xế ở TP.HCM nguy cơ mất ngón tay",
+      "link": "https://thanhnien.vn/nhan-cuoi-mac-vao-cua-xe-tai-xe-o-tphcm-nguy-co-mat-ngon-tay-18526032612135817.htm",
+      "summary": "Ngón tay đeo nhẫn cưới của tài xế bị kẹt ở cánh cửa xe tải và tổn thương nặng, nguy cơ phải cắt bỏ ngón tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T07:00:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977313+07:00"
+    },
+    {
+      "id": "43d2f1bc6bcb7fabf7ed5c3e887a5eb2",
+      "title": "Bóc tách khối u xơ tử cung gần 12 kg, cứu cơ hội làm mẹ cho bệnh nhân 25 tuổi",
+      "link": "https://thanhnien.vn/boc-tach-khoi-u-xo-tu-cung-gan-12-kg-cuu-co-hoi-lam-me-cho-benh-nhan-25-tuoi-185260326113149381.htm",
+      "summary": "Các bác sĩ Bệnh viện Từ Dũ vừa thực hiện thành công ca phẫu thuật bóc tách khối u xơ tử cung \"khổng lồ\" nặng gần 12 kg trên bệnh nhân trẻ, đồng thời bảo tồn được tử cung. Đây là yếu tố then chốt giúp người bệnh vẫn còn cơ hội làm mẹ trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T07:00:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977482+07:00"
+    },
+    {
+      "id": "4f1f069bce2322f7eed8409b520455e1",
+      "title": "Áo sơ mi mỏng nhẹ cho ngày hè thanh lịch",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-so-mi-mong-nhe-cho-ngay-he-thanh-lich-185260323231612383.htm",
+      "summary": "Áo sơ mi mỏng nhẹ giúp nàng giữ vẻ thanh lịch trong những ngày hè oi bức, vừa thoáng mát vừa dễ dàng tạo nên phong cách tinh giản, hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T07:00:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977660+07:00"
+    },
+    {
+      "id": "8e2c69ff12856628f47279d0d1ed916f",
+      "title": "Viêm não mô cầu: Bác sĩ khuyến cáo 5 biện pháp phòng ngừa hiệu quả",
+      "link": "https://thanhnien.vn/gia-tang-viem-nao-mo-cau-bac-si-khuyen-cao-5-bien-phap-hieu-qua-phong-ngua-185260324160026724.htm",
+      "summary": "Bệnh viêm não mô cầu tại Việt Nam có dấu hiệu phức tạp với các ca bệnh nặng và tử vong được ghi nhận khiến nhiều người lo ngại, chuyên gia khuyến cáo người dân chủ động thực hiện các biện pháp phòng ngừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:56:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977812+07:00"
+    },
+    {
+      "id": "94b155df2e07dad1c265b698ad63c775",
+      "title": "Hàng loạt siêu ống kính săn mặt trời 'trứng muối' giữa lòng Chợ Lớn",
+      "link": "https://thanhnien.vn/hang-loat-sieu-ong-kinh-san-mat-troi-trung-muoi-giua-long-cho-lon-185260326133625672.htm",
+      "summary": "Hàng chục người kiên nhẫn chờ đợi để ghi lại hình ảnh mặt trời “trứng muối” hiếm hoi giữa lòng thành phố. Khoảnh khắc hoàng hôn trên Nhà thờ Giáo xứ Thánh Phanxicô Xaviê (hay còn gọi là nhà thờ Cha Tam) trở thành điểm hẹn của nhiều người yêu nhiếp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:55:00+07:00",
+      "fetched": "2026-03-26T14:03:54.977963+07:00"
+    },
+    {
+      "id": "85b5160b6f02feea01b9fcfa5b576d87",
+      "title": "Lễ công bố bốc thăm xếp lịch thi đấu giải Thanh Niên sinh viên quốc tế 2026 cúp THACO",
+      "link": "https://thanhnien.vn/le-cong-bo-boc-tham-xep-lich-thi-dau-giai-thanh-nien-sinh-vien-quoc-te-2026-cup-thaco-185260326105333893.htm",
+      "summary": "Hôm nay 26.3.2026, Ban tổ chức giải bóng đá Thanh Niên sinh viên (TNSV) quốc tế lần II – 2026 cúp THACO tiến hành lễ công bố, bốc thăm xếp lịch thi đấu TNSV quốc tế lần II - 2026 cúp THACO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:53:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978126+07:00"
+    },
+    {
+      "id": "6b00d2a893dd1a4ff6c1a1cd4602aeb4",
+      "title": "'Hầu Vương đảo Hòn Lao': Hành trình của khát vọng và nghị lực sống",
+      "link": "https://thanhnien.vn/hau-vuong-dao-hon-lao-hanh-trinh-cua-khat-vong-va-nghi-luc-song-185260326111628357.htm",
+      "summary": "'Hầu Vương đảo Hòn Lao' của nhà văn Lê Đức Dương là những trang viết cho thiếu nhi đầy cảm xúc, nơi câu chuyện đồng thoại không dừng lại ở sự hồn nhiên mà mở ra những tầng sâu bi tráng về số phận, về tự do và về sự tiếp nối của lý tưởng sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:45:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978278+07:00"
+    },
+    {
+      "id": "f4954aa575920949e50e349e7a0f0a81",
+      "title": "Khe microSD biến mất khỏi smartphone từ khi nào?",
+      "link": "https://thanhnien.vn/khe-microsd-bien-mat-khoi-smartphone-tu-khi-nao-185260326133916493.htm",
+      "summary": "Khe cắm thẻ nhớ microSD từng là một tính năng phổ biến trên hầu hết smartphone Android để người dùng dễ dàng mở rộng dung lượng lưu trữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:44:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978430+07:00"
+    },
+    {
+      "id": "c7b589900b48e8cf55c5ea710dda3b4e",
+      "title": "TP.HCM: Xông vào quán ăn hành hung khiến một người nhập viện",
+      "link": "https://thanhnien.vn/tphcm-xong-vao-quan-an-hanh-hung-khien-mot-nguoi-nhap-vien-18526032613311304.htm",
+      "summary": "Đang ngồi ăn trong quán cơm ở TP.HCM, nam thanh niên bất ngờ bị một người đàn ông dùng nón bảo hiểm hành hung, đánh liên tiếp vào đầu khiến nạn nhân bị thương phải nhập viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:38:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978601+07:00"
+    },
+    {
+      "id": "f87faf96ad6492dcf0dba45b73486a8f",
+      "title": "Thêm nhà dân chênh vênh bên mép vực ở Đồng Nai: UBND xã xác nhận Báo Thanh Niên phản ánh đúng",
+      "link": "https://thanhnien.vn/them-nha-dan-chenh-venh-ben-mep-vuc-o-dong-nai-ubnd-xa-xac-nhan-bao-thanh-nien-phan-anh-dung-185260326121056922.htm",
+      "summary": "Sau kiểm tra, UBND xã Phú Riềng xác định thông tin Báo Thanh Niên phản ánh về vụ việc nhà dân chênh vênh bên mép vực sâu là đúng thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:31:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978749+07:00"
+    },
+    {
+      "id": "de02fdca189d46e9f98fec3f012f0553",
+      "title": "Mbappe lên tiếng vụ bị kiểm tra nhầm đầu gối ở Real",
+      "link": "https://vnexpress.net/mbappe-len-tieng-vu-bi-kiem-tra-nham-dau-goi-o-real-5055097.html",
+      "summary": "Kylian Mbappe khẳng định không có sai sót nào từ phía đội ngũ y tế Real Madrid trong chẩn đoán ban đầu về chấn thương của anh, nhưng nhiều bằng chứng cho thấy vấn đề không đơn giản như vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:28:41+07:00",
+      "fetched": "2026-03-26T14:03:51.503997+07:00"
+    },
+    {
+      "id": "de02fdca189d46e9f98fec3f012f0553",
+      "title": "Mbappe lên tiếng vụ bị kiểm tra nhầm đầu gối ở Real",
+      "link": "https://vnexpress.net/mbappe-len-tieng-vu-bi-kiem-tra-nham-dau-goi-o-real-5055097.html",
+      "summary": "Kylian Mbappe khẳng định không có sai sót nào từ phía đội ngũ y tế Real Madrid trong chẩn đoán ban đầu về chấn thương của anh, nhưng nhiều bằng chứng cho thấy vấn đề không đơn giản như vậy.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2026-03-26T06:28:41+07:00",
+      "fetched": "2026-03-26T14:04:05.232079+07:00"
+    },
+    {
+      "id": "bf810dd412ed9c5385b151743a583519",
+      "title": "Vì sao nhiều người Việt chuộng tính tiền quét mã QR hơn máy POS?",
+      "link": "https://vnexpress.net/chi-phi-may-pos-tinh-tien-quet-ma-qr-5055059.html",
+      "summary": "Tôi đi đổ xăng, hàng dài người đang xếp hàng chờ đến lượt. Một thanh niên liền phía trước tôi đổ xăng xong và lấy điện thoại ra thanh toán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:26:32+07:00",
+      "fetched": "2026-03-26T14:03:51.504174+07:00"
+    },
+    {
+      "id": "2b3a92caaf419c99d3b00642bde986df",
+      "title": "Bạn có phải 'mắt đại bàng' để tìm ra số 9910?",
+      "link": "https://vnexpress.net/ban-co-phai-mat-dai-bang-de-tim-ra-so-9910-5054708.html",
+      "summary": "Nhìn qua thì tưởng đơn giản, nhưng bức hình này đúng kiểu \"càng nhìn càng lú\"!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:15:00+07:00",
+      "fetched": "2026-03-26T14:03:51.504337+07:00"
+    },
+    {
+      "id": "963793f39d9d0725a7a4f0433bf7bfa5",
+      "title": "Tháng Thanh niên: Kỳ vọng tuổi trẻ VNPT 'phá bỏ rào cản để tạo ra đột phá'",
+      "link": "https://thanhnien.vn/thang-thanh-nien-ky-vong-tuoi-tre-vnpt-pha-bo-rao-can-de-tao-ra-dot-pha-185260326125557871.htm",
+      "summary": "Tại Lễ kỷ niệm 95 năm Ngày thành lập Đoàn TNCS Hồ Chí Minh (26.3.1931 - 26.3.2026) của Đoàn Thanh niên VNPT, lãnh đạo tập đoàn đã kỳ vọng tuổi trẻ VNPT chủ động đổi mới tư duy, phá bỏ rào cản để tạo ra đột phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:14:00+07:00",
+      "fetched": "2026-03-26T14:03:54.978898+07:00"
+    },
+    {
+      "id": "5b1599ac5eee87de0bb4d8fc454f904f",
+      "title": "Xem nhanh 12h: Ô tô Lexus tông xe liên hoàn | Lời kể 'Người hùng bí ẩn' phá mái tôn cứu người",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-o-to-lexus-tong-xe-lien-hoan-loi-ke-nguoi-hung-bi-an-pha-mai-ton-cuu-nguoi-185260326110543374.htm",
+      "summary": "Ô tô Lexus gây tai nạn liên hoàn, cháy nhà ở Hà Nội, tin tức Iran, … sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 26.3.2026 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:06:00+07:00",
+      "fetched": "2026-03-26T14:03:54.979045+07:00"
+    },
+    {
+      "id": "87f9b93bc6ec809205a90ec546f515e0",
+      "title": "Thứ trưởng Bộ Xây dựng Nguyễn Việt Hùng làm Phó bí thư Tỉnh ủy Khánh Hòa",
+      "link": "https://thanhnien.vn/thu-truong-bo-xay-dung-nguyen-viet-hung-lam-pho-bi-thu-tinh-uy-khanh-hoa-185260326124711594.htm",
+      "summary": "Ông Nguyễn Việt Hùng, Thứ trưởng Bộ Xây dựng, được Trung ương điều động, chỉ định giữ chức Phó bí thư Tỉnh ủy Khánh Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:04:00+07:00",
+      "fetched": "2026-03-26T14:03:54.979195+07:00"
+    },
+    {
+      "id": "7c40385fec131ef057e453ee68b6f8e7",
+      "title": "Nhà xã hội hơn 1 tỷ đồng mỗi căn ở Hà Nội sắp được mở bán",
+      "link": "https://vnexpress.net/nha-xa-hoi-hon-1-ty-dong-moi-can-o-ha-noi-sap-duoc-mo-ban-5055033.html",
+      "summary": "Dự án nhà ở xã hội ở xã Ngọc Hồi, giá tạm tính gần 25 triệu đồng một m2 bắt đầu nhận hồ sơ đăng ký mua, thuê mua từ 25/4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:00:52+07:00",
+      "fetched": "2026-03-26T14:03:51.504499+07:00"
+    },
+    {
+      "id": "290cb8131ba86b1234e341bbc3b7969d",
+      "title": "Anh khiến người mới quen có bầu rồi bỏ rơi tôi",
+      "link": "https://vnexpress.net/anh-khien-nguoi-moi-quen-co-bau-roi-bo-roi-toi-5053043.html",
+      "summary": "Tôi đau và sốc khi để mất anh ấy, người mà tôi đã quá yêu thương và thần tượng, thậm chí yêu anh hơn cả bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:00:00+07:00",
+      "fetched": "2026-03-26T14:03:51.504686+07:00"
+    },
+    {
+      "id": "76cf0643a9106b92cb89c4da6e2b0ff3",
+      "title": "Phát hiện ung thư phổi từ triệu chứng ho",
+      "link": "https://vnexpress.net/phat-hien-ung-thu-phoi-tu-trieu-chung-ho-5055036.html",
+      "summary": "Bà Lan, 60 tuổi, ho kéo dài một tháng, sinh thiết xác định ung thư phổi, được bác sĩ phẫu thuật triệt bệnh ở giai đoạn sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:00:00+07:00",
+      "fetched": "2026-03-26T14:03:51.504840+07:00"
+    },
+    {
+      "id": "3ab3f13f64f87737de858dc4d5f04cc2",
+      "title": "Dấu hiệu cảnh báo trẻ cận thị",
+      "link": "https://vnexpress.net/dau-hieu-canh-bao-tre-can-thi-5055023.html",
+      "summary": "Khó nhìn xa, nheo mắt khi nhìn, thường xuyên mỏi mắt và nhức đầu có thể là dấu hiệu trẻ bị cận thị mà phụ huynh không nên bỏ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:00:00+07:00",
+      "fetched": "2026-03-26T14:03:51.505000+07:00"
+    },
+    {
+      "id": "d4e4d3f1f356f84f048abb4e63f3ad4c",
+      "title": "Xác định đối thủ cực mạnh của Trần Quyết Chiến: Tranh giải thưởng tiền tỉ",
+      "link": "https://thanhnien.vn/xac-dinh-doi-thu-cuc-manh-cua-tran-quyet-chien-tranh-giai-thuong-tien-ti-185260326125741455.htm",
+      "summary": "Giải billiards carom 3 băng World Masters 2026 tại Bồ Đào Nha quy tụ 24 tay cơ hàng đầu thế giới. Với giải thưởng cho nhà vô địch lên đến hơn 1 tỉ đồng, đây là thử thách cực đại cho Trần Quyết Chiến cùng đồng đội trên hành trình khẳng định vị thế trên đấu trường quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T06:00:00+07:00",
+      "fetched": "2026-03-26T14:03:54.979347+07:00"
+    },
+    {
+      "id": "32b9f5322947c640af260ebc99fa2cb7",
+      "title": "Nhà đồng sáng lập thứ 10 rời xAI",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-thu-10-roi-xai-5055013.html",
+      "summary": "Manuel Kroiss, một trong 12 thành viên sáng lập XAI, được cho là đã nghỉ việc tại công ty của Elon Musk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T05:46:29+07:00",
+      "fetched": "2026-03-26T14:03:51.505168+07:00"
+    },
+    {
+      "id": "32b9f5322947c640af260ebc99fa2cb7",
+      "title": "Nhà đồng sáng lập thứ 10 rời xAI",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-thu-10-roi-xai-5055013.html",
+      "summary": "Manuel Kroiss, một trong 12 thành viên sáng lập XAI, được cho là đã nghỉ việc tại công ty của Elon Musk.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2026-03-26T05:46:29+07:00",
+      "fetched": "2026-03-26T14:04:03.366994+07:00"
+    },
+    {
+      "id": "5d1ba776f5fa3cd22dec726942b8b5e1",
+      "title": "Bảo Ngọc diễn vũ điệu sắc màu cùng thí sinh Miss World Vietnam",
+      "link": "https://vnexpress.net/bao-ngoc-dien-vu-dieu-sac-mau-cung-thi-sinh-miss-world-vietnam-5055006.html",
+      "summary": "Hoa hậu Bảo Ngọc cùng 47 thí sinh Miss World Vietnam nhảy múa trong trang phục tôn vinh nét văn hóa ba miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T05:34:54+07:00",
+      "fetched": "2026-03-26T14:03:51.505324+07:00"
+    },
+    {
       "id": "a1cf60bd0555bf81b7575f56e5a06187",
       "title": "Người xây nhà ‘toát mồ hôi hột’ vì giá vật liệu leo thang",
       "link": "https://thanhnien.vn/nguoi-xay-nha-toat-mo-hoi-hot-vi-gia-vat-lieu-leo-thang-185260326120040828.htm",
@@ -331,6 +741,16 @@ window.newsData_2026_03_26 = {
       "category": "Tổng hợp",
       "published": "2026-03-26T05:29:00+07:00",
       "fetched": "2026-03-26T12:39:49.843533+07:00"
+    },
+    {
+      "id": "877527db02bb03e0b7392e24a74516bd",
+      "title": "Đà Nẵng điều chỉnh quy hoạch dự án bến du thuyền của Quốc Cường Gia Lai",
+      "link": "https://vnexpress.net/da-nang-dieu-chinh-quy-hoach-du-an-ben-du-thuyen-cua-quoc-cuong-gia-lai-5055047.html",
+      "summary": "UBND Đà Nẵng vừa điều chỉnh quy hoạch chi tiết 1/500 dự án Bất động sản và bến du thuyền tại Sơn Trà theo hướng tăng diện tích cây xanh, mở rộng không gian công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T05:27:48+07:00",
+      "fetched": "2026-03-26T14:03:51.505669+07:00"
     },
     {
       "id": "9aa6cdd745d65761d7c8b71372cc14b8",
@@ -381,6 +801,16 @@ window.newsData_2026_03_26 = {
       "category": "Tổng hợp",
       "published": "2026-03-26T05:18:00+07:00",
       "fetched": "2026-03-26T12:39:49.844166+07:00"
+    },
+    {
+      "id": "792656821571d00070eac6a9829756e1",
+      "title": "Bầu Chủ tịch nước, Thủ tướng và Chủ tịch Quốc hội khóa mới vào đầu tháng 4",
+      "link": "https://vnexpress.net/bau-chu-tich-nuoc-thu-tuong-va-chu-tich-quoc-hoi-khoa-moi-vao-dau-thang-4-5055077.html",
+      "summary": "Quốc hội sẽ kiện toàn các chức danh Chủ tịch nước, Thủ tướng, Chủ tịch Quốc hội, Phó chủ tịch Quốc hội, Phó thủ tướng nhiệm kỳ 2026-2031 tại kỳ họp thứ nhất, diễn ra đầu tháng 4.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-26T05:17:03+07:00",
+      "fetched": "2026-03-26T14:03:51.505974+07:00"
     },
     {
       "id": "5a022f1285200f4288f9e4369bd10551",
