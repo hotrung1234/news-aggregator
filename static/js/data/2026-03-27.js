@@ -1,7 +1,157 @@
 window.newsData_2026_03_27 = {
   "date": "2026-03-27",
-  "lastUpdated": "2026-03-27T14:03:32.093409+07:00",
+  "lastUpdated": "2026-03-27T15:48:38.001625+07:00",
   "articles": [
+    {
+      "id": "2975fe2e91a141dfebcda6e80db39a0b",
+      "title": "Bảo trì nhà máy, nước sẽ bị yếu tại 37 phường, xã ở TP.HCM cuối tuần này",
+      "link": "https://tuoitre.vn/bao-tri-nha-may-nuoc-se-bi-yeu-tai-37-phuong-xa-o-tp-hcm-cuoi-tuan-nay-2026032712000662.htm",
+      "summary": "Tổng công ty Cấp nước Sài Gòn TNHH MTV (SAWACO) thực hiện bảo trì nhà máy nước và trạm bơm nên một số phường xã bị nước yếu từ tối 28 (thứ Bảy) đến sáng 29-3 (Chủ nhật) này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.399575+07:00",
+      "fetched": "2026-03-27T15:48:29.399687+07:00"
+    },
+    {
+      "id": "9ba6b8e360f0ee21f745dc29f212c81a",
+      "title": "Thanh long, chanh leo, sầu riêng xuất khẩu sang EU đang bị kiểm soát thế nào?",
+      "link": "https://tuoitre.vn/thanh-long-chanh-leo-sau-rieng-xuat-khau-sang-eu-dang-bi-kiem-soat-the-nao-20260327120817787.htm",
+      "summary": "Theo Bộ Nông nghiệp và Môi trường, hiện nay thanh long Việt Nam xuất khẩu sang Liên minh châu Âu (EU) đang bị kiểm tra tại cửa khẩu với tần suất 30%, ớt 50%, đậu bắp 50%, sầu riêng 20%, còn chanh leo chưa thuộc diện bị kiểm soát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.399451+07:00",
+      "fetched": "2026-03-27T15:48:29.399561+07:00"
+    },
+    {
+      "id": "45cf268ce25f9b3a0620bf95c6193696",
+      "title": "TP.HCM tri ân lãnh đạo các thời kỳ của ngành thể dục thể thao",
+      "link": "https://tuoitre.vn/tp-hcm-tri-an-lanh-dao-cac-thoi-ky-cua-nganh-the-duc-the-thao-20260327131029126.htm",
+      "summary": "Nhân kỷ niệm ngày đặc biệt của ngành thể dục thể thao, TP.HCM đã có hoạt động đặc biệt, ý nghĩa dành cho những người có nhiều tâm huyết với ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.399330+07:00",
+      "fetched": "2026-03-27T15:48:29.399440+07:00"
+    },
+    {
+      "id": "b955e50054cdab8becc5e3e2b32af74a",
+      "title": "Huỳnh Như cùng CLB nữ TP.HCM muốn tái lập chiến tích châu lục",
+      "link": "https://tuoitre.vn/huynh-nhu-cung-clb-nu-tp-hcm-muon-tai-lap-chien-tich-chau-luc-20260327125448804.htm",
+      "summary": "Phát biểu trước trận tứ kết AFC Champions League nữ 2025-2026, đội trưởng Huỳnh Như muốn cùng CLB nữ TP.HCM tái lập thành tích vào bán kết hoặc tiến xa hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.399202+07:00",
+      "fetched": "2026-03-27T15:48:29.399318+07:00"
+    },
+    {
+      "id": "d008156e040ecf0c3507144adf658e4d",
+      "title": "Trường đại học Y khoa Phạm Ngọc Thạch tăng học phí cao nhất gần 47%, các trường y dược khác ra sao?",
+      "link": "https://tuoitre.vn/truong-dai-hoc-y-khoa-pham-ngoc-thach-tang-hoc-phi-cao-nhat-gan-47-cac-truong-y-duoc-khac-ra-sao-20260327123805925.htm",
+      "summary": "Trường đại học Y khoa Phạm Ngọc Thạch công bố mức học phí dự kiến năm học 2026 - 2027 tăng đột biến, trong đó 2 ngành cao nhất lên đến 81 triệu đồng, tăng gần 47% so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.399052+07:00",
+      "fetched": "2026-03-27T15:48:29.399190+07:00"
+    },
+    {
+      "id": "cc6f99b3cb77c11897744e252ab5f847",
+      "title": "Văn kiện Đại hội XIV của Đảng thể hiện tầm nhìn phát triển dài hạn, toàn diện, xuyên suốt",
+      "link": "https://tuoitre.vn/van-kien-dai-hoi-xiv-cua-dang-moi-me-trong-tam-nhin-phat-trien-dai-han-toan-dien-xuyen-suot-2026032708544873.htm",
+      "summary": "Nhiều chuyên gia đánh giá nội dung trong Văn kiện Đại hội XIV của Đảng thể hiện rõ ràng tầm nhìn phát triển đất nước mang tính dài hạn, toàn diện và xuyên suốt, gắn với hai mốc kỷ niệm 100 năm lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398925+07:00",
+      "fetched": "2026-03-27T15:48:29.399040+07:00"
+    },
+    {
+      "id": "d5530e8b86c198ad2fc7437dc67b7cf5",
+      "title": "Đang chạy thì đau sốc hông - sườn: Có nguy hiểm không?",
+      "link": "https://tuoitre.vn/dang-chay-thi-dau-soc-hong-suon-co-nguy-hiem-khong-20260327133525637.htm",
+      "summary": "Cơn đau nhói dưới sườn khi đang chạy bộ hay bơi lội được gọi là ETAP (đau bụng thoáng qua do vận động), là nỗi ám ảnh của 70% người tập thể thao. Nguyên nhân cốt lõi thường đến từ việc kích ứng màng lót ổ bụng hoặc sự mệt mỏi của cơ hoành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398792+07:00",
+      "fetched": "2026-03-27T15:48:29.398910+07:00"
+    },
+    {
+      "id": "6ff631692e1f2712addf4a82b50cc534",
+      "title": "TTC IZ chủ động hiện thực hóa lộ trình xây dựng khu công nghiệp sinh thái",
+      "link": "https://tuoitre.vn/ttc-iz-chu-dong-hien-thuc-hoa-lo-trinh-xay-dung-khu-cong-nghiep-sinh-thai-20260327112609303.htm",
+      "summary": "TTC IZ đã phối hợp cùng OCB và Tổ chức Tài chính Quốc tế (IFC) tổ chức chương trình đào tạo chuyên đề “Công trình xanh - Green Building”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398670+07:00",
+      "fetched": "2026-03-27T15:48:29.398781+07:00"
+    },
+    {
+      "id": "57a48005fc748faab027d26eafb0d1f4",
+      "title": "Dự án trục đại lộ cảnh quan sông Hồng: Cộng đồng bày tỏ quan ngại về phương án giải tỏa quy mô lớn",
+      "link": "https://tuoitre.vn/du-an-truc-dai-lo-canh-quan-song-hong-cong-dong-bay-to-quan-ngai-ve-phuong-an-giai-toa-quy-mo-lon-20260327133323395.htm",
+      "summary": "UBND TP Hà Nội vừa có tờ trình gửi HĐND TP Hà Nội việc thông qua quy hoạch tổng thể thủ đô tầm nhìn 100 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398550+07:00",
+      "fetched": "2026-03-27T15:48:29.398659+07:00"
+    },
+    {
+      "id": "4806bc08c43cfe171447813039183900",
+      "title": "Eo biển Hormuz: Tàu Thái Lan mắc cạn sau 2 tuần bị tấn công, tàu Malaysia được phép đi qua",
+      "link": "https://tuoitre.vn/eo-bien-hormuz-tau-thai-lan-mac-can-sau-2-tuan-bi-tan-cong-tau-malaysia-duoc-phep-di-qua-20260327111537471.htm",
+      "summary": "Sau 2 tuần bị tấn công ở eo biển Hormuz, tàu hàng Thái Lan đã mắc cạn ngoài khơi đảo Qeshm (Iran) và vẫn còn ba thuyền viên mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398428+07:00",
+      "fetched": "2026-03-27T15:48:29.398538+07:00"
+    },
+    {
+      "id": "512febbe5176e444ace14986633149a9",
+      "title": "Nhà máy thủy điện lớn nhất miền Nam giải bài toán nhiên liệu, vật liệu thi công",
+      "link": "https://tuoitre.vn/nha-may-thuy-dien-lon-nhat-mien-nam-giai-bai-toan-nhien-lieu-vat-lieu-thi-cong-2026032713504412.htm",
+      "summary": "Mặc dù gặp khó khăn trong nguồn cung ứng vật liệu xây dựng, song dự án Nhà máy thủy điện Trị An mở rộng đang tập trung đẩy nhanh tiến độ để kịp hoàn thành vào cuối năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398295+07:00",
+      "fetched": "2026-03-27T15:48:29.398416+07:00"
+    },
+    {
+      "id": "be4deaf43e9a4ecfe67a03a36cab9363",
+      "title": "Hoán cải thành xe chạy bằng than củi để không phải đổ xăng",
+      "link": "https://tuoitre.vn/hoan-cai-thanh-xe-chay-bang-than-cui-de-khong-phai-do-xang-20260326181528829.htm",
+      "summary": "Một người đàn ông Cuba tự chế hệ thống đặc biệt để hoán cải chiếc xe cũ chạy bằng than củi - giải pháp \"bất đắc dĩ\" nhưng hiệu quả khi không muốn mang xe đi đổ xăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398164+07:00",
+      "fetched": "2026-03-27T15:48:29.398283+07:00"
+    },
+    {
+      "id": "f4c3be5df6e45ecb17d218b1c797c42d",
+      "title": "Xâm hại tình dục bé gái 13 tuổi, 2 thanh niên lãnh án tù",
+      "link": "https://tuoitre.vn/xam-hai-tinh-duc-be-gai-13-tuoi-2-thanh-nien-lanh-an-tu-2026032714170122.htm",
+      "summary": "Sáng 27-3, TAND TP.HCM đã xét xử và tuyên phạt Ông Văn Quốc (20 tuổi) 9 năm tù, phạt Lý Hải Đăng (21 tuổi, cùng trú tại TP Cần Thơ) 7 năm tù về tội hiếp dâm người dưới 16 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.398003+07:00",
+      "fetched": "2026-03-27T15:48:29.398150+07:00"
+    },
+    {
+      "id": "c09686b8290a1b0af5117cdbbedcb6a9",
+      "title": "Phi vụ rò rỉ thông tin điều tra cho 'trùm' thực phẩm chức năng giả",
+      "link": "https://tuoitre.vn/phi-vu-ro-ri-thong-tin-dieu-tra-cho-trum-thuc-pham-chuc-nang-gia-20260327140021305.htm",
+      "summary": "Nguyễn Danh Dũng bị cáo buộc khi là cán bộ Cục Cảnh sát môi trường đã báo tin mật cho \"trùm\" thực  phẩm chức năng giả về việc \"đang bị điều tra\" và hướng dẫn cách xóa dấu vết, tiêu hủy tài liệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.397864+07:00",
+      "fetched": "2026-03-27T15:48:29.397990+07:00"
+    },
+    {
+      "id": "9b35c5a5a8f59d3ea4a6221ce344fc4f",
+      "title": "Chụp ảnh trộm người khác rồi sử dụng có vi phạm pháp luật?",
+      "link": "https://tuoitre.vn/chup-anh-trom-nguoi-khac-roi-su-dung-co-vi-pham-phap-luat-20260326101134542.htm",
+      "summary": "Bị chụp ảnh trộm rồi đăng lên mạng xã hội, vậy tôi có thể yêu cầu pháp luật xử lý không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T15:48:29.397640+07:00",
+      "fetched": "2026-03-27T15:48:29.397848+07:00"
+    },
     {
       "id": "baaff10a4293104ead33483e293278f2",
       "title": "Tại sao Hữu Quốc gọi Lê Thiện là bố?",
@@ -441,6 +591,376 @@ window.newsData_2026_03_27 = {
       "category": "Tổng hợp",
       "published": "2026-03-27T09:05:27.635940+07:00",
       "fetched": "2026-03-27T09:05:27.636142+07:00"
+    },
+    {
+      "id": "f53435f8675eeb0d2b3cf70a1825fdec",
+      "title": "Sâm Ngọc Linh giả tràn lan, Đà Nẵng triển khai kiểm định ADN 'soi' chất lượng",
+      "link": "https://thanhnien.vn/sam-ngoc-linh-gia-tran-lan-da-nang-trien-khai-kiem-dinh-adn-soi-chat-luong-185260327145033547.htm",
+      "summary": "Trước thực trạng sâm Ngọc Linh giả, không rõ nguồn gốc 'lộng hành', thành phố Đà Nẵng đầu tư hệ thống kiểm định ADN và phân tích hoạt chất saponin, xem đây là 'lá chắn công nghệ' giúp bảo vệ thương hiệu quốc bảo Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:41:00+07:00",
+      "fetched": "2026-03-27T15:48:27.868313+07:00"
+    },
+    {
+      "id": "da070a5a431393982b7e1c3e31eff387",
+      "title": "Mỹ triển khai xuồng không người lái trong xung đột với Iran",
+      "link": "https://vnexpress.net/my-trien-khai-xuong-khong-nguoi-lai-trong-xung-dot-voi-iran-5055543.html",
+      "summary": "Quân đội Mỹ lần đầu xác nhận sử dụng xuồng không người lái trong khuôn khổ chiến dịch tập kích Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T08:39:06+07:00",
+      "fetched": "2026-03-27T15:48:31.408902+07:00"
+    },
+    {
+      "id": "017d456a1c26f11d9909c4984482672b",
+      "title": "Hai thuyền cứu trợ mất liên lạc khi trên đường tới Cuba",
+      "link": "https://vnexpress.net/hai-thuyen-cuu-tro-mat-lien-lac-khi-tren-duong-toi-cuba-5055553.html",
+      "summary": "Hải quân Mexico cho biết đang tìm kiếm hai thuyền buồm bị mất liên lạc khi chở hàng viện trợ nhân đạo tới Cuba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T08:33:41+07:00",
+      "fetched": "2026-03-27T15:48:31.409093+07:00"
+    },
+    {
+      "id": "114cf64aaccdf1807e14c6b91dd87aa9",
+      "title": "DOTHANH AUTO ra mắt xe tải mới, khởi đầu kỷ nguyên mới",
+      "link": "https://thanhnien.vn/dothanh-auto-ra-mat-xe-tai-moi-khoi-dau-ky-nguyen-moi-185260327145836835.htm",
+      "summary": "Tuyên ngôn bước vào 'Kỷ nguyên mới, vươn tầm cao mới' sau gần 35 năm phát triển, DOTHANH AUTO công bố ra mắt DOTHANH JP120SL & JP120EXL - hai mẫu xe tải chiến lược mới, hợp tác với nhà sản xuất ô tô toàn cầu JMC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:30:00+07:00",
+      "fetched": "2026-03-27T15:48:27.868487+07:00"
+    },
+    {
+      "id": "85b5748e39e3fed18f1a9114230a70a9",
+      "title": "8 sai lầm thường gặp khi gội đầu",
+      "link": "https://vnexpress.net/8-sai-lam-thuong-gap-khi-goi-dau-5053577.html",
+      "summary": "Gội đầu bằng nước quá nóng, cào mạnh da đầu hay vò tóc bằng khăn là những thói quen khiến mái tóc ngày càng xơ xác, dễ gãy rụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:23:54+07:00",
+      "fetched": "2026-03-27T15:48:24.286035+07:00"
+    },
+    {
+      "id": "01b36e36c1bf6e5a531daf69f7ce8783",
+      "title": "'Nữ hoàng kungfu' Đài Loan hoài niệm về Trịnh Thiếu Thu",
+      "link": "https://vnexpress.net/nu-hoang-kungfu-dai-loan-hoai-niem-ve-trinh-thieu-thu-5055575.html",
+      "summary": "\"Đả nữ\" Đài Loan Dương Lệ Thanh nhớ kỷ niệm thời đóng \"Hương soái truyền kỳ\" với tài tử Trịnh Thiếu Thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:18:53+07:00",
+      "fetched": "2026-03-27T15:48:24.286242+07:00"
+    },
+    {
+      "id": "21af6f5635e433296c847a613913b626",
+      "title": "Ông Kim Jong-un nhận quà đặc biệt từ Tổng thống Belarus",
+      "link": "https://vnexpress.net/ong-kim-jong-un-nhan-qua-dac-biet-tu-tong-thong-belarus-5055580.html",
+      "summary": "Tổng thống Belarus Alexander Lukashenko tặng một khẩu súng cho ông Kim Jong-un, trong chuyến thăm chính thức đầu tiên của ông tới Triều Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:17:44+07:00",
+      "fetched": "2026-03-27T15:48:24.286408+07:00"
+    },
+    {
+      "id": "45e39668c2023e5fe26364d1498e93f2",
+      "title": "Vì sao thi giỏi nghề vẫn phải giỏi cả tiếng Anh?",
+      "link": "https://thanhnien.vn/vi-sao-thi-gioi-nghe-van-phai-gioi-ca-tieng-anh-185260327123136518.htm",
+      "summary": "Việc phần thi tiếng Anh xuất hiện tại hội thi học sinh, sinh viên giỏi nghề năm nay đang khiến nhiều người chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:15:00+07:00",
+      "fetched": "2026-03-27T15:48:27.868644+07:00"
+    },
+    {
+      "id": "5163377026c8b454f0d873ae0b02c706",
+      "title": "Biến thể Covid 'Ve sầu' siêu đột biến lây lan tại Mỹ",
+      "link": "https://vnexpress.net/bien-the-covid-ve-sau-sieu-dot-bien-lay-lan-tai-my-5055514.html",
+      "summary": "Biến thể Covid-19 mới BA.3.2, còn gọi Ve sầu, mang bộ gene siêu đột biến đang lây lan nhanh tại Mỹ cùng 23 quốc gia, nhưng ít có khả năng gây bệnh nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:11:14+07:00",
+      "fetched": "2026-03-27T15:48:24.286575+07:00"
+    },
+    {
+      "id": "24c8a052cda39526c03491fd2c6a9e99",
+      "title": "Bài toán gánh hàng rong và trật tự vỉa hè ở Hội An",
+      "link": "https://vnexpress.net/bai-toan-ganh-hang-rong-va-trat-tu-via-he-o-hoi-an-5055502.html",
+      "summary": "Làm cách nào vừa giữ gánh hàng rong truyền thống - nét văn hóa của Hội An, vừa giữ gìn trật tự vỉa hè là bài toán buộc chính quyền phải tính toán cẩn trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:07:11+07:00",
+      "fetched": "2026-03-27T15:48:24.286735+07:00"
+    },
+    {
+      "id": "0b559c89874fe1f6fb9e76d09799b22c",
+      "title": "Thể thao Việt Nam kỳ vọng kiếm tiền tỉ, trở thành trụ cột tăng trưởng mới của đất nước",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-ky-vong-tao-co-may-kiem-tien-ti-tro-thanh-tru-cot-tang-truong-moi-cua-dat-nuoc-185260327143746203.htm",
+      "summary": "Sáng 27.3, tại Melia Hanoi, Diễn đàn Kinh tế thể thao Việt Nam 2026 (VSES 2026) đã diễn ra với sự tham gia của khoảng 300 đại biểu đến từ cơ quan quản lý, doanh nghiệp, nhà đầu tư và giới chuyên gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:03:00+07:00",
+      "fetched": "2026-03-27T15:48:27.868795+07:00"
+    },
+    {
+      "id": "2e42ed2f5bcab10c5afeb3aa11c8ec4e",
+      "title": "Bạn có phải là bậc thầy sắp đặt que diêm trong 10 giây?",
+      "link": "https://vnexpress.net/ban-co-phai-la-bac-thay-sap-dat-que-diem-trong-10-giay-5049806.html",
+      "summary": "Đây là bài tập \"yoga cho não\" tuyệt vời giúp bạn vừa giải tỏa căng thẳng, vừa kích thích tư duy sáng tạo một cách đầy hứng khởi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:48:24.286895+07:00"
+    },
+    {
+      "id": "9371bca4215594a7a1feb8b306d3e440",
+      "title": "Những loại thực phẩm tưởng tốt hóa ra chứa nhiều đường",
+      "link": "https://vnexpress.net/nhung-loai-thuc-pham-tuong-tot-hoa-ra-chua-nhieu-duong-5055555.html",
+      "summary": "Nước ép trái cây, ngũ cốc ăn liền tưởng lành mạnh nhưng lại chứa nhiều đường, calo và phụ gia, dễ gây tăng cân và rối loạn chuyển hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:48:24.287054+07:00"
+    },
+    {
+      "id": "7fd2e66e1bb8fdf542823ead3b1ed1b1",
+      "title": "Cường giáp gây giảm cân đột ngột",
+      "link": "https://vnexpress.net/cuong-giap-gay-giam-can-dot-ngot-5055540.html",
+      "summary": "Chị Hà, 32 tuổi, đột ngột giảm 6 kg trong 6 tháng, bác sĩ phát hiện nguyên nhân do cường giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:48:24.287234+07:00"
+    },
+    {
+      "id": "61425bada3b557e3a2d2b421caa1b900",
+      "title": "'Trạm sức khỏe' đồng hành nâng cao thể trạng tuổi trung niên",
+      "link": "https://vnexpress.net/tram-suc-khoe-dong-hanh-nang-cao-the-trang-tuoi-trung-nien-5055118.html",
+      "summary": "Dự án \"Trạm sức khỏe\" của VitaDairy thu hút người dân tham gia trải nghiệm, tư vấn dinh dưỡng, góp phần nâng cao thể trạng tuổi trung niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:48:24.287382+07:00"
+    },
+    {
+      "id": "ac844aec45ecab11a8576417be757b79",
+      "title": "Khóa học SEO Trần Tiến Duy: Giải pháp tối ưu website cho doanh nghiệp thời đại số",
+      "link": "https://thanhnien.vn/khoa-hoc-seo-tran-tien-duy-giai-phap-toi-uu-website-cho-doanh-nghiep-thoi-dai-so-185260327143419278.htm",
+      "summary": "Trong bối cảnh chuyển đổi số mạnh mẽ, SEO website đã trở thành một trong những kênh marketing bền vững giúp doanh nghiệp tiếp cận khách hàng trên Google. Trước nhu cầu đó, Khóa học SEO Trần Tiến Duy đang được nhiều doanh nghiệp quan tâm như một giải pháp đào tạo và cố vấn SEO thực chiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T08:00:00+07:00",
+      "fetched": "2026-03-27T15:48:27.868944+07:00"
+    },
+    {
+      "id": "7691e31ebf94442cc557a74cf8dd5ebe",
+      "title": "Thay khớp háng thành công cho cụ bà 87 tuổi, phục hồi vận động sau 5 ngày",
+      "link": "https://thanhnien.vn/thay-khop-hang-thanh-cong-cho-cu-ba-87-tuoi-phuc-hoi-van-dong-sau-5-ngay-185260327150324375.htm",
+      "summary": "Ngày 27.3, tin từ Bệnh viện đa khoa Hoàn Mỹ Cửu Long cho biết, các bác sĩ của bệnh viện vừa phẫu thuật thay khớp háng thành công cho bệnh nhân 87 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:59:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869116+07:00"
+    },
+    {
+      "id": "6b5f0ba9ea354253b173e25c773f0e94",
+      "title": "Có được sử dụng tài khoản hộ kinh doanh song song tài khoản cá nhân không?",
+      "link": "https://thanhnien.vn/co-duoc-su-dung-tai-khoan-ho-kinh-doanh-song-song-tai-khoan-ca-nhan-khong-185260327145248106.htm",
+      "summary": "Có được sử dụng song song hai tài khoản hay không là thắc mắc của một số hộ kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:58:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869268+07:00"
+    },
+    {
+      "id": "65d506fb2cce0ed00c54a15e34f72a97",
+      "title": "Làm rõ điểm mới Văn kiện Đại hội XIV, bảo vệ nền tảng tư tưởng của Đảng",
+      "link": "https://thanhnien.vn/lam-ro-diem-moi-van-kien-dai-hoi-xiv-bao-ve-nen-tang-tu-tuong-cua-dang-185260327141019244.htm",
+      "summary": "Hội thảo tại Học viện Chính trị khu vực II làm rõ nội dung mới trong Văn kiện Đại hội XIV, đề xuất giải pháp bảo vệ nền tảng tư tưởng của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:57:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869423+07:00"
+    },
+    {
+      "id": "7d9eac1de2dbfd8ac37f05b3fff6d9e2",
+      "title": "Cuộc chiến giành 'cái chết êm dịu' của cô gái 25 tuổi",
+      "link": "https://vnexpress.net/cuoc-chien-gianh-cai-chet-em-diu-cua-co-gai-25-tuoi-5055385.html",
+      "summary": "Noelia Castillo, cô gái bị liệt sau những biến cố cuộc đời, chính thức được thực hiện nguyện vọng an tử tại Tây Ban Nha, sau cuộc chiến pháp lý kéo dài với cha ruột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:56:30+07:00",
+      "fetched": "2026-03-27T15:48:24.287538+07:00"
+    },
+    {
+      "id": "4550e416212934a212f513c6ee73af3b",
+      "title": "Tổng thống Maduro nói không đủ tiền trả chi phí pháp lý",
+      "link": "https://vnexpress.net/tong-thong-maduro-noi-khong-du-tien-tra-chi-phi-phap-ly-5055509.html",
+      "summary": "Tổng thống Maduro xuất hiện tại tòa án ở Mỹ lần thứ hai và cho biết vợ chồng ông không đủ tiền trả chi phí pháp lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:55:16+07:00",
+      "fetched": "2026-03-27T15:48:24.287686+07:00"
+    },
+    {
+      "id": "4550e416212934a212f513c6ee73af3b",
+      "title": "Tổng thống Maduro nói không đủ tiền trả chi phí pháp lý",
+      "link": "https://vnexpress.net/tong-thong-maduro-noi-khong-du-tien-tra-chi-phi-phap-ly-5055509.html",
+      "summary": "Tổng thống Maduro xuất hiện tại tòa án ở Mỹ lần thứ hai và cho biết vợ chồng ông không đủ tiền trả chi phí pháp lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:55:16+07:00",
+      "fetched": "2026-03-27T15:48:31.409264+07:00"
+    },
+    {
+      "id": "096daf4dbd22c8e39b46211f9ee26558",
+      "title": "Iran dọa tập kích 'khách sạn tiếp nhận lính Mỹ'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-khach-san-tiep-nhan-linh-my-5055439.html",
+      "summary": "Hãng tin thân cận với Vệ binh Iran cho biết những khách sạn tại Trung Đông cho lính Mỹ lưu trú sẽ bị coi là \"mục tiêu quân sự hợp pháp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:54:51+07:00",
+      "fetched": "2026-03-27T15:48:24.287834+07:00"
+    },
+    {
+      "id": "096daf4dbd22c8e39b46211f9ee26558",
+      "title": "Iran dọa tập kích 'khách sạn tiếp nhận lính Mỹ'",
+      "link": "https://vnexpress.net/iran-doa-tap-kich-khach-san-tiep-nhan-linh-my-5055439.html",
+      "summary": "Hãng tin thân cận với Vệ binh Iran cho biết những khách sạn tại Trung Đông cho lính Mỹ lưu trú sẽ bị coi là \"mục tiêu quân sự hợp pháp\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:54:51+07:00",
+      "fetched": "2026-03-27T15:48:31.409427+07:00"
+    },
+    {
+      "id": "98ea506782b99f4f42a93545a407919b",
+      "title": "Phó chủ tịch UBND TP.HCM Trần Thị Diệu Thúy giao nhiệm vụ cho ngành TDTT TP.HCM",
+      "link": "https://thanhnien.vn/pho-chu-tich-ubnd-tphcm-tran-thi-dieu-thuy-giao-nhiem-vu-cho-nganh-tdtt-tphcm-185260327142650441.htm",
+      "summary": "Ngày 27.3, UBND TP.HCM cùng Sở VH-TT TP.HCM tổ chức lễ kỷ niệm 80 năm Ngày truyền thống ngành Thể dục thể thao Việt Nam và 50 năm ngành thể dục thể thao TP.HCM, với chủ đề 'Tự hào truyền thống - Vững bước tương lai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:47:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869569+07:00"
+    },
+    {
+      "id": "c4cfb4459ad0b3a6910ee56c4e4f5f50",
+      "title": "Trang Pháp thi 'Đạp gió' của Trung Quốc",
+      "link": "https://vnexpress.net/trang-phap-thi-dap-gio-cua-trung-quoc-5055505.html",
+      "summary": "Ca sĩ Trang Pháp thi \"Tỷ tỷ đạp gió rẽ sóng\", chương trình truyền hình đình đám của đài Hồ Nam, phiên bản gốc show \"Chị đẹp\" tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:43:56+07:00",
+      "fetched": "2026-03-27T15:48:24.288000+07:00"
+    },
+    {
+      "id": "f99ea241ad3248939dd5c2dfb7cc12e2",
+      "title": "Ba trụ cột tạo lợi thế cạnh tranh chiến lược cho quốc gia",
+      "link": "https://vnexpress.net/ba-tru-cot-tao-loi-the-canh-tranh-chien-luoc-cho-quoc-gia-5055572.html",
+      "summary": "Tôi kiến nghị Bộ Khoa học và Công nghệ Việt Nam tăng cường thúc đẩy các chương trình học tập, nghiên cứu và hợp tác quốc tế trong các lĩnh vực AI và công nghệ lượng tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:42:13+07:00",
+      "fetched": "2026-03-27T15:48:24.288137+07:00"
+    },
+    {
+      "id": "2face4b3eae8e55ab4ad5eb46dc3c453",
+      "title": "Giá xăng dầu đe dọa du lịch Đông Nam Á",
+      "link": "https://vnexpress.net/gia-xang-dau-de-doa-du-lich-dong-nam-a-5054934.html",
+      "summary": "Xung đột tại Trung Đông khiến giá nhiên liệu tăng cao, kéo theo chi phí vận chuyển đắt đỏ và ảnh hưởng trực tiếp đến đà phục hồi của ngành du lịch khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:36:54+07:00",
+      "fetched": "2026-03-27T15:48:24.288304+07:00"
+    },
+    {
+      "id": "d6e7814f94ca31ee1d699289997e3c76",
+      "title": "Home Credit lợi nhuận sau thuế đạt 2.076 tỉ đồng nhờ quản trị rủi ro chặt chẽ",
+      "link": "https://thanhnien.vn/home-credit-loi-nhuan-sau-thue-dat-2076-ti-dong-nho-quan-tri-rui-ro-chat-che-185260327144448115.htm",
+      "summary": "Năm 2025, Home Credit Việt Nam tiếp tục ghi nhận lợi nhuận đạt mốc kỷ lục mới. Doanh thu tăng, chi phí được tối ưu và nợ xấu được kiểm soát là động lực cho lợi nhuận của công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:36:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869714+07:00"
+    },
+    {
+      "id": "454f0537d5a903a693405ec25654d161",
+      "title": "Thủ đoạn mới đánh cắp tài khoản Facebook tinh vi hơn bao giờ hết",
+      "link": "https://thanhnien.vn/thu-doan-moi-danh-cap-tai-khoan-facebook-tinh-vi-hon-bao-gio-het-18526032711262976.htm",
+      "summary": "Một chiến dịch lừa đảo trực tuyến mới đang khiến người dùng Facebook đối mặt nguy cơ mất tài khoản, với thủ đoạn ngày càng tinh vi và khó nhận biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:32:00+07:00",
+      "fetched": "2026-03-27T15:48:27.869857+07:00"
+    },
+    {
+      "id": "02ab77c954a128abc635ef4f2ed056ef",
+      "title": "Audemars Piguet sắp có cửa hàng tại TP HCM",
+      "link": "https://vnexpress.net/audemars-piguet-sap-co-cua-hang-tai-tp-hcm-5055551.html",
+      "summary": "Boutique thứ hai toàn cầu của Audemars Piguet mang diện mạo kiến trúc mới, đặt tại Union Square, dự kiến khai trương vào tháng 5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T07:30:00+07:00",
+      "fetched": "2026-03-27T15:48:33.125743+07:00"
+    },
+    {
+      "id": "c5276273267f359c57f333cc53883a6e",
+      "title": "Nhà máy chế biến thực phẩm C.P. Củ Chi tăng sản lượng 10 lần sau 10 năm",
+      "link": "https://thanhnien.vn/nha-may-che-bien-thuc-pham-cp-cu-chi-tang-san-luong-10-lan-sau-10-nam-185260327142601035.htm",
+      "summary": "Sau 10 năm đi vào hoạt động tại Khu công nghiệp Tân Phú Trung, xã Củ Chi (TP. HCM), nhà máy C.P. Củ Chi của Công ty Chăn nuôi C.P. Việt Nam dự kiến đạt công suất 33.000 tấn trong năm nay, tăng gần 10 lần so với năm 2016.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:29:00+07:00",
+      "fetched": "2026-03-27T15:48:27.870002+07:00"
+    },
+    {
+      "id": "2aa973ecf50f3bf41b25672229542087",
+      "title": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn về nơi an nghỉ cuối cùng",
+      "link": "https://thanhnien.vn/duc-hong-y-gioan-baotixita-pham-minh-man-ve-noi-an-nghi-cuoi-cung-185260327124048353.htm",
+      "summary": "Đức Hồng y Gioan Baotixita Phạm Minh Mẫn đã về nơi an nghỉ cuối cùng tại nhà nguyện Đại chủng viện Thánh Giuse Sài Gòn (số 6 Tôn Đức Thắng, phường Sài Gòn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:29:00+07:00",
+      "fetched": "2026-03-27T15:48:27.870176+07:00"
+    },
+    {
+      "id": "0642267932d74eacaca39f96b2202dc7",
+      "title": "Saigon Co.op giảm giá đến 50% hàng thiết yếu tiếp sức bà nội trợ",
+      "link": "https://thanhnien.vn/saigon-coop-giam-gia-den-50-hang-thiet-yeu-tiep-suc-ba-noi-tro-185260327141425368.htm",
+      "summary": "Saigon Co.op triển khai chương trình ưu đãi với mức giảm giá lên đến 50% cho hơn 1.000 mặt hàng thiết yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:28:00+07:00",
+      "fetched": "2026-03-27T15:48:27.870331+07:00"
+    },
+    {
+      "id": "957454d6220291d5357da7528d4d3122",
+      "title": "Nhờ AI bùng nổ, công nghiệp chip Trung Quốc tăng trưởng mạnh",
+      "link": "https://thanhnien.vn/nho-ai-bung-no-cong-nghiep-chip-trung-quoc-tang-truong-manh-185260326212256731.htm",
+      "summary": "Ngành công nghiệp chip của Trung Quốc đang cho thấy đà tăng trưởng mạnh mẽ khi cuộc chạy đua toàn cầu xây dựng cơ sở hạ tầng AI tạo ra sự bùng nổ về nhu cầu, dẫn đến chi tiêu vốn cao hơn và mở rộng năng lực sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2026-03-27T07:24:00+07:00",
+      "fetched": "2026-03-27T15:48:27.870474+07:00"
+    },
+    {
+      "id": "af947e112d49b6be60bea7f4b11c6270",
+      "title": "ADB: 10 nước ASEAN có thể giảm tới 2,3% GDP vì xung đột Trung Đông",
+      "link": "https://vnexpress.net/adb-10-nuoc-asean-co-the-giam-toi-2-3-gdp-vi-xung-dot-trung-dong-5055396.html",
+      "summary": "ADB cho rằng, tăng trưởng kinh tế của 10 nước khu vực ASEAN có thể giảm 0,6-2,3% trong giai đoạn 2026-2027 theo các kịch bản tác động từ xung đột Trung Đông.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2026-03-27T07:04:39+07:00",
+      "fetched": "2026-03-27T15:48:33.124135+07:00"
+    },
+    {
+      "id": "3fa0975bad70a984e97c723cd595d348",
+      "title": "Tổng thống Belarus tặng súng cho ông Kim Jong-un",
+      "link": "https://vnexpress.net/tong-thong-belarus-tang-sung-cho-ong-kim-jong-un-5055496.html",
+      "summary": "Ông Lukashenko tặng một khẩu súng trường tấn công VSK cho ông Kim nhân chuyến thăm đầu tiên tới Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2026-03-27T07:03:27+07:00",
+      "fetched": "2026-03-27T15:48:31.409594+07:00"
     },
     {
       "id": "79041db2b1a1efce148cedf79fca9213",
